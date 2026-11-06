@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### 1. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-91bedc06061ee3cb43ac221ba6ebf97e]
+### 1. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-91bedc06061ee3cb43ac221ba6ebf97e]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00008] is amended as follows.
 
@@ -119,7 +119,7 @@ Article 3
 - (c) in paragraph (g) for “the Authority” substitute “the FCA or the PRA”;
 - (d) in paragraph (i) for “Part IV permission” substitute “Part 4A permission”.
 
-### 2. The Consumer Credit Licensing (Representations) Order 1976[^key-ccf3e07134d2786ed370ad1761577d29]
+### 2. The Consumer Credit Licensing (Representations) Order 1976[^c-ccf3e07134d2786ed370ad1761577d29]
 
 In the Consumer Credit Licensing (Representations) Order 1976[^f00020]—
 
@@ -129,7 +129,7 @@ In the Consumer Credit Licensing (Representations) Order 1976[^f00020]—
 - (b) in article 3 (notice of hearing), after “section 34(1)” insert “or 34ZA(1)”;
 - (c) in article 6(1) (notice of Director’s determination), after “section 34(3)” insert “or 34ZA(3)”.
 
-### 3. The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^key-30a3eada9f97c7cf5c28108328ac5317]
+### 3. The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^c-30a3eada9f97c7cf5c28108328ac5317]
 
 (1) The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^f00021] is amended as follows.
 
@@ -220,14 +220,14 @@ In the Consumer Credit Licensing (Representations) Order 1976[^f00020]—
 - (c) in paragraph (g) for “the authority” substitute “the FCA or the PRA”;
 - (d) in paragraph (i) for “Part IV permission” substitute “Part 4A permission”.
 
-### 4. The Stamp Duty Reserve Tax Regulations 1986[^key-e1ddb7d74bd1c896d5662946037c8b96]
+### 4. The Stamp Duty Reserve Tax Regulations 1986[^c-e1ddb7d74bd1c896d5662946037c8b96]
 
 In the Stamp Duty Reserve Tax Regulations 1986[^f00033]—
 
 - (a) in regulation 2 (interpretation), in the definition of “accountable date”, for “Financial Services Authority” in each place it appears, substitute “Financial Conduct Authority”;
 - (b) in regulation 4A(1)(a)(ii) (notice of charge and payment), for “Financial Services Authority”, substitute “Financial Conduct Authority”.
 
-### 5. The Insolvency Rules 1986[^key-649360b430797cf8240bc6aa754285fe]
+### 5. The Insolvency Rules 1986[^c-649360b430797cf8240bc6aa754285fe]
 
 (1) The Insolvency Rules 1986[^f00034] are amended as follows.
 
@@ -251,14 +251,14 @@ In the Stamp Duty Reserve Tax Regulations 1986[^f00033]—
 
 (7) In rule 4.152(7) (membership of committee) for “Financial Services Authority” substitute “FCA or the PRA”.
 
-### 6. The Personal Pension Schemes (Disclosure of Information) Regulations 1987[^key-d83559c81c1966b15c7de3a528b27cf1]
+### 6. The Personal Pension Schemes (Disclosure of Information) Regulations 1987[^c-d83559c81c1966b15c7de3a528b27cf1]
 
 In the Personal Pension Schemes (Disclosure of Information) Regulations 1987[^f00035]—
 
 - (a) in regulation 6(5) (availability of other information), for “Chapter 10 (reports and accounts) of the Collective Investment Schemes Sourcebook made by the Financial Services Authority under Part X of the Financial Services and Markets Act 2000” substitute “section 4.5 (reports and accounts) of the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under Part 9A[^f00036] of the Financial Services and Markets Act 2000”;
 - (b) in paragraph 4 of Schedule 3 (other information), for “by section 10.3 (contents of annual and half-yearly reports) of the Collective Investment Schemes Sourcebook made by the Financial Services Authority under Part X of the Financial Services and Markets Act 2000” substitute “by section 4.5.7 (contents of the annual long report) and 4.5.8 (contents of the half-yearly long report) of the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under Part 9A of the Financial Services and Markets Act 2000”.
 
-### 7. The Insolvency (Northern Ireland) Order 1989[^key-9fc3f740f5d66fbe9d128e9ebf31b3ba]
+### 7. The Insolvency (Northern Ireland) Order 1989[^c-9fc3f740f5d66fbe9d128e9ebf31b3ba]
 
 In the Insolvency (Northern Ireland) Order 1989[^f00037]—
 
@@ -294,7 +294,7 @@ In the Insolvency (Northern Ireland) Order 1989[^f00037]—
       ;
 - (d) in paragraphs 41(2)(c), 43(4)(c) and 83(1)(c) of Schedule B1 (administration)[^f00041] for “Financial Services Authority” in each place it appears substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 8. The Insolvency Rules (Northern Ireland) 1991[^key-7e88ab3d069051f851ca765cdf511b35]
+### 8. The Insolvency Rules (Northern Ireland) 1991[^c-7e88ab3d069051f851ca765cdf511b35]
 
 The Insolvency Rules (Northern Ireland) 1991[^f00042] are amended as follows—
 
@@ -318,7 +318,7 @@ The Insolvency Rules (Northern Ireland) 1991[^f00042] are amended as follows—
   - (ii) in paragraphs (3), (4), (5) and (6) for “Authority” in each place substitute “FCA, the PRA”.
 - (f) in rule 4.160(7) (membership of committee) for “Financial Services Authority” substitute “FCA or PRA”.
 
-### 9. The Financial Markets and Insolvency Regulations 1991[^key-676d06ca296354f2a0e12089b10485e8]
+### 9. The Financial Markets and Insolvency Regulations 1991[^c-676d06ca296354f2a0e12089b10485e8]
 
 In regulation 16 of the Financial Markets and Insolvency Regulations 1991[^f00043] (circumstances in which member or designated non-member dealing as principal to be treated as acting in different capacities) for paragraph (1D) substitute—
 
@@ -326,7 +326,7 @@ In regulation 16 of the Financial Markets and Insolvency Regulations 1991[^f0004
 
 .
 
-### 10. The Act of Sederunt (Rules of the Court of Session 1994) 1994[^key-c7044c39107da074e47211ef0debebcc]
+### 10. The Act of Sederunt (Rules of the Court of Session 1994) 1994[^c-c7044c39107da074e47211ef0debebcc]
 
 In Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994[^f00045] (the rules of the Court of Session 1994)—
 
@@ -346,7 +346,7 @@ In Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994[^
   ;
 - (f) in paragraph 74.54(2)(k), for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 11. The Insolvent Partnerships Order 1994[^key-bfb6b96faeb3f705c0f95fcc821604d6]
+### 11. The Insolvent Partnerships Order 1994[^c-bfb6b96faeb3f705c0f95fcc821604d6]
 
 In the Insolvent Partnerships Order 1994[^f00046]—
 
@@ -369,7 +369,7 @@ In the Insolvent Partnerships Order 1994[^f00046]—
     ;
 - (b) in paragraph 17 of Schedule 2, in modified paragraph 42 of Schedule B1 to the Insolvency Act 1986, for “(petition by Financial Services Authority)” substitute “(winding-up petitions)”.
 
-### 12. The Credit Institutions (Protection of Depositors) Regulations 1995[^key-1a7b9a4dec46d4f2ecd76b30877e6c72]
+### 12. The Credit Institutions (Protection of Depositors) Regulations 1995[^c-1a7b9a4dec46d4f2ecd76b30877e6c72]
 
 In the Credit Institutions (Protection of Depositors) Regulations 1995[^f00047]—
 
@@ -404,15 +404,15 @@ In the Credit Institutions (Protection of Depositors) Regulations 1995[^f00047]�
     - (bb) in the second place in which it appears, for “the Authority” substitute “that regulator”;
     - (cc) for “section 45 of the 2000 Act” substitute “section 55J, 55L or 55M of the 2000 Act”.
 
-### 13. The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^key-5da8102552ac7529a92d1d316116a8a3]
+### 13. The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^c-5da8102552ac7529a92d1d316116a8a3]
 
 In paragraph 3 of Schedule 1 to the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00048] for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 14. The Occupational Pension Schemes (Transfer Values) Regulations 1996[^key-49eb4ce23aff325d39524ef543fd8e94]
+### 14. The Occupational Pension Schemes (Transfer Values) Regulations 1996[^c-49eb4ce23aff325d39524ef543fd8e94]
 
 In paragraph 3 of Schedule 1 to the Occupational Pension Schemes (Transfer Values) Regulations 1996[^f00049], for “the Financial Services Authority” substitute “the Financial Conduct Authority”.
 
-### 15. The Teachers’ Superannuation (Provision of Information and Administrative Expenses etc.) Regulations 1996[^key-2ad6b12f2b0bbffdbfad4cc55635c560]
+### 15. The Teachers’ Superannuation (Provision of Information and Administrative Expenses etc.) Regulations 1996[^c-2ad6b12f2b0bbffdbfad4cc55635c560]
 
 In the Teachers’ Superannuation (Provision of Information and Administrative Expenses etc.) Regulations 1996[^f00050]—
 
@@ -423,7 +423,7 @@ In the Teachers’ Superannuation (Provision of Information and Administrative E
 
   .
 
-### 16. The National Health Service Pension Scheme (Provision of Information and Administrative Expenses etc.) Regulations 1996[^key-33dbaead4383701c2434523c824969ef]
+### 16. The National Health Service Pension Scheme (Provision of Information and Administrative Expenses etc.) Regulations 1996[^c-33dbaead4383701c2434523c824969ef]
 
 In the National Health Service Pension Scheme (Provision of Information and Administrative Expenses etc.) Regulations 1996[^f00051]—
 
@@ -436,7 +436,7 @@ In the National Health Service Pension Scheme (Provision of Information and Admi
 
     .
 
-### 17. The Insurance Companies (Reserves) (Tax) Regulations 1996[^key-7dc158e9ec299b31d553cdfad06c2df7]
+### 17. The Insurance Companies (Reserves) (Tax) Regulations 1996[^c-7dc158e9ec299b31d553cdfad06c2df7]
 
 In the Insurance Companies (Reserves) (Tax) Regulations 1996[^f00052]—
 
@@ -469,7 +469,7 @@ In the Insurance Companies (Reserves) (Tax) Regulations 1996[^f00052]—
     ;
   - (ii) omit paragraph (7).
 
-### 18. The Local Government Pension Scheme Regulations 1997[^key-fb0599ad506ff4dee14a8a962872d1f6]
+### 18. The Local Government Pension Scheme Regulations 1997[^c-fb0599ad506ff4dee14a8a962872d1f6]
 
 In the Local Government Pension Scheme Regulations 1997[^f00053]—
 
@@ -480,7 +480,7 @@ In the Local Government Pension Scheme Regulations 1997[^f00053]—
 
   .
 
-### 19. The Firemen’s Pensions (Provision of Information) Regulations 1997[^key-96cb3a2ea8ebd0ca74d41a53329df0e7]
+### 19. The Firemen’s Pensions (Provision of Information) Regulations 1997[^c-96cb3a2ea8ebd0ca74d41a53329df0e7]
 
 In the Firemen’s Pensions (Provision of Information) Regulations 1997[^f00054]—
 
@@ -491,7 +491,7 @@ In the Firemen’s Pensions (Provision of Information) Regulations 1997[^f00054]
 
   .
 
-### 20. The Police Pensions (Provision of Information) Regulations 1997[^key-149f170166c298088107a629473aeadb]
+### 20. The Police Pensions (Provision of Information) Regulations 1997[^c-149f170166c298088107a629473aeadb]
 
 In the Police Pensions (Provision of Information) Regulations 1997[^f00055]—
 
@@ -502,11 +502,11 @@ In the Police Pensions (Provision of Information) Regulations 1997[^f00055]—
 
   .
 
-### 21. The Building Societies (Accounts and Related Provisions) Regulations 1998[^key-fabaff202823f93fe36fb9c7b4599221]
+### 21. The Building Societies (Accounts and Related Provisions) Regulations 1998[^c-fabaff202823f93fe36fb9c7b4599221]
 
 In paragraph 5 of Schedule 11 to the Building Societies (Accounts and Related Provisions) Regulations 1998[^f00056] for “which meets the criteria established by the competent authority (within the meaning of section 72 of the Financial Services and Markets Act 2000) and is included in a list maintained by that authority”, substitute “which meets the criteria established by the Financial Conduct Authority in exercise of its functions under Part 6 (official listing etc.) of the Financial Services and Markets Act 2000 and is included in a list maintained by the Financial Conduct Authority”.
 
-### 22. The Individual Savings Account Regulations 1998[^key-abf34836577a776c58a95849582a0656]
+### 22. The Individual Savings Account Regulations 1998[^c-abf34836577a776c58a95849582a0656]
 
 (1) The Individual Savings Account Regulations 1998[^f00057] are amended as follows.
 
@@ -550,7 +550,7 @@ In paragraph 5 of Schedule 11 to the Building Societies (Accounts and Related Pr
 
   .
 
-### 23. The Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^key-0358e70bcb6c68695b05e6274cb6ac3e]
+### 23. The Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^c-0358e70bcb6c68695b05e6274cb6ac3e]
 
 In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^f00060]—
 
@@ -566,7 +566,7 @@ In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order (No
 
   .
 
-### 24. The Personal Portfolio Bonds (Tax) Regulations 1999[^key-4f87f0d167f58fbb06db21063ccdde48]
+### 24. The Personal Portfolio Bonds (Tax) Regulations 1999[^c-4f87f0d167f58fbb06db21063ccdde48]
 
 In regulation 2(1) (interpretation) of the Personal Portfolio Bonds (Tax) Regulations 1999[^f00061], for the definition of “internal linked fund” substitute—
 
@@ -574,7 +574,7 @@ In regulation 2(1) (interpretation) of the Personal Portfolio Bonds (Tax) Regula
 
 .
 
-### 25. The Public Interest Disclosure (Prescribed Persons) Order 1999[^key-29237d4dba59b343bcb6a1ea7ac5530e]
+### 25. The Public Interest Disclosure (Prescribed Persons) Order 1999[^c-29237d4dba59b343bcb6a1ea7ac5530e]
 
 In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 1999[^f00062]—
 
@@ -589,7 +589,7 @@ In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 199
 
   .
 
-### 26. The Unfair Terms in Consumer Contracts Regulations 1999[^key-a2c82a085e9e0b9cdf5e2c635e6f5b16]
+### 26. The Unfair Terms in Consumer Contracts Regulations 1999[^c-a2c82a085e9e0b9cdf5e2c635e6f5b16]
 
 In the Unfair Terms in Consumer Contracts Regulations 1999[^f00063]—
 
@@ -597,7 +597,7 @@ In the Unfair Terms in Consumer Contracts Regulations 1999[^f00063]—
 - (b) in regulation 16, for “Financial Services Authority” in each place (including the heading) substitute “Financial Conduct Authority”;
 - (c) in paragraph 10 of Schedule 1 for “Financial Services Authority” substitute “The Financial Conduct Authority”.
 
-### 27. The Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-ac2221fd2d0bcd9c5a998d2d65339006]
+### 27. The Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-ac2221fd2d0bcd9c5a998d2d65339006]
 
 In the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^f00064]—
 
@@ -630,14 +630,14 @@ In the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^
 
     .
 
-### 28. Transitional provision in connection with the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-fd041e33fa76ebd2e324f2738c6631f4]
+### 28. Transitional provision in connection with the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-fd041e33fa76ebd2e324f2738c6631f4]
 
 For the purposes of regulation 7 of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999, the Bank of England may exercise the power to revoke a designation order where—
 
 - (a) the designation order was made before 1st April 2013, and
 - (b) if an application for the designation order had been made on 1st April 2013, it would have been made to the Bank of England as the designating authority.
 
-### 29. The Local Government Pension Scheme (Management and Investment of Funds) Regulations (Northern Ireland) 2000[^key-5de1d360edf5785443ca82cdb755e9b6]
+### 29. The Local Government Pension Scheme (Management and Investment of Funds) Regulations (Northern Ireland) 2000[^c-5de1d360edf5785443ca82cdb755e9b6]
 
 In regulation 3 (definition of “investment”) of the Local Government Pension Scheme (Management and Investment of Funds) Regulations (Northern Ireland) 2000[^f00065], for paragraphs (6) and (7) substitute—
 
@@ -647,7 +647,7 @@ In regulation 3 (definition of “investment”) of the Local Government Pension
 
 .
 
-### 30. The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^key-f2449850af825d8e42974a500455458e]
+### 30. The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^c-f2449850af825d8e42974a500455458e]
 
 In the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00066]—
 
@@ -668,7 +668,7 @@ In the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00066]�
 
   .
 
-### 31. The Stakeholder Pension Schemes Regulations 2000[^key-ed4992bcff56fa0433d86decbeb2fbe5]
+### 31. The Stakeholder Pension Schemes Regulations 2000[^c-ed4992bcff56fa0433d86decbeb2fbe5]
 
 In the Stakeholder Pension Schemes Regulations 2000[^f00067]—
 
@@ -689,7 +689,7 @@ In the Stakeholder Pension Schemes Regulations 2000[^f00067]—
 
   .
 
-### 32. The Terrorism Act 2000 (Crown Servants and Regulators) Regulations 2001[^key-99424738dd854e46ed337a1858e6792b]
+### 32. The Terrorism Act 2000 (Crown Servants and Regulators) Regulations 2001[^c-99424738dd854e46ed337a1858e6792b]
 
 In the Terrorism Act 2000 (Crown Servants and Regulators) Regulations 2001[^f00068]—
 
@@ -700,7 +700,7 @@ In the Terrorism Act 2000 (Crown Servants and Regulators) Regulations 2001[^f000
 
   .
 
-### 33. The Representation of the People (England and Wales) Regulations 2001[^key-4390dda8877885340c711d93e6c9638a]
+### 33. The Representation of the People (England and Wales) Regulations 2001[^c-4390dda8877885340c711d93e6c9638a]
 
 In the Representation of the People (England and Wales) Regulations 2001[^f00069]—
 
@@ -714,7 +714,7 @@ In the Representation of the People (England and Wales) Regulations 2001[^f00069
   - (iii) in sub-paragraph (d), for “(c)” substitute “(ca)”;
 - (b) in regulation 114(3)(b) (sale of full register to credit reference agencies), for “or any rules made pursuant to section 146 of the Financial Services and Markets Act 2000” substitute “or any rules made by the Financial Conduct Authority under section 137A of the Financial Services and Markets Act 2000 which relate to the prevention and detection of money laundering in connection with the carrying on of regulated activities by authorised persons”.
 
-### 34. The Representation of the People (Scotland) Regulations 2001[^key-c6da2ac88cf8228fc3092b9c1ac57ec5]
+### 34. The Representation of the People (Scotland) Regulations 2001[^c-c6da2ac88cf8228fc3092b9c1ac57ec5]
 
 In the Representation of the People (Scotland) Regulations 2001[^f00070]—
 
@@ -727,7 +727,7 @@ In the Representation of the People (Scotland) Regulations 2001[^f00070]—
     ;
 - (b) in regulation 113(3)(b) (sale of full register to credit reference agencies), for “or any rules made pursuant to section 146 of the Financial Services and Markets Act 2000” substitute “or any rules made by the Financial Conduct Authority under section 137A of the Financial Services and Markets Act 2000 which relate to the prevention and detection of money laundering in connection with the carrying on of regulated activities by authorised persons”.
 
-### 35. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-9c32ab90edefcb1de1ae4816c05db54f]
+### 35. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-9c32ab90edefcb1de1ae4816c05db54f]
 
 In the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00071]—
 
@@ -757,7 +757,7 @@ In the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001
 - (i) in article 95(10) (exclusion from record where no fit and proper to carry on insurance mediation activities), for “Authority” substitute “FCA or PRA”;
 - (j) in article 96 (exclusion from record where regulator has exercised its powers under Part 20 of the Act), in the heading for “Authority” substitute “FCA”.
 
-### 36. The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^key-8862c2db78afa8ecca0f1bef81fda6ed]
+### 36. The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^c-8862c2db78afa8ecca0f1bef81fda6ed]
 
 In the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^f00072]—
 
@@ -773,26 +773,26 @@ In the Financial Services and Markets Act 2000 (Recognition Requirements for Inv
   - (iii) in Part 3 (recognition requirements for clearing houses), for “the Authority”, in each place, substitute “the Bank of England”;
   - (iv) in paragraph 28 of Part 4 (recognition requirements applying to clearing houses: default rules in respect of market contracts), for “the Authority under sections 138 and 139 of the Act” substitute “the FCA under sections 137A and 137B of the Act”.
 
-### 37. The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001[^key-c66ebe3d91b2830bb9ec0e1a65cfd471]
+### 37. The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001[^c-c66ebe3d91b2830bb9ec0e1a65cfd471]
 
 In the Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001[^f00074]—
 
 - (a) in article 30, for “Authority” substitute “FCA”;
 - (b) in the Schedule, in each place, for “by the Financial Services Authority” substitute “under the Financial Services and Markets Act 2000”.
 
-### 38. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-e855d0de9a0229366ae2ff10fec627a1]
+### 38. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^c-e855d0de9a0229366ae2ff10fec627a1]
 
 In paragraph 51(2)(b) (policyholder Advocates) of the Schedule to the Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00075], for “Authority” substitute “FCA”.
 
-### 39. Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-4b71519767947a97fee1568e0f386005]
+### 39. Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^c-4b71519767947a97fee1568e0f386005]
 
 In regulation 3(5) of the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^f00076], for “Authority” substitute “FCA”.
 
-### 40. The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^key-f9dbe56738dfcaed89479d09b62f5a0f]
+### 40. The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^c-f9dbe56738dfcaed89479d09b62f5a0f]
 
 In article 2(1) (interpretation) of the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^f00077], in the definition of “record of insurance intermediaries”, for “Authority” substitute “FCA”.
 
-### 41. The Open-Ended Investment Companies Regulations 2001[^key-d55e4fd27ccbd3a274fe7c94ee660697]
+### 41. The Open-Ended Investment Companies Regulations 2001[^c-d55e4fd27ccbd3a274fe7c94ee660697]
 
 (1) The Open-Ended Investment Companies Regulations 2001[^f00078] are amended as follows.
 
@@ -828,7 +828,7 @@ In article 2(1) (interpretation) of the Financial Services and Markets Act 2000 
 
 (9) In regulation 80 (contraventions), for “section 138 of the Act (general rule-making power)” substitute “section 137A of the Act (FCA’s general rules)”.
 
-### 42. The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^key-c22347c01a83c5089b32c21f3675d090]
+### 42. The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^c-c22347c01a83c5089b32c21f3675d090]
 
 In the Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^f00079]—
 
@@ -884,11 +884,11 @@ In the Financial Services and Markets Act 2000 (Service of Notices) Regulations 
   - (iii) for each of the remaining references to “the Authority” substitute “the relevant regulator”;
   - (iv) after “applicable directions” insert “given by that regulator”.
 
-### 43. The Criminal Defence Service (General) (No.2) Regulations 2001[^key-46991436b6c981770da7017d56845e1b]
+### 43. The Criminal Defence Service (General) (No.2) Regulations 2001[^c-46991436b6c981770da7017d56845e1b]
 
 In regulations 3(2)(h) and 13(1)(c) of the Criminal Defence Service (General) (No.2) Regulations 2001[^f00085], for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 44. The Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Rules) Order 2001[^key-981b086d1d47e767602e7a92f73dc116]
+### 44. The Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Rules) Order 2001[^c-981b086d1d47e767602e7a92f73dc116]
 
 In the Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Rules) Order 2001[^f00086]—
 
@@ -901,11 +901,11 @@ In the Financial Services and Markets Act 2000 (Transitional Provisions and Savi
   - (iv) in paragraph (6) for “Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”;
 - (b) in article 8(5) (waiver or modification as respects particular persons), for “section 148(9)” substitute “section 138A(7)”.
 
-### 45. The Financial Services and Markets Act 2000 (Consequential and Transitional Provisions) (Miscellaneous) Order 2001[^key-ecf301644794cb6152799fcb7124dbe0]
+### 45. The Financial Services and Markets Act 2000 (Consequential and Transitional Provisions) (Miscellaneous) Order 2001[^c-ecf301644794cb6152799fcb7124dbe0]
 
 In the Financial Services and Markets Act 2000 (Consequential and Transitional Provisions) (Miscellaneous) Order 2001[^f00087], omit article 3 (application of definition of “consumer” to users of regulated services before commencement).
 
-### 46. The Financial Services and Markets Act 2000 (Disclosure of Information by Prescribed Persons) Regulations 2001[^key-eec50575dfb823cc76e53275212473cb]
+### 46. The Financial Services and Markets Act 2000 (Disclosure of Information by Prescribed Persons) Regulations 2001[^c-eec50575dfb823cc76e53275212473cb]
 
 In the Financial Services and Markets Act 2000 (Disclosure of Information by Prescribed Persons) Regulations 2001[^f00088]—
 
@@ -919,7 +919,7 @@ In the Financial Services and Markets Act 2000 (Disclosure of Information by Pre
   - (ii) in paragraph (b), for “the Authority” substitute “the FCA or the PRA”;
   - (iii) in paragraph (c), after “section 166” insert “or 166A”.
 
-### 47. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-e2db71982b9c34dbc345d8811ed4ac35]
+### 47. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-e2db71982b9c34dbc345d8811ed4ac35]
 
 (1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00089] are amended as follows.
 
@@ -991,7 +991,7 @@ In the Financial Services and Markets Act 2000 (Disclosure of Information by Pre
 
 (10) In Schedule 3 (prescribed disciplinary proceedings) for “the Authority” substitute “any of the regulators”.
 
-### 48. The Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001[^key-08292c76f4db0416507fa5050ecfaddd]
+### 48. The Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001[^c-08292c76f4db0416507fa5050ecfaddd]
 
 In the Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001[^f00095]—
 
@@ -1002,7 +1002,7 @@ In the Financial Services and Markets Act 2000 (Rights of Action) Regulations 20
   - (iii) in paragraph (2), for “150(3)” substitute “138D(4)”;
   - (iv) in paragraph (4)(b), for “150(4)” substitute “138D(5)”.
 
-### 49. The Financial Services and Markets Act 2000 (Transitional Provisions) (Ombudsman Scheme and Complaints Scheme) Order 2001[^key-cf926d7b96558b443e9d67764ecac34b]
+### 49. The Financial Services and Markets Act 2000 (Transitional Provisions) (Ombudsman Scheme and Complaints Scheme) Order 2001[^c-cf926d7b96558b443e9d67764ecac34b]
 
 In the Financial Services and Markets Act 2000 (Transitional Provisions) (Ombudsman Scheme and Complaints Scheme) Order 2001[^f00096]—
 
@@ -1020,7 +1020,7 @@ In the Financial Services and Markets Act 2000 (Transitional Provisions) (Ombuds
     - (ff) for “the investigator appointed by the Authority in accordance with paragraph 7 of Schedule 1 to the Act” substitute “the investigator appointed under section 84 of the Financial Services Act 2012”;
   - (iii) omit paragraph (3).
 
-### 50. The Financial Services and Markets Act 2000 (Variation of Threshold Conditions) Order 2001[^key-cb30dfff08e1ee8efb8edab57d1bdf5c]
+### 50. The Financial Services and Markets Act 2000 (Variation of Threshold Conditions) Order 2001[^c-cb30dfff08e1ee8efb8edab57d1bdf5c]
 
 In the Financial Services and Markets Act 2000 (Variation of Threshold Conditions) Order 2001[^f00097]—
 
@@ -1059,7 +1059,7 @@ In the Financial Services and Markets Act 2000 (Variation of Threshold Condition
 
     .
 
-### 51. The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^key-3b606da5a87d9fefea4a9308d6b6977d]
+### 51. The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^c-3b606da5a87d9fefea4a9308d6b6977d]
 
 (1) The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^f00098] are amended as follows.
 
@@ -1087,11 +1087,11 @@ In the Financial Services and Markets Act 2000 (Variation of Threshold Condition
   - (i) for “the Authority”, substitute “the FCA, the PRA or the Bank of England”;
   - (ii) after “the threshold conditions” insert “or, in the case of a recognised investment exchange or recognised clearing house, the requirements set out in relation to recognised investment exchanges or (as the case may be) recognised clearing houses under section 286 of the Act (qualifications for recognition)”.
 
-### 52. Transitional provision in relation to the Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^key-1bc2124a7e5d6acb5d7d4d552216c0f0]
+### 52. Transitional provision in relation to the Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^c-1bc2124a7e5d6acb5d7d4d552216c0f0]
 
 For the purposes of the Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2000 any obligation under regulation 2 of those Regulations to supply information or an opinion to the PRA is to be treated as satisfied if the information or opinion was provided before 1st April 2013 to the Financial Services Authority.
 
-### 53. The Financial Services and Markets Act 2000 (Transitional Provisions) (Controllers) Order 2001[^key-4e94563deb5cd6bcc5f334ba4d96ac5f]
+### 53. The Financial Services and Markets Act 2000 (Transitional Provisions) (Controllers) Order 2001[^c-4e94563deb5cd6bcc5f334ba4d96ac5f]
 
 In the Financial Services and Markets Act 2000 (Transitional Provisions) (Controllers) Order 2001[^f00100]—
 
@@ -1110,7 +1110,7 @@ In the Financial Services and Markets Act 2000 (Transitional Provisions) (Contro
     - (bb) for “Authority” in the second place it appears substitute “Financial Conduct Authority or the Prudential Regulation Authority”;
 - (d) in article 14 (notification on becoming aware of acquisition), for “Authority” substitute “Financial Services Authority, the Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 54. The Financial Services and Markets Act 2000 (Own-initiative Power) (Overseas Regulators) Regulations 2001[^key-aadf628115dd8b4d8b545b146da3b25e]
+### 54. The Financial Services and Markets Act 2000 (Own-initiative Power) (Overseas Regulators) Regulations 2001[^c-aadf628115dd8b4d8b545b146da3b25e]
 
 In the Financial Services and Markets Act 2000 (Own-initiative Power) (Overseas Regulators) Regulations 2001[^f00101]—
 
@@ -1121,14 +1121,14 @@ In the Financial Services and Markets Act 2000 (Own-initiative Power) (Overseas 
   - (i) in paragraph (1), for “47(3)(b)” substitute “55Q(4)(a)”;
   - (ii) in paragraph (3), for “47(3)(c)” substitute “55Q(4)(b)”.
 
-### 55. The Financial Services and Markets Act 2000 (Official Listing of Securities) Regulations 2001[^key-790df9f08df9b176fc0bcaf17213f4e9]
+### 55. The Financial Services and Markets Act 2000 (Official Listing of Securities) Regulations 2001[^c-790df9f08df9b176fc0bcaf17213f4e9]
 
 In the Financial Services and Markets Act 2000 (Official Listing of Securities) Regulations 2001[^f00102]—
 
 - (a) in regulation 2(1) (interpretation), omit the definition of “competent authority”;
 - (b) in regulations 6(1)(b) and 7(2)(b)(i), for “competent authority” substitute “FCA”.
 
-### 56. The Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001[^key-df5c33bd357280796f02627cfc0e2759]
+### 56. The Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001[^c-df5c33bd357280796f02627cfc0e2759]
 
 In the Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001[^f00103]—
 
@@ -1169,7 +1169,7 @@ In the Financial Services and Markets Act 2000 (Transitional Provisions, Repeals
   - (i) in the modifications to Part 2 of the Banking Act 1987[^f00106], for “Authority” substitute “Prudential Regulation Authority”;
   - (ii) in the modifications to Part 4 of the Building Societies Act 1986[^f00107] and the Credit Institutions (Protection of Depositors) Regulations 1995[^f00108], for “Financial Services Authority” substitute “Prudential Regulation Authority”.
 
-### 57. The Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Civil Remedies, Discipline, Criminal Offences etc.) (No. 2) Order 2001[^key-5afbe5048d5c3906629a5aeca05e7a7a]
+### 57. The Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Civil Remedies, Discipline, Criminal Offences etc.) (No. 2) Order 2001[^c-5afbe5048d5c3906629a5aeca05e7a7a]
 
 In the Financial Services and Markets Act 2000 (Transitional Provisions and Savings) (Civil Remedies, Discipline, Criminal Offences etc.) (No. 2) Order 2001[^f00109]—
 
@@ -1191,7 +1191,7 @@ In the Financial Services and Markets Act 2000 (Transitional Provisions and Savi
   - (ii) for “the Authority” in the first and second place those words appear substitute “the FCA or the PRA”;
   - (iii) for “the Authority” in each other place those words appear substitute “that regulator”.
 
-### 58. The Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^key-1c43113097328492bb33f4be3bed3db0]
+### 58. The Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^c-1c43113097328492bb33f4be3bed3db0]
 
 In article 2 of the Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^f00110] (exercise of deemed passport rights by Gibraltar-based firms)—
 
@@ -1205,11 +1205,11 @@ In article 2 of the Financial Services and Markets Act 2000 (Gibraltar) Order 20
 
   .
 
-### 59. The Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in Other EEA States) Regulations 2001[^key-f54800e571eb262abc5e7d774486508c]
+### 59. The Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in Other EEA States) Regulations 2001[^c-f54800e571eb262abc5e7d774486508c]
 
 In regulations 4 and 5 of the Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in Other EEA States) Regulations 2001[^f00113], for “Authority” substitute “FCA”.
 
-### 60. The Financial Services and Markets Act 2000 (Consultation with Competent Authorities) Regulations 2001[^key-e13ff0735b3db6e81fd1de08ffa3f153]
+### 60. The Financial Services and Markets Act 2000 (Consultation with Competent Authorities) Regulations 2001[^c-e13ff0735b3db6e81fd1de08ffa3f153]
 
 In the Financial Services and Markets Act 2000 (Consultation with Competent Authorities) Regulations 2001[^f00114]—
 
@@ -1220,7 +1220,7 @@ In the Financial Services and Markets Act 2000 (Consultation with Competent Auth
   ;
 - (b) for “Authority” in each place it appears, substitute “appropriate regulator”.
 
-### 61. The Bankruptcy (Financial Services and Markets Act 2000) (Scotland) Rules 2001[^key-a42780510b2ae82832e51d7e3df76c44]
+### 61. The Bankruptcy (Financial Services and Markets Act 2000) (Scotland) Rules 2001[^c-a42780510b2ae82832e51d7e3df76c44]
 
 In the Bankruptcy (Financial Services and Markets Act 2000) (Scotland) Rules 2001[^f00115]—
 
@@ -1238,7 +1238,7 @@ In the Bankruptcy (Financial Services and Markets Act 2000) (Scotland) Rules 200
   - (ii) in paragraph (f)(i), for “Authority” substitute “regulator”;
 - (c) in rule 5(2) (application to set aside a demand), for “Authority” substitute “regulator”.
 
-### 62. The Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001[^key-36b6d9bd28c3bc79430b7b33d98659a0]
+### 62. The Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001[^c-36b6d9bd28c3bc79430b7b33d98659a0]
 
 In the Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001[^f00116]—
 
@@ -1247,30 +1247,30 @@ In the Financial Services and Markets Act 2000 (Control of Business Transfers) (
 - (c) in regulation 3(6), for “the Authority” substitute “the appropriate regulator and, if the FCA is not the appropriate regulator, the FCA”;
 - (d) in regulation 5(5), for “the Authority” substitute “the appropriate regulator and, if the FCA is not the appropriate regulator, the FCA”.
 
-### 63. Transitional provisions in relation to the Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001[^key-850c4244b0616d8faab42c95e732a5a5]
+### 63. Transitional provisions in relation to the Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001[^c-850c4244b0616d8faab42c95e732a5a5]
 
 For the purposes of the Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001, where the PRA is the appropriate regulator within the meaning of Part 7 of the Financial Services and Markets Act 2000—
 
 - (a) any approval of any notice given before 1st April 2013 by the Financial Services Authority under regulations 3 or 5 of those regulations is to be treated as approval given by the Prudential Regulation Authority;
 - (b) any document given before 1st April 2013 to the Financial Services Authority is to be treated as having been given to the Prudential Regulation Authority.
 
-### 64. The Financial Services and Markets Act 2000 (Control of Transfers of Business Done at Lloyd’s) Order 2001[^key-fe74e3a7c13b22ed6e067533edeb22b7]
+### 64. The Financial Services and Markets Act 2000 (Control of Transfers of Business Done at Lloyd’s) Order 2001[^c-fe74e3a7c13b22ed6e067533edeb22b7]
 
 In article 4(c) of the Financial Services and Markets Act 2000 (Control of Transfers of Business Done at Lloyd’s) Order 2001[^f00118], for “Authority” substitute “PRA”.
 
-### 65. Transitional provision in relation to the Financial Services and Markets Act 2000 (Control of Transfers of Business Done at Lloyd’s) Order 2001[^key-18a2a90abfc62ded08e9a74137e70d7f]
+### 65. Transitional provision in relation to the Financial Services and Markets Act 2000 (Control of Transfers of Business Done at Lloyd’s) Order 2001[^c-18a2a90abfc62ded08e9a74137e70d7f]
 
 For the purposes of article 4(c) of the Financial Services and Markets Act 2000 (Control of Transfers of Business Done at Lloyd’s) Order 2001, any document given before 1st April 2013 to the Financial Services Authority is to be treated as having also been given to the Prudential Regulation Authority.
 
-### 66. The Financial Services and Markets Tribunal (Legal Assistance) Regulations 2001[^key-1df0df8cec3922f2a7f272d2c4074f51]
+### 66. The Financial Services and Markets Tribunal (Legal Assistance) Regulations 2001[^c-1df0df8cec3922f2a7f272d2c4074f51]
 
 In regulation 2 of the Financial Services and Markets Tribunal (Legal Assistance) Regulations 2001[^f00119] in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 67. The Financial Services and Markets Tribunal (Legal Assistance Scheme—Costs) Regulations 2001[^key-d2c129b60194abec49e29bcfa6f49abf]
+### 67. The Financial Services and Markets Tribunal (Legal Assistance Scheme—Costs) Regulations 2001[^c-d2c129b60194abec49e29bcfa6f49abf]
 
 In regulation 2 of the Financial Services and Markets Tribunal (Legal Assistance Scheme—Costs) Regulations 2001[^f00120], in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 68. The Bankruptcy (Financial Services and Markets Act 2000) Rules 2001[^key-b6448cffc1a296af356f0f0c618c308a]
+### 68. The Bankruptcy (Financial Services and Markets Act 2000) Rules 2001[^c-b6448cffc1a296af356f0f0c618c308a]
 
 In rule 2 of the Bankruptcy (Financial Services and Markets Act 2000) Rules 2001[^f00121], for the definition of “the Authority” substitute—
 
@@ -1282,11 +1282,11 @@ In rule 2 of the Bankruptcy (Financial Services and Markets Act 2000) Rules 2001
 
 .
 
-### 69. The Insurers (Winding Up) Rules 2001[^key-2678f918ec28f3e1015fadaa900a2bdb]
+### 69. The Insurers (Winding Up) Rules 2001[^c-2678f918ec28f3e1015fadaa900a2bdb]
 
 In rule 2 of the Insurers (Winding Up) Rules 2001[^f00122] (interpretation), in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 70. The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001[^key-b91530be5cd548dc889a8ca81987f5d2]
+### 70. The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001[^c-b91530be5cd548dc889a8ca81987f5d2]
 
 In the Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001[^f00123]—
 
@@ -1344,15 +1344,15 @@ In the Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 
     - (aa) in the first place it appears substitute “Financial Services Authority”;
     - (bb) in the second place it appears substitute “Financial Services Authority, FCA or PRA”.
 
-### 71. The Friendly Societies Act 1974 (Seal of the Financial Services Authority) Regulations 2001[^key-11edc14fb2b06e25abd3abb0e32044b1]
+### 71. The Friendly Societies Act 1974 (Seal of the Financial Services Authority) Regulations 2001[^c-11edc14fb2b06e25abd3abb0e32044b1]
 
 In the Friendly Societies Act 1974 (Seal of the Financial Services Authority) Regulations 2001[^f00124], for “Financial Services Authority”, in each place, substitute “Financial Conduct Authority”.
 
-### 72. Transitional provision in relation to the Friendly Societies Act 1974 (Seal of the Financial Services Authority) Regulations 2001[^key-0bee432be0acd2769a5e20200e136528]
+### 72. Transitional provision in relation to the Friendly Societies Act 1974 (Seal of the Financial Services Authority) Regulations 2001[^c-0bee432be0acd2769a5e20200e136528]
 
 A document sealed in accordance with the Friendly Societies Act 1974 (Seal of the Financial Services Authority) Regulations 2001 as they applied before 1st April 2013 is to be treated, where appropriate, as sealed in accordance with those Regulations as they applied on that date.
 
-### 73. The Uncertificated Securities Regulations 2001[^key-a200be780a9b176c59b78c84953224d9]
+### 73. The Uncertificated Securities Regulations 2001[^c-a200be780a9b176c59b78c84953224d9]
 
 In the Uncertificated Securities Regulations 2001[^f00125]—
 
@@ -1372,11 +1372,11 @@ In the Uncertificated Securities Regulations 2001[^f00125]—
 
   .
 
-### 74. The Insurers (Winding Up) (Scotland) Rules 2001[^key-e351e4f2e2f388865c372f0f11f9c0cd]
+### 74. The Insurers (Winding Up) (Scotland) Rules 2001[^c-e351e4f2e2f388865c372f0f11f9c0cd]
 
 In rule 2 of the Insurers (Winding Up) (Scotland) Rules 2001[^f00127], in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 75. The Welsh Language Schemes (Public Bodies) Order 2002[^key-d0767e4afda171cf44fcbfd6836020f5]
+### 75. The Welsh Language Schemes (Public Bodies) Order 2002[^c-d0767e4afda171cf44fcbfd6836020f5]
 
 In the table in the Schedule to the Welsh Language Schemes (Public Bodies) Order 2002[^f00128]—
 
@@ -1388,7 +1388,7 @@ In the table in the Schedule to the Welsh Language Schemes (Public Bodies) Order
   > | --- | --- |
   > | Awdurdod Ymddygiad Ariannol | Financial Conduct Authority |
 
-### 76. The Financial Services and Markets Act 2000 (Consequential Amendments and Transitional Provisions) (Credit Unions) Order 2002[^key-8b009255c97ff5fdca7d0226725ef0af]
+### 76. The Financial Services and Markets Act 2000 (Consequential Amendments and Transitional Provisions) (Credit Unions) Order 2002[^c-8b009255c97ff5fdca7d0226725ef0af]
 
 In the Financial Services and Markets Act 2000 (Consequential Amendments and Transitional Provisions) (Credit Unions) Order 2002[^f00129]—
 
@@ -1408,7 +1408,7 @@ In the Financial Services and Markets Act 2000 (Consequential Amendments and Tra
   - (iii) for “section 2” substitute “section 1B”;
 - (e) in article 16 (cost benefit analyses), for “Authority” in each place substitute “FCA”.
 
-### 77. The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002[^key-c6f40a55f72a494aa0bfd535fdd58d6b]
+### 77. The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002[^c-c6f40a55f72a494aa0bfd535fdd58d6b]
 
 (1) The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002[^f00130] are amended as follows.
 
@@ -1437,22 +1437,22 @@ In the Financial Services and Markets Act 2000 (Consequential Amendments and Tra
   - (ii) omit “, paragraph (6) of Schedule 1[^f00131] to,”;
 - (b) in paragraph (4), for “sections 132 and 133” substitute “sections 133 and 133A”.
 
-### 78. The Financial Services and Markets Act 2000 (Fourth Motor Insurance Directive) Regulations 2002[^key-2f9e35466c7341b45f1a9390bcae25cd]
+### 78. The Financial Services and Markets Act 2000 (Fourth Motor Insurance Directive) Regulations 2002[^c-2f9e35466c7341b45f1a9390bcae25cd]
 
 In regulation 2 of the Financial Services and Markets Act 2000 (Fourth Motor Insurance Directive) Regulations 2002[^f00132] (power of the Authority to make rules under section 138 of the Financial Services and Markets Act 2000)—
 
 - (a) for the heading substitute “Power of the Financial Conduct Authority to make rules under section 137A of the Financial Services and Markets Act 2000”;
 - (b) in paragraph (1), for “the Authority under section 138 of the Financial Services and Markets Act 2000 (“the 2000 Act”) (general rule-making power)” substitute “the Financial Conduct Authority under section 137A of the Financial Services and Markets Act 2000 (“the 2000 Act”) (The FCA’s general rules)”.
 
-### 79. The Insolvency (Northern Ireland) Order 2002[^key-1d1c0d14e10be51d96dbe31cff6f8960]
+### 79. The Insolvency (Northern Ireland) Order 2002[^c-1d1c0d14e10be51d96dbe31cff6f8960]
 
 In the Insolvency (Northern Ireland) Order 2002[^f00133], in article 2(3) (interpretation) for “the Financial Services Authority” substitute “the Financial Conduct Authority and the Prudential Regulation Authority”.
 
-### 80. The Proceeds of Crime Act 2002 (Disclosure of Information to and by Lord Advocate and Scottish Ministers) Order 2003[^key-8e2d0932a9f43790f127b59a8f297c70]
+### 80. The Proceeds of Crime Act 2002 (Disclosure of Information to and by Lord Advocate and Scottish Ministers) Order 2003[^c-8e2d0932a9f43790f127b59a8f297c70]
 
 In article 3(b) of the Proceeds of Crime Act 2002 (Disclosure of Information to and by Lord Advocate and Scottish Ministers) Order 2003[^f00134], for “Financial Services Authority” substitute “Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England”.
 
-### 81. The Energy (Northern Ireland) Order 2003[^key-46fe59436564eecd9c9521d93d102abd]
+### 81. The Energy (Northern Ireland) Order 2003[^c-46fe59436564eecd9c9521d93d102abd]
 
 In article 63 of the Energy (Northern Ireland) Order 2003[^f00135] (general restrictions on disclosure of information)—
 
@@ -1463,7 +1463,7 @@ In article 63 of the Energy (Northern Ireland) Order 2003[^f00135] (general rest
 
   .
 
-### 82. The Financial Services and Markets Act 2000 (Communications by Actuaries) Regulations 2003[^key-ac4920607f20b5392ff2d55f6dc46aec]
+### 82. The Financial Services and Markets Act 2000 (Communications by Actuaries) Regulations 2003[^c-ac4920607f20b5392ff2d55f6dc46aec]
 
 (1) The Financial Services and Markets Act 2000 (Communications by Actuaries) Regulations 2003[^f00136] are amended as follows.
 
@@ -1479,15 +1479,15 @@ In article 63 of the Energy (Northern Ireland) Order 2003[^f00135] (general rest
     - (bb) in the second place it appears, substitute “that regulator”;
   - (ii) in sub-paragraph (b), substitute “the FCA or the PRA”.
 
-### 83. Transitional provision in relation to the Financial Services and Markets Act 2000 (Communications by Actuaries) Regulations 2003[^key-54ed88bb6a606896516977ebf7cb86af]
+### 83. Transitional provision in relation to the Financial Services and Markets Act 2000 (Communications by Actuaries) Regulations 2003[^c-54ed88bb6a606896516977ebf7cb86af]
 
 For the purposes of the Financial Services and Markets Act 2000 (Communications by Actuaries) Regulations 2003 any obligation under regulation 2 of those Regulations to supply information or an opinion to the Prudential Regulation Authority is to be treated as satisfied if the information or opinion was provided before 1st April 2013 to the Financial Services Authority.
 
-### 84. The Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^key-00779469d6867dc30bbe6ea7fd4ceaf4]
+### 84. The Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^c-00779469d6867dc30bbe6ea7fd4ceaf4]
 
 In the Schedule to the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^f00137], in the second column in the entry beginning “Financial Services (Distance Marketing) Regulations 2004”, for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 85. The Land Registration Rules 2003[^key-2b915426efdc4ac0813696d85d8c3781]
+### 85. The Land Registration Rules 2003[^c-2b915426efdc4ac0813696d85d8c3781]
 
 In Schedule 5 to the Land Registration Rules 2003[^f00138]—
 
@@ -1500,7 +1500,7 @@ In Schedule 5 to the Land Registration Rules 2003[^f00138]—
   > | A person authorised to apply on behalf of the Bank of England. | Certificate Q |
   > | The Head of Regulatory Action in the Prudential Regulation Authority or a member of staff of the Prudential Regulation Authority authorised to apply on behalf of the Head of Regulatory Action. | Certificate Q |
 
-### 86. The Freedom of Information (Additional Public Authorities) Order 2003[^key-e4f55b37792577c7f6d7210a8b49275f]
+### 86. The Freedom of Information (Additional Public Authorities) Order 2003[^c-e4f55b37792577c7f6d7210a8b49275f]
 
 In Schedule 1 to the Freedom of Information (Additional Public Authorities) Order 2003[^f00139]—
 
@@ -1511,7 +1511,7 @@ In Schedule 1 to the Freedom of Information (Additional Public Authorities) Orde
 
   .
 
-### 87. The Open-Ended Investment Companies Regulations (Northern Ireland) 2004[^key-c21a3e44045183552134453f60a2debb]
+### 87. The Open-Ended Investment Companies Regulations (Northern Ireland) 2004[^c-c21a3e44045183552134453f60a2debb]
 
 (1) The Open-Ended Investment Companies Regulations (Northern Ireland) 2004[^f00140] are amended as follows.
 
@@ -1557,7 +1557,7 @@ In Schedule 1 to the Freedom of Information (Additional Public Authorities) Orde
 
 (9) In regulation 79 (contraventions), for “section 138 of the Act (general rule-making power)” substitute “section 137A of the Act (FCA’s general rules)”.
 
-### 88. The Insurers (Reorganisation and Winding Up) Regulations 2004[^key-7f7641c434877013587b1ff2b3d54f2e]
+### 88. The Insurers (Reorganisation and Winding Up) Regulations 2004[^c-7f7641c434877013587b1ff2b3d54f2e]
 
 In the Insurers (Reorganisation and Winding Up) Regulations 2004[^f00141]—
 
@@ -1584,14 +1584,14 @@ In the Insurers (Reorganisation and Winding Up) Regulations 2004[^f00141]—
 - (g) in regulation 16 (disclosure of confidential information received from an EEA regulator), for “Authority” substitute “FCA or the PRA”;
 - (h) in regulation 50 (disclosure of confidential information: third country insurers), for “Authority” substitute “FCA or the PRA”.
 
-### 89. The Financial Services and Markets Act 2000 (Transitional Provisions) (Complaints Relating to General Insurance and Mortgages) Order 2004[^key-d06665a9d08821972e93308ec24868b9]
+### 89. The Financial Services and Markets Act 2000 (Transitional Provisions) (Complaints Relating to General Insurance and Mortgages) Order 2004[^c-d06665a9d08821972e93308ec24868b9]
 
 In the Financial Services and Markets Act 2000 (Transitional Provisions) (Complaints Relating to General Insurance and Mortgages) Order 2004[^f00142]—
 
 - (a) for “Authority” in each place substitute “FCA”;
 - (b) in article 12 (application of rules etc to relevant matters) in paragraph (1), for “sections 155 and 157(3)” substitute “sections 138I and 139A(5)”.
 
-### 90. The Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004[^key-7aa394829456f653a03490b0deb1862e]
+### 90. The Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004[^c-7aa394829456f653a03490b0deb1862e]
 
 In article 2(2) of the Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004[^f00143], for “the Financial Services Authority;” substitute—
 
@@ -1601,7 +1601,7 @@ In article 2(2) of the Crime (International Co-operation) Act 2003 (Designation 
 
 .
 
-### 91. The Credit Institutions (Reorganisation and Winding Up Regulations) 2004[^key-30a67c02d71bc5e702e7e14cef793cce]
+### 91. The Credit Institutions (Reorganisation and Winding Up Regulations) 2004[^c-30a67c02d71bc5e702e7e14cef793cce]
 
 In the Credit Institutions (Reorganisation and Winding Up Regulations) 2004[^f00144]—
 
@@ -1639,7 +1639,7 @@ In the Credit Institutions (Reorganisation and Winding Up Regulations) 2004[^f00
 - (j) in regulation 18(1)(b) (disclosure of confidential information received from an EEA regulator), for “Authority” substitute “FCA or the PRA”;
 - (k) in regulation 38(2)(a) (disclosure of confidential information: third country credit institution), for “Authority” substitute “FCA or the PRA”.
 
-### 92. Transitional provision in relation to the Credit Institutions (Reorganisation and Winding up Regulations) 2004[^key-c2823804b8df8b9991cd59bd3ccf5d4a]
+### 92. Transitional provision in relation to the Credit Institutions (Reorganisation and Winding up Regulations) 2004[^c-c2823804b8df8b9991cd59bd3ccf5d4a]
 
 For the purposes of the Credit Institutions (Reorganisation and Winding up Regulations) 2004—
 
@@ -1654,7 +1654,7 @@ For the purposes of the Credit Institutions (Reorganisation and Winding up Regul
   - (ii) did not exercise its power under section 45 of the Financial Services and Markets Act 2000 to vary or to cancel the UK credit institution’s permission under Part 4 of that Act to accept deposits or to issue electronic money as the case may be;
 - (d) any obligation to inform the Authority which arose under regulation 14(9) before 1st April 2013 is to be treated as satisfied if the information was given to the Financial Service Authority, and the obligation under regulation 14(1) shall apply as from the date on which the court and the Financial Services Authority were informed.
 
-### 93. The Child Trust Funds Regulations 2004[^key-f76900458490b3f006b4a3e0f492a2b8]
+### 93. The Child Trust Funds Regulations 2004[^c-f76900458490b3f006b4a3e0f492a2b8]
 
 In the Child Trust Funds Regulations 2004[^f00145]—
 
@@ -1701,7 +1701,7 @@ In the Child Trust Funds Regulations 2004[^f00145]—
 
     .
 
-### 94. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^key-58f4c714f100660ac18ecd27e9f42d60]
+### 94. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^c-58f4c714f100660ac18ecd27e9f42d60]
 
 In the Annex to Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00146] for “Financial Services Authority” substitute—
 
@@ -1711,7 +1711,7 @@ In the Annex to Schedule 1 to the Employment Tribunals (Constitution and Rules o
 
 .
 
-### 95. The Financial Conglomerates and Other Financial Groups Regulations 2004[^key-a6694757e86d666d411c89ba83f69424]
+### 95. The Financial Conglomerates and Other Financial Groups Regulations 2004[^c-a6694757e86d666d411c89ba83f69424]
 
 (1) The Financial Conglomerates and Other Financial Groups Regulations 2004[^f00147] are amended as follows.
 
@@ -1805,21 +1805,21 @@ In the Annex to Schedule 1 to the Employment Tribunals (Constitution and Rules o
   - (i) for “the Authority” substitute “a regulator”;
   - (ii) for “subsection (2) of section 41” substitute “subsection (3) of section 55B”.
 
-### 96. Transitional provision in relation to the Financial Conglomerates and Other Financial Groups Regulations 2004[^key-6439ddb96eb95f6ce98de10250ed634c]
+### 96. Transitional provision in relation to the Financial Conglomerates and Other Financial Groups Regulations 2004[^c-6439ddb96eb95f6ce98de10250ed634c]
 
 Anything done for the purpose of the Financial Conglomerates and Other Financial Groups Regulations 2004 by or in relation to the Financial Services Authority prior to 1st April 2013 in relation to a financial conglomerate is to be treated as having been done by or in relation to the Prudential Regulation Authority, where—
 
 - (a) the Prudential Regulation Authority is, on 1st April 2013, the co-ordinator of that financial conglomerate; and
 - (b) before 1st April 2013 the Financial Services Authority was the co-ordinator of that financial conglomerate.
 
-### 97. The Financial Services (Distance Marketing) Regulations 2004[^key-c3e09bb3adfc2eea042d80551e17d8ee]
+### 97. The Financial Services (Distance Marketing) Regulations 2004[^c-c3e09bb3adfc2eea042d80551e17d8ee]
 
 In regulation 2(1) of the Financial Services (Distance Marketing) Regulations 2004[^f00148]—
 
 - (a) in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority”;
 - (b) in the definition of “authorised person”, omit “section 31(2) of”.
 
-### 98. The Financial Services and Markets Act 2000 (Stakeholder Products) Regulations 2004[^key-984801ba6d476aceb26025204ad54ef3]
+### 98. The Financial Services and Markets Act 2000 (Stakeholder Products) Regulations 2004[^c-984801ba6d476aceb26025204ad54ef3]
 
 In regulation 2(1) (interpretation) of the Financial Services and Markets Act 2000 (Stakeholder Products) Regulations 2004[^f00149]—
 
@@ -1835,7 +1835,7 @@ In regulation 2(1) (interpretation) of the Financial Services and Markets Act 20
 
   .
 
-### 99. The Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005[^key-efa89d832bda5c5b2a08f6336fa52fe4]
+### 99. The Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005[^c-efa89d832bda5c5b2a08f6336fa52fe4]
 
 In Article 5(2) (restrictions on the disclosure of information) of the Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005[^f00150], for sub-paragraph (e) substitute—
 
@@ -1844,19 +1844,19 @@ In Article 5(2) (restrictions on the disclosure of information) of the Pension P
 
 .
 
-### 100. The Independent Health Care Regulations (Northern Ireland) 2005[^key-61343c2627d62df62c19e4324e8c7eaf]
+### 100. The Independent Health Care Regulations (Northern Ireland) 2005[^c-61343c2627d62df62c19e4324e8c7eaf]
 
 In regulation 2 (interpretation) of the Independent Health Care Regulations (Northern Ireland) 2005[^f00151], in the definition of “insurance provider”, for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 101. The Pensions (Northern Ireland) Order 2005[^key-39337823a3e38577856bc604e262fd55]
+### 101. The Pensions (Northern Ireland) Order 2005[^c-39337823a3e38577856bc604e262fd55]
 
 In Schedules 3 and 7 to the Pensions (Northern Ireland) Order 2005[^f00152], for the entry “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 102. The Investment Recommendation (Media) Regulations 2005[^key-6358e939638f772d15fd5f6638a50625]
+### 102. The Investment Recommendation (Media) Regulations 2005[^c-6358e939638f772d15fd5f6638a50625]
 
 In regulations 9(3)(c) (dissemination of altered investment recommendations) and 10(c) (dissemination of summaries of investment recommendations) of the Investment Recommendation (Media) Regulations 2005[^f00153], for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 103. The Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005[^key-15989dff61c1335255dfc7b3c4458cda]
+### 103. The Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005[^c-15989dff61c1335255dfc7b3c4458cda]
 
 In rule 2 (interpretation) of the Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005[^f00154], for the definition of “the Authority” substitute—
 
@@ -1866,14 +1866,14 @@ In rule 2 (interpretation) of the Bankruptcy (Financial Services and Markets Act
 
 .
 
-### 104. Insurers (Winding-Up) Rules (Northern Ireland) 2005[^key-f755d8df6f8805c6c8ef0f4f4892b754]
+### 104. Insurers (Winding-Up) Rules (Northern Ireland) 2005[^c-f755d8df6f8805c6c8ef0f4f4892b754]
 
 In the Insurers (Winding-Up) Rules (Northern Ireland) 2005[^f00155]—
 
 - (a) in rule 2(1) (interpretation), omit the definition of “the Authority”;
 - (b) in rules 5(7), (8)(a) (maintenance of separate financial records for long-term and other business in winding-up) and 16(2) (maintenance of accounting, valuation and other records) and in paragraph 3(2) (present value of additional benefits) of Schedule 2, for “Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 105. The Pension Protection Fund (PPF Ombudsman) Order 2005[^key-8fc3e729da63d89a842301105a4e2f72]
+### 105. The Pension Protection Fund (PPF Ombudsman) Order 2005[^c-8fc3e729da63d89a842301105a4e2f72]
 
 In article 7(2) (restrictions on the disclosure of information) of the Pension Protection Fund (PPF Ombudsman) Order 2005[^f00156], for sub-paragraph (e) substitute—
 
@@ -1882,15 +1882,15 @@ In article 7(2) (restrictions on the disclosure of information) of the Pension P
 
 .
 
-### 106. The General Optical Council (Registration Appeals Rules) Order of Council 2005[^key-bb68ca6884587d9299fba31e7b43132e]
+### 106. The General Optical Council (Registration Appeals Rules) Order of Council 2005[^c-bb68ca6884587d9299fba31e7b43132e]
 
 In paragraph 7(2)(d)(ii) (information required from applicants for restoration of registration as a business registrant) of Part 2 of the Schedule to the General Optical Council (Registration Appeals Rules) Order of Council 2005[^f00157], for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 107. The General Optical Council (Registration Rules) Order of Council 2005[^key-ad7943f2b590d46aa0f2c4b62bff6dab]
+### 107. The General Optical Council (Registration Rules) Order of Council 2005[^c-ad7943f2b590d46aa0f2c4b62bff6dab]
 
 In paragraph 8(2)(d)(ii) (information required from applicants for registration or restoration of registration as business registrants) of Part 2 of the Schedule to the General Optical Council (Registration Rules) Order of Council 2005[^f00158], for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 108. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-6a9d35effa804808d3742472e8d96486]
+### 108. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-6a9d35effa804808d3742472e8d96486]
 
 In the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00159]—
 
@@ -1899,7 +1899,7 @@ In the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[
 - (c) in article 70(1)(c)(i) (promotions included in listing particulars etc), for “competent authority” substitute “FCA”;
 - (d) in Schedule 5 (statements for certified high net worth individuals and self-certified sophisticated investors), for “Financial Services Authority” in each place those words appear substitute “Financial Conduct Authority”.
 
-### 109. The Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^key-769fad96c6465dc9a84d2be7e0601505]
+### 109. The Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^c-769fad96c6465dc9a84d2be7e0601505]
 
 In the Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^f00160]—
 
@@ -1928,11 +1928,11 @@ In the Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^f0
 - (i) in the heading to regulation 33 (notification of relevant decision) for “Authority” substitute “PRA”;
 - (j) in regulation 48 (non-EEA countries), for “Authority” in each place it appears substitute “PRA”.
 
-### 110. The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^key-f065989678a417368212524538fbcecc]
+### 110. The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^c-f065989678a417368212524538fbcecc]
 
 In each of articles 193(1) (other exemptions) and 205(7)(a) (recoverable property: general exceptions) of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^f00161], for “Financial Services Authority” substitute “Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England”.
 
-### 111. The Financial Assistance Scheme (Appeals) Regulations 2005[^key-10341f31ef61ff0c10da6f140f938039]
+### 111. The Financial Assistance Scheme (Appeals) Regulations 2005[^c-10341f31ef61ff0c10da6f140f938039]
 
 In regulation 28(3) (restriction on use of documents and information provided for investigations) of the Financial Assistance Scheme (Appeals) Regulations 2005[^f00162], for sub-paragraph (f) substitute—
 
@@ -1942,11 +1942,11 @@ In regulation 28(3) (restriction on use of documents and information provided fo
 
 .
 
-### 112. The Insolvency Practitioners Regulations (Northern Ireland) 2006[^key-aed927c6b69bad60fcf3329dcb974bd0]
+### 112. The Insolvency Practitioners Regulations (Northern Ireland) 2006[^c-aed927c6b69bad60fcf3329dcb974bd0]
 
 In paragraph 11(4) (inspection and retention requirements related to cover schedule) of Schedule 2 to the Insolvency Practitioners Regulations (Northern Ireland) 2006[^f00163], for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 113. The Community Benefit Societies (Restriction on Use of Assets) Regulations 2006[^key-c85fe1f99f10ff7fd99b20c11324a581]
+### 113. The Community Benefit Societies (Restriction on Use of Assets) Regulations 2006[^c-c85fe1f99f10ff7fd99b20c11324a581]
 
 In the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006[^f00164]—
 
@@ -1962,7 +1962,7 @@ In the Community Benefit Societies (Restriction on Use of Assets) Regulations 20
 
   .
 
-### 114. The Permitted Persons (Designation) Order 2006[^key-6861a0afc8d653d60d31b48e900d9ce7]
+### 114. The Permitted Persons (Designation) Order 2006[^c-6861a0afc8d653d60d31b48e900d9ce7]
 
 In article 2 (permitted persons designated) of the Permitted Persons (Designation) Order 2006[^f00165], for paragraph (30) substitute—
 
@@ -1972,7 +1972,7 @@ In article 2 (permitted persons designated) of the Permitted Persons (Designatio
 
 .
 
-### 115. The Authorised Investment Funds (Tax) Regulations 2006[^key-2cda85e7f1a204f270d75d87f434dde4]
+### 115. The Authorised Investment Funds (Tax) Regulations 2006[^c-2cda85e7f1a204f270d75d87f434dde4]
 
 In the Authorised Investment Funds (Tax) Regulations 2006[^f00166]—
 
@@ -1985,7 +1985,7 @@ In the Authorised Investment Funds (Tax) Regulations 2006[^f00166]—
   ; and
 - (b) in regulations 14B(4) (tax treatment of qualified investor schemes), 23(2) (provisions applying if amounts available for distribution are de minimis), 69Q(3)(c) and (5)(c) (contents of notice under regulation 69O), 69Z39(1)(a) and (2) (company ceasing to be authorised etc.), 69Z51(3)(e) and (5)(c) (contents of application under regulation 69Z49) and 69Z53(5)(b) (appeal against refusal notice) for “Financial Services Authority” substitute “appropriate regulator”.
 
-### 116. The Cross-Border Insolvency Regulations 2006[^key-a3a111b4adfa5c29379a68177323dd27]
+### 116. The Cross-Border Insolvency Regulations 2006[^c-a3a111b4adfa5c29379a68177323dd27]
 
 In the Cross-Border Insolvency Regulations 2006[^f00167]—
 
@@ -2057,7 +2057,7 @@ In the Cross-Border Insolvency Regulations 2006[^f00167]—
     ;
 - (c) in Schedule 5 (forms), in form ML6, for “Financial Services Authority” in each place substitute “Financial Conduct Authority and, where relevant, the Prudential Regulation Authority”.
 
-### 117. The Banks (Former Authorised Institutions) (Insolvency) Order 2006[^key-281b75435b50fafd72986092dbf24ec8]
+### 117. The Banks (Former Authorised Institutions) (Insolvency) Order 2006[^c-281b75435b50fafd72986092dbf24ec8]
 
 (1) In the Schedule to the Banks (Former Authorised Institutions) (Insolvency) Order 2006 (modifications of Part 2 of the Insolvency Act in its application to companies that are former authorised institutions)[^f00168]—
 
@@ -2083,7 +2083,7 @@ In the Cross-Border Insolvency Regulations 2006[^f00167]—
   - (iii) in sub-paragraphs (4) and (5) for “Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”;
   - (iv) in the heading, for “Financial Services Authority” substitute “Financial Conduct Authority and Prudential Regulation Authority”.
 
-### 118. The Capital Requirements Regulations 2006[^key-ce911bce778bf3893beeb21a0ff9ed5a]
+### 118. The Capital Requirements Regulations 2006[^c-ce911bce778bf3893beeb21a0ff9ed5a]
 
 In the Capital Requirements Regulations 2006[^f00169]—
 
@@ -2182,7 +2182,7 @@ In the Capital Requirements Regulations 2006[^f00169]—
   - (iii) for “the Authority” in the second place it appears substitute “that appropriate regulator”;
 - (aa) in Schedules 1[^f00184] and 2 (recognition of ECAIs and mapping), for “Authority” in each place it appears substitute “PRA”.
 
-### 119. Transitional provision in relation to the Capital Requirements Regulations 2006[^key-31a75c0f9d1c1e6a12a0f94126f03d3c]
+### 119. Transitional provision in relation to the Capital Requirements Regulations 2006[^c-31a75c0f9d1c1e6a12a0f94126f03d3c]
 
 (1) This paragraph makes transitional provision in connection with the amendments made to the Capital Requirements Regulations 2006 (“the Regulations”).
 
@@ -2196,7 +2196,7 @@ In the Capital Requirements Regulations 2006[^f00169]—
 
 (6) In this paragraph, “EEA consolidated supervisor” has the meaning given in the Regulations.
 
-### 120. The Compensation Act 2006 (Contribution for Mesothelioma Claims) Regulations 2006[^key-77d102462f8a816448ca06026d6b2737]
+### 120. The Compensation Act 2006 (Contribution for Mesothelioma Claims) Regulations 2006[^c-77d102462f8a816448ca06026d6b2737]
 
 In the Compensation Act 2006 (Contribution for Mesothelioma Claims) Regulations 2006[^f00185]—
 
@@ -2205,11 +2205,11 @@ In the Compensation Act 2006 (Contribution for Mesothelioma Claims) Regulations 
   - (i) for “FSA rules” substitute “rules made by the Financial Conduct Authority or the Prudential Regulatory Authority”,
   - (ii) for “sections 155 and 157(3)” substitute “sections 138I and 139A(5)”.
 
-### 121. The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006[^key-34b5e3fece91315e6b03a2141f01f952]
+### 121. The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006[^c-34b5e3fece91315e6b03a2141f01f952]
 
 In regulation 23(2)(b) of the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006[^f00186], for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 122. The Water and Sewerage Services (Northern Ireland) Order 2006[^key-3adecbdd92adeaa7076807e4185f9548]
+### 122. The Water and Sewerage Services (Northern Ireland) Order 2006[^c-3adecbdd92adeaa7076807e4185f9548]
 
 In Article 265 of the Water and Sewerage Services (Northern Ireland) Order 2006[^f00187] (restriction on disclosure of information), in paragraph (4), for sub-paragraph (h) substitute—
 
@@ -2218,11 +2218,11 @@ In Article 265 of the Water and Sewerage Services (Northern Ireland) Order 2006[
 
 .
 
-### 123. The Enterprise Act 2002 (Amendment) Regulations 2006[^key-17faae572dec7885506ad8d4393e3604]
+### 123. The Enterprise Act 2002 (Amendment) Regulations 2006[^c-17faae572dec7885506ad8d4393e3604]
 
 In regulation 23 of the Enterprise Act 2002 (Amendment) Regulations 2006[^f00188] and in the heading to that regulation for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 124. The Cross-Border Insolvency Regulations (Northern Ireland) 2007[^key-a3b87ed9db45072c1c1a72e15399a072]
+### 124. The Cross-Border Insolvency Regulations (Northern Ireland) 2007[^c-a3b87ed9db45072c1c1a72e15399a072]
 
 In Schedule 2 (procedural matters) to the Cross-Border Insolvency Regulations (Northern Ireland) 2007[^f00189]—
 
@@ -2263,7 +2263,7 @@ In Schedule 2 (procedural matters) to the Cross-Border Insolvency Regulations (N
 
   .
 
-### 125. The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007[^key-a0a57a358322b007248131be027f9047]
+### 125. The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007[^c-a0a57a358322b007248131be027f9047]
 
 (1) The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007[^f00190] are amended as follows.
 
@@ -2308,11 +2308,11 @@ In Schedule 2 (procedural matters) to the Cross-Border Insolvency Regulations (N
 
 (6) In paragraph (3), for “the Authority” substitute “the appropriate regulator”.
 
-### 126. The Iran (Financial Sanctions) Order 2007[^key-76886d67d0f1513331ab4e7620622191]
+### 126. The Iran (Financial Sanctions) Order 2007[^c-76886d67d0f1513331ab4e7620622191]
 
 In paragraph 6(1)(c) of the Schedule to the Iran (Financial Sanctions) Order 2007[^f00193] for “Financial Services Authority” substitute “Financial Conduct Authority, the Prudential Regulation Authority, or the Bank of England”.
 
-### 127. The Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) (Northern Ireland) Order 2007[^key-51b50b04ab4b12cba094d2c8b43b9f7c]
+### 127. The Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) (Northern Ireland) Order 2007[^c-51b50b04ab4b12cba094d2c8b43b9f7c]
 
 In the Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) (Northern Ireland) Order 2007[^f00194]—
 
@@ -2324,14 +2324,14 @@ In the Financial Services and Markets Act 2000 (Administration Orders Relating t
   ;
 - (b) in the Schedule (modifications of Part 3 of the 1989 Order in relation to insurers), for “Financial Services Authority” in each place it appears substitute “Financial Conduct Authority and, where relevant, the Prudential Regulation Authority”.
 
-### 128. The Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007[^key-8ac0ced0830fb9f042ebbabcfd0551f8]
+### 128. The Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007[^c-8ac0ced0830fb9f042ebbabcfd0551f8]
 
 In the Schedule to the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007[^f00195], in column 1 of the table—
 
 - (a) for “Financial Services Authority” substitute “Financial Conduct Authority”;
 - (b) as the next entry insert “The Prudential Regulation Authority”.
 
-### 129. The Money Laundering Regulations 2007[^key-8ea403368cf8a52dcff993768fca13e4]
+### 129. The Money Laundering Regulations 2007[^c-8ea403368cf8a52dcff993768fca13e4]
 
 In the Money Laundering Regulations 2007[^f00196]—
 
@@ -2379,7 +2379,7 @@ In the Money Laundering Regulations 2007[^f00196]—
 
   .
 
-### 130. The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007[^key-11474fc92dabb4754cf7eced97e00361]
+### 130. The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007[^c-11474fc92dabb4754cf7eced97e00361]
 
 In article 11 of the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007[^f00197]—
 
@@ -2390,7 +2390,7 @@ In article 11 of the Political Parties, Elections and Referendums Act 2000 (Nort
 
   .
 
-### 131. The Transfer of Funds (Information on the Payer) Regulations 2007[^key-2a2ffd5bcf9ac06e23e81b2e3c3f83b7]
+### 131. The Transfer of Funds (Information on the Payer) Regulations 2007[^c-2a2ffd5bcf9ac06e23e81b2e3c3f83b7]
 
 In the Transfer of Funds (Information on the Payer) Regulations 2007[^f00198]—
 
@@ -2403,7 +2403,7 @@ In the Transfer of Funds (Information on the Payer) Regulations 2007[^f00198]—
 
   .
 
-### 132. The Registered Pension Schemes (Authorised Member Payments) Regulations 2007[^key-a1bb25cf2f3a326af8621863a31bb342]
+### 132. The Registered Pension Schemes (Authorised Member Payments) Regulations 2007[^c-a1bb25cf2f3a326af8621863a31bb342]
 
 In regulation 2(5) (prescribed authorised member payment relating to inherited estate on reattribution) of the Registered Pension Schemes (Authorised Member Payments) Regulations 2007[^f00199]—
 
@@ -2418,14 +2418,14 @@ In regulation 2(5) (prescribed authorised member payment relating to inherited e
 
   .
 
-### 133. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-8ccf2fe6ff1a1f438458a37bca0a3189]
+### 133. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-8ccf2fe6ff1a1f438458a37bca0a3189]
 
 In Part 1 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00200]—
 
 - (a) for “Financial Services Authority” substitute “Financial Conduct Authority”;
 - (b) in the appropriate place insert “Prudential Regulation Authority”.
 
-### 134. The Regulated Covered Bonds Regulations 2008[^key-06fefea1005b61aa0ffaec7370b80f55]
+### 134. The Regulated Covered Bonds Regulations 2008[^c-06fefea1005b61aa0ffaec7370b80f55]
 
 In the Regulated Covered Bonds Regulations 2008[^f00201]—
 
@@ -2472,7 +2472,7 @@ In the Regulated Covered Bonds Regulations 2008[^f00201]—
 
     .
 
-### 135. The Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^key-3286eef1d1e69052dbc341c387c87272]
+### 135. The Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^c-3286eef1d1e69052dbc341c387c87272]
 
 In the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^f00205], in Schedule 3 (insurance companies: Companies Act individual accounts)—
 
@@ -2480,7 +2480,7 @@ In the Large and Medium-sized Companies and Groups (Accounts and Reports) Regula
 - (b) in paragraph 56, for “in section 1.4 of the Prudential Sourcebook for Insurers made by the Financial Services Authority” substitute “made by the Financial Conduct Authority or the Prudential Regulation Authority”;
 - (c) in paragraph 91, in the definition of “long-term fund”, for “rule 1.5.22 in the Prudential Sourcebook for Insurers made by the Financial Services Authority” substitute “rules made by the Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 136. The Northern Rock plc Transfer Order 2008[^key-9ec3e38aef9ce5245e75384d9f4e26ff]
+### 136. The Northern Rock plc Transfer Order 2008[^c-9ec3e38aef9ce5245e75384d9f4e26ff]
 
 In the Northern Rock plc Transfer Order 2008[^f00206]—
 
@@ -2517,7 +2517,7 @@ In the Northern Rock plc Transfer Order 2008[^f00206]—
     - (bb) for “Section 155(7)” substitute “Section 138L(1)”;
   - (iii) in the heading, for “Authority’s” substitute “regulator’s’”.
 
-### 137. The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008[^key-512c5e9c3cd7da8f198225f401869ef4]
+### 137. The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008[^c-512c5e9c3cd7da8f198225f401869ef4]
 
 In the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008[^f00208]—
 
@@ -2542,15 +2542,15 @@ In the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regul
 - (d) in regulation 14(5) (industrial and provident societies), for “The Authority” substitute “The Financial Conduct Authority”;
 - (e) in paragraph 3 of Schedule 1 (modification of the Friendly and Industrial and Provident Societies Act 1968), in subsection (4)(b) of the subsections substituted by that paragraph, after “the Authority” insert “and the Financial Conduct Authority (if it is not the Authority)”.
 
-### 138. The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008[^key-70d45c04d795e26d62a41320742bdfb8]
+### 138. The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008[^c-70d45c04d795e26d62a41320742bdfb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 139. The Northern Rock plc Compensation Scheme Order 2008[^key-d6fb41326d0b112a0b84939e049e2697]
+### 139. The Northern Rock plc Compensation Scheme Order 2008[^c-d6fb41326d0b112a0b84939e049e2697]
 
 In paragraph 18 of the Schedule to the Northern Rock plc Compensation Scheme Order 2008[^f00210], for “omit subsection (6)” substitute “omit subsections (6), (6A) and (7A)”[^f00211].
 
-### 140. The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008[^key-18416ab7cdf28f73b3f3c28a19b320a2]
+### 140. The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008[^c-18416ab7cdf28f73b3f3c28a19b320a2]
 
 In article 11 of the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008[^f00212]—
 
@@ -2565,15 +2565,15 @@ In article 11 of the Political Parties, Elections and Referendums Act 2000 (Nort
 
   .
 
-### 141. The Serious Organised Crime and Police Act 2005 (Disclosure of Information by SOCA) Order 2008[^key-63ba61ffe336421f92aa1574192df5aa]
+### 141. The Serious Organised Crime and Police Act 2005 (Disclosure of Information by SOCA) Order 2008[^c-63ba61ffe336421f92aa1574192df5aa]
 
 In article 2 of the Serious Organised Crime and Police Act 2005 (Disclosure of Information by SOCA) Order 2008[^f00213], for “Financial Services Authority” substitute “Financial Conduct Authority and of the Prudential Regulation Authority”.
 
-### 142. The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008[^key-d8ca22e6404029d3c94e46dd085397bb]
+### 142. The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008[^c-d8ca22e6404029d3c94e46dd085397bb]
 
 In article 3 of the Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008[^f00214], for “Financial Services Authority” substitute “Financial Conduct Authority, of the Prudential Regulation Authority and of the Bank of England”.
 
-### 143. The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^key-48e8520eec0d3cd4e563653c7430164b]
+### 143. The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^c-48e8520eec0d3cd4e563653c7430164b]
 
 In the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^f00215]—
 
@@ -2596,15 +2596,15 @@ In the Limited Liability Partnerships (Accounts and Audit) (Application of Compa
 
   .
 
-### 144. The Insurance Accounts Directive (Lloyd’s Syndicate and Aggregate Accounts) Regulations 2008[^key-87f9ea9b22b1dcb36f6ac428771f7770]
+### 144. The Insurance Accounts Directive (Lloyd’s Syndicate and Aggregate Accounts) Regulations 2008[^c-87f9ea9b22b1dcb36f6ac428771f7770]
 
 In regulation 2(1) of the Insurance Accounts Directive (Lloyd’s Syndicate and Aggregate Accounts) Regulations 2008[^f00216] (interpretation), in the definition of “the Authority”, for “Financial Services Authority” substitute “Prudential Regulation Authority”.
 
-### 145. Transitional provision in relation to the Insurance Accounts Directive (Lloyd’s Syndicate and Aggregate Accounts) Regulations 2008[^key-abec09bcce2c910fba26f4164da67bd9]
+### 145. Transitional provision in relation to the Insurance Accounts Directive (Lloyd’s Syndicate and Aggregate Accounts) Regulations 2008[^c-abec09bcce2c910fba26f4164da67bd9]
 
 Anything done for the purposes of the Insurance Accounts Directive (Lloyd’s Syndicate and Aggregate Accounts) Regulations 2008 by or in relation to the Financial Services Authority prior to 1st April 2013 is to be treated as having been done by or in relation to the Prudential Regulation Authority.
 
-### 146. The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008[^key-c4d069874ffd0e6f3d9d012b9af30aea]
+### 146. The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008[^c-c4d069874ffd0e6f3d9d012b9af30aea]
 
 In the Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008[^f00217]—
 
@@ -2638,7 +2638,7 @@ In the Bradford & Bingley plc Transfer of Securities and Property etc. Order 200
     - (bb) for “Section 155(7)” substitute “Section 138L(1)”;
   - (iii) in the heading, for “Authority’s” substitute “regulator’s’”.
 
-### 147. The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008[^key-0597c95f794b9df780940c0325666d82]
+### 147. The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008[^c-0597c95f794b9df780940c0325666d82]
 
 In the Heritable Bank plc Transfer of Securities and Property Order 2008[^f00218]—
 
@@ -2669,7 +2669,7 @@ In the Heritable Bank plc Transfer of Securities and Property Order 2008[^f00218
     - (bb) for “Section 155(7)” substitute “Section 138L(1)”;
   - (iii) in the heading, for “Authority’s” substitute “regulator’s’”.
 
-### 148. The Transfer of Rights and Liabilities to ING Order 2008[^key-f78ab6e905c12861fa17fd4114493ec1]
+### 148. The Transfer of Rights and Liabilities to ING Order 2008[^c-f78ab6e905c12861fa17fd4114493ec1]
 
 In the Transfer of Rights and Liabilities to ING Order 2008[^f00219]—
 
@@ -2700,7 +2700,7 @@ In the Transfer of Rights and Liabilities to ING Order 2008[^f00219]—
     - (bb) for “Section 155(7)” substitute “Section 138L(1)”;
   - (iii) in the heading, for “Authority’s” substitute “regulator’s’”.
 
-### 149. The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008[^key-1911ed1c532be592e3a8a96aebca3579]
+### 149. The Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008[^c-1911ed1c532be592e3a8a96aebca3579]
 
 In the Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008[^f00220]—
 
@@ -2731,14 +2731,14 @@ In the Kaupthing Singer & Friedlander Limited Transfer of Certain Rights and Lia
     - (bb) in the subsection added by that paragraph, for “Section 155(7)” substitute “Section 138(1)”;
   - (iii) in the heading, for “Authority’s” substitute “regulator’s’”.
 
-### 150. The Non-Domestic Rating (Small Business Relief) (Wales) Order 2008[^key-a32469addef6db6b3f56c682100d6df9]
+### 150. The Non-Domestic Rating (Small Business Relief) (Wales) Order 2008[^c-a32469addef6db6b3f56c682100d6df9]
 
 In the Schedule to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2008[^f00221]—
 
 - (a) in the English text of paragraph 6(d), for “Financial Services Authority” substitute “Financial Conduct Authority”;
 - (b) in the Welsh text of paragraph 6(ch), for “Awdurdod Gwasanaethau Ariannol” substitute “Awdurdod Ymddygiad Ariannol”.
 
-### 151. The Pre-release Access to Official Statistics Order 2008[^key-26845f2b3ae27389bde7484065168630]
+### 151. The Pre-release Access to Official Statistics Order 2008[^c-26845f2b3ae27389bde7484065168630]
 
 In paragraph 12(2) of the Schedule to the Pre-release Access to Official Statistics Order 2008[^f00222]—
 
@@ -2749,11 +2749,11 @@ In paragraph 12(2) of the Schedule to the Pre-release Access to Official Statist
   ;
 - (b) in paragraph (d) for “servant” substitute “employee”.
 
-### 152. The Bradford & Bingley plc Compensation Scheme Order 2008[^key-246350e0f7b0b1e1683ddf08b6c4ea9a]
+### 152. The Bradford & Bingley plc Compensation Scheme Order 2008[^c-246350e0f7b0b1e1683ddf08b6c4ea9a]
 
 In paragraph 17 of the Schedule to the Bradford & Bingley plc Compensation Scheme Order[^f00224], for “omit subsection (6)” substitute “omit subsections (6), (6A) and (7A)”[^f00225].
 
-### 153. The Bank Administration Rules (Northern Ireland) 2009[^key-ac23ece7d906bde59b5a5c401376c843]
+### 153. The Bank Administration Rules (Northern Ireland) 2009[^c-ac23ece7d906bde59b5a5c401376c843]
 
 In the Bank Administration Rules (Northern Ireland) 2009[^f00226]—
 
@@ -2770,7 +2770,7 @@ In the Bank Administration Rules (Northern Ireland) 2009[^f00226]—
 - (e) in rule 44(b) (appointment of provisional bank administrator), after “4” insert “or, if the bank is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), 5”;
 - (f) for “FSA”, in each other place it appears, substitute “appropriate regulator”.
 
-### 154. The Bank Insolvency (No.2) Rules (Northern Ireland) 2009[^key-a60d8f606da87d1731df31d8040021fc]
+### 154. The Bank Insolvency (No.2) Rules (Northern Ireland) 2009[^c-a60d8f606da87d1731df31d8040021fc]
 
 In the Bank Insolvency (No.2) Rules (Northern Ireland) 2009[^f00227]—
 
@@ -2807,7 +2807,7 @@ In the Bank Insolvency (No.2) Rules (Northern Ireland) 2009[^f00227]—
 - (f) in rule 94(2) (removal of bank liquidator by the court), for “FSA” substitute “Financial Conduct Authority, the Prudential Regulation Authority”;
 - (g) in rule 94(6)(a) for “FSA” substitute “the appropriate regulator”.
 
-### 155. The Payment Services Regulations 2009[^key-e4187b7b5dd1ce73d65e2f6c7ec4a3b5]
+### 155. The Payment Services Regulations 2009[^c-e4187b7b5dd1ce73d65e2f6c7ec4a3b5]
 
 (1) The Payment Services Regulations 2009[^f00228] are amended as follows.
 
@@ -2963,7 +2963,7 @@ In the Bank Insolvency (No.2) Rules (Northern Ireland) 2009[^f00227]—
     ;
   - (ii) in sub-paragraph (e), for “Authority’s” substitute “FCA’s and PRA’s”.
 
-### 156. Transitional provision in connection with the Payment Services Regulations 2009[^key-e25617deb1d3a77a010db7a901f4ad19]
+### 156. Transitional provision in connection with the Payment Services Regulations 2009[^c-e25617deb1d3a77a010db7a901f4ad19]
 
 (1) Regulation 42 (changes in contractual information) of the Payment Services Regulations 2009 does not require a payment service provider to provide its payment service users with notice of the proposed change of the name or identity of its regulator resulting from section 6 of the Financial Services Act 2012 (the new Regulators).
 
@@ -2974,7 +2974,7 @@ In the Bank Insolvency (No.2) Rules (Northern Ireland) 2009[^f00227]—
 - (a) terms which are defined in the Payment Services Regulations 2009 have the meaning given in those Regulations;
 - (b) “relevant payment service users”, in relation to a payment service provider, means those persons who were payment service users of that payment service provider immediately before 1st April 2013and which are such payment service users on the date on which the information required under sub-paragraph (2) is given.
 
-### 157. The Companies (Disclosure of Address) Regulations 2009[^key-f15356fabdbff26f5a6c71edef8ec0b0]
+### 157. The Companies (Disclosure of Address) Regulations 2009[^c-f15356fabdbff26f5a6c71edef8ec0b0]
 
 In the Companies (Disclosure of Address) Regulations 2009[^f00238]—
 
@@ -2989,7 +2989,7 @@ In the Companies (Disclosure of Address) Regulations 2009[^f00238]—
   - (iii) in the entry beginning “a person appointed to make a report under section 166”, after “section 166” insert “or 166A”;
 - (b) in paragraph 7(b) of Schedule 2 (conditions for permitted disclosure), for “rules made pursuant to section 146 of the Financial Services and Markets Act 2000 (money laundering rules)” substitute “rules made pursuant to section 137A of the Financial Services and Markets Act 2000[^f00239] which relate to the prevention and detection of money laundering in connection with the carrying on of regulated activities by authorised persons”.
 
-### 158. The Banking Act 2009 (Bank Administration) (Modification for Application to Banks in Temporary Public Ownership) Regulations 2009[^key-29401f2cc61426468d57b5096867f0e9]
+### 158. The Banking Act 2009 (Bank Administration) (Modification for Application to Banks in Temporary Public Ownership) Regulations 2009[^c-29401f2cc61426468d57b5096867f0e9]
 
 In table 2 in the Schedule to the Banking Act 2009 (Bank Administration) (Modification for Application to Banks in Temporary Public Ownership) Regulations 2009[^f00240] (specific modifications)—
 
@@ -3002,11 +3002,11 @@ In table 2 in the Schedule to the Banking Act 2009 (Bank Administration) (Modifi
 
   .
 
-### 159. The Banking Administration (Sharing Information) Regulations 2009[^key-9ac41024bb8635265a01a68ec916030d]
+### 159. The Banking Administration (Sharing Information) Regulations 2009[^c-9ac41024bb8635265a01a68ec916030d]
 
 In regulation 9(d) (information to be provided on request by the bank administrator to the bridge bank) of the Banking Administration (Sharing Information) Regulations 2009[^f00241], for “FSA” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 160. The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^key-b9cc8b62aabeaf8172d05296088899c5]
+### 160. The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^c-b9cc8b62aabeaf8172d05296088899c5]
 
 In the Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^f00242]—
 
@@ -3017,7 +3017,7 @@ In the Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^
   ;
 - (b) in article 5(5) (secured liabilities), for “the Financial Services Authority” substitute “the Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 161. The Bank Administration (Scotland) Rules 2009[^key-fa04d197f45d0798b88767fb1985d4a8]
+### 161. The Bank Administration (Scotland) Rules 2009[^c-fa04d197f45d0798b88767fb1985d4a8]
 
 In the Bank Administration (Scotland) Rules 2009[^f00243]—
 
@@ -3034,7 +3034,7 @@ In the Bank Administration (Scotland) Rules 2009[^f00243]—
 - (d) in rule 16 (notice of order), after “four” insert “or, if the bank is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five”;
 - (e) for “FSA”, in each other place it appears, substitute “appropriate regulator”.
 
-### 162. The Bank Insolvency (Scotland) Rules 2009[^key-71e513927b47f15ec54e723469b379a3]
+### 162. The Bank Insolvency (Scotland) Rules 2009[^c-71e513927b47f15ec54e723469b379a3]
 
 In the Bank Insolvency (Scotland) Rules 2009[^f00244]—
 
@@ -3082,7 +3082,7 @@ In the Bank Insolvency (Scotland) Rules 2009[^f00244]—
 - (f) in rule 39(2) (removal of bank liquidator by the court), for “FSA” substitute “Financial Conduct Authority, the Prudential Regulation Authority”;
 - (g) for “FSA”, in each other place it appears, substitute “appropriate regulator”.
 
-### 163. The Bank Insolvency (England and Wales) Rules 2009[^key-df391408c4f5f909374e5ba200d94b65]
+### 163. The Bank Insolvency (England and Wales) Rules 2009[^c-df391408c4f5f909374e5ba200d94b65]
 
 In the Bank Insolvency (England and Wales) Rules 2009[^f00245]—
 
@@ -3117,7 +3117,7 @@ In the Bank Insolvency (England and Wales) Rules 2009[^f00245]—
 - (e) in rule 94(2) (removal of bank liquidator by the court), for “FSA” substitute “Financial Conduct Authority, the Prudential Regulation Authority”;
 - (f) for “FSA” in each other place it appears, substitute “the appropriate regulator”.
 
-### 164. The Bank Administration (England and Wales) Rules 2009[^key-0e3ee269994db45e643c326916ea0f07]
+### 164. The Bank Administration (England and Wales) Rules 2009[^c-0e3ee269994db45e643c326916ea0f07]
 
 In the Bank Administration (England and Wales) Rules 2009[^f00246]—
 
@@ -3144,7 +3144,7 @@ In the Bank Administration (England and Wales) Rules 2009[^f00246]—
   ;
 - (g) for “FSA”, in each other place it appears, substitute “appropriate regulator”.
 
-### 165. The Unit Trusts (Electronic Communications) Order 2009[^key-b4ee81841d68090adc8ea7cbd4220f1d]
+### 165. The Unit Trusts (Electronic Communications) Order 2009[^c-b4ee81841d68090adc8ea7cbd4220f1d]
 
 In article 2 (interpretation) of the Unit Trusts (Electronic Communications) Order 2009[^f00247]—
 
@@ -3181,11 +3181,11 @@ In article 2 (interpretation) of the Unit Trusts (Electronic Communications) Ord
 
   .
 
-### 166. The Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009[^key-bb4c1ef5dcee3cf02358d3462d5241d2]
+### 166. The Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009[^c-bb4c1ef5dcee3cf02358d3462d5241d2]
 
 In article 4(1) of the Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009[^f00248] (general exemption in respect of certain non-directive firms), for “(notifying the Authority)” substitute “(notifying the regulators)”.
 
-### 167. The Amendments to Law (Resolution of Dunfermline Building Society) Order 2009[^key-3712cf8938ed728c072954edeb54c3bf]
+### 167. The Amendments to Law (Resolution of Dunfermline Building Society) Order 2009[^c-3712cf8938ed728c072954edeb54c3bf]
 
 In the Amendments to Law (Resolution of Dunfermline Building Society) Order 2009[^f00249]—
 
@@ -3212,7 +3212,7 @@ In the Amendments to Law (Resolution of Dunfermline Building Society) Order 2009
     - (bb) for “Section 155(7)” substitute “Section 138L(1)”;
   - (iii) in the heading, for “FSA’s duty” substitute “regulators’ duties”.
 
-### 168. The Proceeds of Crime Act 2002 (References to Financial Investigators) Order 2009[^key-be3b3bb3ea64c7577712fec4893e2431]
+### 168. The Proceeds of Crime Act 2002 (References to Financial Investigators) Order 2009[^c-be3b3bb3ea64c7577712fec4893e2431]
 
 (1) In Schedule 1 to the Proceeds of Crime Act 2002 (References to Financial Investigators) Order 2009[^f00250]—
 
@@ -3394,7 +3394,7 @@ In the Amendments to Law (Resolution of Dunfermline Building Society) Order 2009
 
       .
 
-### 169. The Building Societies (Insolvency and Special Administration) Order 2009[^key-c5bbad0c9d043a2ed168fdf3f740aa51]
+### 169. The Building Societies (Insolvency and Special Administration) Order 2009[^c-c5bbad0c9d043a2ed168fdf3f740aa51]
 
 Schedule 1 to the Building Societies (Insolvency and Special Administration) Order 2009[^f00251] (modified application of Parts 2 and 3 of the Banking Act 2009 to building societies) is amended as follows—
 
@@ -3403,7 +3403,7 @@ Schedule 1 to the Building Societies (Insolvency and Special Administration) Ord
   - (i) in sub-paragraph (2), for “the FSA” substitute “the FCA or the PRA”;
   - (ii) in sub-paragraph (3)(b), for “the FSA’s power” in both places it appears substitute “the power of the FCA or PRA”.
 
-### 170. The Building Society Special Administration (Scotland) Rules 2009[^key-df067b65c80326af286ecdfb77254164]
+### 170. The Building Society Special Administration (Scotland) Rules 2009[^c-df067b65c80326af286ecdfb77254164]
 
 In the Building Society Special Administration (Scotland) Rules 2009[^f00252]—
 
@@ -3429,15 +3429,15 @@ In the Building Society Special Administration (Scotland) Rules 2009[^f00252]—
 - (e) in rule 40 (general modifications), in paragraph (l) for “FSA” substitute “Financial Conduct Authority”;
 - (f) for “FSA”, in each other place it appears, substitute “appropriate regulator”.
 
-### 171. The Zimbabwe (Financial Sanctions) Regulations 2009[^key-b1610eb8fdfa0d070942dbf537a79365]
+### 171. The Zimbabwe (Financial Sanctions) Regulations 2009[^c-b1610eb8fdfa0d070942dbf537a79365]
 
 In paragraph 6(1)(d) (disclosure of information by the Treasury) of the Schedule to the Zimbabwe (Financial Sanctions) Regulations 2009[^f00253], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority, or the Bank of England”.
 
-### 172. The Burma/Myanmar (Financial Restrictions) Regulations 2009[^key-cc0121bc1162e4e1710dc1a050a67e71]
+### 172. The Burma/Myanmar (Financial Restrictions) Regulations 2009[^c-cc0121bc1162e4e1710dc1a050a67e71]
 
 In paragraph 6(1)(d) (disclosure of information by the Treasury) of the Schedule to the Burma/Myanmar (Financial Restrictions) Regulations 2009[^f00254], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority, or the Bank of England”.
 
-### 173. The Overseas Companies Regulations 2009[^key-b15abc87adc13f17e83095dc02f3bd3b]
+### 173. The Overseas Companies Regulations 2009[^c-b15abc87adc13f17e83095dc02f3bd3b]
 
 In the Overseas Companies Regulations 2009[^f00255]—
 
@@ -3452,18 +3452,18 @@ In the Overseas Companies Regulations 2009[^f00255]—
   - (iii) in the entry beginning “a person appointed to make a report under section 166”, after “section 166” insert “or section 166A”;
 - (b) in paragraph 7(b) of Schedule 2 (conditions for permitted disclosure), for “rules made pursuant to section 146 of the Financial Services and Markets Act 2000 (money laundering rules)” substitute “rules made pursuant to section 137A of the Financial Services and Markets Act 2000 which relate to the prevention and detection of money laundering in connection with the carrying on of regulated activities by authorised persons”.
 
-### 174. The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^key-7417df454fc3edd1a0975fd4ea897c43]
+### 174. The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^c-7417df454fc3edd1a0975fd4ea897c43]
 
 In regulation 48 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^f00256] (main provisions), in the modifications to section 995(1) of the Companies Act 2006 (petition by Secretary of State)—
 
 - (a) in paragraph (c), for “the Secretary of State or the Financial Services Authority” substitute “the Secretary of State, the Bank of England, the Financial Conduct Authority or the Prudential Regulation Authority”;
 - (b) in paragraph (d), for “appointed by him or the Financial Services Authority” substitute “appointed by the Secretary of State, the Bank of England, the Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 175. The Dunfermline Building Society Independent Valuer Order 2009[^key-624eeb20751bd0d94c4581effa91b966]
+### 175. The Dunfermline Building Society Independent Valuer Order 2009[^c-624eeb20751bd0d94c4581effa91b966]
 
 In article 17(iii) of the Dunfermline Building Society Independent Valuer Order 2009[^f00257], for “omit subsection (6)” substitute ““omit subsections (6), (6A) and (7A)”[^f00258].
 
-### 176. The General Insurers’ Technical Provisions (Appropriate Amount) (Tax) Regulations 2009[^key-2a50bc24f7424494719312188745ebbc]
+### 176. The General Insurers’ Technical Provisions (Appropriate Amount) (Tax) Regulations 2009[^c-2a50bc24f7424494719312188745ebbc]
 
 In regulation 8 (provisions supplementing regulations 5 and 7) of the General Insurers’ Technical Provisions (Appropriate Amount) (Tax) Regulations 2009[^f00259], for paragraph (6) substitute—
 
@@ -3471,7 +3471,7 @@ In regulation 8 (provisions supplementing regulations 5 and 7) of the General In
 
 .
 
-### 177. The Company, Limited Liability Partnership and Business Names (Public Authorities) Regulations 2009[^key-b19bb216efeb9b72a5786011a1fbe4d5]
+### 177. The Company, Limited Liability Partnership and Business Names (Public Authorities) Regulations 2009[^c-b19bb216efeb9b72a5786011a1fbe4d5]
 
 In the Schedule to the Company, Limited Liability Partnership and Business Names (Public Authorities) Regulations 2009[^f00260] (specified “public authorities” and list of government departments and other bodies whose views must be sought)—
 
@@ -3490,15 +3490,15 @@ In the Schedule to the Company, Limited Liability Partnership and Business Names
 
   .
 
-### 178. The Offshore Funds (Tax) Regulations 2009[^key-24f705bc93407ab273216c5af64da35e]
+### 178. The Offshore Funds (Tax) Regulations 2009[^c-24f705bc93407ab273216c5af64da35e]
 
 In regulation 74(2) of the Offshore Funds (Tax) Regulations 2009[^f00261] (the equivalence condition), for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 179. The Burma (Restrictive Measures) (Overseas Territories) Order 2009[^key-8c206b302020efa8419727659251451d]
+### 179. The Burma (Restrictive Measures) (Overseas Territories) Order 2009[^c-8c206b302020efa8419727659251451d]
 
 In article 26(1)(e) of the Burma (Restrictive Measures)(Overseas Territories) Order 2009[^f00262](provisions supplementary to articles 23 to 25), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 180. The Scottish and Northern Ireland Banknote Regulations 2009[^key-68a578c800f4bf642edbd48ed6a7e543]
+### 180. The Scottish and Northern Ireland Banknote Regulations 2009[^c-68a578c800f4bf642edbd48ed6a7e543]
 
 In regulation 17 of the Scottish and Northern Ireland Banknote Regulations 2009[^f00263] (permitted publication or disclosure of information)—
 
@@ -3511,11 +3511,11 @@ In regulation 17 of the Scottish and Northern Ireland Banknote Regulations 2009[
   ;
 - (b) in paragraph (3), for “Treasury or the Financial Services Authority” substitute “Treasury, the Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 181. The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2009[^key-ce549e6bc543c7674cbfa5b32c84f7a9]
+### 181. The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2009[^c-ce549e6bc543c7674cbfa5b32c84f7a9]
 
 In regulation 3 (definition of “investment”) of the Local Government Pension Scheme (Management and Investment of Funds) Regulations 2009[^f00265], in paragraph (8) for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 182. The Northern Rock plc Transfer Order 2009[^key-ea723b742d5a8280b0b9363a7165abf8]
+### 182. The Northern Rock plc Transfer Order 2009[^c-ea723b742d5a8280b0b9363a7165abf8]
 
 In the Northern Rock plc Transfer Order 2009[^f00266]—
 
@@ -3546,11 +3546,11 @@ In the Northern Rock plc Transfer Order 2009[^f00266]—
     - (bb) for “Section 155(7)” substitute “Section 138L(1)”;
   - (iii) in the heading, for “FSA’s” substitute “regulator’s’”.
 
-### 183. The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010[^key-510fd4dde7da3b247a5ca0a6a2cc11c9]
+### 183. The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010[^c-510fd4dde7da3b247a5ca0a6a2cc11c9]
 
 In regulation 3 (definition of “investment”) of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010[^f00267], in paragraph (8), for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 184. The Regulation of Investigatory Powers (Communications Data) Order 2010[^key-152e18bcd709ec5412157734cf852fb6]
+### 184. The Regulation of Investigatory Powers (Communications Data) Order 2010[^c-152e18bcd709ec5412157734cf852fb6]
 
 In Part 1 of the Schedule 2 to the Regulation of Investigatory Powers (Communications Data) Order 2010[^f00268], for the entry for the “The Financial Services Authority” substitute—
 
@@ -3561,7 +3561,7 @@ In Part 1 of the Schedule 2 to the Regulation of Investigatory Powers (Communica
 
 .
 
-### 185. The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^key-884e8e5e6a9db2fbb917b47f3b3fc655]
+### 185. The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^c-884e8e5e6a9db2fbb917b47f3b3fc655]
 
 In Part 1 of the Schedule to the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010[^f00269](offices etc. and restrictions in respect of public authorities specified in Part 1 of Schedule 1 to the Act), for the entry for the “The Financial Services Authority”, substitute—
 
@@ -3572,11 +3572,11 @@ In Part 1 of the Schedule to the Regulation of Investigatory Powers (Directed Su
 
 .
 
-### 186. The Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^key-543b78ed3b06fa4e7337a7928b185669]
+### 186. The Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^c-543b78ed3b06fa4e7337a7928b185669]
 
 In paragraph 17 of Schedule 2 to the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^f00270] (regulated activities: general exceptions) for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 187. The Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^key-683fea68c82dfae1d35da4a8fdb7f21b]
+### 187. The Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^c-683fea68c82dfae1d35da4a8fdb7f21b]
 
 In the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^f00271]—
 
@@ -3595,7 +3595,7 @@ In the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication
     ;
 - (b) in the Schedule (persons to whom the Bank of England may disclose specified information for specified purposes), for “section 15 of the Financial Services and Markets Act 2000 (power to appoint a person to hold an inquiry)”, substitute “section 68 of the Financial Services Act 2012 (cases in which Treasury may arrange independent inquiries)”.
 
-### 188. The Credit Rating Agencies Regulations 2010[^key-4e628448e131ad565b1b3ca496bf0b9f]
+### 188. The Credit Rating Agencies Regulations 2010[^c-4e628448e131ad565b1b3ca496bf0b9f]
 
 The Credit Rating Agencies Regulations 2010[^f00272] are amended as follows—
 
@@ -3620,7 +3620,7 @@ The Credit Rating Agencies Regulations 2010[^f00272] are amended as follows—
   - (ii) in paragraph (3) for “Authority” substitute “FCA”;
 - (h) in regulation 33 (inspections: Article 23d of the EC Regulation), in each place it appears, for “Authority” substitute “FCA”.
 
-### 189. The Financial Services and Markets Act 2000 (Contribution to Costs of Special Resolution Regime) Regulations 2010[^key-2a44512c114cdc7ebd0bbf5764d7b1eb]
+### 189. The Financial Services and Markets Act 2000 (Contribution to Costs of Special Resolution Regime) Regulations 2010[^c-2a44512c114cdc7ebd0bbf5764d7b1eb]
 
 In regulation 17 of the Financial Services and Markets Act 2000 (Contribution to Costs of Special Resolution Regime) Regulations 2010[^f00273] (payments made under these Regulations to constitute payment of compensation under the scheme)—
 
@@ -3642,7 +3642,7 @@ In regulation 17 of the Financial Services and Markets Act 2000 (Contribution to
 
   .
 
-### 190. The Building Society Special Administration (England and Wales) Rules 2010[^key-1398a4c81cac778294ec9d937ec2dd1b]
+### 190. The Building Society Special Administration (England and Wales) Rules 2010[^c-1398a4c81cac778294ec9d937ec2dd1b]
 
 (1) The Building Society Special Administration (England and Wales) Rules 2010[^f00274] are amended as follows.
 
@@ -3688,7 +3688,7 @@ In regulation 17 of the Financial Services and Markets Act 2000 (Contribution to
 - (a) in the entry relating to rule 2.128, “FCA”;
 - (b) in every other place substitute “FCA and where relevant the PRA”.
 
-### 191. The Building Society Insolvency (England and Wales) Rules 2010[^key-00b7ae86f82806b458ebd9b4f06f581b]
+### 191. The Building Society Insolvency (England and Wales) Rules 2010[^c-00b7ae86f82806b458ebd9b4f06f581b]
 
 (1) The Building Society Insolvency (England and Wales) Rules 2010[^f00275] are amended as follows.
 
@@ -3727,7 +3727,7 @@ In regulation 17 of the Financial Services and Markets Act 2000 (Contribution to
 
 (5) For “FSA”, in every other place it appears, substitute “appropriate regulator”.
 
-### 192. The Building Society Insolvency (Scotland) Rules 2010[^key-8cd9ef38260538b8757999ecb5de63f6]
+### 192. The Building Society Insolvency (Scotland) Rules 2010[^c-8cd9ef38260538b8757999ecb5de63f6]
 
 (1) The Building Society Insolvency (Scotland) Rules 2010[^f00276] are amended as follows.
 
@@ -3769,15 +3769,15 @@ In regulation 17 of the Financial Services and Markets Act 2000 (Contribution to
 
 (8) For “the FSA”, in every other place it appears, substitute “the appropriate regulator”.
 
-### 193. The Official Statistics Order 2010[^key-329e426bc64babcc809fbaf92478ea5b]
+### 193. The Official Statistics Order 2010[^c-329e426bc64babcc809fbaf92478ea5b]
 
 In the Schedule to the Official Statistics Order 2010[^f00277] for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-### 194. The Somalia (Asset-Freezing) Regulations 2010[^key-4b513d1f90d2d14913d2633afffd7efe]
+### 194. The Somalia (Asset-Freezing) Regulations 2010[^c-4b513d1f90d2d14913d2633afffd7efe]
 
 In paragraph 5(1)(e) of the Schedule to the Somalia (Asset-Freezing) Regulations 2010[^f00278] (information provisions) for the “the Financial Services Authority” substitute “the Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 195. The Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2010[^key-fb54bca921b4196dcaa18179042ffb8d]
+### 195. The Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2010[^c-fb54bca921b4196dcaa18179042ffb8d]
 
 In the Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2010[^f00279]—
 
@@ -3793,7 +3793,7 @@ In the Financial Services and Markets Act 2000 (Administration Orders Relating t
   - (v) in paragraph 8 for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”;
   - (vi) in paragraph 9(c) for “Financial Services Authority” substitute “Financial Conduct Authority or the Prudential Regulation Authority”.
 
-### 196. The Electronic Money Regulations 2011[^key-ffb4a260a05b6bb0827fe0c68f045f91]
+### 196. The Electronic Money Regulations 2011[^c-ffb4a260a05b6bb0827fe0c68f045f91]
 
 (1) The Electronic Money Regulations 2011[^f00280] are amended as follows.
 
@@ -4017,7 +4017,7 @@ In the Financial Services and Markets Act 2000 (Administration Orders Relating t
       ;
   - (iv) in sub-paragraph (e) for “(the Authority’s procedures)” substitute “(the FCA’s and PRA’s procedures)”.
 
-### 197. The Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011[^key-98713868c102e0375612ee48b1c81951]
+### 197. The Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011[^c-98713868c102e0375612ee48b1c81951]
 
 In Schedule 1 to the Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011[^f00305] (persons to whom information may be disclosed), for “The Financial Services Authority” substitute—
 
@@ -4027,7 +4027,7 @@ In Schedule 1 to the Legal Services Act 2007 (Disclosure of Restricted Informati
 
 .
 
-### 198. The Investment Bank Special Administration Regulations 2011[^key-9000b0b966d536732b7089f2a81ebd78]
+### 198. The Investment Bank Special Administration Regulations 2011[^c-9000b0b966d536732b7089f2a81ebd78]
 
 In the Investment Bank Special Administration Regulations 2011[^f00306]—
 
@@ -4204,19 +4204,19 @@ In the Investment Bank Special Administration Regulations 2011[^f00306]—
   - (i) in sub-paragraph (2)(b), in the modified section 215(4), for “Authority” substitute “regulators”;
   - (ii) in sub-paragraph (5), in the heading for section 375, for “Authority’s right” substitute “right of FCA and PRA”.
 
-### 199. Transitional provision in relation to the Investment Bank Special Administration Regulations 2011[^key-190445ded620a679558fdbf0fac92f29]
+### 199. Transitional provision in relation to the Investment Bank Special Administration Regulations 2011[^c-190445ded620a679558fdbf0fac92f29]
 
 For the purposes of the Investment Bank Special Administration Regulations 2011 anything done by or in relation to the Financial Services Authority under those Regulations (including, in particular, the giving of directions under regulation 16) in relation to an investment bank which is, on 1st April 2013, a PRA-authorised person within the meaning of those Regulations is to be treated as having also been done, unless the context otherwise requires, by or in relation to the Prudential Regulation Authority.
 
-### 200. The Libya (Financial Sanctions) Order 2011[^key-8f20b065614d0014da6569d54f465896]
+### 200. The Libya (Financial Sanctions) Order 2011[^c-8f20b065614d0014da6569d54f465896]
 
 In paragraph 5(1)(e) of the Schedule to the Libya (Financial Sanctions) Order 2011[^f00308] (general power to disclose information), for “Financial Services Authority” substitute “Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 201. The Libya (Asset-Freezing) Regulations 2011[^key-68f6001388d076973e5fadb0f4996e82]
+### 201. The Libya (Asset-Freezing) Regulations 2011[^c-68f6001388d076973e5fadb0f4996e82]
 
 In paragraph 5(1)(e) of the Schedule to the Libya (Asset-Freezing) Regulations 2011[^f00309] (general power to disclose information), for “Financial Services Authority” substitute “Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 202. The Independent Health Care (Wales) Regulations 2011[^key-04879c0f7866d614d55b33ebca363a7c]
+### 202. The Independent Health Care (Wales) Regulations 2011[^c-04879c0f7866d614d55b33ebca363a7c]
 
 In regulation 2(1) (interpretation)(dehongli) of the Independent Health Care (Wales) Regulations 2011[^f00310]—
 
@@ -4245,7 +4245,7 @@ In regulation 2(1) (interpretation)(dehongli) of the Independent Health Care (Wa
     ;
   - (iii) in the definition of “darparwr yswiriant”, for “yr Awdurdod Gwasanaethau Ariannol” substitute “yr Awdurdod Ymddygiad Ariannol neu’r Awdurdod Rheoleiddio Darbodus”.
 
-### 203. The Tunisia (Restrictive Measures) (Overseas Territories) Order 2011[^key-3e5b8107812d6c958ff0bd2ea17e89c3]
+### 203. The Tunisia (Restrictive Measures) (Overseas Territories) Order 2011[^c-3e5b8107812d6c958ff0bd2ea17e89c3]
 
 For article 12(2)(d) of the Tunisia (Restrictive Measures) (Overseas Territories) Order 2011[^f00315] (obtaining of evidence and information) substitute—
 
@@ -4253,34 +4253,34 @@ For article 12(2)(d) of the Tunisia (Restrictive Measures) (Overseas Territories
 
 .
 
-### 204. The Egypt (Asset-Freezing) Regulations 2011[^key-4a0965c45858386bf48fc4e367743178]
+### 204. The Egypt (Asset-Freezing) Regulations 2011[^c-4a0965c45858386bf48fc4e367743178]
 
 In paragraph 5(1)(e) of the Schedule to the Egypt (Asset-Freezing) Regulations 2011[^f00316] (general power to disclose information), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 205. The Tunisia (Asset-Freezing) Regulations 2011[^key-55b670040c7e6bb40982f1416fc6cb49]
+### 205. The Tunisia (Asset-Freezing) Regulations 2011[^c-55b670040c7e6bb40982f1416fc6cb49]
 
 In paragraph 5(1)(e) of the Schedule to the Tunisia (Asset-Freezing) Regulations 2011[^f00317] (general power to disclose information), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 206. The Ivory Coast (Asset-Freezing) Regulations 2011[^key-8d7fbc41afe5fb554dc7f379f804e417]
+### 206. The Ivory Coast (Asset-Freezing) Regulations 2011[^c-8d7fbc41afe5fb554dc7f379f804e417]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 207. The Democratic People’s Republic of Korea (Asset-Freezing) Regulations 2011[^key-3be0925d8481640b0d96292fbb94cd55]
+### 207. The Democratic People’s Republic of Korea (Asset-Freezing) Regulations 2011[^c-3be0925d8481640b0d96292fbb94cd55]
 
 In paragraph 5(1)(e) of the Schedule to the Democratic People’s Republic of Korea (Asset-Freezing) Regulations 2011[^f00319] (general power to disclose information), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 208. The Iran (Asset-Freezing) Regulations 2011[^key-c22cffc06a25b9069265767f005616f0]
+### 208. The Iran (Asset-Freezing) Regulations 2011[^c-c22cffc06a25b9069265767f005616f0]
 
 In paragraph 5(1)(e) of the Schedule to the Iran (Asset-Freezing) Regulations 2011[^f00320] (general power to disclose information), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 209. The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011[^key-07f87f7c6eff0a70f26dfe6fec5d0894]
+### 209. The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011[^c-07f87f7c6eff0a70f26dfe6fec5d0894]
 
 In paragraph 2 of Schedule 3 to the Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011[^f00321] (applications for authorisation in respect of Northern Ireland Open-Ended Investment Company)—
 
 - (a) in sub-paragraph (2), after “the Financial Services Authority” insert “or the Financial Conduct Authority”;
 - (b) in sub-paragraph (3) for “Authority” substitute “Financial Services Authority”.
 
-### 210. The Investment Bank Special Administration (England and Wales) Rules 2011[^key-4a400456fd6806144f47a40b30fab21e]
+### 210. The Investment Bank Special Administration (England and Wales) Rules 2011[^c-4a400456fd6806144f47a40b30fab21e]
 
 In the Investment Bank Special Administration (England and Wales) Rules 2011[^f00322]—
 
@@ -4454,18 +4454,18 @@ In the Investment Bank Special Administration (England and Wales) Rules 2011[^f0
 
   .
 
-### 211. Transitional provision in relation to the Bank Special Administration (England and Wales) Rules 2011[^key-59a3860f2b7c87f008fe4d35c653b83a]
+### 211. Transitional provision in relation to the Bank Special Administration (England and Wales) Rules 2011[^c-59a3860f2b7c87f008fe4d35c653b83a]
 
 For the purposes of the Investment Bank Special Administration (England and Wales) Rules 2011, anything done by or in relation to the Financial Services Authority under those Rules in relation to, or in connection with an investment bank which is, on 1st April 2013, a PRA-authorised person (within the meaning of those Rules) is to be treated, unless the context otherwise requires, as having also been done by or in relation to the Prudential Regulation Authority.
 
-### 212. The Undertakings for Collective Investment in Transferable Securities Regulations 2011[^key-21cc22c9b1c8d7d51d44622ed6dc1d35]
+### 212. The Undertakings for Collective Investment in Transferable Securities Regulations 2011[^c-21cc22c9b1c8d7d51d44622ed6dc1d35]
 
 In the Undertakings for Collective Investment in Transferable Securities Regulations 2011[^f00323]—
 
 - (a) in regulation 7 (interpretation of Part 4), in the definition of “the Authority” for “Financial Services Authority” substitute “Financial Conduct Authority”;
 - (b) in regulation 15(5) (division of a master UCITS), for “Authority” substitute “Financial Conduct Authority”.
 
-### 213. The Egypt (Restrictive Measures) (Overseas Territories) Order 2011[^key-94e779321363b0489243c1241d0ac3f2]
+### 213. The Egypt (Restrictive Measures) (Overseas Territories) Order 2011[^c-94e779321363b0489243c1241d0ac3f2]
 
 For article 12(2)(d) (obtaining of evidence and information) of the Egypt (Restrictive Measures) (Overseas Territories) Order 2011[^f00324] substitute—
 
@@ -4473,18 +4473,18 @@ For article 12(2)(d) (obtaining of evidence and information) of the Egypt (Restr
 
 .
 
-### 214. The Afghanistan (Asset-Freezing) Regulations 2011[^key-e5e0dbf502ec86010e8256bfdd70fcc3]
+### 214. The Afghanistan (Asset-Freezing) Regulations 2011[^c-e5e0dbf502ec86010e8256bfdd70fcc3]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Afghanistan (Asset-Freezing) Regulations 2011[^f00325], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 215. The Equality Act 2010 (Specific Duties) Regulations 2011[^key-95f939dc11ca60f8821ab86f0f5590f4]
+### 215. The Equality Act 2010 (Specific Duties) Regulations 2011[^c-95f939dc11ca60f8821ab86f0f5590f4]
 
 In Schedule 1 (public authorities required to publish information) to the Equality Act 2010 (Specific Duties) Regulations 2011[^f00326], under the heading “Industry, business, finance (etc)”—
 
 - (a) for “The Financial Services Authority.” substitute “The Financial Conduct Authority.”;
 - (b) at the appropriate place insert “The Prudential Regulation Authority.”.
 
-### 216. The Investment Bank Special Administration (Scotland) Rules 2011[^key-eb549a130bb6062862b74f57d8bfbccc]
+### 216. The Investment Bank Special Administration (Scotland) Rules 2011[^c-eb549a130bb6062862b74f57d8bfbccc]
 
 In the Investment Bank Special Administration (Scotland) Rules 2011[^f00327]—
 
@@ -4624,11 +4624,11 @@ In the Investment Bank Special Administration (Scotland) Rules 2011[^f00327]—
 
   .
 
-### 217. Transitional provision in relation to the Investment Bank Special Administration (Scotland) Rules 2011[^key-1ba75298f00eb09bc9ca05a70fe3c6e6]
+### 217. Transitional provision in relation to the Investment Bank Special Administration (Scotland) Rules 2011[^c-1ba75298f00eb09bc9ca05a70fe3c6e6]
 
 For the purposes of the Investment Bank Special Administration (Scotland) Rules 2011 anything done by or in relation to the Financial Services Authority under those Rules in relation to an investment bank which is a PRA-authorised person (within the meaning of those Rules) is to be treated, unless the context otherwise requires, as having been done by or in relation to the Prudential Regulation Authority.
 
-### 218. The Belarus (Restrictive Measures) (Overseas Territories) Order 2011[^key-afd742c80005f53778b34ff28c7499ad]
+### 218. The Belarus (Restrictive Measures) (Overseas Territories) Order 2011[^c-afd742c80005f53778b34ff28c7499ad]
 
 In the Belarus (Restrictive Measures) (Overseas Territories) Order 2011[^f00328]—
 
@@ -4643,11 +4643,11 @@ In the Belarus (Restrictive Measures) (Overseas Territories) Order 2011[^f00328]
 
   .
 
-### 219. The Al-Qaida (Asset-Freezing) Regulations 2011[^key-aa726e7af4ee0ba27be4346bdea8f497]
+### 219. The Al-Qaida (Asset-Freezing) Regulations 2011[^c-aa726e7af4ee0ba27be4346bdea8f497]
 
 In paragraph 5(1)(e) (general power to disclose information) of Schedule 1 to the Al-Qaida (Asset-Freezing) Regulations 2011[^f00329], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 220. The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011[^key-1f08aa8b3e9518f3cf071cba69f0a647]
+### 220. The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011[^c-1f08aa8b3e9518f3cf071cba69f0a647]
 
 In the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011[^f00330]—
 
@@ -4669,7 +4669,7 @@ In the Financial Services and Markets Act 2000 (Permissions, Transitional Provis
   - (iv) in paragraph (5), for “the Authority’s substitute “that regulator’s”;
 - (c) in article 7 (requirements to reapply: procedure), for “Authority” in each place substitute “FCA or the PRA”.
 
-### 221. The Iran (Restrictive Measures) (Overseas Territories) Order 2011[^key-5adab0ae77fac706a5a484106ef97af9]
+### 221. The Iran (Restrictive Measures) (Overseas Territories) Order 2011[^c-5adab0ae77fac706a5a484106ef97af9]
 
 For article 12(2)(d) (obtaining of evidence and information) of the Iran (Restrictive Measures) (Overseas Territories) Order 2011[^f00331] substitute—
 
@@ -4677,26 +4677,26 @@ For article 12(2)(d) (obtaining of evidence and information) of the Iran (Restri
 
 .
 
-### 222. The Syria (European Union Financial Sanctions) Regulations 2012[^key-964a8df85b046b47624e2cc29597edd0]
+### 222. The Syria (European Union Financial Sanctions) Regulations 2012[^c-964a8df85b046b47624e2cc29597edd0]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Syria (European Union Financial Sanctions) Regulations 2012[^f00332], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 223. The Iran (European Union Financial Sanctions) Regulations 2012[^key-0daee5eb163ed6c88975eee7ffb13bdc]
+### 223. The Iran (European Union Financial Sanctions) Regulations 2012[^c-0daee5eb163ed6c88975eee7ffb13bdc]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Iran (European Union Financial Sanctions) Regulations 2012[^f00333], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 224. The Postal Services Act 2011 (Disclosure of Information) Order 2012[^key-10621bed547dcc77ef20dc580d3c4a3f]
+### 224. The Postal Services Act 2011 (Disclosure of Information) Order 2012[^c-10621bed547dcc77ef20dc580d3c4a3f]
 
 In article 3 of the Postal Services Act 2011 (Disclosures of Information) Order 2012[^f00334] (prescription of bodies and persons)—
 
 - (a) for “the Financial Services Authority;” substitute “the Financial Conduct Authority;”;
 - (b) at the appropriate places insert “the Bank of England;” and “the Prudential Regulation Authority;”.
 
-### 225. The Guinea-Bissau (Asset-Freezing) Regulations 2012[^key-0e3bf5d3e36a4e2a5ff79b6fc0c9183f]
+### 225. The Guinea-Bissau (Asset-Freezing) Regulations 2012[^c-0e3bf5d3e36a4e2a5ff79b6fc0c9183f]
 
 In paragraph 5(1)(e) of the Schedule to the Guinea-Bissau (Asset Freezing) Regulations 2012[^f00335] (general power to disclose information), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 226. The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012[^key-5a70e57d822a960eb51031f0cd664016]
+### 226. The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012[^c-5a70e57d822a960eb51031f0cd664016]
 
 In article 2(2) of the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012[^f00336] (appointment in relation to issuers), for sub-paragraph (b) substitute—
 
@@ -4704,46 +4704,46 @@ In article 2(2) of the Supervision of Accounts and Reports (Prescribed Body) and
 
 .
 
-### 227. The Iraq (Asset-Freezing) Regulations 2012[^key-91e92f6479304c25607bbbc4cc0ec0e7]
+### 227. The Iraq (Asset-Freezing) Regulations 2012[^c-91e92f6479304c25607bbbc4cc0ec0e7]
 
 In paragraph 5(1)(e) (general power to disclose information) of Schedule 1 to the Iraq (Asset-Freezing) Regulations 2012[^f00337], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 228. The Sudan (Asset-Freezing) Regulations 2012[^key-9d00e802ff2add6802a38abe521a5141]
+### 228. The Sudan (Asset-Freezing) Regulations 2012[^c-9d00e802ff2add6802a38abe521a5141]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Sudan (Asset-Freezing) Regulations 2012[^f00338], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 229. The Republic of Guinea (Asset-Freezing) Regulations 2012[^key-99f4e17d97c67b83ef7faf8348c384ab]
+### 229. The Republic of Guinea (Asset-Freezing) Regulations 2012[^c-99f4e17d97c67b83ef7faf8348c384ab]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Republic of Guinea (Asset-Freezing) Regulations 2012[^f00339] for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 230. The Democratic Republic of the Congo (Asset-Freezing) Regulations 2012[^key-e8f309669538ad759b87303ba48aacde]
+### 230. The Democratic Republic of the Congo (Asset-Freezing) Regulations 2012[^c-e8f309669538ad759b87303ba48aacde]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Democratic Republic of the Congo (Asset-Freezing) Regulations 2012[^f00340], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 231. The Eritrea (Asset-Freezing) Regulations 2012[^key-a34563b0d55d07a21825e0dd487c262a]
+### 231. The Eritrea (Asset-Freezing) Regulations 2012[^c-a34563b0d55d07a21825e0dd487c262a]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Eritrea (Asset-Freezing) Regulations 2012[^f00341], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 232. The Liberia (Asset-Freezing) Regulations 2012[^key-7381bae692d7aa7f06574dfb0744f0d7]
+### 232. The Liberia (Asset-Freezing) Regulations 2012[^c-7381bae692d7aa7f06574dfb0744f0d7]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Liberia (Asset-Freezing) Regulations 2012[^f00342], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 233. The Lebanon and Syria (Asset-Freezing) Regulations 2012[^key-ce082f4f5d7431a418be88391d012aa7]
+### 233. The Lebanon and Syria (Asset-Freezing) Regulations 2012[^c-ce082f4f5d7431a418be88391d012aa7]
 
 In paragraph 5(1)(e) (general power to disclose information) of the Schedule to the Lebanon and Syria (Asset-Freezing) Regulations 2012[^f00343], for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 234. The Prospectus Regulations 2012[^key-7734bd4da1d1945e25a501206da877e1]
+### 234. The Prospectus Regulations 2012[^c-7734bd4da1d1945e25a501206da877e1]
 
 In regulation 10(2) of the Prospectus Regulations 2012[^f00344] (review), after “Financial Services Authority” insert “and the Financial Conduct Authority”.
 
-### 235. The Syria (Restrictive Measures) (Overseas Territories) Order 2012[^key-8516a1cdd81ae59aec8c3c4ff20c6fd1]
+### 235. The Syria (Restrictive Measures) (Overseas Territories) Order 2012[^c-8516a1cdd81ae59aec8c3c4ff20c6fd1]
 
 In the Syria (Restrictive Measures) (Overseas Territories) Order 2012[^f00345]—
 
 - (a) in article 24(1)(c) (provisions supplementary to articles 21 to 23), for “Financial Services Authority of the United Kingdom” substitute “Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”;
 - (b) in paragraph 5(1)(e) of Schedule 5 (evidence and information), for “Financial Services Authority of the United Kingdom” substitute “Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 236. The Iran (Restrictive Measures) (Overseas Territories) Order 2012[^key-9f4f430daf26ab48415d3e7f93ff7659]
+### 236. The Iran (Restrictive Measures) (Overseas Territories) Order 2012[^c-9f4f430daf26ab48415d3e7f93ff7659]
 
 In the Iran (Restrictive Measures) Overseas Territories) Order 2012[^f00346]—
 
@@ -4758,7 +4758,7 @@ In the Iran (Restrictive Measures) Overseas Territories) Order 2012[^f00346]—
 
   .
 
-### 237. The Al-Qaida (United Nations Measures) (Overseas Territories) Order 2012[^key-e71bb732ed5ffa3aeb25d8c6211d69bf]
+### 237. The Al-Qaida (United Nations Measures) (Overseas Territories) Order 2012[^c-e71bb732ed5ffa3aeb25d8c6211d69bf]
 
 For article 23(2)(d) of the Al-Qaida (United Nations Measures) (Overseas Territories) Order 2012[^f00347] (evidence and information) substitute—
 
@@ -4766,7 +4766,7 @@ For article 23(2)(d) of the Al-Qaida (United Nations Measures) (Overseas Territo
 
 .
 
-### 238. The Afghanistan (United Nations Measures) (Overseas Territories) Order 2012[^key-8a605e97719fc46eafca823f2daf0475]
+### 238. The Afghanistan (United Nations Measures) (Overseas Territories) Order 2012[^c-8a605e97719fc46eafca823f2daf0475]
 
 For article 23(2)(d) of the Afghanistan (United Nations Measures) (Overseas Territories) Order 2012[^f00348] (evidence and information) substitute—
 
@@ -4774,23 +4774,23 @@ For article 23(2)(d) of the Afghanistan (United Nations Measures) (Overseas Terr
 
 .
 
-### 239. The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012[^key-98ef1a2f518711d860b8902c79fa6000]
+### 239. The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012[^c-98ef1a2f518711d860b8902c79fa6000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 240. The Iraq (United Nations Sanctions) (Overseas Territories) (Amendment) Order 2012[^key-97790e9dc69ea80c6f4c8226fa718364]
+### 240. The Iraq (United Nations Sanctions) (Overseas Territories) (Amendment) Order 2012[^c-97790e9dc69ea80c6f4c8226fa718364]
 
 In paragraph 7(1)(e) of Schedule 5 to the Iraq (United Nations Sanctions) (Overseas Territories) (Amendment) Order 2012[^f00350] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 241. The Eritrea (Sanctions) (Overseas Territories) Order 2012[^key-49472e45c1dcde55a592daf9eef82cb3]
+### 241. The Eritrea (Sanctions) (Overseas Territories) Order 2012[^c-49472e45c1dcde55a592daf9eef82cb3]
 
 In paragraph 5(1)(e) of Schedule 6 to the Eritrea (Sanctions) (Overseas Territories) Order 2012[^f00351] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 242. The Zimbabwe (Sanctions) (Overseas Territories) Order 2012[^key-d9cf12f0fa192a060a4ac9d3d71de09a]
+### 242. The Zimbabwe (Sanctions) (Overseas Territories) Order 2012[^c-d9cf12f0fa192a060a4ac9d3d71de09a]
 
 In paragraph 5(1)(e) of Schedule 6 to the Zimbabwe (Sanctions) (Overseas Territories) Order 2012[^f00352] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 243. The Controlled Foreign Companies (Excluded Banking Business Profits) Regulations 2012[^key-dc4bc9a76df7086b36f8c1800312291d]
+### 243. The Controlled Foreign Companies (Excluded Banking Business Profits) Regulations 2012[^c-dc4bc9a76df7086b36f8c1800312291d]
 
 In regulation 2 of the Controlled Foreign Companies (Excluded Banking Business Profits) Regulations 2012[^f00353](interpretation)—
 
@@ -4804,23 +4804,23 @@ In regulation 2 of the Controlled Foreign Companies (Excluded Banking Business P
   - (iii) in the definition of “GENPRU 2 Annex 2” for “FSA Handbook” substitute “PRA Handbook”;
 - (b) in paragraph (2), for “FSA Handbook” substitute “PRA Handbook”.
 
-### 244. The Somalia (Sanctions) (Overseas Territories) Order 2012[^key-9d6dba17fea44582da6746534a6b4e43]
+### 244. The Somalia (Sanctions) (Overseas Territories) Order 2012[^c-9d6dba17fea44582da6746534a6b4e43]
 
 In paragraph 5(1)(e) of Schedule 6 to the Somalia (Sanctions) (Overseas Territories) Order 2012[^f00354] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 245. The Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2012[^key-187a0181cd47ea1c95ac1404e6628277]
+### 245. The Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2012[^c-187a0181cd47ea1c95ac1404e6628277]
 
 In paragraph 5(1)(e) of Schedule 6 to the Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2012[^f00355] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 246. The Côte d’Ivoire (Sanctions) (Overseas Territories) Order 2012[^key-55ae50bdfc3789c232990f1adc987ba1]
+### 246. The Côte d’Ivoire (Sanctions) (Overseas Territories) Order 2012[^c-55ae50bdfc3789c232990f1adc987ba1]
 
 In paragraph 5(1)(e) of Schedule 6 to the Côte d’Ivoire (Sanctions) (Overseas Territories) Order 2012[^f00356] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 247. The Guinea-Bissau (Sanctions) (Overseas Territories) Order 2012[^key-dc5e438074ba999c53d9bbcd5e020d74]
+### 247. The Guinea-Bissau (Sanctions) (Overseas Territories) Order 2012[^c-dc5e438074ba999c53d9bbcd5e020d74]
 
 In paragraph 5(1)(e) of Schedule 5 to the Guinea-Bissau (Sanctions) (Overseas Territories) Order 2012[^f00357] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
-### 248. The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012[^key-41cb164fd697fff4ba86ded23c53a7af]
+### 248. The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012[^c-41cb164fd697fff4ba86ded23c53a7af]
 
 (1) The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012[^f00358] are amended as follows.
 
@@ -4904,7 +4904,7 @@ In paragraph 5(1)(e) of Schedule 5 to the Guinea-Bissau (Sanctions) (Overseas Te
   ;
 - (q) in paragraph 8, before “under the 2000 Act” insert “given by the Authority”.
 
-### 249. The Criminal Legal Aid (General) Regulations 2013[^key-073e76939aa1aacffda4e10d00e76bf8]
+### 249. The Criminal Legal Aid (General) Regulations 2013[^c-073e76939aa1aacffda4e10d00e76bf8]
 
 In regulation 9(r) of the Criminal Legal Aid (General) Regulations 2013[^f00360] (criminal proceedings)—
 
@@ -4915,7 +4915,7 @@ In regulation 9(r) of the Criminal Legal Aid (General) Regulations 2013[^f00360]
 
   .
 
-### 250. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-e3492f46d1d524f454dff1be31b5b3be]
+### 250. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-e3492f46d1d524f454dff1be31b5b3be]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^f00361] is amended as follows.
 
@@ -5010,17 +5010,17 @@ In regulation 9(r) of the Criminal Legal Aid (General) Regulations 2013[^f00360]
 
 (5) In Schedule 3, in paragraph 6(1)(a), for “the Financial Services Authority” substitute “the FCA, the PRA, the Bank of England”.
 
-### 251. The Belarus (Asset-Freezing) Regulations 2013[^key-4059a1e388fdecb2e6f1db7f4ce07a19]
+### 251. The Belarus (Asset-Freezing) Regulations 2013[^c-4059a1e388fdecb2e6f1db7f4ce07a19]
 
 In paragraph 5(1)(e) of the Schedule to the Belarus (Asset-Freezing) Regulations 2013[^f00372] (general power to disclose information), for “the Financial Services Authority” substitute “the Financial Conduct Authority, the Prudential Regulation Authority”.
 
-### 252. The Guinea (Sanctions) (Overseas Territories) Order 2013[^key-29687daa22fdb0ed1c83530feb60795f]
+### 252. The Guinea (Sanctions) (Overseas Territories) Order 2013[^c-29687daa22fdb0ed1c83530feb60795f]
 
 In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territories) Order 2013[^f00373] (evidence and information), for “the Financial Services Authority of the United Kingdom” substitute “the Financial Conduct Authority of the United Kingdom, the Prudential Regulation Authority of the United Kingdom”.
 
 ## Annotations
 
-[^key-91bedc06061ee3cb43ac221ba6ebf97e]: Commencement: Sch. 2 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-91bedc06061ee3cb43ac221ba6ebf97e]: Commencement: Sch. 2 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00008]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023), amended by [S.I. 1986/2268](https://www.legislation.gov.uk/uksi/1986/2268), [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [2001/3816](https://www.legislation.gov.uk/uksi/2001/3816), [2002/441](https://www.legislation.gov.uk/uksi/2002/441), [2003/231](https://www.legislation.gov.uk/uksi/2003/231), [2007/2149](https://www.legislation.gov.uk/uksi/2007/2149), [2008/3259](https://www.legislation.gov.uk/uksi/2008/3259), [2011/99](https://www.legislation.gov.uk/uksi/2011/99) and [2011/1800](https://www.legislation.gov.uk/uksi/2011/1800); there are other amending instruments but none are relevant.
 
@@ -5046,11 +5046,11 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00019]: Footnote: Section 296A was inserted by section 31 of the Financial Services Act 2012.
 
-[^key-ccf3e07134d2786ed370ad1761577d29]: Commencement: Sch. 2 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ccf3e07134d2786ed370ad1761577d29]: Commencement: Sch. 2 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00020]: Footnote: [S.I. 1976/191](https://www.legislation.gov.uk/uksi/1976/191).
 
-[^key-30a3eada9f97c7cf5c28108328ac5317]: Commencement: Sch. 2 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-30a3eada9f97c7cf5c28108328ac5317]: Commencement: Sch. 2 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00021]: Footnote: [S.R. 1979 No. 195](https://www.legislation.gov.uk/nisr/1979/195) as amended by [S.R. 1987 No. 393](https://www.legislation.gov.uk/nisr/1987/393), [2001 No. 248](https://www.legislation.gov.uk/nisr/2001/248), [2001 No. 400](https://www.legislation.gov.uk/nisr/2001/400), [2003 No. 355](https://www.legislation.gov.uk/nisr/2003/355), [2006 No. 421](https://www.legislation.gov.uk/nisr/2006/421), [2009 No. 173](https://www.legislation.gov.uk/nisr/2009/173) and [2009 No. 303](https://www.legislation.gov.uk/nisr/2009/303).
 
@@ -5076,21 +5076,21 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00032]: Footnote: Section 296A was inserted by section 31 of the Financial Services Act 2012.
 
-[^key-e1ddb7d74bd1c896d5662946037c8b96]: Commencement: Sch. 2 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e1ddb7d74bd1c896d5662946037c8b96]: Commencement: Sch. 2 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00033]: Footnote: [S.I. 1986/1711](https://www.legislation.gov.uk/uksi/1986/1711), amended by [S.I. 1997/2430](https://www.legislation.gov.uk/uksi/1997/2430), [S.I. 1999/3264](https://www.legislation.gov.uk/uksi/1999/3264) and [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
-[^key-649360b430797cf8240bc6aa754285fe]: Commencement: Sch. 2 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-649360b430797cf8240bc6aa754285fe]: Commencement: Sch. 2 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00034]: Footnote: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925), amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), [1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), [1999/1022](https://www.legislation.gov.uk/uksi/1999/1022) and [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). There are other amendments not relevant to this Order.
 
-[^key-d83559c81c1966b15c7de3a528b27cf1]: Commencement: Sch. 2 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d83559c81c1966b15c7de3a528b27cf1]: Commencement: Sch. 2 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00035]: Footnote: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110), amended by [S.I. 1992/1531](https://www.legislation.gov.uk/uksi/1992/1531), [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and [S.I. 2007/814](https://www.legislation.gov.uk/uksi/2007/814).
 
 [^f00036]: Footnote: Part 9A of the Financial Services and Markets Act 2000 was inserted by section 24(1) of the Financial Services Act 2012.
 
-[^key-9fc3f740f5d66fbe9d128e9ebf31b3ba]: Commencement: Sch. 2 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9fc3f740f5d66fbe9d128e9ebf31b3ba]: Commencement: Sch. 2 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00037]: Footnote: [S.I. 1989/2405 (NI 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -5102,65 +5102,65 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00041]: Footnote: Inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
 
-[^key-7e88ab3d069051f851ca765cdf511b35]: Commencement: Sch. 2 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7e88ab3d069051f851ca765cdf511b35]: Commencement: Sch. 2 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00042]: Footnote: [S.R. 1991/364](https://www.legislation.gov.uk/nisr/1991/364); amended by [S.R. 2000/247](https://www.legislation.gov.uk/nisr/2000/247).
 
-[^key-676d06ca296354f2a0e12089b10485e8]: Commencement: Sch. 2 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-676d06ca296354f2a0e12089b10485e8]: Commencement: Sch. 2 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00043]: Footnote: [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880); regulation 16(1D) was inserted by [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
 
 [^f00044]: Footnote: Sections 137A and 137B were inserted by section 24 of the Financial Services Act 2012.
 
-[^key-c7044c39107da074e47211ef0debebcc]: Commencement: Sch. 2 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c7044c39107da074e47211ef0debebcc]: Commencement: Sch. 2 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00045]: Footnote: [S.I. 1994/1443 (S. 69)](https://www.legislation.gov.uk/uksi/1994/1443), amended by [S.S.I. 2006/199](https://www.legislation.gov.uk/ssi/2006/199), [S.S.I. 2009/63](https://www.legislation.gov.uk/ssi/2009/63) and [S.S.I. 2011/385](https://www.legislation.gov.uk/ssi/2011/385).
 
-[^key-bfb6b96faeb3f705c0f95fcc821604d6]: Commencement: Sch. 2 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-bfb6b96faeb3f705c0f95fcc821604d6]: Commencement: Sch. 2 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00046]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421); Part 1 of Schedule 1 was substituted by [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708) and paragraph 17 of Schedule 2 was substituted by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516).
 
-[^key-1a7b9a4dec46d4f2ecd76b30877e6c72]: Commencement: Sch. 2 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1a7b9a4dec46d4f2ecd76b30877e6c72]: Commencement: Sch. 2 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00047]: Footnote: [S.I. 1995/1442](https://www.legislation.gov.uk/uksi/1995/1442), amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-5da8102552ac7529a92d1d316116a8a3]: Commencement: Sch. 2 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-5da8102552ac7529a92d1d316116a8a3]: Commencement: Sch. 2 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00048]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619), amended by [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370).
 
-[^key-49eb4ce23aff325d39524ef543fd8e94]: Commencement: Sch. 2 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-49eb4ce23aff325d39524ef543fd8e94]: Commencement: Sch. 2 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00049]: Footnote: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847), amended by [S.I. 2008/1050](https://www.legislation.gov.uk/uksi/2008/1050).
 
-[^key-2ad6b12f2b0bbffdbfad4cc55635c560]: Commencement: Sch. 2 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2ad6b12f2b0bbffdbfad4cc55635c560]: Commencement: Sch. 2 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00050]: Footnote: [S.I. 1996/2282](https://www.legislation.gov.uk/uksi/1996/2282), amended [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-33dbaead4383701c2434523c824969ef]: Commencement: Sch. 2 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-33dbaead4383701c2434523c824969ef]: Commencement: Sch. 2 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00051]: Footnote: [S.I. 1996/2424](https://www.legislation.gov.uk/uksi/1996/2424), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-7dc158e9ec299b31d553cdfad06c2df7]: Commencement: Sch. 2 para. 17 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7dc158e9ec299b31d553cdfad06c2df7]: Commencement: Sch. 2 para. 17 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00052]: Footnote: [S.I. 1996/2991](https://www.legislation.gov.uk/uksi/1996/2991), amended by [S.I. 1999/1408](https://www.legislation.gov.uk/uksi/1999/1408), [2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [2004/3260](https://www.legislation.gov.uk/uksi/2004/3260) and [2008/2679](https://www.legislation.gov.uk/uksi/2008/2679).
 
-[^key-fb0599ad506ff4dee14a8a962872d1f6]: Commencement: Sch. 2 para. 18 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-fb0599ad506ff4dee14a8a962872d1f6]: Commencement: Sch. 2 para. 18 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00053]: Footnote: [S.I. 1997/1612](https://www.legislation.gov.uk/uksi/1997/1612), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-96cb3a2ea8ebd0ca74d41a53329df0e7]: Commencement: Sch. 2 para. 19 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-96cb3a2ea8ebd0ca74d41a53329df0e7]: Commencement: Sch. 2 para. 19 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00054]: Footnote: [S.I. 1997/1829](https://www.legislation.gov.uk/uksi/1997/1829), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-149f170166c298088107a629473aeadb]: Commencement: Sch. 2 para. 20 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-149f170166c298088107a629473aeadb]: Commencement: Sch. 2 para. 20 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00055]: Footnote: [S.I. 1997/1912](https://www.legislation.gov.uk/uksi/1997/1912), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-fabaff202823f93fe36fb9c7b4599221]: Commencement: Sch. 2 para. 21 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-fabaff202823f93fe36fb9c7b4599221]: Commencement: Sch. 2 para. 21 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00056]: Footnote: [S.I. 1998/504](https://www.legislation.gov.uk/uksi/1998/504), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-abf34836577a776c58a95849582a0656]: Commencement: Sch. 2 para. 22 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-abf34836577a776c58a95849582a0656]: Commencement: Sch. 2 para. 22 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00057]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870), amended by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [S.I. 2003/2747](https://www.legislation.gov.uk/uksi/2003/2747), [S.I. 2004/2996](https://www.legislation.gov.uk/uksi/2004/2996), [S.I. 2005/3350](https://www.legislation.gov.uk/uksi/2005/3350), [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119), [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [S.I. 2009/1994](https://www.legislation.gov.uk/uksi/2009/1994) and [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780).
 
@@ -5168,83 +5168,83 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00059]: Footnote: Amended by [S.I. 2001/3269](https://www.legislation.gov.uk/uksi/2001/3269), [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704).
 
-[^key-0358e70bcb6c68695b05e6274cb6ac3e]: Commencement: Sch. 2 para. 23 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-0358e70bcb6c68695b05e6274cb6ac3e]: Commencement: Sch. 2 para. 23 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00060]: Footnote: [S.I. 1999/401](https://www.legislation.gov.uk/uksi/1999/401); the Schedule was substituted by [S.I. 2012/283](https://www.legislation.gov.uk/uksi/2012/283).
 
-[^key-4f87f0d167f58fbb06db21063ccdde48]: Commencement: Sch. 2 para. 24 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4f87f0d167f58fbb06db21063ccdde48]: Commencement: Sch. 2 para. 24 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00061]: Footnote: [S.I. 1999/1029](https://www.legislation.gov.uk/uksi/1999/1029), amended by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
-[^key-29237d4dba59b343bcb6a1ea7ac5530e]: Commencement: Sch. 2 para. 25 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-29237d4dba59b343bcb6a1ea7ac5530e]: Commencement: Sch. 2 para. 25 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00062]: Footnote: [S.I. 1999/1549](https://www.legislation.gov.uk/uksi/1999/1549); the Schedule was substituted by [S.I. 2003/1993](https://www.legislation.gov.uk/uksi/2003/1993). There are other amendments which are not relevant to this Order.
 
-[^key-a2c82a085e9e0b9cdf5e2c635e6f5b16]: Commencement: Sch. 2 para. 26 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a2c82a085e9e0b9cdf5e2c635e6f5b16]: Commencement: Sch. 2 para. 26 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00063]: Footnote: [S.I. 1999/2083](https://www.legislation.gov.uk/uksi/1999/2083), amended by [S.I. 2001/1186](https://www.legislation.gov.uk/uksi/2001/1186), [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095).
 
-[^key-ac2221fd2d0bcd9c5a998d2d65339006]: Commencement: Sch. 2 para. 27 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ac2221fd2d0bcd9c5a998d2d65339006]: Commencement: Sch. 2 para. 27 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00064]: Footnote: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), amended by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
 
-[^key-fd041e33fa76ebd2e324f2738c6631f4]: Commencement: Sch. 2 para. 28 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-fd041e33fa76ebd2e324f2738c6631f4]: Commencement: Sch. 2 para. 28 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-5de1d360edf5785443ca82cdb755e9b6]: Commencement: Sch. 2 para. 29 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-5de1d360edf5785443ca82cdb755e9b6]: Commencement: Sch. 2 para. 29 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00065]: Footnote: [S.R. (NI) 2000 No 178](https://www.legislation.gov.uk/nisr/2000/178), amended by [S.I. 2003/433](https://www.legislation.gov.uk/uksi/2003/433).
 
-[^key-f2449850af825d8e42974a500455458e]: Commencement: Sch. 2 para. 30 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f2449850af825d8e42974a500455458e]: Commencement: Sch. 2 para. 30 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00066]: Footnote: S.R [(NI) 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262), amended by [S.R. (NI) 2003 No 256](https://www.legislation.gov.uk/nisr/2003/256) and [S.R. (NI) 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110).
 
-[^key-ed4992bcff56fa0433d86decbeb2fbe5]: Commencement: Sch. 2 para. 31 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ed4992bcff56fa0433d86decbeb2fbe5]: Commencement: Sch. 2 para. 31 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00067]: Footnote: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403), amended by [S.I. 2005/577](https://www.legislation.gov.uk/uksi/2005/577).
 
-[^key-99424738dd854e46ed337a1858e6792b]: Commencement: Sch. 2 para. 32 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-99424738dd854e46ed337a1858e6792b]: Commencement: Sch. 2 para. 32 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00068]: Footnote: [S.I. 2001/192](https://www.legislation.gov.uk/uksi/2001/192), amended by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555).
 
-[^key-4390dda8877885340c711d93e6c9638a]: Commencement: Sch. 2 para. 33 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4390dda8877885340c711d93e6c9638a]: Commencement: Sch. 2 para. 33 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00069]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341), amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871), [S.I. 2003/3075](https://www.legislation.gov.uk/uksi/2003/3075), [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752) and [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-c6da2ac88cf8228fc3092b9c1ac57ec5]: Commencement: Sch. 2 para. 34 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c6da2ac88cf8228fc3092b9c1ac57ec5]: Commencement: Sch. 2 para. 34 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00070]: Footnote: [S.I. 2001/497 (S.2)](https://www.legislation.gov.uk/uksi/2001/497); regulation 112(1) was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872) and amended by [S.I. 2006/834](https://www.legislation.gov.uk/uksi/2006/834). Regulation 113(3) was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872) and amended by [S.I. 2003/3075](https://www.legislation.gov.uk/uksi/2003/3075) and [2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-9c32ab90edefcb1de1ae4816c05db54f]: Commencement: Sch. 2 para. 35 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9c32ab90edefcb1de1ae4816c05db54f]: Commencement: Sch. 2 para. 35 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00071]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682), [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) and [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221).
 
-[^key-8862c2db78afa8ecca0f1bef81fda6ed]: Commencement: Sch. 2 para. 36 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8862c2db78afa8ecca0f1bef81fda6ed]: Commencement: Sch. 2 para. 36 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00072]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995), amended by [S.I. 2006/3386](https://www.legislation.gov.uk/uksi/2006/3386); there are other amending instruments, but none is relevant.
 
 [^f00073]: Footnote: Section 285A was inserted into the Act by section 29 of the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-c66ebe3d91b2830bb9ec0e1a65cfd471]: Commencement: Sch. 2 para. 37 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c66ebe3d91b2830bb9ec0e1a65cfd471]: Commencement: Sch. 2 para. 37 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00074]: Footnote: [S.I. 2001/1060](https://www.legislation.gov.uk/uksi/2001/1060), amended by [S.I. 2002/1310](https://www.legislation.gov.uk/uksi/2002/1310), [S.I. 2003/2067](https://www.legislation.gov.uk/uksi/2003/2067), [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-e855d0de9a0229366ae2ff10fec627a1]: Commencement: Sch. 2 para. 38 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e855d0de9a0229366ae2ff10fec627a1]: Commencement: Sch. 2 para. 38 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00075]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201), to which there are amendments not relevant to this Order.
 
-[^key-4b71519767947a97fee1568e0f386005]: Commencement: Sch. 2 para. 39 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4b71519767947a97fee1568e0f386005]: Commencement: Sch. 2 para. 39 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00076]: Footnote: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217). Paragraph (5) of regulation 3 was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
 
-[^key-f9dbe56738dfcaed89479d09b62f5a0f]: Commencement: Sch. 2 para. 40 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f9dbe56738dfcaed89479d09b62f5a0f]: Commencement: Sch. 2 para. 40 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00077]: Footnote: [S.I. 2001/1227](https://www.legislation.gov.uk/uksi/2001/1227). The definition was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
 
-[^key-d55e4fd27ccbd3a274fe7c94ee660697]: Commencement: Sch. 2 para. 41 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d55e4fd27ccbd3a274fe7c94ee660697]: Commencement: Sch. 2 para. 41 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00078]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228), amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973); there are other amending instruments but none is relevant.
 
-[^key-c22347c01a83c5089b32c21f3675d090]: Commencement: Sch. 2 para. 42 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c22347c01a83c5089b32c21f3675d090]: Commencement: Sch. 2 para. 42 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00079]: Footnote: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420).
 
@@ -5258,23 +5258,23 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00084]: Footnote: Substituted by section 18 of the Financial Services Act 2012.
 
-[^key-46991436b6c981770da7017d56845e1b]: Commencement: Sch. 2 para. 43 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-46991436b6c981770da7017d56845e1b]: Commencement: Sch. 2 para. 43 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00085]: Footnote: [S.I. 2001/1437](https://www.legislation.gov.uk/uksi/2001/1437), amended by [S.I. 2002/712](https://www.legislation.gov.uk/uksi/2002/712) and [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
-[^key-981b086d1d47e767602e7a92f73dc116]: Commencement: Sch. 2 para. 44 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-981b086d1d47e767602e7a92f73dc116]: Commencement: Sch. 2 para. 44 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00086]: Footnote: [S.I. 2001/1534](https://www.legislation.gov.uk/uksi/2001/1534).
 
-[^key-ecf301644794cb6152799fcb7124dbe0]: Commencement: Sch. 2 para. 45 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ecf301644794cb6152799fcb7124dbe0]: Commencement: Sch. 2 para. 45 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00087]: Footnote: [S.I. 2001/1821](https://www.legislation.gov.uk/uksi/2001/1821).
 
-[^key-eec50575dfb823cc76e53275212473cb]: Commencement: Sch. 2 para. 46 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-eec50575dfb823cc76e53275212473cb]: Commencement: Sch. 2 para. 46 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00088]: Footnote: [S.I. 2001/1857](https://www.legislation.gov.uk/uksi/2001/1857); there are other amending instruments but none is relevant.
 
-[^key-e2db71982b9c34dbc345d8811ed4ac35]: Commencement: Sch. 2 para. 47 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e2db71982b9c34dbc345d8811ed4ac35]: Commencement: Sch. 2 para. 47 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00089]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
 
@@ -5288,39 +5288,39 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00094]: Footnote: Amended by [S.I. 2001/3437](https://www.legislation.gov.uk/uksi/2001/3437) and [2012/916](https://www.legislation.gov.uk/uksi/2012/916).
 
-[^key-08292c76f4db0416507fa5050ecfaddd]: Commencement: Sch. 2 para. 48 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-08292c76f4db0416507fa5050ecfaddd]: Commencement: Sch. 2 para. 48 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00095]: Footnote: [S.I. 2001/2256](https://www.legislation.gov.uk/uksi/2001/2256), amended by [S.I. 2002/2706](https://www.legislation.gov.uk/uksi/2002/2706). There are other amending instruments but none is relevant.
 
-[^key-cf926d7b96558b443e9d67764ecac34b]: Commencement: Sch. 2 para. 49 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-cf926d7b96558b443e9d67764ecac34b]: Commencement: Sch. 2 para. 49 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00096]: Footnote: [S.I. 2001/2326](https://www.legislation.gov.uk/uksi/2001/2326).
 
-[^key-cb30dfff08e1ee8efb8edab57d1bdf5c]: Commencement: Sch. 2 para. 50 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-cb30dfff08e1ee8efb8edab57d1bdf5c]: Commencement: Sch. 2 para. 50 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00097]: Footnote: [S.I. 2001/2507](https://www.legislation.gov.uk/uksi/2001/2507), amended by [S.I. 2005/680](https://www.legislation.gov.uk/uksi/2005/680).
 
-[^key-3b606da5a87d9fefea4a9308d6b6977d]: Commencement: Sch. 2 para. 51 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-3b606da5a87d9fefea4a9308d6b6977d]: Commencement: Sch. 2 para. 51 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00098]: Footnote: [S.I. 2001/2587](https://www.legislation.gov.uk/uksi/2001/2587).
 
 [^f00099]: Footnote: Section 312E was inserted by section 33 of the Financial Services Act 2012.
 
-[^key-1bc2124a7e5d6acb5d7d4d552216c0f0]: Commencement: Sch. 2 para. 52 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1bc2124a7e5d6acb5d7d4d552216c0f0]: Commencement: Sch. 2 para. 52 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-4e94563deb5cd6bcc5f334ba4d96ac5f]: Commencement: Sch. 2 para. 53 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4e94563deb5cd6bcc5f334ba4d96ac5f]: Commencement: Sch. 2 para. 53 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00100]: Footnote: [S.I. 2001/2637](https://www.legislation.gov.uk/uksi/2001/2637).
 
-[^key-aadf628115dd8b4d8b545b146da3b25e]: Commencement: Sch. 2 para. 54 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-aadf628115dd8b4d8b545b146da3b25e]: Commencement: Sch. 2 para. 54 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00101]: Footnote: [S.I. 2001/2639](https://www.legislation.gov.uk/uksi/2001/2639), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-790df9f08df9b176fc0bcaf17213f4e9]: Commencement: Sch. 2 para. 55 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-790df9f08df9b176fc0bcaf17213f4e9]: Commencement: Sch. 2 para. 55 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00102]: Footnote: [S.I. 2001/2956](https://www.legislation.gov.uk/uksi/2001/2956).
 
-[^key-df5c33bd357280796f02627cfc0e2759]: Commencement: Sch. 2 para. 56 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-df5c33bd357280796f02627cfc0e2759]: Commencement: Sch. 2 para. 56 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00103]: Footnote: [S.I. 2001/2967](https://www.legislation.gov.uk/uksi/2001/2967), amended by [S.I. 2006/3259](https://www.legislation.gov.uk/uksi/2006/3259).
 
@@ -5334,11 +5334,11 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00108]: Footnote: [S.I. 1995/1442](https://www.legislation.gov.uk/uksi/1995/1442).
 
-[^key-5afbe5048d5c3906629a5aeca05e7a7a]: Commencement: Sch. 2 para. 57 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-5afbe5048d5c3906629a5aeca05e7a7a]: Commencement: Sch. 2 para. 57 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00109]: Footnote: [S.I. 2001/3083](https://www.legislation.gov.uk/uksi/2001/3083), amended by [S.I. 1992/3218](https://www.legislation.gov.uk/uksi/1992/3218), [S.I. 1995/3275](https://www.legislation.gov.uk/uksi/1995/3275).
 
-[^key-1c43113097328492bb33f4be3bed3db0]: Commencement: Sch. 2 para. 58 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1c43113097328492bb33f4be3bed3db0]: Commencement: Sch. 2 para. 58 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00110]: Footnote: [S.I. 2001/3084](https://www.legislation.gov.uk/uksi/2001/3084), amended by [S.I. 2005/1](https://www.legislation.gov.uk/uksi/2005/1), [S.I. 2006/1805](https://www.legislation.gov.uk/uksi/2006/1805), [S.I. 2007/3254](https://www.legislation.gov.uk/uksi/2007/3254) and [S.I. 2012/2017](https://www.legislation.gov.uk/uksi/2012/2017).
 
@@ -5346,237 +5346,237 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00112]: Footnote: Section 195A(11) of FSMA 2000 was substituted by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and amended by paragraphs 29 and 35 of Schedule 4 to the Financial Services Act 2012 and [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916).
 
-[^key-f54800e571eb262abc5e7d774486508c]: Commencement: Sch. 2 para. 59 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f54800e571eb262abc5e7d774486508c]: Commencement: Sch. 2 para. 59 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00113]: Footnote: [S.I. 2001/2383](https://www.legislation.gov.uk/uksi/2001/2383), amended by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-e13ff0735b3db6e81fd1de08ffa3f153]: Commencement: Sch. 2 para. 60 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e13ff0735b3db6e81fd1de08ffa3f153]: Commencement: Sch. 2 para. 60 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00114]: Footnote: [S.I. 2001/2509](https://www.legislation.gov.uk/uksi/2001/2509).
 
-[^key-a42780510b2ae82832e51d7e3df76c44]: Commencement: Sch. 2 para. 61 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a42780510b2ae82832e51d7e3df76c44]: Commencement: Sch. 2 para. 61 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00115]: Footnote: [S.I. 2001/3591 (S.19)](https://www.legislation.gov.uk/uksi/2001/3591).
 
-[^key-36b6d9bd28c3bc79430b7b33d98659a0]: Commencement: Sch. 2 para. 62 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-36b6d9bd28c3bc79430b7b33d98659a0]: Commencement: Sch. 2 para. 62 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00116]: Footnote: [S.I. 2001/3625](https://www.legislation.gov.uk/uksi/2001/3625), amended by [S.I. 2007/3255](https://www.legislation.gov.uk/uksi/2007/3255) and [2009/1390](https://www.legislation.gov.uk/uksi/2009/1390).
 
 [^f00117]: Footnote: “Appropriate regulator” is defined for the purposes of Part 7 of the Financial Services and Markets Act 2000 by section 103A of that Act, as inserted by Schedule 6 to the Financial Services Act 2012.
 
-[^key-850c4244b0616d8faab42c95e732a5a5]: Commencement: Sch. 2 para. 63 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-850c4244b0616d8faab42c95e732a5a5]: Commencement: Sch. 2 para. 63 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-fe74e3a7c13b22ed6e067533edeb22b7]: Commencement: Sch. 2 para. 64 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-fe74e3a7c13b22ed6e067533edeb22b7]: Commencement: Sch. 2 para. 64 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00118]: Footnote: [S.I. 2001/3626](https://www.legislation.gov.uk/uksi/2001/3626), amended by [S.I. 2008/1725](https://www.legislation.gov.uk/uksi/2008/1725).
 
-[^key-18a2a90abfc62ded08e9a74137e70d7f]: Commencement: Sch. 2 para. 65 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-18a2a90abfc62ded08e9a74137e70d7f]: Commencement: Sch. 2 para. 65 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-1df0df8cec3922f2a7f272d2c4074f51]: Commencement: Sch. 2 para. 66 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1df0df8cec3922f2a7f272d2c4074f51]: Commencement: Sch. 2 para. 66 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00119]: Footnote: [S.I. 2001/3632](https://www.legislation.gov.uk/uksi/2001/3632), amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
-[^key-d2c129b60194abec49e29bcfa6f49abf]: Commencement: Sch. 2 para. 67 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d2c129b60194abec49e29bcfa6f49abf]: Commencement: Sch. 2 para. 67 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00120]: Footnote: [S.I. 2001/3633](https://www.legislation.gov.uk/uksi/2001/3633).
 
-[^key-b6448cffc1a296af356f0f0c618c308a]: Commencement: Sch. 2 para. 68 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b6448cffc1a296af356f0f0c618c308a]: Commencement: Sch. 2 para. 68 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00121]: Footnote: [S.I. 2001/3634](https://www.legislation.gov.uk/uksi/2001/3634).
 
-[^key-2678f918ec28f3e1015fadaa900a2bdb]: Commencement: Sch. 2 para. 69 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2678f918ec28f3e1015fadaa900a2bdb]: Commencement: Sch. 2 para. 69 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00122]: Footnote: [S.I. 2001/3635](https://www.legislation.gov.uk/uksi/2001/3635).
 
-[^key-b91530be5cd548dc889a8ca81987f5d2]: Commencement: Sch. 2 para. 70 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b91530be5cd548dc889a8ca81987f5d2]: Commencement: Sch. 2 para. 70 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00123]: Footnote: [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650).
 
-[^key-11edc14fb2b06e25abd3abb0e32044b1]: Commencement: Sch. 2 para. 71 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-11edc14fb2b06e25abd3abb0e32044b1]: Commencement: Sch. 2 para. 71 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00124]: Footnote: [S.I. 2001/3729](https://www.legislation.gov.uk/uksi/2001/3729). Regulation 2 is amended by the Co-operative and Community Benefit Societies and Credit Unions Act [2010 (c.7)](https://www.legislation.gov.uk/ukpga/2010/7), section 2; that section was not in force on the date this instrument was made.
 
-[^key-0bee432be0acd2769a5e20200e136528]: Commencement: Sch. 2 para. 72 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-0bee432be0acd2769a5e20200e136528]: Commencement: Sch. 2 para. 72 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-a200be780a9b176c59b78c84953224d9]: Commencement: Sch. 2 para. 73 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a200be780a9b176c59b78c84953224d9]: Commencement: Sch. 2 para. 73 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00125]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), amended by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [S.I. 2007/124](https://www.legislation.gov.uk/uksi/2007/124), [S.I. 2010/2628](https://www.legislation.gov.uk/uksi/2010/2628) and [S.I. 2012/917](https://www.legislation.gov.uk/uksi/2012/917).
 
 [^f00126]: Footnote: Section 382 of FSMA 2000 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613), [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906), [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554) and by paragraph 21 of Schedule 9 to the Financial Services Act 2012.
 
-[^key-e351e4f2e2f388865c372f0f11f9c0cd]: Commencement: Sch. 2 para. 74 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e351e4f2e2f388865c372f0f11f9c0cd]: Commencement: Sch. 2 para. 74 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00127]: Footnote: [S.I. 2001/4040 (S.21)](https://www.legislation.gov.uk/uksi/2001/4040).
 
-[^key-d0767e4afda171cf44fcbfd6836020f5]: Commencement: Sch. 2 para. 75 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d0767e4afda171cf44fcbfd6836020f5]: Commencement: Sch. 2 para. 75 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00128]: Footnote: [S.I. 2002/1441](https://www.legislation.gov.uk/uksi/2002/1441).
 
-[^key-8b009255c97ff5fdca7d0226725ef0af]: Commencement: Sch. 2 para. 76 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8b009255c97ff5fdca7d0226725ef0af]: Commencement: Sch. 2 para. 76 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00129]: Footnote: [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501).
 
-[^key-c6f40a55f72a494aa0bfd535fdd58d6b]: Commencement: Sch. 2 para. 77 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c6f40a55f72a494aa0bfd535fdd58d6b]: Commencement: Sch. 2 para. 77 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00130]: Footnote: [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775), to which there are amendments not relevant to this Order.
 
 [^f00131]: Footnote: Schedule 1 of FSMA 2000 was repealed by section 6(2) of the Financial Services Act 2012.
 
-[^key-2f9e35466c7341b45f1a9390bcae25cd]: Commencement: Sch. 2 para. 78 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2f9e35466c7341b45f1a9390bcae25cd]: Commencement: Sch. 2 para. 78 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00132]: Footnote: [S.I. 2002/2706](https://www.legislation.gov.uk/uksi/2002/2706).
 
-[^key-1d1c0d14e10be51d96dbe31cff6f8960]: Commencement: Sch. 2 para. 79 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1d1c0d14e10be51d96dbe31cff6f8960]: Commencement: Sch. 2 para. 79 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00133]: Footnote: [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152).
 
-[^key-8e2d0932a9f43790f127b59a8f297c70]: Commencement: Sch. 2 para. 80 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8e2d0932a9f43790f127b59a8f297c70]: Commencement: Sch. 2 para. 80 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00134]: Footnote: [S.S.I. 2003/93](https://www.legislation.gov.uk/ssi/2003/93).
 
-[^key-46fe59436564eecd9c9521d93d102abd]: Commencement: Sch. 2 para. 81 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-46fe59436564eecd9c9521d93d102abd]: Commencement: Sch. 2 para. 81 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00135]: Footnote: [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419).
 
-[^key-ac4920607f20b5392ff2d55f6dc46aec]: Commencement: Sch. 2 para. 82 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ac4920607f20b5392ff2d55f6dc46aec]: Commencement: Sch. 2 para. 82 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00136]: Footnote: [S.I. 2003/1294](https://www.legislation.gov.uk/uksi/2003/1294).
 
-[^key-54ed88bb6a606896516977ebf7cb86af]: Commencement: Sch. 2 para. 83 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-54ed88bb6a606896516977ebf7cb86af]: Commencement: Sch. 2 para. 83 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-00779469d6867dc30bbe6ea7fd4ceaf4]: Commencement: Sch. 2 para. 84 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-00779469d6867dc30bbe6ea7fd4ceaf4]: Commencement: Sch. 2 para. 84 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00137]: Footnote: [S.I. 2003/1374](https://www.legislation.gov.uk/uksi/2003/1374), amended by [S.I. 2002/2095](https://www.legislation.gov.uk/uksi/2002/2095).
 
-[^key-2b915426efdc4ac0813696d85d8c3781]: Commencement: Sch. 2 para. 85 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2b915426efdc4ac0813696d85d8c3781]: Commencement: Sch. 2 para. 85 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00138]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417), amended by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919).
 
-[^key-e4f55b37792577c7f6d7210a8b49275f]: Commencement: Sch. 2 para. 86 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e4f55b37792577c7f6d7210a8b49275f]: Commencement: Sch. 2 para. 86 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00139]: Footnote: [S.I. 2003/1882](https://www.legislation.gov.uk/uksi/2003/1882).
 
-[^key-c21a3e44045183552134453f60a2debb]: Commencement: Sch. 2 para. 87 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c21a3e44045183552134453f60a2debb]: Commencement: Sch. 2 para. 87 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00140]: Footnote: [S.I. 2004/335](https://www.legislation.gov.uk/uksi/2004/335).
 
-[^key-7f7641c434877013587b1ff2b3d54f2e]: Commencement: Sch. 2 para. 88 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7f7641c434877013587b1ff2b3d54f2e]: Commencement: Sch. 2 para. 88 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00141]: Footnote: [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353), to which there are amendments not relevant to this Order.
 
-[^key-d06665a9d08821972e93308ec24868b9]: Commencement: Sch. 2 para. 89 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d06665a9d08821972e93308ec24868b9]: Commencement: Sch. 2 para. 89 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00142]: Footnote: [S.I. 2004/454](https://www.legislation.gov.uk/uksi/2004/454); amended by [S.I. 2004/1609](https://www.legislation.gov.uk/uksi/2004/1609).
 
-[^key-7aa394829456f653a03490b0deb1862e]: Commencement: Sch. 2 para. 90 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7aa394829456f653a03490b0deb1862e]: Commencement: Sch. 2 para. 90 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00143]: Footnote: [S.I. 2004/1034](https://www.legislation.gov.uk/uksi/2004/1034), amended by [S.I. 2004/1747](https://www.legislation.gov.uk/uksi/2004/1747), [S.I. 2005/1130](https://www.legislation.gov.uk/uksi/2005/1130), [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748) and [S.I. 2012/146](https://www.legislation.gov.uk/uksi/2012/146).
 
-[^key-30a67c02d71bc5e702e7e14cef793cce]: Commencement: Sch. 2 para. 91 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-30a67c02d71bc5e702e7e14cef793cce]: Commencement: Sch. 2 para. 91 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00144]: Footnote: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045).
 
-[^key-c2823804b8df8b9991cd59bd3ccf5d4a]: Commencement: Sch. 2 para. 92 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c2823804b8df8b9991cd59bd3ccf5d4a]: Commencement: Sch. 2 para. 92 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-f76900458490b3f006b4a3e0f492a2b8]: Commencement: Sch. 2 para. 93 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f76900458490b3f006b4a3e0f492a2b8]: Commencement: Sch. 2 para. 93 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00145]: Footnote: [S.I. 2004/1450](https://www.legislation.gov.uk/uksi/2004/1450), amended by [S.I. 2005/ 3349](https://www.legislation.gov.uk/uksi/2005/3349) and [2010/582](https://www.legislation.gov.uk/uksi/2010/582).
 
-[^key-58f4c714f100660ac18ecd27e9f42d60]: Commencement: Sch. 2 para. 94 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-58f4c714f100660ac18ecd27e9f42d60]: Commencement: Sch. 2 para. 94 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00146]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861), amended by [S.I. 2010/131](https://www.legislation.gov.uk/uksi/2010/131), [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581), [S.I. 2012/725](https://www.legislation.gov.uk/uksi/2012/725), [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479) and [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641).
 
-[^key-a6694757e86d666d411c89ba83f69424]: Commencement: Sch. 2 para. 95 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a6694757e86d666d411c89ba83f69424]: Commencement: Sch. 2 para. 95 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00147]: Footnote: [S.I. 2004/1862](https://www.legislation.gov.uk/uksi/2004/1862), amended by [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2010/2628](https://www.legislation.gov.uk/uksi/2010/2628), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613), [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and [S.I. 2012/917](https://www.legislation.gov.uk/uksi/2012/917).
 
-[^key-6439ddb96eb95f6ce98de10250ed634c]: Commencement: Sch. 2 para. 96 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-6439ddb96eb95f6ce98de10250ed634c]: Commencement: Sch. 2 para. 96 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-c3e09bb3adfc2eea042d80551e17d8ee]: Commencement: Sch. 2 para. 97 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c3e09bb3adfc2eea042d80551e17d8ee]: Commencement: Sch. 2 para. 97 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00148]: Footnote: [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095).
 
-[^key-984801ba6d476aceb26025204ad54ef3]: Commencement: Sch. 2 para. 98 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-984801ba6d476aceb26025204ad54ef3]: Commencement: Sch. 2 para. 98 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00149]: Footnote: [S.I. 2004/2738](https://www.legislation.gov.uk/uksi/2004/2738).
 
-[^key-efa89d832bda5c5b2a08f6336fa52fe4]: Commencement: Sch. 2 para. 99 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-efa89d832bda5c5b2a08f6336fa52fe4]: Commencement: Sch. 2 para. 99 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00150]: Footnote: [S.R. 2005 No. 135](https://www.legislation.gov.uk/nisr/2005/135), to which there are amendments not relevant to this Order.
 
-[^key-61343c2627d62df62c19e4324e8c7eaf]: Commencement: Sch. 2 para. 100 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-61343c2627d62df62c19e4324e8c7eaf]: Commencement: Sch. 2 para. 100 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00151]: Footnote: [S.R. 2005 No. 174](https://www.legislation.gov.uk/nisr/2005/174), amended by [S.R. 2011 No. 17](https://www.legislation.gov.uk/nisr/2011/17).
 
-[^key-39337823a3e38577856bc604e262fd55]: Commencement: Sch. 2 para. 101 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-39337823a3e38577856bc604e262fd55]: Commencement: Sch. 2 para. 101 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00152]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255).
 
-[^key-6358e939638f772d15fd5f6638a50625]: Commencement: Sch. 2 para. 102 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-6358e939638f772d15fd5f6638a50625]: Commencement: Sch. 2 para. 102 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00153]: Footnote: [S.I. 2005/382](https://www.legislation.gov.uk/uksi/2005/382).
 
-[^key-15989dff61c1335255dfc7b3c4458cda]: Commencement: Sch. 2 para. 103 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-15989dff61c1335255dfc7b3c4458cda]: Commencement: Sch. 2 para. 103 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00154]: Footnote: [S.R. 2005 No. 398](https://www.legislation.gov.uk/nisr/2005/398).
 
-[^key-f755d8df6f8805c6c8ef0f4f4892b754]: Commencement: Sch. 2 para. 104 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f755d8df6f8805c6c8ef0f4f4892b754]: Commencement: Sch. 2 para. 104 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00155]: Footnote: [S.R. 2005 No. 399](https://www.legislation.gov.uk/nisr/2005/399); there are amending instruments but none is relevant.
 
-[^key-8fc3e729da63d89a842301105a4e2f72]: Commencement: Sch. 2 para. 105 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8fc3e729da63d89a842301105a4e2f72]: Commencement: Sch. 2 para. 105 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00156]: Footnote: [S.I. 2005/824](https://www.legislation.gov.uk/uksi/2005/824); the relevant amending instrument is [S.I. 2005/2023](https://www.legislation.gov.uk/uksi/2005/2023).
 
-[^key-bb68ca6884587d9299fba31e7b43132e]: Commencement: Sch. 2 para. 106 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-bb68ca6884587d9299fba31e7b43132e]: Commencement: Sch. 2 para. 106 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00157]: Footnote: [S.I. 2005/1477](https://www.legislation.gov.uk/uksi/2005/1477).
 
-[^key-ad7943f2b590d46aa0f2c4b62bff6dab]: Commencement: Sch. 2 para. 107 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ad7943f2b590d46aa0f2c4b62bff6dab]: Commencement: Sch. 2 para. 107 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00158]: Footnote: [S.I. 2005/1478](https://www.legislation.gov.uk/uksi/2005/1478).
 
-[^key-6a9d35effa804808d3742472e8d96486]: Commencement: Sch. 2 para. 108 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-6a9d35effa804808d3742472e8d96486]: Commencement: Sch. 2 para. 108 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00159]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529), amended by [S.I. 2007/2615](https://www.legislation.gov.uk/uksi/2007/2615).
 
-[^key-769fad96c6465dc9a84d2be7e0601505]: Commencement: Sch. 2 para. 109 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-769fad96c6465dc9a84d2be7e0601505]: Commencement: Sch. 2 para. 109 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00160]: Footnote: [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998); amended by [S.I.2007/852](https://www.legislation.gov.uk/uksi/2007/852) and [S.I.2011/1265](https://www.legislation.gov.uk/uksi/2011/1265).
 
-[^key-f065989678a417368212524538fbcecc]: Commencement: Sch. 2 para. 110 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f065989678a417368212524538fbcecc]: Commencement: Sch. 2 para. 110 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00161]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181).
 
-[^key-10341f31ef61ff0c10da6f140f938039]: Commencement: Sch. 2 para. 111 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-10341f31ef61ff0c10da6f140f938039]: Commencement: Sch. 2 para. 111 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00162]: Footnote: [S.I. 2005/3273](https://www.legislation.gov.uk/uksi/2005/3273), amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-aed927c6b69bad60fcf3329dcb974bd0]: Commencement: Sch. 2 para. 112 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-aed927c6b69bad60fcf3329dcb974bd0]: Commencement: Sch. 2 para. 112 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00163]: Footnote: [S.R. 2006 No. 33](https://www.legislation.gov.uk/nisr/2006/33).
 
-[^key-c85fe1f99f10ff7fd99b20c11324a581]: Commencement: Sch. 2 para. 113 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c85fe1f99f10ff7fd99b20c11324a581]: Commencement: Sch. 2 para. 113 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00164]: Footnote: [S.I. 2006/264](https://www.legislation.gov.uk/uksi/2006/264), amended by [S.I. 2010/671](https://www.legislation.gov.uk/uksi/2010/671) and [S.I. 2012/700](https://www.legislation.gov.uk/uksi/2012/700).
 
-[^key-6861a0afc8d653d60d31b48e900d9ce7]: Commencement: Sch. 2 para. 114 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-6861a0afc8d653d60d31b48e900d9ce7]: Commencement: Sch. 2 para. 114 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00165]: Footnote: [S.I. 2006/679](https://www.legislation.gov.uk/uksi/2006/679), to which there are amendments not relevant to this Order.
 
-[^key-2cda85e7f1a204f270d75d87f434dde4]: Commencement: Sch. 2 para. 115 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2cda85e7f1a204f270d75d87f434dde4]: Commencement: Sch. 2 para. 115 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00166]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), amended by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705), [S.I. 2008/3159](https://www.legislation.gov.uk/uksi/2008/3159), [S.I. 2009/2036](https://www.legislation.gov.uk/uksi/2009/2036) and [S.I. 2010/294](https://www.legislation.gov.uk/uksi/2010/294).
 
-[^key-a3a111b4adfa5c29379a68177323dd27]: Commencement: Sch. 2 para. 116 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a3a111b4adfa5c29379a68177323dd27]: Commencement: Sch. 2 para. 116 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00167]: Footnote: [S.I. 2006/1030](https://www.legislation.gov.uk/uksi/2006/1030), amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-281b75435b50fafd72986092dbf24ec8]: Commencement: Sch. 2 para. 117 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-281b75435b50fafd72986092dbf24ec8]: Commencement: Sch. 2 para. 117 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00168]: Footnote: [S.I. 2006/3107](https://www.legislation.gov.uk/uksi/2006/3107).
 
-[^key-ce911bce778bf3893beeb21a0ff9ed5a]: Commencement: Sch. 2 para. 118 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ce911bce778bf3893beeb21a0ff9ed5a]: Commencement: Sch. 2 para. 118 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00169]: Footnote: [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221).
 
@@ -5610,29 +5610,29 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00184]: Footnote: Amended by [S.I. 2010/2628](https://www.legislation.gov.uk/uksi/2010/2628).
 
-[^key-31a75c0f9d1c1e6a12a0f94126f03d3c]: Commencement: Sch. 2 para. 119 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-31a75c0f9d1c1e6a12a0f94126f03d3c]: Commencement: Sch. 2 para. 119 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-77d102462f8a816448ca06026d6b2737]: Commencement: Sch. 2 para. 120 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-77d102462f8a816448ca06026d6b2737]: Commencement: Sch. 2 para. 120 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00185]: Footnote: [S.I. 2006/3259](https://www.legislation.gov.uk/uksi/2006/3259).
 
-[^key-34b5e3fece91315e6b03a2141f01f952]: Commencement: Sch. 2 para. 121 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-34b5e3fece91315e6b03a2141f01f952]: Commencement: Sch. 2 para. 121 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00186]: Footnote: [S.I. 2006/3284](https://www.legislation.gov.uk/uksi/2006/3284), amended by [S.I. 2008/1803](https://www.legislation.gov.uk/uksi/2008/1803) and [S.I. 2012/829](https://www.legislation.gov.uk/uksi/2012/829).
 
-[^key-3adecbdd92adeaa7076807e4185f9548]: Commencement: Sch. 2 para. 122 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-3adecbdd92adeaa7076807e4185f9548]: Commencement: Sch. 2 para. 122 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00187]: Footnote: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336).
 
-[^key-17faae572dec7885506ad8d4393e3604]: Commencement: Sch. 2 para. 123 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-17faae572dec7885506ad8d4393e3604]: Commencement: Sch. 2 para. 123 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00188]: Footnote: [S.I. 2006/3363](https://www.legislation.gov.uk/uksi/2006/3363).
 
-[^key-a3b87ed9db45072c1c1a72e15399a072]: Commencement: Sch. 2 para. 124 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a3b87ed9db45072c1c1a72e15399a072]: Commencement: Sch. 2 para. 124 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00189]: Footnote: [S.R. 2007/115](https://www.legislation.gov.uk/nisr/2007/115).
 
-[^key-a0a57a358322b007248131be027f9047]: Commencement: Sch. 2 para. 125 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a0a57a358322b007248131be027f9047]: Commencement: Sch. 2 para. 125 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00190]: Footnote: [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), amended by [S.I. 2007/763](https://www.legislation.gov.uk/uksi/2007/763).
 
@@ -5640,39 +5640,39 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00192]: Footnote: Inserted by [S.I. 2007/763](https://www.legislation.gov.uk/uksi/2007/763).
 
-[^key-76886d67d0f1513331ab4e7620622191]: Commencement: Sch. 2 para. 126 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-76886d67d0f1513331ab4e7620622191]: Commencement: Sch. 2 para. 126 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00193]: Footnote: [S.I. 2007/281](https://www.legislation.gov.uk/uksi/2007/281).
 
-[^key-51b50b04ab4b12cba094d2c8b43b9f7c]: Commencement: Sch. 2 para. 127 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-51b50b04ab4b12cba094d2c8b43b9f7c]: Commencement: Sch. 2 para. 127 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00194]: Footnote: [S.I. 2007/846](https://www.legislation.gov.uk/uksi/2007/846).
 
-[^key-8ac0ced0830fb9f042ebbabcfd0551f8]: Commencement: Sch. 2 para. 128 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8ac0ced0830fb9f042ebbabcfd0551f8]: Commencement: Sch. 2 para. 128 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00195]: Footnote: [S.I. 2007/934](https://www.legislation.gov.uk/uksi/2007/934).
 
-[^key-8ea403368cf8a52dcff993768fca13e4]: Commencement: Sch. 2 para. 129 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8ea403368cf8a52dcff993768fca13e4]: Commencement: Sch. 2 para. 129 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00196]: Footnote: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157): relevant amending instruments are [S.I. 2007/3299](https://www.legislation.gov.uk/uksi/2007/3299), [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265), [S.I. 2011/2699](https://www.legislation.gov.uk/uksi/2011/2699), and [S.I. 2012/2298](https://www.legislation.gov.uk/uksi/2012/2298).
 
-[^key-11474fc92dabb4754cf7eced97e00361]: Commencement: Sch. 2 para. 130 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-11474fc92dabb4754cf7eced97e00361]: Commencement: Sch. 2 para. 130 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00197]: Footnote: [S.I. 2007/2501](https://www.legislation.gov.uk/uksi/2007/2501), amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748).
 
-[^key-2a2ffd5bcf9ac06e23e81b2e3c3f83b7]: Commencement: Sch. 2 para. 131 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2a2ffd5bcf9ac06e23e81b2e3c3f83b7]: Commencement: Sch. 2 para. 131 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00198]: Footnote: [S.I. 2007/3298](https://www.legislation.gov.uk/uksi/2007/3298).
 
-[^key-a1bb25cf2f3a326af8621863a31bb342]: Commencement: Sch. 2 para. 132 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a1bb25cf2f3a326af8621863a31bb342]: Commencement: Sch. 2 para. 132 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00199]: Footnote: [S.I. 2007/3532](https://www.legislation.gov.uk/uksi/2007/3532).
 
-[^key-8ccf2fe6ff1a1f438458a37bca0a3189]: Commencement: Sch. 2 para. 133 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8ccf2fe6ff1a1f438458a37bca0a3189]: Commencement: Sch. 2 para. 133 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00200]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544); there are amending instruments but none is relevant.
 
-[^key-06fefea1005b61aa0ffaec7370b80f55]: Commencement: Sch. 2 para. 134 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-06fefea1005b61aa0ffaec7370b80f55]: Commencement: Sch. 2 para. 134 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00201]: Footnote: [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346).
 
@@ -5682,91 +5682,91 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00204]: Footnote: Inserted by paragraph 6 of Schedule 12 to the Financial Services Act 2012.
 
-[^key-3286eef1d1e69052dbc341c387c87272]: Commencement: Sch. 2 para. 135 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-3286eef1d1e69052dbc341c387c87272]: Commencement: Sch. 2 para. 135 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00205]: Footnote: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
 
-[^key-9ec3e38aef9ce5245e75384d9f4e26ff]: Commencement: Sch. 2 para. 136 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9ec3e38aef9ce5245e75384d9f4e26ff]: Commencement: Sch. 2 para. 136 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00206]: Footnote: [S.I. 2008/432](https://www.legislation.gov.uk/uksi/2008/432).
 
 [^f00207]: Footnote: Substituted by section 24(1) of the Financial Services Act 2012.
 
-[^key-512c5e9c3cd7da8f198225f401869ef4]: Commencement: Sch. 2 para. 137 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-512c5e9c3cd7da8f198225f401869ef4]: Commencement: Sch. 2 para. 137 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00208]: Footnote: [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565).
 
-[^key-70d45c04d795e26d62a41320742bdfb8]: Textual amendment: [Sch. 2 para. 138](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/138) revoked (1.1.2018 with effect in relation to financial years of qualifying banks beginning on or after 30.11.2018 in accordance with reg. 19(2) of the revoking S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-70d45c04d795e26d62a41320742bdfb8]: Textual amendment: [Sch. 2 para. 138](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/138) revoked (1.1.2018 with effect in relation to financial years of qualifying banks beginning on or after 30.11.2018 in accordance with reg. 19(2) of the revoking S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-d6fb41326d0b112a0b84939e049e2697]: Commencement: Sch. 2 para. 139 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d6fb41326d0b112a0b84939e049e2697]: Commencement: Sch. 2 para. 139 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00210]: Footnote: [S.I. 2008/718](https://www.legislation.gov.uk/uksi/2008/718), amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
 [^f00211]: Footnote: Sections 133(6A) and 133(7A) of FSMA 2000 were inserted by section 23 of the Financial Services Act 2012.
 
-[^key-18416ab7cdf28f73b3f3c28a19b320a2]: Commencement: Sch. 2 para. 140 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-18416ab7cdf28f73b3f3c28a19b320a2]: Commencement: Sch. 2 para. 140 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00212]: Footnote: [S.I. 2008/1737](https://www.legislation.gov.uk/uksi/2008/1737), amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748).
 
-[^key-63ba61ffe336421f92aa1574192df5aa]: Commencement: Sch. 2 para. 141 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-63ba61ffe336421f92aa1574192df5aa]: Commencement: Sch. 2 para. 141 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00213]: Footnote: [S.I. 2008/1908](https://www.legislation.gov.uk/uksi/2008/1908).
 
-[^key-d8ca22e6404029d3c94e46dd085397bb]: Commencement: Sch. 2 para. 142 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d8ca22e6404029d3c94e46dd085397bb]: Commencement: Sch. 2 para. 142 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00214]: Footnote: [S.I. 2008/1909](https://www.legislation.gov.uk/uksi/2008/1909).
 
-[^key-48e8520eec0d3cd4e563653c7430164b]: Commencement: Sch. 2 para. 143 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-48e8520eec0d3cd4e563653c7430164b]: Commencement: Sch. 2 para. 143 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00215]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), amended by [S.I. 2009/1342](https://www.legislation.gov.uk/uksi/2009/1342), [2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [2011/99](https://www.legislation.gov.uk/uksi/2011/99), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2012/1439](https://www.legislation.gov.uk/uksi/2012/1439).
 
-[^key-87f9ea9b22b1dcb36f6ac428771f7770]: Commencement: Sch. 2 para. 144 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-87f9ea9b22b1dcb36f6ac428771f7770]: Commencement: Sch. 2 para. 144 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00216]: Footnote: [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950).
 
-[^key-abec09bcce2c910fba26f4164da67bd9]: Commencement: Sch. 2 para. 145 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-abec09bcce2c910fba26f4164da67bd9]: Commencement: Sch. 2 para. 145 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-c4d069874ffd0e6f3d9d012b9af30aea]: Commencement: Sch. 2 para. 146 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c4d069874ffd0e6f3d9d012b9af30aea]: Commencement: Sch. 2 para. 146 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00217]: Footnote: [S.I. 2008/2546](https://www.legislation.gov.uk/uksi/2008/2546).
 
-[^key-0597c95f794b9df780940c0325666d82]: Commencement: Sch. 2 para. 147 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-0597c95f794b9df780940c0325666d82]: Commencement: Sch. 2 para. 147 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00218]: Footnote: [S.I. 2008/2644](https://www.legislation.gov.uk/uksi/2008/2644).
 
-[^key-f78ab6e905c12861fa17fd4114493ec1]: Commencement: Sch. 2 para. 148 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f78ab6e905c12861fa17fd4114493ec1]: Commencement: Sch. 2 para. 148 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00219]: Footnote: [S.I. 2008/2666](https://www.legislation.gov.uk/uksi/2008/2666).
 
-[^key-1911ed1c532be592e3a8a96aebca3579]: Commencement: Sch. 2 para. 149 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1911ed1c532be592e3a8a96aebca3579]: Commencement: Sch. 2 para. 149 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00220]: Footnote: [S.I. 2008/2674](https://www.legislation.gov.uk/uksi/2008/2674). Amended by [S.I. 2009/308](https://www.legislation.gov.uk/uksi/2009/308).
 
-[^key-a32469addef6db6b3f56c682100d6df9]: Commencement: Sch. 2 para. 150 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a32469addef6db6b3f56c682100d6df9]: Commencement: Sch. 2 para. 150 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00221]: Footnote: [S.I. 2008/2770 (W.246)](https://www.legislation.gov.uk/wsi/2008/2770).
 
-[^key-26845f2b3ae27389bde7484065168630]: Commencement: Sch. 2 para. 151 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-26845f2b3ae27389bde7484065168630]: Commencement: Sch. 2 para. 151 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00222]: Footnote: [S.I. 2008/2998](https://www.legislation.gov.uk/uksi/2008/2998).
 
 [^f00223]: Footnote: The Financial Policy Committee of the Bank of England was established by section 9B of the Bank of England Act [1998 (c.11)](https://www.legislation.gov.uk/ukpga/1998/11) which was inserted by section 4 of the Financial Services Act 2012.
 
-[^key-246350e0f7b0b1e1683ddf08b6c4ea9a]: Commencement: Sch. 2 para. 152 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-246350e0f7b0b1e1683ddf08b6c4ea9a]: Commencement: Sch. 2 para. 152 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00224]: Footnote: [S.I. 2008/3249](https://www.legislation.gov.uk/uksi/2008/3249).
 
 [^f00225]: Footnote: Sections 133(6A) and 133(7A) of FSMA 2000 were inserted by section 23 of the Financial Services Act 2012.
 
-[^key-ac23ece7d906bde59b5a5c401376c843]: Commencement: Sch. 2 para. 153 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ac23ece7d906bde59b5a5c401376c843]: Commencement: Sch. 2 para. 153 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00226]: Footnote: S.R [(N.I.) 2009 No. 63](https://www.legislation.gov.uk/nisr/2009/63).
 
-[^key-a60d8f606da87d1731df31d8040021fc]: Commencement: Sch. 2 para. 154 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a60d8f606da87d1731df31d8040021fc]: Commencement: Sch. 2 para. 154 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00227]: Footnote: S.R [(N.I.) 2009 No. 122](https://www.legislation.gov.uk/nisr/2009/122).
 
-[^key-e4187b7b5dd1ce73d65e2f6c7ec4a3b5]: Commencement: Sch. 2 para. 155 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e4187b7b5dd1ce73d65e2f6c7ec4a3b5]: Commencement: Sch. 2 para. 155 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00228]: Footnote: [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209).
 
@@ -5788,171 +5788,171 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00237]: Footnote: Inserted by Schedule 9 to the Financial Services Act 2012.
 
-[^key-e25617deb1d3a77a010db7a901f4ad19]: Commencement: Sch. 2 para. 156 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e25617deb1d3a77a010db7a901f4ad19]: Commencement: Sch. 2 para. 156 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-f15356fabdbff26f5a6c71edef8ec0b0]: Commencement: Sch. 2 para. 157 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-f15356fabdbff26f5a6c71edef8ec0b0]: Commencement: Sch. 2 para. 157 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00238]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214).
 
 [^f00239]: Footnote: Section 146 of FSMA 2000 was repealed by section 24 of the Financial Services Act 2012.
 
-[^key-29401f2cc61426468d57b5096867f0e9]: Commencement: Sch. 2 para. 158 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-29401f2cc61426468d57b5096867f0e9]: Commencement: Sch. 2 para. 158 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00240]: Footnote: [S.I. 2009/312](https://www.legislation.gov.uk/uksi/2009/312).
 
-[^key-9ac41024bb8635265a01a68ec916030d]: Commencement: Sch. 2 para. 159 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9ac41024bb8635265a01a68ec916030d]: Commencement: Sch. 2 para. 159 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00241]: Footnote: [S.I. 2009/314](https://www.legislation.gov.uk/uksi/2009/314).
 
-[^key-b9cc8b62aabeaf8172d05296088899c5]: Commencement: Sch. 2 para. 160 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b9cc8b62aabeaf8172d05296088899c5]: Commencement: Sch. 2 para. 160 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00242]: Footnote: [S.I. 2009/322](https://www.legislation.gov.uk/uksi/2009/322); amended by [S.I. 2009/1826](https://www.legislation.gov.uk/uksi/2009/1826) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-fa04d197f45d0798b88767fb1985d4a8]: Commencement: Sch. 2 para. 161 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-fa04d197f45d0798b88767fb1985d4a8]: Commencement: Sch. 2 para. 161 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00243]: Footnote: [S.I. 2009/350 (S. 4)](https://www.legislation.gov.uk/uksi/2009/350), amended by [S.I. 2009/3056](https://www.legislation.gov.uk/uksi/2009/3056) and [S.I. 2010/2578](https://www.legislation.gov.uk/uksi/2010/2578).
 
-[^key-71e513927b47f15ec54e723469b379a3]: Commencement: Sch. 2 para. 162 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-71e513927b47f15ec54e723469b379a3]: Commencement: Sch. 2 para. 162 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00244]: Footnote: [S.I. 2009/351 (S.5)](https://www.legislation.gov.uk/uksi/2009/351), amended by [S.I. 2009/3056](https://www.legislation.gov.uk/uksi/2009/3056) and [S.I. 2010/2586 (S.7)](https://www.legislation.gov.uk/uksi/2010/2586).
 
-[^key-df391408c4f5f909374e5ba200d94b65]: Commencement: Sch. 2 para. 163 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-df391408c4f5f909374e5ba200d94b65]: Commencement: Sch. 2 para. 163 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00245]: Footnote: [S.I. 2009/356](https://www.legislation.gov.uk/uksi/2009/356), amended by [S.I. 2010/2579](https://www.legislation.gov.uk/uksi/2010/2579).
 
-[^key-0e3ee269994db45e643c326916ea0f07]: Commencement: Sch. 2 para. 164 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-0e3ee269994db45e643c326916ea0f07]: Commencement: Sch. 2 para. 164 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00246]: Footnote: [S.I. 2009/357](https://www.legislation.gov.uk/uksi/2009/357), amended by [S.I. 2010/2583](https://www.legislation.gov.uk/uksi/2010/2583).
 
-[^key-b4ee81841d68090adc8ea7cbd4220f1d]: Commencement: Sch. 2 para. 165 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b4ee81841d68090adc8ea7cbd4220f1d]: Commencement: Sch. 2 para. 165 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00247]: Footnote: [S.I. 2009/555](https://www.legislation.gov.uk/uksi/2009/555).
 
-[^key-bb4c1ef5dcee3cf02358d3462d5241d2]: Commencement: Sch. 2 para. 166 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-bb4c1ef5dcee3cf02358d3462d5241d2]: Commencement: Sch. 2 para. 166 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00248]: Footnote: [S.I. 2009/774](https://www.legislation.gov.uk/uksi/2009/774).
 
-[^key-3712cf8938ed728c072954edeb54c3bf]: Commencement: Sch. 2 para. 167 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-3712cf8938ed728c072954edeb54c3bf]: Commencement: Sch. 2 para. 167 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00249]: Footnote: [S.I. 2009/814](https://www.legislation.gov.uk/uksi/2009/814).
 
-[^key-be3b3bb3ea64c7577712fec4893e2431]: Commencement: Sch. 2 para. 168 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-be3b3bb3ea64c7577712fec4893e2431]: Commencement: Sch. 2 para. 168 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00250]: Footnote: [S.I. 2009/975](https://www.legislation.gov.uk/uksi/2009/975); Schedule 1 was substituted by [S.I. 2009/2707](https://www.legislation.gov.uk/uksi/2009/2707) and amended by [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085).
 
-[^key-c5bbad0c9d043a2ed168fdf3f740aa51]: Commencement: Sch. 2 para. 169 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c5bbad0c9d043a2ed168fdf3f740aa51]: Commencement: Sch. 2 para. 169 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00251]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805), as amended by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189).
 
-[^key-df067b65c80326af286ecdfb77254164]: Commencement: Sch. 2 para. 170 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-df067b65c80326af286ecdfb77254164]: Commencement: Sch. 2 para. 170 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00252]: Footnote: [S.I. 2009/806](https://www.legislation.gov.uk/uksi/2009/806).
 
-[^key-b1610eb8fdfa0d070942dbf537a79365]: Commencement: Sch. 2 para. 171 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b1610eb8fdfa0d070942dbf537a79365]: Commencement: Sch. 2 para. 171 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00253]: Footnote: [S.I. 2009/847](https://www.legislation.gov.uk/uksi/2009/847).
 
-[^key-cc0121bc1162e4e1710dc1a050a67e71]: Commencement: Sch. 2 para. 172 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-cc0121bc1162e4e1710dc1a050a67e71]: Commencement: Sch. 2 para. 172 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00254]: Footnote: [S.I. 2009/1495](https://www.legislation.gov.uk/uksi/2009/1495).
 
-[^key-b15abc87adc13f17e83095dc02f3bd3b]: Commencement: Sch. 2 para. 173 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b15abc87adc13f17e83095dc02f3bd3b]: Commencement: Sch. 2 para. 173 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00255]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-7417df454fc3edd1a0975fd4ea897c43]: Commencement: Sch. 2 para. 174 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7417df454fc3edd1a0975fd4ea897c43]: Commencement: Sch. 2 para. 174 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00256]: Footnote: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-624eeb20751bd0d94c4581effa91b966]: Commencement: Sch. 2 para. 175 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-624eeb20751bd0d94c4581effa91b966]: Commencement: Sch. 2 para. 175 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00257]: Footnote: [S.I. 2009/1810](https://www.legislation.gov.uk/uksi/2009/1810), amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
 [^f00258]: Footnote: Sections 133(6A) and 133(7A) of FSMA 2000 were inserted by section 23 of the Financial Services Act 2012.
 
-[^key-2a50bc24f7424494719312188745ebbc]: Commencement: Sch. 2 para. 176 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2a50bc24f7424494719312188745ebbc]: Commencement: Sch. 2 para. 176 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00259]: Footnote: [S.I. 2009/1926](https://www.legislation.gov.uk/uksi/2009/1926).
 
-[^key-b19bb216efeb9b72a5786011a1fbe4d5]: Commencement: Sch. 2 para. 177 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b19bb216efeb9b72a5786011a1fbe4d5]: Commencement: Sch. 2 para. 177 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00260]: Footnote: [S.I. 2009/2982](https://www.legislation.gov.uk/uksi/2009/2982); the Schedule was amended by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
 
-[^key-24f705bc93407ab273216c5af64da35e]: Commencement: Sch. 2 para. 178 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-24f705bc93407ab273216c5af64da35e]: Commencement: Sch. 2 para. 178 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00261]: Footnote: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001).
 
-[^key-8c206b302020efa8419727659251451d]: Commencement: Sch. 2 para. 179 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8c206b302020efa8419727659251451d]: Commencement: Sch. 2 para. 179 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00262]: Footnote: [S.I. 2009/3008](https://www.legislation.gov.uk/uksi/2009/3008).
 
-[^key-68a578c800f4bf642edbd48ed6a7e543]: Commencement: Sch. 2 para. 180 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-68a578c800f4bf642edbd48ed6a7e543]: Commencement: Sch. 2 para. 180 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00263]: Footnote: [S.I. 2009/3056](https://www.legislation.gov.uk/uksi/2009/3056).
 
 [^f00264]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-ce549e6bc543c7674cbfa5b32c84f7a9]: Commencement: Sch. 2 para. 181 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ce549e6bc543c7674cbfa5b32c84f7a9]: Commencement: Sch. 2 para. 181 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00265]: Footnote: [S.I. 2009/3093](https://www.legislation.gov.uk/uksi/2009/3093).
 
-[^key-ea723b742d5a8280b0b9363a7165abf8]: Commencement: Sch. 2 para. 182 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ea723b742d5a8280b0b9363a7165abf8]: Commencement: Sch. 2 para. 182 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00266]: Footnote: [S.I. 2009/3226](https://www.legislation.gov.uk/uksi/2009/3226).
 
-[^key-510fd4dde7da3b247a5ca0a6a2cc11c9]: Commencement: Sch. 2 para. 183 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-510fd4dde7da3b247a5ca0a6a2cc11c9]: Commencement: Sch. 2 para. 183 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00267]: Footnote: [S.S.I. 2010/233](https://www.legislation.gov.uk/ssi/2010/233).
 
-[^key-152e18bcd709ec5412157734cf852fb6]: Commencement: Sch. 2 para. 184 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-152e18bcd709ec5412157734cf852fb6]: Commencement: Sch. 2 para. 184 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00268]: Footnote: [S.I. 2010/480](https://www.legislation.gov.uk/uksi/2010/480).
 
-[^key-884e8e5e6a9db2fbb917b47f3b3fc655]: Commencement: Sch. 2 para. 185 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-884e8e5e6a9db2fbb917b47f3b3fc655]: Commencement: Sch. 2 para. 185 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00269]: Footnote: [S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521).
 
-[^key-543b78ed3b06fa4e7337a7928b185669]: Commencement: Sch. 2 para. 186 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-543b78ed3b06fa4e7337a7928b185669]: Commencement: Sch. 2 para. 186 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00270]: Footnote: [S.I. 2010/781](https://www.legislation.gov.uk/uksi/2010/781).
 
-[^key-683fea68c82dfae1d35da4a8fdb7f21b]: Commencement: Sch. 2 para. 187 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-683fea68c82dfae1d35da4a8fdb7f21b]: Commencement: Sch. 2 para. 187 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00271]: Footnote: [S.I. 2010/828](https://www.legislation.gov.uk/uksi/2010/828).
 
-[^key-4e628448e131ad565b1b3ca496bf0b9f]: Commencement: Sch. 2 para. 188 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4e628448e131ad565b1b3ca496bf0b9f]: Commencement: Sch. 2 para. 188 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00272]: Footnote: [S.I. 2010/906](https://www.legislation.gov.uk/uksi/2010/906); amended by [S.I.2011/1435](https://www.legislation.gov.uk/uksi/2011/1435).
 
-[^key-2a44512c114cdc7ebd0bbf5764d7b1eb]: Commencement: Sch. 2 para. 189 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-2a44512c114cdc7ebd0bbf5764d7b1eb]: Commencement: Sch. 2 para. 189 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00273]: Footnote: [S.I. 2010/2220](https://www.legislation.gov.uk/uksi/2010/2220).
 
-[^key-1398a4c81cac778294ec9d937ec2dd1b]: Commencement: Sch. 2 para. 190 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1398a4c81cac778294ec9d937ec2dd1b]: Commencement: Sch. 2 para. 190 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00274]: Footnote: [S.I. 2010/2580](https://www.legislation.gov.uk/uksi/2010/2580).
 
-[^key-00b7ae86f82806b458ebd9b4f06f581b]: Commencement: Sch. 2 para. 191 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-00b7ae86f82806b458ebd9b4f06f581b]: Commencement: Sch. 2 para. 191 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00275]: Footnote: [S.I. 2010/2581](https://www.legislation.gov.uk/uksi/2010/2581).
 
-[^key-8cd9ef38260538b8757999ecb5de63f6]: Commencement: Sch. 2 para. 192 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8cd9ef38260538b8757999ecb5de63f6]: Commencement: Sch. 2 para. 192 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00276]: Footnote: [S.I 2010/2584 (S.6)](https://www.legislation.gov.uk/uksi/2010/2584).
 
-[^key-329e426bc64babcc809fbaf92478ea5b]: Commencement: Sch. 2 para. 193 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-329e426bc64babcc809fbaf92478ea5b]: Commencement: Sch. 2 para. 193 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00277]: Footnote: [S.I. 2010/2893](https://www.legislation.gov.uk/uksi/2010/2893).
 
-[^key-4b513d1f90d2d14913d2633afffd7efe]: Commencement: Sch. 2 para. 194 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4b513d1f90d2d14913d2633afffd7efe]: Commencement: Sch. 2 para. 194 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00278]: Footnote: [S.I. 2010/2956](https://www.legislation.gov.uk/uksi/2010/2956).
 
-[^key-fb54bca921b4196dcaa18179042ffb8d]: Commencement: Sch. 2 para. 195 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-fb54bca921b4196dcaa18179042ffb8d]: Commencement: Sch. 2 para. 195 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00279]: Footnote: [S.I. 2010/3023](https://www.legislation.gov.uk/uksi/2010/3023).
 
-[^key-ffb4a260a05b6bb0827fe0c68f045f91]: Commencement: Sch. 2 para. 196 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ffb4a260a05b6bb0827fe0c68f045f91]: Commencement: Sch. 2 para. 196 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00280]: Footnote: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 
@@ -6004,27 +6004,27 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00304]: Footnote: Amended by Schedule 9 to the Financial Services Act 2012.
 
-[^key-98713868c102e0375612ee48b1c81951]: Commencement: Sch. 2 para. 197 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-98713868c102e0375612ee48b1c81951]: Commencement: Sch. 2 para. 197 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00305]: Footnote: [S.I. 2011/122](https://www.legislation.gov.uk/uksi/2011/122).
 
-[^key-9000b0b966d536732b7089f2a81ebd78]: Commencement: Sch. 2 para. 198 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9000b0b966d536732b7089f2a81ebd78]: Commencement: Sch. 2 para. 198 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00306]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
 [^f00307]: Footnote: Section 139 is repealed, and section 137B is inserted, by the 2012 Act, section 24.
 
-[^key-190445ded620a679558fdbf0fac92f29]: Commencement: Sch. 2 para. 199 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-190445ded620a679558fdbf0fac92f29]: Commencement: Sch. 2 para. 199 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-8f20b065614d0014da6569d54f465896]: Commencement: Sch. 2 para. 200 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8f20b065614d0014da6569d54f465896]: Commencement: Sch. 2 para. 200 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00308]: Footnote: [S.I. 2011/548](https://www.legislation.gov.uk/uksi/2011/548).
 
-[^key-68f6001388d076973e5fadb0f4996e82]: Commencement: Sch. 2 para. 201 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-68f6001388d076973e5fadb0f4996e82]: Commencement: Sch. 2 para. 201 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00309]: Footnote: [S.I. 2011/605](https://www.legislation.gov.uk/uksi/2011/605).
 
-[^key-04879c0f7866d614d55b33ebca363a7c]: Commencement: Sch. 2 para. 202 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-04879c0f7866d614d55b33ebca363a7c]: Commencement: Sch. 2 para. 202 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00310]: Footnote: [S.I. 2011/734 (W.112)](https://www.legislation.gov.uk/wsi/2011/734).
 
@@ -6036,189 +6036,189 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00314]: Footnote: Mewnosodwyd adran 2A o Ddeddf Gwasanaethau a Marchnadoedd Ariannol 2000 gan adran 6 o Ddeddf Gwasanaethau Ariannol 2012.
 
-[^key-3e5b8107812d6c958ff0bd2ea17e89c3]: Commencement: Sch. 2 para. 203 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-3e5b8107812d6c958ff0bd2ea17e89c3]: Commencement: Sch. 2 para. 203 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00315]: Footnote: [S.I. 2011/748](https://www.legislation.gov.uk/uksi/2011/748).
 
-[^key-4a0965c45858386bf48fc4e367743178]: Commencement: Sch. 2 para. 204 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4a0965c45858386bf48fc4e367743178]: Commencement: Sch. 2 para. 204 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00316]: Footnote: [S.I. 2011/887](https://www.legislation.gov.uk/uksi/2011/887).
 
-[^key-55b670040c7e6bb40982f1416fc6cb49]: Commencement: Sch. 2 para. 205 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-55b670040c7e6bb40982f1416fc6cb49]: Commencement: Sch. 2 para. 205 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00317]: Footnote: [S.I. 2011/888](https://www.legislation.gov.uk/uksi/2011/888).
 
-[^key-8d7fbc41afe5fb554dc7f379f804e417]: Textual amendment: [Sch. 2 para. 206](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/206) revoked (30.9.2016) by [The Côte d’Ivoire (Asset-Freezing) (Revocation) Regulations 2016 (S.I. 2016/893)](https://www.legislation.gov.uk/uksi/2016/893), [regs. 1](https://www.legislation.gov.uk/uksi/2016/893/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/893/regulation/2/c)
+[^c-8d7fbc41afe5fb554dc7f379f804e417]: Textual amendment: [Sch. 2 para. 206](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/206) revoked (30.9.2016) by [The Côte d’Ivoire (Asset-Freezing) (Revocation) Regulations 2016 (S.I. 2016/893)](https://www.legislation.gov.uk/uksi/2016/893), [regs. 1](https://www.legislation.gov.uk/uksi/2016/893/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/893/regulation/2/c)
 
-[^key-3be0925d8481640b0d96292fbb94cd55]: Commencement: Sch. 2 para. 207 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-3be0925d8481640b0d96292fbb94cd55]: Commencement: Sch. 2 para. 207 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00319]: Footnote: [S.I. 2011/1094](https://www.legislation.gov.uk/uksi/2011/1094).
 
-[^key-c22cffc06a25b9069265767f005616f0]: Commencement: Sch. 2 para. 208 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-c22cffc06a25b9069265767f005616f0]: Commencement: Sch. 2 para. 208 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00320]: Footnote: [S.I. 2011/1129](https://www.legislation.gov.uk/uksi/2011/1129).
 
-[^key-07f87f7c6eff0a70f26dfe6fec5d0894]: Commencement: Sch. 2 para. 209 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-07f87f7c6eff0a70f26dfe6fec5d0894]: Commencement: Sch. 2 para. 209 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00321]: Footnote: [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265).
 
-[^key-4a400456fd6806144f47a40b30fab21e]: Commencement: Sch. 2 para. 210 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4a400456fd6806144f47a40b30fab21e]: Commencement: Sch. 2 para. 210 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00322]: Footnote: [S.I. 2011/1301](https://www.legislation.gov.uk/uksi/2011/1301).
 
-[^key-59a3860f2b7c87f008fe4d35c653b83a]: Commencement: Sch. 2 para. 211 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-59a3860f2b7c87f008fe4d35c653b83a]: Commencement: Sch. 2 para. 211 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-21cc22c9b1c8d7d51d44622ed6dc1d35]: Commencement: Sch. 2 para. 212 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-21cc22c9b1c8d7d51d44622ed6dc1d35]: Commencement: Sch. 2 para. 212 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00323]: Footnote: [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-94e779321363b0489243c1241d0ac3f2]: Commencement: Sch. 2 para. 213 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-94e779321363b0489243c1241d0ac3f2]: Commencement: Sch. 2 para. 213 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00324]: Footnote: [S.I. 2011/1679](https://www.legislation.gov.uk/uksi/2011/1679).
 
-[^key-e5e0dbf502ec86010e8256bfdd70fcc3]: Commencement: Sch. 2 para. 214 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e5e0dbf502ec86010e8256bfdd70fcc3]: Commencement: Sch. 2 para. 214 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00325]: Footnote: [S.I. 2011/1893](https://www.legislation.gov.uk/uksi/2011/1893).
 
-[^key-95f939dc11ca60f8821ab86f0f5590f4]: Commencement: Sch. 2 para. 215 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-95f939dc11ca60f8821ab86f0f5590f4]: Commencement: Sch. 2 para. 215 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00326]: Footnote: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260), amended by [S.I. 2012/6241](https://www.legislation.gov.uk/uksi/2012/6241).
 
-[^key-eb549a130bb6062862b74f57d8bfbccc]: Commencement: Sch. 2 para. 216 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-eb549a130bb6062862b74f57d8bfbccc]: Commencement: Sch. 2 para. 216 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00327]: Footnote: [S.I. 2011/2262 (S.3)](https://www.legislation.gov.uk/uksi/2011/2262).
 
-[^key-1ba75298f00eb09bc9ca05a70fe3c6e6]: Commencement: Sch. 2 para. 217 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1ba75298f00eb09bc9ca05a70fe3c6e6]: Commencement: Sch. 2 para. 217 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
-[^key-afd742c80005f53778b34ff28c7499ad]: Commencement: Sch. 2 para. 218 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-afd742c80005f53778b34ff28c7499ad]: Commencement: Sch. 2 para. 218 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00328]: Footnote: [S.I. 2011/2440](https://www.legislation.gov.uk/uksi/2011/2440).
 
-[^key-aa726e7af4ee0ba27be4346bdea8f497]: Commencement: Sch. 2 para. 219 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-aa726e7af4ee0ba27be4346bdea8f497]: Commencement: Sch. 2 para. 219 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00329]: Footnote: [S.I. 2011/2742](https://www.legislation.gov.uk/uksi/2011/2742).
 
-[^key-1f08aa8b3e9518f3cf071cba69f0a647]: Commencement: Sch. 2 para. 220 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-1f08aa8b3e9518f3cf071cba69f0a647]: Commencement: Sch. 2 para. 220 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00330]: Footnote: [S.I. 2011/2832](https://www.legislation.gov.uk/uksi/2011/2832).
 
-[^key-5adab0ae77fac706a5a484106ef97af9]: Commencement: Sch. 2 para. 221 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-5adab0ae77fac706a5a484106ef97af9]: Commencement: Sch. 2 para. 221 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00331]: Footnote: [S.I. 2011/2989](https://www.legislation.gov.uk/uksi/2011/2989).
 
-[^key-964a8df85b046b47624e2cc29597edd0]: Commencement: Sch. 2 para. 222 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-964a8df85b046b47624e2cc29597edd0]: Commencement: Sch. 2 para. 222 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00332]: Footnote: [S.I. 2012/129](https://www.legislation.gov.uk/uksi/2012/129).
 
-[^key-0daee5eb163ed6c88975eee7ffb13bdc]: Commencement: Sch. 2 para. 223 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-0daee5eb163ed6c88975eee7ffb13bdc]: Commencement: Sch. 2 para. 223 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00333]: Footnote: [S.I. 2012/925](https://www.legislation.gov.uk/uksi/2012/925).
 
-[^key-10621bed547dcc77ef20dc580d3c4a3f]: Commencement: Sch. 2 para. 224 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-10621bed547dcc77ef20dc580d3c4a3f]: Commencement: Sch. 2 para. 224 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00334]: Footnote: [S.I. 2012/1128](https://www.legislation.gov.uk/uksi/2012/1128).
 
-[^key-0e3bf5d3e36a4e2a5ff79b6fc0c9183f]: Commencement: Sch. 2 para. 225 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-0e3bf5d3e36a4e2a5ff79b6fc0c9183f]: Commencement: Sch. 2 para. 225 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00335]: Footnote: [S.I. 2012/1301](https://www.legislation.gov.uk/uksi/2012/1301).
 
-[^key-5a70e57d822a960eb51031f0cd664016]: Commencement: Sch. 2 para. 226 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-5a70e57d822a960eb51031f0cd664016]: Commencement: Sch. 2 para. 226 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00336]: Footnote: [S.I. 2012/1439](https://www.legislation.gov.uk/uksi/2012/1439).
 
-[^key-91e92f6479304c25607bbbc4cc0ec0e7]: Commencement: Sch. 2 para. 227 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-91e92f6479304c25607bbbc4cc0ec0e7]: Commencement: Sch. 2 para. 227 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00337]: Footnote: [S.I. 2012/1489](https://www.legislation.gov.uk/uksi/2012/1489).
 
-[^key-9d00e802ff2add6802a38abe521a5141]: Commencement: Sch. 2 para. 228 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9d00e802ff2add6802a38abe521a5141]: Commencement: Sch. 2 para. 228 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00338]: Footnote: [S.I. 2012/1507](https://www.legislation.gov.uk/uksi/2012/1507).
 
-[^key-99f4e17d97c67b83ef7faf8348c384ab]: Commencement: Sch. 2 para. 229 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-99f4e17d97c67b83ef7faf8348c384ab]: Commencement: Sch. 2 para. 229 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00339]: Footnote: [S.I. 2012/1508](https://www.legislation.gov.uk/uksi/2012/1508).
 
-[^key-e8f309669538ad759b87303ba48aacde]: Commencement: Sch. 2 para. 230 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e8f309669538ad759b87303ba48aacde]: Commencement: Sch. 2 para. 230 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00340]: Footnote: [S.I. 2012/1511](https://www.legislation.gov.uk/uksi/2012/1511).
 
-[^key-a34563b0d55d07a21825e0dd487c262a]: Commencement: Sch. 2 para. 231 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-a34563b0d55d07a21825e0dd487c262a]: Commencement: Sch. 2 para. 231 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00341]: Footnote: [S.I. 2012/1515](https://www.legislation.gov.uk/uksi/2012/1515).
 
-[^key-7381bae692d7aa7f06574dfb0744f0d7]: Commencement: Sch. 2 para. 232 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7381bae692d7aa7f06574dfb0744f0d7]: Commencement: Sch. 2 para. 232 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00342]: Footnote: [S.I. 2012/1516](https://www.legislation.gov.uk/uksi/2012/1516).
 
-[^key-ce082f4f5d7431a418be88391d012aa7]: Commencement: Sch. 2 para. 233 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-ce082f4f5d7431a418be88391d012aa7]: Commencement: Sch. 2 para. 233 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00343]: Footnote: [S.I. 2012/1517](https://www.legislation.gov.uk/uksi/2012/1517).
 
-[^key-7734bd4da1d1945e25a501206da877e1]: Commencement: Sch. 2 para. 234 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-7734bd4da1d1945e25a501206da877e1]: Commencement: Sch. 2 para. 234 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00344]: Footnote: [S.I. 2012/1538](https://www.legislation.gov.uk/uksi/2012/1538).
 
-[^key-8516a1cdd81ae59aec8c3c4ff20c6fd1]: Commencement: Sch. 2 para. 235 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8516a1cdd81ae59aec8c3c4ff20c6fd1]: Commencement: Sch. 2 para. 235 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00345]: Footnote: [S.I. 2012/1755](https://www.legislation.gov.uk/uksi/2012/1755); amended by [S.I. 2012/3069](https://www.legislation.gov.uk/uksi/2012/3069).
 
-[^key-9f4f430daf26ab48415d3e7f93ff7659]: Commencement: Sch. 2 para. 236 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9f4f430daf26ab48415d3e7f93ff7659]: Commencement: Sch. 2 para. 236 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00346]: Footnote: [S.I. 2012/1756](https://www.legislation.gov.uk/uksi/2012/1756).
 
-[^key-e71bb732ed5ffa3aeb25d8c6211d69bf]: Commencement: Sch. 2 para. 237 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e71bb732ed5ffa3aeb25d8c6211d69bf]: Commencement: Sch. 2 para. 237 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00347]: Footnote: [S.I. 2012/1757](https://www.legislation.gov.uk/uksi/2012/1757).
 
-[^key-8a605e97719fc46eafca823f2daf0475]: Commencement: Sch. 2 para. 238 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-8a605e97719fc46eafca823f2daf0475]: Commencement: Sch. 2 para. 238 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00348]: Footnote: [S.I. 2012/1758](https://www.legislation.gov.uk/uksi/2012/1758).
 
-[^key-98ef1a2f518711d860b8902c79fa6000]: Textual amendment: Sch. 2 para. 239 omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/6); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-98ef1a2f518711d860b8902c79fa6000]: Textual amendment: Sch. 2 para. 239 omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/6); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
-[^key-97790e9dc69ea80c6f4c8226fa718364]: Commencement: Sch. 2 para. 240 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-97790e9dc69ea80c6f4c8226fa718364]: Commencement: Sch. 2 para. 240 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00350]: Footnote: [S.I. 2012/2748](https://www.legislation.gov.uk/uksi/2012/2748).
 
-[^key-49472e45c1dcde55a592daf9eef82cb3]: Commencement: Sch. 2 para. 241 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-49472e45c1dcde55a592daf9eef82cb3]: Commencement: Sch. 2 para. 241 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00351]: Footnote: [S.I. 2012/2751](https://www.legislation.gov.uk/uksi/2012/2751).
 
-[^key-d9cf12f0fa192a060a4ac9d3d71de09a]: Commencement: Sch. 2 para. 242 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-d9cf12f0fa192a060a4ac9d3d71de09a]: Commencement: Sch. 2 para. 242 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00352]: Footnote: [S.I. 2012/2753](https://www.legislation.gov.uk/uksi/2012/2753).
 
-[^key-dc4bc9a76df7086b36f8c1800312291d]: Commencement: Sch. 2 para. 243 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-dc4bc9a76df7086b36f8c1800312291d]: Commencement: Sch. 2 para. 243 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00353]: Footnote: [S.I. 2012/3041](https://www.legislation.gov.uk/uksi/2012/3041).
 
-[^key-9d6dba17fea44582da6746534a6b4e43]: Commencement: Sch. 2 para. 244 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-9d6dba17fea44582da6746534a6b4e43]: Commencement: Sch. 2 para. 244 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00354]: Footnote: [S.I. 2012/3065](https://www.legislation.gov.uk/uksi/2012/3065).
 
-[^key-187a0181cd47ea1c95ac1404e6628277]: Commencement: Sch. 2 para. 245 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-187a0181cd47ea1c95ac1404e6628277]: Commencement: Sch. 2 para. 245 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00355]: Footnote: [S.I. 2012/3066](https://www.legislation.gov.uk/uksi/2012/3066).
 
-[^key-55ae50bdfc3789c232990f1adc987ba1]: Commencement: Sch. 2 para. 246 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-55ae50bdfc3789c232990f1adc987ba1]: Commencement: Sch. 2 para. 246 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00356]: Footnote: [S.I. 2012/3067](https://www.legislation.gov.uk/uksi/2012/3067).
 
-[^key-dc5e438074ba999c53d9bbcd5e020d74]: Commencement: Sch. 2 para. 247 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-dc5e438074ba999c53d9bbcd5e020d74]: Commencement: Sch. 2 para. 247 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00357]: Footnote: [S.I. 2012/3068](https://www.legislation.gov.uk/uksi/2012/3068).
 
-[^key-41cb164fd697fff4ba86ded23c53a7af]: Commencement: Sch. 2 para. 248 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-41cb164fd697fff4ba86ded23c53a7af]: Commencement: Sch. 2 para. 248 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00358]: Footnote: [S.I. 2012/3122](https://www.legislation.gov.uk/uksi/2012/3122).
 
 [^f00359]: Footnote: Schedule 1 of FSMA 2000 was repealed and Schedule 1ZA was inserted by section 6 of the Financial Services Act 2012.
 
-[^key-073e76939aa1aacffda4e10d00e76bf8]: Commencement: Sch. 2 para. 249 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-073e76939aa1aacffda4e10d00e76bf8]: Commencement: Sch. 2 para. 249 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00360]: Footnote: [S.I. 2013/9](https://www.legislation.gov.uk/uksi/2013/9).
 
-[^key-e3492f46d1d524f454dff1be31b5b3be]: Commencement: Sch. 2 para. 250 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-e3492f46d1d524f454dff1be31b5b3be]: Commencement: Sch. 2 para. 250 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00361]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
 
@@ -6242,10 +6242,10 @@ In paragraph 5(1)(e) of Schedule 6 to the Guinea (Sanctions) (Overseas Territori
 
 [^f00371]: Footnote: Section 88(2) was amended by section 16(1), (2)(a) and (3)(f) of the Financial Services Act 2012.
 
-[^key-4059a1e388fdecb2e6f1db7f4ce07a19]: Commencement: Sch. 2 para. 251 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4059a1e388fdecb2e6f1db7f4ce07a19]: Commencement: Sch. 2 para. 251 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00372]: Footnote: [S.I. 2013/164](https://www.legislation.gov.uk/uksi/2013/164).
 
-[^key-29687daa22fdb0ed1c83530feb60795f]: Commencement: Sch. 2 para. 252 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-29687daa22fdb0ed1c83530feb60795f]: Commencement: Sch. 2 para. 252 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00373]: Footnote: [S.I. 2013/244](https://www.legislation.gov.uk/uksi/2013/244).

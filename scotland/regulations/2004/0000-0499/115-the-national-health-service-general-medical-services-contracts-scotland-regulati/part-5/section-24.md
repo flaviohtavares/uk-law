@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Fees and charges[^key-e4176998f9149993f33269685212fbaf]
+## 24. Fees and charges[^c-e4176998f9149993f33269685212fbaf]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ except in the circumstances set out in Schedule 4.
 
 ## Annotations
 
-[^key-e4176998f9149993f33269685212fbaf]: Commencement: Reg. 24 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e4176998f9149993f33269685212fbaf]: Commencement: Reg. 24 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

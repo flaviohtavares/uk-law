@@ -24,7 +24,7 @@ summary: ''
 
 (2) In their application to state pension credit, regulations 11 to 14 of the Computation of Earnings Regulations shall have effect as if—
 
-- (a) “board and lodging accommodation” had the same meaning as in regulation 1(2)[^key-cd7bcd5b9af6ecaf51cfe2e69e8a960e];
+- (a) “board and lodging accommodation” had the same meaning as in regulation 1(2)[^c-cd7bcd5b9af6ecaf51cfe2e69e8a960e];
 - (b) “claimant” referred to a person claiming state pension credit and any partner of the claimant;
 - (c) “personal pension scheme” referred to a personal pension scheme—
   - (i) as defined in section 1 (categories of pension schemes) of the Pension Schemes Act 1993, or
@@ -71,4 +71,4 @@ summary: ''
 
 [^M_F_f6e947fa-c71f-4c1e-863c-498384cbaae8]: Textual amendment: Regs. 17A, 17B inserted (6.10.2003) by [The State Pension Credit (Amendment) (Northern Ireland) Regulations 2003 (S.I. 2003/2175)](https://www.legislation.gov.uk/uksi/2003/2175), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2175/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/2175/regulation/5)
 
-[^key-cd7bcd5b9af6ecaf51cfe2e69e8a960e]: Textual amendment: Words in [reg. 17B(2)(a)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17B/2/a) substituted (3.10.2005) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/424)](https://www.legislation.gov.uk/nisr/2005/424), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2005/424/regulation/5/4)
+[^c-cd7bcd5b9af6ecaf51cfe2e69e8a960e]: Textual amendment: Words in [reg. 17B(2)(a)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17B/2/a) substituted (3.10.2005) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/424)](https://www.legislation.gov.uk/nisr/2005/424), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2005/424/regulation/5/4)

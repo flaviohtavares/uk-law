@@ -30,7 +30,7 @@ summary: ''
 
 STATISTICS OF TRADE
 
-The Provision of Confidential Statistical Informationto the Statistical Office of the European Communities (Restriction on Disclosure) Regulations 1991 (revoked)[^key-fe08f2416b8c2967932573a43da97fb5]
+The Provision of Confidential Statistical Informationto the Statistical Office of the European Communities (Restriction on Disclosure) Regulations 1991 (revoked)[^c-fe08f2416b8c2967932573a43da97fb5]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into force
 
 1st January 1992
 
-[^key-fe08f2416b8c2967932573a43da97fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe08f2416b8c2967932573a43da97fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fe08f2416b8c2967932573a43da97fb5]
+## 1. Citation and commencement[^c-fe08f2416b8c2967932573a43da97fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fe08f2416b8c2967932573a43da97fb5]
+## 2. Interpretation[^c-fe08f2416b8c2967932573a43da97fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offence to disclose without authorisation[^key-fe08f2416b8c2967932573a43da97fb5]
+## 3. Offence to disclose without authorisation[^c-fe08f2416b8c2967932573a43da97fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe08f2416b8c2967932573a43da97fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe08f2416b8c2967932573a43da97fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fe08f2416b8c2967932573a43da97fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe08f2416b8c2967932573a43da97fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe08f2416b8c2967932573a43da97fb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1991/2779) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-fe08f2416b8c2967932573a43da97fb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1991/2779) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

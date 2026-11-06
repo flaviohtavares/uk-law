@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Effect of allocation election[^key-3f50c0e817170a8633c09a2ab72d5030]
+## 89. Effect of allocation election[^c-3f50c0e817170a8633c09a2ab72d5030]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 - (a) on the member becoming entitled to the retirement pension, to a person who is not—
   - (i) the member’s spouse or civil partner;
-  - (ii) financially wholly or mainly dependent on the member[^key-fdff31df8a126b80fd9c4e3b456ff297]; or
+  - (ii) financially wholly or mainly dependent on the member[^c-fdff31df8a126b80fd9c4e3b456ff297]; or
   - (iii) financially interdependent with the member;
 - (b) on the death of the member, to a person who is not—
   - (i) the member’s surviving adult; or
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f50c0e817170a8633c09a2ab72d5030]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2014/1964/regulation/89) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-3f50c0e817170a8633c09a2ab72d5030]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2014/1964/regulation/89) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-fdff31df8a126b80fd9c4e3b456ff297]: Textual amendment: Words in [reg. 89(3)(a)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/89/3/a) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/8)
+[^c-fdff31df8a126b80fd9c4e3b456ff297]: Textual amendment: Words in [reg. 89(3)(a)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/89/3/a) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/8)

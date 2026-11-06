@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power to operate, use and maintain the tunnel crossing[^key-8397461ac765616dfb77339c6ec5148f]
+## 35. Power to operate, use and maintain the tunnel crossing[^c-8397461ac765616dfb77339c6ec5148f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may operate, use and maintain the tunnel crossing.
 
 ## Annotations
 
-[^key-8397461ac765616dfb77339c6ec5148f]: Commencement: Art. 35 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-8397461ac765616dfb77339c6ec5148f]: Commencement: Art. 35 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

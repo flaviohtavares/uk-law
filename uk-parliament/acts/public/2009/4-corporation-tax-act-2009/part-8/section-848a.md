@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 848A. Assets held for purposes of exempt foreign permanent establishments[^key-4e949b0668e4e7dc617d30b452edfdc2]
+## 848A. Assets held for purposes of exempt foreign permanent establishments[^c-4e949b0668e4e7dc617d30b452edfdc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ FPEA is the amount which, for the purposes of Chapter 3A of Part 2, would in the
 
 ## Annotations
 
-[^key-4e949b0668e4e7dc617d30b452edfdc2]: Textual amendment: S. 848A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 8](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/8), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-4e949b0668e4e7dc617d30b452edfdc2]: Textual amendment: S. 848A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 8](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/8), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

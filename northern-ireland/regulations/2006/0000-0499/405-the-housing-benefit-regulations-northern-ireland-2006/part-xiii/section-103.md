@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Prescribed benefits[^key-dcbe44a096eb3f8edb2f7f1a098dd3d5]
+## 103. Prescribed benefits[^c-dcbe44a096eb3f8edb2f7f1a098dd3d5]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcbe44a096eb3f8edb2f7f1a098dd3d5]: Commencement: [Reg. 103](https://www.legislation.gov.uk/nisr/2006/405/regulation/103) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-dcbe44a096eb3f8edb2f7f1a098dd3d5]: Commencement: [Reg. 103](https://www.legislation.gov.uk/nisr/2006/405/regulation/103) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00151]: Footnote: Subsections (5) and (7) were added by Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997

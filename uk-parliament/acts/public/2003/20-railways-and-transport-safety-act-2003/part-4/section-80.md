@@ -30,9 +30,9 @@ summary: ''
 
 (3) A person to whom this section applies commits an offence if the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit.
 
-(4)[^key-2727d4d5997a731aa83993f3e94bac89] The Secretary of State may make regulations providing for subsection (3) not to apply in specified circumstances.
+(4)[^c-2727d4d5997a731aa83993f3e94bac89] The Secretary of State may make regulations providing for subsection (3) not to apply in specified circumstances.
 
-(5)[^key-2727d4d5997a731aa83993f3e94bac89] Regulations under subsection (4) may make provision by reference, in particular—
+(5)[^c-2727d4d5997a731aa83993f3e94bac89] Regulations under subsection (4) may make provision by reference, in particular—
 
 - (a) to the power of a motor;
 - (b) to the size of a ship;
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2727d4d5997a731aa83993f3e94bac89]: Commencement: [S. 80(4)](https://www.legislation.gov.uk/ukpga/2003/20/section/80/4)[(5)](https://www.legislation.gov.uk/ukpga/2003/20/section/80/5) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/827/article/3/c)
+[^c-2727d4d5997a731aa83993f3e94bac89]: Commencement: [S. 80(4)](https://www.legislation.gov.uk/ukpga/2003/20/section/80/4)[(5)](https://www.legislation.gov.uk/ukpga/2003/20/section/80/5) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/827/article/3/c)

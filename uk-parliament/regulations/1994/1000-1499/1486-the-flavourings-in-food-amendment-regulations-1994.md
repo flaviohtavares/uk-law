@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-The Flavourings in Food (Amendment) Regulations 1994 (revoked)[^key-97e785b29e6cba169b0abd3356d92b98]
+The Flavourings in Food (Amendment) Regulations 1994 (revoked)[^c-97e785b29e6cba169b0abd3356d92b98]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into force
 
 30th June 1994
 
-[^key-97e785b29e6cba169b0abd3356d92b98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97e785b29e6cba169b0abd3356d92b98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-97e785b29e6cba169b0abd3356d92b98]
+## 1. Title and commencement[^c-97e785b29e6cba169b0abd3356d92b98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Flavourings in Food Regulations 1992[^key-97e785b29e6cba169b0abd3356d92b98]
+## 2. Amendment of the Flavourings in Food Regulations 1992[^c-97e785b29e6cba169b0abd3356d92b98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Food Labelling Regulations 1984 and the Food Labelling (Scotland) Regulations 1984[^key-97e785b29e6cba169b0abd3356d92b98]
+## 3. Amendment of the Food Labelling Regulations 1984 and the Food Labelling (Scotland) Regulations 1984[^c-97e785b29e6cba169b0abd3356d92b98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97e785b29e6cba169b0abd3356d92b98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97e785b29e6cba169b0abd3356d92b98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-97e785b29e6cba169b0abd3356d92b98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97e785b29e6cba169b0abd3356d92b98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97e785b29e6cba169b0abd3356d92b98]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1994/1486) revoked: (E.) (20.1.2011) by [The Flavourings in Food (England) Regulations 2010 (S.I. 2010/2817)](https://www.legislation.gov.uk/uksi/2010/2817), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/2817/regulation/1/c), [8](https://www.legislation.gov.uk/uksi/2010/2817/regulation/8); (W.) (20.1.2011) by [The Flavourings in Food (Wales) Regulations 2010 (S.I. 2010/2922)](https://www.legislation.gov.uk/wsi/2010/2922), [regs. 1](https://www.legislation.gov.uk/wsi/2010/2922/regulation/1), [8](https://www.legislation.gov.uk/wsi/2010/2922/regulation/8); and (S.) (20.1.2011) by [The Flavourings in Food (Scotland) Regulations 2010 (S.S.I. 2010/439)](https://www.legislation.gov.uk/ssi/2010/439), [regs. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2010/439/regulation/8/b)
+[^c-97e785b29e6cba169b0abd3356d92b98]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1994/1486) revoked: (E.) (20.1.2011) by [The Flavourings in Food (England) Regulations 2010 (S.I. 2010/2817)](https://www.legislation.gov.uk/uksi/2010/2817), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/2817/regulation/1/c), [8](https://www.legislation.gov.uk/uksi/2010/2817/regulation/8); (W.) (20.1.2011) by [The Flavourings in Food (Wales) Regulations 2010 (S.I. 2010/2922)](https://www.legislation.gov.uk/wsi/2010/2922), [regs. 1](https://www.legislation.gov.uk/wsi/2010/2922/regulation/1), [8](https://www.legislation.gov.uk/wsi/2010/2922/regulation/8); and (S.) (20.1.2011) by [The Flavourings in Food (Scotland) Regulations 2010 (S.S.I. 2010/439)](https://www.legislation.gov.uk/ssi/2010/439), [regs. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2010/439/regulation/8/b)

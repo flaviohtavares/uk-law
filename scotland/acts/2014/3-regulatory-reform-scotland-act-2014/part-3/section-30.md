@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Costs recovery[^key-3160468d5efd120fc2c977d045d9aaf0]
+## 30. Costs recovery[^c-3160468d5efd120fc2c977d045d9aaf0]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3160468d5efd120fc2c977d045d9aaf0]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/3/section/30) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-3160468d5efd120fc2c977d045d9aaf0]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/3/section/30) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

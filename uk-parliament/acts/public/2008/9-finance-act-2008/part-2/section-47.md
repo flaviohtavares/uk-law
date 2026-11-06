@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f5380ba3db09c6c1e913e2c8382c3b04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f5380ba3db09c6c1e913e2c8382c3b04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In consequence of the amendment made by subsection (1), omit—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5380ba3db09c6c1e913e2c8382c3b04]: Textual amendment: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/47/1) omitted (with effect in accordance with Sch. 28 para. 10(1) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/9)
+[^c-f5380ba3db09c6c1e913e2c8382c3b04]: Textual amendment: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/47/1) omitted (with effect in accordance with Sch. 28 para. 10(1) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/9)

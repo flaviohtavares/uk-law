@@ -25,7 +25,7 @@ Despite the amendments and revocations made by these Regulations—
 - (a) regulation 13 of the 2004 Regulations (documents sent to the registrar), as it applies in respect of the application and modification of section 1094 of the 2006 Act [^c23529111]; and
 - (b) regulation 14 of the 2004 Regulations (application of the 2006 Act to the registration of SEs), as it applies in respect of the application and modification of section 1084 of the 2006 Act,
 
-continue to have effect, on and after IP completion day[^key-4d0be0a782efb3de19e422cfd748c4fc], in relation to an SE which dissolved before IP completion day.
+continue to have effect, on and after IP completion day[^c-4d0be0a782efb3de19e422cfd748c4fc], in relation to an SE which dissolved before IP completion day.
 
 ## Annotations
 
@@ -33,4 +33,4 @@ continue to have effect, on and after IP completion day[^key-4d0be0a782efb3de19e
 
 [^c23529111]: Marginal citation: Section 1094 was amended by schedule 5(2), para 32(a)-(c) to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-4d0be0a782efb3de19e422cfd748c4fc]: Textual amendment: Words in reg. 141 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/b)
+[^c-4d0be0a782efb3de19e422cfd748c4fc]: Textual amendment: Words in reg. 141 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/b)

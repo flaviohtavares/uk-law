@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies in respect of a UKMA(NI),[^key-f3277874833eb83204ec7d366b270da7] UKMA(UK)(Category 2)[^key-cb43b6524822dc22ea29b444329730f1], THR(NI), THR(UK) or Article 126a authorisation where—
+(1) This regulation applies in respect of a UKMA(NI),[^c-f3277874833eb83204ec7d366b270da7] UKMA(UK)(Category 2)[^c-cb43b6524822dc22ea29b444329730f1], THR(NI), THR(UK) or Article 126a authorisation where—
 
 - (a) the Pharmacovigilance Risk Assessment Committee has made recommendations concerning an authorisation or registration or a class of authorisations or registrations based on a final study report under Article 107q(1) of the 2001 Directive; and
 - (b) an agreement on the action to be taken in respect of the authorisation or registration or the class of authorisations or registrations has been reached by the co-ordination group under the procedure laid out in Article 107q(2) of the 2001 Directive (“the agreement”).
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3277874833eb83204ec7d366b270da7]: Textual amendment: Words in reg. 202(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 162](https://www.legislation.gov.uk/uksi/2019/775/regulation/162) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 130](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/130))
+[^c-f3277874833eb83204ec7d366b270da7]: Textual amendment: Words in reg. 202(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 162](https://www.legislation.gov.uk/uksi/2019/775/regulation/162) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 130](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/130))
 
-[^key-cb43b6524822dc22ea29b444329730f1]: Textual amendment: Words in [reg. 202(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/202/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [93](https://www.legislation.gov.uk/uksi/2024/832/regulation/93)
+[^c-cb43b6524822dc22ea29b444329730f1]: Textual amendment: Words in [reg. 202(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/202/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [93](https://www.legislation.gov.uk/uksi/2024/832/regulation/93)

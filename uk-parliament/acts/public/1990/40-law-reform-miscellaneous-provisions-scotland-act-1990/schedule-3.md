@@ -24,8 +24,8 @@ Section 34.
 
 *Extent: S*
 
-**....**[^key-230179e58c2fab32804edb122c9b06f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-230179e58c2fab32804edb122c9b06f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-230179e58c2fab32804edb122c9b06f3]: Textual amendment: Sch. 3 repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (Transitional, Savings and Consequential Provisions) Order 2008 (S.S.I. 2008/332)](https://www.legislation.gov.uk/ssi/2008/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/332/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/ssi/2008/332/article/3/1/d) (with [arts. 3(2)-(5)](https://www.legislation.gov.uk/ssi/2008/332/article/3/2), [4](https://www.legislation.gov.uk/ssi/2008/332/article/4))
+[^c-230179e58c2fab32804edb122c9b06f3]: Textual amendment: Sch. 3 repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (Transitional, Savings and Consequential Provisions) Order 2008 (S.S.I. 2008/332)](https://www.legislation.gov.uk/ssi/2008/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/332/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/ssi/2008/332/article/3/1/d) (with [arts. 3(2)-(5)](https://www.legislation.gov.uk/ssi/2008/332/article/3/2), [4](https://www.legislation.gov.uk/ssi/2008/332/article/4))

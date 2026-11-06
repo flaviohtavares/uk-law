@@ -54,7 +54,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 In accordance with Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23917471], the Scottish Ministers have consulted with representative bodies during the preparation, evaluation and revision of food law contained in these Regulations.
 
-## 1. Citation and commencement[^key-270603bac0f63c2d2f25caa848db7ca6]
+## 1. Citation and commencement[^c-270603bac0f63c2d2f25caa848db7ca6]
 
 (1) These Regulations may be cited as the Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 and come into force in accordance with paragraphs (2) and (3).
 
@@ -74,7 +74,7 @@ come into force on 9 December 2019.
 - (a) exit day, or
 - (b) 9 December 2019.
 
-## 2. Amendment of the Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003[^key-96ccd57ccc7f535199b465bb6cc18824]
+## 2. Amendment of the Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003[^c-96ccd57ccc7f535199b465bb6cc18824]
 
 (1) The Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003 [^c23917481] are amended as follows.
 
@@ -108,7 +108,7 @@ come into force on 9 December 2019.
 
 (5) At the end insert the schedule set out in the schedule of these Regulations.
 
-## 3. Amendment of the Reporting of Prices of Milk Products (Scotland) Regulations 2005[^key-20d08df3c182fdf3fa87ed94feef0d5c]
+## 3. Amendment of the Reporting of Prices of Milk Products (Scotland) Regulations 2005[^c-20d08df3c182fdf3fa87ed94feef0d5c]
 
 (1) The Reporting of Prices of Milk Products (Scotland) Regulations 2005 [^c23917511] are amended as follows.
 
@@ -126,22 +126,22 @@ come into force on 9 December 2019.
 - (a) in paragraph (1) omit the words “for” to the end, and
 - (b) in paragraph (2) for “at a frequency determined by the Commission Regulation” substitute “ on a regular basis ”.
 
-## 4. Amendment of the Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^key-d76bcc6bdf2102ae6426ee6432a8bcd9][^key-44d6eb3239c8d19d5825f00bcda5a058]
+## 4. Amendment of the Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^c-d76bcc6bdf2102ae6426ee6432a8bcd9][^c-44d6eb3239c8d19d5825f00bcda5a058]
 
-(1)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 [^c23917521] are amended as follows.
+(1)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 [^c23917521] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
-- (a)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] omit the definition of “Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074)”,
-- (b)[^key-44d6eb3239c8d19d5825f00bcda5a058] for the definition of “Council Regulation 2013” substitute—
+- (a)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] omit the definition of “Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074)”,
+- (b)[^c-44d6eb3239c8d19d5825f00bcda5a058] for the definition of “Council Regulation 2013” substitute—
 
   > “**Council Regulation 2013**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), (EEC) No 234/79, [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) [^c23917531], as amended from time to time,
 
   ,
-- (c)[^key-44d6eb3239c8d19d5825f00bcda5a058] in the definition of “Regulation (EU) No 1169/2011” at the end insert “ , as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council [^c23917541] ”,
-- (d)[^key-44d6eb3239c8d19d5825f00bcda5a058] after the definition of “Regulation (EU) No 1169/2011” omit “and”,
-- (e)[^key-44d6eb3239c8d19d5825f00bcda5a058] in the definition of “Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)” at the end insert “ , as last amended by Council Regulation (EU) No 517/2013 [^c23917551] ”, and
-- (f)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] after the definition of “Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)” insert—
+- (c)[^c-44d6eb3239c8d19d5825f00bcda5a058] in the definition of “Regulation (EU) No 1169/2011” at the end insert “ , as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council [^c23917541] ”,
+- (d)[^c-44d6eb3239c8d19d5825f00bcda5a058] after the definition of “Regulation (EU) No 1169/2011” omit “and”,
+- (e)[^c-44d6eb3239c8d19d5825f00bcda5a058] in the definition of “Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)” at the end insert “ , as last amended by Council Regulation (EU) No 517/2013 [^c23917551] ”, and
+- (f)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] after the definition of “Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)” insert—
 
   > “**the Scottish welfare regulations**” means the Welfare of Farmed Animals (Scotland) Regulations 2010 [^c23917561], and
   >
@@ -154,13 +154,13 @@ come into force on 9 December 2019.
 
   .
 
-(3)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 4 (compliance with EU provisions on eggs for hatching and chicks), in the heading omit “EU”.
+(3)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 4 (compliance with EU provisions on eggs for hatching and chicks), in the heading omit “EU”.
 
-(4)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 5(1) (registration of establishments) for “agency” substitute “ authority ”.
+(4)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 5(1) (registration of establishments) for “agency” substitute “ authority ”.
 
-(5)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 7 (compliance with EU provisions on eggs in shell for consumption), in the heading omit “EU”.
+(5)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 7 (compliance with EU provisions on eggs in shell for consumption), in the heading omit “EU”.
 
-(6)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 11(3) (derogation relating to free-range eggs)—
+(6)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 11(3) (derogation relating to free-range eggs)—
 
 - (a) for “Article 4(1) of Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074) (provisions applicable to alternative systems)” substitute “ schedule 3 of the Scottish welfare regulations ”, and
 - (b) for sub-paragraphs (a) to (e) substitute—
@@ -173,7 +173,7 @@ come into force on 9 December 2019.
 
   .
 
-(7)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 12(3) (derogation relating to barn eggs)—
+(7)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 12(3) (derogation relating to barn eggs)—
 
 - (a) for “Article 4(1) of Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074)” substitute “ schedule 3 of the Scottish welfare regulations ”, and
 - (b) for sub-paragraphs (a) to (e) substitute—
@@ -186,62 +186,62 @@ come into force on 9 December 2019.
 
   .
 
-(8)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 12A (compliance with EU provisions), in the heading omit “EU”.
+(8)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] In regulation 12A (compliance with EU provisions), in the heading omit “EU”.
 
 (9) In schedule 1 (community provisions relating to eggs for hatching and chicks contravention of which is an offence)—
 
-- (a)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in the schedule heading for “COMMUNITY” substitute “ RETAINED EU ”,
-- (b)[^key-44d6eb3239c8d19d5825f00bcda5a058] in Part 1 (provisions of the single CMO regulation or Council Regulation 2013), in the Table, in the first row (Article 74 of the Council Regulation 2013), in column 1 for “Article 74 of the Council Regulation 2013” substitute “ Article 116 of the Single CMO Regulation ”, and
-- (c)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in Part 2 (provisions of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)), in the Table, omit the sixth row (Article 3(7)).
+- (a)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in the schedule heading for “COMMUNITY” substitute “ RETAINED EU ”,
+- (b)[^c-44d6eb3239c8d19d5825f00bcda5a058] in Part 1 (provisions of the single CMO regulation or Council Regulation 2013), in the Table, in the first row (Article 74 of the Council Regulation 2013), in column 1 for “Article 74 of the Council Regulation 2013” substitute “ Article 116 of the Single CMO Regulation ”, and
+- (c)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in Part 2 (provisions of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)), in the Table, omit the sixth row (Article 3(7)).
 
 (10) In schedule 2 (community provisions relating to eggs in shell for consumption contravention of which is an offence)—
 
-- (a)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in the schedule heading for “COMMUNITY” substitute “ RETAINED EU ”,
-- (b)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in Part 1 (provisions of Council Regulation 2013), in the Table—
+- (a)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in the schedule heading for “COMMUNITY” substitute “ RETAINED EU ”,
+- (b)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in Part 1 (provisions of Council Regulation 2013), in the Table—
   - (i) in the ninth row (Articles 75(2) and (3) of Council Regulation 2013), in column 3 for “EU legislation” substitute “ retained EU law ”, and
   - (ii) in the tenth row (Articles 75(2) and (3) of Council Regulation 2013), in column 3 for “EU legislation” substitute “ retained EU law ”,
 - (c) in Part 2 (provisions of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589)), in the Table—
-  - (i)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in the second row (Article 2(2)), omit the text in column 2,
-  - (ii)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] omit the eighteenth, nineteenth and twentieth rows (relating to Article 8),
-  - (iii)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in the twenty-first row (Article 9(1)), for the text in column 2 substitute “ regulation 4 of the Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003 [^c23917571] ”,
+  - (i)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in the second row (Article 2(2)), omit the text in column 2,
+  - (ii)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] omit the eighteenth, nineteenth and twentieth rows (relating to Article 8),
+  - (iii)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in the twenty-first row (Article 9(1)), for the text in column 2 substitute “ regulation 4 of the Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003 [^c23917571] ”,
   - (iv) in the twenty-fourth row (Article 12(2), first and second sub paragraphs), in column 2—
-    - (aa)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] omit “and Part A of Annex I,”, and
-    - (bb)[^key-44d6eb3239c8d19d5825f00bcda5a058] for the words “Article 2 of Council Regulation [(EEC) No. 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092)” to “foodstuffs” substitute “ Article 23 of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092) [^c23917581] ”,
-  - (v)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in the twenty-sixth row (Article 12(2), fourth sub paragraph)—
+    - (aa)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] omit “and Part A of Annex I,”, and
+    - (bb)[^c-44d6eb3239c8d19d5825f00bcda5a058] for the words “Article 2 of Council Regulation [(EEC) No. 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092)” to “foodstuffs” substitute “ Article 23 of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092) [^c23917581] ”,
+  - (v)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in the twenty-sixth row (Article 12(2), fourth sub paragraph)—
     - (aa) for the text in column 2 substitute “ Part 4 of schedule 3 of the Scottish welfare regulations ”, and
     - (bb) in column 3, for the words from “listed” to the end substitute “ “enriched cages” ”,
-  - (vi)[^key-44d6eb3239c8d19d5825f00bcda5a058] in the thirty-third row (Article 17), in column 2, for “Annex 11” substitute “ Annex II ”, and
-  - (vii)[^key-d76bcc6bdf2102ae6426ee6432a8bcd9] in the forty-sixth row (Article 30(3)), in column 3, for “EU legislation” substitute “ retained EU law ”.
+  - (vi)[^c-44d6eb3239c8d19d5825f00bcda5a058] in the thirty-third row (Article 17), in column 2, for “Annex 11” substitute “ Annex II ”, and
+  - (vii)[^c-d76bcc6bdf2102ae6426ee6432a8bcd9] in the forty-sixth row (Article 30(3)), in column 3, for “EU legislation” substitute “ retained EU law ”.
 
-## 5. Amendment of the Poultrymeat (Scotland) Regulations 2011[^key-57830090125c28f6403f2f77d7cc1b95][^key-fde6056acb2e32a39ea5c65a7ed8a521]
+## 5. Amendment of the Poultrymeat (Scotland) Regulations 2011[^c-57830090125c28f6403f2f77d7cc1b95][^c-fde6056acb2e32a39ea5c65a7ed8a521]
 
 (1) The Poultrymeat (Scotland) Regulations 2011 [^c23917591] are amended as follows.
 
-(2)[^key-57830090125c28f6403f2f77d7cc1b95] In regulation 1(4) (citation, commencement, extent and application), at the end, before the full stop insert “ , excluding poultrymeat described in point I(2) of Part B of Annex XIV to the Single CMO Regulation ”.
+(2)[^c-57830090125c28f6403f2f77d7cc1b95] In regulation 1(4) (citation, commencement, extent and application), at the end, before the full stop insert “ , excluding poultrymeat described in point I(2) of Part B of Annex XIV to the Single CMO Regulation ”.
 
-(3)[^key-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 2(1) (interpretation), in the definition of “European poultrymeat provision” for “European” substitute “ retained EU ”.
+(3)[^c-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 2(1) (interpretation), in the definition of “European poultrymeat provision” for “European” substitute “ retained EU ”.
 
-(4)[^key-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 3 (offences), for “European” substitute “ retained EU ”.
+(4)[^c-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 3 (offences), for “European” substitute “ retained EU ”.
 
-(5)[^key-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 8 (enforcement), for “European” in each place where it occurs in paragraphs (1) to (3) substitute “ retained EU ”.
+(5)[^c-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 8 (enforcement), for “European” in each place where it occurs in paragraphs (1) to (3) substitute “ retained EU ”.
 
-(6)[^key-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 10 (powers of entry), for paragraph (2) substitute—
+(6)[^c-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 10 (powers of entry), for paragraph (2) substitute—
 
 > (2) The authorised officer may be accompanied by such other persons as the authorised officer considers necessary.
 
 .
 
-(7)[^key-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 11 (powers of an authorised officer)—
+(7)[^c-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 11 (powers of an authorised officer)—
 
-- (a)[^key-cc859b4ba770aef14ae27c97ef2b9742] in paragraph 9(a) for “the European Union” substitute “Great Britain”, and
+- (a)[^c-cc859b4ba770aef14ae27c97ef2b9742] in paragraph 9(a) for “the European Union” substitute “Great Britain”, and
 - (b) omit paragraph (12).
 
-(8)[^key-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 13 (compliance notices), for “European” in each place where it occurs substitute “ retained EU ”.
+(8)[^c-fde6056acb2e32a39ea5c65a7ed8a521] In regulation 13 (compliance notices), for “European” in each place where it occurs substitute “ retained EU ”.
 
 (9) In schedule 1 (European poultrymeat provisions contravention of which is an offence)—
 
-- (a)[^key-fde6056acb2e32a39ea5c65a7ed8a521] in the schedule heading for “EUROPEAN” substitute “ RETAINED EU ”,
-- (b)[^key-57830090125c28f6403f2f77d7cc1b95] in Part 1 (provisions of the Single CMO Regulation or the Council Regulation 2013), in the Table—
+- (a)[^c-fde6056acb2e32a39ea5c65a7ed8a521] in the schedule heading for “EUROPEAN” substitute “ RETAINED EU ”,
+- (b)[^c-57830090125c28f6403f2f77d7cc1b95] in Part 1 (provisions of the Single CMO Regulation or the Council Regulation 2013), in the Table—
   - (i) in the first row (Article 74 of the Council Regulation 2013, first sub-paragraph, insofar as it relates to the marketing of poultrymeat)—
     - (aa) for the text in column 1 substitute “ Article 116 of the Single CMO Regulation ”, and
     - (bb) in column 2 for “Article” to “2013” substitute “ Points I(2) and (3) and III(1) of Part B of Annex XIV to the Single CMO Regulation, ”, and
@@ -253,14 +253,14 @@ come into force on 9 December 2019.
 
     , and
 - (c) in Part 2 (provisions of the Commission Regulation), in the Table, in column 2 of—
-  - (i)[^key-57830090125c28f6403f2f77d7cc1b95] the tenth row (Article 7(1)), for the text substitute “ Point III(1) of Part B of Annex XIV to the Single CMO Regulation ”,
-  - (ii)[^key-fde6056acb2e32a39ea5c65a7ed8a521] the twelfth row (Article 10), omit the text,
-  - (iii)[^key-fde6056acb2e32a39ea5c65a7ed8a521] the thirteenth row (Article 11(1), first sub-paragraph), for “Annexes IV and V” substitute “ Annex V ”,
-  - (iv)[^key-57830090125c28f6403f2f77d7cc1b95] the twenty-third row (Article 16(1), second sub-paragraph), for “XI” substitute “ IX ”,
-  - (v)[^key-fde6056acb2e32a39ea5c65a7ed8a521] the twenty-seventh row (Article 16(6)), omit the text, and
+  - (i)[^c-57830090125c28f6403f2f77d7cc1b95] the tenth row (Article 7(1)), for the text substitute “ Point III(1) of Part B of Annex XIV to the Single CMO Regulation ”,
+  - (ii)[^c-fde6056acb2e32a39ea5c65a7ed8a521] the twelfth row (Article 10), omit the text,
+  - (iii)[^c-fde6056acb2e32a39ea5c65a7ed8a521] the thirteenth row (Article 11(1), first sub-paragraph), for “Annexes IV and V” substitute “ Annex V ”,
+  - (iv)[^c-57830090125c28f6403f2f77d7cc1b95] the twenty-third row (Article 16(1), second sub-paragraph), for “XI” substitute “ IX ”,
+  - (v)[^c-fde6056acb2e32a39ea5c65a7ed8a521] the twenty-seventh row (Article 16(6)), omit the text, and
   - (vi) the thirty-fourth row (Article 20(4) in so far as it applies Article 16(6) of the Commission Regulation), omit the text.
 
-## 6. Amendment of the Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017[^key-02ea01c6af068ca57e548a47dbd74d37]
+## 6. Amendment of the Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017[^c-02ea01c6af068ca57e548a47dbd74d37]
 
 (1) The Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017 [^c23917601] are amended as follows.
 
@@ -268,7 +268,7 @@ come into force on 9 December 2019.
 
 - (a) before the definition of “applicant” insert—
 
-  > “**Aid**” means aid granted pursuant to Article 23(1) of the Council Regulation, (whether before or after IP completion day[^key-9fddc2517eeb12f6d8ca234540d4684e]),
+  > “**Aid**” means aid granted pursuant to Article 23(1) of the Council Regulation, (whether before or after IP completion day[^c-9fddc2517eeb12f6d8ca234540d4684e]),
 
   ,
 - (b) omit the definition of “National aid”, and
@@ -281,7 +281,7 @@ come into force on 9 December 2019.
 - (a) in paragraph (1), for “Union aid or National aid” in each place where it occurs substitute “ Aid ”, and
 - (b) after paragraph (1) insert—
 
-  > (1A) For the purposes of paragraph (1), Aid includes an additional payment under Articles 23a(6) and 217 of the Council Regulation (as it had effect immediately before IP completion day[^key-4db42bb45af3e903c0bc71be703374a0]).
+  > (1A) For the purposes of paragraph (1), Aid includes an additional payment under Articles 23a(6) and 217 of the Council Regulation (as it had effect immediately before IP completion day[^c-4db42bb45af3e903c0bc71be703374a0]).
 
   .
 
@@ -298,7 +298,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE — SCHEDULE TO BE INSERTED INTO THE REGISTRATION OF ESTABLISHMENTS KEEPING LAYING HENS (SCOTLAND) REGULATIONS 2003[^key-72a3b44b950ff93e199d44574252ca41]
+## SCHEDULE — SCHEDULE TO BE INSERTED INTO THE REGISTRATION OF ESTABLISHMENTS KEEPING LAYING HENS (SCOTLAND) REGULATIONS 2003[^c-72a3b44b950ff93e199d44574252ca41]
 
 Regulation 2(5)
 
@@ -356,21 +356,21 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23917471]: Marginal citation: OJ L 31, 1.2.2002, p.1, to which there are no relevant amendments to Article 9.
 
-[^key-270603bac0f63c2d2f25caa848db7ca6]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-270603bac0f63c2d2f25caa848db7ca6]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
 
-[^key-96ccd57ccc7f535199b465bb6cc18824]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-96ccd57ccc7f535199b465bb6cc18824]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
 
 [^c23917481]: Marginal citation: [S.S.I. 2003/576](https://www.legislation.gov.uk/ssi/2003/576); relevant amending instrument is [S.S.I. 2004/27](https://www.legislation.gov.uk/ssi/2004/27).
 
 [^c23917491]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-20d08df3c182fdf3fa87ed94feef0d5c]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-20d08df3c182fdf3fa87ed94feef0d5c]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
 
 [^c23917511]: Marginal citation: [S.S.I. 2005/484](https://www.legislation.gov.uk/ssi/2005/484), amended by [S.S.I. 2011/81](https://www.legislation.gov.uk/ssi/2011/81) and [S.S.I. 2019/73](https://www.legislation.gov.uk/ssi/2019/73).
 
-[^key-d76bcc6bdf2102ae6426ee6432a8bcd9]: Commencement: Reg. 4(1)(2)(a)(f)(3)-(8)(9)(a)(c)(10)(a)(b)(c)(i)-(iii)(iv)(aa)(v)(vii) in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-d76bcc6bdf2102ae6426ee6432a8bcd9]: Commencement: Reg. 4(1)(2)(a)(f)(3)-(8)(9)(a)(c)(10)(a)(b)(c)(i)-(iii)(iv)(aa)(v)(vii) in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
 
-[^key-44d6eb3239c8d19d5825f00bcda5a058]: Commencement: Reg. 4(2)(b)-(e)(9)(b)(10)(c)(iv)(bb)(vi) in force at 9.12.2019, see reg. 1(2)(a)-(c)
+[^c-44d6eb3239c8d19d5825f00bcda5a058]: Commencement: Reg. 4(2)(b)-(e)(9)(b)(10)(c)(iv)(bb)(vi) in force at 9.12.2019, see reg. 1(2)(a)-(c)
 
 [^c23917521]: Marginal citation: [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395), amended by [S.S.I. 2010/450](https://www.legislation.gov.uk/ssi/2010/450), [S.I](https://www.legislation.gov.uk/ssi/2010/450/section/I). 2011/1043, [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235) and [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312).
 
@@ -386,20 +386,20 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23917581]: Marginal citation: OJ L 189, 20.07.2007, p.1, as last amended by Council Regulation (EU) No 517/2013 (OJ L 158, 10.6.2013, p.1).
 
-[^key-57830090125c28f6403f2f77d7cc1b95]: Commencement: Reg. 5(2)(9)(b)(c)(i)(iv) in force at 9.12.2019, see reg. 1(2)(d)-(f)
+[^c-57830090125c28f6403f2f77d7cc1b95]: Commencement: Reg. 5(2)(9)(b)(c)(i)(iv) in force at 9.12.2019, see reg. 1(2)(d)-(f)
 
-[^key-fde6056acb2e32a39ea5c65a7ed8a521]: Commencement: Reg. 5(3)-(8)(9)(a)(c)(ii)(iii)(v)(vii) in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-fde6056acb2e32a39ea5c65a7ed8a521]: Commencement: Reg. 5(3)-(8)(9)(a)(c)(ii)(iii)(v)(vii) in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
 
 [^c23917591]: Marginal citation: [S.S.I. 2011/318](https://www.legislation.gov.uk/ssi/2011/318), as amended by [S.S.I. 2013/84](https://www.legislation.gov.uk/ssi/2013/84), [S.I](https://www.legislation.gov.uk/ssi/2013/84/section/I). 2013/3235, [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-cc859b4ba770aef14ae27c97ef2b9742]: Textual amendment: Reg. 5(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/2)
+[^c-cc859b4ba770aef14ae27c97ef2b9742]: Textual amendment: Reg. 5(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/2)
 
-[^key-02ea01c6af068ca57e548a47dbd74d37]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-02ea01c6af068ca57e548a47dbd74d37]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
 
 [^c23917601]: Marginal citation: [S.S.I. 2017/178](https://www.legislation.gov.uk/ssi/2017/178).
 
-[^key-9fddc2517eeb12f6d8ca234540d4684e]: Textual amendment: Words in reg. 6(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/3)
+[^c-9fddc2517eeb12f6d8ca234540d4684e]: Textual amendment: Words in reg. 6(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/3)
 
-[^key-4db42bb45af3e903c0bc71be703374a0]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/3)
+[^c-4db42bb45af3e903c0bc71be703374a0]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/3)
 
-[^key-72a3b44b950ff93e199d44574252ca41]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)
+[^c-72a3b44b950ff93e199d44574252ca41]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3/a/b)

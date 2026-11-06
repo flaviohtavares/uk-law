@@ -41,7 +41,7 @@ An Act to regulate by licence the conduct of zoos.
 
 (1) Subject to this section it is unlawful to operate a zoo to which this Act applies except under the authority of a licence issued under this Act by the local authority for the area within which the whole or the major part of the zoo is situated.
 
-(2) In this Act “**zoo**” means an establishment where wild animals (as defined by section 21) are kept for exhibition to the public otherwise than for purposes of a circus (as so defined) in England *(Extent: W)*[^key-34f3829a99394ae807ba4045abfcb4a5] and otherwise than in a pet shop (as so defined) [^M_F_a5a2635a-8cba-4c26-e437-6fae40f0d98a]...
+(2) In this Act “**zoo**” means an establishment where wild animals (as defined by section 21) are kept for exhibition to the public otherwise than for purposes of a circus (as so defined) in England *(Extent: W)*[^c-34f3829a99394ae807ba4045abfcb4a5] and otherwise than in a pet shop (as so defined) [^M_F_a5a2635a-8cba-4c26-e437-6fae40f0d98a]...
 
 (2A)[^M_F_9a57042f-296c-4e24-e7bd-9e8eac45a32c] This Act applies to any zoo to which members of the public have access, with or without charge for admission, on seven days or more in any period of twelve consecutive months.
 
@@ -64,7 +64,7 @@ An Act to regulate by licence the conduct of zoos.
 - (aa)[^c1021659] in Wales, the councils of counties and county boroughs;
 - (b) in Scotland, the councils constituted under section 2 of the Local Government[^c1021660] etc. (Scotland) Act 1994.
 
-(4)[^key-c6292affedc028a169f1bfd18191e988] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c6292affedc028a169f1bfd18191e988] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 1A. Conservation measures for zoos[^c1021661]
 
@@ -90,7 +90,7 @@ The following are conservation measures to be implemented in zoos in accordance 
   - (iii) the causes of any such deaths; and
   - (iv) the health of the animals.
 
-### 1A. Conservation measures for zoos[^key-256e22ed1bc73b409d255b351fce86d4]
+### 1A. Conservation measures for zoos[^c-256e22ed1bc73b409d255b351fce86d4]
 
 *Extent: S*
 
@@ -129,7 +129,7 @@ The following are conservation measures to be implemented in zoos in accordance 
 
 *Extent: S*
 
-(2A)[^key-fec2d1b0f9224d4342f9ce4875447d92] Any notice given to the local authority under subsection (1) must also specify how the conservation measures referred to in section 1A are being or will be implemented at the zoo.
+(2A)[^c-fec2d1b0f9224d4342f9ce4875447d92] Any notice given to the local authority under subsection (1) must also specify how the conservation measures referred to in section 1A are being or will be implemented at the zoo.
 
 (3) Any notice given to the local authority under this section shall, until the disposal of the application to which it relates, be kept available by the authority at their offices for public inspection free of charge at reasonable hours.
 
@@ -142,7 +142,7 @@ The following are conservation measures to be implemented in zoos in accordance 
 - (a) the applicant;
 - (b) the chief officer of police (or in Scotland the chief constable) for any area in which the whole or any part of the zoo is situated;
 - (c)[^M_F_f7f07e9f-7f87-4d84-d078-be60377ec837] the relevant fire and rescue authority;
-- (c)[^key-c868e315588c8aaa74013a0ce852f3b9] the appropriate authority
+- (c)[^c-c868e315588c8aaa74013a0ce852f3b9] the appropriate authority
 - (d) the governing body of any national institution concerned with the operation of zoos;
 - (e) where part of the zoo is not situated in the area of the local authority with power to grant the licence
   - (i)[^c1021666] a planning authority for the area in which the part is situated (other than a county planning authority [^c1021667]...); or[^c1021668]
@@ -152,19 +152,19 @@ The following are conservation measures to be implemented in zoos in accordance 
 
 *Extent: E+W*
 
-(3)[^key-b027e7250002544740ca4b769c5341da] In subsection (2) “the relevant fire and rescue authority” means—
+(3)[^c-b027e7250002544740ca4b769c5341da] In subsection (2) “the relevant fire and rescue authority” means—
 
 - (a) where the Regulatory Reform (Fire Safety) Order 2005 applies to the zoo—
   - (i) the enforcing authority within the meaning given by article 25 of that Order, and
   - (ii) the fire and rescue authority under the Fire and Rescue Services Act 2004 for the area in which the whole or any part of the zoo is situated, if that authority is not the enforcing authority mentioned in sub-paragraph (i);
 - (b) in any other case, the fire and rescue authority under the Fire and Rescue Services Act 2004 for the area in which the whole or any part of the zoo is situated .
 
-(3)[^key-6a2bb9d707d64b23c8abc3cc0761574b] In subsection (2) “the appropriate authority” means–
+(3)[^c-6a2bb9d707d64b23c8abc3cc0761574b] In subsection (2) “the appropriate authority” means–
 
 - (a) where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies in relation to the zoo–
   - (i) the enforcing authority within the meaning of section 61(9) of that Act, and
-  - (ii)[^key-72f03671140c72cc0d683ae1184b7b09] the Scottish Fire and Rescue Service, if it is not the enforcing authority,
-- (b) in any other case, the Scottish Fire and Rescue Service *(Extent: S)*[^key-69b82026332af971f73d7be1ccc9b265].
+  - (ii)[^c-72f03671140c72cc0d683ae1184b7b09] the Scottish Fire and Rescue Service, if it is not the enforcing authority,
+- (b) in any other case, the Scottish Fire and Rescue Service *(Extent: S)*[^c-69b82026332af971f73d7be1ccc9b265].
 
 ### 4. Grant or refusal of licence.
 
@@ -198,11 +198,11 @@ has been convicted of an offence under this Act or under any of the enactments m
 
 (5) The enactments are—
 
-- the Protection of Animals Act 1911[^key-39ad6b145bf969bf51253430859efb01] ;
+- the Protection of Animals Act 1911[^c-39ad6b145bf969bf51253430859efb01] ;
 - the Protection of Animals (Scotland) Acts 1912 to 1964;
-- the Performing Animals (Regulation) Act 1925;[^key-7cee93e891227be59b843cd57d4b1958]
+- the Performing Animals (Regulation) Act 1925;[^c-7cee93e891227be59b843cd57d4b1958]
 - the [^M_M_3b996ad1-b2fc-443a-86da-c1bb7b9c8c41]Pet Animals Act 1951
-- the Animals (Cruel Poisons) Act 1962;[^key-2929aeefe2999ef14d6662edcb024f6b]
+- the Animals (Cruel Poisons) Act 1962;[^c-2929aeefe2999ef14d6662edcb024f6b]
 - [^M_F_e914f040-c283-4383-eb63-2dcf97391b72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - the [^M_M_17f186cb-dea7-4d6c-ebb5-012790369abf]Animal Boarding Establishments Act 1963;
 - the Riding Establishments Acts 1964 and 1970;
@@ -211,17 +211,17 @@ has been convicted of an offence under this Act or under any of the enactments m
 - the [^M_M_01458136-4dd3-4d19-92c4-90cc77e109e1]Dangerous Wild Animals Act 1976;
 - the [^M_M_08432db5-bff0-40f3-ab53-f54189d4c093]Endangered Species (Import and Export) Act 1976.
 - Part I of the Wildlife and Countryside Act 1981[^M_F_7c36d6e1-aa52-4aa9-fac6-788318041651]
-- sections 4, 5, 6(1) and (2), 7 to 9 and 11 of the Animal Welfare Act 2006.[^key-667254c42eef4015033a3a558a109857]
-- section 13(6) of the Animal Welfare Act 2006, so far as the offence arises from the contravention of section 13(1) of that Act in relation to dog breeding in Wales; *(Extent: W)*[^key-fa80ede5687b8602a8aa0f668e2f9b44]
+- sections 4, 5, 6(1) and (2), 7 to 9 and 11 of the Animal Welfare Act 2006.[^c-667254c42eef4015033a3a558a109857]
+- section 13(6) of the Animal Welfare Act 2006, so far as the offence arises from the contravention of section 13(1) of that Act in relation to dog breeding in Wales; *(Extent: W)*[^c-fa80ede5687b8602a8aa0f668e2f9b44]
 
-  section 13(6) of the Animal Welfare Act 2006, so far as the offence arises from the contravention of section 13(1) of that Act in relation to the carrying on of an activity in England; *(Extent: E+W)*[^key-68698e6e9ce5865565c4e04f327ac464] *(Extent: W)*
-- the Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 *(Extent: W)* ; *(Extent: E+W)*[^key-de936db3911ff9310d344e994911fba1]
+  section 13(6) of the Animal Welfare Act 2006, so far as the offence arises from the contravention of section 13(1) of that Act in relation to the carrying on of an activity in England; *(Extent: E+W)*[^c-68698e6e9ce5865565c4e04f327ac464] *(Extent: W)*
+- the Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 *(Extent: W)* ; *(Extent: E+W)*[^c-de936db3911ff9310d344e994911fba1]
 - the Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018. *(Extent: E+W)*
 
 (5A)[^M_F_e1a3b8c5-fd57-4588-ce86-a43ed95f35b9]
 
 - sections 28C or 28F(16) of the Animal Health Act 1981 (c. 22);
-- sections 19 to 24, 25(7), 29 or 40(11) of the Animal Health and Welfare (Scotland) Act 2006 (asp 11).;[^key-93cbaae95596d2f5cb5d800dfa2f82d2]
+- sections 19 to 24, 25(7), 29 or 40(11) of the Animal Health and Welfare (Scotland) Act 2006 (asp 11).;[^c-93cbaae95596d2f5cb5d800dfa2f82d2]
 - the Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021
 
 (6) If the local authority are not satisfied that any planning permission required under Part III of the Town and Country Planning Act 1990[^M_F_faf19561-443b-4044-bfcd-dc05d9b23a49] or under the Town and Country Planning (Scotland) Act 1997[^M_F_b120bc37-9f62-4625-9e1e-4c23720ec13b], for the establishment of the zoo or for the continuance of the zoo during the period for which the licence would be in force, has been, or is deemed to be, granted, they shall either refuse to grant the licence or grant the licence but suspend its operation until the local planning authority within the meaning of the said Act of 1990 or, as the case may be, 1997 have notified the local authority that any such planning permission has been or is deemed to be granted
@@ -264,17 +264,17 @@ has been convicted of an offence under this Act or under any of the enactments m
 
 (2) A fresh licence granted under this Act to the holder of an existing licence shall be granted for a period of six years beginning with the end of the period of the existing licence.
 
-(2A)[^key-4a1c7227754248a6662ac2f9fdfc4b52] A licence under this Act shall be granted subject to conditions requiring the conservation measures referred to in section 1A to be implemented at the zoo.
+(2A)[^c-4a1c7227754248a6662ac2f9fdfc4b52] A licence under this Act shall be granted subject to conditions requiring the conservation measures referred to in section 1A to be implemented at the zoo.
 
-(3) Any licence under this Act may be granted subject to such other[^key-7158b6d946707551626788013ff368e2] conditions as the local authority think necessary or desirable for ensuring the proper conduct of the zoo during the period of the licence, including conditions relating to the following—
+(3) Any licence under this Act may be granted subject to such other[^c-7158b6d946707551626788013ff368e2] conditions as the local authority think necessary or desirable for ensuring the proper conduct of the zoo during the period of the licence, including conditions relating to the following—
 
-- (a)[^key-1634694166bb55a6129e92ddf72954fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-1634694166bb55a6129e92ddf72954fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1634694166bb55a6129e92ddf72954fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1634694166bb55a6129e92ddf72954fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) insurance against liability for damage caused by animals.
 
-(4) In deciding what [^key-77c5fa9607c64ac4f60cc943eaeb2ecd]... conditions to attach to a licence, a local authority shall have regard to any standards specified by the Secretary of State under section 9 and sent by him to the authority.
+(4) In deciding what [^c-77c5fa9607c64ac4f60cc943eaeb2ecd]... conditions to attach to a licence, a local authority shall have regard to any standards specified by the Secretary of State under section 9 and sent by him to the authority.
 
-(5)[^key-f2a3fd8a7d257c3f4b101a423ec11ccd] The Scottish Ministers may, after consulting the authority, direct the authority to attach one or more conditions to a licence, and the authority shall give effect to such a direction.
+(5)[^c-f2a3fd8a7d257c3f4b101a423ec11ccd] The Scottish Ministers may, after consulting the authority, direct the authority to attach one or more conditions to a licence, and the authority shall give effect to such a direction.
 
 (5A) But the Scottish Ministers may not direct the authority to attach a condition which is inconsistent with the implementation at the zoo of the conservation measures referred to in section 1A.
 
@@ -314,7 +314,7 @@ has been convicted of an offence under this Act or under any of the enactments m
 
 *Extent: S*
 
-(1) A licence for a zoo may with the approval of the local authority be transferred to another person, and in that case the transferee shall become the holder of the licence from the date specified by the authority and notified by them to the transferor and transferee[^key-8e83d0e95bc72d21a55180dd2f5a652e].
+(1) A licence for a zoo may with the approval of the local authority be transferred to another person, and in that case the transferee shall become the holder of the licence from the date specified by the authority and notified by them to the transferor and transferee[^c-8e83d0e95bc72d21a55180dd2f5a652e].
 
 (2) On the death of the holder of a licence, the personal representatives of the deceased are deemed to be the holders of the licence during the period of three months after the death or such longer period as the local authority may approve.
 
@@ -391,7 +391,7 @@ the authority may combine those inspections with the inspection which is require
 
 (15) The inspector shall send his report to the authority, and within one month after receiving the report of the inspection the authority shall send a copy to the applicant or operator (as the case may be) and give him an opportunity to comment on it.
 
-### 9A. Procedures relating to inspections before the grant, refusal, renewal or significant alteration of licences[^key-58ff08747a53819ea13ee50252b49d85][^M_E_95b912fd-dbdd-4211-de21-97b5e841525a]
+### 9A. Procedures relating to inspections before the grant, refusal, renewal or significant alteration of licences[^c-58ff08747a53819ea13ee50252b49d85][^M_E_95b912fd-dbdd-4211-de21-97b5e841525a]
 
 *Extent: S*
 
@@ -494,7 +494,7 @@ the authority may combine those inspections with the inspection which is require
 - (b) the operator may give notice to the local authority of objection to any one or more of the inspectors, and the local authority or the Secretary of State as appropriate may if they think fit give effect to any such objection;
 - (c) representatives of the operator not exceeding three in number may accompany the inspectors on the inspection; and the inspectors may require the attendance of any veterinary surgeon or veterinary practitioner employed in or retained by or for the purposes of the zoo;
 - (d) the inspection shall extend to all features of the zoo directly or indirectly relevant to the health, welfare and safety of the public and the animals, including measures for the prevention of the escape of animals;
-- (e) the inspectors shall require the production of all records kept by the operator in pursuance of conditions of the licence requiring the conservation measures referred to in section 1A(f) to be implemented at the zoo[^key-72169232a9aa071030e30351d189a294] and the operator shall produce the records.
+- (e) the inspectors shall require the production of all records kept by the operator in pursuance of conditions of the licence requiring the conservation measures referred to in section 1A(f) to be implemented at the zoo[^c-72169232a9aa071030e30351d189a294] and the operator shall produce the records.
 
 (5) The inspectors shall send their report to the local authority, and the report may include advice on the keeping of records and recommendations for any practicable improvements designed to bring any features of the zoo up to the normal standards of modern zoo practice; and for this purpose the inspectors shall have regard to any standards known to them which have been specified by the Secretary of State under section 9.
 
@@ -535,7 +535,7 @@ the authority may combine those inspections with the inspection which is require
 
 (4) The inspectors shall send their report to the authority, and, except where the operator of the zoo cannot after reasonable enquiries have been made be found, the authority shall send a copy to the operator forthwith and give him an opportunity to comment on it.
 
-### 11A. Special inspections of closed zoos[^M_E_28318a2f-a060-43d5-f42e-1080323f64f4][^key-6c9dd98e7535b3e618a3d45bb0479aa3]
+### 11A. Special inspections of closed zoos[^M_E_28318a2f-a060-43d5-f42e-1080323f64f4][^c-6c9dd98e7535b3e618a3d45bb0479aa3]
 
 *Extent: S*
 
@@ -628,7 +628,7 @@ the authority may combine those inspections with the inspection which is require
 
 (3) The authority shall send with the copy of the report any comments on it which they may have.
 
-(4)[^key-59d1377dad35f7b7f44909104a013986] Sections 16(1A), 16A, 16B, and 18 apply as if–
+(4)[^c-59d1377dad35f7b7f44909104a013986] Sections 16(1A), 16A, 16B, and 18 apply as if–
 
 - (a) references to the authority were references to the Scottish Ministers; and
 - (b) the words “granted by them” in section 16A(1) were omitted.
@@ -705,21 +705,21 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 *Extent: S*
 
-(1) Subject to subsection (1A),[^key-dabe9ab83695f2bd53d4fc4e14b3dc2f] if the local authority with power to grant a licence for a zoo inform the Secretary of State that in their opinion a direction should be made under this subsection because of the small number of animals kept in[^key-f817200b8824f7da1234739eb342b2ee] the zoo or the small number of the kinds of animal kept there, he may, after consulting such persons on the list as he thinks fit, direct—
+(1) Subject to subsection (1A),[^c-dabe9ab83695f2bd53d4fc4e14b3dc2f] if the local authority with power to grant a licence for a zoo inform the Secretary of State that in their opinion a direction should be made under this subsection because of the small number of animals kept in[^c-f817200b8824f7da1234739eb342b2ee] the zoo or the small number of the kinds of animal kept there, he may, after consulting such persons on the list as he thinks fit, direct—
 
 - (a) that this Act shall not apply to that zoo; or
 - (b) that sections 10 and 11 or either of them shall not apply thereto.
 
-(1A)[^key-ef6f6c102320c36e345f30bd0459e661] The Scottish Ministers may only make a direction under subsection (1) where they are satisfied that it is not prejudicial to the protection of wild animals and the conservation of biodiversity to do so.
+(1A)[^c-ef6f6c102320c36e345f30bd0459e661] The Scottish Ministers may only make a direction under subsection (1) where they are satisfied that it is not prejudicial to the protection of wild animals and the conservation of biodiversity to do so.
 
 (2) If the operator of a zoo informs the Secretary of State that in his opinion a direction should be made under this subsection because the number of inspectors provided for by section 10(4)(a) is too large for the zoo (having regard to the small size of the zoo or the small number of the kinds of animal kept there), the Secretary of State may, after consulting the local authority with power to grant a licence for the zoo and such persons on the list as he thinks fit, direct—
 
 - (a) that in the application of this Act to the zoo, section 10(4)(a) and (b) shall not apply; and
 - (b) that, instead, any inspection to be carried out under section 10 shall be conducted by such inspector or inspectors as the Secretary of State appoints.
 
-(3) Subject to subsection (3A),[^key-cd4f38d6d706a10bebdeb5d279b38c1b] any direction made under subsection (1) or (2) may be revoked or varied by a further direction of the Secretary of State made after he has consulted the local authority and such persons on the list as he thinks fit.
+(3) Subject to subsection (3A),[^c-cd4f38d6d706a10bebdeb5d279b38c1b] any direction made under subsection (1) or (2) may be revoked or varied by a further direction of the Secretary of State made after he has consulted the local authority and such persons on the list as he thinks fit.
 
-(3A)[^key-fafa9a7e8d5c3b428290d32b36d55861] The Scottish Ministers may only vary a direction made under subsection (1) where they are satisfied that it is not prejudicial to the protection of wild animals and the conservation of biodiversity to do so.
+(3A)[^c-fafa9a7e8d5c3b428290d32b36d55861] The Scottish Ministers may only vary a direction made under subsection (1) where they are satisfied that it is not prejudicial to the protection of wild animals and the conservation of biodiversity to do so.
 
 (4) While a direction under subsection (1)
 
@@ -765,16 +765,16 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 *Extent: S*
 
-(1) Subject to this section, the local authority may charge such reasonable[^key-9de3301b7e63c79d9988ac01426e1883] fees as they may determine in respect of—
+(1) Subject to this section, the local authority may charge such reasonable[^c-9de3301b7e63c79d9988ac01426e1883] fees as they may determine in respect of—
 
-- (a) applications for the grant, renewal, alteration[^key-a0babbdbfd4652d832b8bfb7ed8c14d9] or transfer of licences;
+- (a) applications for the grant, renewal, alteration[^c-a0babbdbfd4652d832b8bfb7ed8c14d9] or transfer of licences;
 - (b) the grant, renewal or transfer of licences;
 
-[^key-6ee0abc9f8dba6788245bcc806f2dc81]...
+[^c-6ee0abc9f8dba6788245bcc806f2dc81]...
 
 (2) Any fee charged under paragraph (a) of subsection (1) in respect of an application shall be treated as paid on account of the fee charged under paragraph (b) on the grant, renewal or transfer applied for.
 
-(2A)[^key-a368ca6fbb8e13c0c1b5855b49395962] Subject to this section, the authority may charge to the operator of the zoo such sums as they may determine in respect of expenses incurred by them–
+(2A)[^c-a368ca6fbb8e13c0c1b5855b49395962] Subject to this section, the authority may charge to the operator of the zoo such sums as they may determine in respect of expenses incurred by them–
 
 - (a) in connection with inspections in accordance with section 9A and under sections 10 to 12;
 - (b) in connection with the exercise of their powers to make directions under this Act;
@@ -787,7 +787,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (4) Any fee or other charge payable under this section by any person shall be recoverable by the local authority as a debt due from him to them.
 
-(5) The local authority shall secure that the amount of all the fees and other sums charged by them under this section in a year is sufficient to cover the reasonable[^key-719e747e1063546d9393bccc7071a03a] expenditure incurred by the authority in the year by virtue of this Act.
+(5) The local authority shall secure that the amount of all the fees and other sums charged by them under this section in a year is sufficient to cover the reasonable[^c-719e747e1063546d9393bccc7071a03a] expenditure incurred by the authority in the year by virtue of this Act.
 
 ## Enforcement
 
@@ -807,7 +807,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (1B) The authority shall make such alterations to the licence as they consider to be necessary or desirable to ensure that the section of the zoo in relation to which they are satisfied that the condition is not met is closed permanently to the public.
 
-(2)[^key-7bb4ec38e8410a00f43df6b71f56ac7e] Before exercising the power under subsection (1), the local authority shall give the holder of the licence an opportunity to make representations.
+(2)[^c-7bb4ec38e8410a00f43df6b71f56ac7e] Before exercising the power under subsection (1), the local authority shall give the holder of the licence an opportunity to make representations.
 
 (2A)[^c1021757] Subsection (2B) applies in place of subsection (2) where the authority propose to make under subsection (1) a significant alteration to a licence (not being one to which subsection (3A) applies), except where the alteration is in accordance with the recommendations in a report pursuant to section 9A(5)(c).
 
@@ -817,7 +817,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 - (b) make arrangements for an inspection to be carried out in accordance with section 9A (subject to subsection (2) of that section); and
 - (c) consider the report made to them pursuant to that inspection.
 
-(3)[^key-7bb4ec38e8410a00f43df6b71f56ac7e][^c1021758] Subject to subsections (3A) and (3B), at any time after the grant of a licence under this Act, the Secretary of State may, after consulting the authority, direct them to alter the licence, and the authority shall give effect to such a direction within a reasonable time.
+(3)[^c-7bb4ec38e8410a00f43df6b71f56ac7e][^c1021758] Subject to subsections (3A) and (3B), at any time after the grant of a licence under this Act, the Secretary of State may, after consulting the authority, direct them to alter the licence, and the authority shall give effect to such a direction within a reasonable time.
 
 (3A) If the Secretary of State proposes to direct the authority to make a significant alteration to a licence, he shall first notify them of the proposed alteration and the authority shall—
 
@@ -827,21 +827,21 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (3B) The Secretary of State may not direct the authority to make an alteration to the licence which is inconsistent with the implementation at the zoo of the conservation measures referred to in section 1A.
 
-(4)[^key-c94afe04ae51b31398038b0fe6a1ba12] An alteration under this section may be made by varying, cancelling or attaching conditions or by a combination of any of those methods.
+(4)[^c-c94afe04ae51b31398038b0fe6a1ba12] An alteration under this section may be made by varying, cancelling or attaching conditions or by a combination of any of those methods.
 
-(4A)[^c1021756][^key-c94afe04ae51b31398038b0fe6a1ba12][^c1021761] Subject to subsection (3), the authority shall secure that upon its alteration a licence contains such conditions as the authority think necessary or desirable for requiring the conservation measures referred to in section 1A to be implemented at the zoo.
+(4A)[^c1021756][^c-c94afe04ae51b31398038b0fe6a1ba12][^c1021761] Subject to subsection (3), the authority shall secure that upon its alteration a licence contains such conditions as the authority think necessary or desirable for requiring the conservation measures referred to in section 1A to be implemented at the zoo.
 
-(5)[^key-c94afe04ae51b31398038b0fe6a1ba12] The authority shall secure that the terms of any condition attached to a licence are not inconsistent with the terms of a condition attached or varied in pursuance of a direction of the Secretary of State.
+(5)[^c-c94afe04ae51b31398038b0fe6a1ba12] The authority shall secure that the terms of any condition attached to a licence are not inconsistent with the terms of a condition attached or varied in pursuance of a direction of the Secretary of State.
 
-(6)[^c1021756][^key-c94afe04ae51b31398038b0fe6a1ba12] No alteration made under this section[^c1021765] shall have effect until written notification of it has been received by the holder of the licence; and this subsection is without prejudice to section 18(7) and (7A)[^c1021766].
+(6)[^c1021756][^c-c94afe04ae51b31398038b0fe6a1ba12] No alteration made under this section[^c1021765] shall have effect until written notification of it has been received by the holder of the licence; and this subsection is without prejudice to section 18(7) and (7A)[^c1021766].
 
-### 16. Power to alter licences.[^c1021767][^key-2db516fbd6b99a6e7c6a997332be67d8]
+### 16. Power to alter licences.[^c1021767][^c-2db516fbd6b99a6e7c6a997332be67d8]
 
 *Extent: S*
 
 (1) At any time after the grant of a licence under this Act, it may be altered by the local authority if in their opinion it is necessary or desirable to do so for ensuring the proper conduct of the zoo during the period of the licence (whether their opinion arises from an inspectors’ report or an alteration of standards specified under section 9 or otherwise).
 
-(1A)[^key-1b14870a621b13ea45f0e11be271530b] Subsection (1B) applies where–
+(1A)[^c-1b14870a621b13ea45f0e11be271530b] Subsection (1B) applies where–
 
 - (a) the authority have made a direction under section 16A(2) in respect of a zoo;
 - (b) the period specified in the direction by virtue of section 16A(2)(c), including such a direction as varied under section 16A(4) has expired; and
@@ -853,7 +853,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (2) Before exercising the power under subsection (1), the local authority shall give the holder of the licence an opportunity to make representations.
 
-(2A)[^key-7ce8c519096c07e0c23d10a2de6a468c] Subsection (2B) applies in place of subsection (2) where the authority propose to make under subsection (1) a significant alteration to a licence (not being one to which subsection (3A) applies), except where the alteration is in accordance with the recommendations in a report pursuant to section 9A(5)(c).
+(2A)[^c-7ce8c519096c07e0c23d10a2de6a468c] Subsection (2B) applies in place of subsection (2) where the authority propose to make under subsection (1) a significant alteration to a licence (not being one to which subsection (3A) applies), except where the alteration is in accordance with the recommendations in a report pursuant to section 9A(5)(c).
 
 (2B) Before making a significant alteration to a licence the authority shall–
 
@@ -861,7 +861,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 - (b) make arrangements for an inspection to be carried out in accordance with section 9A (subject to subsection (2) of that section); and
 - (c) consider the report made to them pursuant to that inspection.
 
-(3)[^key-509c51469c5b2e4dece97bab31f04737][^key-aa07d1ba045912ef9eb6dc29e7893896] Subject to subsections (3A) and (3B), at any time after the grant of a licence under this Act, the Scottish Ministers may, after consulting the authority, direct them to alter the licence, and the authority shall give effect to such a direction within a reasonable time.
+(3)[^c-509c51469c5b2e4dece97bab31f04737][^c-aa07d1ba045912ef9eb6dc29e7893896] Subject to subsections (3A) and (3B), at any time after the grant of a licence under this Act, the Scottish Ministers may, after consulting the authority, direct them to alter the licence, and the authority shall give effect to such a direction within a reasonable time.
 
 (3A) If the Scottish Ministers propose to direct the authority to make a significant alteration to a licence, they shall first notify the authority of the proposed alteration and the authority shall–
 
@@ -871,13 +871,13 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (3B) The Scottish Ministers may not direct the authority to make an alteration to the licence which is inconsistent with the implementation at the zoo of the conservation measures referred to in section 1A.
 
-(4)[^key-509c51469c5b2e4dece97bab31f04737] An alteration under this section may be made by varying, cancelling or attaching conditions or by a combination of any of those methods.
+(4)[^c-509c51469c5b2e4dece97bab31f04737] An alteration under this section may be made by varying, cancelling or attaching conditions or by a combination of any of those methods.
 
-(4A)[^key-b414db3b8d61591a403bee87e3e44e30] Subject to subsection (3), the local authority shall secure that upon its alteration a licence contains such conditions as the authority think necessary or desirable for requiring the conservation measures referred to in section 1A to be implemented at the zoo.
+(4A)[^c-b414db3b8d61591a403bee87e3e44e30] Subject to subsection (3), the local authority shall secure that upon its alteration a licence contains such conditions as the authority think necessary or desirable for requiring the conservation measures referred to in section 1A to be implemented at the zoo.
 
-(5)[^key-509c51469c5b2e4dece97bab31f04737] The authority shall secure that the terms of any condition attached to a licence are not inconsistent with the terms of a condition attached or varied in pursuance of a direction of the Secretary of State.
+(5)[^c-509c51469c5b2e4dece97bab31f04737] The authority shall secure that the terms of any condition attached to a licence are not inconsistent with the terms of a condition attached or varied in pursuance of a direction of the Secretary of State.
 
-(6)[^key-509c51469c5b2e4dece97bab31f04737] No alteration made under this section[^key-6e8975b519f2be9f23303f963975e4dc] shall have effect until written notification of it has been received by the holder of the licence; and this subsection is without prejudice to section 18(7) and (7A)[^key-669effd2b7813c23473784346b5c1af9].
+(6)[^c-509c51469c5b2e4dece97bab31f04737] No alteration made under this section[^c-6e8975b519f2be9f23303f963975e4dc] shall have effect until written notification of it has been received by the holder of the licence; and this subsection is without prejudice to section 18(7) and (7A)[^c-669effd2b7813c23473784346b5c1af9].
 
 ### 16A. Enforcement of licence conditions[^M_E_d169e329-fe16-41ed-e137-ae8fc649a7ef][^c1021769]
 
@@ -902,7 +902,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (6) A direction under subsection (2) (including such a direction as varied by a direction under subsection (4)) may be revoked by a further direction of the authority.
 
-### 16A. Enforcement of licence conditions[^M_E_b890901d-459f-415c-e2e0-0dc71e44be90][^key-02b75b7c47b27a5671f27e15077c6622]
+### 16A. Enforcement of licence conditions[^M_E_b890901d-459f-415c-e2e0-0dc71e44be90][^c-02b75b7c47b27a5671f27e15077c6622]
 
 *Extent: S*
 
@@ -1015,7 +1015,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
 (8) Where the authority make a zoo closure direction in respect of a zoo under this section, the zoo’s licence is revoked from the date on which the direction has effect.
 
-### 16C. Zoo closure direction for zoos without licences[^c1021772][^key-2433c8dfa1bb7debc2da00268971b680][^M_E_6b8f01da-ad5f-40f2-953a-36e2a4e32e76][^c1021771]
+### 16C. Zoo closure direction for zoos without licences[^c1021772][^c-2433c8dfa1bb7debc2da00268971b680][^M_E_6b8f01da-ad5f-40f2-953a-36e2a4e32e76][^c1021771]
 
 *Extent: E+W*
 
@@ -1046,7 +1046,7 @@ has effect, this Act shall apply to the zoo with the modifications specified in 
 
   the authority shall make a zoo closure direction in respect of the zoo.
 
-### 16C. Zoo closure direction for zoos without licences[^key-b788d0d5600256651386727d646e9203][^M_E_aaa62aa1-9ac5-460d-cef0-ce633234d767]
+### 16C. Zoo closure direction for zoos without licences[^c-b788d0d5600256651386727d646e9203][^M_E_aaa62aa1-9ac5-460d-cef0-ce633234d767]
 
 *Extent: S*
 
@@ -1339,7 +1339,7 @@ and may contain such restrictions as the sheriff thinks fit.
 
 (5) A person duly authorised for the purposes of subsection (3) shall, if so required, produce his authority and warrant before entering the premises of the zoo or part of the premises to which the warrant relates (as the case may be).
 
-### 17. Revocation of licence.[^key-e384740a2b2b39bce715a6c2243638e7]
+### 17. Revocation of licence.[^c-e384740a2b2b39bce715a6c2243638e7]
 
 (1) The local authority may, after giving the holder an opportunity to be heard, revoke a licence for a zoo granted by them under this Act—
 
@@ -1359,8 +1359,8 @@ and may contain such restrictions as the sheriff thinks fit.
 (1)[^c1021780] A person aggrieved by—
 
 - (a) the refusal to grant a licence;
-- (b)[^c1021781][^key-58bc6bc80eef49b8d77e0e801e34baa8] any condition attached to a licence;
-- (c)[^c1021781][^key-58bc6bc80eef49b8d77e0e801e34baa8] any variation or cancellation of a condition;
+- (b)[^c1021781][^c-58bc6bc80eef49b8d77e0e801e34baa8] any condition attached to a licence;
+- (c)[^c1021781][^c-58bc6bc80eef49b8d77e0e801e34baa8] any variation or cancellation of a condition;
 - (d) the refusal to approve the transfer of a licence;
 - (e) a direction under section 13(8)(c) or 16A(2) or any variation of such a direction;
 - (f) a zoo closure direction;
@@ -1368,19 +1368,19 @@ and may contain such restrictions as the sheriff thinks fit.
 - (h) a direction under section 16E(6) or any variation of such a direction; or
 - (i) any arrangements under section 16E(7) or (8),
 
-may appeal to a magistrates’ court [^key-6a0ae23573abf253e2f9699b5c38de9f]....
+may appeal to a magistrates’ court [^c-6a0ae23573abf253e2f9699b5c38de9f]....
 
-(2)[^key-a9fa9a4cee23c690cdd44fce8e58bc0f] Any such appeal shall be brought within twenty-eight[^c1021784] days from the date on which the person wishing to appeal receives written notification of the authority’s decision as to the matter in question[^c1021785]; but an appeal may be brought under this section whether or not the authority’s decision was made in pursuance of a direction of the Secretary of State under this Act.
+(2)[^c-a9fa9a4cee23c690cdd44fce8e58bc0f] Any such appeal shall be brought within twenty-eight[^c1021784] days from the date on which the person wishing to appeal receives written notification of the authority’s decision as to the matter in question[^c1021785]; but an appeal may be brought under this section whether or not the authority’s decision was made in pursuance of a direction of the Secretary of State under this Act.
 
-(3)[^c1021781][^key-a9fa9a4cee23c690cdd44fce8e58bc0f] On an appeal under this section to a magistrates’ court, the court may confirm, vary or reverse the local authority’s decision and generally give such directions as it thinks proper, having regard to the provisions of this Act.
+(3)[^c1021781][^c-a9fa9a4cee23c690cdd44fce8e58bc0f] On an appeal under this section to a magistrates’ court, the court may confirm, vary or reverse the local authority’s decision and generally give such directions as it thinks proper, having regard to the provisions of this Act.
 
 (4) On an appeal under this section to the sheriff, he shall have power (without prejudice to any other power which he may have) to confirm, vary or reverse the local authority’s decision and to award such expenses as he thinks fit.
 
-(5)[^c1021781][^key-9ed05f478460034d6429b0ecc48ec4ae] The procedure on an appeal to a magistrates’ court under this section shall be by way of complaint for an order, and the [^c1021788]Magistrates’ Courts Act 1980 shall apply to the proceedings.
+(5)[^c1021781][^c-9ed05f478460034d6429b0ecc48ec4ae] The procedure on an appeal to a magistrates’ court under this section shall be by way of complaint for an order, and the [^c1021788]Magistrates’ Courts Act 1980 shall apply to the proceedings.
 
 (6) The decision of the sheriff on an appeal under this section shall be final.
 
-(7)[^c1021781][^key-024006ad569c8687672e4b44d9c9660a] In so far as a condition attached to a licence (whether on its grant or later), or the variation of a condition, imposes a requirement on the holder of the licence to carry out works he would not otherwise be required to carry out, the condition or the variation shall not have effect—
+(7)[^c1021781][^c-024006ad569c8687672e4b44d9c9660a] In so far as a condition attached to a licence (whether on its grant or later), or the variation of a condition, imposes a requirement on the holder of the licence to carry out works he would not otherwise be required to carry out, the condition or the variation shall not have effect—
 
 - (a) during the period within which the holder is entitled to appeal against the attachment or variation, or
 - (b) where such an appeal is brought within that period, during the period before the appeal is determined or abandoned.
@@ -1412,7 +1412,7 @@ may appeal to a magistrates’ court [^key-6a0ae23573abf253e2f9699b5c38de9f]....
 
 *Extent: S*
 
-(1)[^key-bf482bb940ead8692231b85faedfba99] A person aggrieved by–
+(1)[^c-bf482bb940ead8692231b85faedfba99] A person aggrieved by–
 
 - (a) the refusal to grant a licence;
 - (b) any condition attached to a licence;
@@ -1426,28 +1426,28 @@ may appeal to a magistrates’ court [^key-6a0ae23573abf253e2f9699b5c38de9f]....
 
 may appeal by summary application to the sheriff.
 
-(2)[^key-11b9b06a042e8293ce937537bf29a940] Any such appeal shall be brought within twenty-eight[^key-c1a2a82cca4fb5eb4d196b26a220c061] days from the date on which the person wishing to appeal receives written notification of the authority’s decision as to the matter in question[^key-f804924e7c354adbaee0eb153d32028b]; but an appeal may be brought under this section whether or not the authority’s decision was made in pursuance of a direction of the Secretary of State under this Act.
+(2)[^c-11b9b06a042e8293ce937537bf29a940] Any such appeal shall be brought within twenty-eight[^c-c1a2a82cca4fb5eb4d196b26a220c061] days from the date on which the person wishing to appeal receives written notification of the authority’s decision as to the matter in question[^c-f804924e7c354adbaee0eb153d32028b]; but an appeal may be brought under this section whether or not the authority’s decision was made in pursuance of a direction of the Secretary of State under this Act.
 
 (3) On an appeal under this section to a magistrates’ court, the court may confirm, vary or reverse the local authority’s decision and generally give such directions as it thinks proper, having regard to the provisions of this Act.
 
-(4)[^key-11b9b06a042e8293ce937537bf29a940] On an appeal under this section to the sheriff, he shall have power (without prejudice to any other power which he may have) to confirm, vary or reverse the local authority’s decision and to award such expenses as he thinks fit.
+(4)[^c-11b9b06a042e8293ce937537bf29a940] On an appeal under this section to the sheriff, he shall have power (without prejudice to any other power which he may have) to confirm, vary or reverse the local authority’s decision and to award such expenses as he thinks fit.
 
 (5) The procedure on an appeal to a magistrates’ court under this section shall be by way of complaint for an order, and the [^c1021793]Magistrates’ Courts Act 1980 shall apply to the proceedings.
 
-(6)[^key-a9ea6e0789fc0d40abaa82a56cbc91db] The decision of the sheriff on an appeal under this section shall be final.
+(6)[^c-a9ea6e0789fc0d40abaa82a56cbc91db] The decision of the sheriff on an appeal under this section shall be final.
 
-(7)[^key-a9ea6e0789fc0d40abaa82a56cbc91db] In so far as a condition attached to a licence (whether on its grant or later), or the variation of a condition, imposes a requirement on the holder of the licence to carry out works he would not otherwise be required to carry out, the condition or the variation shall not have effect—
+(7)[^c-a9ea6e0789fc0d40abaa82a56cbc91db] In so far as a condition attached to a licence (whether on its grant or later), or the variation of a condition, imposes a requirement on the holder of the licence to carry out works he would not otherwise be required to carry out, the condition or the variation shall not have effect—
 
 - (a) during the period within which the holder is entitled to appeal against the attachment or variation, or
 - (b) where such an appeal is brought within that period, during the period before the appeal is determined or abandoned.
 
-(7A)[^key-b99f9842033f6562fb1f2d1efcacd811] An alteration to a licence under section 16(1B) has effect–
+(7A)[^c-b99f9842033f6562fb1f2d1efcacd811] An alteration to a licence under section 16(1B) has effect–
 
 - (a) if an appeal is brought under this section within the time mentioned in subsection (2), and the authority’s decision is confirmed or varied, on the day following the day on which the appeal is determined, or on such other day as the court directs;
 - (b) if an appeal is brought under this section within the time mentioned in subsection (2) but is subsequently abandoned, on the day following the day on which the appeal is abandoned, or on such other day as the court directs; or
 - (c) if no appeal is brought within the time mentioned in subsection (2), on the expiration of that time.
 
-(8)[^key-60a7fbab254028e62f925c30eb2b2b6e] Subsection (9) applies to the following directions:–
+(8)[^c-60a7fbab254028e62f925c30eb2b2b6e] Subsection (9) applies to the following directions:–
 
 - (a) a direction under section 16A(2)(d) which requires the zoo or a section of it to be closed to the public;
 - (b) a direction under section 13(8)(c), 16A(2) or 16E(6) which imposes a requirement on the operator of the zoo to carry out works the operator would not otherwise be required to carry out; and
@@ -1507,7 +1507,7 @@ he is guilty of an offence.
 
 (3) Any person who intentionally obstructs an inspector acting pursuant to this Act is guilty of an offence.
 
-(3A)[^key-b5bb35839b6450168e8a8bbb2b1066a4] Any person who intentionally obstructs a person duly authorised for the purposes of section 16G(1) or (3) and acting pursuant to that authorisation is guilty of an offence.
+(3A)[^c-b5bb35839b6450168e8a8bbb2b1066a4] Any person who intentionally obstructs a person duly authorised for the purposes of section 16G(1) or (3) and acting pursuant to that authorisation is guilty of an offence.
 
 (3B) If the holder of a licence for a zoo fails without reasonable excuse to comply with a direction given under section 16A(2)(d) to close the zoo, or a section of it to the public, for a period, the holder is guilty of an offence.
 
@@ -1526,13 +1526,13 @@ the operator is guilty of an offence.
 
 (3G) If, contrary to section 4(8), the holder of a licence for a zoo fails without reasonable excuse to display the zoo licence or a copy of it publicly at each public entrance to the zoo the holder of the licence is guilty of an offence.
 
-(4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c1021805] for an offence under subsection (1), (2), (3A), (3B), (3C), (3E) or (3F)[^key-e7e44b673f24cbd7d076fa64a604bfff] and level 3 on the standard scale[^c1021806] for an offence under subsection (3), (3D) or (3G)[^key-02ed1ab63e10e9a2563278c1d1555b43].
+(4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c1021805] for an offence under subsection (1), (2), (3A), (3B), (3C), (3E) or (3F)[^c-e7e44b673f24cbd7d076fa64a604bfff] and level 3 on the standard scale[^c1021806] for an offence under subsection (3), (3D) or (3G)[^c-02ed1ab63e10e9a2563278c1d1555b43].
 
 (5) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributed to any neglect on the part of, any director, manager, secretary or any other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, is guilty of that offence and liable to be proceeded against and punished accordingly.
 
 ## Supplemental
 
-### 19A. Directions[^key-e82bba318d3bf25aedb50d96741c3e58][^c1021810]
+### 19A. Directions[^c-e82bba318d3bf25aedb50d96741c3e58][^c1021810]
 
 *Extent: E*
 
@@ -1542,7 +1542,7 @@ the operator is guilty of an offence.
 
 (3) The operator of a zoo or other person notified in writing of a direction pursuant to subsection (2) shall comply with a direction under this Act made in respect of that zoo.
 
-### 19A. Directions[^key-3ec325b380dc5ca47578a654d73738da]
+### 19A. Directions[^c-3ec325b380dc5ca47578a654d73738da]
 
 *Extent: S*
 
@@ -1552,7 +1552,7 @@ the operator is guilty of an offence.
 
 (3) The operator of a zoo or other person notified in writing of a direction pursuant to subsection (2) shall comply with a direction under this Act made in respect of that zoo.
 
-### 19B. Electronic communications[^key-b58acdf91d0d36ca55625e85c12ec762]
+### 19B. Electronic communications[^c-b58acdf91d0d36ca55625e85c12ec762]
 
 *Extent: S*
 
@@ -1574,7 +1574,7 @@ the operator is guilty of an offence.
 - (e) a day appointed for public thanksgiving or mourning; or
 - (f) a day which is a local or public holiday in the area in which the electronic communication is to be sent.
 
-### 20. Transitory provision for existing zoos.[^key-67be843444c7eb948292b63b1da839f2]
+### 20. Transitory provision for existing zoos.[^c-67be843444c7eb948292b63b1da839f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1586,7 +1586,7 @@ the operator is guilty of an offence.
 - “**circus**” means a place where animals are kept or introduced wholly or mainly for the purpose of performing tricks or manoeuvres at that place;
 - “**keeper**” includes any person employed under the directions of a keeper;
 - “**the list**” means the list compiled by the Secretary of State under section 8;
-- “pet shop” means premises for whose keeping as a pet shop a licence is in force, or is required, under the Pet Animals Act 1951; *(Extent: S)* *(affected by repeal, see note)*[^key-4c4ac2775ad113deb472914e5d7120a1]
+- “pet shop” means premises for whose keeping as a pet shop a licence is in force, or is required, under the Pet Animals Act 1951; *(Extent: S)* *(affected by repeal, see note)*[^c-4c4ac2775ad113deb472914e5d7120a1]
 - “ *(Extent: S)***pet shop *(Extent: S)***” means premises at which the licensable activity described in paragraph 1 of schedule 1 of the Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (selling animals as pets) is carried on; *(Extent: S)*
 - “**taxonomic category**” means a group or assemblage of species recognised as an entity in scientific classification;
 - “**zoo**” has the meaning assigned by section 1(2).
@@ -1603,11 +1603,11 @@ the operator is guilty of an offence.
   > (1) a zoo within the meaning of the Zoo Licensing Act 1981 for which a licence is in force (or is not for the time being required) under this Act
 
   ;
-- (b)[^key-734101c9f4de59f5ed660bbe30ee76ea][^c1021817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-734101c9f4de59f5ed660bbe30ee76ea][^c1021817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purpose of the said Act an animal shall be treated as kept in a zoo when it is elsewhere in the personal possession of the operator of the zoo, or of competent persons acting on his behalf.
 
-### 22A. Application of Act: England and Wales[^c1021819][^key-fed40b20916f36c6063bea809fd15448]
+### 22A. Application of Act: England and Wales[^c1021819][^c-fed40b20916f36c6063bea809fd15448]
 
 *Extent: E*
 
@@ -1621,7 +1621,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 (1) This Act may be cited as the Zoo Licensing Act 1981.
 
-(2)[^key-c9a27abd29f6770e0abb4bb08afdca22][^c1021820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c9a27abd29f6770e0abb4bb08afdca22][^c1021820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act does not extend to Northern Ireland.
 
@@ -1629,7 +1629,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021652]: Modification: Act: Functions transferred (W.) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-34f3829a99394ae807ba4045abfcb4a5]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1981/37/section/1/2) inserted (W.) (1.12.2020) by [Wild Animals and Circuses (Wales) Act 2020 (asc 2)](https://www.legislation.gov.uk/asc/2020/2), [ss. 8(2)](https://www.legislation.gov.uk/asc/2020/2/section/8/2), [12](https://www.legislation.gov.uk/asc/2020/2/section/12) (with [ss. 9](https://www.legislation.gov.uk/asc/2020/2/section/9), [10](https://www.legislation.gov.uk/asc/2020/2/section/10))
+[^c-34f3829a99394ae807ba4045abfcb4a5]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1981/37/section/1/2) inserted (W.) (1.12.2020) by [Wild Animals and Circuses (Wales) Act 2020 (asc 2)](https://www.legislation.gov.uk/asc/2020/2), [ss. 8(2)](https://www.legislation.gov.uk/asc/2020/2/section/8/2), [12](https://www.legislation.gov.uk/asc/2020/2/section/12) (with [ss. 9](https://www.legislation.gov.uk/asc/2020/2/section/9), [10](https://www.legislation.gov.uk/asc/2020/2/section/10))
 
 [^M_F_a5a2635a-8cba-4c26-e437-6fae40f0d98a]: Textual amendment: Words in s. 1(2) omitted (E.) (8.1.2003) by virtue of [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [4(a)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/4/a) (which omission is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/4/a)
 
@@ -1641,19 +1641,19 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021660]: Textual amendment: Words in s. 1(3)(b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 124](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/124); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
-[^key-c6292affedc028a169f1bfd18191e988]: Textual amendment: S. 1(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-c6292affedc028a169f1bfd18191e988]: Textual amendment: S. 1(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c1021661]: Textual amendment: S. 1A inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [5](https://www.legislation.gov.uk/uksi/2002/3080/regulation/5) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-256e22ed1bc73b409d255b351fce86d4]: Textual amendment: S. 1A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2003/174/regulation/5)
+[^c-256e22ed1bc73b409d255b351fce86d4]: Textual amendment: S. 1A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2003/174/regulation/5)
 
 [^M_F_a27eeb62-7906-4ccd-b4cd-7bc56fef26f3]: Textual amendment: S. 2(2A) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [6](https://www.legislation.gov.uk/uksi/2002/3080/regulation/6) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-fec2d1b0f9224d4342f9ce4875447d92]: Textual amendment: S. 2(2A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2003/174/regulation/6)
+[^c-fec2d1b0f9224d4342f9ce4875447d92]: Textual amendment: S. 2(2A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2003/174/regulation/6)
 
 [^M_F_f7f07e9f-7f87-4d84-d078-be60377ec837]: Textual amendment: S. 3(2)(c) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/21/a) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
-[^key-c868e315588c8aaa74013a0ce852f3b9]: Textual amendment: S. 3(2)(c) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/10/2)
+[^c-c868e315588c8aaa74013a0ce852f3b9]: Textual amendment: S. 3(2)(c) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/10/2)
 
 [^c1021666]: Textual amendment: Word in s. 3(2)(e) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 62(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/62/2) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
@@ -1661,13 +1661,13 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021668]: Textual amendment: S. 3(2)(e)(ii) and word inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 62(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/62/2) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-b027e7250002544740ca4b769c5341da]: Textual amendment: S. 3(3) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/21/b) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-b027e7250002544740ca4b769c5341da]: Textual amendment: S. 3(3) inserted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/21/b) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
-[^key-6a2bb9d707d64b23c8abc3cc0761574b]: Textual amendment: S. 3(3) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 10(3)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/10/3)
+[^c-6a2bb9d707d64b23c8abc3cc0761574b]: Textual amendment: S. 3(3) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 10(3)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/10/3)
 
-[^key-72f03671140c72cc0d683ae1184b7b09]: Textual amendment: S. 3(3)(a)(ii) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 52(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/52/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-72f03671140c72cc0d683ae1184b7b09]: Textual amendment: S. 3(3)(a)(ii) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 52(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/52/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-69b82026332af971f73d7be1ccc9b265]: Textual amendment: Words in s. 3(3)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 52(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/52/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-69b82026332af971f73d7be1ccc9b265]: Textual amendment: Words in s. 3(3)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 52(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/52/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^M_F_2920c523-6a3b-4912-95b8-ebcb2c46543b]: Textual amendment: S. 4(1)(b) and word omitted: (E.) (8.1.2003) by virtue of [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [7(a)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/7/a) (which omission is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/7/a)
 
@@ -1679,13 +1679,13 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^M_F_6aec402d-1aaa-48a4-f9d7-c6966cae8ae3]: Textual amendment: Words in s. 4(4) inserted (S.) (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2006/536/schedule/1/paragraph/10/2)
 
-[^key-39ad6b145bf969bf51253430859efb01]: Textual amendment: Words in s. 4(5) substituted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/a) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
+[^c-39ad6b145bf969bf51253430859efb01]: Textual amendment: Words in s. 4(5) substituted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/a) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
 
-[^key-7cee93e891227be59b843cd57d4b1958]: Textual amendment: Words in s. 4(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(b)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/b) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
+[^c-7cee93e891227be59b843cd57d4b1958]: Textual amendment: Words in s. 4(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(b)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/b) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
 
 [^M_M_3b996ad1-b2fc-443a-86da-c1bb7b9c8c41]: Marginal citation: [1951 c. 35](https://www.legislation.gov.uk/ukpga/1951/35)
 
-[^key-2929aeefe2999ef14d6662edcb024f6b]: Textual amendment: Words in s. 4(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(c)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/c) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
+[^c-2929aeefe2999ef14d6662edcb024f6b]: Textual amendment: Words in s. 4(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(c)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/c) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
 
 [^M_F_e914f040-c283-4383-eb63-2dcf97391b72]: Textual amendment: Entry repealed by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [ss. 75(14)](https://www.legislation.gov.uk/ukpga/1990/11/section/75/14), [73(4)](https://www.legislation.gov.uk/ukpga/1990/11/section/73/4), [Sch. 17 Pt. II](https://www.legislation.gov.uk/ukpga/1990/11/schedule/17/part/II)
 
@@ -1699,17 +1699,17 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^M_F_7c36d6e1-aa52-4aa9-fac6-788318041651]: Textual amendment: Entry added by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 72(14)](https://www.legislation.gov.uk/ukpga/1990/11/section/72/14)
 
-[^key-667254c42eef4015033a3a558a109857]: Textual amendment: Words in s. 4(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(d)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/d) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
+[^c-667254c42eef4015033a3a558a109857]: Textual amendment: Words in s. 4(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 11(d)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/11/d) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l)
 
-[^key-fa80ede5687b8602a8aa0f668e2f9b44]: Textual amendment: Words in s. 4(5) inserted (W.) (30.4.2015) by [The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (S.I. 2014/3266)](https://www.legislation.gov.uk/wsi/2014/3266), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3266/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2014/3266/schedule/2/paragraph/5)
+[^c-fa80ede5687b8602a8aa0f668e2f9b44]: Textual amendment: Words in s. 4(5) inserted (W.) (30.4.2015) by [The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (S.I. 2014/3266)](https://www.legislation.gov.uk/wsi/2014/3266), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3266/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2014/3266/schedule/2/paragraph/5)
 
-[^key-68698e6e9ce5865565c4e04f327ac464]: Textual amendment: Words in s. 4(5) inserted (E.W.) (1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/8/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-68698e6e9ce5865565c4e04f327ac464]: Textual amendment: Words in s. 4(5) inserted (E.W.) (1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/8/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
-[^key-de936db3911ff9310d344e994911fba1]: Textual amendment: Words in s. 4(5) inserted (E.W.) (1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/8/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-de936db3911ff9310d344e994911fba1]: Textual amendment: Words in s. 4(5) inserted (E.W.) (1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/8/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
 [^M_F_e1a3b8c5-fd57-4588-ce86-a43ed95f35b9]: Textual amendment: S. 4(5A) inserted (S.) (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [sch. 1 para. 10(3)](https://www.legislation.gov.uk/ssi/2006/536/schedule/1/paragraph/10/3)
 
-[^key-93cbaae95596d2f5cb5d800dfa2f82d2]: Textual amendment: Words in s. 4(5A) inserted (S.) (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2022/195/schedule/1/paragraph/4/2)
+[^c-93cbaae95596d2f5cb5d800dfa2f82d2]: Textual amendment: Words in s. 4(5A) inserted (S.) (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2022/195/schedule/1/paragraph/4/2)
 
 [^M_F_faf19561-443b-4044-bfcd-dc05d9b23a49]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/49)
 
@@ -1729,15 +1729,15 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021717]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-4a1c7227754248a6662ac2f9fdfc4b52]: Textual amendment: S. 5(2A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/a)
+[^c-4a1c7227754248a6662ac2f9fdfc4b52]: Textual amendment: S. 5(2A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/a)
 
-[^key-7158b6d946707551626788013ff368e2]: Textual amendment: Word in s. 5(3) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/b/i)
+[^c-7158b6d946707551626788013ff368e2]: Textual amendment: Word in s. 5(3) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/b/i)
 
-[^key-1634694166bb55a6129e92ddf72954fe]: Textual amendment: S. 5(3)(a)(b) omitted (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/b/ii)
+[^c-1634694166bb55a6129e92ddf72954fe]: Textual amendment: S. 5(3)(a)(b) omitted (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/b/ii)
 
-[^key-77c5fa9607c64ac4f60cc943eaeb2ecd]: Textual amendment: Words in s. 5(4) omitted (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/c)
+[^c-77c5fa9607c64ac4f60cc943eaeb2ecd]: Textual amendment: Words in s. 5(4) omitted (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/c)
 
-[^key-f2a3fd8a7d257c3f4b101a423ec11ccd]: Textual amendment: S. 5(5)(5A) substituted for s. 5(5) (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/d)
+[^c-f2a3fd8a7d257c3f4b101a423ec11ccd]: Textual amendment: S. 5(5)(5A) substituted for s. 5(5) (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [8(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/8/d)
 
 [^M_F_83b8c881-d793-4c27-950d-bb070107d129]: Textual amendment: S. 6(1A) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [9(a)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/9/a) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/9/a)
 
@@ -1749,7 +1749,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021723]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-8e83d0e95bc72d21a55180dd2f5a652e]: Textual amendment: Words in s. 7(1) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2003/174/regulation/10)
+[^c-8e83d0e95bc72d21a55180dd2f5a652e]: Textual amendment: Words in s. 7(1) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2003/174/regulation/10)
 
 [^M_F_a20766c8-d886-46ba-b8c0-ee2f72eefd3c]: Textual amendment: Words in s. 8(2) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [11(a)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/11/a) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/8/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [11(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/11/a)
 
@@ -1759,7 +1759,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^M_E_14ed5b05-49ce-46a4-96c2-cc22858383de]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-58ff08747a53819ea13ee50252b49d85]: Textual amendment: S. 9A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2003/174/regulation/12)
+[^c-58ff08747a53819ea13ee50252b49d85]: Textual amendment: S. 9A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2003/174/regulation/12)
 
 [^M_E_95b912fd-dbdd-4211-de21-97b5e841525a]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
@@ -1769,7 +1769,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021730]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
-[^key-72169232a9aa071030e30351d189a294]: Textual amendment: Words in s. 10(4)(e) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2003/174/regulation/13)
+[^c-72169232a9aa071030e30351d189a294]: Textual amendment: Words in s. 10(4)(e) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2003/174/regulation/13)
 
 [^M_F_5a15479c-2421-4379-d405-cbdcb9112ff2]: Textual amendment: Words in s. 11(1)(c) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), regs. 1(1), 2, 14 (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/11) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), regs. 1(1), 14
 
@@ -1779,7 +1779,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^M_E_28318a2f-a060-43d5-f42e-1080323f64f4]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
-[^key-6c9dd98e7535b3e618a3d45bb0479aa3]: Textual amendment: S. 11A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2003/174/regulation/15)
+[^c-6c9dd98e7535b3e618a3d45bb0479aa3]: Textual amendment: S. 11A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2003/174/regulation/15)
 
 [^M_F_5306dd19-ee12-4349-b9d3-c75d88cfa5f9]: Textual amendment: Words in s. 12(1) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [16](https://www.legislation.gov.uk/uksi/2002/3080/regulation/16) (which insertion is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2003/174/regulation/16)
 
@@ -1789,7 +1789,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021737]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
-[^key-59d1377dad35f7b7f44909104a013986]: Textual amendment: S. 13(4)-(12) substituted (S.) (1.4.2003) for s. 13(4)(5) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2003/174/regulation/17)
+[^c-59d1377dad35f7b7f44909104a013986]: Textual amendment: S. 13(4)-(12) substituted (S.) (1.4.2003) for s. 13(4)(5) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2003/174/regulation/17)
 
 [^c1021738]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
@@ -1805,15 +1805,15 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021744]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-dabe9ab83695f2bd53d4fc4e14b3dc2f]: Textual amendment: Words in s. 14(1) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(a)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/a/i)
+[^c-dabe9ab83695f2bd53d4fc4e14b3dc2f]: Textual amendment: Words in s. 14(1) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(a)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/a/i)
 
-[^key-f817200b8824f7da1234739eb342b2ee]: Textual amendment: Words in s. 14(1) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(a)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/a/ii)
+[^c-f817200b8824f7da1234739eb342b2ee]: Textual amendment: Words in s. 14(1) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(a)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/a/ii)
 
-[^key-ef6f6c102320c36e345f30bd0459e661]: Textual amendment: S. 14(1A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(b)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/b)
+[^c-ef6f6c102320c36e345f30bd0459e661]: Textual amendment: S. 14(1A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(b)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/b)
 
-[^key-cd4f38d6d706a10bebdeb5d279b38c1b]: Textual amendment: Words in s. 14(3) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/c)
+[^c-cd4f38d6d706a10bebdeb5d279b38c1b]: Textual amendment: Words in s. 14(3) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/c)
 
-[^key-fafa9a7e8d5c3b428290d32b36d55861]: Textual amendment: S. 14(3A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/d)
+[^c-fafa9a7e8d5c3b428290d32b36d55861]: Textual amendment: S. 14(3A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [18(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/18/d)
 
 [^c1021746]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
@@ -1829,27 +1829,27 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021752]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-9de3301b7e63c79d9988ac01426e1883]: Textual amendment: Word in s. 15(1) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(a)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/a/i)
+[^c-9de3301b7e63c79d9988ac01426e1883]: Textual amendment: Word in s. 15(1) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(a)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/a/i)
 
-[^key-a0babbdbfd4652d832b8bfb7ed8c14d9]: Textual amendment: Word in s. 15(1)(b) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(a)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/a/ii)
+[^c-a0babbdbfd4652d832b8bfb7ed8c14d9]: Textual amendment: Word in s. 15(1)(b) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(a)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/a/ii)
 
-[^key-6ee0abc9f8dba6788245bcc806f2dc81]: Textual amendment: Words in s. 15(1) omitted (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(a)(iii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/a/iii)
+[^c-6ee0abc9f8dba6788245bcc806f2dc81]: Textual amendment: Words in s. 15(1) omitted (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(a)(iii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/a/iii)
 
-[^key-a368ca6fbb8e13c0c1b5855b49395962]: Textual amendment: S. 15(2A)(2B) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(b)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/b)
+[^c-a368ca6fbb8e13c0c1b5855b49395962]: Textual amendment: S. 15(2A)(2B) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(b)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/b)
 
-[^key-719e747e1063546d9393bccc7071a03a]: Textual amendment: Word in s. 15(5) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/c)
+[^c-719e747e1063546d9393bccc7071a03a]: Textual amendment: Word in s. 15(5) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [19(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/19/c)
 
 [^c1021754]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
 [^c1021755]: Textual amendment: S. 16(1A)(1B) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [20(a)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/20/a) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/17/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-7bb4ec38e8410a00f43df6b71f56ac7e]: Modification: S. 16(2)(3) applied (with modifications) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/3)
+[^c-7bb4ec38e8410a00f43df6b71f56ac7e]: Modification: S. 16(2)(3) applied (with modifications) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/3)
 
 [^c1021757]: Textual amendment: S. 16(2A)(2B) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [20(b)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/20/b) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/17/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
 [^c1021758]: Textual amendment: S. 16(3)-(3B) substituted (E.) (8.1.2003) for s. 16(3) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [20(c)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/20/c) (which substitution is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 17(c)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/17/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-c94afe04ae51b31398038b0fe6a1ba12]: Modification: S. 16(4)-(6) applied (with modifications) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/3)
+[^c-c94afe04ae51b31398038b0fe6a1ba12]: Modification: S. 16(4)-(6) applied (with modifications) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/3)
 
 [^c1021756]: Modification: S. 16(2)(3)(4)-(6) applied (with modifications) (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [27(3)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/27/3)
 
@@ -1861,21 +1861,21 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021767]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
-[^key-2db516fbd6b99a6e7c6a997332be67d8]: Modification: S. 16 modified (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(6)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/6)
+[^c-2db516fbd6b99a6e7c6a997332be67d8]: Modification: S. 16 modified (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(6)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/6)
 
-[^key-1b14870a621b13ea45f0e11be271530b]: Textual amendment: S. 16(1A)(1B) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/a)
+[^c-1b14870a621b13ea45f0e11be271530b]: Textual amendment: S. 16(1A)(1B) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/a)
 
-[^key-7ce8c519096c07e0c23d10a2de6a468c]: Textual amendment: S. 16(2A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(b)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/b)
+[^c-7ce8c519096c07e0c23d10a2de6a468c]: Textual amendment: S. 16(2A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(b)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/b)
 
-[^key-509c51469c5b2e4dece97bab31f04737]: Modification: S. 16(2)-(6) applied (with modifications) (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(3)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/3)
+[^c-509c51469c5b2e4dece97bab31f04737]: Modification: S. 16(2)-(6) applied (with modifications) (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(3)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/3)
 
-[^key-aa07d1ba045912ef9eb6dc29e7893896]: Textual amendment: S. 16(3)-(3B) substituted (S.) (1.4.2003) for s. 16(3) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/c)
+[^c-aa07d1ba045912ef9eb6dc29e7893896]: Textual amendment: S. 16(3)-(3B) substituted (S.) (1.4.2003) for s. 16(3) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/c)
 
-[^key-b414db3b8d61591a403bee87e3e44e30]: Textual amendment: S. 16(4A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/d)
+[^c-b414db3b8d61591a403bee87e3e44e30]: Textual amendment: S. 16(4A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/d)
 
-[^key-6e8975b519f2be9f23303f963975e4dc]: Textual amendment: Words in s. 16(6) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(e)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/e/i)
+[^c-6e8975b519f2be9f23303f963975e4dc]: Textual amendment: Words in s. 16(6) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(e)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/e/i)
 
-[^key-669effd2b7813c23473784346b5c1af9]: Textual amendment: Words in s. 16(6) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(e)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/e/ii)
+[^c-669effd2b7813c23473784346b5c1af9]: Textual amendment: Words in s. 16(6) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [20(e)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/20/e/ii)
 
 [^M_E_d169e329-fe16-41ed-e137-ae8fc649a7ef]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
@@ -1883,7 +1883,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^M_E_b890901d-459f-415c-e2e0-0dc71e44be90]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
-[^key-02b75b7c47b27a5671f27e15077c6622]: Textual amendment: Ss. 16A-16G inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2003/174/regulation/21)
+[^c-02b75b7c47b27a5671f27e15077c6622]: Textual amendment: Ss. 16A-16G inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2003/174/regulation/21)
 
 [^M_E_1f7a5bed-4c0e-4e5d-c42a-2e67f10012f2]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
@@ -1893,13 +1893,13 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021772]: Modification: S. 16C restricted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/28/3)(which insertion is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-2433c8dfa1bb7debc2da00268971b680]: Modification: S. 16C restricted (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2003/992/regulation/4/3)
+[^c-2433c8dfa1bb7debc2da00268971b680]: Modification: S. 16C restricted (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2003/992/regulation/4/3)
 
 [^M_E_6b8f01da-ad5f-40f2-953a-36e2a4e32e76]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
 [^c1021771]: Textual amendment: S. 16C inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [21](https://www.legislation.gov.uk/uksi/2002/3080/regulation/21) (which insertion is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-b788d0d5600256651386727d646e9203]: Modification: S. 16C restricted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [28(3)](https://www.legislation.gov.uk/ssi/2003/174/regulation/28/3)
+[^c-b788d0d5600256651386727d646e9203]: Modification: S. 16C restricted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [28(3)](https://www.legislation.gov.uk/ssi/2003/174/regulation/28/3)
 
 [^M_E_aaa62aa1-9ac5-460d-cef0-ce633234d767]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
@@ -1927,7 +1927,7 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^M_E_2fb08b73-7c07-4eef-cfa4-b1158d8b6f89]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 
-[^key-e384740a2b2b39bce715a6c2243638e7]: Modification: S. 17 ceases to have effect (E.) (8.1.2003) by virtue of [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [22](https://www.legislation.gov.uk/uksi/2002/3080/regulation/22) (which amendment is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/19) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2003/174/regulation/22)
+[^c-e384740a2b2b39bce715a6c2243638e7]: Modification: S. 17 ceases to have effect (E.) (8.1.2003) by virtue of [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [22](https://www.legislation.gov.uk/uksi/2002/3080/regulation/22) (which amendment is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/19) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by virtue of [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2003/174/regulation/22)
 
 [^c1021779]: Extent: This version of this provision extends to England and Wales; a separate version have been created for Scotland only
 
@@ -1935,21 +1935,21 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021781]: Modification: S. 18(1)(b)(c)(2)(3)(5)(7) applied (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [27(4)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/27/4)
 
-[^key-58bc6bc80eef49b8d77e0e801e34baa8]: Modification: S. 18(1)(b)(c) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
+[^c-58bc6bc80eef49b8d77e0e801e34baa8]: Modification: S. 18(1)(b)(c) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
 
-[^key-6a0ae23573abf253e2f9699b5c38de9f]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1981/37/section/18/1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 258](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/258), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-6a0ae23573abf253e2f9699b5c38de9f]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/1981/37/section/18/1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 258](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/258), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-a9fa9a4cee23c690cdd44fce8e58bc0f]: Modification: S. 18(2)(3) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
+[^c-a9fa9a4cee23c690cdd44fce8e58bc0f]: Modification: S. 18(2)(3) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
 
 [^c1021784]: Textual amendment: Words in s. 18(2) substituted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [23(b)(i)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/23/b/i) (which substitution is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/20/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
 [^c1021785]: Textual amendment: Words in s. 18(2) substituted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [23(b)(ii)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/23/b/ii) (which substitution is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/20/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
-[^key-9ed05f478460034d6429b0ecc48ec4ae]: Modification: S. 18(5) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
+[^c-9ed05f478460034d6429b0ecc48ec4ae]: Modification: S. 18(5) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
 
 [^c1021788]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-024006ad569c8687672e4b44d9c9660a]: Modification: S. 18(7) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
+[^c-024006ad569c8687672e4b44d9c9660a]: Modification: S. 18(7) applied (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/992/regulation/3/4)
 
 [^c1021790]: Textual amendment: S. 18(7A) inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [23(c)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/23/c) (which insertion is extended (W.) (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 20(c)](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/20/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4)))
 
@@ -1957,21 +1957,21 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021792]: Extent: This version of this provision extends to Scotland only; a separate version have been created for England and Wales
 
-[^key-bf482bb940ead8692231b85faedfba99]: Textual amendment: S. 18(1) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/a)
+[^c-bf482bb940ead8692231b85faedfba99]: Textual amendment: S. 18(1) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/a)
 
-[^key-11b9b06a042e8293ce937537bf29a940]: Modification: S. 18(2)(4) applied (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(4)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/4)
+[^c-11b9b06a042e8293ce937537bf29a940]: Modification: S. 18(2)(4) applied (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(4)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/4)
 
-[^key-c1a2a82cca4fb5eb4d196b26a220c061]: Textual amendment: Words in s. 18(2) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(b)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/b/i)
+[^c-c1a2a82cca4fb5eb4d196b26a220c061]: Textual amendment: Words in s. 18(2) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(b)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/b/i)
 
-[^key-f804924e7c354adbaee0eb153d32028b]: Textual amendment: Words in s. 18(2) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(b)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/b/ii)
+[^c-f804924e7c354adbaee0eb153d32028b]: Textual amendment: Words in s. 18(2) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(b)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/b/ii)
 
 [^c1021793]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-a9ea6e0789fc0d40abaa82a56cbc91db]: Modification: S. 18(6)(7) applied (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(4)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/4)
+[^c-a9ea6e0789fc0d40abaa82a56cbc91db]: Modification: S. 18(6)(7) applied (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [27(4)](https://www.legislation.gov.uk/ssi/2003/174/regulation/27/4)
 
-[^key-b99f9842033f6562fb1f2d1efcacd811]: Textual amendment: S. 18(7A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/c)
+[^c-b99f9842033f6562fb1f2d1efcacd811]: Textual amendment: S. 18(7A) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(c)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/c)
 
-[^key-60a7fbab254028e62f925c30eb2b2b6e]: Textual amendment: S. 18(8)-(10) substituted (S.) (1.4.2003) for s. 18(8)(9) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/d)
+[^c-60a7fbab254028e62f925c30eb2b2b6e]: Textual amendment: S. 18(8)-(10) substituted (S.) (1.4.2003) for s. 18(8)(9) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [23(d)](https://www.legislation.gov.uk/ssi/2003/174/regulation/23/d)
 
 [^c1021798]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
@@ -1987,27 +1987,27 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021804]: Extent: This version of this provision extends to Scotland only; a separate versions has been created for England and Wales only
 
-[^key-b5bb35839b6450168e8a8bbb2b1066a4]: Textual amendment: S. 19(3A)-(3G) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/24/a)
+[^c-b5bb35839b6450168e8a8bbb2b1066a4]: Textual amendment: S. 19(3A)-(3G) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2003/174/regulation/24/a)
 
 [^c1021805]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-e7e44b673f24cbd7d076fa64a604bfff]: Textual amendment: Words in s. 19(4) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [24(b)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/24/b/i)
+[^c-e7e44b673f24cbd7d076fa64a604bfff]: Textual amendment: Words in s. 19(4) substituted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [24(b)(i)](https://www.legislation.gov.uk/ssi/2003/174/regulation/24/b/i)
 
 [^c1021806]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-02ed1ab63e10e9a2563278c1d1555b43]: Textual amendment: Words in s. 19(4) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [24(b)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/24/b/ii)
+[^c-02ed1ab63e10e9a2563278c1d1555b43]: Textual amendment: Words in s. 19(4) inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [24(b)(ii)](https://www.legislation.gov.uk/ssi/2003/174/regulation/24/b/ii)
 
-[^key-e82bba318d3bf25aedb50d96741c3e58]: Modification: S. 19A amendment by SI 2002/3080 reg. 25 extended to W. (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/22) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))
+[^c-e82bba318d3bf25aedb50d96741c3e58]: Modification: S. 19A amendment by SI 2002/3080 reg. 25 extended to W. (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/22) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))
 
 [^c1021810]: Textual amendment: S. 19A inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [25](https://www.legislation.gov.uk/uksi/2002/3080/regulation/25)
 
-[^key-3ec325b380dc5ca47578a654d73738da]: Textual amendment: S. 19A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [25](https://www.legislation.gov.uk/ssi/2003/174/regulation/25)
+[^c-3ec325b380dc5ca47578a654d73738da]: Textual amendment: S. 19A inserted (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [25](https://www.legislation.gov.uk/ssi/2003/174/regulation/25)
 
-[^key-b58acdf91d0d36ca55625e85c12ec762]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/ukpga/1981/37/section/19B) inserted (S.) (23.6.2006) by [The Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/367/article/2)
+[^c-b58acdf91d0d36ca55625e85c12ec762]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/ukpga/1981/37/section/19B) inserted (S.) (23.6.2006) by [The Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/367/article/2)
 
-[^key-67be843444c7eb948292b63b1da839f2]: Textual amendment: S. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-67be843444c7eb948292b63b1da839f2]: Textual amendment: S. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
-[^key-4c4ac2775ad113deb472914e5d7120a1]: Textual amendment: Words in s. 21 substituted (S.) (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 1 para. 4(3)](https://www.legislation.gov.uk/ssi/2022/195/schedule/1/paragraph/4/3)
+[^c-4c4ac2775ad113deb472914e5d7120a1]: Textual amendment: Words in s. 21 substituted (S.) (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 1 para. 4(3)](https://www.legislation.gov.uk/ssi/2022/195/schedule/1/paragraph/4/3)
 
 [^M_F_227ed28f-18ac-4e5e-a0e2-851ad8540b01]: Textual amendment: S. 21(1): definition of “zoo closure direction” inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2), [26](https://www.legislation.gov.uk/uksi/2002/3080/regulation/26) (which insertion is extended (W.) (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2003/992/schedule/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2003/992/regulation/4))); and (S.) (1.4.2003) by [The Zoo Licensing Act 1981 Amendment (Scotland) Regulations 2003 (S.S.I. 2003/174)](https://www.legislation.gov.uk/ssi/2003/174), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/174/regulation/1/1), [26](https://www.legislation.gov.uk/ssi/2003/174/regulation/26)
 
@@ -2017,12 +2017,12 @@ This subsection is subject to any regulations which may be made under section 2(
 
 [^c1021817]: Modification: The text of s. 22(1)(*a*)(*b*) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-734101c9f4de59f5ed660bbe30ee76ea]: Textual amendment: S. 22(1)(b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-734101c9f4de59f5ed660bbe30ee76ea]: Textual amendment: S. 22(1)(b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c1021819]: Textual amendment: S. 22A inserted (E.) (8.1.2003) by [S.I. 2002/3080](https://www.legislation.gov.uk/uksi/2002/3080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3080/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2002/3080/regulation/2)
 
-[^key-fed40b20916f36c6063bea809fd15448]: Modification: S. 22A ceases to have effect (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1)
+[^c-fed40b20916f36c6063bea809fd15448]: Modification: S. 22A ceases to have effect (22.4.2003) by virtue of [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/uksi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/992/regulation/2/1)
 
-[^key-c9a27abd29f6770e0abb4bb08afdca22]: Textual amendment: S. 23(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-c9a27abd29f6770e0abb4bb08afdca22]: Textual amendment: S. 23(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c1021820]: Modification: Power of appointment conferred by s. 23(2) fully exercised: 30.4.1984 appointed by [S.I. 1984/423](https://www.legislation.gov.uk/uksi/1984/423)

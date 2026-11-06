@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 15 of the 1989 Act (modification of licences by order under enactments other than the 1989 Act) is amended as follows.
 
-(2)[^key-4352e967a1612a04d3cbaa28522528e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4352e967a1612a04d3cbaa28522528e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (2) there is inserted—
 
@@ -35,12 +35,12 @@ summary: ''
 >
 > (2C) Where at any time the Secretary of State modifies standard conditions under subsection (2B)(a) for the purposes of their incorporation in licences granted after that time, he shall publish those modifications in such manner as he considers appropriate.
 
-(4)[^key-4352e967a1612a04d3cbaa28522528e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4352e967a1612a04d3cbaa28522528e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4352e967a1612a04d3cbaa28522528e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4352e967a1612a04d3cbaa28522528e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1259026]: Commencement: S. 40 wholly in force at 1.10.2001; s. 40 not in force at Royal Assent see s. 110(2); s. 40 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-4352e967a1612a04d3cbaa28522528e1]: Textual amendment: S. 40(2) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-4352e967a1612a04d3cbaa28522528e1]: Textual amendment: S. 40(2) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))

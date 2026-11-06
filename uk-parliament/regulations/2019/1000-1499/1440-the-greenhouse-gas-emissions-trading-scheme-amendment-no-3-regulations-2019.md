@@ -50,13 +50,13 @@ In accordance with section 2(4) of the Pollution Prevention and Control Act 1999
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Secretary of State that it is expedient for the references to EU instruments in these Regulations to be construed as references to those instruments as amended from time to time.
 
-## 1. Citation and commencement[^key-eeaf4eaac73c09382408ca1fbb281496]
+## 1. Citation and commencement[^c-eeaf4eaac73c09382408ca1fbb281496]
 
 (1) These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 3) Regulations 2019 and come into force in accordance with paragraphs (2) to (4).
 
 (2) This regulation and regulations 3(2)(g) and (l), 4(4) and (5), 15(3), 18(3) to (5), 20, 24(3), 25 and 26 come into force 21 days after the day on which these Regulations are laid.
 
-(2A)[^key-2446fac144f4e7edcdab3dd5a8dee96d] Regulations 15(4) and 31(1) come into force on 1st February 2020.
+(2A)[^c-2446fac144f4e7edcdab3dd5a8dee96d] Regulations 15(4) and 31(1) come into force on 1st February 2020.
 
 (2B) The following regulations come into force on 1st February 2020—
 
@@ -67,17 +67,17 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (e) regulation 29(5)(b), which amends paragraph 3(1)(e) of Schedule 5 to the Greenhouse Gas Emissions Trading Scheme Regulations 2012, so far as required for the authority to be able to comply with paragraph 3(2) of that Schedule in relation to the allocation period;
 - (f) regulation 29(8), which amends paragraph 6 of Schedule 5 to the Greenhouse Gas Emissions Trading Scheme Regulations 2012, so far as required for the authority to be able to comply with sub-paragraph (8) of that paragraph (as amended) in relation to the allocation period.
 
-(3) Regulation 27, which substitutes regulation 88 of the Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c23931221] comes into force on 1st May 2020, to the extent that it relates to the making of arrangements under paragraph (6)[^key-295f96f7e3afbf35b317174f574efe73] of regulation 88 (as substituted), but otherwise comes into force on 1st January 2021.
+(3) Regulation 27, which substitutes regulation 88 of the Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c23931221] comes into force on 1st May 2020, to the extent that it relates to the making of arrangements under paragraph (6)[^c-295f96f7e3afbf35b317174f574efe73] of regulation 88 (as substituted), but otherwise comes into force on 1st January 2021.
 
 (4) The remainder of these Regulations come into force on 1st January 2021.
 
-(5)[^key-e00d1bf3890060288d10b2c3cb491b1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e00d1bf3890060288d10b2c3cb491b1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^key-cffa97c45f5b08ed59090e8b2118e2b6]
+## 2. Amendment of the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^c-cffa97c45f5b08ed59090e8b2118e2b6]
 
 These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 2012 in accordance with regulations 3 to 30.
 
-## 3. Amendment of regulation 3[^key-cd7628f49becc5380edb3ebbf07a6301]
+## 3. Amendment of regulation 3[^c-cd7628f49becc5380edb3ebbf07a6301]
 
 (1) Regulation 3 is amended as follows.
 
@@ -125,7 +125,7 @@ These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 
 
   ;
 - (f) omit the definition of “excluded installation emissions permit”;
-- (g)[^key-4789937cf64ab076fe15f370c89e8920] after the definition of “the Free Allocation Decision”, insert—
+- (g)[^c-4789937cf64ab076fe15f370c89e8920] after the definition of “the Free Allocation Decision”, insert—
 
   > “**the Free Allocation Regulation**” means Commission Delegated Regulation (EU) 2019/331 of 19 December 2018 determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) of the European Parliament and of the Council, as amended from time to time [^c23931251];
 
@@ -136,11 +136,11 @@ These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 
 
   ;
 - (i) in the definition of “permit”, in paragraph (b), for “excluded” substitute “ Article 27 ”;
-- (j)[^key-85e60c2929f2d478aaa70538dd897224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-85e60c2929f2d478aaa70538dd897224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) in the definition of “trading period”—
   - (i) in the words before paragraph (a), omit “eight-year”; and
   - (ii) in paragraph (b), for “eight” substitute “ ten ”;
-- (l)[^key-4789937cf64ab076fe15f370c89e8920] for the definition of “the Verification Regulation”, substitute—
+- (l)[^c-4789937cf64ab076fe15f370c89e8920] for the definition of “the Verification Regulation”, substitute—
 
   > “**the Verification Regulation 2018**” means Commission Implementing Regulation (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) of the European Parliament and of the Council, as amended from time to time [^c23931271];
 
@@ -158,31 +158,31 @@ These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 
 
     .
 
-## 4. Amendment of regulation 8[^key-5f38542cb97b061de4e38dd01e9a2ef7][^key-9d627a9870694f2c0d7a2a41b1672429]
+## 4. Amendment of regulation 8[^c-5f38542cb97b061de4e38dd01e9a2ef7][^c-9d627a9870694f2c0d7a2a41b1672429]
 
-(1)[^key-5f38542cb97b061de4e38dd01e9a2ef7] Regulation 8 is amended as follows.
+(1)[^c-5f38542cb97b061de4e38dd01e9a2ef7] Regulation 8 is amended as follows.
 
-(2)[^key-5f38542cb97b061de4e38dd01e9a2ef7] For paragraph (6) substitute—
+(2)[^c-5f38542cb97b061de4e38dd01e9a2ef7] For paragraph (6) substitute—
 
 > (6) The regulator is the competent authority designated by the United Kingdom for the purposes of the Monitoring and Reporting Regulation 2018.
 
 .
 
-(3)[^key-5f38542cb97b061de4e38dd01e9a2ef7] Omit paragraph (7).
+(3)[^c-5f38542cb97b061de4e38dd01e9a2ef7] Omit paragraph (7).
 
-(4)[^key-9d627a9870694f2c0d7a2a41b1672429] For paragraph (9) substitute—
+(4)[^c-9d627a9870694f2c0d7a2a41b1672429] For paragraph (9) substitute—
 
 > (9) The Environment Agency is designated as the focal point authorised by the United Kingdom for the purpose of Article 70(2) of the Verification Regulation 2018.
 
 .
 
-(5)[^key-9d627a9870694f2c0d7a2a41b1672429] After paragraph (9), insert—
+(5)[^c-9d627a9870694f2c0d7a2a41b1672429] After paragraph (9), insert—
 
 > (10) The regulator is the competent authority designated by the United Kingdom for the purposes of the Free Allocation Regulation.
 
 .
 
-## 5. Amendment of regulation 9[^key-7a8889362be8e77a6f79e90d6ee96771]
+## 5. Amendment of regulation 9[^c-7a8889362be8e77a6f79e90d6ee96771]
 
 (1) Regulation 9 is amended as follows.
 
@@ -194,7 +194,7 @@ These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 
 
 .
 
-## 6. Amendment of regulation 10[^key-103cd2de5d997ce37e458e0a321c54a2]
+## 6. Amendment of regulation 10[^c-103cd2de5d997ce37e458e0a321c54a2]
 
 (1) Regulation 10 is amended as follows.
 
@@ -210,7 +210,7 @@ These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 
 
 (5) In paragraph (7), for “excluded” substitute “ Article 27 ”.
 
-## 7. Amendment of regulation 11[^key-7d62b6ef3910b5ed063c29ebd8a03d6a]
+## 7. Amendment of regulation 11[^c-7d62b6ef3910b5ed063c29ebd8a03d6a]
 
 (1) Regulation 11 is amended as follows.
 
@@ -226,26 +226,26 @@ These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 
 - (a) in sub-paragraph (a), for “88(6)” substitute “ 88(2) or (4) ”;
 - (b) in sub-paragraph (b)(v), at the end, insert “ or 8(6A) ”.
 
-## 8. Amendment of regulation 12[^key-9efbb8cb48e62cdd69c0185dfc654a42]
+## 8. Amendment of regulation 12[^c-9efbb8cb48e62cdd69c0185dfc654a42]
 
 In regulation 12(4)(b)(ii), for “excluded installations” substitute “ Article 27 installation ”.
 
-## 9. Amendment of regulation 13[^key-3136beadc167f92bf992ed6cfcf78801]
+## 9. Amendment of regulation 13[^c-3136beadc167f92bf992ed6cfcf78801]
 
 In regulation 13(6)(a), for “excluded” substitute “ Article 27 ”.
 
-## 10. Amendment of regulation 14[^key-b485b9ee22bc49de164b0d1dac44b0a9]
+## 10. Amendment of regulation 14[^c-b485b9ee22bc49de164b0d1dac44b0a9]
 
 In regulation 14(1), for sub-paragraph (b) substitute—
 
 > - (b) must do so where—
->   - (i) the regulator becomes aware that the operator has failed to comply with regulation 13(1) and (2)[^key-f44d2760cf87a94d2ae7327440412d32];
+>   - (i) the regulator becomes aware that the operator has failed to comply with regulation 13(1) and (2)[^c-f44d2760cf87a94d2ae7327440412d32];
 >   - (ii) a greenhouse gas emissions permit is held by the operator of an Article 27a installation;
 >   - (iii) an Article 27 installation emissions permit is held by the operator of an Article 27a installation.
 
 .
 
-## 11. Amendment of regulation 15[^key-ef7a1aa820311d8ad11e2ad3c28047ce]
+## 11. Amendment of regulation 15[^c-ef7a1aa820311d8ad11e2ad3c28047ce]
 
 (1) Regulation 15 is amended as follows.
 
@@ -257,13 +257,13 @@ In regulation 14(1), for sub-paragraph (b) substitute—
 >
 > (B1) An installation's status as an Article 27 installation expires at the end of the particular allocation period in relation to which it has been excluded.
 >
-> (C1) Where an installation ceases to be an Article 27 installation at the end of the first allocation period in accordance with paragraph (B1) and approval is not deemed in accordance with paragraph (A1) in respect of the second allocation period, paragraph 8(6A)[^key-86cab27e0c402559a69b7ddc71249114] of Schedule 5 applies.
+> (C1) Where an installation ceases to be an Article 27 installation at the end of the first allocation period in accordance with paragraph (B1) and approval is not deemed in accordance with paragraph (A1) in respect of the second allocation period, paragraph 8(6A)[^c-86cab27e0c402559a69b7ddc71249114] of Schedule 5 applies.
 
 .
 
 (4) In paragraphs (1), (2) in the first place it occurs, (4)(a)(i) and (4)(b)(i), for “excluded” substitute “ Article 27 ”.
 
-## 12. Insertion of regulation 15A[^key-32381746b1a6c28591b294f037ea2268]
+## 12. Insertion of regulation 15A[^c-32381746b1a6c28591b294f037ea2268]
 
 After regulation 15, insert—
 
@@ -277,45 +277,45 @@ After regulation 15, insert—
 
 .
 
-## 13. Amendment of regulation 31[^key-2ffc1250b1b7a51cfd97392adcd2caac]
+## 13. Amendment of regulation 31[^c-2ffc1250b1b7a51cfd97392adcd2caac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 34[^key-2ffc1250b1b7a51cfd97392adcd2caac]
+## 14. Amendment of regulation 34[^c-2ffc1250b1b7a51cfd97392adcd2caac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of regulation 35[^key-2ffc1250b1b7a51cfd97392adcd2caac]
+## 15. Amendment of regulation 35[^c-2ffc1250b1b7a51cfd97392adcd2caac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of regulation 36[^key-2ffc1250b1b7a51cfd97392adcd2caac]
+## 16. Amendment of regulation 36[^c-2ffc1250b1b7a51cfd97392adcd2caac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of regulation 43[^key-7e181d1845aa3d7fb478d4c439ab030c]
+## 17. Amendment of regulation 43[^c-7e181d1845aa3d7fb478d4c439ab030c]
 
 In regulation 43(2)(b), after “Regulation”, insert “ 2018 ”.
 
-## 18. Amendment of regulation 44[^key-73d2b426a8a26c9734970d73b8e6bd07][^key-55e76dacf294212761071aeebf3693f7]
+## 18. Amendment of regulation 44[^c-73d2b426a8a26c9734970d73b8e6bd07][^c-55e76dacf294212761071aeebf3693f7]
 
-(1)[^key-73d2b426a8a26c9734970d73b8e6bd07] Regulation 44 is amended as follows.
+(1)[^c-73d2b426a8a26c9734970d73b8e6bd07] Regulation 44 is amended as follows.
 
-(2)[^key-73d2b426a8a26c9734970d73b8e6bd07] In paragraph (1)—
+(2)[^c-73d2b426a8a26c9734970d73b8e6bd07] In paragraph (1)—
 
 - (a) in the words before sub-paragraph (a), after “Regulation”, insert “ 2018 ”.
 - (b) after sub-paragraph (b), insert “ or ”;
 - (c) omit sub-paragraph (c).
 
-(3)[^key-55e76dacf294212761071aeebf3693f7] In paragraph (4)(b), before “is to be treated”, insert “ except where paragraph (5B) applies to that determination, ”.
+(3)[^c-55e76dacf294212761071aeebf3693f7] In paragraph (4)(b), before “is to be treated”, insert “ except where paragraph (5B) applies to that determination, ”.
 
-(4)[^key-55e76dacf294212761071aeebf3693f7] In paragraph (5)—
+(4)[^c-55e76dacf294212761071aeebf3693f7] In paragraph (5)—
 
 - (a) in the words before sub-paragraph (a), after “(4)”, insert “or under paragraph (5C)(a);
 - (b) in sub-paragraph (a), for “excluded” substitute “ Article 27 ”;
 - (c) in sub-paragraph (b), after “Regulation”, insert “ 2018 ”.
 
-(5)[^key-55e76dacf294212761071aeebf3693f7] After paragraph (5), insert—
+(5)[^c-55e76dacf294212761071aeebf3693f7] After paragraph (5), insert—
 
 > (5A) Paragraph (5B) applies where –
 >
@@ -338,17 +338,17 @@ In regulation 43(2)(b), after “Regulation”, insert “ 2018 ”.
 
 .
 
-(6)[^key-73d2b426a8a26c9734970d73b8e6bd07] In paragraph (6), after “Regulation”, insert “ 2018 ”.
+(6)[^c-73d2b426a8a26c9734970d73b8e6bd07] In paragraph (6), after “Regulation”, insert “ 2018 ”.
 
-## 19. Amendment of regulation 45[^key-1bcff8d3591b3d5903eff3d2102a526e]
+## 19. Amendment of regulation 45[^c-1bcff8d3591b3d5903eff3d2102a526e]
 
 In regulation 45(6)—
 
 - (a) at the end of sub-paragraph (b), after “Regulation”, insert “ 2018 ”;
 - (b) after sub-paragraph (d), omit “or”;
-- (c)[^key-05cfce28db4b5846dd1b1552e15bae4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-05cfce28db4b5846dd1b1552e15bae4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of regulation 54[^key-a1067b85cfebccf26a6c743cec6512b5]
+## 20. Amendment of regulation 54[^c-a1067b85cfebccf26a6c743cec6512b5]
 
 (1) Regulation 54 is amended as follows.
 
@@ -402,11 +402,11 @@ In regulation 45(6)—
 
 .
 
-## 21. Amendment of regulations 55 to 58[^key-2c28a876bf00484bccc2567e78526a2c]
+## 21. Amendment of regulations 55 to 58[^c-2c28a876bf00484bccc2567e78526a2c]
 
 In regulations 55 to 58 for “excluded”, in each place it occurs, including in the heading of each regulation, substitute “ Article 27 ”.
 
-## 22. Insertion of regulations 58ZA and 58ZB[^key-6e6abc716cb8e51e63286b5e4e83fd7f]
+## 22. Insertion of regulations 58ZA and 58ZB[^c-6e6abc716cb8e51e63286b5e4e83fd7f]
 
 After regulation 58, insert—
 
@@ -433,7 +433,7 @@ After regulation 58, insert—
 >
 > (3) In imposing the penalty under paragraph (2), the regulator may increase the amount determined under that sub-paragraph by a percentage designed to ensure that the penalty exceeds the amount of any economic benefit that P has obtained as a result of carrying out a regulated activity without the necessary permit.
 >
-> (4) The authority must exercise powers under [^key-dd75b65944a46122b7a0f8447ab4190e]... regulation 40[^key-94cd3b95efc388ed132138f5ef6fd1a3] of the Northern Ireland Regulations [^c23931341] to give the regulator directions as to—
+> (4) The authority must exercise powers under [^c-dd75b65944a46122b7a0f8447ab4190e]... regulation 40[^c-94cd3b95efc388ed132138f5ef6fd1a3] of the Northern Ireland Regulations [^c23931341] to give the regulator directions as to—
 >
 > - (a) the estimation by the regulator of A and B in paragraph (2); and
 > - (b) the exercise of the regulator's powers under paragraph (3).
@@ -441,27 +441,27 @@ After regulation 58, insert—
 > (5) In this regulation—
 >
 > - (a) “**maximum amount**” has the meaning given in paragraph 1(a) of Schedule 5A;
-> - (b) “**necessary permit**” means the Article 27 installation emissions[^key-c8f77221c801df36814b8731cdb453cc] permit or the greenhouse gas emissions permit which P would have been required to comply with under paragraph 5(3)[^key-788d8cff0749d07f6336482b16864135]... or (4) of Schedule 5A if P had not failed to notify the regulator under paragraph 4(1) of that Schedule;
+> - (b) “**necessary permit**” means the Article 27 installation emissions[^c-c8f77221c801df36814b8731cdb453cc] permit or the greenhouse gas emissions permit which P would have been required to comply with under paragraph 5(3)[^c-788d8cff0749d07f6336482b16864135]... or (4) of Schedule 5A if P had not failed to notify the regulator under paragraph 4(1) of that Schedule;
 > - (c) “**penalty year**” means any scheme year during which P would have been required to comply with the conditions of the necessary permit, if P had not failed to notify the regulator under paragraph 4(1) of Schedule 5A.
 
 .
 
-## 23. Amendment of regulations 58A and 58B[^key-2255cf2b737164bba50c11eb9cd7bb29]
+## 23. Amendment of regulations 58A and 58B[^c-2255cf2b737164bba50c11eb9cd7bb29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Amendment of regulation 80[^key-6cf85440f855dffabe3d9d14810f8782][^key-12aec29e6c88563d5cf1a825a529a774]
+## 24. Amendment of regulation 80[^c-6cf85440f855dffabe3d9d14810f8782][^c-12aec29e6c88563d5cf1a825a529a774]
 
-(1)[^key-6cf85440f855dffabe3d9d14810f8782] Regulation 80 is amended as follows.
+(1)[^c-6cf85440f855dffabe3d9d14810f8782] Regulation 80 is amended as follows.
 
-(2)[^key-4f37e0915ccfdd1e701074e45cad2654][^key-6cf85440f855dffabe3d9d14810f8782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4f37e0915ccfdd1e701074e45cad2654][^c-6cf85440f855dffabe3d9d14810f8782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-12aec29e6c88563d5cf1a825a529a774] In paragraph (15), in the words after sub-paragraph (b)—
+(3)[^c-12aec29e6c88563d5cf1a825a529a774] In paragraph (15), in the words after sub-paragraph (b)—
 
 - (a) after “where it is”, insert “ not ”;
 - (b) after “representative is”, omit “not”.
 
-## 25. Insertion of regulation 84A[^key-76c9e02a4743c61d0472ab10b4aa4fb5]
+## 25. Insertion of regulation 84A[^c-76c9e02a4743c61d0472ab10b4aa4fb5]
 
 After regulation 84, insert—
 
@@ -475,7 +475,7 @@ After regulation 84, insert—
 
 .
 
-## 26. Amendment of regulation 87B[^key-cc3b014904fb2332a1b452ed1115d6f4]
+## 26. Amendment of regulation 87B[^c-cc3b014904fb2332a1b452ed1115d6f4]
 
 (1) Regulation 87B [^c23931371] is amended as follows.
 
@@ -502,7 +502,7 @@ After regulation 84, insert—
 
   .
 
-## 27. Substitution of regulation 88[^key-a597b02ffa1faae1d6b22fdeaf15d78f][^key-d27ae91626bf570af46b64265cae8cc2]
+## 27. Substitution of regulation 88[^c-a597b02ffa1faae1d6b22fdeaf15d78f][^c-d27ae91626bf570af46b64265cae8cc2]
 
 For regulation 88 substitute—
 
@@ -532,11 +532,11 @@ For regulation 88 substitute—
 
 .
 
-## 28. Amendment of Schedule 4[^key-6b57c8a594b9064bfe7ec295b76b4ad9]
+## 28. Amendment of Schedule 4[^c-6b57c8a594b9064bfe7ec295b76b4ad9]
 
 In Schedule 4 [^c23931401], after “Monitoring and Reporting Regulation”, in each place it occurs, insert “ 2018 ”.
 
-## 29. Amendment of Schedule 5[^key-e9c8a682ddc5002e50d18c4cce11e129]
+## 29. Amendment of Schedule 5[^c-e9c8a682ddc5002e50d18c4cce11e129]
 
 (1) Schedule 5 is amended as follows.
 
@@ -552,7 +552,7 @@ In Schedule 4 [^c23931401], after “Monitoring and Reporting Regulation”, in 
 
 (5) In paragraph 3 [^c23931411]—
 
-- (a)[^M_I_87224f20-c75e-4ddd-f1ab-c3fec667486b][^key-c1a7cb165c0248fc7364610b1fd366b1] for “excluded”, in each place it occurs, including in the heading of that paragraph, substitute “ Article 27 ”;
+- (a)[^M_I_87224f20-c75e-4ddd-f1ab-c3fec667486b][^c-c1a7cb165c0248fc7364610b1fd366b1] for “excluded”, in each place it occurs, including in the heading of that paragraph, substitute “ Article 27 ”;
 - (b)[^M_I_87224f20-c75e-4ddd-f1ab-c3fec667486b] in sub-paragraph (1)(e), for “prior to 2021” substitute “ over the first or second allocation period, as the case may be ”;
 - (c) in sub-paragraph (3)—
   - (i) in the words before paragraph (a), after “subsequent scheme year”, insert “ over the allocation period to which the direction relates ”;
@@ -564,7 +564,7 @@ In Schedule 4 [^c23931401], after “Monitoring and Reporting Regulation”, in 
 - (d) in sub-paragraph (7), at the end, insert “ 2018 ”;
 - (e) in sub-paragraph (8), after “Monitoring and Reporting Regulation”, in each places it occurs, insert “ 2018 ”.
 
-(6)[^key-c83d75609c99a8bd5655aa98f65104c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c83d75609c99a8bd5655aa98f65104c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In paragraph 5, for “excluded” substitute “ Article 27 ”.
 
@@ -591,25 +591,25 @@ In Schedule 4 [^c23931401], after “Monitoring and Reporting Regulation”, in 
 - (f) in sub-paragraph (4)—
   - (i) after “sub-paragraph (1)”, insert “ or (2A) ”;
   - (ii) at the end, insert “ within the allocation period to which the application relates ”;
-- (g)[^key-f39d8b85337cd1f614b7c8f1052eb9e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-f39d8b85337cd1f614b7c8f1052eb9e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) in sub-paragraph (8)(a), after “sub-paragraph (1)”, insert “ or (2A) ”;
 - (i) in sub-paragraph (9)—
   - (i) for paragraphs (b) and (c) substitute—
 
     > - (b) “**installed capacity**” means—
-    >   - (i) for the purpose of calculating new emission targets for the first allocation period, the installation’s[^key-7ffaa36b399d5a41ec47f9f5280bba0e] installed capacity on 30th June 2019;
+    >   - (i) for the purpose of calculating new emission targets for the first allocation period, the installation’s[^c-7ffaa36b399d5a41ec47f9f5280bba0e] installed capacity on 30th June 2019;
     >   - (ii) for the purpose of calculating new emission targets for the second allocation period, the installation’s installed capacity on 30th June 2024;
     >   - (iii) in the case of an installation which has had a capacity increase either since 30th June 2019, or since 30th June 2024, as the case may be, the installed capacity of the installation following the last capacity increase;
-    > - (c)[^key-6aa76afddd978c02f00aef02f9cbae3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    > - (c)[^c-6aa76afddd978c02f00aef02f9cbae3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
     ;
   - (ii) omit paragraph (d).
 
 (9) In paragraph 7—
 
-- (a)[^key-b512b024ffbfccf6fe410dda3e45325c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b512b024ffbfccf6fe410dda3e45325c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (4), for “sub-paragraph (5)” substitute “ sub-paragraphs (5) and (8) ”;
-- (c)[^key-98ff29b4c00c696d1c6eb5603c49ada2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-98ff29b4c00c696d1c6eb5603c49ada2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in sub-paragraph (7), for “Where”, substitute “ Subject to paragraph (8), where ”;
 - (e) after sub-paragraph (7), insert—
 
@@ -629,15 +629,15 @@ In Schedule 4 [^c23931401], after “Monitoring and Reporting Regulation”, in 
 
 (11) Omit paragraph 9.
 
-## 30. Insertion of Schedule 5A[^key-ced5f1f7f43b99dc59f32db951948d38]
+## 30. Insertion of Schedule 5A[^c-ced5f1f7f43b99dc59f32db951948d38]
 
 After Schedule 5, insert the Schedule (Schedule 5A) set out in the Schedule to these Regulations.
 
 ## 31. Saving provisions
 
-(1)[^M_I_1a09dda0-ee46-4acb-b459-136b83835ab9] In relation to the verification of emissions occurring prior to 1st January 2019, references to “the Verification Regulation” in the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^key-aebfed6f9088f85485a61902b8504083] are to be treated as if the amendment made by regulation 3(2)(l) had not been made.
+(1)[^M_I_1a09dda0-ee46-4acb-b459-136b83835ab9] In relation to the verification of emissions occurring prior to 1st January 2019, references to “the Verification Regulation” in the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^c-aebfed6f9088f85485a61902b8504083] are to be treated as if the amendment made by regulation 3(2)(l) had not been made.
 
-(2)[^key-2357b27035b268706095cccc99a8eed2] Notwithstanding the amendments made to references to “the Monitoring and Reporting Regulation” by—
+(2)[^c-2357b27035b268706095cccc99a8eed2] Notwithstanding the amendments made to references to “the Monitoring and Reporting Regulation” by—
 
 - (a) regulation 3(2)(h);
 - (b) regulation 4(2);
@@ -660,7 +660,7 @@ Minister of State
 
 Department for Business, Energy and Industrial Strategy
 
-## SCHEDULE — Excluded installations: Article 27a installations[^key-44736bac937c2d2defc3f8cca38bf7e2]
+## SCHEDULE — Excluded installations: Article 27a installations[^c-44736bac937c2d2defc3f8cca38bf7e2]
 
 Regulation 30
 
@@ -711,9 +711,9 @@ Regulation 30
 > - (a) the installation will not be treated as an Article 27a installation; and
 > - (b) the operator will be required to comply with the conditions of the operator's preferred alternative permit for the remainder of the allocation period during which the notice is given.
 >
-> (3) Where the regulator has not received notification of the operator’s preferred alternative permit in accordance with paragraph 3[^key-f34dc42b777c8d859c57e2d4bd3fd2b9], the notice under sub-paragraph (1) must state that, from the beginning of the scheme year following the year in which the notice is given, until the end of the allocation period during which the notice is given, the operator will be required to comply with the conditions of a greenhouse gas emissions permit in respect of the installation.
+> (3) Where the regulator has not received notification of the operator’s preferred alternative permit in accordance with paragraph 3[^c-f34dc42b777c8d859c57e2d4bd3fd2b9], the notice under sub-paragraph (1) must state that, from the beginning of the scheme year following the year in which the notice is given, until the end of the allocation period during which the notice is given, the operator will be required to comply with the conditions of a greenhouse gas emissions permit in respect of the installation.
 >
-> (4) The operator of an Article 27a installation who has received a notice [^key-13776db76569cd8ab2092571ee15732a]... pursuant to sub-paragraph (1) may apply for—
+> (4) The operator of an Article 27a installation who has received a notice [^c-13776db76569cd8ab2092571ee15732a]... pursuant to sub-paragraph (1) may apply for—
 >
 > - (a) a greenhouse gas emissions permit, under regulation 10(1); or
 > - (b) an Article 27 installation emissions permit, under regulation 10(2),
@@ -760,19 +760,19 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c23931211]: Marginal citation: 1999 (c. 24); [section 2(4)](https://www.legislation.gov.uk/uksi/2019/1440/section/2/4) was amended by paragraph 395 of Schedule 2 to the Natural Resources Body for Wales (Functions) Order 2013 ([S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90)).
 
-[^key-eeaf4eaac73c09382408ca1fbb281496]: Commencement: Reg. 1 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-eeaf4eaac73c09382408ca1fbb281496]: Commencement: Reg. 1 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
-[^key-2446fac144f4e7edcdab3dd5a8dee96d]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2A)[(2B)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2B) inserted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/2)
+[^c-2446fac144f4e7edcdab3dd5a8dee96d]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2A)[(2B)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2B) inserted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/2)
 
 [^c23931221]: Marginal citation: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038); relevant amending instruments are [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90), 2013/3135, 2014/3125, 2015/1849, 2016/1154, 2017/1207 and 2018/306.
 
-[^key-295f96f7e3afbf35b317174f574efe73]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/3) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/3)
+[^c-295f96f7e3afbf35b317174f574efe73]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/3) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/3)
 
-[^key-e00d1bf3890060288d10b2c3cb491b1b]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/a)
+[^c-e00d1bf3890060288d10b2c3cb491b1b]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/a)
 
-[^key-cffa97c45f5b08ed59090e8b2118e2b6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1440/regulation/2) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-cffa97c45f5b08ed59090e8b2118e2b6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1440/regulation/2) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-cd7628f49becc5380edb3ebbf07a6301]: Commencement: Reg. 3(1)(2)(b)(c)(e)(f)(h)-(k)(m)(3) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-cd7628f49becc5380edb3ebbf07a6301]: Commencement: Reg. 3(1)(2)(b)(c)(e)(f)(h)-(k)(m)(3) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^M_I_d4e6b427-176e-4365-a9e8-2ba1c2438017]: Commencement: Reg. 3(2)(a) in force at 1.2.2020 for specified purposes , see [reg. 1(2B)(a)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2B/a)
 
@@ -784,85 +784,85 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^M_I_886b1145-9b56-4c94-c027-d6a3d884b735]: Commencement: Reg. 3(2)(d) in force at 1.1.2021 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-4789937cf64ab076fe15f370c89e8920]: Commencement: Reg. 3(2)(g)(l) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-4789937cf64ab076fe15f370c89e8920]: Commencement: Reg. 3(2)(g)(l) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
 [^c23931251]: Marginal citation: OJ L No 59, 27.02.2019, p. 8.
 
 [^c23931261]: Marginal citation: OJ L No 334, 31.12.2018, p. 1.
 
-[^key-85e60c2929f2d478aaa70538dd897224]: Textual amendment: [Reg. 3(2)(j)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/3/2/j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(b)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/b)
+[^c-85e60c2929f2d478aaa70538dd897224]: Textual amendment: [Reg. 3(2)(j)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/3/2/j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(b)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/b)
 
 [^c23931271]: Marginal citation: OJ L No 334, 31.12.2018, p. 94.
 
-[^key-5f38542cb97b061de4e38dd01e9a2ef7]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/4/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/4/3) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-5f38542cb97b061de4e38dd01e9a2ef7]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/4/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/4/3) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-9d627a9870694f2c0d7a2a41b1672429]: Commencement: Reg. 4(4)(5) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-9d627a9870694f2c0d7a2a41b1672429]: Commencement: Reg. 4(4)(5) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
-[^key-7a8889362be8e77a6f79e90d6ee96771]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1440/regulation/5) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-7a8889362be8e77a6f79e90d6ee96771]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1440/regulation/5) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-103cd2de5d997ce37e458e0a321c54a2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/1440/regulation/6) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-103cd2de5d997ce37e458e0a321c54a2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/1440/regulation/6) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-7d62b6ef3910b5ed063c29ebd8a03d6a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1440/regulation/7) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-7d62b6ef3910b5ed063c29ebd8a03d6a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1440/regulation/7) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-9efbb8cb48e62cdd69c0185dfc654a42]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/1440/regulation/8) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-9efbb8cb48e62cdd69c0185dfc654a42]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/1440/regulation/8) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-3136beadc167f92bf992ed6cfcf78801]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/1440/regulation/9) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-3136beadc167f92bf992ed6cfcf78801]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/1440/regulation/9) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-b485b9ee22bc49de164b0d1dac44b0a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/1440/regulation/10) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-b485b9ee22bc49de164b0d1dac44b0a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/1440/regulation/10) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-f44d2760cf87a94d2ae7327440412d32]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2019/1440/regulation/10) substituted (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(c)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/c)
+[^c-f44d2760cf87a94d2ae7327440412d32]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2019/1440/regulation/10) substituted (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(c)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/c)
 
-[^key-ef7a1aa820311d8ad11e2ad3c28047ce]: Commencement: Reg. 11(1)(2)(4) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-ef7a1aa820311d8ad11e2ad3c28047ce]: Commencement: Reg. 11(1)(2)(4) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^M_I_c7f887b2-6ef3-4bc9-89fc-7c6f2956dd82]: Commencement: Reg. 11(3) in force at 1.2.2020 for specified purposes and 1.1.2021 for all other purposes, see [reg. 1(2B)(c)(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2B/c/4)
 
-[^key-86cab27e0c402559a69b7ddc71249114]: Textual amendment: Words in reg. 11(3) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/12/2)
+[^c-86cab27e0c402559a69b7ddc71249114]: Textual amendment: Words in reg. 11(3) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/12/2)
 
-[^key-32381746b1a6c28591b294f037ea2268]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/1440/regulation/12) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-32381746b1a6c28591b294f037ea2268]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/1440/regulation/12) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^c23931281]: Marginal citation: [Article 27](https://www.legislation.gov.uk/uksi/2019/1440/article/27)a was inserted by Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 and amending Directive 2003/87/EC to enhance cost-effective emission reduction and low-carbon investments, and Decision (EU) 2015/1814 (OJ L No 76, 19.03.2018, p. 3).
 
-[^key-2ffc1250b1b7a51cfd97392adcd2caac]: Textual amendment: [Regs. 13-16](https://www.legislation.gov.uk/uksi/2019/1440/regulation/13) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(d)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/d)
+[^c-2ffc1250b1b7a51cfd97392adcd2caac]: Textual amendment: [Regs. 13-16](https://www.legislation.gov.uk/uksi/2019/1440/regulation/13) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(d)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/d)
 
-[^key-7e181d1845aa3d7fb478d4c439ab030c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/1440/regulation/17) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-7e181d1845aa3d7fb478d4c439ab030c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/1440/regulation/17) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-73d2b426a8a26c9734970d73b8e6bd07]: Commencement: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/18/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/18/2)[(6)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/18/6) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-73d2b426a8a26c9734970d73b8e6bd07]: Commencement: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/18/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/18/2)[(6)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/18/6) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-55e76dacf294212761071aeebf3693f7]: Commencement: Reg. 18(3)-(5) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-55e76dacf294212761071aeebf3693f7]: Commencement: Reg. 18(3)-(5) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
-[^key-1bcff8d3591b3d5903eff3d2102a526e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/1440/regulation/19) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-1bcff8d3591b3d5903eff3d2102a526e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/1440/regulation/19) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-05cfce28db4b5846dd1b1552e15bae4b]: Textual amendment: [Reg. 19(c)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/19/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(e)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/e)
+[^c-05cfce28db4b5846dd1b1552e15bae4b]: Textual amendment: [Reg. 19(c)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/19/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(e)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/e)
 
-[^key-a1067b85cfebccf26a6c743cec6512b5]: Commencement: Reg. 20 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-a1067b85cfebccf26a6c743cec6512b5]: Commencement: Reg. 20 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
-[^key-2c28a876bf00484bccc2567e78526a2c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/1440/regulation/21) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-2c28a876bf00484bccc2567e78526a2c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/1440/regulation/21) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-6e6abc716cb8e51e63286b5e4e83fd7f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-6e6abc716cb8e51e63286b5e4e83fd7f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-dd75b65944a46122b7a0f8447ab4190e]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(f)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/f)
+[^c-dd75b65944a46122b7a0f8447ab4190e]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(f)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/f)
 
-[^key-94cd3b95efc388ed132138f5ef6fd1a3]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/18/regulation/13/2/a)
+[^c-94cd3b95efc388ed132138f5ef6fd1a3]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/18/regulation/13/2/a)
 
 [^c23931341]: Marginal citation: Under section 57 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under Community law in respect of devolved matters, any function of the Secretary of State in relation to any matter continues to be exercisable as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972. And similarly, under paragraph 5 of Schedule 3 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions under section 2 of the 1999 Act so far as exercisable in relation to Wales (except in relation to offshore oil and gas exploration and exploitation), those functions continue to be exercisable by the Secretary of State in relation to Wales for such purposes.
 
-[^key-c8f77221c801df36814b8731cdb453cc]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) inserted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [13(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/18/regulation/13/2/b/i)
+[^c-c8f77221c801df36814b8731cdb453cc]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) inserted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [13(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/18/regulation/13/2/b/i)
 
-[^key-788d8cff0749d07f6336482b16864135]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) omitted (31.1.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/18/regulation/13/2/b/ii)
+[^c-788d8cff0749d07f6336482b16864135]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2019/1440/regulation/22) omitted (31.1.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/18/regulation/13/2/b/ii)
 
-[^key-2255cf2b737164bba50c11eb9cd7bb29]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/1440/regulation/23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(g)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/g)
+[^c-2255cf2b737164bba50c11eb9cd7bb29]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/1440/regulation/23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(g)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/g)
 
-[^key-6cf85440f855dffabe3d9d14810f8782]: Commencement: [Reg. 24(1)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/24/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/24/2) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-6cf85440f855dffabe3d9d14810f8782]: Commencement: [Reg. 24(1)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/24/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/24/2) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-12aec29e6c88563d5cf1a825a529a774]: Commencement: Reg. 24(3) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-12aec29e6c88563d5cf1a825a529a774]: Commencement: Reg. 24(3) in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
-[^key-4f37e0915ccfdd1e701074e45cad2654]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/24/2) omitted (31.1.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/14/2)
+[^c-4f37e0915ccfdd1e701074e45cad2654]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/24/2) omitted (31.1.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/14/2)
 
-[^key-76c9e02a4743c61d0472ab10b4aa4fb5]: Commencement: Reg. 25 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-76c9e02a4743c61d0472ab10b4aa4fb5]: Commencement: Reg. 25 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
 [^c23931361]: Marginal citation: [Paragraph 6](https://www.legislation.gov.uk/uksi/2019/1440/paragraph/6) was substituted by Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 and amending Directive 2003/87/EC to enhance cost-effective emission reduction and low-carbon investments, and Decision (EU) 2015/1814 (OJ L No 76, 19.03.2018, p. 3).
 
-[^key-cc3b014904fb2332a1b452ed1115d6f4]: Commencement: Reg. 26 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
+[^c-cc3b014904fb2332a1b452ed1115d6f4]: Commencement: Reg. 26 in force at 21.11.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2)
 
 [^c23931371]: Marginal citation: [Regulation 87B](https://www.legislation.gov.uk/uksi/2019/1440/regulation/87B) was inserted by [S.I. 2013/3135](https://www.legislation.gov.uk/uksi/2013/3135).
 
@@ -870,48 +870,48 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c23931391]: Marginal citation: [S.I. 2010/1996](https://www.legislation.gov.uk/uksi/2010/1996), revoked by [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038).
 
-[^key-a597b02ffa1faae1d6b22fdeaf15d78f]: Commencement: Reg. 27 in force at 1.5.2020 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/3)
+[^c-a597b02ffa1faae1d6b22fdeaf15d78f]: Commencement: Reg. 27 in force at 1.5.2020 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/3)
 
-[^key-d27ae91626bf570af46b64265cae8cc2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/1440/regulation/27) in force at 1.1.2021 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/3)
+[^c-d27ae91626bf570af46b64265cae8cc2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/1440/regulation/27) in force at 1.1.2021 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/3)
 
-[^key-6b57c8a594b9064bfe7ec295b76b4ad9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/1440/regulation/28) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-6b57c8a594b9064bfe7ec295b76b4ad9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/1440/regulation/28) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^c23931401]: Marginal citation: [Schedule 4](https://www.legislation.gov.uk/uksi/2019/1440/schedule/4) was amended by [S.I. 2013/3135](https://www.legislation.gov.uk/uksi/2013/3135), 2015/1849, 2016/1154 and 2017/1207.
 
-[^key-e9c8a682ddc5002e50d18c4cce11e129]: Commencement: Reg. 29(1)-(4)(5)(c)-(e)(6)(7)(9)-(11) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-e9c8a682ddc5002e50d18c4cce11e129]: Commencement: Reg. 29(1)-(4)(5)(c)-(e)(6)(7)(9)-(11) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^c23931411]: Marginal citation: Paragraph 3 was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90) and 2013/3135.
 
 [^M_I_87224f20-c75e-4ddd-f1ab-c3fec667486b]: Commencement: Reg. 29(5)(a)(b)(8) in force at 1.2.2020 for specified purposes, see [reg. 1(2B)(d)(e)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2B)
 
-[^key-c1a7cb165c0248fc7364610b1fd366b1]: Commencement: Reg. 29(5)(a)(b)(8) in force at 1.1.2021 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-c1a7cb165c0248fc7364610b1fd366b1]: Commencement: Reg. 29(5)(a)(b)(8) in force at 1.1.2021 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^c23931421]: Marginal citation: Paragraph 5 was substituted by Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 and amending Directive 2003/87/EC to enhance cost-effective emission reduction and low-carbon investments, and Decision (EU) 2015/1814 (OJ L No 76, 19.03.2018, p. 3).
 
-[^key-c83d75609c99a8bd5655aa98f65104c9]: Textual amendment: [Reg. 29(6)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(i)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/i)
+[^c-c83d75609c99a8bd5655aa98f65104c9]: Textual amendment: [Reg. 29(6)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(i)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/i)
 
 [^c23931431]: Marginal citation: Paragraph 6 was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
 
-[^key-f39d8b85337cd1f614b7c8f1052eb9e8]: Textual amendment: [Reg. 29(8)(g)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/8/g) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/ii)
+[^c-f39d8b85337cd1f614b7c8f1052eb9e8]: Textual amendment: [Reg. 29(8)(g)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/8/g) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/ii)
 
-[^key-7ffaa36b399d5a41ec47f9f5280bba0e]: Textual amendment: Word in [reg. 29(8)(i)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/8/i) substituted (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iii/aa)
+[^c-7ffaa36b399d5a41ec47f9f5280bba0e]: Textual amendment: Word in [reg. 29(8)(i)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/8/i) substituted (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iii/aa)
 
-[^key-6aa76afddd978c02f00aef02f9cbae3b]: Textual amendment: Words in [reg. 29(8)(i)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/8/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iii/bb)
+[^c-6aa76afddd978c02f00aef02f9cbae3b]: Textual amendment: Words in [reg. 29(8)(i)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/8/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iii/bb)
 
-[^key-b512b024ffbfccf6fe410dda3e45325c]: Textual amendment: [Reg. 29(9)(a)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/9/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iv)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iv)
+[^c-b512b024ffbfccf6fe410dda3e45325c]: Textual amendment: [Reg. 29(9)(a)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/9/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iv)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iv)
 
-[^key-98ff29b4c00c696d1c6eb5603c49ada2]: Textual amendment: [Reg. 29(9)(c)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/9/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iv)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iv)
+[^c-98ff29b4c00c696d1c6eb5603c49ada2]: Textual amendment: [Reg. 29(9)(c)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/29/9/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(h)(iv)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/h/iv)
 
-[^key-ced5f1f7f43b99dc59f32db951948d38]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/1440/regulation/30) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-ced5f1f7f43b99dc59f32db951948d38]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/1440/regulation/30) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
 [^M_I_1a09dda0-ee46-4acb-b459-136b83835ab9]: Commencement: Reg. 31(1) in force at 1.2.2020, see [reg. 1(2A)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/2A)
 
-[^key-aebfed6f9088f85485a61902b8504083]: Textual amendment: Words in reg. 31(1) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/15/2)
+[^c-aebfed6f9088f85485a61902b8504083]: Textual amendment: Words in reg. 31(1) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/15/2)
 
-[^key-2357b27035b268706095cccc99a8eed2]: Commencement: Reg. 31(2) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-2357b27035b268706095cccc99a8eed2]: Commencement: Reg. 31(2) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-44736bac937c2d2defc3f8cca38bf7e2]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2019/1440/schedule) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
+[^c-44736bac937c2d2defc3f8cca38bf7e2]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2019/1440/schedule) in force at 1.1.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4)
 
-[^key-f34dc42b777c8d859c57e2d4bd3fd2b9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/1440/schedule) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/16/2)
+[^c-f34dc42b777c8d859c57e2d4bd3fd2b9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/1440/schedule) substituted (31.1.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2020/18/regulation/16/2)
 
-[^key-13776db76569cd8ab2092571ee15732a]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2019/1440/schedule) omitted (31.1.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/18/regulation/16/3)
+[^c-13776db76569cd8ab2092571ee15732a]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2019/1440/schedule) omitted (31.1.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2020 (S.I. 2020/18)](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/18/regulation/16/3)

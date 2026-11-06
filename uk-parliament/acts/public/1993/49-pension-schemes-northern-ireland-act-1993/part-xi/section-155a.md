@@ -25,7 +25,7 @@ summary: ''
 (2) For the purposes of this section—
 
 - (a) a person shall be treated as having a right under a personal pension scheme where—
-  - (i) he is entitled to a credit under Article 26(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (sharing of rights on divorce etc. or on dissolution[^key-31d578ece7483b12d8117fd28b38200c] etc. of a civil partnership ),
+  - (i) he is entitled to a credit under Article 26(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (sharing of rights on divorce etc. or on dissolution[^c-31d578ece7483b12d8117fd28b38200c] etc. of a civil partnership ),
   - (ii) he is so entitled as against the person responsible for the scheme (within the meaning of Chapter I of Part V of that Order), and
   - (iii) the person so responsible has not discharged his liability in respect of the credit; and
 - (b) forfeiture shall be taken to include any manner of deprivation or suspension.
@@ -34,4 +34,4 @@ summary: ''
 
 [^c11730861]: Textual amendment: S. 155A inserted (1.12.1999 for certain purposes and otherwise*prosp.*) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(5)(a)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/5/a), [14(1)](https://www.legislation.gov.uk/nisi/1999/3147/article/14/1) (with transitional provisions in [art. 75(1)](https://www.legislation.gov.uk/nisi/1999/3147/article/75/1))
 
-[^key-31d578ece7483b12d8117fd28b38200c]: Textual amendment: Words in s. 155A(2)(a)(i) inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434)](https://www.legislation.gov.uk/nisr/2005/434), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/434/article/1/3), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2005/434/schedule/paragraph/18)
+[^c-31d578ece7483b12d8117fd28b38200c]: Textual amendment: Words in s. 155A(2)(a)(i) inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434)](https://www.legislation.gov.uk/nisr/2005/434), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/434/article/1/3), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2005/434/schedule/paragraph/18)

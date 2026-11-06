@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Application of local legislation, etc.[^key-33ea07e77f9a9c5f254cd406d652dc09]
+## 55. Application of local legislation, etc.[^c-33ea07e77f9a9c5f254cd406d652dc09]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-33ea07e77f9a9c5f254cd406d652dc09]: Commencement: Art. 55 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-33ea07e77f9a9c5f254cd406d652dc09]: Commencement: Art. 55 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00123]: Footnote: [1800 c. xxiii](https://www.legislation.gov.uk/ukla/1800/23).
 

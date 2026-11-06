@@ -34,7 +34,7 @@ Environmental Protection
 
 Water
 
-The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2013 (revoked)[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]
+The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2013 (revoked)[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]
 
 Made
 
@@ -48,30 +48,30 @@ Coming into force
 
 1st July 2013
 
-[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]
+## 1. Citation and commencement[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]
+## 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]
+## SCHEDULE[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]
 
 Regulation 2(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ad9ae660a5cea9e0bf354b9c3fdbc54]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/176) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7ad9ae660a5cea9e0bf354b9c3fdbc54]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/176) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

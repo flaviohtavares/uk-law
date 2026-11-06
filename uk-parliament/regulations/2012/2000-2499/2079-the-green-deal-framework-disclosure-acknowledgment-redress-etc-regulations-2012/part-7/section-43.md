@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Intended occupation under transactions or arrangements to be entered into[^key-d60c80f13cdbbbf15ed68e2950210397]
+## 43. Intended occupation under transactions or arrangements to be entered into[^c-d60c80f13cdbbbf15ed68e2950210397]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Regulation 44 applies in relation to a green deal property where—
 
 ## Annotations
 
-[^key-d60c80f13cdbbbf15ed68e2950210397]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2012/2079/regulation/43) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-d60c80f13cdbbbf15ed68e2950210397]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2012/2079/regulation/43) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

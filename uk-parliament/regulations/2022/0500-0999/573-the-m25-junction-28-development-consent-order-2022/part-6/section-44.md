@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Protection of interests[^key-7e4c3630ad05de8355e4a628e962329a]
+## 44. Protection of interests[^c-7e4c3630ad05de8355e4a628e962329a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-7e4c3630ad05de8355e4a628e962329a]: Commencement: Art. 44 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-7e4c3630ad05de8355e4a628e962329a]: Commencement: Art. 44 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

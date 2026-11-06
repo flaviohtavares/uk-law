@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Insertion of regulation 15A[^key-c1baed6f482df780c1077a4b139b137b]
+## 59. Insertion of regulation 15A[^c-c1baed6f482df780c1077a4b139b137b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In Part 2, after regulation 15 (revocation and saving)[^f00043], insert—
 
 ## Annotations
 
-[^key-c1baed6f482df780c1077a4b139b137b]: Commencement: Reg. 59 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c1baed6f482df780c1077a4b139b137b]: Commencement: Reg. 59 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00043]: Footnote: Regulation 16 was originally in Part 3 and was revoked by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

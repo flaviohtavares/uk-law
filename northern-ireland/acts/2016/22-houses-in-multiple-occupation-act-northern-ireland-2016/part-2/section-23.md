@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Revocation of licences[^key-aa672eff8d92956f7bfb48ddfa278946]
+## 23. Revocation of licences[^c-aa672eff8d92956f7bfb48ddfa278946]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa672eff8d92956f7bfb48ddfa278946]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2016/22/section/23) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-aa672eff8d92956f7bfb48ddfa278946]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2016/22/section/23) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

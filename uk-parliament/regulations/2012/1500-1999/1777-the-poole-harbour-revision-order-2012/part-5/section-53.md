@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Development, etc., of land[^key-31b5156e91e2d37d4fdb1a123cade76a]
+## 53. Development, etc., of land[^c-31b5156e91e2d37d4fdb1a123cade76a]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b5156e91e2d37d4fdb1a123cade76a]: Commencement: Art. 53 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-31b5156e91e2d37d4fdb1a123cade76a]: Commencement: Art. 53 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

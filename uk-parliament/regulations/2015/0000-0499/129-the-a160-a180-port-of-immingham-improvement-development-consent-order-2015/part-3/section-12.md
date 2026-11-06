@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Permanent stopping up and restriction of use of streets[^key-511accbfa7240c82aa79c7210c7840c2]
+## 12. Permanent stopping up and restriction of use of streets[^c-511accbfa7240c82aa79c7210c7840c2]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-511accbfa7240c82aa79c7210c7840c2]: Commencement: Art. 12 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-511accbfa7240c82aa79c7210c7840c2]: Commencement: Art. 12 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

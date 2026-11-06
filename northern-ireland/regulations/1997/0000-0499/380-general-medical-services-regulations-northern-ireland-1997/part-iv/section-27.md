@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Obtaining child health surveillance services[^key-c0df3068ba428a483d34b7e865a608ea]
+## 27. Obtaining child health surveillance services[^c-c0df3068ba428a483d34b7e865a608ea]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ for the provision of child health surveillance services in respect of that child
 
 ## Annotations
 
-[^key-c0df3068ba428a483d34b7e865a608ea]: Commencement: Reg. 27 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-c0df3068ba428a483d34b7e865a608ea]: Commencement: Reg. 27 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

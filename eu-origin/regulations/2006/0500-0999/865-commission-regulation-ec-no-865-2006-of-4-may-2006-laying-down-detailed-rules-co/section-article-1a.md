@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 1a. References to importation etc.[^key-50617d99d82819dec86185dc6a32519e]
+## Article 1a. References to importation etc.[^c-50617d99d82819dec86185dc6a32519e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In this Regulation—
 
 ## Annotations
 
-[^key-50617d99d82819dec86185dc6a32519e]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eur/2006/865/article/1a) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/3)
+[^c-50617d99d82819dec86185dc6a32519e]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eur/2006/865/article/1a) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/3)

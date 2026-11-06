@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.23. Appeal hearing[^key-5efedfe1fe6d170fa39b8f9a3e89a8ff]
+## 50.23. Appeal hearing[^c-5efedfe1fe6d170fa39b8f9a3e89a8ff]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5efedfe1fe6d170fa39b8f9a3e89a8ff]: Textual amendment: Rule 50.23 substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/15)
+[^c-5efedfe1fe6d170fa39b8f9a3e89a8ff]: Textual amendment: Rule 50.23 substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/15)

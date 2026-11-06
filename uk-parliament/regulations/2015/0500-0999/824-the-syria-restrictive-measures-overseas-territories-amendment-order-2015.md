@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Syria (Restrictive Measures) (Overseas Territories) (Amendment) Order 2015 (revoked)[^key-c645e0241dac283dd6a32131df5bd47b]
+The Syria (Restrictive Measures) (Overseas Territories) (Amendment) Order 2015 (revoked)[^c-c645e0241dac283dd6a32131df5bd47b]
 
 Made
 
@@ -52,40 +52,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c645e0241dac283dd6a32131df5bd47b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c645e0241dac283dd6a32131df5bd47b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-c645e0241dac283dd6a32131df5bd47b]
+## 1. Citation, commencement, interpretation and extent[^c-c645e0241dac283dd6a32131df5bd47b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Order[^key-c645e0241dac283dd6a32131df5bd47b]
+## 2. Amendments to the principal Order[^c-c645e0241dac283dd6a32131df5bd47b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c645e0241dac283dd6a32131df5bd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c645e0241dac283dd6a32131df5bd47b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c645e0241dac283dd6a32131df5bd47b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c645e0241dac283dd6a32131df5bd47b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c645e0241dac283dd6a32131df5bd47b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c645e0241dac283dd6a32131df5bd47b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/824) revoked (31.12.2020 immediately after S.I. 2020/590, S.I. 2020/591, S.I. 2020/950, S.I. 2020/951, S.I. 2020/1289 and S.I. 2020/1397 have come into force) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1604/article/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1604/schedule/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-c645e0241dac283dd6a32131df5bd47b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/824) revoked (31.12.2020 immediately after S.I. 2020/590, S.I. 2020/591, S.I. 2020/950, S.I. 2020/951, S.I. 2020/1289 and S.I. 2020/1397 have come into force) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1604/article/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1604/schedule/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)

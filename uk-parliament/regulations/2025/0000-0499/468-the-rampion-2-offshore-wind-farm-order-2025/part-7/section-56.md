@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Compensation measures[^key-adafc0460d1020ae925ce26447c655c0]
+## 56. Compensation measures[^c-adafc0460d1020ae925ce26447c655c0]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Signed by authority of the Secretary of State for Energy Security and Net Zero
 
 ## Annotations
 
-[^key-adafc0460d1020ae925ce26447c655c0]: Commencement: Art. 56 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-adafc0460d1020ae925ce26447c655c0]: Commencement: Art. 56 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

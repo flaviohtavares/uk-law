@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Release from duty to submit statement of affairs; extension of time[^key-bee3f494173471b7a3f28915b76cde25]
+## 30. Release from duty to submit statement of affairs; extension of time[^c-bee3f494173471b7a3f28915b76cde25]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.36 of the 1986 Rules[^f00016]. For “official receiver” substitu
 
 ## Annotations
 
-[^key-bee3f494173471b7a3f28915b76cde25]: Commencement: Rule 30 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bee3f494173471b7a3f28915b76cde25]: Commencement: Rule 30 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00016]: Footnote: Paragraph (7) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

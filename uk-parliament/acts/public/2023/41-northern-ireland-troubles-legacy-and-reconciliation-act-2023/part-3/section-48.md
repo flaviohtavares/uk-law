@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Prisoner release[^key-8ca93fd69c874e1609b34eaa8159dc48]
+## 48. Prisoner release[^c-8ca93fd69c874e1609b34eaa8159dc48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 12 makes provision about prisoner release under the Northern Ireland (S
 
 ## Annotations
 
-[^key-8ca93fd69c874e1609b34eaa8159dc48]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/41/section/48) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-8ca93fd69c874e1609b34eaa8159dc48]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/41/section/48) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

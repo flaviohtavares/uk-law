@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Frivolous objections and representations and appeals: liability for costs etc.[^key-ebea4d10d34bfd05ede61f16584b184b]
+## 16. Frivolous objections and representations and appeals: liability for costs etc.[^c-ebea4d10d34bfd05ede61f16584b184b]
 
 *Extent: E+W*
 
@@ -35,19 +35,19 @@ summary: ''
 - (a) the costs of the proceedings before the Registrar General, and
 - (b) damages recoverable by the proposed civil partner to whom the objection or representation relates.
 
-(3A)[^key-affa0afc38e36d906589211f3a4f25e1] If—
+(3A)[^c-affa0afc38e36d906589211f3a4f25e1] If—
 
 - (a) in reliance on section 14A, a registration authority refuses to issue a civil partnership schedule, and
 - (b) on an appeal against the refusal, the Registrar General declares that the appeal is frivolous,
 
 the person making the appeal is liable for the costs of the proceedings before the Registrar General.
 
-(4) For the purpose of enabling any person to recover any costs and damages in accordance with subsection (3) or (3A)[^key-4a403741ef2e74249df5c5ede2f920ac], a copy of a declaration of the Registrar General purporting to be sealed with the seal of the General Register Office is evidence that the Registrar General has made the declaration.
+(4) For the purpose of enabling any person to recover any costs and damages in accordance with subsection (3) or (3A)[^c-4a403741ef2e74249df5c5ede2f920ac], a copy of a declaration of the Registrar General purporting to be sealed with the seal of the General Register Office is evidence that the Registrar General has made the declaration.
 
 ## Annotations
 
-[^key-ebea4d10d34bfd05ede61f16584b184b]: Textual amendment: Words in s. 16 title inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(4)(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/4/a) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-ebea4d10d34bfd05ede61f16584b184b]: Textual amendment: Words in s. 16 title inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(4)(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/4/a) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-affa0afc38e36d906589211f3a4f25e1]: Textual amendment: S. 16(3A) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(4)(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/4/b) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-affa0afc38e36d906589211f3a4f25e1]: Textual amendment: S. 16(3A) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(4)(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/4/b) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-4a403741ef2e74249df5c5ede2f920ac]: Textual amendment: Words in s. 16(4) substituted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(4)(c)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/4/c) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-4a403741ef2e74249df5c5ede2f920ac]: Textual amendment: Words in s. 16(4) substituted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(4)(c)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/4/c) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

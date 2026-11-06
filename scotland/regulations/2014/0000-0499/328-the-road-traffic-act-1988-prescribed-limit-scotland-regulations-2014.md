@@ -46,11 +46,11 @@ Representative organisations have been consulted in accordance with section 195(
 
 In accordance with section 195(4A) of that Act[^f00003], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-02331da549451535efe0c79f704bca9e]
+## 1. Citation and commencement[^c-02331da549451535efe0c79f704bca9e]
 
 These Regulations may be cited as the Road Traffic Act 1988 (Prescribed Limit) (Scotland) Regulations 2014 and come into force on 5th December 2014.
 
-## 2. Prescription of proportion of alcohol[^key-3fe4e4970bb278baa7d8be6e8ac1ff41]
+## 2. Prescription of proportion of alcohol[^c-3fe4e4970bb278baa7d8be6e8ac1ff41]
 
 For the purpose of the definition of “the prescribed limit” in section 11(2) of The Road Traffic Act 1988, the prescribed proportion in relation to driving or attempting to drive, or being in charge of a vehicle, in Scotland, is—
 
@@ -58,7 +58,7 @@ For the purpose of the definition of “the prescribed limit” in section 11(2)
 - (b) 50 milligrammes of alcohol in 100 millilitres of blood; or
 - (c) 67 milligrammes of alcohol in 100 millilitres of urine.
 
-## 3. Proportion of alcohol for replacement of breath specimen[^key-1d320cbd6bf7b860c2d8e48c1aefd35c]
+## 3. Proportion of alcohol for replacement of breath specimen[^c-1d320cbd6bf7b860c2d8e48c1aefd35c]
 
 (1) In section 8(2) of the Road Traffic Act 1988, for “50 microgrammes of alcohol in 100 millilitres of breath” substitute “31 microgrammes of alcohol in 100 millilitres of breath”.
 
@@ -88,8 +88,8 @@ These Regulations relate to the limits on the proportion of alcohol present in t
 
 [^f00003]: Footnote: Section 195(4A) was inserted by the 2012 Act, section 20. The requirements of the affirmative procedure are specified in the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), section 29.
 
-[^key-02331da549451535efe0c79f704bca9e]: Commencement: Reg. 1 in force at 5.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/328/regulation/1)
+[^c-02331da549451535efe0c79f704bca9e]: Commencement: Reg. 1 in force at 5.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/328/regulation/1)
 
-[^key-3fe4e4970bb278baa7d8be6e8ac1ff41]: Commencement: Reg. 2 in force at 5.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/328/regulation/1)
+[^c-3fe4e4970bb278baa7d8be6e8ac1ff41]: Commencement: Reg. 2 in force at 5.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/328/regulation/1)
 
-[^key-1d320cbd6bf7b860c2d8e48c1aefd35c]: Commencement: Reg. 3 in force at 5.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/328/regulation/1)
+[^c-1d320cbd6bf7b860c2d8e48c1aefd35c]: Commencement: Reg. 3 in force at 5.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/328/regulation/1)

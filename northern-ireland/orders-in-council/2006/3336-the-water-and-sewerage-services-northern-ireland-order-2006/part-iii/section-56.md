@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Council may investigate any matter (not being a matter which it is its duty to investigate under this Part) which appears to it to be a matter relating to the interests of consumers.
 
-(2) Where the Council has investigated a matter under this Article it may make a report on that matter to the Authority, the Department, the CMA[^key-946b5cb722b6a1df70d23a7070a15eec] or any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
+(2) Where the Council has investigated a matter under this Article it may make a report on that matter to the Authority, the Department, the CMA[^c-946b5cb722b6a1df70d23a7070a15eec] or any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
 
 (3) Subject to Article 57, the Council may—
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c20592011]: Commencement: Art. 56 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-946b5cb722b6a1df70d23a7070a15eec]: Textual amendment: Word in [art. 56(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/56/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 253(9)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/253/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-946b5cb722b6a1df70d23a7070a15eec]: Textual amendment: Word in [art. 56(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/56/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 253(9)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/253/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

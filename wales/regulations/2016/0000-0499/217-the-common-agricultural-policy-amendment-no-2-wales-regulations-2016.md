@@ -49,7 +49,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.
 
-## 1. Title, application and commencement[^key-bb515fa3d60c95d1ddda502be17ba62a]
+## 1. Title, application and commencement[^c-bb515fa3d60c95d1ddda502be17ba62a]
 
 (1) The title of these Regulations is the Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016.
 
@@ -57,7 +57,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) These Regulations come into force on 18 March 2016.
 
-## 2. Amendment to the Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^key-ffd1e428d92f3b525b0efa8d90e267fb]
+## 2. Amendment to the Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^c-ffd1e428d92f3b525b0efa8d90e267fb]
 
 (1) The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^f00003] are amended as follows.
 
@@ -86,7 +86,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (5) Part 2 of the Schedule is revoked.
 
-## 3. Amendment to the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-0eaca358c594aab7e18dcd1aa7cc20ac]
+## 3. Amendment to the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-0eaca358c594aab7e18dcd1aa7cc20ac]
 
 (1) The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^f00004] are amended as follows.
 
@@ -106,7 +106,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 >
 > - “off-site” (“*oddi ar y safle*”) means any area beyond the boundary of a field on a holding, including another field that is part of the same holding.
 
-## 4. Revocation[^key-13e750014df9f8aab6ecd69deacad28d]
+## 4. Revocation[^c-13e750014df9f8aab6ecd69deacad28d]
 
 The Common Agricultural Policy (Amendment) (Wales) Regulations 2016[^f00005] are revoked.
 
@@ -140,16 +140,16 @@ The Regulatory Impact Assessment applicable to these Regulations is obtainable f
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
 
-[^key-bb515fa3d60c95d1ddda502be17ba62a]: Commencement: Reg. 1 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
+[^c-bb515fa3d60c95d1ddda502be17ba62a]: Commencement: Reg. 1 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
 
-[^key-ffd1e428d92f3b525b0efa8d90e267fb]: Commencement: Reg. 2 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
+[^c-ffd1e428d92f3b525b0efa8d90e267fb]: Commencement: Reg. 2 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2015/1252 (W. 84)](https://www.legislation.gov.uk/wsi/2015/1252).
 
-[^key-0eaca358c594aab7e18dcd1aa7cc20ac]: Commencement: Reg. 3 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
+[^c-0eaca358c594aab7e18dcd1aa7cc20ac]: Commencement: Reg. 3 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
 
 [^f00004]: Footnote: [S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223).
 
-[^key-13e750014df9f8aab6ecd69deacad28d]: Commencement: Reg. 4 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
+[^c-13e750014df9f8aab6ecd69deacad28d]: Commencement: Reg. 4 in force at 18.3.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/217/regulation/1/3)
 
 [^f00005]: Footnote: [S.I. 2016/131 (W. 64)](https://www.legislation.gov.uk/wsi/2016/131).

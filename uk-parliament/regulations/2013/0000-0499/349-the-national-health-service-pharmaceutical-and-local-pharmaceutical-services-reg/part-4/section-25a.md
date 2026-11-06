@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Transitional provision: distance selling premises applications for new inclusions made before 23rd June 2025[^key-afcbb9386fb32cc7783e57fd1afe6419]
+## 25A. Transitional provision: distance selling premises applications for new inclusions made before 23rd June 2025[^c-afcbb9386fb32cc7783e57fd1afe6419]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the case of an application made before 23rd June 2025 to which regulation 25(
 
 ## Annotations
 
-[^key-afcbb9386fb32cc7783e57fd1afe6419]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2013/349/regulation/25A) inserted (E.) (23.6.2025) by [The National Health Service (Charges, Remission of Charges and Pharmaceutical Services etc.) (Amendment and Transitional Provisions) Regulations 2025 (S.I. 2025/636)](https://www.legislation.gov.uk/uksi/2025/636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/636/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/636/regulation/8)
+[^c-afcbb9386fb32cc7783e57fd1afe6419]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2013/349/regulation/25A) inserted (E.) (23.6.2025) by [The National Health Service (Charges, Remission of Charges and Pharmaceutical Services etc.) (Amendment and Transitional Provisions) Regulations 2025 (S.I. 2025/636)](https://www.legislation.gov.uk/uksi/2025/636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/636/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/636/regulation/8)

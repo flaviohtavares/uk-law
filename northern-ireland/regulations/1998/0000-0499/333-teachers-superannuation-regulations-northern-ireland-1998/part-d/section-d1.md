@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## D1. Reckonable service generally[^key-ef119832f336d4691a21bd8b3ed9beb3]
+## D1. Reckonable service generally[^c-ef119832f336d4691a21bd8b3ed9beb3]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ where—
 
 ## Annotations
 
-[^key-ef119832f336d4691a21bd8b3ed9beb3]: Commencement: Reg. D1 in operation at 2.11.1998, see reg. A1
+[^c-ef119832f336d4691a21bd8b3ed9beb3]: Commencement: Reg. D1 in operation at 2.11.1998, see reg. A1

@@ -35,16 +35,16 @@ accepting on behalf of the Community the recommendation of 5 June 1962 of the Cu
 
 (89/339/EEC) (revoked)
 
-[^key-f9145c5e793272413808ed01823faccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9145c5e793272413808ed01823faccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f9145c5e793272413808ed01823faccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f9145c5e793272413808ed01823faccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f9145c5e793272413808ed01823faccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f9145c5e793272413808ed01823faccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9145c5e793272413808ed01823faccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9145c5e793272413808ed01823faccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9145c5e793272413808ed01823faccd]: Textual amendment: Decision revoked (E.W.S.) (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-f9145c5e793272413808ed01823faccd]: Textual amendment: Decision revoked (E.W.S.) (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

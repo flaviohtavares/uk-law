@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Power of disposal, agreements for operation, etc.[^key-99e71f146245ef10e7b1775ade7c3e24]
+## 59. Power of disposal, agreements for operation, etc.[^c-99e71f146245ef10e7b1775ade7c3e24]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99e71f146245ef10e7b1775ade7c3e24]: Commencement: Art. 59 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-99e71f146245ef10e7b1775ade7c3e24]: Commencement: Art. 59 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

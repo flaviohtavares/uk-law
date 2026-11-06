@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Attendants on trailers and certain other vehicles[^key-eb1f2b7cb845bc44c53fafcb5703db47]
+## 91. Attendants on trailers and certain other vehicles[^c-eb1f2b7cb845bc44c53fafcb5703db47]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1f2b7cb845bc44c53fafcb5703db47]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/1986/1078/regulation/91) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-eb1f2b7cb845bc44c53fafcb5703db47]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/1986/1078/regulation/91) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

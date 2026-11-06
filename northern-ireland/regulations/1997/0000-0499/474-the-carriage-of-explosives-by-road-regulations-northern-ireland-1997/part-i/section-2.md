@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-426c9bd3e56aef8494e088f1925a63f7]
+## 2. Interpretation[^c-426c9bd3e56aef8494e088f1925a63f7]
 
 *Extent: N.I.*
 
@@ -122,7 +122,7 @@ summary: ''
 
 ## Annotations
 
-[^key-426c9bd3e56aef8494e088f1925a63f7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/474/regulation/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-426c9bd3e56aef8494e088f1925a63f7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/474/regulation/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1989 No. 299](https://www.legislation.gov.uk/nisr/1989/299), to which there are amendments not relevant to these Regulations
 

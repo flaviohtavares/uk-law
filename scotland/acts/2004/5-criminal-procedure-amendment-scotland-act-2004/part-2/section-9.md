@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Procedure where trial diet does not proceed[^key-acebbc93ae822469468aabec37de957e]
+## 9. Procedure where trial diet does not proceed[^c-acebbc93ae822469468aabec37de957e]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ For section 81 (procedure where trial diet does not proceed) of the 1995 Act sub
 > - (a) shall have regard to the state of preparation of the prosecutor and the accused with respect to their cases and, in particular, to the likelihood of the case being ready to proceed to trial on the date to be appointed for the trial diet; and
 > - (b) may, if it appears to the court that there are any preliminary pleas, preliminary issues or other matters which require to be, or could with advantage be, disposed of or ascertained before the trial diet, appoint a diet to be held before the trial diet for the purpose of disposing of or, as the case may be, ascertaining them.
 >
-> (4) Subsection (5) below applies where, in any proceedings on indictment in which a trial diet has been appointed or the accused has been cited to a trial diet in the sheriff court[^key-ec765b1ce78c1b5da27b373ba8af8cb7]—
+> (4) Subsection (5) below applies where, in any proceedings on indictment in which a trial diet has been appointed or the accused has been cited to a trial diet in the sheriff court[^c-ec765b1ce78c1b5da27b373ba8af8cb7]—
 >
 > - (a) the diet has been deserted *pro loco et tempore* for any reason and no further trial diet has been appointed under subsection (2) above; or
 > - (b) the indictment falls or is for any other reason not brought to trial and the diet has not been continued, adjourned or postponed.
@@ -69,6 +69,6 @@ For section 81 (procedure where trial diet does not proceed) of the 1995 Act sub
 
 ## Annotations
 
-[^key-acebbc93ae822469468aabec37de957e]: Commencement: S. 9 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-acebbc93ae822469468aabec37de957e]: Commencement: S. 9 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-ec765b1ce78c1b5da27b373ba8af8cb7]: Textual amendment: Words in s. 9 inserted (31.1.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (Incidental, Supplemental and Consequential Provisions) Order 2005 (S.S.I. 2005/40)](https://www.legislation.gov.uk/ssi/2005/40), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2005/40/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2005/40/article/3/2)
+[^c-ec765b1ce78c1b5da27b373ba8af8cb7]: Textual amendment: Words in s. 9 inserted (31.1.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (Incidental, Supplemental and Consequential Provisions) Order 2005 (S.S.I. 2005/40)](https://www.legislation.gov.uk/ssi/2005/40), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2005/40/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2005/40/article/3/2)

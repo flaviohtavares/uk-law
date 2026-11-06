@@ -32,8 +32,8 @@ summary: ''
 - (b) section 446E(6) of ITEPA 2003, and
 - (c) the amount of any non-commercial increase (as defined in section 446K(4) of ITEPA 2003) in the market value of the restricted shares after their acquisition.
 
-(5)[^key-ec2e8754b00fb446ca392e9108dce75e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ec2e8754b00fb446ca392e9108dce75e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec2e8754b00fb446ca392e9108dce75e]: Textual amendment: S. 1026(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)
+[^c-ec2e8754b00fb446ca392e9108dce75e]: Textual amendment: S. 1026(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)

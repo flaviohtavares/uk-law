@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Exercise of functions of local planning authority relating to applications[^c22542951][^key-0acd80d52fbfc6b96240ad7d26cafc50]
+## 39. Exercise of functions of local planning authority relating to applications[^c22542951][^c-0acd80d52fbfc6b96240ad7d26cafc50]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 (2) In section 316 of TCPA 1990 (land of interested planning authorities and development by them), in subsection (3), after “notwithstanding” insert “ any provision made by or under sections 319ZA to 319ZC or ”.
 
-(3)[^key-cea5199b9e383f06461423855a8344e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cea5199b9e383f06461423855a8344e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 37 of the Planning (Hazardous Substances) Act 1990 (c. 10) (application of certain general provisions of principal Act), in subsection (2), before the entry relating to section 320, insert— “ sections 319ZA to 319ZD (Wales: discharge of functions of local planning authority relating to applications) ”.
 
@@ -80,6 +80,6 @@ summary: ''
 
 [^c22542951]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2015/4/section/39) partly in force; [s. 39](https://www.legislation.gov.uk/anaw/2015/4/section/39) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-0acd80d52fbfc6b96240ad7d26cafc50]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2015/4/section/39) in force at 5.5.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/546/article/3/a)
+[^c-0acd80d52fbfc6b96240ad7d26cafc50]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2015/4/section/39) in force at 5.5.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/546/article/3/a)
 
-[^key-cea5199b9e383f06461423855a8344e9]: Textual amendment: [S. 39(3)](https://www.legislation.gov.uk/anaw/2015/4/section/39/3) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 190](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/190) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-cea5199b9e383f06461423855a8344e9]: Textual amendment: [S. 39(3)](https://www.legislation.gov.uk/anaw/2015/4/section/39/3) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 190](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/190) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

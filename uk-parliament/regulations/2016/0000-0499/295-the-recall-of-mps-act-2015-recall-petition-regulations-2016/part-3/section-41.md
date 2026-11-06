@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Decisions on signing sheets[^key-cd3d1c18e8480d75e400e1552e47d7a7]
+## 41. Decisions on signing sheets[^c-cd3d1c18e8480d75e400e1552e47d7a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The decision of the petition officer on any question arising in respect of any s
 
 ## Annotations
 
-[^key-cd3d1c18e8480d75e400e1552e47d7a7]: Commencement: Reg. 41 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-cd3d1c18e8480d75e400e1552e47d7a7]: Commencement: Reg. 41 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

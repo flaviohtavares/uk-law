@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Certification of plans and documents, etc.[^key-664a087a2c1803b2ff6f710708c15ec9]
+## 36. Certification of plans and documents, etc.[^c-664a087a2c1803b2ff6f710708c15ec9]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ the reference in the plan or document concerned must be construed for the purpos
 
 ## Annotations
 
-[^key-664a087a2c1803b2ff6f710708c15ec9]: Commencement: Art. 36 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-664a087a2c1803b2ff6f710708c15ec9]: Commencement: Art. 36 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

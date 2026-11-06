@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 180. Administrator’s duties on vacating office[^key-33bb946f907964ee5314930bb8fe5a68]
+## 180. Administrator’s duties on vacating office[^c-33bb946f907964ee5314930bb8fe5a68]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33bb946f907964ee5314930bb8fe5a68]: Commencement: [Rule 180](https://www.legislation.gov.uk/nisr/2026/11/rule/180) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-33bb946f907964ee5314930bb8fe5a68]: Commencement: [Rule 180](https://www.legislation.gov.uk/nisr/2026/11/rule/180) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

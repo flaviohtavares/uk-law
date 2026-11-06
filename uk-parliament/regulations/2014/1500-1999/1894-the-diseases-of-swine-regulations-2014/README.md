@@ -128,28 +128,28 @@ The Secretary of State, in relation to England and Scotland, and the Welsh Minis
 - [Section 26 — Premises straddling a protection or a surveillance zone](part-6/section-26.md)
 - [Section 27 — Publicity of declared zones](part-6/section-27.md)
 
-### Part 6A — Area controls in England following confirmation of African swine fever in pigs in Great Britain[^key-2db1384982de3a661bd5c58a54bf0b23]
+### Part 6A — Area controls in England following confirmation of African swine fever in pigs in Great Britain[^c-2db1384982de3a661bd5c58a54bf0b23]
 
 - [Section 27A — Restricted Zones](part-6a/section-27a.md)
 - [Section 27B — Determination of size of Restricted Zones](part-6a/section-27b.md)
 - [Section 27C — Removal of Restricted Zones](part-6a/section-27c.md)
 
-### Part 6B — Area controls following confirmation of swine vesicular disease in pigs in England[^key-2db1384982de3a661bd5c58a54bf0b23]
+### Part 6B — Area controls following confirmation of swine vesicular disease in pigs in England[^c-2db1384982de3a661bd5c58a54bf0b23]
 
 - [Section 27D — Area controls following confirmation of swine vesicular disease in pigs in England](part-6b/section-27d.md)
 
-### Part 6C — Inspections and related requirements in controlled zones[^key-2db1384982de3a661bd5c58a54bf0b23]
+### Part 6C — Inspections and related requirements in controlled zones[^c-2db1384982de3a661bd5c58a54bf0b23]
 
 - [Section 27E — Inspections and related requirements in controlled zones](part-6c/section-27e.md)
 
-### Part 6D — Tracing of pigs and pig products from areas subsequently declared to be controlled zones[^key-2db1384982de3a661bd5c58a54bf0b23]
+### Part 6D — Tracing of pigs and pig products from areas subsequently declared to be controlled zones[^c-2db1384982de3a661bd5c58a54bf0b23]
 
 - [Section 27F — Meaning of “controlled zone tracing period”](part-6d/section-27f.md)
 - [Section 27G — Tracing of pigs kept on premises during an unregulated period of infection and related pig products](part-6d/section-27g.md)
 - [Section 27H — Tracing of pigs kept on premises during a controlled zone tracing period and related pig products](part-6d/section-27h.md)
 - [Section 27I — Disposal of pig products that have been traced in England](part-6d/section-27i.md)
 
-### Part 6E — General restrictions on movement of pigs and pig products in England[^key-2db1384982de3a661bd5c58a54bf0b23]
+### Part 6E — General restrictions on movement of pigs and pig products in England[^c-2db1384982de3a661bd5c58a54bf0b23]
 
 - [Section 27J — General restriction on movement of feral pigs in England](part-6e/section-27j.md)
 - [Section 27K — General restriction on the movement of domestic pigs and pig products in England to prevent the spread of African swine fever](part-6e/section-27k.md)
@@ -163,11 +163,11 @@ The Secretary of State, in relation to England and Scotland, and the Welsh Minis
 - [Section 30 — Pigs vaccinated against classical swine fever or African swine fever](part-7/section-30.md)
 - [Section 31 — Compulsory vaccination and controls for pigs vaccinated against swine vesicular disease](part-7/section-31.md)
 
-### Part 7A — Designation of premises etc. in England[^key-2e34b9a818969462be2cf1bbff55271b]
+### Part 7A — Designation of premises etc. in England[^c-2e34b9a818969462be2cf1bbff55271b]
 
 - [Section 31A — Designation of premises and approved animal by-products plants in England](part-7a/section-31a.md)
 
-### Part 7B — Cleansing and disinfection of premises etc. in England[^key-2e34b9a818969462be2cf1bbff55271b]
+### Part 7B — Cleansing and disinfection of premises etc. in England[^c-2e34b9a818969462be2cf1bbff55271b]
 
 *Extent: E+W*
 
@@ -265,6 +265,6 @@ An impact assessment has not been produced for this instrument as no negative im
 
 [^f00006]: Footnote: Paragraph 1A was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) and amended by the European Union (Amendment) Act 2008, Part 1 of the Schedule, and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-2db1384982de3a661bd5c58a54bf0b23]: Textual amendment: [Pts. 6A-6E](https://www.legislation.gov.uk/uksi/2014/1894/part/6A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(25)](https://www.legislation.gov.uk/uksi/2026/475/article/3/25)
+[^c-2db1384982de3a661bd5c58a54bf0b23]: Textual amendment: [Pts. 6A-6E](https://www.legislation.gov.uk/uksi/2014/1894/part/6A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(25)](https://www.legislation.gov.uk/uksi/2026/475/article/3/25)
 
-[^key-2e34b9a818969462be2cf1bbff55271b]: Textual amendment: [Pts. 7A](https://www.legislation.gov.uk/uksi/2014/1894/part/7A), [7B](https://www.legislation.gov.uk/uksi/2014/1894/part/7B) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(30)](https://www.legislation.gov.uk/uksi/2026/475/article/3/30)
+[^c-2e34b9a818969462be2cf1bbff55271b]: Textual amendment: [Pts. 7A](https://www.legislation.gov.uk/uksi/2014/1894/part/7A), [7B](https://www.legislation.gov.uk/uksi/2014/1894/part/7B) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(30)](https://www.legislation.gov.uk/uksi/2026/475/article/3/30)

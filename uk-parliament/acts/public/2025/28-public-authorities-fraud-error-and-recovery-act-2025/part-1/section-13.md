@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Penalties etc[^key-fc62a057e894e714396bdb3785f891b1][^key-9a6acfeb915c533eab33ba905162fe19]
+## 13. Penalties etc[^c-fc62a057e894e714396bdb3785f891b1][^c-9a6acfeb915c533eab33ba905162fe19]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc62a057e894e714396bdb3785f891b1]: Commencement: S. 13 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-fc62a057e894e714396bdb3785f891b1]: Commencement: S. 13 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9a6acfeb915c533eab33ba905162fe19]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/28/section/13) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-9a6acfeb915c533eab33ba905162fe19]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/28/section/13) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

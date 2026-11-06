@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Judicial review and other legal proceedings[^key-ab3b3908a7d4beca1158ba50ee81bfbb]
+## 8. Judicial review and other legal proceedings[^c-ab3b3908a7d4beca1158ba50ee81bfbb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab3b3908a7d4beca1158ba50ee81bfbb]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2011/1/section/8) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-ab3b3908a7d4beca1158ba50ee81bfbb]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2011/1/section/8) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

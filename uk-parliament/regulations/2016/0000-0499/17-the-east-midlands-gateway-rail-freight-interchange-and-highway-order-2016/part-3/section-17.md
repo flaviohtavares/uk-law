@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Speed limits[^key-b5a323ba10eee71d5281a811e27e1ccf]
+## 17. Speed limits[^c-b5a323ba10eee71d5281a811e27e1ccf]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ as any other speed limit imposed by an order under that Act.
 
 ## Annotations
 
-[^key-b5a323ba10eee71d5281a811e27e1ccf]: Commencement: Art. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-b5a323ba10eee71d5281a811e27e1ccf]: Commencement: Art. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00024]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).

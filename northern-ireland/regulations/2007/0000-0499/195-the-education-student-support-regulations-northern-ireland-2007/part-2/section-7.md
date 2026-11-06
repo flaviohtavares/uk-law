@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Period of eligibility[^key-b61c3404d2e81871fdac68b9d8ba28db]
+## 7. Period of eligibility[^c-b61c3404d2e81871fdac68b9d8ba28db]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) The period of eligibility terminates when the eligible student—
 
-- (a) withdraws from his designated course in circumstances where the Department has not transferred or converted or will not transfer or convert his status as an eligible student under regulation 8 , regulation 107M, regulation 107N[^key-528de77a577542b99cbac46d6cceab5a], 120 or 121; or
+- (a) withdraws from his designated course in circumstances where the Department has not transferred or converted or will not transfer or convert his status as an eligible student under regulation 8 , regulation 107M, regulation 107N[^c-528de77a577542b99cbac46d6cceab5a], 120 or 121; or
 - (b) abandons or is expelled from his designated course.
 
 (5) The Department may terminate the period of eligibility where the eligible student has shown himself by his conduct to be unfitted to receive support.
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b61c3404d2e81871fdac68b9d8ba28db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/195/regulation/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-b61c3404d2e81871fdac68b9d8ba28db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/195/regulation/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-528de77a577542b99cbac46d6cceab5a]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/7/4/a) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [7](https://www.legislation.gov.uk/nisr/2007/363/regulation/7)
+[^c-528de77a577542b99cbac46d6cceab5a]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/7/4/a) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [7](https://www.legislation.gov.uk/nisr/2007/363/regulation/7)

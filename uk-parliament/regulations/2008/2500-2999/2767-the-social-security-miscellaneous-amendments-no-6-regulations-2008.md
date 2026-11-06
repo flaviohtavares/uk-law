@@ -53,7 +53,7 @@ The Social Security Advisory Committee has agreed that the proposals in respect 
 
 In respect of the provisions in these Regulations relating to housing benefit and council tax benefit, the Secretary of State has consulted the organisations appearing to him to be representative of the authorities concerned[^f00006].
 
-## 1. Citation, commencement and interpretation[^key-2112f13c9cb51617b588c14ba14b2669]
+## 1. Citation, commencement and interpretation[^c-2112f13c9cb51617b588c14ba14b2669]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) (No.6) Regulations 2008.
 
@@ -61,7 +61,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 (3) Regulations 7(7) and 8(7) shall come into force on 6th April 2009.
 
-## 2. Amendment of the Income Support (General) Regulations 1987[^key-733349b5777f60f7ac952b8f78b538f3]
+## 2. Amendment of the Income Support (General) Regulations 1987[^c-733349b5777f60f7ac952b8f78b538f3]
 
 (1) The Income Support (General) Regulations 1987[^f00007] are amended as follows.
 
@@ -149,14 +149,14 @@ for “Funds” substitute “Fund (2006)”.
 - (a) in paragraph 3(11)(c)(i)(bb)[^f00039] (circumstances in which a person is to be treated as occupying a dwelling as his home) for “section 9 of Criminal Justice and Court Services Act 2000”[^f00040] substitute “section 13 of the Offender Management Act 2007[^f00041]”;
 - (b) in paragraphs 4(10)(b) (housing costs not met) for “children” substitute “persons” and for “who belong to the same family as the claimant” substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”;
 - (c) in paragraph 14(3) (linking rule) after “that section” insert “or under the Enterprise and New Towns (Scotland) Act 1990[^f00042]”;
-- (d) in paragraph[^key-a11a62c3ec16164f7a52b05109ac9189] 16(2)(l) (loans for repairs and improvements to the dwelling occupied as the home) for “children” substitute “persons” and for “who are part of the same family as the claimant” substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”;
+- (d) in paragraph[^c-a11a62c3ec16164f7a52b05109ac9189] 16(2)(l) (loans for repairs and improvements to the dwelling occupied as the home) for “children” substitute “persons” and for “who are part of the same family as the claimant” substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”;
 - (e) in paragraph 18(7)(b) (non-dependant deductions) for “a Youth Training Scheme” substitute “youth training”.
 
 (12) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) omit paragraph 45[^f00043].
 
 (13) In paragraph 29 of Schedule 10[^f00044] (capital to be disregarded) omit “, the Independent Living (1993) Fund”.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-7e7b47c1e3c4d914473e5851f669810b]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-7e7b47c1e3c4d914473e5851f669810b]
 
 (1) The Social Security (Claims and Payments) Regulations 1987[^f00045] are amended as follows.
 
@@ -171,7 +171,7 @@ for “Funds” substitute “Fund (2006)”.
   - (ii) in the definition of “housing authority”[^f00047] omit “Scottish Homes”;
 - (b) in paragraph 9(1B)(a)[^f00048] (priority as between certain debts) after “paragraph 3 (housing costs)” add “, paragraph 4 (miscellaneous accommodation costs) or paragraph 4A (hostel payments)”.
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-d71014412cc0319fc65771ba16b91d55]
+## 4. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-d71014412cc0319fc65771ba16b91d55]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00049] are amended as follows.
 
@@ -258,7 +258,7 @@ for “Funds” substitute “Fund (2006)”.
 
 (11) In Schedule 7 (sums to be disregarded in the calculation of income other than earnings) omit paragraph 44.
 
-## 5. Amendment of the State Pension Credit Regulations[^key-0043d473526e64b5fb5f6de03b917394]
+## 5. Amendment of the State Pension Credit Regulations[^c-0043d473526e64b5fb5f6de03b917394]
 
 (1) The State Pension Credit Regulations 2002[^f00066] are amended as follows.
 
@@ -304,7 +304,7 @@ for “Funds” substitute “Fund (2006)”.
 
 (5) In paragraph 15(1) of Schedule 5[^f00069] (income from capital) for the words “Independent Living Funds” substitute “Independent Living Fund (2006)”.
 
-## 6. Amendment of the Housing Benefit Regulations 2006[^key-59bf68d749f731009ffa73c2d687cb4e]
+## 6. Amendment of the Housing Benefit Regulations 2006[^c-59bf68d749f731009ffa73c2d687cb4e]
 
 (1) The Housing Benefit Regulations 2006[^f00070] are amended as follows.
 
@@ -360,48 +360,48 @@ for “Funds” substitute “Fund (2006)”.
 - (a) as substituted by regulations 14 and 18 of the Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007[^f00075]; and
 - (b) as in force for cases to which regulation 14 and 18 of those Regulations do not have effect (non-local housing allowance cases).
 
-## 7. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-54d1273317a5ecd3c6e1f93a95228f7d][^key-56780b4ebf0410bef041ce332ebe9743]
+## 7. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-54d1273317a5ecd3c6e1f93a95228f7d][^c-56780b4ebf0410bef041ce332ebe9743]
 
-(1)[^key-54d1273317a5ecd3c6e1f93a95228f7d] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00076] are amended as follows.
+(1)[^c-54d1273317a5ecd3c6e1f93a95228f7d] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00076] are amended as follows.
 
-(2)[^key-54d1273317a5ecd3c6e1f93a95228f7d] In regulation 2(1) (interpretation), omit the definition of—
+(2)[^c-54d1273317a5ecd3c6e1f93a95228f7d] In regulation 2(1) (interpretation), omit the definition of—
 
 - (a) “the Independent Living Fund”;
 - (b) “the Independent Living Funds”[^f00077].
 - (c) “the Independent Living (Extension) Fund”;
 - (d) “the Independent Living (1993) Fund”;
 
-(3)[^key-54d1273317a5ecd3c6e1f93a95228f7d] In regulation 7 (circumstances in which a person is or is not to be treated as occupying the dwelling as his home)—
+(3)[^c-54d1273317a5ecd3c6e1f93a95228f7d] In regulation 7 (circumstances in which a person is or is not to be treated as occupying the dwelling as his home)—
 
 - (a) in paragraph (5) for “section 9(1) of the Criminal Justice and Court Services Act 2000” substitute “section 13 of the Offender Management Act 2007”;
 - (b) in paragraph (16)(c)(i)(bb) for “section 9 of the Criminal Justice and Court Services Act 2000” substitute “section 13 of the Offender Management Act 2007”.
 
-(4)[^key-54d1273317a5ecd3c6e1f93a95228f7d] In regulation 55 (non-dependant deductions)[^f00078]—
+(4)[^c-54d1273317a5ecd3c6e1f93a95228f7d] In regulation 55 (non-dependant deductions)[^f00078]—
 
 - (a) in sub-paragraph (7)(b) for “a Youth Training Scheme” substitute “youth training”;
 - (b) in sub-paragraph (10)(b) for “Funds” substitute “Fund (2006)”.
 
-(5)[^key-54d1273317a5ecd3c6e1f93a95228f7d] In—
+(5)[^c-54d1273317a5ecd3c6e1f93a95228f7d] In—
 
 - (a) regulation 67(4)(b) and (c) (evidence and information),
 - (b) paragraph 16(1)(b) of Schedule 6 (capital to be disregarded),
 
 for “Funds” substitute “Fund (2006)”.
 
-(6)[^key-54d1273317a5ecd3c6e1f93a95228f7d] In paragraph 9 of Schedule 2 (excluded tenancies)[^f00079] for “section 9(1) of the Criminal Justice and Court Services Act 2000” substitute “section 13 of the Offender Management Act 2007”.
+(6)[^c-54d1273317a5ecd3c6e1f93a95228f7d] In paragraph 9 of Schedule 2 (excluded tenancies)[^f00079] for “section 9(1) of the Criminal Justice and Court Services Act 2000” substitute “section 13 of the Offender Management Act 2007”.
 
-(7)[^key-56780b4ebf0410bef041ce332ebe9743] In paragraph 14(a)(ii) of Schedule 8 (matters to be included in decision notice) for “income support or an income-based jobseeker’s allowance” substitute “state pension credit”.
+(7)[^c-56780b4ebf0410bef041ce332ebe9743] In paragraph 14(a)(ii) of Schedule 8 (matters to be included in decision notice) for “income support or an income-based jobseeker’s allowance” substitute “state pension credit”.
 
-(8)[^key-54d1273317a5ecd3c6e1f93a95228f7d] In paragraphs (4) and (6) of this regulation the references to regulation 55 and Schedule 2 mean regulation 55 of and Schedule 2 to the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006—
+(8)[^c-54d1273317a5ecd3c6e1f93a95228f7d] In paragraphs (4) and (6) of this regulation the references to regulation 55 and Schedule 2 mean regulation 55 of and Schedule 2 to the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006—
 
 - (a) as substituted by regulations 14 and 18 of the Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007; and
 - (b) as in force for cases to which regulation 14 and 18 of those Regulations do not have effect (non-local housing allowance cases).
 
-## 8. Amendment of the Council Tax Benefit Regulations 2006[^key-21180e83ecd86bcec4733fac3b590a46][^key-82bbcef86e02cdf6e12bb5051c48308b]
+## 8. Amendment of the Council Tax Benefit Regulations 2006[^c-21180e83ecd86bcec4733fac3b590a46][^c-82bbcef86e02cdf6e12bb5051c48308b]
 
-(1)[^key-21180e83ecd86bcec4733fac3b590a46] The Council Tax Benefit Regulations 2006[^f00080] are amended as follows.
+(1)[^c-21180e83ecd86bcec4733fac3b590a46] The Council Tax Benefit Regulations 2006[^f00080] are amended as follows.
 
-(2)[^key-21180e83ecd86bcec4733fac3b590a46] In regulation 2(1), omit the following definitions—
+(2)[^c-21180e83ecd86bcec4733fac3b590a46] In regulation 2(1), omit the following definitions—
 
 - (a) “community charge benefit”;
 - (b) “the Independent Living Fund”;
@@ -409,9 +409,9 @@ for “Funds” substitute “Fund (2006)”.
 - (d) “the Independent Living (Extension) Fund”;
 - (e) “the Independent Living (1993) Fund”.
 
-(3)[^key-21180e83ecd86bcec4733fac3b590a46] In regulation 8(4)(a)(ii) (prescribed persons for the purposes of 131(3)(b) of the Act) for “section 9 of the Criminal Justice and Court Services Act 2000” substitute “section 13 of the Offender Management Act 2007”.
+(3)[^c-21180e83ecd86bcec4733fac3b590a46] In regulation 8(4)(a)(ii) (prescribed persons for the purposes of 131(3)(b) of the Act) for “section 9 of the Criminal Justice and Court Services Act 2000” substitute “section 13 of the Offender Management Act 2007”.
 
-(4)[^key-21180e83ecd86bcec4733fac3b590a46] In—
+(4)[^c-21180e83ecd86bcec4733fac3b590a46] In—
 
 - (a) regulation 32(7)(a) (notional income),
 - (b) regulation 36(6) (income treated as capital),
@@ -424,29 +424,29 @@ for “Funds” substitute “Fund (2006)”.
 
 for “Funds” substitute “Fund (2006)”.
 
-(5)[^key-21180e83ecd86bcec4733fac3b590a46] In regulation 43(1) (interpretation)—
+(5)[^c-21180e83ecd86bcec4733fac3b590a46] In regulation 43(1) (interpretation)—
 
 - (a) in the definition of “contribution” for “Further and Higher Education (Scotland) Act 1992” substitute “Education (Scotland) Act 1980”;
 - (b) in paragraph (c) of the definition of “standard maintenance grant” omit “and paid under the Further and Higher Education (Scotland) Act 1992”.
 
-(6)[^key-21180e83ecd86bcec4733fac3b590a46] In regulation 58(7)(b) (non-dependant deductions) for “a Youth Training Scheme” substitute “youth training”.
+(6)[^c-21180e83ecd86bcec4733fac3b590a46] In regulation 58(7)(b) (non-dependant deductions) for “a Youth Training Scheme” substitute “youth training”.
 
-(7)[^key-82bbcef86e02cdf6e12bb5051c48308b] In regulation 74(5) (duty to notify changes of circumstances) after “in receipt of” insert “state pension credit,”.
+(7)[^c-82bbcef86e02cdf6e12bb5051c48308b] In regulation 74(5) (duty to notify changes of circumstances) after “in receipt of” insert “state pension credit,”.
 
-(8)[^key-21180e83ecd86bcec4733fac3b590a46] In paragraph 13(1)(a)(ii) of Schedule 1 (applicable amounts) omit “community charge benefit or, as the case may be,”.
+(8)[^c-21180e83ecd86bcec4733fac3b590a46] In paragraph 13(1)(a)(ii) of Schedule 1 (applicable amounts) omit “community charge benefit or, as the case may be,”.
 
-(9)[^key-21180e83ecd86bcec4733fac3b590a46] In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)—
+(9)[^c-21180e83ecd86bcec4733fac3b590a46] In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)—
 
 - (a) in paragraph 29, before “23C” insert “23B,”;
 - (b) omit paragraph 42.
 
-(10)[^key-21180e83ecd86bcec4733fac3b590a46] In Schedule 5 (capital to be disregarded)—
+(10)[^c-21180e83ecd86bcec4733fac3b590a46] In Schedule 5 (capital to be disregarded)—
 
 - (a) in paragraph 19 after “section 17,” insert “ 23B, ” and for “28” substitute “29”;
 - (b) in paragraph 34[^f00082] omit “, the Independent Living (1993) Fund”;
 - (c) omit paragraph 36.
 
-## 9. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-903e061373a9891e447cd07f54f233db]
+## 9. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-903e061373a9891e447cd07f54f233db]
 
 (1) The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00083] are amended as follows.
 
@@ -546,9 +546,9 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00006]: Footnote: *See* section 176(1) of the Social Security Administration Act 1992 as amended by section 103 of and paragraph 23 of Schedule 9 to the Local Government Finance Act 1992.
 
-[^key-2112f13c9cb51617b588c14ba14b2669]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-2112f13c9cb51617b588c14ba14b2669]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
-[^key-733349b5777f60f7ac952b8f78b538f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2767/regulation/2) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-733349b5777f60f7ac952b8f78b538f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2767/regulation/2) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -622,13 +622,13 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00042]: Footnote: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^key-a11a62c3ec16164f7a52b05109ac9189]: Textual amendment: Words in [reg. 2(11)(d)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/2/11/d) substituted (26.10.2009) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2009/2655/regulation/13)
+[^c-a11a62c3ec16164f7a52b05109ac9189]: Textual amendment: Words in [reg. 2(11)(d)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/2/11/d) substituted (26.10.2009) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2009/2655/regulation/13)
 
 [^f00043]: Footnote: Inserted by [S.I. 1990/547](https://www.legislation.gov.uk/uksi/1990/547).
 
 [^f00044]: Footnote: Relevant amending instruments are: [S.I. 1990/127](https://www.legislation.gov.uk/uksi/1990/127), [1992/1101](https://www.legislation.gov.uk/uksi/1992/1101), [2007/2538](https://www.legislation.gov.uk/uksi/2007/2538).
 
-[^key-7e7b47c1e3c4d914473e5851f669810b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2767/regulation/3) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-7e7b47c1e3c4d914473e5851f669810b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2767/regulation/3) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -638,7 +638,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00048]: Footnote: Inserted by [S.I. 1993/495](https://www.legislation.gov.uk/uksi/1993/495).
 
-[^key-d71014412cc0319fc65771ba16b91d55]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2767/regulation/4) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-d71014412cc0319fc65771ba16b91d55]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2767/regulation/4) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
 [^f00049]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
@@ -674,7 +674,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00065]: Footnote: Substituted by [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517). Relevant amending instrument is [1996/2538](https://www.legislation.gov.uk/uksi/1996/2538).
 
-[^key-0043d473526e64b5fb5f6de03b917394]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2767/regulation/5) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-0043d473526e64b5fb5f6de03b917394]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2767/regulation/5) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
 [^f00066]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
@@ -684,7 +684,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00069]: Footnote: Relevant amending instrument is [S.I. 2004/1141](https://www.legislation.gov.uk/uksi/2004/1141).
 
-[^key-59bf68d749f731009ffa73c2d687cb4e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/2767/regulation/6) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-59bf68d749f731009ffa73c2d687cb4e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/2767/regulation/6) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
 [^f00070]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -698,9 +698,9 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00075]: Footnote: [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868).
 
-[^key-54d1273317a5ecd3c6e1f93a95228f7d]: Commencement: [Reg. 7(1)-(6)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/1), [(8)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/8) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-54d1273317a5ecd3c6e1f93a95228f7d]: Commencement: [Reg. 7(1)-(6)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/1), [(8)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/8) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
-[^key-56780b4ebf0410bef041ce332ebe9743]: Commencement: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/7) in force at 6.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/3)
+[^c-56780b4ebf0410bef041ce332ebe9743]: Commencement: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/7) in force at 6.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/3)
 
 [^f00076]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
@@ -710,9 +710,9 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00079]: Footnote: Substituted by [S.I. 2007/2869](https://www.legislation.gov.uk/uksi/2007/2869).
 
-[^key-21180e83ecd86bcec4733fac3b590a46]: Commencement: [Reg. 8(1)-(6)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/8/1), [(8)-(10)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/8/8) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-21180e83ecd86bcec4733fac3b590a46]: Commencement: [Reg. 8(1)-(6)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/8/1), [(8)-(10)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/8/8) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
-[^key-82bbcef86e02cdf6e12bb5051c48308b]: Commencement: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/8/7) in force at 6.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/3)
+[^c-82bbcef86e02cdf6e12bb5051c48308b]: Commencement: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/8/7) in force at 6.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/3)
 
 [^f00080]: Footnote: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
@@ -720,7 +720,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00082]: Footnote: Relevant amending instrument is [S.I. 2007/2538](https://www.legislation.gov.uk/uksi/2007/2538).
 
-[^key-903e061373a9891e447cd07f54f233db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/2767/regulation/9) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
+[^c-903e061373a9891e447cd07f54f233db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/2767/regulation/9) in force at 17.11.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2)
 
 [^f00083]: Footnote: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 

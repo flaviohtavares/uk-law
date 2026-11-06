@@ -28,7 +28,7 @@ summary: ''
 (2) But this regulation does not apply where the other benefit—
 
 - (a) is subject to reduction under regulation 142 of the Local Government Pension Scheme Regulations 1997 [^c20237821], or
-- (b) is payable under regulation 9 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^key-e48797b772ba9c38e8edeb15bc0d9f28].
+- (b) is payable under regulation 9 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^c-e48797b772ba9c38e8edeb15bc0d9f28].
 
 (3) Except as provided in paragraphs (4) and (5), the person's phased retirement benefits or retirement benefits must be reduced by so much as is necessary to secure that A is reduced by B.
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c20237821]: Marginal citation: [S.I. 1997/1612](https://www.legislation.gov.uk/uksi/1997/1612) revoked but with savings by [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).
 
-[^key-e48797b772ba9c38e8edeb15bc0d9f28]: Textual amendment: Words in [reg. 63(2)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/63/2/b) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(a)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/a) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-e48797b772ba9c38e8edeb15bc0d9f28]: Textual amendment: Words in [reg. 63(2)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/63/2/b) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(a)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/a) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))

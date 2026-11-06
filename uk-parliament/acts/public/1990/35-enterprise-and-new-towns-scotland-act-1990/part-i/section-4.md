@@ -34,7 +34,7 @@ summary: ''
 
 and shall discharge such other functions as are conferred by, under or by virtue of this Act.
 
-(2) The functions mentioned in subsection (1)(b) above shall only be exercised through a company (as defined in section 1(1) of the Companies Act 2006[^key-5876bc97790fb185ba47abaebd69eb10]) or through a partnership.
+(2) The functions mentioned in subsection (1)(b) above shall only be exercised through a company (as defined in section 1(1) of the Companies Act 2006[^c-5876bc97790fb185ba47abaebd69eb10]) or through a partnership.
 
 (3) In subsection (1)(c) above—
 
@@ -54,6 +54,6 @@ and shall discharge such other functions as are conferred by, under or by virtue
 
 ## Annotations
 
-[^key-5876bc97790fb185ba47abaebd69eb10]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/4/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 117(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/117/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5876bc97790fb185ba47abaebd69eb10]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/4/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 117(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/117/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1031011]: Marginal citation: [1976 c. 78](https://www.legislation.gov.uk/ukpga/1976/78).

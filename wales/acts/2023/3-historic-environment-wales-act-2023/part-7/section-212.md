@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Coming into force[^key-f669e814de59d03d76e47578a226a450]
+## 212. Coming into force[^c-f669e814de59d03d76e47578a226a450]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f669e814de59d03d76e47578a226a450]: Commencement: S. 212 in force at 15.6.2023, see [s. 212(1)(e)](https://www.legislation.gov.uk/asc/2023/3/section/212/1/e)
+[^c-f669e814de59d03d76e47578a226a450]: Commencement: S. 212 in force at 15.6.2023, see [s. 212(1)(e)](https://www.legislation.gov.uk/asc/2023/3/section/212/1/e)

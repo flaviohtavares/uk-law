@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 16. Derogation from the application of the leverage ratio requirements on a consolidated basis for groups of investment firms[^key-acf42aa8d1ad7d55601aed32cbe01edb]
+## Article 16. Derogation from the application of the leverage ratio requirements on a consolidated basis for groups of investment firms[^c-acf42aa8d1ad7d55601aed32cbe01edb]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-acf42aa8d1ad7d55601aed32cbe01edb]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/2013/575/article/16) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/7); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))
+[^c-acf42aa8d1ad7d55601aed32cbe01edb]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/2013/575/article/16) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/7); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))

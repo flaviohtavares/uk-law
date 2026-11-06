@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Analysis of information for the purposes of crime prevention or detection[^key-6fb75a843c1c4ec92c8119223ddf8f00][^key-541e7810db61cc34b8b9170ccc16246e]
+## 92. Analysis of information for the purposes of crime prevention or detection[^c-6fb75a843c1c4ec92c8119223ddf8f00][^c-541e7810db61cc34b8b9170ccc16246e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ After section 1062 of the Companies Act 2006 insert—
 
 ## Annotations
 
-[^key-6fb75a843c1c4ec92c8119223ddf8f00]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6fb75a843c1c4ec92c8119223ddf8f00]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-541e7810db61cc34b8b9170ccc16246e]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/56/section/92) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z34)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z34)
+[^c-541e7810db61cc34b8b9170ccc16246e]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/56/section/92) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z34)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z34)

@@ -51,26 +51,26 @@ The Department of Agriculture and Rural Development makes the following Regulati
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-1c9530b1d05fdb74a29b3cb5986db798]
+### 1. Citation and commencement[^c-1c9530b1d05fdb74a29b3cb5986db798]
 
 (1) These Regulations may be cited as the Aquatic Animal Health Regulations (Northern Ireland) 2009 and, subject to paragraph (2), shall come into operation on 27<sup>th</sup> March 2009.
 
 (2) Regulations 6(1) and 13(1) shall come into operation on 1<sup>st</sup> August 2009.
 
-### 2. Interpretation[^key-66dba656814d4fd12629c685b5804460]
+### 2. Interpretation[^c-66dba656814d4fd12629c685b5804460]
 
 (1) Subject to paragraph (7) and regulation 47(1), the Interpretation Act (Northern Ireland) 1954[^f00007] applies to these Regulations as it applies to an Act of the Assembly.
 
 (2) In these Regulations—
 
 - “aquaculture product” means a product derived from aquaculture animals;
-- [^key-b30ed48728dd1e755492aaef87ac7aa7]...
+- [^c-b30ed48728dd1e755492aaef87ac7aa7]...
 - “authorisation” means an authorisation granted by the Department under regulation 7;
 - “confirmed designation” means a designation made by the Department under regulation 31;
 - “confirmed designation area” means the area in respect of which a confirmed designation has been made;
-- [^key-3c937ee06488309236782e1ca1b86131]...
+- [^c-3c937ee06488309236782e1ca1b86131]...
 - “the Department” means the Department of Agriculture and Rural Development;
-- “Directive 2006/88” means Council Directive [2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals[^f00009] as last amended by Commission Implementing[^key-2b567a8652be6571fb0915fb3ff98ed1] [Directive 2014/22/EU](https://www.legislation.gov.uk/european/directive/2014/0022);
+- “Directive 2006/88” means Council Directive [2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals[^f00009] as last amended by Commission Implementing[^c-2b567a8652be6571fb0915fb3ff98ed1] [Directive 2014/22/EU](https://www.legislation.gov.uk/european/directive/2014/0022);
 - “document” includes any thing in which information is recorded in any form;
 - “electronic communication” has the meaning given in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00010];
 - “general licence” means a licence granted under these Regulations which applies to all persons or movements, or any class of persons or movements specified therein;
@@ -79,7 +79,7 @@ The Department of Agriculture and Rural Development makes the following Regulati
 - “inland fishery” and “salmon fishery” have the meanings given in section 206(1) of the Fisheries Act (Northern Ireland) 1966[^f00011];
 - “inspector” means a person appointed to be an inspector for the purposes of these Regulations by the Department;
 - “listed disease” means—
-  - (a) a disease listed in Annex II to Regulation 2016/429; or[^key-33ff2dd32fbad53eace48137666a7a4b]
+  - (a) a disease listed in Annex II to Regulation 2016/429; or[^c-33ff2dd32fbad53eace48137666a7a4b]
   - (b) a disease listed in the first column of Schedule 1;
 - “Londonderry Area” and “Newry Area” have the meanings given in section 2(1) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00012];
 - “non-commercial installation” means any aquaculture production business in which aquatic animals are kept with no intention of placing them on the market;
@@ -91,17 +91,17 @@ The Department of Agriculture and Rural Development makes the following Regulati
 - “processing establishment” means any food business which is approved for processing aquaculture animals for food purposes in accordance with Article 4 of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^f00013], and which processes aquaculture animals for disease control purposes under Part 4 or under any equivalent provision in regulations extending to any other part of the United Kingdom;
 - “quarantine facility” has the meaning given in Article 2(1) of Commission Decision [2008/946/EC](https://www.legislation.gov.uk/european/decision/2008/0946) implementing Council Directive [2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) as regards requirements for quarantine of aquaculture animals [^f00014];
 - “Regulation 1251/2008” means [Commission Regulation (EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251) implementing Council Directive [2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) as regards conditions and certification requirements for the placing on the market and the import into the Community of aquaculture animals and products thereof and laying down a list of vector species[^f00015], as amended from time to time;
-- “[^key-5a53b57400945b8169c6752e1e9c52aa]**Regulation 2016/429**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) of the European Parliament and of the Council on transmissible animal diseases and amending and repealing certain acts in the area of animal health;
+- “[^c-5a53b57400945b8169c6752e1e9c52aa]**Regulation 2016/429**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) of the European Parliament and of the Council on transmissible animal diseases and amending and repealing certain acts in the area of animal health;
 - “**Regulation 2018/1882**” means Commission Implementing [Regulation (EU) 2018/1882](https://www.legislation.gov.uk/european/regulation/2018/1882) on the application of certain disease prevention and control rules to categories of listed diseases and establishing a list of species and groups of species posing a considerable risk for the spread of those listed diseases;
 - “**Regulation 2020/990**” means Commission Delegated [Regulation (EU) 2020/990](https://www.legislation.gov.uk/european/regulation/2020/0990) supplementing [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) of the European Parliament and of the Council, as regards animal health and certification requirements for movements within the Union of aquatic animals and products of animal origin from aquatic animals;
 - “specific licence” means a licence granted under these Regulations which only applies to the applicant therefor;
-- [^key-c09de499b56124642ad155efc5ad73ce]...
+- [^c-c09de499b56124642ad155efc5ad73ce]...
 
-(3)[^key-57e55c7942115f19fdd279ccc72f743b] Any expression used in these Regulations which is also used in Regulation 2016/429 has the same meaning as it bears in that Regulation.
+(3)[^c-57e55c7942115f19fdd279ccc72f743b] Any expression used in these Regulations which is also used in Regulation 2016/429 has the same meaning as it bears in that Regulation.
 
-(4)[^key-43e78a8ffbf6794f785b23b91bf32f47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-43e78a8ffbf6794f785b23b91bf32f47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-43e78a8ffbf6794f785b23b91bf32f47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43e78a8ffbf6794f785b23b91bf32f47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) References in these Regulations to a species of aquatic animal includes references to a hybrid of that species.
 
@@ -115,7 +115,7 @@ The Department of Agriculture and Rural Development makes the following Regulati
 
 and where an electronic communication is used for the purpose of serving a notice, then, unless the contrary is proved, the notice shall be deemed to have been served on the day and at the time recorded by the transmitting apparatus as being the day and time of satisfactory completion of the transmission.
 
-### 3. Application[^key-9164a6e22b02c4efba0b5da90b4e1e06]
+### 3. Application[^c-9164a6e22b02c4efba0b5da90b4e1e06]
 
 These Regulations do not apply to—
 
@@ -123,7 +123,7 @@ These Regulations do not apply to—
 - (b) any wild aquatic animal harvested or caught for the purpose of direct entry into the food chain other than one which is to be treated as an aquaculture animal under regulation 21(3);
 - (c) any aquatic animal caught for the purpose of the production of fishmeal, fish feed, fish oil or any similar product.
 
-### 4. Licences[^key-bae794f587ae28de64a98264b70013cc]
+### 4. Licences[^c-bae794f587ae28de64a98264b70013cc]
 
 (1) A licence granted under these Regulations—
 
@@ -142,7 +142,7 @@ These Regulations do not apply to—
 
 (5) It is an offence for a person to contravene, or fail to comply with, a condition of a licence.
 
-### 4A. Aquatic animal health professional[^key-f235f89667a4d0afb1464843b61aacd3]
+### 4A. Aquatic animal health professional[^c-f235f89667a4d0afb1464843b61aacd3]
 
 An aquatic animal health professional may—
 
@@ -151,13 +151,13 @@ An aquatic animal health professional may—
 
 ## PART 2 — AUTHORISATION AND REGISTRATION REQUIREMENTS
 
-### 5. Application of Part 2[^key-171f139aabf946359ba60e8cb83f9800]
+### 5. Application of Part 2[^c-171f139aabf946359ba60e8cb83f9800]
 
 This Part does not apply where any ornamental aquatic animal is kept in a closed ornamental facility.
 
-### 6. Requirement for authorisation of aquaculture production businesses and processing establishments[^key-fa2e4cb85158f8bd3581f5cb79ba2659]
+### 6. Requirement for authorisation of aquaculture production businesses and processing establishments[^c-fa2e4cb85158f8bd3581f5cb79ba2659]
 
-(1)[^key-4f30139e15bf7b9c00114110df6cb46a] Subject to paragraph (2), it is an offence for a person to operate, or cause or permit another person to operate, an aquaculture production business or a processing establishment unless the business or establishment is—
+(1)[^c-4f30139e15bf7b9c00114110df6cb46a] Subject to paragraph (2), it is an offence for a person to operate, or cause or permit another person to operate, an aquaculture production business or a processing establishment unless the business or establishment is—
 
 - (a) authorised by the Department; and
 - (b) operated in accordance with that authorisation.
@@ -167,7 +167,7 @@ This Part does not apply where any ornamental aquatic animal is kept in a closed
 - (a) a put and take fishery; or
 - (b) a non-commercial installation.
 
-### 7. Authorisation[^key-6ee2b65a7fdce8c9fe3ccb03e79e3080]
+### 7. Authorisation[^c-6ee2b65a7fdce8c9fe3ccb03e79e3080]
 
 (1) An application for the authorisation of an aquaculture production business or a processing establishment shall be made to the Department and shall—
 
@@ -202,7 +202,7 @@ This Part does not apply where any ornamental aquatic animal is kept in a closed
 - (a) give the reasons for the refusal or the imposition of the condition; and
 - (b) inform the applicant of the right of appeal under regulation 44.
 
-### 8. Conditions to be included in authorisation[^key-7f0e5a416ed174986fd86fd5dd41e6ba]
+### 8. Conditions to be included in authorisation[^c-7f0e5a416ed174986fd86fd5dd41e6ba]
 
 (1) Where the Department grants an authorisation in relation to an aquaculture production business, it shall be a condition of the authorisation that the operator of the business shall—
 
@@ -223,7 +223,7 @@ This Part does not apply where any ornamental aquatic animal is kept in a closed
 - (b) implement good hygiene practice; and
 - (c) have a system in place which enables the operator to demonstrate to the Department that the requirements of sub-paragraphs (a) and (b) are being met.
 
-### 9. Amendment of authorisation[^key-79283b90afff4f9cd8ceff0291805999]
+### 9. Amendment of authorisation[^c-79283b90afff4f9cd8ceff0291805999]
 
 (1) The Department may—
 
@@ -242,7 +242,7 @@ amend an authorisation, including any condition of an authorisation.
 
 (4) Regulation 7(2), (3) and (6) shall apply with the necessary modifications to the amendment of an authorisation under paragraph (1)(a) or an application for amendment under paragraph (1)(b) as they apply to an application for an authorisation.
 
-### 10. Suspension of authorisation[^key-577fbe0bef13788633fdf98d97a3bc70]
+### 10. Suspension of authorisation[^c-577fbe0bef13788633fdf98d97a3bc70]
 
 (1) The Department may, by notice (“a suspension notice”) served on the operator of an aquaculture production business or a processing establishment, suspend an authorisation where it considers that—
 
@@ -257,7 +257,7 @@ amend an authorisation, including any condition of an authorisation.
 
 (3) Except where regulation 44(7) applies, it is an offence for a person to fail to comply with a suspension notice.
 
-### 11. Revocation of authorisation[^key-93f5fed2ca57ef2e36e050a6fa5fad3a]
+### 11. Revocation of authorisation[^c-93f5fed2ca57ef2e36e050a6fa5fad3a]
 
 (1) The Department may, by notice (“a revocation notice”) served on the operator of an aquaculture production business or a processing establishment, revoke an authorisation (in whole or in part) where it considers that—
 
@@ -280,7 +280,7 @@ amend an authorisation, including any condition of an authorisation.
 - (a) in the case of a business situated in the Londonderry Area or the Newry Area, the Foyle, Carlingford and Irish Lights Commission; or
 - (b) in the case of a business situated outside those areas and which is an inland fishery or a salmon fishery, the Fisheries Conservancy Board for Northern Ireland.
 
-### 12. Surrender of authorisation[^key-5327b4c07327a55719e0f249113418bc]
+### 12. Surrender of authorisation[^c-5327b4c07327a55719e0f249113418bc]
 
 (1) An authorisation may be surrendered by the operator of an aquaculture production business or a processing establishment to the Department in accordance with this regulation.
 
@@ -311,9 +311,9 @@ amend an authorisation, including any condition of an authorisation.
 - (a) in the case of a business situated in the Londonderry Area or the Newry Area, the Foyle, Carlingford and Irish Lights Commission; or
 - (b) in the case of a business situated outside those areas and which is an inland fishery or a salmon fishery, the Fisheries Conservancy Board for Northern Ireland.
 
-### 13. Requirement to register put and take fisheries and non-commercial installations[^key-f55c5893fe44d570a3cf4a6cbaaa66cf]
+### 13. Requirement to register put and take fisheries and non-commercial installations[^c-f55c5893fe44d570a3cf4a6cbaaa66cf]
 
-(1)[^key-8a10a246c458aef181d2c59bc40601d4] It is an offence for a person to operate, or cause or permit another person to operate, a put and take fishery or a non-commercial installation unless the fishery or installation is registered with the Department.
+(1)[^c-8a10a246c458aef181d2c59bc40601d4] It is an offence for a person to operate, or cause or permit another person to operate, a put and take fishery or a non-commercial installation unless the fishery or installation is registered with the Department.
 
 (2) An application for the registration of a put and take fishery or a non-commercial installation shall be made to the Department and shall—
 
@@ -335,23 +335,23 @@ within 28 days of the change or cessation.
 
 (5) It is an offence for a person to fail to comply with paragraph (4).
 
-### 14. Public register of aquaculture production businesses and processing establishments[^key-922f949c9906cf37f8e5b18cc197a240]
+### 14. Public register of aquaculture production businesses and processing establishments[^c-922f949c9906cf37f8e5b18cc197a240]
 
 (1) The Department shall establish and maintain a register of—
 
 - (a) aquaculture production businesses authorised under this Part; and
 - (b) processing establishments authorised under this Part.
 
-(2)[^key-4c049568afff480b521124ba5ed51195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4c049568afff480b521124ba5ed51195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-386fa4553cb444d38953a19c83740453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-386fa4553cb444d38953a19c83740453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Department shall—
 
 - (a) make the register available for inspection by the public free of charge at all reasonable times and at such place as may be determined by the Department; and
 - (b) afford members of the public reasonable facilities for obtaining from the Department, on payment of reasonable charges, a copy of any entry in the register.
 
-### 15. Register of put and take fisheries and non-commercial installations[^key-3501feb03063ffbbcca757224aa53060]
+### 15. Register of put and take fisheries and non-commercial installations[^c-3501feb03063ffbbcca757224aa53060]
 
 (1) The Department shall establish and maintain a register of put and take fisheries and non-commercial installations.
 
@@ -361,7 +361,7 @@ within 28 days of the change or cessation.
 - (b) the Fisheries Conservancy Board for Northern Ireland for the purposes of its functions under the Fisheries Act (Northern Ireland) 1966;
 - (c) the Foyle, Carlingford and Irish Lights Commission for the purposes of its functions under Part VIA of the Foyle Fisheries Act (Northern Ireland) 1952[^f00018]**.**
 
-### 16. Amendment of Fisheries Act (Northern Ireland) 1966[^key-2878f5558d254ab5640c2192ab60ac0d]
+### 16. Amendment of Fisheries Act (Northern Ireland) 1966[^c-2878f5558d254ab5640c2192ab60ac0d]
 
 (1) In section 11A of the Fisheries Act (Northern Ireland) 1966[^f00019] after subsection (5) insert—
 
@@ -371,19 +371,19 @@ within 28 days of the change or cessation.
 
 (2) If there is any conflict between a condition of a fish culture licence granted under section 11 of the Fisheries Act (Northern Ireland) 1966 and a condition of an authorisation granted under this Part, the condition of the authorisation shall prevail.
 
-### 17. Aquaculture licences granted under Part VIA of Foyle Fisheries Act (Northern Ireland) 1952[^key-26de28c14006d3c214fba5da174939e0]
+### 17. Aquaculture licences granted under Part VIA of Foyle Fisheries Act (Northern Ireland) 1952[^c-26de28c14006d3c214fba5da174939e0]
 
 If, in relation to any aquaculture production business operating in the Londonderry Area or the Newry Area, there is any conflict between a condition of an aquaculture licence granted under Part VIA of the Foyle Fisheries Act (Northern Ireland) 1952[^f00020] and a condition of an authorisation granted under this Part, the condition of the authorisation shall prevail.
 
 ## PART 3 — PLACING ON THE MARKET
 
-### 18. Application of Part 3[^key-dc54210b9785a0b8bebe664bef8809c3]
+### 18. Application of Part 3[^c-dc54210b9785a0b8bebe664bef8809c3]
 
 (1) This Part does not apply where any aquaculture animal or aquaculture product is placed on the market for scientific purposes under, and in accordance with the conditions of, a licence granted by the Department.
 
 (2) This part, other than regulation 19(5) and (6), does not apply where any ornamental aquatic animal is kept in a closed ornamental facility.
 
-### 19. General health requirements[^key-c194a57d0faa86e61e64448b21c4d3a5]
+### 19. General health requirements[^c-c194a57d0faa86e61e64448b21c4d3a5]
 
 (1) It is an offence for a person to place on the market any aquaculture animal or any aquaculture product if the person doing so knows or suspects, or ought to know or suspect, that it would pose a risk of spreading disease to any aquatic animal.
 
@@ -409,16 +409,16 @@ If, in relation to any aquaculture production business operating in the Londonde
 
 (7) It is an offence for a person to place on the market for farming or restocking any aquaculture animal intended for destruction or slaughter in accordance with disease control measures under Part 4 or under any equivalent provision in regulations extending to any other part of the United Kingdom.
 
-(8) Where any live aquaculture animal of a species susceptible to a disease listed in Annex II to Regulation 2016/429[^key-fa64d7f0a370557a5d2228f2b15a1032], or which is a vector for that disease, is placed on the market for further processing, it is an offence for a person to temporarily store the animal unless it—
+(8) Where any live aquaculture animal of a species susceptible to a disease listed in Annex II to Regulation 2016/429[^c-fa64d7f0a370557a5d2228f2b15a1032], or which is a vector for that disease, is placed on the market for further processing, it is an offence for a person to temporarily store the animal unless it—
 
 - (a) is stored at the place of processing; and
 - (b) either—
-  - (i) comes from Northern Ireland, zone or compartment or[^key-5aec5fede5c844e0849e4822e950169f] a Member State, zone or compartment recognised as[^key-f483f8065cf7a2d44244397f77a94ad9] free of that disease in accordance with Article 36 or 37 of Regulation 2016/429[^key-9c61e729ee8fe658177e94a7e174cf93]; or
+  - (i) comes from Northern Ireland, zone or compartment or[^c-5aec5fede5c844e0849e4822e950169f] a Member State, zone or compartment recognised as[^c-f483f8065cf7a2d44244397f77a94ad9] free of that disease in accordance with Article 36 or 37 of Regulation 2016/429[^c-9c61e729ee8fe658177e94a7e174cf93]; or
   - (ii) is temporarily kept in a dispatch centre, purification centre or similar establishment equipped with an effluent treatment system which inactivates the pathogens which cause that disease or which reduces the risk of transmitting diseases to natural waters to an acceptable level.
 
-(9) Where any live mollusc or crustacean of a species susceptible to a disease listed in Annex II to Regulation 2016/429[^key-c2d13212a0bb87e6a2a9ed788faf64df] is placed on the market for human consumption without further processing, it is an offence for a person to temporarily relay the mollusc or crustacean in any waters or introduce it into a dispatch centre, purification centre or similar establishment unless the mollusc or crustacean—
+(9) Where any live mollusc or crustacean of a species susceptible to a disease listed in Annex II to Regulation 2016/429[^c-c2d13212a0bb87e6a2a9ed788faf64df] is placed on the market for human consumption without further processing, it is an offence for a person to temporarily relay the mollusc or crustacean in any waters or introduce it into a dispatch centre, purification centre or similar establishment unless the mollusc or crustacean—
 
-- (a) comes from Northern Ireland, zone or compartment or[^key-66f18a61e8a88cac784eb3e0399aa495] a Member State, zone or compartment recognised as[^key-8f5182af1eb144d8c55d83897d767914] free of that disease in accordance with Article 36 or 37 of Regulation 2016/429[^key-2d8b849f74189c4fa869d77f53396fb0]; or
+- (a) comes from Northern Ireland, zone or compartment or[^c-66f18a61e8a88cac784eb3e0399aa495] a Member State, zone or compartment recognised as[^c-8f5182af1eb144d8c55d83897d767914] free of that disease in accordance with Article 36 or 37 of Regulation 2016/429[^c-2d8b849f74189c4fa869d77f53396fb0]; or
 - (b) is temporarily kept in a dispatch centre, purification centre or similar establishment equipped with an effluent treatment system which inactivates the pathogens which cause that disease or which reduces the risk of transmitting diseases to natural waters to an acceptable level.
 
 (10) It is an offence for a person to contravene any of the following provisions of Regulation 1251/2008—
@@ -428,19 +428,19 @@ If, in relation to any aquaculture production business operating in the Londonde
 
 (11) In this regulation —
 
-- (a)[^key-75ae06854990d3e5e1004c4318f0cfc8] an aquaculture animal, mollusc or crustacean is of a species susceptible to a disease listed in Annex II to Regulation 2016/429 if it is of a species listed in the third column of the table in the Annex to Regulation 2018/1882 opposite the disease listed in the first column of that table;
+- (a)[^c-75ae06854990d3e5e1004c4318f0cfc8] an aquaculture animal, mollusc or crustacean is of a species susceptible to a disease listed in Annex II to Regulation 2016/429 if it is of a species listed in the third column of the table in the Annex to Regulation 2018/1882 opposite the disease listed in the first column of that table;
 - (b) an aquaculture animal is a vector for a disease if—
   - (i) it is of a species listed in the fourth column of the table in the Annex to Regulation 2018/1882 opposite the disease listed in the first column of that table; and
   - (ii) where conditions relevant to that species are set out in the third column of the table in Annex I of Regulation 2020/990, opposite the disease listed in the first column, the animal fulfils such conditions.
 - (c) ‘restocking’ includes release into the wild or into a put and take fishery.
 
-### 20. Health certification requirements[^key-ecc18003ed7040dc45bb5d382cff6cbc]
+### 20. Health certification requirements[^c-ecc18003ed7040dc45bb5d382cff6cbc]
 
-(1) It is an offence for a person to introduce any aquaculture animal or any aquaculture product into Northern Ireland where the animal or product is required to be accompanied by an animal health certificate under [^key-f9120446c0ae6571ec76675ef2346c19]... Chapter III or IV of Regulation 1251/2008 unless it is accompanied by such a certificate completed in accordance with the relevant model specified in that [^key-f9120446c0ae6571ec76675ef2346c19]... Chapter.
+(1) It is an offence for a person to introduce any aquaculture animal or any aquaculture product into Northern Ireland where the animal or product is required to be accompanied by an animal health certificate under [^c-f9120446c0ae6571ec76675ef2346c19]... Chapter III or IV of Regulation 1251/2008 unless it is accompanied by such a certificate completed in accordance with the relevant model specified in that [^c-f9120446c0ae6571ec76675ef2346c19]... Chapter.
 
 (2) It is an offence for a person to export any aquaculture animal or any aquaculture product where the animal or product is required to be accompanied by an animal health certificate under Article 8 of Regulation 1251/2008 unless it is accompanied by such a certificate completed in accordance with the relevant model specified in that Article.
 
-(3) It is an offence for a person, for the purpose of procuring an animal health certificate under [^key-88afe469faf3f2f2fd1cae45bd6edab8]... Chapter III of Regulation 1251/2008—
+(3) It is an offence for a person, for the purpose of procuring an animal health certificate under [^c-88afe469faf3f2f2fd1cae45bd6edab8]... Chapter III of Regulation 1251/2008—
 
 - (a) to make a statement which that person knows or suspects, or ought to know or suspect, is false or misleading in a material particular; or
 - (b) intentionally to fail to disclose any material particular.
@@ -450,7 +450,7 @@ If, in relation to any aquaculture production business operating in the Londonde
 - (a) “introduce any aquaculture animal or any aquaculture product into Northern Ireland” includes the introduction of any aquaculture animal or any aquaculture product into any zone or compartment within Northern Ireland from any other zone or compartment within Northern Ireland;
 - (b) “export” means send out of Northern Ireland or send from any zone or compartment within Northern Ireland to any other zone or compartment within Northern Ireland.
 
-### 21. Additional requirements in respect of aquaculture animals and wild aquatic animals[^key-45bc3ade09789123c40bb1ed536e17ed]
+### 21. Additional requirements in respect of aquaculture animals and wild aquatic animals[^c-45bc3ade09789123c40bb1ed536e17ed]
 
 (1) Where any aquaculture animal, which is of a species susceptible to a disease listed in the second column of Part II of Annex IV to Directive 2006/88 or is a vector for that disease, is introduced into Northern Ireland with the intention of being released into the wild or into a put and take fishery, the place of introduction shall, for the purposes of regulation 20(1), be treated as if it has, in relation to that disease, a Category I disease-free health status as referred to in Part A of Annex III to Directive 2006/88.
 
@@ -473,7 +473,7 @@ If, in relation to any aquaculture production business operating in the Londonde
 
 (6) In paragraphs (1) to (3) any reference to the introduction of any animal into Northern Ireland includes the introduction of any animal into any zone or compartment within Northern Ireland from any other zone or compartment within Northern Ireland.
 
-### 22. Disease prevention requirements in respect of transport[^key-ce1a15552d625d1d9cecb84fca8f4b7b]
+### 22. Disease prevention requirements in respect of transport[^c-ce1a15552d625d1d9cecb84fca8f4b7b]
 
 (1) It is an offence for a person to transport any aquaculture animal unless the requirements in paragraph (2) are met.
 
@@ -489,7 +489,7 @@ If, in relation to any aquaculture production business operating in the Londonde
   - (ii) any aquatic animal at any place of transit; or
   - (iii) any aquatic animal at the place of destination.
 
-### 23. Recording of information in respect of transport[^key-7777a06c3786568ad385300f26f3cc96]
+### 23. Recording of information in respect of transport[^c-7777a06c3786568ad385300f26f3cc96]
 
 (1) It is an offence for a person who transports any aquaculture animal to fail to keep a record of the information set out in paragraph (2) for a period of four years beginning with the date on which the aquaculture animal arrived at its place of destination.
 
@@ -505,7 +505,7 @@ If, in relation to any aquaculture production business operating in the Londonde
 
 (4) It is a defence for a person charged with an offence under paragraph (1) in relation to the information set out in paragraph 2(a) to show that it was not practicable to keep such a record.
 
-### 24. Exemption for transport in small containers[^key-02da08ff35847c0f2576d6974d42faf7]
+### 24. Exemption for transport in small containers[^c-02da08ff35847c0f2576d6974d42faf7]
 
 Regulations 22 and 23 do not apply where the transport is by means of a container which—
 
@@ -513,15 +513,15 @@ Regulations 22 and 23 do not apply where the transport is by means of a containe
 - (b) does not exceed one cubic metre; and
 - (c) is accompanied by a legible label fixed to the exterior of the container which identifies its contents, their place of origin and their place of destination.
 
-### 25. Quarantine[^key-156b361ea4c9182016d2db811004734b]
+### 25. Quarantine[^c-156b361ea4c9182016d2db811004734b]
 
-(1) Where any aquaculture animal originating outside Northern Ireland or[^key-042ccbae252d92cceb51a45261245205] the European Union[^key-34bf9c0d80d0de64aa4d9485f528f1d7] and imported into Northern Ireland from any place inside those Communities is intended for quarantine in accordance with Article 10 or 11 of Regulation 1251/2008, it is an offence for the person importing the animal to fail to transport it directly to a quarantine facility.
+(1) Where any aquaculture animal originating outside Northern Ireland or[^c-042ccbae252d92cceb51a45261245205] the European Union[^c-34bf9c0d80d0de64aa4d9485f528f1d7] and imported into Northern Ireland from any place inside those Communities is intended for quarantine in accordance with Article 10 or 11 of Regulation 1251/2008, it is an offence for the person importing the animal to fail to transport it directly to a quarantine facility.
 
-(2) Where quarantine is a condition for the placing on the market of any aquaculture animal in accordance with Article 17 or 20 of Directive 2006/88 or for the import of any such animal into Northern Ireland or[^key-49b41d71d98758c67a2cc7274c5f6d0e] the European Union in accordance with Chapter IV of Regulation 1251/2008, it is an offence for the operator of a quarantine facility to release the animal from quarantine without the prior written consent of the Department.
+(2) Where quarantine is a condition for the placing on the market of any aquaculture animal in accordance with Article 17 or 20 of Directive 2006/88 or for the import of any such animal into Northern Ireland or[^c-49b41d71d98758c67a2cc7274c5f6d0e] the European Union in accordance with Chapter IV of Regulation 1251/2008, it is an offence for the operator of a quarantine facility to release the animal from quarantine without the prior written consent of the Department.
 
 ## PART 4 — NOTIFICATION AND CONTROL OF DISEASE OUTBREAKS
 
-### 26. Obligation to notify in case of suspicion of a listed disease or increased mortality[^key-a8f5c09a5a42417e068a7f70ffd68f11]
+### 26. Obligation to notify in case of suspicion of a listed disease or increased mortality[^c-a8f5c09a5a42417e068a7f70ffd68f11]
 
 (1) It is an offence for a relevant person who knows or suspects that a listed disease is present in any aquatic animal to fail to notify immediately the Department of that knowledge or suspicion.
 
@@ -535,23 +535,23 @@ Regulations 22 and 23 do not apply where the transport is by means of a containe
 - (d) any veterinarian or senior member of staff of any laboratory; or
 - (e) any other person with an occupational relationship to aquatic animals of susceptible species or to the products of such animals.
 
-### 27. Initial designation area[^key-a7ea9a0f4c264f0ae9ed435f83192ff9]
+### 27. Initial designation area[^c-a7ea9a0f4c264f0ae9ed435f83192ff9]
 
 (1) Where the Department suspects that a listed disease or an emerging disease is present, or may become present, in aquatic animals in Northern Ireland, it shall designate such area as it considers appropriate to prevent or limit the spread of the disease.
 
 (2) Where the Department has made an initial designation, it shall—
 
 - (a) take, or arrange to have taken, samples of or from any aquatic animal or waters in the initial designation area as may be necessary to establish whether the disease is present;
-- (b) examine, or arrange to have examined, the samples in a laboratory designated by the Department in accordance with Article 54(2)(b) of Regulation 2016/429[^key-80a88c8bcab79acf5b875a5f841e3095];
+- (b) examine, or arrange to have examined, the samples in a laboratory designated by the Department in accordance with Article 54(2)(b) of Regulation 2016/429[^c-80a88c8bcab79acf5b875a5f841e3095];
 - (c) place any farm or mollusc farming area in the initial designation area under the surveillance of the Department; and
-- (d) where it suspects that the disease is present, initiate an epidemiological enquiry in accordance with Article 57(1) of Regulation 2016/429[^key-3746b71a0114f26a805f5d2aa9d8ed9f].
+- (d) where it suspects that the disease is present, initiate an epidemiological enquiry in accordance with Article 57(1) of Regulation 2016/429[^c-3746b71a0114f26a805f5d2aa9d8ed9f].
 
 (3) It is an offence for a person, except under, and in accordance with the conditions of, a licence granted by the Department, to —
 
 - (a) move any aquatic animal or aquaculture product into, out of or within an initial designation area; or
 - (b) dispose of any aquatic animal (whether alive or dead) which comes from an initial designation area.
 
-### 28. Contents and publication of initial designation[^key-608c0bc73ed99298c360b64f554f7f12]
+### 28. Contents and publication of initial designation[^c-608c0bc73ed99298c360b64f554f7f12]
 
 (1) An initial designation shall—
 
@@ -573,7 +573,7 @@ Regulations 22 and 23 do not apply where the transport is by means of a containe
 
 (6) It is an offence for a person to fail to comply with any prohibition, restriction or requirement imposed under paragraph (2).
 
-### 29. Powers of inspectors in initial designation area[^key-74761ec88add5c7cabc8212dae7388d0]
+### 29. Powers of inspectors in initial designation area[^c-74761ec88add5c7cabc8212dae7388d0]
 
 (1) This regulation applies where the Department has made an initial designation.
 
@@ -601,14 +601,14 @@ Regulations 22 and 23 do not apply where the transport is by means of a containe
 
 (6) It is an offence for a person to fail to comply with any requirement or prohibition imposed under paragraph (3) or (4).
 
-### 30. Withdrawal of initial designation[^key-29f6458a9d11b8e0e2c7d2db55f5fcbf]
+### 30. Withdrawal of initial designation[^c-29f6458a9d11b8e0e2c7d2db55f5fcbf]
 
 The Department shall withdraw an initial designation if—
 
 - (a) it is satisfied that the suspected disease is not present, or is not likely to become present, in the initial designation area; or
 - (b) it has designated the area under regulation 31.
 
-### 31. Confirmed designation[^key-94e4b39a3e00d9abfd5b2d10702adf09]
+### 31. Confirmed designation[^c-94e4b39a3e00d9abfd5b2d10702adf09]
 
 (1) Where the Department has confirmed that a listed disease or an emerging disease is present in aquatic animals in Northern Ireland, it shall designate such area as it considers appropriate to prevent or limit the spread of the disease.
 
@@ -617,14 +617,14 @@ The Department shall withdraw an initial designation if—
 - (a) carry out an epizootic investigation;
 - (b) place any farm or mollusc farming area in the confirmed designation area under the surveillance of the Department;
 - (c) take, or arrange to have taken, samples of or from any aquatic animal or water in the confirmed designation area as may be necessary to monitor the presence of the disease; and
-- (d) examine, or arrange to have examined, the samples in a laboratory designated by the Department in accordance with Article 54(2)(b) of Regulation 2016/429[^key-ae0691f229126f0ef0a8afaef2207ac3].
+- (d) examine, or arrange to have examined, the samples in a laboratory designated by the Department in accordance with Article 54(2)(b) of Regulation 2016/429[^c-ae0691f229126f0ef0a8afaef2207ac3].
 
 (3) It is an offence for a person, except under, and in accordance with the conditions of, a licence granted by the Department, to—
 
 - (a) move any aquatic animal or aquaculture product into, out of or within a confirmed designation area; or
 - (b) dispose of any aquatic animal (whether alive or dead) which comes from a confirmed designation area.
 
-### 32. Contents and publication of confirmed designation[^key-aff1947263b2a667021b640eeaf6d598]
+### 32. Contents and publication of confirmed designation[^c-aff1947263b2a667021b640eeaf6d598]
 
 (1) A confirmed designation shall—
 
@@ -655,7 +655,7 @@ The Department shall withdraw an initial designation if—
 
 (8) In paragraph (5)(c) “several fishery” has the meaning given in section 206(1) of the Fisheries Act (Northern Ireland) 1966[^f00021].
 
-### 33. Powers of inspectors in confirmed designation area[^key-90ba7d9ce0b03b631915515c28fe9a97]
+### 33. Powers of inspectors in confirmed designation area[^c-90ba7d9ce0b03b631915515c28fe9a97]
 
 (1) This regulation applies where the Department has made a confirmed designation.
 
@@ -688,13 +688,13 @@ The Department shall withdraw an initial designation if—
 
 (8) It is an offence for a person to fail to comply with any requirement or prohibition imposed under paragraph (3), (5) or (6).
 
-### 34. Withdrawal of confirmed designation[^key-5194f249afaecee628d34608af4a05dc]
+### 34. Withdrawal of confirmed designation[^c-5194f249afaecee628d34608af4a05dc]
 
 (1) The Department shall withdraw a confirmed designation if it is satisfied that the listed disease or emerging disease is not present in the confirmed designation area.
 
 (2) The Department shall publicise the withdrawal of a confirmed designation in such manner and to such extent as it considers necessary.
 
-### 35. Creation of barriers to movement of aquatic animals[^key-d910d85c090f850392410d6365b09956]
+### 35. Creation of barriers to movement of aquatic animals[^c-d910d85c090f850392410d6365b09956]
 
 (1) Where the Department has made an initial designation under regulation 27 or a confirmed designation under regulation 31 in relation to any disease, it may exercise the powers in paragraph (2).
 
@@ -711,7 +711,7 @@ The Department shall withdraw an initial designation if—
 
 ## PART 5 — ENFORCEMENT AND APPEALS
 
-### 36. Further information[^key-a891b6c0fb346ecd7e8c8ff9e37cf38b]
+### 36. Further information[^c-a891b6c0fb346ecd7e8c8ff9e37cf38b]
 
 (1) The Department may, by notice served on the applicant, request such additional information in relation to any application under regulation 7(1), 9(1)(b), 12(3), or 13(2) as the Department may reasonably require.
 
@@ -719,14 +719,14 @@ The Department shall withdraw an initial designation if—
 
 (3) Where an applicant fails to provide the Department with any information requested under paragraph (1), the Department may refuse to proceed with the application to which it relates or refuse to proceed with it until the information is provided.
 
-### 37. Powers of entry[^key-6c89a5cdd1234f8243b76727770c6860]
+### 37. Powers of entry[^c-6c89a5cdd1234f8243b76727770c6860]
 
-(1) An inspector may, on producing, if so required, some duly authenticated document showing the inspector’s authority, enter any premises at any reasonable time for the purposes of Regulation 2016/429[^key-f990ffb520a86ad0b7c03a1e1fefa0ca] and, in particular, for the purposes of—
+(1) An inspector may, on producing, if so required, some duly authenticated document showing the inspector’s authority, enter any premises at any reasonable time for the purposes of Regulation 2016/429[^c-f990ffb520a86ad0b7c03a1e1fefa0ca] and, in particular, for the purposes of—
 
 - (a) administering and enforcing these Regulations;
 - (b) monitoring or surveillance for disease.
 
-(2)[^key-62ae24c5817c2ee5cb9603e7e5f0cba2] An inspector entering any premises, may be accompanied by such persons, and may enter with such equipment or vehicle, as the inspector considers necessary.
+(2)[^c-62ae24c5817c2ee5cb9603e7e5f0cba2] An inspector entering any premises, may be accompanied by such persons, and may enter with such equipment or vehicle, as the inspector considers necessary.
 
 (3) An inspector may not enter any premises used wholly or mainly for residential purposes unless a lay magistrate has issued a warrant authorising the inspector to do so.
 
@@ -755,7 +755,7 @@ whichever is the sooner.
 
 (7) If an inspector enters any unoccupied premises by virtue of a warrant the inspector shall leave them as effectively secured against unauthorised entry as the inspector found them.
 
-### 38. Powers of inspectors[^key-18592f344033f23a6abb00200f076579]
+### 38. Powers of inspectors[^c-18592f344033f23a6abb00200f076579]
 
 (1) Where an inspector enters any premises under regulation 37, the inspector shall have powers to carry out all checks and examinations necessary for the purposes mentioned in regulation 37(1) and, in particular, may—
 
@@ -780,7 +780,7 @@ whichever is the sooner.
 
 (3) It is an offence for a person to fail to comply with any requirement imposed under paragraph (2).
 
-### 39. Enforcement notices[^key-cab374d05928851cd4837f20311df37f]
+### 39. Enforcement notices[^c-cab374d05928851cd4837f20311df37f]
 
 (1) An inspector may serve a notice (“an enforcement notice”) on a relevant person if the inspector considers that—
 
@@ -810,7 +810,7 @@ as the inspector considers necessary to prevent or limit the risk of the spread 
 - (c) the holder of a licence granted under these Regulations; or
 - (d) a transporter.
 
-### 40. Prohibition notices[^key-b93c16d377c2fa10541bf0dee661659d]
+### 40. Prohibition notices[^c-b93c16d377c2fa10541bf0dee661659d]
 
 (1) An inspector may serve a notice (“a prohibition notice”) on a relevant person if the inspector considers that—
 
@@ -827,11 +827,11 @@ as the inspector considers necessary to prevent or limit the risk of the spread 
 
 (3) Except where regulation 44(7) applies, it is an offence for a person to fail to comply with a prohibition notice.
 
-### 41. Costs of compliance[^key-bc2497ecd463724035abbcd5fbd7354b]
+### 41. Costs of compliance[^c-bc2497ecd463724035abbcd5fbd7354b]
 
 Unless the Department directs otherwise in writing, a notice served under these Regulations shall be complied with at the expense of the person on whom it is served.
 
-### 42. Powers of inspectors in case of default[^key-97f1297e3bad35b3d6b1dbf11f02ebcf]
+### 42. Powers of inspectors in case of default[^c-97f1297e3bad35b3d6b1dbf11f02ebcf]
 
 If any person fails to comply with a notice served under regulation 39 or regulation 40, an inspector may—
 
@@ -840,11 +840,11 @@ If any person fails to comply with a notice served under regulation 39 or regula
   - (ii) remedy the consequences of the failure to comply with the notice;
 - (b) recover any expenses reasonably incurred in so doing from any person who has failed to comply with the notice.
 
-### 43. Enforcement by High Court[^key-b72100908d03996af76acb3743ea97e5]
+### 43. Enforcement by High Court[^c-b72100908d03996af76acb3743ea97e5]
 
 If the Department considers that proceedings against a person for an offence under regulation 39(4) or 40(3) would afford an ineffectual remedy against that person, it may take proceedings in the High Court for the purpose of securing compliance with the notice.
 
-### 44. Appeals[^key-47575179741d89aafdd56668e50e1e67]
+### 44. Appeals[^c-47575179741d89aafdd56668e50e1e67]
 
 (1) A person (“the appellant”) may appeal to the Department against any of the following—
 
@@ -897,7 +897,7 @@ the Department shall pay to that person an amount equal to the loss suffered or 
 
 ## PART 6 — OFFENCES AND PENALTIES
 
-### 45. False information[^key-6f934351a26bc1cc2fedc9f205c1d6e0]
+### 45. False information[^c-6f934351a26bc1cc2fedc9f205c1d6e0]
 
 (1) It is an offence for a person, for the purpose of procuring the grant of an authorisation, the amendment of an authorisation, the surrender of an authorisation, the registration of a put and take fishery or non-commercial installation under Part 2 or any licence under these Regulations—
 
@@ -906,7 +906,7 @@ the Department shall pay to that person an amount equal to the loss suffered or 
 
 (2) It is an offence for a person intentionally to make a false entry in any document or record required to be kept by virtue of an authorisation or a requirement in these Regulations.
 
-### 46. Obstruction[^key-e9e173585ef61caf4fa9b364ede8f002]
+### 46. Obstruction[^c-e9e173585ef61caf4fa9b364ede8f002]
 
 (1) It is an offence for a person—
 
@@ -917,7 +917,7 @@ the Department shall pay to that person an amount equal to the loss suffered or 
 
 (2) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question if to do so might incriminate that person.
 
-### 47. Offences by bodies corporate, partnerships and unincorporated associations[^key-d8c90bdded69509b553a0fb0509c928f]
+### 47. Offences by bodies corporate, partnerships and unincorporated associations[^c-d8c90bdded69509b553a0fb0509c928f]
 
 (1) For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
 
@@ -935,11 +935,11 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 48. Offences due to fault of another person[^key-7a468ea8f05ae5e51d7d163500dcc610]
+### 48. Offences due to fault of another person[^c-7a468ea8f05ae5e51d7d163500dcc610]
 
 Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
 
-### 49. Penalties[^key-e0eddef530ac1a1cfa984dc22e4d89d7]
+### 49. Penalties[^c-e0eddef530ac1a1cfa984dc22e4d89d7]
 
 A person who is guilty of an offence under these Regulations is liable—
 
@@ -948,29 +948,29 @@ A person who is guilty of an offence under these Regulations is liable—
 
 ## PART 7 — MISCELLANEOUS
 
-### 50. Prohibition on vaccination against listed disease[^key-f8df22934e824af72941cf85ddd6f3b0]
+### 50. Prohibition on vaccination against listed disease[^c-f8df22934e824af72941cf85ddd6f3b0]
 
 It is an offence for a person to vaccinate an aquatic animal against a listed disease except under, and in accordance with the conditions of, a licence granted by the Department.
 
-### 51. Declaration of disease-free zones and compartments[^key-f72d6395d528ad997be2e75c98e1831b]
+### 51. Declaration of disease-free zones and compartments[^c-f72d6395d528ad997be2e75c98e1831b]
 
 The Department may declare a zone or a compartment in Northern Ireland to be free of a non-exotic disease listed in Part II of Annex IV to Directive 2006/88 in accordance with Article 50 of that Directive.
 
-### 52. Public register of disease-free zones and compartments[^key-11a74186dc7b621e0118d2fb00154b77]
+### 52. Public register of disease-free zones and compartments[^c-11a74186dc7b621e0118d2fb00154b77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 53. Disapplication of control measures[^key-a4389fce0b7651e8e39240c5aa2a54d6]
+### 53. Disapplication of control measures[^c-a4389fce0b7651e8e39240c5aa2a54d6]
 
 Measures prohibiting or restricting the movement of any person or any thing imposed under Part 4 do not apply to an inspector acting in the execution of these Regulations.
 
-### 54. Records[^key-f16e3face38432bd990e8d1334bf3a7a]
+### 54. Records[^c-f16e3face38432bd990e8d1334bf3a7a]
 
 (1) Any person who is required to keep a record under these Regulations shall retain it for at least four years from the date the record is made (unless otherwise required under these Regulations).
 
 (2) It is an offence for a person to fail to comply with paragraph (1).
 
-### 55. Production of licences[^key-4bd98037cc279f12b19f81b6010980ea]
+### 55. Production of licences[^c-4bd98037cc279f12b19f81b6010980ea]
 
 (1) Any person moving any aquatic animal under, and in accordance with the conditions of, a specific licence granted by the Department under these Regulations shall—
 
@@ -990,13 +990,13 @@ Measures prohibiting or restricting the movement of any person or any thing impo
 
 (3) It is an offence for a person to fail to comply with paragraph (1) or (2).
 
-### 56. Disclosure of information[^key-8e7db7c2ebac0f489bf50e23912299ba]
+### 56. Disclosure of information[^c-8e7db7c2ebac0f489bf50e23912299ba]
 
-(1) The Department, the Foyle, Carlingford and Irish Lights Commission, the Fisheries Conservancy Board for Northern Ireland, the Agri-food and Biosciences Institute, the Department of Culture, Arts and Leisure, the Department of the Environment, any district council and the Food Standards Agency may disclose information to each other for the purposes of Regulation 2016/429[^key-974ac326b018351fdc1b3c3c914f80b3] or these Regulations.
+(1) The Department, the Foyle, Carlingford and Irish Lights Commission, the Fisheries Conservancy Board for Northern Ireland, the Agri-food and Biosciences Institute, the Department of Culture, Arts and Leisure, the Department of the Environment, any district council and the Food Standards Agency may disclose information to each other for the purposes of Regulation 2016/429[^c-974ac326b018351fdc1b3c3c914f80b3] or these Regulations.
 
-(2) The Department may disclose information received by it in the execution or enforcement of these Regulations to the equivalent competent authority in any other part of the United Kingdom for the purposes of [^key-8c63e3df3f1fb241496cd7b3ca65b5d0]... these Regulations or the equivalent regulations in England, Scotland or Wales.
+(2) The Department may disclose information received by it in the execution or enforcement of these Regulations to the equivalent competent authority in any other part of the United Kingdom for the purposes of [^c-8c63e3df3f1fb241496cd7b3ca65b5d0]... these Regulations or the equivalent regulations in England, Scotland or Wales.
 
-### 57. Application to the Crown[^key-2d6d3b85b92579523998c57aaa688de4]
+### 57. Application to the Crown[^c-2d6d3b85b92579523998c57aaa688de4]
 
 (1) Subject to the provisions of this regulation, these Regulations bind the Crown.
 
@@ -1006,7 +1006,7 @@ Measures prohibiting or restricting the movement of any person or any thing impo
 
 (4) In this regulation any reference to the Crown includes a reference to the Crown in right of Her Majesty’s Government in Northern Ireland.
 
-### 58. Transitional provision[^key-d50511c8f03d55bab7d9d92aaecad740]
+### 58. Transitional provision[^c-d50511c8f03d55bab7d9d92aaecad740]
 
 Regulation 6(1) shall not apply to any person who—
 
@@ -1015,7 +1015,7 @@ Regulation 6(1) shall not apply to any person who—
 
 until the date the application is determined by the Department under regulation 7 or, if earlier, the date the application is withdrawn.
 
-### 59. Repeals and revocations[^key-dfd0337d7141cdb3d0367d98ef11720d]
+### 59. Repeals and revocations[^c-dfd0337d7141cdb3d0367d98ef11720d]
 
 Schedule 2 (repeals and revocations) has effect.
 
@@ -1025,40 +1025,40 @@ Liam McKibben
 
 A senior officer of the Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — LIST OF DISEASES[^key-a6a6290e70154404d84bc12d15b4f3e5]
+## SCHEDULE 1 — LIST OF DISEASES[^c-a6a6290e70154404d84bc12d15b4f3e5]
 
 Regulation 2(2)
 
-(which are not listed in Annex II to Regulation 2016/429)[^key-20897310bc22d840bba4cfc802c0b198]
+(which are not listed in Annex II to Regulation 2016/429)[^c-20897310bc22d840bba4cfc802c0b198]
 
 | Disease | Susceptible species |
 | --- | --- |
 | Infection with *Gyrodactylus salaris* | Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), Arctic char (*Salvelinus alpinus*), North American brook trout (*S.fontinalis*), grayling (*Thymallus thymallus*), North American lake trout (*Salvelinus namaycush*), and brown trout (*Salmo trutta*). Other species of fish on sites where any of the above species are present shall also be considered as susceptible species. |
 | Bacterial kidney disease | Fish belonging to the family *Salmonidae.* |
 | Spring viraemia of carp | Bighead carp (*Aristichthys nobilis*), goldfish (*Carassius auratus*), crucian carp (*C.carassius*), grass carp (*Ctenopharyngodon idellus*), common carp and koi carp (*Cyprinus carpio*), silver carp (*Hypophthalmichthys molitrix*), sheatfish (*Silurus glanis*) and tench (*Tinca tinca*). |
-| Ostreid herpesvirus 1 µvar[^key-3331ba88e93dc2b60286543d727f674a] | Pacific oysters (*Crassostrea gigas).* |
+| Ostreid herpesvirus 1 µvar[^c-3331ba88e93dc2b60286543d727f674a] | Pacific oysters (*Crassostrea gigas).* |
 
 ## SCHEDULE 2 — REPEALS and REVOCATIONS
 
 Regulation 59
 
-**1.**[^key-6ff2a1ebf88167aa9c36cc4d0ca88f69] The Diseases of Fish Act (Northern Ireland) 1967 [^f00022] is repealed.
+**1.**[^c-6ff2a1ebf88167aa9c36cc4d0ca88f69] The Diseases of Fish Act (Northern Ireland) 1967 [^f00022] is repealed.
 
-**2.**[^key-e3941431e6aa5103f6fc9b7633bcecc9] Article 3(4) of the Fisheries Amendment (Northern Ireland) Order 1981 [^f00023] is repealed.
+**2.**[^c-e3941431e6aa5103f6fc9b7633bcecc9] Article 3(4) of the Fisheries Amendment (Northern Ireland) Order 1981 [^f00023] is repealed.
 
-**3.**[^key-fd1575ba84a3dfe6e137114e8f38df27] The Diseases of Fish (Control) Regulations (Northern Ireland) 1996 [^f00024] are revoked.
+**3.**[^c-fd1575ba84a3dfe6e137114e8f38df27] The Diseases of Fish (Control) Regulations (Northern Ireland) 1996 [^f00024] are revoked.
 
-**4.**[^key-b68b0b9043b0764ef65bc476554fec36] The Fish Health Regulations (Northern Ireland) 1998 [^f00025] are revoked.
+**4.**[^c-b68b0b9043b0764ef65bc476554fec36] The Fish Health Regulations (Northern Ireland) 1998 [^f00025] are revoked.
 
-**5.**[^key-731c1915b1478124444a5f206296c011] The Diseases of Fish (Control) (Amendment) Regulations (Northern Ireland) 2002 [^f00026] are revoked.
+**5.**[^c-731c1915b1478124444a5f206296c011] The Diseases of Fish (Control) (Amendment) Regulations (Northern Ireland) 2002 [^f00026] are revoked.
 
-**6.**[^key-847d53758ffa802ce83806c8ba24c974] The Fish Health (Amendment) Regulations (Northern Ireland) 2005 [^f00027] are revoked.
+**6.**[^c-847d53758ffa802ce83806c8ba24c974] The Fish Health (Amendment) Regulations (Northern Ireland) 2005 [^f00027] are revoked.
 
-**7.**[^key-79c7187b7916482537459162cd4613d4] In Schedule 2 to the Foyle and Carlingford Fisheries (Northern Ireland) Order 2007[^f00028]**,** paragraph 4 is repealed.
+**7.**[^c-79c7187b7916482537459162cd4613d4] In Schedule 2 to the Foyle and Carlingford Fisheries (Northern Ireland) Order 2007[^f00028]**,** paragraph 4 is repealed.
 
-**8.**[^key-7f505764d6b0decf88ea92d3b97a75bf] The Fish Health (Amendment) Regulations (Northern Ireland) 2008[^f00029] are revoked.
+**8.**[^c-7f505764d6b0decf88ea92d3b97a75bf] The Fish Health (Amendment) Regulations (Northern Ireland) 2008[^f00029] are revoked.
 
-**9.**[^key-436c2a585fee49ef0ef564913568a259] In Schedule 1 to the Public Authorities (Reform) Act (Northern Ireland) 2009 [^f00030], in Part 2, paragraph 4 is repealed.
+**9.**[^c-436c2a585fee49ef0ef564913568a259] In Schedule 1 to the Public Authorities (Reform) Act (Northern Ireland) 2009 [^f00030], in Part 2, paragraph 4 is repealed.
 
 EXPLANATORY NOTE
 
@@ -1096,25 +1096,25 @@ Part 7 establishes the Department’s role in declaring disease free zones or co
 
 [^f00006]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
-[^key-1c9530b1d05fdb74a29b3cb5986db798]: Commencement: Reg. 1 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-1c9530b1d05fdb74a29b3cb5986db798]: Commencement: Reg. 1 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-66dba656814d4fd12629c685b5804460]: Commencement: Reg. 2 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-66dba656814d4fd12629c685b5804460]: Commencement: Reg. 2 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b30ed48728dd1e755492aaef87ac7aa7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/a)
+[^c-b30ed48728dd1e755492aaef87ac7aa7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/a)
 
-[^key-3c937ee06488309236782e1ca1b86131]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/b)
+[^c-3c937ee06488309236782e1ca1b86131]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/b)
 
 [^f00009]: Footnote: O.J. No. L 328, 24.11.2006, p.14, as corrected by Corrigenda, O.J. No. L 140, 1.6.2007, p.59 and O.J. No. L 239, 12.9.2007, p.70 as amended by Commission Directive [2008/53/EC](https://www.legislation.gov.uk/european/directive/2008/0053), O.J. No. L 117, 1.5.2008, p.27
 
-[^key-2b567a8652be6571fb0915fb3ff98ed1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/1/a/ii)
+[^c-2b567a8652be6571fb0915fb3ff98ed1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/1/a/ii)
 
 [^f00010]: Footnote: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9). Section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
 [^f00011]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-33ff2dd32fbad53eace48137666a7a4b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2/a) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/c)
+[^c-33ff2dd32fbad53eace48137666a7a4b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2/a) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/c)
 
 [^f00012]: Footnote: [1952 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1952/5)
 
@@ -1124,230 +1124,230 @@ Part 7 establishes the Department’s role in declaring disease free zones or co
 
 [^f00015]: Footnote: O.J. No. L 337, 16.12.2008, p.41
 
-[^key-5a53b57400945b8169c6752e1e9c52aa]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) inserted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/d)
+[^c-5a53b57400945b8169c6752e1e9c52aa]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) inserted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/d)
 
-[^key-c09de499b56124642ad155efc5ad73ce]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(e)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/e)
+[^c-c09de499b56124642ad155efc5ad73ce]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(1)(e)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/1/e)
 
-[^key-57e55c7942115f19fdd279ccc72f743b]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/3) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/2)
+[^c-57e55c7942115f19fdd279ccc72f743b]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/3) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2023/163/regulation/3/2)
 
-[^key-43e78a8ffbf6794f785b23b91bf32f47]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/4)[(5)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/5) omitted (24.12.2018) by virtue of [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(1)(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/1/b)
+[^c-43e78a8ffbf6794f785b23b91bf32f47]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/4)[(5)](https://www.legislation.gov.uk/nisr/2009/129/regulation/2/5) omitted (24.12.2018) by virtue of [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(1)(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/1/b)
 
-[^key-9164a6e22b02c4efba0b5da90b4e1e06]: Commencement: Reg. 3 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-9164a6e22b02c4efba0b5da90b4e1e06]: Commencement: Reg. 3 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-bae794f587ae28de64a98264b70013cc]: Commencement: Reg. 4 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-bae794f587ae28de64a98264b70013cc]: Commencement: Reg. 4 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f235f89667a4d0afb1464843b61aacd3]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2009/129/regulation/4A) and cross heading inserted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2023/163/regulation/4)
+[^c-f235f89667a4d0afb1464843b61aacd3]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2009/129/regulation/4A) and cross heading inserted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2023/163/regulation/4)
 
-[^key-171f139aabf946359ba60e8cb83f9800]: Commencement: Reg. 5 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-171f139aabf946359ba60e8cb83f9800]: Commencement: Reg. 5 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-fa2e4cb85158f8bd3581f5cb79ba2659]: Commencement: Reg. 6(2) in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-fa2e4cb85158f8bd3581f5cb79ba2659]: Commencement: Reg. 6(2) in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-4f30139e15bf7b9c00114110df6cb46a]: Commencement: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/6/1) in operation at 1.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/2)
+[^c-4f30139e15bf7b9c00114110df6cb46a]: Commencement: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/6/1) in operation at 1.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/2)
 
-[^key-6ee2b65a7fdce8c9fe3ccb03e79e3080]: Commencement: Reg. 7 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-6ee2b65a7fdce8c9fe3ccb03e79e3080]: Commencement: Reg. 7 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00016]: Footnote: The Fisheries Conservancy Board for Northern Ireland is prospectively abolished and its functions under the Fisheries Act (Northern Ireland) 1966 transferred to the Department of Culture, Arts and Leisure under section 1 of the Public Authorities (Reform) Act (Northern Ireland) [2009 c.3 (N.I.)](https://www.legislation.gov.uk/nia/2009/3). However, by virtue of paragraph 4(1) of Schedule 1 to that Act, any reference to the Board in any statutory provision shall, subject to paragraph 4(2), after the day appointed for the coming into operation of section 1(1), be construed as a reference to that Department.
 
-[^key-7f0e5a416ed174986fd86fd5dd41e6ba]: Commencement: Reg. 8 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-7f0e5a416ed174986fd86fd5dd41e6ba]: Commencement: Reg. 8 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-79283b90afff4f9cd8ceff0291805999]: Commencement: Reg. 9 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-79283b90afff4f9cd8ceff0291805999]: Commencement: Reg. 9 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-577fbe0bef13788633fdf98d97a3bc70]: Commencement: Reg. 10 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-577fbe0bef13788633fdf98d97a3bc70]: Commencement: Reg. 10 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-93f5fed2ca57ef2e36e050a6fa5fad3a]: Commencement: Reg. 11 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-93f5fed2ca57ef2e36e050a6fa5fad3a]: Commencement: Reg. 11 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-5327b4c07327a55719e0f249113418bc]: Commencement: Reg. 12 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-5327b4c07327a55719e0f249113418bc]: Commencement: Reg. 12 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f55c5893fe44d570a3cf4a6cbaaa66cf]: Commencement: Reg. 13(2)-(5) in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-f55c5893fe44d570a3cf4a6cbaaa66cf]: Commencement: Reg. 13(2)-(5) in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-8a10a246c458aef181d2c59bc40601d4]: Commencement: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/13/1) in operation at 1.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/2)
+[^c-8a10a246c458aef181d2c59bc40601d4]: Commencement: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/13/1) in operation at 1.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/2)
 
-[^key-922f949c9906cf37f8e5b18cc197a240]: Commencement: Reg. 14 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-922f949c9906cf37f8e5b18cc197a240]: Commencement: Reg. 14 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-4c049568afff480b521124ba5ed51195]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/14/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2023/163/regulation/5)
+[^c-4c049568afff480b521124ba5ed51195]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/14/2) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2023/163/regulation/5)
 
-[^key-386fa4553cb444d38953a19c83740453]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/2009/129/regulation/14/3) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2023/163/regulation/5)
+[^c-386fa4553cb444d38953a19c83740453]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/2009/129/regulation/14/3) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2023/163/regulation/5)
 
-[^key-3501feb03063ffbbcca757224aa53060]: Commencement: Reg. 15 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-3501feb03063ffbbcca757224aa53060]: Commencement: Reg. 15 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00017]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
 [^f00018]: Footnote: [1952 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1952/5)
 
-[^key-2878f5558d254ab5640c2192ab60ac0d]: Commencement: Reg. 16 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-2878f5558d254ab5640c2192ab60ac0d]: Commencement: Reg. 16 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00019]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17); section 11A was inserted by Article 6 of the Fisheries (Amendment) (Northern Ireland) Order 1991 [S.I. 1991/1466 (N.I.13)](https://www.legislation.gov.uk/nisi/1991/1466)
 
-[^key-26de28c14006d3c214fba5da174939e0]: Commencement: Reg. 17 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-26de28c14006d3c214fba5da174939e0]: Commencement: Reg. 17 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00020]: Footnote: [1952 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1952/5); Part VIA was inserted by Article 3(1) of the Foyle and Carlingford Fisheries (Northern Ireland) Order 2007 [S.I. 2007/915 (N.I. 9)](https://www.legislation.gov.uk/nisi/2007/915)
 
-[^key-dc54210b9785a0b8bebe664bef8809c3]: Commencement: Reg. 18 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-dc54210b9785a0b8bebe664bef8809c3]: Commencement: Reg. 18 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-c194a57d0faa86e61e64448b21c4d3a5]: Commencement: Reg. 19 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-c194a57d0faa86e61e64448b21c4d3a5]: Commencement: Reg. 19 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-fa64d7f0a370557a5d2228f2b15a1032]: Textual amendment: Words in [reg. 19(8)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(a)(i)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/a/i)
+[^c-fa64d7f0a370557a5d2228f2b15a1032]: Textual amendment: Words in [reg. 19(8)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(a)(i)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/a/i)
 
-[^key-5aec5fede5c844e0849e4822e950169f]: Textual amendment: Words in [reg. 19(8)(b)(i)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8/b/i) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(2)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/2)
+[^c-5aec5fede5c844e0849e4822e950169f]: Textual amendment: Words in [reg. 19(8)(b)(i)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8/b/i) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(2)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/2)
 
-[^key-f483f8065cf7a2d44244397f77a94ad9]: Textual amendment: Words in [reg. 19(8)(b)(i)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8/b/i) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/a/ii/aa)
+[^c-f483f8065cf7a2d44244397f77a94ad9]: Textual amendment: Words in [reg. 19(8)(b)(i)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8/b/i) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/a/ii/aa)
 
-[^key-9c61e729ee8fe658177e94a7e174cf93]: Textual amendment: Words in [reg. 19(8)(b)(i)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8/b/i) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/a/ii/bb)
+[^c-9c61e729ee8fe658177e94a7e174cf93]: Textual amendment: Words in [reg. 19(8)(b)(i)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/8/b/i) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/a/ii/bb)
 
-[^key-c2d13212a0bb87e6a2a9ed788faf64df]: Textual amendment: Words in [reg. 19(9)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/b/i)
+[^c-c2d13212a0bb87e6a2a9ed788faf64df]: Textual amendment: Words in [reg. 19(9)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/b/i)
 
-[^key-66f18a61e8a88cac784eb3e0399aa495]: Textual amendment: Words in [reg. 19(9)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9/a) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(2)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/2)
+[^c-66f18a61e8a88cac784eb3e0399aa495]: Textual amendment: Words in [reg. 19(9)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9/a) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(2)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/2)
 
-[^key-8f5182af1eb144d8c55d83897d767914]: Textual amendment: Words in [reg. 19(9)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9/a) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/b/ii/aa)
+[^c-8f5182af1eb144d8c55d83897d767914]: Textual amendment: Words in [reg. 19(9)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9/a) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/b/ii/aa)
 
-[^key-2d8b849f74189c4fa869d77f53396fb0]: Textual amendment: Words in [reg. 19(9)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9/a) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/b/ii/bb)
+[^c-2d8b849f74189c4fa869d77f53396fb0]: Textual amendment: Words in [reg. 19(9)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/9/a) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/b/ii/bb)
 
-[^key-75ae06854990d3e5e1004c4318f0cfc8]: Textual amendment: [Reg. 19(11)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/11/a)[(b)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/11/b) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(c)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/c)
+[^c-75ae06854990d3e5e1004c4318f0cfc8]: Textual amendment: [Reg. 19(11)(a)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/11/a)[(b)](https://www.legislation.gov.uk/nisr/2009/129/regulation/19/11/b) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [6(c)](https://www.legislation.gov.uk/nisr/2023/163/regulation/6/c)
 
-[^key-ecc18003ed7040dc45bb5d382cff6cbc]: Commencement: Reg. 20 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-ecc18003ed7040dc45bb5d382cff6cbc]: Commencement: Reg. 20 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f9120446c0ae6571ec76675ef2346c19]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/20/1) deleted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/2/a)
+[^c-f9120446c0ae6571ec76675ef2346c19]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/20/1) deleted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/2/a)
 
-[^key-88afe469faf3f2f2fd1cae45bd6edab8]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2009/129/regulation/20/3) deleted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/2/b)
+[^c-88afe469faf3f2f2fd1cae45bd6edab8]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2009/129/regulation/20/3) deleted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/5/2/b)
 
-[^key-45bc3ade09789123c40bb1ed536e17ed]: Commencement: Reg. 21 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-45bc3ade09789123c40bb1ed536e17ed]: Commencement: Reg. 21 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-ce1a15552d625d1d9cecb84fca8f4b7b]: Commencement: Reg. 22 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-ce1a15552d625d1d9cecb84fca8f4b7b]: Commencement: Reg. 22 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-7777a06c3786568ad385300f26f3cc96]: Commencement: Reg. 23 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-7777a06c3786568ad385300f26f3cc96]: Commencement: Reg. 23 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-02da08ff35847c0f2576d6974d42faf7]: Commencement: Reg. 24 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-02da08ff35847c0f2576d6974d42faf7]: Commencement: Reg. 24 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-156b361ea4c9182016d2db811004734b]: Commencement: Reg. 25 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-156b361ea4c9182016d2db811004734b]: Commencement: Reg. 25 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-042ccbae252d92cceb51a45261245205]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/25/1) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(3)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/3/i)
+[^c-042ccbae252d92cceb51a45261245205]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/25/1) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(3)(i)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/3/i)
 
-[^key-34bf9c0d80d0de64aa4d9485f528f1d7]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-34bf9c0d80d0de64aa4d9485f528f1d7]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-49b41d71d98758c67a2cc7274c5f6d0e]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/25/2) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(3)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/3/ii)
+[^c-49b41d71d98758c67a2cc7274c5f6d0e]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/25/2) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(3)(ii)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/3/ii)
 
-[^key-a8f5c09a5a42417e068a7f70ffd68f11]: Commencement: Reg. 26 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-a8f5c09a5a42417e068a7f70ffd68f11]: Commencement: Reg. 26 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-a7ea9a0f4c264f0ae9ed435f83192ff9]: Commencement: Reg. 27 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-a7ea9a0f4c264f0ae9ed435f83192ff9]: Commencement: Reg. 27 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-80a88c8bcab79acf5b875a5f841e3095]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2009/129/regulation/27/2/b) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2023/163/regulation/7/a)
+[^c-80a88c8bcab79acf5b875a5f841e3095]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2009/129/regulation/27/2/b) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2023/163/regulation/7/a)
 
-[^key-3746b71a0114f26a805f5d2aa9d8ed9f]: Textual amendment: Words in [reg. 27(2)(d)](https://www.legislation.gov.uk/nisr/2009/129/regulation/27/2/d) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2023/163/regulation/7/b)
+[^c-3746b71a0114f26a805f5d2aa9d8ed9f]: Textual amendment: Words in [reg. 27(2)(d)](https://www.legislation.gov.uk/nisr/2009/129/regulation/27/2/d) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2023/163/regulation/7/b)
 
-[^key-608c0bc73ed99298c360b64f554f7f12]: Commencement: Reg. 28 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-608c0bc73ed99298c360b64f554f7f12]: Commencement: Reg. 28 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-74761ec88add5c7cabc8212dae7388d0]: Commencement: Reg. 29 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-74761ec88add5c7cabc8212dae7388d0]: Commencement: Reg. 29 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-29f6458a9d11b8e0e2c7d2db55f5fcbf]: Commencement: Reg. 30 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-29f6458a9d11b8e0e2c7d2db55f5fcbf]: Commencement: Reg. 30 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-94e4b39a3e00d9abfd5b2d10702adf09]: Commencement: Reg. 31 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-94e4b39a3e00d9abfd5b2d10702adf09]: Commencement: Reg. 31 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-ae0691f229126f0ef0a8afaef2207ac3]: Textual amendment: Words in [reg. 31(2)(d)](https://www.legislation.gov.uk/nisr/2009/129/regulation/31/2/d) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2023/163/regulation/8)
+[^c-ae0691f229126f0ef0a8afaef2207ac3]: Textual amendment: Words in [reg. 31(2)(d)](https://www.legislation.gov.uk/nisr/2009/129/regulation/31/2/d) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2023/163/regulation/8)
 
-[^key-aff1947263b2a667021b640eeaf6d598]: Commencement: Reg. 32 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-aff1947263b2a667021b640eeaf6d598]: Commencement: Reg. 32 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00021]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-90ba7d9ce0b03b631915515c28fe9a97]: Commencement: Reg. 33 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-90ba7d9ce0b03b631915515c28fe9a97]: Commencement: Reg. 33 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-5194f249afaecee628d34608af4a05dc]: Commencement: Reg. 34 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-5194f249afaecee628d34608af4a05dc]: Commencement: Reg. 34 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-d910d85c090f850392410d6365b09956]: Commencement: Reg. 35 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-d910d85c090f850392410d6365b09956]: Commencement: Reg. 35 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-a891b6c0fb346ecd7e8c8ff9e37cf38b]: Commencement: Reg. 36 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-a891b6c0fb346ecd7e8c8ff9e37cf38b]: Commencement: Reg. 36 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-6c89a5cdd1234f8243b76727770c6860]: Commencement: Reg. 37 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-6c89a5cdd1234f8243b76727770c6860]: Commencement: Reg. 37 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f990ffb520a86ad0b7c03a1e1fefa0ca]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/37/1) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2023/163/regulation/9)
+[^c-f990ffb520a86ad0b7c03a1e1fefa0ca]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/37/1) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2023/163/regulation/9)
 
-[^key-62ae24c5817c2ee5cb9603e7e5f0cba2]: Textual amendment: [Reg. 37(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/37/2) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/581)](https://www.legislation.gov.uk/uksi/2019/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/581/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2019/581/regulation/2/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62ae24c5817c2ee5cb9603e7e5f0cba2]: Textual amendment: [Reg. 37(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/37/2) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/581)](https://www.legislation.gov.uk/uksi/2019/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/581/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2019/581/regulation/2/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-18592f344033f23a6abb00200f076579]: Commencement: Reg. 38 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-18592f344033f23a6abb00200f076579]: Commencement: Reg. 38 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-cab374d05928851cd4837f20311df37f]: Commencement: Reg. 39 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-cab374d05928851cd4837f20311df37f]: Commencement: Reg. 39 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-b93c16d377c2fa10541bf0dee661659d]: Commencement: Reg. 40 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-b93c16d377c2fa10541bf0dee661659d]: Commencement: Reg. 40 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-bc2497ecd463724035abbcd5fbd7354b]: Commencement: Reg. 41 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-bc2497ecd463724035abbcd5fbd7354b]: Commencement: Reg. 41 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-97f1297e3bad35b3d6b1dbf11f02ebcf]: Commencement: Reg. 42 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-97f1297e3bad35b3d6b1dbf11f02ebcf]: Commencement: Reg. 42 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-b72100908d03996af76acb3743ea97e5]: Commencement: Reg. 43 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-b72100908d03996af76acb3743ea97e5]: Commencement: Reg. 43 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-47575179741d89aafdd56668e50e1e67]: Commencement: Reg. 44 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-47575179741d89aafdd56668e50e1e67]: Commencement: Reg. 44 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-6f934351a26bc1cc2fedc9f205c1d6e0]: Commencement: Reg. 45 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-6f934351a26bc1cc2fedc9f205c1d6e0]: Commencement: Reg. 45 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-e9e173585ef61caf4fa9b364ede8f002]: Commencement: Reg. 46 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-e9e173585ef61caf4fa9b364ede8f002]: Commencement: Reg. 46 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-d8c90bdded69509b553a0fb0509c928f]: Commencement: Reg. 47 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-d8c90bdded69509b553a0fb0509c928f]: Commencement: Reg. 47 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-7a468ea8f05ae5e51d7d163500dcc610]: Commencement: Reg. 48 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-7a468ea8f05ae5e51d7d163500dcc610]: Commencement: Reg. 48 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-e0eddef530ac1a1cfa984dc22e4d89d7]: Commencement: Reg. 49 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-e0eddef530ac1a1cfa984dc22e4d89d7]: Commencement: Reg. 49 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f8df22934e824af72941cf85ddd6f3b0]: Commencement: Reg. 50 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-f8df22934e824af72941cf85ddd6f3b0]: Commencement: Reg. 50 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f72d6395d528ad997be2e75c98e1831b]: Commencement: Reg. 51 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-f72d6395d528ad997be2e75c98e1831b]: Commencement: Reg. 51 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-11a74186dc7b621e0118d2fb00154b77]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/nisr/2009/129/regulation/52) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2023/163/regulation/10)
+[^c-11a74186dc7b621e0118d2fb00154b77]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/nisr/2009/129/regulation/52) omitted (30.10.2023) by virtue of [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2023/163/regulation/10)
 
-[^key-a4389fce0b7651e8e39240c5aa2a54d6]: Commencement: Reg. 53 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-a4389fce0b7651e8e39240c5aa2a54d6]: Commencement: Reg. 53 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-f16e3face38432bd990e8d1334bf3a7a]: Commencement: Reg. 54 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-f16e3face38432bd990e8d1334bf3a7a]: Commencement: Reg. 54 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-4bd98037cc279f12b19f81b6010980ea]: Commencement: Reg. 55 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-4bd98037cc279f12b19f81b6010980ea]: Commencement: Reg. 55 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-8e7db7c2ebac0f489bf50e23912299ba]: Commencement: Reg. 56 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-8e7db7c2ebac0f489bf50e23912299ba]: Commencement: Reg. 56 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-974ac326b018351fdc1b3c3c914f80b3]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/56/1) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2023/163/regulation/11)
+[^c-974ac326b018351fdc1b3c3c914f80b3]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/56/1) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2023/163/regulation/11)
 
-[^key-8c63e3df3f1fb241496cd7b3ca65b5d0]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/56/2) omitted (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/4)
+[^c-8c63e3df3f1fb241496cd7b3ca65b5d0]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/nisr/2009/129/regulation/56/2) omitted (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2020/353/regulation/5/4)
 
-[^key-2d6d3b85b92579523998c57aaa688de4]: Commencement: Reg. 57 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-2d6d3b85b92579523998c57aaa688de4]: Commencement: Reg. 57 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-d50511c8f03d55bab7d9d92aaecad740]: Commencement: Reg. 58 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-d50511c8f03d55bab7d9d92aaecad740]: Commencement: Reg. 58 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-dfd0337d7141cdb3d0367d98ef11720d]: Commencement: Reg. 59 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-dfd0337d7141cdb3d0367d98ef11720d]: Commencement: Reg. 59 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-a6a6290e70154404d84bc12d15b4f3e5]: Commencement: Sch. 1 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-a6a6290e70154404d84bc12d15b4f3e5]: Commencement: Sch. 1 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
-[^key-20897310bc22d840bba4cfc802c0b198]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2009/129/schedule/1) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2023/163/regulation/12)
+[^c-20897310bc22d840bba4cfc802c0b198]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2009/129/schedule/1) substituted (30.10.2023) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/163)](https://www.legislation.gov.uk/nisr/2023/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2023/163/regulation/12)
 
-[^key-3331ba88e93dc2b60286543d727f674a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2009/129/schedule/1) added (1.5.2011) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/118)](https://www.legislation.gov.uk/nisr/2011/118), [regs. 1](https://www.legislation.gov.uk/nisr/2011/118/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/118/regulation/2/2)
+[^c-3331ba88e93dc2b60286543d727f674a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2009/129/schedule/1) added (1.5.2011) by [The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/118)](https://www.legislation.gov.uk/nisr/2011/118), [regs. 1](https://www.legislation.gov.uk/nisr/2011/118/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/118/regulation/2/2)
 
-[^key-6ff2a1ebf88167aa9c36cc4d0ca88f69]: Commencement: Sch. 2 para. 1 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-6ff2a1ebf88167aa9c36cc4d0ca88f69]: Commencement: Sch. 2 para. 1 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00022]: Footnote: [1967 c.7(N.I.)](https://www.legislation.gov.uk/apni/1967/7)
 
-[^key-e3941431e6aa5103f6fc9b7633bcecc9]: Commencement: Sch. 2 para. 2 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-e3941431e6aa5103f6fc9b7633bcecc9]: Commencement: Sch. 2 para. 2 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 1981 / 227 (N.I. 7)](https://www.legislation.gov.uk/nisi/1981/227)
 
-[^key-fd1575ba84a3dfe6e137114e8f38df27]: Commencement: Sch. 2 para. 3 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-fd1575ba84a3dfe6e137114e8f38df27]: Commencement: Sch. 2 para. 3 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1996 No. 16](https://www.legislation.gov.uk/nisr/1996/16)
 
-[^key-b68b0b9043b0764ef65bc476554fec36]: Commencement: Sch. 2 para. 4 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-b68b0b9043b0764ef65bc476554fec36]: Commencement: Sch. 2 para. 4 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1998 No. 310](https://www.legislation.gov.uk/nisr/1998/310)
 
-[^key-731c1915b1478124444a5f206296c011]: Commencement: Sch. 2 para. 5 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-731c1915b1478124444a5f206296c011]: Commencement: Sch. 2 para. 5 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 2002 No. 53](https://www.legislation.gov.uk/nisr/2002/53)
 
-[^key-847d53758ffa802ce83806c8ba24c974]: Commencement: Sch. 2 para. 6 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-847d53758ffa802ce83806c8ba24c974]: Commencement: Sch. 2 para. 6 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00027]: Footnote: [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-79c7187b7916482537459162cd4613d4]: Commencement: Sch. 2 para. 7 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-79c7187b7916482537459162cd4613d4]: Commencement: Sch. 2 para. 7 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 2007 / 915 (N.I. 9)](https://www.legislation.gov.uk/nisi/2007/915)
 
-[^key-7f505764d6b0decf88ea92d3b97a75bf]: Commencement: Sch. 2 para. 8 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-7f505764d6b0decf88ea92d3b97a75bf]: Commencement: Sch. 2 para. 8 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 2008 No. 183](https://www.legislation.gov.uk/nisr/2008/183)
 
-[^key-436c2a585fee49ef0ef564913568a259]: Commencement: Sch. 2 para. 9 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
+[^c-436c2a585fee49ef0ef564913568a259]: Commencement: Sch. 2 para. 9 in operation at 27.3.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1)
 
 [^f00030]: Footnote: [2009 c.3 (N.I.)](https://www.legislation.gov.uk/nia/2009/3)

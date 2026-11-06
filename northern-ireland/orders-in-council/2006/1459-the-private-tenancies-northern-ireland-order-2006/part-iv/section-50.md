@@ -26,8 +26,8 @@ summary: ''
 
 (3) If, where any such entry has been made by or on behalf of the landlord, the landlord on being requested by or on behalf of the tenant to do so, refuses or neglects to cause the entry to be deleted within 7 days, the landlord shall be guilty of an offence under this Order, unless he proves that, at the time of the neglect or refusal to cause the entry to be deleted, he had a bona fide claim that the sum was recoverable.
 
-(4)[^key-f0ad0f127ba83b645501ba5d772e8673] In paragraph (2) “**similar document**” does not include a receipt under Article 5(2).
+(4)[^c-f0ad0f127ba83b645501ba5d772e8673] In paragraph (2) “**similar document**” does not include a receipt under Article 5(2).
 
 ## Annotations
 
-[^key-f0ad0f127ba83b645501ba5d772e8673]: Textual amendment: [Art. 50(4)](https://www.legislation.gov.uk/nisi/2006/1459/article/50/4) inserted (1.4.2023) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/20/section/3/3), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-f0ad0f127ba83b645501ba5d772e8673]: Textual amendment: [Art. 50(4)](https://www.legislation.gov.uk/nisi/2006/1459/article/50/4) inserted (1.4.2023) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/20/section/3/3), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)

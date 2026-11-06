@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Efficiency etc[^key-2eaa2e52c5d4913f667f7115e94949ec]
+## 21. Efficiency etc[^c-2eaa2e52c5d4913f667f7115e94949ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ NAO must aim to carry out its functions efficiently and cost-effectively.
 
 ## Annotations
 
-[^key-2eaa2e52c5d4913f667f7115e94949ec]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/4/section/21) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-2eaa2e52c5d4913f667f7115e94949ec]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/4/section/21) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

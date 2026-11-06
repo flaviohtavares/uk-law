@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Short title[^key-ad7994e8f085483b9af83c55537c1065]
+## 52. Short title[^c-ad7994e8f085483b9af83c55537c1065]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Judicial Review and Courts Act 2022.
 
 ## Annotations
 
-[^key-ad7994e8f085483b9af83c55537c1065]: Commencement: S. 52 in force at Royal Assent, see [s. 51(1)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/d)
+[^c-ad7994e8f085483b9af83c55537c1065]: Commencement: S. 52 in force at Royal Assent, see [s. 51(1)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/d)

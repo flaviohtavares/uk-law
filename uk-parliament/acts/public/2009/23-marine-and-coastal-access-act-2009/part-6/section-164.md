@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Powers of court following conviction[^key-df4b4e17ddd59b14bef731e675ff145b]
+## 164. Powers of court following conviction[^c-df4b4e17ddd59b14bef731e675ff145b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ for such period as the court thinks fit.
 
 ## Annotations
 
-[^key-df4b4e17ddd59b14bef731e675ff145b]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2009/23/section/164) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-df4b4e17ddd59b14bef731e675ff145b]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2009/23/section/164) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)

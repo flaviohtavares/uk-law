@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73.[^key-20ad8ca4a43262e30d12c29076d2baf4]
+## 73.[^c-20ad8ca4a43262e30d12c29076d2baf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 418 (“distribution” to include certain expenses of close companie
 
 ## Annotations
 
-[^key-20ad8ca4a43262e30d12c29076d2baf4]: Commencement: Reg. 73 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-20ad8ca4a43262e30d12c29076d2baf4]: Commencement: Reg. 73 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

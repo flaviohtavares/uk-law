@@ -24,7 +24,7 @@ summary: ''
 
 ### Procedure on application for an order under section 116
 
-**1.**[^key-1c874e29a71399080794eac390300a01] (1) The court may not hear a landlord's application for an order under section 116 unless—
+**1.**[^c-1c874e29a71399080794eac390300a01] (1) The court may not hear a landlord's application for an order under section 116 unless—
 
 - (a) the landlord has given notice to the contract-holder of the landlord's intention to apply for such an order, or
 - (b) the court considers it reasonable to dispense with the requirement of notice.
@@ -40,7 +40,7 @@ summary: ''
 
 ### Terms of prohibited conduct standard contract
 
-**2.**[^key-3409296b76b4e953af27afb80d2b0555] (1) This section applies where a periodic standard contract is created by an order under section 116.
+**2.**[^c-3409296b76b4e953af27afb80d2b0555] (1) This section applies where a periodic standard contract is created by an order under section 116.
 
 (2) If the landlord and the contract-holder agree the terms of the periodic standard contract, the terms of the contract are the terms agreed.
 
@@ -61,11 +61,11 @@ summary: ''
 
 (7) Section 151(3) (requirement to inform contract-holder of right to apply for landlord's review under section 202) provides that that section is a fundamental provision which is incorporated as a term of all prohibited conduct standard contracts.
 
-(8) Prohibited conduct standard contracts are within Schedule 9; accordingly section 175 (restriction on giving landlord's notice until after the first six months[^key-b92dbb5b488b43e33d09793f66ccc58d] of occupation) is not incorporated as a term of a prohibited conduct standard contract.
+(8) Prohibited conduct standard contracts are within Schedule 9; accordingly section 175 (restriction on giving landlord's notice until after the first six months[^c-b92dbb5b488b43e33d09793f66ccc58d] of occupation) is not incorporated as a term of a prohibited conduct standard contract.
 
 ### Probation period
 
-**3.**[^key-365a482f2a9fa6650a43d2e02b3552be] (1) The probation period, in relation to an occupation contract which is a periodic standard contract because of an order under section 116, is—
+**3.**[^c-365a482f2a9fa6650a43d2e02b3552be] (1) The probation period, in relation to an occupation contract which is a periodic standard contract because of an order under section 116, is—
 
 - (a) the period of 12 months starting with the occupation date of the contract (see section 116(2)(b)), or
 - (b) if there is an extension under paragraph 4, the period of 18 months starting with the occupation date of the contract.
@@ -98,7 +98,7 @@ summary: ''
 
 ### Extending probation period
 
-**4.**[^key-c4d49369cec41fdc6e708603ce3f8fba] (1) The landlord may extend the probation period to the period of 18 months starting with the occupation date of the contract by giving the contract-holder a notice of extension.
+**4.**[^c-c4d49369cec41fdc6e708603ce3f8fba] (1) The landlord may extend the probation period to the period of 18 months starting with the occupation date of the contract by giving the contract-holder a notice of extension.
 
 (2) The notice of extension must be given to the contract-holder at least eight weeks before the date on which the probation period would end under paragraph 3(1)(a).
 
@@ -113,38 +113,38 @@ summary: ''
 
 (6) A landlord may take into account a person's conduct under sub-paragraph (5)(b) whether or not the person lives continuously in the dwelling, and whatever the capacity in which the person lives in the dwelling.
 
-(7) The Welsh Ministers may by regulations amend sub-paragraph (2) for the purpose of changing when a notice of extension must be given to a contract-holder[^key-498aa9101d4dadb5fb017442bac936de]....
+(7) The Welsh Ministers may by regulations amend sub-paragraph (2) for the purpose of changing when a notice of extension must be given to a contract-holder[^c-498aa9101d4dadb5fb017442bac936de]....
 
 ### Landlord's review of decision to extend probation period
 
-**5.** (1)[^key-11b17ee51b48d2f55391e32b36c3e5f8] If a landlord gives a notice of extension under paragraph 4, the contract-holder may request that the landlord carries out a review of the decision to give the notice.
+**5.** (1)[^c-11b17ee51b48d2f55391e32b36c3e5f8] If a landlord gives a notice of extension under paragraph 4, the contract-holder may request that the landlord carries out a review of the decision to give the notice.
 
-(2)[^key-11b17ee51b48d2f55391e32b36c3e5f8] The request must be made to the landlord before the end of the period of 14 days (or such longer period as the landlord may allow in writing) starting with the day on which the landlord gives the contract-holder the notice of extension.
+(2)[^c-11b17ee51b48d2f55391e32b36c3e5f8] The request must be made to the landlord before the end of the period of 14 days (or such longer period as the landlord may allow in writing) starting with the day on which the landlord gives the contract-holder the notice of extension.
 
-(3)[^key-11b17ee51b48d2f55391e32b36c3e5f8] If the contract-holder requests a review in accordance with sub-paragraph (2), the landlord must carry out the review.
+(3)[^c-11b17ee51b48d2f55391e32b36c3e5f8] If the contract-holder requests a review in accordance with sub-paragraph (2), the landlord must carry out the review.
 
-(4)[^key-11b17ee51b48d2f55391e32b36c3e5f8] Following a review, the landlord may—
+(4)[^c-11b17ee51b48d2f55391e32b36c3e5f8] Following a review, the landlord may—
 
 - (a) confirm the decision to give the notice, or
 - (b) reverse the decision.
 
-(5)[^key-11b17ee51b48d2f55391e32b36c3e5f8] The landlord must notify the contract-holder of the outcome of the review before the date on which the probation period would end under paragraph 3(1)(a).
+(5)[^c-11b17ee51b48d2f55391e32b36c3e5f8] The landlord must notify the contract-holder of the outcome of the review before the date on which the probation period would end under paragraph 3(1)(a).
 
-(6)[^key-11b17ee51b48d2f55391e32b36c3e5f8] If the landlord confirms the decision, the notice must—
+(6)[^c-11b17ee51b48d2f55391e32b36c3e5f8] If the landlord confirms the decision, the notice must—
 
 - (a) set out the reasons for the confirmation, and
 - (b) inform the contract-holder that he or she has a right to apply for a review in the county court under paragraph 6, and of the time by which the application must be made.
 
-(7)[^key-1c03ffda7032e452c5ae2178d5ad9c94][^key-5616e93c5066d53215224b5fd6fc94cb] The Welsh Ministers may prescribe the procedure to be followed in connection with a review under this paragraph.
+(7)[^c-1c03ffda7032e452c5ae2178d5ad9c94][^c-5616e93c5066d53215224b5fd6fc94cb] The Welsh Ministers may prescribe the procedure to be followed in connection with a review under this paragraph.
 
-(8)[^key-1c03ffda7032e452c5ae2178d5ad9c94][^key-5616e93c5066d53215224b5fd6fc94cb] Regulations under sub-paragraph (7) may, amongst other things—
+(8)[^c-1c03ffda7032e452c5ae2178d5ad9c94][^c-5616e93c5066d53215224b5fd6fc94cb] Regulations under sub-paragraph (7) may, amongst other things—
 
 - (a) require the review to be carried out by a person of appropriate seniority who has not been involved in the decision, and
 - (b) set out circumstances in which a contract-holder is entitled to an oral hearing, and whether and by whom he or she may be represented at such a hearing.
 
 ### County court review of decision to extend probation period
 
-**6.**[^key-f8f9bd7ea785b878e8f6f32a5f2584fd] (1) This paragraph applies if a landlord, following a request for a review made in accordance with paragraph 5(2)—
+**6.**[^c-f8f9bd7ea785b878e8f6f32a5f2584fd] (1) This paragraph applies if a landlord, following a request for a review made in accordance with paragraph 5(2)—
 
 - (a) gives notice under paragraph 5(5) informing the contract-holder that the landlord has decided to confirm a decision to give a notice of extension under paragraph 4, or
 - (b) fails to give a notice in accordance with paragraph 5(5).
@@ -179,7 +179,7 @@ summary: ''
 
 ### Application to court to end probation period
 
-**7.**[^key-817714b20ae7c25d7da2e24b40241b20] (1) The contract-holder under an occupation contract which is a periodic standard contract because of an order under section 116 may apply to the court for an order ending the probation period before the time at which it would end under paragraph 3(1).
+**7.**[^c-817714b20ae7c25d7da2e24b40241b20] (1) The contract-holder under an occupation contract which is a periodic standard contract because of an order under section 116 may apply to the court for an order ending the probation period before the time at which it would end under paragraph 3(1).
 
 (2) The application may be made at any time after the end of the period of six months starting with the occupation date of the contract (see section 116(2)(b)).
 
@@ -190,7 +190,7 @@ summary: ''
 
 ### Terms of secure contract that was a prohibited conduct standard contract
 
-**8.**[^key-7c7fdba318c33214ca2551e5fa283480] (1) This paragraph applies where a prohibited conduct standard contract ends and is replaced with a secure contract because the probation period has ended.
+**8.**[^c-7c7fdba318c33214ca2551e5fa283480] (1) This paragraph applies where a prohibited conduct standard contract ends and is replaced with a secure contract because the probation period has ended.
 
 (2) If the landlord and the contract-holder have agreed what the terms of the secure contract are to be in that event, the terms of the contract are the terms agreed.
 
@@ -206,26 +206,26 @@ summary: ''
 
 ## Annotations
 
-[^key-1c874e29a71399080794eac390300a01]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-1c874e29a71399080794eac390300a01]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-3409296b76b4e953af27afb80d2b0555]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-3409296b76b4e953af27afb80d2b0555]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b92dbb5b488b43e33d09793f66ccc58d]: Textual amendment: Words in [Sch. 7 para. 2(8)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/2/8) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/25/2)
+[^c-b92dbb5b488b43e33d09793f66ccc58d]: Textual amendment: Words in [Sch. 7 para. 2(8)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/2/8) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/25/2)
 
-[^key-365a482f2a9fa6650a43d2e02b3552be]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-365a482f2a9fa6650a43d2e02b3552be]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-c4d49369cec41fdc6e708603ce3f8fba]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c4d49369cec41fdc6e708603ce3f8fba]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-498aa9101d4dadb5fb017442bac936de]: Textual amendment: Words in [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/4/7) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 25(3)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/25/3)
+[^c-498aa9101d4dadb5fb017442bac936de]: Textual amendment: Words in [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/4/7) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 25(3)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/25/3)
 
-[^key-11b17ee51b48d2f55391e32b36c3e5f8]: Commencement: [Sch. 7 para. 5(1)-(6)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/5/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-11b17ee51b48d2f55391e32b36c3e5f8]: Commencement: [Sch. 7 para. 5(1)-(6)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/5/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-1c03ffda7032e452c5ae2178d5ad9c94]: Commencement: Sch. 7 para. 5(7)(8) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
+[^c-1c03ffda7032e452c5ae2178d5ad9c94]: Commencement: Sch. 7 para. 5(7)(8) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
 
-[^key-5616e93c5066d53215224b5fd6fc94cb]: Commencement: [Sch. 7 para. 5(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/5/7)[(8)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/5/8) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-5616e93c5066d53215224b5fd6fc94cb]: Commencement: [Sch. 7 para. 5(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/5/7)[(8)](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/5/8) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-f8f9bd7ea785b878e8f6f32a5f2584fd]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f8f9bd7ea785b878e8f6f32a5f2584fd]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-817714b20ae7c25d7da2e24b40241b20]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-817714b20ae7c25d7da2e24b40241b20]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-7c7fdba318c33214ca2551e5fa283480]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-7c7fdba318c33214ca2551e5fa283480]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/7/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

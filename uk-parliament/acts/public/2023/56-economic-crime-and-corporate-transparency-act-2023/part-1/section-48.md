@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Register of members: protecting information[^key-0282e7caac59d86d01e6a292cb1fae80][^key-85afb3647d33fb5a9b6aa4899db8f0fd]
+## 48. Register of members: protecting information[^c-0282e7caac59d86d01e6a292cb1fae80][^c-85afb3647d33fb5a9b6aa4899db8f0fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0282e7caac59d86d01e6a292cb1fae80]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0282e7caac59d86d01e6a292cb1fae80]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-85afb3647d33fb5a9b6aa4899db8f0fd]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/56/section/48) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z9)
+[^c-85afb3647d33fb5a9b6aa4899db8f0fd]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/56/section/48) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Duty to supply nationality documents to Secretary of State[^key-fc68847853b8ad3b512dd6b9515d893f]
+## 20A. Duty to supply nationality documents to Secretary of State[^c-fc68847853b8ad3b512dd6b9515d893f]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc68847853b8ad3b512dd6b9515d893f]: Textual amendment: S. 20A inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 55(11)](https://www.legislation.gov.uk/ukpga/2016/19/section/55/11), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/h)
+[^c-fc68847853b8ad3b512dd6b9515d893f]: Textual amendment: S. 20A inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 55(11)](https://www.legislation.gov.uk/ukpga/2016/19/section/55/11), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/h)

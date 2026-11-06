@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Effective working relationships[^key-79a3854468a62b25493bd6e6dc762a84]
+## 47. Effective working relationships[^c-79a3854468a62b25493bd6e6dc762a84]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The service provider must—
 
 ## Annotations
 
-[^key-79a3854468a62b25493bd6e6dc762a84]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2019/169/regulation/47) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-79a3854468a62b25493bd6e6dc762a84]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2019/169/regulation/47) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

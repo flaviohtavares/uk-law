@@ -28,12 +28,12 @@ summary: ''
 
 (2) HMRC must not accept an application if any item mentioned in regulation 53 is not supplied.
 
-(3) HMRC must not accept an application if they consider that there will be a significant difference, in computing reportable income (see Chapter 5 or 6A[^key-2b826bc606a8f1862f0e855605fd7da2]), between—
+(3) HMRC must not accept an application if they consider that there will be a significant difference, in computing reportable income (see Chapter 5 or 6A[^c-2b826bc606a8f1862f0e855605fd7da2]), between—
 
 - (a) the result given by the use of international accounting standards, and
 - (b) the result given by the use of the accounting practice specified in the application and by the use of the entries in the fund's accounts, specified in the application, that are considered to equate to “total comprehensive income for the period” as that expression is used in international accounting standards (see regulation 63).
 
-(3A)[^key-8de4e6b7ba351ff85a988b8dc66a00c0] Where the fund intends to make income adjustments on the basis of accounting income (see regulation 53(1)(l)), HMRC must not accept an application if they do not consider that it is reasonable to expect that the difference between the amount of reportable income[^key-724af9ee33fc6577368e4c8de7da07e5] per unit calculated using this method and the amount of reportable income per unit calculated on the basis of reportable income will be 10% or less of the latter of those amounts.
+(3A)[^c-8de4e6b7ba351ff85a988b8dc66a00c0] Where the fund intends to make income adjustments on the basis of accounting income (see regulation 53(1)(l)), HMRC must not accept an application if they do not consider that it is reasonable to expect that the difference between the amount of reportable income[^c-724af9ee33fc6577368e4c8de7da07e5] per unit calculated using this method and the amount of reportable income per unit calculated on the basis of reportable income will be 10% or less of the latter of those amounts.
 
 (4) Paragraph (5) applies if—
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2b826bc606a8f1862f0e855605fd7da2]: Textual amendment: Words in reg. 55(3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/7/2)
+[^c-2b826bc606a8f1862f0e855605fd7da2]: Textual amendment: Words in reg. 55(3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/7/2)
 
-[^key-8de4e6b7ba351ff85a988b8dc66a00c0]: Textual amendment: Reg. 55(3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/7/3)
+[^c-8de4e6b7ba351ff85a988b8dc66a00c0]: Textual amendment: Reg. 55(3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/7/3)
 
-[^key-724af9ee33fc6577368e4c8de7da07e5]: Textual amendment: Words in reg. 55(3A) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1411/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))
+[^c-724af9ee33fc6577368e4c8de7da07e5]: Textual amendment: Words in reg. 55(3A) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1411/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))

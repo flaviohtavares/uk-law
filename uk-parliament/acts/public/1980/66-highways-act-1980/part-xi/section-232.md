@@ -49,7 +49,7 @@ The reference in this subsection to the prospective street works authority is a 
 - (a) for the inclusion in the expenses recoverable as aforesaid in respect of street works carried out by the street works authority of any expenses incurred by a local authority after the date on which the land is defined and designated as mentioned in subsection (1) above, and before it is declared to be a private street under subsection (2) above, in the construction of sewers in or under the land; and
 - (b) for authorising the street works authority to enter on any land adjoining the street for the purpose of executing street works on land comprised in the street.
 
-(7) A highway constructed bya strategic highways company or[^key-5727a0c49491625ab6410aac9f6d7aa5] a local highway authority on land deemed to be a private street by virtue of a declaration under subsection (2) above is not by virtue only of section 36(2)(a) above for the purposes of this Act a highway maintainable at the public expense.
+(7) A highway constructed bya strategic highways company or[^c-5727a0c49491625ab6410aac9f6d7aa5] a local highway authority on land deemed to be a private street by virtue of a declaration under subsection (2) above is not by virtue only of section 36(2)(a) above for the purposes of this Act a highway maintainable at the public expense.
 
 (8) The provisions of this section, and any restrictions or powers imposed or conferred by it in relation to land, apply and may be exercised in relation to any land notwithstanding that provision is made for authorising or regulating any development of the [^c13429921]land by any enactment in force on 6th August 1947 or by any local Act passed at any time during the Session of Parliament held during the regnal years 10 and 11 Geo. 6 (that date and that Session being, respectively, the date of passing of the Town and Country Planning Act 1947 and the Session during which that Act was passed, and that Act, now superseded by the Town and Country Planning Act 1990[^c13429931] and Parts 2 and 6 of the Planning and Compulsory Purchase Act 2004[^c18559111], being the Act that first made provision for development plans).
 
@@ -62,7 +62,7 @@ The reference in this subsection to the prospective street works authority is a 
 
 ## Annotations
 
-[^key-5727a0c49491625ab6410aac9f6d7aa5]: Textual amendment: Words in [s. 232(7)](https://www.legislation.gov.uk/ukpga/1980/66/section/232/7) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/44); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-5727a0c49491625ab6410aac9f6d7aa5]: Textual amendment: Words in [s. 232(7)](https://www.legislation.gov.uk/ukpga/1980/66/section/232/7) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/44); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13429921]: Marginal citation: [1947 c. 51](https://www.legislation.gov.uk/ukpga/1947/51).
 

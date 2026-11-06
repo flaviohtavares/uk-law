@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for references to the Direct Payments Regulation, the Horizontal Delegated Regulation, the Horizontal Implementing Regulation and the Horizontal Regulation (as defined in regulation 2(1)) to be construed as references to those instruments as amended from time to time.
 
-## 1. Citation, commencement and extent[^key-99dd4eda114a941cb2309d01a3791ee7]
+## 1. Citation, commencement and extent[^c-99dd4eda114a941cb2309d01a3791ee7]
 
 (1) These Regulations may be cited as the Rural Payments (Appeals) (Scotland) Regulations 2015 and come into force on 12th June 2015.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-642c28ec8cad6e9b881607dad9890e82]
+## 2. Interpretation[^c-642c28ec8cad6e9b881607dad9890e82]
 
 (1) In these Regulations—
 
@@ -62,7 +62,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (a) the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009[^f00002]; or
   - (b) regulations 2 and 3 of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^f00003];
 - “beneficiary” means the person to whom a relevant decision is directed;
-- “claim year” has the meaning given in section 1(7) of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^key-ea25353f06784878655ee12b3dc7a0fc][^M_F_5a208c4a-3f5e-4133-8898-8508ce7faf7f],
+- “claim year” has the meaning given in section 1(7) of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^c-ea25353f06784878655ee12b3dc7a0fc][^M_F_5a208c4a-3f5e-4133-8898-8508ce7faf7f],
 - “Commission Regulation 1120/2009” means [Commission Regulation (EC) No 1120/2009](https://www.legislation.gov.uk/european/regulation/2009/1120) laying down detailed rules for the implementation of the single payment scheme provided for in Title III of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers[^f00004];
 - “Commission Regulation 1121/2009” means [Commission Regulation (EC) No 1121/2009](https://www.legislation.gov.uk/european/regulation/2009/1121) laying down detailed rules for the application of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards the support schemes for farmers provided for in Titles IV and V thereof[^f00005];
 - “Commission Regulation 1122/2009” means [Commission Regulation (EC) No 1122/2009](https://www.legislation.gov.uk/european/regulation/2009/1122) laying down detailed rules for the implementation of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for that Regulation, as well as for the implementation of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards cross-compliance under the support scheme provided for the wine sector[^f00006];
@@ -88,21 +88,21 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “relevant decision” means a decision specified in any of the paragraphs of the Schedule; and
 - “the 2009 Regulations” means the Rural Payments (Appeals) (Scotland) Regulations 2009[^f00022].
 
-(1A)[^key-e8263ed3b56a445bf84d31d27c2b19ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-e8263ed3b56a445bf84d31d27c2b19ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Any reference in these regulations to a beneficiary appealing to the Land Court includes a reference to any successor, executor, trustee in sequestration, receiver or liquidator of such a beneficiary.
 
-## 3. Application in relation to IACS matters[^key-bf652d04cea73edb649b127032b50fd0]
+## 3. Application in relation to IACS matters[^c-bf652d04cea73edb649b127032b50fd0]
 
 (1) A decision specified in paragraphs 1 to 8 of the Schedule includes a decision of the Scottish Ministers in relation to a holding administered by them in accordance with the applicable IACS Regulations.
 
 (2) In paragraph (1) “holding” has the same meaning as it has for the purposes of the applicable IACS Regulations.
 
-## 4. Decisions amenable to review[^key-06fc2abcc19e7bc9744e45a1502ad4e2]
+## 4. Decisions amenable to review[^c-06fc2abcc19e7bc9744e45a1502ad4e2]
 
 A beneficiary may apply to the Scottish Ministers for a review of a relevant decision in accordance with regulation 5.
 
-## 5. Application for review[^key-cd923056123ea96912a474bee439ccb5]
+## 5. Application for review[^c-cd923056123ea96912a474bee439ccb5]
 
 (1) An application for review of a relevant decision is to be made no later than 60 days following the date of the decision letter.
 
@@ -114,7 +114,7 @@ A beneficiary may apply to the Scottish Ministers for a review of a relevant dec
 - (d) the change sought to the relevant decision; and
 - (e) the reasons for seeking the change to the relevant decision.
 
-## 6. Procedure at review[^key-7aedabd3d0acd4a417b24ea2501cbb13]
+## 6. Procedure at review[^c-7aedabd3d0acd4a417b24ea2501cbb13]
 
 (1) Where an application is made in accordance with regulation 5, the Scottish Ministers must review the relevant decision.
 
@@ -126,7 +126,7 @@ A beneficiary may apply to the Scottish Ministers for a review of a relevant dec
 
 (5) For the purposes of this regulation, a review meeting may be conducted in person or, with the agreement of the beneficiary, by use of telephone or video conference facilities or such other arrangements by which the beneficiary is able to participate in the meeting.
 
-## 7. Decision and report[^key-1e62dbb42eaa04d1f4da092195ed5596]
+## 7. Decision and report[^c-1e62dbb42eaa04d1f4da092195ed5596]
 
 (1) Following the review of a relevant decision in accordance with regulation 6, the Scottish Ministers may in respect of that decision—
 
@@ -145,7 +145,7 @@ A beneficiary may apply to the Scottish Ministers for a review of a relevant dec
 
 (4) A written report must be sent by recorded delivery post to the beneficiary before the expiry of the period of 60 days beginning on the date intimated to the beneficiary under regulation 6(3).
 
-## 8. Appeal to the Land Court[^key-d72967fcb61f5901ab77d0ccdd050b9a]
+## 8. Appeal to the Land Court[^c-d72967fcb61f5901ab77d0ccdd050b9a]
 
 (1) The beneficiary may appeal against a decision under regulation 7(1) on any issue of fact or law to the Land Court.
 
@@ -169,7 +169,7 @@ A beneficiary may apply to the Scottish Ministers for a review of a relevant dec
 
 (8) An appeal under paragraph (3) must be accompanied by the decision letter, the application for review and evidence of the date of the review meeting intimated to the beneficiary under regulation 6(3).
 
-## 9. Procedure in the Land Court[^key-c6c03403f9e36aa773bdc5799ad8aece]
+## 9. Procedure in the Land Court[^c-c6c03403f9e36aa773bdc5799ad8aece]
 
 (1) Without prejudice to the power of the Land Court to determine its own procedure, the court may—
 
@@ -191,11 +191,11 @@ and any such determination of the Land Court is binding upon the Scottish Minist
 
 (4) Any party to a matter determined by the Land Court by virtue of these Regulations may appeal to the Court of Session against the determination on a question of law.
 
-## 10. Expenses[^key-cf40d8488067dc4850bbe55ebf42d044]
+## 10. Expenses[^c-cf40d8488067dc4850bbe55ebf42d044]
 
 Without prejudice to paragraph 15 of Schedule 1 to the Scottish Land Court Act 1993[^f00023] or rules 88 to 95 (expenses) of the Rules of the Scottish Land Court Order 2014[^f00024], the Land Court may in considering an award of expenses against any party to an appeal have regard to the conduct of that party during the review process as a whole.
 
-## 10A. Transitional provision for decisions on or after exit day in respect of any direct payments claim year other than 2020[^key-53a7304fbb17f9460f1a2724942027b4]
+## 10A. Transitional provision for decisions on or after exit day in respect of any direct payments claim year other than 2020[^c-53a7304fbb17f9460f1a2724942027b4]
 
 (1) For the purposes of these Regulations, a “relevant decision” includes a decision made—
 
@@ -207,11 +207,11 @@ Without prejudice to paragraph 15 of Schedule 1 to the Scottish Land Court Act 1
 
 - “EU legislation governing the CAP direct payments schemes” means the EU legislation listed in section 1(3) of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^M_F_fbd2ab52-1221-45a2-c370-24e3239e2435].
 
-## 10B. Transitional provision for decisions on or after IP completion day in relation to EU instruments[^key-545bf859bb5e05fd2868a999d7219982]
+## 10B. Transitional provision for decisions on or after IP completion day in relation to EU instruments[^c-545bf859bb5e05fd2868a999d7219982]
 
 For the purposes of these Regulations, a “**relevant decision**” includes a decision made on or after IP completion day under and in accordance with any EU instrument specified in any of the paragraphs of the Schedule, so far as that EU instrument had effect immediately before IP completion day.
 
-## 11. Savings and revocations[^key-0cc3c351fb75d41d0e843727c3e41afd]
+## 11. Savings and revocations[^c-0cc3c351fb75d41d0e843727c3e41afd]
 
 (1) Subject to paragraphs (2) and (3),—
 
@@ -240,24 +240,24 @@ Edinburgh
 
 Regulations 2(1) and 3
 
-**1.**[^key-f147f6fd50ddfd0a8d06706cfa9e4ece] A decision of the Scottish Ministers to postpone, refuse, reduce or recover (in whole or in part) any payment under an IACS scheme, under or in accordance with—
+**1.**[^c-f147f6fd50ddfd0a8d06706cfa9e4ece] A decision of the Scottish Ministers to postpone, refuse, reduce or recover (in whole or in part) any payment under an IACS scheme, under or in accordance with—
 
 - (a) Council Regulation 73/2009”;
 - (b) Commission Regulation 1120/2009;
 - (c) Commission Regulation 1121/2009; or
 - (d) Commission Regulation 1122/2009.
 
-**2.**[^key-3548e836fc3d451bbfacdc4c30494fe7] A decision of the Scottish Ministers to refuse, reduce or withdraw (in whole or in part) any payment entitlement, under or in accordance with—
+**2.**[^c-3548e836fc3d451bbfacdc4c30494fe7] A decision of the Scottish Ministers to refuse, reduce or withdraw (in whole or in part) any payment entitlement, under or in accordance with—
 
 - (a) Council Regulation 73/2009”;
 - (b) Commission Regulation 1120/2009; or
 - (c) Commission Regulation 1122/2009.
 
-**3.**[^key-fe6fdd191c58f119a43c37f066feec66] A decision of the Scottish Ministers under or in accordance with Article 41 of Council Regulation 73/2009” to refuse or withdraw entirely any national reserve entitlement in relation to an application.
+**3.**[^c-fe6fdd191c58f119a43c37f066feec66] A decision of the Scottish Ministers under or in accordance with Article 41 of Council Regulation 73/2009” to refuse or withdraw entirely any national reserve entitlement in relation to an application.
 
-**4.**[^key-1107dc77b433cbee130d0d86abcb4bc5] A decision of the Scottish Ministers under or in accordance with the Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2011[^f00030].
+**4.**[^c-1107dc77b433cbee130d0d86abcb4bc5] A decision of the Scottish Ministers under or in accordance with the Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2011[^f00030].
 
-**5.**[^key-dcf0f5d0955799bbd4ce1bcc62aed1fd] A decision of the Scottish Ministers to withdraw, reduce, recover, suspend or refuse (in whole or in part) any payment of aid or support, or apply an administrative penalty in respect of such aid or support, under or in accordance with—
+**5.**[^c-dcf0f5d0955799bbd4ce1bcc62aed1fd] A decision of the Scottish Ministers to withdraw, reduce, recover, suspend or refuse (in whole or in part) any payment of aid or support, or apply an administrative penalty in respect of such aid or support, under or in accordance with—
 
 - (a) the following provisions of the Horizontal Regulation—
   - (i) Article 54;
@@ -268,15 +268,15 @@ Regulations 2(1) and 3
   - (ii) Title III; or
   - (iii) Chapter II of Title IV.
 
-**6.**[^key-71c5dbae1387aaa41b3872adcaeddf43] A decision of the Scottish Ministers in respect of the allocation, refusal, withdrawal, recovery or reversion of payment entitlements, under or in accordance with Section 1, 2 or 3 of Chapter I of Title III to the Direct Payments Regulation, Article 63 of the Horizontal Regulation or Article 23 of the Horizontal Implementing Regulation.
+**6.**[^c-71c5dbae1387aaa41b3872adcaeddf43] A decision of the Scottish Ministers in respect of the allocation, refusal, withdrawal, recovery or reversion of payment entitlements, under or in accordance with Section 1, 2 or 3 of Chapter I of Title III to the Direct Payments Regulation, Article 63 of the Horizontal Regulation or Article 23 of the Horizontal Implementing Regulation.
 
-**7.**[^key-17ea90404ead089e2208be64635725a6] Insofar as not otherwise falling within paragraph 5, a decision by the Scottish Ministers under regulation 17 of the Rural Development (Scotland) Regulations 2015[^f00031] to withhold (in whole or in part) any grant payable, apply a reduction to any payment of grant, recover (in whole or in part) grant paid, revoke an approval or terminate or prohibit the giving of an undertaking.
+**7.**[^c-17ea90404ead089e2208be64635725a6] Insofar as not otherwise falling within paragraph 5, a decision by the Scottish Ministers under regulation 17 of the Rural Development (Scotland) Regulations 2015[^f00031] to withhold (in whole or in part) any grant payable, apply a reduction to any payment of grant, recover (in whole or in part) grant paid, revoke an approval or terminate or prohibit the giving of an undertaking.
 
-**8.**[^key-3635e6195133ddf93a336864b5878c2d] Insofar as not otherwise falling within paragraph 5, a decision by the Scottish Ministers under regulation 3(1)(b), (1A), (2) or (3), 4, 5(3), 9(4)(a) or (7), 10(3) or (4) or 15 of the Less Favoured Area Support Scheme (Scotland) Regulations 2010[^f00032].
+**8.**[^c-3635e6195133ddf93a336864b5878c2d] Insofar as not otherwise falling within paragraph 5, a decision by the Scottish Ministers under regulation 3(1)(b), (1A), (2) or (3), 4, 5(3), 9(4)(a) or (7), 10(3) or (4) or 15 of the Less Favoured Area Support Scheme (Scotland) Regulations 2010[^f00032].
 
-**9.**[^key-9fd3053baa0e5d656f4aa4f972469bdd] Insofar as not otherwise falling within paragraph 5, a decision by the Scottish Ministers under paragraph 6(4) or (5), 11A(7) or 13(1) of the Crofting Counties Agricultural Grants (Scotland) Scheme 2006[^f00033] to withhold any grant payable or to recover any grant paid (in whole or in part), or require payment or any sum.
+**9.**[^c-9fd3053baa0e5d656f4aa4f972469bdd] Insofar as not otherwise falling within paragraph 5, a decision by the Scottish Ministers under paragraph 6(4) or (5), 11A(7) or 13(1) of the Crofting Counties Agricultural Grants (Scotland) Scheme 2006[^f00033] to withhold any grant payable or to recover any grant paid (in whole or in part), or require payment or any sum.
 
-**10.**[^key-301a047fa0bf4e6e0d1a3774329df776] A decision by the Scottish Ministers to apply a reduction to any payment of aid, to withhold any aid payable, recover any aid paid (in whole or in part) or require payment of any sum in terms of—
+**10.**[^c-301a047fa0bf4e6e0d1a3774329df776] A decision by the Scottish Ministers to apply a reduction to any payment of aid, to withhold any aid payable, recover any aid paid (in whole or in part) or require payment of any sum in terms of—
 
 - (a) regulation 10 of the Agricultural Processing, Marketing and Co-operation Grants (Scotland) Regulations 2008[^f00034];
 - (b) regulation 18 of the Leader Grants (Scotland) Regulations 2008[^f00035];
@@ -285,36 +285,36 @@ Regulations 2(1) and 3
 - (e) regulation 16 of the Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008[^f00038]; or
 - (f) regulation 11 of the Land Managers Skills Development Grants (Scotland) Regulations 2008[^f00039].
 
-**11.**[^key-817fbb8668c6e37c9928717ce1f4c833] A decision of the Scottish Ministers under regulation 4(1)(b), 5, 7(1), 9(4)(b), 10(7), 11(4) or 16 of the Less Favoured Area Support Scheme (Scotland) Regulations 2007[^f00040].
+**11.**[^c-817fbb8668c6e37c9928717ce1f4c833] A decision of the Scottish Ministers under regulation 4(1)(b), 5, 7(1), 9(4)(b), 10(7), 11(4) or 16 of the Less Favoured Area Support Scheme (Scotland) Regulations 2007[^f00040].
 
-**12.**[^key-b049b747671debecc974979edb950f85] A decision by the Scottish Ministers to withhold or recover (in whole or in part) payment of less favoured area support in terms of regulation 16 of—
+**12.**[^c-b049b747671debecc974979edb950f85] A decision by the Scottish Ministers to withhold or recover (in whole or in part) payment of less favoured area support in terms of regulation 16 of—
 
 - (a) the Less Favoured Area Support Scheme (Scotland) Regulations 2004[^f00041]; or
 - (b) the Less Favoured Area Support Scheme (Scotland) Regulations 2005[^f00042].
 
-**13.**[^key-ee658a9dbf8ac993d48d65b5f1deafe1] A decision by the Scottish Ministers under the Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^f00043], to withhold any aid due or recover any aid paid (in whole or in part) or require payment of any sum in terms of those Regulations.
+**13.**[^c-ee658a9dbf8ac993d48d65b5f1deafe1] A decision by the Scottish Ministers under the Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^f00043], to withhold any aid due or recover any aid paid (in whole or in part) or require payment of any sum in terms of those Regulations.
 
-**14.**[^key-990c57d86b48bccf1b98cce78c94597b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-990c57d86b48bccf1b98cce78c94597b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-397ce86cfe0a75b971c338472f04bad5] A decision by the Scottish Ministers to postpone, reduce or withhold (in whole or in part) any payment of grant under, or recover (in whole or in part) any payment under or terminate participation in, the SFGS Farmland Premium Scheme 2003[^f00045], in terms of paragraph 14 of that Scheme.
+**15.**[^c-397ce86cfe0a75b971c338472f04bad5] A decision by the Scottish Ministers to postpone, reduce or withhold (in whole or in part) any payment of grant under, or recover (in whole or in part) any payment under or terminate participation in, the SFGS Farmland Premium Scheme 2003[^f00045], in terms of paragraph 14 of that Scheme.
 
-**16.**[^key-b7022ac7e2fd9e20a5b135656dabd9b8] A decision by the Scottish Ministers under the Rural Stewardship Scheme (Scotland) Regulations 2001[^f00046] to withhold (in whole or in part) any aid due, recover (in whole or in part) any aid paid or require payment of a sum, in terms of those Regulations.
+**16.**[^c-b7022ac7e2fd9e20a5b135656dabd9b8] A decision by the Scottish Ministers under the Rural Stewardship Scheme (Scotland) Regulations 2001[^f00046] to withhold (in whole or in part) any aid due, recover (in whole or in part) any aid paid or require payment of a sum, in terms of those Regulations.
 
-**17.**[^key-402a9209f38382591b305e5bfdfbe726] A decision by the Scottish Ministers under the Countryside Premium Scheme (Scotland) Regulations 1997[^f00047] to withhold (in whole or in part) any grant due, recover (in whole or in part) any grant paid or require payment of a sum, in terms of regulation 12 of those Regulations.
+**17.**[^c-402a9209f38382591b305e5bfdfbe726] A decision by the Scottish Ministers under the Countryside Premium Scheme (Scotland) Regulations 1997[^f00047] to withhold (in whole or in part) any grant due, recover (in whole or in part) any grant paid or require payment of a sum, in terms of regulation 12 of those Regulations.
 
-**18.**[^key-495deed06124c574c27611ab8666da70] A decision by the Scottish Ministers to postpone, reduce or withhold (in whole or in part) any payment of grant under, or recover (in whole or in part) any payment under or terminate participation in, in terms of paragraph 14 of,—
+**18.**[^c-495deed06124c574c27611ab8666da70] A decision by the Scottish Ministers to postpone, reduce or withhold (in whole or in part) any payment of grant under, or recover (in whole or in part) any payment under or terminate participation in, in terms of paragraph 14 of,—
 
 - (a) the Farm Woodland Scheme 1988[^f00048];
 - (b) the Farm Woodland Premium Scheme 1992[^f00049]; or
 - (c) the Farm Woodland Premium Scheme 1997[^f00050].
 
-**19.**[^key-743b2e9382d8db6b23593db12b7e906d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-743b2e9382d8db6b23593db12b7e906d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-da20126e5f8b1cd43d613c8d7e790072] A decision by the Scottish Ministers under the Habitats (Scotland) Regulations 1994[^f00052] to withhold (in whole or in part) any grant due, recover any grant paid (in whole or in part) or require payment of a sum imposed by way of a penalty, in terms of regulation 12 of those Regulations.
+**20.**[^c-da20126e5f8b1cd43d613c8d7e790072] A decision by the Scottish Ministers under the Habitats (Scotland) Regulations 1994[^f00052] to withhold (in whole or in part) any grant due, recover any grant paid (in whole or in part) or require payment of a sum imposed by way of a penalty, in terms of regulation 12 of those Regulations.
 
-**21.**[^key-587d3364599a30a870478068cd518d89] A decision by the Scottish Ministers under paragraph 8(2) or 12B of the Crofting Counties Agricultural Grants (Scotland) Scheme 1988[^f00053] to withhold any grant payable, to recover any grant paid (in whole or in part) or require payment of any sum.
+**21.**[^c-587d3364599a30a870478068cd518d89] A decision by the Scottish Ministers under paragraph 8(2) or 12B of the Crofting Counties Agricultural Grants (Scotland) Scheme 1988[^f00053] to withhold any grant payable, to recover any grant paid (in whole or in part) or require payment of any sum.
 
-**22.**[^key-0f2246a3752a2ed3f170f48e76b9b05a] A decision by the Scottish Ministers—
+**22.**[^c-0f2246a3752a2ed3f170f48e76b9b05a] A decision by the Scottish Ministers—
 
 - (a) made under article 5D of any one of the ESA Orders, that there has been a breach of any of the requirements of article 4 or 4A of the ESA Order to which that decision relates; or
 - (b) to withhold (in whole or in part) or require the making of, payment under article 5(a) or 5A of any one of the ESA Orders.
@@ -349,15 +349,15 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“the 2008 Act”), section 3(3) and Schedule, Part 1. The functions conferred upon the Ministers of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, Schedule, Part 1.
 
-[^key-99dd4eda114a941cb2309d01a3791ee7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/194/regulation/1) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-99dd4eda114a941cb2309d01a3791ee7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/194/regulation/1) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-642c28ec8cad6e9b881607dad9890e82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/194/regulation/2) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-642c28ec8cad6e9b881607dad9890e82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/194/regulation/2) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2009/3263](https://www.legislation.gov.uk/uksi/2009/3263), as amended by [S.I. 2012/66](https://www.legislation.gov.uk/uksi/2012/66) and revoked subject to saving by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
 
 [^f00003]: Footnote: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), as amended by [S.I. 2015/1325](https://www.legislation.gov.uk/uksi/2015/1325).
 
-[^key-ea25353f06784878655ee12b3dc7a0fc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/2/1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/18/regulation/4/2/a)
+[^c-ea25353f06784878655ee12b3dc7a0fc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/2/1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/18/regulation/4/2/a)
 
 [^M_F_5a208c4a-3f5e-4133-8898-8508ce7faf7f]: Textual amendment: [2020 c.2](https://www.legislation.gov.uk/ukpga/2020/2).
 
@@ -399,35 +399,35 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00022]: Footnote: [S.S.I. 2009/376](https://www.legislation.gov.uk/ssi/2009/376), amended by [S.S.I. 2010/273](https://www.legislation.gov.uk/ssi/2010/273), [S.S.I 2011/415](https://www.legislation.gov.uk/ssi/2011/415), [S.S.I. 2012/143](https://www.legislation.gov.uk/ssi/2012/143), [S.S.I. 2014/7](https://www.legislation.gov.uk/ssi/2014/7), [S.S.I. 2014/325](https://www.legislation.gov.uk/ssi/2014/325) and [S.S.I. 2015/58](https://www.legislation.gov.uk/ssi/2015/58). The 2009 Regulations are revoked subject to savings by regulation 11.
 
-[^key-e8263ed3b56a445bf84d31d27c2b19ab]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/ssi/2015/194/regulation/2/1A) omitted (1.1.2021) by virtue of [The Direct Payments to Farmers (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/460)](https://www.legislation.gov.uk/ssi/2020/460), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2020/460/regulation/10)
+[^c-e8263ed3b56a445bf84d31d27c2b19ab]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/ssi/2015/194/regulation/2/1A) omitted (1.1.2021) by virtue of [The Direct Payments to Farmers (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/460)](https://www.legislation.gov.uk/ssi/2020/460), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2020/460/regulation/10)
 
-[^key-bf652d04cea73edb649b127032b50fd0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/194/regulation/3) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-bf652d04cea73edb649b127032b50fd0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/194/regulation/3) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-06fc2abcc19e7bc9744e45a1502ad4e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/194/regulation/4) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-06fc2abcc19e7bc9744e45a1502ad4e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/194/regulation/4) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-cd923056123ea96912a474bee439ccb5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/194/regulation/5) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-cd923056123ea96912a474bee439ccb5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/194/regulation/5) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-7aedabd3d0acd4a417b24ea2501cbb13]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/194/regulation/6) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-7aedabd3d0acd4a417b24ea2501cbb13]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/194/regulation/6) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-1e62dbb42eaa04d1f4da092195ed5596]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/194/regulation/7) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-1e62dbb42eaa04d1f4da092195ed5596]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/194/regulation/7) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-d72967fcb61f5901ab77d0ccdd050b9a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/194/regulation/8) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-d72967fcb61f5901ab77d0ccdd050b9a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/194/regulation/8) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-c6c03403f9e36aa773bdc5799ad8aece]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/194/regulation/9) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-c6c03403f9e36aa773bdc5799ad8aece]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/194/regulation/9) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-cf40d8488067dc4850bbe55ebf42d044]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/194/regulation/10) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-cf40d8488067dc4850bbe55ebf42d044]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/194/regulation/10) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00023]: Footnote: [1993 c.45](https://www.legislation.gov.uk/ukpga/1993/45).
 
 [^f00024]: Footnote: [S.S.I. 2014/229](https://www.legislation.gov.uk/ssi/2014/229).
 
-[^key-53a7304fbb17f9460f1a2724942027b4]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2015/194/regulation/10A) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/18/regulation/4/3)
+[^c-53a7304fbb17f9460f1a2724942027b4]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2015/194/regulation/10A) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/18/regulation/4/3)
 
 [^M_F_fbd2ab52-1221-45a2-c370-24e3239e2435]: Textual amendment: [2020 c.2](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-545bf859bb5e05fd2868a999d7219982]: Textual amendment: Reg. 10B inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [8](https://www.legislation.gov.uk/ssi/2019/60/regulation/8) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-545bf859bb5e05fd2868a999d7219982]: Textual amendment: Reg. 10B inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [8](https://www.legislation.gov.uk/ssi/2019/60/regulation/8) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0cc3c351fb75d41d0e843727c3e41afd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/194/regulation/11) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-0cc3c351fb75d41d0e843727c3e41afd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/194/regulation/11) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00025]: Footnote: [S.S.I. 2012/143](https://www.legislation.gov.uk/ssi/2012/143).
 
@@ -439,33 +439,33 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00029]: Footnote: [S.S.I. 2015/58](https://www.legislation.gov.uk/ssi/2015/58).
 
-[^key-f147f6fd50ddfd0a8d06706cfa9e4ece]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/1) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-f147f6fd50ddfd0a8d06706cfa9e4ece]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/1) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-3548e836fc3d451bbfacdc4c30494fe7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/2) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-3548e836fc3d451bbfacdc4c30494fe7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/2) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-fe6fdd191c58f119a43c37f066feec66]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/3) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-fe6fdd191c58f119a43c37f066feec66]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/3) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-1107dc77b433cbee130d0d86abcb4bc5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/4) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-1107dc77b433cbee130d0d86abcb4bc5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/4) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00030]: Footnote: [S.S.I. 2011/415](https://www.legislation.gov.uk/ssi/2011/415), revoked subject to savings by regulation 10 of [S.S.I. 2014/325](https://www.legislation.gov.uk/ssi/2014/325).
 
-[^key-dcf0f5d0955799bbd4ce1bcc62aed1fd]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/5) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-dcf0f5d0955799bbd4ce1bcc62aed1fd]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/5) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-71c5dbae1387aaa41b3872adcaeddf43]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/6) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-71c5dbae1387aaa41b3872adcaeddf43]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/6) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
-[^key-17ea90404ead089e2208be64635725a6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/7) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-17ea90404ead089e2208be64635725a6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/7) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00031]: Footnote: [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
-[^key-3635e6195133ddf93a336864b5878c2d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/8) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-3635e6195133ddf93a336864b5878c2d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/8) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00032]: Footnote: [S.S.I. 2010/273](https://www.legislation.gov.uk/ssi/2010/273), amended by [S.S.I. 2011/73](https://www.legislation.gov.uk/ssi/2011/73), [S.S.I. 2012/24](https://www.legislation.gov.uk/ssi/2012/24), [S.S.I. 2013/9](https://www.legislation.gov.uk/ssi/2013/9), [S.S.I. 2014/7](https://www.legislation.gov.uk/ssi/2014/7) and [S.S.I. 2015/185](https://www.legislation.gov.uk/ssi/2015/185).
 
-[^key-9fd3053baa0e5d656f4aa4f972469bdd]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/9) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-9fd3053baa0e5d656f4aa4f972469bdd]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/9) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00033]: Footnote: [S.S.I. 2006/24](https://www.legislation.gov.uk/ssi/2006/24), as amended by [S.S.I. 2008/58](https://www.legislation.gov.uk/ssi/2008/58), [S.S.I. 2011/72](https://www.legislation.gov.uk/ssi/2011/72), [S.S.I. 2011/262](https://www.legislation.gov.uk/ssi/2011/262) and [S.S.I. 2015/105](https://www.legislation.gov.uk/ssi/2015/105) and by the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), section 1(4).
 
-[^key-301a047fa0bf4e6e0d1a3774329df776]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/10) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-301a047fa0bf4e6e0d1a3774329df776]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/10) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00034]: Footnote: [S.S.I. 2008/64](https://www.legislation.gov.uk/ssi/2008/64) revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
@@ -479,35 +479,35 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00039]: Footnote: [S.S.I. 2008/162](https://www.legislation.gov.uk/ssi/2008/162), revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
-[^key-817fbb8668c6e37c9928717ce1f4c833]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/11) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-817fbb8668c6e37c9928717ce1f4c833]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/11) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00040]: Footnote: [S.S.I. 2007/439](https://www.legislation.gov.uk/ssi/2007/439), revoked subject to savings by [S.S.I. 2010/273](https://www.legislation.gov.uk/ssi/2010/273).
 
-[^key-b049b747671debecc974979edb950f85]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/12) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-b049b747671debecc974979edb950f85]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/12) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00041]: Footnote: [S.S.I. 2004/70](https://www.legislation.gov.uk/ssi/2004/70), revoked subject to savings by [S.S.I. 2005/569](https://www.legislation.gov.uk/ssi/2005/569).
 
 [^f00042]: Footnote: [S.S.I. 2005/569](https://www.legislation.gov.uk/ssi/2005/569), revoked subject to savings by [S.S.I. 2007/439](https://www.legislation.gov.uk/ssi/2007/439).
 
-[^key-ee658a9dbf8ac993d48d65b5f1deafe1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/13) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-ee658a9dbf8ac993d48d65b5f1deafe1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/13) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00043]: Footnote: [S.S.I. 2005/225](https://www.legislation.gov.uk/ssi/2005/225), as amended by [S.S.I. 2006/127](https://www.legislation.gov.uk/ssi/2006/127) and [S.S.I. 2006/213](https://www.legislation.gov.uk/ssi/2006/213).
 
-[^key-990c57d86b48bccf1b98cce78c94597b]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/14) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-990c57d86b48bccf1b98cce78c94597b]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/14) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
 
-[^key-397ce86cfe0a75b971c338472f04bad5]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/15) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-397ce86cfe0a75b971c338472f04bad5]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/15) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00045]: Footnote: [S.S.I. 2003/209](https://www.legislation.gov.uk/ssi/2003/209), as amended by [S.S.I. 2007/146](https://www.legislation.gov.uk/ssi/2007/146) and the Crofting Reform (Scotland) Act 2010, section 1(4).
 
-[^key-b7022ac7e2fd9e20a5b135656dabd9b8]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/16) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-b7022ac7e2fd9e20a5b135656dabd9b8]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/16) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00046]: Footnote: [S.S.I. 2001/300](https://www.legislation.gov.uk/ssi/2001/300), as amended by [S.S.I. 2003/177](https://www.legislation.gov.uk/ssi/2003/177), [S.S.I. 2003/303](https://www.legislation.gov.uk/ssi/2003/303), [S.S.I. 2004/109](https://www.legislation.gov.uk/ssi/2004/109), [S.S.I. 2004/381](https://www.legislation.gov.uk/ssi/2004/381), [S.S.I. 2005/620](https://www.legislation.gov.uk/ssi/2005/620), [S.S.I. 2009/37](https://www.legislation.gov.uk/ssi/2009/37) and the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), section 1(4).
 
-[^key-402a9209f38382591b305e5bfdfbe726]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/17) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-402a9209f38382591b305e5bfdfbe726]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/17) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00047]: Footnote: [S.I. 1997/330](https://www.legislation.gov.uk/uksi/1997/330), as amended by [S.S.I. 2004/113](https://www.legislation.gov.uk/ssi/2004/113) and the Crofting Reform (Scotland) Act 2010, section 1(4).
 
-[^key-495deed06124c574c27611ab8666da70]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/18) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-495deed06124c574c27611ab8666da70]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/18) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00048]: Footnote: [S.I. 1988/1291](https://www.legislation.gov.uk/uksi/1988/1291), as amended by [S.I. 1991/1631](https://www.legislation.gov.uk/uksi/1991/1631), [S.I. 1992/905](https://www.legislation.gov.uk/uksi/1992/905), [S.I. 1997/828](https://www.legislation.gov.uk/uksi/1997/828) and [S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036).
 
@@ -515,14 +515,14 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00050]: Footnote: [S.I. 1997/829](https://www.legislation.gov.uk/uksi/1997/829), as amended by [S.S.I. 2000/290](https://www.legislation.gov.uk/ssi/2000/290), [S.S.I. 2003/209](https://www.legislation.gov.uk/ssi/2003/209), [S.S.I. 2005/3473](https://www.legislation.gov.uk/ssi/2005/3473), [S.S.I. 2007/146](https://www.legislation.gov.uk/ssi/2007/146), [S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036), the Countryside and Rights of Way Act 2000 and the Crofting Reform (Scotland) Act 2010, section 1(4).
 
-[^key-743b2e9382d8db6b23593db12b7e906d]: Textual amendment: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/19) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-743b2e9382d8db6b23593db12b7e906d]: Textual amendment: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/19) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
 
-[^key-da20126e5f8b1cd43d613c8d7e790072]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/20) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-da20126e5f8b1cd43d613c8d7e790072]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/20) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00052]: Footnote: [S.I. 1994/2710](https://www.legislation.gov.uk/uksi/1994/2710), revoked subject to savings by [S.I. 1996/3035](https://www.legislation.gov.uk/uksi/1996/3035).
 
-[^key-587d3364599a30a870478068cd518d89]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/21) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-587d3364599a30a870478068cd518d89]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/21) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
 
 [^f00053]: Footnote: [S.I. 1988/559](https://www.legislation.gov.uk/uksi/1988/559), revoked subject to transitional provisions by [S.S.I. 2006/24](https://www.legislation.gov.uk/ssi/2006/24).
 
-[^key-0f2246a3752a2ed3f170f48e76b9b05a]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/22) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)
+[^c-0f2246a3752a2ed3f170f48e76b9b05a]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2015/194/schedule/paragraph/22) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1)

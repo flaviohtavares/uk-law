@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Application for planning permission, approval of reserved matters etc.: general requirements[^key-3f5d2c316161e3b416ad2b0f50e6fb7a]
+## 56. Application for planning permission, approval of reserved matters etc.: general requirements[^c-3f5d2c316161e3b416ad2b0f50e6fb7a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5d2c316161e3b416ad2b0f50e6fb7a]: Commencement: S. 56 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3f5d2c316161e3b416ad2b0f50e6fb7a]: Commencement: S. 56 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

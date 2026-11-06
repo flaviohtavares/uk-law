@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England And Wales
 
-The Home Information Pack (Suspension) Order 2010 (revoked)[^key-5f4dc6f65a934d8056fbc01e1d88fc26]
+The Home Information Pack (Suspension) Order 2010 (revoked)[^c-5f4dc6f65a934d8056fbc01e1d88fc26]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 21st May 2010
 
-[^key-5f4dc6f65a934d8056fbc01e1d88fc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f4dc6f65a934d8056fbc01e1d88fc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5f4dc6f65a934d8056fbc01e1d88fc26]
+## 1. Citation and commencement[^c-5f4dc6f65a934d8056fbc01e1d88fc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Suspension of duties under sections 155 to 159 of the Housing Act 2004[^key-5f4dc6f65a934d8056fbc01e1d88fc26]
+## 2. Suspension of duties under sections 155 to 159 of the Housing Act 2004[^c-5f4dc6f65a934d8056fbc01e1d88fc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4dc6f65a934d8056fbc01e1d88fc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f4dc6f65a934d8056fbc01e1d88fc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f4dc6f65a934d8056fbc01e1d88fc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f4dc6f65a934d8056fbc01e1d88fc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f4dc6f65a934d8056fbc01e1d88fc26]: Textual amendment: Order lapsed by virtue of repeal of power conferring provision [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34), [s. 162](https://www.legislation.gov.uk/ukpga/2004/34/section/162) (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 183(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/183/1), [240(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/k), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-5f4dc6f65a934d8056fbc01e1d88fc26]: Textual amendment: Order lapsed by virtue of repeal of power conferring provision [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34), [s. 162](https://www.legislation.gov.uk/ukpga/2004/34/section/162) (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 183(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/183/1), [240(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/k), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)

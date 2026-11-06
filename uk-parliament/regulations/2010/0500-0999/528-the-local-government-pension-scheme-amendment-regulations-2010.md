@@ -32,7 +32,7 @@ summary: ''
 
 Pensions, England And Wales
 
-The Local Government Pension Scheme (Amendment) Regulations 2010 (revoked)[^key-4a77572df3ed580d53292661d8c317a3]
+The Local Government Pension Scheme (Amendment) Regulations 2010 (revoked)[^c-4a77572df3ed580d53292661d8c317a3]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 30th March 2010
 
-[^key-4a77572df3ed580d53292661d8c317a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a77572df3ed580d53292661d8c317a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-4a77572df3ed580d53292661d8c317a3]
+## 1. Citation, extent and commencement[^c-4a77572df3ed580d53292661d8c317a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^key-4a77572df3ed580d53292661d8c317a3]
+## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^c-4a77572df3ed580d53292661d8c317a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^key-4a77572df3ed580d53292661d8c317a3]
+## 10. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^c-4a77572df3ed580d53292661d8c317a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4a77572df3ed580d53292661d8c317a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a77572df3ed580d53292661d8c317a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a77572df3ed580d53292661d8c317a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4a77572df3ed580d53292661d8c317a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a77572df3ed580d53292661d8c317a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a77572df3ed580d53292661d8c317a3]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with saving in and subject to [reg. 3](https://www.legislation.gov.uk/uksi/2014/525/regulation/3))
+[^c-4a77572df3ed580d53292661d8c317a3]: Textual amendment: Regulations revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with saving in and subject to [reg. 3](https://www.legislation.gov.uk/uksi/2014/525/regulation/3))

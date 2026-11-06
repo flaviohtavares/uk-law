@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Extension of right to apply for bail in deportation cases.[^key-a2339a847de4268cd27a7a347df8ff36]
+## 54. Extension of right to apply for bail in deportation cases.[^c-a2339a847de4268cd27a7a347df8ff36]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2339a847de4268cd27a7a347df8ff36]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/1999/33/section/54) in force at 10.2.2003 by [S.I. 2003/2](https://www.legislation.gov.uk/uksi/2003/2), [art. 2](https://www.legislation.gov.uk/uksi/2003/2/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/2/schedule)
+[^c-a2339a847de4268cd27a7a347df8ff36]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/1999/33/section/54) in force at 10.2.2003 by [S.I. 2003/2](https://www.legislation.gov.uk/uksi/2003/2), [art. 2](https://www.legislation.gov.uk/uksi/2003/2/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/2/schedule)

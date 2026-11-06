@@ -47,7 +47,7 @@ This Order is made in exercise of the powers conferred by sections 60 and 61 of 
 
 Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 
-## 1. Citation and commencement[^key-6bde227df52ce9f005351788fc19bda4]
+## 1. Citation and commencement[^c-6bde227df52ce9f005351788fc19bda4]
 
 (1) This Order may be cited as the Air Navigation (Isle of Man) (Amendment) Order 2022.
 
@@ -55,21 +55,21 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 
 (3) Articles 7, 12 and 13(1)(b), (2)(b) and (3)(a) come into force on the date of the coming into operation of the Civil Aviation (Aerodromes) Order 2022[^f00003].
 
-(4) Articles 8, 8A, 8B(b), 8C,[^key-56df280c35c02c223f839c0f44d3290e] 9(2), 11(a) and 13(3)(b) come into force on the date of the coming into operation of the Civil Aviation (Miscellaneous Amendments) Order 2022[^f00004].
+(4) Articles 8, 8A, 8B(b), 8C,[^c-56df280c35c02c223f839c0f44d3290e] 9(2), 11(a) and 13(3)(b) come into force on the date of the coming into operation of the Civil Aviation (Miscellaneous Amendments) Order 2022[^f00004].
 
-## 2. Amendment to the Air Navigation (Isle of Man) Order 2015[^key-636cb3df1b600d2dc232f4fe0ebbd941]
+## 2. Amendment to the Air Navigation (Isle of Man) Order 2015[^c-636cb3df1b600d2dc232f4fe0ebbd941]
 
 The Air Navigation (Isle of Man) Order 2015[^f00005] is amended as follows.
 
-## 3. Registration and marking of aircraft[^key-9a10f93e30a74442c411f53fbfc3f398]
+## 3. Registration and marking of aircraft[^c-9a10f93e30a74442c411f53fbfc3f398]
 
 Omit articles 4 to 10.
 
-## 4. Operations[^key-7725dd59626298a003bc5b3c7d4c9595]
+## 4. Operations[^c-7725dd59626298a003bc5b3c7d4c9595]
 
-In article 11, after “an aircraft registered in the Isle of Man”, insert “prior to the date of the coming into operation of the Civil Aviation (Aircraft Registration and Marking) Order 2022 (SD 2022/0073)[^key-25784b921dd78daa89b662a945e0f4a2]”.
+In article 11, after “an aircraft registered in the Isle of Man”, insert “prior to the date of the coming into operation of the Civil Aviation (Aircraft Registration and Marking) Order 2022 (SD 2022/0073)[^c-25784b921dd78daa89b662a945e0f4a2]”.
 
-## 5. Certificate of airworthiness[^key-6082ca1e33b06449c0cc77c6696f5ac5]
+## 5. Certificate of airworthiness[^c-6082ca1e33b06449c0cc77c6696f5ac5]
 
 In article 15(2), for subparagraph (g) substitute—
 
@@ -77,19 +77,19 @@ In article 15(2), for subparagraph (g) substitute—
 
 .
 
-## 6. Marking of break-in areas[^key-a3be292c5b2af00dacb89e949e51be36]
+## 6. Marking of break-in areas[^c-a3be292c5b2af00dacb89e949e51be36]
 
 Omit article 63.
 
-## 7. Aerodromes, aeronautical lights and dangerous lights[^key-2656ac81aa199c1d6fe1a7021b35906a]
+## 7. Aerodromes, aeronautical lights and dangerous lights[^c-2656ac81aa199c1d6fe1a7021b35906a]
 
 Omit articles 126 to 134.
 
-## 8. Restriction on aerial photography, aerial survey and aerial work[^key-21012d4032adaacb6fcc388d21598327]
+## 8. Restriction on aerial photography, aerial survey and aerial work[^c-21012d4032adaacb6fcc388d21598327]
 
 Omit article 141.
 
-## 8A. Revocation, suspension and variation of permissions, etc[^M_I_ba4bd48b-ae56-425e-d18c-cab48e2a423f][^key-d14e4e9011b218b9b8746bc57f76a707]
+## 8A. Revocation, suspension and variation of permissions, etc[^M_I_ba4bd48b-ae56-425e-d18c-cab48e2a423f][^c-d14e4e9011b218b9b8746bc57f76a707]
 
 In article 145—
 
@@ -107,7 +107,7 @@ In article 147(2)(a)—
 
 In article 156, omit “141,”.
 
-## 9. Interpretation[^key-c7e05d7c466f2e58220d929405a39d80][^key-5588ab54185d6399f3650e0509e5d48f]
+## 9. Interpretation[^c-c7e05d7c466f2e58220d929405a39d80][^c-5588ab54185d6399f3650e0509e5d48f]
 
 (1) In article 167(1)—
 
@@ -152,22 +152,22 @@ In article 156, omit “141,”.
 
 .
 
-## 10. Commercial air transport and aerial work[^key-c8eb0fc40ac11cf364ca10f3ce3962df]
+## 10. Commercial air transport and aerial work[^c-c8eb0fc40ac11cf364ca10f3ce3962df]
 
-In article 172, after “commercial air transport flight”, insert “by an aircraft registered in the Isle of Man prior to the date of the coming into operation of the Civil Aviation (Aircraft Registration and Marking) Order 2022 (SD 2022/0073)[^key-6e28a60e388132d0ddb753803fe7c9a3]”.
+In article 172, after “commercial air transport flight”, insert “by an aircraft registered in the Isle of Man prior to the date of the coming into operation of the Civil Aviation (Aircraft Registration and Marking) Order 2022 (SD 2022/0073)[^c-6e28a60e388132d0ddb753803fe7c9a3]”.
 
-## 11. Classification and marking of aircraft and dealer certification[^key-5ded3ee0af9b3301182d33d4f012120b]
+## 11. Classification and marking of aircraft and dealer certification[^c-5ded3ee0af9b3301182d33d4f012120b]
 
 In Schedule 2, omit—
 
 - (a) Part 1 (classification of aircraft); and
 - (b) Parts 2 (conditions in aircraft dealer’s certificate) and 3 (nationality and registration marks of aircraft registered in the Isle of Man).
 
-## 12. Information and instructions to be included in an aerodrome manual[^key-aff58411ba4247b29962f974b7181d54]
+## 12. Information and instructions to be included in an aerodrome manual[^c-aff58411ba4247b29962f974b7181d54]
 
 Omit Schedule 9.
 
-## 13. Penalties[^key-5016f4c43e7d01ed2ad492991ff07bf8]
+## 13. Penalties[^c-5016f4c43e7d01ed2ad492991ff07bf8]
 
 (1) In Part 1 of Schedule 11, omit the entries in respect of—
 
@@ -184,7 +184,7 @@ Omit Schedule 9.
 - (a) articles 134(6) and 134(7);
 - (b) article 141.
 
-## 14. Transitional and saving provision[^key-0118ead2ac824933596c47e9037eace2][^key-5ecd0f628075915dcbbacbf3b8f68327]
+## 14. Transitional and saving provision[^c-0118ead2ac824933596c47e9037eace2][^c-5ecd0f628075915dcbbacbf3b8f68327]
 
 Notwithstanding the revocation by article 3 of this Order of article 6 of the Air Navigation (Isle of Man) Order 2015, where an aircraft has been registered and a certificate of registration issued under article 6 of that Order, and the registration and certificate of registration are valid immediately before that revocation comes into force, the registration has effect as if done, and the certificate has effect as if issued, by the Department for Enterprise of the Isle of Man Government under article 9 of the Civil Aviation (Aircraft Registration and Marking) Order 2022.
 
@@ -210,56 +210,56 @@ Provision relating to the requirement for a certificate of airworthiness is also
 
 [^f00001]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16); sections 60 and 61 are extended to the Isle of Man by the Civil Aviation (Isle of Man) Order 2007 ([S.I. 2007/614](https://www.legislation.gov.uk/uksi/2007/614)).
 
-[^key-6bde227df52ce9f005351788fc19bda4]: Commencement: Art. 1 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-6bde227df52ce9f005351788fc19bda4]: Commencement: Art. 1 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
 [^f00002]: Footnote: SD No 2022/0073.
 
 [^f00003]: Footnote: SD No 2022/0074.
 
-[^key-56df280c35c02c223f839c0f44d3290e]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2022/172/article/1/4) inserted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3)
+[^c-56df280c35c02c223f839c0f44d3290e]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2022/172/article/1/4) inserted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3)
 
 [^f00004]: Footnote: SD No 2022/0075.
 
-[^key-636cb3df1b600d2dc232f4fe0ebbd941]: Commencement: Art. 2 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-636cb3df1b600d2dc232f4fe0ebbd941]: Commencement: Art. 2 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
 [^f00005]: Footnote: [S.I. 2015/870](https://www.legislation.gov.uk/uksi/2015/870), as amended by [S.I. 2016/155](https://www.legislation.gov.uk/uksi/2016/155), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2020/1280](https://www.legislation.gov.uk/uksi/2020/1280) and [2021/751](https://www.legislation.gov.uk/uksi/2021/751).
 
-[^key-9a10f93e30a74442c411f53fbfc3f398]: Commencement: Art. 3 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-9a10f93e30a74442c411f53fbfc3f398]: Commencement: Art. 3 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-7725dd59626298a003bc5b3c7d4c9595]: Commencement: Art. 4 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-7725dd59626298a003bc5b3c7d4c9595]: Commencement: Art. 4 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-25784b921dd78daa89b662a945e0f4a2]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2022/172/article/4) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [4](https://www.legislation.gov.uk/uksi/2022/324/article/4)
+[^c-25784b921dd78daa89b662a945e0f4a2]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2022/172/article/4) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [4](https://www.legislation.gov.uk/uksi/2022/324/article/4)
 
-[^key-6082ca1e33b06449c0cc77c6696f5ac5]: Commencement: Art. 5 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-6082ca1e33b06449c0cc77c6696f5ac5]: Commencement: Art. 5 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-a3be292c5b2af00dacb89e949e51be36]: Commencement: Art. 6 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-a3be292c5b2af00dacb89e949e51be36]: Commencement: Art. 6 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-2656ac81aa199c1d6fe1a7021b35906a]: Commencement: Art. 7 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-2656ac81aa199c1d6fe1a7021b35906a]: Commencement: Art. 7 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-21012d4032adaacb6fcc388d21598327]: Commencement: Art. 8 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-21012d4032adaacb6fcc388d21598327]: Commencement: Art. 8 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
 [^M_I_ba4bd48b-ae56-425e-d18c-cab48e2a423f]: Commencement: Art. 8A comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-d14e4e9011b218b9b8746bc57f76a707]: Textual amendment: [Arts. 8A-8C](https://www.legislation.gov.uk/uksi/2022/172/article/8A) inserted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [5](https://www.legislation.gov.uk/uksi/2022/324/article/5)
+[^c-d14e4e9011b218b9b8746bc57f76a707]: Textual amendment: [Arts. 8A-8C](https://www.legislation.gov.uk/uksi/2022/172/article/8A) inserted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [5](https://www.legislation.gov.uk/uksi/2022/324/article/5)
 
 [^M_I_8053c0ed-796d-4d31-8c3b-1c1dddc0948a]: Commencement: Art. 8B comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
 [^M_I_289dd49e-b0a8-4332-dfd1-d6156a804c8b]: Commencement: Art. 8C comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-c7e05d7c466f2e58220d929405a39d80]: Commencement: Art. 9 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-c7e05d7c466f2e58220d929405a39d80]: Commencement: Art. 9 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-5588ab54185d6399f3650e0509e5d48f]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2022/172/article/9) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [6](https://www.legislation.gov.uk/uksi/2022/324/article/6)
+[^c-5588ab54185d6399f3650e0509e5d48f]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2022/172/article/9) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [6](https://www.legislation.gov.uk/uksi/2022/324/article/6)
 
-[^key-c8eb0fc40ac11cf364ca10f3ce3962df]: Commencement: Art. 10 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-c8eb0fc40ac11cf364ca10f3ce3962df]: Commencement: Art. 10 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-6e28a60e388132d0ddb753803fe7c9a3]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2022/172/article/10) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [7](https://www.legislation.gov.uk/uksi/2022/324/article/7)
+[^c-6e28a60e388132d0ddb753803fe7c9a3]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2022/172/article/10) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [7](https://www.legislation.gov.uk/uksi/2022/324/article/7)
 
-[^key-5ded3ee0af9b3301182d33d4f012120b]: Commencement: Art. 11 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-5ded3ee0af9b3301182d33d4f012120b]: Commencement: Art. 11 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-aff58411ba4247b29962f974b7181d54]: Commencement: Art. 12 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-aff58411ba4247b29962f974b7181d54]: Commencement: Art. 12 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-5016f4c43e7d01ed2ad492991ff07bf8]: Commencement: Art. 13 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-5016f4c43e7d01ed2ad492991ff07bf8]: Commencement: Art. 13 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-0118ead2ac824933596c47e9037eace2]: Commencement: Art. 14 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
+[^c-0118ead2ac824933596c47e9037eace2]: Commencement: Art. 14 comes into force in accordance with art. 1(2)-(4) (as amended by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/324/article/3))
 
-[^key-5ecd0f628075915dcbbacbf3b8f68327]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2022/172/article/14) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/324/article/8)
+[^c-5ecd0f628075915dcbbacbf3b8f68327]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2022/172/article/14) substituted (6.4.2022) by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/324/article/8)

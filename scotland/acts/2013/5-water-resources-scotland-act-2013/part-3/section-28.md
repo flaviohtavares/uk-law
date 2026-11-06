@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Water and sewerage undertaking[^key-1f8092a4a4666ca59bdc3f85986395b7][^key-33153afaf0a489d78018abd18c9d19f3]
+## 28. Water and sewerage undertaking[^c-1f8092a4a4666ca59bdc3f85986395b7][^c-33153afaf0a489d78018abd18c9d19f3]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f8092a4a4666ca59bdc3f85986395b7]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/5/section/28) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-1f8092a4a4666ca59bdc3f85986395b7]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/5/section/28) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-33153afaf0a489d78018abd18c9d19f3]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/5/section/28) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-33153afaf0a489d78018abd18c9d19f3]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/5/section/28) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

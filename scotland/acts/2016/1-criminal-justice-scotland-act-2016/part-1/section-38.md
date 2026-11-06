@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Right to have intimation sent to other person[^key-be2ed281cb703ee1d5b3850e79ce4fb8]
+## 38. Right to have intimation sent to other person[^c-be2ed281cb703ee1d5b3850e79ce4fb8]
 
 *Extent: S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 (7) The sending of intimation may be delayed by virtue of subsection (5)(c) only for so long as is necessary to—
 
-- (a)[^key-6c1b7fdca59deb5ec5b8d8c814179aaf] ascertain whether a local authority will arrange for someone to visit the person in custody under section 41(2) , or[^key-2cf2b0c644a36e63438e773d674ac4f5]
+- (a)[^c-6c1b7fdca59deb5ec5b8d8c814179aaf] ascertain whether a local authority will arrange for someone to visit the person in custody under section 41(2) , or[^c-2cf2b0c644a36e63438e773d674ac4f5]
 - (b) for a local authority to give advice by virtue of section 41(9).
 
 (8) In this section and section 39—
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-be2ed281cb703ee1d5b3850e79ce4fb8]: Commencement: S. 38 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-be2ed281cb703ee1d5b3850e79ce4fb8]: Commencement: S. 38 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-6c1b7fdca59deb5ec5b8d8c814179aaf]: Textual amendment: Words in s. 38(7) renumbered as s. 38(7)(a) (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 15(6)(a)](https://www.legislation.gov.uk/asp/2024/5/section/15/6/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/c)
+[^c-6c1b7fdca59deb5ec5b8d8c814179aaf]: Textual amendment: Words in s. 38(7) renumbered as s. 38(7)(a) (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 15(6)(a)](https://www.legislation.gov.uk/asp/2024/5/section/15/6/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/c)
 
-[^key-2cf2b0c644a36e63438e773d674ac4f5]: Textual amendment: S. 38(7)(b) and word inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 15(6)(b)](https://www.legislation.gov.uk/asp/2024/5/section/15/6/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/c)
+[^c-2cf2b0c644a36e63438e773d674ac4f5]: Textual amendment: S. 38(7)(b) and word inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 15(6)(b)](https://www.legislation.gov.uk/asp/2024/5/section/15/6/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/c)

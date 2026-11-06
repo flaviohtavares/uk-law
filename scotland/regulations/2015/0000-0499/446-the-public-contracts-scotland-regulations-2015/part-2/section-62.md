@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Recourse to e-Certis[^key-fef99acfafdca82de0490994bb57ca73]
+## 62. Recourse to e-Certis[^c-fef99acfafdca82de0490994bb57ca73]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fef99acfafdca82de0490994bb57ca73]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/ssi/2015/446/regulation/62) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(44)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/44) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-fef99acfafdca82de0490994bb57ca73]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/ssi/2015/446/regulation/62) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(44)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/44) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

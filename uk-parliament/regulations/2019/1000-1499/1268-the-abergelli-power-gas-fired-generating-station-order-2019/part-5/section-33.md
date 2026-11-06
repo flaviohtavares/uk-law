@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Funding[^key-d215710b133cddfb21020575bad1fb62]
+## 33. Funding[^c-d215710b133cddfb21020575bad1fb62]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) article 18 (compulsory acquisition of land);
 - (b) article 20 (statutory right to override easements);
 - (c) article 22 (compulsory acquisition of rights etc.);
-- (d) article 23[^key-7135b62ee74aa107ecb9422a9c09e616] (private rights);
+- (d) article 23[^c-7135b62ee74aa107ecb9422a9c09e616] (private rights);
 - (e) article 25 (acquisition of subsoil only);
 - (f) article 27 (rights under or over streets);
 - (g) article 28 (temporary use of land in connection with the carrying out of the authorised development);
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d215710b133cddfb21020575bad1fb62]: Commencement: Art. 33 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-d215710b133cddfb21020575bad1fb62]: Commencement: Art. 33 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-7135b62ee74aa107ecb9422a9c09e616]: Textual amendment: Words in [art. 33(2)(d)](https://www.legislation.gov.uk/uksi/2019/1268/article/33/2/d) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
+[^c-7135b62ee74aa107ecb9422a9c09e616]: Textual amendment: Words in [art. 33(2)(d)](https://www.legislation.gov.uk/uksi/2019/1268/article/33/2/d) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)

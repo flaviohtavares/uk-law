@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Withdrawal of request for re-determination[^key-769a64e0a73c7d8a54201f734f50a03f]
+## 6. Withdrawal of request for re-determination[^c-769a64e0a73c7d8a54201f734f50a03f]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-769a64e0a73c7d8a54201f734f50a03f]: Commencement: S. 6 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-769a64e0a73c7d8a54201f734f50a03f]: Commencement: S. 6 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

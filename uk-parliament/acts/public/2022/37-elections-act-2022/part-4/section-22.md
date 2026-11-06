@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Authorised persons not required to pay expenses through election agent[^key-94da33c49360490089f7ba7a795b8251][^key-064ee703f0a255c8471cecaafa3a98a6]
+## 22. Authorised persons not required to pay expenses through election agent[^c-94da33c49360490089f7ba7a795b8251][^c-064ee703f0a255c8471cecaafa3a98a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94da33c49360490089f7ba7a795b8251]: Commencement: S. 22 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-94da33c49360490089f7ba7a795b8251]: Commencement: S. 22 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-064ee703f0a255c8471cecaafa3a98a6]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/37/section/22) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/2))
+[^c-064ee703f0a255c8471cecaafa3a98a6]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/37/section/22) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/2))

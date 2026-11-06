@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Abolition of Mayor's duty to prepare state of the environment reports[^key-ea7169b842653ee27b9fccb3e84cf19c]
+## 226. Abolition of Mayor's duty to prepare state of the environment reports[^c-ea7169b842653ee27b9fccb3e84cf19c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 351 of the Greater London Authority Act 1999 (which provides for four-ye
 
 ## Annotations
 
-[^key-ea7169b842653ee27b9fccb3e84cf19c]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2011/20/section/226) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-ea7169b842653ee27b9fccb3e84cf19c]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2011/20/section/226) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

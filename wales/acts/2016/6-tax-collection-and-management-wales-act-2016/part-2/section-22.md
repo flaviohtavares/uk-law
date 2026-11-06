@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Evidence[^key-819683c223086a0774675d9784a981f5]
+## 22. Evidence[^c-819683c223086a0774675d9784a981f5]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ is sufficient evidence of that fact unless the contrary is proved.
 
 ## Annotations
 
-[^key-819683c223086a0774675d9784a981f5]: Commencement: S. 22 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-819683c223086a0774675d9784a981f5]: Commencement: S. 22 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

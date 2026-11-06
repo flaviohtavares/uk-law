@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Immigration Services Commissioner: power of entry[^key-2ab9f47332aa3ca47ddd19193c105d75]
+## 38. Immigration Services Commissioner: power of entry[^c-2ab9f47332aa3ca47ddd19193c105d75]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab9f47332aa3ca47ddd19193c105d75]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/19/section/38) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-2ab9f47332aa3ca47ddd19193c105d75]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/19/section/38) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

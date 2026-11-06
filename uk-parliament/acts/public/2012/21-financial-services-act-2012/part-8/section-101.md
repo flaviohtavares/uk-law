@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-cf6b0daae147506abc3087f7adce89c6][^key-902efa75740c71fa953632956e93e7c4] The Banking Act 2009 is amended as follows.
+(1)[^c-cf6b0daae147506abc3087f7adce89c6][^c-902efa75740c71fa953632956e93e7c4] The Banking Act 2009 is amended as follows.
 
-(2)[^key-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 1 (overview), after the entry in the Table relating to sections 84 to 89 insert—
+(2)[^c-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 1 (overview), after the entry in the Table relating to sections 84 to 89 insert—
 
 > |  |  |
 > | --- | --- |
@@ -30,17 +30,17 @@ summary: ''
 
 .
 
-(3)[^key-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 2 (interpretation: “bank”), at the end insert—
+(3)[^c-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 2 (interpretation: “bank”), at the end insert—
 
 > (8) Section 89A applies this Part to investment firms with modifications.
 
-(4)[^key-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 75(5) (power to change law: application to other institutions), omit the “or” following paragraph (c) and after that paragraph insert—
+(4)[^c-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 75(5) (power to change law: application to other institutions), omit the “or” following paragraph (c) and after that paragraph insert—
 
 > - (ca) to investment firms,
 
 .
 
-(5)[^key-9a815007c77749ce6d76f8424c6de27b][^key-902efa75740c71fa953632956e93e7c4] After section 89 (and in Part 1) insert—
+(5)[^c-9a815007c77749ce6d76f8424c6de27b][^c-902efa75740c71fa953632956e93e7c4] After section 89 (and in Part 1) insert—
 
 > **Investment firms**
 >
@@ -50,13 +50,13 @@ summary: ''
 >
 > (2) Ignore sections 1(2)(b), 4(2)(b) and (6), 5(1)(b), 7(7), 8(2)(c) and 14(5).
 
-(6)[^key-b739e16a9ec4e7ac29e02ee6bf5ecf5c] After section 159 insert—
+(6)[^c-b739e16a9ec4e7ac29e02ee6bf5ecf5c] After section 159 insert—
 
 > **159A. Application to investment firms**
 >
 > This Part applies to investment firms as it applies to banks.
 
-(7)[^key-cf6b0daae147506abc3087f7adce89c6][^key-902efa75740c71fa953632956e93e7c4] After section 258 insert—
+(7)[^c-cf6b0daae147506abc3087f7adce89c6][^c-902efa75740c71fa953632956e93e7c4] After section 258 insert—
 
 > **258A. Investment firm”**
 >
@@ -87,13 +87,13 @@ summary: ''
 >
 > (6) In subsection (1) “**UK institution**” means an institution which is incorporated in, or formed under the law of any part of, the United Kingdom.
 
-(8)[^key-cf6b0daae147506abc3087f7adce89c6][^key-902efa75740c71fa953632956e93e7c4] In the Table in section 259 (statutory instruments), in Part 7 after the entry relating to section 257 insert—
+(8)[^c-cf6b0daae147506abc3087f7adce89c6][^c-902efa75740c71fa953632956e93e7c4] In the Table in section 259 (statutory instruments), in Part 7 after the entry relating to section 257 insert—
 
 > |  |  |  |
 > | --- | --- | --- |
 > | 258A | Meaning of “investment firm” | Draft affirmative resolution (except for urgent cases) |
 
-(9)[^key-cf6b0daae147506abc3087f7adce89c6][^key-902efa75740c71fa953632956e93e7c4] In the Table in section 261 (index of defined terms), after the entry relating to “inter-bank payment system”, insert—
+(9)[^c-cf6b0daae147506abc3087f7adce89c6][^c-902efa75740c71fa953632956e93e7c4] In the Table in section 261 (index of defined terms), after the entry relating to “inter-bank payment system”, insert—
 
 > |  |  |
 > | --- | --- |
@@ -101,14 +101,14 @@ summary: ''
 
 .
 
-(10)[^key-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 214B(1)(a) of FSMA 2000 (contribution to costs of special resolution regime) for “or credit union” substitute “ , credit union or investment firm ”.
+(10)[^c-b739e16a9ec4e7ac29e02ee6bf5ecf5c] In section 214B(1)(a) of FSMA 2000 (contribution to costs of special resolution regime) for “or credit union” substitute “ , credit union or investment firm ”.
 
 ## Annotations
 
-[^key-cf6b0daae147506abc3087f7adce89c6]: Commencement: [S. 101(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/1) [(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/7) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/d/f)
+[^c-cf6b0daae147506abc3087f7adce89c6]: Commencement: [S. 101(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/1) [(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/7) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/d/f)
 
-[^key-902efa75740c71fa953632956e93e7c4]: Commencement: [S. 101(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/1) [(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/5) [(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/7) in force at 1.8.2014 in so far as not already in force by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-902efa75740c71fa953632956e93e7c4]: Commencement: [S. 101(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/1) [(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/5) [(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/7) in force at 1.8.2014 in so far as not already in force by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
 
-[^key-b739e16a9ec4e7ac29e02ee6bf5ecf5c]: Commencement: [S. 101(2)-(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/2) [(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/6) [(10)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/10) in force at 1.8.2014 by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-b739e16a9ec4e7ac29e02ee6bf5ecf5c]: Commencement: [S. 101(2)-(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/2) [(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/6) [(10)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/10) in force at 1.8.2014 by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
 
-[^key-9a815007c77749ce6d76f8424c6de27b]: Commencement: [S. 101(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/5) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/e)
+[^c-9a815007c77749ce6d76f8424c6de27b]: Commencement: [S. 101(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/5) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/e)

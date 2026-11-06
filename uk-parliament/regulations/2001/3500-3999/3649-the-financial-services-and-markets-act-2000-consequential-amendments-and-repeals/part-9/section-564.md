@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 564. Transfer of business: prescribed matters for transfer statements and transfer notification statements[^key-8f50ef404ccaa64c405e6f2091b75f42]
+## 564. Transfer of business: prescribed matters for transfer statements and transfer notification statements[^c-8f50ef404ccaa64c405e6f2091b75f42]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f50ef404ccaa64c405e6f2091b75f42]: Commencement: Art. 564 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8f50ef404ccaa64c405e6f2091b75f42]: Commencement: Art. 564 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

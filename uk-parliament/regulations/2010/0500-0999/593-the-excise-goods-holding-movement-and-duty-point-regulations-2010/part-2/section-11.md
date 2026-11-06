@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11.[^key-a0ae7c45aa4de2a6528bdabc005dedb6]
+## 11.[^c-a0ae7c45aa4de2a6528bdabc005dedb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0ae7c45aa4de2a6528bdabc005dedb6]: Modification: Reg. 11 modified in so far as these Regulations are continued in respect of the holding, movement and taxation of excise goods in Northern Ireland (13.2.2023) by [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [reg. 12A](https://www.legislation.gov.uk/uksi/2020/1559/regulation/12A) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/1559/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/1559/regulation/3)) (as substituted by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/6))
+[^c-a0ae7c45aa4de2a6528bdabc005dedb6]: Modification: Reg. 11 modified in so far as these Regulations are continued in respect of the holding, movement and taxation of excise goods in Northern Ireland (13.2.2023) by [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [reg. 12A](https://www.legislation.gov.uk/uksi/2020/1559/regulation/12A) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/1559/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/1559/regulation/3)) (as substituted by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/6))

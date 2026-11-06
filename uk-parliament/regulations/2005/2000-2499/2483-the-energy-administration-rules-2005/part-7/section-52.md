@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Discounts[^key-317852b4d6abe402f80846891f937e31]
+## 52. Discounts[^c-317852b4d6abe402f80846891f937e31]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall in every case be deducted from the claim all trade and other discoun
 
 ## Annotations
 
-[^key-317852b4d6abe402f80846891f937e31]: Commencement: Rule 52 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-317852b4d6abe402f80846891f937e31]: Commencement: Rule 52 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

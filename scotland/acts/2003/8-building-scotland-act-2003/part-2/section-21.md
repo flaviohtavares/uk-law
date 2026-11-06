@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Occupation or use without completion certificates[^key-0d6bb1bbc5f49875a95f69e14570afc1]
+## 21. Occupation or use without completion certificates[^c-0d6bb1bbc5f49875a95f69e14570afc1]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ is guilty of an offence unless the occupation or use is authorised by a permissi
 
 ## Annotations
 
-[^key-0d6bb1bbc5f49875a95f69e14570afc1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2003/8/section/21) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-0d6bb1bbc5f49875a95f69e14570afc1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2003/8/section/21) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

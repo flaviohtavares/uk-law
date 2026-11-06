@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Procedure in connection with reviews[^key-ca0894303c24944ce4407da4025fd444]
+## 57. Procedure in connection with reviews[^c-ca0894303c24944ce4407da4025fd444]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca0894303c24944ce4407da4025fd444]: Textual amendment: Ss. 55-57 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
+[^c-ca0894303c24944ce4407da4025fd444]: Textual amendment: Ss. 55-57 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)

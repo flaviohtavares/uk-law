@@ -35,40 +35,40 @@ supplementing Regulation (EU) 2015/760 of the European Parliament and of the Cou
 
 (Text with EEA relevance) (revoked)
 
-[^key-c9900f4cb9cb47520e6ecf1af9010a14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9900f4cb9cb47520e6ecf1af9010a14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Hedging derivatives[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 1. Hedging derivatives[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Sufficient length of the life of the ELTIF[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 2. Sufficient length of the life of the ELTIF[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Criteria for the assessment of the market for potential buyers[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 3. Criteria for the assessment of the market for potential buyers[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Criteria for the valuation of the assets to be divested[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 4. Criteria for the valuation of the assets to be divested[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Specifications on the facilities available to retail investors[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 5. Specifications on the facilities available to retail investors[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transitional provisions[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 6. Transitional provisions[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-c9900f4cb9cb47520e6ecf1af9010a14]
+## Article 7. Entry into force[^c-c9900f4cb9cb47520e6ecf1af9010a14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9900f4cb9cb47520e6ecf1af9010a14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9900f4cb9cb47520e6ecf1af9010a14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9900f4cb9cb47520e6ecf1af9010a14]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/5/d)
+[^c-c9900f4cb9cb47520e6ecf1af9010a14]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/5/d)

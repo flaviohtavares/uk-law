@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-[^key-2574065407bed7c8d85a56c357d124c9]These Regulations make provision for a purpose mentioned in that section and it appears to the Scottish Ministers that it is expedient for the following EU instruments to be construed as references to those EU instruments or provisions of those EU Instruments (as appropriate) as amended from time to time where they are expressly mentioned as such in these Regulations—
+[^c-2574065407bed7c8d85a56c357d124c9]These Regulations make provision for a purpose mentioned in that section and it appears to the Scottish Ministers that it is expedient for the following EU instruments to be construed as references to those EU instruments or provisions of those EU Instruments (as appropriate) as amended from time to time where they are expressly mentioned as such in these Regulations—
 
 - (a) [Council Regulation (EEC) No 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code[^f00002];
 - (b) [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council on a Community framework for electronic signatures[^f00003];
@@ -57,7 +57,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (i) [Directive 2010/13/EU](https://www.legislation.gov.uk/european/directive/2010/0013) of the European Parliament and of the Council on the coordination of certain provisions laid down by law, regulation or administrative action in member States concerning the provision of audio-visual media services[^f00010]; and
 - (j) [Directive 2014/25/EU](https://www.legislation.gov.uk/european/directive/2014/0025) of the European Parliament and of the Council on procurement entities operating in the water, energy, transport and postal services sectors and repealing [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)[^f00011],
 
-and they are to be construed accordingly.[^key-2574065407bed7c8d85a56c357d124c9][^key-443c76bab62537378a7eb8bc09686039]
+and they are to be construed accordingly.[^c-2574065407bed7c8d85a56c357d124c9][^c-443c76bab62537378a7eb8bc09686039]
 
 ## Contents
 
@@ -277,7 +277,7 @@ and they are to be construed accordingly.[^key-2574065407bed7c8d85a56c357d124c9]
 - [Section 89 — Publication of notices](part-3/section-89.md)
 - [Section 90 — Principles of awarding contracts](part-3/section-90.md)
 
-#### CHAPTER 2 — RULES GOVERNING DESIGN CONTESTS[^key-1b1d9e17a6874a671389d4beda09643a]
+#### CHAPTER 2 — RULES GOVERNING DESIGN CONTESTS[^c-1b1d9e17a6874a671389d4beda09643a]
 
 *Extent: S*
 
@@ -321,7 +321,7 @@ and they are to be construed accordingly.[^key-2574065407bed7c8d85a56c357d124c9]
 - [Section 107 — Other orders](part-5/section-107.md)
 - [Section 108 — Financial penalties](part-5/section-108.md)
 
-### PART 5A — AMENDING THESE REGULATIONS[^key-b3cf5b151f950069e133833066dc61e7]
+### PART 5A — AMENDING THESE REGULATIONS[^c-b3cf5b151f950069e133833066dc61e7]
 
 - [Section 108A — General provisions about regulations under these Regulations](part-5a/section-108a.md)
 
@@ -381,7 +381,7 @@ A full regulatory assessment of the effect that these Regulations will have on t
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“2008 Act”), section 3(3) and Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by the 2006 Act, section 28 and was amended by the 2008 Act, Schedule, Part 1.
 
-[^key-2574065407bed7c8d85a56c357d124c9]: Modification: Regulations: power to amend conferred (23.5.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 115(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/4), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/2/1)
+[^c-2574065407bed7c8d85a56c357d124c9]: Modification: Regulations: power to amend conferred (23.5.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 115(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/4), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/2/1)
 
 [^f00002]: Footnote: OJ L 302, 19.10.1992, p.1; last amended by Council Regulation (EU) No 517/2013 (OJ L 158, 10.6.2013, p.1).
 
@@ -403,10 +403,10 @@ A full regulatory assessment of the effect that these Regulations will have on t
 
 [^f00011]: Footnote: OJ L 94, 28.3.2014, p.243.
 
-[^key-443c76bab62537378a7eb8bc09686039]: Modification: Regulations applied (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 119(2)(b)](https://www.legislation.gov.uk/ukpga/2023/54/section/119/2/b), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-443c76bab62537378a7eb8bc09686039]: Modification: Regulations applied (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 119(2)(b)](https://www.legislation.gov.uk/ukpga/2023/54/section/119/2/b), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-1b1d9e17a6874a671389d4beda09643a]: Modification: Pt. 3 Ch. 2 modified (18.4.2016) by [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), [Sch. 3 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/50/schedule/3/paragraph/10/2/b) (as substituted by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/b))
+[^c-1b1d9e17a6874a671389d4beda09643a]: Modification: Pt. 3 Ch. 2 modified (18.4.2016) by [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), [Sch. 3 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/50/schedule/3/paragraph/10/2/b) (as substituted by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/b))
 
-[^key-b3cf5b151f950069e133833066dc61e7]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ssi/2016/49/part/5A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(59)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/59) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-b3cf5b151f950069e133833066dc61e7]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ssi/2016/49/part/5A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(59)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/59) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
 [^f00058]: Footnote: By Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded, Annex I - List referred to in Article 29 of the Act of Accession - XI. Internal Market and Financial Services - E. Procurement (OJ C 241, 29.8.1994); by Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded - Annex II: List referred to in Article 20 of the Act of Accession - 1. Free movement of goods - I. Public procurement (OJ L 236, 23.9.2003); Council [Directive 2006/97/EC](https://www.legislation.gov.uk/european/directive/2006/0097) adapting certain Directives in the field of free movement of goods, by reason of the accession of Bulgaria and Romania (OJ L 363, 20.12.2006); [Directive 2007/66/EC](https://www.legislation.gov.uk/european/directive/2007/0066) of the European Parliament and of the Council amending Council Directives [89/665/EEC](https://www.legislation.gov.uk/european/directive/1989/0665) and [92/13/EEC](https://www.legislation.gov.uk/european/directive/1992/0013) with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, p.31); and by [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts (OJ L 94, 28.3.2014, p.1).

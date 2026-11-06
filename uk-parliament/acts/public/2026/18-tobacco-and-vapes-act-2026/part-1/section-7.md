@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Ban on manufacture of snus etc[^key-a85599d7d1e76b33c10ba573114864a7]
+## 7. Ban on manufacture of snus etc[^c-a85599d7d1e76b33c10ba573114864a7]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a85599d7d1e76b33c10ba573114864a7]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/18/section/7) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-a85599d7d1e76b33c10ba573114864a7]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/18/section/7) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

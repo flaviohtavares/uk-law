@@ -31,45 +31,39 @@ summary: ''
 
 ...
 
-(revoked)[^key-30599cfb6f2853359215999a3c9fa705]
+(revoked)[^c-30599cfb6f2853359215999a3c9fa705]
 
-[^key-30599cfb6f2853359215999a3c9fa705]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30599cfb6f2853359215999a3c9fa705]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-30599cfb6f2853359215999a3c9fa705]
+[^c-30599cfb6f2853359215999a3c9fa705]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30599cfb6f2853359215999a3c9fa705]
+[^c-30599cfb6f2853359215999a3c9fa705]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2A. Electronic elections etc.[^key-30599cfb6f2853359215999a3c9fa705]
+### 2A. Electronic elections etc.[^c-30599cfb6f2853359215999a3c9fa705]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-30599cfb6f2853359215999a3c9fa705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7B. Child receiving training under a relevant training scheme[^key-30599cfb6f2853359215999a3c9fa705]
+**3.**[^c-30599cfb6f2853359215999a3c9fa705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7B. Child receiving training under a relevant training scheme[^c-30599cfb6f2853359215999a3c9fa705]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,38 +83,44 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14B. Prescribed conditions relating to persons subject to immigration control[^key-30599cfb6f2853359215999a3c9fa705]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 16. Children in detention, care etc.[^key-30599cfb6f2853359215999a3c9fa705]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 17. Right to benefit of voluntary organisations[^key-30599cfb6f2853359215999a3c9fa705]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-30599cfb6f2853359215999a3c9fa705]
-
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
+### 14B. Prescribed conditions relating to persons subject to immigration control[^c-30599cfb6f2853359215999a3c9fa705]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Children in detention, care etc.[^c-30599cfb6f2853359215999a3c9fa705]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Right to benefit of voluntary organisations[^c-30599cfb6f2853359215999a3c9fa705]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-30599cfb6f2853359215999a3c9fa705]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30599cfb6f2853359215999a3c9fa705]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-30599cfb6f2853359215999a3c9fa705]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-30599cfb6f2853359215999a3c9fa705]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30599cfb6f2853359215999a3c9fa705]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30599cfb6f2853359215999a3c9fa705]: Textual amendment: Instrument Regulations revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
+[^c-30599cfb6f2853359215999a3c9fa705]: Textual amendment: Instrument Regulations revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)

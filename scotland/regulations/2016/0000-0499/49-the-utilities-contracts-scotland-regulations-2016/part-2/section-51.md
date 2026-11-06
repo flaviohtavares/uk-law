@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Electronic Auctions[^key-71a41d092c7694941e636f9d97ada428]
+## 51. Electronic Auctions[^c-71a41d092c7694941e636f9d97ada428]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) A utility which decides to hold an electronic auction must state that fact in the—
 
 - (a) contract notice;
-- (b)[^key-5b7269df2d02a4ffc94d2b342c607fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5b7269df2d02a4ffc94d2b342c607fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where a notice on the existence of a qualification system is used as a means of calling for competition, in the invitation to tender.
 
 (5) In open or restricted procedures or negotiated procedures with a prior call for competition, when the content of the procurement documents, in particular the technical specifications, can be established with precision, a utility may—
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71a41d092c7694941e636f9d97ada428]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2016/49/regulation/51) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-71a41d092c7694941e636f9d97ada428]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2016/49/regulation/51) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-5b7269df2d02a4ffc94d2b342c607fbc]: Textual amendment: [Reg. 51(4)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/51/4/b) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(13)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/13) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-5b7269df2d02a4ffc94d2b342c607fbc]: Textual amendment: [Reg. 51(4)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/51/4/b) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(13)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/13) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

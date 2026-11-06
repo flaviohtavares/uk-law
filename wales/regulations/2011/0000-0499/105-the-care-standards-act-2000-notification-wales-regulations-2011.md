@@ -31,7 +31,7 @@ summary: ''
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Care Standards Act 2000 (Notification) (Wales) Regulations 2011 (revoked)[^key-16c3e970af137d9270c7ead8f2fcc92d]
+The Care Standards Act 2000 (Notification) (Wales) Regulations 2011 (revoked)[^c-16c3e970af137d9270c7ead8f2fcc92d]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 April 2011
 
-[^key-16c3e970af137d9270c7ead8f2fcc92d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16c3e970af137d9270c7ead8f2fcc92d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-16c3e970af137d9270c7ead8f2fcc92d]
+## 1. Citation, commencement, application and interpretation[^c-16c3e970af137d9270c7ead8f2fcc92d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Information to be contained in a notification sent under section 30A(2) of the Act[^key-16c3e970af137d9270c7ead8f2fcc92d]
+## 2. Information to be contained in a notification sent under section 30A(2) of the Act[^c-16c3e970af137d9270c7ead8f2fcc92d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Notifications under section 30A(3) of the Act[^key-16c3e970af137d9270c7ead8f2fcc92d]
+## 3. Notifications under section 30A(3) of the Act[^c-16c3e970af137d9270c7ead8f2fcc92d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16c3e970af137d9270c7ead8f2fcc92d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16c3e970af137d9270c7ead8f2fcc92d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-16c3e970af137d9270c7ead8f2fcc92d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16c3e970af137d9270c7ead8f2fcc92d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16c3e970af137d9270c7ead8f2fcc92d]: Textual amendment: Regulations revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/uksi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [arts. 4](https://www.legislation.gov.uk/uksi/2019/864/article/4), [7](https://www.legislation.gov.uk/uksi/2019/864/article/7))
+[^c-16c3e970af137d9270c7ead8f2fcc92d]: Textual amendment: Regulations revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/uksi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/237/schedule/2) (with savings and transitional provisions in [S.I. 2019/864](https://www.legislation.gov.uk/uksi/2019/864), [arts. 4](https://www.legislation.gov.uk/uksi/2019/864/article/4), [7](https://www.legislation.gov.uk/uksi/2019/864/article/7))

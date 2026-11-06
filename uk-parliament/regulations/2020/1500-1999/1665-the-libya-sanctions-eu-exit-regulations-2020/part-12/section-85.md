@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Revocations[^key-beab5162a714208f895c80ef49c48ad1]
+## 85. Revocations[^c-beab5162a714208f895c80ef49c48ad1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-beab5162a714208f895c80ef49c48ad1]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-beab5162a714208f895c80ef49c48ad1]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24412191]: Marginal citation: [S.I. 2016/45](https://www.legislation.gov.uk/uksi/2016/45) as amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560), [S.I](https://www.legislation.gov.uk/uksi/2017/560/section/I). 2017/754 and [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682) and prospectively amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28.[^key-7d37afeda666d2588f73803ce519fca2]
+## 28.[^c-7d37afeda666d2588f73803ce519fca2]
 
 *Extent: E+W+S+N.I.*
 
 (1) Section 16 (allocation within UK of jurisdiction in certain civil proceedings) is amended as follows.
 
-(2) In subsection (1)(a), for “has effect” substitute “would have had effect before IP completion day[^key-ad48a66e4197eaf58b85c94853d9e53f]”.
+(2) In subsection (1)(a), for “has effect” substitute “would have had effect before IP completion day[^c-ad48a66e4197eaf58b85c94853d9e53f]”.
 
 (3) After subsection (1), insert—
 
@@ -34,7 +34,7 @@ summary: ''
 
 (5) After subsection (3) insert—
 
-> (3A) The requirement in subsection (3)(a) applies only in relation to principles laid down, or decisions made, by the European Court before IP completion day[^key-c06be28bb3bdedf8db93465293e98613].
+> (3A) The requirement in subsection (3)(a) applies only in relation to principles laid down, or decisions made, by the European Court before IP completion day[^c-c06be28bb3bdedf8db93465293e98613].
 
 .
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7d37afeda666d2588f73803ce519fca2]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-7d37afeda666d2588f73803ce519fca2]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-ad48a66e4197eaf58b85c94853d9e53f]: Textual amendment: Words in reg. 28(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/c/i)
+[^c-ad48a66e4197eaf58b85c94853d9e53f]: Textual amendment: Words in reg. 28(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/c/i)
 
-[^key-c06be28bb3bdedf8db93465293e98613]: Textual amendment: Words in reg. 28(5) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/c/ii)
+[^c-c06be28bb3bdedf8db93465293e98613]: Textual amendment: Words in reg. 28(5) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/c/ii)

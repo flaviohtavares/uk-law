@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 5. Regulations as to maximum number of offices held[^key-6cd910e77db1970f683dcdd9d3282dde]
+## 5. Regulations as to maximum number of offices held[^c-6cd910e77db1970f683dcdd9d3282dde]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cd910e77db1970f683dcdd9d3282dde]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2018/3/section/5) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-6cd910e77db1970f683dcdd9d3282dde]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2018/3/section/5) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

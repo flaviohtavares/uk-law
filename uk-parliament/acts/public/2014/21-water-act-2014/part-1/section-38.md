@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Guidance relating to rules about charges[^key-c7d240284dc69385fcc1b4600802be13][^key-fb12651d00106b103cad90ac59509d9e][^key-438f3d03a2d69683f8645f0f86c90da7][^key-2983f42933e07d1e6b629497e09b59ef]
+## 38. Guidance relating to rules about charges[^c-c7d240284dc69385fcc1b4600802be13][^c-fb12651d00106b103cad90ac59509d9e][^c-438f3d03a2d69683f8645f0f86c90da7][^c-2983f42933e07d1e6b629497e09b59ef]
 
 *Extent: E+W*
 
@@ -110,10 +110,10 @@ In the Water Industry Act 1991, after section 144ZD there is inserted—
 
 ## Annotations
 
-[^key-c7d240284dc69385fcc1b4600802be13]: Commencement: S. 38 in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3320/article/3))
+[^c-c7d240284dc69385fcc1b4600802be13]: Commencement: S. 38 in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3320/article/3))
 
-[^key-fb12651d00106b103cad90ac59509d9e]: Commencement: S. 38 in force at 6.4.2015 for W. for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/773/article/6))
+[^c-fb12651d00106b103cad90ac59509d9e]: Commencement: S. 38 in force at 6.4.2015 for W. for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/773/article/6))
 
-[^key-438f3d03a2d69683f8645f0f86c90da7]: Commencement: S. 38 in force at 1.4.2016 for E. in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(h)](https://www.legislation.gov.uk/uksi/2016/465/article/2/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-438f3d03a2d69683f8645f0f86c90da7]: Commencement: S. 38 in force at 1.4.2016 for E. in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(h)](https://www.legislation.gov.uk/uksi/2016/465/article/2/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-2983f42933e07d1e6b629497e09b59ef]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/21/section/38) in force at 15.12.2017 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/b)
+[^c-2983f42933e07d1e6b629497e09b59ef]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/21/section/38) in force at 15.12.2017 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/b)

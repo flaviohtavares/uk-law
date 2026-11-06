@@ -28,10 +28,10 @@ Ejection Caution Act 1594 (repealed)
 
 1594 c.27
 
-[^key-263e484b78a9132adae7e439c10ea109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-263e484b78a9132adae7e439c10ea109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . .
 
 ## Annotations
 
-[^key-263e484b78a9132adae7e439c10ea109]: Textual amendment: Act repealed (4.4.2011) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/asp/2007/3/schedule/6/part/1) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2011/179](https://www.legislation.gov.uk/ssi/2011/179), [art. 3(c)](https://www.legislation.gov.uk/ssi/2011/179/article/3/c) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/179/article/4))
+[^c-263e484b78a9132adae7e439c10ea109]: Textual amendment: Act repealed (4.4.2011) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/asp/2007/3/schedule/6/part/1) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2011/179](https://www.legislation.gov.uk/ssi/2011/179), [art. 3(c)](https://www.legislation.gov.uk/ssi/2011/179/article/3/c) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/179/article/4))

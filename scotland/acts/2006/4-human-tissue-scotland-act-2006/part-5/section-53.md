@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-e67bc71b78c993127b75bde50ce0af29] The Anatomy Act 1984 (c. 14) is amended as follows.
+(1)[^c-e67bc71b78c993127b75bde50ce0af29] The Anatomy Act 1984 (c. 14) is amended as follows.
 
-(2)[^key-e67bc71b78c993127b75bde50ce0af29] In section 1 (definitions, and scope of Act)—
+(2)[^c-e67bc71b78c993127b75bde50ce0af29] In section 1 (definitions, and scope of Act)—
 
 - (a) for subsection (1) substitute—
 
@@ -48,7 +48,7 @@ summary: ''
   - (ii) for the words from “carried” to the end substitute “ a post-mortem examination as defined in section 23 of the Human Tissue (Scotland) Act 2006 (asp 4) ”;
 - (d) in subsection (5), for the words from the beginning to “research” where it second occurs, substitute “ If a part of a body is authorised to be removed for transplantation, research, education, training or audit under section 6, 7, 8, 9 or 10 of the Human Tissue (Scotland) Act 2006 (asp 4), that Act (and not this Act) applies to the removal and use of the part, even if the transplantation, research, education, training or audit ”.
 
-(3)[^key-e67bc71b78c993127b75bde50ce0af29] In section 2 (control of examination and possession of anatomical specimens)—
+(3)[^c-e67bc71b78c993127b75bde50ce0af29] In section 2 (control of examination and possession of anatomical specimens)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (c), for the words “section 4” substitute “ sections 4 to 4B ”;
@@ -58,9 +58,9 @@ summary: ''
   - (ii) in paragraph (c), for the words from “section 22(1)” to the end substitute “ section 24 of the 1965 Act or, where the body concerned is an imported body, a certificate or other document having the equivalent effect has been issued under the law concerning such matters applicable in the country or territory in which the person died ”;
 - (c) in subsection (4), the words from “ “the 1953 Act”” to “and”, where it second occurs, are repealed.
 
-(4)[^key-e67bc71b78c993127b75bde50ce0af29] In section 3(3)(b) (licences), the words from “carries” to “and” are repealed.
+(4)[^c-e67bc71b78c993127b75bde50ce0af29] In section 3(3)(b) (licences), the words from “carries” to “and” are repealed.
 
-(5)[^key-e67bc71b78c993127b75bde50ce0af29] In section 4 (lawful examinations)—
+(5)[^c-e67bc71b78c993127b75bde50ce0af29] In section 4 (lawful examinations)—
 
 - (a) in subsection (1), for the words from “a person” to “request” substitute “ a person, who at the time the request is made is 12 years of age or over, requests ”;
 - (b) after that subsection, insert—
@@ -95,7 +95,7 @@ summary: ''
   ;
 - (h) subsections (10) and (11) are repealed.
 
-(6)[^key-f2221e6bcd39d3c287dbbfa2c75de0c4] After that section, insert—
+(6)[^c-f2221e6bcd39d3c287dbbfa2c75de0c4] After that section, insert—
 
 > **4A. Lawful examinations: imported bodies**
 >
@@ -128,7 +128,7 @@ summary: ''
 
 (7) In section 5 (control of possession after examination)—
 
-- (a)[^key-e67bc71b78c993127b75bde50ce0af29] for subsection (1) substitute—
+- (a)[^c-e67bc71b78c993127b75bde50ce0af29] for subsection (1) substitute—
 
   > (1) This section applies where—
   >
@@ -142,8 +142,8 @@ summary: ''
   > whether or not the body or part of the body has undergone any process to preserve it.
 
   ;
-- (b)[^key-e67bc71b78c993127b75bde50ce0af29] in subsection (2), for “and (4)” substitute “ , (4) and (4A) ”;
-- (c)[^key-e67bc71b78c993127b75bde50ce0af29] for subsection (4) substitute—
+- (b)[^c-e67bc71b78c993127b75bde50ce0af29] in subsection (2), for “and (4)” substitute “ , (4) and (4A) ”;
+- (c)[^c-e67bc71b78c993127b75bde50ce0af29] for subsection (4) substitute—
 
   > (4) Subsection (2) does not apply—
   >
@@ -168,13 +168,13 @@ summary: ''
   > - (e) the person with possession of the body is authorised to have possession under subsection (5).
 
   ;
-- (d)[^key-e67bc71b78c993127b75bde50ce0af29] in subsection (5)—
+- (d)[^c-e67bc71b78c993127b75bde50ce0af29] in subsection (5)—
   - (i) after the word “education” insert “ , training ”;
   - (ii) after the word “of”, at the third place it occurs, insert “ bodies or, as the case may be, ”;
   - (iii) after the word “of”, at the fifth place it occurs, insert “ a body or ”;
-- (e)[^key-f2221e6bcd39d3c287dbbfa2c75de0c4] in subsection (6)(a), after the word “to” insert “ bodies or ”.
+- (e)[^c-f2221e6bcd39d3c287dbbfa2c75de0c4] in subsection (6)(a), after the word “to” insert “ bodies or ”.
 
-(8)[^key-e67bc71b78c993127b75bde50ce0af29] In section 6 (lawful possession after examination)—
+(8)[^c-e67bc71b78c993127b75bde50ce0af29] In section 6 (lawful possession after examination)—
 
 - (a) in subsection (1)—
   - (i) repeal the words “a person, in expressing”;
@@ -186,7 +186,7 @@ summary: ''
 
   .
 
-(9)[^key-f2221e6bcd39d3c287dbbfa2c75de0c4] After section 6, insert—
+(9)[^c-f2221e6bcd39d3c287dbbfa2c75de0c4] After section 6, insert—
 
 > **Control of public display**
 >
@@ -273,7 +273,7 @@ summary: ''
 
 .
 
-(10)[^key-e67bc71b78c993127b75bde50ce0af29] In section 7 (licences: general provisions)—
+(10)[^c-e67bc71b78c993127b75bde50ce0af29] In section 7 (licences: general provisions)—
 
 - (a) in subsection (7), after the word “Act” insert “ , subject to subsection (7A), ”;
 - (b) after that subsection, insert—
@@ -283,7 +283,7 @@ summary: ''
   ;
 - (c) in subsection (8), after the word “(7)” insert “ or (7A) ”.
 
-(11)[^key-e67bc71b78c993127b75bde50ce0af29] After that section, insert—
+(11)[^c-e67bc71b78c993127b75bde50ce0af29] After that section, insert—
 
 > **7A. Appeal to sheriff principal against licence decision**
 >
@@ -332,7 +332,7 @@ summary: ''
 
 .
 
-(12)[^key-f2221e6bcd39d3c287dbbfa2c75de0c4] In section 8(1) (regulations)—
+(12)[^c-f2221e6bcd39d3c287dbbfa2c75de0c4] In section 8(1) (regulations)—
 
 - (a) in paragraph (a), after the word “4” insert “ or section 4A ”;
 - (b) in paragraph (b)—
@@ -346,7 +346,7 @@ summary: ''
 
   .
 
-(13)[^key-f2221e6bcd39d3c287dbbfa2c75de0c4] After that section, insert—
+(13)[^c-f2221e6bcd39d3c287dbbfa2c75de0c4] After that section, insert—
 
 > **8A. Code of practice**
 >
@@ -387,15 +387,15 @@ summary: ''
 
 .
 
-(14)[^key-e67bc71b78c993127b75bde50ce0af29] In section 9(1) (inspectors of anatomy), the words “Her Majesty's Inspector of Anatomy or (if the terms of the appointment so provide)” are repealed.
+(14)[^c-e67bc71b78c993127b75bde50ce0af29] In section 9(1) (inspectors of anatomy), the words “Her Majesty's Inspector of Anatomy or (if the terms of the appointment so provide)” are repealed.
 
-(15)[^key-e67bc71b78c993127b75bde50ce0af29] In section 10 (inspector's power to inspect records and premises)—
+(15)[^c-e67bc71b78c993127b75bde50ce0af29] In section 10 (inspector's power to inspect records and premises)—
 
 - (a) in subsection (1), for the words “or 5(6)” substitute “ , 5(6) or 6A(12) ”;
 - (b) in subsection (2)(a), for the words “section 11(1)(a)” substitute “ section 11(1) ”;
 - (c) subsection (5) is repealed.
 
-(16)[^key-e67bc71b78c993127b75bde50ce0af29] In section 11 (offences)—
+(16)[^c-e67bc71b78c993127b75bde50ce0af29] In section 11 (offences)—
 
 - (a) in subsection (1)—
   - (i) the word “or” following paragraph (b) is repealed;
@@ -416,7 +416,7 @@ summary: ''
 
   .
 
-(17)[^key-e67bc71b78c993127b75bde50ce0af29] Before section 12, insert—
+(17)[^c-e67bc71b78c993127b75bde50ce0af29] Before section 12, insert—
 
 > **11A. Interpretation**
 >
@@ -429,6 +429,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e67bc71b78c993127b75bde50ce0af29]: Commencement: S. 53(1)-(5)(7)(a)-(d)(8)(10)(11)(14)-(17) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-e67bc71b78c993127b75bde50ce0af29]: Commencement: S. 53(1)-(5)(7)(a)-(d)(8)(10)(11)(14)-(17) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-f2221e6bcd39d3c287dbbfa2c75de0c4]: Commencement: S. 53(6)(7)(e)(9)(12)(13) in force at 12.5.2006 for specified purposes and in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-f2221e6bcd39d3c287dbbfa2c75de0c4]: Commencement: S. 53(6)(7)(e)(9)(12)(13) in force at 12.5.2006 for specified purposes and in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)

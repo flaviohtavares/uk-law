@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Children's services plan: process[^key-02da40d6df7ffb528525c8432cc7d307]
+## 10. Children's services plan: process[^c-02da40d6df7ffb528525c8432cc7d307]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02da40d6df7ffb528525c8432cc7d307]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/8/section/10) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-02da40d6df7ffb528525c8432cc7d307]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/8/section/10) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

@@ -34,30 +34,30 @@ of 28 June 2004
 
 concerning the compilation and transmission of data on the quarterly government debt (revoked)
 
-[^key-a2c210678b97ad991f11f3e938266bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2c210678b97ad991f11f3e938266bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-a2c210678b97ad991f11f3e938266bc2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Timetable[^key-a2c210678b97ad991f11f3e938266bc2]
+## Article 1. Definitions[^c-a2c210678b97ad991f11f3e938266bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Back data[^key-a2c210678b97ad991f11f3e938266bc2]
+## Article 2. Timetable[^c-a2c210678b97ad991f11f3e938266bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments[^key-a2c210678b97ad991f11f3e938266bc2]
+## Article 3. Back data[^c-a2c210678b97ad991f11f3e938266bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry in force[^key-a2c210678b97ad991f11f3e938266bc2]
+## Article 4. Amendments[^c-a2c210678b97ad991f11f3e938266bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2c210678b97ad991f11f3e938266bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry in force[^c-a2c210678b97ad991f11f3e938266bc2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a2c210678b97ad991f11f3e938266bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2c210678b97ad991f11f3e938266bc2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2c210678b97ad991f11f3e938266bc2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

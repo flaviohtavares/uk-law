@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. His Majesty’s Chief Inspector of Prisons[^key-1fa1b3fa48fd062d69dbc04e2d693f57]
+## 23. His Majesty’s Chief Inspector of Prisons[^c-1fa1b3fa48fd062d69dbc04e2d693f57]
 
 *Extent: E+W*
 
-(1)[^key-dc8e8e038614600f5c5fa28ddd7c6f8c] Schedule A1 to the Prison Act 1952 (further provision about Chief Inspector) is amended as follows.
+(1)[^c-dc8e8e038614600f5c5fa28ddd7c6f8c] Schedule A1 to the Prison Act 1952 (further provision about Chief Inspector) is amended as follows.
 
-(2)[^key-dc8e8e038614600f5c5fa28ddd7c6f8c] In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
+(2)[^c-dc8e8e038614600f5c5fa28ddd7c6f8c] In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
 
 > - (ia) the Commissioner for Victims and Witnesses, and
 
 .
 
-(3)[^key-e1f9dabb71d0a1531de765cbab334af0] In paragraph 5 (joint action), after sub-paragraph (6) insert—
+(3)[^c-e1f9dabb71d0a1531de765cbab334af0] In paragraph 5 (joint action), after sub-paragraph (6) insert—
 
 > (7) The Secretary of State, the Lord Chancellor and the Attorney General may by a joint direction require a joint inspection programme to include provision for the inspection, at specified times, of specified matters relating to the experiences and treatment of victims.
 >
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1fa1b3fa48fd062d69dbc04e2d693f57]: Commencement: S. 23 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-1fa1b3fa48fd062d69dbc04e2d693f57]: Commencement: S. 23 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-dc8e8e038614600f5c5fa28ddd7c6f8c]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/23/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/23/2) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/e)
+[^c-dc8e8e038614600f5c5fa28ddd7c6f8c]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/23/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/23/2) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/e)
 
-[^key-e1f9dabb71d0a1531de765cbab334af0]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/23/3) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/a)
+[^c-e1f9dabb71d0a1531de765cbab334af0]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/23/3) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/a)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Exclusion: Service contracts awarded on the basis of an exclusive right[^key-094f008a929405198eb8f36c4f7141c9]
+## 21. Exclusion: Service contracts awarded on the basis of an exclusive right[^c-094f008a929405198eb8f36c4f7141c9]
 
 *Extent: S*
 
-These Regulations do not apply to procurement for a service contract to be awarded to a contracting authority or to an association of contracting authorities on the basis of an exclusive right which such authority or association of authorities enjoy pursuant to a law, regulation or published administrative provision [^key-21cacdccd7709638ff9466aa71f5e6e7]....
+These Regulations do not apply to procurement for a service contract to be awarded to a contracting authority or to an association of contracting authorities on the basis of an exclusive right which such authority or association of authorities enjoy pursuant to a law, regulation or published administrative provision [^c-21cacdccd7709638ff9466aa71f5e6e7]....
 
 ## Annotations
 
-[^key-094f008a929405198eb8f36c4f7141c9]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/49/regulation/21) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-094f008a929405198eb8f36c4f7141c9]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/49/regulation/21) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-21cacdccd7709638ff9466aa71f5e6e7]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/ssi/2016/49/regulation/21) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2024/338/regulation/4/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+[^c-21cacdccd7709638ff9466aa71f5e6e7]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/ssi/2016/49/regulation/21) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2024/338/regulation/4/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))

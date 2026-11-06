@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Information that may be sought by local authority or the Scottish Ministers[^key-7a717ff1a30694a80b80f7ef1e3022e8][^key-160facf67dea39e7a987a8f41c602dac]
+## 14. Information that may be sought by local authority or the Scottish Ministers[^c-7a717ff1a30694a80b80f7ef1e3022e8][^c-160facf67dea39e7a987a8f41c602dac]
 
 *Extent: S*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a717ff1a30694a80b80f7ef1e3022e8]: Commencement: S. 14 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-7a717ff1a30694a80b80f7ef1e3022e8]: Commencement: S. 14 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-160facf67dea39e7a987a8f41c602dac]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2025/13/section/14) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-160facf67dea39e7a987a8f41c602dac]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2025/13/section/14) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

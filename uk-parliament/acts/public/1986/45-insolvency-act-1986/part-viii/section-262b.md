@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section applies where a voluntary arrangement approved by a decision of the debtor's creditors pursuant to[^key-b307eaa3ddaa026943ceec6490bec0c6] section 257 has taken effect.
+(1) This section applies where a voluntary arrangement approved by a decision of the debtor's creditors pursuant to[^c-b307eaa3ddaa026943ceec6490bec0c6] section 257 has taken effect.
 
 (2) If it appears to the nominee or supervisor that the debtor has been guilty of any offence in connection with the arrangement for which he is criminally liable, he shall forthwith—
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c15576811]: Textual amendment: S. 262B inserted (1.1.2003) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 3](https://www.legislation.gov.uk/ukpga/2000/39/section/3), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2000/39/schedule/3/paragraph/12); [S.I. 2002/2711](https://www.legislation.gov.uk/uksi/2002/2711), [art. 2](https://www.legislation.gov.uk/uksi/2002/2711/article/2) (subject to transitional provisions in [arts. 3-5](https://www.legislation.gov.uk/uksi/2002/2711/article/3))
 
-[^key-b307eaa3ddaa026943ceec6490bec0c6]: Textual amendment: Words in s. 262B(1) substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 70](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/70); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
+[^c-b307eaa3ddaa026943ceec6490bec0c6]: Textual amendment: Words in s. 262B(1) substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 70](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/70); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Power to seize bladed articles etc[^key-8a63b5d8b7f79411579c3621db0f1063]
+## 30. Power to seize bladed articles etc[^c-8a63b5d8b7f79411579c3621db0f1063]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ This is subject to subsections (6) and (8).
 
 ## Annotations
 
-[^key-8a63b5d8b7f79411579c3621db0f1063]: Commencement: S. 30 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8a63b5d8b7f79411579c3621db0f1063]: Commencement: S. 30 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture, Wales
 
-The Feed (Hygiene and Enforcement) and the Animal Feed (Wales) (Amendment) Regulations 2013 (revoked)[^key-17a7a42ec037cff72c3ac3a17c85f7f5]
+The Feed (Hygiene and Enforcement) and the Animal Feed (Wales) (Amendment) Regulations 2013 (revoked)[^c-17a7a42ec037cff72c3ac3a17c85f7f5]
 
 Made
 
@@ -45,39 +45,39 @@ Coming into force
 
 12 January 2014
 
-[^key-17a7a42ec037cff72c3ac3a17c85f7f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17a7a42ec037cff72c3ac3a17c85f7f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-17a7a42ec037cff72c3ac3a17c85f7f5]
+## 1. Title and commencement[^c-17a7a42ec037cff72c3ac3a17c85f7f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feed (Hygiene and Enforcement) (Wales) Regulations 2005[^key-17a7a42ec037cff72c3ac3a17c85f7f5]
+## 2. Amendment of the Feed (Hygiene and Enforcement) (Wales) Regulations 2005[^c-17a7a42ec037cff72c3ac3a17c85f7f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Animal Feed (Wales) Regulations 2010[^key-17a7a42ec037cff72c3ac3a17c85f7f5]
+## 3. Amendment of the Animal Feed (Wales) Regulations 2010[^c-17a7a42ec037cff72c3ac3a17c85f7f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17a7a42ec037cff72c3ac3a17c85f7f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17a7a42ec037cff72c3ac3a17c85f7f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-17a7a42ec037cff72c3ac3a17c85f7f5]
+## SCHEDULE 1[^c-17a7a42ec037cff72c3ac3a17c85f7f5]
 
 Regulation 2(5)
 
-> **SCHEDULE 2 — FEES PAYABLE FOR APPROVALS[^key-17a7a42ec037cff72c3ac3a17c85f7f5]**
+> **SCHEDULE 2 — FEES PAYABLE FOR APPROVALS[^c-17a7a42ec037cff72c3ac3a17c85f7f5]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-17a7a42ec037cff72c3ac3a17c85f7f5]
+## SCHEDULE 2[^c-17a7a42ec037cff72c3ac3a17c85f7f5]
 
 Regulation 3(4)
 
-> **SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^key-17a7a42ec037cff72c3ac3a17c85f7f5]**
+> **SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^c-17a7a42ec037cff72c3ac3a17c85f7f5]**
 >
 > Regulation 4(1)
 >
@@ -85,8 +85,8 @@ Regulation 3(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-17a7a42ec037cff72c3ac3a17c85f7f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17a7a42ec037cff72c3ac3a17c85f7f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-17a7a42ec037cff72c3ac3a17c85f7f5]: Textual amendment: Regulations revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-17a7a42ec037cff72c3ac3a17c85f7f5]: Textual amendment: Regulations revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)

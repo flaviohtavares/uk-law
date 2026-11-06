@@ -82,10 +82,10 @@ summary: ''
   - (d) Parts 10 to 12 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c23155011],
   - (e) Parts 2 and 3 of, or the Schedule to, the Partnerships (Accounts) Regulations 2008 [^c23155021],
   - (f) Regulation 3 of, or Schedule 1 to, the Unregistered Companies Regulations 2009 [^c23155031],
-  - (g) [^key-9aff6282a0579b2505e791e3a0f99473]...
+  - (g) [^c-9aff6282a0579b2505e791e3a0f99473]...
   - (h) Parts 2 and 3 of, or Schedule 1 and 2 to, the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 [^c23155051],
   - (i) Part 8 of, or Schedule 11 to, the Building Societies Act 1986 [^c23155061], or of any subordinate legislation made under that Part or that Schedule,
-  - (j) Part 6 of, or Schedule 14 or Schedule 14A[^key-da7e11b467f0d7133c04e80d04de93a2] to, the Friendly Societies Act 1992 [^c23155071], or of any subordinate legislation made under that Part of that Schedule, in so far as those provisions apply to a friendly society that is subject to special requirements under that Act (see section 78A(3) of that Act )[^key-c4a34703ea5677132114ad9be54d9274],
+  - (j) Part 6 of, or Schedule 14 or Schedule 14A[^c-da7e11b467f0d7133c04e80d04de93a2] to, the Friendly Societies Act 1992 [^c23155071], or of any subordinate legislation made under that Part of that Schedule, in so far as those provisions apply to a friendly society that is subject to special requirements under that Act (see section 78A(3) of that Act )[^c-c4a34703ea5677132114ad9be54d9274],
   - (k) Parts 2 and 3 of, or Schedules 1 and 3 to, the Insurance Accounts Directive (Lloyd's Syndicates and Aggregate Accounts) Regulations 2008 [^c23155091], and
   - (l) a standard set under the arrangements required by Schedule 10 to the Act, where those paragraphs continue to apply by virtue of regulation 1 of these Regulations,
 - “**subordinate legislation**” means legislation made by way of statutory instrument, and
@@ -102,16 +102,16 @@ summary: ''
 
 [^c23155031]: Marginal citation: [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436).
 
-[^key-9aff6282a0579b2505e791e3a0f99473]: Textual amendment: Words in [reg. 5(11)](https://www.legislation.gov.uk/uksi/2016/649/regulation/5/11) repealed (with effect in accordance with reg. 19(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-9aff6282a0579b2505e791e3a0f99473]: Textual amendment: Words in [reg. 5(11)](https://www.legislation.gov.uk/uksi/2016/649/regulation/5/11) repealed (with effect in accordance with reg. 19(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
 [^c23155051]: Marginal citation: [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565).
 
 [^c23155061]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
-[^key-da7e11b467f0d7133c04e80d04de93a2]: Textual amendment: Words in reg. 5(11)(j) inserted (1.5.2017) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/14/2)
+[^c-da7e11b467f0d7133c04e80d04de93a2]: Textual amendment: Words in reg. 5(11)(j) inserted (1.5.2017) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/14/2)
 
 [^c23155071]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-c4a34703ea5677132114ad9be54d9274]: Textual amendment: Words in [reg. 5(11)](https://www.legislation.gov.uk/uksi/2016/649/regulation/5/11/j) substituted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [69](https://www.legislation.gov.uk/uksi/2019/177/regulation/69); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4a34703ea5677132114ad9be54d9274]: Textual amendment: Words in [reg. 5(11)](https://www.legislation.gov.uk/uksi/2016/649/regulation/5/11/j) substituted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [69](https://www.legislation.gov.uk/uksi/2019/177/regulation/69); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23155091]: Marginal citation: [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950).

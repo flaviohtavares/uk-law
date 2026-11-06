@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.11. Evidence of a witness in person[^key-a19b0d97e5d8d0f051846697819291fb]
+## 25.11. Evidence of a witness in person[^c-a19b0d97e5d8d0f051846697819291fb]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a19b0d97e5d8d0f051846697819291fb]: Commencement: [Rule 25.11](https://www.legislation.gov.uk/uksi/2025/909/rule/25.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a19b0d97e5d8d0f051846697819291fb]: Commencement: [Rule 25.11](https://www.legislation.gov.uk/uksi/2025/909/rule/25.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00602]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 

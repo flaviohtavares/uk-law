@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Sub-district flood risk advisory groups[^key-588cf8c7261b40a4b70b1bd644d1d954]
+## 50. Sub-district flood risk advisory groups[^c-588cf8c7261b40a4b70b1bd644d1d954]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ so far as those matters are within the remit of the group.
 
 ## Annotations
 
-[^key-588cf8c7261b40a4b70b1bd644d1d954]: Commencement: S. 50 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-588cf8c7261b40a4b70b1bd644d1d954]: Commencement: S. 50 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

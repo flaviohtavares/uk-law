@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 416ZB. “Notional accounting period”[^key-03bc9f597752ab7e3071d7fd67929c22]
+## 416ZB. “Notional accounting period”[^c-03bc9f597752ab7e3071d7fd67929c22]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ subsection (3)(b) applies with reference to the accounting date of such one of t
 
 ## Annotations
 
-[^key-03bc9f597752ab7e3071d7fd67929c22]: Textual amendment: Ss. 416ZA, 416ZB inserted (with effect in accordance with s. 92(10) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 92(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/92/5)
+[^c-03bc9f597752ab7e3071d7fd67929c22]: Textual amendment: Ss. 416ZA, 416ZB inserted (with effect in accordance with s. 92(10) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 92(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/92/5)

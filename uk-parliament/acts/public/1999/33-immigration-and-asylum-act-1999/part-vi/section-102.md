@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Asylum Support Adjudicators.[^key-3d324d208ff8c3b5a4dc4d804bd21c74]
+## 102. Asylum Support Adjudicators.[^c-3d324d208ff8c3b5a4dc4d804bd21c74]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d324d208ff8c3b5a4dc4d804bd21c74]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/1999/33/section/102) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 181](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/181)
+[^c-3d324d208ff8c3b5a4dc4d804bd21c74]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/1999/33/section/102) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 181](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/181)

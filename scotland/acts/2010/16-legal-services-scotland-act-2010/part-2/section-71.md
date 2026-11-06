@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Distribution of client account[^key-7f4cfd1e2afb7576c44b9698a2d50def]
+## 71. Distribution of client account[^c-7f4cfd1e2afb7576c44b9698a2d50def]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f4cfd1e2afb7576c44b9698a2d50def]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2010/16/section/71) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-7f4cfd1e2afb7576c44b9698a2d50def]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2010/16/section/71) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

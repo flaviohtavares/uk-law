@@ -42,7 +42,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 1. Removal of Secretary of State's powers to appoint trustees
 
-(1)[^key-3ac27ca8f510b24a39d1e501f266f771] In the National Health Service Act 2006 (“**the 2006 Act**”) omit the following provisions—
+(1)[^c-3ac27ca8f510b24a39d1e501f266f771] In the National Health Service Act 2006 (“**the 2006 Act**”) omit the following provisions—
 
 - (a) section 51 (foundation trusts: trust funds and trustees),
 - (b) section 212 (special trustees for a university hospital or teaching hospital),
@@ -50,24 +50,24 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (d) paragraph 15 of Schedule 1A (clinical commissioning groups: trust funds and trustees) and the italic heading before that paragraph, and
 - (e) paragraph 9 of Schedule 6 (Special Health Authorities: trust funds and trustees).
 
-(2)[^key-3ac27ca8f510b24a39d1e501f266f771] The Secretary of State may by regulations made by statutory instrument make such provision as the Secretary of State considers appropriate in consequence of subsection (1).
+(2)[^c-3ac27ca8f510b24a39d1e501f266f771] The Secretary of State may by regulations made by statutory instrument make such provision as the Secretary of State considers appropriate in consequence of subsection (1).
 
-(3)[^key-3ac27ca8f510b24a39d1e501f266f771] The provision that may be made by regulations under subsection (2) includes—
+(3)[^c-3ac27ca8f510b24a39d1e501f266f771] The provision that may be made by regulations under subsection (2) includes—
 
 - (a) different provision for different purposes,
 - (b) transitional, transitory or saving provision,
 - (c) incidental or supplementary provision, and
 - (d) provision amending, repealing or revoking any primary or subordinate legislation.
 
-(4)[^key-3ac27ca8f510b24a39d1e501f266f771] Subject to subsection (5), a statutory instrument containing regulations under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+(4)[^c-3ac27ca8f510b24a39d1e501f266f771] Subject to subsection (5), a statutory instrument containing regulations under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(5)[^key-3ac27ca8f510b24a39d1e501f266f771] Subsection (4) does not apply to a statutory instrument falling within subsection (6).
+(5)[^c-3ac27ca8f510b24a39d1e501f266f771] Subsection (4) does not apply to a statutory instrument falling within subsection (6).
 
-(6)[^key-3ac27ca8f510b24a39d1e501f266f771] A statutory instrument containing regulations under subsection (2) which amend or repeal primary legislation (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+(6)[^c-3ac27ca8f510b24a39d1e501f266f771] A statutory instrument containing regulations under subsection (2) which amend or repeal primary legislation (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-(7)[^key-3ac27ca8f510b24a39d1e501f266f771] In subsection (3)(d) the reference to subordinate legislation includes subordinate legislation made after the passing of this Act.
+(7)[^c-3ac27ca8f510b24a39d1e501f266f771] In subsection (3)(d) the reference to subordinate legislation includes subordinate legislation made after the passing of this Act.
 
-(8)[^key-3ac27ca8f510b24a39d1e501f266f771] In this section—
+(8)[^c-3ac27ca8f510b24a39d1e501f266f771] In this section—
 
 - “**primary legislation**” means—
   - (a) an Act of Parliament, or
@@ -76,9 +76,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (a) subordinate legislation within the meaning of the Interpretation Act 1978, and
   - (b) subordinate legislation made under a Measure or Act of the National Assembly for Wales.
 
-(9)[^key-464116f19d10658d5d1aa9473b230570] Schedule 1 makes consequential amendments.
+(9)[^c-464116f19d10658d5d1aa9473b230570] Schedule 1 makes consequential amendments.
 
-### 2. Section 1: supplementary provision[^key-b0c5be65e5c1898e95fbef460fe6f67a]
+### 2. Section 1: supplementary provision[^c-b0c5be65e5c1898e95fbef460fe6f67a]
 
 (1) The Secretary of State may by regulations made by statutory instrument provide for—
 
@@ -196,16 +196,16 @@ Section 1
 
 ### National Health Service Act 2006 (c. 41)
 
-**1.**[^key-f8fb3c0f2843a911b059ee275dadbebc] The National Health Service Act 2006 is amended as follows.
+**1.**[^c-f8fb3c0f2843a911b059ee275dadbebc] The National Health Service Act 2006 is amended as follows.
 
-**2.**[^key-22d32534c600d974f7e07c15bcdd35a8] In section 213 (transfers of trust property)—
+**2.**[^c-22d32534c600d974f7e07c15bcdd35a8] In section 213 (transfers of trust property)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (b) at the beginning insert “ Welsh ”, and
   - (ii) in paragraph (c) omit “the Board or a clinical commissioning group,” and “or an NHS foundation trust”, and
 - (b) in subsection (5) for “ “**special trustees**” includes” substitute “ “**Welsh special trustees**” means ”.
 
-**3.**[^key-ac15f7ecb47f98ecd75a6bac9d7d0836] In section 214 (transfer of functions and property to and from special trustees)—
+**3.**[^c-ac15f7ecb47f98ecd75a6bac9d7d0836] In section 214 (transfer of functions and property to and from special trustees)—
 
 - (a) in the heading of the section after “from” insert “ Welsh ”,
 - (b) in subsections (1) to (3) for “special trustees”, in each place, substitute “ Welsh special trustees ”,
@@ -214,47 +214,47 @@ Section 1
 
 **4.** In section 215 (trustees and property under section 222)—
 
-- (a)[^key-493588ff2c9b9f6eb948490f43945a11] omit subsections (1) and (2),
+- (a)[^c-493588ff2c9b9f6eb948490f43945a11] omit subsections (1) and (2),
 - (b) in subsection (3)—
   - (i) omit paragraphs (za), (zb) and (c) (and the “or” before paragraph (c)), and
-  - (ii)[^key-54ef34f4e4980b27226e043e845c118a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-54ef34f4e4980b27226e043e845c118a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (4) omit the following—
   - (i) “Board, clinical commissioning group,” in both places, and
   - (ii) “or NHS foundation trust” in both places.
 
-**5.**[^key-143fabc586c415ba6c6b1224f514b3f4] In section 217 (trusts: supplementary provisions) in subsection (1)—
+**5.**[^c-143fabc586c415ba6c6b1224f514b3f4] In section 217 (trusts: supplementary provisions) in subsection (1)—
 
 - (a) omit paragraphs (a), (ea) and (eb),
 - (b) in paragraph (b) for “212 to” substitute “ 213 and ”, and
 - (c) in paragraph (i) for “paragraphs 8 and 9” substitute “ paragraph 8 ”.
 
-**6.**[^key-52c1b47889c5945771bb0ad97eb13a2e] In section 218 (private trusts for hospitals)—
+**6.**[^c-52c1b47889c5945771bb0ad97eb13a2e] In section 218 (private trusts for hospitals)—
 
 - (a) in subsection (4)—
   - (i) in paragraph (a) after “where” insert “ Welsh ”, and
   - (ii) in paragraph (b) omit “an NHS foundation trust”, and
 - (b) in subsection (6) in the definition of “special trustees” for “ “**special trustees**” includes” substitute “ “**Welsh special trustees**” means ”.
 
-**7.**[^key-ed09bc7e1da7a2591c86a3ffbe9db264] In section 220 (trust property previously held for general hospital purposes) omit subsection (6).
+**7.**[^c-ed09bc7e1da7a2591c86a3ffbe9db264] In section 220 (trust property previously held for general hospital purposes) omit subsection (6).
 
-**8.**[^key-9c503340577cdb25bc4cfb47cc297dac] In section 226 (financial duties of Special Health Authorities) in subsection (4)(a) omit the words from “or on” to the end.
+**8.**[^c-9c503340577cdb25bc4cfb47cc297dac] In section 226 (financial duties of Special Health Authorities) in subsection (4)(a) omit the words from “or on” to the end.
 
-**9.**[^key-d16a3357f1666bc0f249af3a7d5f6986] In section 276 (index of defined expressions) omit the entry relating to special trustees.
+**9.**[^c-d16a3357f1666bc0f249af3a7d5f6986] In section 276 (index of defined expressions) omit the entry relating to special trustees.
 
-**10.**[^key-29f482dbfcfdc181f7425272f76ad5f9] In Schedule 15 (accounts and audit) omit paragraph 1(1)(f).
+**10.**[^c-29f482dbfcfdc181f7425272f76ad5f9] In Schedule 15 (accounts and audit) omit paragraph 1(1)(f).
 
 ### National Health Service (Wales) Act 2006 (c. 42)
 
-**11.**[^key-7364cfc2f4f52a57263cae16e12cf97e] The National Health Service (Wales) Act 2006 is amended as follows.
+**11.**[^c-7364cfc2f4f52a57263cae16e12cf97e] The National Health Service (Wales) Act 2006 is amended as follows.
 
-**12.**[^key-f2856e1c99aee11021087697ae9829fc] In section 161 (transfers of trust property)—
+**12.**[^c-f2856e1c99aee11021087697ae9829fc] In section 161 (transfers of trust property)—
 
 - (a) in subsection (2)(c) omit—
   - (i) the words from “the National” to “group,”, and
   - (ii) “or an NHS foundation trust”, and
 - (b) omit subsection (5).
 
-**13.**[^key-b7cce28f6a83a4b9621b8867b7a03bff] In section 162 (transfer of functions and property to or from special trustees)—
+**13.**[^c-b7cce28f6a83a4b9621b8867b7a03bff] In section 162 (transfer of functions and property to or from special trustees)—
 
 - (a) in subsection (3)(a) omit—
   - (i) the words from “the National” to “group”, and
@@ -263,39 +263,39 @@ Section 1
 
 **Not yet in force.**
 
-**14.**[^key-eccebc02ed8b61a7eae37b073c5214f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-eccebc02ed8b61a7eae37b073c5214f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Charities Act 2011 (c. 25)
 
-**15.**[^key-f3cccb250bc1686088df07fee11e9010] In section 149(7) of the Charities Act 2011 (meaning of “English NHS charity”) omit paragraphs (bc) and (bd).
+**15.**[^c-f3cccb250bc1686088df07fee11e9010] In section 149(7) of the Charities Act 2011 (meaning of “English NHS charity”) omit paragraphs (bc) and (bd).
 
 ### Health and Social Care Act 2012 (c. 7)
 
-**16.**[^key-b00c54be12996dac38fdc260fe3fb92b] In the Health and Social Care Act 2012—
+**16.**[^c-b00c54be12996dac38fdc260fe3fb92b] In the Health and Social Care Act 2012—
 
 - (a) in Schedule 4 (amendments of the National Health Service Act 2006) omit paragraphs 109(a), 110(3)(a), 111(3)(a) and 113(a), and
 - (b) in Schedule 21 (amendments relating to relationships between the health services) omit paragraphs 34(a) and 35(3)(a).
 
 ### Local Audit and Accountability Act 2014 (c. 2)
 
-**17.**[^key-18b91307c8918a4bd708beda1acc262a] The Local Audit and Accountability Act 2014 is amended as follows.
+**17.**[^c-18b91307c8918a4bd708beda1acc262a] The Local Audit and Accountability Act 2014 is amended as follows.
 
 **18.** Omit the following (which relate to special trustees for hospitals in England)—
 
-- (a)[^key-1ed19f20b1429a1eff421451c95a164f] section 3(9)(b),
-- (b)[^key-1ed19f20b1429a1eff421451c95a164f] section 4(5),
-- (c)[^key-1ed19f20b1429a1eff421451c95a164f] section 8(4)(c),
-- (d)[^key-1ed19f20b1429a1eff421451c95a164f] section 10(10)(c),
-- (e)[^key-1ed19f20b1429a1eff421451c95a164f] section 21(3),
-- (f)[^key-601439da231f101efd0cae81ccc9542e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1ed19f20b1429a1eff421451c95a164f] section 3(9)(b),
+- (b)[^c-1ed19f20b1429a1eff421451c95a164f] section 4(5),
+- (c)[^c-1ed19f20b1429a1eff421451c95a164f] section 8(4)(c),
+- (d)[^c-1ed19f20b1429a1eff421451c95a164f] section 10(10)(c),
+- (e)[^c-1ed19f20b1429a1eff421451c95a164f] section 21(3),
+- (f)[^c-601439da231f101efd0cae81ccc9542e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the definition of “special trustees for a hospital” in section 44(1),
-- (h)[^key-c40c98fbdbafbbd8e70e5417eb35d91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-c40c98fbdbafbbd8e70e5417eb35d91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) paragraph 24 of Schedule 2 (and the note to that paragraph), and
 - (j) paragraph 4(8)(c) of Schedule 7.
 
 **Not yet in force.**
 
-**19.**[^key-4663ef2060a7f01f7f849c74ee2f783d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4663ef2060a7f01f7f849c74ee2f783d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — SECTION 3: SUPPLEMENTARY PROVISIONS
 
@@ -346,52 +346,52 @@ Section 3
 
 ## Annotations
 
-[^key-3ac27ca8f510b24a39d1e501f266f771]: Commencement: [S. 1(1)-(8)](https://www.legislation.gov.uk/ukpga/2016/10/section/1/1) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/a)
+[^c-3ac27ca8f510b24a39d1e501f266f771]: Commencement: [S. 1(1)-(8)](https://www.legislation.gov.uk/ukpga/2016/10/section/1/1) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/a)
 
-[^key-464116f19d10658d5d1aa9473b230570]: Commencement: [S. 1(9)](https://www.legislation.gov.uk/ukpga/2016/10/section/1/9) in force at 17.6.2021 for specified purposes by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/a)
+[^c-464116f19d10658d5d1aa9473b230570]: Commencement: [S. 1(9)](https://www.legislation.gov.uk/ukpga/2016/10/section/1/9) in force at 17.6.2021 for specified purposes by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/a)
 
-[^key-b0c5be65e5c1898e95fbef460fe6f67a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/10/section/2) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/b)
+[^c-b0c5be65e5c1898e95fbef460fe6f67a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/10/section/2) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/b)
 
-[^key-f8fb3c0f2843a911b059ee275dadbebc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/1) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-f8fb3c0f2843a911b059ee275dadbebc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/1) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-22d32534c600d974f7e07c15bcdd35a8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/2) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-22d32534c600d974f7e07c15bcdd35a8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/2) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-ac15f7ecb47f98ecd75a6bac9d7d0836]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/3) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-ac15f7ecb47f98ecd75a6bac9d7d0836]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/3) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-493588ff2c9b9f6eb948490f43945a11]: Commencement: Sch. 1 para. 4(a)(b)(i)(c) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-493588ff2c9b9f6eb948490f43945a11]: Commencement: Sch. 1 para. 4(a)(b)(i)(c) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-54ef34f4e4980b27226e043e845c118a]: Textual amendment: [Sch. 1 para. 4(b)(ii)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/4/b/ii) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-54ef34f4e4980b27226e043e845c118a]: Textual amendment: [Sch. 1 para. 4(b)(ii)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/4/b/ii) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-143fabc586c415ba6c6b1224f514b3f4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/5) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-143fabc586c415ba6c6b1224f514b3f4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/5) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-52c1b47889c5945771bb0ad97eb13a2e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/6) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-52c1b47889c5945771bb0ad97eb13a2e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/6) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-ed09bc7e1da7a2591c86a3ffbe9db264]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/7) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-ed09bc7e1da7a2591c86a3ffbe9db264]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/7) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-9c503340577cdb25bc4cfb47cc297dac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/8) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-9c503340577cdb25bc4cfb47cc297dac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/8) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-d16a3357f1666bc0f249af3a7d5f6986]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/9) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-d16a3357f1666bc0f249af3a7d5f6986]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/9) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-29f482dbfcfdc181f7425272f76ad5f9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/10) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-29f482dbfcfdc181f7425272f76ad5f9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/10) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-7364cfc2f4f52a57263cae16e12cf97e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/11) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-7364cfc2f4f52a57263cae16e12cf97e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/11) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-f2856e1c99aee11021087697ae9829fc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/12) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-f2856e1c99aee11021087697ae9829fc]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/12) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-b7cce28f6a83a4b9621b8867b7a03bff]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/13) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-b7cce28f6a83a4b9621b8867b7a03bff]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/13) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-eccebc02ed8b61a7eae37b073c5214f8]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/14) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-eccebc02ed8b61a7eae37b073c5214f8]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/14) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-f3cccb250bc1686088df07fee11e9010]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/15) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-f3cccb250bc1686088df07fee11e9010]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/15) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-b00c54be12996dac38fdc260fe3fb92b]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/16) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-b00c54be12996dac38fdc260fe3fb92b]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/16) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-18b91307c8918a4bd708beda1acc262a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/17) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-18b91307c8918a4bd708beda1acc262a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/17) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-1ed19f20b1429a1eff421451c95a164f]: Commencement: Sch. 1 paras. 18(a)-(e)(g)(i)(j) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-1ed19f20b1429a1eff421451c95a164f]: Commencement: Sch. 1 paras. 18(a)-(e)(g)(i)(j) in force at 17.6.2021 by [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-601439da231f101efd0cae81ccc9542e]: Textual amendment: [Sch. 1 para. 18(f)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/18/f) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-601439da231f101efd0cae81ccc9542e]: Textual amendment: [Sch. 1 para. 18(f)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/18/f) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-c40c98fbdbafbbd8e70e5417eb35d91d]: Textual amendment: [Sch. 1 para. 18(h)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/18/h) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c40c98fbdbafbbd8e70e5417eb35d91d]: Textual amendment: [Sch. 1 para. 18(h)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/18/h) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-4663ef2060a7f01f7f849c74ee2f783d]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/19) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(5)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-4663ef2060a7f01f7f849c74ee2f783d]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/19) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 31(5)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/31/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

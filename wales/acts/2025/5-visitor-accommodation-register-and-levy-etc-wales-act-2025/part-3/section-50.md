@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Interpretation of Chapter[^key-8c91148cdd75770f1f03f3a6ad0986a9]
+## 50. Interpretation of Chapter[^c-8c91148cdd75770f1f03f3a6ad0986a9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-8c91148cdd75770f1f03f3a6ad0986a9]: Commencement: S. 50 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-8c91148cdd75770f1f03f3a6ad0986a9]: Commencement: S. 50 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

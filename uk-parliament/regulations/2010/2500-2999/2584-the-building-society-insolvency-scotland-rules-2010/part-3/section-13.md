@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Caution[^key-35122e4a217b6728438cd6a99ccc9457]
+## 13. Caution[^c-35122e4a217b6728438cd6a99ccc9457]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.3 of the 1986 Rules.
 
 ## Annotations
 
-[^key-35122e4a217b6728438cd6a99ccc9457]: Commencement: Rule 13 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-35122e4a217b6728438cd6a99ccc9457]: Commencement: Rule 13 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

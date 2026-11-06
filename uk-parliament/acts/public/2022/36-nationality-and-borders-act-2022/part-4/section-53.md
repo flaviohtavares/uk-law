@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Regulations about age assessments[^key-b139f26c910ad69c0e52a8ce7b83319f]
+## 53. Regulations about age assessments[^c-b139f26c910ad69c0e52a8ce7b83319f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b139f26c910ad69c0e52a8ce7b83319f]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 87(4)(g)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/g)
+[^c-b139f26c910ad69c0e52a8ce7b83319f]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 87(4)(g)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/g)

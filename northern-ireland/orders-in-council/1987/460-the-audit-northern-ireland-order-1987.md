@@ -291,7 +291,7 @@ Article 5(2).
 **2.** (1)[^c16980961] The Comptroller and Auditor General shall appoint such staff for the Northern Ireland Audit Office as he considers necessary—
 
 - (a) for assisting him in the discharge of his functions; and
-- (b) for the purposes of the discharge of the functions of the local government auditor.[^key-3125ffdd3065b73d2133ed633cbc3fa9]
+- (b) for the purposes of the discharge of the functions of the local government auditor.[^c-3125ffdd3065b73d2133ed633cbc3fa9]
 
 (2) The Comptroller and Auditor General and a Northern Ireland department may make arrangements—
 
@@ -438,7 +438,7 @@ Article 6(4).
 
 [^c16980961]: Textual amendment: [2003 NI 5](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-3125ffdd3065b73d2133ed633cbc3fa9]: Textual amendment: Words in Sch. 1 para. 2(1)(b) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8) , [ss. 108(2)](https://www.legislation.gov.uk/nia/2014/8/section/108/2) , [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4) ); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153) , [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2) , [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-3125ffdd3065b73d2133ed633cbc3fa9]: Textual amendment: Words in Sch. 1 para. 2(1)(b) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8) , [ss. 108(2)](https://www.legislation.gov.uk/nia/2014/8/section/108/2) , [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4) ); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153) , [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2) , [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
 [^m00003]: Marginal citation: 1983 c. 44
 

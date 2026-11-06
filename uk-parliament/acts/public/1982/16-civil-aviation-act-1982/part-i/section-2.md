@@ -22,7 +22,7 @@ summary: ''
 
 (1) There shall continue to be a body corporate called the Civil Aviation Authority (in this Act referred to as “**the CAA**”), which shall be constituted in accordance with the following provisions of this section.
 
-(2)[^key-b1e2077f661f13ea02de0a76e41f06b7] The CAA is to consist of at least seven but not more than sixteen members.
+(2)[^c-b1e2077f661f13ea02de0a76e41f06b7] The CAA is to consist of at least seven but not more than sixteen members.
 
 (2A) It is to consist of—
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e2077f661f13ea02de0a76e41f06b7]: Textual amendment: S. 2(2)-(2F) substituted for s. 2(2) (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/95/1), [110(3)(c)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/c) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-b1e2077f661f13ea02de0a76e41f06b7]: Textual amendment: S. 2(2)-(2F) substituted for s. 2(2) (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/95/1), [110(3)(c)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/c) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))

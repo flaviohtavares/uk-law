@@ -43,15 +43,15 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred by Articles 14, 22 and 27 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00001], and now vested in him[^f00002], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-481d60511ce2469969c7c3188066e0f1]
+## 1. Citation and commencement[^c-481d60511ce2469969c7c3188066e0f1]
 
 These Regulations may be cited as the Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 2004 and shall come into operation on 17th May 2004.
 
-## 2. Interpretation[^key-a178aeb05ac18ce9e6d8ff73628110d5]
+## 2. Interpretation[^c-a178aeb05ac18ce9e6d8ff73628110d5]
 
 In these Regulations “the principal regulations” means the Legal Advice and Assistance Regulations (Northern Ireland) 1981[^f00003].
 
-## 3. Amendment to the principal regulations[^key-59b7b6df725b24cdc9c847c26f7420d9]
+## 3. Amendment to the principal regulations[^c-59b7b6df725b24cdc9c847c26f7420d9]
 
 In paragraph 1A of Schedule 1 to the principal regulations for the words “a man and a woman who are living with each other in the same household as husband and wife” there shall be substituted “a client and anyone with whom the client normally resides as a couple, including a person of the same sex,”.
 
@@ -85,10 +85,10 @@ These Regulations amend paragraph 1A of Schedule 1 to the Legal Advice and Assis
 
 [^f00002]: Footnote: S.I. [1982/159](https://www.legislation.gov.uk/uksi/1982/159)
 
-[^key-481d60511ce2469969c7c3188066e0f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1) in operation at 17.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1)
+[^c-481d60511ce2469969c7c3188066e0f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1) in operation at 17.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1)
 
-[^key-a178aeb05ac18ce9e6d8ff73628110d5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/168/regulation/2) in operation at 17.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1)
+[^c-a178aeb05ac18ce9e6d8ff73628110d5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/168/regulation/2) in operation at 17.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1981/366](https://www.legislation.gov.uk/nisr/1981/366); to which the most recent relevant amendment was made by [S.R. 1990 No. 104](https://www.legislation.gov.uk/nisr/1990/104)
 
-[^key-59b7b6df725b24cdc9c847c26f7420d9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/168/regulation/3) in operation at 17.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1)
+[^c-59b7b6df725b24cdc9c847c26f7420d9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/168/regulation/3) in operation at 17.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/168/regulation/1)

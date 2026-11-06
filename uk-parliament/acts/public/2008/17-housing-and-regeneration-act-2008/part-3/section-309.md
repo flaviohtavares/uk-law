@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Former right to buy and other flats: equity share purchases[^key-1b3edf45218e713fb20876d0d367d2ae][^key-dea4bb7929d9109925257b4b30d1d3d9][^key-b41cf790fd93435b8b747cb96ccdae82][^key-ffc08f9c8e8c566f5bcb1e5ca0aae4f0]
+## 309. Former right to buy and other flats: equity share purchases[^c-1b3edf45218e713fb20876d0d367d2ae][^c-dea4bb7929d9109925257b4b30d1d3d9][^c-b41cf790fd93435b8b747cb96ccdae82][^c-ffc08f9c8e8c566f5bcb1e5ca0aae4f0]
 
 *Extent: E+W*
 
@@ -88,10 +88,10 @@ After section 450C of the Housing Act 1985 (c. 68) (loans in respect of service 
 
 ## Annotations
 
-[^key-1b3edf45218e713fb20876d0d367d2ae]: Commencement: S. 309 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(9)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/9) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-1b3edf45218e713fb20876d0d367d2ae]: Commencement: S. 309 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(9)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/9) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-dea4bb7929d9109925257b4b30d1d3d9]: Commencement: S. 309 in force at 6.4.2009 for further purposes by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 9](https://www.legislation.gov.uk/uksi/2009/803/article/9)
+[^c-dea4bb7929d9109925257b4b30d1d3d9]: Commencement: S. 309 in force at 6.4.2009 for further purposes by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 9](https://www.legislation.gov.uk/uksi/2009/803/article/9)
 
-[^key-b41cf790fd93435b8b747cb96ccdae82]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2008/17/section/309) in force at 26.7.2011 for specified purposes for W. by [S.I. 2011/1863](https://www.legislation.gov.uk/wsi/2011/1863), [art. 2](https://www.legislation.gov.uk/wsi/2011/1863/article/2)
+[^c-b41cf790fd93435b8b747cb96ccdae82]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2008/17/section/309) in force at 26.7.2011 for specified purposes for W. by [S.I. 2011/1863](https://www.legislation.gov.uk/wsi/2011/1863), [art. 2](https://www.legislation.gov.uk/wsi/2011/1863/article/2)
 
-[^key-ffc08f9c8e8c566f5bcb1e5ca0aae4f0]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2008/17/section/309) in force at 19.8.2011 for W. so far as not already in force by [S.I. 2011/1863](https://www.legislation.gov.uk/wsi/2011/1863), [art. 3(2)](https://www.legislation.gov.uk/wsi/2011/1863/article/3/2)
+[^c-ffc08f9c8e8c566f5bcb1e5ca0aae4f0]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2008/17/section/309) in force at 19.8.2011 for W. so far as not already in force by [S.I. 2011/1863](https://www.legislation.gov.uk/wsi/2011/1863), [art. 3(2)](https://www.legislation.gov.uk/wsi/2011/1863/article/3/2)

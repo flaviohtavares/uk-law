@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Asylum Support (Amendment) Regulations 2015 (revoked)[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]
+The Asylum Support (Amendment) Regulations 2015 (revoked)[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th April 2015
 
-[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]
+## 1. Citation and commencement[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Kind and levels of support for essential living needs[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]
+## 2. Kind and levels of support for essential living needs[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Asylum Support (Amendment) Regulations 2011[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]
+## 3. Revocation of the Asylum Support (Amendment) Regulations 2011[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00ddb40d8ec7ad94f9fb72c5fd29278b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/645) revoked (6.4.2015) by [The Asylum Support (Amendment No.2) Regulations 2015 (S.I. 2015/944)](https://www.legislation.gov.uk/uksi/2015/944), [regs. 1](https://www.legislation.gov.uk/uksi/2015/944/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/944/regulation/2)
+[^c-00ddb40d8ec7ad94f9fb72c5fd29278b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/645) revoked (6.4.2015) by [The Asylum Support (Amendment No.2) Regulations 2015 (S.I. 2015/944)](https://www.legislation.gov.uk/uksi/2015/944), [regs. 1](https://www.legislation.gov.uk/uksi/2015/944/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/944/regulation/2)

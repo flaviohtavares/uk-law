@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Approvals of premises other than ambient stores, rewrapping centres and cold stores[^key-3c32f5efaebef24c3a9b2a753a3f1657]
+## 4. Approvals of premises other than ambient stores, rewrapping centres and cold stores[^c-3c32f5efaebef24c3a9b2a753a3f1657]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ otherwise shall refuse to approve those premises for any of those purposes.
 
 ## Annotations
 
-[^key-3c32f5efaebef24c3a9b2a753a3f1657]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-3c32f5efaebef24c3a9b2a753a3f1657]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Witness statements: use during trial[^key-4e9c8dd99599f947237fc1a9d09fc294]
+## 85. Witness statements: use during trial[^c-4e9c8dd99599f947237fc1a9d09fc294]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e9c8dd99599f947237fc1a9d09fc294]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2010/13/section/85) in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-4e9c8dd99599f947237fc1a9d09fc294]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2010/13/section/85) in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Other pension accounts[^key-dfb0a8b24b4d0a920c56aee6884434b9]
+## 53. Other pension accounts[^c-dfb0a8b24b4d0a920c56aee6884434b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a pension credit member of this scheme is also an active member, deferred mem
 
 ## Annotations
 
-[^key-dfb0a8b24b4d0a920c56aee6884434b9]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2015/182/regulation/53) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-dfb0a8b24b4d0a920c56aee6884434b9]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2015/182/regulation/53) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

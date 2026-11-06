@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Employer additional contribution: ill-health award[^key-287cd0315d044f255e45fd0b19a2e9dc]
+## 118. Employer additional contribution: ill-health award[^c-287cd0315d044f255e45fd0b19a2e9dc]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-287cd0315d044f255e45fd0b19a2e9dc]: Commencement: [Reg. 118](https://www.legislation.gov.uk/ssi/2015/19/regulation/118) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-287cd0315d044f255e45fd0b19a2e9dc]: Commencement: [Reg. 118](https://www.legislation.gov.uk/ssi/2015/19/regulation/118) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

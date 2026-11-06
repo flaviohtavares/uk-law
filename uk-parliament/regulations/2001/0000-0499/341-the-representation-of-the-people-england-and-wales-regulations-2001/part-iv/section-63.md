@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Certificate of employment at a parliamentary election[^key-8ef6f9317b5e944ea6eb8b4e5035e569]
+## 63. Certificate of employment at a parliamentary election[^c-8ef6f9317b5e944ea6eb8b4e5035e569]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef6f9317b5e944ea6eb8b4e5035e569]: Commencement: Reg. 63 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-8ef6f9317b5e944ea6eb8b4e5035e569]: Commencement: Reg. 63 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

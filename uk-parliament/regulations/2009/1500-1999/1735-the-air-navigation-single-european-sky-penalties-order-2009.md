@@ -60,12 +60,12 @@ This Order may be cited as the Air Navigation (Single European Sky) (Penalties) 
 
 (1) In this Order—
 
-- “air traffic flow management regulation” means Commission Regulation ([^key-65d76df4e54ea1f3e7933c9335ecb776]EU) No 255/2010 laying down common rules on air traffic flow management;
+- “air traffic flow management regulation” means Commission Regulation ([^c-65d76df4e54ea1f3e7933c9335ecb776]EU) No 255/2010 laying down common rules on air traffic flow management;
 - “**authorised person**” means the CAA, any constable and any person authorised by the CAA (whether by name or by class or description) either generally or in relation to a particular case or class of cases;
-- [^key-0043e0392c0645ead9ccbbc17b9f4ed8]...
-- “**the common requirements regulation**” means Commission Implementing Regulation ([^key-da742fad35024a199d6fd2635e9d96df]EU) No 1035/2011 laying down common requirements for the provision of air navigation services and amending Regulations [(EC) No 482/2008](https://www.legislation.gov.uk/eur/2008/0482) and (EU) No 691/2010;
+- [^c-0043e0392c0645ead9ccbbc17b9f4ed8]...
+- “**the common requirements regulation**” means Commission Implementing Regulation ([^c-da742fad35024a199d6fd2635e9d96df]EU) No 1035/2011 laying down common requirements for the provision of air navigation services and amending Regulations [(EC) No 482/2008](https://www.legislation.gov.uk/eur/2008/0482) and (EU) No 691/2010;
 - “**the interoperability regulation**” means Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552) of the European Parliament and of the Council on the interoperability of the European Air Traffic Management network [^c19769441];
-- “**notified**” has the same meaning as in paragraph 1 of Schedule 1 to the Air Navigation Order 2016[^key-6b99343481fac7e2b20b05973504ef82];
+- “**notified**” has the same meaning as in paragraph 1 of Schedule 1 to the Air Navigation Order 2016[^c-6b99343481fac7e2b20b05973504ef82];
 - “**the service provision regulation**” means Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550) of the European Parliament and of the Council on the provision of air navigation services in the single European sky [^c19769461].
 
 (2) Expressions used in this Order that are defined in article 2 of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549) of the European Parliament and of the Council laying down the framework for the creation of the single European sky [^c19769471] have the same meaning in this Order as in that Regulation.
@@ -89,11 +89,11 @@ A person must not provide any meteorological services in airspace for which a pr
 
 ## 6. Relations between service providers
 
-Air navigation service providers must not avail themselves of the services of other air navigation service providers that have not been certified [^key-25fe0aff246ce082635391f375947280]... under article 7.1 of the service provision regulation.
+Air navigation service providers must not avail themselves of the services of other air navigation service providers that have not been certified [^c-25fe0aff246ce082635391f375947280]... under article 7.1 of the service provision regulation.
 
-## 7. Safeguards relating to the use of the United Kingdom air traffic management system[^key-2a68c7cbc88002f4e802fe06668364a1]
+## 7. Safeguards relating to the use of the United Kingdom air traffic management system[^c-2a68c7cbc88002f4e802fe06668364a1]
 
-A person must not make use of any system or constituent of the United Kingdom air traffic management system[^key-471073a049222267ec746e7e67641492] contrary to—
+A person must not make use of any system or constituent of the United Kingdom air traffic management system[^c-471073a049222267ec746e7e67641492] contrary to—
 
 - (a) a prohibition on its use, or
 - (b) a restriction on the area of its application,
@@ -102,17 +102,17 @@ established by the CAA under article 7.1 of the interoperability regulation and 
 
 ## 8. Compliance monitoring
 
-(1)[^key-7d9ba150341090b2221a3f1c9a0a0f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7d9ba150341090b2221a3f1c9a0a0f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purpose of monitoring compliance with the requirements laid down for the provision of air navigation services in the common requirements regulation, authorised persons have the right to undertake inspections and surveys using any of the powers described in article 7[^key-35cca85328e9543266bae0df83a35dd3] of that regulation.
+(2) For the purpose of monitoring compliance with the requirements laid down for the provision of air navigation services in the common requirements regulation, authorised persons have the right to undertake inspections and surveys using any of the powers described in article 7[^c-35cca85328e9543266bae0df83a35dd3] of that regulation.
 
-(3) In order to facilitate inspections and surveys under paragraph[^key-f070d7b93fe8c7b5272de136a79780cd] (2) by an authorised person, an air navigation service provider must within a reasonable time after being requested to do so by an authorised person—
+(3) In order to facilitate inspections and surveys under paragraph[^c-f070d7b93fe8c7b5272de136a79780cd] (2) by an authorised person, an air navigation service provider must within a reasonable time after being requested to do so by an authorised person—
 
-- (a) cause to be produced to that person documents, records, data or other material relevant to the provision of air navigation services [^key-e70f584dca1c7c2dcb1afcd7f9fbfc77]...;
-- (b) make available such facilities and equipment that he possesses that may reasonably be required by that authorised person for the purpose of examining or taking copies of or extracts from documents, records, data or other material relevant to the provision of air navigation services [^key-b023816ab1f50e58206997bd193339f8]...; and
+- (a) cause to be produced to that person documents, records, data or other material relevant to the provision of air navigation services [^c-e70f584dca1c7c2dcb1afcd7f9fbfc77]...;
+- (b) make available such facilities and equipment that he possesses that may reasonably be required by that authorised person for the purpose of examining or taking copies of or extracts from documents, records, data or other material relevant to the provision of air navigation services [^c-b023816ab1f50e58206997bd193339f8]...; and
 - (c) provide such oral explanations as may be requested on site by that authorised person.
 
-(4)[^key-985fb2cb143e031ebc392a84bef86659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-985fb2cb143e031ebc392a84bef86659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9. Offences in relation to documents, records and explanations etc.
 
@@ -122,13 +122,13 @@ established by the CAA under article 7.1 of the interoperability regulation and 
 - (b) lend any certificate or any designation issued, having effect or required by or under article 7, 8 or 9 of the service provision regulation to, or allow it to be used by, any other person;
 - (c) make any false representation for the purpose of procuring for himself or any other person the issue of any such certificate or designation;
 - (d) make a declaration for the purpose of article 5.2 or 6.2 of the interoperability regulation that is false in any material particular; or
-- (e) on the occasion of an inspection or survey under article 7[^key-b586babebf6fd04b8b488db61fd550d8] of the common requirements regulation [^key-e147a5ddc185f57786530db351984146]..., provide false documents, records, data or other material or false oral explanations.
+- (e) on the occasion of an inspection or survey under article 7[^c-b586babebf6fd04b8b488db61fd550d8] of the common requirements regulation [^c-e147a5ddc185f57786530db351984146]..., provide false documents, records, data or other material or false oral explanations.
 
 (2) In paragraph (1) a reference to a certificate or designation includes a copy or purported copy.
 
 ## 10. Obstruction of persons
 
-A person must not intentionally obstruct or impede an authorised person using any of the powers referred to in article 8(2)[^key-b17df424d0ec88da2b09ffa89744dfcf] when undertaking an inspection or survey under that article.
+A person must not intentionally obstruct or impede an authorised person using any of the powers referred to in article 8(2)[^c-b17df424d0ec88da2b09ffa89744dfcf] when undertaking an inspection or survey under that article.
 
 ## 11. Penalties
 
@@ -136,15 +136,15 @@ A person must not intentionally obstruct or impede an authorised person using an
 
 - (a) fails to comply with any obligation imposed upon him under a designation made under article 8 of the service provision regulation;
 - (b) fails to formalise, notify or secure the required approval of any working relationship under article 10 of the service provision regulation;
-- (c) contravenes article 6.1 or 6.2[^key-79bceeb22b2db3aa418c4b6d9f2b4acf] of the common requirements regulation;
-- (d) fails to take the corrective action imposed upon him by the CAA under article 6.3[^key-01dfabed97f6154102b074c718270800] of the common requirements regulation
+- (c) contravenes article 6.1 or 6.2[^c-79bceeb22b2db3aa418c4b6d9f2b4acf] of the common requirements regulation;
+- (d) fails to take the corrective action imposed upon him by the CAA under article 6.3[^c-01dfabed97f6154102b074c718270800] of the common requirements regulation
 
 is guilty of an offence and is liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine or imprisonment for a term not exceeding two years or both.
 
 (2) Any person who fails to comply with any obligation imposed upon him by—
 
 - (a) articles 3, 4(b), 6 or 9, or
-- (b) article 8(3) [^key-1fd70d2b82fa7647547e043318978bde]...,
+- (b) article 8(3) [^c-1fd70d2b82fa7647547e043318978bde]...,
 
 is guilty of an offence and is liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine or imprisonment for a term not exceeding two years or both.
 
@@ -157,23 +157,23 @@ is guilty of an offence and is liable on summary conviction to a fine not exceed
 
 (4) Any person who fails to comply with any obligation imposed upon him—
 
-- (a) by articles 7 [^key-75a21d2642f7e95e1bc434b3b05d9245]... or 10,
-- (aa)[^key-0fd726e9580117d5dd4d205bd48d2f04] by articles 6, 7, 8, 9.2, 10.2, 11.2 or 11.5 of the air traffic flow management regulation,
-- (b) to provide a[^key-9bf64aa37e951c316cc38a3f8e36e2f8] declaration of conformity or suitability for use as required by article 5.2 of the interoperability regulation,
-- (c) to provide a[^key-ef88c95b3130e2051db2273ebe5345fb] declaration of verification as required by article 6.2 of the interoperability regulation,
-- (d) to submit to the CAA the declaration referred to in sub-paragraph (c) together with the technical file as required by the said article 6.2, [^key-8e2ab4303c04012599e309bead03ed44]...
-- (e) to provide the CAA, within a reasonable time after being requested so to do, with such additional information as the CAA may require under the said article 6.2, or[^key-29b3e40a607be4144c7088a0b76a62f9]
-- (f)[^key-33b173f958840574eeb1f4b770327b40] by an implementing rule listed in the Schedule to this Order,
+- (a) by articles 7 [^c-75a21d2642f7e95e1bc434b3b05d9245]... or 10,
+- (aa)[^c-0fd726e9580117d5dd4d205bd48d2f04] by articles 6, 7, 8, 9.2, 10.2, 11.2 or 11.5 of the air traffic flow management regulation,
+- (b) to provide a[^c-9bf64aa37e951c316cc38a3f8e36e2f8] declaration of conformity or suitability for use as required by article 5.2 of the interoperability regulation,
+- (c) to provide a[^c-ef88c95b3130e2051db2273ebe5345fb] declaration of verification as required by article 6.2 of the interoperability regulation,
+- (d) to submit to the CAA the declaration referred to in sub-paragraph (c) together with the technical file as required by the said article 6.2, [^c-8e2ab4303c04012599e309bead03ed44]...
+- (e) to provide the CAA, within a reasonable time after being requested so to do, with such additional information as the CAA may require under the said article 6.2, or[^c-29b3e40a607be4144c7088a0b76a62f9]
+- (f)[^c-33b173f958840574eeb1f4b770327b40] by an implementing rule listed in the Schedule to this Order,
 
 is guilty of an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(4A)[^key-361d3b262ca31548c938fae2bb9d8556] Any local air traffic flow management unit who, when requested by an airport slot coordinator or a managing body of a coordinated airport, fails to provide to the person making the request the accepted fight plan of a flight operating at that airport, before that flight takes place, is guilty of an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+(4A)[^c-361d3b262ca31548c938fae2bb9d8556] Any local air traffic flow management unit who, when requested by an airport slot coordinator or a managing body of a coordinated airport, fails to provide to the person making the request the accepted fight plan of a flight operating at that airport, before that flight takes place, is guilty of an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(5)[^key-b818ad47bc94f7abe3c7e0f4a27d2fb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b818ad47bc94f7abe3c7e0f4a27d2fb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 12. Defence
 
-In any proceedings for an offence under article 11(1), (2), (3)(a), (4)(a), (aa), (b), or (f), or (4A)[^key-5d64398faa4cbb4f5974adf7bddfd41d] of this Order, it is a defence for the person charged to prove that person took all reasonable steps and exercised all due diligence to ensure that the article in question was complied with.
+In any proceedings for an offence under article 11(1), (2), (3)(a), (4)(a), (aa), (b), or (f), or (4A)[^c-5d64398faa4cbb4f5974adf7bddfd41d] of this Order, it is a defence for the person charged to prove that person took all reasonable steps and exercised all due diligence to ensure that the article in question was complied with.
 
 ## 13. Offences by body corporate
 
@@ -183,7 +183,7 @@ In any proceedings for an offence under article 11(1), (2), (3)(a), (4)(a), (aa)
 
 (3) Where an offence under this Order is committed in Scotland by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and is liable to be proceeded against and punished accordingly.
 
-## 14. Review[^key-4c9d2ecf47d9c1366d8b9c7726bd01a0]
+## 14. Review[^c-4c9d2ecf47d9c1366d8b9c7726bd01a0]
 
 (1) The Secretary of State must from time to time—
 
@@ -191,15 +191,15 @@ In any proceedings for an offence under article 11(1), (2), (3)(a), (4)(a), (aa)
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-8195372aabd463da09abf988ee763c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8195372aabd463da09abf988ee763c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
-- (a) set out the objectives intended to be achieved by the regulatory system established by this Order[^key-5a471bc0d5b447cfad0b12ef44003f14],
+- (a) set out the objectives intended to be achieved by the regulatory system established by this Order[^c-5a471bc0d5b447cfad0b12ef44003f14],
 - (b) assess the extent to which those objectives are achieved, and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(4) The first report under this Order[^key-9457841f77604cd44ef8857bef4d1310] must be published before 11th December 2018.
+(4) The first report under this Order[^c-9457841f77604cd44ef8857bef4d1310] must be published before 11th December 2018.
 
 (5) Reports under this Order are afterwards to be published at intervals not exceeding five years.
 
@@ -207,7 +207,7 @@ Judith Simpson
 
 Clerk of the Privy Council
 
-## SCHEDULE — List of implementing rules[^key-746a7e892958d03b9a78356817807817]
+## SCHEDULE — List of implementing rules[^c-746a7e892958d03b9a78356817807817]
 
 Regulation 11(4)(f)
 
@@ -264,76 +264,76 @@ The Explanatory Memorandum relating to this instrument is available, alongside t
 
 [^c19769411]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Sections 60 and 61 were amended by the [Airports Act 1986 (c. 31)](https://www.legislation.gov.uk/ukpga/1986/31), [Schedule 6 Part 11](https://www.legislation.gov.uk/ukpga/1986/31/schedule/6/part/11), and section 60 was further amended by the [Aviation and Maritime Security Act 1990 (c.31)](https://www.legislation.gov.uk/ukpga/1990/31) section 47 and Schedule 4.
 
-[^key-65d76df4e54ea1f3e7933c9335ecb776]: Textual amendment: Words in art. 2(1) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2874/article/3/a)
+[^c-65d76df4e54ea1f3e7933c9335ecb776]: Textual amendment: Words in art. 2(1) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2874/article/3/a)
 
-[^key-0043e0392c0645ead9ccbbc17b9f4ed8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1735/article/2/1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0043e0392c0645ead9ccbbc17b9f4ed8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1735/article/2/1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da742fad35024a199d6fd2635e9d96df]: Textual amendment: Words in art. 2(1) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2874/article/3/b)
+[^c-da742fad35024a199d6fd2635e9d96df]: Textual amendment: Words in art. 2(1) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2874/article/3/b)
 
 [^c19769441]: Marginal citation: O.J. No. L 96, 31.3.2004, p.26.
 
-[^key-6b99343481fac7e2b20b05973504ef82]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1735/article/2/1) substituted (10.1.2019) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2018 (S.I. 2018/1354)](https://www.legislation.gov.uk/uksi/2018/1354), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1354/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1354/article/3/b)
+[^c-6b99343481fac7e2b20b05973504ef82]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1735/article/2/1) substituted (10.1.2019) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2018 (S.I. 2018/1354)](https://www.legislation.gov.uk/uksi/2018/1354), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1354/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1354/article/3/b)
 
 [^c19769461]: Marginal citation: O.J. No. L 96, 31.3.2004, p.10.
 
 [^c19769471]: Marginal citation: O.J. No. L 96, 31.3.2004, p.1.
 
-[^key-25fe0aff246ce082635391f375947280]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2009/1735/article/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25fe0aff246ce082635391f375947280]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2009/1735/article/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a68c7cbc88002f4e802fe06668364a1]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2009/1735/article/7) heading substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a68c7cbc88002f4e802fe06668364a1]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2009/1735/article/7) heading substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-471073a049222267ec746e7e67641492]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2009/1735/article/7) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-471073a049222267ec746e7e67641492]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2009/1735/article/7) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d9ba150341090b2221a3f1c9a0a0f40]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d9ba150341090b2221a3f1c9a0a0f40]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35cca85328e9543266bae0df83a35dd3]: Textual amendment: Word in art. 8(2) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2874/article/4)
+[^c-35cca85328e9543266bae0df83a35dd3]: Textual amendment: Word in art. 8(2) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2874/article/4)
 
-[^key-f070d7b93fe8c7b5272de136a79780cd]: Textual amendment: Word in [art. 8(3)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f070d7b93fe8c7b5272de136a79780cd]: Textual amendment: Word in [art. 8(3)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e70f584dca1c7c2dcb1afcd7f9fbfc77]: Textual amendment: Words in [art. 8(3)(a)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/3/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e70f584dca1c7c2dcb1afcd7f9fbfc77]: Textual amendment: Words in [art. 8(3)(a)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/3/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b023816ab1f50e58206997bd193339f8]: Textual amendment: Words in [art. 8(3)(b)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/3/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b023816ab1f50e58206997bd193339f8]: Textual amendment: Words in [art. 8(3)(b)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/3/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-985fb2cb143e031ebc392a84bef86659]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-985fb2cb143e031ebc392a84bef86659]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2009/1735/article/8/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(5)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b586babebf6fd04b8b488db61fd550d8]: Textual amendment: Word in art. 9(1)(e) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [5](https://www.legislation.gov.uk/uksi/2013/2874/article/5)
+[^c-b586babebf6fd04b8b488db61fd550d8]: Textual amendment: Word in art. 9(1)(e) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [5](https://www.legislation.gov.uk/uksi/2013/2874/article/5)
 
-[^key-e147a5ddc185f57786530db351984146]: Textual amendment: Words in [art. 9(1)(e)](https://www.legislation.gov.uk/uksi/2009/1735/article/9/1/e) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(6)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e147a5ddc185f57786530db351984146]: Textual amendment: Words in [art. 9(1)(e)](https://www.legislation.gov.uk/uksi/2009/1735/article/9/1/e) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(6)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b17df424d0ec88da2b09ffa89744dfcf]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2009/1735/article/10) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(7)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b17df424d0ec88da2b09ffa89744dfcf]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2009/1735/article/10) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(7)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79bceeb22b2db3aa418c4b6d9f2b4acf]: Textual amendment: Words in art. 11(1)(c) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/a)
+[^c-79bceeb22b2db3aa418c4b6d9f2b4acf]: Textual amendment: Words in art. 11(1)(c) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/a)
 
-[^key-01dfabed97f6154102b074c718270800]: Textual amendment: Word in art. 11(1)(d) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/b)
+[^c-01dfabed97f6154102b074c718270800]: Textual amendment: Word in art. 11(1)(d) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/b)
 
-[^key-1fd70d2b82fa7647547e043318978bde]: Textual amendment: Words in [art. 11(2)(b)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/2/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fd70d2b82fa7647547e043318978bde]: Textual amendment: Words in [art. 11(2)(b)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/2/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-75a21d2642f7e95e1bc434b3b05d9245]: Textual amendment: Words in [art. 11(4)(a)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75a21d2642f7e95e1bc434b3b05d9245]: Textual amendment: Words in [art. 11(4)(a)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fd726e9580117d5dd4d205bd48d2f04]: Textual amendment: Art. 11(4)(aa) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/c)
+[^c-0fd726e9580117d5dd4d205bd48d2f04]: Textual amendment: Art. 11(4)(aa) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/c)
 
-[^key-9bf64aa37e951c316cc38a3f8e36e2f8]: Textual amendment: Word in [art. 11(4)(b)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/b) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bf64aa37e951c316cc38a3f8e36e2f8]: Textual amendment: Word in [art. 11(4)(b)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/b) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef88c95b3130e2051db2273ebe5345fb]: Textual amendment: Word in [art. 11(4)(c)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/c) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef88c95b3130e2051db2273ebe5345fb]: Textual amendment: Word in [art. 11(4)(c)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/c) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e2ab4303c04012599e309bead03ed44]: Textual amendment: Word in art. 11(4)(d) omitted (12.12.2013) by virtue of [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(d)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/d)
+[^c-8e2ab4303c04012599e309bead03ed44]: Textual amendment: Word in art. 11(4)(d) omitted (12.12.2013) by virtue of [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(d)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/d)
 
-[^key-29b3e40a607be4144c7088a0b76a62f9]: Textual amendment: Word in art. 11(4)(e) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(e)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/e)
+[^c-29b3e40a607be4144c7088a0b76a62f9]: Textual amendment: Word in art. 11(4)(e) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(e)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/e)
 
-[^key-33b173f958840574eeb1f4b770327b40]: Textual amendment: [Art. 11(4)(f)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/f) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33b173f958840574eeb1f4b770327b40]: Textual amendment: [Art. 11(4)(f)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/4/f) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-361d3b262ca31548c938fae2bb9d8556]: Textual amendment: Art. 11(4A) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(g)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/g)
+[^c-361d3b262ca31548c938fae2bb9d8556]: Textual amendment: Art. 11(4A) inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [6(g)](https://www.legislation.gov.uk/uksi/2013/2874/article/6/g)
 
-[^key-b818ad47bc94f7abe3c7e0f4a27d2fb3]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b818ad47bc94f7abe3c7e0f4a27d2fb3]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2009/1735/article/11/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(8)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d64398faa4cbb4f5974adf7bddfd41d]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2009/1735/article/12) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [7](https://www.legislation.gov.uk/uksi/2013/2874/article/7)
+[^c-5d64398faa4cbb4f5974adf7bddfd41d]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2009/1735/article/12) substituted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [7](https://www.legislation.gov.uk/uksi/2013/2874/article/7)
 
-[^key-4c9d2ecf47d9c1366d8b9c7726bd01a0]: Textual amendment: Art. 14 inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [8](https://www.legislation.gov.uk/uksi/2013/2874/article/8)
+[^c-4c9d2ecf47d9c1366d8b9c7726bd01a0]: Textual amendment: Art. 14 inserted (12.12.2013) by [The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2013 (S.I. 2013/2874)](https://www.legislation.gov.uk/uksi/2013/2874), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2874/article/1), [8](https://www.legislation.gov.uk/uksi/2013/2874/article/8)
 
-[^key-8195372aabd463da09abf988ee763c0c]: Textual amendment: [Art. 14(2)](https://www.legislation.gov.uk/uksi/2009/1735/article/14/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(9)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8195372aabd463da09abf988ee763c0c]: Textual amendment: [Art. 14(2)](https://www.legislation.gov.uk/uksi/2009/1735/article/14/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(9)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a471bc0d5b447cfad0b12ef44003f14]: Textual amendment: Words in [art. 14(3)(a)](https://www.legislation.gov.uk/uksi/2009/1735/article/14/3/a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(9)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a471bc0d5b447cfad0b12ef44003f14]: Textual amendment: Words in [art. 14(3)(a)](https://www.legislation.gov.uk/uksi/2009/1735/article/14/3/a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(9)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9457841f77604cd44ef8857bef4d1310]: Textual amendment: Word in [art. 14(4)](https://www.legislation.gov.uk/uksi/2009/1735/article/14/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(9)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9457841f77604cd44ef8857bef4d1310]: Textual amendment: Word in [art. 14(4)](https://www.legislation.gov.uk/uksi/2009/1735/article/14/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(9)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-746a7e892958d03b9a78356817807817]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/1735/schedule) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(10)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-746a7e892958d03b9a78356817807817]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/1735/schedule) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [390(10)](https://www.legislation.gov.uk/uksi/2019/459/regulation/390/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

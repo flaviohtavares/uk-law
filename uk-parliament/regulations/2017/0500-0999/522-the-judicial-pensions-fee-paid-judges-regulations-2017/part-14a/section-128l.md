@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128L. Valuation of benefits[^key-73af1ad52439faa59a794455bec473bf]
+## 128L. Valuation of benefits[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,19 +27,19 @@ summary: ''
 
 (2) Any added unit of benefit that the member has purchased entitles them to—
 
-- (a) an additional pension benefit under the pre-1995 provisions of 1/40th of the value of WS[^key-a1fc996faf2fe2a9f097f99512f9a836]; and
-- (b) an additional lump sum of 2/40ths of the value of WS[^key-494b3a90c8b71146fabf3d851feb7f9b].
+- (a) an additional pension benefit under the pre-1995 provisions of 1/40th of the value of WS[^c-a1fc996faf2fe2a9f097f99512f9a836]; and
+- (b) an additional lump sum of 2/40ths of the value of WS[^c-494b3a90c8b71146fabf3d851feb7f9b].
 
-(3) A surviving adult in relation to an FPJABS member is, in respect of any added unit of benefit purchased by the member, entitled to an additional pension of 1/80th of the value of WS[^key-9242e517d2f9c6adf97b734a5ac6df98].
+(3) A surviving adult in relation to an FPJABS member is, in respect of any added unit of benefit purchased by the member, entitled to an additional pension of 1/80th of the value of WS[^c-9242e517d2f9c6adf97b734a5ac6df98].
 
 (4) A relevant person in relation to an FPJABS member is, in respect of any added unit of benefit purchased by the member, entitled to an additional children’s pension as follows—
 
 - (a) where there is no surviving adult in relation to the deceased FPJABS member, or where there is but the surviving adult subsequently dies—
-  - (i) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to two thirds of the rate of the member’s pension, the eligible child’s pension is increased by 1/60th of WS[^key-372c3c91e7185c44bcb8bff45259cb59],
-  - (ii) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to one third of the rate of the member’s pension, the eligible child’s pension is increased by 1/120th of WS[^key-dc9738596374558df3b609738140738a];
+  - (i) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to two thirds of the rate of the member’s pension, the eligible child’s pension is increased by 1/60th of WS[^c-372c3c91e7185c44bcb8bff45259cb59],
+  - (ii) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to one third of the rate of the member’s pension, the eligible child’s pension is increased by 1/120th of WS[^c-dc9738596374558df3b609738140738a];
 - (b) where there is a surviving adult in relation to the deceased FPJABS member—
-  - (i) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to one half of the annual rate of the member’s pension, the eligible child’s pension is increased by 1/80th of WS[^key-5f30c53834962869d3bffc12bfc14928],
-  - (ii) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to one quarter of the rate of the member’s pension, the eligible child’s pension is increased by 1/160th of WS[^key-7427f4bd90ceb21712b3ec6eede31191].
+  - (i) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to one half of the annual rate of the member’s pension, the eligible child’s pension is increased by 1/80th of WS[^c-5f30c53834962869d3bffc12bfc14928],
+  - (ii) where, and for so long as, an eligible child’s pension is payable under regulation 11V at an annual rate equal to one quarter of the rate of the member’s pension, the eligible child’s pension is increased by 1/160th of WS[^c-7427f4bd90ceb21712b3ec6eede31191].
 
 (5) The FPJABS member, surviving adult, or relevant person in respect of an eligible child are entitled to proportionate benefits for any part of an added unit of benefit that has been purchased.
 
@@ -54,18 +54,18 @@ summary: ''
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-a1fc996faf2fe2a9f097f99512f9a836]: Textual amendment: Word in [reg. 128L(2)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/2/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(f)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/f)
+[^c-a1fc996faf2fe2a9f097f99512f9a836]: Textual amendment: Word in [reg. 128L(2)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/2/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(f)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/f)
 
-[^key-494b3a90c8b71146fabf3d851feb7f9b]: Textual amendment: Word in [reg. 128L(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/2/b) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(g)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/g)
+[^c-494b3a90c8b71146fabf3d851feb7f9b]: Textual amendment: Word in [reg. 128L(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/2/b) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(g)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/g)
 
-[^key-9242e517d2f9c6adf97b734a5ac6df98]: Textual amendment: Word in [reg. 128L(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/3) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(h)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/h)
+[^c-9242e517d2f9c6adf97b734a5ac6df98]: Textual amendment: Word in [reg. 128L(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/3) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(h)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/h)
 
-[^key-372c3c91e7185c44bcb8bff45259cb59]: Textual amendment: Word in [reg. 128L(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/a/i) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(i)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/i)
+[^c-372c3c91e7185c44bcb8bff45259cb59]: Textual amendment: Word in [reg. 128L(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/a/i) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(i)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/i)
 
-[^key-dc9738596374558df3b609738140738a]: Textual amendment: Word in [reg. 128L(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/a/ii) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(j)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/j)
+[^c-dc9738596374558df3b609738140738a]: Textual amendment: Word in [reg. 128L(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/a/ii) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(j)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/j)
 
-[^key-5f30c53834962869d3bffc12bfc14928]: Textual amendment: Word in [reg. 128L(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/b/i) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(k)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/k)
+[^c-5f30c53834962869d3bffc12bfc14928]: Textual amendment: Word in [reg. 128L(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/b/i) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(k)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/k)
 
-[^key-7427f4bd90ceb21712b3ec6eede31191]: Textual amendment: Word in [reg. 128L(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/b/ii) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(l)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/l)
+[^c-7427f4bd90ceb21712b3ec6eede31191]: Textual amendment: Word in [reg. 128L(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128L/4/b/ii) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(l)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/l)

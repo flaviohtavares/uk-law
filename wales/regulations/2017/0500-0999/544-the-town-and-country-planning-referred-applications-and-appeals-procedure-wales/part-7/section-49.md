@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Notice of decision[^key-4c6190ffccc5680025d6bc0cb6bcebbc]
+## 49. Notice of decision[^c-4c6190ffccc5680025d6bc0cb6bcebbc]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6190ffccc5680025d6bc0cb6bcebbc]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2017/544/regulation/49) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-4c6190ffccc5680025d6bc0cb6bcebbc]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2017/544/regulation/49) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

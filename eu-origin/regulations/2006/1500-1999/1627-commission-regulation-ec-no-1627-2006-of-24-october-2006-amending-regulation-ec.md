@@ -33,18 +33,18 @@ of 24 October 2006
 
 amending Regulation (EC) No 794/2004 as regards the standard forms for notification of aid (revoked)
 
-[^key-5d0593fdd5ab0433ca400f712a9a8b03]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d0593fdd5ab0433ca400f712a9a8b03]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5d0593fdd5ab0433ca400f712a9a8b03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5d0593fdd5ab0433ca400f712a9a8b03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5d0593fdd5ab0433ca400f712a9a8b03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5d0593fdd5ab0433ca400f712a9a8b03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d0593fdd5ab0433ca400f712a9a8b03]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d0593fdd5ab0433ca400f712a9a8b03]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-5d0593fdd5ab0433ca400f712a9a8b03]
+## ANNEX[^c-5d0593fdd5ab0433ca400f712a9a8b03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d0593fdd5ab0433ca400f712a9a8b03]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-5d0593fdd5ab0433ca400f712a9a8b03]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

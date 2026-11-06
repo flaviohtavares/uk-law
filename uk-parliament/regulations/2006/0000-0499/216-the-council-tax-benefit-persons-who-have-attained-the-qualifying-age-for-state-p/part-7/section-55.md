@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 55. Date of claim where claim sent or delivered to an office of a designated authority[^key-c40b0f5cb51fb73474f9e28ae78d3dfd]
+## 55. Date of claim where claim sent or delivered to an office of a designated authority[^c-c40b0f5cb51fb73474f9e28ae78d3dfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c40b0f5cb51fb73474f9e28ae78d3dfd]: Textual amendment: Reg. 55 omitted (1.10.2008) by virtue of [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/5/6)
+[^c-c40b0f5cb51fb73474f9e28ae78d3dfd]: Textual amendment: Reg. 55 omitted (1.10.2008) by virtue of [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/5/6)

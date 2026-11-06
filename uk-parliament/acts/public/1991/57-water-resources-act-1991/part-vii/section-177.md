@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Schedule 21 to this Act shall have effect for making provision for imposing obligations as to the payment of compensation in respect of the exercise of the powers conferred on the appropriate agency[^key-1b8abae1db8866568af986b68f896bcc] by sections 159 to 167 above and otherwise for minimising the damage caused by the exercise of those powers.
+Schedule 21 to this Act shall have effect for making provision for imposing obligations as to the payment of compensation in respect of the exercise of the powers conferred on the appropriate agency[^c-1b8abae1db8866568af986b68f896bcc] by sections 159 to 167 above and otherwise for minimising the damage caused by the exercise of those powers.
 
 ## Annotations
 
-[^key-1b8abae1db8866568af986b68f896bcc]: Textual amendment: Words in ss. 176-179 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b8abae1db8866568af986b68f896bcc]: Textual amendment: Words in ss. 176-179 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

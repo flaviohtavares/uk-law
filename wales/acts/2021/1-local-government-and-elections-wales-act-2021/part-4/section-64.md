@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Certain investigations by the Public Services Ombudsman for Wales[^key-9a6647e912a054d9c3172bece65d4079]
+## 64. Certain investigations by the Public Services Ombudsman for Wales[^c-9a6647e912a054d9c3172bece65d4079]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 8 makes amendments to the 2000 Act and other Acts, about investigations
 
 ## Annotations
 
-[^key-9a6647e912a054d9c3172bece65d4079]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2021/1/section/64) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(a)](https://www.legislation.gov.uk/wsi/2022/98/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-9a6647e912a054d9c3172bece65d4079]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2021/1/section/64) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(a)](https://www.legislation.gov.uk/wsi/2022/98/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Certain principles etc to be considered or applied from IP completion day[^key-1d68287523220466a965e241a4629a08]
+## 60A. Certain principles etc to be considered or applied from IP completion day[^c-1d68287523220466a965e241a4629a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ subject to subsections (4) to (7).
 
 ## Annotations
 
-[^key-1d68287523220466a965e241a4629a08]: Textual amendment: S. 60A inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2019/93/regulation/23) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1343/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d68287523220466a965e241a4629a08]: Textual amendment: S. 60A inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2019/93/regulation/23) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1343/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

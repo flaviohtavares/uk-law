@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 556. Interpretation of regulations 5 and 6 of, and Schedule 2A to, the 1997 Regulations[^key-88812676424a852de4b417d578703d5a]
+## 556. Interpretation of regulations 5 and 6 of, and Schedule 2A to, the 1997 Regulations[^c-88812676424a852de4b417d578703d5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-88812676424a852de4b417d578703d5a]: Commencement: Art. 556 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-88812676424a852de4b417d578703d5a]: Commencement: Art. 556 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00352]: Footnote: Regulation 5 was substituted by [S.I. 1999/3438](https://www.legislation.gov.uk/uksi/1999/3438), regulations 2 and 3.
 

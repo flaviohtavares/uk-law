@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31F. Overview of rest of Part 2 as it applies to cash basis[^key-928ee3b2992bb511ee381da48b34df98]
+## 31F. Overview of rest of Part 2 as it applies to cash basis[^c-928ee3b2992bb511ee381da48b34df98]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-928ee3b2992bb511ee381da48b34df98]: Textual amendment: Pt. 2 Ch. 3A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/5)
+[^c-928ee3b2992bb511ee381da48b34df98]: Textual amendment: Pt. 2 Ch. 3A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/5)

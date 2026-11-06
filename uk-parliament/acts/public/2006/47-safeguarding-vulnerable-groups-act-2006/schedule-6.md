@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Employment businesses: failure to check[^key-65f31755e6531ec140bc06b8a54ad35e]
+## SCHEDULE 6 — Employment businesses: failure to check[^c-65f31755e6531ec140bc06b8a54ad35e]
 
 *Extent: E+W*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Section 12
 
-### Offences[^key-65f31755e6531ec140bc06b8a54ad35e]
+### Offences[^c-65f31755e6531ec140bc06b8a54ad35e]
 
 **....** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-65f31755e6531ec140bc06b8a54ad35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-65f31755e6531ec140bc06b8a54ad35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-65f31755e6531ec140bc06b8a54ad35e]
-
-**....** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### ...[^key-65f31755e6531ec140bc06b8a54ad35e]
+### ...[^c-65f31755e6531ec140bc06b8a54ad35e]
 
 **....** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to amend paragraph 2(1)(c)[^key-65f31755e6531ec140bc06b8a54ad35e]
+### ...[^c-65f31755e6531ec140bc06b8a54ad35e]
 
-**5.**[^key-65f31755e6531ec140bc06b8a54ad35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ......[^key-65f31755e6531ec140bc06b8a54ad35e]
+### Power to amend paragraph 2(1)(c)[^c-65f31755e6531ec140bc06b8a54ad35e]
+
+**5.**[^c-65f31755e6531ec140bc06b8a54ad35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### ......[^c-65f31755e6531ec140bc06b8a54ad35e]
 
 **....** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65f31755e6531ec140bc06b8a54ad35e]: Textual amendment: Sch. 6 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/52), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)
+[^c-65f31755e6531ec140bc06b8a54ad35e]: Textual amendment: Sch. 6 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/52), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)

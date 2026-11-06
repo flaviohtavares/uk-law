@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Power to make prohibition order or protection order[^key-31e1b73073f2ee24a2089d8699bc0e34]
+## 208. Power to make prohibition order or protection order[^c-31e1b73073f2ee24a2089d8699bc0e34]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In Schedule 15—
 
 ## Annotations
 
-[^key-31e1b73073f2ee24a2089d8699bc0e34]: Commencement: S. 208 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-31e1b73073f2ee24a2089d8699bc0e34]: Commencement: S. 208 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

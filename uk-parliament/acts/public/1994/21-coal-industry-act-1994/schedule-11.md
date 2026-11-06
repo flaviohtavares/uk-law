@@ -175,7 +175,7 @@ Section 67.
 |  |  | Section 48. |
 |  |  | In Schedule 2, in paragraph 1(1), the words “the Corporation are satisfied that”. |
 
-### Part III — Repeals coming into force on an appointed day[^c10941361][^c23550681][^c23550691][^key-42592951d6d008d543bb44f08715f3ac][^key-81c070040067c40e18927730fc45158a]
+### Part III — Repeals coming into force on an appointed day[^c10941361][^c23550681][^c23550691][^c-42592951d6d008d543bb44f08715f3ac][^c-81c070040067c40e18927730fc45158a]
 
 *Extent: E+W+S*
 
@@ -276,7 +276,7 @@ Section 67.
 | 1992 c. 17. | The Coal Industry Act 1992. | The whole Act. |
 | 1993 c. 2. | The British Coal and British Rail (Transfer Proposals) Act 1993. | The whole Act. |
 
-### Part IV — Repeals coming into force on the dissolution date[^key-1b60a4b446599eadb86a34d33c0604c8]
+### Part IV — Repeals coming into force on the dissolution date[^c-1b60a4b446599eadb86a34d33c0604c8]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -323,8 +323,8 @@ Section 67.
 
 [^c23550691]: Commencement: Sch. 11 Pt. 3 in force for specified purposes at 1.3.1995 by [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/273/schedule)
 
-[^key-42592951d6d008d543bb44f08715f3ac]: Commencement: Sch. 11 Pt. 3 in force at 27.3.2004 for specified purposes by [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/144/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-42592951d6d008d543bb44f08715f3ac]: Commencement: Sch. 11 Pt. 3 in force at 27.3.2004 for specified purposes by [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/144/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-81c070040067c40e18927730fc45158a]: Commencement: [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) in force at 28.4.2014 for specified purposes by [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/888/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/888/article/3))
+[^c-81c070040067c40e18927730fc45158a]: Commencement: [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) in force at 28.4.2014 for specified purposes by [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/888/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/888/article/3))
 
-[^key-1b60a4b446599eadb86a34d33c0604c8]: Commencement: Sch. 11 Pt. 4 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-1b60a4b446599eadb86a34d33c0604c8]: Commencement: Sch. 11 Pt. 4 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3

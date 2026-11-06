@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^key-c17f24ccb87c36cf2f598f0d16649246][^M_I_73851456-19b8-4cc2-dba5-ce1fb4dab373]
+## 58. Amendment of the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^c-c17f24ccb87c36cf2f598f0d16649246][^M_I_73851456-19b8-4cc2-dba5-ce1fb4dab373]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c17f24ccb87c36cf2f598f0d16649246]: Commencement: Reg. 58 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-c17f24ccb87c36cf2f598f0d16649246]: Commencement: Reg. 58 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_73851456-19b8-4cc2-dba5-ce1fb4dab373]: Commencement: Reg. 58 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

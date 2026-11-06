@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163A. Agreements: stamp duty land tax[^key-976ed8576cafb9cf05a4768cf498bc3f]
+## 163A. Agreements: stamp duty land tax[^c-976ed8576cafb9cf05a4768cf498bc3f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-976ed8576cafb9cf05a4768cf498bc3f]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/Vict/8-9/118/section/163A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/1)
+[^c-976ed8576cafb9cf05a4768cf498bc3f]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/Vict/8-9/118/section/163A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/1)

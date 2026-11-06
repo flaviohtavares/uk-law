@@ -32,7 +32,7 @@ summary: ''
 
 agriculture, england
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) (Amendment) Regulations 2007 (revoked)[^key-66aafec3057ddea9c8cc67b6dd611e0b]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) (Amendment) Regulations 2007 (revoked)[^c-66aafec3057ddea9c8cc67b6dd611e0b]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 10th September 2007
 
-[^key-66aafec3057ddea9c8cc67b6dd611e0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66aafec3057ddea9c8cc67b6dd611e0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-66aafec3057ddea9c8cc67b6dd611e0b]
+## 1. Title and commencement[^c-66aafec3057ddea9c8cc67b6dd611e0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-66aafec3057ddea9c8cc67b6dd611e0b]
+## 2. Amendment[^c-66aafec3057ddea9c8cc67b6dd611e0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66aafec3057ddea9c8cc67b6dd611e0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66aafec3057ddea9c8cc67b6dd611e0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-66aafec3057ddea9c8cc67b6dd611e0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66aafec3057ddea9c8cc67b6dd611e0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66aafec3057ddea9c8cc67b6dd611e0b]: Textual amendment: Regulations revoked (1.1.2010) by [The Agriculture (Cross compliance) Regulations 2009 (S.I. 2009/3264)](https://www.legislation.gov.uk/uksi/2009/3264), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3264/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3264/regulation/8), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3264/schedule/3)
+[^c-66aafec3057ddea9c8cc67b6dd611e0b]: Textual amendment: Regulations revoked (1.1.2010) by [The Agriculture (Cross compliance) Regulations 2009 (S.I. 2009/3264)](https://www.legislation.gov.uk/uksi/2009/3264), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3264/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3264/regulation/8), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3264/schedule/3)

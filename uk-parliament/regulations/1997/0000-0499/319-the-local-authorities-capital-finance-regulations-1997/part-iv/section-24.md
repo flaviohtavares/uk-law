@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Other leases excluded from section 48[^key-6ad0ec7c3e857a79c39e2b5be643ad5c]
+## 24. Other leases excluded from section 48[^c-6ad0ec7c3e857a79c39e2b5be643ad5c]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6ad0ec7c3e857a79c39e2b5be643ad5c]: Commencement: Reg. 24 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6ad0ec7c3e857a79c39e2b5be643ad5c]: Commencement: Reg. 24 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00022]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50). Section 100 was repealed by section 222 of, and paragraph 1 of Part I of Schedule 18 to, the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) subject to the savings contained in paragraph 12 of the Schedule to the Housing Act 1996 (Commencement No. 3 and Transitional Provisions) Order 1996 ([S.I. 1996/2402 (C. 62)](https://www.legislation.gov.uk/uksi/1996/2402)).
 

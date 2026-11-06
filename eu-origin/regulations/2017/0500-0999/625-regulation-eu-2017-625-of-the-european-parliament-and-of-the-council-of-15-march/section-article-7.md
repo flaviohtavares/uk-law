@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The decisions taken by the competent authorities in accordance with Article 55, Article 66(3) and (6), Article 67, point (b) of Article 137(3), and Article 138(1) and (2), concerning natural or legal persons shall be subject to such persons’ right of appeal [^key-ad41058c4079481c2033efeaba154cfe]....
+The decisions taken by the competent authorities in accordance with Article 55, Article 66(3) and (6), Article 67, point (b) of Article 137(3), and Article 138(1) and (2), concerning natural or legal persons shall be subject to such persons’ right of appeal [^c-ad41058c4079481c2033efeaba154cfe]....
 
 The right of appeal shall not affect the obligation of competent authorities to take prompt action to eliminate or contain the risks to human, animal or plant health, to animal welfare or, as regards GMOs and plant protection products, also to the environment, in accordance with this Regulation and with the rules referred to in Article 1(2).
 
 ## Annotations
 
-[^key-ad41058c4079481c2033efeaba154cfe]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2017/625/article/7) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/4/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-ad41058c4079481c2033efeaba154cfe]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2017/625/article/7) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/4/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

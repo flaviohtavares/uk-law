@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Fatigue of crew - operator’s responsibilities[^key-86c8aff4040a28834bae9f31d6955a69]
+## 62. Fatigue of crew - operator’s responsibilities[^c-86c8aff4040a28834bae9f31d6955a69]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86c8aff4040a28834bae9f31d6955a69]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2013/2870/article/62) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-86c8aff4040a28834bae9f31d6955a69]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2013/2870/article/62) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Penalties for offences under this Act[^key-c6fddf828be068c14e85338b4d91dd37]
+## 120. Penalties for offences under this Act[^c-c6fddf828be068c14e85338b4d91dd37]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6fddf828be068c14e85338b4d91dd37]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2008/5/section/120) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-c6fddf828be068c14e85338b4d91dd37]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2008/5/section/120) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Disqualification[^key-e05956cb8f767372177e7f323c80a231]
+## 37. Disqualification[^c-e05956cb8f767372177e7f323c80a231]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In section 30 of the Pensions Act 1995 (c. 26) (consequences of disqualification
 
 ## Annotations
 
-[^key-e05956cb8f767372177e7f323c80a231]: Commencement: S. 37 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-e05956cb8f767372177e7f323c80a231]: Commencement: S. 37 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

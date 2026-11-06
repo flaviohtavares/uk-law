@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Temporary use of land for maintaining the authorised development[^key-f1b4089ad11c55a46afd6df386cf3a42]
+## 30. Temporary use of land for maintaining the authorised development[^c-f1b4089ad11c55a46afd6df386cf3a42]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1b4089ad11c55a46afd6df386cf3a42]: Commencement: Art. 30 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-f1b4089ad11c55a46afd6df386cf3a42]: Commencement: Art. 30 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

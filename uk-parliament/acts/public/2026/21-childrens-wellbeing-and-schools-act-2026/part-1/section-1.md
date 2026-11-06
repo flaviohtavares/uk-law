@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Family group decision-making[^key-ee0346d046559005c0c1d5eca7102596][^key-a7928dabecc32b8de96a64cb0a59dea1]
+## 1. Family group decision-making[^c-ee0346d046559005c0c1d5eca7102596][^c-a7928dabecc32b8de96a64cb0a59dea1]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ After [section 31](https://www.legislation.gov.uk/ukpga/1989/41/section/31) of t
 
 ## Annotations
 
-[^key-ee0346d046559005c0c1d5eca7102596]: Commencement: S. 1 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-ee0346d046559005c0c1d5eca7102596]: Commencement: S. 1 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-a7928dabecc32b8de96a64cb0a59dea1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/21/section/1) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/a)
+[^c-a7928dabecc32b8de96a64cb0a59dea1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/21/section/1) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/a)

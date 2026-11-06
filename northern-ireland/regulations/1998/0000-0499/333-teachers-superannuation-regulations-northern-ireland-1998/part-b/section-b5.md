@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## B5. Election to rejoin pensionable service[^key-481724bd3a5e26d5c8d228a84629bf38]
+## B5. Election to rejoin pensionable service[^c-481724bd3a5e26d5c8d228a84629bf38]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ may at any time, by giving written notice to the Department, make an election un
 
 ## Annotations
 
-[^key-481724bd3a5e26d5c8d228a84629bf38]: Commencement: Reg. B5 in operation at 2.11.1998, see reg. A1
+[^c-481724bd3a5e26d5c8d228a84629bf38]: Commencement: Reg. B5 in operation at 2.11.1998, see reg. A1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. The Financial Regulators’ Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018[^key-6a10aaeca127e51e85e516f5c6dea252]
+## 43. The Financial Regulators’ Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018[^c-6a10aaeca127e51e85e516f5c6dea252]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a10aaeca127e51e85e516f5c6dea252]: Commencement: Reg. 43 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-6a10aaeca127e51e85e516f5c6dea252]: Commencement: Reg. 43 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115), amended by [S.I. 2019/336](https://www.legislation.gov.uk/uksi/2019/336), [394](https://www.legislation.gov.uk/uksi/2019/394), [576](https://www.legislation.gov.uk/uksi/2019/576), [1212](https://www.legislation.gov.uk/uksi/2019/1212), [1390](https://www.legislation.gov.uk/uksi/2019/1390), [1416](https://www.legislation.gov.uk/uksi/2019/1416) and [2020/628](https://www.legislation.gov.uk/uksi/2020/628) and [646](https://www.legislation.gov.uk/uksi/2020/646). Paragraph 11A of the Schedule inserted by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390) and paragraph 69G by [S.I. 2020/628](https://www.legislation.gov.uk/uksi/2020/628).

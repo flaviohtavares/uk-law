@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This regulation provides for the application of regulations 49 and 50 if a person is an active member of the 2015 scheme[^key-df38f94bb2339d3bf796f35a59dac5be] in two or more part-time employments held concurrently on the option day.
+(1) This regulation provides for the application of regulations 49 and 50 if a person is an active member of the 2015 scheme[^c-df38f94bb2339d3bf796f35a59dac5be] in two or more part-time employments held concurrently on the option day.
 
 (2) Those regulations apply in relation to each of the employments as if it were the only employment held by the member on that day, but subject to the following modifications.
 
 (3) In regulation 49(1) for sub-paragraph (d) substitute—
 
-> - (d) as a result of that change the sum of the annual rate of the member's pensionable pay in that employment and every other employment held by the member on the option day is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^key-f9c43db19501c85d2c4c2313cc6fa560] to 90% or less of the sum of—
+> - (d) as a result of that change the sum of the annual rate of the member's pensionable pay in that employment and every other employment held by the member on the option day is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^c-f9c43db19501c85d2c4c2313cc6fa560] to 90% or less of the sum of—
 >   - (i) the member's pensionable pay in the employment during the period of 12 months ending with the option day, and
 >   - (ii) the member's pensionable pay during that period in every other employment held by the member on the option day.
 
@@ -37,7 +37,7 @@ summary: ''
 
 (5) In regulation 50(1) for sub-paragraph (b) substitute—
 
-> - (b) as a result the annual rate of the member's pensionable pay in that employment is increased (disregarding any increase in pensionable pay resulting from the member ending a salary sacrifice arrangement)[^key-3655db5d92b1e3692f8c2ad344456e32] to more than 90% of the sum of—
+> - (b) as a result the annual rate of the member's pensionable pay in that employment is increased (disregarding any increase in pensionable pay resulting from the member ending a salary sacrifice arrangement)[^c-3655db5d92b1e3692f8c2ad344456e32] to more than 90% of the sum of—
 >   - (i) the member's pensionable pay in the employment during the period of 12 months ending with the option day, and
 >   - (ii) the member's pensionable pay during that period in every other employment held by the member on the option day.
 
@@ -67,8 +67,8 @@ the pension will (in any event) be payable by the Department when the member ret
 
 ## Annotations
 
-[^key-df38f94bb2339d3bf796f35a59dac5be]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/51/1) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/1/2), [14(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/14/2)
+[^c-df38f94bb2339d3bf796f35a59dac5be]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/51/1) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/1/2), [14(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/14/2)
 
-[^key-f9c43db19501c85d2c4c2313cc6fa560]: Textual amendment: Words in [reg. 51(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/51/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/1/2), [14(3)](https://www.legislation.gov.uk/nisr/2024/117/regulation/14/3)
+[^c-f9c43db19501c85d2c4c2313cc6fa560]: Textual amendment: Words in [reg. 51(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/51/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/1/2), [14(3)](https://www.legislation.gov.uk/nisr/2024/117/regulation/14/3)
 
-[^key-3655db5d92b1e3692f8c2ad344456e32]: Textual amendment: Words in [reg. 51(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/51/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/1/2), [14(4)](https://www.legislation.gov.uk/nisr/2024/117/regulation/14/4)
+[^c-3655db5d92b1e3692f8c2ad344456e32]: Textual amendment: Words in [reg. 51(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/51/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/117/regulation/1/2), [14(4)](https://www.legislation.gov.uk/nisr/2024/117/regulation/14/4)

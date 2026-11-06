@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Detention of property pending appeal[^key-f39164088330e46a9bbba81864918c7e]
+## 98A. Detention of property pending appeal[^c-f39164088330e46a9bbba81864918c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f39164088330e46a9bbba81864918c7e]: Textual amendment: [Art. 98A](https://www.legislation.gov.uk/uksi/2005/3181/article/98A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [25](https://www.legislation.gov.uk/uksi/2016/662/article/25)
+[^c-f39164088330e46a9bbba81864918c7e]: Textual amendment: [Art. 98A](https://www.legislation.gov.uk/uksi/2005/3181/article/98A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [25](https://www.legislation.gov.uk/uksi/2016/662/article/25)

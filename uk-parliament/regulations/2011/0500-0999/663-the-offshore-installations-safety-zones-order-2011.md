@@ -44,11 +44,11 @@ The Secretary of State makes this Order —
 - (a) in exercise of the powers conferred by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”); and
 - (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A) of the Act.
 
-## 1. Citation and commencement[^key-0665380db00d654c2b048b96787098cf]
+## 1. Citation and commencement[^c-0665380db00d654c2b048b96787098cf]
 
 This Order may be cited as the Offshore Installations (Safety Zones) Order 2011 and comes into force on 28th March 2011.
 
-## 2. Establishment of safety zone[^key-205dfa8f81ca5aa75f8f9081d4aea226]
+## 2. Establishment of safety zone[^c-205dfa8f81ca5aa75f8f9081d4aea226]
 
 A safety zone is established around each installation specified in column 1 of the Schedule (being installations stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00002] specified in columns 2 and 3 of the Schedule.
 
@@ -62,13 +62,13 @@ Department for Work and Pensions
 
 2nd March 2011
 
-## SCHEDULE — SAFETY ZONE[^key-907f011d252cc317465b509f67a37cdd]
+## SCHEDULE — SAFETY ZONE[^c-907f011d252cc317465b509f67a37cdd]
 
 Article 2
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude North* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
-| Kinnoull Towhead<br>Block 16/23, Andrew Field | 58°14.30’[^key-678b913d358211a04291f0cbea83a573] | 01°34.21’ East |
+| Kinnoull Towhead<br>Block 16/23, Andrew Field | 58°14.30’[^c-678b913d358211a04291f0cbea83a573] | 01°34.21’ East |
 | Clair Ridge<br>Block 206/8, Clair Field | 60°44.18’ | 02°29.65’ West |
 | Falcon Well P1<br>Block 210/25, Falcon Field | 61°19.80’ | 00°59.36’ East |
 
@@ -84,12 +84,12 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and is amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-0665380db00d654c2b048b96787098cf]: Commencement: Art. 1 in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/663/article/1)
+[^c-0665380db00d654c2b048b96787098cf]: Commencement: Art. 1 in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/663/article/1)
 
-[^key-205dfa8f81ca5aa75f8f9081d4aea226]: Commencement: Art. 2 in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/663/article/1)
+[^c-205dfa8f81ca5aa75f8f9081d4aea226]: Commencement: Art. 2 in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/663/article/1)
 
 [^f00002]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-907f011d252cc317465b509f67a37cdd]: Commencement: Sch. in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/663/article/1)
+[^c-907f011d252cc317465b509f67a37cdd]: Commencement: Sch. in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/663/article/1)
 
-[^key-678b913d358211a04291f0cbea83a573]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/663/schedule) substituted (22.8.2011) by [The Offshore Installations (Safety Zones) (No.2) Order 2011 (S.I. 2011/1825)](https://www.legislation.gov.uk/uksi/2011/1825), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1825/article/1), [3](https://www.legislation.gov.uk/uksi/2011/1825/article/3)
+[^c-678b913d358211a04291f0cbea83a573]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/663/schedule) substituted (22.8.2011) by [The Offshore Installations (Safety Zones) (No.2) Order 2011 (S.I. 2011/1825)](https://www.legislation.gov.uk/uksi/2011/1825), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1825/article/1), [3](https://www.legislation.gov.uk/uksi/2011/1825/article/3)

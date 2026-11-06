@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Distribution in accordance with accounting periods[^key-373d9cf5da24181de93d917b8cd035ea]
+## 131. Distribution in accordance with accounting periods[^c-373d9cf5da24181de93d917b8cd035ea]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ the trustee may, with the consent of the commissioners or, if there are no commi
 
 ## Annotations
 
-[^key-373d9cf5da24181de93d917b8cd035ea]: Commencement: S. 131 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-373d9cf5da24181de93d917b8cd035ea]: Commencement: S. 131 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

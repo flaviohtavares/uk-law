@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 234 of the Housing Act 2004[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-080addffc9c09c88b29a97fd1e99b575]
+## 1. Citation, commencement and application[^c-080addffc9c09c88b29a97fd1e99b575]
 
 (1) These Regulations may be cited as The Management of Houses in Multiple Occupation (England) Regulations 2006 and shall come into force on 6th April 2006.
 
 (2) These Regulations apply to any HMO[^f00002] in England other than a converted block of flats to which section 257 of the Act applies.
 
-## 2. Interpretation[^key-c6686b26f4bc32ae8a99091d56562394]
+## 2. Interpretation[^c-c6686b26f4bc32ae8a99091d56562394]
 
 In these Regulations—
 
@@ -64,14 +64,14 @@ In these Regulations—
   - (iv) washing machines or other laundry appliances; and
 - (c) “the manager”, in relation to an HMO, means the person managing[^f00003] the HMO.
 
-## 3. Duty of manager to provide information to occupier[^key-df1e38bee557b9baeff78c7a79ca4b2a]
+## 3. Duty of manager to provide information to occupier[^c-df1e38bee557b9baeff78c7a79ca4b2a]
 
 The manager must ensure that—
 
 - (a) his name, address and any telephone contact number are made available to each household in the HMO; and
 - (b) such details are clearly displayed in a prominent position in the HMO.
 
-## 4. Duty of manager to take safety measures[^key-b47f4e45ea6b894122c32cd8811a159c]
+## 4. Duty of manager to take safety measures[^c-b47f4e45ea6b894122c32cd8811a159c]
 
 (1) The manager must ensure that all means of escape from fire in the HMO are—
 
@@ -95,7 +95,7 @@ The manager must ensure that—
 
 (6) The duty imposed by paragraph (3) does not apply where the HMO has four or fewer occupiers.
 
-## 5. Duty of manager to maintain water supply and drainage[^key-30b7dd1dac259bb2754937bf7adcae2c]
+## 5. Duty of manager to maintain water supply and drainage[^c-30b7dd1dac259bb2754937bf7adcae2c]
 
 (1) The manager must ensure that the water supply and drainage system serving the HMO is maintained in good, clean and working condition and in particular he must ensure that—
 
@@ -106,17 +106,17 @@ The manager must ensure that—
 
 (3) In this regulation “water fitting” means a pipe, tap, cock, valve, ferrule, meter, cistern, bath, water closet or soil pan used in connection with the supply or use of water, but the reference in this definition to a pipe does not include an overflow pipe or the mains supply pipe.
 
-## 6. Duty of manager to supply and maintain gas and electricity[^key-c4b4dd915648347bd1b6b837a63c223e]
+## 6. Duty of manager to supply and maintain gas and electricity[^c-c4b4dd915648347bd1b6b837a63c223e]
 
 (1) The manager must supply to the local housing authority within 7 days of receiving a request in writing from that authority the latest gas appliance test certificate it has received in relation to the testing of any gas appliance at the HMO by a recognised engineer.
 
 (2)[^M_F_5945cdbf-62ca-49c5-b31c-20eb2746b482] In paragraph (1), “recognised engineer” means an engineer approved under regulation 3 of the Gas Safety (Installation and Use) Regulations 1998.
 
-(3)[^key-7c160b3d41a25071c6122a17e42f7337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7c160b3d41a25071c6122a17e42f7337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The manager must not unreasonably cause the gas or electricity supply that is used by any occupier within the HMO to be interrupted.
 
-## 7. Duty of manager to maintain common parts, fixtures, fittings and appliances[^key-c7fdcc635ef697ae88046c344ac451c9]
+## 7. Duty of manager to maintain common parts, fixtures, fittings and appliances[^c-c7fdcc635ef697ae88046c344ac451c9]
 
 (1) The manager must ensure that all common parts of the HMO are—
 
@@ -150,7 +150,7 @@ The manager must ensure that—
   - (ii) all such parts of the HMO as comprise staircases, passageways, corridors, halls, lobbies, entrances, balconies, porches and steps that are used by the occupiers of the units of living accommodation within the HMO to gain access to the entrance doors of their respective unit of living accommodation; and
   - (iii) any other part of an HMO the use of which is shared by two or more households living in the HMO, with the knowledge of the landlord.
 
-## 8. Duty of manager to maintain living accommodation[^key-8f87768ea9ad1dc91b61691aa204a8c2]
+## 8. Duty of manager to maintain living accommodation[^c-8f87768ea9ad1dc91b61691aa204a8c2]
 
 (1) Subject to paragraph (4), the manager must ensure that each unit of living accommodation within the HMO and any furniture supplied with it are in clean condition at the beginning of a person’s occupation of it.
 
@@ -166,14 +166,14 @@ The manager must ensure that—
 
 (5) For the purpose of this regulation a person shall be regarded as using his living accommodation otherwise than in a tenant-like manner where he fails to treat the property in accordance with the covenants or conditions contained in his lease or licence or otherwise fails to conduct himself as a reasonable tenant or licensee would do.
 
-## 9. Duty to provide waste disposal facilities[^key-a26dad1b460d988bb4fa411e78b31014]
+## 9. Duty to provide waste disposal facilities[^c-a26dad1b460d988bb4fa411e78b31014]
 
 The manager must—
 
 - (a) ensure that sufficient bins or other suitable receptacles are provided that are adequate for the requirements of each household occupying the HMO for the storage of refuse and litter pending their disposal; and
 - (b) make such further arrangements for the disposal of refuse and litter from the HMO as may be necessary, having regard to any service for such disposal provided by the local authority.
 
-## 10. Duties of occupiers of HMOs[^key-d703e936e8becebb2c38f594321f25c1]
+## 10. Duties of occupiers of HMOs[^c-d703e936e8becebb2c38f594321f25c1]
 
 Every occupier of the HMO must—
 
@@ -184,7 +184,7 @@ Every occupier of the HMO must—
 - (e) store and dispose of litter in accordance with the arrangements made by the manager under regulation 9; and
 - (f) comply with the reasonable instructions of the manager in respect of any means of escape from fire, the prevention of fire and the use of fire equipment.
 
-## 11. General[^key-e86c3e4f690cdd2cecba2174c0241288]
+## 11. General[^c-e86c3e4f690cdd2cecba2174c0241288]
 
 Nothing in these Regulations shall—
 
@@ -227,32 +227,32 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00001]: Footnote: [2004 c 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by section 234(1) of the Act are exercisable, as respects England, by the Secretary of State and, as respects Wales, by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1) of the Act.
 
-[^key-080addffc9c09c88b29a97fd1e99b575]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/372/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-080addffc9c09c88b29a97fd1e99b575]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/372/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
 [^f00002]: Footnote: For the meaning of HMO see sections 254 to 259 of the Act.
 
-[^key-c6686b26f4bc32ae8a99091d56562394]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/372/regulation/2) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-c6686b26f4bc32ae8a99091d56562394]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/372/regulation/2) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
 [^f00003]: Footnote: For the meaning of “person managing” see section 263(3) of the Act.
 
-[^key-df1e38bee557b9baeff78c7a79ca4b2a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/372/regulation/3) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-df1e38bee557b9baeff78c7a79ca4b2a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/372/regulation/3) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-b47f4e45ea6b894122c32cd8811a159c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/372/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-b47f4e45ea6b894122c32cd8811a159c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/372/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-30b7dd1dac259bb2754937bf7adcae2c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/372/regulation/5) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-30b7dd1dac259bb2754937bf7adcae2c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/372/regulation/5) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-c4b4dd915648347bd1b6b837a63c223e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/372/regulation/6) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-c4b4dd915648347bd1b6b837a63c223e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/372/regulation/6) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
 [^M_F_5945cdbf-62ca-49c5-b31c-20eb2746b482]: Textual amendment: Reg. 6(2) substituted (13.4.2009) by The Houses in [Multiple Occupation (Management) (England) Regulations 2009 (S.I. 2009/724)](https://www.legislation.gov.uk/uksi/2009/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/724/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/724/regulation/2/2)
 
-[^key-7c160b3d41a25071c6122a17e42f7337]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2006/372/regulation/6/3) omitted (with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/312/regulation/1/3) of the amending S.I.) by virtue of The Electrical Safety Standards in the [Private Rented Sector (England) Regulations 2020 (S.I. 2020/312)](https://www.legislation.gov.uk/uksi/2020/312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/312/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/312/regulation/14)
+[^c-7c160b3d41a25071c6122a17e42f7337]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2006/372/regulation/6/3) omitted (with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/312/regulation/1/3) of the amending S.I.) by virtue of The Electrical Safety Standards in the [Private Rented Sector (England) Regulations 2020 (S.I. 2020/312)](https://www.legislation.gov.uk/uksi/2020/312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/312/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/312/regulation/14)
 
-[^key-c7fdcc635ef697ae88046c344ac451c9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/372/regulation/7) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-c7fdcc635ef697ae88046c344ac451c9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/372/regulation/7) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-8f87768ea9ad1dc91b61691aa204a8c2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/372/regulation/8) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-8f87768ea9ad1dc91b61691aa204a8c2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/372/regulation/8) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-a26dad1b460d988bb4fa411e78b31014]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/372/regulation/9) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-a26dad1b460d988bb4fa411e78b31014]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/372/regulation/9) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-d703e936e8becebb2c38f594321f25c1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/372/regulation/10) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-d703e936e8becebb2c38f594321f25c1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/372/regulation/10) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
 
-[^key-e86c3e4f690cdd2cecba2174c0241288]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/372/regulation/11) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)
+[^c-e86c3e4f690cdd2cecba2174c0241288]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/372/regulation/11) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/372/regulation/1/1)

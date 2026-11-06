@@ -26,13 +26,13 @@ Section 46
 
 #### Application of this Part
 
-**1.**[^key-8cfae0944a46a24f05109f1325f14a34] (1) Subject to sub-paragraph (2), this Part has effect with regard to the compensation to be paid to a statutory undertaker in respect of a right created under an order made under section 39 or 41 (“**the relevant order**”) over, in or in relation to land held by the statutory undertaker for the purposes of carrying on its undertaking.
+**1.**[^c-8cfae0944a46a24f05109f1325f14a34] (1) Subject to sub-paragraph (2), this Part has effect with regard to the compensation to be paid to a statutory undertaker in respect of a right created under an order made under section 39 or 41 (“**the relevant order**”) over, in or in relation to land held by the statutory undertaker for the purposes of carrying on its undertaking.
 
 (2) Compensation is not payable under this Schedule unless the Secretary of State, in response to a representation made to him or her before the expiration of the time within which objections may be made to the relevant order, certifies that the land is in respect of its nature or situation of a kind that is comparable less with the generality of land than with land held for the purposes of the carrying on of statutory undertakings.
 
 #### Assessment of compensation
 
-**2.**[^key-3bbd42b6f086214b03d0f0137bcb8597] (1) The amount of the compensation, if not agreed, is to be assessed by the appropriate tribunal.
+**2.**[^c-3bbd42b6f086214b03d0f0137bcb8597] (1) The amount of the compensation, if not agreed, is to be assessed by the appropriate tribunal.
 
 (2) “The appropriate tribunal”—
 
@@ -41,7 +41,7 @@ Section 46
 
 #### Amount of compensation
 
-**3.**[^key-a44111e91f73445e07aa17e42958f6cb] (1) The amount of the compensation is—
+**3.**[^c-a44111e91f73445e07aa17e42958f6cb] (1) The amount of the compensation is—
 
 - (a) in the case of land in England and Wales, an amount calculated in accordance with subsections (2) to (5), (7) and (8) of section 280 the Town and Country Planning Act 1990 (“**the 1990 Act**”);
 - (b) in the case of land in Scotland, an amount calculated in accordance with subsections (2) to (5), (7) and (8) of section 233 of the Town and Country Planning (Scotland) Act 1997 (“**the 1997 Act**”).
@@ -76,7 +76,7 @@ Section 46
 
 #### Modification of powers and duties of statutory undertakers
 
-**4.**[^key-d2f2cb9effbfabc8d4708cff69a9c45c] (1) The Secretary of State may make an order under this paragraph if satisfied, on the representation of a person carrying on a statutory undertaking, that it is expedient to do so in order to facilitate an adjustment of the carrying on of the undertaking necessitated by the making or proposed making of an order under section 39 or 41.
+**4.**[^c-d2f2cb9effbfabc8d4708cff69a9c45c] (1) The Secretary of State may make an order under this paragraph if satisfied, on the representation of a person carrying on a statutory undertaking, that it is expedient to do so in order to facilitate an adjustment of the carrying on of the undertaking necessitated by the making or proposed making of an order under section 39 or 41.
 
 (2) An order under this paragraph may extend or modify the powers and duties of a statutory undertaker.
 
@@ -93,7 +93,7 @@ Section 46
 
 #### Relief of statutory undertakers from obligations
 
-**5.**[^key-e567f0dd3880d20f4a88c9fbf10b253d] (1) Where this paragraph applies, the Secretary of State may by order direct that a statutory undertaker is relieved from the fulfilment of an obligation either—
+**5.**[^c-e567f0dd3880d20f4a88c9fbf10b253d] (1) Where this paragraph applies, the Secretary of State may by order direct that a statutory undertaker is relieved from the fulfilment of an obligation either—
 
 - (a) absolutely, or
 - (b) to the extent specified in the order.
@@ -102,7 +102,7 @@ Section 46
 
 #### Procedure before making an order under paragraph 4 or 5
 
-**6.**[^key-9f14dc38bbe5918eb7320aef54633663] (1) As soon as possible after making a representation under paragraph 4 or 5, the statutory undertaker must—
+**6.**[^c-9f14dc38bbe5918eb7320aef54633663] (1) As soon as possible after making a representation under paragraph 4 or 5, the statutory undertaker must—
 
 - (a) publish a notice in the manner directed, and
 - (b) if directed to do so, serve a notice on such persons or classes of persons as directed.
@@ -117,7 +117,7 @@ Section 46
 
 #### Objections to order under paragraph 4
 
-**7.**[^key-a1799e91bd9bd70738bcbb84e0d53eb5] (1) Where no objection is made under paragraph 6, or all objections are withdrawn, the Secretary of State may make the relevant order.
+**7.**[^c-a1799e91bd9bd70738bcbb84e0d53eb5] (1) Where no objection is made under paragraph 6, or all objections are withdrawn, the Secretary of State may make the relevant order.
 
 (2) If an objection is made under paragraph 6 and not withdrawn—
 
@@ -131,7 +131,7 @@ Section 46
 
 #### Special parliamentary procedure
 
-**8.**[^key-55a61238d49ee47148a9fa7e0cfa1e06] (1) An order under paragraph 4 is subject to special parliamentary procedure.
+**8.**[^c-55a61238d49ee47148a9fa7e0cfa1e06] (1) An order under paragraph 4 is subject to special parliamentary procedure.
 
 (2) An order under paragraph 5 is subject to special parliamentary procedure if—
 
@@ -140,7 +140,7 @@ Section 46
 
 #### Power of entry for purposes of survey
 
-**9.**[^key-77204ccce6e5a56a4a50822a7a39a6bc] (1) Where the Secretary of State makes, or is considering the making of, an order under paragraph 4, the Secretary of State may authorise a person to enter any of the relevant land—
+**9.**[^c-77204ccce6e5a56a4a50822a7a39a6bc] (1) Where the Secretary of State makes, or is considering the making of, an order under paragraph 4, the Secretary of State may authorise a person to enter any of the relevant land—
 
 - (a) to carry out any survey that the Secretary of State requires to be carried out for the purpose of determining whether the order should be made, or
 - (b) to carry out any survey that the statutory undertaker requires to be carried out for the purpose of any steps to be taken in consequence of the order.
@@ -160,7 +160,7 @@ Section 46
 
 #### Compensation for damage to land
 
-**10.**[^key-ee04b54f2490e78adc4ce3fa38049002] (1) Where land is damaged—
+**10.**[^c-ee04b54f2490e78adc4ce3fa38049002] (1) Where land is damaged—
 
 - (a) in the exercise of a power conferred under paragraph 9, or
 - (b) in carrying out a survey for the purposes for which such a power is conferred,
@@ -182,22 +182,22 @@ the dispute is to be referred to and determined by the appropriate tribunal (see
 
 ## Annotations
 
-[^key-8cfae0944a46a24f05109f1325f14a34]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-8cfae0944a46a24f05109f1325f14a34]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-3bbd42b6f086214b03d0f0137bcb8597]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/2) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-3bbd42b6f086214b03d0f0137bcb8597]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/2) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-a44111e91f73445e07aa17e42958f6cb]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-a44111e91f73445e07aa17e42958f6cb]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-d2f2cb9effbfabc8d4708cff69a9c45c]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-d2f2cb9effbfabc8d4708cff69a9c45c]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-e567f0dd3880d20f4a88c9fbf10b253d]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-e567f0dd3880d20f4a88c9fbf10b253d]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-9f14dc38bbe5918eb7320aef54633663]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/6) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-9f14dc38bbe5918eb7320aef54633663]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/6) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-a1799e91bd9bd70738bcbb84e0d53eb5]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/7) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-a1799e91bd9bd70738bcbb84e0d53eb5]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/7) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-55a61238d49ee47148a9fa7e0cfa1e06]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/8) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-55a61238d49ee47148a9fa7e0cfa1e06]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/8) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-77204ccce6e5a56a4a50822a7a39a6bc]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/9) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-77204ccce6e5a56a4a50822a7a39a6bc]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/9) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-ee04b54f2490e78adc4ce3fa38049002]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/10) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-ee04b54f2490e78adc4ce3fa38049002]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/10) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

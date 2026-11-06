@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Control and monitoring of operations of wellboats[^key-82f83658b0cc8b7473f152b171751fe8]
+## 5. Control and monitoring of operations of wellboats[^c-82f83658b0cc8b7473f152b171751fe8]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82f83658b0cc8b7473f152b171751fe8]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/7/section/5) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-82f83658b0cc8b7473f152b171751fe8]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/7/section/5) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

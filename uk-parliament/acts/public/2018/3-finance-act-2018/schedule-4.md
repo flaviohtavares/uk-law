@@ -24,7 +24,7 @@ Section 16
 
 ### Amount of EIS relief
 
-**1.**[^key-b33a11328914df843707c9954f9398e3] (1) Section 158 of ITA 2007 (form and amount of EIS relief) is amended as follows.
+**1.**[^c-b33a11328914df843707c9954f9398e3] (1) Section 158 of ITA 2007 (form and amount of EIS relief) is amended as follows.
 
 (2) In subsection (2)(a), after “EIS relief” insert “ (qualifying shares) ”.
 
@@ -67,7 +67,7 @@ Section 16
 
 ### Maximum amount raised annually by knowledge-intensive company
 
-**2.**[^key-14e3cc57b971003f6c43f5e26e194b70] (1) Section 173A of ITA 2007 (the maximum amount raised annually through risk finance investments requirement for EIS relief) is amended as follows.
+**2.**[^c-14e3cc57b971003f6c43f5e26e194b70] (1) Section 173A of ITA 2007 (the maximum amount raised annually through risk finance investments requirement for EIS relief) is amended as follows.
 
 (2) In subsection (1), for “must not exceed £5 million” substitute
 
@@ -93,7 +93,7 @@ Section 16
 > >     - (ii) the operating costs of each company which is a qualifying subsidiary of the issuing company at that time, excluding a company's operating costs for any of the relevant three succeeding years during any part of which the company is not a qualifying subsidiary of the issuing company;
 > > - “**the relevant three succeeding years**” means the three consecutive years the first of which begins with the date the relevant shares are issued.
 
-**3.**[^key-c4bcd94a15ca6dfaabefdf14d7d9daa0] (1) Section 292A of ITA 2007 (the maximum amount raised annually through risk finance investments requirement for VCT relief) is amended as follows.
+**3.**[^c-c4bcd94a15ca6dfaabefdf14d7d9daa0] (1) Section 292A of ITA 2007 (the maximum amount raised annually through risk finance investments requirement for VCT relief) is amended as follows.
 
 (2) In subsection (1), for “must not exceed £5 million” substitute
 
@@ -119,11 +119,11 @@ Section 16
 > >     - (ii) the operating costs of each company which is a qualifying subsidiary of the relevant company at that time, excluding a company's operating costs for any of the relevant three succeeding years during any part of which the company is not a qualifying subsidiary of the relevant company;
 > > - “**the relevant three succeeding years**” means the three consecutive years the first of which begins with the date the relevant holding is issued.
 
-**4.**[^key-c57eff9f0b63c200cf3360e0e1988443] In section 297B of ITA 2007 (the proportion of skilled employees requirement for VCT relief), in subsection (2)(a), after “sections” insert “ 292A, ”.
+**4.**[^c-c57eff9f0b63c200cf3360e0e1988443] In section 297B of ITA 2007 (the proportion of skilled employees requirement for VCT relief), in subsection (2)(a), after “sections” insert “ 292A, ”.
 
 ### Initial investing period: permitted age of knowledge-intensive company
 
-**5.**[^key-528c0fe97e70533bc0190bc943cdfe46] In section 175A of ITA 2007 (the permitted maximum age condition for EIS relief), in paragraph (a) of subsection (2), for “beginning with the relevant first commercial sale,” substitute
+**5.**[^c-528c0fe97e70533bc0190bc943cdfe46] In section 175A of ITA 2007 (the permitted maximum age condition for EIS relief), in paragraph (a) of subsection (2), for “beginning with the relevant first commercial sale,” substitute
 
 > beginning with—
 >
@@ -132,7 +132,7 @@ Section 16
 
 .
 
-**6.**[^key-7b5d7a88d4c1ef3c7386860165e225f2] After section 252A of ITA 2007 insert—
+**6.**[^c-7b5d7a88d4c1ef3c7386860165e225f2] After section 252A of ITA 2007 insert—
 
 > **252B. Knowledge-intensive company reaching turnover of £200,000**
 >
@@ -169,7 +169,7 @@ Section 16
 > - (a) the accounts of the company, and
 > - (b) amounts recognised for accounting purposes.
 
-**7.**[^key-f99c416114c529caf7f0c44ab421f957] In section 280C of ITA 2007 (the permitted maximum age condition for VCT relief), in paragraph (a) of subsection (3), for “beginning with the relevant first commercial sale,” substitute
+**7.**[^c-f99c416114c529caf7f0c44ab421f957] In section 280C of ITA 2007 (the permitted maximum age condition for VCT relief), in paragraph (a) of subsection (3), for “beginning with the relevant first commercial sale,” substitute
 
 > beginning with—
 >
@@ -178,7 +178,7 @@ Section 16
 
 .
 
-**8.**[^key-7ce1d1f691109fe45d3c5f614b9afa20] In section 294A of ITA 2007 (the permitted company age requirement for VCT relief), in paragraph (a) of subsection (2), for “beginning with the relevant first commercial sale,” substitute
+**8.**[^c-7ce1d1f691109fe45d3c5f614b9afa20] In section 294A of ITA 2007 (the permitted company age requirement for VCT relief), in paragraph (a) of subsection (2), for “beginning with the relevant first commercial sale,” substitute
 
 > beginning with—
 >
@@ -187,7 +187,7 @@ Section 16
 
 .
 
-**9.**[^key-0e594d44db8c2863e4f88f539105b3c7] After section 331A of ITA 2007 insert—
+**9.**[^c-0e594d44db8c2863e4f88f539105b3c7] After section 331A of ITA 2007 insert—
 
 > **331B. Knowledge-intensive company reaching turnover of £200,000**
 >
@@ -237,20 +237,20 @@ Section 16
 
 ## Annotations
 
-[^key-b33a11328914df843707c9954f9398e3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-b33a11328914df843707c9954f9398e3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-14e3cc57b971003f6c43f5e26e194b70]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/2) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-14e3cc57b971003f6c43f5e26e194b70]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/2) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-c4bcd94a15ca6dfaabefdf14d7d9daa0]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/3) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-c4bcd94a15ca6dfaabefdf14d7d9daa0]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/3) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
 
-[^key-c57eff9f0b63c200cf3360e0e1988443]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/4) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-c57eff9f0b63c200cf3360e0e1988443]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/4) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
 
-[^key-528c0fe97e70533bc0190bc943cdfe46]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/5) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-528c0fe97e70533bc0190bc943cdfe46]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/5) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-7b5d7a88d4c1ef3c7386860165e225f2]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/6) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-7b5d7a88d4c1ef3c7386860165e225f2]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/6) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-f99c416114c529caf7f0c44ab421f957]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/7) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-f99c416114c529caf7f0c44ab421f957]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/7) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
 
-[^key-7ce1d1f691109fe45d3c5f614b9afa20]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/8) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-7ce1d1f691109fe45d3c5f614b9afa20]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/8) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
 
-[^key-0e594d44db8c2863e4f88f539105b3c7]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/9) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-0e594d44db8c2863e4f88f539105b3c7]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/9) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Regulations under this Act[^key-ab1cb876c76da8fd4b77a190c208f489]
+## 50. Regulations under this Act[^c-ab1cb876c76da8fd4b77a190c208f489]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab1cb876c76da8fd4b77a190c208f489]: Commencement: S. 50 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-ab1cb876c76da8fd4b77a190c208f489]: Commencement: S. 50 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

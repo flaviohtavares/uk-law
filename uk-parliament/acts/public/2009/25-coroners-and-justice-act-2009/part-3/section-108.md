@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Searches of persons answering to live link bail[^key-368dee1e40b69d9812ac1bec0508543c][^key-a04da4a46042aa9353da7bfe982416c4][^key-8e050ea7e12aed3fa3fc2bf91f82e099]
+## 108. Searches of persons answering to live link bail[^c-368dee1e40b69d9812ac1bec0508543c][^c-a04da4a46042aa9353da7bfe982416c4][^c-8e050ea7e12aed3fa3fc2bf91f82e099]
 
 *Extent: E+W*
 
@@ -82,8 +82,8 @@ summary: ''
 
 ## Annotations
 
-[^key-368dee1e40b69d9812ac1bec0508543c]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2009/25/section/108) in force at 14.12.2009 for specified purposes by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/c)
+[^c-368dee1e40b69d9812ac1bec0508543c]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2009/25/section/108) in force at 14.12.2009 for specified purposes by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/c)
 
-[^key-a04da4a46042aa9353da7bfe982416c4]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2009/25/section/108) in force at 3.10.2011 for specified purposes by [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2148/article/2/1/c)
+[^c-a04da4a46042aa9353da7bfe982416c4]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2009/25/section/108) in force at 3.10.2011 for specified purposes by [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2148/article/2/1/c)
 
-[^key-8e050ea7e12aed3fa3fc2bf91f82e099]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2009/25/section/108) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/c)
+[^c-8e050ea7e12aed3fa3fc2bf91f82e099]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2009/25/section/108) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Locality plan: review[^key-79952fe82b354359780f021a6128d197]
+## 11. Locality plan: review[^c-79952fe82b354359780f021a6128d197]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79952fe82b354359780f021a6128d197]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/6/section/11) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-79952fe82b354359780f021a6128d197]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/6/section/11) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

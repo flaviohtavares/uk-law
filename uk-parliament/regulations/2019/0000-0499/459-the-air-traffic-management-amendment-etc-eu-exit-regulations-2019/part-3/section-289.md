@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Article 15 of Commission Implementing Regulation (EU) No 1207/2011[^key-b7f08cc43f4f5319dd293843d0a040e3]
+## 289. Article 15 of Commission Implementing Regulation (EU) No 1207/2011[^c-b7f08cc43f4f5319dd293843d0a040e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 15 (entry into force and application).
 
 ## Annotations
 
-[^key-b7f08cc43f4f5319dd293843d0a040e3]: Commencement: Reg. 289 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b7f08cc43f4f5319dd293843d0a040e3]: Commencement: Reg. 289 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

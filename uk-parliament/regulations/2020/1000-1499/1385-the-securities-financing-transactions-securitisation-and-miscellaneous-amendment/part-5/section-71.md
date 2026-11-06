@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendments to cross references to retained EU Regulations[^key-ffc66484e6c99efed774a01435608a2f]
+## 71. Amendments to cross references to retained EU Regulations[^c-ffc66484e6c99efed774a01435608a2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Schedule has effect.
 
 ## Annotations
 
-[^key-ffc66484e6c99efed774a01435608a2f]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2020/1385/regulation/71) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-ffc66484e6c99efed774a01435608a2f]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2020/1385/regulation/71) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)

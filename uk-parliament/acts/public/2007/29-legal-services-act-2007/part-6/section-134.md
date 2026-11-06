@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 134. Delegation of an ombudsman's functions[^key-55400ba0f9cf5f17dec020a37db9fa59]
+## 134. Delegation of an ombudsman's functions[^c-55400ba0f9cf5f17dec020a37db9fa59]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55400ba0f9cf5f17dec020a37db9fa59]: Commencement: S. 134 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-55400ba0f9cf5f17dec020a37db9fa59]: Commencement: S. 134 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

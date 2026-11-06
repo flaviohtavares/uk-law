@@ -46,11 +46,11 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1), 17(1), 26(1) and (3), 31(1) and 48(1) of the Food Safety Act 1990[^f00001] and section 2(2) of the European Communities Act 1972[^f00002] and all other powers enabling them to do so.
 
-In accordance with section 48(4A)[^f00003] of the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by Food Standards Scotland.[^key-d5a7577c705df263eb52c36e2b580c11]
+In accordance with section 48(4A)[^f00003] of the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by Food Standards Scotland.[^c-d5a7577c705df263eb52c36e2b580c11]
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].[^key-d5a7577c705df263eb52c36e2b580c11]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].[^c-d5a7577c705df263eb52c36e2b580c11]
 
-## 1. Citation, commencement and extent[^key-d2eec23a0b9479b969d60a2f73dad66f][^key-d2eec23a0b9479b969d60a2f73dad66f]
+## 1. Citation, commencement and extent[^c-d2eec23a0b9479b969d60a2f73dad66f][^c-d2eec23a0b9479b969d60a2f73dad66f]
 
 (1) These Regulations may be cited as the Caseins and Caseinates (Scotland) (No. 2) Regulations 2016.
 
@@ -60,7 +60,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 (4) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-946b365aefb1403d69247ecfcc3e0324]
+## 2. Interpretation[^c-946b365aefb1403d69247ecfcc3e0324]
 
 In these Regulations—
 
@@ -75,11 +75,11 @@ In these Regulations—
 - “Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)” means Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety; and
 - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925)) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608)[^f00008].
 
-## 3. Scope[^key-ce5515e3349b5992d978c68dbbfa0d60]
+## 3. Scope[^c-ce5515e3349b5992d978c68dbbfa0d60]
 
 These Regulations apply to caseins and caseinates intended for human consumption and mixtures thereof.
 
-## 4. Restriction on the marketing and use of edible acid caseins, edible rennet caseins and edible caseinates[^key-a40da50831b75ca296146ac5b34316ed]
+## 4. Restriction on the marketing and use of edible acid caseins, edible rennet caseins and edible caseinates[^c-a40da50831b75ca296146ac5b34316ed]
 
 A person must not—
 
@@ -90,7 +90,7 @@ A person must not—
 - (b) place on the market caseins or caseinates for purposes other than the preparation of food unless they are named and labelled clearly as to their nature, quality or intended use; or
 - (c) use for the preparation of food, caseins or caseinates which do not comply with the standards set out in tables 2 and 3 of schedule 1, 2 or 3.
 
-## 5. Labelling of edible acid caseins, edible rennet caseins and edible caseinates[^key-f30d148e7644a8b597a286d9df5d6ca3]
+## 5. Labelling of edible acid caseins, edible rennet caseins and edible caseinates[^c-f30d148e7644a8b597a286d9df5d6ca3]
 
 (1) The following particulars must be marked on the packages, containers or labels of edible acid caseins, edible rennet caseins and edible caseinates in easily visible, clearly legible and indelible characters:—
 
@@ -100,7 +100,7 @@ A person must not—
   - (ii) an indication of the cation or cations, as listed in table 4 of schedule 3, in the case of edible caseinates;
   - (iii) the protein content in the case of mixtures containing edible caseinates;
 - (c) the net quantity of the edible acid caseins, edible rennet caseins and edible caseinates expressed in kilograms or grams;
-- (d) the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the United Kingdom[^key-98d5ef1e2c386cdb847ab9bc356cb6f0], the importer into the United Kingdom market;
+- (d) the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the United Kingdom[^c-98d5ef1e2c386cdb847ab9bc356cb6f0], the importer into the United Kingdom market;
 - (e) in the case of edible acid caseins, edible rennet caseins or edible caseinates imported from third countries, the name of the country of origin;
 - (f) the lot identification of the edible acid caseins, edible rennet caseins or edible caseinates or the date of production.
 
@@ -108,41 +108,41 @@ A person must not—
 
 (3) Where the minimum milk protein content set out at item 2 in table 1 of schedule 1, 2 or 3 is exceeded in edible acid caseins, edible rennet caseins or edible caseinates, this fact may, without prejudice to the provisions of Regulation (EU) No 1169/2011, be marked on the packages, containers or labels of the products.
 
-## 6. Offences and penalties[^key-79811f5fdcd72bb2ecbd62ab15be562e]
+## 6. Offences and penalties[^c-79811f5fdcd72bb2ecbd62ab15be562e]
 
 A person is guilty of an offence if that person fails to comply with regulation 4 or 5 and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 6A. Transitional provisions: withdrawal from the EU[^key-72fe624f6e503ca50625b6595a01eaf3]
+## 6A. Transitional provisions: withdrawal from the EU[^c-72fe624f6e503ca50625b6595a01eaf3]
 
 (1) A person is to be considered to have complied with regulation 5(1)(d) in the following circumstances—
 
 - (a) edible acid caseins, edible rennet caseins or edible caseinates are marked with the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the European Union, the importer into the European Union market,
 - (b) this would have complied with regulation 5(1)(d) as it applied immediately before IP completion day, and
-- (c) the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 31[^key-47185eda20204792cb07053ff7a4d364] December 2023.
+- (c) the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 31[^c-47185eda20204792cb07053ff7a4d364] December 2023.
 
 (2) A person is to be considered to have complied with regulation 5(1)(e) in the following circumstances—
 
 - (a) edible acid caseins, edible rennet caseins or edible caseinates imported from a third country are marked with the name of the country of origin,
 - (b) this would have complied with regulation 5(1)(e) as it applied immediately before IP completion day, and
-- (c) the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 31[^key-65b436a9f53f890884061f4238206c7b] December 2023.
+- (c) the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 31[^c-65b436a9f53f890884061f4238206c7b] December 2023.
 
 (3) In this regulation, “**third country**” means any country other than the United Kingdom.
 
-## 7. Enforcement[^key-352202d3b821da0dc320b23ae23bc8be]
+## 7. Enforcement[^c-352202d3b821da0dc320b23ae23bc8be]
 
 Each food authority must execute and enforce these Regulations within its area.
 
-## 8. Application of provisions of the Act[^key-29b418982940f790d3dcfa7bbafa6675]
+## 8. Application of provisions of the Act[^c-29b418982940f790d3dcfa7bbafa6675]
 
 The provisions of the Act specified in column 1 of the table in schedule 4 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
 
-## 9. Revocations[^key-8c60ff6dcf825c82139a686cfa85e27d][^key-c0e9ff55e889ff13abdf6023ac0344a5][^key-c0e9ff55e889ff13abdf6023ac0344a5]
+## 9. Revocations[^c-8c60ff6dcf825c82139a686cfa85e27d][^c-c0e9ff55e889ff13abdf6023ac0344a5][^c-c0e9ff55e889ff13abdf6023ac0344a5]
 
 The following instruments are revoked:—
 
-- (a)[^key-8c60ff6dcf825c82139a686cfa85e27d] the Caseins and Caseinates (Scotland) Regulations 1986[^f00009];
-- (b)[^key-8c60ff6dcf825c82139a686cfa85e27d] the Caseins and Caseinates (Scotland) Amendment Regulations 1990[^f00010]; and.
-- (c)[^key-c0e9ff55e889ff13abdf6023ac0344a5] the Caseins and Caseinates (Scotland) Regulations 2016[^f00011] are revoked.
+- (a)[^c-8c60ff6dcf825c82139a686cfa85e27d] the Caseins and Caseinates (Scotland) Regulations 1986[^f00009];
+- (b)[^c-8c60ff6dcf825c82139a686cfa85e27d] the Caseins and Caseinates (Scotland) Amendment Regulations 1990[^f00010]; and.
+- (c)[^c-c0e9ff55e889ff13abdf6023ac0344a5] the Caseins and Caseinates (Scotland) Regulations 2016[^f00011] are revoked.
 
 AILEEN CAMPBELL
 
@@ -152,13 +152,13 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — Standards applicable to edible acid caseins[^key-12ac8e83a30a546adf359a8a0cc25d0d]
+## SCHEDULE 1 — Standards applicable to edible acid caseins[^c-12ac8e83a30a546adf359a8a0cc25d0d]
 
 Regulations 4 and 5
 
 ### Table 1 — Essential factors of composition
 
-[^key-12ac8e83a30a546adf359a8a0cc25d0d]
+[^c-12ac8e83a30a546adf359a8a0cc25d0d]
 
 |  |  |  |
 | --- | --- | --- |
@@ -173,7 +173,7 @@ Regulations 4 and 5
 
 ### Table 2 — Contaminants
 
-[^key-12ac8e83a30a546adf359a8a0cc25d0d]
+[^c-12ac8e83a30a546adf359a8a0cc25d0d]
 
 |  |  |
 | --- | --- |
@@ -181,7 +181,7 @@ Regulations 4 and 5
 
 ### Table 3 — Impurities
 
-[^key-12ac8e83a30a546adf359a8a0cc25d0d]
+[^c-12ac8e83a30a546adf359a8a0cc25d0d]
 
 |  |  |
 | --- | --- |
@@ -189,7 +189,7 @@ Regulations 4 and 5
 
 ### Table 4 — Processing aids, bacterial cultures and authorised ingredients
 
-[^key-12ac8e83a30a546adf359a8a0cc25d0d]
+[^c-12ac8e83a30a546adf359a8a0cc25d0d]
 
 <table>
 <tbody>
@@ -207,20 +207,20 @@ Regulations 4 and 5
 
 ### Table 5 — Organoleptic characteristics
 
-[^key-12ac8e83a30a546adf359a8a0cc25d0d]
+[^c-12ac8e83a30a546adf359a8a0cc25d0d]
 
 |  |  |  |
 | --- | --- | --- |
 | 1\. | Odour | No foreign odours |
 | 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure |
 
-## SCHEDULE 2 — Standards applicable to edible rennet caseins[^key-1fa2fe12a8a28411b4f81acc73a38f06]
+## SCHEDULE 2 — Standards applicable to edible rennet caseins[^c-1fa2fe12a8a28411b4f81acc73a38f06]
 
 Regulations 4 and 5
 
 ### Table 1 — Essential factors of composition
 
-[^key-1fa2fe12a8a28411b4f81acc73a38f06]
+[^c-1fa2fe12a8a28411b4f81acc73a38f06]
 
 <table>
 <tbody>
@@ -236,7 +236,7 @@ Regulations 4 and 5
 
 ### Table 2 — Contaminants
 
-[^key-1fa2fe12a8a28411b4f81acc73a38f06]
+[^c-1fa2fe12a8a28411b4f81acc73a38f06]
 
 |  |  |
 | --- | --- |
@@ -244,7 +244,7 @@ Regulations 4 and 5
 
 ### Table 3 — Impurities
 
-[^key-1fa2fe12a8a28411b4f81acc73a38f06]
+[^c-1fa2fe12a8a28411b4f81acc73a38f06]
 
 |  |  |
 | --- | --- |
@@ -252,7 +252,7 @@ Regulations 4 and 5
 
 ### Table 4 — Processing aids, bacterial cultures and authorised ingredients
 
-[^key-1fa2fe12a8a28411b4f81acc73a38f06]
+[^c-1fa2fe12a8a28411b4f81acc73a38f06]
 
 |  |
 | --- |
@@ -260,20 +260,20 @@ Regulations 4 and 5
 
 ### Table 5 — Organoleptic characteristics
 
-[^key-1fa2fe12a8a28411b4f81acc73a38f06]
+[^c-1fa2fe12a8a28411b4f81acc73a38f06]
 
 |  |  |  |
 | --- | --- | --- |
 | 1\. | Odour | No foreign odours |
 | 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure |
 
-## SCHEDULE 3 — Standards applicable to edible caseinates[^key-ad98ac4bcedfa37f52a72db9ed8bde41]
+## SCHEDULE 3 — Standards applicable to edible caseinates[^c-ad98ac4bcedfa37f52a72db9ed8bde41]
 
 Regulations 4 and 5
 
 ### Table 1 — Essential factors of composition
 
-[^key-ad98ac4bcedfa37f52a72db9ed8bde41]
+[^c-ad98ac4bcedfa37f52a72db9ed8bde41]
 
 <table>
 <tbody>
@@ -289,7 +289,7 @@ Regulations 4 and 5
 
 ### Table 2 — Contaminants
 
-[^key-ad98ac4bcedfa37f52a72db9ed8bde41]
+[^c-ad98ac4bcedfa37f52a72db9ed8bde41]
 
 |  |  |
 | --- | --- |
@@ -297,7 +297,7 @@ Regulations 4 and 5
 
 ### Table 3 — Impurities
 
-[^key-ad98ac4bcedfa37f52a72db9ed8bde41]
+[^c-ad98ac4bcedfa37f52a72db9ed8bde41]
 
 |  |  |
 | --- | --- |
@@ -316,7 +316,7 @@ Regulations 4 and 5
 
 ### Table 5 — Organoleptic characteristics
 
-[^key-ad98ac4bcedfa37f52a72db9ed8bde41]
+[^c-ad98ac4bcedfa37f52a72db9ed8bde41]
 
 |  |  |  |
 | --- | --- | --- |
@@ -324,7 +324,7 @@ Regulations 4 and 5
 | 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure |
 | 3\. | Solubility | Almost entirely soluble in distilled water, except for calcium caseinate |
 
-## SCHEDULE 4 — Modification of provisions of the Act[^key-ea47756b33db78c4bbd524ef7621f084]
+## SCHEDULE 4 — Modification of provisions of the Act[^c-ea47756b33db78c4bbd524ef7621f084]
 
 Regulation 8
 
@@ -375,13 +375,13 @@ Regulation 9 revokes the Caseins and Caseinates (Scotland) Regulations 1986, the
 
 [^f00003]: Footnote: Section 48(4A) was inserted by paragraphs 7 and 21 of schedule 5 of the 1999 Act.
 
-[^key-d5a7577c705df263eb52c36e2b580c11]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-d5a7577c705df263eb52c36e2b580c11]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00004]: Footnote: OJ L 31, 1.2.2002, p.1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ L 189, 15.05.2014, p.1).
 
-[^key-d2eec23a0b9479b969d60a2f73dad66f]: Commencement: Reg. 1 in force at 21.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/2)
+[^c-d2eec23a0b9479b969d60a2f73dad66f]: Commencement: Reg. 1 in force at 21.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/2)
 
-[^key-946b365aefb1403d69247ecfcc3e0324]: Commencement: Reg. 2 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-946b365aefb1403d69247ecfcc3e0324]: Commencement: Reg. 2 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
 [^f00005]: Footnote: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
 
@@ -391,29 +391,29 @@ Regulation 9 revokes the Caseins and Caseinates (Scotland) Regulations 1986, the
 
 [^f00008]: Footnote: OJ L 304, 22.11.2011, p.18 as last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ L 27, 30.1.2014 p.7).
 
-[^key-ce5515e3349b5992d978c68dbbfa0d60]: Commencement: Reg. 3 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-ce5515e3349b5992d978c68dbbfa0d60]: Commencement: Reg. 3 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-a40da50831b75ca296146ac5b34316ed]: Commencement: Reg. 4 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-a40da50831b75ca296146ac5b34316ed]: Commencement: Reg. 4 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-f30d148e7644a8b597a286d9df5d6ca3]: Commencement: Reg. 5 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-f30d148e7644a8b597a286d9df5d6ca3]: Commencement: Reg. 5 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-98d5ef1e2c386cdb847ab9bc356cb6f0]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/ssi/2016/422/regulation/5/1/d) substituted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98d5ef1e2c386cdb847ab9bc356cb6f0]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/ssi/2016/422/regulation/5/1/d) substituted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79811f5fdcd72bb2ecbd62ab15be562e]: Commencement: Reg. 6 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-79811f5fdcd72bb2ecbd62ab15be562e]: Commencement: Reg. 6 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-72fe624f6e503ca50625b6595a01eaf3]: Textual amendment: Reg. 6A inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/6/3) (as amended by [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(6)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72fe624f6e503ca50625b6595a01eaf3]: Textual amendment: Reg. 6A inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/6/3) (as amended by [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(6)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47185eda20204792cb07053ff7a4d364]: Textual amendment: Words in [reg. 6A(1)(c)](https://www.legislation.gov.uk/ssi/2016/422/regulation/6A/1/c) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [13(a)](https://www.legislation.gov.uk/ssi/2022/265/regulation/13/a)
+[^c-47185eda20204792cb07053ff7a4d364]: Textual amendment: Words in [reg. 6A(1)(c)](https://www.legislation.gov.uk/ssi/2016/422/regulation/6A/1/c) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [13(a)](https://www.legislation.gov.uk/ssi/2022/265/regulation/13/a)
 
-[^key-65b436a9f53f890884061f4238206c7b]: Textual amendment: Words in [reg. 6A(2)(c)](https://www.legislation.gov.uk/ssi/2016/422/regulation/6A/2/c) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [13(b)](https://www.legislation.gov.uk/ssi/2022/265/regulation/13/b)
+[^c-65b436a9f53f890884061f4238206c7b]: Textual amendment: Words in [reg. 6A(2)(c)](https://www.legislation.gov.uk/ssi/2016/422/regulation/6A/2/c) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [13(b)](https://www.legislation.gov.uk/ssi/2022/265/regulation/13/b)
 
-[^key-352202d3b821da0dc320b23ae23bc8be]: Commencement: Reg. 7 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-352202d3b821da0dc320b23ae23bc8be]: Commencement: Reg. 7 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-29b418982940f790d3dcfa7bbafa6675]: Commencement: Reg. 8 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-29b418982940f790d3dcfa7bbafa6675]: Commencement: Reg. 8 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-8c60ff6dcf825c82139a686cfa85e27d]: Commencement: Reg. 9(a)(b) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-8c60ff6dcf825c82139a686cfa85e27d]: Commencement: Reg. 9(a)(b) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-c0e9ff55e889ff13abdf6023ac0344a5]: Commencement: Reg. 9(c) in force at 21.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/2)
+[^c-c0e9ff55e889ff13abdf6023ac0344a5]: Commencement: Reg. 9(c) in force at 21.12.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 1986/836](https://www.legislation.gov.uk/uksi/1986/836).
 
@@ -421,15 +421,15 @@ Regulation 9 revokes the Caseins and Caseinates (Scotland) Regulations 1986, the
 
 [^f00011]: Footnote: [S.S.I. 2016/383](https://www.legislation.gov.uk/ssi/2016/383).
 
-[^key-12ac8e83a30a546adf359a8a0cc25d0d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/422/schedule/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-12ac8e83a30a546adf359a8a0cc25d0d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/422/schedule/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-1fa2fe12a8a28411b4f81acc73a38f06]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/422/schedule/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-1fa2fe12a8a28411b4f81acc73a38f06]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/422/schedule/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
 [^f00012]: Footnote: OJ No L 354, 31.12.2008, p.7, last amended by [Commission Regulation (EU) No 1056/2012](https://www.legislation.gov.uk/european/regulation/2012/1056) (OJ L 313, 13.11.2012, p.9).
 
-[^key-ad98ac4bcedfa37f52a72db9ed8bde41]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2016/422/schedule/3) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-ad98ac4bcedfa37f52a72db9ed8bde41]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2016/422/schedule/3) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
-[^key-ea47756b33db78c4bbd524ef7621f084]: Commencement: Sch. 4 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
+[^c-ea47756b33db78c4bbd524ef7621f084]: Commencement: Sch. 4 in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/3)
 
 [^f00013]: Footnote: Section 21(2) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 

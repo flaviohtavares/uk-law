@@ -28,9 +28,9 @@ summary: ''
 
 (2) This Article applies to employment of any description which—
 
-- (a) is employment in the case of which secondary Class 1 contributions are payable under Part I of the Contributions and Benefits Act 1992[^key-8ea89f72fb8245cb0c166e2fdd2e7854] in respect of persons engaged in it, but
+- (a) is employment in the case of which secondary Class 1 contributions are payable under Part I of the Contributions and Benefits Act 1992[^c-8ea89f72fb8245cb0c166e2fdd2e7854] in respect of persons engaged in it, but
 - (b) is not employment under a contract of service or of apprenticeship or employment of any description mentioned in Article 194 (whether as originally enacted or as modified by an order under Article 250(1)).
 
 ## Annotations
 
-[^key-8ea89f72fb8245cb0c166e2fdd2e7854]: Textual amendment: Words in [art. 206(2)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/206/2/a) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(18)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/18); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-8ea89f72fb8245cb0c166e2fdd2e7854]: Textual amendment: Words in [art. 206(2)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/206/2/a) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(18)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/18); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)

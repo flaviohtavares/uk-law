@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — ENACTMENTS WHERE FOR “DISTRICT HEALTH AUTHORITY” THERE IS SUBSTITUTED “HEALTH AUTHORITY OR PRIMARY CARE TRUST”[^key-4f2dbb45a1c01740e9a2988925c4b21e]
+## SCHEDULE 11 — ENACTMENTS WHERE FOR “DISTRICT HEALTH AUTHORITY” THERE IS SUBSTITUTED “HEALTH AUTHORITY OR PRIMARY CARE TRUST”[^c-4f2dbb45a1c01740e9a2988925c4b21e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ Regulation 14
 
 ## Annotations
 
-[^key-4f2dbb45a1c01740e9a2988925c4b21e]: Commencement: Sch. 11 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-4f2dbb45a1c01740e9a2988925c4b21e]: Commencement: Sch. 11 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00265]: Footnote: [S.I. 1982/286](https://www.legislation.gov.uk/uksi/1982/286).
 

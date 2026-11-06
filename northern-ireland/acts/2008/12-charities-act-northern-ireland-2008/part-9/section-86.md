@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to the following provisions of this section, a person (D) shall be disqualified for being a charity trustee or trustee for a charity if—
 
 - (a) D has been convicted of any offence involving dishonesty or deception;
-- (b) D has been adjudged bankrupt or sequestration of D's estate has been awarded and (in either case) D has not been discharged or D is the subject of a bankruptcy restrictions order[^key-faadc23b6975cfece8c7209ce0e2a6f9];
+- (b) D has been adjudged bankrupt or sequestration of D's estate has been awarded and (in either case) D has not been discharged or D is the subject of a bankruptcy restrictions order[^c-faadc23b6975cfece8c7209ce0e2a6f9];
 - (c) D has made a composition or arrangement with, or granted a trust deed for, creditors and has not been discharged in respect of it;
 - (d) D has been removed from the office of charity trustee or trustee for a charity by an order made—
   - (i) by the Commission under section 33(2)(i), or
@@ -38,18 +38,18 @@ summary: ''
   on the grounds of any misconduct or mismanagement in the administration of the charity for which D was responsible or to which D was privy, or which D by conduct contributed to or facilitated;
 - (f) D has been removed, under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10) or under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40) (powers of Court of Session to deal with management of charities), from being concerned in the management or control of any body;
 - (g) D is subject to a disqualification order or a disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002 (NI 4) or the Company Directors Disqualification Act 1986 (c. 46).
-- (h)[^key-955d8e3fc6e6544ee405339a0aef3a29] D is subject to—
+- (h)[^c-955d8e3fc6e6544ee405339a0aef3a29] D is subject to—
   - (i) a moratorium period under a debt relief order; or
   - (ii) a debt relief restrictions order.
 
 (2) In subsection (1)—
 
 - (a) paragraph (a) applies whether the conviction occurred before or after the commencement of that subsection, but does not apply in relation to any conviction which is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (NI 27);
-- (b) paragraph (b) applies whether the adjudication of bankruptcy , the sequestration or the making of the bankruptcy restrictions order[^key-2607f6c9a30f9cdcc3dd89951ff4b061] occurred before or after the commencement of that subsection;
+- (b) paragraph (b) applies whether the adjudication of bankruptcy , the sequestration or the making of the bankruptcy restrictions order[^c-2607f6c9a30f9cdcc3dd89951ff4b061] occurred before or after the commencement of that subsection;
 - (c) paragraph (c) applies whether the composition or arrangement was made, or the trust deed was granted, before or after the commencement of that subsection; and
-- (d) paragraphs (d) to (h)[^key-79c2e7784b75bb699efbe09d22cb3fb8] apply in relation to orders made and removals effected before or after the commencement of that subsection.
+- (d) paragraphs (d) to (h)[^c-79c2e7784b75bb699efbe09d22cb3fb8] apply in relation to orders made and removals effected before or after the commencement of that subsection.
 
-(3) Where (apart from this subsection) D is disqualified under subsection (1)(b)or (h)[^key-e0316f19228d415a6ea454bda925d916] for being a charity trustee or trustee for any charity which is a company, D shall not be so disqualified if leave has been granted under Article 15 of the Company Directors Disqualification (Northern Ireland) Order 2002 (NI 4) or section 11 of the Company Directors Disqualification Act 1986 (c. 46) (undischarged bankrupts) for D to act as director of the charity; and similarly D shall not be disqualified under subsection (1)(g) for being a charity trustee or trustee for such a charity if—
+(3) Where (apart from this subsection) D is disqualified under subsection (1)(b)or (h)[^c-e0316f19228d415a6ea454bda925d916] for being a charity trustee or trustee for any charity which is a company, D shall not be so disqualified if leave has been granted under Article 15 of the Company Directors Disqualification (Northern Ireland) Order 2002 (NI 4) or section 11 of the Company Directors Disqualification Act 1986 (c. 46) (undischarged bankrupts) for D to act as director of the charity; and similarly D shall not be disqualified under subsection (1)(g) for being a charity trustee or trustee for such a charity if—
 
 - (a) in the case where D is subject to a disqualification order or a disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002, leave for the purpose of Article 3(1)(a) or 4(1)(a) of that Order has been granted for D to act as director of the charity,
 - (b) in the case where D is subject to a disqualification order or a disqualification undertaking under the Company Directors Disqualification Act 1986, leave for the purpose of section 1(1)(a) or 1A(1)(a) of that Act has been granted for D to act as a director of the charity.
@@ -83,16 +83,16 @@ and, where any person is so removed from office by an order of the Court, the Co
 
 ## Annotations
 
-[^key-faadc23b6975cfece8c7209ce0e2a6f9]: Textual amendment: Words in [s. 86(1)(b)](https://www.legislation.gov.uk/nia/2008/12/section/86/1/b) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(a)(i)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/a/i), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-faadc23b6975cfece8c7209ce0e2a6f9]: Textual amendment: Words in [s. 86(1)(b)](https://www.legislation.gov.uk/nia/2008/12/section/86/1/b) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(a)(i)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/a/i), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
 
 [^c22542521]: Textual amendment: Words in s. 86(1)(e)(i) inserted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/354/1), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 138(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/138/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c22542541]: Textual amendment: Words in s. 86(1)(e)(ii) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/354/1), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 138(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/138/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-955d8e3fc6e6544ee405339a0aef3a29]: Textual amendment: [S. 86(1)(h)](https://www.legislation.gov.uk/nia/2008/12/section/86/1/h) added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(a)(ii)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/a/ii), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-955d8e3fc6e6544ee405339a0aef3a29]: Textual amendment: [S. 86(1)(h)](https://www.legislation.gov.uk/nia/2008/12/section/86/1/h) added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(a)(ii)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/a/ii), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
 
-[^key-2607f6c9a30f9cdcc3dd89951ff4b061]: Textual amendment: Words in [s. 86(2)(b)](https://www.legislation.gov.uk/nia/2008/12/section/86/2/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(b)(i)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/b/i), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-2607f6c9a30f9cdcc3dd89951ff4b061]: Textual amendment: Words in [s. 86(2)(b)](https://www.legislation.gov.uk/nia/2008/12/section/86/2/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(b)(i)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/b/i), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
 
-[^key-79c2e7784b75bb699efbe09d22cb3fb8]: Textual amendment: Word in [s. 86(2)(d)](https://www.legislation.gov.uk/nia/2008/12/section/86/2/d) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(b)(ii)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/b/ii), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-79c2e7784b75bb699efbe09d22cb3fb8]: Textual amendment: Word in [s. 86(2)(d)](https://www.legislation.gov.uk/nia/2008/12/section/86/2/d) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(b)(ii)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/b/ii), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
 
-[^key-e0316f19228d415a6ea454bda925d916]: Textual amendment: Words in [s. 86(3)](https://www.legislation.gov.uk/nia/2008/12/section/86/3) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(c)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/c), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-e0316f19228d415a6ea454bda925d916]: Textual amendment: Words in [s. 86(3)](https://www.legislation.gov.uk/nia/2008/12/section/86/3) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(3)(c)](https://www.legislation.gov.uk/nia/2013/3/section/3/3/c), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)

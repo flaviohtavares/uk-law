@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — ELIGIBILITY POINTS ASSOCIATED WITH LOTS[^key-2648d203fd417487906a20e184cef5ee]
+## SCHEDULE 6 — ELIGIBILITY POINTS ASSOCIATED WITH LOTS[^c-2648d203fd417487906a20e184cef5ee]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 2(5)
 
-[^key-2648d203fd417487906a20e184cef5ee]
+[^c-2648d203fd417487906a20e184cef5ee]
 
 The number of eligibility points associated with a lot of a type mentioned in an entry in Column (1) of the table is the number of points shown in the corresponding entry in Column (2).
 
-[^key-2648d203fd417487906a20e184cef5ee]
+[^c-2648d203fd417487906a20e184cef5ee]
 
 The number of eligibility points associated with a selection of 2.6 GHz individual frequency lots shall be *n* – 1, where *n* is the number of lots selected.
 
@@ -36,4 +36,4 @@ The number of eligibility points associated with a selection of 2.6 GHz individu
 
 ## Annotations
 
-[^key-2648d203fd417487906a20e184cef5ee]: Commencement: Sch. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-2648d203fd417487906a20e184cef5ee]: Commencement: Sch. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

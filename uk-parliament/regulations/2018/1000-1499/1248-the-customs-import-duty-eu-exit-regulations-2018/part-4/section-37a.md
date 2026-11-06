@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations[^key-c2e58d601c9b630e6f96d0a536157dfe]
+## 37A. Persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations[^c-c2e58d601c9b630e6f96d0a536157dfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2e58d601c9b630e6f96d0a536157dfe]: Textual amendment: Reg. 37A omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/3/8)
+[^c-c2e58d601c9b630e6f96d0a536157dfe]: Textual amendment: Reg. 37A omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/3/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Publication of pharmaceutical needs assessments[^key-866d5c7d79ccd5b3947b737a1f71bddb]
+## 9. Publication of pharmaceutical needs assessments[^c-866d5c7d79ccd5b3947b737a1f71bddb]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-866d5c7d79ccd5b3947b737a1f71bddb]: Commencement: Reg. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-866d5c7d79ccd5b3947b737a1f71bddb]: Commencement: Reg. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

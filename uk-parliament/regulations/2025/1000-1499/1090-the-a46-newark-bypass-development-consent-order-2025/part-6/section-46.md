@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Trees subject to tree preservation orders, etc.[^key-4120f35054dc658a8bbbc20032aabeb4]
+## 46. Trees subject to tree preservation orders, etc.[^c-4120f35054dc658a8bbbc20032aabeb4]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4120f35054dc658a8bbbc20032aabeb4]: Commencement: Art. 46 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-4120f35054dc658a8bbbc20032aabeb4]: Commencement: Art. 46 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00096]: Footnote: Section 206(1) was amended by paragraph 11 of Schedule 8 to the Planning Act 2008.
 

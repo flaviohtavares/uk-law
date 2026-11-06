@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Private rights over land[^key-c97d30ca7573539684ecf8dabeccb905]
+## 28. Private rights over land[^c-c97d30ca7573539684ecf8dabeccb905]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-c97d30ca7573539684ecf8dabeccb905]: Commencement: Art. 28 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-c97d30ca7573539684ecf8dabeccb905]: Commencement: Art. 28 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00070]: Footnote: Section 11(1) was amended by paragraph 14(3)(a) if Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and section 186(2)(a) of the Housing and Planning Act 2016.
 

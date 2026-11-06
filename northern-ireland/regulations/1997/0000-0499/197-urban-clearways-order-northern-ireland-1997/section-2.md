@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Control of Waiting[^key-63f709f43c1deb44868ee0f88e1c0a8a]
+## 2. Control of Waiting[^c-63f709f43c1deb44868ee0f88e1c0a8a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Save as provided in Article 3, no person shall cause or permit a vehicle to wait
 
 ## Annotations
 
-[^key-63f709f43c1deb44868ee0f88e1c0a8a]: Commencement: Art. 2 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
+[^c-63f709f43c1deb44868ee0f88e1c0a8a]: Commencement: Art. 2 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)

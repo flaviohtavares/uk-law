@@ -32,11 +32,11 @@ summary: ''
 
 but this subsection is subject to the following provisions of this Act and to Part 3 of Schedule 9 to the Tribunals, Courts and Enforcement Act 2007 (transitional arrangements for pensions of certain judges and other members of the First-tier Tribunal and Upper Tribunal)[^c20861401].
 
-(1A)[^key-637f1e1a82b8394126072737bc276acd] This Part is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(1A)[^c-637f1e1a82b8394126072737bc276acd] This Part is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 *Extent: N.I.*
 
-(1B)[^key-c56ab39f48ef7044225eb32fe90e2d0d] This Part is subject to section 18 of the Public Service Pensions Act (Northern Ireland) 2014 (Northern Ireland provision restricting benefits provided under existing schemes).
+(1B)[^c-c56ab39f48ef7044225eb32fe90e2d0d] This Part is subject to section 18 of the Public Service Pensions Act (Northern Ireland) 2014 (Northern Ireland provision restricting benefits provided under existing schemes).
 
 (2) Any person—
 
@@ -92,8 +92,8 @@ and the reference in that subsection to an office being held on a salaried basis
 
 [^c20861401]: Textual amendment: Words in s. 1(1) inserted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/48/2), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 9 para. 15(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/15/3); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(d)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3))
 
-[^key-637f1e1a82b8394126072737bc276acd]: Textual amendment: S. 1(1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/16) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(i)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/i)
+[^c-637f1e1a82b8394126072737bc276acd]: Textual amendment: S. 1(1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/16) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(i)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/i)
 
-[^key-c56ab39f48ef7044225eb32fe90e2d0d]: Textual amendment: S. 1(1B) inserted (N.I.) (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 17](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/17); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-c56ab39f48ef7044225eb32fe90e2d0d]: Textual amendment: S. 1(1B) inserted (N.I.) (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 17](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/17); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c20861461]: Textual amendment: S. 1(4A)(4B) inserted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/48/2), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 9 para. 15(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/15/4); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(d)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 16 — Direct enforcement enactments[^key-870397624169593c647b8a31a24def29][^key-7147bfdbb77260b8af433df9535094a2]
+## Schedule 16 — Direct enforcement enactments[^c-870397624169593c647b8a31a24def29][^c-7147bfdbb77260b8af433df9535094a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,6 +75,6 @@ Section 150
 
 ## Annotations
 
-[^key-870397624169593c647b8a31a24def29]: Commencement: Sch. 16 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-870397624169593c647b8a31a24def29]: Commencement: Sch. 16 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7147bfdbb77260b8af433df9535094a2]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2024/13/schedule/16) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(7)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/7)
+[^c-7147bfdbb77260b8af433df9535094a2]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2024/13/schedule/16) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(7)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Meaning of “opted-out service” and “PPA opted-out service”[^key-0262c763995490624da08568a0216e05][^key-33a27232afd1cdae60ba3809b54d79fc]
+## 73. Meaning of “opted-out service” and “PPA opted-out service”[^c-0262c763995490624da08568a0216e05][^c-33a27232afd1cdae60ba3809b54d79fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0262c763995490624da08568a0216e05]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-0262c763995490624da08568a0216e05]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-33a27232afd1cdae60ba3809b54d79fc]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/7/section/73) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-33a27232afd1cdae60ba3809b54d79fc]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/7/section/73) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

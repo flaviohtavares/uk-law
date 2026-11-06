@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Transfer of pension account entries[^key-eb3694075d47e2130db318044d838afd]
+## 149. Transfer of pension account entries[^c-eb3694075d47e2130db318044d838afd]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb3694075d47e2130db318044d838afd]: Commencement: [Reg. 149](https://www.legislation.gov.uk/uksi/2014/2848/regulation/149) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-eb3694075d47e2130db318044d838afd]: Commencement: [Reg. 149](https://www.legislation.gov.uk/uksi/2014/2848/regulation/149) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

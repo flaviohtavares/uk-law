@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Power to merge schemes[^key-80b9d0e93e3d361d09420b0cc393eb15]
+## 5. Power to merge schemes[^c-80b9d0e93e3d361d09420b0cc393eb15]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (power to merge police pension schemes) has effect.
 
 ## Annotations
 
-[^key-80b9d0e93e3d361d09420b0cc393eb15]: Commencement: S. 5 in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/a)
+[^c-80b9d0e93e3d361d09420b0cc393eb15]: Commencement: S. 5 in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/a)

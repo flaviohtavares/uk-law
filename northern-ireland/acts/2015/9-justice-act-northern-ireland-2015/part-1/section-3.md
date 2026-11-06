@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Directions as to distribution of business[^key-bd2adfca46611cf504ff65441508d7ce]
+## 3. Directions as to distribution of business[^c-bd2adfca46611cf504ff65441508d7ce]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd2adfca46611cf504ff65441508d7ce]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2015/9/section/3) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/387/article/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bd2adfca46611cf504ff65441508d7ce]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2015/9/section/3) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/387/article/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

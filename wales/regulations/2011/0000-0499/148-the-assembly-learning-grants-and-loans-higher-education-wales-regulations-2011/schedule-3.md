@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — INFORMATION[^key-b537de605800a14d54234ed1239dbf70]
+## SCHEDULE 3 — INFORMATION[^c-b537de605800a14d54234ed1239dbf70]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Regulations 11, 81, 106 and 120
 
-**1.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b537de605800a14d54234ed1239dbf70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/148) revoked (1.9.2012) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (S.I. 2011/886)](https://www.legislation.gov.uk/wsi/2011/886), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/1) (with [reg. 3(10)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/10)[(12)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/12))
+[^c-b537de605800a14d54234ed1239dbf70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/148) revoked (1.9.2012) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (S.I. 2011/886)](https://www.legislation.gov.uk/wsi/2011/886), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/1) (with [reg. 3(10)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/10)[(12)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/12))

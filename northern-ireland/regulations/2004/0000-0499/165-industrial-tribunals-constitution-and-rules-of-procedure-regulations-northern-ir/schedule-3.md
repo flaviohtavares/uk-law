@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — INDUSTRIAL TRIBUNALS (EQUAL VALUE) COMPLEMENTARY RULES OF PROCEDURE[^key-2a5468f6af0b2384dff9dd1b131b476c]
+## SCHEDULE 3 — INDUSTRIAL TRIBUNALS (EQUAL VALUE) COMPLEMENTARY RULES OF PROCEDURE[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *Extent: N.I.*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulations 2(2) and (6), 9, 10(3) and (4) and 11(2)
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]
+[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *For use only in proceedings involving an equal value claim*
 
-### PART I — ordinary cases[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### PART I — ordinary cases[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
-#### 1. Modification of rule 4 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Insertion of rule 10A into Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 1. Modification of rule 4 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Modification of rule 11 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 2. Insertion of rule 10A into Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Modification of rule 12 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 3. Modification of rule 11 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Modification of rule 14 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 4. Modification of rule 12 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Modification of rule 15 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 5. Modification of rule 14 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — national security cases[^key-2a5468f6af0b2384dff9dd1b131b476c]
-
-#### 1. Modification of rule 4 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 6. Modification of rule 15 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Substitution of rule 7B in Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### PART II — national security cases[^c-2a5468f6af0b2384dff9dd1b131b476c]
+
+#### 1. Modification of rule 4 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Modification of rule 11 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 2. Substitution of rule 7B in Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Modification of rule 12 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+#### 3. Modification of rule 11 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Modification of rule 12 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

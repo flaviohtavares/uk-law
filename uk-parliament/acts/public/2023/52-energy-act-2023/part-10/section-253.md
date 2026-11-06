@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Regulations under Part 10[^key-b70201188bfbf15f28dab2dce588a688]
+## 253. Regulations under Part 10[^c-b70201188bfbf15f28dab2dce588a688]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b70201188bfbf15f28dab2dce588a688]: Commencement: [S. 253](https://www.legislation.gov.uk/ukpga/2023/52/section/253) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)
+[^c-b70201188bfbf15f28dab2dce588a688]: Commencement: [S. 253](https://www.legislation.gov.uk/ukpga/2023/52/section/253) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)

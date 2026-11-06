@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Correction of errors in examiner’s recommendations[^key-91e05cee299d17ca8d9cebaf3e32fb70]
+## 24. Correction of errors in examiner’s recommendations[^c-91e05cee299d17ca8d9cebaf3e32fb70]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e05cee299d17ca8d9cebaf3e32fb70]: Commencement: Reg. 24 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-91e05cee299d17ca8d9cebaf3e32fb70]: Commencement: Reg. 24 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

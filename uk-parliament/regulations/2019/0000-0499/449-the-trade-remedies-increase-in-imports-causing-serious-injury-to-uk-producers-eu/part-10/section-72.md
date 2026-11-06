@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72.[^key-ba04641ed474a99a59bb5e9d7d428008]
+## 72.[^c-ba04641ed474a99a59bb5e9d7d428008]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 44 (other exception) has effect as if—
 
 ## Annotations
 
-[^key-ba04641ed474a99a59bb5e9d7d428008]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2019/449/regulation/72) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-ba04641ed474a99a59bb5e9d7d428008]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2019/449/regulation/72) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

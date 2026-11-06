@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Agreements and undertakings connected with the 1994 Act or the construction or maintenance of Line One[^key-f851feea5a0dd5c51230232a7c96e0e4]
+## 85. Agreements and undertakings connected with the 1994 Act or the construction or maintenance of Line One[^c-f851feea5a0dd5c51230232a7c96e0e4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 17 (which relates to certain agreements and undertakings connected with
 
 ## Annotations
 
-[^key-f851feea5a0dd5c51230232a7c96e0e4]: Commencement: Art. 85 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-f851feea5a0dd5c51230232a7c96e0e4]: Commencement: Art. 85 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

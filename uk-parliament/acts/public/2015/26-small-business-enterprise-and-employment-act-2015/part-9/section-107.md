@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Reports of office-holders on conduct of directors of insolvent companies[^key-5af36eaf670e8a9155a709ee9d229bf9][^key-6aac8b74279a1dfdb4639bd5fa5c3198]
+## 107. Reports of office-holders on conduct of directors of insolvent companies[^c-5af36eaf670e8a9155a709ee9d229bf9][^c-6aac8b74279a1dfdb4639bd5fa5c3198]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5af36eaf670e8a9155a709ee9d229bf9]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2015/26/section/107) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-5af36eaf670e8a9155a709ee9d229bf9]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2015/26/section/107) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-6aac8b74279a1dfdb4639bd5fa5c3198]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2015/26/section/107) in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/2))
+[^c-6aac8b74279a1dfdb4639bd5fa5c3198]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2015/26/section/107) in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/2))

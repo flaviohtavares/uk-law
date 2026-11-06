@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Supply and delivery of certain goods[^key-529a5be68af4f18930490c73e8dd91fd]
+## 25. Supply and delivery of certain goods[^c-529a5be68af4f18930490c73e8dd91fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-529a5be68af4f18930490c73e8dd91fd]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-529a5be68af4f18930490c73e8dd91fd]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

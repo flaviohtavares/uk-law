@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where a house has been purchased at restricted value in pursuance of a compulsory purchase order made by virtue of section 121[^key-9642575727ca2375669dcc6aab84fde5], or in pursuance of an order under paragraph 2(1) of Schedule 2 to the Land Compensation (Scotland) Act 1963, or has been vacated in pursuance of a demolition order under section 115 or a closing order under section 114 or 119, then if—
+(1) Where a house has been purchased at restricted value in pursuance of a compulsory purchase order made by virtue of section 121[^c-9642575727ca2375669dcc6aab84fde5], or in pursuance of an order under paragraph 2(1) of Schedule 2 to the Land Compensation (Scotland) Act 1963, or has been vacated in pursuance of a demolition order under section 115 or a closing order under section 114 or 119, then if—
 
 - (a) on the relevant date and throughout the qualifying period the house was occupied as a private dwelling, and the person so occupying the house (or, if during that period it was so occupied by two or more persons in succession, each of those persons) was a person entitled to an interest in that house or a member of the family of a person so entitled, and
 - (b) the full compulsory purchase value of the interest is greater than its restricted value,
@@ -36,4 +36,4 @@ the authority concerned shall make in respect of that interest a payment of an a
 
 ## Annotations
 
-[^key-9642575727ca2375669dcc6aab84fde5]: Textual amendment: Words in s. 308(1) substituted (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 6 para. 11](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/11) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-9642575727ca2375669dcc6aab84fde5]: Textual amendment: Words in s. 308(1) substituted (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 6 para. 11](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/11) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

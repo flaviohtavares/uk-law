@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52ZB. Advance payments: land subject to mortgage exceeding 90% threshold[^key-de5ac44a05564f8d88e18ece15aa5ec3]
+## 52ZB. Advance payments: land subject to mortgage exceeding 90% threshold[^c-de5ac44a05564f8d88e18ece15aa5ec3]
 
 *Extent: E+W*
 
-(1)[^key-38e368fe8d1f3aea6304c32aa6f3abaa] This section applies if—
+(1)[^c-38e368fe8d1f3aea6304c32aa6f3abaa] This section applies if—
 
 - (a) a request is made for an advance payment under section 52(1) in respect of land,
 - (b) the authority would be required by section 52(1A) or (1B) to make the advance payment if it were not for this section, and
@@ -53,7 +53,7 @@ summary: ''
 
 - (a) the acquiring authority estimated the compensation,
 - (b) it appears to the acquiring authority that their estimate was too low and they revise the estimate,
-- (c) the condition in section 52ZA(1)(c)[^key-5b0da8debfbb1c4411e2047849d290a4] would have been satisfied if the revised estimate had been used instead of their estimate, and
+- (c) the condition in section 52ZA(1)(c)[^c-5b0da8debfbb1c4411e2047849d290a4] would have been satisfied if the revised estimate had been used instead of their estimate, and
 - (d) a request is made by the claimant in accordance with section 52(2).
 
 (10) The provisions of section 52ZA(2) to (5) must be applied on the basis of the revised estimate.
@@ -68,8 +68,8 @@ any balance found to be due to a mortgagee on the basis of the revised estimate 
 
 ## Annotations
 
-[^key-de5ac44a05564f8d88e18ece15aa5ec3]: Textual amendment: Ss. 52ZA-52ZC inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 104(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/104/3); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-de5ac44a05564f8d88e18ece15aa5ec3]: Textual amendment: Ss. 52ZA-52ZC inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 104(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/104/3); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
 
-[^key-38e368fe8d1f3aea6304c32aa6f3abaa]: Textual amendment: [S. 52ZB(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/52ZB/1) substituted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 195(4)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/195/4/a), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-38e368fe8d1f3aea6304c32aa6f3abaa]: Textual amendment: [S. 52ZB(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/52ZB/1) substituted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 195(4)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/195/4/a), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
 
-[^key-5b0da8debfbb1c4411e2047849d290a4]: Textual amendment: Words in [s. 52ZB(9)(c)](https://www.legislation.gov.uk/ukpga/1973/26/section/52ZB/9/c) substituted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 195(4)(b)](https://www.legislation.gov.uk/ukpga/2016/22/section/195/4/b), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-5b0da8debfbb1c4411e2047849d290a4]: Textual amendment: Words in [s. 52ZB(9)(c)](https://www.legislation.gov.uk/ukpga/1973/26/section/52ZB/9/c) substituted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 195(4)(b)](https://www.legislation.gov.uk/ukpga/2016/22/section/195/4/b), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

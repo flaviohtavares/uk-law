@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-5232e6894f58072acc7a9916da885e1b][^key-6c889f274b4f04ada481c1fe7a9fe1fd] Where in pursuance of this Part a conveyance or grant is executed by a local authority [^c15066231]. . . or a housing association (“the landlord”) of a dwelling-house situated in—
+(1)[^c-5232e6894f58072acc7a9916da885e1b][^c-6c889f274b4f04ada481c1fe7a9fe1fd] Where in pursuance of this Part a conveyance or grant is executed by a local authority [^c15066231]. . . or a housing association (“the landlord”) of a dwelling-house situated in—
 
 - (a) a National Park,
 - (b) an area designated under section 82 of the Countryside and Rights of Way Act 2000[^c15066241] as an area of outstanding natural beauty, or
@@ -60,9 +60,9 @@ or has had the one in part or parts of that period and the other in the remainde
 
 ## Annotations
 
-[^key-5232e6894f58072acc7a9916da885e1b]: Modification: [S. 157(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/157/1) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/9)
+[^c-5232e6894f58072acc7a9916da885e1b]: Modification: [S. 157(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/157/1) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/9)
 
-[^key-6c889f274b4f04ada481c1fe7a9fe1fd]: Modification: [S. 157(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/157/1) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 49](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/49) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-6c889f274b4f04ada481c1fe7a9fe1fd]: Modification: [S. 157(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/157/1) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 49](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/49) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
 [^c15066231]: Textual amendment: Words in s. 157(1) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 

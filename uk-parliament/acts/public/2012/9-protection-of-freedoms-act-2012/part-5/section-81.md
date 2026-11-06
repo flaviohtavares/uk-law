@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Additional grounds for refusing an application to be registered[^key-8faf25e8c479277cf43d79114913f3a4]
+## 81. Additional grounds for refusing an application to be registered[^c-8faf25e8c479277cf43d79114913f3a4]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ After subsection (3) of section 120AA of the Police Act 1997 (refusal, etc. of r
 
 ## Annotations
 
-[^key-8faf25e8c479277cf43d79114913f3a4]: Commencement: S. 81 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/t)
+[^c-8faf25e8c479277cf43d79114913f3a4]: Commencement: S. 81 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/t)

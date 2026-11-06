@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 372. Payment of costs of the Welsh Ministers[^key-90a241a5669233251399b0fc9af75655]
+## 372. Payment of costs of the Welsh Ministers[^c-90a241a5669233251399b0fc9af75655]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a241a5669233251399b0fc9af75655]: Commencement: S. 372 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-90a241a5669233251399b0fc9af75655]: Commencement: S. 372 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

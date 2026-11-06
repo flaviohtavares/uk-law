@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1) [^key-e264d2b21ee5973609b21d2fa1a965c7]...The proper officer of the relevant council [^c21340961] must ensure the information statement and the specified documents are—
+(1) [^c-e264d2b21ee5973609b21d2fa1a965c7]...The proper officer of the relevant council [^c21340961] must ensure the information statement and the specified documents are—
 
 - (a) published on the website of the relevant council; and
 - (b) made available during the referendum period for inspection—
   - (i) at the principal offices of the relevant council; and
-  - (ii) where the relevant council controls any premises which are open to the public in the referendum area, at such of those premises as the council considers appropriate having regard to the desirability of ensuring a geographical distribution of premises where the statement and documents are made available, provided that in all cases they are available at least at one such premises; and[^key-6d3ff6a93784731b0d71ebdeb9a229c5]
+  - (ii) where the relevant council controls any premises which are open to the public in the referendum area, at such of those premises as the council considers appropriate having regard to the desirability of ensuring a geographical distribution of premises where the statement and documents are made available, provided that in all cases they are available at least at one such premises; and[^c-6d3ff6a93784731b0d71ebdeb9a229c5]
 - (c) where regulation 17 applies, and subject to paragraph (3A), made available during the referendum period in such other manner if any as the proper officer considers necessary to bring them to the attention of persons likely to be entitled to vote in the business referendum.
 
-(1A)[^key-3b3905c0064dc5856a97730da7817a4a] The information statement and the specified documents must be published in accordance with paragraph (1)(a) not fewer than—
+(1A)[^c-3b3905c0064dc5856a97730da7817a4a] The information statement and the specified documents must be published in accordance with paragraph (1)(a) not fewer than—
 
 - (a) where regulation 17 applies, 56 days before the date on which the referendums will be held (subject to paragraph 3A)); or
 - (b) in any other case, 28 days before the date on which the referendum will be held.
@@ -40,12 +40,12 @@ summary: ''
 (3) For the purposes of this regulation—
 
 - (a) “the information statement” is a statement that specifies—
-  - (i) that a referendum will be held and, where regulation 17 applies, that two referendums will be held on the same date one of which is a business referendum;[^key-bfd524065f032f8c6b073467686561bc]
-  - (ii) the date on which the referendum or referendums[^key-927f28eb106f6a90890fe7bca3b7ce4b] will be held;
-  - (iii) the question to be asked in the referendum or referendums[^key-6581c2aa2f833057914e7f9f3dc756cd];
+  - (i) that a referendum will be held and, where regulation 17 applies, that two referendums will be held on the same date one of which is a business referendum;[^c-bfd524065f032f8c6b073467686561bc]
+  - (ii) the date on which the referendum or referendums[^c-927f28eb106f6a90890fe7bca3b7ce4b] will be held;
+  - (iii) the question to be asked in the referendum or referendums[^c-6581c2aa2f833057914e7f9f3dc756cd];
   - (iv) a map of the referendum area;
   - (v) where the referendum area is not identical to the neighbourhood area, a map of the neighbourhood area;
-  - (vi)[^key-94a6532f8ef1367d40943ef99ddcfafc] a description of persons entitled to vote in the referendum and, where regulation 17 applies, each of the referendums;
+  - (vi)[^c-94a6532f8ef1367d40943ef99ddcfafc] a description of persons entitled to vote in the referendum and, where regulation 17 applies, each of the referendums;
   - (vii) the referendum expenses limit that will apply in relation to the referendum or, where regulation 17 applies, as the overall limit for both referendums, and the number of persons by reference to which that limit has been calculated;
   - (viii) that the referendum or referendums will be conducted in accordance with procedures similar to those used at local government elections; and
   - (ix) the address and times at which a copy of the specified documents can be inspected, including, where regulation 17 applies, the specified documents relating to the business referendum; and
@@ -60,13 +60,13 @@ summary: ''
   - (v) a statement that sets out general information as to town and country planning (including neighbourhood planning) and the referendum, which is prepared having regard to any guidance issued by the Secretary of State; and
   - (vi) in the case of a community right to build order, a statement that sets out details of any enfranchisement right [^c21340971] which are not to be exercisable in relation to land the development of which is to be authorised by the draft order, and the properties, or types of properties, in relation to which, the qualifying body proposes that right is not exercisable.
 
-(3A)[^key-4262a4aed69fe4c3c415ae96776bc4d3] Where regulation 17 applies, the referendum expenses limit in paragraph (3)(a)(vii) shall be published and made available in accordance with paragraph (1) as soon as practicable after the initial registration list is received by the business registration officer.
+(3A)[^c-4262a4aed69fe4c3c415ae96776bc4d3] Where regulation 17 applies, the referendum expenses limit in paragraph (3)(a)(vii) shall be published and made available in accordance with paragraph (1) as soon as practicable after the initial registration list is received by the business registration officer.
 
 (3B) Where regulation 17 applies, this regulation does not require publication or making available of more than one statement, nor of the same document more than once, except in so far as is necessary to bring the information set out in paragraph (3) in respect of both referendums to the attention of persons entitled to vote in either of the referendums.
 
 (3C) In this regulation “referendum expenses limit” has the same meaning as in regulation 6(1).
 
-(4) The days mentioned in paragraph (5) are to be disregarded in calculating the period [^key-d631c502c067752b0940840906711e1c]... referred to in paragraph (1).
+(4) The days mentioned in paragraph (5) are to be disregarded in calculating the period [^c-d631c502c067752b0940840906711e1c]... referred to in paragraph (1).
 
 (5) The days mentioned in this paragraph are—
 
@@ -76,24 +76,24 @@ summary: ''
 
 ## Annotations
 
-[^key-e264d2b21ee5973609b21d2fa1a965c7]: Textual amendment: Words in reg. 4(1) omitted (6.4.2013) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/2/a)
+[^c-e264d2b21ee5973609b21d2fa1a965c7]: Textual amendment: Words in reg. 4(1) omitted (6.4.2013) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/2/a)
 
 [^c21340961]: Marginal citation: “Relevant council” is defined in paragraph 14(3) of Schedule 4B to the 1990 Act.
 
-[^key-6d3ff6a93784731b0d71ebdeb9a229c5]: Textual amendment: Reg. 4(1)(c) and word inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/2/b)
+[^c-6d3ff6a93784731b0d71ebdeb9a229c5]: Textual amendment: Reg. 4(1)(c) and word inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/2/b)
 
-[^key-3b3905c0064dc5856a97730da7817a4a]: Textual amendment: Reg. 4(1A)(1B) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/3)
+[^c-3b3905c0064dc5856a97730da7817a4a]: Textual amendment: Reg. 4(1A)(1B) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/3)
 
-[^key-bfd524065f032f8c6b073467686561bc]: Textual amendment: Words in reg. 4(3)(a)(i) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/4)
+[^c-bfd524065f032f8c6b073467686561bc]: Textual amendment: Words in reg. 4(3)(a)(i) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/4)
 
-[^key-927f28eb106f6a90890fe7bca3b7ce4b]: Textual amendment: Words in reg. 4(3)(a)(ii) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/5)
+[^c-927f28eb106f6a90890fe7bca3b7ce4b]: Textual amendment: Words in reg. 4(3)(a)(ii) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/5)
 
-[^key-6581c2aa2f833057914e7f9f3dc756cd]: Textual amendment: Words in reg. 4(3)(a)(iii) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/6)
+[^c-6581c2aa2f833057914e7f9f3dc756cd]: Textual amendment: Words in reg. 4(3)(a)(iii) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/6)
 
-[^key-94a6532f8ef1367d40943ef99ddcfafc]: Textual amendment: Reg. 4(3)(a)(vi)-(ix) substituted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/7)
+[^c-94a6532f8ef1367d40943ef99ddcfafc]: Textual amendment: Reg. 4(3)(a)(vi)-(ix) substituted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/7)
 
 [^c21340971]: Marginal citation: *See* paragraph 11(2) of Schedule 4C to the 1990 Act and regulation 28 of [S.I. 2012/637](https://www.legislation.gov.uk/uksi/2012/637).
 
-[^key-4262a4aed69fe4c3c415ae96776bc4d3]: Textual amendment: Reg. 4(3A)-(3C) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/8)
+[^c-4262a4aed69fe4c3c415ae96776bc4d3]: Textual amendment: Reg. 4(3A)-(3C) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/8)
 
-[^key-d631c502c067752b0940840906711e1c]: Textual amendment: Words in reg. 4(4) omitted (6.4.2013) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/9)
+[^c-d631c502c067752b0940840906711e1c]: Textual amendment: Words in reg. 4(4) omitted (6.4.2013) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2013/798/regulation/4/9)

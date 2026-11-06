@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.3. Final admission/rejection of proofs[^key-4d1a719b4ed72db42fde2ed9044490a3]
+## 11.3. Final admission/rejection of proofs[^c-4d1a719b4ed72db42fde2ed9044490a3]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The insolvency practitioner is not obliged to deal with proofs lodged after the last date for proving; but he may do so, if he thinks fit.
 
-(3)[^key-480b6da60b2c40d17efa572c66e4e36a] In the declaration of a dividend no payment shall be made more than once by virtue of the same debt.
+(3)[^c-480b6da60b2c40d17efa572c66e4e36a] In the declaration of a dividend no payment shall be made more than once by virtue of the same debt.
 
 (4) Subject to Rule 11.11, where—
 
@@ -35,6 +35,6 @@ payment shall only be made to the creditor.
 
 ## Annotations
 
-[^key-4d1a719b4ed72db42fde2ed9044490a3]: Commencement: Rule 11.3 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4d1a719b4ed72db42fde2ed9044490a3]: Commencement: Rule 11.3 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-480b6da60b2c40d17efa572c66e4e36a]: Textual amendment: Rule 11.3(3)(4) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [10(3)](https://www.legislation.gov.uk/uksi/2002/1307/rule/10/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-480b6da60b2c40d17efa572c66e4e36a]: Textual amendment: Rule 11.3(3)(4) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [10(3)](https://www.legislation.gov.uk/uksi/2002/1307/rule/10/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

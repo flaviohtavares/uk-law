@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. CMA directions to other enforcers[^key-5d225afa95da35f8a4a35724c2aa40c2][^key-b4960235b2e249c03316c2a0b1e23b09]
+## 154. CMA directions to other enforcers[^c-5d225afa95da35f8a4a35724c2aa40c2][^c-b4960235b2e249c03316c2a0b1e23b09]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d225afa95da35f8a4a35724c2aa40c2]: Commencement: S. 154 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5d225afa95da35f8a4a35724c2aa40c2]: Commencement: S. 154 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b4960235b2e249c03316c2a0b1e23b09]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2024/13/section/154) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-b4960235b2e249c03316c2a0b1e23b09]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2024/13/section/154) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

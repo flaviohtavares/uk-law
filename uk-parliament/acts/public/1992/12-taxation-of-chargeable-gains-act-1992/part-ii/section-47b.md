@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47B. Disposals made by persons after leaving cash basis[^key-097fa8bf089f98b0a78cb6bb07b84947]
+## 47B. Disposals made by persons after leaving cash basis[^c-097fa8bf089f98b0a78cb6bb07b84947]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-097fa8bf089f98b0a78cb6bb07b84947]: Textual amendment: S. 47B omitted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/47)
+[^c-097fa8bf089f98b0a78cb6bb07b84947]: Textual amendment: S. 47B omitted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/47)

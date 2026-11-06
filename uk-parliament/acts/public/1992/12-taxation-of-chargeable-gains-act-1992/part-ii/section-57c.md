@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57C. Gains and losses on disposals of residential property interests[^key-1475515f87abdaeafee978bc996f092c]
+## 57C. Gains and losses on disposals of residential property interests[^c-1475515f87abdaeafee978bc996f092c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1475515f87abdaeafee978bc996f092c]: Textual amendment: Pt. 2 Ch. 7 omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/7)
+[^c-1475515f87abdaeafee978bc996f092c]: Textual amendment: Pt. 2 Ch. 7 omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/7)

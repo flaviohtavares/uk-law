@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Construction and maintenance of new or altered means of access[^key-7efa283c22207bdbf7ea0dd4dce49e71]
+## 11. Construction and maintenance of new or altered means of access[^c-7efa283c22207bdbf7ea0dd4dce49e71]
 
 *Extent: E+W*
 
@@ -41,10 +41,10 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 (6) Nothing in this article—
 
 - (a) prejudices the operation of section 87 of the 1991 Act (prospectively maintainable highways) and the undertaker is not by reason of any duty under that section to maintain a street to be taken to be a street authority in relation to that street for the purposes of Part 3 of that Act; or
-- (b) has effect in relation to street works with regard to which Part 3 of the 1991 Act applies[^key-b7174ec5ad4c9e0cbcdf7b720415e8f8].
+- (b) has effect in relation to street works with regard to which Part 3 of the 1991 Act applies[^c-b7174ec5ad4c9e0cbcdf7b720415e8f8].
 
 ## Annotations
 
-[^key-7efa283c22207bdbf7ea0dd4dce49e71]: Commencement: Art. 11 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-7efa283c22207bdbf7ea0dd4dce49e71]: Commencement: Art. 11 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-b7174ec5ad4c9e0cbcdf7b720415e8f8]: Textual amendment: Word in [art. 11(6)(b)](https://www.legislation.gov.uk/uksi/2019/1315/article/11/6/b) substituted (19.8.2020) by [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)
+[^c-b7174ec5ad4c9e0cbcdf7b720415e8f8]: Textual amendment: Word in [art. 11(6)(b)](https://www.legislation.gov.uk/uksi/2019/1315/article/11/6/b) substituted (19.8.2020) by [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Assignment of 2.6 GHz paired frequency lots, 2.6 GHz concurrent low power 10 MHz lots and 2.6 GHz concurrent low power 20 MHz lots in the fourth special case[^key-0929aa10506d199cdecaed58438ec0ba]
+## 83. Assignment of 2.6 GHz paired frequency lots, 2.6 GHz concurrent low power 10 MHz lots and 2.6 GHz concurrent low power 20 MHz lots in the fourth special case[^c-0929aa10506d199cdecaed58438ec0ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0929aa10506d199cdecaed58438ec0ba]: Commencement: Reg. 83 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-0929aa10506d199cdecaed58438ec0ba]: Commencement: Reg. 83 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

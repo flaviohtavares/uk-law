@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Advance application for registration as a securitisation repository[^key-2ff6b1ddc2aec0b7392e3fc3a8508c3e]
+## 30. Advance application for registration as a securitisation repository[^c-2ff6b1ddc2aec0b7392e3fc3a8508c3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff6b1ddc2aec0b7392e3fc3a8508c3e]: Commencement: Reg. 30 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-2ff6b1ddc2aec0b7392e3fc3a8508c3e]: Commencement: Reg. 30 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

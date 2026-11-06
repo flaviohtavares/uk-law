@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Children’s residential care services: profit limitation[^key-d58ad5519ad757814c25ab157195c0c1]
+## 27. Children’s residential care services: profit limitation[^c-d58ad5519ad757814c25ab157195c0c1]
 
 *Extent: S*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d58ad5519ad757814c25ab157195c0c1]: Commencement: S. 27 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-d58ad5519ad757814c25ab157195c0c1]: Commencement: S. 27 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

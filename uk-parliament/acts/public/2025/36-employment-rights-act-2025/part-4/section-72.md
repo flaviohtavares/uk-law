@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Period after which industrial action ballot ceases to be effective[^key-2c9d15e9aca681d2b3cfffd353e8cdf7]
+## 72. Period after which industrial action ballot ceases to be effective[^c-2c9d15e9aca681d2b3cfffd353e8cdf7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 234 of the Trade Union and Labour Relations (Consolidation) Act 1992 
 
 ## Annotations
 
-[^key-2c9d15e9aca681d2b3cfffd353e8cdf7]: Commencement: S. 72 in force at 18.2.2026, see [s. 159(2)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/i) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/9))
+[^c-2c9d15e9aca681d2b3cfffd353e8cdf7]: Commencement: S. 72 in force at 18.2.2026, see [s. 159(2)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/i) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/9))

@@ -30,18 +30,18 @@ Section 22.
 
 (2) Sub-paragraph (1) does not apply to the repayment of the principal of, or interest on, a loan made to the governing body.
 
-#### Obligations of local authorities as regards provision of sites and buildings (otherwise than in connection with statutory proposals)[^key-570ae5afeec7f2b1ffee877e975cdee5]
+#### Obligations of local authorities as regards provision of sites and buildings (otherwise than in connection with statutory proposals)[^c-570ae5afeec7f2b1ffee877e975cdee5]
 
-**2.** (1) In the case of a foundation, voluntary controlled or foundation special school, the local authority[^key-5177265949adaa73e26402711f36dc2e] shall provide—
+**2.** (1) In the case of a foundation, voluntary controlled or foundation special school, the local authority[^c-5177265949adaa73e26402711f36dc2e] shall provide—
 
 - (a) any new site which is to be provided in addition to, or instead of, the school’s existing site (or part of its existing site), and
 - (b) any buildings which are to form part of the school premises.
 
 (2) Sub-paragraph (1) does not—
 
-- (a)[^key-577452fa6b9c4cb53fec052b44bb3371] apply in relation to the provision of any site or buildings which—
+- (a)[^c-577452fa6b9c4cb53fec052b44bb3371] apply in relation to the provision of any site or buildings which—
   - (i) in the case of a school in England, the authority or the person by whom any proposals were made are required to provide by virtue of Part 3 of Schedule 2 to the Education and Inspections Act 2006 (provision of premises in connection with proposals for establishment of school) or by virtue of regulations under section 24 of that Act (implementation of proposals for alteration of school), or
-  - (ii) in the case of a school in Wales, the authority or the person by whom proposals were made is required to provide by virtue of Part 2 of Schedule 3 to the School Standards and Organisation (Wales) Act 2013 (provision of premises and other assistance)[^key-76022ec0c10cce5991b72e79444e2c08]; or
+  - (ii) in the case of a school in Wales, the authority or the person by whom proposals were made is required to provide by virtue of Part 2 of Schedule 3 to the School Standards and Organisation (Wales) Act 2013 (provision of premises and other assistance)[^c-76022ec0c10cce5991b72e79444e2c08]; or
 - (b) require the local authority to finance the acquisition by the governing body of any site or buildings provided otherwise than by the authority.
 
 (3) Where a site is provided for a school under this paragraph, the local authority shall transfer their interest in the site, and in any buildings on the site which are to form part of the school premises—
@@ -74,7 +74,7 @@ and for the purposes of any agreed determination under sub-paragraph (6) regard 
 - (a) the determination is made by the Secretary of State, and
 - (b) he is satisfied that steps have been taken to protect the interests of the beneficiaries under the trust.
 
-(10) Sub-paragraph (6) shall apply for the purpose of compensating the authority notified under that sub-paragraph only in relation to such part of the sum mentioned in sub-paragraph (6)(b) (if any) as remains after the application of paragraphs A1 to A16 or[^key-8eeefd9490cc9f5a2f70e18e4a47e12e] 1 to 3 of Schedule 22 to that sum.
+(10) Sub-paragraph (6) shall apply for the purpose of compensating the authority notified under that sub-paragraph only in relation to such part of the sum mentioned in sub-paragraph (6)(b) (if any) as remains after the application of paragraphs A1 to A16 or[^c-8eeefd9490cc9f5a2f70e18e4a47e12e] 1 to 3 of Schedule 22 to that sum.
 
 (11) In this paragraph—
 
@@ -85,7 +85,7 @@ and for the purposes of any agreed determination under sub-paragraph (6) regard 
 
 ### Part II — Voluntary aided schools
 
-#### Interpretation of Part[^key-cd30d3977636c065ff35aedb665df667]
+#### Interpretation of Part[^c-cd30d3977636c065ff35aedb665df667]
 
 **2A.** In this Part of this Schedule “**promoters**”, in relation to a school in England, means persons who are for the purposes of Schedule 2 to the Education and Inspections Act 2006 the proposers in relation to proposals for the establishment of the school.
 
@@ -101,7 +101,7 @@ and for the purposes of any agreed determination under sub-paragraph (6) regard 
 - (b) to capital expenditure necessary in consequence of the use of the school premises, in pursuance of a direction or requirement of the local authority, for purposes other than those of the school;
 - (c) to capital expenditure on the provision of any new site which the local authority is to provide by virtue of paragraph 4 of this Schedule.
 
-(3)[^key-c588e19840a2eef434214b6ebf7132b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c588e19840a2eef434214b6ebf7132b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: W*
 
@@ -213,7 +213,7 @@ the local authority and the governing body of the school may make an agreement p
 
 *Extent: E*
 
-**5.**[^c18596451][^key-cd5002c9404828425df04b4131f3c99d][^key-7233c747b7ac39458b55bcf9f13f2e65][^key-8bb0c1675239b791fdaa85a505c0b581] (1) The Secretary of State may make grants—
+**5.**[^c18596451][^c-cd5002c9404828425df04b4131f3c99d][^c-7233c747b7ac39458b55bcf9f13f2e65][^c-8bb0c1675239b791fdaa85a505c0b581] (1) The Secretary of State may make grants—
 
 - (a) to the governing body of a voluntary aided school in respect of capital expenditure incurred or to be incurred[^c18596271] by them; or
 - (b) to a relevant body in the case of such a school, in respect of capital expenditure incurred or to be incurred[^c18596421] by that body on behalf of the governing body.
@@ -266,7 +266,7 @@ whichever the Secretary of State determines to be just.
 
 *Extent: W*
 
-**5.**[^c18596791][^key-cd5002c9404828425df04b4131f3c99d] (1) The Secretary of State may make grants—
+**5.**[^c18596791][^c-cd5002c9404828425df04b4131f3c99d] (1) The Secretary of State may make grants—
 
 - (a) to the governing body of a voluntary aided school in respect of qualifying expenditure incurred by them; or
 - (b) to a relevant body in the case of such a school, in respect of qualifying expenditure incurred by that body on behalf of the governing body.
@@ -435,7 +435,7 @@ he may make a loan to the governing body for the purpose of helping them meet th
 
 - (a) a site or school buildings for a voluntary aided school in connection with—
   - (i) the implementation of any proposals for a prescribed alteration to the school published under section 28,
-  - (ia)[^key-a8a711f40ee4661133fc1fb290f889e2] the implementation of proposals made under section 42 of the School Standards and Organisation (Wales) Act 2013 to make a regulated alteration to a school, or
+  - (ia)[^c-a8a711f40ee4661133fc1fb290f889e2] the implementation of proposals made under section 42 of the School Standards and Organisation (Wales) Act 2013 to make a regulated alteration to a school, or
   - (ii) the transfer of the school to a new site, or
 - (b) a site or school buildings for a new voluntary aided school,
 
@@ -443,7 +443,7 @@ being expenses in respect of which grants may be paid under paragraph 5.
 
 (4) For the purposes of this paragraph the governing body’s share of any initial expenses shall be taken to be so much of the expenses as remains to be borne by the governing body after taking into account the amount of any grant under paragraph 5 that may be paid or payable in respect of them.
 
-(5) The preceding provisions of this paragraph shall apply for the purpose of enabling loans to be made to a relevant body (within the meaning of paragraph 5) in respect of expenses incurred by that body on behalf of the governing body as it applies to expenses incurred by the governing body; and in those provisions, as they apply in relation to a new voluntary aided school, references to the governing body are —[^key-36905f9c31e8c164e560de08233440f3]
+(5) The preceding provisions of this paragraph shall apply for the purpose of enabling loans to be made to a relevant body (within the meaning of paragraph 5) in respect of expenses incurred by that body on behalf of the governing body as it applies to expenses incurred by the governing body; and in those provisions, as they apply in relation to a new voluntary aided school, references to the governing body are —[^c-36905f9c31e8c164e560de08233440f3]
 
 - (a) in relation to England, to the promoters, and
 - (b) in relation to Wales, to the person who made the proposals under section 41(2) of the School Standards and Organisation (Wales) Act 2013.
@@ -467,7 +467,7 @@ being expenses in respect of which grants may be paid under paragraph 5.
 
 (4) In this paragraph “**the relevant purposes**” means, in relation to a transfer to a school’s foundation body, the purposes of the schools comprising the group for which that body acts.
 
-#### Meaning of “capital expenditure”[^key-512c1f849140dbfe4b440c3cfedc7f88]
+#### Meaning of “capital expenditure”[^c-512c1f849140dbfe4b440c3cfedc7f88]
 
 **9A.** (1) This paragraph applies for the purposes of this Schedule as it applies in relation to England.
 
@@ -531,27 +531,27 @@ is to be treated for the purposes of this Schedule as being, or as not being, ca
 
 ## Annotations
 
-[^key-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-577452fa6b9c4cb53fec052b44bb3371]: Textual amendment: [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/2/2/a) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 31(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/31/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
+[^c-577452fa6b9c4cb53fec052b44bb3371]: Textual amendment: [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/2/2/a) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 31(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/31/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
 
-[^key-76022ec0c10cce5991b72e79444e2c08]: Textual amendment: Words in [Sch. 3 para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/2/2/a/ii) substituted (W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 19(12)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/12/a); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-76022ec0c10cce5991b72e79444e2c08]: Textual amendment: Words in [Sch. 3 para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/2/2/a/ii) substituted (W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 19(12)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/12/a); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
 [^c14011271]: Marginal citation: [1841 c. 38](https://www.legislation.gov.uk/ukpga/1841/38).
 
 [^c14011281]: Marginal citation: [1987 c. 15](https://www.legislation.gov.uk/ukpga/1987/15).
 
-[^key-8eeefd9490cc9f5a2f70e18e4a47e12e]: Textual amendment: Words in Sch. 3 para. 2(10) inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/22); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-8eeefd9490cc9f5a2f70e18e4a47e12e]: Textual amendment: Words in Sch. 3 para. 2(10) inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/22); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-cd30d3977636c065ff35aedb665df667]: Textual amendment: Sch. 3 para. 2A and cross-heading inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 31(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/31/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
+[^c-cd30d3977636c065ff35aedb665df667]: Textual amendment: Sch. 3 para. 2A and cross-heading inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 31(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/31/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
 
 [^c18588201]: Extent: This version of this provision extends to England only; a separate version has been created for Wales.
 
 [^c18588181]: Textual amendment: Sch. 3 para. 3 substituted (E.) (1.4.2002) by [The Regulatory Reform (Voluntary Aided Schools Liabilities and Funding) (England) Order 2002 (S.I. 2002/906)](https://www.legislation.gov.uk/uksi/2002/906), [art. 5](https://www.legislation.gov.uk/uksi/2002/906/article/5) (with [arts. 13](https://www.legislation.gov.uk/uksi/2002/906/article/13), [15](https://www.legislation.gov.uk/uksi/2002/906/article/15))
 
-[^key-c588e19840a2eef434214b6ebf7132b5]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/3/3) repealed (25.5.2007 for E.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/35/2), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(j)](https://www.legislation.gov.uk/uksi/2007/935/article/7/j)
+[^c-c588e19840a2eef434214b6ebf7132b5]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/3/3) repealed (25.5.2007 for E.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/35/2), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(j)](https://www.legislation.gov.uk/uksi/2007/935/article/7/j)
 
 [^c18588211]: Extent: This version of this provision extends to Wales only; a separate version has been created for England.
 
@@ -571,11 +571,11 @@ is to be treated for the purposes of this Schedule as being, or as not being, ca
 
 [^c18596451]: Extent: This version of this provision extends to England only; a separate version has been created for Wales.
 
-[^key-cd5002c9404828425df04b4131f3c99d]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/5) applied (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/2/paragraph/29/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(n)](https://www.legislation.gov.uk/uksi/2007/935/article/7/n)
+[^c-cd5002c9404828425df04b4131f3c99d]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/5) applied (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/2/paragraph/29/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(n)](https://www.legislation.gov.uk/uksi/2007/935/article/7/n)
 
-[^key-7233c747b7ac39458b55bcf9f13f2e65]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/5) applied (with modifications) (E.) (25.5.2007) by [The School Organisation (Transitional Provisions) (England) Regulations 2007 (S.I. 2007/1355)](https://www.legislation.gov.uk/uksi/2007/1355), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1355/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2007/1355/schedule/2/paragraph/7)
+[^c-7233c747b7ac39458b55bcf9f13f2e65]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/5) applied (with modifications) (E.) (25.5.2007) by [The School Organisation (Transitional Provisions) (England) Regulations 2007 (S.I. 2007/1355)](https://www.legislation.gov.uk/uksi/2007/1355), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1355/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2007/1355/schedule/2/paragraph/7)
 
-[^key-8bb0c1675239b791fdaa85a505c0b581]: Modification: Sch. 3 para. 5 applied (25.5.2007) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [Sch. 7A para. 6(1)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/7A/paragraph/6/1) (as substituted by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 46](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/46); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o))
+[^c-8bb0c1675239b791fdaa85a505c0b581]: Modification: Sch. 3 para. 5 applied (25.5.2007) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [Sch. 7A para. 6(1)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/7A/paragraph/6/1) (as substituted by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 46](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/46); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o))
 
 [^c18596271]: Textual amendment: Words in Sch. 3 para. 5(1)(a) substituted (E.) (1.4.2002) by [The Regulatory Reform (Voluntary Aided Schools Liabilities and Funding) (England) Order 2002 (S.I. 2002/906)](https://www.legislation.gov.uk/uksi/2002/906), [art. 7(a)](https://www.legislation.gov.uk/uksi/2002/906/article/7/a) (with [arts. 14](https://www.legislation.gov.uk/uksi/2002/906/article/14), [15](https://www.legislation.gov.uk/uksi/2002/906/article/15))
 
@@ -633,10 +633,10 @@ is to be treated for the purposes of this Schedule as being, or as not being, ca
 
 [^c18606871]: Extent: This version of this provision extends to Wales only; a separate version has been created for England.
 
-[^key-a8a711f40ee4661133fc1fb290f889e2]: Textual amendment: [Sch. 3 para. 7(3)(a)(ia)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/7/3/a/ai) inserted (W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 19(12)(b)(i)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/12/b/i); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-a8a711f40ee4661133fc1fb290f889e2]: Textual amendment: [Sch. 3 para. 7(3)(a)(ia)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/7/3/a/ai) inserted (W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 19(12)(b)(i)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/12/b/i); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-36905f9c31e8c164e560de08233440f3]: Textual amendment: [Sch. 3 para. 7(5)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/7/5/a)[(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/7/5/b) substituted for words (W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 19(12)(b)(ii)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/12/b/ii); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-36905f9c31e8c164e560de08233440f3]: Textual amendment: [Sch. 3 para. 7(5)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/7/5/a)[(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/paragraph/7/5/b) substituted for words (W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 19(12)(b)(ii)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/12/b/ii); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-512c1f849140dbfe4b440c3cfedc7f88]: Textual amendment: [Sch. 3 para. 9A 9B and cross-heading](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/part/II/crossheading/meaning-of-capital-expenditure) inserted (1.4.2007 for the insertion of Sch. 3 para. 9A(3), 25.5.2007 in so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/35/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [arts. 5(i)](https://www.legislation.gov.uk/uksi/2007/935/article/5/i), [7(j)](https://www.legislation.gov.uk/uksi/2007/935/article/7/j)
+[^c-512c1f849140dbfe4b440c3cfedc7f88]: Textual amendment: [Sch. 3 para. 9A 9B and cross-heading](https://www.legislation.gov.uk/ukpga/1998/31/schedule/3/part/II/crossheading/meaning-of-capital-expenditure) inserted (1.4.2007 for the insertion of Sch. 3 para. 9A(3), 25.5.2007 in so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/35/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [arts. 5(i)](https://www.legislation.gov.uk/uksi/2007/935/article/5/i), [7(j)](https://www.legislation.gov.uk/uksi/2007/935/article/7/j)
 
 [^c14011311]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

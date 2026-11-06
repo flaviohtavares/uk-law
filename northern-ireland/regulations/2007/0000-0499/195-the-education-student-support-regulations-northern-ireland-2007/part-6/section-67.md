@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Type 1 and type 2 teacher training students[^key-9fdea84d5b849e8efaa215f0665e308e]
+## 67. Type 1 and type 2 teacher training students[^c-9fdea84d5b849e8efaa215f0665e308e]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fdea84d5b849e8efaa215f0665e308e]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2007/195/regulation/67) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-9fdea84d5b849e8efaa215f0665e308e]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2007/195/regulation/67) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

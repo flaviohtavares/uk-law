@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Legitimacy[^key-cec817d938185765545860a59a278541]
+## 23. Legitimacy[^c-cec817d938185765545860a59a278541]
 
 *Extent: N.I.*
 
@@ -108,7 +108,7 @@ summary: ''
 
   .
 
-**24.**[^key-840d559e54a4002c749416881a6749a0][^key-cec817d938185765545860a59a278541] (1) Section 2 of the Legitimacy Act (Northern Ireland) 1961[^f00029] (legitimacy of children of certain void marriages) is amended as follows.
+**24.**[^c-840d559e54a4002c749416881a6749a0][^c-cec817d938185765545860a59a278541] (1) Section 2 of the Legitimacy Act (Northern Ireland) 1961[^f00029] (legitimacy of children of certain void marriages) is amended as follows.
 
 (2) In the heading, after “void marriages” insert “and civil partnerships”.
 
@@ -145,7 +145,7 @@ summary: ''
 - (d) after “celebration of the marriage” insert “, or the formation of the civil partnership,”, and
 - (e) after “that the marriage” insert “or civil partnership”.
 
-**25.**[^key-7862233a37028c6a0ee48f8f64c2e884][^key-cec817d938185765545860a59a278541] (1) Article 155 of the Children (Northern Ireland) Order 1995[^f00030] (parents not being married to each other to have no effect in law on relationships) is amended as follows.
+**25.**[^c-7862233a37028c6a0ee48f8f64c2e884][^c-cec817d938185765545860a59a278541] (1) Article 155 of the Children (Northern Ireland) Order 1995[^f00030] (parents not being married to each other to have no effect in law on relationships) is amended as follows.
 
 (2) In the heading, after “married to” insert “, or civil partners of,”.
 
@@ -169,14 +169,14 @@ summary: ''
 
 ## Annotations
 
-[^key-cec817d938185765545860a59a278541]: Commencement: Reg. 23 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-cec817d938185765545860a59a278541]: Commencement: Reg. 23 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00028]: Footnote: [1928 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1928/5); section 1 was amended by section 1 of the Legitimacy Act (Northern Ireland) [1961 (c.5 (N.I.)](https://www.legislation.gov.uk/apni/1961/5)), and sections 1, 8 and 11 were amended by paragraphs 57 to 59 of Schedule 6 to the Human Fertilisation and Embryology Act 2008.
 
-[^key-840d559e54a4002c749416881a6749a0]: Commencement: Reg. 24 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-840d559e54a4002c749416881a6749a0]: Commencement: Reg. 24 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00029]: Footnote: [1961 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1961/5); section 2 was amended by paragraph 14 of Schedule 9 to the Children (Northern Ireland) Order 1995 ([S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)).
 
-[^key-7862233a37028c6a0ee48f8f64c2e884]: Commencement: Reg. 25 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-7862233a37028c6a0ee48f8f64c2e884]: Commencement: Reg. 25 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755). In Article 155, subsections (3)(ba) and (bb) and (4A) to (4D) were inserted by paragraph 75 of Schedule 6 to the Human Fertilisation and Embryology Act 2008.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Proposals for pilots made by principal councils[^key-a1bce7523ed315c97aa4f2913d55c5a8]
+## 9. Proposals for pilots made by principal councils[^c-a1bce7523ed315c97aa4f2913d55c5a8]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1bce7523ed315c97aa4f2913d55c5a8]: Commencement: S. 9 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-a1bce7523ed315c97aa4f2913d55c5a8]: Commencement: S. 9 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

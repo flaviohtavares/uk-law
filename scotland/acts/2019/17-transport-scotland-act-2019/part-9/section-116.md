@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Qualifications of supervisors and operatives[^key-7cb17126a3a1dc1af110663e0576085a]
+## 116. Qualifications of supervisors and operatives[^c-7cb17126a3a1dc1af110663e0576085a]
 
 *Extent: S*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cb17126a3a1dc1af110663e0576085a]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2019/17/section/116) in force at 25.1.2023 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-7cb17126a3a1dc1af110663e0576085a]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2019/17/section/116) in force at 25.1.2023 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

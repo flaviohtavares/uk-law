@@ -18,14 +18,14 @@ summary: ''
 
 *Extent: E+W*
 
-**176.**[^key-057a232a62c41a33b45eee56e34c405f] In Schedule 4 (minor and consequential amendments)—
+**176.**[^c-057a232a62c41a33b45eee56e34c405f] In Schedule 4 (minor and consequential amendments)—
 
 - (a) omit paragraph 14(23)(a)(i)[^f00179];
 - (b) omit paragraph 14(23)(a)(iii)[^f00180].
 
 ## Annotations
 
-[^key-057a232a62c41a33b45eee56e34c405f]: Commencement: Reg. 176 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-057a232a62c41a33b45eee56e34c405f]: Commencement: Reg. 176 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00179]: Footnote: Paragraph 14(23)(a)(i) inserted the definition of “appropriate children’s home” into section 105(1) of the Children Act 1989. This definition was repealed by the Children and Young Persons Act 2008, Schedule 1, paragraph 3(1), (2).
 

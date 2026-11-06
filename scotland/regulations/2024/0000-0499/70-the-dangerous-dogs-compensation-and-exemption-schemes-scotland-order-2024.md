@@ -48,13 +48,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-5f42db2621747c586abfaba38d79c945]
+### 1. Citation, commencement and extent[^c-5f42db2621747c586abfaba38d79c945]
 
 (1) This Order may be cited as the Dangerous Dogs (Compensation and Exemption Schemes) (Scotland) Order 2024 and comes into force on 1 April 2024.
 
 (2) This Order extends to Scotland only.
 
-### 2. Interpretation[^key-20541dc680dfcfdde02eb03d18ca24b9]
+### 2. Interpretation[^c-20541dc680dfcfdde02eb03d18ca24b9]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 
 ## PART 2 — Compensation scheme
 
-### 3. Application for compensation[^key-1b9d3a179b534209553db1cea0dc76bd]
+### 3. Application for compensation[^c-1b9d3a179b534209553db1cea0dc76bd]
 
 (1) A person who owns a dog and who makes arrangements before the appointed day for the dog to be euthanised by a veterinary surgeon may apply to the Scottish Ministers for payment of the sums specified in paragraph (3).
 
@@ -91,7 +91,7 @@ In this Order—
 
 ## PART 3 — Exemption schemes
 
-### 4. Interpretation of this Part[^key-d64a2e3ad0dc3da15b3655dce37cffe8]
+### 4. Interpretation of this Part[^c-d64a2e3ad0dc3da15b3655dce37cffe8]
 
 In this Part—
 
@@ -104,7 +104,7 @@ In this Part—
     - (ii) the rehoming of dogs taken into the organisation’s care, and
   - (b) which was carrying on the activities described in paragraph (a)(i) and (ii) on 23 February 2024.
 
-### 5. Exemption from the prohibition in section 1(3) of the Act[^key-dc00b48799ae2984eccf19de2d2dda10]
+### 5. Exemption from the prohibition in section 1(3) of the Act[^c-dc00b48799ae2984eccf19de2d2dda10]
 
 (1) The prohibition in section 1(3) of the Act does not apply to a dog if paragraph (2), (3) or (4) applies.
 
@@ -135,7 +135,7 @@ In this Part—
   - (ii) the date on which an application under article 6(8) made at or before the relevant time (see article 6(8)(a)) in respect of that dog is refused by the Scottish Ministers, or
   - (iii) where no such application is made at or before the relevant time, the date which is three months after the original holder’s date of death.
 
-### 6. Application for a certificate of exemption[^key-1a4c33fac66aa896ebbff039cd0b26d1]
+### 6. Application for a certificate of exemption[^c-1a4c33fac66aa896ebbff039cd0b26d1]
 
 (1) A natural person may apply for a certificate of exemption in respect of a dog if the person is aged 16 or older and owns the dog.
 
@@ -167,7 +167,7 @@ In this Part—
 - (a) is made, and the application fee in relation to that application is paid (both for the purposes of paragraph (5)), at or before the relevant time if they are received by or submitted to the Scottish Ministers before the date which is three months after the date of death of the original holder referred to in paragraph (7),
 - (b) must meet the requirements in paragraphs (1), (3) and (4).
 
-### 7. Certificate of exemption[^key-d0a4076d4d2d6704d3b82d6a985fbad9]
+### 7. Certificate of exemption[^c-d0a4076d4d2d6704d3b82d6a985fbad9]
 
 A certificate of exemption must—
 
@@ -177,11 +177,11 @@ A certificate of exemption must—
   - (i) to keep the dog at the same address as the holder except for any 30 days in any 12 month period,
   - (ii) to notify the Scottish Ministers of any proposed change of the address at which the dog is kept (other than in respect of any changes of address in the 30 days referred to in sub-paragraph (i)),
   - (iii) to notify the Scottish Ministers of the death or export of the dog,
-  - (iv) to satisfy the Scottish Ministers that a policy of third-party insurance compliant with article 8 is in force or does not require to be in force[^key-b7c4d9b47290c6dbbc83ac069fc1e9e8],
+  - (iv) to satisfy the Scottish Ministers that a policy of third-party insurance compliant with article 8 is in force or does not require to be in force[^c-b7c4d9b47290c6dbbc83ac069fc1e9e8],
   - (v) to keep the dog muzzled and on a lead when in a public place,
   - (vi) to keep the dog in sufficiently secure conditions to prevent its escape,
   - (vii) to provide access to the dog for the purposes of reading a microchip on request by a person specified in section 5(1) of the Act,
-  - (viii) to produce to a person specified in section 5(1) of the Act evidence[^key-9b24f910662dc41ecc8ba9e363cda4fd] that a policy of third-party insurance compliant with article 8 is in force or does not require to be in force[^key-23dafd4b4f4d3b1f0103072b213573f5] within five days of being requested to do so by that person,
+  - (viii) to produce to a person specified in section 5(1) of the Act evidence[^c-9b24f910662dc41ecc8ba9e363cda4fd] that a policy of third-party insurance compliant with article 8 is in force or does not require to be in force[^c-23dafd4b4f4d3b1f0103072b213573f5] within five days of being requested to do so by that person,
   - (ix) to produce to a person specified in section 5(1) of the Act the certificate of exemption within five days of being requested to do so by that person,
   - (x) to satisfy the Scottish Ministers that the requirement in article 9 has been met in respect of the dog, and
   - (xi) where applicable, to satisfy the Scottish Ministers that the requirements in article 10 have been met in respect of the dog,
@@ -191,7 +191,7 @@ A certificate of exemption must—
   - (iii) to ensure that a sufficient number of staff are present daily at the premises where the dog is living to provide for the care and management of the dogs being kept at those premises,
   - (iv) to comply with paragraph (c)(iii) to (xi).
 
-### 8. Third-party insurance[^key-0965d1f781b77ced32e0e047974db3f4]
+### 8. Third-party insurance[^c-0965d1f781b77ced32e0e047974db3f4]
 
 (1) A person who, or a rehoming organisation which, applies for a certificate of exemption must have in place a policy of insurance in respect of the dog identified in the application which comes into effect no later than—
 
@@ -207,7 +207,7 @@ and which complies with paragraph (3).
 
 (3) Subject to paragraph (4), a policy of insurance for the purposes of paragraph (1) or (2) must insure the applicant for or holder of the certificate of exemption in respect of the death of, or bodily injury to, any person caused by the dog.
 
-(3A)[^key-f181a33d17c5e96a7dabc33943a8baef] Paragraphs (1) to (3) do not require an applicant for or holder of a certificate of exemption to obtain or renew a policy of insurance in respect of the dog on or after 1 July 2026.
+(3A)[^c-f181a33d17c5e96a7dabc33943a8baef] Paragraphs (1) to (3) do not require an applicant for or holder of a certificate of exemption to obtain or renew a policy of insurance in respect of the dog on or after 1 July 2026.
 
 (3B) Paragraph (3A) is without prejudice to the requirement for a holder of a certificate of exemption to maintain in force a policy of insurance in respect of the dog obtained before 1 July 2026 where the cover provided by that policy has not yet expired.
 
@@ -218,7 +218,7 @@ and which complies with paragraph (3).
   - (i) a member of the policyholder’s family who resides permanently with the policyholder, or
   - (ii) a person in respect of whom the policyholder is required to maintain a policy of insurance by virtue of the Employers’ Liability (Compulsory Insurance) Act 1969[^f00008].
 
-### 9. Neutering[^key-3116b05289381304c0b85948848c42c7]
+### 9. Neutering[^c-3116b05289381304c0b85948848c42c7]
 
 (1) The holder of a certificate of exemption must, on or before the relevant date, provide the Scottish Ministers with such evidence as the Scottish Ministers may reasonably require that the dog in respect of which the certificate has been issued has been neutered.
 
@@ -240,7 +240,7 @@ and which complies with paragraph (3).
 
     whichever is the later.
 
-### 10. Microchipping[^key-0f6daf70d4736743813b349821f4e71f]
+### 10. Microchipping[^c-0f6daf70d4736743813b349821f4e71f]
 
 (1) This article applies where—
 
@@ -258,7 +258,7 @@ and which complies with paragraph (3).
 
 (5) For the purposes of this article, a dog is only unfit to be microchipped if a certificate has been issued in respect of the dog under regulation 6(2) of the Microchipping of Dogs (Scotland) Regulations 2016[^f00009].
 
-### 11. Rehoming organisations- change of premises[^key-a2e886934da745971d45915f9fae7930]
+### 11. Rehoming organisations- change of premises[^c-a2e886934da745971d45915f9fae7930]
 
 (1) This article applies where a rehoming organisation which is the holder of a certificate of exemption proposes to relocate the dog to which the certificate relates from the premises referred to in the certificate to other premises occupied by the holder for any reason other than an emergency.
 
@@ -270,7 +270,7 @@ and which complies with paragraph (3).
 
 (5) When the Scottish Ministers approve the variation of a certificate of exemption, the Scottish Ministers must issue a replacement certificate.
 
-### 12. Further provision about certificates of exemption[^key-4d302a7dfd3d46ada208f59cb1f871cb]
+### 12. Further provision about certificates of exemption[^c-4d302a7dfd3d46ada208f59cb1f871cb]
 
 (1) The Scottish Ministers may issue a new certificate of exemption to replace an existing certificate of exemption that was issued in respect of a dog where—
 
@@ -283,7 +283,7 @@ and which complies with paragraph (3).
 
 (3) The holder of a certificate of exemption who makes a request for the withdrawal of the certificate under paragraph (2) must make the request in such form as the Scottish Ministers may reasonably require.
 
-### 13. Amendment of the Dangerous Dogs Compensation and Exemption Schemes Order 1991[^key-e07d288aca20f535fa698e6cc21a887d]
+### 13. Amendment of the Dangerous Dogs Compensation and Exemption Schemes Order 1991[^c-e07d288aca20f535fa698e6cc21a887d]
 
 (1) The Dangerous Dogs Compensation and Exemption Schemes Order 1991[^f00010] is amended as follows.
 
@@ -331,11 +331,11 @@ Article 13 amends the Dangerous Dogs Compensation and Exemption Schemes Order 19
 
 [^f00001]: Footnote: [1991 c. 65](https://www.legislation.gov.uk/ukpga/1991/65). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-5f42db2621747c586abfaba38d79c945]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2024/70/article/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-5f42db2621747c586abfaba38d79c945]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2024/70/article/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-20541dc680dfcfdde02eb03d18ca24b9]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2024/70/article/2) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-20541dc680dfcfdde02eb03d18ca24b9]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2024/70/article/2) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-1b9d3a179b534209553db1cea0dc76bd]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2024/70/article/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-1b9d3a179b534209553db1cea0dc76bd]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2024/70/article/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
 [^f00002]: Footnote: [1951 c. 35](https://www.legislation.gov.uk/ukpga/1951/35) (14 & 15 Geo. 6). This Act was repealed by the Animal Health and Welfare (Scotland) Act [2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11) schedule 2 paragraph 9(d), subject to savings contained in [S.S.I. 2020/464](https://www.legislation.gov.uk/ssi/2020/464).
 
@@ -347,38 +347,38 @@ Article 13 amends the Dangerous Dogs Compensation and Exemption Schemes Order 19
 
 [^f00006]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36). Section 2(2) (register of veterinary surgeons) was amended by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454).
 
-[^key-d64a2e3ad0dc3da15b3655dce37cffe8]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2024/70/article/4) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-d64a2e3ad0dc3da15b3655dce37cffe8]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2024/70/article/4) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-dc00b48799ae2984eccf19de2d2dda10]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2024/70/article/5) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-dc00b48799ae2984eccf19de2d2dda10]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2024/70/article/5) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-1a4c33fac66aa896ebbff039cd0b26d1]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2024/70/article/6) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-1a4c33fac66aa896ebbff039cd0b26d1]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2024/70/article/6) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
 [^f00007]: Footnote: Sections 4A and 4B were inserted by the Dangerous Dogs Amendment Act [1997 (c. 53)](https://www.legislation.gov.uk/ukpga/1997/53) sections 2 and 3(1).
 
-[^key-d0a4076d4d2d6704d3b82d6a985fbad9]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2024/70/article/7) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-d0a4076d4d2d6704d3b82d6a985fbad9]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2024/70/article/7) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-b7c4d9b47290c6dbbc83ac069fc1e9e8]: Textual amendment: Words in [art. 7(c)(iv)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/iv) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/a)
+[^c-b7c4d9b47290c6dbbc83ac069fc1e9e8]: Textual amendment: Words in [art. 7(c)(iv)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/iv) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/a)
 
-[^key-9b24f910662dc41ecc8ba9e363cda4fd]: Textual amendment: Word in [art. 7(c)(viii)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/viii) substituted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/i)
+[^c-9b24f910662dc41ecc8ba9e363cda4fd]: Textual amendment: Word in [art. 7(c)(viii)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/viii) substituted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/i)
 
-[^key-23dafd4b4f4d3b1f0103072b213573f5]: Textual amendment: Words in [art. 7(c)(viii)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/viii) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/ii)
+[^c-23dafd4b4f4d3b1f0103072b213573f5]: Textual amendment: Words in [art. 7(c)(viii)](https://www.legislation.gov.uk/ssi/2024/70/article/7/c/viii) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2026/204/article/3/2/b/ii)
 
-[^key-0965d1f781b77ced32e0e047974db3f4]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2024/70/article/8) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-0965d1f781b77ced32e0e047974db3f4]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2024/70/article/8) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-f181a33d17c5e96a7dabc33943a8baef]: Textual amendment: [Art. 8(3A)](https://www.legislation.gov.uk/ssi/2024/70/article/8/3A)[(3B)](https://www.legislation.gov.uk/ssi/2024/70/article/8/3B) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/204/article/3/3)
+[^c-f181a33d17c5e96a7dabc33943a8baef]: Textual amendment: [Art. 8(3A)](https://www.legislation.gov.uk/ssi/2024/70/article/8/3A)[(3B)](https://www.legislation.gov.uk/ssi/2024/70/article/8/3B) inserted (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/204)](https://www.legislation.gov.uk/ssi/2026/204), [arts. 1](https://www.legislation.gov.uk/ssi/2026/204/article/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/204/article/3/3)
 
 [^f00008]: Footnote: [1969 c. 57](https://www.legislation.gov.uk/ukpga/1969/57).
 
-[^key-3116b05289381304c0b85948848c42c7]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2024/70/article/9) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-3116b05289381304c0b85948848c42c7]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2024/70/article/9) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-0f6daf70d4736743813b349821f4e71f]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2024/70/article/10) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-0f6daf70d4736743813b349821f4e71f]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2024/70/article/10) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
 [^f00009]: Footnote: [S.S.I. 2016/58](https://www.legislation.gov.uk/ssi/2016/58).
 
-[^key-a2e886934da745971d45915f9fae7930]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2024/70/article/11) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-a2e886934da745971d45915f9fae7930]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2024/70/article/11) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-4d302a7dfd3d46ada208f59cb1f871cb]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2024/70/article/12) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-4d302a7dfd3d46ada208f59cb1f871cb]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2024/70/article/12) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
-[^key-e07d288aca20f535fa698e6cc21a887d]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2024/70/article/13) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
+[^c-e07d288aca20f535fa698e6cc21a887d]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2024/70/article/13) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/70/article/1/1)
 
 [^f00010]: Footnote: [S.I. 1991/1744](https://www.legislation.gov.uk/uksi/1991/1744). Article 7(1) was amended by [S.I. 1991/2297](https://www.legislation.gov.uk/uksi/1991/2297). Article 10(2) was amended by [S.I. 1991/2297](https://www.legislation.gov.uk/uksi/1991/2297) and [S.I. 1991/2636](https://www.legislation.gov.uk/uksi/1991/2636).

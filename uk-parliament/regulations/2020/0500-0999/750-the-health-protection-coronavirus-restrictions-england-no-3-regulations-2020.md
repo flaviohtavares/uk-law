@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 (revoked)[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+The Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 (revoked)[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 Made
 
@@ -46,92 +46,92 @@ Coming into force
 
 at 12.01 a.m. on 18th July 2020
 
-[^key-fde62c5afa1299f420f2f23e8d3e0e01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fde62c5afa1299f420f2f23e8d3e0e01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 1. Citation, commencement, application and interpretation[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Directions by local authorities: general[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 2. Directions by local authorities: general[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Powers of Secretary of State[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 3. Powers of Secretary of State[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Directions relating to individual premises[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 4. Directions relating to individual premises[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Directions relating to events[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 5. Directions relating to events[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Directions relating to public outdoor places[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 6. Directions relating to public outdoor places[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 7.[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 8.[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Representations to the Secretary of State[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 9. Representations to the Secretary of State[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Public notice of directions etc[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 10. Public notice of directions etc[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Notification of directions to other local authorities[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 11. Notification of directions to other local authorities[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Enforcement of requirements[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 12. Enforcement of requirements[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences and penalties[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 13. Offences and penalties[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Fixed penalty notices[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 14. Fixed penalty notices[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Prosecutions[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 15. Prosecutions[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Continuity of designations[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 16. Continuity of designations[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Directions by county councils[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 17. Directions by county councils[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of other Regulations[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 18. Amendment of other Regulations[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Expiry[^key-fde62c5afa1299f420f2f23e8d3e0e01]
+## 19. Expiry[^c-fde62c5afa1299f420f2f23e8d3e0e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fde62c5afa1299f420f2f23e8d3e0e01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fde62c5afa1299f420f2f23e8d3e0e01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fde62c5afa1299f420f2f23e8d3e0e01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fde62c5afa1299f420f2f23e8d3e0e01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fde62c5afa1299f420f2f23e8d3e0e01]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/750) revoked (24.2.2022) by [The Health Protection (Coronavirus, Restrictions) (Self-Isolation etc.) (Revocation) (England) Regulations 2022 (S.I. 2022/161)](https://www.legislation.gov.uk/uksi/2022/161), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/161/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/161/regulation/2/b)
+[^c-fde62c5afa1299f420f2f23e8d3e0e01]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/750) revoked (24.2.2022) by [The Health Protection (Coronavirus, Restrictions) (Self-Isolation etc.) (Revocation) (England) Regulations 2022 (S.I. 2022/161)](https://www.legislation.gov.uk/uksi/2022/161), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/161/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/161/regulation/2/b)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) [^c18659121]\[[^c18659131] The Director of Public Prosecutions for Northern Ireland\] shall obey any direction given to him by an election court with respect to the prosecution by him of offenders, and if it appears to him that any person who has not received a certificate of indemnity has been guilty of a corrupt or illegal practice, he shall, without any such direction, prosecute that person for that offence before the election court, or if he thinks it expedient in the interests of justice, before any other competent court.
 
-(1A)[^key-392b0a72437964aafc49b3c2c718585b] The duty in subsection (1) to obey a direction given by an election court does not apply to a direction with respect to the prosecution of a corrupt practice or electoral offence in relation to which the Director has reasonable grounds to believe section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies.
+(1A)[^c-392b0a72437964aafc49b3c2c718585b] The duty in subsection (1) to obey a direction given by an election court does not apply to a direction with respect to the prosecution of a corrupt practice or electoral offence in relation to which the Director has reasonable grounds to believe section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies.
 
 (2) Where a person prosecuted before an election court appears before the court, the court shall proceed to try him summarily unless the court thinks it expedient in the interests of justice that he should be tried before some other court:
 
@@ -63,6 +63,6 @@ Provided that, except where the accused has elected to be tried by a jury, a cor
 
 [^c18659131]: Textual amendment: [1972 NI 1](https://www.legislation.gov.uk/1972/ni1)
 
-[^key-392b0a72437964aafc49b3c2c718585b]: Textual amendment: [S. 106(1A)](https://www.legislation.gov.uk/apni/1962/14/section/106/1A) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-392b0a72437964aafc49b3c2c718585b]: Textual amendment: [S. 106(1A)](https://www.legislation.gov.uk/apni/1962/14/section/106/1A) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
 [^c18659141]: Textual amendment: SI 1987/168

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 298. Compulsory acquisition of land to provide alternative right of way[^key-f6a661e974254b6275c3ef45d306f680]
+## 298. Compulsory acquisition of land to provide alternative right of way[^c-f6a661e974254b6275c3ef45d306f680]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ for the purpose of providing a public right of way as an alternative to a right 
 
 ## Annotations
 
-[^key-f6a661e974254b6275c3ef45d306f680]: Commencement: S. 298 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f6a661e974254b6275c3ef45d306f680]: Commencement: S. 298 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

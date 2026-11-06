@@ -24,7 +24,7 @@ Section 73
 
 ### Part 1 — Powers to establish the PSFA and transfer functions
 
-#### 1. Main powers[^key-41758e74dfd5269e5e6154429b75c538]
+#### 1. Main powers[^c-41758e74dfd5269e5e6154429b75c538]
 
 (1) The Minister may by regulations—
 
@@ -39,7 +39,7 @@ Section 73
 
 (5) But a function transferred to the PSFA under sub-paragraph (1)(b) may not subsequently be transferred to another public authority under sub-paragraph (2).
 
-#### 2. Authorised officers[^key-28fa05e7b81904710c0763442b012328]
+#### 2. Authorised officers[^c-28fa05e7b81904710c0763442b012328]
 
 (1) The reference in paragraph 1(3) to functions initially conferred on the Minister includes functions initially conferred on authorised officers.
 
@@ -54,7 +54,7 @@ the regulations must provide for the function to be exercised by an authorised o
 
 (4) In this paragraph, “**authorised officer**” includes “authorised investigator”.
 
-#### 3. Associated modifications[^key-d3bfd4a91aebb6bd727d28b38a20738b]
+#### 3. Associated modifications[^c-d3bfd4a91aebb6bd727d28b38a20738b]
 
 (1) Where functions are transferred to the PSFA or another public authority under paragraph 1, the Minister may by regulations—
 
@@ -75,13 +75,13 @@ the regulations must provide for the function to be exercised by an authorised o
 - (a) Part 1 of this Act, except this Schedule, and
 - (b) any provision amended by Part 1 of this Act.
 
-#### 4. Procedure[^key-3ea8390b248c550db2ae41ab5735776b]
+#### 4. Procedure[^c-3ea8390b248c550db2ae41ab5735776b]
 
 Regulations under this Part of this Schedule are subject to the affirmative procedure.
 
 ### Part 2 — Constitution etc
 
-#### 5. Introduction and status[^key-a0f9d390cdf073e290344653382cd862]
+#### 5. Introduction and status[^c-a0f9d390cdf073e290344653382cd862]
 
 **Not yet in force.**
 
@@ -89,7 +89,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (2) The PSFA acts on behalf of the Crown.
 
-#### 6. Constitution[^key-805ffff5ad1f0b965a38a883c30c73d7]
+#### 6. Constitution[^c-805ffff5ad1f0b965a38a883c30c73d7]
 
 **Not yet in force.**
 
@@ -102,7 +102,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (2) The members are to be appointed in accordance with paragraphs 7 to 10.
 
-#### 7. Appointment of non-executive members[^key-4bd8abfbe6708676a597f2d8cfb799cb]
+#### 7. Appointment of non-executive members[^c-4bd8abfbe6708676a597f2d8cfb799cb]
 
 **Not yet in force.**
 
@@ -110,7 +110,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (2) A person may not be appointed as a non-executive member if the person is a member of the PSFA’s staff.
 
-#### 8. Appointment of executive members[^key-df084549ed4bcc0d9e4c4cb548aacd52]
+#### 8. Appointment of executive members[^c-df084549ed4bcc0d9e4c4cb548aacd52]
 
 **Not yet in force.**
 
@@ -118,7 +118,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (2) The executive members are to be members of the PSFA’s staff.
 
-#### 9. Interim chief executive[^key-f5ce8c9df4395307755f07696ff5dd14]
+#### 9. Interim chief executive[^c-f5ce8c9df4395307755f07696ff5dd14]
 
 **Not yet in force.**
 
@@ -130,7 +130,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (4) Paragraphs 8, 11 and 13 do not apply to an interim chief executive.
 
-#### 10. Appointment of members: eligibility[^key-9491e8da8a7b5d2d1f6af776348eb6b8]
+#### 10. Appointment of members: eligibility[^c-9491e8da8a7b5d2d1f6af776348eb6b8]
 
 (1) The Minister may by regulations make provision about criteria which must be met by persons in order to be appointed as members of the PSFA.
 
@@ -138,7 +138,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (3) Regulations under this paragraph are subject to the negative procedure.
 
-#### 11. Terms of membership[^key-26c31e1d2984e842ba0f1a6560059d50]
+#### 11. Terms of membership[^c-26c31e1d2984e842ba0f1a6560059d50]
 
 **Not yet in force.**
 
@@ -161,7 +161,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 - (a) in the case of the non-executive members, the Minister;
 - (b) in the case of the executive members, the chair.
 
-#### 12. Non-executive members: payments[^key-bde8371546f3408b4ec66ef9826084f0]
+#### 12. Non-executive members: payments[^c-bde8371546f3408b4ec66ef9826084f0]
 
 **Not yet in force.**
 
@@ -174,7 +174,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (3) Where this sub-paragraph applies, the PSFA must pay the person compensation of such amount as the Minister may determine.
 
-#### 13. Staffing[^key-dec065535f91051c53b540a6530ba804]
+#### 13. Staffing[^c-dec065535f91051c53b540a6530ba804]
 
 **Not yet in force.**
 
@@ -196,7 +196,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 (6) Before making a determination as to remuneration, pensions, allowances, gratuities or compensation for the purposes of sub-paragraph (2) or (3), the PSFA must obtain the approval of the Minister as to its policy on that matter.
 
-#### 14. Discharge of functions etc[^key-a3de0eda09fa7e7af156027069814c49]
+#### 14. Discharge of functions etc[^c-a3de0eda09fa7e7af156027069814c49]
 
 **Not yet in force.**
 
@@ -217,7 +217,7 @@ Regulations under this Part of this Schedule are subject to the affirmative proc
 
 whether or not that person is a non-executive member of the PSFA.
 
-#### 15. Procedure[^key-74d71afbf76281db527c05fd73201b6f]
+#### 15. Procedure[^c-74d71afbf76281db527c05fd73201b6f]
 
 **Not yet in force.**
 
@@ -225,7 +225,7 @@ whether or not that person is a non-executive member of the PSFA.
 
 (2) The validity of any proceedings of the PSFA, or any committee or sub-committee of the PSFA, is not affected by any vacancy among its members or by any defect in the appointment of such a member.
 
-#### 16. Annual report[^key-9de01d7c42d14912881d29abe0a8b3d7]
+#### 16. Annual report[^c-9de01d7c42d14912881d29abe0a8b3d7]
 
 **Not yet in force.**
 
@@ -240,7 +240,7 @@ whether or not that person is a non-executive member of the PSFA.
 - (a) the period beginning with the date on which the PSFA is established and ending with 31 March following that date, and
 - (b) each successive period of 12 months.
 
-#### 17. Seal and evidence[^key-20dff00fe0a317d1a38b085cbae0d786]
+#### 17. Seal and evidence[^c-20dff00fe0a317d1a38b085cbae0d786]
 
 **Not yet in force.**
 
@@ -256,7 +256,7 @@ whether or not that person is a non-executive member of the PSFA.
 
 (3) But this paragraph does not apply in relation to any document which is, or is to be, signed in accordance with the law of Scotland.
 
-#### 18. Supplementary powers[^key-ffe239aa4c623a7cf1e8b0880c0e56e5]
+#### 18. Supplementary powers[^c-ffe239aa4c623a7cf1e8b0880c0e56e5]
 
 **Not yet in force.**
 
@@ -267,7 +267,7 @@ whether or not that person is a non-executive member of the PSFA.
 - (a) borrow money;
 - (b) accept gifts of money, land or other property.
 
-#### 19. Transfer schemes[^key-fa8526c1b924c9afeef5ba7be33ab757]
+#### 19. Transfer schemes[^c-fa8526c1b924c9afeef5ba7be33ab757]
 
 **Not yet in force.**
 
@@ -309,7 +309,7 @@ whether or not that person is a non-executive member of the PSFA.
 - (a) an individual who holds employment in the civil service is to be treated as employed by virtue of a contract of employment, and
 - (b) the terms of the individual’s employment in the civil service are to be regarded as constituting the terms of the contract of employment.
 
-#### 20. Amendments to other enactments[^key-f07892602b63713be07cff30870f4c5e]
+#### 20. Amendments to other enactments[^c-f07892602b63713be07cff30870f4c5e]
 
 **Not yet in force.**
 
@@ -319,19 +319,19 @@ In Part 2 of the table in paragraph 3 of Schedule 1 to the Public Records Act 19
 > | --- |
 > | Public Sector Fraud Authority. |
 
-**21.**[^key-a50462acede2cd9a3e41a1eb47984232] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
+**21.**[^c-a50462acede2cd9a3e41a1eb47984232] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
 
 > - Public Sector Fraud Authority.
 
-**22.**[^key-baa2058c639288e3d52f48c8ebab7b71] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert—
+**22.**[^c-baa2058c639288e3d52f48c8ebab7b71] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert—
 
 > - The Public Sector Fraud Authority.
 
-**23.**[^key-45670e751ba31dde57741978afb997b8] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place insert—
+**23.**[^c-45670e751ba31dde57741978afb997b8] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place insert—
 
 > - The Public Sector Fraud Authority.
 
-**24.**[^key-3908f8359f2646d082d25f2c445aec8c] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), after the group of entries under the heading “Environment, housing and development” insert—
+**24.**[^c-3908f8359f2646d082d25f2c445aec8c] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), after the group of entries under the heading “Environment, housing and development” insert—
 
 > - *Fraud against the public sector*
 >
@@ -339,7 +339,7 @@ In Part 2 of the table in paragraph 3 of Schedule 1 to the Public Records Act 19
 
 ### Part 3 — Power to change name
 
-**25.**[^key-6225e086e6a58decd06737289c6a5548] (1) The Minister may by regulations amend section 73 of this Act and this Schedule so as to change the name of the PSFA.
+**25.**[^c-6225e086e6a58decd06737289c6a5548] (1) The Minister may by regulations amend section 73 of this Act and this Schedule so as to change the name of the PSFA.
 
 (2) Regulations under sub-paragraph (1) may not be made after regulations are made under paragraph 1(1)(a).
 
@@ -347,52 +347,52 @@ In Part 2 of the table in paragraph 3 of Schedule 1 to the Public Records Act 19
 
 ## Annotations
 
-[^key-41758e74dfd5269e5e6154429b75c538]: Commencement: Sch. 2 para. 1 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-41758e74dfd5269e5e6154429b75c538]: Commencement: Sch. 2 para. 1 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-28fa05e7b81904710c0763442b012328]: Commencement: Sch. 2 para. 2 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-28fa05e7b81904710c0763442b012328]: Commencement: Sch. 2 para. 2 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-d3bfd4a91aebb6bd727d28b38a20738b]: Commencement: Sch. 2 para. 3 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-d3bfd4a91aebb6bd727d28b38a20738b]: Commencement: Sch. 2 para. 3 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-3ea8390b248c550db2ae41ab5735776b]: Commencement: Sch. 2 para. 4 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-3ea8390b248c550db2ae41ab5735776b]: Commencement: Sch. 2 para. 4 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-a0f9d390cdf073e290344653382cd862]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-a0f9d390cdf073e290344653382cd862]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-805ffff5ad1f0b965a38a883c30c73d7]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-805ffff5ad1f0b965a38a883c30c73d7]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-4bd8abfbe6708676a597f2d8cfb799cb]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-4bd8abfbe6708676a597f2d8cfb799cb]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-df084549ed4bcc0d9e4c4cb548aacd52]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-df084549ed4bcc0d9e4c4cb548aacd52]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-f5ce8c9df4395307755f07696ff5dd14]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-f5ce8c9df4395307755f07696ff5dd14]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9491e8da8a7b5d2d1f6af776348eb6b8]: Commencement: Sch. 2 para. 10 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-9491e8da8a7b5d2d1f6af776348eb6b8]: Commencement: Sch. 2 para. 10 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-26c31e1d2984e842ba0f1a6560059d50]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-26c31e1d2984e842ba0f1a6560059d50]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-bde8371546f3408b4ec66ef9826084f0]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-bde8371546f3408b4ec66ef9826084f0]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-dec065535f91051c53b540a6530ba804]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-dec065535f91051c53b540a6530ba804]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-a3de0eda09fa7e7af156027069814c49]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-a3de0eda09fa7e7af156027069814c49]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-74d71afbf76281db527c05fd73201b6f]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-74d71afbf76281db527c05fd73201b6f]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9de01d7c42d14912881d29abe0a8b3d7]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-9de01d7c42d14912881d29abe0a8b3d7]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-20dff00fe0a317d1a38b085cbae0d786]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-20dff00fe0a317d1a38b085cbae0d786]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ffe239aa4c623a7cf1e8b0880c0e56e5]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-ffe239aa4c623a7cf1e8b0880c0e56e5]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-fa8526c1b924c9afeef5ba7be33ab757]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-fa8526c1b924c9afeef5ba7be33ab757]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-f07892602b63713be07cff30870f4c5e]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-f07892602b63713be07cff30870f4c5e]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-a50462acede2cd9a3e41a1eb47984232]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-a50462acede2cd9a3e41a1eb47984232]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-baa2058c639288e3d52f48c8ebab7b71]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-baa2058c639288e3d52f48c8ebab7b71]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-45670e751ba31dde57741978afb997b8]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-45670e751ba31dde57741978afb997b8]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-3908f8359f2646d082d25f2c445aec8c]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-3908f8359f2646d082d25f2c445aec8c]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-6225e086e6a58decd06737289c6a5548]: Commencement: Sch. 2 para. 25 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-6225e086e6a58decd06737289c6a5548]: Commencement: Sch. 2 para. 25 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)

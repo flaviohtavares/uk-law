@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Publication of and inspection of documents[^key-837ee36ecb2346d8e003ecc71ba526c8]
+## 142. Publication of and inspection of documents[^c-837ee36ecb2346d8e003ecc71ba526c8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-837ee36ecb2346d8e003ecc71ba526c8]: Commencement: Art. 142 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-837ee36ecb2346d8e003ecc71ba526c8]: Commencement: Art. 142 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

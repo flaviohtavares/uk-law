@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.6. Application to remove, revoke or suspend a disqualification or restriction[^key-c0c3c5c448194c9065c96b4b966fc430]
+## 28.6. Application to remove, revoke or suspend a disqualification or restriction[^c-c0c3c5c448194c9065c96b4b966fc430]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c0c3c5c448194c9065c96b4b966fc430]: Commencement: [Rule 28.6](https://www.legislation.gov.uk/uksi/2025/909/rule/28.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c0c3c5c448194c9065c96b4b966fc430]: Commencement: [Rule 28.6](https://www.legislation.gov.uk/uksi/2025/909/rule/28.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00666]: Footnote: [1991 c. 65](https://www.legislation.gov.uk/ukpga/1991/65); section 4(6) was amended by section 109(1) of, and paragraph 353 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

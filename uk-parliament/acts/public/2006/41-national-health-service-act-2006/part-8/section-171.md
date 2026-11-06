@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Conditions of use of services of persons under section 169[^key-8a48b80b9392d2678ebb91d118535b40]
+## 171. Conditions of use of services of persons under section 169[^c-8a48b80b9392d2678ebb91d118535b40]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a48b80b9392d2678ebb91d118535b40]: Textual amendment: S. 171 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/123) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-8a48b80b9392d2678ebb91d118535b40]: Textual amendment: S. 171 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/123) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

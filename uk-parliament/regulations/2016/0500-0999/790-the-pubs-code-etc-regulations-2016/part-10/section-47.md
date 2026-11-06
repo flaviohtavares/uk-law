@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Gaming machines[^key-2de6515a12de235f7251a752d0652f1a]
+## 47. Gaming machines[^c-2de6515a12de235f7251a752d0652f1a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ which requires a tied pub tenant to purchase or rent gaming machines.
 
 ## Annotations
 
-[^key-2de6515a12de235f7251a752d0652f1a]: Commencement: Reg. 47 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-2de6515a12de235f7251a752d0652f1a]: Commencement: Reg. 47 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

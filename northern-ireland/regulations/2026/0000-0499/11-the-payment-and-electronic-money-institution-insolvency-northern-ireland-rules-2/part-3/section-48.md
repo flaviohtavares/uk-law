@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Claims, proofs and proxies in adjournment[^key-a8a7be973639196ca74ed05195b36664]
+## 48. Claims, proofs and proxies in adjournment[^c-a8a7be973639196ca74ed05195b36664]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a meeting under these Rules is adjourned, claims, proofs and proxies may b
 
 ## Annotations
 
-[^key-a8a7be973639196ca74ed05195b36664]: Commencement: [Rule 48](https://www.legislation.gov.uk/nisr/2026/11/rule/48) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a8a7be973639196ca74ed05195b36664]: Commencement: [Rule 48](https://www.legislation.gov.uk/nisr/2026/11/rule/48) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

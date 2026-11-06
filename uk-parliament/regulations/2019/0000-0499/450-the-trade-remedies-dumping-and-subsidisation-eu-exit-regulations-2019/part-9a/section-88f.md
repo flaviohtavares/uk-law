@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88F. Determination to maintain[^key-a124b99d559275a9b8b9a0ffa482a27d]
+## 88F. Determination to maintain[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if the TRA proposes to determine that[^key-a4febac6770c1230d60dad77fdbe7f01] the application to goods of an anti-dumping amount or a countervailing amount should be maintained.
+(1) This regulation applies if the TRA proposes to determine that[^c-a4febac6770c1230d60dad77fdbe7f01] the application to goods of an anti-dumping amount or a countervailing amount should be maintained.
 
-(1A)[^key-af7ba734aeb128c381eb731a5300dfa2] The TRA must notify the Secretary of State of its proposed determination.
+(1A)[^c-af7ba734aeb128c381eb731a5300dfa2] The TRA must notify the Secretary of State of its proposed determination.
 
 (1B) Where the Secretary of State has been notified in accordance with paragraph (1A), the Secretary of State may, within the relevant period (and subject to paragraph (1C)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a124b99d559275a9b8b9a0ffa482a27d]: Textual amendment: Pt. 9A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/99/regulation/20)
+[^c-a124b99d559275a9b8b9a0ffa482a27d]: Textual amendment: Pt. 9A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/99/regulation/20)
 
-[^key-a4febac6770c1230d60dad77fdbe7f01]: Textual amendment: Words in [reg. 88F(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/88F/1) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/25/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-a4febac6770c1230d60dad77fdbe7f01]: Textual amendment: Words in [reg. 88F(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/88F/1) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/25/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-af7ba734aeb128c381eb731a5300dfa2]: Textual amendment: [Reg. 88F(1A)-(1F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/88F/1A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/25/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-af7ba734aeb128c381eb731a5300dfa2]: Textual amendment: [Reg. 88F(1A)-(1F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/88F/1A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/25/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

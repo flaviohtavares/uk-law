@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Determination of basis on which scheme is contracted-out.[^key-27c8ad882067a1617bb804c57e707e90]
+## 8. Determination of basis on which scheme is contracted-out.[^c-27c8ad882067a1617bb804c57e707e90]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27c8ad882067a1617bb804c57e707e90]: Textual amendment: S. 8 repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/6), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-27c8ad882067a1617bb804c57e707e90]: Textual amendment: S. 8 repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/6), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)

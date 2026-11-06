@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25B. Arranging regulated home reversion plans[^key-8b9d3b14e6052c99c51dfcdf1b06fa93]
+## 25B. Arranging regulated home reversion plans[^c-8b9d3b14e6052c99c51dfcdf1b06fa93]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ is a specified kind of activity.
 
 ## Annotations
 
-[^key-8b9d3b14e6052c99c51dfcdf1b06fa93]: Textual amendment: Arts. 25B, 25C inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2383/article/4)
+[^c-8b9d3b14e6052c99c51dfcdf1b06fa93]: Textual amendment: Arts. 25B, 25C inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2383/article/4)

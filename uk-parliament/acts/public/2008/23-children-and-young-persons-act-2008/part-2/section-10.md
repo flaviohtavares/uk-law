@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-1f017318ecb966d6c17f82f36336bc7a][^key-4f88e8047bb5b23f61a81af83e551ce9][^key-80fa88e336d0eb1948cb19a1ddf2dd34][^key-6943c28545d620b3a3005db4db16c37e] After section 25 of the 1989 Act insert—
+(1)[^c-1f017318ecb966d6c17f82f36336bc7a][^c-4f88e8047bb5b23f61a81af83e551ce9][^c-80fa88e336d0eb1948cb19a1ddf2dd34][^c-6943c28545d620b3a3005db4db16c37e] After section 25 of the 1989 Act insert—
 
 > **Independent reviewing officers**
 >
@@ -58,7 +58,7 @@ summary: ''
 > - (a) to co-operate with that individual; and
 > - (b) to take all such reasonable steps as that individual may require of them to enable that individual's functions under this section to be performed satisfactorily.
 
-(2)[^key-ebfdd17e5b263da4594d10138c1171c7][^key-c652f0fb24086beaf9947783cbc2f233] After section 25B of that Act (which is inserted by subsection (1)) insert—
+(2)[^c-ebfdd17e5b263da4594d10138c1171c7][^c-c652f0fb24086beaf9947783cbc2f233] After section 25B of that Act (which is inserted by subsection (1)) insert—
 
 > **25C. Referred cases**
 >
@@ -69,23 +69,23 @@ summary: ''
 >
 > (2) The power to make regulations in this section is exercisable in relation to functions of Welsh family proceedings officers only with the consent of the Welsh Ministers.
 
-(3)[^key-ebfdd17e5b263da4594d10138c1171c7][^key-eab030ecbb58cdc15e5c7cd28616a16b] In section 26 of that Act omit—
+(3)[^c-ebfdd17e5b263da4594d10138c1171c7][^c-eab030ecbb58cdc15e5c7cd28616a16b] In section 26 of that Act omit—
 
 - (a) subsection (2)(k);
 - (b) subsections (2A) to (2D).
 
 ## Annotations
 
-[^key-1f017318ecb966d6c17f82f36336bc7a]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/c)
+[^c-1f017318ecb966d6c17f82f36336bc7a]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/c)
 
-[^key-4f88e8047bb5b23f61a81af83e551ce9]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/c)
+[^c-4f88e8047bb5b23f61a81af83e551ce9]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/c)
 
-[^key-80fa88e336d0eb1948cb19a1ddf2dd34]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(c)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2981/article/5))
+[^c-80fa88e336d0eb1948cb19a1ddf2dd34]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(c)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2981/article/5))
 
-[^key-6943c28545d620b3a3005db4db16c37e]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 6.4.2016 for W. in so far as not already in force by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/452/article/2/c)
+[^c-6943c28545d620b3a3005db4db16c37e]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/1) in force at 6.4.2016 for W. in so far as not already in force by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/452/article/2/c)
 
-[^key-ebfdd17e5b263da4594d10138c1171c7]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/3) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(c)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2981/article/5))
+[^c-ebfdd17e5b263da4594d10138c1171c7]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/3) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(c)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2981/article/5))
 
-[^key-c652f0fb24086beaf9947783cbc2f233]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/2) in force at 1.12.2017 for W. by [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/948/article/2/b)
+[^c-c652f0fb24086beaf9947783cbc2f233]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/2) in force at 1.12.2017 for W. by [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/948/article/2/b)
 
-[^key-eab030ecbb58cdc15e5c7cd28616a16b]: Commencement: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/3) in force at 6.4.2016 for W. by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/452/article/2/c) (with [art. 3](https://www.legislation.gov.uk/wsi/2016/452/article/3))
+[^c-eab030ecbb58cdc15e5c7cd28616a16b]: Commencement: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/10/3) in force at 6.4.2016 for W. by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/452/article/2/c) (with [art. 3](https://www.legislation.gov.uk/wsi/2016/452/article/3))

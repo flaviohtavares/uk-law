@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2017 (revoked)[^key-1006d38bdf0332237db3a10f2be95e48]
+The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2017 (revoked)[^c-1006d38bdf0332237db3a10f2be95e48]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 2nd October 2017
 
-[^key-1006d38bdf0332237db3a10f2be95e48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1006d38bdf0332237db3a10f2be95e48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1006d38bdf0332237db3a10f2be95e48]
+## 1. Citation and commencement[^c-1006d38bdf0332237db3a10f2be95e48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^key-1006d38bdf0332237db3a10f2be95e48]
+## 2. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^c-1006d38bdf0332237db3a10f2be95e48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2016[^key-1006d38bdf0332237db3a10f2be95e48]
+## 3. Revocation of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2016[^c-1006d38bdf0332237db3a10f2be95e48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1006d38bdf0332237db3a10f2be95e48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1006d38bdf0332237db3a10f2be95e48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1006d38bdf0332237db3a10f2be95e48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1006d38bdf0332237db3a10f2be95e48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1006d38bdf0332237db3a10f2be95e48]: Textual amendment: Regulations revoked (27.6.2018) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/151)](https://www.legislation.gov.uk/ssi/2018/151), [reg. 3](https://www.legislation.gov.uk/ssi/2018/151/regulation/3)
+[^c-1006d38bdf0332237db3a10f2be95e48]: Textual amendment: Regulations revoked (27.6.2018) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/151)](https://www.legislation.gov.uk/ssi/2018/151), [reg. 3](https://www.legislation.gov.uk/ssi/2018/151/regulation/3)

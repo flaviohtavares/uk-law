@@ -48,9 +48,9 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 ## 2.
 
-(1) Subject to [^key-5b9b2cfab1a0a35182a691c94dd44cfd]... Schedule 2, the provisions of the 2003 Act specified in Schedule 1 shall come into force on 4<sup>th</sup> April 2005.
+(1) Subject to [^c-5b9b2cfab1a0a35182a691c94dd44cfd]... Schedule 2, the provisions of the 2003 Act specified in Schedule 1 shall come into force on 4<sup>th</sup> April 2005.
 
-(2)[^key-6cabf9cc3f7fcc3808a582302366b8ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6cabf9cc3f7fcc3808a582302366b8ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3.
 
@@ -62,7 +62,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 - (b) Part 2 of Schedule 5 (list of offences for Northern Ireland);
 - (c) in Schedule 36 (further minor and consequential amendments), paragraphs 91, 92(6) and 94.
 
-## 4.[^key-43eed11e51de1117ba0a947619f22fe7]
+## 4.[^c-43eed11e51de1117ba0a947619f22fe7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -312,7 +312,7 @@ The coming into force of the provisions referred to in paragraphs 2, 43(a) and 4
 - (c) an order was made by a magistrates court that the accused be sent for trial for an indictable only offence under section 51 of the Crime and Disorder Act 1998 [^c11913181]; or
 - (d) a bill of indictment was preferred by the direction or with the consent of a judge of the High Court.
 
-#### 4. Transitional Provisions relating to Chapter 1 of Part 12[^key-ba1f11b3e6763ceba14cf92046a123e3]
+#### 4. Transitional Provisions relating to Chapter 1 of Part 12[^c-ba1f11b3e6763ceba14cf92046a123e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -320,11 +320,11 @@ The coming into force of the provisions referred to in paragraphs 2, 43(a) and 4
 
 (1) The coming into force of the provisions mentioned in paragraph (2) is of no effect in relation to an offence committed before 4<sup>th</sup> April 2005.
 
-This is subject to section 1 of the Sentencing (Pre-consolidation) Amendments Act 2020 (and see also the exceptions in Schedule 1 to that Act).[^key-9ff3d201a7f7fab630862e179dfe862c]
+This is subject to section 1 of the Sentencing (Pre-consolidation) Amendments Act 2020 (and see also the exceptions in Schedule 1 to that Act).[^c-9ff3d201a7f7fab630862e179dfe862c]
 
-(2)[^key-a10a6560bb1956549521da1c6a0ea2db] The provisions to which this paragraph applies are—
+(2)[^c-a10a6560bb1956549521da1c6a0ea2db] The provisions to which this paragraph applies are—
 
-- (a)[^key-29cc8c6b4b5b9cf05e4e98fcc6dc10f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-29cc8c6b4b5b9cf05e4e98fcc6dc10f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Schedule 32 (amendments relating to sentencing), paragraphs 2, 5 and 6(a), 8 and 9, 12(4) and (5), 13 to 15, 18(1) and (3), 20 to 23, 26, 31, 32, 35, 36, 38, 47, 54, 59 to 61, 64, 67, 68(1), (3) and (4), 69 to 81, 88, 89, 91, 92, 94 to 97(2) and (3), 98, 99, 100(2) and (3), 101, 102(1) and (2)(a), 103, 104(2) and (3), 105, 106(2), 107,110, 122, 123, and 125 to 129, 130 to 132, 134, 135, 138, 141, and 144;
 - (c) in Part 7 of Schedule 37 (repeals)—
   - (i) the entry relating to section 18 of the Crime and Disorder Act 1998 [^c11913191];
@@ -338,7 +338,7 @@ This is subject to section 1 of the Sentencing (Pre-consolidation) Amendments Ac
   - (ix) the entry relating to the Children Act 1989 [^c11913271];
   - (x) the entry relating to the Criminal Justice and Public Order Act 1994 [^c11913281];
   - (xi) the entry relating to the Criminal Procedure (Scotland) Act 1995 [^c11913291];
-  - (xii) the entry relating to sections 34 to 36A, 36B, 37(9), 40A(4) and (9), 41 to 59, 62, 79 and 80, [^key-1770246cb017c73cb20009d892e4bc79]... 109, 118 to 125, 151 to 153, 158 to 161(2) to (4) and 163 of and Schedules 2, 4, 7 and 8 to the Sentencing Act;
+  - (xii) the entry relating to sections 34 to 36A, 36B, 37(9), 40A(4) and (9), 41 to 59, 62, 79 and 80, [^c-1770246cb017c73cb20009d892e4bc79]... 109, 118 to 125, 151 to 153, 158 to 161(2) to (4) and 163 of and Schedules 2, 4, 7 and 8 to the Sentencing Act;
   - (xiii) the entry relating to section 47 to 51, 53 to 55, 63 and 78(1) of and Schedule 7 to the Criminal Justice and Court Services Act 2000 [^c11913301].
 
 (3) Where an offence is found to have been committed over a period of two or more days, or at some time during a period of two or more days, it shall be taken for the purposes of paragraph (1) to have been committed on the last of those days.
@@ -354,106 +354,106 @@ This is subject to section 1 of the Sentencing (Pre-consolidation) Amendments Ac
 
 ### Community sentences
 
-#### 7. Transitional provisions[^key-bfb01b24211bc63fb28395d869eae0d4]
+#### 7. Transitional provisions[^c-bfb01b24211bc63fb28395d869eae0d4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Savings[^key-bfb01b24211bc63fb28395d869eae0d4]
+#### 12. Savings[^c-bfb01b24211bc63fb28395d869eae0d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bfb01b24211bc63fb28395d869eae0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Saving and Transitional Provisions relating to Chapter 6 of Part 12
 
-#### 14. Saving for prisoners serving sentences of imprisonment of less than 12 months[^key-a12c88bfd078d1c8459324744e12c7d3]
+#### 14. Saving for prisoners serving sentences of imprisonment of less than 12 months[^c-a12c88bfd078d1c8459324744e12c7d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Power of court to recommend licence conditions for certain prisoners[^key-b4069f98436f30b39f91c2d8981f1716]
+#### 15. Power of court to recommend licence conditions for certain prisoners[^c-b4069f98436f30b39f91c2d8981f1716]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. The Parole Board[^key-b4069f98436f30b39f91c2d8981f1716]
+#### 16. The Parole Board[^c-b4069f98436f30b39f91c2d8981f1716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Remand Time[^key-b4069f98436f30b39f91c2d8981f1716]
+#### 17. Remand Time[^c-b4069f98436f30b39f91c2d8981f1716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-b4069f98436f30b39f91c2d8981f1716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-b4069f98436f30b39f91c2d8981f1716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 19. Savings for prisoners convicted of offences committed before 4<sup>th</sup> April 2005
 
 The coming into force of—
 
-- (a)[^key-2ab09944b3d011623c0e1c55461f0a76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2ab09944b3d011623c0e1c55461f0a76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 8(2)(b) of Schedule 32 (Criminal Appeal Act 1968 [^c11913311]);
-- (c)[^key-cda2598dfd986102085b617de04d18e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-cda2598dfd986102085b617de04d18e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cda2598dfd986102085b617de04d18e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cda2598dfd986102085b617de04d18e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 is of no effect in relation to a prisoner serving a sentence of imprisonment imposed in respect of an offence committed before 4<sup>th</sup> April 2005.
 
-**20.**[^key-e415d5dcddef705748541b72384f409d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e415d5dcddef705748541b72384f409d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.** The coming into force of the repeal of section 38 of the Crime and Disorder Act 1998 is of no effect in relation to a child or young person whose post-release supervision relates to a sentence in respect of an offence committed before 4<sup>th</sup> April 2005.
 
-**22.**[^key-91a95b7e5363766b0ebfc6598b72f5ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-91a95b7e5363766b0ebfc6598b72f5ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Transitional arrangements for recall after release[^key-91a95b7e5363766b0ebfc6598b72f5ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 24. Fine defaulters and contemnors[^key-91a95b7e5363766b0ebfc6598b72f5ab]
+#### 23. Transitional arrangements for recall after release[^c-91a95b7e5363766b0ebfc6598b72f5ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Consecutive or concurrent terms[^key-91a95b7e5363766b0ebfc6598b72f5ab]
+#### 24. Fine defaulters and contemnors[^c-91a95b7e5363766b0ebfc6598b72f5ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Repatriation of Prisoners Act 1984[^key-91a95b7e5363766b0ebfc6598b72f5ab]
+#### 25. Consecutive or concurrent terms[^c-91a95b7e5363766b0ebfc6598b72f5ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Crime (Sentences) Act 1997[^key-91a95b7e5363766b0ebfc6598b72f5ab]
+#### 26. Repatriation of Prisoners Act 1984[^c-91a95b7e5363766b0ebfc6598b72f5ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-91a95b7e5363766b0ebfc6598b72f5ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 29. Powers of Criminal Courts (Sentencing) Act 2000[^key-fe0305ce1cc3827b656a55df02298d40]
+#### 27. Crime (Sentences) Act 1997[^c-91a95b7e5363766b0ebfc6598b72f5ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-b7237fb69b080c4e893107e082f9bb9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-91a95b7e5363766b0ebfc6598b72f5ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. The Criminal Justice and Court Services Act 2000[^key-b7237fb69b080c4e893107e082f9bb9e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 32. The International Criminal Court Act 2001[^key-b7237fb69b080c4e893107e082f9bb9e]
+#### 29. Powers of Criminal Courts (Sentencing) Act 2000[^c-fe0305ce1cc3827b656a55df02298d40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Persons liable to removal from the United Kingdom[^key-b7237fb69b080c4e893107e082f9bb9e]
+**30.**[^c-b7237fb69b080c4e893107e082f9bb9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31. The Criminal Justice and Court Services Act 2000[^c-b7237fb69b080c4e893107e082f9bb9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 34. Saving for service prisoners[^key-b7237fb69b080c4e893107e082f9bb9e]
+#### 32. The International Criminal Court Act 2001[^c-b7237fb69b080c4e893107e082f9bb9e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 33. Persons liable to removal from the United Kingdom[^c-b7237fb69b080c4e893107e082f9bb9e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34. Saving for service prisoners[^c-b7237fb69b080c4e893107e082f9bb9e]
 
 **No longer in force.**
 
@@ -531,11 +531,11 @@ This Order brings into force the provisions of the Criminal Justice Act 2003 (c.
 
 [^c11912901]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-5b9b2cfab1a0a35182a691c94dd44cfd]: Textual amendment: Words in art. 2(1) omitted (30.11.2009) by virtue of [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2009/3111/article/2/a)
+[^c-5b9b2cfab1a0a35182a691c94dd44cfd]: Textual amendment: Words in art. 2(1) omitted (30.11.2009) by virtue of [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2009/3111/article/2/a)
 
-[^key-6cabf9cc3f7fcc3808a582302366b8ca]: Textual amendment: Art. 2(2) omitted (30.11.2009) by virtue of [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2009/3111/article/2/b)
+[^c-6cabf9cc3f7fcc3808a582302366b8ca]: Textual amendment: Art. 2(2) omitted (30.11.2009) by virtue of [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2009/3111/article/2/b)
 
-[^key-43eed11e51de1117ba0a947619f22fe7]: Textual amendment: Art. 4 omitted (30.11.2009) by virtue of [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2009/3111/article/2/c)
+[^c-43eed11e51de1117ba0a947619f22fe7]: Textual amendment: Art. 4 omitted (30.11.2009) by virtue of [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2009/3111/article/2/c)
 
 [^c11912911]: Marginal citation: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 
@@ -593,13 +593,13 @@ This Order brings into force the provisions of the Criminal Justice Act 2003 (c.
 
 [^c11913181]: Marginal citation: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-ba1f11b3e6763ceba14cf92046a123e3]: Textual amendment: Sch. 2 para. 4 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ba1f11b3e6763ceba14cf92046a123e3]: Textual amendment: Sch. 2 para. 4 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9ff3d201a7f7fab630862e179dfe862c]: Textual amendment: Words in Sch. 2 para. 5(1) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 338](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/338) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9ff3d201a7f7fab630862e179dfe862c]: Textual amendment: Words in Sch. 2 para. 5(1) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 338](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/338) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a10a6560bb1956549521da1c6a0ea2db]: Modification: Sch. 2 para. 5(2) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 136](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/136); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-a10a6560bb1956549521da1c6a0ea2db]: Modification: Sch. 2 para. 5(2) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 136](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/136); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-29cc8c6b4b5b9cf05e4e98fcc6dc10f5]: Textual amendment: Sch. 2 para. 5(2)(a) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-29cc8c6b4b5b9cf05e4e98fcc6dc10f5]: Textual amendment: Sch. 2 para. 5(2)(a) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c11913191]: Marginal citation: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
@@ -623,26 +623,26 @@ This Order brings into force the provisions of the Criminal Justice Act 2003 (c.
 
 [^c11913291]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-1770246cb017c73cb20009d892e4bc79]: Textual amendment: Word in Sch. 2 para. 5(2)(c)(xii) omitted (3.12.2012) by virtue of [The Criminal Justice Act 2003 (Commencement No. 30 and Consequential Amendment) Order 2012 (S.I. 2012/2905)](https://www.legislation.gov.uk/uksi/2012/2905), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/1/a)[(2)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/2)
+[^c-1770246cb017c73cb20009d892e4bc79]: Textual amendment: Word in Sch. 2 para. 5(2)(c)(xii) omitted (3.12.2012) by virtue of [The Criminal Justice Act 2003 (Commencement No. 30 and Consequential Amendment) Order 2012 (S.I. 2012/2905)](https://www.legislation.gov.uk/uksi/2012/2905), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/1/a)[(2)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/2)
 
 [^c11913301]: Marginal citation: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43)
 
-[^key-bfb01b24211bc63fb28395d869eae0d4]: Textual amendment: Sch. 2 paras. 7-13 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bfb01b24211bc63fb28395d869eae0d4]: Textual amendment: Sch. 2 paras. 7-13 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a12c88bfd078d1c8459324744e12c7d3]: Textual amendment: Sch. 2 para. 14 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/17); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(l)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/l)
+[^c-a12c88bfd078d1c8459324744e12c7d3]: Textual amendment: Sch. 2 para. 14 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/17); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(l)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/l)
 
-[^key-b4069f98436f30b39f91c2d8981f1716]: Textual amendment: Sch. 2 paras. 15-18 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-b4069f98436f30b39f91c2d8981f1716]: Textual amendment: Sch. 2 paras. 15-18 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-2ab09944b3d011623c0e1c55461f0a76]: Textual amendment: Sch. 2 para. 19(a) revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-2ab09944b3d011623c0e1c55461f0a76]: Textual amendment: Sch. 2 para. 19(a) revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
 [^c11913311]: Marginal citation: [1968 c. 18](https://www.legislation.gov.uk/ukpga/1968/18).
 
-[^key-cda2598dfd986102085b617de04d18e6]: Textual amendment: Sch. 2 para. 19(c)(d) revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-cda2598dfd986102085b617de04d18e6]: Textual amendment: Sch. 2 para. 19(c)(d) revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-e415d5dcddef705748541b72384f409d]: Textual amendment: Sch. 2 para. 20 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-e415d5dcddef705748541b72384f409d]: Textual amendment: Sch. 2 para. 20 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-91a95b7e5363766b0ebfc6598b72f5ab]: Textual amendment: Sch. 2 paras. 22-28 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-91a95b7e5363766b0ebfc6598b72f5ab]: Textual amendment: Sch. 2 paras. 22-28 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-fe0305ce1cc3827b656a55df02298d40]: Textual amendment: Sch. 2 para. 29 omitted (3.12.2012) by virtue of [The Criminal Justice Act 2003 (Commencement No. 30 and Consequential Amendment) Order 2012 (S.I. 2012/2905)](https://www.legislation.gov.uk/uksi/2012/2905), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/2)
+[^c-fe0305ce1cc3827b656a55df02298d40]: Textual amendment: Sch. 2 para. 29 omitted (3.12.2012) by virtue of [The Criminal Justice Act 2003 (Commencement No. 30 and Consequential Amendment) Order 2012 (S.I. 2012/2905)](https://www.legislation.gov.uk/uksi/2012/2905), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/2)
 
-[^key-b7237fb69b080c4e893107e082f9bb9e]: Textual amendment: Sch. 2 paras. 30-34 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-b7237fb69b080c4e893107e082f9bb9e]: Textual amendment: Sch. 2 paras. 30-34 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)

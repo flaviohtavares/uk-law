@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (1) A person who is applying for, or who has obtained, an interdict for the purpose of protection against abuse may apply to the court for a power of arrest to be attached to the interdict under this Act.
 
-(1A)[^key-35e526cf4894f43d33ec2aeed394a429] In the case of an interdict which is—
+(1A)[^c-35e526cf4894f43d33ec2aeed394a429] In the case of an interdict which is—
 
 - (a) a matrimonial interdict (as defined by section 14(2) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59)) which is ancillary to—
   - (i) an exclusion order within the meaning of section 4(1) of that Act; or
@@ -49,10 +49,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   the court must, on an application under subsection (1), attach a power of arrest to the interdict.
 
-(2) In the case of any other interdict,[^key-fc15d036ce8a1387c6b35daf2e902f01] the court must, on such application, attach a power of arrest to the interdict if satisfied that—
+(2) In the case of any other interdict,[^c-fc15d036ce8a1387c6b35daf2e902f01] the court must, on such application, attach a power of arrest to the interdict if satisfied that—
 
 - (a) the interdicted person has been given an opportunity to be heard by, or represented before, the court;
-- (b)[^key-6c8bcb1cdc90d058aa32249bbe830359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6c8bcb1cdc90d058aa32249bbe830359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) attaching the power of arrest is necessary to protect the applicant from a risk of abuse in breach of the interdict.
 
 (3) The court, on attaching a power of arrest, must specify a date of expiry for the power, being a date not later than three years after the date when the power is attached.
@@ -99,7 +99,7 @@ whichever is the earliest.
 - (c) a recall of a power of arrest has been granted; or
 - (d) the relevant interdict has been varied or recalled,
 
-the person who has obtained such power, extension, variation or recall, or such other person as may be prescribed, must deliver such documents as may be prescribed to the chief constable of the Police Service of Scotland.[^key-9593fdc59ce2eddb6619b36bd9f1e3ed]
+the person who has obtained such power, extension, variation or recall, or such other person as may be prescribed, must deliver such documents as may be prescribed to the chief constable of the Police Service of Scotland.[^c-9593fdc59ce2eddb6619b36bd9f1e3ed]
 
 (2) In this section “**relevant interdict**” means the interdict to which the power of arrest is or was attached.
 
@@ -110,26 +110,26 @@ the person who has obtained such power, extension, variation or recall, or such 
 - (a) has reasonable cause for suspecting that person of being in breach of the interdict; and
 - (b) considers that there would, if that person were not arrested, be a risk of abuse or further abuse by that person in breach of the interdict.
 
-(2) A person who is arrested under subsection (1) must be [^key-1d22eb1c48ca67310c6296bbcd92472d]... detained until—
+(2) A person who is arrested under subsection (1) must be [^c-1d22eb1c48ca67310c6296bbcd92472d]... detained until—
 
-- (a)[^key-0403b2e446d960bdfe27b18b788e3053] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0403b2e446d960bdfe27b18b788e3053] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) brought before a court under section 5.
 
-(3)[^key-f88b70f4d89c5e14dd7151d1bdc81d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f88b70f4d89c5e14dd7151d1bdc81d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f88b70f4d89c5e14dd7151d1bdc81d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f88b70f4d89c5e14dd7151d1bdc81d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f88b70f4d89c5e14dd7151d1bdc81d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f88b70f4d89c5e14dd7151d1bdc81d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) When a person has been arrested under this section the facts and circumstances giving rise to the arrest must be reported to the procurator fiscal as soon as is practicable.
 
 ## 5. Court appearance
 
-(1) Where a person is detained under section 4(2), the[^key-3cb6b40b664bee2598bca2a9b1f6d206] person must wherever practicable be brought before the sheriff sitting as a court of summary criminal jurisdiction for the district in which the person was arrested not later than in the course of the first day after the arrest, such day not being a Saturday, a Sunday or a court holiday for that court.
+(1) Where a person is detained under section 4(2), the[^c-3cb6b40b664bee2598bca2a9b1f6d206] person must wherever practicable be brought before the sheriff sitting as a court of summary criminal jurisdiction for the district in which the person was arrested not later than in the course of the first day after the arrest, such day not being a Saturday, a Sunday or a court holiday for that court.
 
 (2) Nothing in subsection (1) prevents the detained person from being brought before the sheriff on a Saturday, a Sunday or a court holiday if the sheriff is sitting on such a day for the disposal of criminal business.
 
-(2A)[^key-d3c6c813d8ccdee85be5759b60697d70] Subsections (3) to (5) apply where, on being brought before the sheriff under this section, the detained person is not accused on petition or charged on complaint with an offence in respect of the facts and circumstances giving rise to the arrest.
+(2A)[^c-d3c6c813d8ccdee85be5759b60697d70] Subsections (3) to (5) apply where, on being brought before the sheriff under this section, the detained person is not accused on petition or charged on complaint with an offence in respect of the facts and circumstances giving rise to the arrest.
 
 (3) When the detained person is brought before the sheriff under this section the procurator fiscal must present to the court a petition—
 
@@ -148,7 +148,7 @@ the sheriff may order that person to be detained for a further period not exceed
 
 (5) If the sheriff does not order further detention the detained person must, unless in custody in respect of any other matter, be released from custody.
 
-## 6. Amendment of the Matrimonial Homes (Family Protection) (Scotland) Act 1981[^key-942beb3d48057581769aca9ab3d346de]
+## 6. Amendment of the Matrimonial Homes (Family Protection) (Scotland) Act 1981[^c-942beb3d48057581769aca9ab3d346de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,22 +179,22 @@ In this Act, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-35e526cf4894f43d33ec2aeed394a429]: Textual amendment: S. 1(1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 32(2)](https://www.legislation.gov.uk/asp/2006/2/section/32/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-35e526cf4894f43d33ec2aeed394a429]: Textual amendment: S. 1(1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 32(2)](https://www.legislation.gov.uk/asp/2006/2/section/32/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-fc15d036ce8a1387c6b35daf2e902f01]: Textual amendment: Words in s. 1(2) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 32(3)](https://www.legislation.gov.uk/asp/2006/2/section/32/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-fc15d036ce8a1387c6b35daf2e902f01]: Textual amendment: Words in s. 1(2) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 32(3)](https://www.legislation.gov.uk/asp/2006/2/section/32/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-6c8bcb1cdc90d058aa32249bbe830359]: Textual amendment: S. 1(2)(b) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-6c8bcb1cdc90d058aa32249bbe830359]: Textual amendment: S. 1(2)(b) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-9593fdc59ce2eddb6619b36bd9f1e3ed]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/asp/2001/14/section/3/1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 18](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/18); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-9593fdc59ce2eddb6619b36bd9f1e3ed]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/asp/2001/14/section/3/1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 18](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/18); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-1d22eb1c48ca67310c6296bbcd92472d]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/asp/2001/14/section/4/2) omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/2/a/i)
+[^c-1d22eb1c48ca67310c6296bbcd92472d]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/asp/2001/14/section/4/2) omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/2/a/i)
 
-[^key-0403b2e446d960bdfe27b18b788e3053]: Textual amendment: [S. 4(2)(a)](https://www.legislation.gov.uk/asp/2001/14/section/4/2/a) omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/2/a/ii)
+[^c-0403b2e446d960bdfe27b18b788e3053]: Textual amendment: [S. 4(2)(a)](https://www.legislation.gov.uk/asp/2001/14/section/4/2/a) omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/2/a/ii)
 
-[^key-f88b70f4d89c5e14dd7151d1bdc81d2e]: Textual amendment: [S. 4(3)-(5)](https://www.legislation.gov.uk/asp/2001/14/section/4/3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/2/b)
+[^c-f88b70f4d89c5e14dd7151d1bdc81d2e]: Textual amendment: [S. 4(3)-(5)](https://www.legislation.gov.uk/asp/2001/14/section/4/3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/2/b)
 
-[^key-3cb6b40b664bee2598bca2a9b1f6d206]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/asp/2001/14/section/5/1) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/3/a)
+[^c-3cb6b40b664bee2598bca2a9b1f6d206]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/asp/2001/14/section/5/1) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/3/a)
 
-[^key-d3c6c813d8ccdee85be5759b60697d70]: Textual amendment: [S. 5(2A)](https://www.legislation.gov.uk/asp/2001/14/section/5/2A) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(3)(b)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/3/b)
+[^c-d3c6c813d8ccdee85be5759b60697d70]: Textual amendment: [S. 5(2A)](https://www.legislation.gov.uk/asp/2001/14/section/5/2A) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 3(3)(b)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/3/3/b)
 
-[^key-942beb3d48057581769aca9ab3d346de]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2001/14/section/6) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-942beb3d48057581769aca9ab3d346de]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2001/14/section/6) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)

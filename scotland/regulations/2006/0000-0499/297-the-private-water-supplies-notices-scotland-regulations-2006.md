@@ -42,11 +42,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has, in accordance with paragraph 2(2) of Schedule 2 to that Act, been laid before and approved by resolution of the Scottish Parliament:
 
-## 1. Citation and commencement[^key-3719534dfd8c14a0dad2e0222449d7aa]
+## 1. Citation and commencement[^c-3719534dfd8c14a0dad2e0222449d7aa]
 
 These Regulations may be cited as the Private Water Supplies (Notices) (Scotland) Regulations 2006 and shall come into force on 3rd July 2006.
 
-## 2. Amendment of the Water (Scotland) Act 1980 in relation to private water supplies[^key-3c5d3a8c35ce91b178402f2b7be4fd8d]
+## 2. Amendment of the Water (Scotland) Act 1980 in relation to private water supplies[^c-3c5d3a8c35ce91b178402f2b7be4fd8d]
 
 After section 76H (Effect, confirmation and variation of notice under section 76G) of the Water (Scotland) Act 1980[^f00002], insert–
 
@@ -111,8 +111,8 @@ New section 76HA(3) modifies section 76H of the 1980 Act to make it an offence t
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred on the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3719534dfd8c14a0dad2e0222449d7aa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2006/297/regulation/1) in force at 3.7.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/297/regulation/1)
+[^c-3719534dfd8c14a0dad2e0222449d7aa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2006/297/regulation/1) in force at 3.7.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/297/regulation/1)
 
-[^key-3c5d3a8c35ce91b178402f2b7be4fd8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/297/regulation/2) in force at 3.7.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/297/regulation/1)
+[^c-3c5d3a8c35ce91b178402f2b7be4fd8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/297/regulation/2) in force at 3.7.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/297/regulation/1)
 
 [^f00002]: Footnote: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45). Sections 76G and 76H were inserted by the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), Schedule 22, paragraph 1.

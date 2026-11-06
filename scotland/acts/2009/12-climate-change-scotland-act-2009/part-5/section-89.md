@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Enforcement authorities[^key-854d5d7e802b4182b555cbac66aab2d3]
+## 89. Enforcement authorities[^c-854d5d7e802b4182b555cbac66aab2d3]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-854d5d7e802b4182b555cbac66aab2d3]: Commencement: S. 89 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-854d5d7e802b4182b555cbac66aab2d3]: Commencement: S. 89 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

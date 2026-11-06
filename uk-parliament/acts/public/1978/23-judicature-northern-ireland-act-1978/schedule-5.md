@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Minor and Consequential Amendments[^key-aa46c9e5d9a9f96e86072816899bfb97]
+## SCHEDULE 5 — Minor and Consequential Amendments[^c-aa46c9e5d9a9f96e86072816899bfb97]
 
 *Extent: E+W+S+N.I.*
 
@@ -386,7 +386,7 @@ In paragraph 5(2) of Schedule 3 after the words “Supreme Court of Judicature (
 
 ##### The House of Commons Disqualification Act 1975[^c13730371]
 
-[^key-90615978c2b786965491cdb6f900c7cf]...
+[^c-90615978c2b786965491cdb6f900c7cf]...
 
 In Part I of Schedule 1 for the words from “or Temporary County Court Judge” to “deputy of such a Judge” substitute the words “or deputy County Court Judge in Northern Ireland”.
 
@@ -396,7 +396,7 @@ In Part III of Schedule 1 the entry relating to an officer of or attached to the
 
 ##### The Northern Ireland Assembly Disqualification Act 1975[^c13730381]
 
-[^key-90615978c2b786965491cdb6f900c7cf]...
+[^c-90615978c2b786965491cdb6f900c7cf]...
 
 In Part I of Schedule 1 for the words from “Temporary County Court Judge” to “deputy of such a Judge” substitute the words “or deputy County Court Judge in Northern Ireland”.
 
@@ -886,7 +886,7 @@ In Articles 6(4) and 7(2) for the words “Court of Criminal Appeal” wherever 
 
 ## Annotations
 
-[^key-aa46c9e5d9a9f96e86072816899bfb97]: Textual amendment: Sch. 5 entries repealed (15.10.2002 for specified purposes, 3.4.2006 for specified purposes, 12.4.2010 for specified purposes) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2002/319](https://www.legislation.gov.uk/nisr/2002/319), [art. 2](https://www.legislation.gov.uk/nisr/2002/319/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2002/319/schedule); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2), [Sch. para. 11(f)](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/11/f); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(i)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/i)
+[^c-aa46c9e5d9a9f96e86072816899bfb97]: Textual amendment: Sch. 5 entries repealed (15.10.2002 for specified purposes, 3.4.2006 for specified purposes, 12.4.2010 for specified purposes) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2002/319](https://www.legislation.gov.uk/nisr/2002/319), [art. 2](https://www.legislation.gov.uk/nisr/2002/319/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2002/319/schedule); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2), [Sch. para. 11(f)](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/11/f); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(i)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/i)
 
 [^c20733661]: Textual amendment: Words in Sch. 5 para. 1(1)(2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 6(1)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6/1); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -1038,7 +1038,7 @@ In Articles 6(4) and 7(2) for the words “Court of Criminal Appeal” wherever 
 
 [^c13730371]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
-[^key-90615978c2b786965491cdb6f900c7cf]: Textual amendment: Entries relating to section 1(3) of the House of Commons Disqualification Act 1975 and section 1(2) of the Northern Ireland Assembly Disqualification Act 1975 Sch. 5 Pt. II omitted (12.4.2010) by virtue of [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 5(5)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/5/5) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-90615978c2b786965491cdb6f900c7cf]: Textual amendment: Entries relating to section 1(3) of the House of Commons Disqualification Act 1975 and section 1(2) of the Northern Ireland Assembly Disqualification Act 1975 Sch. 5 Pt. II omitted (12.4.2010) by virtue of [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 5(5)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/5/5) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
 [^c13730381]: Marginal citation: [1972 c. 25](https://www.legislation.gov.uk/ukpga/1972/25).
 

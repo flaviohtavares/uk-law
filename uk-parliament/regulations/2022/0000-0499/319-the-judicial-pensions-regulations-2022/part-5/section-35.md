@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Provisional amount of deferred pension[^key-5f21b708d1a560919aa81b833ea20e99]
+## 35. Provisional amount of deferred pension[^c-5f21b708d1a560919aa81b833ea20e99]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f21b708d1a560919aa81b833ea20e99]: Commencement: Reg. 35 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-5f21b708d1a560919aa81b833ea20e99]: Commencement: Reg. 35 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

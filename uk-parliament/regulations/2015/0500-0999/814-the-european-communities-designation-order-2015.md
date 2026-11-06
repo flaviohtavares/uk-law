@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) Order 2015 (revoked)[^key-c20b33406ca80958e60bdfda5cee42b5]
+The European Communities (Designation) Order 2015 (revoked)[^c-c20b33406ca80958e60bdfda5cee42b5]
 
 Made
 
@@ -52,34 +52,34 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-c20b33406ca80958e60bdfda5cee42b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c20b33406ca80958e60bdfda5cee42b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-c20b33406ca80958e60bdfda5cee42b5]
+## 1. Citation and interpretation[^c-c20b33406ca80958e60bdfda5cee42b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the prevention and limitation of the effects of accidents involving dangerous substances[^key-c20b33406ca80958e60bdfda5cee42b5]
+## 2. Designation in relation to the prevention and limitation of the effects of accidents involving dangerous substances[^c-c20b33406ca80958e60bdfda5cee42b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Territorial restrictions[^key-c20b33406ca80958e60bdfda5cee42b5]
+## 3. Territorial restrictions[^c-c20b33406ca80958e60bdfda5cee42b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-c20b33406ca80958e60bdfda5cee42b5]
+## 4. Relationship with other designations[^c-c20b33406ca80958e60bdfda5cee42b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of earlier designation[^key-c20b33406ca80958e60bdfda5cee42b5]
+## 5. Revocation of earlier designation[^c-c20b33406ca80958e60bdfda5cee42b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c20b33406ca80958e60bdfda5cee42b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c20b33406ca80958e60bdfda5cee42b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c20b33406ca80958e60bdfda5cee42b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c20b33406ca80958e60bdfda5cee42b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c20b33406ca80958e60bdfda5cee42b5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/814) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c20b33406ca80958e60bdfda5cee42b5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/814) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

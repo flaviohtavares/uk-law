@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269CD. Relevant profits[^key-83cbe994174a7a364b7efbbd76cdecbf]
+## 269CD. Relevant profits[^c-83cbe994174a7a364b7efbbd76cdecbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83cbe994174a7a364b7efbbd76cdecbf]: Textual amendment: S. 269CD omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/21)
+[^c-83cbe994174a7a364b7efbbd76cdecbf]: Textual amendment: S. 269CD omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/21)

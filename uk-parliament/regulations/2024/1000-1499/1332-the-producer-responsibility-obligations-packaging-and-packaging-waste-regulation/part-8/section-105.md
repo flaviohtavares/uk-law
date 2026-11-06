@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Right of appeal: disposal costs and scheme administrator costs[^key-b7affe880f139998ee37326695d3e36a]
+## 105. Right of appeal: disposal costs and scheme administrator costs[^c-b7affe880f139998ee37326695d3e36a]
 
 *Extent: E+W+S+N.I.*
 
 (1) A producer may appeal to the appeal body against a decision of the scheme administrator—
 
-- (a) to serve a notice of liability to pay a disposal fee or administration fee on the producer under or 67A[^key-4b329d852589e3c8abf54627129c8375];
+- (a) to serve a notice of liability to pay a disposal fee or administration fee on the producer under or 67A[^c-4b329d852589e3c8abf54627129c8375];
 - (b) to serve a notice of a revised fee on the producer under regulation 82.
 
 (2) A holding company may appeal to the appeal body against a decision of the scheme administrator—
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7affe880f139998ee37326695d3e36a]: Commencement: Reg. 105 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-b7affe880f139998ee37326695d3e36a]: Commencement: Reg. 105 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-4b329d852589e3c8abf54627129c8375]: Textual amendment: Words in [reg. 105(1)(a)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/105/1/a) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/1369/regulation/9) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-4b329d852589e3c8abf54627129c8375]: Textual amendment: Words in [reg. 105(1)(a)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/105/1/a) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/1369/regulation/9) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

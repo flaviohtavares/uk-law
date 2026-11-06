@@ -24,27 +24,27 @@ Section 148(1).
 
 ### Part I — Amendments of Broadcasting Act 1990 relating to digital terrestrial broadcasting
 
-**1.**[^key-6fc60196528c733c84d058e37127f83e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6fc60196528c733c84d058e37127f83e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** In section 13 of the 1990 Act (prohibition on providing television services without a licence), in subsection (1)—
 
 - (a) for “or (b)” there is substituted “ ,(b), (c) or (d) ”, and
 - (b) after “this Part” there is inserted “ or Part I of the Broadcasting Act 1996 ”.
 
-**3.**[^key-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b51e19ba4b926e78facd98400a60962b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 97 of the 1990 Act (prohibition on providing independent radio services without a licence), in subsection (1)—
 
 - (a) after “independent radio service” there is inserted “ or any service falling within section 84(1)(d), (e) or (f) ”, and
 - (b) after “this Part” there is inserted “ or Part II of the Broadcasting Act 1996 ”.
 
-**8.**[^key-d3cb31f426918ecdb37cc37fb7b48b03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d3cb31f426918ecdb37cc37fb7b48b03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** In section 126 of the 1990 Act (interpretation of Part III), at the end of the definition of “**sound broadcasting service**” there is inserted “ but does not include a radio multiplex service (as defined by section 40(1) of the Broadcasting Act 1996) ”.
 
@@ -53,19 +53,19 @@ Section 148(1).
 - (a) after “Welsh Authority” there is inserted “ and the service referred to in section 57(1A)(a) ”, and
 - (b) after “Radio Authority” there is inserted “ , any simulcast radio service (within the meaning of Part II of the Broadcasting Act 1996), and any national digital sound programme service (within the meaning of that Part of that Act) subject to regulation by the Radio Authority ”.
 
-**11.**[^key-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Other amendments of Broadcasting Act 1990
 
-**12.**[^key-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-00bcb4c18f34c4e29a664d386f5e855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.**[^c11523901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-c0c3d546a3ef0f5df844a5790a2eb06c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c0c3d546a3ef0f5df844a5790a2eb06c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In section 71 of the 1990 Act (interpretation of Part I), after the definition of “**regional Channel 3 service**” there is inserted—
 
@@ -73,11 +73,11 @@ Section 148(1).
 
 .
 
-**18.**[^key-e8a2a2db6e0fa59f939ef61faf67651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-e8a2a2db6e0fa59f939ef61faf67651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-e8a2a2db6e0fa59f939ef61faf67651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-e8a2a2db6e0fa59f939ef61faf67651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-e8a2a2db6e0fa59f939ef61faf67651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e8a2a2db6e0fa59f939ef61faf67651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.**[^c11523931] In section 202(1) of the 1990 Act (interpretation)—
 
@@ -95,20 +95,20 @@ Section 148(1).
 
   .
 
-**22.**[^key-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-a04b678f2ee1189bf5296d258b8daf4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **26.** In Schedule 19 to the 1990 Act (the Gaelic Broadcasting Committee: supplementary provisions)—
 
 - (a) in paragraph 8—
   - (i) for “Gaelic Television Fund” there is substituted “ Gaelic Broadcasting Fund ”; and
-  - (ii)[^key-12b6b77b05b70cda16f48e38096d55c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-453acde42bf006d8396fe7c5000f5bd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-12b6b77b05b70cda16f48e38096d55c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-453acde42bf006d8396fe7c5000f5bd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Amendments of other enactments
 
@@ -118,7 +118,7 @@ Section 148(1).
 
 **27.** In section 19 of the Welsh Development Agency Act 1975 (the Agency and the media), in subsection (11)—
 
-- (a)[^key-850d3c9aa55d75f3565ecf0d51428b16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-850d3c9aa55d75f3565ecf0d51428b16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “**relevant licence**” for “(as the case may be) Part III of that Act” there is substituted “ III of the Broadcasting Act 1990 or Part I or II of the Broadcasting Act 1996. ”
 
 #### The Representation of the People Act 1983 (c. 2)
@@ -159,29 +159,29 @@ Section 148(1).
 
 ## Annotations
 
-[^key-6fc60196528c733c84d058e37127f83e]: Textual amendment: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/1) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6fc60196528c733c84d058e37127f83e]: Textual amendment: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/1) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b51e19ba4b926e78facd98400a60962b]: Textual amendment: [Sch. 10 paras. 3-6](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/3) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b51e19ba4b926e78facd98400a60962b]: Textual amendment: [Sch. 10 paras. 3-6](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/3) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d3cb31f426918ecdb37cc37fb7b48b03]: Textual amendment: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/8) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d3cb31f426918ecdb37cc37fb7b48b03]: Textual amendment: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/8) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-00bcb4c18f34c4e29a664d386f5e855e]: Textual amendment: [Sch. 10 paras. 11-14](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/11) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-00bcb4c18f34c4e29a664d386f5e855e]: Textual amendment: [Sch. 10 paras. 11-14](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/11) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c11523901]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1996/55/section/15) repealed (11.7.1997) by [S.I. 1997/1682](https://www.legislation.gov.uk/uksi/1997/1682), [reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1682/regulation/6/1)
 
-[^key-c0c3d546a3ef0f5df844a5790a2eb06c]: Textual amendment: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/16) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c0c3d546a3ef0f5df844a5790a2eb06c]: Textual amendment: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/16) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e8a2a2db6e0fa59f939ef61faf67651d]: Textual amendment: [Sch. 10 paras. 18-20](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/18) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e8a2a2db6e0fa59f939ef61faf67651d]: Textual amendment: [Sch. 10 paras. 18-20](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/18) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c11523931]: Commencement: [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/21) wholly in force: Sch. 10 para. 21 not in force at royal assent, see [s. 149(2)](https://www.legislation.gov.uk/ukpga/1996/55/section/149/2); [Sch. 10 para. 21(a)(c)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/21/a/c) in force at 1.10.1996 by [S.I. 1996/2120](https://www.legislation.gov.uk/uksi/1996/2120), [art. 4](https://www.legislation.gov.uk/uksi/1996/2120/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2120/schedule/1); [Sch. 10 para. 21(b)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/21/b) in force at 1.11.1996 by [S.I. 1996/2120](https://www.legislation.gov.uk/uksi/1996/2120), [art. 5](https://www.legislation.gov.uk/uksi/1996/2120/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/2120/schedule/2)
 
-[^key-a04b678f2ee1189bf5296d258b8daf4e]: Textual amendment: [Sch. 10 paras. 22-25](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/22) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a04b678f2ee1189bf5296d258b8daf4e]: Textual amendment: [Sch. 10 paras. 22-25](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/22) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-12b6b77b05b70cda16f48e38096d55c2]: Textual amendment: [Sch. 10 para. 26(a)(ii)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/26/a/ii) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-12b6b77b05b70cda16f48e38096d55c2]: Textual amendment: [Sch. 10 para. 26(a)(ii)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/26/a/ii) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-453acde42bf006d8396fe7c5000f5bd9]: Textual amendment: [Sch. 10 para. 26(b)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/26/b) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-453acde42bf006d8396fe7c5000f5bd9]: Textual amendment: [Sch. 10 para. 26(b)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/26/b) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-850d3c9aa55d75f3565ecf0d51428b16]: Textual amendment: [Sch. 10 para. 27(a)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/27/a) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-850d3c9aa55d75f3565ecf0d51428b16]: Textual amendment: [Sch. 10 para. 27(a)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/27/a) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c11523941]: Textual amendment: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/1996/55/schedule/10/paragraph/29) repealed (16.3.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/158/2), [Sch. 22](https://www.legislation.gov.uk/ukpga/2000/41/schedule/22) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 3](https://www.legislation.gov.uk/uksi/2001/222/article/3)
 

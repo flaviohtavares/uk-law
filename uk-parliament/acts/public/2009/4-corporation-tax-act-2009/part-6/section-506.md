@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies to arrangements if under them—
 
-- (a)[^key-fd5daba61097f60f047be27f705b93b7] a person (“the principal”) appoints an agent,
+- (a)[^c-fd5daba61097f60f047be27f705b93b7] a person (“the principal”) appoints an agent,
 - (ab) one or both of the principal and agent is a financial institution,
 - (b) the agent uses money provided by the principal with a view to producing a profit,
 - (c) the principal is entitled, to a specified extent, to profits resulting from the use of the money,
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd5daba61097f60f047be27f705b93b7]: Textual amendment: S. 506(1)(a)(ab) substituted for s. 506(1)(a) (with effect in accordance with art. 1(3) of the amending S.I.) by [Alternative Finance Arrangements (Amendment) Order 2009 (S.I. 2009/2568)](https://www.legislation.gov.uk/uksi/2009/2568), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2568/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2009/2568/article/3/3)
+[^c-fd5daba61097f60f047be27f705b93b7]: Textual amendment: S. 506(1)(a)(ab) substituted for s. 506(1)(a) (with effect in accordance with art. 1(3) of the amending S.I.) by [Alternative Finance Arrangements (Amendment) Order 2009 (S.I. 2009/2568)](https://www.legislation.gov.uk/uksi/2009/2568), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2568/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2009/2568/article/3/3)

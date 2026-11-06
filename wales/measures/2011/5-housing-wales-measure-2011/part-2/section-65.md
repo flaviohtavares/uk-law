@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Persons to whom compensation may be awarded[^key-01f5a85b86149d5832d99590f9aae6e2]
+## 65. Persons to whom compensation may be awarded[^c-01f5a85b86149d5832d99590f9aae6e2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After section 50O of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-01f5a85b86149d5832d99590f9aae6e2]: Commencement: [S. 65](https://www.legislation.gov.uk/mwa/2011/5/section/65) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-01f5a85b86149d5832d99590f9aae6e2]: Commencement: [S. 65](https://www.legislation.gov.uk/mwa/2011/5/section/65) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

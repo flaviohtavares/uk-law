@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Interpretation of regulation 127[^key-1c44d3f434591f51c121746476922d36]
+## 128. Interpretation of regulation 127[^c-1c44d3f434591f51c121746476922d36]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c44d3f434591f51c121746476922d36]: Commencement: Reg. 128 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-1c44d3f434591f51c121746476922d36]: Commencement: Reg. 128 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Fit and proper person: relevant considerations[^key-d3ef5952d8a34b07c64dc593407860ca]
+## 9. Fit and proper person: relevant considerations[^c-d3ef5952d8a34b07c64dc593407860ca]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ is a fit and proper person to be a service provider or, as the case may be, a re
 
 (5) Evidence is within this subsection if—
 
-- (a) it shows that any other person associated or formerly associated with the person (whether on a personal, work or other basis) has done any of the things set out in subsection (4) or (6)[^key-fefdeafca4cb3b659da1256cdfa1aeda], and
+- (a) it shows that any other person associated or formerly associated with the person (whether on a personal, work or other basis) has done any of the things set out in subsection (4) or (6)[^c-fefdeafca4cb3b659da1256cdfa1aeda], and
 - (b) it appears to the Welsh Ministers that the evidence is relevant to the question as to whether the person is a fit and proper person to be a service provider or, as the case may be, a responsible individual.
 
 (6) Evidence is within this subsection if it shows that the person has been responsible for, contributed to or facilitated misconduct or mismanagement in the provision—
@@ -58,7 +58,7 @@ is a fit and proper person to be a service provider or, as the case may be, a re
 - (b) harm caused to any person, or any evidence of an intent to cause harm;
 - (c) any financial gain made by the person;
 - (d) any action taken by the person to remedy the misconduct or mismanagement.
-- (e)[^key-e750acf80ec4089541c3ce4bb9e47f00] where the person is a service provider that—
+- (e)[^c-e750acf80ec4089541c3ce4bb9e47f00] where the person is a service provider that—
   - (i) is registered in respect of a restricted children’s service, and
   - (ii) is subject to the requirement in section 6A(1),
 
@@ -74,8 +74,8 @@ is a fit and proper person to be a service provider or, as the case may be, a re
 
 ## Annotations
 
-[^key-d3ef5952d8a34b07c64dc593407860ca]: Commencement: S. 9 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-d3ef5952d8a34b07c64dc593407860ca]: Commencement: S. 9 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
 
-[^key-fefdeafca4cb3b659da1256cdfa1aeda]: Textual amendment: Words in s. 9(5)(a) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/389/regulation/3)
+[^c-fefdeafca4cb3b659da1256cdfa1aeda]: Textual amendment: Words in s. 9(5)(a) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/389/regulation/3)
 
-[^key-e750acf80ec4089541c3ce4bb9e47f00]: Textual amendment: S. 9(7)(e) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 6(2)](https://www.legislation.gov.uk/asc/2025/1/section/6/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-e750acf80ec4089541c3ce4bb9e47f00]: Textual amendment: S. 9(7)(e) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 6(2)](https://www.legislation.gov.uk/asc/2025/1/section/6/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)

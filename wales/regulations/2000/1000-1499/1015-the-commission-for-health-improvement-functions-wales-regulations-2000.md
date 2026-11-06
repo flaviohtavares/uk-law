@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The Commission for Health Improvement (Functions) (Wales) Regulations 2000 (revoked)[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+The Commission for Health Improvement (Functions) (Wales) Regulations 2000 (revoked)[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 Made
 
@@ -41,116 +41,116 @@ Coming into force
 
 1st April 2000
 
-[^key-eaf04810cfb9210d1eb543fb58df9d8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eaf04810cfb9210d1eb543fb58df9d8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART I — GENERAL[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
-### 1. Citation, commencement, interpretation and application[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART II — ANNUAL WORK PROGRAMME[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-### 2. Annual work programme[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 1. Citation, commencement, interpretation and application[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — ADVICE OR INFORMATION ON CLINICAL GOVERNANCE[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART II — ANNUAL WORK PROGRAMME[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
-### 3. Persons to whom advice or information to be given[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Exercise of the function of providing advice or information on clinical governance arrangements[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 2. Annual work programme[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — LOCAL REVIEWS[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART III — ADVICE OR INFORMATION ON CLINICAL GOVERNANCE[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
-### 5. Effectiveness and adequacy of arrangements[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Local review reports[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 3. Persons to whom advice or information to be given[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Special interest reports[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 4. Exercise of the function of providing advice or information on clinical governance arrangements[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Further action following a local review[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART IV — LOCAL REVIEWS[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+### 5. Effectiveness and adequacy of arrangements[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — NATIONAL SERVICE REVIEWS[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-### 9. National service review reports[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 6. Local review reports[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VI — INVESTIGATIONS[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-### 10. Investigations[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 7. Special interest reports[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Notice of investigation[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 8. Further action following a local review[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Conducting an investigation of a body which is the subject of a local review[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART V — NATIONAL SERVICE REVIEWS[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+### 9. National service review reports[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Investigation reports[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART VI — INVESTIGATIONS[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+### 10. Investigations[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Special interest reports[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 11. Notice of investigation[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Further action following an investigation[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 12. Conducting an investigation of a body which is the subject of a local review[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VII — RIGHTS OF ENTRY AND OBTAINING INFORMATION[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-### 16. Rights of entry[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 13. Investigation reports[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Obtaining information and explanations[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 14. Special interest reports[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Information held by means of a computer or in any other electronic form[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 15. Further action following an investigation[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Restrictions on disclosure of information to the Commission[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+## PART VII — RIGHTS OF ENTRY AND OBTAINING INFORMATION[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+### 16. Rights of entry[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VIII — MISCELLANEOUS[^key-eaf04810cfb9210d1eb543fb58df9d8a]
-
-### 20. Assisting the Audit Commission[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 17. Obtaining information and explanations[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Exercising functions in relation to health service inquiries[^key-eaf04810cfb9210d1eb543fb58df9d8a]
+### 18. Information held by means of a computer or in any other electronic form[^c-eaf04810cfb9210d1eb543fb58df9d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eaf04810cfb9210d1eb543fb58df9d8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Restrictions on disclosure of information to the Commission[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VIII — MISCELLANEOUS[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+### 20. Assisting the Audit Commission[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Exercising functions in relation to health service inquiries[^c-eaf04810cfb9210d1eb543fb58df9d8a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-eaf04810cfb9210d1eb543fb58df9d8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eaf04810cfb9210d1eb543fb58df9d8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eaf04810cfb9210d1eb543fb58df9d8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eaf04810cfb9210d1eb543fb58df9d8a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1015) revoked (3.4.2003) by [Commission For Health Improvement (Functions) (Wales) Regulations 2003 (S.I. 2003/993)](https://www.legislation.gov.uk/wsi/2003/993), [reg. 22](https://www.legislation.gov.uk/wsi/2003/993/regulation/22)
+[^c-eaf04810cfb9210d1eb543fb58df9d8a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1015) revoked (3.4.2003) by [Commission For Health Improvement (Functions) (Wales) Regulations 2003 (S.I. 2003/993)](https://www.legislation.gov.uk/wsi/2003/993), [reg. 22](https://www.legislation.gov.uk/wsi/2003/993/regulation/22)

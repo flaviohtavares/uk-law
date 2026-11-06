@@ -62,7 +62,7 @@ Section 2.
 
 **11.** In section 10A(7) of the Social Security Contributions and Benefits Act 1992 (Class 1B contributions), for “Regulations may” there is substituted “ The Treasury may by regulations ”.
 
-**12.**[^key-0dae642588fd6512535506e95ea5a5ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-0dae642588fd6512535506e95ea5a5ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** In section 12 of the Social Security Contributions and Benefits Act 1992 (late paid Class 2 contributions), in subsections (4) and (6), for “Secretary of State” there is substituted “ Treasury ”.
 
@@ -465,7 +465,7 @@ Section 2.
 
 [^c11212171]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/10) repealed (28.7.2000 with effect ion relation to tax year beginning with 6.4.2000 and subsequent tax years) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 85](https://www.legislation.gov.uk/ukpga/2000/19/section/85), [Sch. 9 Pt. VIII](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/VIII) (1) Note 1 (with s. 83(6))
 
-[^key-0dae642588fd6512535506e95ea5a5ed]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/12) omitted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by virtue of [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/26)
+[^c-0dae642588fd6512535506e95ea5a5ed]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/12) omitted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by virtue of [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/26)
 
 [^c16648391]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/16) repealed (8.7.2002) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 7](https://www.legislation.gov.uk/ukpga/2002/19/section/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/19/schedule/2)
 

@@ -35,7 +35,7 @@ summary: ''
 
 (5) A payment made after the death of the individual who gave the undertaking is treated for the purposes of this section as having been made immediately before the death.
 
-(6)[^key-38003f06a1e9fadf0b6685f0328857c2] This section only applies where—
+(6)[^c-38003f06a1e9fadf0b6685f0328857c2] This section only applies where—
 
 - (a) if there are general earnings from the employment that are earned in, or otherwise in respect of, the tax year mentioned in subsection (3), subsection (7) applies to any of those general earnings, or
 - (b) it is reasonable to assume that, if there were such general earnings, subsection (7) would apply to any of those general earnings.
@@ -53,4 +53,4 @@ For this purpose it does not matter whether or not the undertaking is legally en
 
 ## Annotations
 
-[^key-38003f06a1e9fadf0b6685f0328857c2]: Textual amendment: S. 225(6)(7) substituted for s. 225(6) (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-38003f06a1e9fadf0b6685f0328857c2]: Textual amendment: S. 225(6)(7) substituted for s. 225(6) (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

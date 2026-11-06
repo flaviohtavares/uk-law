@@ -44,7 +44,7 @@ Coming into force
 
 1st October 2009
 
-The Secretary of State makes the following Order in exercise of the powers conferred by sections 1292(1), 1296(1) and (2) and 1300(2) of the Companies Act 2006[^f00001].[^key-a950be9ca5d4d95819c20d3a2ef65d51]
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 1292(1), 1296(1) and (2) and 1300(2) of the Companies Act 2006[^f00001].[^c-a950be9ca5d4d95819c20d3a2ef65d51]
 
 ## Contents
 
@@ -234,4 +234,4 @@ The provisions of the Companies Act 2006 in respect of which an entry is made in
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-a950be9ca5d4d95819c20d3a2ef65d51]: Modification: Order applied (with modifications) (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [220(5)](https://www.legislation.gov.uk/uksi/2014/3348/article/220/5)
+[^c-a950be9ca5d4d95819c20d3a2ef65d51]: Modification: Order applied (with modifications) (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [220(5)](https://www.legislation.gov.uk/uksi/2014/3348/article/220/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Registration of, and of transactions and events affecting, leases[^key-57e372e976626c80e41d5087827d3e73]
+## 52. Registration of, and of transactions and events affecting, leases[^c-57e372e976626c80e41d5087827d3e73]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57e372e976626c80e41d5087827d3e73]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2012/5/section/52) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-57e372e976626c80e41d5087827d3e73]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2012/5/section/52) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Interpretation of this Chapter[^key-62e18f58a0583504930cd1b40d654454]
+## 22. Interpretation of this Chapter[^c-62e18f58a0583504930cd1b40d654454]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62e18f58a0583504930cd1b40d654454]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/23/section/22) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-62e18f58a0583504930cd1b40d654454]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/23/section/22) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)

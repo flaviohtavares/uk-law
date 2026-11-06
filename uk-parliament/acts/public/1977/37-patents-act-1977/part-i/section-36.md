@@ -29,7 +29,7 @@ summary: ''
 
 (3) Subject to the provisions of sections 8 and 12 above and section 37 below and to any agreement for the time being in force, where two or more persons are proprietors of a patent one of them shall not without the consent of the other or others
 
-- (a)[^key-d6d67b15661722a225ae555fb3711ca2] amend the specification of the patent or apply for such an amendment to be allowed or for the patent to be revoked, or amend the specification of the patent or apply for such an amendment to be allowed or for the patent to be revoked, or
+- (a)[^c-d6d67b15661722a225ae555fb3711ca2] amend the specification of the patent or apply for such an amendment to be allowed or for the patent to be revoked, or amend the specification of the patent or apply for such an amendment to be allowed or for the patent to be revoked, or
 - (b) grant a licence under the patent or assign or mortgage a share in the patent or in Scotland cause or permit security to be granted over it.
 
 (4) Subject to the provisions of those sections, where two or more persons are proprietors of a patent, anyone else may supply one of those persons with the means, relating to an essential element of the invention, for putting the invention into effect, and the supply of those means by virtue of this subsection shall not amount to an infringement of the patent.
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d67b15661722a225ae555fb3711ca2]: Textual amendment: Words in s. 36(3)(a)(b) inserted (1.10.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 9](https://www.legislation.gov.uk/ukpga/2004/16/section/9), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/b)
+[^c-d6d67b15661722a225ae555fb3711ca2]: Textual amendment: Words in s. 36(3)(a)(b) inserted (1.10.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 9](https://www.legislation.gov.uk/ukpga/2004/16/section/9), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/b)

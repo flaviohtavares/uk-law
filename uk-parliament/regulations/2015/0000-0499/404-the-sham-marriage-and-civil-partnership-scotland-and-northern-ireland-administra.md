@@ -606,7 +606,7 @@ Home Office
 
 Regulation 8
 
-### 1. Permanent residence[^key-01b04c8b81b38ff01868fbbd121be250]
+### 1. Permanent residence[^c-01b04c8b81b38ff01868fbbd121be250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -641,9 +641,9 @@ Table
 </tbody>
 </table>
 
-[^c22382851][^c22382861][^key-ba0305d808f4d7e3b87e956645ca3317][^c22382871][^c22382881][^c22382891]
+[^c22382851][^c22382861][^c-ba0305d808f4d7e3b87e956645ca3317][^c22382871][^c22382881][^c22382891]
 
-(2)[^key-6e75a4b83b1abced4c2c78f8d8862090] Instead of the evidence referred to in paragraph 2(1)—
+(2)[^c-6e75a4b83b1abced4c2c78f8d8862090] Instead of the evidence referred to in paragraph 2(1)—
 
 - (a) the party may provide a notice accompanied by the evidence specified in paragraph (2A); or
 - (b) paragraphs (2B) to (2D) must be satisfied.
@@ -663,7 +663,7 @@ Table
 
 - “**certificate of entitlement**” has the same meaning as in section 33(1) of the 1971 Act [^c22382901];
 - “force” and “**sending State**” in relation to evidence that must be provided by a party who is exempt from immigration control by virtue of section 8(4) of the 1971 Act, have the same meaning as in the agreement between the Parties to the North Atlantic Treaty [^c22382911] regarding the status of their forces done in London on 19th June 1951 [^c22382921].
-- “[^key-5668dc15ffbbde45afd90997c224ff2b]**online UK Visas and Immigration account**” means an online account maintained by the Secretary of State that allows individuals to access, manage and share their immigration status digitally,
+- “[^c-5668dc15ffbbde45afd90997c224ff2b]**online UK Visas and Immigration account**” means an online account maintained by the Secretary of State that allows individuals to access, manage and share their immigration status digitally,
 - “**share code**” means an electronically generated code to allow a third party to access information about an individual’s immigration status.
 
 ### 3. Settled
@@ -868,7 +868,7 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c22382811]: Marginal citation: [Section 139E](https://www.legislation.gov.uk/uksi/2015/404/section/139E) was inserted by paragraph 2 of Schedule 3 to the Northern Ireland Order.
 
-[^key-01b04c8b81b38ff01868fbbd121be250]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/1) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [44(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/44/2)
+[^c-01b04c8b81b38ff01868fbbd121be250]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/1) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [44(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/44/2)
 
 [^c22382841]: Marginal citation: Regulations made under section 49 of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22) ([S.I. 2015/122](https://www.legislation.gov.uk/uksi/2015/122)) set out who is subject to immigration control for the purposes of the referral and investigation scheme.
 
@@ -876,7 +876,7 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c22382861]: Marginal citation: Section 8(3) was amended by paragraph 2 of Schedule 4 to the British Nationality Act and section 4 of the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14).
 
-[^key-ba0305d808f4d7e3b87e956645ca3317]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/23)
+[^c-ba0305d808f4d7e3b87e956645ca3317]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/23)
 
 [^c22382871]: Marginal citation: Subsection (4) was also amended by paragraph 2 of Schedule 4 to the British Nationality Act and by the [Statute Law (Repeals) Act 1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44).
 
@@ -884,7 +884,7 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c22382891]: Marginal citation: [1978 c. 33](https://www.legislation.gov.uk/ukpga/1978/33).
 
-[^key-6e75a4b83b1abced4c2c78f8d8862090]: Textual amendment: [Sch. 1 para. 2(2)-(2D)](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/2/2) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2015/404/schedule/1) [para. 2(2)](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/2/2) (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/4/2)
+[^c-6e75a4b83b1abced4c2c78f8d8862090]: Textual amendment: [Sch. 1 para. 2(2)-(2D)](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/2/2) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2015/404/schedule/1) [para. 2(2)](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/2/2) (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/4/2)
 
 [^c22382901]: Marginal citation: The definition of “certificate of entitlement” was substituted by section 10 of the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41).
 
@@ -892,7 +892,7 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c22382921]: Marginal citation: Treaty Series No. 3 (1955); Cmd 9363.
 
-[^key-5668dc15ffbbde45afd90997c224ff2b]: Textual amendment: Words in [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/2/3) inserted (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/85/regulation/4/3)
+[^c-5668dc15ffbbde45afd90997c224ff2b]: Textual amendment: Words in [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/404/schedule/1/paragraph/2/3) inserted (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/85/regulation/4/3)
 
 [^c22382931]: Marginal citation: Subsection (2A) was inserted by section 39(6) of, and paragraph 7 of Schedule 4 to, the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Reasons[^key-c3bd7bd5e18d13a54bf1ba919542fce7]
+## 6. Reasons[^c-c3bd7bd5e18d13a54bf1ba919542fce7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3bd7bd5e18d13a54bf1ba919542fce7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2026/37/regulation/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c3bd7bd5e18d13a54bf1ba919542fce7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2026/37/regulation/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

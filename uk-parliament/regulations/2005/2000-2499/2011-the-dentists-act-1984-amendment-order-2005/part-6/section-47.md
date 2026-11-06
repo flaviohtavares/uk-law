@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of Schedule 1[^key-3fa89d66485e108ea3998745f31c8dff]
+## 47. Amendment of Schedule 1[^c-3fa89d66485e108ea3998745f31c8dff]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa89d66485e108ea3998745f31c8dff]: Commencement: Art. 47 in force at made date for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)
+[^c-3fa89d66485e108ea3998745f31c8dff]: Commencement: Art. 47 in force at made date for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)
 
 [^f00012]: Footnote: Schedule 1 was amended by S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).

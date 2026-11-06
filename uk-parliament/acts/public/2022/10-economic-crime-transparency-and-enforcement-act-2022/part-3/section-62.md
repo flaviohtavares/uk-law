@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Removal of reviews[^key-42716d3c84e12e8671e782835ee6d9a8]
+## 62. Removal of reviews[^c-42716d3c84e12e8671e782835ee6d9a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42716d3c84e12e8671e782835ee6d9a8]: Commencement: S. 62 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-42716d3c84e12e8671e782835ee6d9a8]: Commencement: S. 62 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

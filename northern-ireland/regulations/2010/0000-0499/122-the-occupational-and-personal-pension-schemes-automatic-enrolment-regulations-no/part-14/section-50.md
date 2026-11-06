@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Due date for the purposes of section 37(3)[^key-3567f82a492d1d5407462f292675e312]
+## 50. Due date for the purposes of section 37(3)[^c-3567f82a492d1d5407462f292675e312]
 
 *Extent: N.I.*
 
 (1) This regulation defines “due date” for the purposes of section 37 (unpaid contributions notices).
 
-(2) Subject to paragraphs (3) to (6), “due date” means the 22nd[^key-c34c44236b0486e1416698ea1e9074ad] day of the month following the month during which either—
+(2) Subject to paragraphs (3) to (6), “due date” means the 22nd[^c-c34c44236b0486e1416698ea1e9074ad] day of the month following the month during which either—
 
 - (a) relevant contributions payable to—
   - (i) the trustees or managers of an occupational pension scheme, or
@@ -35,14 +35,14 @@ summary: ''
 
   were due but not made by an employer.
 
-(3)[^key-4633b4cef40e9fbb41fe3ab81af48238] Where a jobholder becomes an active member of a qualifying scheme or a worker is enrolled pursuant to section 9 (workers without qualifying earnings) in a scheme which meets the requirements of section 9, paragraph (2) does not apply in respect of contributions—
+(3)[^c-4633b4cef40e9fbb41fe3ab81af48238] Where a jobholder becomes an active member of a qualifying scheme or a worker is enrolled pursuant to section 9 (workers without qualifying earnings) in a scheme which meets the requirements of section 9, paragraph (2) does not apply in respect of contributions—
 
 - (a) deducted in the 3 month period commencing with the relevant date, or
 - (b) due but not made in the 3 month period commencing with the relevant date,
 
 in which case paragraph (4) applies.
 
-(4) Where this paragraph applies, “due date” means the 22nd day of the fourth month after the month which includes the relevant date.[^key-ae01865b701bcbf0e3c64d3ea943ad32]
+(4) Where this paragraph applies, “due date” means the 22nd day of the fourth month after the month which includes the relevant date.[^c-ae01865b701bcbf0e3c64d3ea943ad32]
 
 (5) Paragraphs (2) and (3) do not apply where an employer uses either—
 
@@ -66,17 +66,17 @@ to comply with sections 2 to 9, in which case paragraph (6) applies.
 
 - “direct payment arrangements” has the meaning given in section 107A of the 1993 Act;
 - “payment schedule” has the meaning given in Article 85 of the 1995 Order;
-- “relevant date” means the date from which active membership is effective.[^key-ca5695d8ccad4b3c9398ffd5b7222630]
+- “relevant date” means the date from which active membership is effective.[^c-ca5695d8ccad4b3c9398ffd5b7222630]
 - “schedule of contributions” has the meaning given in Article 206(2) of the Pensions (Northern Ireland) Order 2005.
 
 ## Annotations
 
-[^key-3567f82a492d1d5407462f292675e312]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2010/122/regulation/50) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-3567f82a492d1d5407462f292675e312]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2010/122/regulation/50) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-c34c44236b0486e1416698ea1e9074ad]: Textual amendment: Word in [reg. 50(2)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/2) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(25)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/25)
+[^c-c34c44236b0486e1416698ea1e9074ad]: Textual amendment: Word in [reg. 50(2)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/2) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(25)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/25)
 
-[^key-4633b4cef40e9fbb41fe3ab81af48238]: Textual amendment: [Reg. 50(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(10)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/10/a)
+[^c-4633b4cef40e9fbb41fe3ab81af48238]: Textual amendment: [Reg. 50(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(10)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/10/a)
 
-[^key-ae01865b701bcbf0e3c64d3ea943ad32]: Textual amendment: Words in [reg. 50(4)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/4) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(10)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/10/b)
+[^c-ae01865b701bcbf0e3c64d3ea943ad32]: Textual amendment: Words in [reg. 50(4)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/4) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(10)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/10/b)
 
-[^key-ca5695d8ccad4b3c9398ffd5b7222630]: Textual amendment: Words in [reg. 50(7)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/7) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(10)(c)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/10/c)
+[^c-ca5695d8ccad4b3c9398ffd5b7222630]: Textual amendment: Words in [reg. 50(7)](https://www.legislation.gov.uk/nisr/2010/122/regulation/50/7) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(10)(c)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/10/c)

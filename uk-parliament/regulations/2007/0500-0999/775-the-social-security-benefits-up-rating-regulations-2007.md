@@ -28,7 +28,7 @@ summary: ''
 
 social security
 
-The Social Security Benefits Up-rating Regulations 2007 (revoked)[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+The Social Security Benefits Up-rating Regulations 2007 (revoked)[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into force
 
 9th April 2007
 
-[^key-c9b4f39fa672edb5557c9d18d320d6a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9b4f39fa672edb5557c9d18d320d6a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+## 1. Citation, commencement and interpretation[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+## 3. Persons not ordinarily resident in Great Britain[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-c9b4f39fa672edb5557c9d18d320d6a1]
+## 6. Revocations[^c-c9b4f39fa672edb5557c9d18d320d6a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9b4f39fa672edb5557c9d18d320d6a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9b4f39fa672edb5557c9d18d320d6a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c9b4f39fa672edb5557c9d18d320d6a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9b4f39fa672edb5557c9d18d320d6a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9b4f39fa672edb5557c9d18d320d6a1]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2007/775) revoked (7.4.2008) by [Social Security Benefits Up-rating Regulations 2008 (S.I. 2008/667)](https://www.legislation.gov.uk/uksi/2008/667), [reg. 6](https://www.legislation.gov.uk/uksi/2008/667/regulation/6)
+[^c-c9b4f39fa672edb5557c9d18d320d6a1]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2007/775) revoked (7.4.2008) by [Social Security Benefits Up-rating Regulations 2008 (S.I. 2008/667)](https://www.legislation.gov.uk/uksi/2008/667), [reg. 6](https://www.legislation.gov.uk/uksi/2008/667/regulation/6)

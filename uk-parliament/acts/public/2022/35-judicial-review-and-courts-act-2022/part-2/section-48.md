@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Payments in respect of pro bono representation[^key-3de2ee9147ff55e69c2c1a7951a21d7e]
+## 48. Payments in respect of pro bono representation[^c-3de2ee9147ff55e69c2c1a7951a21d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,4 +202,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3de2ee9147ff55e69c2c1a7951a21d7e]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/35/section/48) in force at 28.6.2022, see [s. 51(3)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/d)
+[^c-3de2ee9147ff55e69c2c1a7951a21d7e]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/35/section/48) in force at 28.6.2022, see [s. 51(3)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/d)

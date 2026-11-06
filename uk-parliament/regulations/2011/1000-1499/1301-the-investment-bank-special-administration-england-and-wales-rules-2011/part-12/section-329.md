@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 329. “The court”; “the registrar”[^key-18285626611464c0f9ebeb795a188faf]
+## 329. “The court”; “the registrar”[^c-18285626611464c0f9ebeb795a188faf]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The registrar may authorise any act of a formal or administrative character which is not by statute the registrar’s responsibility to be carried out by the chief clerk or any other officer of the court acting on the registrar’s behalf, in accordance with directions given by the Lord Chancellor.
 
-(3) “**The registrar**” means an Insolvency and Companies Court Judge[^key-b179b8d9913dd3b9db395de1d4917d59].
+(3) “**The registrar**” means an Insolvency and Companies Court Judge[^c-b179b8d9913dd3b9db395de1d4917d59].
 
 ## Annotations
 
-[^key-18285626611464c0f9ebeb795a188faf]: Commencement: [Rule 329](https://www.legislation.gov.uk/uksi/2011/1301/rule/329) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-18285626611464c0f9ebeb795a188faf]: Commencement: [Rule 329](https://www.legislation.gov.uk/uksi/2011/1301/rule/329) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-b179b8d9913dd3b9db395de1d4917d59]: Textual amendment: Words in [rule 329(3)](https://www.legislation.gov.uk/uksi/2011/1301/rule/329/3) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(g)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/g)
+[^c-b179b8d9913dd3b9db395de1d4917d59]: Textual amendment: Words in [rule 329(3)](https://www.legislation.gov.uk/uksi/2011/1301/rule/329/3) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(g)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/g)

@@ -28,8 +28,8 @@ summary: ''
 
 *Extent: S*
 
-(4)[^key-83da4bd118a117a7daa5d1d8f07823f1] In subsection (2), “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(4)[^c-83da4bd118a117a7daa5d1d8f07823f1] In subsection (2), “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
-[^key-83da4bd118a117a7daa5d1d8f07823f1]: Textual amendment: S. 85(4) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 39(3)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/39/3); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-83da4bd118a117a7daa5d1d8f07823f1]: Textual amendment: S. 85(4) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 39(3)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/39/3); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

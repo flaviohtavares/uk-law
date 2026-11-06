@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Licensing of gambling premises: impact assessments[^key-7b993948f4e04c6863819d5385063f3e]
+## 87. Licensing of gambling premises: impact assessments[^c-7b993948f4e04c6863819d5385063f3e]
 
 *Extent: E+W*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b993948f4e04c6863819d5385063f3e]: Commencement: S. 87 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-7b993948f4e04c6863819d5385063f3e]: Commencement: S. 87 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

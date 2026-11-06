@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Food Labelling (Nutrition Information) Regulations (Northern Ireland) 2009 (revoked)[^key-cff0f18facc1f3dea98a36e46485a6e1]
+The Food Labelling (Nutrition Information) Regulations (Northern Ireland) 2009 (revoked)[^c-cff0f18facc1f3dea98a36e46485a6e1]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 30th October 2009
 
-[^key-cff0f18facc1f3dea98a36e46485a6e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cff0f18facc1f3dea98a36e46485a6e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cff0f18facc1f3dea98a36e46485a6e1]
+## 1. Citation and commencement[^c-cff0f18facc1f3dea98a36e46485a6e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-cff0f18facc1f3dea98a36e46485a6e1]
+## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-cff0f18facc1f3dea98a36e46485a6e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-cff0f18facc1f3dea98a36e46485a6e1]
+## 3. Transitional provision[^c-cff0f18facc1f3dea98a36e46485a6e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cff0f18facc1f3dea98a36e46485a6e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cff0f18facc1f3dea98a36e46485a6e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Entries to be substituted in Table A (vitamins in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations (Northern Ireland) 1996[^key-cff0f18facc1f3dea98a36e46485a6e1]
+## SCHEDULE 1 — Entries to be substituted in Table A (vitamins in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations (Northern Ireland) 1996[^c-cff0f18facc1f3dea98a36e46485a6e1]
 
 Regulation 2(3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Entries to be substituted in Table B (minerals in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations (Northern Ireland) 1996[^key-cff0f18facc1f3dea98a36e46485a6e1]
+## SCHEDULE 2 — Entries to be substituted in Table B (minerals in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations (Northern Ireland) 1996[^c-cff0f18facc1f3dea98a36e46485a6e1]
 
 Regulation 2(3)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cff0f18facc1f3dea98a36e46485a6e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cff0f18facc1f3dea98a36e46485a6e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cff0f18facc1f3dea98a36e46485a6e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/331) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [Sch. 6 para. 23](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/23)
+[^c-cff0f18facc1f3dea98a36e46485a6e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/331) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [Sch. 6 para. 23](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/23)

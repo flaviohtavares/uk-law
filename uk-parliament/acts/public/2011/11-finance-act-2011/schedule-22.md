@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 22 — Transfers involving multiple dwellings[^key-5c1ed733290c6f3fef3c13c757681e90]
+## SCHEDULE 22 — Transfers involving multiple dwellings[^c-5c1ed733290c6f3fef3c13c757681e90]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Section 83
 
-### New relief[^key-5c1ed733290c6f3fef3c13c757681e90]
+### New relief[^c-5c1ed733290c6f3fef3c13c757681e90]
 
-**1.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Other amendments of Part 4 of FA 2003[^key-5c1ed733290c6f3fef3c13c757681e90]
+### Other amendments of Part 4 of FA 2003[^c-5c1ed733290c6f3fef3c13c757681e90]
 
-**4.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Commencement[^key-5c1ed733290c6f3fef3c13c757681e90]
+### Commencement[^c-5c1ed733290c6f3fef3c13c757681e90]
 
-**9.**[^key-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5c1ed733290c6f3fef3c13c757681e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c1ed733290c6f3fef3c13c757681e90]: Textual amendment: Sch. 22 omitted (with effect in accordance with [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/3) of the amending Act) by virtue of [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/2/c) (with [s. 7(4)-(10)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/4))
+[^c-5c1ed733290c6f3fef3c13c757681e90]: Textual amendment: Sch. 22 omitted (with effect in accordance with [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/3) of the amending Act) by virtue of [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/2/c) (with [s. 7(4)-(10)](https://www.legislation.gov.uk/ukpga/2024/12/section/7/4))

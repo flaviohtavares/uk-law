@@ -47,7 +47,7 @@ DISEASES OF ANIMALS
 
 POULTRY
 
-The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2008 (revoked)[^key-bd78359e10bcd18852d1d35b6de6677a]
+The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2008 (revoked)[^c-bd78359e10bcd18852d1d35b6de6677a]
 
 Made
 
@@ -71,7 +71,7 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-bd78359e10bcd18852d1d35b6de6677a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd78359e10bcd18852d1d35b6de6677a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -84,14 +84,14 @@ The Queen’s Most Excellent Majesty in Council
 
 **No longer in force.**
 
-[^key-bd78359e10bcd18852d1d35b6de6677a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd78359e10bcd18852d1d35b6de6677a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-bd78359e10bcd18852d1d35b6de6677a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd78359e10bcd18852d1d35b6de6677a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd78359e10bcd18852d1d35b6de6677a]: Textual amendment: Order revoked (6.4.2014) by [The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2013 (S.I. 2013/3157)](https://www.legislation.gov.uk/uksi/2013/3157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/3157/article/3)
+[^c-bd78359e10bcd18852d1d35b6de6677a]: Textual amendment: Order revoked (6.4.2014) by [The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2013 (S.I. 2013/3157)](https://www.legislation.gov.uk/uksi/2013/3157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/3157/article/3)

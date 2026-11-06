@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c14099591] The Office of Rail and Road[^key-a913e77bb095864d1bd0ac6f4e70b0a6] may, on the application of any person, give directions to a facility owner requiring him to enter into an access contract with the applicant for the purpose specified in subsection (2) below; but no such directions shall be given if and to the extent that—
+(1)[^c14099591] The Office of Rail and Road[^c-a913e77bb095864d1bd0ac6f4e70b0a6] may, on the application of any person, give directions to a facility owner requiring him to enter into an access contract with the applicant for the purpose specified in subsection (2) below; but no such directions shall be given if and to the extent that—
 
 - (a) the facility owner’s railway facility is, by virtue of section 20 below, an exempt facility;
 - (b) performance of the access contract, if entered into, would necessarily involve the facility owner in being in breach of an access agreement [^c18904621]. . . ; [^c14099601]. . . or[^c18904811]
@@ -58,7 +58,7 @@ but this subsection is subject to the limitations imposed by subsection (3) belo
 
   except where the purpose for which directions are sought is to enable the beneficiary to operate the light maintenance depot on behalf of the Authority[^c14099651].
 
-(4) Any reference in this section to a person operating a network, station or light maintenance depot "on behalf of the Secretary of State[^c18905071], the Welsh Ministers[^key-cd863428fba8ff4820ad28befa1caa49] is a reference to his operating the network, station or light maintenance depot in pursuance of any agreement or other arrangements made by the Secretary of State or the Scottish Ministers[^c18905801] for the purpose of performing a duty imposed upon him or them[^c18905821], or exercising a power conferred upon him or them, under or by virtue of this Part or Part 4 of the Railways Act 2005 (network modifications[^c18905881] etc.) to secure the operation of that network, station or light maintenance depot.
+(4) Any reference in this section to a person operating a network, station or light maintenance depot "on behalf of the Secretary of State[^c18905071], the Welsh Ministers[^c-cd863428fba8ff4820ad28befa1caa49] is a reference to his operating the network, station or light maintenance depot in pursuance of any agreement or other arrangements made by the Secretary of State or the Scottish Ministers[^c18905801] for the purpose of performing a duty imposed upon him or them[^c18905821], or exercising a power conferred upon him or them, under or by virtue of this Part or Part 4 of the Railways Act 2005 (network modifications[^c18905881] etc.) to secure the operation of that network, station or light maintenance depot.
 
 (5) Nothing in this section authorises the Office of Rail and Road to give directions to any person requiring him to grant a lease of the whole or any part of a railway facility.
 
@@ -126,7 +126,7 @@ and, in subsection (2)(c) above, the reference to obtaining permission to use a 
 
 [^c14099591]: Modification: S. 17(1) restricted (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 17(1)](https://www.legislation.gov.uk/ukpga/1996/61/section/17/1)
 
-[^key-a913e77bb095864d1bd0ac6f4e70b0a6]: Textual amendment: Words in s. 17(1)(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/y)
+[^c-a913e77bb095864d1bd0ac6f4e70b0a6]: Textual amendment: Words in s. 17(1)(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/y)
 
 [^c18904621]: Textual amendment: Words in s. 17(1)(b) omitted (28.11.2005) by virtue of [The Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/2/4), [Sch. 1 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2005/3049/schedule/1/paragraph/4/a/i)
 
@@ -142,7 +142,7 @@ and, in subsection (2)(c) above, the reference to obtaining permission to use a 
 
 [^c18905071]: Textual amendment: Words in s. 17(4) substituted (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/12/2/a); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 
-[^key-cd863428fba8ff4820ad28befa1caa49]: Textual amendment: Words in s. 17(4) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/3)
+[^c-cd863428fba8ff4820ad28befa1caa49]: Textual amendment: Words in s. 17(4) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/3)
 
 [^c18905801]: Textual amendment: Words in s. 17(4) substituted (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/12/2/b); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 

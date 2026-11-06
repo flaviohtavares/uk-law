@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Validity of certain alterations to NI salary-related contracted-out pension schemes: subsisting schemes[^key-8d4034bfadf6389c705e014b8b0c07b0]
+## 106. Validity of certain alterations to NI salary-related contracted-out pension schemes: subsisting schemes[^c-8d4034bfadf6389c705e014b8b0c07b0]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ In this subsection “**the statutory standard**” means the statutory standard
 
 ## Annotations
 
-[^key-8d4034bfadf6389c705e014b8b0c07b0]: Commencement: S. 106 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-8d4034bfadf6389c705e014b8b0c07b0]: Commencement: S. 106 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

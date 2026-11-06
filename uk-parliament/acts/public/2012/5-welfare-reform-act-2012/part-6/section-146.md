@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. UK child poverty strategies[^key-45477386d59b3d761c6bd23120816542]
+## 146. UK child poverty strategies[^c-45477386d59b3d761c6bd23120816542]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45477386d59b3d761c6bd23120816542]: Commencement: S. 146 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(i)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/i)
+[^c-45477386d59b3d761c6bd23120816542]: Commencement: S. 146 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(i)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/i)

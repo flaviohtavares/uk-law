@@ -39,9 +39,9 @@ Coming into force
 
 16th February 2001
 
-[^key-f01acef46040d0faa2beb0545f65a2de][^key-d65a9a9524bc1fc2bdbefd38b9b0f05a][^key-57f68c73f77cb9dfccaa3113c0700d06][^key-8a13832d1972954e263d754b578d2402][^key-ef695922d775f977984ac1c7237e3da4][^key-ded945dab343b7c7b04ea303719b76d1][^key-42d54fbd0a2b828377c01a02b865ad62][^key-b13cd81e8c67861e656a8c077b3d2d67][^key-a98a4d45d19ba44ae891a1086e6bdb5b]Whereas a draft of these Regulations has been approved by resolution of each House of Parliament;
+[^c-f01acef46040d0faa2beb0545f65a2de][^c-d65a9a9524bc1fc2bdbefd38b9b0f05a][^c-57f68c73f77cb9dfccaa3113c0700d06][^c-8a13832d1972954e263d754b578d2402][^c-ef695922d775f977984ac1c7237e3da4][^c-ded945dab343b7c7b04ea303719b76d1][^c-42d54fbd0a2b828377c01a02b865ad62][^c-b13cd81e8c67861e656a8c077b3d2d67][^c-a98a4d45d19ba44ae891a1086e6bdb5b]Whereas a draft of these Regulations has been approved by resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State in exercise of the powers conferred on him by the provisionswhich are specified in Schedule 1 to these Regulations, and of all other powers enabling him in that behalf, hereby makes the following Regulations:–[^key-f01acef46040d0faa2beb0545f65a2de][^key-d65a9a9524bc1fc2bdbefd38b9b0f05a][^key-57f68c73f77cb9dfccaa3113c0700d06][^key-8a13832d1972954e263d754b578d2402][^key-ef695922d775f977984ac1c7237e3da4][^key-ded945dab343b7c7b04ea303719b76d1][^key-42d54fbd0a2b828377c01a02b865ad62][^key-b13cd81e8c67861e656a8c077b3d2d67][^key-a98a4d45d19ba44ae891a1086e6bdb5b][^key-bf56de09f34b9c1814ffe9f680487ec5]
+Now, therefore, the Secretary of State in exercise of the powers conferred on him by the provisionswhich are specified in Schedule 1 to these Regulations, and of all other powers enabling him in that behalf, hereby makes the following Regulations:–[^c-f01acef46040d0faa2beb0545f65a2de][^c-d65a9a9524bc1fc2bdbefd38b9b0f05a][^c-57f68c73f77cb9dfccaa3113c0700d06][^c-8a13832d1972954e263d754b578d2402][^c-ef695922d775f977984ac1c7237e3da4][^c-ded945dab343b7c7b04ea303719b76d1][^c-42d54fbd0a2b828377c01a02b865ad62][^c-b13cd81e8c67861e656a8c077b3d2d67][^c-a98a4d45d19ba44ae891a1086e6bdb5b][^c-bf56de09f34b9c1814ffe9f680487ec5]
 
 ## Contents
 
@@ -87,7 +87,7 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 21 — Transmission of overseas elector’s declaration](part-ii/section-21.md)
 - [Section 22 — Notification about registration as overseas elector](part-ii/section-22.md)
 
-#### Overseas electors: reminders and renewal declarations[^key-34db2a37eedf37c21eb886da893092c4]
+#### Overseas electors: reminders and renewal declarations[^c-34db2a37eedf37c21eb886da893092c4]
 
 - [Section 22A — Reminders to electors registered pursuant to an overseas elector’s declaration](part-ii/section-22a.md)
 - [Section 22B — Renewal declarations](part-ii/section-22b.md)
@@ -290,9 +290,9 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 91 — Retention of documents](part-v/section-91.md)
 - [Section 91A — Forwarding of documents](part-v/section-91a.md)
 
-### PART 6 — SUPPLY OF REGISTER ETC[^key-479ea397546d3e87432d5dd7db76dcd8]
+### PART 6 — SUPPLY OF REGISTER ETC[^c-479ea397546d3e87432d5dd7db76dcd8]
 
-#### Interpretation and edited register[^key-479ea397546d3e87432d5dd7db76dcd8]
+#### Interpretation and edited register[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -300,14 +300,14 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 93 — Edited version of register](part-vi/section-93.md)
 - [Section 93A — Notifying registration officer of change to edited register preference](part-vi/section-93a.md)
 
-#### General restrictions[^key-479ea397546d3e87432d5dd7db76dcd8]
+#### General restrictions[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
 - [Section 94 — Restrictions on supply of full register and disclosure of information from it by the registration officer and his staff](part-vi/section-94.md)
 - [Section 95 — Restriction on use of the full register, or of information contained in it, supplied in accordance with enactments or obtained otherwise](part-vi/section-95.md)
 
-#### Supply on publication and specific restrictions[^key-479ea397546d3e87432d5dd7db76dcd8]
+#### Supply on publication and specific restrictions[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -318,7 +318,7 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 99 — Supply of free copy of full register etc to Electoral Commission and restrictions on use](part-vi/section-99.md)
 - [Section 100 — Supply of free copy of full register etc to certain Commissions and restrictions on use](part-vi/section-100.md)
 
-#### Supply on request and specific restrictions[^key-479ea397546d3e87432d5dd7db76dcd8]
+#### Supply on request and specific restrictions[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -333,7 +333,7 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 108 — Supply of full register etc to police forces and other agencies, and restrictions on use](part-vi/section-108.md)
 - [Section 108A — Supply of full register to statutory library authorities and local authority archives services, and restrictions on use](part-vi/section-108a.md)
 
-#### Sale of edited and full registers and specified restrictions[^key-479ea397546d3e87432d5dd7db76dcd8]
+#### Sale of edited and full registers and specified restrictions[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -344,13 +344,13 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 113 — Sale of full register to credit reference agencies](part-vi/section-113.md)
 - [Section 114 — Supply of register to processor](part-vi/section-114.md)
 
-#### Offences[^key-479ea397546d3e87432d5dd7db76dcd8]
+#### Offences[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
 - [Section 115 — Offences in respect of contravention of Parts III, IV and VI](part-vi/section-115.md)
 
-### PART 7 — ACCESS TO MARKED REGISTERS AND OTHER DOCUMENTS OPEN TO PUBLIC INSPECTION AFTER AN ELECTION[^key-e2a6f4d300a4781511e154277ac05e69]
+### PART 7 — ACCESS TO MARKED REGISTERS AND OTHER DOCUMENTS OPEN TO PUBLIC INSPECTION AFTER AN ELECTION[^c-e2a6f4d300a4781511e154277ac05e69]
 
 *Extent: S*
 
@@ -424,28 +424,28 @@ Regulations 79, 87 and 88 are consequent on rule 45(1B) of the parliamentary ele
 
 ## Annotations
 
-[^key-f01acef46040d0faa2beb0545f65a2de]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied (with modifications) (9.4.2001) by [The European Parliamentary Elections (Franchise of Relevant Citizens of the Union) Regulations 2001 (S.I. 2001/1184)](https://www.legislation.gov.uk/uksi/2001/1184), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1184/regulation/1), [9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule/part/2)
+[^c-f01acef46040d0faa2beb0545f65a2de]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied (with modifications) (9.4.2001) by [The European Parliamentary Elections (Franchise of Relevant Citizens of the Union) Regulations 2001 (S.I. 2001/1184)](https://www.legislation.gov.uk/uksi/2001/1184), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1184/regulation/1), [9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule/part/2)
 
-[^key-d65a9a9524bc1fc2bdbefd38b9b0f05a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied (with modifications) (9.7.2003) by [The Local and European Parliamentary Elections (Registration of Citizens of Accession States) Regulations 2003 (S.I. 2003/1557)](https://www.legislation.gov.uk/uksi/2003/1557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1557/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2003/1557/regulation/7), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/1557/schedule/2/paragraph/2)
+[^c-d65a9a9524bc1fc2bdbefd38b9b0f05a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied (with modifications) (9.7.2003) by [The Local and European Parliamentary Elections (Registration of Citizens of Accession States) Regulations 2003 (S.I. 2003/1557)](https://www.legislation.gov.uk/uksi/2003/1557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1557/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2003/1557/regulation/7), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/1557/schedule/2/paragraph/2)
 
-[^key-57f68c73f77cb9dfccaa3113c0700d06]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied in part (with modifications) (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2011/1/schedule/4/paragraph/8), [Sch. 7 para. 58(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/58/3)
+[^c-57f68c73f77cb9dfccaa3113c0700d06]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied in part (with modifications) (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2011/1/schedule/4/paragraph/8), [Sch. 7 para. 58(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/58/3)
 
-[^key-8a13832d1972954e263d754b578d2402]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) modified (temp. from 31.7.2013 until 31.12.2014) by [The Elections (Fresh Signatures for Absent Voters) Regulations 2013 (S.I. 2013/1599)](https://www.legislation.gov.uk/uksi/2013/1599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1599/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2013/1599/regulation/3)
+[^c-8a13832d1972954e263d754b578d2402]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) modified (temp. from 31.7.2013 until 31.12.2014) by [The Elections (Fresh Signatures for Absent Voters) Regulations 2013 (S.I. 2013/1599)](https://www.legislation.gov.uk/uksi/2013/1599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1599/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2013/1599/regulation/3)
 
-[^key-ef695922d775f977984ac1c7237e3da4]: Modification: Regulations applied (with modifications) (8.8.2013) by [Scottish Independence Referendum (Franchise) Act 2013 (asp 13)](https://www.legislation.gov.uk/asp/2013/13), [ss. 6](https://www.legislation.gov.uk/asp/2013/13/section/6), [13(1)](https://www.legislation.gov.uk/asp/2013/13/section/13/1), [sch. 1 Pts. 1](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/1), [3](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/3) (with [s. 13(2)](https://www.legislation.gov.uk/asp/2013/13/section/13/2))
+[^c-ef695922d775f977984ac1c7237e3da4]: Modification: Regulations applied (with modifications) (8.8.2013) by [Scottish Independence Referendum (Franchise) Act 2013 (asp 13)](https://www.legislation.gov.uk/asp/2013/13), [ss. 6](https://www.legislation.gov.uk/asp/2013/13/section/6), [13(1)](https://www.legislation.gov.uk/asp/2013/13/section/13/1), [sch. 1 Pts. 1](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/1), [3](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/3) (with [s. 13(2)](https://www.legislation.gov.uk/asp/2013/13/section/13/2))
 
-[^key-ded945dab343b7c7b04ea303719b76d1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497): functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2015/1376/article/5/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-ded945dab343b7c7b04ea303719b76d1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497): functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2015/1376/article/5/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-42d54fbd0a2b828377c01a02b865ad62]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied (with modifications) (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/14); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-42d54fbd0a2b828377c01a02b865ad62]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) applied (with modifications) (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/14); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-b13cd81e8c67861e656a8c077b3d2d67]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497): functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2016/997/article/7/c/ii) (with [arts. 8](https://www.legislation.gov.uk/uksi/2016/997/article/8), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-b13cd81e8c67861e656a8c077b3d2d67]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497): functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2016/997/article/7/c/ii) (with [arts. 8](https://www.legislation.gov.uk/uksi/2016/997/article/8), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-a98a4d45d19ba44ae891a1086e6bdb5b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497): transfer of functions (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/2/b) (with [arts. 7(3)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/3), [8](https://www.legislation.gov.uk/uksi/2021/1265/article/8), [11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-a98a4d45d19ba44ae891a1086e6bdb5b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497): transfer of functions (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/2/b) (with [arts. 7(3)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/3), [8](https://www.legislation.gov.uk/uksi/2021/1265/article/8), [11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-bf56de09f34b9c1814ffe9f680487ec5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) modified (temp.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [art. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2025/353/schedule/paragraph/1) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))
+[^c-bf56de09f34b9c1814ffe9f680487ec5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/497) modified (temp.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [art. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2025/353/schedule/paragraph/1) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))
 
-[^key-34db2a37eedf37c21eb886da893092c4]: Textual amendment: [Regs. 22A-22D](https://www.legislation.gov.uk/uksi/2001/497/regulation/22A) and cross-heading inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/9/6) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))
+[^c-34db2a37eedf37c21eb886da893092c4]: Textual amendment: [Regs. 22A-22D](https://www.legislation.gov.uk/uksi/2001/497/regulation/22A) and cross-heading inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/9/6) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))
 
-[^key-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
+[^c-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
 
-[^key-e2a6f4d300a4781511e154277ac05e69]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/497/part/7) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2007/925/regulation/47)
+[^c-e2a6f4d300a4781511e154277ac05e69]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/497/part/7) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2007/925/regulation/47)

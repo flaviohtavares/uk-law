@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-The Police and Criminal Evidence (Application to Police Ombudsman) Order (Northern Ireland) 2000 (revoked)[^key-9c50f4c159310ed6e285d118997b93ac]
+The Police and Criminal Evidence (Application to Police Ombudsman) Order (Northern Ireland) 2000 (revoked)[^c-9c50f4c159310ed6e285d118997b93ac]
 
 Made
 
@@ -43,38 +43,38 @@ Coming into operation
 
 6th November 2000
 
-[^key-9c50f4c159310ed6e285d118997b93ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c50f4c159310ed6e285d118997b93ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9c50f4c159310ed6e285d118997b93ac]
+## 1. Citation and commencement[^c-9c50f4c159310ed6e285d118997b93ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-9c50f4c159310ed6e285d118997b93ac]
+## 2.[^c-9c50f4c159310ed6e285d118997b93ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-9c50f4c159310ed6e285d118997b93ac]
+## 3.[^c-9c50f4c159310ed6e285d118997b93ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c50f4c159310ed6e285d118997b93ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c50f4c159310ed6e285d118997b93ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Provisions of the 1989 Order Applied to Officer of the Ombudsman[^key-9c50f4c159310ed6e285d118997b93ac]
+## SCHEDULE 1 — Provisions of the 1989 Order Applied to Officer of the Ombudsman[^c-9c50f4c159310ed6e285d118997b93ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Equivalent Grades of Officers[^key-9c50f4c159310ed6e285d118997b93ac]
+## SCHEDULE 2 — Equivalent Grades of Officers[^c-9c50f4c159310ed6e285d118997b93ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9c50f4c159310ed6e285d118997b93ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c50f4c159310ed6e285d118997b93ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c50f4c159310ed6e285d118997b93ac]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/314) revoked (18.5.2009) by [The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [arts. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1), [4](https://www.legislation.gov.uk/nisr/2009/142/article/4)
+[^c-9c50f4c159310ed6e285d118997b93ac]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/314) revoked (18.5.2009) by [The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [arts. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1), [4](https://www.legislation.gov.uk/nisr/2009/142/article/4)

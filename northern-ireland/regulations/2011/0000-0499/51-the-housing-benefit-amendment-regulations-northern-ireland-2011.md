@@ -42,7 +42,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 2(7), 3(7) and 4 should not be referred to it [^f00003].
 
-## 1. Citation, commencement and interpretation[^key-22628425f9f9fdc95196e3462f3e1c88]
+## 1. Citation, commencement and interpretation[^c-22628425f9f9fdc95196e3462f3e1c88]
 
 (1) These Regulations may be cited as the Housing Benefit (Amendment) Regulations (Northern Ireland) 2011 and, subject to paragraph (2), shall come into operation on 18th March 2011.
 
@@ -50,7 +50,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-df91f212ea9c089a2d117de99bab0a72]
+## 2. Amendment of the Housing Benefit Regulations[^c-df91f212ea9c089a2d117de99bab0a72]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00005] are amended in accordance with paragraphs (2) to (8).
 
@@ -148,7 +148,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-86db56e646ebcec52a5994d15bf3a374]
+## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-86db56e646ebcec52a5994d15bf3a374]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00009] are amended in accordance with paragraphs (2) to (8).
 
@@ -235,7 +235,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 4. Amendment of the Housing Benefit (Executive Determinations) Regulations[^key-8f6d674e9b4b526c7c973a882324e5f4]
+## 4. Amendment of the Housing Benefit (Executive Determinations) Regulations[^c-8f6d674e9b4b526c7c973a882324e5f4]
 
 (1) The Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008[^f00013] are amended in accordance with paragraphs (2) and (3).
 
@@ -246,7 +246,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 - (a) in paragraph 1 (categories of dwelling)—
   - (i) omit sub-paragraph (1)(f), and
   - (ii) in sub-paragraph (2)(b) for “to (f)” substitute “to (e)”;
-- (b)[^key-a2a7525d189864bd29b207a8e4916d14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a2a7525d189864bd29b207a8e4916d14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 3(b) (anomalous local housing allowances) for “to (f)” substitute “to (e)”.
 
 Sealed with the Official Seal of the Department for Social Development on 25th February 2011
@@ -288,11 +288,11 @@ In so far as these Regulations are required, for the purposes of regulations 2(7
 
 [^f00003]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-22628425f9f9fdc95196e3462f3e1c88]: Commencement: Reg. 1 in operation at 18.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/1)
+[^c-22628425f9f9fdc95196e3462f3e1c88]: Commencement: Reg. 1 in operation at 18.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-df91f212ea9c089a2d117de99bab0a72]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/51/regulation/2) in operation at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/2)
+[^c-df91f212ea9c089a2d117de99bab0a72]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/51/regulation/2) in operation at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2008 No. 101](https://www.legislation.gov.uk/nisr/2008/101)
 
@@ -302,7 +302,7 @@ In so far as these Regulations are required, for the purposes of regulations 2(7
 
 [^f00008]: Footnote: Regulation 16(5) was amended by regulation 2(9)(b) of [S.R. 2008 No. 101](https://www.legislation.gov.uk/nisr/2008/101)
 
-[^key-86db56e646ebcec52a5994d15bf3a374]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/51/regulation/3) in operation at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/2)
+[^c-86db56e646ebcec52a5994d15bf3a374]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/51/regulation/3) in operation at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are [S.R. 2008 No. 102](https://www.legislation.gov.uk/nisr/2008/102)
 
@@ -312,8 +312,8 @@ In so far as these Regulations are required, for the purposes of regulations 2(7
 
 [^f00012]: Footnote: Regulation 16(5) was amended by regulation 2(9)(b) of [S.R. 2008 No. 102](https://www.legislation.gov.uk/nisr/2008/102)
 
-[^key-8f6d674e9b4b526c7c973a882324e5f4]: Commencement: Reg. 4 in operation at 18.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/1)
+[^c-8f6d674e9b4b526c7c973a882324e5f4]: Commencement: Reg. 4 in operation at 18.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2008 No. 100](https://www.legislation.gov.uk/nisr/2008/100), to which there are amendments not relevant to these Regulations
 
-[^key-a2a7525d189864bd29b207a8e4916d14]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2011/51/regulation/4/3/b) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)
+[^c-a2a7525d189864bd29b207a8e4916d14]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2011/51/regulation/4/3/b) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)

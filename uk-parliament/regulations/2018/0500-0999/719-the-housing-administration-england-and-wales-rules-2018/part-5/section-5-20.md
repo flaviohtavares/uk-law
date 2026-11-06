@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.20. Discounts[^key-9bd989e61c55aa73a73685433da15caf]
+## 5.20. Discounts[^c-9bd989e61c55aa73a73685433da15caf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 ## Annotations
 
-[^key-9bd989e61c55aa73a73685433da15caf]: Commencement: Rule 5.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-9bd989e61c55aa73a73685433da15caf]: Commencement: Rule 5.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

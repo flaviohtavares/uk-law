@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Certain institutions not to be regarded as schools[^key-0f74aec8e61b3be116c373d4a90265b2]
+## 95. Certain institutions not to be regarded as schools[^c-0f74aec8e61b3be116c373d4a90265b2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f74aec8e61b3be116c373d4a90265b2]: Commencement: S. 95 in force at 1.9.2008 by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
+[^c-0f74aec8e61b3be116c373d4a90265b2]: Commencement: S. 95 in force at 1.9.2008 by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))

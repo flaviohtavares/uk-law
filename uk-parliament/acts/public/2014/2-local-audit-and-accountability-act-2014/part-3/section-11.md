@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Relationship with relevant authority[^key-04f805d7ce003dbce8567cbf05577485]
+## 11. Relationship with relevant authority[^c-04f805d7ce003dbce8567cbf05577485]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04f805d7ce003dbce8567cbf05577485]: Commencement: S. 11 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/841/article/3/j)
+[^c-04f805d7ce003dbce8567cbf05577485]: Commencement: S. 11 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/841/article/3/j)

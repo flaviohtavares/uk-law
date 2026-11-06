@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Life sentence not fixed by law: minimum term[^key-55cbdfa5960f5f915bd780bfe83d108b]
+## 129. Life sentence not fixed by law: minimum term[^c-55cbdfa5960f5f915bd780bfe83d108b]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-638e798b86a02f401b45b518a0ae9f34] In section 323 of the Sentencing Code (minimum term order for life sentence not fixed by law)—
+(1)[^c-638e798b86a02f401b45b518a0ae9f34] In section 323 of the Sentencing Code (minimum term order for life sentence not fixed by law)—
 
 - (a) after subsection (1) insert—
 
@@ -39,7 +39,7 @@ summary: ''
   - (i) for the words before paragraph (a), substitute “The minimum term must be the starting point adjusted as the court considers appropriate, taking into account—”;
   - (ii) omit paragraph (b) (but not the final “and”).
 
-(2)[^key-bb04a893e9d0865ee6ba8a5bc9ba2be0] In section 261A(3) of the Armed Forces Act 2006 (life sentences: further provision), before paragraph (a) insert—
+(2)[^c-bb04a893e9d0865ee6ba8a5bc9ba2be0] In section 261A(3) of the Armed Forces Act 2006 (life sentences: further provision), before paragraph (a) insert—
 
 > - (za) subsection (1C)(b) has effect as if for “section 252A, 254, 265, 266, 278 or 279” there were substituted—
 >   - (i) section 224A or 224B of the Armed Forces Act 2006, or
@@ -49,20 +49,20 @@ summary: ''
 
 (3) In the Sentencing Act 2020—
 
-- (a)[^key-638e798b86a02f401b45b518a0ae9f34] in section 61 (sentencing guidelines for life sentences etc)—
+- (a)[^c-638e798b86a02f401b45b518a0ae9f34] in section 61 (sentencing guidelines for life sentences etc)—
   - (i) for subsection (6), for the words from “the notional” to “made under” substitute “the notional determinate sentence within the meaning of”;
   - (ii) omit subsection (7);
 - (b) omit the following (which concern the commencement of paragraph 85 of Schedule 22)—
-  - (i)[^key-1e1146e5a6a35941425f134f1f383a7f] section 407(1)(b)(ii) (but not the final “or”);
-  - (ii)[^key-bb04a893e9d0865ee6ba8a5bc9ba2be0] section 417(8);
-- (c)[^key-638e798b86a02f401b45b518a0ae9f34] in Schedule 22 (prospective amendments of the Sentencing Code)—
+  - (i)[^c-1e1146e5a6a35941425f134f1f383a7f] section 407(1)(b)(ii) (but not the final “or”);
+  - (ii)[^c-bb04a893e9d0865ee6ba8a5bc9ba2be0] section 417(8);
+- (c)[^c-638e798b86a02f401b45b518a0ae9f34] in Schedule 22 (prospective amendments of the Sentencing Code)—
   - (i) in paragraph 68A (amendments of section 323 of the Sentencing Code in relation to prospective abolition of detention in young offender institution), before sub-paragraph (a) insert—
 
     > - (za) in subsection (1C)(b), omit “265, 266,
 
     ;
   - (ii) omit paragraph 85 (prospective amendments of section 323);
-- (d)[^key-638e798b86a02f401b45b518a0ae9f34] in paragraph 20A of Schedule 26 (amendments of section 261A of Armed Forces Act 2006 in relation to prospective abolition of detention in young offender institution), before sub-paragraph (a) insert—
+- (d)[^c-638e798b86a02f401b45b518a0ae9f34] in paragraph 20A of Schedule 26 (amendments of section 261A of Armed Forces Act 2006 in relation to prospective abolition of detention in young offender institution), before sub-paragraph (a) insert—
 
   > - (za) in paragraph (za)—
   >   - (i) in the words before sub-paragraph (i), omit “265, 266,”;
@@ -70,10 +70,10 @@ summary: ''
 
 ## Annotations
 
-[^key-55cbdfa5960f5f915bd780bfe83d108b]: Commencement: S. 129 , see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-55cbdfa5960f5f915bd780bfe83d108b]: Commencement: S. 129 , see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-638e798b86a02f401b45b518a0ae9f34]: Commencement: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/a)[(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/d) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(n)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/n)
+[^c-638e798b86a02f401b45b518a0ae9f34]: Commencement: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/a)[(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/d) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(n)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/n)
 
-[^key-bb04a893e9d0865ee6ba8a5bc9ba2be0]: Commencement: [S. 129(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/2)[(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/b/ii) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(l)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/l)
+[^c-bb04a893e9d0865ee6ba8a5bc9ba2be0]: Commencement: [S. 129(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/2)[(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/b/ii) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(l)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/l)
 
-[^key-1e1146e5a6a35941425f134f1f383a7f]: Commencement: [S. 129(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/b/i) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(m)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/m)
+[^c-1e1146e5a6a35941425f134f1f383a7f]: Commencement: [S. 129(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/129/3/b/i) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(m)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/m)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291. Strategic compensation for adverse environmental effects[^key-b52f85ed9c34645db8f529d9fa63c81a]
+## 291. Strategic compensation for adverse environmental effects[^c-b52f85ed9c34645db8f529d9fa63c81a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ are to count towards discharging the environmental compensation obligation or ob
 
 ## Annotations
 
-[^key-b52f85ed9c34645db8f529d9fa63c81a]: Commencement: [S. 291](https://www.legislation.gov.uk/ukpga/2023/52/section/291) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)
+[^c-b52f85ed9c34645db8f529d9fa63c81a]: Commencement: [S. 291](https://www.legislation.gov.uk/ukpga/2023/52/section/291) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)

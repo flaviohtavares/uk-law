@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 20 — Index of defined expressions[^key-2d19fa0fc11dd60c7f9a35f6815710cf]
+## SCHEDULE 20 — Index of defined expressions[^c-2d19fa0fc11dd60c7f9a35f6815710cf]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
 | employee | section 65 |
 | exempt interest | section 5 |
 | exempt transaction | section 16 |
-| first-time buyer relief[^key-334c3e2c6efa475e9543661a8a3a9a6c] | section 65 |
+| first-time buyer relief[^c-334c3e2c6efa475e9543661a8a3a9a6c] | section 65 |
 | group relief | section 65 |
 | jointly entitled | section 65 |
 | land transaction | section 3 |
@@ -67,7 +67,7 @@ summary: ''
 | seller | section 7 |
 | settlement | paragraph 21 of schedule 18 |
 | subject-matter | section 61 |
-| sub-sale development relief[^key-bb6d988afccd2e89db013adfac240c0e] | section 65 |
+| sub-sale development relief[^c-bb6d988afccd2e89db013adfac240c0e] | section 65 |
 | substantial performance | section 14 |
 | the tax | section 65 |
 | the Tax Authority | section 54 |
@@ -78,8 +78,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2d19fa0fc11dd60c7f9a35f6815710cf]: Commencement: Sch. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-2d19fa0fc11dd60c7f9a35f6815710cf]: Commencement: Sch. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-334c3e2c6efa475e9543661a8a3a9a6c]: Textual amendment: Words in sch. 20 inserted (30.6.2018) by [The Land and Buildings Transaction Tax (First-Time Buyer Relief) (Scotland) Order 2018 (S.S.I. 2018/221)](https://www.legislation.gov.uk/ssi/2018/221), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/221/article/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2018/221/article/4/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2018/221/article/6))
+[^c-334c3e2c6efa475e9543661a8a3a9a6c]: Textual amendment: Words in sch. 20 inserted (30.6.2018) by [The Land and Buildings Transaction Tax (First-Time Buyer Relief) (Scotland) Order 2018 (S.S.I. 2018/221)](https://www.legislation.gov.uk/ssi/2018/221), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/221/article/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2018/221/article/4/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2018/221/article/6))
 
-[^key-bb6d988afccd2e89db013adfac240c0e]: Textual amendment: Words in sch. 20 inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123) , [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1) , [6(2)](https://www.legislation.gov.uk/ssi/2015/123/article/6/2)
+[^c-bb6d988afccd2e89db013adfac240c0e]: Textual amendment: Words in sch. 20 inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123) , [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1) , [6(2)](https://www.legislation.gov.uk/ssi/2015/123/article/6/2)

@@ -69,19 +69,19 @@ In these Regulations—
 - “**the 1978 Order**” means the Health and Safety at Work (Northern Ireland) Order 1978 [^c23331081];
 - “**RAMS**” means Regulation [(EC) 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council of 9<sup></sup>July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/935](https://www.legislation.gov.uk/european/regulation/19935/0339) [^c23331091];
 - “**Regulation 2016/424/EU**” means Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive [2000/9/EC](https://www.legislation.gov.uk/european/directive/2000/0009) [^c23331101];
-- “[^key-eea1662902d27277d6008077398ad9bc]**approved body**” means a conformity assessment body—
+- “[^c-eea1662902d27277d6008077398ad9bc]**approved body**” means a conformity assessment body—
   - ((a)) which has been approved by the Secretary of State under Article 22 of Regulation 2016/424/EU; or
   - ((b)) which was a notified body under these Regulations immediately before IP completion day;
 - “**authorised cableway installation**” means a cableway installation which has been given a stage 1 or stage 2 authorisation or both;
 - “**cableway installation**” has the meaning given by Article 3(1) of Regulation 2016/424/EU;
 - “**cableway installation documentation**” means the documentation concerning the characteristics of the cableway installation referred to in Article 9(2) of Regulation 2016/424/EU;
 - “**conformity assessment body**” has the meaning given by Article 3(23) of Regulation 2016/424/EU;
-- “[^key-9d6017d0b910b29451a84f76711175dd]**declaration of conformity**” means the declaration of conformity referred to in Article 19 of Regulation 2016/424/EU;
+- “[^c-9d6017d0b910b29451a84f76711175dd]**declaration of conformity**” means the declaration of conformity referred to in Article 19 of Regulation 2016/424/EU;
 - “**distributor**” has the meaning given by Article 3(16) of Regulation 2016/424/EU;
 - “**economic operator**” has the meaning given by Article 3(17) of Regulation 2016/424/EU;
 - “**entry into service**” has the meaning given by Article 3(12) of Regulation 2016/424/EU;
 - “**essential requirements**” means the essential requirements set out in Annex II to Regulation 2016/424/EU and required to be met under Article 6 of that Regulation;
-- [^key-5bf1d903d303c2f774395c2fad541cce]...
+- [^c-5bf1d903d303c2f774395c2fad541cce]...
 - “**the Executive**” means—
   - (a) in Great Britain, the Health and Safety Executive [^c23331111]; and
   - (b) in Northern Ireland, the Health and Safety Executive for Northern Ireland [^c23331121];
@@ -91,7 +91,7 @@ In these Regulations—
   - (b) constructs or modifies a cableway installation which that person intends to put into service;
 - “**manufacturer**” has the meaning given by Article 3(13) of Regulation 2016/424/EU;
 - “**modification**” means any work in relation to a cableway installation (including any work in relation to the characteristics, subsystems or safety components of such installation) which could materially affect the capability, capacity or safety of the cableway installation;
-- [^key-b006ae8e70afd668a85e139067d31a5f]...
+- [^c-b006ae8e70afd668a85e139067d31a5f]...
 - “**operator**” in relation to a cableway installation means a person who, for the time being has, or is intending to have, management of that installation;
 - “**Regulatory Provisions**” means these Regulations, Regulation 2016/424/EU and RAMS;
 - “**safe**” in relation to a cableway installation, or a subsystem and safety component incorporated or to be incorporated into a cableway installation, means that it is not liable to endanger the health or safety of persons or property, when properly installed, maintained and operated in accordance with its intended purpose;
@@ -101,7 +101,7 @@ In these Regulations—
 - “**stage 1 authorisation**” means an authorisation of work for the construction or modification of a cableway installation given by the Secretary of State under regulation 8(1);
 - “**stage 2 authorisation**” means an authorisation for the putting into service of a cableway installation given by the Secretary of State under regulation 8(3);
 - “**subsystem**” has the meaning given by Article 3(2) of Regulation 2016/424/EU;
-- “**technical file**” means a file relating to a cableway installation which contains the safety report, the declaration[^key-3593ed7309de7e026bae19909033f5b5] of conformity and other documents relating to the conformity of subsystems and safety components as well as the documentation concerning the characteristics of the cableway installation as referred to in Article 9(2) of Regulation 2016/424/EU;
+- “**technical file**” means a file relating to a cableway installation which contains the safety report, the declaration[^c-3593ed7309de7e026bae19909033f5b5] of conformity and other documents relating to the conformity of subsystems and safety components as well as the documentation concerning the characteristics of the cableway installation as referred to in Article 9(2) of Regulation 2016/424/EU;
 - “**writing**” includes any text transmitted using electronic communications that is received, or accessible by the person to whom it is sent, in legible form.
 
 ### 4. Scope
@@ -137,7 +137,7 @@ The operator of a cableway installation must at all times whilst the cableway in
 - (a) keep a copy of the technical file at the cableway installation; and
 - (b) ensure that the cableway installation complies with the conditions set out in the safety report and such conditions (if any) as are imposed in relation to its entry into service by the Secretary of State under regulation 15(3).
 
-## PART 3 — Authorisation Procedures and Approved Bodies[^key-07e86ddd8d2dac570614a9146722338f]
+## PART 3 — Authorisation Procedures and Approved Bodies[^c-07e86ddd8d2dac570614a9146722338f]
 
 ### 8. Authorisation by the Secretary of State
 
@@ -149,41 +149,41 @@ The operator of a cableway installation must at all times whilst the cableway in
 
 (4) An authorisation given under paragraph (3) is a stage 2 authorisation.
 
-### 9. Notifying authority[^key-81cb572ce11e1868271d966491a4fbc8]
+### 9. Notifying authority[^c-81cb572ce11e1868271d966491a4fbc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Approval of conformity assessment bodies[^key-583e4d7f0b637a9f079791c8ddd051d3]
+### 10. Approval of conformity assessment bodies[^c-583e4d7f0b637a9f079791c8ddd051d3]
 
-(1)[^key-5e79955b3063174f831eea7c59db5330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5e79955b3063174f831eea7c59db5330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A conformity assessment body qualifies for approval[^key-683f301ae31d3b4d80959a9a835547ed] if the conditions set out in paragraphs (3) and (4) are met.
+(2) A conformity assessment body qualifies for approval[^c-683f301ae31d3b4d80959a9a835547ed] if the conditions set out in paragraphs (3) and (4) are met.
 
-(3) The first condition is that the conformity assessment body has submitted an application to the Secretary of State to be approved[^key-8446cb57a40ce1e5d1bd80168cfda8c9], in accordance with Article 29 of Regulation 2016/424/EU.
+(3) The first condition is that the conformity assessment body has submitted an application to the Secretary of State to be approved[^c-8446cb57a40ce1e5d1bd80168cfda8c9], in accordance with Article 29 of Regulation 2016/424/EU.
 
 (4) The second condition is that the Secretary of State is satisfied that the conformity assessment body meets the requirements of Article 26 of Regulation 2016/424/EU.
 
-(5) When deciding whether to approve[^key-aa5692ffa06912baa7f242e10ed27721] a conformity assessment body that qualifies for approval[^key-59efe456ed916815e19374596e67cddc], the Secretary of State may—
+(5) When deciding whether to approve[^c-aa5692ffa06912baa7f242e10ed27721] a conformity assessment body that qualifies for approval[^c-59efe456ed916815e19374596e67cddc], the Secretary of State may—
 
 - (a) have regard to any other matter that appears to the Secretary of State to be relevant; and
-- (b) set conditions that the conformity assessment body must meet including such conditions that are to apply upon or following the restriction, suspension or withdrawal of its status as an approved body[^key-9957a343fd1b1949a8ed37af8803b1f3].
+- (b) set conditions that the conformity assessment body must meet including such conditions that are to apply upon or following the restriction, suspension or withdrawal of its status as an approved body[^c-9957a343fd1b1949a8ed37af8803b1f3].
 
 (6) Subject to paragraph (7), if at any time it appears to the Secretary of State—
 
-- (a) that an approved body[^key-d533b279ffe422b77e7c731f06232759] no longer meets the requirements laid down in Article 26 of Regulation 2016/424/EU; or
+- (a) that an approved body[^c-d533b279ffe422b77e7c731f06232759] no longer meets the requirements laid down in Article 26 of Regulation 2016/424/EU; or
 - (b) that it is failing to meet its obligations,
 
 the Secretary of State may by written notice to that body specify a date on which its status as an approved body will be restricted, suspended or withdrawn, as appropriate depending on the seriousness of the failure to meet those requirements or obligations.
 
-(7) Before the Secretary of State restricts, suspends or withdraws the status of a conformity assessment body as an approved body[^key-86749b22b10740a6fc43a8c68d2d077f] under paragraph (6) the Secretary of State must—
+(7) Before the Secretary of State restricts, suspends or withdraws the status of a conformity assessment body as an approved body[^c-86749b22b10740a6fc43a8c68d2d077f] under paragraph (6) the Secretary of State must—
 
-- (a) give notice in writing to the approved body[^key-f412fb2cdb129f6a7390f4e517dafa50] that the Secretary of State intends to take such action;
+- (a) give notice in writing to the approved body[^c-f412fb2cdb129f6a7390f4e517dafa50] that the Secretary of State intends to take such action;
 - (b) give the approved body the opportunity to make representations within a period of 14 days beginning with the day on which such notice is given; and
 - (c) consider any representation made within that period by the approved body before making a decision on whether to take such action.
 
-(8) Where the Secretary of State has taken action in respect of an approved body[^key-6edadf12728b24ad005cec0df231ffac] under paragraph (6), or where an approved body has ceased its activity as a conformity assessment body, the body must—
+(8) Where the Secretary of State has taken action in respect of an approved body[^c-6edadf12728b24ad005cec0df231ffac] under paragraph (6), or where an approved body has ceased its activity as a conformity assessment body, the body must—
 
-- (a) on the request of the Secretary of State, transfer its files relating to the activities it has undertaken as an approved body to another approved body[^key-931c10ab34fee88c85e8084a3215fd01], to the Secretary of State, or to the Executive;
+- (a) on the request of the Secretary of State, transfer its files relating to the activities it has undertaken as an approved body to another approved body[^c-931c10ab34fee88c85e8084a3215fd01], to the Secretary of State, or to the Executive;
 - (b) in the absence of a request under sub-paragraph (a), ensure that its files relating to the activities it has undertaken as an approved body are kept available for the Secretary of State and the Executive for a period of 10 years beginning on the day on which the relevant document was created.
 
 ### 11. United Kingdom Accreditation Service
@@ -191,15 +191,15 @@ the Secretary of State may by written notice to that body specify a date on whic
 The Secretary of State may authorise the United Kingdom Accreditation Service [^c23331131] to carry out the following activities on behalf of the Secretary of State–—
 
 - (a) assessing whether a conformity assessment body meets the requirements of Article 26 of Regulation 2016/424/EU; and
-- (b) monitoring approved bodies in relation to their compliance with the requirements of Chapter 4[^key-fb98de311233d7a4d62dde941b54154b] of Regulation 2016/424/EU.
+- (b) monitoring approved bodies in relation to their compliance with the requirements of Chapter 4[^c-fb98de311233d7a4d62dde941b54154b] of Regulation 2016/424/EU.
 
 ### 12. Fees
 
-(1) Subject to paragraph (2), an approved body[^key-bfb5e08526dfa95a2ed4b47c32928f4f] may charge such fees in connection with, or incidental to, carrying out its duties in relation to its functions as it may determine.
+(1) Subject to paragraph (2), an approved body[^c-bfb5e08526dfa95a2ed4b47c32928f4f] may charge such fees in connection with, or incidental to, carrying out its duties in relation to its functions as it may determine.
 
 (2) The fees charged pursuant to paragraph (1) must not exceed the sum of the following—
 
-- (a) the sum of the costs incurred or to be incurred by the approved body[^key-096d1957bcbe1a467f1936cdec8bc794] in carrying out the relevant work on behalf of the person commissioning the work; and
+- (a) the sum of the costs incurred or to be incurred by the approved body[^c-096d1957bcbe1a467f1936cdec8bc794] in carrying out the relevant work on behalf of the person commissioning the work; and
 - (b) an amount on account of profit which is reasonable in the circumstances having regard to—
   - (i) the character and extent of the work done or to be done by the approved body on behalf of the person commissioning the work, and
   - (ii) the commercial rate normally charged on account of profit for that work or similar work.
@@ -264,15 +264,15 @@ Where the Secretary of State is minded to refuse to grant a stage 1 authorisatio
 - (a) give notice in writing to the applicant of the reasons for being so minded; and
 - (b) give the applicant the opportunity to make representations within a period of 28 days beginning with the day that notice is given, and consider any such representations made by the applicant within that period before taking a decision on whether to refuse the authorisation.
 
-### 17. Obligations of manufacturers[^key-7adfa6fe8f2fe2b07fd4954a6711fecd]
+### 17. Obligations of manufacturers[^c-7adfa6fe8f2fe2b07fd4954a6711fecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Obligations of importers[^key-7adfa6fe8f2fe2b07fd4954a6711fecd]
+### 18. Obligations of importers[^c-7adfa6fe8f2fe2b07fd4954a6711fecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Obligations of distributors[^key-7adfa6fe8f2fe2b07fd4954a6711fecd]
+### 19. Obligations of distributors[^c-7adfa6fe8f2fe2b07fd4954a6711fecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -280,7 +280,7 @@ Where the Secretary of State is minded to refuse to grant a stage 1 authorisatio
 
 ### 20. Market surveillance authority
 
-The Executive is designated as the market surveillance authority for the purposes of [^key-04ab16de00976d3a8073d98c5cdd21a1]... RAMS in its application to subsystems and safety components.
+The Executive is designated as the market surveillance authority for the purposes of [^c-04ab16de00976d3a8073d98c5cdd21a1]... RAMS in its application to subsystems and safety components.
 
 ### 21. Enforcement in Great Britain
 
@@ -326,8 +326,8 @@ The Executive is designated as the market surveillance authority for the purpose
 
 - (a) where the Executive has—
   - (i) required an economic operator to take corrective action in relation to a subsystem or safety component in accordance with paragraph 1 of Article 40 of Regulation 2016/424/EU; and
-  - (ii) the economic operator has not taken adequate corrective action within the period prescribed by the Executive under that paragraph; [^key-3ab8600e6087c92ad3240e66d00f9083]...
-- (b)[^key-3ab8600e6087c92ad3240e66d00f9083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) the economic operator has not taken adequate corrective action within the period prescribed by the Executive under that paragraph; [^c-3ab8600e6087c92ad3240e66d00f9083]...
+- (b)[^c-3ab8600e6087c92ad3240e66d00f9083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where paragraph (1) applies, the Executive must serve a notice on any relevant economic operator—
 
@@ -522,61 +522,61 @@ Part 5 contains consequential amendments to the relevant secondary legislation, 
 
 [^c23331101]: Marginal citation: O.J. No. L 81, 31.3.2016, p.1.
 
-[^key-eea1662902d27277d6008077398ad9bc]: Textual amendment: Words in reg. 3 inserted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/a) (as amended by [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [9](https://www.legislation.gov.uk/uksi/2020/786/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eea1662902d27277d6008077398ad9bc]: Textual amendment: Words in reg. 3 inserted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/a) (as amended by [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [9](https://www.legislation.gov.uk/uksi/2020/786/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d6017d0b910b29451a84f76711175dd]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) inserted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d6017d0b910b29451a84f76711175dd]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) inserted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5bf1d903d303c2f774395c2fad541cce]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5bf1d903d303c2f774395c2fad541cce]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23331111]: Marginal citation: Established under section 10 of the 1974 Act as substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
 [^c23331121]: Marginal citation: Formerly known as the Health and Safety Agency for Northern Ireland which was established under Article 12 of the Health and Safety at [Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9))](https://www.legislation.gov.uk/nisi/1978/1039). Article 3(1) of the Health and Safety at [Work (Amendment) (Northern Ireland) Order 1998 (S.I. 1998/2795 (N.I. 18))](https://www.legislation.gov.uk/nisi/1998/2795) changed its name to the Health and Safety Executive for Northern Ireland.
 
-[^key-b006ae8e70afd668a85e139067d31a5f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b006ae8e70afd668a85e139067d31a5f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3593ed7309de7e026bae19909033f5b5]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3593ed7309de7e026bae19909033f5b5]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2018/816/regulation/3) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07e86ddd8d2dac570614a9146722338f]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/2018/816/part/3) heading substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/1347/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07e86ddd8d2dac570614a9146722338f]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/2018/816/part/3) heading substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/1347/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-81cb572ce11e1868271d966491a4fbc8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/816/regulation/9) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/1347/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81cb572ce11e1868271d966491a4fbc8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/816/regulation/9) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/1347/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-583e4d7f0b637a9f079791c8ddd051d3]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2018/816/regulation/10) heading substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-583e4d7f0b637a9f079791c8ddd051d3]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2018/816/regulation/10) heading substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e79955b3063174f831eea7c59db5330]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/1) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e79955b3063174f831eea7c59db5330]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/1) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-683f301ae31d3b4d80959a9a835547ed]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/2) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-683f301ae31d3b4d80959a9a835547ed]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/2) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8446cb57a40ce1e5d1bd80168cfda8c9]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/3) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8446cb57a40ce1e5d1bd80168cfda8c9]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/3) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa5692ffa06912baa7f242e10ed27721]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/5) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(e)(i)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa5692ffa06912baa7f242e10ed27721]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/5) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(e)(i)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59efe456ed916815e19374596e67cddc]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/5) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59efe456ed916815e19374596e67cddc]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/5) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9957a343fd1b1949a8ed37af8803b1f3]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/5) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(e)(iii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9957a343fd1b1949a8ed37af8803b1f3]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/5) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(e)(iii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d533b279ffe422b77e7c731f06232759]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/6) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(f)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d533b279ffe422b77e7c731f06232759]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/6) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(f)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86749b22b10740a6fc43a8c68d2d077f]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/7) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(g)(i)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/g/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86749b22b10740a6fc43a8c68d2d077f]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/7) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(g)(i)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/g/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f412fb2cdb129f6a7390f4e517dafa50]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/7) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(g)(ii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/g/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f412fb2cdb129f6a7390f4e517dafa50]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/7) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(g)(ii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/g/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6edadf12728b24ad005cec0df231ffac]: Textual amendment: Words in [reg. 10(8)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/8) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(h)(i)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/h/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6edadf12728b24ad005cec0df231ffac]: Textual amendment: Words in [reg. 10(8)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/8) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(h)(i)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/h/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-931c10ab34fee88c85e8084a3215fd01]: Textual amendment: Words in [reg. 10(8)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/8) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(h)(ii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/h/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-931c10ab34fee88c85e8084a3215fd01]: Textual amendment: Words in [reg. 10(8)](https://www.legislation.gov.uk/uksi/2018/816/regulation/10/8) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [6(h)(ii)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/6/h/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23331131]: Marginal citation: a company limited by guarantee incorporated in England and Wales under number 3076190 and appointed as the national accreditation body for the purposes of article 4(1) of RAMS under regulation 3 of the [Accreditation Regulations 2009 (S.I. 2009/3155)](https://www.legislation.gov.uk/uksi/2009/3155).
 
-[^key-fb98de311233d7a4d62dde941b54154b]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/2018/816/regulation/11/b) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/1347/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb98de311233d7a4d62dde941b54154b]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/2018/816/regulation/11/b) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/1347/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bfb5e08526dfa95a2ed4b47c32928f4f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/816/regulation/12/1) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bfb5e08526dfa95a2ed4b47c32928f4f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/816/regulation/12/1) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-096d1957bcbe1a467f1936cdec8bc794]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/816/regulation/12/2) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-096d1957bcbe1a467f1936cdec8bc794]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/816/regulation/12/2) substituted (31.12.2020) by [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1347/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7adfa6fe8f2fe2b07fd4954a6711fecd]: Textual amendment: [Regs. 17-19](https://www.legislation.gov.uk/uksi/2018/816/regulation/17) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/1347/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7adfa6fe8f2fe2b07fd4954a6711fecd]: Textual amendment: [Regs. 17-19](https://www.legislation.gov.uk/uksi/2018/816/regulation/17) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/1347/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04ab16de00976d3a8073d98c5cdd21a1]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2018/816/regulation/20) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1347/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04ab16de00976d3a8073d98c5cdd21a1]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2018/816/regulation/20) omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1347/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ab8600e6087c92ad3240e66d00f9083]: Textual amendment: [Reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/2018/816/regulation/23/1/b) and word omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/1347/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ab8600e6087c92ad3240e66d00f9083]: Textual amendment: [Reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/2018/816/regulation/23/1/b) and word omitted (31.12.2020) by virtue of [The Cableway Installations (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1347)](https://www.legislation.gov.uk/uksi/2019/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1347/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/1347/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23331141]: Marginal citation: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306).
 

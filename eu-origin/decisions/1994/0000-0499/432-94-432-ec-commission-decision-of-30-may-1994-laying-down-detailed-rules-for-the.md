@@ -34,10 +34,10 @@ summary: ''
 
 of 30 May 1994 laying down detailed rules for the application of Council Directive 93/23/EEC as regards the statistical surveys on pig population and production (revoked)
 
-[^key-1ecaad034fd38203722b159f129ea35e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ecaad034fd38203722b159f129ea35e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1ecaad034fd38203722b159f129ea35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1ecaad034fd38203722b159f129ea35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ecaad034fd38203722b159f129ea35e]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/11)
+[^c-1ecaad034fd38203722b159f129ea35e]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-0665cfe8b5ab8c1c392f87698068f6a8]
+## SCHEDULE 10 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-0665cfe8b5ab8c1c392f87698068f6a8]
 
 *Extent: E+W*
 
@@ -73,10 +73,10 @@ Article 37
 </tbody>
 </table>
 
-[^key-644f6183109122839f36c72f9fbc2506]
+[^c-644f6183109122839f36c72f9fbc2506]
 
 ## Annotations
 
-[^key-0665cfe8b5ab8c1c392f87698068f6a8]: Commencement: Sch. 10 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-0665cfe8b5ab8c1c392f87698068f6a8]: Commencement: Sch. 10 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-644f6183109122839f36c72f9fbc2506]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/uksi/2024/802/schedule/10) Table substituted (22.5.2026) by virtue of [The Sunnica Energy Farm (Amendment) Order 2026 (S.I. 2026/667)](https://www.legislation.gov.uk/uksi/2026/667), [arts. 1](https://www.legislation.gov.uk/uksi/2026/667/article/1), [3](https://www.legislation.gov.uk/uksi/2026/667/article/3)
+[^c-644f6183109122839f36c72f9fbc2506]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/uksi/2024/802/schedule/10) Table substituted (22.5.2026) by virtue of [The Sunnica Energy Farm (Amendment) Order 2026 (S.I. 2026/667)](https://www.legislation.gov.uk/uksi/2026/667), [arts. 1](https://www.legislation.gov.uk/uksi/2026/667/article/1), [3](https://www.legislation.gov.uk/uksi/2026/667/article/3)

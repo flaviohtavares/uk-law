@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Traffic regulation measures[^key-463226bf2a3396d670e13ee40991129c]
+## 56. Traffic regulation measures[^c-463226bf2a3396d670e13ee40991129c]
 
 *Extent: E+W+S*
 
@@ -71,7 +71,7 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-463226bf2a3396d670e13ee40991129c]: Commencement: Art. 56 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-463226bf2a3396d670e13ee40991129c]: Commencement: Art. 56 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00094]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 

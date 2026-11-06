@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Community council training plans[^key-a33c381dc08086924b3b1966a0d64c97]
+## 67. Community council training plans[^c-a33c381dc08086924b3b1966a0d64c97]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a33c381dc08086924b3b1966a0d64c97]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2021/1/section/67) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(o)](https://www.legislation.gov.uk/wsi/2021/231/article/6/o)
+[^c-a33c381dc08086924b3b1966a0d64c97]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2021/1/section/67) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(o)](https://www.legislation.gov.uk/wsi/2021/231/article/6/o)

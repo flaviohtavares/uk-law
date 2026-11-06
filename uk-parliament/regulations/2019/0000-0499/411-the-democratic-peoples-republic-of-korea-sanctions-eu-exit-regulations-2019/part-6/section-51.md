@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Bank notes and coinage[^key-3e60e3827f54786d4eed8b45c282ea4d][^key-f2ee54c7eff9a2198cc4632aac33abcd]
+## 51. Bank notes and coinage[^c-3e60e3827f54786d4eed8b45c282ea4d][^c-f2ee54c7eff9a2198cc4632aac33abcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e60e3827f54786d4eed8b45c282ea4d]: Commencement: Reg. 51 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-3e60e3827f54786d4eed8b45c282ea4d]: Commencement: Reg. 51 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-f2ee54c7eff9a2198cc4632aac33abcd]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2019/411/regulation/51) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2ee54c7eff9a2198cc4632aac33abcd]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2019/411/regulation/51) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

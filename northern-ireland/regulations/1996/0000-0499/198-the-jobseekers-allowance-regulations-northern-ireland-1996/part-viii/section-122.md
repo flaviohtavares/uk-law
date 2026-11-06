@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Calculation of the weekly amount of a liable relative payment[^key-3f2d0d8e78518ccff1b9a3db3e232d7f]
+## 122. Calculation of the weekly amount of a liable relative payment[^c-3f2d0d8e78518ccff1b9a3db3e232d7f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f2d0d8e78518ccff1b9a3db3e232d7f]: Commencement: Reg. 122 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-3f2d0d8e78518ccff1b9a3db3e232d7f]: Commencement: Reg. 122 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

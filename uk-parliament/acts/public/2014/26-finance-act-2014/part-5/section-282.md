@@ -28,7 +28,7 @@ summary: ''
 
 - (a) section 238(7),
 - (b) paragraph 14 of Schedule 34,
-- (ba)[^key-590ee0e1573d80d93d8fbb67f80898ee] paragraph 31 of Schedule 34A,
+- (ba)[^c-590ee0e1573d80d93d8fbb67f80898ee] paragraph 31 of Schedule 34A,
 - (c) paragraph 5(1) of Schedule 35, or
 - (d) paragraph 21 of Schedule 36,
 
@@ -41,4 +41,4 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 ## Annotations
 
-[^key-590ee0e1573d80d93d8fbb67f80898ee]: Textual amendment: [S. 282(3)(ba)](https://www.legislation.gov.uk/ukpga/2014/26/section/282/3/ba) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/8)
+[^c-590ee0e1573d80d93d8fbb67f80898ee]: Textual amendment: [S. 282(3)(ba)](https://www.legislation.gov.uk/ukpga/2014/26/section/282/3/ba) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/8)

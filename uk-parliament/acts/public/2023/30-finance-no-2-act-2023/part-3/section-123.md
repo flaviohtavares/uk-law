@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Charge to multinational top-up tax[^key-df8641d1186157c223e22059971c1a04]
+## 123. Charge to multinational top-up tax[^c-df8641d1186157c223e22059971c1a04]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df8641d1186157c223e22059971c1a04]: Textual amendment: S. 123 substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 4(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/4/1), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-df8641d1186157c223e22059971c1a04]: Textual amendment: S. 123 substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 4(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/4/1), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)

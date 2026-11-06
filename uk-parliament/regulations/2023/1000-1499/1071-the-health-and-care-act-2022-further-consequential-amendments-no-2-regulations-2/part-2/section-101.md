@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Amendment of the Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (Welsh language text)[^key-bd17eb33249aa3d92dd2b183576d1fc4]
+## 101. Amendment of the Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (Welsh language text)[^c-bd17eb33249aa3d92dd2b183576d1fc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd17eb33249aa3d92dd2b183576d1fc4]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2023/1071/regulation/101) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-bd17eb33249aa3d92dd2b183576d1fc4]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2023/1071/regulation/101) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

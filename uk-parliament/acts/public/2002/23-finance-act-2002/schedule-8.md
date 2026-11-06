@@ -734,7 +734,7 @@ Section 44(2)
 
 In section 179(4) of the Taxation of Chargeable Gains Act 1992 (c. 12) (deemed sale and reacquisition on company ceasing to be member of group: time when chargeable gain or allowable loss treated as accruing), for “which, apart from this subsection, would accrue" substitute “ accruing ”.
 
-#### 3. Treatment of furnished holiday lettings[^key-357061e84d991d740ab89216f56b9ec7]
+#### 3. Treatment of furnished holiday lettings[^c-357061e84d991d740ab89216f56b9ec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -752,4 +752,4 @@ In Schedule 15 to the Finance Act 2000 (c. 17) (the corporate venturing scheme),
 
 ## Annotations
 
-[^key-357061e84d991d740ab89216f56b9ec7]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/8/paragraph/3) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/c), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-357061e84d991d740ab89216f56b9ec7]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/8/paragraph/3) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/c), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

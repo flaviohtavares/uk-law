@@ -54,8 +54,8 @@ summary: ''
   - (i) are held by the investor at the time the relevant receipt is received, and
   - (ii) have been held by the investor, as sole beneficial owner, continuously since the investment was made.
 
-(8)[^key-aa1ab908650c7152740f3646b2fd7d0a] This section is subject to section 368 (value received if there is more than one investment).
+(8)[^c-aa1ab908650c7152740f3646b2fd7d0a] This section is subject to section 368 (value received if there is more than one investment).
 
 ## Annotations
 
-[^key-aa1ab908650c7152740f3646b2fd7d0a]: Textual amendment: S. 365(8) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 517](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/517) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-aa1ab908650c7152740f3646b2fd7d0a]: Textual amendment: S. 365(8) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 517](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/517) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

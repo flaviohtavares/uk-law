@@ -30,13 +30,13 @@ Section 64.
 
 (2) Regulations under sub-paragraph (1) above may be framed by reference to such records as may be specified in any notice published by the Commissioners in pursuance of the regulations and not withdrawn by a further notice.
 
-(3) Regulations may —[^key-25ee1459a9882d34bb564a14e04646f7]
+(3) Regulations may —[^c-25ee1459a9882d34bb564a14e04646f7]
 
 - (a) require any records kept in pursuance of the regulations to be preserved for such period not exceeding six years as may be specified in the regulations.
-- (b)[^key-7ad442b084f83a0cb6769a08645b2558] authorise the Commissioners to direct that any such records need only be preserved for a shorter period than that specified in the regulations, and
+- (b)[^c-7ad442b084f83a0cb6769a08645b2558] authorise the Commissioners to direct that any such records need only be preserved for a shorter period than that specified in the regulations, and
 - (c) authorise a direction to be made so as to apply generally or in such cases as the Commissioners may stipulate.
 
-(4)[^key-b9a3db871e0a536e54828d769bc00ca0] A duty under the regulations to preserve records may be discharged—
+(4)[^c-b9a3db871e0a536e54828d769bc00ca0] A duty under the regulations to preserve records may be discharged—
 
 - (a) by preserving them in any form and by any means, or
 - (b) by preserving the information contained in them in any form and by any means,
@@ -45,27 +45,27 @@ subject to any conditions or exceptions specified in writing by the Commissioner
 
 #### Other provisions
 
-**2.**[^key-40215b4a82a27acdbb12d7255b10fbc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-40215b4a82a27acdbb12d7255b10fbc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e910612aed4d9ff9a46315bfc851d810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e910612aed4d9ff9a46315bfc851d810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Powers
 
 #### Entry, arrest, etc.
 
-**4.** (1)[^key-5e0ea99ccd61cbb8980f8ee8533e108b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.** (1)[^c-5e0ea99ccd61cbb8980f8ee8533e108b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8b3ff1f6da172c944fdac67d9b8c37a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8b3ff1f6da172c944fdac67d9b8c37a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8b3ff1f6da172c944fdac67d9b8c37a4][^c14459231][^key-fd23e79d429b30f0095672af325ff25f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8b3ff1f6da172c944fdac67d9b8c37a4][^c14459231][^c-fd23e79d429b30f0095672af325ff25f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8b3ff1f6da172c944fdac67d9b8c37a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8b3ff1f6da172c944fdac67d9b8c37a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8b3ff1f6da172c944fdac67d9b8c37a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8b3ff1f6da172c944fdac67d9b8c37a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a9db35e105d35c506c1b4a852afb5dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a9db35e105d35c506c1b4a852afb5dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-a9db35e105d35c506c1b4a852afb5dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a9db35e105d35c506c1b4a852afb5dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Order for access to recorded information etc.[^c14459241]
 
@@ -85,7 +85,7 @@ not later than the end of the period of 7 days beginning on the date of the orde
 
 (3) The reference in sub-paragraph (2)(a) above to giving an authorised person access to the recorded information to which the application relates includes a reference to permitting the authorised person to take copies of it or to make extracts from it.
 
-(4) Where the recorded information consists of information stored in any electronic form[^key-0057e108c1aa685bef5157f737dadd2c] , an order under this paragraph shall have effect as an order to produce the information in a form in which it is visible and legible or from which it can readily be produced in a visible and legible form[^key-0180c7146a4ea1677273e8f9b94b4c3f] and, if the authorised person wishes to remove it, in a form in which it can be removed.
+(4) Where the recorded information consists of information stored in any electronic form[^c-0057e108c1aa685bef5157f737dadd2c] , an order under this paragraph shall have effect as an order to produce the information in a form in which it is visible and legible or from which it can readily be produced in a visible and legible form[^c-0180c7146a4ea1677273e8f9b94b4c3f] and, if the authorised person wishes to remove it, in a form in which it can be removed.
 
 (5) This paragraph is without prejudice to paragraphs 3 and 4 above.
 
@@ -145,24 +145,24 @@ is made to the officer in overall charge of the investigation by a person who ha
 
 **7.** (1) Tax due from any person shall be recoverable as a debt due to the Crown.
 
-(2)[^key-5fa05c3575bdbde916b958cbc4b0747f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5fa05c3575bdbde916b958cbc4b0747f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d49678872e122c052957447c8c529176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d49678872e122c052957447c8c529176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d49678872e122c052957447c8c529176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d49678872e122c052957447c8c529176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d49678872e122c052957447c8c529176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d49678872e122c052957447c8c529176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) In the *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e] [^c14459451]Insolvency (Northern Ireland) Order 1989, in Article 346(1) (preferential debts) the words *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e] “ insurance premium tax ” *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e] shall be inserted after “ *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]VAT *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]” and in Schedule 4 (categories of preferential debts) the following paragraph shall be inserted after paragraph 3— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]
+(6) In the *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e] [^c14459451]Insolvency (Northern Ireland) Order 1989, in Article 346(1) (preferential debts) the words *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e] “ insurance premium tax ” *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e] shall be inserted after “ *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]VAT *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]” and in Schedule 4 (categories of preferential debts) the following paragraph shall be inserted after paragraph 3— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]
 
-> **3A (Extent: N.I.) (affected by repeal, see note).**[^key-d2e26e27111d7e58fc67cabb114fa66e] Any insurance premium tax which is referable to the period of 6 months next before the relevant date (which period is referred to below as “ *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]**the 6-month period *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]**”). *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]
+> **3A (Extent: N.I.) (affected by repeal, see note).**[^c-d2e26e27111d7e58fc67cabb114fa66e] Any insurance premium tax which is referable to the period of 6 months next before the relevant date (which period is referred to below as “ *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]**the 6-month period *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]**”). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]
 >
-> For the purposes of this paragraph— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]
+> For the purposes of this paragraph— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]
 >
-> - (a (Extent: N.I.) (affected by repeal, see note))[^key-d2e26e27111d7e58fc67cabb114fa66e] where the whole of the accounting period to which any insurance premium tax is attributable falls within the 6-month period, the whole amount of that tax is referable to that period; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]
-> - (b (Extent: N.I.) (affected by repeal, see note))[^key-d2e26e27111d7e58fc67cabb114fa66e] in any other case the amount of any insurance premium tax which is referable to the 6-month period is the proportion of the tax which is equal to such proportion (if any) of the accounting period in question as falls within the 6-month period; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]
+> - (a (Extent: N.I.) (affected by repeal, see note))[^c-d2e26e27111d7e58fc67cabb114fa66e] where the whole of the accounting period to which any insurance premium tax is attributable falls within the 6-month period, the whole amount of that tax is referable to that period; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]
+> - (b (Extent: N.I.) (affected by repeal, see note))[^c-d2e26e27111d7e58fc67cabb114fa66e] in any other case the amount of any insurance premium tax which is referable to the 6-month period is the proportion of the tax which is equal to such proportion (if any) of the accounting period in question as falls within the 6-month period; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]
 >
-> and references here to accounting periods shall be construed in accordance with Part III of the Finance Act 1994. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d2e26e27111d7e58fc67cabb114fa66e]
+> and references here to accounting periods shall be construed in accordance with Part III of the Finance Act 1994. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d2e26e27111d7e58fc67cabb114fa66e]
 
 (7)[^c14459461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,7 +184,7 @@ is made to the officer in overall charge of the investigation by a person who ha
 
 (3)[^c14459521][^c14459531] It shall be a defence, in relation to a claim under this paragraph, that repayment of an amount would unjustly enrich the claimant.
 
-(4)[^c14459541] The Commissioners shall not be liable, on a claim made under this paragraph, to repay any amount paid to them more than 4 years[^key-d6f6bbbdaca25d3cb3c3b68c071d47cd] before the making of the claim.
+(4)[^c14459541] The Commissioners shall not be liable, on a claim made under this paragraph, to repay any amount paid to them more than 4 years[^c-d6f6bbbdaca25d3cb3c3b68c071d47cd] before the making of the claim.
 
 (6) A claim under this paragraph shall be made in such form and manner and shall be supported by such documentary evidence as may be prescribed by regulations.
 
@@ -225,8 +225,8 @@ with reason to believe that tax in respect of the contract will be evaded.
 
 **10.** (1) A person guilty of an offence under paragraph 9(1) above shall be liable—
 
-- (a) on summary conviction, to a penalty of £20,000[^key-1011481ee73a3e53b118ce71cb6ffd7e] or of three times the amount of the tax, whichever is the greater, or to imprisonment for a term not exceeding six months or to both;
-- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^key-a4a1fa809c58e8f2251fcc3da167d4bf] years or to both.
+- (a) on summary conviction, to a penalty of £20,000[^c-1011481ee73a3e53b118ce71cb6ffd7e] or of three times the amount of the tax, whichever is the greater, or to imprisonment for a term not exceeding six months or to both;
+- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^c-a4a1fa809c58e8f2251fcc3da167d4bf] years or to both.
 
 (2) The reference in sub-paragraph (1) above to the amount of the tax shall be construed, in relation to tax itself or a payment falling within paragraph 9(2) above, as a reference to the aggregate of—
 
@@ -235,8 +235,8 @@ with reason to believe that tax in respect of the contract will be evaded.
 
 (3) A person guilty of an offence under paragraph 9(3) or (4) above shall be liable—
 
-- (a) on summary conviction, to a penalty of £20,000[^key-f9f6b116fd207655f344a797cdb93e11] or, where sub-paragraph (4) below applies, to the alternative penalty there specified if it is greater, or to imprisonment for a term not exceeding six months or to both;
-- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^key-198359481f1d42b077ee1f58d8a24e17] years or to both.
+- (a) on summary conviction, to a penalty of £20,000[^c-f9f6b116fd207655f344a797cdb93e11] or, where sub-paragraph (4) below applies, to the alternative penalty there specified if it is greater, or to imprisonment for a term not exceeding six months or to both;
+- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^c-198359481f1d42b077ee1f58d8a24e17] years or to both.
 
 (4) In a case where—
 
@@ -247,14 +247,14 @@ the alternative penalty is a penalty equal to three times the aggregate of the a
 
 (5) A person guilty of an offence under paragraph 9(5) above shall be liable—
 
-- (a) on summary conviction, to a penalty of £20,000[^key-45e388a69812532e436ed5100dd910b4] or (if greater) three times the amount of any tax that was or was intended to be evaded by his conduct, or to imprisonment for a term not exceeding six months or to both;
-- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^key-7c8662c2335dc84b1f93d675f7162c84] years or to both;
+- (a) on summary conviction, to a penalty of £20,000[^c-45e388a69812532e436ed5100dd910b4] or (if greater) three times the amount of any tax that was or was intended to be evaded by his conduct, or to imprisonment for a term not exceeding six months or to both;
+- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^c-7c8662c2335dc84b1f93d675f7162c84] years or to both;
 
 and paragraph 9(2) and sub-paragraph (2) above shall apply for the purposes of this sub-paragraph as they apply respectively for the purposes of paragraph 9(1) and sub-paragraph (1) above.
 
-(6) A person guilty of an offence under paragraph 9(6) above shall be liable on summary conviction to a penalty of £20,000[^key-f923d136a1de39ac60d76155e934602f] or three times the amount of the tax, whichever is the greater.
+(6) A person guilty of an offence under paragraph 9(6) above shall be liable on summary conviction to a penalty of £20,000[^c-f923d136a1de39ac60d76155e934602f] or three times the amount of the tax, whichever is the greater.
 
-(7) A person guilty of an offence under paragraph 9(7) above shall be liable on summary conviction to a penalty of £20,000[^key-4d1ef5912e27e99fc334ec83bf1d1cb4].
+(7) A person guilty of an offence under paragraph 9(7) above shall be liable on summary conviction to a penalty of £20,000[^c-4d1ef5912e27e99fc334ec83bf1d1cb4].
 
 (8) In this paragraph—
 
@@ -267,11 +267,11 @@ and paragraph 9(2) and sub-paragraph (2) above shall apply for the purposes of t
 
 #### Civil penalties
 
-**12.**[^key-6bea16f13e001104e6baa19218e2fe05][^key-c0005d581e945f071978817c0f09d0e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-6bea16f13e001104e6baa19218e2fe05][^c-c0005d581e945f071978817c0f09d0e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-91a22b646a70f08e72d37103350925f7][^key-e0a71a7ba3e197d87ed44999b82d6e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-91a22b646a70f08e72d37103350925f7][^c-e0a71a7ba3e197d87ed44999b82d6e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-16416697ee1f3d42192682f7a1bb2cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-16416697ee1f3d42192682f7a1bb2cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** (1) This paragraph applies if a person fails to comply with—
 
@@ -299,7 +299,7 @@ and a relevant day is any day falling after the time within which the tax is req
 (6) Where, by reason of a failure falling within sub-paragraph (1) or (3) above—
 
 - (a) a person is convicted of an offence (whether under this Part of this Act or otherwise), or
-- (b) a person is assessed to a penalty under paragraph 12 above or to a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^key-8abe748c5d4679e08bae2f97dc31d5af] ,
+- (b) a person is assessed to a penalty under paragraph 12 above or to a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^c-8abe748c5d4679e08bae2f97dc31d5af] ,
 
 that failure shall not also give rise to liability to a penalty under this paragraph.
 
@@ -335,7 +335,7 @@ and a relevant day is any day falling after the time within which the tax is req
 **17.** (1) If a person fails to comply with—
 
 - (a) section 53(3) of this Act,
-- (b) [^key-b039deb8615de87d6bbdf096f819c006]...or
+- (b) [^c-b039deb8615de87d6bbdf096f819c006]...or
 - (c) a requirement imposed by any regulations made under this Part of this Act, other than a requirement falling within sub-paragraph (2) below,
 
 he shall be liable to a penalty of £250; but this is subject to sub-paragraphs (3) and (4) below.
@@ -352,7 +352,7 @@ he shall be liable to a penalty of £250; but this is subject to sub-paragraphs 
 (4) Where by reason of a failure falling within sub-paragraph (1) above—
 
 - (a) a person is convicted of an offence (whether under this Part of this Act or otherwise), or
-- (b) a person is assessed to a penalty under paragraph 12 above or to a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^key-7e07dcdaabe5f74b5eed90923d444cfc] ,
+- (b) a person is assessed to a penalty under paragraph 12 above or to a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^c-7e07dcdaabe5f74b5eed90923d444cfc] ,
 
 that failure shall not also give rise to liability to a penalty under this paragraph.
 
@@ -373,7 +373,7 @@ shall be liable to a penalty of £10,000; but this is subject to sub-paragraph (
 
 (4) An order under sub-paragraph (3) above shall not apply in relation to a case where the duty mentioned in sub-paragraph (1) above was imposed before the date on which the order comes into force.
 
-**18A.**[^key-36e38472cba17ad50d00dd02df722366][^key-948593d58b3296b9fab36babbe2e17d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18A.**[^c-36e38472cba17ad50d00dd02df722366][^c-948593d58b3296b9fab36babbe2e17d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+N.I.*
 
@@ -391,9 +391,9 @@ shall be liable to a penalty of £10,000; but this is subject to sub-paragraph (
 
 (4) The person in default shall not be liable to a penalty under sub-paragraph (3) above if he satisfies the Commissioners or, on appeal, an appeal tribunal that there is a reasonable excuse for the breach in question.
 
-(5)[^key-462b657382d44d653765cf8f89f4207f] This paragraph extends only to Northern Ireland.
+(5)[^c-462b657382d44d653765cf8f89f4207f] This paragraph extends only to Northern Ireland.
 
-**20.** For the purposes of paragraphs [^key-a029570fa2d1df54c9c837d875a0ef74]... 15(5), 17(3)[^key-cb5c7d2a5f9db92da5a3bff27d216a1e]... and 19(4) above—
+**20.** For the purposes of paragraphs [^c-a029570fa2d1df54c9c837d875a0ef74]... 15(5), 17(3)[^c-cb5c7d2a5f9db92da5a3bff27d216a1e]... and 19(4) above—
 
 - (a) an insufficiency of funds available for paying any amount is not a reasonable excuse, and
 - (b) where reliance is placed on any other person to perform any task, neither the fact of that reliance nor any conduct of the person relied upon is a reasonable excuse.
@@ -480,7 +480,7 @@ then, if and to the extent that they would not be liable to do so apart from thi
 
 (8) The Commissioners shall only be liable to pay interest under this paragraph on a claim made in writing for that purpose.
 
-(9)[^c14459771] A claim under this paragraph shall not be made more than 4 years[^key-fd96c8825fc7a5c9a9dfb86e4753eeb9] after the end of the applicable period to which it relates.
+(9)[^c14459771] A claim under this paragraph shall not be made more than 4 years[^c-fd96c8825fc7a5c9a9dfb86e4753eeb9] after the end of the applicable period to which it relates.
 
 (10)[^c14459781] References in this paragraph to the authorisation by the Commissioners of the payment of any amount include references to the discharge by way of set-off of the Commissioners’ liability to pay that amount.
 
@@ -501,34 +501,34 @@ the interest shall be treated as an amount to which he is entitled by way of cre
 
 #### Assessments to penalties etc.
 
-**25.** (1)[^key-2aa4fde3b645157c4f0891a759399502] Where a person is liable—
+**25.** (1)[^c-2aa4fde3b645157c4f0891a759399502] Where a person is liable—
 
 - (a) to a penalty under any of paragraphs 12 to 19 above, or
 - (b) for interest under paragraph 21 above,
 
 the Commissioners may, subject to sub-paragraph (2) below, assess the amount due by way of penalty or interest (as the case may be) and notify it to him accordingly; and the fact that any conduct giving rise to a penalty under any of paragraphs 12 to 19 above may have ceased before an assessment is made under this paragraph shall not affect the power of the Commissioners to make such an assessment.
 
-(2)[^key-2aa4fde3b645157c4f0891a759399502] In the case of the penalties and interest referred to in the following paragraphs of this sub-paragraph, the assessment under this paragraph shall be of an amount due in respect of the accounting period which in the paragraph concerned is referred to as the relevant period—
+(2)[^c-2aa4fde3b645157c4f0891a759399502] In the case of the penalties and interest referred to in the following paragraphs of this sub-paragraph, the assessment under this paragraph shall be of an amount due in respect of the accounting period which in the paragraph concerned is referred to as the relevant period—
 
 - (a) in the case of a penalty under paragraph 12 above relating to the evasion of tax, the relevant period is the accounting period for which the tax evaded was due;
 - (b) in the case of a penalty under paragraph 12 above relating to the obtaining of a payment under regulations under section 55(3)(c) or (d) or (f) of this Act, the relevant period is the accounting period in respect of which the payment was obtained;
 - (c) in the case of interest under paragraph 21 above, the relevant period is the accounting period in respect of which the tax (or amount assessed as tax) was due.
 
-(3)[^key-2aa4fde3b645157c4f0891a759399502] In a case where the amount of any penalty or interest falls to be calculated by reference to tax which was not paid at the time it should have been and that tax cannot be readily attributed to any one or more accounting periods, it shall be treated for the purposes of this Part of this Act as tax due for such period or periods as the Commissioners may determine to the best of their judgment and notify to the person liable for the tax and penalty or interest.
+(3)[^c-2aa4fde3b645157c4f0891a759399502] In a case where the amount of any penalty or interest falls to be calculated by reference to tax which was not paid at the time it should have been and that tax cannot be readily attributed to any one or more accounting periods, it shall be treated for the purposes of this Part of this Act as tax due for such period or periods as the Commissioners may determine to the best of their judgment and notify to the person liable for the tax and penalty or interest.
 
-(4)[^key-2aa4fde3b645157c4f0891a759399502] Where a person is assessed under this paragraph to an amount due by way of any penalty or interest falling within sub-paragraph (2) above and is also assessed under subsection (1) or (2) of section 56 of this Act for the accounting period which is the relevant period under sub-paragraph (2) above, the assessments may be combined and notified to him as one assessment, but the amount of the penalty or interest shall be separately identified in the notice.
+(4)[^c-2aa4fde3b645157c4f0891a759399502] Where a person is assessed under this paragraph to an amount due by way of any penalty or interest falling within sub-paragraph (2) above and is also assessed under subsection (1) or (2) of section 56 of this Act for the accounting period which is the relevant period under sub-paragraph (2) above, the assessments may be combined and notified to him as one assessment, but the amount of the penalty or interest shall be separately identified in the notice.
 
-(5)[^key-2aa4fde3b645157c4f0891a759399502] Sub-paragraph (6) below applies in the case of—
+(5)[^c-2aa4fde3b645157c4f0891a759399502] Sub-paragraph (6) below applies in the case of—
 
 - (a) an amount due by way of penalty under paragraph 15 or 16 above;
 - (b) an amount due by way of interest under paragraph 21 above.
 
-(6)[^key-2aa4fde3b645157c4f0891a759399502] Where this sub-paragraph applies in the case of an amount—
+(6)[^c-2aa4fde3b645157c4f0891a759399502] Where this sub-paragraph applies in the case of an amount—
 
 - (a) a notice of assessment under this paragraph shall specify a date, being not later than the date of the notice, to which the aggregate amount of the penalty or, as the case may be, the amount of interest which is assessed is calculated, and
 - (b) if the penalty or interest continues to accrue after that date, a further assessment or further assessments may be made under this paragraph in respect of amounts which so accrue.
 
-(7)[^key-2aa4fde3b645157c4f0891a759399502] If, within such period as may be notified by the Commissioners to the person liable to the penalty under paragraph 15 or 16 above or for the interest under paragraph 21 above—
+(7)[^c-2aa4fde3b645157c4f0891a759399502] If, within such period as may be notified by the Commissioners to the person liable to the penalty under paragraph 15 or 16 above or for the interest under paragraph 21 above—
 
 - (a) a failure falling within paragraph 15(3) above is remedied,
 - (b) the tax referred to in paragraph 16(1) above is paid, or
@@ -536,9 +536,9 @@ the Commissioners may, subject to sub-paragraph (2) below, assess the amount due
 
 it shall be treated for the purposes of paragraph 15, 16 or 21 above (as the case may be) as remedied or paid on the date specified as mentioned in sub-paragraph (6)(a) above.
 
-(8)[^key-fedc5556dc127599b09cc352cf6e1bc8][^key-c6baa367b5e9f6b6c54bb59407983c25] Where an amount has been assessed and notified to any person under this paragraph it shall be recoverable as if it were tax due from him unless, or except to the extent that, the assessment has subsequently been withdrawn or reduced.
+(8)[^c-fedc5556dc127599b09cc352cf6e1bc8][^c-c6baa367b5e9f6b6c54bb59407983c25] Where an amount has been assessed and notified to any person under this paragraph it shall be recoverable as if it were tax due from him unless, or except to the extent that, the assessment has subsequently been withdrawn or reduced.
 
-(9)[^key-39395be613a5385ba76781cba35ed25a] Subsection (8) of section 56 of this Act shall apply for the purposes of this paragraph as it applies for the purposes of that section.
+(9)[^c-39395be613a5385ba76781cba35ed25a] Subsection (8) of section 56 of this Act shall apply for the purposes of this paragraph as it applies for the purposes of that section.
 
 #### Assessments: time limits
 
@@ -547,9 +547,9 @@ it shall be treated for the purposes of paragraph 15, 16 or 21 above (as the cas
 - (a) any provision of section 56 of this Act, or
 - (b) paragraph 25 above,
 
-shall not be made more than 4 years after the relevant event[^key-f45f51605d8e4fa0b8d9dfcdf011c235] .
+shall not be made more than 4 years after the relevant event[^c-f45f51605d8e4fa0b8d9dfcdf011c235] .
 
-(1A)[^key-b1bfd18e5672c65c7b716db5ce73bff7] In this paragraph “**the relevant event**”, in relation to an assessment, means—
+(1A)[^c-b1bfd18e5672c65c7b716db5ce73bff7] In this paragraph “**the relevant event**”, in relation to an assessment, means—
 
 - (a) the end of the accounting period concerned, or
 - (b) in the case of an assessment under paragraph 25 of an amount due by way of a penalty other than a penalty referred to in paragraph 25(2), the event giving rise to the penalty.
@@ -561,9 +561,9 @@ shall not be made more than 4 years after the relevant event[^key-f45f51605d8e4f
 
 may be made at any time before the expiry of the period of two years beginning with the time when the amount of tax due for the accounting period concerned has been finally determined.
 
-(3) In relation to an assessment under paragraph 25 above, any reference in sub-paragraph (1A)[^key-4c0a751e3ca93ef678684c9d5d9bff7a] or (2) above to the accounting period concerned is a reference to that period which, in the case of the penalty or interest concerned, is the relevant period referred to in sub-paragraph (2) of that paragraph.
+(3) In relation to an assessment under paragraph 25 above, any reference in sub-paragraph (1A)[^c-4c0a751e3ca93ef678684c9d5d9bff7a] or (2) above to the accounting period concerned is a reference to that period which, in the case of the penalty or interest concerned, is the relevant period referred to in sub-paragraph (2) of that paragraph.
 
-(4)[^key-6bb08cef7c714c4f402f69213d54ddf0] An assessment of an amount due from a person in a case involving a loss of tax—
+(4)[^c-6bb08cef7c714c4f402f69213d54ddf0] An assessment of an amount due from a person in a case involving a loss of tax—
 
 - (a) brought about deliberately by the person (or by another person acting on that person's behalf), or
 - (b) attributable to a failure by the person to comply with an obligation under section 53(1) or (2) or 53AA(1) or (3),
@@ -629,11 +629,11 @@ may disclose information to the Commissioners or to an authorised officer of the
 
 (5) The Treasury shall notify the Commissioners in writing of the name of any person designated under sub-paragraph (4) above.
 
-**28B.**[^key-d9a87bc92798942ea6300d1e5d6e38b0] (1) Notwithstanding any obligation not to disclose information that would otherwise apply, the Commissioners may disclose information to a regulator[^key-fb87939f985ed523fb93b589769f97cb] for the purpose of assisting the regulator[^key-9060cad94519552b44e49355483a3c34] in the performance of its functions.
+**28B.**[^c-d9a87bc92798942ea6300d1e5d6e38b0] (1) Notwithstanding any obligation not to disclose information that would otherwise apply, the Commissioners may disclose information to a regulator[^c-fb87939f985ed523fb93b589769f97cb] for the purpose of assisting the regulator[^c-9060cad94519552b44e49355483a3c34] in the performance of its functions.
 
-(2) Information that has been disclosed to a regulator[^key-7ef868618ac501095eb9b6c43d576396] pursuant to this paragraph shall not be disclosed by the regulator[^key-350910cf465d2457ae1c65e6c9e1cd27] except for the purpose of any proceedings connected with the operation of any provision of, or made under, any enactment in relation to insurance or to tax.
+(2) Information that has been disclosed to a regulator[^c-7ef868618ac501095eb9b6c43d576396] pursuant to this paragraph shall not be disclosed by the regulator[^c-350910cf465d2457ae1c65e6c9e1cd27] except for the purpose of any proceedings connected with the operation of any provision of, or made under, any enactment in relation to insurance or to tax.
 
-(3)[^key-f54637446db1ff31730a0afed4226166] In this paragraph “**regulator**” means—
+(3)[^c-f54637446db1ff31730a0afed4226166] In this paragraph “**regulator**” means—
 
 - (a) the Financial Conduct Authority;
 - (b) the Prudential Regulation Authority.
@@ -642,9 +642,9 @@ may disclose information to the Commissioners or to an authorised officer of the
 
 **29.** (1) A certificate of the Commissioners—
 
-- (a) that a person was or was not at any time registered under section 53 of this Act, or[^key-0bca54df2818d982449a16b9c8cb75da]
-- (b) that any return required by regulations under section 54 of this Act has not been made or had not been made at any time, [^key-6f6bb03ec0d4a242bec25e492e0d8950]...
-- [^key-6f6bb03ec0d4a242bec25e492e0d8950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) that a person was or was not at any time registered under section 53 of this Act, or[^c-0bca54df2818d982449a16b9c8cb75da]
+- (b) that any return required by regulations under section 54 of this Act has not been made or had not been made at any time, [^c-6f6bb03ec0d4a242bec25e492e0d8950]...
+- [^c-6f6bb03ec0d4a242bec25e492e0d8950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall be sufficient evidence of that fact until the contrary is proved.
 
@@ -667,7 +667,7 @@ shall be sufficient evidence of that fact until the contrary is proved.
 
 #### Destination of receipts
 
-**32.**[^key-e705b2e1b57d59798afaecc296d815e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-e705b2e1b57d59798afaecc296d815e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Provisional collection of tax
 
@@ -704,25 +704,25 @@ the tax chargeable at the lower rate shall be charged by reference to the same c
 
 [^c14458681]: Modification: Sch. 7 extended (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 50](https://www.legislation.gov.uk/ukpga/1997/16/section/50), [Sch. 5 Pt. I paras. 1](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/part/I/paragraph/1), [4(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/part/I/paragraph/4/2)
 
-[^key-25ee1459a9882d34bb564a14e04646f7]: Textual amendment: Words in Sch. 7 para. 1(3) renumbered as Sch. 7 para. 1(3)(a) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/1/2/a); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-25ee1459a9882d34bb564a14e04646f7]: Textual amendment: Words in Sch. 7 para. 1(3) renumbered as Sch. 7 para. 1(3)(a) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/1/2/a); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-7ad442b084f83a0cb6769a08645b2558]: Textual amendment: Sch. 7 para. 1(3)(b)(c) inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/1/2/b); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-7ad442b084f83a0cb6769a08645b2558]: Textual amendment: Sch. 7 para. 1(3)(b)(c) inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/1/2/b); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-b9a3db871e0a536e54828d769bc00ca0]: Textual amendment: Sch. 7 para. 1(4) substituted for Sch. 7 para. 1(4)-(6) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/1/3); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-b9a3db871e0a536e54828d769bc00ca0]: Textual amendment: Sch. 7 para. 1(4) substituted for Sch. 7 para. 1(4)-(6) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/1/3); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-40215b4a82a27acdbb12d7255b10fbc0]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/2) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/a)
+[^c-40215b4a82a27acdbb12d7255b10fbc0]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/2) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/a)
 
-[^key-e910612aed4d9ff9a46315bfc851d810]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/3) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/a)
+[^c-e910612aed4d9ff9a46315bfc851d810]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/3) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/a)
 
-[^key-5e0ea99ccd61cbb8980f8ee8533e108b]: Textual amendment: Sch. 7 para. 4(1) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/a)
+[^c-5e0ea99ccd61cbb8980f8ee8533e108b]: Textual amendment: Sch. 7 para. 4(1) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/a)
 
-[^key-8b3ff1f6da172c944fdac67d9b8c37a4]: Textual amendment: Sch. 7 para. 4(2)-(5) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 9(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/9/a), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-8b3ff1f6da172c944fdac67d9b8c37a4]: Textual amendment: Sch. 7 para. 4(2)-(5) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 9(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/9/a), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
 [^c14459231]: Modification: Sch. 7 para. 4(3): power of seizure extended (*prosp.*) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50-55](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 Pt. I para. 57](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/part/I/paragraph/57)
 
-[^key-fd23e79d429b30f0095672af325ff25f]: Modification: Sch. 7 para. 4(3) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/57) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+[^c-fd23e79d429b30f0095672af325ff25f]: Modification: Sch. 7 para. 4(3) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 57](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/57) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
 
-[^key-a9db35e105d35c506c1b4a852afb5dd7]: Textual amendment: Sch. 7 para. 4(6) (7) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 9(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/9/b), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-a9db35e105d35c506c1b4a852afb5dd7]: Textual amendment: Sch. 7 para. 4(6) (7) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 9(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/9/b), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
 [^c14459241]: Textual amendment: Sch. 7 para. 4A and the preceding cross-heading inserted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 34](https://www.legislation.gov.uk/ukpga/1995/4/section/34), [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/5/paragraph/8/1)
 
@@ -730,9 +730,9 @@ the tax chargeable at the lower rate shall be charged by reference to the same c
 
 [^c14459261]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 
-[^key-0057e108c1aa685bef5157f737dadd2c]: Textual amendment: Words in Sch. 7 para. 4A(4) substituted (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [para. 13(2)(g)](https://www.legislation.gov.uk/ukpga/2001/16/paragraph/13/2/g)[s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 2 para.](https://www.legislation.gov.uk/ukpga/2001/16/schedule/2/paragraph) 13(1)(a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(k)](https://www.legislation.gov.uk/uksi/2003/708/article/2/k)
+[^c-0057e108c1aa685bef5157f737dadd2c]: Textual amendment: Words in Sch. 7 para. 4A(4) substituted (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [para. 13(2)(g)](https://www.legislation.gov.uk/ukpga/2001/16/paragraph/13/2/g)[s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 2 para.](https://www.legislation.gov.uk/ukpga/2001/16/schedule/2/paragraph) 13(1)(a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(k)](https://www.legislation.gov.uk/uksi/2003/708/article/2/k)
 
-[^key-0180c7146a4ea1677273e8f9b94b4c3f]: Textual amendment: Words in Sch. 7 para. 4A(4) inserted (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [para. 13(2)(g)](https://www.legislation.gov.uk/ukpga/2001/16/paragraph/13/2/g)[s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 2 para.](https://www.legislation.gov.uk/ukpga/2001/16/schedule/2/paragraph) 13(1)(b); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(k)](https://www.legislation.gov.uk/uksi/2003/708/article/2/k)
+[^c-0180c7146a4ea1677273e8f9b94b4c3f]: Textual amendment: Words in Sch. 7 para. 4A(4) inserted (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [para. 13(2)(g)](https://www.legislation.gov.uk/ukpga/2001/16/paragraph/13/2/g)[s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 2 para.](https://www.legislation.gov.uk/ukpga/2001/16/schedule/2/paragraph) 13(1)(b); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(k)](https://www.legislation.gov.uk/uksi/2003/708/article/2/k)
 
 [^c14459311]: Textual amendment: Words in Sch. 7 para. 5(1) inserted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 34](https://www.legislation.gov.uk/ukpga/1995/4/section/34), [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/5/paragraph/8/2)
 
@@ -740,11 +740,11 @@ the tax chargeable at the lower rate shall be charged by reference to the same c
 
 [^c14459331]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-5fa05c3575bdbde916b958cbc4b0747f]: Textual amendment: Sch. 7 para. 7(2) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-5fa05c3575bdbde916b958cbc4b0747f]: Textual amendment: Sch. 7 para. 7(2) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-d49678872e122c052957447c8c529176]: Textual amendment: [Sch. 7 para. 7(3)-(5)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/7/3) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-d49678872e122c052957447c8c529176]: Textual amendment: [Sch. 7 para. 7(3)-(5)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/7/3) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
-[^key-d2e26e27111d7e58fc67cabb114fa66e]: Textual amendment: Sch. 7 para. 7(6) repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
+[^c-d2e26e27111d7e58fc67cabb114fa66e]: Textual amendment: Sch. 7 para. 7(6) repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
 
 [^c14459451]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -756,53 +756,53 @@ the tax chargeable at the lower rate shall be charged by reference to the same c
 
 [^c14459541]: Textual amendment: Sch. 7 para. 8(4) substituted for para. 8(4)(5) (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 50(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/50/1), [Sch. 5 Pt. II para. 5(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/part/II/paragraph/5/2)
 
-[^key-d6f6bbbdaca25d3cb3c3b68c071d47cd]: Textual amendment: Words in [Sch. 7 para. 8(4)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/8/4) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/867/article/3))
+[^c-d6f6bbbdaca25d3cb3c3b68c071d47cd]: Textual amendment: Words in [Sch. 7 para. 8(4)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/8/4) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/867/article/3))
 
-[^key-1011481ee73a3e53b118ce71cb6ffd7e]: Textual amendment: Sum in Sch. 7 para. 10(1)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-1011481ee73a3e53b118ce71cb6ffd7e]: Textual amendment: Sum in Sch. 7 para. 10(1)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-a4a1fa809c58e8f2251fcc3da167d4bf]: Textual amendment: Word in [Sch. 7 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/10/1/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-a4a1fa809c58e8f2251fcc3da167d4bf]: Textual amendment: Word in [Sch. 7 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/10/1/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-f9f6b116fd207655f344a797cdb93e11]: Textual amendment: Sum in Sch. 7 para. 10(3)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-f9f6b116fd207655f344a797cdb93e11]: Textual amendment: Sum in Sch. 7 para. 10(3)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-198359481f1d42b077ee1f58d8a24e17]: Textual amendment: Word in [Sch. 7 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/10/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-198359481f1d42b077ee1f58d8a24e17]: Textual amendment: Word in [Sch. 7 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/10/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-45e388a69812532e436ed5100dd910b4]: Textual amendment: Sum in Sch. 7 para. 10(5)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-45e388a69812532e436ed5100dd910b4]: Textual amendment: Sum in Sch. 7 para. 10(5)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-7c8662c2335dc84b1f93d675f7162c84]: Textual amendment: Word in [Sch. 7 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/10/5/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-7c8662c2335dc84b1f93d675f7162c84]: Textual amendment: Word in [Sch. 7 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/10/5/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-f923d136a1de39ac60d76155e934602f]: Textual amendment: Sum in Sch. 7 para. 10(6) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(d)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/d) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-f923d136a1de39ac60d76155e934602f]: Textual amendment: Sum in Sch. 7 para. 10(6) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(d)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/d) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-4d1ef5912e27e99fc334ec83bf1d1cb4]: Textual amendment: Sum in Sch. 7 para. 10(7) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(e)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/e) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-4d1ef5912e27e99fc334ec83bf1d1cb4]: Textual amendment: Sum in Sch. 7 para. 10(7) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 7(3)(e)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7/3/e) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c14459551]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-6bea16f13e001104e6baa19218e2fe05]: Textual amendment: Sch. 7 para. 12 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/d/ii); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
+[^c-6bea16f13e001104e6baa19218e2fe05]: Textual amendment: Sch. 7 para. 12 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/d/ii); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
 
-[^key-c0005d581e945f071978817c0f09d0e7]: Modification: Sch. 7 para. 12: savings for effects of 2008 c. 40, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/511/article/4/b/ii)
+[^c-c0005d581e945f071978817c0f09d0e7]: Modification: Sch. 7 para. 12: savings for effects of 2008 c. 40, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/511/article/4/b/ii)
 
-[^key-91a22b646a70f08e72d37103350925f7]: Textual amendment: Sch. 7 para. 13 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/d/ii); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
+[^c-91a22b646a70f08e72d37103350925f7]: Textual amendment: Sch. 7 para. 13 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/d/ii); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
 
-[^key-e0a71a7ba3e197d87ed44999b82d6e61]: Modification: Sch. 7 para. 13: savings for effects of 2008 c. 40, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/511/article/4/b/ii)
+[^c-e0a71a7ba3e197d87ed44999b82d6e61]: Modification: Sch. 7 para. 13: savings for effects of 2008 c. 40, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/511/article/4/b/ii)
 
-[^key-16416697ee1f3d42192682f7a1bb2cb8]: Textual amendment: Sch. 7 para. 14 omitted (1.4.2010) (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(e)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/e/iii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-16416697ee1f3d42192682f7a1bb2cb8]: Textual amendment: Sch. 7 para. 14 omitted (1.4.2010) (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(e)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/e/iii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
 
-[^key-8abe748c5d4679e08bae2f97dc31d5af]: Textual amendment: Words in Sch. 7 para. 15(6)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/11/3)
+[^c-8abe748c5d4679e08bae2f97dc31d5af]: Textual amendment: Words in Sch. 7 para. 15(6)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/11/3)
 
-[^key-b039deb8615de87d6bbdf096f819c006]: Textual amendment: Sch. 7 para. 17(1)(b) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/3054/article/6))
+[^c-b039deb8615de87d6bbdf096f819c006]: Textual amendment: Sch. 7 para. 17(1)(b) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/6/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/3054/article/6))
 
-[^key-7e07dcdaabe5f74b5eed90923d444cfc]: Textual amendment: Words in Sch. 7 para. 17(4)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/11/4)
+[^c-7e07dcdaabe5f74b5eed90923d444cfc]: Textual amendment: Words in Sch. 7 para. 17(4)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/11/4)
 
-[^key-36e38472cba17ad50d00dd02df722366]: Textual amendment: Sch. 7 para. 18A omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 3(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/3/3); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
+[^c-36e38472cba17ad50d00dd02df722366]: Textual amendment: Sch. 7 para. 18A omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 3(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/3/3); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
 
-[^key-948593d58b3296b9fab36babbe2e17d5]: Textual amendment: Sch. 7 para. 18A inserted (E.W.) (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 116(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/116/2) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-948593d58b3296b9fab36babbe2e17d5]: Textual amendment: Sch. 7 para. 18A inserted (E.W.) (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 116(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/116/2) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c14459581]: Textual amendment: Words in Sch. 7 para. 19(1)(a) substituted (1.7.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 53(5)(9)](https://www.legislation.gov.uk/ukpga/1997/16/section/53/5/9); [S.I. 1997/1432](https://www.legislation.gov.uk/uksi/1997/1432), [art. 2](https://www.legislation.gov.uk/uksi/1997/1432/article/2)
 
-[^key-462b657382d44d653765cf8f89f4207f]: Textual amendment: Sch. 7 para. 19(5) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 116(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/116/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-462b657382d44d653765cf8f89f4207f]: Textual amendment: Sch. 7 para. 19(5) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 116(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/116/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-a029570fa2d1df54c9c837d875a0ef74]: Textual amendment: Word in Sch. 7 para. 20 omitted (1.4.2010) by virtue of [The Finance Act 2008 (Penalties for Errors and Failure to Notify etc) (Consequential Amendments) Order 2010 (S.I. 2010/530)](https://www.legislation.gov.uk/uksi/2010/530), [art. 1](https://www.legislation.gov.uk/uksi/2010/530/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/530/schedule/paragraph/4)
+[^c-a029570fa2d1df54c9c837d875a0ef74]: Textual amendment: Word in Sch. 7 para. 20 omitted (1.4.2010) by virtue of [The Finance Act 2008 (Penalties for Errors and Failure to Notify etc) (Consequential Amendments) Order 2010 (S.I. 2010/530)](https://www.legislation.gov.uk/uksi/2010/530), [art. 1](https://www.legislation.gov.uk/uksi/2010/530/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/530/schedule/paragraph/4)
 
-[^key-cb5c7d2a5f9db92da5a3bff27d216a1e]: Textual amendment: Word in Sch. 7 para. 20 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(d)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/d)
+[^c-cb5c7d2a5f9db92da5a3bff27d216a1e]: Textual amendment: Word in Sch. 7 para. 20 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(d)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/d)
 
 [^c14459601]: Modification: Sch. 7 para. 21: power to amend conferred (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 197(2)(b)](https://www.legislation.gov.uk/ukpga/1996/8/section/197/2/b)
 
@@ -822,47 +822,47 @@ the tax chargeable at the lower rate shall be charged by reference to the same c
 
 [^c14459771]: Textual amendment: Sch. 7 para. 22(9) substituted (*retrospectively*) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 50(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/50/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5), [para. 9(1)(3)](https://www.legislation.gov.uk/ukpga/1997/16/paragraph/9/1/3)
 
-[^key-fd96c8825fc7a5c9a9dfb86e4753eeb9]: Textual amendment: Words in [Sch. 7 para. 22(9)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/22/9) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/867/article/4))
+[^c-fd96c8825fc7a5c9a9dfb86e4753eeb9]: Textual amendment: Words in [Sch. 7 para. 22(9)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7/paragraph/22/9) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/867/article/4))
 
 [^c14459781]: Textual amendment: Sch. 7 para. 22(10) substituted (*retrospectively*) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 50(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/50/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5), [para. 9(1)(4)](https://www.legislation.gov.uk/ukpga/1997/16/paragraph/9/1/4)
 
-[^key-2aa4fde3b645157c4f0891a759399502]: Modification: Sch. 7 para. 25(1)-(7) excluded (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/1)
+[^c-2aa4fde3b645157c4f0891a759399502]: Modification: Sch. 7 para. 25(1)-(7) excluded (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/1)
 
-[^key-fedc5556dc127599b09cc352cf6e1bc8]: Modification: Sch. 7 para. 25(8) applied (with modifications) (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/2)
+[^c-fedc5556dc127599b09cc352cf6e1bc8]: Modification: Sch. 7 para. 25(8) applied (with modifications) (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/2)
 
-[^key-c6baa367b5e9f6b6c54bb59407983c25]: Modification: Sch. 7 para. 25(8) restricted (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/1)
+[^c-c6baa367b5e9f6b6c54bb59407983c25]: Modification: Sch. 7 para. 25(8) restricted (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/1)
 
-[^key-39395be613a5385ba76781cba35ed25a]: Modification: Sch. 7 para. 25(9) excluded (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/1)
+[^c-39395be613a5385ba76781cba35ed25a]: Modification: Sch. 7 para. 25(9) excluded (1.4.2004) by [The Recovery of Duties and Taxes Etc. Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004 (S.I. 2004/674)](https://www.legislation.gov.uk/uksi/2004/674), [reg. 1](https://www.legislation.gov.uk/uksi/2004/674/regulation/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2004/674/schedule/2/paragraph/4/1)
 
-[^key-f45f51605d8e4fa0b8d9dfcdf011c235]: Textual amendment: Words in Sch. 7 para. 26(1) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
+[^c-f45f51605d8e4fa0b8d9dfcdf011c235]: Textual amendment: Words in Sch. 7 para. 26(1) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
 
-[^key-b1bfd18e5672c65c7b716db5ce73bff7]: Textual amendment: Sch. 7 para. 26(1A) inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
+[^c-b1bfd18e5672c65c7b716db5ce73bff7]: Textual amendment: Sch. 7 para. 26(1A) inserted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
 
-[^key-4c0a751e3ca93ef678684c9d5d9bff7a]: Textual amendment: Sch. 7 para. 26(4)(5) substituted (1.4.2010) for Sch. 7 para. 26(4) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/5); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
+[^c-4c0a751e3ca93ef678684c9d5d9bff7a]: Textual amendment: Sch. 7 para. 26(4)(5) substituted (1.4.2010) for Sch. 7 para. 26(4) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/5); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
 
-[^key-6bb08cef7c714c4f402f69213d54ddf0]: Textual amendment: Words in Sch. 7 para. 26(3) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/4); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
+[^c-6bb08cef7c714c4f402f69213d54ddf0]: Textual amendment: Words in Sch. 7 para. 26(3) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/4/4); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/867/article/5))
 
 [^c14459821]: Modification: Sch. 7 para. 28: certain functions of the Secretary of State made exercisable concurrently with the Treasury (5.1.1998) by [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), [arts. 4(3)](https://www.legislation.gov.uk/uksi/1997/2781/article/4/3) (with [art. 7](https://www.legislation.gov.uk/uksi/1997/2781/article/7))
 
 [^c15398451]: Textual amendment: Sch. 7 para. 28A inserted (5.1.1998) by [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), [art. 8(1)](https://www.legislation.gov.uk/uksi/1997/2781/article/8/1), [Sch. Pt. II para. 124](https://www.legislation.gov.uk/uksi/1997/2781/schedule/part/II/paragraph/124) (with [art. 7](https://www.legislation.gov.uk/uksi/1997/2781/article/7))
 
-[^key-d9a87bc92798942ea6300d1e5d6e38b0]: Textual amendment: Sch. 7 para. 28B inserted (4.3.2004) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2004 (S.I. 2004/355)](https://www.legislation.gov.uk/uksi/2004/355), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/355/article/1/1), [4](https://www.legislation.gov.uk/uksi/2004/355/article/4)
+[^c-d9a87bc92798942ea6300d1e5d6e38b0]: Textual amendment: Sch. 7 para. 28B inserted (4.3.2004) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2004 (S.I. 2004/355)](https://www.legislation.gov.uk/uksi/2004/355), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/355/article/1/1), [4](https://www.legislation.gov.uk/uksi/2004/355/article/4)
 
-[^key-fb87939f985ed523fb93b589769f97cb]: Textual amendment: Words in Sch. 7 para. 28B(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/a/i) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-fb87939f985ed523fb93b589769f97cb]: Textual amendment: Words in Sch. 7 para. 28B(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/a/i) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9060cad94519552b44e49355483a3c34]: Textual amendment: Words in Sch. 7 para. 28B(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/a/ii) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9060cad94519552b44e49355483a3c34]: Textual amendment: Words in Sch. 7 para. 28B(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/a/ii) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7ef868618ac501095eb9b6c43d576396]: Textual amendment: Words in Sch. 7 para. 28B(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/b/i) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-7ef868618ac501095eb9b6c43d576396]: Textual amendment: Words in Sch. 7 para. 28B(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/b/i) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-350910cf465d2457ae1c65e6c9e1cd27]: Textual amendment: Words in Sch. 7 para. 28B(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/b/ii) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-350910cf465d2457ae1c65e6c9e1cd27]: Textual amendment: Words in Sch. 7 para. 28B(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/b/ii) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-f54637446db1ff31730a0afed4226166]: Textual amendment: Sch. 7 para. 28B(3) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f54637446db1ff31730a0afed4226166]: Textual amendment: Sch. 7 para. 28B(3) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 79(2)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/79/2/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-0bca54df2818d982449a16b9c8cb75da]: Textual amendment: Word in Sch. 7 para. 29(1)(a) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 5(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/5/a)
+[^c-0bca54df2818d982449a16b9c8cb75da]: Textual amendment: Word in Sch. 7 para. 29(1)(a) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 5(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/5/a)
 
-[^key-6f6bb03ec0d4a242bec25e492e0d8950]: Textual amendment: Sch. 7 para. 29(1)(c) and word omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 5(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/5/b)
+[^c-6f6bb03ec0d4a242bec25e492e0d8950]: Textual amendment: Sch. 7 para. 29(1)(c) and word omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 5(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/5/b)
 
-[^key-e705b2e1b57d59798afaecc296d815e9]: Textual amendment: Sch. 7 para. 32 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 53](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/53), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-e705b2e1b57d59798afaecc296d815e9]: Textual amendment: Sch. 7 para. 32 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 53](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/53), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
 
 [^c14459851]: Marginal citation: [1968 c. 2](https://www.legislation.gov.uk/ukpga/1968/2).
 

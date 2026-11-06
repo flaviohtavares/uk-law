@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Defective buildings[^key-d16a8286200c13fb2bd5bc8305b9ef07]
+## 28. Defective buildings[^c-d16a8286200c13fb2bd5bc8305b9ef07]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ the notice has effect with the substitutions specified in subsection (8).
 
 ## Annotations
 
-[^key-d16a8286200c13fb2bd5bc8305b9ef07]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2003/8/section/28) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-d16a8286200c13fb2bd5bc8305b9ef07]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2003/8/section/28) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

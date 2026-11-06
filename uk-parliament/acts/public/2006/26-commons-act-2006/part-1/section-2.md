@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Purpose of registers[^key-57aeee675c1351827bb43e9dc16ef320][^key-470403b943a28497c65b7da980489648]
+## 2. Purpose of registers[^c-57aeee675c1351827bb43e9dc16ef320][^c-470403b943a28497c65b7da980489648]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57aeee675c1351827bb43e9dc16ef320]: Commencement: S. 2 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-57aeee675c1351827bb43e9dc16ef320]: Commencement: S. 2 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-470403b943a28497c65b7da980489648]: Commencement: S. 2 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-470403b943a28497c65b7da980489648]: Commencement: S. 2 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

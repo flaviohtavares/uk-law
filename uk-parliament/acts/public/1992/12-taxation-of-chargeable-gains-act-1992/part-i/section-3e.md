@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3E. Temporary non-residents[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 3E. Temporary non-residents[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ subsection (2) has effect subject to the further application of Schedule 1 (as r
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)

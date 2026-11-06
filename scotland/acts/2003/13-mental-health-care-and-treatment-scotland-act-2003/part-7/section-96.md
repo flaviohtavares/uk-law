@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Recorded matters: reference to Tribunal by responsible medical officer[^key-4c4c55b7b2032e43cf6e044719f3a6bc][^key-a6c4622af044b7de59863dfa9c0a6bc4]
+## 96. Recorded matters: reference to Tribunal by responsible medical officer[^c-4c4c55b7b2032e43cf6e044719f3a6bc][^c-a6c4622af044b7de59863dfa9c0a6bc4]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c4c55b7b2032e43cf6e044719f3a6bc]: Commencement: S. 96 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-4c4c55b7b2032e43cf6e044719f3a6bc]: Commencement: S. 96 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-a6c4622af044b7de59863dfa9c0a6bc4]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2003/13/section/96) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-a6c4622af044b7de59863dfa9c0a6bc4]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2003/13/section/96) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

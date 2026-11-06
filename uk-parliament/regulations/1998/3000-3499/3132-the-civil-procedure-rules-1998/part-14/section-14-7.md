@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.7. Request for judgment for an amount of money to be decided by the court – claims in the Civil National Business Centre[^key-be7d58689c983c38bdcfe1ad50dfadff]
+## 14.7. Request for judgment for an amount of money to be decided by the court – claims in the Civil National Business Centre[^c-be7d58689c983c38bdcfe1ad50dfadff]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7d58689c983c38bdcfe1ad50dfadff]: Textual amendment: [Pt. 14](https://www.legislation.gov.uk/uksi/1998/3132/part/14) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/788/schedule/1)
+[^c-be7d58689c983c38bdcfe1ad50dfadff]: Textual amendment: [Pt. 14](https://www.legislation.gov.uk/uksi/1998/3132/part/14) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/788/schedule/1)

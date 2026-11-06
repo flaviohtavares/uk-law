@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amendments to Section D of Part 2 of Schedule 1 (fair value accounting: non-IAS individual accounts)[^key-1ce6ae1cbfbe7fe8c73e04dbd9850cef]
+## 40. Amendments to Section D of Part 2 of Schedule 1 (fair value accounting: non-IAS individual accounts)[^c-1ce6ae1cbfbe7fe8c73e04dbd9850cef]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In Section D of Part 2 of Schedule 1 (fair value accounting: non-IAS individual 
 
 ## Annotations
 
-[^key-1ce6ae1cbfbe7fe8c73e04dbd9850cef]: Commencement: Reg. 40 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-1ce6ae1cbfbe7fe8c73e04dbd9850cef]: Commencement: Reg. 40 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

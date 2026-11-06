@@ -35,22 +35,22 @@ concerning the authorisation of ethyl ester of β-apo-8’-carotenoic acid as a 
 
 (Text with EEA relevance) (revoked)
 
-[^key-d1bd6c40328ad7690ce967ed03b671ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1bd6c40328ad7690ce967ed03b671ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d1bd6c40328ad7690ce967ed03b671ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1bd6c40328ad7690ce967ed03b671ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1bd6c40328ad7690ce967ed03b671ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-d1bd6c40328ad7690ce967ed03b671ba]
+## ANNEX[^c-d1bd6c40328ad7690ce967ed03b671ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1bd6c40328ad7690ce967ed03b671ba]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 397](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/397) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d1bd6c40328ad7690ce967ed03b671ba]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 397](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/397) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

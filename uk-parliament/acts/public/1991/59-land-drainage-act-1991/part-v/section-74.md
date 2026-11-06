@@ -45,7 +45,7 @@ summary: ''
 
 (4) Nothing in subsection (3)(c) above shall apply to work done in maintaining existing works on tidal lands, or on land not in occupation of Her Majesty, the Duke of Cornwall or a government department.
 
-(5) Section 222 of the [^c1415661]Water Resources Act 1991 (Crown application) shall have effect in relation to the provisions of this Act so far as they confer powers on the Agency[^c1415662] or the Natural Resources Body for Wales[^key-bb77800104c4636d9aaabae390884fcd] as it applies in relation to the provisions of that Act.
+(5) Section 222 of the [^c1415661]Water Resources Act 1991 (Crown application) shall have effect in relation to the provisions of this Act so far as they confer powers on the Agency[^c1415662] or the Natural Resources Body for Wales[^c-bb77800104c4636d9aaabae390884fcd] as it applies in relation to the provisions of that Act.
 
 (6) In this section—
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c1415662]: Textual amendment: Words in s. 74 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 191](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/191) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-bb77800104c4636d9aaabae390884fcd]: Textual amendment: Words in [s. 74(5)](https://www.legislation.gov.uk/ukpga/1991/59/section/74/5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 336](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/336) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-bb77800104c4636d9aaabae390884fcd]: Textual amendment: Words in [s. 74(5)](https://www.legislation.gov.uk/ukpga/1991/59/section/74/5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 336](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/336) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

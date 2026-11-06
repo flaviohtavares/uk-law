@@ -48,11 +48,11 @@ In accordance with section 104(5) of that Act they have consulted with burial au
 
 In accordance with section 106(2) of that Act, a draft of this instrument had been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-3bcea2ac7a1950b1ab8a3853307da936]
+## 1. Citation and commencement[^c-3bcea2ac7a1950b1ab8a3853307da936]
 
 These Regulations may be cited as the Burial and Cremation (Inspection) (Scotland) Regulations 2025 and come into force on 1 March 2025.
 
-## 2. Interpretation[^key-9a75c777c38a2b902989f6316451962c]
+## 2. Interpretation[^c-9a75c777c38a2b902989f6316451962c]
 
 In these Regulations—
 
@@ -60,11 +60,11 @@ In these Regulations—
 - “**enforcement notice**” has the meaning given by regulation 7,
 - “**inspection report**” has the meaning given by regulation 6,
 - “**premises**” means any premises associated with the carrying out of any function of a relevant body,
-- “**relevant body**” means a burial authority, a cremation authority , a hydrolysis authority[^key-33a6be3e2f8121db7816f7402708e824] or a funeral director,
+- “**relevant body**” means a burial authority, a cremation authority , a hydrolysis authority[^c-33a6be3e2f8121db7816f7402708e824] or a funeral director,
 - “**relevant provision**” means any provision of relevant legislation and requirements,
 - “**relevant legislation and requirements**” has the meaning given by regulation 3.
 
-## 3. Meaning of relevant legislation and requirements[^key-c66f6d1581cf9d2f823ebadccce0835b]
+## 3. Meaning of relevant legislation and requirements[^c-c66f6d1581cf9d2f823ebadccce0835b]
 
 In these Regulations, “**relevant legislation and requirements**” means the Act, and—
 
@@ -72,10 +72,10 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 - (b) the Funeral Director Code of Practice 2024[^f00003],
 - (c) the Burial (Applications and Register) (Scotland) Regulations 2024[^f00004], and
 - (d) the Burial (Management) (Scotland) Regulations 2025[^f00005].
-- (e)[^key-ba169ea7ea99bb5d1788565540e1da68] the Hydrolysis (Scotland) (No. 1) Regulations 2026,
+- (e)[^c-ba169ea7ea99bb5d1788565540e1da68] the Hydrolysis (Scotland) (No. 1) Regulations 2026,
 - (f) the Hydrolysis (Scotland) (No. 2) Regulations 2026.
 
-## 4. Inspection Register[^key-8d75d9d2903a15748aaffe0211a51bfe]
+## 4. Inspection Register[^c-8d75d9d2903a15748aaffe0211a51bfe]
 
 (1) The Scottish Ministers may establish and maintain a register of relevant bodies (the “inspection register”) containing the information in paragraph (2).
 
@@ -87,7 +87,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 
 (3) The Scottish Ministers may publish the inspection register or any information contained in the inspection register that they consider appropriate.
 
-## 5. Inspections[^key-e7d1489ec121fc4df37e36144c7223b5]
+## 5. Inspections[^c-e7d1489ec121fc4df37e36144c7223b5]
 
 (1) An inspector may inspect a relevant body and its premises where they consider it appropriate to do so.
 
@@ -95,7 +95,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 
 (3) An inspector must carry out the inspection required under paragraph (2) in accordance with any instructions provided by the Scottish Ministers.
 
-## 6. Inspection reports[^key-126d1a9a8c14f9bb6818278acd1fdd2a]
+## 6. Inspection reports[^c-126d1a9a8c14f9bb6818278acd1fdd2a]
 
 (1) Where an inspection under regulation 5(1) or (2) has been completed, an inspector must as soon as practicable following its completion—
 
@@ -114,7 +114,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 
 (4) The Scottish Ministers may publish an inspection report or such information contained in an inspection report as they consider appropriate.
 
-## 7. Enforcement notices[^key-a855520862cff641c6f1f56180469398]
+## 7. Enforcement notices[^c-a855520862cff641c6f1f56180469398]
 
 (1) An inspector may serve a notice on a relevant body where an inspector is of the opinion that the relevant body is failing to comply with any relevant provision applicable to that relevant body (an “**enforcement notice**”).
 
@@ -132,7 +132,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 
 (5) The Scottish Ministers may publish an enforcement notice or such information relating to an enforcement notice as they consider appropriate.
 
-## 8. Enforcement notices: variation[^key-54f577a852aef3f123844cacaf90892c]
+## 8. Enforcement notices: variation[^c-54f577a852aef3f123844cacaf90892c]
 
 (1) A relevant body may make a request to an inspector to vary an enforcement notice.
 
@@ -147,7 +147,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 
 (5) Where a request has been made under paragraph (1), and the inspector decides not to vary an enforcement notice, the inspector must as soon as practicable notify the relevant body of the reasons for that decision and of the right of the relevant body to appeal to the Scottish Ministers.
 
-## 9. Enforcement notices: revocation[^key-1a448a93ad28dea39d57eb9a110ffac3]
+## 9. Enforcement notices: revocation[^c-1a448a93ad28dea39d57eb9a110ffac3]
 
 (1) A relevant body may make a request to an inspector to revoke an enforcement notice.
 
@@ -165,7 +165,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 
 (5) Where a request has been made under paragraph (1) and the inspector decides not to issue a revocation notice the inspector must as soon as practicable notify the relevant body of the reasons for that decision and of the right of the relevant body to appeal to the Scottish Ministers.
 
-## 10. Appeal to the Scottish Ministers[^key-37b3c7c6fd79566fc859965bb5caeccb]
+## 10. Appeal to the Scottish Ministers[^c-37b3c7c6fd79566fc859965bb5caeccb]
 
 (1) A relevant body on which an enforcement notice has been served may appeal to the Scottish Ministers against a decision of an inspector—
 
@@ -223,7 +223,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
   - (i) a copy of the decision and the reasons sent under sub paragraph (a), and
   - (ii) a copy of any notice served under sub paragraph (d) or (e).
 
-## 11. Appeal to the sheriff[^key-4224eb961892c63d37e392ba7ffeefb9]
+## 11. Appeal to the sheriff[^c-4224eb961892c63d37e392ba7ffeefb9]
 
 (1) A relevant body may appeal to the sheriff against a decision of the Scottish Ministers made under regulation 10(10).
 
@@ -245,7 +245,7 @@ In these Regulations, “**relevant legislation and requirements**” means the 
 - (a) confirm or vary the enforcement notice to which the decision being appealed relates as the sheriff thinks fit,
 - (b) revoke the enforcement notice to which the decision being appealed relates with effect from the date of the decision.
 
-## 12. Enforcement Notices: further action[^key-c345dec53d83c04ea773333265f06235]
+## 12. Enforcement Notices: further action[^c-c345dec53d83c04ea773333265f06235]
 
 An inspector may request that the Scottish Ministers consider making an application to the court for an order requiring a relevant body to comply with an enforcement notice where—
 
@@ -282,13 +282,13 @@ Regulation 12 makes provision for inspectors to make a request that the Scottish
 
 [^f00001]: Footnote: [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).
 
-[^key-3bcea2ac7a1950b1ab8a3853307da936]: Commencement: Reg. 1 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-3bcea2ac7a1950b1ab8a3853307da936]: Commencement: Reg. 1 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-9a75c777c38a2b902989f6316451962c]: Commencement: Reg. 2 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-9a75c777c38a2b902989f6316451962c]: Commencement: Reg. 2 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-33a6be3e2f8121db7816f7402708e824]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2025/46/regulation/2) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/16/2)
+[^c-33a6be3e2f8121db7816f7402708e824]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2025/46/regulation/2) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/16/2)
 
-[^key-c66f6d1581cf9d2f823ebadccce0835b]: Commencement: Reg. 3 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-c66f6d1581cf9d2f823ebadccce0835b]: Commencement: Reg. 3 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2019/36](https://www.legislation.gov.uk/ssi/2019/36).
 
@@ -298,22 +298,22 @@ Regulation 12 makes provision for inspectors to make a request that the Scottish
 
 [^f00005]: Footnote: [S.S.I. 2025/45](https://www.legislation.gov.uk/ssi/2025/45).
 
-[^key-ba169ea7ea99bb5d1788565540e1da68]: Textual amendment: [Reg. 3(e)](https://www.legislation.gov.uk/ssi/2025/46/regulation/3/e)[(f)](https://www.legislation.gov.uk/ssi/2025/46/regulation/3/f) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [16(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/16/3)
+[^c-ba169ea7ea99bb5d1788565540e1da68]: Textual amendment: [Reg. 3(e)](https://www.legislation.gov.uk/ssi/2025/46/regulation/3/e)[(f)](https://www.legislation.gov.uk/ssi/2025/46/regulation/3/f) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [16(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/16/3)
 
-[^key-8d75d9d2903a15748aaffe0211a51bfe]: Commencement: Reg. 4 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-8d75d9d2903a15748aaffe0211a51bfe]: Commencement: Reg. 4 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-e7d1489ec121fc4df37e36144c7223b5]: Commencement: Reg. 5 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-e7d1489ec121fc4df37e36144c7223b5]: Commencement: Reg. 5 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-126d1a9a8c14f9bb6818278acd1fdd2a]: Commencement: Reg. 6 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-126d1a9a8c14f9bb6818278acd1fdd2a]: Commencement: Reg. 6 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-a855520862cff641c6f1f56180469398]: Commencement: Reg. 7 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-a855520862cff641c6f1f56180469398]: Commencement: Reg. 7 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-54f577a852aef3f123844cacaf90892c]: Commencement: Reg. 8 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-54f577a852aef3f123844cacaf90892c]: Commencement: Reg. 8 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-1a448a93ad28dea39d57eb9a110ffac3]: Commencement: Reg. 9 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-1a448a93ad28dea39d57eb9a110ffac3]: Commencement: Reg. 9 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-37b3c7c6fd79566fc859965bb5caeccb]: Commencement: Reg. 10 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-37b3c7c6fd79566fc859965bb5caeccb]: Commencement: Reg. 10 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-4224eb961892c63d37e392ba7ffeefb9]: Commencement: Reg. 11 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-4224eb961892c63d37e392ba7ffeefb9]: Commencement: Reg. 11 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
 
-[^key-c345dec53d83c04ea773333265f06235]: Commencement: Reg. 12 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)
+[^c-c345dec53d83c04ea773333265f06235]: Commencement: Reg. 12 in force at 1.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/46/regulation/1)

@@ -56,7 +56,7 @@ An Act to consolidate certain enactments relating to persons under the age of ei
 - [Section 11 — †Exposing children under seven to risk of burning.](part-i/section-11.md)
 - [Section 12 — Failing to provide for safety of children at entertainments.](part-i/section-12.md)
 
-#### ...[^key-16e18347b207e951a2b52f26d2f08e10]
+#### ...[^c-16e18347b207e951a2b52f26d2f08e10]
 
 *Extent: E+W*
 
@@ -260,7 +260,7 @@ SCHEDULES
 
 [^c6078361]: Modification: Act (except ss. 53, 58, 79-81, Sch. 4): transfer of functions (W) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-16e18347b207e951a2b52f26d2f08e10]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/12A) and cross-heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-16e18347b207e951a2b52f26d2f08e10]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/12A) and cross-heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
 [^c6079651]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/part/II) extended by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1963/37/section/44/1)
 

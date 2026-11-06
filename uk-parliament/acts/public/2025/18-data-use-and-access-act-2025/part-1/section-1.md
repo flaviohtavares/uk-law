@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Customer data and business data[^key-350063a8667012f8b1a321c080057b3b][^key-36d7028bfc8e0aee76a1c1c9f42748ed]
+## 1. Customer data and business data[^c-350063a8667012f8b1a321c080057b3b][^c-36d7028bfc8e0aee76a1c1c9f42748ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-350063a8667012f8b1a321c080057b3b]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-350063a8667012f8b1a321c080057b3b]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-36d7028bfc8e0aee76a1c1c9f42748ed]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/18/section/1) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-36d7028bfc8e0aee76a1c1c9f42748ed]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/18/section/1) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

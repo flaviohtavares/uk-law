@@ -35,22 +35,22 @@ amending Regulation (EC) No 1272/2008 of the European Parliament and of the Coun
 
 (Text with EEA relevance) (revoked)
 
-[^key-e1c734117f371a17e965fe1552bd78b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1c734117f371a17e965fe1552bd78b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-e1c734117f371a17e965fe1552bd78b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e1c734117f371a17e965fe1552bd78b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e1c734117f371a17e965fe1552bd78b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e1c734117f371a17e965fe1552bd78b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1c734117f371a17e965fe1552bd78b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1c734117f371a17e965fe1552bd78b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-e1c734117f371a17e965fe1552bd78b1]
+## ANNEX[^c-e1c734117f371a17e965fe1552bd78b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1c734117f371a17e965fe1552bd78b1]: Textual amendment: Regulation revoked (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Classification, Labelling and Packaging of Substances and Mixtures (Amendment and Consequential Provision) Regulations 2023 (S.I. 2023/1344)](https://www.legislation.gov.uk/uksi/2023/1344), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1344/regulation/3/d)
+[^c-e1c734117f371a17e965fe1552bd78b1]: Textual amendment: Regulation revoked (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Classification, Labelling and Packaging of Substances and Mixtures (Amendment and Consequential Provision) Regulations 2023 (S.I. 2023/1344)](https://www.legislation.gov.uk/uksi/2023/1344), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1344/regulation/3/d)

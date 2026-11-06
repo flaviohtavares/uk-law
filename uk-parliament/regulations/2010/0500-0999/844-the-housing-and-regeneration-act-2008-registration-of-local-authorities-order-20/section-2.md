@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-51aae5643002589963f9546f66ed2dde][^key-51aae5643002589963f9546f66ed2dde]
+## 2. Interpretation[^c-51aae5643002589963f9546f66ed2dde][^c-51aae5643002589963f9546f66ed2dde]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Order, “the Act” means the Housing and Regeneration Act 2008.
 
 ## Annotations
 
-[^key-51aae5643002589963f9546f66ed2dde]: Commencement: Art. 2 in force at 18.3.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/844/article/1/3)
+[^c-51aae5643002589963f9546f66ed2dde]: Commencement: Art. 2 in force at 18.3.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/844/article/1/3)

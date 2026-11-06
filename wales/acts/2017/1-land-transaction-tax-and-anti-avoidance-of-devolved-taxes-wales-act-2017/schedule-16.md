@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-95bdf6b3c2103ef0a25cffedb32b119a] (1) This Schedule makes provision about the relief available for certain transactions where the seller and the buyer are companies that are members of the same group.
+**1.**[^c-95bdf6b3c2103ef0a25cffedb32b119a] (1) This Schedule makes provision about the relief available for certain transactions where the seller and the buyer are companies that are members of the same group.
 
 (2) This Schedule is arranged as follows—
 
@@ -39,7 +39,7 @@ summary: ''
 
 #### Group relief
 
-**2.**[^key-644cdac19000784644bf48f5030a1b53] (1) A land transaction is relieved from tax if the seller and the buyer are companies that are members of the same group at the effective date of the transaction.
+**2.**[^c-644cdac19000784644bf48f5030a1b53] (1) A land transaction is relieved from tax if the seller and the buyer are companies that are members of the same group at the effective date of the transaction.
 
 (2) Relief under this paragraph is referred to in this Schedule as “**"group relief”**”.
 
@@ -47,7 +47,7 @@ summary: ''
 
 #### Group relief: interpretation
 
-**3.**[^key-7ffb84cbc1d3dc65819f1dccd7b41c41] (1) The following provisions apply for the purposes of group relief.
+**3.**[^c-7ffb84cbc1d3dc65819f1dccd7b41c41] (1) The following provisions apply for the purposes of group relief.
 
 (2) “**"Company”**” means a body corporate.
 
@@ -74,7 +74,7 @@ summary: ''
 
 #### Restrictions on availability of group relief
 
-**4.**[^key-f4cdb2675c54119e6d9c56206ef49900] (1) Group relief is not available if, at the effective date of the transaction, there are arrangements in existence by virtue of which—
+**4.**[^c-f4cdb2675c54119e6d9c56206ef49900] (1) Group relief is not available if, at the effective date of the transaction, there are arrangements in existence by virtue of which—
 
 - (a) a person has or could obtain, at that or some later time, control of the buyer but not of the seller, or
 - (b) any persons together have or could obtain, at that time or some time later, control of the buyer but not of the seller.
@@ -106,7 +106,7 @@ summary: ''
 
 #### Certain arrangements not within paragraph 4: joint venture companies
 
-**5.**[^key-71f834998b0f5092babe071b5230f9b6] (1) Arrangements entered into by a joint venture company which, apart from this paragraph, would be arrangements to which paragraph 4 applies are not to be treated as such arrangements if and so long as—
+**5.**[^c-71f834998b0f5092babe071b5230f9b6] (1) Arrangements entered into by a joint venture company which, apart from this paragraph, would be arrangements to which paragraph 4 applies are not to be treated as such arrangements if and so long as—
 
 - (a) the arrangements fall within sub-paragraph (2), and
 - (b) none of the contingencies mentioned in sub-paragraph (3) to which the arrangements relate has occurred.
@@ -146,7 +146,7 @@ in advance of one or more of the contingencies occurring.
 
 #### Certain mortgage arrangements not within paragraph 4
 
-**6.**[^key-8ac7a4c37358b99fe1a4d3b989ccaff0] (1) Arrangements entered into by a company which, apart from this paragraph, would be arrangements to which paragraph 4 applies are not to be treated as such arrangements if and so long as—
+**6.**[^c-8ac7a4c37358b99fe1a4d3b989ccaff0] (1) Arrangements entered into by a company which, apart from this paragraph, would be arrangements to which paragraph 4 applies are not to be treated as such arrangements if and so long as—
 
 - (a) the arrangements are a mortgage, secured by way of shares or securities in the company, which on default or the happening of any other event allows the mortgagee to exercise its rights against the mortgagor, and
 - (b) the mortgagee has not exercised its rights against the mortgagor.
@@ -167,11 +167,11 @@ in advance of one or more of the contingencies occurring.
 
 #### Interpretation: relieved transaction
 
-**7.**[^key-3f840c844c7df463aa5c38baf46f870f] In this Part of this Schedule, a transaction that is relieved from tax by virtue of paragraph 2 (group relief) is referred to as a “**"relieved transaction”**”.
+**7.**[^c-3f840c844c7df463aa5c38baf46f870f] In this Part of this Schedule, a transaction that is relieved from tax by virtue of paragraph 2 (group relief) is referred to as a “**"relieved transaction”**”.
 
 #### Withdrawal of group relief
 
-**8.**[^key-313d5c6c6551052794dbec521399172b] (1) Where sub-paragraph (2) applies, group relief in relation to a relieved transaction, or an appropriate proportion of it, is withdrawn and tax is chargeable in accordance with this paragraph.
+**8.**[^c-313d5c6c6551052794dbec521399172b] (1) Where sub-paragraph (2) applies, group relief in relation to a relieved transaction, or an appropriate proportion of it, is withdrawn and tax is chargeable in accordance with this paragraph.
 
 (2) This sub-paragraph applies where, in the case of a relieved transaction—
 
@@ -204,7 +204,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Cases in which group relief not withdrawn
 
-**9.**[^key-4749f8cd6b5ae67d5f69a41d4bde8bf3] (1) Group relief is not withdrawn under paragraph 8 in the following cases.
+**9.**[^c-4749f8cd6b5ae67d5f69a41d4bde8bf3] (1) Group relief is not withdrawn under paragraph 8 in the following cases.
 
 (2) The first case is where the buyer ceases to be a member of the same group as the seller by reason of—
 
@@ -240,7 +240,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Group relief not withdrawn where seller leaves group
 
-**10.**[^key-bf2fc6ab701114ccd4fc1bb34281a57f] (1) Group relief is not withdrawn under paragraph 8 where the buyer ceases to be a member of the same group as the seller because the seller leaves the group.
+**10.**[^c-bf2fc6ab701114ccd4fc1bb34281a57f] (1) Group relief is not withdrawn under paragraph 8 where the buyer ceases to be a member of the same group as the seller because the seller leaves the group.
 
 (2) The seller is regarded as leaving the group if the companies cease to be members of the same group by reason of a transaction relating to shares in—
 
@@ -270,7 +270,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Group relief not withdrawn as a result of certain transfers of business etc. by mutual societies
 
-**11.**[^key-099a8cf4af78a5fd015e76f72bbed483] (1) Group relief is not withdrawn under paragraph 8 where—
+**11.**[^c-099a8cf4af78a5fd015e76f72bbed483] (1) Group relief is not withdrawn under paragraph 8 where—
 
 - (a) there is a relevant transfer of business or engagement,
 - (b) before the date of the relevant transfer there had been a relieved transaction, and
@@ -286,7 +286,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Withdrawal of group relief in certain cases involving successive transactions
 
-**12.**[^key-4ef13b02aa1579df182a8f1f0d263634] (1) Where in the case of a relieved transaction—
+**12.**[^c-4ef13b02aa1579df182a8f1f0d263634] (1) Where in the case of a relieved transaction—
 
 - (a) there is a change in the control of the buyer,
 - (b) that change occurs—
@@ -327,7 +327,7 @@ paragraphs 8, 9 and 10 have effect in relation to the relieved transaction as if
 
 #### Recovery of group relief from another group company or controlling director
 
-**13.**[^key-d979a16ddf68a3220c8c497fe1910081] (1) This paragraph applies where—
+**13.**[^c-d979a16ddf68a3220c8c497fe1910081] (1) This paragraph applies where—
 
 - (a) tax is chargeable under paragraph 8 (withdrawal of group relief),
 - (b) the amount so chargeable has been finally determined, and
@@ -358,7 +358,7 @@ can no longer be varied (whether on review, appeal or otherwise).
 
 #### Recovery of group relief: supplementary
 
-**14.**[^key-616daf688b8ecb0043c5c6cfe058e156] (1) WRA may issue a notice to a person within paragraph 13(2) requiring the person to pay the amount that remains unpaid before the end of the period of 30 days beginning with the day on which the notice is issued.
+**14.**[^c-616daf688b8ecb0043c5c6cfe058e156] (1) WRA may issue a notice to a person within paragraph 13(2) requiring the person to pay the amount that remains unpaid before the end of the period of 30 days beginning with the day on which the notice is issued.
 
 (2) A notice under sub-paragraph (1) must be issued before the end of the period of 3 years beginning with the date of the final determination mentioned in paragraph 13(1)(b).
 
@@ -370,30 +370,30 @@ can no longer be varied (whether on review, appeal or otherwise).
 
 ## Annotations
 
-[^key-95bdf6b3c2103ef0a25cffedb32b119a]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-95bdf6b3c2103ef0a25cffedb32b119a]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-644cdac19000784644bf48f5030a1b53]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-644cdac19000784644bf48f5030a1b53]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7ffb84cbc1d3dc65819f1dccd7b41c41]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7ffb84cbc1d3dc65819f1dccd7b41c41]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-f4cdb2675c54119e6d9c56206ef49900]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f4cdb2675c54119e6d9c56206ef49900]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-71f834998b0f5092babe071b5230f9b6]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-71f834998b0f5092babe071b5230f9b6]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8ac7a4c37358b99fe1a4d3b989ccaff0]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8ac7a4c37358b99fe1a4d3b989ccaff0]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3f840c844c7df463aa5c38baf46f870f]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3f840c844c7df463aa5c38baf46f870f]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-313d5c6c6551052794dbec521399172b]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-313d5c6c6551052794dbec521399172b]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4749f8cd6b5ae67d5f69a41d4bde8bf3]: Commencement: [Sch. 16 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4749f8cd6b5ae67d5f69a41d4bde8bf3]: Commencement: [Sch. 16 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-bf2fc6ab701114ccd4fc1bb34281a57f]: Commencement: [Sch. 16 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-bf2fc6ab701114ccd4fc1bb34281a57f]: Commencement: [Sch. 16 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-099a8cf4af78a5fd015e76f72bbed483]: Commencement: [Sch. 16 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-099a8cf4af78a5fd015e76f72bbed483]: Commencement: [Sch. 16 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4ef13b02aa1579df182a8f1f0d263634]: Commencement: [Sch. 16 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4ef13b02aa1579df182a8f1f0d263634]: Commencement: [Sch. 16 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d979a16ddf68a3220c8c497fe1910081]: Commencement: [Sch. 16 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d979a16ddf68a3220c8c497fe1910081]: Commencement: [Sch. 16 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-616daf688b8ecb0043c5c6cfe058e156]: Commencement: [Sch. 16 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-616daf688b8ecb0043c5c6cfe058e156]: Commencement: [Sch. 16 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/16/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

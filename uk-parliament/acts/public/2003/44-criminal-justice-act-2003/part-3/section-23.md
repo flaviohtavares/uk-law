@@ -22,7 +22,7 @@ summary: ''
 
 (1) The first requirement is that the authorised person has evidence that the offender has committed an offence.
 
-(2) The second requirement is that a relevant prosecutor or the authorised person[^key-95cf89be9b502f603b91431e8ec5dfe0] decides—
+(2) The second requirement is that a relevant prosecutor or the authorised person[^c-95cf89be9b502f603b91431e8ec5dfe0] decides—
 
 - (a) that there is sufficient evidence to charge the offender with the offence, and
 - (b) that a conditional caution should be given to the offender in respect of the offence.
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95cf89be9b502f603b91431e8ec5dfe0]: Textual amendment: Words in s. 23(2) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 133(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/133/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/453/article/4/c)
+[^c-95cf89be9b502f603b91431e8ec5dfe0]: Textual amendment: Words in s. 23(2) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 133(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/133/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/453/article/4/c)

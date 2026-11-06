@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4K. Acquisition by registration: certain British overseas territories citizens[^key-f0b12170a4e716746b2a0fc7881a8cb0]
+## 4K. Acquisition by registration: certain British overseas territories citizens[^c-f0b12170a4e716746b2a0fc7881a8cb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0b12170a4e716746b2a0fc7881a8cb0]: Textual amendment: [S. 4K](https://www.legislation.gov.uk/ukpga/1981/61/section/4K) inserted (28.6.2022 for specified purposes, 23.11.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/4/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/3); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/b)
+[^c-f0b12170a4e716746b2a0fc7881a8cb0]: Textual amendment: [S. 4K](https://www.legislation.gov.uk/ukpga/1981/61/section/4K) inserted (28.6.2022 for specified purposes, 23.11.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/4/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/3); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/b)

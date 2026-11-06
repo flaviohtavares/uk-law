@@ -56,23 +56,23 @@ Now, therefore, the Secretary of State, in exercise of the powers under section 
 - “**advertisement**” means any form of advertisement which is made in order to promote the sale of a product but does not include any advertisement by means of which the trader intends to encourage a consumer to enter into a distance contract, a catalogue, a price list, a container or a label;
 - “**consumer**” means any individual who buys a product for purposes that do not fall within the sphere of his commercial or professional activity;
 - “**cosmetic products**” means any substance or preparation intended to be placed in contact with an external part of the human body, or with the teeth, inside of the mouth or throat with a view exclusively or mainly to one or more of the following purposes: cleaning, perfuming, changing the appearance of, protecting, and keeping in good condition it or them or correcting body odour;
-- “[^key-d2e130abf5448de3503bfaeb55488cbf]**deposit**” has the meaning which—
+- “[^c-d2e130abf5448de3503bfaeb55488cbf]**deposit**” has the meaning which—
   - (a) in the case of England and Wales, is set out in paragraph 1(2)(a) of Schedule 8 (deposit schemes) to the Environment Act 2021; and
   - (b) in the case of Scotland, is set out in section 84(2)(a) (deposit and return schemes) of the Climate Change (Scotland) Act 2009;
 - “**distance contract**” means any contract concerning products concluded between a trader and a consumer, by any means, without the simultaneous physical presence of the trader and the consumer;
 - “**itinerant trader**” means any trader who, as a pedestrian, or from a train, aircraft, vessel, vehicle, stall, barrow, or other mobile sales unit, offers products to consumers other than by means of pre-printed material;
-- “**liquid medium**” has the meaning given for the purposes of the second subparagraph of point 5 of Annex IX to Regulation[^key-31c9af3e494de0eef7e48722a0b77425] [(EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers;
+- “**liquid medium**” has the meaning given for the purposes of the second subparagraph of point 5 of Annex IX to Regulation[^c-31c9af3e494de0eef7e48722a0b77425] [(EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers;
 - “**make-up products**” means cosmetic products solely intended temporarily to change the appearance of the face or nails, including (but not limited to) lipsticks, mascaras, eye shadows, blushers and concealers;
 - “**net drained weight**” means the weight of a solid food product when it is presented in a liquid medium;
 - “**precious metal**” means gold, silver or platinum, or any other metal to which by an order under section 17 of the Hallmarking Act 1973 [^c5330821] the provisions of that Act are applied;
 - “**products sold from bulk**” means products which are not pre-packaged and are weighed or measured at the request of the consumer;
 - “**relevant floor area**” in relation to a shop means the internal floor area of the shop excluding any area not used for the retail sale of products or for the display of such products for retail sale;
-- “[^key-5472f967383d8102d8790e80ea2f3796]**selling price**” means the final price to be paid for a unit of a product, or a given quantity of a product, including VAT and all other taxes (but excluding the amount of any deposit);
+- “[^c-5472f967383d8102d8790e80ea2f3796]**selling price**” means the final price to be paid for a unit of a product, or a given quantity of a product, including VAT and all other taxes (but excluding the amount of any deposit);
 - “**shop**” includes a store, kiosk and a franchise or concession within a shop;
 - “**small shop**” means any shop which has a “relevant floor area” not exceeding 280 square metres;
 - “**standard of fineness**” means any one of the standards of fineness specified in column (2) of paragraph 2 of Schedule 2 to the Hallmarking Act 1973;
 - “**trader**” means any person who sells or offers or exposes for sale products which fall within his commercial or professional activity;
-- “[^key-736a4e48c90ca80a0924e0889c3f81cc]**unit price**” means the final price, including VAT and all other taxes (but excluding the amount of any deposit) which would be required to be paid—
+- “[^c-736a4e48c90ca80a0924e0889c3f81cc]**unit price**” means the final price, including VAT and all other taxes (but excluding the amount of any deposit) which would be required to be paid—
   - (a) for an individual item of the product, where the product is sold by number;
   - (b) for one kilogram of the product, where the product is permitted to be sold either by weight or by volume, and the product is marked to show only its weight;
   - (c) for one litre of the product, where the product is permitted to be sold either by weight or by volume, and the product is marked to show only its volume; and
@@ -104,10 +104,10 @@ The Price Marking Order 1999 [^c5330831] is hereby revoked.
 
 (1) Subject to paragraph (2), (3) and (4) and article 9, where a trader indicates that any product is or may be for sale to a consumer, he shall indicate the unit price of that product in accordance with the provisions of this Order.
 
-(2) The requirement in paragraph (1) only applies in respect of products sold from bulk or required by or under Part IV of the Weights and Measures Act 1985(3), regulation 5, 6 or 7 of the Weights and Measures (Packaged Goods) Regulations 2006(4), or article 9 of Regulation (EU) No. 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers[^key-40e17264860d7261c6e4c24ce293201d] to be:
+(2) The requirement in paragraph (1) only applies in respect of products sold from bulk or required by or under Part IV of the Weights and Measures Act 1985(3), regulation 5, 6 or 7 of the Weights and Measures (Packaged Goods) Regulations 2006(4), or article 9 of Regulation (EU) No. 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers[^c-40e17264860d7261c6e4c24ce293201d] to be:
 
 - (a) marked with an indication of quantity; or
-- (b) made up in a quantity prescribed by or under that Act or those Regulations[^key-ba9df56b6d241e351397c9ea5e6980a0].
+- (b) made up in a quantity prescribed by or under that Act or those Regulations[^c-ba9df56b6d241e351397c9ea5e6980a0].
 
 (3) The requirement in paragraph (1) shall not apply in relation to:
 
@@ -133,7 +133,7 @@ indicate that such selling price, unit price or conversion rate as the case may 
 
 (1) An indication of selling price, unit price, commission, conversion rate or a change in the rate or coverage of value added tax given in accordance with article 11 shall be—
 
-- (a) unambiguous, easily identifiable , clearly legible, and displayed using a font which is clear and of reasonable size[^key-3f41c7293de8d1e7f28c559471138107];
+- (a) unambiguous, easily identifiable , clearly legible, and displayed using a font which is clear and of reasonable size[^c-3f41c7293de8d1e7f28c559471138107];
 - (b) subject to paragraph 2, given in proximity to:
   - (i) the product; or
   - (ii) in the case of distance contracts and advertisements, a visual or written description of the product; and
@@ -141,13 +141,13 @@ indicate that such selling price, unit price or conversion rate as the case may 
 
 (2) Paragraph (1)(b)(i) does not apply to an indication given in relation to any item of jewellery, item of precious metal, or watch displayed in a window of the premises where it is or may be for sale and the selling price of which is in excess of £3,000.
 
-(3)[^key-3849b22f9fe359b1909fd5d68633cd70] The indication of any freight, delivery or postal charges for a product, including any taxes payable in respect of freight, delivery or postal charges, must be unambiguous, easily identifiable, and clearly legible.
+(3)[^c-3849b22f9fe359b1909fd5d68633cd70] The indication of any freight, delivery or postal charges for a product, including any taxes payable in respect of freight, delivery or postal charges, must be unambiguous, easily identifiable, and clearly legible.
 
 (4) Where, in addition to a unit price, a price per quantity is indicated in relation to a supplementary indication of quantity the unit price shall predominate and the price per supplementary indication of quantity shall be expressed in characters no larger than the unit price.
 
 (5) In paragraph (4) “**supplementary indication of quantity**” refers to an indication of quantity expressed in a unit of measurement other than a metric unit as authorised by section 8(5A) of the Weights and Measures Act 1985 [^c5330861].
 
-## 7A. The offer of a product at more than one selling price[^key-28105625456a6e8a2c233b1d142502b5]
+## 7A. The offer of a product at more than one selling price[^c-28105625456a6e8a2c233b1d142502b5]
 
 Where a trader proposes to sell products, to which this Order applies, at more than one selling price, the indication of the selling price and of the unit price, in accordance with articles 4(1) and 5(1), must set out—
 
@@ -160,7 +160,7 @@ Where a trader proposes to sell products, to which this Order applies, at more t
 
 In the case of a pre-packaged solid food product presented in a liquid medium, the unit price shall refer to the net drained weight of the product. Where a unit price is also given with reference to the net weight of the product, it shall be clearly indicated which unit price relates to net drained weight and which to net weight.
 
-## 9. Special provisions relating to general reductions[^key-096b1905af5b93bd92b8fb211dd3f6d5]
+## 9. Special provisions relating to general reductions[^c-096b1905af5b93bd92b8fb211dd3f6d5]
 
 Where—
 
@@ -182,7 +182,7 @@ accompanied by a clearly legible and prominent notice stating the price per unit
 
 Where there is a change in the rate or coverage of VAT or any other tax, a trader who adjusts his prices in consequence may comply with the provisions of this Order—
 
-- (a) by means of a general notice or notices for a period of 28[^key-a5057e6289256fd14ffd01e42957696c] days from the date any such change takes effect, indicating that any products subject to that change are not for sale at the price indicated and that such price will be adjusted to take account of the change; and
+- (a) by means of a general notice or notices for a period of 28[^c-a5057e6289256fd14ffd01e42957696c] days from the date any such change takes effect, indicating that any products subject to that change are not for sale at the price indicated and that such price will be adjusted to take account of the change; and
 - (b) if he continues to distribute any catalogue or sales literature printed or ordered to be printed before a change is announced and there is firmly attached to it a label which prominently states that some or all of the prices printed in it are to be adjusted to reflect the change, and:
   - (i) the label includes sufficient information to enable consumers to establish the adjusted price of any product listed, or
   - (ii) the label refers to and is accompanied by a supplement which enables them to do so.
@@ -198,11 +198,11 @@ Where the unit price of a product falls above £1 it may be expressed to the nea
 - (a) 1p, in which case where the figure denoting tenths of one penny in the unit price is 5 or higher, it shall be rounded up and where it is 4 or lower it shall be rounded down; or
 - (b) 0.1p, in which case where the figure denoting one hundredths of one penny in the unit price is 5 or higher it shall be rounded up and where it is 4 or lower it shall be rounded down.
 
-## 14. Units of Quantity[^key-4f6c61e052de5d51d53620e3b7f8a6a2]
+## 14. Units of Quantity[^c-4f6c61e052de5d51d53620e3b7f8a6a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Enforcement[^key-e88f59ebebef33c78c27d7cd3aeea7e5]
+## 15. Enforcement[^c-e88f59ebebef33c78c27d7cd3aeea7e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -212,7 +212,7 @@ Parliamentary under Secretary of State for Employment Relations, Competition and
 
 Department of Trade and Industry
 
-## SCHEDULE 1 — RELEVANT UNITS OF QUANTITY FOR SPECIFIED PRODUCTS FOR THE PURPOSE OF THE DEFINITION OF “UNIT PRICE”[^key-093ca8bd2ee191c50401c05e6752f870]
+## SCHEDULE 1 — RELEVANT UNITS OF QUANTITY FOR SPECIFIED PRODUCTS FOR THE PURPOSE OF THE DEFINITION OF “UNIT PRICE”[^c-093ca8bd2ee191c50401c05e6752f870]
 
 **No longer in force.**
 
@@ -236,7 +236,7 @@ Article 5(3)
 - (a) its damaged condition; or
 - (b) the danger of its deterioration.
 
-**3.**[^key-8b6f22f9a71689caf9da51358a4ed05d] Any product which comprises an assortment of items—
+**3.**[^c-8b6f22f9a71689caf9da51358a4ed05d] Any product which comprises an assortment of items—
 
 - (a) which are either sold in a single package or at a lower price if a prescribed number or combination of items are purchased together and at the same time; and
 - (b) where some of the items are sold—
@@ -270,40 +270,40 @@ A regulatory impact assessment and a Transposition Note in relation to these Reg
 
 [^c5330801]: Marginal citation: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24). Section 4 was amended by section 16 of the [Price Commission Act 1977 (c. 33)](https://www.legislation.gov.uk/ukpga/1977/33).
 
-[^key-d2e130abf5448de3503bfaeb55488cbf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-d2e130abf5448de3503bfaeb55488cbf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-31c9af3e494de0eef7e48722a0b77425]: Textual amendment: Words in art. 1(2) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 41](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/41)
+[^c-31c9af3e494de0eef7e48722a0b77425]: Textual amendment: Words in art. 1(2) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 41](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/41)
 
 [^c5330821]: Marginal citation: [1973 c. 43](https://www.legislation.gov.uk/ukpga/1973/43).
 
-[^key-5472f967383d8102d8790e80ea2f3796]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-5472f967383d8102d8790e80ea2f3796]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-736a4e48c90ca80a0924e0889c3f81cc]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/c) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-736a4e48c90ca80a0924e0889c3f81cc]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/c) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
 [^c5330831]: Marginal citation: [S.I. 1999/3042](https://www.legislation.gov.uk/uksi/1999/3042).
 
 [^c5330841]: Marginal citation: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013).
 
-[^key-40e17264860d7261c6e4c24ce293201d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2004/102/article/5/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)(3)(a)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2/3/a))
+[^c-40e17264860d7261c6e4c24ce293201d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2004/102/article/5/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)(3)(a)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2/3/a))
 
-[^key-ba9df56b6d241e351397c9ea5e6980a0]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2004/102/article/5/2/b) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-ba9df56b6d241e351397c9ea5e6980a0]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2004/102/article/5/2/b) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-3f41c7293de8d1e7f28c559471138107]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2004/102/article/7/1/a) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/4/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-3f41c7293de8d1e7f28c559471138107]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2004/102/article/7/1/a) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/4/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-3849b22f9fe359b1909fd5d68633cd70]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2004/102/article/7/3) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/4/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-3849b22f9fe359b1909fd5d68633cd70]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2004/102/article/7/3) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/4/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
 [^c5330861]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72). Section 8(5A) was inserted by article 5(2) of [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867) and amended by article 3(2) of [S.I. 2001/55](https://www.legislation.gov.uk/uksi/2001/55).
 
-[^key-28105625456a6e8a2c233b1d142502b5]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/2004/102/article/7A) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/5) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-28105625456a6e8a2c233b1d142502b5]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/2004/102/article/7A) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/5) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-096b1905af5b93bd92b8fb211dd3f6d5]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2004/102/article/9) substituted (6.4.2026) by S.I. 2024/1055, art. 2(6) (as substituted by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)))
+[^c-096b1905af5b93bd92b8fb211dd3f6d5]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2004/102/article/9) substituted (6.4.2026) by S.I. 2024/1055, art. 2(6) (as substituted by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)))
 
-[^key-a5057e6289256fd14ffd01e42957696c]: Textual amendment: Word in art. 11(a) substituted (1.1.2010) by [The Price Marking (Amendment) Order 2009 (S.I. 2009/3231)](https://www.legislation.gov.uk/uksi/2009/3231), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3231/article/1), [2](https://www.legislation.gov.uk/uksi/2009/3231/article/2)
+[^c-a5057e6289256fd14ffd01e42957696c]: Textual amendment: Word in art. 11(a) substituted (1.1.2010) by [The Price Marking (Amendment) Order 2009 (S.I. 2009/3231)](https://www.legislation.gov.uk/uksi/2009/3231), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3231/article/1), [2](https://www.legislation.gov.uk/uksi/2009/3231/article/2)
 
-[^key-4f6c61e052de5d51d53620e3b7f8a6a2]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2004/102/article/14) omitted (6.4.2026) by virtue of [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/7) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-4f6c61e052de5d51d53620e3b7f8a6a2]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2004/102/article/14) omitted (6.4.2026) by virtue of [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/7) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-e88f59ebebef33c78c27d7cd3aeea7e5]: Textual amendment: Art. 15 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/44) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-e88f59ebebef33c78c27d7cd3aeea7e5]: Textual amendment: Art. 15 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/44) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-093ca8bd2ee191c50401c05e6752f870]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/102/schedule/1) omitted (6.4.2026) by virtue of [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/8) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+[^c-093ca8bd2ee191c50401c05e6752f870]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/102/schedule/1) omitted (6.4.2026) by virtue of [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/8) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
 
-[^key-8b6f22f9a71689caf9da51358a4ed05d]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2004/102/schedule/2/paragraph/3) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/9) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)(3)(c)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2/3/c))
+[^c-8b6f22f9a71689caf9da51358a4ed05d]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2004/102/schedule/2/paragraph/3) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/9) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)(3)(c)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2/3/c))

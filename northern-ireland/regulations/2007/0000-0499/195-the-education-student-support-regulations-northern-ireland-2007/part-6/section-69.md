@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Students with reduced entitlement[^key-d55bfdcb0d993419039fc980cf7100e3]
+## 69. Students with reduced entitlement[^c-d55bfdcb0d993419039fc980cf7100e3]
 
 *Extent: N.I.*
 
@@ -45,8 +45,8 @@ summary: ''
 - (e) Where an old system student applies for a loan for living costs and opts not to provide information needed to calculate the household income—
   - (i) for a student in category A, £2,005;
   - (ii) for a student in category B, £4,825;
-  - (iii) for a student in category C [^key-dd9ce0946f014f44a5e406477175bdba]..., £3,885;
-  - (iv) for a student in category D[^key-25061fa27ea6760f428536af99ab25d7], £3,020.
+  - (iii) for a student in category C [^c-dd9ce0946f014f44a5e406477175bdba]..., £3,885;
+  - (iv) for a student in category D[^c-25061fa27ea6760f428536af99ab25d7], £3,020.
 
 (2) Subject to Chapter 3 of this Part, the maximum amount of loan for living costs for which a student with reduced entitlement qualifies in respect of an academic year that is the final year of a course that is not an intensive course is—
 
@@ -73,17 +73,17 @@ summary: ''
 - (e) Where an old system student applies for a loan for living costs and opts not to provide information needed to calculate the household income—
   - (i) for a student in category A, £1,665;
   - (ii) for a student in category B, £4,260;
-  - (iii) for a student in category C [^key-ea6e8597546c3947a5a5c8b0f2c244b3]..., £3,185;
-  - (iv) for a student in category D[^key-dd31a096a35aa02a3c1236ec57523a19], £2,685.
+  - (iii) for a student in category C [^c-ea6e8597546c3947a5a5c8b0f2c244b3]..., £3,185;
+  - (iv) for a student in category D[^c-dd31a096a35aa02a3c1236ec57523a19], £2,685.
 
 ## Annotations
 
-[^key-d55bfdcb0d993419039fc980cf7100e3]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2007/195/regulation/69) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-d55bfdcb0d993419039fc980cf7100e3]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2007/195/regulation/69) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-dd9ce0946f014f44a5e406477175bdba]: Textual amendment: Words in [reg. 69(1)(e)(iii)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/1/e/iii) omitted (10.7.2007) by virtue of [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(2)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/2)
+[^c-dd9ce0946f014f44a5e406477175bdba]: Textual amendment: Words in [reg. 69(1)(e)(iii)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/1/e/iii) omitted (10.7.2007) by virtue of [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(2)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/2)
 
-[^key-25061fa27ea6760f428536af99ab25d7]: Textual amendment: Words in [reg. 69(1)(e)(iv)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/1/e/iv) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(3)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/3)
+[^c-25061fa27ea6760f428536af99ab25d7]: Textual amendment: Words in [reg. 69(1)(e)(iv)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/1/e/iv) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(3)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/3)
 
-[^key-ea6e8597546c3947a5a5c8b0f2c244b3]: Textual amendment: Words in [reg. 69(2)(e)(iii)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/2/e/iii) omitted (10.7.2007) by virtue of [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(4)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/4)
+[^c-ea6e8597546c3947a5a5c8b0f2c244b3]: Textual amendment: Words in [reg. 69(2)(e)(iii)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/2/e/iii) omitted (10.7.2007) by virtue of [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(4)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/4)
 
-[^key-dd31a096a35aa02a3c1236ec57523a19]: Textual amendment: Words in [reg. 69(2)(e)(iv)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/2/e/iv) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(5)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/5)
+[^c-dd31a096a35aa02a3c1236ec57523a19]: Textual amendment: Words in [reg. 69(2)(e)(iv)](https://www.legislation.gov.uk/nisr/2007/195/regulation/69/2/e/iv) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [20(5)](https://www.legislation.gov.uk/nisr/2007/293/regulation/20/5)

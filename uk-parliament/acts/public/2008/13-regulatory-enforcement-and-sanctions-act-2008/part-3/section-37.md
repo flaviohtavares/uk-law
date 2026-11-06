@@ -32,10 +32,10 @@ summary: ''
 - (a) the Crown Prosecution Service,
 - (b) a member of a police force in England or Wales,
 - (c) a Procurator Fiscal,
-- (d) a constable of the Police Service of Scotland[^key-1337ee84f47c229325d737b26437e661] ,
+- (d) a constable of the Police Service of Scotland[^c-1337ee84f47c229325d737b26437e661] ,
 - (e) the Public Prosecution Service for Northern Ireland, or
 - (f) a member of the Police Service of Northern Ireland.
 
 ## Annotations
 
-[^key-1337ee84f47c229325d737b26437e661]: Textual amendment: Words in s. 37(3)(d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/59)
+[^c-1337ee84f47c229325d737b26437e661]: Textual amendment: Words in s. 37(3)(d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/59)

@@ -39,7 +39,7 @@ Section 222.
 (2) In sub-paragraph (1) “**qualifying accommodation**” means a dwelling-house made available to the person concerned as tenant or licensee by any of the following—
 
 - (a) the local housing authority making the grant or any other local housing authority;
-- (aa)[^key-dca759673cb8eb6ecf531a83d7db5631] a private registered provider of social housing;
+- (aa)[^c-dca759673cb8eb6ecf531a83d7db5631] a private registered provider of social housing;
 
   or
 - (b) a registered social landlord.
@@ -461,7 +461,7 @@ The amendment made by this sub-paragraph shall be deemed always to have had effe
   - section 85(2) (meaning of “recognised body”), and
   - paragraphs 5 and 6 of Schedule 6 (remuneration, allowances and pensions);
 - (e) Schedule 7 to the Housing Act 1988 (constitution of housing action trusts);
-- (f)[^key-eb33f0cc30bffc96f527cb81f499254e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-eb33f0cc30bffc96f527cb81f499254e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Schedule 10 to the Rent Act 1977 (rent assessment committees), in paragraph 9(c), for “the Minister for the Civil Service” substitute “ the Secretary of State ”.
 
@@ -556,7 +556,7 @@ The amendment made by this sub-paragraph shall be deemed always to have had effe
 
 (2) Any reference in an agreement made under section 442 of the Housing Act 1985 before the date on which this paragraph comes into force which defines the expression “recognised body” by reference to section 444 of that Act shall (notwithstanding the amendment made by sub-paragraph (1) of this paragraph) continue to have the same meaning as it had immediately before that date.
 
-**30.**[^key-ff4b0ef208102247a54f9bbdd2767cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-ff4b0ef208102247a54f9bbdd2767cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -564,7 +564,7 @@ The amendment made by this sub-paragraph shall be deemed always to have had effe
 
 [^c13158711]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-dca759673cb8eb6ecf531a83d7db5631]: Textual amendment: Sch. 18 para. 2(2)(aa) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 107](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/107) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-dca759673cb8eb6ecf531a83d7db5631]: Textual amendment: Sch. 18 para. 2(2)(aa) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 107](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/107) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c13158721]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -598,7 +598,7 @@ The amendment made by this sub-paragraph shall be deemed always to have had effe
 
 [^c13158871]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-eb33f0cc30bffc96f527cb81f499254e]: Textual amendment: [Sch. 18 para. 22(1)(f)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/paragraph/22/1/f) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-eb33f0cc30bffc96f527cb81f499254e]: Textual amendment: [Sch. 18 para. 22(1)(f)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/paragraph/22/1/f) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
 [^c13158891]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -608,4 +608,4 @@ The amendment made by this sub-paragraph shall be deemed always to have had effe
 
 [^c13158921]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-ff4b0ef208102247a54f9bbdd2767cc9]: Textual amendment: Sch. 18 para. 30 omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 36](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/36)
+[^c-ff4b0ef208102247a54f9bbdd2767cc9]: Textual amendment: Sch. 18 para. 30 omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 36](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/36)

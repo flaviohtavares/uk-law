@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Investigatory powers of enforcers[^key-21b5e3d6faa25922e8eb3ca6ef9c1973][^key-dd41033846ffdc154160f27f3f49c496]
+## 208. Investigatory powers of enforcers[^c-21b5e3d6faa25922e8eb3ca6ef9c1973][^c-dd41033846ffdc154160f27f3f49c496]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21b5e3d6faa25922e8eb3ca6ef9c1973]: Commencement: S. 208 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-21b5e3d6faa25922e8eb3ca6ef9c1973]: Commencement: S. 208 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-dd41033846ffdc154160f27f3f49c496]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2024/13/section/208) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-dd41033846ffdc154160f27f3f49c496]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2024/13/section/208) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

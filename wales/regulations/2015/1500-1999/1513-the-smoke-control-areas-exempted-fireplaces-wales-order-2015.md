@@ -31,7 +31,7 @@ summary: ''
 
 Clean Air, Wales
 
-The Smoke Control Areas (Exempted Fireplaces) (Wales) Order 2015 (revoked)[^key-081e44870b93df251d398f4eb4efa60a]
+The Smoke Control Areas (Exempted Fireplaces) (Wales) Order 2015 (revoked)[^c-081e44870b93df251d398f4eb4efa60a]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 11 August 2015
 
-[^key-081e44870b93df251d398f4eb4efa60a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-081e44870b93df251d398f4eb4efa60a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-081e44870b93df251d398f4eb4efa60a]
+## 1. Title, commencement and application[^c-081e44870b93df251d398f4eb4efa60a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fireplaces exempted from section 20 of the Clean Air Act 1993[^key-081e44870b93df251d398f4eb4efa60a]
+## 2. Fireplaces exempted from section 20 of the Clean Air Act 1993[^c-081e44870b93df251d398f4eb4efa60a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-081e44870b93df251d398f4eb4efa60a]
+## 3. Revocation[^c-081e44870b93df251d398f4eb4efa60a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-081e44870b93df251d398f4eb4efa60a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-081e44870b93df251d398f4eb4efa60a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — EXEMPTED FIREPLACES[^key-081e44870b93df251d398f4eb4efa60a]
+## SCHEDULE — EXEMPTED FIREPLACES[^c-081e44870b93df251d398f4eb4efa60a]
 
 Article 2
 
@@ -73,8 +73,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-081e44870b93df251d398f4eb4efa60a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-081e44870b93df251d398f4eb4efa60a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-081e44870b93df251d398f4eb4efa60a]: Textual amendment: Order revoked (22.8.2016) by [The Smoke Control Areas (Exempted Classes of Fireplace) (Wales) Order 2016 (S.I. 2016/811)](https://www.legislation.gov.uk/uksi/2016/811), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/811/article/1), [3](https://www.legislation.gov.uk/uksi/2016/811/article/3)
+[^c-081e44870b93df251d398f4eb4efa60a]: Textual amendment: Order revoked (22.8.2016) by [The Smoke Control Areas (Exempted Classes of Fireplace) (Wales) Order 2016 (S.I. 2016/811)](https://www.legislation.gov.uk/uksi/2016/811), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/811/article/1), [3](https://www.legislation.gov.uk/uksi/2016/811/article/3)

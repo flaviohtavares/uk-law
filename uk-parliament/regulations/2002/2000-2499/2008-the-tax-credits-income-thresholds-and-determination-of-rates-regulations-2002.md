@@ -39,7 +39,7 @@ Coming into force in accordance with regulation 1
 
 [^c9612601] Whereas a draft of this instrument, which contains the first regulations made under section 13(2) of the Tax Credits Act 2002, has been laid before, and approved by resolution of, each House of Parliament:
 
-Now, therefore, the Treasury, in exercise of the powers conferred upon them by sections 8(1) to (3), 13(2) and (3), 65(1) and (7) and 67 of the Tax Credits Act 2002[^c9612611], hereby make the following Regulations:[^key-433c62cd1b98080927299486422e785a][^key-e536b21b3c17137e419c077742fd6c37]
+Now, therefore, the Treasury, in exercise of the powers conferred upon them by sections 8(1) to (3), 13(2) and (3), 65(1) and (7) and 67 of the Tax Credits Act 2002[^c9612611], hereby make the following Regulations:[^c-433c62cd1b98080927299486422e785a][^c-e536b21b3c17137e419c077742fd6c37]
 
 ## 1. Citation, commencement and effect[^c24567551]
 
@@ -51,7 +51,7 @@ Now, therefore, the Treasury, in exercise of the powers conferred upon them by s
 
 (2) These Regulations shall have effect for the tax year beginning with 6th April 2003 and subsequent tax years.
 
-## 2. Interpretation[^c24567561][^key-fa81bee6ce07d65fc6650331c3b5bec0]
+## 2. Interpretation[^c24567561][^c-fa81bee6ce07d65fc6650331c3b5bec0]
 
 In these Regulations—
 
@@ -65,30 +65,30 @@ In these Regulations—
 
 (1) This regulation prescribes the manner in which amounts are to be determined for the purposes of section 7(1)(a) of the Act.
 
-(2) In the case of a person or persons entitled to working tax credit, the amount in relation to that tax credit is £7,955[^key-e782b37b73f57e61bd0cf79f0bb69598].
+(2) In the case of a person or persons entitled to working tax credit, the amount in relation to that tax credit is £7,955[^c-e782b37b73f57e61bd0cf79f0bb69598].
 
-(3) In the case of a person or persons entitled to child tax credit, the amount in relation to that tax credit is £19,995.[^key-8f578c3ef3b7a2bcaee8c81adfbea7c2]
+(3) In the case of a person or persons entitled to child tax credit, the amount in relation to that tax credit is £19,995.[^c-8f578c3ef3b7a2bcaee8c81adfbea7c2]
 
 ## 4. Social security benefits prescribed for the purposes of section 7(2) of the Act[^c24567581]
 
-(1)[^key-f1e6c1bef156e6591e1025402bddef44] Subject to paragraph (2),[^key-169a70ffd34c446c7572d4b518114bb2] the following are social security benefits prescribed for the purposes of section 7(2) of the Act in relation to child tax credit and working tax credit—
+(1)[^c-f1e6c1bef156e6591e1025402bddef44] Subject to paragraph (2),[^c-169a70ffd34c446c7572d4b518114bb2] the following are social security benefits prescribed for the purposes of section 7(2) of the Act in relation to child tax credit and working tax credit—
 
 - (a) income support under Part 7 of the Social Security Contributions and Benefit Act 1992 [^c9612621] other than income support to which a person is entitled only by virtue of regulation 6(2) and (3) of the Income Support (General) Regulations 1987 [^c9612631];
 - (b) income support under Part 7 of the Social Security Contributions and Benefit (Northern Ireland) Act 1992 [^c9612641] other than income support to which a person is entitled only by virtue of regulation 6(2) and (3) of the Income Support (General) Regulations (Northern Ireland) 1987 [^c9612651];
 - (c) an income-based jobseeker’s allowance within the meaning of the Jobseekers Act 1995 [^c9612661] or the Jobseekers (Northern Ireland) Order 1995 [^c9612671].
-- (d)[^key-f215510253be3d1cad9c0a5031ef31b4] state pension credit within the meaning of the State Pension Credit Act 2002 or the State Pension Credit Act (Northern Ireland) 2002.
+- (d)[^c-f215510253be3d1cad9c0a5031ef31b4] state pension credit within the meaning of the State Pension Credit Act 2002 or the State Pension Credit Act (Northern Ireland) 2002.
 
 *Extent: E+W+S*
 
-- (e)[^key-d1c06646790e30d75c08ce636b8e38ca] an income-related employment and support allowance payable under Part 1 of the Welfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland) 2007[^M_F_c1b63e39-8c61-4c6c-d46a-97a8db1d8765].
+- (e)[^c-d1c06646790e30d75c08ce636b8e38ca] an income-related employment and support allowance payable under Part 1 of the Welfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland) 2007[^M_F_c1b63e39-8c61-4c6c-d46a-97a8db1d8765].
 
-(2)[^key-e716232815bebba6ac499f06c882d47b] Paragraph (1) shall not apply in relation to working tax credit during the four-week period described in regulation 7D of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (ceasing to undertake work or working for less than 16 or 30 hours per week).
+(2)[^c-e716232815bebba6ac499f06c882d47b] Paragraph (1) shall not apply in relation to working tax credit during the four-week period described in regulation 7D of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (ceasing to undertake work or working for less than 16 or 30 hours per week).
 
-## 5. Amounts prescribed for the purposes of section 7(3) of the Act[^c24567591][^key-ea1b5e25bf25c797446b49ca23b6a3ac][^key-107cb7f7d809bfd30f36f4f6b6a1c6a1]
+## 5. Amounts prescribed for the purposes of section 7(3) of the Act[^c24567591][^c-ea1b5e25bf25c797446b49ca23b6a3ac][^c-107cb7f7d809bfd30f36f4f6b6a1c6a1]
 
 The amount prescribed—
 
-- (a) for the purposes of section 7(3)(a) and (b) of the Act is £2,500[^key-1ecae59da2bc8d03f594b6dbbb3c7a67]; and
+- (a) for the purposes of section 7(3)(a) and (b) of the Act is £2,500[^c-1ecae59da2bc8d03f594b6dbbb3c7a67]; and
 - (b) for the purposes of section 7(3)(c) and (d) of the Act is £2,500.
 
 ## 6. Manner of determining the rate at which a person is, or persons are, entitled to a tax credit[^c24567601]
@@ -107,7 +107,7 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
 - (a) the elements of working tax credit (other than the child care element) to which the person or persons may be entitled, remain the same; and
 - (b) there is no relevant change of circumstances for the purposes of the child care element of working tax credit, within the meaning of regulation 16(1) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (change of circumstances for the purposes of child care element).
 
-(3)[^key-e7cdcadfd73f8edb192d5f795605f23f][^key-fd4ab8c0bca507b64ebc4a1d594ffc6e] The rate for each relevant period shall be found in accordance with the following steps—
+(3)[^c-e7cdcadfd73f8edb192d5f795605f23f][^c-fd4ab8c0bca507b64ebc4a1d594ffc6e] The rate for each relevant period shall be found in accordance with the following steps—
 
 - *Step 1 — finding the daily maximum rate for each element other than the child care element*
 
@@ -134,7 +134,7 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
   “N2” is the number of days in the relevant period.
 - *Step 4 — finding the threshold for the relevant period*
 
-  [^key-f99cd551445a678a33d1637d707e08e1][^key-8801300fb5a0c836311b306335735ec7][^key-7a2ee5a0725205a97885f83c38a2c08d][^key-bc3022644e73f41f27c500c4081635bf][^key-5f5e45e3667f70d0b3e11c0197cec6a8][^key-e2f222865a3d80a7befeaf4be87cc0c5][^M_F_6240c320-5fb8-4953-944b-42adb4ba97c1]Find the threshold for the relevant period using the following formula—
+  [^c-f99cd551445a678a33d1637d707e08e1][^c-8801300fb5a0c836311b306335735ec7][^c-7a2ee5a0725205a97885f83c38a2c08d][^c-bc3022644e73f41f27c500c4081635bf][^c-5f5e45e3667f70d0b3e11c0197cec6a8][^c-e2f222865a3d80a7befeaf4be87cc0c5][^M_F_6240c320-5fb8-4953-944b-42adb4ba97c1]Find the threshold for the relevant period using the following formula—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2002/2008)
 
@@ -143,7 +143,7 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
   “N2” is the number of days in the relevant period.
 - *Step 5 — finding the amount of the reduction*
 
-  Find the amount which is 41%[^key-867693508fe05eb8923eb24cb27f640b] of the amount by which the income for the relevant period (found under Step 3 and rounded down to the nearest penny) exceeds the threshold for the relevant period (found under Step 4 and rounded up to the nearest penny).
+  Find the amount which is 41%[^c-867693508fe05eb8923eb24cb27f640b] of the amount by which the income for the relevant period (found under Step 3 and rounded down to the nearest penny) exceeds the threshold for the relevant period (found under Step 4 and rounded up to the nearest penny).
 - *Step 6 — reducing the elements of the tax credit (other than any child care element)*
 
   If the amount found under Step 5 (rounded down to the nearest penny) is less than or equal to the total of the amounts found under Step 2 for the elements of the tax credit, deduct the amount found under Step 5 (rounded down to the nearest penny) from the total of those amounts found under Step 2.
@@ -166,7 +166,7 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
 
   Take the lesser of the results of Steps 8 and 9.
 
-  Multiply that figure by 70%[^key-318ff4b1957dfe8d37e3ede6f42545e1] and round the result up to the nearest penny.
+  Multiply that figure by 70%[^c-318ff4b1957dfe8d37e3ede6f42545e1] and round the result up to the nearest penny.
 
   The result of this step is the maximum rate of the child care element for the relevant period.
 - *Step 11 — reducing the elements of the tax credit (including any child care element)*
@@ -195,7 +195,7 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
 - (a) in the case of a person or persons entitled to child tax credit only, any part of the period of award throughout which the maximum rate at which he or they may be entitled to the tax credit remains the same;
 - (b) in the case of a person or persons entitled to both child tax credit and working tax credit, any part of the period of award throughout which the maximum rate of child tax credit to which he or they may be entitled remains the same and both sub-paragraphs (a) and (b) of regulation 7(2) are met.
 
-(3)[^key-8133ebf967ef820a3a5751ff01a78e30][^key-f8c507c531693dc1daa7a50b915b6072][^key-786df63bbfda763cbbac2f24b1210272] The rate for each relevant period shall be found in accordance with the following steps—
+(3)[^c-8133ebf967ef820a3a5751ff01a78e30][^c-f8c507c531693dc1daa7a50b915b6072][^c-786df63bbfda763cbbac2f24b1210272] The rate for each relevant period shall be found in accordance with the following steps—
 
 - *Step 1 — finding the daily maximum rate for each element*
 
@@ -220,7 +220,7 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
   “N1” is the number of days in that tax year;
 
   “N2” is the number of days in the relevant period.
-- *[^key-1f1c25dde544b7e5ff68e66231bbb091][^key-1429c1da8325f7c6a8ef543dee20fa85][^key-847822639e5ace4cd68cc4a6d2e350fe][^key-dc18d657895879216f8345914c8e980e][^key-a082db809c031e2f2264dd0529b41050][^key-a6b3af7990f6aa11dfa5e6d041d7b0a5][^key-ba82b4984d74a977b3d8deece0760a8a][^key-cd3330240c1762c881972138f6ca3ba3][^key-e03135dbf3ac3c72d78d8de9e9b61dbe][^key-1a33dae774d9dfa639b3b7cefd11542a][^key-b6d200b70cd3fda653ab99036f67f893][^key-d0e8dd150e26d88367b8807f880ed59c][^key-d9155a132e1b6e64db0bd7d0f24a69e7][^M_F_ae380961-a8eb-41a3-e0ee-d257eddb04f4]Step 4 — finding the threshold for the relevant period*
+- *[^c-1f1c25dde544b7e5ff68e66231bbb091][^c-1429c1da8325f7c6a8ef543dee20fa85][^c-847822639e5ace4cd68cc4a6d2e350fe][^c-dc18d657895879216f8345914c8e980e][^c-a082db809c031e2f2264dd0529b41050][^c-a6b3af7990f6aa11dfa5e6d041d7b0a5][^c-ba82b4984d74a977b3d8deece0760a8a][^c-cd3330240c1762c881972138f6ca3ba3][^c-e03135dbf3ac3c72d78d8de9e9b61dbe][^c-1a33dae774d9dfa639b3b7cefd11542a][^c-b6d200b70cd3fda653ab99036f67f893][^c-d0e8dd150e26d88367b8807f880ed59c][^c-d9155a132e1b6e64db0bd7d0f24a69e7][^M_F_ae380961-a8eb-41a3-e0ee-d257eddb04f4]Step 4 — finding the threshold for the relevant period*
 
   Find the amount produced by the following formula—
 
@@ -236,25 +236,25 @@ Regulations 7, 8 and 9 make provision as to the manner of determining the rate (
   - (b) in the case of a person or persons entitled to both child tax credit and working tax credit—
     - (i) that amount; or
     - (ii) if greater, the lowest amount of income for the relevant period (found under Step 3) which, disregarding regulation 9, would result in a determination in accordance with regulation 7 providing for no rate of working tax credit in his or their case for that period.
-- *Step 5 — finding the amount of the reduction of the elements of the tax credit [^key-7d845b9f1de6bb2ddff94907b0d68048]...*
+- *Step 5 — finding the amount of the reduction of the elements of the tax credit [^c-7d845b9f1de6bb2ddff94907b0d68048]...*
 
-  Find the amount (if any) which is 41%[^key-71e05e286a92ae36c3606308f87dac09] of the amount by which the income for the relevant period (found under Step 3 and rounded down to the nearest penny) exceeds the threshold for the relevant period (found under Step 4 and rounded up to the nearest penny).
-- *Step 6 — reducing the elements of the tax credit [^key-7d845b9f1de6bb2ddff94907b0d68048]...*
+  Find the amount (if any) which is 41%[^c-71e05e286a92ae36c3606308f87dac09] of the amount by which the income for the relevant period (found under Step 3 and rounded down to the nearest penny) exceeds the threshold for the relevant period (found under Step 4 and rounded up to the nearest penny).
+- *Step 6 — reducing the elements of the tax credit [^c-7d845b9f1de6bb2ddff94907b0d68048]...*
 
-  If the amount found under Step 5 (rounded down to the nearest penny) is less than the total of the amounts found under Step 2 for the elements of the tax credit [^key-7d845b9f1de6bb2ddff94907b0d68048]..., deduct the amount found under Step 5 (rounded down to the nearest penny) from the total of those amounts.
-- *Step 7 — reducing the elements of the tax credit [^key-7d845b9f1de6bb2ddff94907b0d68048]... to nil*
+  If the amount found under Step 5 (rounded down to the nearest penny) is less than the total of the amounts found under Step 2 for the elements of the tax credit [^c-7d845b9f1de6bb2ddff94907b0d68048]..., deduct the amount found under Step 5 (rounded down to the nearest penny) from the total of those amounts.
+- *Step 7 — reducing the elements of the tax credit [^c-7d845b9f1de6bb2ddff94907b0d68048]... to nil*
 
-  If the amount found under Step 5 (rounded down to the nearest penny) is equal to or exceeds the total of the amounts found under Step 2 for the elements of the tax credit [^key-7d845b9f1de6bb2ddff94907b0d68048]..., reduce the total of those amounts to nil.
+  If the amount found under Step 5 (rounded down to the nearest penny) is equal to or exceeds the total of the amounts found under Step 2 for the elements of the tax credit [^c-7d845b9f1de6bb2ddff94907b0d68048]..., reduce the total of those amounts to nil.
 - *[^M_F_4faf1714-6e69-4920-cfff-03dc702d7f38]...*
 - *[^M_F_4faf1714-6e69-4920-cfff-03dc702d7f38]...*
 - *[^M_F_4faf1714-6e69-4920-cfff-03dc702d7f38]...*
-- *Step 8[^key-1771a99b73f004e7957b089876029820] — finding the rate for the relevant period*
+- *Step 8[^c-1771a99b73f004e7957b089876029820] — finding the rate for the relevant period*
 
   The rate for the relevant period is the total of the amounts found under Step 2 for the elements of the tax credit after any reduction in accordance with Step 6 or Step 7.
 
 (4) “The family element” means the family element of child tax credit within the meaning given by section 9(3) of the Act.
 
-## 8A. Cases where there is a reciprocal agreement[^key-e61f06770a99a22b4d2ecfe2858f5ab8]
+## 8A. Cases where there is a reciprocal agreement[^c-e61f06770a99a22b4d2ecfe2858f5ab8]
 
 (1) This regulation applies where the United Kingdom is competent to pay family benefits in accordance with Article 39 of the Reciprocal Agreement with Ireland but where Ireland has primary competence for payment of those benefits.
 
@@ -315,27 +315,27 @@ A regulatory impact assessment in respect of the Act has been prepared and place
 
 [^c9612611]: Marginal citation: Section 67 is cited because of the meaning it ascribes to “prescribed”.
 
-[^key-433c62cd1b98080927299486422e785a]: Modification: Regulations applied (with modifications) (N.I.) (coming into force in accordance with reg.1 of the amending Rule) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1230/regulation/1), [Sch. paras. 24-27](https://www.legislation.gov.uk/uksi/2014/1230/schedule/paragraph/24)
+[^c-433c62cd1b98080927299486422e785a]: Modification: Regulations applied (with modifications) (N.I.) (coming into force in accordance with reg.1 of the amending Rule) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1230/regulation/1), [Sch. paras. 24-27](https://www.legislation.gov.uk/uksi/2014/1230/schedule/paragraph/24)
 
-[^key-e536b21b3c17137e419c077742fd6c37]: Modification: Regulations applied (with modifications) (13.10.2014) by [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12A/2), [Sch. paras. 25-27](https://www.legislation.gov.uk/uksi/2014/1230/schedule/paragraph/25) (as inserted by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/1626)](https://www.legislation.gov.uk/uksi/2014/1626), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/4/1) and as amended (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(b)-(d)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/b))
+[^c-e536b21b3c17137e419c077742fd6c37]: Modification: Regulations applied (with modifications) (13.10.2014) by [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12A/2), [Sch. paras. 25-27](https://www.legislation.gov.uk/uksi/2014/1230/schedule/paragraph/25) (as inserted by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/1626)](https://www.legislation.gov.uk/uksi/2014/1626), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/4/1) and as amended (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(b)-(d)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/b))
 
 [^c24567551]: Commencement: Reg. 1 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
 [^c24567561]: Commencement: Reg. 2 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
-[^key-fa81bee6ce07d65fc6650331c3b5bec0]: Modification: Reg. 2 modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/30/a)[(b)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/30/b)
+[^c-fa81bee6ce07d65fc6650331c3b5bec0]: Modification: Reg. 2 modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/30/a)[(b)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/30/b)
 
 [^c24567571]: Commencement: Reg. 3 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
-[^key-e782b37b73f57e61bd0cf79f0bb69598]: Textual amendment: Sum in reg. 3(2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/247/regulation/4/2/a)
+[^c-e782b37b73f57e61bd0cf79f0bb69598]: Textual amendment: Sum in reg. 3(2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/247/regulation/4/2/a)
 
-[^key-8f578c3ef3b7a2bcaee8c81adfbea7c2]: Textual amendment: Sum in reg. 3(3) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/247/regulation/4/2/b)
+[^c-8f578c3ef3b7a2bcaee8c81adfbea7c2]: Textual amendment: Sum in reg. 3(3) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/247/regulation/4/2/b)
 
 [^c24567581]: Commencement: Reg. 4 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
-[^key-f1e6c1bef156e6591e1025402bddef44]: Textual amendment: Reg. 4 renumbered as reg. 4(1) (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2010/751/regulation/17/1)
+[^c-f1e6c1bef156e6591e1025402bddef44]: Textual amendment: Reg. 4 renumbered as reg. 4(1) (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2010/751/regulation/17/1)
 
-[^key-169a70ffd34c446c7572d4b518114bb2]: Textual amendment: Words in reg. 4(1) inserted (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2010/751/regulation/17/2)
+[^c-169a70ffd34c446c7572d4b518114bb2]: Textual amendment: Words in reg. 4(1) inserted (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2010/751/regulation/17/2)
 
 [^c9612621]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -349,92 +349,92 @@ A regulatory impact assessment in respect of the Act has been prepared and place
 
 [^c9612671]: Marginal citation: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-f215510253be3d1cad9c0a5031ef31b4]: Textual amendment: Reg. 4(d) added (26.11.2003) by [The Tax Credits (Miscellaneous Amendments No.2) Regulations 2003 (S.I. 2003/2815)](https://www.legislation.gov.uk/uksi/2003/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2815/regulation/1), [18](https://www.legislation.gov.uk/uksi/2003/2815/regulation/18)
+[^c-f215510253be3d1cad9c0a5031ef31b4]: Textual amendment: Reg. 4(d) added (26.11.2003) by [The Tax Credits (Miscellaneous Amendments No.2) Regulations 2003 (S.I. 2003/2815)](https://www.legislation.gov.uk/uksi/2003/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2815/regulation/1), [18](https://www.legislation.gov.uk/uksi/2003/2815/regulation/18)
 
-[^key-d1c06646790e30d75c08ce636b8e38ca]: Textual amendment: [Reg. 4(e)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/4/e) added (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2008/1879/regulation/23)
+[^c-d1c06646790e30d75c08ce636b8e38ca]: Textual amendment: [Reg. 4(e)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/4/e) added (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2008/1879/regulation/23)
 
 [^M_F_c1b63e39-8c61-4c6c-d46a-97a8db1d8765]: Textual amendment: Words in reg. 4(e) inserted (N.I.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [regs. 1](https://www.legislation.gov.uk/nisr/2008/412/regulation/1), [10](https://www.legislation.gov.uk/nisr/2008/412/regulation/10)
 
-[^key-e716232815bebba6ac499f06c882d47b]: Textual amendment: Reg. 4(2) inserted (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2010/751/regulation/17/2)
+[^c-e716232815bebba6ac499f06c882d47b]: Textual amendment: Reg. 4(2) inserted (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2010/751/regulation/17/2)
 
 [^c24567591]: Commencement: Reg. 5 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
-[^key-ea1b5e25bf25c797446b49ca23b6a3ac]: Textual amendment: Reg. 5 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/3)
+[^c-ea1b5e25bf25c797446b49ca23b6a3ac]: Textual amendment: Reg. 5 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/3)
 
-[^key-107cb7f7d809bfd30f36f4f6b6a1c6a1]: Textual amendment: Reg. 5 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/2)
+[^c-107cb7f7d809bfd30f36f4f6b6a1c6a1]: Textual amendment: Reg. 5 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/2)
 
-[^key-1ecae59da2bc8d03f594b6dbbb3c7a67]: Textual amendment: Sum in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/5/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Income Thresholds and Determination of Rates) (Amendment) Regulations 2016 (S.I. 2016/393)](https://www.legislation.gov.uk/uksi/2016/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/393/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/393/regulation/2/2)
+[^c-1ecae59da2bc8d03f594b6dbbb3c7a67]: Textual amendment: Sum in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/5/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Income Thresholds and Determination of Rates) (Amendment) Regulations 2016 (S.I. 2016/393)](https://www.legislation.gov.uk/uksi/2016/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/393/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/393/regulation/2/2)
 
 [^c24567601]: Commencement: Reg. 6 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
 [^c24567611]: Commencement: Reg. 7 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
-[^key-e7cdcadfd73f8edb192d5f795605f23f]: Modification: Reg. 7(3) Step 5 modified (8.3.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/76/1), [150(1)(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/a) (with [s. 76(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/76/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/76/3))
+[^c-e7cdcadfd73f8edb192d5f795605f23f]: Modification: Reg. 7(3) Step 5 modified (8.3.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/76/1), [150(1)(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/a) (with [s. 76(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/76/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/76/3))
 
-[^key-fd4ab8c0bca507b64ebc4a1d594ffc6e]: Modification: Reg. 7(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 31(a)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/31/a)[(b)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/31/b)
+[^c-fd4ab8c0bca507b64ebc4a1d594ffc6e]: Modification: Reg. 7(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 31(a)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/31/a)[(b)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/31/b)
 
-[^key-f99cd551445a678a33d1637d707e08e1]: Textual amendment: Reg. 7(3): Sum “£5,220” substituted for "£5,060" (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2005 (S.I. 2005/681)](https://www.legislation.gov.uk/uksi/2005/681), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/681/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/681/regulation/4/3)
+[^c-f99cd551445a678a33d1637d707e08e1]: Textual amendment: Reg. 7(3): Sum “£5,220” substituted for "£5,060" (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2005 (S.I. 2005/681)](https://www.legislation.gov.uk/uksi/2005/681), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/681/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/681/regulation/4/3)
 
-[^key-8801300fb5a0c836311b306335735ec7]: Textual amendment: Reg. 7(3): Sum “£6,420” substituted for “£5,220” (6.4.2008) by [The Tax Credits Up-rating Regulations 2008 (S.I. 2008/796)](https://www.legislation.gov.uk/uksi/2008/796), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/796/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2008/796/regulation/4/4/a)
+[^c-8801300fb5a0c836311b306335735ec7]: Textual amendment: Reg. 7(3): Sum “£6,420” substituted for “£5,220” (6.4.2008) by [The Tax Credits Up-rating Regulations 2008 (S.I. 2008/796)](https://www.legislation.gov.uk/uksi/2008/796), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/796/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2008/796/regulation/4/4/a)
 
-[^key-7a2ee5a0725205a97885f83c38a2c08d]: Textual amendment: Reg. 7(3): Sum “£6,530” substituted for “£6,420” (6.4.2020) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2020 (S.I. 2020/298)](https://www.legislation.gov.uk/uksi/2020/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/298/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/3))
+[^c-7a2ee5a0725205a97885f83c38a2c08d]: Textual amendment: Reg. 7(3): Sum “£6,530” substituted for “£6,420” (6.4.2020) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2020 (S.I. 2020/298)](https://www.legislation.gov.uk/uksi/2020/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/298/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/3))
 
-[^key-bc3022644e73f41f27c500c4081635bf]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/7/3): Sum “£6,565” substituted for “£6,530” (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2021 (S.I. 2021/156)](https://www.legislation.gov.uk/uksi/2021/156), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/156/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/156/regulation/4/3)
+[^c-bc3022644e73f41f27c500c4081635bf]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/7/3): Sum “£6,565” substituted for “£6,530” (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2021 (S.I. 2021/156)](https://www.legislation.gov.uk/uksi/2021/156), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/156/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/156/regulation/4/3)
 
-[^key-5f5e45e3667f70d0b3e11c0197cec6a8]: Textual amendment: Reg. 7(3): Sum “£6,770” substituted for “£6,565” (6.4.2022) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2022 (S.I. 2022/231)](https://www.legislation.gov.uk/uksi/2022/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/231/regulation/4/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/4))
+[^c-5f5e45e3667f70d0b3e11c0197cec6a8]: Textual amendment: Reg. 7(3): Sum “£6,770” substituted for “£6,565” (6.4.2022) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2022 (S.I. 2022/231)](https://www.legislation.gov.uk/uksi/2022/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/231/regulation/4/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/4))
 
-[^key-e2f222865a3d80a7befeaf4be87cc0c5]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/7/3): Sum "£7,995" substituted for "£6,770" (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/247/regulation/4/3)
+[^c-e2f222865a3d80a7befeaf4be87cc0c5]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/7/3): Sum "£7,995" substituted for "£6,770" (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/247/regulation/4/3)
 
 [^M_F_6240c320-5fb8-4953-944b-42adb4ba97c1]: Textual amendment: Reg. 7(3) Sum “£7,955” substituted for “£7,995” (16.4.2024) by [The Tax Credits (Income Thresholds and Determination of Rates) (Amendment) Regulations 2024 (S.I. 2024/510)](https://www.legislation.gov.uk/uksi/2024/510) regs. 1, 2(2)
 
-[^key-867693508fe05eb8923eb24cb27f640b]: Textual amendment: Word in reg. 7(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/4)
+[^c-867693508fe05eb8923eb24cb27f640b]: Textual amendment: Word in reg. 7(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/4)
 
-[^key-318ff4b1957dfe8d37e3ede6f42545e1]: Textual amendment: Word in reg. 7(3) substituted (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/4)
+[^c-318ff4b1957dfe8d37e3ede6f42545e1]: Textual amendment: Word in reg. 7(3) substituted (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/4)
 
 [^c24567621]: Commencement: Reg. 8 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.
 
-[^key-8133ebf967ef820a3a5751ff01a78e30]: Modification: Reg. 8(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 32(a)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/a)[(b)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/b)
+[^c-8133ebf967ef820a3a5751ff01a78e30]: Modification: Reg. 8(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 32(a)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/a)[(b)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/b)
 
-[^key-f8c507c531693dc1daa7a50b915b6072]: Modification: Reg. 8(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 32(b)(i)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/b/i)
+[^c-f8c507c531693dc1daa7a50b915b6072]: Modification: Reg. 8(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 32(b)(i)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/b/i)
 
-[^key-786df63bbfda763cbbac2f24b1210272]: Modification: Reg. 8(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 32(b)(ii)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/b/ii)
+[^c-786df63bbfda763cbbac2f24b1210272]: Modification: Reg. 8(3) modified (E.W.S.) (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2013/386/regulation/17), [Sch. para. 32(b)(ii)](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/32/b/ii)
 
-[^key-1f1c25dde544b7e5ff68e66231bbb091]: Textual amendment: Reg. 8(3): Sum "£13,910" substituted for “£13,230” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2005 (S.I. 2005/681)](https://www.legislation.gov.uk/uksi/2005/681), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/681/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/681/regulation/4/4)
+[^c-1f1c25dde544b7e5ff68e66231bbb091]: Textual amendment: Reg. 8(3): Sum "£13,910" substituted for “£13,230” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2005 (S.I. 2005/681)](https://www.legislation.gov.uk/uksi/2005/681), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/681/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/681/regulation/4/4)
 
-[^key-1429c1da8325f7c6a8ef543dee20fa85]: Textual amendment: Reg. 8(3): Sum “£14,155” substituted for "£13,910" (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2006 (S.I. 2006/963)](https://www.legislation.gov.uk/uksi/2006/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/963/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/963/regulation/4/3)
+[^c-1429c1da8325f7c6a8ef543dee20fa85]: Textual amendment: Reg. 8(3): Sum “£14,155” substituted for "£13,910" (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2006 (S.I. 2006/963)](https://www.legislation.gov.uk/uksi/2006/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/963/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/963/regulation/4/3)
 
-[^key-847822639e5ace4cd68cc4a6d2e350fe]: Textual amendment: Reg. 8(3): Sum "£14,495" substituted for “£14,155” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2007 (S.I. 2007/828)](https://www.legislation.gov.uk/uksi/2007/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/828/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/828/regulation/4/2)
+[^c-847822639e5ace4cd68cc4a6d2e350fe]: Textual amendment: Reg. 8(3): Sum "£14,495" substituted for “£14,155” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2007 (S.I. 2007/828)](https://www.legislation.gov.uk/uksi/2007/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/828/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/828/regulation/4/2)
 
-[^key-dc18d657895879216f8345914c8e980e]: Textual amendment: Reg. 8(3): Sum “£15,575” substituted for “£14,495” (6.4.2008) by [The Tax Credits Up-rating Regulations 2008 (S.I. 2008/796)](https://www.legislation.gov.uk/uksi/2008/796), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/796/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2008/796/regulation/4/5/a)
+[^c-dc18d657895879216f8345914c8e980e]: Textual amendment: Reg. 8(3): Sum “£15,575” substituted for “£14,495” (6.4.2008) by [The Tax Credits Up-rating Regulations 2008 (S.I. 2008/796)](https://www.legislation.gov.uk/uksi/2008/796), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/796/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2008/796/regulation/4/5/a)
 
-[^key-a082db809c031e2f2264dd0529b41050]: Textual amendment: Reg. 8(3): Sum "£16,040" substituted for “£15,575” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2009 (S.I. 2009/800)](https://www.legislation.gov.uk/uksi/2009/800), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/800/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/800/regulation/4/3)
+[^c-a082db809c031e2f2264dd0529b41050]: Textual amendment: Reg. 8(3): Sum "£16,040" substituted for “£15,575” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2009 (S.I. 2009/800)](https://www.legislation.gov.uk/uksi/2009/800), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/800/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/800/regulation/4/3)
 
-[^key-a6b3af7990f6aa11dfa5e6d041d7b0a5]: Textual amendment: Reg. 8(3): Sum “£16,190” substituted for “£16,040” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2010 (S.I. 2010/981)](https://www.legislation.gov.uk/uksi/2010/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/981/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/981/regulation/4/3)
+[^c-a6b3af7990f6aa11dfa5e6d041d7b0a5]: Textual amendment: Reg. 8(3): Sum “£16,190” substituted for “£16,040” (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2010 (S.I. 2010/981)](https://www.legislation.gov.uk/uksi/2010/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/981/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/981/regulation/4/3)
 
-[^key-ba82b4984d74a977b3d8deece0760a8a]: Textual amendment: Reg. 8(3): Sum “£15,860” substituted for “£16,190” (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/a)
+[^c-ba82b4984d74a977b3d8deece0760a8a]: Textual amendment: Reg. 8(3): Sum “£15,860” substituted for “£16,190” (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/a)
 
-[^key-cd3330240c1762c881972138f6ca3ba3]: Textual amendment: Reg. 8(3): Sum “£15,910” substituted for “£15,860” (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating, etc. Regulations 2013 (S.I. 2013/750)](https://www.legislation.gov.uk/uksi/2013/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/750/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/750/regulation/4/4)
+[^c-cd3330240c1762c881972138f6ca3ba3]: Textual amendment: Reg. 8(3): Sum “£15,910” substituted for “£15,860” (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating, etc. Regulations 2013 (S.I. 2013/750)](https://www.legislation.gov.uk/uksi/2013/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/750/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/750/regulation/4/4)
 
-[^key-e03135dbf3ac3c72d78d8de9e9b61dbe]: Textual amendment: Reg. 8(3): Sum “£16,010” substituted for “£15,910” (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2014 (S.I. 2014/845)](https://www.legislation.gov.uk/uksi/2014/845), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/845/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/845/regulation/4/3)
+[^c-e03135dbf3ac3c72d78d8de9e9b61dbe]: Textual amendment: Reg. 8(3): Sum “£16,010” substituted for “£15,910” (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2014 (S.I. 2014/845)](https://www.legislation.gov.uk/uksi/2014/845), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/845/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/845/regulation/4/3)
 
-[^key-1a33dae774d9dfa639b3b7cefd11542a]: Textual amendment: Reg. 8(3): Sum “£16,105” substituted for “£16,010” (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2015 (S.I. 2015/451)](https://www.legislation.gov.uk/uksi/2015/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/451/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/451/regulation/4/3)
+[^c-1a33dae774d9dfa639b3b7cefd11542a]: Textual amendment: Reg. 8(3): Sum “£16,105” substituted for “£16,010” (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2015 (S.I. 2015/451)](https://www.legislation.gov.uk/uksi/2015/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/451/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/451/regulation/4/3)
 
-[^key-b6d200b70cd3fda653ab99036f67f893]: Textual amendment: Reg. 8(3): Sum “£16,385” substituted for “£16,105” (6.4.2020) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2020 (S.I. 2020/298)](https://www.legislation.gov.uk/uksi/2020/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/298/regulation/4/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/3))
+[^c-b6d200b70cd3fda653ab99036f67f893]: Textual amendment: Reg. 8(3): Sum “£16,385” substituted for “£16,105” (6.4.2020) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2020 (S.I. 2020/298)](https://www.legislation.gov.uk/uksi/2020/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/298/regulation/4/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/298/regulation/1/3))
 
-[^key-d0e8dd150e26d88367b8807f880ed59c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/8/3): Sum “£16,480” substituted for “£16,385” (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2021 (S.I. 2021/156)](https://www.legislation.gov.uk/uksi/2021/156), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/156/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2021/156/regulation/4/4)
+[^c-d0e8dd150e26d88367b8807f880ed59c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/8/3): Sum “£16,480” substituted for “£16,385” (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2021 (S.I. 2021/156)](https://www.legislation.gov.uk/uksi/2021/156), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/156/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2021/156/regulation/4/4)
 
-[^key-d9155a132e1b6e64db0bd7d0f24a69e7]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/8/3): Sum “£17,005” substituted for “£16,480” (6.4.2022) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2022 (S.I. 2022/231)](https://www.legislation.gov.uk/uksi/2022/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2022/231/regulation/4/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/4))
+[^c-d9155a132e1b6e64db0bd7d0f24a69e7]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2002/2008/regulation/8/3): Sum “£17,005” substituted for “£16,480” (6.4.2022) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2022 (S.I. 2022/231)](https://www.legislation.gov.uk/uksi/2022/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2022/231/regulation/4/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/231/regulation/1/4))
 
 [^M_F_ae380961-a8eb-41a3-e0ee-d257eddb04f4]: Textual amendment: Reg. 8(3): Sum “£19,995” substituted for “£17,005” (6.4.2024) by The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I.) 2024/247 regs. 1(2), 4(4)
 
-[^key-7d845b9f1de6bb2ddff94907b0d68048]: Textual amendment: Words in reg. 8(3) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/5/a)
+[^c-7d845b9f1de6bb2ddff94907b0d68048]: Textual amendment: Words in reg. 8(3) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/5/a)
 
-[^key-71e05e286a92ae36c3606308f87dac09]: Textual amendment: Word in reg. 8(3) substituted (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/b)
+[^c-71e05e286a92ae36c3606308f87dac09]: Textual amendment: Word in reg. 8(3) substituted (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/b)
 
 [^M_F_4faf1714-6e69-4920-cfff-03dc702d7f38]: Textual amendment: Words in reg. 8(3) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/5/a)
 
-[^key-1771a99b73f004e7957b089876029820]: Textual amendment: Words in reg. 8(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/5/c)
+[^c-1771a99b73f004e7957b089876029820]: Textual amendment: Words in reg. 8(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2012/849/regulation/4/5/c)
 
-[^key-e61f06770a99a22b4d2ecfe2858f5ab8]: Textual amendment: Reg. 8A inserted (coming into force in accordance with reg. 1(2)(b) of the amending S.I.) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [reg. 5](https://www.legislation.gov.uk/uksi/2019/713/regulation/5) (see [S.I](https://www.legislation.gov.uk/uksi/2019/713/section/I). 2019/622, art. 1 and [S.I. 2019/128](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e61f06770a99a22b4d2ecfe2858f5ab8]: Textual amendment: Reg. 8A inserted (coming into force in accordance with reg. 1(2)(b) of the amending S.I.) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [reg. 5](https://www.legislation.gov.uk/uksi/2019/713/regulation/5) (see [S.I](https://www.legislation.gov.uk/uksi/2019/713/section/I). 2019/622, art. 1 and [S.I. 2019/128](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c24567631]: Commencement: Reg. 9 in force (1.8.2002) for specified purpose and in force (1.1.2003) for further specified purpose, otherwise (6.4.2003) for all other purposes.

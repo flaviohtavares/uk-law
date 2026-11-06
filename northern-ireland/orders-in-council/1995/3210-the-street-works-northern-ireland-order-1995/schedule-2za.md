@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule 2ZA — Monetary penalties in relation to requirements under Articles 45E and 45F[^key-b7559ccdb1717ab07e1c5c99b0e9590a]
+## Schedule 2ZA — Monetary penalties in relation to requirements under Articles 45E and 45F[^c-b7559ccdb1717ab07e1c5c99b0e9590a]
 
 *Extent: N.I.*
 
@@ -122,4 +122,4 @@ If a person does not pay the whole or any part of a penalty which the person is 
 
 ## Annotations
 
-[^key-b7559ccdb1717ab07e1c5c99b0e9590a]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/nisi/1995/3210/schedule/2ZA) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/2)
+[^c-b7559ccdb1717ab07e1c5c99b0e9590a]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/nisi/1995/3210/schedule/2ZA) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/2)

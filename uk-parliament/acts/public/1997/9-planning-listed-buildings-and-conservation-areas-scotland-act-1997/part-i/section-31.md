@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Action by Secretary of State in relation to listed building purchase notice.[^key-eba100c79515c25e1d1c210f2cd58c66]
+## 31. Action by Secretary of State in relation to listed building purchase notice.[^c-eba100c79515c25e1d1c210f2cd58c66]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ he may, instead of confirming the listed building purchase notice (or confirming
 
 ## Annotations
 
-[^key-eba100c79515c25e1d1c210f2cd58c66]: Modification: Ss. 28-41I applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-eba100c79515c25e1d1c210f2cd58c66]: Modification: Ss. 28-41I applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
 [^c262032]: Modification: S. 31(6): power to modify conferred (27.5.1997) by [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65), [Sch. 30 Pt. II para. 12](https://www.legislation.gov.uk/ukpga/1980/65/schedule/30/part/II/paragraph/12) (as substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 31(12)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/31/12))

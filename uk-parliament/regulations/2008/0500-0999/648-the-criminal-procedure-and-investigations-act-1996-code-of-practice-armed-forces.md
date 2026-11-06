@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 78(2)(b) of the Criminal Procedure and Investigations Act 1996[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-81233824061fea490a94043791cfd5e5]
+## 1. Citation, commencement and interpretation[^c-81233824061fea490a94043791cfd5e5]
 
 (1) This Order may be cited as the Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2008 and shall come into force on 1st April 2008.
 
@@ -68,24 +68,24 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (b) a Provost Marshal is to be taken to be a member of the appropriate service police force (if he is not a member of that force);
 - (c) an officer in the Royal Air Force or the Royal Auxiliary Air Force who is appointed to exercise functions conferred by or under the Air Force Act 1955 on service policemen is to be taken to be a member of the Royal Air Force Police.
 
-## 2. Code of practice[^key-f5e624365cd19b9e1edd1caf0d5bdcd8]
+## 2. Code of practice[^c-f5e624365cd19b9e1edd1caf0d5bdcd8]
 
 The Code shall have effect in relation to service investigations which begin on or after 1st April 2008.
 
-## 3. Effect of the Code[^key-baa22ede1821ef42d9a64eda9114769e]
+## 3. Effect of the Code[^c-baa22ede1821ef42d9a64eda9114769e]
 
 A failure by a service policeman to comply with any provision of the Code shall not in itself render him liable to proceedings for a service offence.
 
-**4.**[^key-5e6ef792c608ce24bd190cf161e6c15c] In all proceedings before a service court the Code shall be admissible in evidence.
+**4.**[^c-5e6ef792c608ce24bd190cf161e6c15c] In all proceedings before a service court the Code shall be admissible in evidence.
 
-**5.**[^key-35abd63b0e20b18a7ff9c871c95e39eb] If it appears to a service court conducting proceedings that—
+**5.**[^c-35abd63b0e20b18a7ff9c871c95e39eb] If it appears to a service court conducting proceedings that—
 
 - (a) any provision of the Code, or
 - (b) any failure by a service policeman,
 
 is relevant to any question arising in the proceedings, the provision or failure shall be taken into account in deciding the question.
 
-## 6. Common law rules as to service investigations[^key-4b55b5805dd24e23dfa4494c84decf60]
+## 6. Common law rules as to service investigations[^c-4b55b5805dd24e23dfa4494c84decf60]
 
 (1) Where the Code applies in relation to a suspected or alleged service offence, the rules of common law which—
 
@@ -114,13 +114,13 @@ Article 2
 
 This code of practice (“the Code”) is made under article 2 of the Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2008. It sets out the manner in which service policemen are to record, retain and reveal to the prosecutor material obtained in service investigations which may be relevant to the investigation, and related matters.
 
-### 1. Introduction[^key-b1ddcd961486c511754700c35e1004ca]
+### 1. Introduction[^c-b1ddcd961486c511754700c35e1004ca]
 
 (1) The Code applies in respect of service investigations conducted by service policemen which begin on or after 1st April 2008.
 
 (2) Nothing in the Code applies to material intercepted in obedience to a warrant issued under section 5 of the Regulation of Investigatory Powers Act 2000[^f00005], or to any copy, as defined in section 15 of that Act, of that material.
 
-### 2. Interpretation[^key-dc6e2b723965e82080ac16537bc5ee2b]
+### 2. Interpretation[^c-dc6e2b723965e82080ac16537bc5ee2b]
 
 (1) In the Code—
 
@@ -168,7 +168,7 @@ This code of practice (“the Code”) is made under article 2 of the Criminal P
 
 (4) In the Code material is “sensitive” if the disclosure officer believes that its disclosure would give rise to a real risk of serious prejudice to an important public interest.
 
-### 3. General responsibilities[^key-d21a9187c8881173f33344e146693ebe]
+### 3. General responsibilities[^c-d21a9187c8881173f33344e146693ebe]
 
 (1) The functions of the investigator, the officer in charge of a service investigation and the disclosure officer are separate. Whether they are undertaken by one, two or more persons will depend on the complexity of the case and the administrative arrangements within each service police force. Where they are undertaken by more than one person, close consultation between them is essential to the effective performance of the duties imposed by the Code.
 
@@ -184,7 +184,7 @@ This code of practice (“the Code”) is made under article 2 of the Criminal P
 
 (7) If, during a service investigation, the officer in charge of the investigation or disclosure officer for any reason no longer has responsibility for the functions falling to him, either his officer commanding or the officer in charge of service investigations for the service police force concerned must assign someone else to assume that responsibility. That person’s identity must be recorded, as with those initially responsible for these functions in each investigation.
 
-### 4. Recording of information[^key-310d0884d5927eb93e0d91c9268b78cb]
+### 4. Recording of information[^c-310d0884d5927eb93e0d91c9268b78cb]
 
 (1) If material which may be relevant to the service investigation consists of information which is not recorded in any form, the officer in charge of the investigation must ensure that it is recorded in a durable or retrievable form (whether in writing, on video or audio tape, or on computer disk).
 
@@ -194,7 +194,7 @@ This code of practice (“the Code”) is made under article 2 of the Criminal P
 
 (4) Where information which may be relevant is obtained, it must be recorded at the time it is obtained or as soon as practicable after that time. The requirement to record information promptly does not require an investigator to take a statement from a potential witness where it would not otherwise be taken.
 
-### 5. Retention of material[^key-4df94792f5a4210cf46593e682948ec0]
+### 5. Retention of material[^c-4df94792f5a4210cf46593e682948ec0]
 
 (1) The investigator must retain material obtained in a service investigation which may be relevant to the investigation. Material may at any time be photographed, video-recorded, captured digitally or otherwise retained in the form of a copy rather than the original, if—
 
@@ -237,7 +237,7 @@ If the service court imposes a custodial sentence or hospital order and the conv
 
 (10) If an appeal against conviction is in progress when the release or discharge occurs, or at the end of the period of six months specified in paragraph 5(9), all material which may be relevant must be retained until the appeal is determined.
 
-### 6. Preparation of material for prosecutor[^key-16fff63719343d8393ac6811d924ba9a]
+### 6. Preparation of material for prosecutor[^c-16fff63719343d8393ac6811d924ba9a]
 
 (1) The officer in charge of the investigation, the disclosure officer or an investigator may seek advice about whether any particular item of material may be relevant to the investigation from the prosecutor appropriate to the service police force of which the officer in charge of the investigation is a member.
 
@@ -285,7 +285,7 @@ If the service court imposes a custodial sentence or hospital order and the conv
 
 (13) In such circumstances, the responsibility for informing the prosecutor lies with the investigator who knows the detail of the sensitive material. The investigator should act as soon as is reasonably practicable after the service police report on the case is sent to the prosecutor. The investigator must also ensure that the prosecutor is able to inspect the material so that he can assess whether it is disclosable and, if so, whether it needs to be brought before a judicial officer for a ruling on disclosure.
 
-### 7. Revelation of material to prosecutor[^key-4cf682121df5fa783783c538358a3a74]
+### 7. Revelation of material to prosecutor[^c-4cf682121df5fa783783c538358a3a74]
 
 (1) The disclosure officer must give the schedules prepared in accordance with paragraph 6 to the prosecutor. Wherever practicable , and subject to paragraph 6(7), this should be at the same time as he gives him the service police report on the case.
 
@@ -302,7 +302,7 @@ If the service court imposes a custodial sentence or hospital order and the conv
 
 (5) If material consists of information which is recorded other than in writing, whether it should be given to the prosecutor in its original form as a whole, or by way of relevant extracts recorded in the same form, or in the form of a transcript, is a matter for agreement between the disclosure officer and the prosecutor.
 
-### 8. Subsequent action by disclosure officer[^key-5407afb046453a92c813a8506aa9e47a]
+### 8. Subsequent action by disclosure officer[^c-5407afb046453a92c813a8506aa9e47a]
 
 (1) At the time a schedule of non-sensitive material is prepared, the disclosure officer may not know exactly what material will form the case against the accused, and the prosecutor may not have given advice about the likely relevance of particular items of material. Once these matters have been determined, the disclosure officer must give the prosecutor, where necessary, an amended schedule listing any additional material—
 
@@ -317,11 +317,11 @@ unless he is informed in writing by the prosecutor that the prosecutor intends t
 
 (3) In particular, after a defence statement has been given, the disclosure officer must look again at the material which has been retained and must draw the attention of the prosecutor to any material which might reasonably be considered capable of undermining the case for the prosecution against the accused or of assisting the case for the accused; and he must reveal it to him in accordance with paragraphs 7(4) and 7(5).
 
-### 9. Certification by disclosure officer[^key-01c7970e2608de6d21dd0765f9aa9a80]
+### 9. Certification by disclosure officer[^c-01c7970e2608de6d21dd0765f9aa9a80]
 
 The disclosure officer must certify to the prosecutor that to the best of his knowledge and belief, all material which has been retained and made available to him has been revealed to the prosecutor in accordance with the code. He must sign and date the certificate. It will be necessary to certify when any schedule prepared in accordance with paragraph 6 and accompanying material is submitted to the prosecutor, when material which has been retained in accordance with paragraph 8(3) is reconsidered after the accused has given a defence statement, but also whenever in accordance with paragraph 8(2) a schedule is otherwise given or material is otherwise revealed to the prosecutor.
 
-### 10. Disclosure of material to accused[^key-dbbc1390f06550bbe0bda513eb1ca10d]
+### 10. Disclosure of material to accused[^c-dbbc1390f06550bbe0bda513eb1ca10d]
 
 (1) If material has not already been copied to the prosecutor, and he requests its disclosure to the accused on the ground that it satisfies the test for prosecution disclosure under the Application Order, the disclosure officer must disclose it to the accused.
 
@@ -345,7 +345,7 @@ This Order make provision equivalent, subject to modifications, to provisions of
 
 [^f00001]: Footnote: [1996 c.25](https://www.legislation.gov.uk/ukpga/1996/25)
 
-[^key-81233824061fea490a94043791cfd5e5]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-81233824061fea490a94043791cfd5e5]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
 [^f00002]: Footnote: [1955 c.18](https://www.legislation.gov.uk/ukpga/1955/18)
 
@@ -353,21 +353,21 @@ This Order make provision equivalent, subject to modifications, to provisions of
 
 [^f00004]: Footnote: [1957 c.53](https://www.legislation.gov.uk/ukpga/1957/53)
 
-[^key-f5e624365cd19b9e1edd1caf0d5bdcd8]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-f5e624365cd19b9e1edd1caf0d5bdcd8]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-baa22ede1821ef42d9a64eda9114769e]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-baa22ede1821ef42d9a64eda9114769e]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-5e6ef792c608ce24bd190cf161e6c15c]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-5e6ef792c608ce24bd190cf161e6c15c]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-35abd63b0e20b18a7ff9c871c95e39eb]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-35abd63b0e20b18a7ff9c871c95e39eb]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-4b55b5805dd24e23dfa4494c84decf60]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-4b55b5805dd24e23dfa4494c84decf60]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-b1ddcd961486c511754700c35e1004ca]: Commencement: Sch. para. 1n2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-b1ddcd961486c511754700c35e1004ca]: Commencement: Sch. para. 1n2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
 [^f00005]: Footnote: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23)
 
-[^key-dc6e2b723965e82080ac16537bc5ee2b]: Commencement: Sch. para. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-dc6e2b723965e82080ac16537bc5ee2b]: Commencement: Sch. para. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
 [^f00006]: Footnote: [1976 c.45](https://www.legislation.gov.uk/ukpga/1976/45)
 
@@ -375,24 +375,24 @@ This Order make provision equivalent, subject to modifications, to provisions of
 
 [^f00008]: Footnote: [S.I. 2008/635](https://www.legislation.gov.uk/uksi/2008/635)
 
-[^key-d21a9187c8881173f33344e146693ebe]: Commencement: Sch. para. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-d21a9187c8881173f33344e146693ebe]: Commencement: Sch. para. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-310d0884d5927eb93e0d91c9268b78cb]: Commencement: Sch. para. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-310d0884d5927eb93e0d91c9268b78cb]: Commencement: Sch. para. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-4df94792f5a4210cf46593e682948ec0]: Commencement: Sch. para. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-4df94792f5a4210cf46593e682948ec0]: Commencement: Sch. para. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
 [^f00009]: Footnote: [2001 c.19](https://www.legislation.gov.uk/ukpga/2001/19). Powers of seizure under the Armed Forces Act 2001 are conferred by the Armed Forces (Entry, Search and Seizure) Order 2003 ([SI 2003/2273](https://www.legislation.gov.uk/uksi/2003/2273)), amended by the Armed Forces (Entry, Search and Seizure) (Amendment) Order 2006 ([SI 2006/3244](https://www.legislation.gov.uk/uksi/2006/3244)).
 
 [^f00010]: Footnote: [SI 2003/2273](https://www.legislation.gov.uk/uksi/2003/2273), amended by [SI 2006/3244](https://www.legislation.gov.uk/uksi/2006/3244).
 
-[^key-16fff63719343d8393ac6811d924ba9a]: Commencement: Sch. para. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-16fff63719343d8393ac6811d924ba9a]: Commencement: Sch. para. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-4cf682121df5fa783783c538358a3a74]: Commencement: Sch. para. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-4cf682121df5fa783783c538358a3a74]: Commencement: Sch. para. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-5407afb046453a92c813a8506aa9e47a]: Commencement: Sch. para. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-5407afb046453a92c813a8506aa9e47a]: Commencement: Sch. para. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-01c7970e2608de6d21dd0765f9aa9a80]: Commencement: Sch. para. 9 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-01c7970e2608de6d21dd0765f9aa9a80]: Commencement: Sch. para. 9 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
-[^key-dbbc1390f06550bbe0bda513eb1ca10d]: Commencement: Sch. para. 10 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
+[^c-dbbc1390f06550bbe0bda513eb1ca10d]: Commencement: Sch. para. 10 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/648/article/1/1)
 
 [^f00011]: Footnote: [1967 c.58](https://www.legislation.gov.uk/ukpga/1967/58)

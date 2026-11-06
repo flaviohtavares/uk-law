@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 216. Enforcement: powers and duties.[^key-e313ca829778d824312a0e93dacc1786]
+## 216. Enforcement: powers and duties.[^c-e313ca829778d824312a0e93dacc1786]
 
 *Extent: E+W*
 
-(1) Without prejudice to its powers of enforcement in relation to the other provisions of this Act, it shall be the duty of the appropriate agency[^key-d50f2961478c5aefa3aa3dc564ecb2de] to enforce the provisions to which this section applies.
+(1) Without prejudice to its powers of enforcement in relation to the other provisions of this Act, it shall be the duty of the appropriate agency[^c-d50f2961478c5aefa3aa3dc564ecb2de] to enforce the provisions to which this section applies.
 
 (2) No proceedings for any offence under any provision to which this section applies shall be instituted except—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e313ca829778d824312a0e93dacc1786]: Modification: S. 216 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(3)(d)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/3/d), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
+[^c-e313ca829778d824312a0e93dacc1786]: Modification: S. 216 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(3)(d)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/3/d), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
 
-[^key-d50f2961478c5aefa3aa3dc564ecb2de]: Textual amendment: Words in ss. 210-216 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 303](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/303) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d50f2961478c5aefa3aa3dc564ecb2de]: Textual amendment: Words in ss. 210-216 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 303](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/303) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

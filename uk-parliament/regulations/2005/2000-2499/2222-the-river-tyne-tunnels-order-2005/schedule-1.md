@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-2ab3e4d4452d652d99f829fe3281b75e]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-2ab3e4d4452d652d99f829fe3281b75e]
 
 *Extent: E+W*
 
@@ -85,4 +85,4 @@ In the Metropolitan Borough of South Tyneside
 
 ## Annotations
 
-[^key-2ab3e4d4452d652d99f829fe3281b75e]: Commencement: Sch. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-2ab3e4d4452d652d99f829fe3281b75e]: Commencement: Sch. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

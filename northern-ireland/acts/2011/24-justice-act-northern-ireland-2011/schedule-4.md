@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — PENALTY OFFENCES AND PENALTIES[^key-efdeb883aa8a24767a663df9cb35460c]
+## SCHEDULE 4 — PENALTY OFFENCES AND PENALTIES[^c-efdeb883aa8a24767a663df9cb35460c]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ Section 59.
 
 ## Annotations
 
-[^key-efdeb883aa8a24767a663df9cb35460c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2011/24/schedule/4) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-efdeb883aa8a24767a663df9cb35460c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2011/24/schedule/4) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

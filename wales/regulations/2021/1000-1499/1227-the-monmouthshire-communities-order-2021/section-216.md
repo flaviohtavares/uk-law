@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 216. Tintern and Trellech United — change in community boundary and consequential changes to electoral arrangements[^key-f58a829cb04fe44bf341e727de454b8b][^key-94bdac9ce23e27bb47502b4d8981620b]
+## 216. Tintern and Trellech United — change in community boundary and consequential changes to electoral arrangements[^c-f58a829cb04fe44bf341e727de454b8b][^c-94bdac9ce23e27bb47502b4d8981620b]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Trellech United shown hatched on Map 143—
 
 ## Annotations
 
-[^key-f58a829cb04fe44bf341e727de454b8b]: Commencement: Art. 216 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-f58a829cb04fe44bf341e727de454b8b]: Commencement: Art. 216 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-94bdac9ce23e27bb47502b4d8981620b]: Commencement: [Art. 216](https://www.legislation.gov.uk/wsi/2021/1227/article/216) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-94bdac9ce23e27bb47502b4d8981620b]: Commencement: [Art. 216](https://www.legislation.gov.uk/wsi/2021/1227/article/216) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

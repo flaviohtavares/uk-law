@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Effect of order for possession[^key-c487fb385bff1fe3eec100e7f5777649][^key-b6d383a30ce08064689ce895046fd098][^key-b6d383a30ce08064689ce895046fd098]
+## 206. Effect of order for possession[^c-c487fb385bff1fe3eec100e7f5777649][^c-b6d383a30ce08064689ce895046fd098][^c-b6d383a30ce08064689ce895046fd098]
 
 *Extent: E+W*
 
-(1)[^key-fc2d220dd81eca7cdf0b83fe9c3ef84e] If the court makes an order requiring the contract-holder under an occupation contract to give up possession of the dwelling on a date specified in the order, the contract ends—
+(1)[^c-fc2d220dd81eca7cdf0b83fe9c3ef84e] If the court makes an order requiring the contract-holder under an occupation contract to give up possession of the dwelling on a date specified in the order, the contract ends—
 
 - (a) if the contract-holder gives up possession of the dwelling on or before that date, on that date,
 - (b) if the contract-holder gives up possession of the dwelling after that date but before the order for possession is executed, on the day on which he or she gives up possession of the dwelling, or
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c487fb385bff1fe3eec100e7f5777649]: Commencement: [S. 206](https://www.legislation.gov.uk/anaw/2016/1/section/206) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c487fb385bff1fe3eec100e7f5777649]: Commencement: [S. 206](https://www.legislation.gov.uk/anaw/2016/1/section/206) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
+[^c-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
 
-[^key-fc2d220dd81eca7cdf0b83fe9c3ef84e]: Modification: [S. 206(1)](https://www.legislation.gov.uk/anaw/2016/1/section/206/1) applied (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/2/4), [3(4)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/3/4), [4(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/4/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/5/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
+[^c-fc2d220dd81eca7cdf0b83fe9c3ef84e]: Modification: [S. 206(1)](https://www.legislation.gov.uk/anaw/2016/1/section/206/1) applied (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/2/4), [3(4)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/3/4), [4(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/4/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/5/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))

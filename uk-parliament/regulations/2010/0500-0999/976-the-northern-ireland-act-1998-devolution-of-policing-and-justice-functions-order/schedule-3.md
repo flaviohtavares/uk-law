@@ -24,9 +24,9 @@ Article 5
 
 ### Public Order (Northern Ireland) Order 1987
 
-**1.**[^key-2eccd7f3ec4559161c4d73555aa66ba6] Amend the Public Order (Northern Ireland) Order 1987[^f00104] as follows.
+**1.**[^c-2eccd7f3ec4559161c4d73555aa66ba6] Amend the Public Order (Northern Ireland) Order 1987[^f00104] as follows.
 
-**2.**[^key-97e3e494ab019b527860803d67b1ca90] (1) Amend Article 5 (prohibiting open-air public meetings) as follows.
+**2.**[^c-97e3e494ab019b527860803d67b1ca90] (1) Amend Article 5 (prohibiting open-air public meetings) as follows.
 
 (2) In paragraph (1)—
 
@@ -44,9 +44,9 @@ Article 5
 
 (6) In paragraph (4) after “(1)” insert “or (1ZA)”.
 
-**3.**[^key-0094ab097ee44dfb357a967eeb5e7984] In Article 21(2) (wearing of uniform in public) for “Secretary of State” substitute “Department of Justice”.
+**3.**[^c-0094ab097ee44dfb357a967eeb5e7984] In Article 21(2) (wearing of uniform in public) for “Secretary of State” substitute “Department of Justice”.
 
-**4.**[^key-1945e6e79aec9fade2248967842f2f04] In Article 23C (regulations about retention and disposal of things seized under Articles 23A and 23B)—
+**4.**[^c-1945e6e79aec9fade2248967842f2f04] In Article 23C (regulations about retention and disposal of things seized under Articles 23A and 23B)—
 
 - (a) in paragraphs (1) and (2) for “Secretary of State” substitute “Department of Justice”;
 - (b) in paragraph (3) for the words from “annulment” to “accordingly” substitute “negative resolution”.
@@ -61,44 +61,44 @@ Article 5
 
 ### Police (Northern Ireland) Act 1998
 
-**8.**[^key-b365c9cf8d9168f194609c7efbc737f5] Amend the Police (Northern Ireland) Act 1998[^f00109] as follows.
+**8.**[^c-b365c9cf8d9168f194609c7efbc737f5] Amend the Police (Northern Ireland) Act 1998[^f00109] as follows.
 
-**9.**[^key-4ed336fcb67ab8dda324550979635e5d] In section 25[^f00110] (regulations for PSNI) in subsections (1), (2)(i), (5)(a), (7) and (8) for “Secretary of State” substitute “Department of Justice”.
+**9.**[^c-4ed336fcb67ab8dda324550979635e5d] In section 25[^f00110] (regulations for PSNI) in subsections (1), (2)(i), (5)(a), (7) and (8) for “Secretary of State” substitute “Department of Justice”.
 
-**10.**[^key-d67e04813ffe93ace0d6269f21dd52d4] In section 26[^f00111] (regulations for PSNI Reserve) in subsections (1), (5)(a) and (6) for “Secretary of State” substitute “Department of Justice”*.*
+**10.**[^c-d67e04813ffe93ace0d6269f21dd52d4] In section 26[^f00111] (regulations for PSNI Reserve) in subsections (1), (5)(a) and (6) for “Secretary of State” substitute “Department of Justice”*.*
 
-**11.**[^key-3d8d18306667bad820e59d121a11cec4] In section 27(1)(a)[^f00112] (members of PSNI engaged on other police service) for “Secretary of State” substitute “Department of Justice”.
+**11.**[^c-3d8d18306667bad820e59d121a11cec4] In section 27(1)(a)[^f00112] (members of PSNI engaged on other police service) for “Secretary of State” substitute “Department of Justice”.
 
-**12.**[^key-7955bebc429003534748c3ab6b770d30] In section 28[^f00113] (the Police Fund) in subsections (1) and (2) for “Secretary of State” substitute “Department of Justice”.
+**12.**[^c-7955bebc429003534748c3ab6b770d30] In section 28[^f00113] (the Police Fund) in subsections (1) and (2) for “Secretary of State” substitute “Department of Justice”.
 
-**13.**[^key-16b43c9ee354ad714b3701c0f47f6652] In section 29[^f00114] (liability for wrongful acts of constables)—
+**13.**[^c-16b43c9ee354ad714b3701c0f47f6652] In section 29[^f00114] (liability for wrongful acts of constables)—
 
 - (a) in subsection (7)(c) for “Secretary of State” substitute “Department of Justice”; and
 - (b) omit subsection (8).
 
-**14.**[^key-a80cb9a7203d25d02e3c66b0bff216f7] In section 31(4) (regulations for disposal of property which has come into the possession of the police) for “Secretary of State” substitute “Department of Justice”.
+**14.**[^c-a80cb9a7203d25d02e3c66b0bff216f7] In section 31(4) (regulations for disposal of property which has come into the possession of the police) for “Secretary of State” substitute “Department of Justice”.
 
-**15.**[^key-3e37ea205028013c309e3e2d67636c72] In section 32(5) (Police Association for Northern Ireland)—
+**15.**[^c-3e37ea205028013c309e3e2d67636c72] In section 32(5) (Police Association for Northern Ireland)—
 
 - (a) for “Secretary of State” substitute “Department of Justice”; and
 - (b) for “he” substitute “the Department of Justice”.
 
-**16.**[^key-01e6a34185e914b1664c606061cfbeaa] In section 33[^f00115] (regulations for Police Association), in subsections (1), (2)(c) and (d) and (3) for “Secretary of State” substitute “Department of Justice”.
+**16.**[^c-01e6a34185e914b1664c606061cfbeaa] In section 33[^f00115] (regulations for Police Association), in subsections (1), (2)(c) and (d) and (3) for “Secretary of State” substitute “Department of Justice”.
 
-**17.**[^key-f7512679e4c8d5ebdb17bbc4a7ca0c2e] Omit section 34(1) (amendment relating to the Police Negotiating Board for the United Kingdom).
+**17.**[^c-f7512679e4c8d5ebdb17bbc4a7ca0c2e] Omit section 34(1) (amendment relating to the Police Negotiating Board for the United Kingdom).
 
-**18.**[^key-6a4b90929d83f1bd92222f66a15f80f9] In section 35(4) (membership of trade unions) for “Secretary of State” substitute “Department of Justice”.
+**18.**[^c-6a4b90929d83f1bd92222f66a15f80f9] In section 35(4) (membership of trade unions) for “Secretary of State” substitute “Department of Justice”.
 
-**19.**[^key-f29e4af8761bfedc3b932de624b6a787] In the heading to Part 5 (functions of Secretary of State) after “Secretary of State” insert “and Department of Justice”.
+**19.**[^c-f29e4af8761bfedc3b932de624b6a787] In the heading to Part 5 (functions of Secretary of State) after “Secretary of State” insert “and Department of Justice”.
 
-**20.**[^key-38c0432f60060f8108d2bcbc1ddd2c4d] In section 40[^f00116] (power to require use by police of specified facilities, equipment or services)—
+**20.**[^c-38c0432f60060f8108d2bcbc1ddd2c4d] In section 40[^f00116] (power to require use by police of specified facilities, equipment or services)—
 
 - (a) in subsection (1)—
   - (i) for “Secretary of State” substitute “Department of Justice”, and
   - (ii) for “he” substitute “the Department of Justice”; and
 - (b) in subsection (2) for “Secretary of State” substitute “Department of Justice”.
 
-**21.**[^key-501ab9cfe9c4dd0d4b596949bb6a29ef] In section 41[^f00117] (appointment of inspectors of constabulary)—
+**21.**[^c-501ab9cfe9c4dd0d4b596949bb6a29ef] In section 41[^f00117] (appointment of inspectors of constabulary)—
 
 - (a) in subsection (1)—
   - (i) for “Secretary of State” substitute “Department of Justice”, and
@@ -114,7 +114,7 @@ Article 5
   >
   > and in paragraph (a) “excepted matter” and “reserved matter” have the meanings given by section 4 of the Northern Ireland Act 1998[^f00118].
 
-**22.**[^key-609c57c12d79f0b0a98596c72af0c53e] After section 41 insert—
+**22.**[^c-609c57c12d79f0b0a98596c72af0c53e] After section 41 insert—
 
 > **41A. Powers of Secretary of State in relation to reports and other duties of inspectors of constabulary**
 >
@@ -189,7 +189,7 @@ Article 5
 > - (c) the Secretary of State must inform the Department of Justice that the Secretary of State has taken action under paragraph (a); and
 > - (d) the Secretary of State must lay before Parliament a statement that the Secretary of State has taken action under paragraph (a).
 
-**23.**[^key-29f6c68ad198de97639db9fb73407b87] In section 42[^f00119] (publication of reports of inspectors of constabulary)—
+**23.**[^c-29f6c68ad198de97639db9fb73407b87] In section 42[^f00119] (publication of reports of inspectors of constabulary)—
 
 - (a) in subsection (1)—
   - (i) for “Secretary of State” substitute “Department of Justice”, and
@@ -207,7 +207,7 @@ Article 5
   > - (a) subsections (1) to (6) above apply as if references to the Department of Justice were references to the Secretary of State;
   > - (b) under subsection (2) above, the Secretary of State may also exclude from publication under subsection (1) any part of the report if, in the Secretary of State’s opinion, the publication of that part would be against the interests of national security.
 
-**24.**[^key-f35bfee39433d9eb61397c33c39251ad] In section 43 (criminal statistics)—
+**24.**[^c-f35bfee39433d9eb61397c33c39251ad] In section 43 (criminal statistics)—
 
 - (a) in subsection (1) for “Secretary of State” (wherever occurring) substitute “Department of Justice”; and
 - (b) in subsection (2)—
@@ -215,7 +215,7 @@ Article 5
   - (ii) for “him” substitute “it”, and
   - (iii) for “he” substitute “it”.
 
-**25.**[^key-4ad6c8e767295c4bb8fa894d8a337615] In section 45[^f00120] (research and advice)—
+**25.**[^c-4ad6c8e767295c4bb8fa894d8a337615] In section 45[^f00120] (research and advice)—
 
 - (a) in subsection (1)—
   - (i) for “Secretary of State” substitute “Department of Justice”, and
@@ -224,16 +224,16 @@ Article 5
   - (i) for “Secretary of State” substitute “Department of Justice”, and
   - (ii) for “him” (in both places) substitute “the Department of Justice”.
 
-**26.**[^key-3cc357773a1ce34500b0561f6f37dd1b] (1) In section 46[^f00121] (expenditure by Secretary of State for police purposes)—
+**26.**[^c-3cc357773a1ce34500b0561f6f37dd1b] (1) In section 46[^f00121] (expenditure by Secretary of State for police purposes)—
 
 - (a) for “Secretary of State” substitute “Department of Justice”, and
 - (b) for “he” substitute “the Department of Justice”.
 
 (2) In the heading for section 46 for “Secretary of State” substitute “Department of Justice”.
 
-**27.**[^key-9bd41fcfed03437ac12ef0afee11cfb8] In section 52[^f00122] (receipt and initial classification of complaints) in subsections (1)(b), (6) and (7) for “Secretary of State” substitute “Department of Justice”.
+**27.**[^c-9bd41fcfed03437ac12ef0afee11cfb8] In section 52[^f00122] (receipt and initial classification of complaints) in subsections (1)(b), (6) and (7) for “Secretary of State” substitute “Department of Justice”.
 
-**28.**[^key-3fe83d18666d8de5a2535ad54013508b] (1) Amend section 55[^f00123] (consideration of other matters by Police Ombudsman) as follows.
+**28.**[^c-3fe83d18666d8de5a2535ad54013508b] (1) Amend section 55[^f00123] (consideration of other matters by Police Ombudsman) as follows.
 
 (2) In subsections (1) and (7) after “Board” (wherever occurring) insert “, the Department of Justice”.
 
@@ -241,9 +241,9 @@ Article 5
 
 > (1A) The Secretary of State may refer a matter to the Ombudsman under subsection (1) only if it appears to the Secretary of State that the matter relates (in whole or in part) to an excepted matter or reserved matter (within the meaning given by section 4 of the Northern Ireland Act 1998[^f00124]).
 
-**29.**[^key-281e78f10cedf5d2daaab419a5dcb113] In section 56(2) (power to make provision in relation to investigations by the Police Ombudsman) for “Secretary of State” substitute “Department of Justice”.
+**29.**[^c-281e78f10cedf5d2daaab419a5dcb113] In section 56(2) (power to make provision in relation to investigations by the Police Ombudsman) for “Secretary of State” substitute “Department of Justice”.
 
-**30.**[^key-b424cc76c35579dd0ac06f1b52cd3952] (1) Amend section 60[^f00125] (constabularies not maintained by the Policing Board) as follows.
+**30.**[^c-b424cc76c35579dd0ac06f1b52cd3952] (1) Amend section 60[^f00125] (constabularies not maintained by the Policing Board) as follows.
 
 (2) In subsections (1), (2), (3) and (4) for “Secretary of State” substitute “Department of Justice”.
 
@@ -251,7 +251,7 @@ Article 5
 
 > (7) In the application of this section in relation to the Ministry of Defence Police, references to the Department of Justice are to be read as references to the Secretary of State.
 
-**31.**[^key-d813bd94207d6b02e0e2d589bf19283f] In section 60A[^f00126] (investigations into current police practices and policies)—
+**31.**[^c-d813bd94207d6b02e0e2d589bf19283f] In section 60A[^f00126] (investigations into current police practices and policies)—
 
 - (a) in subsection (3) for “Secretary of State” substitute “Department of Justice”;
 - (b) after subsection (3) insert—
@@ -268,7 +268,7 @@ Article 5
 
   > (6) The Ombudsman shall send a copy of his report to the Department of Justice, if the investigation relates wholly or in part to a matter in respect of which a function is conferred or imposed on the Department of Justice by or under a statutory provision.
 
-**32.**[^key-8edd6bdbfee206bcd0ec161b99f5668a] (1) Amend section 61[^f00127] (reports by Ombudsman) as follows.
+**32.**[^c-8edd6bdbfee206bcd0ec161b99f5668a] (1) Amend section 61[^f00127] (reports by Ombudsman) as follows.
 
 (2) In subsections (1) and (2)—
 
@@ -295,7 +295,7 @@ Article 5
 >
 > (5B) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00128] applies for the purposes of subsection (5A)(a) in relation to the laying of a copy of a report as it applies in relation to the laying of a statutory document under an enactment.
 
-**33.**[^key-dfcb75cedafe92b934178359f8523be1] (1) Amend section 63[^f00129] (restriction on disclosure of information) as follows.
+**33.**[^c-dfcb75cedafe92b934178359f8523be1] (1) Amend section 63[^f00129] (restriction on disclosure of information) as follows.
 
 (2) In subsection (1) for paragraph (b) substitute—
 
@@ -312,13 +312,13 @@ Article 5
 
 (4) In relation to information supplied to the Ombudsman before the coming into force of this Order, section 63(4)(b) (as inserted by sub-paragraph (3) above) has effect as if the reference to section 66(3)(b) of the 2000 Act were a reference to section 66(3)(b) before its substitution by paragraph 77(2) below.
 
-**34.**[^key-d524efb8d07fb063f51128dc6e9b6e21] (1) Amend section 64[^f00131] (regulations) as follows.
+**34.**[^c-d524efb8d07fb063f51128dc6e9b6e21] (1) Amend section 64[^f00131] (regulations) as follows.
 
 (2) In subsections (1), (2), (2A), (3) and (4) for “Secretary of State” substitute “Department of Justice”.
 
 (3) Omit subsection (2A)(d).
 
-**35.**[^key-295ae6fc2b1f25792c09d4965a6d2d0c] After section 64 insert—
+**35.**[^c-295ae6fc2b1f25792c09d4965a6d2d0c] After section 64 insert—
 
 > **64A. Secretary of State’s power to make regulations**
 >
@@ -340,7 +340,7 @@ Article 5
 >
 > (5) Regulations made by the Department of Justice under section 64 have effect subject to regulations made by the Secretary of State under this section.
 
-**36.**[^key-7d3581044a0f9e0ef2c4b0cc9a66f570] In section 65[^f00134] (guidance concerning discipline, complaints, etc.)—
+**36.**[^c-7d3581044a0f9e0ef2c4b0cc9a66f570] In section 65[^f00134] (guidance concerning discipline, complaints, etc.)—
 
 - (a) in subsections (1), (4) and (5) for “Secretary of State” substitute “Department of Justice”;
 - (b) after subsection (5) insert—
@@ -349,12 +349,12 @@ Article 5
   >
   > (7) Any guidance given by the Department of Justice to the Ombudsman under this section has effect subject to any guidance given by the Secretary of State under subsection (6).
 
-**37.**[^key-e51880d54244ce8bb23ef351d996a367] In section 66[^f00135] (assaults on constables)—
+**37.**[^c-e51880d54244ce8bb23ef351d996a367] In section 66[^f00135] (assaults on constables)—
 
 - (a) in subsection (6)(c) for “Secretary of State” substitute “Department of Justice”; and
 - (b) omit subsection (7).
 
-**38.**[^key-51f83a737e2cd1fc509d52c463bf46c4] (1) Amend section 72[^f00136] (orders and regulations) as follows.
+**38.**[^c-51f83a737e2cd1fc509d52c463bf46c4] (1) Amend section 72[^f00136] (orders and regulations) as follows.
 
 (2) In subsection (1) before “the Secretary of State” insert “the Department of Justice or”.
 
@@ -373,7 +373,7 @@ Article 5
 
   .
 
-**39.**[^key-22f2fb5a1c80ce2a93ddba9fb9d22e8b] (1) Amend Schedule 3[^f00139] (the Police Ombudsman for Northern Ireland) as follows.
+**39.**[^c-22f2fb5a1c80ce2a93ddba9fb9d22e8b] (1) Amend Schedule 3[^f00139] (the Police Ombudsman for Northern Ireland) as follows.
 
 (2) In paragraph 1 (the Ombudsman)—
 
@@ -429,40 +429,40 @@ Article 5
 
 ### Police (Northern Ireland) Act 2000
 
-**40.**[^key-09a04e921305db79dc1a161827522824] Amend the Police (Northern Ireland) Act 2000[^f00146] as follows.
+**40.**[^c-09a04e921305db79dc1a161827522824] Amend the Police (Northern Ireland) Act 2000[^f00146] as follows.
 
-**41.**[^key-ee891f5b0c1f1c5c159b213cc0faf1d8] In section 3(4)(c) (Policing Board to have regard to code of practice) for “Secretary of State” substitute “Department of Justice”.
+**41.**[^c-ee891f5b0c1f1c5c159b213cc0faf1d8] In section 3(4)(c) (Policing Board to have regard to code of practice) for “Secretary of State” substitute “Department of Justice”.
 
-**42.**[^key-04b76fdbd74a451f511527d6e60d0cf0] In section 4[^f00147] (police support staff)—
+**42.**[^c-04b76fdbd74a451f511527d6e60d0cf0] In section 4[^f00147] (police support staff)—
 
 - (a) in subsections (2)(a) and (b), (3), (3B) and (7) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (3B)(d) for “him” substitute “the Department of Justice”.
 
-**43.**[^key-538245c92a896364ef0d2309b5f4b260] In section 5 (power to transfer certain staff to employment of Policing Board) in subsections (1) and (5) for “Secretary of State” (wherever occurring) substitute “Department of Justice”.
+**43.**[^c-538245c92a896364ef0d2309b5f4b260] In section 5 (power to transfer certain staff to employment of Policing Board) in subsections (1) and (5) for “Secretary of State” (wherever occurring) substitute “Department of Justice”.
 
-**44.**[^key-ba0f5ef85913b0554b370f0f1fb5e7d5] In section 7 (acquisition and disposal of land by Policing Board)—
+**44.**[^c-ba0f5ef85913b0554b370f0f1fb5e7d5] In section 7 (acquisition and disposal of land by Policing Board)—
 
 - (a) in subsection (3) for “Secretary of State” (in both places) substitute “Department of Justice”; and
 - (b) in subsection (4)(b) for “Secretary of State” substitute “Department of Justice”.
 
-**45.**[^key-33c635025439065dd82a3065f8ce8064] In section 8(3) (consent to Policing Board providing advice and assistance to international organisations)—
+**45.**[^c-33c635025439065dd82a3065f8ce8064] In section 8(3) (consent to Policing Board providing advice and assistance to international organisations)—
 
 - (a) for “Secretary of State” substitute “Department of Justice”;
 - (b) for “him” substitute “the Department of Justice”.
 
-**46.**[^key-68eeeb76cff42984519607aa9f2586dc] In section 9[^f00148] (grants to, and borrowing by, the Policing Board)—
+**46.**[^c-68eeeb76cff42984519607aa9f2586dc] In section 9[^f00148] (grants to, and borrowing by, the Policing Board)—
 
 - (a) in subsections (1), (2) and (5), and
 - (b) in subsection (7) (in both places),
 
 for “Secretary of State” substitute “Department of Justice”.
 
-**47.**[^key-26932261571198389f756aec48c44880] In section 10[^f00149] (funding for police purposes – ancillary provisions)—
+**47.**[^c-26932261571198389f756aec48c44880] In section 10[^f00149] (funding for police purposes – ancillary provisions)—
 
 - (a) in subsections (1), (1A) and (4) for “Secretary of State” (wherever occurring) substitute “Department of Justice”; and
 - (b) in subsection (1A) for “he” substitute “the Department of Justice”.
 
-**48.**[^key-810ead7a279bc1b9fb08b58dc7d86f8a] (1) In section 12[^f00150] (accounts and audit)—
+**48.**[^c-810ead7a279bc1b9fb08b58dc7d86f8a] (1) In section 12[^f00150] (accounts and audit)—
 
 - (a) in subsections (3) and (4) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (5)—
@@ -477,7 +477,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
 (2) Sub-paragraph (1) above does not apply in relation to a financial year ending before the coming into force of this Order.
 
-**49.**[^key-ccbe06f9b2f1ba313506ed1bfd47c011] (1) Amend section 15 (default of council) as follows.
+**49.**[^c-ccbe06f9b2f1ba313506ed1bfd47c011] (1) Amend section 15 (default of council) as follows.
 
 (2) In subsection (1)—
 
@@ -489,7 +489,7 @@ for “Secretary of State” substitute “Department of Justice”.
 - (a) for “Secretary of State” substitute “Department of Justice”; and
 - (b) for “him” substitute “the Department of Justice”.
 
-**50.**[^key-e213d9ddd1b54b526fcd5bc8510b5a2e] (1) Amend section 15A[^f00152] (default of council: Belfast sub-groups) as follows.
+**50.**[^c-e213d9ddd1b54b526fcd5bc8510b5a2e] (1) Amend section 15A[^f00152] (default of council: Belfast sub-groups) as follows.
 
 (2) In subsection (1)—
 
@@ -501,9 +501,9 @@ for “Secretary of State” substitute “Department of Justice”.
 - (a) for “Secretary of State” substitute “Department of Justice”; and
 - (b) for “him” substitute “the Department of Justice”.
 
-**51.**[^key-7d4d2548968b3fa7c2432cd6762e2efd] In section 19(2) (agreement of Secretary of State to Board issuing code of practice for district policing partnerships) for “Secretary of State” substitute “Department of Justice”.
+**51.**[^c-7d4d2548968b3fa7c2432cd6762e2efd] In section 19(2) (agreement of Secretary of State to Board issuing code of practice for district policing partnerships) for “Secretary of State” substitute “Department of Justice”.
 
-**52.**[^key-3f6159a3b8f6772dd7fd9bf2660be206] (1) In section 24[^f00153] (Secretary of State’s long term policing objectives)—
+**52.**[^c-3f6159a3b8f6772dd7fd9bf2660be206] (1) In section 24[^f00153] (Secretary of State’s long term policing objectives)—
 
 - (a) in subsections (1), (2), (2A) (in both places) and (3) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (3) for “each House of Parliament” substitute “the Northern Ireland Assembly”; and
@@ -513,18 +513,18 @@ for “Secretary of State” substitute “Department of Justice”.
 
 (2) In the heading to section 24 for “Secretary of State’s” substitute “Department of Justice’s”.
 
-**53.**[^key-2c9f76da9d78da459bdd3556d74b5b64] In section 26 (Policing Board’s policing plan) in subsections (2)(b), (3) and (6) for “Secretary of State” substitute “Department of Justice”.
+**53.**[^c-2c9f76da9d78da459bdd3556d74b5b64] In section 26 (Policing Board’s policing plan) in subsections (2)(b), (3) and (6) for “Secretary of State” substitute “Department of Justice”.
 
-**54.**[^key-471412123976419cd891cbcb2b064974] In section 27[^f00155] (codes of practice on exercise of functions by Policing Board and Chief Constable)—
+**54.**[^c-471412123976419cd891cbcb2b064974] In section 27[^f00155] (codes of practice on exercise of functions by Policing Board and Chief Constable)—
 
 - (a) in subsections (1), (2) and (2A) (in both places) for “Secretary of State” substitute “Department of Justice”; and
 - (b) in subsection (3)—
   - (i) for “Secretary of State” substitute “Department of Justice”; and
   - (ii) for “he” substitute “the Department of Justice”.
 
-**55.**[^key-2d415dcbe3a488f421a589704968607f] In section 28(6)[^f00156] (consultation on performance plan and performance summary) for “Secretary of State” substitute “Department of Justice”.
+**55.**[^c-2d415dcbe3a488f421a589704968607f] In section 28(6)[^f00156] (consultation on performance plan and performance summary) for “Secretary of State” substitute “Department of Justice”.
 
-**56.**[^key-d1b27dd6177fa5fca4b59b9a1e8a570b] (1) In section 29[^f00157] (audit of performance plans and performance summaries)—
+**56.**[^c-d1b27dd6177fa5fca4b59b9a1e8a570b] (1) In section 29[^f00157] (audit of performance plans and performance summaries)—
 
 - (a) in subsection (1) after “General” insert “for Northern Ireland”;
 - (b) for subsection (3) substitute—
@@ -548,7 +548,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
 (2) Sub-paragraph (1) above does not apply in relation to a performance plan or a performance summary for a financial year ending before the coming into force of this Order.
 
-**57.**[^key-1c3c5b6066e63ca94fe879e10d4b8381] (1) Amend section 30 (examinations of the Policing Board’s compliance with section 28) as follows.
+**57.**[^c-1c3c5b6066e63ca94fe879e10d4b8381] (1) Amend section 30 (examinations of the Policing Board’s compliance with section 28) as follows.
 
 (2) In subsection (1) after “General” insert “for Northern Ireland”.
 
@@ -587,7 +587,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
 > (8A) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00160] applies for the purposes of subsection (8) in relation to the laying of a copy of a report as it applies in relation to the laying of a statutory document under an enactment.
 
-**58.**[^key-7977e4aa74bb86a7146296ae5890fdf4] (1) In section 31[^f00161] (enforcement of duties under section 28)—
+**58.**[^c-7977e4aa74bb86a7146296ae5890fdf4] (1) In section 31[^f00161] (enforcement of duties under section 28)—
 
 - (a) in subsection (1)—
   - (i) for “Secretary of State” substitute “Department of Justice”; and
@@ -600,7 +600,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
 (2) Sub-paragraph (1) above does not apply in the case of a report under section 29(4) or (4A) relating to a performance plan or a performance summary mentioned in paragraph 56(2) above.
 
-**59.**[^key-2c1558c9b3a955fd42a375069e5e405a] (1) Amend section 33A[^f00162] (provision of information to Policing Board) as follows.
+**59.**[^c-2c1558c9b3a955fd42a375069e5e405a] (1) Amend section 33A[^f00162] (provision of information to Policing Board) as follows.
 
 (2) For subsections (3) and (4) substitute—
 
@@ -621,9 +621,9 @@ for “Secretary of State” substitute “Department of Justice”.
 > - (a) must inform the Minister of Justice that the information has been supplied to the Board, and
 > - (b) must inform the Minister of Justice and the Board that, in his opinion, the information is information of a kind mentioned in paragraph (a) or (b) of subsection (5).
 
-**60.**[^key-3e641ddf164f79ba08e94f466f0d2c59] In section 34(2) (deputy Chief Constable) for “Secretary of State” substitute “Department of Justice”.
+**60.**[^c-3e641ddf164f79ba08e94f466f0d2c59] In section 34(2) (deputy Chief Constable) for “Secretary of State” substitute “Department of Justice”.
 
-**61.**[^key-e0a85a6c9c96c951649d1c3c1959cbd7] In section 35 (appointment and removal of senior officers)—
+**61.**[^c-e0a85a6c9c96c951649d1c3c1959cbd7] In section 35 (appointment and removal of senior officers)—
 
 - (a) in subsection (1) for “Secretary of State” substitute “Minister of Justice”;
 - (b) in subsection (2) for “Secretary of State” substitute “Minister of Justice”;
@@ -632,43 +632,43 @@ for “Secretary of State” substitute “Department of Justice”.
 - (e) in subsection (7) for “Secretary of State” substitute “Department of Justice”; and
 - (f) in subsection (8)(a) for “Secretary of State” substitute “Minister of Justice”.
 
-**62.**[^key-48603171ae87a15019d2222f67925755] In section 36A[^f00163] (fixed-term appointments)—
+**62.**[^c-48603171ae87a15019d2222f67925755] In section 36A[^f00163] (fixed-term appointments)—
 
 - (a) in subsection (4)—
   - (i) for “Secretary of State” substitute “Department of Justice”;
   - (ii) for “he” substitute “it”; and
 - (b) in subsection (5) for “Secretary of State” substitute “Department of Justice”.
 
-**63.**[^key-9434034c585a2da503941e96a576a5b9] In section 41[^f00164] (status etc. of trainees)—
+**63.**[^c-9434034c585a2da503941e96a576a5b9] In section 41[^f00164] (status etc. of trainees)—
 
 - (a) in subsection (3) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (5)(a) for “Secretary of State” substitute “Department of Justice”; and
 - (c) in subsection (6) for “Secretary of State” substitute “Department of Justice”.
 
-**64.**[^key-53be281e76d31167c692724c4a6533b9] In section 42(2) (police cadets) for “Secretary of State” substitute “Department of Justice”.
+**64.**[^c-53be281e76d31167c692724c4a6533b9] In section 42(2) (police cadets) for “Secretary of State” substitute “Department of Justice”.
 
-**65.**[^key-0b2a6568da5c09def4486f4b2bba5331] In section 43 (contracting-out of certain recruitment functions of Chief Constable)—
+**65.**[^c-0b2a6568da5c09def4486f4b2bba5331] In section 43 (contracting-out of certain recruitment functions of Chief Constable)—
 
 - (a) in subsection (1) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (2) for “Secretary of State” substitute “Department of Justice”; and
 - (c) in subsection (3)(b) for “Secretary of State” substitute “Department of Justice”.
 
-**66.**[^key-2e74a3c3c937eb2927224d6875c8115f] In section 44[^f00165] (recruitment arrangements: trainees and support staff)—
+**66.**[^c-2e74a3c3c937eb2927224d6875c8115f] In section 44[^f00165] (recruitment arrangements: trainees and support staff)—
 
 - (a) in subsection (1) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (2) for “Secretary of State” substitute “Department of Justice”; and
 - (c) in subsection (4) for “Secretary of State” substitute “Department of Justice”.
 
-**67.**[^key-8805c6e6d214bcc5d5bdc835bab71bfe] In section 48(4)(c) (action plans) for “Secretary of State” substitute “Department of Justice”.
+**67.**[^c-8805c6e6d214bcc5d5bdc835bab71bfe] In section 48(4)(c) (action plans) for “Secretary of State” substitute “Department of Justice”.
 
-**68.**[^key-d3f14963fba09bebb2c2d10d7dc2a2db] In section 51(3)(b) (notifiable memberships) for “Secretary of State” substitute “Department of Justice”.
+**68.**[^c-d3f14963fba09bebb2c2d10d7dc2a2db] In section 51(3)(b) (notifiable memberships) for “Secretary of State” substitute “Department of Justice”.
 
-**69.**[^key-e232ab8ba8e36e975589a0290bda0ded] In section 52[^f00166] (code of ethics)—
+**69.**[^c-e232ab8ba8e36e975589a0290bda0ded] In section 52[^f00166] (code of ethics)—
 
 - (a) in subsection (5)(b) for “Secretary of State” substitute “Department of Justice”; and
 - (b) in subsection (10) for “Secretary of State” substitute “Department of Justice”.
 
-**70.**[^key-bb563ac90004c604f76c84ab1dda7f7d] In section 53 (guidance as to use of equipment for maintaining or restoring public order)—
+**70.**[^c-bb563ac90004c604f76c84ab1dda7f7d] In section 53 (guidance as to use of equipment for maintaining or restoring public order)—
 
 - (a) in subsection (1) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (2) for “Secretary of State” substitute “Department of Justice”; and
@@ -676,14 +676,14 @@ for “Secretary of State” substitute “Department of Justice”.
   - (i) for “Secretary of State” substitute “Department of Justice”, and
   - (ii) for “he” substitute “it”.
 
-**71.**[^key-1b92d322c33b46880bd549e9e6acc004] In section 54 (regulations as to emblems and flags)—
+**71.**[^c-1b92d322c33b46880bd549e9e6acc004] In section 54 (regulations as to emblems and flags)—
 
 - (a) in subsection (1) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (2) for “Secretary of State” substitute “Department of Justice”;
 - (c) in subsection (3) for “Secretary of State” substitute “Department of Justice”; and
 - (d) in subsection (3)(d) for “him” substitute “the Department of Justice”.
 
-**72.**[^key-88033bc6b40be7e32dd4fc876ec8bece] In section 57[^f00167] (annual and other reports by the Policing Board)—
+**72.**[^c-88033bc6b40be7e32dd4fc876ec8bece] In section 57[^f00167] (annual and other reports by the Policing Board)—
 
 - (a) in subsection (3)(b) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (4) for “Secretary of State” (in each place) substitute “Department of Justice”;
@@ -692,7 +692,7 @@ for “Secretary of State” substitute “Department of Justice”.
   - (i) for “Secretary of State” substitute “Department of Justice”; and
   - (ii) for “him” substitute “the Department of Justice”.
 
-**73.**[^key-5928d9977620703fb74f394e86aa679f] In section 58 (annual report by Chief Constable to Policing Board)—
+**73.**[^c-5928d9977620703fb74f394e86aa679f] In section 58 (annual report by Chief Constable to Policing Board)—
 
 - (a) in subsection (3) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (4)—
@@ -703,7 +703,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
   > (5) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00168] applies for the purposes of subsection (4) in relation to the laying of a report as it applies in relation to the laying of a statutory document under an enactment.
 
-**74.**[^key-e856511c5e3be262c4d41930f77e385c] (1) Amend section 59[^f00169] (general duty of Chief Constable to report to Policing Board) as follows.
+**74.**[^c-e856511c5e3be262c4d41930f77e385c] (1) Amend section 59[^f00169] (general duty of Chief Constable to report to Policing Board) as follows.
 
 (2) In subsection (3) for “any of the grounds mentioned in section 76A(1)” substitute “the ground mentioned in section 76A(1)(a)”.
 
@@ -757,7 +757,7 @@ for “Secretary of State” substitute “Department of Justice”.
 > - (a) inform the Minister of Justice that the information has been included in a report to the Board or supplied to the committee; and
 > - (b) inform the Minister of Justice and the recipient of the information that, in his opinion, the information is information of a kind mentioned in sub-paragraph (i) or (ii) of paragraph (a) or (b) of subsection (4J).
 
-**75.**[^key-7c1457d8bdaaf76109ec76a6a493327b] (1) Amend section 60[^f00170] (inquiry by Policing Board following report by Chief Constable) as follows.
+**75.**[^c-7c1457d8bdaaf76109ec76a6a493327b] (1) Amend section 60[^f00170] (inquiry by Policing Board following report by Chief Constable) as follows.
 
 (2) In subsection (2)—
 
@@ -813,7 +813,7 @@ for “Secretary of State” substitute “Department of Justice”.
 > - (c) the Minister of Justice; and
 > - (d) the Secretary of State, but only if the decision to cause the inquiry to be held was notified to the Secretary of State under subsection (2A) or if subsection (10A) applied in relation to the inquiry.
 
-**76.**[^key-9fec322b1635e15634e68f2f16375a5b] (1) Amend section 61 (reports by Chief Constable to Secretary of State) as follows.
+**76.**[^c-9fec322b1635e15634e68f2f16375a5b] (1) Amend section 61 (reports by Chief Constable to Secretary of State) as follows.
 
 (2) In subsections (1), (2) and (3) for “Secretary of State” (wherever occurring) substitute “appropriate authority”.
 
@@ -873,7 +873,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
 (5) In the heading to section 61 after “Secretary of State” insert “and Minister of Justice”.
 
-**77.**[^key-608169d9434133d7e646eadbaeb0444f] (1) Amend section 66[^f00172] (access by Ombudsman to information and documents) as follows.
+**77.**[^c-608169d9434133d7e646eadbaeb0444f] (1) Amend section 66[^f00172] (access by Ombudsman to information and documents) as follows.
 
 (2) For subsections (2) to (4) substitute—
 
@@ -899,7 +899,7 @@ for “Secretary of State” substitute “Department of Justice”.
 > - (a) inform the Minister of Justice that the information has been supplied to the Ombudsman; and
 > - (b) inform the Minister of Justice and the Ombudsman that, in his or its opinion, the information is information of a kind mentioned in sub-paragraph (i) or (ii) of paragraph (b) of subsection (4).
 
-**78.**[^key-a06470b96c9a76bd2409a7ef294b43c6] (1) Amend section 69 (general duty of Secretary of State) as follows.
+**78.**[^c-a06470b96c9a76bd2409a7ef294b43c6] (1) Amend section 69 (general duty of Secretary of State) as follows.
 
 (2) In subsection (1) for “The Secretary of State shall exercise his functions under the Police Acts” substitute “A Minister with functions under the Police Acts shall exercise those functions”.
 
@@ -917,15 +917,15 @@ for “Secretary of State” substitute “Department of Justice”.
 
 (5) In the heading for section 69 for “Secretary of State” substitute “Ministers”.
 
-**79.**[^key-27a8ff1f739c6780a60b08f9faef96a0] In section 70 (RUC George Cross Foundation)—
+**79.**[^c-27a8ff1f739c6780a60b08f9faef96a0] In section 70 (RUC George Cross Foundation)—
 
 - (a) in subsection (1) for “Secretary of State” substitute “Department of Justice”;
 - (b) in subsection (2)(f) for “Secretary of State” substitute “Department of Justice”; and
 - (c) in subsection (3) for “Secretary of State” substitute “Department of Justice”.
 
-**80.**[^key-86a05f2baece171a9a5e371d04b3117b] In section 71(1) (traffic wardens) for “Secretary of State” substitute “Department of Justice”.
+**80.**[^c-86a05f2baece171a9a5e371d04b3117b] In section 71(1) (traffic wardens) for “Secretary of State” substitute “Department of Justice”.
 
-**81.**[^key-fe024ed88d469763f13e54b66176cce2] In section 73 (places of detention: lay visitors)—
+**81.**[^c-fe024ed88d469763f13e54b66176cce2] In section 73 (places of detention: lay visitors)—
 
 - (a) in subsection (3)(c) for “Secretary of State” substitute “Department of Justice”; and
 - (b) for subsection (10) substitute—
@@ -935,7 +935,7 @@ for “Secretary of State” substitute “Department of Justice”.
   > - (a) the Secretary of State may by order specify as a designated place of detention a part of any police station if that part is for the time being designated for the purposes of paragraph 1 of Schedule 8 to the Terrorism Act 2000[^f00173]; and
   > - (b) the Department of Justice may by order specify as a designated place of detention any other place which is designated under any enactment as a place in which persons may be detained.
 
-**82.**[^key-2bcacfb21811860b6bb6e3a1a7dfa95c] (1) Amend section 74A[^f00174] (restriction on disclosure of information) as follows.
+**82.**[^c-2bcacfb21811860b6bb6e3a1a7dfa95c] (1) Amend section 74A[^f00174] (restriction on disclosure of information) as follows.
 
 (2) For subsection (2)(c) substitute—
 
@@ -976,7 +976,7 @@ for “Secretary of State” substitute “Department of Justice”.
 
 that, in his opinion, the information is information which ought not to be disclosed on the ground mentioned in section 76A(1)(a) of the Police (Northern Ireland) Act 2000[^f00175].
 
-**83.**[^key-8c195ad3c67db699acbb9d8d2bbd642b] In section 76[^f00176] (orders and regulations)—
+**83.**[^c-8c195ad3c67db699acbb9d8d2bbd642b] In section 76[^f00176] (orders and regulations)—
 
 - (a) in subsection (1) after “Secretary of State” insert “, the Minister of Justice or the Department of Justice”;
 - (b) in subsection (2)—
@@ -996,13 +996,13 @@ that, in his opinion, the information is information which ought not to be discl
 
   > (6) An order or regulations made by the Minister of Justice or the Department of Justice under this Act (other than regulations under section 54) shall be subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
 
-**84.**[^key-8fe8d0e4a2de37a8d377e42456fe8cc4] In section 76A(1)[^f00178] (disclosure of information and holding of inquiries) after “59” insert “, 60, 61”.
+**84.**[^c-8fe8d0e4a2de37a8d377e42456fe8cc4] In section 76A(1)[^f00178] (disclosure of information and holding of inquiries) after “59” insert “, 60, 61”.
 
-**85.**[^key-3c99a02596f2629ee0ec3098a0fcdbed] In section 77(1)[^f00179] (interpretation), at the appropriate place, insert—
+**85.**[^c-3c99a02596f2629ee0ec3098a0fcdbed] In section 77(1)[^f00179] (interpretation), at the appropriate place, insert—
 
 - “the Minister of Justice” means the Minister in charge of the Department of Justice;”.
 
-**86.**[^key-adaac86dfc1920b7c5c3baeb9fdeccb4] (1) Amend Schedule 1[^f00180] (the Northern Ireland Policing Board) as follows.
+**86.**[^c-adaac86dfc1920b7c5c3baeb9fdeccb4] (1) Amend Schedule 1[^f00180] (the Northern Ireland Policing Board) as follows.
 
 (2) In paragraphs 6(1)(b), 7(3), (4) and (13), 8(1), (2), (3) and (8), 9(1) and (2) and 12 for “Secretary of State” (wherever occurring) substitute “Minister of Justice”.
 
@@ -1042,9 +1042,9 @@ that, in his opinion, the information is information which ought not to be discl
 
 (10) In paragraph 24(1A)(b) after “Secretary of State” insert “or the Minister of Justice”.
 
-**87.**[^key-ddbab92aa17be29c9e556ed5e566ccf2] In paragraph 3(3) of Schedule 2 (transfer of assets and liabilities to the Policing Board) for “Secretary of State” substitute “Department of Justice”.
+**87.**[^c-ddbab92aa17be29c9e556ed5e566ccf2] In paragraph 3(3) of Schedule 2 (transfer of assets and liabilities to the Policing Board) for “Secretary of State” substitute “Department of Justice”.
 
-**88.**[^key-c215f67cd4f3b1c1f5bb6cbf8b7992be] (1) Amend Schedule 3[^f00181] (district policing partnerships) as follows.
+**88.**[^c-c215f67cd4f3b1c1f5bb6cbf8b7992be] (1) Amend Schedule 3[^f00181] (district policing partnerships) as follows.
 
 (2) In paragraph 6—
 
@@ -1062,7 +1062,7 @@ that, in his opinion, the information is information which ought not to be discl
 - (b) in sub-paragraph (2)(a) and (b) for “Secretary of State” substitute “Department of Justice”;
 - (c) in sub-paragraph (3) for “Secretary of State” substitute “Department of Justice”.
 
-**89.**[^key-3bc0fb7ae12da12f42fbaad09fbf89d1] (1) Amend Schedule 3A[^f00182] (Belfast sub-groups) as follows.
+**89.**[^c-3bc0fb7ae12da12f42fbaad09fbf89d1] (1) Amend Schedule 3A[^f00182] (Belfast sub-groups) as follows.
 
 (2) In paragraph 6—
 
@@ -1076,7 +1076,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 ### Royal Ulster Constabulary (Complaints etc.) Regulations 2000
 
-**90.**[^key-28ec0da757e0043a19be58b1ebb6c02d] (1) Amend the Royal Ulster Constabulary (Complaints etc.) Regulations 2000[^f00183] as follows.
+**90.**[^c-28ec0da757e0043a19be58b1ebb6c02d] (1) Amend the Royal Ulster Constabulary (Complaints etc.) Regulations 2000[^f00183] as follows.
 
 (2) In regulation 20(ii) (supply of report on the investigation of matters not the subject of a complaint) for “Secretary of State” substitute “Department of Justice”.
 
@@ -1092,7 +1092,7 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > (2) In a case where, for the purposes of regulation 21(2)(b) above, the Ombudsman is of the opinion that compliance with the request would be contrary to the public interest on the ground of national security (or on grounds including national security), in regulation 21(2)(b) above the reference to the Department of Justice is to be read as a reference to the Secretary of State.
 
-**91.**[^key-88f1b2d0b711ed1fe7decbcb393bcaba] (1) Regulations 1 to 30 of the Royal Ulster Constabulary (Complaints etc.) Regulations 2000 (as amended by paragraph 90(2) to (4) above) continue in effect as if made by the Department of Justice under section 64 of the Police (Northern Ireland) Act 1998[^f00186].
+**91.**[^c-88f1b2d0b711ed1fe7decbcb393bcaba] (1) Regulations 1 to 30 of the Royal Ulster Constabulary (Complaints etc.) Regulations 2000 (as amended by paragraph 90(2) to (4) above) continue in effect as if made by the Department of Justice under section 64 of the Police (Northern Ireland) Act 1998[^f00186].
 
 (2) Regulation 31 of those Regulations (as inserted by paragraph 90(5) above) has effect as if made by the Secretary of State under section 64A of the 1998 Act (as inserted by paragraph 35 above).
 
@@ -1100,7 +1100,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 ### Royal Ulster Constabulary GC Regulations 2002
 
-**92.**[^key-948bfa8becc9ed348768cd8ef45e565c] (1) Amend the Royal Ulster Constabulary GC Regulations 2002[^f00187] as follows.
+**92.**[^c-948bfa8becc9ed348768cd8ef45e565c] (1) Amend the Royal Ulster Constabulary GC Regulations 2002[^f00187] as follows.
 
 (2) In regulations 11 and 11A, wherever occurring—
 
@@ -1113,7 +1113,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 ### Police (Northern Ireland) Act 2003
 
-**93.**[^key-4ab93daf6148e2de600afbb819260da3] (1) Amend the Police (Northern Ireland) Act 2003[^f00188] as follows.
+**93.**[^c-4ab93daf6148e2de600afbb819260da3] (1) Amend the Police (Northern Ireland) Act 2003[^f00188] as follows.
 
 (2) In section 34[^f00189] (complaints and misconduct)—
 
@@ -1147,9 +1147,9 @@ that, in his opinion, the information is information which ought not to be discl
 
 ### Civil Contingencies Act 2004
 
-**94.**[^key-25f3b1232056971b7f9cab49276c28bf]  Amend the Civil Contingencies Act 2004[^f00193] as follows.
+**94.**[^c-25f3b1232056971b7f9cab49276c28bf]  Amend the Civil Contingencies Act 2004[^f00193] as follows.
 
-**95.**[^key-1a389365639c67b36945a0d417430a99] (1) Amend section 1 (meaning of “emergency”) as follows.
+**95.**[^c-1a389365639c67b36945a0d417430a99] (1) Amend section 1 (meaning of “emergency”) as follows.
 
 (2) After subsection (4) insert—
 
@@ -1160,7 +1160,7 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown).
 
-**96.**[^key-5286977b49bf69c29ba4ab015a8b6769] (1) Amend section 2 (duty to assess, plan and advise) as follows.
+**96.**[^c-5286977b49bf69c29ba4ab015a8b6769] (1) Amend section 2 (duty to assess, plan and advise) as follows.
 
 (2) After subsection (6) insert—
 
@@ -1173,13 +1173,13 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > (9) In relation to emergencies that do not fall within section 1(1)(c), a Minister of the Crown has no power by virtue of subsection (5)(h) or (i) to make provision permitting or requiring the Chief Constable (PSNI) to co-operate with, or provide information to, a person or body listed in Part 1 of Schedule 1.
 
-**97.**[^key-d22f5083883b4dee419f51c15028baaa] (1) Amend section 3 (section 2: supplemental) as follows.
+**97.**[^c-d22f5083883b4dee419f51c15028baaa] (1) Amend section 3 (section 2: supplemental) as follows.
 
 (2) After subsection (5) insert—
 
 > (6) In relation to emergencies that do not fall within section 1(1)(c), the power under subsection (1) to issue guidance to the Chief Constable (PSNI) is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown).
 
-**98.**[^key-fe9f525480449d864e97499859fe246f] (1) Amend section 5 (general measures) as follows.
+**98.**[^c-fe9f525480449d864e97499859fe246f] (1) Amend section 5 (general measures) as follows.
 
 (2) After subsection (5) insert—
 
@@ -1192,7 +1192,7 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > (8) In relation to emergencies that do not fall within section 1(1)(c), a Minister of the Crown has no power by virtue of subsection (4)(d) or (e) to make provision permitting or requiring the Chief Constable (PSNI) to co-operate with, or provide information to, a person or body listed in Part 1 of Schedule 1.
 
-**99.**[^key-e502e65081918ca3250c2267faada1ab] (1) Amend section 6 (disclosure of information) as follows.
+**99.**[^c-e502e65081918ca3250c2267faada1ab] (1) Amend section 6 (disclosure of information) as follows.
 
 (2) After subsection (6) insert—
 
@@ -1201,7 +1201,7 @@ that, in his opinion, the information is information which ought not to be discl
 > - (a) the power under subsection (1) to make regulations requiring or permitting the Chief Constable (PSNI) to disclose information to another person or body listed in any Part of Schedule 1;
 > - (b) the power under subsection (4) to issue guidance to the Chief Constable (PSNI).
 
-**100.**[^key-ced7ddb91f557f9596529de114d2cb1c] (1) Amend section 7 (urgency) as follows.
+**100.**[^c-ced7ddb91f557f9596529de114d2cb1c] (1) Amend section 7 (urgency) as follows.
 
 (2) After subsection (4) insert—
 
@@ -1209,7 +1209,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 (3) At the end of subsection (5) insert “made by the Minister or the Department of Justice (as the case may be)”.
 
-**101.**[^key-b3e2502887e1eb8c0bc4d407c3a1cc09] (1) Amend section 9 (monitoring by Government) as follows.
+**101.**[^c-b3e2502887e1eb8c0bc4d407c3a1cc09] (1) Amend section 9 (monitoring by Government) as follows.
 
 (2) After subsection (4) insert—
 
@@ -1221,7 +1221,7 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > (8) “National security information” means information the disclosure of which to the public would, or would be likely to, adversely affect national security.
 
-**102.**[^key-33ddeb5e1e902c533d1f275dca61879b] (1) Amend section 10 (enforcement) as follows.
+**102.**[^c-33ddeb5e1e902c533d1f275dca61879b] (1) Amend section 10 (enforcement) as follows.
 
 (2) In subsection (1) for “or 15(7)” substitute “, 15(7) or 15A(8)”.
 
@@ -1229,7 +1229,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 > (3) In relation to emergencies that do not fall within section 1(1)(c), the power under subsection (1)(a) to bring proceedings in respect of a failure by the Chief Constable (PSNI) is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown).
 
-**103.**[^key-eb6f04b37cf772046978d43dc7126b72] After section 12 insert—
+**103.**[^c-eb6f04b37cf772046978d43dc7126b72] After section 12 insert—
 
 > **12A. Northern Ireland: provision or disclosure of national security information**
 >
@@ -1246,13 +1246,13 @@ that, in his opinion, the information is information which ought not to be discl
 > - (c) provide that such a certificate may identify the information to which it applies by means of a general description and may be expressed to apply to information within that description that comes into existence after the certificate is made;
 > - (d) confer other functions on a Minister of the Crown or any other specified person or body (and a function conferred may, in particular, be a power or duty to exercise a discretion).
 
-**104.**[^key-43f60d958ceceda3e00584a8a122f39f] (1) Amend section 13 (amendment of lists of responders) as follows.
+**104.**[^c-43f60d958ceceda3e00584a8a122f39f] (1) Amend section 13 (amendment of lists of responders) as follows.
 
 (2) After subsection (3) insert—
 
 > (4) In relation to emergencies that do not fall within section 1(1)(c), the power under subsection (1) to make provision in relation to the Chief Constable (PSNI) is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown).
 
-**105.**[^key-c4b393a4a6471788376e8d33b50f6ab4] After section 14 insert—
+**105.**[^c-c4b393a4a6471788376e8d33b50f6ab4] After section 14 insert—
 
 > **14A. Northern Ireland: consultation**
 >
@@ -1260,11 +1260,11 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > (2) The Department of Justice must consult a Minister of the Crown before making regulations or an order under this Part.
 
-**106.**[^key-0f5d6cec548ca361e97c566cf023dbab] (1) Amend section 15 (cross-border collaboration) as follows.
+**106.**[^c-0f5d6cec548ca361e97c566cf023dbab] (1) Amend section 15 (cross-border collaboration) as follows.
 
 (2) In subsection (5) for “a Minister of the Crown makes an order” substitute “an order is made”.
 
-**107.**[^key-5e3f05ff2e996460132722a71a037957] After section 15 insert—
+**107.**[^c-5e3f05ff2e996460132722a71a037957] After section 15 insert—
 
 > **15A. Northern Ireland: cross-border collaboration**
 >
@@ -1301,7 +1301,7 @@ that, in his opinion, the information is information which ought not to be discl
 >
 > (9) In this Act, except where the contrary intention appears, a reference to an order under section 5(1) includes a reference to an order under subsection (4) or (7) above.
 
-**108.**[^key-f1d2b768e7040e0ff1e8a8c6f29d64f4] (1) Amend section 17 (regulations and orders) as follows.
+**108.**[^c-f1d2b768e7040e0ff1e8a8c6f29d64f4] (1) Amend section 17 (regulations and orders) as follows.
 
 (2) In subsection (1) after “made” insert “by a Minister of the Crown or the Scottish Ministers”.
 
@@ -1319,13 +1319,13 @@ that, in his opinion, the information is information which ought not to be discl
 
 > (5A) Regulations made by the Department of Justice in Northern Ireland under this Part are subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
 
-**109.**[^key-bf1da3a2f6cdd013ba229ce53ccebcb1] In section 18(1) (interpretation), at the appropriate place, insert—
+**109.**[^c-bf1da3a2f6cdd013ba229ce53ccebcb1] In section 18(1) (interpretation), at the appropriate place, insert—
 
 > - Chief Constable (PSNI)” means the Chief Constable of the Police Service of Northern Ireland,
 
 .
 
-**110.**[^key-36e9d6b1406c2b661627ca9b99a94e3d] (1) Subject to what follows, the Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005[^f00196] continue in effect ignoring paragraphs 94 to 109 above.
+**110.**[^c-36e9d6b1406c2b661627ca9b99a94e3d] (1) Subject to what follows, the Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005[^f00196] continue in effect ignoring paragraphs 94 to 109 above.
 
 (2) The regulations that may be made by a Minister of the Crown in the exercise of a relevant power after the coming into force of this Order include regulations revoking, modifying or otherwise affecting any provision of the 2005 Regulations (so long as the regulations revoking, modifying or otherwise affecting any such provision are within the scope of the Minister’s power as modified or conferred by virtue of paragraphs 94 to 109 above).
 
@@ -1350,7 +1350,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 ### Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008
 
-**111.**[^key-3ae68a0a24736c5e3566a7cee7b3a51d] (1) Amend the Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008[^f00198] as follows.
+**111.**[^c-3ae68a0a24736c5e3566a7cee7b3a51d] (1) Amend the Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008[^f00198] as follows.
 
 (2) In regulation 4(4) (modification of section 65 of the 1998 Act) for “Secretary of State” substitute “Department of Justice”.
 
@@ -1370,7 +1370,7 @@ that, in his opinion, the information is information which ought not to be discl
 > - 2. In a case where, for the purposes of regulation 8(5)(c) above, the Ombudsman is of the opinion that compliance with the request would be contrary to the public interest on the ground of national security (or on grounds including national security), in regulation 8(5)(c) above the reference to the Department of Justice is to be read as a reference to the Secretary of State.
 > - 3. At the end of an investigation of a matter investigated under section 55 of the 1998 Act concerning the relevant conduct of a designated person, the Ombudsman shall send a copy of the report on the investigation to the Secretary of State if the report relates wholly or in part to an excepted matter (within the meaning given by section 4 of the Northern Ireland Act 1998[^f00199]), a reserved matter (within the meaning given by that section) or a matter in respect of which a function is conferred or imposed on the Secretary of State by or under a statutory provision.
 
-**112.**[^key-e4d8a882f07973d89f22d95c350d3d32] (1) Parts 1 to 7 of the Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008 (as amended by paragraph 111(2) to (6) above) continue in effect as if made by the Department of Justice under section 34 of the Police (Northern Ireland) Act 2003[^f00200].
+**112.**[^c-e4d8a882f07973d89f22d95c350d3d32] (1) Parts 1 to 7 of the Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008 (as amended by paragraph 111(2) to (6) above) continue in effect as if made by the Department of Justice under section 34 of the Police (Northern Ireland) Act 2003[^f00200].
 
 (2) Part 8 of those Regulations (as inserted by paragraph 111(7) above) has effect as if made by the Secretary of State under section 34A of the 2003 Act (as inserted by paragraph 93(3) above).
 
@@ -1378,133 +1378,133 @@ that, in his opinion, the information is information which ought not to be discl
 
 ## Annotations
 
-[^key-2eccd7f3ec4559161c4d73555aa66ba6]: Commencement: Sch. 3 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2eccd7f3ec4559161c4d73555aa66ba6]: Commencement: Sch. 3 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00104]: Footnote: [S.I. 1987/463 (N.I. 7)](https://www.legislation.gov.uk/nisi/1987/463), amended by the Public Processions (Northern Ireland) Act [1998 (c. 2)](https://www.legislation.gov.uk/ukpga/1998/2), Schedule 3, paragraph 3; the Anti-Terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24), sections 95-97; and by [S.I. 2005/857 (N.I. 2)](https://www.legislation.gov.uk/nisi/2005/857).
 
-[^key-97e3e494ab019b527860803d67b1ca90]: Commencement: Sch. 3 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-97e3e494ab019b527860803d67b1ca90]: Commencement: Sch. 3 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-0094ab097ee44dfb357a967eeb5e7984]: Commencement: Sch. 3 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-0094ab097ee44dfb357a967eeb5e7984]: Commencement: Sch. 3 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-1945e6e79aec9fade2248967842f2f04]: Commencement: Sch. 3 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1945e6e79aec9fade2248967842f2f04]: Commencement: Sch. 3 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^M_F_f9c23162-f5b3-48f0-b5ee-6126a08caed3]: Textual amendment: Sch. 3 paras. 5-7 revoked (1.9.2014) by [Anti-Social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(f)(vi)(cc)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/vi/cc)
 
-[^key-b365c9cf8d9168f194609c7efbc737f5]: Commencement: Sch. 3 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b365c9cf8d9168f194609c7efbc737f5]: Commencement: Sch. 3 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00109]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32).
 
-[^key-4ed336fcb67ab8dda324550979635e5d]: Commencement: Sch. 3 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4ed336fcb67ab8dda324550979635e5d]: Commencement: Sch. 3 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00110]: Footnote: Section 25 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32). Other amendments to section 25 are not relevant.
 
-[^key-d67e04813ffe93ace0d6269f21dd52d4]: Commencement: Sch. 3 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-d67e04813ffe93ace0d6269f21dd52d4]: Commencement: Sch. 3 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00111]: Footnote: Section 26 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-3d8d18306667bad820e59d121a11cec4]: Commencement: Sch. 3 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3d8d18306667bad820e59d121a11cec4]: Commencement: Sch. 3 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00112]: Footnote: Section 27 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 102 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30). Other amendments to section 27 are not relevant.
 
-[^key-7955bebc429003534748c3ab6b770d30]: Commencement: Sch. 3 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7955bebc429003534748c3ab6b770d30]: Commencement: Sch. 3 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00113]: Footnote: Section 28 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-16b43c9ee354ad714b3701c0f47f6652]: Commencement: Sch. 3 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-16b43c9ee354ad714b3701c0f47f6652]: Commencement: Sch. 3 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00114]: Footnote: Section 29 was amended by section 103 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30). Other amendments to section 29 are not relevant.
 
-[^key-a80cb9a7203d25d02e3c66b0bff216f7]: Commencement: Sch. 3 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-a80cb9a7203d25d02e3c66b0bff216f7]: Commencement: Sch. 3 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-3e37ea205028013c309e3e2d67636c72]: Commencement: Sch. 3 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3e37ea205028013c309e3e2d67636c72]: Commencement: Sch. 3 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-01e6a34185e914b1664c606061cfbeaa]: Commencement: Sch. 3 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-01e6a34185e914b1664c606061cfbeaa]: Commencement: Sch. 3 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00115]: Footnote: Section 33 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-f7512679e4c8d5ebdb17bbc4a7ca0c2e]: Commencement: Sch. 3 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f7512679e4c8d5ebdb17bbc4a7ca0c2e]: Commencement: Sch. 3 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-6a4b90929d83f1bd92222f66a15f80f9]: Commencement: Sch. 3 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6a4b90929d83f1bd92222f66a15f80f9]: Commencement: Sch. 3 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f29e4af8761bfedc3b932de624b6a787]: Commencement: Sch. 3 para. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f29e4af8761bfedc3b932de624b6a787]: Commencement: Sch. 3 para. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-38c0432f60060f8108d2bcbc1ddd2c4d]: Commencement: Sch. 3 para. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-38c0432f60060f8108d2bcbc1ddd2c4d]: Commencement: Sch. 3 para. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00116]: Footnote: Section 40 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32). Other amendments to section 40 are not relevant.
 
-[^key-501ab9cfe9c4dd0d4b596949bb6a29ef]: Commencement: Sch. 3 para. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-501ab9cfe9c4dd0d4b596949bb6a29ef]: Commencement: Sch. 3 para. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00117]: Footnote: Section 41 was amended by section 30 of, and Schedule 6 to, the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 3 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30); Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
 [^f00118]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-609c57c12d79f0b0a98596c72af0c53e]: Commencement: Sch. 3 para. 22 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-609c57c12d79f0b0a98596c72af0c53e]: Commencement: Sch. 3 para. 22 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-29f6c68ad198de97639db9fb73407b87]: Commencement: Sch. 3 para. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-29f6c68ad198de97639db9fb73407b87]: Commencement: Sch. 3 para. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00119]: Footnote: Section 42 was amended by section 30 of, and Schedule 6 to, the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); Schedule 12 to the Justice (Northern Ireland) Act [2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26); section 3 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30); Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-f35bfee39433d9eb61397c33c39251ad]: Commencement: Sch. 3 para. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f35bfee39433d9eb61397c33c39251ad]: Commencement: Sch. 3 para. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-4ad6c8e767295c4bb8fa894d8a337615]: Commencement: Sch. 3 para. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4ad6c8e767295c4bb8fa894d8a337615]: Commencement: Sch. 3 para. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00120]: Footnote: Section 45 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-3cc357773a1ce34500b0561f6f37dd1b]: Commencement: Sch. 3 para. 26 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3cc357773a1ce34500b0561f6f37dd1b]: Commencement: Sch. 3 para. 26 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00121]: Footnote: Section 46 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-9bd41fcfed03437ac12ef0afee11cfb8]: Commencement: Sch. 3 para. 27 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9bd41fcfed03437ac12ef0afee11cfb8]: Commencement: Sch. 3 para. 27 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00122]: Footnote: Section 52 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 34 of the Justice (Northern Ireland) Act [2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26).
 
-[^key-3fe83d18666d8de5a2535ad54013508b]: Commencement: Sch. 3 para. 28 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3fe83d18666d8de5a2535ad54013508b]: Commencement: Sch. 3 para. 28 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00123]: Footnote: Section 55 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32). Other amendments to section 55 are not relevant.
 
 [^f00124]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47). There are amendments to section 4, but none are relevant.
 
-[^key-281e78f10cedf5d2daaab419a5dcb113]: Commencement: Sch. 3 para. 29 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-281e78f10cedf5d2daaab419a5dcb113]: Commencement: Sch. 3 para. 29 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-b424cc76c35579dd0ac06f1b52cd3952]: Commencement: Sch. 3 para. 30 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b424cc76c35579dd0ac06f1b52cd3952]: Commencement: Sch. 3 para. 30 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00125]: Footnote: Section 60 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-d813bd94207d6b02e0e2d589bf19283f]: Commencement: Sch. 3 para. 31 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-d813bd94207d6b02e0e2d589bf19283f]: Commencement: Sch. 3 para. 31 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00126]: Footnote: Section 60A was inserted by section 13 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-8edd6bdbfee206bcd0ec161b99f5668a]: Commencement: Sch. 3 para. 32 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-8edd6bdbfee206bcd0ec161b99f5668a]: Commencement: Sch. 3 para. 32 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00127]: Footnote: Amendments have been made to section 61 but none are relevant.
 
 [^f00128]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-dfcb75cedafe92b934178359f8523be1]: Commencement: Sch. 3 para. 33 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-dfcb75cedafe92b934178359f8523be1]: Commencement: Sch. 3 para. 33 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00129]: Footnote: Amendments have been made to section 63 but none are relevant.
 
 [^f00130]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-d524efb8d07fb063f51128dc6e9b6e21]: Commencement: Sch. 3 para. 34 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-d524efb8d07fb063f51128dc6e9b6e21]: Commencement: Sch. 3 para. 34 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00131]: Footnote: Section 64 was amended by sections 62 and 65 of, and Schedule 6 to, the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 6 of the Justice (Northern Ireland) Act [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4).
 
-[^key-295ae6fc2b1f25792c09d4965a6d2d0c]: Commencement: Sch. 3 para. 35 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-295ae6fc2b1f25792c09d4965a6d2d0c]: Commencement: Sch. 3 para. 35 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00132]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47). There are amendments to section 4, but none are relevant.
 
 [^f00133]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-7d3581044a0f9e0ef2c4b0cc9a66f570]: Commencement: Sch. 3 para. 36 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7d3581044a0f9e0ef2c4b0cc9a66f570]: Commencement: Sch. 3 para. 36 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00134]: Footnote: Section 65 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-e51880d54244ce8bb23ef351d996a367]: Commencement: Sch. 3 para. 37 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e51880d54244ce8bb23ef351d996a367]: Commencement: Sch. 3 para. 37 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00135]: Footnote: Section 66 was amended by section 104 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30).
 
-[^key-51f83a737e2cd1fc509d52c463bf46c4]: Commencement: Sch. 3 para. 38 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-51f83a737e2cd1fc509d52c463bf46c4]: Commencement: Sch. 3 para. 38 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00136]: Footnote: Section 72 was amended by Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
@@ -1512,7 +1512,7 @@ that, in his opinion, the information is information which ought not to be discl
 
 [^f00138]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-22f2fb5a1c80ce2a93ddba9fb9d22e8b]: Commencement: Sch. 3 para. 39 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-22f2fb5a1c80ce2a93ddba9fb9d22e8b]: Commencement: Sch. 3 para. 39 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00139]: Footnote: Amendments have been made to Schedule 3 but none are relevant.
 
@@ -1528,61 +1528,61 @@ that, in his opinion, the information is information which ought not to be discl
 
 [^f00145]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073).
 
-[^key-09a04e921305db79dc1a161827522824]: Commencement: Sch. 3 para. 40 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-09a04e921305db79dc1a161827522824]: Commencement: Sch. 3 para. 40 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00146]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-ee891f5b0c1f1c5c159b213cc0faf1d8]: Commencement: Sch. 3 para. 41 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ee891f5b0c1f1c5c159b213cc0faf1d8]: Commencement: Sch. 3 para. 41 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-04b76fdbd74a451f511527d6e60d0cf0]: Commencement: Sch. 3 para. 42 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-04b76fdbd74a451f511527d6e60d0cf0]: Commencement: Sch. 3 para. 42 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00147]: Footnote: Section 4 was amended by [S.I. 2007/912 (N.I. 6)](https://www.legislation.gov.uk/nisi/2007/912).
 
-[^key-538245c92a896364ef0d2309b5f4b260]: Commencement: Sch. 3 para. 43 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-538245c92a896364ef0d2309b5f4b260]: Commencement: Sch. 3 para. 43 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-ba0f5ef85913b0554b370f0f1fb5e7d5]: Commencement: Sch. 3 para. 44 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ba0f5ef85913b0554b370f0f1fb5e7d5]: Commencement: Sch. 3 para. 44 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-33c635025439065dd82a3065f8ce8064]: Commencement: Sch. 3 para. 45 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-33c635025439065dd82a3065f8ce8064]: Commencement: Sch. 3 para. 45 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-68eeeb76cff42984519607aa9f2586dc]: Commencement: Sch. 3 para. 46 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-68eeeb76cff42984519607aa9f2586dc]: Commencement: Sch. 3 para. 46 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00148]: Footnote: Section 9 was amended by section 6 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-26932261571198389f756aec48c44880]: Commencement: Sch. 3 para. 47 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-26932261571198389f756aec48c44880]: Commencement: Sch. 3 para. 47 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00149]: Footnote: Section 10 was amended by section 6 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-810ead7a279bc1b9fb08b58dc7d86f8a]: Commencement: Sch. 3 para. 48 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-810ead7a279bc1b9fb08b58dc7d86f8a]: Commencement: Sch. 3 para. 48 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00150]: Footnote: Section 12 was amended by section 7 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
 [^f00151]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-ccbe06f9b2f1ba313506ed1bfd47c011]: Commencement: Sch. 3 para. 49 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ccbe06f9b2f1ba313506ed1bfd47c011]: Commencement: Sch. 3 para. 49 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-e213d9ddd1b54b526fcd5bc8510b5a2e]: Commencement: Sch. 3 para. 50 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e213d9ddd1b54b526fcd5bc8510b5a2e]: Commencement: Sch. 3 para. 50 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00152]: Footnote: Section 15A was inserted by Schedule 1 to the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-7d4d2548968b3fa7c2432cd6762e2efd]: Commencement: Sch. 3 para. 51 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7d4d2548968b3fa7c2432cd6762e2efd]: Commencement: Sch. 3 para. 51 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-3f6159a3b8f6772dd7fd9bf2660be206]: Commencement: Sch. 3 para. 52 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3f6159a3b8f6772dd7fd9bf2660be206]: Commencement: Sch. 3 para. 52 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00153]: Footnote: Section 24 was amended by section 1 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
 [^f00154]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-2c9f76da9d78da459bdd3556d74b5b64]: Commencement: Sch. 3 para. 53 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2c9f76da9d78da459bdd3556d74b5b64]: Commencement: Sch. 3 para. 53 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-471412123976419cd891cbcb2b064974]: Commencement: Sch. 3 para. 54 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-471412123976419cd891cbcb2b064974]: Commencement: Sch. 3 para. 54 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00155]: Footnote: Section 27 was amended by sections 2 and 6 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-2d415dcbe3a488f421a589704968607f]: Commencement: Sch. 3 para. 55 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2d415dcbe3a488f421a589704968607f]: Commencement: Sch. 3 para. 55 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00156]: Footnote: Section 28(6) was amended by section 8 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-d1b27dd6177fa5fca4b59b9a1e8a570b]: Commencement: Sch. 3 para. 56 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-d1b27dd6177fa5fca4b59b9a1e8a570b]: Commencement: Sch. 3 para. 56 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00157]: Footnote: Section 29 was amended by section 9 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
@@ -1590,119 +1590,119 @@ that, in his opinion, the information is information which ought not to be discl
 
 [^f00159]: Footnote: [S.I. 1987/460 (N.I. 5)](https://www.legislation.gov.uk/nisi/1987/460).
 
-[^key-1c3c5b6066e63ca94fe879e10d4b8381]: Commencement: Sch. 3 para. 57 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1c3c5b6066e63ca94fe879e10d4b8381]: Commencement: Sch. 3 para. 57 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00160]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-7977e4aa74bb86a7146296ae5890fdf4]: Commencement: Sch. 3 para. 58 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7977e4aa74bb86a7146296ae5890fdf4]: Commencement: Sch. 3 para. 58 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00161]: Footnote: Section 31 was amended by section 9 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-2c1558c9b3a955fd42a375069e5e405a]: Commencement: Sch. 3 para. 59 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2c1558c9b3a955fd42a375069e5e405a]: Commencement: Sch. 3 para. 59 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00162]: Footnote: Section 33A was inserted by section 22 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-3e641ddf164f79ba08e94f466f0d2c59]: Commencement: Sch. 3 para. 60 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3e641ddf164f79ba08e94f466f0d2c59]: Commencement: Sch. 3 para. 60 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-e0a85a6c9c96c951649d1c3c1959cbd7]: Commencement: Sch. 3 para. 61 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e0a85a6c9c96c951649d1c3c1959cbd7]: Commencement: Sch. 3 para. 61 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-48603171ae87a15019d2222f67925755]: Commencement: Sch. 3 para. 62 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-48603171ae87a15019d2222f67925755]: Commencement: Sch. 3 para. 62 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00163]: Footnote: Section 36A was inserted by section 24 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-9434034c585a2da503941e96a576a5b9]: Commencement: Sch. 3 para. 63 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9434034c585a2da503941e96a576a5b9]: Commencement: Sch. 3 para. 63 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00164]: Footnote: Amendments have been made to section 41 but none are relevant.
 
-[^key-53be281e76d31167c692724c4a6533b9]: Commencement: Sch. 3 para. 64 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-53be281e76d31167c692724c4a6533b9]: Commencement: Sch. 3 para. 64 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-0b2a6568da5c09def4486f4b2bba5331]: Commencement: Sch. 3 para. 65 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-0b2a6568da5c09def4486f4b2bba5331]: Commencement: Sch. 3 para. 65 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-2e74a3c3c937eb2927224d6875c8115f]: Commencement: Sch. 3 para. 66 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2e74a3c3c937eb2927224d6875c8115f]: Commencement: Sch. 3 para. 66 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00165]: Footnote: Amendments have been made to section 44 but none are relevant.
 
-[^key-8805c6e6d214bcc5d5bdc835bab71bfe]: Commencement: Sch. 3 para. 67 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-8805c6e6d214bcc5d5bdc835bab71bfe]: Commencement: Sch. 3 para. 67 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-d3f14963fba09bebb2c2d10d7dc2a2db]: Commencement: Sch. 3 para. 68 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-d3f14963fba09bebb2c2d10d7dc2a2db]: Commencement: Sch. 3 para. 68 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-e232ab8ba8e36e975589a0290bda0ded]: Commencement: Sch. 3 para. 69 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e232ab8ba8e36e975589a0290bda0ded]: Commencement: Sch. 3 para. 69 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00166]: Footnote: Amendments have been made to section 52 but none are relevant.
 
-[^key-bb563ac90004c604f76c84ab1dda7f7d]: Commencement: Sch. 3 para. 70 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-bb563ac90004c604f76c84ab1dda7f7d]: Commencement: Sch. 3 para. 70 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-1b92d322c33b46880bd549e9e6acc004]: Commencement: Sch. 3 para. 71 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1b92d322c33b46880bd549e9e6acc004]: Commencement: Sch. 3 para. 71 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-88033bc6b40be7e32dd4fc876ec8bece]: Commencement: Sch. 3 para. 72 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-88033bc6b40be7e32dd4fc876ec8bece]: Commencement: Sch. 3 para. 72 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00167]: Footnote: Amendments have been made to section 57 but none are relevant.
 
-[^key-5928d9977620703fb74f394e86aa679f]: Commencement: Sch. 3 para. 73 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-5928d9977620703fb74f394e86aa679f]: Commencement: Sch. 3 para. 73 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00168]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-e856511c5e3be262c4d41930f77e385c]: Commencement: Sch. 3 para. 74 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e856511c5e3be262c4d41930f77e385c]: Commencement: Sch. 3 para. 74 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00169]: Footnote: Section 59 was amended by sections 10 and 27 of the Police (Northern Ireland) Act 2003.
 
-[^key-7c1457d8bdaaf76109ec76a6a493327b]: Commencement: Sch. 3 para. 75 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7c1457d8bdaaf76109ec76a6a493327b]: Commencement: Sch. 3 para. 75 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00170]: Footnote: Section 60 was amended by section 11 of the Police (Northern Ireland) Act 2003. Other amendments to section 60 are not relevant.
 
-[^key-9fec322b1635e15634e68f2f16375a5b]: Commencement: Sch. 3 para. 76 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9fec322b1635e15634e68f2f16375a5b]: Commencement: Sch. 3 para. 76 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00171]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-608169d9434133d7e646eadbaeb0444f]: Commencement: Sch. 3 para. 77 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-608169d9434133d7e646eadbaeb0444f]: Commencement: Sch. 3 para. 77 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00172]: Footnote: Section 66 was amended by section 13 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-a06470b96c9a76bd2409a7ef294b43c6]: Commencement: Sch. 3 para. 78 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-a06470b96c9a76bd2409a7ef294b43c6]: Commencement: Sch. 3 para. 78 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-27a8ff1f739c6780a60b08f9faef96a0]: Commencement: Sch. 3 para. 79 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-27a8ff1f739c6780a60b08f9faef96a0]: Commencement: Sch. 3 para. 79 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-86a05f2baece171a9a5e371d04b3117b]: Commencement: Sch. 3 para. 80 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-86a05f2baece171a9a5e371d04b3117b]: Commencement: Sch. 3 para. 80 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-fe024ed88d469763f13e54b66176cce2]: Commencement: Sch. 3 para. 81 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-fe024ed88d469763f13e54b66176cce2]: Commencement: Sch. 3 para. 81 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00173]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-2bcacfb21811860b6bb6e3a1a7dfa95c]: Commencement: Sch. 3 para. 82 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2bcacfb21811860b6bb6e3a1a7dfa95c]: Commencement: Sch. 3 para. 82 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00174]: Footnote: Section 74A was inserted by section 27 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
 [^f00175]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-8c195ad3c67db699acbb9d8d2bbd642b]: Commencement: Sch. 3 para. 83 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-8c195ad3c67db699acbb9d8d2bbd642b]: Commencement: Sch. 3 para. 83 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00176]: Footnote: Section 76 was amended by [S.I. 2001/2513 (N.I. 3)](https://www.legislation.gov.uk/nisi/2001/2513).
 
 [^f00177]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-8fe8d0e4a2de37a8d377e42456fe8cc4]: Commencement: Sch. 3 para. 84 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-8fe8d0e4a2de37a8d377e42456fe8cc4]: Commencement: Sch. 3 para. 84 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00178]: Footnote: Section 76A(1) was inserted by section 29 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6).
 
-[^key-3c99a02596f2629ee0ec3098a0fcdbed]: Commencement: Sch. 3 para. 85 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3c99a02596f2629ee0ec3098a0fcdbed]: Commencement: Sch. 3 para. 85 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00179]: Footnote: Amendments have been made to section 77(1) but none are relevant.
 
-[^key-adaac86dfc1920b7c5c3baeb9fdeccb4]: Commencement: Sch. 3 para. 86 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-adaac86dfc1920b7c5c3baeb9fdeccb4]: Commencement: Sch. 3 para. 86 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00180]: Footnote: Amendments have been made to Schedule 1 but none are relevant.
 
-[^key-ddbab92aa17be29c9e556ed5e566ccf2]: Commencement: Sch. 3 para. 87 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ddbab92aa17be29c9e556ed5e566ccf2]: Commencement: Sch. 3 para. 87 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-c215f67cd4f3b1c1f5bb6cbf8b7992be]: Commencement: Sch. 3 para. 88 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c215f67cd4f3b1c1f5bb6cbf8b7992be]: Commencement: Sch. 3 para. 88 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00181]: Footnote: Amendments have been made to Schedule 3 but none are relevant.
 
-[^key-3bc0fb7ae12da12f42fbaad09fbf89d1]: Commencement: Sch. 3 para. 89 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3bc0fb7ae12da12f42fbaad09fbf89d1]: Commencement: Sch. 3 para. 89 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00182]: Footnote: Schedule 3A was inserted by Schedule 1 to the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6). Amendments have been made to Schedule 3A but none are relevant.
 
-[^key-28ec0da757e0043a19be58b1ebb6c02d]: Commencement: Sch. 3 para. 90 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-28ec0da757e0043a19be58b1ebb6c02d]: Commencement: Sch. 3 para. 90 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00183]: Footnote: [S.R. (N.I.) 2000 No. 318](https://www.legislation.gov.uk/nisr/2000/318), as amended by [S.R. (N.I.) 2001 No. 184](https://www.legislation.gov.uk/nisr/2001/184).
 
@@ -1710,15 +1710,15 @@ that, in his opinion, the information is information which ought not to be discl
 
 [^f00185]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-88f1b2d0b711ed1fe7decbcb393bcaba]: Commencement: Sch. 3 para. 91 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-88f1b2d0b711ed1fe7decbcb393bcaba]: Commencement: Sch. 3 para. 91 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00186]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32).
 
-[^key-948bfa8becc9ed348768cd8ef45e565c]: Commencement: Sch. 3 para. 92 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-948bfa8becc9ed348768cd8ef45e565c]: Commencement: Sch. 3 para. 92 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00187]: Footnote: [S.R. (N.I.) 2002 No. 260](https://www.legislation.gov.uk/nisr/2002/260). Regulation 11 was amended, and regulation 11A was inserted, by article 7 of [S.I. 2008/817](https://www.legislation.gov.uk/uksi/2008/817).
 
-[^key-4ab93daf6148e2de600afbb819260da3]: Commencement: Sch. 3 para. 93 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4ab93daf6148e2de600afbb819260da3]: Commencement: Sch. 3 para. 93 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00188]: Footnote: [2003 c. 6](https://www.legislation.gov.uk/ukpga/2003/6).
 
@@ -1730,56 +1730,56 @@ that, in his opinion, the information is information which ought not to be discl
 
 [^f00192]: Footnote: Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-25f3b1232056971b7f9cab49276c28bf]: Commencement: Sch. 3 para. 94 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-25f3b1232056971b7f9cab49276c28bf]: Commencement: Sch. 3 para. 94 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00193]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36). Schedule 1 to the Act was amended by [S.I. 2005/2043](https://www.legislation.gov.uk/uksi/2005/2043), [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43) and [S.I. 2008/3012](https://www.legislation.gov.uk/uksi/2008/3012). There are other amendments to the Act, but none are relevant.
 
-[^key-1a389365639c67b36945a0d417430a99]: Commencement: Sch. 3 para. 95 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1a389365639c67b36945a0d417430a99]: Commencement: Sch. 3 para. 95 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-5286977b49bf69c29ba4ab015a8b6769]: Commencement: Sch. 3 para. 96 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-5286977b49bf69c29ba4ab015a8b6769]: Commencement: Sch. 3 para. 96 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-d22f5083883b4dee419f51c15028baaa]: Commencement: Sch. 3 para. 97 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-d22f5083883b4dee419f51c15028baaa]: Commencement: Sch. 3 para. 97 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-fe9f525480449d864e97499859fe246f]: Commencement: Sch. 3 para. 98 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-fe9f525480449d864e97499859fe246f]: Commencement: Sch. 3 para. 98 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-e502e65081918ca3250c2267faada1ab]: Commencement: Sch. 3 para. 99 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e502e65081918ca3250c2267faada1ab]: Commencement: Sch. 3 para. 99 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-ced7ddb91f557f9596529de114d2cb1c]: Commencement: Sch. 3 para. 100 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ced7ddb91f557f9596529de114d2cb1c]: Commencement: Sch. 3 para. 100 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-b3e2502887e1eb8c0bc4d407c3a1cc09]: Commencement: Sch. 3 para. 101 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b3e2502887e1eb8c0bc4d407c3a1cc09]: Commencement: Sch. 3 para. 101 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-33ddeb5e1e902c533d1f275dca61879b]: Commencement: Sch. 3 para. 102 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-33ddeb5e1e902c533d1f275dca61879b]: Commencement: Sch. 3 para. 102 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-eb6f04b37cf772046978d43dc7126b72]: Commencement: Sch. 3 para. 103 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-eb6f04b37cf772046978d43dc7126b72]: Commencement: Sch. 3 para. 103 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-43f60d958ceceda3e00584a8a122f39f]: Commencement: Sch. 3 para. 104 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-43f60d958ceceda3e00584a8a122f39f]: Commencement: Sch. 3 para. 104 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-c4b393a4a6471788376e8d33b50f6ab4]: Commencement: Sch. 3 para. 105 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c4b393a4a6471788376e8d33b50f6ab4]: Commencement: Sch. 3 para. 105 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-0f5d6cec548ca361e97c566cf023dbab]: Commencement: Sch. 3 para. 106 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-0f5d6cec548ca361e97c566cf023dbab]: Commencement: Sch. 3 para. 106 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-5e3f05ff2e996460132722a71a037957]: Commencement: Sch. 3 para. 107 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-5e3f05ff2e996460132722a71a037957]: Commencement: Sch. 3 para. 107 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f1d2b768e7040e0ff1e8a8c6f29d64f4]: Commencement: Sch. 3 para. 108 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f1d2b768e7040e0ff1e8a8c6f29d64f4]: Commencement: Sch. 3 para. 108 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00194]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
 [^f00195]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-bf1da3a2f6cdd013ba229ce53ccebcb1]: Commencement: Sch. 3 para. 109 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-bf1da3a2f6cdd013ba229ce53ccebcb1]: Commencement: Sch. 3 para. 109 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-36e9d6b1406c2b661627ca9b99a94e3d]: Commencement: Sch. 3 para. 110 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-36e9d6b1406c2b661627ca9b99a94e3d]: Commencement: Sch. 3 para. 110 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00196]: Footnote: [S.I. 2005/2042](https://www.legislation.gov.uk/uksi/2005/2042)
 
 [^f00197]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-3ae68a0a24736c5e3566a7cee7b3a51d]: Commencement: Sch. 3 para. 111 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-3ae68a0a24736c5e3566a7cee7b3a51d]: Commencement: Sch. 3 para. 111 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00198]: Footnote: S.R. (N.I) [2008 No. 242](https://www.legislation.gov.uk/nisr/2008/242).
 
 [^f00199]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-e4d8a882f07973d89f22d95c350d3d32]: Commencement: Sch. 3 para. 112 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e4d8a882f07973d89f22d95c350d3d32]: Commencement: Sch. 3 para. 112 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00200]: Footnote: [2003 c. 6](https://www.legislation.gov.uk/ukpga/2003/6).

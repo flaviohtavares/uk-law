@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — HEDGEROWS TO BE REMOVED[^key-fc3d593d21f76c05a663a68a4b466fb2]
+## SCHEDULE 12 — HEDGEROWS TO BE REMOVED[^c-fc3d593d21f76c05a663a68a4b466fb2]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Article 38
 
 ## Annotations
 
-[^key-fc3d593d21f76c05a663a68a4b466fb2]: Commencement: Sch. 12 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-fc3d593d21f76c05a663a68a4b466fb2]: Commencement: Sch. 12 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

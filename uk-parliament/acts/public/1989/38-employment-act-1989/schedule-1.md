@@ -42,7 +42,7 @@ Regulation 1(ii) of the [^c1205569]Electric Accumulator Regulations 1925.
 
 Regulation 6(1)(i) to (vi) of the [^c1205570]Pottery (Health and Welfare) Special Regulations 1950.
 
-[^key-3cadc7b0f1cc14df81eb00f4f700cdde]...
+[^c-3cadc7b0f1cc14df81eb00f4f700cdde]...
 
 Article 20(8) of the [^c1205572]Air Navigation Order 1985 so far as relating to pregnancy.
 
@@ -75,7 +75,7 @@ The following provisions of the medical standards contained in Merchant Shipping
 
 [^c1205570]: Marginal citation: [S.I.1950/65](https://www.legislation.gov.uk/uksi/1950/65).
 
-[^key-3cadc7b0f1cc14df81eb00f4f700cdde]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1989/38/schedule/1) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/1) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-3cadc7b0f1cc14df81eb00f4f700cdde]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1989/38/schedule/1) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/1) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^c1205572]: Marginal citation: [S.I.1985/1643](https://www.legislation.gov.uk/uksi/1985/1643).
 

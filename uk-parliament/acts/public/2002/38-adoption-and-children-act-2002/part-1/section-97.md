@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Sections 92 to 96: interpretation[^key-c994d94c49b5f302ced77287aaf14b5f]
+## 97. Sections 92 to 96: interpretation[^c-c994d94c49b5f302ced77287aaf14b5f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In sections 92 to 96—
 
 ## Annotations
 
-[^key-c994d94c49b5f302ced77287aaf14b5f]: Commencement: S. 97 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/g) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-c994d94c49b5f302ced77287aaf14b5f]: Commencement: S. 97 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/g) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

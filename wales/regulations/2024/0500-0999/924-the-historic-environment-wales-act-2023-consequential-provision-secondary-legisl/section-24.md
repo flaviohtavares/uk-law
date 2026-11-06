@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. The Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^key-40cb3d6218948c8c9a94d7a442a66a6a]
+## 24. The Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^c-40cb3d6218948c8c9a94d7a442a66a6a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In Schedule 2 to the Environmental Impact Assessment (Forestry) (England and Wal
 
 ## Annotations
 
-[^key-40cb3d6218948c8c9a94d7a442a66a6a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/924/regulation/24) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-40cb3d6218948c8c9a94d7a442a66a6a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/924/regulation/24) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 1999/2228](https://www.legislation.gov.uk/uksi/1999/2228), to which there are amendments not relevant to these Regulations.

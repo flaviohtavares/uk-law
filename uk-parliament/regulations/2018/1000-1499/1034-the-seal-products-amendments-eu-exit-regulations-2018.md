@@ -54,17 +54,17 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-11cb07eba175b9061ba280fd8523eebf]
+### 1. Citation and commencement[^c-11cb07eba175b9061ba280fd8523eebf]
 
 These Regulations may be cited as the Seal Products (Amendments) (EU Exit) Regulations 2018 and come into force on exit day.
 
-### 1A. Extent[^M_I_bd8afd1d-c0ae-4a28-92d2-e77e17555714][^key-181b9b4f42d998ceb83d8bd125609989]
+### 1A. Extent[^M_I_bd8afd1d-c0ae-4a28-92d2-e77e17555714][^c-181b9b4f42d998ceb83d8bd125609989]
 
 Regulation 2 extends to England and Wales and Scotland only.
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. The Seal Products Regulations 2010[^key-dd698cde69593a6d9063e48622225895]
+### 2. The Seal Products Regulations 2010[^c-dd698cde69593a6d9063e48622225895]
 
 *Extent: E+W+S*
 
@@ -92,7 +92,7 @@ Regulation 2 extends to England and Wales and Scotland only.
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 3. Regulation [(EC) No 1007/2009](https://www.legislation.gov.uk/eur/2009/1007) of the European Parliament and of the Council[^key-091d32a4745bbf535c8e36f3d9bec8ca]
+### 3. Regulation [(EC) No 1007/2009](https://www.legislation.gov.uk/eur/2009/1007) of the European Parliament and of the Council[^c-091d32a4745bbf535c8e36f3d9bec8ca]
 
 (1) Regulation [(EC) 1007/2009](https://www.legislation.gov.uk/eur/2009/1007) of the European Parliament and of the Council on trade in seal products is amended as follows.
 
@@ -111,7 +111,7 @@ Regulation 2 extends to England and Wales and Scotland only.
 
 (7) Omit Article 8.
 
-### 4. Commission Implementing Regulation (EU) No 2015/1850[^key-f005729b4e4f1a1c42a1a1986b23d31f]
+### 4. Commission Implementing Regulation (EU) No 2015/1850[^c-f005729b4e4f1a1c42a1a1986b23d31f]
 
 (1) Commission Implementing Regulation (EU) 2015/1850 laying down detailed rules for the implementation of Regulation [(EC) No 1007/2009](https://www.legislation.gov.uk/eur/2009/1007) of the European Parliament and of the Council on trade in seal products is amended as follows.
 
@@ -131,12 +131,12 @@ Regulation 2 extends to England and Wales and Scotland only.
 
 (4) In Article 4—
 
-- (za)[^key-d53570095a05b8fa2f8b8f831091c502] in paragraph 5, omit “issued in accordance with paragraph 1”;
+- (za)[^c-d53570095a05b8fa2f8b8f831091c502] in paragraph 5, omit “issued in accordance with paragraph 1”;
 - (a) in paragraph 6—
   - (i) omit “for free circulation”;
   - (ii) omit “pursuant to Article 79 of Council Regulation [(EEC) No 2913/92](https://www.legislation.gov.uk/eur/1992/2913)”;
-  - (iii)[^key-71c4725f4edee15c6658514251e66822] for the words from “issued in” to “No 2913/92, the” substitute “. The”;
-- (aa)[^key-ba7922f6287539c9594444c4482bf8cf] after paragraph 6 insert—
+  - (iii)[^c-71c4725f4edee15c6658514251e66822] for the words from “issued in” to “No 2913/92, the” substitute “. The”;
+- (aa)[^c-ba7922f6287539c9594444c4482bf8cf] after paragraph 6 insert—
 
   > **6A.** For the purposes of paragraphs 3 to 6, “attesting document” means—
   >
@@ -196,24 +196,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23399241]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-11cb07eba175b9061ba280fd8523eebf]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-11cb07eba175b9061ba280fd8523eebf]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^M_I_bd8afd1d-c0ae-4a28-92d2-e77e17555714]: Commencement: Reg. 1A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-181b9b4f42d998ceb83d8bd125609989]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)
+[^c-181b9b4f42d998ceb83d8bd125609989]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)
 
-[^key-dd698cde69593a6d9063e48622225895]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dd698cde69593a6d9063e48622225895]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23399251]: Marginal citation: [S.I. 2010/2068](https://www.legislation.gov.uk/uksi/2010/2068).
 
 [^c23399261]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 1(1) was amended by the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraphs 20](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/20) and 22(a).
 
-[^key-091d32a4745bbf535c8e36f3d9bec8ca]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-091d32a4745bbf535c8e36f3d9bec8ca]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f005729b4e4f1a1c42a1a1986b23d31f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f005729b4e4f1a1c42a1a1986b23d31f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d53570095a05b8fa2f8b8f831091c502]: Textual amendment: Reg. 4(4)(za) inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/3/a)
+[^c-d53570095a05b8fa2f8b8f831091c502]: Textual amendment: Reg. 4(4)(za) inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/3/a)
 
-[^key-71c4725f4edee15c6658514251e66822]: Textual amendment: Reg. 4(4)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/3/b)
+[^c-71c4725f4edee15c6658514251e66822]: Textual amendment: Reg. 4(4)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/3/b)
 
-[^key-ba7922f6287539c9594444c4482bf8cf]: Textual amendment: Reg. 4(4)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(3)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/3/c)
+[^c-ba7922f6287539c9594444c4482bf8cf]: Textual amendment: Reg. 4(4)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(3)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/3/c)

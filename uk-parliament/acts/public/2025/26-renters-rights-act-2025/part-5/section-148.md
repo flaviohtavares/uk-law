@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Transitional provision[^key-4705fdbf4a6938043fad86a046ac5d59]
+## 148. Transitional provision[^c-4705fdbf4a6938043fad86a046ac5d59]
 
 *Extent: E+W+S*
 
@@ -72,4 +72,4 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 ## Annotations
 
-[^key-4705fdbf4a6938043fad86a046ac5d59]: Commencement: S. 148 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-4705fdbf4a6938043fad86a046ac5d59]: Commencement: S. 148 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

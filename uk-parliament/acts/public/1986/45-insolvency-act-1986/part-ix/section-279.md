@@ -22,7 +22,7 @@ summary: ''
 
 (1) A bankrupt is discharged from bankruptcy at the end of the period of one year beginning with the date on which the bankruptcy commences.
 
-(2)[^key-933f9c24e06433d35d63e8b1df4916f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-933f9c24e06433d35d63e8b1df4916f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c15577491] On the application of the official receiver or the trustee of a bankrupt’s estate, the court may order that the period specified in subsection (1) shall cease to run until—
 
@@ -46,7 +46,7 @@ summary: ''
 
 [^c15577471]: Textual amendment: S. 279 substituted (1.4.2004) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 256](https://www.legislation.gov.uk/ukpga/2002/40/section/256), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6), [Sch. 19](https://www.legislation.gov.uk/ukpga/2002/40/schedule/19)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))
 
-[^key-933f9c24e06433d35d63e8b1df4916f6]: Textual amendment: S. 279(2) omitted (1.10.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/5); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(n)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/n) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/2227/article/6))
+[^c-933f9c24e06433d35d63e8b1df4916f6]: Textual amendment: S. 279(2) omitted (1.10.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/5); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(n)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/n) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/2227/article/6))
 
 [^c15577491]: Modification: S. 279(3)-(5) applied (1.4.2004) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 256(2)](https://www.legislation.gov.uk/ukpga/2002/40/section/256/2), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 19 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/19/paragraph/4/3), [5(5)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/19/paragraph/5/5) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))
 

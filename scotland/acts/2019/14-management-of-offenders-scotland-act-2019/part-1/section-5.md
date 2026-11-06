@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Requirement with licence conditions[^key-e3d8d49643093c9de3ac842526f3aba6]
+## 5. Requirement with licence conditions[^c-e3d8d49643093c9de3ac842526f3aba6]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3d8d49643093c9de3ac842526f3aba6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/14/section/5) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-e3d8d49643093c9de3ac842526f3aba6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/14/section/5) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

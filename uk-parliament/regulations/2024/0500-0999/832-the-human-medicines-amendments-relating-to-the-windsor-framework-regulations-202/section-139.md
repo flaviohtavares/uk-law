@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Amendment to Schedule 9A[^key-c73c0ad6aa4b3fbecbfd9d7819185849]
+## 139. Amendment to Schedule 9A[^c-c73c0ad6aa4b3fbecbfd9d7819185849]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In Schedule 9A (meaning of terms used in the orphan criteria and in regulation 5
 
 ## Annotations
 
-[^key-c73c0ad6aa4b3fbecbfd9d7819185849]: Commencement: [Reg. 139](https://www.legislation.gov.uk/uksi/2024/832/regulation/139) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c73c0ad6aa4b3fbecbfd9d7819185849]: Commencement: [Reg. 139](https://www.legislation.gov.uk/uksi/2024/832/regulation/139) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00146]: Footnote: Schedule 9A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

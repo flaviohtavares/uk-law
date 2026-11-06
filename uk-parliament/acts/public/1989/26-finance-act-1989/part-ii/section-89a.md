@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Modification of sections 82 to 83A, 88 and 89 in relation to overseas life insurance companies.[^key-d2a15e189224d7049db4d1b051fd1bba]
+## 89A. Modification of sections 82 to 83A, 88 and 89 in relation to overseas life insurance companies.[^c-d2a15e189224d7049db4d1b051fd1bba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2a15e189224d7049db4d1b051fd1bba]: Textual amendment: S. 89A repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-d2a15e189224d7049db4d1b051fd1bba]: Textual amendment: S. 89A repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

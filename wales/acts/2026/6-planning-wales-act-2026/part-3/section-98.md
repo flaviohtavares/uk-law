@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Power to make termination order[^key-d034efd9c44eb21f9d682f4879f117ba]
+## 98. Power to make termination order[^c-d034efd9c44eb21f9d682f4879f117ba]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d034efd9c44eb21f9d682f4879f117ba]: Commencement: S. 98 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d034efd9c44eb21f9d682f4879f117ba]: Commencement: S. 98 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

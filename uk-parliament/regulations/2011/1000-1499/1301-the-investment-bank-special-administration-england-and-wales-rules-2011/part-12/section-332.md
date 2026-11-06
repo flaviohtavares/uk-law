@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 332. The appropriate fee[^key-a286711d8348e9833ab6f3192a33c4da]
+## 332. The appropriate fee[^c-a286711d8348e9833ab6f3192a33c4da]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a286711d8348e9833ab6f3192a33c4da]: Commencement: [Rule 332](https://www.legislation.gov.uk/uksi/2011/1301/rule/332) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a286711d8348e9833ab6f3192a33c4da]: Commencement: [Rule 332](https://www.legislation.gov.uk/uksi/2011/1301/rule/332) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

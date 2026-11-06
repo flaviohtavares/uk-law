@@ -48,19 +48,19 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1) and 83(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-2ab48f63bc5eebddf83ee44007040487]
+## 1. Citation, commencement and interpretation[^c-2ab48f63bc5eebddf83ee44007040487]
 
 (1) This Order may be cited as the Bovine Viral Diarrhoea (Scotland) Amendment (No. 2) Order 2013 and comes into force on 1st January 2014.
 
 (2) In this Order “the 2013 Order” means the Bovine Viral Diarrhoea (Scotland) Order 2013[^f00002].
 
-## 2. Amendment of the 2013 Order[^key-f501032c275654a3bb06136563d66d61]
+## 2. Amendment of the 2013 Order[^c-f501032c275654a3bb06136563d66d61]
 
 The 2013 Order is amended in accordance with articles 3 to 17.
 
-**3.**[^key-3e435cb89a6f2ceaf880fe815b7a3eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3e435cb89a6f2ceaf880fe815b7a3eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-16e16e9230fbd94249ba4ece665a4878] In article 3 (notices and other instruments), after paragraph (3) insert—
+**4.**[^c-16e16e9230fbd94249ba4ece665a4878] In article 3 (notices and other instruments), after paragraph (3) insert—
 
 > (4) Any person moving a bovine animal under the authority of a licence granted under this Order must—
 >
@@ -70,15 +70,15 @@ The 2013 Order is amended in accordance with articles 3 to 17.
 
 .
 
-**5.**[^key-5f7aaf7a5b0feea4b38778941d7b3c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5f7aaf7a5b0feea4b38778941d7b3c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f9fb5f5df7c94f0bfa675ea18cd21cf5] In article 12(1)(a) (decision on type of sample to take), for “article 11(2)(d)” substitute “article 11(2)(d) or (da)”.
+**6.**[^c-f9fb5f5df7c94f0bfa675ea18cd21cf5] In article 12(1)(a) (decision on type of sample to take), for “article 11(2)(d)” substitute “article 11(2)(d) or (da)”.
 
-**7.**[^key-0c0c85c08a95a8a79504883139641d35] In article 14(3)(b)(v) (submission of samples), for “article 11(2)(d), (e) or (f)” substitute “article 11(2)(d), (da), (e) or (f)”.
+**7.**[^c-0c0c85c08a95a8a79504883139641d35] In article 14(3)(b)(v) (submission of samples), for “article 11(2)(d), (e) or (f)” substitute “article 11(2)(d), (da), (e) or (f)”.
 
-**8.**[^key-539cb0b939cf4e64fec740f054c464db] Article 16 (movement of a qualifying calf) is revoked.
+**8.**[^c-539cb0b939cf4e64fec740f054c464db] Article 16 (movement of a qualifying calf) is revoked.
 
-**9.**[^key-cc10318d40223779d98c27a92b36355d] In article 17 (duties of operators of approved laboratories – breeding herds or breeding bovine animals)—
+**9.**[^c-cc10318d40223779d98c27a92b36355d] In article 17 (duties of operators of approved laboratories – breeding herds or breeding bovine animals)—
 
 - (a) after paragraph (2)(b)(i) insert—
 
@@ -88,27 +88,27 @@ The 2013 Order is amended in accordance with articles 3 to 17.
 - (b) in paragraph (2(b)(ii), after “finding” insert “and, in the case mentioned in head (ia), the result of the test for the identified calf or bovine animal”; and
 - (c) in paragraph (3)(a), for “article 11(2)(a), (b), (c) or (d)” substitute “article 11(2)(a),(b),(c), (d) or (da)”.
 
-**10.**[^key-3f44f61b81168bc6dedb01ea7e5a50b4] For article 18(2)(b) (duties of operators of approved laboratories – qualifying calves) substitute—
+**10.**[^c-3f44f61b81168bc6dedb01ea7e5a50b4] For article 18(2)(b) (duties of operators of approved laboratories – qualifying calves) substitute—
 
 > - (b) by notice inform the keeper of the result of the test, clearly indicating to the keeper whether the result confirms the presence of BVDV in the qualifying calf;
 
 .
 
-**11.**[^key-430fee3a35c06da4039de7fa1815cf3f] For article 20(1) (reporting of tests for presence of BVDV) substitute—
+**11.**[^c-430fee3a35c06da4039de7fa1815cf3f] For article 20(1) (reporting of tests for presence of BVDV) substitute—
 
 > (1) This article applies where, other than under Part 2, a laboratory (including an approved laboratory) tests for evidence of exposure to BVDV or for the presence of BVDV a sample (of any description) taken from a bovine animal.
 
 .
 
-**12.**[^key-7c7ca8d1bf4cb2f8ffea73fe3576a0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7c7ca8d1bf4cb2f8ffea73fe3576a0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-12866cfbf34584b31ac7364f30482b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-12866cfbf34584b31ac7364f30482b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-dbcd35906d86414d4304aa3acb1e9356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-dbcd35906d86414d4304aa3acb1e9356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-55a69893bce3486921aac36378cc6ead] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-55a69893bce3486921aac36378cc6ead] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-fa206e1e9b08347cb5d9e3afb590c78a] After Part 4 (BVD findings and status) insert—
+**16.**[^c-fa206e1e9b08347cb5d9e3afb590c78a] After Part 4 (BVD findings and status) insert—
 
 > **PART 4A — Movement restrictions**
 >
@@ -165,9 +165,9 @@ The 2013 Order is amended in accordance with articles 3 to 17.
 
 .
 
-**17.**[^key-5334c4ffdda66b2b2921aa350d10517c] In article 24 (maintenance and provision of information)—
+**17.**[^c-5334c4ffdda66b2b2921aa350d10517c] In article 24 (maintenance and provision of information)—
 
-- (a)[^key-ae6b2a63bd86a4dfb9c0e300d718c4ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ae6b2a63bd86a4dfb9c0e300d718c4ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (3)(a), for “that” substitute “any”; and
 - (c) in paragraph (4), for “paragraph (2)(b)” substitute “paragraph (2)”.
 
@@ -221,40 +221,40 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the Animal Health Act 1981. The functions of the Ministers were, so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-2ab48f63bc5eebddf83ee44007040487]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/337/article/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-2ab48f63bc5eebddf83ee44007040487]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/337/article/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2013/3](https://www.legislation.gov.uk/ssi/2013/3), amended by [S.S.I. 2013/21](https://www.legislation.gov.uk/ssi/2013/21).
 
-[^key-f501032c275654a3bb06136563d66d61]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/337/article/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-f501032c275654a3bb06136563d66d61]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/337/article/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-3e435cb89a6f2ceaf880fe815b7a3eda]: Textual amendment: Art. 3 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+[^c-3e435cb89a6f2ceaf880fe815b7a3eda]: Textual amendment: Art. 3 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
 
-[^key-16e16e9230fbd94249ba4ece665a4878]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/337/article/4) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-16e16e9230fbd94249ba4ece665a4878]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/337/article/4) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-5f7aaf7a5b0feea4b38778941d7b3c66]: Textual amendment: Art. 5 revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(b)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/b)
+[^c-5f7aaf7a5b0feea4b38778941d7b3c66]: Textual amendment: Art. 5 revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(b)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/b)
 
-[^key-f9fb5f5df7c94f0bfa675ea18cd21cf5]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2013/337/article/6) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-f9fb5f5df7c94f0bfa675ea18cd21cf5]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2013/337/article/6) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-0c0c85c08a95a8a79504883139641d35]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2013/337/article/7) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-0c0c85c08a95a8a79504883139641d35]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2013/337/article/7) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-539cb0b939cf4e64fec740f054c464db]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2013/337/article/8) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-539cb0b939cf4e64fec740f054c464db]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2013/337/article/8) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-cc10318d40223779d98c27a92b36355d]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2013/337/article/9) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-cc10318d40223779d98c27a92b36355d]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2013/337/article/9) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-3f44f61b81168bc6dedb01ea7e5a50b4]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2013/337/article/10) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-3f44f61b81168bc6dedb01ea7e5a50b4]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2013/337/article/10) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-430fee3a35c06da4039de7fa1815cf3f]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2013/337/article/11) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-430fee3a35c06da4039de7fa1815cf3f]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2013/337/article/11) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-7c7ca8d1bf4cb2f8ffea73fe3576a0a2]: Textual amendment: Art. 12 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+[^c-7c7ca8d1bf4cb2f8ffea73fe3576a0a2]: Textual amendment: Art. 12 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
 
-[^key-12866cfbf34584b31ac7364f30482b20]: Textual amendment: Art. 13 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+[^c-12866cfbf34584b31ac7364f30482b20]: Textual amendment: Art. 13 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
 
-[^key-dbcd35906d86414d4304aa3acb1e9356]: Textual amendment: Art. 14 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+[^c-dbcd35906d86414d4304aa3acb1e9356]: Textual amendment: Art. 14 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
 
-[^key-55a69893bce3486921aac36378cc6ead]: Textual amendment: Art. 15 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+[^c-55a69893bce3486921aac36378cc6ead]: Textual amendment: Art. 15 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
 
-[^key-fa206e1e9b08347cb5d9e3afb590c78a]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2013/337/article/16) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-fa206e1e9b08347cb5d9e3afb590c78a]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2013/337/article/16) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-5334c4ffdda66b2b2921aa350d10517c]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2013/337/article/17) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+[^c-5334c4ffdda66b2b2921aa350d10517c]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2013/337/article/17) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
 
-[^key-ae6b2a63bd86a4dfb9c0e300d718c4ed]: Textual amendment: Art. 17(a) revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+[^c-ae6b2a63bd86a4dfb9c0e300d718c4ed]: Textual amendment: Art. 17(a) revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)

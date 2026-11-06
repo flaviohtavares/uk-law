@@ -298,7 +298,7 @@ SCHEDULES
 
 *Extent: E+W*
 
-Step 1[^key-88032fde0852780c514a6ad4e472ebed]
+Step 1[^c-88032fde0852780c514a6ad4e472ebed]
 
 Identify the amount of base grant and maintenance grant payable to the student which is to be treated as a special support payment under regulation 50.
 
@@ -404,4 +404,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^M_F_0044184b-5d3a-419b-ef53-30548c349a1e]: Textual amendment: [Pt. 16](https://www.legislation.gov.uk/wsi/2018/191/schedule/5) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [28](https://www.legislation.gov.uk/wsi/2026/3/regulation/28)
 
-[^key-88032fde0852780c514a6ad4e472ebed]: Textual amendment: Reg. 58A inserted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2018/813/regulation/6)
+[^c-88032fde0852780c514a6ad4e472ebed]: Textual amendment: Reg. 58A inserted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2018/813/regulation/6)

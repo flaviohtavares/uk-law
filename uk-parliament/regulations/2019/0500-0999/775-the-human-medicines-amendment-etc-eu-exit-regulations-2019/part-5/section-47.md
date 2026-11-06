@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of regulation 48 (application of Part 5)[^key-f3feba98a8698b783a7a75c60e7a00b0]
+## 47. Amendment of regulation 48 (application of Part 5)[^c-f3feba98a8698b783a7a75c60e7a00b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 
 - (a) at the appropriate place insert—
 
-  > “EU reference medicinal product” means a medicinal product which falls within paragraph (b)(ii) or (iii) of the definition of “reference medicinal product”;[^key-ecebfc036a9cf6448fff5bd042218f88]
+  > “EU reference medicinal product” means a medicinal product which falls within paragraph (b)(ii) or (iii) of the definition of “reference medicinal product”;[^c-ecebfc036a9cf6448fff5bd042218f88]
 
-  > “excluded reference product” means—[^key-1ad571b5def1c1eca5692489eac50e30]
+  > “excluded reference product” means—[^c-1ad571b5def1c1eca5692489eac50e30]
   >
   > - (a) a medicinal product authorised on the basis that it was a generic medicinal product;
   > - (b) a medicinal product authorised on the basis that one or more of the circumstances listed in Article 10(3) of the 2001 Directive or regulation 52(1)(b) applied; or
@@ -37,7 +37,7 @@ summary: ''
   ;
 - (b) for the definition of “generic medicinal product”, substitute—
 
-  > “generic medicinal product”, in relation to a reference medicinal product for an application for—[^key-72288e47723b419bdbbf6ecfe1688628]
+  > “generic medicinal product”, in relation to a reference medicinal product for an application for—[^c-72288e47723b419bdbbf6ecfe1688628]
   >
   > - (a) a UKMA(NI) or UKMA(UK), has the meaning given in Article 10(2)(b) of the 2001 Directive;
   > - (b) a UKMA(GB), means a medicinal product—
@@ -56,7 +56,7 @@ summary: ''
   ; and
 - (d) for the definition of “reference medicinal product”, substitute—
 
-  > “reference medicinal product” means—[^key-ff6f6cfa46e4e6bc772b0e693c75afc3]
+  > “reference medicinal product” means—[^c-ff6f6cfa46e4e6bc772b0e693c75afc3]
   >
   > - (a) in relation to an application for a UKMA(NI), a medicinal product—
   >   - (i) authorised for sale or supply in Northern Ireland under regulation 49(1)(a), in accordance with the provisions of regulation 50; or
@@ -97,39 +97,39 @@ summary: ''
 > (6) Paragraph (7) applies if a medicinal product—
 >
 > - (a) belongs to a global marketing authorisation but is not the initial marketing authorisation; and
-> - (b) is used as a reference medicinal product in accordance with regulations 51 to 53B[^key-c244bc6e6652345aa42e608d0468965f].
+> - (b) is used as a reference medicinal product in accordance with regulations 51 to 53B[^c-c244bc6e6652345aa42e608d0468965f].
 >
-> (7) Where this paragraph applies, the medicinal product is treated for the purposes of the application of regulation 51A(1) and (6)[^key-24188a152425759b2a56f90390f41cc5] as if it had been authorised on the date of authorisation of the medicinal product to which the initial marketing authorisation relates.
+> (7) Where this paragraph applies, the medicinal product is treated for the purposes of the application of regulation 51A(1) and (6)[^c-24188a152425759b2a56f90390f41cc5] as if it had been authorised on the date of authorisation of the medicinal product to which the initial marketing authorisation relates.
 >
 > (8) Paragraph (9) applies in relation to a medicinal product if—
 >
 > - (a) it is an EU reference medicinal product;
-> - (b) it is used as a reference medicinal product in accordance with regulations 51 to 53B[^key-83537ef5f5ed3dc515c5b87e5f08ebf6]; and
+> - (b) it is used as a reference medicinal product in accordance with regulations 51 to 53B[^c-83537ef5f5ed3dc515c5b87e5f08ebf6]; and
 > - (c) it belongs to a global marketing authorisation, as described in the second paragraph of Article 6(1) of the 2001 Directive; but
 > - (d) it is not the initial marketing authorisation for the purposes of that global marketing authorisation.
 >
-> (9) Where this paragraph applies, the medicinal product is treated for the purposes of the application of regulation 51A(1) and (6)[^key-611bf0c35f8aad8ef813cbb284fd6abe] as if it had been authorised on the date of authorisation of the initial marketing authorisation for the purposes of the global marketing authorisation to which the product belongs.
+> (9) Where this paragraph applies, the medicinal product is treated for the purposes of the application of regulation 51A(1) and (6)[^c-611bf0c35f8aad8ef813cbb284fd6abe] as if it had been authorised on the date of authorisation of the initial marketing authorisation for the purposes of the global marketing authorisation to which the product belongs.
 
 .
 
 ## Annotations
 
-[^key-f3feba98a8698b783a7a75c60e7a00b0]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f3feba98a8698b783a7a75c60e7a00b0]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884691]: Marginal citation: Regulation 48 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-ecebfc036a9cf6448fff5bd042218f88]: Textual amendment: Words in reg. 47(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/a/i)
+[^c-ecebfc036a9cf6448fff5bd042218f88]: Textual amendment: Words in reg. 47(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/a/i)
 
-[^key-1ad571b5def1c1eca5692489eac50e30]: Textual amendment: Words in reg. 47(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/a/ii)
+[^c-1ad571b5def1c1eca5692489eac50e30]: Textual amendment: Words in reg. 47(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/a/ii)
 
-[^key-72288e47723b419bdbbf6ecfe1688628]: Textual amendment: Words in reg. 47(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/b)
+[^c-72288e47723b419bdbbf6ecfe1688628]: Textual amendment: Words in reg. 47(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/b)
 
-[^key-ff6f6cfa46e4e6bc772b0e693c75afc3]: Textual amendment: Words in reg. 47(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/c)
+[^c-ff6f6cfa46e4e6bc772b0e693c75afc3]: Textual amendment: Words in reg. 47(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/c)
 
-[^key-c244bc6e6652345aa42e608d0468965f]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/i)
+[^c-c244bc6e6652345aa42e608d0468965f]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/i)
 
-[^key-24188a152425759b2a56f90390f41cc5]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/ii)
+[^c-24188a152425759b2a56f90390f41cc5]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/ii)
 
-[^key-83537ef5f5ed3dc515c5b87e5f08ebf6]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/iii)
+[^c-83537ef5f5ed3dc515c5b87e5f08ebf6]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/iii)
 
-[^key-611bf0c35f8aad8ef813cbb284fd6abe]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/iv)
+[^c-611bf0c35f8aad8ef813cbb284fd6abe]: Textual amendment: Words in reg. 47(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 35(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/35/d/iv)

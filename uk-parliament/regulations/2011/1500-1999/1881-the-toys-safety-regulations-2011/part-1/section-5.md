@@ -23,7 +23,7 @@ summary: ''
 (1) The essential safety requirements in respect of a toy are—
 
 - (a) the general safety requirement set out in paragraphs (2) to (5); and
-- (b) the particular safety requirements set out in Schedule 2[^key-2c5212b5de64990d2f84b8f1c94ab3d3], so far as relevant.
+- (b) the particular safety requirements set out in Schedule 2[^c-2c5212b5de64990d2f84b8f1c94ab3d3], so far as relevant.
 
 (2) Toys, including the chemicals they contain, must not jeopardise the safety or health of users or third parties when they are used as intended or in a foreseeable way, bearing in mind the behaviour of children.
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^M_E_0ef7f5a6-337d-45a5-929e-bf3bedfc4abf]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-2c5212b5de64990d2f84b8f1c94ab3d3]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/5/1/b) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/7) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c5212b5de64990d2f84b8f1c94ab3d3]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/5/1/b) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/7) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Disapplication[^key-ff98a7c2edeb1d913afb03fda8341256]
+## 86. Disapplication[^c-ff98a7c2edeb1d913afb03fda8341256]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The provisions of the Diseases of Poultry Order (Northern Ireland) 1995[^f00018]
 
 ## Annotations
 
-[^key-ff98a7c2edeb1d913afb03fda8341256]: Commencement: Reg. 86 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-ff98a7c2edeb1d913afb03fda8341256]: Commencement: Reg. 86 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
 [^f00018]: Footnote: [S.R. 1995 No. 465](https://www.legislation.gov.uk/nisr/1995/465)

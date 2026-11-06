@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 3
 
-### Part 1 — Questionnaire for the Declaration of Design Information for a Qualifying Nuclear Facility[^key-d260c2621a7eae48bdf9e9e4d004777a]
+### Part 1 — Questionnaire for the Declaration of Design Information for a Qualifying Nuclear Facility[^c-d260c2621a7eae48bdf9e9e4d004777a]
 
 #### A. Conversion and Fuel Fabrication Facilities
 
@@ -1316,7 +1316,7 @@ Decommissioning schedule dates: end of operations, decommissioned;
 - ii) removal of qualifying nuclear material;
 - iii) removal or rendering inoperable of essential equipment.
 
-### PART 2 — INVENTORY CHANGE REPORT[^key-6ecc6164c31e5db1ece4329528f0d201]
+### PART 2 — INVENTORY CHANGE REPORT[^c-6ecc6164c31e5db1ece4329528f0d201]
 
 Regulation 14
 
@@ -1363,7 +1363,7 @@ Regulation 14
 | Burn-up | Number (6) | Burn-up in MW days/tonne (use for IC codes NL and NP in nuclear reactors only) | 39 |
 | CRC | Number (20) | Hash code of line for quality control purposes | 40 |
 | Previous CRC | Number (20) | Hash code of line to be corrected | 41 |
-| Advance notification | Character (8) | Reference to advance notification sent to the ONR (use for IC codes [^key-39d2a7c9bff23dd1bb3249c98fcfb8ba]... RF, [^key-741ce86bae4d7b5a25a75ad8fe067328]... SN and SF only) | 42 |
+| Advance notification | Character (8) | Reference to advance notification sent to the ONR (use for IC codes [^c-39d2a7c9bff23dd1bb3249c98fcfb8ba]... RF, [^c-741ce86bae4d7b5a25a75ad8fe067328]... SN and SF only) | 42 |
 | Campaign | Character (12) | Campaign identifier for qualifying nuclear facilities which carry out reprocessing | 43 |
 | Reactor | Character (12) | Reactor code for reprocessing campaigns | 44 |
 | Error path | Character (8) | Special code for evaluation purposes | 45 |
@@ -1434,7 +1434,7 @@ Regulation 14
 </tbody>
 </table>
 
-[^key-69361dc860fdac85c261addb0dfd3bd1][^key-0c3f8981d08a89113948863882141088][^key-9c968c7b011895da32b878e5e20d7ef6]
+[^c-69361dc860fdac85c261addb0dfd3bd1][^c-0c3f8981d08a89113948863882141088][^c-9c968c7b011895da32b878e5e20d7ef6]
 
 <table>
 <tbody>
@@ -1631,7 +1631,7 @@ Regulation 14
 </tbody>
 </table>
 
-[^key-e2635aa452197f4c80641be7d590750d][^key-0abb61d83cb6d750c85423d66995f44f][^key-4461585064ecfb21ea257dbd8f0993e1][^key-5d1c4797869e4fe05a9e05941dfc5acf][^key-f0467513ce2039f41f2a27eb60792e67][^M_F_c1f0b132-71af-492f-ad0e-39679206c607]
+[^c-e2635aa452197f4c80641be7d590750d][^c-0abb61d83cb6d750c85423d66995f44f][^c-4461585064ecfb21ea257dbd8f0993e1][^c-5d1c4797869e4fe05a9e05941dfc5acf][^c-f0467513ce2039f41f2a27eb60792e67][^M_F_c1f0b132-71af-492f-ad0e-39679206c607]
 
 <table>
 <tbody>
@@ -1669,7 +1669,7 @@ Regulation 14
 </tbody>
 </table>
 
-### PART 3 — MATERIAL BALANCE REPORT (MBR)[^key-91acd2637527663269fea75fab113367]
+### PART 3 — MATERIAL BALANCE REPORT (MBR)[^c-91acd2637527663269fea75fab113367]
 
 Regulation 15
 
@@ -1787,7 +1787,7 @@ Regulation 15
 </tbody>
 </table>
 
-[^key-91f08cbda0a22f07d2e95db6966a0105][^key-4eda1bd977da51bd3a2dfcfe42030f82][^key-4cf76994ccdb20fafec6dca827271dbf]
+[^c-91f08cbda0a22f07d2e95db6966a0105][^c-4eda1bd977da51bd3a2dfcfe42030f82][^c-4cf76994ccdb20fafec6dca827271dbf]
 
 <table>
 <tbody>
@@ -1833,7 +1833,7 @@ Regulation 15
 </tbody>
 </table>
 
-### PART 4 — PHYSICAL INVENTORY LISTING (PIL)[^key-3899f4f9f3c3235409b6dc62675635f4]
+### PART 4 — PHYSICAL INVENTORY LISTING (PIL)[^c-3899f4f9f3c3235409b6dc62675635f4]
 
 Regulations 13 and 15
 
@@ -2067,7 +2067,7 @@ Regulations 13 and 15
 </tbody>
 </table>
 
-### PART 5 — ADVANCE NOTIFICATION OF EXPORTS/SHIPMENTS OF QUALIFYING NUCLEAR MATERIAL[^key-4a370c61aaeca00e6508cf0386819352]
+### PART 5 — ADVANCE NOTIFICATION OF EXPORTS/SHIPMENTS OF QUALIFYING NUCLEAR MATERIAL[^c-4a370c61aaeca00e6508cf0386819352]
 
 Regulation 21
 
@@ -2143,7 +2143,7 @@ Regulation 21
 </tbody>
 </table>
 
-### PART 6 — ADVANCE NOTIFICATION OF IMPORTS/RECEIPTS OF QUALIFYING NUCLEAR MATERIAL[^key-f1e703af422382eaabf53b172090cbb0]
+### PART 6 — ADVANCE NOTIFICATION OF IMPORTS/RECEIPTS OF QUALIFYING NUCLEAR MATERIAL[^c-f1e703af422382eaabf53b172090cbb0]
 
 Regulation 22
 
@@ -2212,13 +2212,13 @@ Regulation 22
 </tbody>
 </table>
 
-### PART 7 — REPORT OF ORE EXPORTS/SHIPMENTS[^key-daa467b33af8b9e9962d244e2f7cefae]
+### PART 7 — REPORT OF ORE EXPORTS/SHIPMENTS[^c-daa467b33af8b9e9962d244e2f7cefae]
 
 **No longer in force.**
 
 Regulation 28
 
-### PART 8 — OUTLINE PROGRAMME OF ACTIVITIES[^key-1b1d8ffe2c319abf61235d6709271658]
+### PART 8 — OUTLINE PROGRAMME OF ACTIVITIES[^c-1b1d8ffe2c319abf61235d6709271658]
 
 Regulation 4
 
@@ -2239,7 +2239,7 @@ Regulation 4
 </tbody>
 </table>
 
-### PART 9 — ANNUAL REPORT ON EXPORTS/SHIPMENTS OF CONDITIONED WASTE (Note. 1)[^key-aaa07d03e7c058b45244728c0cd21d32]
+### PART 9 — ANNUAL REPORT ON EXPORTS/SHIPMENTS OF CONDITIONED WASTE (Note. 1)[^c-aaa07d03e7c058b45244728c0cd21d32]
 
 Regulation 30(1)(a)
 
@@ -2285,7 +2285,7 @@ Regulation 30(1)(a)
 </tbody>
 </table>
 
-### PART 10 — ANNUAL REPORT ON IMPORTS/RECEIPTS OF CONDITIONED WASTE[^key-7b39ff1d40f321665f6f8518b9e0db45]
+### PART 10 — ANNUAL REPORT ON IMPORTS/RECEIPTS OF CONDITIONED WASTE[^c-7b39ff1d40f321665f6f8518b9e0db45]
 
 Regulation 30(1)(b)
 
@@ -2331,7 +2331,7 @@ Regulation 30(1)(b)
 </tbody>
 </table>
 
-### PART 11 — REQUEST FOR A QUALIFYING NUCLEAR FACILITY WITH LIMITED OPERATION[^key-1fe2b10fa361daa98f5cd9ff4bb2480e]
+### PART 11 — REQUEST FOR A QUALIFYING NUCLEAR FACILITY WITH LIMITED OPERATION[^c-1fe2b10fa361daa98f5cd9ff4bb2480e]
 
 Regulation 31(2)(a)
 
@@ -2372,7 +2372,7 @@ Regulation 31(2)(a)
 </tbody>
 </table>
 
-### PART 12 — ADVANCE NOTIFICATION OF INTENDED WITHDRAWAL OF QUALIFYING NUCLEAR MATERIAL FROM CIVIL ACTIVITIES[^key-b7738768542ae2be9cfa69d17f35425b]
+### PART 12 — ADVANCE NOTIFICATION OF INTENDED WITHDRAWAL OF QUALIFYING NUCLEAR MATERIAL FROM CIVIL ACTIVITIES[^c-b7738768542ae2be9cfa69d17f35425b]
 
 Regulation 33(2)
 
@@ -2420,54 +2420,54 @@ Regulation 33(2)
 
 ## Annotations
 
-[^key-d260c2621a7eae48bdf9e9e4d004777a]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/835/schedule) (with [reg. 37](https://www.legislation.gov.uk/uksi/2026/835/regulation/37))
+[^c-d260c2621a7eae48bdf9e9e4d004777a]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/835/schedule) (with [reg. 37](https://www.legislation.gov.uk/uksi/2026/835/regulation/37))
 
-[^key-6ecc6164c31e5db1ece4329528f0d201]: Commencement: Sch. 1 Pt. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6ecc6164c31e5db1ece4329528f0d201]: Commencement: Sch. 1 Pt. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-39d2a7c9bff23dd1bb3249c98fcfb8ba]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/a/i)
+[^c-39d2a7c9bff23dd1bb3249c98fcfb8ba]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/a/i)
 
-[^key-741ce86bae4d7b5a25a75ad8fe067328]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/a/ii)
+[^c-741ce86bae4d7b5a25a75ad8fe067328]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/a/ii)
 
-[^key-69361dc860fdac85c261addb0dfd3bd1]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/b/i)
+[^c-69361dc860fdac85c261addb0dfd3bd1]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/b/i)
 
-[^key-0c3f8981d08a89113948863882141088]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/b/ii)
+[^c-0c3f8981d08a89113948863882141088]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/b/ii)
 
-[^key-9c968c7b011895da32b878e5e20d7ef6]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/b/iii)
+[^c-9c968c7b011895da32b878e5e20d7ef6]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/b/iii)
 
-[^key-e2635aa452197f4c80641be7d590750d]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/aa)
+[^c-e2635aa452197f4c80641be7d590750d]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/aa)
 
-[^key-0abb61d83cb6d750c85423d66995f44f]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/bb)
+[^c-0abb61d83cb6d750c85423d66995f44f]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/bb)
 
-[^key-4461585064ecfb21ea257dbd8f0993e1]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(cc)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/cc)
+[^c-4461585064ecfb21ea257dbd8f0993e1]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(cc)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/cc)
 
-[^key-5d1c4797869e4fe05a9e05941dfc5acf]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(dd)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/dd)
+[^c-5d1c4797869e4fe05a9e05941dfc5acf]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(i)(dd)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/i/dd)
 
-[^key-f0467513ce2039f41f2a27eb60792e67]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/ii)
+[^c-f0467513ce2039f41f2a27eb60792e67]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/ii)
 
 [^M_F_c1f0b132-71af-492f-ad0e-39679206c607]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/2) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/3/c/iii)
 
-[^key-91acd2637527663269fea75fab113367]: Commencement: Sch. 1 Pt. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-91acd2637527663269fea75fab113367]: Commencement: Sch. 1 Pt. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-91f08cbda0a22f07d2e95db6966a0105]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/3) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(4)(a)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/4/a)
+[^c-91f08cbda0a22f07d2e95db6966a0105]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/3) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(4)(a)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/4/a)
 
-[^key-4eda1bd977da51bd3a2dfcfe42030f82]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/3) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(4)(b)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/4/b)
+[^c-4eda1bd977da51bd3a2dfcfe42030f82]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/3) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(4)(b)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/4/b)
 
-[^key-4cf76994ccdb20fafec6dca827271dbf]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/3) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(4)(c)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/4/c)
+[^c-4cf76994ccdb20fafec6dca827271dbf]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/3) table substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(4)(c)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/4/c)
 
-[^key-3899f4f9f3c3235409b6dc62675635f4]: Commencement: Sch. 1 Pt. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3899f4f9f3c3235409b6dc62675635f4]: Commencement: Sch. 1 Pt. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-4a370c61aaeca00e6508cf0386819352]: Commencement: Sch. 1 Pt. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4a370c61aaeca00e6508cf0386819352]: Commencement: Sch. 1 Pt. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-f1e703af422382eaabf53b172090cbb0]: Commencement: Sch. 1 Pt. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f1e703af422382eaabf53b172090cbb0]: Commencement: Sch. 1 Pt. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-daa467b33af8b9e9962d244e2f7cefae]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/7) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(5)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/5)
+[^c-daa467b33af8b9e9962d244e2f7cefae]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/uksi/2019/196/schedule/1/part/7) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [31(5)](https://www.legislation.gov.uk/uksi/2026/835/regulation/31/5)
 
-[^key-1b1d8ffe2c319abf61235d6709271658]: Commencement: Sch. 1 Pt. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1b1d8ffe2c319abf61235d6709271658]: Commencement: Sch. 1 Pt. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-aaa07d03e7c058b45244728c0cd21d32]: Commencement: Sch. 1 Pt. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-aaa07d03e7c058b45244728c0cd21d32]: Commencement: Sch. 1 Pt. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-7b39ff1d40f321665f6f8518b9e0db45]: Commencement: Sch. 1 Pt. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7b39ff1d40f321665f6f8518b9e0db45]: Commencement: Sch. 1 Pt. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-1fe2b10fa361daa98f5cd9ff4bb2480e]: Commencement: Sch. 1 Pt. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1fe2b10fa361daa98f5cd9ff4bb2480e]: Commencement: Sch. 1 Pt. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-b7738768542ae2be9cfa69d17f35425b]: Commencement: Sch. 1 Pt. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b7738768542ae2be9cfa69d17f35425b]: Commencement: Sch. 1 Pt. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

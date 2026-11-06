@@ -99,7 +99,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (2) Provision falls within this sub-paragraph if it—
 
-- (a) amends, repeals or revokes primary legislation [^key-2223358d3854db76eb186223ce7cc8e4]..., or
+- (a) amends, repeals or revokes primary legislation [^c-2223358d3854db76eb186223ce7cc8e4]..., or
 - (b) creates a power to legislate.
 
 (3) Any other statutory instrument which—
@@ -300,8 +300,8 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (2) Provision falls within this sub-paragraph if it amends, repeals or revokes—
 
-- (a) primary legislation, [^key-82c045a7de11771aab5572036cec14eb]...
-- (b)[^key-82c045a7de11771aab5572036cec14eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-82c045a7de11771aab5572036cec14eb]...
+- (b)[^c-82c045a7de11771aab5572036cec14eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any other statutory instrument containing regulations under section 33 of a Minister of the Crown acting alone is subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -626,6 +626,6 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 ## Annotations
 
-[^key-2223358d3854db76eb186223ce7cc8e4]: Textual amendment: Words in [Sch. 5 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/5/paragraph/6/2/a) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/5/2)
+[^c-2223358d3854db76eb186223ce7cc8e4]: Textual amendment: Words in [Sch. 5 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/5/paragraph/6/2/a) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/5/2)
 
-[^key-82c045a7de11771aab5572036cec14eb]: Textual amendment: [Sch. 5 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/5/paragraph/12/2/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/5/3)
+[^c-82c045a7de11771aab5572036cec14eb]: Textual amendment: [Sch. 5 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/5/paragraph/12/2/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/5/3)

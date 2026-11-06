@@ -56,10 +56,10 @@ summary: ''
 - (a) in relation to land in an area in England—
   - (i) subject to sub-paragraph (ii), Natural England;
   - (ii) in relation to any time before the commencement of section 27AA, English Nature;
-- (b) in relation to land in an area in Wales, the Natural Resources Body for Wales[^key-0fcda93cb65be78772ebfd59d174639e].
+- (b) in relation to land in an area in Wales, the Natural Resources Body for Wales[^c-0fcda93cb65be78772ebfd59d174639e].
 
 ## Annotations
 
 [^c19497221]: Textual amendment: S. 70B inserted (31.5.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 57](https://www.legislation.gov.uk/ukpga/2006/16/section/57), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107); [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-0fcda93cb65be78772ebfd59d174639e]: Textual amendment: Words in [s. 70B(7)(b)](https://www.legislation.gov.uk/ukpga/1981/69/section/70B/7/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 179](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/179) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0fcda93cb65be78772ebfd59d174639e]: Textual amendment: Words in [s. 70B(7)(b)](https://www.legislation.gov.uk/ukpga/1981/69/section/70B/7/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 179](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/179) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

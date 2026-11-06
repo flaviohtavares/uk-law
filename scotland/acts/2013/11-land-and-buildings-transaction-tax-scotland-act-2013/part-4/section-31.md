@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Return where contingency ceases or consideration ascertained[^key-2daaf66bb1f898ecc8db1205cc303711][^key-0646f7971ded8f86fc15fdffb7e45b60]
+## 31. Return where contingency ceases or consideration ascertained[^c-2daaf66bb1f898ecc8db1205cc303711][^c-0646f7971ded8f86fc15fdffb7e45b60]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2daaf66bb1f898ecc8db1205cc303711]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/11/section/31) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-2daaf66bb1f898ecc8db1205cc303711]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/11/section/31) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-0646f7971ded8f86fc15fdffb7e45b60]: Modification: [S. 31](https://www.legislation.gov.uk/asp/2013/11/section/31) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [12](https://www.legislation.gov.uk/ssi/2014/375/regulation/12)
+[^c-0646f7971ded8f86fc15fdffb7e45b60]: Modification: [S. 31](https://www.legislation.gov.uk/asp/2013/11/section/31) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [12](https://www.legislation.gov.uk/ssi/2014/375/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Proxies[^key-9b7ee1b3003908868b9b960e7e4e0e05]
+## 64. Proxies[^c-9b7ee1b3003908868b9b960e7e4e0e05]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ and that the proxy is capable of being, and willing to be, appointed.
 
 (6) The appointment may be cancelled by the principal by giving notice to the registration officer and also ceases to be in force on the issue of a proxy paper appointing a different person under this paragraph to vote for the principal in the referendum.
 
-**65.**[^key-1aa86bbc2565ddcf6bb4be30f0e5dc6b] (1) Subject to what follows, where a relevant proxy appointment is in force, the person appointed is entitled to vote as proxy for the person for whom the appointment was made (the “principal”).
+**65.**[^c-1aa86bbc2565ddcf6bb4be30f0e5dc6b] (1) Subject to what follows, where a relevant proxy appointment is in force, the person appointed is entitled to vote as proxy for the person for whom the appointment was made (the “principal”).
 
 (2) In paragraph (1) “relevant proxy appointment” means—
 
@@ -61,6 +61,6 @@ and that the proxy is capable of being, and willing to be, appointed.
 
 ## Annotations
 
-[^key-9b7ee1b3003908868b9b960e7e4e0e05]: Commencement: Reg. 64 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-9b7ee1b3003908868b9b960e7e4e0e05]: Commencement: Reg. 64 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-1aa86bbc2565ddcf6bb4be30f0e5dc6b]: Commencement: Reg. 65 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-1aa86bbc2565ddcf6bb4be30f0e5dc6b]: Commencement: Reg. 65 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

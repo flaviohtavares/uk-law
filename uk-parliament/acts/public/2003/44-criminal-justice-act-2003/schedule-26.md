@@ -741,7 +741,7 @@ for “3 months” there is substituted
 
 **Not yet in force.**
 
-**51.**[^key-cbf131310873dfaedf16ab54a3ad71df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-cbf131310873dfaedf16ab54a3ad71df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Greater London Authority Act 1999 (c. 29)
 
@@ -857,7 +857,7 @@ for “three months” there is substituted
 
 **Not yet in force.**
 
-**59.**[^key-c7789271e6c832df72fbacd4c22faedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-c7789271e6c832df72fbacd4c22faedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -869,6 +869,6 @@ for “three months” there is substituted
 
 [^c19259311]: Textual amendment: Sch. 26 para. 50 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-cbf131310873dfaedf16ab54a3ad71df]: Textual amendment: Sch. 26 para. 51 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-cbf131310873dfaedf16ab54a3ad71df]: Textual amendment: Sch. 26 para. 51 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-c7789271e6c832df72fbacd4c22faedc]: Textual amendment: Sch. 26 para. 59 repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(cc)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/cc)[(viii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/viii) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))
+[^c-c7789271e6c832df72fbacd4c22faedc]: Textual amendment: Sch. 26 para. 59 repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(cc)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/cc)[(viii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/viii) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))

@@ -34,7 +34,7 @@ ENVIRONMENTAL PROTECTION
 
 WATER
 
-The Water Environment (Diffuse Pollution) (Scotland) Regulations 2008 (revoked)[^key-2c75454f6f5dbcb437031f61f0769fe0]
+The Water Environment (Diffuse Pollution) (Scotland) Regulations 2008 (revoked)[^c-2c75454f6f5dbcb437031f61f0769fe0]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 1st April 2008
 
-[^key-2c75454f6f5dbcb437031f61f0769fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c75454f6f5dbcb437031f61f0769fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2c75454f6f5dbcb437031f61f0769fe0]
+## 1. Citation and commencement[^c-2c75454f6f5dbcb437031f61f0769fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^key-2c75454f6f5dbcb437031f61f0769fe0]
+## 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^c-2c75454f6f5dbcb437031f61f0769fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003[^key-2c75454f6f5dbcb437031f61f0769fe0]
+## 3. Amendment of the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003[^c-2c75454f6f5dbcb437031f61f0769fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c75454f6f5dbcb437031f61f0769fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c75454f6f5dbcb437031f61f0769fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MODIFICATION TO THE WATER ENVIRONMENT (CONTROLLED ACTIVITIES) (SCOTLAND) REGULATIONS 2005[^key-2c75454f6f5dbcb437031f61f0769fe0]
+## SCHEDULE — MODIFICATION TO THE WATER ENVIRONMENT (CONTROLLED ACTIVITIES) (SCOTLAND) REGULATIONS 2005[^c-2c75454f6f5dbcb437031f61f0769fe0]
 
 Regulation 2
 
-[^key-2c75454f6f5dbcb437031f61f0769fe0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c75454f6f5dbcb437031f61f0769fe0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2c75454f6f5dbcb437031f61f0769fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c75454f6f5dbcb437031f61f0769fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c75454f6f5dbcb437031f61f0769fe0]: Textual amendment: Regulations revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)
+[^c-2c75454f6f5dbcb437031f61f0769fe0]: Textual amendment: Regulations revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)

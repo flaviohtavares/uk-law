@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Appointment of substitute manager[^key-38c9ee79c1934f43b5aaddebe2cf56e3]
+## 90. Appointment of substitute manager[^c-38c9ee79c1934f43b5aaddebe2cf56e3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38c9ee79c1934f43b5aaddebe2cf56e3]: Commencement: S. 90 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-38c9ee79c1934f43b5aaddebe2cf56e3]: Commencement: S. 90 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

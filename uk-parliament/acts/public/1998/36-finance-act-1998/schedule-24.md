@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 24 — Restrictions on setting losses against pre-entry gains[^key-d58dffb68fd87fbefc18e01c994a0d8b]
+## SCHEDULE 24 — Restrictions on setting losses against pre-entry gains[^c-d58dffb68fd87fbefc18e01c994a0d8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Section 137.
 
-[^key-d58dffb68fd87fbefc18e01c994a0d8b]
+[^c-d58dffb68fd87fbefc18e01c994a0d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d58dffb68fd87fbefc18e01c994a0d8b]: Textual amendment: Sch. 24 repealed (with effect in accordance with Sch. 26 Pt. 3(9) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)
+[^c-d58dffb68fd87fbefc18e01c994a0d8b]: Textual amendment: Sch. 24 repealed (with effect in accordance with Sch. 26 Pt. 3(9) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)

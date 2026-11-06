@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Duty of principal council to report on its performance[^key-1ecd039f9b3f9c286b095caefc709f56]
+## 91. Duty of principal council to report on its performance[^c-1ecd039f9b3f9c286b095caefc709f56]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ecd039f9b3f9c286b095caefc709f56]: Commencement: S. 91 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/297/article/2/a)
+[^c-1ecd039f9b3f9c286b095caefc709f56]: Commencement: S. 91 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/297/article/2/a)

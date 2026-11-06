@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest on an advance from a bank if, at the time when the payment is made, the person beneficially entitled to the interest is within the charge to corporation tax as respects the interest or is a bank that would be within the charge to corporation tax as respects the interest apart from section 18A of CTA 2009[^key-d2097cefac0c0bd25045f741b278c1b4].
+(1) The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest on an advance from a bank if, at the time when the payment is made, the person beneficially entitled to the interest is within the charge to corporation tax as respects the interest or is a bank that would be within the charge to corporation tax as respects the interest apart from section 18A of CTA 2009[^c-d2097cefac0c0bd25045f741b278c1b4].
 
 (2) Section 991 (meaning of “bank”) applies for the purposes of this section.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2097cefac0c0bd25045f741b278c1b4]: Textual amendment: Words in s. 879(1) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 19](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/19), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-d2097cefac0c0bd25045f741b278c1b4]: Textual amendment: Words in s. 879(1) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 19](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/19), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

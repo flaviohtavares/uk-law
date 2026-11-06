@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. General interpretation of Chapter 1 of Part 1[^key-00b671b5c36f2f2ac7841986aeb2355b][^key-fb7990a8dd3637051d83282de0c636f3]
+## 37. General interpretation of Chapter 1 of Part 1[^c-00b671b5c36f2f2ac7841986aeb2355b][^c-fb7990a8dd3637051d83282de0c636f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,13 +75,13 @@ summary: ''
 - (e) a publicly owned company; or
 - (f) a nominee of a person falling within paragraphs (a) to (e).
 
-(5) Schedule 6 to the Companies Act 2006[^key-3dd7a0a5ecf806aef61c53ec8ed9ecbe] (meaning of “voting rights” etc.) applies for construing references in this Chapter to holding voting rights in a company as it applies for construing section 1159 of that Act.
+(5) Schedule 6 to the Companies Act 2006[^c-3dd7a0a5ecf806aef61c53ec8ed9ecbe] (meaning of “voting rights” etc.) applies for construing references in this Chapter to holding voting rights in a company as it applies for construing section 1159 of that Act.
 
 (6) Sections 17 to 20 bind the Crown.
 
 (7) In this section—
 
-- “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^key-9f39c332fdda0752d8029b90c5be044c];
+- “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^c-9f39c332fdda0752d8029b90c5be044c];
 - “**nuclear matter**” means material which—
   - (a) is nuclear matter within the meaning of the 1965 Act; or
   - (b) would be such matter if it did not fall within an exception prescribed by regulations under that Act;
@@ -89,12 +89,12 @@ summary: ''
 
 ## Annotations
 
-[^key-00b671b5c36f2f2ac7841986aeb2355b]: Commencement: S. 37 in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-00b671b5c36f2f2ac7841986aeb2355b]: Commencement: S. 37 in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-fb7990a8dd3637051d83282de0c636f3]: Commencement: S. 37 in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-fb7990a8dd3637051d83282de0c636f3]: Commencement: S. 37 in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-3dd7a0a5ecf806aef61c53ec8ed9ecbe]: Textual amendment: Words in s. 37(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-3dd7a0a5ecf806aef61c53ec8ed9ecbe]: Textual amendment: Words in s. 37(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-9f39c332fdda0752d8029b90c5be044c]: Textual amendment: Words in s. 37(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-9f39c332fdda0752d8029b90c5be044c]: Textual amendment: Words in s. 37(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^M_F_211000e9-80c1-401a-9d39-6589f043751b]: Textual amendment: Words in s. 37(7) substituted (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 17(3)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/17/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4)) and further substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 16(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/16/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

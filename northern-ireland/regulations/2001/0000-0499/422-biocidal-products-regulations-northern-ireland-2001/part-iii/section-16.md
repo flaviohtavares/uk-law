@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Research and development[^key-60ace6f2d698fc7beaf2df8f0f96ce1c]
+## 16. Research and development[^c-60ace6f2d698fc7beaf2df8f0f96ce1c]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60ace6f2d698fc7beaf2df8f0f96ce1c]: Commencement: Reg. 16 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-60ace6f2d698fc7beaf2df8f0f96ce1c]: Commencement: Reg. 16 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

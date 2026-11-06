@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Register of notices and certificates[^key-d1e3a8751523a0dfec9503206c004476]
+## 32. Register of notices and certificates[^c-d1e3a8751523a0dfec9503206c004476]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1e3a8751523a0dfec9503206c004476]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2024/1268/regulation/32) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-d1e3a8751523a0dfec9503206c004476]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2024/1268/regulation/32) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

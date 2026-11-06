@@ -33,31 +33,31 @@ of 2 August 2016
 
 amending Regulation (EU) No 1011/2012 (ECB/2012/24) concerning statistics on holdings of securities (ECB/2016/22) (revoked)
 
-[^key-53c8cef12c686f66c8edc0e5126fb6dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53c8cef12c686f66c8edc0e5126fb6dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments[^key-53c8cef12c686f66c8edc0e5126fb6dc]
+## Article 1. Amendments[^c-53c8cef12c686f66c8edc0e5126fb6dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Final provision[^key-53c8cef12c686f66c8edc0e5126fb6dc]
+## Article 2. Final provision[^c-53c8cef12c686f66c8edc0e5126fb6dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53c8cef12c686f66c8edc0e5126fb6dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53c8cef12c686f66c8edc0e5126fb6dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-53c8cef12c686f66c8edc0e5126fb6dc]
+## ANNEX[^c-53c8cef12c686f66c8edc0e5126fb6dc]
 
-[^key-53c8cef12c686f66c8edc0e5126fb6dc]1.
+[^c-53c8cef12c686f66c8edc0e5126fb6dc]1.
 
 Annex I to Regulation (EU) No 1011/2012 (ECB/2012/24) is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53c8cef12c686f66c8edc0e5126fb6dc]2.
+[^c-53c8cef12c686f66c8edc0e5126fb6dc]2.
 
 Annex II is amended as follows:
 
@@ -65,4 +65,4 @@ Annex II is amended as follows:
 
 ## Annotations
 
-[^key-53c8cef12c686f66c8edc0e5126fb6dc]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/91)
+[^c-53c8cef12c686f66c8edc0e5126fb6dc]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/91)

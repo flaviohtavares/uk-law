@@ -60,15 +60,15 @@ In accordance with the requirements of paragraph 8(3) of Schedule 8, and paragra
 
 Accordingly, the Secretary of State[^f00004] makes this Order.
 
-## 1. Citation and commencement[^key-26889ef7200cb8789dbea5bc647be42e]
+## 1. Citation and commencement[^c-26889ef7200cb8789dbea5bc647be42e]
 
 This Order may be cited as the Civil Enforcement of Parking Contraventions Designation Order 2011 and comes into force on 7th November 2011.
 
-## 2. Revocation of previous orders[^key-4633a3a62227ff623c4e1028a2746797]
+## 2. Revocation of previous orders[^c-4633a3a62227ff623c4e1028a2746797]
 
 The Road Traffic (Permitted Parking Area and Special Parking Area) (County of Kent) (Borough of Dartford) Order 2001[^f00005] is revoked.
 
-## 3. Designation of civil enforcement areas and special enforcement areas under the Traffic Management Act 2004[^key-b1c1d4c29947201fc1eb8d4beaed0156]
+## 3. Designation of civil enforcement areas and special enforcement areas under the Traffic Management Act 2004[^c-b1c1d4c29947201fc1eb8d4beaed0156]
 
 (1) The Secretary of State designates each of the areas mentioned in paragraph (2) as—
 
@@ -77,7 +77,7 @@ The Road Traffic (Permitted Parking Area and Special Parking Area) (County of Ke
 
 (2) Those areas are—
 
-- (a)[^key-eade062c8d6f6700ade5eee9e83d1fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-eade062c8d6f6700ade5eee9e83d1fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the part of the area of The East Riding of Yorkshire Council specified in Schedule 3;
 - (c) the part of the area of The Kent County Council specified in Schedule 4;
 - (d) the part of the area of The Norfolk County Council specified in Schedule 5; and
@@ -95,7 +95,7 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — The parts of the area of The County Council of Durham designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-4b50040c81b45648480deef792c5466e]
+## SCHEDULE 1 — The parts of the area of The County Council of Durham designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-4b50040c81b45648480deef792c5466e]
 
 **No longer in force.**
 
@@ -103,7 +103,7 @@ Article 3(2)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Plan ND Overview[^key-70ad4776438a67e4a52a2192f6c32b40]
+## SCHEDULE 2 — Plan ND Overview[^c-70ad4776438a67e4a52a2192f6c32b40]
 
 **No longer in force.**
 
@@ -111,11 +111,11 @@ Article 3(2)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — The part of the area of The East Riding of Yorkshire Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-b5c43999b4e179df81234fda7f45df1a]
+## SCHEDULE 3 — The part of the area of The East Riding of Yorkshire Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-b5c43999b4e179df81234fda7f45df1a]
 
 Article 3(2)(b)
 
-[^key-b5c43999b4e179df81234fda7f45df1a]
+[^c-b5c43999b4e179df81234fda7f45df1a]
 
 The whole of the area of The East Riding of Yorkshire Council except—
 
@@ -124,11 +124,11 @@ The whole of the area of The East Riding of Yorkshire Council except—
 - (c) the A15 Humber Bridge approach road, from its junction with the A164 and A1105 roads at Ordnance Survey National Grid reference point TA0190526485 to the Humber Bridge at Ordnance Survey National Grid reference point TA0241524425 including its slip roads; and
 - (d) the A1033 road from the eastern boundary of Hull City Council at Ordnance Survey National Grid reference point TA1582029000 to the point where the slip roads merge with the main line of the road near Glencoe Villas at Ordnance Survey National Grid reference point TA1707628753 excluding its slip roads.
 
-## SCHEDULE 4 — The part of the area of The Kent County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-9d077ae09b9ffafe4d2aa615faf19e3d]
+## SCHEDULE 4 — The part of the area of The Kent County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-9d077ae09b9ffafe4d2aa615faf19e3d]
 
 Article 3(2)(c)
 
-[^key-9d077ae09b9ffafe4d2aa615faf19e3d]
+[^c-9d077ae09b9ffafe4d2aa615faf19e3d]
 
 This whole of the area of The Dartford Borough Council except—
 
@@ -145,11 +145,11 @@ This whole of the area of The Dartford Borough Council except—
 - (g) the A2260 road from its junction with the A226 Thames Way at the Ebbsfleet Gateway at Ordnance Survey National Grid reference point TQ6182073888 to the junction with the A2 road on slip at the Ebbsfleet Link Roundabout B at Ordnance Survey National Grid reference point TQ6149772779; and
 - (h) the spur road from the Southfleet Road roundabout junction with the A2260 road and the A2 road off slip at the Ebbsfleet Link Roundabout C at Ordnance Survey National Grid reference point TQ6124072871 in a westerly direction for a distance of 85 metres to Ordnance Survey National Grid reference point TQ6116472907.
 
-## SCHEDULE 5 — The part of the area of The Norfolk County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-ffe1899ef7d6d53d6eab3759a13d3df1]
+## SCHEDULE 5 — The part of the area of The Norfolk County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-ffe1899ef7d6d53d6eab3759a13d3df1]
 
 Article 3(2)(d)
 
-[^key-ffe1899ef7d6d53d6eab3759a13d3df1]
+[^c-ffe1899ef7d6d53d6eab3759a13d3df1]
 
 The whole of the areas of Breckland District Council, Broadland District Council, North Norfolk District Council, South Norfolk District Council, Great Yarmouth Borough Council and The Borough Council of King’s Lynn and West Norfolk, except—
 
@@ -157,11 +157,11 @@ The whole of the areas of Breckland District Council, Broadland District Council
 - (b) the A12 road from the boundary with Suffolk County Council at the junction with Jay Lane at Ordnance Survey National Grid reference point TM5266899374 to its termination point at the junction with Vauxhall Roundabout in Great Yarmouth at Ordnance Survey National Grid reference point TG5183908450 including its slip roads; and
 - (c) the A47 road from the boundary with Cambridgeshire County Council immediately southwest of the junction with the A1101 road at Ordnance Survey National Grid reference point TF4709607800 to its termination point at the junction with the A149 road at Vauxhall Roundabout in Great Yarmouth at Ordnance Survey National Grid reference point TG5186808448 including its slip roads.
 
-## SCHEDULE 6 — The part of the area of The Warwickshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-287956f6da0b6f8e4db4fb5842c51e83]
+## SCHEDULE 6 — The part of the area of The Warwickshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-287956f6da0b6f8e4db4fb5842c51e83]
 
 Article 3(2)(e)
 
-[^key-287956f6da0b6f8e4db4fb5842c51e83]
+[^c-287956f6da0b6f8e4db4fb5842c51e83]
 
 The whole of the area of The Nuneaton and Bedworth Borough Council[^f00006] except—
 
@@ -189,26 +189,26 @@ An impact assessment has not been produced as no impact on the private or volunt
 
 [^f00004]: Footnote: The Secretary of State is, by virtue of section 92 of the Traffic Management Act 2004, the ‘appropriate national authority’ as regards England for the purposes of Part 6 of that Act.
 
-[^key-26889ef7200cb8789dbea5bc647be42e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-26889ef7200cb8789dbea5bc647be42e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
-[^key-4633a3a62227ff623c4e1028a2746797]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2431/article/2) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-4633a3a62227ff623c4e1028a2746797]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2431/article/2) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
 [^f00005]: Footnote: [S.I. 2001/1855](https://www.legislation.gov.uk/uksi/2001/1855).
 
-[^key-b1c1d4c29947201fc1eb8d4beaed0156]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2431/article/3) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-b1c1d4c29947201fc1eb8d4beaed0156]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2431/article/3) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
-[^key-eade062c8d6f6700ade5eee9e83d1fbc]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/2431/regulation/3/2/a) omitted (30.5.2013) by virtue of [The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/992)](https://www.legislation.gov.uk/uksi/2013/992), [arts. 1](https://www.legislation.gov.uk/uksi/2013/992/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/992/article/4/2)
+[^c-eade062c8d6f6700ade5eee9e83d1fbc]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/2431/regulation/3/2/a) omitted (30.5.2013) by virtue of [The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/992)](https://www.legislation.gov.uk/uksi/2013/992), [arts. 1](https://www.legislation.gov.uk/uksi/2013/992/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/992/article/4/2)
 
-[^key-4b50040c81b45648480deef792c5466e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2431/schedule/1) omitted (30.5.2013) by virtue of [The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/992)](https://www.legislation.gov.uk/uksi/2013/992), [arts. 1](https://www.legislation.gov.uk/uksi/2013/992/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/992/article/4/2)
+[^c-4b50040c81b45648480deef792c5466e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2431/schedule/1) omitted (30.5.2013) by virtue of [The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/992)](https://www.legislation.gov.uk/uksi/2013/992), [arts. 1](https://www.legislation.gov.uk/uksi/2013/992/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/992/article/4/2)
 
-[^key-70ad4776438a67e4a52a2192f6c32b40]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2431/schedule/2) omitted (30.5.2013) by virtue of [The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/992)](https://www.legislation.gov.uk/uksi/2013/992), [arts. 1](https://www.legislation.gov.uk/uksi/2013/992/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/992/article/4/2)
+[^c-70ad4776438a67e4a52a2192f6c32b40]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2431/schedule/2) omitted (30.5.2013) by virtue of [The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/992)](https://www.legislation.gov.uk/uksi/2013/992), [arts. 1](https://www.legislation.gov.uk/uksi/2013/992/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/992/article/4/2)
 
-[^key-b5c43999b4e179df81234fda7f45df1a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2431/schedule/3) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-b5c43999b4e179df81234fda7f45df1a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2431/schedule/3) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
-[^key-9d077ae09b9ffafe4d2aa615faf19e3d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2431/schedule/4) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-9d077ae09b9ffafe4d2aa615faf19e3d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2431/schedule/4) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
-[^key-ffe1899ef7d6d53d6eab3759a13d3df1]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2431/schedule/5) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-ffe1899ef7d6d53d6eab3759a13d3df1]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2431/schedule/5) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
-[^key-287956f6da0b6f8e4db4fb5842c51e83]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2011/2431/schedule/6) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
+[^c-287956f6da0b6f8e4db4fb5842c51e83]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2011/2431/schedule/6) in force at 7.11.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2431/article/1)
 
 [^f00006]: Footnote: On 2nd July 1980 The Nuneaton Borough Council passed a resolution to change its name to “The Nuneaton and Bedworth Borough Council” with effect from 1st October 1980.

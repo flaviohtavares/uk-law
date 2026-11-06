@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Penalty for failure to secure goods vehicle etc[^key-a3cc8f3d9504320b938bfb524228ffd5][^key-1fea6017fc0b73de5140fa1ee3824361]
+## 31A. Penalty for failure to secure goods vehicle etc[^c-a3cc8f3d9504320b938bfb524228ffd5][^c-1fea6017fc0b73de5140fa1ee3824361]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,8 +77,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a3cc8f3d9504320b938bfb524228ffd5]: Commencement: [S. 31A](https://www.legislation.gov.uk/ukpga/1999/33/section/31A) in force at 28.4.2022 for specified purposes by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c)
+[^c-a3cc8f3d9504320b938bfb524228ffd5]: Commencement: [S. 31A](https://www.legislation.gov.uk/ukpga/1999/33/section/31A) in force at 28.4.2022 for specified purposes by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c)
 
     [S. 31A](https://www.legislation.gov.uk/ukpga/1999/33/section/31A) in force at 13.2.2023 for specified purposes by [S.I. 2023/34](https://www.legislation.gov.uk/uksi/2023/34), [art. 2](https://www.legislation.gov.uk/uksi/2023/34/article/2)
 
-[^key-1fea6017fc0b73de5140fa1ee3824361]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/1999/33/section/31A) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4/c), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/3); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-1fea6017fc0b73de5140fa1ee3824361]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/1999/33/section/31A) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4/c), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/3); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32ZBF. Annual canvass in respect of particular types of property[^key-cc72f566bae58fc30d3a611f513dcfe9][^key-5bec75ee798e93e3a458f97685a9c96e]
+## 32ZBF. Annual canvass in respect of particular types of property[^c-cc72f566bae58fc30d3a611f513dcfe9][^c-5bec75ee798e93e3a458f97685a9c96e]
 
 *Extent: S*
 
@@ -35,44 +35,44 @@ summary: ''
 
 (3) Paragraph (2)(d) does not apply to a building containing two or more flats which are occupied or intended to be occupied wholly or mainly for residential purposes.
 
-(4) The registration officer may proceed to conduct the annual canvass for that property in respect of a register [^key-98b061247d80cc886208f2bce0944701]... by complying with paragraph (5) or (5A)[^key-ba36c08ab3cf14f0af9a87739f1e38bb] (but see paragraph (7)).
+(4) The registration officer may proceed to conduct the annual canvass for that property in respect of a register [^c-98b061247d80cc886208f2bce0944701]... by complying with paragraph (5) or (5A)[^c-ba36c08ab3cf14f0af9a87739f1e38bb] (but see paragraph (7)).
 
 (5) The registration officer must attempt to make contact with the responsible person and must request the following information in respect of each person aged 16 or over who is residing at that property and is eligible to be registered in a register of parliamentary electors—
 
 - (a) full name;
 - (b) nationality.
 
-(5A)[^key-f335c8fcb7472ef61f73f26b3b5a96c1] The registration officer must attempt to make contact with the responsible person and must request the following information in respect of each person aged 14 or over who is residing at that property and is eligible to be registered in a register of local government electors—
+(5A)[^c-f335c8fcb7472ef61f73f26b3b5a96c1] The registration officer must attempt to make contact with the responsible person and must request the following information in respect of each person aged 14 or over who is residing at that property and is eligible to be registered in a register of local government electors—
 
 - (a) full name;
 - (b) nationality;
 - (c) date of birth.
 
-(6) A registration officer may comply with paragraph (5) or (5A)[^key-1003a4da3008f00f0eb51e9dfed0b86e] by any means the registration officer thinks appropriate, including—
+(6) A registration officer may comply with paragraph (5) or (5A)[^c-1003a4da3008f00f0eb51e9dfed0b86e] by any means the registration officer thinks appropriate, including—
 
 - (a) by sending a paper communication;
 - (b) by visiting the property;
 - (c) by telephone;
 - (d) by electronic means.
 
-(7) If, after complying with the requirements of paragraph (5) or (5A)[^key-503c638cf1d78f50f0674ece2a654ffe], the registration officer does not receive the information requested within a reasonable time of having made the attempt to contact the responsible person the registration officer must conduct the annual canvass in respect of that property in accordance with regulation 32ZBD.
+(7) If, after complying with the requirements of paragraph (5) or (5A)[^c-503c638cf1d78f50f0674ece2a654ffe], the registration officer does not receive the information requested within a reasonable time of having made the attempt to contact the responsible person the registration officer must conduct the annual canvass in respect of that property in accordance with regulation 32ZBD.
 
-(8) For the purposes of this regulation “responsible person” means any person who lawfully holds or has access to, and may lawfully disclose to the registration officer, any of the information in paragraph (5) or (5A)[^key-f90d6ffca7feb85e95b4f61bfe310c68] in relation to the residents of a property to which paragraph (2) applies.
+(8) For the purposes of this regulation “responsible person” means any person who lawfully holds or has access to, and may lawfully disclose to the registration officer, any of the information in paragraph (5) or (5A)[^c-f90d6ffca7feb85e95b4f61bfe310c68] in relation to the residents of a property to which paragraph (2) applies.
 
 ## Annotations
 
-[^key-cc72f566bae58fc30d3a611f513dcfe9]: Textual amendment: Regs. 32ZBA-32ZBG inserted (31.12.2019) by [The Representation of the People (Annual Canvass) (Amendment) Regulations 2019 (S.I. 2019/1451)](https://www.legislation.gov.uk/uksi/2019/1451), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2019/1451/regulation/18)
+[^c-cc72f566bae58fc30d3a611f513dcfe9]: Textual amendment: Regs. 32ZBA-32ZBG inserted (31.12.2019) by [The Representation of the People (Annual Canvass) (Amendment) Regulations 2019 (S.I. 2019/1451)](https://www.legislation.gov.uk/uksi/2019/1451), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2019/1451/regulation/18)
 
-[^key-5bec75ee798e93e3a458f97685a9c96e]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3206/regulation/22) (as amended by [S.I. 2014/1250](https://www.legislation.gov.uk/uksi/2014/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1250/regulation/4))
+[^c-5bec75ee798e93e3a458f97685a9c96e]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3206/regulation/22) (as amended by [S.I. 2014/1250](https://www.legislation.gov.uk/uksi/2014/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1250/regulation/4))
 
-[^key-98b061247d80cc886208f2bce0944701]: Textual amendment: Words in [reg. 32ZBF(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/4) omitted (27.4.2020) by virtue of [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(a)(i)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/a/i)
+[^c-98b061247d80cc886208f2bce0944701]: Textual amendment: Words in [reg. 32ZBF(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/4) omitted (27.4.2020) by virtue of [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(a)(i)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/a/i)
 
-[^key-ba36c08ab3cf14f0af9a87739f1e38bb]: Textual amendment: Words in [reg. 32ZBF(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/4) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/a/ii)
+[^c-ba36c08ab3cf14f0af9a87739f1e38bb]: Textual amendment: Words in [reg. 32ZBF(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/4) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/a/ii)
 
-[^key-f335c8fcb7472ef61f73f26b3b5a96c1]: Textual amendment: [Reg. 32ZBF(5A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/5A) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/b)
+[^c-f335c8fcb7472ef61f73f26b3b5a96c1]: Textual amendment: [Reg. 32ZBF(5A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/5A) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/b)
 
-[^key-1003a4da3008f00f0eb51e9dfed0b86e]: Textual amendment: Words in [reg. 32ZBF(6)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/6) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/c)
+[^c-1003a4da3008f00f0eb51e9dfed0b86e]: Textual amendment: Words in [reg. 32ZBF(6)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/6) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/c)
 
-[^key-503c638cf1d78f50f0674ece2a654ffe]: Textual amendment: Words in [reg. 32ZBF(7)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/7) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/c)
+[^c-503c638cf1d78f50f0674ece2a654ffe]: Textual amendment: Words in [reg. 32ZBF(7)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/7) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/c)
 
-[^key-f90d6ffca7feb85e95b4f61bfe310c68]: Textual amendment: Words in [reg. 32ZBF(8)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/8) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/c)
+[^c-f90d6ffca7feb85e95b4f61bfe310c68]: Textual amendment: Words in [reg. 32ZBF(8)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZBF/8) inserted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2020/113/regulation/12/c)

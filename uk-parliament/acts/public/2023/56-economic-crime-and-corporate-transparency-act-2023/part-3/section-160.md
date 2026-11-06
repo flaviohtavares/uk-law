@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Registration of information about managing officers: age limits[^key-40ddbdd883f49a3bcfc5d9e6916b2351]
+## 160. Registration of information about managing officers: age limits[^c-40ddbdd883f49a3bcfc5d9e6916b2351]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40ddbdd883f49a3bcfc5d9e6916b2351]: Commencement: S. 160 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-40ddbdd883f49a3bcfc5d9e6916b2351]: Commencement: S. 160 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

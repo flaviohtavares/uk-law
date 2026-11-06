@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. Application of section 99 of Friendly Societies Act 1992 to trade unions[^key-37026ee3e27a18c82baae541f4c2e59b]
+## 332. Application of section 99 of Friendly Societies Act 1992 to trade unions[^c-37026ee3e27a18c82baae541f4c2e59b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 19(1)[^f00245] of the Trade Union and Labour Relations (Consolidation
 
 ## Annotations
 
-[^key-37026ee3e27a18c82baae541f4c2e59b]: Commencement: Art. 332 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-37026ee3e27a18c82baae541f4c2e59b]: Commencement: Art. 332 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00245]: Footnote: Section 19(1) was substituted by [S.I. 1993/3084](https://www.legislation.gov.uk/uksi/1993/3084), regulation 7.

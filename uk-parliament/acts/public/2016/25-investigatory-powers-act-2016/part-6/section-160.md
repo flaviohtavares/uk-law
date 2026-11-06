@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Decisions to issue warrants to be taken personally by Secretary of State[^key-f352a853c9ba3e76877f2bf9875811ff]
+## 160. Decisions to issue warrants to be taken personally by Secretary of State[^c-f352a853c9ba3e76877f2bf9875811ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f352a853c9ba3e76877f2bf9875811ff]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2016/25/section/160) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/d)
+[^c-f352a853c9ba3e76877f2bf9875811ff]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2016/25/section/160) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/d)

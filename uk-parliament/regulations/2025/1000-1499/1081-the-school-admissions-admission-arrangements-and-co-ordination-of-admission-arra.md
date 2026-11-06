@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 88C, 88F and 138(7) of the School Standards and Framework Act 1998[^f00001].
 
-## 1. Citation, commencement and extent[^key-98e903aebc7de60dbf98fc9bf00edec6]
+## 1. Citation, commencement and extent[^c-98e903aebc7de60dbf98fc9bf00edec6]
 
 (1) These Regulations may be cited as the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2025.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendment of Schedule 4 to the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) Regulations 2012[^key-6883e0ee22f9d1fb8b293d718c8f9169]
+## 2. Amendment of Schedule 4 to the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) Regulations 2012[^c-6883e0ee22f9d1fb8b293d718c8f9169]
 
 In the table in Part 1 of Schedule 4 to the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) Regulations 2012[^f00002] (Rabbinic authorities and other representative bodies), before the entry relating to “Office of Rabbi of The Gateshead Jewish Community” insert—
 
@@ -88,8 +88,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Sections 88C and 88F were inserted by section 151(4) of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25). Section 88F was amended by paragraph 1(3) of Schedule 10 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 138(7) was amended by paragraph 3 of Schedule 17 to the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40). See section 142(1) for the definition of “regulations” and “prescribed”.
 
-[^key-98e903aebc7de60dbf98fc9bf00edec6]: Commencement: Reg. 1 in force at 6.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1081/regulation/1/2)
+[^c-98e903aebc7de60dbf98fc9bf00edec6]: Commencement: Reg. 1 in force at 6.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1081/regulation/1/2)
 
-[^key-6883e0ee22f9d1fb8b293d718c8f9169]: Commencement: Reg. 2 in force at 6.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1081/regulation/1/2)
+[^c-6883e0ee22f9d1fb8b293d718c8f9169]: Commencement: Reg. 2 in force at 6.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1081/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/8](https://www.legislation.gov.uk/uksi/2012/8). Relevant amendments were made by [S.I. 2022/105](https://www.legislation.gov.uk/uksi/2022/105) and [S.I. 2024/109](https://www.legislation.gov.uk/uksi/2024/109).

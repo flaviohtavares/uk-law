@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Duty to provide information about insurance to tenants[^key-f36ac119993b50fceec0f41958e4141f]
+## 60. Duty to provide information about insurance to tenants[^c-f36ac119993b50fceec0f41958e4141f]
 
 *Extent: E+W*
 
@@ -139,4 +139,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f36ac119993b50fceec0f41958e4141f]: Commencement: S. 60 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f36ac119993b50fceec0f41958e4141f]: Commencement: S. 60 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

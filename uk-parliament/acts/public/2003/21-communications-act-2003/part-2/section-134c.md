@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134C. OFCOM reports on internet domain names[^key-664126478f24a6febb38714cad6b23c6]
+## 134C. OFCOM reports on internet domain names[^c-664126478f24a6febb38714cad6b23c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

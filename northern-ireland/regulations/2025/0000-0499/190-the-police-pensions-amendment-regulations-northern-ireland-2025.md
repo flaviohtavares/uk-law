@@ -46,13 +46,13 @@ In accordance with section 22 of the 2014 Act, the Department has consulted with
 
 In accordance with section 3(5) of the 2014 Act, the Department of Finance[^f00002] has consented to the making of these Regulations.
 
-## 1. Citation, commencement and effect[^key-7f92f1611a1e1d018cc4d4cbcf0b7b17]
+## 1. Citation, commencement and effect[^c-7f92f1611a1e1d018cc4d4cbcf0b7b17]
 
 These Regulations may be cited as the Police Pensions (Amendment) Regulations (Northern Ireland) 2025 and comes into operation on 1 February 2026, but the amendments made by regulation 2(3) have effect from 1 April 2015.
 
-## 2. Amendment of the Police Pensions Regulations (Northern Ireland) 2015[^key-694bebcd85e121f1f5bf74b030f54cc8][^key-1a6bcfa97c5eff1f0d1172a1fbd887b5]
+## 2. Amendment of the Police Pensions Regulations (Northern Ireland) 2015[^c-694bebcd85e121f1f5bf74b030f54cc8][^c-1a6bcfa97c5eff1f0d1172a1fbd887b5]
 
-(1)[^key-694bebcd85e121f1f5bf74b030f54cc8] The Police Pension Regulations (Northern Ireland) 2015[^f00003] are amended as follows.
+(1)[^c-694bebcd85e121f1f5bf74b030f54cc8] The Police Pension Regulations (Northern Ireland) 2015[^f00003] are amended as follows.
 
 (2) In regulation 2 (interpretation), after the definition of “the 2015 England and Wales police pension scheme” insert —
 
@@ -213,10 +213,10 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: Departments Act (Northern Ireland) [2016 c.5 (NI)](https://www.legislation.gov.uk/nia/2016/5). Section 1(4) renamed the Department of Finance and Personnel as the Department of Finance.
 
-[^key-7f92f1611a1e1d018cc4d4cbcf0b7b17]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1) in operation at 1.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1)
+[^c-7f92f1611a1e1d018cc4d4cbcf0b7b17]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1) in operation at 1.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1)
 
-[^key-694bebcd85e121f1f5bf74b030f54cc8]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/1)[(2)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/2) in operation at 1.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1)
+[^c-694bebcd85e121f1f5bf74b030f54cc8]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/1)[(2)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/2) in operation at 1.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1)
 
-[^key-1a6bcfa97c5eff1f0d1172a1fbd887b5]: Commencement: Reg. 2(3) in operation at 1.2.2026 with effect from 01.04.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1)
+[^c-1a6bcfa97c5eff1f0d1172a1fbd887b5]: Commencement: Reg. 2(3) in operation at 1.2.2026 with effect from 01.04.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 113](https://www.legislation.gov.uk/nisr/2015/113).

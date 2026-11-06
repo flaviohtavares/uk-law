@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C12. Application for repayment[^key-fa41d8cd4e82c379a0c4bf9dcfe1e34f]
+## C12. Application for repayment[^c-fa41d8cd4e82c379a0c4bf9dcfe1e34f]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ A person shall not be entitled to a payment under regulation C9 or C11 unless he
 
 ## Annotations
 
-[^key-fa41d8cd4e82c379a0c4bf9dcfe1e34f]: Commencement: Reg. C12 in operation at 2.11.1998, see reg. A1
+[^c-fa41d8cd4e82c379a0c4bf9dcfe1e34f]: Commencement: Reg. C12 in operation at 2.11.1998, see reg. A1

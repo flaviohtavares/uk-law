@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the purposes of the drainage of land, there shall continue to be—
 
-- (a) districts, known as internal drainage districts, which shall be such areas within the regions of the Regional Flood and Coastal Committees (within the meaning of section 22 of the Flood and Water Management Act 2010)[^key-11ed54f656294c06a4dbd3e7b72a90f0] or within Wales (within the meaning of section 158 of the Government of Wales Act 2006)[^M_F_aa5cec93-1c23-4117-eeae-b083ea869aa5] as will derive benefit, or avoid danger, as a result of drainage operations; and
+- (a) districts, known as internal drainage districts, which shall be such areas within the regions of the Regional Flood and Coastal Committees (within the meaning of section 22 of the Flood and Water Management Act 2010)[^c-11ed54f656294c06a4dbd3e7b72a90f0] or within Wales (within the meaning of section 158 of the Government of Wales Act 2006)[^M_F_aa5cec93-1c23-4117-eeae-b083ea869aa5] as will derive benefit, or avoid danger, as a result of drainage operations; and
 - (b) boards, known as internal drainage boards, each of which shall be the drainage board for an internal drainage district;
 
 and, subject to the following provisions of this Part, the internal drainage districts which were such districts immediately before the coming into force of this section, and the boards for those districts, shall continue as such districts and boards.
@@ -48,7 +48,7 @@ and, subject to the following provisions of this Part, the internal drainage dis
 
 ## Annotations
 
-[^key-11ed54f656294c06a4dbd3e7b72a90f0]: Textual amendment: Words in s. 1(1)(a) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/4)
+[^c-11ed54f656294c06a4dbd3e7b72a90f0]: Textual amendment: Words in s. 1(1)(a) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/4)
 
 [^M_F_aa5cec93-1c23-4117-eeae-b083ea869aa5]: Textual amendment: Words in s. 1(1)(a) inserted (14.7.2017) by Environment (Wales) Act 2016 (anaw 3), s. 88, Sch. 2 para. 21; [S.I. 2017/714](https://www.legislation.gov.uk/uksi/2017/714), [art. 2](https://www.legislation.gov.uk/uksi/2017/714/article/2)
 

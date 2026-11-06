@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Drinking Milk Regulations (Northern Ireland) 1998 (revoked)[^key-efcf51740b85d1733f57616a15989625]
+Drinking Milk Regulations (Northern Ireland) 1998 (revoked)[^c-efcf51740b85d1733f57616a15989625]
 
 Made
 
@@ -40,55 +40,55 @@ Coming into operation
 
 1st December 1998
 
-[^key-efcf51740b85d1733f57616a15989625]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efcf51740b85d1733f57616a15989625]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-efcf51740b85d1733f57616a15989625]
+## 1. Citation and commencement[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-efcf51740b85d1733f57616a15989625]
+## 2. Interpretation[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Sale or delivery of milk and use of sales descriptions[^key-efcf51740b85d1733f57616a15989625]
+## 3. Sale or delivery of milk and use of sales descriptions[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Importation of products from outside the European Community for sale as drinking milk[^key-efcf51740b85d1733f57616a15989625]
+## 4. Importation of products from outside the European Community for sale as drinking milk[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-efcf51740b85d1733f57616a15989625]
+## 5. Enforcement[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalty provision[^key-efcf51740b85d1733f57616a15989625]
+## 6. Offences and penalty provision[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Defence in relation to exports[^key-efcf51740b85d1733f57616a15989625]
+## 7. Defence in relation to exports[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Application of provisions of the Order[^key-efcf51740b85d1733f57616a15989625]
+## 8. Application of provisions of the Order[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-efcf51740b85d1733f57616a15989625]
+## 9. Revocations[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments[^key-efcf51740b85d1733f57616a15989625]
+## 10. Amendments[^c-efcf51740b85d1733f57616a15989625]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efcf51740b85d1733f57616a15989625]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efcf51740b85d1733f57616a15989625]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-efcf51740b85d1733f57616a15989625]
+## SCHEDULE — Revocations[^c-efcf51740b85d1733f57616a15989625]
 
 Regulation 9
 
@@ -96,8 +96,8 @@ Regulation 9
 
 **May not be in force at this date. Check the source.**
 
-[^key-efcf51740b85d1733f57616a15989625]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efcf51740b85d1733f57616a15989625]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efcf51740b85d1733f57616a15989625]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/359) revoked (1.7.2008) by [The Drinking Milk Regulations (Northern Ireland) 2008 (S.R. 2008/237)](https://www.legislation.gov.uk/nisr/2008/237), [regs. 1](https://www.legislation.gov.uk/nisr/2008/237/regulation/1), [8](https://www.legislation.gov.uk/nisr/2008/237/regulation/8)
+[^c-efcf51740b85d1733f57616a15989625]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/359) revoked (1.7.2008) by [The Drinking Milk Regulations (Northern Ireland) 2008 (S.R. 2008/237)](https://www.legislation.gov.uk/nisr/2008/237), [regs. 1](https://www.legislation.gov.uk/nisr/2008/237/regulation/1), [8](https://www.legislation.gov.uk/nisr/2008/237/regulation/8)

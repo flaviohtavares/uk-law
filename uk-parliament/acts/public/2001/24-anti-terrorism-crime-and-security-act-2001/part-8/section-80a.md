@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Extension of Official Secrets Acts to certain places[^key-71b9057eecb54ea8020902e847e2bf9b]
+## 80A. Extension of Official Secrets Acts to certain places[^c-71b9057eecb54ea8020902e847e2bf9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71b9057eecb54ea8020902e847e2bf9b]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/2001/24/section/80A) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/20)
+[^c-71b9057eecb54ea8020902e847e2bf9b]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/2001/24/section/80A) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/20)

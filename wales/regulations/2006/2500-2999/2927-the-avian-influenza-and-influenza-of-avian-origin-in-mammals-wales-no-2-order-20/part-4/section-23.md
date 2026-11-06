@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Tracing of meat and eggs from infected premises[^key-71c1c1b7288b2524b311e826ffa0566d]
+## 23. Tracing of meat and eggs from infected premises[^c-71c1c1b7288b2524b311e826ffa0566d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71c1c1b7288b2524b311e826ffa0566d]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/wsi/2006/2927/article/23) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [18](https://www.legislation.gov.uk/wsi/2025/1357/article/18)
+[^c-71c1c1b7288b2524b311e826ffa0566d]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/wsi/2006/2927/article/23) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [18](https://www.legislation.gov.uk/wsi/2025/1357/article/18)

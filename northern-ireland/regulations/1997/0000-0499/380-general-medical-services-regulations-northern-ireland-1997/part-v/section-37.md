@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Payments[^key-25554089b20bf81c069ce0a0cbb3f966]
+## 37. Payments[^c-25554089b20bf81c069ce0a0cbb3f966]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-25554089b20bf81c069ce0a0cbb3f966]: Commencement: Reg. 37 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-25554089b20bf81c069ce0a0cbb3f966]: Commencement: Reg. 37 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00026]: Footnote: [1971 c. 27 (N.I.)](https://www.legislation.gov.uk/apni/1971/27)
 

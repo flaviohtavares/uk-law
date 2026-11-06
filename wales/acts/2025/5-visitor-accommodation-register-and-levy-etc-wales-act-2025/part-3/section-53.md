@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Welsh Ministers’ power to impose advertising and billing etc. requirements[^key-303b073786be5df2672bdd6af5d1888e]
+## 53. Welsh Ministers’ power to impose advertising and billing etc. requirements[^c-303b073786be5df2672bdd6af5d1888e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-303b073786be5df2672bdd6af5d1888e]: Commencement: S. 53 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-303b073786be5df2672bdd6af5d1888e]: Commencement: S. 53 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

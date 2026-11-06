@@ -36,14 +36,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Introductory
 
-### 1. Purpose of this Act[^key-0986ceb54a2e17e72b99e8641bbfe126]
+### 1. Purpose of this Act[^c-0986ceb54a2e17e72b99e8641bbfe126]
 
 The purpose of this Act is to acknowledge the wrongfulness and discriminatory effect of past convictions for certain historical sexual offences by—
 
 - (a) pardoning persons who have been convicted of those offences, and
 - (b) providing for a process for convictions for those offences to be disregarded.
 
-### 2. Historical sexual offence: definition[^key-4f66e3ab7be00795b90aa2e21e714edf]
+### 2. Historical sexual offence: definition[^c-4f66e3ab7be00795b90aa2e21e714edf]
 
 (1) In this Act, “**historical sexual offence**” means—
 
@@ -72,11 +72,11 @@ The purpose of this Act is to acknowledge the wrongfulness and discriminatory ef
 
 ## Part 2 — Pardons for certain historical sexual offences
 
-### 3. Pardons for certain historical sexual offences[^key-63f599eca510ad9c51d7a52e677353e2]
+### 3. Pardons for certain historical sexual offences[^c-63f599eca510ad9c51d7a52e677353e2]
 
 A person who has been convicted of a historical sexual offence is pardoned for the offence if the conduct constituting the offence, if occurring in the same circumstances, would not be an offence on the day on which this section comes into force.
 
-### 4. Pardons: supplementary[^key-2af5f4f5c2da314a3d57d0a2b0c189c8]
+### 4. Pardons: supplementary[^c-2af5f4f5c2da314a3d57d0a2b0c189c8]
 
 A pardon under section 3 does not—
 
@@ -85,7 +85,7 @@ A pardon under section 3 does not—
 
 ## Part 3 — Disregarding certain convictions for historical sexual offences
 
-### 5. Application to have conviction for historical sexual offence disregarded[^key-38f36956369f2266965e3b3f22db19ef]
+### 5. Application to have conviction for historical sexual offence disregarded[^c-38f36956369f2266965e3b3f22db19ef]
 
 (1) A person who has been convicted of a historical sexual offence may apply to the Scottish Ministers for the conviction to be disregarded.
 
@@ -99,13 +99,13 @@ A pardon under section 3 does not—
 
 (3) An application made under subsection (1) may also include any other information which the applicant wishes the Scottish Ministers to consider when determining the application.
 
-### 6. Application for disregard: further information[^key-2482e6cd325c2e255d94340d3d4b945c]
+### 6. Application for disregard: further information[^c-2482e6cd325c2e255d94340d3d4b945c]
 
 (1) The Scottish Ministers may request any person to make representations, or to provide further information, in relation to an application made under section 5(1).
 
 (2) A person so requested is authorised to make such representations or, as the case may be, to provide such information for the purposes of assisting the Scottish Ministers to determine the application.
 
-### 7. Determination of application for disregard[^key-5e767accef1f378f99f220b6d8d528d4]
+### 7. Determination of application for disregard[^c-5e767accef1f378f99f220b6d8d528d4]
 
 (1) When determining an application made under section 5(1), the Scottish Ministers must in particular—
 
@@ -133,7 +133,7 @@ A pardon under section 3 does not—
 
 (5) Where the Scottish Ministers determine that a conviction for a historical sexual offence is to be disregarded, the disregard takes effect from the day falling 14 days after notice of their determination is given.
 
-### 8. Appeals[^key-202ea85955f8b75917a30ed8f93d14f9]
+### 8. Appeals[^c-202ea85955f8b75917a30ed8f93d14f9]
 
 (1) This section applies where the Scottish Ministers have determined that a conviction in respect of which an application is made under section 5(1) is not to be disregarded.
 
@@ -160,7 +160,7 @@ A pardon under section 3 does not—
 - (a) to a sheriff of the sheriffdom in which the appellant resides, or
 - (b) where no sheriff has jurisdiction under paragraph (a), to a sheriff of the sheriffdom of Lothian and Borders at Edinburgh.
 
-### 9. Effect of disregard[^key-c71de25d2e711c346addb0cca0c88ef5]
+### 9. Effect of disregard[^c-c71de25d2e711c346addb0cca0c88ef5]
 
 (1) This section applies where a disregard for a conviction for a historical sexual offence has taken effect (see sections 7(5) and 8(7)).
 
@@ -197,7 +197,7 @@ A pardon under section 3 does not—
 - (e) any proceedings (whether by way of appeal or otherwise) for reviewing the conviction or sentence,
 - (f) anything done in pursuance of, or undergone in compliance with, any such sentence.
 
-### 10. Removal of disregarded convictions from official records[^key-1207d47702e738efc6f32cc5d59824db]
+### 10. Removal of disregarded convictions from official records[^c-1207d47702e738efc6f32cc5d59824db]
 
 (1) Where a disregard for a conviction for a historical sexual offence has taken effect (see sections 7(5) and 8(7)), the Scottish Ministers must—
 
@@ -218,7 +218,7 @@ A pardon under section 3 does not—
 
 (5) A “**relevant record keeper**” means such person as may be prescribed in regulations made by the Scottish Ministers (and may, in particular, include the Scottish Ministers acting in their capacity as the holder of official records of a type so prescribed).
 
-### 11. Advisers[^key-f2390e86a4198a95c7044303d1d532f2]
+### 11. Advisers[^c-f2390e86a4198a95c7044303d1d532f2]
 
 (1) The Scottish Ministers may appoint persons to advise or assist them on the determination of applications made under section 5(1).
 
@@ -228,11 +228,11 @@ A pardon under section 3 does not—
 
 ## Part 4 — General
 
-### 12. Saving for Royal Pardons[^key-bbd0e2e6ff8d54602b03fcb85135b632]
+### 12. Saving for Royal Pardons[^c-bbd0e2e6ff8d54602b03fcb85135b632]
 
 Nothing in this Act affects the Royal prerogative of mercy.
 
-### 13. Application of Act to conduct dealt with otherwise than by prosecution[^key-68d3ba8406d3545047c3f8b43d40c5c3]
+### 13. Application of Act to conduct dealt with otherwise than by prosecution[^c-68d3ba8406d3545047c3f8b43d40c5c3]
 
 (1) This Act applies in relation to any conduct constituting a historical sexual offence in respect of which an alternative to prosecution has been given as it applies to conduct in respect of which a person is convicted.
 
@@ -252,7 +252,7 @@ Nothing in this Act affects the Royal prerogative of mercy.
 - (a) any ground for referral of a child's case under section 32(2)(g) of the Social Work (Scotland) Act 1968 or section 52(2)(i) of the Children (Scotland) Act 1995 that has been accepted or established (or deemed established) is to be treated as a conviction, and
 - (b) any disposal of such a case by a children's hearing is to be treated as a sentence.
 
-### 14. Regulations[^key-24989aa188c2e05502074e270777e77a]
+### 14. Regulations[^c-24989aa188c2e05502074e270777e77a]
 
 (1) Any power of the Scottish Ministers to make regulations under this Act includes power to make—
 
@@ -307,30 +307,30 @@ The short title of this Act is the Historical Sexual Offences (Pardons and Disre
 
 ## Annotations
 
-[^key-0986ceb54a2e17e72b99e8641bbfe126]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/14/section/1) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-0986ceb54a2e17e72b99e8641bbfe126]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/14/section/1) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-4f66e3ab7be00795b90aa2e21e714edf]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/14/section/2) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-4f66e3ab7be00795b90aa2e21e714edf]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/14/section/2) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-63f599eca510ad9c51d7a52e677353e2]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/14/section/3) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-63f599eca510ad9c51d7a52e677353e2]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/14/section/3) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-2af5f4f5c2da314a3d57d0a2b0c189c8]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/14/section/4) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-2af5f4f5c2da314a3d57d0a2b0c189c8]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/14/section/4) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-38f36956369f2266965e3b3f22db19ef]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/14/section/5) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-38f36956369f2266965e3b3f22db19ef]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/14/section/5) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-2482e6cd325c2e255d94340d3d4b945c]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/14/section/6) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-2482e6cd325c2e255d94340d3d4b945c]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/14/section/6) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-5e767accef1f378f99f220b6d8d528d4]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/14/section/7) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-5e767accef1f378f99f220b6d8d528d4]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/14/section/7) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-202ea85955f8b75917a30ed8f93d14f9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/14/section/8) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-202ea85955f8b75917a30ed8f93d14f9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/14/section/8) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-c71de25d2e711c346addb0cca0c88ef5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/14/section/9) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-c71de25d2e711c346addb0cca0c88ef5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/14/section/9) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-1207d47702e738efc6f32cc5d59824db]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/14/section/10) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-1207d47702e738efc6f32cc5d59824db]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/14/section/10) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-f2390e86a4198a95c7044303d1d532f2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/14/section/11) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-f2390e86a4198a95c7044303d1d532f2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/14/section/11) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-bbd0e2e6ff8d54602b03fcb85135b632]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/14/section/12) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-bbd0e2e6ff8d54602b03fcb85135b632]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/14/section/12) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-68d3ba8406d3545047c3f8b43d40c5c3]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/14/section/13) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-68d3ba8406d3545047c3f8b43d40c5c3]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/14/section/13) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
 
-[^key-24989aa188c2e05502074e270777e77a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/14/section/14) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)
+[^c-24989aa188c2e05502074e270777e77a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/14/section/14) in force at 15.10.2019 by [S.S.I. 2019/205](https://www.legislation.gov.uk/ssi/2019/205), [reg. 2](https://www.legislation.gov.uk/ssi/2019/205/regulation/2)

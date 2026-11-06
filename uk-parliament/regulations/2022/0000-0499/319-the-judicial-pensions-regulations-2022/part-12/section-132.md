@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Information to be provided by employers[^key-70a0428ef5c8efb19b0c17a14137e8bb]
+## 132. Information to be provided by employers[^c-70a0428ef5c8efb19b0c17a14137e8bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An employer of a member of this scheme must, by such date as the scheme manager 
 
 ## Annotations
 
-[^key-70a0428ef5c8efb19b0c17a14137e8bb]: Commencement: Reg. 132 in force at 1.4.2022 by virtue of reg. 1(4)
+[^c-70a0428ef5c8efb19b0c17a14137e8bb]: Commencement: Reg. 132 in force at 1.4.2022 by virtue of reg. 1(4)

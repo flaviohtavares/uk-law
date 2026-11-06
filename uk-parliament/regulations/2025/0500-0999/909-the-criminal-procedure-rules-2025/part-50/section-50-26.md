@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.26. Determination of detention pending appeal to the Supreme Court against discharge[^key-23aef5835451fca663670a5c4a2c713a]
+## 50.26. Determination of detention pending appeal to the Supreme Court against discharge[^c-23aef5835451fca663670a5c4a2c713a]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ On an application for permission to appeal to the Supreme Court against a decisi
 
 ## Annotations
 
-[^key-23aef5835451fca663670a5c4a2c713a]: Commencement: [Rule 50.26](https://www.legislation.gov.uk/uksi/2025/909/rule/50.26) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-23aef5835451fca663670a5c4a2c713a]: Commencement: [Rule 50.26](https://www.legislation.gov.uk/uksi/2025/909/rule/50.26) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01366]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); sections 33A and 115A were inserted by section 42 of, and paragraphs 8 and 35 of Schedule 13 to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Breaches of terms of service: remedial notices[^key-bbd7a1b9aae4ca33c4f329b95ea904f1]
+## 50. Breaches of terms of service: remedial notices[^c-bbd7a1b9aae4ca33c4f329b95ea904f1]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbd7a1b9aae4ca33c4f329b95ea904f1]: Commencement: Reg. 50 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-bbd7a1b9aae4ca33c4f329b95ea904f1]: Commencement: Reg. 50 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

@@ -35,22 +35,22 @@ concerning the authorisation of a preparation of *Enterococcus faecium* NCIMB 11
 
 (Text with EEA relevance) (revoked)
 
-[^key-8bbc1583df199b1f2a7933acf0d12c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bbc1583df199b1f2a7933acf0d12c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-8bbc1583df199b1f2a7933acf0d12c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8bbc1583df199b1f2a7933acf0d12c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bbc1583df199b1f2a7933acf0d12c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-8bbc1583df199b1f2a7933acf0d12c02]
+## ANNEX[^c-8bbc1583df199b1f2a7933acf0d12c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8bbc1583df199b1f2a7933acf0d12c02]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 119](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/119) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-8bbc1583df199b1f2a7933acf0d12c02]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 119](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/119) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

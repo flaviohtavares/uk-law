@@ -44,10 +44,10 @@ A is the aggregate of the amounts of all of M's pensions from pensionable servic
 
 C is the total period of pensionable service counted in days over which the pensions aggregated to find A were accrued; and
 
-E is the period counted in days equal to 50% of the length of the period starting on L+1 and ending on the day before M reaches[^key-79df86b45683f08f7e28d75c9604a01b] prospective normal pension age, and any part of a day must be taken to be a whole day.
+E is the period counted in days equal to 50% of the length of the period starting on L+1 and ending on the day before M reaches[^c-79df86b45683f08f7e28d75c9604a01b] prospective normal pension age, and any part of a day must be taken to be a whole day.
 
 ## Annotations
 
 [^c22414781]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-79df86b45683f08f7e28d75c9604a01b]: Textual amendment: Words in [reg. 91(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/91/3) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2017/28/regulation/11)
+[^c-79df86b45683f08f7e28d75c9604a01b]: Textual amendment: Words in [reg. 91(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/91/3) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2017/28/regulation/11)

@@ -54,7 +54,7 @@ and shall consider any representations or objections that are duly made and not 
 
 (10) A notice under subsection (9) shall be given by publishing the notice in such manner as the Authority considers appropriate for bringing it to the attention of persons likely to be affected by the transfer.
 
-(10A)[^key-59fb2d614fc9b77a50d64b4d1b27ff42] Subject to subsection (10C), the Authority shall, following consideration of any representations or objections under subsection (9), give the Secretary of State not less than 28 days’ notice of any proposal to give consent to the transfer of the whole or any part of a smart meter communication licence.
+(10A)[^c-59fb2d614fc9b77a50d64b4d1b27ff42] Subject to subsection (10C), the Authority shall, following consideration of any representations or objections under subsection (9), give the Secretary of State not less than 28 days’ notice of any proposal to give consent to the transfer of the whole or any part of a smart meter communication licence.
 
 (10B) If, before the expiry of the time specified in a notice under subsection (10A), the Secretary of State directs the Authority not to give consent, the Authority shall comply with that direction.
 
@@ -63,7 +63,7 @@ and shall consider any representations or objections that are duly made and not 
 - (a) the expiry of the time specified in the notice under subsection (10A); or
 - (b) if earlier than the time in paragraph (a), the time at which the Secretary of State informs the Authority that no direction will be given under subsection (10B) in relation to the notice.
 
-(10D) Subsections (10A) to (10C) do not apply after 1 November 2028[^key-8db0731571632e3425dba427404a65bb].
+(10D) Subsections (10A) to (10C) do not apply after 1 November 2028[^c-8db0731571632e3425dba427404a65bb].
 
 (11) A purported transfer of a licence shall be void—
 
@@ -71,11 +71,11 @@ and shall consider any representations or objections that are duly made and not 
 - (b) if the purported transfer is in breach of a condition of the licence; or
 - (c) if there has, before the purported transfer, been a contravention of a condition subject to compliance with which the Authority’s consent is given.
 
-(11ZA)[^key-0e291302c6cfe600136444f0aeff2250] An electricity system operator licence may not be transferred to a person unless a licence granted under section 7AA of the Gas Act 1986 is also transferred to the same person at the same time.
+(11ZA)[^c-0e291302c6cfe600136444f0aeff2250] An electricity system operator licence may not be transferred to a person unless a licence granted under section 7AA of the Gas Act 1986 is also transferred to the same person at the same time.
 
-(11A)[^key-3f8ec908d5c385b1615a6425fcf41aac] A smart meter communication licence may not be transferred to a person unless a licence granted under section 7AB of the Gas Act 1986 is also transferred to the same person at the same time.
+(11A)[^c-3f8ec908d5c385b1615a6425fcf41aac] A smart meter communication licence may not be transferred to a person unless a licence granted under section 7AB of the Gas Act 1986 is also transferred to the same person at the same time.
 
-(11B)[^key-1452161d67be7ad09787d5b31bd13337] Where the holder of a code manager licence is also the holder of a licence under section 7AC of the Gas Act 1986, the code manager licence may not be transferred to a person unless the licence under section 7AC of that Act is transferred to the same person at the same time.
+(11B)[^c-1452161d67be7ad09787d5b31bd13337] Where the holder of a code manager licence is also the holder of a licence under section 7AC of the Gas Act 1986, the code manager licence may not be transferred to a person unless the licence under section 7AC of that Act is transferred to the same person at the same time.
 
 (12) In this section—
 
@@ -86,12 +86,12 @@ and shall consider any representations or objections that are duly made and not 
 
 [^c4110371]: Textual amendment: S. 7A inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 41](https://www.legislation.gov.uk/ukpga/2000/27/section/41); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-59fb2d614fc9b77a50d64b4d1b27ff42]: Textual amendment: Ss. 7A(10A)-(10D) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2012/2400/article/9/2)
+[^c-59fb2d614fc9b77a50d64b4d1b27ff42]: Textual amendment: Ss. 7A(10A)-(10D) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2012/2400/article/9/2)
 
-[^key-8db0731571632e3425dba427404a65bb]: Textual amendment: Words in s. 7A(10D) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 215(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/215/3/a), [334(2)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/k)
+[^c-8db0731571632e3425dba427404a65bb]: Textual amendment: Words in s. 7A(10D) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 215(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/215/3/a), [334(2)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/k)
 
-[^key-0e291302c6cfe600136444f0aeff2250]: Textual amendment: S. 7A(11ZA) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 166(10)](https://www.legislation.gov.uk/ukpga/2023/52/section/166/10), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/iii)
+[^c-0e291302c6cfe600136444f0aeff2250]: Textual amendment: S. 7A(11ZA) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 166(10)](https://www.legislation.gov.uk/ukpga/2023/52/section/166/10), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/iii)
 
-[^key-3f8ec908d5c385b1615a6425fcf41aac]: Textual amendment: S. 7A(11A) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2012/2400/article/9/3)
+[^c-3f8ec908d5c385b1615a6425fcf41aac]: Textual amendment: S. 7A(11A) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2012/2400/article/9/3)
 
-[^key-1452161d67be7ad09787d5b31bd13337]: Textual amendment: [S. 7A(11B)](https://www.legislation.gov.uk/ukpga/1989/29/section/7A/11B) inserted (10.9.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 186(18)](https://www.legislation.gov.uk/ukpga/2023/52/section/186/18), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/iii)
+[^c-1452161d67be7ad09787d5b31bd13337]: Textual amendment: [S. 7A(11B)](https://www.legislation.gov.uk/ukpga/1989/29/section/7A/11B) inserted (10.9.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 186(18)](https://www.legislation.gov.uk/ukpga/2023/52/section/186/18), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/iii)

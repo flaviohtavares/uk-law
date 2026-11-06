@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Trial of petition[^key-c841e74388b60884c2765d6a5588dcf6]
+## 97. Trial of petition[^c-c841e74388b60884c2765d6a5588dcf6]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c841e74388b60884c2765d6a5588dcf6]: Commencement: Art. 97 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c841e74388b60884c2765d6a5588dcf6]: Commencement: Art. 97 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00064]: Footnote: Section 8 was substituted by section 8 of the Senedd Cymru (Members and Elections) Act [2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4).

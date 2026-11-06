@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64B. Abatement of a retirement pension following further employment[^M_C_d1b9c27b-95c3-431d-9f38-592d3c9a1d67][^key-7dab7498a4c720d7dd3a3a72c615122f]
+## 64B. Abatement of a retirement pension following further employment[^M_C_d1b9c27b-95c3-431d-9f38-592d3c9a1d67][^c-7dab7498a4c720d7dd3a3a72c615122f]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^M_C_d1b9c27b-95c3-431d-9f38-592d3c9a1d67]: Modification: Reg. 64B modified (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [31(5)(a)](https://www.legislation.gov.uk/uksi/2015/601/regulation/31/5/a) (with [reg. 44(2)(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2/3))
 
-[^key-7dab7498a4c720d7dd3a3a72c615122f]: Textual amendment: [Regs. 64-64D](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted for [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2651/regulation/15)
+[^c-7dab7498a4c720d7dd3a3a72c615122f]: Textual amendment: [Regs. 64-64D](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted for [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2651/regulation/15)

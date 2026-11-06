@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Agriculture, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-9b0609dc156f18db3bcb3c7710e08946]
+## 1. Citation and commencement[^c-9b0609dc156f18db3bcb3c7710e08946]
 
 These Regulations may be cited as the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995 and shall come into operation on 11th December 1995.
 
-## 2. Interpretation[^key-07c29e4eca2d6b2ddfe2d576c0a4b120]
+## 2. Interpretation[^c-07c29e4eca2d6b2ddfe2d576c0a4b120]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the Marketing of Vegetable Plant Material Regu
 - “responsible official body” means the Department;
 - “supplier” means any person professionally engaged in the production, reproduction, preservation, treatment or marketing of plant material.
 
-## 3. Plant material to which these Regulations apply[^key-331a597b86165a898cafacf48925922c]
+## 3. Plant material to which these Regulations apply[^c-331a597b86165a898cafacf48925922c]
 
 (1) Subject to paragraph (2), these Regulations shall apply to—
 
@@ -77,11 +77,11 @@ These Regulations may be cited as the Marketing of Vegetable Plant Material Regu
 - (c) selection work; or
 - (d) measures aimed at the conservation of genetic diversity.
 
-## 4. Small producers[^key-e42717364435ff262b1c5d2a09056e14]
+## 4. Small producers[^c-e42717364435ff262b1c5d2a09056e14]
 
 These Regulations shall not apply to a small producer all of whose production and sales of plant material are intended for final use by persons on the local market who are not professionally involved in plant production.
 
-## 5. Quality requirements for plant material[^key-73c96423b930c335f7a12318671abac8]
+## 5. Quality requirements for plant material[^c-73c96423b930c335f7a12318671abac8]
 
 A supplier shall not market any plant material unless—
 
@@ -93,7 +93,7 @@ A supplier shall not market any plant material unless—
   - (ii) it belongs to a variety officially accepted in a member State in accordance with Article 9 of [Directive 92/33/EEC](https://www.legislation.gov.uk/european/directive/1992/0033); and
 - (e) it is in lots of sufficiently homogeneous composition and origin.
 
-## 6. Measures to be taken by producers[^key-aa70163230ec99617d2d8df6399afc08]
+## 6. Measures to be taken by producers[^c-aa70163230ec99617d2d8df6399afc08]
 
 A producer shall—
 
@@ -101,11 +101,11 @@ A producer shall—
 - (b) report to an inspector any plant material that fails to comply with the requirements of regulation 5(a) as a result of the presence of organisms and diseases listed in the Annex to [Directive 93/61/EEC](https://www.legislation.gov.uk/european/directive/1993/0061); and
 - (c) keep plant material in lots of homogeneous composition and origin during growing and lifting or removal from parent material.
 
-## 7. Special provisions relating to the marketing of bulbs of shallots and garlic[^key-ea71fe7186d981e6297d25b0e3b60c5a]
+## 7. Special provisions relating to the marketing of bulbs of shallots and garlic[^c-ea71fe7186d981e6297d25b0e3b60c5a]
 
 A producer shall not market bulbs of shallots or garlic other than bulbs derived directly from plant material which was checked at the stage of the growing crop and which was found to satisfy the requirements of regulation 5(a).
 
-## 8. Information to accompany plant material[^key-77193e71fa35a6c6f6758201f5c7863e]
+## 8. Information to accompany plant material[^c-77193e71fa35a6c6f6758201f5c7863e]
 
 (1) Subject to paragraphs (2) and (3), a supplier shall not market any plant material unless it is accompanied by a supplier’s document on which appears the appropriate information prescribed in Part A of Schedule 2.
 
@@ -115,7 +115,7 @@ A producer shall not market bulbs of shallots or garlic other than bulbs derived
 
 (4) Where young plants raised directly from seeds marketed in accordance with the Vegetable Seeds Regulations (Northern Ireland) 1994 are marketed accompanied by a supplier’s document under paragraph (1) on which appears the appropriate information prescribed in Part A of Schedule 1, the supplier shall if so requested provide the relevant seed lot reference number of the seeds to the Department.
 
-## 9. Records to be kept by suppliers[^key-37f38105e907b349cdcb2fd2bbe3e647]
+## 9. Records to be kept by suppliers[^c-37f38105e907b349cdcb2fd2bbe3e647]
 
 (1) Subject to paragraphs (2) and (3), a supplier other than a producer shall keep—
 
@@ -132,7 +132,7 @@ A producer shall not market bulbs of shallots or garlic other than bulbs derived
 - (b) records on the composition and origin of any plant material of different origins mixed by him during packaging, storage or transport or at delivery; and
 - (c) records on all occurrences on his premises of the harmful organisms referred to in regulation 5(a) and on any measures taken in relation to such occurrences.
 
-## 10. Accreditation of producers[^key-841f491ca4fb5e1fc0f2992db79bd9ee]
+## 10. Accreditation of producers[^c-841f491ca4fb5e1fc0f2992db79bd9ee]
 
 (1) A producer shall not market plant material unless he is accredited.
 
@@ -142,7 +142,7 @@ A producer shall not market bulbs of shallots or garlic other than bulbs derived
 
 (4) Applications for accreditation shall be made to the Department in such form as it may from time to time require.
 
-## 11. Powers of inspectors[^key-3f2d8126ff80893c26912de248f15863]
+## 11. Powers of inspectors[^c-3f2d8126ff80893c26912de248f15863]
 
 (1) An inspector, upon producing, if required to do so, some duly authenticated document showing his authority, may at any reasonable time enter any premises of a supplier where he reasonably suspects that any activity which is governed by these Regulations is being or has been carried on for the purposes of ascertaining whether there is or has been any contravention of these Regulations.
 
@@ -157,7 +157,7 @@ A producer shall not market bulbs of shallots or garlic other than bulbs derived
 
 (4) An inspector may by notice in writing served on a supplier in respect of any plant material on the supplier’s premises that the inspector has reasonable grounds for suspecting fails to comply with the requirements of regulation 5(a) require the supplier not to market or to move from his premises or to permit or cause to be marketed or moved from his premises the plant material until the supplier has carried out such reasonable measures as the notice may specify.
 
-## 12. Offences and penalties[^key-f0e0f197de151e70df4481b514d95a47]
+## 12. Offences and penalties[^c-f0e0f197de151e70df4481b514d95a47]
 
 A person who without reasonable excuse, proof of which shall be on him, contravenes any provision of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -169,7 +169,7 @@ L. G. McKibben
 
 Assistant Secretary
 
-## SCHEDULE 1 — Species and Genera to which the Regulations apply[^key-bcdc2fa68f01fd64f5b533534a5c5f5e]
+## SCHEDULE 1 — Species and Genera to which the Regulations apply[^c-bcdc2fa68f01fd64f5b533534a5c5f5e]
 
 Regulation 3(1)
 
@@ -265,39 +265,39 @@ Witloof chicory (*Cichorium* *intybus* L.)
 
 Regulation 8(1) and (2)
 
-**1.**[^key-b85cb5b40d4481c5eb88aa2b98339228] “EC quality”.
+**1.**[^c-b85cb5b40d4481c5eb88aa2b98339228] “EC quality”.
 
-**2.**[^key-5687ee68b03efd9f2bb9bbfca0bffe8c] Indication of EC member State code.
+**2.**[^c-5687ee68b03efd9f2bb9bbfca0bffe8c] Indication of EC member State code.
 
-**3.**[^key-61eca92ff1d06be567e9110d01c1e302] Indication of responsible official body or its distinguishing code.
+**3.**[^c-61eca92ff1d06be567e9110d01c1e302] Indication of responsible official body or its distinguishing code.
 
-**4.**[^key-80518641a3fe27472afd03f7fe1d82a4] Registration or accreditation number.
+**4.**[^c-80518641a3fe27472afd03f7fe1d82a4] Registration or accreditation number.
 
-**5.**[^key-370474505d48eeb29918a060b9125cf8] Name of supplier.
+**5.**[^c-370474505d48eeb29918a060b9125cf8] Name of supplier.
 
-**6.**[^key-64b134abed725b5768f4a0e78b476217] Individual serial, week or batch number.
+**6.**[^c-64b134abed725b5768f4a0e78b476217] Individual serial, week or batch number.
 
-**7.**[^key-8856cb7574cc36b3bf3b2ac4a6e533f4] Date of issue of supplier’s document.
+**7.**[^c-8856cb7574cc36b3bf3b2ac4a6e533f4] Date of issue of supplier’s document.
 
-**8.**[^key-c034d118275245d140f88ad4cef89977] Common name.
+**8.**[^c-c034d118275245d140f88ad4cef89977] Common name.
 
-**9.**[^key-59b44be48d3f6f925750727b932a3972] Denomination of the variety or, in the case of rootstock, denomination of the variety or its designation.
+**9.**[^c-59b44be48d3f6f925750727b932a3972] Denomination of the variety or, in the case of rootstock, denomination of the variety or its designation.
 
-**10.**[^key-979453b874475451cd79c99977272d30] Quantity.
+**10.**[^c-979453b874475451cd79c99977272d30] Quantity.
 
 ### PART B — INFORMATION TO ACCOMPANY A PLANT PASSPORT WHICH CONSTITUTES A SUPPLIER’S DOCUMENT
 
-**1.**[^key-05b1d21c31d5e86b45a7e16cf3b458ac] “EC quality”.
+**1.**[^c-05b1d21c31d5e86b45a7e16cf3b458ac] “EC quality”.
 
-**2.**[^key-fbee7363a418e07435193ffce42955be] Indication of responsible official body or its distinguishing code.
+**2.**[^c-fbee7363a418e07435193ffce42955be] Indication of responsible official body or its distinguishing code.
 
-**3.**[^key-d9b74ed87c6c8fa48eb5974134719ca1] Denomination of the variety or, in the case of rootstock, denomination of the variety or its designation.
+**3.**[^c-d9b74ed87c6c8fa48eb5974134719ca1] Denomination of the variety or, in the case of rootstock, denomination of the variety or its designation.
 
 ## SCHEDULE 3 — Accreditation requirements for producers
 
 Regulations 9(4) and 10(2) and (3)
 
-**1.**[^key-000ec5ca3fce7c983f285a1ea167a301] To ensure that the following aspects of the production process are monitored as appropriate—
+**1.**[^c-000ec5ca3fce7c983f285a1ea167a301] To ensure that the following aspects of the production process are monitored as appropriate—
 
 - (a) the quality of plant material used to start the production process;
 - (b) the sowing, pricking-out, potting-up and planting of plant material;
@@ -305,15 +305,15 @@ Regulations 9(4) and 10(2) and (3)
 - (d) the multiplication and harvesting operations; and
 - (e) hygiene, treatments, packaging, storage, transport and administration.
 
-**2.**[^key-de6e25376a8920b4a348c0d0f5eb32c0] To keep, and to retain for at least one year, written records, or records registered in an indelible fashion, on plant material purchased for storage or planting on the premises, under production, or dispatched to others, and to keep, and to retain for at least one year, written records, or records registered in an indelible fashion, and related documents on any chemical treatments applied to plants.
+**2.**[^c-de6e25376a8920b4a348c0d0f5eb32c0] To keep, and to retain for at least one year, written records, or records registered in an indelible fashion, on plant material purchased for storage or planting on the premises, under production, or dispatched to others, and to keep, and to retain for at least one year, written records, or records registered in an indelible fashion, and related documents on any chemical treatments applied to plants.
 
-**3.**[^key-35c1e0da95eab8ad92dc0660f1663057] To designate a person technically experienced in plant production and related plant health matters to liaise with the Department.
+**3.**[^c-35c1e0da95eab8ad92dc0660f1663057] To designate a person technically experienced in plant production and related plant health matters to liaise with the Department.
 
-**4.**[^key-cc9c59ca1c9a4e6d61fe24119f751ed8] To carry out visual observations as necessary and at appropriate times in a manner acceptable to the Department.
+**4.**[^c-cc9c59ca1c9a4e6d61fe24119f751ed8] To carry out visual observations as necessary and at appropriate times in a manner acceptable to the Department.
 
-**5.**[^key-5a5aae9122fb5f5481b43a6072f11816] To ensure access to the premises for persons entitled to entry under these Regulations, in particular for inspections and, where appropriate, sampling, and to the records and related documents referred to in paragraph 2.
+**5.**[^c-5a5aae9122fb5f5481b43a6072f11816] To ensure access to the premises for persons entitled to entry under these Regulations, in particular for inspections and, where appropriate, sampling, and to the records and related documents referred to in paragraph 2.
 
-**6.**[^key-5ef7c470b53fcf22ba8556b52e6132d7] To co-operate with the Department.
+**6.**[^c-5ef7c470b53fcf22ba8556b52e6132d7] To co-operate with the Department.
 
 EXPLANATORY NOTE
 
@@ -341,9 +341,9 @@ Regulation 12 relates to offences and penalties.
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2 is subject to Schedule 2 to that Act and is to be read with [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/uksi/1984/703) and [S.R. 1984 No. 253](https://www.legislation.gov.uk/nisr/1984/253)
 
-[^key-9b0609dc156f18db3bcb3c7710e08946]: Commencement: Reg. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-9b0609dc156f18db3bcb3c7710e08946]: Commencement: Reg. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-07c29e4eca2d6b2ddfe2d576c0a4b120]: Commencement: Reg. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-07c29e4eca2d6b2ddfe2d576c0a4b120]: Commencement: Reg. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -351,66 +351,66 @@ Regulation 12 relates to offences and penalties.
 
 [^f00005]: Footnote: O.J. No. L.250, 7.10.93, p. 19
 
-[^key-331a597b86165a898cafacf48925922c]: Commencement: Reg. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-331a597b86165a898cafacf48925922c]: Commencement: Reg. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-e42717364435ff262b1c5d2a09056e14]: Commencement: Reg. 4 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-e42717364435ff262b1c5d2a09056e14]: Commencement: Reg. 4 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-73c96423b930c335f7a12318671abac8]: Commencement: Reg. 5 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-73c96423b930c335f7a12318671abac8]: Commencement: Reg. 5 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1994 No. 250](https://www.legislation.gov.uk/nisr/1994/250)
 
-[^key-aa70163230ec99617d2d8df6399afc08]: Commencement: Reg. 6 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-aa70163230ec99617d2d8df6399afc08]: Commencement: Reg. 6 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-ea71fe7186d981e6297d25b0e3b60c5a]: Commencement: Reg. 7 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-ea71fe7186d981e6297d25b0e3b60c5a]: Commencement: Reg. 7 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-77193e71fa35a6c6f6758201f5c7863e]: Commencement: Reg. 8 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-77193e71fa35a6c6f6758201f5c7863e]: Commencement: Reg. 8 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
 [^f00007]: Footnote: Council [Directive 77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) of 21st December 1976 on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community (O.J. No. L.26, 31.1.77, p. 20), as last amended by Commission [Directive 95/41/EC](https://www.legislation.gov.uk/european/directive/1995/0041) of 19th July 1995 (O.J. No. L.182, 2.8.95, p. 17)
 
-[^key-37f38105e907b349cdcb2fd2bbe3e647]: Commencement: Reg. 9 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-37f38105e907b349cdcb2fd2bbe3e647]: Commencement: Reg. 9 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-841f491ca4fb5e1fc0f2992db79bd9ee]: Commencement: Reg. 10 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-841f491ca4fb5e1fc0f2992db79bd9ee]: Commencement: Reg. 10 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-3f2d8126ff80893c26912de248f15863]: Commencement: Reg. 11 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-3f2d8126ff80893c26912de248f15863]: Commencement: Reg. 11 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-f0e0f197de151e70df4481b514d95a47]: Commencement: Reg. 12 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-f0e0f197de151e70df4481b514d95a47]: Commencement: Reg. 12 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-bcdc2fa68f01fd64f5b533534a5c5f5e]: Commencement: Sch. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-bcdc2fa68f01fd64f5b533534a5c5f5e]: Commencement: Sch. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-b85cb5b40d4481c5eb88aa2b98339228]: Commencement: Sch. 2 Pt. A para. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-b85cb5b40d4481c5eb88aa2b98339228]: Commencement: Sch. 2 Pt. A para. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-5687ee68b03efd9f2bb9bbfca0bffe8c]: Commencement: Sch. 2 Pt. A para. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-5687ee68b03efd9f2bb9bbfca0bffe8c]: Commencement: Sch. 2 Pt. A para. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-61eca92ff1d06be567e9110d01c1e302]: Commencement: Sch. 2 Pt. A para. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-61eca92ff1d06be567e9110d01c1e302]: Commencement: Sch. 2 Pt. A para. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-80518641a3fe27472afd03f7fe1d82a4]: Commencement: Sch. 2 para. 4 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-80518641a3fe27472afd03f7fe1d82a4]: Commencement: Sch. 2 para. 4 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-370474505d48eeb29918a060b9125cf8]: Commencement: Sch. 2 para. 5 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-370474505d48eeb29918a060b9125cf8]: Commencement: Sch. 2 para. 5 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-64b134abed725b5768f4a0e78b476217]: Commencement: Sch. 2 para. 6 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-64b134abed725b5768f4a0e78b476217]: Commencement: Sch. 2 para. 6 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-8856cb7574cc36b3bf3b2ac4a6e533f4]: Commencement: Sch. 2 para. 7 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-8856cb7574cc36b3bf3b2ac4a6e533f4]: Commencement: Sch. 2 para. 7 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-c034d118275245d140f88ad4cef89977]: Commencement: Sch. 2 para. 8 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-c034d118275245d140f88ad4cef89977]: Commencement: Sch. 2 para. 8 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-59b44be48d3f6f925750727b932a3972]: Commencement: Sch. 2 para. 9 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-59b44be48d3f6f925750727b932a3972]: Commencement: Sch. 2 para. 9 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-979453b874475451cd79c99977272d30]: Commencement: Sch. 2 para. 10 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-979453b874475451cd79c99977272d30]: Commencement: Sch. 2 para. 10 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-05b1d21c31d5e86b45a7e16cf3b458ac]: Commencement: Sch. 2 Pt. B para. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-05b1d21c31d5e86b45a7e16cf3b458ac]: Commencement: Sch. 2 Pt. B para. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-fbee7363a418e07435193ffce42955be]: Commencement: Sch. 2 Pt. B para. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-fbee7363a418e07435193ffce42955be]: Commencement: Sch. 2 Pt. B para. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-d9b74ed87c6c8fa48eb5974134719ca1]: Commencement: Sch. 2 Pt. B para. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-d9b74ed87c6c8fa48eb5974134719ca1]: Commencement: Sch. 2 Pt. B para. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-000ec5ca3fce7c983f285a1ea167a301]: Commencement: Sch. 3 para. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-000ec5ca3fce7c983f285a1ea167a301]: Commencement: Sch. 3 para. 1 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-de6e25376a8920b4a348c0d0f5eb32c0]: Commencement: Sch. 3 para. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-de6e25376a8920b4a348c0d0f5eb32c0]: Commencement: Sch. 3 para. 2 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-35c1e0da95eab8ad92dc0660f1663057]: Commencement: Sch. 3 para. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-35c1e0da95eab8ad92dc0660f1663057]: Commencement: Sch. 3 para. 3 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-cc9c59ca1c9a4e6d61fe24119f751ed8]: Commencement: Sch. 3 para. 4 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-cc9c59ca1c9a4e6d61fe24119f751ed8]: Commencement: Sch. 3 para. 4 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-5a5aae9122fb5f5481b43a6072f11816]: Commencement: Sch. 3 para. 5 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-5a5aae9122fb5f5481b43a6072f11816]: Commencement: Sch. 3 para. 5 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
 
-[^key-5ef7c470b53fcf22ba8556b52e6132d7]: Commencement: Sch. 3 para. 6 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)
+[^c-5ef7c470b53fcf22ba8556b52e6132d7]: Commencement: Sch. 3 para. 6 in operation at 11.12.1995, see [reg. 1](https://www.legislation.gov.uk/nisr/1995/415/regulation/1)

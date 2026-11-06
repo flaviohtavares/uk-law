@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Transfer statement[^key-a5a0fd4239ab78713eba004a3b714d4e]
+## 151. Transfer statement[^c-a5a0fd4239ab78713eba004a3b714d4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5a0fd4239ab78713eba004a3b714d4e]: Commencement: [Reg. 151](https://www.legislation.gov.uk/uksi/2014/1964/regulation/151) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a5a0fd4239ab78713eba004a3b714d4e]: Commencement: [Reg. 151](https://www.legislation.gov.uk/uksi/2014/1964/regulation/151) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

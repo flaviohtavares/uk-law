@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Real time returns[^key-3db1ec1665cd2610a0564e1d0e9cc329]
+## SCHEDULE A1 — Real time returns[^c-3db1ec1665cd2610a0564e1d0e9cc329]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ The employee’s name.
 
 **14.** If the number used by the employer to identify the employee is different to that shown on the previous return for the employee (if any), an indication of that and the number shown on the previous return.
 
-**14A.**[^key-f6e3d327030aec61f887348608d88139] If applicable, an indication that the payment to which the return relates is a payment to any one of—
+**14A.**[^c-f6e3d327030aec61f887348608d88139] If applicable, an indication that the payment to which the return relates is a payment to any one of—
 
 - (a) a body corporate,
 - (b) a trustee of a trust of which the employee is a beneficiary,
@@ -68,7 +68,7 @@ The tax year to which the return relates.
 
 **16.** The total payments to date in this employment.
 
-**16A.**[^key-59431c012ce2410555528c99c1cca132] The value of any relevant payments to date in this employment that are treated as payments of PAYE income for the purposes of the PAYE regulations by virtue of sections 687A or 695A of ITEPA.
+**16A.**[^c-59431c012ce2410555528c99c1cca132] The value of any relevant payments to date in this employment that are treated as payments of PAYE income for the purposes of the PAYE regulations by virtue of sections 687A or 695A of ITEPA.
 
 **17.** The total net tax deducted in relation to the total payments to date in this employment[^M_F_4642f5af-58c1-48d3-9ba8-0ef12b5be224].
 
@@ -89,7 +89,7 @@ or an indication that none of the bands is applicable.
 
 **22.** The value of the payment the return relates to.
 
-**22A.**[^key-e6081dafa09eb5cc24772b326064e5de] If applicable, an indication that comprised within the payment is—
+**22A.**[^c-e6081dafa09eb5cc24772b326064e5de] If applicable, an indication that comprised within the payment is—
 
 - (a) a pension and if so—
   - (i) the amount of the pension.
@@ -123,7 +123,7 @@ or an indication that none of the bands is applicable.
 - “calculated price of the car” and “cash equivalent” are to be read in accordance with section 121 of ITEPA (method of calculating the cash equivalent of the benefit of a car)”, and
 - “unavailable” is to be read in accordance with section 143(2) of ITEPA (deduction for periods when car unavailable).
 
-**22C.**[^key-cc456a443701c20c020c097428d4eb60] (1) If applicable, an indication that comprised within the payment is an amount in respect of a reportable payment and the amount of that reportable payment.
+**22C.**[^c-cc456a443701c20c020c097428d4eb60] (1) If applicable, an indication that comprised within the payment is an amount in respect of a reportable payment and the amount of that reportable payment.
 
 (2) For the purposes of sub-paragraph (1) a “reportable payment” is—
 
@@ -141,7 +141,7 @@ or an indication that none of the bands is applicable.
 
 **22D.** If applicable, an indication that comprised within the payment is a lump sum to which section 636A(4ZA) of ITEPA applies and the amount of that lump sum.
 
-**22E.**[^key-701defae4efcd8443cd16c739b86d31b] If applicable, an indication that the payment to which the return relates is a payment in respect of an engagement to which Chapter 10, Part 2 of ITEPA applies by virtue of section 61M(1) of that Act.
+**22E.**[^c-701defae4efcd8443cd16c739b86d31b] If applicable, an indication that the payment to which the return relates is a payment in respect of an engagement to which Chapter 10, Part 2 of ITEPA applies by virtue of section 61M(1) of that Act.
 
 **23.** The tax code operated on the payment the return relates to.
 
@@ -149,9 +149,9 @@ or an indication that none of the bands is applicable.
 
 **25.** The total net tax deducted from the payment the return relates to.
 
-**26.** The value of any amount comprised within the payment made to the employee which falls to be reported under regulation 85 (employees: annual return of other earnings (Form P11D[^key-98732855dcc8befd8e664d3288d9c420])) and in respect of which tax has been deducted.
+**26.** The value of any amount comprised within the payment made to the employee which falls to be reported under regulation 85 (employees: annual return of other earnings (Form P11D[^c-98732855dcc8befd8e664d3288d9c420])) and in respect of which tax has been deducted.
 
-**26A.**[^key-3422911c20bd3dc0982c648cf79f45d6] The value of the amounts referred to in paragraph 26 in the tax year to date.
+**26A.**[^c-3422911c20bd3dc0982c648cf79f45d6] The value of the amounts referred to in paragraph 26 in the tax year to date.
 
 **27.** If the employer is required by regulation 67CA(1)(a) (notifications of relevant payments to and by providers of certain electronic payment methods) to include a reference in the return, the[^M_F_9d00dd72-fe4f-49be-ef4d-38d006c0de03] value of any amount which is not subject to tax or national insurance paid to the employee at the same time as the payment.
 
@@ -161,11 +161,11 @@ or an indication that none of the bands is applicable.
 
 **30.** The value, if any, of allowable pension contributions within the meaning given by regulation 3(2) deducted from the payment of PAYE income comprising the payment.
 
-**30A.**[^key-1370b7cd604325f2ca06f26bfb6a288d] The value of the contributions referred to in paragraph 30 in the tax year to date.
+**30A.**[^c-1370b7cd604325f2ca06f26bfb6a288d] The value of the contributions referred to in paragraph 30 in the tax year to date.
 
 **31.** The value, if any, of employee pension contributions other than allowable pension contributions within the meaning given by regulation 3(2) deducted from the payment.
 
-**31A.**[^key-30fed4fb80d519b69aec7d57948618b5] The value of the contributions referred to in paragraph 31 in the tax year to date.
+**31A.**[^c-30fed4fb80d519b69aec7d57948618b5] The value of the contributions referred to in paragraph 31 in the tax year to date.
 
 **32.** The value of any earnings for the purposes of the Social Security Contributions and Benefits Act 1992 comprised within the total payment which are included in the gross earnings from the employment for the purpose of calculating liability to Class 1 contributions under that Act but in respect of which tax is not deducted under these Regulations, excluding allowable pension contributions.
 
@@ -173,7 +173,7 @@ or an indication that none of the bands is applicable.
 
 **34.** In paragraph 32, “total payment” means the relevant payment the information being given in accordance with this Schedule relates to plus any other amount paid to the employee at the same time as the relevant payment.
 
-**34A.**[^key-aba5f55091e18435d7a6fa3628f9ab63] If applicable, an indication that during the period since the employer last made a return under regulation 67B or 67D containing information about the employee—
+**34A.**[^c-aba5f55091e18435d7a6fa3628f9ab63] If applicable, an indication that during the period since the employer last made a return under regulation 67B or 67D containing information about the employee—
 
 - (a) regulation 64 (trade disputes) has at any time applied in relation to the employee, or
 - (b) the employee has been absent from the employment without pay.
@@ -220,7 +220,7 @@ If the employment has ceased, the date of cessation.
 
 ## Annotations
 
-[^key-3db1ec1665cd2610a0564e1d0e9cc329]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2012/822/regulation/52), [Sch.](https://www.legislation.gov.uk/uksi/2012/822/schedule) (with [reg. 53](https://www.legislation.gov.uk/uksi/2012/822/regulation/53))
+[^c-3db1ec1665cd2610a0564e1d0e9cc329]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2012/822/regulation/52), [Sch.](https://www.legislation.gov.uk/uksi/2012/822/schedule) (with [reg. 53](https://www.legislation.gov.uk/uksi/2012/822/regulation/53))
 
 [^M_F_201350b8-bad7-4e25-aa5d-f74c64f43aa8]: Textual amendment: Words in Sch. A1 para. 5 inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
 
@@ -228,15 +228,15 @@ If the employment has ceased, the date of cessation.
 
 [^M_F_4c9f1b49-09bb-4109-9b51-5cbfa5b41278]: Textual amendment: Words in Sch. A1 para. 13 substituted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(c)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
 
-[^key-f6e3d327030aec61f887348608d88139]: Textual amendment: [Sch. A1 paras. 14A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/14A), [14B](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/14B) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(d)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/d)
+[^c-f6e3d327030aec61f887348608d88139]: Textual amendment: [Sch. A1 paras. 14A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/14A), [14B](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/14B) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(d)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/d)
 
-[^key-59431c012ce2410555528c99c1cca132]: Textual amendment: [Sch. A1 para. 16A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/16A) inserted (13.2.2019) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2019 (S.I. 2019/83)](https://www.legislation.gov.uk/uksi/2019/83), [regs. 1](https://www.legislation.gov.uk/uksi/2019/83/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/83/regulation/4/a)
+[^c-59431c012ce2410555528c99c1cca132]: Textual amendment: [Sch. A1 para. 16A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/16A) inserted (13.2.2019) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2019 (S.I. 2019/83)](https://www.legislation.gov.uk/uksi/2019/83), [regs. 1](https://www.legislation.gov.uk/uksi/2019/83/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/83/regulation/4/a)
 
 [^M_F_4642f5af-58c1-48d3-9ba8-0ef12b5be224]: Textual amendment: Words in Sch. A1 para. 17 substituted (13.2.2019) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2019 (S.I. 2019/83)](https://www.legislation.gov.uk/uksi/2019/83), [regs. 1](https://www.legislation.gov.uk/uksi/2019/83/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/83/regulation/4/a)
 
 [^M_F_e331db2c-7fbe-411a-dafe-b05aaa4c9e2a]: Textual amendment: [Sch. A1 para. 21(b)(ba)](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/21/b/ba) substituted for Sch. A1 para. 21(b) (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2014/472/regulation/20)
 
-[^key-e6081dafa09eb5cc24772b326064e5de]: Textual amendment: [Sch. A1 para. 22A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(e)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/e)
+[^c-e6081dafa09eb5cc24772b326064e5de]: Textual amendment: [Sch. A1 para. 22A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(e)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/e)
 
 [^M_F_06d4ffb8-767e-49d3-824d-ad03f3800f5e]: Textual amendment: [Sch. A1 para. 22B](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22B) substituted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [17](https://www.legislation.gov.uk/uksi/2017/1263/regulation/17)
 
@@ -244,23 +244,23 @@ If the employment has ceased, the date of cessation.
 
 [^M_F_b6e114c1-9593-448d-b088-9dd963f1ee55]: Textual amendment: Word in [Sch. A1 para 22B(2)](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22B/2) inserted (24.2.2022) by [Finance Act 2022 (2022 c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 18 para. 7(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/18/paragraph/7/b)
 
-[^key-cc456a443701c20c020c097428d4eb60]: Textual amendment: [Sch. A1 paras. 22C](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22C), [22D](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22D) inserted (6.4.2016) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2016 (S.I. 2016/329)](https://www.legislation.gov.uk/uksi/2016/329), [regs. 1](https://www.legislation.gov.uk/uksi/2016/329/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/329/regulation/5)
+[^c-cc456a443701c20c020c097428d4eb60]: Textual amendment: [Sch. A1 paras. 22C](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22C), [22D](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22D) inserted (6.4.2016) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2016 (S.I. 2016/329)](https://www.legislation.gov.uk/uksi/2016/329), [regs. 1](https://www.legislation.gov.uk/uksi/2016/329/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/329/regulation/5)
 
-[^key-701defae4efcd8443cd16c739b86d31b]: Textual amendment: [Sch. A1 para. 22E](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22E) inserted (11.5.2020) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2020 (S.I. 2020/373)](https://www.legislation.gov.uk/uksi/2020/373), [regs. 1](https://www.legislation.gov.uk/uksi/2020/373/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/373/regulation/3)
+[^c-701defae4efcd8443cd16c739b86d31b]: Textual amendment: [Sch. A1 para. 22E](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/22E) inserted (11.5.2020) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2020 (S.I. 2020/373)](https://www.legislation.gov.uk/uksi/2020/373), [regs. 1](https://www.legislation.gov.uk/uksi/2020/373/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/373/regulation/3)
 
-[^key-98732855dcc8befd8e664d3288d9c420]: Textual amendment: Words in [Sch. A1 para. 26](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/26) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/14/b)
+[^c-98732855dcc8befd8e664d3288d9c420]: Textual amendment: Words in [Sch. A1 para. 26](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/26) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/14/b)
 
-[^key-3422911c20bd3dc0982c648cf79f45d6]: Textual amendment: [Sch. A1 para. 26A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/26A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(f)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/f)
+[^c-3422911c20bd3dc0982c648cf79f45d6]: Textual amendment: [Sch. A1 para. 26A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/26A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(f)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/f)
 
 [^M_F_9d00dd72-fe4f-49be-ef4d-38d006c0de03]: Textual amendment: Words in Sch. A1 para. 27 substituted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(g)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
 
 [^M_F_7e4b5a99-9380-4dea-8774-f937ab3fd2f6]: Textual amendment: Words in Sch. A1 para. 28 substituted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(h)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
 
-[^key-1370b7cd604325f2ca06f26bfb6a288d]: Textual amendment: [Sch. A1 para. 30A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/30A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(i)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/i)
+[^c-1370b7cd604325f2ca06f26bfb6a288d]: Textual amendment: [Sch. A1 para. 30A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/30A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(i)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/i)
 
-[^key-30fed4fb80d519b69aec7d57948618b5]: Textual amendment: [Sch. A1 para. 31A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/31A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(j)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/j)
+[^c-30fed4fb80d519b69aec7d57948618b5]: Textual amendment: [Sch. A1 para. 31A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/31A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(j)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/j)
 
-[^key-aba5f55091e18435d7a6fa3628f9ab63]: Textual amendment: [Sch. A1 para. 34A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/34A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(k)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
+[^c-aba5f55091e18435d7a6fa3628f9ab63]: Textual amendment: [Sch. A1 para. 34A](https://www.legislation.gov.uk/uksi/2003/2682/schedule/A1/paragraph/34A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(k)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
 
 [^M_F_b8cfd999-d6f6-4ef5-951d-50d198e65143]: Textual amendment: Words in Sch. A1 para. 41(a)(i) substituted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [37(l)](https://www.legislation.gov.uk/uksi/2013/521/regulation/37/k)
 

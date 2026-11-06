@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. General binding rules[^key-ada537cfe3137dfa381baf1d7b21f527]
+## 16. General binding rules[^c-ada537cfe3137dfa381baf1d7b21f527]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ada537cfe3137dfa381baf1d7b21f527]: Commencement: Reg. 16 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-ada537cfe3137dfa381baf1d7b21f527]: Commencement: Reg. 16 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

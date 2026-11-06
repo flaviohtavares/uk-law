@@ -43,13 +43,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 185(1) and (7) of the Anti-social Behaviour, Crime and Policing Act 2014[^f00001], makes the following Order.
 
-## 1. Citation and interpretation[^key-fba4c9e0711bd49b89d8fc972c780b5d]
+## 1. Citation and interpretation[^c-fba4c9e0711bd49b89d8fc972c780b5d]
 
 (1) This Order may be cited as the Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) Order 2014.
 
 (2) In this Order “the 2014 Act” means the Anti-social Behaviour, Crime and Policing Act 2014.
 
-## 2. Provisions coming into force on 20th October 2014 in relation to England[^key-d8bcb68db7e80c1ff2496ba8f3306b64]
+## 2. Provisions coming into force on 20th October 2014 in relation to England[^c-d8bcb68db7e80c1ff2496ba8f3306b64]
 
 The following provisions of the 2014 Act come into force on 20th October 2014 in relation to England—
 
@@ -62,7 +62,7 @@ The following provisions of the 2014 Act come into force on 20th October 2014 in
 - (g) Schedule 3 (Schedule to be inserted as Schedule 2A to the Housing Act 1985);
 - (h) in Schedule 11 (minor and consequential amendments), paragraphs 2, 7 to 10, 13, 14, 15(4), 16, 18, 19, 47(4) and 48.
 
-## 3. Provisions coming into force on 20th October 2014[^key-14d1fce7d2804febd88330022c8e737d]
+## 3. Provisions coming into force on 20th October 2014[^c-14d1fce7d2804febd88330022c8e737d]
 
 The following provisions of the 2014 Act come into force on 20th October 2014—
 
@@ -88,12 +88,12 @@ The following provisions of the 2014 Act come into force on 20th October 2014—
     - (jj) section 1K(2);
   - (iv) paragraphs 25 and 26;
   - (v) paragraph 30;
-  - (vi) paragraphs 32 to 43 and 45[^key-a738524add8c356c7e4f3fa4900414dc];
-  - (vii)[^key-1fc8500da36224f1e2be6f688b186d3a] paragraph 44 insofar as it relates to the repeal of the following provisions of the Violent Crime Reduction Act 2006—
+  - (vi) paragraphs 32 to 43 and 45[^c-a738524add8c356c7e4f3fa4900414dc];
+  - (vii)[^c-1fc8500da36224f1e2be6f688b186d3a] paragraph 44 insofar as it relates to the repeal of the following provisions of the Violent Crime Reduction Act 2006—
     - (aa) sections 6 to 8;
     - (bb) section 9(1)(b) and (9);
     - (cc) sections 9(7)(b) and 10(1) insofar as they relate to a drinking banning order made under section 6 of the Violent Crime Reduction Act 2006.
-  - (viii)[^key-1392954d454f6be278fbec1fb675bf90] in paragraph 50, the repeals relating to—
+  - (viii)[^c-1392954d454f6be278fbec1fb675bf90] in paragraph 50, the repeals relating to—
     - (aa) the Licensing Act 2003[^f00003];
     - (bb) sections 14(3)(a) and 56(1) of the Anti-social Behaviour Act 2003[^f00004];
     - (cc) paragraph 59 of Schedule 26 to the Criminal Justice Act 2003[^f00005];
@@ -106,11 +106,11 @@ The following provisions of the 2014 Act come into force on 20th October 2014—
     - (jj) the Police Reform and Social Responsibility Act 2011[^f00012];
     - (kk) the Localism Act 2011[^f00013].
 
-## 4. Saving provision in relation to the coming into force of Part 2[^key-1fc033715d2069dd837a6678bcf7be05]
+## 4. Saving provision in relation to the coming into force of Part 2[^c-1fc033715d2069dd837a6678bcf7be05]
 
-Notwithstanding the commencement of paragraphs 25 and 26 of Schedule 11 to the 2014 Act, sections 8 and 9[^key-53053a6d1ffcd966d1119b8e859058d1] of the Crime and Disorder Act 1998 as in force immediately before the commencement of those provisions continue to apply to an anti-social behaviour order within the meaning of section 1 of that Act.
+Notwithstanding the commencement of paragraphs 25 and 26 of Schedule 11 to the 2014 Act, sections 8 and 9[^c-53053a6d1ffcd966d1119b8e859058d1] of the Crime and Disorder Act 1998 as in force immediately before the commencement of those provisions continue to apply to an anti-social behaviour order within the meaning of section 1 of that Act.
 
-## 5. Transitional provision in relation to the coming into force of sections 94 and 97 in England[^key-ba04594980d7c7aa2c3ac7ff55d3974e]
+## 5. Transitional provision in relation to the coming into force of sections 94 and 97 in England[^c-ba04594980d7c7aa2c3ac7ff55d3974e]
 
 In relation to the coming into force of sections 94 and 97 of the 2014 Act (absolute grounds for possession) in England, condition 5 in section 84A(7) of the Housing Act 1985[^f00014] and in Ground 7A of Part 1 of Schedule 2 to the Housing Act 1988[^f00015] is only met if the offence under—
 
@@ -119,7 +119,7 @@ In relation to the coming into force of sections 94 and 97 of the 2014 Act (abso
 
 is committed by the tenant, or a person residing in or visiting the dwelling-house, on or after 20th October 2014.
 
-## 5A. Transitional provision in relation to the coming into force of Part 6[^key-5857f6ff6200b41b2ff515c9fa61fc8d]
+## 5A. Transitional provision in relation to the coming into force of Part 6[^c-5857f6ff6200b41b2ff515c9fa61fc8d]
 
 Until Part 1 of the 2014 Act comes into force, section 102(1)(c) is to be read as if for “an injunction under section 1” there were substituted “an order under section 1 of the Crime and Disorder Act 1998 or an injunction under section 153A of the Housing Act 1996”.
 
@@ -222,19 +222,19 @@ The following provisions of the Act have been brought into force to their fulles
 
 [^f00001]: Footnote: [2014 c. 12](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-fba4c9e0711bd49b89d8fc972c780b5d]: Commencement: Art. 1 in force at made date
+[^c-fba4c9e0711bd49b89d8fc972c780b5d]: Commencement: Art. 1 in force at made date
 
-[^key-d8bcb68db7e80c1ff2496ba8f3306b64]: Commencement: Art. 2 in force at made date
+[^c-d8bcb68db7e80c1ff2496ba8f3306b64]: Commencement: Art. 2 in force at made date
 
-[^key-14d1fce7d2804febd88330022c8e737d]: Commencement: Art. 3 in force at made date
+[^c-14d1fce7d2804febd88330022c8e737d]: Commencement: Art. 3 in force at made date
 
 [^f00002]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-a738524add8c356c7e4f3fa4900414dc]: Textual amendment: Words in [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) substituted (20.10.2014) by [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/2754/article/3/a)
+[^c-a738524add8c356c7e4f3fa4900414dc]: Textual amendment: Words in [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) substituted (20.10.2014) by [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/2754/article/3/a)
 
-[^key-1fc8500da36224f1e2be6f688b186d3a]: Textual amendment: [Art. 3(vii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/vii) inserted (20.10.2014) by [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2014/2754/article/3/c)
+[^c-1fc8500da36224f1e2be6f688b186d3a]: Textual amendment: [Art. 3(vii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/vii) inserted (20.10.2014) by [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2014/2754/article/3/c)
 
-[^key-1392954d454f6be278fbec1fb675bf90]: Textual amendment: [Art. 3(g)(vii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vii) renumbered as art. 3(g)(viii) (20.10.2014) by [The Anti Social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/2754/article/3/b)
+[^c-1392954d454f6be278fbec1fb675bf90]: Textual amendment: [Art. 3(g)(vii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vii) renumbered as art. 3(g)(viii) (20.10.2014) by [The Anti Social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/2754/article/3/b)
 
 [^f00003]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
 
@@ -258,11 +258,11 @@ The following provisions of the Act have been brought into force to their fulles
 
 [^f00013]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-1fc033715d2069dd837a6678bcf7be05]: Commencement: Art. 4 in force at made date
+[^c-1fc033715d2069dd837a6678bcf7be05]: Commencement: Art. 4 in force at made date
 
-[^key-53053a6d1ffcd966d1119b8e859058d1]: Textual amendment: Words in art. 4 substituted (20.10.2014) by virtue of [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [4](https://www.legislation.gov.uk/uksi/2014/2754/article/4)
+[^c-53053a6d1ffcd966d1119b8e859058d1]: Textual amendment: Words in art. 4 substituted (20.10.2014) by virtue of [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [4](https://www.legislation.gov.uk/uksi/2014/2754/article/4)
 
-[^key-ba04594980d7c7aa2c3ac7ff55d3974e]: Commencement: Art. 5 in force at made date
+[^c-ba04594980d7c7aa2c3ac7ff55d3974e]: Commencement: Art. 5 in force at made date
 
 [^f00014]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 84A is prospectively inserted by section 94(1) of the 2014 Act.
 
@@ -270,7 +270,7 @@ The following provisions of the Act have been brought into force to their fulles
 
 [^f00016]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-5857f6ff6200b41b2ff515c9fa61fc8d]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2014/2590/article/5A) inserted (20.10.2014) by [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [5](https://www.legislation.gov.uk/uksi/2014/2754/article/5)
+[^c-5857f6ff6200b41b2ff515c9fa61fc8d]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2014/2590/article/5A) inserted (20.10.2014) by [The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 7, Saving and Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/2754)](https://www.legislation.gov.uk/uksi/2014/2754), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2754/article/1), [5](https://www.legislation.gov.uk/uksi/2014/2754/article/5)
 
 [^f01000]: Footnote: (\*)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Reports to Authority about winding-up.[^key-e748e72919d610501ecf36b497135b3d]
+## 72A. Reports to Authority about winding-up.[^c-e748e72919d610501ecf36b497135b3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,11 +57,11 @@ it shall be the duty of the trustees or managers, in accordance with this sectio
 
 (9) If there is any failure by the trustees or managers of any scheme to comply with their duty to make a report in accordance with the requirements imposed by or under this section—
 
-- (a)[^key-8624ccf12f189c8c1d377072dcbb2db1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8624ccf12f189c8c1d377072dcbb2db1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 10 applies (irrespective of the description of scheme involved) to any trustee or manager who has failed to take all such steps.
 
 ## Annotations
 
-[^key-e748e72919d610501ecf36b497135b3d]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/1995/26/section/72A) and cross-heading inserted (1.3.2002 for specified purposes, 1.4.2002 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/49/1), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(b)-(d)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/b)(2)
+[^c-e748e72919d610501ecf36b497135b3d]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/1995/26/section/72A) and cross-heading inserted (1.3.2002 for specified purposes, 1.4.2002 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/49/1), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(b)-(d)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/b)(2)
 
-[^key-8624ccf12f189c8c1d377072dcbb2db1]: Textual amendment: [S. 72A(9)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/72A/9/a) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 59](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/59), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3)); [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1108/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1108/schedule)
+[^c-8624ccf12f189c8c1d377072dcbb2db1]: Textual amendment: [S. 72A(9)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/72A/9/a) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 59](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/59), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3)); [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1108/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1108/schedule)

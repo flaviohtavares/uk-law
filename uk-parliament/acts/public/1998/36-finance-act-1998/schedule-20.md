@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20 — Application of taper relief[^key-99c73e30184bf5acebdf3d4a086c8d8c]
+## SCHEDULE 20 — Application of taper relief[^c-99c73e30184bf5acebdf3d4a086c8d8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Section 121.
 
-[^key-99c73e30184bf5acebdf3d4a086c8d8c]
+[^c-99c73e30184bf5acebdf3d4a086c8d8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99c73e30184bf5acebdf3d4a086c8d8c]: Textual amendment: Sch. 20 omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iii)
+[^c-99c73e30184bf5acebdf3d4a086c8d8c]: Textual amendment: Sch. 20 omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iii)

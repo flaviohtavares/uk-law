@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Public companies: information about aggregate amount paid up on shares[^key-9d6e8f6275e3c8de30bee11d5c9527cb]
+## 98. Public companies: information about aggregate amount paid up on shares[^c-9d6e8f6275e3c8de30bee11d5c9527cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6e8f6275e3c8de30bee11d5c9527cb]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2015/26/section/98) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(f)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/f)
+[^c-9d6e8f6275e3c8de30bee11d5c9527cb]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2015/26/section/98) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(f)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Early years 96% requirement[^key-6e63812676d48c6d2cfa72230f59cb86]
+## 37. Early years 96% requirement[^c-6e63812676d48c6d2cfa72230f59cb86]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e63812676d48c6d2cfa72230f59cb86]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/42/regulation/37) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-6e63812676d48c6d2cfa72230f59cb86]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/42/regulation/37) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Ending of rights over land acquired compulsorily[^key-1ec9cefee129b1e156dfe5ac014228bc][^key-d0fe327616fbfc4b08023a5cef9bc51b]
+## 142. Ending of rights over land acquired compulsorily[^c-1ec9cefee129b1e156dfe5ac014228bc][^c-d0fe327616fbfc4b08023a5cef9bc51b]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ec9cefee129b1e156dfe5ac014228bc]: Commencement: S. 142 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1ec9cefee129b1e156dfe5ac014228bc]: Commencement: S. 142 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d0fe327616fbfc4b08023a5cef9bc51b]: Commencement: [S. 142](https://www.legislation.gov.uk/asc/2023/3/section/142) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-d0fe327616fbfc4b08023a5cef9bc51b]: Commencement: [S. 142](https://www.legislation.gov.uk/asc/2023/3/section/142) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

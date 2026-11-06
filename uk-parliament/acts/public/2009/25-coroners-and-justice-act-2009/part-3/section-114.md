@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Bail: risk of committing an offence causing injury[^key-488a64a1d015d5e06fa698915ce5b0cf]
+## 114. Bail: risk of committing an offence causing injury[^c-488a64a1d015d5e06fa698915ce5b0cf]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-488a64a1d015d5e06fa698915ce5b0cf]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2009/25/section/114) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/7)
+[^c-488a64a1d015d5e06fa698915ce5b0cf]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2009/25/section/114) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/7)

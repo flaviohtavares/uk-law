@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Reports by Commissioner[^key-667e8e95fad60912ed930b472fecbd22]
+## 21. Reports by Commissioner[^c-667e8e95fad60912ed930b472fecbd22]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-667e8e95fad60912ed930b472fecbd22]: Commencement: S. 21 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/f) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-667e8e95fad60912ed930b472fecbd22]: Commencement: S. 21 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/f) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

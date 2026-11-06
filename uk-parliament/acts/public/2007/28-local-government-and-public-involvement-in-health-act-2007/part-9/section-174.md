@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Complaints and matters coming to Commissioners' attention[^key-1da7879faa663cdf5ea9e527068c7739]
+## 174. Complaints and matters coming to Commissioners' attention[^c-1da7879faa663cdf5ea9e527068c7739]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1da7879faa663cdf5ea9e527068c7739]: Commencement: S. 174 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-1da7879faa663cdf5ea9e527068c7739]: Commencement: S. 174 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20. Referral of complaint[^key-b56e40acaed1adc78a21d09b328864ab]
+## 20. Referral of complaint[^c-b56e40acaed1adc78a21d09b328864ab]
 
 *Extent: E*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b56e40acaed1adc78a21d09b328864ab]: Commencement: S. 20 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-b56e40acaed1adc78a21d09b328864ab]: Commencement: S. 20 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

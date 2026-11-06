@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Certification for non-UK schemes[^c21291381][^key-a4a7f9841e0f3fde2754a088eb725c33]
+## 14. Certification for non-UK schemes[^c21291381][^c-a4a7f9841e0f3fde2754a088eb725c33]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c21291381]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2012/3/section/14) partly in operation; [s. 14](https://www.legislation.gov.uk/nia/2012/3/section/14) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-a4a7f9841e0f3fde2754a088eb725c33]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2012/3/section/14) in operation at 7.6.2012 in so far as not already in operation by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/c)
+[^c-a4a7f9841e0f3fde2754a088eb725c33]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2012/3/section/14) in operation at 7.6.2012 in so far as not already in operation by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/c)

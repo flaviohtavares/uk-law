@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for waste incineration, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-849ee3ec10f7c512a51eb73ceed5bb41]
+## Article 2. Application and Interpretation[^c-849ee3ec10f7c512a51eb73ceed5bb41]
 
 1. The BAT conclusions referred to in Article 1 apply in the United Kingdom but not in so far as they relate to an activity that comes within the scope of a NI Protocol obligation.
 
@@ -1166,7 +1166,7 @@ DESCRIPTIONS OF TECHNIQUES
 
 [^f00002]: Footnote: Commission Decision of 16 May 2011 establishing a forum for the exchange of information pursuant to Article 13 of Directive 2010/75/EU on industrial emissions ([OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG)).
 
-[^key-849ee3ec10f7c512a51eb73ceed5bb41]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2019/2010/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [24A(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24A/2) (as inserted by [S.I. 2020/1352](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/2/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-849ee3ec10f7c512a51eb73ceed5bb41]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2019/2010/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [24A(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24A/2) (as inserted by [S.I. 2020/1352](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/2/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives ([OJ L 312, 22.11.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.312.01.0003.01.ENG)).
 

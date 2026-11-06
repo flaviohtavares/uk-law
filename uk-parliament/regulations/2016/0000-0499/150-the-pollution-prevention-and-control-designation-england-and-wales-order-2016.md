@@ -37,33 +37,33 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-The Secretary of State, in relation to England, and the Welsh Ministers, in relation to Wales, make this Order in exercise of the powers conferred by section 7(9)(a) of, and paragraph 20(2)(c) of Schedule 1 to, the Pollution Prevention and Control Act 1999 *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af][^f00001].
+The Secretary of State, in relation to England, and the Welsh Ministers, in relation to Wales, make this Order in exercise of the powers conferred by section 7(9)(a) of, and paragraph 20(2)(c) of Schedule 1 to, the Pollution Prevention and Control Act 1999 *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af][^f00001].
 
 ## 1. Citation, commencement, extent and application
 
-(1) This Order may be cited as the Pollution Prevention and Control (Designation) (England and Wales) Order 2016 and comes into force on the day after the day on which it is made. *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
+(1) This Order may be cited as the Pollution Prevention and Control (Designation) (England and Wales) Order 2016 and comes into force on the day after the day on which it is made. *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
 
-(2) This Order extends to England and Wales. *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
+(2) This Order extends to England and Wales. *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
 
-(3) This Order applies in relation to— *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
+(3) This Order applies in relation to— *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
 
-- (a) England and the sea adjacent to England out as far as the seaward boundary of the territorial sea; and *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
-- (b) Wales, within the meaning given by section 158 of the Government of Wales Act 2006 *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af][^f00002].
+- (a) England and the sea adjacent to England out as far as the seaward boundary of the territorial sea; and *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
+- (b) Wales, within the meaning given by section 158 of the Government of Wales Act 2006 *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af][^f00002].
 
-(4) In paragraph (3)(a), the sea adjacent to England is so much of the sea adjacent to Great Britain as— *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
+(4) In paragraph (3)(a), the sea adjacent to England is so much of the sea adjacent to Great Britain as— *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
 
-- (a) is not the sea adjacent to Scotland; and *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
-- (b) does not form part of Wales. *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
+- (a) is not the sea adjacent to Scotland; and *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
+- (b) does not form part of Wales. *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
 
-(5) In paragraph (4)(a), the sea adjacent to Scotland has the same meaning as the internal waters and territorial sea of the United Kingdom adjacent to Scotland has by virtue of section 126(2) of the Scotland Act 1998 *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af][^f00003].
+(5) In paragraph (4)(a), the sea adjacent to Scotland has the same meaning as the internal waters and territorial sea of the United Kingdom adjacent to Scotland has by virtue of section 126(2) of the Scotland Act 1998 *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af][^f00003].
 
 ## 2. Designation of Stage II Petrol Vapour Recovery Directive
 
-[Directive 2009/126/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0126)[^key-41ef6b461515e920895adf67ef92c1af] of the European Parliament and of the Council on Stage *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af] II *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af] petrol vapour recovery during refuelling of motor vehicles at service stations *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af][^f00004] is designated for the purposes of paragraph 20(1)(b) of Schedule 1 to the Pollution Prevention and Control Act 1999. *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af]
+[Directive 2009/126/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0126)[^c-41ef6b461515e920895adf67ef92c1af] of the European Parliament and of the Council on Stage *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af] II *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af] petrol vapour recovery during refuelling of motor vehicles at service stations *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af][^f00004] is designated for the purposes of paragraph 20(1)(b) of Schedule 1 to the Pollution Prevention and Control Act 1999. *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af]
 
 ## 3. Revocation of existing designation
 
-In article 2 of the Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2013 *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af][^f00005] omit paragraph (u) (designation of *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af] [Directive 2009/126/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0126)[^key-41ef6b461515e920895adf67ef92c1af] of the European Parliament and of the Council on Stage *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af] II *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af] petrol vapour recovery during refuelling of motor vehicles at service stations *(affected by repeal, see note)*[^key-41ef6b461515e920895adf67ef92c1af][^f00006]).
+In article 2 of the Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2013 *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af][^f00005] omit paragraph (u) (designation of *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af] [Directive 2009/126/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0126)[^c-41ef6b461515e920895adf67ef92c1af] of the European Parliament and of the Council on Stage *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af] II *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af] petrol vapour recovery during refuelling of motor vehicles at service stations *(affected by repeal, see note)*[^c-41ef6b461515e920895adf67ef92c1af][^f00006]).
 
 Rory Stewart
 
@@ -87,7 +87,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-41ef6b461515e920895adf67ef92c1af]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/150) revoked (E.) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/6), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41ef6b461515e920895adf67ef92c1af]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/150) revoked (E.) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/6), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [1999 c.24](https://www.legislation.gov.uk/ukpga/1999/24); paragraph 20(2)(c) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Functions of the Secretary of State under this paragraph, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales (except in relation to offshore oil and gas exploration and exploitation) by virtue of article 3 of the National Assembly for Wales (Transfer of Functions) Order 2005 ([S.I. 2005/1958](https://www.legislation.gov.uk/uksi/2005/1958)). Those functions were then transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 

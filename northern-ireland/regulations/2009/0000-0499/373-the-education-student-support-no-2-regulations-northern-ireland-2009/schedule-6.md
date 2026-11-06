@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — RELEVANT INSTITUTIONS OF HIGHER EDUCATION IN THE REPUBLIC OF IRELAND[^key-475befbedbaf0949f0f2a18d21e06af2]
+## SCHEDULE 6 — RELEVANT INSTITUTIONS OF HIGHER EDUCATION IN THE REPUBLIC OF IRELAND[^c-475befbedbaf0949f0f2a18d21e06af2]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-475befbedbaf0949f0f2a18d21e06af2]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2009/373/schedule/6) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [63](https://www.legislation.gov.uk/nisr/2024/19/regulation/63)
+[^c-475befbedbaf0949f0f2a18d21e06af2]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2009/373/schedule/6) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [63](https://www.legislation.gov.uk/nisr/2024/19/regulation/63)

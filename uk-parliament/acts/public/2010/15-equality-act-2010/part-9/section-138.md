@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Obtaining information, etc.[^key-00ab8aaa2106a59ccf51d57afdf53965]
+## 138. Obtaining information, etc.[^c-00ab8aaa2106a59ccf51d57afdf53965]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ab8aaa2106a59ccf51d57afdf53965]: Textual amendment: S. 138 omitted (6.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/66/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 66(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/66/2)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/416/article/3/c)
+[^c-00ab8aaa2106a59ccf51d57afdf53965]: Textual amendment: S. 138 omitted (6.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/66/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 66(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/66/2)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/416/article/3/c)

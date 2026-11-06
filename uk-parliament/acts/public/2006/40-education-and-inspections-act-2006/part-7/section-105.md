@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Penalty notice in respect of presence of excluded pupil in public place[^key-44b334627cb4e97758b8b3983b985a2c]
+## 105. Penalty notice in respect of presence of excluded pupil in public place[^c-44b334627cb4e97758b8b3983b985a2c]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where a person is given a penalty notice, he cannot be convicted of the offence to which the notice relates if he pays a penalty in accordance with the notice.
 
-(5) Sums received by a local authority[^key-0ea7acc4831332590d0c9da4689eca3c] under this section may be used by the authority for the purposes of any of their functions which may be specified in regulations but, to the extent that they are not so used, must be paid in accordance with regulations to the Secretary of State.
+(5) Sums received by a local authority[^c-0ea7acc4831332590d0c9da4689eca3c] under this section may be used by the authority for the purposes of any of their functions which may be specified in regulations but, to the extent that they are not so used, must be paid in accordance with regulations to the Secretary of State.
 
 (6) In this section—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44b334627cb4e97758b8b3983b985a2c]: Commencement: S. 105 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/h)
+[^c-44b334627cb4e97758b8b3983b985a2c]: Commencement: S. 105 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/h)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

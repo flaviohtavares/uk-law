@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77A. Unconnected multiple employer schemes: annual accounts[^key-93c0f06a0336c5bb4c67af7e9f4c89b6]
+## 77A. Unconnected multiple employer schemes: annual accounts[^c-93c0f06a0336c5bb4c67af7e9f4c89b6]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93c0f06a0336c5bb4c67af7e9f4c89b6]: Textual amendment: [S. 77A](https://www.legislation.gov.uk/ukpga/2021/1/section/77A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2026/151/regulation/13)
+[^c-93c0f06a0336c5bb4c67af7e9f4c89b6]: Textual amendment: [S. 77A](https://www.legislation.gov.uk/ukpga/2021/1/section/77A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2026/151/regulation/13)

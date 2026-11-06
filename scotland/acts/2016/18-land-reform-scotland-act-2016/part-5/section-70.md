@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Appeals to Lands Tribunal: valuation[^key-b0b45714b6e2167daaeb305598b0f8a2]
+## 70. Appeals to Lands Tribunal: valuation[^c-b0b45714b6e2167daaeb305598b0f8a2]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b45714b6e2167daaeb305598b0f8a2]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2016/18/section/70) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-b0b45714b6e2167daaeb305598b0f8a2]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2016/18/section/70) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

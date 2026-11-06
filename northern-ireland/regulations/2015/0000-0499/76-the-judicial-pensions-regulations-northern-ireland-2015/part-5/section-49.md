@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Closure of full retirement account[^key-a4ce33e707e9d7f63feccd89060b6d66]
+## 49. Closure of full retirement account[^c-a4ce33e707e9d7f63feccd89060b6d66]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4ce33e707e9d7f63feccd89060b6d66]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/nisr/2015/76/regulation/49) omitted (1.4.2022) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/3)
+[^c-a4ce33e707e9d7f63feccd89060b6d66]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/nisr/2015/76/regulation/49) omitted (1.4.2022) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/3)

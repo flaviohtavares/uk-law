@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Confidential information in certain cases where power to designate by description is used[^key-8544c9dfc74ccffd1b9dcea4aa047e30]
+## 13. Confidential information in certain cases where power to designate by description is used[^c-8544c9dfc74ccffd1b9dcea4aa047e30]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ grant an injunction (in Scotland, an interdict) to prevent a breach of the prohi
 
 ## Annotations
 
-[^key-8544c9dfc74ccffd1b9dcea4aa047e30]: Commencement: Reg. 13 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-8544c9dfc74ccffd1b9dcea4aa047e30]: Commencement: Reg. 13 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

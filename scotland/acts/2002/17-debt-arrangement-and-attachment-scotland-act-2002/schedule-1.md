@@ -24,7 +24,7 @@ summary: ''
 
 ### 1. Expenses chargeable against the debtor
 
-Subject to paragraphs 1A,[^key-4c26a02b51af1aaf6a9c66136b8c622f] 2 and 3 below, there shall be chargeable against the debtor any expenses incurred—
+Subject to paragraphs 1A,[^c-4c26a02b51af1aaf6a9c66136b8c622f] 2 and 3 below, there shall be chargeable against the debtor any expenses incurred—
 
 - (a) subject to section 90(7) of the Debtors (Scotland) Act 1987 (c.18), in serving a charge;
 - (b) in executing an attachment;
@@ -41,10 +41,10 @@ Subject to paragraphs 1A,[^key-4c26a02b51af1aaf6a9c66136b8c622f] 2 and 3 below, 
 - (m) where the arrangements for an auction have been cancelled under section 29(1) above, in returning attached articles to any premises from which they have been removed for auction;
 - (n) in making a report of an agreement under section 29(3)(a) above;
 - (o) subject to section 32(3) above, in making a report of auction under section 32(1) above;
-- (oa)[^key-871b89852c1581e70a6f1839ef047609] in serving notice on the debtor under section 49(1)(b) above;
+- (oa)[^c-871b89852c1581e70a6f1839ef047609] in serving notice on the debtor under section 49(1)(b) above;
 - (p) by a solicitor in instructing an officer to take any of the steps specified in this paragraph.
 
-### 1A.[^key-6cee5ffbb56d68fb997583682bbdae40]
+### 1A.[^c-6cee5ffbb56d68fb997583682bbdae40]
 
 The expenses referred to in sub-paragraphs (i), (j) and (k) of paragraph 1 above shall not be chargeable against the debtor if the articles are removed under section 19A(1) above.
 
@@ -95,8 +95,8 @@ the sheriff may award a sum of expenses, not exceeding £25 or such amount as ma
 
 ## Annotations
 
-[^key-4c26a02b51af1aaf6a9c66136b8c622f]: Textual amendment: Word in Sch. 1 para. 1 inserted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(15)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/15) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)
+[^c-4c26a02b51af1aaf6a9c66136b8c622f]: Textual amendment: Word in Sch. 1 para. 1 inserted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(15)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/15) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)
 
-[^key-871b89852c1581e70a6f1839ef047609]: Textual amendment: Sch. 1 para. 1(oa) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(16)(a)](https://www.legislation.gov.uk/asp/2007/3/section/212/16/a), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-871b89852c1581e70a6f1839ef047609]: Textual amendment: Sch. 1 para. 1(oa) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(16)(a)](https://www.legislation.gov.uk/asp/2007/3/section/212/16/a), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
 
-[^key-6cee5ffbb56d68fb997583682bbdae40]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/asp/2002/17/schedule/1/paragraph/1A) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(16)(b)](https://www.legislation.gov.uk/asp/2007/3/section/212/16/b), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-6cee5ffbb56d68fb997583682bbdae40]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/asp/2002/17/schedule/1/paragraph/1A) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(16)(b)](https://www.legislation.gov.uk/asp/2007/3/section/212/16/b), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

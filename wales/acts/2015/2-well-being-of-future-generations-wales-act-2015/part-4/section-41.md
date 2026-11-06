@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Preparation of local well-being plans: information about activities of others[^key-600aebc7c5d892de6f5737d6f18e3060]
+## 41. Preparation of local well-being plans: information about activities of others[^c-600aebc7c5d892de6f5737d6f18e3060]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-600aebc7c5d892de6f5737d6f18e3060]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2015/2/section/41) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-600aebc7c5d892de6f5737d6f18e3060]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2015/2/section/41) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

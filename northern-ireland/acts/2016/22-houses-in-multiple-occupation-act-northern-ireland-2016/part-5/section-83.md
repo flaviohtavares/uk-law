@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Effect of moving from accommodation for works to be carried out[^key-68c8c2d26922329a0420a1e91605c875]
+## 83. Effect of moving from accommodation for works to be carried out[^c-68c8c2d26922329a0420a1e91605c875]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68c8c2d26922329a0420a1e91605c875]: Commencement: [S. 83](https://www.legislation.gov.uk/nia/2016/22/section/83) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-68c8c2d26922329a0420a1e91605c875]: Commencement: [S. 83](https://www.legislation.gov.uk/nia/2016/22/section/83) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

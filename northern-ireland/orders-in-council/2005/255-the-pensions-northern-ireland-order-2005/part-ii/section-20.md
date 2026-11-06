@@ -50,7 +50,7 @@ summary: ''
 
 (7) Regulations may modify any provisions of—
 
-- (a)[^key-e11fe5a864f2c21682481ad7c79219aa] Chapter 1 of Part 4ZA of the Pension Schemes Act (transfer rights: general), or
+- (a)[^c-e11fe5a864f2c21682481ad7c79219aa] Chapter 1 of Part 4ZA of the Pension Schemes Act (transfer rights: general), or
 - (b) Chapter 2 of that Part (early leavers: cash transfer sums and contribution refunds),
 
 in their application to an occupational pension scheme in relation to which a freezing order is made containing a direction under Article 19(4)(f), (g) or (h) (no transfers etc. in respect of, member's rights or refunds of contributions etc. from the scheme).
@@ -65,4 +65,4 @@ in their application to an occupational pension scheme in relation to which a fr
 
 [^c17102961]: Textual amendment: SR 2005/434
 
-[^key-e11fe5a864f2c21682481ad7c79219aa]: Textual amendment: [Art. 20(7)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/20/7/a)[(b)](https://www.legislation.gov.uk/nisi/2005/255/article/20/7/b) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 83](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/83) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-e11fe5a864f2c21682481ad7c79219aa]: Textual amendment: [Art. 20(7)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/20/7/a)[(b)](https://www.legislation.gov.uk/nisi/2005/255/article/20/7/b) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 83](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/83) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

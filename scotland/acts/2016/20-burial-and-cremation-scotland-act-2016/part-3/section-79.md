@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Arrangements on pregnancy loss on or before 24 weeks[^key-31e95ded23016fd475cd1b6ecf524b4e]
+## 79. Arrangements on pregnancy loss on or before 24 weeks[^c-31e95ded23016fd475cd1b6ecf524b4e]
 
 *Extent: S*
 
@@ -25,11 +25,11 @@ summary: ''
 - (a) a woman's pregnancy ends before or on completion of its 24th week,
 - (b) after being parted from the woman the fetus does not breathe or show any other signs of life,
 - (c) at the time when the pregnancy ends the woman is in the care of an appropriate health authority, and
-- (d) it appears to the appropriate health authority that no arrangements have been or are being made by virtue of section 84(2) for the remains of the fetus to be buried , cremated or hydrolysed[^key-787f197970fa167fa57661321cf1afb9].
+- (d) it appears to the appropriate health authority that no arrangements have been or are being made by virtue of section 84(2) for the remains of the fetus to be buried , cremated or hydrolysed[^c-787f197970fa167fa57661321cf1afb9].
 
 (2) Before the expiry of the initial period, the appropriate health authority must give the woman an opportunity to decide—
 
-- (a) whether she wishes to make arrangements for the remains of the fetus to be buried , cremated or hydrolysed[^key-a253d4b1b0b17682a29f1831503eb6ed],
+- (a) whether she wishes to make arrangements for the remains of the fetus to be buried , cremated or hydrolysed[^c-a253d4b1b0b17682a29f1831503eb6ed],
 - (b) whether she wishes to authorise an individual of or over 16 years of age to make those arrangements—
   - (i) in a way specified by the woman, or
   - (ii) in a way specified by the authority, or
@@ -37,7 +37,7 @@ summary: ''
   - (i) in a way specified by the woman, or
   - (ii) in a way specified by the authority.
 
-(3) For the purposes of subsection (2)(c), the appropriate health authority must inform the woman if it would not be reasonably practicable for the authority to arrange for the remains to be buried , cremated or hydrolysed[^key-623ae9995ad486221617a1d2b70ded7b] in a particular way.
+(3) For the purposes of subsection (2)(c), the appropriate health authority must inform the woman if it would not be reasonably practicable for the authority to arrange for the remains to be buried , cremated or hydrolysed[^c-623ae9995ad486221617a1d2b70ded7b] in a particular way.
 
 (4) Subsection (5) applies if, before the expiry of the initial period, the woman informs the appropriate health authority of a decision that she has made under subsection (2).
 
@@ -67,10 +67,10 @@ summary: ''
 
 ## Annotations
 
-[^key-31e95ded23016fd475cd1b6ecf524b4e]: Commencement: S. 79 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-31e95ded23016fd475cd1b6ecf524b4e]: Commencement: S. 79 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
-[^key-787f197970fa167fa57661321cf1afb9]: Textual amendment: Words in [s. 79(1)(d)](https://www.legislation.gov.uk/asp/2016/20/section/79/1/d) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(17)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/17/a)
+[^c-787f197970fa167fa57661321cf1afb9]: Textual amendment: Words in [s. 79(1)(d)](https://www.legislation.gov.uk/asp/2016/20/section/79/1/d) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(17)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/17/a)
 
-[^key-a253d4b1b0b17682a29f1831503eb6ed]: Textual amendment: Words in [s. 79(2)(a)](https://www.legislation.gov.uk/asp/2016/20/section/79/2/a) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(17)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/17/b)
+[^c-a253d4b1b0b17682a29f1831503eb6ed]: Textual amendment: Words in [s. 79(2)(a)](https://www.legislation.gov.uk/asp/2016/20/section/79/2/a) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(17)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/17/b)
 
-[^key-623ae9995ad486221617a1d2b70ded7b]: Textual amendment: Words in [s. 79(3)](https://www.legislation.gov.uk/asp/2016/20/section/79/3) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(17)(c)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/17/c)
+[^c-623ae9995ad486221617a1d2b70ded7b]: Textual amendment: Words in [s. 79(3)](https://www.legislation.gov.uk/asp/2016/20/section/79/3) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(17)(c)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/17/c)

@@ -33,22 +33,22 @@ of 18 April 2008
 
 amending Regulation (EC) No 1030/2002 laying down a uniform format for residence permits for third-country nationals (revoked)
 
-[^key-6eac9bb5dd022bd05a693fcba89a84b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eac9bb5dd022bd05a693fcba89a84b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6eac9bb5dd022bd05a693fcba89a84b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6eac9bb5dd022bd05a693fcba89a84b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6eac9bb5dd022bd05a693fcba89a84b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6eac9bb5dd022bd05a693fcba89a84b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6eac9bb5dd022bd05a693fcba89a84b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eac9bb5dd022bd05a693fcba89a84b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-6eac9bb5dd022bd05a693fcba89a84b6]
+## ANNEX I[^c-6eac9bb5dd022bd05a693fcba89a84b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-6eac9bb5dd022bd05a693fcba89a84b6]
+## ANNEX II[^c-6eac9bb5dd022bd05a693fcba89a84b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6eac9bb5dd022bd05a693fcba89a84b6]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6eac9bb5dd022bd05a693fcba89a84b6]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -22,8 +22,8 @@ summary: ''
 
 (1) This section applies for the purpose of calculating the liability to income tax of an individual charged under section 720 or 727.
 
-(2)[^key-8cbf19dc77a1b0e9ad076839e398feef] For the purpose of determining the deductions and reliefs allowed to the individual, the individual is to be treated as if the individual had actually received the amount by reference to which the income treated as arising to the individual under section 721 or 728 is determined.
+(2)[^c-8cbf19dc77a1b0e9ad076839e398feef] For the purpose of determining the deductions and reliefs allowed to the individual, the individual is to be treated as if the individual had actually received the amount by reference to which the income treated as arising to the individual under section 721 or 728 is determined.
 
 ## Annotations
 
-[^key-8cbf19dc77a1b0e9ad076839e398feef]: Textual amendment: S. 746(2) substituted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/19)
+[^c-8cbf19dc77a1b0e9ad076839e398feef]: Textual amendment: S. 746(2) substituted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/19)

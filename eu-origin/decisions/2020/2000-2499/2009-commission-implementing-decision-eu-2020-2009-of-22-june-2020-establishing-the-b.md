@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for surface treatment using organic solvents including preservation of wood and wood products with chemicals, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-67e60c152a12ca82b1e255bd44abe371]
+## Article 2. Application and Interpretation[^c-67e60c152a12ca82b1e255bd44abe371]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -2057,7 +2057,7 @@ The applicability is restricted to cases where a noise nuisance at sensitive rec
 
 [^f00002]: Footnote: Commission Decision of 16 May 2011 establishing a forum for the exchange of information pursuant to Article 13 of Directive 2010/75/EU on industrial emissions ([OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG)).
 
-[^key-67e60c152a12ca82b1e255bd44abe371]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2020/2009/article/2) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24E(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24E/2) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-67e60c152a12ca82b1e255bd44abe371]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2020/2009/article/2) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24E(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24E/2) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
 [^f00003]: Footnote: Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment ([OJ L 135, 30.5.1991, p. 40](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.135.01.0040.01.ENG)).
 

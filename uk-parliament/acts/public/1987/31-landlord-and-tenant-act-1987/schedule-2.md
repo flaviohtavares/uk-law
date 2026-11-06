@@ -37,7 +37,7 @@ Section 41.
 
 ### Limitation of service charges: estimates and consultation
 
-**3.**[^key-2adfd1f195480ff2f86b18c69e409554] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2adfd1f195480ff2f86b18c69e409554] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Additional limitations on service charges
 
@@ -101,7 +101,7 @@ Section 41.
 
 ### Effect of assignment on request
 
-**7.**[^key-1689c95cb1b86a8391d3c3a549b232bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1689c95cb1b86a8391d3c3a549b232bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exception where rent is registered and not entered as variable
 
@@ -151,8 +151,8 @@ Section 41.
 
 [^c10164781]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2/paragraph/2/b) repealed (*prosp.*) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 124(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/124/3), [125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20)
 
-[^key-2adfd1f195480ff2f86b18c69e409554]: Textual amendment: Sch. 2 para. 3 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-2adfd1f195480ff2f86b18c69e409554]: Textual amendment: Sch. 2 para. 3 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
 [^c10164791]: Marginal citation: [1986 c. 63](https://www.legislation.gov.uk/ukpga/1986/63).
 
-[^key-1689c95cb1b86a8391d3c3a549b232bb]: Textual amendment: Sch. 2 para. 7 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-1689c95cb1b86a8391d3c3a549b232bb]: Textual amendment: Sch. 2 para. 7 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))

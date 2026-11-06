@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Protective provisions[^key-ed4c97a047a94f20ea0edb0b3e65dd24]
+## 56. Protective provisions[^c-ed4c97a047a94f20ea0edb0b3e65dd24]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 10 (protective provisions) shall have effect.
 
 ## Annotations
 
-[^key-ed4c97a047a94f20ea0edb0b3e65dd24]: Commencement: Art. 56 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-ed4c97a047a94f20ea0edb0b3e65dd24]: Commencement: Art. 56 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

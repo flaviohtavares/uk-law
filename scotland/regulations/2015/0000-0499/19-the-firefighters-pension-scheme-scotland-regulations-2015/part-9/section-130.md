@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Interpretation of Chapter[^key-e2488c8eb19db578a85ec1a82dc1beab]
+## 130. Interpretation of Chapter[^c-e2488c8eb19db578a85ec1a82dc1beab]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-e2488c8eb19db578a85ec1a82dc1beab]: Commencement: [Reg. 130](https://www.legislation.gov.uk/ssi/2015/19/regulation/130) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e2488c8eb19db578a85ec1a82dc1beab]: Commencement: [Reg. 130](https://www.legislation.gov.uk/ssi/2015/19/regulation/130) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

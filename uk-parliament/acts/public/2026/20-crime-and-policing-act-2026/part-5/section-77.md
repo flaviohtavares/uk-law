@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Online facilitation of child sexual exploitation and abuse[^key-bd4ba3ea18a8af74c136f93d9987d5aa]
+## 77. Online facilitation of child sexual exploitation and abuse[^c-bd4ba3ea18a8af74c136f93d9987d5aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd4ba3ea18a8af74c136f93d9987d5aa]: Commencement: S. 77 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bd4ba3ea18a8af74c136f93d9987d5aa]: Commencement: S. 77 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

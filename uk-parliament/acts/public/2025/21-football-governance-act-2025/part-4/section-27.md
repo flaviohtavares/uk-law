@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Duties to notify IFR of prospective new owner or officer[^key-ed32bee14e131a38ea3934d2c9a10115][^key-ee85f92c42a33bce3c795b1e5ebadfef]
+## 27. Duties to notify IFR of prospective new owner or officer[^c-ed32bee14e131a38ea3934d2c9a10115][^c-ee85f92c42a33bce3c795b1e5ebadfef]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ and must do so as soon as reasonably practicable after becoming aware of that fa
 
 ## Annotations
 
-[^key-ed32bee14e131a38ea3934d2c9a10115]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-ed32bee14e131a38ea3934d2c9a10115]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-ee85f92c42a33bce3c795b1e5ebadfef]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/21/section/27) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/i)
+[^c-ee85f92c42a33bce3c795b1e5ebadfef]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/21/section/27) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/i)

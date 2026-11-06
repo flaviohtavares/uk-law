@@ -44,7 +44,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 
 In accordance with section 26(2)(a)(ii) of the Act a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and application[^key-89246c34c9faa8d62fa637fe4ec90b4c]
+## 1. Citation, commencement and application[^c-89246c34c9faa8d62fa637fe4ec90b4c]
 
 (1) These Regulations may be cited as the Higher Education (Basic Amount) (England) Regulations 2010.
 
@@ -52,7 +52,7 @@ In accordance with section 26(2)(a)(ii) of the Act a draft of these Regulations 
 
 (3) These Regulations apply in relation to England.
 
-## 2. Interpretation[^key-fb9922410db72cec716e8618c74c9b3a]
+## 2. Interpretation[^c-fb9922410db72cec716e8618c74c9b3a]
 
 In these Regulations—
 
@@ -60,14 +60,14 @@ In these Regulations—
 - “overseas institution” means an institution other than one in England, Wales, Scotland, Northern Ireland, the Channel Islands or the Isle of Man;
 - “sandwich course” has the meaning given in regulation 2(10) of the Education (Student Support) Regulations 2009[^f00003].
 
-## 3. Application of the new basic amount[^key-9993f51676b5e82f53a13e8573a7471c]
+## 3. Application of the new basic amount[^c-9993f51676b5e82f53a13e8573a7471c]
 
-(1)[^key-d04cea7fce26313f1bf36e8606b4bb77] The basic amounts prescribed in regulations 4, 5 and 5A[^key-c10feeeec807c39eb1988005d252e831] apply in relation to the qualifying fees payable by a qualifying person in connection with undertaking a qualifying course where the first academic year of that course begins on or after 1st September 2012 except where—[^key-f498faba71046c586318f59e22ce2366]
+(1)[^c-d04cea7fce26313f1bf36e8606b4bb77] The basic amounts prescribed in regulations 4, 5 and 5A[^c-c10feeeec807c39eb1988005d252e831] apply in relation to the qualifying fees payable by a qualifying person in connection with undertaking a qualifying course where the first academic year of that course begins on or after 1st September 2012 except where—[^c-f498faba71046c586318f59e22ce2366]
 
 - (a) the qualifying person is an end-on student; or
 - (c) the qualifying person transfers from a qualifying course beginning before 1st September 2012 to a qualifying course beginning on or after 1st September 2012.
 
-(2)[^key-548d7e2096f94dc2f65e20ec4186dd8e] In this regulation—
+(2)[^c-548d7e2096f94dc2f65e20ec4186dd8e] In this regulation—
 
 - “designated distance learning course” has the same meaning as in regulation 122 of the Student Support Regulations;
 - “distance learning course” has the same meaning as in regulation 2(1) of the Student Support Regulations;
@@ -78,11 +78,11 @@ In these Regulations—
 - “the Student Support Regulations” means the Education (Student Support) Regulations 2011;
 - “transfer” means that the qualifying person’s status as a student eligible for support has been transferred under regulations made under section 22 of the Teaching and Higher Education Act 1998 from a full-time course to another full-time course, a part-time course to another part-time course or a designated distance learning course to another designated distance learning course.
 
-## 4. Prescribed basic amount from 1st September 2012[^key-ebf725e4a09af6788408bde393fd65ef]
+## 4. Prescribed basic amount from 1st September 2012[^c-ebf725e4a09af6788408bde393fd65ef]
 
-Subject to regulations 5 and 5A[^key-33712fed0421c8e485f7655e4adb135d], for the purpose of section 24 of the 2004 Act the basic amount is £6,000.
+Subject to regulations 5 and 5A[^c-33712fed0421c8e485f7655e4adb135d], for the purpose of section 24 of the 2004 Act the basic amount is £6,000.
 
-## 5. Prescribed basic amount for specified courses from 1st September 2012[^key-e9a8399489b9d774d0fe2e985039811d][^key-c702c8719aa6f1e53725ab608335148d]
+## 5. Prescribed basic amount for specified courses from 1st September 2012[^c-e9a8399489b9d774d0fe2e985039811d][^c-c702c8719aa6f1e53725ab608335148d]
 
 (1) For the purpose of section 24 of the 2004 Act the basic amount is―
 
@@ -97,11 +97,11 @@ Subject to regulations 5 and 5A[^key-33712fed0421c8e485f7655e4adb135d], for the 
 
 (2) In this regulation, “Erasmus year” has the same meaning as in regulation 2(1) of the Education (Student Support) Regulations 2011, insofar as that definition applies in relation to these Regulations.
 
-## 5A. Prescribed basic amount for part-time courses from 1st September 2012[^key-0184256087501c7f7be9156f51db062f]
+## 5A. Prescribed basic amount for part-time courses from 1st September 2012[^c-0184256087501c7f7be9156f51db062f]
 
 For the purpose of section 24 of the 2004 Act the basic amount is £4,500 in respect of a part-time course.
 
-## 6. Amendment to the Student Fees (Amounts) (England) Regulations 2004[^key-5fd55b939cced6c7fa822738bf5bf2a0]
+## 6. Amendment to the Student Fees (Amounts) (England) Regulations 2004[^c-5fd55b939cced6c7fa822738bf5bf2a0]
 
 (1) The Student Fees (Amounts) (England) Regulations 2004[^f00004] are amended as follows—
 
@@ -131,35 +131,35 @@ A full impact assessment which includes the effects that this instrument will ha
 
 [^f00001]: Footnote: [2004 c.8](https://www.legislation.gov.uk/ukpga/2004/8).
 
-[^key-89246c34c9faa8d62fa637fe4ec90b4c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
+[^c-89246c34c9faa8d62fa637fe4ec90b4c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/3020](https://www.legislation.gov.uk/uksi/2010/3020).
 
-[^key-fb9922410db72cec716e8618c74c9b3a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/3021/regulation/2) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
+[^c-fb9922410db72cec716e8618c74c9b3a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/3021/regulation/2) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2009/1555](https://www.legislation.gov.uk/uksi/2009/1555), amended by [S.I. 2010/2546](https://www.legislation.gov.uk/uksi/2010/2546).
 
-[^key-9993f51676b5e82f53a13e8573a7471c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
+[^c-9993f51676b5e82f53a13e8573a7471c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
 
-[^key-d04cea7fce26313f1bf36e8606b4bb77]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) renumbered as reg. 3(1) (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/3)
+[^c-d04cea7fce26313f1bf36e8606b4bb77]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) renumbered as reg. 3(1) (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/3)
 
-[^key-c10feeeec807c39eb1988005d252e831]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) substituted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(2)(a)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/2/a)
+[^c-c10feeeec807c39eb1988005d252e831]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) substituted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(2)(a)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/2/a)
 
-[^key-f498faba71046c586318f59e22ce2366]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) inserted (1.9.2012) by virtue of [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(2)(b)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/2/b)
+[^c-f498faba71046c586318f59e22ce2366]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3) inserted (1.9.2012) by virtue of [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(2)(b)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/2/b)
 
-[^key-548d7e2096f94dc2f65e20ec4186dd8e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3/2) inserted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/4)
+[^c-548d7e2096f94dc2f65e20ec4186dd8e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/3/2) inserted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/4)
 
-[^key-ebf725e4a09af6788408bde393fd65ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/3021/regulation/4) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
+[^c-ebf725e4a09af6788408bde393fd65ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/3021/regulation/4) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
 
-[^key-33712fed0421c8e485f7655e4adb135d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/3021/regulation/4) substituted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(5)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/5)
+[^c-33712fed0421c8e485f7655e4adb135d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/3021/regulation/4) substituted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(5)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/5)
 
-[^key-e9a8399489b9d774d0fe2e985039811d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/3021/regulation/5) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
+[^c-e9a8399489b9d774d0fe2e985039811d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/3021/regulation/5) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
 
-[^key-c702c8719aa6f1e53725ab608335148d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/3021/regulation/5) substituted (1.8.2014) by [The Education (Fees and Student Support) (Amendment) Regulations 2013 (S.I. 2013/3106)](https://www.legislation.gov.uk/uksi/2013/3106), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/3106/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2013/3106/regulation/10)
+[^c-c702c8719aa6f1e53725ab608335148d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/3021/regulation/5) substituted (1.8.2014) by [The Education (Fees and Student Support) (Amendment) Regulations 2013 (S.I. 2013/3106)](https://www.legislation.gov.uk/uksi/2013/3106), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/3106/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2013/3106/regulation/10)
 
-[^key-0184256087501c7f7be9156f51db062f]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2010/3021/regulation/5A) inserted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(6)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/6)
+[^c-0184256087501c7f7be9156f51db062f]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2010/3021/regulation/5A) inserted (1.9.2012) by [The Student Fees (Basic and Higher Amounts) (Approved Plans) (England) (Amendment) Regulations 2012 (S.I. 2012/433)](https://www.legislation.gov.uk/uksi/2012/433), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/433/regulation/1/4), [4(6)](https://www.legislation.gov.uk/uksi/2012/433/regulation/4/6)
 
-[^key-5fd55b939cced6c7fa822738bf5bf2a0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/3021/regulation/6) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
+[^c-5fd55b939cced6c7fa822738bf5bf2a0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/3021/regulation/6) in force at 1.9.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3021/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2004/1932](https://www.legislation.gov.uk/uksi/2004/1932), amended by [S.I. 2009/3113](https://www.legislation.gov.uk/uksi/2009/3113).
 

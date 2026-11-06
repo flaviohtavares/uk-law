@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72B. Entries in the tenant’s registered title in respect of notices in the landlord’s registered title[^key-b05e2286317fa4a6632ef7cb949ab5e6]
+## 72B. Entries in the tenant’s registered title in respect of notices in the landlord’s registered title[^c-b05e2286317fa4a6632ef7cb949ab5e6]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ On completion of a lease within section 27(2)(b) or (c) of the Act by registrati
 
 ## Annotations
 
-[^key-b05e2286317fa4a6632ef7cb949ab5e6]: Textual amendment: Rules 72B, 72C inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/23) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-b05e2286317fa4a6632ef7cb949ab5e6]: Textual amendment: Rules 72B, 72C inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/23) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Social Security Administration Act 1992[^key-074be2720fe81f37095e4fee21d69635]
+## 66. Social Security Administration Act 1992[^c-074be2720fe81f37095e4fee21d69635]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In the Social Security Administration Act 1992 [^c23624501] in section 108 (redu
 
 ## Annotations
 
-[^key-074be2720fe81f37095e4fee21d69635]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-074be2720fe81f37095e4fee21d69635]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624501]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5)

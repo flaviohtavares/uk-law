@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Continuation of pre-contract disputes relating to general medical services contracts[^key-04cf58c366f2381e66fd0bc292ba2902]
+## 39. Continuation of pre-contract disputes relating to general medical services contracts[^c-04cf58c366f2381e66fd0bc292ba2902]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the dispute shall, notwithstanding that the parties to the dispute have entered 
 
 ## Annotations
 
-[^key-04cf58c366f2381e66fd0bc292ba2902]: Commencement: Art. 39 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-04cf58c366f2381e66fd0bc292ba2902]: Commencement: Art. 39 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

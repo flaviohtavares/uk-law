@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Expenses etc.[^key-8b4f9117edfae4419384ca39bd8d7d00]
+## 55. Expenses etc.[^c-8b4f9117edfae4419384ca39bd8d7d00]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b4f9117edfae4419384ca39bd8d7d00]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2005/14/section/55) in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-8b4f9117edfae4419384ca39bd8d7d00]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2005/14/section/55) in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)

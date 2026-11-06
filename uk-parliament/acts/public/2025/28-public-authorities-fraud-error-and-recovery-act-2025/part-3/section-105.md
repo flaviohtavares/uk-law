@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 105. Application and limitation[^key-6c66462cfa0f106a5be507e9882dc037]
+## 105. Application and limitation[^c-6c66462cfa0f106a5be507e9882dc037]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c66462cfa0f106a5be507e9882dc037]: Commencement: S. 105 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-6c66462cfa0f106a5be507e9882dc037]: Commencement: S. 105 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)

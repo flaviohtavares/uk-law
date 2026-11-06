@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Amendments of the Planning Act (Northern Ireland) 2011[^key-b74cbf9d48f6983fe36fe848c32585aa]
+## 77. Amendments of the Planning Act (Northern Ireland) 2011[^c-b74cbf9d48f6983fe36fe848c32585aa]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b74cbf9d48f6983fe36fe848c32585aa]: Commencement: [S. 77](https://www.legislation.gov.uk/nia/2014/8/section/77) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-b74cbf9d48f6983fe36fe848c32585aa]: Commencement: [S. 77](https://www.legislation.gov.uk/nia/2014/8/section/77) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

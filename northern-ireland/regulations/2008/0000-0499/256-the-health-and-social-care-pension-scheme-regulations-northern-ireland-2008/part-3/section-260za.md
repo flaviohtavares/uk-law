@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260ZA. Benefit information statements[^key-135e118910a610f5a52042ea2eeebdb9]
+## 260ZA. Benefit information statements[^c-135e118910a610f5a52042ea2eeebdb9]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) A benefit information statement provided pursuant to paragraph (1) is to be treated as though it is the information mentioned in regulation 16(2)(a) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 for the purposes of determining whether or not information must be given under regulation 16(1) of those Regulations.
 
-## 260ZA. Lump sum payable on the death of a Waiting Period Joiner[^key-19483b2d3af8f38e66b91dd8dd2f7487]
+## 260ZA. Lump sum payable on the death of a Waiting Period Joiner[^c-19483b2d3af8f38e66b91dd8dd2f7487]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-135e118910a610f5a52042ea2eeebdb9]: Textual amendment: [Reg. 260ZA](https://www.legislation.gov.uk/nisr/2008/256/regulation/260ZA) inserted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/21)
+[^c-135e118910a610f5a52042ea2eeebdb9]: Textual amendment: [Reg. 260ZA](https://www.legislation.gov.uk/nisr/2008/256/regulation/260ZA) inserted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/21)
 
-[^key-19483b2d3af8f38e66b91dd8dd2f7487]: Textual amendment: [Pt. 3 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/3/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 51](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/51), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-19483b2d3af8f38e66b91dd8dd2f7487]: Textual amendment: [Pt. 3 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/3/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 51](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/51), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

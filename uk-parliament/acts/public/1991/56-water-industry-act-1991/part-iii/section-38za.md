@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38ZA. Standards of performance in connection with the supply of water: water supply licensees[^key-2d4e1b053af43c2a8c8d2aa4e8419f06]
+## 38ZA. Standards of performance in connection with the supply of water: water supply licensees[^c-2d4e1b053af43c2a8c8d2aa4e8419f06]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d4e1b053af43c2a8c8d2aa4e8419f06]: Textual amendment: S. 38ZA inserted (1.11.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/d)
+[^c-2d4e1b053af43c2a8c8d2aa4e8419f06]: Textual amendment: S. 38ZA inserted (1.11.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Annual report of the Accreditation Committee[^key-ef35119b1b319d1388aa1accbaffe786][^key-164732fef52796f49fedfc61d8cf01cc]
+## 25. Annual report of the Accreditation Committee[^c-ef35119b1b319d1388aa1accbaffe786][^c-164732fef52796f49fedfc61d8cf01cc]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef35119b1b319d1388aa1accbaffe786]: Commencement: S. 25 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-ef35119b1b319d1388aa1accbaffe786]: Commencement: S. 25 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-164732fef52796f49fedfc61d8cf01cc]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2025/11/section/25) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3)
+[^c-164732fef52796f49fedfc61d8cf01cc]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2025/11/section/25) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3)

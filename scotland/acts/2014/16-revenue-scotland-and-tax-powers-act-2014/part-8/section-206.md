@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 206. Tax-related penalty[^key-341c12295b1fd31959f32604f7d04d2b]
+## 206. Tax-related penalty[^c-341c12295b1fd31959f32604f7d04d2b]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-341c12295b1fd31959f32604f7d04d2b]: Commencement: [S. 206](https://www.legislation.gov.uk/asp/2014/16/section/206) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-341c12295b1fd31959f32604f7d04d2b]: Commencement: [S. 206](https://www.legislation.gov.uk/asp/2014/16/section/206) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

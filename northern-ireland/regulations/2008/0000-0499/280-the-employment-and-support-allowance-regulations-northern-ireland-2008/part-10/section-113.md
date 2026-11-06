@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Calculation of capital in the United Kingdom[^key-340e13f172f3dc67d4ae6df75006afbe]
+## 113. Calculation of capital in the United Kingdom[^c-340e13f172f3dc67d4ae6df75006afbe]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Capital which a claimant possesses in the United Kingdom is to be calculated at 
 
 ## Annotations
 
-[^key-340e13f172f3dc67d4ae6df75006afbe]: Commencement: [Reg. 113](https://www.legislation.gov.uk/nisr/2008/280/regulation/113) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-340e13f172f3dc67d4ae6df75006afbe]: Commencement: [Reg. 113](https://www.legislation.gov.uk/nisr/2008/280/regulation/113) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

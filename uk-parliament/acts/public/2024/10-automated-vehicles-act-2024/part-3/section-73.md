@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Protection of information[^key-1ccf9f111db737b190cf3ab1306eeb1f]
+## 73. Protection of information[^c-1ccf9f111db737b190cf3ab1306eeb1f]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ except as authorised by or under this Part or any other enactment.
 
 ## Annotations
 
-[^key-1ccf9f111db737b190cf3ab1306eeb1f]: Commencement: S. 73 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-1ccf9f111db737b190cf3ab1306eeb1f]: Commencement: S. 73 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

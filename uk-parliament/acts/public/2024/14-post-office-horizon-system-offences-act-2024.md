@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Quashing of convictions
 
-### 1. Quashing of convictions for relevant offences[^key-56fa8b4a90b17b328846700fbedef41a]
+### 1. Quashing of convictions for relevant offences[^c-56fa8b4a90b17b328846700fbedef41a]
 
 (1) Every conviction to which this Act applies is quashed on the coming into force of this Act.
 
@@ -63,7 +63,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) identifying quashed convictions, and
 - (b) notifying people that their convictions have been quashed.
 
-### 2. Meaning of “relevant offence”[^key-1913b57d574934f1c26665e21a7f3617]
+### 2. Meaning of “relevant offence”[^c-1913b57d574934f1c26665e21a7f3617]
 
 (1) For the purposes of this Act, an offence alleged to have been committed by a person is a “relevant offence” if conditions A to E are met.
 
@@ -110,7 +110,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**money laundering**” means an offence under section 327(1), 328(1) or 329(1) of the Proceeds of Crime Act 2002 (concealing or acquiring, etc criminal property);
 - “**theft**” means an offence of theft under section 1(1) of the Theft Act 1968 or section 1(1) of the Theft Act (Northern Ireland) 1969.
 
-### 3. Determining when a conviction has been considered by Court of Appeal[^key-61989b7712400634a7096ebd21c8e387]
+### 3. Determining when a conviction has been considered by Court of Appeal[^c-61989b7712400634a7096ebd21c8e387]
 
 (1) For the purposes of this Act, a conviction has been considered by the Court of Appeal only if one of the cases in subsections (2) to (4) applies.
 
@@ -130,7 +130,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) in the case of a conviction in England and Wales, the Court of Appeal in England and Wales;
 - (b) in the case of a conviction in Northern Ireland, the Court of Appeal in Northern Ireland.
 
-### 4. Identification and notification of quashed convictions[^key-c5f992e230b9ffafea02e4823d7dbda5]
+### 4. Identification and notification of quashed convictions[^c-c5f992e230b9ffafea02e4823d7dbda5]
 
 (1) The appropriate authority must take all reasonable steps to identify the convictions quashed by section 1(1).
 
@@ -156,7 +156,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Deletion of cautions
 
-### 5. Deletion of cautions for relevant offences: England and Wales[^key-2e3807b9ca3f32b41414af0f1a665c9b]
+### 5. Deletion of cautions for relevant offences: England and Wales[^c-2e3807b9ca3f32b41414af0f1a665c9b]
 
 (1) If it appears to the Secretary of State that a person has before the coming into force of this Act been cautioned in England and Wales for a relevant offence, the Secretary of State must direct the appropriate chief officer of police to delete details, contained in the UK criminal records database, of the caution.
 
@@ -176,7 +176,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**appropriate chief officer of police**”, in relation to a caution, means any chief officer of police of a police force in England and Wales who is a data controller in relation to the details of the caution;
 - “**the UK criminal records database**” means the names database held by the Secretary of State for the use of constables.
 
-### 6. Deletion of cautions for relevant offences: Northern Ireland[^key-53757d2cbb687f1cd8263456c05a3a2f]
+### 6. Deletion of cautions for relevant offences: Northern Ireland[^c-53757d2cbb687f1cd8263456c05a3a2f]
 
 (1) If it appears to the Department of Justice in Northern Ireland (“**the Department**”) that a person has before the coming into force of this Act been cautioned in Northern Ireland for a relevant offence, the Department must direct the Chief Constable to delete details, contained in relevant criminal records, of the caution.
 
@@ -202,7 +202,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Supplementary and final provision
 
-### 7. Consequential provision[^key-4aeeae3301198289377da520d2bde2df]
+### 7. Consequential provision[^c-4aeeae3301198289377da520d2bde2df]
 
 (1) Except as otherwise provided by section 4 or this section, a person whose conviction is quashed by section 1(1) is to be treated as if, on the coming into force of this Act, the conviction had been quashed by a court on an appeal.
 
@@ -210,7 +210,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) In section 133 of the Criminal Justice Act 1988 (compensation for miscarriages of justice), the reference in subsection (5) to a conviction having been quashed on an appeal out of time includes a reference to a conviction having been quashed by section 1(1).
 
-### 8. Power of Secretary of State to make further consequential provision[^key-c7ef233093213d0f9d58f0320adb13a0]
+### 8. Power of Secretary of State to make further consequential provision[^c-c7ef233093213d0f9d58f0320adb13a0]
 
 (1) The Secretary of State may by regulations make provision that is consequential on any provision made by this Act.
 
@@ -233,7 +233,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) an Act of Parliament, or
 - (b) Northern Ireland legislation.
 
-### 9. Power of Department of Justice to make further consequential provision[^key-67aea8965e61f1a82a0cef939b6d15d9]
+### 9. Power of Department of Justice to make further consequential provision[^c-67aea8965e61f1a82a0cef939b6d15d9]
 
 (1) The Department of Justice in Northern Ireland may by regulations make provision that—
 
@@ -260,7 +260,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) In this section “**primary legislation**” has the same meaning as in section 8.
 
-### 10. Interpretation[^key-5cbb9e82a29af89bef6219572557eeb3]
+### 10. Interpretation[^c-5cbb9e82a29af89bef6219572557eeb3]
 
 (1) In this Act—
 
@@ -296,38 +296,38 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) Nothing in this Act affects any power of a court to quash a conviction to which this Act does not apply.
 
-### 11. Extent and commencement[^key-4edc35b96d085ec0fe11584bfc2310b6]
+### 11. Extent and commencement[^c-4edc35b96d085ec0fe11584bfc2310b6]
 
 (1) This Act extends to England and Wales and Northern Ireland.
 
 (2) This Act comes into force on the day on which it is passed.
 
-### 12. Short title[^key-d24c537eca5150f9c90b0689122a4be5]
+### 12. Short title[^c-d24c537eca5150f9c90b0689122a4be5]
 
 This Act may be cited as the Post Office (Horizon System) Offences Act 2024.
 
 ## Annotations
 
-[^key-56fa8b4a90b17b328846700fbedef41a]: Commencement: S. 1 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-56fa8b4a90b17b328846700fbedef41a]: Commencement: S. 1 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-1913b57d574934f1c26665e21a7f3617]: Commencement: S. 2 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-1913b57d574934f1c26665e21a7f3617]: Commencement: S. 2 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-61989b7712400634a7096ebd21c8e387]: Commencement: S. 3 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-61989b7712400634a7096ebd21c8e387]: Commencement: S. 3 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-c5f992e230b9ffafea02e4823d7dbda5]: Commencement: S. 4 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-c5f992e230b9ffafea02e4823d7dbda5]: Commencement: S. 4 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-2e3807b9ca3f32b41414af0f1a665c9b]: Commencement: S. 5 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-2e3807b9ca3f32b41414af0f1a665c9b]: Commencement: S. 5 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-53757d2cbb687f1cd8263456c05a3a2f]: Commencement: S. 6 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-53757d2cbb687f1cd8263456c05a3a2f]: Commencement: S. 6 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-4aeeae3301198289377da520d2bde2df]: Commencement: S. 7 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-4aeeae3301198289377da520d2bde2df]: Commencement: S. 7 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-c7ef233093213d0f9d58f0320adb13a0]: Commencement: S. 8 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-c7ef233093213d0f9d58f0320adb13a0]: Commencement: S. 8 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-67aea8965e61f1a82a0cef939b6d15d9]: Commencement: S. 9 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-67aea8965e61f1a82a0cef939b6d15d9]: Commencement: S. 9 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-5cbb9e82a29af89bef6219572557eeb3]: Commencement: S. 10 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-5cbb9e82a29af89bef6219572557eeb3]: Commencement: S. 10 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-4edc35b96d085ec0fe11584bfc2310b6]: Commencement: S. 11 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-4edc35b96d085ec0fe11584bfc2310b6]: Commencement: S. 11 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
 
-[^key-d24c537eca5150f9c90b0689122a4be5]: Commencement: S. 12 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)
+[^c-d24c537eca5150f9c90b0689122a4be5]: Commencement: S. 12 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2024/14/section/11/2)

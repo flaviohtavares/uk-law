@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Temporary staff[^key-b5ff2ef718da5cd6b45e0d05195a4923]
+## 19. Temporary staff[^c-b5ff2ef718da5cd6b45e0d05195a4923]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The registered person must ensure that the employment of any person on a tempora
 
 ## Annotations
 
-[^key-b5ff2ef718da5cd6b45e0d05195a4923]: Commencement: Reg. 19 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-b5ff2ef718da5cd6b45e0d05195a4923]: Commencement: Reg. 19 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

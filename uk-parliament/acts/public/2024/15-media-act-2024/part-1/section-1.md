@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Reports on the fulfilment of the public service remit[^key-3b10590f22a330a582fe647d039f636a]
+## 1. Reports on the fulfilment of the public service remit[^c-3b10590f22a330a582fe647d039f636a]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d43e110e2f14bffc59fdfa0d041dc583][^key-1dffda75ed983689f6a5a165c62c4cd6] Section 264 of the Communications Act 2003 (OFCOM reports on the fulfilment of the public service remit) is amended as follows.
+(1)[^c-d43e110e2f14bffc59fdfa0d041dc583][^c-1dffda75ed983689f6a5a165c62c4cd6] Section 264 of the Communications Act 2003 (OFCOM reports on the fulfilment of the public service remit) is amended as follows.
 
-(2)[^key-d43e110e2f14bffc59fdfa0d041dc583][^key-1dffda75ed983689f6a5a165c62c4cd6] For subsections (3) to (8) (OFCOM’s review and reporting obligations and the purposes of public service television broadcasting in the United Kingdom) substitute—
+(2)[^c-d43e110e2f14bffc59fdfa0d041dc583][^c-1dffda75ed983689f6a5a165c62c4cd6] For subsections (3) to (8) (OFCOM’s review and reporting obligations and the purposes of public service television broadcasting in the United Kingdom) substitute—
 
 > (3) The review and reporting obligations for a period are—
 >
@@ -84,13 +84,13 @@ summary: ''
 > - (c) set out the findings of OFCOM on their consideration of the matters mentioned in subsection (8E) and any conclusions they have arrived at in relation to those findings; and
 > - (d) set out OFCOM’s conclusions on the current state of the audiovisual content made available by public service broadcasters in order to fulfil the public service remit for television in the United Kingdom.
 
-(3)[^key-6c9f23f7e760a1dfdda4a9480bd87327] After subsection (10) insert—
+(3)[^c-6c9f23f7e760a1dfdda4a9480bd87327] After subsection (10) insert—
 
 > (10A) Before making regulations under this section the Secretary of State must consult OFCOM.
 >
 > (10B) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(4)[^key-d43e110e2f14bffc59fdfa0d041dc583][^key-1dffda75ed983689f6a5a165c62c4cd6] For subsection (11) substitute—
+(4)[^c-d43e110e2f14bffc59fdfa0d041dc583][^c-1dffda75ed983689f6a5a165c62c4cd6] For subsection (11) substitute—
 
 > (11) The following are relevant audiovisual services for the purposes of this section—
 >
@@ -113,7 +113,7 @@ summary: ''
 > - (a) is made available for use only to persons who subscribe to the service (whether for a period or in relation to a particular occasion) or who otherwise request its provision, but
 > - (b) is a service the facility of subscribing to which, or otherwise requesting its provision, is offered or made available to members of the public.
 
-(5)[^key-d43e110e2f14bffc59fdfa0d041dc583][^key-1dffda75ed983689f6a5a165c62c4cd6] For subsection (13) substitute—
+(5)[^c-d43e110e2f14bffc59fdfa0d041dc583][^c-1dffda75ed983689f6a5a165c62c4cd6] For subsection (13) substitute—
 
 > (13) For the purposes of this section, audiovisual content is made available by a public service broadcaster if—
 >
@@ -144,10 +144,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3b10590f22a330a582fe647d039f636a]: Commencement: S. 1 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-3b10590f22a330a582fe647d039f636a]: Commencement: S. 1 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-d43e110e2f14bffc59fdfa0d041dc583]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/2)[(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/4)[(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/5) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-d43e110e2f14bffc59fdfa0d041dc583]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/2)[(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/4)[(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/5) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-1dffda75ed983689f6a5a165c62c4cd6]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/2)[(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/4)[(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/5) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
+[^c-1dffda75ed983689f6a5a165c62c4cd6]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/2)[(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/4)[(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/5) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
 
-[^key-6c9f23f7e760a1dfdda4a9480bd87327]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/3) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
+[^c-6c9f23f7e760a1dfdda4a9480bd87327]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/3) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)

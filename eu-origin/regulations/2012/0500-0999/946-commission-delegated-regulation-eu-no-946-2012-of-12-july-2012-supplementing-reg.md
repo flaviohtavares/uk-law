@@ -35,48 +35,48 @@ supplementing Regulation (EC) No 1060/2009 of the European Parliament and of the
 
 (Text with EEA relevance) (revoked)
 
-[^key-cff2e83d15c0ca35d38d79253a42023d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cff2e83d15c0ca35d38d79253a42023d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-cff2e83d15c0ca35d38d79253a42023d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Right to be heard by the investigating officer[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 1. Subject matter[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Right to be heard by ESMA’s Board of Supervisors with regard to fines and supervisory measures[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 2. Right to be heard by the investigating officer[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Right to be heard by ESMA’s Board of Supervisors with regard to periodic penalty payments[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 3. Right to be heard by ESMA’s Board of Supervisors with regard to fines and supervisory measures[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Access to the file and use of documents[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 4. Right to be heard by ESMA’s Board of Supervisors with regard to periodic penalty payments[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Limitation periods for the imposition of penalties[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 5. Access to the file and use of documents[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Limitation periods for the enforcement of penalties[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 6. Limitation periods for the imposition of penalties[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Collection of fines and periodic penalty payments[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 7. Limitation periods for the enforcement of penalties[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Calculation of periods, dates and time limits[^key-cff2e83d15c0ca35d38d79253a42023d]
+## Article 8. Collection of fines and periodic penalty payments[^c-cff2e83d15c0ca35d38d79253a42023d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-cff2e83d15c0ca35d38d79253a42023d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Calculation of periods, dates and time limits[^c-cff2e83d15c0ca35d38d79253a42023d]
 
-[^key-cff2e83d15c0ca35d38d79253a42023d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 10.**[^c-cff2e83d15c0ca35d38d79253a42023d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-cff2e83d15c0ca35d38d79253a42023d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cff2e83d15c0ca35d38d79253a42023d]: Textual amendment: Regulation revoked (31.12.2020) by [The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/266)](https://www.legislation.gov.uk/uksi/2019/266), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/3), [102](https://www.legislation.gov.uk/uksi/2019/266/regulation/102) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cff2e83d15c0ca35d38d79253a42023d]: Textual amendment: Regulation revoked (31.12.2020) by [The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/266)](https://www.legislation.gov.uk/uksi/2019/266), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/3), [102](https://www.legislation.gov.uk/uksi/2019/266/regulation/102) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Electronic monitoring requirements[^key-5d347a9a5b1030777427ca578ae9c2c0]
+## 178. Electronic monitoring requirements[^c-5d347a9a5b1030777427ca578ae9c2c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -273,4 +273,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d347a9a5b1030777427ca578ae9c2c0]: Commencement: S. 178 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5d347a9a5b1030777427ca578ae9c2c0]: Commencement: S. 178 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

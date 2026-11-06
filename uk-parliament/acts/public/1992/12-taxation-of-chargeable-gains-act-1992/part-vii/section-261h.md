@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261H. Power to modify section 261G in non-arm's length case[^key-6bf2a96347587aed6ccdfa9f9dc1ea7b]
+## 261H. Power to modify section 261G in non-arm's length case[^c-6bf2a96347587aed6ccdfa9f9dc1ea7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bf2a96347587aed6ccdfa9f9dc1ea7b]: Textual amendment: S. 261H inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 332](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/332) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-6bf2a96347587aed6ccdfa9f9dc1ea7b]: Textual amendment: S. 261H inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 332](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/332) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

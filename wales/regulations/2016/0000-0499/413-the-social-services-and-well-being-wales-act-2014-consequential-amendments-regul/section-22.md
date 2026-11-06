@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**22.**[^key-fb262f9f5568597fe1ae1d87b245f37f] In section 13 (orders and regulations), omit subsection (5).
+**22.**[^c-fb262f9f5568597fe1ae1d87b245f37f] In section 13 (orders and regulations), omit subsection (5).
 
 ## Annotations
 
-[^key-fb262f9f5568597fe1ae1d87b245f37f]: Commencement: Reg. 22 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-fb262f9f5568597fe1ae1d87b245f37f]: Commencement: Reg. 22 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

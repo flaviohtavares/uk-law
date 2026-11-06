@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23N. Assigned colleges: information and directions[^key-96d99c74be52b69fa1aa1f120141c78d]
+## 23N. Assigned colleges: information and directions[^c-96d99c74be52b69fa1aa1f120141c78d]
 
 *Extent: S*
 
@@ -38,11 +38,11 @@ summary: ''
 
 (7) Nothing in this section allows a regional strategic body—
 
-- (a) to give directions in relation to the transfer of any[^key-d1503027b0b80a41ef2aad961f4aa347] staff, property, rights, liabilities or obligations; or
+- (a) to give directions in relation to the transfer of any[^c-d1503027b0b80a41ef2aad961f4aa347] staff, property, rights, liabilities or obligations; or
 - (b) to give directions to a college whose governing body is not a board of management established in pursuance of Part 1 of the 1992 Act.
 
 ## Annotations
 
-[^key-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-d1503027b0b80a41ef2aad961f4aa347]: Textual amendment: Words in [s. 23N(7)(a)](https://www.legislation.gov.uk/asp/2005/6/section/23N/7/a) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/3/2)
+[^c-d1503027b0b80a41ef2aad961f4aa347]: Textual amendment: Words in [s. 23N(7)(a)](https://www.legislation.gov.uk/asp/2005/6/section/23N/7/a) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/3/2)

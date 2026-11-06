@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Forfeiture: supplementary provision[^M_I_8de9c5da-4597-44b4-9e61-a1083e5c037b][^key-ed7be56dd3d082739a44df01cb54b429]
+## 109. Forfeiture: supplementary provision[^M_I_8de9c5da-4597-44b4-9e61-a1083e5c037b][^c-ed7be56dd3d082739a44df01cb54b429]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_I_8de9c5da-4597-44b4-9e61-a1083e5c037b]: Commencement: S. 109 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-ed7be56dd3d082739a44df01cb54b429]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/30/section/109) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/g) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-ed7be56dd3d082739a44df01cb54b429]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/30/section/109) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/g) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

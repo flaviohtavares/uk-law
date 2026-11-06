@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Secured creditors[^key-f1675b561098dca2a52e6a97a3542979]
+## 70. Secured creditors[^c-f1675b561098dca2a52e6a97a3542979]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ However, the creditor is not entitled to disturb any dividend declared (whether 
 
 ## Annotations
 
-[^key-f1675b561098dca2a52e6a97a3542979]: Commencement: Rule 70 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-f1675b561098dca2a52e6a97a3542979]: Commencement: Rule 70 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

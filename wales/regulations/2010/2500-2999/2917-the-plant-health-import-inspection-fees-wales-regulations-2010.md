@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Import Inspection Fees) (Wales) Regulations 2010 (revoked)[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+The Plant Health (Import Inspection Fees) (Wales) Regulations 2010 (revoked)[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 Made
 
@@ -45,60 +45,60 @@ Coming into force
 
 1 January 2011
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## 1. Title, application and commencement[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## 2. Interpretation[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consignments to which these Regulations apply[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## 3. Consignments to which these Regulations apply[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## 4. Fees[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## 5. Revocations[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Import Inspection Fees[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## SCHEDULE 1 — Import Inspection Fees[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 Regulation 4(1)(a)(i) and 4(2)(a)
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Import Inspection Fees (Reduced Rates)[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## SCHEDULE 2 — Import Inspection Fees (Reduced Rates)[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 Regulation 4(1)(a)(ii) and 4(2)(b)
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Import Inspection Fees for Documentary Checks and Identity Checks[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+## SCHEDULE 3 — Import Inspection Fees for Documentary Checks and Identity Checks[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 Regulation 4(1)(b)
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6a4e79222b8262fde5fdfa0ff7ccf9c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2917) revoked (6.7.2012) by [The Plant Health (Fees) (Wales) Regulations 2012 (S.I. 2012/1493)](https://www.legislation.gov.uk/wsi/2012/1493), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/1493/regulation/1/1), [7(e)](https://www.legislation.gov.uk/wsi/2012/1493/regulation/7/e)
+[^c-c6a4e79222b8262fde5fdfa0ff7ccf9c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2917) revoked (6.7.2012) by [The Plant Health (Fees) (Wales) Regulations 2012 (S.I. 2012/1493)](https://www.legislation.gov.uk/wsi/2012/1493), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/1493/regulation/1/1), [7(e)](https://www.legislation.gov.uk/wsi/2012/1493/regulation/7/e)

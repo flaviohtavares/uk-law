@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Extending certain time limits: solemn[^key-6c93824e3f1f61c64574866dc8eb788b]
+## 90. Extending certain time limits: solemn[^c-6c93824e3f1f61c64574866dc8eb788b]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c93824e3f1f61c64574866dc8eb788b]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2016/1/section/90) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-6c93824e3f1f61c64574866dc8eb788b]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2016/1/section/90) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

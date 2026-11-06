@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Procedure for grants of recognised spectrum access[^key-cbedf54c262919ed386830562510a9ef]
+## SCHEDULE 5 — Procedure for grants of recognised spectrum access[^c-cbedf54c262919ed386830562510a9ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,36 +26,36 @@ Section 159
 
 ### General procedure for applications
 
-**1.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Information to be provided in connection with applications
 
-**2.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Notice of proposed refusal of application
 
-**3.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Duration of grant
 
-**4.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Revocation or modification
 
-**5.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Notice of proposed revocation or modification
 
-**6.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction on powers of revocation and modification
 
-**7.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
-**8.**[^key-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cbedf54c262919ed386830562510a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cbedf54c262919ed386830562510a9ef]: Textual amendment: Schs. 5-7 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-cbedf54c262919ed386830562510a9ef]: Textual amendment: Schs. 5-7 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))

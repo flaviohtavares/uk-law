@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Commission Regulation (EU) No 724/2010 laying down detailed rules for the implementation of real-time closures of certain fisheries in the North Sea and Skagerrak[^key-162c612c829eeb5aa3fd99eeedd71b72]
+## 7. Commission Regulation (EU) No 724/2010 laying down detailed rules for the implementation of real-time closures of certain fisheries in the North Sea and Skagerrak[^c-162c612c829eeb5aa3fd99eeedd71b72]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-162c612c829eeb5aa3fd99eeedd71b72]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-162c612c829eeb5aa3fd99eeedd71b72]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

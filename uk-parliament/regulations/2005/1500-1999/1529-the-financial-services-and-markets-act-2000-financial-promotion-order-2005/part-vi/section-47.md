@@ -24,10 +24,10 @@ summary: ''
 
 (2) This paragraph applies to—
 
-- (a) a person who receives the communication in the course of a business which involves the dissemination through a publication of information concerning controlled activities or controlled claims management activities *(Extent: E+W+S)*[^key-fdf3ce9c36c0aa97d33fedc64ba716ce];
+- (a) a person who receives the communication in the course of a business which involves the dissemination through a publication of information concerning controlled activities or controlled claims management activities *(Extent: E+W+S)*[^c-fdf3ce9c36c0aa97d33fedc64ba716ce];
 - (b) a person whilst acting in the capacity of director, officer or employee of a person falling within sub-paragraph (a) being a person whose responsibilities when acting in that capacity involve him in the business referred to in that sub-paragraph;
 - (c) any person to whom the communication may otherwise lawfully be made.
 
 ## Annotations
 
-[^key-fdf3ce9c36c0aa97d33fedc64ba716ce]: Textual amendment: Words in art. 47(2)(a) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [30](https://www.legislation.gov.uk/uksi/2018/1253/article/30)
+[^c-fdf3ce9c36c0aa97d33fedc64ba716ce]: Textual amendment: Words in art. 47(2)(a) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [30](https://www.legislation.gov.uk/uksi/2018/1253/article/30)

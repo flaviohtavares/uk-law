@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Transfer schemes[^key-73e2dda02f958e43fac086cf576b7239]
+## 89. Transfer schemes[^c-73e2dda02f958e43fac086cf576b7239]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e2dda02f958e43fac086cf576b7239]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2021/9/section/89) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-73e2dda02f958e43fac086cf576b7239]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2021/9/section/89) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

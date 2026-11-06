@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Bereavement Support Payment Regulations (Northern Ireland) 2017 (revoked)[^key-9f4a98b8f06733dd16c6f24bb267e665]
+The Bereavement Support Payment Regulations (Northern Ireland) 2017 (revoked)[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 Made
 
@@ -42,48 +42,48 @@ Coming into operation
 
 6th April 2017
 
-[^key-9f4a98b8f06733dd16c6f24bb267e665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f4a98b8f06733dd16c6f24bb267e665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 1. Citation and commencement[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period for which bereavement support payment is payable[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 2. Period for which bereavement support payment is payable[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Rate of bereavement support payment[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 3. Rate of bereavement support payment[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons entitled to the higher rate of bereavement support payment[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 4. Persons entitled to the higher rate of bereavement support payment[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Persons entitled to the standard rate of bereavement support payment[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 5. Persons entitled to the standard rate of bereavement support payment[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prisoners who are not to be paid bereavement support payment[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 6. Prisoners who are not to be paid bereavement support payment[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Paying bereavement support payment to persons who are remanded in custody[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 7. Paying bereavement support payment to persons who are remanded in custody[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Territory in which a person may be entitled to bereavement support payment[^key-9f4a98b8f06733dd16c6f24bb267e665]
+## 8. Territory in which a person may be entitled to bereavement support payment[^c-9f4a98b8f06733dd16c6f24bb267e665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f4a98b8f06733dd16c6f24bb267e665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f4a98b8f06733dd16c6f24bb267e665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9f4a98b8f06733dd16c6f24bb267e665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f4a98b8f06733dd16c6f24bb267e665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f4a98b8f06733dd16c6f24bb267e665]: Textual amendment: Regulations revoked (5.10.2017) by [The Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/203)](https://www.legislation.gov.uk/nisr/2017/203), [regs. 1](https://www.legislation.gov.uk/nisr/2017/203/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/203/regulation/9)
+[^c-9f4a98b8f06733dd16c6f24bb267e665]: Textual amendment: Regulations revoked (5.10.2017) by [The Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/203)](https://www.legislation.gov.uk/nisr/2017/203), [regs. 1](https://www.legislation.gov.uk/nisr/2017/203/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/203/regulation/9)

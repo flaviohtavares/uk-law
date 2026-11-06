@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Calculation of tariff income from capital[^key-30787bfbaae1dbd43b4380efdb7b7893]
+## 40. Calculation of tariff income from capital[^c-30787bfbaae1dbd43b4380efdb7b7893]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30787bfbaae1dbd43b4380efdb7b7893]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1991/2887/regulation/40) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-30787bfbaae1dbd43b4380efdb7b7893]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1991/2887/regulation/40) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39A. Notification of determinations[^key-07884f212ab4d781b75b4943e578998b]
+## 39A. Notification of determinations[^c-07884f212ab4d781b75b4943e578998b]
 
 *Extent: S*
 
 (1) Where a Licensing Board, at a review hearing—
 
-- (a) decides to take one of the steps mentioned in section 39(2), [^key-3eb0119ce8316b158b7023c3fcf52a3d]...
-- (b) decides not to take one of those steps, or[^key-53b926828dd200332bbcf9b34bd0e9ec]
+- (a) decides to take one of the steps mentioned in section 39(2), [^c-3eb0119ce8316b158b7023c3fcf52a3d]...
+- (b) decides not to take one of those steps, or[^c-53b926828dd200332bbcf9b34bd0e9ec]
 - (c) decides to revoke a premises licence under section 39(2A),
 
 the Board must give notice of the decision to each of the persons mentioned in subsection (2).
@@ -56,8 +56,8 @@ as may be prescribed.
 
 ## Annotations
 
-[^key-07884f212ab4d781b75b4943e578998b]: Textual amendment: S. 39A inserted (28.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 182(2)](https://www.legislation.gov.uk/asp/2010/13/section/182/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-07884f212ab4d781b75b4943e578998b]: Textual amendment: S. 39A inserted (28.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 182(2)](https://www.legislation.gov.uk/asp/2010/13/section/182/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-3eb0119ce8316b158b7023c3fcf52a3d]: Textual amendment: Word in s. 39A(1) repealed (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(5)(a)](https://www.legislation.gov.uk/asp/2015/10/section/45/5/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-3eb0119ce8316b158b7023c3fcf52a3d]: Textual amendment: Word in s. 39A(1) repealed (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(5)(a)](https://www.legislation.gov.uk/asp/2015/10/section/45/5/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
 
-[^key-53b926828dd200332bbcf9b34bd0e9ec]: Textual amendment: S. 39A(1)(c) and word inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(5)(b)](https://www.legislation.gov.uk/asp/2015/10/section/45/5/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-53b926828dd200332bbcf9b34bd0e9ec]: Textual amendment: S. 39A(1)(c) and word inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(5)(b)](https://www.legislation.gov.uk/asp/2015/10/section/45/5/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

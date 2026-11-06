@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Licensed providers as qualified persons[^key-c396bd97fb573c939dae252eef183b2c]
+## 123. Licensed providers as qualified persons[^c-c396bd97fb573c939dae252eef183b2c]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c396bd97fb573c939dae252eef183b2c]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2010/16/section/123) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-c396bd97fb573c939dae252eef183b2c]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2010/16/section/123) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -25,8 +25,8 @@ summary: ''
 - (a) a deferred member's account under regulation 43; or
 - (b) a full retirement account under regulation 47.
 
-(2)[^key-d2c2675d8c73adb4c9ceb3edb1b17ce5] The scheme manager must re-establish as active member’s account under this Chapter when the scheme manager closes a deferred member’s account under regulation 46.
+(2)[^c-d2c2675d8c73adb4c9ceb3edb1b17ce5] The scheme manager must re-establish as active member’s account under this Chapter when the scheme manager closes a deferred member’s account under regulation 46.
 
 ## Annotations
 
-[^key-d2c2675d8c73adb4c9ceb3edb1b17ce5]: Textual amendment: [Reg. 41(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/41/2) substituted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/2)
+[^c-d2c2675d8c73adb4c9ceb3edb1b17ce5]: Textual amendment: [Reg. 41(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/41/2) substituted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/2)

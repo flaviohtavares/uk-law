@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Provision of margins among CCPs[^key-cb1c15d800424d474574cdc70ff439b6]
+## 54. Provision of margins among CCPs[^c-cb1c15d800424d474574cdc70ff439b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 53, in paragraph 3, for “notified under Directive [98/26/EEC](https
 
 ## Annotations
 
-[^key-cb1c15d800424d474574cdc70ff439b6]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cb1c15d800424d474574cdc70ff439b6]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

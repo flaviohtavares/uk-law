@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — REVOCATIONS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+## SCHEDULE 5 — REVOCATIONS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulation 66
 
 ## Annotations
 
-[^key-e4d7eb01e504369cf58d3cd90eeb7e22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/291) revoked (13.4.2007) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007 (S.R. 2007/199)](https://www.legislation.gov.uk/nisr/2007/199), [regs. 1](https://www.legislation.gov.uk/nisr/2007/199/regulation/1), [69](https://www.legislation.gov.uk/nisr/2007/199/regulation/69)
+[^c-e4d7eb01e504369cf58d3cd90eeb7e22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/291) revoked (13.4.2007) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007 (S.R. 2007/199)](https://www.legislation.gov.uk/nisr/2007/199), [regs. 1](https://www.legislation.gov.uk/nisr/2007/199/regulation/1), [69](https://www.legislation.gov.uk/nisr/2007/199/regulation/69)

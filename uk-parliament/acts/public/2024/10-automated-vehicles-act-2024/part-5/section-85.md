@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Consent requirement for services resembling taxis or private hire vehicles[^key-569245b7cf378be157644a4f0a2f8657][^key-da7430753a37c772f09bb37372ae24e6]
+## 85. Consent requirement for services resembling taxis or private hire vehicles[^c-569245b7cf378be157644a4f0a2f8657][^c-da7430753a37c772f09bb37372ae24e6]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ and a “**licensing authority**” means a person who is responsible for granti
 
 ## Annotations
 
-[^key-569245b7cf378be157644a4f0a2f8657]: Commencement: S. 85 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-569245b7cf378be157644a4f0a2f8657]: Commencement: S. 85 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-da7430753a37c772f09bb37372ae24e6]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2024/10/section/85) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)
+[^c-da7430753a37c772f09bb37372ae24e6]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2024/10/section/85) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)

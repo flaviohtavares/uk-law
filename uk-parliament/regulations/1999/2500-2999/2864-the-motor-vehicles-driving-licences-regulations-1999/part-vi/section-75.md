@@ -22,7 +22,7 @@ summary: ''
 
 (1) There are prescribed for the purposes of section 94(5)(b)(ii) (examination of a licence applicant or holder by an officer of the Secretary of State) the following disabilities—
 
-- (a)[^key-67d602854d7d430ca7712ce602b75822] impairment of vision;
+- (a)[^c-67d602854d7d430ca7712ce602b75822] impairment of vision;
 - (b) a disability consisting of any one or more of the following—
   - (i) the absence of one or more limbs,
   - (ii) the deformity of one or more limbs,
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67d602854d7d430ca7712ce602b75822]: Textual amendment: Words in [reg. 75(1)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/75/1/a) substituted (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/258/regulation/5)
+[^c-67d602854d7d430ca7712ce602b75822]: Textual amendment: Words in [reg. 75(1)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/75/1/a) substituted (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/258/regulation/5)

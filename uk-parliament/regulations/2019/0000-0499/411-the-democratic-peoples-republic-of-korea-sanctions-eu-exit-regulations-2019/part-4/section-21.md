@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. DPRK credit or financial institutions: branches, subsidiaries, and representative offices[^key-489c44e915001cde70984aaedd37c9af][^key-d24b8baef6b3f23e3bd147923c7146a0]
+## 21. DPRK credit or financial institutions: branches, subsidiaries, and representative offices[^c-489c44e915001cde70984aaedd37c9af][^c-d24b8baef6b3f23e3bd147923c7146a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ of a person falling within regulation 18(2) if P knows, or has reasonable cause 
 
 ## Annotations
 
-[^key-489c44e915001cde70984aaedd37c9af]: Commencement: Reg. 21 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-489c44e915001cde70984aaedd37c9af]: Commencement: Reg. 21 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-d24b8baef6b3f23e3bd147923c7146a0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/411/regulation/21) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d24b8baef6b3f23e3bd147923c7146a0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/411/regulation/21) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Provision of building safety information[^key-98818cac20d2d350bcf3fe5374093786]
+## 113. Provision of building safety information[^c-98818cac20d2d350bcf3fe5374093786]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98818cac20d2d350bcf3fe5374093786]: Commencement: S. 113 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-98818cac20d2d350bcf3fe5374093786]: Commencement: S. 113 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)

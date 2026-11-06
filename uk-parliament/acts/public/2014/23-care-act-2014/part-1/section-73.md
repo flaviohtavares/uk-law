@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Human Rights Act 1998: provision of regulated care or support etc a public function[^key-f5801c70601a5097b216a1633b5fbc58][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17]
+## 73. Human Rights Act 1998: provision of regulated care or support etc a public function[^c-f5801c70601a5097b216a1633b5fbc58][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,10 +72,10 @@ TABLE
 
 ## Annotations
 
-[^key-f5801c70601a5097b216a1633b5fbc58]: Commencement: S. 73 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/993/article/2/r) (with transitional provisions in S.I. 2015/995)
+[^c-f5801c70601a5097b216a1633b5fbc58]: Commencement: S. 73 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/993/article/2/r) (with transitional provisions in S.I. 2015/995)
 
-[^key-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+[^c-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
 
-[^key-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
+[^c-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
 
 [^M_F_f53d4978-6e0e-413d-ae6f-be475bfc458c]: Textual amendment: Words in s. 73(1)(b) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/1), [51](https://www.legislation.gov.uk/uksi/2018/195/regulation/51)

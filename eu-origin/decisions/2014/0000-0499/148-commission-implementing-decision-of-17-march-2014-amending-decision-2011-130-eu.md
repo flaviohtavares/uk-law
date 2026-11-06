@@ -39,26 +39,26 @@ amending Decision 2011/130/EU establishing minimum requirements for the cross-bo
 
 (2014/148/EU) (revoked)
 
-[^key-56cc2c821f5858007f7d5156a88c2ab4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56cc2c821f5858007f7d5156a88c2ab4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Commission Decision 2011/130/EU[^key-56cc2c821f5858007f7d5156a88c2ab4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Application[^key-56cc2c821f5858007f7d5156a88c2ab4]
+## Article 1. Amendments to Commission Decision 2011/130/EU[^c-56cc2c821f5858007f7d5156a88c2ab4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-56cc2c821f5858007f7d5156a88c2ab4]
+## Article 2. Application[^c-56cc2c821f5858007f7d5156a88c2ab4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56cc2c821f5858007f7d5156a88c2ab4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Addressees[^c-56cc2c821f5858007f7d5156a88c2ab4]
 
-## ANNEX[^key-56cc2c821f5858007f7d5156a88c2ab4]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-56cc2c821f5858007f7d5156a88c2ab4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-56cc2c821f5858007f7d5156a88c2ab4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56cc2c821f5858007f7d5156a88c2ab4]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56cc2c821f5858007f7d5156a88c2ab4]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N5. Waiver of transfer payments[^key-f699bf27fef9e8cfaec7426734287446]
+## N5. Waiver of transfer payments[^c-f699bf27fef9e8cfaec7426734287446]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f699bf27fef9e8cfaec7426734287446]: Textual amendment: [Reg. N5](https://www.legislation.gov.uk/uksi/1995/300/regulation/N5) omitted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2008/654/regulation/43)
+[^c-f699bf27fef9e8cfaec7426734287446]: Textual amendment: [Reg. N5](https://www.legislation.gov.uk/uksi/1995/300/regulation/N5) omitted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2008/654/regulation/43)

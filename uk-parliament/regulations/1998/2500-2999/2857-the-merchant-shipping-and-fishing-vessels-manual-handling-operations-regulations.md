@@ -48,17 +48,17 @@ And whereas, in so far as the following Regulations are made in the exercise of 
 
 Now, therefore, the Secretary of State, in exercise of the powers conferred by the said section 2(2) of the European Communities Act 1972, and by section 85(1)(a) and (b), (3) and (7) and 86(1) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:–
 
-## 1. Citation, commencement and repeal[^key-eafc6d23c6e1a7aa620e9117efa093a8]
+## 1. Citation, commencement and repeal[^c-eafc6d23c6e1a7aa620e9117efa093a8]
 
 (1) These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Manual Handling Operations) Regulations 1998 and shall come into force on 31st December 1998.
 
 (2) The following provisions are hereby repealed–
 
-- (a)[^key-486aea0f2e9d73953ee91725dcf2bfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-486aea0f2e9d73953ee91725dcf2bfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 28(1)(f) of the Children and Young Persons (Scotland) Act 1937[^f00005];
 - (c) paragraph 35 of Schedule 8 to the Children (Northern Ireland) Order 1995[^f00006].
 
-## 2. Interpretation[^key-272e73a90fde3a4b89f6abd2c7535a6c]
+## 2. Interpretation[^c-272e73a90fde3a4b89f6abd2c7535a6c]
 
 (1) In these Regulations, except where the context otherwise requires, any reference to–
 
@@ -94,13 +94,13 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 - “trainees and apprentices” does not include persons who are training in a sail training vessel;
 - “United Kingdom ship” means a ship which–
   - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
-  - (b) [^key-c66b6a69c4d9970f1fd9c31c5ffd6423]...
+  - (b) [^c-c66b6a69c4d9970f1fd9c31c5ffd6423]...
   - (c) is a hovercraft registered under the Hovercraft Act 1968[^f00011].
 - “worker” means any person employed by an employer under a contract of employment, including trainees or apprentices.
 
 (3) Subject to paragraph (2), words and expressions used in the Regulations shall have the same meaning as in Council Directive [90/269/EEC](https://www.legislation.gov.uk/european/directive/1990/0269) on the minimum health and safety requirements for the manual handling of loads where there is a risk particularly of back injury to workers[^f00012].
 
-## 3. Application and exemption[^key-e5f163b439b6a0f62ac194afed4a4cd3]
+## 3. Application and exemption[^c-e5f163b439b6a0f62ac194afed4a4cd3]
 
 (1) These Regulations shall apply to all activities of workers on United Kingdom ships except when–
 
@@ -113,11 +113,11 @@ and in such a case there shall be a duty on the employer so far as is reasonably
 
 (3) These Regulations shall not apply to or in relation to the activities of a worker which are covered by the Manual Handling Operations Regulations 1992[^f00013] or the Manual Handling Operations Regulations (Northern Ireland) 1992[^f00014].
 
-## 4. Persons on whom duties are imposed[^key-25599f2a66fc7f754135d082e0086d4e]
+## 4. Persons on whom duties are imposed[^c-25599f2a66fc7f754135d082e0086d4e]
 
 Where a person on whom a duty is imposed by any provision of these Regulations does not have control of the matter to which the regulation relates because he does not have responsibility for the operation of the ship, then any duty imposed by that regulation shall also extend to any person who has control of that matter.
 
-## 5. Duties of employers[^key-3c48e263398fcd5fe731dc06b73ad9d3]
+## 5. Duties of employers[^c-3c48e263398fcd5fe731dc06b73ad9d3]
 
 (1) The employer shall, so far as is reasonably practicable, take appropriate measures or provide means (including mechanical equipment) to avoid the need for manual handling of loads which involve a risk of workers being injured.
 
@@ -130,17 +130,17 @@ Where a person on whom a duty is imposed by any provision of these Regulations d
   - (ii) the heaviest side of any load which has a centre of gravity which is not positioned centrally; and
 - (d) provide workers who will be required to undertake any such manual handling operation with proper training and information on how to handle loads correctly and the risks to their health and safety from incorrect handling.
 
-## 6. Duty of workers[^key-5fc1d10df54370627f34bb0c636dbbc6]
+## 6. Duty of workers[^c-5fc1d10df54370627f34bb0c636dbbc6]
 
 Every worker while at work shall make full and proper use of any system of work provided for his use by his employer in compliance with regulation 5(2)(b).
 
-## 7. Penalties[^key-5f6bfe8b7b92730152ae8e3ef2dbef5e]
+## 7. Penalties[^c-5f6bfe8b7b92730152ae8e3ef2dbef5e]
 
 (1) Any contravention of regulation 5 shall be an offence punishable on summary conviction by a fine not exceeding level 5 on the standard scale.
 
 (2) Any contravention of regulation 6 shall be an offence punishable on summary conviction by a fine not exceeding level 2 on the standard scale.
 
-## 8. Offences by body corporate and partnerships[^key-38ae31d7acab7d07ab8205b0dafa70d1]
+## 8. Offences by body corporate and partnerships[^c-38ae31d7acab7d07ab8205b0dafa70d1]
 
 (1) Where a body corporate is guilty of an offence under any of these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -148,15 +148,15 @@ Every worker while at work shall make full and proper use of any system of work 
 
 (3) Where an offence under any of these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership is guilty of an offence and liable to be proceeded against and punished accordingly.
 
-## 9. Onus of proving what is reasonably practicable[^key-e3f3a76811724b521b5e443ceab74dab]
+## 9. Onus of proving what is reasonably practicable[^c-e3f3a76811724b521b5e443ceab74dab]
 
 In any proceedings for an offence under any of these Regulations consisting of a failure to comply with a duty or requirement to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
 
-## 10. Inspection and detention of a United Kingdom ship[^key-e031d7dd7581ffeb803d91b4464d3d2d]
+## 10. Inspection and detention of a United Kingdom ship[^c-e031d7dd7581ffeb803d91b4464d3d2d]
 
 A relevant inspector may inspect any United Kingdom ship and if he is satisfied that there has been a failure to comply in relation to that ship with the requirements of these Regulations may detain the ship until the health and safety of all persons aboard ship is secured, but shall not in the exercise of this power detain or delay the ship unreasonably.
 
-## 11. Inspection and other measures in respect of ships registered outside the United Kingdom[^key-6662f6ad660b1332f4d4c511ba23a2c8]
+## 11. Inspection and other measures in respect of ships registered outside the United Kingdom[^c-6662f6ad660b1332f4d4c511ba23a2c8]
 
 (1) A relevant inspector may inspect any ship which is not a United Kingdom ship when the ship is in United Kingdom waters, and if satisfied that the ship does not conform to the standards required of United Kingdom ships by these Regulations, may–
 
@@ -171,13 +171,13 @@ A relevant inspector may inspect any United Kingdom ship and if he is satisfied 
 
 (4) The relevant inspector shall not in exercise of the power under this regulation detain or delay the ship unreasonably.
 
-## 12. Enforcement of detention[^key-d426c123b63789619df3b128fdb7d34c]
+## 12. Enforcement of detention[^c-d426c123b63789619df3b128fdb7d34c]
 
 Where a ship is liable to be detained under these Regulations, section 284(1) to (5) and (8) of the Act (which relates to the detention of the ship) shall apply as if for the words “this Act”, wherever they appear, there were substituted “the Merchant Shipping and Fishing Vessels (Manual Handling Operations) Regulations 1998”.
 
-## 13. Compensation[^key-06ebf1bbf4473e78aa5798fd4541caae]
+## 13. Compensation[^c-06ebf1bbf4473e78aa5798fd4541caae]
 
-Sections 96 and 97 of the Act (Arbitration and Compensation) shall apply in relation to a detention notice [^key-eedbe685ff3744e6dfce7f64edfdaae4]... under these Regulations as they apply to a detention notice under section 95(3) of the Act, and in such application, “ relevant inspector” means a person making an inspection under these Regulations.
+Sections 96 and 97 of the Act (Arbitration and Compensation) shall apply in relation to a detention notice [^c-eedbe685ff3744e6dfce7f64edfdaae4]... under these Regulations as they apply to a detention notice under section 95(3) of the Act, and in such application, “ relevant inspector” means a person making an inspection under these Regulations.
 
 Signed by authority of the Secretary of State for the Environment, Transport and the Regions
 
@@ -189,7 +189,7 @@ Department of the Environment, Transport and the Regions
 
 10th November 1998
 
-## SCHEDULE — The factors to which the employer must have regard and questions he must consider when making an assessment of manual handling operations or providing instruction for workers.[^key-6b0fae197b736fbeb9431f5f12e917d8]
+## SCHEDULE — The factors to which the employer must have regard and questions he must consider when making an assessment of manual handling operations or providing instruction for workers.[^c-6b0fae197b736fbeb9431f5f12e917d8]
 
 Regulation 5(2)(a)
 
@@ -239,15 +239,15 @@ These Regulations are made under powers contained in the Merchant Shipping Act 1
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8, and are applied to hovercraft by the Hovercraft (Application and Enactments) Order 1989 (S.I. [1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-eafc6d23c6e1a7aa620e9117efa093a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-eafc6d23c6e1a7aa620e9117efa093a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-486aea0f2e9d73953ee91725dcf2bfb9]: Textual amendment: [Reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/2/a) omitted (25.10.1999) by virtue of [The Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 (S.I. 1999/2205)](https://www.legislation.gov.uk/uksi/1999/2205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/18/a)
+[^c-486aea0f2e9d73953ee91725dcf2bfb9]: Textual amendment: [Reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/2/a) omitted (25.10.1999) by virtue of [The Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 (S.I. 1999/2205)](https://www.legislation.gov.uk/uksi/1999/2205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/18/a)
 
 [^f00005]: Footnote: [1937 c. 37](https://www.legislation.gov.uk/ukpga/1937/37).
 
 [^f00006]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-272e73a90fde3a4b89f6abd2c7535a6c]: Commencement: Reg. 2 in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-272e73a90fde3a4b89f6abd2c7535a6c]: Commencement: Reg. 2 in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), as amended by S.I. [1998/2411](https://www.legislation.gov.uk/uksi/1998/2411).
 
@@ -257,38 +257,38 @@ These Regulations are made under powers contained in the Merchant Shipping Act 1
 
 [^f00010]: Footnote: Published by The Stationery Office in 1997 (ISBN 0–11–551911–4).
 
-[^key-c66b6a69c4d9970f1fd9c31c5ffd6423]: Textual amendment: Words in reg. 2(2) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-c66b6a69c4d9970f1fd9c31c5ffd6423]: Textual amendment: Words in reg. 2(2) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^f00011]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
 [^f00012]: Footnote: O.J. L156, 21.6.90, p.9.
 
-[^key-e5f163b439b6a0f62ac194afed4a4cd3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2857/regulation/3) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-e5f163b439b6a0f62ac194afed4a4cd3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2857/regulation/3) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
 [^f00013]: Footnote: S.I. [1992/2793](https://www.legislation.gov.uk/uksi/1992/2793).
 
 [^f00014]: Footnote: [S.R. 1992/535](https://www.legislation.gov.uk/nisr/1992/535).
 
-[^key-25599f2a66fc7f754135d082e0086d4e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2857/regulation/4) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-25599f2a66fc7f754135d082e0086d4e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2857/regulation/4) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-3c48e263398fcd5fe731dc06b73ad9d3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2857/regulation/5) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-3c48e263398fcd5fe731dc06b73ad9d3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2857/regulation/5) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-5fc1d10df54370627f34bb0c636dbbc6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2857/regulation/6) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-5fc1d10df54370627f34bb0c636dbbc6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2857/regulation/6) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-5f6bfe8b7b92730152ae8e3ef2dbef5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2857/regulation/7) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-5f6bfe8b7b92730152ae8e3ef2dbef5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2857/regulation/7) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-38ae31d7acab7d07ab8205b0dafa70d1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2857/regulation/8) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-38ae31d7acab7d07ab8205b0dafa70d1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2857/regulation/8) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-e3f3a76811724b521b5e443ceab74dab]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2857/regulation/9) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-e3f3a76811724b521b5e443ceab74dab]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2857/regulation/9) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-e031d7dd7581ffeb803d91b4464d3d2d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2857/regulation/10) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-e031d7dd7581ffeb803d91b4464d3d2d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2857/regulation/10) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-6662f6ad660b1332f4d4c511ba23a2c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2857/regulation/11) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-6662f6ad660b1332f4d4c511ba23a2c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2857/regulation/11) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-d426c123b63789619df3b128fdb7d34c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2857/regulation/12) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-d426c123b63789619df3b128fdb7d34c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2857/regulation/12) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-06ebf1bbf4473e78aa5798fd4541caae]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2857/regulation/13) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-06ebf1bbf4473e78aa5798fd4541caae]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2857/regulation/13) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
 
-[^key-eedbe685ff3744e6dfce7f64edfdaae4]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1998/2857/regulation/13) omitted (25.10.1999) by virtue of [The Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 (S.I. 1999/2205)](https://www.legislation.gov.uk/uksi/1999/2205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/18/b)
+[^c-eedbe685ff3744e6dfce7f64edfdaae4]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1998/2857/regulation/13) omitted (25.10.1999) by virtue of [The Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 (S.I. 1999/2205)](https://www.legislation.gov.uk/uksi/1999/2205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/1999/2205/regulation/18/b)
 
-[^key-6b0fae197b736fbeb9431f5f12e917d8]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1998/2857/schedule) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)
+[^c-6b0fae197b736fbeb9431f5f12e917d8]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1998/2857/schedule) in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/1)

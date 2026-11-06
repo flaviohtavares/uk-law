@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title and commencement[^key-52953efd09e745102b2c70102ee8d89a][^key-59a1dcbe89fd14f788073b18c36cb2dc]
+## 1. Title and commencement[^c-52953efd09e745102b2c70102ee8d89a][^c-59a1dcbe89fd14f788073b18c36cb2dc]
 
 (1) The title of this Order is the County Borough of Blaenau Gwent (Electoral Arrangements) Order 2021.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 (3) For all other purposes, this Order comes into force on the ordinary day of election of councillors in 2022[^f00003].
 
-## 2. Interpretation[^key-bf96b071bbdd203bfe7f838f8820c75e][^key-9759cf45bcd6b6424cc1d549375f6ebc]
+## 2. Interpretation[^c-bf96b071bbdd203bfe7f838f8820c75e][^c-9759cf45bcd6b6424cc1d549375f6ebc]
 
 In this Order—
 
@@ -61,9 +61,9 @@ In this Order—
 - “the Regulations” (“*y Rheoliadau*”) means the Local Government Area Changes Regulations 1976[^f00004];
 - any reference to a map means one of the 2 maps marked “Map of the County Borough of Blaenau Gwent (Electoral Arrangements) Order 2021” deposited in accordance with regulation 5 of the Regulations, labelled “1” and “2”, and a reference to a numbered map is a reference to the map that bears that number;
 - where a boundary is shown on a map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature;
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-ba954437da53538c2437eacc7abb1833], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-ba954437da53538c2437eacc7abb1833], except so far as a contrary intention appears.
 
-## 3. Electoral arrangements for the County Borough of Blaenau Gwent[^key-f2ede2da05e12408834f187642467621][^key-f02d35ecf9dfb1d5509bc00b52c45540]
+## 3. Electoral arrangements for the County Borough of Blaenau Gwent[^c-f2ede2da05e12408834f187642467621][^c-f02d35ecf9dfb1d5509bc00b52c45540]
 
 (1) The electoral wards of the County Borough of Blaenau Gwent, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -75,7 +75,7 @@ In this Order—
 
 (5) The provisions in this Order take precedence over any conflicting provision in any previous statutory instrument made under section 58(2) of the Local Government Act 1972[^f00005].
 
-## 4. Abolition of the community of Beaufort, and creation of the communities of Beaufort and Garnlydan[^key-b73557382a990a18ec51b152d3b71c76][^key-8d1a971061727a05202ac82909c5754d]
+## 4. Abolition of the community of Beaufort, and creation of the communities of Beaufort and Garnlydan[^c-b73557382a990a18ec51b152d3b71c76][^c-8d1a971061727a05202ac82909c5754d]
 
 (1) The community of Beaufort, as it exists immediately before the ordinary day of election of councillors in 2022, is abolished.
 
@@ -90,7 +90,7 @@ Minister for Finance and Local Government, one of the Welsh Ministers
 
 18 October 2021
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-c41281b7079aca2ad0442a2312badf61][^key-bff031bd0949bd5bf1380a545a8ca64e]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-c41281b7079aca2ad0442a2312badf61][^c-bff031bd0949bd5bf1380a545a8ca64e]
 
 Article 3
 
@@ -141,30 +141,30 @@ Prints of the maps labelled “1” and “2” to which this Order relates are 
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-52953efd09e745102b2c70102ee8d89a]: Commencement: Art. 1 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
+[^c-52953efd09e745102b2c70102ee8d89a]: Commencement: Art. 1 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
 
-[^key-59a1dcbe89fd14f788073b18c36cb2dc]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1161/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
+[^c-59a1dcbe89fd14f788073b18c36cb2dc]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1161/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
 
 [^f00003]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-bf96b071bbdd203bfe7f838f8820c75e]: Commencement: Art. 2 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
+[^c-bf96b071bbdd203bfe7f838f8820c75e]: Commencement: Art. 2 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
 
-[^key-9759cf45bcd6b6424cc1d549375f6ebc]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1161/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
+[^c-9759cf45bcd6b6424cc1d549375f6ebc]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1161/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that these Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
-[^key-ba954437da53538c2437eacc7abb1833]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1161/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/23)
+[^c-ba954437da53538c2437eacc7abb1833]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1161/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/23)
 
-[^key-f2ede2da05e12408834f187642467621]: Commencement: Art. 3 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
+[^c-f2ede2da05e12408834f187642467621]: Commencement: Art. 3 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
 
-[^key-f02d35ecf9dfb1d5509bc00b52c45540]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1161/article/3) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
+[^c-f02d35ecf9dfb1d5509bc00b52c45540]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1161/article/3) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-b73557382a990a18ec51b152d3b71c76]: Commencement: Art. 4 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
+[^c-b73557382a990a18ec51b152d3b71c76]: Commencement: Art. 4 in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
 
-[^key-8d1a971061727a05202ac82909c5754d]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1161/article/4) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
+[^c-8d1a971061727a05202ac82909c5754d]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1161/article/4) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
 
-[^key-c41281b7079aca2ad0442a2312badf61]: Commencement: Sch. in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
+[^c-c41281b7079aca2ad0442a2312badf61]: Commencement: Sch. in force at 20.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/2)
 
-[^key-bff031bd0949bd5bf1380a545a8ca64e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1161/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)
+[^c-bff031bd0949bd5bf1380a545a8ca64e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1161/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1161/article/1/3)

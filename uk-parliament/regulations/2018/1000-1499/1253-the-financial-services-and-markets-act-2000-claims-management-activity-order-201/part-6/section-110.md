@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 110. Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-1375d24c6eea39c343994da24ebfd565][^M_I_465f9792-2ab1-4ed1-cd85-63d0d295bec4]
+## 110. Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-1375d24c6eea39c343994da24ebfd565][^M_I_465f9792-2ab1-4ed1-cd85-63d0d295bec4]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1375d24c6eea39c343994da24ebfd565]: Commencement: Art. 110 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-1375d24c6eea39c343994da24ebfd565]: Commencement: Art. 110 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
 [^M_I_465f9792-2ab1-4ed1-cd85-63d0d295bec4]: Commencement: Art. 110 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Interpretation: Chapter 1[^key-e334f20258da22f65d5ea593ddb2030b]
+## 36. Interpretation: Chapter 1[^c-e334f20258da22f65d5ea593ddb2030b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-e334f20258da22f65d5ea593ddb2030b]: Commencement: S. 36 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/h)
+[^c-e334f20258da22f65d5ea593ddb2030b]: Commencement: S. 36 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/h)

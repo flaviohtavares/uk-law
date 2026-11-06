@@ -77,7 +77,7 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
   - (a) any vessel which at the time it is being used is—
     - (i) in the case of a vessel wholly owned by—
     - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
-    - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends[^key-be5703bd5910ed7e95d4856dcbd04a45]; and
+    - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends[^c-be5703bd5910ed7e95d4856dcbd04a45]; and
     - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion; or
   - (b) any vessel wholly owned by or on behalf of a members club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
 
@@ -86,15 +86,15 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
 - “**sea-going**” in relation to a United Kingdom ship means—
   - (a) a ship which operates outside the waters specified as category A, B, C and D waters in Merchant Shipping Notice 1837(M) [^c22918901];
   - (b) a ship to which the Merchant Shipping (Survey and Certification) Regulations 2015 [^c22918911] apply and in respect of which no exemption granted under regulation 5(3) of those regulations applies;
-  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^key-402f2dc2d3281660187c69e5ce1c58e0]
-  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-2a8149835f79b5891dbcc472af8e958a];
+  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^c-402f2dc2d3281660187c69e5ce1c58e0]
+  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^c-2a8149835f79b5891dbcc472af8e958a];
 - “**ship**” includes hovercraft;
 - “**shipowner**” means—
   - (a) in relation to a ship which has a valid Maritime Labour Certificate or interim Maritime Labour Certificate, the person identified as the shipowner on that certificate;
   - (b) in relation to any other ship, the owner of the ship or, if different, any other organisation or person such as the manager, or the bareboat charterer, that has assumed responsibility for the operation of the ship from the owner;
 - “**United Kingdom ship**” means a ship which is—
-  - (a) a United Kingdom ship within the meaning of section 85(2) of the Merchant Shipping Act 1995 [^c22918941]; or[^key-47545a31b3f2054f43f0cd271d82ed94]
-  - (b) [^key-94e5bffa43c4a14aebc2d6c38830c606]...
+  - (a) a United Kingdom ship within the meaning of section 85(2) of the Merchant Shipping Act 1995 [^c22918941]; or[^c-47545a31b3f2054f43f0cd271d82ed94]
+  - (b) [^c-94e5bffa43c4a14aebc2d6c38830c606]...
   - (c) a hovercraft registered under the Hovercraft Act 1968 [^c22918951];
 - “**workforce agreement**” means an agreement between an employer and persons employed by that employer or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied.
 
@@ -158,11 +158,11 @@ These Regulations apply in relation to Northern Ireland as if—
 
     ;
 - (b) in regulations 26(1), (2), (3) and (5) (remedies) and 28(1)(b) and (3)(c) (contracting out), for the words “employment tribunal” there were substituted “ industrial tribunal ”;
-- (c)[^key-6342d2c1cfd79ba0675eb99683789fa2] in regulation 27(3)(b) for the words “section 18A(1) of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “Article 20A(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
+- (c)[^c-6342d2c1cfd79ba0675eb99683789fa2] in regulation 27(3)(b) for the words “section 18A(1) of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “Article 20A(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
 
 *Extent: N.I.*
 
-- (ca)[^key-f8be9e267252d2544d1a2a7e5f4596f9] in regulation 27(3)(c) for the words “(by virtue of the regulations made under section 18A(11) of the Employment Tribunals Act 1996) the certificate issued under subsection (4) of that section” substitute “ (by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article”;
+- (ca)[^c-f8be9e267252d2544d1a2a7e5f4596f9] in regulation 27(3)(c) for the words “(by virtue of the regulations made under section 18A(11) of the Employment Tribunals Act 1996) the certificate issued under subsection (4) of that section” substitute “ (by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article”;
 - (d) In regulation 28(2)(a)—
   - (i) for the words “a conciliation officer” there were substituted “ the Agency ”; and
   - (ii) for the words “sections 18A to 18C of the Employment Tribunals Act 1996 (conciliation)” there were substituted “ Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 [^c22918991] ”.
@@ -813,7 +813,7 @@ To the extent that these Regulations re-enact S.I. 2002/2125, there will be no a
 
 [^c22918881]: Marginal citation: The Maritime and Coastguard Agency is an executive agency of the Department for Transport.
 
-[^key-be5703bd5910ed7e95d4856dcbd04a45]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/242/regulation/7/2)
+[^c-be5703bd5910ed7e95d4856dcbd04a45]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/242/regulation/7/2)
 
 [^c22918891]: Marginal citation: Section 258(1) was amended by paragraph 4(2)(a) of Schedule 1 to the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
@@ -821,15 +821,15 @@ To the extent that these Regulations re-enact S.I. 2002/2125, there will be no a
 
 [^c22918911]: Marginal citation: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508).
 
-[^key-402f2dc2d3281660187c69e5ce1c58e0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/15) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-402f2dc2d3281660187c69e5ce1c58e0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/15) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-2a8149835f79b5891dbcc472af8e958a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/21) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-2a8149835f79b5891dbcc472af8e958a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/21) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
 [^c22918941]: Marginal citation: Section 85(2) was amended by section 2(3) of the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8).
 
-[^key-47545a31b3f2054f43f0cd271d82ed94]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-47545a31b3f2054f43f0cd271d82ed94]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-94e5bffa43c4a14aebc2d6c38830c606]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-94e5bffa43c4a14aebc2d6c38830c606]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/58/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c22918951]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
@@ -839,9 +839,9 @@ To the extent that these Regulations re-enact S.I. 2002/2125, there will be no a
 
 [^c22918981]: Marginal citation: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921).
 
-[^key-6342d2c1cfd79ba0675eb99683789fa2]: Textual amendment: Reg. 4(c) substituted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 64(2)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/64/2)
+[^c-6342d2c1cfd79ba0675eb99683789fa2]: Textual amendment: Reg. 4(c) substituted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 64(2)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/64/2)
 
-[^key-f8be9e267252d2544d1a2a7e5f4596f9]: Textual amendment: Reg. 4(ca) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 64(3)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/64/3)
+[^c-f8be9e267252d2544d1a2a7e5f4596f9]: Textual amendment: Reg. 4(ca) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 64(3)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/64/3)
 
 [^c22918991]: Marginal citation: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921). Article 20 was amended by [regulation 33(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/33/2/a) of [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), [Schedule 2](https://www.legislation.gov.uk/uksi/1999/3323/schedule/2) to [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836), [regulation 53(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/2) of [SR 2016 No. 49](https://www.legislation.gov.uk/nisr/2016/49) and [section 8](https://www.legislation.gov.uk/nia/2011/13/section/8) of the Employment Act (Northern Ireland) [2011 (c.13 (N.I.)](https://www.legislation.gov.uk/nia/2011/13). There are other amending instruments which are not relevant to these Regulations.
 

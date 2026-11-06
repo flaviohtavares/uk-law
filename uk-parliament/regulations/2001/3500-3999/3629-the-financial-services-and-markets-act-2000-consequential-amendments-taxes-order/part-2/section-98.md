@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Payments under certain life insurance policies[^key-565c822d8e77d6c45a5a1436a78f0cd4]
+## 98. Payments under certain life insurance policies[^c-565c822d8e77d6c45a5a1436a78f0cd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-565c822d8e77d6c45a5a1436a78f0cd4]: Commencement: Art. 98 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-565c822d8e77d6c45a5a1436a78f0cd4]: Commencement: Art. 98 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

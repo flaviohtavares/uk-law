@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Disapplication etc by Welsh Ministers of DBS provisions[^key-689d4a7f27be5d8e114db68094c40579]
+## 33. Disapplication etc by Welsh Ministers of DBS provisions[^c-689d4a7f27be5d8e114db68094c40579]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-689d4a7f27be5d8e114db68094c40579]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/2020/7/section/33) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-689d4a7f27be5d8e114db68094c40579]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/2020/7/section/33) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

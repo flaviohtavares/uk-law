@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Obstruction etc. of officers[^key-5db693a58c2ec02c26ba4e20323fd72d]
+## 89. Obstruction etc. of officers[^c-5db693a58c2ec02c26ba4e20323fd72d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-5db693a58c2ec02c26ba4e20323fd72d]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2017/2/section/89) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(dd)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/dd) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-5db693a58c2ec02c26ba4e20323fd72d]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2017/2/section/89) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(dd)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/dd) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

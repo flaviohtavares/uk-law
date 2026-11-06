@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.12. Content of application for a production etc. order under the Terrorism Act 2000 or the National Security Act 2023[^key-08261c8d576e3b5604be0cac80c35c6b]
+## 47.12. Content of application for a production etc. order under the Terrorism Act 2000 or the National Security Act 2023[^c-08261c8d576e3b5604be0cac80c35c6b]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
   - (ii) does not (or will not) include items subject to legal privilege;
 - (d) explain the grounds for suspecting that—
   - (i) if the material is in existence, it is likely to be evidence that a relevant act has been, or is about to be, committed, or
-  - (ii) it will be such evidence if the material is likely to come into existence and then to be in the respondent’s possession, custody or power within 28 days of the order .[^key-94996f3868ff8937071cdd2e3bf7ae84]
+  - (ii) it will be such evidence if the material is likely to come into existence and then to be in the respondent’s possession, custody or power within 28 days of the order .[^c-94996f3868ff8937071cdd2e3bf7ae84]
 
 (4) In each case the application must explain the grounds for believing that—
 
@@ -84,13 +84,13 @@ summary: ''
 
 ## Annotations
 
-[^key-08261c8d576e3b5604be0cac80c35c6b]: Commencement: Rule 47.12 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-08261c8d576e3b5604be0cac80c35c6b]: Commencement: Rule 47.12 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01146]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); paragraph 5 of Schedule 5 was amended by section 41 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 
 [^f01147]: Footnote: [2023 c. 32](https://www.legislation.gov.uk/ukpga/2023/32).
 
-[^key-94996f3868ff8937071cdd2e3bf7ae84]: Textual amendment: Rule 47.12(3)(d)(ii): full stop substituted for semicolon (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/13)
+[^c-94996f3868ff8937071cdd2e3bf7ae84]: Textual amendment: Rule 47.12(3)(d)(ii): full stop substituted for semicolon (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/13)
 
 [^f01148]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); paragraphs 5, 6 and 7 of Schedule 5 were amended by section 65 of, and paragraph 9 of Schedule 4 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 41 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 

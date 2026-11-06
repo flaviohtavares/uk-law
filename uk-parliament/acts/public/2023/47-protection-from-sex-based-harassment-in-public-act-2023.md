@@ -35,7 +35,7 @@ An Act to make provision about causing intentional harassment, alarm or distress
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Intentional harassment, alarm or distress on account of sex[^key-a9f970655db22767ababe84f1c31dd16][^key-a75a7e2b8dc323c867268c3b89649810]
+## 1. Intentional harassment, alarm or distress on account of sex[^c-a9f970655db22767ababe84f1c31dd16][^c-a75a7e2b8dc323c867268c3b89649810]
 
 After section 4A of the Public Order Act 1986 insert—
 
@@ -63,7 +63,7 @@ After section 4A of the Public Order Act 1986 insert—
 >
 > (5) If, on the trial on indictment of a person charged with an offence under this section, the jury find the person not guilty of the offence charged, they may find the person guilty of the offence in section 4A.
 
-## 2. Guidance[^key-812759b0f985c506e6fa10b4af9f9939][^key-62c0601cdfddf565062ae92ba187b6e6]
+## 2. Guidance[^c-812759b0f985c506e6fa10b4af9f9939][^c-62c0601cdfddf565062ae92ba187b6e6]
 
 (1) The Secretary of State must issue guidance to—
 
@@ -82,7 +82,7 @@ about the offence in section 4B of the Public Order Act 1986 (intentional harass
 
 (5) A chief officer of police or a chief constable mentioned in subsection (1) must have regard to guidance issued under this section.
 
-## 3. Consequential amendments[^key-b18ac5eb8a2d5f1274c3d637239e1754][^key-c15b62742a2b57cbad9f96c301e1fba3]
+## 3. Consequential amendments[^c-b18ac5eb8a2d5f1274c3d637239e1754][^c-c15b62742a2b57cbad9f96c301e1fba3]
 
 (1) In paragraph 1 of Schedule 1 to the Football Spectators Act 1989 (relevant offences for the purposes of Part 2), in each of paragraphs (c), (k) and (q), after “4A” insert “, 4B”.
 
@@ -98,7 +98,7 @@ about the offence in section 4B of the Public Order Act 1986 (intentional harass
 
 .
 
-## 4. Extent, commencement and short title[^key-dbb445a336d094c56bd777ae67a23932]
+## 4. Extent, commencement and short title[^c-dbb445a336d094c56bd777ae67a23932]
 
 (1) This Act extends to England and Wales only, subject to subsection (2).
 
@@ -114,16 +114,16 @@ about the offence in section 4B of the Public Order Act 1986 (intentional harass
 
 ## Annotations
 
-[^key-a9f970655db22767ababe84f1c31dd16]: Commencement: S. 1 not in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4)
+[^c-a9f970655db22767ababe84f1c31dd16]: Commencement: S. 1 not in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4)
 
-[^key-a75a7e2b8dc323c867268c3b89649810]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/47/section/1) in force at 1.4.2026 by [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/a)
+[^c-a75a7e2b8dc323c867268c3b89649810]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/47/section/1) in force at 1.4.2026 by [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/a)
 
-[^key-812759b0f985c506e6fa10b4af9f9939]: Commencement: S. 2 not in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4)
+[^c-812759b0f985c506e6fa10b4af9f9939]: Commencement: S. 2 not in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4)
 
-[^key-62c0601cdfddf565062ae92ba187b6e6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/47/section/2) in force at 1.4.2026 by [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/b)
+[^c-62c0601cdfddf565062ae92ba187b6e6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/47/section/2) in force at 1.4.2026 by [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/b)
 
-[^key-b18ac5eb8a2d5f1274c3d637239e1754]: Commencement: S. 3 not in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4)
+[^c-b18ac5eb8a2d5f1274c3d637239e1754]: Commencement: S. 3 not in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4)
 
-[^key-c15b62742a2b57cbad9f96c301e1fba3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/47/section/3) in force at 1.4.2026 by [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/c)
+[^c-c15b62742a2b57cbad9f96c301e1fba3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/47/section/3) in force at 1.4.2026 by [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/c)
 
-[^key-dbb445a336d094c56bd777ae67a23932]: Commencement: S. 4 in force at Royal Assent, see [s. 4(5)](https://www.legislation.gov.uk/ukpga/2023/47/section/4/5)
+[^c-dbb445a336d094c56bd777ae67a23932]: Commencement: S. 4 in force at Royal Assent, see [s. 4(5)](https://www.legislation.gov.uk/ukpga/2023/47/section/4/5)

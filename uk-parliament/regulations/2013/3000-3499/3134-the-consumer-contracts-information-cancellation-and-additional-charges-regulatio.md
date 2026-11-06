@@ -44,7 +44,7 @@ Coming into force
 
 13th June 2014
 
-The Secretary of State, as a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c21964551] in relation to matters relating to consumer protection [^c21964561], makes the following Regulations in exercise of the powers conferred by section 2(2) of that Act.[^key-e1fb4f85cb6da55ab840e749140f1691]
+The Secretary of State, as a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c21964551] in relation to matters relating to consumer protection [^c21964561], makes the following Regulations in exercise of the powers conferred by section 2(2) of that Act.[^c-e1fb4f85cb6da55ab840e749140f1691]
 
 ## PART 1 — General
 
@@ -69,7 +69,7 @@ The following do not apply in relation to contracts entered into on or after 13t
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-263c6af2d6452904dc85cf3ea9a8c9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-263c6af2d6452904dc85cf3ea9a8c9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -134,16 +134,16 @@ In these Regulations—
 (1) These Regulations do not apply to a contract, to the extent that it is—
 
 - (a) for—
-  - (i) gambling within the meaning of the Gambling Act 2005 [^c21964611] (which includes gaming, betting and participating in a lottery);[^key-23d97187c464784f2cc784617b141631]...
-  - (ii) in relation to Northern Ireland, for betting, gaming or participating lawfully in a lottery within the meaning of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 [^c21964621]; or[^key-02294a8459f217089bc963bb0668421b]
+  - (i) gambling within the meaning of the Gambling Act 2005 [^c21964611] (which includes gaming, betting and participating in a lottery);[^c-23d97187c464784f2cc784617b141631]...
+  - (ii) in relation to Northern Ireland, for betting, gaming or participating lawfully in a lottery within the meaning of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 [^c21964621]; or[^c-02294a8459f217089bc963bb0668421b]
   - (iii) participating in a lottery which forms part of the National Lottery within the meaning of the National Lottery etc. Act 1993.
 - (b) for services of a banking, credit, insurance, personal pension, investment or payment nature;
 - (c) for the creation of immovable property or of rights in immovable property;
 - (d) for rental of accommodation for residential purposes;
 - (e) for the construction of new buildings, or the construction of substantially new buildings by the conversion of existing buildings;
 - (f) for the supply of foodstuffs, beverages or other goods intended for current consumption in the household and which are supplied by a trader on frequent and regular rounds to the consumer's home, residence or workplace;
-- (g)[^key-4c52afa18ad96c918f2d8756600fbd8e] which is a package travel contract within the meaning of the Package Travel and Linked Travel Arrangements Regulations 2018[^c23525031];
-- (h)[^key-18016fa0733cc4c1a6017966d6f0cda4] which is a regulated contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010.
+- (g)[^c-4c52afa18ad96c918f2d8756600fbd8e] which is a package travel contract within the meaning of the Package Travel and Linked Travel Arrangements Regulations 2018[^c23525031];
+- (h)[^c-18016fa0733cc4c1a6017966d6f0cda4] which is a regulated contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010.
 
 (2) These Regulations do not apply to contracts—
 
@@ -193,12 +193,12 @@ For the purposes of this Part, something is made available to a consumer only if
 
 (2) Paragraph (1) does not apply to a contract which involves a day-to-day transaction and is performed immediately at the time when the contract is entered into.
 
-(3)[^key-d3cc6bfde10e4311e3d432f247aaefa5] If the contract is for the supply of digital content other than for a price paid by the consumer—
+(3)[^c-d3cc6bfde10e4311e3d432f247aaefa5] If the contract is for the supply of digital content other than for a price paid by the consumer—
 
 - (a) any information that the trader gives the consumer as required by this regulation is to be treated as included as a term of the contract, and
 - (b) a change to any of that information, made before entering into the contract or later, is not effective unless expressly agreed between the consumer and the trader
 
-(4)[^key-cb3969e0c499a2026e90972f5e52eb2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cb3969e0c499a2026e90972f5e52eb2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 10. Information to be provided before making an off-premises contract
 
@@ -213,12 +213,12 @@ For the purposes of this Part, something is made available to a consumer only if
 
 (4) If the trader has not complied with paragraph (1) in respect of paragraph (g), (h) or (m) of Schedule 2, the consumer is not to bear the charges or costs referred to in those paragraphs.
 
-(5)[^key-22c4fb7e8c31df4cb38d31cea36e72b2] If the contract is for the supply of digital content other than for a price paid by the consumer—
+(5)[^c-22c4fb7e8c31df4cb38d31cea36e72b2] If the contract is for the supply of digital content other than for a price paid by the consumer—
 
 - (a) any information that the trader gives the consumer as required by this regulation is to be treated as included as a term of the contract, and
 - (b) a change to any of that information, made before entering into the contract or later, is not effective unless expressly agreed between the consumer and the trader
 
-(6)[^key-dd18f50a25b0fad9e249268ec6c0afbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-dd18f50a25b0fad9e249268ec6c0afbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This regulation is subject to regulation 11.
 
@@ -282,12 +282,12 @@ For the purposes of this Part, something is made available to a consumer only if
 
 (5) If the trader has not complied with paragraph (1) in respect of paragraph (g), (h) or (m) of Schedule 2, the consumer is not to bear the charges or costs referred to in those paragraphs.
 
-(6)[^key-8f0b420849eddfe03f868d9e382c52e2] If the contract is for the supply of digital content other than for a price paid by the consumer—
+(6)[^c-8f0b420849eddfe03f868d9e382c52e2] If the contract is for the supply of digital content other than for a price paid by the consumer—
 
 - (a) any information that the trader gives the consumer as required by this regulation is to be treated as included as a term of the contract, and
 - (b) a change to any of that information, made before entering into the contract or later, is not effective unless expressly agreed between the consumer and the trader
 
-(7)[^key-8dc6ce4e109375ac848fd92791bcb284] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8dc6ce4e109375ac848fd92791bcb284] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 14. Requirements for distance contracts concluded by electronic means
 
@@ -402,15 +402,15 @@ that partner, as well as the partnership shall be guilty of the offence and liab
 
 (3) Nothing in paragraph (1) authorises any weights and measures authority to bring proceedings in Scotland for an offence.
 
-#### 24. Powers of investigation[^key-ae89f28fb42d579a1c687ee0cde559a5]
+#### 24. Powers of investigation[^c-ae89f28fb42d579a1c687ee0cde559a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Obstruction of authorised officers[^key-77fd8ce05aa7701a8cb92da420caf214]
+#### 25. Obstruction of authorised officers[^c-77fd8ce05aa7701a8cb92da420caf214]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Freedom from self-incrimination[^key-7df6718494afcb9ed5232b602f38c884]
+#### 26. Freedom from self-incrimination[^c-7df6718494afcb9ed5232b602f38c884]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -559,7 +559,7 @@ the cancellation period ends at the end of 14 days after the day on which the co
 - (a) the day on which the trader receives the goods back, or
 - (b) if earlier, the day on which the consumer supplies evidence of having sent the goods back.
 
-(6) Otherwise, the time is the end of 14 days after the day on which the trader is informed of the consumer's decision to withdraw the offer or cancel the contract, in accordance with regulation 32[^key-352f4f174073f05e58f0cd9b9ea9b73a].
+(6) Otherwise, the time is the end of 14 days after the day on which the trader is informed of the consumer's decision to withdraw the offer or cancel the contract, in accordance with regulation 32[^c-352f4f174073f05e58f0cd9b9ea9b73a].
 
 (7) The trader must make the reimbursement using the same means of payment as the consumer used for the initial transaction, unless the consumer has expressly agreed otherwise.
 
@@ -607,7 +607,7 @@ the cancellation period ends at the end of 14 days after the day on which the co
 
 (7) The consumer is not required to bear any other cost of returning goods under paragraph (2).
 
-(8) The consumer is not required to bear any cost of collecting goods under paragraph (1) unless the trader has offered to collect the goods and the consumer has agreed to bear the costs of the trader doing so.[^key-19401b64fe5f27c6014d2bd26dd5a89f]
+(8) The consumer is not required to bear any cost of collecting goods under paragraph (1) unless the trader has offered to collect the goods and the consumer has agreed to bear the costs of the trader doing so.[^c-19401b64fe5f27c6014d2bd26dd5a89f]
 
 ### 36. Supply of service in cancellation period
 
@@ -707,13 +707,13 @@ Before regulation 28 of the Consumer Protection from Unfair Trading Regulations 
 
 (2) If in those circumstances a consumer who contacts a trader in relation to a contract is bound to pay more than the basic rate, the contract is to be treated as providing for the trader to pay to the consumer any amount by which the charge paid by the consumer for the call is more than the basic rate.
 
-## PART 5 — Delivery and risk[^key-6d1226c95e53d3aabb61ead5743779d6]
+## PART 5 — Delivery and risk[^c-6d1226c95e53d3aabb61ead5743779d6]
 
-### 42. Time for delivery of goods[^key-6d1226c95e53d3aabb61ead5743779d6]
+### 42. Time for delivery of goods[^c-6d1226c95e53d3aabb61ead5743779d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Passing of risk[^key-6d1226c95e53d3aabb61ead5743779d6]
+### 43. Passing of risk[^c-6d1226c95e53d3aabb61ead5743779d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -765,11 +765,11 @@ Regulation 9(1)
 
 The information referred to in regulation 9(1) is—
 
-- (a) the main characteristics of the goods, services or digital content[^key-65fbae1bbc5b06071dab7eae0f4acf20], to the extent appropriate to the medium of communication and to the goods, services or digital content;
+- (a) the main characteristics of the goods, services or digital content[^c-65fbae1bbc5b06071dab7eae0f4acf20], to the extent appropriate to the medium of communication and to the goods, services or digital content;
 - (b) the identity of the trader (such as the trader's trading name), the geographical address at which the trader is established and the trader's telephone number;
-- (c) the total price of the goods, services or digital content[^key-5ad7c436169582903b2e7142a745e51c] inclusive of taxes, or where the nature of the goods, services or digital content is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated;
+- (c) the total price of the goods, services or digital content[^c-5ad7c436169582903b2e7142a745e51c] inclusive of taxes, or where the nature of the goods, services or digital content is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated;
 - (d) where applicable, all additional delivery charges or, where those charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable;
-- (e) where applicable, the arrangements for payment, delivery, performance, and the time by which the trader undertakes to deliver the goods, to perform the service or to supply the digital content.[^key-a708154f46edbb50b119de85750ed285]
+- (e) where applicable, the arrangements for payment, delivery, performance, and the time by which the trader undertakes to deliver the goods, to perform the service or to supply the digital content.[^c-a708154f46edbb50b119de85750ed285]
 - (f) where applicable, the trader's complaint handling policy;
 - (g) in the case of a sales contract, a reminder that the trader is under a legal duty to supply goods that are in conformity with the contract;
 - (h) where applicable, the existence and the conditions of after-sales services and commercial guarantees;
@@ -783,16 +783,16 @@ Regulations 10(1) and 13(1)
 
 The information referred to in regulations 10(1) and 13(1) is (subject to the note at the end of this Schedule)—
 
-- (a) the main characteristics of the goods, services or digital content[^key-7437c73faa211e8413b694cbdeb8e297], to the extent appropriate to the medium of communication and to the goods, services or digital content;
+- (a) the main characteristics of the goods, services or digital content[^c-7437c73faa211e8413b694cbdeb8e297], to the extent appropriate to the medium of communication and to the goods, services or digital content;
 - (b) the identity of the trader (such as the trader's trading name);
 - (c) the geographical address at which the trader is established and, where available, the trader's telephone number, fax number and e-mail address, to enable the consumer to contact the trader quickly and communicate efficiently;
 - (d) where the trader is acting on behalf of another trader, the geographical address and identity of that other trader;
 - (e) if different from the address provided in accordance with paragraph (c), the geographical address of the place of business of the trader, and, where the trader acts on behalf of another trader, the geographical address of the place of business of that other trader, where the consumer can address any complaints;
-- (f) the total price of the goods, services or digital content[^key-9e1338a0fb8ca1ee496f24716d2bc0c8] inclusive of taxes, or where the nature of the goods, services or digital content is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated,
+- (f) the total price of the goods, services or digital content[^c-9e1338a0fb8ca1ee496f24716d2bc0c8] inclusive of taxes, or where the nature of the goods, services or digital content is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated,
 - (g) where applicable, all additional delivery charges and any other costs or, where those charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable;
 - (h) in the case of a contract of indeterminate duration or a contract containing a subscription, the total costs per billing period or (where such contracts are charged at a fixed rate) the total monthly costs;
 - (i) the cost of using the means of distance communication for the conclusion of the contract where that cost is calculated other than at the basic rate;
-- (j) the arrangements for payment, delivery, performance, and the time by which the trader undertakes to deliver the goods, to perform the services or to supply the digital content.[^key-8aa91adf7bb00123513328b311f4974a]
+- (j) the arrangements for payment, delivery, performance, and the time by which the trader undertakes to deliver the goods, to perform the services or to supply the digital content.[^c-8aa91adf7bb00123513328b311f4974a]
 - (k) where applicable, the trader's complaint handling policy;
 - (l) where a right to cancel exists, the conditions, time limit and procedures for exercising that right in accordance with regulations 27 to 38;
 - (m) where applicable, that the consumer will have to bear the cost of returning the goods in case of cancellation and, for distance contracts, if the goods, by their nature, cannot normally be returned by post, the cost of returning the goods;
@@ -840,7 +840,7 @@ In paragraph 26 of Schedule 15D to the Companies Act 1985 (company investigation
 
 In regulation 11(1) of the Financial Services (Distance Marketing) Regulations 2004 (exceptions to right to cancel under those regulations) [^c21964791], for paragraph (e) substitute—
 
-> - (e) a credit agreement terminated under regulation 38(1)[^key-6ea3a081b3ba5c084cf46833d5a21742] of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (automatic termination of related agreements)”.
+> - (e) a credit agreement terminated under regulation 38(1)[^c-6ea3a081b3ba5c084cf46833d5a21742] of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (automatic termination of related agreements)”.
 
 ### 5. Supply of Extended Warranties on Domestic Electrical Goods Order 2005
 
@@ -874,7 +874,7 @@ In regulation 2 of the Waste Electrical & Electrical Equipment Regulations 2006 
 
 ### 9. Consumer Protection from Unfair Trading Regulations 2008
 
-In Schedule 1 to the Consumer Protection from Unfair Trading Regulations 2008 [^c21964841] (commercial practices which are in all circumstances considered unfair), in paragraph 29 omit the words from “, except where” to the end of the paragraph.[^key-42d9aec2f31c51c05ca803c8d9f987df]
+In Schedule 1 to the Consumer Protection from Unfair Trading Regulations 2008 [^c21964841] (commercial practices which are in all circumstances considered unfair), in paragraph 29 omit the words from “, except where” to the end of the paragraph.[^c-42d9aec2f31c51c05ca803c8d9f987df]
 
 ### 10. Payment Services Regulations 2009
 
@@ -962,29 +962,29 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^c21964561]: Marginal citation: [Article 2](https://www.legislation.gov.uk/uksi/2013/3134/article/2) of, and the Schedule to, [The European Communities (Designation) (No. 3) Order 1993 (S.I. 1993/2661)](https://www.legislation.gov.uk/uksi/1993/2661).
 
-[^key-e1fb4f85cb6da55ab840e749140f1691]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/3134) applied (1.1.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 288(9)](https://www.legislation.gov.uk/ukpga/2024/13/section/288/9), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 274-276](https://www.legislation.gov.uk/ukpga/2024/13/section/274)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-e1fb4f85cb6da55ab840e749140f1691]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/3134) applied (1.1.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 288(9)](https://www.legislation.gov.uk/ukpga/2024/13/section/288/9), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 274-276](https://www.legislation.gov.uk/ukpga/2024/13/section/274)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
 
 [^c21964571]: Marginal citation: [S.I. 2000/2334](https://www.legislation.gov.uk/uksi/2000/2334).
 
 [^c21964581]: Marginal citation: [S.I. 2008/1816](https://www.legislation.gov.uk/uksi/2008/1816).
 
-[^key-263c6af2d6452904dc85cf3ea9a8c9ee]: Textual amendment: Reg. 3(2) omitted (31.12.2020) by virtue of [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-263c6af2d6452904dc85cf3ea9a8c9ee]: Textual amendment: Reg. 3(2) omitted (31.12.2020) by virtue of [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21964601]: Marginal citation: The Competition and Markets Authority was established by section 25 of the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24)
 
 [^c21964611]: Marginal citation: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-23d97187c464784f2cc784617b141631]: Textual amendment: Word in reg. 6(1)(a)(i) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/3/1)
+[^c-23d97187c464784f2cc784617b141631]: Textual amendment: Word in reg. 6(1)(a)(i) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/3/1)
 
 [^c21964621]: Marginal citation: [S.I. 1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204).
 
-[^key-02294a8459f217089bc963bb0668421b]: Textual amendment: Reg. 6(1)(a)(iii) and preceding word inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/3/2)
+[^c-02294a8459f217089bc963bb0668421b]: Textual amendment: Reg. 6(1)(a)(iii) and preceding word inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/3/2)
 
-[^key-4c52afa18ad96c918f2d8756600fbd8e]: Textual amendment: Reg. 6(1)(g) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c52afa18ad96c918f2d8756600fbd8e]: Textual amendment: Reg. 6(1)(g) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23525031]: Marginal citation: [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634).
 
-[^key-18016fa0733cc4c1a6017966d6f0cda4]: Textual amendment: Reg. 6(1)(h) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18016fa0733cc4c1a6017966d6f0cda4]: Textual amendment: Reg. 6(1)(h) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21964651]: Marginal citation: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349).
 
@@ -1000,43 +1000,43 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^c21964711]: Marginal citation: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349).
 
-[^key-d3cc6bfde10e4311e3d432f247aaefa5]: Textual amendment: Reg. 9(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/4/1)
+[^c-d3cc6bfde10e4311e3d432f247aaefa5]: Textual amendment: Reg. 9(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/4/1)
 
-[^key-cb3969e0c499a2026e90972f5e52eb2a]: Textual amendment: Reg. 9(4) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/4/2)
+[^c-cb3969e0c499a2026e90972f5e52eb2a]: Textual amendment: Reg. 9(4) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/4/2)
 
-[^key-22c4fb7e8c31df4cb38d31cea36e72b2]: Textual amendment: Reg. 10(5) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/5/1)
+[^c-22c4fb7e8c31df4cb38d31cea36e72b2]: Textual amendment: Reg. 10(5) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/5/1)
 
-[^key-dd18f50a25b0fad9e249268ec6c0afbc]: Textual amendment: Reg. 10(6) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/5/2)
+[^c-dd18f50a25b0fad9e249268ec6c0afbc]: Textual amendment: Reg. 10(6) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/5/2)
 
-[^key-8f0b420849eddfe03f868d9e382c52e2]: Textual amendment: Reg. 13(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/6/1)
+[^c-8f0b420849eddfe03f868d9e382c52e2]: Textual amendment: Reg. 13(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/6/1)
 
-[^key-8dc6ce4e109375ac848fd92791bcb284]: Textual amendment: Reg. 13(7) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/6/2)
+[^c-8dc6ce4e109375ac848fd92791bcb284]: Textual amendment: Reg. 13(7) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/6/2)
 
-[^key-ae89f28fb42d579a1c687ee0cde559a5]: Textual amendment: Reg. 24 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1726/article/4))
+[^c-ae89f28fb42d579a1c687ee0cde559a5]: Textual amendment: Reg. 24 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1726/article/4))
 
-[^key-77fd8ce05aa7701a8cb92da420caf214]: Textual amendment: Reg. 25 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1726/article/4))
+[^c-77fd8ce05aa7701a8cb92da420caf214]: Textual amendment: Reg. 25 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1726/article/4))
 
-[^key-7df6718494afcb9ed5232b602f38c884]: Textual amendment: Reg. 26 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1726/article/4))
+[^c-7df6718494afcb9ed5232b602f38c884]: Textual amendment: Reg. 26 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1726/article/4))
 
-[^key-352f4f174073f05e58f0cd9b9ea9b73a]: Textual amendment: Word in reg. 34(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1629/regulation/7)
+[^c-352f4f174073f05e58f0cd9b9ea9b73a]: Textual amendment: Word in reg. 34(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1629/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1629/regulation/7)
 
-[^key-19401b64fe5f27c6014d2bd26dd5a89f]: Textual amendment: Words in reg. 35(8) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/2)
+[^c-19401b64fe5f27c6014d2bd26dd5a89f]: Textual amendment: Words in reg. 35(8) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/2)
 
 [^c21964721]: Marginal citation: [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277).
 
-[^key-6d1226c95e53d3aabb61ead5743779d6]: Textual amendment: Pt. 5 omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [reg. 8](https://www.legislation.gov.uk/uksi/2015/1629/regulation/8)
+[^c-6d1226c95e53d3aabb61ead5743779d6]: Textual amendment: Pt. 5 omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Consumer Contracts (Amendment) Regulations 2015 (S.I. 2015/1629)](https://www.legislation.gov.uk/uksi/2015/1629), [reg. 8](https://www.legislation.gov.uk/uksi/2015/1629/regulation/8)
 
-[^key-65fbae1bbc5b06071dab7eae0f4acf20]: Textual amendment: Words in Sch. 1 para. (a) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/3/a)
+[^c-65fbae1bbc5b06071dab7eae0f4acf20]: Textual amendment: Words in Sch. 1 para. (a) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/3/a)
 
-[^key-5ad7c436169582903b2e7142a745e51c]: Textual amendment: Words in Sch. 1 para. (c) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/3/a)
+[^c-5ad7c436169582903b2e7142a745e51c]: Textual amendment: Words in Sch. 1 para. (c) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/3/a)
 
-[^key-a708154f46edbb50b119de85750ed285]: Textual amendment: Words in Sch. 1 para. (e) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/3/b)
+[^c-a708154f46edbb50b119de85750ed285]: Textual amendment: Words in Sch. 1 para. (e) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/3/b)
 
-[^key-7437c73faa211e8413b694cbdeb8e297]: Textual amendment: Words in Sch. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/4/a)
+[^c-7437c73faa211e8413b694cbdeb8e297]: Textual amendment: Words in Sch. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/4/a)
 
-[^key-9e1338a0fb8ca1ee496f24716d2bc0c8]: Textual amendment: Words in Sch. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/4/a)
+[^c-9e1338a0fb8ca1ee496f24716d2bc0c8]: Textual amendment: Words in Sch. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/4/a)
 
-[^key-8aa91adf7bb00123513328b311f4974a]: Textual amendment: Words in Sch. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/4/b)
+[^c-8aa91adf7bb00123513328b311f4974a]: Textual amendment: Words in Sch. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/4/b)
 
 [^M_F_934b7a71-65cc-4369-c32d-67c5ccc68992]: Textual amendment: Sch. 3 para. 5(b): “£” substituted for “EUR” in both places it occurs (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -1048,7 +1048,7 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^c21964791]: Marginal citation: [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095).
 
-[^key-6ea3a081b3ba5c084cf46833d5a21742]: Textual amendment: Word in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/4) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/5/a)
+[^c-6ea3a081b3ba5c084cf46833d5a21742]: Textual amendment: Word in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/4) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/5/a)
 
 [^c21964801]: Marginal citation: [S.I. 2005/37](https://www.legislation.gov.uk/uksi/2005/37).
 
@@ -1060,7 +1060,7 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^c21964841]: Marginal citation: [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277).
 
-[^key-42d9aec2f31c51c05ca803c8d9f987df]: Textual amendment: Words in [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/9) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/5/b)
+[^c-42d9aec2f31c51c05ca803c8d9f987df]: Textual amendment: Words in [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/9) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/5/b)
 
 [^c21964851]: Marginal citation: [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209).
 

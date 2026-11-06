@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Approvals pursuant to requirements etc.[^key-f600e31c34afe9db2a47fc487b043643]
+## 37. Approvals pursuant to requirements etc.[^c-f600e31c34afe9db2a47fc487b043643]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f600e31c34afe9db2a47fc487b043643]: Commencement: Art. 37 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-f600e31c34afe9db2a47fc487b043643]: Commencement: Art. 37 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

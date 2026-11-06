@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Purpose of the Order and meaning of expressions used[^key-2c0983a39f8464124f4c616bf67d06be]
+## 3. Purpose of the Order and meaning of expressions used[^c-2c0983a39f8464124f4c616bf67d06be]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c0983a39f8464124f4c616bf67d06be]: Commencement: Reg. 3 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-2c0983a39f8464124f4c616bf67d06be]: Commencement: Reg. 3 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

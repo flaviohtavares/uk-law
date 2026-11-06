@@ -243,7 +243,7 @@ Section 297
 
 **14.**[^c6579761] In paragraph 8 (married couples)—
 
-- (a)[^key-d8f61cff4a047004d12a9f1bf0a59713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d8f61cff4a047004d12a9f1bf0a59713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for sub-paragraph (4) substitute—
 
   > (4) The conditions in paragraph 3C(1)(c) and 4(1)(a) are not satisfied by a Category B retirement pension to which S was or would have been entitled by virtue of W’s contributions.
@@ -408,9 +408,9 @@ Section 297
 
 ### Part 3 — Transitional provisions[^c6579481]
 
-#### Widowers' and surviving civil partners' entitlement to increase of pension or widowed person’s or surviving civil partner's lump sum[^key-4c6662d890a779f0cb7d6d836af73b99]
+#### Widowers' and surviving civil partners' entitlement to increase of pension or widowed person’s or surviving civil partner's lump sum[^c-4c6662d890a779f0cb7d6d836af73b99]
 
-**26.**[^c6579621] In the case of a widower or surviving civil partner[^key-25abdcce468d8cc6a431f42964bfd5d2] who attains pensionable age before 6th April 2010, paragraphs 3C, 4 and 7A of Schedule 5 to the Social Security Contributions and Benefits Act 1992 (c. 4) (entitlement to increase of pension or widowed person’s or surviving civil partner's[^key-f1b9ee911021adb4f2dd0afac517646f] lump sum) shall not apply unless the widower or surviving civil partner was over pensionable age when his wife or, as the case may be, his or her civil partner, died[^key-41209256ff670ce8c4f44f12eaf86ff6] .
+**26.**[^c6579621] In the case of a widower or surviving civil partner[^c-25abdcce468d8cc6a431f42964bfd5d2] who attains pensionable age before 6th April 2010, paragraphs 3C, 4 and 7A of Schedule 5 to the Social Security Contributions and Benefits Act 1992 (c. 4) (entitlement to increase of pension or widowed person’s or surviving civil partner's[^c-f1b9ee911021adb4f2dd0afac517646f] lump sum) shall not apply unless the widower or surviving civil partner was over pensionable age when his wife or, as the case may be, his or her civil partner, died[^c-41209256ff670ce8c4f44f12eaf86ff6] .
 
 #### Transitional provision[^c6579611]
 
@@ -452,7 +452,7 @@ Section 297
 
 [^c6579761]: Commencement: Sch. 11 wholly in force at 6.4.2005; Sch. 11 in force at Royal Assent for specified purposes and otherwise at 6.4.2005 see s. 322
 
-[^key-d8f61cff4a047004d12a9f1bf0a59713]: Textual amendment: [Sch. 11 para. 14(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/14/a) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/a), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/1)
+[^c-d8f61cff4a047004d12a9f1bf0a59713]: Textual amendment: [Sch. 11 para. 14(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/14/a) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/a), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/1)
 
 [^c6579771]: Commencement: Sch. 11 wholly in force at 6.4.2005; Sch. 11 in force at Royal Assent for specified purposes and otherwise at 6.4.2005 see s. 322
 
@@ -486,15 +486,15 @@ Section 297
 
 [^c6579481]: Commencement: Sch. 11 wholly in force at 6.4.2005; Sch. 11 in force at Royal Assent for specified purposes and otherwise at 6.4.2005 see s. 322
 
-[^key-4c6662d890a779f0cb7d6d836af73b99]: Textual amendment: Words in Sch. 11 para. 26 heading inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/a)
+[^c-4c6662d890a779f0cb7d6d836af73b99]: Textual amendment: Words in Sch. 11 para. 26 heading inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/a)
 
 [^c6579621]: Commencement: Sch. 11 wholly in force at 6.4.2005; Sch. 11 in force at Royal Assent for specified purposes and otherwise at 6.4.2005 see s. 322
 
-[^key-25abdcce468d8cc6a431f42964bfd5d2]: Textual amendment: Words in Sch. 11 para. 26 inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/b)
+[^c-25abdcce468d8cc6a431f42964bfd5d2]: Textual amendment: Words in Sch. 11 para. 26 inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/b)
 
-[^key-f1b9ee911021adb4f2dd0afac517646f]: Textual amendment: Words in Sch. 11 para. 26 inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(c)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/c)
+[^c-f1b9ee911021adb4f2dd0afac517646f]: Textual amendment: Words in Sch. 11 para. 26 inserted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(c)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/c)
 
-[^key-41209256ff670ce8c4f44f12eaf86ff6]: Textual amendment: Words in Sch. 11 para. 26 substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(d)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/d)
+[^c-41209256ff670ce8c4f44f12eaf86ff6]: Textual amendment: Words in Sch. 11 para. 26 substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 28(d)](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/28/d)
 
 [^c6579611]: Commencement: Sch. 11 wholly in force at 6.4.2005; Sch. 11 in force at Royal Assent for specified purposes and otherwise at 6.4.2005 see s. 322
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Investigation and enforcement costs[^key-48ff24e5af914e2098f0e9eab91c658b]
+## 42. Investigation and enforcement costs[^c-48ff24e5af914e2098f0e9eab91c658b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48ff24e5af914e2098f0e9eab91c658b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2005/16/section/42) in force at 18.10.2005 by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2896/article/2/a)
+[^c-48ff24e5af914e2098f0e9eab91c658b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2005/16/section/42) in force at 18.10.2005 by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2896/article/2/a)

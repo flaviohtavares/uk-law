@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Suspension of police and crime commissioner[^key-b6f4364fb1760e197a5c27245ddeeefb][^key-ad462868fe279848466787af3197fd86][^key-de8e0da5757be63b3ec331d41d949ce7]
+## 30. Suspension of police and crime commissioner[^c-b6f4364fb1760e197a5c27245ddeeefb][^c-ad462868fe279848466787af3197fd86][^c-de8e0da5757be63b3ec331d41d949ce7]
 
 *Extent: E+W*
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b6f4364fb1760e197a5c27245ddeeefb]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2011/13/section/30) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-b6f4364fb1760e197a5c27245ddeeefb]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2011/13/section/30) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
 
-[^key-ad462868fe279848466787af3197fd86]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/2011/13/section/30) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/25)
+[^c-ad462868fe279848466787af3197fd86]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/2011/13/section/30) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/25)
 
-[^key-de8e0da5757be63b3ec331d41d949ce7]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/2011/13/section/30) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 25](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/25) (as amended (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [14](https://www.legislation.gov.uk/uksi/2024/414/article/14))
+[^c-de8e0da5757be63b3ec331d41d949ce7]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/2011/13/section/30) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 25](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/25) (as amended (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [14](https://www.legislation.gov.uk/uksi/2024/414/article/14))

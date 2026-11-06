@@ -35,18 +35,18 @@ concerning the accession of Bulgaria and Romania to the Convention of 18 Decembe
 
 (2008/39/JHA) (revoked)
 
-[^key-dd5721c04e8f6e11cc3610f00ce346e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd5721c04e8f6e11cc3610f00ce346e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-dd5721c04e8f6e11cc3610f00ce346e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd5721c04e8f6e11cc3610f00ce346e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd5721c04e8f6e11cc3610f00ce346e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd5721c04e8f6e11cc3610f00ce346e7]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd5721c04e8f6e11cc3610f00ce346e7]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Notification of combined operations[^key-3cd09e72fd71eedd416132a7c3e61825]
+## 22. Notification of combined operations[^c-3cd09e72fd71eedd416132a7c3e61825]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd09e72fd71eedd416132a7c3e61825]: Commencement: Reg. 22 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-3cd09e72fd71eedd416132a7c3e61825]: Commencement: Reg. 22 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

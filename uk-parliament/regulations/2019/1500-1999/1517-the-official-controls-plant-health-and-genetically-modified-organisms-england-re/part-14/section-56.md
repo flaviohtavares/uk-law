@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Review[^key-506ff7da9e5858a06f266909ddfb6935]
+## 56. Review[^c-506ff7da9e5858a06f266909ddfb6935]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-506ff7da9e5858a06f266909ddfb6935]: Commencement: Reg. 56 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-506ff7da9e5858a06f266909ddfb6935]: Commencement: Reg. 56 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956361]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26); section 30(3) was amended by section 19 of the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Measures when meat and eggs have been traced[^key-837b3252955127eab442bbc9101e3f05]
+## 24. Measures when meat and eggs have been traced[^c-837b3252955127eab442bbc9101e3f05]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-837b3252955127eab442bbc9101e3f05]: Commencement: Reg. 24 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-837b3252955127eab442bbc9101e3f05]: Commencement: Reg. 24 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 13. Delegation by instrument of certain functions to suffragan bishop or assistant bishop[^key-15983ee2496676f8238c2e18f27a2a08]
+## 13. Delegation by instrument of certain functions to suffragan bishop or assistant bishop[^c-15983ee2496676f8238c2e18f27a2a08]
 
 *Extent: E*
 
-(1) Subject to the provisions of this section, the bishop of a diocese may by an instrument under his hand delegate to a suffragan bishop of the diocese such of his functions as may be specified in the instrument[^key-b170519cb9a2b39755a4c13f092846cb]....
+(1) Subject to the provisions of this section, the bishop of a diocese may by an instrument under his hand delegate to a suffragan bishop of the diocese such of his functions as may be specified in the instrument[^c-b170519cb9a2b39755a4c13f092846cb]....
 
 (2) Such instrument may provide for the discharge of any function specified therein to be subject to such conditions as may be so specified.
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15983ee2496676f8238c2e18f27a2a08]: Commencement: S. 13 in force at 1.5.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-15983ee2496676f8238c2e18f27a2a08]: Commencement: S. 13 in force at 1.5.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-b170519cb9a2b39755a4c13f092846cb]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukcm/2007/1/section/13/1) omitted (25.1.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 6(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/6/2), [22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)
+[^c-b170519cb9a2b39755a4c13f092846cb]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukcm/2007/1/section/13/1) omitted (25.1.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 6(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/6/2), [22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)

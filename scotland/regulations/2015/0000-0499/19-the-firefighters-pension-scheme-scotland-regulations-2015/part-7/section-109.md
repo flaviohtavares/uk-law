@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Commutation of part of pension[^key-79604aa34604648ca5edd60f9dadc973][^key-f7f3b2a4bdaa9275a46a173ebdc0c6ad][^key-64a0d4a5a2a4df5e9ea7a4a30eb2c7b6]
+## 109. Commutation of part of pension[^c-79604aa34604648ca5edd60f9dadc973][^c-f7f3b2a4bdaa9275a46a173ebdc0c6ad][^c-64a0d4a5a2a4df5e9ea7a4a30eb2c7b6]
 
 *Extent: S*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-79604aa34604648ca5edd60f9dadc973]: Commencement: [Reg. 109](https://www.legislation.gov.uk/ssi/2015/19/regulation/109) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-79604aa34604648ca5edd60f9dadc973]: Commencement: [Reg. 109](https://www.legislation.gov.uk/ssi/2015/19/regulation/109) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-f7f3b2a4bdaa9275a46a173ebdc0c6ad]: Modification: [Reg. 109](https://www.legislation.gov.uk/ssi/2015/19/regulation/109) applied (1.4.2015) by [S.S.I.2006/338](https://www.legislation.gov.uk/ssi/2006/338), [Sch. 1 Scheme Pt. 8 rule 2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/338/schedule/1/schedule) as substituted by [The Firefighters’ Compensation Scheme and Pension Scheme (Amendment) (Scotland) Order 2015 (S.S.I. 2015/143)](https://www.legislation.gov.uk/ssi/2015/143), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2015/143/article/1/3), [9(c)](https://www.legislation.gov.uk/ssi/2015/143/article/9/c))
+[^c-f7f3b2a4bdaa9275a46a173ebdc0c6ad]: Modification: [Reg. 109](https://www.legislation.gov.uk/ssi/2015/19/regulation/109) applied (1.4.2015) by [S.S.I.2006/338](https://www.legislation.gov.uk/ssi/2006/338), [Sch. 1 Scheme Pt. 8 rule 2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/338/schedule/1/schedule) as substituted by [The Firefighters’ Compensation Scheme and Pension Scheme (Amendment) (Scotland) Order 2015 (S.S.I. 2015/143)](https://www.legislation.gov.uk/ssi/2015/143), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2015/143/article/1/3), [9(c)](https://www.legislation.gov.uk/ssi/2015/143/article/9/c))
 
-[^key-64a0d4a5a2a4df5e9ea7a4a30eb2c7b6]: Modification: [Reg. 109](https://www.legislation.gov.uk/ssi/2015/19/regulation/109) applied (1.4.2015) by [S.S.I. 2006/338](https://www.legislation.gov.uk/ssi/2006/338), [Sch. 1 Scheme Pt. 8 rule 2(3)(c)](https://www.legislation.gov.uk/ssi/2006/338/schedule/1/schedule) as substituted by [The Firefighters’ Compensation Scheme and Pension Scheme (Amendment) (Scotland) Order 2015 (S.S.I. 2015/143)](https://www.legislation.gov.uk/ssi/2015/143), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2015/143/article/1/3), [9(b)](https://www.legislation.gov.uk/ssi/2015/143/article/9/b))
+[^c-64a0d4a5a2a4df5e9ea7a4a30eb2c7b6]: Modification: [Reg. 109](https://www.legislation.gov.uk/ssi/2015/19/regulation/109) applied (1.4.2015) by [S.S.I. 2006/338](https://www.legislation.gov.uk/ssi/2006/338), [Sch. 1 Scheme Pt. 8 rule 2(3)(c)](https://www.legislation.gov.uk/ssi/2006/338/schedule/1/schedule) as substituted by [The Firefighters’ Compensation Scheme and Pension Scheme (Amendment) (Scotland) Order 2015 (S.S.I. 2015/143)](https://www.legislation.gov.uk/ssi/2015/143), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2015/143/article/1/3), [9(b)](https://www.legislation.gov.uk/ssi/2015/143/article/9/b))

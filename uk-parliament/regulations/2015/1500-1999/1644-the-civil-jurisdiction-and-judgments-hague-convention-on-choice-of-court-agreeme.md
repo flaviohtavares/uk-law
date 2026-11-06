@@ -44,9 +44,9 @@ Coming into force
 
 1st October 2015
 
-The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to private international law[^f00002], makes the following Regulations in exercise of the power under section 2(2) of that Act.[^key-fbcfc26ac0f3246bedc32934e7bf4b6d]
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to private international law[^f00002], makes the following Regulations in exercise of the power under section 2(2) of that Act.[^c-fbcfc26ac0f3246bedc32934e7bf4b6d]
 
-## 1. Citation, commencement and extent[^key-11df0f9e76b8302fd66560c45fe6beb6]
+## 1. Citation, commencement and extent[^c-11df0f9e76b8302fd66560c45fe6beb6]
 
 (1) These Regulations may be cited as the Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) Regulations 2015, and come into force on 1st October 2015.
 
@@ -58,11 +58,11 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 (5) Regulation 23 extends to England and Wales only.
 
-## 2. Amendments to the Civil Jurisdiction and Judgments Act 1982[^key-5b27274db24e03308985f78b0bc75c0b]
+## 2. Amendments to the Civil Jurisdiction and Judgments Act 1982[^c-5b27274db24e03308985f78b0bc75c0b]
 
 The Civil Jurisdiction and Judgments Act 1982[^f00003] is amended in accordance with regulations 3 to 20.
 
-## 3. Interpretation of references to the Hague Convention on Choice of Court Agreements 2005 and its Contracting States[^key-be8c94364a00aa618bd67c3646a8d16f]
+## 3. Interpretation of references to the Hague Convention on Choice of Court Agreements 2005 and its Contracting States[^c-be8c94364a00aa618bd67c3646a8d16f]
 
 (1) Section 1 (interpretation of references to the Conventions and Contracting States)[^f00004] is amended as follows.
 
@@ -99,7 +99,7 @@ The Civil Jurisdiction and Judgments Act 1982[^f00003] is amended in accordance 
 
   .
 
-## 4. Registration and enforcement of judgments under the 2005 Hague Convention[^key-808a6dd4a20e36c5225bc26fc580bbb6]
+## 4. Registration and enforcement of judgments under the 2005 Hague Convention[^c-808a6dd4a20e36c5225bc26fc580bbb6]
 
 After section 4A (enforcement of judgments, other than maintenance orders, under the Lugano Convention)[^f00006] insert—
 
@@ -124,7 +124,7 @@ After section 4A (enforcement of judgments, other than maintenance orders, under
 
 .
 
-## 5. Appeals in relation to registration of judgments under the 2005 Hague Convention[^key-ad11a35edea1e338575508949403ed1b]
+## 5. Appeals in relation to registration of judgments under the 2005 Hague Convention[^c-ad11a35edea1e338575508949403ed1b]
 
 After section 6A (appeals under Article 44 and Annex IV of the Lugano Convention)[^f00007] insert—
 
@@ -152,15 +152,15 @@ After section 6A (appeals under Article 44 and Annex IV of the Lugano Convention
 
 .
 
-## 6. Interest on registered judgments[^key-da08be8c36a0a4ad7994b7ec22feb612]
+## 6. Interest on registered judgments[^c-da08be8c36a0a4ad7994b7ec22feb612]
 
 In section 7(1) and (5) (interest on registered judgments)[^f00009], after “4A,” insert “4B,”.
 
-## 7. Provisions supplementary to Article 26 of the 2005 Hague Convention[^key-32b24055a4ab559ade00b4f527cf40d4]
+## 7. Provisions supplementary to Article 26 of the 2005 Hague Convention[^c-32b24055a4ab559ade00b4f527cf40d4]
 
 In section 9 (provisions supplementary to Title VII of 1968 Convention)[^f00010] after “Lugano Convention” insert “and Article 26 of the 2005 Hague Convention”.
 
-## 8. Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention[^key-6e3e0afa58e7dc07851e41d0b6f94c2b]
+## 8. Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention[^c-6e3e0afa58e7dc07851e41d0b6f94c2b]
 
 After section 11A (proof and admissibility of certain judgments and related documents for the purposes of the Lugano Convention)[^f00011] insert—
 
@@ -180,11 +180,11 @@ After section 11A (proof and admissibility of certain judgments and related docu
 
 .
 
-## 9. Provision for issue of copies of, and certificates in connection with, United Kingdom judgments[^key-0fed641a883fb48c1c401234073b470d]
+## 9. Provision for issue of copies of, and certificates in connection with, United Kingdom judgments[^c-0fed641a883fb48c1c401234073b470d]
 
 In section 12 (provision for issue of copies of, and certificates in connection with, UK judgments)[^f00012], for “or the Lugano Convention” substitute “, the Lugano Convention or the 2005 Hague Convention”.
 
-## 10. Interpretation of Part 1 of the Civil Jurisdiction and Judgments Act 1982[^key-9e0629b5c5c7388747ab6071acca983b]
+## 10. Interpretation of Part 1 of the Civil Jurisdiction and Judgments Act 1982[^c-9e0629b5c5c7388747ab6071acca983b]
 
 (1) Section 15 (interpretation of Part 1 and consequential amendments)[^f00013] is amended as follows.
 
@@ -192,15 +192,15 @@ In section 12 (provision for issue of copies of, and certificates in connection 
 
 (3) In subsection (2), after “4A,” insert “4B,”.
 
-## 11. Allocation within United Kingdom of jurisdiction in certain civil proceedings[^key-cff5cfa0663fbd859ad179bd7698dcbe]
+## 11. Allocation within United Kingdom of jurisdiction in certain civil proceedings[^c-cff5cfa0663fbd859ad179bd7698dcbe]
 
 In section 16(4) (allocation within the UK of jurisdiction in certain civil proceedings)[^f00014], for “and the Lugano Convention” substitute “, the Lugano Convention and the 2005 Hague Convention”.
 
-## 12. Interim relief and protective measures in cases of doubtful jurisdiction[^key-97b01a91b5b9a3beb9b953b332cbd13f]
+## 12. Interim relief and protective measures in cases of doubtful jurisdiction[^c-97b01a91b5b9a3beb9b953b332cbd13f]
 
 In section 24(1)(c) and (2)(c) (interim relief and protective measures in cases of doubtful jurisdiction)[^f00015] after “the Lugano Convention” insert “or the 2005 Hague Convention”.
 
-## 13. Interim relief in England and Wales and Northern Ireland in the absence of substantive proceedings[^key-a1f6cbde1521c46c7ba201d0a79bef0e]
+## 13. Interim relief in England and Wales and Northern Ireland in the absence of substantive proceedings[^c-a1f6cbde1521c46c7ba201d0a79bef0e]
 
 *Extent: E+W+N.I.*
 
@@ -219,7 +219,7 @@ In section 24(1)(c) and (2)(c) (interim relief and protective measures in cases 
 - (a) for “or the Lugano Convention” substitute “, the Lugano Convention”; and
 - (b) at the end insert “or the 2005 Hague Convention as determined by Articles 1 and 2 of the 2005 Hague Convention.”.
 
-## 14. Provisional and protective measures in Scotland in the absence of substantive proceedings[^key-2687dd5cfb00abbcd7c8d49f28280195]
+## 14. Provisional and protective measures in Scotland in the absence of substantive proceedings[^c-2687dd5cfb00abbcd7c8d49f28280195]
 
 *Extent: S*
 
@@ -244,21 +244,21 @@ In section 24(1)(c) and (2)(c) (interim relief and protective measures in cases 
 - (a) for “or Maintenance Regulation State” substitute “, Maintenance Regulation State”; and
 - (b) at the end insert “or a 2005 Hague Convention State”.
 
-## 15. Application of section 1 of the Administration of Justice (Scotland) Act 1972[^key-15c5548ab2bd5e8c94b50234cbe87019]
+## 15. Application of section 1 of the Administration of Justice (Scotland) Act 1972[^c-15c5548ab2bd5e8c94b50234cbe87019]
 
 *Extent: S*
 
 In section 28(1) (application of section 1 of the Administration of Justice (Scotland) Act 1979)[^f00018] after “a Regulation State” insert “, in a 2005 Hague Convention State”.
 
-## 16. Overseas judgments given in proceedings brought in breach of agreement for settlement of disputes[^key-789117d938a76be47458579face5f599]
+## 16. Overseas judgments given in proceedings brought in breach of agreement for settlement of disputes[^c-789117d938a76be47458579face5f599]
 
 In section 32(4)(a) (overseas judgments given in proceedings brought in breach of agreement for settlement of disputes)[^f00019] after “under” insert “the 2005 Hague Convention,”.
 
-## 17. Certain steps not to amount to submission to jurisdiction of overseas court[^key-97064ba114e6dc469bf4c4aa91800bdc]
+## 17. Certain steps not to amount to submission to jurisdiction of overseas court[^c-97064ba114e6dc469bf4c4aa91800bdc]
 
 At the end of section 33(2) (certain steps not to amount to submission to jurisdiction of overseas court)[^f00020] insert “or the 2005 Hague Convention”.
 
-## 18. Matters for which rules of court may provide[^key-11baa45a6812503173bd19258683748b]
+## 18. Matters for which rules of court may provide[^c-11baa45a6812503173bd19258683748b]
 
 For section 48(1) (matters for which rules of court may provide)[^f00021] substitute—
 
@@ -266,11 +266,11 @@ For section 48(1) (matters for which rules of court may provide)[^f00021] substi
 
 .
 
-## 19. Saving for powers to stay, sist, strike out or dismiss proceedings[^key-11f78dc271acbc9131e7dcf27faf85b5]
+## 19. Saving for powers to stay, sist, strike out or dismiss proceedings[^c-11f78dc271acbc9131e7dcf27faf85b5]
 
 At the end of section 49 (saving for powers to stay, sist, strike out or dismiss proceedings)[^f00022] insert “or the 2005 Hague Convention”.
 
-## 20. Interpretation: general[^key-b97d28032e5f82f4052a0b7df79c5d56]
+## 20. Interpretation: general[^c-b97d28032e5f82f4052a0b7df79c5d56]
 
 In section 50 (interpretation: general)[^f00023], at the appropriate place insert—
 
@@ -279,29 +279,29 @@ In section 50 (interpretation: general)[^f00023], at the appropriate place inser
 
 .
 
-## 21. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^key-5ddd41c4fba8df34a265c7bf697b5dbf]
+## 21. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^c-5ddd41c4fba8df34a265c7bf697b5dbf]
 
 *Extent: E+W+N.I.*
 
 In article 2(a) of the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^f00024] after “Lugano Convention” insert “, a 2005 Hague Convention State”.
 
-## 22. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^key-565993811e662c8246dea4ba68466cc1]
+## 22. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^c-565993811e662c8246dea4ba68466cc1]
 
 *Extent: S*
 
 In articles 2(a) and 3 of the Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^f00025] for the words from “or” to “Convention” substitute “Contracting State, a State bound by the Lugano Convention or a 2005 Hague Convention State”.
 
-## 23. Amendments to the Civil Procedure Rules 1998[^key-b0731cb065c9ef145a106b0e34e14f35]
+## 23. Amendments to the Civil Procedure Rules 1998[^c-b0731cb065c9ef145a106b0e34e14f35]
 
 *Extent: E+W*
 
 The Civil Procedure Rules 1998[^f00026] are amended in accordance with the Schedule.
 
-## 24. Provisions relating to court settlements[^key-8ac3e477378b85cdf8f259c8bac82f5b]
+## 24. Provisions relating to court settlements[^c-8ac3e477378b85cdf8f259c8bac82f5b]
 
 The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 1993[^f00027] does not apply in relation to the 2005 Hague Convention.
 
-## 25. Application of provisions of the Civil Jurisdiction and Judgments Act 1982 to judicial settlements[^key-c37e999ed8834fe39e5d42cdb66b1769]
+## 25. Application of provisions of the Civil Jurisdiction and Judgments Act 1982 to judicial settlements[^c-c37e999ed8834fe39e5d42cdb66b1769]
 
 (1) In this regulation—
 
@@ -326,13 +326,13 @@ Ministry of Justice
 
 Regulation 23
 
-**1.**[^key-0c3431a6fe2941c8119985c1cb80cc7d] At the end of rule 6.31 (interpretation)[^f00033] insert—
+**1.**[^c-0c3431a6fe2941c8119985c1cb80cc7d] At the end of rule 6.31 (interpretation)[^f00033] insert—
 
 > - (k) “the 2005 Hague Convention” means the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague.
 
 .
 
-**2.**[^key-2b2205eed17ac1cf4d7dda329965438b] (1) Rule 6.33 (service of the claim form where the permission of the court is not required – out of the United Kingdom)[^f00034] is amended as follows.
+**2.**[^c-2b2205eed17ac1cf4d7dda329965438b] (1) Rule 6.33 (service of the claim form where the permission of the court is not required – out of the United Kingdom)[^f00034] is amended as follows.
 
 (2) After paragraph (2A) insert—
 
@@ -342,13 +342,13 @@ Regulation 23
 
 (3) In paragraph (3) for “or the Lugano Convention or the Judgments Regulation” substitute “, the Lugano Convention, the 2005 Hague Convention, or the Judgments Regulation”.
 
-**3.**[^key-1111871ef6745d85e090835a7a07eb35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1111871ef6745d85e090835a7a07eb35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-be08bad6f8251c2dff1c244d9fdee350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-be08bad6f8251c2dff1c244d9fdee350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c099c63907f8912d4d59500a211b9c26] In rule 25.13(2)(a)(ii) (conditions to be satisfied)[^f00037] after ”Lugano Convention” insert “, a State bound by the 2005 Hague Convention”.
+**5.**[^c-c099c63907f8912d4d59500a211b9c26] In rule 25.13(2)(a)(ii) (conditions to be satisfied)[^f00037] after ”Lugano Convention” insert “, a State bound by the 2005 Hague Convention”.
 
-**6.**[^key-ebd852f7b1a1e9fe5fef8a0cf6afa1e2] In rule 74.1(5) (scope of Part 74 and interpretation)[^f00038] at the end insert—
+**6.**[^c-ebd852f7b1a1e9fe5fef8a0cf6afa1e2] In rule 74.1(5) (scope of Part 74 and interpretation)[^f00038] at the end insert—
 
 > ;
 >
@@ -356,25 +356,25 @@ Regulation 23
 
 .
 
-**7.**[^key-f3811d103b43f3193efc06b50bded2f7] In rule 74.3(1) (applications for registration)[^f00039] for subparagraph (c) substitute—
+**7.**[^c-f3811d103b43f3193efc06b50bded2f7] In rule 74.3(1) (applications for registration)[^f00039] for subparagraph (c) substitute—
 
 > - (c) sections 4 and 4B of the 1982 Act; and
 
 .
 
-**8.**[^key-3f379efff743d3f0bcdd3d779522ebd2] In rule 74.4 (evidence in support)[^f00040] after paragraph (5) insert—
+**8.**[^c-3f379efff743d3f0bcdd3d779522ebd2] In rule 74.4 (evidence in support)[^f00040] after paragraph (5) insert—
 
 > (5A) Written evidence in support of an application under section 4B of the 1982 Act (registration and enforcement of judgments under the 2005 Hague Convention) must also include any other evidence required by Article 13 of the 2005 Hague Convention.
 
 .
 
-**9.**[^key-6944c6f6a8f17be9293fb8cc1435d734] (1) Rule 74.10 (recognition)[^f00041] is amended as follows.
+**9.**[^c-6944c6f6a8f17be9293fb8cc1435d734] (1) Rule 74.10 (recognition)[^f00041] is amended as follows.
 
 (2) In paragraph (1), for the words “and the Lugano Convention” substitute “, the Lugano Convention and the 2005 Hague Convention”.
 
 (3) In paragraph (2), for “or the Lugano Convention” substitute “the Lugano Convention or the 2005 Hague Convention”.
 
-**10.**[^key-85de3ac671e0286604cb217cea58987e] (1) In rule 74.11 (authentic instruments and court settlements)[^f00042] in paragraph (b)—
+**10.**[^c-85de3ac671e0286604cb217cea58987e] (1) In rule 74.11 (authentic instruments and court settlements)[^f00042] in paragraph (b)—
 
 - (i) at the end of subparagraph (ii) omit “and”; and
 - (ii) at the end of subparagraph (iii) insert—
@@ -403,107 +403,107 @@ A regulatory impact assessment has not been prepared for this instrument as it h
 
 [^f00002]: Footnote: The European Communities (Designation) (No. 2) Order 2008 ([S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792)). Under section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to implementation of obligations under European Union law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland. Implementation of obligations under European Union law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No. 2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the European Communities (Designation) (No. 5) Order 2010 ([S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690)) as that designation does not restrict the scope of other designations.
 
-[^key-fbcfc26ac0f3246bedc32934e7bf4b6d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/1644) applied (with modifications) (31.12.2020) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018 (S.I. 2018/1124)](https://www.legislation.gov.uk/uksi/2018/1124), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1124/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/2); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbcfc26ac0f3246bedc32934e7bf4b6d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/1644) applied (with modifications) (31.12.2020) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018 (S.I. 2018/1124)](https://www.legislation.gov.uk/uksi/2018/1124), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1124/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/2); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11df0f9e76b8302fd66560c45fe6beb6]: Commencement: Reg. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-11df0f9e76b8302fd66560c45fe6beb6]: Commencement: Reg. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
-[^key-5b27274db24e03308985f78b0bc75c0b]: Commencement: Reg. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-5b27274db24e03308985f78b0bc75c0b]: Commencement: Reg. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00003]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27).
 
-[^key-be8c94364a00aa618bd67c3646a8d16f]: Commencement: Reg. 3 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-be8c94364a00aa618bd67c3646a8d16f]: Commencement: Reg. 3 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00004]: Footnote: Section 1 was amended by section 2 of the Civil Jurisdiction and Judgments Act [1991 (c. 12)](https://www.legislation.gov.uk/ukpga/1991/12), [S.I. 1989/1346](https://www.legislation.gov.uk/uksi/1989/1346), [1990/2591](https://www.legislation.gov.uk/uksi/1990/2591), [2000/1824](https://www.legislation.gov.uk/uksi/2000/1824), [2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131), [2011/1215](https://www.legislation.gov.uk/uksi/2011/1215), [2012/1770](https://www.legislation.gov.uk/uksi/2012/1770), [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809) and [2014/2947](https://www.legislation.gov.uk/uksi/2014/2947).
 
 [^f00005]: Footnote: For the text of the Convention see Annex 1 to Council Decision [2009/397/EC](https://www.legislation.gov.uk/european/decision/2009/0397) of 26th February 2009 on the signing on behalf of the European Community of the Convention on Choice of Court Agreements OJ No. L 133, 29.5.2009, p1.
 
-[^key-808a6dd4a20e36c5225bc26fc580bbb6]: Commencement: Reg. 4 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-808a6dd4a20e36c5225bc26fc580bbb6]: Commencement: Reg. 4 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00006]: Footnote: Section 4A was inserted by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-ad11a35edea1e338575508949403ed1b]: Commencement: Reg. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-ad11a35edea1e338575508949403ed1b]: Commencement: Reg. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00007]: Footnote: Section 6A was inserted by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and amended by section 17(6) of, and Schedule 11 Part 1 paragraph 86(1) and (12) to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
 [^f00008]: Footnote: [1969 (c. 58)](https://www.legislation.gov.uk/ukpga/1969/58).
 
-[^key-da08be8c36a0a4ad7994b7ec22feb612]: Commencement: Reg. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-da08be8c36a0a4ad7994b7ec22feb612]: Commencement: Reg. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00009]: Footnote: Section 7 was amended by section 17(6) of, and Schedule 11 Part 1 paragraph 86(1) and (13) to, the Crime and Courts Act 2013 and [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-32b24055a4ab559ade00b4f527cf40d4]: Commencement: Reg. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-32b24055a4ab559ade00b4f527cf40d4]: Commencement: Reg. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00010]: Footnote: Section 9 was amended by sections 1 and 3 of, and Schedule 2 paragraph 4 to, the Civil Jurisdiction and Judgments Act 1991, [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-6e3e0afa58e7dc07851e41d0b6f94c2b]: Commencement: Reg. 8 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-6e3e0afa58e7dc07851e41d0b6f94c2b]: Commencement: Reg. 8 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00011]: Footnote: Section 11A was inserted by [S.I. 2009/1313](https://www.legislation.gov.uk/uksi/2009/1313).
 
-[^key-0fed641a883fb48c1c401234073b470d]: Commencement: Reg. 9 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-0fed641a883fb48c1c401234073b470d]: Commencement: Reg. 9 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00012]: Footnote: Section 12 was amended by section 3 of, and Schedule 2 paragraph 7 to, the Civil Jurisdiction and Judgments Act 1991.
 
-[^key-9e0629b5c5c7388747ab6071acca983b]: Commencement: Reg. 10 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-9e0629b5c5c7388747ab6071acca983b]: Commencement: Reg. 10 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00013]: Footnote: Section 15 was amended by section 3 of, and Schedule 2 paragraph 10 to, the Civil Jurisdiction and Judgments Act 1991, section 17 of, and Schedule 11 Part 1 paragraph 86 to, the Crime and Courts Act 2013 and [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-cff5cfa0663fbd859ad179bd7698dcbe]: Commencement: Reg. 11 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-cff5cfa0663fbd859ad179bd7698dcbe]: Commencement: Reg. 11 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00014]: Footnote: Section 16(4) was amended by section 3 of, and Schedule 2 paragraph 11 to, the Civil Jurisdiction and Judgments Act 1991 and [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-97b01a91b5b9a3beb9b953b332cbd13f]: Commencement: Reg. 12 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-97b01a91b5b9a3beb9b953b332cbd13f]: Commencement: Reg. 12 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00015]: Footnote: Section 24 was amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131), [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484) and [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 
-[^key-a1f6cbde1521c46c7ba201d0a79bef0e]: Commencement: Reg. 13 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-a1f6cbde1521c46c7ba201d0a79bef0e]: Commencement: Reg. 13 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00016]: Footnote: Section 25 was amended by section 3 of, and Schedule 2 paragraph 12 to, the Civil Jurisdiction and Judgments Act 1991, section 107 of, and Schedule 4 to, the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-2687dd5cfb00abbcd7c8d49f28280195]: Commencement: Reg. 14 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-2687dd5cfb00abbcd7c8d49f28280195]: Commencement: Reg. 14 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00017]: Footnote: Section 27 was amended by section 3 of, and Schedule 2 paragraph 12 to, the Civil Jurisdiction and Judgments Act 1991, section 226 of, and Schedule 5 paragraph 12 to, the Bankruptcy and Diligence etc (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-15c5548ab2bd5e8c94b50234cbe87019]: Commencement: Reg. 15 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-15c5548ab2bd5e8c94b50234cbe87019]: Commencement: Reg. 15 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00018]: Footnote: Section 28 was amended by section 3 of, and Schedule 2 paragraph 12 to, the Civil Jurisdiction and Judgments Act 1991, [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-789117d938a76be47458579face5f599]: Commencement: Reg. 16 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-789117d938a76be47458579face5f599]: Commencement: Reg. 16 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00019]: Footnote: Section 32(4)(a) was amended by section 3 of, and Schedule 2, paragraph 14 to, the Civil Jurisdiction and Judgments Act 1991, [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484) and [2012/2814](https://www.legislation.gov.uk/uksi/2012/2814).
 
-[^key-97064ba114e6dc469bf4c4aa91800bdc]: Commencement: Reg. 17 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-97064ba114e6dc469bf4c4aa91800bdc]: Commencement: Reg. 17 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00020]: Footnote: Section 33 was amended by section 3 of, and Schedule 2 paragraph 15 to, the Civil Jurisdiction and Judgments Act 1991, [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484) and [2012/2814](https://www.legislation.gov.uk/uksi/2012/2814).
 
-[^key-11baa45a6812503173bd19258683748b]: Commencement: Reg. 18 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-11baa45a6812503173bd19258683748b]: Commencement: Reg. 18 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00021]: Footnote: Section 48(1) was amended by section 3 of, and Schedule 2 paragraph 23 to, the Civil Jurisdiction and Judgments Act 1991, [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2011/1215](https://www.legislation.gov.uk/uksi/2011/1215) and [2012/1770](https://www.legislation.gov.uk/uksi/2012/1770).
 
-[^key-11f78dc271acbc9131e7dcf27faf85b5]: Commencement: Reg. 19 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-11f78dc271acbc9131e7dcf27faf85b5]: Commencement: Reg. 19 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00022]: Footnote: Section 49 was amended by section 3 of, and Schedule 2 paragraph 24 to, the Civil Jurisdiction and Judgments Act 1991.
 
-[^key-b97d28032e5f82f4052a0b7df79c5d56]: Commencement: Reg. 20 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-b97d28032e5f82f4052a0b7df79c5d56]: Commencement: Reg. 20 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00023]: Footnote: Section 50 was amended by section 3 of, and Schedule 2 paragraph 25 to, the Civil Jurisdiction and Judgments Act 1991, section 145 of, and Schedule 17 Part 2 paragraph 23 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 17 of, and Schedule 11 Part 1 paragraph 86 to, the Crime and Courts Act 2013, [S.I. 1990/2591](https://www.legislation.gov.uk/uksi/1990/2591), [2000/1824](https://www.legislation.gov.uk/uksi/2000/1824), [2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131), [2011/1215](https://www.legislation.gov.uk/uksi/2011/1215) and [2012/1770](https://www.legislation.gov.uk/uksi/2012/1770).
 
-[^key-5ddd41c4fba8df34a265c7bf697b5dbf]: Commencement: Reg. 21 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-5ddd41c4fba8df34a265c7bf697b5dbf]: Commencement: Reg. 21 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00024]: Footnote: [S.I 1997/302](https://www.legislation.gov.uk/uksi/1997/302). Article 2(a) was amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-565993811e662c8246dea4ba68466cc1]: Commencement: Reg. 22 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-565993811e662c8246dea4ba68466cc1]: Commencement: Reg. 22 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 1997/2780 (S.174)](https://www.legislation.gov.uk/uksi/1997/2780); amended by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-b0731cb065c9ef145a106b0e34e14f35]: Commencement: Reg. 23 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-b0731cb065c9ef145a106b0e34e14f35]: Commencement: Reg. 23 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-8ac3e477378b85cdf8f259c8bac82f5b]: Commencement: Reg. 24 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-8ac3e477378b85cdf8f259c8bac82f5b]: Commencement: Reg. 24 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 1993/604](https://www.legislation.gov.uk/uksi/1993/604).
 
-[^key-c37e999ed8834fe39e5d42cdb66b1769]: Commencement: Reg. 25 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-c37e999ed8834fe39e5d42cdb66b1769]: Commencement: Reg. 25 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00028]: Footnote: Section 4B is inserted by regulation 4.
 
@@ -515,38 +515,38 @@ A regulatory impact assessment has not been prepared for this instrument as it h
 
 [^f00032]: Footnote: Section 48 was amended by section 3 of, and Schedule 2 paragraph 23 to, the Civil Jurisdiction and Judgments Act 1991, section 17 of, and Schedule 11 Part 1 paragraphs 16 and 86 to, the Crime and Courts Act 2013, [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [2011/1215](https://www.legislation.gov.uk/uksi/2011/1215), [2012/1770](https://www.legislation.gov.uk/uksi/2012/1770) and [2014/2947](https://www.legislation.gov.uk/uksi/2014/2947).
 
-[^key-0c3431a6fe2941c8119985c1cb80cc7d]: Commencement: Sch. para. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-0c3431a6fe2941c8119985c1cb80cc7d]: Commencement: Sch. para. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00033]: Footnote: Rule 6.31 was substituted by [S.I. 2008/2178](https://www.legislation.gov.uk/uksi/2008/2178) and amended by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [2014/2948](https://www.legislation.gov.uk/uksi/2014/2948).
 
-[^key-2b2205eed17ac1cf4d7dda329965438b]: Commencement: Sch. para. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-2b2205eed17ac1cf4d7dda329965438b]: Commencement: Sch. para. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00034]: Footnote: Rule 6.33 was substituted by [S.I. 2008/2178](https://www.legislation.gov.uk/uksi/2008/2178) and amended by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [2014/2948](https://www.legislation.gov.uk/uksi/2014/2948).
 
-[^key-1111871ef6745d85e090835a7a07eb35]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1644/schedule/paragraph/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-1111871ef6745d85e090835a7a07eb35]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1644/schedule/paragraph/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-be08bad6f8251c2dff1c244d9fdee350]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1644/schedule/paragraph/4) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-be08bad6f8251c2dff1c244d9fdee350]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1644/schedule/paragraph/4) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-c099c63907f8912d4d59500a211b9c26]: Commencement: Sch. para. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-c099c63907f8912d4d59500a211b9c26]: Commencement: Sch. para. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00037]: Footnote: Rule 25.13 was inserted by [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221) and amended by [S.I. 2002/3219](https://www.legislation.gov.uk/uksi/2002/3219) and [2009/3131](https://www.legislation.gov.uk/uksi/2009/3131).
 
-[^key-ebd852f7b1a1e9fe5fef8a0cf6afa1e2]: Commencement: Sch. para. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-ebd852f7b1a1e9fe5fef8a0cf6afa1e2]: Commencement: Sch. para. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00038]: Footnote: Rule 74.1 was inserted by [S.I.2002/2058](https://www.legislation.gov.uk/uksi/2002/2058) and amended by [S.I. 2005/2292](https://www.legislation.gov.uk/uksi/2005/2292), [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131), [S.I. 2014/2948](https://www.legislation.gov.uk/uksi/2014/2948) and [S.I. 2014/3299](https://www.legislation.gov.uk/uksi/2014/3299).
 
-[^key-f3811d103b43f3193efc06b50bded2f7]: Commencement: Sch. para. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-f3811d103b43f3193efc06b50bded2f7]: Commencement: Sch. para. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00039]: Footnote: Rule 74.3 was inserted by [S.I. 2002/2058](https://www.legislation.gov.uk/uksi/2002/2058) and amended by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [S.I. 2014/2948](https://www.legislation.gov.uk/uksi/2014/2948).
 
-[^key-3f379efff743d3f0bcdd3d779522ebd2]: Commencement: Sch. para. 8 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-3f379efff743d3f0bcdd3d779522ebd2]: Commencement: Sch. para. 8 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00040]: Footnote: Rule 74.4 was inserted by [S.I. 2002/2058](https://www.legislation.gov.uk/uksi/2002/2058) and amended by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [S.I. 2014/2948](https://www.legislation.gov.uk/uksi/2014/2948).
 
-[^key-6944c6f6a8f17be9293fb8cc1435d734]: Commencement: Sch. para. 9 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-6944c6f6a8f17be9293fb8cc1435d734]: Commencement: Sch. para. 9 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00041]: Footnote: Rule 74.10 was inserted by [S.I. 2002/2058](https://www.legislation.gov.uk/uksi/2002/2058), substituted by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and amended by [S.I. 2014/2948](https://www.legislation.gov.uk/uksi/2014/2948).
 
-[^key-85de3ac671e0286604cb217cea58987e]: Commencement: Sch. para. 10 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
+[^c-85de3ac671e0286604cb217cea58987e]: Commencement: Sch. para. 10 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1)
 
 [^f00042]: Footnote: Rule 74.11 was inserted by [S.I. 2002/2058](https://www.legislation.gov.uk/uksi/2002/2058), substituted by [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and amended by [S.I. 2014/2948](https://www.legislation.gov.uk/uksi/2014/2948).

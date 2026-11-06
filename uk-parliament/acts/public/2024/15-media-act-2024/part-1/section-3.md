@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Public service remits of licensed providers[^key-de7345a7981b66f4bcf8a1c6e092b401][^key-afad9266234ea9af933c506f1f59765e][^key-381cdced5d234382cc6b8cc3e5702ad6]
+## 3. Public service remits of licensed providers[^c-de7345a7981b66f4bcf8a1c6e092b401][^c-afad9266234ea9af933c506f1f59765e][^c-381cdced5d234382cc6b8cc3e5702ad6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-de7345a7981b66f4bcf8a1c6e092b401]: Commencement: S. 3 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-de7345a7981b66f4bcf8a1c6e092b401]: Commencement: S. 3 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-afad9266234ea9af933c506f1f59765e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/15/section/3) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-afad9266234ea9af933c506f1f59765e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/15/section/3) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-381cdced5d234382cc6b8cc3e5702ad6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/15/section/3) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/c)
+[^c-381cdced5d234382cc6b8cc3e5702ad6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/15/section/3) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/c)

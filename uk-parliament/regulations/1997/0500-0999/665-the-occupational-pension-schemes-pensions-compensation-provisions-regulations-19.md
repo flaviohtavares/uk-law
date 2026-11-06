@@ -43,7 +43,7 @@ Coming into force
 
 6th April 1997
 
-The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 56(3), 81(1)(c), (2) and (7), 82(1), 83(2) and (3)(a), 84(1)(b) to (3), 86, 124(1), 125(2) and 174(2) and (3) of the Pensions Act 1995[^c1676702], and of all other powers enabling him in that behalf, having consulted such persons as he considers appropriate[^c1676703], by this instrument, hereby makes the following Regulations:—[^key-7f40dcbd813ab7b9e2ed2f5fd877db7a]
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 56(3), 81(1)(c), (2) and (7), 82(1), 83(2) and (3)(a), 84(1)(b) to (3), 86, 124(1), 125(2) and 174(2) and (3) of the Pensions Act 1995[^c1676702], and of all other powers enabling him in that behalf, having consulted such persons as he considers appropriate[^c1676703], by this instrument, hereby makes the following Regulations:—[^c-7f40dcbd813ab7b9e2ed2f5fd877db7a]
 
 ## 1. Citation, commencement and interpretation
 
@@ -66,7 +66,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - “money purchase benefits" has the meaning given in section 181(1) of the 1993 Act;
 - “money purchase scheme" means an occupational pension scheme under which all the benefits that may be provided other than death benefits are money purchase benefits;
 - “normal pension age" has the meaning given by section 180 of the 1993 Act;
-- “reference banks” means the four largest persons for the time being who—[^key-849afb28a6a8e27a30e337f2a717c6ad]
+- “reference banks” means the four largest persons for the time being who—[^c-849afb28a6a8e27a30e337f2a717c6ad]
   - (a) have permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits,
   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and
   - (c) quote a base rate applicable to sterling deposits;
@@ -74,7 +74,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - “scheme" means an occupational pension scheme which is a trust scheme;
 - “unallocated assets" means any assets of a money purchase scheme which have not been specifically allocated for the provision of benefits to or in respect of members (whether generally or individually).
 
-(2A)[^key-2cfa3d325f6248d3045ff6b7007ba38c] The definition of “reference banks” in paragraph (2) must be read with—
+(2A)[^c-2cfa3d325f6248d3045ff6b7007ba38c] The definition of “reference banks” in paragraph (2) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -112,7 +112,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 For the purposes of section 81(1)(c) (cases where compensation provisions apply: reduction to be attributable to prescribed offence), the prescribed offence is any offence involving dishonesty, and for the avoidance of doubt dishonesty shall include an intent to defraud.
 
-## 3A. Protected liabilities—prescribed class of members[^key-caa38360264f4895f3abdb4221fdb33f][^key-58d3fdc878b1644b4dea5620e960ef0e]
+## 3A. Protected liabilities—prescribed class of members[^c-caa38360264f4895f3abdb4221fdb33f][^c-58d3fdc878b1644b4dea5620e960ef0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,9 +128,9 @@ An application for compensation under section 82 in respect of a scheme may only
 
 (1) If the Board decide to make a payment or payments to the trustees in accordance with section 83, the amount of any such payment or (if there is more than one) the aggregate must be determined in accordance with paragraph (2).
 
-(2) The amount or, as the case may be, the aggregate, shall not exceed the aggregate specified in section 83(3)[^key-0ff48f46fa0271dae7385fb7ffd1ad78], less the amount of any payment already made under section 84 (payments made in anticipation), except to the extent that any such payment has been recovered by the Board.
+(2) The amount or, as the case may be, the aggregate, shall not exceed the aggregate specified in section 83(3)[^c-0ff48f46fa0271dae7385fb7ffd1ad78], less the amount of any payment already made under section 84 (payments made in anticipation), except to the extent that any such payment has been recovered by the Board.
 
-(3) For the purposes of section 83(3)(a) (compensation not to exceed [^key-6e6481f2128f64797e07ddaadc7e373d]... the shortfall at the application date), and subject to paragraph (4), the amount of the shortfall at the application date shall be calculated in accordance with the formula—
+(3) For the purposes of section 83(3)(a) (compensation not to exceed [^c-6e6481f2128f64797e07ddaadc7e373d]... the shortfall at the application date), and subject to paragraph (4), the amount of the shortfall at the application date shall be calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1997/665)
 
@@ -156,11 +156,11 @@ where—
 
 (c)Q is the value of the assets immediately before the application date, as certified by the relevant insurer,and the same principles are used to value the assets for the purposes of P, R and Q.
 
-(5)[^key-d205cef6be3c63aa44cbe1d71c182411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d205cef6be3c63aa44cbe1d71c182411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) For the purposes of section 83(3)(b)[^key-51538c3b64ce9d000f711c77467eee3a] —
+(6) For the purposes of section 83(3)(b)[^c-51538c3b64ce9d000f711c77467eee3a] —
 
-- (a)[^key-c9d1fa27286f03453cf4a0ccfb3e546d] the prescribed rate of interest shall be the base rate plus 2 per cent.;
+- (a)[^c-c9d1fa27286f03453cf4a0ccfb3e546d] the prescribed rate of interest shall be the base rate plus 2 per cent.;
 - (b) the prescribed period by reference to which the rate of interest specified in sub-paragraph (a) is calculated shall commence on the application date and end on the settlement date.
 
 ## 6. Payments made in anticipation
@@ -186,11 +186,11 @@ where—
 - (a) so that, so far as the Board is reasonably able to achieve, the extent to which liabilities specified in paragraph (1) are satisfied after the Board has made a payment under section 83, is undiminished;
 - (b) so as to counter-balance any payments in anticipation made previously which were too great or too small;
 - (c) so as not to exceed the amount required to enable the trustees of the scheme, prior to the settlement date, to meet such liabilities as are specified in paragraph (1); and
-- (d)[^key-7dacb5dc0499af09b8950e8210c6c4ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7dacb5dc0499af09b8950e8210c6c4ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of section 84(3), the prescribed circumstances in which any payment made under section 84(1) may not be recovered, in whole or in part, are where such recovery would cause pensions in payment to be reduced.
 
-## 7. Mixed benefit schemes[^key-5d108b5d4ee12f990720cfaedfd405fe]
+## 7. Mixed benefit schemes[^c-5d108b5d4ee12f990720cfaedfd405fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -223,7 +223,7 @@ the compensation provisions and these Regulations shall apply as if each section
 
 Where a scheme is not an approved scheme but contains a section which, by virtue of section 611(3) of the 1988 Act, is treated by the Board of Inland Revenue as an approved scheme, the compensation provisions and these Regulations shall apply to that section as if it were a separate scheme.
 
-## 10. Modifications for money purchase schemes[^key-4fd8e11a12ca9aceaf9976b1711285fb]
+## 10. Modifications for money purchase schemes[^c-4fd8e11a12ca9aceaf9976b1711285fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -261,7 +261,7 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1676703]: Marginal citation: *See* section 120(1) of the Pensions Act 1995.
 
-[^key-7f40dcbd813ab7b9e2ed2f5fd877db7a]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/665) applied in part (1.10.2000) by [The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)](https://www.legislation.gov.uk/uksi/2000/1403), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2000/1403/regulation/32), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2)
+[^c-7f40dcbd813ab7b9e2ed2f5fd877db7a]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/665) applied in part (1.10.2000) by [The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)](https://www.legislation.gov.uk/uksi/2000/1403), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2000/1403/regulation/32), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2)
 
 [^c1676704]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1).
 
@@ -269,30 +269,30 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1676706]: Marginal citation: The Pensions Compensation Board is established under section 78(1) of the Pensions Act 1995.
 
-[^key-849afb28a6a8e27a30e337f2a717c6ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/665/regulation/1/2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [552(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/552/1)
+[^c-849afb28a6a8e27a30e337f2a717c6ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/665/regulation/1/2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [552(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/552/1)
 
-[^key-2cfa3d325f6248d3045ff6b7007ba38c]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/1997/665/regulation/1/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [552(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/552/2)
+[^c-2cfa3d325f6248d3045ff6b7007ba38c]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/1997/665/regulation/1/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [552(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/552/2)
 
 [^c1676708]: Marginal citation: [S.I. 1991/1614](https://www.legislation.gov.uk/uksi/1991/1614).
 
 [^c1676709]: Marginal citation: Section 611A was inserted by section 75 of and Schedule 6, Part I, paragraphs 1, 15 and 18(1) to the [Finance Act 1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-caa38360264f4895f3abdb4221fdb33f]: Textual amendment: Reg. 3A omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
+[^c-caa38360264f4895f3abdb4221fdb33f]: Textual amendment: Reg. 3A omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
 
-[^key-58d3fdc878b1644b4dea5620e960ef0e]: Textual amendment: Reg. 3A inserted (23.4.2001) by [The Occupational Pension Schemes (Pensions Compensation Provisions) Amendment Regulations 2001 (S.I. 2001/1218)](https://www.legislation.gov.uk/uksi/2001/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1218/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/1218/regulation/2/2)
+[^c-58d3fdc878b1644b4dea5620e960ef0e]: Textual amendment: Reg. 3A inserted (23.4.2001) by [The Occupational Pension Schemes (Pensions Compensation Provisions) Amendment Regulations 2001 (S.I. 2001/1218)](https://www.legislation.gov.uk/uksi/2001/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1218/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/1218/regulation/2/2)
 
-[^key-0ff48f46fa0271dae7385fb7ffd1ad78]: Textual amendment: Words in reg. 5(2) substituted (16.12.2004) by [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/2/a)
+[^c-0ff48f46fa0271dae7385fb7ffd1ad78]: Textual amendment: Words in reg. 5(2) substituted (16.12.2004) by [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/2/a)
 
-[^key-6e6481f2128f64797e07ddaadc7e373d]: Textual amendment: Words in reg. 5(3) omitted (23.4.2001) by virtue of [The Occupational Pension Schemes (Pensions Compensation Provisions) Amendment Regulations 2001 (S.I. 2001/1218)](https://www.legislation.gov.uk/uksi/2001/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1218/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/1218/regulation/2/3/a)
+[^c-6e6481f2128f64797e07ddaadc7e373d]: Textual amendment: Words in reg. 5(3) omitted (23.4.2001) by virtue of [The Occupational Pension Schemes (Pensions Compensation Provisions) Amendment Regulations 2001 (S.I. 2001/1218)](https://www.legislation.gov.uk/uksi/2001/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1218/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/1218/regulation/2/3/a)
 
-[^key-d205cef6be3c63aa44cbe1d71c182411]: Textual amendment: Reg. 5(5) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/2/b)
+[^c-d205cef6be3c63aa44cbe1d71c182411]: Textual amendment: Reg. 5(5) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/2/b)
 
-[^key-51538c3b64ce9d000f711c77467eee3a]: Textual amendment: Words in reg. 5(6) substituted (16.12.2004) by [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/2/c)
+[^c-51538c3b64ce9d000f711c77467eee3a]: Textual amendment: Words in reg. 5(6) substituted (16.12.2004) by [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/2/c)
 
-[^key-c9d1fa27286f03453cf4a0ccfb3e546d]: Textual amendment: Reg. 5(6)(a) substituted (23.4.2001) by [The Occupational Pension Schemes (Pensions Compensation Provisions) Amendment Regulations 2001 (S.I. 2001/1218)](https://www.legislation.gov.uk/uksi/2001/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1218/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2001/1218/regulation/2/3/c)
+[^c-c9d1fa27286f03453cf4a0ccfb3e546d]: Textual amendment: Reg. 5(6)(a) substituted (23.4.2001) by [The Occupational Pension Schemes (Pensions Compensation Provisions) Amendment Regulations 2001 (S.I. 2001/1218)](https://www.legislation.gov.uk/uksi/2001/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1218/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2001/1218/regulation/2/3/c)
 
-[^key-7dacb5dc0499af09b8950e8210c6c4ee]: Textual amendment: [Reg. 6(5)(d)](https://www.legislation.gov.uk/uksi/1997/665/regulation/6/5/d) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
+[^c-7dacb5dc0499af09b8950e8210c6c4ee]: Textual amendment: [Reg. 6(5)(d)](https://www.legislation.gov.uk/uksi/1997/665/regulation/6/5/d) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
 
-[^key-5d108b5d4ee12f990720cfaedfd405fe]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/665/regulation/7) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
+[^c-5d108b5d4ee12f990720cfaedfd405fe]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/665/regulation/7) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
 
-[^key-4fd8e11a12ca9aceaf9976b1711285fb]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1997/665/regulation/10) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)
+[^c-4fd8e11a12ca9aceaf9976b1711285fb]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1997/665/regulation/10) omitted (16.12.2004) by virtue of [The Pensions Act 2004 (Commencement No. 1 and Consequential and Transitional Provisions) Order 2004 (S.I. 2004/3350)](https://www.legislation.gov.uk/uksi/2004/3350), [art. 3(3)](https://www.legislation.gov.uk/uksi/2004/3350/article/3/3)

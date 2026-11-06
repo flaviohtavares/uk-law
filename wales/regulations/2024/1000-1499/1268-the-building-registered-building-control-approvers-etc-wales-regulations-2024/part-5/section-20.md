@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Information to be included in transfer certificates[^key-a107fed7e7e1b7ffa2ceedbdaf2e09af]
+## 20. Information to be included in transfer certificates[^c-a107fed7e7e1b7ffa2ceedbdaf2e09af]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a107fed7e7e1b7ffa2ceedbdaf2e09af]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/1268/regulation/20) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-a107fed7e7e1b7ffa2ceedbdaf2e09af]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/1268/regulation/20) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00043]: Footnote: Section 54B was inserted by section 44(3) of the 2022 Act. Giving a transfer certificate and transfer report to a local authority under section 53B(3) is a restricted function under section 54B of the 1984 Act and regulation 4(2)(f) of [S.I. 2024/238 (W. 48)](https://www.legislation.gov.uk/wsi/2024/238).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16ZA. Provision of information to person supporting victim[^key-7e1a6c8ad51a51918b78c99db907fb32]
+## 16ZA. Provision of information to person supporting victim[^c-7e1a6c8ad51a51918b78c99db907fb32]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e1a6c8ad51a51918b78c99db907fb32]: Textual amendment: [S. 16ZA](https://www.legislation.gov.uk/asp/2003/7/section/16ZA) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(2)](https://www.legislation.gov.uk/asp/2023/4/section/14/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-7e1a6c8ad51a51918b78c99db907fb32]: Textual amendment: [S. 16ZA](https://www.legislation.gov.uk/asp/2003/7/section/16ZA) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(2)](https://www.legislation.gov.uk/asp/2023/4/section/14/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)

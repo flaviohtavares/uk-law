@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018[^key-485d288f33d16f49170f9431130cf3e3]
+## 110. Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018[^c-485d288f33d16f49170f9431130cf3e3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loa
 
 ## Annotations
 
-[^key-485d288f33d16f49170f9431130cf3e3]: Commencement: Reg. 110 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-485d288f33d16f49170f9431130cf3e3]: Commencement: Reg. 110 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00087]: Footnote: [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).

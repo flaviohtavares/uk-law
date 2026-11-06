@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.7. Procedure on plea of guilty[^key-3b1e8940e6ac84f24c1953271500cdf5]
+## 24.7. Procedure on plea of guilty[^c-3b1e8940e6ac84f24c1953271500cdf5]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b1e8940e6ac84f24c1953271500cdf5]: Commencement: [Rule 24.7](https://www.legislation.gov.uk/uksi/2025/909/rule/24.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3b1e8940e6ac84f24c1953271500cdf5]: Commencement: [Rule 24.7](https://www.legislation.gov.uk/uksi/2025/909/rule/24.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00537]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).

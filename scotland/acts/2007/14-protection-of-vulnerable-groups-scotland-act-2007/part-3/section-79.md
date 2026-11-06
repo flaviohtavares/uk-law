@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Form of Part 5 applications[^key-ac72aa9fb5863f783894cc7dd6adadd7]
+## 79. Form of Part 5 applications[^c-ac72aa9fb5863f783894cc7dd6adadd7]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac72aa9fb5863f783894cc7dd6adadd7]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2007/14/section/79) in force at 11.1.2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564), [art. 2](https://www.legislation.gov.uk/ssi/2007/564/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/564/schedule)
+[^c-ac72aa9fb5863f783894cc7dd6adadd7]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2007/14/section/79) in force at 11.1.2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564), [art. 2](https://www.legislation.gov.uk/ssi/2007/564/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/564/schedule)

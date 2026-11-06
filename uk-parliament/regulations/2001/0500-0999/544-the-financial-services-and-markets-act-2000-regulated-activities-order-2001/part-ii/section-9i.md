@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9I. False claims to be a certified person[^key-553740a5a5511f8a0755c9ba7dd31279]
+## 9I. False claims to be a certified person[^c-553740a5a5511f8a0755c9ba7dd31279]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person who is not a certified person is to be treated as guilty of an offence 
 
 ## Annotations
 
-[^key-553740a5a5511f8a0755c9ba7dd31279]: Textual amendment: Pt. 2 Ch. 2A inserted (11.4.2002 for specified purposes, 27.4.2002 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2002/682/article/9), [10](https://www.legislation.gov.uk/uksi/2002/682/article/10))
+[^c-553740a5a5511f8a0755c9ba7dd31279]: Textual amendment: Pt. 2 Ch. 2A inserted (11.4.2002 for specified purposes, 27.4.2002 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2002/682/article/9), [10](https://www.legislation.gov.uk/uksi/2002/682/article/10))

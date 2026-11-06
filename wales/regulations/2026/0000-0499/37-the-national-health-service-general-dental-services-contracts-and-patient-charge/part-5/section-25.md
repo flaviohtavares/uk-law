@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Provision below 95%[^key-670e01228700d71267ca07366ad7fd7f]
+## 25. Provision below 95%[^c-670e01228700d71267ca07366ad7fd7f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-670e01228700d71267ca07366ad7fd7f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2026/37/regulation/25) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-670e01228700d71267ca07366ad7fd7f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2026/37/regulation/25) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

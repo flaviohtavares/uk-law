@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Enforcement of planning obligations[^key-54a1027d236429fa9a47b147e0929c56]
+## 166. Enforcement of planning obligations[^c-54a1027d236429fa9a47b147e0929c56]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54a1027d236429fa9a47b147e0929c56]: Commencement: S. 166 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-54a1027d236429fa9a47b147e0929c56]: Commencement: S. 166 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

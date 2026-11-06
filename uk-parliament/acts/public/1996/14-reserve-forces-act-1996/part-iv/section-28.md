@@ -29,7 +29,7 @@ summary: ''
 
 (3) A special agreement—
 
-- (a) shall specify a period not exceeding 12 months[^key-09dfbdcc543fbe6eb0e847c09d36482f] as the maximum period for which the person concerned may be required to serve on being accepted into service under this Part; and
+- (a) shall specify a period not exceeding 12 months[^c-09dfbdcc543fbe6eb0e847c09d36482f] as the maximum period for which the person concerned may be required to serve on being accepted into service under this Part; and
 - (b) may specify other terms relating to the obligations undertaken by the person entering into it.
 
 (4) A person who has entered into a special agreement—
@@ -43,4 +43,4 @@ in accordance with the terms of the agreement and (subject to those terms), on s
 
 ## Annotations
 
-[^key-09dfbdcc543fbe6eb0e847c09d36482f]: Textual amendment: Words in [s. 28(3)(a)](https://www.legislation.gov.uk/ukpga/1996/14/section/28/3/a) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/1), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-09dfbdcc543fbe6eb0e847c09d36482f]: Textual amendment: Words in [s. 28(3)(a)](https://www.legislation.gov.uk/ukpga/1996/14/section/28/3/a) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/1), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

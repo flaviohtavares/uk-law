@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 275. Development and use of commons, open spaces and allotments[^key-87778e70d03c18284de53ccb9bde0bb4]
+## 275. Development and use of commons, open spaces and allotments[^c-87778e70d03c18284de53ccb9bde0bb4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87778e70d03c18284de53ccb9bde0bb4]: Commencement: S. 275 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-87778e70d03c18284de53ccb9bde0bb4]: Commencement: S. 275 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

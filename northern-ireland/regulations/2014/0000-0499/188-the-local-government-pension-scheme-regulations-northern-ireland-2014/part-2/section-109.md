@@ -31,9 +31,9 @@ summary: ''
 
 (4) Contracted-out rights, in relation to a member, are—
 
-- (a) the member's, and the member's surviving spouse's, civil partner's or [^key-ba2e73b70336212494edb399719534ec]... co-habiting partner's rights to guaranteed minimum pensions; and
+- (a) the member's, and the member's surviving spouse's, civil partner's or [^c-ba2e73b70336212494edb399719534ec]... co-habiting partner's rights to guaranteed minimum pensions; and
 - (b) the member's section 5(2B) rights as defined in regulation 1(2) of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996.
 
 ## Annotations
 
-[^key-ba2e73b70336212494edb399719534ec]: Textual amendment: Word in [reg. 109(4)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/109/4/a) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [29](https://www.legislation.gov.uk/nisr/2019/206/regulation/29)
+[^c-ba2e73b70336212494edb399719534ec]: Textual amendment: Word in [reg. 109(4)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/109/4/a) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [29](https://www.legislation.gov.uk/nisr/2019/206/regulation/29)

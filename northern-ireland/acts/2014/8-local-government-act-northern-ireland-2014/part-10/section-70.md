@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Review of community plan[^key-52e7af9c55d8f4289a96dcaa2b6761b6]
+## 70. Review of community plan[^c-52e7af9c55d8f4289a96dcaa2b6761b6]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e7af9c55d8f4289a96dcaa2b6761b6]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2014/8/section/70) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-52e7af9c55d8f4289a96dcaa2b6761b6]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2014/8/section/70) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

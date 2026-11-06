@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Transitional provision: pending applications for trade licences[^key-84e796301d9ab38d383eff65fcc201ac][^key-654d7742aa725a45cb6f7a1aaae3f8da]
+## 77. Transitional provision: pending applications for trade licences[^c-84e796301d9ab38d383eff65fcc201ac][^c-654d7742aa725a45cb6f7a1aaae3f8da]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84e796301d9ab38d383eff65fcc201ac]: Commencement: Reg. 77 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-84e796301d9ab38d383eff65fcc201ac]: Commencement: Reg. 77 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-654d7742aa725a45cb6f7a1aaae3f8da]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2019/461/regulation/77) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-654d7742aa725a45cb6f7a1aaae3f8da]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2019/461/regulation/77) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

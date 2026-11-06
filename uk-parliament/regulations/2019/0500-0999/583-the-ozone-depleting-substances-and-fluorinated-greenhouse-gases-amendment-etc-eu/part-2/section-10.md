@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Article 11 (production, placing on the market and use of hydrochlorofluorocarbons and placing on the market of products and equipment containing or relying on hydrochlorofluorocarbons)[^key-27b401257c500288bb65c9d65a401830]
+## 10. Article 11 (production, placing on the market and use of hydrochlorofluorocarbons and placing on the market of products and equipment containing or relying on hydrochlorofluorocarbons)[^c-27b401257c500288bb65c9d65a401830]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27b401257c500288bb65c9d65a401830]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-27b401257c500288bb65c9d65a401830]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

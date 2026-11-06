@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104AC. Variation of conditions relating to digital services[^key-a7531b179a9c14abe39c3916fe9b7cdc]
+## 104AC. Variation of conditions relating to digital services[^c-a7531b179a9c14abe39c3916fe9b7cdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7531b179a9c14abe39c3916fe9b7cdc]: Textual amendment: Ss. 104AA-104AC inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/32/2), [47(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/b) (with [s. 32(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/32/3)[(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/32/4))
+[^c-a7531b179a9c14abe39c3916fe9b7cdc]: Textual amendment: Ss. 104AA-104AC inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/32/2), [47(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/b) (with [s. 32(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/32/3)[(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/32/4))

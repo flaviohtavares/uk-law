@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73E. Calculation of an extended payment (qualifying contributory benefits) where the benefit cap applies[^key-c3b1cf023f8b5dcf2be7dd2e4cd30818]
+## 73E. Calculation of an extended payment (qualifying contributory benefits) where the benefit cap applies[^c-c3b1cf023f8b5dcf2be7dd2e4cd30818]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a claimant’s housing benefit in the benefit week with respect to which t
 
 ## Annotations
 
-[^key-c3b1cf023f8b5dcf2be7dd2e4cd30818]: Textual amendment: Reg. 73E inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/4)
+[^c-c3b1cf023f8b5dcf2be7dd2e4cd30818]: Textual amendment: Reg. 73E inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/4)

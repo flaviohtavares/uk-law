@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Tax credits and other repayments: unjust enrichment—reimbursement arrangements to be disregarded[^key-ba14a52a33cd7b54dbe946db5be529fc]
+## 19. Tax credits and other repayments: unjust enrichment—reimbursement arrangements to be disregarded[^c-ba14a52a33cd7b54dbe946db5be529fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this regulation and in regulations 20 to 25—
 
 ## Annotations
 
-[^key-ba14a52a33cd7b54dbe946db5be529fc]: Commencement: Reg. 19 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-ba14a52a33cd7b54dbe946db5be529fc]: Commencement: Reg. 19 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

@@ -300,7 +300,7 @@ The Transfrontier Shipment of Waste Regulations 2007 [^c20243951] are amended by
 
 ## 10. Amendment to the Nitrate Pollution Prevention Regulations 2008
 
-[^key-8195acd5d4e341389e02efa2e6d618c4]...
+[^c-8195acd5d4e341389e02efa2e6d618c4]...
 
 .
 
@@ -360,4 +360,4 @@ A full impact assessment has been prepared and placed in the libraries of both H
 
 [^c20243951]: Marginal citation: [S. I. 2007/1711](https://www.legislation.gov.uk/uksi/2007/1711) to which there are amendments not relevant to these Regulations.
 
-[^key-8195acd5d4e341389e02efa2e6d618c4]: Textual amendment: Reg. 10 revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/1/2), [44(c)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/c)
+[^c-8195acd5d4e341389e02efa2e6d618c4]: Textual amendment: Reg. 10 revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/1/2), [44(c)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Action competent in sheriff court.[^key-2972bac45fa22eb127ef1d9a85be6f77]
+## 6. Action competent in sheriff court.[^c-2972bac45fa22eb127ef1d9a85be6f77]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2972bac45fa22eb127ef1d9a85be6f77]: Textual amendment: [Ss. 4-7](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/4) repealed (1.4.2015 for the repeal of ss. 4-6, 22.9.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 4(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/247/article/3/1))
+[^c-2972bac45fa22eb127ef1d9a85be6f77]: Textual amendment: [Ss. 4-7](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/4) repealed (1.4.2015 for the repeal of ss. 4-6, 22.9.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 4(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/247/article/3/1))

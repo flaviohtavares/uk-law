@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.14. Judgment in favour of certain part owners relating to the detention of goods[^key-44a9e9efc4acc0658a1f7d32a1aa96dd]
+## 40.14. Judgment in favour of certain part owners relating to the detention of goods[^c-44a9e9efc4acc0658a1f7d32a1aa96dd]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ any judgment or order given or made in respect of the claim is to be for the pay
 
 ## Annotations
 
-[^key-44a9e9efc4acc0658a1f7d32a1aa96dd]: Commencement: [Rule 40.14](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.14) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-44a9e9efc4acc0658a1f7d32a1aa96dd]: Commencement: [Rule 40.14](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.14) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
 [^f00051]: Footnote: [1977 c. 32](https://www.legislation.gov.uk/ukpga/1977/32).

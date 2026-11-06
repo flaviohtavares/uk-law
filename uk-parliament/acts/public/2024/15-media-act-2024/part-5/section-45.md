@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Financial assistance for radio[^key-e61954537e4e4f7ea02a30ca0802ef58][^key-cdfb22a5402426924e9bd1e5067295af]
+## 45. Financial assistance for radio[^c-e61954537e4e4f7ea02a30ca0802ef58][^c-cdfb22a5402426924e9bd1e5067295af]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ After section 359 of the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-e61954537e4e4f7ea02a30ca0802ef58]: Commencement: S. 45 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
+[^c-e61954537e4e4f7ea02a30ca0802ef58]: Commencement: S. 45 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
 
-[^key-cdfb22a5402426924e9bd1e5067295af]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2024/15/section/45) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/e)
+[^c-cdfb22a5402426924e9bd1e5067295af]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2024/15/section/45) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Offences and proceedings in connection with parking places provided under Article 10 or 11[^key-82bcc38a6a8a35a918f9020ceee9d1f6]
+## 14. Offences and proceedings in connection with parking places provided under Article 10 or 11[^c-82bcc38a6a8a35a918f9020ceee9d1f6]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ is guilty of an offence.
 - “credit card” means a card or similar thing issued by any person, use of which enables the holder to defer the payment by him of the charge for parking a vehicle; and
 - “debit card” means a card or similar thing issued by any person, use of which by the holder causes the charge for parking a vehicle to be paid by the electronic transfer of funds from a current account at a bank or other institution providing banking services.
 
-(5) A person authorised by the parking authority[^key-edaea48debc7655cffd0bba295ea3b8b] in that behalf or a constable may secure the observance of orders under Article 13 and, where he has reasonable cause to believe that the driver of a vehicle has contravened a provision of an order under that Article, may require the driver to stop the vehicle and provide his name and address.
+(5) A person authorised by the parking authority[^c-edaea48debc7655cffd0bba295ea3b8b] in that behalf or a constable may secure the observance of orders under Article 13 and, where he has reasonable cause to believe that the driver of a vehicle has contravened a provision of an order under that Article, may require the driver to stop the vehicle and provide his name and address.
 
 (6) A person (other than a constable) exercising powers conferred under paragraph (5) shall, on request, produce some document showing that he is authorised by the parking authority to exercise those powers.
 
@@ -61,10 +61,10 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-82bcc38a6a8a35a918f9020ceee9d1f6]: Modification: Arts. 10-14: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
+[^c-82bcc38a6a8a35a918f9020ceee9d1f6]: Modification: Arts. 10-14: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
 
 [^c19206641]: Textual amendment: Art. 14(3)(b) repealed (30.10.2006) by [Traffic Management (Northern Ireland) Order 2005 (S.I. 2005/1964 (N.I. 14))](https://www.legislation.gov.uk/nisi/2005/1964), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1964/article/1/3), [39(c)](https://www.legislation.gov.uk/nisi/2005/1964/article/39/c), [47](https://www.legislation.gov.uk/nisi/2005/1964/article/47), [Sch. 3](https://www.legislation.gov.uk/nisi/2005/1964/schedule/3); [S.R. 2006/347](https://www.legislation.gov.uk/nisr/2006/347), [art. 2](https://www.legislation.gov.uk/nisr/2006/347/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/347/schedule)
 
-[^key-edaea48debc7655cffd0bba295ea3b8b]: Textual amendment: Words in art. 14 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 2(1)](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/2/1)
+[^c-edaea48debc7655cffd0bba295ea3b8b]: Textual amendment: Words in art. 14 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 2(1)](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/2/1)
 
 [^m00011]: Marginal citation: 1968 c. 28 (N.I.).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Provision of infrastructure[^key-b976525c01bb4551d71023d7ad45a61a]
+## 35. Provision of infrastructure[^c-b976525c01bb4551d71023d7ad45a61a]
 
 *Extent: E+W*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b976525c01bb4551d71023d7ad45a61a]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/29/section/35) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-b976525c01bb4551d71023d7ad45a61a]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/29/section/35) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

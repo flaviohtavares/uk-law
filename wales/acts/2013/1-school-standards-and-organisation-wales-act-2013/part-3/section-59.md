@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Making and publication of proposals by Welsh Ministers[^key-8733db716d059a13019ab1fbdbbdc6e6]
+## 59. Making and publication of proposals by Welsh Ministers[^c-8733db716d059a13019ab1fbdbbdc6e6]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8733db716d059a13019ab1fbdbbdc6e6]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2013/1/section/59) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)
+[^c-8733db716d059a13019ab1fbdbbdc6e6]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2013/1/section/59) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)

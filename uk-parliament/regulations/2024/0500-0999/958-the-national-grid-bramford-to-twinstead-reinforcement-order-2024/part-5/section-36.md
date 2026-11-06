@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Extinguishment and suspension of private rights[^key-69e32aa721dd65bae6cffe4d5f03399a]
+## 36. Extinguishment and suspension of private rights[^c-69e32aa721dd65bae6cffe4d5f03399a]
 
 *Extent: E+W*
 
 (1) Subject to the provisions of this article, all private rights and restrictive covenants over land subject to compulsory acquisition under this Order are extinguished or suspended—
 
 - (a) as from the date of acquisition of the land by the undertaker, whether compulsorily or by agreement; or
-- (b) on the date of entry on the land by the undertaker under section 11(1) of the 1965 Act (powers of entry)[^key-72154941ad62c13b55534138c5b453c8],
+- (b) on the date of entry on the land by the undertaker under section 11(1) of the 1965 Act (powers of entry)[^c-72154941ad62c13b55534138c5b453c8],
 
 whichever is the earlier.
 
@@ -64,6 +64,6 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-69e32aa721dd65bae6cffe4d5f03399a]: Commencement: Art. 36 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-69e32aa721dd65bae6cffe4d5f03399a]: Commencement: Art. 36 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-72154941ad62c13b55534138c5b453c8]: Textual amendment: Words in [art. 36(1)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/36/1/b) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-72154941ad62c13b55534138c5b453c8]: Textual amendment: Words in [art. 36(1)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/36/1/b) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

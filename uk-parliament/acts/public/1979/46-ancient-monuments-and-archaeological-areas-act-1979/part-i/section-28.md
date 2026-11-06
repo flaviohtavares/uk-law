@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Offence of damaging certain ancient monuments.[^M_E_f132f54c-107b-4d2a-ca42-74285ee20dba][^c250977][^key-a0b64b5b061e00fc21b706434ae439ae][^key-e563ed869421940ebde7ae9316e990bb][^key-bcfdb6f6f7cabe520c43e348f277f7c6]
+## 28. Offence of damaging certain ancient monuments.[^M_E_f132f54c-107b-4d2a-ca42-74285ee20dba][^c250977][^c-a0b64b5b061e00fc21b706434ae439ae][^c-e563ed869421940ebde7ae9316e990bb][^c-bcfdb6f6f7cabe520c43e348f277f7c6]
 
 *Extent: E+W*
 
-(1) A person who without lawful excuse destroys or damages any protected monument [^key-0121f7b9751a24af9515d7bfeb384ac7]...—
+(1) A person who without lawful excuse destroys or damages any protected monument [^c-0121f7b9751a24af9515d7bfeb384ac7]...—
 
 - (a) knowing that it is a protected monument; and
 - (b) intending to destroy or damage the monument or being reckless as to whether the monument would be destroyed or damaged;
 
 shall be guilty of an offence.
 
-(1A)[^key-924957b73ead6f71a72e225af6ed3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-924957b73ead6f71a72e225af6ed3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) This section applies to anything done by or under the authority of the owner of the monument, other than an act for the execution of excepted works, as it applies to anything done by any other person.
 
-In this subsection “**excepted works**” means works for which scheduled monument consent has been given under this Act (including any consent granted by order under section 3) or for which development consent has been granted[^key-3637f7cb4132bdf86159f38cff096c02].
+In this subsection “**excepted works**” means works for which scheduled monument consent has been given under this Act (including any consent granted by order under section 3) or for which development consent has been granted[^c-3637f7cb4132bdf86159f38cff096c02].
 
 (3) In this section “**protected monument**” means any scheduled monument and any monument under the ownership or guardianship of the Secretary of State or the Commission[^c250978] or a local authority by virtue of this Act.
 
@@ -70,17 +70,17 @@ In this subsection “**excepted works**” means works for which scheduled monu
 
 [^c250977]: Modification: S. 28 excluded (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 12](https://www.legislation.gov.uk/ukpga/1996/61/section/12), [Sch. 7 para. 4(9)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/7/paragraph/4/9)
 
-[^key-a0b64b5b061e00fc21b706434ae439ae]: Modification: S. 28 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(9)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/9)
+[^c-a0b64b5b061e00fc21b706434ae439ae]: Modification: S. 28 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(9)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/9)
 
-[^key-e563ed869421940ebde7ae9316e990bb]: Modification: [S. 28](https://www.legislation.gov.uk/ukpga/1979/46/section/28) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(9)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/9)
+[^c-e563ed869421940ebde7ae9316e990bb]: Modification: [S. 28](https://www.legislation.gov.uk/ukpga/1979/46/section/28) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(9)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/9)
 
-[^key-bcfdb6f6f7cabe520c43e348f277f7c6]: Modification: [S. 28](https://www.legislation.gov.uk/ukpga/1979/46/section/28) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(9)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/9)
+[^c-bcfdb6f6f7cabe520c43e348f277f7c6]: Modification: [S. 28](https://www.legislation.gov.uk/ukpga/1979/46/section/28) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(9)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/9)
 
-[^key-0121f7b9751a24af9515d7bfeb384ac7]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/1979/46/section/28/1) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 34(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/34/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-0121f7b9751a24af9515d7bfeb384ac7]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/1979/46/section/28/1) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 34(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/34/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-924957b73ead6f71a72e225af6ed3317]: Textual amendment: [S. 28(1A)](https://www.legislation.gov.uk/ukpga/1979/46/section/28/1A) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 34(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/34/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-924957b73ead6f71a72e225af6ed3317]: Textual amendment: [S. 28(1A)](https://www.legislation.gov.uk/ukpga/1979/46/section/28/1A) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 34(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/34/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-3637f7cb4132bdf86159f38cff096c02]: Textual amendment: Words in s. 28(2) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/18) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-3637f7cb4132bdf86159f38cff096c02]: Textual amendment: Words in s. 28(2) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/18) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c250978]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/50)
 

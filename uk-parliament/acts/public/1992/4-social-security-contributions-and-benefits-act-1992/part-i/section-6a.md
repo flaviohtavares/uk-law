@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Notional payment of primary Class 1 contribution where earnings not less than lower earnings limit.[^key-7cf840e9f18f5b9816955218bed0fd4c]
+## 6A. Notional payment of primary Class 1 contribution where earnings not less than lower earnings limit.[^c-7cf840e9f18f5b9816955218bed0fd4c]
 
 *Extent: E+W+S*
 
@@ -36,8 +36,8 @@ for any of the purposes mentioned in subsection (3) below.
 
 - (a) the purposes of section 14(1)(a) below;
 - (b) the purposes of the provisions mentioned in section 21(5A)(a) to (c) below;
-- (c) any other purposes relating to contributory benefits; [^key-936e77f46c5561cf09a15b355918e901]...
-- (d) any purposes relating to jobseeker’s allowance; and[^key-bfcf87b93f366bcb74070b0ca293f624]
+- (c) any other purposes relating to contributory benefits; [^c-936e77f46c5561cf09a15b355918e901]...
+- (d) any purposes relating to jobseeker’s allowance; and[^c-bfcf87b93f366bcb74070b0ca293f624]
 - (e) any purposes relating to employment and support allowance.
 
 (4) Regulations may provide for any provision of this Act which, in whatever terms, refers—
@@ -55,8 +55,8 @@ to have effect for the purposes of this section with any prescribed modification
 
 ## Annotations
 
-[^key-7cf840e9f18f5b9816955218bed0fd4c]: Textual amendment: S. 6A inserted (22.12.1999 for specified purposes, 6.4.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/2/section/89/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/3); [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420), [art. 2](https://www.legislation.gov.uk/uksi/1999/527/article/2)
+[^c-7cf840e9f18f5b9816955218bed0fd4c]: Textual amendment: S. 6A inserted (22.12.1999 for specified purposes, 6.4.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/2/section/89/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/3); [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420), [art. 2](https://www.legislation.gov.uk/uksi/1999/527/article/2)
 
-[^key-936e77f46c5561cf09a15b355918e901]: Textual amendment: Word in s. 6A(3) repealed (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(g)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/g)
+[^c-936e77f46c5561cf09a15b355918e901]: Textual amendment: Word in s. 6A(3) repealed (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(g)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/g)
 
-[^key-bfcf87b93f366bcb74070b0ca293f624]: Textual amendment: S. 6A(3)(e) and preceding word inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/70/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/9/2); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/1999/527/article/2/4/f)
+[^c-bfcf87b93f366bcb74070b0ca293f624]: Textual amendment: S. 6A(3)(e) and preceding word inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/70/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/9/2); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/1999/527/article/2/4/f)

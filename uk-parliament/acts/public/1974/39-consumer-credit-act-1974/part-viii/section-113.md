@@ -22,13 +22,13 @@ summary: ''
 
 (1) Where a security is provided in relation to an actual or prospective regulated agreement, the security shall not be enforced so as to benefit the creditor or owner, directly or indirectly, to an extent greater (whether as respects the amount of any payment or the time or manner of its being made) than would be the case if the security were not provided and any obligations of the debtor or hirer, or his relative, under or in relation to the agreement were carried out to the extent (if any) to which they would be enforced under this Act.
 
-(2) In accordance with subsection (1), where a regulated agreement is enforceable on an order of the court or the FCA[^key-4d4f13bd487d08eb217a2ad29a065028] only, any security provided in relation to the agreement is enforceable (so far as provided in relation to the agreement) where such an order has been made in relation to the agreement, but not otherwise.
+(2) In accordance with subsection (1), where a regulated agreement is enforceable on an order of the court or the FCA[^c-4d4f13bd487d08eb217a2ad29a065028] only, any security provided in relation to the agreement is enforceable (so far as provided in relation to the agreement) where such an order has been made in relation to the agreement, but not otherwise.
 
 (3) Where—
 
 - (a) a regulated agreement is cancelled under section 69(1) or becomes subject to section 69(2), or
 - (b) a regulated agreement is terminated under section 91, or
-- (c) in relation to any agreement an application for an order under section 65(1) or 124(1) or a notice under section 28A of the Financial Services and Markets Act 2000[^key-d328d347d34fd2f44a4ace99ae35b448] is dismissed (except on technical grounds only), or
+- (c) in relation to any agreement an application for an order under section 65(1) or 124(1) or a notice under section 28A of the Financial Services and Markets Act 2000[^c-d328d347d34fd2f44a4ace99ae35b448] is dismissed (except on technical grounds only), or
 - (d) a declaration is made by the court under section 142(1) (refusal of enforcement order) as respects any regulated agreement,
 
 section 106 shall apply to any security provided in relation to the agreement.
@@ -48,9 +48,9 @@ section 106 shall apply to any security provided in relation to the agreement.
 
 ## Annotations
 
-[^key-4d4f13bd487d08eb217a2ad29a065028]: Textual amendment: Word in s. 113(2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(9)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/9)
+[^c-4d4f13bd487d08eb217a2ad29a065028]: Textual amendment: Word in s. 113(2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(9)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/9)
 
-[^key-d328d347d34fd2f44a4ace99ae35b448]: Textual amendment: Words in s. 113(3)(c) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(35)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/35)
+[^c-d328d347d34fd2f44a4ace99ae35b448]: Textual amendment: Words in s. 113(3)(c) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(35)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/35)
 
 [^c2431511]: Textual amendment: Words inserted (E.W.N.I.) by virtue of (E.W.) [Minors' Contracts Act 1987 (c. 13, SIF 30)](https://www.legislation.gov.uk/ukpga/1987/13), [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1987/13/section/4/1/a) and (N.I.) [S.I. 1988/930 (N.I. 9)](https://www.legislation.gov.uk/nisi/1988/930), [art. 6(1)(a)](https://www.legislation.gov.uk/nisi/1988/930/article/6/1/a)
 

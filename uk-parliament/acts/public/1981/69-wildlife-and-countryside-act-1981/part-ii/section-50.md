@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies where—
 
-- (a) Natural England or[^c19469941] the Natural Resources Body for Wales[^key-0dc73937ec18b53c765aeef5ce6f30a2] offer to enter into a nature reserve agreement or an SSSI agreement [^key-43408f2c437a414e01c5878706394759]... providing for the making by them of payments to any person; or[^c4947381]
+- (a) Natural England or[^c19469941] the Natural Resources Body for Wales[^c-0dc73937ec18b53c765aeef5ce6f30a2] offer to enter into a nature reserve agreement or an SSSI agreement [^c-43408f2c437a414e01c5878706394759]... providing for the making by them of payments to any person; or[^c4947381]
 - (b) the relevant authority offer to enter into a management agreement providing for the making by them of payments to a person whose application for a farm capital grant has been refused in consequence of an objection by the authority.
 
 (2) Subject to subsection (3), the said payments shall be of such amounts as may be determined by the offeror in accordance with guidance given by the Ministers.
@@ -53,9 +53,9 @@ summary: ''
 
 [^c19469941]: Textual amendment: Words in s. 50(1)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 94(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/94/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-0dc73937ec18b53c765aeef5ce6f30a2]: Textual amendment: Words in s. 50(1)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 179](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/179) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0dc73937ec18b53c765aeef5ce6f30a2]: Textual amendment: Words in s. 50(1)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 179](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/179) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-43408f2c437a414e01c5878706394759]: Textual amendment: Words in [s. 50(1)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/50/1/a) omitted (E.W.) (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(8)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/8)
+[^c-43408f2c437a414e01c5878706394759]: Textual amendment: Words in [s. 50(1)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/50/1/a) omitted (E.W.) (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(8)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/8)
 
 [^c4947381]: Textual amendment: Words in s. 50(1)(a) substituted for words and s. 50(1)(a)(i)(ii) (E.W.) (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 79](https://www.legislation.gov.uk/ukpga/2000/37/section/79), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2)
 

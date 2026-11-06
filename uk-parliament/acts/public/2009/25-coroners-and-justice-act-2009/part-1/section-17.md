@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Monitoring of and training for investigations into deaths of service personnel[^key-0db845abc92187aa5b9c157704d9872c]
+## 17. Monitoring of and training for investigations into deaths of service personnel[^c-0db845abc92187aa5b9c157704d9872c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0db845abc92187aa5b9c157704d9872c]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/25/section/17) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-0db845abc92187aa5b9c157704d9872c]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/25/section/17) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

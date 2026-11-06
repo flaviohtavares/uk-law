@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. NICE recommendations: appeals[^key-9f009d161d5142d30961a080c3e0ed92][^c2191350]
+## 238. NICE recommendations: appeals[^c-9f009d161d5142d30961a080c3e0ed92][^c2191350]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f009d161d5142d30961a080c3e0ed92]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2012/7/section/238) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9f009d161d5142d30961a080c3e0ed92]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2012/7/section/238) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191350]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2012/7/section/238) partly in force; [s. 238](https://www.legislation.gov.uk/ukpga/2012/7/section/238) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

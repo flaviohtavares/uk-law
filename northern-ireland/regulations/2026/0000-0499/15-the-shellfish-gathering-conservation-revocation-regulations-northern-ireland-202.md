@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Regulations in exercise of the powers conferred by section 124(1) and (2) of the Fisheries Act (Northern Ireland) 1966[^f00002] and now vested in it.
 
-## 1. Citation and commencement[^key-afd9ed1564c0edea54af3220f0e2d109]
+## 1. Citation and commencement[^c-afd9ed1564c0edea54af3220f0e2d109]
 
 These Regulations may be cited as the Shellfish Gathering (Conservation) (Revocation) Regulations (Northern Ireland) 2026 and come into operation on 6 February 2026.
 
-## 2. Revocation[^key-6b33dd6846f4b27443365ae709f9fb20]
+## 2. Revocation[^c-6b33dd6846f4b27443365ae709f9fb20]
 
 The Shellfish Gathering (Conservation) Regulations (Northern Ireland) 2026[^f00003] are hereby revoked.
 
@@ -70,8 +70,8 @@ This Statutory Rule revokes the Shellfish Gathering (Conservation) Regulations (
 
 [^f00002]: Footnote: [1966 c.17 (N.I)](https://www.legislation.gov.uk/apni/1966/17), relevant amendments are [1981 No. 227 (N.I.)](https://www.legislation.gov.uk/nisi/1981/227); [2001 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2001/4); [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790); and [2007 No. 915 (N.I.9)](https://www.legislation.gov.uk/nisi/2007/915)
 
-[^key-afd9ed1564c0edea54af3220f0e2d109]: Commencement: Reg. 1 in operation at 6.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/15/regulation/1)
+[^c-afd9ed1564c0edea54af3220f0e2d109]: Commencement: Reg. 1 in operation at 6.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/15/regulation/1)
 
-[^key-6b33dd6846f4b27443365ae709f9fb20]: Commencement: Reg. 2 in operation at 6.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/15/regulation/1)
+[^c-6b33dd6846f4b27443365ae709f9fb20]: Commencement: Reg. 2 in operation at 6.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/15/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2026 No. 1](https://www.legislation.gov.uk/nisr/2026/1)

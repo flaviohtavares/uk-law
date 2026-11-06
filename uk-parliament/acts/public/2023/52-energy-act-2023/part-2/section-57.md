@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Revenue support contracts[^key-585e078b6f14f46193f9a493dd798149][^key-128d0b1df205ddcd3b3bd3acfa223296]
+## 57. Revenue support contracts[^c-585e078b6f14f46193f9a493dd798149][^c-128d0b1df205ddcd3b3bd3acfa223296]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-585e078b6f14f46193f9a493dd798149]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2023/52/section/57) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/ii)
+[^c-585e078b6f14f46193f9a493dd798149]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2023/52/section/57) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/ii)
 
-[^key-128d0b1df205ddcd3b3bd3acfa223296]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2023/52/section/57) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-128d0b1df205ddcd3b3bd3acfa223296]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2023/52/section/57) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

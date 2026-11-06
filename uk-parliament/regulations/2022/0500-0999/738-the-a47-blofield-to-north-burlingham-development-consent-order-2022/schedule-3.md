@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13 and 19
 
-### PART 1 — TRUNK ROADS[^key-fcf7c50e0b5b02eb0fa3967e86e97d4e]
+### PART 1 — TRUNK ROADS[^c-fcf7c50e0b5b02eb0fa3967e86e97d4e]
 
 <table>
 <thead>
@@ -43,7 +43,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 2 — CLASSIFIED B ROADS[^key-b5f055910cba3bc04ef15d7b73b5c28a]
+### PART 2 — CLASSIFIED B ROADS[^c-b5f055910cba3bc04ef15d7b73b5c28a]
 
 <table>
 <thead>
@@ -56,7 +56,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 2A — CLASSIFIED C ROADS[^key-6f5840d39577b62a4c5df1f501c8c6e5]
+### PART 2A — CLASSIFIED C ROADS[^c-6f5840d39577b62a4c5df1f501c8c6e5]
 
 <table>
 <thead>
@@ -82,7 +82,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 3 — UNCLASSIFIED ROADS[^key-8310642154315e6182abae99d1cd294f]
+### PART 3 — UNCLASSIFIED ROADS[^c-8310642154315e6182abae99d1cd294f]
 
 <table>
 <thead>
@@ -99,7 +99,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 4 — SPEED LIMITS[^key-2e0293e88c79e6e083ae1c0d92fbb32e]
+### PART 4 — SPEED LIMITS[^c-2e0293e88c79e6e083ae1c0d92fbb32e]
 
 Note: where speed limits are indicated on the plans relating to this Part (the traffic regulation plans) but are not referenced in this Schedule, they indicate that national speed limits apply in accordance with either:
 
@@ -146,9 +146,9 @@ and are not subject to this order. For details of the scheme lighting design, re
 </tbody>
 </table>
 
-[^key-246fc181df000e1c27d2d190f027036d]
+[^c-246fc181df000e1c27d2d190f027036d]
 
-### PART 5 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-d472f9cded17909acbf91dc8cd98b18f]
+### PART 5 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-d472f9cded17909acbf91dc8cd98b18f]
 
 <table>
 <thead>
@@ -167,7 +167,7 @@ and are not subject to this order. For details of the scheme lighting design, re
 
 [^f00094]
 
-### PART 6 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^key-904fd70b18a2de8db0fd47003aef7db5]
+### PART 6 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^c-904fd70b18a2de8db0fd47003aef7db5]
 
 <table>
 <thead>
@@ -199,7 +199,7 @@ and are not subject to this order. For details of the scheme lighting design, re
 </tbody>
 </table>
 
-### PART 7 — ROADS TO BE DE-TRUNKED[^key-e0b2c3a62dd51b81a21b2c58fb39546a]
+### PART 7 — ROADS TO BE DE-TRUNKED[^c-e0b2c3a62dd51b81a21b2c58fb39546a]
 
 <table>
 <thead>
@@ -211,7 +211,7 @@ and are not subject to this order. For details of the scheme lighting design, re
 </tbody>
 </table>
 
-### PART 8 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-7e5e390270df9bac54f547cbcdb32732]
+### PART 8 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-7e5e390270df9bac54f547cbcdb32732]
 
 <table>
 <thead>
@@ -235,15 +235,15 @@ and are not subject to this order. For details of the scheme lighting design, re
 
 ## Annotations
 
-[^key-fcf7c50e0b5b02eb0fa3967e86e97d4e]: Commencement: Sch. 3 Pt. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-fcf7c50e0b5b02eb0fa3967e86e97d4e]: Commencement: Sch. 3 Pt. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-b5f055910cba3bc04ef15d7b73b5c28a]: Commencement: Sch. 3 Pt. 2 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-b5f055910cba3bc04ef15d7b73b5c28a]: Commencement: Sch. 3 Pt. 2 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-6f5840d39577b62a4c5df1f501c8c6e5]: Commencement: Sch. 3 Pt. 2A in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-6f5840d39577b62a4c5df1f501c8c6e5]: Commencement: Sch. 3 Pt. 2A in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-8310642154315e6182abae99d1cd294f]: Commencement: Sch. 3 Pt. 3 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-8310642154315e6182abae99d1cd294f]: Commencement: Sch. 3 Pt. 3 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-2e0293e88c79e6e083ae1c0d92fbb32e]: Commencement: Sch. 3 Pt. 4 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-2e0293e88c79e6e083ae1c0d92fbb32e]: Commencement: Sch. 3 Pt. 4 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00091]: Footnote: There are amendments to section 86 which are not relevant to this Order.
 
@@ -251,14 +251,14 @@ and are not subject to this order. For details of the scheme lighting design, re
 
 [^f00093]: Footnote: [S.I. 1978/1548](https://www.legislation.gov.uk/uksi/1978/1548). The 70 miles per hour, 60 miles per hour and 50 miles per hour (Temporary Speed Limit) Order 1977 and the 70 miles per hour, 60 miles per hour and 50 miles per hour (Temporary Speed Limit) (Variation) Order 1978 were not statutory instruments.
 
-[^key-246fc181df000e1c27d2d190f027036d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2022/738/schedule/3) omitted (31.7.2023) by virtue of [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
+[^c-246fc181df000e1c27d2d190f027036d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2022/738/schedule/3) omitted (31.7.2023) by virtue of [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
 
-[^key-d472f9cded17909acbf91dc8cd98b18f]: Commencement: Sch. 3 Pt. 5 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-d472f9cded17909acbf91dc8cd98b18f]: Commencement: Sch. 3 Pt. 5 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00094]: Footnote: [SI 2013/394](https://www.legislation.gov.uk/uksi/2013/394).
 
-[^key-904fd70b18a2de8db0fd47003aef7db5]: Commencement: Sch. 3 Pt. 6 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-904fd70b18a2de8db0fd47003aef7db5]: Commencement: Sch. 3 Pt. 6 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-e0b2c3a62dd51b81a21b2c58fb39546a]: Commencement: Sch. 3 Pt. 7 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-e0b2c3a62dd51b81a21b2c58fb39546a]: Commencement: Sch. 3 Pt. 7 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-7e5e390270df9bac54f547cbcdb32732]: Commencement: Sch. 3 Pt. 8 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-7e5e390270df9bac54f547cbcdb32732]: Commencement: Sch. 3 Pt. 8 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

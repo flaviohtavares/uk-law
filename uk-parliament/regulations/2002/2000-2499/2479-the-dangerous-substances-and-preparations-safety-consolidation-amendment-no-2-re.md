@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Dangerous Substances and Preparations (Safety) (Consolidation)(Amendment No. 2) Regulations 2002 (revoked)[^key-5a5ec7647557bedc77fdef6c3b40ba40]
+The Dangerous Substances and Preparations (Safety) (Consolidation)(Amendment No. 2) Regulations 2002 (revoked)[^c-5a5ec7647557bedc77fdef6c3b40ba40]
 
 Made
 
@@ -45,38 +45,38 @@ Coming into force
 
 18th January 2003
 
-[^key-5a5ec7647557bedc77fdef6c3b40ba40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a5ec7647557bedc77fdef6c3b40ba40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-5a5ec7647557bedc77fdef6c3b40ba40]
+## 1.[^c-5a5ec7647557bedc77fdef6c3b40ba40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-5a5ec7647557bedc77fdef6c3b40ba40]
+## 2.[^c-5a5ec7647557bedc77fdef6c3b40ba40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a5ec7647557bedc77fdef6c3b40ba40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a5ec7647557bedc77fdef6c3b40ba40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-5a5ec7647557bedc77fdef6c3b40ba40]
+## SCHEDULE[^c-5a5ec7647557bedc77fdef6c3b40ba40]
 
 Regulation 2
 
-[^key-5a5ec7647557bedc77fdef6c3b40ba40]
+[^c-5a5ec7647557bedc77fdef6c3b40ba40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a5ec7647557bedc77fdef6c3b40ba40]
+[^c-5a5ec7647557bedc77fdef6c3b40ba40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5a5ec7647557bedc77fdef6c3b40ba40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a5ec7647557bedc77fdef6c3b40ba40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a5ec7647557bedc77fdef6c3b40ba40]: Textual amendment: Regulations revoked (18.1.2003) by [The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment No. 3) Regulations 2002 (S.I. 2002/3010)](https://www.legislation.gov.uk/uksi/2002/3010), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3010/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/3010/regulation/2)
+[^c-5a5ec7647557bedc77fdef6c3b40ba40]: Textual amendment: Regulations revoked (18.1.2003) by [The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment No. 3) Regulations 2002 (S.I. 2002/3010)](https://www.legislation.gov.uk/uksi/2002/3010), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3010/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/3010/regulation/2)

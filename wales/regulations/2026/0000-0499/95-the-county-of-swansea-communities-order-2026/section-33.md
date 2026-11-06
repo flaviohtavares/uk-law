@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Port Eynon, Penrice, Rhossili, and Reynoldston — abolition of communities and community councils[^key-7343bcf64c5e71374ec91cf298505220]
+## 33. Port Eynon, Penrice, Rhossili, and Reynoldston — abolition of communities and community councils[^c-7343bcf64c5e71374ec91cf298505220]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The community of Port Eynon is abolished.
 
 ## Annotations
 
-[^key-7343bcf64c5e71374ec91cf298505220]: Commencement: [Art. 33](https://www.legislation.gov.uk/wsi/2026/95/article/33) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-7343bcf64c5e71374ec91cf298505220]: Commencement: [Art. 33](https://www.legislation.gov.uk/wsi/2026/95/article/33) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

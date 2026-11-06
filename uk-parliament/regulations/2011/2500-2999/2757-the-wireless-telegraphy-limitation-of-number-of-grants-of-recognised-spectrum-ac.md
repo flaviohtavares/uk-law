@@ -43,22 +43,22 @@ The Office of Communications (“OFCOM”) make the following Order in exercise 
 
 Before making the Order OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement[^key-d5161b359263376c64fa74a0da2dcb0c]
+## 1. Citation and commencement[^c-d5161b359263376c64fa74a0da2dcb0c]
 
 (1) This Order may be cited as the Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) Order 2011 and shall come into force on 12th December 2011.
 
 (2) This Order shall not extend to the Channel Islands or to the Isle of Man.
 
-## 2. Interpretation[^key-7d998c4712f037b04c125ec08eff0bfc]
+## 2. Interpretation[^c-7d998c4712f037b04c125ec08eff0bfc]
 
 In this Order—
 
-- (a)[^key-ddd0e4ca01e8d85b584d60c1e79dd516] “earth exploration satellite service” means a radio communications service between a satellite in space and a fixed wireless telegraphy station on the ground used for earth observation purposes;
-- (b)[^key-a3d0797608eb2cbcc12552a8fcc10a7d] “fixed satellite service” means a radio communications service between satellites in space and fixed wireless telegraphy stations on the ground; [^key-dcd0ce34996be6f9b9eb14840b1743f0]...
-- (c)[^key-c7bea21e61fcd4a703d55238177543fd] “meteorological satellite service” means a radio communications service between satellites in space and fixed wireless telegraphy stations on the ground used for meteorological purposes ;[^key-9297abfb8817dda1ac80e13ec92ee445] and[^key-4a702dba3ddfcb717f6a5f1951e0e74e]
-- (d)[^key-09b762a1445adb0b66f05a70a87fd59a] “space research service” means a radio communications service between a spacecraft, or any other object in space, and a fixed wireless telegraphy station on the ground used for scientific or technological research purposes.
+- (a)[^c-ddd0e4ca01e8d85b584d60c1e79dd516] “earth exploration satellite service” means a radio communications service between a satellite in space and a fixed wireless telegraphy station on the ground used for earth observation purposes;
+- (b)[^c-a3d0797608eb2cbcc12552a8fcc10a7d] “fixed satellite service” means a radio communications service between satellites in space and fixed wireless telegraphy stations on the ground; [^c-dcd0ce34996be6f9b9eb14840b1743f0]...
+- (c)[^c-c7bea21e61fcd4a703d55238177543fd] “meteorological satellite service” means a radio communications service between satellites in space and fixed wireless telegraphy stations on the ground used for meteorological purposes ;[^c-9297abfb8817dda1ac80e13ec92ee445] and[^c-4a702dba3ddfcb717f6a5f1951e0e74e]
+- (d)[^c-09b762a1445adb0b66f05a70a87fd59a] “space research service” means a radio communications service between a spacecraft, or any other object in space, and a fixed wireless telegraphy station on the ground used for scientific or technological research purposes.
 
-## 3. Limitation of grants[^key-5933ac9f61fd2f589ebd4a582f321214]
+## 3. Limitation of grants[^c-5933ac9f61fd2f589ebd4a582f321214]
 
 (1) OFCOM will make a limited number of grants of recognised spectrum access for use of the frequency bands listed in the Schedules.
 
@@ -68,9 +68,9 @@ In this Order—
 
 - (a) the wireless telegraphy station or wireless telegraphy apparatus is inherently incapable of transmission;
 - (b) the wireless telegraphy station or wireless telegraphy apparatus operates—
-  - (i) within the frequency band listed in Schedule 1 to provide a fixed satellite service; [^key-e0246b76270900f2d879be90d7b89917]...
-  - (ii) within either of the frequency bands listed in Schedule 2 to provide a meteorological satellite service; or[^key-e29814a86eab0afd301ba538d1bc0753]
-  - (iii)[^key-3093537937fbd7aa10c77957bc4e0e6f] within the frequency band listed in Schedule 3 to provide either an earth exploration satellite service or a space research service; and
+  - (i) within the frequency band listed in Schedule 1 to provide a fixed satellite service; [^c-e0246b76270900f2d879be90d7b89917]...
+  - (ii) within either of the frequency bands listed in Schedule 2 to provide a meteorological satellite service; or[^c-e29814a86eab0afd301ba538d1bc0753]
+  - (iii)[^c-3093537937fbd7aa10c77957bc4e0e6f] within the frequency band listed in Schedule 3 to provide either an earth exploration satellite service or a space research service; and
 - (c) the number of grants made is the number which is most likely to secure optimal use of the electromagnetic spectrum and promote competition in electronic communication services having regard to the matters set out in section 3(1) and (2) of the Wireless Telegraphy Act 2006.
 
 Hyacinth S. Nwana
@@ -81,7 +81,7 @@ For and by authority of the Office of Communications
 
 17th November 2011
 
-## SCHEDULE 1 — Frequency bands for fixed satellite services[^key-aa97361d25c02a1c0b62a5750147f740]
+## SCHEDULE 1 — Frequency bands for fixed satellite services[^c-aa97361d25c02a1c0b62a5750147f740]
 
 Article 2
 
@@ -89,16 +89,16 @@ Article 2
 | --- |
 | 3600–4200 Megahertz |
 
-## SCHEDULE 2 — Frequency bands for meteorological satellite services[^key-82d4000a866f9e92e89d7c670b5aba95]
+## SCHEDULE 2 — Frequency bands for meteorological satellite services[^c-82d4000a866f9e92e89d7c670b5aba95]
 
 Article 2
 
 | Frequency bands |
 | --- |
 | 1690–1710 Megahertz |
-| 7750–7900 Megahertz[^key-c8518b2f222c2cd0f4aabd536450c9af] |
+| 7750–7900 Megahertz[^c-c8518b2f222c2cd0f4aabd536450c9af] |
 
-## SCHEDULE 3 — Frequency band for earth exploration satellite services or space research services[^key-50f323c601233535b1f12cde79e05e3a]
+## SCHEDULE 3 — Frequency band for earth exploration satellite services or space research services[^c-50f323c601233535b1f12cde79e05e3a]
 
 Article 3
 
@@ -120,36 +120,36 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36)
 
-[^key-d5161b359263376c64fa74a0da2dcb0c]: Commencement: Art. 1 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
+[^c-d5161b359263376c64fa74a0da2dcb0c]: Commencement: Art. 1 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
 
-[^key-7d998c4712f037b04c125ec08eff0bfc]: Commencement: Art. 2 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
+[^c-7d998c4712f037b04c125ec08eff0bfc]: Commencement: Art. 2 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
 
-[^key-ddd0e4ca01e8d85b584d60c1e79dd516]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/a) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/a)
+[^c-ddd0e4ca01e8d85b584d60c1e79dd516]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/a) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/a)
 
-[^key-a3d0797608eb2cbcc12552a8fcc10a7d]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/a) renumbered as art. 2(b) (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/b)
+[^c-a3d0797608eb2cbcc12552a8fcc10a7d]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/a) renumbered as art. 2(b) (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/b)
 
-[^key-dcd0ce34996be6f9b9eb14840b1743f0]: Textual amendment: Word in [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/b) omitted (10.7.2015) by virtue of [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/b)
+[^c-dcd0ce34996be6f9b9eb14840b1743f0]: Textual amendment: Word in [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/b) omitted (10.7.2015) by virtue of [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/b)
 
-[^key-c7bea21e61fcd4a703d55238177543fd]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/b) renumbered as art. 2(c) (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/c)
+[^c-c7bea21e61fcd4a703d55238177543fd]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/b) renumbered as art. 2(c) (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/c)
 
-[^key-9297abfb8817dda1ac80e13ec92ee445]: Textual amendment: [Art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/c): semicolon substituted for full stop (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/c)
+[^c-9297abfb8817dda1ac80e13ec92ee445]: Textual amendment: [Art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/c): semicolon substituted for full stop (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/c)
 
-[^key-4a702dba3ddfcb717f6a5f1951e0e74e]: Textual amendment: Word in [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/c) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/c)
+[^c-4a702dba3ddfcb717f6a5f1951e0e74e]: Textual amendment: Word in [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/c) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/c)
 
-[^key-09b762a1445adb0b66f05a70a87fd59a]: Textual amendment: [Art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/d) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/d)
+[^c-09b762a1445adb0b66f05a70a87fd59a]: Textual amendment: [Art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2757/article/2/d) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2015/1398/article/3/d)
 
-[^key-5933ac9f61fd2f589ebd4a582f321214]: Commencement: Art. 3 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
+[^c-5933ac9f61fd2f589ebd4a582f321214]: Commencement: Art. 3 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
 
-[^key-e0246b76270900f2d879be90d7b89917]: Textual amendment: Word in [art. 3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2757/article/3/3/b/i) omitted (10.7.2015) by virtue of [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/1398/article/4/a)
+[^c-e0246b76270900f2d879be90d7b89917]: Textual amendment: Word in [art. 3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2757/article/3/3/b/i) omitted (10.7.2015) by virtue of [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/1398/article/4/a)
 
-[^key-e29814a86eab0afd301ba538d1bc0753]: Textual amendment: Word in [art. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2757/article/3/3/b/ii) substituted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/1398/article/4/b)
+[^c-e29814a86eab0afd301ba538d1bc0753]: Textual amendment: Word in [art. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2757/article/3/3/b/ii) substituted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/1398/article/4/b)
 
-[^key-3093537937fbd7aa10c77957bc4e0e6f]: Textual amendment: [Art. 3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2757/article/3/3/b/iii) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/4/c)
+[^c-3093537937fbd7aa10c77957bc4e0e6f]: Textual amendment: [Art. 3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2757/article/3/3/b/iii) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/1398/article/4/c)
 
-[^key-aa97361d25c02a1c0b62a5750147f740]: Commencement: Sch. 1 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
+[^c-aa97361d25c02a1c0b62a5750147f740]: Commencement: Sch. 1 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
 
-[^key-82d4000a866f9e92e89d7c670b5aba95]: Commencement: Sch. 2 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
+[^c-82d4000a866f9e92e89d7c670b5aba95]: Commencement: Sch. 2 in force at 12.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2757/article/1/1)
 
-[^key-c8518b2f222c2cd0f4aabd536450c9af]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2757/schedule/2) substituted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1398/article/5)
+[^c-c8518b2f222c2cd0f4aabd536450c9af]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2757/schedule/2) substituted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1398/article/5)
 
-[^key-50f323c601233535b1f12cde79e05e3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2757/schedule/3) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [6](https://www.legislation.gov.uk/uksi/2015/1398/article/6)
+[^c-50f323c601233535b1f12cde79e05e3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2757/schedule/3) inserted (10.7.2015) by [The Wireless Telegraphy (Limitation of Number of Grants of Recognised Spectrum Access for Satellite Receive-Only Earth Stations) (Amendment) Order 2015 (S.I. 2015/1398)](https://www.legislation.gov.uk/uksi/2015/1398), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1398/article/1), [6](https://www.legislation.gov.uk/uksi/2015/1398/article/6)

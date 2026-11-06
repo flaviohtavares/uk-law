@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Admissibility of statements in subsequent proceedings.[^key-8eefae6c47cfb840260b130afb8c9eb1]
+## 86. Admissibility of statements in subsequent proceedings.[^c-8eefae6c47cfb840260b130afb8c9eb1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eefae6c47cfb840260b130afb8c9eb1]: Textual amendment: S. 86 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/iv)
+[^c-8eefae6c47cfb840260b130afb8c9eb1]: Textual amendment: S. 86 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/iv)

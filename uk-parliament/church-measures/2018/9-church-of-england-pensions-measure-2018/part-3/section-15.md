@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15. Entitlement to lump sum[^key-a3309469aeb83ed2d8c5e2ef8d512b7a]
+## 15. Entitlement to lump sum[^c-a3309469aeb83ed2d8c5e2ef8d512b7a]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3309469aeb83ed2d8c5e2ef8d512b7a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukcm/2018/9/section/15) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-a3309469aeb83ed2d8c5e2ef8d512b7a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukcm/2018/9/section/15) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

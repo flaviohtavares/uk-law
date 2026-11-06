@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Combined authorities and CCAs: establishment, expansion and functions[^key-1d14e6b7a9b910aa468529bdf69905c1]
+## 4. Combined authorities and CCAs: establishment, expansion and functions[^c-1d14e6b7a9b910aa468529bdf69905c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 contains provision amending requirements relating to the establishmen
 
 ## Annotations
 
-[^key-1d14e6b7a9b910aa468529bdf69905c1]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)(6)
+[^c-1d14e6b7a9b910aa468529bdf69905c1]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)(6)

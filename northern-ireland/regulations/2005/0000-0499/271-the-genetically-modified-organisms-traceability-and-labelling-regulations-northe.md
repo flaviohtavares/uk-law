@@ -41,17 +41,17 @@ Coming into operation
 
 30th June 2005
 
-The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the control and regulation of genetically modified organisms, in exercise of the powers conferred upon it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:[^key-901b2d84a71a9957aa82178d0942976b]
+The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the control and regulation of genetically modified organisms, in exercise of the powers conferred upon it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:[^c-901b2d84a71a9957aa82178d0942976b]
 
-## 1. Citation and commencement[^key-dce7802b984350e2071331cc9ed95c74]
+## 1. Citation and commencement[^c-dce7802b984350e2071331cc9ed95c74]
 
 These Regulations may be cited as the Genetically Modified Organisms (Traceability and Labelling) Regulations (Northern Ireland) 2005 and shall come into operation on 30th June 2005.
 
-## 2. Interpretation[^key-db9b4e892f8b286d26e8f62cc821fccc]
+## 2. Interpretation[^c-db9b4e892f8b286d26e8f62cc821fccc]
 
 (1) In these Regulations –
 
-- “the Council Regulation” means Regulation [(EC) No. 1830/2003](https://www.legislation.gov.uk/european/regulation/2003/1830)[^f00003] of the European Parliament and of the Council concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) as last amended by Regulation[^key-d2dd33da9749d1886556582e3b748740] [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council ;
+- “the Council Regulation” means Regulation [(EC) No. 1830/2003](https://www.legislation.gov.uk/european/regulation/2003/1830)[^f00003] of the European Parliament and of the Council concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) as last amended by Regulation[^c-d2dd33da9749d1886556582e3b748740] [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council ;
 - “the Department” means the Department of the Environment;
 - “inspector” means a person appointed as such under regulation 3;
 - “specified Community provision” means a provision of the Council Regulation specified in column 1 of the Schedule.
@@ -60,7 +60,7 @@ These Regulations may be cited as the Genetically Modified Organisms (Traceabili
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Enforcement[^key-b7dc6d3b5bb6e6099633909ba32ee176]
+## 3. Enforcement[^c-b7dc6d3b5bb6e6099633909ba32ee176]
 
 (1) Subject to paragraph (2) each district council shall, in its area, enforce and execute these Regulations and the Council Regulation.
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Genetically Modified Organisms (Traceabili
 
 (4) Any appointment of an inspector under Article 11 of the Genetically Modified Organisms (Northern Ireland) Order 1991[^f00005] having effect at the coming into operation of these Regulations shall have effect as if it were an appointment of the inspector as an inspector by the Department for the purpose of these Regulations.
 
-## 4. Powers of inspectors[^key-d611270e0f14f6b562af5c7f3831180e]
+## 4. Powers of inspectors[^c-d611270e0f14f6b562af5c7f3831180e]
 
 (1) An inspector may, on production of his authority, if so required, exercise any of the powers specified in paragraph (3) for the purposes of the enforcement and execution of these Regulations and the specified Community provisions.
 
@@ -107,7 +107,7 @@ These Regulations may be cited as the Genetically Modified Organisms (Traceabili
 
 an inspector shall, if it is practical and safe for him to do so, take a sample of it and give to a responsible person at the premises a portion of the sample marked in a manner sufficient to identify it.
 
-## 5. Obtaining information from persons[^key-b95f27384c05df86351308765845a073]
+## 5. Obtaining information from persons[^c-b95f27384c05df86351308765845a073]
 
 (1) For the purpose of the execution and enforcement of these Regulations and the specified Community provisions, a district council or the Department, as the case may be, may by notice in writing served on any person who appears –
 
@@ -120,7 +120,7 @@ require that person to furnish such relevant information available to him as is 
 
 (2) For the purposes of this regulation “relevant information” means information concerning any aspects of the activities in question.
 
-## 6. Incorrectly labelled products[^key-c3fdb250f0673b1b202eddf21cd47a30]
+## 6. Incorrectly labelled products[^c-c3fdb250f0673b1b202eddf21cd47a30]
 
 (1) Where an inspector is satisfied that a product consisting of or containing genetically modified organisms has not been labelled in accordance with Article 4(6) of the Council Regulation he may by notice in writing served on the operator –
 
@@ -135,7 +135,7 @@ require that person to furnish such relevant information available to him as is 
 
 (4) If a notice under this regulation, or an action required to be taken by the notice, is not complied with, an inspector may arrange for it to be complied with, and all reasonable costs of compliance shall be recoverable by the district council or the Department, as the case may be, as the debt from the person on whom the notice is served.
 
-## 7. Offences[^key-520563f641e94e05cd891231ac81f8ac]
+## 7. Offences[^c-520563f641e94e05cd891231ac81f8ac]
 
 (1) It shall be an offence for a person –
 
@@ -150,19 +150,19 @@ require that person to furnish such relevant information available to him as is 
 
 (2) It shall be a defence for a person charged with an offence under regulation 7(1)(a) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
 
-## 8. Offences by third parties[^key-7b8e7a738e7ca802e24e83cf0da1255c]
+## 8. Offences by third parties[^c-7b8e7a738e7ca802e24e83cf0da1255c]
 
 Where the commission by any person of an offence under regulation 7 is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first mentioned person.
 
-## 9. Offences by bodies corporate[^key-c1488cdf7bec272d2ea2f5512d65cf08]
+## 9. Offences by bodies corporate[^c-c1488cdf7bec272d2ea2f5512d65cf08]
 
 For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-## 10. Penalties[^key-cbb8c3158a42f3842559dc9770986590]
+## 10. Penalties[^c-cbb8c3158a42f3842559dc9770986590]
 
 A person guilty of an offence under these Regulations shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months, or to both.
 
-## 11. Time limits[^key-590bfbf93450e0d4be682eb65e11f754]
+## 11. Time limits[^c-590bfbf93450e0d4be682eb65e11f754]
 
 (1) Proceedings for an offence under regulation 7 may, subject to paragraph (2), be commenced within the period of six months from the date on which evidence sufficient in the opinion of the prosecutor to warrant proceedings comes to his knowledge.
 
@@ -180,7 +180,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^key-6c104ac85d575ad4af3171a39477af6e]
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^c-6c104ac85d575ad4af3171a39477af6e]
 
 Regulation 2(1)
 
@@ -224,36 +224,36 @@ Copies of the European Council Regulation and Directive may be obtained at http:
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-901b2d84a71a9957aa82178d0942976b]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-901b2d84a71a9957aa82178d0942976b]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-dce7802b984350e2071331cc9ed95c74]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-dce7802b984350e2071331cc9ed95c74]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-db9b4e892f8b286d26e8f62cc821fccc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/271/regulation/2) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-db9b4e892f8b286d26e8f62cc821fccc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/271/regulation/2) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L268, 18.10.2003 p. 24
 
-[^key-d2dd33da9749d1886556582e3b748740]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/271/regulation/2/1) added (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2018/188/regulation/7)
+[^c-d2dd33da9749d1886556582e3b748740]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/271/regulation/2/1) added (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2018/188/regulation/7)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b7dc6d3b5bb6e6099633909ba32ee176]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/271/regulation/3) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-b7dc6d3b5bb6e6099633909ba32ee176]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/271/regulation/3) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
 [^f00005]: Footnote: S.I. [1991/1714 (N.1. 19)](https://www.legislation.gov.uk/uksi/1991/1714)
 
-[^key-d611270e0f14f6b562af5c7f3831180e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/271/regulation/4) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-d611270e0f14f6b562af5c7f3831180e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/271/regulation/4) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-b95f27384c05df86351308765845a073]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/271/regulation/5) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-b95f27384c05df86351308765845a073]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/271/regulation/5) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-c3fdb250f0673b1b202eddf21cd47a30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/271/regulation/6) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-c3fdb250f0673b1b202eddf21cd47a30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/271/regulation/6) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-520563f641e94e05cd891231ac81f8ac]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/271/regulation/7) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-520563f641e94e05cd891231ac81f8ac]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/271/regulation/7) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-7b8e7a738e7ca802e24e83cf0da1255c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/271/regulation/8) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-7b8e7a738e7ca802e24e83cf0da1255c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/271/regulation/8) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-c1488cdf7bec272d2ea2f5512d65cf08]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/271/regulation/9) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-c1488cdf7bec272d2ea2f5512d65cf08]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/271/regulation/9) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-cbb8c3158a42f3842559dc9770986590]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/271/regulation/10) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-cbb8c3158a42f3842559dc9770986590]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/271/regulation/10) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-590bfbf93450e0d4be682eb65e11f754]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/271/regulation/11) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-590bfbf93450e0d4be682eb65e11f754]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/271/regulation/11) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
 
-[^key-6c104ac85d575ad4af3171a39477af6e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/271/schedule) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)
+[^c-6c104ac85d575ad4af3171a39477af6e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/271/schedule) in operation at 30.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/271/regulation/1)

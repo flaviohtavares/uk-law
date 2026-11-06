@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Meaning of “election expenses”[^key-350378a594eca5bc5056b14b978154bd]
+## 58. Meaning of “election expenses”[^c-350378a594eca5bc5056b14b978154bd]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-350378a594eca5bc5056b14b978154bd]: Commencement: Art. 58 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-350378a594eca5bc5056b14b978154bd]: Commencement: Art. 58 in force at 16.12.2015 in accordance with art. 1(1)

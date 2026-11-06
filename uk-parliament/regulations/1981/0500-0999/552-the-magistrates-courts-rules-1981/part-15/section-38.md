@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Certification of records[^key-9b8b4a08cd567b773cfb7e2c98d2b2f2]
+## 38. Certification of records[^c-9b8b4a08cd567b773cfb7e2c98d2b2f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b8b4a08cd567b773cfb7e2c98d2b2f2]: Textual amendment: [Rule 38](https://www.legislation.gov.uk/uksi/1981/552/rule/38) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [17](https://www.legislation.gov.uk/uksi/2014/879/article/17)
+[^c-9b8b4a08cd567b773cfb7e2c98d2b2f2]: Textual amendment: [Rule 38](https://www.legislation.gov.uk/uksi/1981/552/rule/38) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [17](https://www.legislation.gov.uk/uksi/2014/879/article/17)

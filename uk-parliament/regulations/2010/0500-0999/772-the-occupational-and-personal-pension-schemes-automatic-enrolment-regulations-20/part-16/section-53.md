@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**53.**[^key-fcefe07b0adeb004aa0e4e80486663b7] (1) Before the end of the review period, the Secretary of State must—
+**53.**[^c-fcefe07b0adeb004aa0e4e80486663b7] (1) Before the end of the review period, the Secretary of State must—
 
 - (a) carry out a review of regulation 52;
 - (b) set out the conclusions of the review in a report; and
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcefe07b0adeb004aa0e4e80486663b7]: Textual amendment: Pt. 16 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2012/1257/regulation/8)
+[^c-fcefe07b0adeb004aa0e4e80486663b7]: Textual amendment: Pt. 16 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2012/1257/regulation/8)

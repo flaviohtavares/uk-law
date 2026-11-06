@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Post-legislative scrutiny[^key-1e8140b3e51eeb4334e08e2da7930cef][^key-860281bb60879ad98fc7dc9c0cc27be9]
+## 5. Post-legislative scrutiny[^c-1e8140b3e51eeb4334e08e2da7930cef][^c-860281bb60879ad98fc7dc9c0cc27be9]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ After section 42 of the [Legislation (Wales) Act 2019 (anaw 4)](https://www.legi
 
 ## Annotations
 
-[^key-1e8140b3e51eeb4334e08e2da7930cef]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4)
+[^c-1e8140b3e51eeb4334e08e2da7930cef]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4)
 
-[^key-860281bb60879ad98fc7dc9c0cc27be9]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2025/3/section/5) in force at 1.1.2026 by [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/c)
+[^c-860281bb60879ad98fc7dc9c0cc27be9]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2025/3/section/5) in force at 1.1.2026 by [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/c)

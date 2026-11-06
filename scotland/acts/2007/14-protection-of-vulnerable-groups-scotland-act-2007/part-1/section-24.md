@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Appeals in relation to listing: supplementary[^key-9c777a8855e42699211fcfc1f7e69615]
+## 24. Appeals in relation to listing: supplementary[^c-9c777a8855e42699211fcfc1f7e69615]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c777a8855e42699211fcfc1f7e69615]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2007/14/section/24) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-9c777a8855e42699211fcfc1f7e69615]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2007/14/section/24) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

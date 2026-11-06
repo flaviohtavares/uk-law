@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 115, 118, 119, 121, 122 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement and application[^key-6e433d8ea2d90e2cbd072f812470a5ac]
+## 1. Citation, commencement and application[^c-6e433d8ea2d90e2cbd072f812470a5ac]
 
 (1) These Regulations may be cited as the National Health Service (Miscellaneous Amendments Relating to Ophthalmic Services) Regulations 2010 and come into force on 1st April 2010.
 
 (2) These Regulations apply in relation to England.
 
-## 2. Amendments to the Primary Ophthalmic Services Regulations 2008[^key-8e0a9662bfbcafde96235c44380d1ad4]
+## 2. Amendments to the Primary Ophthalmic Services Regulations 2008[^c-8e0a9662bfbcafde96235c44380d1ad4]
 
 (1) The Primary Ophthalmic Services Regulations 2008[^f00002] are amended as follows.
 
@@ -99,7 +99,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 .
 
-## 3. Amendments to the General Ophthalmic Services Contracts Regulations 2008[^key-7fce03d59e0f5f85347ea0d61daff333]
+## 3. Amendments to the General Ophthalmic Services Contracts Regulations 2008[^c-7fce03d59e0f5f85347ea0d61daff333]
 
 (1) The General Ophthalmic Services Contracts Regulations 2008[^f00004] are amended as follows.
 
@@ -179,7 +179,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 (10) In Schedule 2 (additional services), in paragraph 4 (inspection of premises where additional services are being provided), for “practise premises” substitute “practice premises”.
 
-## 4. Amendment to the National Health Service (Optical Charges and Payments) Regulations 1997[^key-5e47033e6ae360cffd33d49d0ab9cd7f]
+## 4. Amendment to the National Health Service (Optical Charges and Payments) Regulations 1997[^c-5e47033e6ae360cffd33d49d0ab9cd7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -221,15 +221,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)*. See* section 275(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-6e433d8ea2d90e2cbd072f812470a5ac]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
+[^c-6e433d8ea2d90e2cbd072f812470a5ac]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
 
-[^key-8e0a9662bfbcafde96235c44380d1ad4]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
+[^c-8e0a9662bfbcafde96235c44380d1ad4]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186); the amending instruments are [S.I. 2008/2449](https://www.legislation.gov.uk/uksi/2008/2449) and [2009/409](https://www.legislation.gov.uk/uksi/2009/409).
 
 [^f00003]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-7fce03d59e0f5f85347ea0d61daff333]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
+[^c-7fce03d59e0f5f85347ea0d61daff333]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185); the amending instruments are [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700) and [2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
@@ -237,4 +237,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-5e47033e6ae360cffd33d49d0ab9cd7f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/634/regulation/4) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)
+[^c-5e47033e6ae360cffd33d49d0ab9cd7f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/634/regulation/4) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)

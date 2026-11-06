@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Armed forces chapels[^key-0f86c199f10f3537611d5f67af9275c5][^key-1252196e87844e14ece07a0c8163fd08]
+## 6. Armed forces chapels[^c-0f86c199f10f3537611d5f67af9275c5][^c-1252196e87844e14ece07a0c8163fd08]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f86c199f10f3537611d5f67af9275c5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/30/section/6) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/93/article/2/a)
+[^c-0f86c199f10f3537611d5f67af9275c5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/30/section/6) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/93/article/2/a)
 
-[^key-1252196e87844e14ece07a0c8163fd08]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/30/section/6) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/93/article/5/a)
+[^c-1252196e87844e14ece07a0c8163fd08]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/30/section/6) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/93/article/5/a)

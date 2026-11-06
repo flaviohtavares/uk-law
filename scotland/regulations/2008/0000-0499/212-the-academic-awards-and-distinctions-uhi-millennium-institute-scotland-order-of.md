@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Academic Awards and Distinctions (UHI Millennium Institute) (Scotland) Order of Council 2008 (revoked)[^key-da99e2b429a69599e55bb6e0ca252ffb]
+The Academic Awards and Distinctions (UHI Millennium Institute) (Scotland) Order of Council 2008 (revoked)[^c-da99e2b429a69599e55bb6e0ca252ffb]
 
 Made
 
@@ -50,28 +50,28 @@ At the Council Chamber, Whitehall, the 2nd day of June 2008
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-da99e2b429a69599e55bb6e0ca252ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da99e2b429a69599e55bb6e0ca252ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-da99e2b429a69599e55bb6e0ca252ffb]
+## 1. Citation and commencement[^c-da99e2b429a69599e55bb6e0ca252ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-da99e2b429a69599e55bb6e0ca252ffb]
+## 2. Interpretation[^c-da99e2b429a69599e55bb6e0ca252ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Competence to grant academic awards and distinctions[^key-da99e2b429a69599e55bb6e0ca252ffb]
+## 3. Competence to grant academic awards and distinctions[^c-da99e2b429a69599e55bb6e0ca252ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da99e2b429a69599e55bb6e0ca252ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da99e2b429a69599e55bb6e0ca252ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-da99e2b429a69599e55bb6e0ca252ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da99e2b429a69599e55bb6e0ca252ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da99e2b429a69599e55bb6e0ca252ffb]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/212) revoked (8.6.2017) by [The Academic Awards and Distinctions (University of the Highlands and Islands) (Scotland) Order of Council 2017 (S.S.I. 2017/146)](https://www.legislation.gov.uk/ssi/2017/146), [arts. 1](https://www.legislation.gov.uk/ssi/2017/146/article/1), [4](https://www.legislation.gov.uk/ssi/2017/146/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/146/article/5))
+[^c-da99e2b429a69599e55bb6e0ca252ffb]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/212) revoked (8.6.2017) by [The Academic Awards and Distinctions (University of the Highlands and Islands) (Scotland) Order of Council 2017 (S.S.I. 2017/146)](https://www.legislation.gov.uk/ssi/2017/146), [arts. 1](https://www.legislation.gov.uk/ssi/2017/146/article/1), [4](https://www.legislation.gov.uk/ssi/2017/146/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/146/article/5))

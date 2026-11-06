@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 99. Assistant curates[^key-1aa94de33093f371b918310eed3bbde4]
+## 99. Assistant curates[^c-1aa94de33093f371b918310eed3bbde4]
 
 *Extent: E*
 
@@ -40,4 +40,4 @@ but any such provision is without prejudice to—
 
 ## Annotations
 
-[^key-1aa94de33093f371b918310eed3bbde4]: Commencement: S. 99 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-1aa94de33093f371b918310eed3bbde4]: Commencement: S. 99 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

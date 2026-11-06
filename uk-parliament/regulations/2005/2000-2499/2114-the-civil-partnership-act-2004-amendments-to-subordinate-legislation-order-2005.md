@@ -58,7 +58,7 @@ This Order may be cited as the Civil Partnership Act 2004 (Amendments to Subordi
 
 (3) Schedule 3 (which contains amendments to subordinate legislation relating to the National Health Service) shall have effect.
 
-(4)[^key-3613ac21a5a01edb9a767d292b169c98] Schedule 4 (which contains amendments to subordinate legislation relating to establishments and agencies regulated under Part 2 of the Care Standards Act 2000 *(affected by repeal, see note)*[^key-3613ac21a5a01edb9a767d292b169c98] [^M_F_d9026cab-2acd-4805-8c74-b20ab671eb00] [^M_F_af699c0f-9cff-42f0-f43a-3b15c4dba48a]...) shall have effect. *(affected by repeal, see note)*[^key-3613ac21a5a01edb9a767d292b169c98]
+(4)[^c-3613ac21a5a01edb9a767d292b169c98] Schedule 4 (which contains amendments to subordinate legislation relating to establishments and agencies regulated under Part 2 of the Care Standards Act 2000 *(affected by repeal, see note)*[^c-3613ac21a5a01edb9a767d292b169c98] [^M_F_d9026cab-2acd-4805-8c74-b20ab671eb00] [^M_F_af699c0f-9cff-42f0-f43a-3b15c4dba48a]...) shall have effect. *(affected by repeal, see note)*[^c-3613ac21a5a01edb9a767d292b169c98]
 
 (5) Schedule 5 (which contains amendments to subordinate legislation relating to flood management) shall have effect.
 
@@ -160,10 +160,10 @@ In regulation 6(2)(b) of the Divorce etc (Pensions) Regulations 2000 [^c13497001
 
 ### 9. Education (Grants etc.) (Dance and Drama) (England) Regulations 2001
 
-In Schedule 1 to the Education (Grants etc.) (Dance and Drama) (England) Regulations 2001 *(affected by repeal, see note)*[^key-7c03cb0419651e39e2bfa16d6e4ef549] [^c13497011]—
+In Schedule 1 to the Education (Grants etc.) (Dance and Drama) (England) Regulations 2001 *(affected by repeal, see note)*[^c-7c03cb0419651e39e2bfa16d6e4ef549] [^c13497011]—
 
-- (a) in paragraph 4, after “spouse,” insert *(affected by repeal, see note)*[^key-7c03cb0419651e39e2bfa16d6e4ef549] “ civil partner, ” *(affected by repeal, see note)*[^key-7c03cb0419651e39e2bfa16d6e4ef549]; and *(affected by repeal, see note)*[^key-7c03cb0419651e39e2bfa16d6e4ef549]
-- (b) in paragraph 7, after “spouse” (in each case) insert *(affected by repeal, see note)*[^key-7c03cb0419651e39e2bfa16d6e4ef549] “ or civil partner ” *(affected by repeal, see note)*[^key-7c03cb0419651e39e2bfa16d6e4ef549].
+- (a) in paragraph 4, after “spouse,” insert *(affected by repeal, see note)*[^c-7c03cb0419651e39e2bfa16d6e4ef549] “ civil partner, ” *(affected by repeal, see note)*[^c-7c03cb0419651e39e2bfa16d6e4ef549]; and *(affected by repeal, see note)*[^c-7c03cb0419651e39e2bfa16d6e4ef549]
+- (b) in paragraph 7, after “spouse” (in each case) insert *(affected by repeal, see note)*[^c-7c03cb0419651e39e2bfa16d6e4ef549] “ or civil partner ” *(affected by repeal, see note)*[^c-7c03cb0419651e39e2bfa16d6e4ef549].
 
 ## SCHEDULE 2 — AMENDMENTS TO ORDERS OF COUNCIL RELATING TO HEALTH CARE PROFESSIONS
 
@@ -212,7 +212,7 @@ Article 2(3)
 
 ### 1. National Health Service (Charges to Overseas Visitors) Regulations 1989
 
-In regulations 4(4), 4A(2) and 5(b) and (e) of the National Health Service (Charges to Overseas Visitors) Regulations 1989 *(affected by repeal, see note)*[^key-537a4c8ccffa4d06d35158e15335007f] [^c13497061], after “spouse” insert *(affected by repeal, see note)*[^key-537a4c8ccffa4d06d35158e15335007f] “ , civil partner ” *(affected by repeal, see note)*[^key-537a4c8ccffa4d06d35158e15335007f].
+In regulations 4(4), 4A(2) and 5(b) and (e) of the National Health Service (Charges to Overseas Visitors) Regulations 1989 *(affected by repeal, see note)*[^c-537a4c8ccffa4d06d35158e15335007f] [^c13497061], after “spouse” insert *(affected by repeal, see note)*[^c-537a4c8ccffa4d06d35158e15335007f] “ , civil partner ” *(affected by repeal, see note)*[^c-537a4c8ccffa4d06d35158e15335007f].
 
 ### 2. National Institute for Clinical Excellence Regulations 1999
 
@@ -256,11 +256,11 @@ Article 2(4)
 
 ### PART 1 — SUBORDINATE LEGISLATION RELATING TO ESTABLISHMENTS AND AGENCIES REGULATED UNDER PART 2 OF THE CARE STANDARDS ACT 2000
 
-#### 1. Care Homes Regulations 2001[^key-a2817ddd203a75611635f3eb0772065e]
+#### 1. Care Homes Regulations 2001[^c-a2817ddd203a75611635f3eb0772065e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Private and Voluntary Health Care (England) Regulations 2001[^key-a9c4c90ff389599abb853259fccf8c54]
+#### 2. Private and Voluntary Health Care (England) Regulations 2001[^c-a9c4c90ff389599abb853259fccf8c54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -271,13 +271,13 @@ In regulation 2 of the National Care Standards Commission (Registration) Regulat
 - (a) after “spouse” (in each place) insert “ or civil partner ”; and
 - (b) at the end, insert “ or as if they were civil partners ”.
 
-#### 4. Adult Placement Schemes (England) Regulations 2004[^key-f881719821c3ef2bd60e86e56e8a06b3]
+#### 4. Adult Placement Schemes (England) Regulations 2004[^c-f881719821c3ef2bd60e86e56e8a06b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — COMMUNITY CARE, SERVICES FOR CARERS AND CHILDREN'S SERVICES (DIRECT PAYMENTS) (ENGLAND) REGULATIONS 2003
 
-**5.**[^key-f5f7039fcf5faa766461a1e95ba2d439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f5f7039fcf5faa766461a1e95ba2d439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 5 — AMENDMENTS TO SUBORDINATE LEGISLATION RELATING TO FLOOD MANAGEMENT
 
@@ -406,11 +406,11 @@ Article 2(8)
 - (a) in Form B (Proxy's Official Poll Card), for “husband, wife” substitute “ spouse, civil partner ”; and
 - (b) in Form E (Proxy Paper), for “husband, wife” substitute “ spouse, civil partner ”.
 
-### 2. European Parliamentary Elections Regulations 2004[^key-f06b352516fb4794ae0238fbfa675815]
+### 2. European Parliamentary Elections Regulations 2004[^c-f06b352516fb4794ae0238fbfa675815]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. European Parliamentary Elections (Welsh Forms) Order 2004[^key-b3a7f6c8f25856ae1feadaa06f34a215]
+### 3. European Parliamentary Elections (Welsh Forms) Order 2004[^c-b3a7f6c8f25856ae1feadaa06f34a215]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -422,7 +422,7 @@ Article 2(9)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. European Parliamentary Elections (Northern Ireland) Regulations 2004[^key-39468a4a116ac7a796e8d214b08b5d7b]
+### 2. European Parliamentary Elections (Northern Ireland) Regulations 2004[^c-39468a4a116ac7a796e8d214b08b5d7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -518,42 +518,42 @@ Article 2(12)
 
 ### PART 1 — AMENDMENTS TO SUBORDINATE LEGISLATION RELATING TO LOCAL GOVERNMENT ELECTIONS
 
-#### 1. Local Elections (Principal Areas) Rules 1986[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+#### 1. Local Elections (Principal Areas) Rules 1986[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-(1) Amend the Local Elections (Principal Areas) Rules 1986 *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] [^c13497361] as follows. *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+(1) Amend the Local Elections (Principal Areas) Rules 1986 *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] [^c13497361] as follows. *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-(2) In Schedule 2 (Rules for conduct of an election of councillors of a principal area where poll is not taken together with poll at another election)— *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+(2) In Schedule 2 (Rules for conduct of an election of councillors of a principal area where poll is not taken together with poll at another election)— *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-- (a) in rule 29(2), for “husband \[wife\]” (in each place) substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (b) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (c) in rule 38(2)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
-- (d) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8].
+- (a) in rule 29(2), for “husband \[wife\]” (in each place) substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (b) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (c) in rule 38(2)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
+- (d) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8].
 
-(3) In Schedule 3 (Rules for conduct of an election of councillors of a principal area where the poll is taken together with the poll at a relevant election or referendum)— *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+(3) In Schedule 3 (Rules for conduct of an election of councillors of a principal area where the poll is taken together with the poll at a relevant election or referendum)— *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-- (a) in rule 29(2), in the first question, for “husband \[wife\]” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (b) in rule 29(2), in the second question, for “husband \[wife\]” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (c) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (d) in rule 38(1B)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
-- (e) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8].
+- (a) in rule 29(2), in the first question, for “husband \[wife\]” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (b) in rule 29(2), in the second question, for “husband \[wife\]” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (c) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (d) in rule 38(1B)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
+- (e) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8].
 
 #### 2. Local Elections (Parishes and Communities) Rules 1986
 
-(1) Amend the Local Elections (Parishes and Communities) Rules 1986 *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] [^c13497371] as follows. *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+(1) Amend the Local Elections (Parishes and Communities) Rules 1986 *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] [^c13497371] as follows. *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-(2) In Schedule 2 (Rules for conduct of an election of councillors of a parish or community where poll is not taken together with poll at another election)— *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+(2) In Schedule 2 (Rules for conduct of an election of councillors of a parish or community where poll is not taken together with poll at another election)— *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-- (a) in rule 29(2), for “husband \[wife\]”(in each place) substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (b) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (c) in rule 38(2)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
-- (d) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8].
+- (a) in rule 29(2), for “husband \[wife\]”(in each place) substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (b) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (c) in rule 38(2)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
+- (d) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8].
 
-(3) In Schedule 3 (Rules for conduct of an election of councillors of a parish or community where the poll is taken together with the poll at a relevant election or referendum)— *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
+(3) In Schedule 3 (Rules for conduct of an election of councillors of a parish or community where the poll is taken together with the poll at a relevant election or referendum)— *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
 
-- (a) in rule 29(2), for “husband \[wife\]” (in each place) substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (b) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8];
-- (c) in rule 38(1B)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8]
-- (d) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^key-f03ce9c1f3a6d526867eb9ed622432c8].
+- (a) in rule 29(2), for “husband \[wife\]” (in each place) substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (b) in rule 33(3)(b), for “husband, wife” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8];
+- (c) in rule 38(1B)(b), for “wives or husbands” substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouses or civil partners ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]; and *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8]
+- (d) in the Appendix of forms, in the proxy's official poll card, for “husband, wife”, which appear in the fourth paragraph on the back of the card, substitute *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8] “ spouse, civil partner ” *(affected by repeal, see note)*[^c-f03ce9c1f3a6d526867eb9ed622432c8].
 
 #### 3. Parish and Community Meetings (Polls) Rules 1987
 
@@ -665,7 +665,7 @@ Amend the Schedule to the Local Elections (Principal Areas) (Welsh Forms) Order 
 
 ### PART 3 — AMENDMENTS TO SUBORDINATE LEGISLATION RELATING TO LOCAL AUTHORITY REFERENDUMS
 
-#### 9. Local Authorities (Conduct of Referendums) (England) Regulations 2001[^key-4dd8fc44387a6021363a8dfd26afe4c1]
+#### 9. Local Authorities (Conduct of Referendums) (England) Regulations 2001[^c-4dd8fc44387a6021363a8dfd26afe4c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -779,7 +779,7 @@ In regulation 2 of the Withholding and Withdrawal of Support (Travel Assistance 
 
 ### PART 2 — NATIONALITY
 
-#### 4. British Nationality (DependentTerritories) Regulations 1982[^key-a2210688393b1e33448a5b4b19783665]
+#### 4. British Nationality (DependentTerritories) Regulations 1982[^c-a2210688393b1e33448a5b4b19783665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -846,13 +846,13 @@ In the subordinate legislation specified in column 1 of the following table, in 
 | Merchant Shipping (Safe Movement on Board Ship) Regulations 1988 [^c13497561] | Regulation 2 |
 | Merchant Shipping (Provisions and Water) Regulations 1989 [^c13497571] | Regulation 2 |
 | Merchant Shipping (Survey and Certification) Regulations 1995 [^c13497581] | Regulation 1, paragraph 2 |
-| [^key-b86b86d9140dd36c348f11e180afc691]. . . | [^key-b86b86d9140dd36c348f11e180afc691]. . . |
+| [^c-b86b86d9140dd36c348f11e180afc691]. . . | [^c-b86b86d9140dd36c348f11e180afc691]. . . |
 | Merchant Shipping (Crew Accommodation) Regulations 1997 [^c13497601] | Regulation 2, paragraph 1 |
 | Merchant Shipping (Cargo Ship Construction) Regulations 1997 [^c13497611] | Regulation 2, paragraph 1 |
 | Merchant Shipping (Tonnage) Regulations 1997 [^c13497621] | Regulation 2, paragraph 1 |
 | Merchant Shipping (Load Line) Regulations 1998 [^c13497631] | Regulation 2, paragraph 1 |
 | Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 [^c13497641] | Regulation 1, paragraph 2 |
-| [^key-7176bd2cc2f7e2ea837e3e690b03c7ec]. . . | [^key-7176bd2cc2f7e2ea837e3e690b03c7ec]. . . |
+| [^c-7176bd2cc2f7e2ea837e3e690b03c7ec]. . . | [^c-7176bd2cc2f7e2ea837e3e690b03c7ec]. . . |
 | Merchant Shipping (Radio Installations) Regulations 1998 [^c13497661] | Regulation 2 |
 | Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 [^c13497671] | Regulation 2, paragraph 1 |
 | Merchant Shipping (Life-Saving Appliances For Ships Other Than Ships Of Classes III to VI (A)) Regulations 1999 [^c13497681] | Regulation 2, paragraph 2 |
@@ -861,7 +861,7 @@ In the subordinate legislation specified in column 1 of the following table, in 
 | Merchant Shipping (Medical Examination) Regulations 2002 [^c13497711] | Regulation 2, paragraph 1 |
 | Merchant Shipping (Hours of Work) Regulations 2002 [^c13497721] | Regulation 2 |
 | Merchant Shipping (Categorisation of Registries of Relevant British Possessions) Order 2003 [^c13497731] | Regulation 2 |
-| [^key-42e3f6dead16b83fcc08f352f1d76463]... | [^key-42e3f6dead16b83fcc08f352f1d76463]. . . |
+| [^c-42e3f6dead16b83fcc08f352f1d76463]... | [^c-42e3f6dead16b83fcc08f352f1d76463]. . . |
 | Merchant Shipping (High Speed Craft) Regulations 2004 [^c13497751] | Regulation 2 |
 
 ## SCHEDULE 16 — AMENDMENTS TO SUBORDINATE LEGISLATION RELATING TO FINANCIAL SERVICES, NATIONAL SAVINGS AND INVESTMENTS AND BUILDING SOCIETIES AND INDUSTRIAL ASSURANCE
@@ -1325,7 +1325,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13496891]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-3613ac21a5a01edb9a767d292b169c98]: Textual amendment: Art. 2(4) revoked in part (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-3613ac21a5a01edb9a767d292b169c98]: Textual amendment: Art. 2(4) revoked in part (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
 
 [^M_F_d9026cab-2acd-4805-8c74-b20ab671eb00]: Textual amendment: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
@@ -1349,7 +1349,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497001]: Marginal citation: [S.I. 2000/1123](https://www.legislation.gov.uk/uksi/2000/1123), to which there are amendments not relevant to this Order.
 
-[^key-7c03cb0419651e39e2bfa16d6e4ef549]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/9) revoked (E.) (12.2.2014) by [The Education (Grants etc) (Dance and Drama) (England) (Revocation) Regulations 2014 (S.I. 2014/80)](https://www.legislation.gov.uk/uksi/2014/80), [reg. 1](https://www.legislation.gov.uk/uksi/2014/80/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/80/schedule)
+[^c-7c03cb0419651e39e2bfa16d6e4ef549]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/9) revoked (E.) (12.2.2014) by [The Education (Grants etc) (Dance and Drama) (England) (Revocation) Regulations 2014 (S.I. 2014/80)](https://www.legislation.gov.uk/uksi/2014/80), [reg. 1](https://www.legislation.gov.uk/uksi/2014/80/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/80/schedule)
 
 [^c13497011]: Marginal citation: [S.I. 2001/2857](https://www.legislation.gov.uk/uksi/2001/2857), to which there are amendments not relevant to this Order.
 
@@ -1361,7 +1361,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497051]: Marginal citation: [S.I. 2004/1767](https://www.legislation.gov.uk/uksi/2004/1767).
 
-[^key-537a4c8ccffa4d06d35158e15335007f]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2005/2114/schedule/3/paragraph/1) revoked (E.) (1.8.2011) by [The National Health Service (Charges to Overseas Visitors) Regulations 2011 (S.I. 2011/1556)](https://www.legislation.gov.uk/uksi/2011/1556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1556/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1556/schedule/4)
+[^c-537a4c8ccffa4d06d35158e15335007f]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2005/2114/schedule/3/paragraph/1) revoked (E.) (1.8.2011) by [The National Health Service (Charges to Overseas Visitors) Regulations 2011 (S.I. 2011/1556)](https://www.legislation.gov.uk/uksi/2011/1556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1556/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1556/schedule/4)
 
 [^c13497061]: Marginal citation: [S.I. 1989/306](https://www.legislation.gov.uk/uksi/1989/306), amended by [S.I. 2005/498](https://www.legislation.gov.uk/uksi/2005/498).
 
@@ -1383,15 +1383,15 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497151]: Marginal citation: [S.I. 2004/668](https://www.legislation.gov.uk/uksi/2004/668).
 
-[^key-a2817ddd203a75611635f3eb0772065e]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/1) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-a2817ddd203a75611635f3eb0772065e]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/1) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
 
-[^key-a9c4c90ff389599abb853259fccf8c54]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/2) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-a9c4c90ff389599abb853259fccf8c54]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/2) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
 
 [^c13497181]: Marginal citation: [S.I. 2001/3969](https://www.legislation.gov.uk/uksi/2001/3969), to which there are amendments not relevant to this Order. The functions of the National Care Standards Commission under Part 2 of the [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) are transferred either to the Commission for Healthcare Audit and Inspection or to the Commission for Social Care Inspection in accordance with section 102 of the [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-f881719821c3ef2bd60e86e56e8a06b3]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/4) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-f881719821c3ef2bd60e86e56e8a06b3]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/4) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
 
-[^key-f5f7039fcf5faa766461a1e95ba2d439]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/5) revoked (9.11.2009) by [The Community Care, Services for Carers and Children's Services (Direct Payments) (England) Regulations 2009 (S.I. 2009/1887)](https://www.legislation.gov.uk/uksi/2009/1887), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1887/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2009/1887/regulation/20), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1887/schedule/3)
+[^c-f5f7039fcf5faa766461a1e95ba2d439]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/4/paragraph/5) revoked (9.11.2009) by [The Community Care, Services for Carers and Children's Services (Direct Payments) (England) Regulations 2009 (S.I. 2009/1887)](https://www.legislation.gov.uk/uksi/2009/1887), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1887/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2009/1887/regulation/20), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1887/schedule/3)
 
 [^c13497211]: Marginal citation: [S.I. 1965/836](https://www.legislation.gov.uk/uksi/1965/836).
 
@@ -1409,13 +1409,13 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497281]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341), amended by [S.I.2004/294](https://www.legislation.gov.uk/uksi/2004/294).
 
-[^key-f06b352516fb4794ae0238fbfa675815]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/8/paragraph/2) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2 Table 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f06b352516fb4794ae0238fbfa675815]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/8/paragraph/2) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2 Table 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-b3a7f6c8f25856ae1feadaa06f34a215]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2005/2114/schedule/8/paragraph/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2 Table 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-b3a7f6c8f25856ae1feadaa06f34a215]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2005/2114/schedule/8/paragraph/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2 Table 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^M_F_f52d210f-b9ce-49db-d9cd-7b5b5d681985]: Textual amendment: Sch. 9 para. 1 revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)
 
-[^key-39468a4a116ac7a796e8d214b08b5d7b]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/9/paragraph/2/3A) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2 Table 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-39468a4a116ac7a796e8d214b08b5d7b]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/9/paragraph/2/3A) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2 Table 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c13497331]: Marginal citation: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497), to which there are amendments not relevant to this Order.
 
@@ -1423,7 +1423,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497351]: Marginal citation: [S.I. 2003/284](https://www.legislation.gov.uk/uksi/2003/284).
 
-[^key-f03ce9c1f3a6d526867eb9ed622432c8]: Textual amendment: Sch. 12 paras. 1, 2 revoked (2.1.2007, in force with condition specified in commencing provision) by [The Local Elections (Principal Areas) (England and Wales) Rules 2006 (S.I. 2006/3304)](https://www.legislation.gov.uk/uksi/2006/3304), [rule 1(2)](https://www.legislation.gov.uk/uksi/2006/3304/rule/1/2)[(4)](https://www.legislation.gov.uk/uksi/2006/3304/rule/1/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3304/schedule/1) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2006/3304/rule/1/2))
+[^c-f03ce9c1f3a6d526867eb9ed622432c8]: Textual amendment: Sch. 12 paras. 1, 2 revoked (2.1.2007, in force with condition specified in commencing provision) by [The Local Elections (Principal Areas) (England and Wales) Rules 2006 (S.I. 2006/3304)](https://www.legislation.gov.uk/uksi/2006/3304), [rule 1(2)](https://www.legislation.gov.uk/uksi/2006/3304/rule/1/2)[(4)](https://www.legislation.gov.uk/uksi/2006/3304/rule/1/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3304/schedule/1) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2006/3304/rule/1/2))
 
 [^c13497361]: Marginal citation: [S.I. 1986/2214](https://www.legislation.gov.uk/uksi/1986/2214), relevant amending instruments are [S.I. 1990/158](https://www.legislation.gov.uk/uksi/1990/158), 2001/81, 2004/223.
 
@@ -1441,7 +1441,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497431]: Marginal citation: [S.I. 2000/427](https://www.legislation.gov.uk/uksi/2000/427), amended by [S.I. 2001/3789](https://www.legislation.gov.uk/uksi/2001/3789), 2004/227; there is another amending instrument which is not relevant.
 
-[^key-4dd8fc44387a6021363a8dfd26afe4c1]: Textual amendment: [Sch. 12 Pt. 3](https://www.legislation.gov.uk/uksi/2005/2114/schedule/12/part/3) revoked (27.7.2007) by [The Local Authorities (Conduct of Referendums) (England) Regulations 2007 (S.I. 2007/2089)](https://www.legislation.gov.uk/uksi/2007/2089), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)[(4)(d)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/4/d)
+[^c-4dd8fc44387a6021363a8dfd26afe4c1]: Textual amendment: [Sch. 12 Pt. 3](https://www.legislation.gov.uk/uksi/2005/2114/schedule/12/part/3) revoked (27.7.2007) by [The Local Authorities (Conduct of Referendums) (England) Regulations 2007 (S.I. 2007/2089)](https://www.legislation.gov.uk/uksi/2007/2089), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)[(4)(d)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/4/d)
 
 [^c13497451]: Marginal citation: [S.I. 2002/185](https://www.legislation.gov.uk/uksi/2002/185), amended by [S.I. 2004/225](https://www.legislation.gov.uk/uksi/2004/225).
 
@@ -1451,7 +1451,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497481]: Marginal citation: [S.I. 2002/3078](https://www.legislation.gov.uk/uksi/2002/3078).
 
-[^key-a2210688393b1e33448a5b4b19783665]: Textual amendment: [Sch. 13 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/part/2/paragraph/4) revoked (3.12.2007) by [The British Nationality (British Overseas Territories) Regulations 2007 (S.I. 2007/3139)](https://www.legislation.gov.uk/uksi/2007/3139), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2007/3139/regulation/12/d)
+[^c-a2210688393b1e33448a5b4b19783665]: Textual amendment: [Sch. 13 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/part/2/paragraph/4) revoked (3.12.2007) by [The British Nationality (British Overseas Territories) Regulations 2007 (S.I. 2007/3139)](https://www.legislation.gov.uk/uksi/2007/3139), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2007/3139/regulation/12/d)
 
 [^c13497501]: Marginal citation: [S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548), to which there are amendments not relevant to this Order.
 
@@ -1471,7 +1471,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497581]: Marginal citation: [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), to which there are amendments not relevant to this Order.
 
-[^key-b86b86d9140dd36c348f11e180afc691]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15) revoked (1.4.2025) by [The Merchant Shipping (Light Dues) Regulations 2025 (S.I. 2025/278)](https://www.legislation.gov.uk/uksi/2025/278), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/278/schedule/2)
+[^c-b86b86d9140dd36c348f11e180afc691]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15) revoked (1.4.2025) by [The Merchant Shipping (Light Dues) Regulations 2025 (S.I. 2025/278)](https://www.legislation.gov.uk/uksi/2025/278), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/278/schedule/2)
 
 [^c13497601]: Marginal citation: [S.I. 1997/1508](https://www.legislation.gov.uk/uksi/1997/1508).
 
@@ -1483,7 +1483,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497641]: Marginal citation: [S.I. 1998/1011](https://www.legislation.gov.uk/uksi/1998/1011), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
 
-[^key-7176bd2cc2f7e2ea837e3e690b03c7ec]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15) table omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/13/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-7176bd2cc2f7e2ea837e3e690b03c7ec]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15) table omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/13/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
 [^c13497661]: Marginal citation: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
 
@@ -1501,7 +1501,7 @@ A regulatory impact assessment has not been prepared for this Order, as it has n
 
 [^c13497731]: Marginal citation: [S.I. 2003/1248](https://www.legislation.gov.uk/uksi/2003/1248).
 
-[^key-42e3f6dead16b83fcc08f352f1d76463]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15) table omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/13/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-42e3f6dead16b83fcc08f352f1d76463]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15) table omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/13/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
 [^c13497751]: Marginal citation: [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), to which there are amendments not relevant to this Order.
 

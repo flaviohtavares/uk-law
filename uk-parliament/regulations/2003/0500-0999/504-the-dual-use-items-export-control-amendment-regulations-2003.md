@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Dual-Use Items (Export Control) (Amendment) Regulations 2003 (revoked)[^key-55e5cad79480a61b050056b6c8764234]
+The Dual-Use Items (Export Control) (Amendment) Regulations 2003 (revoked)[^c-55e5cad79480a61b050056b6c8764234]
 
 Made
 
@@ -45,20 +45,20 @@ Coming into force
 
 28th March 2003
 
-[^key-55e5cad79480a61b050056b6c8764234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55e5cad79480a61b050056b6c8764234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-55e5cad79480a61b050056b6c8764234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e5cad79480a61b050056b6c8764234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e5cad79480a61b050056b6c8764234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e5cad79480a61b050056b6c8764234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55e5cad79480a61b050056b6c8764234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55e5cad79480a61b050056b6c8764234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-55e5cad79480a61b050056b6c8764234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55e5cad79480a61b050056b6c8764234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55e5cad79480a61b050056b6c8764234]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/504) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-55e5cad79480a61b050056b6c8764234]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/504) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

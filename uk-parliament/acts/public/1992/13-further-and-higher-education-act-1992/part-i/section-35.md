@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Voluntary transfers of staff in connection with section 34.[^key-861a93bc4af39a8f85f9601d4c7cdae2]
+## 35. Voluntary transfers of staff in connection with section 34.[^c-861a93bc4af39a8f85f9601d4c7cdae2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-861a93bc4af39a8f85f9601d4c7cdae2]: Textual amendment: S. 35 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/b)
+[^c-861a93bc4af39a8f85f9601d4c7cdae2]: Textual amendment: S. 35 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/b)

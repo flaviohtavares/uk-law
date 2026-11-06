@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Transfers etc from Registrar General to the Board[^key-0d6f93468694f03d0c2fd566c7c5228c]
+## 57. Transfers etc from Registrar General to the Board[^c-0d6f93468694f03d0c2fd566c7c5228c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d6f93468694f03d0c2fd566c7c5228c]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2007/18/section/57) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-0d6f93468694f03d0c2fd566c7c5228c]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2007/18/section/57) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

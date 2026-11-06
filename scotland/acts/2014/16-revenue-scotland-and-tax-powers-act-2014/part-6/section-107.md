@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Claim for relief for overpaid tax etc.[^key-47a0a03f910b82084da01e14d4c3739e][^key-c95e3491f49773938c2b70f8c6904487]
+## 107. Claim for relief for overpaid tax etc.[^c-47a0a03f910b82084da01e14d4c3739e][^c-c95e3491f49773938c2b70f8c6904487]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47a0a03f910b82084da01e14d4c3739e]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2014/16/section/107) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-47a0a03f910b82084da01e14d4c3739e]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2014/16/section/107) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-c95e3491f49773938c2b70f8c6904487]: Modification: [S. 107](https://www.legislation.gov.uk/asp/2014/16/section/107) power to apply (with modifications) conferred (1.12.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 16(6)](https://www.legislation.gov.uk/asp/2024/14/section/16/6), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/243](https://www.legislation.gov.uk/ssi/2025/243), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/243/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/243/schedule/2)
+[^c-c95e3491f49773938c2b70f8c6904487]: Modification: [S. 107](https://www.legislation.gov.uk/asp/2014/16/section/107) power to apply (with modifications) conferred (1.12.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 16(6)](https://www.legislation.gov.uk/asp/2024/14/section/16/6), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/243](https://www.legislation.gov.uk/ssi/2025/243), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/243/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/243/schedule/2)

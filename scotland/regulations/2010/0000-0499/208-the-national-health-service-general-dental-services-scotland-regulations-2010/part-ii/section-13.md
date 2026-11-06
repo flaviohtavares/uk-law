@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Re-inclusion in dental list[^key-5e2ed235b92f28d07c1a1a2dce08c9e2]
+## 13. Re-inclusion in dental list[^c-5e2ed235b92f28d07c1a1a2dce08c9e2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e2ed235b92f28d07c1a1a2dce08c9e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2010/208/regulation/13) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-5e2ed235b92f28d07c1a1a2dce08c9e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2010/208/regulation/13) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

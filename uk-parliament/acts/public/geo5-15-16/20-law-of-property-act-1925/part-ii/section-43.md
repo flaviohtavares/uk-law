@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a purchaser of a legal estate is entitled to acquire the same discharged from an equitable interest which is protected by registration as a pending action, annuity, writ, order[^key-039d2a4ad97fc0b5ab397f36e99a031e]... or land charge, and which will not be over-reached by the conveyance to him, he may notwithstanding any stipulation to the contrary, require—
+(1) Where a purchaser of a legal estate is entitled to acquire the same discharged from an equitable interest which is protected by registration as a pending action, annuity, writ, order[^c-039d2a4ad97fc0b5ab397f36e99a031e]... or land charge, and which will not be over-reached by the conveyance to him, he may notwithstanding any stipulation to the contrary, require—
 
 - (a) that the registration shall be cancelled; or
 - (b) that the person entitled to the equitable interest shall concur in the conveyance;
@@ -31,4 +31,4 @@ and in either case free of expense to the purchaser.
 
 ## Annotations
 
-[^key-039d2a4ad97fc0b5ab397f36e99a031e]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/43/1) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/4) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-039d2a4ad97fc0b5ab397f36e99a031e]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/43/1) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/4) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)

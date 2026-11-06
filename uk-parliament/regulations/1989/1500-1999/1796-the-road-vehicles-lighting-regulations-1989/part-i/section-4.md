@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Exemptions—General[^key-5d12bd488b07cc3378f9ec26fd885d74]
+## 4. Exemptions—General[^c-5d12bd488b07cc3378f9ec26fd885d74]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d12bd488b07cc3378f9ec26fd885d74]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/1796/regulation/4) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-5d12bd488b07cc3378f9ec26fd885d74]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/1796/regulation/4) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

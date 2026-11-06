@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. The Civil Jurisdiction and Judgments Order 2001[^key-00223e68b9d6fa79f181ff76eb20f652]
+## 75. The Civil Jurisdiction and Judgments Order 2001[^c-00223e68b9d6fa79f181ff76eb20f652]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00223e68b9d6fa79f181ff76eb20f652]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-00223e68b9d6fa79f181ff76eb20f652]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624591]: Marginal citation: [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929). Relevant amendments were made by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655) and [S.I. 2014/2947](https://www.legislation.gov.uk/uksi/2014/2947).

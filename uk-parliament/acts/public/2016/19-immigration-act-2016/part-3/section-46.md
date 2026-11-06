@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Powers in connection with examination, detention and removal[^key-e04d4f9f1d21d7861b210a70cdda9ae5]
+## 46. Powers in connection with examination, detention and removal[^c-e04d4f9f1d21d7861b210a70cdda9ae5]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e04d4f9f1d21d7861b210a70cdda9ae5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/19/section/46) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-e04d4f9f1d21d7861b210a70cdda9ae5]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/19/section/46) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

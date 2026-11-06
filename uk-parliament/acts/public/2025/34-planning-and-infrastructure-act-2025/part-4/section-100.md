@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Areas for development and remit[^key-ce1cd913b23c681deb0ecc536aa3d37b][^key-5774778c99cea3f9a733001e2e3a2269]
+## 100. Areas for development and remit[^c-ce1cd913b23c681deb0ecc536aa3d37b][^c-5774778c99cea3f9a733001e2e3a2269]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce1cd913b23c681deb0ecc536aa3d37b]: Commencement: S. 100 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
+[^c-ce1cd913b23c681deb0ecc536aa3d37b]: Commencement: S. 100 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
 
-[^key-5774778c99cea3f9a733001e2e3a2269]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/34/section/100) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/d)
+[^c-5774778c99cea3f9a733001e2e3a2269]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/34/section/100) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/d)

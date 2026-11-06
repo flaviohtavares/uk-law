@@ -37,169 +37,169 @@ concerning the technical format for the transmission of insurance services stati
 
 (Text with EEA relevance) (revoked)
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-564196e031e84c542b8b5ab0e14a43a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-564196e031e84c542b8b5ab0e14a43a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-564196e031e84c542b8b5ab0e14a43a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-564196e031e84c542b8b5ab0e14a43a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-564196e031e84c542b8b5ab0e14a43a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-564196e031e84c542b8b5ab0e14a43a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-564196e031e84c542b8b5ab0e14a43a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-564196e031e84c542b8b5ab0e14a43a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — TECHNICAL FORMAT[^key-564196e031e84c542b8b5ab0e14a43a2]
+## ANNEX — TECHNICAL FORMAT[^c-564196e031e84c542b8b5ab0e14a43a2]
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]1.
+[^c-564196e031e84c542b8b5ab0e14a43a2]1.
 
 The form of the data
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]2.
+[^c-564196e031e84c542b8b5ab0e14a43a2]2.
 
 Record structure
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.
 
 Description of the fields
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.1.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.1.
 
 Series
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.2.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.2.
 
 Year
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.3.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.3.
 
 Territorial unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.4.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.4.
 
 Economic activity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.5.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.5.
 
 Measurement
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.6.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.6.
 
 Unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.7.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.7.
 
 Variable
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.8.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.8.
 
 Type of insurance enterprise or insurance business
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.9.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.9.
 
 Size classes / Residence of parent enterprise
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.10.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.10.
 
 Breakdown of products
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.11.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.11.
 
 Legal status / Geographical breakdown
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.12.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.12.
 
 Data value
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.13.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.13.
 
 Quality flag
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.14.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.14.
 
 Confidentiality
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.15.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.15.
 
 Dominance
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]3.16.
+[^c-564196e031e84c542b8b5ab0e14a43a2]3.16.
 
 List
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]4.
+[^c-564196e031e84c542b8b5ab0e14a43a2]4.
 
 Examples of records
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]Example 1
+[^c-564196e031e84c542b8b5ab0e14a43a2]Example 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]Example 2
+[^c-564196e031e84c542b8b5ab0e14a43a2]Example 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]Example 3
+[^c-564196e031e84c542b8b5ab0e14a43a2]Example 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]Example 4
+[^c-564196e031e84c542b8b5ab0e14a43a2]Example 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]Example 5
+[^c-564196e031e84c542b8b5ab0e14a43a2]Example 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]Example 6
+[^c-564196e031e84c542b8b5ab0e14a43a2]Example 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]5.
+[^c-564196e031e84c542b8b5ab0e14a43a2]5.
 
 Type of magnetic media
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]6.
+[^c-564196e031e84c542b8b5ab0e14a43a2]6.
 
 Other methods
 
@@ -207,4 +207,4 @@ Other methods
 
 ## Annotations
 
-[^key-564196e031e84c542b8b5ab0e14a43a2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-564196e031e84c542b8b5ab0e14a43a2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

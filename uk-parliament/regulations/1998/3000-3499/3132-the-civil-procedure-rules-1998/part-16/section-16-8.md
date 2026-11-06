@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.8. Court’s power to dispense with statements of case[^key-0d25e21b5cc5bc58ffcd7d11138544ef]
+## 16.8. Court’s power to dispense with statements of case[^c-0d25e21b5cc5bc58ffcd7d11138544ef]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the court may make an order that the claim will continue without any other state
 
 ## Annotations
 
-[^key-0d25e21b5cc5bc58ffcd7d11138544ef]: Commencement: [Rule 16.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/16.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0d25e21b5cc5bc58ffcd7d11138544ef]: Commencement: [Rule 16.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/16.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

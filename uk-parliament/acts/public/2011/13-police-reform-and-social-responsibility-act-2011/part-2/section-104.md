@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Primary Care Trusts and Local Health Boards as responsible authorities[^key-c2805290541d06b436e7a8a0a24d153b]
+## 104. Primary Care Trusts and Local Health Boards as responsible authorities[^c-c2805290541d06b436e7a8a0a24d153b]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2805290541d06b436e7a8a0a24d153b]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2011/13/section/104) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-c2805290541d06b436e7a8a0a24d153b]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2011/13/section/104) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

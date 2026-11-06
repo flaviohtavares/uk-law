@@ -25,7 +25,7 @@ summary: ''
 - (a) a trunk road within the meaning of the [^c950214]Roads (Scotland) Act 1984, or
 - (b) a special road provided by the Secretary of State in pursuance of a scheme under that Act,
 
-if they are satisfied that it is necessary to do so in order to enable the development to be carried out in accordance with planning permission granted under Part III or section 242A[^key-4eb53d3103033718d74ae7a0e60a36e4], or by a government department.
+if they are satisfied that it is necessary to do so in order to enable the development to be carried out in accordance with planning permission granted under Part III or section 242A[^c-4eb53d3103033718d74ae7a0e60a36e4], or by a government department.
 
 (2) An order under this section—
 
@@ -44,6 +44,6 @@ if they are satisfied that it is necessary to do so in order to enable the devel
 
 [^c950214]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-4eb53d3103033718d74ae7a0e60a36e4]: Textual amendment: Words in s. 207(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(8)](https://www.legislation.gov.uk/ssi/2006/243/article/4/8)
+[^c-4eb53d3103033718d74ae7a0e60a36e4]: Textual amendment: Words in s. 207(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(8)](https://www.legislation.gov.uk/ssi/2006/243/article/4/8)
 
 [^c950215]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).

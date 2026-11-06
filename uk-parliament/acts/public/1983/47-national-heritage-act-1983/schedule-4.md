@@ -58,7 +58,7 @@ Section 33.
 >
 > (5) A loan made under this section shall be made on such terms as to repayment, payment of interest and otherwise as the Commission may determine.
 
-**4.**[^key-03bca317c3d0641983ae0316d121ea57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-03bca317c3d0641983ae0316d121ea57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** (1) Section 4A of the 1953 Act (recovery of grants) shall be amended as follows.
 
@@ -114,7 +114,7 @@ Section 33.
 > - (b) any land which is situated in England and which comprises, or is contiguous or adjacent to, any such building; or
 > - (c) any garden or other land which is situated in England and which appears to the Commission to be of outstanding historic interest but which is not contiguous or adjacent to a building which appears to the Commission to be of outstanding historic or architectural interest.
 
-**8.**[^key-4f9acd2b7dfb0eb2f76ac1dce19bfef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4f9acd2b7dfb0eb2f76ac1dce19bfef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** At the end of section 8 of the 1953 Act (endowments of historic buildings) there shall be inserted—
 
@@ -321,7 +321,7 @@ and for “the next two following subsections" there shall be substituted “ su
 >
 > (5) Where the Secretary of State gives an authorisation under subsection (3) above, subsection (2) above shall have effect with the substitution of "Commission’ for "Secretary of State’ (in each place) and of "execute’ for "executes’.
 
-**31.**[^key-35dd661839fcbac0cf69befc8cf6cfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-35dd661839fcbac0cf69befc8cf6cfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.** After section 6 of the 1979 Act there shall be inserted—
 
@@ -779,9 +779,9 @@ and for “the next two following subsections" there shall be substituted “ su
 
 ## Annotations
 
-[^key-03bca317c3d0641983ae0316d121ea57]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/4) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 58(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/58/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-03bca317c3d0641983ae0316d121ea57]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/4) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 58(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/58/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
-[^key-4f9acd2b7dfb0eb2f76ac1dce19bfef6]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/8) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 58(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/58/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-4f9acd2b7dfb0eb2f76ac1dce19bfef6]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/8) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 58(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/58/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c941559]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/13) repealed (1.9.1992) by [Charities Act 1992 (c. 41)](https://www.legislation.gov.uk/ukpga/1992/41), [s. 78(2)](https://www.legislation.gov.uk/ukpga/1992/41/section/78/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1992/41/schedule/7); [S.I. 1992/1900](https://www.legislation.gov.uk/uksi/1992/1900), [art. 2](https://www.legislation.gov.uk/uksi/1992/1900/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1900/schedule/1), Appendix
 
@@ -799,4 +799,4 @@ and for “the next two following subsections" there shall be substituted “ su
 
 [^c941569]: Textual amendment: [Sch. 4 paras. 15–17](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/15), [19–21](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/19), [22(1)–(5)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/22/1) (7), 23, 24 repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Part I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1)
 
-[^key-35dd661839fcbac0cf69befc8cf6cfb4]: Textual amendment: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/31) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 58(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/58/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-35dd661839fcbac0cf69befc8cf6cfb4]: Textual amendment: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/31) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 58(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/58/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)

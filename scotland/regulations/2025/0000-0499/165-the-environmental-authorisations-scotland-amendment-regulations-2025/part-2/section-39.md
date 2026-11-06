@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Amendment of schedule 8 (radioactive substances activities)[^key-5b1470eda5e2d45309c4c91d8b77db29]
+## 39. Amendment of schedule 8 (radioactive substances activities)[^c-5b1470eda5e2d45309c4c91d8b77db29]
 
 *Extent: S*
 
@@ -159,6 +159,6 @@ In schedule 8 (radioactive substances activities)—
 
 ## Annotations
 
-[^key-5b1470eda5e2d45309c4c91d8b77db29]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/165/regulation/39) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-5b1470eda5e2d45309c4c91d8b77db29]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/165/regulation/39) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00011]: Footnote: ICRP, 2020. Dose Coefficients for external exposures to environmental sources. ICRP Publication 133. Ann. ICRP 49(2).

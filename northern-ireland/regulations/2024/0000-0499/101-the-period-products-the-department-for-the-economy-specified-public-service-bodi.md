@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for the Economy[^f00001] makes the following Regulations in exercise of the powers conferred by section 2(1), (2)(c) and (d), (7)(a), (b) and (c), and (9) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00002] and after consultation in accordance with section 2(8) of that Act.
 
-## 1. Citation and commencement[^key-bc512831750e3b11090ea6c50abb6791]
+## 1. Citation and commencement[^c-bc512831750e3b11090ea6c50abb6791]
 
 These Regulations may be cited as the Period Products (the Department for the Economy Specified Public Service Bodies) Regulations (Northern Ireland) 2024 and shall come into operation on 29th April 2024.
 
-## 2. Interpretation[^key-1d5fa727312db9962e08f3f71f467cec]
+## 2. Interpretation[^c-1d5fa727312db9962e08f3f71f467cec]
 
 (1) In these Regulations—
 
@@ -62,7 +62,7 @@ These Regulations may be cited as the Period Products (the Department for the Ec
 - “**the Act**” means the Period Products (Free Provision) Act (Northern Ireland) 2022; and
 - “**visitors**” means a person with legitimate reason for being in the premises of a specified public service body, such as attending meetings or organised events.
 
-## 3. Specified public service bodies[^key-23680b7f7672ce58e72c7eaf10d4212a]
+## 3. Specified public service bodies[^c-23680b7f7672ce58e72c7eaf10d4212a]
 
 (1) The Department specifies the bodies listed at paragraph (2) as public service bodies to which the duty in section 2(3) of the Act applies.
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Period Products (the Department for the Ec
 - (h) the Labour Relations Agency; and
 - (i) Northern Ireland Tourist Board.
 
-## 4. Descriptions of persons and premises[^key-310f73186b623a3a0aff3dba570f4e00]
+## 4. Descriptions of persons and premises[^c-310f73186b623a3a0aff3dba570f4e00]
 
 For the purposes of section 2(3) of the Act—
 
@@ -124,10 +124,10 @@ This Statutory Rule is made under section 2(1) of the Period Products (Free Prov
 
 [^f00002]: Footnote: [2022 c.25 (NI)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-bc512831750e3b11090ea6c50abb6791]: Commencement: Reg. 1 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
+[^c-bc512831750e3b11090ea6c50abb6791]: Commencement: Reg. 1 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
 
-[^key-1d5fa727312db9962e08f3f71f467cec]: Commencement: Reg. 2 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
+[^c-1d5fa727312db9962e08f3f71f467cec]: Commencement: Reg. 2 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
 
-[^key-23680b7f7672ce58e72c7eaf10d4212a]: Commencement: Reg. 3 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
+[^c-23680b7f7672ce58e72c7eaf10d4212a]: Commencement: Reg. 3 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
 
-[^key-310f73186b623a3a0aff3dba570f4e00]: Commencement: Reg. 4 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)
+[^c-310f73186b623a3a0aff3dba570f4e00]: Commencement: Reg. 4 in operation at 29.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/101/regulation/1)

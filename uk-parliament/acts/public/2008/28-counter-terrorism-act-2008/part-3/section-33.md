@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Power to amend list of offences where terrorist connection to be considered[^key-6305fcce83b262c0e0bbf18c850b110e]
+## 33. Power to amend list of offences where terrorist connection to be considered[^c-6305fcce83b262c0e0bbf18c850b110e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6305fcce83b262c0e0bbf18c850b110e]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/2008/28/section/33) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/2/2)
+[^c-6305fcce83b262c0e0bbf18c850b110e]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/2008/28/section/33) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/2/2)

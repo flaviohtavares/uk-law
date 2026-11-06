@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Council Decision of 15 October 2007 ([2007/712/EC](https://www.legislation.gov.uk/eudn/2007/712))[^key-c5a0e5367b477e188d5706a894be647b]
+## 87. Council Decision of 15 October 2007 ([2007/712/EC](https://www.legislation.gov.uk/eudn/2007/712))[^c-c5a0e5367b477e188d5706a894be647b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Decision of 15 October 2007 on the signing, on behalf of the Community, 
 
 ## Annotations
 
-[^key-c5a0e5367b477e188d5706a894be647b]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-c5a0e5367b477e188d5706a894be647b]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

@@ -39,79 +39,79 @@ concerning guidance for implementation of Directive 2002/3/EC of the European Pa
 
 (2004/279/EC) (revoked)
 
-[^key-0d1dbb2300599b2e5080344e29d84853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d1dbb2300599b2e5080344e29d84853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0d1dbb2300599b2e5080344e29d84853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0d1dbb2300599b2e5080344e29d84853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0d1dbb2300599b2e5080344e29d84853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0d1dbb2300599b2e5080344e29d84853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d1dbb2300599b2e5080344e29d84853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d1dbb2300599b2e5080344e29d84853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — GENERAL ASPECTS FOR CONSIDERATION ... WHEN DRAWING UP SHORT-TERM ACTION PLANS ...[^key-0d1dbb2300599b2e5080344e29d84853]
+## ANNEX I — GENERAL ASPECTS FOR CONSIDERATION ... WHEN DRAWING UP SHORT-TERM ACTION PLANS ...[^c-0d1dbb2300599b2e5080344e29d84853]
 
-[^key-0d1dbb2300599b2e5080344e29d84853]
+[^c-0d1dbb2300599b2e5080344e29d84853]
 
 ...
 
-[^key-0d1dbb2300599b2e5080344e29d84853]
+[^c-0d1dbb2300599b2e5080344e29d84853]
 
 ..., the key question is whether short-term action plans still offer a significant additional potential for reducing the risk of exceedances of the alert value (240 μg/m3) or for reducing their duration or severity.
 
-[^key-0d1dbb2300599b2e5080344e29d84853]
+[^c-0d1dbb2300599b2e5080344e29d84853]
 
 In the following the guidance on appropriate short-term actions is given with regard to geographical differences, regional extension and duration of possible measures.
 
-[^key-0d1dbb2300599b2e5080344e29d84853]1.
+[^c-0d1dbb2300599b2e5080344e29d84853]1.
 
 GEOGRAPHICAL ASPECT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d1dbb2300599b2e5080344e29d84853]2.
+[^c-0d1dbb2300599b2e5080344e29d84853]2.
 
 REGIONAL EXTENSION OF MEASURES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d1dbb2300599b2e5080344e29d84853]3.
+[^c-0d1dbb2300599b2e5080344e29d84853]3.
 
 SHORT-TERM VERSUS LONG-TERM MEASURES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Short-term measures: Examples and experience[^key-0d1dbb2300599b2e5080344e29d84853]
+## ANNEX II — Short-term measures: Examples and experience[^c-0d1dbb2300599b2e5080344e29d84853]
 
-### 1.. FIELD EXPERIMENT: HEILBRONN/NECKARSULM (GERMANY)[^key-0d1dbb2300599b2e5080344e29d84853]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2.. GERMAN PROGRAMME OF CONTROL CONCEPTS AND MEASURES FOR OZONE - "SUMMER SMOG"[^key-0d1dbb2300599b2e5080344e29d84853]
+### 1.. FIELD EXPERIMENT: HEILBRONN/NECKARSULM (GERMANY)[^c-0d1dbb2300599b2e5080344e29d84853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3.. THE NETHERLANDS[^key-0d1dbb2300599b2e5080344e29d84853]
+### 2.. GERMAN PROGRAMME OF CONTROL CONCEPTS AND MEASURES FOR OZONE - "SUMMER SMOG"[^c-0d1dbb2300599b2e5080344e29d84853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.. AUSTRIA[^key-0d1dbb2300599b2e5080344e29d84853]
+### 3.. THE NETHERLANDS[^c-0d1dbb2300599b2e5080344e29d84853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.. FRANCE[^key-0d1dbb2300599b2e5080344e29d84853]
+### 4.. AUSTRIA[^c-0d1dbb2300599b2e5080344e29d84853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.. GREECE[^key-0d1dbb2300599b2e5080344e29d84853]
+### 5.. FRANCE[^c-0d1dbb2300599b2e5080344e29d84853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — GUIDELINES ON A STRATEGY TO MEASURE OZONE PRECURSORS ...[^key-0d1dbb2300599b2e5080344e29d84853]
+### 6.. GREECE[^c-0d1dbb2300599b2e5080344e29d84853]
 
-[^key-0d1dbb2300599b2e5080344e29d84853]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — GUIDELINES ON A STRATEGY TO MEASURE OZONE PRECURSORS ...[^c-0d1dbb2300599b2e5080344e29d84853]
+
+[^c-0d1dbb2300599b2e5080344e29d84853]
 
 Appropriate authorities are required ... to monitor ozone precursors at least in one measuring station. ... ... the objectives of ... monitoring should be:
 
@@ -122,7 +122,7 @@ Appropriate authorities are required ... to monitor ozone precursors at least in
 - to support the understanding of ozone formation and precursor dispersion,
 - to support the understanding of photochemical models.
 
-[^key-0d1dbb2300599b2e5080344e29d84853]1.
+[^c-0d1dbb2300599b2e5080344e29d84853]1.
 
 RECOMMENDATIONS FOR A MONITORING STRATEGY
 
@@ -132,23 +132,23 @@ To check the consistency of inventories and to attribute the contribution of par
 
 It may be supposed that the NOx monitoring is covered by following the requirements of Directive 1999/30/EC. Parallel monitoring of VOC with NOx is recommended.
 
-[^key-0d1dbb2300599b2e5080344e29d84853]1.1.
+[^c-0d1dbb2300599b2e5080344e29d84853]1.1.
 
 Recommendations for the location of the mandatory measuring station
 
 Appropriate authorities shall set up at least one station to analyse the general trend of the precursors. It is recommended to place the corresponding station monitoring the full spectrum of VOC listed in Annex VI to Directive 2002/3/EC at a site representative for precursor emissions and ozone formation. Preferably this site should be located in the urban background and should not be directly influenced by local strong sources such as traffic or large industrial installations.
 
-[^key-0d1dbb2300599b2e5080344e29d84853]1.2.
+[^c-0d1dbb2300599b2e5080344e29d84853]1.2.
 
 Further Recommendations
 
-[^key-0d1dbb2300599b2e5080344e29d84853]1.2.1.
+[^c-0d1dbb2300599b2e5080344e29d84853]1.2.1.
 
 Monitoring rural background concentrations
 
 Measurements of VOC at rural background stations are part of the EMEP monitoring programme. It is particularly recommended to set up monitoring sites in those areas where no EMEP monitoring sites exist. In the south it should be considered to include some of the most abundant biogenic hydrocarbons, e. g. the monoterpenes α-pinene and limonene, in the monitoring programme.
 
-[^key-0d1dbb2300599b2e5080344e29d84853]1.2.2.
+[^c-0d1dbb2300599b2e5080344e29d84853]1.2.2.
 
 Source oriented monitoring
 
@@ -166,4 +166,4 @@ Major sources of VOC are road traffic, particular industrial plants and the use 
 
 ## Annotations
 
-[^key-0d1dbb2300599b2e5080344e29d84853]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-0d1dbb2300599b2e5080344e29d84853]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

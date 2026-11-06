@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Placement for adoption by agencies[^key-62387fed4a319c206b2205b3ee64b0e3]
+## 18. Placement for adoption by agencies[^c-62387fed4a319c206b2205b3ee64b0e3]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ but, except in the case of a child who is less than six weeks old, may only do s
 
 (3) A child who is placed or authorised to be placed for adoption with prospective adopters by a local authority is looked after by the authority.
 
-(4)[^key-0827fa09796ec3662509dfb75c370a7e] If an application for an adoption order has been made by any persons in respect of a child and has not been disposed of—
+(4)[^c-0827fa09796ec3662509dfb75c370a7e] If an application for an adoption order has been made by any persons in respect of a child and has not been disposed of—
 
 - (a) an adoption agency which placed the child with those persons may leave the child with them until the application is disposed of, but
 - (b) apart from that, the child may not be placed for adoption with any prospective adopters.
@@ -51,6 +51,6 @@ and references in this Act (apart from this section) to a child who is placed fo
 
 ## Annotations
 
-[^key-62387fed4a319c206b2205b3ee64b0e3]: Commencement: S. 18 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-62387fed4a319c206b2205b3ee64b0e3]: Commencement: S. 18 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-0827fa09796ec3662509dfb75c370a7e]: Modification: S. 18(4) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/b), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-0827fa09796ec3662509dfb75c370a7e]: Modification: S. 18(4) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/b), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)

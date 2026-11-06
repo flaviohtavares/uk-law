@@ -45,7 +45,7 @@ Section 118.
 
 .
 
-**4.**[^key-cc03c19694f65f6edb298ce22b2f481d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cc03c19694f65f6edb298ce22b2f481d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** The following subsection shall be substituted for subsection (2) of section 26 of that Act (disposal):—
 
@@ -56,9 +56,9 @@ Section 118.
 
 .
 
-**6.**[^key-f271017b937bf46bbb5d4c979a63f8ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f271017b937bf46bbb5d4c979a63f8ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-213149b9ba68a3f1d5c22802d262c52c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-213149b9ba68a3f1d5c22802d262c52c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8—11**[^c13884621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -79,7 +79,7 @@ Section 118.
 
 .
 
-**13.**[^key-2f68dbc9fcf6bcd8074ecf3c4a0872b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2f68dbc9fcf6bcd8074ecf3c4a0872b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** The following subsections shall be inserted after subsection (2) of section 123 of that Act (disposal of land by principal councils):—
 
@@ -94,7 +94,7 @@ Section 118.
 
 .
 
-**15.**[^key-ced7e8cec3c8d3c2899b9c1eac1874a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ced7e8cec3c8d3c2899b9c1eac1874a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** Section 123A of that Act (consent for disposals of land by principal councils) shall cease to have effect.
 
@@ -113,7 +113,7 @@ Section 118.
 
 .
 
-**18.**[^key-89b1b42fb9ccb7f30d27f251e9ccfe2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-89b1b42fb9ccb7f30d27f251e9ccfe2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **19.** The following subsection shall be substituted for section 127(3) of that Act (which applies certain provisions of section 123 to disposals of land held by parishes and communities):—
 
@@ -143,11 +143,11 @@ Section 118.
 
 [^c13884611]: Marginal citation: [1959 c. 53](https://www.legislation.gov.uk/ukpga/1959/53).
 
-[^key-cc03c19694f65f6edb298ce22b2f481d]: Textual amendment: [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/4) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-cc03c19694f65f6edb298ce22b2f481d]: Textual amendment: [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/4) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
-[^key-f271017b937bf46bbb5d4c979a63f8ca]: Textual amendment: [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/6) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-f271017b937bf46bbb5d4c979a63f8ca]: Textual amendment: [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/6) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
-[^key-213149b9ba68a3f1d5c22802d262c52c]: Textual amendment: [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-213149b9ba68a3f1d5c22802d262c52c]: Textual amendment: [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c13884621]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ukpga/1980/65/schedule/14), [Sch. 15 paras. 2–15](https://www.legislation.gov.uk/ukpga/1980/65/schedule/15/paragraph/2), [17–20](https://www.legislation.gov.uk/ukpga/1980/65/schedule/15/paragraph/17), [22](https://www.legislation.gov.uk/ukpga/1980/65/schedule/15/paragraph/22), [25–28](https://www.legislation.gov.uk/ukpga/1980/65/schedule/15/paragraph/25), [Sch. 23 paras. 8–11](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/8), [Sch. 32 para. 18](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/18) repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1/part/I)
 
@@ -155,11 +155,11 @@ Section 118.
 
 [^c13884641]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-2f68dbc9fcf6bcd8074ecf3c4a0872b5]: Textual amendment: [Sch. 23 para. 13](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/13) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-2f68dbc9fcf6bcd8074ecf3c4a0872b5]: Textual amendment: [Sch. 23 para. 13](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/13) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
-[^key-ced7e8cec3c8d3c2899b9c1eac1874a0]: Textual amendment: [Sch. 23 para. 15](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/15) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-ced7e8cec3c8d3c2899b9c1eac1874a0]: Textual amendment: [Sch. 23 para. 15](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/15) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
-[^key-89b1b42fb9ccb7f30d27f251e9ccfe2d]: Textual amendment: [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/18) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-89b1b42fb9ccb7f30d27f251e9ccfe2d]: Textual amendment: [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/1980/65/schedule/23/paragraph/18) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c13884651]: Modification: The text of Schs. 2, 3, Sch. 4 paras. 1(1)(2)–(4), 10, Sch. 5, Sch. 6 paras. 1, 4–6, 10–16, 21, Sch. 7 Pt. I paras. 2(2)(5)(6), 3(2)(4), 6, 7, 8, Sch. 7 Pt. II paras. 14(1), 15, Sch. 23 Pt. II para. 2, Pt. III paras. 3–7, Pt. V paras. 12–20, Pt. VI para. 21, Sch. 25 Pt. II para. 7, Pt. III para. 8, Pt. IV para. 9, Sch. 26 para. 18, Sch. 33 paras. 1–5, 7, 13, 14 Sch. 34, Sch. 32 Pt. III para. 19 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

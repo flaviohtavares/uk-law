@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 79. Operational reliability[^key-245d88531b4b9d494f91f8b747cd8f05]
+## Article 79. Operational reliability[^c-245d88531b4b9d494f91f8b747cd8f05]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-245d88531b4b9d494f91f8b747cd8f05]: Modification: [Arts. 78-80](https://www.legislation.gov.uk/eur/2012/648/article/78) modified (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/102/regulation/14/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))
+[^c-245d88531b4b9d494f91f8b747cd8f05]: Modification: [Arts. 78-80](https://www.legislation.gov.uk/eur/2012/648/article/78) modified (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/102/regulation/14/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))

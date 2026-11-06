@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Interpretation[^key-5c62b8dbfff8401ebdd526b335f2fb68]
+## 75. Interpretation[^c-5c62b8dbfff8401ebdd526b335f2fb68]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c62b8dbfff8401ebdd526b335f2fb68]: Commencement: Reg. 75 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-5c62b8dbfff8401ebdd526b335f2fb68]: Commencement: Reg. 75 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

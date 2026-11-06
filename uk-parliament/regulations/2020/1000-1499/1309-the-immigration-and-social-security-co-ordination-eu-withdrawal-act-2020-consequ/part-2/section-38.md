@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment and saving of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^key-b8f9aba1f35e0d84981fbcebd2364dbe][^M_I_d996dd39-5150-40ac-8296-6c01fe25b705]
+## 38. Amendment and saving of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^c-b8f9aba1f35e0d84981fbcebd2364dbe][^M_I_d996dd39-5150-40ac-8296-6c01fe25b705]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f9aba1f35e0d84981fbcebd2364dbe]: Commencement: Reg. 38 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-b8f9aba1f35e0d84981fbcebd2364dbe]: Commencement: Reg. 38 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_d996dd39-5150-40ac-8296-6c01fe25b705]: Commencement: Reg. 38 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

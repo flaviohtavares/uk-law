@@ -24,7 +24,7 @@ Regulation 42
 
 ### PART 1 — Repeals
 
-**1.**[^key-3181a453a52dee5a546c30807b801b80] The enactments listed in column 1 of the Table are repealed to the extent specified in column 3.
+**1.**[^c-3181a453a52dee5a546c30807b801b80] The enactments listed in column 1 of the Table are repealed to the extent specified in column 3.
 
 | Legislation | Reference | Extent of Repeal |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Regulation 42
 
 ### PART 2 — Revocations
 
-**2.**[^key-21e33bf598f5b627288fe197a8961778] The enactments listed in column 1 of the Table are revoked to the extent specified in column 3.
+**2.**[^c-21e33bf598f5b627288fe197a8961778] The enactments listed in column 1 of the Table are revoked to the extent specified in column 3.
 
 | Legislation | Reference | Extent of Revocation |
 | --- | --- | --- |
@@ -122,6 +122,6 @@ Regulation 42
 
 ## Annotations
 
-[^key-3181a453a52dee5a546c30807b801b80]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-3181a453a52dee5a546c30807b801b80]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
-[^key-21e33bf598f5b627288fe197a8961778]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-21e33bf598f5b627288fe197a8961778]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3.[^key-8f50581b3f529e04b0759e651b35fcad]
+## 3.[^c-8f50581b3f529e04b0759e651b35fcad]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8f50581b3f529e04b0759e651b35fcad]: Commencement: Reg. 3 in force at 26.3.2019, see reg. 1(2)
+[^c-8f50581b3f529e04b0759e651b35fcad]: Commencement: Reg. 3 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620531]: Marginal citation: Section 96(11B) was inserted by section 10 of the [Transport Act 1978 (c. 55)](https://www.legislation.gov.uk/ukpga/1978/55) and amended by [S.I. 2007/1819](https://www.legislation.gov.uk/uksi/2007/1819).
 

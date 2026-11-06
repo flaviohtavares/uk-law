@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Agreement and modification of paediatric investigation plan[^key-52e839230fb362e2a135f4458db34b5e]
+## 50B. Agreement and modification of paediatric investigation plan[^c-52e839230fb362e2a135f4458db34b5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ in doing so must consider whether or not the measures proposed to adapt the form
 
 ## Annotations
 
-[^key-52e839230fb362e2a135f4458db34b5e]: Textual amendment: Regs. 50A-50J inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/775/regulation/53) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 40(a)-(g)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/40/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52e839230fb362e2a135f4458db34b5e]: Textual amendment: Regs. 50A-50J inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/775/regulation/53) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 40(a)-(g)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/40/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

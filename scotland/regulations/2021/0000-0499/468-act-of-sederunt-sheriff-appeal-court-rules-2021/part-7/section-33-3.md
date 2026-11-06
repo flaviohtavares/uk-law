@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33.3. Hearing of appeal[^key-fb6ace67715eae3adf0a23ff1f0bebd9]
+## 33.3. Hearing of appeal[^c-fb6ace67715eae3adf0a23ff1f0bebd9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ On receipt of the appeal, the Clerk must fix forthwith a hearing to take place w
 
 ## Annotations
 
-[^key-fb6ace67715eae3adf0a23ff1f0bebd9]: Commencement: Para. 33.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-fb6ace67715eae3adf0a23ff1f0bebd9]: Commencement: Para. 33.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

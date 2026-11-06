@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-Where it appears to the roads authority that the execution of any drainage works under the [^c1610675]Land Drainage (Scotland) Act 1958 or flood protection work under section 56 of the Flood Risk Management (Scotland) Act 2009 (asp 6)[^key-44cbafcb80b078a25e7016156900bc7e] is desirable for the protection or enjoyment of a public road or proposed public road they may make such contributions as they think fit towards any expenses incurred in the execution and maintenance of those works.
+Where it appears to the roads authority that the execution of any drainage works under the [^c1610675]Land Drainage (Scotland) Act 1958 or flood protection work under section 56 of the Flood Risk Management (Scotland) Act 2009 (asp 6)[^c-44cbafcb80b078a25e7016156900bc7e] is desirable for the protection or enjoyment of a public road or proposed public road they may make such contributions as they think fit towards any expenses incurred in the execution and maintenance of those works.
 
 ## Annotations
 
 [^c1610675]: Marginal citation: [1958 c. 24](https://www.legislation.gov.uk/ukpga/1958/24).
 
-[^key-44cbafcb80b078a25e7016156900bc7e]: Textual amendment: Words in s. 32 substituted (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/4) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-44cbafcb80b078a25e7016156900bc7e]: Textual amendment: Words in s. 32 substituted (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/4) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)

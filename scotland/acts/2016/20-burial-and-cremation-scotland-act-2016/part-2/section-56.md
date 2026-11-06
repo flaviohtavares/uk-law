@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Handling of ashes: regulations[^key-fd06c935c9bb941cd408a527e79309fe]
+## 56. Handling of ashes: regulations[^c-fd06c935c9bb941cd408a527e79309fe]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd06c935c9bb941cd408a527e79309fe]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2016/20/section/56) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-fd06c935c9bb941cd408a527e79309fe]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2016/20/section/56) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

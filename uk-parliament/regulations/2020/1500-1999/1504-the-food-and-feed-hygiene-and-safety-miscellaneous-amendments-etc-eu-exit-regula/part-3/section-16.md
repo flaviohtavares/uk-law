@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendment of the Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019[^key-36a2029b4e5e3d363cc7e69bbcf43009]
+## 16. Amendment of the Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019[^c-36a2029b4e5e3d363cc7e69bbcf43009]
 
 *Extent: E+W+S*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36a2029b4e5e3d363cc7e69bbcf43009]: Commencement: Reg. 16 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-36a2029b4e5e3d363cc7e69bbcf43009]: Commencement: Reg. 16 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375531]: Marginal citation: [S.I. 2019/704](https://www.legislation.gov.uk/uksi/2019/704).

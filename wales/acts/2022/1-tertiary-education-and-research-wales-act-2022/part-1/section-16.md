@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Review of strategic plan[^key-a8f82302d5ca3ed7f8e4c159149e61e2][^key-ca77b2cac54adabbed88740007adf9e2]
+## 16. Review of strategic plan[^c-a8f82302d5ca3ed7f8e4c159149e61e2][^c-ca77b2cac54adabbed88740007adf9e2]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8f82302d5ca3ed7f8e4c159149e61e2]: Commencement: S. 16 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-a8f82302d5ca3ed7f8e4c159149e61e2]: Commencement: S. 16 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-ca77b2cac54adabbed88740007adf9e2]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2022/1/section/16) in force at 1.4.2024 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(b)](https://www.legislation.gov.uk/wsi/2023/919/article/4/b)
+[^c-ca77b2cac54adabbed88740007adf9e2]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2022/1/section/16) in force at 1.4.2024 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(b)](https://www.legislation.gov.uk/wsi/2023/919/article/4/b)

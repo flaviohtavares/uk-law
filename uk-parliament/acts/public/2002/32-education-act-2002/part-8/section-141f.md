@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141F. Restrictions on reporting alleged offences by teachers[^key-7bb167c826739cfbd60f70275e95c1b5]
+## 141F. Restrictions on reporting alleged offences by teachers[^c-7bb167c826739cfbd60f70275e95c1b5]
 
 *Extent: E+W*
 
@@ -80,18 +80,18 @@ and, in either case, the inclusion of the matter in the publication would otherw
 (15) For the purposes of this section, proceedings for an offence are instituted at the earliest of the following times—
 
 - (a) when a justice of the peace issues a summons or warrant under section 1 of the Magistrates' Courts Act 1980 in respect of the offence;
-- (b) when a relevant prosecutor[^key-3a1c5c2043ca32ac65f56ad55a337586] issues a written charge and requisition or single justice procedure notice[^key-ce7d61206f24ad32ce3fab43693483c5] in respect of the offence;
+- (b) when a relevant prosecutor[^c-3a1c5c2043ca32ac65f56ad55a337586] issues a written charge and requisition or single justice procedure notice[^c-ce7d61206f24ad32ce3fab43693483c5] in respect of the offence;
 - (c) when a person is charged with the offence after being taken into custody without a warrant;
 - (d) when a bill of indictment is preferred by virtue of section 2(2)(b) of the Administration of Justice (Miscellaneous Provisions) Act 1933.
 
-(16)[^key-f9443212930daafa6e2c3621d95d9b89] In subsection (15) “**relevant prosecutor**”, “**requisition**”, “**single justice procedure notice**” and “**written charge**” have the same meaning as in section 29 of the Criminal Justice Act 2003.
+(16)[^c-f9443212930daafa6e2c3621d95d9b89] In subsection (15) “**relevant prosecutor**”, “**requisition**”, “**single justice procedure notice**” and “**written charge**” have the same meaning as in section 29 of the Criminal Justice Act 2003.
 
 ## Annotations
 
-[^key-7bb167c826739cfbd60f70275e95c1b5]: Textual amendment: Ss. 141F-141H and cross-heading inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/13/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
+[^c-7bb167c826739cfbd60f70275e95c1b5]: Textual amendment: Ss. 141F-141H and cross-heading inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/13/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
 
-[^key-3a1c5c2043ca32ac65f56ad55a337586]: Textual amendment: Words in s. 141F(15)(b) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/19/2/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+[^c-3a1c5c2043ca32ac65f56ad55a337586]: Textual amendment: Words in s. 141F(15)(b) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/19/2/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
 
-[^key-ce7d61206f24ad32ce3fab43693483c5]: Textual amendment: Words in s. 141F(15)(b) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/19/2/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+[^c-ce7d61206f24ad32ce3fab43693483c5]: Textual amendment: Words in s. 141F(15)(b) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/19/2/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
 
-[^key-f9443212930daafa6e2c3621d95d9b89]: Textual amendment: S. 141F(16) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 19(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/19/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+[^c-f9443212930daafa6e2c3621d95d9b89]: Textual amendment: S. 141F(16) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 19(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/19/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)

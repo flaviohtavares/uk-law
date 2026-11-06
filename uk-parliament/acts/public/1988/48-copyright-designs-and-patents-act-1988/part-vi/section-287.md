@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 287. Patents county courts: special jurisdiction.[^key-c611986c97025b41c12fa939e7063816]
+## 287. Patents county courts: special jurisdiction.[^c-c611986c97025b41c12fa939e7063816]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c611986c97025b41c12fa939e7063816]: Textual amendment: [Ss. 287-289](https://www.legislation.gov.uk/ukpga/1988/48/section/287) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 30(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/30/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/c)
+[^c-c611986c97025b41c12fa939e7063816]: Textual amendment: [Ss. 287-289](https://www.legislation.gov.uk/ukpga/1988/48/section/287) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 30(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/30/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/c)

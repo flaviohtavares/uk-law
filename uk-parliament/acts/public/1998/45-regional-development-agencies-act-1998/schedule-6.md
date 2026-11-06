@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Vesting and acquisition of land: supplementary provisions[^key-5a7be3349f6f3e92efa55ada9774411d]
+## SCHEDULE 6 — Vesting and acquisition of land: supplementary provisions[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,72 +24,72 @@ summary: ''
 
 Section 23.
 
-### Extinguishment of rights over land[^key-5a7be3349f6f3e92efa55ada9774411d]
+### Extinguishment of rights over land[^c-5a7be3349f6f3e92efa55ada9774411d]
 
-**1.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to override easements[^key-5a7be3349f6f3e92efa55ada9774411d]
+### Power to override easements[^c-5a7be3349f6f3e92efa55ada9774411d]
 
-**2.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consecrated land and burial grounds[^key-5a7be3349f6f3e92efa55ada9774411d]
+### Consecrated land and burial grounds[^c-5a7be3349f6f3e92efa55ada9774411d]
 
-**3.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Open spaces[^key-5a7be3349f6f3e92efa55ada9774411d]
-
-*Extent: E+W*
-
-**4.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Displacement of persons[^key-5a7be3349f6f3e92efa55ada9774411d]
-
-**5.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Extinguishment of public rights of way[^key-5a7be3349f6f3e92efa55ada9774411d]
+### Open spaces[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W*
 
-**6.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Displacement of persons[^c-5a7be3349f6f3e92efa55ada9774411d]
 
-### Telegraphic lines[^key-5a7be3349f6f3e92efa55ada9774411d]
+**5.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*Extent: E+W*
-
-**8.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Statutory undertakers[^key-5a7be3349f6f3e92efa55ada9774411d]
-
-**9.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Extinguishment of public rights of way[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W*
 
-**10.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*Extent: E+W*
-
-**12.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Telegraphic lines[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W*
 
-**13.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Statutory undertakers[^c-5a7be3349f6f3e92efa55ada9774411d]
+
+**9.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**14.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**15.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-5a7be3349f6f3e92efa55ada9774411d]
+*Extent: E+W*
 
-**16.**[^key-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W*
+
+**14.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W*
+
+**15.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation[^c-5a7be3349f6f3e92efa55ada9774411d]
+
+**16.**[^c-5a7be3349f6f3e92efa55ada9774411d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a7be3349f6f3e92efa55ada9774411d]: Textual amendment: Act repealed in so far as not already repealed (1.7.2012 at 0.02 a.m. except for ss. 14, 15, 17) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-5a7be3349f6f3e92efa55ada9774411d]: Textual amendment: Act repealed in so far as not already repealed (1.7.2012 at 0.02 a.m. except for ss. 14, 15, 17) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)

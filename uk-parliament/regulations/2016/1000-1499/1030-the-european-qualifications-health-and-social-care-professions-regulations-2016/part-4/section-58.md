@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of regulation 8[^key-c4572420bc072cbb51aeb6c74cbd37d1]
+## 58. Amendment of regulation 8[^c-c4572420bc072cbb51aeb6c74cbd37d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4572420bc072cbb51aeb6c74cbd37d1]: Commencement: Reg. 58 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c4572420bc072cbb51aeb6c74cbd37d1]: Commencement: Reg. 58 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

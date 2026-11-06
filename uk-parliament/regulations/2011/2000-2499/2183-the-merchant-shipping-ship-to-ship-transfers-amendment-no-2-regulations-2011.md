@@ -32,7 +32,7 @@ summary: ''
 
 Marine Pollution
 
-The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) (No. 2) Regulations 2011 (revoked)[^key-0fb3f4c043e0159a22ddfe186223014c]
+The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) (No. 2) Regulations 2011 (revoked)[^c-0fb3f4c043e0159a22ddfe186223014c]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 30th September 2011
 
-[^key-0fb3f4c043e0159a22ddfe186223014c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fb3f4c043e0159a22ddfe186223014c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0fb3f4c043e0159a22ddfe186223014c]
+## 1. Citation and commencement[^c-0fb3f4c043e0159a22ddfe186223014c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^key-0fb3f4c043e0159a22ddfe186223014c]
+## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^c-0fb3f4c043e0159a22ddfe186223014c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fb3f4c043e0159a22ddfe186223014c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fb3f4c043e0159a22ddfe186223014c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fb3f4c043e0159a22ddfe186223014c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fb3f4c043e0159a22ddfe186223014c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fb3f4c043e0159a22ddfe186223014c]: Textual amendment: Regulations revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-0fb3f4c043e0159a22ddfe186223014c]: Textual amendment: Regulations revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)

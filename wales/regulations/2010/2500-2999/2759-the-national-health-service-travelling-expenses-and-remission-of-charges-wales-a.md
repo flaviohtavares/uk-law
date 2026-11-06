@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Travelling Expenses and Remission of Charges) (Wales) (Amendment) (No.2) Regulations 2010 (revoked)[^key-b220837b1951894cf2eff4301d6eeef9]
+The National Health Service (Travelling Expenses and Remission of Charges) (Wales) (Amendment) (No.2) Regulations 2010 (revoked)[^c-b220837b1951894cf2eff4301d6eeef9]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 20 December 2010
 
-[^key-b220837b1951894cf2eff4301d6eeef9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b220837b1951894cf2eff4301d6eeef9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-b220837b1951894cf2eff4301d6eeef9]
+## 1. Title, application and commencement[^c-b220837b1951894cf2eff4301d6eeef9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b220837b1951894cf2eff4301d6eeef9]
+## 2. Interpretation[^c-b220837b1951894cf2eff4301d6eeef9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the 2007 Regulations[^key-b220837b1951894cf2eff4301d6eeef9]
+## 3. Amendment to the 2007 Regulations[^c-b220837b1951894cf2eff4301d6eeef9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b220837b1951894cf2eff4301d6eeef9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b220837b1951894cf2eff4301d6eeef9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b220837b1951894cf2eff4301d6eeef9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b220837b1951894cf2eff4301d6eeef9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b220837b1951894cf2eff4301d6eeef9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2759) revoked (1.9.2011) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1940)](https://www.legislation.gov.uk/wsi/2011/1940), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1940/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2011/1940/regulation/5)
+[^c-b220837b1951894cf2eff4301d6eeef9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2759) revoked (1.9.2011) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1940)](https://www.legislation.gov.uk/wsi/2011/1940), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1940/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2011/1940/regulation/5)

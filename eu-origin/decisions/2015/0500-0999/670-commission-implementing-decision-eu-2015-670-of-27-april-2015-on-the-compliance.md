@@ -39,18 +39,18 @@ on the compliance of unit rates for charging zones for 2015 under Article 17 of 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f1a95accd563cd837573cb9118c311a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1a95accd563cd837573cb9118c311a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f1a95accd563cd837573cb9118c311a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f1a95accd563cd837573cb9118c311a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f1a95accd563cd837573cb9118c311a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f1a95accd563cd837573cb9118c311a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1a95accd563cd837573cb9118c311a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1a95accd563cd837573cb9118c311a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f1a95accd563cd837573cb9118c311a4]
+## ANNEX[^c-f1a95accd563cd837573cb9118c311a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1a95accd563cd837573cb9118c311a4]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [380](https://www.legislation.gov.uk/uksi/2019/459/regulation/380); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1a95accd563cd837573cb9118c311a4]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [380](https://www.legislation.gov.uk/uksi/2019/459/regulation/380); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

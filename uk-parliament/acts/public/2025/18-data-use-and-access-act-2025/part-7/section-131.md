@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Removal of recognition of EU standards etc[^key-8beb2404e45f1a375c3ace9d6331b4db]
+## 131. Removal of recognition of EU standards etc[^c-8beb2404e45f1a375c3ace9d6331b4db]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8beb2404e45f1a375c3ace9d6331b4db]: Commencement: S. 131 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-8beb2404e45f1a375c3ace9d6331b4db]: Commencement: S. 131 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

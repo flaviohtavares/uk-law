@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Meaning of “leaver PIA index adjustment”[^key-d53e2bf146132102618af990f630e60c]
+## 43. Meaning of “leaver PIA index adjustment”[^c-d53e2bf146132102618af990f630e60c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d53e2bf146132102618af990f630e60c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2014/292/regulation/43) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-d53e2bf146132102618af990f630e60c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2014/292/regulation/43) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

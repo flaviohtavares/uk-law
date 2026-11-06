@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Miscellaneous provisions relating to the 1990 Act[^key-e73fcdd8d6f7d2e8b222712c96ef2c35]
+## 51. Miscellaneous provisions relating to the 1990 Act[^c-e73fcdd8d6f7d2e8b222712c96ef2c35]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e73fcdd8d6f7d2e8b222712c96ef2c35]: Commencement: Art. 51 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-e73fcdd8d6f7d2e8b222712c96ef2c35]: Commencement: Art. 51 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

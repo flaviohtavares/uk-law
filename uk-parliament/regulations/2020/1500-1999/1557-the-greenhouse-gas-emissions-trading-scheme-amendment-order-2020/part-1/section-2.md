@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Commencement[^key-0fc39bc093dadf9e1c999b5c6066daf4]
+## 2. Commencement[^c-0fc39bc093dadf9e1c999b5c6066daf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fc39bc093dadf9e1c999b5c6066daf4]: Commencement: Art. 2 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-0fc39bc093dadf9e1c999b5c6066daf4]: Commencement: Art. 2 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

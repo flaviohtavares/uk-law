@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Advisory Panel on Country Information[^key-5b84161297525019247813f4c61bd263]
+## 142. Advisory Panel on Country Information[^c-5b84161297525019247813f4c61bd263]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b84161297525019247813f4c61bd263]: Textual amendment: S. 142 repealed (1.4.2008) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 54(d)](https://www.legislation.gov.uk/ukpga/2007/30/section/54/d), [59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2); [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/309/article/4/e)
+[^c-5b84161297525019247813f4c61bd263]: Textual amendment: S. 142 repealed (1.4.2008) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 54(d)](https://www.legislation.gov.uk/ukpga/2007/30/section/54/d), [59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2); [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/309/article/4/e)

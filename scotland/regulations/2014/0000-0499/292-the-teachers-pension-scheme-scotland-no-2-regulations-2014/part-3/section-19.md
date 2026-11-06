@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. More than one employment[^key-0bfc56512514e48eabd262ded0c03147]
+## 19. More than one employment[^c-0bfc56512514e48eabd262ded0c03147]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person may be an active member of this scheme in relation to more than one emp
 
 ## Annotations
 
-[^key-0bfc56512514e48eabd262ded0c03147]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/292/regulation/19) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0bfc56512514e48eabd262ded0c03147]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/292/regulation/19) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

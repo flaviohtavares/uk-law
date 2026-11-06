@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 232. Filing and service of witness statements[^key-bdfd07cffce1ff873ac4a5992b244b1a]
+## 232. Filing and service of witness statements[^c-bdfd07cffce1ff873ac4a5992b244b1a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the provision of the Regulations or Rules under which the application is 
 
 ## Annotations
 
-[^key-bdfd07cffce1ff873ac4a5992b244b1a]: Commencement: [Rule 232](https://www.legislation.gov.uk/uksi/2011/1301/rule/232) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-bdfd07cffce1ff873ac4a5992b244b1a]: Commencement: [Rule 232](https://www.legislation.gov.uk/uksi/2011/1301/rule/232) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

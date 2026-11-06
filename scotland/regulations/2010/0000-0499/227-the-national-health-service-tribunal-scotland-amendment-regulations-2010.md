@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 24(1) of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00002], they have consulted the Administrative Justice and Tribunals Council and its Scottish Committee.
 
-## 1. Citation and commencement[^key-e633078506421b4fc323d56e68f7f6c8]
+## 1. Citation and commencement[^c-e633078506421b4fc323d56e68f7f6c8]
 
 These Regulations may be cited as the National Health Service (Tribunal) (Scotland) Amendment Regulations 2010 and come into force on 2nd July 2010.
 
-## 2. Amendment of the National Health Service (Tribunal) (Scotland) Regulations 2004[^key-4e0f6df36cfc41dbb02192f06b84ead2]
+## 2. Amendment of the National Health Service (Tribunal) (Scotland) Regulations 2004[^c-4e0f6df36cfc41dbb02192f06b84ead2]
 
 (1) The National Health Service (Tribunal) (Scotland) Regulations 2004[^f00003] are amended in accordance with the following paragraphs.
 
@@ -79,7 +79,7 @@ These Regulations may be cited as the National Health Service (Tribunal) (Scotla
 
 (6) In regulation 31(1)(c)[^f00009] (service of forms, etc.), after “ophthalmic body corporate” in each place it occurs, insert “or dental body corporate”.
 
-(7)[^key-626ffde31678f3b9c83f466ed65ed567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-626ffde31678f3b9c83f466ed65ed567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In each of the forms 1, 2, 3 and 4 set out in Schedule 2[^f00010] (forms for use in proceedings in connection with representations and applications) after “dentist,” insert “dental body corporate,”.
 
@@ -125,9 +125,9 @@ Regulation 2(8) amends the forms 1, 2, 3 and 4 in Schedule 2 to the principal
 
 [^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15); the tribunal constituted in accordance with section 29 of, and Schedule 8 to, the National Health Service (Scotland) Act 1978 is a listed tribunal for the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007, by virtue of [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436).
 
-[^key-e633078506421b4fc323d56e68f7f6c8]: Commencement: Reg. 1 in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/227/regulation/1)
+[^c-e633078506421b4fc323d56e68f7f6c8]: Commencement: Reg. 1 in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/227/regulation/1)
 
-[^key-4e0f6df36cfc41dbb02192f06b84ead2]: Commencement: Reg. 2 in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/227/regulation/1)
+[^c-4e0f6df36cfc41dbb02192f06b84ead2]: Commencement: Reg. 2 in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/227/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38).
 
@@ -143,6 +143,6 @@ Regulation 2(8) amends the forms 1, 2, 3 and 4 in Schedule 2 to the principal
 
 [^f00009]: Footnote: Regulation 31(1)(c) was amended by [S.S.I. 2006/122](https://www.legislation.gov.uk/ssi/2006/122).
 
-[^key-626ffde31678f3b9c83f466ed65ed567]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/ssi/2010/227/regulation/2/7) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 87](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/87)
+[^c-626ffde31678f3b9c83f466ed65ed567]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/ssi/2010/227/regulation/2/7) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 87](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/87)
 
 [^f00010]: Footnote: The forms were substituted by [S.S.I. 2006/122](https://www.legislation.gov.uk/ssi/2006/122).

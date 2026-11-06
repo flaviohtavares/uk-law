@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Meaning of “apprenticeship agreement”[^key-1ec70a4217d090c7d3261f388d7828a2][^key-786485ac120fbbdfcd22329c0013f929][^key-86e3546cc5697f54eb7036d249310bac]
+## 32. Meaning of “apprenticeship agreement”[^c-1ec70a4217d090c7d3261f388d7828a2][^c-786485ac120fbbdfcd22329c0013f929][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -46,15 +46,15 @@ summary: ''
 
 (6) An apprenticeship framework is a “qualifying apprenticeship framework”, for the purposes of this section, if it is—
 
-- (a)[^key-e452664862bbed4a97cbfc1f884ecf84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e452664862bbed4a97cbfc1f884ecf84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a recognised Welsh framework.
 
 ## Annotations
 
-[^key-1ec70a4217d090c7d3261f388d7828a2]: Commencement: S. 32 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-1ec70a4217d090c7d3261f388d7828a2]: Commencement: S. 32 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
 
-[^key-786485ac120fbbdfcd22329c0013f929]: Commencement: S. 32 in force at 1.8.2011 for W. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 4](https://www.legislation.gov.uk/uksi/2011/200/article/4)
+[^c-786485ac120fbbdfcd22329c0013f929]: Commencement: S. 32 in force at 1.8.2011 for W. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 4](https://www.legislation.gov.uk/uksi/2011/200/article/4)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
 
-[^key-e452664862bbed4a97cbfc1f884ecf84]: Textual amendment: S. 32(6)(a) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/14); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-e452664862bbed4a97cbfc1f884ecf84]: Textual amendment: S. 32(6)(a) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/14); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))

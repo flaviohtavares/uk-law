@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Power to specify environmental outcomes[^key-241fdaaf5eaf734778ef8e8c5379abf3]
+## 152. Power to specify environmental outcomes[^c-241fdaaf5eaf734778ef8e8c5379abf3]
 
 *Extent: E+W+S+N.I.*
 
-(1) Regulations made by an appropriate authority under this Part (“**EOR regulations**”) may specify outcomes relating to environmental protection in the United Kingdom or elsewhere[^key-7e77829f3436f1f6a675885783d2eb0b] that are to be “**specified environmental outcomes**” for the purposes of this Part.
+(1) Regulations made by an appropriate authority under this Part (“**EOR regulations**”) may specify outcomes relating to environmental protection in the United Kingdom or elsewhere[^c-7e77829f3436f1f6a675885783d2eb0b] that are to be “**specified environmental outcomes**” for the purposes of this Part.
 
 (2) “**Environmental protection**” means—
 
@@ -48,6 +48,6 @@ and the natural systems, cycles and processes through which they interact.
 
 ## Annotations
 
-[^key-241fdaaf5eaf734778ef8e8c5379abf3]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2023/55/section/152) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-241fdaaf5eaf734778ef8e8c5379abf3]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2023/55/section/152) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
 
-[^key-7e77829f3436f1f6a675885783d2eb0b]: Textual amendment: Words in [s. 152(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/152/1) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 115](https://www.legislation.gov.uk/ukpga/2025/34/section/115), [118(6)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-7e77829f3436f1f6a675885783d2eb0b]: Textual amendment: Words in [s. 152(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/152/1) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 115](https://www.legislation.gov.uk/ukpga/2025/34/section/115), [118(6)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

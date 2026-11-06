@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2C. Causing serious injury by careless, or inconsiderate, driving[^key-bf7c5b9a7d92b1dd25a322494588389c]
+## 2C. Causing serious injury by careless, or inconsiderate, driving[^c-bf7c5b9a7d92b1dd25a322494588389c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf7c5b9a7d92b1dd25a322494588389c]: Textual amendment: [S. 2C](https://www.legislation.gov.uk/ukpga/1988/52/section/2C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 87(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/87/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-bf7c5b9a7d92b1dd25a322494588389c]: Textual amendment: [S. 2C](https://www.legislation.gov.uk/ukpga/1988/52/section/2C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 87(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/87/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

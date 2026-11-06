@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Application for registration of deed[^key-0b4b01278fcd877c91244c54018b95b8]
+## 21. Application for registration of deed[^c-0b4b01278fcd877c91244c54018b95b8]
 
 *Extent: S*
 
@@ -30,11 +30,11 @@ summary: ''
 
 (3) To the extent the applicant does not so satisfy the Keeper, the Keeper must reject the application.
 
-(4) Subsection (2) is subject to section 45(5) and paragraphs[^key-0125d4c7d5065474033164234be5c3bc] 1 to 5 of schedule 1A.
+(4) Subsection (2) is subject to section 45(5) and paragraphs[^c-0125d4c7d5065474033164234be5c3bc] 1 to 5 of schedule 1A.
 
-(4A)[^key-02a7d072ac5de1777b249ef74c20b5c6] Schedule 1A makes provision about certain land transactions involving overseas entities.
+(4A)[^c-02a7d072ac5de1777b249ef74c20b5c6] Schedule 1A makes provision about certain land transactions involving overseas entities.
 
-(5)[^key-db198bdbfabdff854bd6061a0a3eae09] For the purposes of this section, submission by electronic means of a copy of the deed is sufficient evidence of the original for the purposes of accepting an application for registration.
+(5)[^c-db198bdbfabdff854bd6061a0a3eae09] For the purposes of this section, submission by electronic means of a copy of the deed is sufficient evidence of the original for the purposes of accepting an application for registration.
 
 (6) But subsection (5) applies only where submission of the copy is by a means (and in a form) which is specified on the Keeper’s website as being acceptable.
 
@@ -50,10 +50,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4b01278fcd877c91244c54018b95b8]: Commencement: S. 21 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0b4b01278fcd877c91244c54018b95b8]: Commencement: S. 21 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-0125d4c7d5065474033164234be5c3bc]: Textual amendment: Words in [s. 21(4)](https://www.legislation.gov.uk/asp/2012/5/section/21/4) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/3/a); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-0125d4c7d5065474033164234be5c3bc]: Textual amendment: Words in [s. 21(4)](https://www.legislation.gov.uk/asp/2012/5/section/21/4) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/3/a); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-02a7d072ac5de1777b249ef74c20b5c6]: Textual amendment: S. 21(5) renumbered as s. 21(4A) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)
+[^c-02a7d072ac5de1777b249ef74c20b5c6]: Textual amendment: S. 21(5) renumbered as s. 21(4A) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)
 
-[^key-db198bdbfabdff854bd6061a0a3eae09]: Textual amendment: [S. 21(5)-(8)](https://www.legislation.gov.uk/asp/2012/5/section/21/5) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 33(2)](https://www.legislation.gov.uk/asp/2022/8/section/33/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))
+[^c-db198bdbfabdff854bd6061a0a3eae09]: Textual amendment: [S. 21(5)-(8)](https://www.legislation.gov.uk/asp/2012/5/section/21/5) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 33(2)](https://www.legislation.gov.uk/asp/2022/8/section/33/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))

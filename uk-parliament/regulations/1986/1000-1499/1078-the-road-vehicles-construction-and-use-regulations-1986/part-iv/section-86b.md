@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86B. Use of mechanical coupling devices[^key-63d928fcccf8efa2df189ad6e8489684]
+## 86B. Use of mechanical coupling devices[^c-63d928fcccf8efa2df189ad6e8489684]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d928fcccf8efa2df189ad6e8489684]: Textual amendment: [Reg. 86B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86B) inserted (1.8.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1998 (S.I. 1998/1281)](https://www.legislation.gov.uk/uksi/1998/1281), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1281/regulation/1), [3](https://www.legislation.gov.uk/uksi/1998/1281/regulation/3)
+[^c-63d928fcccf8efa2df189ad6e8489684]: Textual amendment: [Reg. 86B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86B) inserted (1.8.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1998 (S.I. 1998/1281)](https://www.legislation.gov.uk/uksi/1998/1281), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1281/regulation/1), [3](https://www.legislation.gov.uk/uksi/1998/1281/regulation/3)

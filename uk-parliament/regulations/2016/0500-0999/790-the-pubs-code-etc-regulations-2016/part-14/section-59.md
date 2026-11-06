@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Referrals to the Adjudicator in connection with the independent assessor[^key-f40245d67ff0c86147e7997b9b225fb0]
+## 59. Referrals to the Adjudicator in connection with the independent assessor[^c-f40245d67ff0c86147e7997b9b225fb0]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ paragraph (2) applies.
 
 ## Annotations
 
-[^key-f40245d67ff0c86147e7997b9b225fb0]: Commencement: Reg. 59 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-f40245d67ff0c86147e7997b9b225fb0]: Commencement: Reg. 59 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

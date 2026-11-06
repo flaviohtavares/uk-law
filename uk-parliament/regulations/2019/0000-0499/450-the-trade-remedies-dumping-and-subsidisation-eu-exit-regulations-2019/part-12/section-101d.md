@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101D. Secretary of State’s power to apply an alternative remedy[^key-f054b46695cc48d6205e4f08607d3327]
+## 101D. Secretary of State’s power to apply an alternative remedy[^c-f054b46695cc48d6205e4f08607d3327]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f054b46695cc48d6205e4f08607d3327]: Textual amendment: [Regs. 101D](https://www.legislation.gov.uk/uksi/2019/450/regulation/101D), [101E](https://www.legislation.gov.uk/uksi/2019/450/regulation/101E) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2024/545/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-f054b46695cc48d6205e4f08607d3327]: Textual amendment: [Regs. 101D](https://www.legislation.gov.uk/uksi/2019/450/regulation/101D), [101E](https://www.legislation.gov.uk/uksi/2019/450/regulation/101E) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2024/545/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -32,7 +32,7 @@ is to be read as a reference to an offence under section 42 of the Armed Forces 
 
 (3) A reference to the court or jury is to be read as a reference to the court.
 
-(4)[^key-5d9d5f4090567f9c4bad264d1c30ee5a] Section 6A(1), (3) and (5) has effect in relation to proceedings before the Court Martial with the following adaptations.
+(4)[^c-5d9d5f4090567f9c4bad264d1c30ee5a] Section 6A(1), (3) and (5) has effect in relation to proceedings before the Court Martial with the following adaptations.
 
 (5) A reference to an offence—
 
@@ -53,4 +53,4 @@ is to be read as a reference to an offence under section 42 of the Armed Forces 
 
 [^c21160811]: Textual amendment: S. 8(2) substituted (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 238(4)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/238/4); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4) (and see transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5d9d5f4090567f9c4bad264d1c30ee5a]: Textual amendment: S. 8(4)-(6) inserted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/9); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
+[^c-5d9d5f4090567f9c4bad264d1c30ee5a]: Textual amendment: S. 8(4)-(6) inserted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/9); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)

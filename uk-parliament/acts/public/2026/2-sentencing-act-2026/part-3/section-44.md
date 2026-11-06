@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendments to Bail Act 1976[^key-9a00058f9ab9d70c9afa089760c59e5c][^key-d66cfb3e84d353b4d98bd375b85cc6ee]
+## 44. Amendments to Bail Act 1976[^c-9a00058f9ab9d70c9afa089760c59e5c][^c-d66cfb3e84d353b4d98bd375b85cc6ee]
 
 *Extent: E+W*
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a00058f9ab9d70c9afa089760c59e5c]: Commencement: S. 44 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-9a00058f9ab9d70c9afa089760c59e5c]: Commencement: S. 44 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-d66cfb3e84d353b4d98bd375b85cc6ee]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2026/2/section/44) in force at 22.3.2026 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [reg. 2](https://www.legislation.gov.uk/uksi/2026/86/regulation/2)
+[^c-d66cfb3e84d353b4d98bd375b85cc6ee]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2026/2/section/44) in force at 22.3.2026 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [reg. 2](https://www.legislation.gov.uk/uksi/2026/86/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — EQUIPMENT FOR NON-PART-21 AIRCRAFT ON NON-COMMERCIAL AND COMMERCIAL OPERATIONS AND MARKING OF BREAK-IN AREAS[^key-05a2470bf898fac0600576ad745ccd12]
+## SCHEDULE 5 — EQUIPMENT FOR NON-PART-21 AIRCRAFT ON NON-COMMERCIAL AND COMMERCIAL OPERATIONS AND MARKING OF BREAK-IN AREAS[^c-05a2470bf898fac0600576ad745ccd12]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,14 +28,14 @@ Articles 44(5) and 77(3)
 
 - (a) used by the flight crew to control the flight path;
 - (b) used to comply with paragraph 15 or 16; or
-- (c) installed in the aircraft[^key-539b7ae8e83e642e0229b8e642612a74].
+- (c) installed in the aircraft[^c-539b7ae8e83e642e0229b8e642612a74].
 
 (2) When required by this Schedule, an equipment approval is not needed for—
 
 - (a) independent portable lights;
 - (b) an accurate time piece;
 - (c) survival and signalling equipment;
-- (ca)[^key-68af97027012375920a9938d9c21c1a2] oxygen supplies;
+- (ca)[^c-68af97027012375920a9938d9c21c1a2] oxygen supplies;
 - (d) sea anchor and equipment for mooring; and
 - (e) a child restraint device.
 
@@ -250,18 +250,18 @@ Aeroplanes powered by one or more turbine jets or turbine propeller engines and 
 
 must be equipped with ACAS II in accordance with the Airborne Collision Avoidance Regulation.
 
-### 19. Maps and charts[^key-ba6b5358f29dc15a14d84a48b8b94cb1]
+### 19. Maps and charts[^c-ba6b5358f29dc15a14d84a48b8b94cb1]
 
 Maps, charts, codes and other documents necessary for the intended flight of the aircraft, including any diversion which may reasonably be expected from the aerodrome of intended landing, must be carried on the aircraft.
 
 ## Annotations
 
-[^key-05a2470bf898fac0600576ad745ccd12]: Textual amendment: Word in [Sch. 5](https://www.legislation.gov.uk/uksi/2016/765/schedule/5) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/80) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05a2470bf898fac0600576ad745ccd12]: Textual amendment: Word in [Sch. 5](https://www.legislation.gov.uk/uksi/2016/765/schedule/5) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/80) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-539b7ae8e83e642e0229b8e642612a74]: Textual amendment: Word in Sch. 5 para. 1(1)(c) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [43(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/43/a)
+[^c-539b7ae8e83e642e0229b8e642612a74]: Textual amendment: Word in Sch. 5 para. 1(1)(c) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [43(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/43/a)
 
-[^key-68af97027012375920a9938d9c21c1a2]: Textual amendment: Sch. 5 para. 1(2)(ca) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [43(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/43/b)
+[^c-68af97027012375920a9938d9c21c1a2]: Textual amendment: Sch. 5 para. 1(2)(ca) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [43(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/43/b)
 
 [^c23205161]: Marginal citation: Treaty Series No. 77 (1977); Cmnd 6962.
 
-[^key-ba6b5358f29dc15a14d84a48b8b94cb1]: Textual amendment: [Sch. 5 para. 19](https://www.legislation.gov.uk/uksi/2016/765/schedule/5/paragraph/19) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [43(c)](https://www.legislation.gov.uk/uksi/2017/1112/article/43/c)
+[^c-ba6b5358f29dc15a14d84a48b8b94cb1]: Textual amendment: [Sch. 5 para. 19](https://www.legislation.gov.uk/uksi/2016/765/schedule/5/paragraph/19) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [43(c)](https://www.legislation.gov.uk/uksi/2017/1112/article/43/c)

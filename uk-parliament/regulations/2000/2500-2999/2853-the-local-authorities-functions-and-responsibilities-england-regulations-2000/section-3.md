@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Functions which may be the responsibility of an authority’s executive[^key-0496170e6b5cf466076804e5fedd46d8]
+## 3. Functions which may be the responsibility of an authority’s executive[^c-0496170e6b5cf466076804e5fedd46d8]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0496170e6b5cf466076804e5fedd46d8]: Commencement: Reg. 3 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)
+[^c-0496170e6b5cf466076804e5fedd46d8]: Commencement: Reg. 3 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)
 
 [^f00009]: Footnote: *See also* regulation 5(2)(e)(i) of the Local Government (Committees and Political Groups) Regulation 1990 (S.I. [1990/1553](https://www.legislation.gov.uk/uksi/1990/1553)).

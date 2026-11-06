@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Disqualification from being a Member of the Senedd and a community councillor[^key-f6fe2c91514fa119fa8a769dbac3028c]
+## 61. Disqualification from being a Member of the Senedd and a community councillor[^c-f6fe2c91514fa119fa8a769dbac3028c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6fe2c91514fa119fa8a769dbac3028c]: Commencement: S. 61 in force at 10.9.2024, see [s. 72(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/b)
+[^c-f6fe2c91514fa119fa8a769dbac3028c]: Commencement: S. 61 in force at 10.9.2024, see [s. 72(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/b)

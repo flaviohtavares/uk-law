@@ -16,145 +16,145 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XVII — METHOD-SPECIFIC DATA REQUIREMENTS AND METHOD SPECIFICATIONS FOR UNDERTAKING-SPECIFIC PARAMETERS OF THE STANDARD FORMULA[^key-d47e1c724c465df0decb570554654b62]
+## ANNEX XVII — METHOD-SPECIFIC DATA REQUIREMENTS AND METHOD SPECIFICATIONS FOR UNDERTAKING-SPECIFIC PARAMETERS OF THE STANDARD FORMULA[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]A.
+[^c-d47e1c724c465df0decb570554654b62]A.
 
 **Definitions and notations**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 For the purpose of this Annex, the following definitions shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]B.
+[^c-d47e1c724c465df0decb570554654b62]B.
 
 **Premium risk method**
 
-[^key-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
+[^c-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 The data for estimating the undertaking-specific standard deviation of segment *s* shall consist of the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 The following method-specific data requirements shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Method specification**
+[^c-d47e1c724c465df0decb570554654b62]**Method specification**
 
-[^key-d47e1c724c465df0decb570554654b62](3)
+[^c-d47e1c724c465df0decb570554654b62](3)
 
 For the purpose of paragraphs 4-6, the following notation shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](4)
+[^c-d47e1c724c465df0decb570554654b62](4)
 
 The undertaking-specific standard deviation of segment *s* shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](5)
+[^c-d47e1c724c465df0decb570554654b62](5)
 
 The standard deviation function shall be equal to the following function of two variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](6)
+[^c-d47e1c724c465df0decb570554654b62](6)
 
 The mixing parameter and the logarithmic variation coefficient shall be the values [image: see source](https://www.legislation.gov.uk/eur/2015/35/images/eur_20150035_2020-07-30_en_012)and [image: see source](https://www.legislation.gov.uk/eur/2015/35/images/eur_20150035_2020-07-30_en_013)respectively for which the following amount becomes minimal:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]C.
+[^c-d47e1c724c465df0decb570554654b62]C.
 
 **Reserve risk method 1**
 
-[^key-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
+[^c-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 The data for estimating the undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment *s* shall consist of the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 The following method-specific data requirements shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Method specification**
+[^c-d47e1c724c465df0decb570554654b62]**Method specification**
 
-[^key-d47e1c724c465df0decb570554654b62](3)
+[^c-d47e1c724c465df0decb570554654b62](3)
 
 For the purpose of paragraphs 4-6, the following notation shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](4)
+[^c-d47e1c724c465df0decb570554654b62](4)
 
 The undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment *s* shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](5)
+[^c-d47e1c724c465df0decb570554654b62](5)
 
 The standard deviation function shall be equal to the following function of two variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](6)
+[^c-d47e1c724c465df0decb570554654b62](6)
 
 The mixing parameter and the logarithmic variation coefficient shall be the values [image: see source](https://www.legislation.gov.uk/eur/2015/35/images/eur_20150035_2020-07-30_en_026)and [image: see source](https://www.legislation.gov.uk/eur/2015/35/images/eur_20150035_2020-07-30_en_027)respectively for which the following amount becomes minimal:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]D.
+[^c-d47e1c724c465df0decb570554654b62]D.
 
 **Reserve risk method 2**
 
-[^key-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
+[^c-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 The following method-specific data requirements shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Method specification**
+[^c-d47e1c724c465df0decb570554654b62]**Method specification**
 
-[^key-d47e1c724c465df0decb570554654b62](3)
+[^c-d47e1c724c465df0decb570554654b62](3)
 
 For the purpose of paragraphs 4 and 5, the following notation shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](4)
+[^c-d47e1c724c465df0decb570554654b62](4)
 
 The undertaking-specific standard deviation for non-life reserve risk or NSLT health reserve risk of segment *s* shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](5)
+[^c-d47e1c724c465df0decb570554654b62](5)
 
 The mean squared error of prediction shall be equal to the following:
 
@@ -178,97 +178,97 @@ where:
   - ((i)) [image: see source](https://www.legislation.gov.uk/eur/2015/35/images/eur_20150035_2020-07-30_en_039)denotes the development factor estimate of development year *j* as set out in paragraph 4(c);
   - ((ii)) [image: see source](https://www.legislation.gov.uk/eur/2015/35/images/eur_20150035_2020-07-30_en_040)denotes the following amount:
 
-[^key-d47e1c724c465df0decb570554654b62]E.
+[^c-d47e1c724c465df0decb570554654b62]E.
 
 **Revision risk method**
 
-[^key-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
+[^c-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 The following method-specific data requirements shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Method specification**
+[^c-d47e1c724c465df0decb570554654b62]**Method specification**
 
-[^key-d47e1c724c465df0decb570554654b62](3)
+[^c-d47e1c724c465df0decb570554654b62](3)
 
 For the purpose of paragraphs 4-8, the following notation shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](4)
+[^c-d47e1c724c465df0decb570554654b62](4)
 
 The undertaking-specific increase in the amount of annuity benefits shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](5)
+[^c-d47e1c724c465df0decb570554654b62](5)
 
 The expected value of annuity increases shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](6)
+[^c-d47e1c724c465df0decb570554654b62](6)
 
 The annuity increases shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](7)
+[^c-d47e1c724c465df0decb570554654b62](7)
 
 The estimated standard deviation of the number of changes in annuity benefits shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](8)
+[^c-d47e1c724c465df0decb570554654b62](8)
 
 The estimated standard deviation of changes in annuity benefits shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]F1.
+[^c-d47e1c724c465df0decb570554654b62]F1.
 
 **Non-proportional reinsurance method 1**
 
-[^key-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
+[^c-d47e1c724c465df0decb570554654b62]**Input data and method-specific data requirements**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 The following method-specific data requirements shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Method specification**
+[^c-d47e1c724c465df0decb570554654b62]**Method specification**
 
-[^key-d47e1c724c465df0decb570554654b62](3)
+[^c-d47e1c724c465df0decb570554654b62](3)
 
 For the purpose of paragraphs 4-7, the following notation shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](4)
+[^c-d47e1c724c465df0decb570554654b62](4)
 
 The undertaking-specific specific adjustment factor for non-proportional reinsurance shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](5)
+[^c-d47e1c724c465df0decb570554654b62](5)
 
 The estimated adjustment factor for non-proportional reinsurance shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](6)
+[^c-d47e1c724c465df0decb570554654b62](6)
 
 The parameters, *μ* <sub>2</sub>, *ω* <sub>1</sub> and *ω* <sub>2</sub> shall be equal to the following:
 
@@ -284,17 +284,17 @@ where:
   - [formula: see source](https://www.legislation.gov.uk/eur/2015/35)
   - [formula: see source](https://www.legislation.gov.uk/eur/2015/35).
 
-[^key-d47e1c724c465df0decb570554654b62](7)
+[^c-d47e1c724c465df0decb570554654b62](7)
 
 Notwithstanding paragraph 5, where non-proportional reinsurance covers homogeneous risk-groups within a segment, the estimated adjustment factor for non-proportional reinsurance shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]F2.
+[^c-d47e1c724c465df0decb570554654b62]F2.
 
 **Non-proportional reinsurance method 2**
 
-[^key-d47e1c724c465df0decb570554654b62] **Input data and method-specific data requirements**
+[^c-d47e1c724c465df0decb570554654b62] **Input data and method-specific data requirements**
 
 - ((1)) The data for estimating the undertaking-specific adjustment factor for non-proportional reinsurance shall consist of the aggregated annual losses of insurance and reinsurance claims that were reported to the insurance or reinsurance undertaking in segment *s* during the last financial years.
 - ((2)) The following method-specific data requirements shall apply:
@@ -307,7 +307,7 @@ Notwithstanding paragraph 5, where non-proportional reinsurance covers homogeneo
   - ((g)) the aggregated annual losses shall not include expenses incurred in servicing the insurance and reinsurance obligations;
   - ((h)) the data are consistent with the assumption that aggregated annual losses follow a lognormal distribution, including in the tail of the distribution.
 
-[^key-d47e1c724c465df0decb570554654b62] **Method specification**
+[^c-d47e1c724c465df0decb570554654b62] **Method specification**
 
 - ((1)) For the purpose of paragraphs 4-7, the following notation shall apply:
   - ((a)) *n* denotes the number of financial years for which aggregated annual losses data is available;
@@ -352,23 +352,23 @@ Notwithstanding paragraph 5, where non-proportional reinsurance covers homogeneo
   - ((a)) *V* <sub> ( </sub>*<sub> prem,h </sub>*<sub> ) </sub> denotes the volume measure for premium risk of the homogeneous risk group h determined in accordance with paragraph 3 of Article 116;
   - ((b)) *NP′* <sub> ( </sub>*<sub> h </sub>*<sub> ) </sub> denotes the estimated adjustment factor for non-proportional reinsurance of homogeneous risk group *h* determined in accordance with paragraph 5.
 
-[^key-d47e1c724c465df0decb570554654b62]G.
+[^c-d47e1c724c465df0decb570554654b62]G.
 
 **Credibility factor**
 
-[^key-d47e1c724c465df0decb570554654b62](1)
+[^c-d47e1c724c465df0decb570554654b62](1)
 
 The credibility factor for segments 1, 5 and 6 set out in Annex II shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](2)
+[^c-d47e1c724c465df0decb570554654b62](2)
 
 The credibility factor for segments 2 to 4 and 7 to 12 set out in Annex II, for the segments set out Annex XIV and for the revision risk method shall be equal to the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62](3)
+[^c-d47e1c724c465df0decb570554654b62](3)
 
 The time length shall be equal to the following:
 
@@ -376,4 +376,4 @@ The time length shall be equal to the following:
 
 ## Annotations
 
-[^key-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

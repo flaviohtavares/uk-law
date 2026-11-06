@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.11. Court’s power to vary requirements under this Part[^key-41908ca505c227c9a8406be7ed05b07f]
+## 11.11. Court’s power to vary requirements under this Part[^c-41908ca505c227c9a8406be7ed05b07f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41908ca505c227c9a8406be7ed05b07f]: Commencement: [Rule 11.11](https://www.legislation.gov.uk/uksi/2025/909/rule/11.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-41908ca505c227c9a8406be7ed05b07f]: Commencement: [Rule 11.11](https://www.legislation.gov.uk/uksi/2025/909/rule/11.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

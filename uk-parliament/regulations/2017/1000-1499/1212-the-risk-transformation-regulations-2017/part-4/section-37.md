@@ -35,7 +35,7 @@ summary: ''
 
 (6) Where the FCA provides an electronic copy of a document or particular, it must not be certified as a “true copy” unless the applicant requests certification.
 
-(7) Where the FCA certifies an electronic copy as a “true copy”, it must do so with an advanced electronic signature which meets the requirements set out in Article 26 of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for the electronic transactions in the internal market and repealing Directive[^key-bb010ec7925b4833318088808b7b9ae0] [1999/93/EC](https://www.legislation.gov.uk/eudr/1999/93).
+(7) Where the FCA certifies an electronic copy as a “true copy”, it must do so with an advanced electronic signature which meets the requirements set out in Article 26 of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for the electronic transactions in the internal market and repealing Directive[^c-bb010ec7925b4833318088808b7b9ae0] [1999/93/EC](https://www.legislation.gov.uk/eudr/1999/93).
 
 (8) The FCA may charge a fee for the provision of any document or particular recorded on its register provided the fee does not exceed the administrative cost of providing it.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb010ec7925b4833318088808b7b9ae0]: Textual amendment: Words in reg. 37(7) substituted (31.12.2020) by [The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1233)](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/4), [2(5)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb010ec7925b4833318088808b7b9ae0]: Textual amendment: Words in reg. 37(7) substituted (31.12.2020) by [The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1233)](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/4), [2(5)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

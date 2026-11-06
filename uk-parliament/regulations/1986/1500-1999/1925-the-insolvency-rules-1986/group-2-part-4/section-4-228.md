@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.228. First excepted case[^key-53468014a89cd35661ec230de79d6211]
+## 4.228. First excepted case[^c-53468014a89cd35661ec230de79d6211]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53468014a89cd35661ec230de79d6211]: Textual amendment: Rule 4.228 substituted (6.8.2007) by [The Insolvency (Amendment) Rules 2007 (S.I. 2007/1974)](https://www.legislation.gov.uk/uksi/2007/1974), [rules 1](https://www.legislation.gov.uk/uksi/2007/1974/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/1974/rule/3/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2007/1974/article/2))
+[^c-53468014a89cd35661ec230de79d6211]: Textual amendment: Rule 4.228 substituted (6.8.2007) by [The Insolvency (Amendment) Rules 2007 (S.I. 2007/1974)](https://www.legislation.gov.uk/uksi/2007/1974), [rules 1](https://www.legislation.gov.uk/uksi/2007/1974/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/1974/rule/3/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2007/1974/article/2))

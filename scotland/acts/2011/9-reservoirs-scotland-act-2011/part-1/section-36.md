@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Safety reports: compliance[^key-6196e901928ee0cd7f58249fcc7d50ef]
+## 36. Safety reports: compliance[^c-6196e901928ee0cd7f58249fcc7d50ef]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6196e901928ee0cd7f58249fcc7d50ef]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/9/section/36) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-6196e901928ee0cd7f58249fcc7d50ef]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/9/section/36) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

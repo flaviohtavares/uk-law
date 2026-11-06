@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Claimants to be treated as receiving education[^key-13de01ebaac48e7470a4d24e589872b6]
+## 15. Claimants to be treated as receiving education[^c-13de01ebaac48e7470a4d24e589872b6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Subject to regulation 18, a qualifying young person is to be treated as receivin
 
 ## Annotations
 
-[^key-13de01ebaac48e7470a4d24e589872b6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/280/regulation/15) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-13de01ebaac48e7470a4d24e589872b6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/280/regulation/15) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

@@ -33,7 +33,7 @@ Key to Schedule 3
 | PB | Creation of parking or servicing bay |
 | NET | Nottingham Express Transit |
 
-### PART 1 — HIGHWAYS SUBJECT TO ALTERATION OF LAYOUT[^key-6d63e223f0270273118957345243d4ad]
+### PART 1 — HIGHWAYS SUBJECT TO ALTERATION OF LAYOUT[^c-6d63e223f0270273118957345243d4ad]
 
 <table>
 <thead>
@@ -186,7 +186,7 @@ Key to Schedule 3
 </tbody>
 </table>
 
-### PART 2 — FOOTPATHS AND BRIDLEWAYS SUBJECT TO ALTERATION OF LAYOUT[^key-e17d37177bffb0f36b004bc0a8a7c7ae]
+### PART 2 — FOOTPATHS AND BRIDLEWAYS SUBJECT TO ALTERATION OF LAYOUT[^c-e17d37177bffb0f36b004bc0a8a7c7ae]
 
 <table>
 <thead>
@@ -245,6 +245,6 @@ Key to Schedule 3
 
 ## Annotations
 
-[^key-6d63e223f0270273118957345243d4ad]: Commencement: Sch. 3 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-6d63e223f0270273118957345243d4ad]: Commencement: Sch. 3 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-e17d37177bffb0f36b004bc0a8a7c7ae]: Commencement: Sch. 3 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e17d37177bffb0f36b004bc0a8a7c7ae]: Commencement: Sch. 3 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

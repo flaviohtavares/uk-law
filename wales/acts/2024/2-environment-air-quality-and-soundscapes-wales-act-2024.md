@@ -44,7 +44,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 ### CHAPTER 1 — NATIONAL TARGETS
 
-#### 1. Air quality targets: general[^key-8040d29b4f9867908452c34e0c388bd2]
+#### 1. Air quality targets: general[^c-8040d29b4f9867908452c34e0c388bd2]
 
 (1) The Welsh Ministers may by regulations set long-term targets in respect of any matter relating to air quality in Wales.
 
@@ -75,7 +75,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 - (a) “**PM10**” means particulate matter with an aerodynamic diameter not exceeding 10 micrometres‍;
 - (b) “specified standard” and “**specified date**”, in relation to a target set under this section, mean the standard and date specified under subsection (3).
 
-#### 2. Air quality targets: particulate matter[^key-e4ba17a5042a6c8bbd17c1d3b1689d54]
+#### 2. Air quality targets: particulate matter[^c-e4ba17a5042a6c8bbd17c1d3b1689d54]
 
 (1) The Welsh Ministers must by regulations set at least one target (a “PM2.5 air quality target”) in respect of the annual mean level of PM2.5 in ambient air in Wales.
 
@@ -89,7 +89,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 (6) In this Chapter, a “PM2.5 air quality target” means a target set under this section.
 
-#### 3. Target-setting process[^key-351c8082900a21a1a44a4a38dfd2ec30]
+#### 3. Target-setting process[^c-351c8082900a21a1a44a4a38dfd2ec30]
 
 (1) Before making regulations under section 1 or 2, the Welsh Ministers must—
 
@@ -122,7 +122,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 (11) The Welsh Ministers must lay a draft of a statutory instrument containing regulations setting a PM2.5 air quality target before Senedd Cymru before the end of the period of 3 years beginning with the date on which this Act receives Royal Assent.
 
-#### 4. Effect of targets[^key-d5ae444ac13a3e75126c70bf4a7a8289]
+#### 4. Effect of targets[^c-d5ae444ac13a3e75126c70bf4a7a8289]
 
 (1) The Welsh Ministers must ensure that—
 
@@ -131,7 +131,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 (2) Nothing in this Chapte‍r, other than section 8, limits the Welsh Ministers’ power under section 87 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (power to make regulations in relation to the assessment or management of air quality).
 
-#### 5. Reporting on targets[^key-1dd6bf0778731f2c89a49dd83b11d655]
+#### 5. Reporting on targets[^c-1dd6bf0778731f2c89a49dd83b11d655]
 
 (1) Regulations under section 1 or 2 must specify a reporting date for any target set under that section.
 
@@ -154,7 +154,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 (7) Subsections (3) to (6) apply to further statements under subsection (6) as they apply to a statement under subsection (2).
 
-#### 6. Review of targets[^key-0f2f3047857841062ad38c64eac8d7bd]
+#### 6. Review of targets[^c-0f2f3047857841062ad38c64eac8d7bd]
 
 (1) The Welsh Ministers must review targets under sections 1 and 2 in accordance with this section.
 
@@ -175,13 +175,13 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 (8) A review is completed when the Welsh Ministers have laid the statement before Senedd Cymru and published it.
 
-#### 7. Monitoring progress towards meeting targets[^key-8e68cb64cf12d4a9d074b35714d772cc][^key-528b085761f999855920123b0ccd25ed]
+#### 7. Monitoring progress towards meeting targets[^c-8e68cb64cf12d4a9d074b35714d772cc][^c-528b085761f999855920123b0ccd25ed]
 
 (1) The Welsh Ministers must make arrangements for obtaining such data about air quality in Wales as they consider appropriate to monitor the progress being made towards meeting any targets set under section 1 or 2.
 
 (2) The Welsh Ministers must publish any data obtained under subsection (1) as soon as is reasonably practicable.
 
-#### 8. Maintaining air quality standards[^key-281864852506ffca9d50b6c070686bf9]
+#### 8. Maintaining air quality standards[^c-281864852506ffca9d50b6c070686bf9]
 
 (1) This section applies in relation to a specified standard for a target set under section 1 or 2 where—
 
@@ -205,7 +205,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 - (c) have regard to any guidelines in respect of the pollutant to which the standard applies published by the World Health Organisation in its most recent global air quality guidelines, and
 - (d) lay before Senedd Cymru, and publish, a statement explaining why the Welsh Ministers are satisfied as mentioned in subsection (3).
 
-#### 9. Reporting in relation to section 1[^key-65312c4bc5950d9fd5fe6da97b4add66]
+#### 9. Reporting in relation to section 1[^c-65312c4bc5950d9fd5fe6da97b4add66]
 
 (1) The Welsh Ministers must, as soon as practicable after the end of each reporting period, lay before Senedd Cymru and publish a report on the consideration they have given during that period to setting long-term targets under section 1.
 
@@ -229,7 +229,7 @@ An Act of Senedd Cymru to make provision for improving air quality in Wales; for
 
 #### Promoting awareness
 
-##### 10. Promoting awareness about air pollution[^key-231f6177aaed74cc16bc48bcc9bd7db9]
+##### 10. Promoting awareness about air pollution[^c-231f6177aaed74cc16bc48bcc9bd7db9]
 
 The Welsh Ministers must take steps to promote awareness in Wales of—
 
@@ -238,7 +238,7 @@ The Welsh Ministers must take steps to promote awareness in Wales of—
 
 #### Promoting active travel
 
-##### 11. Promoting active travel as a way of reducing or limiting air pollution[^key-6abcc47096393afaef4bdc8f90f4bf66][^key-9278e3e10b0133b6addcf12efe0a587c]
+##### 11. Promoting active travel as a way of reducing or limiting air pollution[^c-6abcc47096393afaef4bdc8f90f4bf66][^c-9278e3e10b0133b6addcf12efe0a587c]
 
 After section 10 of the [Active Travel (Wales) Act 2013 (anaw 7)](https://www.legislation.gov.uk/anaw/2013/7) (duty to exercise functions under the Act to promote active travel) insert—
 
@@ -301,7 +301,7 @@ After section 10 of the [Active Travel (Wales) Act 2013 (anaw 7)](https://www.le
 
 #### National air quality strategy
 
-##### 12. Power to change review period for strategy[^key-6b8b15cb735071208f02d3b512c361a9]
+##### 12. Power to change review period for strategy[^c-6b8b15cb735071208f02d3b512c361a9]
 
 (1) In section 80 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (national air quality strategy), after subsection (7) insert—
 
@@ -311,7 +311,7 @@ After section 10 of the [Active Travel (Wales) Act 2013 (anaw 7)](https://www.le
 
 > (9A) A statutory instrument containing regulations under section 80(8) may not be made unless a draft of the instrument has been laid before, and approved by resolution of, Senedd Cymru.
 
-##### 13. Consultation on review of strategy[^key-0b2de7c4575c5f655b54f80ca8f65887]
+##### 13. Consultation on review of strategy[^c-0b2de7c4575c5f655b54f80ca8f65887]
 
 After section 80(8) of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (as inserted by section 12) insert—
 
@@ -328,7 +328,7 @@ After section 80(8) of the Environment Act [1995 (c. 25)](https://www.legislatio
 > - (g) Transport for Wales; and
 > - (h) the public.
 
-##### 14. Duty to have regard to strategy[^key-98b05e69478eefaa4cf3412d78bf9fee]
+##### 14. Duty to have regard to strategy[^c-98b05e69478eefaa4cf3412d78bf9fee]
 
 (1) After section 81A of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) insert—
 
@@ -374,7 +374,7 @@ After section 80(8) of the Environment Act [1995 (c. 25)](https://www.legislatio
 
 #### Air quality regulations
 
-##### 15. Consultation on air quality regulations[^key-88343dd74a196938719c99636e615505]
+##### 15. Consultation on air quality regulations[^c-88343dd74a196938719c99636e615505]
 
 In section 87 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (regulations for the purposes of Part 4), after subsection (7) insert—
 
@@ -390,7 +390,7 @@ In section 87 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.
 
 #### Local air quality management
 
-##### 16. Local authority air quality reviews[^key-6caa94f0aeb6ca63e697b0ac59198859][^key-036f11ec9065678477119edd1002017e]
+##### 16. Local authority air quality reviews[^c-6caa94f0aeb6ca63e697b0ac59198859][^c-036f11ec9065678477119edd1002017e]
 
 (1) Section 82 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (local authority reviews) is amended as follows.
 
@@ -402,7 +402,7 @@ In section 87 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.
 
 (4) In subsection (2), after “subsection (1)” insert “or (1A)”.
 
-##### 17. Action plans in relation to air quality management areas[^key-28d621a2fa13c1bda82c66514b529ee0][^key-d8234ee7a0927ca21f2f2479da8208ca]
+##### 17. Action plans in relation to air quality management areas[^c-28d621a2fa13c1bda82c66514b529ee0][^c-d8234ee7a0927ca21f2f2479da8208ca]
 
 (1) After section 83A of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) insert—
 
@@ -447,7 +447,7 @@ In section 87 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.
 
 .
 
-##### 18. Welsh Ministers’ powers of direction[^key-770593dad51b31a1a6b29b683797d46a][^key-674b2a7331f968704b0f104d798acfdd]
+##### 18. Welsh Ministers’ powers of direction[^c-770593dad51b31a1a6b29b683797d46a][^c-674b2a7331f968704b0f104d798acfdd]
 
 In section 85 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (reserve powers of the Welsh Ministers), in subsection (3)—
 
@@ -461,7 +461,7 @@ In section 85 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.
 
 #### Smoke control
 
-##### 19. Regulation of smoke and fuel in smoke control areas[^key-460e1b4fadfa12e4a9990aed78792646][^key-011ab4c7ef4d0a7a4bdf1d1b41a84b8d]
+##### 19. Regulation of smoke and fuel in smoke control areas[^c-460e1b4fadfa12e4a9990aed78792646][^c-011ab4c7ef4d0a7a4bdf1d1b41a84b8d]
 
 (1) The Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11) is amended as follows.
 
@@ -522,7 +522,7 @@ In section 85 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.
 >
 > (3) As soon as practicable after the making of such regulations, the local authority must take such steps as appear to them suitable for bringing the effect of the regulations to the notice of persons affected by the regulations.
 
-##### 20. Guidance for local authorities in relation to smoke control areas[^key-ebb4f3802376c53cc9fd83f6f099df3a][^key-a62049a7752675a41df43c3bc611f483]
+##### 20. Guidance for local authorities in relation to smoke control areas[^c-ebb4f3802376c53cc9fd83f6f099df3a][^c-a62049a7752675a41df43c3bc611f483]
 
 After section 28A of the Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11) insert—
 
@@ -530,13 +530,13 @@ After section 28A of the Clean Air Act [1993 (c. 11)](https://www.legislation.go
 >
 > A local authority in Wales must have regard to any guidance published by the Welsh Ministers about the exercise of the authority’s functions under this Part.
 
-##### 21. Further provision relating to smoke control[^key-f6a2511c774cfd98da839e3e0472255d][^key-f9b83b2a8a60779a45423bda196af085]
+##### 21. Further provision relating to smoke control[^c-f6a2511c774cfd98da839e3e0472255d][^c-f9b83b2a8a60779a45423bda196af085]
 
 Schedule 1 makes further provision relating to smoke control.
 
 #### Vehicle emissions
 
-##### 22. Trunk road charging schemes[^key-5e8724e3b83f223bc803e0cd3dc0acaf]
+##### 22. Trunk road charging schemes[^c-5e8724e3b83f223bc803e0cd3dc0acaf]
 
 (1) The Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
 
@@ -555,11 +555,11 @@ Schedule 1 makes further provision relating to smoke control.
 
 (3) In section 170 (charging schemes: consultation and inquiries), in subsection (7)(a), after “section 167(2)(b)” insert “or (3)(c)”.
 
-##### 23. Further provision relating to trunk road charging schemes[^key-46e11863a7368d72148a11388732f725]
+##### 23. Further provision relating to trunk road charging schemes[^c-46e11863a7368d72148a11388732f725]
 
 Schedule 2 makes provision for and in connection with the application of the proceeds of trunk road charging schemes made for the purpose of reducing or limiting air pollution.
 
-##### 24. Stationary idling offence: fixed penalty[^key-e8b899f63f705f88d4a3533920a10afd]
+##### 24. Stationary idling offence: fixed penalty[^c-e8b899f63f705f88d4a3533920a10afd]
 
 (1) The Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) is amended as follows.
 
@@ -595,7 +595,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 
 ### National soundscapes strategy
 
-#### 25. National strategy on soundscapes[^key-8b817d33da96af25558000feeb8edb98]
+#### 25. National strategy on soundscapes[^c-8b817d33da96af25558000feeb8edb98]
 
 (1) The Welsh Ministers must prepare and publish a strategy containing their policies with respect to the assessmen‍t, management and design of soundscapes in Wales.
 
@@ -631,7 +631,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 
 (9) In this section and section 26, “**local authority**” means a county council or county borough council.
 
-#### 26. Duty to have regard to national strategy on soundscapes[^key-616a7758e3f2b3be0b40562b202bc669]
+#### 26. Duty to have regard to national strategy on soundscapes[^c-616a7758e3f2b3be0b40562b202bc669]
 
 (1) The following persons must have regard to the policies in the strategy published under section 25 when exercising any function of a public nature that could affect soundscapes in Wales—
 
@@ -649,7 +649,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 
 ### Strategic noise maps and noise action plans
 
-#### 27. Power to change cycles for making strategic noise maps and reviewing noise action plans[^key-c05ebbe9fc82cdb81230a2450ca17948]
+#### 27. Power to change cycles for making strategic noise maps and reviewing noise action plans[^c-c05ebbe9fc82cdb81230a2450ca17948]
 
 (1) The Welsh Ministers may by regulations amend regulation 7 of the Environmental Noise (Wales) Regulations 2006 ([S.I. 2006/2629](https://www.legislation.gov.uk/uksi/2006/2629)) (duty of the Welsh Ministers to make, review and revise strategic noise maps) to change the intervals for the time being specified by paragraph (2) of that regulation as the intervals at which strategic noise maps must be made and adopted.
 
@@ -657,7 +657,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 
 ## PART 3 — GENERAL
 
-### 28. Power to make consequential, transitional etc. provision[^key-05078927d6010d4efa426e3dc2888674]
+### 28. Power to make consequential, transitional etc. provision[^c-05078927d6010d4efa426e3dc2888674]
 
 (1) If the Welsh Ministers consider it necessary or appropriate for the purposes of, in consequence of, or for giving full effect to any provision of this Act, they may by regulations make—
 
@@ -666,7 +666,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 
 (2) Regulations under subsection (1) may modify any enactment (whenever enacted or made, and including this Act).
 
-### 29. Regulations[^key-5c6156ede200e8deeb9760a356b8dfde]
+### 29. Regulations[^c-5c6156ede200e8deeb9760a356b8dfde]
 
 (1) A power to make regulations under this Act is exercisable by statutory instrument.
 
@@ -696,7 +696,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 - (b) an Assembly Measure;
 - (c) an Act of the Parliament of the United Kingdom.‍
 
-### 30. Coming into force[^key-36c46b31ce2490c6c670e8fa0359230c]
+### 30. Coming into force[^c-36c46b31ce2490c6c670e8fa0359230c]
 
 (1) This Part comes into force on the day after the day on which this Act receives Royal Assent.
 
@@ -719,7 +719,7 @@ Schedule 2 makes provision for and in connection with the application of the pro
 - (a) may make transitional or saving provision;
 - (b) may appoint different days for different purposes.
 
-### 31. Short title[^key-90dd27b3005fa851552a7328f5c528c9]
+### 31. Short title[^c-90dd27b3005fa851552a7328f5c528c9]
 
 The short title of this Act is the Environment (Air Quality and Soundscapes) (Wales) Act 2024.
 
@@ -729,11 +729,11 @@ The short title of this Act is the Environment (Air Quality and Soundscapes) (Wa
 
 ### PART 1 — FURTHER PROVISION IN RELATION TO FINANCIAL PENALTIES
 
-**1.**[^key-721da69949ebd79a191aa6889bc37f3d][^key-c9aaeaf1870c7495ef26ae0556d1f2f6] The Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11) is amended as follows.
+**1.**[^c-721da69949ebd79a191aa6889bc37f3d][^c-c9aaeaf1870c7495ef26ae0556d1f2f6] The Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11) is amended as follows.
 
-**2.**[^key-7a3ea0d0624c14409773140b57e11b7c][^key-7432cca7bd53c8433fc7f74109c8f0e7] In the heading of Schedule 1A, after “IN ENGLAND” insert “OR WALES”.
+**2.**[^c-7a3ea0d0624c14409773140b57e11b7c][^c-7432cca7bd53c8433fc7f74109c8f0e7] In the heading of Schedule 1A, after “IN ENGLAND” insert “OR WALES”.
 
-**3.**[^key-607031cf183c298dcdac3f1bf178d948][^key-037de7cbfcd01f98445dcaf792c33260] In paragraph 1 of Schedule 1A (key definitions)—
+**3.**[^c-607031cf183c298dcdac3f1bf178d948][^c-037de7cbfcd01f98445dcaf792c33260] In paragraph 1 of Schedule 1A (key definitions)—
 
 - (a) after the definition of “person liable” insert—
 
@@ -742,7 +742,7 @@ The short title of this Act is the Environment (Air Quality and Soundscapes) (Wa
   >   - (b) in relation to a smoke control order in Wales, the Welsh Ministers;
 - (b) in paragraphs (a) and (b) of the definition of “relevant chimney”, after “in England” insert “or in Wales”.
 
-**4.**[^key-a7cc734412517314ed5a5f67404bfe4c][^key-6d107e7904aed7f9fa23292160dfef97] In paragraph 3 of Schedule 1A (amount of penalty)—
+**4.**[^c-a7cc734412517314ed5a5f67404bfe4c][^c-6d107e7904aed7f9fa23292160dfef97] In paragraph 3 of Schedule 1A (amount of penalty)—
 
 - (a) in sub-paragraph (3), for “Secretary of State” substitute “relevant national authority”;
 - (b) in sub-paragraph (4), after “may not be made” insert “by the Secretary of State”;
@@ -750,7 +750,7 @@ The short title of this Act is the Environment (Air Quality and Soundscapes) (Wa
 
   > (5) Regulations under sub-paragraph (3) may not be made by the Welsh Ministers unless a draft of the regulations has been laid before, and approved by a resolution of, Senedd Cymru.
 
-**5.**[^key-56fe668856ffa72d1637b06ae7648f75][^key-7e97ef5cc5a9aaa0276b06624fe51ef9] In paragraph 4 of Schedule 1A (right to object to proposed financial penalty)—
+**5.**[^c-56fe668856ffa72d1637b06ae7648f75][^c-7e97ef5cc5a9aaa0276b06624fe51ef9] In paragraph 4 of Schedule 1A (right to object to proposed financial penalty)—
 
 - (a) in sub-paragraph (4), for “Secretary of State” substitute “the relevant national authority”;
 - (b) in sub-paragraph (5), at both places it occurs, for “Secretary of State” substitute “the relevant national authority”;
@@ -759,15 +759,15 @@ The short title of this Act is the Environment (Air Quality and Soundscapes) (Wa
 
   > (7) Regulations under sub-paragraph (4) may not be made by the Welsh Ministers unless a draft of the regulations has been laid before, and approved by resolution of, Senedd Cymru.
 
-**6.**[^key-63f0b20d7bf564b638432884bb4ed2b5][^key-21f0279f0d3ad319f1c7dbd5c8d7f5bf] In paragraph 5 of Schedule 1A (decision regarding a final notice), in the opening words of sub-paragraph (1), omit “in England”.
+**6.**[^c-63f0b20d7bf564b638432884bb4ed2b5][^c-21f0279f0d3ad319f1c7dbd5c8d7f5bf] In paragraph 5 of Schedule 1A (decision regarding a final notice), in the opening words of sub-paragraph (1), omit “in England”.
 
-**7.**[^key-738c3b98e6b78c31745273d803ce7a69][^key-ae026a723b6a16598411d89ca579a8ac] In paragraph 6 of Schedule 1A (final notice), in sub-paragraph (1), omit “in England”.
+**7.**[^c-738c3b98e6b78c31745273d803ce7a69][^c-ae026a723b6a16598411d89ca579a8ac] In paragraph 6 of Schedule 1A (final notice), in sub-paragraph (1), omit “in England”.
 
 ### PART 2 — EXPENDITURE ON OLD PRIVATE DWELLINGS
 
-**8.**[^key-1e8c04d2a9e87734c3914c1b2a03b9b3][^key-b37d38e1b94a191261b4abd11a5ade8e] The Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11) is amended as follows.
+**8.**[^c-1e8c04d2a9e87734c3914c1b2a03b9b3][^c-b37d38e1b94a191261b4abd11a5ade8e] The Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11) is amended as follows.
 
-**9.**[^key-d972f360b305300212e267a153f2a617][^key-ad9da87d0b7df315a904edae23118dcb] In Schedule 2 (smoke control orders: expenditure on old private dwellings)—
+**9.**[^c-d972f360b305300212e267a153f2a617][^c-ad9da87d0b7df315a904edae23118dcb] In Schedule 2 (smoke control orders: expenditure on old private dwellings)—
 
 - (a) omit paragraphs 1, 2 and 3;
 - (b) in paragraph 4(1), omit paragraphs (a) and (b);
@@ -775,22 +775,22 @@ The short title of this Act is the Environment (Air Quality and Soundscapes) (Wa
 
 ### PART 3 — MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
 
-#### 10. Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11)[^key-629773554c54a296d707c4e908d09a30][^key-0259c262da38b60b4168809bfdfb20c9]
+#### 10. Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11)[^c-629773554c54a296d707c4e908d09a30][^c-0259c262da38b60b4168809bfdfb20c9]
 
 The Clean Air Act 1993 is amended as follows.
 
-**11.**[^key-2abf63b4371249ffb874d91aff5e40c2][^key-c6a20993a53cfc9434f502ea941719c4] In section 18 (declaration of smoke control area by local authority)—
+**11.**[^c-2abf63b4371249ffb874d91aff5e40c2][^c-c6a20993a53cfc9434f502ea941719c4] In section 18 (declaration of smoke control area by local authority)—
 
 - (a) in subsection (2)(b), for the words from “section 20” to “in England)” substitute “Schedule 1A (penalty for emission of smoke in England or in Wales)”;
 - (b) in subsection (2A), after “England” insert “or in Wales (as the case may be)”.
 
-**12.**[^key-44898819be695de8fd50a9f3479ed752][^key-36e5e9cbf6e368a25207dc7d7170365f] Sections 20 to 23 (including the italic headings above sections 20 and 23) are repealed.
+**12.**[^c-44898819be695de8fd50a9f3479ed752][^c-36e5e9cbf6e368a25207dc7d7170365f] Sections 20 to 23 (including the italic headings above sections 20 and 23) are repealed.
 
-**13.**[^key-6b13a1d3727959c865bd72f2a177c08d][^key-ca599d0c7d158e99f79bc1a3350d94fe] In section 24 (power of local authority to require adaptation of fireplaces in private dwellings), in subsection (1), for the words from “contraventions” to the end substitute “the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England or Wales)”.
+**13.**[^c-6b13a1d3727959c865bd72f2a177c08d][^c-ca599d0c7d158e99f79bc1a3350d94fe] In section 24 (power of local authority to require adaptation of fireplaces in private dwellings), in subsection (1), for the words from “contraventions” to the end substitute “the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England or Wales)”.
 
-**14.**[^key-b0908c9cb87e166ee7c5091436294c06][^key-ac7a4a337e6cc7b829b335a51f59fb83] In section 26 (power of local authority to make grants towards adaptations to fireplaces in certain buildings), in subsection (1), for the words from “contraventions” to “England)” substitute “the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England or Wales)”.
+**14.**[^c-b0908c9cb87e166ee7c5091436294c06][^c-ac7a4a337e6cc7b829b335a51f59fb83] In section 26 (power of local authority to make grants towards adaptations to fireplaces in certain buildings), in subsection (1), for the words from “contraventions” to “England)” substitute “the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England or Wales)”.
 
-**15.**[^key-8e289b39496f39ab667f971efb1cb2c2][^key-62d9f28cbeeda5a4be7dde92fab97d11] In section 27 (references to adaptations for avoiding contraventions of section 20 or Schedule 1A)—
+**15.**[^c-8e289b39496f39ab667f971efb1cb2c2][^c-62d9f28cbeeda5a4be7dde92fab97d11] In section 27 (references to adaptations for avoiding contraventions of section 20 or Schedule 1A)—
 
 - (a) in the heading, omit “section 20 or”;
 - (b) in subsection (1)—
@@ -798,26 +798,26 @@ The Clean Air Act 1993 is amended as follows.
   - (ii) in the words after paragraph (e), omit “contraventions of section 20 or”;
 - (c) in subsection (3), omit “contraventions of section 20 of this Act or”.
 
-**16.**[^key-d40770fe6e1dd28f8258c0f43412da02][^key-9699716c907da32772f8532f0cb94aca] In section 29 (interpretation of Part 3)—‍
+**16.**[^c-d40770fe6e1dd28f8258c0f43412da02][^c-9699716c907da32772f8532f0cb94aca] In section 29 (interpretation of Part 3)—‍
 
 - (a) omit the definition of “authorised fuel”;
 - (b) after the definition of “smoke control order in England” insert—
 
   > - “**smoke control order in Wales**” means a smoke control order made by a local authority in Wales.
 
-**17.**[^key-bf37668f2d3e04481cd33906c65b62ad][^key-d560433bc16875bf583ba5ecf23baf37] In section 45 (exemption for purposes of investigations and research)—
+**17.**[^c-bf37668f2d3e04481cd33906c65b62ad][^c-d560433bc16875bf583ba5ecf23baf37] In section 45 (exemption for purposes of investigations and research)—
 
 - (a) in subsection (1)(a), omit “, 20 (smoke in smoke control area)”;
 - (b) in subsection (1)(e), for “section 23” substitute “section 19F”.
 
-**18.**[^key-231a52f569a532958bbf155230242c42][^key-02e31fedc0518cd0cfc1748bae5a7b43] In section 51 (duty to notify occupiers of offences)—
+**18.**[^c-231a52f569a532958bbf155230242c42][^c-02e31fedc0518cd0cfc1748bae5a7b43] In section 51 (duty to notify occupiers of offences)—
 
 - (a) in subsection (1)(a), for “, 2 or 20” substitute “or 2”;
 - (b) in subsection (3), for “, 2 or 20” substitute “or 2”.
 
-**19.**[^key-57e5cd1a3ca56274d989f9561a9f9a3c][^key-55468fbd3ac939116d7987860b6acc9c] In section 61 (joint exercise of local authority functions), in subsection (3)(b) for “, Schedule 1 and paragraph 1 of Schedule 2” substitute “and Schedule 1”.
+**19.**[^c-57e5cd1a3ca56274d989f9561a9f9a3c][^c-55468fbd3ac939116d7987860b6acc9c] In section 61 (joint exercise of local authority functions), in subsection (3)(b) for “, Schedule 1 and paragraph 1 of Schedule 2” substitute “and Schedule 1”.
 
-**20.**[^key-d7e020e020db4bff5657b87c34030d94][^key-5147393c40b7f971d8594f550cd2f0de] In section 63 (regulations and orders)—
+**20.**[^c-d7e020e020db4bff5657b87c34030d94][^c-5147393c40b7f971d8594f550cd2f0de] In section 63 (regulations and orders)—
 
 - (a) in subsection (2), after “made under this Act” insert “by the Secretary of State”;
 - (b) after subsection (2) insert—
@@ -825,7 +825,7 @@ The Clean Air Act 1993 is amended as follows.
   > (2A) Any statutory instrument containing regulations made under this Act by the Welsh Ministers, except an instrument containing regulations a draft of which is required by section 6(3), 10(5) or 47(2) or paragraph 3(5) or 4(7) of Schedule 1A to be approved by a resolution of Senedd Cymru, is subject to annulment in pursuance of a resolution of Senedd Cymru.
 - (c) in subsection (3), omit “, 21 or 22”.
 
-**21.**[^key-c7a67c2f2a6981ad220d0e062977a80b][^key-dd5bf0ac99160734a4c27945a0f73c40] In Schedule 1 (coming into operation of smoke control orders)—
+**21.**[^c-c7a67c2f2a6981ad220d0e062977a80b][^c-dd5bf0ac99160734a4c27945a0f73c40] In Schedule 1 (coming into operation of smoke control orders)—
 
 - (a) after paragraph 1 insert—
 
@@ -840,7 +840,7 @@ The Clean Air Act 1993 is amended as follows.
   > - (a) inform the Welsh Ministers that it has done so, and
   > - (b) provide the date on which the order is to come, or came, into operation.
 
-**22.**[^key-09433a9efe0ed5ba570e1a99b4f86e34][^key-1bd7624870e78d55061bcb1a92aaf1c5] In Schedule 5 (transitional provisions)—
+**22.**[^c-09433a9efe0ed5ba570e1a99b4f86e34][^c-1bd7624870e78d55061bcb1a92aaf1c5] In Schedule 5 (transitional provisions)—
 
 - (a) after paragraph 12 insert—
 
@@ -849,7 +849,7 @@ The Clean Air Act 1993 is amended as follows.
   > **“12B.** The requirement in paragraph 12A to publish the notice electronically is a requirement to publish the notice on the local authority’s website, if it has one.
 - (b) in paragraph 13, after “paragraph 12” insert ”and (if relevant) paragraph 12A”.
 
-#### 23. Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30)[^key-bdbea4908fc6ffa354ca400c909bc204][^key-4701f526fd3aea25acd17dc79d5d956d]
+#### 23. Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30)[^c-bdbea4908fc6ffa354ca400c909bc204][^c-4701f526fd3aea25acd17dc79d5d956d]
 
 In the Environment Act 2021—
 
@@ -860,15 +860,15 @@ In the Environment Act 2021—
 
 (introduced by section 23)
 
-**1.**[^key-ac05eb28f3778879eebebaae40398a38] The Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
+**1.**[^c-ac05eb28f3778879eebebaae40398a38] The Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
 
-**2.**[^key-eb012f0e51b3d3abf0aae796b438b616] In paragraph 2(4) of Schedule 12 (financial provision about road user charging), after “section 167(2)(b)” insert “or (3)(c)”.
+**2.**[^c-eb012f0e51b3d3abf0aae796b438b616] In paragraph 2(4) of Schedule 12 (financial provision about road user charging), after “section 167(2)(b)” insert “or (3)(c)”.
 
-**3.**[^key-e22179f997dc795ab8fd57608d78882d] In paragraph 3(2) of that Schedule, in the opening words, after “section 167(2)(b)” insert “or (3)(c)”.
+**3.**[^c-e22179f997dc795ab8fd57608d78882d] In paragraph 3(2) of that Schedule, in the opening words, after “section 167(2)(b)” insert “or (3)(c)”.
 
-**4.**[^key-457c6923472242b485b0102506045a58] In the cross-heading before paragraph 13 of that Schedule, omit “and Assembly”.
+**4.**[^c-457c6923472242b485b0102506045a58] In the cross-heading before paragraph 13 of that Schedule, omit “and Assembly”.
 
-**5.**[^key-b277ebd2963f05987f6924c8902708c5] In paragraph 13 of that Schedule—
+**5.**[^c-b277ebd2963f05987f6924c8902708c5] In paragraph 13 of that Schedule—
 
 - (a) in sub-paragraph (1), for “relevant authority’s” substitute “Secretary of State’s”;
 - (b) in sub-paragraph (4), for “appropriate national authority” substitute “Secretary of State”;
@@ -876,7 +876,7 @@ In the Environment Act 2021—
   - (i) for “relevant authority’s” substitute “Secretary of State’s”;
   - (ii) for “appropriate national authority” substitute “Secretary of State”.
 
-**6.**[^key-c5f754303befcebebbc77761ee7ead81] After paragraph 13 of that Schedule insert—
+**6.**[^c-c5f754303befcebebbc77761ee7ead81] After paragraph 13 of that Schedule insert—
 
 > **14. Application of proceeds by Welsh Ministers**
 >
@@ -914,7 +914,7 @@ In the Environment Act 2021—
 >
 > (5) The provision that may be made by regulations under sub-paragraph (4) includes provision for sub-paragraph (2) to apply with the substitution for the number of years for the time being mentioned in it of a number of years greater than ten.
 
-**7.**[^key-5a00e89f71c72dd334f89cb4defc2912] In section 197 (Part 3: regulations and orders)—
+**7.**[^c-5a00e89f71c72dd334f89cb4defc2912] In section 197 (Part 3: regulations and orders)—
 
 - (a) in subsection (6), for “National Assembly for Wales” substitute “Welsh Ministers”;
 - (b) after subsection (6) insert—
@@ -932,186 +932,186 @@ In the Environment Act 2021—
 
 ## Annotations
 
-[^key-8040d29b4f9867908452c34e0c388bd2]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2024/2/section/1) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
+[^c-8040d29b4f9867908452c34e0c388bd2]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2024/2/section/1) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
 
-[^key-e4ba17a5042a6c8bbd17c1d3b1689d54]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/2/section/2) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
+[^c-e4ba17a5042a6c8bbd17c1d3b1689d54]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/2/section/2) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
 
-[^key-351c8082900a21a1a44a4a38dfd2ec30]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/2/section/3) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
+[^c-351c8082900a21a1a44a4a38dfd2ec30]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/2/section/3) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
 
-[^key-d5ae444ac13a3e75126c70bf4a7a8289]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/2/section/4) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
+[^c-d5ae444ac13a3e75126c70bf4a7a8289]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/2/section/4) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
 
-[^key-1dd6bf0778731f2c89a49dd83b11d655]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2024/2/section/5) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
+[^c-1dd6bf0778731f2c89a49dd83b11d655]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2024/2/section/5) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
 
-[^key-0f2f3047857841062ad38c64eac8d7bd]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2024/2/section/6) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
+[^c-0f2f3047857841062ad38c64eac8d7bd]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2024/2/section/6) in force at 14.4.2024, see [s. 30(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/a)
 
-[^key-8e68cb64cf12d4a9d074b35714d772cc]: Commencement: S. 7 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-8e68cb64cf12d4a9d074b35714d772cc]: Commencement: S. 7 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-528b085761f999855920123b0ccd25ed]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2024/2/section/7) in force at 23.1.2026 by [W.S.I. 2026/5](https://www.legislation.gov.uk/wsi/2026/5), [art. 2](https://www.legislation.gov.uk/wsi/2026/5/article/2)
+[^c-528b085761f999855920123b0ccd25ed]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2024/2/section/7) in force at 23.1.2026 by [W.S.I. 2026/5](https://www.legislation.gov.uk/wsi/2026/5), [art. 2](https://www.legislation.gov.uk/wsi/2026/5/article/2)
 
-[^key-281864852506ffca9d50b6c070686bf9]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2024/2/section/8) in force at 14.4.2024, see [s. 30(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/b)
+[^c-281864852506ffca9d50b6c070686bf9]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2024/2/section/8) in force at 14.4.2024, see [s. 30(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/b)
 
-[^key-65312c4bc5950d9fd5fe6da97b4add66]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2024/2/section/9) in force at 14.4.2024, see [s. 30(2)(c)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/c)
+[^c-65312c4bc5950d9fd5fe6da97b4add66]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2024/2/section/9) in force at 14.4.2024, see [s. 30(2)(c)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/c)
 
-[^key-231f6177aaed74cc16bc48bcc9bd7db9]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2024/2/section/10) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-231f6177aaed74cc16bc48bcc9bd7db9]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2024/2/section/10) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-6abcc47096393afaef4bdc8f90f4bf66]: Commencement: S. 11 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-6abcc47096393afaef4bdc8f90f4bf66]: Commencement: S. 11 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-9278e3e10b0133b6addcf12efe0a587c]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2024/2/section/11) in force at 31.1.2025 by [S.I. 2025/72](https://www.legislation.gov.uk/wsi/2025/72), [art. 2](https://www.legislation.gov.uk/wsi/2025/72/article/2)
+[^c-9278e3e10b0133b6addcf12efe0a587c]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2024/2/section/11) in force at 31.1.2025 by [S.I. 2025/72](https://www.legislation.gov.uk/wsi/2025/72), [art. 2](https://www.legislation.gov.uk/wsi/2025/72/article/2)
 
-[^key-6b8b15cb735071208f02d3b512c361a9]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2024/2/section/12) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-6b8b15cb735071208f02d3b512c361a9]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2024/2/section/12) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-0b2de7c4575c5f655b54f80ca8f65887]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2024/2/section/13) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-0b2de7c4575c5f655b54f80ca8f65887]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2024/2/section/13) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-98b05e69478eefaa4cf3412d78bf9fee]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2024/2/section/14) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-98b05e69478eefaa4cf3412d78bf9fee]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2024/2/section/14) in force at 14.4.2024, see [s. 30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-88343dd74a196938719c99636e615505]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2024/2/section/15) in force at 14.4.2024, see [s. 30(2)(e)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/e)
+[^c-88343dd74a196938719c99636e615505]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2024/2/section/15) in force at 14.4.2024, see [s. 30(2)(e)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/e)
 
-[^key-6caa94f0aeb6ca63e697b0ac59198859]: Commencement: S. 16 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-6caa94f0aeb6ca63e697b0ac59198859]: Commencement: S. 16 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-036f11ec9065678477119edd1002017e]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2024/2/section/16) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/937/article/2/a)
+[^c-036f11ec9065678477119edd1002017e]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2024/2/section/16) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/937/article/2/a)
 
-[^key-28d621a2fa13c1bda82c66514b529ee0]: Commencement: S. 17 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-28d621a2fa13c1bda82c66514b529ee0]: Commencement: S. 17 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-d8234ee7a0927ca21f2f2479da8208ca]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2024/2/section/17) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/937/article/2/b)
+[^c-d8234ee7a0927ca21f2f2479da8208ca]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2024/2/section/17) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/937/article/2/b)
 
-[^key-770593dad51b31a1a6b29b683797d46a]: Commencement: S. 18 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-770593dad51b31a1a6b29b683797d46a]: Commencement: S. 18 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-674b2a7331f968704b0f104d798acfdd]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2024/2/section/18) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/937/article/2/c)
+[^c-674b2a7331f968704b0f104d798acfdd]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2024/2/section/18) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/937/article/2/c)
 
-[^key-460e1b4fadfa12e4a9990aed78792646]: Commencement: S. 19 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-460e1b4fadfa12e4a9990aed78792646]: Commencement: S. 19 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-011ab4c7ef4d0a7a4bdf1d1b41a84b8d]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2024/2/section/19) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/937/article/2/d)
+[^c-011ab4c7ef4d0a7a4bdf1d1b41a84b8d]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2024/2/section/19) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/937/article/2/d)
 
-[^key-ebb4f3802376c53cc9fd83f6f099df3a]: Commencement: S. 20 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-ebb4f3802376c53cc9fd83f6f099df3a]: Commencement: S. 20 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-a62049a7752675a41df43c3bc611f483]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2024/2/section/20) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/937/article/2/e)
+[^c-a62049a7752675a41df43c3bc611f483]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2024/2/section/20) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/937/article/2/e)
 
-[^key-f6a2511c774cfd98da839e3e0472255d]: Commencement: S. 21 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-f6a2511c774cfd98da839e3e0472255d]: Commencement: S. 21 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-f9b83b2a8a60779a45423bda196af085]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2024/2/section/21) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/937/article/2/f)
+[^c-f9b83b2a8a60779a45423bda196af085]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2024/2/section/21) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/937/article/2/f)
 
-[^key-5e8724e3b83f223bc803e0cd3dc0acaf]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2024/2/section/22) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-5e8724e3b83f223bc803e0cd3dc0acaf]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2024/2/section/22) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-46e11863a7368d72148a11388732f725]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2024/2/section/23) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-46e11863a7368d72148a11388732f725]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2024/2/section/23) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-e8b899f63f705f88d4a3533920a10afd]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2024/2/section/24) in force at 14.4.2024, see [s. 30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-e8b899f63f705f88d4a3533920a10afd]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2024/2/section/24) in force at 14.4.2024, see [s. 30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-8b817d33da96af25558000feeb8edb98]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2024/2/section/25) in force at 14.4.2024, see [s. 30(2)(h)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/h)
+[^c-8b817d33da96af25558000feeb8edb98]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2024/2/section/25) in force at 14.4.2024, see [s. 30(2)(h)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/h)
 
-[^key-616a7758e3f2b3be0b40562b202bc669]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2024/2/section/26) in force at 14.4.2024, see [s. 30(2)(h)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/h)
+[^c-616a7758e3f2b3be0b40562b202bc669]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2024/2/section/26) in force at 14.4.2024, see [s. 30(2)(h)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/h)
 
-[^key-c05ebbe9fc82cdb81230a2450ca17948]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2024/2/section/27) in force at 14.4.2024, see [s. 30(2)(i)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/i)
+[^c-c05ebbe9fc82cdb81230a2450ca17948]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2024/2/section/27) in force at 14.4.2024, see [s. 30(2)(i)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/i)
 
-[^key-05078927d6010d4efa426e3dc2888674]: Commencement: S. 28 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
+[^c-05078927d6010d4efa426e3dc2888674]: Commencement: S. 28 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
 
-[^key-5c6156ede200e8deeb9760a356b8dfde]: Commencement: S. 29 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
+[^c-5c6156ede200e8deeb9760a356b8dfde]: Commencement: S. 29 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
 
-[^key-36c46b31ce2490c6c670e8fa0359230c]: Commencement: S. 30 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
+[^c-36c46b31ce2490c6c670e8fa0359230c]: Commencement: S. 30 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
 
-[^key-90dd27b3005fa851552a7328f5c528c9]: Commencement: S. 31 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
+[^c-90dd27b3005fa851552a7328f5c528c9]: Commencement: S. 31 in force at 15.2.2024, see [s. 30(1)](https://www.legislation.gov.uk/asc/2024/2/section/30/1)
 
-[^key-721da69949ebd79a191aa6889bc37f3d]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-721da69949ebd79a191aa6889bc37f3d]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-c9aaeaf1870c7495ef26ae0556d1f2f6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/1) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-c9aaeaf1870c7495ef26ae0556d1f2f6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/1) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-7a3ea0d0624c14409773140b57e11b7c]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-7a3ea0d0624c14409773140b57e11b7c]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-7432cca7bd53c8433fc7f74109c8f0e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/2) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-7432cca7bd53c8433fc7f74109c8f0e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/2) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-607031cf183c298dcdac3f1bf178d948]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-607031cf183c298dcdac3f1bf178d948]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-037de7cbfcd01f98445dcaf792c33260]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/3) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-037de7cbfcd01f98445dcaf792c33260]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/3) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-a7cc734412517314ed5a5f67404bfe4c]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-a7cc734412517314ed5a5f67404bfe4c]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-6d107e7904aed7f9fa23292160dfef97]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-6d107e7904aed7f9fa23292160dfef97]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-56fe668856ffa72d1637b06ae7648f75]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-56fe668856ffa72d1637b06ae7648f75]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-7e97ef5cc5a9aaa0276b06624fe51ef9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-7e97ef5cc5a9aaa0276b06624fe51ef9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-63f0b20d7bf564b638432884bb4ed2b5]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-63f0b20d7bf564b638432884bb4ed2b5]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-21f0279f0d3ad319f1c7dbd5c8d7f5bf]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/6) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-21f0279f0d3ad319f1c7dbd5c8d7f5bf]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/6) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-738c3b98e6b78c31745273d803ce7a69]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-738c3b98e6b78c31745273d803ce7a69]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-ae026a723b6a16598411d89ca579a8ac]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/7) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-ae026a723b6a16598411d89ca579a8ac]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/7) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-1e8c04d2a9e87734c3914c1b2a03b9b3]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-1e8c04d2a9e87734c3914c1b2a03b9b3]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-b37d38e1b94a191261b4abd11a5ade8e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/8) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-b37d38e1b94a191261b4abd11a5ade8e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/8) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-d972f360b305300212e267a153f2a617]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-d972f360b305300212e267a153f2a617]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-ad9da87d0b7df315a904edae23118dcb]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/9) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-ad9da87d0b7df315a904edae23118dcb]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/9) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-629773554c54a296d707c4e908d09a30]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-629773554c54a296d707c4e908d09a30]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-0259c262da38b60b4168809bfdfb20c9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/10) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-0259c262da38b60b4168809bfdfb20c9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/10) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-2abf63b4371249ffb874d91aff5e40c2]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-2abf63b4371249ffb874d91aff5e40c2]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-c6a20993a53cfc9434f502ea941719c4]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/11) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-c6a20993a53cfc9434f502ea941719c4]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/11) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-44898819be695de8fd50a9f3479ed752]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-44898819be695de8fd50a9f3479ed752]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-36e5e9cbf6e368a25207dc7d7170365f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/12) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-36e5e9cbf6e368a25207dc7d7170365f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/12) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-6b13a1d3727959c865bd72f2a177c08d]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-6b13a1d3727959c865bd72f2a177c08d]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-ca599d0c7d158e99f79bc1a3350d94fe]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/13) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-ca599d0c7d158e99f79bc1a3350d94fe]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/13) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-b0908c9cb87e166ee7c5091436294c06]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-b0908c9cb87e166ee7c5091436294c06]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-ac7a4a337e6cc7b829b335a51f59fb83]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/14) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-ac7a4a337e6cc7b829b335a51f59fb83]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/14) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-8e289b39496f39ab667f971efb1cb2c2]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-8e289b39496f39ab667f971efb1cb2c2]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-62d9f28cbeeda5a4be7dde92fab97d11]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/15) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-62d9f28cbeeda5a4be7dde92fab97d11]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/15) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-d40770fe6e1dd28f8258c0f43412da02]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-d40770fe6e1dd28f8258c0f43412da02]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-9699716c907da32772f8532f0cb94aca]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/16) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-9699716c907da32772f8532f0cb94aca]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/16) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-bf37668f2d3e04481cd33906c65b62ad]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-bf37668f2d3e04481cd33906c65b62ad]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-d560433bc16875bf583ba5ecf23baf37]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/17) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-d560433bc16875bf583ba5ecf23baf37]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/17) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-231a52f569a532958bbf155230242c42]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-231a52f569a532958bbf155230242c42]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-02e31fedc0518cd0cfc1748bae5a7b43]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/18) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-02e31fedc0518cd0cfc1748bae5a7b43]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/18) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-57e5cd1a3ca56274d989f9561a9f9a3c]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-57e5cd1a3ca56274d989f9561a9f9a3c]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-55468fbd3ac939116d7987860b6acc9c]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/19) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-55468fbd3ac939116d7987860b6acc9c]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/19) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-d7e020e020db4bff5657b87c34030d94]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-d7e020e020db4bff5657b87c34030d94]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-5147393c40b7f971d8594f550cd2f0de]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/20) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-5147393c40b7f971d8594f550cd2f0de]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/20) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-c7a67c2f2a6981ad220d0e062977a80b]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-c7a67c2f2a6981ad220d0e062977a80b]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-dd5bf0ac99160734a4c27945a0f73c40]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-dd5bf0ac99160734a4c27945a0f73c40]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-09433a9efe0ed5ba570e1a99b4f86e34]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-09433a9efe0ed5ba570e1a99b4f86e34]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-1bd7624870e78d55061bcb1a92aaf1c5]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/22) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-1bd7624870e78d55061bcb1a92aaf1c5]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/22) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-bdbea4908fc6ffa354ca400c909bc204]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
+[^c-bdbea4908fc6ffa354ca400c909bc204]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3)
 
-[^key-4701f526fd3aea25acd17dc79d5d956d]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/23) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-4701f526fd3aea25acd17dc79d5d956d]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/23) in force at 31.7.2025 by [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-ac05eb28f3778879eebebaae40398a38]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/1) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-ac05eb28f3778879eebebaae40398a38]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/1) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-eb012f0e51b3d3abf0aae796b438b616]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/2) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-eb012f0e51b3d3abf0aae796b438b616]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/2) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-e22179f997dc795ab8fd57608d78882d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/3) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-e22179f997dc795ab8fd57608d78882d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/3) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-457c6923472242b485b0102506045a58]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/4) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-457c6923472242b485b0102506045a58]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/4) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-b277ebd2963f05987f6924c8902708c5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/5) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-b277ebd2963f05987f6924c8902708c5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/5) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-c5f754303befcebebbc77761ee7ead81]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/6) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-c5f754303befcebebbc77761ee7ead81]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/6) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
 
-[^key-5a00e89f71c72dd334f89cb4defc2912]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/7) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)
+[^c-5a00e89f71c72dd334f89cb4defc2912]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asc/2024/2/schedule/2/paragraph/7) in force at 14.4.2024, see [s. 30(2)(f)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/f)

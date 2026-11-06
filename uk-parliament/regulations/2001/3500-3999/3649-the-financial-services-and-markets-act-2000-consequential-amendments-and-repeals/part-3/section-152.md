@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Restriction on employer-related investments[^key-94afe9c2d947ccd5769eb9fd1fe33b01]
+## 152. Restriction on employer-related investments[^c-94afe9c2d947ccd5769eb9fd1fe33b01]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94afe9c2d947ccd5769eb9fd1fe33b01]: Commencement: Art. 152 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-94afe9c2d947ccd5769eb9fd1fe33b01]: Commencement: Art. 152 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

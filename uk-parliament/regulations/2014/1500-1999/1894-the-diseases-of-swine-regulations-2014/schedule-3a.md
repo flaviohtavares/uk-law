@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 3A — Measures in respect of controlled zones[^key-1b6bb9998af607f58a58269d4c06eaa0]
+## Schedule 3A — Measures in respect of controlled zones[^c-1b6bb9998af607f58a58269d4c06eaa0]
 
 *Extent: E+W*
 
@@ -615,4 +615,4 @@ Except in accordance with a licence granted by a licensing officer under this pa
 
 ## Annotations
 
-[^key-1b6bb9998af607f58a58269d4c06eaa0]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2014/1894/schedule/3A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/475/schedule/2)
+[^c-1b6bb9998af607f58a58269d4c06eaa0]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2014/1894/schedule/3A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/475/schedule/2)

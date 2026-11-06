@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Products to which these Regulations do not apply[^key-1fb06f93bc39b387527d86dd96bf4b75]
+## 3. Products to which these Regulations do not apply[^c-1fb06f93bc39b387527d86dd96bf4b75]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb06f93bc39b387527d86dd96bf4b75]: Commencement: Reg. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1fb06f93bc39b387527d86dd96bf4b75]: Commencement: Reg. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00006]: Footnote: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Wider effect of decisions: licensing of health care providers[^key-0fb17cc13707f3bb171ee7026ef5d89f][^key-1d1b816fa1cf411fe34ca48c5eb049d0]
+## 76. Wider effect of decisions: licensing of health care providers[^c-0fb17cc13707f3bb171ee7026ef5d89f][^c-1d1b816fa1cf411fe34ca48c5eb049d0]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ In section 96 of the Health and Social Care Act 2012 (limits on functions to set
 
 ## Annotations
 
-[^key-0fb17cc13707f3bb171ee7026ef5d89f]: Commencement: S. 76 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0fb17cc13707f3bb171ee7026ef5d89f]: Commencement: S. 76 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-1d1b816fa1cf411fe34ca48c5eb049d0]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/31/section/76) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1d1b816fa1cf411fe34ca48c5eb049d0]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/31/section/76) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

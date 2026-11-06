@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Interpretation of Chapter 5[^key-db9cfffb1eda048e32edd07c905625ce][^key-8361da769a8ba836f0a9725ccdd0a2de]
+## 55. Interpretation of Chapter 5[^c-db9cfffb1eda048e32edd07c905625ce][^c-8361da769a8ba836f0a9725ccdd0a2de]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-db9cfffb1eda048e32edd07c905625ce]: Commencement: S. 55 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-db9cfffb1eda048e32edd07c905625ce]: Commencement: S. 55 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-8361da769a8ba836f0a9725ccdd0a2de]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/26/section/55) in force at 1.5.2026 by [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/f)
+[^c-8361da769a8ba836f0a9725ccdd0a2de]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/26/section/55) in force at 1.5.2026 by [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/f)

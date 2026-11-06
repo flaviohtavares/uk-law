@@ -45,41 +45,41 @@ The National Assembly for Wales, acting in exercise of the powers conferred by s
 
 These Regulations may be cited as the Feeding Stuffs (Amendment) (Wales) Regulations 2002, shall come into force on 5th August 2002 and shall apply to Wales only.
 
-## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2001[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2001[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 3.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 4.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 5.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 6.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 7.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 8.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 9.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## 10.[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,11 +91,11 @@ The Feeding Stuffs (Sampling and Analysis) Regulations 1999 [^c9928791] shall be
 - (b) in Part I of Schedule 2 (methods of analysis), at the end of paragraph 3(e)(ii), for the expression “Schedule 5 to the Feeding Stuffs Regulations 1995” there shall be substituted the expression “Schedule 7 to the Feeding Stuffs (Wales) Regulations 2001 as amended by the Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001 [^c9928811] and the Feeding Stuffs (Amendment) (Wales) Regulations 2002; and
 - (c) in Part II of Schedule 3 (form of certificate of analysis), in note 11(a), for the expression “the Feeding Stuffs Regulations 1995” there shall be substituted the expression “ the Feeding Stuffs (Wales) Regulations 2001 as amended by the Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001 and the Feeding Stuffs (Amendment) (Wales) Regulations 2002 ”.
 
-## 12. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-218bbb52c6368f2f327fd33dab13b80b]
+## 12. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-218bbb52c6368f2f327fd33dab13b80b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-218bbb52c6368f2f327fd33dab13b80b]
+## 13. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-218bbb52c6368f2f327fd33dab13b80b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,7 +105,7 @@ John Marek
 
 The Deputy Presiding Officer of the National Assembly
 
-## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE PRINCIPAL REGULATIONS[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE PRINCIPAL REGULATIONS[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 **No longer in force.**
 
@@ -129,17 +129,17 @@ Regulation 7
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROVISIONS SUBSTITUTED IN PARTS I AND II OF SCHEDULE 7 TO THE PRINCIPAL REGULATIONS[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## SCHEDULE 2 — PROVISIONS SUBSTITUTED IN PARTS I AND II OF SCHEDULE 7 TO THE PRINCIPAL REGULATIONS[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 Regulation 8
 
-[^key-3fd56388ee4aac3fc161d9819f3dd58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3fd56388ee4aac3fc161d9819f3dd58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — PROVISIONS SUBSTITUTED IN SCHEDULE 9 TO THE PRINCIPAL REGULATIONS[^key-3fd56388ee4aac3fc161d9819f3dd58e]
+## SCHEDULE 3 — PROVISIONS SUBSTITUTED IN SCHEDULE 9 TO THE PRINCIPAL REGULATIONS[^c-3fd56388ee4aac3fc161d9819f3dd58e]
 
 Regulation 10
 
-[^key-3fd56388ee4aac3fc161d9819f3dd58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3fd56388ee4aac3fc161d9819f3dd58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -193,7 +193,7 @@ Regulation 10
 
 [^c9928771]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers conferred by section 2(2) were extended by virtue of section 1 of the [European Economic Area Act 1993 (1993 c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-3fd56388ee4aac3fc161d9819f3dd58e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1797) revoked in so far as they amend the 2001 Regulations (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/wsi/2006/116), [Sch. 9](https://www.legislation.gov.uk/wsi/2006/116/schedule/9)
+[^c-3fd56388ee4aac3fc161d9819f3dd58e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1797) revoked in so far as they amend the 2001 Regulations (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/wsi/2006/116), [Sch. 9](https://www.legislation.gov.uk/wsi/2006/116/schedule/9)
 
 [^c9928791]: Marginal citation: [S.I. 1999/1663](https://www.legislation.gov.uk/uksi/1999/1663) (to which there are amendments not relevant to these Regulations).
 
@@ -201,6 +201,6 @@ Regulation 10
 
 [^c9928811]: Marginal citation: [S.I. 2001/3461](https://www.legislation.gov.uk/uksi/2001/3461) (W.280).
 
-[^key-218bbb52c6368f2f327fd33dab13b80b]: Textual amendment: [Regs. 12, 13](https://www.legislation.gov.uk/wsi/2002/1797/regulation/12) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+[^c-218bbb52c6368f2f327fd33dab13b80b]: Textual amendment: [Regs. 12, 13](https://www.legislation.gov.uk/wsi/2002/1797/regulation/12) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
 
 [^c9928851]: Marginal citation: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).

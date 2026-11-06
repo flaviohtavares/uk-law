@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Dissolution by governing body of non local authority federations[^key-bc2a016ac6b707bc13bf4225ff0b98dc]
+## 85. Dissolution by governing body of non local authority federations[^c-bc2a016ac6b707bc13bf4225ff0b98dc]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the governing body of a federation must give notice of the decision and the prop
 
 ## Annotations
 
-[^key-bc2a016ac6b707bc13bf4225ff0b98dc]: Commencement: Reg. 85 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-bc2a016ac6b707bc13bf4225ff0b98dc]: Commencement: Reg. 85 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

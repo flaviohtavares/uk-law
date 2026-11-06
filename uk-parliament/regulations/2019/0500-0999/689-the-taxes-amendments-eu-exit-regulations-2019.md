@@ -60,13 +60,13 @@ Further to section 90(7)(b) of that Act, the Prime Minister has notified the Pre
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-d81113c02927e571e940471752f8bbd2]
+### 1. Citation and commencement[^c-d81113c02927e571e940471752f8bbd2]
 
 These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendments to primary legislation
 
-### 2. Taxes Management Act 1970[^key-6afcf0f800aa0abc33bdd30d6721c7a6]
+### 2. Taxes Management Act 1970[^c-6afcf0f800aa0abc33bdd30d6721c7a6]
 
 (1) The Taxes Management Act 1970[^f00003] is amended as follows.
 
@@ -106,7 +106,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
   .
 
-### 3. Inheritance Tax Act 1984[^key-816643cb3a4442087001632be45efe35]
+### 3. Inheritance Tax Act 1984[^c-816643cb3a4442087001632be45efe35]
 
 (1) The Inheritance Tax Act 1984[^f00009] is amended as follows.
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (4) In section 125(1A)[^f00014] for “another” substitute “is in a”.
 
-### 4. Finance Act 1986[^key-520ee9c0c5b1b24312177d2cfd4c6113]
+### 4. Finance Act 1986[^c-520ee9c0c5b1b24312177d2cfd4c6113]
 
 (1) Part 4 of the Finance Act 1986[^f00015] (stamp duty reserve tax) is amended as follows.
 
@@ -134,7 +134,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
   - (ii) omit the words from “and, at the time” to the end;
 - (b) in subsection (4A) omit paragraph (b) and the “and” at the end of paragraph (a).
 
-### 5. Finance Act 1991[^key-f22a363a78ac9c95c1f1ab751c984837]
+### 5. Finance Act 1991[^c-f22a363a78ac9c95c1f1ab751c984837]
 
 (1) Part 4 of the Finance Act 1991[^f00018] (stamp duty and stamp duty reserve tax) is amended as follows.
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
   .
 
-### 6. Taxation of Chargeable Gains Act 1992[^key-5122b3b536ad97cbb43287fb238a9d85]
+### 6. Taxation of Chargeable Gains Act 1992[^c-5122b3b536ad97cbb43287fb238a9d85]
 
 (1) The Taxation of Chargeable Gains Act 1992[^f00022] is amended as follows.
 
@@ -263,7 +263,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
   .
 
-### 7. Finance Act 1997[^key-749366ffea7db2efcf9aa67cf7119a82]
+### 7. Finance Act 1997[^c-749366ffea7db2efcf9aa67cf7119a82]
 
 (1) Part 4 of the Finance Act 1997[^f00037] (indirect taxes: overpayments etc.) is amended by paragraph (3) and Part 7 of that Act (stamp duty and stamp duty reserve tax) is amended by paragraph (2).
 
@@ -271,7 +271,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (3) In Schedule 5, in paragraph 2(4)(a)[^f00039] for “, subordinate legislation or EU legislation” substitute “or subordinate legislation”.
 
-### 8. Finance Act 1998[^key-2fb343a8da21e9c127f26e2df8eb2cf9]
+### 8. Finance Act 1998[^c-2fb343a8da21e9c127f26e2df8eb2cf9]
 
 (1) Part 3 of the Finance Act 1998[^f00040] (corporation tax) is amended as follows.
 
@@ -280,7 +280,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 - (a) in the heading to paragraph 91, at the beginning insert “UK Economic Interest Groupings and”;
 - (b) in paragraph 91 before “European Economic Interest Groupings” insert “UK Economic Interest Groupings and”.
 
-### 9. Finance Act 1999[^key-8b9de71f58a8466e88e1b032421b22a6]
+### 9. Finance Act 1999[^c-8b9de71f58a8466e88e1b032421b22a6]
 
 (1) Part 6 of the Finance Act 1999[^f00041] (stamp duty) is amended as follows.
 
@@ -290,7 +290,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 10. Capital Allowances Act 2001[^key-a46a29238cd256d1caca1ce6fb32eb06]
+### 10. Capital Allowances Act 2001[^c-a46a29238cd256d1caca1ce6fb32eb06]
 
 (1) The Capital Allowances Act 2001[^f00043] is amended as follows.
 
@@ -318,7 +318,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (8) In section 573(4) for “transfer of a UK trade to a company resident in another member State” substitute “transfer or division of UK business”.
 
-### 11. Finance Act 2003[^key-b83ac326d87eb9ae5de27f1432b12c3b]
+### 11. Finance Act 2003[^c-b83ac326d87eb9ae5de27f1432b12c3b]
 
 *Extent: E+W+N.I.*
 
@@ -333,7 +333,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (4) In Schedule 7A[^f00049], in paragraph 2(5)(a) omit “other than the United Kingdom”.
 
-### 12. Finance Act 2004[^key-f4fc1b64c29d00712d96de30ce695616]
+### 12. Finance Act 2004[^c-f4fc1b64c29d00712d96de30ce695616]
 
 (1) Part 4 of the Finance Act 2004[^f00050] (pensions) is amended as follows.
 
@@ -353,7 +353,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 - (a) omit “, or” at the end of paragraph (a);
 - (b) omit paragraph (b).
 
-### 13. Income Tax (Trading and Other Income) Act 2005[^key-669f2471c0644e5cfe550211c36e1d20]
+### 13. Income Tax (Trading and Other Income) Act 2005[^c-669f2471c0644e5cfe550211c36e1d20]
 
 (1) The Income Tax (Trading and Other Income) Act 2005[^f00052] is amended as follows.
 
@@ -379,7 +379,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
   - (iii) omit paragraph (c);
 - (b) omit subsection (6).
 
-### 14. Finance Act 2006[^key-71bdab730fa1c01af27d4ca91f576f6d]
+### 14. Finance Act 2006[^c-71bdab730fa1c01af27d4ca91f576f6d]
 
 (1) Part 9 of the Finance Act 2006[^f00055] (international tax enforcement arrangements) is amended as follows.
 
@@ -402,7 +402,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 15. Income Tax Act 2007[^key-940974f560c8bcec8ec23bc1ac38b04b]
+### 15. Income Tax Act 2007[^c-940974f560c8bcec8ec23bc1ac38b04b]
 
 (1) The Income Tax Act 2007[^f00056] is amended as follows.
 
@@ -482,7 +482,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (12) In section 991(2) omit paragraph (c).
 
-### 16. Corporation Tax Act 2009[^key-abfd005968fff99ff4978a89e3ebb42d]
+### 16. Corporation Tax Act 2009[^c-abfd005968fff99ff4978a89e3ebb42d]
 
 (1) The Corporation Tax Act 2009[^f00067] is amended as follows.
 
@@ -704,15 +704,15 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 - (a) for “EEA”, in each place where this occurs, substitute “European”;
 - (b) in each entry relating to a definition of “resident in a member State”, for “member State” substitute “relevant state”.
 
-### 17. Corporation Tax Act 2010[^key-b3b0beb8334ee61d2d279a09d2bbc868]
+### 17. Corporation Tax Act 2010[^c-b3b0beb8334ee61d2d279a09d2bbc868]
 
 (1) The Corporation Tax Act 2010[^f00079] is amended as follows.
 
-(2)[^key-05b2f219d11232986d4167526833851f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-05b2f219d11232986d4167526833851f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-05b2f219d11232986d4167526833851f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-05b2f219d11232986d4167526833851f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-05b2f219d11232986d4167526833851f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-05b2f219d11232986d4167526833851f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 269ZG(6)[^f00082] omit paragraphs (b) and (c).
 
@@ -764,7 +764,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 18. Taxation (International and Other Provisions) Act 2010[^key-d1ff7529ea43d57d137d9406762d954d]
+### 18. Taxation (International and Other Provisions) Act 2010[^c-d1ff7529ea43d57d137d9406762d954d]
 
 (1) The Taxation (International and Other Provisions) Act 2010[^f00091] is amended as follows.
 
@@ -815,13 +815,13 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (8) In section 122(2), in the definition of “host State” omit “(other than the United Kingdom)”.
 
-### 19. Finance Act 2010[^key-3722c8a70380cb7998eea79a7e50d029]
+### 19. Finance Act 2010[^c-3722c8a70380cb7998eea79a7e50d029]
 
 (1) Part 2 of the Finance Act 2010[^f00093] (charities etc.) is amended as follows.
 
 (2) In Schedule 6, in paragraph 2(3)(a) omit “other than the United Kingdom”.
 
-### 20. Finance Act 2011[^key-5b2437b477ae42115e352e6f4c91c7ad]
+### 20. Finance Act 2011[^c-5b2437b477ae42115e352e6f4c91c7ad]
 
 (1) Part 5 of the Finance Act 2011[^f00094] (bank levy) is amended by paragraph (2) and Part 7 of that Act (data-gathering) is amended by paragraph (3).
 
@@ -846,7 +846,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
   - (ii) omit paragraph (b);
 - (b) in paragraph 45(4)(a)[^f00099] omit “, other than the United Kingdom,”.
 
-### 21. Finance Act 2012[^key-20f50913daef2470b8e6f576c730235b]
+### 21. Finance Act 2012[^c-20f50913daef2470b8e6f576c730235b]
 
 (1) Part 2 of the Finance Act 2012[^f00100] (insurance companies carrying on long-term business) is amended as follows.
 
@@ -855,7 +855,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 - (a) in subsection (2) omit paragraphs (b) and (c);
 - (b) in subsection (3)(b) omit “(b) or (c),”.
 
-### 22. Finance Act 2013[^key-b237e098fad8fa6afdc694b38bc3bcd1]
+### 22. Finance Act 2013[^c-b237e098fad8fa6afdc694b38bc3bcd1]
 
 (1) Part 3 of the Finance Act 2013[^f00101] (annual tax on enveloped dwellings) is amended as follows.
 
@@ -867,7 +867,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 ## PART 3 — Amendments to subordinate legislation
 
-### 23. The Stamp Duty Reserve Tax Regulations 1986[^key-b0ada95920b9d3eda077ba11337e8eeb]
+### 23. The Stamp Duty Reserve Tax Regulations 1986[^c-b0ada95920b9d3eda077ba11337e8eeb]
 
 (1) The Stamp Duty Reserve Tax Regulations 1986[^f00103] are amended as follows.
 
@@ -877,7 +877,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 24. The Individual Savings Account Regulations 1998[^key-87af11ce5e9d2dbff3df4fdc7848d245]
+### 24. The Individual Savings Account Regulations 1998[^c-87af11ce5e9d2dbff3df4fdc7848d245]
 
 (1) The Individual Savings Account Regulations 1998[^f00104] are amended as follows.
 
@@ -914,7 +914,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (5) In regulation 31(4)(a)(ia) and (iiaa) after “in” insert “the United Kingdom or”.
 
-### 25. The Overseas Insurers (Tax Representatives) Regulations 1999[^key-ebe40b4d9a7de8f02da9df24a71bc240]
+### 25. The Overseas Insurers (Tax Representatives) Regulations 1999[^c-ebe40b4d9a7de8f02da9df24a71bc240]
 
 (1) The Overseas Insurers (Tax Representatives) Regulations 1999[^f00110] are amended as follows.
 
@@ -931,7 +931,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
     ;
 - (b) in paragraph (9)(b) after “resident” insert “, or, if he is resident in Gibraltar, under the law of Gibraltar,”.
 
-### 26. The Stamp Duty and Stamp Duty Reserve Tax (Definition of Unit Trust Scheme and Open-ended Investment Company) Regulations 2001[^key-3725939979b4e3acae67a824df7b5ac2]
+### 26. The Stamp Duty and Stamp Duty Reserve Tax (Definition of Unit Trust Scheme and Open-ended Investment Company) Regulations 2001[^c-3725939979b4e3acae67a824df7b5ac2]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (Definition of Unit Trust Scheme and Open-ended Investment Company) Regulations 2001[^f00111] are amended as follows.
 
@@ -972,7 +972,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
   .
 
-### 27. The Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2006[^key-64b52a73514854063f9722a1704fe622]
+### 27. The Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2006[^c-64b52a73514854063f9722a1704fe622]
 
 (1) The Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2006[^f00114] are amended as follows.
 
@@ -984,7 +984,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 28. The Authorised Investment Funds (Tax) Regulations 2006[^key-602d73c01f55b8ac5eb3d5396f42732e]
+### 28. The Authorised Investment Funds (Tax) Regulations 2006[^c-602d73c01f55b8ac5eb3d5396f42732e]
 
 (1) The Authorised Investment Funds (Tax) Regulations 2006[^f00115] are amended as follows.
 
@@ -1002,13 +1002,13 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
     .
 
-### 29. The Income Tax (Purchased Life Annuities) Regulations 2008[^key-78b149dea8a30b4e183b80aaff5b77ac]
+### 29. The Income Tax (Purchased Life Annuities) Regulations 2008[^c-78b149dea8a30b4e183b80aaff5b77ac]
 
 (1) The Income Tax (Purchased Life Annuities) Regulations 2008[^f00119] are amended as follows.
 
 (2) In regulation 2, in the definition of “relevant EEA State” omit “, other than the United Kingdom”.
 
-### 30. The Offshore Funds (Tax) Regulations 2009[^key-d4189d230e2f73bb41dbb905bb1616b8]
+### 30. The Offshore Funds (Tax) Regulations 2009[^c-d4189d230e2f73bb41dbb905bb1616b8]
 
 (1) The Offshore Funds (Tax) Regulations 2009[^f00120] are amended as follows.
 
@@ -1032,13 +1032,13 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 (3) In regulation 74(2) omit “264 or”.
 
-### 31. The Inheritance Tax (Qualifying Non-UK Pension Schemes) Regulations 2010[^key-54848af6afb592e9673cf6b466de12db]
+### 31. The Inheritance Tax (Qualifying Non-UK Pension Schemes) Regulations 2010[^c-54848af6afb592e9673cf6b466de12db]
 
 (1) The Inheritance Tax (Qualifying Non-UK Pension Schemes) Regulations 2010[^f00122] are amended as follows.
 
 (2) In regulation 6(4)(a) for “another” substitute “a”.
 
-### 32. The Investment Trust (Approved Company) (Tax) Regulations 2011[^key-fd487d9ae61ea5eea0ad906158d0e97d]
+### 32. The Investment Trust (Approved Company) (Tax) Regulations 2011[^c-fd487d9ae61ea5eea0ad906158d0e97d]
 
 (1) The Investment Trust (Approved Company) (Tax) Regulations 2011[^f00123] are amended as follows.
 
@@ -1056,7 +1056,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
     .
 
-### 33. The Inheritance Tax (Market Makers and Discount Houses) Regulations 2012[^key-ed7a44d9e7eb0e5b318553640adae200]
+### 33. The Inheritance Tax (Market Makers and Discount Houses) Regulations 2012[^c-ed7a44d9e7eb0e5b318553640adae200]
 
 (1) The Inheritance Tax (Market Makers and Discount Houses) Regulations 2012[^f00124] are amended as follows.
 
@@ -1080,7 +1080,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 34. The Unauthorised Unit Trusts (Tax) Regulations 2013[^key-93e4430bcb666ce6021d0c67c8586060]
+### 34. The Unauthorised Unit Trusts (Tax) Regulations 2013[^c-93e4430bcb666ce6021d0c67c8586060]
 
 (1) The Unauthorised Unit Trusts (Tax) Regulations 2013[^f00125] are amended as follows.
 
@@ -1094,7 +1094,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 .
 
-### 35. The Landfill Tax (Qualifying Fines) (No. 2) Order 2015[^key-1fd21d04e949bfd0c63e29b67d1697e2]
+### 35. The Landfill Tax (Qualifying Fines) (No. 2) Order 2015[^c-1fd21d04e949bfd0c63e29b67d1697e2]
 
 *Extent: E+W+N.I.*
 
@@ -1117,7 +1117,7 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 
 ## PART 4 — Effect of subordinate legislation
 
-### 36. The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018[^key-36f1d88815a679c9a9d704ee17c51d1c]
+### 36. The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018[^c-36f1d88815a679c9a9d704ee17c51d1c]
 
 (1) Regulations 8, 11, 28 and 34 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018[^f00128] have effect for the purposes of the following provisions relating to taxation—
 
@@ -1139,17 +1139,17 @@ These Regulations may be cited as the Taxes (Amendments) (EU Exit) Regulations 2
 - (a) notwithstanding regulation 4 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018, and
 - (b) notwithstanding that the result may be to impose or increase a relevant tax.
 
-### 37. The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019[^key-5c273fc33f41c28c4a6a7829b33da6a2]
+### 37. The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019[^c-5c273fc33f41c28c4a6a7829b33da6a2]
 
 Regulation 62 of the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019[^f00140] has effect notwithstanding that the result may be to impose or increase a relevant tax.
 
-### 38. The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019[^key-d442cb4034f980692673791cb29693d7]
+### 38. The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019[^c-d442cb4034f980692673791cb29693d7]
 
 Parts 2 and 3 of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019[^f00141] have effect notwithstanding that the result may be to impose or increase a relevant tax.
 
 ## PART 5 — Transitional and savings provisions
 
-### 39. Transitional and savings provisions[^key-4093229e52504a6f5e978ae9d03fe554]
+### 39. Transitional and savings provisions[^c-4093229e52504a6f5e978ae9d03fe554]
 
 (1) This regulation applies where, immediately before the coming into force of these Regulations—
 
@@ -1158,12 +1158,12 @@ Parts 2 and 3 of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regula
 
 (2) In the enactment, any reference to the United Kingdom (and any reference to states or an area including the United Kingdom) that is inserted by these Regulations includes Gibraltar.
 
-**40.**[^key-6f6df3fab15cc39aa10e4f7b50729eef] A person is to be treated as a foreign institution for the purposes of section 697 of the Income Tax (Trading and Other Income) Act 2005 if—
+**40.**[^c-6f6df3fab15cc39aa10e4f7b50729eef] A person is to be treated as a foreign institution for the purposes of section 697 of the Income Tax (Trading and Other Income) Act 2005 if—
 
 - (a) immediately before these Regulations come into force the person falls within paragraph (a) or (b) of subsection (2) of that section, and
 - (b) the person is for the time being a person to whom regulation 8, 11, 28 or 34 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 applies.
 
-**41.**[^key-ab9f2e1a6de3f657f68ec3d3461695a3] Where a person qualifies for authorisation under Schedule 3 to the Financial Services and Markets Act 2000 by virtue of the Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^f00142], the amendments made by these Regulations to the following provisions do not apply to that person—
+**41.**[^c-ab9f2e1a6de3f657f68ec3d3461695a3] Where a person qualifies for authorisation under Schedule 3 to the Financial Services and Markets Act 2000 by virtue of the Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^f00142], the amendments made by these Regulations to the following provisions do not apply to that person—
 
 - (a) section 59(3)(b) of the Inheritance Tax Act 1984;
 - (b) the definition of “general insurance company” in section 96(8) of the Finance Act 1997;
@@ -1177,15 +1177,15 @@ Parts 2 and 3 of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regula
 - (j) section 65(2) and (3) of the Finance Act 2012;
 - (k) the definition of “European institution” in regulation 2(1)(a) of the Individual Savings Account Regulations 1998.
 
-**42.**[^key-6177a76d960ea434f069b205ab21f146] The amendments made by regulation 4(2) to section 99 of the Finance Act 1986[^f00143] do not apply for the purposes of determining whether securities issued or raised before the time on which those amendments come into force are chargeable securities for the purpose of Part 4 of the Finance Act 1986.
+**42.**[^c-6177a76d960ea434f069b205ab21f146] The amendments made by regulation 4(2) to section 99 of the Finance Act 1986[^f00143] do not apply for the purposes of determining whether securities issued or raised before the time on which those amendments come into force are chargeable securities for the purpose of Part 4 of the Finance Act 1986.
 
-**43.**[^key-894a16bb638b50e361eb5ba2c413ad87] The amendment made by regulation 7(3) to paragraph 2(4)(a) of Schedule 5 to the Finance Act 1997[^f00144] does not apply in relation to mistaken assumptions made about the operation, before the time that amendment comes into force, of any provision of EU legislation relating to any duty of excise, insurance premium tax or landfill tax or to any matter connected with those taxes.
+**43.**[^c-894a16bb638b50e361eb5ba2c413ad87] The amendment made by regulation 7(3) to paragraph 2(4)(a) of Schedule 5 to the Finance Act 1997[^f00144] does not apply in relation to mistaken assumptions made about the operation, before the time that amendment comes into force, of any provision of EU legislation relating to any duty of excise, insurance premium tax or landfill tax or to any matter connected with those taxes.
 
-**44.**[^key-d443d838ea9625d74f6752e22c9eade9] The amendments made by regulation 15(8) to section 837B of the Income Tax Act 2007 do not apply in determining whether condition A in section 837B(2) is met by reference to a time before the amendments come into force.
+**44.**[^c-d443d838ea9625d74f6752e22c9eade9] The amendments made by regulation 15(8) to section 837B of the Income Tax Act 2007 do not apply in determining whether condition A in section 837B(2) is met by reference to a time before the amendments come into force.
 
-**45.**[^key-f039fd7d1e5dbd75d5ba63d1d68b82eb] The amendments made by regulation 16(2) to section 133I of the Corporation Tax Act 2009 do not apply in relation to times in the period beginning with 1 December 2001 and ending with the time those amendments come into force.
+**45.**[^c-f039fd7d1e5dbd75d5ba63d1d68b82eb] The amendments made by regulation 16(2) to section 133I of the Corporation Tax Act 2009 do not apply in relation to times in the period beginning with 1 December 2001 and ending with the time those amendments come into force.
 
-**46.**[^key-366f45477dc970fb11bd38b17c326302] The amendments made by regulation 17(8) to section 635(2) of the Corporation Tax Act 2010 do not apply in determining whether condition A in section 635(2) is met by reference to a time before the amendments come into force.
+**46.**[^c-366f45477dc970fb11bd38b17c326302] The amendments made by regulation 17(8) to section 635(2) of the Corporation Tax Act 2010 do not apply in determining whether condition A in section 635(2) is met by reference to a time before the amendments come into force.
 
 Rebecca Harris
 
@@ -1217,9 +1217,9 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00002]: Footnote: OJ No. C 326, 26.10.2012, p.13.
 
-[^key-d81113c02927e571e940471752f8bbd2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-d81113c02927e571e940471752f8bbd2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
-[^key-6afcf0f800aa0abc33bdd30d6721c7a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/689/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-6afcf0f800aa0abc33bdd30d6721c7a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/689/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00003]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
@@ -1233,7 +1233,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00008]: Footnote: Section 98B was inserted by paragraph 3 of Schedule 11 to the Finance Act 1990.
 
-[^key-816643cb3a4442087001632be45efe35]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/689/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-816643cb3a4442087001632be45efe35]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/689/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00009]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
@@ -1247,7 +1247,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00014]: Footnote: Section 125(1A) was inserted by section 122(6) of the Finance Act 2009.
 
-[^key-520ee9c0c5b1b24312177d2cfd4c6113]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/689/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-520ee9c0c5b1b24312177d2cfd4c6113]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/689/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00015]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41).
 
@@ -1255,7 +1255,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00017]: Footnote: See the European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 ([S.I. 2018/1298](https://www.legislation.gov.uk/uksi/2018/1298)).
 
-[^key-f22a363a78ac9c95c1f1ab751c984837]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/689/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-f22a363a78ac9c95c1f1ab751c984837]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/689/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00018]: Footnote: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31).
 
@@ -1265,7 +1265,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00021]: Footnote: L.N. 2017/135.
 
-[^key-5122b3b536ad97cbb43287fb238a9d85]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/689/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-5122b3b536ad97cbb43287fb238a9d85]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/689/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00022]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
@@ -1297,7 +1297,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00036]: Footnote: OJ L No.199, 31.07.1985, p. 1.
 
-[^key-749366ffea7db2efcf9aa67cf7119a82]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/689/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-749366ffea7db2efcf9aa67cf7119a82]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/689/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00037]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16).
 
@@ -1305,17 +1305,17 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00039]: Footnote: Paragraph 2(4)(a) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-2fb343a8da21e9c127f26e2df8eb2cf9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/689/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-2fb343a8da21e9c127f26e2df8eb2cf9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/689/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00040]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).
 
-[^key-8b9de71f58a8466e88e1b032421b22a6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/689/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-8b9de71f58a8466e88e1b032421b22a6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/689/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00041]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16). Paragraph 11 of Schedule 15 was amended by section 58(3) of the Finance (No. 2) Act 2005.
 
 [^f00042]: Footnote: See the European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 ([S.I. 2018/1298](https://www.legislation.gov.uk/uksi/2018/1298)).
 
-[^key-a46a29238cd256d1caca1ce6fb32eb06]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/689/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-a46a29238cd256d1caca1ce6fb32eb06]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/689/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00043]: Footnote: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2).
 
@@ -1323,7 +1323,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00045]: Footnote: Section 561(1) was substituted by [S.I. 2007/3186](https://www.legislation.gov.uk/uksi/2007/3186).
 
-[^key-b83ac326d87eb9ae5de27f1432b12c3b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/689/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-b83ac326d87eb9ae5de27f1432b12c3b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/689/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00046]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
 
@@ -1333,13 +1333,13 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00049]: Footnote: Schedule 7A was inserted by paragraph 4 of Schedule 16 to the Finance Act 2016.
 
-[^key-f4fc1b64c29d00712d96de30ce695616]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/689/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-f4fc1b64c29d00712d96de30ce695616]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/689/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00050]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00051]: Footnote: Section 244C was inserted by paragraph 11 of Schedule 4 to the Finance Act [2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10).
 
-[^key-669f2471c0644e5cfe550211c36e1d20]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/689/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-669f2471c0644e5cfe550211c36e1d20]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/689/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00052]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
@@ -1347,11 +1347,11 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00054]: Footnote: Section 381E was inserted by paragraph 3 of Schedule 12 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-71bdab730fa1c01af27d4ca91f576f6d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/689/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-71bdab730fa1c01af27d4ca91f576f6d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/689/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00055]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-940974f560c8bcec8ec23bc1ac38b04b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/689/regulation/15) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-940974f560c8bcec8ec23bc1ac38b04b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/689/regulation/15) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00056]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
@@ -1375,7 +1375,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00066]: Footnote: L.N. 2017/135.
 
-[^key-abfd005968fff99ff4978a89e3ebb42d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/689/regulation/16) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-abfd005968fff99ff4978a89e3ebb42d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/689/regulation/16) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00067]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
 
@@ -1401,11 +1401,11 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00078]: Footnote: Schedule 4 was amended by paragraph 1 of Schedule 4 to the Finance Act 2014, by paragraph 1 of Schedule 8 to the Finance Act 2016 and paragraph 1 of Schedule 6 to the Finance (No. 2) Act 2017.
 
-[^key-b3b0beb8334ee61d2d279a09d2bbc868]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/689/regulation/17) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-b3b0beb8334ee61d2d279a09d2bbc868]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/689/regulation/17) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00079]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-05b2f219d11232986d4167526833851f]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/2)[(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/3)[(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/4) omitted (with effect in accordance with Sch. 4 paras. 4(1), 5(1), 6(1) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/4/paragraph/3)
+[^c-05b2f219d11232986d4167526833851f]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/2)[(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/3)[(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/17/4) omitted (with effect in accordance with Sch. 4 paras. 4(1), 5(1), 6(1) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/4/paragraph/3)
 
 [^f00082]: Footnote: Section 269ZG was inserted by paragraph 16 of Schedule 4 to the Finance (No 2) Act 2017.
 
@@ -1425,17 +1425,17 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00090]: Footnote: Section 1158 was substituted by section 49 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and relevantly amended by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
-[^key-d1ff7529ea43d57d137d9406762d954d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/689/regulation/18) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-d1ff7529ea43d57d137d9406762d954d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/689/regulation/18) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00091]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
 
 [^f00092]: Footnote: Section 118(11) was amended by paragraph 171(3) of Schedule 4 to the Co-operative and Community Benefit Societies Act 2014 as amended by paragraph 14 of Schedule 39 to the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
-[^key-3722c8a70380cb7998eea79a7e50d029]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/689/regulation/19) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-3722c8a70380cb7998eea79a7e50d029]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/689/regulation/19) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00093]: Footnote: [2010 c. 13](https://www.legislation.gov.uk/ukpga/2010/13).
 
-[^key-5b2437b477ae42115e352e6f4c91c7ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/689/regulation/20) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-5b2437b477ae42115e352e6f4c91c7ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/689/regulation/20) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00094]: Footnote: [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11).
 
@@ -1449,21 +1449,21 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00099]: Footnote: Paragraph 45(4)(a) was amended by [S.I. 2012/3062](https://www.legislation.gov.uk/uksi/2012/3062).
 
-[^key-20f50913daef2470b8e6f576c730235b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/689/regulation/21) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-20f50913daef2470b8e6f576c730235b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/689/regulation/21) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00100]: Footnote: [2012 c. 14](https://www.legislation.gov.uk/ukpga/2012/14).
 
-[^key-b237e098fad8fa6afdc694b38bc3bcd1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/689/regulation/22) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-b237e098fad8fa6afdc694b38bc3bcd1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/689/regulation/22) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00101]: Footnote: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).
 
 [^f00102]: Footnote: OJ No. L 302, 17.11.2009, p.32. [Directive 2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) was amended by [Directive 2014/91/EU](https://www.legislation.gov.uk/european/directive/2014/0091), OJ No. L 257, 28.8.2014, p.186.
 
-[^key-b0ada95920b9d3eda077ba11337e8eeb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/689/regulation/23) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-b0ada95920b9d3eda077ba11337e8eeb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/689/regulation/23) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00103]: Footnote: [S.I. 1986/1711](https://www.legislation.gov.uk/uksi/1986/1711); relevant amending instrument are [S.I. 1997/2430](https://www.legislation.gov.uk/uksi/1997/2430), [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
-[^key-87af11ce5e9d2dbff3df4fdc7848d245]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/689/regulation/24) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-87af11ce5e9d2dbff3df4fdc7848d245]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/689/regulation/24) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00104]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870); relevant amending instruments are [S.I 1998/3174](https://www.legislation.gov.uk/uksi/1998/3174), [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [S.I. 2005/2561](https://www.legislation.gov.uk/uksi/2005/2561), [S.I. 2009/1994](https://www.legislation.gov.uk/uksi/2009/1994), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2013/1743](https://www.legislation.gov.uk/uksi/2013/1743), [S.I. 2014/654](https://www.legislation.gov.uk/uksi/2014/654), [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [S.I. 2015/370](https://www.legislation.gov.uk/uksi/2015/370), [S.I. 2016/64](https://www.legislation.gov.uk/uksi/2016/64), [S.I. 2016/977](https://www.legislation.gov.uk/uksi/2016/977)..
 
@@ -1477,11 +1477,11 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00109]: Footnote: OJ L No. 302, 17.11.2009, p.32. [Directive 2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) was amended by [Directive 2014/91/EU](https://www.legislation.gov.uk/european/directive/2014/0091), OJ L No. 257, 28.08.2014, p.1.
 
-[^key-ebe40b4d9a7de8f02da9df24a71bc240]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/689/regulation/25) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-ebe40b4d9a7de8f02da9df24a71bc240]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/689/regulation/25) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00110]: Footnote: [S.I. 1999/881](https://www.legislation.gov.uk/uksi/1999/881); relevant amending instrument is [S.I. 2008/2626](https://www.legislation.gov.uk/uksi/2008/2626).
 
-[^key-3725939979b4e3acae67a824df7b5ac2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/689/regulation/26) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-3725939979b4e3acae67a824df7b5ac2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/689/regulation/26) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00111]: Footnote: [S.I. 2001/964](https://www.legislation.gov.uk/uksi/2001/964); amended by [S.I. 2006/746](https://www.legislation.gov.uk/uksi/2006/746), [S.I. 2008/954](https://www.legislation.gov.uk/uksi/2008/954).
 
@@ -1489,11 +1489,11 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00113]: Footnote: Part 17 was amended by Part 1 of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265), [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613), [S.I. 2012/2015](https://www.legislation.gov.uk/uksi/2012/2015), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I. 2013/636](https://www.legislation.gov.uk/uksi/2013/636), [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I. 2017/514](https://www.legislation.gov.uk/uksi/2017/514), [S.I. 2018/698](https://www.legislation.gov.uk/uksi/2018/698), [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325).
 
-[^key-64b52a73514854063f9722a1704fe622]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/689/regulation/27) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-64b52a73514854063f9722a1704fe622]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/689/regulation/27) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00114]: Footnote: [S.I. 2006/206](https://www.legislation.gov.uk/uksi/2006/206); relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884), [S.I. 2017/398](https://www.legislation.gov.uk/uksi/2017/398).
 
-[^key-602d73c01f55b8ac5eb3d5396f42732e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/689/regulation/28) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-602d73c01f55b8ac5eb3d5396f42732e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/689/regulation/28) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00115]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), relevant amending instrument are [S.I. 2011/2192](https://www.legislation.gov.uk/uksi/2011/2192), [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
@@ -1503,39 +1503,39 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00118]: Footnote: L.N. 2017/135.
 
-[^key-78b149dea8a30b4e183b80aaff5b77ac]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/689/regulation/29) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-78b149dea8a30b4e183b80aaff5b77ac]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/689/regulation/29) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00119]: Footnote: [S.I. 2008/562](https://www.legislation.gov.uk/uksi/2008/562).
 
-[^key-d4189d230e2f73bb41dbb905bb1616b8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/689/regulation/30) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-d4189d230e2f73bb41dbb905bb1616b8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/689/regulation/30) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00120]: Footnote: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001), relevant amending instrument are [S.I. 2011/1211](https://www.legislation.gov.uk/uksi/2011/1211), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
 [^f00121]: Footnote: OJ L No. 302, 17.11.2009, p.32. [Directive 2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) was amended by [Directive 2014/91/EU](https://www.legislation.gov.uk/european/directive/2014/0091), OJ L No. 257, 28.08.2014, p.1.
 
-[^key-54848af6afb592e9673cf6b466de12db]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2019/689/regulation/31) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-54848af6afb592e9673cf6b466de12db]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2019/689/regulation/31) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00122]: Footnote: [S.I. 2010/51](https://www.legislation.gov.uk/uksi/2010/51).
 
-[^key-fd487d9ae61ea5eea0ad906158d0e97d]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2019/689/regulation/32) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-fd487d9ae61ea5eea0ad906158d0e97d]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2019/689/regulation/32) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00123]: Footnote: [S.I. 2011/2999](https://www.legislation.gov.uk/uksi/2011/2999); relevant amending instrument is [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
-[^key-ed7a44d9e7eb0e5b318553640adae200]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/689/regulation/33) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-ed7a44d9e7eb0e5b318553640adae200]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/689/regulation/33) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00124]: Footnote: [S.I. 2012/2903](https://www.legislation.gov.uk/uksi/2012/2903).
 
-[^key-93e4430bcb666ce6021d0c67c8586060]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2019/689/regulation/34) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-93e4430bcb666ce6021d0c67c8586060]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2019/689/regulation/34) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00125]: Footnote: [S.I. 2013/2819](https://www.legislation.gov.uk/uksi/2013/2819); relevant amending instrument is [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
-[^key-1fd21d04e949bfd0c63e29b67d1697e2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2019/689/regulation/35) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-1fd21d04e949bfd0c63e29b67d1697e2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2019/689/regulation/35) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00126]: Footnote: [S.I. 2015/1385](https://www.legislation.gov.uk/uksi/2015/1385), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942). Section 40 of the Finance Act 1996, as amended by section 31 of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11) and by section 19 of the Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29) with effect from 1st April 2018 by virtue of [S.I. 2018/214 (C.21)](https://www.legislation.gov.uk/uksi/2018/214), has the effect that, from 1st April 2018, landfill tax is only chargeable in respect of taxable disposals made in England and Northern Ireland.
 
 [^f00127]: Footnote: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). Section 37 was amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
 
-[^key-36f1d88815a679c9a9d704ee17c51d1c]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2019/689/regulation/36) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-36f1d88815a679c9a9d704ee17c51d1c]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2019/689/regulation/36) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00128]: Footnote: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149) amended by [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405).
 
@@ -1561,32 +1561,32 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00139]: Footnote: Section 853(3) was amended by [S.I. 2009/1890](https://www.legislation.gov.uk/uksi/2009/1890).
 
-[^key-5c273fc33f41c28c4a6a7829b33da6a2]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2019/689/regulation/37) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-5c273fc33f41c28c4a6a7829b33da6a2]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2019/689/regulation/37) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00140]: Footnote: [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325).
 
-[^key-d442cb4034f980692673791cb29693d7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2019/689/regulation/38) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-d442cb4034f980692673791cb29693d7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2019/689/regulation/38) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00141]: Footnote: [S.I. 2019/589](https://www.legislation.gov.uk/uksi/2019/589).
 
-[^key-4093229e52504a6f5e978ae9d03fe554]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2019/689/regulation/39) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-4093229e52504a6f5e978ae9d03fe554]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2019/689/regulation/39) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
-[^key-6f6df3fab15cc39aa10e4f7b50729eef]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2019/689/regulation/40) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-6f6df3fab15cc39aa10e4f7b50729eef]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2019/689/regulation/40) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
-[^key-ab9f2e1a6de3f657f68ec3d3461695a3]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/689/regulation/41) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-ab9f2e1a6de3f657f68ec3d3461695a3]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/689/regulation/41) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00142]: Footnote: [S.I. 2001/3084](https://www.legislation.gov.uk/uksi/2001/3084), amended by [S.I. 2005/1](https://www.legislation.gov.uk/uksi/2005/1), [S.I. 2006/1805](https://www.legislation.gov.uk/uksi/2006/1805), [S.I. 2007/2931](https://www.legislation.gov.uk/uksi/2007/2931), [S.I. 2007/3254](https://www.legislation.gov.uk/uksi/2007/3254), [S.I. 2012/2017](https://www.legislation.gov.uk/uksi/2012/2017), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), [S.I. 2014/1292](https://www.legislation.gov.uk/uksi/2014/1292), [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910), [S.I. 2018/546](https://www.legislation.gov.uk/uksi/2018/546)
 
-[^key-6177a76d960ea434f069b205ab21f146]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/689/regulation/42) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-6177a76d960ea434f069b205ab21f146]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/689/regulation/42) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00143]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41). Subsection (4) of section 99 was amended, and subsection (4A) of that section inserted, by section 57(1) of the Finance Act (No. 2) [2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22).
 
-[^key-894a16bb638b50e361eb5ba2c413ad87]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2019/689/regulation/43) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-894a16bb638b50e361eb5ba2c413ad87]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2019/689/regulation/43) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
 [^f00144]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16). Paragraph 2(4)(a) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-d443d838ea9625d74f6752e22c9eade9]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/689/regulation/44) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-d443d838ea9625d74f6752e22c9eade9]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/689/regulation/44) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
-[^key-f039fd7d1e5dbd75d5ba63d1d68b82eb]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/689/regulation/45) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-f039fd7d1e5dbd75d5ba63d1d68b82eb]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/689/regulation/45) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
 
-[^key-366f45477dc970fb11bd38b17c326302]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2019/689/regulation/46) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)
+[^c-366f45477dc970fb11bd38b17c326302]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2019/689/regulation/46) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1)

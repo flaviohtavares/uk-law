@@ -35,58 +35,58 @@ supplementing Directive 2008/98/EC of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-42ca719f75b0a2b59a0efddba56e7f72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42ca719f75b0a2b59a0efddba56e7f72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope of measurement of food waste[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## Article 1. Scope of measurement of food waste[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Methodology for the measurement of food waste[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## Article 2. Methodology for the measurement of food waste[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Voluntary measurement[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## Article 3. Voluntary measurement[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Minimum quality requirements[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## Article 4. Minimum quality requirements[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## Article 5. Entry into force[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42ca719f75b0a2b59a0efddba56e7f72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42ca719f75b0a2b59a0efddba56e7f72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Attribution of food waste to the different stages of the food supply chain[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## ANNEX I — Attribution of food waste to the different stages of the food supply chain[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Waste codes included in the European list of waste for types of waste which typically include food waste[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## ANNEX II — Waste codes included in the European list of waste for types of waste which typically include food waste[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## ANNEX III[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
-[^key-42ca719f75b0a2b59a0efddba56e7f72]**Methodology for the in-depth measurement of food waste**
+[^c-42ca719f75b0a2b59a0efddba56e7f72]**Methodology for the in-depth measurement of food waste**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42ca719f75b0a2b59a0efddba56e7f72]**Description of the methods**
+[^c-42ca719f75b0a2b59a0efddba56e7f72]**Description of the methods**
 
 **Methods based on direct access to food waste/direct measurement**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Methodology for the measurement of food waste where an in-depth measurement in accordance with the methodology set out in Annex III is not used[^key-42ca719f75b0a2b59a0efddba56e7f72]
+## ANNEX IV — Methodology for the measurement of food waste where an in-depth measurement in accordance with the methodology set out in Annex III is not used[^c-42ca719f75b0a2b59a0efddba56e7f72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42ca719f75b0a2b59a0efddba56e7f72]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/9)
+[^c-42ca719f75b0a2b59a0efddba56e7f72]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/9)

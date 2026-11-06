@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.22A. Notice of order made under section 4A(6)[^key-7929a42729e3d8c5c2c068016a532848]
+## 1.22A. Notice of order made under section 4A(6)[^c-7929a42729e3d8c5c2c068016a532848]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7929a42729e3d8c5c2c068016a532848]: Textual amendment: Rule 1.22A inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/14) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-7929a42729e3d8c5c2c068016a532848]: Textual amendment: Rule 1.22A inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/14) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Transitional provision: Treasury licences[^key-e6a2d106d8ab432ec21885378d60eb1c]
+## 86. Transitional provision: Treasury licences[^c-e6a2d106d8ab432ec21885378d60eb1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ is to be treated on and after IP completion day as a reference to the correspond
 
 ## Annotations
 
-[^key-e6a2d106d8ab432ec21885378d60eb1c]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-e6a2d106d8ab432ec21885378d60eb1c]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24412221]: Marginal citation: OJ L 058, 3.3.2011, p.1

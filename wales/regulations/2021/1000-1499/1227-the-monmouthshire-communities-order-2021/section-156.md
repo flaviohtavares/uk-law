@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**156.**[^key-de3fbf2e1831f7810875251bdedd4d8c][^key-7878dbdfa67abcb6a82614d0ca3ae8ee] The community councils of Llantrisant Fawr and Llangwm are dissolved.
+**156.**[^c-de3fbf2e1831f7810875251bdedd4d8c][^c-7878dbdfa67abcb6a82614d0ca3ae8ee] The community councils of Llantrisant Fawr and Llangwm are dissolved.
 
 ## Annotations
 
-[^key-de3fbf2e1831f7810875251bdedd4d8c]: Commencement: Art. 156 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-de3fbf2e1831f7810875251bdedd4d8c]: Commencement: Art. 156 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-7878dbdfa67abcb6a82614d0ca3ae8ee]: Commencement: [Art. 156](https://www.legislation.gov.uk/wsi/2021/1227/article/156) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-7878dbdfa67abcb6a82614d0ca3ae8ee]: Commencement: [Art. 156](https://www.legislation.gov.uk/wsi/2021/1227/article/156) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

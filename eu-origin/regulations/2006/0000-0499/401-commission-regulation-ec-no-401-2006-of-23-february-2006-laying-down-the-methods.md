@@ -97,7 +97,7 @@ References to the repealed Directives shall be construed as references to this R
 
 It shall apply from 1 July 2006.
 
-[^key-ef6a042d93feb43b135860d5b8ca5031]...
+[^c-ef6a042d93feb43b135860d5b8ca5031]...
 
 ## ANNEX I — METHODS OF SAMPLING FOR OFFICIAL CONTROL OF THE LEVELS OF MYCOTOXINS IN FOODSTUFFS[^f00008]
 
@@ -133,7 +133,7 @@ A.3.1.
 
 Personnel
 
-Sampling shall be performed by an authorised person [^key-fa49fc3f6bcb87c601dfc54ee214760d]....
+Sampling shall be performed by an authorised person [^c-fa49fc3f6bcb87c601dfc54ee214760d]....
 
 A.3.2.
 
@@ -168,7 +168,7 @@ A.3.6.
 
 Replicate samples
 
-The replicate samples for enforcement, trade (defence) and reference (referee) purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^key-c079c488743f98b2cde5725ec47c187d] as regards the rights of the food business operator.
+The replicate samples for enforcement, trade (defence) and reference (referee) purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^c-c079c488743f98b2cde5725ec47c187d] as regards the rights of the food business operator.
 
 A.3.7.
 
@@ -180,7 +180,7 @@ A.3.8.
 
 Sealing and labelling of samples
 
-Each sample taken for official use shall be sealed at the place of sampling and identified following the rules applicable in each constituent territory of Great Britain[^key-105fa2c18bb8208fca802145bd49d716].
+Each sample taken for official use shall be sealed at the place of sampling and identified following the rules applicable in each constituent territory of Great Britain[^c-105fa2c18bb8208fca802145bd49d716].
 
 A record shall be kept of each sampling, permitting each lot to be identified unambiguously and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.
 
@@ -1146,7 +1146,7 @@ In the case of large warehouses destined to store food, operators should be enco
 
 When the sampling procedures as provided for in this part L are applied, the food business operator or his representative should be informed of the sampling procedure. If the sampling procedure is questioned by the food business operator or his representative, the food business operator or his representative shall enable the competent authority to sample throughout the whole lot at his/her own cost.
 
-Sampling of a part of the lot is allowed, on the condition that the quantity of the sampled part is at least 10 % of the lot to be sampled. If a part of a lot of food of the same class or description has been sampled and identified as not satisfying legal[^key-d7ba38192661e4a5eaab759c02af8822] requirements, it shall be presumed that the entire lot is also affected, unless further detailed assessment shows no evidence that the rest of the lot is unsatisfactory.
+Sampling of a part of the lot is allowed, on the condition that the quantity of the sampled part is at least 10 % of the lot to be sampled. If a part of a lot of food of the same class or description has been sampled and identified as not satisfying legal[^c-d7ba38192661e4a5eaab759c02af8822] requirements, it shall be presumed that the entire lot is also affected, unless further detailed assessment shows no evidence that the rest of the lot is unsatisfactory.
 
 The relevant provisions, such as weight of the incremental sample, provided for in the other parts of this Annex are applicable for the sampling for very large lots or lots stored or transported in a way whereby sampling throughout the lot is not feasible.
 
@@ -1276,7 +1276,7 @@ In case the maximum level applies to the dry matter, the dry matter content of t
 
 REPLICATE SAMPLES
 
-The replicate samples for enforcement, trade (defence) and reference (referee) purposes shall be taken from the homogenised material unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^key-f54c472c04db1c392fdd24483f08184a] as regards the rights of the food business operator.
+The replicate samples for enforcement, trade (defence) and reference (referee) purposes shall be taken from the homogenised material unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^c-f54c472c04db1c392fdd24483f08184a] as regards the rights of the food business operator.
 
 4\.
 
@@ -1781,15 +1781,15 @@ Laboratory must comply with the provisions of Article 12 of Regulation (EC) No 8
 
 [^f00007]: Footnote: [OJ L 143, 7.6.2005, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.143.01.0003.01.ENG).
 
-[^key-ef6a042d93feb43b135860d5b8ca5031]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/401/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/639/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef6a042d93feb43b135860d5b8ca5031]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/401/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/639/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: A guidance document for competent authorities for the control of compliance with EU legislation on aflatoxins is available at http://europa.eu.int/comm/food/food/chemicalsafety/contaminants/aflatoxin\_guidance\_en.pdf. The guidance document provides additional practical information but the information contained in the guidance document is subordinate to the provisions in this Regulation.
 
-[^key-fa49fc3f6bcb87c601dfc54ee214760d]: Textual amendment: Words in [Annex 1 para. A.3.1](https://www.legislation.gov.uk/eur/2006/401/annex/I/paragraph/A.3.1) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/639/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa49fc3f6bcb87c601dfc54ee214760d]: Textual amendment: Words in [Annex 1 para. A.3.1](https://www.legislation.gov.uk/eur/2006/401/annex/I/paragraph/A.3.1) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/639/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c079c488743f98b2cde5725ec47c187d]: Textual amendment: Words in Annex 1 para. A.3.6 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/639/regulation/14) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c079c488743f98b2cde5725ec47c187d]: Textual amendment: Words in Annex 1 para. A.3.6 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/639/regulation/14) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-105fa2c18bb8208fca802145bd49d716]: Textual amendment: Words in Annex 1 para. A.3.8 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/639/regulation/15) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-105fa2c18bb8208fca802145bd49d716]: Textual amendment: Words in Annex 1 para. A.3.8 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/639/regulation/15) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 519/2014 of 16 May 2014 amending Regulation (EC) No 401/2006 as regards methods of sampling of large lots, spices and food supplements, performance criteria for T-2, HT-2 toxin and citrinin and screening methods of analysis (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/519).
 
@@ -1843,9 +1843,9 @@ Laboratory must comply with the provisions of Article 12 of Regulation (EC) No 8
 
 [^f00027]: Footnote: In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
 
-[^key-d7ba38192661e4a5eaab759c02af8822]: Textual amendment: Word in [Annex 1 para. L1](https://www.legislation.gov.uk/eur/2006/401/annex/I/paragraph/L1) substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/639/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7ba38192661e4a5eaab759c02af8822]: Textual amendment: Word in [Annex 1 para. L1](https://www.legislation.gov.uk/eur/2006/401/annex/I/paragraph/L1) substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/639/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f54c472c04db1c392fdd24483f08184a]: Textual amendment: Words in Annex 2 para. 3 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [17](https://www.legislation.gov.uk/uksi/2019/639/regulation/17) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f54c472c04db1c392fdd24483f08184a]: Textual amendment: Words in Annex 2 para. 3 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [17](https://www.legislation.gov.uk/uksi/2019/639/regulation/17) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000006]: Editorial: Substituted by [Corrigendum to Commission Regulation (EU) No 519/2014 of 16 May 2014 amending Regulation (EC) No 401/2006 as regards methods of sampling of large lots, spices and food supplements, performance criteria for T-2, HT-2 toxin and citrinin and screening methods of analysis (Official Journal of the European Union L 147 of 17 May 2014)](https://www.legislation.gov.uk/eur/2014/519/pdfs/eurcs_20140519_en_001.pdf).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Citizenship: stateless minors[^key-8e21be80f0a9ae915d885788f6f1fd2f][^key-79bab77b3030df47a7cefbe05fc68bdb]
+## 11. Citizenship: stateless minors[^c-8e21be80f0a9ae915d885788f6f1fd2f][^c-79bab77b3030df47a7cefbe05fc68bdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e21be80f0a9ae915d885788f6f1fd2f]: Commencement: S. 11 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-8e21be80f0a9ae915d885788f6f1fd2f]: Commencement: S. 11 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-79bab77b3030df47a7cefbe05fc68bdb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/36/section/11) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)
+[^c-79bab77b3030df47a7cefbe05fc68bdb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/36/section/11) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/9)

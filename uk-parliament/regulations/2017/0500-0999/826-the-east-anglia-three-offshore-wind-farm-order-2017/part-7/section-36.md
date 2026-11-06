@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Saving provisions for Trinity House[^key-bebcdeac05f5c05f5f71fca67181eefb]
+## 36. Saving provisions for Trinity House[^c-bebcdeac05f5c05f5f71fca67181eefb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-bebcdeac05f5c05f5f71fca67181eefb]: Commencement: Art. 36 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-bebcdeac05f5c05f5f71fca67181eefb]: Commencement: Art. 36 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Adjustment of provisional amount[^key-958c6eda79abc5534a498411d603480e]
+## 57. Adjustment of provisional amount[^c-958c6eda79abc5534a498411d603480e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-958c6eda79abc5534a498411d603480e]: Commencement: Reg. 57 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-958c6eda79abc5534a498411d603480e]: Commencement: Reg. 57 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

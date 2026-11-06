@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Removals from the UK: visa penalties for uncooperative countries[^key-628ae7ecb4433d9e4afdf1c24c8033a3]
+## 72. Removals from the UK: visa penalties for uncooperative countries[^c-628ae7ecb4433d9e4afdf1c24c8033a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-628ae7ecb4433d9e4afdf1c24c8033a3]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2022/36/section/72) in force at 28.6.2022, see [s. 87(5)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/h)
+[^c-628ae7ecb4433d9e4afdf1c24c8033a3]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2022/36/section/72) in force at 28.6.2022, see [s. 87(5)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/h)

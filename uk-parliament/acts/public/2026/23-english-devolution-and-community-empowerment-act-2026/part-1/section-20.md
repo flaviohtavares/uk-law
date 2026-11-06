@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Report under section 1 of the Cities and Local Government Devolution Act 2016[^key-e39827c90330fc33f06b550b584bd213]
+## 20. Report under section 1 of the Cities and Local Government Devolution Act 2016[^c-e39827c90330fc33f06b550b584bd213]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ For section 1 of the Cities and Local Government Devolution Act 2016 (devolution
 
 ## Annotations
 
-[^key-e39827c90330fc33f06b550b584bd213]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2026/23/section/20) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-e39827c90330fc33f06b550b584bd213]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2026/23/section/20) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

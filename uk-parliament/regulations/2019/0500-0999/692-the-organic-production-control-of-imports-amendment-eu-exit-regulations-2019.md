@@ -44,19 +44,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-dfc1b449f493de4e8648dd3ca30ccb85]
+## 1. Citation and commencement[^c-dfc1b449f493de4e8648dd3ca30ccb85]
 
 (1) These Regulations may be cited as the Organic Production (Control of Imports) (Amendment) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on the later of exit day or the day after the day on which they are made.
 
-## 2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products[^key-de7056ba74ce13cf570c26018ce5fd37]
+## 2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products[^c-de7056ba74ce13cf570c26018ce5fd37]
 
 (1) Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products is amended as follows.
 
 (2) In Article 32—
 
-- (a)[^key-6cb470d627853efef63cf6bf90aed72d] in paragraph 1—
+- (a)[^c-6cb470d627853efef63cf6bf90aed72d] in paragraph 1—
   - (i) omit “Community”;
   - (ii) after “market” insert “ in Great Britain ”;
 - (b) in paragraph 2—
@@ -70,10 +70,10 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 (3) In Article 33—
 
 - (a) in paragraph 1—
-  - (i)[^key-06cf0e9a1b3eba7581a78d811dbbf9c3] omit “Community”;
+  - (i)[^c-06cf0e9a1b3eba7581a78d811dbbf9c3] omit “Community”;
   - (ii) at the end insert—
 
-    > The requirement set out in point (d) applies to organic products entering the United Kingdom from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^key-12ae0bfe3b6cad54bb1dc5a1a0993e9f].
+    > The requirement set out in point (d) applies to organic products entering the United Kingdom from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^c-12ae0bfe3b6cad54bb1dc5a1a0993e9f].
 
     ;
 - (b) in paragraph 2—
@@ -83,7 +83,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   - (iv) in the fourth subparagraph, for “Commission assisted by the Member States” substitute “ Secretary of State ”;
   - (v) at the end insert—
 
-    > The requirement in this paragraph to provide a concise annual report applies to the European Union, an EEA state and Switzerland only on and after 1st July 2021[^key-94f8cee31bd1966dbd6450c532ce2cf8].
+    > The requirement in this paragraph to provide a concise annual report applies to the European Union, an EEA state and Switzerland only on and after 1st July 2021[^c-94f8cee31bd1966dbd6450c532ce2cf8].
 
     ;
 - (c) in paragraph 3—
@@ -100,23 +100,23 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 .
 
-## 3. Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/eur/2008/889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products with regard to organic production, labelling and control[^key-fa59ae0af8102d4514a06a3d5617f14c]
+## 3. Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/eur/2008/889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products with regard to organic production, labelling and control[^c-fa59ae0af8102d4514a06a3d5617f14c]
 
 (1) Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/eur/2008/889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products with regard to organic production, labelling and control is amended as follows.
 
 (2) In Article 82(1)—
 
-- (a)[^key-868c3dc7039fb1b9af245a25d70d79b0] in the first subparagraph, for “the Community” substitute “ Great Britain ”;
-- (b) in the second subparagraph, for the words from “when” to the end substitute “ when these storage facilities are situated outside of Great Britain[^key-669cfada006fdf41f4a990e1710ed2e1], by a control body or authority approved by the Secretary of State for control in that country. ”.
+- (a)[^c-868c3dc7039fb1b9af245a25d70d79b0] in the first subparagraph, for “the Community” substitute “ Great Britain ”;
+- (b) in the second subparagraph, for the words from “when” to the end substitute “ when these storage facilities are situated outside of Great Britain[^c-669cfada006fdf41f4a990e1710ed2e1], by a control body or authority approved by the Secretary of State for control in that country. ”.
 
-(3)[^key-14892b1fa39d40fc82da64ab69a9af3d] In Article 83, in the second paragraph, for “the Community” substitute “ Great Britain ”.
+(3)[^c-14892b1fa39d40fc82da64ab69a9af3d] In Article 83, in the second paragraph, for “the Community” substitute “ Great Britain ”.
 
 (4) In Article 84—
 
-- (a)[^key-773e2ccf158bd9e1e86be3c30102f722] in the first paragraph, for “the Community” substitute “ Great Britain ”;
-- (b) in the third paragraph, for the words from “Trade Control” to the end substitute “ import control system operated in Great Britain[^key-ac67f122a7ebcdcd1bdb41a6e4ebf36e] . ”.
+- (a)[^c-773e2ccf158bd9e1e86be3c30102f722] in the first paragraph, for “the Community” substitute “ Great Britain ”;
+- (b) in the third paragraph, for the words from “Trade Control” to the end substitute “ import control system operated in Great Britain[^c-ac67f122a7ebcdcd1bdb41a6e4ebf36e] . ”.
 
-## 4. Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/eur/2008/1235) laying down detailed rules for implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) as regards the arrangements for imports of organic products from third countries[^key-1b49da0616f351b0032453596ae31bba]
+## 4. Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/eur/2008/1235) laying down detailed rules for implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) as regards the arrangements for imports of organic products from third countries[^c-1b49da0616f351b0032453596ae31bba]
 
 (1) Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/eur/2008/1235) laying down detailed rules for implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) as regards the arrangements for imports of organic products from third countries is amended as follows.
 
@@ -124,7 +124,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 - (a) in paragraph 5—
   - (i) omit “relevant Member State's”;
-  - (ii)[^key-5ef5e62db27d456ecddb298c305d343c] for “the Union” substitute “ Great Britain ”;
+  - (ii)[^c-5ef5e62db27d456ecddb298c305d343c] for “the Union” substitute “ Great Britain ”;
 - (b) for paragraph 6 substitute—
 
   > **6.**
@@ -133,7 +133,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
   ;
 - (c) in paragraph 7, for “a relevant” substitute “ the ”;
-- (d) in paragraph 11, after “circulation” insert “ in Great Britain[^key-c80246fbcaf81f1234ca3d84cd4b77cd] ”;
+- (d) in paragraph 11, after “circulation” insert “ in Great Britain[^c-c80246fbcaf81f1234ca3d84cd4b77cd] ”;
 - (e) after paragraph 11 insert—
 
   > **12.**
@@ -147,7 +147,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   > - (a) in relation to England, the Secretary of State;
   > - (b) in relation to Wales, the Welsh Ministers;
   > - (c) in relation to Scotland, the Scottish Ministers;
-  > - (d)[^key-2b009e5453f5a3524cd0ca89f8ff3199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (d)[^c-2b009e5453f5a3524cd0ca89f8ff3199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   .
 
@@ -168,8 +168,8 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 - (c) in paragraph 3—
   - (i) in the words before point (a)—
     - (aa) for “Commission to ensure” substitute “ Secretary of State to ensure ”;
-    - (bb)[^key-3726d908d2187812515abc472cbe15c4] for “the Community” substitute “ Great Britain ”;
-  - (ii)[^key-a199cac13c3b99c964eacec52b7b1133] in point (a), for “the Community” substitute “ Great Britain ”;
+    - (bb)[^c-3726d908d2187812515abc472cbe15c4] for “the Community” substitute “ Great Britain ”;
+  - (ii)[^c-a199cac13c3b99c964eacec52b7b1133] in point (a), for “the Community” substitute “ Great Britain ”;
   - (iii) in point (g), for “Commission” substitute “ Secretary of State ”;
 - (d) in paragraph 4, for “Commission”, in both places it occurs, substitute “ Secretary of State ”;
 - (e) in paragraph 5—
@@ -195,8 +195,8 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 - (a) in paragraph 1, for “Commission” substitute “ Secretary of State ”;
 - (b) in paragraph 2—
-  - (i) in the words before point (a), for “Community market” substitute “ market in Great Britain[^key-3325840a06d09b497bdd5f7b0e8ccc1d] ”;
-  - (ii)[^key-adbe1e9b34f4c4e37c64d4e2cbde2019] in point (f), for “the Union” substitute “ Great Britain ”.
+  - (i) in the words before point (a), for “Community market” substitute “ market in Great Britain[^c-3325840a06d09b497bdd5f7b0e8ccc1d] ”;
+  - (ii)[^c-adbe1e9b34f4c4e37c64d4e2cbde2019] in point (f), for “the Union” substitute “ Great Britain ”.
 
 (8) In Article 8—
 
@@ -204,7 +204,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 - (b) in paragraph 2—
   - (i) for “Commission”, in each place it occurs, substitute “ Secretary of State ”;
   - (ii) for “request for inclusion which” substitute “ request from a third country for inclusion on the list provided for in Article 7 if it ”;
-  - (iii)[^key-18c9eaa2c6b37a1856eae54cda76a1b4] for “the Community”, in each place it occurs, substitute “ Great Britain ”;
+  - (iii)[^c-18c9eaa2c6b37a1856eae54cda76a1b4] for “the Community”, in each place it occurs, substitute “ Great Britain ”;
 - (c) in paragraph 4, for the second subparagraph substitute—
 
   > The decisions referred to in the first subparagraph must be made by the Secretary of State by regulations.
@@ -226,7 +226,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 - (a) for “Commission”, in each place it occurs, substitute “ Secretary of State ”;
 - (b) in paragraph 2, for “Community” substitute “ United Kingdom ”;
-- (c)[^key-8c16f0f8779d2ded90c05ecc6164b25a] in paragraph 3, for “the Community”, in each place it occurs, substitute “ Great Britain ”;
+- (c)[^c-8c16f0f8779d2ded90c05ecc6164b25a] in paragraph 3, for “the Community”, in each place it occurs, substitute “ Great Britain ”;
 - (d) in paragraph 5, for the final sentence substitute “ The decision must be made by the Secretary of State by regulations. ”.
 
 (12) In Article 12—
@@ -247,33 +247,33 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 (13) In Article 13—
 
 - (a) in paragraph 1—
-  - (i)[^key-8bd46392b0f42519aa408cb24fe10513] in the first subparagraph, for “the Union” substitute “ Great Britain ”;
+  - (i)[^c-8bd46392b0f42519aa408cb24fe10513] in the first subparagraph, for “the Union” substitute “ Great Britain ”;
   - (ii) in points (a) and (b), omit “relevant Member State's”;
   - (iii) in point (c), for the words “Article 158(1)” to the end substitute “ paragraph 17(4) of Schedule 1 to the Taxation (Cross-border) Trade Act 2018 [^c23674271]. ”;
   - (iv) in the second subparagraph, for the words from “relevant Member” to the end substitute “ competent authority. ”;
   - (v) omit the third subparagraph;
 - (b) after paragraph 1 insert—
 
-  > The requirements in this Article relating to certificates of inspection apply to organic products entering the United Kingdom from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^key-940ddaef187003e021bba02abf963b38].
+  > The requirements in this Article relating to certificates of inspection apply to organic products entering the United Kingdom from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^c-940ddaef187003e021bba02abf963b38].
 
   ;
 - (c) in paragraph 2—
   - (i) in the first subparagraph—
     - (aa) omit “relevant Member State's”;
-    - (bb)[^key-cbe82082c4bd9fddcff99027d9929598] for the words from “the electronic Trade” to the end substitute “ Great Britain's import control system ”;
-  - (ii)[^key-1a472c5b0c5fcc4ba4ea66be5c9d64b3] omit the second subparagraph;
+    - (bb)[^c-cbe82082c4bd9fddcff99027d9929598] for the words from “the electronic Trade” to the end substitute “ Great Britain's import control system ”;
+  - (ii)[^c-1a472c5b0c5fcc4ba4ea66be5c9d64b3] omit the second subparagraph;
   - (iii) in the third subparagraph—
     - (aa) for “TRACES”, in both places it occurs, substitute “ the United Kingdom's import control system ”;
     - (bb) omit “relevant Member State's”;
 - (d) in paragraph 4—
-  - (i)[^key-2daebab9cd19b66af8234bf347888918] in the second subparagraph, for “the Union” substitute “ Great Britain ”;
+  - (i)[^c-2daebab9cd19b66af8234bf347888918] in the second subparagraph, for “the Union” substitute “ Great Britain ”;
   - (ii) in the fourth subparagraph, for the words from “Commission or” to “State” substitute “ Secretary of State ”;
 - (e) in paragraph 6, omit “relevant Member State's”;
 - (f) after paragraph 7 insert—
 
   > **8.**
   >
-  > During the transition period a certificate of inspection issued by a control body which appears on both Annex 4 of this Regulation and Annex 4 of Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/eur/2008/1235) [^c23674281] as it had effect in EU law immediately before IP completion day[^key-f72bf47d3dffd0ac46a51e58d37deb01] must be accepted for the purposes of satisfying the requirements, including those in paragraph 1, for import into Great Britain[^key-9d509b62041969a34cec0fbe07058c38] notwithstanding that the certificate of inspection certifies compliance with requirements in Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) [^c23674291] as it has effect in EU law from time to time.
+  > During the transition period a certificate of inspection issued by a control body which appears on both Annex 4 of this Regulation and Annex 4 of Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/eur/2008/1235) [^c23674281] as it had effect in EU law immediately before IP completion day[^c-f72bf47d3dffd0ac46a51e58d37deb01] must be accepted for the purposes of satisfying the requirements, including those in paragraph 1, for import into Great Britain[^c-9d509b62041969a34cec0fbe07058c38] notwithstanding that the certificate of inspection certifies compliance with requirements in Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) [^c23674291] as it has effect in EU law from time to time.
   >
   > **9.**
   >
@@ -281,21 +281,21 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   >
   > **10.**
   >
-  > The transition period referred to in paragraphs 8 and 9 is a period which begins on IP completion day and ends on 31st December 2022[^key-c44896c63ef7bc470a7e29f37bc82b16].
+  > The transition period referred to in paragraphs 8 and 9 is a period which begins on IP completion day and ends on 31st December 2022[^c-c44896c63ef7bc470a7e29f37bc82b16].
 
   .
 
 (14) In Article 13a—
 
 - (a) in paragraph 1—
-  - (i) for “TRACES”, in both places it occurs, substitute “ Great Britain's[^key-b5114264e8769e31f44f1f953e7f2cf2] electronic import control system ”;
+  - (i) for “TRACES”, in both places it occurs, substitute “ Great Britain's[^c-b5114264e8769e31f44f1f953e7f2cf2] electronic import control system ”;
   - (ii) for “2, 3 and 4” substitute “ 2 and 3 ”;
   - (iii) for “Commission” substitute “ Secretary of State ”;
 - (b) in paragraph 2—
-  - (i) in the first subparagraph, for “TRACES” substitute “ Great Britain's[^key-72b86ad329d4a0b6e82285fc02282f1a] electronic import control system ”;
+  - (i) in the first subparagraph, for “TRACES” substitute “ Great Britain's[^c-72b86ad329d4a0b6e82285fc02282f1a] electronic import control system ”;
   - (ii) in the first subparagraph, for “one of the official languages of the Union” substitute “ English, and may also appear in other languages, ”;
   - (iii) omit the second subparagraph;
-- (c) in paragraph 3, for “TRACES” substitute “ Great Britain's[^key-095a45500b7b5cc4eec4d2a9eaa24e4f] import control system ”;
+- (c) in paragraph 3, for “TRACES” substitute “ Great Britain's[^c-095a45500b7b5cc4eec4d2a9eaa24e4f] import control system ”;
 - (d) omit paragraph 4.
 
 (15) In Article 13b—
@@ -303,7 +303,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 - (a) for “Article 158(1) of Regulation (EU) No 952/2013” substitute “ section 3 of the Taxation (Cross-border) Trade Act 2018 ”;
 - (b) at the end insert—
 
-  > The requirements of this Article apply to organic products entering the United Kingdom from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^key-8a1d3d74ae412d56955d44c947942229].
+  > The requirements of this Article apply to organic products entering the United Kingdom from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^c-8a1d3d74ae412d56955d44c947942229].
 
   .
 
@@ -311,27 +311,27 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 - (a) in the first paragraph—
   - (i) for “Commission”, in both places it occurs, substitute “ Secretary of State ”;
-  - (ii) for “TRACES”, in both places it occurs, substitute “ Great Britain's[^key-51f718bfac447ce6580891c9d984cb90] import control system ”;
+  - (ii) for “TRACES”, in both places it occurs, substitute “ Great Britain's[^c-51f718bfac447ce6580891c9d984cb90] import control system ”;
   - (iii) omit the words “of the” to “No 834/2007,”;
   - (iv) for “that Regulation” substitute “ Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) ”;
 - (b) for the second paragraph substitute—
 
-  > The competent authority is in charge of granting and updating access rights to Great Britain's[^key-a0a42d47958151e4536cb991357f3914] import control system of operators, control authorities and control bodies. Before granting access rights to Great Britain's import control system, the competent authority must verify the identity of the operators, control authorities and control bodies concerned.
+  > The competent authority is in charge of granting and updating access rights to Great Britain's[^c-a0a42d47958151e4536cb991357f3914] import control system of operators, control authorities and control bodies. Before granting access rights to Great Britain's import control system, the competent authority must verify the identity of the operators, control authorities and control bodies concerned.
 
   ;
 - (c) omit paragraph 3.
 
-(17) In Article 13d, for “TRACES” substitute “ Great Britain's[^key-f202e8345743b475e60badd94cfcf1e4] import control system ”.
+(17) In Article 13d, for “TRACES” substitute “ Great Britain's[^c-f202e8345743b475e60badd94cfcf1e4] import control system ”.
 
 (18) In Article 14—
 
 - (a) in paragraph 1—
   - (i) for “Regulation (EU) No 952/2013” substitute “ the Taxation (Cross-border) Trade Act 2018 ”;
   - (ii) omit “relevant Member State's”;
-  - (iii) after “circulation” insert “ in Great Britain[^key-832469d9ed53cd6a63cc5c6981ffbc10] ”;
+  - (iii) after “circulation” insert “ in Great Britain[^c-832469d9ed53cd6a63cc5c6981ffbc10] ”;
   - (iv) at the end insert—
 
-    > The requirements in this Article in respect of a certificate of inspection apply to organic products entering Great Britain[^key-12dbba3269052c7b692b8f9cdac1e203] from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^key-9d54e6adde1ea18e7c90fce85faa2ccb].
+    > The requirements in this Article in respect of a certificate of inspection apply to organic products entering Great Britain[^c-12dbba3269052c7b692b8f9cdac1e203] from the European Union, an EEA state or Switzerland only on and after 1st July 2021[^c-9d54e6adde1ea18e7c90fce85faa2ccb].
 
     .
 - (b) in paragraph 2—
@@ -339,16 +339,16 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   - (ii) in the first subparagraph, for “Regulation (EU) No 2913/92” substitute “ the Taxation (Cross-border) Trade Act 2018 ”;
   - (iii) in the first subparagraph, for the words from “submitted in” to “splitting” substitute “ split ”;
   - (iv) in the second subparagraph—
-    - (aa) for “TRACES” substitute “ Great Britain's[^key-10c268315153318cdb1b5cb20ee4b8e1] import control system ”;
+    - (aa) for “TRACES” substitute “ Great Britain's[^c-10c268315153318cdb1b5cb20ee4b8e1] import control system ”;
     - (bb) omit “relevant Member State's”, in each place it occurs;
-    - (cc) after “circulation” insert “ in Great Britain[^key-348e7e4684d0f74afe8282b902f62a18] ”;
+    - (cc) after “circulation” insert “ in Great Britain[^c-348e7e4684d0f74afe8282b902f62a18] ”;
     - (dd) omit the final sentence.
 
 (19) In Article 15—
 
 - (a) in paragraph 1—
   - (i) in the first subparagraph—
-    - (aa)[^key-e94a03a0c82330d98cbda13ded87ec27] for “the Union” substitute “ Great Britain ”;
+    - (aa)[^c-e94a03a0c82330d98cbda13ded87ec27] for “the Union” substitute “ Great Britain ”;
     - (bb) after “834/2007”, in the second place it occurs, insert “ , or in relation to products to which paragraph 8 of Article 13 applies, Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products as it has effect in EU law from time to time, ”;
   - (ii) omit the second and third subparagraphs;
 - (b) in paragraph 2, in the second subparagraph—
@@ -465,18 +465,18 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | Austria |  |  | Control Bodies |
 > | AT-BIO-004 | GfRS Gesellschaft fur Ressourcenschutz mbH | www.grfs.de |  |
 > | AT-BIO-301 | Austria Bio Garantie GmbH | www.abg.at |  |
-> | AT-BIO-302[^key-6d80a2ed1d59647c03ea03eb4434776d] | Austria Bio-Garantie – Landwirtschaft GmbH | www.abg.at |  |
+> | AT-BIO-302[^c-6d80a2ed1d59647c03ea03eb4434776d] | Austria Bio-Garantie – Landwirtschaft GmbH | www.abg.at |  |
 > | AT-BIO-401 | BIOS – Biokontrollservice Osterreich | www.bios.kontrolle.at |  |
 > | AT-BIO-402 | LACON GmbH | www.lacon-institut.at |  |
 > | AT-BIO-501 | SLK GesmbH | www.slk.at |  |
-> | [^key-2132f20f68a5ff96e03be5d021845f9d]. . . | [^key-2132f20f68a5ff96e03be5d021845f9d]. . . | [^key-2132f20f68a5ff96e03be5d021845f9d]. . . |  |
+> | [^c-2132f20f68a5ff96e03be5d021845f9d]. . . | [^c-2132f20f68a5ff96e03be5d021845f9d]. . . | [^c-2132f20f68a5ff96e03be5d021845f9d]. . . |  |
 > | AT-BIO-901 | LVA GmbH | www.lva.at |  |
-> | AT-BIO-902 | SGS Austria Controll – Co. Ges.m.b.H | www.at.sgs.com[^key-76bd0317deb5c875e40e8a1d5e6183c1] |  |
+> | AT-BIO-902 | SGS Austria Controll – Co. Ges.m.b.H | www.at.sgs.com[^c-76bd0317deb5c875e40e8a1d5e6183c1] |  |
 > | AT-BIO-903 | LKV Austrai Gemeinnutzige GmbH | www.lkv-austria.at |  |
 > | BELGIUM |  |  | Control Bodies |
 > | BE-BIO-01 | CERTISYS | www.certisys.eu |  |
 > | BE-BIO-02 | TUV NORD INTERGA bvba | www.tuv-nord-integra.com |  |
-> | BE-BIO-03 | Inscert Partner[^key-357884f064959896c4fb72685635f0af] | www.quality-partner.be |  |
+> | BE-BIO-03 | Inscert Partner[^c-357884f064959896c4fb72685635f0af] | www.quality-partner.be |  |
 > | BE-BIO-05 | Comite du Lait | www.comitedulait.be/index.php/page/production-biologique |  |
 > | BULGARIA |  |  | Control Bodies |
 > | BG-BIO-02 | BALKAN BIOCERT Ltd | www.balkanbiocert.com |  |
@@ -486,10 +486,10 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | BG-BIO-07 | Control Union Certifications B.V. | www.controlunion.com |  |
 > | BG-BIO-10 | Inspection Institute for Organic products S.A. (BIO HELLAS) | www.bio-hellas.gr |  |
 > | BG-BIO-12 | ECOGRUPPO ITALIA S.R.L. with branch office in Bulgaria – ECOGRUPPO ITALIA – BULGARIA BRANCH UNIT | www.ecogruppoitalia.it |  |
-> | [^key-59d48e7d143128055cc4efea9f788b0c]. . . | [^key-59d48e7d143128055cc4efea9f788b0c]. . . | [^key-59d48e7d143128055cc4efea9f788b0c]. . . |  |
+> | [^c-59d48e7d143128055cc4efea9f788b0c]. . . | [^c-59d48e7d143128055cc4efea9f788b0c]. . . | [^c-59d48e7d143128055cc4efea9f788b0c]. . . |  |
 > | BG-BIO-14 | SGS BULGARIA Ltd |  |  |
 > | BG-BIO-15 | BULGARKONTROLA S.A. | www.bulgarkontrola.bg |  |
-> | [^key-59d48e7d143128055cc4efea9f788b0c]. . . | [^key-59d48e7d143128055cc4efea9f788b0c]. . . | [^key-59d48e7d143128055cc4efea9f788b0c]. . . |  |
+> | [^c-59d48e7d143128055cc4efea9f788b0c]. . . | [^c-59d48e7d143128055cc4efea9f788b0c]. . . | [^c-59d48e7d143128055cc4efea9f788b0c]. . . |  |
 > | BG-BIO-17 | “Agency for organic certification” Ltd | www.abcbg.net |  |
 > | BG-BIO-18 | ‘COSMOCERT’ | www.cosmocert.bg |  |
 > | BG-BIO-19 | MAKOM CERTIFICATION | www.makom.bg |  |
@@ -507,7 +507,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | HR-EKO-08 | BUREAU VERITAS d.o.o. | www.bureauveritas.si |  |
 > | HR-EKO-09 | Eurotalus j.d.o.o. | www.eurotalus.hr |  |
 > | HR-EKO-10 | EKO RAZVOJ d.o.o. | www.ekorazvoj.hr |  |
-> | HR-EKO-11[^key-14601b6bd9928c2728bf19e603df73aa] | Nastavni zavod za javno zdravstvo Dr. Andrija Stampar | www.stampar.hr |  |
+> | HR-EKO-11[^c-14601b6bd9928c2728bf19e603df73aa] | Nastavni zavod za javno zdravstvo Dr. Andrija Stampar | www.stampar.hr |  |
 > | HR-EKO-12 | BIOTER d.o.o. | www.bioter.hr |  |
 > | HR-EKO-13 | MAREKO d.o.o | www.mareko.hr |  |
 > | CYPRUS |  |  | Control Bodies |
@@ -515,10 +515,10 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | CY-BIO-002 | BIOCERT (CYPRUS) LTD | N/A |  |
 > | CY-BIO-003 | Eurocert ʹΕυρггαΐкη<br>Εταιρεία Ελέγχѵ кαι<br>Пιогоггоιήоεѵ ᾺΕ | N/A |  |
 > | CY-BIO-004 | TUV AUSTRIA HELLAS MOV E.П.Ε. | http://www.tuvaustriacyprus.com.cy |  |
-> | CY-BIO-005[^key-6a2a7cf97e8402a91481ee62d044d794] | CertifyBio Ltd | www.certifybio.com |  |
+> | CY-BIO-005[^c-6a2a7cf97e8402a91481ee62d044d794] | CertifyBio Ltd | www.certifybio.com |  |
 > | CZECH REPUBLIC |  |  | Control Bodies |
 > | CZ-BIO-001 | KEZ o.p.s. | www.kez.cz |  |
-> | CZ-BIO-002 | [^key-7644c9eda2b3f8e4561fad74ecee9c08]... ABCERT AG | www.abcert.cz |  |
+> | CZ-BIO-002 | [^c-7644c9eda2b3f8e4561fad74ecee9c08]... ABCERT AG | www.abcert.cz |  |
 > | CZ-BIO-003 | BIOKONT CZ, s.r.o. | www.biokont.cz |  |
 > | CZ-BIO-004 | BUREAU VERITAS CZECH REPUBLIC, spol. s.r.o. | www.bureauveritas.cz |  |
 > | CZ-BIO-005 | State Veterinary Administration | En.svscr.cz/ | In the Czech Republic we have system A with four approved control bodies. However State Veterinary Administration and other two state control authorities are mentioned too. They perform organic official controls similarly to the private control bodies except they do not do certification. |
@@ -546,12 +546,12 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | FI-EKO-113 | Pohjois-ja Keski-Pohjanmaan elinkeion-liikenne-ja ymparistokeskus | N/A |  |
 > | FI-EKO-114 | Kainuun elinkeino-liikenne-ja ymparistokeskus | N/A |  |
 > | FI-EKO-115 | Lapin elinkeino-liikenne-jas ymparistokeskus | N/A |  |
-> | FI-EKO-201[^key-3aa33ddd846ab7e6628a4d069819cd89] | Ruokavirasto | www.ruokavirasto.fi |  |
+> | FI-EKO-201[^c-3aa33ddd846ab7e6628a4d069819cd89] | Ruokavirasto | www.ruokavirasto.fi |  |
 > | FI-EKO-301 | Sosiaali-ja terveysalan lupa-ja valvontavirasto Valvira (National Supervisory Authority for Welfare and Health) | www.valvira.fi |  |
 > | FI-EKO-401 | Alands landskapsregering | www.regeringen.ax | Operates on Aland |
 > | France |  |  | Control Bodies |
 > | FR-BIO-01 | ECOCERT FRACE | www.ecocert.fr |  |
-> | [^key-34bba87d8c05a597dcf7f9d1d500acd2]. . . | [^key-34bba87d8c05a597dcf7f9d1d500acd2]. . . | [^key-34bba87d8c05a597dcf7f9d1d500acd2]. . . |  |
+> | [^c-34bba87d8c05a597dcf7f9d1d500acd2]. . . | [^c-34bba87d8c05a597dcf7f9d1d500acd2]. . . | [^c-34bba87d8c05a597dcf7f9d1d500acd2]. . . |  |
 > | FR-BIO-09 | CERTIPAQ BIO | www.certipaqbio.com |  |
 > | FR-BIO-10 | BUREAU VERITAS CERTIFICATION FRANCE | www.bureauveritas.com |  |
 > | FR-BIO-12 | Certisud | www.certisud.fr |  |
@@ -560,15 +560,15 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | FR-BIO-16 | QUALISUD | www.qualisud.fr |  |
 > | FR-BIO-17 | BIOTEK AGRICULTURE | www.biotek-agriculture.fr |  |
 > | FR-BIO-18 | EUROFINS CERTIFICATION | www.eurofins.fr/certification |  |
-> | FR-BIO-19[^key-bfeb0f5fcc18bc30b7cee9d4160290bf] | Control Union Inspection France | www.control-union.fr |  |
+> | FR-BIO-19[^c-bfeb0f5fcc18bc30b7cee9d4160290bf] | Control Union Inspection France | www.control-union.fr |  |
 > | FR-BIO-20 | OCACIA | www.ocacia.fr |  |
 > | FR-BIO-21 | AFNOR Certification | certification.afnor.org |  |
 > | Germany |  |  | Control Bodies |
-> | DE-OKO-001 | Kiwa BCS Oko-Garantie Gmbh | www.bcs-oeko.com[^key-59d10017649e0aae87bb4fc49f135f1e] |  |
-> | DE-OKO-003 | LACON Privatinstitut für Qualitätssicherung und Zertifizierung ökologisch erzeugter Lebensmittel GmbH[^key-75c789c21eff655ff49c14335b02edde] | www.lacon-institut.com |  |
-> | DE-OKO-005 | Ecocert IMO GmbH | www.ecocert.de[^key-bc8fe3231118334e207ecf88bfca66ff] |  |
+> | DE-OKO-001 | Kiwa BCS Oko-Garantie Gmbh | www.bcs-oeko.com[^c-59d10017649e0aae87bb4fc49f135f1e] |  |
+> | DE-OKO-003 | LACON Privatinstitut für Qualitätssicherung und Zertifizierung ökologisch erzeugter Lebensmittel GmbH[^c-75c789c21eff655ff49c14335b02edde] | www.lacon-institut.com |  |
+> | DE-OKO-005 | Ecocert IMO GmbH | www.ecocert.de[^c-bc8fe3231118334e207ecf88bfca66ff] |  |
 > | DE-OKO-006 | ABCERT AG | www.abcert.de |  |
-> | DE-OKO-007[^key-9082f872c85d6de296f19b426aeae555] | Prüfgesellschaft ökologischer Landbau mbH | www.pruefgesellschaft.bio |  |
+> | DE-OKO-007[^c-9082f872c85d6de296f19b426aeae555] | Prüfgesellschaft ökologischer Landbau mbH | www.pruefgesellschaft.bio |  |
 > | DE-OKO-009 | LC Landwirtschafts-Consulting GmbH | www.lc-sh.de |  |
 > | DE-OKO-012 | AGRECO R.F. GODERZ GmbH | www.agrocogmbh.com |  |
 > | DE-OKO-013 | QC&I Gesellschaft fur Kontrolle und Zertifizerung von Qualitatssicherungssyteme n GmbH | www.qci.de |  |
@@ -578,9 +578,9 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | DE-OKO-037 | OkoP Zertifizierungs GmbH | www.oekop.de |  |
 > | DE-OKO-039 | GfRS-Gesellschaft fur Ressourcenschutz mbH | www.gfrs.de |  |
 > | DE-OKO-044 | ARS PROBATA GmbH | www.ars-probata.com |  |
-> | DE-OKO-060 | QAL GmbH Gesellschaft fur Qualiatssicherung in der Agrar – und Lebensmittelwirtschaft | www.qal-gmbh.de[^key-cc67f2ef00efbea3dd9d92a1cbd791e8] |  |
+> | DE-OKO-060 | QAL GmbH Gesellschaft fur Qualiatssicherung in der Agrar – und Lebensmittelwirtschaft | www.qal-gmbh.de[^c-cc67f2ef00efbea3dd9d92a1cbd791e8] |  |
 > | DE-OKO-064 | ABC Gmbh Agrar-Beratungs und Coltroll GmbH | www.abcg-alsfeld.de |  |
-> | DE-OKO-070[^key-511f526ed63c215c44308f052ded1075] | Control Union Certifications Germany GmbH | www.controlunion-germany.com |  |
+> | DE-OKO-070[^c-511f526ed63c215c44308f052ded1075] | Control Union Certifications Germany GmbH | www.controlunion-germany.com |  |
 > | Greece |  |  | Control Bodies |
 > | GR-BIO-01 | DIO-inspection and Certification Organisation of Organic Products | www.dionet.gr |  |
 > | GR-BIO-02 | PHYSIOLOGIKE INSPECTIONS CERTIFICATIONS OF ORGANIC PRODUCTS-PROMOTION | www.physiologike.gr;www.pyhsiologike.org |  |
@@ -602,9 +602,9 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | HU-OKO-02 | Hungaria Oko Garancia Kft | www.okogarancia.hu |  |
 > | IRELAND |  |  | Control Bodies |
 > | IE-ORG-02 | Irish Organic Association | www.irishorganicassociation.ie |  |
-> | IE-ORG-03 | Organic Trust Ltd | www.organictrust.ie[^key-01881f309859a935c1ba8c2bff13a2d3] |  |
-> | IE-ORG-04[^key-bd184491b75231f58318963a7571dea8] | Global Trust Certification Ltd (SAI Global) | www.saiglobal.com |  |
-> | [^key-cd28a305f4f08a5af1ec855a65745e73]. . . | [^key-cd28a305f4f08a5af1ec855a65745e73]. . . | [^key-cd28a305f4f08a5af1ec855a65745e73]. . . |  |
+> | IE-ORG-03 | Organic Trust Ltd | www.organictrust.ie[^c-01881f309859a935c1ba8c2bff13a2d3] |  |
+> | IE-ORG-04[^c-bd184491b75231f58318963a7571dea8] | Global Trust Certification Ltd (SAI Global) | www.saiglobal.com |  |
+> | [^c-cd28a305f4f08a5af1ec855a65745e73]. . . | [^c-cd28a305f4f08a5af1ec855a65745e73]. . . | [^c-cd28a305f4f08a5af1ec855a65745e73]. . . |  |
 > | Italy |  |  | Control Bodies |
 > | IT-BIO-001-BZ | BIKO – Tirol | www.biko.at | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics |
 > | IT-BIO-002 | CODEX Srl | www.codexsrl.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Import |
@@ -612,10 +612,10 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | IT-BIO-004 | SUOLO & SALUTE Srl | www.suoloesalute.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Not authorised for control of import activity<br>OPERATIVE OFFICE:<br>Via Galliera, 93 40121 Bologna (BO) +39 051 6751265 |
 > | IT-BIO-005 | BIOS Srl | www.certbios.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Aquaculture<br>Preparation<br>Import |
 > | IT-BIO-006 | ICEA Srl | www.icea.info | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Aquaculture<br>Preparation<br>Import |
-> | IT-BIO-007 | Bioagricert Srl | www.bioagricert.org[^key-6c58ef2a2308d58b5506194dbc9ca25c] | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Aquaculture<br>Preparation<br>Import |
+> | IT-BIO-007 | Bioagricert Srl | www.bioagricert.org[^c-6c58ef2a2308d58b5506194dbc9ca25c] | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Aquaculture<br>Preparation<br>Import |
 > | IT-BIO-008 | ECOGRUPPO ITALIA Srl | www.ecogruppoitalia.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Import |
 > | IT-BIO-009 | CCPB Srl | www.ccpb.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Aquaculture<br>Preparation<br>Import |
-> | IT-BIO-012 | Sidel Spa | www.sidelitalia.it[^key-a9e7b142d380497a108cc194151f4e3b] | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Import |
+> | IT-BIO-012 | Sidel Spa | www.sidelitalia.it[^c-a9e7b142d380497a108cc194151f4e3b] | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Import |
 > | IT-BIO-013 | ABCERT Srl | www.abcert.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Import |
 > | IT-BIO-014 | QCertificazioni Srl | www.qcsrl.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Aquaculture<br>Preparation<br>Import |
 > | IT-BIO-015 | Valoritalia Srl | www.valoritalia.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Wine<br>Zootechnics<br>Preparation<br>Import<br>OPERATIVE OFFICE:<br>Piazza Roma, 10 14100 Asti (AT) +39 0141 436915 |
@@ -624,7 +624,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | IT-BIO-018 | Agroqualitia S.p.a. | www.agroqualita.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Zootechnics<br>Preparation<br>Import |
 > | IT-BIO-019 | Instituto Nord Ovest Qualita Soc. Coop. | www.inoq.it | CERTIFIED PRODUCTIONS:<br>Vegetable<br>Zootechnics<br>Preparation<br>Import |
 > | IT-BIO-020 | Dipartimento di Qualita Agroalimentare Srl | www.dqacertificazioni.it | Vegetable<br>Zootechnics<br>Preparation<br>Import |
-> | IT-BIO-021[^key-afb3bc3709888ab67933381ac9e3b15a] | CSQA | www.csqa.it |  |
+> | IT-BIO-021[^c-afb3bc3709888ab67933381ac9e3b15a] | CSQA | www.csqa.it |  |
 > | LATVIA |  |  | Control Bodies |
 > | LV-BIO-01 | Biedriba ‘Vides kvalitãte’ | www.videskvalitate.lv |  |
 > | LV-BIO-02 | Valsts SIA ‘Sertifikãcijas untestesanas ‘centrs | www.stc.lv |  |
@@ -632,12 +632,12 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | LT-EKO-01 | Ekoagros | www.ekoagros.lt |  |
 > | LUXEMBOURG |  |  | Control Bodies and Control Authorities |
 > | LU-BIO-01 | Administration des Services techniques de l'Agriculture (autorité compétente) Service de la protection des végétaux | www.asta.etat.lu |  |
-> | LU-BIO-04[^key-ac2a56c700e652f0144126fd9b322286] | Prüfgesellschaft Ökologischer Landbau mbH (DE-OKO-007) | www.pruefgesellschaft.bio |  |
+> | LU-BIO-04[^c-ac2a56c700e652f0144126fd9b322286] | Prüfgesellschaft Ökologischer Landbau mbH (DE-OKO-007) | www.pruefgesellschaft.bio |  |
 > | LU-BIO-05 | Kontrollverein Ökologischer Landbau e.V. (DE-ÖKO-022) | www.kontrollverein.de |  |
 > | LU-BIO-06 | CERTISYS (BE-BIO-01) | www.certisys.eu |  |
 > | LU-BIO-07 | GfRS Gesellschaft fürRessourcenschutz mbH (DE-ÖKO-039) | www.gfrs.de |  |
-> | LU-BIO-08 | Inscert Partner S.A. (BE-BIO-03)[^key-64199b6d69d683b5c8e533aa1d39169e] | www.quality-partner.be/ |  |
-> | LU-BIO-09[^key-6d812df0f3d2b62cc73dca586121d427] | Bioagricert Srl (IT-BIO-007) | www.bioagricert.org |  |
+> | LU-BIO-08 | Inscert Partner S.A. (BE-BIO-03)[^c-64199b6d69d683b5c8e533aa1d39169e] | www.quality-partner.be/ |  |
+> | LU-BIO-09[^c-6d812df0f3d2b62cc73dca586121d427] | Bioagricert Srl (IT-BIO-007) | www.bioagricert.org |  |
 > | LU-BIO-10 | TUV Nord bvba (BE-BIO-02) | www.tuv-nord.com |  |
 > | MALTA |  |  | Control Authorities |
 > | MT-ORG-01 | Malta Competition and Consumer Affairs | mccaa.org.mt/ |  |
@@ -656,9 +656,9 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | PL-EKO-10 | SGS POLSKA Sp. z o.o. | www.pl.sgs.com | Not accredited for:<br>- — aquaculture animal production and seaweed<br>- — bees production. |
 > | PL-EKO-11 | DQS Polska Sp. z o.o. | dqs.pl | Not accredited for aquaculture animal production and seaweed. Not accredited for bees production. |
 > | PL-EKO-12 | Bureau Veritas Polska Sp. z.o.o. | www.bureauveritas.pl | Not authorized for:<br>- — aquaculture animal production and seaweed,<br>- — collection of wild plants and parts thereof, growing naturally in natural areas, forests and agricultural areas,<br>- — bees production. Control Body was authorized to control and certify organic production 5th March |
-> | PL-EKO-13[^key-44704b45973d42518a0bf84462d646d4] | Krajowe Centrum Badań i Certyfikacji “Gwarantowana Jakość” Sp. z o.o. | www.kcbic.pl | Accredited only for plant production and animal production. Control Body (was authorized to control and certify organic production since 30<sup>th</sup> August 2019 |
+> | PL-EKO-13[^c-44704b45973d42518a0bf84462d646d4] | Krajowe Centrum Badań i Certyfikacji “Gwarantowana Jakość” Sp. z o.o. | www.kcbic.pl | Accredited only for plant production and animal production. Control Body (was authorized to control and certify organic production since 30<sup>th</sup> August 2019 |
 > | PORTUGAL |  |  | Control Bodies |
-> | [^key-4e10a9abb83307265daba603d8026e41]. . . | [^key-4e10a9abb83307265daba603d8026e41]. . . | [^key-4e10a9abb83307265daba603d8026e41]. . . |  |
+> | [^c-4e10a9abb83307265daba603d8026e41]. . . | [^c-4e10a9abb83307265daba603d8026e41]. . . | [^c-4e10a9abb83307265daba603d8026e41]. . . |  |
 > | PT-BIO-10 | Naturalfa - control e certificação, Lda | www.naturalfa.pt |  |
 > | PT-BIO-01 | IVDP - Instituto dos vinhos do Douro e do<br>Porto | www.ivdp.pt |  |
 > | PT-BIO-02 | ECOCERT PORTUGAL, Unipessoal Lda | www.ecocert.pt |  |
@@ -666,7 +666,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | PT-BIO-04 | CERTIPLANTET - Certificação da Agricultura, Florestas e Pescas, Unipessoal, Lda | www.certiplanet.pt |  |
 > | PT-BIO-05 | CERTIS, Controlo e Certificação, Lda | www.certis.pt |  |
 > | PT-BIO-06 | AGRICERT - Certificação de Produtos Alimentares, Lda | www.agricert.pt |  |
-> | PT-BIO-07 | TRADIÇÃO E QUALIDADE | www.tradicao-qualidade.pt[^key-5292a03210732080c2e69ac0cfa69c67] |  |
+> | PT-BIO-07 | TRADIÇÃO E QUALIDADE | www.tradicao-qualidade.pt[^c-5292a03210732080c2e69ac0cfa69c67] |  |
 > | PT-BIO-08 | CODIMACO - Certificação e Qualidade, Lda | www.codimaco.pt |  |
 > | PT-BIO-09 | SGS Portugal - Sociedade Geral de Superintendência, S. A. | www.pt.sgs.com |  |
 > | ROMANIA |  |  | Control Bodies |
@@ -679,17 +679,17 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | RO-ECO-021 | CERTROM SRL | www.certrom.ro | Approved by CA for:<br>- — unprocessed plants products<br>- — live and unprocessed animal products<br>- — aquaculture products<br>- — processed agricultural products for use as food<br>- — processed agricultural products for use as feed<br>- — vegetative propagating material and seeds for cultivation |
 > | RO-ECO-022 | S.C. ECOROISCERT SRL | www.ecoroiscert.ro | Approved by CA for:<br>— unprocessed agricultural products |
 > | RO-ECO-023 | MISCAREA ROMÃNÃ PENTRU CALITATE | www.mrco.ro | Approved by CA for:<br>- — unprocessed plants products<br>- — live and unprocessed animal products |
-> | RO-ECO-024 | CERES ORGANIC CERT SRL[^key-3639a517c52743ded5f7bdf55e094266] | www.ceres-cert.com | Approved by CA for:<br>- — unprocessed plants products<br>- — live and unprocessed animal products<br>- — processed agricultural products for use as food<br>- — processed agricultural products for use as feed |
+> | RO-ECO-024 | CERES ORGANIC CERT SRL[^c-3639a517c52743ded5f7bdf55e094266] | www.ceres-cert.com | Approved by CA for:<br>- — unprocessed plants products<br>- — live and unprocessed animal products<br>- — processed agricultural products for use as food<br>- — processed agricultural products for use as feed |
 > | RO-ECO-025 | BIO CERT TRADITIONAL SRL | biocerttraditional.ro | Approved by CA for:<br>- — unprocessed plants products<br>- — live and unprocessed animal products<br>- — processed agricultural products for use as food |
 > | RO-ECO-026 | SC SRAC CERT SRL | N/A | Approved by CA for:<br>- — Agricultural unprocessed products<br>- — live or unprocessed agricultural products<br>- — processed agricultural products for us as food |
 > | RO-ECO-027 | SC TUV AUSTRIA ROMÃNIA SRL | N/A | Approved by CA for:-<br>- — unprocessed plants products<br>- — live and unprocessed animal products<br>- — processed agricultural products for use as food<br>- — processed agricultural products for used as feed |
 > | SLOVAKIA |  |  | Control Bodies |
 > | SK-BIO-002 | Naturalis SK, s.r.o | www.naturalis.sk |  |
 > | SK-BIO-003 | Biokont CZ, s.r.o. | www.biokont.sk | Mgr. Ján Kútnit is designated representative in Slovak republic |
-> | SK-BIO-004 | EKO-CONTROL SK s.r.o, | www.eko-control.sk[^key-57ce294fe9a564dad0ebcb5c3fa042ae] |  |
-> | SLOVENIA[^key-1577e99e5b2843174d72367ca0d21c26] |  |  | Control Bodies |
+> | SK-BIO-004 | EKO-CONTROL SK s.r.o, | www.eko-control.sk[^c-57ce294fe9a564dad0ebcb5c3fa042ae] |  |
+> | SLOVENIA[^c-1577e99e5b2843174d72367ca0d21c26] |  |  | Control Bodies |
 > | SI-EKO-001 | Institute for Inspection and Certification in Agriculture and in Silviculture Maribor (Institute KON - CERT Maribor) | www.kon-cert.si | Control body does not have the scope of accreditation for feed |
-> | [^key-4ae8f11cb41be38cfd680911630099e4]. . . |  |  | [^key-4ae8f11cb41be38cfd680911630099e4]. . . |
+> | [^c-4ae8f11cb41be38cfd680911630099e4]. . . |  |  | [^c-4ae8f11cb41be38cfd680911630099e4]. . . |
 > | SI-EKO-002 | Institute for Inspection and Certification of University of Maribor (IKCUM) | www.ikc-um.si |  |
 > | SI-EKO-003 | Bureau Veritas d.o.o | www.bureauveritas.si |  |
 > | SI-EKO-004 | TUV SUD Sava d.o.o | www.tuv-sud.si/sava-si |  |
@@ -703,14 +703,14 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | ES-ECO-002-CL | SOHISCERT S.A.<br>Castile-y-Léon | www.sohiscer.com |  |
 > | ES-ECO-002-CM | SOHISCERT, S.A.<br>Castile-La Mancha | www.sohiscert.com |  |
 > | ES-ECO-003-AN | AGROCOLOR, S.L.<br>Andalusia | www.agrocolor.es |  |
-> | ES-ECO-003-CM[^key-cff9c409f999e73165592b0ea3a6c070] | AGROCOLOR, S.L. (Castile-La Mancha) | www.agrocolor.es |  |
-> | ES-ECO-004-AN | LGAI TECHNOLOGICAL CENTER, S.A.<br>Andalusia | www.appluscertification.com[^key-a8648afb85c5b9bd797428a9b607462e] |  |
-> | [^key-dc793af4e4806a05ad094dc492bcd841]. . . | [^key-dc793af4e4806a05ad094dc492bcd841]. . . | [^key-dc793af4e4806a05ad094dc492bcd841]. . . |  |
+> | ES-ECO-003-CM[^c-cff9c409f999e73165592b0ea3a6c070] | AGROCOLOR, S.L. (Castile-La Mancha) | www.agrocolor.es |  |
+> | ES-ECO-004-AN | LGAI TECHNOLOGICAL CENTER, S.A.<br>Andalusia | www.appluscertification.com[^c-a8648afb85c5b9bd797428a9b607462e] |  |
+> | [^c-dc793af4e4806a05ad094dc492bcd841]. . . | [^c-dc793af4e4806a05ad094dc492bcd841]. . . | [^c-dc793af4e4806a05ad094dc492bcd841]. . . |  |
 > | ES-ECO-006-AR | COMITÉ ARAGONES DE AGRICULTURE ECOLÓGICA<br>Aragon | www.caaearagon.com |  |
 > | ES-ECO-010-AN | ECOCERT S.A.<br>Andalusia | www.ecocert.com/es/ |  |
 > | ES-ECO-010-AR | ECOCERT S.A.<br>Aragon | www.ecocert.com |  |
 > | ES-ECO-011-AN | KIWA ESPAÑA S.L.U.<br>Andalusia | www.kiwa.es |  |
-> | [^key-93bb6a0f03e51fa39eac46a23918452f]. . . | [^key-93bb6a0f03e51fa39eac46a23918452f]. . . | [^key-93bb6a0f03e51fa39eac46a23918452f]. . . |  |
+> | [^c-93bb6a0f03e51fa39eac46a23918452f]. . . | [^c-93bb6a0f03e51fa39eac46a23918452f]. . . | [^c-93bb6a0f03e51fa39eac46a23918452f]. . . |  |
 > | ES-ECO-001-CL | KIWA ESPAÑA, S.L.U.<br>Castile-y-Léon | www.kiwa.es |  |
 > | ES-ECO-011-CM | KIWA ESPAÑA S.L.U.<br>Castile-La Mancha | www.kiwa.es |  |
 > | ES-ECO-012-AS | CONSEJO DE LA PRODUCCIÓN AGRARIA ECOÓGICA DEL PRINCIPADO DE ASTURIAS<br>Asturias | www.copaeastur.or |  |
@@ -718,31 +718,31 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | ES-ECO-014-IC | INSTITUTO CANARIO DE CALIDAD AGROALIMENTARIA (ICCA)<br>Canary Islands | www.gobiernodecanarias.org/agricultura/i | Public Control Authority |
 > | ES-ECO-015-CN | OFICINA DE CALIDAD ALIMENTARIA<br>Cantabria | www.alimentosdecantabria.com | Public Control Authority |
 > | ES-ECO-016-CL | CAECYL - CONSEEJO DE AGRCULTURA ECOLÓGICA DE CASTILLA Y LEÓN<br>Castile-y-Léon | www.caecyl.es | Public Control Authority |
-> | ES-ECO-019-CT | CCPAE[^key-789edc724d5d17faf0cea46b2068dad8] | www.ccpae.org | Public Control Authority |
-> | ES-ECO-020-CV | CAECV[^key-96667c4baa5d63d5f817f47cb60140c2] | www.caecv.com | Public Control Authority |
+> | ES-ECO-019-CT | CCPAE[^c-789edc724d5d17faf0cea46b2068dad8] | www.ccpae.org | Public Control Authority |
+> | ES-ECO-020-CV | CAECV[^c-96667c4baa5d63d5f817f47cb60140c2] | www.caecv.com | Public Control Authority |
 > | ES-ECO-021-EX | DIRECCIÓN GTENERAL DE AGRICULTURA Y GANADERÍA<br>Extremadura | N/A | Public Control Authority |
-> | ES-ECO-022-GA | CRAEGA[^key-da1857ca9f7f3845d6f6996955082c7c] | www.craega.es | Public Control Authority |
-> | ES-ECO-023-MA | CAEM[^key-59e3eba21a9ef1cc5196d30a39832062] | www.caem.es | Public Control Authority |
-> | ES-ECO--024-MU | CAERM[^key-d1ddd33919edb43dd61b87d676fc32ac] | www.caernrcia.com | Public Control Authority |
-> | ES-ECO-025-NA | CPAEN/NNPEK[^key-903d443963e0c73b6ce00edb99bf628b] | www.cpaen.org | Public Control Authority |
-> | ES-ECO-026-VAS | ENEEK[^key-4a9dc1e6365f0f012fd96979308123ef] | www.eneek.eus | Public Control Authority |
-> | [^key-48d916383d77250e478509b83411673a]. . . | [^key-48d916383d77250e478509b83411673a]. . . | [^key-48d916383d77250e478509b83411673a]. . . | [^key-48d916383d77250e478509b83411673a]. . . |
+> | ES-ECO-022-GA | CRAEGA[^c-da1857ca9f7f3845d6f6996955082c7c] | www.craega.es | Public Control Authority |
+> | ES-ECO-023-MA | CAEM[^c-59e3eba21a9ef1cc5196d30a39832062] | www.caem.es | Public Control Authority |
+> | ES-ECO--024-MU | CAERM[^c-d1ddd33919edb43dd61b87d676fc32ac] | www.caernrcia.com | Public Control Authority |
+> | ES-ECO-025-NA | CPAEN/NNPEK[^c-903d443963e0c73b6ce00edb99bf628b] | www.cpaen.org | Public Control Authority |
+> | ES-ECO-026-VAS | ENEEK[^c-4a9dc1e6365f0f012fd96979308123ef] | www.eneek.eus | Public Control Authority |
+> | [^c-48d916383d77250e478509b83411673a]. . . | [^c-48d916383d77250e478509b83411673a]. . . | [^c-48d916383d77250e478509b83411673a]. . . | [^c-48d916383d77250e478509b83411673a]. . . |
 > | ES-ECO-028-AN | CERTIFOOD S.L.<br>Andalusia | www.certifood.org | Private Control Body |
 > | ES-ECO-028-AR | CERTIFOOD S.L.<br>Aragon | www.certifood.org | Private Control Body |
 > | ES-ECO-028-CL | CERTIFOOD S.L.<br>Castile-y-Léon | www.certifood.org | Private Control Body |
 > | ES-ECO-028-CM | CERTIFOOD S.L.<br>Castile-La Mancha | www.certifood.org | Private Control Body |
-> | ES-ECO-029-AN | BUREAU VERITAS IBERIA S.L.[^key-9667a062385b3cf34bd3ae586d8f7705] | www.bureauveritas.es | Private Control Body |
+> | ES-ECO-029-AN | BUREAU VERITAS IBERIA S.L.[^c-9667a062385b3cf34bd3ae586d8f7705] | www.bureauveritas.es | Private Control Body |
 > | ES-ECO-029-CL | BUREAU VERITAS IBERIA S.L.<br>Castile-y-Léon | www.bureauveritas.es | Private Control Body |
 > | ES-ECO-029-CM | BUREAU VERITAS IBERIA S.L.<br>Castile-La Mancha | www.bureauveritas.es | Private Control Body |
-> | [^key-f3038bb8bdb35f5c88696872e46d77de]. . . | [^key-f3038bb8bdb35f5c88696872e46d77de]. . . | [^key-f3038bb8bdb35f5c88696872e46d77de]. . . | [^key-f3038bb8bdb35f5c88696872e46d77de]. . . |
-> | ES-ECO-031-CL | CCL CERTIFICACIÓN, S.L.<br>Castile-y-Léon | www.cclcertificacion.es[^key-0b18b2d507e40edcace2ea8fd4958f06] | Private Control Body |
-> | ES-ECO-032-AN[^key-219556d0c8060d25174e349f79d82fb2] | SAI GLOBAL ASSURANCE SERVICES OFICINA DE REPRESENTACIÓN EN ESPAÑA, LTD | www.saiglobal.com | Private Control Body |
+> | [^c-f3038bb8bdb35f5c88696872e46d77de]. . . | [^c-f3038bb8bdb35f5c88696872e46d77de]. . . | [^c-f3038bb8bdb35f5c88696872e46d77de]. . . | [^c-f3038bb8bdb35f5c88696872e46d77de]. . . |
+> | ES-ECO-031-CL | CCL CERTIFICACIÓN, S.L.<br>Castile-y-Léon | www.cclcertificacion.es[^c-0b18b2d507e40edcace2ea8fd4958f06] | Private Control Body |
+> | ES-ECO-032-AN[^c-219556d0c8060d25174e349f79d82fb2] | SAI GLOBAL ASSURANCE SERVICES OFICINA DE REPRESENTACIÓN EN ESPAÑA, LTD | www.saiglobal.com | Private Control Body |
 > | ES-ECO-032-CL | SAI GLOBAL ASSURANCE SERVICES - OFICINA DE REPRESENTACION EN ESPAÑA, LTD<br>Castile-y-Léon | www.saigblobal.com | Private Control Body |
-> | ES-ECO-033-CL[^key-323b9cabd6c3bded4f6b953ca7c24364] | QUALITAS NATURA CERTIFICACIÓN S.L. (Castile-y-Leon) | www.qualitasnatura.es | Private Control Body |
+> | ES-ECO-033-CL[^c-323b9cabd6c3bded4f6b953ca7c24364] | QUALITAS NATURA CERTIFICACIÓN S.L. (Castile-y-Leon) | www.qualitasnatura.es | Private Control Body |
 > | ES-ECO-033-CM | QUALITAS NATURA CERTIFICACIÓN S.L.<br>Castile-La Mancha | www.qualitasnatura.es | Private Control Body |
-> | ES-ECO-034-AN[^key-748464e12410da6cbd3bd4704062aaef] | OCE GLOBAL SLU (Andalusia) | www.oce-global.com | Private Control Body |
+> | ES-ECO-034-AN[^c-748464e12410da6cbd3bd4704062aaef] | OCE GLOBAL SLU (Andalusia) | www.oce-global.com | Private Control Body |
 > | ES-ECO-034-CM | OCE GLOBAL, S.L.U.<br>Castile-La Mancha | www.oce-global.com | Private Control Body |
-> | ES-ECO-035-RI[^key-df8a159886707426dc6b9dc710a0c133] | CPAER (Rioja) | www.cpaer.org | Control Authority |
+> | ES-ECO-035-RI[^c-df8a159886707426dc6b9dc710a0c133] | CPAER (Rioja) | www.cpaer.org | Control Authority |
 > | ES-ECO-036-CL | ACCM (Castile-y-Leon) | www.accm.es |  |
 > | SWEDEN |  |  | Control bodies |
 > | SE-EKO-01 | KIWA Sverige AB | www.kiwa.com | All scope |
@@ -750,7 +750,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 > | SE-EKO-04 | HS Certifiering AB | www.hscertifiering.se | All scope |
 > | SE-EKO-05 | Valiguard AB | www.valiguard.com | Processed agricultural products for use as food |
 > | SE-EKO-06 | ControlCert Scandinavia AB | www.controlcert.se | Processed agricultural products for use as food |
-> | [^key-6fefb73a3e8efeb7a2296eaab49b456d]. . . | [^key-6fefb73a3e8efeb7a2296eaab49b456d]. . . | [^key-6fefb73a3e8efeb7a2296eaab49b456d]. . . | [^key-6fefb73a3e8efeb7a2296eaab49b456d]. . . |
+> | [^c-6fefb73a3e8efeb7a2296eaab49b456d]. . . | [^c-6fefb73a3e8efeb7a2296eaab49b456d]. . . | [^c-6fefb73a3e8efeb7a2296eaab49b456d]. . . | [^c-6fefb73a3e8efeb7a2296eaab49b456d]. . . |
 > | SE-EKO-08 | Intertek Certification AB | www.intertek.se | Processed agricultural products for use as food Feed vegetative propagating material and seeds for cultivation |
 > | ICELAND (EEA state) |  |  | Control Bodies |
 > | IS-LIF-01 | Vottunarstofa Tun | www.tun.is |  |
@@ -764,52 +764,52 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 >
 > **7.**
 >
-> **Duration of the inclusion:** 31st December 2021[^key-b78e71329a5095429daef77bd46e6dd9].
+> **Duration of the inclusion:** 31st December 2021[^c-b78e71329a5095429daef77bd46e6dd9].
 
 .
 
 (26) In Annex 5—
 
-- (a)[^key-b0ed071cae62b9605893164115a88517] in the heading, for “THE EUROPEAN UNION” substitute “ GREAT BRITAIN ”;
+- (a)[^c-b0ed071cae62b9605893164115a88517] in the heading, for “THE EUROPEAN UNION” substitute “ GREAT BRITAIN ”;
 - (b) for box 2 substitute—
 
   > |  |
   > | --- |
-  > | *2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in Great Britain[^key-e48ce167e6d4c4d9e14e5199c50cbbf1]:*<br>*- Article 33(2)  or*<br>*- Article 33(3)  *<br>*Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union:*<br>*- Article 33(2)  or*<br>*- Article 33(3) * |
+  > | *2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in Great Britain[^c-e48ce167e6d4c4d9e14e5199c50cbbf1]:*<br>*- Article 33(2)  or*<br>*- Article 33(3)  *<br>*Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union:*<br>*- Article 33(2)  or*<br>*- Article 33(3) * |
 
   ;
 - (c) in the Notes—
-  - (i) in the entry relating to box 2, after “834/2007” insert “ , as it has effect in Great Britain[^key-7dbfab2aa302ce7e047702aa29e8bff5] or Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
-  - (ii)[^key-294e5563cedfb746de13d89208cc79c4] in the entry relating to box 3, for “the electronic Trade Control and Expert System (TRACES)” substitute “ Great Britain's import control system ”;
+  - (i) in the entry relating to box 2, after “834/2007” insert “ , as it has effect in Great Britain[^c-7dbfab2aa302ce7e047702aa29e8bff5] or Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
+  - (ii)[^c-294e5563cedfb746de13d89208cc79c4] in the entry relating to box 3, for “the electronic Trade Control and Expert System (TRACES)” substitute “ Great Britain's import control system ”;
   - (iii) in the entry relating to box 4—
-    - (aa) after “834/2007” insert “ , as it has effect in Great Britain[^key-cf05f45b0b3071e9522698b632831ece], or Article 2(i) of Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
+    - (aa) after “834/2007” insert “ , as it has effect in Great Britain[^c-cf05f45b0b3071e9522698b632831ece], or Article 2(i) of Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
     - (bb) after “889/2008” insert “ , as it has effect in Great Britain or Article 34 of Regulation [(EC) 889/2008](https://www.legislation.gov.uk/eur/2008/889), as it has effect in the European Union. ”;
-  - (iv) in the entry relating to box 8, after “834/2007” insert “ , as it has effect in Great Britain[^key-2e3a39842bf625309d6132bf148faa02], or Article 2(i) of Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
-  - (v)[^key-e36f50f640f60ce59db909217904e6c6] in the entry relating to box 9, for the words from “the country in” to the end substitute “ Great Britain ”;
-  - (vi) in the entry relating to box 10, for the words from “the country” to the end substitute “ Great Britain[^key-baac16c5629d9ea4e0c6f0d81054ee82] ”;
+  - (iv) in the entry relating to box 8, after “834/2007” insert “ , as it has effect in Great Britain[^c-2e3a39842bf625309d6132bf148faa02], or Article 2(i) of Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
+  - (v)[^c-e36f50f640f60ce59db909217904e6c6] in the entry relating to box 9, for the words from “the country in” to the end substitute “ Great Britain ”;
+  - (vi) in the entry relating to box 10, for the words from “the country” to the end substitute “ Great Britain[^c-baac16c5629d9ea4e0c6f0d81054ee82] ”;
   - (vii) in the entry relating to box 11—
-    - (aa)[^key-b81c1a55bf5f0f13d24af2698e5766b9] for “the European Union” substitute “ Great Britain ”;
+    - (aa)[^c-b81c1a55bf5f0f13d24af2698e5766b9] for “the European Union” substitute “ Great Britain ”;
     - (bb) omit “into the Union”;
-  - (viii)[^key-4787e9b9f9cdd376769d4a7b2a9bd20b] in the entry relating to box 12, for “the European Union” substitute “ Great Britain ”;
+  - (viii)[^c-4787e9b9f9cdd376769d4a7b2a9bd20b] in the entry relating to box 12, for “the European Union” substitute “ Great Britain ”;
   - (ix) in the entry relating to box 19, omit “relevant Member State's”;
   - (x) in the entry relating to box 20, omit “relevant Member State's”.
 
 (27) In Annex 6—
 
-- (a)[^key-fc0ec914f6885a25918a85deb4fb6620] in the heading, for “THE EUROPEAN UNION” substitute “ GREAT BRITAIN ”;
+- (a)[^c-fc0ec914f6885a25918a85deb4fb6620] in the heading, for “THE EUROPEAN UNION” substitute “ GREAT BRITAIN ”;
 - (b) for box 2 substitute—
 
   > |  |
   > | --- |
-  > | *2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in Great Britain[^key-bd58b65e57ba3b426cf37998933607e4]:*<br>*- Article 33(2)  or*<br>*- Article 33(3)  *<br>*Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union:*<br>*- Article 33(2)  or*<br>*- Article 33(3) * |
+  > | *2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in Great Britain[^c-bd58b65e57ba3b426cf37998933607e4]:*<br>*- Article 33(2)  or*<br>*- Article 33(3)  *<br>*Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union:*<br>*- Article 33(2)  or*<br>*- Article 33(3) * |
 
   ;
 - (c) in the Notes—
-  - (i) in the entry relating to box 2, after “834/2007” insert “ , as it has effect in Great Britain[^key-5013f6da999422730995aae91c16daed] or Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
-  - (ii)[^key-401030aa6f3c0d2211d9e9d69766f014] in the entry relating to box 3, for “the electronic Trade Control and Expert System (“TRACES”) substitute “ Great Britain's import control system ”;
-  - (iii)[^key-2394b5bd265b1ae1aaab4169674dec16] in the entry relating to box 9, for the words from “the country in” to the end substitute “ Great Britain ”;
-  - (iv) in the entry relating to box 10, for the words from “the country” to the end substitute “ Great Britain[^key-34ae4acd80efc2f6009f4ad793fd76f3] ”;
-  - (v)[^key-750fa99735feb71b9e881d7bfc636629] in the entry relating to box 11, for “the European Union” substitute “ Great Britain ”;
+  - (i) in the entry relating to box 2, after “834/2007” insert “ , as it has effect in Great Britain[^c-5013f6da999422730995aae91c16daed] or Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834), as it has effect in the European Union, ”;
+  - (ii)[^c-401030aa6f3c0d2211d9e9d69766f014] in the entry relating to box 3, for “the electronic Trade Control and Expert System (“TRACES”) substitute “ Great Britain's import control system ”;
+  - (iii)[^c-2394b5bd265b1ae1aaab4169674dec16] in the entry relating to box 9, for the words from “the country in” to the end substitute “ Great Britain ”;
+  - (iv) in the entry relating to box 10, for the words from “the country” to the end substitute “ Great Britain[^c-34ae4acd80efc2f6009f4ad793fd76f3] ”;
+  - (v)[^c-750fa99735feb71b9e881d7bfc636629] in the entry relating to box 11, for “the European Union” substitute “ Great Britain ”;
   - (vi) in the entry relating to box 13, omit “relevant Member State's”.
 
 (28) Omit Annex 7.
@@ -832,238 +832,238 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23674261]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-dfc1b449f493de4e8648dd3ca30ccb85]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-dfc1b449f493de4e8648dd3ca30ccb85]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-de7056ba74ce13cf570c26018ce5fd37]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-de7056ba74ce13cf570c26018ce5fd37]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-6cb470d627853efef63cf6bf90aed72d]: Textual amendment: Reg. 2(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/2/a)
+[^c-6cb470d627853efef63cf6bf90aed72d]: Textual amendment: Reg. 2(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/2/a)
 
-[^key-06cf0e9a1b3eba7581a78d811dbbf9c3]: Textual amendment: Reg. 2(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/2/b)
+[^c-06cf0e9a1b3eba7581a78d811dbbf9c3]: Textual amendment: Reg. 2(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/2/b)
 
-[^key-12ae0bfe3b6cad54bb1dc5a1a0993e9f]: Textual amendment: Words in reg. 2(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/2/a)
+[^c-12ae0bfe3b6cad54bb1dc5a1a0993e9f]: Textual amendment: Words in reg. 2(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/2/a)
 
-[^key-94f8cee31bd1966dbd6450c532ce2cf8]: Textual amendment: Words in reg. 2(3)(b)(v) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/2/b)
+[^c-94f8cee31bd1966dbd6450c532ce2cf8]: Textual amendment: Words in reg. 2(3)(b)(v) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/2/b)
 
-[^key-fa59ae0af8102d4514a06a3d5617f14c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-fa59ae0af8102d4514a06a3d5617f14c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-868c3dc7039fb1b9af245a25d70d79b0]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/a/i)
+[^c-868c3dc7039fb1b9af245a25d70d79b0]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/a/i)
 
-[^key-669cfada006fdf41f4a990e1710ed2e1]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/a/ii)
+[^c-669cfada006fdf41f4a990e1710ed2e1]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/a/ii)
 
-[^key-14892b1fa39d40fc82da64ab69a9af3d]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/b)
+[^c-14892b1fa39d40fc82da64ab69a9af3d]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/b)
 
-[^key-773e2ccf158bd9e1e86be3c30102f722]: Textual amendment: Reg. 3(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/c/i)
+[^c-773e2ccf158bd9e1e86be3c30102f722]: Textual amendment: Reg. 3(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/c/i)
 
-[^key-ac67f122a7ebcdcd1bdb41a6e4ebf36e]: Textual amendment: Words in reg. 3(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/c/ii)
+[^c-ac67f122a7ebcdcd1bdb41a6e4ebf36e]: Textual amendment: Words in reg. 3(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/3/c/ii)
 
-[^key-1b49da0616f351b0032453596ae31bba]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1b49da0616f351b0032453596ae31bba]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-5ef5e62db27d456ecddb298c305d343c]: Textual amendment: Reg. 4(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/a/i)
+[^c-5ef5e62db27d456ecddb298c305d343c]: Textual amendment: Reg. 4(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/a/i)
 
-[^key-c80246fbcaf81f1234ca3d84cd4b77cd]: Textual amendment: Words in reg. 4(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/a/ii)
+[^c-c80246fbcaf81f1234ca3d84cd4b77cd]: Textual amendment: Words in reg. 4(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/a/ii)
 
-[^key-2b009e5453f5a3524cd0ca89f8ff3199]: Textual amendment: Words in reg. 4(2)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/a/iii)
+[^c-2b009e5453f5a3524cd0ca89f8ff3199]: Textual amendment: Words in reg. 4(2)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/a/iii)
 
-[^key-3726d908d2187812515abc472cbe15c4]: Textual amendment: Reg. 4(4)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/b/i)
+[^c-3726d908d2187812515abc472cbe15c4]: Textual amendment: Reg. 4(4)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/b/i)
 
-[^key-a199cac13c3b99c964eacec52b7b1133]: Textual amendment: Reg. 4(4)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/b/ii)
+[^c-a199cac13c3b99c964eacec52b7b1133]: Textual amendment: Reg. 4(4)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/b/ii)
 
-[^key-3325840a06d09b497bdd5f7b0e8ccc1d]: Textual amendment: Words in reg. 4(7)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/c/i)
+[^c-3325840a06d09b497bdd5f7b0e8ccc1d]: Textual amendment: Words in reg. 4(7)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/c/i)
 
-[^key-adbe1e9b34f4c4e37c64d4e2cbde2019]: Textual amendment: Reg. 4(7)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/c/ii)
+[^c-adbe1e9b34f4c4e37c64d4e2cbde2019]: Textual amendment: Reg. 4(7)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/c/ii)
 
-[^key-18c9eaa2c6b37a1856eae54cda76a1b4]: Textual amendment: Reg. 4(8)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(d)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/d)
+[^c-18c9eaa2c6b37a1856eae54cda76a1b4]: Textual amendment: Reg. 4(8)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(d)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/d)
 
-[^key-8c16f0f8779d2ded90c05ecc6164b25a]: Textual amendment: Reg. 4(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(e)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/e)
+[^c-8c16f0f8779d2ded90c05ecc6164b25a]: Textual amendment: Reg. 4(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(e)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/e)
 
-[^key-8bd46392b0f42519aa408cb24fe10513]: Textual amendment: Reg. 4(13)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/i)
+[^c-8bd46392b0f42519aa408cb24fe10513]: Textual amendment: Reg. 4(13)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/i)
 
 [^c23674271]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-940ddaef187003e021bba02abf963b38]: Textual amendment: Words in reg. 4(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/a)
+[^c-940ddaef187003e021bba02abf963b38]: Textual amendment: Words in reg. 4(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/a)
 
-[^key-cbe82082c4bd9fddcff99027d9929598]: Textual amendment: Reg. 4(13)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/ii)
+[^c-cbe82082c4bd9fddcff99027d9929598]: Textual amendment: Reg. 4(13)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/ii)
 
-[^key-1a472c5b0c5fcc4ba4ea66be5c9d64b3]: Textual amendment: Reg. 4(13)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/iii)
+[^c-1a472c5b0c5fcc4ba4ea66be5c9d64b3]: Textual amendment: Reg. 4(13)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/iii)
 
-[^key-2daebab9cd19b66af8234bf347888918]: Textual amendment: Reg. 4(13)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/iv)
+[^c-2daebab9cd19b66af8234bf347888918]: Textual amendment: Reg. 4(13)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/iv)
 
 [^c23674281]: Marginal citation: OJ No L 334, 12.12.2008, p. 25, as last amended by Commission Implementing Regulation (EU) No 2018/949 (OJ L 167, 4.7.2018, p. 3–10).
 
-[^key-f72bf47d3dffd0ac46a51e58d37deb01]: Textual amendment: Words in reg. 4(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/v/aa)
+[^c-f72bf47d3dffd0ac46a51e58d37deb01]: Textual amendment: Words in reg. 4(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/v/aa)
 
-[^key-9d509b62041969a34cec0fbe07058c38]: Textual amendment: Words in reg. 4(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/v/bb)
+[^c-9d509b62041969a34cec0fbe07058c38]: Textual amendment: Words in reg. 4(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/v/bb)
 
 [^c23674291]: Marginal citation: OJ No L 189, 20.7.2007, p. 1, as last amended by Council Regulation (EU) No 517/2003 (OJ L 158, 10.6.2013, p. 1–71).
 
-[^key-c44896c63ef7bc470a7e29f37bc82b16]: Textual amendment: Words in reg. 4(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(v)(cc)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/v/cc)
+[^c-c44896c63ef7bc470a7e29f37bc82b16]: Textual amendment: Words in reg. 4(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(f)(v)(cc)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/f/v/cc)
 
-[^key-b5114264e8769e31f44f1f953e7f2cf2]: Textual amendment: Words in reg. 4(14)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(g)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/g)
+[^c-b5114264e8769e31f44f1f953e7f2cf2]: Textual amendment: Words in reg. 4(14)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(g)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/g)
 
-[^key-72b86ad329d4a0b6e82285fc02282f1a]: Textual amendment: Words in reg. 4(14)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(g)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/g)
+[^c-72b86ad329d4a0b6e82285fc02282f1a]: Textual amendment: Words in reg. 4(14)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(g)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/g)
 
-[^key-095a45500b7b5cc4eec4d2a9eaa24e4f]: Textual amendment: Words in reg. 4(14)(c) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(g)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/g)
+[^c-095a45500b7b5cc4eec4d2a9eaa24e4f]: Textual amendment: Words in reg. 4(14)(c) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(g)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/g)
 
-[^key-8a1d3d74ae412d56955d44c947942229]: Textual amendment: Words in reg. 4(15)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/b)
+[^c-8a1d3d74ae412d56955d44c947942229]: Textual amendment: Words in reg. 4(15)(b) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/b)
 
-[^key-51f718bfac447ce6580891c9d984cb90]: Textual amendment: Words in reg. 4(16)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(h)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/h)
+[^c-51f718bfac447ce6580891c9d984cb90]: Textual amendment: Words in reg. 4(16)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(h)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/h)
 
-[^key-a0a42d47958151e4536cb991357f3914]: Textual amendment: Words in reg. 4(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(h)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/h)
+[^c-a0a42d47958151e4536cb991357f3914]: Textual amendment: Words in reg. 4(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(h)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/h)
 
-[^key-f202e8345743b475e60badd94cfcf1e4]: Textual amendment: Words in reg. 4(17) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/i)
+[^c-f202e8345743b475e60badd94cfcf1e4]: Textual amendment: Words in reg. 4(17) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/i)
 
-[^key-832469d9ed53cd6a63cc5c6981ffbc10]: Textual amendment: Words in reg. 4(18)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/i)
+[^c-832469d9ed53cd6a63cc5c6981ffbc10]: Textual amendment: Words in reg. 4(18)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/i)
 
-[^key-12dbba3269052c7b692b8f9cdac1e203]: Textual amendment: Words in reg. 4(18)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/ii)
+[^c-12dbba3269052c7b692b8f9cdac1e203]: Textual amendment: Words in reg. 4(18)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/ii)
 
-[^key-9d54e6adde1ea18e7c90fce85faa2ccb]: Textual amendment: Words in reg. 4(18)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(c)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/c)
+[^c-9d54e6adde1ea18e7c90fce85faa2ccb]: Textual amendment: Words in reg. 4(18)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(c)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/c)
 
-[^key-10c268315153318cdb1b5cb20ee4b8e1]: Textual amendment: Words in reg. 4(18)(b)(iv)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/iii)
+[^c-10c268315153318cdb1b5cb20ee4b8e1]: Textual amendment: Words in reg. 4(18)(b)(iv)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/iii)
 
-[^key-348e7e4684d0f74afe8282b902f62a18]: Textual amendment: Words in reg. 4(18)(b)(iv)(cc) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/iv)
+[^c-348e7e4684d0f74afe8282b902f62a18]: Textual amendment: Words in reg. 4(18)(b)(iv)(cc) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/j/iv)
 
-[^key-e94a03a0c82330d98cbda13ded87ec27]: Textual amendment: Reg. 4(19)(a)(i)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(k)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/k)
+[^c-e94a03a0c82330d98cbda13ded87ec27]: Textual amendment: Reg. 4(19)(a)(i)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(k)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/k)
 
 [^c23674301]: Marginal citation: OJ No L 250, 18.9.2008, p. 1, as last amended by Commission Implementing Regulation (EU) No 2017/2273 (OJ L 326, 9.12.2017, p. 42–43).
 
-[^key-6d80a2ed1d59647c03ea03eb4434776d]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/aa)
+[^c-6d80a2ed1d59647c03ea03eb4434776d]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/aa)
 
-[^key-2132f20f68a5ff96e03be5d021845f9d]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/bb)
+[^c-2132f20f68a5ff96e03be5d021845f9d]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/bb)
 
-[^key-76bd0317deb5c875e40e8a1d5e6183c1]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/cc)
+[^c-76bd0317deb5c875e40e8a1d5e6183c1]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/cc)
 
-[^key-357884f064959896c4fb72685635f0af]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/dd)
+[^c-357884f064959896c4fb72685635f0af]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/dd)
 
-[^key-59d48e7d143128055cc4efea9f788b0c]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ee)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ee)
+[^c-59d48e7d143128055cc4efea9f788b0c]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ee)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ee)
 
-[^key-14601b6bd9928c2728bf19e603df73aa]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ff)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ff)
+[^c-14601b6bd9928c2728bf19e603df73aa]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ff)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ff)
 
-[^key-6a2a7cf97e8402a91481ee62d044d794]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(gg)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/gg)
+[^c-6a2a7cf97e8402a91481ee62d044d794]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(gg)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/gg)
 
-[^key-7644c9eda2b3f8e4561fad74ecee9c08]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(hh)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/hh)
+[^c-7644c9eda2b3f8e4561fad74ecee9c08]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(hh)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/hh)
 
-[^key-3aa33ddd846ab7e6628a4d069819cd89]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/ii)
+[^c-3aa33ddd846ab7e6628a4d069819cd89]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/ii)
 
-[^key-34bba87d8c05a597dcf7f9d1d500acd2]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(jj)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/jj)
+[^c-34bba87d8c05a597dcf7f9d1d500acd2]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(jj)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/jj)
 
-[^key-bfeb0f5fcc18bc30b7cee9d4160290bf]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(kk)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/kk)
+[^c-bfeb0f5fcc18bc30b7cee9d4160290bf]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(kk)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/kk)
 
-[^key-59d10017649e0aae87bb4fc49f135f1e]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ll)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ll)
+[^c-59d10017649e0aae87bb4fc49f135f1e]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ll)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ll)
 
-[^key-75c789c21eff655ff49c14335b02edde]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(mm)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/mm)
+[^c-75c789c21eff655ff49c14335b02edde]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(mm)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/mm)
 
-[^key-bc8fe3231118334e207ecf88bfca66ff]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(nn)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/nn)
+[^c-bc8fe3231118334e207ecf88bfca66ff]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(nn)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/nn)
 
-[^key-9082f872c85d6de296f19b426aeae555]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(oo)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/oo)
+[^c-9082f872c85d6de296f19b426aeae555]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(oo)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/oo)
 
-[^key-cc67f2ef00efbea3dd9d92a1cbd791e8]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(pp)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/pp)
+[^c-cc67f2ef00efbea3dd9d92a1cbd791e8]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(pp)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/pp)
 
-[^key-511f526ed63c215c44308f052ded1075]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(qq)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/qq)
+[^c-511f526ed63c215c44308f052ded1075]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(qq)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/qq)
 
-[^key-01881f309859a935c1ba8c2bff13a2d3]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(rr)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/rr)
+[^c-01881f309859a935c1ba8c2bff13a2d3]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(rr)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/rr)
 
-[^key-bd184491b75231f58318963a7571dea8]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ss)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ss)
+[^c-bd184491b75231f58318963a7571dea8]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ss)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ss)
 
-[^key-cd28a305f4f08a5af1ec855a65745e73]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(tt)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/tt)
+[^c-cd28a305f4f08a5af1ec855a65745e73]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(tt)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/tt)
 
-[^key-6c58ef2a2308d58b5506194dbc9ca25c]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(uu)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/uu)
+[^c-6c58ef2a2308d58b5506194dbc9ca25c]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(uu)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/uu)
 
-[^key-a9e7b142d380497a108cc194151f4e3b]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(vv)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/vv)
+[^c-a9e7b142d380497a108cc194151f4e3b]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(vv)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/vv)
 
-[^key-afb3bc3709888ab67933381ac9e3b15a]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ww)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ww)
+[^c-afb3bc3709888ab67933381ac9e3b15a]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ww)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ww)
 
-[^key-ac2a56c700e652f0144126fd9b322286]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(xx)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/xx)
+[^c-ac2a56c700e652f0144126fd9b322286]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(xx)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/xx)
 
-[^key-64199b6d69d683b5c8e533aa1d39169e]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(yy)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/yy)
+[^c-64199b6d69d683b5c8e533aa1d39169e]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(yy)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/yy)
 
-[^key-6d812df0f3d2b62cc73dca586121d427]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(zz)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/zz)
+[^c-6d812df0f3d2b62cc73dca586121d427]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(zz)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/zz)
 
-[^key-44704b45973d42518a0bf84462d646d4]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(aaaa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/aaaa)
+[^c-44704b45973d42518a0bf84462d646d4]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(aaaa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/aaaa)
 
-[^key-4e10a9abb83307265daba603d8026e41]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(bbbb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/bbbb)
+[^c-4e10a9abb83307265daba603d8026e41]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(bbbb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/bbbb)
 
-[^key-5292a03210732080c2e69ac0cfa69c67]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(cccc)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/cccc)
+[^c-5292a03210732080c2e69ac0cfa69c67]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(cccc)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/cccc)
 
-[^key-3639a517c52743ded5f7bdf55e094266]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(dddd)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/dddd)
+[^c-3639a517c52743ded5f7bdf55e094266]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(dddd)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/dddd)
 
-[^key-57ce294fe9a564dad0ebcb5c3fa042ae]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(eeee)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/eeee)
+[^c-57ce294fe9a564dad0ebcb5c3fa042ae]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(eeee)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/eeee)
 
-[^key-1577e99e5b2843174d72367ca0d21c26]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ffff)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ffff)
+[^c-1577e99e5b2843174d72367ca0d21c26]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ffff)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ffff)
 
-[^key-4ae8f11cb41be38cfd680911630099e4]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(gggg)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/gggg)
+[^c-4ae8f11cb41be38cfd680911630099e4]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(gggg)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/gggg)
 
-[^key-cff9c409f999e73165592b0ea3a6c070]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(hhhh)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/hhhh)
+[^c-cff9c409f999e73165592b0ea3a6c070]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(hhhh)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/hhhh)
 
-[^key-a8648afb85c5b9bd797428a9b607462e]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(iiii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/iiii)
+[^c-a8648afb85c5b9bd797428a9b607462e]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(iiii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/iiii)
 
-[^key-dc793af4e4806a05ad094dc492bcd841]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(jjjj)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/jjjj)
+[^c-dc793af4e4806a05ad094dc492bcd841]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(jjjj)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/jjjj)
 
-[^key-93bb6a0f03e51fa39eac46a23918452f]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(kkkk)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/kkkk)
+[^c-93bb6a0f03e51fa39eac46a23918452f]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(kkkk)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/kkkk)
 
-[^key-789edc724d5d17faf0cea46b2068dad8]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(llll)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/llll)
+[^c-789edc724d5d17faf0cea46b2068dad8]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(llll)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/llll)
 
-[^key-96667c4baa5d63d5f817f47cb60140c2]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(mmmm)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/mmmm)
+[^c-96667c4baa5d63d5f817f47cb60140c2]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(mmmm)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/mmmm)
 
-[^key-da1857ca9f7f3845d6f6996955082c7c]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(nnnn)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/nnnn)
+[^c-da1857ca9f7f3845d6f6996955082c7c]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(nnnn)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/nnnn)
 
-[^key-59e3eba21a9ef1cc5196d30a39832062]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(oooo)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/oooo)
+[^c-59e3eba21a9ef1cc5196d30a39832062]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(oooo)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/oooo)
 
-[^key-d1ddd33919edb43dd61b87d676fc32ac]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(pppp)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/pppp)
+[^c-d1ddd33919edb43dd61b87d676fc32ac]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(pppp)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/pppp)
 
-[^key-903d443963e0c73b6ce00edb99bf628b]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(qqqq)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/qqqq)
+[^c-903d443963e0c73b6ce00edb99bf628b]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(qqqq)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/qqqq)
 
-[^key-4a9dc1e6365f0f012fd96979308123ef]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(rrrr)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/rrrr)
+[^c-4a9dc1e6365f0f012fd96979308123ef]: Textual amendment: Word in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(rrrr)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/rrrr)
 
-[^key-48d916383d77250e478509b83411673a]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ssss)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ssss)
+[^c-48d916383d77250e478509b83411673a]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(ssss)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/ssss)
 
-[^key-9667a062385b3cf34bd3ae586d8f7705]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(tttt)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/tttt)
+[^c-9667a062385b3cf34bd3ae586d8f7705]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(tttt)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/tttt)
 
-[^key-f3038bb8bdb35f5c88696872e46d77de]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(uuuu)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/uuuu)
+[^c-f3038bb8bdb35f5c88696872e46d77de]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(uuuu)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/uuuu)
 
-[^key-0b18b2d507e40edcace2ea8fd4958f06]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(vvvv)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/vvvv)
+[^c-0b18b2d507e40edcace2ea8fd4958f06]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(vvvv)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/vvvv)
 
-[^key-219556d0c8060d25174e349f79d82fb2]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(wwww)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/wwww)
+[^c-219556d0c8060d25174e349f79d82fb2]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(wwww)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/wwww)
 
-[^key-323b9cabd6c3bded4f6b953ca7c24364]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(xxxx)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/xxxx)
+[^c-323b9cabd6c3bded4f6b953ca7c24364]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i)[(xxxx)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/xxxx)
 
-[^key-748464e12410da6cbd3bd4704062aaef]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(yyyy)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/yyyy)
+[^c-748464e12410da6cbd3bd4704062aaef]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(yyyy)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/yyyy)
 
-[^key-df8a159886707426dc6b9dc710a0c133]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(zzzz)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/zzzz)
+[^c-df8a159886707426dc6b9dc710a0c133]: Textual amendment: Words in reg. 4(25) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(zzzz)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/zzzz)
 
-[^key-6fefb73a3e8efeb7a2296eaab49b456d]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(aaaaaa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/aaaaaa)
+[^c-6fefb73a3e8efeb7a2296eaab49b456d]: Textual amendment: Words in reg. 4(25) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(i)(aaaaaa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/i/aaaaaa)
 
-[^key-b78e71329a5095429daef77bd46e6dd9]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/ii)
+[^c-b78e71329a5095429daef77bd46e6dd9]: Textual amendment: Words in reg. 4(25) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [13(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/13/3/d/ii)
 
-[^key-b0ed071cae62b9605893164115a88517]: Textual amendment: Reg. 4(26)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/i)
+[^c-b0ed071cae62b9605893164115a88517]: Textual amendment: Reg. 4(26)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/i)
 
-[^key-e48ce167e6d4c4d9e14e5199c50cbbf1]: Textual amendment: Words in reg. 4(26)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/ii)
+[^c-e48ce167e6d4c4d9e14e5199c50cbbf1]: Textual amendment: Words in reg. 4(26)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/ii)
 
-[^key-7dbfab2aa302ce7e047702aa29e8bff5]: Textual amendment: Words in reg. 4(26)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/iii)
+[^c-7dbfab2aa302ce7e047702aa29e8bff5]: Textual amendment: Words in reg. 4(26)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/iii)
 
-[^key-294e5563cedfb746de13d89208cc79c4]: Textual amendment: Reg. 4(26)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/iv)
+[^c-294e5563cedfb746de13d89208cc79c4]: Textual amendment: Reg. 4(26)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/iv)
 
-[^key-cf05f45b0b3071e9522698b632831ece]: Textual amendment: Words in reg. 4(26)(c)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(v)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/v)
+[^c-cf05f45b0b3071e9522698b632831ece]: Textual amendment: Words in reg. 4(26)(c)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(v)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/v)
 
-[^key-2e3a39842bf625309d6132bf148faa02]: Textual amendment: Words in reg. 4(26)(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(vi)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/vi)
+[^c-2e3a39842bf625309d6132bf148faa02]: Textual amendment: Words in reg. 4(26)(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(vi)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/vi)
 
-[^key-e36f50f640f60ce59db909217904e6c6]: Textual amendment: Reg. 4(26)(c)(v) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(vii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/vii)
+[^c-e36f50f640f60ce59db909217904e6c6]: Textual amendment: Reg. 4(26)(c)(v) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(vii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/vii)
 
-[^key-baac16c5629d9ea4e0c6f0d81054ee82]: Textual amendment: Words in reg. 4(26)(c)(vi) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(viii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/viii)
+[^c-baac16c5629d9ea4e0c6f0d81054ee82]: Textual amendment: Words in reg. 4(26)(c)(vi) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(viii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/viii)
 
-[^key-b81c1a55bf5f0f13d24af2698e5766b9]: Textual amendment: Reg. 4(26)(c)(vii)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(ix)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/ix)
+[^c-b81c1a55bf5f0f13d24af2698e5766b9]: Textual amendment: Reg. 4(26)(c)(vii)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(ix)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/ix)
 
-[^key-4787e9b9f9cdd376769d4a7b2a9bd20b]: Textual amendment: Reg. 4(26)(c)(viii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(x)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/x)
+[^c-4787e9b9f9cdd376769d4a7b2a9bd20b]: Textual amendment: Reg. 4(26)(c)(viii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(l)(x)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/l/x)
 
-[^key-fc0ec914f6885a25918a85deb4fb6620]: Textual amendment: Reg. 4(27)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/i)
+[^c-fc0ec914f6885a25918a85deb4fb6620]: Textual amendment: Reg. 4(27)(a) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(i)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/i)
 
-[^key-bd58b65e57ba3b426cf37998933607e4]: Textual amendment: Words in reg. 4(27)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/ii)
+[^c-bd58b65e57ba3b426cf37998933607e4]: Textual amendment: Words in reg. 4(27)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(ii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/ii)
 
-[^key-5013f6da999422730995aae91c16daed]: Textual amendment: Words in reg. 4(27)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/iii)
+[^c-5013f6da999422730995aae91c16daed]: Textual amendment: Words in reg. 4(27)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(iii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/iii)
 
-[^key-401030aa6f3c0d2211d9e9d69766f014]: Textual amendment: Reg. 4(27)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/iv)
+[^c-401030aa6f3c0d2211d9e9d69766f014]: Textual amendment: Reg. 4(27)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(iv)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/iv)
 
-[^key-2394b5bd265b1ae1aaab4169674dec16]: Textual amendment: Reg. 4(27)(c)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(v)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/v)
+[^c-2394b5bd265b1ae1aaab4169674dec16]: Textual amendment: Reg. 4(27)(c)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(v)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/v)
 
-[^key-34ae4acd80efc2f6009f4ad793fd76f3]: Textual amendment: Words in reg. 4(27)(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(vi)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/vi)
+[^c-34ae4acd80efc2f6009f4ad793fd76f3]: Textual amendment: Words in reg. 4(27)(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(vi)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/vi)
 
-[^key-750fa99735feb71b9e881d7bfc636629]: Textual amendment: Reg. 4(27)(c)(v) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(vii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/vii)
+[^c-750fa99735feb71b9e881d7bfc636629]: Textual amendment: Reg. 4(27)(c)(v) substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [5(4)(m)(vii)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/5/4/m/vii)

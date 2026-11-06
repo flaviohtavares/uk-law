@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Treatment of existing registers and records[^key-05eea05ba082e43cd291e120cf2271be]
+## 64. Treatment of existing registers and records[^c-05eea05ba082e43cd291e120cf2271be]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05eea05ba082e43cd291e120cf2271be]: Commencement: S. 64 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-05eea05ba082e43cd291e120cf2271be]: Commencement: S. 64 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Removal[^key-340d5a9bf8a5e2164111c0b64b855651]
+## 112. Removal[^c-340d5a9bf8a5e2164111c0b64b855651]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340d5a9bf8a5e2164111c0b64b855651]: Commencement: [Rule 112](https://www.legislation.gov.uk/uksi/2011/1301/rule/112) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-340d5a9bf8a5e2164111c0b64b855651]: Commencement: [Rule 112](https://www.legislation.gov.uk/uksi/2011/1301/rule/112) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

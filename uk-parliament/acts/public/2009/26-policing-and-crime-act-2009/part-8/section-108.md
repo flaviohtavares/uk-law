@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e98b49d232cdbf5044ae4eb48fb9857f] The Crime and Disorder Act 1998 (c. 37) is amended as follows.
+(1)[^c-e98b49d232cdbf5044ae4eb48fb9857f] The Crime and Disorder Act 1998 (c. 37) is amended as follows.
 
-(2)[^key-e98b49d232cdbf5044ae4eb48fb9857f] In section 5 (authorities responsible for strategies) after subsection (1)(a) insert—
+(2)[^c-e98b49d232cdbf5044ae4eb48fb9857f] In section 5 (authorities responsible for strategies) after subsection (1)(a) insert—
 
 > - (aa) every provider of probation services operating within the area in pursuance of arrangements under section 3 of the Offender Management Act 2007 which provide for it to be a responsible authority under this section;
 
 .
 
-(3)[^key-e98b49d232cdbf5044ae4eb48fb9857f] In that section, in subsection (1B)(b), after “substances” insert “ or of reducing re-offending ”.
+(3)[^c-e98b49d232cdbf5044ae4eb48fb9857f] In that section, in subsection (1B)(b), after “substances” insert “ or of reducing re-offending ”.
 
-(4)[^key-d1b244fe30c89904d8e71eadf41b73cc][^key-ed6ea6a09ed8dd76563ed30163109ca1] In section 6 (duty to formulate and implement strategy) at the end of subsection (1)(b) insert
+(4)[^c-d1b244fe30c89904d8e71eadf41b73cc][^c-ed6ea6a09ed8dd76563ed30163109ca1] In section 6 (duty to formulate and implement strategy) at the end of subsection (1)(b) insert
 
 > ; and
 >
@@ -38,9 +38,9 @@ summary: ''
 
 .
 
-(5)[^key-d1b244fe30c89904d8e71eadf41b73cc][^key-ed6ea6a09ed8dd76563ed30163109ca1] In that section, in subsection (9)(c), after “disorder” insert “ or re-offending ”.
+(5)[^c-d1b244fe30c89904d8e71eadf41b73cc][^c-ed6ea6a09ed8dd76563ed30163109ca1] In that section, in subsection (9)(c), after “disorder” insert “ or re-offending ”.
 
-(6)[^key-e98b49d232cdbf5044ae4eb48fb9857f] In section 17(1) (duty to consider crime and disorder implications etc) at the end insert
+(6)[^c-e98b49d232cdbf5044ae4eb48fb9857f] In section 17(1) (duty to consider crime and disorder implications etc) at the end insert
 
 > ; and
 >
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e98b49d232cdbf5044ae4eb48fb9857f]: Commencement: [S. 108(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/1) [(6)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/6) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(p)](https://www.legislation.gov.uk/uksi/2010/507/article/5/p)
+[^c-e98b49d232cdbf5044ae4eb48fb9857f]: Commencement: [S. 108(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/1) [(6)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/6) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(p)](https://www.legislation.gov.uk/uksi/2010/507/article/5/p)
 
-[^key-d1b244fe30c89904d8e71eadf41b73cc]: Commencement: [S. 108(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/4)[(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/5) in force at 2.3.2010 for specified purposes by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 3](https://www.legislation.gov.uk/uksi/2010/507/article/3)
+[^c-d1b244fe30c89904d8e71eadf41b73cc]: Commencement: [S. 108(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/4)[(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/5) in force at 2.3.2010 for specified purposes by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 3](https://www.legislation.gov.uk/uksi/2010/507/article/3)
 
-[^key-ed6ea6a09ed8dd76563ed30163109ca1]: Commencement: [S. 108(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/4)[(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/5) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(p)](https://www.legislation.gov.uk/uksi/2010/507/article/5/p)
+[^c-ed6ea6a09ed8dd76563ed30163109ca1]: Commencement: [S. 108(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/4)[(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/108/5) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(p)](https://www.legislation.gov.uk/uksi/2010/507/article/5/p)

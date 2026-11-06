@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Protection of parking authority from liability[^key-dc2e42a6dc2efe10f60963a69ccbd288][^key-519d34d4fcf2919cc145adae51111937]
+## 27. Protection of parking authority from liability[^c-dc2e42a6dc2efe10f60963a69ccbd288][^c-519d34d4fcf2919cc145adae51111937]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The exercise by the parking authority of its functions under this Part shall not
 
 ## Annotations
 
-[^key-dc2e42a6dc2efe10f60963a69ccbd288]: Modification: Arts. 25-27: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
+[^c-dc2e42a6dc2efe10f60963a69ccbd288]: Modification: Arts. 25-27: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
 
-[^key-519d34d4fcf2919cc145adae51111937]: Textual amendment: Words in [art. 27](https://www.legislation.gov.uk/nisi/1997/276/article/27) substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4)
+[^c-519d34d4fcf2919cc145adae51111937]: Textual amendment: Words in [art. 27](https://www.legislation.gov.uk/nisi/1997/276/article/27) substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4)

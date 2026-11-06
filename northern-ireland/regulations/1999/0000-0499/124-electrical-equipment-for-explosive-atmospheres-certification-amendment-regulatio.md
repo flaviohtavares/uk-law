@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Electrical Equipment for Explosive Atmospheres (Certification) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-9313587e265722bd1a9bf270e01b6129]
+Electrical Equipment for Explosive Atmospheres (Certification) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-9313587e265722bd1a9bf270e01b6129]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 1st April 1999
 
-[^key-9313587e265722bd1a9bf270e01b6129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9313587e265722bd1a9bf270e01b6129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9313587e265722bd1a9bf270e01b6129]
+## 1. Citation and commencement[^c-9313587e265722bd1a9bf270e01b6129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9313587e265722bd1a9bf270e01b6129]
+## 2. Interpretation[^c-9313587e265722bd1a9bf270e01b6129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Electrical Equipment for Explosive Atmospheres (Certification) Regulations (Northern Ireland) 1990[^key-9313587e265722bd1a9bf270e01b6129]
+## 3. Amendment of the Electrical Equipment for Explosive Atmospheres (Certification) Regulations (Northern Ireland) 1990[^c-9313587e265722bd1a9bf270e01b6129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. References in statutory provisions, etc.[^key-9313587e265722bd1a9bf270e01b6129]
+## 4. References in statutory provisions, etc.[^c-9313587e265722bd1a9bf270e01b6129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9313587e265722bd1a9bf270e01b6129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9313587e265722bd1a9bf270e01b6129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9313587e265722bd1a9bf270e01b6129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9313587e265722bd1a9bf270e01b6129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9313587e265722bd1a9bf270e01b6129]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/124) revoked (1.12.2008) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/422)](https://www.legislation.gov.uk/nisr/2008/422), [regs. 1](https://www.legislation.gov.uk/nisr/2008/422/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/422/regulation/5)
+[^c-9313587e265722bd1a9bf270e01b6129]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/124) revoked (1.12.2008) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/422)](https://www.legislation.gov.uk/nisr/2008/422), [regs. 1](https://www.legislation.gov.uk/nisr/2008/422/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/422/regulation/5)

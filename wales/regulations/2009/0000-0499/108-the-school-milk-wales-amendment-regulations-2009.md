@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The School Milk (Wales) (Amendment) Regulations 2009 (revoked)[^key-d77e2c14ddfa0234e83c9bca48aac7d6]
+The School Milk (Wales) (Amendment) Regulations 2009 (revoked)[^c-d77e2c14ddfa0234e83c9bca48aac7d6]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 18 February 2009
 
-[^key-d77e2c14ddfa0234e83c9bca48aac7d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d77e2c14ddfa0234e83c9bca48aac7d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-d77e2c14ddfa0234e83c9bca48aac7d6]
+## 1. Title, commencement and application[^c-d77e2c14ddfa0234e83c9bca48aac7d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the School Milk (Wales) Regulations 2008[^key-d77e2c14ddfa0234e83c9bca48aac7d6]
+## 2. Amendments to the School Milk (Wales) Regulations 2008[^c-d77e2c14ddfa0234e83c9bca48aac7d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d77e2c14ddfa0234e83c9bca48aac7d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d77e2c14ddfa0234e83c9bca48aac7d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d77e2c14ddfa0234e83c9bca48aac7d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d77e2c14ddfa0234e83c9bca48aac7d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d77e2c14ddfa0234e83c9bca48aac7d6]: Textual amendment: Regulations revoked (1.8.2017) by [The School Milk (Wales) Regulations 2017 (S.I. 2017/724)](https://www.legislation.gov.uk/wsi/2017/724), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1), [10(b)](https://www.legislation.gov.uk/wsi/2017/724/regulation/10/b)
+[^c-d77e2c14ddfa0234e83c9bca48aac7d6]: Textual amendment: Regulations revoked (1.8.2017) by [The School Milk (Wales) Regulations 2017 (S.I. 2017/724)](https://www.legislation.gov.uk/wsi/2017/724), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1), [10(b)](https://www.legislation.gov.uk/wsi/2017/724/regulation/10/b)

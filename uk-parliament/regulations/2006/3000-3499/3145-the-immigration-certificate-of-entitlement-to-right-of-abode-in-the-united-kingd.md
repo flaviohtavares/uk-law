@@ -46,35 +46,35 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 10(1) of the Nationality, Immigration and Asylum Act 2002[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2e829dfad422a3f2b81804614285cf37]
+## 1. Citation, commencement and interpretation[^c-2e829dfad422a3f2b81804614285cf37]
 
 These Regulations may be cited as the Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) Regulations 2006 and shall come into force on 21st December 2006.
 
-## 2.[^key-e6c7d08db58b0ac4a357d01c8790d733]
+## 2.[^c-e6c7d08db58b0ac4a357d01c8790d733]
 
 In these Regulations—
 
 - “the 1971 Act” means the Immigration Act 1971[^f00002];
 - “the 1981 Act” means the British Nationality Act 1981[^f00003];
 - “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002;
-- “the[^key-073a9f525f140ea681db48ed1609720a] 2008 Act” means the Human Fertilisation and Embryology Act 2008;
+- “the[^c-073a9f525f140ea681db48ed1609720a] 2008 Act” means the Human Fertilisation and Embryology Act 2008;
 - “appropriate authority” means the authority to whom an application for a certificate of entitlement must be made, as determined in accordance with regulation 3;
 - “certificate of entitlement” means a certificate, issued in accordance with these Regulations, that a person has the right of abode in the United Kingdom;
-- “[^key-ff691a8df0870a2f6a90344137eae3c6]**digital certificate of entitlement**” means an online record issued under regulation 7(1)(b) of these Regulations.
+- “[^c-ff691a8df0870a2f6a90344137eae3c6]**digital certificate of entitlement**” means an online record issued under regulation 7(1)(b) of these Regulations.
 - “**linked**” means that the digital certificate of entitlement is connected to the passport or travel document via an online UK Visas and Immigration account.
 - “**online UK Visas and Immigration account**” means an online account maintained by the Secretary of State for the Home Department that, for the purpose of these Regulations, allows individuals to digitally access, manage and share confirmation that they hold the right of abode.
-- [^key-d17a61d788642e306ed32edbfb320852]...
-- [^key-d17a61d788642e306ed32edbfb320852]...
+- [^c-d17a61d788642e306ed32edbfb320852]...
+- [^c-d17a61d788642e306ed32edbfb320852]...
 - “passport” includes a document which relates to a national of a country other than the United Kingdom and which is designed to serve the same purpose as a passport.
 
-## 3. Authority to whom an application must be made[^key-10707f74a8a944bae1ffaf32403fb9f5]
+## 3. Authority to whom an application must be made[^c-10707f74a8a944bae1ffaf32403fb9f5]
 
 An application for a certificate of entitlement must be made—
 
 - (a) if the applicant is in any of the Channel Islands or the Isle of Man, to the Lieutenant-Governor or the Secretary of State for the Home Department; or
 - (b) in any other case, to the Secretary of State for the Home Department.
 
-## 4. Form of application[^key-71027c0abeae9a33873fcef5458ef2b6]
+## 4. Form of application[^c-71027c0abeae9a33873fcef5458ef2b6]
 
 (1) Subject to paragraph (2), an application for a certificate of entitlement must be accompanied by—
 
@@ -87,27 +87,27 @@ An application for a certificate of entitlement must be made—
 - (a) is satisfied that it is appropriate to do so in light of the facts of the particular case; and
 - (b) is otherwise satisfied that the applicant has a right of abode in the United Kingdom.
 
-## 5.[^key-d86d4f1f537d6f2dfeb9781efe51553b]
+## 5.[^c-d86d4f1f537d6f2dfeb9781efe51553b]
 
 A passport produced by or on behalf of a person is valid for the purposes of regulation 4 if it—
 
 - (a) relates to the person by whom or on whose behalf it is produced;
 - (b) has not been altered otherwise than by or with the permission of the authority who issued it; and
-- (c) is in date, has not been cancelled or reported lost or stolen and[^key-94c89c2a5cfc8bdb9e17e76fbf83f531] was not obtained by deception.
+- (c) is in date, has not been cancelled or reported lost or stolen and[^c-94c89c2a5cfc8bdb9e17e76fbf83f531] was not obtained by deception.
 
-## 6. Issue of certificate of entitlement[^key-6dd8e3e378484f7794569ad6696c6e09]
+## 6. Issue of certificate of entitlement[^c-6dd8e3e378484f7794569ad6696c6e09]
 
 A certificate of entitlement will only be issued where the appropriate authority is satisfied that the applicant—
 
 - (a) has a right of abode in the United Kingdom under section 2(1) of the 1971 Act[^f00005];
-- (b)[^key-e0b53f4b98962e2ec9fe69f94f1437ce] is not a person who holds:
+- (b)[^c-e0b53f4b98962e2ec9fe69f94f1437ce] is not a person who holds:
   - (i) a United Kingdom passport describing him as a British citizen,
   - (ii) a United Kingdom passport describing him as a British subject with the right of abode in the United Kingdom, or
-  - (iii) a certificate of entitlement unless the circumstances in regulation 7(2) apply[^key-2a1eed8be9843c48cfc1999b65129454];
+  - (iii) a certificate of entitlement unless the circumstances in regulation 7(2) apply[^c-2a1eed8be9843c48cfc1999b65129454];
 - (c) is not a person whose exercise of his right of abode is restricted under section 2 of the Immigration Act 1988[^f00007] (restrictions on exercise of right of abode in cases of polygamy); and
 - (d) is not a person who is deprived of his right of abode by an order under section 2A of the 1971 Act[^f00008].
 
-## 7. Issue of certificate of entitlement[^key-15295b80b0e1be1c61be97d309fae591]
+## 7. Issue of certificate of entitlement[^c-15295b80b0e1be1c61be97d309fae591]
 
 (1) A certificate of entitlement may be issued as the Secretary of State for the Home Department considers appropriate—
 
@@ -120,7 +120,7 @@ A certificate of entitlement will only be issued where the appropriate authority
 
 (4) A digital certificate of entitlement has effect only in relation to the passport or travel document to which it is linked.
 
-## 8. Expiry and revocation of certificate of entitlement[^key-788f158f9b69531b129ddb7f9fe650e8]
+## 8. Expiry and revocation of certificate of entitlement[^c-788f158f9b69531b129ddb7f9fe650e8]
 
 (1) A certificate of entitlement issued under regulation 7(1)(a) shall cease to have effect on the expiry of the passport or travel document to which it is affixed.
 
@@ -135,20 +135,20 @@ A certificate of entitlement will only be issued where the appropriate authority
 
 (5) Notwithstanding paragraph (2), a digital certificate of entitlement may resume effect where the person later links the certificate to a valid passport or travel document, unless it has been revoked under regulation 9.
 
-## 9.[^key-2ddf45b15eae11bc7d1e7e3f869570c5]
+## 9.[^c-2ddf45b15eae11bc7d1e7e3f869570c5]
 
 A certificate of entitlement may be revoked by the Secretary of State for the Home Department, an immigration officer, a consular officer or a person responsible for the grant or refusal of entry clearance, where the person who revokes the certificate is satisfied that the person in possession of the certificate (whether or not this is the person to whom the certificate was issued)—
 
 - (a) does not have the right of abode in the United Kingdom under section 2(1) of the 1971 Act;
-- (b)[^key-2f5550d87b916ebb6a8a7f88629ea016] is the holder of:
+- (b)[^c-2f5550d87b916ebb6a8a7f88629ea016] is the holder of:
   - (i) a United Kingdom passport describing him as a British citizen,
   - (ii) a United Kingdom passport describing him as a British subject with the right of abode in the United Kingdom,
-  - (iii) another certificate of entitlement , except where a digital certificate of entitlement has been issued to the person in accordance with regulation 7(2) of these Regulations[^key-03ee87d62441669b7d9f84d0595b1b6a];
-- (c) is a person whose exercise of his right of abode is restricted under section 2 of the Immigration Act 1988; [^key-143f3b12b8b1b36067725e43a184124e]...
-- (d) is a person who is deprived of his right of abode by an order under section 2A of the 1971 Act ; or[^key-73c8b48f7cbb81b1f7c281ea8e3bb483]
-- (e)[^key-bd5ec0dd8e1740e49c3e08bd7e259c89] is a person who has not kept the information provided in connection with the digital certificate of entitlement up to date in accordance with the requirements in regulation 8(3).
+  - (iii) another certificate of entitlement , except where a digital certificate of entitlement has been issued to the person in accordance with regulation 7(2) of these Regulations[^c-03ee87d62441669b7d9f84d0595b1b6a];
+- (c) is a person whose exercise of his right of abode is restricted under section 2 of the Immigration Act 1988; [^c-143f3b12b8b1b36067725e43a184124e]...
+- (d) is a person who is deprived of his right of abode by an order under section 2A of the 1971 Act ; or[^c-73c8b48f7cbb81b1f7c281ea8e3bb483]
+- (e)[^c-bd5ec0dd8e1740e49c3e08bd7e259c89] is a person who has not kept the information provided in connection with the digital certificate of entitlement up to date in accordance with the requirements in regulation 8(3).
 
-## 10. Savings[^key-41a87f948fd118f2cec25ca1145ff6d0]
+## 10. Savings[^c-41a87f948fd118f2cec25ca1145ff6d0]
 
 The effect of a certificate described in section 10(6) of the 2002 Act is that it will cease to have effect on the expiry of the passport or travel document to which it is affixed.
 
@@ -160,9 +160,9 @@ Home Office
 
 23rd November 2006
 
-## SCHEDULE — Additional documents which must accompany an application for a certificate of entitlement[^key-615f7407846acfe08aa009828ef36ac6]
+## SCHEDULE — Additional documents which must accompany an application for a certificate of entitlement[^c-615f7407846acfe08aa009828ef36ac6]
 
-Regulation 4(1)(c)[^key-22cc4937dfd17384b5eb393c5f226263]
+Regulation 4(1)(c)[^c-22cc4937dfd17384b5eb393c5f226263]
 
 | Basis of application | Documents |
 | --- | --- |
@@ -171,13 +171,13 @@ Regulation 4(1)(c)[^key-22cc4937dfd17384b5eb393c5f226263]
 | Applicant was registered or naturalised as a citizen of the United Kingdom and Colonies in the United Kingdom before 1st January 1983 | Applicant’s registration or naturalisation certificate |
 | Applicant is a Commonwealth (not British) citizen born before 1st January 1983 to a parent who was born in the United Kingdom | - (i) Applicant’s full birth certificate showing parents’ details; and<br>- (ii) Parent’s full UK birth certificate |
 | Applicant is a female Commonwealth citizen who was married before 1st January 1983 to a man with right of abode in the United Kingdom | - (i) Applicant’s marriage certificate; and<br>- (ii) Evidence of applicant’s husband’s right of abode, eg passport or UK birth certificate |
-| Applicant was born in the United Kingdom or the Falkland Islands on or after 1st January 1983, or in another qualifying British overseas territory on or after 21st May 2002 | - (i) Applicant’s full birth certificate showing parents’ details;<br>- (ii) Evidence of either parent’s British citizenship or settled status at time of applicant’s birth, eg a passport describing the relevant parent as a British citizen or indicating that he or she then had indefinite leave to remain; and<br>- (iii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^key-0ccada01df465c622683d56e1423814b] 2008 Act) |
-| Applicant was born outside the United Kingdom and the Falkland Islands on or after 1st January 1983, or outside the United Kingdom and any qualifying British overseas territory on or after 21st May 2002, to a parent born in the United Kingdom or the Falkland Islands (or, on/after 21 May 2002, any qualifying British overseas territory) or to a parent registered or naturalised in the United Kingdom prior to the applicant’s birth | - (i) Applicant’s full birth certificate showing parents’ details;<br>- (ii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^key-bbac484c0a17c92bddfbb4c8bb0a3759] 2008 Act);<br>- (iii) Parents’ full birth certificate, registration or naturalisation certificate |
-| Applicant was born outside the United Kingdom and the Falkland Islands on or after 1st January 1983, or outside the United Kingdom and any qualifying British overseas territory on or after 21 May 2002, to a parent who, at the time of the birth, was a British citizen in service to which section 2(1)(b) of the British Nationality Act 1981 applies | - (i) Applicant’s full birth certificate;<br>- (ii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^key-9aed33023e595960ec4c5d595fa21361] 2008 Act);<br>- (iii) Evidence of parent’s relevant employment at the time of the birth, eg a letter from the employer |
+| Applicant was born in the United Kingdom or the Falkland Islands on or after 1st January 1983, or in another qualifying British overseas territory on or after 21st May 2002 | - (i) Applicant’s full birth certificate showing parents’ details;<br>- (ii) Evidence of either parent’s British citizenship or settled status at time of applicant’s birth, eg a passport describing the relevant parent as a British citizen or indicating that he or she then had indefinite leave to remain; and<br>- (iii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^c-0ccada01df465c622683d56e1423814b] 2008 Act) |
+| Applicant was born outside the United Kingdom and the Falkland Islands on or after 1st January 1983, or outside the United Kingdom and any qualifying British overseas territory on or after 21st May 2002, to a parent born in the United Kingdom or the Falkland Islands (or, on/after 21 May 2002, any qualifying British overseas territory) or to a parent registered or naturalised in the United Kingdom prior to the applicant’s birth | - (i) Applicant’s full birth certificate showing parents’ details;<br>- (ii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^c-bbac484c0a17c92bddfbb4c8bb0a3759] 2008 Act);<br>- (iii) Parents’ full birth certificate, registration or naturalisation certificate |
+| Applicant was born outside the United Kingdom and the Falkland Islands on or after 1st January 1983, or outside the United Kingdom and any qualifying British overseas territory on or after 21 May 2002, to a parent who, at the time of the birth, was a British citizen in service to which section 2(1)(b) of the British Nationality Act 1981 applies | - (i) Applicant’s full birth certificate;<br>- (ii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^c-9aed33023e595960ec4c5d595fa21361] 2008 Act);<br>- (iii) Evidence of parent’s relevant employment at the time of the birth, eg a letter from the employer |
 | Applicant was adopted in the United Kingdom, a qualifying British overseas territory, or otherwise under the terms of the Hague Convention on Intercountry Adoption[^f00009] | - (i) Applicant’s adoption certificate; and<br>- (ii) Evidence of adoptive parents’ citizenship and, if a Convention adoption, of their place of habitual residence at the time of the adoption, eg in respect of citizenship, a passport, and in respect of habitual residence at the time of the Convention adoption, the adoption certificate |
 | Applicant was a citizen of the United Kingdom and Colonies and was ordinarily resident in the United Kingdom for a continuous period of 5 years before 1st January 1983 and was settled in the United Kingdom at the end of that period | - (i) Evidence of citizenship of the United Kingdom and Colonies, eg a passport or certificate of naturalisation or registration; and<br>- (ii) Evidence of settlement and 5 years’ ordinary residence in the UK before 1983, eg, passport, P60s, details of National Insurance contributions, DSS claims, employers’ letters |
-| Applicant was a citizen of the United Kingdom and Colonies and had a parent who was born, adopted, registered or naturalised in the United Kingdom prior to the applicant’s birth/adoption | - (i) Applicant’s full birth certificate or adoption certificate;<br>- (ii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^key-d2d80526c82fb16707622cdf2c3d036c] 2008 Act);<br>- (iii) Parent’s full birth certificate, adoption, registration or naturalisation certificate |
-| Applicant was a citizen of the United Kingdom and Colonies and had a grandparent born, adopted, registered or naturalised in the United Kingdom before the applicant’s parent’s birth/adoption | - (i) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^key-1eb3712beb89e9127887106b8791dddd] 2008 Act);<br>- (ii) Parents’ full birth certificate or adoption certificate;<br>- (iii) Applicant’s full birth certificate or adoption certificate;<br>- (iv) Grandparents’ marriage certificate (if claiming through grandfather); and<br>- (v) Grandparent’s full birth certificate, adoption, registration or naturalisation certificate |
+| Applicant was a citizen of the United Kingdom and Colonies and had a parent who was born, adopted, registered or naturalised in the United Kingdom prior to the applicant’s birth/adoption | - (i) Applicant’s full birth certificate or adoption certificate;<br>- (ii) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^c-d2d80526c82fb16707622cdf2c3d036c] 2008 Act);<br>- (iii) Parent’s full birth certificate, adoption, registration or naturalisation certificate |
+| Applicant was a citizen of the United Kingdom and Colonies and had a grandparent born, adopted, registered or naturalised in the United Kingdom before the applicant’s parent’s birth/adoption | - (i) Parents’ marriage or civil partnership certificate (if claiming through father or if claiming through woman who is a parent of the applicant by virtue of section 42 or 43 of the[^c-1eb3712beb89e9127887106b8791dddd] 2008 Act);<br>- (ii) Parents’ full birth certificate or adoption certificate;<br>- (iii) Applicant’s full birth certificate or adoption certificate;<br>- (iv) Grandparents’ marriage certificate (if claiming through grandfather); and<br>- (v) Grandparent’s full birth certificate, adoption, registration or naturalisation certificate |
 
 EXPLANATORY NOTE
 
@@ -189,70 +189,70 @@ These Regulations provide the procedure under which a person can apply for and o
 
 [^f00001]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). The powers in section 10(1) are extended by section 10(2), (3) and (6). Section 10(2)(c) has been amended by section 50(5) of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) and section 10(2)(e) has been prospectively repealed by sections 52(7), 61 of, paragraph 4(a) and (b) of Schedule 2 to, and Schedule 3 to, the same Act. These amendments, however, have not yet been brought into force.
 
-[^key-2e829dfad422a3f2b81804614285cf37]: Commencement: Reg. 1 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-2e829dfad422a3f2b81804614285cf37]: Commencement: Reg. 1 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
-[^key-e6c7d08db58b0ac4a357d01c8790d733]: Commencement: Reg. 2 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-e6c7d08db58b0ac4a357d01c8790d733]: Commencement: Reg. 2 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00003]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-073a9f525f140ea681db48ed1609720a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/3145/regulation/2) inserted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-073a9f525f140ea681db48ed1609720a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/3145/regulation/2) inserted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
-[^key-ff691a8df0870a2f6a90344137eae3c6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/3145/regulation/2) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/95/regulation/3/b)
+[^c-ff691a8df0870a2f6a90344137eae3c6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/3145/regulation/2) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/95/regulation/3/b)
 
-[^key-d17a61d788642e306ed32edbfb320852]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/3145/regulation/2) omitted (26.2.2026) by virtue of [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/95/regulation/3/a)
+[^c-d17a61d788642e306ed32edbfb320852]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/3145/regulation/2) omitted (26.2.2026) by virtue of [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/95/regulation/3/a)
 
-[^key-10707f74a8a944bae1ffaf32403fb9f5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/3145/regulation/3) substituted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/95/regulation/4)
+[^c-10707f74a8a944bae1ffaf32403fb9f5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/3145/regulation/3) substituted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/95/regulation/4)
 
-[^key-71027c0abeae9a33873fcef5458ef2b6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/3145/regulation/4) substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
+[^c-71027c0abeae9a33873fcef5458ef2b6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/3145/regulation/4) substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
 
-[^key-d86d4f1f537d6f2dfeb9781efe51553b]: Commencement: Reg. 5 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-d86d4f1f537d6f2dfeb9781efe51553b]: Commencement: Reg. 5 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
-[^key-94c89c2a5cfc8bdb9e17e76fbf83f531]: Textual amendment: Words in [reg. 5(c)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/5/c) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/95/regulation/5)
+[^c-94c89c2a5cfc8bdb9e17e76fbf83f531]: Textual amendment: Words in [reg. 5(c)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/5/c) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/95/regulation/5)
 
-[^key-6dd8e3e378484f7794569ad6696c6e09]: Commencement: Reg. 6 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-6dd8e3e378484f7794569ad6696c6e09]: Commencement: Reg. 6 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
 [^f00005]: Footnote: As substituted by section 39(2) of the 1981 Act.
 
-[^key-e0b53f4b98962e2ec9fe69f94f1437ce]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/6/b) substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
+[^c-e0b53f4b98962e2ec9fe69f94f1437ce]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/6/b) substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
 
-[^key-2a1eed8be9843c48cfc1999b65129454]: Textual amendment: Words in [reg. 6(b)(iii)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/6/b/iii) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/95/regulation/6)
+[^c-2a1eed8be9843c48cfc1999b65129454]: Textual amendment: Words in [reg. 6(b)(iii)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/6/b/iii) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/95/regulation/6)
 
 [^f00007]: Footnote: [1988 c. 14](https://www.legislation.gov.uk/ukpga/1988/14).
 
 [^f00008]: Footnote: Section 2A was inserted by section 57(1) of the Immigration, Asylum and Nationality Act 2006.
 
-[^key-15295b80b0e1be1c61be97d309fae591]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/3145/regulation/7) substituted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/95/regulation/7)
+[^c-15295b80b0e1be1c61be97d309fae591]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/3145/regulation/7) substituted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/95/regulation/7)
 
-[^key-788f158f9b69531b129ddb7f9fe650e8]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/3145/regulation/8) substituted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/95/regulation/8)
+[^c-788f158f9b69531b129ddb7f9fe650e8]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/3145/regulation/8) substituted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/95/regulation/8)
 
-[^key-2ddf45b15eae11bc7d1e7e3f869570c5]: Commencement: Reg. 9 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-2ddf45b15eae11bc7d1e7e3f869570c5]: Commencement: Reg. 9 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
-[^key-2f5550d87b916ebb6a8a7f88629ea016]: Textual amendment: [Reg. 9(b)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/b) substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
+[^c-2f5550d87b916ebb6a8a7f88629ea016]: Textual amendment: [Reg. 9(b)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/b) substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
 
-[^key-03ee87d62441669b7d9f84d0595b1b6a]: Textual amendment: Words in [reg. 9(b)(iii)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/b/iii) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/a)
+[^c-03ee87d62441669b7d9f84d0595b1b6a]: Textual amendment: Words in [reg. 9(b)(iii)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/b/iii) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/a)
 
-[^key-143f3b12b8b1b36067725e43a184124e]: Textual amendment: Word in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/c) omitted (26.2.2026) by virtue of [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/b)
+[^c-143f3b12b8b1b36067725e43a184124e]: Textual amendment: Word in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/c) omitted (26.2.2026) by virtue of [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/b)
 
-[^key-73c8b48f7cbb81b1f7c281ea8e3bb483]: Textual amendment: Word in [reg. 9(d)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/d) substituted for full stop (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/c)
+[^c-73c8b48f7cbb81b1f7c281ea8e3bb483]: Textual amendment: Word in [reg. 9(d)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/d) substituted for full stop (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/c)
 
-[^key-bd5ec0dd8e1740e49c3e08bd7e259c89]: Textual amendment: [Reg. 9(e)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/e) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/d)
+[^c-bd5ec0dd8e1740e49c3e08bd7e259c89]: Textual amendment: [Reg. 9(e)](https://www.legislation.gov.uk/uksi/2006/3145/regulation/9/e) inserted (26.2.2026) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026 (S.I. 2026/95)](https://www.legislation.gov.uk/uksi/2026/95), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/95/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2026/95/regulation/9/d)
 
-[^key-41a87f948fd118f2cec25ca1145ff6d0]: Commencement: Reg. 10 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-41a87f948fd118f2cec25ca1145ff6d0]: Commencement: Reg. 10 in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
-[^key-615f7407846acfe08aa009828ef36ac6]: Commencement: Sch. in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
+[^c-615f7407846acfe08aa009828ef36ac6]: Commencement: Sch. in force at 21.12.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/3145/regulation/1)
 
-[^key-22cc4937dfd17384b5eb393c5f226263]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) shoulder note substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
+[^c-22cc4937dfd17384b5eb393c5f226263]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) shoulder note substituted (12.12.2011) by [The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2011 (S.I. 2011/2682)](https://www.legislation.gov.uk/uksi/2011/2682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/2/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2682/regulation/1/2))
 
-[^key-0ccada01df465c622683d56e1423814b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-0ccada01df465c622683d56e1423814b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
-[^key-bbac484c0a17c92bddfbb4c8bb0a3759]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-bbac484c0a17c92bddfbb4c8bb0a3759]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
-[^key-9aed33023e595960ec4c5d595fa21361]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-9aed33023e595960ec4c5d595fa21361]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
 [^f00009]: Footnote: Concluded at the Hague on 29th May 1993.
 
-[^key-d2d80526c82fb16707622cdf2c3d036c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(d)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/d) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-d2d80526c82fb16707622cdf2c3d036c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(d)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/d) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
-[^key-1eb3712beb89e9127887106b8791dddd]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(e)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/e) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-1eb3712beb89e9127887106b8791dddd]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/3145/schedule) substituted (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 18(3)(e)](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/18/3/e) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))

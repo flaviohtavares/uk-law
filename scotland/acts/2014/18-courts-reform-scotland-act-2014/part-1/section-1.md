@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Sheriffdoms, sheriff court districts and sheriff courts[^key-bcf46a485e818a17845ce6906c1c3ecd]
+## 1. Sheriffdoms, sheriff court districts and sheriff courts[^c-bcf46a485e818a17845ce6906c1c3ecd]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf46a485e818a17845ce6906c1c3ecd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/18/section/1) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-bcf46a485e818a17845ce6906c1c3ecd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/18/section/1) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

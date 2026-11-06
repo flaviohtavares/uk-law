@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fae4ec25ad1d8e4a360811c39fda92b5] After section 269 of AFA 2006 insert—
+(1)[^c-fae4ec25ad1d8e4a360811c39fda92b5] After section 269 of AFA 2006 insert—
 
 > **269A. Fines: fixing of term of imprisonment for default**
 >
@@ -87,7 +87,7 @@ summary: ''
 >
 > (5) If the default term order was made under section 269A, the power under subsection (4) may only be exercised if the court also quashes the order under section 268.
 
-(2)[^key-e8387b7bfb5086f8a3de33f3f311f504] In section 322(3) of AFA 2006 (financial penalty enforcement orders), after paragraph (a) insert—
+(2)[^c-e8387b7bfb5086f8a3de33f3f311f504] In section 322(3) of AFA 2006 (financial penalty enforcement orders), after paragraph (a) insert—
 
 > - (aa) about the effect, where a sum is certified in such an order, of an order made by the Court Martial under—
 >   - (i) section 269A (fines: fixing of term of imprisonment for default); or
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fae4ec25ad1d8e4a360811c39fda92b5]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/16/1) in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/c)
+[^c-fae4ec25ad1d8e4a360811c39fda92b5]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/16/1) in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/c)
 
-[^key-e8387b7bfb5086f8a3de33f3f311f504]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/16/2) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-e8387b7bfb5086f8a3de33f3f311f504]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/16/2) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

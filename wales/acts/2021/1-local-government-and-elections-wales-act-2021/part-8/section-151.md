@@ -87,8 +87,8 @@ summary: ''
 
 (9) In paragraph 5H (power of valuation officer to require information from billing authorities), after “is to be served” insert “ by the officer ”.
 
-(10)[^key-c62819f23207b4b0385d6d81ff45a64f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c62819f23207b4b0385d6d81ff45a64f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c62819f23207b4b0385d6d81ff45a64f]: Textual amendment: S. 151(10) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 21(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/21/2)
+[^c-c62819f23207b4b0385d6d81ff45a64f]: Textual amendment: S. 151(10) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 21(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/21/2)

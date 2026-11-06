@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Section 26: requirement for 3-year period of non-residence[^key-ed042f9653ec4c4f391be86c190063f7]
+## 26A. Section 26: requirement for 3-year period of non-residence[^c-ed042f9653ec4c4f391be86c190063f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed042f9653ec4c4f391be86c190063f7]: Textual amendment: S. 26A inserted (with effect in accordance with Sch. 46 para. 25 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/10) (with [Sch. 46 para. 26](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/26))
+[^c-ed042f9653ec4c4f391be86c190063f7]: Textual amendment: S. 26A inserted (with effect in accordance with Sch. 46 para. 25 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/10) (with [Sch. 46 para. 26](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/26))

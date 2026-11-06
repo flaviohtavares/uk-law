@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Expenses of constituency candidate[^key-8da5023feb84eac28cbc906159ad865a]
+## 37. Expenses of constituency candidate[^c-8da5023feb84eac28cbc906159ad865a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, sums paid and expenses incurred by a candidate fo
 
 ## Annotations
 
-[^key-8da5023feb84eac28cbc906159ad865a]: Commencement: Art. 37 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-8da5023feb84eac28cbc906159ad865a]: Commencement: Art. 37 in force at 16.12.2015 in accordance with art. 1(1)

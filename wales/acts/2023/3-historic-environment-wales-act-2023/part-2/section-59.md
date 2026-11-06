@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Compensation orders for damage to monuments under guardianship[^key-51bddcbdbff00e8713fd3dd276db9d39][^key-71923c5a7423be8f565a05e600e93ce2]
+## 59. Compensation orders for damage to monuments under guardianship[^c-51bddcbdbff00e8713fd3dd276db9d39][^c-71923c5a7423be8f565a05e600e93ce2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51bddcbdbff00e8713fd3dd276db9d39]: Commencement: S. 59 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-51bddcbdbff00e8713fd3dd276db9d39]: Commencement: S. 59 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-71923c5a7423be8f565a05e600e93ce2]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2023/3/section/59) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-71923c5a7423be8f565a05e600e93ce2]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2023/3/section/59) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

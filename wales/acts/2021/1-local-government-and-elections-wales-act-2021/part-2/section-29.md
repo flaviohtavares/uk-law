@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Amendments relating to this Chapter[^key-9381022977be060a660f19f5fcae88a0]
+## 29. Amendments relating to this Chapter[^c-9381022977be060a660f19f5fcae88a0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 3 makes amendments relating to this Chapter.
 
 ## Annotations
 
-[^key-9381022977be060a660f19f5fcae88a0]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/1/section/29) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(b)](https://www.legislation.gov.uk/wsi/2021/231/article/4/b)
+[^c-9381022977be060a660f19f5fcae88a0]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/1/section/29) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(b)](https://www.legislation.gov.uk/wsi/2021/231/article/4/b)

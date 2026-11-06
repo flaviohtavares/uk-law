@@ -42,11 +42,11 @@ Made
 
 The Department of Agriculture, Environment and Rural Affairs being a devolved authority [^f00001], makes these regulations in exercise of the powers conferred by sections 11 of, and paragraph 1(1) of Schedule 2 and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^f00002]:
 
-## 1. Citation and commencement[^key-8985b80a2f27679767f43ffdf2f3a53d]
+## 1. Citation and commencement[^c-8985b80a2f27679767f43ffdf2f3a53d]
 
 These Regulations may be cited as the Sulphur Content of Solid Fuel (Amendment) Regulations (Northern Ireland) 2022 and shall come into operation on 18<sup>th</sup> November 2022.
 
-## 2. Amendment of the Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998[^key-22bc47081c6be5afe534a8e546adf70f]
+## 2. Amendment of the Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998[^c-22bc47081c6be5afe534a8e546adf70f]
 
 (1) The Sulphur content of Solid Fuel Regulations (Northern Ireland) 1998[^f00003] amended as follows.
 
@@ -74,9 +74,9 @@ Regulation 2 makes technical updating amendments to the Sulphur Content of Solid
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); Schedule 2 was amended by section 27(7) of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1); Paragraph 21 of Schedule 7 was amended by paragraph 53(2(b) of Schedule 5 to that Act.
 
-[^key-8985b80a2f27679767f43ffdf2f3a53d]: Commencement: Reg. 1 in operation at 18.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1)
+[^c-8985b80a2f27679767f43ffdf2f3a53d]: Commencement: Reg. 1 in operation at 18.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1)
 
-[^key-22bc47081c6be5afe534a8e546adf70f]: Commencement: Reg. 2 in operation at 18.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1)
+[^c-22bc47081c6be5afe534a8e546adf70f]: Commencement: Reg. 2 in operation at 18.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1998 No. 329](https://www.legislation.gov.uk/nisr/1998/329)
 

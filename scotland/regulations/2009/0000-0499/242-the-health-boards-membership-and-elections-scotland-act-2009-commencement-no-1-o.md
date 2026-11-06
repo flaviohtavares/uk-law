@@ -34,30 +34,30 @@ National Health Service
 
 Representation Of The People
 
-The Health Boards (Membership and Elections) (Scotland) Act 2009 (Commencement No. 1) Order 2009 (revoked)[^key-5c5f479eafa1809b23abe3b4a60700b3]
+The Health Boards (Membership and Elections) (Scotland) Act 2009 (Commencement No. 1) Order 2009 (revoked)[^c-5c5f479eafa1809b23abe3b4a60700b3]
 
 Made
 
 14th June 2009
 
-[^key-5c5f479eafa1809b23abe3b4a60700b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5f479eafa1809b23abe3b4a60700b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-5c5f479eafa1809b23abe3b4a60700b3]
+## 1. Citation[^c-5c5f479eafa1809b23abe3b4a60700b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The appointed day for specified Health Board areas[^key-5c5f479eafa1809b23abe3b4a60700b3]
+## 2. The appointed day for specified Health Board areas[^c-5c5f479eafa1809b23abe3b4a60700b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c5f479eafa1809b23abe3b4a60700b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5f479eafa1809b23abe3b4a60700b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c5f479eafa1809b23abe3b4a60700b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5f479eafa1809b23abe3b4a60700b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c5f479eafa1809b23abe3b4a60700b3]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/242) revoked (31.12.2013) by [The Health Boards (Membership and Elections) (Scotland) Order 2013 (S.S.I. 2013/364)](https://www.legislation.gov.uk/ssi/2013/364), [arts. 1](https://www.legislation.gov.uk/ssi/2013/364/article/1), [2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/364/article/3))
+[^c-5c5f479eafa1809b23abe3b4a60700b3]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/242) revoked (31.12.2013) by [The Health Boards (Membership and Elections) (Scotland) Order 2013 (S.S.I. 2013/364)](https://www.legislation.gov.uk/ssi/2013/364), [arts. 1](https://www.legislation.gov.uk/ssi/2013/364/article/1), [2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/364/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Standard entitlement of current system students who have transferred from or otherwise studied on a previous course[^key-94e9bc33877170b06446e209fb9c356d]
+## 21. Standard entitlement of current system students who have transferred from or otherwise studied on a previous course[^c-94e9bc33877170b06446e209fb9c356d]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ where
 
 ## Annotations
 
-[^key-94e9bc33877170b06446e209fb9c356d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/195/regulation/21) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-94e9bc33877170b06446e209fb9c356d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/195/regulation/21) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

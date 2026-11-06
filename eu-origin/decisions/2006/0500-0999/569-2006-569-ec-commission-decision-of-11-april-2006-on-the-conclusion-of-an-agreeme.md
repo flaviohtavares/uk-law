@@ -31,10 +31,10 @@ summary: ''
 
 of 11 April 2006 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Chile concerning amendments to Appendix VI of the Agreement on Trade in Wines annexed to the Association Agreement between the European Community and its Member States, of the one part, and the Republic of Chile, of the other part (revoked)
 
-[^key-619ae65e539692eb842b24036cc87627]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-619ae65e539692eb842b24036cc87627]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-619ae65e539692eb842b24036cc87627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-619ae65e539692eb842b24036cc87627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-619ae65e539692eb842b24036cc87627]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 24](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-619ae65e539692eb842b24036cc87627]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 24](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

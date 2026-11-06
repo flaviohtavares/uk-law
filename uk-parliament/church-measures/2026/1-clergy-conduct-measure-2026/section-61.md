@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 61. Evidence[^key-5393b841e8a1d8123a119a2d269652f2]
+## 61. Evidence[^c-5393b841e8a1d8123a119a2d269652f2]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ A court or tribunal exercising jurisdiction under this Measure has the same powe
 
 ## Annotations
 
-[^key-5393b841e8a1d8123a119a2d269652f2]: Commencement: S. 61 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-5393b841e8a1d8123a119a2d269652f2]: Commencement: S. 61 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

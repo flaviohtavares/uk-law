@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Other non-agency cases[^key-6c5ed6c9f80eb646a220738ccaacc191]
+## 37. Other non-agency cases[^c-6c5ed6c9f80eb646a220738ccaacc191]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ the following persons may remove the child.
 
 ## Annotations
 
-[^key-6c5ed6c9f80eb646a220738ccaacc191]: Commencement: S. 37 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6c5ed6c9f80eb646a220738ccaacc191]: Commencement: S. 37 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

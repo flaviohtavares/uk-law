@@ -43,39 +43,39 @@ To be laid before Parliament
 
 The Secretary of State makes the following Order in exercise of the powers conferred by Articles 3(11), 7(2)(b) and (3)(b), 47(9), 61(1), (2)(a) and (3) of, and paragraphs 6 and 9 of Schedule 2 to, the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00001].
 
-## 1. Citation and commencement[^key-7b10ca18eb761747554eac9743afaad9]
+## 1. Citation and commencement[^c-7b10ca18eb761747554eac9743afaad9]
 
 This Order may be cited as the Safeguarding Vulnerable Groups (Miscellaneous Provisions) Order (Northern Ireland) 2009 and comes into operation on 12th October 2009.
 
-## 2. Interpretation[^key-d8ba24153bfe025cf5c02f9915e020eb]
+## 2. Interpretation[^c-d8ba24153bfe025cf5c02f9915e020eb]
 
 In this Order—
 
 - “the 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007;
 - “relative” has the same meaning as in Article 2 of the Children (Northern Ireland) Order 1995[^f00002].
 
-## 3. Vulnerable Adults[^key-d409ecb7d41a302c49f381502f978554]
+## 3. Vulnerable Adults[^c-d409ecb7d41a302c49f381502f978554]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exceptions – regulated activity relating to children[^key-6f96ad43569812a129b9749ea82a5e3b]
+## 4. Exceptions – regulated activity relating to children[^c-6f96ad43569812a129b9749ea82a5e3b]
 
-(1)[^key-88f7d510d569f0ac872d9ffbf8a74ac0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-88f7d510d569f0ac872d9ffbf8a74ac0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The fostering of a child (C) is not to be treated as a regulated activity where—
 
-- (a) a person (F) is barred from engaging in regulated activity relating to children[^key-4b7a7973cbfa92da1fd183881efc8e0a] ;
+- (a) a person (F) is barred from engaging in regulated activity relating to children[^c-4b7a7973cbfa92da1fd183881efc8e0a] ;
 - (b) C is being looked after by an authority within the meaning of Articles 25 and 26 of the Children (Northern Ireland) Order 1995;
 - (c) the authority that looks after C is satisfied that C’s welfare requires that C is fostered by F; and
 - (d) either—
   - (i) F or a member of F’s household is a relative of C; or
-  - (ii) C was being fostered by F immediately before F was barred from engaging in regulated activity relating to children[^key-b4c4af1b17fbe0a64c7bf02567b9f3ec] .
+  - (ii) C was being fostered by F immediately before F was barred from engaging in regulated activity relating to children[^c-b4c4af1b17fbe0a64c7bf02567b9f3ec] .
 
-## 5. Exception – regulated activity relating to vulnerable adults[^key-ab0f1a72cb556acba7b2732f7cc4d30f]
+## 5. Exception – regulated activity relating to vulnerable adults[^c-ab0f1a72cb556acba7b2732f7cc4d30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Barred Lists[^key-97b75ec18f80f84de0993f0bb3ed2d58]
+## 6. Barred Lists[^c-97b75ec18f80f84de0993f0bb3ed2d58]
 
 For the purposes of—
 
@@ -86,7 +86,7 @@ For the purposes of—
   are specified as corresponding to the children’s barred list;
 - (b) Article 7(3)(b) of the 2007 Order, the list maintained under section 2(1)(b) of the Safeguarding Vulnerable Groups Act 2006 is specified as corresponding to the adults’ barred list.
 
-## 7. Amendments to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^key-6351af4ff9d9e65f740ebd755abf2f6c]
+## 7. Amendments to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^c-6351af4ff9d9e65f740ebd755abf2f6c]
 
 (1) The 2007 Order is amended in accordance with paragraphs (2) to (5).
 
@@ -103,7 +103,7 @@ For the purposes of—
 
 (3) For “HSS body” in every place where this reference occurs in the 2007 Order substitute “HSC body”.
 
-(4)[^key-12358420c8c528c15182eea962edaa70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-12358420c8c528c15182eea962edaa70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Article 47(7), (Supervisory authorities: duty to refer), after sub-paragraph (b) insert—
 
@@ -145,32 +145,32 @@ Article 7(5) adds to the list of supervisory authorities in the 2007 Order, the 
 
 [^f00001]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-7b10ca18eb761747554eac9743afaad9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
+[^c-7b10ca18eb761747554eac9743afaad9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
 
-[^key-d8ba24153bfe025cf5c02f9915e020eb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/305/article/2) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
+[^c-d8ba24153bfe025cf5c02f9915e020eb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/305/article/2) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
 
 [^f00002]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-d409ecb7d41a302c49f381502f978554]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2009/305/article/3) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/320/article/3/2)
+[^c-d409ecb7d41a302c49f381502f978554]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2009/305/article/3) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/320/article/3/2)
 
-[^key-6f96ad43569812a129b9749ea82a5e3b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/305/article/4) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
+[^c-6f96ad43569812a129b9749ea82a5e3b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/305/article/4) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
 
-[^key-88f7d510d569f0ac872d9ffbf8a74ac0]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/nisr/2009/305/article/4/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2012/320/article/3/3/a)
+[^c-88f7d510d569f0ac872d9ffbf8a74ac0]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/nisr/2009/305/article/4/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2012/320/article/3/3/a)
 
-[^key-4b7a7973cbfa92da1fd183881efc8e0a]: Textual amendment: Words in [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2009/305/article/4/2/a) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2012/320/article/3/3/b)
+[^c-4b7a7973cbfa92da1fd183881efc8e0a]: Textual amendment: Words in [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2009/305/article/4/2/a) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2012/320/article/3/3/b)
 
-[^key-b4c4af1b17fbe0a64c7bf02567b9f3ec]: Textual amendment: Words in [art. 4(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2009/305/article/4/2/d/ii) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2012/320/article/3/3/c)
+[^c-b4c4af1b17fbe0a64c7bf02567b9f3ec]: Textual amendment: Words in [art. 4(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2009/305/article/4/2/d/ii) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2012/320/article/3/3/c)
 
-[^key-ab0f1a72cb556acba7b2732f7cc4d30f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/nisr/2009/305/article/5) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/320/article/3/2)
+[^c-ab0f1a72cb556acba7b2732f7cc4d30f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/nisr/2009/305/article/5) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/320/article/3/2)
 
-[^key-97b75ec18f80f84de0993f0bb3ed2d58]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2009/305/article/6) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
+[^c-97b75ec18f80f84de0993f0bb3ed2d58]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2009/305/article/6) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
 
 [^f00003]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00004]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5).
 
-[^key-6351af4ff9d9e65f740ebd755abf2f6c]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2009/305/article/7) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
+[^c-6351af4ff9d9e65f740ebd755abf2f6c]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2009/305/article/7) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/305/article/1)
 
 [^f00005]: Footnote: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
 
-[^key-12358420c8c528c15182eea962edaa70]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/nisr/2009/305/article/7/4) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-12358420c8c528c15182eea962edaa70]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/nisr/2009/305/article/7/4) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)

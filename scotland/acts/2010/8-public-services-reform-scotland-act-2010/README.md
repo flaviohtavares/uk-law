@@ -229,7 +229,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 77 — Regulations: registers and registration](part-5/section-77.md)
 - [Section 78 — Regulations: care services](part-5/section-78.md)
 
-##### Regulations under section 78: visits to and by adult care home residents[^key-ce9d14d652081f913c20eb5547dd753f]
+##### Regulations under section 78: visits to and by adult care home residents[^c-ce9d14d652081f913c20eb5547dd753f]
 
 - [Section 78B — Identification of Essential Care Supporter](part-5/section-78b.md)
 - [Section 78C — Right to visits: care home residents](part-5/section-78c.md)
@@ -251,7 +251,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 81 — False statements in application under Chapter 3](part-5/section-81.md)
 - [Section 82 — Offences by bodies corporate etc.](part-5/section-82.md)
 
-#### CHAPTER 3A — Care services: staffing[^key-440884fe6be680c50f1f7f641b74c8f9]
+#### CHAPTER 3A — Care services: staffing[^c-440884fe6be680c50f1f7f641b74c8f9]
 
 - [Section 82A — Development of staffing methods](part-5/section-82a.md)
 - [Section 82B — Regulations: requirement to use staffing methods](part-5/section-82b.md)
@@ -380,6 +380,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 [^M_F_79b66d52-f2bf-4832-eb2f-5f5c7f1bb275]: Textual amendment: [Ss. 63A](https://www.legislation.gov.uk/asp/2010/8/section/63A), [63B](https://www.legislation.gov.uk/asp/2010/8/section/63B) and cross-heading inserted (temp.) (27.5.2020) by virtue of [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 1 para. 16(2)](https://www.legislation.gov.uk/asp/2020/10/schedule/1/paragraph/16/2) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9)) (which affecting provision expires (1.10.2022) by virtue of [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 9(1)](https://www.legislation.gov.uk/asp/2020/10/section/9/1))
 
-[^key-ce9d14d652081f913c20eb5547dd753f]: Textual amendment: [Ss. 78B-78G](https://www.legislation.gov.uk/asp/2010/8/section/78B) and cross-heading inserted (7.1.2026 for specified purposes, 31.3.2026 in so far as not already in force) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 14(2)](https://www.legislation.gov.uk/asp/2025/9/section/14/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-ce9d14d652081f913c20eb5547dd753f]: Textual amendment: [Ss. 78B-78G](https://www.legislation.gov.uk/asp/2010/8/section/78B) and cross-heading inserted (7.1.2026 for specified purposes, 31.3.2026 in so far as not already in force) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 14(2)](https://www.legislation.gov.uk/asp/2025/9/section/14/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
 
-[^key-440884fe6be680c50f1f7f641b74c8f9]: Textual amendment: [Pt. 5 Ch. 3A](https://www.legislation.gov.uk/asp/2010/8/part/5/chapter/3A) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2) (as amended by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4))
+[^c-440884fe6be680c50f1f7f641b74c8f9]: Textual amendment: [Pt. 5 Ch. 3A](https://www.legislation.gov.uk/asp/2010/8/part/5/chapter/3A) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2) (as amended by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4))

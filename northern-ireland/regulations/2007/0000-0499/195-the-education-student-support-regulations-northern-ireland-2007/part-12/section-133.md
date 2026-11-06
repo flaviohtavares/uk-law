@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Payment of grants[^key-84565643953f279c1b5cbf7d850558f8]
+## 133. Payment of grants[^c-84565643953f279c1b5cbf7d850558f8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84565643953f279c1b5cbf7d850558f8]: Commencement: [Reg. 133](https://www.legislation.gov.uk/nisr/2007/195/regulation/133) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-84565643953f279c1b5cbf7d850558f8]: Commencement: [Reg. 133](https://www.legislation.gov.uk/nisr/2007/195/regulation/133) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

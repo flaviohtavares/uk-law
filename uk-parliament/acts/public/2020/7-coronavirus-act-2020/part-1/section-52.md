@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Powers to issue directions relating to events, gatherings and premises[^key-e4a0f585ffedc2102fc6fe093b7f4033]
+## 52. Powers to issue directions relating to events, gatherings and premises[^c-e4a0f585ffedc2102fc6fe093b7f4033]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a0f585ffedc2102fc6fe093b7f4033]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2020/7/section/52) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-e4a0f585ffedc2102fc6fe093b7f4033]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2020/7/section/52) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Application of local legislation[^key-cffe92792353cd2da4a61b6095cc3faa]
+## 49. Application of local legislation[^c-cffe92792353cd2da4a61b6095cc3faa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 shall have effect.
 
 ## Annotations
 
-[^key-cffe92792353cd2da4a61b6095cc3faa]: Commencement: Art. 49 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-cffe92792353cd2da4a61b6095cc3faa]: Commencement: Art. 49 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

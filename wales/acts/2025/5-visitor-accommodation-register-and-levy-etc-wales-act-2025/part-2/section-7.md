@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Penalties for failing to register[^key-ee01baf45ccce72787ebedfada4a22d7]
+## 7. Penalties for failing to register[^c-ee01baf45ccce72787ebedfada4a22d7]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ remains liable to the penalty.
 
 ## Annotations
 
-[^key-ee01baf45ccce72787ebedfada4a22d7]: Commencement: S. 7 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-ee01baf45ccce72787ebedfada4a22d7]: Commencement: S. 7 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

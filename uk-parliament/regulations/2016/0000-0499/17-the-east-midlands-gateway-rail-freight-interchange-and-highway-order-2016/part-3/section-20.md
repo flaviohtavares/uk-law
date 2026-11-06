@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Motor vehicle restrictions[^key-685cd14ddcd0f13cda30606cfae7d470]
+## 20. Motor vehicle restrictions[^c-685cd14ddcd0f13cda30606cfae7d470]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) in relation to a vehicle being used;
   - (i) to escort an abnormal load;
   - (ii) for the maintenance, improvement or reconstruction of the layby;
-  - (iii) for the laying, erection, alteration or repair in or near the layby of any sewer or of any main pipe or apparatus for the supply of gas, water or electricity or of any electronic communications apparatus within the meaning given in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^key-fd17cb520f400f94418bcd159298077e] on or near the layby referred to in column (2) of Part 3 of Schedule 11;
+  - (iii) for the laying, erection, alteration or repair in or near the layby of any sewer or of any main pipe or apparatus for the supply of gas, water or electricity or of any electronic communications apparatus within the meaning given in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^c-fd17cb520f400f94418bcd159298077e] on or near the layby referred to in column (2) of Part 3 of Schedule 11;
   - (iv) for police, ambulance or fire brigade purposes; or
   - (v) in the service of a local authority or of a water authority in pursuance of statutory powers or duties.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-685cd14ddcd0f13cda30606cfae7d470]: Commencement: Art. 20 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-685cd14ddcd0f13cda30606cfae7d470]: Commencement: Art. 20 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-fd17cb520f400f94418bcd159298077e]: Textual amendment: Words in [art. 20(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/17/article/20/4/b/iii) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/11/2)
+[^c-fd17cb520f400f94418bcd159298077e]: Textual amendment: Words in [art. 20(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/17/article/20/4/b/iii) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/11/2)

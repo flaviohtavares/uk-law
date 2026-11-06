@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176.[^key-f2ce08bb1726dbc919ebaa8e406f0a55]
+## 176.[^c-f2ce08bb1726dbc919ebaa8e406f0a55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 189 (relevant UK individual), in subsection (1)(d), after â€œspouseâ€
 
 ## Annotations
 
-[^key-f2ce08bb1726dbc919ebaa8e406f0a55]: Commencement: Reg. 176 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-f2ce08bb1726dbc919ebaa8e406f0a55]: Commencement: Reg. 176 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

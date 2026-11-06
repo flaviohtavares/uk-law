@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-308ac0df9777c4c2fb73a33a0c254b1c]
+## 1. Citation and commencement[^c-308ac0df9777c4c2fb73a33a0c254b1c]
 
 These Regulations may be cited as the Registration of Fish Sellers and Buyers and Designation of Auction Sites (Scotland) Amendment Regulations 2005 and shall come into force on 1st October 2005.
 
-## 2. Amendment of the Registration of Fish Sellers and Buyers and Designation of Auction Sites (Scotland) Regulations 2005[^key-0a54fe18c043ec75c94881146ca44487]
+## 2. Amendment of the Registration of Fish Sellers and Buyers and Designation of Auction Sites (Scotland) Regulations 2005[^c-0a54fe18c043ec75c94881146ca44487]
 
 (1) The Registration of Fish Sellers and Buyers and Designation of Auction Sites (Scotland) Regulations 2005[^f00002] are amended in accordance with this regulation.
 
@@ -84,8 +84,8 @@ The Regulations also amend regulation 8 of the principal Regulations to lower th
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions of the Minister of the Crown, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-308ac0df9777c4c2fb73a33a0c254b1c]: Commencement: Reg. 1 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/438/regulation/1)
+[^c-308ac0df9777c4c2fb73a33a0c254b1c]: Commencement: Reg. 1 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/438/regulation/1)
 
-[^key-0a54fe18c043ec75c94881146ca44487]: Commencement: Reg. 2 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/438/regulation/1)
+[^c-0a54fe18c043ec75c94881146ca44487]: Commencement: Reg. 2 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/438/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2005/286](https://www.legislation.gov.uk/ssi/2005/286).

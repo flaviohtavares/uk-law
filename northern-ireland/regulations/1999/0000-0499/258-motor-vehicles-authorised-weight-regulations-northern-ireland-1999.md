@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 55(1) and (2) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6b15a136cbae400a4baa971a578c98b6]
+## 1. Citation and commencement[^c-6b15a136cbae400a4baa971a578c98b6]
 
 These Regulations may be cited as the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999 and shall come into operation on 20th July 1999.
 
-## 2. Interpretation[^key-357806a1d395c7c5e1f57042a7819b94]
+## 2. Interpretation[^c-357806a1d395c7c5e1f57042a7819b94]
 
 (1) In these Regulations—
 
@@ -76,11 +76,11 @@ These Regulations may be cited as the Motor Vehicles (Authorised Weight) Regulat
 
 (2) For the purposes of these Regulations the distance between any 2 axles of a vehicle or vehicle combination shall be taken to be the shortest distance between the line joining the centres of the areas of contact with the road surface of the wheels of one axle and the line joining the centres of the areas of contact with the road surface of the wheels of the other axle.
 
-## 3. Application of Regulations[^key-ddebd802f68e60a6ea8490b51f2845d1]
+## 3. Application of Regulations[^c-ddebd802f68e60a6ea8490b51f2845d1]
 
 There Regulations apply to all wheeled motor vehicles and trailers which fall within category M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> or O<sub>4</sub> of the vehicle categories defined in Annex II of Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156)[^f00004] as substituted by Directive [92/53/EC](https://www.legislation.gov.uk/european/directive/1992/0053)[^f00005] except vehicle combinations which for the time being fulfil the requirements of Part II, III or IIIA of Schedule 9A[^f00006] to the 1989 Regulations (exemptions relating to combined transport operations).
 
-## 4. Maximum authorised weights[^key-6029c74c029092aeb0fc40a5fdbdf56f]
+## 4. Maximum authorised weights[^c-6029c74c029092aeb0fc40a5fdbdf56f]
 
 (1) Subject to paragraph (2) and regulation 5, no vehicle to which these Regulations apply and which is of a description specified in a Schedule to these Regulations shall be used on a road if—
 
@@ -90,7 +90,7 @@ There Regulations apply to all wheeled motor vehicles and trailers which fall wi
 
 (2) A vehicle to which any of the provisions of regulations 73 to 77 of the 1989 Regulations apply, so long as it is so used that those provisions are complied with, shall be taken to comply with these Regulations.
 
-## 5. Saving for regulation 78 of the 1989 Regulations (over-riding weight restrictions)[^key-82acbdb6077c7f8e9a256362582bc751]
+## 5. Saving for regulation 78 of the 1989 Regulations (over-riding weight restrictions)[^c-82acbdb6077c7f8e9a256362582bc751]
 
 Nothing in these Regulations shall prejudice or affect regulation 78 of the 1989 Regulations and a person using or permitting a vehicle to be used contrary to the provisions of that regulation commits an offence even if the weights authorised by these Regulations are not exceeded.
 
@@ -106,7 +106,7 @@ Assistant Secretary
 
 Regulation 4(1)(a)
 
-### 1. Weight not to be exceeded in any circumstances[^key-454b9730661263e06ce0a2ef4a01a409]
+### 1. Weight not to be exceeded in any circumstances[^c-454b9730661263e06ce0a2ef4a01a409]
 
 (1) Subject to paragraph 2, the maximum authorised weight for a vehicle of a description specified in column (2) of an item in Table I and having the number of axles specified in column (3) shall be the weight specified in column (4) of the item.
 
@@ -137,7 +137,7 @@ TABLE I
 - (a) the driving axle if it is not a steering axle is fitted with twin tyres and road friendly suspension; or
 - (b) each driving axle is fitted with twin tyres and the maximum weight for each axle does not exceed 9500 kg.
 
-### 2. Weight by reference to axle spacing[^key-be7b6a1b1ec2f3361685e61fbd5b1b8c]
+### 2. Weight by reference to axle spacing[^c-be7b6a1b1ec2f3361685e61fbd5b1b8c]
 
 For a vehicle of a description specified in column (2) of an item in Table II and having the number of axles specified in column (3) of that item, the authorised weight in kilograms shall be the number equal to the product of the distance measured in metres between the foremost and rearmost axles of the vehicle multiplied by the factor specified in column (4) and rounded up to the nearest 10 kg, if that number is less than the maximum authorised weight determined in accordance with paragraph 1.
 
@@ -164,7 +164,7 @@ TABLE II
 
 Regulation 4(1)(b)
 
-### 1. Weight not to be exceeded in any circumstances[^key-c2ab7aad8bd6be8e639fa70ade34757f]
+### 1. Weight not to be exceeded in any circumstances[^c-c2ab7aad8bd6be8e639fa70ade34757f]
 
 (1) Subject to paragraph 2, the maximum authorised weight for a vehicle combination of a description of vehicle specified in column (2) of an item in Table III and having the number of axles specified in column (3) shall be the weight specified in column (4) of the item.
 
@@ -209,7 +209,7 @@ TABLE III
 - (c) each axle of the trailer is fitted with road friendly suspension; and
 - (d) each vehicle comprised in the combination has at least 3 axles.
 
-### 2. Weight by reference to axle spacing[^key-b45199eca1399affb1b3cdf095afd4b5]
+### 2. Weight by reference to axle spacing[^c-b45199eca1399affb1b3cdf095afd4b5]
 
 For a vehicle combination of a description specified in column (2) in Table IV and having the number of axles specified in column (3), the maximum authorised weight in kilograms shall be the product of the distance measured in metres between the king-pin and the centre of the rearmost axle of the semi-trailer multiplied by the factor specified in column (4) and rounded up to the nearest 10 kg, if that weight is less than the authorised weight determined in accordance with paragraph 1.
 
@@ -229,7 +229,7 @@ TABLE IV
 
 Regulation 4(1)(c)
 
-### 1. Weight not to be exceeded in any circumstances[^key-c1eef3ec988ca81b66bb27c28d7f9922]
+### 1. Weight not to be exceeded in any circumstances[^c-c1eef3ec988ca81b66bb27c28d7f9922]
 
 (1) Subject to paragraph 2, the maximum authorised weight for an axle of a description specified in column (2) of an item in Table V shall be the weight specified in column (3) of the item.
 
@@ -255,7 +255,7 @@ Table V
 - (a) the driving axle is fitted with twin tyres and road friendly suspension; or
 - (b) each driving axle is fitted with twin tyres and no axle has an axle weight exceeding 9500 kg.
 
-### 2. Weight by reference to axle spacing[^key-a54d7e32302514147756b8a035543c3e]
+### 2. Weight by reference to axle spacing[^c-a54d7e32302514147756b8a035543c3e]
 
 For an axle of a description specified in column (2) of an item in Table VI, if the dimension specified in column (3) is of the length specified in column (4), the maximum authorised weight shall be the weight specified in column (5) of the item, if that weight is less than the maximum authorised weight determined in accordance with paragraph 1.
 
@@ -294,15 +294,15 @@ Copies of Directives may be obtained from The Stationery Office Bookshop, 16 Art
 
 [^f00001]: Footnote: S.I. [1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-6b15a136cbae400a4baa971a578c98b6]: Commencement: Reg. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-6b15a136cbae400a4baa971a578c98b6]: Commencement: Reg. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-357806a1d395c7c5e1f57042a7819b94]: Commencement: Reg. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-357806a1d395c7c5e1f57042a7819b94]: Commencement: Reg. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1989 No. 99](https://www.legislation.gov.uk/nisr/1989/99); relevant amending instruments are [S.R. 1992 No. 111](https://www.legislation.gov.uk/nisr/1992/111), [S.R. 1992 No. 509](https://www.legislation.gov.uk/nisr/1992/509), [S.R. 1994 No. 353](https://www.legislation.gov.uk/nisr/1994/353), [S.R. 1996 No. 462](https://www.legislation.gov.uk/nisr/1996/462), [S.R. 1997 No. 518](https://www.legislation.gov.uk/nisr/1997/518), [S.R. 1998 No. 116](https://www.legislation.gov.uk/nisr/1998/116) and [S.R. 1999 No. 259](https://www.legislation.gov.uk/nisr/1999/259)
 
 [^f00003]: Footnote: O.J. No. L235, 17.9.96, p. 59
 
-[^key-ddebd802f68e60a6ea8490b51f2845d1]: Commencement: Reg. 3 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-ddebd802f68e60a6ea8490b51f2845d1]: Commencement: Reg. 3 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L42, 23.2.70, p. 1
 
@@ -310,18 +310,18 @@ Copies of Directives may be obtained from The Stationery Office Bookshop, 16 Art
 
 [^f00006]: Footnote: Schedule 9A was inserted by [S.R. 1994 No. 353](https://www.legislation.gov.uk/nisr/1994/353) and amended by [S.R. 1997 No. 518](https://www.legislation.gov.uk/nisr/1997/518), [S.R. 1998 No. 116](https://www.legislation.gov.uk/nisr/1998/116) and [S.R. 1999 No. 259](https://www.legislation.gov.uk/nisr/1999/259)
 
-[^key-6029c74c029092aeb0fc40a5fdbdf56f]: Commencement: Reg. 4 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-6029c74c029092aeb0fc40a5fdbdf56f]: Commencement: Reg. 4 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-82acbdb6077c7f8e9a256362582bc751]: Commencement: Reg. 5 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-82acbdb6077c7f8e9a256362582bc751]: Commencement: Reg. 5 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-454b9730661263e06ce0a2ef4a01a409]: Commencement: Sch. 1 para. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-454b9730661263e06ce0a2ef4a01a409]: Commencement: Sch. 1 para. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-be7b6a1b1ec2f3361685e61fbd5b1b8c]: Commencement: Sch. 1 para. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-be7b6a1b1ec2f3361685e61fbd5b1b8c]: Commencement: Sch. 1 para. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-c2ab7aad8bd6be8e639fa70ade34757f]: Commencement: Sch. 2 para. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-c2ab7aad8bd6be8e639fa70ade34757f]: Commencement: Sch. 2 para. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-b45199eca1399affb1b3cdf095afd4b5]: Commencement: Sch. 2 para. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-b45199eca1399affb1b3cdf095afd4b5]: Commencement: Sch. 2 para. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-c1eef3ec988ca81b66bb27c28d7f9922]: Commencement: Sch. 3 para. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-c1eef3ec988ca81b66bb27c28d7f9922]: Commencement: Sch. 3 para. 1 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
 
-[^key-a54d7e32302514147756b8a035543c3e]: Commencement: Sch. 3 para. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)
+[^c-a54d7e32302514147756b8a035543c3e]: Commencement: Sch. 3 para. 2 in operation at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/258/regulation/1)

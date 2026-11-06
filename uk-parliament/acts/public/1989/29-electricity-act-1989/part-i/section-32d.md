@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32D. Amounts of electricity specified in certificates[^key-874d0cf502973c159148a6c55bbf79a8]
+## 32D. Amounts of electricity specified in certificates[^c-874d0cf502973c159148a6c55bbf79a8]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 - (c) the effect of paragraph 19 of Schedule 6 to the Finance Act 2000 (c. 17) (supplies of electricity from renewable sources exempted from climate change levy) in relation to electricity generated from each of those sources;
 - (d) the desirability of securing the long term growth, and economic viability, of the industries associated with the generation of electricity from renewable sources;
 - (e) the likely effect of the proposed banding provision on the number of renewables obligation certificates issued by the Authority, and the impact this will have on the market for such certificates and on consumers;
-- (f) the potential contribution of electricity generated from each renewable source to the attainment of any target which relates to the generation of electricity or the production of energy and is imposed by, or results from or arises out of, an EU[^key-37b0218614e410d78d501465b389399f] obligation.
+- (f) the potential contribution of electricity generated from each renewable source to the attainment of any target which relates to the generation of electricity or the production of energy and is imposed by, or results from or arises out of, an EU[^c-37b0218614e410d78d501465b389399f] obligation.
 
 (5) For the purposes of subsection (4)(a), the costs associated with generating electricity from a renewable source include any costs associated with the production or supply of heat produced in connection with that generation.
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
+[^c-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
 
-[^key-37b0218614e410d78d501465b389399f]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-37b0218614e410d78d501465b389399f]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

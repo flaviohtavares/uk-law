@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Making of order[^key-9b62613c63e19367349aa2c513a00c61]
+## 39. Making of order[^c-9b62613c63e19367349aa2c513a00c61]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b62613c63e19367349aa2c513a00c61]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2013/5/section/39) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-9b62613c63e19367349aa2c513a00c61]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2013/5/section/39) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

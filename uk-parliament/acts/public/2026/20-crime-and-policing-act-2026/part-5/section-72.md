@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Child sexual abuse image-generators: England and Wales[^key-359a4af3a00df8fdfb94088404d7023b]
+## 72. Child sexual abuse image-generators: England and Wales[^c-359a4af3a00df8fdfb94088404d7023b]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,4 +158,4 @@ summary: ''
 
 ## Annotations
 
-[^key-359a4af3a00df8fdfb94088404d7023b]: Commencement: S. 72 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-359a4af3a00df8fdfb94088404d7023b]: Commencement: S. 72 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

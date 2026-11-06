@@ -48,15 +48,15 @@ Coming into force
 
 The Treasury make these Regulations exercising the powers in sections 694 to 699 and 701 of the Income Tax (Trading and Other Income) Act 2005[^f00001] and section 151 of the Taxation of Chargeable Gains Act 1992[^f00002].
 
-## 1. Citation and commencement[^key-9604e3ee2201dfb7bad3e11b587113df]
+## 1. Citation and commencement[^c-9604e3ee2201dfb7bad3e11b587113df]
 
 These Regulations may be cited as the Individual Savings Account (Amendment No. 2) Regulations 2016 and come into force on 6th April 2016.
 
-## 2. Amendment of the Individual Savings Account Regulations 1998[^key-17024a42c825f088b0bfd935987d1bec]
+## 2. Amendment of the Individual Savings Account Regulations 1998[^c-17024a42c825f088b0bfd935987d1bec]
 
 The Individual Savings Account Regulations 1998[^f00003] are amended by regulations 3 to 17.
 
-**3.**[^key-0b34b6f8a45a7dc1c6df36aea2301c10] In regulation 2(1)(a) (interpretation)—
+**3.**[^c-0b34b6f8a45a7dc1c6df36aea2301c10] In regulation 2(1)(a) (interpretation)—
 
 - (a) in the definition of “account investment”, for “or a cash component, as the case may be, within the meaning of regulation 7 or 8” substitute “, a cash component or an innovative finance component, as the case may be, within the meaning of regulation 7, 8 or 8A”;
 - (b) at the appropriate places insert—
@@ -97,9 +97,9 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 
   .
 
-**4.**[^key-a87de8c645a92f353983a11f8b6cf48b] In regulation 2D (regulations that do not apply to junior ISA accounts), after “7(2)(h),” insert “8A,”.
+**4.**[^c-a87de8c645a92f353983a11f8b6cf48b] In regulation 2D (regulations that do not apply to junior ISA accounts), after “7(2)(h),” insert “8A,”.
 
-**5.**[^key-d99700eb1ff9eda3bbd6762dd6f4ef17] In regulation 4 (general conditions for accounts and subscriptions to accounts)—
+**5.**[^c-d99700eb1ff9eda3bbd6762dd6f4ef17] In regulation 4 (general conditions for accounts and subscriptions to accounts)—
 
 - (a) in paragraph (1), for “and in respect of which—” substitute “which is an innovative finance account or in respect of which— ”;
 - (b) after paragraph (1), insert—
@@ -125,7 +125,7 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
   ; and
 - (e) in paragraph (6)(b), after “regulation 8(2)(a),(b) or (e)” insert “and qualifying investments for an innovative finance component ”.
 
-**6.**[^key-3847203712383ce7af27a7b3fb4c4cd5] In regulation 4A (repair of certain incompatible accounts and excess subscriptions - accounts other than junior ISA accounts)—
+**6.**[^c-3847203712383ce7af27a7b3fb4c4cd5] In regulation 4A (repair of certain incompatible accounts and excess subscriptions - accounts other than junior ISA accounts)—
 
 - (a) in paragraph (1), in the paragraph under the heading “First Condition”—
   - (i) for “or (b)” substitute “, (b) or (ba)”;
@@ -133,7 +133,7 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 - (b) in paragraph (1), in the paragraph under the heading “Second Condition”, for “or (b)” substitute “, (b) or (ba)”; and
 - (c) in paragraph (3)(b), for “or (b)” substitute “, (b) or (ba)”.
 
-**7.**[^key-3b43aba148675348ef491caf2a4fdbb9] In regulation 5DD (defaulted investment payment), for the text of the regulation substitute—
+**7.**[^c-3b43aba148675348ef491caf2a4fdbb9] In regulation 5DD (defaulted investment payment), for the text of the regulation substitute—
 
 > A defaulted investment payment occurs where a payment is made (otherwise than by accretion to an account) by way of compensation in respect of poor performance, loss (in whole or in part), depreciation or risk of depreciation of an investment (“defaulted investment”)—
 >
@@ -142,7 +142,7 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 
 .
 
-**8.**[^key-d2a1440ef97240ab70d323e1b8c2673f] In regulation 5DDA (additional permitted subscription to an account other than a junior ISA account)—
+**8.**[^c-d2a1440ef97240ab70d323e1b8c2673f] In regulation 5DDA (additional permitted subscription to an account other than a junior ISA account)—
 
 - (a) in paragraph (2)(e)—
   - (i) at the end of sub-paragraph (iii), omit “and”;
@@ -163,14 +163,14 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 
   .
 
-**9.**[^key-fac27a07ec3f2b58ab61626dcda91879] In regulation 5DDB (flexible account)—
+**9.**[^c-fac27a07ec3f2b58ab61626dcda91879] In regulation 5DDB (flexible account)—
 
 - (a) in paragraph (1), after “replacement subscription of a cash amount” insert “or qualifying investments for a stocks and shares component within regulation 7(2)(h)”; and
 - (b) in paragraph (2), for “4(1B)(a) and (b)” substitute”4(1B)(a), (b) and (ba)”.
 
-**10.**[^key-0a69a996c53a565cb3d9e2d2d54b7338] In regulation 5DF(1)(b)(iii) (information required by regulation 5D), after “stocks and shares account” insert “or innovative finance account”.
+**10.**[^c-0a69a996c53a565cb3d9e2d2d54b7338] In regulation 5DF(1)(b)(iii) (information required by regulation 5D), after “stocks and shares account” insert “or innovative finance account”.
 
-**11.**[^key-d25bdf5bc2a602014c17790916661919] In regulation 6 (general investment rules)—
+**11.**[^c-d25bdf5bc2a602014c17790916661919] In regulation 6 (general investment rules)—
 
 - (a) in paragraph (1), for “All transactions” substitute “Subject to paragraph (1ZB), all transactions”;
 - (b) after paragraph (1ZA), insert—
@@ -184,7 +184,7 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 
   .
 
-**12.**[^key-f720ffc72eba0bbfc962af16c74200f3] After regulation 8 (qualifying investments for a cash component), insert—
+**12.**[^c-f720ffc72eba0bbfc962af16c74200f3] After regulation 8 (qualifying investments for a cash component), insert—
 
 > **8A. Qualifying investments for an innovative finance component**
 >
@@ -207,7 +207,7 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 
 .
 
-**13.**[^key-e0bec2f8e26ba009447befe736d10ab9] In regulation 10(2) (qualifying individuals who may invest under an account that is not a junior ISA account)—
+**13.**[^c-e0bec2f8e26ba009447befe736d10ab9] In regulation 10(2) (qualifying individuals who may invest under an account that is not a junior ISA account)—
 
 - (a) in sub-paragraph (a), after “stocks and shares account” insert “or innovative finance account”;
 - (b) in sub-paragraph (b), for “5D(2)(a)(i), (iia), (iv) or (v)” substitute”5D(2)(a)(iia) or (iv)”;
@@ -218,27 +218,27 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 
   .
 
-**14.**[^key-5457872d4b35b8f0980d8dcccc678b89] In regulation 12(3) (conditions for application to open an account that is not a junior ISA account)—
+**14.**[^c-5457872d4b35b8f0980d8dcccc678b89] In regulation 12(3) (conditions for application to open an account that is not a junior ISA account)—
 
 - (a) in sub-paragraph (a), for “or cash account” substitute “, cash account or innovative finance account”;
 - (b) in sub-paragraph (d), for “5D(2)(a)(i), (iia), (iv) or (v)” substitute”5D(2)(a)(iia) or (iv)”;
 - (c) in sub-paragraph (e), for “5D(2)(a)(iia) or (iv)” substitute “5D(2)(a)(i), (iia), (iv) or (v)”; and
 - (d) after sub-paragraph (e), insert—
 
-  > - (fa)[^key-299791eb82db9aad6da1820de9f5eb2e] in the case of an innovative finance account, except for a subscription made in accordance with regulation 5D(2)(a), (iia) or (iv), the applicant—
+  > - (fa)[^c-299791eb82db9aad6da1820de9f5eb2e] in the case of an innovative finance account, except for a subscription made in accordance with regulation 5D(2)(a), (iia) or (iv), the applicant—
   >   - (i) has not subscribed, and will not subscribe, to any other innovative finance account, in the year to which paragraph (2) refers, and
   >   - (ii) will not subscribe to any other innovative finance account, in each successive year following that year in which the declaration has effect;
 
   .
 
-**15.**[^key-51dc22a96adee47f19658f617161f07c] In regulation 14 (account manager qualifications and Board’s approval)—
+**15.**[^c-51dc22a96adee47f19658f617161f07c] In regulation 14 (account manager qualifications and Board’s approval)—
 
 - (a) in paragraph (2)(b)(i)—
   - (i) after “permission”, insert “(other than an interim permission)”; and
   - (ii) for “37”, substitute “36H, 37, 39G”; and
 - (b) in paragraph (3)(a), for “or both” substitute “or innovative finance accounts only, or any combination of such accounts”.
 
-**16.**[^key-de863e043b9ba5a8cdde6930f2d65cfe] In regulation 21 (transfers relating to accounts other than junior ISA accounts)—
+**16.**[^c-de863e043b9ba5a8cdde6930f2d65cfe] In regulation 21 (transfers relating to accounts other than junior ISA accounts)—
 
 - (a) in paragraph (4)—
   - (i) at the end of sub-paragraph (a), omit “or”;
@@ -278,7 +278,7 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
 - (d) in paragraph (4DB), for “(4DA)(b) or (c)” substitute “(4DA)(b), (c), or (ca)”; and
 - (e) in paragraph (6)(b)(i), for “or stocks and shares account” substitute “, stocks and shares account or innovative finance account”.
 
-**17.**[^key-9b68d1b254c110a85a575f208fe1dbee] In regulation 31 (returns of information by account manager)—
+**17.**[^c-9b68d1b254c110a85a575f208fe1dbee] In regulation 31 (returns of information by account manager)—
 
 - (a) in paragraph (3)—
   - (i) in sub-paragraph (b)(ii), at the beginning insert “in relation to a cash account or stocks and shares account,”;
@@ -314,15 +314,15 @@ The Individual Savings Account Regulations 1998[^f00003] are amended by regulati
     ; and
   - (iii) in the full out words at the end of the paragraph, for “In the case” substitute “In relation to this paragraph (7), in the case”.
 
-## 18. Amendment of the Individual Savings Account (Amendment) Regulations 2016[^key-d06bce895f8ef966a481a45af3252185]
+## 18. Amendment of the Individual Savings Account (Amendment) Regulations 2016[^c-d06bce895f8ef966a481a45af3252185]
 
 The Individual Savings Account (Amendment) Regulations 2016[^f00006] are amended as follows.
 
-**19.**[^key-15f59c2a20f0f718f0b483e0f9196738] Regulation 1.—(1) is to be renumbered as 1**.**
+**19.**[^c-15f59c2a20f0f718f0b483e0f9196738] Regulation 1.—(1) is to be renumbered as 1**.**
 
-**20.**[^key-c95d15b7bfbb8c9ba649a0798e8b24a1] In regulation 9(a), for “sub paragraphs” substitute “sub-paragraphs”.
+**20.**[^c-c95d15b7bfbb8c9ba649a0798e8b24a1] In regulation 9(a), for “sub paragraphs” substitute “sub-paragraphs”.
 
-**21.**[^key-12b4d20dcacb04da922119c86186e086] In regulation 16 —
+**21.**[^c-12b4d20dcacb04da922119c86186e086] In regulation 16 —
 
 - (a) in paragraph (1), for “paragraph”, wherever it occurs, substitute “sub-paragraph”; and
 - (b) in paragraph (2)(b)(iii), for “insert as a new sub-paragraph (iia)” substitute “after sub-paragraph (ii) insert”.
@@ -379,54 +379,54 @@ https://www.gov.uk/government/publications/individual-savings-accounts-increasin
 
 [^f00002]: Footnote: [1992 c.12](https://www.legislation.gov.uk/ukpga/1992/12); section 151 was amended by section 85 of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), section 64(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 436 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005 and section 40(7) of the Finance Act 2011.
 
-[^key-9604e3ee2201dfb7bad3e11b587113df]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-9604e3ee2201dfb7bad3e11b587113df]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-17024a42c825f088b0bfd935987d1bec]: Commencement: Reg. 2 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-17024a42c825f088b0bfd935987d1bec]: Commencement: Reg. 2 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870). Relevant amending instruments are: [S.I. 2001/908](https://www.legislation.gov.uk/uksi/2001/908), [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [S.I. 2002/1974](https://www.legislation.gov.uk/uksi/2002/1974), [S.I.2002/3158](https://www.legislation.gov.uk/uksi/2002/3158), [S.I. 2004/2996](https://www.legislation.gov.uk/uksi/2004/2996), [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119), [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [S.I. 2010/2957](https://www.legislation.gov.uk/uksi/2010/2957), [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780), [S.I. 2012/1871](https://www.legislation.gov.uk/uksi/2012/1871), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I.2013/605](https://www.legislation.gov.uk/uksi/2013/605), [S.I. 2014/654](https://www.legislation.gov.uk/uksi/2014/654), [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [S.I. 2015/608](https://www.legislation.gov.uk/uksi/2015/608), [S.I. 2015/869](https://www.legislation.gov.uk/uksi/2015/869) and [S.I. 2016/16](https://www.legislation.gov.uk/uksi/2016/16).
 
-[^key-0b34b6f8a45a7dc1c6df36aea2301c10]: Commencement: Reg. 3 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-0b34b6f8a45a7dc1c6df36aea2301c10]: Commencement: Reg. 3 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Relevant amending instruments are: [S.I. 2014/208](https://www.legislation.gov.uk/uksi/2014/208), [S.I. 2014/506](https://www.legislation.gov.uk/uksi/2014/506), [S.I. 2014/835](https://www.legislation.gov.uk/uksi/2014/835), [S.I. 2014/1446](https://www.legislation.gov.uk/uksi/2014/1446), [S.I. 2014/2632](https://www.legislation.gov.uk/uksi/2014/2632) and [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910).
 
 [^f00005]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Relevant amending instruments are: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366) and the Financial Services and Markets Act 2000 (Regulated Activities)(Amendment) Order 2016.
 
-[^key-a87de8c645a92f353983a11f8b6cf48b]: Commencement: Reg. 4 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-a87de8c645a92f353983a11f8b6cf48b]: Commencement: Reg. 4 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-d99700eb1ff9eda3bbd6762dd6f4ef17]: Commencement: Reg. 5 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-d99700eb1ff9eda3bbd6762dd6f4ef17]: Commencement: Reg. 5 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-3847203712383ce7af27a7b3fb4c4cd5]: Commencement: Reg. 6 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-3847203712383ce7af27a7b3fb4c4cd5]: Commencement: Reg. 6 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-3b43aba148675348ef491caf2a4fdbb9]: Commencement: Reg. 7 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-3b43aba148675348ef491caf2a4fdbb9]: Commencement: Reg. 7 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-d2a1440ef97240ab70d323e1b8c2673f]: Commencement: Reg. 8 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-d2a1440ef97240ab70d323e1b8c2673f]: Commencement: Reg. 8 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-fac27a07ec3f2b58ab61626dcda91879]: Commencement: Reg. 9 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-fac27a07ec3f2b58ab61626dcda91879]: Commencement: Reg. 9 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-0a69a996c53a565cb3d9e2d2d54b7338]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-0a69a996c53a565cb3d9e2d2d54b7338]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-d25bdf5bc2a602014c17790916661919]: Commencement: Reg. 11 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-d25bdf5bc2a602014c17790916661919]: Commencement: Reg. 11 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-f720ffc72eba0bbfc962af16c74200f3]: Commencement: Reg. 12 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-f720ffc72eba0bbfc962af16c74200f3]: Commencement: Reg. 12 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-e0bec2f8e26ba009447befe736d10ab9]: Commencement: Reg. 13 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-e0bec2f8e26ba009447befe736d10ab9]: Commencement: Reg. 13 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-5457872d4b35b8f0980d8dcccc678b89]: Commencement: Reg. 14 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-5457872d4b35b8f0980d8dcccc678b89]: Commencement: Reg. 14 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-299791eb82db9aad6da1820de9f5eb2e]: Textual amendment: Word in [reg. 14(d)](https://www.legislation.gov.uk/uksi/2016/364/regulation/14/d) inserted (6.4.2017) by [The Individual Savings Account (Amendment) Regulations 2017 (S.I. 2017/186)](https://www.legislation.gov.uk/uksi/2017/186), [regs. 1](https://www.legislation.gov.uk/uksi/2017/186/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/186/regulation/8)
+[^c-299791eb82db9aad6da1820de9f5eb2e]: Textual amendment: Word in [reg. 14(d)](https://www.legislation.gov.uk/uksi/2016/364/regulation/14/d) inserted (6.4.2017) by [The Individual Savings Account (Amendment) Regulations 2017 (S.I. 2017/186)](https://www.legislation.gov.uk/uksi/2017/186), [regs. 1](https://www.legislation.gov.uk/uksi/2017/186/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/186/regulation/8)
 
-[^key-51dc22a96adee47f19658f617161f07c]: Commencement: Reg. 15 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-51dc22a96adee47f19658f617161f07c]: Commencement: Reg. 15 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-de863e043b9ba5a8cdde6930f2d65cfe]: Commencement: Reg. 16 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-de863e043b9ba5a8cdde6930f2d65cfe]: Commencement: Reg. 16 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-9b68d1b254c110a85a575f208fe1dbee]: Commencement: Reg. 17 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-9b68d1b254c110a85a575f208fe1dbee]: Commencement: Reg. 17 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-d06bce895f8ef966a481a45af3252185]: Commencement: Reg. 18 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-d06bce895f8ef966a481a45af3252185]: Commencement: Reg. 18 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2016/16](https://www.legislation.gov.uk/uksi/2016/16).
 
-[^key-15f59c2a20f0f718f0b483e0f9196738]: Commencement: Reg. 19 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-15f59c2a20f0f718f0b483e0f9196738]: Commencement: Reg. 19 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-c95d15b7bfbb8c9ba649a0798e8b24a1]: Commencement: Reg. 20 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-c95d15b7bfbb8c9ba649a0798e8b24a1]: Commencement: Reg. 20 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
 
-[^key-12b4d20dcacb04da922119c86186e086]: Commencement: Reg. 21 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)
+[^c-12b4d20dcacb04da922119c86186e086]: Commencement: Reg. 21 in force at 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Recovery of inspection and enforcement expenses[^key-37dcc308c2ad39a310dd8579ceddd007]
+## 80. Recovery of inspection and enforcement expenses[^c-37dcc308c2ad39a310dd8579ceddd007]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ After section 32Z1 of the 1960 Act (inserted by section 79), insert—
 
 ## Annotations
 
-[^key-37dcc308c2ad39a310dd8579ceddd007]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/14/section/80) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-37dcc308c2ad39a310dd8579ceddd007]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/14/section/80) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

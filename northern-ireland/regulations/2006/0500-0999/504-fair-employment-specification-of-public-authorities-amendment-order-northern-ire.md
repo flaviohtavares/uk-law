@@ -61,7 +61,7 @@ Office of the First Minister and deputy First Minister *(affected by repeal, see
 
 Articles 3 and 4
 
-### PART I — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 52 TO 65 OF THE 1998 ORDER[^key-18158762a07ba380253c09ed49dc47b7]
+### PART I — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 52 TO 65 OF THE 1998 ORDER[^c-18158762a07ba380253c09ed49dc47b7]
 
 - Agri-Food and Biosciences Institute
 - Altnagelvin Hospitals Health and Social Services Trust
@@ -144,7 +144,7 @@ Articles 3 and 4
 - Northern Ireland Fire and Rescue Service Board
 - Northern Ireland Fishery Harbour Authority
 - Northern Ireland Guardian Ad Litem Agency
-- Health and Social Care Regulation and Quality Improvement Authority[^key-d39ff37c674ca2093e552cdcddbc9228]
+- Health and Social Care Regulation and Quality Improvement Authority[^c-d39ff37c674ca2093e552cdcddbc9228]
 - Northern Ireland Health Promotion Agency
 - Northern Ireland Housing Executive
 - Northern Ireland Human Rights Commission
@@ -184,7 +184,7 @@ Articles 3 and 4
 - Western Health and Social Services Board
 - Youth Council for Northern Ireland
 
-### PART II — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 62 TO 65 OF THE 1998 ORDER[^key-a3748ac6595bdbe70cea144ddf761a49]
+### PART II — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 62 TO 65 OF THE 1998 ORDER[^c-a3748ac6595bdbe70cea144ddf761a49]
 
 - First Secretary of State
 - Secretary of State for Constitutional Affairs
@@ -245,8 +245,8 @@ The following amendments have been made to the Schedule:
 
 [^f00004]: Footnote: [S.R. 2004 No. 494](https://www.legislation.gov.uk/nisr/2004/494)
 
-[^key-18158762a07ba380253c09ed49dc47b7]: Commencement: Sch. Pt. I in operation at 1.1.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2006/504/article/1)
+[^c-18158762a07ba380253c09ed49dc47b7]: Commencement: Sch. Pt. I in operation at 1.1.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2006/504/article/1)
 
-[^key-d39ff37c674ca2093e552cdcddbc9228]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2006/504) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-d39ff37c674ca2093e552cdcddbc9228]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2006/504) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
-[^key-a3748ac6595bdbe70cea144ddf761a49]: Commencement: Sch. Pt. II in operation at 1.1.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2006/504/article/1)
+[^c-a3748ac6595bdbe70cea144ddf761a49]: Commencement: Sch. Pt. II in operation at 1.1.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2006/504/article/1)

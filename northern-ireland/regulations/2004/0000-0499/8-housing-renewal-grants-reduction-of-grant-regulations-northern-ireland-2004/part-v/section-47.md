@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Treatment of student loans[^key-b815d0fe833b4485e80941e665925069]
+## 47. Treatment of student loans[^c-b815d0fe833b4485e80941e665925069]
 
 *Extent: N.I.*
 
@@ -70,6 +70,6 @@ whether or not any such costs are incurred.
 
 ## Annotations
 
-[^key-b815d0fe833b4485e80941e665925069]: Commencement: Reg. 47 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-b815d0fe833b4485e80941e665925069]: Commencement: Reg. 47 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00106]: Footnote: [S.I. 2002/3200](https://www.legislation.gov.uk/uksi/2002/3200)

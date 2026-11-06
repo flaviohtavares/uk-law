@@ -54,7 +54,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 These Regulations may be cited as the Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020 and come into operation on 28th March 2020.
 
-## 2. Suspension of waiting days[^key-57730199f4380e90a22561a310101325]
+## 2. Suspension of waiting days[^c-57730199f4380e90a22561a310101325]
 
 (1) Section 151(1) (limitations on entitlement) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (the 1992 Act) does not apply in relation to an employee where—
 
@@ -68,11 +68,11 @@ These Regulations may be cited as the Statutory Sick Pay (Coronavirus) (Suspensi
 - (a) “**period of incapacity for work**” has the meaning given by section 148 of the 1992 Act;
 - (b) a period of incapacity for work is related to coronavirus if the employee is—
   - (i) incapable by reason of infection or contamination with coronavirus, or
-  - (ii) deemed, in accordance with regulation 2(1)(c) or (d)[^key-0cfa5aba5441ed1fc91fc2dcf91535fe] of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 [^c24045411] to be incapable by reason of coronavirus,
+  - (ii) deemed, in accordance with regulation 2(1)(c) or (d)[^c-0cfa5aba5441ed1fc91fc2dcf91535fe] of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 [^c24045411] to be incapable by reason of coronavirus,
 
   of doing work which the employee can reasonably be expected to do under the employee's contract of service.
 
-(4) The reference to 2(1)(c) or (d)[^key-fb379c421558acbe0682ddd428582651] in paragraph (3)(b) above is a reference to the regulation which was in force on the first day of incapacity for work in question.
+(4) The reference to 2(1)(c) or (d)[^c-fb379c421558acbe0682ddd428582651] in paragraph (3)(b) above is a reference to the regulation which was in force on the first day of incapacity for work in question.
 
 ## 3. Amendment of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982
 
@@ -145,13 +145,13 @@ No regulatory impact assessment has been produced for these Regulations in view 
 
 [^c24045401]: Marginal citation: [Article 4(1)](https://www.legislation.gov.uk/nisr/2020/54/article/4/1) was amended by Article 4(2)(a) of the [Welfare Reform and Work (Northern Ireland) Order 2016 (S.I.2016/999 (N.I. 1))](https://www.legislation.gov.uk/nisi/2016/999)
 
-[^key-57730199f4380e90a22561a310101325]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/54/regulation/2) continued (with modifications) for specified purposes (25.9.2022) by [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days) (Saving Provision) (Northern Ireland) Regulations 2022 (S.I. 2022/987)](https://www.legislation.gov.uk/uksi/2022/987), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/987/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/987/regulation/2)
+[^c-57730199f4380e90a22561a310101325]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/54/regulation/2) continued (with modifications) for specified purposes (25.9.2022) by [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days) (Saving Provision) (Northern Ireland) Regulations 2022 (S.I. 2022/987)](https://www.legislation.gov.uk/uksi/2022/987), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/987/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/987/regulation/2)
 
-[^key-0cfa5aba5441ed1fc91fc2dcf91535fe]: Textual amendment: Words in reg. 2(3)(b)(ii) inserted (6.7.2020) by [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) (No.2) Regulations (Northern Ireland) 2020 (S.R. 2020/134)](https://www.legislation.gov.uk/nisr/2020/134), [regs. 1](https://www.legislation.gov.uk/nisr/2020/134/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/134/regulation/3)
+[^c-0cfa5aba5441ed1fc91fc2dcf91535fe]: Textual amendment: Words in reg. 2(3)(b)(ii) inserted (6.7.2020) by [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) (No.2) Regulations (Northern Ireland) 2020 (S.R. 2020/134)](https://www.legislation.gov.uk/nisr/2020/134), [regs. 1](https://www.legislation.gov.uk/nisr/2020/134/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/134/regulation/3)
 
 [^c24045411]: Marginal citation: S.R. [1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263). Regulation 2(1)(c) was inserted by regulation 2(2)(c) of S.R. [2020 No. 32](https://www.legislation.gov.uk/nisr/2020/32) and amended by regulation 2(2)(b) of S.R. [2020 No. 37](https://www.legislation.gov.uk/nisr/2020/37)
 
-[^key-fb379c421558acbe0682ddd428582651]: Textual amendment: Words in reg. 2(4) inserted (6.7.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) (No.2) Regulations (Northern Ireland) 2020 (S.R. 2020/134)](https://www.legislation.gov.uk/nisr/2020/134), [regs. 1](https://www.legislation.gov.uk/nisr/2020/134/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/134/regulation/3)
+[^c-fb379c421558acbe0682ddd428582651]: Textual amendment: Words in reg. 2(4) inserted (6.7.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) (No.2) Regulations (Northern Ireland) 2020 (S.R. 2020/134)](https://www.legislation.gov.uk/nisr/2020/134), [regs. 1](https://www.legislation.gov.uk/nisr/2020/134/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/134/regulation/3)
 
 [^c24045421]: Marginal citation: S.R.[2020 No.32](https://www.legislation.gov.uk/nisr/2020/32)
 

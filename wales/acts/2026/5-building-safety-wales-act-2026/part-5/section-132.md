@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Giving documents to a person whose name is unknown[^key-e71743e7fb9be5b663f5115600b60948]
+## 132. Giving documents to a person whose name is unknown[^c-e71743e7fb9be5b663f5115600b60948]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ the document may be given by addressing it to the person in accordance with subs
 
 ## Annotations
 
-[^key-e71743e7fb9be5b663f5115600b60948]: Commencement: S. 132 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e71743e7fb9be5b663f5115600b60948]: Commencement: S. 132 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

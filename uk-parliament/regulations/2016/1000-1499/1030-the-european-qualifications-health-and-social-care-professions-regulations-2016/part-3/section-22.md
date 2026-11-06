@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Insertion of articles 11ZZA and 11ZZB[^key-ff00f1208226b8c9b19050a6ac5edd8f]
+## 22. Insertion of articles 11ZZA and 11ZZB[^c-ff00f1208226b8c9b19050a6ac5edd8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ After article 11 (evidence of qualification to be registered), insert[^f00021]â€
 
 ## Annotations
 
-[^key-ff00f1208226b8c9b19050a6ac5edd8f]: Commencement: Reg. 22 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ff00f1208226b8c9b19050a6ac5edd8f]: Commencement: Reg. 22 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00021]: Footnote: Article 11 was amended by [S.R. (N.I.) 2008 No. 192](https://www.legislation.gov.uk/nisr/2008/192) and [2012 No. 308](https://www.legislation.gov.uk/nisr/2012/308); article 11ZA was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Disposal of property retained by Scottish Ministers under section 43[^key-41fc56e9a1bcb7885a373ad41692ed06]
+## 45. Disposal of property retained by Scottish Ministers under section 43[^c-41fc56e9a1bcb7885a373ad41692ed06]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41fc56e9a1bcb7885a373ad41692ed06]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2013/7/section/45) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-41fc56e9a1bcb7885a373ad41692ed06]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2013/7/section/45) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

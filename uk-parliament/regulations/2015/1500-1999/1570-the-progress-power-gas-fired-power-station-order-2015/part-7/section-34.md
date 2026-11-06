@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Cases in which land is to be treated as not being operational land[^key-003a6844e95724f98321cb34ee9f880a]
+## 34. Cases in which land is to be treated as not being operational land[^c-003a6844e95724f98321cb34ee9f880a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order insofar as it relates to numbered work
 
 ## Annotations
 
-[^key-003a6844e95724f98321cb34ee9f880a]: Commencement: Art. 34 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-003a6844e95724f98321cb34ee9f880a]: Commencement: Art. 34 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

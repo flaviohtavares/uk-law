@@ -131,7 +131,7 @@ In regulation 3 of the Devices Regulations[^f00017] (fees)—
 - (e) in paragraph (5)(a), for “£29,326” there shall be substituted “£30,972”; and
 - (f) in paragraph (5)(b), for “£7,324” there shall be substituted “£7,690”.
 
-## 5. Amendment of the General Fees Regulations[^key-735acfb3a25c664f66e7adc071151a1e]
+## 5. Amendment of the General Fees Regulations[^c-735acfb3a25c664f66e7adc071151a1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -163,7 +163,7 @@ Jim Dowd
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## SCHEDULE[^key-bb807ed1bc85cda742a6440043aeda3d]
+## SCHEDULE[^c-bb807ed1bc85cda742a6440043aeda3d]
 
 **No longer in force.**
 
@@ -223,9 +223,9 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00017]: Footnote: As amended by regulation 3 of S.I. [2000/592](https://www.legislation.gov.uk/uksi/2000/592).
 
-[^key-735acfb3a25c664f66e7adc071151a1e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/795/regulation/5) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-735acfb3a25c664f66e7adc071151a1e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/795/regulation/5) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
-[^key-bb807ed1bc85cda742a6440043aeda3d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2001/795/schedule) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-bb807ed1bc85cda742a6440043aeda3d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2001/795/schedule) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
 [^f00027]: Footnote: OJ No. L22, 9.2.1965, p.369.
 

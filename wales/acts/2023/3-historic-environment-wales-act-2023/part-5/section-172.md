@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. Fees for appeals[^key-9a47099fe487c9a61383caacb73b80f7][^key-f567ce857b2a8a2390e0d191b2910602]
+## 172. Fees for appeals[^c-9a47099fe487c9a61383caacb73b80f7][^c-f567ce857b2a8a2390e0d191b2910602]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a47099fe487c9a61383caacb73b80f7]: Commencement: S. 172 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-9a47099fe487c9a61383caacb73b80f7]: Commencement: S. 172 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f567ce857b2a8a2390e0d191b2910602]: Commencement: [S. 172](https://www.legislation.gov.uk/asc/2023/3/section/172) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-f567ce857b2a8a2390e0d191b2910602]: Commencement: [S. 172](https://www.legislation.gov.uk/asc/2023/3/section/172) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

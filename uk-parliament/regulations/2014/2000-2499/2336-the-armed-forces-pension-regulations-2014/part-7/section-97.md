@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Members seconded to NATO or the UN etc[^key-ba26f530bfdcb0ef69ad4d245cf040c8]
+## 97. Members seconded to NATO or the UN etc[^c-ba26f530bfdcb0ef69ad4d245cf040c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,10 +38,10 @@ the member is entitled to count the amount as being equal to their earned pensio
 
 (5) If the aggregate amount mentioned in paragraph (4) is less than the amount determined by the scheme manager after consultation with the scheme actuary to be the amount required to be paid in order to preserve the earned pension benefits under paragraph (2), the Secretary of State must make a contribution to the scheme equal to the difference.
 
-(6)[^key-2f7c1498b76c936e6edbfbb2bbd4dbbe] This regulation is subject to regulation 97A.
+(6)[^c-2f7c1498b76c936e6edbfbb2bbd4dbbe] This regulation is subject to regulation 97A.
 
 ## Annotations
 
-[^key-ba26f530bfdcb0ef69ad4d245cf040c8]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2014/2336/regulation/97) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-ba26f530bfdcb0ef69ad4d245cf040c8]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2014/2336/regulation/97) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-2f7c1498b76c936e6edbfbb2bbd4dbbe]: Textual amendment: [Reg. 97(6)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/97/6) inserted (with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/5) (with [reg. 8(7)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/7))
+[^c-2f7c1498b76c936e6edbfbb2bbd4dbbe]: Textual amendment: [Reg. 97(6)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/97/6) inserted (with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/5) (with [reg. 8(7)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/7))

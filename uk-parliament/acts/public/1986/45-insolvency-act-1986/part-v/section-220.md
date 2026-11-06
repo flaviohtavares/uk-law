@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Meaning of “unregistered company”.[^key-846842bc91162606080fa04df936480f][^c15574532][^c15574511][^c20453041]
+## 220. Meaning of “unregistered company”.[^c-846842bc91162606080fa04df936480f][^c15574532][^c15574511][^c20453041]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ For the purposes of this Part “**unregistered company**” includes any associ
 
 ## Annotations
 
-[^key-846842bc91162606080fa04df936480f]: Modification: S. 220 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-846842bc91162606080fa04df936480f]: Modification: S. 220 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
 [^c15574532]: Modification: S. 220 applied (with modifications) (1.12.1994) by [S.I. 1994/2124](https://www.legislation.gov.uk/uksi/1994/2124), [arts. 8](https://www.legislation.gov.uk/uksi/1994/2124/article/8), [10(1)(b)](https://www.legislation.gov.uk/uksi/1994/2124/article/10/1/b), [Sch. 4 Pt. I paras. 1(1)](https://www.legislation.gov.uk/uksi/1994/2124/schedule/4/part/I/paragraph/1/1), [2](https://www.legislation.gov.uk/uksi/1994/2124/schedule/4/part/I/paragraph/2)
 

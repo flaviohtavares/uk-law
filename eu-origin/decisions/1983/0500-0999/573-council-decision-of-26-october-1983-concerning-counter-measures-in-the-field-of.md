@@ -35,20 +35,20 @@ concerning counter-measures in the field of international merchant shipping
 
 (83/573/EEC) (revoked)
 
-[^key-2fa311d38dbea43115f060957e8d4819]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa311d38dbea43115f060957e8d4819]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2fa311d38dbea43115f060957e8d4819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fa311d38dbea43115f060957e8d4819]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa311d38dbea43115f060957e8d4819]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fa311d38dbea43115f060957e8d4819]: Textual amendment: Decision revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/488/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fa311d38dbea43115f060957e8d4819]: Textual amendment: Decision revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/488/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

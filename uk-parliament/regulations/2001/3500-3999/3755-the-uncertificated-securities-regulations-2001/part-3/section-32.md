@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Conversion of securities into certificated form[^key-0c82e71af1a7857b1161e77a5fe824d7]
+## 32. Conversion of securities into certificated form[^c-0c82e71af1a7857b1161e77a5fe824d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,21 +50,21 @@ summary: ''
 
 the relevant participating issuer shall, where the terms of issue of the security in question provide for a certificate to be issued, issue a certificate in respect of the units of the security to the relevant person.
 
-(8) Subsection (1) of section 776 of the[^key-3b14722d5d9cb6fdd756ac321d7ee041] 2006 Act shall apply in relation to the issue of a certificate by a participating issuer pursuant to paragraph (7) as it applies in relation to the completion and having ready for delivery by a company of share certificates, debentures or certificates of debenture stock; and in that subsection as it so applies the reference to the date on which a transfer is lodged with the company shall be a reference to the date on which the participating issuer receives the relevant rematerialisation notice in accordance with this regulation, or the relevant Operator-instruction in accordance with regulation 27(7).
+(8) Subsection (1) of section 776 of the[^c-3b14722d5d9cb6fdd756ac321d7ee041] 2006 Act shall apply in relation to the issue of a certificate by a participating issuer pursuant to paragraph (7) as it applies in relation to the completion and having ready for delivery by a company of share certificates, debentures or certificates of debenture stock; and in that subsection as it so applies the reference to the date on which a transfer is lodged with the company shall be a reference to the date on which the participating issuer receives the relevant rematerialisation notice in accordance with this regulation, or the relevant Operator-instruction in accordance with regulation 27(7).
 
-(9) Such sanctions as apply to a company and its officers in the event of a default in complying with subsections (1) and (2) of section 771 of the[^key-dfd6e1922d6c1a7423cbb57913975f67] 2006 Act shall apply—
+(9) Such sanctions as apply to a company and its officers in the event of a default in complying with subsections (1) and (2) of section 771 of the[^c-dfd6e1922d6c1a7423cbb57913975f67] 2006 Act shall apply—
 
 - (a) to an Operator and his officers in the event of a default in complying with paragraph (4); and
 - (b) to a participating issuer and his officers in the event of a default in complying with paragraph (5).
 
-(10) Such sanctions as apply to a company and its officers in the event of a default in complying with subsection (1) of section 776 of the[^key-969b6eec27cf22d1f2e724fbd3169b57] 2006 Act shall apply to a participating issuer and his officers in the event of a default in complying with paragraph (7) in accordance with the requirements laid down in paragraph (8).
+(10) Such sanctions as apply to a company and its officers in the event of a default in complying with subsection (1) of section 776 of the[^c-969b6eec27cf22d1f2e724fbd3169b57] 2006 Act shall apply to a participating issuer and his officers in the event of a default in complying with paragraph (7) in accordance with the requirements laid down in paragraph (8).
 
 ## Annotations
 
-[^key-0c82e71af1a7857b1161e77a5fe824d7]: Commencement: Reg. 32 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-0c82e71af1a7857b1161e77a5fe824d7]: Commencement: Reg. 32 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-3b14722d5d9cb6fdd756ac321d7ee041]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/32/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/14/a)
+[^c-3b14722d5d9cb6fdd756ac321d7ee041]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/32/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/14/a)
 
-[^key-dfd6e1922d6c1a7423cbb57913975f67]: Textual amendment: Words in [reg. 32(9)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/32/9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/14/b)
+[^c-dfd6e1922d6c1a7423cbb57913975f67]: Textual amendment: Words in [reg. 32(9)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/32/9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/14/b)
 
-[^key-969b6eec27cf22d1f2e724fbd3169b57]: Textual amendment: Words in [reg. 32(10)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/32/10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/14/c)
+[^c-969b6eec27cf22d1f2e724fbd3169b57]: Textual amendment: Words in [reg. 32(10)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/32/10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/14/c)

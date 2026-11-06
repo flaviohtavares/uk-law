@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 109. Legal Services Act 2007[^key-faf942963f3d044d072c9e23f5859e87][^key-70803ef2a6b3e6ca0c46b0df41384f7e]
+## 109. Legal Services Act 2007[^c-faf942963f3d044d072c9e23f5859e87][^c-70803ef2a6b3e6ca0c46b0df41384f7e]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-faf942963f3d044d072c9e23f5859e87]: Commencement: Art. 109 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-faf942963f3d044d072c9e23f5859e87]: Commencement: Art. 109 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-70803ef2a6b3e6ca0c46b0df41384f7e]: Commencement: Art. 109 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-70803ef2a6b3e6ca0c46b0df41384f7e]: Commencement: Art. 109 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

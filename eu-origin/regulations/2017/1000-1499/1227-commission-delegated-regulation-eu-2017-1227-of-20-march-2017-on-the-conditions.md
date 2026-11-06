@@ -69,7 +69,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 3.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-2998fb248fcd8fd19133e836540aa66e]This Regulation shall be binding in its entirety and directly applicable in all Member States.
+[^c-2998fb248fcd8fd19133e836540aa66e]This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 20 March 2017.
 
@@ -103,7 +103,7 @@ Jean-Claude Juncker
 
 [^f00003]: Footnote: Commission Decision 2005/610/EC of 9 August 2005 establishing the classes of reaction-to-fire performance of certain construction products ([OJ L 208, 11.8.2005, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.208.01.0021.01.ENG)).
 
-[^key-2998fb248fcd8fd19133e836540aa66e]: Modification: [Signature](https://www.legislation.gov.uk/eur/2017/1227/signature) modified (E.W.S.) (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/9) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(l)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/l)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2998fb248fcd8fd19133e836540aa66e]: Modification: [Signature](https://www.legislation.gov.uk/eur/2017/1227/signature) modified (E.W.S.) (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/9) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(l)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/l)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Applies to all species and glues covered by the product standards.
 

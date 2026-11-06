@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Amendments to procedure for determining applications for registration and objections without a hearing[^key-f3081ba8ce65a27547aa6d1db78500fb]
+## 9. Amendments to procedure for determining applications for registration and objections without a hearing[^c-f3081ba8ce65a27547aa6d1db78500fb]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3081ba8ce65a27547aa6d1db78500fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/2910/regulation/9) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-f3081ba8ce65a27547aa6d1db78500fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/2910/regulation/9) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00011]: Footnote: [1985 c. 50](https://www.legislation.gov.uk/ukpga/1985/50); section 2 was substituted by paragraph 3 of Schedule 2 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2).

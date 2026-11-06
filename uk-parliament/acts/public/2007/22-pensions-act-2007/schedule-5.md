@@ -24,9 +24,9 @@ Section 17
 
 ### Bankruptcy (Scotland) Act 1985 (c. 66)
 
-**1.**[^key-c044ddf36de6a819a4053c55d267ee23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c044ddf36de6a819a4053c55d267ee23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f7aa549fecca67dd546b3824d0866374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f7aa549fecca67dd546b3824d0866374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c. 45)
 
@@ -56,6 +56,6 @@ Section 17
 
 ## Annotations
 
-[^key-c044ddf36de6a819a4053c55d267ee23]: Textual amendment: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/5/paragraph/1) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-c044ddf36de6a819a4053c55d267ee23]: Textual amendment: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/5/paragraph/1) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
-[^key-f7aa549fecca67dd546b3824d0866374]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/5/paragraph/2) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-f7aa549fecca67dd546b3824d0866374]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/5/paragraph/2) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)

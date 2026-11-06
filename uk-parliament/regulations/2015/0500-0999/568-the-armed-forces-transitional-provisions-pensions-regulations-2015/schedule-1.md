@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Schedule to be inserted in the Armed Forces Pension Scheme 1975[^key-d45c8fb6b6f8324e4b016a0d91c49b17]
+## SCHEDULE 1 — Schedule to be inserted in the Armed Forces Pension Scheme 1975[^c-d45c8fb6b6f8324e4b016a0d91c49b17]
 
 *Extent: E+W+S+N.I.*
 
@@ -808,7 +808,7 @@ Regulation 8
 
 ## Annotations
 
-[^key-d45c8fb6b6f8324e4b016a0d91c49b17]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-d45c8fb6b6f8324e4b016a0d91c49b17]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 

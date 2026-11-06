@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Proposals for pilots made jointly by the Electoral Commission and principal councils[^key-668c7839752a09e363ca678e17594a1d]
+## 10. Proposals for pilots made jointly by the Electoral Commission and principal councils[^c-668c7839752a09e363ca678e17594a1d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-668c7839752a09e363ca678e17594a1d]: Commencement: S. 10 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-668c7839752a09e363ca678e17594a1d]: Commencement: S. 10 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

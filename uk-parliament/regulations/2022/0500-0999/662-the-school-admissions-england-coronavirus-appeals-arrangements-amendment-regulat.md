@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 94(5) and (5A), 95(3) and (3A) and 138(7) of the School Standards and Framework Act 1998[^f00001].
 
-## 1. Citation, commencement and extent[^key-03dc45c644edb90c2fc8331554b132c2]
+## 1. Citation, commencement and extent[^c-03dc45c644edb90c2fc8331554b132c2]
 
 (1) These Regulations may be cited as the School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 and come into force on 7th July 2022.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendment of the School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020[^key-a8847981d280c6fd7a1939ec33fd0de5]
+## 2. Amendment of the School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020[^c-a8847981d280c6fd7a1939ec33fd0de5]
 
 In paragraph (2) of regulation 3 of the School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020[^f00002], for “on” substitute “at the end of”.
 
@@ -86,8 +86,8 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31); section 94(5) and (5A) were substituted by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 50 and subsection (5A) was amended by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), section 152 and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 95(3) and (3A) were substituted by paragraph 9 of Schedule 4 to the Education Act 2002. Subsection (3A) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 138(7) was amended by paragraph 3 of Schedule 17 to the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40). See the definitions of “prescribed” and “regulations” in section 142.
 
-[^key-03dc45c644edb90c2fc8331554b132c2]: Commencement: Reg. 1 in force at 7.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/662/regulation/1/1)
+[^c-03dc45c644edb90c2fc8331554b132c2]: Commencement: Reg. 1 in force at 7.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/662/regulation/1/1)
 
-[^key-a8847981d280c6fd7a1939ec33fd0de5]: Commencement: Reg. 2 in force at 7.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/662/regulation/1/1)
+[^c-a8847981d280c6fd7a1939ec33fd0de5]: Commencement: Reg. 2 in force at 7.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/662/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2020/446](https://www.legislation.gov.uk/uksi/2020/446), amended by [S.I. 2021/992](https://www.legislation.gov.uk/uksi/2021/992); there is another amending instrument but it is not relevant.

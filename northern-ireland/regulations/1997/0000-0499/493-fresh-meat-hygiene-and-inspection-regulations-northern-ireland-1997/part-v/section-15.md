@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Period of time for keeping an animal in a lairage and removal of an animal from a slaughterhouse[^key-fe37d724ca0eca401a06862723b4bfbf]
+## 15. Period of time for keeping an animal in a lairage and removal of an animal from a slaughterhouse[^c-fe37d724ca0eca401a06862723b4bfbf]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe37d724ca0eca401a06862723b4bfbf]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-fe37d724ca0eca401a06862723b4bfbf]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

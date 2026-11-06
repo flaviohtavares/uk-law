@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Guidance on procurements for health or social care services[^key-641e68cadc3f38dc110d615b777423d9]
+## 13. Guidance on procurements for health or social care services[^c-641e68cadc3f38dc110d615b777423d9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-641e68cadc3f38dc110d615b777423d9]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/12/section/13) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)
+[^c-641e68cadc3f38dc110d615b777423d9]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/12/section/13) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Labelling of dangerous substances and dangerous preparations[^key-5c9f315cec18d0eecbd905f8566c8098]
+## 7. Labelling of dangerous substances and dangerous preparations[^c-5c9f315cec18d0eecbd905f8566c8098]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c9f315cec18d0eecbd905f8566c8098]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/nisr/2009/238/regulation/6) revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-5c9f315cec18d0eecbd905f8566c8098]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/nisr/2009/238/regulation/6) revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

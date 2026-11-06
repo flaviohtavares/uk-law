@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Restriction of existing schemes: savings and transitional provision[^key-e0ab998f0a08f0f86c9505ef19825697][^key-c602da042b65be58a5eb82aec479f855]
+## 89. Restriction of existing schemes: savings and transitional provision[^c-e0ab998f0a08f0f86c9505ef19825697][^c-c602da042b65be58a5eb82aec479f855]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ab998f0a08f0f86c9505ef19825697]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-e0ab998f0a08f0f86c9505ef19825697]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-c602da042b65be58a5eb82aec479f855]: Commencement: S. 89 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-c602da042b65be58a5eb82aec479f855]: Commencement: S. 89 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

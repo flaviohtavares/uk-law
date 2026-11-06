@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Power to stop, board, divert and detain[^c22719391][^key-6474603bc934a20cd4011cf7a4914e82]
+## 100. Power to stop, board, divert and detain[^c22719391][^c-6474603bc934a20cd4011cf7a4914e82]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c22719391]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/3/section/100) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6474603bc934a20cd4011cf7a4914e82]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/3/section/100) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-6474603bc934a20cd4011cf7a4914e82]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/3/section/100) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

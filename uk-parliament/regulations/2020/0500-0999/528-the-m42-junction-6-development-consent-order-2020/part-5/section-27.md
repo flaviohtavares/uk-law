@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Compulsory acquisition of rights and restrictive covenants[^key-6e2cb0740c9dc1216af04aae1f9322cd]
+## 27. Compulsory acquisition of rights and restrictive covenants[^c-6e2cb0740c9dc1216af04aae1f9322cd]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2cb0740c9dc1216af04aae1f9322cd]: Commencement: Art. 27 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-6e2cb0740c9dc1216af04aae1f9322cd]: Commencement: Art. 27 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

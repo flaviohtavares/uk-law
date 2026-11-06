@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Amendments to the Electricity Order[^key-38c3dafd8d387dc9448b62e06bbedce2]
+## 14. Amendments to the Electricity Order[^c-38c3dafd8d387dc9448b62e06bbedce2]
 
 *Extent: N.I.*
 
@@ -97,4 +97,4 @@ For Article 11A (Compliance with Community obligations) of the Electricity Order
 
 ## Annotations
 
-[^key-38c3dafd8d387dc9448b62e06bbedce2]: Commencement: Reg. 14 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-38c3dafd8d387dc9448b62e06bbedce2]: Commencement: Reg. 14 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

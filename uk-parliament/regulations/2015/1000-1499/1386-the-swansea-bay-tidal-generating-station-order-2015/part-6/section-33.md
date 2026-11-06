@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Temporary use of land for carrying out authorised development[^key-5cca1fbfc550fe0214f95286ca4c47cb]
+## 33. Temporary use of land for carrying out authorised development[^c-5cca1fbfc550fe0214f95286ca4c47cb]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (8) The undertaker may not compulsorily acquire under this Order the land referred to in paragraph (1) except that the undertaker is not precluded from—
 
-- (a) acquiring new rights over any part of that land under article 28 (Compulsory acquisition of rights)[^key-fab78fa43f727d1fb0d518ac4c65ac8d]; or
+- (a) acquiring new rights over any part of that land under article 28 (Compulsory acquisition of rights)[^c-fab78fa43f727d1fb0d518ac4c65ac8d]; or
 - (b) acquiring any part of the subsoil (or rights in the subsoil) of that land under article 30 (acquisition of subsoil only).
 
 (9) Where the undertaker takes possession of land under this article, the undertaker is not required to acquire the land or any interest in it.
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5cca1fbfc550fe0214f95286ca4c47cb]: Commencement: Art. 33 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-5cca1fbfc550fe0214f95286ca4c47cb]: Commencement: Art. 33 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-fab78fa43f727d1fb0d518ac4c65ac8d]: Textual amendment: Words in [art. 33(8)(a)](https://www.legislation.gov.uk/uksi/2015/1386/article/33/8/a) inserted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-fab78fa43f727d1fb0d518ac4c65ac8d]: Textual amendment: Words in [art. 33(8)(a)](https://www.legislation.gov.uk/uksi/2015/1386/article/33/8/a) inserted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)

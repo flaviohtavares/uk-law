@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80.[^key-ec07f893d546394df0d962da1fc808c1]
+## 80.[^c-ec07f893d546394df0d962da1fc808c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Paragraph 5 (notice of a final affirmative determination with no recommendation 
 
 ## Annotations
 
-[^key-ec07f893d546394df0d962da1fc808c1]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2019/449/regulation/80) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-ec07f893d546394df0d962da1fc808c1]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2019/449/regulation/80) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

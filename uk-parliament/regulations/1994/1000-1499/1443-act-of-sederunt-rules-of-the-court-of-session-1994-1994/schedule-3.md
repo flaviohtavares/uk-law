@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — AMENDMENT TO ENACTMENT[^key-68c524b681c81ca9ce343b0751e4b7aa]
+## SCHEDULE 3 — AMENDMENT TO ENACTMENT[^c-68c524b681c81ca9ce343b0751e4b7aa]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 4(3) of the Presumption of Death (Scotland) Act 1977 (person having a
 
 ## Annotations
 
-[^key-68c524b681c81ca9ce343b0751e4b7aa]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1994/1443/schedule/3) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-68c524b681c81ca9ce343b0751e4b7aa]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1994/1443/schedule/3) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)

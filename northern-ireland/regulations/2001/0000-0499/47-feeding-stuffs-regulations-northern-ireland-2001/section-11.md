@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Control of additives in feeding stuffs[^key-ddb98be7144ca3e19d90951fc4cc872e]
+## 11. Control of additives in feeding stuffs[^c-ddb98be7144ca3e19d90951fc4cc872e]
 
 *Extent: N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddb98be7144ca3e19d90951fc4cc872e]: Commencement: Reg. 11 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-ddb98be7144ca3e19d90951fc4cc872e]: Commencement: Reg. 11 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00024]: Footnote: Parts I to VIII relate only to additives covered by European Community Directives. Part IX relates only to additives covered by European Community Regulations

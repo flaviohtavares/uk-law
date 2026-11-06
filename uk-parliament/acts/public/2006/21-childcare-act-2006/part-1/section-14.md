@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Inspection[^key-71c7cc3b01b0025f1c22b26153da556f]
+## 14. Inspection[^c-71c7cc3b01b0025f1c22b26153da556f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71c7cc3b01b0025f1c22b26153da556f]: Textual amendment: S. 14 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 109](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/109), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-71c7cc3b01b0025f1c22b26153da556f]: Textual amendment: S. 14 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 109](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/109), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)

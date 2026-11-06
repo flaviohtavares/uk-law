@@ -35,22 +35,22 @@ amending Annex I to Regulation (EC) No 184/2005 of the European Parliament and o
 
 (Text with EEA relevance) (revoked)
 
-[^key-2e7c7c0d9b97ce12ce991deaff210655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e7c7c0d9b97ce12ce991deaff210655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2e7c7c0d9b97ce12ce991deaff210655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2e7c7c0d9b97ce12ce991deaff210655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2e7c7c0d9b97ce12ce991deaff210655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2e7c7c0d9b97ce12ce991deaff210655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e7c7c0d9b97ce12ce991deaff210655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e7c7c0d9b97ce12ce991deaff210655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-2e7c7c0d9b97ce12ce991deaff210655]
+## ANNEX[^c-2e7c7c0d9b97ce12ce991deaff210655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e7c7c0d9b97ce12ce991deaff210655]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/103)
+[^c-2e7c7c0d9b97ce12ce991deaff210655]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/103)

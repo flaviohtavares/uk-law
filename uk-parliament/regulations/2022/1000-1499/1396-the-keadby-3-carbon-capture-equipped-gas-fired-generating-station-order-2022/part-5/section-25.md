@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Modification of Part 1 of the 1965 Act[^key-3708096144d68ef0cb93384902ebc0e8]
+## 25. Modification of Part 1 of the 1965 Act[^c-3708096144d68ef0cb93384902ebc0e8]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3708096144d68ef0cb93384902ebc0e8]: Commencement: Art. 25 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-3708096144d68ef0cb93384902ebc0e8]: Commencement: Art. 25 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00026]: Footnote: Inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

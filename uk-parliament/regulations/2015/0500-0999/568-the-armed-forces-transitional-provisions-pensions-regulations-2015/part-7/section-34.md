@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Insertion of new Schedule into the RFPS Regulations 2005[^key-b90616afa02be7d690365f15d10d03eb]
+## 34. Insertion of new Schedule into the RFPS Regulations 2005[^c-b90616afa02be7d690365f15d10d03eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The RFPS Regulations 2005 are amended by the insertion after Schedule 2 to the n
 
 ## Annotations
 
-[^key-b90616afa02be7d690365f15d10d03eb]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-b90616afa02be7d690365f15d10d03eb]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

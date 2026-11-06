@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person who is disqualified (under Article 109) from fostering a child privately shall not carry on, or be otherwise concerned in the management of, or have any financial interest in, a voluntary home unless he has—
 
-- (a) disclosed to the RQIA[^key-d96f7abc76edacc08cdbe02dd3e8b2ef] the fact that he is so disqualified; and
+- (a) disclosed to the RQIA[^c-d96f7abc76edacc08cdbe02dd3e8b2ef] the fact that he is so disqualified; and
 - (b) obtained its consent[^c17270261] in writing.
 
 (2) No person shall employ a person who is so disqualified in a voluntary home unless he has—
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d96f7abc76edacc08cdbe02dd3e8b2ef]: Textual amendment: Words in Order substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-d96f7abc76edacc08cdbe02dd3e8b2ef]: Textual amendment: Words in Order substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^c17270261]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/nisi/2003)

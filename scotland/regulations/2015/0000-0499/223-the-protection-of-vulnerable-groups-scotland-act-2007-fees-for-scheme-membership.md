@@ -34,7 +34,7 @@ Children And Young Persons
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Fees for Scheme Membership and Disclosure Requests) Amendment Regulations 2015 (revoked)[^key-db5a0cd35f889bc68040f1748024c441]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Fees for Scheme Membership and Disclosure Requests) Amendment Regulations 2015 (revoked)[^c-db5a0cd35f889bc68040f1748024c441]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st July 2015
 
-[^key-db5a0cd35f889bc68040f1748024c441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db5a0cd35f889bc68040f1748024c441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-db5a0cd35f889bc68040f1748024c441]
+## 1. Citation, commencement and interpretation[^c-db5a0cd35f889bc68040f1748024c441]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-db5a0cd35f889bc68040f1748024c441]
+## 2. Amendment of the principal Regulations[^c-db5a0cd35f889bc68040f1748024c441]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Refund of fees for those working in a voluntary and unpaid capacity for a qualifying voluntary organisation that solely provides early learning and childcare[^key-db5a0cd35f889bc68040f1748024c441]
+## 3. Refund of fees for those working in a voluntary and unpaid capacity for a qualifying voluntary organisation that solely provides early learning and childcare[^c-db5a0cd35f889bc68040f1748024c441]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db5a0cd35f889bc68040f1748024c441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db5a0cd35f889bc68040f1748024c441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db5a0cd35f889bc68040f1748024c441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db5a0cd35f889bc68040f1748024c441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db5a0cd35f889bc68040f1748024c441]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/223) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/18) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-db5a0cd35f889bc68040f1748024c441]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/223) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/18) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

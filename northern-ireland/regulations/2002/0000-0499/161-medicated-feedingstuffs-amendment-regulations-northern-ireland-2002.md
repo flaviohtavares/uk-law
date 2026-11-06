@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-Medicated Feedingstuffs (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-eda0d356e8147a255c6893744f06b375]
+Medicated Feedingstuffs (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-eda0d356e8147a255c6893744f06b375]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 25th April 2002
 
-[^key-eda0d356e8147a255c6893744f06b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eda0d356e8147a255c6893744f06b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eda0d356e8147a255c6893744f06b375]
+## 1. Citation and commencement[^c-eda0d356e8147a255c6893744f06b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Medicated Feedingstuffs Regulations 1998[^key-eda0d356e8147a255c6893744f06b375]
+## 2. Amendment of the Medicated Feedingstuffs Regulations 1998[^c-eda0d356e8147a255c6893744f06b375]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eda0d356e8147a255c6893744f06b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eda0d356e8147a255c6893744f06b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-eda0d356e8147a255c6893744f06b375]
+## SCHEDULE[^c-eda0d356e8147a255c6893744f06b375]
 
 Regulation 2
 
-> **SCHEDULE 1 — Fees[^key-eda0d356e8147a255c6893744f06b375]**
+> **SCHEDULE 1 — Fees[^c-eda0d356e8147a255c6893744f06b375]**
 >
 > Regulations 2(1) and 35(1)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eda0d356e8147a255c6893744f06b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eda0d356e8147a255c6893744f06b375]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eda0d356e8147a255c6893744f06b375]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 44(5)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/44/5), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-eda0d356e8147a255c6893744f06b375]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 44(5)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/44/5), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

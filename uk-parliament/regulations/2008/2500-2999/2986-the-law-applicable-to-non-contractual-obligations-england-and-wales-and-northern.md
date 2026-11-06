@@ -49,7 +49,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 The Secretary of State makes these Regulations under the powers conferred by section 2(2) of the European Communities Act 1972[^f00003].
 
-## 1. Citation, commencement and extent[^key-89cdd220d93e50008fdbc240e21c9990]
+## 1. Citation, commencement and extent[^c-89cdd220d93e50008fdbc240e21c9990]
 
 (1) These Regulations may be cited as the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008, and shall come into force on 11th January 2009.
 
@@ -59,7 +59,7 @@ The Secretary of State makes these Regulations under the powers conferred by sec
 
 (4) Otherwise, these Regulations extend to England and Wales and Northern Ireland.
 
-## 2. Restriction on the application of existing choice of law rules in tort cases[^key-5f7968ded4b8afe2815244b711341e0d]
+## 2. Restriction on the application of existing choice of law rules in tort cases[^c-5f7968ded4b8afe2815244b711341e0d]
 
 After section 15 of the Private International Law (Miscellaneous Provisions) Act 1995[^f00004] insert—
 
@@ -73,13 +73,13 @@ After section 15 of the Private International Law (Miscellaneous Provisions) Act
 
 .
 
-**3.**[^key-ce79f18702700f6d97198f52a83aba70] The following shall be inserted at the beginning of section 18(3) of the Private International Law (Miscellaneous Provisions) Act 1995—
+**3.**[^c-ce79f18702700f6d97198f52a83aba70] The following shall be inserted at the beginning of section 18(3) of the Private International Law (Miscellaneous Provisions) Act 1995—
 
 > Except where otherwise provided,
 
 .
 
-**4.**[^key-ac1d73635d73e2081a4f4b1f13fa836c] After section 7 of the Foreign Limitation Periods Act 1984 [^f00006] insert—
+**4.**[^c-ac1d73635d73e2081a4f4b1f13fa836c] After section 7 of the Foreign Limitation Periods Act 1984 [^f00006] insert—
 
 > **8. Disapplication of sections 1, 2 and 4 where the rules in the Rome II Regulation apply**
 >
@@ -89,7 +89,7 @@ After section 15 of the Private International Law (Miscellaneous Provisions) Act
 
 .
 
-**5.**[^key-9f4b613e863ff20a0829a6429668fce2] After Article 8 of the Foreign Limitation Periods (Northern Ireland) Order 1985 [^f00007] insert—
+**5.**[^c-9f4b613e863ff20a0829a6429668fce2] After Article 8 of the Foreign Limitation Periods (Northern Ireland) Order 1985 [^f00007] insert—
 
 > **9. Disapplication where the rules in the Rome II Regulation apply**
 >
@@ -99,9 +99,9 @@ After section 15 of the Private International Law (Miscellaneous Provisions) Act
 
 .
 
-## 6. Application of the Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864)...[^key-98ccda25a2bb3ee70d019ad4019d3b2b][^key-e095ec396da14bfa8e9535daeddea28d]
+## 6. Application of the Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864)...[^c-98ccda25a2bb3ee70d019ad4019d3b2b][^c-e095ec396da14bfa8e9535daeddea28d]
 
-[^key-a74991c9b4ba3b30b771c61bae80abe7]... Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (“Rome II”) , as that Regulation has effect as[^key-a1bea684a0a9a533a2dc70ff4e600ac8] assimilated direct[^key-bc1268c89eae6b0e750dc9eecce78dc2] legislation, shall apply in the case of conflicts between—
+[^c-a74991c9b4ba3b30b771c61bae80abe7]... Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (“Rome II”) , as that Regulation has effect as[^c-a1bea684a0a9a533a2dc70ff4e600ac8] assimilated direct[^c-bc1268c89eae6b0e750dc9eecce78dc2] legislation, shall apply in the case of conflicts between—
 
 - (a) the laws of different parts of the United Kingdom, or
 - (b) between the laws of one or more parts of the United Kingdom and Gibraltar,
@@ -134,30 +134,30 @@ The second purpose involves extending the application of the Regulation to certa
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-89cdd220d93e50008fdbc240e21c9990]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
+[^c-89cdd220d93e50008fdbc240e21c9990]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
 
-[^key-5f7968ded4b8afe2815244b711341e0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2986/regulation/2) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
+[^c-5f7968ded4b8afe2815244b711341e0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2986/regulation/2) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
 
 [^f00004]: Footnote: [1995 c.42](https://www.legislation.gov.uk/ukpga/1995/42).
 
 [^f00005]: Footnote: OJ No. L 199, 31.7.2007, at p.40.
 
-[^key-ce79f18702700f6d97198f52a83aba70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2986/regulation/3) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
+[^c-ce79f18702700f6d97198f52a83aba70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2986/regulation/3) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
 
-[^key-ac1d73635d73e2081a4f4b1f13fa836c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2986/regulation/4) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
+[^c-ac1d73635d73e2081a4f4b1f13fa836c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2986/regulation/4) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
 
 [^f00006]: Footnote: [1984 c. 16](https://www.legislation.gov.uk/ukpga/1984/16).
 
-[^key-9f4b613e863ff20a0829a6429668fce2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2986/regulation/5) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
+[^c-9f4b613e863ff20a0829a6429668fce2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2986/regulation/5) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
 
 [^f00007]: Footnote: [SI 1985/754 (N.I. 5)](https://www.legislation.gov.uk/nisi/1985/754).
 
-[^key-98ccda25a2bb3ee70d019ad4019d3b2b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
+[^c-98ccda25a2bb3ee70d019ad4019d3b2b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) in force at 11.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1)
 
-[^key-e095ec396da14bfa8e9535daeddea28d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) heading omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e095ec396da14bfa8e9535daeddea28d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) heading omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a74991c9b4ba3b30b771c61bae80abe7]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a74991c9b4ba3b30b771c61bae80abe7]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1bea684a0a9a533a2dc70ff4e600ac8]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) substituted (31.12.2020) by S.I. 2019/834, reg. 5(c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/7))
+[^c-a1bea684a0a9a533a2dc70ff4e600ac8]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) substituted (31.12.2020) by S.I. 2019/834, reg. 5(c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/7))
 
-[^key-bc1268c89eae6b0e750dc9eecce78dc2]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/4/paragraph/1)
+[^c-bc1268c89eae6b0e750dc9eecce78dc2]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2986/regulation/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/4/paragraph/1)

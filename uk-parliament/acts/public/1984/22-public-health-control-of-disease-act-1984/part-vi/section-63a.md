@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63A. Offences by bodies corporate[^key-6a5f29fcb5faeaa98e8cf5ca7e70c8e0]
+## 63A. Offences by bodies corporate[^c-6a5f29fcb5faeaa98e8cf5ca7e70c8e0]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the officer (as well as the body corporate) is guilty of the offence and liable 
 
 ## Annotations
 
-[^key-6a5f29fcb5faeaa98e8cf5ca7e70c8e0]: Textual amendment: Ss. 63A, 63B inserted (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/20); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-6a5f29fcb5faeaa98e8cf5ca7e70c8e0]: Textual amendment: Ss. 63A, 63B inserted (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/20); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))

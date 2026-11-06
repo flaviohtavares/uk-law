@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Repeal of redundant provision[^key-fd11ecf4bc2fdac68fa0b7cb33f2ee76]
+## 216. Repeal of redundant provision[^c-fd11ecf4bc2fdac68fa0b7cb33f2ee76]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 8 of the Agricultural Credits (Scotland) Act 1929 (registration of agric
 
 ## Annotations
 
-[^key-fd11ecf4bc2fdac68fa0b7cb33f2ee76]: Commencement: Art. 216 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fd11ecf4bc2fdac68fa0b7cb33f2ee76]: Commencement: Art. 216 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

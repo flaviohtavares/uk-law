@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Port access or entry for UN designated ships: licensing offences[^key-3773ba76a7057cfcb14683f5764ed91e]
+## 54. Port access or entry for UN designated ships: licensing offences[^c-3773ba76a7057cfcb14683f5764ed91e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a port licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-3773ba76a7057cfcb14683f5764ed91e]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-3773ba76a7057cfcb14683f5764ed91e]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

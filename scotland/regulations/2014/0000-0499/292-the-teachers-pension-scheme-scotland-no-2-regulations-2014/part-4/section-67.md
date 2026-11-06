@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Meaning of “full retirement additional pension”[^key-62ba76b001dd7134c484ebd17cda0b1d]
+## 67. Meaning of “full retirement additional pension”[^c-62ba76b001dd7134c484ebd17cda0b1d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62ba76b001dd7134c484ebd17cda0b1d]: Commencement: [Reg. 67](https://www.legislation.gov.uk/ssi/2014/292/regulation/67) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-62ba76b001dd7134c484ebd17cda0b1d]: Commencement: [Reg. 67](https://www.legislation.gov.uk/ssi/2014/292/regulation/67) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

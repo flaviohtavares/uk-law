@@ -26,12 +26,12 @@ summary: ''
 >
 > An offence under section 21(1), 27(1) or 31(1) of the London Olympic Games and Paralympic Games Act 2006 (unauthorised advertising, trading and ticket-sales).
 
-(2)[^key-7efcafb9e5d88d960f79f97014c2d4eb][^key-60749a2a6cca9a637ef02da90f255e00] A constable in Scotland may arrest without warrant a person who the constable reasonably believes is committing or has committed an offence under section 21(1), 27(1) or 31(1).
+(2)[^c-7efcafb9e5d88d960f79f97014c2d4eb][^c-60749a2a6cca9a637ef02da90f255e00] A constable in Scotland may arrest without warrant a person who the constable reasonably believes is committing or has committed an offence under section 21(1), 27(1) or 31(1).
 
-(3)[^key-7efcafb9e5d88d960f79f97014c2d4eb][^key-60749a2a6cca9a637ef02da90f255e00] Subsection (2) is without prejudice to any power of arrest which is otherwise exercisable by a constable in Scotland.
+(3)[^c-7efcafb9e5d88d960f79f97014c2d4eb][^c-60749a2a6cca9a637ef02da90f255e00] Subsection (2) is without prejudice to any power of arrest which is otherwise exercisable by a constable in Scotland.
 
 ## Annotations
 
-[^key-7efcafb9e5d88d960f79f97014c2d4eb]: Commencement: S. 39(2)(3) in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/2)
+[^c-7efcafb9e5d88d960f79f97014c2d4eb]: Commencement: S. 39(2)(3) in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/2)
 
-[^key-60749a2a6cca9a637ef02da90f255e00]: Commencement: S. 39(2)(3) in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
+[^c-60749a2a6cca9a637ef02da90f255e00]: Commencement: S. 39(2)(3) in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)

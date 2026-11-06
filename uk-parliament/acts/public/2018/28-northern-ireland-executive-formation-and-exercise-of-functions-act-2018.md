@@ -32,62 +32,62 @@ Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (repea
 
 2018 c. 28
 
-[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Executive formation[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+## Executive formation[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
-### 1. Extension of period for Executive formation[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Limited power to further extend period for Executive formation[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 1. Extension of period for Executive formation[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Exercise of departmental functions during period for Executive formation[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
-
-### 3. Exercise of departmental functions during period for Executive formation[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 2. Limited power to further extend period for Executive formation[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Equal rights for people of Northern Ireland[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+## Exercise of departmental functions during period for Executive formation[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+
+### 3. Exercise of departmental functions during period for Executive formation[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Exercise of appointment functions during period while no Executive[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
-
-### 5. NI Ministerial appointment functions: specified offices[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 4. Equal rights for people of Northern Ireland[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Minister of the Crown appointment functions[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+## Exercise of appointment functions during period while no Executive[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+
+### 5. NI Ministerial appointment functions: specified offices[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Joint UK appointment functions etc[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 6. Minister of the Crown appointment functions[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Interpretation of sections 5 to 7[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 7. Joint UK appointment functions etc[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## General[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
-
-### 9. Extent[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 8. Interpretation of sections 5 to 7[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Commencement[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+## General[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+
+### 9. Extent[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Short title[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+### 10. Commencement[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Short title[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40a6cb2ee3e296b2a88d6d07f2cf50ce]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2018/28) repealed (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 7(a)](https://www.legislation.gov.uk/ukpga/2022/2/section/7/a), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-40a6cb2ee3e296b2a88d6d07f2cf50ce]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2018/28) repealed (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 7(a)](https://www.legislation.gov.uk/ukpga/2022/2/section/7/a), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)

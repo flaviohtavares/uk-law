@@ -37,8 +37,8 @@ summary: ''
 
 (7) Where a request under paragraph (1) is duly made, the Committee may accept the transfer value payment and credit it to the pension fund.
 
-(8)[^key-837c57ee6d21d70bfa844ba7f35597ec] Where a relevant transfer is a Club Transfer, the Committee must comply with the provisions in the Club Memorandum in relation to that transfer.
+(8)[^c-837c57ee6d21d70bfa844ba7f35597ec] Where a relevant transfer is a Club Transfer, the Committee must comply with the provisions in the Club Memorandum in relation to that transfer.
 
 ## Annotations
 
-[^key-837c57ee6d21d70bfa844ba7f35597ec]: Textual amendment: [Reg. 112(8)](https://www.legislation.gov.uk/nisr/2014/188/regulation/112/8) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [79](https://www.legislation.gov.uk/nisr/2019/206/regulation/79)
+[^c-837c57ee6d21d70bfa844ba7f35597ec]: Textual amendment: [Reg. 112(8)](https://www.legislation.gov.uk/nisr/2014/188/regulation/112/8) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [79](https://www.legislation.gov.uk/nisr/2019/206/regulation/79)

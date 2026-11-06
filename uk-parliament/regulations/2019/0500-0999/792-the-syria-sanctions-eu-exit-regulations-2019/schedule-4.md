@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 25(1)
 
-### 1. Interception and monitoring equipment[^key-a28720c46b2a2153b5d2a81dbd7ccc9e]
+### 1. Interception and monitoring equipment[^c-a28720c46b2a2153b5d2a81dbd7ccc9e]
 
 Any goods which can perform any of the following functions (whether individually or as part of a system)—
 
@@ -41,13 +41,13 @@ Any goods which can perform any of the following functions (whether individually
 - (m) WEP and WPA code breaking;
 - (n) interception of VoIP (including proprietary and standard protocols).
 
-**2.**[^key-d7f759ec62fa40fb3ade287855413c02] Any software which can perform any of the functions described in paragraph 1(a) to (n) (whether individually or as part of a system).
+**2.**[^c-d7f759ec62fa40fb3ade287855413c02] Any software which can perform any of the functions described in paragraph 1(a) to (n) (whether individually or as part of a system).
 
-### 3. Other software and other technology[^key-2c15bb9887eeacba04a5381378679303]
+### 3. Other software and other technology[^c-2c15bb9887eeacba04a5381378679303]
 
-Any software or other technology which is specially designed for the development, production or use of[^key-da590ebc904e3126ae8ab08e5d9e87f5] any goods or software described in paragraph 1 or 2.
+Any software or other technology which is specially designed for the development, production or use of[^c-da590ebc904e3126ae8ab08e5d9e87f5] any goods or software described in paragraph 1 or 2.
 
-### 4. Interpretation[^key-8f3cfc29219e7e930f222bf38f098fc0]
+### 4. Interpretation[^c-8f3cfc29219e7e930f222bf38f098fc0]
 
 For the purposes of this Schedule, the following terms have the meaning given to them in the Dual-Use Regulation—
 
@@ -57,7 +57,7 @@ For the purposes of this Schedule, the following terms have the meaning given to
 - “technology”;
 - “use”.
 
-### 5. Acronyms and abbreviations used in this Schedule[^key-d47ad72f071052296f692ece7ce48206]
+### 5. Acronyms and abbreviations used in this Schedule[^c-d47ad72f071052296f692ece7ce48206]
 
 The acronyms and abbreviations used in this Schedule have the following meaning—
 
@@ -70,7 +70,7 @@ The acronyms and abbreviations used in this Schedule have the following meaning�
 | SMS | Short Message System |  |
 | GSM | Global System for Mobile Communications |  |
 | GPS | Global Positioning System |  |
-| GPRS | General Packet Radio Service[^key-3a22da8adac4d0bc0acc76bdfb06772d] |  |
+| GPRS | General Packet Radio Service[^c-3a22da8adac4d0bc0acc76bdfb06772d] |  |
 | UMTS | Universal Mobile Telecommunications System |  |
 | CDMA | Code Division Multiple Access |  |
 | PSTN | Public Switch Telephone Networks |  |
@@ -80,23 +80,23 @@ The acronyms and abbreviations used in this Schedule have the following meaning�
 | WEP | Wired Equivalent Privacy |  |
 | WPA | WiFi Protected Access |  |
 | VoIP | Voice over Internet Protocol |  |
-| WCDMA[^key-6799a903bde9d708080a7e75795d7da7] | Wideband Code Division Multiple Access |  |
+| WCDMA[^c-6799a903bde9d708080a7e75795d7da7] | Wideband Code Division Multiple Access |  |
 | IDEN | Integrated Digital Enhanced Network |  |
 
 ## Annotations
 
-[^key-a28720c46b2a2153b5d2a81dbd7ccc9e]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a28720c46b2a2153b5d2a81dbd7ccc9e]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d7f759ec62fa40fb3ade287855413c02]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d7f759ec62fa40fb3ade287855413c02]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-2c15bb9887eeacba04a5381378679303]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2c15bb9887eeacba04a5381378679303]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-da590ebc904e3126ae8ab08e5d9e87f5]: Textual amendment: Words in Sch. 4 para. 3 substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(18)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/18); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-da590ebc904e3126ae8ab08e5d9e87f5]: Textual amendment: Words in Sch. 4 para. 3 substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(18)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/18); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
 
-[^key-8f3cfc29219e7e930f222bf38f098fc0]: Commencement: Sch. 4 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8f3cfc29219e7e930f222bf38f098fc0]: Commencement: Sch. 4 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d47ad72f071052296f692ece7ce48206]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d47ad72f071052296f692ece7ce48206]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3a22da8adac4d0bc0acc76bdfb06772d]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/792/schedule/4/paragraph/5) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/uksi/2022/818/regulation/8/5/a)
+[^c-3a22da8adac4d0bc0acc76bdfb06772d]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/792/schedule/4/paragraph/5) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/uksi/2022/818/regulation/8/5/a)
 
-[^key-6799a903bde9d708080a7e75795d7da7]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/792/schedule/4/paragraph/5) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2022/818/regulation/8/5/b)
+[^c-6799a903bde9d708080a7e75795d7da7]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/792/schedule/4/paragraph/5) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2022/818/regulation/8/5/b)

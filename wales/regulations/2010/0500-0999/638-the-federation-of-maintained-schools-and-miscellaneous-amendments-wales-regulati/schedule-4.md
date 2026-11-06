@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Appointment of partnership governors[^key-58009605ba4ade192104655c676665e0]
+## SCHEDULE 4 — Appointment of partnership governors[^c-58009605ba4ade192104655c676665e0]
 
 *Extent: E+W*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulation 17
 
-**1.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-58009605ba4ade192104655c676665e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-58009605ba4ade192104655c676665e0]: Textual amendment: [Schs. 1-10](https://www.legislation.gov.uk/wsi/2010/638/schedule/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))
+[^c-58009605ba4ade192104655c676665e0]: Textual amendment: [Schs. 1-10](https://www.legislation.gov.uk/wsi/2010/638/schedule/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))

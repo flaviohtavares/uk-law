@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Grounds for applying for modifications: winding up registered schemes[^key-7280a92b10ff8048741cc5105982764a]
+## 69. Grounds for applying for modifications: winding up registered schemes[^c-7280a92b10ff8048741cc5105982764a]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7280a92b10ff8048741cc5105982764a]: Textual amendment: Art. 69 substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 60](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/60)
+[^c-7280a92b10ff8048741cc5105982764a]: Textual amendment: Art. 69 substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 60](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/60)

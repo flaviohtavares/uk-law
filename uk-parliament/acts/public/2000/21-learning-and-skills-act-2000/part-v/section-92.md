@@ -29,8 +29,8 @@ summary: ''
 (4) The listed persons are—
 
 - (a) the Learning and Skills Council for England;
-- (b)[^key-5b608f75992bfd1c180c2938d46c9dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5b608f75992bfd1c180c2938d46c9dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5b608f75992bfd1c180c2938d46c9dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5b608f75992bfd1c180c2938d46c9dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A scheme under this section may include such supplementary, incidental, consequential or transitional provisions as the Secretary of State thinks are appropriate.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c13164671]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-5b608f75992bfd1c180c2938d46c9dfe]: Textual amendment: S. 92(4)(b)(c) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 58(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/58/b), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-5b608f75992bfd1c180c2938d46c9dfe]: Textual amendment: S. 92(4)(b)(c) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 58(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/58/b), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 119. Bulk transfers (transfers of undertakings) etc.[^key-085692c81a3256954d3f775f04659799]
+## 119. Bulk transfers (transfers of undertakings) etc.[^c-085692c81a3256954d3f775f04659799]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-085692c81a3256954d3f775f04659799]: Commencement: Reg. 119 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-085692c81a3256954d3f775f04659799]: Commencement: Reg. 119 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

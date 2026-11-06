@@ -33,7 +33,7 @@ setting up a Community system of reliefs from customs duty
 
 (codified version)
 
-[^key-3eabc8200f0d75e06d961452db8dd40c]
+[^c-3eabc8200f0d75e06d961452db8dd40c]
 
 THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -479,7 +479,7 @@ C. Malmström
 
 ## Annotations
 
-[^key-3eabc8200f0d75e06d961452db8dd40c]: Modification: Regulation excluded (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(a)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/a), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-3eabc8200f0d75e06d961452db8dd40c]: Modification: Regulation excluded (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(a)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/a), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^f00001]: Footnote: Opinion of 24 March 2009 (not yet published in the Official Journal).
 

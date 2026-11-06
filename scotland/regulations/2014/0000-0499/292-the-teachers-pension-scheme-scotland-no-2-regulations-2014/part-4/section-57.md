@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Account to specify opening balance and PIA index adjustment[^key-d8bc61635d61d7fe9c2c67de40265172]
+## 57. Account to specify opening balance and PIA index adjustment[^c-d8bc61635d61d7fe9c2c67de40265172]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8bc61635d61d7fe9c2c67de40265172]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2014/292/regulation/57) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-d8bc61635d61d7fe9c2c67de40265172]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2014/292/regulation/57) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

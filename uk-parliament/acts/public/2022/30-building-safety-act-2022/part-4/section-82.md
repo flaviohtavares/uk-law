@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Duty to display building assessment certificate etc[^key-a34a8d936f440ecea2625f1bc224206a][^key-55660c83ae80c2e08874e366ab8c2229]
+## 82. Duty to display building assessment certificate etc[^c-a34a8d936f440ecea2625f1bc224206a][^c-55660c83ae80c2e08874e366ab8c2229]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ and (in either case) is liable on summary conviction to a further fine not excee
 
 ## Annotations
 
-[^key-a34a8d936f440ecea2625f1bc224206a]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-a34a8d936f440ecea2625f1bc224206a]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-55660c83ae80c2e08874e366ab8c2229]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/30/section/82) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/d)
+[^c-55660c83ae80c2e08874e366ab8c2229]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/30/section/82) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/d)

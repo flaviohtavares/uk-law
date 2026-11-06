@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Withdrawal and amendments etc. of application[^key-4127d9a1e3220ea62d080554795ec07e]
+## 34. Withdrawal and amendments etc. of application[^c-4127d9a1e3220ea62d080554795ec07e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4127d9a1e3220ea62d080554795ec07e]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2012/5/section/34) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-4127d9a1e3220ea62d080554795ec07e]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2012/5/section/34) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

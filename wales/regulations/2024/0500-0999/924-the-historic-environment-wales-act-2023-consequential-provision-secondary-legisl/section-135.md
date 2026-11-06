@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. The Conservation of Habitats and Species Regulations 2017[^key-e274787316cd82ce87bddba065f2068f]
+## 135. The Conservation of Habitats and Species Regulations 2017[^c-e274787316cd82ce87bddba065f2068f]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In regulation 70(1)(h) of the Conservation of Habitats and Species Regulations 2
 
 ## Annotations
 
-[^key-e274787316cd82ce87bddba065f2068f]: Commencement: [Reg. 135](https://www.legislation.gov.uk/wsi/2024/924/regulation/135) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-e274787316cd82ce87bddba065f2068f]: Commencement: [Reg. 135](https://www.legislation.gov.uk/wsi/2024/924/regulation/135) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00056]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), to which there are amendments not relevant to these Regulations.

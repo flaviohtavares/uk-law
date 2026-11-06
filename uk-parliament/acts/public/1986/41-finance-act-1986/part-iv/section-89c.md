@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89C. Section 87: UK listing relief[^key-07f4e107269062490f5f82b1d3b6991c]
+## 89C. Section 87: UK listing relief[^c-07f4e107269062490f5f82b1d3b6991c]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ if none of the following exclusions apply.
 
 ## Annotations
 
-[^key-07f4e107269062490f5f82b1d3b6991c]: Textual amendment: S. 89C inserted (with effect in accordance with s. 85(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 85](https://www.legislation.gov.uk/ukpga/2026/11/section/85)
+[^c-07f4e107269062490f5f82b1d3b6991c]: Textual amendment: S. 89C inserted (with effect in accordance with s. 85(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 85](https://www.legislation.gov.uk/ukpga/2026/11/section/85)

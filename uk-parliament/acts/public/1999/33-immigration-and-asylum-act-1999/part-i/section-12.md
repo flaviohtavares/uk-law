@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Removal of asylum claimants in other circumstances.[^key-c91cd74a210f84f69174c73bad1a155f]
+## 12. Removal of asylum claimants in other circumstances.[^c-c91cd74a210f84f69174c73bad1a155f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c91cd74a210f84f69174c73bad1a155f]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1999/33/section/12) repealed (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2004/19/section/33/2), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2523/article/3))
+[^c-c91cd74a210f84f69174c73bad1a155f]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1999/33/section/12) repealed (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2004/19/section/33/2), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2523/article/3))

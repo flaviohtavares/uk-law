@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Notice to Bank of England of intention to vacate office[^key-b3e83b3f0fe7858de13a330ee22c6c63]
+## 111. Notice to Bank of England of intention to vacate office[^c-b3e83b3f0fe7858de13a330ee22c6c63]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e83b3f0fe7858de13a330ee22c6c63]: Commencement: Rule 111 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b3e83b3f0fe7858de13a330ee22c6c63]: Commencement: Rule 111 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00046]: Footnote: Rule 4.137 was substituted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

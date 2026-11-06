@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Senedd constituencies[^key-f0bff6b6647497b7c2fd5d80dbe2ef51]
+## 2. Senedd constituencies[^c-f0bff6b6647497b7c2fd5d80dbe2ef51]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0bff6b6647497b7c2fd5d80dbe2ef51]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2006/32/section/2) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 2(1)](https://www.legislation.gov.uk/asc/2024/4/section/2/1), [25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-f0bff6b6647497b7c2fd5d80dbe2ef51]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2006/32/section/2) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 2(1)](https://www.legislation.gov.uk/asc/2024/4/section/2/1), [25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))

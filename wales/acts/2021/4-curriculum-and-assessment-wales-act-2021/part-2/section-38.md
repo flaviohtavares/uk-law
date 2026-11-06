@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Development work and experiments[^key-e54cd432ae352d3339831aec087c07fe][^key-e8f6be772e75626ed76ba1fda7ec7b8c][^key-867d5e88b97d143ba2a3b3b4d5ab0d1b][^key-9d9ec126d3dfb65b0129285729a9e6ee][^key-a2a957abcf0f685b5e1e14686521a7be]
+## 38. Development work and experiments[^c-e54cd432ae352d3339831aec087c07fe][^c-e8f6be772e75626ed76ba1fda7ec7b8c][^c-867d5e88b97d143ba2a3b3b4d5ab0d1b][^c-9d9ec126d3dfb65b0129285729a9e6ee][^c-a2a957abcf0f685b5e1e14686521a7be]
 
 *Extent: E+W*
 
@@ -66,12 +66,12 @@ to report to the Welsh Ministers on any matters specified in the direction at ti
 
 ## Annotations
 
-[^key-e54cd432ae352d3339831aec087c07fe]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-e54cd432ae352d3339831aec087c07fe]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-e8f6be772e75626ed76ba1fda7ec7b8c]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
+[^c-e8f6be772e75626ed76ba1fda7ec7b8c]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
 
-[^key-867d5e88b97d143ba2a3b3b4d5ab0d1b]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
+[^c-867d5e88b97d143ba2a3b3b4d5ab0d1b]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
 
-[^key-9d9ec126d3dfb65b0129285729a9e6ee]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-9d9ec126d3dfb65b0129285729a9e6ee]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-a2a957abcf0f685b5e1e14686521a7be]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-a2a957abcf0f685b5e1e14686521a7be]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2021/4/section/38) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

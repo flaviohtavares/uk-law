@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43.[^key-92f85f5ac9df9cb120d835c82c6614ec]
+## 43.[^c-92f85f5ac9df9cb120d835c82c6614ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ In section 16 (grants to bodies concerned with accounting standards etc)—
 
 ## Annotations
 
-[^key-92f85f5ac9df9cb120d835c82c6614ec]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-92f85f5ac9df9cb120d835c82c6614ec]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586821]: Marginal citation: Sub-section (2)(ea) was inserted by paragraph 1(3) of Schedule 5 to [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649).
 

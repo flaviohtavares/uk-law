@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 533. Qualifications of contractors[^key-6c993db5bc327e2b959950e8501f8659]
+## 533. Qualifications of contractors[^c-6c993db5bc327e2b959950e8501f8659]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ For article 9 of the Local Authorities (Contracting Out of Investment Functions)
 
 ## Annotations
 
-[^key-6c993db5bc327e2b959950e8501f8659]: Commencement: Art. 533 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6c993db5bc327e2b959950e8501f8659]: Commencement: Art. 533 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

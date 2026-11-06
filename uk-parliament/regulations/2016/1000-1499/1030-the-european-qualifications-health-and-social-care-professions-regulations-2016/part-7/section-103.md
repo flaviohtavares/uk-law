@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Amendment of section 58A[^key-7778311ea9a6ecdf319d4505014678dd]
+## 103. Amendment of section 58A[^c-7778311ea9a6ecdf319d4505014678dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7778311ea9a6ecdf319d4505014678dd]: Commencement: Reg. 103 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-7778311ea9a6ecdf319d4505014678dd]: Commencement: Reg. 103 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00084]: Footnote: Section 58A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and was amended by section 230 of, and Schedule 15 to, the Health and Social Care Act 2012.

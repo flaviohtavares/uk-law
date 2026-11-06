@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Formulae for determination of budget shares etc. for certain maintained schools and early years providers[^key-6e293e5cbca83103ea9104dfccb01cc9]
+## 10. Formulae for determination of budget shares etc. for certain maintained schools and early years providers[^c-6e293e5cbca83103ea9104dfccb01cc9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)
+[^c-6e293e5cbca83103ea9104dfccb01cc9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/66) revoked (except for reg. 45) (1.4.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [reg. 2](https://www.legislation.gov.uk/uksi/2026/37/regulation/2)

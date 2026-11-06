@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Reckoning of service for purposes of awards[^key-a5f11352540ac4b8b399a9de276b2f32]
+## 13. Reckoning of service for purposes of awards[^c-a5f11352540ac4b8b399a9de276b2f32]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f11352540ac4b8b399a9de276b2f32]: Commencement: Reg. 13 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-a5f11352540ac4b8b399a9de276b2f32]: Commencement: Reg. 13 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

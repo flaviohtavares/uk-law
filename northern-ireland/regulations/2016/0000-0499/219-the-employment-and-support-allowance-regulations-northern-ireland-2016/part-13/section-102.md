@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Payment of an employment and support allowance for days of certain treatment[^key-c42e760e51b6c86d093c22375f208d78]
+## 102. Payment of an employment and support allowance for days of certain treatment[^c-c42e760e51b6c86d093c22375f208d78]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c42e760e51b6c86d093c22375f208d78]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2016/219/regulation/102) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-c42e760e51b6c86d093c22375f208d78]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2016/219/regulation/102) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

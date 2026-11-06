@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Age of child complainant[^key-b7f26e38929e3de4903978b34315b5ff]
+## 13. Age of child complainant[^c-b7f26e38929e3de4903978b34315b5ff]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 23 of the Criminal Evidence (Northern Ireland) Order 1999 (child comp
 
 ## Annotations
 
-[^key-b7f26e38929e3de4903978b34315b5ff]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/24/section/13) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/370/article/3/b)
+[^c-b7f26e38929e3de4903978b34315b5ff]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/24/section/13) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/370/article/3/b)

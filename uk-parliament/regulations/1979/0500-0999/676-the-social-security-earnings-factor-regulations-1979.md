@@ -50,15 +50,15 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 (2) In these regulations—
 
 - “**the Act**” means the Social Security Act 1975;
-- [^key-4cfeaf72ccca03d4355723f83492b3e4]...
+- [^c-4cfeaf72ccca03d4355723f83492b3e4]...
 - “**the Contributions Regulations**” means the Social Security (Contributions) Regulations 1979;
 - “**year**” means tax year;
 
 and other expressions have the same meanings as in the Act.
 
-(3)[^key-36be3f97509e81a0ece87b248d47bbb0] In these regulations references to contributions of any class are to contributions actually of that class notwithstanding that for the purposes of any benefit they may be treated as or be deemed to be contributions of another class.
+(3)[^c-36be3f97509e81a0ece87b248d47bbb0] In these regulations references to contributions of any class are to contributions actually of that class notwithstanding that for the purposes of any benefit they may be treated as or be deemed to be contributions of another class.
 
-## 2. Ascertainment of earnings factors[^key-35b1f4efe7a157056cea28d47407d33d]
+## 2. Ascertainment of earnings factors[^c-35b1f4efe7a157056cea28d47407d33d]
 
 (1) The earnings factors derived from a person’s earnings paid in, or from earnings credited or Class 2 or Class 3 contributions in respect of, any year shall, subject to paragraph (2) of this regulation, be ascertained in accordance with the rules contained in Schedule 1 to these Regulations.
 
@@ -66,11 +66,11 @@ and other expressions have the same meanings as in the Act.
 
 ## 3. Evidence of official records
 
-For the purposes of Part III of the Act (determination of claims and questions) a certificate signed by a duly authorised officer of the Department of Social Security[^key-47c09f338057b56fa4c93188dfa5bc0a] , as to the manner in which any contributions paid or treated as having been paid or as not repaid have been or are to be recorded in the records of that Department, shall be sufficient evidence of the facts so certified; and any document purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+For the purposes of Part III of the Act (determination of claims and questions) a certificate signed by a duly authorised officer of the Department of Social Security[^c-47c09f338057b56fa4c93188dfa5bc0a] , as to the manner in which any contributions paid or treated as having been paid or as not repaid have been or are to be recorded in the records of that Department, shall be sufficient evidence of the facts so certified; and any document purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
 
 ## 4. Contributions to be treated as having been paid or as not repaid
 
-For the purposes of paragraph 5[^key-3bcb7dd3ffbb53eddb35ed8c83a3d6fc] of Schedule 1 to these regulations—
+For the purposes of paragraph 5[^c-3bcb7dd3ffbb53eddb35ed8c83a3d6fc] of Schedule 1 to these regulations—
 
 - (a) any contributions which would have been payable by the person in question but for the fact that they are not payable by virtue of regulation 49 of the Contributions Regulations, or
 - (b) any contributions repayable or repaid to him under regulation 32 of those regulations as having been paid in excess of the amount prescribed in regulation 17 of those regulations (annual maximum)
@@ -89,16 +89,16 @@ Secretary of State for Social Services
 
 Regulation 2
 
-### PART I — CLASS 1 CONTRIBUTIONS[^key-185807be0189246daee46218e0bc0471]
+### PART I — CLASS 1 CONTRIBUTIONS[^c-185807be0189246daee46218e0bc0471]
 
 **1.** (1) In this Part of this Schedule—
 
-- “Class 1 contributions” means primary Class 1 contributions paid or treated as paid on so much of a person’s earnings as do not exceed the current upper earnings limit or the prescribed equivalent if he is paid otherwise than weekly;[^key-31405552443d6626c4678bbff1ddc97d]
+- “Class 1 contributions” means primary Class 1 contributions paid or treated as paid on so much of a person’s earnings as do not exceed the current upper earnings limit or the prescribed equivalent if he is paid otherwise than weekly;[^c-31405552443d6626c4678bbff1ddc97d]
 - “contracted-out contributions” means primary Class 1 contributions paid or treated as paid on so much of a person’s earnings in respect of any contracted-out employment as exceed the current lower earnings limit but do not exceed the current upper earnings limit or the prescribed equivalents if he is paid otherwise than weekly;
-- “the standard level” in relation to any year means that year’s lower earnings limit for primary[^key-7190c58c5027679ac6215ea73c55ff0e] Class 1 contributions multiplied by 50; and
+- “the standard level” in relation to any year means that year’s lower earnings limit for primary[^c-7190c58c5027679ac6215ea73c55ff0e] Class 1 contributions multiplied by 50; and
 - each paragraph has effect subject to the provisions of all later paragraphs.
 
-(2) Paragraphs 2, 3 and 4 below shall apply for the purposes specified in section 13(2) of the Act, or section 2(4) of the Pensions Act 2014[^key-5ac683c4528677b75625fd275e34efef], and paragraph 5 below for the purposes of section 35 of the Social Security Pensions Act1975 (earner’s guaranteed minimum).
+(2) Paragraphs 2, 3 and 4 below shall apply for the purposes specified in section 13(2) of the Act, or section 2(4) of the Pensions Act 2014[^c-5ac683c4528677b75625fd275e34efef], and paragraph 5 below for the purposes of section 35 of the Social Security Pensions Act1975 (earner’s guaranteed minimum).
 
 **2.** (1) Subject to sub-paragraph (2) below, a person’s earnings fact or derived in respect of the year commencing on 6th April 1987, or any subsequent year, from—
 
@@ -120,7 +120,7 @@ Regulation 2
   - (i) the qualifying earnings factor, by an amount not exceeding £50, or
   - (ii) the standard level, by an amount not exceeding £50, or
   - (iii) one-half of the standard level, by an amount not exceeding £25,
-- the amount of that earnings factor as so ascertained shall, for the purpose of section 13(2)(a) of the Act, or section 2(4) of the Pensions Act 2014[^key-c60041fdc05e4510a3a250e9f4fe696d] be increased by the amount of the shortfall, and the amount resulting shall be rounded up to the nearest whole pound.
+- the amount of that earnings factor as so ascertained shall, for the purpose of section 13(2)(a) of the Act, or section 2(4) of the Pensions Act 2014[^c-c60041fdc05e4510a3a250e9f4fe696d] be increased by the amount of the shortfall, and the amount resulting shall be rounded up to the nearest whole pound.
 
 **5.** (1) Subject to sub-paragraphs (2) and (3) below, a person’s earnings factor derived in respect of the year commencing on 6th April 1987, or any subsequent year, from those of his earnings in contracted-out employment upon which contracted-out contributions have been paid, or treated as paid, in respect of such year, shall be equal to the amount of those earnings.
 
@@ -156,22 +156,22 @@ The Regulations prescribe rules for deriving from contributions paid, or paid an
 
 [^f00002]: Footnote: *See* section 61(2) of the Social Security Pensions Act 1975 as amended by section 21(4) of, and paragraph 21 of Schedule 3 to, the Social Security Act 1979 (c. 18).
 
-[^key-4cfeaf72ccca03d4355723f83492b3e4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1979/676/regulation/1/2) omitted (6.4.1987) by virtue of [The Social Security (Earnings Factor) Amendment (No. 2) Regulations 1987 (S.I. 1987/411)](https://www.legislation.gov.uk/uksi/1987/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/411/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1987/411/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/1987/411/regulation/3))
+[^c-4cfeaf72ccca03d4355723f83492b3e4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1979/676/regulation/1/2) omitted (6.4.1987) by virtue of [The Social Security (Earnings Factor) Amendment (No. 2) Regulations 1987 (S.I. 1987/411)](https://www.legislation.gov.uk/uksi/1987/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/411/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1987/411/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/1987/411/regulation/3))
 
-[^key-36be3f97509e81a0ece87b248d47bbb0]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1979/676/regulation/1/3) added (6.4.1987) by [The Social Security (Earnings Factor) Amendment (No. 2) Regulations 1987 (S.I. 1987/411)](https://www.legislation.gov.uk/uksi/1987/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/411/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1987/411/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/1987/411/regulation/3))
+[^c-36be3f97509e81a0ece87b248d47bbb0]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1979/676/regulation/1/3) added (6.4.1987) by [The Social Security (Earnings Factor) Amendment (No. 2) Regulations 1987 (S.I. 1987/411)](https://www.legislation.gov.uk/uksi/1987/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/411/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1987/411/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/1987/411/regulation/3))
 
-[^key-35b1f4efe7a157056cea28d47407d33d]: Textual amendment: Reg. 2 substituted (4.4.1988) by [The Social Security (Earnings Factor) Amendment Regulations 1988 (S.I. 1988/429)](https://www.legislation.gov.uk/uksi/1988/429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/429/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1988/429/regulation/2/2)
+[^c-35b1f4efe7a157056cea28d47407d33d]: Textual amendment: Reg. 2 substituted (4.4.1988) by [The Social Security (Earnings Factor) Amendment Regulations 1988 (S.I. 1988/429)](https://www.legislation.gov.uk/uksi/1988/429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/429/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1988/429/regulation/2/2)
 
-[^key-47c09f338057b56fa4c93188dfa5bc0a]: Textual amendment: Words in reg. 3 substituted (28.11.1988) by [The Transfer of Functions (Health and Social Security) Order 1988 (S.I. 1988/1843)](https://www.legislation.gov.uk/uksi/1988/1843), [art. 3(4)](https://www.legislation.gov.uk/uksi/1988/1843/article/3/4), [reg. 1](https://www.legislation.gov.uk/uksi/1988/1843/regulation/1)
+[^c-47c09f338057b56fa4c93188dfa5bc0a]: Textual amendment: Words in reg. 3 substituted (28.11.1988) by [The Transfer of Functions (Health and Social Security) Order 1988 (S.I. 1988/1843)](https://www.legislation.gov.uk/uksi/1988/1843), [art. 3(4)](https://www.legislation.gov.uk/uksi/1988/1843/article/3/4), [reg. 1](https://www.legislation.gov.uk/uksi/1988/1843/regulation/1)
 
-[^key-3bcb7dd3ffbb53eddb35ed8c83a3d6fc]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1979/676/regulation/4) substituted (6.6.1991) by [The Social Security (Earnings Factor) Amendment Regulations 1991 (S.I. 1991/1165)](https://www.legislation.gov.uk/uksi/1991/1165), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1165/regulation/1), [2](https://www.legislation.gov.uk/uksi/1991/1165/regulation/2)
+[^c-3bcb7dd3ffbb53eddb35ed8c83a3d6fc]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1979/676/regulation/4) substituted (6.6.1991) by [The Social Security (Earnings Factor) Amendment Regulations 1991 (S.I. 1991/1165)](https://www.legislation.gov.uk/uksi/1991/1165), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1165/regulation/1), [2](https://www.legislation.gov.uk/uksi/1991/1165/regulation/2)
 
-[^key-185807be0189246daee46218e0bc0471]: Textual amendment: Sch. 1 Pt. I substituted (6.6.1991) by [The Social Security (Earnings Factor) Amendment Regulations 1991 (S.I. 1991/1165)](https://www.legislation.gov.uk/uksi/1991/1165), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1165/regulation/1), [3](https://www.legislation.gov.uk/uksi/1991/1165/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1165/schedule)
+[^c-185807be0189246daee46218e0bc0471]: Textual amendment: Sch. 1 Pt. I substituted (6.6.1991) by [The Social Security (Earnings Factor) Amendment Regulations 1991 (S.I. 1991/1165)](https://www.legislation.gov.uk/uksi/1991/1165), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1165/regulation/1), [3](https://www.legislation.gov.uk/uksi/1991/1165/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1165/schedule)
 
-[^key-31405552443d6626c4678bbff1ddc97d]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (6.4.2003) by [The Social Security (Earnings Factor) Amendment Regulations 2003 (S.I. 2003/608)](https://www.legislation.gov.uk/uksi/2003/608), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/608/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2003/608/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/608/regulation/3))
+[^c-31405552443d6626c4678bbff1ddc97d]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (6.4.2003) by [The Social Security (Earnings Factor) Amendment Regulations 2003 (S.I. 2003/608)](https://www.legislation.gov.uk/uksi/2003/608), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/608/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2003/608/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/608/regulation/3))
 
-[^key-7190c58c5027679ac6215ea73c55ff0e]: Textual amendment: Word in Sch. 1 para. 1(1) inserted (6.4.2003) by [The Social Security (Earnings Factor) Amendment Regulations 2003 (S.I. 2003/608)](https://www.legislation.gov.uk/uksi/2003/608), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/608/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2003/608/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/608/regulation/3))
+[^c-7190c58c5027679ac6215ea73c55ff0e]: Textual amendment: Word in Sch. 1 para. 1(1) inserted (6.4.2003) by [The Social Security (Earnings Factor) Amendment Regulations 2003 (S.I. 2003/608)](https://www.legislation.gov.uk/uksi/2003/608), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/608/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2003/608/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/608/regulation/3))
 
-[^key-5ac683c4528677b75625fd275e34efef]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/1979/676/schedule/1/paragraph/1/2) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [6(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/6/a)
+[^c-5ac683c4528677b75625fd275e34efef]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/1979/676/schedule/1/paragraph/1/2) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [6(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/6/a)
 
-[^key-c60041fdc05e4510a3a250e9f4fe696d]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1979/676/schedule/1/paragraph/4) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/6/b)
+[^c-c60041fdc05e4510a3a250e9f4fe696d]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1979/676/schedule/1/paragraph/4) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/6/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Suspension from detention within hospital grounds[^key-760b324c2a57bde6cd5c9eefd2ea3471]
+## 49. Suspension from detention within hospital grounds[^c-760b324c2a57bde6cd5c9eefd2ea3471]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-760b324c2a57bde6cd5c9eefd2ea3471]: Commencement: S. 49 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-760b324c2a57bde6cd5c9eefd2ea3471]: Commencement: S. 49 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

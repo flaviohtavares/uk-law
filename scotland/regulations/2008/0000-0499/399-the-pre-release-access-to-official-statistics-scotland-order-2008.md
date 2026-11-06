@@ -46,19 +46,19 @@ In accordance with section 11(7) of that Act, they have consulted the Minister f
 
 In accordance with section 65(6)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and extent[^key-406105b3781fd0eab157df7707e628ec]
+## 1. Citation, commencement and extent[^c-406105b3781fd0eab157df7707e628ec]
 
 (1) This Order may be cited as the Pre-release Access to Official Statistics (Scotland) Order 2008, and comes into force on 1st December 2008.
 
 (2) It extends to Scotland only.
 
-## 2. Interpretation[^key-b15c09cac0510aa20cd815bcd16c100e]
+## 2. Interpretation[^c-b15c09cac0510aa20cd815bcd16c100e]
 
 In this Order–
 
 - “the Act” means the Statistics and Registration Service Act 2007;
 - “the Code of Practice” means the Code of Practice for Statistics published under section 10 of the Act;
-- “[^key-ee029ab068fbf161230a67be72d184fd]**economic statistics**”—
+- “[^c-ee029ab068fbf161230a67be72d184fd]**economic statistics**”—
   - (a) includes official statistics concerning devolved and local taxes, local government finance, labour productivity, exports, capital and revenue outturn budget estimates, government expenditure and revenue, oil production and gas production; but
   - (b) does not include statistics produced by the Scottish Ministers in the exercise of a function which is exercisable by them pursuant to an Order made under section 63(1)(a) of the Scotland Act 1998.
 - “market-sensitive statistics” means official statistics which when disclosed would, in the opinion of the person responsible, be reasonably likely to have a significant effect on the value or traded volume of any investment;
@@ -70,7 +70,7 @@ In this Order–
 - “the UK Statistics Authority” means the Statistics Board (Am Bòrd an Staitistig) established under section 1 of the Act; and
 - “working day” means any day other than a Saturday, a Sunday, a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act [1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80), a day appointed for public thanksgiving or mourning, or any other day when the offices of the person responsible are closed.
 
-## 3. Pre-release access – wholly Scottish devolved official statistics[^key-2ca980a83a0244435d3df89271c1970e]
+## 3. Pre-release access – wholly Scottish devolved official statistics[^c-2ca980a83a0244435d3df89271c1970e]
 
 The Schedule sets out rules and principles relating to the granting of pre-release access to official statistics which are wholly Scottish devolved statistics for the purposes of the Code of Practice.
 
@@ -88,7 +88,7 @@ Edinburgh
 
 Article 3
 
-### 1. Scope[^key-7e7f392b713e533d224b533f2af0ba1b]
+### 1. Scope[^c-7e7f392b713e533d224b533f2af0ba1b]
 
 (1) The rules and principles in this Schedule apply to official statistics in their final form prior to publication–
 
@@ -98,7 +98,7 @@ Article 3
 
 (2) Nothing in this Order prevents statistics in their final form from being released to any individual directly responsible for their printing and production if they are only used for those purposes.
 
-### 2. Persons to whom, and circumstances in which, pre-release access may be granted[^key-f6d63f398f8afab0942e57d26d361309]
+### 2. Persons to whom, and circumstances in which, pre-release access may be granted[^c-f6d63f398f8afab0942e57d26d361309]
 
 (1) The person responsible may grant pre-release access to statistics only insofar as that person considers it necessary to–
 
@@ -120,7 +120,7 @@ Article 3
 - (a) to inform the recipient of the ground in sub-paragraph (1) under which access is being granted; and
 - (b) to enforce the requirements and conditions specified in paragraphs 3 and 5.
 
-### 3. Pre-release access restricted to individuals[^key-9c86057964471b26a25347031bab6b3c]
+### 3. Pre-release access restricted to individuals[^c-9c86057964471b26a25347031bab6b3c]
 
 (1) Access granted under paragraph 2(1)(a) to (g) must be restricted to individual ministers, office-holders or officials.
 
@@ -136,11 +136,11 @@ Article 3
 
 (5) In sub-paragraph (3)(b), “in writing” includes an electronic communication within the meaning of the Electronic Communications Act 2000[^f00004] which is recorded and consequently capable of being reproduced.
 
-### 4. Maximum period of access[^key-ac6e1d0570627d9f505dd9eb97eb87ef]
+### 4. Maximum period of access[^c-ac6e1d0570627d9f505dd9eb97eb87ef]
 
 (1) Subject to sub-paragraphs (2) to (5)–
 
-- (a) in the case of market-sensitive statistics or economic statistics[^key-608afb038fa62fb2253727867d3bc380] the maximum period which may be allowed for pre-release access is 1 working day before publication; and
+- (a) in the case of market-sensitive statistics or economic statistics[^c-608afb038fa62fb2253727867d3bc380] the maximum period which may be allowed for pre-release access is 1 working day before publication; and
 - (b) for other official statistics, the maximum period is 5 working days before publication.
 
 (2) For statistics released under paragraph 2(1)(e) there is no maximum period.
@@ -160,7 +160,7 @@ Article 3
 - (d) the ground in paragraph 2(1) under which the increase was granted; and
 - (e) an explanation of why it was necessary to increase the maximum period.
 
-### 4A. Further restrictions on pre-release access[^key-a6e7665a8dd304b2209986c4f4eabf5a]
+### 4A. Further restrictions on pre-release access[^c-a6e7665a8dd304b2209986c4f4eabf5a]
 
 (1) In this paragraph, official statistics on Scotland's gross domestic product and official statistics on Scottish retail sales (whether by volume or value) are referred to as “**excepted statistics**”.
 
@@ -175,7 +175,7 @@ Article 3
 - “**Year 1**” is the period of one year beginning on the day after the Pre-release Access to Official Statistics (Scotland) Act 2021 receives Royal Assent;
 - “**Year 2**” is the period of one year beginning on the day following the end of Year 1.
 
-### 5. Conditions on pre-release access[^key-dedf2cccab154db0e8fbcf1a9ba70f74]
+### 5. Conditions on pre-release access[^c-dedf2cccab154db0e8fbcf1a9ba70f74]
 
 (1) The conditions in sub-paragraphs (2) to (8) apply to any individual given access to official statistics under paragraphs 2 and 3.
 
@@ -196,7 +196,7 @@ Article 3
 
 (8) If the individual identifies errors or wishes to comment on the format, timing or content the individual may communicate that to the person responsible.
 
-### 6. Access to other persons – notification of UK Statistics Authority[^key-183d90216fb64eb70d082a099c7ca032]
+### 6. Access to other persons – notification of UK Statistics Authority[^c-183d90216fb64eb70d082a099c7ca032]
 
 Where access is granted under paragraph 2(1)(h) the person responsible must as soon as practicable notify the UK Statistics Authority of–
 
@@ -205,11 +205,11 @@ Where access is granted under paragraph 2(1)(h) the person responsible must as s
 - (c) the period of time those individuals were given access; and
 - (d) the reason for granting access.
 
-### 7. Breach of the rules and principles[^key-61e78d736844d6ef733bdae053f440c4]
+### 7. Breach of the rules and principles[^c-61e78d736844d6ef733bdae053f440c4]
 
 The person responsible must take into account any record kept of an individual given access not adhering to the rules and principles in this Schedule where subsequently considering granting access to that individual under this Order in relation to any official statistics.
 
-### 8. Record-keeping[^key-d243f137f87c9799e659d6abbe9dcf23]
+### 8. Record-keeping[^c-d243f137f87c9799e659d6abbe9dcf23]
 
 (1) The person responsible must keep a record of–
 
@@ -224,7 +224,7 @@ The person responsible must take into account any record kept of an individual g
 
 (2) The record must be kept for a period of 7 years from the date of publication of the statistics.
 
-### 9. Provision of information[^key-e9fe615c81eac897fbe029659b8627e2]
+### 9. Provision of information[^c-e9fe615c81eac897fbe029659b8627e2]
 
 (1) The person responsible must, on request, provide information about any individual given access under paragraphs 2 and 3, and on the timing of that access.
 
@@ -248,38 +248,38 @@ A Regulatory Impact Assessment has not been produced for this instrument as it h
 
 [^f00002]: Footnote: The Statistics Board (Am Bòrd an Staitistig) is also known as the UK Statistics Authority.
 
-[^key-406105b3781fd0eab157df7707e628ec]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2008/399/article/1) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-406105b3781fd0eab157df7707e628ec]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2008/399/article/1) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-b15c09cac0510aa20cd815bcd16c100e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/399/article/2) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-b15c09cac0510aa20cd815bcd16c100e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/399/article/2) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-ee029ab068fbf161230a67be72d184fd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2008/399/article/2) inserted (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 2(2)](https://www.legislation.gov.uk/asp/2021/11/section/2/2), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
+[^c-ee029ab068fbf161230a67be72d184fd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2008/399/article/2) inserted (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 2(2)](https://www.legislation.gov.uk/asp/2021/11/section/2/2), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
 
 [^f00003]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-2ca980a83a0244435d3df89271c1970e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/399/article/3) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-2ca980a83a0244435d3df89271c1970e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/399/article/3) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-7e7f392b713e533d224b533f2af0ba1b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/1) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-7e7f392b713e533d224b533f2af0ba1b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/1) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-f6d63f398f8afab0942e57d26d361309]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/2) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-f6d63f398f8afab0942e57d26d361309]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/2) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-9c86057964471b26a25347031bab6b3c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/3) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-9c86057964471b26a25347031bab6b3c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/3) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). See s.15(1), amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-ac6e1d0570627d9f505dd9eb97eb87ef]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/4) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-ac6e1d0570627d9f505dd9eb97eb87ef]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/4) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-608afb038fa62fb2253727867d3bc380]: Textual amendment: Words in [sch. para. 4(1)(a)](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/4/1/a) inserted (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 2(3)(a)](https://www.legislation.gov.uk/asp/2021/11/section/2/3/a), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
+[^c-608afb038fa62fb2253727867d3bc380]: Textual amendment: Words in [sch. para. 4(1)(a)](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/4/1/a) inserted (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 2(3)(a)](https://www.legislation.gov.uk/asp/2021/11/section/2/3/a), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
 
-[^key-a6e7665a8dd304b2209986c4f4eabf5a]: Textual amendment: [Sch. para. 4A](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/4A) inserted (22.4.2021) by Pre-release Access to [Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 2(3)(b)](https://www.legislation.gov.uk/asp/2021/11/section/2/3/b), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
+[^c-a6e7665a8dd304b2209986c4f4eabf5a]: Textual amendment: [Sch. para. 4A](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/4A) inserted (22.4.2021) by Pre-release Access to [Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 2(3)(b)](https://www.legislation.gov.uk/asp/2021/11/section/2/3/b), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
 
-[^key-dedf2cccab154db0e8fbcf1a9ba70f74]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/5) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-dedf2cccab154db0e8fbcf1a9ba70f74]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/5) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-183d90216fb64eb70d082a099c7ca032]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/6) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-183d90216fb64eb70d082a099c7ca032]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/6) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-61e78d736844d6ef733bdae053f440c4]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/7) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-61e78d736844d6ef733bdae053f440c4]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/7) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-d243f137f87c9799e659d6abbe9dcf23]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/8) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-d243f137f87c9799e659d6abbe9dcf23]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/8) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
-[^key-e9fe615c81eac897fbe029659b8627e2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/9) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
+[^c-e9fe615c81eac897fbe029659b8627e2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2008/399/schedule/paragraph/9) in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/399/article/1/1)
 
 [^f00005]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).

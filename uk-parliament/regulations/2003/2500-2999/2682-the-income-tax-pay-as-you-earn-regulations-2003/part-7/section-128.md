@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if a determination by the Inland Revenue or the tribunal[^key-0427f7977811fe8cfddbb9eb40b2071b] under regulation 125, 126 or 127 is found to be inappropriate because the actual circumstances are different from the circumstances by reference to which it was made.
+(1) This regulation applies if a determination by the Inland Revenue or the tribunal[^c-0427f7977811fe8cfddbb9eb40b2071b] under regulation 125, 126 or 127 is found to be inappropriate because the actual circumstances are different from the circumstances by reference to which it was made.
 
 (2) The Inland Revenue must amend the determination.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0427f7977811fe8cfddbb9eb40b2071b]: Textual amendment: Word in [reg. 128(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/128/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/109)
+[^c-0427f7977811fe8cfddbb9eb40b2071b]: Textual amendment: Word in [reg. 128(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/128/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/109)

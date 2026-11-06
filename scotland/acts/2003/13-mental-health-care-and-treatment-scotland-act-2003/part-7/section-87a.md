@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87A. Further information where order extended[^key-824c2125a572ee0461113167822a02e0]
+## 87A. Further information where order extended[^c-824c2125a572ee0461113167822a02e0]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-824c2125a572ee0461113167822a02e0]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/asp/2003/13/section/87A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 2(2)](https://www.legislation.gov.uk/asp/2015/9/section/2/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2017/197/article/3))
+[^c-824c2125a572ee0461113167822a02e0]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/asp/2003/13/section/87A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 2(2)](https://www.legislation.gov.uk/asp/2015/9/section/2/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2017/197/article/3))

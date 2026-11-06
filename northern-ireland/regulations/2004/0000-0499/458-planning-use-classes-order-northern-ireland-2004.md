@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-Planning (Use Classes) Order (Northern Ireland) 2004 (revoked)[^key-2933836e5be488811dc6df6fd6a17f48]
+Planning (Use Classes) Order (Northern Ireland) 2004 (revoked)[^c-2933836e5be488811dc6df6fd6a17f48]
 
 Made
 
@@ -41,86 +41,86 @@ Coming into operation
 
 29th November 2004
 
-[^key-2933836e5be488811dc6df6fd6a17f48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2933836e5be488811dc6df6fd6a17f48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2933836e5be488811dc6df6fd6a17f48]
+## 1. Citation and commencement[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2933836e5be488811dc6df6fd6a17f48]
+## 2. Interpretation[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use classes[^key-2933836e5be488811dc6df6fd6a17f48]
+## 3. Use classes[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-2933836e5be488811dc6df6fd6a17f48]
+## 4. Revocations[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2933836e5be488811dc6df6fd6a17f48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2933836e5be488811dc6df6fd6a17f48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2933836e5be488811dc6df6fd6a17f48]
+## SCHEDULE[^c-2933836e5be488811dc6df6fd6a17f48]
 
-### PART A — shopping and financial & professional services[^key-2933836e5be488811dc6df6fd6a17f48]
+### PART A — shopping and financial & professional services[^c-2933836e5be488811dc6df6fd6a17f48]
 
-#### Class A1: Shops[^key-2933836e5be488811dc6df6fd6a17f48]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Class A2: Financial, professional and other services[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class A1: Shops[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — industrial and business uses[^key-2933836e5be488811dc6df6fd6a17f48]
-
-#### Class B1: Business[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class A2: Financial, professional and other services[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class B2: Light Industrial[^key-2933836e5be488811dc6df6fd6a17f48]
+### PART B — industrial and business uses[^c-2933836e5be488811dc6df6fd6a17f48]
+
+#### Class B1: Business[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class B3: General Industrial[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class B2: Light Industrial[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class B4: Storage or distribution[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class B3: General Industrial[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — residential uses[^key-2933836e5be488811dc6df6fd6a17f48]
-
-#### Class C1: Dwellinghouses[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class B4: Storage or distribution[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class C2: Guest houses[^key-2933836e5be488811dc6df6fd6a17f48]
+### PART C — residential uses[^c-2933836e5be488811dc6df6fd6a17f48]
+
+#### Class C1: Dwellinghouses[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class C3: Residential institutions[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class C2: Guest houses[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART D — community, recreation and culture[^key-2933836e5be488811dc6df6fd6a17f48]
-
-#### Class D1: Community and Cultural Uses[^key-2933836e5be488811dc6df6fd6a17f48]
+#### Class C3: Residential institutions[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class D2: Assembly and leisure[^key-2933836e5be488811dc6df6fd6a17f48]
+### PART D — community, recreation and culture[^c-2933836e5be488811dc6df6fd6a17f48]
+
+#### Class D1: Community and Cultural Uses[^c-2933836e5be488811dc6df6fd6a17f48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2933836e5be488811dc6df6fd6a17f48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Class D2: Assembly and leisure[^c-2933836e5be488811dc6df6fd6a17f48]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2933836e5be488811dc6df6fd6a17f48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2933836e5be488811dc6df6fd6a17f48]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/458) revoked (1.4.2015) by [The Planning (Use Classes) Order (Northern Ireland) 2015 (S.R. 2015/40)](https://www.legislation.gov.uk/nisr/2015/40), [art. 4](https://www.legislation.gov.uk/nisr/2015/40/article/4)
+[^c-2933836e5be488811dc6df6fd6a17f48]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/458) revoked (1.4.2015) by [The Planning (Use Classes) Order (Northern Ireland) 2015 (S.R. 2015/40)](https://www.legislation.gov.uk/nisr/2015/40), [art. 4](https://www.legislation.gov.uk/nisr/2015/40/article/4)

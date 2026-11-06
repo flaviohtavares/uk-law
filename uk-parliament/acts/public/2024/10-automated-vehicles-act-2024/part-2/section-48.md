@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Exceptions from immunity[^key-71172eefd28def49ba751ab742657405]
+## 48. Exceptions from immunity[^c-71172eefd28def49ba751ab742657405]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71172eefd28def49ba751ab742657405]: Commencement: S. 48 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-71172eefd28def49ba751ab742657405]: Commencement: S. 48 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 201. Proceedings other than special administration commenced[^key-afb4b6b8bb5f48a68a7fe6b4ee4b9cd7]
+## 201. Proceedings other than special administration commenced[^c-afb4b6b8bb5f48a68a7fe6b4ee4b9cd7]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afb4b6b8bb5f48a68a7fe6b4ee4b9cd7]: Commencement: Rule 201 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-afb4b6b8bb5f48a68a7fe6b4ee4b9cd7]: Commencement: Rule 201 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

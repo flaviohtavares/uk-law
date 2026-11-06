@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Defence in relation to exports[^key-eef9b7dbf67787e84806bd32016118a1]
+## 8. Defence in relation to exports[^c-eef9b7dbf67787e84806bd32016118a1]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In any proceedings for an offence under these Regulations it shall be a defence 
 
 ## Annotations
 
-[^key-eef9b7dbf67787e84806bd32016118a1]: Commencement: Reg. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-eef9b7dbf67787e84806bd32016118a1]: Commencement: Reg. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

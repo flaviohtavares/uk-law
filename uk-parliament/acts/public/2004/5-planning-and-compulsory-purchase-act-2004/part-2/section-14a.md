@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14A. Register of land[^key-367970e60c5880e56466dc6bab4c822f]
+## 14A. Register of land[^c-367970e60c5880e56466dc6bab4c822f]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ In this subsection “**specified**” means specified by the Secretary of State
 
 ## Annotations
 
-[^key-367970e60c5880e56466dc6bab4c822f]: Textual amendment: S. 14A and cross-heading inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 151(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/151/1), [216(1)(d)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/d)
+[^c-367970e60c5880e56466dc6bab4c822f]: Textual amendment: S. 14A and cross-heading inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 151(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/151/1), [216(1)(d)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/d)

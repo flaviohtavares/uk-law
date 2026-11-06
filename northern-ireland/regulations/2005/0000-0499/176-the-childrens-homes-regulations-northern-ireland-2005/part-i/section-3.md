@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Excepted establishments[^key-41491924fa87ad1639afc28f9e78438e]
+## 3. Excepted establishments[^c-41491924fa87ad1639afc28f9e78438e]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-41491924fa87ad1639afc28f9e78438e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/176/regulation/3) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-41491924fa87ad1639afc28f9e78438e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/176/regulation/3) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
 [^f00008]: Footnote: S.I. [1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
 

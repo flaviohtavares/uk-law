@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Arbitration[^key-3e67c7dc36028526086d2bb6da2220eb]
+## 43. Arbitration[^c-3e67c7dc36028526086d2bb6da2220eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-3e67c7dc36028526086d2bb6da2220eb]: Commencement: Art. 43 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-3e67c7dc36028526086d2bb6da2220eb]: Commencement: Art. 43 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

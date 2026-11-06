@@ -34,7 +34,7 @@ An Act to make provision with respect to activities involving human tissue; to m
 
 \[15th November 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c2085723732da552dbb014ec7ad1ba5c]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c2085723732da552dbb014ec7ad1ba5c]
 
 ## Contents
 
@@ -156,4 +156,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-c2085723732da552dbb014ec7ad1ba5c]: Modification: s, 14 extended (Scotland) (with modications) (27.8.2012) by [The Quality and Safety of Organs Intended for Transplantation Regulations 2012 (S.I. 2012/1501)](https://www.legislation.gov.uk/uksi/2012/1501), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/3)[7(1)(a)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/7/1/a)
+[^c-c2085723732da552dbb014ec7ad1ba5c]: Modification: s, 14 extended (Scotland) (with modications) (27.8.2012) by [The Quality and Safety of Organs Intended for Transplantation Regulations 2012 (S.I. 2012/1501)](https://www.legislation.gov.uk/uksi/2012/1501), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/3)[7(1)(a)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/7/1/a)

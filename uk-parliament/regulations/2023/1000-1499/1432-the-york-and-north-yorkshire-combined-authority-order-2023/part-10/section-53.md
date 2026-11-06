@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Transfers: supplementary provision[^key-f32d9d964c50e57697863684fb51faf7]
+## 53. Transfers: supplementary provision[^c-f32d9d964c50e57697863684fb51faf7]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ as they have effect in relation to the transfer made by this Part of land or oth
 
 ## Annotations
 
-[^key-f32d9d964c50e57697863684fb51faf7]: Commencement: Art. 53 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-f32d9d964c50e57697863684fb51faf7]: Commencement: Art. 53 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The register[^c2201942][^key-1ce97b26f1354a725029fade1b06c68f]
+## 4. The register[^c2201942][^c-1ce97b26f1354a725029fade1b06c68f]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c2201942]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/4/section/4) partly in force; [s. 4(5)](https://www.legislation.gov.uk/ukpga/2014/4/section/4/5) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-1ce97b26f1354a725029fade1b06c68f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/4/section/4) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-1ce97b26f1354a725029fade1b06c68f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/4/section/4) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

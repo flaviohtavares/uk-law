@@ -37,7 +37,7 @@ as if the relevant contract were a derivative contract.
 - (a) at any time in that period it consists wholly or partly of—
   - (i) any shares in an open-ended investment company,
   - (ii) any rights under a unit trust scheme, or
-  - (iii) an interest in an offshore fund (within the meaning of section 355 of TIOPA 2010)[^key-89bd2ae9174a20dd32398f1376ef0757], and
+  - (iii) an interest in an offshore fund (within the meaning of section 355 of TIOPA 2010)[^c-89bd2ae9174a20dd32398f1376ef0757], and
 - (b) there is a time in the period when that company, scheme or fund fails to meet the qualifying investments test.
 
 (4) In subsection (3) “**meeting the qualifying investments test**” has the same meaning as in section 493 (the qualifying investments test).
@@ -53,4 +53,4 @@ as if the relevant contract were a derivative contract.
 
 ## Annotations
 
-[^key-89bd2ae9174a20dd32398f1376ef0757]: Textual amendment: Words in s. 587(3)(a)(iii) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/13/a) (with [reg.](https://www.legislation.gov.uk/uksi/2013/1411/regulation))
+[^c-89bd2ae9174a20dd32398f1376ef0757]: Textual amendment: Words in s. 587(3)(a)(iii) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/13/a) (with [reg.](https://www.legislation.gov.uk/uksi/2013/1411/regulation))

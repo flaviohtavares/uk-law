@@ -24,7 +24,7 @@ Section 321
 
 ### Amendment of the Court Martial Appeals Act 1968
 
-**1.**[^key-2cb8f98be1dd4228c6e417d91cb650ca][^key-f8c6256fea35d99cce0a5addaef9b944] After section 29 of the Court Martial Appeals Act 1968 insert—
+**1.**[^c-2cb8f98be1dd4228c6e417d91cb650ca][^c-f8c6256fea35d99cce0a5addaef9b944] After section 29 of the Court Martial Appeals Act 1968 insert—
 
 > **29A. Power to order investigation by Criminal Cases Review Commission**
 >
@@ -50,7 +50,7 @@ Section 321
 
 ### Amendments of the Criminal Appeal Act 1995
 
-**2.**[^key-3ef4eab2f5c12757f4d5337a81d36955][^key-191f84fe2a6a72805e895f11751c7121] After section 12 of the Criminal Appeal Act 1995 (c. 35) insert—
+**2.**[^c-3ef4eab2f5c12757f4d5337a81d36955][^c-191f84fe2a6a72805e895f11751c7121] After section 12 of the Criminal Appeal Act 1995 (c. 35) insert—
 
 > **12A. Cases dealt with by the Court Martial**
 >
@@ -101,9 +101,9 @@ Section 321
 >
 > (6) For the purposes of this section convictions are “connected” if they are of the same person by the same court on the same day.
 
-**3.**[^key-1661bd70961167bf56c7efad42b36761][^key-718c2f364363f3539c77dffe62cb876f] In section 13(1) of that Act (conditions for making of references), for “12” substitute “ 12B ”.
+**3.**[^c-1661bd70961167bf56c7efad42b36761][^c-718c2f364363f3539c77dffe62cb876f] In section 13(1) of that Act (conditions for making of references), for “12” substitute “ 12B ”.
 
-**4.**[^key-d7602b4aae9837e26b33a545d254db8d][^key-c5ec3c936e6e1471d0df6e7a3afc289b] (1) Section 14 of that Act (further provisions about references) is amended as follows.
+**4.**[^c-d7602b4aae9837e26b33a545d254db8d][^c-c5ec3c936e6e1471d0df6e7a3afc289b] (1) Section 14 of that Act (further provisions about references) is amended as follows.
 
 (2) In subsection (1) for “12” substitute “ 12B ”.
 
@@ -125,7 +125,7 @@ Section 321
 
 (9) In subsection (6) for “12” substitute “ 12B ”.
 
-**5.**[^key-cc4c4685b5db582d14715cce44f1c517][^key-5e85367a0302d5c73199998e54529f1f] (1) Section 15 of that Act (investigations for Court of Appeal) is amended as follows.
+**5.**[^c-cc4c4685b5db582d14715cce44f1c517][^c-5e85367a0302d5c73199998e54529f1f] (1) Section 15 of that Act (investigations for Court of Appeal) is amended as follows.
 
 (2) In the sidenote after “Court of Appeal” insert “ and Court Martial Appeal Court ”.
 
@@ -152,11 +152,11 @@ Section 321
 
 > (8) In this section “**relevant Court**”, in relation to a direction, means the court that gave the direction.
 
-**6.**[^key-7a4cfccd266a918bbb27e35e32cfd221][^key-114c2875647faa87576cda31b11f494f] In section 16 of that Act (assistance in connection with prerogative of mercy), after subsection (2) add—
+**6.**[^c-7a4cfccd266a918bbb27e35e32cfd221][^c-114c2875647faa87576cda31b11f494f] In section 16 of that Act (assistance in connection with prerogative of mercy), after subsection (2) add—
 
 > (3) In subsection (1) “**conviction**” includes a conviction by the Court Martial or the Service Civilian Court, and in subsection (2) “**case**” includes the case of such a conviction.
 
-**7.**[^key-64d16eb34ae41b6048d0813de33eb35b][^key-00c57812a5737fe9db95e2c85271bb9e] (1) Section 18 of that Act (Government documents etc relating to current or old cases) is amended as follows.
+**7.**[^c-64d16eb34ae41b6048d0813de33eb35b][^c-00c57812a5737fe9db95e2c85271bb9e] (1) Section 18 of that Act (Government documents etc relating to current or old cases) is amended as follows.
 
 (2) In subsection (2) at the end of paragraph (b) add
 
@@ -175,7 +175,7 @@ Section 321
 >
 > (6) Subsection (5) applies to a case if the Secretary of State is considering the case, or has at any earlier time considered the case, as mentioned in subsection (2)(c).
 
-**8.**[^key-68e019b1e7ec4308118eae81ad79c9fb][^key-f77789e492560b332529f0476f308429] (1) Section 19 of that Act (power to require appointment of investigating officers) is amended as follows.
+**8.**[^c-68e019b1e7ec4308118eae81ad79c9fb][^c-f77789e492560b332529f0476f308429] (1) Section 19 of that Act (power to require appointment of investigating officers) is amended as follows.
 
 (2) In subsection (3) after “police” insert “ or Provost Marshal ”.
 
@@ -199,7 +199,7 @@ Section 321
 - (a) after “police force” insert “ or service police force ”;
 - (b) after “(4)” insert “ , (4A) ”.
 
-**9.**[^key-2c4e338cf942c7e7aeabd89a9b9ad230][^key-90f65ae0933ac351bb4c165f72410370] (1) Section 22 of that Act (meaning of “public body” etc) is amended as follows.
+**9.**[^c-2c4e338cf942c7e7aeabd89a9b9ad230][^c-90f65ae0933ac351bb4c165f72410370] (1) Section 22 of that Act (meaning of “public body” etc) is amended as follows.
 
 (2) In subsection (4) (meaning of “the appropriate person”), after “means” insert “ , subject to subsection (4B) ”.
 
@@ -221,7 +221,7 @@ Section 321
 >
 > (4C) In section 19 “**service police force**” has the same meaning as in the Armed Forces Act 2006.
 
-**10.**[^key-656197be4746479b5c0108c2f9e29500][^key-66ff949c3c50893ee984d55ebb89c462] (1) Section 30 of that Act is amended as follows.
+**10.**[^c-656197be4746479b5c0108c2f9e29500][^c-66ff949c3c50893ee984d55ebb89c462] (1) Section 30 of that Act is amended as follows.
 
 (2) In subsection (1) after the definition of “the Commission” insert—
 
@@ -234,7 +234,7 @@ Section 321
 > - (e) in section 12A has the same meaning as in the Court Martial Appeals Act,
 > - (f) in section 12B has the same meaning as in section 285 of the Armed Forces Act 2006.
 
-**11.**[^key-2be7a18562f658091c8f13ebc117d7f3][^key-4700fc08cc41fc469c76ef8a29605014] (1) In section 33 of that Act (extent), after subsection (4) add—
+**11.**[^c-2be7a18562f658091c8f13ebc117d7f3][^c-4700fc08cc41fc469c76ef8a29605014] (1) In section 33 of that Act (extent), after subsection (4) add—
 
 > (5) Nothing in this section affects the extent of—
 >
@@ -246,46 +246,46 @@ Section 321
 
 ## Annotations
 
-[^key-2cb8f98be1dd4228c6e417d91cb650ca]: Commencement: Sch. 11 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2cb8f98be1dd4228c6e417d91cb650ca]: Commencement: Sch. 11 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f8c6256fea35d99cce0a5addaef9b944]: Commencement: Sch. 11 para. 1 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f8c6256fea35d99cce0a5addaef9b944]: Commencement: Sch. 11 para. 1 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-3ef4eab2f5c12757f4d5337a81d36955]: Commencement: Sch. 11 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3ef4eab2f5c12757f4d5337a81d36955]: Commencement: Sch. 11 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-191f84fe2a6a72805e895f11751c7121]: Commencement: Sch. 11 para. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-191f84fe2a6a72805e895f11751c7121]: Commencement: Sch. 11 para. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-1661bd70961167bf56c7efad42b36761]: Commencement: Sch. 11 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1661bd70961167bf56c7efad42b36761]: Commencement: Sch. 11 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-718c2f364363f3539c77dffe62cb876f]: Commencement: Sch. 11 para. 3 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-718c2f364363f3539c77dffe62cb876f]: Commencement: Sch. 11 para. 3 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-d7602b4aae9837e26b33a545d254db8d]: Commencement: Sch. 11 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d7602b4aae9837e26b33a545d254db8d]: Commencement: Sch. 11 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c5ec3c936e6e1471d0df6e7a3afc289b]: Commencement: Sch. 11 para. 4 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c5ec3c936e6e1471d0df6e7a3afc289b]: Commencement: Sch. 11 para. 4 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-cc4c4685b5db582d14715cce44f1c517]: Commencement: Sch. 11 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-cc4c4685b5db582d14715cce44f1c517]: Commencement: Sch. 11 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5e85367a0302d5c73199998e54529f1f]: Commencement: Sch. 11 para. 5 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5e85367a0302d5c73199998e54529f1f]: Commencement: Sch. 11 para. 5 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7a4cfccd266a918bbb27e35e32cfd221]: Commencement: Sch. 11 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7a4cfccd266a918bbb27e35e32cfd221]: Commencement: Sch. 11 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-114c2875647faa87576cda31b11f494f]: Commencement: Sch. 11 para. 6 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-114c2875647faa87576cda31b11f494f]: Commencement: Sch. 11 para. 6 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-64d16eb34ae41b6048d0813de33eb35b]: Commencement: Sch. 11 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-64d16eb34ae41b6048d0813de33eb35b]: Commencement: Sch. 11 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-00c57812a5737fe9db95e2c85271bb9e]: Commencement: Sch. 11 para. 7 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-00c57812a5737fe9db95e2c85271bb9e]: Commencement: Sch. 11 para. 7 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-68e019b1e7ec4308118eae81ad79c9fb]: Commencement: Sch. 11 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-68e019b1e7ec4308118eae81ad79c9fb]: Commencement: Sch. 11 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f77789e492560b332529f0476f308429]: Commencement: Sch. 11 para. 8 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f77789e492560b332529f0476f308429]: Commencement: Sch. 11 para. 8 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-2c4e338cf942c7e7aeabd89a9b9ad230]: Commencement: Sch. 11 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2c4e338cf942c7e7aeabd89a9b9ad230]: Commencement: Sch. 11 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-90f65ae0933ac351bb4c165f72410370]: Commencement: Sch. 11 para. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-90f65ae0933ac351bb4c165f72410370]: Commencement: Sch. 11 para. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-656197be4746479b5c0108c2f9e29500]: Commencement: Sch. 11 para. 10 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-656197be4746479b5c0108c2f9e29500]: Commencement: Sch. 11 para. 10 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-66ff949c3c50893ee984d55ebb89c462]: Commencement: Sch. 11 para. 10 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-66ff949c3c50893ee984d55ebb89c462]: Commencement: Sch. 11 para. 10 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-2be7a18562f658091c8f13ebc117d7f3]: Commencement: Sch. 11 para. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2be7a18562f658091c8f13ebc117d7f3]: Commencement: Sch. 11 para. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4700fc08cc41fc469c76ef8a29605014]: Commencement: Sch. 11 para. 11 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4700fc08cc41fc469c76ef8a29605014]: Commencement: Sch. 11 para. 11 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

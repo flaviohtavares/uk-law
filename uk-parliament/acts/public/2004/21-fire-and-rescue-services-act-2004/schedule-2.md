@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Repeals[^key-1962255b2129b907a8be4b98a5f07aef][^key-b46ba223ea55eb9497eccd2f90f6ae3f]
+## SCHEDULE 2 — Repeals[^c-1962255b2129b907a8be4b98a5f07aef][^c-b46ba223ea55eb9497eccd2f90f6ae3f]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ Section 54
 
 ## Annotations
 
-[^key-1962255b2129b907a8be4b98a5f07aef]: Commencement: Sch. 2 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-1962255b2129b907a8be4b98a5f07aef]: Commencement: Sch. 2 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-b46ba223ea55eb9497eccd2f90f6ae3f]: Commencement: Sch. 2 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-b46ba223ea55eb9497eccd2f90f6ae3f]: Commencement: Sch. 2 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

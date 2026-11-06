@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Power of planning authority to issue temporary stop notice[^key-eb5ffcf920b8317475645121e8d47e05][^key-6654a25c68081cf6d33849d9d7da789a]
+## 119. Power of planning authority to issue temporary stop notice[^c-eb5ffcf920b8317475645121e8d47e05][^c-6654a25c68081cf6d33849d9d7da789a]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ the authority may instead display a copy in a prominent place as near to the bui
 
 ## Annotations
 
-[^key-eb5ffcf920b8317475645121e8d47e05]: Commencement: S. 119 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-eb5ffcf920b8317475645121e8d47e05]: Commencement: S. 119 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6654a25c68081cf6d33849d9d7da789a]: Commencement: [S. 119](https://www.legislation.gov.uk/asc/2023/3/section/119) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-6654a25c68081cf6d33849d9d7da789a]: Commencement: [S. 119](https://www.legislation.gov.uk/asc/2023/3/section/119) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

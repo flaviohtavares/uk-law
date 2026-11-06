@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Amendment of regulation B2[^key-e80e4d6671508f51f65bf5482a971af3]
+## 3. Amendment of regulation B2[^c-e80e4d6671508f51f65bf5482a971af3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation B2 (age limits and restrictions on membership), in paragraph (1)(o
 
 ## Annotations
 
-[^key-e80e4d6671508f51f65bf5482a971af3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/364/regulation/3) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-e80e4d6671508f51f65bf5482a971af3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/364/regulation/3) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

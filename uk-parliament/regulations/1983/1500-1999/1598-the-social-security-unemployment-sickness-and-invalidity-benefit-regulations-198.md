@@ -53,19 +53,19 @@ The Secretary of State for Social Services, in the exercise of powers conferred 
 
 - “**the Act**” means the Social Security Act 1975;
 - “**charity**” has the meaning assigned to it in the Income Tax Acts;
-- “the[^key-fabaebc2671d1c8dd24340e527838c4e] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
-- “**determining authority**” means, as the case may require, an adjudication officer[^M_F_48688d5a-912a-4187-f0da-a1dd9d8c5fce] or the First-tier Tribunal or the Upper Tribunal;[^key-00c747c81854f41db9aafc2519b806ff];
-- [^key-84c66946ef7a4c5d62cb27a270992dee]...[^M_F_7de67f6e-9653-450b-f5b3-073ba0ad76b9]
-- “employment or training programme” means a course or programme of rehabilitation or training which is established pursuant to arrangements made by the Secretary of State under section 2(1) of the Employment and Training Act 1973[^key-7807f7a0a8ad1db03728875d47eba3ae], or by Scottish Enterprise or Highlands and Islands Enterprise under section 2(3) of the Enterprise and New Towns (Scotland) Act 1990,[^key-850fc025d40b2d8434e8eff5ec5f114c] for the purpose of assisting persons to select, train for, obtain or retain employed earner’s employment;
+- “the[^c-fabaebc2671d1c8dd24340e527838c4e] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
+- “**determining authority**” means, as the case may require, an adjudication officer[^M_F_48688d5a-912a-4187-f0da-a1dd9d8c5fce] or the First-tier Tribunal or the Upper Tribunal;[^c-00c747c81854f41db9aafc2519b806ff];
+- [^c-84c66946ef7a4c5d62cb27a270992dee]...[^M_F_7de67f6e-9653-450b-f5b3-073ba0ad76b9]
+- “employment or training programme” means a course or programme of rehabilitation or training which is established pursuant to arrangements made by the Secretary of State under section 2(1) of the Employment and Training Act 1973[^c-7807f7a0a8ad1db03728875d47eba3ae], or by Scottish Enterprise or Highlands and Islands Enterprise under section 2(3) of the Enterprise and New Towns (Scotland) Act 1990,[^c-850fc025d40b2d8434e8eff5ec5f114c] for the purpose of assisting persons to select, train for, obtain or retain employed earner’s employment;
 - “**health authority**” has the same meaning as in the National Health Service Act 1977[^f00003];
 - “**health board**” means a health board constituted under section 2 of, and in accordance with Schedule 1 to, the National Health Service (Scotland) Act 1978;
 - “**local authority**” has the same meaning, for England and Wales, as in section 270(1) of the Local Government Act 1972 and, for Scotland, as in section 235(1) of the Local Government (Scotland) Act 1973;
-- “Outward Bound course” means any course or programme for personal development which is made available to persons who are not in employment by the charitable trust known as the Outward Bound Trust Limited;[^key-e3220e607409449a0bf968d41f64be9a]
+- “Outward Bound course” means any course or programme for personal development which is made available to persons who are not in employment by the charitable trust known as the Outward Bound Trust Limited;[^c-e3220e607409449a0bf968d41f64be9a]
 - “**preserved board**” has the same meaning as in the National Health Service Reorganisation Act 1973[^f00004];
-- “training allowance” means a training allowance paid under the Employment and Training Act 1973[^key-e74ed8a867c9bae2c878bad2dfdaa9b1] or the Enterprise and New Towns (Scotland) Act 1990[^key-b46e0f8d3190f0bc8a5cbb26ef0b3715];
-- “training course” includes any arrangements made by the Secretary of State pursuant to section 2(1) of the Employment and Training Act 1973[^key-843d913e7418ad80da333f9bb8650363], or by Scottish Enterprise or Highlands and Islands Enterprise pursuant to section 2(3) of the Enterprise and New Towns (Scotland) Act 1990,[^key-6cdcd4650b6d5a607b91b876c02e574e] by way of courses of training, instruction or rehabilitation for the purpose of assisting persons to select, train for, obtain and retain employment;
+- “training allowance” means a training allowance paid under the Employment and Training Act 1973[^c-e74ed8a867c9bae2c878bad2dfdaa9b1] or the Enterprise and New Towns (Scotland) Act 1990[^c-b46e0f8d3190f0bc8a5cbb26ef0b3715];
+- “training course” includes any arrangements made by the Secretary of State pursuant to section 2(1) of the Employment and Training Act 1973[^c-843d913e7418ad80da333f9bb8650363], or by Scottish Enterprise or Highlands and Islands Enterprise pursuant to section 2(3) of the Enterprise and New Towns (Scotland) Act 1990,[^c-6cdcd4650b6d5a607b91b876c02e574e] by way of courses of training, instruction or rehabilitation for the purpose of assisting persons to select, train for, obtain and retain employment;
 - “**unemployment benefit office**” means any office or place appointed by the Secretary of State for the purpose of claiming unemployment benefit.
-- “voluntary body” means a body the activities of which are carried out otherwise than for the purpose of profit;[^key-8aef582586b261d08e0df300aa626bb9]
+- “voluntary body” means a body the activities of which are carried out otherwise than for the purpose of profit;[^c-8aef582586b261d08e0df300aa626bb9]
 - “volunteer” means a person who is engaged in voluntary work with a charity or voluntary body, or who is engaged in voluntary work otherwise than for a member of his family, where the only payment received by him or due to be paid to him by virtue of being so engaged, is a payment in respect of any expenses reasonably incurred by him in the course of being so engaged;
 
 (3) Unless the context otherwise requires, any reference in these regulations to—
@@ -73,117 +73,117 @@ The Secretary of State for Social Services, in the exercise of powers conferred 
 - (a) a numbered section or Schedule is to the section of, or, as the case may be, the Schedule to, the Act bearing that number;
 - (b) a numbered regulation is a reference to the regulation bearing that number in these regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph of that regulation bearing that number.
 
-### 2. Provisions to which Parts I and II of these regulations are subject[^key-bb0f57451780e903c1590e732d3e83ae]
+### 2. Provisions to which Parts I and II of these regulations are subject[^c-bb0f57451780e903c1590e732d3e83ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART II — PROVISIONS OF GENERAL APPLICATION
 
-### 3. Persons deemed to be incapable of work[^key-ceb6e26c2eb256a82e4faeb862b098c4]
+### 3. Persons deemed to be incapable of work[^c-ceb6e26c2eb256a82e4faeb862b098c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Special provisions relating to day substituted for Sunday[^key-f1aa2fbe860ebf47b9096bdbbe74d344]
+### 4. Special provisions relating to day substituted for Sunday[^c-f1aa2fbe860ebf47b9096bdbbe74d344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Night workers[^key-f1aa2fbe860ebf47b9096bdbbe74d344]
+### 5. Night workers[^c-f1aa2fbe860ebf47b9096bdbbe74d344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Provisions relating to suspension of employment in employed earner's employment[^key-f1aa2fbe860ebf47b9096bdbbe74d344]
+### 6. Provisions relating to suspension of employment in employed earner's employment[^c-f1aa2fbe860ebf47b9096bdbbe74d344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6A. Requalification period[^key-f1aa2fbe860ebf47b9096bdbbe74d344][^key-7967e502ef67b64335d780100a31a8f7]
+### 6A. Requalification period[^c-f1aa2fbe860ebf47b9096bdbbe74d344][^c-7967e502ef67b64335d780100a31a8f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Days not to be treated as days of unemployment or incapacity for work (affected by repeal, see note)[^key-f1aa2fbe860ebf47b9096bdbbe74d344][^key-564023603a023364db29dd2de5d56951]
+### 7. Days not to be treated as days of unemployment or incapacity for work (affected by repeal, see note)[^c-f1aa2fbe860ebf47b9096bdbbe74d344][^c-564023603a023364db29dd2de5d56951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7A. Days deemed to be days of entitlement to sickness benefit[^key-a02b8888ba8dea26d59f74dd52c9794f]
+### 7A. Days deemed to be days of entitlement to sickness benefit[^c-a02b8888ba8dea26d59f74dd52c9794f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7B. Restrictions on availability for employment[^key-7939c0ec7ecce3516e4aa9c9a8cf3f2e]
+### 7B. Restrictions on availability for employment[^c-7939c0ec7ecce3516e4aa9c9a8cf3f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Days to be treated as days of incapacity for work for the purposes of invalidity allowance[^key-2cc25e964cb08643c6567c89daa03aa9]
+### 8. Days to be treated as days of incapacity for work for the purposes of invalidity allowance[^c-2cc25e964cb08643c6567c89daa03aa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8A. Qualifying day for entitlement to invalidty allowance[^key-3b09bf83617010917f1859dacd0a073b][^M_F_2bfed23c-d1da-4cf5-8066-89af307ea77b]
+### 8A. Qualifying day for entitlement to invalidty allowance[^c-3b09bf83617010917f1859dacd0a073b][^M_F_2bfed23c-d1da-4cf5-8066-89af307ea77b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Persons deemed to be available for employment in employed earner's employment[^key-862907ea66cddd7a1475b2501e305b72]
+### 9. Persons deemed to be available for employment in employed earner's employment[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Availability of persons undertaking duties in an emergency[^key-862907ea66cddd7a1475b2501e305b72]
+### 10. Availability of persons undertaking duties in an emergency[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Availability of persons attending work camps[^key-862907ea66cddd7a1475b2501e305b72]
+### 11. Availability of persons attending work camps[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Availability of persons requiring notice of job opportunities[^key-862907ea66cddd7a1475b2501e305b72]
+### 12. Availability of persons requiring notice of job opportunities[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12A. Persons deemed available where a doubt has arisen about availability[^key-862907ea66cddd7a1475b2501e305b72][^M_F_76262e90-a4a0-4633-80c8-05dd8305f8d5]
+### 12A. Persons deemed available where a doubt has arisen about availability[^c-862907ea66cddd7a1475b2501e305b72][^M_F_76262e90-a4a0-4633-80c8-05dd8305f8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12B. Steps to be taken by persons actively seeking employment[^key-862907ea66cddd7a1475b2501e305b72]
+### 12B. Steps to be taken by persons actively seeking employment[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12C. Meaning of week[^key-862907ea66cddd7a1475b2501e305b72]
+### 12C. Meaning of week[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12D. Persons deemed to be actively seeking employment[^key-862907ea66cddd7a1475b2501e305b72]
+### 12D. Persons deemed to be actively seeking employment[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12E. Matters to be taken into account in determining good cause[^key-862907ea66cddd7a1475b2501e305b72]
+### 12E. Matters to be taken into account in determining good cause[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12F. Permitted period[^key-862907ea66cddd7a1475b2501e305b72]
+### 12F. Permitted period[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12G. Trial periods[^key-862907ea66cddd7a1475b2501e305b72]
+### 12G. Trial periods[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12H. Meaning of employment[^key-862907ea66cddd7a1475b2501e305b72]
+### 12H. Meaning of employment[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Reckoning of periods of interruption of employment[^key-862907ea66cddd7a1475b2501e305b72]
+### 13. Reckoning of periods of interruption of employment[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Reckoning periods of interruption of employment for persons approaching retirement[^key-862907ea66cddd7a1475b2501e305b72]
+### 14. Reckoning periods of interruption of employment for persons approaching retirement[^c-862907ea66cddd7a1475b2501e305b72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Reckoning periods of interruption of employment as a result of certain regular treatment[^key-0efa912f3471df2a8aa67719cb48303e]
+### 15. Reckoning periods of interruption of employment as a result of certain regular treatment[^c-0efa912f3471df2a8aa67719cb48303e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Special provisions relating to delay or failure in making or prosecuting a claim[^key-b69445f11beeb499814999ff589df4b6]
+### 16. Special provisions relating to delay or failure in making or prosecuting a claim[^c-b69445f11beeb499814999ff589df4b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Disqualification for sickness or invalidity benefit[^key-aa51bbadec5de4e867e59cfde094e265]
+### 17. Disqualification for sickness or invalidity benefit[^c-aa51bbadec5de4e867e59cfde094e265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -193,13 +193,13 @@ The Secretary of State for Social Services, in the exercise of powers conferred 
 
 (2) The weekly rate of unemployment or sickness benefit shall be calculated as a percentage of the rate set out in Part I of Schedule 4; in a case where the second contribution condition would have been satisfied if the multiplier in that condition (instead of being 50) had been 37½, that percentage shall be 75 per cent, and in a case where that condition would have been satisfied if the multiplier had been 25, it shall be 50 per cent.
 
-### 19. Modifications of normal idle day rule[^key-9b085b40ba1c230a5798dd987b2ad39a]
+### 19. Modifications of normal idle day rule[^c-9b085b40ba1c230a5798dd987b2ad39a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Special provision for certain persons who have been employed abroad
 
-(1) The following provisions of this regulation shall apply for the purposes of contribution-based jobseeker’s allowance[^key-dd9ce5c141710c0ac7b5bad4b5ab8c0d], short-term incapacity benefit and contributory employment and support allowance[^key-65af5560e5aa6252e8addea678c0cbf5] where a person—
+(1) The following provisions of this regulation shall apply for the purposes of contribution-based jobseeker’s allowance[^c-dd9ce5c141710c0ac7b5bad4b5ab8c0d], short-term incapacity benefit and contributory employment and support allowance[^c-65af5560e5aa6252e8addea678c0cbf5] where a person—
 
 - (a) has been absent from Great Britain;
 - (b) has returned to Great Britain; and
@@ -212,7 +212,7 @@ and in this regulation “**a person**” shall mean such a person.
 - (a) to the full extent of his liability under regulation 120 of the Social Security (Contributions) Regulations 1979; or
 - (b) in respect of the first 52 weeks of his employment abroad by virtue of either—
   - (i) an Order in Council made under section 143 (reciprocity with countries outside the United Kingdom); or
-  - (ii) Council Regulation No. 1408/71/EEC[^f00008] (application of social security schemes to employed persons and their families moving within the Community), as amended from time to time, or Regulation[^key-b131630b57d49038911d1d8df8451fe1] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems;
+  - (ii) Council Regulation No. 1408/71/EEC[^f00008] (application of social security schemes to employed persons and their families moving within the Community), as amended from time to time, or Regulation[^c-b131630b57d49038911d1d8df8451fe1] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems;
 
   and the employment, by reference to which his liability mentioned in sub-paragraph (a) or (b), as the case may be, arose, continued throughout the first 52 weeks after the commencement of that liability, he shall be treated as having paid Class 1 contributions on earnings at the lower earnings limit for the relevant tax year for any weeks between the end of that liability and the date of his return to Great Britain which are relevant to his claim.
 
@@ -226,11 +226,11 @@ he shall be treated as having paid Class 1 contributions on earnings at the lowe
 
 (4) Where—
 
-- (a) a person would have been liable to pay Class 1 contributions at the standard rate under the said regulation 120 but for the provisions of either an Order in Council made under section 143 or Council Regulation No. 1408/71/EEC, as amended from time to time, or Regulation[^key-4e012b56ef291329cd1d18aa1e363362] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time;
+- (a) a person would have been liable to pay Class 1 contributions at the standard rate under the said regulation 120 but for the provisions of either an Order in Council made under section 143 or Council Regulation No. 1408/71/EEC, as amended from time to time, or Regulation[^c-4e012b56ef291329cd1d18aa1e363362] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time;
 - (b) the employment by reference to which he would have been liable under the said regulation 120 continued throughout the first 52 weeks from the time that that liability would have commenced; and
-- (c) that Order or Council Regulation or Regulation of the European Parliament and of the Council[^key-2c5bfc6457f97098822ef314cf91faef], as the case may be, provides for aggregation of periods of insurance, employment or residence only if an insurance period has been completed since his return to Great Britain, and an insurance period has not been so completed;
+- (c) that Order or Council Regulation or Regulation of the European Parliament and of the Council[^c-2c5bfc6457f97098822ef314cf91faef], as the case may be, provides for aggregation of periods of insurance, employment or residence only if an insurance period has been completed since his return to Great Britain, and an insurance period has not been so completed;
 
-any period of insurance, employment, or, as the case may be, residence in the other country to which that Order or Council Regulation or Regulation of the European Parliament and of the Council[^key-493de7e854bcf6a9ac71c87aefc259e0], as the case may be, relates which falls in the relevant tax year and which could be taken into account in determining entitlement to benefit if an insurance period had been completed since his return to Great Britain shall be treated as a period in respect of which Class 1 contributions on earnings at the lower earnings limit for that tax year had been paid.
+any period of insurance, employment, or, as the case may be, residence in the other country to which that Order or Council Regulation or Regulation of the European Parliament and of the Council[^c-493de7e854bcf6a9ac71c87aefc259e0], as the case may be, relates which falls in the relevant tax year and which could be taken into account in determining entitlement to benefit if an insurance period had been completed since his return to Great Britain shall be treated as a period in respect of which Class 1 contributions on earnings at the lower earnings limit for that tax year had been paid.
 
 (5) Paragraphs (2) (except in a case to which paragraph (2)(a) applies), (3) and (4) shall not apply in relation to benefit to which this regulation applies for any day in respect of which the person concerned is entitled to a corresponding benefit under the social security scheme of the country in which he was employed.
 
@@ -245,55 +245,55 @@ paragraph (2) shall apply to him, notwithstanding paragraph (2)(a), as if the re
 
 (8) Paragraph (2) shall not apply to any case where the employment, which gave rise to the liability mentioned in sub-paragraph (a) of that paragraph, commenced before 6th April 1975, unless the person concerned paid contributions under the said Act of 1965 to the full extent of his liability under the said regulation 3.
 
-### 21. Additional condition with respect to the receipt of unemployment benefit by seasonal workers[^key-4b6359508d49d4bbe8d1d4ec96f03fa4]
+### 21. Additional condition with respect to the receipt of unemployment benefit by seasonal workers[^c-4b6359508d49d4bbe8d1d4ec96f03fa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Additional condition with respect to the receipt of unemployment benefit by students[^key-116924413fee4493f14969fef7c7e921]
+### 22. Additional condition with respect to the receipt of unemployment benefit by students[^c-116924413fee4493f14969fef7c7e921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART III — ABATEMENT OF UNEMPLOYMENT BENEFIT FOR OCCUPATIONAL PENSION PAYMENTS
 
-### 23. Interpretation[^key-d29c20ed647f6bbe5c72a4b3c203aa63]
+### 23. Interpretation[^c-d29c20ed647f6bbe5c72a4b3c203aa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Maximum sum prescribed for the purposes of section 5(1) of the 1980 Act[^key-d29c20ed647f6bbe5c72a4b3c203aa63]
+### 24. Maximum sum prescribed for the purposes of section 5(1) of the 1980 Act[^c-d29c20ed647f6bbe5c72a4b3c203aa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Disregard of pension payments on account of redundancy[^key-d29c20ed647f6bbe5c72a4b3c203aa63]
+### 25. Disregard of pension payments on account of redundancy[^c-d29c20ed647f6bbe5c72a4b3c203aa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Disregard of pension payments for less than a whole week[^key-d29c20ed647f6bbe5c72a4b3c203aa63]
+### 26. Disregard of pension payments for less than a whole week[^c-d29c20ed647f6bbe5c72a4b3c203aa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Calculation of weekly amount of pension payments made other than weekly[^key-d29c20ed647f6bbe5c72a4b3c203aa63]
+### 27. Calculation of weekly amount of pension payments made other than weekly[^c-d29c20ed647f6bbe5c72a4b3c203aa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Modification of section 18(1) of the 1975 Act[^key-d29c20ed647f6bbe5c72a4b3c203aa63]
+### 28. Modification of section 18(1) of the 1975 Act[^c-d29c20ed647f6bbe5c72a4b3c203aa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ...[^key-43cb5f0c1f4aea3fd3d916ac4001a1a3]
+## ...[^c-43cb5f0c1f4aea3fd3d916ac4001a1a3]
 
-### 29.[^key-43cb5f0c1f4aea3fd3d916ac4001a1a3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 30.[^key-43cb5f0c1f4aea3fd3d916ac4001a1a3]
+### 29.[^c-43cb5f0c1f4aea3fd3d916ac4001a1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31.[^key-43cb5f0c1f4aea3fd3d916ac4001a1a3]
+### 30.[^c-43cb5f0c1f4aea3fd3d916ac4001a1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32.[^key-43cb5f0c1f4aea3fd3d916ac4001a1a3]
+### 31.[^c-43cb5f0c1f4aea3fd3d916ac4001a1a3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32.[^c-43cb5f0c1f4aea3fd3d916ac4001a1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -379,88 +379,88 @@ These Regulations also incorporate in regulation 15 the provisions of the Social
 
 [^f00002]: Footnote: *See* the Social Security Act 1980 (c.30), Schedule 3, paragraph 20 and section 5(5) of the Social Security (No. 2) Act 1980.
 
-[^key-fabaebc2671d1c8dd24340e527838c4e]: Textual amendment: Words in reg. 1(2) inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/2/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-fabaebc2671d1c8dd24340e527838c4e]: Textual amendment: Words in reg. 1(2) inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/2/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
 [^M_F_48688d5a-912a-4187-f0da-a1dd9d8c5fce]: Textual amendment: Words in reg. 1(2) substituted (23.04.1984) by [Health And Social Services And Social Security Adjudications Act 1983 (1983 c.41)](https://www.legislation.gov.uk/ukpga/1983/41), [regs. 1](https://www.legislation.gov.uk/uksi/1992/565/regulation/1), [25](https://www.legislation.gov.uk/uksi/1992/565/regulation/25), [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/uksi/1992/565/schedule/8/paragraph/1/1), (3)(a)
 
-[^key-00c747c81854f41db9aafc2519b806ff]: Textual amendment: Words in reg. 1(2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/37)
+[^c-00c747c81854f41db9aafc2519b806ff]: Textual amendment: Words in reg. 1(2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/37)
 
-[^key-84c66946ef7a4c5d62cb27a270992dee]: Textual amendment: Words in reg. 1(2) omitted (13.4.1995) by virtue of [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/2/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-84c66946ef7a4c5d62cb27a270992dee]: Textual amendment: Words in reg. 1(2) omitted (13.4.1995) by virtue of [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/2/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
 [^M_F_7de67f6e-9653-450b-f5b3-073ba0ad76b9]: Textual amendment: Words in reg. 1(2) inserted (06.04.1992) by [The Social Security (Invalidity Benefit and Severe Disablement Allowance) Miscellaneous Amendment Regulations 1992 (S.I. 1992/565)](https://www.legislation.gov.uk/uksi/1992/565), [regs. 1](https://www.legislation.gov.uk/uksi/1992/565/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/565/regulation/2)
 
-[^key-7807f7a0a8ad1db03728875d47eba3ae]: Textual amendment: Words in reg. 1(2) inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/2/a)
+[^c-7807f7a0a8ad1db03728875d47eba3ae]: Textual amendment: Words in reg. 1(2) inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/2/a)
 
-[^key-850fc025d40b2d8434e8eff5ec5f114c]: Textual amendment: Words in reg. 1(2) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/1991/387/article/6/a/i)
+[^c-850fc025d40b2d8434e8eff5ec5f114c]: Textual amendment: Words in reg. 1(2) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/1991/387/article/6/a/i)
 
 [^f00003]: Footnote: Section 128(1), as amended by the Health Services Act 1980 (c.53), section 1 and Schedule 1, paragraph 77.
 
-[^key-e3220e607409449a0bf968d41f64be9a]: Textual amendment: Words in reg. 1(2) inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/2/b)
+[^c-e3220e607409449a0bf968d41f64be9a]: Textual amendment: Words in reg. 1(2) inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/2/b)
 
 [^f00004]: Footnote: Section 15(6).
 
-[^key-e74ed8a867c9bae2c878bad2dfdaa9b1]: Textual amendment: Words in reg. 1(2) inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/2/c)
+[^c-e74ed8a867c9bae2c878bad2dfdaa9b1]: Textual amendment: Words in reg. 1(2) inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/2/c)
 
-[^key-b46e0f8d3190f0bc8a5cbb26ef0b3715]: Textual amendment: Words in reg. 1(2) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/1991/387/article/6/a/ii)
+[^c-b46e0f8d3190f0bc8a5cbb26ef0b3715]: Textual amendment: Words in reg. 1(2) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/1991/387/article/6/a/ii)
 
-[^key-843d913e7418ad80da333f9bb8650363]: Textual amendment: Words in reg. 1(2) inserted (19.6.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment Regulations 1989 (S.I. 1989/872)](https://www.legislation.gov.uk/uksi/1989/872), [regs. 1](https://www.legislation.gov.uk/uksi/1989/872/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/872/regulation/2/2)
+[^c-843d913e7418ad80da333f9bb8650363]: Textual amendment: Words in reg. 1(2) inserted (19.6.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment Regulations 1989 (S.I. 1989/872)](https://www.legislation.gov.uk/uksi/1989/872), [regs. 1](https://www.legislation.gov.uk/uksi/1989/872/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/872/regulation/2/2)
 
-[^key-6cdcd4650b6d5a607b91b876c02e574e]: Textual amendment: Words in reg. 1(2) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/1991/387/article/6/a/iii)
+[^c-6cdcd4650b6d5a607b91b876c02e574e]: Textual amendment: Words in reg. 1(2) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/1991/387/article/6/a/iii)
 
-[^key-8aef582586b261d08e0df300aa626bb9]: Textual amendment: Words in reg. 1(2) inserted (11.8.1993) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment Regulations 1993 (S.I. 1993/1754)](https://www.legislation.gov.uk/uksi/1993/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1754/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1993/1754/regulation/2)
+[^c-8aef582586b261d08e0df300aa626bb9]: Textual amendment: Words in reg. 1(2) inserted (11.8.1993) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment Regulations 1993 (S.I. 1993/1754)](https://www.legislation.gov.uk/uksi/1993/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1754/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1993/1754/regulation/2)
 
-[^key-bb0f57451780e903c1590e732d3e83ae]: Textual amendment: Reg. 2 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+[^c-bb0f57451780e903c1590e732d3e83ae]: Textual amendment: Reg. 2 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
 
-[^key-ceb6e26c2eb256a82e4faeb862b098c4]: Textual amendment: Reg. 3 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/4) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-ceb6e26c2eb256a82e4faeb862b098c4]: Textual amendment: Reg. 3 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/4) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-f1aa2fbe860ebf47b9096bdbbe74d344]: Textual amendment: [Regs. 4-7](https://www.legislation.gov.uk/uksi/1983/1598/regulation/4) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule) (with transitional provisions in [S.I. 1995/3276](https://www.legislation.gov.uk/uksi/1995/3276), [regs. 7](https://www.legislation.gov.uk/uksi/1995/3276/regulation/7), [11](https://www.legislation.gov.uk/uksi/1995/3276/regulation/11))
+[^c-f1aa2fbe860ebf47b9096bdbbe74d344]: Textual amendment: [Regs. 4-7](https://www.legislation.gov.uk/uksi/1983/1598/regulation/4) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule) (with transitional provisions in [S.I. 1995/3276](https://www.legislation.gov.uk/uksi/1995/3276), [regs. 7](https://www.legislation.gov.uk/uksi/1995/3276/regulation/7), [11](https://www.legislation.gov.uk/uksi/1995/3276/regulation/11))
 
-[^key-7967e502ef67b64335d780100a31a8f7]: Textual amendment: Reg. 6A inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1989/1324/regulation/3)
+[^c-7967e502ef67b64335d780100a31a8f7]: Textual amendment: Reg. 6A inserted (9.10.1989) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1989/1324/regulation/3)
 
-[^key-564023603a023364db29dd2de5d56951]: Textual amendment: Words in reg. 7 heading omitted (13.4.1995) by virtue of [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(8)(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/8/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-564023603a023364db29dd2de5d56951]: Textual amendment: Words in reg. 7 heading omitted (13.4.1995) by virtue of [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(8)(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/8/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-a02b8888ba8dea26d59f74dd52c9794f]: Textual amendment: Reg. 7A revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/9) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-a02b8888ba8dea26d59f74dd52c9794f]: Textual amendment: Reg. 7A revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/9) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-7939c0ec7ecce3516e4aa9c9a8cf3f2e]: Textual amendment: Reg. 7B revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+[^c-7939c0ec7ecce3516e4aa9c9a8cf3f2e]: Textual amendment: Reg. 7B revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
 
-[^key-2cc25e964cb08643c6567c89daa03aa9]: Textual amendment: Reg. 8 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/9) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-2cc25e964cb08643c6567c89daa03aa9]: Textual amendment: Reg. 8 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/9) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-3b09bf83617010917f1859dacd0a073b]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/1983/1598/regulation/8A) revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/9) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-3b09bf83617010917f1859dacd0a073b]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/1983/1598/regulation/8A) revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/9) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
 [^M_F_2bfed23c-d1da-4cf5-8066-89af307ea77b]: Textual amendment: Reg. 8A inserted (06.04.1986) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment Regulations 1986 (S.I. 1986/484)](https://www.legislation.gov.uk/uksi/1986/484), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1986/484/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1986/484/regulation/3)
 
-[^key-862907ea66cddd7a1475b2501e305b72]: Textual amendment: [Regs. 9-14](https://www.legislation.gov.uk/uksi/1983/1598/regulation/9) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+[^c-862907ea66cddd7a1475b2501e305b72]: Textual amendment: [Regs. 9-14](https://www.legislation.gov.uk/uksi/1983/1598/regulation/9) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
 
 [^M_F_76262e90-a4a0-4633-80c8-05dd8305f8d5]: Textual amendment: Reg. 12A inserted (02.05.1988) by [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment Regulations 1988 (S.I. 1988/689)](https://www.legislation.gov.uk/uksi/1988/689), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/689/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1988/689/regulation/2)
 
-[^key-0efa912f3471df2a8aa67719cb48303e]: Textual amendment: Reg. 15 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/11) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-0efa912f3471df2a8aa67719cb48303e]: Textual amendment: Reg. 15 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/11) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-b69445f11beeb499814999ff589df4b6]: Textual amendment: Reg. 16 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+[^c-b69445f11beeb499814999ff589df4b6]: Textual amendment: Reg. 16 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
 
-[^key-aa51bbadec5de4e867e59cfde094e265]: Textual amendment: Reg. 17 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/11) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-aa51bbadec5de4e867e59cfde094e265]: Textual amendment: Reg. 17 revoked (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/11) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
 
-[^key-9b085b40ba1c230a5798dd987b2ad39a]: Textual amendment: Reg. 19 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+[^c-9b085b40ba1c230a5798dd987b2ad39a]: Textual amendment: Reg. 19 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
 
-[^key-dd9ce5c141710c0ac7b5bad4b5ab8c0d]: Textual amendment: Words in reg. 20 substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [25](https://www.legislation.gov.uk/uksi/1996/1345/regulation/25)
+[^c-dd9ce5c141710c0ac7b5bad4b5ab8c0d]: Textual amendment: Words in reg. 20 substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [25](https://www.legislation.gov.uk/uksi/1996/1345/regulation/25)
 
-[^key-65af5560e5aa6252e8addea678c0cbf5]: Textual amendment: Words in reg. 20(1) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2008/2428/regulation/21)
+[^c-65af5560e5aa6252e8addea678c0cbf5]: Textual amendment: Words in reg. 20(1) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2008/2428/regulation/21)
 
 [^f00008]: Footnote: (O.J.S.E. 1971(II), p. 416).
 
-[^key-b131630b57d49038911d1d8df8451fe1]: Textual amendment: Words in reg. 20(2)(b)(ii) added (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/a)
+[^c-b131630b57d49038911d1d8df8451fe1]: Textual amendment: Words in reg. 20(2)(b)(ii) added (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/a)
 
-[^key-4e012b56ef291329cd1d18aa1e363362]: Textual amendment: Words in reg. 20(4)(a) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/b)
+[^c-4e012b56ef291329cd1d18aa1e363362]: Textual amendment: Words in reg. 20(4)(a) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/b)
 
-[^key-2c5bfc6457f97098822ef314cf91faef]: Textual amendment: Words in reg. 20(4)(c) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(c)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/c)
+[^c-2c5bfc6457f97098822ef314cf91faef]: Textual amendment: Words in reg. 20(4)(c) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(c)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/c)
 
-[^key-493de7e854bcf6a9ac71c87aefc259e0]: Textual amendment: Words in reg. 20(4) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(d)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/d)
+[^c-493de7e854bcf6a9ac71c87aefc259e0]: Textual amendment: Words in reg. 20(4) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 3(1)(d)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/3/1/d)
 
 [^f00009]: Footnote: Relevant amending instruments are S.I. 1950/1946, 1958/1084, 1960/1210.
 
-[^key-4b6359508d49d4bbe8d1d4ec96f03fa4]: Textual amendment: Reg. 21 omitted (9.10.1989) by virtue of [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1989/1324/regulation/8)
+[^c-4b6359508d49d4bbe8d1d4ec96f03fa4]: Textual amendment: Reg. 21 omitted (9.10.1989) by virtue of [The Social Security (Unemployment, Sickness and Invalidity Benefit) Amendment No. 2 Regulations 1989 (S.I. 1989/1324)](https://www.legislation.gov.uk/uksi/1989/1324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1324/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1989/1324/regulation/8)
 
-[^key-116924413fee4493f14969fef7c7e921]: Textual amendment: Reg. 22 omitted (1.9.1990) by virtue of [The Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990 (S.I. 1990/1549)](https://www.legislation.gov.uk/uksi/1990/1549), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/1549/regulation/1/1/a), [6(3)](https://www.legislation.gov.uk/uksi/1990/1549/regulation/6/3) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/1990/1549/regulation/7/1))
+[^c-116924413fee4493f14969fef7c7e921]: Textual amendment: Reg. 22 omitted (1.9.1990) by virtue of [The Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990 (S.I. 1990/1549)](https://www.legislation.gov.uk/uksi/1990/1549), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/1549/regulation/1/1/a), [6(3)](https://www.legislation.gov.uk/uksi/1990/1549/regulation/6/3) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/1990/1549/regulation/7/1))
 
-[^key-d29c20ed647f6bbe5c72a4b3c203aa63]: Textual amendment: Regs. 23-28 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+[^c-d29c20ed647f6bbe5c72a4b3c203aa63]: Textual amendment: Regs. 23-28 revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
 
-[^key-43cb5f0c1f4aea3fd3d916ac4001a1a3]: Textual amendment: Pt. 4A substituted for Pt. 4 (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(14)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/14) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+[^c-43cb5f0c1f4aea3fd3d916ac4001a1a3]: Textual amendment: Pt. 4A substituted for Pt. 4 (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [17(14)](https://www.legislation.gov.uk/uksi/1995/829/regulation/17/14) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))

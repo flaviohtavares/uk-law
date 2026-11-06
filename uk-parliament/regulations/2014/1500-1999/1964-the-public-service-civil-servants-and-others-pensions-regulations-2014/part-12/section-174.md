@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Reduction of benefits where annual allowance charge paid by scheme manager[^key-4b9de49a23436cb18a34c262a962a64a]
+## 174. Reduction of benefits where annual allowance charge paid by scheme manager[^c-4b9de49a23436cb18a34c262a962a64a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b9de49a23436cb18a34c262a962a64a]: Commencement: [Reg. 174](https://www.legislation.gov.uk/uksi/2014/1964/regulation/174) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-4b9de49a23436cb18a34c262a962a64a]: Commencement: [Reg. 174](https://www.legislation.gov.uk/uksi/2014/1964/regulation/174) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

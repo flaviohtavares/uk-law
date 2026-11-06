@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Secretary of State's power to give directions to UKRI[^key-99b74fff934f7a3a7add15efa8955b75]
+## 102. Secretary of State's power to give directions to UKRI[^c-99b74fff934f7a3a7add15efa8955b75]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99b74fff934f7a3a7add15efa8955b75]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/29/section/102) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-99b74fff934f7a3a7add15efa8955b75]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/29/section/102) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

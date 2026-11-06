@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Costs not to fall on building society liquidator[^key-c723ab4425003b385f695c7e7675825f]
+## 161. Costs not to fall on building society liquidator[^c-c723ab4425003b385f695c7e7675825f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The building society liquidator is not personally liable for any costs incurred 
 
 ## Annotations
 
-[^key-c723ab4425003b385f695c7e7675825f]: Commencement: Rule 161 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-c723ab4425003b385f695c7e7675825f]: Commencement: Rule 161 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

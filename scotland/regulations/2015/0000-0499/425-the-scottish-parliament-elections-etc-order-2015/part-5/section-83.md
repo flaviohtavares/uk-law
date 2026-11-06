@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Vacancies: constituency seats[^key-20a13a2f8294c1c83ffc67214501da49]
+## 83. Vacancies: constituency seats[^c-20a13a2f8294c1c83ffc67214501da49]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the seat of a constituency member is vacant and the date of the poll at an
 
 ## Annotations
 
-[^key-20a13a2f8294c1c83ffc67214501da49]: Commencement: Art. 83 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-20a13a2f8294c1c83ffc67214501da49]: Commencement: Art. 83 in force at 16.12.2015 in accordance with art. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Llanvihangel Wolvesnewton — change of community ward name[^key-bf4db23c8fa394afa05dfe92866384b5][^key-e945a0d254e41b0f8c08fa69952ebbd9]
+## 97. Llanvihangel Wolvesnewton — change of community ward name[^c-bf4db23c8fa394afa05dfe92866384b5][^c-e945a0d254e41b0f8c08fa69952ebbd9]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The existing Llanvihangel Wolvesnewton ward of the community of Devauden as chan
 
 ## Annotations
 
-[^key-bf4db23c8fa394afa05dfe92866384b5]: Commencement: Art. 97 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-bf4db23c8fa394afa05dfe92866384b5]: Commencement: Art. 97 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-e945a0d254e41b0f8c08fa69952ebbd9]: Commencement: [Art. 97](https://www.legislation.gov.uk/wsi/2021/1227/article/97) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-e945a0d254e41b0f8c08fa69952ebbd9]: Commencement: [Art. 97](https://www.legislation.gov.uk/wsi/2021/1227/article/97) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

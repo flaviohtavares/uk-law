@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Saving provision in connection with access to benefits and services[^key-a9fccaf35ba160569928ff8e5230ada5][^M_I_62e31e7a-3a8e-4d28-87bf-3b4b33858be5]
+## 83. Saving provision in connection with access to benefits and services[^c-a9fccaf35ba160569928ff8e5230ada5][^M_I_62e31e7a-3a8e-4d28-87bf-3b4b33858be5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 4 has effect.
 
 ## Annotations
 
-[^key-a9fccaf35ba160569928ff8e5230ada5]: Commencement: Reg. 83 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-a9fccaf35ba160569928ff8e5230ada5]: Commencement: Reg. 83 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_62e31e7a-3a8e-4d28-87bf-3b4b33858be5]: Commencement: Reg. 83 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)

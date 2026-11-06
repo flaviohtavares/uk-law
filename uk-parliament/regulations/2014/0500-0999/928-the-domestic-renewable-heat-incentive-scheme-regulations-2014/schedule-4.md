@@ -24,22 +24,22 @@ Regulations 17, 18, 45, 48 and 69
 
 ### PART 1 — Information required from all applicants making an accreditation application
 
-**1.**[^key-b97ca2cbaba8f81155c41ab11cc9cdb2] The information referred to in regulation 17(2)(a) is—
+**1.**[^c-b97ca2cbaba8f81155c41ab11cc9cdb2] The information referred to in regulation 17(2)(a) is—
 
 - (a) the address of the property to which the plant for which accreditation is sought provides heat;
 - (b) where the applicant is an individual, the name, date of birth, address, e-mail address (if any) and telephone number (if any) of the applicant;
 - (c) where the applicant is not an individual, the name of the individual making the application on behalf of the applicant, the individual’s date of birth, address, e-mail address (if any) and telephone number (if any);
 - (d) where the applicant is a company, the trading or other name by which the applicant is commonly known, its registration number, and the address of its registered office;
-- (e) where the applicant is a social landlord other than a local authority[^key-5e4852400b130bf02667b1669ab8ab55], the name by which the applicant is commonly known, the details of its registration, and the address of its registered office;
+- (e) where the applicant is a social landlord other than a local authority[^c-5e4852400b130bf02667b1669ab8ab55], the name by which the applicant is commonly known, the details of its registration, and the address of its registered office;
 - (f) where the applicant is a local authority, the name by which the applicant is commonly known and its address;
-- (g) except where there is to be an assignment and no registration application is to be made under regulation 50,[^key-12538e8c71ec3decda116fb77d2b5c3b] details of a bank account in the applicant’s name which accepts pound sterling deposits in the United Kingdom into which any RHI payments or MM payments[^key-98e664ee900b844e502f85f0410b16a8] may be paid;
+- (g) except where there is to be an assignment and no registration application is to be made under regulation 50,[^c-12538e8c71ec3decda116fb77d2b5c3b] details of a bank account in the applicant’s name which accepts pound sterling deposits in the United Kingdom into which any RHI payments or MM payments[^c-98e664ee900b844e502f85f0410b16a8] may be paid;
 - (h) the unique reference number or numbers under which the plant for which accreditation is sought is registered on the MCS register;
 - (i) the unique reference number for the Energy Performance Certificate for the property to which the plant for which accreditation is sought provides heat which is the most recent Energy Performance Certificate for the property on the date on which the application is made; and
-- (j)[^key-8988f1caa9953e344343692b6fd9a062] where there is to be an assignment, a copy of the contract under which the applicant has entered into the assignment agreement, and the Unique Registered Investor Reference of the RI that the participant is seeking to nominate.
+- (j)[^c-8988f1caa9953e344343692b6fd9a062] where there is to be an assignment, a copy of the contract under which the applicant has entered into the assignment agreement, and the Unique Registered Investor Reference of the RI that the participant is seeking to nominate.
 
 ### PART 2 — Additional information which may be required from an applicant for accreditation
 
-**2.**[^key-6b33a4a73474161fc6d9bec775882215] The information referred to in regulation 17(2)(b) is—
+**2.**[^c-6b33a4a73474161fc6d9bec775882215] The information referred to in regulation 17(2)(b) is—
 
 - (a) information to enable the Authority to satisfy itself as to the identity of the individual completing the application;
 - (b) where an individual is making an application on behalf of the applicant, evidence which satisfies the Authority that the individual has authority from that person to make the application on its behalf;
@@ -64,14 +64,14 @@ Regulations 17, 18, 45, 48 and 69
 
 ## Annotations
 
-[^key-b97ca2cbaba8f81155c41ab11cc9cdb2]: Commencement: Sch. 4 para. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-b97ca2cbaba8f81155c41ab11cc9cdb2]: Commencement: Sch. 4 para. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-5e4852400b130bf02667b1669ab8ab55]: Textual amendment: Words in [Sch. 4 para. 1(e)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/e) substituted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2015/143/regulation/19/2)
+[^c-5e4852400b130bf02667b1669ab8ab55]: Textual amendment: Words in [Sch. 4 para. 1(e)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/e) substituted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2015/143/regulation/19/2)
 
-[^key-12538e8c71ec3decda116fb77d2b5c3b]: Textual amendment: Words in [Sch. 4 para. 1(g)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/g) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [39(a)](https://www.legislation.gov.uk/uksi/2018/610/regulation/39/a)
+[^c-12538e8c71ec3decda116fb77d2b5c3b]: Textual amendment: Words in [Sch. 4 para. 1(g)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/g) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [39(a)](https://www.legislation.gov.uk/uksi/2018/610/regulation/39/a)
 
-[^key-98e664ee900b844e502f85f0410b16a8]: Textual amendment: Words in [Sch. 4 para. 1(g)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/g) inserted (27.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2018/635/regulation/7)
+[^c-98e664ee900b844e502f85f0410b16a8]: Textual amendment: Words in [Sch. 4 para. 1(g)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/g) inserted (27.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2018/635/regulation/7)
 
-[^key-8988f1caa9953e344343692b6fd9a062]: Textual amendment: [Sch. 4 para. 1(j)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/j) inserted (22.5.2018) by virtue of [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [39(c)](https://www.legislation.gov.uk/uksi/2018/610/regulation/39/c)
+[^c-8988f1caa9953e344343692b6fd9a062]: Textual amendment: [Sch. 4 para. 1(j)](https://www.legislation.gov.uk/uksi/2014/928/schedule/4/paragraph/1/j) inserted (22.5.2018) by virtue of [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [39(c)](https://www.legislation.gov.uk/uksi/2018/610/regulation/39/c)
 
-[^key-6b33a4a73474161fc6d9bec775882215]: Commencement: Sch. 4 para. 2 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-6b33a4a73474161fc6d9bec775882215]: Commencement: Sch. 4 para. 2 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

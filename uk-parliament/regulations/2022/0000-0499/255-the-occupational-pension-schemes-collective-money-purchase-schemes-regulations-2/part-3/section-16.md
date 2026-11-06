@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Continuity strategy: administration charges[^key-36a3dffc49bbabb1fac3d6e019926039]
+## 16. Continuity strategy: administration charges[^c-36a3dffc49bbabb1fac3d6e019926039]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36a3dffc49bbabb1fac3d6e019926039]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/255/regulation/16) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-36a3dffc49bbabb1fac3d6e019926039]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/255/regulation/16) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

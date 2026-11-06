@@ -75,7 +75,7 @@ summary: ''
 
 (2) In section 247 of that Act (provision of incorrect information)—
 
-- (a)[^key-ef2d61f084c0897ed9e86a863ab78974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ef2d61f084c0897ed9e86a863ab78974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3), for “£500” and “£250” there shall be substituted “ £3,000 ” and “ £1,500 ” respectively; and
 - (c) in subsection (4), for “£500” there shall be substituted “ £3,000 ”.
 
@@ -93,6 +93,6 @@ where the period within which the person is required to perform the obligation i
 
 [^c1126327]: Marginal citation: [1984 c.51](https://www.legislation.gov.uk/ukpga/1984/51).
 
-[^key-ef2d61f084c0897ed9e86a863ab78974]: Textual amendment: [S. 108(2)(a)](https://www.legislation.gov.uk/ukpga/1999/16/section/108/2/a) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/g); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)
+[^c-ef2d61f084c0897ed9e86a863ab78974]: Textual amendment: [S. 108(2)(a)](https://www.legislation.gov.uk/ukpga/1999/16/section/108/2/a) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/g); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)
 
 [^c1126328]: Marginal citation: [1984 c.51](https://www.legislation.gov.uk/ukpga/1984/51).

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Qualifying schemes[^c24458081][^key-312688b1f6f2e06173ce2947119efd2b]
+## 3. Qualifying schemes[^c24458081][^c-312688b1f6f2e06173ce2947119efd2b]
 
 *Extent: E+W+S*
 
 (1) A pension scheme is a “qualifying scheme” if it meets the requirements in this section.
 
-(2) The scheme must be an occupational pension scheme established under an irrevocable trust [^key-ccd7370d579470cb844d1ef11b614c09]....
+(2) The scheme must be an occupational pension scheme established under an irrevocable trust [^c-ccd7370d579470cb844d1ef11b614c09]....
 
-(3)[^key-b7cb6bfb3e6a87f632b3ac8ecb626f63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b7cb6bfb3e6a87f632b3ac8ecb626f63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The scheme must not be a relevant public service pension scheme (see section 4).
 
@@ -54,8 +54,8 @@ summary: ''
 
 [^c24458081]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/1/section/3) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-312688b1f6f2e06173ce2947119efd2b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/1/section/3) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/721/regulation/4))
+[^c-312688b1f6f2e06173ce2947119efd2b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/1/section/3) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/721/regulation/4))
 
-[^key-ccd7370d579470cb844d1ef11b614c09]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/3/2) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/3/2/a)
+[^c-ccd7370d579470cb844d1ef11b614c09]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/3/2) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/3/2/a)
 
-[^key-b7cb6bfb3e6a87f632b3ac8ecb626f63]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/3/3) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/3/2/b)
+[^c-b7cb6bfb3e6a87f632b3ac8ecb626f63]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/3/3) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/3/2/b)

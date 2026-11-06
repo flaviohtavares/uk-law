@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX II — UNION FINANCIAL ASSISTANCE: 11th EDF[^key-c95bff0682d91636b7e74b32bac558c9]
+## ANNEX II — UNION FINANCIAL ASSISTANCE: 11th EDF[^c-c95bff0682d91636b7e74b32bac558c9]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Article 1. Allocation between the various instruments[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 1. Allocation between the various instruments[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. Administration of resources[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 2. Administration of resources[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Allocation between the OCTs[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 3. Allocation between the OCTs[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

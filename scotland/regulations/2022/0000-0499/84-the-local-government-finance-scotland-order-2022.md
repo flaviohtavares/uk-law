@@ -45,15 +45,15 @@ In accordance with paragraph 2(2) of that schedule, they have consulted with suc
 
 In accordance with paragraph 2(3) of that schedule[^f00002], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-0e4bbf87e51cd5bbc6412aaa759283da]
+## 1. Citation and commencement[^c-0e4bbf87e51cd5bbc6412aaa759283da]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2022 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2022-2023[^key-356eb93062d00890dc9493c22ff56c2f]
+## 2. Revenue support grant for 2022-2023[^c-356eb93062d00890dc9493c22ff56c2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2022-2023[^key-dcfeffaa09cb8509c80660e8b15378e3]
+## 3. Distribution of non-domestic rate income for 2022-2023[^c-dcfeffaa09cb8509c80660e8b15378e3]
 
 (1) The distributable amount of non‑domestic rate income arrived at under paragraph 9 of schedule 12 of the Local Government Finance Act 1992 in respect of the financial year 2022-2023 is £2,766,000,000.
 
@@ -61,13 +61,13 @@ This Order may be cited as the Local Government Finance (Scotland) Order 2022 an
 
 (3) The amount of non‑domestic rate income distributed to each local authority specified in column 1 of schedule 1 in respect of the financial year 2022-2023 is that part of the distributable amount for that year determined in relation to that local authority set out in column 3 of that schedule opposite the name of that local authority.
 
-## 4. Revenue support grant for 2021-2022[^key-4807afe72d39c1115d39200460cff765]
+## 4. Revenue support grant for 2021-2022[^c-4807afe72d39c1115d39200460cff765]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2021-2022 are specified in column 1 of schedule 2.
 
 (2) The amount of the revenue support grant payable to each local authority specified in column 1 of schedule 2 in respect of the financial year 2021-2022 is the amount redetermined in relation to that local authority set out in column 2 of that schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-30502717b20cf5e775f3d74fdffb1551]
+## 5. Revocations[^c-30502717b20cf5e775f3d74fdffb1551]
 
 Article 2 and column 2 of schedule 1 of the Local Government Finance (Scotland) Order 2021[^f00003] (which previously determined the amount of revenue support grant payable to each local authority in respect of the financial year 2021-22) are revoked.
 
@@ -81,7 +81,7 @@ Edinburgh
 
 8th March 2022
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2022-2023[^key-be346c24a6602b357f4bf93b946883fa]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2022-2023[^c-be346c24a6602b357f4bf93b946883fa]
 
 Articles 2 and 3
 
@@ -128,9 +128,9 @@ Articles 2 and 3
 </tbody>
 </table>
 
-[^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f][^key-b70c52bbb17f7544f23d11731f03914f]
+[^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f][^c-b70c52bbb17f7544f23d11731f03914f]
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2021-2022[^key-93cb95998b0f9fbe7021f1ec8c11af7c]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2021-2022[^c-93cb95998b0f9fbe7021f1ec8c11af7c]
 
 Article 4
 
@@ -194,20 +194,20 @@ This Order—
 
 [^f00002]: Footnote: Paragraph 2(3) has been modified by paragraph 6 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-0e4bbf87e51cd5bbc6412aaa759283da]: Commencement: Art. 1 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
+[^c-0e4bbf87e51cd5bbc6412aaa759283da]: Commencement: Art. 1 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
 
-[^key-356eb93062d00890dc9493c22ff56c2f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2022/84/article/2) revoked (3.3.2023) by [The Local Government Finance (Scotland) Order 2023 (S.S.I. 2023/68)](https://www.legislation.gov.uk/ssi/2023/68), [arts. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1), [5](https://www.legislation.gov.uk/ssi/2023/68/article/5)
+[^c-356eb93062d00890dc9493c22ff56c2f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2022/84/article/2) revoked (3.3.2023) by [The Local Government Finance (Scotland) Order 2023 (S.S.I. 2023/68)](https://www.legislation.gov.uk/ssi/2023/68), [arts. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1), [5](https://www.legislation.gov.uk/ssi/2023/68/article/5)
 
-[^key-dcfeffaa09cb8509c80660e8b15378e3]: Commencement: Art. 3 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
+[^c-dcfeffaa09cb8509c80660e8b15378e3]: Commencement: Art. 3 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
 
-[^key-4807afe72d39c1115d39200460cff765]: Commencement: Art. 4 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
+[^c-4807afe72d39c1115d39200460cff765]: Commencement: Art. 4 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
 
-[^key-30502717b20cf5e775f3d74fdffb1551]: Commencement: Art. 5 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
+[^c-30502717b20cf5e775f3d74fdffb1551]: Commencement: Art. 5 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2021/157](https://www.legislation.gov.uk/ssi/2021/157).
 
-[^key-be346c24a6602b357f4bf93b946883fa]: Commencement: Sch. 1 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
+[^c-be346c24a6602b357f4bf93b946883fa]: Commencement: Sch. 1 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
 
-[^key-b70c52bbb17f7544f23d11731f03914f]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2022/84/schedule/1) revoked (3.3.2023) by [The Local Government Finance (Scotland) Order 2023 (S.S.I. 2023/68)](https://www.legislation.gov.uk/ssi/2023/68), [arts. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1), [5](https://www.legislation.gov.uk/ssi/2023/68/article/5)
+[^c-b70c52bbb17f7544f23d11731f03914f]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2022/84/schedule/1) revoked (3.3.2023) by [The Local Government Finance (Scotland) Order 2023 (S.S.I. 2023/68)](https://www.legislation.gov.uk/ssi/2023/68), [arts. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1), [5](https://www.legislation.gov.uk/ssi/2023/68/article/5)
 
-[^key-93cb95998b0f9fbe7021f1ec8c11af7c]: Commencement: Sch. 2 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)
+[^c-93cb95998b0f9fbe7021f1ec8c11af7c]: Commencement: Sch. 2 in force at 9.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/84/article/1)

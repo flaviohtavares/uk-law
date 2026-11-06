@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. FCA power to require information from a person to whom this regulation applies[^key-58908f31b8c6a8401a1f115166e0c292]
+## 47A. FCA power to require information from a person to whom this regulation applies[^c-58908f31b8c6a8401a1f115166e0c292]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ as it may reasonably require.
 
 ## Annotations
 
-[^key-58908f31b8c6a8401a1f115166e0c292]: Textual amendment: Regs. 47, 47A substituted for reg. 47 (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/6)
+[^c-58908f31b8c6a8401a1f115166e0c292]: Textual amendment: Regs. 47, 47A substituted for reg. 47 (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/6)

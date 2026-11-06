@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Employment and Support Allowance Regulations (Northern Ireland) 2008[^key-e4699cdf3fd3eb2dd41cb5dbaa647875]
+## 110. Employment and Support Allowance Regulations (Northern Ireland) 2008[^c-e4699cdf3fd3eb2dd41cb5dbaa647875]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2(1) of the Employment and Support Allowance Regulations (Northern
 
 ## Annotations
 
-[^key-e4699cdf3fd3eb2dd41cb5dbaa647875]: Commencement: Reg. 110 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e4699cdf3fd3eb2dd41cb5dbaa647875]: Commencement: Reg. 110 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00175]: Footnote: [S.R. (N.I.) 2008/280](https://www.legislation.gov.uk/nisr/2008/280).

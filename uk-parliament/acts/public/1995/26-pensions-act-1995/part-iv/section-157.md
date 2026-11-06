@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Jurisdiction of Pensions Ombudsman.[^key-468ab583e6ea190fd68c808330231c9e]
+## 157. Jurisdiction of Pensions Ombudsman.[^c-468ab583e6ea190fd68c808330231c9e]
 
 *Extent: E+W+S*
 
 (1) Sections 146 to 151 of the [^c2136362]Pension Schemes Act 1993 are amended as shown in subsections (2) to (11).
 
-(2)[^key-e0ccd4a1c517acbd6d9881462000822c] In section 146 (investigations concerning the trustees or managers of schemes), for subsections (1) to (4) there is substituted—
+(2)[^c-e0ccd4a1c517acbd6d9881462000822c] In section 146 (investigations concerning the trustees or managers of schemes), for subsections (1) to (4) there is substituted—
 
 > (1) The Pensions Ombudsman may investigate and determine the following complaints and disputes—
 >
@@ -101,10 +101,10 @@ summary: ''
 
 ## Annotations
 
-[^key-468ab583e6ea190fd68c808330231c9e]: Commencement: S. 157 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-468ab583e6ea190fd68c808330231c9e]: Commencement: S. 157 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136362]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-e0ccd4a1c517acbd6d9881462000822c]: Commencement: S. 157(2) in force at 1.6.1996 for specified purposes by [S.I. 1996/1412](https://www.legislation.gov.uk/uksi/1996/1412), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/1412/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1996/1412/schedule/part/II)
+[^c-e0ccd4a1c517acbd6d9881462000822c]: Commencement: S. 157(2) in force at 1.6.1996 for specified purposes by [S.I. 1996/1412](https://www.legislation.gov.uk/uksi/1996/1412), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/1412/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1996/1412/schedule/part/II)
 
 [^c2136363]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).

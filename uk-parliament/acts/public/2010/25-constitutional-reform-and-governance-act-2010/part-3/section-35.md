@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Relationships with other bodies etc[^key-6028b074b65ea8e32ce2ee1d13110fde]
+## 35. Relationships with other bodies etc[^c-6028b074b65ea8e32ce2ee1d13110fde]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ After section 10 of the Parliamentary Standards Act 2009 insert—
 
 ## Annotations
 
-[^key-6028b074b65ea8e32ce2ee1d13110fde]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/25/section/35) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/e)
+[^c-6028b074b65ea8e32ce2ee1d13110fde]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/25/section/35) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/e)

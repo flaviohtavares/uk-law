@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Conditions for the designation of persons by name[^key-5a1c231d23b68b2ece37dd08af63d2d2]
+## 5A. Conditions for the designation of persons by name[^c-5a1c231d23b68b2ece37dd08af63d2d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a1c231d23b68b2ece37dd08af63d2d2]: Textual amendment: Reg. 5A inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/394/regulation/13/3)
+[^c-5a1c231d23b68b2ece37dd08af63d2d2]: Textual amendment: Reg. 5A inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/394/regulation/13/3)

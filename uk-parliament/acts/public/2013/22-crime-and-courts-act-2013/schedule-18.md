@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 18 — Proceeds of crime: civil recovery of the proceeds etc of unlawful conduct[^key-526f41c9f069f301633558ab28e2600d]
+## SCHEDULE 18 — Proceeds of crime: civil recovery of the proceeds etc of unlawful conduct[^c-526f41c9f069f301633558ab28e2600d]
 
 *Extent: E+W+S*
 
@@ -24,11 +24,11 @@ Section 48
 
 ### Part 1 — Enforcement of interim orders in the United Kingdom
 
-**1.**[^c2195036][^key-23081c7637ee71b9405a836399fb03d1] Section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of UK judgments in other parts of UK) is amended as follows.
+**1.**[^c2195036][^c-23081c7637ee71b9405a836399fb03d1] Section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of UK judgments in other parts of UK) is amended as follows.
 
-**2.**[^c2195037][^key-4a04dfba062a0a5ca8dfd3585c2c7fcf] In subsection (5)(d) (provisional measures), at the end insert “ or an interim order made in connection with the civil recovery of proceeds of unlawful conduct ”.
+**2.**[^c2195037][^c-4a04dfba062a0a5ca8dfd3585c2c7fcf] In subsection (5)(d) (provisional measures), at the end insert “ or an interim order made in connection with the civil recovery of proceeds of unlawful conduct ”.
 
-**3.**[^c2195038][^key-db2051a391e0c1981a98aaf390adbf28] After subsection (6) insert—
+**3.**[^c2195038][^c-db2051a391e0c1981a98aaf390adbf28] After subsection (6) insert—
 
 > (6A) In subsection (5)(d), “**an interim order made in connection with the civil recovery of proceeds of unlawful conduct**” means any of the following made under Chapter 2 of Part 5 of the Proceeds of Crime Act 2002—
 >
@@ -183,19 +183,19 @@ Section 48
 
 ## Annotations
 
-[^key-526f41c9f069f301633558ab28e2600d]: Modification: [Sch. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18) extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-526f41c9f069f301633558ab28e2600d]: Modification: [Sch. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18) extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
 
 [^c2195036]: Extent: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/1): "the relevant civil recovery provisions" as specified in Sch. 25 para. 1, and to the extent there specified, do not extend to Northern Ireland, see [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/25/paragraph/2)
 
-[^key-23081c7637ee71b9405a836399fb03d1]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/1) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/964/article/2/b)
+[^c-23081c7637ee71b9405a836399fb03d1]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/1) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/964/article/2/b)
 
 [^c2195037]: Extent: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/2): "the relevant civil recovery provisions" as specified in Sch. 25 para. 1, and to the extent there specified, do not extend to Northern Ireland, see [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/25/paragraph/2)
 
-[^key-4a04dfba062a0a5ca8dfd3585c2c7fcf]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/2) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/964/article/2/b)
+[^c-4a04dfba062a0a5ca8dfd3585c2c7fcf]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/2) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/964/article/2/b)
 
 [^c2195038]: Extent: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/3): "the relevant civil recovery provisions" as specified in Sch. 25 para. 1, and to the extent there specified, do not extend to Northern Ireland, see [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/25/paragraph/2)
 
-[^key-db2051a391e0c1981a98aaf390adbf28]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/3) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/964/article/2/b)
+[^c-db2051a391e0c1981a98aaf390adbf28]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/3) in force at 1.6.2015 by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/964/article/2/b)
 
 [^c2195039]: Extent: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/4): "the relevant civil recovery provisions" as specified in Sch. 25 para. 1, and to the extent there specified, do not extend to Northern Ireland, see [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/25/paragraph/2)
 

@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Criminal Procedure and Investigations Act 1996 (Notification of Intention to Call Defence Witnesses) (Time Limits) Regulations 2010 (revoked)[^key-4c691d086c58107a9697d54e15497b09]
+The Criminal Procedure and Investigations Act 1996 (Notification of Intention to Call Defence Witnesses) (Time Limits) Regulations 2010 (revoked)[^c-4c691d086c58107a9697d54e15497b09]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st May 2010
 
-[^key-4c691d086c58107a9697d54e15497b09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c691d086c58107a9697d54e15497b09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-4c691d086c58107a9697d54e15497b09]
+## 1. Citation, commencement, extent and interpretation[^c-4c691d086c58107a9697d54e15497b09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Time limits[^key-4c691d086c58107a9697d54e15497b09]
+## 2. Time limits[^c-4c691d086c58107a9697d54e15497b09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4c691d086c58107a9697d54e15497b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4c691d086c58107a9697d54e15497b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4c691d086c58107a9697d54e15497b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4c691d086c58107a9697d54e15497b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c691d086c58107a9697d54e15497b09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c691d086c58107a9697d54e15497b09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4c691d086c58107a9697d54e15497b09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c691d086c58107a9697d54e15497b09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c691d086c58107a9697d54e15497b09]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/214) revoked (with saving) (28.2.2011) by [The Criminal Procedure and Investigations Act 1996 (Defence Disclosure Time Limits) Regulations 2011 (S.I. 2011/209)](https://www.legislation.gov.uk/uksi/2011/209), [reg. 4](https://www.legislation.gov.uk/uksi/2011/209/regulation/4)
+[^c-4c691d086c58107a9697d54e15497b09]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/214) revoked (with saving) (28.2.2011) by [The Criminal Procedure and Investigations Act 1996 (Defence Disclosure Time Limits) Regulations 2011 (S.I. 2011/209)](https://www.legislation.gov.uk/uksi/2011/209), [reg. 4](https://www.legislation.gov.uk/uksi/2011/209/regulation/4)

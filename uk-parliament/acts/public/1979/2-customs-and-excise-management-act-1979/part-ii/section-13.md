@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Unlawful assumption of character of officer, etc.[^key-3607abf08e7f05dcbec9fcbae38ea0be]
+## 13. Unlawful assumption of character of officer, etc.[^c-3607abf08e7f05dcbec9fcbae38ea0be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3607abf08e7f05dcbec9fcbae38ea0be]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1979/2/section/13) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-3607abf08e7f05dcbec9fcbae38ea0be]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1979/2/section/13) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

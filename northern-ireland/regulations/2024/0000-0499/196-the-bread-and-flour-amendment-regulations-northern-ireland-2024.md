@@ -44,13 +44,13 @@ The Department of Health has had regard to relevant advice given by the Food Sta
 
 There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], during the preparation and evaluation of these Regulations.
 
-## 1. Citation and Interpretation[^key-77d10eb33ef7776ade7e935f366c9729]
+## 1. Citation and Interpretation[^c-77d10eb33ef7776ade7e935f366c9729]
 
 (1)  These Regulations may be cited as the Bread and Flour (Amendment) Regulations (Northern Ireland) 2024.
 
 (2) In these Regulations, “**the Bread and Flour Regulations**” means the Bread and Flour Regulations (Northern Ireland) 1998.[^f00004]
 
-## 2. Commencement[^key-96e1e5c8af54373de66fb8fcc3896961]
+## 2. Commencement[^c-96e1e5c8af54373de66fb8fcc3896961]
 
 (1) The following provisions of these Regulations come into operation on 13th December 2024—
 
@@ -61,11 +61,11 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 - (a) regulation 3(1) for the purpose of commencing the provisions of paragraphs (7) and (8) of that regulation.
 
-## 3. Amendment of the Bread and Flour Regulations[^key-ffd829a408c5d62b2f0182e8eef733c1][^key-f1b6a16562170c8e11cf6465b1043071]
+## 3. Amendment of the Bread and Flour Regulations[^c-ffd829a408c5d62b2f0182e8eef733c1][^c-f1b6a16562170c8e11cf6465b1043071]
 
-(1)[^key-ffd829a408c5d62b2f0182e8eef733c1] The Bread and Flour Regulations are amended as follows.
+(1)[^c-ffd829a408c5d62b2f0182e8eef733c1] The Bread and Flour Regulations are amended as follows.
 
-(2)[^key-ffd829a408c5d62b2f0182e8eef733c1] In regulation 2 (Interpretation)—
+(2)[^c-ffd829a408c5d62b2f0182e8eef733c1] In regulation 2 (Interpretation)—
 
 - (a) after the definition of “bread”, insert—
 
@@ -79,7 +79,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
   .
 
-(3)[^key-ffd829a408c5d62b2f0182e8eef733c1] In regulation 3 (Exemptions)—
+(3)[^c-ffd829a408c5d62b2f0182e8eef733c1] In regulation 3 (Exemptions)—
 
 - (a) for paragraph (2) substitute—
 
@@ -97,7 +97,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
   .
 
-(4)[^key-ffd829a408c5d62b2f0182e8eef733c1] In regulation 4 (Composition of flour)—
+(4)[^c-ffd829a408c5d62b2f0182e8eef733c1] In regulation 4 (Composition of flour)—
 
 - (a) in paragraph (1)—
   - (i) for the words “paragraph (2)” substitute “paragraphs (1A) and (2)”;
@@ -119,9 +119,9 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
   .
 
-(5)[^key-ffd829a408c5d62b2f0182e8eef733c1] Omit regulation 7 (Offences and penalties).
+(5)[^c-ffd829a408c5d62b2f0182e8eef733c1] Omit regulation 7 (Offences and penalties).
 
-(6)[^key-ffd829a408c5d62b2f0182e8eef733c1] For regulation 10 (Application of various provisions of the Order), substitute—
+(6)[^c-ffd829a408c5d62b2f0182e8eef733c1] For regulation 10 (Application of various provisions of the Order), substitute—
 
 > **10. Application and modification of provisions of the Order**
 >
@@ -142,7 +142,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 (8) For Schedule 1 substitute Schedule 1 as set out in Schedule 1 to these Regulations.
 
-(9)[^key-ffd829a408c5d62b2f0182e8eef733c1] After Schedule 4 insert Schedule 5 as set out in Schedule 2 to these Regulations.
+(9)[^c-ffd829a408c5d62b2f0182e8eef733c1] After Schedule 4 insert Schedule 5 as set out in Schedule 2 to these Regulations.
 
 Sealed with the official seal of the Department of Health on 20th November 2024.
 
@@ -150,7 +150,7 @@ Chris Matthews
 
 A senior officer of the Department of Health
 
-## SCHEDULE 1[^key-673268ad375850e9c27fc7b13797fc03]
+## SCHEDULE 1[^c-673268ad375850e9c27fc7b13797fc03]
 
 **Not yet in force.**
 
@@ -178,7 +178,7 @@ Regulation 3(8)
 >
 > [^f01000]
 
-## SCHEDULE 2[^key-589f6a16775aa9d4f7e07c6f3b36b0ec]
+## SCHEDULE 2[^c-589f6a16775aa9d4f7e07c6f3b36b0ec]
 
 Regulation 3(9)
 
@@ -224,20 +224,20 @@ The British Pharmacopeia 1973 and 2023, referred to in Schedule 1, may be inspec
 
 [^f00003]: Footnote: OJ L 31, 1.2.2002, p. 1–24, as last amended by Commission Delegated [Regulation (EU) 2024/908](https://www.legislation.gov.uk/european/regulation/2024/0908) (OJL, 2024/908, 20.3.2024)
 
-[^key-77d10eb33ef7776ade7e935f366c9729]: Commencement: Reg. 1 in operation at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/a)
+[^c-77d10eb33ef7776ade7e935f366c9729]: Commencement: Reg. 1 in operation at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/a)
 
 [^f00004]: Footnote: [S.R. 1998 No.24](https://www.legislation.gov.uk/nisr/1998/24) as amended by [S.R. 1999 No.244](https://www.legislation.gov.uk/nisr/1999/244), [S.R. 2005 No.574](https://www.legislation.gov.uk/nisr/2005/574), [S.R. 2014 No.223](https://www.legislation.gov.uk/nisr/2014/223) and [S.R. 2019 No.5](https://www.legislation.gov.uk/nisr/2019/5)
 
-[^key-96e1e5c8af54373de66fb8fcc3896961]: Commencement: Reg. 2 in operation at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/a)
+[^c-96e1e5c8af54373de66fb8fcc3896961]: Commencement: Reg. 2 in operation at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/a)
 
-[^key-ffd829a408c5d62b2f0182e8eef733c1]: Commencement: Reg. 3(1)(2)-(6)(9) in operation at 13.12.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b)
+[^c-ffd829a408c5d62b2f0182e8eef733c1]: Commencement: Reg. 3(1)(2)-(6)(9) in operation at 13.12.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b)
 
-[^key-f1b6a16562170c8e11cf6465b1043071]: Commencement: Reg. 3(7)(8) in operation at 13.12.2026, see [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/2/a)
+[^c-f1b6a16562170c8e11cf6465b1043071]: Commencement: Reg. 3(7)(8) in operation at 13.12.2026, see [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/2/a)
 
-[^key-673268ad375850e9c27fc7b13797fc03]: Commencement: Sch. 1 in operation at 13.12.2026, see [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/2/a)
+[^c-673268ad375850e9c27fc7b13797fc03]: Commencement: Sch. 1 in operation at 13.12.2026, see [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/2/a)
 
 [^f01000]: Footnote: (a)
 
     OJ L 83, 22.3.2012, p. 1–295
 
-[^key-589f6a16775aa9d4f7e07c6f3b36b0ec]: Commencement: Sch. 2 in operation at 13.12.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b)
+[^c-589f6a16775aa9d4f7e07c6f3b36b0ec]: Commencement: Sch. 2 in operation at 13.12.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b)

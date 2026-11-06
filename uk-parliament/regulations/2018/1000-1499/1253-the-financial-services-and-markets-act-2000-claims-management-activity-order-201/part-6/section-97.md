@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Crime and Courts Act 2013[^key-0c891f74ec28f3914931e87c45dc520e][^key-e7764c9e454d0adc8eb49aa47084ae0b]
+## 97. Crime and Courts Act 2013[^c-0c891f74ec28f3914931e87c45dc520e][^c-e7764c9e454d0adc8eb49aa47084ae0b]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ In Schedule 9 to the Crime and Courts Act 2013[^f00136] (single county court in 
 
 ## Annotations
 
-[^key-0c891f74ec28f3914931e87c45dc520e]: Commencement: Art. 97 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-0c891f74ec28f3914931e87c45dc520e]: Commencement: Art. 97 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-e7764c9e454d0adc8eb49aa47084ae0b]: Commencement: [Art. 97](https://www.legislation.gov.uk/uksi/2018/1253/article/97) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-e7764c9e454d0adc8eb49aa47084ae0b]: Commencement: [Art. 97](https://www.legislation.gov.uk/uksi/2018/1253/article/97) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00136]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).

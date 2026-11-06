@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 245. False representation of status for purpose of inspecting documents[^key-d1a24efb605eaba95c25712055dd2a7d]
+## 245. False representation of status for purpose of inspecting documents[^c-d1a24efb605eaba95c25712055dd2a7d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1a24efb605eaba95c25712055dd2a7d]: Commencement: [Rule 245](https://www.legislation.gov.uk/nisr/2026/11/rule/245) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d1a24efb605eaba95c25712055dd2a7d]: Commencement: [Rule 245](https://www.legislation.gov.uk/nisr/2026/11/rule/245) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

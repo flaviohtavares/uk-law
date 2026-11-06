@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Regulations, rules and orders.[^key-55fcc7c1bdaf45ee1fbececa09411703]
+## 134. Regulations, rules and orders.[^c-55fcc7c1bdaf45ee1fbececa09411703]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (5) Regulations or rules made under any provision of this Act (other than one contained in Part I or II), and any order made by the Secretary of State under any provision of this Act (including one so contained), may make different provision for different cases to which those regulations or rules or (as the case may be) to which that order applies, and may in particular make different provision as respects different areas.
 
-(6)[^key-2da0824ad3b52d97799e72a02c6512b1] Regulations made by the Welsh Ministers under any of the specified provisions may make different provision for different cases to which the regulations apply, and may in particular—
+(6)[^c-2da0824ad3b52d97799e72a02c6512b1] Regulations made by the Welsh Ministers under any of the specified provisions may make different provision for different cases to which the regulations apply, and may in particular—
 
 - (a) make different provision as respects different areas; and
 - (b) make different provision as respects different classes or descriptions of vehicles or as respects the same class or description of vehicles in different circumstances.
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55fcc7c1bdaf45ee1fbececa09411703]: Modification: S. 134 modified (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 60(5)](https://www.legislation.gov.uk/ukpga/2008/26/section/60/5), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-55fcc7c1bdaf45ee1fbececa09411703]: Modification: S. 134 modified (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 60(5)](https://www.legislation.gov.uk/ukpga/2008/26/section/60/5), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
 
-[^key-2da0824ad3b52d97799e72a02c6512b1]: Textual amendment: S. 134(6)-(8) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/44) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-2da0824ad3b52d97799e72a02c6512b1]: Textual amendment: S. 134(6)-(8) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/44) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

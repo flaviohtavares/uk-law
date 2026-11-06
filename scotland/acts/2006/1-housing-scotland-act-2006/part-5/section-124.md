@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Requirement for HMOs to be licensed[^key-7fa0dfa01f936d4e72005f42a59cdf13]
+## 124. Requirement for HMOs to be licensed[^c-7fa0dfa01f936d4e72005f42a59cdf13]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fa0dfa01f936d4e72005f42a59cdf13]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2006/1/section/124) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6(4)](https://www.legislation.gov.uk/ssi/2010/159/article/6/4))
+[^c-7fa0dfa01f936d4e72005f42a59cdf13]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2006/1/section/124) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6(4)](https://www.legislation.gov.uk/ssi/2010/159/article/6/4))

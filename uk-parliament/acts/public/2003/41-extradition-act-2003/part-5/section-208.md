@@ -53,8 +53,8 @@ summary: ''
 (9) These rules apply if the Secretary of State gives a direction under subsection (6)(b) in respect of a request—
 
 - (a) if he has not issued a certificate under section 70 in respect of the request he is no longer required to do so;
-- (b) if the person is arrested under a warrant issued under section 71 , under a provisional warrant or under section 74A[^key-d1cd655859b5b1fefa751b3d9383326d] there is no requirement for him to appear or be brought before the appropriate judge and he must be discharged;
-- (c) if the person appears or is brought before the appropriate judge the judge is no longer required to proceed or continue proceeding under sections 72, 74, , 74D, 74E[^key-cc994e58f52d37b1da6544d5e9ae270a] 75 and 76;
+- (b) if the person is arrested under a warrant issued under section 71 , under a provisional warrant or under section 74A[^c-d1cd655859b5b1fefa751b3d9383326d] there is no requirement for him to appear or be brought before the appropriate judge and he must be discharged;
+- (c) if the person appears or is brought before the appropriate judge the judge is no longer required to proceed or continue proceeding under sections 72, 74, , 74D, 74E[^c-cc994e58f52d37b1da6544d5e9ae270a] 75 and 76;
 - (d) if the extradition hearing has begun the judge is no longer required to proceed or continue proceeding under sections 78 to 91;
 - (e) if the person has given his consent to his extradition to the appropriate judge, the judge is no longer required to send the case to the Secretary of State for his decision whether the person is to be extradited;
 - (f) if an appeal to the High Court or Supreme Court[^c2088072] has been brought, the court is no longer required to hear or continue hearing the appeal;
@@ -73,7 +73,7 @@ summary: ''
 
 (12) In subsection (3) the reference to an enactment includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
-(13)[^key-67c5166e4b8fb09d6f1d37af45e499cd] In this section, “appeal” includes an application for leave to appeal.
+(13)[^c-67c5166e4b8fb09d6f1d37af45e499cd] In this section, “appeal” includes an application for leave to appeal.
 
 ## Annotations
 
@@ -81,8 +81,8 @@ summary: ''
 
 [^c2088072]: Textual amendment: Words in s. 208 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 81(4)(o)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/81/4/o); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-d1cd655859b5b1fefa751b3d9383326d]: Textual amendment: Words in s. 208(9)(b) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/24/2); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-d1cd655859b5b1fefa751b3d9383326d]: Textual amendment: Words in s. 208(9)(b) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/24/2); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-cc994e58f52d37b1da6544d5e9ae270a]: Textual amendment: Words in s. 208(9)(c) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/24/3); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-cc994e58f52d37b1da6544d5e9ae270a]: Textual amendment: Words in s. 208(9)(c) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/24/3); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-67c5166e4b8fb09d6f1d37af45e499cd]: Textual amendment: S. 208(13) inserted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2015/992/article/3/14) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
+[^c-67c5166e4b8fb09d6f1d37af45e499cd]: Textual amendment: S. 208(13) inserted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2015/992/article/3/14) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))

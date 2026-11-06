@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Authentication by an overseas court[^key-aeb6e4c6f5ca20921256e952e43d9273]
+## 67. Authentication by an overseas court[^c-aeb6e4c6f5ca20921256e952e43d9273]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeb6e4c6f5ca20921256e952e43d9273]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2005/3181/article/67) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-aeb6e4c6f5ca20921256e952e43d9273]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2005/3181/article/67) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

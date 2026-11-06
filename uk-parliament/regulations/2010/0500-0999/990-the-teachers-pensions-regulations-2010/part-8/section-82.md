@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Person to whom death grant is payable[^key-e6592664fe6e07e8b42af577959ab12b]
+## 82. Person to whom death grant is payable[^c-e6592664fe6e07e8b42af577959ab12b]
 
 *Extent: E+W+S*
 
@@ -41,10 +41,10 @@ summary: ''
 
 (6) Any death grant paid under this Part must be paid to the appointor's death grant beneficiary or, if more than one, death grant beneficiaries in the shares determined in accordance with paragraphs (4) and (5).
 
-(7) But where there is no death grant beneficiary, the death grant must be paid to the appointor's surviving spouse, surviving civil partner or surviving qualifying partner[^key-2c40555eae6d70fb36bd1bfb37f755aa] or, if there is no such person, to the appointor's personal representatives as part of the appointor's estate.
+(7) But where there is no death grant beneficiary, the death grant must be paid to the appointor's surviving spouse, surviving civil partner or surviving qualifying partner[^c-2c40555eae6d70fb36bd1bfb37f755aa] or, if there is no such person, to the appointor's personal representatives as part of the appointor's estate.
 
 ## Annotations
 
-[^key-e6592664fe6e07e8b42af577959ab12b]: Modification: [Reg. 82](https://www.legislation.gov.uk/uksi/2010/990/regulation/82) modified (1.4.2015) by [The Teachers' Pension Scheme Regulations 2014 (S.I. 2014/512)](https://www.legislation.gov.uk/uksi/2014/512), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/512/regulation/1/2), [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/2014/512/schedule/3/paragraph/53) (with [reg. 183](https://www.legislation.gov.uk/uksi/2014/512/regulation/183))
+[^c-e6592664fe6e07e8b42af577959ab12b]: Modification: [Reg. 82](https://www.legislation.gov.uk/uksi/2010/990/regulation/82) modified (1.4.2015) by [The Teachers' Pension Scheme Regulations 2014 (S.I. 2014/512)](https://www.legislation.gov.uk/uksi/2014/512), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/512/regulation/1/2), [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/2014/512/schedule/3/paragraph/53) (with [reg. 183](https://www.legislation.gov.uk/uksi/2014/512/regulation/183))
 
-[^key-2c40555eae6d70fb36bd1bfb37f755aa]: Textual amendment: Words in [reg. 82(7)](https://www.legislation.gov.uk/uksi/2010/990/regulation/82/7) substituted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1134/regulation/7)
+[^c-2c40555eae6d70fb36bd1bfb37f755aa]: Textual amendment: Words in [reg. 82(7)](https://www.legislation.gov.uk/uksi/2010/990/regulation/82/7) substituted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1134/regulation/7)

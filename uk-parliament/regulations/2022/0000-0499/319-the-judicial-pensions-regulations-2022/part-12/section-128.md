@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Determination of questions[^key-d3a5066130b93aa0b72f5ad6c951eea9]
+## 128. Determination of questions[^c-d3a5066130b93aa0b72f5ad6c951eea9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3a5066130b93aa0b72f5ad6c951eea9]: Commencement: Reg. 128 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-d3a5066130b93aa0b72f5ad6c951eea9]: Commencement: Reg. 128 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00046]: Footnote: [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26); section 50 was substituted by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 273 and amended by the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) section 16.

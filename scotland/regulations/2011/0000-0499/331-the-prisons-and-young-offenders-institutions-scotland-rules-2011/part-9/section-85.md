@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1) An untried prisoner or a civil prisoner is not required to work in prison but may, if the prisoner so chooses and with the agreement of the Governor, undertake work or an educational class or counselling[^key-8a4a8e4f767d50e7a6b4354e1e0916e1] arranged in terms of rule 84.
+(1) An untried prisoner or a civil prisoner is not required to work in prison but may, if the prisoner so chooses and with the agreement of the Governor, undertake work or an educational class or counselling[^c-8a4a8e4f767d50e7a6b4354e1e0916e1] arranged in terms of rule 84.
 
-(2)[^key-60f95e878474e7bec671052b1c6efee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-60f95e878474e7bec671052b1c6efee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An untried prisoner or a civil prisoner may only work in the service of another prisoner or of an officer where—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a4a8e4f767d50e7a6b4354e1e0916e1]: Textual amendment: Words in rule 85(1) inserted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/8/a)
+[^c-8a4a8e4f767d50e7a6b4354e1e0916e1]: Textual amendment: Words in rule 85(1) inserted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/8/a)
 
-[^key-60f95e878474e7bec671052b1c6efee2]: Textual amendment: Rule 85(2) revoked (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(10)](https://www.legislation.gov.uk/ssi/2012/26/article/2/10)
+[^c-60f95e878474e7bec671052b1c6efee2]: Textual amendment: Rule 85(2) revoked (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(10)](https://www.legislation.gov.uk/ssi/2012/26/article/2/10)

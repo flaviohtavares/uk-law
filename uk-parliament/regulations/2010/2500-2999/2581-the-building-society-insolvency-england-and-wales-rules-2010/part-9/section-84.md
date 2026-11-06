@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Remuneration of building society liquidator[^key-47c8e4e408d3dc9a756ea39042edaa49]
+## 84. Remuneration of building society liquidator[^c-47c8e4e408d3dc9a756ea39042edaa49]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47c8e4e408d3dc9a756ea39042edaa49]: Commencement: Rule 84 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-47c8e4e408d3dc9a756ea39042edaa49]: Commencement: Rule 84 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

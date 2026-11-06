@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62M. Restriction on access to records[^key-4f69f5fb974fbb710ab3ec2c400e9881][^key-64732baff452006911723e6c1ae56c9c]
+## 62M. Restriction on access to records[^c-4f69f5fb974fbb710ab3ec2c400e9881][^c-64732baff452006911723e6c1ae56c9c]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f69f5fb974fbb710ab3ec2c400e9881]: Textual amendment: [Rules 62C-62M](https://www.legislation.gov.uk/nisr/1979/90/rule/62C) omitted (31.12.2020) by virtue of [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2019/908/regulation/1/c), [5(1)(f)](https://www.legislation.gov.uk/uksi/2019/908/regulation/5/1/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f69f5fb974fbb710ab3ec2c400e9881]: Textual amendment: [Rules 62C-62M](https://www.legislation.gov.uk/nisr/1979/90/rule/62C) omitted (31.12.2020) by virtue of [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2019/908/regulation/1/c), [5(1)(f)](https://www.legislation.gov.uk/uksi/2019/908/regulation/5/1/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64732baff452006911723e6c1ae56c9c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/1979/90/part/8A) inserted (22.2.2018) by [The Crown Court (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/24)](https://www.legislation.gov.uk/nisr/2018/24), [rule 1](https://www.legislation.gov.uk/nisr/2018/24/rule/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2018/24/schedule/1)
+[^c-64732baff452006911723e6c1ae56c9c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/1979/90/part/8A) inserted (22.2.2018) by [The Crown Court (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/24)](https://www.legislation.gov.uk/nisr/2018/24), [rule 1](https://www.legislation.gov.uk/nisr/2018/24/rule/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2018/24/schedule/1)

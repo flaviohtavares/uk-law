@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001], in exercise of the powers conferred on it by Articles 7(1) and 27(4) of the Rates (Northern Ireland) Order 1977[^f00002] and of every other power enabling it in that behalf, and having taken into consideration estimates of the amounts required to be raised by means of district rates as required by Article 7(4)[^f00003] of that Order, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-044699e4c389d2de2bc2b2b57a36a065]
+## 1. Citation, commencement and interpretation[^c-044699e4c389d2de2bc2b2b57a36a065]
 
 (1) This Order may be cited as the Rates (Regional Rates) Order (Northern Ireland) 2005 and shall come into operation on 1st April 2005.
 
@@ -53,11 +53,11 @@ The Department of Finance and Personnel[^f00001], in exercise of the powers conf
 - “specified hereditament” means a hereditament of a class specified by Article 3 of the New Valuation List (Time and Class of Hereditaments) Order (Northern Ireland) 2000[^f00004];
 - “unspecified hereditament” means a hereditament which is not a specified hereditament.
 
-## 2. Regional Rate[^key-56aaa82029c1e5751606a44146157fd5]
+## 2. Regional Rate[^c-56aaa82029c1e5751606a44146157fd5]
 
 The regional rate to be levied for the year ending 31st March 2006 shall be 27·27 pence in the pound in respect of specified hereditaments and 219·61 pence in the pound in respect of unspecified hereditaments.
 
-## 3. Reduction of regional rate on dwellings[^key-9855a81e812dbe142a04c0faba2dcbea]
+## 3. Reduction of regional rate on dwellings[^c-9855a81e812dbe142a04c0faba2dcbea]
 
 The amount by which the normal regional rate fixed for the year ending on 31st March 2006 under Article 2 is to be reduced in respect of unspecified hereditaments for the purposes of paragraphs (2) and (3) of Article 27 of the Rates (Northern Ireland) Order 1977 shall be 53·08 pence.
 
@@ -83,10 +83,10 @@ The Order also fixes 53·08 pence as the amount by which the normal regional rat
 
 [^f00003]: Footnote: Article 7(4) was amended by Article 10 and paragraph 1 of Schedule 2 to S.I. [1998/3164 (N.I. 22)](https://www.legislation.gov.uk/nisi/1998/3164)
 
-[^key-044699e4c389d2de2bc2b2b57a36a065]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/21/article/1) in operation at 1.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/21/article/1/1)
+[^c-044699e4c389d2de2bc2b2b57a36a065]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/21/article/1) in operation at 1.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/21/article/1/1)
 
 [^f00004]: Footnote: [S.R. 2000 No. 342](https://www.legislation.gov.uk/nisr/2000/342)
 
-[^key-56aaa82029c1e5751606a44146157fd5]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/21/article/2) in operation at 1.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/21/article/1/1)
+[^c-56aaa82029c1e5751606a44146157fd5]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/21/article/2) in operation at 1.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/21/article/1/1)
 
-[^key-9855a81e812dbe142a04c0faba2dcbea]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/21/article/3) in operation at 1.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/21/article/1/1)
+[^c-9855a81e812dbe142a04c0faba2dcbea]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/21/article/3) in operation at 1.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/21/article/1/1)

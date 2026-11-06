@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Meaning of “eligible child’s pension”[^key-f2499180638f3d565b28e3bf5d77cd11]
+## 133. Meaning of “eligible child’s pension”[^c-f2499180638f3d565b28e3bf5d77cd11]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In these Regulations, “eligible child’s pension” means any of the followin
 
 ## Annotations
 
-[^key-f2499180638f3d565b28e3bf5d77cd11]: Commencement: Reg. 133 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f2499180638f3d565b28e3bf5d77cd11]: Commencement: Reg. 133 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.27. Court records[^key-b0e022ece1dbe38feb86e0f752a27fb9]
+## 7.27. Court records[^c-b0e022ece1dbe38feb86e0f752a27fb9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court shall keep records of all insolvency proceedings, and shall cause to b
 
 ## Annotations
 
-[^key-b0e022ece1dbe38feb86e0f752a27fb9]: Commencement: [Rule 7.27](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.27) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b0e022ece1dbe38feb86e0f752a27fb9]: Commencement: [Rule 7.27](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.27) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

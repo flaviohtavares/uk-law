@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Enfranchisement for Scottish elections
 
-#### 1. Voting by qualifying foreign nationals[^key-06fcec8119095b37b8abf11accf964b5]
+#### 1. Voting by qualifying foreign nationals[^c-06fcec8119095b37b8abf11accf964b5]
 
 (1) The Representation of the People Act 1983 is amended as follows.
 
@@ -114,7 +114,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Candidacy etc.
 
-#### 2. Scottish parliamentary elections: nomination, election and holding office[^key-3b36fbdd5b95041f6975df5343619895]
+#### 2. Scottish parliamentary elections: nomination, election and holding office[^c-3b36fbdd5b95041f6975df5343619895]
 
 In section 16 of the Scotland Act 1998 (exceptions and relief from disqualification)—
 
@@ -137,7 +137,7 @@ In section 16 of the Scotland Act 1998 (exceptions and relief from disqualificat
 
   .
 
-#### 3. Local government elections: nomination, election and holding office[^key-d06486e753053f7a1a2b8c87c8cb35ce]
+#### 3. Local government elections: nomination, election and holding office[^c-d06486e753053f7a1a2b8c87c8cb35ce]
 
 (1) Section 29 of the Local Government (Scotland) Act 1973 (qualifications for nomination, election and holding office as a member of a local authority in Scotland) is amended as follows.
 
@@ -170,7 +170,7 @@ In section 16 of the Scotland Act 1998 (exceptions and relief from disqualificat
 
 ## PART 2 — Persons who received a severance payment within the meaning of section 12 of the Local Governance (Scotland) Act 2004
 
-### 4. Repeal of disqualification for nomination, election and holding office as member of a local authority[^key-34c5e0d2b8ba692976ea9df5ebb9fb2d]
+### 4. Repeal of disqualification for nomination, election and holding office as member of a local authority[^c-34c5e0d2b8ba692976ea9df5ebb9fb2d]
 
 In section 29 of the Local Government (Scotland) Act 1973 (qualifications for nomination, election and holding office as a member of a local authority), subsection (1A) is repealed.
 
@@ -414,10 +414,10 @@ The short title of this Act is the Scottish Elections (Franchise and Representat
 
 ## Annotations
 
-[^key-06fcec8119095b37b8abf11accf964b5]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/6/section/1) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
+[^c-06fcec8119095b37b8abf11accf964b5]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/6/section/1) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
 
-[^key-3b36fbdd5b95041f6975df5343619895]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/6/section/2) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
+[^c-3b36fbdd5b95041f6975df5343619895]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/6/section/2) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
 
-[^key-d06486e753053f7a1a2b8c87c8cb35ce]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/6/section/3) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
+[^c-d06486e753053f7a1a2b8c87c8cb35ce]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/6/section/3) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
 
-[^key-34c5e0d2b8ba692976ea9df5ebb9fb2d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/6/section/4) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
+[^c-34c5e0d2b8ba692976ea9df5ebb9fb2d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/6/section/4) in force at 3.8.2020 by [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)

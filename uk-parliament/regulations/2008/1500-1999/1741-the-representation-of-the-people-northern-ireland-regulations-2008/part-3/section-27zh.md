@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27ZH. Attestations: general requirements[^key-13496d177ea77ed609b4df36a68149d7]
+## 27ZH. Attestations: general requirements[^c-13496d177ea77ed609b4df36a68149d7]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13496d177ea77ed609b4df36a68149d7]: Textual amendment: [Regs. 27ZA-27ZI](https://www.legislation.gov.uk/uksi/2008/1741/regulation/27ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/43/regulation/14) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
+[^c-13496d177ea77ed609b4df36a68149d7]: Textual amendment: [Regs. 27ZA-27ZI](https://www.legislation.gov.uk/uksi/2008/1741/regulation/27ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/43/regulation/14) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
 
 [^f00037]: Footnote: The Representation of the People (Northern Ireland)(Amendment) Regulations 2007 ([S.I.2007/1612](https://www.legislation.gov.uk/uksi/2007/1612))(“2007 Regulations”) amended the 2001 Regulations to make provision to enable the Chief Electoral Officer for Northern Ireland to request information from specified public authorities. The 2007 Regulations provided that these new powers did not require an authority to provide information which came into their possession before those Regulations came into force on 6th June 2007. These Regulations, which repeal and replace the 2007 Regulations maintain this position.

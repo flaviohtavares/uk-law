@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46S (Extent: S.). Expenses orders[^key-2fe1423158fb0a36abff3362b6b78165]
+## 46S (Extent: S.). Expenses orders[^c-2fe1423158fb0a36abff3362b6b78165]
 
 *Extent: S.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fe1423158fb0a36abff3362b6b78165]: Textual amendment: [Art. 46S](https://www.legislation.gov.uk/uksi/2013/2605/article/46S) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [19](https://www.legislation.gov.uk/uksi/2024/1127/article/19)
+[^c-2fe1423158fb0a36abff3362b6b78165]: Textual amendment: [Art. 46S](https://www.legislation.gov.uk/uksi/2013/2605/article/46S) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [19](https://www.legislation.gov.uk/uksi/2024/1127/article/19)

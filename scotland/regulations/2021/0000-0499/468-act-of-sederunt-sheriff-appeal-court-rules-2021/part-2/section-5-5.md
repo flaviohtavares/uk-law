@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.5. Methods of intimation: by sheriff officer[^key-6ade11824223c73a784da40dff0f02ec]
+## 5.5. Methods of intimation: by sheriff officer[^c-6ade11824223c73a784da40dff0f02ec]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ade11824223c73a784da40dff0f02ec]: Commencement: Para. 5.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6ade11824223c73a784da40dff0f02ec]: Commencement: Para. 5.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

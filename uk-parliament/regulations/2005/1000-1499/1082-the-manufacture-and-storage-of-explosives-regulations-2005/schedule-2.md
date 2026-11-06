@@ -22,73 +22,73 @@ summary: ''
 
 Regulation 5(1)
 
-**1.**[^key-8e1e24dcb56c3f922785938915dcad5b][^key-c8f710f05d44de617588a65a6843d766] (1) In this Schedule — *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**1.**[^c-8e1e24dcb56c3f922785938915dcad5b][^c-c8f710f05d44de617588a65a6843d766] (1) In this Schedule — *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-- “brick-built” means having an outer structure which is wholly or mainly of brick, concrete, stone or other similar material; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “bridleway” has the same meaning as in the Highways Act 1980 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766][^f00036];
-- “distance”, save in the definition of “reference zone”, means the minimum distance; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “footpath” has the same meaning as in the Highways Act 1980; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “footway” has the same meaning as in the Highways Act 1980; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “lightly-used road” means a road used ordinarily by more than 20 and no more than 500 vehicles every 24 hours; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “major road” means a road used ordinarily by more than 10,000 vehicles every 24 hours; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “metal-built” means built wholly or mainly of steel or other metal; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “minor road” means a road used ordinarily by more than 500 vehicles every 24 hours, other than a major road; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “mounded” means surrounded by suitable mounds; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “place of public resort” means a place where more than one hundred persons are present, or are likely to be present, at any one time on a weekly or more frequent basis; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “reference zone” means the area around a store having the radius from the centre point of the store specified in column 5 of the relevant Table; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “road” means any thoroughfare on which the movement of vehicles is allowed ; and *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- “vulnerable building” means a building of four storeys or more above ground with a curtain-wall construction, that is to say where the masonry, glass or other cladding is suspended from the structural framework of the building. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+- “brick-built” means having an outer structure which is wholly or mainly of brick, concrete, stone or other similar material; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “bridleway” has the same meaning as in the Highways Act 1980 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766][^f00036];
+- “distance”, save in the definition of “reference zone”, means the minimum distance; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “footpath” has the same meaning as in the Highways Act 1980; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “footway” has the same meaning as in the Highways Act 1980; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “lightly-used road” means a road used ordinarily by more than 20 and no more than 500 vehicles every 24 hours; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “major road” means a road used ordinarily by more than 10,000 vehicles every 24 hours; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “metal-built” means built wholly or mainly of steel or other metal; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “minor road” means a road used ordinarily by more than 500 vehicles every 24 hours, other than a major road; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “mounded” means surrounded by suitable mounds; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “place of public resort” means a place where more than one hundred persons are present, or are likely to be present, at any one time on a weekly or more frequent basis; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “reference zone” means the area around a store having the radius from the centre point of the store specified in column 5 of the relevant Table; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “road” means any thoroughfare on which the movement of vehicles is allowed ; and *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- “vulnerable building” means a building of four storeys or more above ground with a curtain-wall construction, that is to say where the masonry, glass or other cladding is suspended from the structural framework of the building. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(2) Any reference in this Schedule to a thoroughfare (however described), waterway or railway line does not include any part of a thoroughfare, waterway or railway line within the site — *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(2) Any reference in this Schedule to a thoroughfare (however described), waterway or railway line does not include any part of a thoroughfare, waterway or railway line within the site — *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-- (a) in which the store is situated; and *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (b) which are occupied by the person storing the explosives. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+- (a) in which the store is situated; and *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (b) which are occupied by the person storing the explosives. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(3) Any reference in this Schedule to a quantity of explosives shown in column 1 of a Table is to a quantity stored which is more than the lower figure but not more than the higher figure in column 1 in the same row of the Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(3) Any reference in this Schedule to a quantity of explosives shown in column 1 of a Table is to a quantity stored which is more than the lower figure but not more than the higher figure in column 1 in the same row of the Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(4) Any reference in this Schedule to a building is to a building in or at which people are, or are likely to be, present either all the time or from time to time. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(4) Any reference in this Schedule to a building is to a building in or at which people are, or are likely to be, present either all the time or from time to time. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(5) For the purposes of this Schedule, where explosives of different hazard types are in one store, the explosives shall be treated as belonging to the hazard type which would require the greatest separation distance for the total quantity of those explosives and the separation distance shall be determined in relation to that total quantity. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(5) For the purposes of this Schedule, where explosives of different hazard types are in one store, the explosives shall be treated as belonging to the hazard type which would require the greatest separation distance for the total quantity of those explosives and the separation distance shall be determined in relation to that total quantity. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(6) For the purposes of this Schedule, the radius for a reference zone applying in a particular case is the number in the entry in column 5 of the relevant Table corresponding to the quantity of explosives shown in column 1 of the Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(6) For the purposes of this Schedule, the radius for a reference zone applying in a particular case is the number in the entry in column 5 of the relevant Table corresponding to the quantity of explosives shown in column 1 of the Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(7) For the purposes of this Schedule, any reference to “bridleway”, “footpath”, “footway” or “waterway” does not include, respectively, a bridleway, footpath, footway used, or waterway navigated, by no more than, ordinarily, 20 persons in any 24 hour period. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(7) For the purposes of this Schedule, any reference to “bridleway”, “footpath”, “footway” or “waterway” does not include, respectively, a bridleway, footpath, footway used, or waterway navigated, by no more than, ordinarily, 20 persons in any 24 hour period. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-**2.**[^key-6f69d0856b1e52502f34a27d7971d840] Where the storage is — *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**2.**[^c-6f69d0856b1e52502f34a27d7971d840] Where the storage is — *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-- (a) of hazard type 1 explosive in a brick-built mounded store, Table 1; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (b) of hazard type 1 explosive in a brick-built unmounded store, Table 2; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (c) of hazard type 1 explosive in a metal-built mounded store, Table 3; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (d) of hazard type 1 explosive in a metal-built unmounded store with no detonator annex attached, Table 4; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (e) of hazard type 1 explosive in a metal-built unmounded store with a detonator annex attached, Table 5; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (f) of hazard type 2 explosive, some or all items being of more than 0.7 kg net mass, Table 6; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (g) of hazard type 2 explosive, every item being of 0.7 kg net mass or less, Table 7; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (h) of hazard type 3 explosive, Table 8; *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (i) of hazard type 4 explosive, Table 9, *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+- (a) of hazard type 1 explosive in a brick-built mounded store, Table 1; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (b) of hazard type 1 explosive in a brick-built unmounded store, Table 2; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (c) of hazard type 1 explosive in a metal-built mounded store, Table 3; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (d) of hazard type 1 explosive in a metal-built unmounded store with no detonator annex attached, Table 4; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (e) of hazard type 1 explosive in a metal-built unmounded store with a detonator annex attached, Table 5; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (f) of hazard type 2 explosive, some or all items being of more than 0.7 kg net mass, Table 6; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (g) of hazard type 2 explosive, every item being of 0.7 kg net mass or less, Table 7; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (h) of hazard type 3 explosive, Table 8; *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (i) of hazard type 4 explosive, Table 9, *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-shall apply, and any reference in this Schedule to a relevant Table is a reference to the Table which applies by virtue of this paragraph. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+shall apply, and any reference in this Schedule to a relevant Table is a reference to the Table which applies by virtue of this paragraph. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-**3.**[^key-a55d4fa03e3ff5bc96a012c82a09bccc] Subject to paragraphs 4 and 5, the distance between a store and any building, place of public resort or major road shall be the distance specified in the entry in column 2 of the relevant Table corresponding to the quantity of explosives shown in column 1 of the Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**3.**[^c-a55d4fa03e3ff5bc96a012c82a09bccc] Subject to paragraphs 4 and 5, the distance between a store and any building, place of public resort or major road shall be the distance specified in the entry in column 2 of the relevant Table corresponding to the quantity of explosives shown in column 1 of the Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-**4.**[^key-d66431221dc3e716dc80740bd110fc13] Subject to paragraph 5, where — *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**4.**[^c-d66431221dc3e716dc80740bd110fc13] Subject to paragraph 5, where — *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-- (a) Table 1, 3, 4 or 5 applies; and *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (b) the number of dwellings in the reference zone is greater than the number specified in the entry in column 6 of the Table corresponding to the quantity of explosives shown in column 1 of the Table, *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+- (a) Table 1, 3, 4 or 5 applies; and *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (b) the number of dwellings in the reference zone is greater than the number specified in the entry in column 6 of the Table corresponding to the quantity of explosives shown in column 1 of the Table, *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-the distance between the store and any dwelling shall be the distance (if any) specified in the corresponding entry in column 3 of the Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+the distance between the store and any dwelling shall be the distance (if any) specified in the corresponding entry in column 3 of the Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-**5.**[^key-fa6a21e3f78593f5029a76236d88399d] The distance between a store and any vulnerable building shall be the distance (if any) specified in the column headed “Vulnerable building distance” corresponding to the quantity of explosives shown in column 1 of the relevant Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**5.**[^c-fa6a21e3f78593f5029a76236d88399d] The distance between a store and any vulnerable building shall be the distance (if any) specified in the column headed “Vulnerable building distance” corresponding to the quantity of explosives shown in column 1 of the relevant Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-**6.**[^key-6e7b43f86c6eb9f059c2bb3ff81cbaa3] The distance between a store and — *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+**6.**[^c-6e7b43f86c6eb9f059c2bb3ff81cbaa3] The distance between a store and — *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-- (a) any minor road or any railway line shall be half; and *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (b) any bridleway, footpath, footway, waterway or lightly-used road shall be one-third, *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+- (a) any minor road or any railway line shall be half; and *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (b) any bridleway, footpath, footway, waterway or lightly-used road shall be one-third, *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-the distance shown in column 2 of the Table corresponding to the quantity of explosives shown in column 1 of the Table. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+the distance shown in column 2 of the Table corresponding to the quantity of explosives shown in column 1 of the Table. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 1 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 1 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 1 EXPLOSIVE IN A BRICK-BUILT MOUNDED STORE *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 1 EXPLOSIVE IN A BRICK-BUILT MOUNDED STORE *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -124,11 +124,11 @@ HAZARD TYPE 1 EXPLOSIVE IN A BRICK-BUILT MOUNDED STORE *(affected by repeal, see
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 2 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 2 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 1 EXPLOSIVE IN A BRICK-BUILT UNMOUNDED STORE *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 1 EXPLOSIVE IN A BRICK-BUILT UNMOUNDED STORE *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -164,11 +164,11 @@ HAZARD TYPE 1 EXPLOSIVE IN A BRICK-BUILT UNMOUNDED STORE *(affected by repeal, s
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 3 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 3 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT MOUNDED STORE *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT MOUNDED STORE *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -204,11 +204,11 @@ HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT MOUNDED STORE *(affected by repeal, see
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 4 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 4 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT UNMOUNDED STORE WITH NO DETONATOR ANNEX ATTACHED *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT UNMOUNDED STORE WITH NO DETONATOR ANNEX ATTACHED *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -258,11 +258,11 @@ HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT UNMOUNDED STORE WITH NO DETONATOR ANNEX
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 5 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 5 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT UNMOUNDED STORE WITH A DETONATOR ANNEX ATTACHED *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT UNMOUNDED STORE WITH A DETONATOR ANNEX ATTACHED *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -298,11 +298,11 @@ HAZARD TYPE 1 EXPLOSIVE IN A METAL-BUILT UNMOUNDED STORE WITH A DETONATOR ANNEX 
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 6 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 6 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 2 EXPLOSIVE, SOME OR ALL ITEMS BEING OF MORE THAN 0.7 KG NET MASS *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 2 EXPLOSIVE, SOME OR ALL ITEMS BEING OF MORE THAN 0.7 KG NET MASS *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -338,11 +338,11 @@ HAZARD TYPE 2 EXPLOSIVE, SOME OR ALL ITEMS BEING OF MORE THAN 0.7 KG NET MASS *(
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 7 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 7 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 2 EXPLOSIVE, EVERY ITEM BEING OF 0.7 KG NET MASS OR LESS *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 2 EXPLOSIVE, EVERY ITEM BEING OF 0.7 KG NET MASS OR LESS *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -378,11 +378,11 @@ HAZARD TYPE 2 EXPLOSIVE, EVERY ITEM BEING OF 0.7 KG NET MASS OR LESS *(affected 
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 8 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 8 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 3 EXPLOSIVE *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 3 EXPLOSIVE *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -418,11 +418,11 @@ HAZARD TYPE 3 EXPLOSIVE *(affected by repeal, see note)*[^key-c8f710f05d44de6175
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
-TABLE 9 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+TABLE 9 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-HAZARD TYPE 4 EXPLOSIVE *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+HAZARD TYPE 4 EXPLOSIVE *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 <table>
 <thead>
@@ -464,22 +464,22 @@ HAZARD TYPE 4 EXPLOSIVE *(affected by repeal, see note)*[^key-c8f710f05d44de6175
 </tbody>
 </table>
 
-[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 ## Annotations
 
-[^key-8e1e24dcb56c3f922785938915dcad5b]: Commencement: Sch. 2 para. 1 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-8e1e24dcb56c3f922785938915dcad5b]: Commencement: Sch. 2 para. 1 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
+[^c-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
 
 [^f00036]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-6f69d0856b1e52502f34a27d7971d840]: Commencement: Sch. 2 para. 2 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-6f69d0856b1e52502f34a27d7971d840]: Commencement: Sch. 2 para. 2 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-a55d4fa03e3ff5bc96a012c82a09bccc]: Commencement: Sch. 2 para. 3 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-a55d4fa03e3ff5bc96a012c82a09bccc]: Commencement: Sch. 2 para. 3 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-d66431221dc3e716dc80740bd110fc13]: Commencement: Sch. 2 para. 4 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-d66431221dc3e716dc80740bd110fc13]: Commencement: Sch. 2 para. 4 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-fa6a21e3f78593f5029a76236d88399d]: Commencement: Sch. 2 para. 5 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-fa6a21e3f78593f5029a76236d88399d]: Commencement: Sch. 2 para. 5 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-6e7b43f86c6eb9f059c2bb3ff81cbaa3]: Commencement: Sch. 2 para. 6 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-6e7b43f86c6eb9f059c2bb3ff81cbaa3]: Commencement: Sch. 2 para. 6 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)

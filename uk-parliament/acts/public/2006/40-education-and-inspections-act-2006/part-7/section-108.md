@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Removal of excluded pupils to designated premises[^key-cd20d5a7b8ccab990f61c24fcb97a2d4][^key-943d9f412704c178d7008345ed911f99]
+## 108. Removal of excluded pupils to designated premises[^c-cd20d5a7b8ccab990f61c24fcb97a2d4][^c-943d9f412704c178d7008345ed911f99]
 
 *Extent: E+W*
 
@@ -51,12 +51,12 @@ summary: ''
 
 (6) In the heading, after “truants” insert “ and excluded pupils ”.
 
-(7)[^key-2464fc81f2b9783ac6c07703e2194dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2464fc81f2b9783ac6c07703e2194dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd20d5a7b8ccab990f61c24fcb97a2d4]: Commencement: S. 108 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/e)
+[^c-cd20d5a7b8ccab990f61c24fcb97a2d4]: Commencement: S. 108 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/e)
 
-[^key-943d9f412704c178d7008345ed911f99]: Commencement: S. 108 in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [art. 2(j)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/j)
+[^c-943d9f412704c178d7008345ed911f99]: Commencement: S. 108 in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [art. 2(j)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/j)
 
-[^key-2464fc81f2b9783ac6c07703e2194dfc]: Textual amendment: S. 108(7) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 20(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/20/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-2464fc81f2b9783ac6c07703e2194dfc]: Textual amendment: S. 108(7) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 20(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/20/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)

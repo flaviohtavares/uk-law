@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. FCA general rules: information about the availability of guidance[^key-7bb5712cd08230ae28ecb91a88576bc4]
+## 20. FCA general rules: information about the availability of guidance[^c-7bb5712cd08230ae28ecb91a88576bc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ After section 137FBB of the Financial Services and Markets Act 2000 insert—
 
 ## Annotations
 
-[^key-7bb5712cd08230ae28ecb91a88576bc4]: Commencement: S. 20 in force at 1.1.2019 by [S.I. 2018/1003](https://www.legislation.gov.uk/uksi/2018/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1003/regulation/2/b)
+[^c-7bb5712cd08230ae28ecb91a88576bc4]: Commencement: S. 20 in force at 1.1.2019 by [S.I. 2018/1003](https://www.legislation.gov.uk/uksi/2018/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1003/regulation/2/b)

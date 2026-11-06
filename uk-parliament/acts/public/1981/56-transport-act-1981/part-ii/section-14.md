@@ -41,7 +41,7 @@ summary: ''
 - (e) the movement of goods within a harbour;
   - “**shares**” includes stock;
   - “**securities**”, in relation to a body corporate, includes debentures, debenture stock, bonds and other securities of the body corporate, whether or not constituting a charge on the assets of that body;
-  - “**subsidiary**” means a subsidiary as defined in section 1159 of the Companies Act 2006[^key-f246d38eee825e7aa60d46aaf5d7eaa0];
+  - “**subsidiary**” means a subsidiary as defined in section 1159 of the Companies Act 2006[^c-f246d38eee825e7aa60d46aaf5d7eaa0];
   - “**wholly-owned subsidiary**” means a subsidiary all the issued shares of which are beneficially owned by the body of which it is a subsidiary, or by one or more other wholly-owned subsidiaries of that body, or partly by that body and partly by any wholly-owned subsidiary of that body.
 
 (4) References in this Part to Associated British Ports’ business or undertaking include any business or undertaking carried on by a subsidiary of Associated British Ports.
@@ -52,4 +52,4 @@ summary: ''
 
 [^c858822]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-f246d38eee825e7aa60d46aaf5d7eaa0]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1981/56/section/14/3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/48/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f246d38eee825e7aa60d46aaf5d7eaa0]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1981/56/section/14/3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/48/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

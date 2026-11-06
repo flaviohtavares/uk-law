@@ -22,9 +22,9 @@ summary: ''
 
 (introduced by section 98)
 
-**1.**[^key-6e9a697f229a22ea6220a3382fe252e1][^key-f6cb581559dff761c59048f8caddc608] The 1995 Act is amended as follows.
+**1.**[^c-6e9a697f229a22ea6220a3382fe252e1][^c-f6cb581559dff761c59048f8caddc608] The 1995 Act is amended as follows.
 
-**2.**[^key-52d05289ab1fd460f635765bf3e048df] After section 1 insert—
+**2.**[^c-52d05289ab1fd460f635765bf3e048df] After section 1 insert—
 
 > **Part 2 — Traditional documents**
 >
@@ -34,7 +34,7 @@ summary: ''
 
 .
 
-**3.**[^key-245c973d59da9a9786ed896d0b8503e5] In section 2 (type of writing required for formal validity of certain documents)—
+**3.**[^c-245c973d59da9a9786ed896d0b8503e5] In section 2 (type of writing required for formal validity of certain documents)—
 
 - (a) in subsection (1), after “No” insert “ traditional ”,
 - (b) in subsection (2)—
@@ -43,11 +43,11 @@ summary: ''
   - (iii) after “each” substitute “ such ”,
 - (c) in subsection (3), for first “document” substitute “ traditional document ”.
 
-**4.**[^key-101e6e4625c59fdc84bcd4e81b9dd269] In the title of section 2, after “certain” insert “ traditional ”.
+**4.**[^c-101e6e4625c59fdc84bcd4e81b9dd269] In the title of section 2, after “certain” insert “ traditional ”.
 
-**5.**[^key-16cccba0f97c3cb0e2a7968919a21842] Sections 2A, 2B and 2C are repealed.
+**5.**[^c-16cccba0f97c3cb0e2a7968919a21842] Sections 2A, 2B and 2C are repealed.
 
-**6.**[^key-d4aea6fb599b972d47acfd6ce684eff4] In section 3 (presumption as to granter's subscription or date or place of subscription)—
+**6.**[^c-d4aea6fb599b972d47acfd6ce684eff4] In section 3 (presumption as to granter's subscription or date or place of subscription)—
 
 - (a) in subsection (1)(a), for “document” substitute “ traditional document ”,
 - (b) in subsection (2), for “testamentary document consists” substitute “ traditional document is a testamentary document consisting ”,
@@ -55,14 +55,14 @@ summary: ''
 - (d) in subsection (9), for “document” substitute “ traditional document ”,
 - (e) in subsection (10)(a), for “testamentary document bears” substitute “ traditional document is a testamentary document bearing ”.
 
-**7.**[^key-8cce5aa182d2c6b925ca11a68b187034] Section 3A is repealed.
+**7.**[^c-8cce5aa182d2c6b925ca11a68b187034] Section 3A is repealed.
 
-**8.**[^key-ed2d0781c7a52c15e314ebe2193b3eef] In section 4 (presumption as to granter's subscription or date or place of subscription when established in court proceedings)—
+**8.**[^c-ed2d0781c7a52c15e314ebe2193b3eef] In section 4 (presumption as to granter's subscription or date or place of subscription when established in court proceedings)—
 
 - (a) in subsection (1), for first “document” substitute “ traditional document ”,
 - (b) in subsection (2), for first “document” substitute “ traditional document ”.
 
-**9.**[^key-ec05c03eaa66320d758caa427c65fdbf] In section 5 (alterations to documents: formal validity and presumptions)—
+**9.**[^c-ec05c03eaa66320d758caa427c65fdbf] In section 5 (alterations to documents: formal validity and presumptions)—
 
 - (a) in subsection (1), for first “document” substitute “ traditional document ”,
 - (b) in subsection (3), for first “document” substitute “ traditional document ”,
@@ -70,11 +70,11 @@ summary: ''
 - (d) in subsection (8), for first “document” substitute “ traditional document ”,
 - (e) subsection (9) is repealed.
 
-**10.**[^key-5ada9fed6e6104b06de8fe38554b14ca] In the title of section 5, for “documents” substitute “ traditional documents ”.
+**10.**[^c-5ada9fed6e6104b06de8fe38554b14ca] In the title of section 5, for “documents” substitute “ traditional documents ”.
 
 **11.** In section 6 (registration of documents)—
 
-- (a)[^key-39cbb774701fe16ff035ca0530ea45f4] in subsection (1), repeal “and section 6A of this Act”,
+- (a)[^c-39cbb774701fe16ff035ca0530ea45f4] in subsection (1), repeal “and section 6A of this Act”,
 - (b) in subsection (1)(a), for “document” substitute “ traditional document ”,
 - (c) in subsection (1)(b), for “document” substitute “ traditional document ”,
 - (d) after subsection (1)(b) insert—
@@ -94,11 +94,11 @@ summary: ''
 - (f) in subsection (3)(b), after “Sasines” insert “ or the registering of such a decree in the Land Register of Scotland ”,
 - (g) in subsection (4), for “document” substitute “ traditional document ”.
 
-**12.**[^key-3805df0d1debf1d9a2e7e1c20894378d] In the title of section 6, for “documents” substitute “ traditional documents ”.
+**12.**[^c-3805df0d1debf1d9a2e7e1c20894378d] In the title of section 6, for “documents” substitute “ traditional documents ”.
 
-**13.**[^key-3f60dac45ec6d75244bee83694ae12ce] Section 6A is repealed.
+**13.**[^c-3f60dac45ec6d75244bee83694ae12ce] Section 6A is repealed.
 
-**14.**[^key-beb95c9fb3641d8486d16f6efb52c934] In section 7 (subscription and signing)—
+**14.**[^c-beb95c9fb3641d8486d16f6efb52c934] In section 7 (subscription and signing)—
 
 - (a) in subsection (1), for first “document” substitute “ traditional document ”,
 - (b) in subsection (2)—
@@ -110,22 +110,22 @@ summary: ''
   - (ii) for second “a document” substitute “ such a document ”,
 - (e) in subsection (7), for “documents” substitute “ traditional documents ”.
 
-**15.**[^key-94e6b81e7f9b653d84db0a6f6b291de8] In section 8 (annexations to documents)—
+**15.**[^c-94e6b81e7f9b653d84db0a6f6b291de8] In section 8 (annexations to documents)—
 
 - (a) in subsection (1), for first “document” substitute “ traditional document ”,
 - (b) in subsection (4), for first “document” substitute “ traditional document ”,
 - (c) in subsection (5), for first “document” substitute “ traditional document ”.
 
-**16.**[^key-f5e019548422ce3334ae3f347d0bae65] In the title of section 8, for “documents” substitute “ traditional documents ”.
+**16.**[^c-f5e019548422ce3334ae3f347d0bae65] In the title of section 8, for “documents” substitute “ traditional documents ”.
 
-**17.**[^key-0185f79eec86fc8fcdfdf9a6cb83c8a8] In section 9 (subscription on behalf of blind granter or granter unable to write)—
+**17.**[^c-0185f79eec86fc8fcdfdf9a6cb83c8a8] In section 9 (subscription on behalf of blind granter or granter unable to write)—
 
 - (a) for first “document” substitute “ traditional document ”,
 - (b) in subsection (5)—
   - (i) in paragraph (a), for “document” substitute “ traditional document ”,
   - (ii) in paragraph (b), for first “document” substitute “ traditional document as mentioned in section 5(1) ”.
 
-**18.**[^key-43cd4e686357a2b29455a7848071cd4c] Section 11 is repealed.
+**18.**[^c-43cd4e686357a2b29455a7848071cd4c] Section 11 is repealed.
 
 **19.** In section 12 (interpretation)—
 
@@ -173,22 +173,22 @@ summary: ''
 
   .
 
-**20.**[^key-414f283be6e6222fc8438b0f2497ff1f] In section 13 (Crown application), in subsection (1)(c), after “Sasines” insert “ , registered in the Land Register of Scotland ”.
+**20.**[^c-414f283be6e6222fc8438b0f2497ff1f] In section 13 (Crown application), in subsection (1)(c), after “Sasines” insert “ , registered in the Land Register of Scotland ”.
 
-**21.**[^key-fd901f87b5c0e048c31e183e46bda49a] The provisions of sections 10 to 15 as amended by this schedule become Part 4 of the Act.
+**21.**[^c-fd901f87b5c0e048c31e183e46bda49a] The provisions of sections 10 to 15 as amended by this schedule become Part 4 of the Act.
 
-**22.**[^key-e7db5103610abfae0927ba66d99d1dab] The title of Part 4 is “General provisions”.
+**22.**[^c-e7db5103610abfae0927ba66d99d1dab] The title of Part 4 is “General provisions”.
 
-**23.**[^key-4c6f7d81ac9245570e3d521ba15221d7] In schedule 1 (alterations made to documents after subscription)—
+**23.**[^c-4c6f7d81ac9245570e3d521ba15221d7] In schedule 1 (alterations made to documents after subscription)—
 
 - (a) in paragraph 1(1)(a), for first “document” substitute “ traditional document ”,
 - (b) in paragraph 2—
   - (i) in sub-paragraph (1), for first “document” substitute “ traditional document ”,
   - (ii) in sub-paragraph (2), for first “document” substitute “ traditional document ”.
 
-**24.**[^key-9740086013ba62405e3a926c20c050bc] In the title to schedule 1, for “document” substitute “ traditional document ”.
+**24.**[^c-9740086013ba62405e3a926c20c050bc] In the title to schedule 1, for “document” substitute “ traditional document ”.
 
-**25.**[^key-91afb106111fb7aa1bce266f696cc278] In schedule 2 (subscription and signing: special cases)—
+**25.**[^c-91afb106111fb7aa1bce266f696cc278] In schedule 2 (subscription and signing: special cases)—
 
 - (a) in paragraph 1, for first “document” substitute “ traditional document ”,
 - (b) in paragraph 2(1), for first “document” substitute “ traditional document ”,
@@ -218,7 +218,7 @@ summary: ''
   - (iii) in sub-paragraph (6), in paragraph (a) of the first subsection set out in substitution for section 3(1), for first “document” substitute “ traditional document ”,
   - (iv) in sub-paragraph (7), in paragraph (a) of the first sub-paragraph set out in substitution for paragraph 1(1) of schedule 1, for first “document” substitute “ traditional document ”.
 
-**26.**[^key-dc20fd4bafb0646753df65a122c88cad] In schedule 3 (modifications of the Act in relation to subscription or signing by relevant person under section 9 of the Act)—
+**26.**[^c-dc20fd4bafb0646753df65a122c88cad] In schedule 3 (modifications of the Act in relation to subscription or signing by relevant person under section 9 of the Act)—
 
 - (a) in paragraph 2, in paragraph (a) of the subsection set out in substitution for section 3(1), for “document” substitute “ traditional document ”,
 - (b) in paragraph 4, in the subsection set out in substitution for section 3(4), for first “document” substitute “ traditional document ”,
@@ -226,63 +226,63 @@ summary: ''
 - (d) in paragraph 9, in sub-paragraph (a) of the paragraph set out in substitution for paragraph 1(1) of schedule 1, for first “document” substitute “ traditional document ”,
 - (e) in paragraph 14, in sub-paragraph (a) of the paragraph set out in substitution for paragraph 2(1) of schedule 1, for first “document” substitute “ traditional document ”.
 
-**27.**[^key-86afb035a40b833d806a8400b715afc9] In paragraph 1 of schedule 4 (minor and consequential amendments)—
+**27.**[^c-86afb035a40b833d806a8400b715afc9] In paragraph 1 of schedule 4 (minor and consequential amendments)—
 
 - (a) in sub-paragraph (1), after “section 6(2)” insert “ or 9F(2) ”,
 - (b) in sub-paragraph (2), for “or subscribed” substitute “ , subscribed or authenticated ”.
 
 ## Annotations
 
-[^key-6e9a697f229a22ea6220a3382fe252e1]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/1) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-6e9a697f229a22ea6220a3382fe252e1]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/1) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-f6cb581559dff761c59048f8caddc608]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/1) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-f6cb581559dff761c59048f8caddc608]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/1) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-52d05289ab1fd460f635765bf3e048df]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/2) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-52d05289ab1fd460f635765bf3e048df]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/2) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-245c973d59da9a9786ed896d0b8503e5]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/3) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-245c973d59da9a9786ed896d0b8503e5]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/3) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-101e6e4625c59fdc84bcd4e81b9dd269]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/4) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-101e6e4625c59fdc84bcd4e81b9dd269]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/4) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-16cccba0f97c3cb0e2a7968919a21842]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/5) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-16cccba0f97c3cb0e2a7968919a21842]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/5) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-d4aea6fb599b972d47acfd6ce684eff4]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/6) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-d4aea6fb599b972d47acfd6ce684eff4]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/6) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-8cce5aa182d2c6b925ca11a68b187034]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/7) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-8cce5aa182d2c6b925ca11a68b187034]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/7) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-ed2d0781c7a52c15e314ebe2193b3eef]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/8) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-ed2d0781c7a52c15e314ebe2193b3eef]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/8) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-ec05c03eaa66320d758caa427c65fdbf]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/9) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-ec05c03eaa66320d758caa427c65fdbf]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/9) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-5ada9fed6e6104b06de8fe38554b14ca]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/10) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-5ada9fed6e6104b06de8fe38554b14ca]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/10) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-39cbb774701fe16ff035ca0530ea45f4]: Commencement: [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/11/a) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-39cbb774701fe16ff035ca0530ea45f4]: Commencement: [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/11/a) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-3805df0d1debf1d9a2e7e1c20894378d]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/12) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-3805df0d1debf1d9a2e7e1c20894378d]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/12) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-3f60dac45ec6d75244bee83694ae12ce]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/13) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-3f60dac45ec6d75244bee83694ae12ce]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/13) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-beb95c9fb3641d8486d16f6efb52c934]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/14) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-beb95c9fb3641d8486d16f6efb52c934]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/14) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-94e6b81e7f9b653d84db0a6f6b291de8]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/15) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-94e6b81e7f9b653d84db0a6f6b291de8]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/15) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-f5e019548422ce3334ae3f347d0bae65]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/16) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-f5e019548422ce3334ae3f347d0bae65]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/16) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-0185f79eec86fc8fcdfdf9a6cb83c8a8]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/17) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-0185f79eec86fc8fcdfdf9a6cb83c8a8]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/17) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-43cd4e686357a2b29455a7848071cd4c]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/18) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-43cd4e686357a2b29455a7848071cd4c]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/18) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-414f283be6e6222fc8438b0f2497ff1f]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/20) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-414f283be6e6222fc8438b0f2497ff1f]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/20) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-fd901f87b5c0e048c31e183e46bda49a]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/21) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-fd901f87b5c0e048c31e183e46bda49a]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/21) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-e7db5103610abfae0927ba66d99d1dab]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/22) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-e7db5103610abfae0927ba66d99d1dab]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/22) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-4c6f7d81ac9245570e3d521ba15221d7]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/23) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-4c6f7d81ac9245570e3d521ba15221d7]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/23) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-9740086013ba62405e3a926c20c050bc]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/24) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-9740086013ba62405e3a926c20c050bc]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/24) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-91afb106111fb7aa1bce266f696cc278]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/25) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-91afb106111fb7aa1bce266f696cc278]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/25) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-dc20fd4bafb0646753df65a122c88cad]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/26) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-dc20fd4bafb0646753df65a122c88cad]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/26) in force at 8.12.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/3) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
 
-[^key-86afb035a40b833d806a8400b715afc9]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/27) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)
+[^c-86afb035a40b833d806a8400b715afc9]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/27) in force at 11.5.2014 for specified purposes by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4)) (see [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2)

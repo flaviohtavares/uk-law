@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Repeal of register of retailers of tobacco and nicotine products in Wales etc[^key-0dccc1522e7a6a6770ab1c346a6964c4]
+## 22. Repeal of register of retailers of tobacco and nicotine products in Wales etc[^c-0dccc1522e7a6a6770ab1c346a6964c4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In the Public Health (Wales) Act [2017 (anaw 2)](https://www.legislation.gov.uk/
 
 ## Annotations
 
-[^key-0dccc1522e7a6a6770ab1c346a6964c4]: Commencement: S. 22 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-0dccc1522e7a6a6770ab1c346a6964c4]: Commencement: S. 22 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)

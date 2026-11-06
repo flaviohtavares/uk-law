@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Register of local development orders, planning applications etc.[^key-718756fc9d31fd411ee1df00817a4f2c]
+## 111. Register of local development orders, planning applications etc.[^c-718756fc9d31fd411ee1df00817a4f2c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-718756fc9d31fd411ee1df00817a4f2c]: Commencement: S. 111 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-718756fc9d31fd411ee1df00817a4f2c]: Commencement: S. 111 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

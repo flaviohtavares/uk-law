@@ -23,9 +23,9 @@ summary: ''
 Any power of the court may be exercised by a judge advocate, except—
 
 - (a) the power to determine an appeal, other than in proceedings to which rule 20 applies; and
-- (b) the power to confirm or substitute a punishment awarded ; and[^key-d6fa733df66dacefbe86481cf93cfa26]
+- (b) the power to confirm or substitute a punishment awarded ; and[^c-d6fa733df66dacefbe86481cf93cfa26]
 - (c) the power to vary a punishment, otherwise than in proceedings to which rule 34 applies.
 
 ## Annotations
 
-[^key-d6fa733df66dacefbe86481cf93cfa26]: Textual amendment: [Rule 35(c)](https://www.legislation.gov.uk/uksi/2009/1211/rule/35/c) and word inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1097/rule/9)
+[^c-d6fa733df66dacefbe86481cf93cfa26]: Textual amendment: [Rule 35(c)](https://www.legislation.gov.uk/uksi/2009/1211/rule/35/c) and word inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1097/rule/9)

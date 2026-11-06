@@ -102,7 +102,7 @@ In this Act, unless the context otherwise requires, the following expressions ha
 - “[^c6067601][^c6067591]**Actuary**” means a person who satisfies the requirements which are specified by the Authority for the purposes of section 340(6) of the Financial Services and Markets Act 2000 in so far as that subsection relates to actuaries;
 - “**Auditor**” means a person who is a qualified auditor for the purposes of the [^c6067611]Friendly and Industrial and Provident Societies Act 1968:
 
-“Authority” means the[^c6067621] Financial Conduct Authority[^key-8be5e200249a93e18bcde6de0c8833ae] ;
+“Authority” means the[^c6067621] Financial Conduct Authority[^c-8be5e200249a93e18bcde6de0c8833ae] ;
 
 - [^c6067631]. . .
 - “**Rules**” means in relation to any fund, the instrument creating and regulating the trusts of the fund, and includes every such instrument:
@@ -217,7 +217,7 @@ The rules of a fund qualified for registration under this Act must make provisio
 
 [^c6067621]: Textual amendment: Definition of “Authority” in s. 8 inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [178(6)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/178/6/c)
 
-[^key-8be5e200249a93e18bcde6de0c8833ae]: Textual amendment: Words in s. 8 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/1)
+[^c-8be5e200249a93e18bcde6de0c8833ae]: Textual amendment: Words in s. 8 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/1)
 
 [^c6067631]: Textual amendment: Definition of “Chief Registrar” and “Registrar” in s. 8 repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [178(6)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/178/6/b)
 

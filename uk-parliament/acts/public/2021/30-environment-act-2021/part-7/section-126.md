@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Defences to breach of obligation[^key-8a35cabf1afaac3f488a95e38691090d][^key-854fdf930d45846ec33ec8814012a7ea]
+## 126. Defences to breach of obligation[^c-8a35cabf1afaac3f488a95e38691090d][^c-854fdf930d45846ec33ec8814012a7ea]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a35cabf1afaac3f488a95e38691090d]: Commencement: S. 126 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-8a35cabf1afaac3f488a95e38691090d]: Commencement: S. 126 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-854fdf930d45846ec33ec8814012a7ea]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2021/30/section/126) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-854fdf930d45846ec33ec8814012a7ea]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2021/30/section/126) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

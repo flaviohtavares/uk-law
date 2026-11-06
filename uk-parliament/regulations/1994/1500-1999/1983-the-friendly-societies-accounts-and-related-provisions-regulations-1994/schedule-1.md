@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4 and 5
 
-### PART I — INCOME AND EXPENDITURE ACCOUNT FORMAT[^key-28a39ac5e0c9c276c7d30849b9dfceff]
+### PART I — INCOME AND EXPENDITURE ACCOUNT FORMAT[^c-28a39ac5e0c9c276c7d30849b9dfceff]
 
 #### I. — Technical account—General business
 
@@ -191,7 +191,7 @@ Regulations 4 and 5
 
 **16.** Excess of income over expenditure for the financial year
 
-### PART II — FORMAT OF CONSOLIDATED INCOME AND EXPENDITURE ACCOUNT[^key-4c4460e5e1f40584aa5d29cb34dc7d12]
+### PART II — FORMAT OF CONSOLIDATED INCOME AND EXPENDITURE ACCOUNT[^c-4c4460e5e1f40584aa5d29cb34dc7d12]
 
 The modifications to Part I of this Schedule for the format of a consolidated income and expenditure account are as follows:
 
@@ -216,7 +216,7 @@ The modifications to Part I of this Schedule for the format of a consolidated in
 
 (7) The information required by paragraphs 26 to 29 of Schedule 4 need not be shown.
 
-### PART III — NOTES ON THE INCOME AND EXPENDITURE FORMAT[^key-aa812407eb8b29f829ccbfbc2ecbb54b]
+### PART III — NOTES ON THE INCOME AND EXPENDITURE FORMAT[^c-aa812407eb8b29f829ccbfbc2ecbb54b]
 
 (1) *Gross premiums written*
 
@@ -301,8 +301,8 @@ Acquisition costs
 
 ## Annotations
 
-[^key-28a39ac5e0c9c276c7d30849b9dfceff]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1994/1983/schedule/1/part/I) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-28a39ac5e0c9c276c7d30849b9dfceff]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1994/1983/schedule/1/part/I) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-4c4460e5e1f40584aa5d29cb34dc7d12]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1994/1983/schedule/1/part/II) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-4c4460e5e1f40584aa5d29cb34dc7d12]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1994/1983/schedule/1/part/II) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-aa812407eb8b29f829ccbfbc2ecbb54b]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1994/1983/schedule/1/part/III) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-aa812407eb8b29f829ccbfbc2ecbb54b]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1994/1983/schedule/1/part/III) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

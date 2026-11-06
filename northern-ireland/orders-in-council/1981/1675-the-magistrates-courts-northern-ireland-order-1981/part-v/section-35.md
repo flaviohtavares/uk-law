@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: N.I.*
 
-The place in which a magistrates' court is sitting to conduct [^key-39a0ed703ad3d00b16f8df62b7fe2858]... a preliminary inquiry shall be deemed to be an open court except where—
+The place in which a magistrates' court is sitting to conduct [^c-39a0ed703ad3d00b16f8df62b7fe2858]... a preliminary inquiry shall be deemed to be an open court except where—
 
 - (a) any statutory provision contains an express provision to the contrary; or
-- (b) it appears to the court that the ends of justice would not be served by sitting in open court for the whole or any part of the [^key-39a0ed703ad3d00b16f8df62b7fe2858]... inquiry.
+- (b) it appears to the court that the ends of justice would not be served by sitting in open court for the whole or any part of the [^c-39a0ed703ad3d00b16f8df62b7fe2858]... inquiry.
 
 ## Annotations
 
-[^key-39a0ed703ad3d00b16f8df62b7fe2858]: Textual amendment: Words in [art. 35](https://www.legislation.gov.uk/nisi/1981/1675/article/35) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(d)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/d); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-39a0ed703ad3d00b16f8df62b7fe2858]: Textual amendment: Words in [art. 35](https://www.legislation.gov.uk/nisi/1981/1675/article/35) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(d)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/d); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

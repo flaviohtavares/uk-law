@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Modification of memorandum, articles, constitution or registered rules[^key-4f170269b2cd9b5737877f1ebc27cc86][^key-9316fa28b65efec6e1fa4bb130fb934c]
+## 63. Modification of memorandum, articles, constitution or registered rules[^c-4f170269b2cd9b5737877f1ebc27cc86][^c-9316fa28b65efec6e1fa4bb130fb934c]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ In section 72 of the 2003 Act (provisions supplementary to section 71)—
 
 ## Annotations
 
-[^key-4f170269b2cd9b5737877f1ebc27cc86]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2015/6/section/63) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
+[^c-4f170269b2cd9b5737877f1ebc27cc86]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2015/6/section/63) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
 
-[^key-9316fa28b65efec6e1fa4bb130fb934c]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2015/6/section/63) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-9316fa28b65efec6e1fa4bb130fb934c]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2015/6/section/63) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

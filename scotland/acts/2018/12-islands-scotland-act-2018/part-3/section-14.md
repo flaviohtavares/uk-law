@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Duty of the Scottish Ministers to have regard to request for retrospective island communities impact assessment[^key-c6605f2ca103328f4df36ddee87f4709]
+## 14. Duty of the Scottish Ministers to have regard to request for retrospective island communities impact assessment[^c-c6605f2ca103328f4df36ddee87f4709]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6605f2ca103328f4df36ddee87f4709]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/12/section/14) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)
+[^c-c6605f2ca103328f4df36ddee87f4709]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/12/section/14) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)

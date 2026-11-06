@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power to make super-complaints[^c22718581][^key-1befe9b35eac0f3edb0a8365f27ea180]
+## 25. Power to make super-complaints[^c22718581][^c-1befe9b35eac0f3edb0a8365f27ea180]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ After Part 2 of the Police Reform Act 2002 (complaints and misconduct) insert—
 
 [^c22718581]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/3/section/25) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1befe9b35eac0f3edb0a8365f27ea180]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/3/section/25) in force at 16.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/456/regulation/3/a)
+[^c-1befe9b35eac0f3edb0a8365f27ea180]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/3/section/25) in force at 16.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/456/regulation/3/a)

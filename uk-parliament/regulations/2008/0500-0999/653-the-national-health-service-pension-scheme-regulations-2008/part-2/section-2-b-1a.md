@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.B.1A. Eligibility: transitional[^key-d99a0aa8573e3e68015a3842ba210416]
+## 2.B.1A. Eligibility: transitional[^c-d99a0aa8573e3e68015a3842ba210416]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ This is subject to the following paragraphs of this regulation.
 
 ## Annotations
 
-[^key-d99a0aa8573e3e68015a3842ba210416]: Textual amendment: [Reg. 2.B.1A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.B.1A) substituted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2010/492/regulation/20)
+[^c-d99a0aa8573e3e68015a3842ba210416]: Textual amendment: [Reg. 2.B.1A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.B.1A) substituted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2010/492/regulation/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Effect of assessment period under Part 2 on freezing order[^key-13936b7714f89692c01b985a1c3cc2a0]
+## 29. Effect of assessment period under Part 2 on freezing order[^c-13936b7714f89692c01b985a1c3cc2a0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where an assessment period (within the meaning of section 132) begins in relatio
 
 ## Annotations
 
-[^key-13936b7714f89692c01b985a1c3cc2a0]: Commencement: S. 29 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-13936b7714f89692c01b985a1c3cc2a0]: Commencement: S. 29 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

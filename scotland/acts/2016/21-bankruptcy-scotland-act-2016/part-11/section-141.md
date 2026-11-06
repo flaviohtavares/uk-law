@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Deferral of discharge where debtor cannot be traced[^key-3961f59f4cb6369504d6e3e64092315f]
+## 141. Deferral of discharge where debtor cannot be traced[^c-3961f59f4cb6369504d6e3e64092315f]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3961f59f4cb6369504d6e3e64092315f]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2016/21/section/141) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3961f59f4cb6369504d6e3e64092315f]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2016/21/section/141) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

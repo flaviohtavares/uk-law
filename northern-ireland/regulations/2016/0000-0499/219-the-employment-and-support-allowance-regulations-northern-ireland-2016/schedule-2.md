@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 15(2) and (3)
 
-### PART 1 — PHYSICAL DISABILITIES[^key-98cf7c7d70a2f0ef32c8eb30cc796ee4]
+### PART 1 — PHYSICAL DISABILITIES[^c-98cf7c7d70a2f0ef32c8eb30cc796ee4]
 
 <table>
 <thead>
@@ -74,7 +74,7 @@ Regulation 15(2) and (3)
 </tbody>
 </table>
 
-### PART 2 — MENTAL, COGNITIVE AND INTELLECTUAL FUNCTION ASSESSMENT[^key-62d6dcfb7cdf2ff3845047f00cff9ae8]
+### PART 2 — MENTAL, COGNITIVE AND INTELLECTUAL FUNCTION ASSESSMENT[^c-62d6dcfb7cdf2ff3845047f00cff9ae8]
 
 <table>
 <thead>
@@ -126,6 +126,6 @@ Regulation 15(2) and (3)
 
 ## Annotations
 
-[^key-98cf7c7d70a2f0ef32c8eb30cc796ee4]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2016/219/schedule/2/part/1) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-98cf7c7d70a2f0ef32c8eb30cc796ee4]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2016/219/schedule/2/part/1) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
-[^key-62d6dcfb7cdf2ff3845047f00cff9ae8]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2016/219/schedule/2/part/2) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-62d6dcfb7cdf2ff3845047f00cff9ae8]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2016/219/schedule/2/part/2) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Directives which cover products of animal origin[^key-6e074b00d8ee526cdd6c71f562e982d8]
+## SCHEDULE 3 — Directives which cover products of animal origin[^c-6e074b00d8ee526cdd6c71f562e982d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Regulation 2(1)
 
-**1.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-6e074b00d8ee526cdd6c71f562e982d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e074b00d8ee526cdd6c71f562e982d8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1227) revoked (31.12.2003) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (S.I. 2003/3177)](https://www.legislation.gov.uk/uksi/2003/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3177/regulation/1), [68](https://www.legislation.gov.uk/uksi/2003/3177/regulation/68), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3177/schedule/6)
+[^c-6e074b00d8ee526cdd6c71f562e982d8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1227) revoked (31.12.2003) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (S.I. 2003/3177)](https://www.legislation.gov.uk/uksi/2003/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3177/regulation/1), [68](https://www.legislation.gov.uk/uksi/2003/3177/regulation/68), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3177/schedule/6)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

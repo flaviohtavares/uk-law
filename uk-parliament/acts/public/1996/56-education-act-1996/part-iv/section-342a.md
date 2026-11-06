@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342A. Application to justice of the peace: power to make regulations[^key-61407902398b90b10340d3ceb0ef6bf8]
+## 342A. Application to justice of the peace: power to make regulations[^c-61407902398b90b10340d3ceb0ef6bf8]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61407902398b90b10340d3ceb0ef6bf8]: Textual amendment: S. 342A and cross-heading inserted (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 144](https://www.legislation.gov.uk/ukpga/2008/25/section/144), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-61407902398b90b10340d3ceb0ef6bf8]: Textual amendment: S. 342A and cross-heading inserted (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 144](https://www.legislation.gov.uk/ukpga/2008/25/section/144), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)

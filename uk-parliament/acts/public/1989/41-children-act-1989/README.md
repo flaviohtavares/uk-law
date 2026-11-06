@@ -33,7 +33,7 @@ Children Act 1989
 
 \[16th November 1989\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e38af9a69795e6f207b11db1f273dd47]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e38af9a69795e6f207b11db1f273dd47]
 
 ## Contents
 
@@ -104,11 +104,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 16 — Family assistance orders.](part-ii/section-16.md)
 - [Section 16A — Risk assessments](part-ii/section-16a.md)
 
-### Part III — SUPPORT FOR CHILDREN AND FAMILIES PROVIDED BY LOCAL AUTHORITIES IN ENGLAND[^key-b5062c2326e1952381243f6031919e98]
+### Part III — SUPPORT FOR CHILDREN AND FAMILIES PROVIDED BY LOCAL AUTHORITIES IN ENGLAND[^c-b5062c2326e1952381243f6031919e98]
 
 *Extent: E+W+S*
 
-#### Application to local authorities in England[^key-48f41cbde20d172b71eefe3c1204834f]
+#### Application to local authorities in England[^c-48f41cbde20d172b71eefe3c1204834f]
 
 - [Section 16B — Application to local authorities in England](part-iii/section-16b.md)
 
@@ -152,20 +152,20 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 22F — Regulations as to children looked after by local authorities](part-iii/section-22f.md)
 - [Section 22G — General duty of local authority to secure sufficient accommodation for looked after children](part-iii/section-22g.md)
 
-#### Information: children in kinship care and their carers[^key-a302fed6e903083c6fad4133b675b48b]
+#### Information: children in kinship care and their carers[^c-a302fed6e903083c6fad4133b675b48b]
 
 *Extent: E+W*
 
 - [Section 22H — Kinship care: information](part-iii/section-22h.md)
 - [Section 22I — Section 22H: interpretation](part-iii/section-22i.md)
 
-#### Accommodation of looked after children: regional co-operation arrangements[^key-7c12101661a376fa057dbe99fe5f6e5f]
+#### Accommodation of looked after children: regional co-operation arrangements[^c-7c12101661a376fa057dbe99fe5f6e5f]
 
 *Extent: E+W*
 
 - [Section 22J — Accommodation of looked after children: regional co-operation arrangements](part-iii/section-22j.md)
 
-#### Educational achievement of previously looked after children[^key-3f7d087bbf7c915cfcb16ce871ef997f]
+#### Educational achievement of previously looked after children[^c-3f7d087bbf7c915cfcb16ce871ef997f]
 
 - [Section 23ZZA — Information and advice for promoting educational achievement](part-iii/section-23zza.md)
 
@@ -552,19 +552,19 @@ SCHEDULES
 
 [^c20891291]: Modification: Act modified (26.4.2010) by [The Isles of Scilly (Children Act 1989) Order 2010 (S.I. 2010/1116)](https://www.legislation.gov.uk/uksi/2010/1116), [art. 2](https://www.legislation.gov.uk/uksi/2010/1116/article/2)
 
-[^key-e38af9a69795e6f207b11db1f273dd47]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/41) applied (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 13(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1465/article/13/2)
+[^c-e38af9a69795e6f207b11db1f273dd47]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/41) applied (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 13(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1465/article/13/2)
 
 [^c15160011]: Textual amendment: Ss. 14A-14G and heading inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/115/1), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), {art. 2k}
 
-[^key-b5062c2326e1952381243f6031919e98]: Textual amendment: Pt. 3 heading substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [57(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/57/2)
+[^c-b5062c2326e1952381243f6031919e98]: Textual amendment: Pt. 3 heading substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [57(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/57/2)
 
-[^key-48f41cbde20d172b71eefe3c1204834f]: Textual amendment: S. 16B and cross-heading inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [57(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/57/1)
+[^c-48f41cbde20d172b71eefe3c1204834f]: Textual amendment: S. 16B and cross-heading inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [57(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/57/1)
 
-[^key-a302fed6e903083c6fad4133b675b48b]: Textual amendment: [Ss. 22H](https://www.legislation.gov.uk/ukpga/1989/41/section/22H), [22I](https://www.legislation.gov.uk/ukpga/1989/41/section/22I) and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 5](https://www.legislation.gov.uk/ukpga/2026/21/section/5), [78(2)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/a)
+[^c-a302fed6e903083c6fad4133b675b48b]: Textual amendment: [Ss. 22H](https://www.legislation.gov.uk/ukpga/1989/41/section/22H), [22I](https://www.legislation.gov.uk/ukpga/1989/41/section/22I) and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 5](https://www.legislation.gov.uk/ukpga/2026/21/section/5), [78(2)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/a)
 
-[^key-7c12101661a376fa057dbe99fe5f6e5f]: Textual amendment: [S. 22J and cross-heading](https://www.legislation.gov.uk/ukpga/1989/41/part/III/crossheading/accommodation-of-looked-after-children-regional-cooperation-arrangements) inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/12/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/b)
+[^c-7c12101661a376fa057dbe99fe5f6e5f]: Textual amendment: [S. 22J and cross-heading](https://www.legislation.gov.uk/ukpga/1989/41/part/III/crossheading/accommodation-of-looked-after-children-regional-cooperation-arrangements) inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/12/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/b)
 
-[^key-3f7d087bbf7c915cfcb16ce871ef997f]: Textual amendment: [S. 23ZZA](https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA) and cross-heading inserted (1.9.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/16/section/4), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-3f7d087bbf7c915cfcb16ce871ef997f]: Textual amendment: [S. 23ZZA](https://www.legislation.gov.uk/ukpga/1989/41/section/23ZZA) and cross-heading inserted (1.9.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/16/section/4), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
 
 [^c19937981]: Textual amendment: S. 23ZA and cross-heading inserted (1.9.2009 and 15.11.2010 for certain purposes for E., 26.4.2010 for certain purposes for W., 28.3.2011 for W. otherwise, 1.4.2011 for E. otherwise) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/d); [S.I. 2010/1326](https://www.legislation.gov.uk/uksi/2010/1326), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/1326/article/2/d); [S.I. 2010/2714](https://www.legislation.gov.uk/uksi/2010/2714), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2714/article/2/d); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2981/article/5)); [S.I. 2011/949](https://www.legislation.gov.uk/uksi/2011/949), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2011/949/article/3/1/a)
 

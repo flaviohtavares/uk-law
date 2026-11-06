@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 464B. Relief in case of return payment to company[^key-4638f4a6a95995f71ae128724d1fd3d7]
+## 464B. Relief in case of return payment to company[^c-4638f4a6a95995f71ae128724d1fd3d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4638f4a6a95995f71ae128724d1fd3d7]: Textual amendment: [S. 464B](https://www.legislation.gov.uk/ukpga/2010/4/section/464B) omitted (with effect in accordance with s. 81(2) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/2)
+[^c-4638f4a6a95995f71ae128724d1fd3d7]: Textual amendment: [S. 464B](https://www.legislation.gov.uk/ukpga/2010/4/section/464B) omitted (with effect in accordance with s. 81(2) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/2)

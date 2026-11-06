@@ -47,7 +47,7 @@ The Strategic Investment and Regeneration of Sites (Northern Ireland) Order 2003
 
 - “the designated company” has the meaning given by Article 5(6);
 - “the Executive” means the Executive Committee of the Assembly;
-- “the Office” means the Executive Office;[^key-9461ea81af57eecc6a44d587564737be]
+- “the Office” means the Executive Office;[^c-9461ea81af57eecc6a44d587564737be]
 - “public body” means –
   - (a) a Northern Ireland department;
   - (b) a district council; and
@@ -123,7 +123,7 @@ For the purpose of this Part the Office may arrange for the formation of a compa
 
 (6) Only one company may be designated under paragraph (1) at any time; and references in this Part to the designated company are to the company for the time being designated under that paragraph.
 
-(7)[^key-936e7ec84ccbae81633635ce72c9b1ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-936e7ec84ccbae81633635ce72c9b1ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Funding of designated company
 
@@ -154,7 +154,7 @@ to such extent as arrangements for the time being approved or made under Article
 - (a) in relation to projects generally, in relation to projects of a specified class or description or in relation to any particular project or projects; or
 - (b) to the body individually, to all statutory bodies generally or to a specified class or description of body to which the body belongs.
 
-## PART III — REGENERATION OF SITES[^key-65005970290a4f9d8420b6f8b4862b0a]
+## PART III — REGENERATION OF SITES[^c-65005970290a4f9d8420b6f8b4862b0a]
 
 ### The relevant sites
 
@@ -165,7 +165,7 @@ to such extent as arrangements for the time being approved or made under Article
 - (a) on 2nd May 2002 was held by or on behalf of the Crown in right of Her Majesty's Government in the United Kingdom; and
 - (b) is made available to the Executive in pursuance of arrangements (known as “the reinvestment and reform initiative”) made between that Government and the Executive and announced on that date.
 
-(1A)[^key-1f78d9167de41b2ca2b75d1dcc9b0343] In this Part “the responsible department” means—
+(1A)[^c-1f78d9167de41b2ca2b75d1dcc9b0343] In this Part “the responsible department” means—
 
 - (a) in relation to a relevant site transferred to the Department for Infrastructure by the Departments (Transfer of Functions) Order (Northern Ireland) 2016, that Department;
 - (b) in relation to any other relevant site existing immediately before the transfer date, the Office;
@@ -177,16 +177,16 @@ to such extent as arrangements for the time being approved or made under Article
 - “new relevant site” means any area of land which becomes a relevant site at any time on or after the transfer date;
 - “the transfer date” has the same meaning as in the Departments (Transfer of Functions) Order (Northern Ireland) 2016.
 
-(2) Subject to the following provisions of this Part, the responsible department[^key-a66de017cc7fc1da5a0fecc9e50c496e] shall have power –
+(2) Subject to the following provisions of this Part, the responsible department[^c-a66de017cc7fc1da5a0fecc9e50c496e] shall have power –
 
 - (a) to hold and manage a relevant site; and
 - (b) generally to implement the arrangements mentioned in paragraph (1)(b) so far as relating to relevant sites.
 
-(3) A certificate issued by the responsible department[^key-32ff64908f87b9cedbebfb4cc245b6a1] that an area of land is a relevant site is conclusive evidence of that fact for the purposes of this Part.
+(3) A certificate issued by the responsible department[^c-32ff64908f87b9cedbebfb4cc245b6a1] that an area of land is a relevant site is conclusive evidence of that fact for the purposes of this Part.
 
 ### Functions of the Office in relation to relevant sites
 
-#### 10. Disposal of relevant sites by the responsible department[^key-10bb5e1a331d291be92f363e7b976ed5]
+#### 10. Disposal of relevant sites by the responsible department[^c-10bb5e1a331d291be92f363e7b976ed5]
 
 (1) The responsible department may, with the approval of the Department of Finance and Personnel, dispose of any land forming all or part of a relevant site and vested in the responsible department.
 
@@ -262,7 +262,7 @@ to such extent as arrangements for the time being approved or made under Article
 - (b) such other public bodies as the responsible department thinks appropriate; and
 - (c) such other bodies or persons as appear to the responsible department to have an interest in the site,
 
-about the exercise of the responsible department’s[^key-9105aebadaa6b2bd4db5c3a0318bbbd8] functions under Article 11 in relation to the site.
+about the exercise of the responsible department’s[^c-9105aebadaa6b2bd4db5c3a0318bbbd8] functions under Article 11 in relation to the site.
 
 #### 14. Powers of Office not exercisable where development corporation established
 
@@ -272,7 +272,7 @@ Articles 10 to 13 do not apply in relation to any relevant site for which a deve
 
 #### 15. Power to establish development corporations for relevant sites
 
-(1) The responsible department[^key-53f080a5afc4712a36508a9877554c4c] may by order establish a body (to be known as a “development corporation”) for a relevant site or for two or more such sites.
+(1) The responsible department[^c-53f080a5afc4712a36508a9877554c4c] may by order establish a body (to be known as a “development corporation”) for a relevant site or for two or more such sites.
 
 (2) A development corporation shall be a body corporate by such name as is specified in the order establishing it.
 
@@ -325,7 +325,7 @@ An order under Article 15(1) may provide –
 
 - (a) that any powers which may be exercisable by a development corporation under this Part and which are specified in the order –
   - (i) are not to be exercisable by the corporation established by the order; or
-  - (ii) are not to be so exercisable without the consent of the responsible department[^key-dd0c85f5664bbc801fd86fdb0282aa3b] or the Department of Finance and Personnel, or both;
+  - (ii) are not to be so exercisable without the consent of the responsible department[^c-dd0c85f5664bbc801fd86fdb0282aa3b] or the Department of Finance and Personnel, or both;
 - (b) that such powers as are specified in the order are to be exercisable by the corporation established by the order in addition to those otherwise so exercisable;
 
 and this Part shall apply in relation to the corporation accordingly.
@@ -352,7 +352,7 @@ and this Part shall apply in relation to the corporation accordingly.
 
 (4) In providing financial assistance under paragraph (1), the corporation may impose such conditions as it thinks fit, including conditions for repayment in specified circumstances.
 
-#### 19. Directions to development corporation by the responsible department[^key-652b6f1377736f67bd28ae05cb066a67]
+#### 19. Directions to development corporation by the responsible department[^c-652b6f1377736f67bd28ae05cb066a67]
 
 (1) The responsible department may give directions of a general or specific nature to a development corporation as to the manner in which it is to discharge its functions under this Part.
 
@@ -364,7 +364,7 @@ and this Part shall apply in relation to the corporation accordingly.
 
 #### 20. Land: transfer to, and acquisition of land by, development corporation
 
-(1) The responsible department[^key-feb180782af08b2210d1034619ee785d] may by order transfer to a development corporation any land forming all or part of the corporation's site which is vested in the responsible department.
+(1) The responsible department[^c-feb180782af08b2210d1034619ee785d] may by order transfer to a development corporation any land forming all or part of the corporation's site which is vested in the responsible department.
 
 (2) A development corporation may acquire by agreement or compulsorily land which –
 
@@ -397,7 +397,7 @@ and this Part shall apply in relation to the corporation accordingly.
 - (a) impose such restrictions as the corporation may think necessary on the use of the land disposed of; and
 - (b) grant or reserve such rights over the land as the corporation may think fit.
 
-(4) The responsible department[^key-efa34ad23fb34582b98b182d0ddc1983] may by order vest any land for the time being held by a development corporation in any public body (including the responsible department itself).
+(4) The responsible department[^c-efa34ad23fb34582b98b182d0ddc1983] may by order vest any land for the time being held by a development corporation in any public body (including the responsible department itself).
 
 #### 22. Agreements and arrangements with other bodies and persons
 
@@ -412,7 +412,7 @@ and this Part shall apply in relation to the corporation accordingly.
 - (b) the corporation shall have power to carry any such agreement into effect; and
 - (c) for that purpose references to the public body in any such statutory provision shall be construed as including references to the corporation.
 
-(3) The corporation shall not enter an agreement under paragraph (2) with a public body other than a Northern Ireland department except with the approval of the responsible department[^key-cd17feac1c18fd9096fced771c0356ce].
+(3) The corporation shall not enter an agreement under paragraph (2) with a public body other than a Northern Ireland department except with the approval of the responsible department[^c-cd17feac1c18fd9096fced771c0356ce].
 
 (4) A public body may enter into an agreement with a development corporation that any powers of the corporation under this Part shall, to such extent and subject to such conditions as the agreement may specify, be exercised by the public body on behalf of the corporation and the public body shall have power to carry any such agreement into effect.
 
@@ -420,7 +420,7 @@ and this Part shall apply in relation to the corporation accordingly.
 
 #### 23. Exercise of other statutory powers in relation to site of development corporation
 
-(1) The responsible department[^key-b5275188a664d2d197dadc0038fac551] may by order provide –
+(1) The responsible department[^c-b5275188a664d2d197dadc0038fac551] may by order provide –
 
 - (a) that prescribed functions of any public body shall not be exercisable on, or in relation to, the site of a development corporation; or
 - (b) that prescribed functions of a public body shall not be so exercisable except with the consent of the corporation or in accordance with an agreement under Article 22.
@@ -448,11 +448,11 @@ to such extent as the corporation may reasonably require.
 
 about the exercise of the corporation's functions in relation to that site.
 
-(2) Where under the Planning Act (Northern Ireland) 2011[^key-aa0f1b8e758f7398238f91434e7b8f55] the Department of the Environment is required to consult with the relevant district council about any matter relating to or affecting the site of a development corporation, the Department shall also consult with the corporation about that matter.
+(2) Where under the Planning Act (Northern Ireland) 2011[^c-aa0f1b8e758f7398238f91434e7b8f55] the Department of the Environment is required to consult with the relevant district council about any matter relating to or affecting the site of a development corporation, the Department shall also consult with the corporation about that matter.
 
 #### 26. Power to dissolve a development corporation
 
-(1) The responsible department[^key-d321de8d39324c4bd6f812535eced5f1] may by order make provision for, and in connection with, the dissolution of a development corporation.
+(1) The responsible department[^c-d321de8d39324c4bd6f812535eced5f1] may by order make provision for, and in connection with, the dissolution of a development corporation.
 
 (2) An order under this Article may –
 
@@ -464,7 +464,7 @@ about the exercise of the corporation's functions in relation to that site.
 
 #### 27. Orders under this Part
 
-(1) An order under this Part may contain such incidental, consequential, supplementary and transitional provisions as the responsible department[^key-abc1d01270950b4620bafc9889410f84] thinks necessary or expedient, including provisions amending or repealing any statutory provision (including this Order).
+(1) An order under this Part may contain such incidental, consequential, supplementary and transitional provisions as the responsible department[^c-abc1d01270950b4620bafc9889410f84] thinks necessary or expedient, including provisions amending or repealing any statutory provision (including this Order).
 
 (2) Paragraph (1) and the Statutory Rules (Northern Ireland) Order 1979 (NI 12) do not apply to orders under Article 20(1) or (4) or 21(4) or paragraph 1 or 3 of Schedule 2 (orders vesting land, etc.).
 
@@ -492,7 +492,7 @@ Article 15
 - (a) a chairman; and
 - (b) such number of other members as is specified in the order establishing the corporation.
 
-(2) The chairman and other members shall be appointed by the responsible department[^key-5828634c30c1a1dd00b794cf548576ae].
+(2) The chairman and other members shall be appointed by the responsible department[^c-5828634c30c1a1dd00b794cf548576ae].
 
 (3) In making appointments under this paragraph, the responsible department shall –
 
@@ -564,7 +564,7 @@ the responsible department may direct the corporation to make a payment of such 
 - (a) pay, or make payments in respect of, such pensions or gratuities to or in respect of its employees or former employees as it may determine; and
 - (b) provide and maintain such schemes (whether contributory or not) as it may determine for the payment of pensions or gratuities to or in respect of its employees or former employees.
 
-(3) A determination of a development corporation under this paragraph requires the approval of the responsible department[^key-2e3680fde6a132b6914b224dada19c16] and the Department of Finance and Personnel.
+(3) A determination of a development corporation under this paragraph requires the approval of the responsible department[^c-2e3680fde6a132b6914b224dada19c16] and the Department of Finance and Personnel.
 
 (4) References in this paragraph to pensions and gratuities include references to pensions or gratuities by way of compensation to or in respect of employees who suffer loss of employment or loss or diminution of emoluments.
 
@@ -572,7 +572,7 @@ the responsible department may direct the corporation to make a payment of such 
 
 **8.** (1) A development corporation may establish committees.
 
-(2) A person who is not a member of the corporation shall not, except with the approval of the responsible department[^key-b83e773f1823d4e6de6387545d7fa09a], be appointed to a committee of the corporation.
+(2) A person who is not a member of the corporation shall not, except with the approval of the responsible department[^c-b83e773f1823d4e6de6387545d7fa09a], be appointed to a committee of the corporation.
 
 (3) A development corporation may pay to members of its committees who are neither members nor employees of the corporation such remuneration and allowances as the corporation may, with the approval of the responsible department, determine.
 
@@ -633,7 +633,7 @@ shall be received in evidence and shall, unless the contrary is proved, be taken
 
 ### Finance
 
-**16.** (1) The responsible department[^key-65e0835b7326d09ce6f1d7a73b9690d2] may make payments to a development corporation out of money appropriated for the purpose.
+**16.** (1) The responsible department[^c-65e0835b7326d09ce6f1d7a73b9690d2] may make payments to a development corporation out of money appropriated for the purpose.
 
 (2) Payments under this paragraph shall be made on such terms and conditions as the responsible department may, with the approval of the Department of Finance and Personnel, determine.
 
@@ -690,7 +690,7 @@ as the responsible department may, with the approval of the Department of Financ
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI. 7)
 
-**21.**[^key-d38710e649450fdc4476641f2ed95a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-d38710e649450fdc4476641f2ed95a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
@@ -724,7 +724,7 @@ Articles 12 and 20
 
 #### Compulsory acquisition: vesting orders
 
-**1.** (1) Where the responsible department[^key-e7bc7f159c71815ceae9329471d8a389] proposes to acquire land compulsorily it may make an order (a “vesting order”) vesting the land in the responsible department.
+**1.** (1) Where the responsible department[^c-e7bc7f159c71815ceae9329471d8a389] proposes to acquire land compulsorily it may make an order (a “vesting order”) vesting the land in the responsible department.
 
 (2) The power to make a vesting order in respect of any land by virtue of this paragraph includes power to create and vest in the responsible department new rights over the land as well as to vest existing rights.
 
@@ -734,11 +734,11 @@ Articles 12 and 20
 
 **2.** (1) Schedule 6 to the Local Government Act (Northern Ireland) 1972 (c.9) shall apply for the purposes of the acquisition of land by means of a vesting order made under paragraph 1 in the same manner as it applies to the acquisition of land by means of a vesting order made under that Act, subject to the following modifications –
 
-- (a) for any reference to the Department or the council there shall be substituted a reference to the responsible department[^key-a3bee91a40520ce1809ac8504a88c44d];
+- (a) for any reference to the Department or the council there shall be substituted a reference to the responsible department[^c-a3bee91a40520ce1809ac8504a88c44d];
 - (b) for any reference to that Act there shall be substituted a reference to this Order;
 - (c) paragraph 1 shall be omitted;
 - (d) in paragraph 2 –
-  - (i) for the words “Notice of the application” there shall be substituted “ Notice of the relevant department’s[^key-8b919e04b1511072813d4b6055aff14e] intention to acquire the land compulsorily ”;
+  - (i) for the words “Notice of the application” there shall be substituted “ Notice of the relevant department’s[^c-8b919e04b1511072813d4b6055aff14e] intention to acquire the land compulsorily ”;
   - (ii) the words “in such form and manner as the Ministry directs” shall be omitted;
   - (iii) in sub-paragraph (c) for the words “as may be prescribed” there shall be substituted “ as the Department considers fit ”;
 - (e) in paragraph 3(1)(b) after the word “held” there shall be inserted the words “ by the planning appeals commission or by any other person ”;
@@ -760,7 +760,7 @@ Articles 12 and 20
 
 #### Compulsory acquisition: vesting orders
 
-**3.** (1) Where a development corporation proposes to acquire land compulsorily it may apply to the responsible department[^key-d966b05cd0ec89a73606b2c2dda4b63c] for an order (a “vesting order”) vesting the land in the corporation and the responsible department shall have power to make a vesting order.
+**3.** (1) Where a development corporation proposes to acquire land compulsorily it may apply to the responsible department[^c-d966b05cd0ec89a73606b2c2dda4b63c] for an order (a “vesting order”) vesting the land in the corporation and the responsible department shall have power to make a vesting order.
 
 (2) The power to make a vesting order in respect of any land by virtue of this paragraph includes power to create and vest in the corporation new rights over the land as well as to vest existing rights.
 
@@ -771,7 +771,7 @@ Articles 12 and 20
 **4.** (1) Schedule 6 to the Local Government Act (Northern Ireland) 1972 (c.9) shall apply for the purposes of the acquisition of land by means of a vesting order made under paragraph 3 in the same manner as it applies to the acquisition of land by means of a vesting order made under that Act, subject to the following modifications –
 
 - (a) for any reference to the council there shall be substituted a reference to the development corporation;
-- (b) for any reference to the Department concerned there shall be substituted a reference to the responsible department[^key-01909c0400aeaaa6687ae569a4288852];
+- (b) for any reference to the Department concerned there shall be substituted a reference to the responsible department[^c-01909c0400aeaaa6687ae569a4288852];
 - (c) for any reference to that Act there shall be substituted a reference to this Order;
 - (d) in paragraph 6(2) for the words from “the fund” onwards there shall be substituted “ funds of the development corporation (in this Schedule referred to as “the compensation fund”), and shall be discharged by payments made by that corporation ”; and
 - (e) in paragraph 12(2) for “the clerk of the council” there shall be substituted “ such person as may be designated for the purposes of this Schedule by the development corporation ”; and
@@ -796,13 +796,13 @@ shall not, where representations objecting to the proposal for making the order 
 
 #### Compulsory acquisition: land containing historic monuments or archaeological object
 
-**7.** (1) Nothing in this Schedule shall authorise the acquisition, without the consent of the Department of the Environment, of any land on or in which there is, to the knowledge of the responsible department[^key-e12436d3f5a77bfbfe1dc9f6c2f8d96f], any historic monument or archaeological object.
+**7.** (1) Nothing in this Schedule shall authorise the acquisition, without the consent of the Department of the Environment, of any land on or in which there is, to the knowledge of the responsible department[^c-e12436d3f5a77bfbfe1dc9f6c2f8d96f], any historic monument or archaeological object.
 
 (2) In this paragraph “historic monument” and “archaeological object” have the same meanings as in the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995 (NI 9).
 
 #### Acquisition of land: powers of entry
 
-**8.** (1) Subject to this paragraph, a person authorised in writing by the responsible department[^key-5d4a23008a4cedeef5f1a50090875201] may, on production if required of his authority, at any reasonable time enter any land –
+**8.** (1) Subject to this paragraph, a person authorised in writing by the responsible department[^c-5d4a23008a4cedeef5f1a50090875201] may, on production if required of his authority, at any reasonable time enter any land –
 
 - (a) for the purpose of surveying or examining the land in order to ascertain whether it ought to be acquired by the responsible department under Article 12; or
 - (b) in connection with any claim for compensation in respect of any such acquisition.
@@ -838,66 +838,66 @@ the justice may by warrant under his hand authorise that person to enter on the 
 
 ## Annotations
 
-[^key-9461ea81af57eecc6a44d587564737be]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2003/410/article/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9461ea81af57eecc6a44d587564737be]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2003/410/article/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21432921]: Textual amendment: Words in art. 5(2)(b) substituted (1.10.2009) by virtue of [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 219(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/219/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c21433031]: Textual amendment: Words in art. 5(3) substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 219(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/219/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-936e7ec84ccbae81633635ce72c9b1ec]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/nisi/2003/410/article/5/7) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with [ss. 23](https://www.legislation.gov.uk/nia/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/nia/2016/4/section/50/3))
+[^c-936e7ec84ccbae81633635ce72c9b1ec]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/nisi/2003/410/article/5/7) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with [ss. 23](https://www.legislation.gov.uk/nia/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/nia/2016/4/section/50/3))
 
-[^key-65005970290a4f9d8420b6f8b4862b0a]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2003/410/part/III): transfer of functions for specified purposes (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-65005970290a4f9d8420b6f8b4862b0a]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2003/410/part/III): transfer of functions for specified purposes (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-1f78d9167de41b2ca2b75d1dcc9b0343]: Textual amendment: [Art. 9(1A)(1B)](https://www.legislation.gov.uk/nisi/2003/410/article/9/1A) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 4(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/4/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1f78d9167de41b2ca2b75d1dcc9b0343]: Textual amendment: [Art. 9(1A)(1B)](https://www.legislation.gov.uk/nisi/2003/410/article/9/1A) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 4(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/4/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-a66de017cc7fc1da5a0fecc9e50c496e]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/nisi/2003/410/article/9/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/4/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-a66de017cc7fc1da5a0fecc9e50c496e]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/nisi/2003/410/article/9/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/4/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-32ff64908f87b9cedbebfb4cc245b6a1]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/nisi/2003/410/article/9/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/4/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-32ff64908f87b9cedbebfb4cc245b6a1]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/nisi/2003/410/article/9/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/4/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-10bb5e1a331d291be92f363e7b976ed5]: Textual amendment: Words in [arts. 10-13](https://www.legislation.gov.uk/nisi/2003/410/article/10) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-10bb5e1a331d291be92f363e7b976ed5]: Textual amendment: Words in [arts. 10-13](https://www.legislation.gov.uk/nisi/2003/410/article/10) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-9105aebadaa6b2bd4db5c3a0318bbbd8]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/nisi/2003/410/article/13/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/6) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9105aebadaa6b2bd4db5c3a0318bbbd8]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/nisi/2003/410/article/13/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/6) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-53f080a5afc4712a36508a9877554c4c]: Textual amendment: Words in [art. 15](https://www.legislation.gov.uk/nisi/2003/410/article/15) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-53f080a5afc4712a36508a9877554c4c]: Textual amendment: Words in [art. 15](https://www.legislation.gov.uk/nisi/2003/410/article/15) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-dd0c85f5664bbc801fd86fdb0282aa3b]: Textual amendment: Words in [art. 17](https://www.legislation.gov.uk/nisi/2003/410/article/17) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-dd0c85f5664bbc801fd86fdb0282aa3b]: Textual amendment: Words in [art. 17](https://www.legislation.gov.uk/nisi/2003/410/article/17) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-652b6f1377736f67bd28ae05cb066a67]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/nisi/2003/410/article/19) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-652b6f1377736f67bd28ae05cb066a67]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/nisi/2003/410/article/19) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-feb180782af08b2210d1034619ee785d]: Textual amendment: Words in [art. 20](https://www.legislation.gov.uk/nisi/2003/410/article/20) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-feb180782af08b2210d1034619ee785d]: Textual amendment: Words in [art. 20](https://www.legislation.gov.uk/nisi/2003/410/article/20) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-efa34ad23fb34582b98b182d0ddc1983]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/nisi/2003/410/article/21) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-efa34ad23fb34582b98b182d0ddc1983]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/nisi/2003/410/article/21) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-cd17feac1c18fd9096fced771c0356ce]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/nisi/2003/410/article/22) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-cd17feac1c18fd9096fced771c0356ce]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/nisi/2003/410/article/22) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b5275188a664d2d197dadc0038fac551]: Textual amendment: Words in [art. 23](https://www.legislation.gov.uk/nisi/2003/410/article/23) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b5275188a664d2d197dadc0038fac551]: Textual amendment: Words in [art. 23](https://www.legislation.gov.uk/nisi/2003/410/article/23) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-aa0f1b8e758f7398238f91434e7b8f55]: Textual amendment: Words in art. 25(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 97](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/97) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-aa0f1b8e758f7398238f91434e7b8f55]: Textual amendment: Words in art. 25(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 97](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/97) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
-[^key-d321de8d39324c4bd6f812535eced5f1]: Textual amendment: Words in [art. 26](https://www.legislation.gov.uk/nisi/2003/410/article/26) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-d321de8d39324c4bd6f812535eced5f1]: Textual amendment: Words in [art. 26](https://www.legislation.gov.uk/nisi/2003/410/article/26) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-abc1d01270950b4620bafc9889410f84]: Textual amendment: Words in [art. 27](https://www.legislation.gov.uk/nisi/2003/410/article/27) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-abc1d01270950b4620bafc9889410f84]: Textual amendment: Words in [art. 27](https://www.legislation.gov.uk/nisi/2003/410/article/27) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/7) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-5828634c30c1a1dd00b794cf548576ae]: Textual amendment: Words in [Sch. 1 paras. 2-5](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5828634c30c1a1dd00b794cf548576ae]: Textual amendment: Words in [Sch. 1 paras. 2-5](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-2e3680fde6a132b6914b224dada19c16]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-2e3680fde6a132b6914b224dada19c16]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b83e773f1823d4e6de6387545d7fa09a]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/8) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b83e773f1823d4e6de6387545d7fa09a]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/8) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-65e0835b7326d09ce6f1d7a73b9690d2]: Textual amendment: Words in [Sch. 1 paras. 16-20](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/16) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-65e0835b7326d09ce6f1d7a73b9690d2]: Textual amendment: Words in [Sch. 1 paras. 16-20](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/16) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/8) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-d38710e649450fdc4476641f2ed95a1b]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/21) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with [ss. 23](https://www.legislation.gov.uk/nia/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/nia/2016/4/section/50/3))
+[^c-d38710e649450fdc4476641f2ed95a1b]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisi/2003/410/schedule/1/paragraph/21) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with [ss. 23](https://www.legislation.gov.uk/nia/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/nia/2016/4/section/50/3))
 
-[^key-e7bc7f159c71815ceae9329471d8a389]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-e7bc7f159c71815ceae9329471d8a389]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-a3bee91a40520ce1809ac8504a88c44d]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-a3bee91a40520ce1809ac8504a88c44d]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-8b919e04b1511072813d4b6055aff14e]: Textual amendment: Words in [Sch. 2 para. 2(1)(d)](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/2/1/d) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-8b919e04b1511072813d4b6055aff14e]: Textual amendment: Words in [Sch. 2 para. 2(1)(d)](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/2/1/d) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-d966b05cd0ec89a73606b2c2dda4b63c]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-d966b05cd0ec89a73606b2c2dda4b63c]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-01909c0400aeaaa6687ae569a4288852]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-01909c0400aeaaa6687ae569a4288852]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-e12436d3f5a77bfbfe1dc9f6c2f8d96f]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-e12436d3f5a77bfbfe1dc9f6c2f8d96f]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-5d4a23008a4cedeef5f1a50090875201]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/8) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5d4a23008a4cedeef5f1a50090875201]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/nisi/2003/410/schedule/2/paragraph/8) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/9/4) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

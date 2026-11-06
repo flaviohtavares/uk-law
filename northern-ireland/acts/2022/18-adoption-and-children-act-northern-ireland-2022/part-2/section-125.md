@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Accommodation for children: requirements[^key-73880b3739b6658d9179d71b71f64497]
+## 125. Accommodation for children: requirements[^c-73880b3739b6658d9179d71b71f64497]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73880b3739b6658d9179d71b71f64497]: Commencement: S. 125 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-73880b3739b6658d9179d71b71f64497]: Commencement: S. 125 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

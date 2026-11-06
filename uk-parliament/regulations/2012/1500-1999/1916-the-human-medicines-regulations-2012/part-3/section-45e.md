@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45E. Criteria of broker’s registration[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+## 45E. Criteria of broker’s registration[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 - (a) have a permanent address in the United Kingdom;
 - (b) maintain an emergency plan to ensure effective implementation of the recall from the market of a medicinal product where recall is—
-  - (i)[^key-98b1e82509ae044441c0589d46374a93] ordered by—
+  - (i)[^c-98b1e82509ae044441c0589d46374a93] ordered by—
     - (aa) in the case of a broker in Great Britain, the licensing authority or by an appropriate authority responsible for the licensing of medicinal products in an approved country for import, or
     - (bb) in the case of a broker in Northern Ireland, the licensing authority or by the competent authority of any EEA State, or
   - (ii) carried out in co-operation with the manufacturer of, or the holder of the marketing authorisation, for the product;
@@ -41,7 +41,7 @@ summary: ''
 - (d) record in relation to the brokering of each medicinal product—
   - (i) the name of the medicinal product,
   - (ii) the quantity of the product brokered,
-  - (iii)[^key-12648cf50b8278e37fa1e23909c968fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-12648cf50b8278e37fa1e23909c968fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) the name and address of the—
     - (aa) supplier, or
     - (bb) consignee, and
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
+[^c-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
 
-[^key-98b1e82509ae044441c0589d46374a93]: Textual amendment: Reg. 45E(3)(b)(i) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [40(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/40/a) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 29(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/29/a))
+[^c-98b1e82509ae044441c0589d46374a93]: Textual amendment: Reg. 45E(3)(b)(i) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [40(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/40/a) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 29(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/29/a))
 
-[^key-12648cf50b8278e37fa1e23909c968fc]: Textual amendment: [Reg. 45E(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45E/3/d/iii) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/832/regulation/22)
+[^c-12648cf50b8278e37fa1e23909c968fc]: Textual amendment: [Reg. 45E(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45E/3/d/iii) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/832/regulation/22)

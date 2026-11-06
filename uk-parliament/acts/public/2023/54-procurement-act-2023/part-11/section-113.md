@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Minister of the Crown: restrictions on the exercise of powers[^key-e69d176c99618ac117ef7e1f31a33664][^key-8707f27d0e2eb0393b17f1159417bdc5]
+## 113. Minister of the Crown: restrictions on the exercise of powers[^c-e69d176c99618ac117ef7e1f31a33664][^c-8707f27d0e2eb0393b17f1159417bdc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e69d176c99618ac117ef7e1f31a33664]: Commencement: S. 113 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e69d176c99618ac117ef7e1f31a33664]: Commencement: S. 113 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-8707f27d0e2eb0393b17f1159417bdc5]: Commencement: S. 113 in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/n)
+[^c-8707f27d0e2eb0393b17f1159417bdc5]: Commencement: S. 113 in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/n)

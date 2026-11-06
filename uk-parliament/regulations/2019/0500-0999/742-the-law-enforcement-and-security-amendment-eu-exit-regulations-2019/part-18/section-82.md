@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Amendment of the Investigatory Powers Act 2016[^key-7ab7402e670c6f858933214dbd473c6d]
+## 82. Amendment of the Investigatory Powers Act 2016[^c-7ab7402e670c6f858933214dbd473c6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7ab7402e670c6f858933214dbd473c6d]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7ab7402e670c6f858933214dbd473c6d]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691841]: Marginal citation: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 

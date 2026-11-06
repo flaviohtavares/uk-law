@@ -51,28 +51,28 @@ In accordance with Article 47(3A) of that Order, it has had regard to relevant a
 
 As required by Article 9 of [Regulation (EC) No. 178/2002 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2002/178) laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] , there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation and commencement[^key-3cae312b5c54165f47c92412ec47baab]
+## 1. Citation and commencement[^c-3cae312b5c54165f47c92412ec47baab]
 
 These Regulations may be cited as the Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2008 and come into operation —
 
 - (a) for the purpose of regulation 6 on 30th June 2008, and
 - (b) for all other purposes on 1st July 2008.
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2008[^key-b5854bf66ae419e7e71543b89fdd2dcc]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2008[^c-b5854bf66ae419e7e71543b89fdd2dcc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b5854bf66ae419e7e71543b89fdd2dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Plastic Materials and Articles in Contact with Food (Lid Gaskets) Regulations (Northern Ireland) 2007[^key-d42b183f5d2aa048f7aee976afa0f0f5]
+## 8. Amendment of the Plastic Materials and Articles in Contact with Food (Lid Gaskets) Regulations (Northern Ireland) 2007[^c-d42b183f5d2aa048f7aee976afa0f0f5]
 
 In regulation 2(1) (interpretation) of the Plastic Materials and Articles in Contact with Food (Lid Gaskets) Regulations (Northern Ireland) 2007[^f00007], for the definition of “the Commission Regulation” substitute —
 
@@ -80,7 +80,7 @@ In regulation 2(1) (interpretation) of the Plastic Materials and Articles in Con
 
 .
 
-## 9. Amendment of the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^key-9ec6816eacc45603fd99de3fcf3b74d4]
+## 9. Amendment of the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^c-9ec6816eacc45603fd99de3fcf3b74d4]
 
 In the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^f00009], in Schedule 1 (provisions to which those Regulations do not apply) for the title and reference of the Plastic Materials and Articles in Contact with Food (No. 2) Regulations (Northern Ireland) 2006 substitute the title and reference of the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2008.
 
@@ -90,7 +90,7 @@ Andrew McCormick
 
 A senior officer of the Department of Health, Social Services and Public Safety
 
-## SCHEDULE[^key-e082badf7a4c7c1aed56d348711045cf]
+## SCHEDULE[^c-e082badf7a4c7c1aed56d348711045cf]
 
 Regulation 7
 
@@ -717,21 +717,21 @@ These Regulations also make an amendment to the Food Safety (Sampling and Qualif
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1: that Regulation was last amended by Commission Regulation (EC) No. 202/2008 (OJ No. L60, 5.3.2008, p.17)
 
-[^key-3cae312b5c54165f47c92412ec47baab]: Commencement: Reg. 1 in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
+[^c-3cae312b5c54165f47c92412ec47baab]: Commencement: Reg. 1 in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
 
-[^key-b5854bf66ae419e7e71543b89fdd2dcc]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/nisr/2008/271/regulation/2) revoked (13.3.2009) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/56)](https://www.legislation.gov.uk/nisr/2009/56), [regs. 1](https://www.legislation.gov.uk/nisr/2009/56/regulation/1), [26(b)](https://www.legislation.gov.uk/nisr/2009/56/regulation/26/b)
+[^c-b5854bf66ae419e7e71543b89fdd2dcc]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/nisr/2008/271/regulation/2) revoked (13.3.2009) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/56)](https://www.legislation.gov.uk/nisr/2009/56), [regs. 1](https://www.legislation.gov.uk/nisr/2009/56/regulation/1), [26(b)](https://www.legislation.gov.uk/nisr/2009/56/regulation/26/b)
 
-[^key-d42b183f5d2aa048f7aee976afa0f0f5]: Commencement: Reg. 8 in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
+[^c-d42b183f5d2aa048f7aee976afa0f0f5]: Commencement: Reg. 8 in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
 
 [^f00007]: Footnote: [S.R. 2007 No. 419](https://www.legislation.gov.uk/nisr/2007/419)
 
 [^f00008]: Footnote: OJ No. L164, 25.6.2008, p. 12
 
-[^key-9ec6816eacc45603fd99de3fcf3b74d4]: Commencement: Reg. 9 in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
+[^c-9ec6816eacc45603fd99de3fcf3b74d4]: Commencement: Reg. 9 in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
 
 [^f00009]: Footnote: [S.R. 1991 No. 198](https://www.legislation.gov.uk/nisr/1991/198); the relevant amending Regulation is [S.R. 2006 No. 420](https://www.legislation.gov.uk/nisr/2006/420)
 
-[^key-e082badf7a4c7c1aed56d348711045cf]: Commencement: Sch. in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
+[^c-e082badf7a4c7c1aed56d348711045cf]: Commencement: Sch. in operation at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b)
 
 [^f01000]: Footnote: (1)
 

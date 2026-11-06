@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Preventative services[^key-92466e48c0e89127cbae02da3c5c385a]
+## 15. Preventative services[^c-92466e48c0e89127cbae02da3c5c385a]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
   - (iii) any family or other proceedings in relation to children which might lead to them being placed in local authority care, or
   - (iv) proceedings under the inherent jurisdiction of the High Court in relation to children;
 - (g) encouraging children not to commit criminal offences;
-- (h) avoiding the need for children to be placed in secure accommodation within the meaning given in section 119 and in section 25 of the Children Act 1989[^key-ad1d5b8bcd8d4156db8554216d894ba4];
+- (h) avoiding the need for children to be placed in secure accommodation within the meaning given in section 119 and in section 25 of the Children Act 1989[^c-ad1d5b8bcd8d4156db8554216d894ba4];
 - (i) enabling people to live their lives as independently as possible.
 
 (3) The things that may be provided or arranged in discharging the duty under subsection (1) include, but are not limited to, care and support (or in the case of carers, support) of the kind that must or may be provided under sections 35 to 45.
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92466e48c0e89127cbae02da3c5c385a]: Commencement: S. 15 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-92466e48c0e89127cbae02da3c5c385a]: Commencement: S. 15 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-ad1d5b8bcd8d4156db8554216d894ba4]: Textual amendment: Words in s. 15(2)(h) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [295](https://www.legislation.gov.uk/wsi/2016/413/regulation/295)
+[^c-ad1d5b8bcd8d4156db8554216d894ba4]: Textual amendment: Words in s. 15(2)(h) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [295](https://www.legislation.gov.uk/wsi/2016/413/regulation/295)

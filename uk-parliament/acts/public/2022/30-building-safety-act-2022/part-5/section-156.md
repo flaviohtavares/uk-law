@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Amendment of Regulatory Reform (Fire Safety) Order 2005[^key-bb68da4611156b9cf2863affc63ca9a7]
+## 156. Amendment of Regulatory Reform (Fire Safety) Order 2005[^c-bb68da4611156b9cf2863affc63ca9a7]
 
 *Extent: E+W*
 
-(1)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] The Regulatory Reform (Fire Safety) Order 2005 ([S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541)) is amended as follows.
+(1)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] The Regulatory Reform (Fire Safety) Order 2005 ([S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541)) is amended as follows.
 
-(2)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 5 (duties under the Order), for “22”, in each place it occurs, substitute “22B”.
+(2)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 5 (duties under the Order), for “22”, in each place it occurs, substitute “22B”.
 
-(3)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 9 (risk assessment)—
+(3)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 9 (risk assessment)—
 
 - (a) in paragraph (6) for the words from “record” to the end substitute “make a record of the assessment or review, which must in particular include the information prescribed by paragraph (7).”;
 - (b) in paragraph (7)(a) omit “significant”.
@@ -39,9 +39,9 @@ summary: ''
 >
 > (3) Where the responsible person appoints more than one person, the responsible person must make arrangements for ensuring adequate co-operation between them.
 
-(5)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 11(2) (fire safety arrangements) omit the words from “where” to the end.
+(5)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 11(2) (fire safety arrangements) omit the words from “where” to the end.
 
-(6)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] After article 21 insert—
+(6)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] After article 21 insert—
 
 > **21A. Provision of information to residents of domestic premises**
 >
@@ -74,7 +74,7 @@ summary: ''
 >
 > (9) A statutory instrument containing regulations made by the Welsh Ministers under this article is subject to annulment in pursuance of a resolution of Senedd Cymru.
 
-(7)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 22 (co-operation and co-ordination)—
+(7)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 22 (co-operation and co-ordination)—
 
 - (a) in the heading, at the end insert “between responsible persons”;
 - (b) before paragraph (1) insert—
@@ -89,7 +89,7 @@ summary: ''
 
   .
 
-(8)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-579c38c04bac2f3f087f0bb8b63073ae] After article 22 insert—
+(8)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-579c38c04bac2f3f087f0bb8b63073ae] After article 22 insert—
 
 > **22A. Provision of information to new responsible person**
 >
@@ -138,15 +138,15 @@ summary: ''
 > - “**higher-risk building**” has the meaning given by section 65 of that Act;
 > - “**residential unit**” has the meaning given by section 115 of that Act.
 
-(9)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 29(5) (alterations notices), omit paragraphs (b) and (c).
+(9)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 29(5) (alterations notices), omit paragraphs (b) and (c).
 
-(10)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 32 (offences)—
+(10)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 32 (offences)—
 
 - (a) in paragraph (1)(a) for “22” substitute “22B”;
 - (b) in paragraph (4) omit “not exceeding level 3 on the standard scale”;
 - (c) in paragraph (7) omit “not exceeding level 3 on the standard scale”.
 
-(11)[^key-6aaa5dc25e4eb1db3ab522746ab1769e][^key-5657ef057ead0c81337c7812fe0749c4] In article 50 (guidance)—
+(11)[^c-6aaa5dc25e4eb1db3ab522746ab1769e][^c-5657ef057ead0c81337c7812fe0749c4] In article 50 (guidance)—
 
 - (a) in paragraph (1) for “22” substitute “22B”;
 - (b) in paragraph (1A)—
@@ -157,10 +157,10 @@ summary: ''
 
 ## Annotations
 
-[^key-bb68da4611156b9cf2863affc63ca9a7]: Commencement: S. 156 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(xi)(c)
+[^c-bb68da4611156b9cf2863affc63ca9a7]: Commencement: S. 156 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(xi)(c)
 
-[^key-6aaa5dc25e4eb1db3ab522746ab1769e]: Commencement: [S. 156(1)-(3)(5)-(11)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/1) in force except in relation to W. at 1.10.2023 by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/2))
+[^c-6aaa5dc25e4eb1db3ab522746ab1769e]: Commencement: [S. 156(1)-(3)(5)-(11)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/1) in force except in relation to W. at 1.10.2023 by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/2))
 
-[^key-5657ef057ead0c81337c7812fe0749c4]: Commencement: [S. 156(1)-(3)(5)-(7)(9)-(11)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/1) in force at 1.10.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/914/regulation/6))
+[^c-5657ef057ead0c81337c7812fe0749c4]: Commencement: [S. 156(1)-(3)(5)-(7)(9)-(11)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/1) in force at 1.10.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/914/regulation/6))
 
-[^key-579c38c04bac2f3f087f0bb8b63073ae]: Commencement: [S. 156(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/8) in force at 1.10.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 3](https://www.legislation.gov.uk/wsi/2023/914/regulation/3)
+[^c-579c38c04bac2f3f087f0bb8b63073ae]: Commencement: [S. 156(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/8) in force at 1.10.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 3](https://www.legislation.gov.uk/wsi/2023/914/regulation/3)

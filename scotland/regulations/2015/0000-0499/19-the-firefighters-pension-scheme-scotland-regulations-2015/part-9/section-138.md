@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Appeal concerning entries on the certificate[^key-1d20605442a9e6ac921f4e4ec2712ee1]
+## 138. Appeal concerning entries on the certificate[^c-1d20605442a9e6ac921f4e4ec2712ee1]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1d20605442a9e6ac921f4e4ec2712ee1]: Commencement: [Reg. 138](https://www.legislation.gov.uk/ssi/2015/19/regulation/138) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-1d20605442a9e6ac921f4e4ec2712ee1]: Commencement: [Reg. 138](https://www.legislation.gov.uk/ssi/2015/19/regulation/138) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00048]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 

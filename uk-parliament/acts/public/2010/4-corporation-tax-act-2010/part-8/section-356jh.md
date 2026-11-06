@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356JH. Activation of allowance: no change of equity share[^key-d4aa543b7323fe7fc3668e790aa4a9bb]
+## 356JH. Activation of allowance: no change of equity share[^c-d4aa543b7323fe7fc3668e790aa4a9bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,9 +30,9 @@ summary: ''
 (2) The amount of activated allowance the company has for that accounting period and that cluster area is the smaller of—
 
 - (a) the closing balance of unactivated allowance held for the accounting period and the cluster area;
-- (b) the total amount of[^key-b2e93a5518ccd086edc4a790b292e15e] the company's relevant income for that accounting period from that cluster area.
+- (b) the total amount of[^c-b2e93a5518ccd086edc4a790b292e15e] the company's relevant income for that accounting period from that cluster area.
 
-(3)[^key-30ed10aa393eef2cd4d17f559162103b] For the purposes of this Chapter, income is relevant income of a company from a cluster area for an accounting period if it is—
+(3)[^c-30ed10aa393eef2cd4d17f559162103b] For the purposes of this Chapter, income is relevant income of a company from a cluster area for an accounting period if it is—
 
 - (a) production income of the company from any oil extraction activities carried on in that area that is taken into account in calculating the company's adjusted ring fence profits for the accounting period, or
 - (b) income that—
@@ -52,7 +52,7 @@ summary: ''
 
 (8) Regulations under this section may not be made unless a draft of the instrument containing them has been laid before, and approved by a resolution of, the House of Commons.
 
-(9)[^key-610d9e8e0e3c8953d2ec88ca30f59108] Where a tariff receipt of the company relates only partly to the cluster area mentioned in subsection (1), for the purposes of subsection (3)(b) the tariff receipt is to be attributed to the cluster area on a just and reasonable basis.
+(9)[^c-610d9e8e0e3c8953d2ec88ca30f59108] Where a tariff receipt of the company relates only partly to the cluster area mentioned in subsection (1), for the purposes of subsection (3)(b) the tariff receipt is to be attributed to the cluster area on a just and reasonable basis.
 
 (10) If the company has entered into any arrangements the purpose, or one of the main purposes of which is—
 
@@ -65,10 +65,10 @@ any income arising in connection with the arrangement is not regarded as a tarif
 
 ## Annotations
 
-[^key-d4aa543b7323fe7fc3668e790aa4a9bb]: Textual amendment: Pt. 8 Ch. 9 inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/13/paragraph/2)
+[^c-d4aa543b7323fe7fc3668e790aa4a9bb]: Textual amendment: Pt. 8 Ch. 9 inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/13/paragraph/2)
 
-[^key-b2e93a5518ccd086edc4a790b292e15e]: Textual amendment: Words in s. 356JH(2)(b) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/63/2)
+[^c-b2e93a5518ccd086edc4a790b292e15e]: Textual amendment: Words in s. 356JH(2)(b) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/63/2)
 
-[^key-30ed10aa393eef2cd4d17f559162103b]: Textual amendment: Ss. 356JH(3)-(8) substituted for s. 356JH(3) (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/63/3)
+[^c-30ed10aa393eef2cd4d17f559162103b]: Textual amendment: Ss. 356JH(3)-(8) substituted for s. 356JH(3) (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/63/3)
 
-[^key-610d9e8e0e3c8953d2ec88ca30f59108]: Textual amendment: [Ss. 356JH(9)-(11)](https://www.legislation.gov.uk/ukpga/2010/4/section/356JH/9) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Allowance and Cluster Area Allowance (Relevant Income Tariff Receipts) Regulations 2019 (S.I. 2019/63)](https://www.legislation.gov.uk/uksi/2019/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/63/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/63/regulation/4/3)
+[^c-610d9e8e0e3c8953d2ec88ca30f59108]: Textual amendment: [Ss. 356JH(9)-(11)](https://www.legislation.gov.uk/ukpga/2010/4/section/356JH/9) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Allowance and Cluster Area Allowance (Relevant Income Tariff Receipts) Regulations 2019 (S.I. 2019/63)](https://www.legislation.gov.uk/uksi/2019/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/63/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/63/regulation/4/3)

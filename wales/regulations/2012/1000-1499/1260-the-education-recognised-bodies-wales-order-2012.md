@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Recognised Bodies) (Wales) Order 2012 (revoked)[^key-dfa5067ee4ebe44e41aaa609cf065cc6]
+The Education (Recognised Bodies) (Wales) Order 2012 (revoked)[^c-dfa5067ee4ebe44e41aaa609cf065cc6]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into force
 
 4 June 2012
 
-[^key-dfa5067ee4ebe44e41aaa609cf065cc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfa5067ee4ebe44e41aaa609cf065cc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-dfa5067ee4ebe44e41aaa609cf065cc6]
+## 1. Title, commencement and application[^c-dfa5067ee4ebe44e41aaa609cf065cc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Recognised Bodies[^key-dfa5067ee4ebe44e41aaa609cf065cc6]
+## 2. Recognised Bodies[^c-dfa5067ee4ebe44e41aaa609cf065cc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-dfa5067ee4ebe44e41aaa609cf065cc6]
+## 3. Revocations[^c-dfa5067ee4ebe44e41aaa609cf065cc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dfa5067ee4ebe44e41aaa609cf065cc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfa5067ee4ebe44e41aaa609cf065cc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-dfa5067ee4ebe44e41aaa609cf065cc6]
+## SCHEDULE[^c-dfa5067ee4ebe44e41aaa609cf065cc6]
 
 Article 2
 
@@ -69,8 +69,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-dfa5067ee4ebe44e41aaa609cf065cc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfa5067ee4ebe44e41aaa609cf065cc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dfa5067ee4ebe44e41aaa609cf065cc6]: Textual amendment: Order revoked (18.3.2016) by [The Education (Recognised Bodies) (Wales) Order 2016 (S.I. 2016/396)](https://www.legislation.gov.uk/uksi/2016/396), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/396/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/396/article/3)
+[^c-dfa5067ee4ebe44e41aaa609cf065cc6]: Textual amendment: Order revoked (18.3.2016) by [The Education (Recognised Bodies) (Wales) Order 2016 (S.I. 2016/396)](https://www.legislation.gov.uk/uksi/2016/396), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/396/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/396/article/3)

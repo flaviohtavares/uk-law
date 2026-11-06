@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. The Scheduled Monuments (Review of Scheduling Decisions) (Wales) Regulations 2017[^key-8c1ae1a5f3c2caed73e518b9669f09a0]
+## 113. The Scheduled Monuments (Review of Scheduling Decisions) (Wales) Regulations 2017[^c-8c1ae1a5f3c2caed73e518b9669f09a0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Scheduled Monuments (Review of Scheduling Decisions) (Wales) Regulations 201
 
 ## Annotations
 
-[^key-8c1ae1a5f3c2caed73e518b9669f09a0]: Commencement: [Reg. 113](https://www.legislation.gov.uk/wsi/2024/924/regulation/113) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8c1ae1a5f3c2caed73e518b9669f09a0]: Commencement: [Reg. 113](https://www.legislation.gov.uk/wsi/2024/924/regulation/113) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00054]: Footnote: [S.I. 2017/643 (W. 149)](https://www.legislation.gov.uk/wsi/2017/643).

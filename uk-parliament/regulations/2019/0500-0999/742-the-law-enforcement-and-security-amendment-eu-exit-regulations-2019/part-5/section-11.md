@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of the Controlled Drugs (Drug Precursors) (Intra-Community Trade) Regulations 2008[^key-c5b10195e7db3bac6d23cad1243bcfae]
+## 11. Amendment of the Controlled Drugs (Drug Precursors) (Intra-Community Trade) Regulations 2008[^c-c5b10195e7db3bac6d23cad1243bcfae]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5b10195e7db3bac6d23cad1243bcfae]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c5b10195e7db3bac6d23cad1243bcfae]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691031]: Marginal citation: [S.I. 2008/295](https://www.legislation.gov.uk/uksi/2008/295). Regulation 3(3) and (4) was amended by paragraph 190 of Part 4 of Schedule 8 to the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).

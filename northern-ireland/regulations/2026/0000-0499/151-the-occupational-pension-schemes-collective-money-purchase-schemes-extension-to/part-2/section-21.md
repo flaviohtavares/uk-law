@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Interpretation of Part 2 of the Pension Schemes Act 2021[^key-f8c264c4c2d3d13976160b22b454c574]
+## 21. Interpretation of Part 2 of the Pension Schemes Act 2021[^c-f8c264c4c2d3d13976160b22b454c574]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ In section 100 (interpretation of Part 2)—
 
 ## Annotations
 
-[^key-f8c264c4c2d3d13976160b22b454c574]: Commencement: Reg. 21 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-f8c264c4c2d3d13976160b22b454c574]: Commencement: Reg. 21 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 85 was amended by paragraph 3 of Schedule 8 to the Pensions (No. 2) Act (Northern Ireland) [2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13), paragraph 13 of Schedule 4 to the Public Service Pensions Act (Northern Ireland) [2014 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2014/2), paragraph 28 of Schedule 2 to the Pension Schemes Act (Northern Ireland) [2016 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2016/1), paragraph 14 of Schedule 6 and paragraph 22 of Schedule 8 to the Pension Schemes Act [2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1) and paragraph 15 of Schedule 3 to the Pension Schemes Act (Northern Ireland) [2021 (c. 6 (N.I.))](https://www.legislation.gov.uk/nia/2021/6)
 

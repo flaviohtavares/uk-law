@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Component completion report[^key-987d7876d5c3bebd9044f4f01036c026]
+## 27A. Component completion report[^c-987d7876d5c3bebd9044f4f01036c026]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-987d7876d5c3bebd9044f4f01036c026]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2024/420/regulation/32)
+[^c-987d7876d5c3bebd9044f4f01036c026]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2024/420/regulation/32)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Security in respect of payment of compensation[^key-fc8103e1ff26a12263b50e1d549fdb05]
+## 9. Security in respect of payment of compensation[^c-fc8103e1ff26a12263b50e1d549fdb05]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8103e1ff26a12263b50e1d549fdb05]: Commencement: Art. 9 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-fc8103e1ff26a12263b50e1d549fdb05]: Commencement: Art. 9 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

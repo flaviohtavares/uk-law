@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police (Conduct) Regulations 2012 (revoked)[^key-79fddf2dcede753163db937a037b5e05]
+The Police (Conduct) Regulations 2012 (revoked)[^c-79fddf2dcede753163db937a037b5e05]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 22nd November 2012
 
-[^key-79fddf2dcede753163db937a037b5e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79fddf2dcede753163db937a037b5e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Preliminary[^key-79fddf2dcede753163db937a037b5e05]
+### PART 1 — Preliminary[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ Coming into force
 - [Section 3 — Interpretation and delegation](part-1/section-3.md)
 - [Section 4 — The harm test](part-1/section-4.md)
 
-### PART 2 — General[^key-79fddf2dcede753163db937a037b5e05]
+### PART 2 — General[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ Coming into force
 - [Section 10 — Suspension](part-2/section-10.md)
 - [Section 10A — Appropriate authority consent to notice of intention to resign or retire](part-2/section-10a.md)
 
-### PART 3 — Investigations[^key-79fddf2dcede753163db937a037b5e05]
+### PART 3 — Investigations[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -90,7 +90,7 @@ Coming into force
 - [Section 17 — Interviews during investigation](part-3/section-17.md)
 - [Section 18 — Report of investigation](part-3/section-18.md)
 
-### PART 4 — Misconduct Proceedings[^key-79fddf2dcede753163db937a037b5e05]
+### PART 4 — Misconduct Proceedings[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ Coming into force
 - [Section 39 — Appeal meeting](part-4/section-39.md)
 - [Section 40 — Procedure and finding of the appeal](part-4/section-40.md)
 
-### PART 5 — Fast Track Procedure for Special Cases[^key-79fddf2dcede753163db937a037b5e05]
+### PART 5 — Fast Track Procedure for Special Cases[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -145,7 +145,7 @@ Coming into force
 - [Section 56 — Notification of outcome](part-5/section-56.md)
 - [Section 57 — Record of special case hearing](part-5/section-57.md)
 
-### PART 6 — Record Keeping[^key-79fddf2dcede753163db937a037b5e05]
+### PART 6 — Record Keeping[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -161,12 +161,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-79fddf2dcede753163db937a037b5e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79fddf2dcede753163db937a037b5e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-79fddf2dcede753163db937a037b5e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79fddf2dcede753163db937a037b5e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79fddf2dcede753163db937a037b5e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2632) revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/a) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-79fddf2dcede753163db937a037b5e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2632) revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/a) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))

@@ -43,7 +43,7 @@ summary: ''
   - (iv) the arrangements the agency proposes to make for allowing any person contact with the child; and
   - (v) any other relevant information.
 
-(3) Where the adoption agency remains of the view that the proposed placement should proceed, it[^key-c1393e5395b1543c3fde0133a6f0594e] must notify the prospective adopter that the proposed placement is to be referred to the adoption panel and give him a copy of the adoption placement report, inviting him to send any observations in writing to the agency within 10 working days, beginning with the date on which the notification is sent.
+(3) Where the adoption agency remains of the view that the proposed placement should proceed, it[^c-c1393e5395b1543c3fde0133a6f0594e] must notify the prospective adopter that the proposed placement is to be referred to the adoption panel and give him a copy of the adoption placement report, inviting him to send any observations in writing to the agency within 10 working days, beginning with the date on which the notification is sent.
 
 (4) At the end of the period of 10 working days referred to in paragraph (3) (or earlier if observations are received before the 10 working days has expired) the adoption agency must send—
 
@@ -71,4 +71,4 @@ and place on the appropriate record, the information and documents received from
 
 ## Annotations
 
-[^key-c1393e5395b1543c3fde0133a6f0594e]: Textual amendment: Words in reg. 31(3) substituted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(n)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/n)
+[^c-c1393e5395b1543c3fde0133a6f0594e]: Textual amendment: Words in reg. 31(3) substituted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(n)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/n)

@@ -31,10 +31,10 @@ Council Regulation (EEC) No 1890/84
 
 of 26 June 1984 introducing special measures of Community interest relating to energy strategy (revoked)
 
-[^key-cede16371a30c3e249c2dbd85a16b28b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cede16371a30c3e249c2dbd85a16b28b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-cede16371a30c3e249c2dbd85a16b28b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-cede16371a30c3e249c2dbd85a16b28b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cede16371a30c3e249c2dbd85a16b28b]: Textual amendment: Regulation revoked (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/530/schedule/3/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cede16371a30c3e249c2dbd85a16b28b]: Textual amendment: Regulation revoked (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/530/schedule/3/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

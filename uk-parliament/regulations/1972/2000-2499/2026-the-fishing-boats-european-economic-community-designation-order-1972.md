@@ -33,7 +33,7 @@ SEA FISHERIES
 
 FISHERY LIMITS
 
-The Fishing Boats (European Economic Community) Designation Order 1972 (revoked)[^key-d4e7192bef534ae9b49890aebe8d2490]
+The Fishing Boats (European Economic Community) Designation Order 1972 (revoked)[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 Made
 
@@ -43,60 +43,60 @@ Coming into Operation
 
 1st January 1973
 
-[^key-d4e7192bef534ae9b49890aebe8d2490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e7192bef534ae9b49890aebe8d2490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-d4e7192bef534ae9b49890aebe8d2490]
+## 1. Citation and Commencement[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d4e7192bef534ae9b49890aebe8d2490]
+## 2. Interpretation[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-d4e7192bef534ae9b49890aebe8d2490]
+## 3. Revocations[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. General and Special Fishing Rights[^key-d4e7192bef534ae9b49890aebe8d2490]
+## 4. General and Special Fishing Rights[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4e7192bef534ae9b49890aebe8d2490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e7192bef534ae9b49890aebe8d2490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — THE RESERVED WATERS[^key-d4e7192bef534ae9b49890aebe8d2490]
+## SCHEDULE 1 — THE RESERVED WATERS[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 (ARTICLE 2)
 
-**1.**[^key-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d4e7192bef534ae9b49890aebe8d2490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REVOCATIONS[^key-d4e7192bef534ae9b49890aebe8d2490]
+## SCHEDULE 2 — REVOCATIONS[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 (ARTICLE 3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — SPECIAL RIGHTS TO FISH IN RESERVED WATERS[^key-d4e7192bef534ae9b49890aebe8d2490]
+## SCHEDULE 3 — SPECIAL RIGHTS TO FISH IN RESERVED WATERS[^c-d4e7192bef534ae9b49890aebe8d2490]
 
 (ARTICLE 4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4e7192bef534ae9b49890aebe8d2490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e7192bef534ae9b49890aebe8d2490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4e7192bef534ae9b49890aebe8d2490]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1972/2026) revoked (9.3.1983) by [The Fishing Boats (European Economic Community) Designation Order 1983 (S.I. 1983/253)](https://www.legislation.gov.uk/uksi/1983/253), [arts. 1](https://www.legislation.gov.uk/uksi/1983/253/article/1), [4](https://www.legislation.gov.uk/uksi/1983/253/article/4)
+[^c-d4e7192bef534ae9b49890aebe8d2490]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1972/2026) revoked (9.3.1983) by [The Fishing Boats (European Economic Community) Designation Order 1983 (S.I. 1983/253)](https://www.legislation.gov.uk/uksi/1983/253), [arts. 1](https://www.legislation.gov.uk/uksi/1983/253/article/1), [4](https://www.legislation.gov.uk/uksi/1983/253/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Exceptions from disqualification for imprisonment[^key-8dcaf0548a9a6b1b4efa04dfa6faffa7]
+## 160. Exceptions from disqualification for imprisonment[^c-8dcaf0548a9a6b1b4efa04dfa6faffa7]
 
 *Extent: N.I.*
 
@@ -33,12 +33,12 @@ made by a court in such proceedings, unless paragraph (2) applies.
 - (a) a penalty is imposed on the claimant at the conclusion of the proceedings referred to in paragraph (1); or
 - (b) in the case of default of payment of a sum adjudged to be paid on conviction a penalty is imposed in respect of such default.
 
-(3)[^key-ce1547a99380c419090b2288849d74e1] Notwithstanding section 18(4)(b) of the Act, a claimant (“C”) is not to be disqualified for receiving a contributory allowance, for any period during which C is undergoing detention in legal custody after the conclusion of criminal proceedings if it is a period during which C is detained in a hospital or similar institution in Northern Ireland as a person suffering from mental disorder unless—
+(3)[^c-ce1547a99380c419090b2288849d74e1] Notwithstanding section 18(4)(b) of the Act, a claimant (“C”) is not to be disqualified for receiving a contributory allowance, for any period during which C is undergoing detention in legal custody after the conclusion of criminal proceedings if it is a period during which C is detained in a hospital or similar institution in Northern Ireland as a person suffering from mental disorder unless—
 
 - (a) C is detained under Article 53 of Mental Health Order (removal to hospital of persons serving sentences of imprisonment etc.); and
 - (b) in any case where there is in relation to C a release date within the meaning of Article 56(3) of that Order (further provisions as to prisoners under sentence), C is being detained on or before the day which the Secretary of State certifies to be that release date.
 
-(4)[^key-0610248e95130ec6a2418c3da4b8c13b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0610248e95130ec6a2418c3da4b8c13b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this regulation—
 
@@ -52,11 +52,11 @@ made by a court in such proceedings, unless paragraph (2) applies.
 
 ## Annotations
 
-[^key-8dcaf0548a9a6b1b4efa04dfa6faffa7]: Commencement: [Reg. 160](https://www.legislation.gov.uk/nisr/2008/280/regulation/160) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-8dcaf0548a9a6b1b4efa04dfa6faffa7]: Commencement: [Reg. 160](https://www.legislation.gov.uk/nisr/2008/280/regulation/160) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-ce1547a99380c419090b2288849d74e1]: Textual amendment: [Reg. 160(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/160/3) substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/3/a)
+[^c-ce1547a99380c419090b2288849d74e1]: Textual amendment: [Reg. 160(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/160/3) substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/3/a)
 
-[^key-0610248e95130ec6a2418c3da4b8c13b]: Textual amendment: [Reg. 160(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/160/4) omitted (25.3.2010) by virtue of [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/3/b)
+[^c-0610248e95130ec6a2418c3da4b8c13b]: Textual amendment: [Reg. 160(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/160/4) omitted (25.3.2010) by virtue of [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/3/b)
 
 [^f00157]: Footnote: [1884 c. 31](https://www.legislation.gov.uk/ukpga/1884/31)
 

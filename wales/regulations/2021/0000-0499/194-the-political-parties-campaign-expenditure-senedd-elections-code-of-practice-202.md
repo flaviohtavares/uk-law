@@ -31,30 +31,30 @@ summary: ''
 
 Political Parties, Wales
 
-The Political Parties Campaign Expenditure (Senedd Elections) Code of Practice 2020 (Appointed Day) (Wales) Order 2021 (revoked)[^key-8359615ef828d64552a410b45867d1dc]
+The Political Parties Campaign Expenditure (Senedd Elections) Code of Practice 2020 (Appointed Day) (Wales) Order 2021 (revoked)[^c-8359615ef828d64552a410b45867d1dc]
 
 Made
 
 24 February 2021
 
-[^key-8359615ef828d64552a410b45867d1dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8359615ef828d64552a410b45867d1dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and interpretation[^key-8359615ef828d64552a410b45867d1dc]
+## 1. Title and interpretation[^c-8359615ef828d64552a410b45867d1dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed Day[^key-8359615ef828d64552a410b45867d1dc]
+## 2. Appointed Day[^c-8359615ef828d64552a410b45867d1dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8359615ef828d64552a410b45867d1dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8359615ef828d64552a410b45867d1dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8359615ef828d64552a410b45867d1dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8359615ef828d64552a410b45867d1dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8359615ef828d64552a410b45867d1dc]: Textual amendment: Order revoked (12.2.2026) by The Political Parties Campaign Expenditure (Senedd Elections) Code of Practice 2025 (Appointed Day) (Wales) Order 2026 (W.[S.I. 2026/47](https://www.legislation.gov.uk/uksi/2026/47)), art. 3(1) (with savings in art. 3(2)(3))
+[^c-8359615ef828d64552a410b45867d1dc]: Textual amendment: Order revoked (12.2.2026) by The Political Parties Campaign Expenditure (Senedd Elections) Code of Practice 2025 (Appointed Day) (Wales) Order 2026 (W.[S.I. 2026/47](https://www.legislation.gov.uk/uksi/2026/47)), art. 3(1) (with savings in art. 3(2)(3))

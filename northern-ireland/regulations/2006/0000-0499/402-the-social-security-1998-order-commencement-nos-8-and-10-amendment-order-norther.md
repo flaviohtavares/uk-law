@@ -37,13 +37,13 @@ Made
 
 The Department for Social Development makes the following Order in exercise of the powers conferred by Article 1(2) and (4) of the Social Security (Northern Ireland) Order 1998[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-16fca411034a91ef9596b9d296ede3c5][^key-16fca411034a91ef9596b9d296ede3c5]
+## 1. Citation and commencement[^c-16fca411034a91ef9596b9d296ede3c5][^c-16fca411034a91ef9596b9d296ede3c5]
 
 (1) This Order may be cited as the Social Security (1998 Order) (Commencement Nos. 8 and 10) (Amendment) Order (Northern Ireland) 2006.
 
 (2) Articles 2 to 4 shall come into operation on 16th October 2006.
 
-## 2. Amendment of the Social Security (1998 Order) (Commencement No. 8 and Savings, Consequential and Transitional Provisions) Order[^key-59045d2c7a80065213749a73ada9ca5d]
+## 2. Amendment of the Social Security (1998 Order) (Commencement No. 8 and Savings, Consequential and Transitional Provisions) Order[^c-59045d2c7a80065213749a73ada9ca5d]
 
 In Article 18 of the Social Security (1998 Order) (Commencement No. 8 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00003] (transitional provisions)—
 
@@ -66,7 +66,7 @@ In Article 18 of the Social Security (1998 Order) (Commencement No. 8 and Saving
 
   .
 
-## 3. Amendment of the Social Security (1998 Order) (Commencement No. 10 and Savings, Consequential and Transitional Provisions) Order[^key-b6ea4cafa87433c4033de6c909a855c6]
+## 3. Amendment of the Social Security (1998 Order) (Commencement No. 10 and Savings, Consequential and Transitional Provisions) Order[^c-b6ea4cafa87433c4033de6c909a855c6]
 
 In Article 16 of the Social Security (1998 Order) (Commencement No. 10 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00008] (transitional provisions)—
 
@@ -87,7 +87,7 @@ In Article 16 of the Social Security (1998 Order) (Commencement No. 10 and Savin
 
   .
 
-## 4. Consequential amendments[^key-be3a98b8c3203f6bd4d5e14920bac2f7]
+## 4. Consequential amendments[^c-be3a98b8c3203f6bd4d5e14920bac2f7]
 
 (1) In regulation 14(1) of the Social Security (Introduction of Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00012] (reviews) after “appeal)” insert “and Articles 10 and 11 of the Social Security (Northern Ireland) Order 1998 (revision and supersession of decisions)”.
 
@@ -127,9 +127,9 @@ and makes consequential amendments to the Social Security (Introduction of Disab
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-16fca411034a91ef9596b9d296ede3c5]: Commencement: Art. 1 in operation at 9.10.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/402/article/1)
+[^c-16fca411034a91ef9596b9d296ede3c5]: Commencement: Art. 1 in operation at 9.10.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/402/article/1)
 
-[^key-59045d2c7a80065213749a73ada9ca5d]: Commencement: Art. 2 in operation at 16.10.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/402/article/1/2)
+[^c-59045d2c7a80065213749a73ada9ca5d]: Commencement: Art. 2 in operation at 16.10.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/402/article/1/2)
 
 [^f00003]: Footnote: [S.R. 1999 No. 371 (C. 28)](https://www.legislation.gov.uk/nisr/1999/371)
 
@@ -141,7 +141,7 @@ and makes consequential amendments to the Social Security (Introduction of Disab
 
 [^f00007]: Footnote: Section 16 was amended by paragraph 10 of Schedule 1 to the Social Security (Northern Ireland) Order 1979, Article 11(1) of the Social Security (Northern Ireland) Order 1985 ([S.I. 1985/1209 (N.I. 16)](https://www.legislation.gov.uk/nisi/1985/1209)) and was repealed by Schedule 1 to the Social Security (Consequential Provisions) (Northern Ireland) Act 1992
 
-[^key-b6ea4cafa87433c4033de6c909a855c6]: Commencement: Art. 3 in operation at 16.10.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/402/article/1/2)
+[^c-b6ea4cafa87433c4033de6c909a855c6]: Commencement: Art. 3 in operation at 16.10.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/402/article/1/2)
 
 [^f00008]: Footnote: [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
@@ -151,7 +151,7 @@ and makes consequential amendments to the Social Security (Introduction of Disab
 
 [^f00011]: Footnote: [S.I. 1977/2156 (N.I. 27)](https://www.legislation.gov.uk/nisi/1977/2156)
 
-[^key-be3a98b8c3203f6bd4d5e14920bac2f7]: Commencement: Art. 4 in operation at 16.10.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/402/article/1/2)
+[^c-be3a98b8c3203f6bd4d5e14920bac2f7]: Commencement: Art. 4 in operation at 16.10.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/402/article/1/2)
 
 [^f00012]: Footnote: [S.R. 1992 No. 38](https://www.legislation.gov.uk/nisr/1992/38)
 

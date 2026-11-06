@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Contaminants in Food (England) Regulations 2002 (revoked)[^key-66cd01801a2bf6d06cb877916b8438c3]
+The Contaminants in Food (England) Regulations 2002 (revoked)[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 Made
 
@@ -45,59 +45,59 @@ Coming into force
 
 18th June 2002
 
-[^key-66cd01801a2bf6d06cb877916b8438c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66cd01801a2bf6d06cb877916b8438c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 1. Title, commencement and extent[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 2. Interpretation[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 3. Offences and penalties[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 4. Enforcement[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Sampling, analysis and modification of section 29 of the Act[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 5. Sampling, analysis and modification of section 29 of the Act[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Defence in relation to exports[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 6. Defence in relation to exports[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various sections of the Act[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 7. Application of various sections of the Act[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 8. Transitional provisions[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 9.[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consequential amendments[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 10. Consequential amendments[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-66cd01801a2bf6d06cb877916b8438c3]
+## 11. Revocations[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66cd01801a2bf6d06cb877916b8438c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66cd01801a2bf6d06cb877916b8438c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-66cd01801a2bf6d06cb877916b8438c3]
+## SCHEDULE — REVOCATIONS[^c-66cd01801a2bf6d06cb877916b8438c3]
 
 **Regulation 11**
 
@@ -105,8 +105,8 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-66cd01801a2bf6d06cb877916b8438c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66cd01801a2bf6d06cb877916b8438c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66cd01801a2bf6d06cb877916b8438c3]: Textual amendment: Regulations revoked (30.6.2003) by [The Contaminants in Food (England) Regulations 2003 (S.I. 2003/1478)](https://www.legislation.gov.uk/uksi/2003/1478), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/1478/regulation/12)
+[^c-66cd01801a2bf6d06cb877916b8438c3]: Textual amendment: Regulations revoked (30.6.2003) by [The Contaminants in Food (England) Regulations 2003 (S.I. 2003/1478)](https://www.legislation.gov.uk/uksi/2003/1478), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/1478/regulation/12)

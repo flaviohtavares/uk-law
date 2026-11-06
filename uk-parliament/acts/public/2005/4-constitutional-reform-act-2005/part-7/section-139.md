@@ -24,7 +24,7 @@ summary: ''
 
 (2) These are the relevant provisions—
 
-- (a) sections 26 and 27 and regulations under section 27A[^key-22da2bba3372189936d0a3814ec3aa06];
+- (a) sections 26 and 27 and regulations under section 27A[^c-22da2bba3372189936d0a3814ec3aa06];
 - (b) Part 4;
 - (c) regulations and rules under Part 4.
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22da2bba3372189936d0a3814ec3aa06]: Textual amendment: Words in [s. 139(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/139/2/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/8); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-22da2bba3372189936d0a3814ec3aa06]: Textual amendment: Words in [s. 139(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/139/2/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/8); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)

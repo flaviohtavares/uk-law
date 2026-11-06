@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Warrants for entry[^key-427f1a5d72f4eabd9896401e7e0b3d08]
+## 54. Warrants for entry[^c-427f1a5d72f4eabd9896401e7e0b3d08]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427f1a5d72f4eabd9896401e7e0b3d08]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/14/section/54) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-427f1a5d72f4eabd9896401e7e0b3d08]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/14/section/54) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

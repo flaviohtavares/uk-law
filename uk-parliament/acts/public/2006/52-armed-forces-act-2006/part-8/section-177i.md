@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177I. Disqualification period[^key-99e777f3a0dc9a87a1663915164c8f7a]
+## 177I. Disqualification period[^c-99e777f3a0dc9a87a1663915164c8f7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99e777f3a0dc9a87a1663915164c8f7a]: Textual amendment: Ss. 177G-177M and cross-heading inserted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/15/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-99e777f3a0dc9a87a1663915164c8f7a]: Textual amendment: Ss. 177G-177M and cross-heading inserted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/15/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)

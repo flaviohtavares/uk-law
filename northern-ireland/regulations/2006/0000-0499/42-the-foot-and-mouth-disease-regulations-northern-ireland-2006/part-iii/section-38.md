@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Measures applicable in a wild animal infected zone[^key-5fb3e8f8611e6f7ebcd30559f4cce218]
+## 38. Measures applicable in a wild animal infected zone[^c-5fb3e8f8611e6f7ebcd30559f4cce218]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb3e8f8611e6f7ebcd30559f4cce218]: Commencement: Reg. 38 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-5fb3e8f8611e6f7ebcd30559f4cce218]: Commencement: Reg. 38 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

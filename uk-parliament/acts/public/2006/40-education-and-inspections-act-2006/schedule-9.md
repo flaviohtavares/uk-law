@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — School travel schemes[^key-5f8f3aac66ff179b9200f550ac4985cf]
+## SCHEDULE 9 — School travel schemes[^c-5f8f3aac66ff179b9200f550ac4985cf]
 
 *Extent: E+W*
 
 Section 78
 
-[^key-5f8f3aac66ff179b9200f550ac4985cf]
+[^c-5f8f3aac66ff179b9200f550ac4985cf]
 
 After Schedule 35B to EA 1996 (inserted by section 77 above) insert—
 
@@ -220,4 +220,4 @@ After Schedule 35B to EA 1996 (inserted by section 77 above) insert—
 
 ## Annotations
 
-[^key-5f8f3aac66ff179b9200f550ac4985cf]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/40/schedule/9) in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(dd)](https://www.legislation.gov.uk/uksi/2007/935/article/5/dd)
+[^c-5f8f3aac66ff179b9200f550ac4985cf]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/40/schedule/9) in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(dd)](https://www.legislation.gov.uk/uksi/2007/935/article/5/dd)

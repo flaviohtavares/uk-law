@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67.[^key-69928a066162f6d4be4115502b715221]
+## 67.[^c-69928a066162f6d4be4115502b715221]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ For regulation 121D (adaptations and exceptions for the application of returned 
 
 ## Annotations
 
-[^key-69928a066162f6d4be4115502b715221]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-69928a066162f6d4be4115502b715221]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395381]: Marginal citation: See section 1(1)(c) of VATA.
 

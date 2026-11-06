@@ -34,7 +34,7 @@ SUPREME COURT OF ENGLAND AND WALES
 
 MAGISTRATES' COURTS, ENGLAND AND WALES
 
-The Criminal Procedure Rules 2005 (revoked)[^key-507a31b002c221720b08ce1e1e4e45ed]
+The Criminal Procedure Rules 2005 (revoked)[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 4 April 2005
 
-[^key-507a31b002c221720b08ce1e1e4e45ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-507a31b002c221720b08ce1e1e4e45ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — THE OVERRIDING OBJECTIVE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 1 — THE OVERRIDING OBJECTIVE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ Coming into force
 - [Section 1.2 — The duty of the participants in a criminal case](part-1/section-1-2.md)
 - [Section 1.3 — The application by the court of the overriding objective](part-1/section-1-3.md)
 
-### PART 2 — UNDERSTANDING AND APPLYING THE RULES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 2 — UNDERSTANDING AND APPLYING THE RULES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ Coming into force
 - [Section 2.3 — References to Acts of Parliament and to Statutory Instruments](part-2/section-2-3.md)
 - [Section 2.4 — The glossary](part-2/section-2-4.md)
 
-### PART 3 — CASE MANAGEMENT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 3 — CASE MANAGEMENT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -91,7 +91,7 @@ Coming into force
 - [Section 3.10 — Conduct of a trial or an appeal](part-3/section-3-10.md)
 - [Section 3.11 — Case management forms and records](part-3/section-3-11.md)
 
-### PART 4 — SERVICE OF DOCUMENTS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 4 — SERVICE OF DOCUMENTS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -101,7 +101,7 @@ Coming into force
 - [Section 4.2 — Proof of service in magistrates' courts](part-4/section-4-2.md)
 - [Section 4.3 — Service of documents in Crown Court proceedings](part-4/section-4-3.md)
 
-### PART 5 — FORMS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 5 — FORMS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -111,7 +111,7 @@ Coming into force
 - [Section 5.2 — Magistrates' court forms in Welsh](part-5/section-5-2.md)
 - [Section 5.3 — Signature of magistrates' court forms by justices' clerk](part-5/section-5-3.md)
 
-### PART 6 — COURT RECORDS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 6 — COURT RECORDS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -122,7 +122,7 @@ Coming into force
 - [Section 6.3 — Registration of certificate issued under section 70 of the Road Traffic Offenders Act 1988](part-6/section-6-3.md)
 - [Section 6.4 — Proof of proceedings in magistrates' courts](part-6/section-6-4.md)
 
-### PART 7 — COMMENCING PROCEEDINGS IN MAGISTRATES' COURTS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 7 — COMMENCING PROCEEDINGS IN MAGISTRATES' COURTS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -138,7 +138,7 @@ Coming into force
 - [Section 7.8 — Summons or warrant to secure attendance of a parent or guardian at a youth court](part-7/section-7-8.md)
 - [Section 7.9 — Magistrates' court officer to have copies of documents sent to accused under section 12(1) of the Magistrates' Courts Act 1980](part-7/section-7-9.md)
 
-### PART 8 — OBJECTING TO THE DISCONTINUANCE OF PROCEEDINGS IN A MAGISTRATES' COURT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 8 — OBJECTING TO THE DISCONTINUANCE OF PROCEEDINGS IN A MAGISTRATES' COURT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -149,7 +149,7 @@ Coming into force
 - [Section 8.3 — Duty of Director of Public Prosecutions](part-8/section-8-3.md)
 - [Section 8.4 — Duty of magistrates' court](part-8/section-8-4.md)
 
-### PART 10 — COMMITTAL FOR TRIAL[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 10 — COMMITTAL FOR TRIAL[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -161,7 +161,7 @@ Coming into force
 - [Section 10.4 — Court’s reminder to a defendant of right to object to evidence being read at trial without further proof](part-10/section-10-4.md)
 - [Section 10.5 — Material to be sent to court of trial](part-10/section-10-5.md)
 
-### PART 11 — TRANSFER FOR TRIAL OF SERIOUS FRAUD CASES OR CASES INVOLVING CHILDREN[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 11 — TRANSFER FOR TRIAL OF SERIOUS FRAUD CASES OR CASES INVOLVING CHILDREN[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -173,7 +173,7 @@ Coming into force
 - [Section 11.4 — Variation of arrangements for bail](part-11/section-11-4.md)
 - [Section 11.5 — Documents etc to be sent to Crown Court](part-11/section-11-5.md)
 
-### PART 12 — SENDING FOR TRIAL[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 12 — SENDING FOR TRIAL[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -182,7 +182,7 @@ Coming into force
 - [Section 12.1 — Documents to be sent to the Crown Court](part-12/section-12-1.md)
 - [Section 12.2 — Time for first appearance of accused sent for trial](part-12/section-12-2.md)
 
-### PART 13 — DISMISSAL OF CHARGES TRANSFERRED OR SENT TO THE CROWN COURT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 13 — DISMISSAL OF CHARGES TRANSFERRED OR SENT TO THE CROWN COURT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -195,7 +195,7 @@ Coming into force
 - [Section 13.5 — Determination of applications for dismissal—procedural matters](part-13/section-13-5.md)
 - [Section 13.6 — Service of documents](part-13/section-13-6.md)
 
-### PART 14 — THE INDICTMENT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 14 — THE INDICTMENT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -205,7 +205,7 @@ Coming into force
 - [Section 14.2 — Time for preferring an indictment](part-14/section-14-2.md)
 - [Section 14.3 — Committal documents to be made available to person wishing to prefer an indictment](part-14/section-14-3.md)
 
-### PART 15 — PREPARATORY HEARINGS IN CASE OF SERIOUS FRAUD AND OTHER COMPLEX OR LENGTHY CASES IN THE CROWN COURT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 15 — PREPARATORY HEARINGS IN CASE OF SERIOUS FRAUD AND OTHER COMPLEX OR LENGTHY CASES IN THE CROWN COURT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -220,7 +220,7 @@ Coming into force
 - [Section 15.7 — Content of order](part-15/section-15-7.md)
 - [Section 15.8 — Service of documents](part-15/section-15-8.md)
 
-### PART 16 — RESTRICTIONS ON REPORTING AND PUBLIC ACCESS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 16 — RESTRICTIONS ON REPORTING AND PUBLIC ACCESS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -238,7 +238,7 @@ Coming into force
 - [Section 16.10 — Application to hold a Crown Court trial in camera](part-16/section-16-10.md)
 - [Section 16.11 — Crown Court hearings in chambers](part-16/section-16-11.md)
 
-### PART 17 — EXTRADITION[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 17 — EXTRADITION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -256,7 +256,7 @@ Coming into force
 - [Section 17.10 — Draft case where court declines to order removal to Republic of Ireland](part-17/section-17-10.md)
 - [Section 17.11 — Forms for proceedings for removal to Republic of Ireland](part-17/section-17-11.md)
 
-### PART 18 — WARRANTS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 18 — WARRANTS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -271,7 +271,7 @@ Coming into force
 - [Section 18.7 — Form of warrant of commitment in a youth court](part-18/section-18-7.md)
 - [Section 18.8 — Warrant of commitment where recognizances not taken](part-18/section-18-8.md)
 
-### PART 19 — BAIL IN MAGISTRATES' COURTS AND THE CROWN COURT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 19 — BAIL IN MAGISTRATES' COURTS AND THE CROWN COURT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -302,7 +302,7 @@ Coming into force
 - [Section 19.23 — Estreat of recognizances in respect of person bailed to appear before the Crown Court](part-19/section-19-23.md)
 - [Section 19.24 — Forfeiture of recognizances in respect of person bailed to appear before the Crown Court](part-19/section-19-24.md)
 
-### PART 20 — CUSTODY TIME LIMITS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 20 — CUSTODY TIME LIMITS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -310,7 +310,7 @@ Coming into force
 
 - [Section 20.1 — Appeal to the Crown Court against a decision of a magistrates' court in respect of a custody time limit](part-20/section-20-1.md)
 
-### PART 21 — ADVANCE INFORMATION[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 21 — ADVANCE INFORMATION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -323,7 +323,7 @@ Coming into force
 - [Section 21.5 — Duty of court regarding advance information](part-21/section-21-5.md)
 - [Section 21.6 — Adjournment pending furnishing of advance information](part-21/section-21-6.md)
 
-### PART 24 — DISCLOSURE OF EXPERT EVIDENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 24 — DISCLOSURE OF EXPERT EVIDENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -333,7 +333,7 @@ Coming into force
 - [Section 24.2 — Withholding evidence](part-24/section-24-2.md)
 - [Section 24.3 — Effect of failure to disclose](part-24/section-24-3.md)
 
-### PART 25 — APPLICATIONS FOR PUBLIC INTEREST IMMUNITY AND SPECIFIC DISCLOSURE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 25 — APPLICATIONS FOR PUBLIC INTEREST IMMUNITY AND SPECIFIC DISCLOSURE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -348,7 +348,7 @@ Coming into force
 - [Section 25.7 — Disclosure: application for extension of time limit and order of the court](part-25/section-25-7.md)
 - [Section 25.8 — Public interest and disclosure applications: general](part-25/section-25-8.md)
 
-### PART 26 — CONFIDENTIAL MATERIAL[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 26 — CONFIDENTIAL MATERIAL[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -360,7 +360,7 @@ Coming into force
 - [Section 26.4 — Unauthorised use or disclosure](part-26/section-26-4.md)
 - [Section 26.5 — Forfeiture of object used or disclosed without authority](part-26/section-26-5.md)
 
-### PART 27 — WITNESS STATEMENTS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 27 — WITNESS STATEMENTS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -369,7 +369,7 @@ Coming into force
 - [Section 27.1 — Witness statements in magistrates' courts](part-27/section-27-1.md)
 - [Section 27.2 — Right to object to evidence being read in Crown Court trial](part-27/section-27-2.md)
 
-### PART 28 — WITNESS SUMMONSES AND ORDERS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 28 — WITNESS SUMMONSES AND ORDERS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -382,7 +382,7 @@ Coming into force
 - [Section 28.5 — Application to set aside witness summons issued on application to the Crown Court](part-28/section-28-5.md)
 - [Section 28.6 — Application to set aside witness summons issued of Crown Court’s own motion](part-28/section-28-6.md)
 
-### PART 29 — SPECIAL MEASURES DIRECTIONS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 29 — SPECIAL MEASURES DIRECTIONS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -398,7 +398,7 @@ Coming into force
 - [Section 29.8 — Expert evidence in connection with special measures directions](part-29/section-29-8.md)
 - [Section 29.9 — Intermediaries](part-29/section-29-9.md)
 
-### PART 30 — USE OF LIVE TELEVISION LINK OTHER THAN FOR VULNERABLE WITNESSES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 30 — USE OF LIVE TELEVISION LINK OTHER THAN FOR VULNERABLE WITNESSES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -406,7 +406,7 @@ Coming into force
 
 - [Section 30.1 — Evidence by live television link in the Crown Court where witness is outside the United Kingdom](part-30/section-30-1.md)
 
-### PART 31 — RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT ACTING IN PERSON IN THE CROWN COURT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 31 — RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT ACTING IN PERSON IN THE CROWN COURT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -417,7 +417,7 @@ Coming into force
 - [Section 31.3 — Appointment arranged by the accused in the Crown Court](part-31/section-31-3.md)
 - [Section 31.4 — Prohibition on cross-examination of particular witness in the Crown Court](part-31/section-31-4.md)
 
-### PART 32 — INTERNATIONAL CO-OPERATION[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 32 — INTERNATIONAL CO-OPERATION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -433,7 +433,7 @@ Coming into force
 - [Section 32.8 — Record of telephone link hearing before a nominated court](part-32/section-32-8.md)
 - [Section 32.9 — Overseas record](part-32/section-32-9.md)
 
-### PART 34 — HEARSAY EVIDENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 34 — HEARSAY EVIDENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -448,7 +448,7 @@ Coming into force
 - [Section 34.7 — Court’s power to vary requirements under this Part](part-34/section-34-7.md)
 - [Section 34.8 — Waiving the requirement to give a notice of hearsay evidence](part-34/section-34-8.md)
 
-### PART 35 — EVIDENCE OF BAD CHARACTER[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 35 — EVIDENCE OF BAD CHARACTER[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -464,7 +464,7 @@ Coming into force
 - [Section 35.8 — Court’s power to vary requirements under this Part](part-35/section-35-8.md)
 - [Section 35.9 — Defendant waiving right to receive notice](part-35/section-35-9.md)
 
-### PART 36 — EVIDENCE OF A COMPLAINANT'S PREVIOUS SEXUAL BEHAVIOUR[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 36 — EVIDENCE OF A COMPLAINANT'S PREVIOUS SEXUAL BEHAVIOUR[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -472,7 +472,7 @@ Coming into force
 
 - [Section 36.1 — Evidence in the Crown Court of a complainant’s previous sexual behaviour](part-36/section-36-1.md)
 
-### PART 37 — SUMMARY TRIAL[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 37 — SUMMARY TRIAL[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -486,7 +486,7 @@ Coming into force
 - [Section 37.6 — Preservation of depositions where offence triable either way is dealt with summarily](part-37/section-37-6.md)
 - [Section 37.7 — Order of evidence and speeches: complaint](part-37/section-37-7.md)
 
-### PART 38 — TRIAL OF CHILDREN AND YOUNG PERSONS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 38 — TRIAL OF CHILDREN AND YOUNG PERSONS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -499,7 +499,7 @@ Coming into force
 - [Section 38.5 — Evidence in support of charge](part-38/section-38-5.md)
 - [Section 38.6 — Evidence in reply](part-38/section-38-6.md)
 
-### PART 39 — TRIAL ON INDICTMENT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 39 — TRIAL ON INDICTMENT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -507,7 +507,7 @@ Coming into force
 
 - [Section 39.1 — Time limits for beginning of trials](part-39/section-39-1.md)
 
-### PART 40 — TAINTED ACQUITTALS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 40 — TAINTED ACQUITTALS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -522,7 +522,7 @@ Coming into force
 - [Section 40.7 — Entry in the register or records in relation to decision of High Court](part-40/section-40-7.md)
 - [Section 40.8 — Display of copy of notice received from High Court](part-40/section-40-8.md)
 
-### PART 41 — RETRIAL FOLLOWING ACQUITTAL FOR SERIOUS OFFENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 41 — RETRIAL FOLLOWING ACQUITTAL FOR SERIOUS OFFENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -546,7 +546,7 @@ Coming into force
 - [Section 41.16 — Abandonment of the application](part-41/section-41-16.md)
 - [Section 41.17 — Service](part-41/section-41-17.md)
 
-### PART 42 — REMITTAL FROM ONE MAGISTRATES' COURT TO ANOTHER FOR SENTENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 42 — REMITTAL FROM ONE MAGISTRATES' COURT TO ANOTHER FOR SENTENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -554,7 +554,7 @@ Coming into force
 
 - [Section 42.1 — Remittal for sentence](part-42/section-42-1.md)
 
-### PART 43 — COMMITTAL TO THE CROWN COURT FOR SENTENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 43 — COMMITTAL TO THE CROWN COURT FOR SENTENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -563,7 +563,7 @@ Coming into force
 - [Section 43.1 — Committals for sentence, etc](part-43/section-43-1.md)
 - [Section 43.2 — Committal to Crown Court for order restricting discharge, etc](part-43/section-43-2.md)
 
-### PART 44 — SENTENCING CHILDREN AND YOUNG PERSONS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 44 — SENTENCING CHILDREN AND YOUNG PERSONS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -572,7 +572,7 @@ Coming into force
 - [Section 44.1 — Procedure after finding against minor in a magistrates' court](part-44/section-44-1.md)
 - [Section 44.2 — Duty of magistrates' court to explain manner in which it proposes to deal with case and effect of order](part-44/section-44-2.md)
 
-### PART 45 — DEFERRED SENTENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 45 — DEFERRED SENTENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -580,7 +580,7 @@ Coming into force
 
 - [Section 45.1 — Further conviction in magistrates' court after sentence deferred](part-45/section-45-1.md)
 
-### PART 47 — SUSPENDED SENTENCES OF IMPRISONMENT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 47 — SUSPENDED SENTENCES OF IMPRISONMENT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -589,7 +589,7 @@ Coming into force
 - [Section 47.1 — Entries in magistrates' court register in respect of suspended sentences](part-47/section-47-1.md)
 - [Section 47.2 — Suspended sentence supervision orders](part-47/section-47-2.md)
 
-### PART 48 — COMMUNITY PENALTIES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 48 — COMMUNITY PENALTIES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -597,7 +597,7 @@ Coming into force
 
 - [Section 48.1 — Curfew order or requirement with electronic monitoring requirement](part-48/section-48-1.md)
 
-### PART 49 — HOSPITAL AND GUARDIANSHIP ORDERS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 49 — HOSPITAL AND GUARDIANSHIP ORDERS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -606,7 +606,7 @@ Coming into force
 - [Section 49.1 — Remand by magistrates' court for medical inquiries](part-49/section-49-1.md)
 - [Section 49.2 — Hospital or guardianship order imposed by a magistrates' court](part-49/section-49-2.md)
 
-### PART 50 — SUPPLEMENTARY ORDERS MADE ON CONVICTION[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 50 — SUPPLEMENTARY ORDERS MADE ON CONVICTION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -617,7 +617,7 @@ Coming into force
 - [Section 50.3 — Variation of certain orders by a magistrates' court](part-50/section-50-3.md)
 - [Section 50.4 — Anti-social behaviour orders made by the Crown Court on conviction](part-50/section-50-4.md)
 
-### PART 52 — ENFORCEMENT OF FINES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 52 — ENFORCEMENT OF FINES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -638,7 +638,7 @@ Coming into force
 - [Section 52.13 — Particulars of fine enforcement to be entered in magistrates' court register](part-52/section-52-13.md)
 - [Section 52.14 — Attendance Centre Order imposed by magistrates' court in default of payment of a financial penalty](part-52/section-52-14.md)
 
-### PART 53 — COMPENSATION ORDERS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 53 — COMPENSATION ORDERS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -646,7 +646,7 @@ Coming into force
 
 - [Section 53.1 — Review of compensation order made by a magistrates' court](part-53/section-53-1.md)
 
-### PART 54 — CONDITIONAL DISCHARGE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 54 — CONDITIONAL DISCHARGE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -654,7 +654,7 @@ Coming into force
 
 - [Section 54.1 — Further offence committed after offender conditionally discharged by a magistrates' court](part-54/section-54-1.md)
 
-### PART 55 — ROAD TRAFFIC PENALTIES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 55 — ROAD TRAFFIC PENALTIES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -665,7 +665,7 @@ Coming into force
 - [Section 55.3 — Application to magistrates' court for review of course organiser’s refusal to issue certificate of satisfactory completion of driving course](part-55/section-55-3.md)
 - [Section 55.4 — Notice of registration to defaulter under section 71(6) of the Road Traffic Offenders Act 1988](part-55/section-55-4.md)
 
-### PART 56 — CONFISCATION PROCEEDINGS UNDER THE CRIMINAL JUSTICE ACT 1988 AND THE DRUG TRAFFICKING ACT 1994[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 56 — CONFISCATION PROCEEDINGS UNDER THE CRIMINAL JUSTICE ACT 1988 AND THE DRUG TRAFFICKING ACT 1994[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -678,7 +678,7 @@ Coming into force
 - [Section 56.5 — Application to Crown Court for increase in term of imprisonment in default of payment of a confiscation order](part-56/section-56-5.md)
 - [Section 56.6 — Drug trafficking—compensation on acquittal in Crown Court](part-56/section-56-6.md)
 
-### PART 57 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE TO ALL PROCEEDINGS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 57 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE TO ALL PROCEEDINGS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -699,7 +699,7 @@ Coming into force
 - [Section 57.13 — Service outside the jurisdiction](part-57/section-57-13.md)
 - [Section 57.14 — Certificates of service](part-57/section-57-14.md)
 
-### PART 58 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE ONLY TO CONFISCATION PROCEEDINGS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 58 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE ONLY TO CONFISCATION PROCEEDINGS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -718,7 +718,7 @@ Coming into force
 - [Section 58.11 — Compensation—confiscation order made against absconder](part-58/section-58-11.md)
 - [Section 58.12 — Payment of money in bank or building society account in satisfaction of confiscation order](part-58/section-58-12.md)
 
-### PART 59 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE ONLY TO RESTRAINT PROCEEDINGS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 59 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE ONLY TO RESTRAINT PROCEEDINGS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -730,7 +730,7 @@ Coming into force
 - [Section 59.4 — Application for variation of restraint order by the person who applied for the order](part-59/section-59-4.md)
 - [Section 59.5 — Application for discharge of a restraint order by the person who applied for the order](part-59/section-59-5.md)
 
-### PART 60 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE ONLY TO RECEIVERSHIP PROCEEDINGS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 60 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE ONLY TO RECEIVERSHIP PROCEEDINGS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -745,7 +745,7 @@ Coming into force
 - [Section 60.7 — Accounts](part-60/section-60-7.md)
 - [Section 60.8 — Non-compliance by receiver](part-60/section-60-8.md)
 
-### PART 61 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE TO RESTRAINT AND RECEIVERSHIP PROCEEDINGS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 61 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE TO RESTRAINT AND RECEIVERSHIP PROCEEDINGS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -774,7 +774,7 @@ Coming into force
 - [Section 61.21 — Time for complying with an order for costs](part-61/section-61-21.md)
 - [Section 61.22 — Application of costs rules](part-61/section-61-22.md)
 
-### PART 62 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE TO INVESTIGATIONS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 62 — PROCEEDS OF CRIME ACT 2002—RULES APPLICABLE TO INVESTIGATIONS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -784,7 +784,7 @@ Coming into force
 - [Section 62.2 — Customer information orders under the Proceeds of Crime Act 2002](part-62/section-62-2.md)
 - [Section 62.3 — Proof of identity and accreditation](part-62/section-62-3.md)
 
-### PART 63 — APPEAL TO THE CROWN COURT AGAINST CONVICTION OR SENTENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 63 — APPEAL TO THE CROWN COURT AGAINST CONVICTION OR SENTENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -800,7 +800,7 @@ Coming into force
 - [Section 63.8 — Number and qualification of justices—dispensation for special circumstances](part-63/section-63-8.md)
 - [Section 63.9 — Disqualifications](part-63/section-63-9.md)
 
-### PART 64 — APPEAL TO THE HIGH COURT BY WAY OF CASE STATED[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 64 — APPEAL TO THE HIGH COURT BY WAY OF CASE STATED[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -814,7 +814,7 @@ Coming into force
 - [Section 64.6 — Content of case stated by a magistrates' courts](part-64/section-64-6.md)
 - [Section 64.7 — Application to the Crown Court to state a case](part-64/section-64-7.md)
 
-### PART 65 — APPEAL TO THE COURT OF APPEAL AGAINST RULING IN PREPARATORY HEARING[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 65 — APPEAL TO THE COURT OF APPEAL AGAINST RULING IN PREPARATORY HEARING[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -831,7 +831,7 @@ Coming into force
 - [Section 65.9 — Service of documents](part-65/section-65-9.md)
 - [Section 65.10 — The Registrar](part-65/section-65-10.md)
 
-### PART 66 — APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 66 — APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -855,7 +855,7 @@ Coming into force
 - [Section 66.16 — Appeal to the House of Lords](part-66/section-66-16.md)
 - [Section 66.17 — Service](part-66/section-66-17.md)
 
-### PART 67 — APPEAL TO THE COURT OF APPEAL AGAINST ORDER RESTRICTING REPORTING OR PUBLIC ACCESS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 67 — APPEAL TO THE COURT OF APPEAL AGAINST ORDER RESTRICTING REPORTING OR PUBLIC ACCESS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -864,7 +864,7 @@ Coming into force
 - [Section 67.1 — Appeal against order restricting reporting of proceedings](part-67/section-67-1.md)
 - [Section 67.2 — Appeal against order restricting public access to proceedings](part-67/section-67-2.md)
 
-### PART 68 — APPEAL TO THE COURT OF APPEAL AGAINST CONVICTION OR SENTENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 68 — APPEAL TO THE COURT OF APPEAL AGAINST CONVICTION OR SENTENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -902,7 +902,7 @@ Coming into force
 - [Section 68.30 — Enforcement of fines](part-68/section-68-30.md)
 - [Section 68.31 — Notice of application after order for retrial](part-68/section-68-31.md)
 
-### PART 69 — REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 69 — REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -915,7 +915,7 @@ Coming into force
 - [Section 69.5 — Reference to House of Lords](part-69/section-69-5.md)
 - [Section 69.6 — Service of documents](part-69/section-69-6.md)
 
-### PART 70 — REFERENCE TO THE COURT OF APPEAL OF UNDULY LENIENT SENTENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 70 — REFERENCE TO THE COURT OF APPEAL OF UNDULY LENIENT SENTENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -930,7 +930,7 @@ Coming into force
 - [Section 70.7 — Supply of documentary and other exhibits](part-70/section-70-7.md)
 - [Section 70.8 — Service of documents](part-70/section-70-8.md)
 
-### PART 71 — APPEAL TO THE COURT OF APPEAL UNDER THE PROCEEDS OF CRIME ACT 2002—GENERAL RULES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 71 — APPEAL TO THE COURT OF APPEAL UNDER THE PROCEEDS OF CRIME ACT 2002—GENERAL RULES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -948,7 +948,7 @@ Coming into force
 - [Section 71.10 — Appeal to House of Lords](part-71/section-71-10.md)
 - [Section 71.11 — Service of documents](part-71/section-71-11.md)
 
-### PART 72 — APPEAL TO THE COURT OF APPEAL UNDER PROCEEDS OF CRIME ACT 2002—PROSECUTOR'S APPEAL REGARDING CONFISCATION[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 72 — APPEAL TO THE COURT OF APPEAL UNDER PROCEEDS OF CRIME ACT 2002—PROSECUTOR'S APPEAL REGARDING CONFISCATION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -958,7 +958,7 @@ Coming into force
 - [Section 72.2 — Respondent’s notice](part-72/section-72-2.md)
 - [Section 72.3 — Amendment and abandonment of appeal](part-72/section-72-3.md)
 
-### PART 73 — APPEAL TO THE COURT OF APPEAL UNDER POCA 2002—RESTRAINT OR RECEIVERSHIP ORDERS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 73 — APPEAL TO THE COURT OF APPEAL UNDER POCA 2002—RESTRAINT OR RECEIVERSHIP ORDERS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -972,7 +972,7 @@ Coming into force
 - [Section 73.6 — Striking out appeal notices and setting aside or imposing conditions on leave to appeal](part-73/section-73-6.md)
 - [Section 73.7 — Hearing of appeals](part-73/section-73-7.md)
 
-### PART 74 — APPEAL TO THE HOUSE OF LORDS[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 74 — APPEAL TO THE HOUSE OF LORDS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -980,7 +980,7 @@ Coming into force
 
 - [Section 74.1 — Application for leave to appeal from the Criminal Division of the Court of Appeal to the House of Lords](part-74/section-74-1.md)
 
-### PART 75 — REFERENCE TO THE EUROPEAN COURT[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 75 — REFERENCE TO THE EUROPEAN COURT[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -988,7 +988,7 @@ Coming into force
 
 - [Section 75.1 — Reference to the European Court](part-75/section-75-1.md)
 
-### PART 78 — COSTS ORDERS AGAINST THE PARTIES[^key-507a31b002c221720b08ce1e1e4e45ed]
+### PART 78 — COSTS ORDERS AGAINST THE PARTIES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -1002,87 +1002,87 @@ Coming into force
 - [Section 78.6 — Appeal to High Court judge after review of Crown Court costs](part-78/section-78-6.md)
 - [Section 78.7 — Supplementary provisions on Crown Court costs](part-78/section-78-7.md)
 
-## PART 9 — PRE-TRIAL HEARINGS IN MAGISTRATES' COURTS[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 9 — PRE-TRIAL HEARINGS IN MAGISTRATES' COURTS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 22 — DISCLOSURE BY THE PROSECUTION[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 22 — DISCLOSURE BY THE PROSECUTION[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 23 — DISCLOSURE BY THE DEFENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 23 — DISCLOSURE BY THE DEFENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 33 — EXPERT EVIDENCE[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 33 — EXPERT EVIDENCE[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 46 — CUSTODIAL SENTENCES[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 46 — CUSTODIAL SENTENCES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 51 — FINES[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 51 — FINES[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 76 — REPRESENTATION ORDERS[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 76 — REPRESENTATION ORDERS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 77 — RECOVERY OF DEFENCE COSTS ORDERS[^key-507a31b002c221720b08ce1e1e4e45ed]
+## PART 77 — RECOVERY OF DEFENCE COSTS ORDERS[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Contents of this Part[^key-507a31b002c221720b08ce1e1e4e45ed]
+### Contents of this Part[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## GLOSSARY[^key-507a31b002c221720b08ce1e1e4e45ed]
+## GLOSSARY[^c-507a31b002c221720b08ce1e1e4e45ed]
 
 *Extent: E+W*
 
@@ -1094,16 +1094,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-507a31b002c221720b08ce1e1e4e45ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-507a31b002c221720b08ce1e1e4e45ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-507a31b002c221720b08ce1e1e4e45ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-507a31b002c221720b08ce1e1e4e45ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-507a31b002c221720b08ce1e1e4e45ed]: Textual amendment: Rules revoked (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [Preamble](https://www.legislation.gov.uk/uksi/2010/60/introduction) (with [rule 2](https://www.legislation.gov.uk/uksi/2010/60/rule/2))
+[^c-507a31b002c221720b08ce1e1e4e45ed]: Textual amendment: Rules revoked (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [Preamble](https://www.legislation.gov.uk/uksi/2010/60/introduction) (with [rule 2](https://www.legislation.gov.uk/uksi/2010/60/rule/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

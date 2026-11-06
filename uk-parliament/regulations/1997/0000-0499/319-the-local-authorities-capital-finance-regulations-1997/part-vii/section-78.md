@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Other disposals of dwellings[^key-512a3e43fd6a4451dda0fe763a964d57]
+## 78. Other disposals of dwellings[^c-512a3e43fd6a4451dda0fe763a964d57]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-512a3e43fd6a4451dda0fe763a964d57]: Commencement: Reg. 78 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-512a3e43fd6a4451dda0fe763a964d57]: Commencement: Reg. 78 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00075]: Footnote: [1957 c. 56](https://www.legislation.gov.uk/ukpga/1957/56). That Act was repealed by the Housing (Consequential Provisions) Act 1985.
 

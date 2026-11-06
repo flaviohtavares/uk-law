@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Compensation for compulsory acquisition[^key-f1cc7bffa312cca7d16e920caec016ef]
+## 126. Compensation for compulsory acquisition[^c-f1cc7bffa312cca7d16e920caec016ef]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1cc7bffa312cca7d16e920caec016ef]: Commencement: S. 126 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/101/article/3/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-f1cc7bffa312cca7d16e920caec016ef]: Commencement: S. 126 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/101/article/3/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

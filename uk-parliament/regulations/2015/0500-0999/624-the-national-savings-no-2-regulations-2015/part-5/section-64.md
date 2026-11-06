@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Making payments[^key-e389e2f95f8e44094d46736a8c694664]
+## 64. Making payments[^c-e389e2f95f8e44094d46736a8c694664]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e389e2f95f8e44094d46736a8c694664]: Commencement: Reg. 64 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-e389e2f95f8e44094d46736a8c694664]: Commencement: Reg. 64 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

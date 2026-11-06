@@ -22,11 +22,11 @@ summary: ''
 
 Section 68
 
-### 1. Application of this Schedule[^key-cd50b7b346f78c8663e98bfe43a10136][^key-d4ecc00e170b104016b8215dbe7a3173]
+### 1. Application of this Schedule[^c-cd50b7b346f78c8663e98bfe43a10136][^c-d4ecc00e170b104016b8215dbe7a3173]
 
 This Schedule applies where the IFR decides to conduct an investigation under section 68 into whether a person has committed a relevant infringement.
 
-### 2. Power to ask questions[^key-c27f9b05964752dd6666f56c72087941][^key-7c422b1b026be860bbe9c60a8d8a70d1]
+### 2. Power to ask questions[^c-c27f9b05964752dd6666f56c72087941][^c-7c422b1b026be860bbe9c60a8d8a70d1]
 
 (1) The IFR may give any person (whether or not the person mentioned in paragraph 1) a notice (“an interview notice”) requiring the person to answer questions that relate to any matter relevant to the investigation.
 
@@ -37,7 +37,7 @@ This Schedule applies where the IFR decides to conduct an investigation under se
 - (c) state the time at which the person is to answer the questions;
 - (d) include information about the possible consequences under Part 8 of not complying with the notice.
 
-### 3. Power to enter business premises under a warrant[^key-25d0ce55d115be6346042f4c63febbfe][^key-d3853c60caab2c28bf9a7e2d210bc359]
+### 3. Power to enter business premises under a warrant[^c-25d0ce55d115be6346042f4c63febbfe][^c-d3853c60caab2c28bf9a7e2d210bc359]
 
 (1) On an application made to it by the IFR, the court or Tribunal may issue a warrant if it is satisfied that there are reasonable grounds for suspecting that there is on, or accessible from, any business premises information that relates to any matter relevant to the investigation (“relevant information”).
 
@@ -77,7 +77,7 @@ This Schedule applies where the IFR decides to conduct an investigation under se
 
 (9) In this paragraph, “**court**” means the High Court.
 
-**4.**[^key-22f255f8c68d9c79ec7aa1d01eccf1f1][^key-7658cd0ca74364867dc65c40765b5545] (1) A warrant under paragraph 3 must describe—
+**4.**[^c-22f255f8c68d9c79ec7aa1d01eccf1f1][^c-7658cd0ca74364867dc65c40765b5545] (1) A warrant under paragraph 3 must describe—
 
 - (a) the subject-matter and purpose of the investigation;
 - (b) the offence created by section 78(5).
@@ -97,18 +97,18 @@ This Schedule applies where the IFR decides to conduct an investigation under se
 
 ## Annotations
 
-[^key-cd50b7b346f78c8663e98bfe43a10136]: Commencement: Sch. 8 para. 1 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-cd50b7b346f78c8663e98bfe43a10136]: Commencement: Sch. 8 para. 1 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-d4ecc00e170b104016b8215dbe7a3173]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/1) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
+[^c-d4ecc00e170b104016b8215dbe7a3173]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/1) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
 
-[^key-c27f9b05964752dd6666f56c72087941]: Commencement: Sch. 8 para. 2 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-c27f9b05964752dd6666f56c72087941]: Commencement: Sch. 8 para. 2 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-7c422b1b026be860bbe9c60a8d8a70d1]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/2) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
+[^c-7c422b1b026be860bbe9c60a8d8a70d1]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/2) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
 
-[^key-25d0ce55d115be6346042f4c63febbfe]: Commencement: Sch. 8 para. 3 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-25d0ce55d115be6346042f4c63febbfe]: Commencement: Sch. 8 para. 3 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-d3853c60caab2c28bf9a7e2d210bc359]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/3) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
+[^c-d3853c60caab2c28bf9a7e2d210bc359]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/3) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
 
-[^key-22f255f8c68d9c79ec7aa1d01eccf1f1]: Commencement: Sch. 8 para. 4 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-22f255f8c68d9c79ec7aa1d01eccf1f1]: Commencement: Sch. 8 para. 4 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-7658cd0ca74364867dc65c40765b5545]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/4) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)
+[^c-7658cd0ca74364867dc65c40765b5545]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2025/21/schedule/8/paragraph/4) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/iv)

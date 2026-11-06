@@ -30,7 +30,7 @@ Articles 8(3), 8(5), 9(1) and (2) 10(2), 13(7) and 16(3)
 - (b) for each species of susceptible animal, the number of dead animals, the number suspected of being infected and the number suspected of being contaminated; and
 - (c) the stock of milk, milk products, meat, meat products, carcases, hides and skins, wool, semen, embryos, ova, slurry, manure, fodder and used litter,
 
-and immediately communicate such records to an authorised veterinary inspector[^key-d6e6ad364a2a9965a677ed616aec8817] in the form required.
+and immediately communicate such records to an authorised veterinary inspector[^c-d6e6ad364a2a9965a677ed616aec8817] in the form required.
 
 (2) Records shall be kept in a form approved for the purpose by the Scottish Ministers.
 
@@ -149,4 +149,4 @@ The occupier shall take steps to destroy any rats, mice and other rodents on the
 
 ## Annotations
 
-[^key-d6e6ad364a2a9965a677ed616aec8817]: Textual amendment: Words in [sch. 2 para. 1(1)](https://www.legislation.gov.uk/ssi/2006/44/schedule/2/paragraph/1/1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [17(3)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/17/3/b)
+[^c-d6e6ad364a2a9965a677ed616aec8817]: Textual amendment: Words in [sch. 2 para. 1(1)](https://www.legislation.gov.uk/ssi/2006/44/schedule/2/paragraph/1/1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [17(3)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/17/3/b)

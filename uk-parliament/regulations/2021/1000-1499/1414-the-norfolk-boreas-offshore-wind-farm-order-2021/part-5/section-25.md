@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Rights under or over streets[^key-b8ed5c67051217fbfc1970ede7512ba5]
+## 25. Rights under or over streets[^c-b8ed5c67051217fbfc1970ede7512ba5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8ed5c67051217fbfc1970ede7512ba5]: Commencement: Art. 25 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-b8ed5c67051217fbfc1970ede7512ba5]: Commencement: Art. 25 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

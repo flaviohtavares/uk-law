@@ -32,7 +32,7 @@ summary: ''
 
 Planning
 
-The Planning (General Development) (Amendment) Order (Northern Ireland) 2011 (revoked)[^key-0ca568c7679620185781c4f1b8cc25fd]
+The Planning (General Development) (Amendment) Order (Northern Ireland) 2011 (revoked)[^c-0ca568c7679620185781c4f1b8cc25fd]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 6th April 2011
 
-[^key-0ca568c7679620185781c4f1b8cc25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ca568c7679620185781c4f1b8cc25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0ca568c7679620185781c4f1b8cc25fd]
+## 1. Citation and commencement[^c-0ca568c7679620185781c4f1b8cc25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-0ca568c7679620185781c4f1b8cc25fd]
+## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-0ca568c7679620185781c4f1b8cc25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ca568c7679620185781c4f1b8cc25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ca568c7679620185781c4f1b8cc25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SUBSTITUTION OF PART 1 OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^key-0ca568c7679620185781c4f1b8cc25fd]
+## SCHEDULE 1 — SUBSTITUTION OF PART 1 OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^c-0ca568c7679620185781c4f1b8cc25fd]
 
 Article 2(3)(a)
 
-> **PART 1 — DEVELOPMENT WITHIN THE CURTILAGE OF A DWELLINGHOUSE[^key-0ca568c7679620185781c4f1b8cc25fd]**
+> **PART 1 — DEVELOPMENT WITHIN THE CURTILAGE OF A DWELLINGHOUSE[^c-0ca568c7679620185781c4f1b8cc25fd]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — INSERTION OF PART 1A OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^key-0ca568c7679620185781c4f1b8cc25fd]
+## SCHEDULE 2 — INSERTION OF PART 1A OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^c-0ca568c7679620185781c4f1b8cc25fd]
 
 Article 2(3)(b)
 
-> **PART 1A — INSTALLATION OF DOMESTIC MICROGENERATION EQUIPMENT[^key-0ca568c7679620185781c4f1b8cc25fd]**
+> **PART 1A — INSTALLATION OF DOMESTIC MICROGENERATION EQUIPMENT[^c-0ca568c7679620185781c4f1b8cc25fd]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ca568c7679620185781c4f1b8cc25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ca568c7679620185781c4f1b8cc25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ca568c7679620185781c4f1b8cc25fd]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/75) revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)
+[^c-0ca568c7679620185781c4f1b8cc25fd]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/75) revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)

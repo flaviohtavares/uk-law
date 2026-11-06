@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Excluded decisions[^key-f0ea230c92aa93b716cf76dbf4ba4ffd]
+## 51. Excluded decisions[^c-f0ea230c92aa93b716cf76dbf4ba4ffd]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A decision falling within any of sections 52 to 54 is an excluded decision for t
 
 ## Annotations
 
-[^key-f0ea230c92aa93b716cf76dbf4ba4ffd]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/10/section/51) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-f0ea230c92aa93b716cf76dbf4ba4ffd]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/10/section/51) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

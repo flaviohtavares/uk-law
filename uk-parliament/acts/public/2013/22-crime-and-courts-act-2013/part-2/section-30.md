@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Supreme Court security officers[^key-bef00a3afd93e0bb18b695df75bd2931]
+## 30. Supreme Court security officers[^c-bef00a3afd93e0bb18b695df75bd2931]
 
 *Extent: E+W+S+N.I.*
 
@@ -177,4 +177,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bef00a3afd93e0bb18b695df75bd2931]: Commencement: S. 30 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/c)
+[^c-bef00a3afd93e0bb18b695df75bd2931]: Commencement: S. 30 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/c)

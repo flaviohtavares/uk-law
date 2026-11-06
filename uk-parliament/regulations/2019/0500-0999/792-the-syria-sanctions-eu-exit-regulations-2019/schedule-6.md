@@ -24,23 +24,23 @@ Regulation 61(2)
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-e62e3b3340c5dbeb1426414f8e03f6d3]
+#### 1. Interpretation[^c-e62e3b3340c5dbeb1426414f8e03f6d3]
 
 In this Schedule—
 
-(1)[^key-9cd759f1a3e79052d9ab9e0ccc04064f]
+(1)[^c-9cd759f1a3e79052d9ab9e0ccc04064f]
 
 - “**designated person**” has the same meaning as it has in Chapter 1 of Part 3 (Finance);
-- “[^key-5571a0eadefa62a5b39106e4e16a8b2e]**frozen account**” has the meaning given in regulation 55(7);
+- “[^c-5571a0eadefa62a5b39106e4e16a8b2e]**frozen account**” has the meaning given in regulation 55(7);
 - “**frozen funds or economic resources**” means funds or economic resources frozen by virtue of regulation 11, and any reference to a person's frozen funds or economic resources is to funds or economic resources frozen as a consequence of the designation of that person for the purpose of that regulation.
 
-(2)[^key-91c571bba0eec951fb6b8a4d7c7973d7] For the purposes of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**P**”).
+(2)[^c-91c571bba0eec951fb6b8a4d7c7973d7] For the purposes of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**P**”).
 
 (3) When determining for the purposes of paragraph 15 when C became a designated person, C is to be treated as having become a designated person at the same time as P.
 
 ### PART 2 — Financial sanctions in Chapter 1 of Part 3(asset-freeze etc)
 
-#### 2. Basic needs[^key-6f623a433be0f4af5240853524996cf6]
+#### 2. Basic needs[^c-6f623a433be0f4af5240853524996cf6]
 
 (1) To enable the basic needs of a designated person, or (in the case of an individual) any dependent family member of such a person, to be met.
 
@@ -73,14 +73,14 @@ In this Schedule—
   - (d) any child or other descendant of the designated person;
   - (e) any person who is a brother or sister of the designated person, or a child or other descendant of such a person.
 
-#### 3. Legal services[^key-10ae399031487bfb33003854a002aa97]
+#### 3. Legal services[^c-10ae399031487bfb33003854a002aa97]
 
 To enable the payment of—
 
 - (a) reasonable professional fees for the provision of legal services, or
 - (b) reasonable expenses associated with the provision of legal services.
 
-#### 4. Maintenance of frozen funds and economic resources[^key-1cc0f2723d3ffa33d47c2e1dd702b0f5]
+#### 4. Maintenance of frozen funds and economic resources[^c-1cc0f2723d3ffa33d47c2e1dd702b0f5]
 
 To enable the payment of—
 
@@ -89,18 +89,18 @@ To enable the payment of—
 
 arising from the routine holding or maintenance of frozen funds or economic resources.
 
-#### 5. Extraordinary expenses[^key-c6a021dc673d682f2c6aca6c004a940b]
+#### 5. Extraordinary expenses[^c-c6a021dc673d682f2c6aca6c004a940b]
 
 To enable an extraordinary expense of a designated person to be met.
 
-#### 6. Judicial decisions etc.[^key-fbd66309ab33f983e4bec659f8248e25][^key-c31d369700e3984e60eb9e6e78ddf7cd]
+#### 6. Judicial decisions etc.[^c-fbd66309ab33f983e4bec659f8248e25][^c-c31d369700e3984e60eb9e6e78ddf7cd]
 
 To enable the implementation or satisfaction (in whole or in part) of a judicial, administrative or arbitral decision or lien which is enforceable in the United Kingdom (the “judicial decision”), provided that—
 
 - (a) where funds or economic resources are made available to a designated person, they are credited to a frozen account or otherwise frozen by virtue of regulation 11;
 - (b) where funds or economic resources are made available by a person (including a designated person) to a designated person to enable the implementation or satisfaction of the judicial decision, no other designated person benefits, directly or indirectly.
 
-#### 7. Humanitarian assistance activities etc[^key-e742651342606d4a83de4363f5f86a14]
+#### 7. Humanitarian assistance activities etc[^c-e742651342606d4a83de4363f5f86a14]
 
 (1) To enable anything to be done in connection with the performance of any humanitarian assistance activity.
 
@@ -108,15 +108,15 @@ To enable the implementation or satisfaction (in whole or in part) of a judicial
 
 (3) For the purposes of this paragraph, “**the Syrian Humanitarian Response Plan**” means the strategy for a humanitarian response in Syria developed by the United Nations Office for the Coordination of Humanitarian Affairs in accordance with the UN General Assembly Resolution number 46/182, on strengthening of the coordination of humanitarian emergency assistance of the United Nations [^c23698611].
 
-#### 8. Diplomatic missions etc[^key-94635088b6e5f343680e07a8306729c2]
+#### 8. Diplomatic missions etc[^c-94635088b6e5f343680e07a8306729c2]
 
 To enable anything to be done in order that the functions of a diplomatic mission or consular post in Syria, or of an international organisation enjoying immunities in accordance with international law, may be carried out.
 
-#### 9. Human safety or environmental protection[^key-083c7d6d641f0be397c9f4f5fd85c1be]
+#### 9. Human safety or environmental protection[^c-083c7d6d641f0be397c9f4f5fd85c1be]
 
 To enable anything to be done to protect the safety of individuals or for the protection of the environment.
 
-#### 10. Education, professional training or academic research[^key-9310179e1cb5c85911ec390150dc0205]
+#### 10. Education, professional training or academic research[^c-9310179e1cb5c85911ec390150dc0205]
 
 (1) To enable, by the transfer of funds or economic resources by or through a designated credit or financial institution, the provision of financial support to an individual who is a national of Syria to pursue an education, professional training or academic research in the United Kingdom, provided that the use of the funds or economic resources does not directly or indirectly benefit a designated person.
 
@@ -128,34 +128,34 @@ To enable anything to be done to protect the safety of individuals or for the pr
   - (iii) cashes cheques that are made payable to customers, and
 - (b) in the case of any other person, would satisfy the threshold conditions for permission under Part 4A of the Financial Services and Markets Act 2000 if it had its registered office (or if it does not have one, its head office) in the United Kingdom.
 
-#### 11. Essential energy needs[^key-f7eb3e1be52bc47b3359f4daf1ad7db2]
+#### 11. Essential energy needs[^c-f7eb3e1be52bc47b3359f4daf1ad7db2]
 
 To enable anything to be done in order to meet the essential energy needs of the civilian population in Syria.
 
-#### 12. Evacuations[^key-3f823528ba7b0117b532619c86317a7f]
+#### 12. Evacuations[^c-3f823528ba7b0117b532619c86317a7f]
 
 To enable anything to be done in order to evacuate an individual from Syria.
 
-#### 13. Chemical Weapons Convention[^key-23640d18bc1ea5ddf78868322625dd08]
+#### 13. Chemical Weapons Convention[^c-23640d18bc1ea5ddf78868322625dd08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Extraordinary situation[^key-3efa8662872e429b4508504766c05f84]
+#### 14. Extraordinary situation[^c-3efa8662872e429b4508504766c05f84]
 
 To enable anything to be done to deal with an extraordinary situation.
 
-#### 15. Prior obligations[^key-393971a829822bf2ba657910f55e4244]
+#### 15. Prior obligations[^c-393971a829822bf2ba657910f55e4244]
 
 To enable the satisfaction of an obligation of a designated person (whether arising under a contract, other agreement or otherwise), provided that—
 
 - (a) the obligation arose before the date on which the person became a designated person, and
 - (b) no payments are made to another designated person, whether directly or indirectly.
 
-#### 16. Central and Commercial Banks of Syria[^key-801283f51981dffbc9ffc5bad8d1c6cf]
+#### 16. Central and Commercial Banks of Syria[^c-801283f51981dffbc9ffc5bad8d1c6cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16A. Insolvency[^key-7e10c22365d69ced84ee37ad305c14d5]
+#### 16A. Insolvency[^c-7e10c22365d69ced84ee37ad305c14d5]
 
 (1) To enable anything to be done in connection with—
 
@@ -194,54 +194,54 @@ provided that any payments made directly or indirectly to a designated person ar
 
 ### PART 3 — Financial sanctions in Chapter 2 of Part 3 (investment, financial services and financial markets)
 
-#### 17. Assisting the civilian population in Syria[^key-30f0e31cef913d26d4819148c9dc4823]
+#### 17. Assisting the civilian population in Syria[^c-30f0e31cef913d26d4819148c9dc4823]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e62e3b3340c5dbeb1426414f8e03f6d3]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e62e3b3340c5dbeb1426414f8e03f6d3]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9cd759f1a3e79052d9ab9e0ccc04064f]: Textual amendment: Sch. 6 para. 1 renumbered as Sch. 6 para. 1(1) (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/a/i)
+[^c-9cd759f1a3e79052d9ab9e0ccc04064f]: Textual amendment: Sch. 6 para. 1 renumbered as Sch. 6 para. 1(1) (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/a/i)
 
-[^key-5571a0eadefa62a5b39106e4e16a8b2e]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/1/1) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/a/ii)
+[^c-5571a0eadefa62a5b39106e4e16a8b2e]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/1/1) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/a/ii)
 
-[^key-91c571bba0eec951fb6b8a4d7c7973d7]: Textual amendment: [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/1/2)[(3)](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/1/3) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/a/iii)
+[^c-91c571bba0eec951fb6b8a4d7c7973d7]: Textual amendment: [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/1/2)[(3)](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/1/3) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/a/iii)
 
-[^key-6f623a433be0f4af5240853524996cf6]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6f623a433be0f4af5240853524996cf6]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-10ae399031487bfb33003854a002aa97]: Commencement: Sch. 6 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-10ae399031487bfb33003854a002aa97]: Commencement: Sch. 6 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-1cc0f2723d3ffa33d47c2e1dd702b0f5]: Commencement: Sch. 6 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1cc0f2723d3ffa33d47c2e1dd702b0f5]: Commencement: Sch. 6 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c6a021dc673d682f2c6aca6c004a940b]: Commencement: Sch. 6 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c6a021dc673d682f2c6aca6c004a940b]: Commencement: Sch. 6 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-fbd66309ab33f983e4bec659f8248e25]: Commencement: Sch. 6 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fbd66309ab33f983e4bec659f8248e25]: Commencement: Sch. 6 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c31d369700e3984e60eb9e6e78ddf7cd]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/6) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/b)
+[^c-c31d369700e3984e60eb9e6e78ddf7cd]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/6) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/b)
 
-[^key-e742651342606d4a83de4363f5f86a14]: Commencement: Sch. 6 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e742651342606d4a83de4363f5f86a14]: Commencement: Sch. 6 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23698611]: Marginal citation: A copy of which is available from the Humanitarian Response website of the United Nations Office for the Coordination of Humanitarian Affairs: https://www.humanitarianresponse.info/en/operations/whole-of-syria.
 
-[^key-94635088b6e5f343680e07a8306729c2]: Commencement: Sch. 6 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-94635088b6e5f343680e07a8306729c2]: Commencement: Sch. 6 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-083c7d6d641f0be397c9f4f5fd85c1be]: Commencement: Sch. 6 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-083c7d6d641f0be397c9f4f5fd85c1be]: Commencement: Sch. 6 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9310179e1cb5c85911ec390150dc0205]: Commencement: Sch. 6 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9310179e1cb5c85911ec390150dc0205]: Commencement: Sch. 6 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-f7eb3e1be52bc47b3359f4daf1ad7db2]: Commencement: Sch. 6 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f7eb3e1be52bc47b3359f4daf1ad7db2]: Commencement: Sch. 6 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3f823528ba7b0117b532619c86317a7f]: Commencement: Sch. 6 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3f823528ba7b0117b532619c86317a7f]: Commencement: Sch. 6 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-23640d18bc1ea5ddf78868322625dd08]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/13) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(z1)(i)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/z1/i)
+[^c-23640d18bc1ea5ddf78868322625dd08]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/13) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(z1)(i)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/z1/i)
 
-[^key-3efa8662872e429b4508504766c05f84]: Commencement: Sch. 6 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3efa8662872e429b4508504766c05f84]: Commencement: Sch. 6 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-393971a829822bf2ba657910f55e4244]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/15) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2026/443/regulation/14/6)
+[^c-393971a829822bf2ba657910f55e4244]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/15) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2026/443/regulation/14/6)
 
-[^key-801283f51981dffbc9ffc5bad8d1c6cf]: Textual amendment: [Sch. 6 para. 16](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/16) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(z1)(ii)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/z1/ii)
+[^c-801283f51981dffbc9ffc5bad8d1c6cf]: Textual amendment: [Sch. 6 para. 16](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/16) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(z1)(ii)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/z1/ii)
 
-[^key-7e10c22365d69ced84ee37ad305c14d5]: Textual amendment: [Sch. 6 para. 16A](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/16A) and cross-heading inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/c)
+[^c-7e10c22365d69ced84ee37ad305c14d5]: Textual amendment: [Sch. 6 para. 16A](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/16A) and cross-heading inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(12)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/12/c)
 
-[^key-30f0e31cef913d26d4819148c9dc4823]: Textual amendment: [Sch. 6 para. 17](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/17) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(z1)(iii)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/z1/iii)
+[^c-30f0e31cef913d26d4819148c9dc4823]: Textual amendment: [Sch. 6 para. 17](https://www.legislation.gov.uk/uksi/2019/792/schedule/6/paragraph/17) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(z1)(iii)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/z1/iii)

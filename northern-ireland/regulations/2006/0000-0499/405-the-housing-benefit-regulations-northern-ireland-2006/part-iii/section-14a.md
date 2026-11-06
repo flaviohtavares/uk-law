@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Protection on death and 13 week protection[^key-534b083a96d1f6d99022b602bbfaad1c]
+## 14A. Protection on death and 13 week protection[^c-534b083a96d1f6d99022b602bbfaad1c]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 for a period of 12 months from the date of such a death.
 
-(2)[^key-5b1ea28c7af34b06555f89f877b7a633] For the purposes of paragraph (1), a claimant is treated as occupying the dwelling if—
+(2)[^c-5b1ea28c7af34b06555f89f877b7a633] For the purposes of paragraph (1), a claimant is treated as occupying the dwelling if—
 
 - (a) any of paragraphs (13), (13D) (with (13E) where applicable) or (13G) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of those paragraphs were omitted; or
 - (b) any of paragraphs (17), (17C) or (17D) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of paragraph (16) of that regulation were omitted.
@@ -38,6 +38,6 @@ for a period of 12 months from the date of such a death.
 
 ## Annotations
 
-[^key-534b083a96d1f6d99022b602bbfaad1c]: Textual amendment: [Regs. 14-14F](https://www.legislation.gov.uk/nisr/2006/405/regulation/14A) substituted for reg. 14 (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/7)
+[^c-534b083a96d1f6d99022b602bbfaad1c]: Textual amendment: [Regs. 14-14F](https://www.legislation.gov.uk/nisr/2006/405/regulation/14A) substituted for reg. 14 (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/7)
 
-[^key-5b1ea28c7af34b06555f89f877b7a633]: Textual amendment: [Reg. 14A(2)](https://www.legislation.gov.uk/nisr/2006/405/regulation/14A/2) substituted (30.1.2017) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/1)](https://www.legislation.gov.uk/nisr/2017/1), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a), [2(5)](https://www.legislation.gov.uk/nisr/2017/1/regulation/2/5)
+[^c-5b1ea28c7af34b06555f89f877b7a633]: Textual amendment: [Reg. 14A(2)](https://www.legislation.gov.uk/nisr/2006/405/regulation/14A/2) substituted (30.1.2017) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/1)](https://www.legislation.gov.uk/nisr/2017/1), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/a), [2(5)](https://www.legislation.gov.uk/nisr/2017/1/regulation/2/5)

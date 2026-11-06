@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. The Compensation Fund[^key-e70330b9d3659827ea5a4bccace0f419]
+## 55. The Compensation Fund[^c-e70330b9d3659827ea5a4bccace0f419]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Society shall establish a fund to be known as the Compensation Fund which sh
 
 ## Annotations
 
-[^key-e70330b9d3659827ea5a4bccace0f419]: Modification: [Art. 55](https://www.legislation.gov.uk/nisi/1976/582/article/55) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ii)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ii)
+[^c-e70330b9d3659827ea5a4bccace0f419]: Modification: [Art. 55](https://www.legislation.gov.uk/nisi/1976/582/article/55) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ii)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Complaints about handling of complaints[^key-2b5d2b9accc75f17ed50f16aff22af81]
+## 118. Complaints about handling of complaints[^c-2b5d2b9accc75f17ed50f16aff22af81]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 3 of the Health Service Commissioners Act 1993 (c. 46) (remit of Comm
 
 ## Annotations
 
-[^key-2b5d2b9accc75f17ed50f16aff22af81]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2003/43/section/118) in force at 1.6.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 8](https://www.legislation.gov.uk/uksi/2004/759/article/8)
+[^c-2b5d2b9accc75f17ed50f16aff22af81]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2003/43/section/118) in force at 1.6.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 8](https://www.legislation.gov.uk/uksi/2004/759/article/8)

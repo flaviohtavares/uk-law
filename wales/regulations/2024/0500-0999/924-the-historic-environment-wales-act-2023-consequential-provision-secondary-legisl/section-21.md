@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. The Hedgerows Regulations 1997[^key-d8e7190e009f54f40e4192240602a434]
+## 21. The Hedgerows Regulations 1997[^c-d8e7190e009f54f40e4192240602a434]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In Schedule 1 to the Hedgerows Regulations 1997[^f00016], in Part 2, paragraph 2
 
 ## Annotations
 
-[^key-d8e7190e009f54f40e4192240602a434]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/924/regulation/21) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-d8e7190e009f54f40e4192240602a434]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/924/regulation/21) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160), to which there are amendments not relevant to these Regulations.

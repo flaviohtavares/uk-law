@@ -22,7 +22,7 @@ summary: ''
 
 (1) If a member is convicted of a relevant offence, the former employing authority may apply to a Minister of the Crown who may issue a forfeiture certificate.
 
-(2) A relevant offence is an offence committed in connection with an employment in which the person convicted is a member [^key-1bd1c319bcd75b7cdc242f150f2da66c]....
+(2) A relevant offence is an offence committed in connection with an employment in which the person convicted is a member [^c-1bd1c319bcd75b7cdc242f150f2da66c]....
 
 (3) Where a former employing authority applies for a forfeiture certificate, it shall at the same time send the convicted person and the Committee a copy of the application.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bd1c319bcd75b7cdc242f150f2da66c]: Textual amendment: Words in [reg. 102(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/102/2) omitted (with effect in accordance with reg. 1(1) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2022/163/regulation/12)
+[^c-1bd1c319bcd75b7cdc242f150f2da66c]: Textual amendment: Words in [reg. 102(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/102/2) omitted (with effect in accordance with reg. 1(1) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2022/163/regulation/12)

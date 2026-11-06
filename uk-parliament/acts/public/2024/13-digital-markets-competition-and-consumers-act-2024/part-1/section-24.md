@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Consultation in relation to a conduct requirement[^key-d0d47753b66a379541968189294a29a2][^key-c2e2d84ae6957cec23eff09dc98ec346]
+## 24. Consultation in relation to a conduct requirement[^c-d0d47753b66a379541968189294a29a2][^c-c2e2d84ae6957cec23eff09dc98ec346]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d47753b66a379541968189294a29a2]: Commencement: S. 24 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d0d47753b66a379541968189294a29a2]: Commencement: S. 24 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c2e2d84ae6957cec23eff09dc98ec346]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2024/13/section/24) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-c2e2d84ae6957cec23eff09dc98ec346]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2024/13/section/24) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

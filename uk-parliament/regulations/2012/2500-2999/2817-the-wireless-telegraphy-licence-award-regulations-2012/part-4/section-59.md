@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Further deposit during primary bid rounds[^key-118cb5af9337bbb75e410e6cd6622631]
+## 59. Further deposit during primary bid rounds[^c-118cb5af9337bbb75e410e6cd6622631]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-118cb5af9337bbb75e410e6cd6622631]: Commencement: Reg. 59 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-118cb5af9337bbb75e410e6cd6622631]: Commencement: Reg. 59 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

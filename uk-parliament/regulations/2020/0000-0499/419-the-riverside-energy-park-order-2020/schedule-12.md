@@ -22,7 +22,7 @@ summary: ''
 
 Article 42
 
-### 1. Interpretation[^key-bd5aab53eea37cf23c7f6cef80fcba66]
+### 1. Interpretation[^c-bd5aab53eea37cf23c7f6cef80fcba66]
 
 In this Schedule—
 
@@ -31,7 +31,7 @@ In this Schedule—
 - “**relevant authority**” means the relevant planning authority, relevant highway authority, relevant traffic authority, relevant street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought; and
 - “**requirement consultee**” means any body named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement.
 
-### 2. Applications made under requirements[^key-c7b2179be67e004f42da3d61340e60f8]
+### 2. Applications made under requirements[^c-c7b2179be67e004f42da3d61340e60f8]
 
 (1) Subject to article 42(2) (procedures in relation to certain approvals etc), where an application has been made to the relevant authority for any consent, agreement or approval required or contemplated by any provisions of this Order (including consent, agreement or approval in respect of part of a requirement) the relevant authority must give notice to the undertaker of its decision on the application within a period of nine weeks beginning with—
 
@@ -50,7 +50,7 @@ In this Schedule—
 
 the application is to be taken to have been refused by the relevant authority at the end of that period.
 
-### 3. Further information and consultation[^key-af6014d50b525577eec4637efd4b9a60]
+### 3. Further information and consultation[^c-af6014d50b525577eec4637efd4b9a60]
 
 (1) In relation to any application to which this Schedule applies, the relevant authority has the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -60,7 +60,7 @@ the application is to be taken to have been refused by the relevant authority at
 
 (4) In the event that the relevant authority does not give notification as specified in sub-paragraph (2) or (3) it is to be deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Appeals[^key-b9c72c68235c8d41f6303b079c79eaf7]
+### 4. Appeals[^c-b9c72c68235c8d41f6303b079c79eaf7]
 
 (1) The undertaker may appeal in the event that—
 
@@ -104,20 +104,20 @@ and may deal with the application as if it had been made to the appointed person
 
 (13) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014), published by the Ministry of Housing, Communities & Local Government, or any circular or guidance which may from time to time replace it.
 
-### 5. Application to protective provisions[^key-55d97b63a67f0d20afbabc7771dbdec0]
+### 5. Application to protective provisions[^c-55d97b63a67f0d20afbabc7771dbdec0]
 
 Nothing in this Schedule applies to any consent, agreement or approval required or contemplated by Schedule 10 or article 20(6) (protective work to buildings).
 
 ## Annotations
 
-[^key-bd5aab53eea37cf23c7f6cef80fcba66]: Commencement: Sch. 12 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-bd5aab53eea37cf23c7f6cef80fcba66]: Commencement: Sch. 12 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052841]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-c7b2179be67e004f42da3d61340e60f8]: Commencement: Sch. 12 para. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-c7b2179be67e004f42da3d61340e60f8]: Commencement: Sch. 12 para. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-af6014d50b525577eec4637efd4b9a60]: Commencement: Sch. 12 para. 3 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-af6014d50b525577eec4637efd4b9a60]: Commencement: Sch. 12 para. 3 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-b9c72c68235c8d41f6303b079c79eaf7]: Commencement: Sch. 12 para. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-b9c72c68235c8d41f6303b079c79eaf7]: Commencement: Sch. 12 para. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-55d97b63a67f0d20afbabc7771dbdec0]: Commencement: Sch. 12 para. 5 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-55d97b63a67f0d20afbabc7771dbdec0]: Commencement: Sch. 12 para. 5 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

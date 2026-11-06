@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Sustainable development[^key-ace4aa7cd621bd0454824340aef37d84]
+## 2. Sustainable development[^c-ace4aa7cd621bd0454824340aef37d84]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Act, “**sustainable development**” means the process of improving th
 
 ## Annotations
 
-[^key-ace4aa7cd621bd0454824340aef37d84]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2015/2/section/2) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-ace4aa7cd621bd0454824340aef37d84]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2015/2/section/2) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

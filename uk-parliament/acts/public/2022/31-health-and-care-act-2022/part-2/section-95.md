@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Information standards[^key-37fa6275462f2d9210852cd193dcd258][^key-c95ba6b10d24e00c51140c203cdb0cdc]
+## 95. Information standards[^c-37fa6275462f2d9210852cd193dcd258][^c-c95ba6b10d24e00c51140c203cdb0cdc]
 
 *Extent: E+W*
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37fa6275462f2d9210852cd193dcd258]: Commencement: S. 95 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-37fa6275462f2d9210852cd193dcd258]: Commencement: S. 95 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-c95ba6b10d24e00c51140c203cdb0cdc]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2022/31/section/95) in force at 7.7.2025 by [S.I. 2025/807](https://www.legislation.gov.uk/uksi/2025/807), [reg. 2](https://www.legislation.gov.uk/uksi/2025/807/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/807/regulation/3))
+[^c-c95ba6b10d24e00c51140c203cdb0cdc]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2022/31/section/95) in force at 7.7.2025 by [S.I. 2025/807](https://www.legislation.gov.uk/uksi/2025/807), [reg. 2](https://www.legislation.gov.uk/uksi/2025/807/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/807/regulation/3))

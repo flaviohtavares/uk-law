@@ -33,7 +33,7 @@ An Act to make new provision for the government of Northern Ireland for the purp
 
 \[19th November 1998\]
 
-[^c22717771][^c12396351][^c20122961][^c20325211]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9097ed38f279cacb9011bb6b64eb49ce][^key-a30318d28412ff4c8c09a4423490062f][^key-d140309c3f10361b43dad87aef02e2e1][^key-cdba7888aab7fd18ed45a3aae376a7cf]
+[^c22717771][^c12396351][^c20122961][^c20325211]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9097ed38f279cacb9011bb6b64eb49ce][^c-a30318d28412ff4c8c09a4423490062f][^c-d140309c3f10361b43dad87aef02e2e1][^c-cdba7888aab7fd18ed45a3aae376a7cf]
 
 ## Contents
 
@@ -206,7 +206,7 @@ An Act to make new provision for the government of Northern Ireland for the purp
 - [Section 55 — Implementation bodies.](part-v/section-55.md)
 - [Section 56 — Civic Forum.](part-v/section-56.md)
 
-### PART 5A — EU WITHDRAWAL: Democratic Consent and Scrutiny[^key-b0bc0c1b1002070fbe2c2a5975371a7c][^key-9d6b0a93a09bfbcfd06346a8f932215a]
+### PART 5A — EU WITHDRAWAL: Democratic Consent and Scrutiny[^c-b0bc0c1b1002070fbe2c2a5975371a7c][^c-9d6b0a93a09bfbcfd06346a8f932215a]
 
 *Extent: E+W+S+N.I.*
 
@@ -263,7 +263,7 @@ An Act to make new provision for the government of Northern Ireland for the purp
 - [Section 77 — Unlawful oaths etc.](part-vii/section-77.md)
 - [Section 78 — Removal of restrictions on investigation into maladministration.](part-vii/section-78.md)
 
-#### Protections deriving from EU withdrawal agreement[^key-e33b18fb43b9e804cd0ac6b3036f0b3c]
+#### Protections deriving from EU withdrawal agreement[^c-e33b18fb43b9e804cd0ac6b3036f0b3c]
 
 - [Section 78A — NIHRC functions in relation to EU withdrawal agreement](part-vii/section-78a.md)
 - [Section 78B — ECNI functions in relation to EU withdrawal agreement](part-vii/section-78b.md)
@@ -271,14 +271,14 @@ An Act to make new provision for the government of Northern Ireland for the purp
 - [Section 78D — Power of Commissions to assist persons in legal proceedings](part-vii/section-78d.md)
 - [Section 78E — Collaborative working](part-vii/section-78e.md)
 
-### Part 7A — National and Cultural Identity[^key-0db22ce6e11f19a12e2c194a698c57ec]
+### Part 7A — National and Cultural Identity[^c-0db22ce6e11f19a12e2c194a698c57ec]
 
 - [Section 78F — National and cultural identity principles](part-7a/section-78f.md)
 - [Section 78G — The Office of Identity and Cultural Expression](part-7a/section-78g.md)
 - [Section 78H — Functions of the Office of Identity and Cultural Expression](part-7a/section-78h.md)
 - [Section 78I — Further functions: establishing the Castlereagh Foundation](part-7a/section-78i.md)
 
-### Part 7B — The Irish Language[^key-99cbc350ecb74a289e49a19243f0910b]
+### Part 7B — The Irish Language[^c-99cbc350ecb74a289e49a19243f0910b]
 
 - [Section 78J — Recognition of the status of the Irish language](part-7b/section-78j.md)
 - [Section 78K — The Irish Language Commissioner](part-7b/section-78k.md)
@@ -289,7 +289,7 @@ An Act to make new provision for the government of Northern Ireland for the purp
 - [Section 78P — Complaints](part-7b/section-78p.md)
 - [Section 78Q — Meaning of “public authority”](part-7b/section-78q.md)
 
-### Part 7C — The Ulster Scots and the Ulster British tradition[^key-145308a3169213e3a8178c6e79732ee5]
+### Part 7C — The Ulster Scots and the Ulster British tradition[^c-145308a3169213e3a8178c6e79732ee5]
 
 - [Section 78R — The Commissioner](part-7c/section-78r.md)
 - [Section 78S — Functions of the Commissioner](part-7c/section-78s.md)
@@ -394,13 +394,13 @@ SCHEDULES
 
 [^c20325211]: Modification: Act modified (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 18(8)](https://www.legislation.gov.uk/ukpga/2006/53/section/18/8), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4) (as amended by Northern Ireland (St Andrews Agreement) Act [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/3)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
-[^key-9097ed38f279cacb9011bb6b64eb49ce]: Modification: Act excluded (1.11.2018) by [Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (c. 28)](https://www.legislation.gov.uk/ukpga/2018/28), [s. 3(7)](https://www.legislation.gov.uk/ukpga/2018/28/section/3/7)
+[^c-9097ed38f279cacb9011bb6b64eb49ce]: Modification: Act excluded (1.11.2018) by [Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (c. 28)](https://www.legislation.gov.uk/ukpga/2018/28), [s. 3(7)](https://www.legislation.gov.uk/ukpga/2018/28/section/3/7)
 
-[^key-a30318d28412ff4c8c09a4423490062f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/47) excluded (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/5/1), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-a30318d28412ff4c8c09a4423490062f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/47) excluded (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/5/1), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-d140309c3f10361b43dad87aef02e2e1]: Modification: Act modified (28.2.2023) by [2022 c. 48](https://www.legislation.gov.uk/ukpga/2022/48), [s. 1A](https://www.legislation.gov.uk/ukpga/2022/48/section/1A) (as inserted by [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3))
+[^c-d140309c3f10361b43dad87aef02e2e1]: Modification: Act modified (28.2.2023) by [2022 c. 48](https://www.legislation.gov.uk/ukpga/2022/48), [s. 1A](https://www.legislation.gov.uk/ukpga/2022/48/section/1A) (as inserted by [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3))
 
-[^key-cdba7888aab7fd18ed45a3aae376a7cf]: Modification: Act modified (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 1](https://www.legislation.gov.uk/ukpga/2022/48/section/1), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2) (as amended by [S.I. 2022/1296](https://www.legislation.gov.uk/uksi/2022/1296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1296/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1296/regulation/2/2); (28.2.2023) by [2023 c. 4](https://www.legislation.gov.uk/ukpga/2023/4), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/2/b), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3); and (25.1.2024) by [2024 c. 2](https://www.legislation.gov.uk/ukpga/2024/2), [ss. 1](https://www.legislation.gov.uk/ukpga/2024/2/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2))
+[^c-cdba7888aab7fd18ed45a3aae376a7cf]: Modification: Act modified (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 1](https://www.legislation.gov.uk/ukpga/2022/48/section/1), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2) (as amended by [S.I. 2022/1296](https://www.legislation.gov.uk/uksi/2022/1296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1296/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1296/regulation/2/2); (28.2.2023) by [2023 c. 4](https://www.legislation.gov.uk/ukpga/2023/4), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/2/b), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3); and (25.1.2024) by [2024 c. 2](https://www.legislation.gov.uk/ukpga/2024/2), [ss. 1](https://www.legislation.gov.uk/ukpga/2024/2/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2))
 
 [^c20123041]: Modification: Pts. II-IV applied in part (1.1.2007) by [The Equality Act (Sexual Orientation) Regulations (Northern Ireland) 2006 (S.R. 2006/439)](https://www.legislation.gov.uk/nisr/2006/439), [reg. 53(6)](https://www.legislation.gov.uk/nisr/2006/439/regulation/53/6)
 
@@ -414,14 +414,14 @@ SCHEDULES
 
 [^c20123071]: Modification: Pts. II-IV applied in part (1.1.2007) by [The Equality Act (Sexual Orientation) Regulations (Northern Ireland) 2006 (S.R. 2006/439)](https://www.legislation.gov.uk/nisr/2006/439), [reg. 53(6)](https://www.legislation.gov.uk/nisr/2006/439/regulation/53/6)
 
-[^key-b0bc0c1b1002070fbe2c2a5975371a7c]: Textual amendment: Pt. 5A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/2)
+[^c-b0bc0c1b1002070fbe2c2a5975371a7c]: Textual amendment: Pt. 5A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/2)
 
-[^key-9d6b0a93a09bfbcfd06346a8f932215a]: Textual amendment: Words in Pt. 5A heading substituted (2.2.2024) by [The Windsor Framework (Democratic Scrutiny) Regulations 2024 (S.I. 2024/118)](https://www.legislation.gov.uk/uksi/2024/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/2/2)
+[^c-9d6b0a93a09bfbcfd06346a8f932215a]: Textual amendment: Words in Pt. 5A heading substituted (2.2.2024) by [The Windsor Framework (Democratic Scrutiny) Regulations 2024 (S.I. 2024/118)](https://www.legislation.gov.uk/uksi/2024/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/2/2)
 
-[^key-e33b18fb43b9e804cd0ac6b3036f0b3c]: Textual amendment: [Ss. 78A-78E](https://www.legislation.gov.uk/ukpga/1998/47/section/78A) and cross-heading inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-e33b18fb43b9e804cd0ac6b3036f0b3c]: Textual amendment: [Ss. 78A-78E](https://www.legislation.gov.uk/ukpga/1998/47/section/78A) and cross-heading inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-0db22ce6e11f19a12e2c194a698c57ec]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/1998/47/part/7A) inserted (22.5.2023 for the insertion of s. 78G, 29.1.2026 for the insertion of ss. 78F and 78H(1)(2)(3)(a)-(c)(e)(4) and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/a); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/a)
+[^c-0db22ce6e11f19a12e2c194a698c57ec]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/1998/47/part/7A) inserted (22.5.2023 for the insertion of s. 78G, 29.1.2026 for the insertion of ss. 78F and 78H(1)(2)(3)(a)-(c)(e)(4) and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/a); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/a)
 
-[^key-99cbc350ecb74a289e49a19243f0910b]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/ukpga/1998/47/part/7B) inserted (22.5.2023 for the insertion of s. 78K, 29.1.2026 for the insertion of ss. 78J(1)(a)(b)(2)(3), 78L(1)(2)(a)(3)-(5), 78M, 78N and 78Q and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/c); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/b)
+[^c-99cbc350ecb74a289e49a19243f0910b]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/ukpga/1998/47/part/7B) inserted (22.5.2023 for the insertion of s. 78K, 29.1.2026 for the insertion of ss. 78J(1)(a)(b)(2)(3), 78L(1)(2)(a)(3)-(5), 78M, 78N and 78Q and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/c); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/b)
 
-[^key-145308a3169213e3a8178c6e79732ee5]: Textual amendment: [Pt. 7C](https://www.legislation.gov.uk/ukpga/1998/47/part/7C) inserted (22.5.2023 for the insertion of s. 78R, 29.1.2026 for the insertion of ss. 78S(1)(2)(a)(b)(3)-(8) and 78U and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/e); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/c)
+[^c-145308a3169213e3a8178c6e79732ee5]: Textual amendment: [Pt. 7C](https://www.legislation.gov.uk/ukpga/1998/47/part/7C) inserted (22.5.2023 for the insertion of s. 78R, 29.1.2026 for the insertion of ss. 78S(1)(2)(a)(b)(3)-(8) and 78U and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/e); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/c)

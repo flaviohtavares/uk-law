@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Small unmanned surveillance aircraft[^key-affad5d3067823a3bf56369092b67cfe]
+## 98. Small unmanned surveillance aircraft[^c-affad5d3067823a3bf56369092b67cfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-affad5d3067823a3bf56369092b67cfe]: Textual amendment: [Art. 98](https://www.legislation.gov.uk/uksi/2015/870/article/98) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [6](https://www.legislation.gov.uk/uksi/2020/1280/article/6)
+[^c-affad5d3067823a3bf56369092b67cfe]: Textual amendment: [Art. 98](https://www.legislation.gov.uk/uksi/2015/870/article/98) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [6](https://www.legislation.gov.uk/uksi/2020/1280/article/6)

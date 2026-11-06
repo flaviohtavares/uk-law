@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Removal of CMA’s involvement in licensing etc[^key-8a1a48fe43a8136c7a54f059eb4f3759][^key-0d2d8d080e6c680fca24d383003b7466]
+## 85. Removal of CMA’s involvement in licensing etc[^c-8a1a48fe43a8136c7a54f059eb4f3759][^c-0d2d8d080e6c680fca24d383003b7466]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a1a48fe43a8136c7a54f059eb4f3759]: Commencement: S. 85 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-8a1a48fe43a8136c7a54f059eb4f3759]: Commencement: S. 85 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0d2d8d080e6c680fca24d383003b7466]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/31/section/85) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0d2d8d080e6c680fca24d383003b7466]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/31/section/85) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

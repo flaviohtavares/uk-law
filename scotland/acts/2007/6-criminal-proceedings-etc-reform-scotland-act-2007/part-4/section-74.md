@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Appointment of stipendiary magistrates[^key-dd9f523b4dde632fca3a5194e061ddd1]
+## 74. Appointment of stipendiary magistrates[^c-dd9f523b4dde632fca3a5194e061ddd1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9f523b4dde632fca3a5194e061ddd1]: Textual amendment: S. 74 repealed (1.4.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 40(5)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/40/5/a); [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-dd9f523b4dde632fca3a5194e061ddd1]: Textual amendment: S. 74 repealed (1.4.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 40(5)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/40/5/a); [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)

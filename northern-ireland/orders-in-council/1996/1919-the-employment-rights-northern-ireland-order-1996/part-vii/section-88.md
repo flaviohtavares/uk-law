@@ -30,7 +30,7 @@ summary: ''
 - (a) before the end of the period of three months beginning with the date when the failure occurred, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-c9864d03c27f6ae4943743565c10af47] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-c9864d03c27f6ae4943743565c10af47] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where an industrial tribunal finds a complaint under paragraph (1)(a) well-founded, the tribunal—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9864d03c27f6ae4943743565c10af47]: Textual amendment: [Art. 88(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/88/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/28); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-c9864d03c27f6ae4943743565c10af47]: Textual amendment: [Art. 88(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/88/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/28); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

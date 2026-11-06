@@ -81,7 +81,7 @@ The Secretary of State [^c24171221], in exercise of the powers conferred by sect
 - [Section 16 — Making economic resources available for benefit of designated persons](part-3/section-16.md)
 - [Section 17 — Circumventing etc. prohibitions](part-3/section-17.md)
 
-### PART 3A — Director disqualification sanctions[^key-84444326548f301ca82e1cd7caae03d3]
+### PART 3A — Director disqualification sanctions[^c-84444326548f301ca82e1cd7caae03d3]
 
 - [Section 17A — Director disqualification sanctions](part-3a/section-17a.md)
 
@@ -270,4 +270,4 @@ An Impact Assessment has not been produced for these Regulations, as they are in
 
 [^M_C_76a87aea-7175-471c-e1d6-9b85830dc9d3]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Somalia (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1285)](https://www.legislation.gov.uk/uksi/2020/1285), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1285/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1285/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1285/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1285/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 22](https://www.legislation.gov.uk/uksi/2025/1307/schedule/22))
 
-[^key-84444326548f301ca82e1cd7caae03d3]: Textual amendment: Pt. 3A inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/10/4)
+[^c-84444326548f301ca82e1cd7caae03d3]: Textual amendment: Pt. 3A inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/10/4)

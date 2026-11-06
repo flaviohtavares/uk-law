@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z27. Power of Secretary of State to require information etc[^key-91a2bdb12926a7148884e15e4aa73dcf]
+## 105Z27. Power of Secretary of State to require information etc[^c-91a2bdb12926a7148884e15e4aa73dcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91a2bdb12926a7148884e15e4aa73dcf]: Textual amendment: [Ss. 105Z27-105Z29](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z27) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 23](https://www.legislation.gov.uk/ukpga/2021/31/section/23), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-91a2bdb12926a7148884e15e4aa73dcf]: Textual amendment: [Ss. 105Z27-105Z29](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z27) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 23](https://www.legislation.gov.uk/ukpga/2021/31/section/23), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

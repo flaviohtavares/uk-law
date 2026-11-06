@@ -29,8 +29,8 @@ summary: ''
 - (a) the improvement notice would relate to water bottled and labelled before 28<sup></sup>November 2015; and
 - (b) the matters constituting the alleged contravention would not have constituted an offence under the Regulations listed in regulation 37.
 
-(4)[^key-807c06b732e3d8ebd287629a7df75721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-807c06b732e3d8ebd287629a7df75721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-807c06b732e3d8ebd287629a7df75721]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/33/4) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [8(9)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/8/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-807c06b732e3d8ebd287629a7df75721]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/33/4) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [8(9)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/8/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Disclosure of information[^key-bc1e4e9de14a3c470d1fcea1c25334a5][^key-7f6a68f11c2379ebc1fd27509f52023b]
+## 94. Disclosure of information[^c-bc1e4e9de14a3c470d1fcea1c25334a5][^c-7f6a68f11c2379ebc1fd27509f52023b]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc1e4e9de14a3c470d1fcea1c25334a5]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-bc1e4e9de14a3c470d1fcea1c25334a5]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-7f6a68f11c2379ebc1fd27509f52023b]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/56/section/94) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)
+[^c-7f6a68f11c2379ebc1fd27509f52023b]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/56/section/94) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)

@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Categorisation of Earners) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-85a39b4824a51c0e893abba9590058f7]
+The Social Security (Categorisation of Earners) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-85a39b4824a51c0e893abba9590058f7]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 31st January 1999
 
-[^key-85a39b4824a51c0e893abba9590058f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-85a39b4824a51c0e893abba9590058f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-85a39b4824a51c0e893abba9590058f7]
+## 1. Citation and commencement[^c-85a39b4824a51c0e893abba9590058f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-85a39b4824a51c0e893abba9590058f7]
+## 2. Revocation[^c-85a39b4824a51c0e893abba9590058f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-85a39b4824a51c0e893abba9590058f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-85a39b4824a51c0e893abba9590058f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-85a39b4824a51c0e893abba9590058f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-85a39b4824a51c0e893abba9590058f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-85a39b4824a51c0e893abba9590058f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/2) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
+[^c-85a39b4824a51c0e893abba9590058f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/2) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)

@@ -32,7 +32,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Contaminants in Food (England) Regulations 2004 (revoked)[^key-58e7749c86de739e88b1ebd621bac869]
+The Contaminants in Food (England) Regulations 2004 (revoked)[^c-58e7749c86de739e88b1ebd621bac869]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 20th December 2004
 
-[^key-58e7749c86de739e88b1ebd621bac869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58e7749c86de739e88b1ebd621bac869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-58e7749c86de739e88b1ebd621bac869]
+## 1. Title, commencement and application[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-58e7749c86de739e88b1ebd621bac869]
+## 2. Interpretation[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-58e7749c86de739e88b1ebd621bac869]
+## 3. Offences and penalties[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-58e7749c86de739e88b1ebd621bac869]
+## 4. Enforcement[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification of section 29 of the Food Safety Act 1990 (procurement of samples) and analysis of samples[^key-58e7749c86de739e88b1ebd621bac869]
+## 5. Modification of section 29 of the Food Safety Act 1990 (procurement of samples) and analysis of samples[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Defence in relation to exports[^key-58e7749c86de739e88b1ebd621bac869]
+## 6. Defence in relation to exports[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various sections of the Food Safety Act 1990[^key-58e7749c86de739e88b1ebd621bac869]
+## 7. Application of various sections of the Food Safety Act 1990[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Re–export or destruction of food imported into England that does not comply with these Regulations[^key-58e7749c86de739e88b1ebd621bac869]
+## 8. Re–export or destruction of food imported into England that does not comply with these Regulations[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Secondary treatment of food imported into England that does not comply with these Regulations[^key-58e7749c86de739e88b1ebd621bac869]
+## 9. Secondary treatment of food imported into England that does not comply with these Regulations[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions[^key-58e7749c86de739e88b1ebd621bac869]
+## 10. Transitional provisions[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-58e7749c86de739e88b1ebd621bac869]
+## 11.[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Consequential amendments[^key-58e7749c86de739e88b1ebd621bac869]
+## 12. Consequential amendments[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocations[^key-58e7749c86de739e88b1ebd621bac869]
+## 13. Revocations[^c-58e7749c86de739e88b1ebd621bac869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58e7749c86de739e88b1ebd621bac869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58e7749c86de739e88b1ebd621bac869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-58e7749c86de739e88b1ebd621bac869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58e7749c86de739e88b1ebd621bac869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-58e7749c86de739e88b1ebd621bac869]: Textual amendment: Regulations revoked (1.1.2006) by [The Contaminants in Food (England) Regulations 2005 (S.I. 2005/3251)](https://www.legislation.gov.uk/uksi/2005/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3251/regulation/1), [8](https://www.legislation.gov.uk/uksi/2005/3251/regulation/8)
+[^c-58e7749c86de739e88b1ebd621bac869]: Textual amendment: Regulations revoked (1.1.2006) by [The Contaminants in Food (England) Regulations 2005 (S.I. 2005/3251)](https://www.legislation.gov.uk/uksi/2005/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3251/regulation/1), [8](https://www.legislation.gov.uk/uksi/2005/3251/regulation/8)

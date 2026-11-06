@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Area of the harbour[^key-8bb11bbc359afb2c53c4acbe69119af6]
+## 4. Area of the harbour[^c-8bb11bbc359afb2c53c4acbe69119af6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb11bbc359afb2c53c4acbe69119af6]: Commencement: Art. 4 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-8bb11bbc359afb2c53c4acbe69119af6]: Commencement: Art. 4 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Interpretation of the Friendly Societies Act 1992[^key-701a1d693dda39291eeb2d11287c95f1]
+## 205. Interpretation of the Friendly Societies Act 1992[^c-701a1d693dda39291eeb2d11287c95f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-701a1d693dda39291eeb2d11287c95f1]: Commencement: Art. 205 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-701a1d693dda39291eeb2d11287c95f1]: Commencement: Art. 205 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00148]: Footnote: The definition of “supervisory authority” was inserted by [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984), regulation 30(f).
 

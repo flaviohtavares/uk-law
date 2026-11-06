@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 175(1) and 
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-50c7a52992c8ac27e6ee2515e29c153d]
+### 1. Title, commencement and application[^c-50c7a52992c8ac27e6ee2515e29c153d]
 
 (1) The title of these Regulations is the Social Care Wales (Proceedings before Panels) Regulations 2016.
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 175(1) and 
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-1a41407834d4add82c63500e3a917188]
+### 2. Interpretation[^c-1a41407834d4add82c63500e3a917188]
 
 In these Regulations—
 
@@ -68,7 +68,7 @@ In these Regulations—
 
 ## PART 2 — Registration Appeals Panels
 
-### 3. Interpretation of Part 2[^key-ff6f9d1da89f49572deb8da254fcd861]
+### 3. Interpretation of Part 2[^c-ff6f9d1da89f49572deb8da254fcd861]
 
 In this Part—
 
@@ -83,7 +83,7 @@ In this Part—
 - “registration appeals hearing” (“*gwrandawiad apelau cofrestru*”) means a hearing before a registration appeals panel in registration appeals proceedings;
 - “registration appeals proceedings” (“*achos apelau cofrestru*”) means proceedings before a registration appeals panel in respect of which section 98(1)[^f00007], 99(2)[^f00008] or 103[^f00009] of the Act applies.
 
-### 4. General objectives of registration appeals panels[^key-0554d715f4799656ad96d59c4e8231d2]
+### 4. General objectives of registration appeals panels[^c-0554d715f4799656ad96d59c4e8231d2]
 
 (1) The general objectives of a registration appeals panel in carrying out its functions in relation to registration appeals proceedings are—
 
@@ -101,7 +101,7 @@ In this Part—
 - (d) using any special expertise of the panel or SCW effectively;
 - (e) avoiding delay, so far as that is compatible with a proper consideration of the issues.
 
-### 5. Duty of parties in registration appeals proceedings[^key-8d3b1d17f8fd8cf1bbb447ecb5b1cbf0]
+### 5. Duty of parties in registration appeals proceedings[^c-8d3b1d17f8fd8cf1bbb447ecb5b1cbf0]
 
 (1) It is the duty of the parties—
 
@@ -110,7 +110,7 @@ In this Part—
 
 (2) If the registration appeals panel is satisfied that a person is in breach of the duty in paragraph (1), it may draw any inference that it considers appropriate.
 
-### 6. Registration appeals proceedings: when a hearing is not necessary[^key-7330fe03e9769c5a5efd4c41aa45aa00]
+### 6. Registration appeals proceedings: when a hearing is not necessary[^c-7330fe03e9769c5a5efd4c41aa45aa00]
 
 (1) A registration appeal before a registration appeals panel may be determined without a hearing if—
 
@@ -124,7 +124,7 @@ In this Part—
 
 (3) SCW may by rules make provision about the steps which may or must be taken by the parties or a registration appeals panel to enable the panel to reach a decision as to whether it is necessary to hold a hearing.
 
-### 7. Case management in registration appeals proceedings[^key-1afc40b997a71f1cda164ba39b732057]
+### 7. Case management in registration appeals proceedings[^c-1afc40b997a71f1cda164ba39b732057]
 
 (1) SCW may by rules make provision about preliminary case management in relation to registration appeals proceedings.
 
@@ -146,7 +146,7 @@ In this Part—
 
 (5) Rules made under this regulation may not provide for the award of costs.
 
-### 8. Evidence in registration appeals proceedings[^key-f559642bd5526da3a3841e9b55e1b3ce]
+### 8. Evidence in registration appeals proceedings[^c-f559642bd5526da3a3841e9b55e1b3ce]
 
 (1) A finding of fact by a registration appeals panel must be made on the balance of probabilities.
 
@@ -161,7 +161,7 @@ In this Part—
 
 (5) A certificate issued by a relevant body[^f00012] (for the purposes of section 117(1)(d) of the Act) that it has determined that a person’s fitness to practise is impaired is conclusive evidence of that determination.
 
-### 9. Exclusion of the public from registration appeals hearings[^key-d364aad3350d58677d3445630052ad05]
+### 9. Exclusion of the public from registration appeals hearings[^c-d364aad3350d58677d3445630052ad05]
 
 (1) A hearing before a registration appeals panel must be held in public, with the following exceptions.
 
@@ -174,16 +174,16 @@ In this Part—
 
 (4) The registration appeals panel may exclude a person from a hearing if it considers that the person’s conduct is likely to disrupt the hearing.
 
-### 10. Registration appeals proceedings: witness summons[^key-832f9bb5269729027c9545e4d7640ecb]
+### 10. Registration appeals proceedings: witness summons[^c-832f9bb5269729027c9545e4d7640ecb]
 
 (1) For the purposes of registration appeals proceedings—
 
 - (a) a registration appeals panel may administer oaths,
-- (b)[^key-572f9974491dc8fb4da3305f46a66b86] SCW may apply to the County Court or the High Court to issue a witness summons in accordance with Rule 34.4 of the Civil Procedure Rules 1998.
+- (b)[^c-572f9974491dc8fb4da3305f46a66b86] SCW may apply to the County Court or the High Court to issue a witness summons in accordance with Rule 34.4 of the Civil Procedure Rules 1998.
 
 (2) No person is to be compelled by a summons issued under paragraph (1)(b) to produce any document which that person could not be compelled to produce in civil proceedings in England and Wales.
 
-### 11. Special measures for witnesses etc. in registration appeals hearings[^key-feff9d32b8ce01a1e9543a28db8a5c9e]
+### 11. Special measures for witnesses etc. in registration appeals hearings[^c-feff9d32b8ce01a1e9543a28db8a5c9e]
 
 (1) A person giving evidence in a registration appeals hearing, including the appellant, is entitled to special measures if—
 
@@ -218,7 +218,7 @@ In this Part—
 
 (10) A registration appeals panel must give a direction requiring the implementation or provision of any special measure which it has offered, except where the person concerned is entitled to decline the special measure and has done so.
 
-### 12. Registration appeals hearings: procedure[^key-3badbcc2b6ac5f809b6cdb24da10e173]
+### 12. Registration appeals hearings: procedure[^c-3badbcc2b6ac5f809b6cdb24da10e173]
 
 (1) An appellant is entitled to be represented in a registration appeals hearing by—
 
@@ -232,7 +232,7 @@ In this Part—
 
 (4) A registration appeals hearing may proceed even if the appellant is not present and not represented, if the registration appeals panel is satisfied that all reasonable efforts have been made to give notice of the hearing to the appellant.
 
-### 13. Registration appeals hearings rules[^key-8a91c2c5f62ff35f6ec6f966aa1b6439]
+### 13. Registration appeals hearings rules[^c-8a91c2c5f62ff35f6ec6f966aa1b6439]
 
 (1) SCW must make rules about the procedure to be followed in a registration appeals hearing (“registration appeals hearings rules”) (“*rheolau gwrandawiadau apelau cofrestru*”).
 
@@ -249,7 +249,7 @@ In this Part—
 
 ## PART 3 — Fitness to Practise Panels
 
-### 14. Interpretation of Part 3[^key-739539a8f5078a144b39101a392f7051]
+### 14. Interpretation of Part 3[^c-739539a8f5078a144b39101a392f7051]
 
 In this Part—
 
@@ -261,7 +261,7 @@ In this Part—
 - “parties” (“*partïon*”) means the registered person to whom the fitness to practise proceedings or interim orders proceedings relate and SCW (or their representatives);
 - “registered person” (“*person cofrestredig*”) means the registered person[^f00016] in respect of whom the referral to the fitness to practise panel has been made.
 
-### 15. General objectives of fitness to practise panels[^key-30c7487cd7437d3fb74335d6b48d4896]
+### 15. General objectives of fitness to practise panels[^c-30c7487cd7437d3fb74335d6b48d4896]
 
 (1) The general objectives of a fitness to practise panel in carrying out its functions in relation to fitness to practise proceedings and interim orders proceedings are—
 
@@ -279,7 +279,7 @@ In this Part—
 - (d) using any special expertise of the panel or SCW effectively;
 - (e) avoiding delay, so far as that is compatible with a proper consideration of the issues.
 
-### 16. Duty of parties in fitness to practise proceedings and in interim orders proceedings[^key-bc5d81adbfd324211bea0c1fd739338b]
+### 16. Duty of parties in fitness to practise proceedings and in interim orders proceedings[^c-bc5d81adbfd324211bea0c1fd739338b]
 
 (1) It is the duty of the parties to—
 
@@ -288,7 +288,7 @@ In this Part—
 
 (2) If the fitness to practise panel is satisfied that a person is in breach of the duty in paragraph (1), it may draw any inference that it considers appropriate.
 
-### 17. Fitness to practise proceedings: when a hearing is not necessary[^key-2ef3186477026fea2f0370a66e8bddd1]
+### 17. Fitness to practise proceedings: when a hearing is not necessary[^c-2ef3186477026fea2f0370a66e8bddd1]
 
 (1) Fitness to practise proceedings, except proceedings under section 151 of the Act (“review proceedings”), may be determined by a fitness to practise panel without a hearing if—
 
@@ -319,12 +319,12 @@ In this Part—
 
 (5) SCW may by rules make provision about the steps which may or must be taken by the parties or a fitness to practise panel to enable the panel to reach a decision as to whether it is necessary to hold a fitness to practise hearing.
 
-### 18. Interim orders proceedings: when a hearing is not necessary[^key-afe27bec817821c7e71b58744d57139a]
+### 18. Interim orders proceedings: when a hearing is not necessary[^c-afe27bec817821c7e71b58744d57139a]
 
 (1) Interim orders proceedings may be determined by a fitness to practise panel without a hearing if—
 
 - (a) the parties agree in writing that the proceedings may be determined without a hearing,
-- (b) the parties agree in writing to the interim order which is to be made by the panel, or (in a case where the panel is considering the review of an interim order) to the decision specified in section 147(1)(b) to (f)[^key-78a9a7d8aaa4b76cf692eac474739138] of the Act which is to be made by the panel, including—
+- (b) the parties agree in writing to the interim order which is to be made by the panel, or (in a case where the panel is considering the review of an interim order) to the decision specified in section 147(1)(b) to (f)[^c-78a9a7d8aaa4b76cf692eac474739138] of the Act which is to be made by the panel, including—
   - (i) the period for which the interim order is to have effect, and
   - (ii) in the case of an interim conditional registration order, the conditions to be imposed on the registered person’s registration with SCW,
 - (c) a statement of agreed facts is made in writing by—
@@ -340,7 +340,7 @@ In this Part—
 
 (3) SCW may by rules make provision about the steps which may or must be taken by the parties or a fitness to practise panel to enable the panel to reach a decision as to whether it is necessary to hold an interim orders hearing.
 
-### 19. Case management in fitness to practise proceedings and in interim orders proceedings[^key-b52295609589fc6d02bb6f4027cb944b]
+### 19. Case management in fitness to practise proceedings and in interim orders proceedings[^c-b52295609589fc6d02bb6f4027cb944b]
 
 (1) SCW may by rules make provision about preliminary case management in relation to fitness to practice proceedings and interim orders proceedings.
 
@@ -362,7 +362,7 @@ In this Part—
 
 (5) Rules made under this regulation may not provide for the award of costs.
 
-### 20. Evidence in fitness to practise proceedings and in interim orders proceedings[^key-c9e9cc6a7aa0926aeae7097f65d7acdc]
+### 20. Evidence in fitness to practise proceedings and in interim orders proceedings[^c-c9e9cc6a7aa0926aeae7097f65d7acdc]
 
 (1) A finding of fact by a fitness to practise panel in fitness to practise proceedings must be made on the balance of probabilities.
 
@@ -377,7 +377,7 @@ In this Part—
 
 (5) A certificate issued by a relevant body (for the purposes of section 117(1)(d) of the Act) that it has determined that a person’s fitness to practise is impaired is conclusive evidence of that determination.
 
-### 21. Exclusion of the public from fitness to practise hearings[^key-8d8156d6bbce2e1adb26820044c3ddc4]
+### 21. Exclusion of the public from fitness to practise hearings[^c-8d8156d6bbce2e1adb26820044c3ddc4]
 
 (1) A fitness to practise hearing must be held in public, with the following exceptions.
 
@@ -390,7 +390,7 @@ In this Part—
 
 (4) The fitness to practise panel may exclude a person from a hearing if it considers that the person’s conduct is likely to disrupt the hearing.
 
-### 22. Exclusion of the public from interim orders hearings[^key-3a0f974f0e2908c254d291b1b2bf0621]
+### 22. Exclusion of the public from interim orders hearings[^c-3a0f974f0e2908c254d291b1b2bf0621]
 
 (1) The public must be excluded from an interim orders hearing unless—
 
@@ -399,16 +399,16 @@ In this Part—
 
 (2) In the case of a hearing held in public, the fitness to practise panel may exclude a person from the hearing if it thinks that the person’s conduct is likely to disrupt the hearing.
 
-### 23. Fitness to practise proceedings and interim orders proceedings: witness summons[^key-85c5404197bc7d030823add38ae29640]
+### 23. Fitness to practise proceedings and interim orders proceedings: witness summons[^c-85c5404197bc7d030823add38ae29640]
 
 (1) For the purposes of fitness to practise proceedings and interim orders proceedings—
 
 - (a) a fitness to practise panel may administer oaths,
-- (b)[^key-bf8252ace8cb0751741d858250b47b41] SCW may apply to the County Court or the High Court to issue a witness summons in accordance with Rule 34.4 of the Civil Procedure Rules 1998.
+- (b)[^c-bf8252ace8cb0751741d858250b47b41] SCW may apply to the County Court or the High Court to issue a witness summons in accordance with Rule 34.4 of the Civil Procedure Rules 1998.
 
 (2) No person is to be compelled by a summons issued under paragraph (1)(b) to produce any document which that person could not be compelled to produce in civil proceedings in England and Wales.
 
-### 24. Special measures for witnesses etc. in fitness to practise hearings and in interim orders hearings[^key-25c4d48a9eb3461ca2a77a53970ba10f]
+### 24. Special measures for witnesses etc. in fitness to practise hearings and in interim orders hearings[^c-25c4d48a9eb3461ca2a77a53970ba10f]
 
 (1) A person giving evidence in a fitness to practice hearing or an interim orders hearing, including the registered person, is entitled to special measures if—
 
@@ -454,7 +454,7 @@ In this Part—
 
 (14) If the registered person does not appoint a representative under paragraph (13), but wishes an alleged victim to be cross-examined, SCW must appoint a representative to cross-examine the person on behalf of the registered person.
 
-### 25. Fitness to practise hearings and interim orders hearings: procedure[^key-b87e7d4e5613afaa96173bfec5b057b4]
+### 25. Fitness to practise hearings and interim orders hearings: procedure[^c-b87e7d4e5613afaa96173bfec5b057b4]
 
 (1) A registered person is entitled to be represented in a fitness to practise hearing or an interim orders hearing by—
 
@@ -468,7 +468,7 @@ In this Part—
 
 (4) A fitness to practise hearing or an interim orders hearing may proceed even if the registered person is not present and not represented, if the fitness to practise panel is satisfied that all reasonable efforts have been made to give notice of the hearing to the person.
 
-### 26. Fitness to practise hearings and interim orders hearings rules[^key-9e85ecd44d810a4e508df1b9c556251f]
+### 26. Fitness to practise hearings and interim orders hearings rules[^c-9e85ecd44d810a4e508df1b9c556251f]
 
 (1) SCW must make rules about the procedure to be followed in—
 
@@ -490,7 +490,7 @@ In this Part—
 
 ## PART 4 — Interim orders panels
 
-### 27. Interpretation of Part 4[^key-ac4b99e90a2117b0dba663705faed86d]
+### 27. Interpretation of Part 4[^c-ac4b99e90a2117b0dba663705faed86d]
 
 In this Part—
 
@@ -500,7 +500,7 @@ In this Part—
 - “parties” (“*partïon*”) means the registered person to whom interim orders proceedings relate and SCW (or their representatives);
 - “registered person” (“*person cofrestredig*”) means the registered person[^f00022] in respect of whom the referral to the interim orders panel has been made.
 
-### 28. General objectives of interim orders panels[^key-02429b6246729a959637a63506eb78c2]
+### 28. General objectives of interim orders panels[^c-02429b6246729a959637a63506eb78c2]
 
 (1) The general objectives of an interim orders panel in carrying out its functions in relation to interim orders proceedings are—
 
@@ -518,7 +518,7 @@ In this Part—
 - (d) using any special expertise of the panel or SCW effectively;
 - (e) avoiding delay, so far as that is compatible with a proper consideration of the issues.
 
-### 29. Duty of parties in interim orders proceedings[^key-8cbdf11ba7f39e9c7e21058d1713c6e1]
+### 29. Duty of parties in interim orders proceedings[^c-8cbdf11ba7f39e9c7e21058d1713c6e1]
 
 (1) It is the duty of the parties to—
 
@@ -527,12 +527,12 @@ In this Part—
 
 (2) If the interim orders panel is satisfied that a person is in breach of the duty in paragraph (1), it may draw any inference that it considers appropriate.
 
-### 30. Interim orders proceedings: when a hearing is not necessary[^key-980c7186a2d4c6f4b0410303041552af]
+### 30. Interim orders proceedings: when a hearing is not necessary[^c-980c7186a2d4c6f4b0410303041552af]
 
 (1) Interim orders proceedings may be determined by an interim orders panel without a hearing if—
 
 - (a) the parties agree in writing that the proceedings may be determined without a hearing,
-- (b) the parties agree in writing to the interim order which is to be made by the panel, or (in a case where the panel is considering the review of an interim order) to the decision specified in section 147(1)(b) to (f)[^key-d3c6f5f84d20daaa6a2a91b7fadcb4bd] of the Act which is to be made by the panel, including—
+- (b) the parties agree in writing to the interim order which is to be made by the panel, or (in a case where the panel is considering the review of an interim order) to the decision specified in section 147(1)(b) to (f)[^c-d3c6f5f84d20daaa6a2a91b7fadcb4bd] of the Act which is to be made by the panel, including—
   - (i) the period for which the interim order is to have effect, and
   - (ii) in the case of an interim conditional registration order, the conditions to be imposed on the registered person’s registration with SCW,
 - (c) a statement of agreed facts is made in writing by—
@@ -548,7 +548,7 @@ In this Part—
 
 (3) SCW may by rules make provision about the steps which may or must be taken by the parties or an interim orders panel to enable the panel to reach a decision as to whether it is necessary to hold an interim orders hearing.
 
-### 31. Case management in interim order proceedings[^key-2a81bd3ded1cd51d7c30879036c07c3c]
+### 31. Case management in interim order proceedings[^c-2a81bd3ded1cd51d7c30879036c07c3c]
 
 (1) SCW may by rules make provision about preliminary case management in relation to interim orders proceedings.
 
@@ -570,7 +570,7 @@ In this Part—
 
 (5) Rules made under this regulation may not provide for the award of costs.
 
-### 32. Evidence in interim orders proceedings[^key-0fda96d66b177964dbe4cb9776cb540e]
+### 32. Evidence in interim orders proceedings[^c-0fda96d66b177964dbe4cb9776cb540e]
 
 (1) In interim orders proceedings evidence is not admissible unless—
 
@@ -583,7 +583,7 @@ In this Part—
 
 (4) A certificate issued by a relevant body (for the purposes of section 117(1)(d) of the Act) that it has determined that a person’s fitness to practise is impaired is conclusive evidence of that determination.
 
-### 33. Exclusion of the public from interim orders hearings[^key-0a3e4e0c7a8ed7af6682596054fc07ea]
+### 33. Exclusion of the public from interim orders hearings[^c-0a3e4e0c7a8ed7af6682596054fc07ea]
 
 (1) The public must be excluded from an interim orders hearing unless—
 
@@ -592,16 +592,16 @@ In this Part—
 
 (2) In the case of a hearing held in public, the interim orders panel may exclude a person from the hearing if it thinks that the person’s conduct is likely to disrupt the hearing.
 
-### 34. Interim orders proceedings: witness summons[^key-76671fd23a1e02e48fd387956cb5e261]
+### 34. Interim orders proceedings: witness summons[^c-76671fd23a1e02e48fd387956cb5e261]
 
 (1) For the purposes of interim orders proceedings—
 
 - (a) an interim orders panel may administer oaths,
-- (b)[^key-0283bb09ad5b9a111ca14f4081b0b683] SCW may apply to the County Court or the High Court to issue a witness summons in accordance with Rule 34.4 of the Civil Procedure Rules 1998.
+- (b)[^c-0283bb09ad5b9a111ca14f4081b0b683] SCW may apply to the County Court or the High Court to issue a witness summons in accordance with Rule 34.4 of the Civil Procedure Rules 1998.
 
 (2) No person is to be compelled by a summons issued under paragraph (1)(b) to produce any document which that person could not be compelled to produce in civil proceedings in England and Wales.
 
-### 35. Special measures for witnesses etc. in interim orders hearings[^key-b435b8233e1abada8a65457689431f5d]
+### 35. Special measures for witnesses etc. in interim orders hearings[^c-b435b8233e1abada8a65457689431f5d]
 
 (1) A person giving evidence in an interim orders hearing, including the registered person, is entitled to special measures if—
 
@@ -647,7 +647,7 @@ In this Part—
 
 (14) If the registered person does not appoint a representative under paragraph (13), but wishes an alleged victim to be cross-examined, SCW must appoint a representative to cross-examine the person on behalf of the registered person.
 
-### 36. Interim orders hearings: procedure[^key-1eacdd89e5a65fcd23e9e51829fa1f16]
+### 36. Interim orders hearings: procedure[^c-1eacdd89e5a65fcd23e9e51829fa1f16]
 
 (1) A registered person is entitled to be represented in an interim orders hearing by—
 
@@ -661,7 +661,7 @@ In this Part—
 
 (4) An interim orders hearing may proceed even if the registered person is not present and not represented, if the interim orders panel is satisfied that all reasonable efforts have been made to give notice of the hearing to the person.
 
-### 37. Interim orders hearings rules[^key-78abf29ec4e7ae851e103b54d13d6185]
+### 37. Interim orders hearings rules[^c-78abf29ec4e7ae851e103b54d13d6185]
 
 (1) SCW must make rules about the procedure to be followed in interim orders hearings (“interim orders hearings rules”) (“*rheolau gwrandawiadau gorchmynion interim*”).
 
@@ -704,15 +704,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-50c7a52992c8ac27e6ee2515e29c153d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-50c7a52992c8ac27e6ee2515e29c153d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-1a41407834d4add82c63500e3a917188]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1100/regulation/2) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-1a41407834d4add82c63500e3a917188]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1100/regulation/2) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00002]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41) (“the 1989 Act”). The definition in section 105 of the 1989 Act refers to the meaning of “parental responsibility” set out in section 3 of that Act.
 
-[^key-ff6f9d1da89f49572deb8da254fcd861]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1100/regulation/3) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-ff6f9d1da89f49572deb8da254fcd861]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1100/regulation/3) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00004]: Footnote: *See* Chapter 3 of Part 6 of the Act (disposal of fitness to practise cases). Fitness to practise panels make decisions about whether a person’s fitness to practise is impaired and decide what sanctions are appropriate following consideration of a case.
 
@@ -726,37 +726,37 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00009]: Footnote: Consideration of appeals made under section 101 of the Act against a decision of the registrar (under section 83 (refusal of a person’s application for registration), section 86 (refusal of a person’s application for renewal of the person’s registration), section 94 (refusal to remove an entry in respect of a person from the register) and section 96 (refusal to grant a person’s application for restoration of the person’s entry to the register)).
 
-[^key-0554d715f4799656ad96d59c4e8231d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1100/regulation/4) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-0554d715f4799656ad96d59c4e8231d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1100/regulation/4) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00010]: Footnote: *See* section 79 of the Act for the meaning of “social care worker”.
 
-[^key-8d3b1d17f8fd8cf1bbb447ecb5b1cbf0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1100/regulation/5) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-8d3b1d17f8fd8cf1bbb447ecb5b1cbf0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1100/regulation/5) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-7330fe03e9769c5a5efd4c41aa45aa00]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1100/regulation/6) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-7330fe03e9769c5a5efd4c41aa45aa00]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1100/regulation/6) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-1afc40b997a71f1cda164ba39b732057]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/1100/regulation/7) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-1afc40b997a71f1cda164ba39b732057]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/1100/regulation/7) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-f559642bd5526da3a3841e9b55e1b3ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/1100/regulation/8) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-f559642bd5526da3a3841e9b55e1b3ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/1100/regulation/8) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00011]: Footnote: *See* section 117(3) for the definition of “barred list”.
 
 [^f00012]: Footnote: *See* section 117(4) for the definition of “relevant body”.
 
-[^key-d364aad3350d58677d3445630052ad05]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/1100/regulation/9) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-d364aad3350d58677d3445630052ad05]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/1100/regulation/9) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-832f9bb5269729027c9545e4d7640ecb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/1100/regulation/10) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-832f9bb5269729027c9545e4d7640ecb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/1100/regulation/10) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-572f9974491dc8fb4da3305f46a66b86]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/10/1/b) substituted (3.4.2017) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2017 (S.I. 2017/140)](https://www.legislation.gov.uk/wsi/2017/140), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/2/2)
+[^c-572f9974491dc8fb4da3305f46a66b86]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/10/1/b) substituted (3.4.2017) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2017 (S.I. 2017/140)](https://www.legislation.gov.uk/wsi/2017/140), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/2/2)
 
-[^key-feff9d32b8ce01a1e9543a28db8a5c9e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/1100/regulation/11) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-feff9d32b8ce01a1e9543a28db8a5c9e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/1100/regulation/11) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00013]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-3badbcc2b6ac5f809b6cdb24da10e173]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/1100/regulation/12) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-3badbcc2b6ac5f809b6cdb24da10e173]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/1100/regulation/12) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-8a91c2c5f62ff35f6ec6f966aa1b6439]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2016/1100/regulation/13) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-8a91c2c5f62ff35f6ec6f966aa1b6439]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2016/1100/regulation/13) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-739539a8f5078a144b39101a392f7051]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2016/1100/regulation/14) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-739539a8f5078a144b39101a392f7051]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2016/1100/regulation/14) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00014]: Footnote: *See* Chapter 5 of Part 6 of the Act (review proceedings), in particular section 151 of the Act (review proceedings). The fitness to practise panel administers the system for the review of any conditions attached to a person’s ability to practise, suspension orders and undertakings which have been imposed or agreed (as the case may be) in respect of the person following fitness to practise proceedings..
 
@@ -764,11 +764,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: *See* section 164 of the Act for the meaning of “registered person” in Part 6 of the Act.
 
-[^key-30c7487cd7437d3fb74335d6b48d4896]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2016/1100/regulation/15) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-30c7487cd7437d3fb74335d6b48d4896]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2016/1100/regulation/15) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-bc5d81adbfd324211bea0c1fd739338b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2016/1100/regulation/16) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-bc5d81adbfd324211bea0c1fd739338b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2016/1100/regulation/16) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-2ef3186477026fea2f0370a66e8bddd1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2016/1100/regulation/17) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-2ef3186477026fea2f0370a66e8bddd1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2016/1100/regulation/17) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00017]: Footnote: *See* section 151(1) of the Act. Undertakings may be agreed under section 136(1), 152(5) or (6), 153(4), 154(4) or 155(7) of the Act.
 
@@ -776,56 +776,56 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: *See* section 151(5) of the Act.
 
-[^key-afe27bec817821c7e71b58744d57139a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2016/1100/regulation/18) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-afe27bec817821c7e71b58744d57139a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2016/1100/regulation/18) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-78a9a7d8aaa4b76cf692eac474739138]: Textual amendment: Word in [reg. 18(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/18/1/b) substituted (1.4.2026) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2026 (W.S.I. 2026/28)](https://www.legislation.gov.uk/wsi/2026/28), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/28/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/28/regulation/2/2)
+[^c-78a9a7d8aaa4b76cf692eac474739138]: Textual amendment: Word in [reg. 18(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/18/1/b) substituted (1.4.2026) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2026 (W.S.I. 2026/28)](https://www.legislation.gov.uk/wsi/2026/28), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/28/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/28/regulation/2/2)
 
-[^key-b52295609589fc6d02bb6f4027cb944b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2016/1100/regulation/19) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-b52295609589fc6d02bb6f4027cb944b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2016/1100/regulation/19) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-c9e9cc6a7aa0926aeae7097f65d7acdc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2016/1100/regulation/20) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-c9e9cc6a7aa0926aeae7097f65d7acdc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2016/1100/regulation/20) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-8d8156d6bbce2e1adb26820044c3ddc4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2016/1100/regulation/21) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-8d8156d6bbce2e1adb26820044c3ddc4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2016/1100/regulation/21) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-3a0f974f0e2908c254d291b1b2bf0621]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2016/1100/regulation/22) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-3a0f974f0e2908c254d291b1b2bf0621]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2016/1100/regulation/22) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-85c5404197bc7d030823add38ae29640]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2016/1100/regulation/23) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-85c5404197bc7d030823add38ae29640]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2016/1100/regulation/23) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-bf8252ace8cb0751741d858250b47b41]: Textual amendment: [Reg. 23(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/23/1/b) substituted (3.4.2017) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2017 (S.I. 2017/140)](https://www.legislation.gov.uk/wsi/2017/140), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2017/140/regulation/2/3)
+[^c-bf8252ace8cb0751741d858250b47b41]: Textual amendment: [Reg. 23(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/23/1/b) substituted (3.4.2017) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2017 (S.I. 2017/140)](https://www.legislation.gov.uk/wsi/2017/140), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2017/140/regulation/2/3)
 
-[^key-25c4d48a9eb3461ca2a77a53970ba10f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2016/1100/regulation/24) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-25c4d48a9eb3461ca2a77a53970ba10f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2016/1100/regulation/24) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00020]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 
-[^key-b87e7d4e5613afaa96173bfec5b057b4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2016/1100/regulation/25) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-b87e7d4e5613afaa96173bfec5b057b4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2016/1100/regulation/25) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-9e85ecd44d810a4e508df1b9c556251f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2016/1100/regulation/26) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-9e85ecd44d810a4e508df1b9c556251f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2016/1100/regulation/26) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-ac4b99e90a2117b0dba663705faed86d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2016/1100/regulation/27) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-ac4b99e90a2117b0dba663705faed86d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2016/1100/regulation/27) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
 [^f00021]: Footnote: *See* Chapter 4 of Part 6 to the Act (interim orders and review of interim orders). Interim order proceedings are undertaken to enable temporary restrictions to be imposed in respect of a registered person while investigations are undertaken into allegations made against the person about their fitness to practise. If the making of an interim order is considered to be necessary, a matter may be referred to a fitness to practise panel or an interim orders panel (see Part 3 for provision about the procedure of fitness to practise panels).
 
 [^f00022]: Footnote: *See* section 164 of the Act for the meaning of “registered person” in Part 6 of the Act.
 
-[^key-02429b6246729a959637a63506eb78c2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2016/1100/regulation/28) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-02429b6246729a959637a63506eb78c2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2016/1100/regulation/28) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-8cbdf11ba7f39e9c7e21058d1713c6e1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2016/1100/regulation/29) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-8cbdf11ba7f39e9c7e21058d1713c6e1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2016/1100/regulation/29) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-980c7186a2d4c6f4b0410303041552af]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2016/1100/regulation/30) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-980c7186a2d4c6f4b0410303041552af]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2016/1100/regulation/30) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-d3c6f5f84d20daaa6a2a91b7fadcb4bd]: Textual amendment: Word in [reg. 30(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/30/1/b) substituted (1.4.2026) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2026 (W.S.I. 2026/28)](https://www.legislation.gov.uk/wsi/2026/28), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/28/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/28/regulation/2/3)
+[^c-d3c6f5f84d20daaa6a2a91b7fadcb4bd]: Textual amendment: Word in [reg. 30(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/30/1/b) substituted (1.4.2026) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2026 (W.S.I. 2026/28)](https://www.legislation.gov.uk/wsi/2026/28), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/28/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/28/regulation/2/3)
 
-[^key-2a81bd3ded1cd51d7c30879036c07c3c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2016/1100/regulation/31) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-2a81bd3ded1cd51d7c30879036c07c3c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2016/1100/regulation/31) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-0fda96d66b177964dbe4cb9776cb540e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2016/1100/regulation/32) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-0fda96d66b177964dbe4cb9776cb540e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2016/1100/regulation/32) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-0a3e4e0c7a8ed7af6682596054fc07ea]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2016/1100/regulation/33) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-0a3e4e0c7a8ed7af6682596054fc07ea]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2016/1100/regulation/33) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-76671fd23a1e02e48fd387956cb5e261]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2016/1100/regulation/34) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-76671fd23a1e02e48fd387956cb5e261]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2016/1100/regulation/34) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-0283bb09ad5b9a111ca14f4081b0b683]: Textual amendment: [Reg. 34(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/34/1/b) substituted (3.4.2017) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2017 (S.I. 2017/140)](https://www.legislation.gov.uk/wsi/2017/140), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2017/140/regulation/2/4)
+[^c-0283bb09ad5b9a111ca14f4081b0b683]: Textual amendment: [Reg. 34(1)(b)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/34/1/b) substituted (3.4.2017) by [The Social Care Wales (Proceedings before Panels) (Amendment) Regulations 2017 (S.I. 2017/140)](https://www.legislation.gov.uk/wsi/2017/140), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/140/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2017/140/regulation/2/4)
 
-[^key-b435b8233e1abada8a65457689431f5d]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2016/1100/regulation/35) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-b435b8233e1abada8a65457689431f5d]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2016/1100/regulation/35) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-1eacdd89e5a65fcd23e9e51829fa1f16]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2016/1100/regulation/36) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-1eacdd89e5a65fcd23e9e51829fa1f16]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2016/1100/regulation/36) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
 
-[^key-78abf29ec4e7ae851e103b54d13d6185]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2016/1100/regulation/37) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)
+[^c-78abf29ec4e7ae851e103b54d13d6185]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2016/1100/regulation/37) in force at 3.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1100/regulation/1/2)

@@ -30,7 +30,7 @@ summary: ''
 
 (2) The provisions are—
 
-- (a) sections 8 to 11, 35 to 38, 45 to 48[^key-9a284934407b568d4d1f74745df95d50], 55 to 58 and 68; and
+- (a) sections 8 to 11, 35 to 38, 45 to 48[^c-9a284934407b568d4d1f74745df95d50], 55 to 58 and 68; and
 - (b) regulations under section 54.
 
 (3) Her Majesty may by Order in Council direct that a reference in subsection (1) to a ship or aircraft registered in the United Kingdom is to be construed as including a reference to a ship or aircraft—
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a284934407b568d4d1f74745df95d50]: Textual amendment: Word in s. 119(2)(a) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 259(7)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/259/7/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))
+[^c-9a284934407b568d4d1f74745df95d50]: Textual amendment: Word in s. 119(2)(a) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 259(7)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/259/7/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))

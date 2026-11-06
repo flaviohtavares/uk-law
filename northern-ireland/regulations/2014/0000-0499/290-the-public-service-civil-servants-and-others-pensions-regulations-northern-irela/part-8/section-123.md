@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Invalid nominations of individuals[^key-aeda51f6a3502b6dfe3d3b91a18659d5]
+## 123. Invalid nominations of individuals[^c-aeda51f6a3502b6dfe3d3b91a18659d5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeda51f6a3502b6dfe3d3b91a18659d5]: Commencement: [Reg. 123](https://www.legislation.gov.uk/nisr/2014/290/regulation/123) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-aeda51f6a3502b6dfe3d3b91a18659d5]: Commencement: [Reg. 123](https://www.legislation.gov.uk/nisr/2014/290/regulation/123) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

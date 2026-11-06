@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Provision of information to the Secretary of State[^key-fce433145669921bcd7f0264ae06cd89]
+## 60. Provision of information to the Secretary of State[^c-fce433145669921bcd7f0264ae06cd89]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the postal administration ends pursuant to paragraphs 79, 83 or 84 of Sche
 
 ## Annotations
 
-[^key-fce433145669921bcd7f0264ae06cd89]: Commencement: Rule 60 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-fce433145669921bcd7f0264ae06cd89]: Commencement: Rule 60 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

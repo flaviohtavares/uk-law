@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Form, grounds and period for rejecting public body’s notice[^key-4149df6ce674f1196c4328e05246df4e]
+## 25. Form, grounds and period for rejecting public body’s notice[^c-4149df6ce674f1196c4328e05246df4e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4149df6ce674f1196c4328e05246df4e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/1268/regulation/25) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-4149df6ce674f1196c4328e05246df4e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/1268/regulation/25) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

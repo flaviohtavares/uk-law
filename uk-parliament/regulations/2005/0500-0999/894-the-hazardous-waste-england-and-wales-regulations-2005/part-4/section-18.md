@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-For the purposes of these Regulations, hazardous waste of any description shall be considered to have been mixed if it has been diluted or has been[^key-595c284fc53b1139fb51b93363000764] mixed with—
+For the purposes of these Regulations, hazardous waste of any description shall be considered to have been mixed if it has been diluted or has been[^c-595c284fc53b1139fb51b93363000764] mixed with—
 
 - (a) a different category of hazardous waste;
-- (aa)[^key-92a57d6336d9ccea3d808a6a22aff8c1] in the case of hazardous waste comprising waste oil, waste oil of different characteristics;
+- (aa)[^c-92a57d6336d9ccea3d808a6a22aff8c1] in the case of hazardous waste comprising waste oil, waste oil of different characteristics;
 - (b) a non-hazardous waste; or
 - (c) any other substance or material.
 
 ## Annotations
 
-[^key-595c284fc53b1139fb51b93363000764]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2005/894/regulation/18) inserted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/8/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-595c284fc53b1139fb51b93363000764]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2005/894/regulation/18) inserted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/8/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-92a57d6336d9ccea3d808a6a22aff8c1]: Textual amendment: [Reg. 18(aa)](https://www.legislation.gov.uk/uksi/2005/894/regulation/18/aa) inserted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/8/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-92a57d6336d9ccea3d808a6a22aff8c1]: Textual amendment: [Reg. 18(aa)](https://www.legislation.gov.uk/uksi/2005/894/regulation/18/aa) inserted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/8/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

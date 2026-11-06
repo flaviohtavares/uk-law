@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Power to designate person to exercise functions under this Part[^key-644d8f7cebc828905a9c4fcecfb61ae3][^key-2279987807ed6579717dd575ace757ff]
+## 92. Power to designate person to exercise functions under this Part[^c-644d8f7cebc828905a9c4fcecfb61ae3][^c-2279987807ed6579717dd575ace757ff]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-644d8f7cebc828905a9c4fcecfb61ae3]: Commencement: S. 92 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-644d8f7cebc828905a9c4fcecfb61ae3]: Commencement: S. 92 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2279987807ed6579717dd575ace757ff]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2025/34/section/92) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-2279987807ed6579717dd575ace757ff]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2025/34/section/92) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

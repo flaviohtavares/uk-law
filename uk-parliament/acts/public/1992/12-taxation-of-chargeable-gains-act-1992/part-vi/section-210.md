@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Life assurance and deferred annuities.[^key-9b72754a97d51168d259355079b39aa4]
+## 210. Life assurance and deferred annuities.[^c-9b72754a97d51168d259355079b39aa4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,16 +40,16 @@ do not constitute actual consideration.
 
 (5) And for those purposes actual consideration for—
 
-- (a) a disposal which is made by one spouse or civil partner[^key-1587c768f6a4a53295065e040d18ed69] to the other or is an approved post-marriage disposal or an approved post-civil partnership disposal[^key-d62f42b347d80e3a70f0d043afb3c59a], or
+- (a) a disposal which is made by one spouse or civil partner[^c-1587c768f6a4a53295065e040d18ed69] to the other or is an approved post-marriage disposal or an approved post-civil partnership disposal[^c-d62f42b347d80e3a70f0d043afb3c59a], or
 - (b) a disposal to which section 171(1) applies,
 
 is to be treated as not constituting actual consideration.
 
-(6) For the purposes of subsection (5)(a) above a disposal is an approved post-marriage disposal or an approved post-civil partnership disposal[^key-a9e78c22abeb0b32c4c2716216816ce8] if—
+(6) For the purposes of subsection (5)(a) above a disposal is an approved post-marriage disposal or an approved post-civil partnership disposal[^c-a9e78c22abeb0b32c4c2716216816ce8] if—
 
-- (a) it is made in consequence of the dissolution or annulment of a marriage or civil partnership[^key-357df856f8a127fd7ea9f96eda795a9a] by one person who was a party to the marriage or civil partnership to the other,
+- (a) it is made in consequence of the dissolution or annulment of a marriage or civil partnership[^c-357df856f8a127fd7ea9f96eda795a9a] by one person who was a party to the marriage or civil partnership to the other,
 - (b) it is made with the approval, agreement or authority of a court (or other person or body) having jurisdiction under the law of any country or territory or pursuant to an order of such a court (or other person or body), and
-- (c) the rights disposed of were, or the interest disposed of was, held by the person by whom the disposal is made immediately before the marriage or civil partnership[^key-138ee8d3cd9ee2d73a5d3b7201a8132b] was dissolved or annulled.
+- (c) the rights disposed of were, or the interest disposed of was, held by the person by whom the disposal is made immediately before the marriage or civil partnership[^c-138ee8d3cd9ee2d73a5d3b7201a8132b] was dissolved or annulled.
 
 (7) Subsection (8) below applies for the purposes of tax on chargeable gains where—
 
@@ -86,14 +86,14 @@ and no gain accruing on any subsequent disposal of, or of any interest in, the r
 
 ## Annotations
 
-[^key-9b72754a97d51168d259355079b39aa4]: Textual amendment: S. 210 substituted (with effect in accordance with s. 157(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/157/1)
+[^c-9b72754a97d51168d259355079b39aa4]: Textual amendment: S. 210 substituted (with effect in accordance with s. 157(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/157/1)
 
-[^key-1587c768f6a4a53295065e040d18ed69]: Textual amendment: Words in s. 210(5)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(2)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/2/a)
+[^c-1587c768f6a4a53295065e040d18ed69]: Textual amendment: Words in s. 210(5)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(2)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/2/a)
 
-[^key-d62f42b347d80e3a70f0d043afb3c59a]: Textual amendment: Words in s. 210(5)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(2)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/2/b)
+[^c-d62f42b347d80e3a70f0d043afb3c59a]: Textual amendment: Words in s. 210(5)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(2)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/2/b)
 
-[^key-a9e78c22abeb0b32c4c2716216816ce8]: Textual amendment: Words in s. 210(6) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(3)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/3/a)
+[^c-a9e78c22abeb0b32c4c2716216816ce8]: Textual amendment: Words in s. 210(6) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(3)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/3/a)
 
-[^key-357df856f8a127fd7ea9f96eda795a9a]: Textual amendment: Words in s. 210(6)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(3)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/3/b)
+[^c-357df856f8a127fd7ea9f96eda795a9a]: Textual amendment: Words in s. 210(6)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(3)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/3/b)
 
-[^key-138ee8d3cd9ee2d73a5d3b7201a8132b]: Textual amendment: Words in s. 210(6)(c) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(3)(c)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/3/c)
+[^c-138ee8d3cd9ee2d73a5d3b7201a8132b]: Textual amendment: Words in s. 210(6)(c) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [116(3)(c)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/116/3/c)

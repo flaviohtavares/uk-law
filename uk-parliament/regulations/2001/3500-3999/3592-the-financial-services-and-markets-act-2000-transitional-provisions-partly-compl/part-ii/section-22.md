@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Prohibition in relation to investment services under the ISD Regulations or the 2BCD Regulations: time for reference expired[^key-3f7e941a11b10f4d894460be00c04256]
+## 22. Prohibition in relation to investment services under the ISD Regulations or the 2BCD Regulations: time for reference expired[^c-3f7e941a11b10f4d894460be00c04256]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ it is to be treated as if section 199 had applied in its case and it had been im
 
 ## Annotations
 
-[^key-3f7e941a11b10f4d894460be00c04256]: Commencement: Art. 22 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-3f7e941a11b10f4d894460be00c04256]: Commencement: Art. 22 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

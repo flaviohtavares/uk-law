@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Disclosure period: adjournment or deferral[^key-50f69ee8901df53d9c98c3ecdfc9908e]
+## 24. Disclosure period: adjournment or deferral[^c-50f69ee8901df53d9c98c3ecdfc9908e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50f69ee8901df53d9c98c3ecdfc9908e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/14/section/24) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-50f69ee8901df53d9c98c3ecdfc9908e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/14/section/24) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

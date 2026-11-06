@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Bovine Spongiform Encephalopathy Order (Northern Ireland) 1997 (revoked)[^key-672938210be1bcefff2af4972b4343e7]
+Bovine Spongiform Encephalopathy Order (Northern Ireland) 1997 (revoked)[^c-672938210be1bcefff2af4972b4343e7]
 
 Made
 
@@ -40,91 +40,91 @@ Coming into operation
 
 1st January 1998
 
-[^key-672938210be1bcefff2af4972b4343e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-672938210be1bcefff2af4972b4343e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I — Introductory[^key-672938210be1bcefff2af4972b4343e7]
+## Part I — Introductory[^c-672938210be1bcefff2af4972b4343e7]
 
-### 1. Citation and commencement[^key-672938210be1bcefff2af4972b4343e7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-672938210be1bcefff2af4972b4343e7]
+### 1. Citation and commencement[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Extension of definitions of animals and poultry[^key-672938210be1bcefff2af4972b4343e7]
+### 2. Interpretation[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Existence of the Disease[^key-672938210be1bcefff2af4972b4343e7]
-
-### 4. Notification of disease in animals[^key-672938210be1bcefff2af4972b4343e7]
+### 3. Extension of definitions of animals and poultry[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Veterinary enquiry as to existence of disease[^key-672938210be1bcefff2af4972b4343e7]
+## Part II — Existence of the Disease[^c-672938210be1bcefff2af4972b4343e7]
+
+### 4. Notification of disease in animals[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Affected or suspected and exposed animals[^key-672938210be1bcefff2af4972b4343e7]
+### 5. Veterinary enquiry as to existence of disease[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Restrictions on the movement of other bovine animals[^key-672938210be1bcefff2af4972b4343e7]
+### 6. Affected or suspected and exposed animals[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Carcases of affected, suspected or exposed animals[^key-672938210be1bcefff2af4972b4343e7]
+### 7. Restrictions on the movement of other bovine animals[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Cleansing and disinfection[^key-672938210be1bcefff2af4972b4343e7]
+### 8. Carcases of affected, suspected or exposed animals[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — Controls on Protein etc.[^key-672938210be1bcefff2af4972b4343e7]
-
-### 10. Milk from affected or suspected animals[^key-672938210be1bcefff2af4972b4343e7]
+### 9. Cleansing and disinfection[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Prohibition on sale, supply and use of certain feedingstuffs for feeding to animals and poultry[^key-672938210be1bcefff2af4972b4343e7]
+## Part III — Controls on Protein etc.[^c-672938210be1bcefff2af4972b4343e7]
+
+### 10. Milk from affected or suspected animals[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Records relating to mammalian meat and bone meal[^key-672938210be1bcefff2af4972b4343e7]
+### 11. Prohibition on sale, supply and use of certain feedingstuffs for feeding to animals and poultry[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Cleansing and disinfection[^key-672938210be1bcefff2af4972b4343e7]
+### 12. Records relating to mammalian meat and bone meal[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Samples[^key-672938210be1bcefff2af4972b4343e7]
+### 13. Cleansing and disinfection[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part IV — Miscellaneous[^key-672938210be1bcefff2af4972b4343e7]
-
-### 15. Production of licences[^key-672938210be1bcefff2af4972b4343e7]
+### 14. Samples[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Returns from market operators[^key-672938210be1bcefff2af4972b4343e7]
+## Part IV — Miscellaneous[^c-672938210be1bcefff2af4972b4343e7]
+
+### 15. Production of licences[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Revocations[^key-672938210be1bcefff2af4972b4343e7]
+### 16. Returns from market operators[^c-672938210be1bcefff2af4972b4343e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-672938210be1bcefff2af4972b4343e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. Revocations[^c-672938210be1bcefff2af4972b4343e7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-672938210be1bcefff2af4972b4343e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-672938210be1bcefff2af4972b4343e7]
+## SCHEDULE 1[^c-672938210be1bcefff2af4972b4343e7]
 
 The Diseases of Animals (Northern Ireland) Order 1981
 
@@ -134,7 +134,7 @@ Article 6(1), (2) and (3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-672938210be1bcefff2af4972b4343e7]
+## SCHEDULE 2[^c-672938210be1bcefff2af4972b4343e7]
 
 The Diseases of Animals (Northern Ireland) Order 1981
 
@@ -144,7 +144,7 @@ Article 6(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-672938210be1bcefff2af4972b4343e7]
+## SCHEDULE 3[^c-672938210be1bcefff2af4972b4343e7]
 
 The Diseases of Animals (Northern Ireland) Order 1981
 
@@ -156,8 +156,8 @@ Article 6(7)
 
 **May not be in force at this date. Check the source.**
 
-[^key-672938210be1bcefff2af4972b4343e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-672938210be1bcefff2af4972b4343e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-672938210be1bcefff2af4972b4343e7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/553) revoked (3.9.1999) by [Bovine Spongiform Encephalopathy Order (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/322)](https://www.legislation.gov.uk/nisr/1999/322), [arts. 1](https://www.legislation.gov.uk/nisr/1999/322/article/1), [17](https://www.legislation.gov.uk/nisr/1999/322/article/17)
+[^c-672938210be1bcefff2af4972b4343e7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/553) revoked (3.9.1999) by [Bovine Spongiform Encephalopathy Order (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/322)](https://www.legislation.gov.uk/nisr/1999/322), [arts. 1](https://www.legislation.gov.uk/nisr/1999/322/article/1), [17](https://www.legislation.gov.uk/nisr/1999/322/article/17)

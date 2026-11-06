@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Delegation of functions by Greater London Authority[^key-e466a8ffaeaf327231a810ac98683815]
+## 35. Delegation of functions by Greater London Authority[^c-e466a8ffaeaf327231a810ac98683815]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ do not prevent the Mayor of London and the London Assembly from exercising those
 
 ## Annotations
 
-[^key-e466a8ffaeaf327231a810ac98683815]: Commencement: S. 35 in force at 7.6.2012 by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/f)
+[^c-e466a8ffaeaf327231a810ac98683815]: Commencement: S. 35 in force at 7.6.2012 by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/f)

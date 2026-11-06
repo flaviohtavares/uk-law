@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. Appointment of mission and pastoral committees[^key-44b924bece3995ac63b4bf304dbeebfb]
+## 2. Appointment of mission and pastoral committees[^c-44b924bece3995ac63b4bf304dbeebfb]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44b924bece3995ac63b4bf304dbeebfb]: Commencement: S. 2 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-44b924bece3995ac63b4bf304dbeebfb]: Commencement: S. 2 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

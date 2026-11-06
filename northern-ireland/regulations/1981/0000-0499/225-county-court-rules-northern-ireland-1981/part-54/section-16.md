@@ -22,7 +22,7 @@ summary: ''
 
 (1) The provisions of Rule 1 of Order 14 with any necessary modifications shall apply to an application under Article 16(6) of the 1988 Order (applications to extend time for making or serving any report, notice or application referred to in Article 5(4), 5(5)(*a*) or 11(1)) or under Article 15 of the 1988 Order (applications for declaration as to delay in determining compensation) as if it were an interlocutory application in the course of an action or matter.
 
-(2)[^key-eec607e15bfea272c9f70523f01eb475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eec607e15bfea272c9f70523f01eb475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Notice of an application under Article 16(6) of the 1988 Order shall be in Form 359.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eec607e15bfea272c9f70523f01eb475]: Textual amendment: Order 54 rule 16(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [art. 3(22)(e)](https://www.legislation.gov.uk/nisr/2016/302/article/3/22/e), [rule 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-eec607e15bfea272c9f70523f01eb475]: Textual amendment: Order 54 rule 16(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [art. 3(22)(e)](https://www.legislation.gov.uk/nisr/2016/302/article/3/22/e), [rule 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

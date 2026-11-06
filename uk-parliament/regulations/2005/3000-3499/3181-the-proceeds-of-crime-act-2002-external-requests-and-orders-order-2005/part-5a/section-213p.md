@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213P. Articles 213L to 213O: appeals[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213P. Articles 213L to 213O: appeals[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ Paragraphs (c) and (d) do not apply if the application for the order under artic
 (3) An appeal under this article lies—
 
 - (a) in relation to England and Wales, to the Crown Court;
-- (b) in relation to Scotland, to the Sheriff Appeal Court ;[^key-fc229cdf495fab3bd7bff72d0ad5432c]
+- (b) in relation to Scotland, to the Sheriff Appeal Court ;[^c-fc229cdf495fab3bd7bff72d0ad5432c]
 - (c) in relation to Northern Ireland, to a county court.
 
 (4) An appeal under this article must be made before the end of the period of 30 days starting with the day on which the court makes the order or decision.
@@ -45,6 +45,6 @@ Paragraphs (c) and (d) do not apply if the application for the order under artic
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-fc229cdf495fab3bd7bff72d0ad5432c]: Textual amendment: [Art. 213P(3)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/213P/3/c) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [14](https://www.legislation.gov.uk/uksi/2021/638/article/14)
+[^c-fc229cdf495fab3bd7bff72d0ad5432c]: Textual amendment: [Art. 213P(3)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/213P/3/c) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [14](https://www.legislation.gov.uk/uksi/2021/638/article/14)

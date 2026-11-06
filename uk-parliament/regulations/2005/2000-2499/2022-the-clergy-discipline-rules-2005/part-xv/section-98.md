@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 98. Removal of limited prohibition: priests and deacons[^key-ce449c5b582261bc54823fc517ef70fc]
+## 98. Removal of limited prohibition: priests and deacons[^c-ce449c5b582261bc54823fc517ef70fc]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce449c5b582261bc54823fc517ef70fc]: Commencement: [Rule 98](https://www.legislation.gov.uk/uksi/2005/2022/rule/98) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-ce449c5b582261bc54823fc517ef70fc]: Commencement: [Rule 98](https://www.legislation.gov.uk/uksi/2005/2022/rule/98) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

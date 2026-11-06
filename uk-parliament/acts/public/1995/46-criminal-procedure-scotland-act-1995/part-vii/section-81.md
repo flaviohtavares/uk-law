@@ -29,7 +29,7 @@ summary: ''
 - (a) shall have regard to the state of preparation of the prosecutor and the accused with respect to their cases and, in particular, to the likelihood of the case being ready to proceed to trial on the date to be appointed for the trial diet; and
 - (b) may, if it appears to the court that there are any preliminary pleas, preliminary issues or other matters which require to be, or could with advantage be, disposed of or ascertained before the trial diet, appoint a diet to be held before the trial diet for the purpose of disposing of or, as the case may be, ascertaining them.
 
-(4) Subsection (5) below applies where, in any proceedings on indictment in which a trial diet has been appointed [^key-d57a6acdbafa4885462106cc5d29104b]...—
+(4) Subsection (5) below applies where, in any proceedings on indictment in which a trial diet has been appointed [^c-d57a6acdbafa4885462106cc5d29104b]...—
 
 - (a) the diet has been deserted *pro loco et tempore* for any reason and no further trial diet has been appointed under subsection (2) above; or
 - (b) the indictment falls or is for any other reason not brought to trial and the diet has not been continued, adjourned or postponed.
@@ -38,9 +38,9 @@ summary: ''
 
 - (a) where the trial diet referred to in subsection (4) above was in the High Court—
   - (i) at a further preliminary hearing in that Court not less than seven clear days after service of the notice; or
-  - (ii)[^key-17af203632899cf81b3f956379ef0ce6] where the charge is one that can lawfully be tried in the sheriff court, at a first diet in that court not less than 21 clear days after service of the notice; or
+  - (ii)[^c-17af203632899cf81b3f956379ef0ce6] where the charge is one that can lawfully be tried in the sheriff court, at a first diet in that court not less than 21 clear days after service of the notice; or
 - (b) where the trial diet referred to in subsection (4) was in the sheriff court—
-  - (i) at a first diet[^key-3e3271228db5259a5fc0dafc57a8f704] in that court not less than seven clear days after service of the notice; or
+  - (i) at a first diet[^c-3e3271228db5259a5fc0dafc57a8f704] in that court not less than seven clear days after service of the notice; or
   - (ii) at a preliminary hearing in the High Court not less than 21 clear days after service of the notice.
 
 (6) Where notice is given to the accused under paragraph (a)(ii) or (b)(ii) of subsection (5) above, then for the purposes of section 65(4) of this Act—
@@ -65,8 +65,8 @@ summary: ''
 
 [^c18991591]: Textual amendment: S. 81 substituted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 9](https://www.legislation.gov.uk/asp/2004/5/section/9), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3)) (as amended (31.1.2005) by [S.S.I. 2005/40](https://www.legislation.gov.uk/ssi/2005/40), [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/40/article/3/2) (subject to [art. 1(3)](https://www.legislation.gov.uk/ssi/2005/40/article/1/3)))
 
-[^key-d57a6acdbafa4885462106cc5d29104b]: Textual amendment: Words in s. 81(4) omitted (31.7.2017) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential and Transitional Provisions) Regulations 2017 (S.S.I. 2017/221)](https://www.legislation.gov.uk/ssi/2017/221), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/221/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/221/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/221/regulation/3))
+[^c-d57a6acdbafa4885462106cc5d29104b]: Textual amendment: Words in s. 81(4) omitted (31.7.2017) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential and Transitional Provisions) Regulations 2017 (S.S.I. 2017/221)](https://www.legislation.gov.uk/ssi/2017/221), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/221/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/221/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/221/regulation/3))
 
-[^key-17af203632899cf81b3f956379ef0ce6]: Textual amendment: S. 81(5)(a)(ii) substituted (31.7.2017) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Transitional Provisions) Regulations 2017 (S.S.I. 2017/221)](https://www.legislation.gov.uk/ssi/2017/221), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/221/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/221/regulation/2/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/221/regulation/4))
+[^c-17af203632899cf81b3f956379ef0ce6]: Textual amendment: S. 81(5)(a)(ii) substituted (31.7.2017) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Transitional Provisions) Regulations 2017 (S.S.I. 2017/221)](https://www.legislation.gov.uk/ssi/2017/221), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/221/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/221/regulation/2/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/221/regulation/4))
 
-[^key-3e3271228db5259a5fc0dafc57a8f704]: Textual amendment: Words in s. 81(5)(b)(i) substituted (31.7.2017) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Transitional Provisions) Regulations 2017 (S.S.I. 2017/221)](https://www.legislation.gov.uk/ssi/2017/221), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/221/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2017/221/regulation/2/2/c)
+[^c-3e3271228db5259a5fc0dafc57a8f704]: Textual amendment: Words in s. 81(5)(b)(i) substituted (31.7.2017) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Transitional Provisions) Regulations 2017 (S.S.I. 2017/221)](https://www.legislation.gov.uk/ssi/2017/221), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/221/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2017/221/regulation/2/2/c)

@@ -46,7 +46,7 @@ summary: ''
 
 (4) In this section—
 
-- “**the Mergers Directive**” means Council Directive [2009/133/EC](https://www.legislation.gov.uk/european/directive/2009/0133)[^key-9ba22717d13ca181c0f2e3f687cab74e],
+- “**the Mergers Directive**” means Council Directive [2009/133/EC](https://www.legislation.gov.uk/european/directive/2009/0133)[^c-9ba22717d13ca181c0f2e3f687cab74e],
 - “**SCE**” means an SCE formed in accordance with Council Regulation [(EC) 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society, and
 - “**SE**” means an SE formed in accordance with Council Regulation [(EC) 2157/2001](https://www.legislation.gov.uk/european/regulation/2001/2157) on the Statute for a European Company.
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ba22717d13ca181c0f2e3f687cab74e]: Textual amendment: Word in s. 110(4) substituted (1.7.2011) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2011 (S.I. 2011/1431)](https://www.legislation.gov.uk/uksi/2011/1431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1431/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2011/1431/regulation/3)
+[^c-9ba22717d13ca181c0f2e3f687cab74e]: Textual amendment: Word in s. 110(4) substituted (1.7.2011) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2011 (S.I. 2011/1431)](https://www.legislation.gov.uk/uksi/2011/1431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1431/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2011/1431/regulation/3)

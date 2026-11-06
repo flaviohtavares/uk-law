@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Expunging of proof by the court[^key-88e1bff9b255f6bf255f582d3b395e6f]
+## 67. Expunging of proof by the court[^c-88e1bff9b255f6bf255f582d3b395e6f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.091 of the 1991 Rules.
 
 ## Annotations
 
-[^key-88e1bff9b255f6bf255f582d3b395e6f]: Commencement: Rule 67 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-88e1bff9b255f6bf255f582d3b395e6f]: Commencement: Rule 67 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

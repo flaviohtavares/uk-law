@@ -34,7 +34,7 @@ he may, within six weeks from the relevant date, make an application under this 
 - (a) any decision of the Secretary of State on an application for scheduled monument consent; and
 - (b) the giving by the Secretary of State of any direction under section 4 of this Act modifying or revoking a scheduled monument consent.
 
-(3A)[^key-b2fcab81ca28bf4c20c5927eac55a038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-b2fcab81ca28bf4c20c5927eac55a038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (1) above “**the relevant date**” means—
 
@@ -93,7 +93,7 @@ he may, within six weeks from the relevant date, make an application under this 
 
 [^M_E_802e44ec-84c1-4db2-aea9-2d6560854682]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-b2fcab81ca28bf4c20c5927eac55a038]: Textual amendment: [S. 55(3A)](https://www.legislation.gov.uk/ukpga/1979/46/section/55/3A) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 46](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/46) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-b2fcab81ca28bf4c20c5927eac55a038]: Textual amendment: [S. 55(3A)](https://www.legislation.gov.uk/ukpga/1979/46/section/55/3A) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 46](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/46) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c251093]: Marginal citation: [1971 c. 62](https://www.legislation.gov.uk/ukpga/1971/62).
 

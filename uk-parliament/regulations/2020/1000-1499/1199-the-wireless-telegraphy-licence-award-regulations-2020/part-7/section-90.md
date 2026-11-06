@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Rejection of full adjacency agreement forms submitted to OFCOM at a time outside the first phase and second phase of the negotiation period[^key-9191e45765100f586194b2fc5d3220a7]
+## 90. Rejection of full adjacency agreement forms submitted to OFCOM at a time outside the first phase and second phase of the negotiation period[^c-9191e45765100f586194b2fc5d3220a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9191e45765100f586194b2fc5d3220a7]: Commencement: Reg. 90 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-9191e45765100f586194b2fc5d3220a7]: Commencement: Reg. 90 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

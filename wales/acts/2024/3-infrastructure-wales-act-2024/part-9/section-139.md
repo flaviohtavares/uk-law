@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Duties to publish[^key-e89a7fa447e1b3eef8c5197a4404d805]
+## 139. Duties to publish[^c-e89a7fa447e1b3eef8c5197a4404d805]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89a7fa447e1b3eef8c5197a4404d805]: Commencement: S. 139 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-e89a7fa447e1b3eef8c5197a4404d805]: Commencement: S. 139 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

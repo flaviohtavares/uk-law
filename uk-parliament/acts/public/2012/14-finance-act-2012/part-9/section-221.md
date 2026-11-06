@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Treasury may by regulations make provision about the tax consequences in relation to securities of any regulatory requirement imposed, or which appears to the Treasury likely to be imposed,[^key-48cc64bc8e3046c2cd81ec28f30628e3] by any EU legislation (whenever adopted) or enactment on—
+(1) The Treasury may by regulations make provision about the tax consequences in relation to securities of any regulatory requirement imposed, or which appears to the Treasury likely to be imposed,[^c-48cc64bc8e3046c2cd81ec28f30628e3] by any EU legislation (whenever adopted) or enactment on—
 
 - (a) persons who are authorised persons for the purposes of the Financial Services and Markets Act 2000 (see section 31 of that Act), or
 - (b) parent undertakings (as defined in section 420 of that Act) of such persons.
@@ -45,7 +45,7 @@ is to be construed as a reference to that legislation, enactment, document or pr
 - (c) may make different provision for different cases or different purposes, and
 - (d) may include incidental, consequential, supplementary or transitional provision.
 
-(4A)[^key-102efa6337e849a6defe9488a7675379] Where regulations under this section make provision about the tax consequences of any regulatory requirement which appears to the Treasury likely to be imposed by any EU legislation or enactment—
+(4A)[^c-102efa6337e849a6defe9488a7675379] Where regulations under this section make provision about the tax consequences of any regulatory requirement which appears to the Treasury likely to be imposed by any EU legislation or enactment—
 
 - (a) the regulations may be made (and, accordingly, may have effect) before the proposed legislation or enactment is adopted, passed or made, and
 - (b) failure after the regulations are made to adopt, pass or make the proposed legislation or enactment does not affect the validity of the regulations.
@@ -67,6 +67,6 @@ is to be construed as a reference to that legislation, enactment, document or pr
 
 ## Annotations
 
-[^key-48cc64bc8e3046c2cd81ec28f30628e3]: Textual amendment: Words in s. 221(1) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 295(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/295/2)
+[^c-48cc64bc8e3046c2cd81ec28f30628e3]: Textual amendment: Words in s. 221(1) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 295(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/295/2)
 
-[^key-102efa6337e849a6defe9488a7675379]: Textual amendment: S. 221(4A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 295(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/295/3)
+[^c-102efa6337e849a6defe9488a7675379]: Textual amendment: S. 221(4A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 295(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/295/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Enforcement in relation to regulation 8 and Part 13, market surveillance and further matters[^key-4a1fbedd8db826ce0a12a9ef062bd2d0]
+## 80. Enforcement in relation to regulation 8 and Part 13, market surveillance and further matters[^c-4a1fbedd8db826ce0a12a9ef062bd2d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ has effect.
 
 ## Annotations
 
-[^key-4a1fbedd8db826ce0a12a9ef062bd2d0]: Textual amendment: Pt. 14 reg. 80 substituted for Pt. 14 reg. 45 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/8/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-4a1fbedd8db826ce0a12a9ef062bd2d0]: Textual amendment: Pt. 14 reg. 80 substituted for Pt. 14 reg. 45 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/8/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

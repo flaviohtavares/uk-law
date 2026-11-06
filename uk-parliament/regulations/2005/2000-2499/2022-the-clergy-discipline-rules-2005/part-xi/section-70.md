@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 70. Application to review decision to impose penalty[^key-689844ddbd452ccab47934d112aba89b]
+## 70. Application to review decision to impose penalty[^c-689844ddbd452ccab47934d112aba89b]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
 
 and the archbishop shall arrange for it to be copied and sent or delivered to the bishop who made the decision.
 
-(2) The priest or deacon shall send or deliver to the archbishop with the application under paragraph[^key-90b266f712d96ec42b936c45f6a4f59f] (1) a copy of—
+(2) The priest or deacon shall send or deliver to the archbishop with the application under paragraph[^c-90b266f712d96ec42b936c45f6a4f59f] (1) a copy of—
 
 - (a) the notification of the bishop’s intention to impose the penalty,
 - (b) the representations made by the priest or deacon to the bishop, and
@@ -35,6 +35,6 @@ and the archbishop shall arrange for it to be copied and sent or delivered to th
 
 ## Annotations
 
-[^key-689844ddbd452ccab47934d112aba89b]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2005/2022/rule/70) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-689844ddbd452ccab47934d112aba89b]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2005/2022/rule/70) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)
+[^c-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)

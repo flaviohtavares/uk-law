@@ -31,7 +31,7 @@ the registrar must, on application, register the Church Commissioners, such eccl
 (2) The application must be accompanied by—
 
 - (a) a certificate by the Church Commissioners in Form 5, and
-- (b)[^key-4543640b9602265ee3fa95b1bca82428] one of the following, as appropriate—
+- (b)[^c-4543640b9602265ee3fa95b1bca82428] one of the following, as appropriate—
   - (i) a sealed copy of the scheme of the Church Commissioners,
   - (ii) a copy of the London Gazette publishing the instrument, or
   - (iii) the transfer.
@@ -42,4 +42,4 @@ the registrar must, on application, register the Church Commissioners, such eccl
 
 ## Annotations
 
-[^key-4543640b9602265ee3fa95b1bca82428]: Textual amendment: Rule 175(2)(b) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/53) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-4543640b9602265ee3fa95b1bca82428]: Textual amendment: Rule 175(2)(b) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/53) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

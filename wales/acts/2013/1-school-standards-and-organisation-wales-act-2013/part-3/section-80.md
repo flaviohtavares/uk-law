@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Notice by governing body to discontinue foundation or voluntary school[^key-e6742d3bf100217e6cc033cf9a8a10e4][^key-b68642232d57c00982e46b4cc530764b]
+## 80. Notice by governing body to discontinue foundation or voluntary school[^c-e6742d3bf100217e6cc033cf9a8a10e4][^c-b68642232d57c00982e46b4cc530764b]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) by the Welsh Ministers, or
 - (b) by any local authority.
 
-(3) The governing body must consult the Commission for Tertiary Education and Research[^key-540ccaa9ed41759b090283223caf4635] before giving a notice under this section if discontinuing the school would affect the facilities for full-time education suitable to the requirements of persons over compulsory school age who have not attained the age of 19.
+(3) The governing body must consult the Commission for Tertiary Education and Research[^c-540ccaa9ed41759b090283223caf4635] before giving a notice under this section if discontinuing the school would affect the facilities for full-time education suitable to the requirements of persons over compulsory school age who have not attained the age of 19.
 
 (4) If, while a notice under this section is in force, the governing body informs the local authority that it is unable or unwilling to carry on the school until the notice expires, the authority—
 
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6742d3bf100217e6cc033cf9a8a10e4]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2013/1/section/80) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-e6742d3bf100217e6cc033cf9a8a10e4]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2013/1/section/80) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
 
-[^key-b68642232d57c00982e46b4cc530764b]: Modification: [S. 80](https://www.legislation.gov.uk/anaw/2013/1/section/80) modified (W.) (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (No. 1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [58(5)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/58/5)
+[^c-b68642232d57c00982e46b4cc530764b]: Modification: [S. 80](https://www.legislation.gov.uk/anaw/2013/1/section/80) modified (W.) (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (No. 1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [58(5)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/58/5)
 
-[^key-540ccaa9ed41759b090283223caf4635]: Textual amendment: Words in [s. 80(3)](https://www.legislation.gov.uk/anaw/2013/1/section/80/3) substituted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(9)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/9) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 7(1)](https://www.legislation.gov.uk/wsi/2025/432/article/7/1) (with [art. 7(2)](https://www.legislation.gov.uk/wsi/2025/432/article/7/2))
+[^c-540ccaa9ed41759b090283223caf4635]: Textual amendment: Words in [s. 80(3)](https://www.legislation.gov.uk/anaw/2013/1/section/80/3) substituted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(9)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/9) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 7(1)](https://www.legislation.gov.uk/wsi/2025/432/article/7/1) (with [art. 7(2)](https://www.legislation.gov.uk/wsi/2025/432/article/7/2))

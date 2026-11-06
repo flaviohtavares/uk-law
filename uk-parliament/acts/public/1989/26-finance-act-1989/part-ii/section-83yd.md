@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83YD. FAFTS: deduction in subsequent periods of account[^key-4eb0a31203ad5674ab8c0070ce443a04]
+## 83YD. FAFTS: deduction in subsequent periods of account[^c-4eb0a31203ad5674ab8c0070ce443a04]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eb0a31203ad5674ab8c0070ce443a04]: Textual amendment: Ss. 83YC-83YF omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/56)
+[^c-4eb0a31203ad5674ab8c0070ce443a04]: Textual amendment: Ss. 83YC-83YF omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/56)

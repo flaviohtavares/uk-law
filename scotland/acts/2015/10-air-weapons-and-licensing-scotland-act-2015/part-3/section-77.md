@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Deemed grant of applications[^key-b6c47c7af6d63e46ca748f4966b7e916]
+## 77. Deemed grant of applications[^c-b6c47c7af6d63e46ca748f4966b7e916]
 
 *Extent: S*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6c47c7af6d63e46ca748f4966b7e916]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2015/10/section/77) in force at 1.5.2017 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/307/article/4))
+[^c-b6c47c7af6d63e46ca748f4966b7e916]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2015/10/section/77) in force at 1.5.2017 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/307/article/4))

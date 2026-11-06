@@ -22,9 +22,9 @@ summary: ''
 
 Section 88
 
-**1.**[^key-399e5c78d72767f3e43efb210ec02862] The Crime and Disorder Act 1998 is amended as follows.
+**1.**[^c-399e5c78d72767f3e43efb210ec02862] The Crime and Disorder Act 1998 is amended as follows.
 
-**2.**[^key-1f170486529578420d948cfa2c3263f9] (1) Section 5 (authorities responsible for strategies) is amended as follows.
+**2.**[^c-1f170486529578420d948cfa2c3263f9] (1) Section 5 (authorities responsible for strategies) is amended as follows.
 
 (2)[^M_I_b8680421-1d04-4e53-a218-ff3a51170155] Omit subsection (1)(c).
 
@@ -63,7 +63,7 @@ Section 88
 - (a) the word “and” at the end of the definition of “fire and rescue authority”, and
 - (b) the definition of “police authority”.
 
-**3.**[^key-dcb9f570d61e073d36976b7d8de1b281] After section 5 insert—
+**3.**[^c-dcb9f570d61e073d36976b7d8de1b281] After section 5 insert—
 
 > **5A. Combination agreements: further provision**
 >
@@ -100,7 +100,7 @@ Section 88
 
 .
 
-**4.**[^key-a2f60bd9fa2f72bbfa0192c155f4610f] (1) Section 6 (formulation and implementation of strategies) is amended as follows.
+**4.**[^c-a2f60bd9fa2f72bbfa0192c155f4610f] (1) Section 6 (formulation and implementation of strategies) is amended as follows.
 
 (2) In subsection (1), after “section 5” insert “ , with subsection (1A), ”.
 
@@ -126,7 +126,7 @@ Section 88
 
 .
 
-**5.**[^key-e7224a728ce4d6c03a7abd5089a70f1f] (1) Section 7 (supplemental) is amended as follows.
+**5.**[^c-e7224a728ce4d6c03a7abd5089a70f1f] (1) Section 7 (supplemental) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -163,14 +163,14 @@ Section 88
 
 ## Annotations
 
-[^key-399e5c78d72767f3e43efb210ec02862]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-399e5c78d72767f3e43efb210ec02862]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-1f170486529578420d948cfa2c3263f9]: Commencement: Sch. 11 para. 2(1)(3)-(8) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/6/a)) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/d))
+[^c-1f170486529578420d948cfa2c3263f9]: Commencement: Sch. 11 para. 2(1)(3)-(8) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/6/a)) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/d))
 
 [^M_I_b8680421-1d04-4e53-a218-ff3a51170155]: Commencement: Sch. 11 para. 2(2) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/f)
 
-[^key-dcb9f570d61e073d36976b7d8de1b281]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-dcb9f570d61e073d36976b7d8de1b281]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-a2f60bd9fa2f72bbfa0192c155f4610f]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/4) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/f)
+[^c-a2f60bd9fa2f72bbfa0192c155f4610f]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/4) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/f)
 
-[^key-e7224a728ce4d6c03a7abd5089a70f1f]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/6/b))
+[^c-e7224a728ce4d6c03a7abd5089a70f1f]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/6/b))

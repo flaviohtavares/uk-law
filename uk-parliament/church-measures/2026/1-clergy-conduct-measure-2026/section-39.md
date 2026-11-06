@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 39. Exercise of power under section 38[^key-5df660c795c08c3f526f98f9d0f5f5af]
+## 39. Exercise of power under section 38[^c-5df660c795c08c3f526f98f9d0f5f5af]
 
 *Extent: E*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5df660c795c08c3f526f98f9d0f5f5af]: Commencement: S. 39 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-5df660c795c08c3f526f98f9d0f5f5af]: Commencement: S. 39 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

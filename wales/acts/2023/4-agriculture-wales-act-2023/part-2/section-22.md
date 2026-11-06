@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Exceptional market conditions: powers available to Welsh Ministers[^key-3c1559d465dcb3056b4db02c78560abc][^key-0564b0b018152c92a6c966d4100c00c1]
+## 22. Exceptional market conditions: powers available to Welsh Ministers[^c-3c1559d465dcb3056b4db02c78560abc][^c-0564b0b018152c92a6c966d4100c00c1]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c1559d465dcb3056b4db02c78560abc]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-3c1559d465dcb3056b4db02c78560abc]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-0564b0b018152c92a6c966d4100c00c1]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2023/4/section/22) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/a)
+[^c-0564b0b018152c92a6c966d4100c00c1]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2023/4/section/22) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/a)

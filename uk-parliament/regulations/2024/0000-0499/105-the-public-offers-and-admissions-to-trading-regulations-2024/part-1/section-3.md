@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation[^key-15a608883c2e3cb69c47348fd06ddc11]
+## 3. Interpretation[^c-15a608883c2e3cb69c47348fd06ddc11]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-15a608883c2e3cb69c47348fd06ddc11]: Commencement: Reg. 3 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-15a608883c2e3cb69c47348fd06ddc11]: Commencement: Reg. 3 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
 
 [^f00007]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 

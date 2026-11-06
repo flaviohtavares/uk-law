@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Assistance[^key-a6750a50c95e1d842414adaf674a5407]
+## 111. Assistance[^c-a6750a50c95e1d842414adaf674a5407]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In section 35 of the 2005 Act (the title of which becomes “ Assistance ”)—
 
 ## Annotations
 
-[^key-a6750a50c95e1d842414adaf674a5407]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2012/8/section/111) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-a6750a50c95e1d842414adaf674a5407]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2012/8/section/111) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

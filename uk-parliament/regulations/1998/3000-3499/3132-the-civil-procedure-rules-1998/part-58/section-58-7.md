@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58.7. Disputing the court’s jurisdiction[^key-255c3f534ee6812a0c822c87113f2483]
+## 58.7. Disputing the court’s jurisdiction[^c-255c3f534ee6812a0c822c87113f2483]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-255c3f534ee6812a0c822c87113f2483]: Textual amendment: Pt. 58 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/4015/schedule/2)
+[^c-255c3f534ee6812a0c822c87113f2483]: Textual amendment: Pt. 58 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/4015/schedule/2)

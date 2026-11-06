@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Power to amend thresholds[^key-da25643626c39bc94e93be2d35258344][^key-2be1b0895076bd0bddaf822f52d5c0bf]
+## 288. Power to amend thresholds[^c-da25643626c39bc94e93be2d35258344][^c-2be1b0895076bd0bddaf822f52d5c0bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da25643626c39bc94e93be2d35258344]: Commencement: S. 288 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-da25643626c39bc94e93be2d35258344]: Commencement: S. 288 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-2be1b0895076bd0bddaf822f52d5c0bf]: Commencement: [S. 288](https://www.legislation.gov.uk/ukpga/2023/52/section/288) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(x)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/x)
+[^c-2be1b0895076bd0bddaf822f52d5c0bf]: Commencement: [S. 288](https://www.legislation.gov.uk/ukpga/2023/52/section/288) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(x)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/x)

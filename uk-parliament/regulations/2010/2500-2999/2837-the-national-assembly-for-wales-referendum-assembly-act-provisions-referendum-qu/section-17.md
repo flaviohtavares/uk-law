@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Supply of full register to the Commission[^key-b2d6616a10281ba761bf7a7c0ac7bc0c]
+## 17. Supply of full register to the Commission[^c-b2d6616a10281ba761bf7a7c0ac7bc0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 100 (supply of free copy of full register etc. to Commission and rest
 
 ## Annotations
 
-[^key-b2d6616a10281ba761bf7a7c0ac7bc0c]: Commencement: Art. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b2d6616a10281ba761bf7a7c0ac7bc0c]: Commencement: Art. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80.25. Consideration of the Secretary of State’s objection or application[^key-b0028ea3ea761f9d3071a1825db0843b]
+## 80.25. Consideration of the Secretary of State’s objection or application[^c-b0028ea3ea761f9d3071a1825db0843b]
 
 *Extent: E+W*
 
 (1) This rule applies where the Secretary of State has—
 
-- (a) objected under rule 80.21(5)(b) to a proposed communication by the special advocate or to the form in which it is proposed to be made[^key-fab18927585c47a89768ea40cdd2c0c2]; or
+- (a) objected under rule 80.21(5)(b) to a proposed communication by the special advocate or to the form in which it is proposed to be made[^c-fab18927585c47a89768ea40cdd2c0c2]; or
 - (b) applied under rule 80.24 for permission to withhold closed material.
 
 (2) The court must fix a hearing for the Secretary of State and the special advocate to make oral representations, unless—
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
+[^c-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
 
-[^key-fab18927585c47a89768ea40cdd2c0c2]: Textual amendment: Words in rule 80.25(1)(a) inserted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [7](https://www.legislation.gov.uk/uksi/2015/877/rule/7)
+[^c-fab18927585c47a89768ea40cdd2c0c2]: Textual amendment: Words in rule 80.25(1)(a) inserted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [7](https://www.legislation.gov.uk/uksi/2015/877/rule/7)

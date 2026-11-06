@@ -38,10 +38,10 @@ summary: ''
   - (ii) outside the United Kingdom other than in an EEA state,
 
   in accordance with the law of England and Wales, including any applicable provision in or made under the Companies Act;
-- (b) in the case of an energy supply company incorporated in an EEA state [^key-b4eff2f07535e5ede4808b9cf24c34db]..., in accordance with the law of the state applicable to meetings of the company.
+- (b) in the case of an energy supply company incorporated in an EEA state [^c-b4eff2f07535e5ede4808b9cf24c34db]..., in accordance with the law of the state applicable to meetings of the company.
 
 (6) The chair of the meeting must cause minutes of its proceedings to be entered in the energy supply company's minute book.
 
 ## Annotations
 
-[^key-b4eff2f07535e5ede4808b9cf24c34db]: Textual amendment: Words in [rule 34(5)(b)](https://www.legislation.gov.uk/uksi/2013/1046/rule/34/5/b) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [82](https://www.legislation.gov.uk/uksi/2019/530/regulation/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4eff2f07535e5ede4808b9cf24c34db]: Textual amendment: Words in [rule 34(5)(b)](https://www.legislation.gov.uk/uksi/2013/1046/rule/34/5/b) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [82](https://www.legislation.gov.uk/uksi/2019/530/regulation/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

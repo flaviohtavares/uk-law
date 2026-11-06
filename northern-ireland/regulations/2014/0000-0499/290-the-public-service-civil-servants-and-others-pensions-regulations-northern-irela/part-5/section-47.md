@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Establishment of deferred member’s account[^key-9483d7bb4e470fdb20686fe028df3ef4]
+## 47. Establishment of deferred member’s account[^c-9483d7bb4e470fdb20686fe028df3ef4]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9483d7bb4e470fdb20686fe028df3ef4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2014/290/regulation/47) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-9483d7bb4e470fdb20686fe028df3ef4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2014/290/regulation/47) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

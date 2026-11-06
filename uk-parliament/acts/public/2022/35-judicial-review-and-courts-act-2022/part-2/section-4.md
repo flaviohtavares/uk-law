@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Guilty plea in writing: extension to proceedings following police charge[^key-511d03ca7da20163bb4de224ea3a111d]
+## 4. Guilty plea in writing: extension to proceedings following police charge[^c-511d03ca7da20163bb4de224ea3a111d]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-511d03ca7da20163bb4de224ea3a111d]: Commencement: S. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-511d03ca7da20163bb4de224ea3a111d]: Commencement: S. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

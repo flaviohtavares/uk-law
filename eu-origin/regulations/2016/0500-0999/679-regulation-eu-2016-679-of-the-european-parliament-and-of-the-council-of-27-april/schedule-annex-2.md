@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX 2 — PURPOSE LIMITATION: PROCESSING TO BE TREATED AS COMPATIBLE WITH ORIGINAL PURPOSE[^key-2c575bb5d43b6db252e3c4ddb5f12243]
+## ANNEX 2 — PURPOSE LIMITATION: PROCESSING TO BE TREATED AS COMPATIBLE WITH ORIGINAL PURPOSE[^c-2c575bb5d43b6db252e3c4ddb5f12243]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ This condition is met where the processing is necessary for the purposes of comp
 
 ## Annotations
 
-[^key-2c575bb5d43b6db252e3c4ddb5f12243]: Textual amendment: Annex 2 inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/5); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z7)
+[^c-2c575bb5d43b6db252e3c4ddb5f12243]: Textual amendment: Annex 2 inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/5); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z7)

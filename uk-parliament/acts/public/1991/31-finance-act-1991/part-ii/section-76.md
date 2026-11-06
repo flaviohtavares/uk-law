@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-aa5c68381b30840c935792f4cd3b1db3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-aa5c68381b30840c935792f4cd3b1db3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 230 of the [^c12037271]Income and Corporation Taxes Act 1970 (from which section 656 of the Taxes Act 1988 is derived) shall be deemed always to have had effect as if the subsections (7) to (9) set out in subsection (1) above had been contained in that section as subsections (8) to (10) respectively, but with the substitution for “(2)(a)” and “(4)(c)”, in each place where they occur, of “(2A)(a) ” and “(3)(c) ” respectively.
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5c68381b30840c935792f4cd3b1db3]: Textual amendment: [S. 76(1)](https://www.legislation.gov.uk/ukpga/1991/31/section/76/1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/b)
+[^c-aa5c68381b30840c935792f4cd3b1db3]: Textual amendment: [S. 76(1)](https://www.legislation.gov.uk/ukpga/1991/31/section/76/1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/b)
 
 [^c12037271]: Marginal citation: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10).
 

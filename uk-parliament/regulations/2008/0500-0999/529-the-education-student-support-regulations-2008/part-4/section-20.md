@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Standard entitlement of current system students on end-on courses and certain degree courses[^key-f66c8ea9014ba68e13e50b21c4eadd8c]
+## 20. Standard entitlement of current system students on end-on courses and certain degree courses[^c-f66c8ea9014ba68e13e50b21c4eadd8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ where
 
 ## Annotations
 
-[^key-f66c8ea9014ba68e13e50b21c4eadd8c]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-f66c8ea9014ba68e13e50b21c4eadd8c]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

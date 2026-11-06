@@ -41,21 +41,21 @@ summary: ''
 
 (3) The premises referred to in paragraph (1)(b) do not include—
 
-- (a) the homes of patients; [^key-a0a0c6da8878530aa2d3071014defc9d]...
-- (b) any other premises where services are provided on an emergency basis ; or[^key-3088f965bbeabc20c47903b1e696ac4a]
+- (a) the homes of patients; [^c-a0a0c6da8878530aa2d3071014defc9d]...
+- (b) any other premises where services are provided on an emergency basis ; or[^c-3088f965bbeabc20c47903b1e696ac4a]
 - (c) premises where services are provided under regulation 13A (services: remote provision outside practice premises).
 
-(4)[^key-673ae059417cf5cad2f9005f4dfc5c82] An agreement must specify that where the contractor proposes to provide private services in addition to primary medical services, to persons other than its patients the provision must take place—
+(4)[^c-673ae059417cf5cad2f9005f4dfc5c82] An agreement must specify that where the contractor proposes to provide private services in addition to primary medical services, to persons other than its patients the provision must take place—
 
 - (a) outside of the hours the contractor has agreed to provide primary medical services; and
-- (b) on no part of any practice premises in respect of which NHS England[^key-9520329cffeb7671913a444ac58ebf84] has agreed with that contractor to make payments in relation to the costs of those premises save where the private services are those specified in regulation 18(2B).
+- (b) on no part of any practice premises in respect of which NHS England[^c-9520329cffeb7671913a444ac58ebf84] has agreed with that contractor to make payments in relation to the costs of those premises save where the private services are those specified in regulation 18(2B).
 
 ## Annotations
 
-[^key-a0a0c6da8878530aa2d3071014defc9d]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/13/3) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/2/a)
+[^c-a0a0c6da8878530aa2d3071014defc9d]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/13/3) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/2/a)
 
-[^key-3088f965bbeabc20c47903b1e696ac4a]: Textual amendment: [Reg. 13(3)(c)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/13/3/c) and word inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/2/b)
+[^c-3088f965bbeabc20c47903b1e696ac4a]: Textual amendment: [Reg. 13(3)(c)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/13/3/c) and word inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/2/b)
 
-[^key-673ae059417cf5cad2f9005f4dfc5c82]: Textual amendment: Reg. 13(4) inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/1137/regulation/19)
+[^c-673ae059417cf5cad2f9005f4dfc5c82]: Textual amendment: Reg. 13(4) inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/1137/regulation/19)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Transitional provision of marketing[^key-fd408ef4cc26b3b40650386249a4dda8]
+## 17. Transitional provision of marketing[^c-fd408ef4cc26b3b40650386249a4dda8]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ Where the Department has received an application for consent to market genetical
 
 ## Annotations
 
-[^key-fd408ef4cc26b3b40650386249a4dda8]: Commencement: Reg. 17 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-fd408ef4cc26b3b40650386249a4dda8]: Commencement: Reg. 17 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Co-operation in certain cases involving children[^key-87db68398dab67138961f4bcb60ef5b4]
+## 96. Co-operation in certain cases involving children[^c-87db68398dab67138961f4bcb60ef5b4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87db68398dab67138961f4bcb60ef5b4]: Commencement: [S. 96](https://www.legislation.gov.uk/anaw/2014/7/section/96) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 47](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/47)
+[^c-87db68398dab67138961f4bcb60ef5b4]: Commencement: [S. 96](https://www.legislation.gov.uk/anaw/2014/7/section/96) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 47](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/47)

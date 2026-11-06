@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.1. When this Part applies[^key-d7e04d656d27c2c5a9cdac48361a5483]
+## 17.1. When this Part applies[^c-d7e04d656d27c2c5a9cdac48361a5483]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ This Part applies in magistrates’ courts and in the Crown Court where—
 
 ## Annotations
 
-[^key-d7e04d656d27c2c5a9cdac48361a5483]: Commencement: [Rule 17.1](https://www.legislation.gov.uk/uksi/2025/909/rule/17.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d7e04d656d27c2c5a9cdac48361a5483]: Commencement: [Rule 17.1](https://www.legislation.gov.uk/uksi/2025/909/rule/17.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00423]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 97 was amended by sections 13 and 14 of, and paragraph 7 of Schedule 2 to, the Contempt of Court Act [1981 (c. 47)](https://www.legislation.gov.uk/ukpga/1981/47), section 31 of, and paragraph 2 of Schedule 4 to, the Criminal Justice (International Co-operation) Act [1990 (c. 5)](https://www.legislation.gov.uk/ukpga/1990/5), sections 17 and 65 of, and paragraph 6 of Schedule 3 and Part I of Schedule 4 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), section 65 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36), section 51 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 169 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and section 17 of, and paragraph 99 of Schedule 10 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 

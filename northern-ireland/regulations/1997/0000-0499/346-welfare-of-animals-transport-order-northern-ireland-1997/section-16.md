@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Third countries[^key-5174cffdb691f0d8c1e177cf06d6883e]
+## 16. Third countries[^c-5174cffdb691f0d8c1e177cf06d6883e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5174cffdb691f0d8c1e177cf06d6883e]: Commencement: Art. 16 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-5174cffdb691f0d8c1e177cf06d6883e]: Commencement: Art. 16 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

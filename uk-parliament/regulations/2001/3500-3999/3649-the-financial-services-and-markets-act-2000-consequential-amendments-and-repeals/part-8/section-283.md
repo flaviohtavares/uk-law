@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 283. Insurance against accidents to voluntary assistants[^key-ad0dd1e0517b22739b1133864d2b71c6]
+## 283. Insurance against accidents to voluntary assistants[^c-ad0dd1e0517b22739b1133864d2b71c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0dd1e0517b22739b1133864d2b71c6]: Commencement: Art. 283 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ad0dd1e0517b22739b1133864d2b71c6]: Commencement: Art. 283 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00204]: Footnote: Section 140C was inserted by the Local Government (Miscellaneous Provisions) Act [1982 (c. 30)](https://www.legislation.gov.uk/ukpga/1982/30) s. 39(2) and subsection (1) has been amended by the Insurance Companies Act [1982 (c. 50)](https://www.legislation.gov.uk/ukpga/1982/50) Schedule 5, paragraph 13.

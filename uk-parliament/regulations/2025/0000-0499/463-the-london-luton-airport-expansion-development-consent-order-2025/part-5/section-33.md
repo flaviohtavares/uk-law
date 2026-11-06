@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Temporary use of land for carrying out the authorised development[^key-5647b424366d7f911d89cb79d96d8006]
+## 33. Temporary use of land for carrying out the authorised development[^c-5647b424366d7f911d89cb79d96d8006]
 
 *Extent: E+W*
 
@@ -55,13 +55,13 @@ summary: ''
 
 (9) Where the undertaker takes possession of land under this article, the undertaker is not required to acquire the land or any interest in it.
 
-(10) Section 13[^f00085] (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125[^f00086] [^key-b7ac6785c91df9ef1b3750f9ea912572]... (application of compulsory acquisition provisions) of the 2008 Act.
+(10) Section 13[^f00085] (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125[^f00086] [^c-b7ac6785c91df9ef1b3750f9ea912572]... (application of compulsory acquisition provisions) of the 2008 Act.
 
 (11) Nothing in this article prevents the taking of temporary possession more than once in relation to any land specified in paragraph (1).
 
 ## Annotations
 
-[^key-5647b424366d7f911d89cb79d96d8006]: Commencement: Art. 33 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-5647b424366d7f911d89cb79d96d8006]: Commencement: Art. 33 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00084]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -69,4 +69,4 @@ summary: ''
 
 [^f00086]: Footnote: Section 125 was amended by paragraph 17 of Schedule 16 to the Housing and Planning Act 2016.
 
-[^key-b7ac6785c91df9ef1b3750f9ea912572]: Textual amendment: Words in [art. 33(10)](https://www.legislation.gov.uk/uksi/2025/463/article/33/10) deleted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-b7ac6785c91df9ef1b3750f9ea912572]: Textual amendment: Words in [art. 33(10)](https://www.legislation.gov.uk/uksi/2025/463/article/33/10) deleted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)

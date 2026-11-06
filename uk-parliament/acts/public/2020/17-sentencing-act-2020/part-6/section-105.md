@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Youth offender panel: change of residence[^key-fb68cb7a6e979fac6b407aa5ccbd392b]
+## 105. Youth offender panel: change of residence[^c-fb68cb7a6e979fac6b407aa5ccbd392b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ This is subject to subsection (4).
 
 ## Annotations
 
-[^key-fb68cb7a6e979fac6b407aa5ccbd392b]: Commencement: S. 105 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fb68cb7a6e979fac6b407aa5ccbd392b]: Commencement: S. 105 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

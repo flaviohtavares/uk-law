@@ -50,7 +50,7 @@ The powers exercised by the Commissioners for Her Majesty’s Revenue and Custom
 
 ## PART 1 — General
 
-### 1. Citation, commencement, effect and interpretation[^key-7da910733ace2ca913c030628b185eb3]
+### 1. Citation, commencement, effect and interpretation[^c-7da910733ace2ca913c030628b185eb3]
 
 (1) These Regulations may be cited as the Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013.
 
@@ -62,17 +62,17 @@ The powers exercised by the Commissioners for Her Majesty’s Revenue and Custom
 
 (5) In these Regulations “the 2001 Regulations” mean the Social Security (Contributions) Regulations 2001[^f00007].
 
-### 2. Amendment of the 2001 Regulations[^key-a60f8cbe29a31d7da55cf559b395c042]
+### 2. Amendment of the 2001 Regulations[^c-a60f8cbe29a31d7da55cf559b395c042]
 
 The 2001 Regulations are amended as provided for in regulations 3 to 28 and 33 to 40.
 
 ## PART 2 — Closure of the Simplified Deduction Scheme
 
-### 3. Amendment of regulation 90NA[^key-dacc3b3939c516adfd96d15667e85912]
+### 3. Amendment of regulation 90NA[^c-dacc3b3939c516adfd96d15667e85912]
 
 In regulation 90NA (employers) omit paragraph (1)(d) (but not the “and” after it).
 
-### 4. Amendment of Schedule 4[^key-6853c5a6e2b50848a14e3b6e6da391d3]
+### 4. Amendment of Schedule 4[^c-6853c5a6e2b50848a14e3b6e6da391d3]
 
 (1) Schedule 4 (provisions derived from the Income Tax Acts and the Income Tax (Pay As You Earn) Regulations 2003)[^f00008] is amended as follows.
 
@@ -88,29 +88,29 @@ In regulation 90NA (employers) omit paragraph (1)(d) (but not the “and” afte
 
 ### CHAPTER 1 — Real Time Information
 
-#### 5. Amendment of Schedule 4 (provisions derived from the Income Tax Acts and the Income Tax (Pay As Your Earn) Regulations 2003[^key-5ab356c1c7c4eb9b705f2c39bef17364]
+#### 5. Amendment of Schedule 4 (provisions derived from the Income Tax Acts and the Income Tax (Pay As Your Earn) Regulations 2003[^c-5ab356c1c7c4eb9b705f2c39bef17364]
 
 Schedule 4 (provisions derived from the Income Tax Acts and the Income Tax (Pay As You Earn) Regulations is amended as provided for in regulations 6 to 22.
 
-#### 6. Interpretation[^key-0ce6a95b118acb0de184fe75ce7ffa9d]
+#### 6. Interpretation[^c-0ce6a95b118acb0de184fe75ce7ffa9d]
 
 In paragraph 1 (interpretation) omit sub-paragraph (4)(c) (but not the “and” after it).
 
-#### 7. Payment of earnings-related contributions monthly by employer[^key-48a11b7c39747e83b0ab945f269138f8]
+#### 7. Payment of earnings-related contributions monthly by employer[^c-48a11b7c39747e83b0ab945f269138f8]
 
 In paragraph 10(3A) (payment of earnings-related contributions monthly by employer) after “applies” insert “, or failures rectified under paragraph 21EA(2)[^f00010]”.
 
-#### 8. Payments of earnings-related contributions quarterly by employer[^key-415af20028cd33f3050bd0e91b7b56b4]
+#### 8. Payments of earnings-related contributions quarterly by employer[^c-415af20028cd33f3050bd0e91b7b56b4]
 
 In paragraph 11(3A) (payments of earnings-related contributions quarterly by employer) after “applies” insert “, or failures rectified under paragraph 21EA(2)”.
 
-#### 9. Payments to and recoveries from HMRC for each tax period by Real Time Information employers: return under paragraph 21E(6) or 21EA(3)[^key-af94e99cc8dea37d9f643caceaa9fdca]
+#### 9. Payments to and recoveries from HMRC for each tax period by Real Time Information employers: return under paragraph 21E(6) or 21EA(3)[^c-af94e99cc8dea37d9f643caceaa9fdca]
 
 (1) In paragraph 11ZA(1) (payments to and recoveries from HMRC for each tax period by Real Time Information employers: returns under paragraph 21E(6)) after “21E(4)” insert “, or paragraph 21EA(3) (failure to make a return under paragraph 21A or 21D of Schedule 4)”.
 
 (2) Accordingly, in the heading of paragraph 11ZA after “21E(6)” insert “or 21EA(3)”.
 
-#### 10. Real Time returns of information about payments of general earnings[^key-9a54b29cad653d9e2ababf555dc9ebbe]
+#### 10. Real Time returns of information about payments of general earnings[^c-9a54b29cad653d9e2ababf555dc9ebbe]
 
 (1) Paragraph 21A (real time returns of information about payments of general earnings) is amended as follows.
 
@@ -125,7 +125,7 @@ In paragraph 11(3A) (payments of earnings-related contributions quarterly by emp
 
 (3) Omit sub-paragraphs (6) and (7).
 
-#### 11. Exceptions to paragraph 21A[^key-e1042b0f8cc5cff39ad357a183266458]
+#### 11. Exceptions to paragraph 21A[^c-e1042b0f8cc5cff39ad357a183266458]
 
 After paragraph 21A (real time returns of information about payments of general earnings) insert—
 
@@ -171,7 +171,7 @@ After paragraph 21A (real time returns of information about payments of general 
 
 .
 
-#### 12. Modification of the requirements of paragraph 21A: notional payments[^key-c2e749c9af8b5eba48c9ee3cc576ede1]
+#### 12. Modification of the requirements of paragraph 21A: notional payments[^c-c2e749c9af8b5eba48c9ee3cc576ede1]
 
 (1) Paragraph 21B (modification of the requirements of paragraph 21A: notional payments) is amended as follows.
 
@@ -179,7 +179,7 @@ After paragraph 21A (real time returns of information about payments of general 
 
 (3) In sub-paragraph (2) omit paragraph (b) (but not the “or” after it).
 
-#### 13. Notifications of payments of general earnings to and by providers of certain electronic payment methods[^key-09d042a41065ed8e90c858f5677fe1ae]
+#### 13. Notifications of payments of general earnings to and by providers of certain electronic payment methods[^c-09d042a41065ed8e90c858f5677fe1ae]
 
 After paragraph 21C (relationship between paragraph 21A and aggregation of earnings) insert—
 
@@ -201,7 +201,7 @@ After paragraph 21C (relationship between paragraph 21A and aggregation of earni
 
 .
 
-#### 14. Exceptions to paragraph 21A[^key-784e860a56450512be661fc999898e32]
+#### 14. Exceptions to paragraph 21A[^c-784e860a56450512be661fc999898e32]
 
 (1) Paragraph 21D (exceptions to paragraph 21A) is amended as follows.
 
@@ -232,7 +232,7 @@ After paragraph 21C (relationship between paragraph 21A and aggregation of earni
 
 .
 
-#### 15. Returns under paragraphs 21A and 21D: amendments[^key-c1813976796828875040d6b59c299245]
+#### 15. Returns under paragraphs 21A and 21D: amendments[^c-c1813976796828875040d6b59c299245]
 
 (1) Paragraph 21E (returns under paragraphs 21A and 21D: amendments) is amended as follows.
 
@@ -248,7 +248,7 @@ After paragraph 21C (relationship between paragraph 21A and aggregation of earni
 
   .
 
-**16.**[^key-b880f82d54fd186d61b291c9e72362a5] After paragraph 21E insert—
+**16.**[^c-b880f82d54fd186d61b291c9e72362a5] After paragraph 21E insert—
 
 > **21EA. Failure to make a return under paragraph 21A or 21D**
 >
@@ -270,7 +270,7 @@ After paragraph 21C (relationship between paragraph 21A and aggregation of earni
 
 .
 
-#### 17. Additional information about payments[^key-e5acfdfc90d34975d99a6bf0924e680c]
+#### 17. Additional information about payments[^c-e5acfdfc90d34975d99a6bf0924e680c]
 
 (1) Paragraph 21F (additional information about payments) is amended as follows
 
@@ -299,15 +299,15 @@ After paragraph 21C (relationship between paragraph 21A and aggregation of earni
 
 (4) Omit sub-paragraph (9).
 
-#### 18. Return by employer at end of year[^key-b66f001c27f8addabad2c4eeda838e5b]
+#### 18. Return by employer at end of year[^c-b66f001c27f8addabad2c4eeda838e5b]
 
 In paragraph 22(A1) (return by employer at end of year), for “regulation” substitute “paragraph”.
 
-#### 19. Requirement for security[^key-8c0da06f42310e8bf69598317941a08c]
+#### 19. Requirement for security[^c-8c0da06f42310e8bf69598317941a08c]
 
 In paragraph 29N (requirement for security) after “11” insert “, 11ZA”.
 
-#### 20. Direct collection involving deductions working sheets[^key-29de9e3f74efd60e64573a81ea5bbe35]
+#### 20. Direct collection involving deductions working sheets[^c-29de9e3f74efd60e64573a81ea5bbe35]
 
 After paragraph 30 (provisions for direct payment) insert—
 
@@ -321,13 +321,13 @@ After paragraph 30 (provisions for direct payment) insert—
 
 .
 
-**21.**[^key-9b5d3df2353b39a9ba7f2fae89f93fc6] (1) Paragraph 31 (direct collection involving deductions working sheets) is amended as follows.
+**21.**[^c-9b5d3df2353b39a9ba7f2fae89f93fc6] (1) Paragraph 31 (direct collection involving deductions working sheets) is amended as follows.
 
 (2) In sub-paragraph (1) after “and” in the second place it appears insert “, subject to paragraph 30A,”.
 
 (3) In sub-paragraphs (7A) and (7B), for “employer” substitute “employee”.
 
-**22.**[^key-3f457cc29e5b2b618abf97a0b2b57360] After paragraph 31 (direct collection involving deductions working sheets) insert—
+**22.**[^c-3f457cc29e5b2b618abf97a0b2b57360] After paragraph 31 (direct collection involving deductions working sheets) insert—
 
 > **31A. Direct collection involving deductions working sheets on and after 6th April 2014**
 >
@@ -343,25 +343,25 @@ After paragraph 30 (provisions for direct payment) insert—
 
 .
 
-#### 23. Real time returns[^key-c50aa7a17b2beb8be9a08bc7bccb711b]
+#### 23. Real time returns[^c-c50aa7a17b2beb8be9a08bc7bccb711b]
 
 Schedule 4A (real time returns)[^f00016] is amended as provided for in regulations 24 to 28.
 
-**24.**[^key-0c342b120cdb078d8d56787bd2a94a96] In paragraph 2 (information about the employer and the employee)for “4 and 18 to 14” substitute “6, 8 to 15 and 18 to 20”.
+**24.**[^c-0c342b120cdb078d8d56787bd2a94a96] In paragraph 2 (information about the employer and the employee)for “4 and 18 to 14” substitute “6, 8 to 15 and 18 to 20”.
 
-**25.**[^key-88f6efdcc00fe892da7a22024f22d847] After paragraph 2 insert—
+**25.**[^c-88f6efdcc00fe892da7a22024f22d847] After paragraph 2 insert—
 
 > **2A.** For the purposes of paragraph 2, the references in paragraphs 5 and 6 of Schedule A1 to the PAYE Regulations to regulation 67F of those Regulations[^f00017] shall be taken as references to paragraph 21F of Schedule 4 to these Regulations.
 
 .
 
-**26.**[^key-9571af7d72183932d30e2a96c3f43784] After paragraph 3 (information about payments to the employee, etc)—
+**26.**[^c-9571af7d72183932d30e2a96c3f43784] After paragraph 3 (information about payments to the employee, etc)—
 
 > **3A.** The total of the amounts referred to in paragraph 3 in the year to date.
 
 .
 
-**27.**[^key-e960258af1f20ae60a744540623e4ff7] For paragraph 12 substitute—
+**27.**[^c-e960258af1f20ae60a744540623e4ff7] For paragraph 12 substitute—
 
 > **12.** If the employee’s employment is contracted-out or was contracted-out at any time during the year—
 >
@@ -370,7 +370,7 @@ Schedule 4A (real time returns)[^f00016] is amended as provided for in regulatio
 
 .
 
-**28.**[^key-7ac9776dbd8db756c198e3f8cb693e11] After paragraph 12 insert—
+**28.**[^c-7ac9776dbd8db756c198e3f8cb693e11] After paragraph 12 insert—
 
 > **12A.** Whether, during the period since the employer last made a return under paragraph 21A or 21D of Schedule 4 containing information about the employee—
 >
@@ -392,7 +392,7 @@ Schedule 4A (real time returns)[^f00016] is amended as provided for in regulatio
 
 ### CHAPTER 2 — Real Time Information: transitional provisions
 
-#### 29. Information about employees[^key-67348bfcb58eaf1d0fe97d687f5b2f89]
+#### 29. Information about employees[^c-67348bfcb58eaf1d0fe97d687f5b2f89]
 
 On becoming a Real Time Information employer, an employer must provide to HMRC—
 
@@ -406,7 +406,7 @@ On becoming a Real Time Information employer, an employer must provide to HMRC�
   - (v) the employee’s address, and
   - (vi) the number used by the employer to identify the employee, if any.
 
-#### 30. Information about payments to employees[^key-633dbb18dcb4abf84ad475a092fbe870]
+#### 30. Information about payments to employees[^c-633dbb18dcb4abf84ad475a092fbe870]
 
 (1) Within one month of making the first return under paragraph 21A or 21D of Schedule 4 to the 2001 Regulations, a Real Time Information employer must provide to HMRC the information specified in paragraph (2) in respect of—
 
@@ -420,7 +420,7 @@ On becoming a Real Time Information employer, an employer must provide to HMRC�
 - (a) paragraphs 3A, 6 to 9, 10(b), 10(d) and 12 of Schedule 4A to the 2001 Regulations, and
 - (b) paragraphs 2 to 4 of Schedule A1 to the PAYE Regulations.
 
-#### 31. Provision of information under regulations 29 and 30[^key-ff96b6cf18ae23f00331835e5b81afde]
+#### 31. Provision of information under regulations 29 and 30[^c-ff96b6cf18ae23f00331835e5b81afde]
 
 (1) If an employer is one to whom paragraph (3) applies, the information required by regulation 27 must be provided before the employer makes any returns under paragraph 21A or 21D of Schedule 4 to the 2001 Regulations.
 
@@ -430,19 +430,19 @@ On becoming a Real Time Information employer, an employer must provide to HMRC�
 
 (4) The information required by regulations 29 and 30 must be provided using an approved method of electronic communications unless the employer is one to whom paragraph 21D of Schedule 4 to the 2001 Regulations applies in which case the information must be provided in the form specified by HMRC.
 
-#### 32. Regulations 29 to 31 interpretation[^key-87342890e1e464057517fcf9f90535ad]
+#### 32. Regulations 29 to 31 interpretation[^c-87342890e1e464057517fcf9f90535ad]
 
 Terms used in regulations 29 to 31 have the same meaning as they have in the 2001 Regulations.
 
 ## PART 4 — Other provisions relating to Class 1, 1A, 2 and 3 contributions
 
-### 33. Amendment of the Social Security (Contributions) Regulations 2001[^key-a89d43007c912cbd8ccf4dc5418db06f]
+### 33. Amendment of the Social Security (Contributions) Regulations 2001[^c-a89d43007c912cbd8ccf4dc5418db06f]
 
 In regulation 40 (prescribed general earnings in respect of which Class 1A contributions not payable) omit paragraph (2)(za).
 
-**34.**[^key-25a33e8c15b9a236a91e22f4638a264e] In regulation 48(3)(b) (Class 3 contributions) for “and 50B” substitute “, 50B and 50C”.
+**34.**[^c-25a33e8c15b9a236a91e22f4638a264e] In regulation 48(3)(b) (Class 3 contributions) for “and 50B” substitute “, 50B and 50C”.
 
-**35.**[^key-3dcfb7683123343c6a0120b623c837c7] After regulation 50B (Class 3 contributions: tax years 1993-94 to 2007-08) insert—
+**35.**[^c-3dcfb7683123343c6a0120b623c837c7] After regulation 50B (Class 3 contributions: tax years 1993-94 to 2007-08) insert—
 
 > **50C. Class 3 contributions: tax years 2006-07 to 2015-16: unavailability of pension statements 2013-14 to 2016-17**
 >
@@ -469,9 +469,9 @@ In regulation 40 (prescribed general earnings in respect of which Class 1A contr
 
 .
 
-**36.**[^key-d68c7b1f25602d4be96fd08557371935] In regulation 52A (return of contributions paid in excess of maxima prescribed in regulation 21) for “10.4%” in each place where it appears, substitute “10.6%”.
+**36.**[^c-d68c7b1f25602d4be96fd08557371935] In regulation 52A (return of contributions paid in excess of maxima prescribed in regulation 21) for “10.4%” in each place where it appears, substitute “10.6%”.
 
-**37.**[^key-9c27e4ade2682d0be2ed7e384e01f738] After regulation 61A (voluntary Class 2 contributions: tax years 1993-94 to 2007-08) insert—
+**37.**[^c-9c27e4ade2682d0be2ed7e384e01f738] After regulation 61A (voluntary Class 2 contributions: tax years 1993-94 to 2007-08) insert—
 
 > **61B. Voluntary Class 2 contributions: tax years 2006-07 to 2015-16: unavailability of pension statements 2013-14 to 2016-17**
 >
@@ -498,7 +498,7 @@ In regulation 40 (prescribed general earnings in respect of which Class 1A contr
 
 .
 
-**38.**[^key-50d7f4acd9b8d158ce3f9d4203a5234f] After regulation 63 (Class 2 contributions paid late in accordance with a payment undertaking) insert—
+**38.**[^c-50d7f4acd9b8d158ce3f9d4203a5234f] After regulation 63 (Class 2 contributions paid late in accordance with a payment undertaking) insert—
 
 > **63A. Collection of unpaid Class 2 contributions through PAYE code**
 >
@@ -521,13 +521,13 @@ In regulation 40 (prescribed general earnings in respect of which Class 1A contr
 
 .
 
-**39.**[^key-1224f4693dd6ff6ef4ac755be0d3ec4a] In Schedule 2 (calculation of earnings for the purposes of earnings-related contributions in particular cases) for paragraph 14(3) (valuation of non-cash meal vouchers) substitute—
+**39.**[^c-1224f4693dd6ff6ef4ac755be0d3ec4a] In Schedule 2 (calculation of earnings for the purposes of earnings-related contributions in particular cases) for paragraph 14(3) (valuation of non-cash meal vouchers) substitute—
 
 > (3) For the purposes of sub-paragraph (2) the chargeable expense shall be reduced by any part of that which the employed earner makes good to the person incurring it.
 
 .
 
-**40.**[^key-c9ea33783f664b68a44e65296ad52717] In Schedule 3 (payments to be disregarded in the calculation of earnings for the purposes of earnings-related contributions)—
+**40.**[^c-c9ea33783f664b68a44e65296ad52717] In Schedule 3 (payments to be disregarded in the calculation of earnings for the purposes of earnings-related contributions)—
 
 - (a) in Part 5 (certain non-cash vouchers to be disregarded as payments in kind)—
   - (i) omit paragraph 6A; and
@@ -540,15 +540,15 @@ In regulation 40 (prescribed general earnings in respect of which Class 1A contr
 
   .
 
-## PART 5 — Tax advisers: sanctionable conduct[^key-40201bf1bb66f1beb4bdb53cffbdda50]
+## PART 5 — Tax advisers: sanctionable conduct[^c-40201bf1bb66f1beb4bdb53cffbdda50]
 
-### 41. Application of Schedule 38 to the Finance Act 2012[^key-1be2e015a605d9e0ef3a31d3c654f109]
+### 41. Application of Schedule 38 to the Finance Act 2012[^c-1be2e015a605d9e0ef3a31d3c654f109]
 
-The provisions of Schedule 38 to the Finance Act 2012[^f00023] (tax advisers: sanctionable conduct[^key-c8d4b0ea7194a8e8697d2ae0c94866cd]) apply in relation to Class 1, Class 1A, Class 1B and Class 2 National Insurance contributions as in relation to tax to the extent that they do not already apply[^f00024].
+The provisions of Schedule 38 to the Finance Act 2012[^f00023] (tax advisers: sanctionable conduct[^c-c8d4b0ea7194a8e8697d2ae0c94866cd]) apply in relation to Class 1, Class 1A, Class 1B and Class 2 National Insurance contributions as in relation to tax to the extent that they do not already apply[^f00024].
 
 ## PART 6 — Repeals
 
-### 42. Amendment of the Social Security (Contributions) (Amendment No. 5) Regulations 2001[^key-201ce0962634dcfcabcb0bfa4cd71bbc]
+### 42. Amendment of the Social Security (Contributions) (Amendment No. 5) Regulations 2001[^c-201ce0962634dcfcabcb0bfa4cd71bbc]
 
 In the Social Security (Contributions) (Amendment No. 5) Regulations 2001[^f00025] omit—
 
@@ -698,107 +698,107 @@ A Tax Information and Impact Note covering Part 5 was published on 6th December 
 
 [^f00006]: Footnote: The functions of the Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, in so far as is appropriate in consequence of section 5, a reference, howsoever expressed, to the Commissioners of Inland Revenue is to be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-7da910733ace2ca913c030628b185eb3]: Commencement: Reg. 1 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-7da910733ace2ca913c030628b185eb3]: Commencement: Reg. 1 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004) as amended by [S.I. 2001/2412](https://www.legislation.gov.uk/uksi/2001/2412), [2003/2085](https://www.legislation.gov.uk/uksi/2003/2085), [2004/770](https://www.legislation.gov.uk/uksi/2004/770), [2007/1056](https://www.legislation.gov.uk/uksi/2007/1056), [2007/1838](https://www.legislation.gov.uk/uksi/2007/1838), [2007/2520](https://www.legislation.gov.uk/uksi/2007/2520), [2009/600](https://www.legislation.gov.uk/uksi/2009/600), [2010/646](https://www.legislation.gov.uk/uksi/2010/646), [2010/721](https://www.legislation.gov.uk/uksi/2010/721), [2011/1000](https://www.legislation.gov.uk/uksi/2011/1000), [2012/817](https://www.legislation.gov.uk/uksi/2012/817) and [2012/821](https://www.legislation.gov.uk/uksi/2012/821). There are other amending instruments but none are relevant.
 
-[^key-a60f8cbe29a31d7da55cf559b395c042]: Commencement: Reg. 2 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-a60f8cbe29a31d7da55cf559b395c042]: Commencement: Reg. 2 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-dacc3b3939c516adfd96d15667e85912]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/622/regulation/3) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/3)
+[^c-dacc3b3939c516adfd96d15667e85912]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/622/regulation/3) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/3)
 
-[^key-6853c5a6e2b50848a14e3b6e6da391d3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/622/regulation/4) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/3)
+[^c-6853c5a6e2b50848a14e3b6e6da391d3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/622/regulation/4) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/3)
 
 [^f00008]: Footnote: Schedule 4 has been relevantly amended by regulations 29 to 31 and 33 of [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770), regulation 8(16) of [S.I. 2007/1056](https://www.legislation.gov.uk/uksi/2007/1056), regulation 7 of [S.I. 2008/636](https://www.legislation.gov.uk/uksi/2008/636), regulation 8 of [S.I. 2009/600](https://www.legislation.gov.uk/uksi/2009/600) and regulations 5 to 8, 11, 12, 18 and 20 of [S.I. 2012/821](https://www.legislation.gov.uk/uksi/2012/821).
 
 [^f00009]: Footnote: Regulation 1(1) of [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004) defines the “PAYE Regulations” as meaning the Income Tax (Pay As You Earn) Regulations 2003 ([S.I. 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682)).
 
-[^key-5ab356c1c7c4eb9b705f2c39bef17364]: Commencement: Reg. 5 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-5ab356c1c7c4eb9b705f2c39bef17364]: Commencement: Reg. 5 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-0ce6a95b118acb0de184fe75ce7ffa9d]: Commencement: Reg. 6 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-0ce6a95b118acb0de184fe75ce7ffa9d]: Commencement: Reg. 6 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-48a11b7c39747e83b0ab945f269138f8]: Commencement: Reg. 7 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-48a11b7c39747e83b0ab945f269138f8]: Commencement: Reg. 7 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00010]: Footnote: Paragraph 21EA is inserted by regulation 16 of these Regulations.
 
-[^key-415af20028cd33f3050bd0e91b7b56b4]: Commencement: Reg. 8 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-415af20028cd33f3050bd0e91b7b56b4]: Commencement: Reg. 8 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-af94e99cc8dea37d9f643caceaa9fdca]: Commencement: Reg. 9 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-af94e99cc8dea37d9f643caceaa9fdca]: Commencement: Reg. 9 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-9a54b29cad653d9e2ababf555dc9ebbe]: Commencement: Reg. 10 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-9a54b29cad653d9e2ababf555dc9ebbe]: Commencement: Reg. 10 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00011]: Footnote: Regulations 67B, 67D and 67E were inserted into the PAYE Regulations by regulation 27 of [S.I. 2012/822](https://www.legislation.gov.uk/uksi/2012/822) and regulation 67EA was inserted by regulation 23 of [S.I. 2013/521](https://www.legislation.gov.uk/uksi/2013/521).
 
-[^key-e1042b0f8cc5cff39ad357a183266458]: Commencement: Reg. 11 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-e1042b0f8cc5cff39ad357a183266458]: Commencement: Reg. 11 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-c2e749c9af8b5eba48c9ee3cc576ede1]: Commencement: Reg. 12 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-c2e749c9af8b5eba48c9ee3cc576ede1]: Commencement: Reg. 12 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-09d042a41065ed8e90c858f5677fe1ae]: Commencement: Reg. 13 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-09d042a41065ed8e90c858f5677fe1ae]: Commencement: Reg. 13 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00012]: Footnote: Regulation 67CA of the PAYE Regulations was inserted by regulation 2 of [S.I. 2012/1895](https://www.legislation.gov.uk/uksi/2012/1895).
 
-[^key-784e860a56450512be661fc999898e32]: Commencement: Reg. 14 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-784e860a56450512be661fc999898e32]: Commencement: Reg. 14 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-c1813976796828875040d6b59c299245]: Commencement: Reg. 15 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-c1813976796828875040d6b59c299245]: Commencement: Reg. 15 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00013]: Footnote: Paragraph 3A of Schedule 4A is inserted by regulation 26 of these Regulations.
 
-[^key-b880f82d54fd186d61b291c9e72362a5]: Commencement: Reg. 16 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-b880f82d54fd186d61b291c9e72362a5]: Commencement: Reg. 16 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00014]: Footnote: [1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9). Section 98A was inserted by section 165 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and has been amended by paragraphs 123 and 138 of Schedule 6 to ITEPA; paragraph 8 of Schedule 12 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and paragraph 29(a) of Schedule 24 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
-[^key-e5acfdfc90d34975d99a6bf0924e680c]: Commencement: Reg. 17 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-e5acfdfc90d34975d99a6bf0924e680c]: Commencement: Reg. 17 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00015]: Footnote: Schedule A1 to the PAYE Regulations was inserted by regulation 52 of [S.I. 2012/822](https://www.legislation.gov.uk/uksi/2012/822).
 
-[^key-b66f001c27f8addabad2c4eeda838e5b]: Commencement: Reg. 18 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-b66f001c27f8addabad2c4eeda838e5b]: Commencement: Reg. 18 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-8c0da06f42310e8bf69598317941a08c]: Commencement: Reg. 19 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-8c0da06f42310e8bf69598317941a08c]: Commencement: Reg. 19 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-29de9e3f74efd60e64573a81ea5bbe35]: Commencement: Reg. 20 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-29de9e3f74efd60e64573a81ea5bbe35]: Commencement: Reg. 20 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-9b5d3df2353b39a9ba7f2fae89f93fc6]: Commencement: Reg. 21 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-9b5d3df2353b39a9ba7f2fae89f93fc6]: Commencement: Reg. 21 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-3f457cc29e5b2b618abf97a0b2b57360]: Commencement: Reg. 22 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-3f457cc29e5b2b618abf97a0b2b57360]: Commencement: Reg. 22 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-c50aa7a17b2beb8be9a08bc7bccb711b]: Commencement: Reg. 23 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-c50aa7a17b2beb8be9a08bc7bccb711b]: Commencement: Reg. 23 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00016]: Footnote: Schedule 4A was inserted by regulation 14 of [S.I. 2012/821](https://www.legislation.gov.uk/uksi/2012/821).
 
-[^key-0c342b120cdb078d8d56787bd2a94a96]: Commencement: Reg. 24 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-0c342b120cdb078d8d56787bd2a94a96]: Commencement: Reg. 24 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-88f6efdcc00fe892da7a22024f22d847]: Commencement: Reg. 25 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-88f6efdcc00fe892da7a22024f22d847]: Commencement: Reg. 25 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00017]: Footnote: Regulation 67F of the PAYE Regulations was inserted by regulation 27 of [S.I. 2012/822](https://www.legislation.gov.uk/uksi/2012/822).
 
-[^key-9571af7d72183932d30e2a96c3f43784]: Commencement: Reg. 26 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-9571af7d72183932d30e2a96c3f43784]: Commencement: Reg. 26 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-e960258af1f20ae60a744540623e4ff7]: Commencement: Reg. 27 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-e960258af1f20ae60a744540623e4ff7]: Commencement: Reg. 27 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-7ac9776dbd8db756c198e3f8cb693e11]: Commencement: Reg. 28 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-7ac9776dbd8db756c198e3f8cb693e11]: Commencement: Reg. 28 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470), as amended by [S.I. 2010/661](https://www.legislation.gov.uk/uksi/2010/661), [2011/784](https://www.legislation.gov.uk/uksi/2011/784), [2012/836](https://www.legislation.gov.uk/uksi/2012/836) and [2012/1309](https://www.legislation.gov.uk/uksi/2012/1309).
 
 [^f00019]: Footnote: [S.R. (NI) 2009 No. 128](https://www.legislation.gov.uk/nisr/2009/128), as amended by [S.R. (N.I.) 2010 No. 90](https://www.legislation.gov.uk/nisr/2010/90), [S.R. (N.I.) 2011 No. 137](https://www.legislation.gov.uk/nisr/2011/137) and [S.R. (N.I.) 2012 No. 136](https://www.legislation.gov.uk/nisr/2012/136).
 
-[^key-67348bfcb58eaf1d0fe97d687f5b2f89]: Commencement: Reg. 29 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-67348bfcb58eaf1d0fe97d687f5b2f89]: Commencement: Reg. 29 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-633dbb18dcb4abf84ad475a092fbe870]: Commencement: Reg. 30 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-633dbb18dcb4abf84ad475a092fbe870]: Commencement: Reg. 30 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-ff96b6cf18ae23f00331835e5b81afde]: Commencement: Reg. 31 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-ff96b6cf18ae23f00331835e5b81afde]: Commencement: Reg. 31 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-87342890e1e464057517fcf9f90535ad]: Commencement: Reg. 32 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-87342890e1e464057517fcf9f90535ad]: Commencement: Reg. 32 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-a89d43007c912cbd8ccf4dc5418db06f]: Commencement: Reg. 33 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-a89d43007c912cbd8ccf4dc5418db06f]: Commencement: Reg. 33 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-25a33e8c15b9a236a91e22f4638a264e]: Commencement: Reg. 34 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-25a33e8c15b9a236a91e22f4638a264e]: Commencement: Reg. 34 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-3dcfb7683123343c6a0120b623c837c7]: Commencement: Reg. 35 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-3dcfb7683123343c6a0120b623c837c7]: Commencement: Reg. 35 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-d68c7b1f25602d4be96fd08557371935]: Commencement: Reg. 36 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-d68c7b1f25602d4be96fd08557371935]: Commencement: Reg. 36 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-9c27e4ade2682d0be2ed7e384e01f738]: Commencement: Reg. 37 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-9c27e4ade2682d0be2ed7e384e01f738]: Commencement: Reg. 37 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-50d7f4acd9b8d158ce3f9d4203a5234f]: Commencement: Reg. 38 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-50d7f4acd9b8d158ce3f9d4203a5234f]: Commencement: Reg. 38 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00020]: Footnote: Regulation 1(2) of [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004) provides that “the Act” means the Social Security Contributions and Benefits Act 1992. Regulation 156 provides that a reference to a provision in an enactment that applies only to Great Britain, shall be construed so far as necessary as including a reference to the corresponding enactment applying in Northern Ireland. Schedule 7 provides that the corresponding enactment is the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
@@ -806,20 +806,20 @@ A Tax Information and Impact Note covering Part 5 was published on 6th December 
 
 [^f00022]: Footnote: Regulation 1(2) of [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004) provides that “year” means “tax year”.
 
-[^key-1224f4693dd6ff6ef4ac755be0d3ec4a]: Commencement: Reg. 39 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-1224f4693dd6ff6ef4ac755be0d3ec4a]: Commencement: Reg. 39 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-c9ea33783f664b68a44e65296ad52717]: Commencement: Reg. 40 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-c9ea33783f664b68a44e65296ad52717]: Commencement: Reg. 40 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
-[^key-40201bf1bb66f1beb4bdb53cffbdda50]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2013/622/part/5) heading substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 35(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/35/a)
+[^c-40201bf1bb66f1beb4bdb53cffbdda50]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2013/622/part/5) heading substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 35(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/35/a)
 
-[^key-1be2e015a605d9e0ef3a31d3c654f109]: Commencement: Reg. 41 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-1be2e015a605d9e0ef3a31d3c654f109]: Commencement: Reg. 41 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00023]: Footnote: [2012 c. 14](https://www.legislation.gov.uk/ukpga/2012/14). [S.I. 2013/279 (C. 13)](https://www.legislation.gov.uk/uksi/2013/279) appoints the 1st of April 2013 as the day on which Schedule 38 to Finance Act 2012 comes into force.
 
-[^key-c8d4b0ea7194a8e8697d2ae0c94866cd]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/2013/622/regulation/41) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 35(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/35/b)
+[^c-c8d4b0ea7194a8e8697d2ae0c94866cd]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/2013/622/regulation/41) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 35(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/35/b)
 
 [^f00024]: Footnote: Paragraphs 56 and 57 of Schedule 38 to the Finance Act 2012 makes consequential provision in respect of section 110ZA of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) (Class 1, 1A, 1B or 2 contributions: powers to call for documents etc) and section 104ZA of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) (Class 1, 1A, 1B or 2 contributions: powers to call for documents) to apply Part 3 of Schedule 38 (power to obtain agent’s files etc) to Class 1, 1A, 1B and 2 contributions.
 
-[^key-201ce0962634dcfcabcb0bfa4cd71bbc]: Commencement: Reg. 42 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
+[^c-201ce0962634dcfcabcb0bfa4cd71bbc]: Commencement: Reg. 42 in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/622/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2001/2412](https://www.legislation.gov.uk/uksi/2001/2412).

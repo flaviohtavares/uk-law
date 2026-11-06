@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 34C. Qualifying Northern Ireland goods[^key-1b6710f99e06cf67b274e79ec4209de9]
+## 34C. Qualifying Northern Ireland goods[^c-1b6710f99e06cf67b274e79ec4209de9]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6710f99e06cf67b274e79ec4209de9]: Textual amendment: Regs. 34B, 34C inserted (E.W.S.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/12/7)
+[^c-1b6710f99e06cf67b274e79ec4209de9]: Textual amendment: Regs. 34B, 34C inserted (E.W.S.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/12/7)

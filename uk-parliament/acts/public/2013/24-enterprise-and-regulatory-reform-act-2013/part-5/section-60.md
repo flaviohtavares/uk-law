@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Listed buildings in England: agreements and orders granting listed building consent[^c2181360][^key-4947411b517bdeda95853eb03bcbff15]
+## 60. Listed buildings in England: agreements and orders granting listed building consent[^c2181360][^c-4947411b517bdeda95853eb03bcbff15]
 
 *Extent: E+W*
 
@@ -260,4 +260,4 @@ summary: ''
 
 [^c2181360]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2013/24/section/60) partly in force; [s. 60](https://www.legislation.gov.uk/ukpga/2013/24/section/60) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-4947411b517bdeda95853eb03bcbff15]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2013/24/section/60) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/416/article/3/a)
+[^c-4947411b517bdeda95853eb03bcbff15]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2013/24/section/60) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/416/article/3/a)

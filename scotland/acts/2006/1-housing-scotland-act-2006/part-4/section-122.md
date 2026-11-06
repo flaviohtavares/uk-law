@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Approval of tenancy deposit schemes[^key-2c08e1d3c7daa1aa478973f9d21e351d]
+## 122. Approval of tenancy deposit schemes[^c-2c08e1d3c7daa1aa478973f9d21e351d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c08e1d3c7daa1aa478973f9d21e351d]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2006/1/section/122) in force at 21.12.2010 by [S.S.I. 2010/436](https://www.legislation.gov.uk/ssi/2010/436), [art. 2](https://www.legislation.gov.uk/ssi/2010/436/article/2)
+[^c-2c08e1d3c7daa1aa478973f9d21e351d]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2006/1/section/122) in force at 21.12.2010 by [S.S.I. 2010/436](https://www.legislation.gov.uk/ssi/2010/436), [art. 2](https://www.legislation.gov.uk/ssi/2010/436/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Guidance and protocols[^key-9b74228811581488556a25febf87a441]
+## 128. Guidance and protocols[^c-9b74228811581488556a25febf87a441]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b74228811581488556a25febf87a441]: Commencement: Reg. 128 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-9b74228811581488556a25febf87a441]: Commencement: Reg. 128 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

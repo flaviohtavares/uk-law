@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Guidance for local authorities about a local housing emergency[^key-a9ac40df8f717df32cad55e2da564745][^key-4f3fd8a74358fd47d913cf957694409b]
+## 80. Guidance for local authorities about a local housing emergency[^c-a9ac40df8f717df32cad55e2da564745][^c-4f3fd8a74358fd47d913cf957694409b]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9ac40df8f717df32cad55e2da564745]: Commencement: S. 80 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-a9ac40df8f717df32cad55e2da564745]: Commencement: S. 80 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-4f3fd8a74358fd47d913cf957694409b]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2025/13/section/80) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-4f3fd8a74358fd47d913cf957694409b]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2025/13/section/80) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

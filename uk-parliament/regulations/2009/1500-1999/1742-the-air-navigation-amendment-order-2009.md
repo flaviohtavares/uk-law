@@ -32,7 +32,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Amendment) Order 2009 (revoked)[^key-937285196b771448b641dc2bde2a7a28]
+The Air Navigation (Amendment) Order 2009 (revoked)[^c-937285196b771448b641dc2bde2a7a28]
 
 Made
 
@@ -52,52 +52,52 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-937285196b771448b641dc2bde2a7a28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-937285196b771448b641dc2bde2a7a28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and transitional provisions[^key-937285196b771448b641dc2bde2a7a28]
+## 1. Citation, commencement and transitional provisions[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Navigation Order 2005[^key-937285196b771448b641dc2bde2a7a28]
+## 2. Amendment of the Air Navigation Order 2005[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Licensing of air traffic controllers[^key-937285196b771448b641dc2bde2a7a28]
+## 3. Licensing of air traffic controllers[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Air Traffic Controllers Licences, ratings, endorsements and maintenance of licence privileges[^key-937285196b771448b641dc2bde2a7a28]
+## 4. Air Traffic Controllers Licences, ratings, endorsements and maintenance of licence privileges[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Right of access etc[^key-937285196b771448b641dc2bde2a7a28]
+## 5. Right of access etc[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties[^key-937285196b771448b641dc2bde2a7a28]
+## 6. Penalties[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Interpretation[^key-937285196b771448b641dc2bde2a7a28]
+## 7. Interpretation[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Competent authority[^key-937285196b771448b641dc2bde2a7a28]
+## 8. Competent authority[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to Schedule 14[^key-937285196b771448b641dc2bde2a7a28]
+## 9. Amendments to Schedule 14[^c-937285196b771448b641dc2bde2a7a28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-937285196b771448b641dc2bde2a7a28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-937285196b771448b641dc2bde2a7a28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-937285196b771448b641dc2bde2a7a28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-937285196b771448b641dc2bde2a7a28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-937285196b771448b641dc2bde2a7a28]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1742) revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+[^c-937285196b771448b641dc2bde2a7a28]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1742) revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)

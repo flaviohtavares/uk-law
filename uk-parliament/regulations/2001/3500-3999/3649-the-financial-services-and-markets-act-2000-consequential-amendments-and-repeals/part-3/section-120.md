@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Entitlement to guaranteed minimum pensions: treatment of entitlements[^key-e7e098a3b2d45bb06a73097c2739b768]
+## 120. Entitlement to guaranteed minimum pensions: treatment of entitlements[^c-e7e098a3b2d45bb06a73097c2739b768]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 47(3)(d) of the Pension Schemes Act 1993 (Further provisions concerni
 
 ## Annotations
 
-[^key-e7e098a3b2d45bb06a73097c2739b768]: Commencement: Art. 120 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e7e098a3b2d45bb06a73097c2739b768]: Commencement: Art. 120 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

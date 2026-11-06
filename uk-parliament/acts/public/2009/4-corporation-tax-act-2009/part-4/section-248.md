@@ -23,7 +23,7 @@ summary: ''
 (1) In calculating the profits of a property business which consists of or includes a furnished letting—
 
 - (a) any sum payable for the use of furniture is brought into account as a receipt, and
-- (b) a deduction is allowed for expenses of a revenue nature[^key-ce8b432fb80bd45dc020de28447e8062] incurred in connection with the provision of furniture.
+- (b) a deduction is allowed for expenses of a revenue nature[^c-ce8b432fb80bd45dc020de28447e8062] incurred in connection with the provision of furniture.
 
 (2) But subsection (1) does not apply to receipts or expenses brought into account in calculating the profits of a trade which consists of, or involves, making furniture available for use in premises.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8b432fb80bd45dc020de28447e8062]: Textual amendment: Words in s. 248(1)(b) inserted (with effect in accordance with s. 73(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 73(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/73/6)
+[^c-ce8b432fb80bd45dc020de28447e8062]: Textual amendment: Words in s. 248(1)(b) inserted (with effect in accordance with s. 73(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 73(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/73/6)

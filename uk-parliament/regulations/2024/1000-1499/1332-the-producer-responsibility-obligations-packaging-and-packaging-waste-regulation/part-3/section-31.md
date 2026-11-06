@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Conditions of registration of a producer[^key-7a14d88344d92f5d42f66d56e597cf4d]
+## 31. Conditions of registration of a producer[^c-7a14d88344d92f5d42f66d56e597cf4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,12 +32,12 @@ Registration of a producer (“**P**”) is subject to the following conditions�
 
   within 28 days of the occurrence of any such change;
 - (d) that P informs the appropriate agency as soon as reasonably practicable if P becomes aware that any of the relevant circumstances in Schedule 2 applies or is about to apply to P; and
-- (e) that [^key-462caadd9569782e1fc5d3ca6e262f23]... if P has ceased to be a producer in respect of a year , P informs the appropriate agency within 28 days of ceasing to be a producer[^key-b00a6a0a4b8d2eb8b91cc6873b45ad54].
+- (e) that [^c-462caadd9569782e1fc5d3ca6e262f23]... if P has ceased to be a producer in respect of a year , P informs the appropriate agency within 28 days of ceasing to be a producer[^c-b00a6a0a4b8d2eb8b91cc6873b45ad54].
 
 ## Annotations
 
-[^key-7a14d88344d92f5d42f66d56e597cf4d]: Commencement: Reg. 31 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-7a14d88344d92f5d42f66d56e597cf4d]: Commencement: Reg. 31 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-462caadd9569782e1fc5d3ca6e262f23]: Textual amendment: Words in [reg. 31(e)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/31/e) omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-462caadd9569782e1fc5d3ca6e262f23]: Textual amendment: Words in [reg. 31(e)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/31/e) omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-b00a6a0a4b8d2eb8b91cc6873b45ad54]: Textual amendment: Words in [reg. 31(e)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/31/e) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-b00a6a0a4b8d2eb8b91cc6873b45ad54]: Textual amendment: Words in [reg. 31(e)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/31/e) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

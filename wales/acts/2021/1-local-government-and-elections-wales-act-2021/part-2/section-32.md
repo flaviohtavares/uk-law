@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Ceasing to be an eligible community council[^key-249ee91b8932d7abcb5921e9dfe1126f]
+## 32. Ceasing to be an eligible community council[^c-249ee91b8932d7abcb5921e9dfe1126f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-249ee91b8932d7abcb5921e9dfe1126f]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2021/1/section/32) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(b)](https://www.legislation.gov.uk/wsi/2021/231/article/6/b)
+[^c-249ee91b8932d7abcb5921e9dfe1126f]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2021/1/section/32) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(b)](https://www.legislation.gov.uk/wsi/2021/231/article/6/b)

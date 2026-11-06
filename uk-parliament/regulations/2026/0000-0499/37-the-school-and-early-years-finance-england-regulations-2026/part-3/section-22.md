@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. The sparsity factor[^key-bbaea75521cff17efba57f9f8d07be0e]
+## 22. The sparsity factor[^c-bbaea75521cff17efba57f9f8d07be0e]
 
 *Extent: E+W*
 
@@ -124,7 +124,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bbaea75521cff17efba57f9f8d07be0e]: Commencement: Reg. 22 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-bbaea75521cff17efba57f9f8d07be0e]: Commencement: Reg. 22 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00072]: Footnote: The arrangements for classification of middle schools as primary schools or secondary schools are set out in the Education (Middle School) (England) Regulations 2002 ([S.I. 2002/1983](https://www.legislation.gov.uk/uksi/2002/1983)). These Regulations were amended by [S.I. 2009/1556](https://www.legislation.gov.uk/uksi/2009/1556) and [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 

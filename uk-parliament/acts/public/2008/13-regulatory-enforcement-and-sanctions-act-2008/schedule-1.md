@@ -24,63 +24,63 @@ Section 1
 
 ### Status
 
-**1.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Membership
 
-**2.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tenure
 
-**6.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employees
 
-**7.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Committees
 
-**8.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Proceedings
 
-**9.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Delegation
 
-**10.**[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Funding
 
-**11.** (1)[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.** (1)[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ad37bda35b9095c195c84ee263ae139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The Welsh Ministers may make grants to the Secretary of State in respect of the Secretary of State’s functions under Parts 1 and 2[^key-7bca2729424c0003e15c681b02c28f6d] of such amounts as they think fit.
+(3) The Welsh Ministers may make grants to the Secretary of State in respect of the Secretary of State’s functions under Parts 1 and 2[^c-7bca2729424c0003e15c681b02c28f6d] of such amounts as they think fit.
 
 (4) A grant under sub-paragraph (3) may be subject to such conditions as the Welsh Ministers think fit.
 
 ### Annual report
 
-**12.**[^key-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Accounts
 
-**13.**[^key-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Financial year
 
-**14.**[^key-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Instruments and authentication
 
-**15.**[^key-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-04411d370eba7be78aecfb9aa6640026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Records
 
@@ -88,26 +88,26 @@ Section 1
 
 ### Parliamentary disqualification
 
-**17.**[^key-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Investigation
 
-**18.**[^key-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Freedom of information
 
-**19.**[^key-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transitional provisions
 
-**20.**[^key-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-8f6ba8dd6cbc13b67545fe67dea30efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ad37bda35b9095c195c84ee263ae139]: Textual amendment: Sch. 1 paras. 1-10, 11(1)(2) repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-1ad37bda35b9095c195c84ee263ae139]: Textual amendment: Sch. 1 paras. 1-10, 11(1)(2) repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
 
-[^key-7bca2729424c0003e15c681b02c28f6d]: Textual amendment: Words in Sch. 1 para. 11(3) substituted (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/15) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-7bca2729424c0003e15c681b02c28f6d]: Textual amendment: Words in Sch. 1 para. 11(3) substituted (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/15) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
 
-[^key-04411d370eba7be78aecfb9aa6640026]: Textual amendment: Sch. 1 paras. 12-15 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-04411d370eba7be78aecfb9aa6640026]: Textual amendment: Sch. 1 paras. 12-15 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
 
-[^key-8f6ba8dd6cbc13b67545fe67dea30efb]: Textual amendment: Sch. 1 paras. 17-20 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-8f6ba8dd6cbc13b67545fe67dea30efb]: Textual amendment: Sch. 1 paras. 17-20 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

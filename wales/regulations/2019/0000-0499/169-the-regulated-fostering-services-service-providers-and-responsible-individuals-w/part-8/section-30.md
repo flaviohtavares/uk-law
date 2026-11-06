@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Fitness of staff[^key-72a2cba4664a284410c84ec536c4991f]
+## 30. Fitness of staff[^c-72a2cba4664a284410c84ec536c4991f]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72a2cba4664a284410c84ec536c4991f]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2019/169/regulation/30) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-72a2cba4664a284410c84ec536c4991f]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2019/169/regulation/30) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
 
 [^c23552801]: Marginal citation: *See* section 79(1)(b) of the 2016 Act for the definition of a “social care manager”.

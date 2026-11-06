@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Postponement of charge on deemed disposal under section 185 or 186.[^key-cfcceb24ee801864552ae7b9a355a470]
+## 187. Postponement of charge on deemed disposal under section 185 or 186.[^c-cfcceb24ee801864552ae7b9a355a470]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfcceb24ee801864552ae7b9a355a470]: Textual amendment: S. 187 repealed (with effect in accordance with Sch. 8 para. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/9/1)
+[^c-cfcceb24ee801864552ae7b9a355a470]: Textual amendment: S. 187 repealed (with effect in accordance with Sch. 8 para. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/9/1)

@@ -74,7 +74,7 @@ Department for Social Development
 
 Regulation 2
 
-**1.**[^key-fb9d1b97f9b6a51a2cfd5201dd556374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fb9d1b97f9b6a51a2cfd5201dd556374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** In the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland)1996 [^c21315181]—
 
@@ -99,11 +99,11 @@ Regulation 2
     ;
 - (b) in regulation 4(1)(d) [^c21315281] (calculation of the value or amount of scheme assets and liabilities) for “BAS standards” substitute “ FRC standards ”.
 
-**5.**[^key-ba53a7c7fb3fb58644a96d04965e1c29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ba53a7c7fb3fb58644a96d04965e1c29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-27dcfe566437008d46c386bf4756e43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-27dcfe566437008d46c386bf4756e43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-27dcfe566437008d46c386bf4756e43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-27dcfe566437008d46c386bf4756e43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In paragraph 8 of the Schedule to the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005 [^c21315361] (contents of accounts audited by the Auditor of the scheme) for “the Accounting Standards Board” substitute “ the Financial Reporting Council Limited ”.
 
@@ -173,7 +173,7 @@ the requirement to consult under Article 117(1) of the 1995 Order and Article 28
 
 [^c21315131]: Marginal citation: S.R. [2010 No. 108](https://www.legislation.gov.uk/ukcm/2010/108)
 
-[^key-fb9d1b97f9b6a51a2cfd5201dd556374]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/1) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-fb9d1b97f9b6a51a2cfd5201dd556374]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/1) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21315181]: Marginal citation: S.R. [1996 No. 493](https://www.legislation.gov.uk/ukcm/1996/493); relevant amending Regulations are S.R. [2007 No. 64](https://www.legislation.gov.uk/ukcm/2007/64) and S.R. [2011 No. 305](https://www.legislation.gov.uk/ukcm/2011/305)
 
@@ -197,9 +197,9 @@ the requirement to consult under Article 117(1) of the 1995 Order and Article 28
 
 [^c21315281]: Marginal citation: [Regulation 4](https://www.legislation.gov.uk/nisr/2012/294/regulation/4) was substituted by regulation 9 of S.R. [2005 No. 171](https://www.legislation.gov.uk/ukcm/2005/171) and paragraph (1)(d) was substituted by regulation 3(3) of S.R. [2010 No. 108](https://www.legislation.gov.uk/ukcm/2010/108)
 
-[^key-ba53a7c7fb3fb58644a96d04965e1c29]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/5) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/e)
+[^c-ba53a7c7fb3fb58644a96d04965e1c29]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/5) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/e)
 
-[^key-27dcfe566437008d46c386bf4756e43d]: Textual amendment: Sch. para. 6 revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-27dcfe566437008d46c386bf4756e43d]: Textual amendment: Sch. para. 6 revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21315361]: Marginal citation: S.R. [2005 No. 126](https://www.legislation.gov.uk/ukcm/2005/126)
 

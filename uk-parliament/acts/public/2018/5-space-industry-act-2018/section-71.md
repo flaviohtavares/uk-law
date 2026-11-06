@@ -32,7 +32,7 @@ summary: ''
 
 (4) An amendment made by Schedule 12 has the same extent as the provision to which it relates.
 
-(5)[^key-297c38d1e6c7efa9f4ec0de0a4ff14c0] Her Majesty may by Order in Council direct that any of the provisions of this Act extend, with any modifications specified in the Order, to—
+(5)[^c-297c38d1e6c7efa9f4ec0de0a4ff14c0] Her Majesty may by Order in Council direct that any of the provisions of this Act extend, with any modifications specified in the Order, to—
 
 - (a) any of the Channel Islands;
 - (b) the Isle of Man;
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-297c38d1e6c7efa9f4ec0de0a4ff14c0]: Modification: [S. 71(5)](https://www.legislation.gov.uk/ukpga/2018/5/section/71/5) power extended (18.2.2026) by [Space Industry (Indemnities) Act 2025 (c. 35)](https://www.legislation.gov.uk/ukpga/2025/35), [s. 2(2)(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/2)
+[^c-297c38d1e6c7efa9f4ec0de0a4ff14c0]: Modification: [S. 71(5)](https://www.legislation.gov.uk/ukpga/2018/5/section/71/5) power extended (18.2.2026) by [Space Industry (Indemnities) Act 2025 (c. 35)](https://www.legislation.gov.uk/ukpga/2025/35), [s. 2(2)(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/2)

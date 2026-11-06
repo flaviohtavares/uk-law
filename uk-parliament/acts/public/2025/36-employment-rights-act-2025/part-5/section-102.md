@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Offences relating to gangmasters: power to enter premises with warrant[^key-dbc39f8ec233c381c2392fc2d3a743b9][^key-0224cc5abe25f95f3a71f0b977874e7c]
+## 102. Offences relating to gangmasters: power to enter premises with warrant[^c-dbc39f8ec233c381c2392fc2d3a743b9][^c-0224cc5abe25f95f3a71f0b977874e7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ the justice may issue a warrant authorising the enforcement officer to enter the
 
 ## Annotations
 
-[^key-dbc39f8ec233c381c2392fc2d3a743b9]: Commencement: S. 102 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-dbc39f8ec233c381c2392fc2d3a743b9]: Commencement: S. 102 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-0224cc5abe25f95f3a71f0b977874e7c]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/36/section/102) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(10)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/10)
+[^c-0224cc5abe25f95f3a71f0b977874e7c]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/36/section/102) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(10)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1148. Section 1147: interpretation[^key-7dca61061d68dae242674f4cf90c5c3d]
+## 1148. Section 1147: interpretation[^c-7dca61061d68dae242674f4cf90c5c3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dca61061d68dae242674f4cf90c5c3d]: Textual amendment: [S. 1148](https://www.legislation.gov.uk/ukpga/2010/4/section/1148) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/16/2/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-7dca61061d68dae242674f4cf90c5c3d]: Textual amendment: [S. 1148](https://www.legislation.gov.uk/ukpga/2010/4/section/1148) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/16/2/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

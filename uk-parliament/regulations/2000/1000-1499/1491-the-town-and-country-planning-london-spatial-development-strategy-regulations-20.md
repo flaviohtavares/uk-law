@@ -90,14 +90,14 @@ The title of the spatial development strategy shall include the words “spatial
 
 (1) In formulating the strategy for spatial development in Greater London the Mayor shall, in addition to the matters specified in sections 41 and 342(1)(a) of the GLA Act, have regard to—
 
-- (a)[^key-d39f789fd8695372e2c3255236887729] the national waste management plan within the meaning of the Waste (England and Wales) Regulations 2011;
-- (b)[^key-0d38428bbecbdeef7e2307495947a14a] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment;
+- (a)[^c-d39f789fd8695372e2c3255236887729] the national waste management plan within the meaning of the Waste (England and Wales) Regulations 2011;
+- (b)[^c-0d38428bbecbdeef7e2307495947a14a] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment;
 - (c) the need, in the long term—
   - (i) to maintain appropriate safety distances between establishments and residential areas, buildings and areas of public use, recreational areas, and, as far as possible, major transport routes;
   - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures;
-  - (iii) in the case of existing establishments, to take additional technical measures, in accordance with regulation 5 of the Control of Major Accident Hazards Regulations 2015[^key-05d1ce20caad9c799034e9eacb94e062], so as not to increase the risks to human health and the environment.
+  - (iii) in the case of existing establishments, to take additional technical measures, in accordance with regulation 5 of the Control of Major Accident Hazards Regulations 2015[^c-05d1ce20caad9c799034e9eacb94e062], so as not to increase the risks to human health and the environment.
 
-(2)[^key-fe6fa9f6011397fef9c89a2aa9964346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fe6fa9f6011397fef9c89a2aa9964346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The reasoned justification required by regulation 4(1) shall contain a statement of the regard the Mayor has had in formulating the strategy for spatial development in Greater London to the matters specified in sections 41 and 342(1)(a) of the GLA Act and in paragraph (1).
 
@@ -238,13 +238,13 @@ of the GLA Act.
 
 (2) The period within which the Mayor shall give such an opinion is the period prescribed as the period within which objections and representations may be made to the local planning authority with respect to the unitary development plan or the proposals for its alteration or replacement.
 
-## PART 5 — CORONAVIRUS: TEMPORARY MODIFICATIONS[^key-2cd40b7630c9e13f1d91d4338535de22]
+## PART 5 — CORONAVIRUS: TEMPORARY MODIFICATIONS[^c-2cd40b7630c9e13f1d91d4338535de22]
 
 ### 14. Introduction and interpretation
 
 (1) During the relevant period, Parts 2 and 3 of these Regulations have effect subject to the modifications in regulations 15 to 18.
 
-(2) In this Part, “the relevant period” means the period beginning with 12th August 2020 and ending with 31st December 2021[^key-cc88aaae3cfa7fb2a426d049110369fb].
+(2) In this Part, “the relevant period” means the period beginning with 12th August 2020 and ending with 31st December 2021[^c-cc88aaae3cfa7fb2a426d049110369fb].
 
 ### 15. Modification of regulation 9
 
@@ -447,16 +447,16 @@ A regulatory impact assessment has been prepared and copies can be obtained from
 
 [^c16026711]: Marginal citation: [Section 338(8)](https://www.legislation.gov.uk/uksi/2000/1491/section/338/8) of the Greater London Authority Act 1999 requires the Secretary of State to consult the Lord Chancellor before making regulations with respect to the precedure to be followed at an examination in public held under that section 338.
 
-[^key-d39f789fd8695372e2c3255236887729]: Textual amendment: Reg. 6(1)(a) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/14) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-d39f789fd8695372e2c3255236887729]: Textual amendment: Reg. 6(1)(a) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/14) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-0d38428bbecbdeef7e2307495947a14a]: Textual amendment: Reg. 6(1)(b)(c) substituted (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/1/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-0d38428bbecbdeef7e2307495947a14a]: Textual amendment: Reg. 6(1)(b)(c) substituted (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/1/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-05d1ce20caad9c799034e9eacb94e062]: Textual amendment: Words in [reg. 6(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2000/1491/regulation/6/1/c/iii) substituted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05d1ce20caad9c799034e9eacb94e062]: Textual amendment: Words in [reg. 6(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2000/1491/regulation/6/1/c/iii) substituted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fe6fa9f6011397fef9c89a2aa9964346]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/1491/regulation/6/2) omitted (31.12.2020) by virtue of [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe6fa9f6011397fef9c89a2aa9964346]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/1491/regulation/6/2) omitted (31.12.2020) by virtue of [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16026741]: Marginal citation: [Section 13](https://www.legislation.gov.uk/uksi/2000/1491/section/13) (1A) was inserted by section 344(4) of the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-2cd40b7630c9e13f1d91d4338535de22]: Textual amendment: Pt. 5 inserted (12.8.2020) by [The Town and Country Planning (Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/765)](https://www.legislation.gov.uk/uksi/2020/765), [regs. 1](https://www.legislation.gov.uk/uksi/2020/765/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/765/regulation/2)
+[^c-2cd40b7630c9e13f1d91d4338535de22]: Textual amendment: Pt. 5 inserted (12.8.2020) by [The Town and Country Planning (Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/765)](https://www.legislation.gov.uk/uksi/2020/765), [regs. 1](https://www.legislation.gov.uk/uksi/2020/765/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/765/regulation/2)
 
-[^key-cc88aaae3cfa7fb2a426d049110369fb]: Textual amendment: Words in reg. 14(2) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1398/regulation/2)
+[^c-cc88aaae3cfa7fb2a426d049110369fb]: Textual amendment: Words in reg. 14(2) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1398/regulation/2)

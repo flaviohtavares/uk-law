@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 255. Electronic delivery — general[^key-a70f31c8969d7701500df6f9564db526]
+## 255. Electronic delivery — general[^c-a70f31c8969d7701500df6f9564db526]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a70f31c8969d7701500df6f9564db526]: Commencement: [Rule 255](https://www.legislation.gov.uk/nisr/2026/11/rule/255) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a70f31c8969d7701500df6f9564db526]: Commencement: [Rule 255](https://www.legislation.gov.uk/nisr/2026/11/rule/255) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

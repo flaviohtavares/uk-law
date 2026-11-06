@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Valuation of agricultural land in drainage district: England and Wales[^key-55a535fcd8cdf4f1e79f72cf8b253184][^key-37b5bc583f97277448a4a385c79b849a]
+## 96. Valuation of agricultural land in drainage district: England and Wales[^c-55a535fcd8cdf4f1e79f72cf8b253184][^c-37b5bc583f97277448a4a385c79b849a]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,6 +122,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55a535fcd8cdf4f1e79f72cf8b253184]: Commencement: S. 96 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
+[^c-55a535fcd8cdf4f1e79f72cf8b253184]: Commencement: S. 96 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
 
-[^key-37b5bc583f97277448a4a385c79b849a]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2021/30/section/96) in force at 29.9.2022 for specified purposes by [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/b)
+[^c-37b5bc583f97277448a4a385c79b849a]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2021/30/section/96) in force at 29.9.2022 for specified purposes by [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/b)

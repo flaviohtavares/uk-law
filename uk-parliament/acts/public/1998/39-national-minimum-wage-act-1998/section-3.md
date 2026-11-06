@@ -27,8 +27,8 @@ summary: ''
 - (a) within the first six months after the commencement of their employment with an employer by whom they have not previously been employed;
 - (b) participating in a scheme under which shelter is provided in return for work;
 - (c) participating in a scheme designed to provide training, work experience or temporary work;
-- (d) participating in a scheme to assist in the seeking or obtaining of work; [^key-aedcacd078339a98f0a483c7fb06a063]...
-- (e) undertaking[^key-3491a6c1a6c356c9a5be83c903ca6b36] a course of higher education requiring attendance for a period of work experience. or[^key-87b733d004ee1263fcaa7f396d6cc4a6]
+- (d) participating in a scheme to assist in the seeking or obtaining of work; [^c-aedcacd078339a98f0a483c7fb06a063]...
+- (e) undertaking[^c-3491a6c1a6c356c9a5be83c903ca6b36] a course of higher education requiring attendance for a period of work experience. or[^c-87b733d004ee1263fcaa7f396d6cc4a6]
 - (f) undertaking a course of further education requiring attendance for a period of work experience.
 
 (2) The Secretary of State may by regulations make provision in relation to any of the persons to whom this section applies—
@@ -51,8 +51,8 @@ summary: ''
 
 [^c9531361]: Textual amendment: S. 3(1A) inserted (6.3.1999) by [S.I. 1999/583](https://www.legislation.gov.uk/uksi/1999/583), [art. 2](https://www.legislation.gov.uk/uksi/1999/583/article/2)
 
-[^key-aedcacd078339a98f0a483c7fb06a063]: Textual amendment: Word in s. 3(1A)(d) omitted (17.7.2007) by virtue of [The National Minimum Wage Act 1998 (Amendment) Regulations 2007 (S.I. 2007/2042)](https://www.legislation.gov.uk/uksi/2007/2042), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2042/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2042/regulation/2/2)
+[^c-aedcacd078339a98f0a483c7fb06a063]: Textual amendment: Word in s. 3(1A)(d) omitted (17.7.2007) by virtue of [The National Minimum Wage Act 1998 (Amendment) Regulations 2007 (S.I. 2007/2042)](https://www.legislation.gov.uk/uksi/2007/2042), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2042/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2042/regulation/2/2)
 
-[^key-3491a6c1a6c356c9a5be83c903ca6b36]: Textual amendment: Word in s. 3(1A)(e) substituted (17.7.2007) by [The National Minimum Wage Act 1998 (Amendment) Regulations 2007 (S.I. 2007/2042)](https://www.legislation.gov.uk/uksi/2007/2042), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2042/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2042/regulaiton/2/3)
+[^c-3491a6c1a6c356c9a5be83c903ca6b36]: Textual amendment: Word in s. 3(1A)(e) substituted (17.7.2007) by [The National Minimum Wage Act 1998 (Amendment) Regulations 2007 (S.I. 2007/2042)](https://www.legislation.gov.uk/uksi/2007/2042), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2042/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2042/regulaiton/2/3)
 
-[^key-87b733d004ee1263fcaa7f396d6cc4a6]: Textual amendment: S. 3(1A)(f) and word added (17.7.2007) by [The National Minimum Wage Act 1998 (Amendment) Regulations 2007 (S.I. 2007/2042)](https://www.legislation.gov.uk/uksi/2007/2042), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2042/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2042/regulation/2/4)
+[^c-87b733d004ee1263fcaa7f396d6cc4a6]: Textual amendment: S. 3(1A)(f) and word added (17.7.2007) by [The National Minimum Wage Act 1998 (Amendment) Regulations 2007 (S.I. 2007/2042)](https://www.legislation.gov.uk/uksi/2007/2042), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2042/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2042/regulation/2/4)

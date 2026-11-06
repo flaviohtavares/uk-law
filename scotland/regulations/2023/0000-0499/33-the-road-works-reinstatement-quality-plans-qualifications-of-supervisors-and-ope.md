@@ -56,13 +56,13 @@ as they think appropriate.
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-3f87c43ace53c506cf1c280cbce14bb5]
+### 1. Citation and commencement[^c-3f87c43ace53c506cf1c280cbce14bb5]
 
 These Regulations may be cited as the Road Works (Reinstatement Quality Plans, Qualifications of Supervisors and Operatives and Miscellaneous Amendments) (Scotland) Regulations 2023 and come into force on 1 April 2023.
 
 ## PART 2 — Reinstatement Quality Plans
 
-### 2. Interpretation of Part 2[^key-56b3beed53fa90e9e9145fa9f7f9a5ac]
+### 2. Interpretation of Part 2[^c-56b3beed53fa90e9e9145fa9f7f9a5ac]
 
 In this Part—
 
@@ -73,13 +73,13 @@ In this Part—
 - “**plan**” means a general reinstatement quality plan or a specific reinstatement quality plan,
 - “**SRWR**” means the Scottish Road Works Register.
 
-### 3. Process to be followed to require a plan to be entered in the SRWR[^key-33eb2e1e5bede6db08b4a50f28035b98]
+### 3. Process to be followed to require a plan to be entered in the SRWR[^c-33eb2e1e5bede6db08b4a50f28035b98]
 
 (1) The Commissioner may require a person or a roads authority to enter a plan under section 130A(3) or 130B(2) of the Act in the SRWR by way of a notice entered in the SRWR.
 
 (2) A notice under paragraph (1) must specify the date by which the recipient of the notice must enter a plan in the SRWR, being a date not less than 30 days and not more than 90 days from the date the notice was entered in the SRWR.
 
-### 4. Requirement for a plan to be reviewed[^key-b9826d7e222d732cd601e7ecd7572bb8]
+### 4. Requirement for a plan to be reviewed[^c-b9826d7e222d732cd601e7ecd7572bb8]
 
 (1) A person who enters a plan in the SRWR under section 130A(2) of the Act must keep it under review for a period of 6 years from the date of its approval by the Commissioner.
 
@@ -87,7 +87,7 @@ In this Part—
 
 ## PART 3 — Qualifications of Supervisors and Operatives
 
-### 5. Interpretation of Part 3[^key-abaff9d77ce4e9473bf4db8bf19b908f]
+### 5. Interpretation of Part 3[^c-abaff9d77ce4e9473bf4db8bf19b908f]
 
 (1) In this Part—
 
@@ -111,7 +111,7 @@ In this Part—
 - (a) assessed as having the required level of competence in a type of work if that person has passed a practical and theoretical assessment designed to demonstrate attainment of the required level of knowledge and understanding of, and skill in, that type of work, and
 - (b) reassessed as having the required level of competence in a type of work if that person has passed a theoretical assessment designed to demonstrate that the required level of knowledge and understanding of that type of work has been retained and kept up to date since the previous assessment or reassessment.
 
-### 6. Prescribed qualifications[^key-97f0f856b07779f24f6117062ca5f20d]
+### 6. Prescribed qualifications[^c-97f0f856b07779f24f6117062ca5f20d]
 
 (1) For the purposes of section 61B(2)(a) of the Act, a person has a prescribed qualification as a supervisor for a type of work (S) listed in schedule 1 if that person is qualified in—
 
@@ -134,11 +134,11 @@ In this Part—
 
 and the certificate is registered in the approved register.
 
-### 7. Grace period before registration[^key-f3596c475963e2279a55436ddc2d4c13]
+### 7. Grace period before registration[^c-f3596c475963e2279a55436ddc2d4c13]
 
 For a period of two months beginning with the date on which a person is issued with a certificate or a renewal certificate for a type of work, the person is deemed to be qualified in that type of work notwithstanding that the relevant certificate has not been registered or re-registered (as the case may be) in the approved register.
 
-### 8. Prescribed qualifications: UK equivalents[^key-907f872c1f9995c712cb925c43ee1b01]
+### 8. Prescribed qualifications: UK equivalents[^c-907f872c1f9995c712cb925c43ee1b01]
 
 (1) A person has a prescribed qualification for a type of work listed in schedule 1 or schedule 2 if the person has an equivalent qualification in respect of that type of work which is recognised in another part of the United Kingdom.
 
@@ -149,18 +149,18 @@ For a period of two months beginning with the date on which a person is issued w
   - (i) in relation to England or Wales, it is prescribed by regulations made under section 67 and 104(1) of the New Roads and Street Works Act 1991,
   - (ii) in relation to Northern Ireland, it is prescribed by regulations made under article 27 of the Street Works (Northern Ireland) Order 1995[^f00006].
 
-### 9. Restrictions on qualification[^key-a7706495f0b69eb0561712fa7ca5d70b]
+### 9. Restrictions on qualification[^c-a7706495f0b69eb0561712fa7ca5d70b]
 
 Where a person has a prescribed qualification for a type of work specified in schedule 1 or 2 the requirements of section 61B(2) of the Act are met in respect of that person in relation to that type of work only.
 
-### 10. Qualification registration[^key-48c4fa70882dacee06c87235d6d17dc5]
+### 10. Qualification registration[^c-48c4fa70882dacee06c87235d6d17dc5]
 
 (1) The bodies approved for the purpose of issuing certificates of competence are—
 
 - (a) The Scottish Qualifications Authority,
 - (b) The City and Guilds of London Institute[^f00007],
-- (c) The CABWI Awarding Body[^f00008], [^key-20df2bad7946e144e5793c87b206feb9]...
-- (d) Lantra[^f00009] ,[^key-97ae15925ada8dd1f654c7fe6d8bca42]
+- (c) The CABWI Awarding Body[^f00008], [^c-20df2bad7946e144e5793c87b206feb9]...
+- (d) Lantra[^f00009] ,[^c-97ae15925ada8dd1f654c7fe6d8bca42]
 - (e) Highfield Qualifications, and
 - (f) EUIAS.
 
@@ -176,11 +176,11 @@ Where a person has a prescribed qualification for a type of work specified in sc
 - (b) the issue by a competent authority of a certificate of recognition, or
 - (c) receipt of a request for re-registration made under paragraph (4).
 
-### 11. Expiry of registration[^key-445f042c7ce731c8a41250e6564098b1]
+### 11. Expiry of registration[^c-445f042c7ce731c8a41250e6564098b1]
 
 A certificate ceases to be registered at the end of the period of five years beginning with the date on which it was issued, but may be re-registered for any number of further periods in accordance with regulations 12 to 14.
 
-### 12. Re-registration more than 12 months before expiry[^key-d205425b3b945eae64ffd471647c2a4d]
+### 12. Re-registration more than 12 months before expiry[^c-d205425b3b945eae64ffd471647c2a4d]
 
 (1) A certificate issued in respect of a type of work may be re-registered for a further period of five years where—
 
@@ -194,7 +194,7 @@ A certificate ceases to be registered at the end of the period of five years beg
 
 (3) The further period for which a certificate is registered under this regulation begins on the day on which the renewal certificate is issued.
 
-### 13. Re-registration within 12 months of expiry[^key-474706f036f1ad1a9eaa72e6f24d59e8]
+### 13. Re-registration within 12 months of expiry[^c-474706f036f1ad1a9eaa72e6f24d59e8]
 
 (1) A certificate issued in respect of a type of work may be re-registered for a further period of five years if—
 
@@ -203,7 +203,7 @@ A certificate ceases to be registered at the end of the period of five years beg
 
 (2) The further period for which a certificate is registered under this regulation begins on the day immediately after the expiry of the previous registration.
 
-### 14. Re-registration after expiry[^key-709076126886ca879911ba1e1430f9dd]
+### 14. Re-registration after expiry[^c-709076126886ca879911ba1e1430f9dd]
 
 (1) A certificate issued in respect of a type of work may be re-registered for a further period of five years if—
 
@@ -212,11 +212,11 @@ A certificate ceases to be registered at the end of the period of five years beg
 
 (2) The further period for which a certificate is registered under this regulation begins on the day on which the renewal certificate is issued.
 
-### 15. Renewal certificates[^key-70486d5cbe45305b4c05c94966da9a76]
+### 15. Renewal certificates[^c-70486d5cbe45305b4c05c94966da9a76]
 
 An approved body may issue a person with a renewal certificate for a type of work if that person has been assessed or reassessed by an approved assessment centre as having the required level of competence in that type of work.
 
-### 16. Exemption for the Scottish Fire and Rescue Service[^key-30e7c068588e8b40d1b8851bf5e70e37]
+### 16. Exemption for the Scottish Fire and Rescue Service[^c-30e7c068588e8b40d1b8851bf5e70e37]
 
 (1) This regulation applies where the Scottish Fire and Rescue Service is executing works in a road which involve breaking up the road.
 
@@ -224,7 +224,7 @@ An approved body may issue a person with a renewal certificate for a type of wor
 
 ## PART 4 — Miscellaneous Road Works Amendments
 
-### 17. Amendment of the Road Works (Reinstatement) (Scotland) Regulations 1992[^key-e19691ff666f77d97228128b736df97c]
+### 17. Amendment of the Road Works (Reinstatement) (Scotland) Regulations 1992[^c-e19691ff666f77d97228128b736df97c]
 
 (1) The Road Works (Reinstatement) (Scotland) Regulations 1992[^f00010] are amended in accordance with this regulation.
 
@@ -289,7 +289,7 @@ An approved body may issue a person with a renewal certificate for a type of wor
 
 .
 
-### 18. Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003[^key-baea4e1acfaf5840c9c51265484475c3]
+### 18. Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003[^c-baea4e1acfaf5840c9c51265484475c3]
 
 (1) The Road Works (Inspection Fees) (Scotland) Regulations 2003[^f00012] are amended in accordance with this regulation.
 
@@ -304,7 +304,7 @@ An approved body may issue a person with a renewal certificate for a type of wor
 
 .
 
-### 19. Amendment of the Road Works (Scottish Road Works Register, Notices, Directions and Designations) (Scotland) Regulations 2008[^key-d9d7c92e6d2d3a95c8f67be2f3e1c490]
+### 19. Amendment of the Road Works (Scottish Road Works Register, Notices, Directions and Designations) (Scotland) Regulations 2008[^c-d9d7c92e6d2d3a95c8f67be2f3e1c490]
 
 (1) The Road Works (Scottish Road Works Register, Notices, Directions and Designations) (Scotland) Regulations 2008[^f00014] are amended in accordance with this regulation.
 
@@ -356,7 +356,7 @@ An approved body may issue a person with a renewal certificate for a type of wor
 
 (10) In regulation 13, after “(duty of undertaker to reinstate)” insert “must be given within two working hours of the reinstatement being completed and”.
 
-### 20. Amendment of the Road Works (Qualifications of Supervisors and Operatives) (Scotland) Regulations 2017[^key-646827b7bb9f8b24b9062073a43316c2]
+### 20. Amendment of the Road Works (Qualifications of Supervisors and Operatives) (Scotland) Regulations 2017[^c-646827b7bb9f8b24b9062073a43316c2]
 
 (1) The Road Works (Qualifications of Supervisors and Operatives) (Scotland) Regulations 2017[^f00017] are amended in accordance with this regulation.
 
@@ -387,11 +387,11 @@ Edinburgh
 
 7th February 2023
 
-## SCHEDULE 1 — Certificates of Competence for Supervisors – Types of Work[^key-efa9ad21a9498583a4f96d0fb79897fb]
+## SCHEDULE 1 — Certificates of Competence for Supervisors – Types of Work[^c-efa9ad21a9498583a4f96d0fb79897fb]
 
 Regulations 6(1), 8 and 9
 
-[^key-efa9ad21a9498583a4f96d0fb79897fb]
+[^c-efa9ad21a9498583a4f96d0fb79897fb]
 
 - S2 – Monitoring excavation in the road
 - S3 – Monitoring reinstatement and compaction of backfill materials
@@ -400,11 +400,11 @@ Regulations 6(1), 8 and 9
 - S6 – Monitoring reinstatement of concrete slabs
 - S7 – Monitoring reinstatement of modular surfaces and concrete footways
 
-## SCHEDULE 2 — Certificates of Competence for Trained Operatives – Types of Work[^key-c45329701915df6ee9c8ec6283db5dc4]
+## SCHEDULE 2 — Certificates of Competence for Trained Operatives – Types of Work[^c-c45329701915df6ee9c8ec6283db5dc4]
 
 Regulations 6(2), 8 and 9
 
-[^key-c45329701915df6ee9c8ec6283db5dc4]
+[^c-c45329701915df6ee9c8ec6283db5dc4]
 
 - O2 – Excavation in the road
 - O3 – Reinstatement and compaction of backfill materials
@@ -446,67 +446,67 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00003]: Footnote: Section 163A was inserted by section 39 of the 2005 Act.
 
-[^key-3f87c43ace53c506cf1c280cbce14bb5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-3f87c43ace53c506cf1c280cbce14bb5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-56b3beed53fa90e9e9145fa9f7f9a5ac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/33/regulation/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-56b3beed53fa90e9e9145fa9f7f9a5ac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/33/regulation/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-33eb2e1e5bede6db08b4a50f28035b98]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/33/regulation/3) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-33eb2e1e5bede6db08b4a50f28035b98]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/33/regulation/3) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-b9826d7e222d732cd601e7ecd7572bb8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/33/regulation/4) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-b9826d7e222d732cd601e7ecd7572bb8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/33/regulation/4) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-abaff9d77ce4e9473bf4db8bf19b908f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/33/regulation/5) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-abaff9d77ce4e9473bf4db8bf19b908f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/33/regulation/5) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059) relevantly amended by [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312).
 
 [^f00005]: Footnote: [S.I. 1996/2248](https://www.legislation.gov.uk/uksi/1996/2248).
 
-[^key-97f0f856b07779f24f6117062ca5f20d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/33/regulation/6) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-97f0f856b07779f24f6117062ca5f20d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/33/regulation/6) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-f3596c475963e2279a55436ddc2d4c13]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/33/regulation/7) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-f3596c475963e2279a55436ddc2d4c13]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/33/regulation/7) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-907f872c1f9995c712cb925c43ee1b01]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/33/regulation/8) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-907f872c1f9995c712cb925c43ee1b01]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/33/regulation/8) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1995/3210 (N.I. 19)](https://www.legislation.gov.uk/nisi/1995/3210).
 
-[^key-a7706495f0b69eb0561712fa7ca5d70b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/33/regulation/9) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-a7706495f0b69eb0561712fa7ca5d70b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/33/regulation/9) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-48c4fa70882dacee06c87235d6d17dc5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/33/regulation/10) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-48c4fa70882dacee06c87235d6d17dc5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/33/regulation/10) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00007]: Footnote: The City and Guilds of London Institute is a Royal Chartered Institute with the number RC117, a charity registered in England and Wales under charity number 312832 and a charity registered in Scotland under charity number SC039576.
 
 [^f00008]: Footnote: The CABWI Awarding Body is a company limited by guarantee, registered in England and Wales under company number 2638349 and is a charity registered in England and Wales under charity number 1157706. This body was previously incorporated under the name “the Certification and Assessment Board for the Water Industry” until 17th July 1998.
 
-[^key-20df2bad7946e144e5793c87b206feb9]: Textual amendment: Word in [reg. 10(1)(c)](https://www.legislation.gov.uk/ssi/2023/33/regulation/10/1/c) omitted (1.4.2024) by virtue of [The Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/23)](https://www.legislation.gov.uk/ssi/2024/23), [regs. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/23/regulation/6/2/a)
+[^c-20df2bad7946e144e5793c87b206feb9]: Textual amendment: Word in [reg. 10(1)(c)](https://www.legislation.gov.uk/ssi/2023/33/regulation/10/1/c) omitted (1.4.2024) by virtue of [The Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/23)](https://www.legislation.gov.uk/ssi/2024/23), [regs. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/23/regulation/6/2/a)
 
 [^f00009]: Footnote: Lantra is a company limited by guarantee and registered in England and Wales under company number 02823181, a charity registered in England and Wales under charity number 1022991 and a charity registered in Scotland under charity number SC039039.
 
-[^key-97ae15925ada8dd1f654c7fe6d8bca42]: Textual amendment: [Reg. 10(1)(e)](https://www.legislation.gov.uk/ssi/2023/33/regulation/10/1/e)[(f)](https://www.legislation.gov.uk/ssi/2023/33/regulation/10/1/f) inserted (1.4.2024) by [The Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/23)](https://www.legislation.gov.uk/ssi/2024/23), [regs. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/23/regulation/6/2/b)
+[^c-97ae15925ada8dd1f654c7fe6d8bca42]: Textual amendment: [Reg. 10(1)(e)](https://www.legislation.gov.uk/ssi/2023/33/regulation/10/1/e)[(f)](https://www.legislation.gov.uk/ssi/2023/33/regulation/10/1/f) inserted (1.4.2024) by [The Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/23)](https://www.legislation.gov.uk/ssi/2024/23), [regs. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/23/regulation/6/2/b)
 
-[^key-445f042c7ce731c8a41250e6564098b1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/33/regulation/11) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-445f042c7ce731c8a41250e6564098b1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/33/regulation/11) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-d205425b3b945eae64ffd471647c2a4d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/33/regulation/12) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-d205425b3b945eae64ffd471647c2a4d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/33/regulation/12) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-474706f036f1ad1a9eaa72e6f24d59e8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/33/regulation/13) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-474706f036f1ad1a9eaa72e6f24d59e8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/33/regulation/13) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-709076126886ca879911ba1e1430f9dd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/33/regulation/14) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-709076126886ca879911ba1e1430f9dd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/33/regulation/14) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-70486d5cbe45305b4c05c94966da9a76]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/33/regulation/15) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-70486d5cbe45305b4c05c94966da9a76]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/33/regulation/15) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-30e7c068588e8b40d1b8851bf5e70e37]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/33/regulation/16) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-30e7c068588e8b40d1b8851bf5e70e37]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/33/regulation/16) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-e19691ff666f77d97228128b736df97c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/33/regulation/17) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-e19691ff666f77d97228128b736df97c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/33/regulation/17) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1992/1674](https://www.legislation.gov.uk/uksi/1992/1674) relevantly amended by [S.S.I. 2003/417](https://www.legislation.gov.uk/ssi/2003/417).
 
 [^f00011]: Footnote: Available in electronic form on https://roadworks.scot/index.php/legislation-guidance/codes-practice.
 
-[^key-baea4e1acfaf5840c9c51265484475c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/33/regulation/18) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-baea4e1acfaf5840c9c51265484475c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/33/regulation/18) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00012]: Footnote: [S.S.I. 2003/415](https://www.legislation.gov.uk/ssi/2003/415) to which there are amendments not relevant to these Regulations.
 
 [^f00013]: Footnote: [S.S.I. 1992/1674](https://www.legislation.gov.uk/ssi/1992/1674).
 
-[^key-d9d7c92e6d2d3a95c8f67be2f3e1c490]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/33/regulation/19) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-d9d7c92e6d2d3a95c8f67be2f3e1c490]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/33/regulation/19) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00014]: Footnote: [S.S.I. 2008/88](https://www.legislation.gov.uk/ssi/2008/88).
 
@@ -514,10 +514,10 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00016]: Footnote: Section 117(1) was amended by paragraph 6(3) of schedule 1 of the 2019 Act.
 
-[^key-646827b7bb9f8b24b9062073a43316c2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/33/regulation/20) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-646827b7bb9f8b24b9062073a43316c2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/33/regulation/20) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
 [^f00017]: Footnote: [S.S.I. 2017/147](https://www.legislation.gov.uk/ssi/2017/147) to which there are amendments not relevant to these Regulations.
 
-[^key-efa9ad21a9498583a4f96d0fb79897fb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2023/33/schedule/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-efa9ad21a9498583a4f96d0fb79897fb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2023/33/schedule/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
 
-[^key-c45329701915df6ee9c8ec6283db5dc4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2023/33/schedule/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)
+[^c-c45329701915df6ee9c8ec6283db5dc4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2023/33/schedule/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/33/regulation/1)

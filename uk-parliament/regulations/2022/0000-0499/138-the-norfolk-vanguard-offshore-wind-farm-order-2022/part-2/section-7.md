@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Application and modification of legislative provisions[^key-311b0628194f9ce6697cf9fbf2427f32]
+## 7. Application and modification of legislative provisions[^c-311b0628194f9ce6697cf9fbf2427f32]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-311b0628194f9ce6697cf9fbf2427f32]: Commencement: Art. 7 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-311b0628194f9ce6697cf9fbf2427f32]: Commencement: Art. 7 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
 [^f00030]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 

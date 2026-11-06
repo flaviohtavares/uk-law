@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Income Support and Jobseeker’s Allowance (Amounts for Persons in Residential Care and Nursing Homes) Regulations (Northern Ireland) 2001 (revoked)[^key-a5dc2e3cbcf90a47a882b86fef86ba59]
+The Income Support and Jobseeker’s Allowance (Amounts for Persons in Residential Care and Nursing Homes) Regulations (Northern Ireland) 2001 (revoked)[^c-a5dc2e3cbcf90a47a882b86fef86ba59]
 
 Made
 
@@ -39,28 +39,28 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-a5dc2e3cbcf90a47a882b86fef86ba59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5dc2e3cbcf90a47a882b86fef86ba59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a5dc2e3cbcf90a47a882b86fef86ba59]
+## 1. Citation, commencement and interpretation[^c-a5dc2e3cbcf90a47a882b86fef86ba59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Income Support: amounts for those in homes for persons in need and nursing homes[^key-a5dc2e3cbcf90a47a882b86fef86ba59]
+## 2. Income Support: amounts for those in homes for persons in need and nursing homes[^c-a5dc2e3cbcf90a47a882b86fef86ba59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Jobseeker’s Allowance: amounts for those in residential care and nursing homes[^key-a5dc2e3cbcf90a47a882b86fef86ba59]
+## 3. Jobseeker’s Allowance: amounts for those in residential care and nursing homes[^c-a5dc2e3cbcf90a47a882b86fef86ba59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5dc2e3cbcf90a47a882b86fef86ba59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5dc2e3cbcf90a47a882b86fef86ba59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5dc2e3cbcf90a47a882b86fef86ba59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5dc2e3cbcf90a47a882b86fef86ba59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5dc2e3cbcf90a47a882b86fef86ba59]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/227) revoked (14.11.2005) by [The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005 (S.R. 2005/458)](https://www.legislation.gov.uk/nisr/2005/458), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/458/schedule/5)
+[^c-a5dc2e3cbcf90a47a882b86fef86ba59]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/227) revoked (14.11.2005) by [The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005 (S.R. 2005/458)](https://www.legislation.gov.uk/nisr/2005/458), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/458/schedule/5)

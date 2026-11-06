@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.5. Notice of vacation of office when housing administrator ceases to be qualified to act[^key-c45d6e087194348b1314ab60d03c8504]
+## 6.5. Notice of vacation of office when housing administrator ceases to be qualified to act[^c-c45d6e087194348b1314ab60d03c8504]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A housing administrator who has ceased to be qualified to act as an insolvency p
 
 ## Annotations
 
-[^key-c45d6e087194348b1314ab60d03c8504]: Commencement: Rule 6.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c45d6e087194348b1314ab60d03c8504]: Commencement: Rule 6.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

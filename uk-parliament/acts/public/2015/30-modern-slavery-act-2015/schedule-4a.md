@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Information gateways: specified persons[^key-19f75e9cd249189be5dc665fcbaa9877]
+## SCHEDULE 4A — Information gateways: specified persons[^c-19f75e9cd249189be5dc665fcbaa9877]
 
 *Extent: E+W*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Section 54A
 
-### Authorities with functions in connection with the labour market etc[^key-19f75e9cd249189be5dc665fcbaa9877]
+### Authorities with functions in connection with the labour market etc[^c-19f75e9cd249189be5dc665fcbaa9877]
 
-[^key-19f75e9cd249189be5dc665fcbaa9877]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Law enforcement and border security[^key-19f75e9cd249189be5dc665fcbaa9877]
-
-[^key-19f75e9cd249189be5dc665fcbaa9877]
+[^c-19f75e9cd249189be5dc665fcbaa9877]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Local government[^key-19f75e9cd249189be5dc665fcbaa9877]
+### Law enforcement and border security[^c-19f75e9cd249189be5dc665fcbaa9877]
 
-[^key-19f75e9cd249189be5dc665fcbaa9877]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Health bodies[^key-19f75e9cd249189be5dc665fcbaa9877]
-
-[^key-19f75e9cd249189be5dc665fcbaa9877]
+[^c-19f75e9cd249189be5dc665fcbaa9877]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Other[^key-19f75e9cd249189be5dc665fcbaa9877]
+### Local government[^c-19f75e9cd249189be5dc665fcbaa9877]
 
-[^key-19f75e9cd249189be5dc665fcbaa9877]
+[^c-19f75e9cd249189be5dc665fcbaa9877]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Health bodies[^c-19f75e9cd249189be5dc665fcbaa9877]
+
+[^c-19f75e9cd249189be5dc665fcbaa9877]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other[^c-19f75e9cd249189be5dc665fcbaa9877]
+
+[^c-19f75e9cd249189be5dc665fcbaa9877]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19f75e9cd249189be5dc665fcbaa9877]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2015/30/schedule/4A) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 84(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/84/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-19f75e9cd249189be5dc665fcbaa9877]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2015/30/schedule/4A) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 84(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/84/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)

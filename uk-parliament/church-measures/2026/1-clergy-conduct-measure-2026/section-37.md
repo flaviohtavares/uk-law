@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 37. Penalties and administrative sanctions[^key-90abac54f46352b9ec4c688883c87c20]
+## 37. Penalties and administrative sanctions[^c-90abac54f46352b9ec4c688883c87c20]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90abac54f46352b9ec4c688883c87c20]: Commencement: S. 37 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-90abac54f46352b9ec4c688883c87c20]: Commencement: S. 37 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

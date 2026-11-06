@@ -46,43 +46,43 @@ Coming into force
 
 1st April 2015
 
-[^key-fe7fd32f49479581e00b5e3f9f54c8cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe7fd32f49479581e00b5e3f9f54c8cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 1. Citation and commencement[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 2. Interpretation[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Power to make recommendations in respect of health and social care needs[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 3. Power to make recommendations in respect of health and social care needs[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Power to make recommendations in respect of health and social care provision[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 4. Power to make recommendations in respect of health and social care provision[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Responding to health care recommendations[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 5. Responding to health care recommendations[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Responding to social care recommendations[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 6. Responding to social care recommendations[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Modification of the Special Educational Needs and Disability Regulations 2014 – notification of the First-tier Tribunal’s power to make recommendations[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## 7. Modification of the Special Educational Needs and Disability Regulations 2014 – notification of the First-tier Tribunal’s power to make recommendations[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe7fd32f49479581e00b5e3f9f54c8cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe7fd32f49479581e00b5e3f9f54c8cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Pilot Local Authorities[^key-fe7fd32f49479581e00b5e3f9f54c8cb]
+## SCHEDULE — Pilot Local Authorities[^c-fe7fd32f49479581e00b5e3f9f54c8cb]
 
 Regulation 2
 
@@ -90,8 +90,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-fe7fd32f49479581e00b5e3f9f54c8cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe7fd32f49479581e00b5e3f9f54c8cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe7fd32f49479581e00b5e3f9f54c8cb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/358) revoked (31.8.2016) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) (Revocation and Transitional Provision) Regulations 2016 (S.I. 2016/822)](https://www.legislation.gov.uk/uksi/2016/822), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/2))
+[^c-fe7fd32f49479581e00b5e3f9f54c8cb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/358) revoked (31.8.2016) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) (Revocation and Transitional Provision) Regulations 2016 (S.I. 2016/822)](https://www.legislation.gov.uk/uksi/2016/822), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/2))

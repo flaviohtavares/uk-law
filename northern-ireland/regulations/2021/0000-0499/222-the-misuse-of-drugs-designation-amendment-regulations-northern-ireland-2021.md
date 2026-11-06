@@ -32,7 +32,7 @@ summary: ''
 
 Dangerous Drugs
 
-[^key-f5ece84feccc6a6a12233b9b925316c6]The Misuse of Drugs (Designation) (Amendment) Regulations (Northern Ireland) 2021 (revoked)
+[^c-f5ece84feccc6a6a12233b9b925316c6]The Misuse of Drugs (Designation) (Amendment) Regulations (Northern Ireland) 2021 (revoked)
 
 Made
 
@@ -44,13 +44,13 @@ Coming into operation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1.[^key-f5ece84feccc6a6a12233b9b925316c6]
+## 1.[^c-f5ece84feccc6a6a12233b9b925316c6]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-f5ece84feccc6a6a12233b9b925316c6]
+## 2.[^c-f5ece84feccc6a6a12233b9b925316c6]
 
 **May not be in force at this date. Check the source.**
 
@@ -60,4 +60,4 @@ Coming into operation
 
 ## Annotations
 
-[^key-f5ece84feccc6a6a12233b9b925316c6]: Textual amendment: Regulation revoked (18.8.2021) by [The Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/231)](https://www.legislation.gov.uk/nisr/2021/231), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/231/article/1/1), [3](https://www.legislation.gov.uk/nisr/2021/231/article/3)
+[^c-f5ece84feccc6a6a12233b9b925316c6]: Textual amendment: Regulation revoked (18.8.2021) by [The Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/231)](https://www.legislation.gov.uk/nisr/2021/231), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/231/article/1/1), [3](https://www.legislation.gov.uk/nisr/2021/231/article/3)

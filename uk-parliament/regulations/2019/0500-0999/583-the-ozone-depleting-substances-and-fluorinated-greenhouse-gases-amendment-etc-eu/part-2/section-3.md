@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Regulation [(EC) No 1005/2009](https://www.legislation.gov.uk/eur/2009/1005)[^key-15826650f5c0ca3ccf87658f7ced590f]
+## 3. Regulation [(EC) No 1005/2009](https://www.legislation.gov.uk/eur/2009/1005)[^c-15826650f5c0ca3ccf87658f7ced590f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EC) No 1005/2009](https://www.legislation.gov.uk/eur/2009/1005) of 
 
 ## Annotations
 
-[^key-15826650f5c0ca3ccf87658f7ced590f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-15826650f5c0ca3ccf87658f7ced590f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

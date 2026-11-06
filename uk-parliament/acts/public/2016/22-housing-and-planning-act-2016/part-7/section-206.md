@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Amendments to do with sections 203 and 204[^key-1c57ff50834a74433dce47a61b8bb953]
+## 206. Amendments to do with sections 203 and 204[^c-1c57ff50834a74433dce47a61b8bb953]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 19 gets rid of legislation replaced by sections 203 and 204.
 
 ## Annotations
 
-[^key-1c57ff50834a74433dce47a61b8bb953]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2016/22/section/206) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-1c57ff50834a74433dce47a61b8bb953]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2016/22/section/206) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)

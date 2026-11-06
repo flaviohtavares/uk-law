@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment to regulation 45A[^key-9bbe98926dc0c821c8a9ddf3979ee2ad]
+## 21. Amendment to regulation 45A[^c-9bbe98926dc0c821c8a9ddf3979ee2ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 45A(1A)(a) (brokering in medicinal products)[^f00028], omit paragr
 
 ## Annotations
 
-[^key-9bbe98926dc0c821c8a9ddf3979ee2ad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/832/regulation/21) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-9bbe98926dc0c821c8a9ddf3979ee2ad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/832/regulation/21) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00028]: Footnote: Regulation 45A was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

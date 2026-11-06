@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — STREETS TO BE TEMPORARILY STOPPED UP[^key-ccf48cb2ca02674393ec1e89d0bcf8ee]
+## SCHEDULE 3 — STREETS TO BE TEMPORARILY STOPPED UP[^c-ccf48cb2ca02674393ec1e89d0bcf8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Article 10
 
 ## Annotations
 
-[^key-ccf48cb2ca02674393ec1e89d0bcf8ee]: Commencement: Sch. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-ccf48cb2ca02674393ec1e89d0bcf8ee]: Commencement: Sch. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

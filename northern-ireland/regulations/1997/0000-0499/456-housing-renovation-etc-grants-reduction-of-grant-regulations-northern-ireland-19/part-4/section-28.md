@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Determination of income other than earnings[^key-0a1a1233d28adbe9de97c77176e40048]
+## 28. Determination of income other than earnings[^c-0a1a1233d28adbe9de97c77176e40048]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a1a1233d28adbe9de97c77176e40048]: Commencement: Reg. 28 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-0a1a1233d28adbe9de97c77176e40048]: Commencement: Reg. 28 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

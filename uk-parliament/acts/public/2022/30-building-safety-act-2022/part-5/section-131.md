@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Building liability orders: associates[^key-f519f86ff3004f77b8f34527f4f71d3d][^key-9f4c5e604b062a75d7400e14def01a2e]
+## 131. Building liability orders: associates[^c-f519f86ff3004f77b8f34527f4f71d3d][^c-9f4c5e604b062a75d7400e14def01a2e]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ Subsections (2) to (4) set out the cases in which a body corporate is regarded a
 
 ## Annotations
 
-[^key-f519f86ff3004f77b8f34527f4f71d3d]: Commencement: S. 131 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-f519f86ff3004f77b8f34527f4f71d3d]: Commencement: S. 131 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-9f4c5e604b062a75d7400e14def01a2e]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2022/30/section/131) in force at 28.6.2022 by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/h)
+[^c-9f4c5e604b062a75d7400e14def01a2e]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2022/30/section/131) in force at 28.6.2022 by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/h)

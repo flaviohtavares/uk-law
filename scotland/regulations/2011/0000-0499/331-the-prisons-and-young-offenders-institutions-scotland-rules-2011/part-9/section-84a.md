@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84A. Purposeful activities – coronavirus[^key-3f94a9980ea6a82accc11dafb9cc332a]
+## 84A. Purposeful activities – coronavirus[^c-3f94a9980ea6a82accc11dafb9cc332a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f94a9980ea6a82accc11dafb9cc332a]: Textual amendment: [Rule 84A](https://www.legislation.gov.uk/ssi/2011/331/rule/84A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(15)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/15)
+[^c-3f94a9980ea6a82accc11dafb9cc332a]: Textual amendment: [Rule 84A](https://www.legislation.gov.uk/ssi/2011/331/rule/84A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(15)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/15)

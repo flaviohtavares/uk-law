@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Information about payment of annual allowance charge[^key-5a206ee0d49511d29400e1b09d567936]
+## 158. Information about payment of annual allowance charge[^c-5a206ee0d49511d29400e1b09d567936]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a206ee0d49511d29400e1b09d567936]: Commencement: [Reg. 158](https://www.legislation.gov.uk/uksi/2015/182/regulation/158) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-5a206ee0d49511d29400e1b09d567936]: Commencement: [Reg. 158](https://www.legislation.gov.uk/uksi/2015/182/regulation/158) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00065]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 237B was inserted by the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 17 paragraphs 1 and 15 and was amended by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) Schedule 46 paragraphs 119 and 129.

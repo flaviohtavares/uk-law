@@ -49,7 +49,7 @@ summary: ''
 
 - (a) for references to “Member States” there were substituted references to “ the Department ”;
 - (b) in paragraph (1), for the words “in accordance with Article 41 by a regulatory authority referred to in Article 39(1)” there were substituted “ by the Authority ”;
-- (c) in paragraph (3), for the reference to “Community competition rules” there were substituted a reference to “ assimilated[^key-6f98cca7d8375a97186a17d5cf0c9ff4] law relating to competition ”.
+- (c) in paragraph (3), for the reference to “Community competition rules” there were substituted a reference to “ assimilated[^c-6f98cca7d8375a97186a17d5cf0c9ff4] law relating to competition ”.
 
 (4A) For the purposes of paragraph (3)(ga)—
 
@@ -57,7 +57,7 @@ summary: ''
 - (b) the references to Article 34(1) and (2) of the Directive are to be read as references to those provisions with the following modifications—
   - (i) references to “Member States” are to be read as references to “the Department”;
   - (ii) in Article 34(1) the last sentence is to be omitted; and
-  - (iii) in Article 34(2)(d), the reference to “Community law” is to be read as a reference to “ assimilated[^key-cef2418ecc1d41c15abf5b6d6ff0875a] law”.
+  - (iii) in Article 34(2)(d), the reference to “Community law” is to be read as a reference to “ assimilated[^c-cef2418ecc1d41c15abf5b6d6ff0875a] law”.
 
 (5) Conditions included in a licence under Article 8(1)(a) must—
 
@@ -158,6 +158,6 @@ summary: ''
 
 [^M_F_2d56f27d-b65e-41c2-d9ab-3330b21984eb]: Textual amendment: Art. 10A substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [118](https://www.legislation.gov.uk/uksi/2019/530/regulation/118) (as amended by [S.R. 2020/305](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/305/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f98cca7d8375a97186a17d5cf0c9ff4]: Textual amendment: Word in [art. 10A(4)(c)](https://www.legislation.gov.uk/nisi/1996/275/article/10A/4/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/38/3)
+[^c-6f98cca7d8375a97186a17d5cf0c9ff4]: Textual amendment: Word in [art. 10A(4)(c)](https://www.legislation.gov.uk/nisi/1996/275/article/10A/4/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/38/3)
 
-[^key-cef2418ecc1d41c15abf5b6d6ff0875a]: Textual amendment: Word in [art. 10A(4A)(b)(iii)](https://www.legislation.gov.uk/nisi/1996/275/article/10A/4A/b/iii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/38/3)
+[^c-cef2418ecc1d41c15abf5b6d6ff0875a]: Textual amendment: Word in [art. 10A(4A)(b)(iii)](https://www.legislation.gov.uk/nisi/1996/275/article/10A/4A/b/iii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/38/3)

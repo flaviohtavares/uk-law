@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221B. Statement of strategy[^key-ac9cdb0ae300d76c032cc0cc369a888b]
+## 221B. Statement of strategy[^c-ac9cdb0ae300d76c032cc0cc369a888b]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac9cdb0ae300d76c032cc0cc369a888b]: Textual amendment: [Ss. 221A](https://www.legislation.gov.uk/ukpga/2004/35/section/221A), [221B](https://www.legislation.gov.uk/ukpga/2004/35/section/221B) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/b), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/10/paragraph/2); [S.I. 2024/451](https://www.legislation.gov.uk/uksi/2024/451), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/451/regulation/2/b)
+[^c-ac9cdb0ae300d76c032cc0cc369a888b]: Textual amendment: [Ss. 221A](https://www.legislation.gov.uk/ukpga/2004/35/section/221A), [221B](https://www.legislation.gov.uk/ukpga/2004/35/section/221B) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/b), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/10/paragraph/2); [S.I. 2024/451](https://www.legislation.gov.uk/uksi/2024/451), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/451/regulation/2/b)

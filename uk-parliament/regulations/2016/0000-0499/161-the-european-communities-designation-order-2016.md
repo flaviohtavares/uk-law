@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) Order 2016 (revoked)[^key-ad7a3457188aeab2f9da54bd8abeebb4]
+The European Communities (Designation) Order 2016 (revoked)[^c-ad7a3457188aeab2f9da54bd8abeebb4]
 
 Made
 
@@ -52,30 +52,30 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-ad7a3457188aeab2f9da54bd8abeebb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad7a3457188aeab2f9da54bd8abeebb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ad7a3457188aeab2f9da54bd8abeebb4]
+## 1. Citation, commencement and interpretation[^c-ad7a3457188aeab2f9da54bd8abeebb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the design, construction and fitting of buildings[^key-ad7a3457188aeab2f9da54bd8abeebb4]
+## 2. Designation in relation to the design, construction and fitting of buildings[^c-ad7a3457188aeab2f9da54bd8abeebb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Territorial restrictions[^key-ad7a3457188aeab2f9da54bd8abeebb4]
+## 3. Territorial restrictions[^c-ad7a3457188aeab2f9da54bd8abeebb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-ad7a3457188aeab2f9da54bd8abeebb4]
+## 4. Relationship with other designations[^c-ad7a3457188aeab2f9da54bd8abeebb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad7a3457188aeab2f9da54bd8abeebb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad7a3457188aeab2f9da54bd8abeebb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad7a3457188aeab2f9da54bd8abeebb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad7a3457188aeab2f9da54bd8abeebb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad7a3457188aeab2f9da54bd8abeebb4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/161) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad7a3457188aeab2f9da54bd8abeebb4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/161) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

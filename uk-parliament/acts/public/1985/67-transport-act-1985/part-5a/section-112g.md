@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112G. Investigations: representations[^key-64d75ccdff3c447b5e45672011c3d393]
+## 112G. Investigations: representations[^c-64d75ccdff3c447b5e45672011c3d393]
 
 *Extent: E+W+S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) an operator of road passenger transport services;
 - (b) a provider of road passenger transport facilities;
 - (c) a local traffic authority in England;
-- (d)[^key-6696bceeae9b9d2645a9b6a93584cc76] a strategic highways company for the time being appointed under Part 1 of the Infrastructure Act 2015;
+- (d)[^c-6696bceeae9b9d2645a9b6a93584cc76] a strategic highways company for the time being appointed under Part 1 of the Infrastructure Act 2015;
 - (e) a local transport authority in England.
 
 (2) If the Council makes representations to a person under this section—
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64d75ccdff3c447b5e45672011c3d393]: Textual amendment: Pt. 5A inserted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [arts. 1](https://www.legislation.gov.uk/uksi/2010/439/article/3), [3](https://www.legislation.gov.uk/uksi/2010/439/article/3)
+[^c-64d75ccdff3c447b5e45672011c3d393]: Textual amendment: Pt. 5A inserted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [arts. 1](https://www.legislation.gov.uk/uksi/2010/439/article/3), [3](https://www.legislation.gov.uk/uksi/2010/439/article/3)
 
-[^key-6696bceeae9b9d2645a9b6a93584cc76]: Textual amendment: [S. 112G(1)(d)](https://www.legislation.gov.uk/ukpga/1985/67/section/112G/1/d) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/101); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-6696bceeae9b9d2645a9b6a93584cc76]: Textual amendment: [S. 112G(1)(d)](https://www.legislation.gov.uk/ukpga/1985/67/section/112G/1/d) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/101); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

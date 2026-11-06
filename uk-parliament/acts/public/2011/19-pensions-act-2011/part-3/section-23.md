@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Financial assistance scheme: amount of payments[^key-8204dca75e549e3429b640f61485c548]
+## 23. Financial assistance scheme: amount of payments[^c-8204dca75e549e3429b640f61485c548]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8204dca75e549e3429b640f61485c548]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/19/section/23) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/e)
+[^c-8204dca75e549e3429b640f61485c548]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/19/section/23) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/e)

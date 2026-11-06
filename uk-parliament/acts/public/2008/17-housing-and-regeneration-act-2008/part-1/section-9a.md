@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Compulsory acquisition of land by strategic authorities outside London[^key-75f145bac3044317c51b231181e146c7]
+## 9A. Compulsory acquisition of land by strategic authorities outside London[^c-75f145bac3044317c51b231181e146c7]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ and consent of a constituent council must be given at a meeting of the CCA.
 
 ## Annotations
 
-[^key-75f145bac3044317c51b231181e146c7]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2008/17/section/9A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/18/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-75f145bac3044317c51b231181e146c7]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2008/17/section/9A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/18/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

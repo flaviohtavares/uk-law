@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Funding of the Authority[^key-c153aba5659a641a231e3938c11bf3cf][^c2191345]
+## 224. Funding of the Authority[^c-c153aba5659a641a231e3938c11bf3cf][^c2191345]
 
 *Extent: E+W*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c153aba5659a641a231e3938c11bf3cf]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2012/7/section/224) in force at 16.3.2015 in so far as not already in force by [S.I. 2015/409](https://www.legislation.gov.uk/uksi/2015/409), [art. 2](https://www.legislation.gov.uk/uksi/2015/409/article/2)
+[^c-c153aba5659a641a231e3938c11bf3cf]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2012/7/section/224) in force at 16.3.2015 in so far as not already in force by [S.I. 2015/409](https://www.legislation.gov.uk/uksi/2015/409), [art. 2](https://www.legislation.gov.uk/uksi/2015/409/article/2)
 
 [^c2191345]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2012/7/section/224) partly in force; [s. 224](https://www.legislation.gov.uk/ukpga/2012/7/section/224) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

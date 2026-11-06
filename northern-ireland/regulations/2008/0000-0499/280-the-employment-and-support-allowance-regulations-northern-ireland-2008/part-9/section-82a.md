@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82A. Effect of statutory shared parental pay on a contributory allowance[^key-e6d5048bb0914cf1a9e28f32388cf25a]
+## 82A. Effect of statutory shared parental pay on a contributory allowance[^c-e6d5048bb0914cf1a9e28f32388cf25a]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d5048bb0914cf1a9e28f32388cf25a]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/nisr/2008/280/regulation/82A) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [17(6)](https://www.legislation.gov.uk/nisr/2015/146/article/17/6), [26(p)](https://www.legislation.gov.uk/nisr/2015/146/article/26/p)
+[^c-e6d5048bb0914cf1a9e28f32388cf25a]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/nisr/2008/280/regulation/82A) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [17(6)](https://www.legislation.gov.uk/nisr/2015/146/article/17/6), [26(p)](https://www.legislation.gov.uk/nisr/2015/146/article/26/p)

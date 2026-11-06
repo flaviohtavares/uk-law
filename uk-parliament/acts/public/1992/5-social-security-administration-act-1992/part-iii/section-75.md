@@ -41,10 +41,10 @@ summary: ''
 
 (7) Where any amount recovered under this section is to be recovered otherwise than by deduction from prescribed benefits—
 
-- (a) if the person from whom it is recoverable resides in England and Wales and the county court so orders, it is recoverable under section 85 of the County Courts Act 1984[^key-e1ced0dc0e474a15620c318db7ef4d2f] or otherwise as if it were payable under an order of that court; and
+- (a) if the person from whom it is recoverable resides in England and Wales and the county court so orders, it is recoverable under section 85 of the County Courts Act 1984[^c-e1ced0dc0e474a15620c318db7ef4d2f] or otherwise as if it were payable under an order of that court; and
 - (b) if he resides in Scotland, it may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
-(8)[^key-60882b83daac18e80b2c74a18a3df59e] Regulations may provide for amounts recoverable under this section to be recovered by deductions from earnings.
+(8)[^c-60882b83daac18e80b2c74a18a3df59e] Regulations may provide for amounts recoverable under this section to be recovered by deductions from earnings.
 
 (9) In subsection (8) above “earnings“ has such meaning as may be prescribed.
 
@@ -76,6 +76,6 @@ summary: ''
 
 [^c24144721]: Textual amendment: s. 75(5)-(7) inserted (8.10.1997 for specified purposes, 3.11.1997 for all other purposes) by [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [ss. 16](https://www.legislation.gov.uk/ukpga/1997/47/section/16), [25(1)](https://www.legislation.gov.uk/ukpga/1997/47/section/25/1); [S.I. 1997/2417](https://www.legislation.gov.uk/uksi/1997/2417), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2417/article/2/2)
 
-[^key-e1ced0dc0e474a15620c318db7ef4d2f]: Textual amendment: Words in [s. 75(7)(a)](https://www.legislation.gov.uk/ukpga/1992/5/section/75/7/a) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 103](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/103) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-e1ced0dc0e474a15620c318db7ef4d2f]: Textual amendment: Words in [s. 75(7)(a)](https://www.legislation.gov.uk/ukpga/1992/5/section/75/7/a) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 103](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/103) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-60882b83daac18e80b2c74a18a3df59e]: Textual amendment: S. 75(8)-(10) inserted (1.7.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 106(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/106/3), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/c)
+[^c-60882b83daac18e80b2c74a18a3df59e]: Textual amendment: S. 75(8)-(10) inserted (1.7.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 106(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/106/3), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/c)

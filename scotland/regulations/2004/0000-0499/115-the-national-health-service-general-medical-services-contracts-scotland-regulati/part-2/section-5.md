@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. General conditions relating to all contracts[^key-e74eaa8b0cdcc8af7a47969e0d3c5181]
+## 5. General conditions relating to all contracts[^c-e74eaa8b0cdcc8af7a47969e0d3c5181]
 
 *Extent: S*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e74eaa8b0cdcc8af7a47969e0d3c5181]: Commencement: Reg. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e74eaa8b0cdcc8af7a47969e0d3c5181]: Commencement: Reg. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00040]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 

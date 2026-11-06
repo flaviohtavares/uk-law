@@ -46,7 +46,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 ### Help to prevent homelessness
 
-#### 1. Meaning of “threatened with homelessness”[^key-22c7eb7ca3ae0e990aff1c37bc2d8bed]
+#### 1. Meaning of “threatened with homelessness”[^c-22c7eb7ca3ae0e990aff1c37bc2d8bed]
 
 (1) Section 55 of the Housing (Wales) Act [2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7) (“**the 2014 Act**”) (meaning of homeless and threatened with homelessness) is amended as follows.
 
@@ -65,7 +65,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 > - (a) whether the notice is otherwise valid, and
 > - (b) the merits of any potential claim for possession of the accommodation by the person who gave the notice.
 
-#### 2. Help to prevent an applicant from becoming homeless[^key-b03c5f1b137d9f2eea6f3b1c4a481548]
+#### 2. Help to prevent an applicant from becoming homeless[^c-b03c5f1b137d9f2eea6f3b1c4a481548]
 
 (1) The 2014 Act is amended as follows.
 
@@ -86,7 +86,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 ### Assessment of needs and plans for securing accommodation and support
 
-#### 3. Duty to assess and notice of outcome of assessment[^key-625718edfaea11709454449610131767]
+#### 3. Duty to assess and notice of outcome of assessment[^c-625718edfaea11709454449610131767]
 
 (1) The 2014 Act is amended as follows.
 
@@ -134,7 +134,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
   - (i) after “subsection” insert “(A1),”;
   - (ii) in paragraph (a), after “review of the” insert “assessment or”.
 
-#### 4. Prevention, support and accommodation plans[^key-ea9c7470204f7bcb374a3fe0386b52f4]
+#### 4. Prevention, support and accommodation plans[^c-ea9c7470204f7bcb374a3fe0386b52f4]
 
 (1) The 2014 Act is amended as follows.
 
@@ -213,7 +213,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 ### Reviews
 
-#### 5. Right to request a review[^key-c44879b0401407885d94e7a1017d291a]
+#### 5. Right to request a review[^c-c44879b0401407885d94e7a1017d291a]
 
 (1) The 2014 Act is amended as follows.
 
@@ -282,7 +282,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 ### Reform of duties to secure accommodation
 
-#### 6. Duty to secure accommodation for eligible homeless persons with a local connection to Wales[^key-ee72c8dc98d8cc69cc80e4de8c02f85f]
+#### 6. Duty to secure accommodation for eligible homeless persons with a local connection to Wales[^c-ee72c8dc98d8cc69cc80e4de8c02f85f]
 
 (1) The 2014 Act is amended as follows.
 
@@ -352,7 +352,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 (4) In section 142(3)(b)(ii) (orders and regulations), after “section” insert “75(5)(b),”.
 
-#### 7. Circumstances in which the duty to secure accommodation for applicants comes to an end[^key-1d61276593a11d757736421a367e8f28]
+#### 7. Circumstances in which the duty to secure accommodation for applicants comes to an end[^c-1d61276593a11d757736421a367e8f28]
 
 (1) Section 76 of the 2014 Act (circumstances in which the duty in section 75 ends) is amended as follows.
 
@@ -382,7 +382,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 >
 > (7F) The authority may secure that suitable accommodation is available for the applicant’s occupation pending a decision on a review.
 
-#### 8. Interim duty to secure accommodation for homeless applicants[^key-9bfa98818161bd34e95bdf8bedcba10c]
+#### 8. Interim duty to secure accommodation for homeless applicants[^c-9bfa98818161bd34e95bdf8bedcba10c]
 
 (1) The 2014 Act is amended as follows.
 
@@ -433,7 +433,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 ### Abolishing entitlement by reference to priority needs and intentional homelessness
 
-#### 9. Abolition of differences in entitlement related to priority need[^key-e230e1bfdf4895d090110d72ecc25478]
+#### 9. Abolition of differences in entitlement related to priority need[^c-e230e1bfdf4895d090110d72ecc25478]
 
 (1) The 2014 Act is amended as follows.
 
@@ -443,7 +443,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 - (b) section 71 (meaning of vulnerable in section 70);
 - (c) section 72 (power to amend or repeal provisions about priority need for accommodation).
 
-#### 10. Abolition of differences in entitlement related to intentional homelessness[^key-d94f4660d45b673014b92fb1e4bf9e6b]
+#### 10. Abolition of differences in entitlement related to intentional homelessness[^c-d94f4660d45b673014b92fb1e4bf9e6b]
 
 (1) The 2014 Act is amended as follows.
 
@@ -454,7 +454,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 ### Local connection referrals
 
-#### 11. Referral of cases to another local housing authority[^key-62c0125a55fb411ffeb63e90fa5d340b]
+#### 11. Referral of cases to another local housing authority[^c-62c0125a55fb411ffeb63e90fa5d340b]
 
 (1) Section 80 of the 2014 Act (referral of case to another local housing authority) is amended as follows.
 
@@ -486,7 +486,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 (7) In section 142(3)(b)(ii) (orders and regulations), after “78(1)” insert “, 80(2)(b), 80(2A)(b)”.
 
-#### 12. Meaning of local connection[^key-e9533ce8642fc2fe5c8b5b9ae687e890]
+#### 12. Meaning of local connection[^c-e9533ce8642fc2fe5c8b5b9ae687e890]
 
 (1) The 2014 Act is amended as follows.
 
@@ -505,7 +505,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 - (a) in paragraph (i), omit “or 81(4)”;
 - (b) in paragraph (ii), after “**80(2A)(b)**” (inserted by section 11(7)) insert “, 81(4)”.
 
-#### 13. Exemption from referral to another local housing authority[^key-4c8127633e0207c2b0404f90411216e4]
+#### 13. Exemption from referral to another local housing authority[^c-4c8127633e0207c2b0404f90411216e4]
 
 (1) The 2014 Act is amended as follows.
 
@@ -526,7 +526,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
 
 (3) In section 142(3)(b)(ii) (orders and regulations), after “**81(4)**” (inserted by section 12(3)) insert “, 81A(2)(b)”.
 
-#### 14. Duties to applicants in referral cases[^key-93323b2ab3f59cdc9844b81b13783816]
+#### 14. Duties to applicants in referral cases[^c-93323b2ab3f59cdc9844b81b13783816]
 
 (1) Section 82 of the 2014 Act (duties to applicant whose case is considered for referral or referred) is amended as follows in subsections (2) to (6).
 
@@ -593,7 +593,7 @@ An Act of Senedd Cymru to reform the law on support to prevent and end homelessn
   ;
 - (c) omit subsection (3).
 
-#### 15. Cases referred from a local housing authority in England[^key-7dc4c274f00e7339c7344cf909270375]
+#### 15. Cases referred from a local housing authority in England[^c-7dc4c274f00e7339c7344cf909270375]
 
 In section 83(2) of the 2014 Act (cases referred from a local housing authority in England)—
 
@@ -604,7 +604,7 @@ In section 83(2) of the 2014 Act (cases referred from a local housing authority 
 
   .
 
-#### 16. Notice to applicants in referral cases[^key-1122eccea7187dc8fcc0d001df785702]
+#### 16. Notice to applicants in referral cases[^c-1122eccea7187dc8fcc0d001df785702]
 
 (1) The 2014 Act is amended as follows.
 
@@ -632,7 +632,7 @@ In section 83(2) of the 2014 Act (cases referred from a local housing authority 
 
 ### Further homelessness prevention duties
 
-#### 17. Help to retain suitable accommodation secured in exercise of homelessness functions[^key-cc1243f96afdb662b266a3d65269ca28]
+#### 17. Help to retain suitable accommodation secured in exercise of homelessness functions[^c-cc1243f96afdb662b266a3d65269ca28]
 
 (1) The 2014 Act is amended as follows.
 
@@ -692,7 +692,7 @@ In section 83(2) of the 2014 Act (cases referred from a local housing authority 
 
 (4) In section 84(1) (notice that duties have ended), for “or 75” substitute “, 75 or 76A(2)”.
 
-#### 18. Duty to contact certain applicants after duty in section 75 comes to an end[^key-eee3ac7a05acd28589027db89374605e]
+#### 18. Duty to contact certain applicants after duty in section 75 comes to an end[^c-eee3ac7a05acd28589027db89374605e]
 
 After section 76B of the 2014 Act (circumstances in which the duty in section 76A(2) comes to an end) (inserted by section 17(2)), insert—
 
@@ -718,7 +718,7 @@ After section 76B of the 2014 Act (circumstances in which the duty in section 76
 
 ### Unacceptable behaviour that brings duties to an end
 
-#### 19. Further circumstances in which the duties to help applicants end[^key-a82030a2cb732f7c354b622c307bf9eb]
+#### 19. Further circumstances in which the duties to help applicants end[^c-a82030a2cb732f7c354b622c307bf9eb]
 
 (1) Section 79 of the 2014 Act (further circumstances in which the duties to help applicants end) is amended as follows.
 
@@ -755,7 +755,7 @@ After section 76B of the 2014 Act (circumstances in which the duty in section 76
 
 ### Duty to ask and act
 
-#### 20. Duty of a specified person to ask and act[^key-b1082c8b4070386cbb3e5ce37bd47e0a]
+#### 20. Duty of a specified person to ask and act[^c-b1082c8b4070386cbb3e5ce37bd47e0a]
 
 (1) The 2014 Act is amended as follows.
 
@@ -842,7 +842,7 @@ After section 76B of the 2014 Act (circumstances in which the duty in section 76
 
 (4) In section 142(3)(b)(ii) (orders and regulations: procedure), for “or 86(1)” substitute “, 86(1), 94B(2)”.
 
-#### 21. Duty to refer persons in England to a local housing authority in Wales[^key-594e85a1a4c842aa0a3f9b19fb89ef13]
+#### 21. Duty to refer persons in England to a local housing authority in Wales[^c-594e85a1a4c842aa0a3f9b19fb89ef13]
 
 In section 213B of the 1996 Act (duty of public authority to refer cases in England to local housing authority)—
 
@@ -854,7 +854,7 @@ In section 213B of the 1996 Act (duty of public authority to refer cases in Engl
 
 ### Provision for vulnerable people
 
-#### 22. Duty to ensure young people leaving care have suitable accommodation[^key-6c5f50ef0f849368e070cf069c38c317]
+#### 22. Duty to ensure young people leaving care have suitable accommodation[^c-6c5f50ef0f849368e070cf069c38c317]
 
 (1) The Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4) is amended as follows.
 
@@ -917,7 +917,7 @@ In section 213B of the 1996 Act (duty of public authority to refer cases in Engl
 >   - (iv) the location of accommodation;
 > - (b) the personal characteristics or circumstances of a young person to whom section 108A or 109 applies or any person with whom the young person might reasonably be expected to reside.
 
-#### 23. Protocol for handling cases involving care leavers etc.[^key-a5bc1f24e4fbbee3db5bfb7cd5d1f820]
+#### 23. Protocol for handling cases involving care leavers etc.[^c-a5bc1f24e4fbbee3db5bfb7cd5d1f820]
 
 (1) Section 95 of the 2014 Act (co-operation) is amended as follows.
 
@@ -936,7 +936,7 @@ In section 213B of the 1996 Act (duty of public authority to refer cases in Engl
 > - (a) means persons falling within any of the categories of young person entitled to support under any of sections 105 to 115 of the 2014 Act (see section 104 of the 2014 Act), and
 > - (b) in paragraph (c), it includes persons who would be so entitled were it not for sections 185 and 186 of the 2014 Act.
 
-#### 24. Protocol for handling cases involving persons in particular need of support[^key-d65266e0384c7c4f8f4abbdef5fd2921]
+#### 24. Protocol for handling cases involving persons in particular need of support[^c-d65266e0384c7c4f8f4abbdef5fd2921]
 
 (1) Section 95 of the 2014 Act (co-operation) is amended as follows.
 
@@ -963,18 +963,18 @@ In section 213B of the 1996 Act (duty of public authority to refer cases in Engl
 > - (c) misusing drugs and other substances;
 > - (d) mental health.
 
-#### 25. Protection of property: prisoners[^key-b7703b97636a7cde8963619d34d3b561]
+#### 25. Protection of property: prisoners[^c-b7703b97636a7cde8963619d34d3b561]
 
 In section 93(1) of the 2014 Act (protection of property), after “subsection (2),” insert “or would have become subject to the duty in section 75 in respect of an applicant but for section 75(7) applying,”.
 
-#### 26. Duty to provide information, advice and assistance: detained persons[^key-dee8958e8b174c863a80c152517af24c]
+#### 26. Duty to provide information, advice and assistance: detained persons[^c-dee8958e8b174c863a80c152517af24c]
 
 In section 60 of the 2014 Act (duty to provide information, advice and assistance in accessing help)—
 
 - (a) in subsection (1), after “connection with its area” insert “(including, in particular, persons detained under the authority of an enactment who are in its area or have a local connection with its area)”;
 - (b) in subsection (4), in paragraph (a) after “people” insert “in, or people”.
 
-#### 27. Definition of “abuse”[^key-bb59a192c2cdab7b9511f1db7be34bd8]
+#### 27. Definition of “abuse”[^c-bb59a192c2cdab7b9511f1db7be34bd8]
 
 For section 58 of the 2014 Act (meaning of abuse and domestic abuse) substitute—
 
@@ -989,7 +989,7 @@ For section 58 of the 2014 Act (meaning of abuse and domestic abuse) substitute�
 
 ### Seeking the views of homeless persons
 
-#### 28. Duty to seek the views of homeless persons in exercise of homelessness functions[^key-b0a9d5730b4be4f8e6ad122740dbb85e]
+#### 28. Duty to seek the views of homeless persons in exercise of homelessness functions[^c-b0a9d5730b4be4f8e6ad122740dbb85e]
 
 (1) The 2014 Act is amended as follows.
 
@@ -1003,7 +1003,7 @@ For section 58 of the 2014 Act (meaning of abuse and domestic abuse) substitute�
 
 ### Condition of accommodation
 
-#### 29. Suitability of accommodation[^key-bf94d0a791b701df68d77ca0313a8307]
+#### 29. Suitability of accommodation[^c-bf94d0a791b701df68d77ca0313a8307]
 
 In section 59(1) of the 2014 Act (suitability of accommodation)—
 
@@ -1012,7 +1012,7 @@ In section 59(1) of the 2014 Act (suitability of accommodation)—
 
   > - (h) Part 4 of the Renting Homes (Wales) Act 2016 (condition of dwelling).
 
-#### 30. Reports on use and condition of interim accommodation[^key-b50527f221b275b7560d912114127986]
+#### 30. Reports on use and condition of interim accommodation[^c-b50527f221b275b7560d912114127986]
 
 After section 97 of the 2014 Act (false statements etc.) insert—
 
@@ -1028,7 +1028,7 @@ After section 97 of the 2014 Act (false statements etc.) insert—
 
 ### Co-operation
 
-#### 31. Co-operation[^key-3862884013335d6b1a82e7b8c8d020f6]
+#### 31. Co-operation[^c-3862884013335d6b1a82e7b8c8d020f6]
 
 (1) The 2014 Act is amended as follows.
 
@@ -1076,7 +1076,7 @@ After section 97 of the 2014 Act (false statements etc.) insert—
 
 (3) In section 142(3)(b)(ii) (orders and regulations: procedure), after “**94B(2)**” (inserted by section 20(4)) insert “or 95(6)”.
 
-#### 32. Co-operation between social landlords and local housing authorities[^key-79fa4a67005071479678ae2acf84d342]
+#### 32. Co-operation between social landlords and local housing authorities[^c-79fa4a67005071479678ae2acf84d342]
 
 After section 96 of the 2014 Act (co-operation in certain cases involving children) insert—
 
@@ -1139,7 +1139,7 @@ After section 96 of the 2014 Act (co-operation in certain cases involving childr
 
 ### Viewing accommodation
 
-#### 33. Viewing accommodation[^key-e091b93baa8e9205f60c3b9880aac0ba]
+#### 33. Viewing accommodation[^c-e091b93baa8e9205f60c3b9880aac0ba]
 
 After section 96B of the 2014 Act (directions to require compliance with requests under section 96A) (inserted by section 32) insert—
 
@@ -1153,13 +1153,13 @@ After section 96B of the 2014 Act (directions to require compliance with request
 
 ### Ineligibility for allocation of social housing
 
-#### 34. Ineligibility for allocation of housing as a result of unacceptable behaviour[^key-35cb1ad0d6220516a04217bf5a43a066]
+#### 34. Ineligibility for allocation of housing as a result of unacceptable behaviour[^c-35cb1ad0d6220516a04217bf5a43a066]
 
 In section 160A(7)(b) of the 1996 Act (allocation only to eligible persons: Wales), after “considered” insert “, taking into account, in particular, the likelihood of that behaviour reoccurring,”.
 
 ### Preference for persons in allocation schemes
 
-#### 35. No preference for persons who try to manipulate the housing system[^key-7ec4ba319d928bc9121a227c0a5ab5ff]
+#### 35. No preference for persons who try to manipulate the housing system[^c-7ec4ba319d928bc9121a227c0a5ab5ff]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1200,7 +1200,7 @@ In section 160A(7)(b) of the 1996 Act (allocation only to eligible persons: Wale
 > - (a) accommodation is available for occupation if it would be for the purposes of Chapter 2 of Part 2 of the 2014 Act (see section 56 of the 2014 Act);
 > - (b) it is reasonable to continue to occupy accommodation if it would be for the purposes of Chapter 2 of Part 2 of the 2014 Act (see section 57 of the 2014 Act).
 
-#### 36. Preference for young people leaving care[^key-b7379d175b7da9e535044f6a549c9b1e]
+#### 36. Preference for young people leaving care[^c-b7379d175b7da9e535044f6a549c9b1e]
 
 In section 167(2) of the 1996 Act (allocation in accordance with allocation scheme: Wales), after paragraph (b) insert—
 
@@ -1208,7 +1208,7 @@ In section 167(2) of the 1996 Act (allocation in accordance with allocation sche
 
 ### Registers
 
-#### 37. Housing registers[^key-a8880dae56515fc8fb04ac41dcaadf49]
+#### 37. Housing registers[^c-a8880dae56515fc8fb04ac41dcaadf49]
 
 After section 160A of the 1996 Act (allocation only to eligible persons: Wales) insert—
 
@@ -1281,7 +1281,7 @@ After section 160A of the 1996 Act (allocation only to eligible persons: Wales) 
 
 ### Miscellaneous
 
-#### 38. Guidance to local housing authorities on rent guarantees[^key-d0101460c0990296bcf606e85320320d]
+#### 38. Guidance to local housing authorities on rent guarantees[^c-d0101460c0990296bcf606e85320320d]
 
 (1) The Welsh Ministers must give guidance to local housing authorities about making arrangements under which a local housing authority guarantees payment of rent by an occupier of housing accommodation in accordance with an agreement of any kind.
 
@@ -1293,7 +1293,7 @@ After section 160A of the 1996 Act (allocation only to eligible persons: Wales) 
 
 (5) In this section, “**local housing authority**” means the council of a county or county borough in Wales.
 
-#### 39. Review of the operation and effect of changes made by this Act[^key-a520f3bc2887016401062bf26dd4fa6b]
+#### 39. Review of the operation and effect of changes made by this Act[^c-a520f3bc2887016401062bf26dd4fa6b]
 
 (1) The Welsh Ministers must carry out a review of the operation and effect of the changes made by this Act to the 2014 Act, the 1996 Act and the Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4).
 
@@ -1307,20 +1307,20 @@ After section 160A of the 1996 Act (allocation only to eligible persons: Wales) 
 
 ### General
 
-#### 40. Interpretation[^key-917a2cf0e610a4ff973ef395a30bf52d]
+#### 40. Interpretation[^c-917a2cf0e610a4ff973ef395a30bf52d]
 
 In this Act—
 
 - “**the 1996 Act**” (“*Deddf 1996”)* means the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52);
 - “**the 2014 Act**” (“*Deddf 2014”)* means the Housing (Wales) Act [2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7).
 
-#### 41. Minor and consequential provision[^key-38c6259e212d9ee9aa4ad2b70a262046]
+#### 41. Minor and consequential provision[^c-38c6259e212d9ee9aa4ad2b70a262046]
 
 **Not yet in force.**
 
 The Schedule to this Act makes minor and consequential provision.
 
-#### 42. Power to make consequential and transitional provision etc.[^key-4153b251ef20c27aadf32968f2a27714]
+#### 42. Power to make consequential and transitional provision etc.[^c-4153b251ef20c27aadf32968f2a27714]
 
 (1) The Welsh Ministers may, by regulations, make—
 
@@ -1338,7 +1338,7 @@ The Schedule to this Act makes minor and consequential provision.
 
 (5) Regulations under subsection (1) to which subsection (4) does not apply are subject to the Senedd annulment procedure.
 
-#### 43. Coming into force[^key-08e003880bf4ab6ac5e4a12f41c2d368]
+#### 43. Coming into force[^c-08e003880bf4ab6ac5e4a12f41c2d368]
 
 (1) The provisions of this Part (except section 41) come into force on the day after the day on which this Act receives Royal Assent.
 
@@ -1351,7 +1351,7 @@ The Schedule to this Act makes minor and consequential provision.
 
 (4) An order under subsection (2) may not appoint a day for the coming into force of section 35 that is earlier than the day appointed for the coming into force of section 10.
 
-#### 44. Progress reports on bringing the Act into force[^key-c0cc1bc758d5f2321b2f40db8155f2df]
+#### 44. Progress reports on bringing the Act into force[^c-c0cc1bc758d5f2321b2f40db8155f2df]
 
 (1) The duty in subsection (2) applies if this Act is not fully in force on any of the following days—
 
@@ -1366,7 +1366,7 @@ The Schedule to this Act makes minor and consequential provision.
 
 (3) The Welsh Ministers must publish the report required by subsection (2) and lay a copy of it before Senedd Cymru as soon as reasonably practicable after the day mentioned in subsection (1) in respect of which the duty in subsection (2) applies.
 
-#### 45. Short title[^key-42728aa317eb236fd08da30dfbbdc9aa]
+#### 45. Short title[^c-42728aa317eb236fd08da30dfbbdc9aa]
 
 This Act may be referred to as—
 
@@ -1379,7 +1379,7 @@ This Act may be referred to as—
 
 (introduced by section 41)
 
-### 1. Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52)[^key-6b46dd1b15ecfcd42f32a32db79ecc45]
+### 1. Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52)[^c-6b46dd1b15ecfcd42f32a32db79ecc45]
 
 (1) The Housing Act 1996 is amended as follows.
 
@@ -1444,7 +1444,7 @@ This Act may be referred to as—
 > | --- | --- |
 > | common housing register | section 160B |
 
-### 2. Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4)[^key-25c2df8abc5384aaeb3e2d6ef537bb67]
+### 2. Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4)[^c-25c2df8abc5384aaeb3e2d6ef537bb67]
 
 (1) The Social Services and Well-being (Wales) Act 2014 is amended as follows.
 
@@ -1456,7 +1456,7 @@ This Act may be referred to as—
 > | Section 94A, so far as it relates to the functions of a specified person by virtue of section 94B(1)(a); | Duty to ask whether a person is homeless or threatened with homelessness and duty to act where a person is homeless or threatened with homelessness; |
 > | Section 95, so far as it relates to other social services functions. | Co-operation and information sharing in relation to homeless persons and persons threatened with homelessness. |
 
-### 3. Housing (Wales) Act [2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7)[^key-f0d82e6c475d6f6be22498b5846bc7c7]
+### 3. Housing (Wales) Act [2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7)[^c-f0d82e6c475d6f6be22498b5846bc7c7]
 
 (1) The Housing (Wales) Act 2014 is amended as follows.
 
@@ -1631,7 +1631,7 @@ This Act may be referred to as—
   - (i) in paragraph (a), after “homelessness” omit “, or”;
   - (ii) omit paragraph (b).
 
-### 4. Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)[^key-8c078141f9b6038b0ededf7bd2b8d51d]
+### 4. Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)[^c-8c078141f9b6038b0ededf7bd2b8d51d]
 
 (1) The Renting Homes (Wales) Act 2016 is amended as follows.
 
@@ -1639,100 +1639,100 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-22c7eb7ca3ae0e990aff1c37bc2d8bed]: Commencement: S. 1 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-22c7eb7ca3ae0e990aff1c37bc2d8bed]: Commencement: S. 1 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-b03c5f1b137d9f2eea6f3b1c4a481548]: Commencement: S. 2 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-b03c5f1b137d9f2eea6f3b1c4a481548]: Commencement: S. 2 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-625718edfaea11709454449610131767]: Commencement: S. 3 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-625718edfaea11709454449610131767]: Commencement: S. 3 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-ea9c7470204f7bcb374a3fe0386b52f4]: Commencement: S. 4 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-ea9c7470204f7bcb374a3fe0386b52f4]: Commencement: S. 4 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-c44879b0401407885d94e7a1017d291a]: Commencement: S. 5 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-c44879b0401407885d94e7a1017d291a]: Commencement: S. 5 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-ee72c8dc98d8cc69cc80e4de8c02f85f]: Commencement: S. 6 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-ee72c8dc98d8cc69cc80e4de8c02f85f]: Commencement: S. 6 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-1d61276593a11d757736421a367e8f28]: Commencement: S. 7 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-1d61276593a11d757736421a367e8f28]: Commencement: S. 7 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-9bfa98818161bd34e95bdf8bedcba10c]: Commencement: S. 8 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-9bfa98818161bd34e95bdf8bedcba10c]: Commencement: S. 8 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-e230e1bfdf4895d090110d72ecc25478]: Commencement: S. 9 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-e230e1bfdf4895d090110d72ecc25478]: Commencement: S. 9 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-d94f4660d45b673014b92fb1e4bf9e6b]: Commencement: S. 10 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-d94f4660d45b673014b92fb1e4bf9e6b]: Commencement: S. 10 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-62c0125a55fb411ffeb63e90fa5d340b]: Commencement: S. 11 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-62c0125a55fb411ffeb63e90fa5d340b]: Commencement: S. 11 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-e9533ce8642fc2fe5c8b5b9ae687e890]: Commencement: S. 12 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-e9533ce8642fc2fe5c8b5b9ae687e890]: Commencement: S. 12 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-4c8127633e0207c2b0404f90411216e4]: Commencement: S. 13 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-4c8127633e0207c2b0404f90411216e4]: Commencement: S. 13 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-93323b2ab3f59cdc9844b81b13783816]: Commencement: S. 14 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-93323b2ab3f59cdc9844b81b13783816]: Commencement: S. 14 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-7dc4c274f00e7339c7344cf909270375]: Commencement: S. 15 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-7dc4c274f00e7339c7344cf909270375]: Commencement: S. 15 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-1122eccea7187dc8fcc0d001df785702]: Commencement: S. 16 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-1122eccea7187dc8fcc0d001df785702]: Commencement: S. 16 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-cc1243f96afdb662b266a3d65269ca28]: Commencement: S. 17 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-cc1243f96afdb662b266a3d65269ca28]: Commencement: S. 17 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-eee3ac7a05acd28589027db89374605e]: Commencement: S. 18 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-eee3ac7a05acd28589027db89374605e]: Commencement: S. 18 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-a82030a2cb732f7c354b622c307bf9eb]: Commencement: S. 19 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-a82030a2cb732f7c354b622c307bf9eb]: Commencement: S. 19 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-b1082c8b4070386cbb3e5ce37bd47e0a]: Commencement: S. 20 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-b1082c8b4070386cbb3e5ce37bd47e0a]: Commencement: S. 20 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-594e85a1a4c842aa0a3f9b19fb89ef13]: Commencement: S. 21 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-594e85a1a4c842aa0a3f9b19fb89ef13]: Commencement: S. 21 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-6c5f50ef0f849368e070cf069c38c317]: Commencement: S. 22 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-6c5f50ef0f849368e070cf069c38c317]: Commencement: S. 22 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-a5bc1f24e4fbbee3db5bfb7cd5d1f820]: Commencement: S. 23 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-a5bc1f24e4fbbee3db5bfb7cd5d1f820]: Commencement: S. 23 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-d65266e0384c7c4f8f4abbdef5fd2921]: Commencement: S. 24 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-d65266e0384c7c4f8f4abbdef5fd2921]: Commencement: S. 24 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-b7703b97636a7cde8963619d34d3b561]: Commencement: S. 25 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-b7703b97636a7cde8963619d34d3b561]: Commencement: S. 25 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-dee8958e8b174c863a80c152517af24c]: Commencement: S. 26 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-dee8958e8b174c863a80c152517af24c]: Commencement: S. 26 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-bb59a192c2cdab7b9511f1db7be34bd8]: Commencement: S. 27 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-bb59a192c2cdab7b9511f1db7be34bd8]: Commencement: S. 27 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-b0a9d5730b4be4f8e6ad122740dbb85e]: Commencement: S. 28 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-b0a9d5730b4be4f8e6ad122740dbb85e]: Commencement: S. 28 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-bf94d0a791b701df68d77ca0313a8307]: Commencement: S. 29 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-bf94d0a791b701df68d77ca0313a8307]: Commencement: S. 29 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-b50527f221b275b7560d912114127986]: Commencement: S. 30 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-b50527f221b275b7560d912114127986]: Commencement: S. 30 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-3862884013335d6b1a82e7b8c8d020f6]: Commencement: S. 31 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-3862884013335d6b1a82e7b8c8d020f6]: Commencement: S. 31 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-79fa4a67005071479678ae2acf84d342]: Commencement: S. 32 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-79fa4a67005071479678ae2acf84d342]: Commencement: S. 32 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-e091b93baa8e9205f60c3b9880aac0ba]: Commencement: S. 33 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-e091b93baa8e9205f60c3b9880aac0ba]: Commencement: S. 33 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-35cb1ad0d6220516a04217bf5a43a066]: Commencement: S. 34 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-35cb1ad0d6220516a04217bf5a43a066]: Commencement: S. 34 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-7ec4ba319d928bc9121a227c0a5ab5ff]: Commencement: S. 35 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-7ec4ba319d928bc9121a227c0a5ab5ff]: Commencement: S. 35 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-b7379d175b7da9e535044f6a549c9b1e]: Commencement: S. 36 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-b7379d175b7da9e535044f6a549c9b1e]: Commencement: S. 36 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-a8880dae56515fc8fb04ac41dcaadf49]: Commencement: S. 37 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-a8880dae56515fc8fb04ac41dcaadf49]: Commencement: S. 37 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-d0101460c0990296bcf606e85320320d]: Commencement: S. 38 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-d0101460c0990296bcf606e85320320d]: Commencement: S. 38 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-a520f3bc2887016401062bf26dd4fa6b]: Commencement: S. 39 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-a520f3bc2887016401062bf26dd4fa6b]: Commencement: S. 39 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-917a2cf0e610a4ff973ef395a30bf52d]: Commencement: S. 40 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-917a2cf0e610a4ff973ef395a30bf52d]: Commencement: S. 40 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-38c6259e212d9ee9aa4ad2b70a262046]: Commencement: S. 41 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-38c6259e212d9ee9aa4ad2b70a262046]: Commencement: S. 41 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-4153b251ef20c27aadf32968f2a27714]: Commencement: S. 42 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-4153b251ef20c27aadf32968f2a27714]: Commencement: S. 42 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-08e003880bf4ab6ac5e4a12f41c2d368]: Commencement: S. 43 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-08e003880bf4ab6ac5e4a12f41c2d368]: Commencement: S. 43 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-c0cc1bc758d5f2321b2f40db8155f2df]: Commencement: S. 44 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-c0cc1bc758d5f2321b2f40db8155f2df]: Commencement: S. 44 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-42728aa317eb236fd08da30dfbbdc9aa]: Commencement: S. 45 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
+[^c-42728aa317eb236fd08da30dfbbdc9aa]: Commencement: S. 45 in force at 2.4.2026, see [s. 43(1)](https://www.legislation.gov.uk/asc/2026/3/section/43/1)
 
-[^key-6b46dd1b15ecfcd42f32a32db79ecc45]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-6b46dd1b15ecfcd42f32a32db79ecc45]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-25c2df8abc5384aaeb3e2d6ef537bb67]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-25c2df8abc5384aaeb3e2d6ef537bb67]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-f0d82e6c475d6f6be22498b5846bc7c7]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-f0d82e6c475d6f6be22498b5846bc7c7]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
 
-[^key-8c078141f9b6038b0ededf7bd2b8d51d]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)
+[^c-8c078141f9b6038b0ededf7bd2b8d51d]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 43(2)](https://www.legislation.gov.uk/asc/2026/3/section/43/2)

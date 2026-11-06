@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies in relation to the processing of personal data for a law enforcement purpose where the processing is carried out[^key-c283492444369915cc8328a5db21ac24]—
+(1) This section applies in relation to the processing of personal data for a law enforcement purpose where the processing is carried out[^c-c283492444369915cc8328a5db21ac24]—
 
 - (a) for archiving purposes in the public interest,
 - (b) for scientific or historical research purposes, or
@@ -35,4 +35,4 @@ summary: ''
 
 [^M_I_e27ca271-6da8-48a7-c4bb-7fd1cdf1d86a]: Commencement: S. 41 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-c283492444369915cc8328a5db21ac24]: Textual amendment: Words in s. 41(1) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-c283492444369915cc8328a5db21ac24]: Textual amendment: Words in s. 41(1) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)

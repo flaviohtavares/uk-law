@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. No loss relief for losses from contracts for life insurance etc[^key-f26e59ecd10737568decd7622e539357]
+## 69. No loss relief for losses from contracts for life insurance etc[^c-f26e59ecd10737568decd7622e539357]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f26e59ecd10737568decd7622e539357]: Textual amendment: S. 69 omitted (with effect and application in accordance with s. 22(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 22(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/22/7)
+[^c-f26e59ecd10737568decd7622e539357]: Textual amendment: S. 69 omitted (with effect and application in accordance with s. 22(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 22(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/22/7)

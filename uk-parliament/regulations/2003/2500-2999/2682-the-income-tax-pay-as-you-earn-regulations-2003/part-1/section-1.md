@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-ef45385666ebf117e17dfb4c46ea8922]
+## 1. Citation and commencement[^c-ef45385666ebf117e17dfb4c46ea8922]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as The Income Tax (Pay As You Earn) Regulations 2
 
 ## Annotations
 
-[^key-ef45385666ebf117e17dfb4c46ea8922]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-ef45385666ebf117e17dfb4c46ea8922]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

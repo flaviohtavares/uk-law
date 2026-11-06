@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. The use of information and facts available to the TRA from secondary sources[^key-0fbc62d90344934b56c104ec6c62f184]
+## 18. The use of information and facts available to the TRA from secondary sources[^c-0fbc62d90344934b56c104ec6c62f184]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fbc62d90344934b56c104ec6c62f184]: Commencement: Reg. 18 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-0fbc62d90344934b56c104ec6c62f184]: Commencement: Reg. 18 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Corporate offending[^key-a2a354a16cab2d51e4f5b5080b1f8d0c]
+## 45. Corporate offending[^c-a2a354a16cab2d51e4f5b5080b1f8d0c]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ but in each case also includes person purporting to act in such a capacity.
 
 ## Annotations
 
-[^key-a2a354a16cab2d51e4f5b5080b1f8d0c]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2013/5/section/45) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-a2a354a16cab2d51e4f5b5080b1f8d0c]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2013/5/section/45) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

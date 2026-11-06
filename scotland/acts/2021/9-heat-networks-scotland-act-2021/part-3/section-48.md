@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Designation of heat network zone by local authority[^key-3df545f9cbd43142f06e05396e0b0545][^key-a37af2b3c135d2e1391eb19cd0e940da]
+## 48. Designation of heat network zone by local authority[^c-3df545f9cbd43142f06e05396e0b0545][^c-a37af2b3c135d2e1391eb19cd0e940da]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3df545f9cbd43142f06e05396e0b0545]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2021/9/section/48) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-3df545f9cbd43142f06e05396e0b0545]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2021/9/section/48) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
 
-[^key-a37af2b3c135d2e1391eb19cd0e940da]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2021/9/section/48) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/c)
+[^c-a37af2b3c135d2e1391eb19cd0e940da]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2021/9/section/48) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/c)

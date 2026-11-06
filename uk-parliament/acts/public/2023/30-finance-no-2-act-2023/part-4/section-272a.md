@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272A. Treatment of covered bond vehicles[^key-bf6d1fa9de000e46e59bcd907277a81a]
+## 272A. Treatment of covered bond vehicles[^c-bf6d1fa9de000e46e59bcd907277a81a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ as if the adjusted profits of the covered bond vehicle were nil.
 
 ## Annotations
 
-[^key-bf6d1fa9de000e46e59bcd907277a81a]: Textual amendment: [S. 272A](https://www.legislation.gov.uk/ukpga/2023/30/section/272A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 42(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/42/3)
+[^c-bf6d1fa9de000e46e59bcd907277a81a]: Textual amendment: [S. 272A](https://www.legislation.gov.uk/ukpga/2023/30/section/272A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 42(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/42/3)

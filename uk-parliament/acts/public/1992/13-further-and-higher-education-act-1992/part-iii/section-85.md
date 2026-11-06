@@ -22,7 +22,7 @@ summary: ''
 
 (1) Chapter III of Part II of the [^c11066531]Education Reform Act 1988 (finance and government of locally funded further and higher education) shall cease to have effect; and section 156 of that Act (government and conduct of certain further and higher education institutions) shall cease to have effect in relation to designated assisted institutions.
 
-(2) A local authority[^key-5ca14e1c5c9fb4ff32ae914fdd63af76] shall have the following powers in relation to any institution, not within the further education sector or the higher education sector, which is maintained by them in the exercise of their further or higher education functions.
+(2) A local authority[^c-5ca14e1c5c9fb4ff32ae914fdd63af76] shall have the following powers in relation to any institution, not within the further education sector or the higher education sector, which is maintained by them in the exercise of their further or higher education functions.
 
 (3) The authority may—
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c11066531]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of the Weights and Measures (Intoxicating Liquor) Order 1988[^key-1a6b770f538acc264284f053ff735fae]
+## 9. Amendment of the Weights and Measures (Intoxicating Liquor) Order 1988[^c-1a6b770f538acc264284f053ff735fae]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 6 contains amendment of the Weights and Measures (Intoxicating Liquor) 
 
 ## Annotations
 
-[^key-1a6b770f538acc264284f053ff735fae]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1a6b770f538acc264284f053ff735fae]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24326061]: Marginal citation: [S.I. 1988/2039](https://www.legislation.gov.uk/uksi/1988/2039), amended by [S.I. 2009/663](https://www.legislation.gov.uk/uksi/2009/663).There are other amending instruments but none is relevant.

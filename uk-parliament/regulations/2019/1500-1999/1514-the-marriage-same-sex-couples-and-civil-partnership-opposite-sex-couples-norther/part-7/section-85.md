@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^key-505d79737d611a829c9f31f0b8c2b57f]
+## 85. Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^c-505d79737d611a829c9f31f0b8c2b57f]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2(1) of the Social Security (Incapacity for Work) (General) Regula
 
 ## Annotations
 
-[^key-505d79737d611a829c9f31f0b8c2b57f]: Commencement: Reg. 85 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-505d79737d611a829c9f31f0b8c2b57f]: Commencement: Reg. 85 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00146]: Footnote: [S.R. (N.I.) 1995/41](https://www.legislation.gov.uk/nisr/1995/41). In regulation 2(1), the definition of “couple” was inserted by paragraph 22 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

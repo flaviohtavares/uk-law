@@ -25,7 +25,7 @@ summary: ''
 - (a) is required or invited by his employer to attend a disciplinary or grievance hearing, and
 - (b) reasonably requests to be accompanied at the hearing.
 
-(2A)[^key-36a39a31f4c0e2e5c2985f08c3671dd0] Where this section applies, the employer must permit the worker to be accompanied at the hearing by one companion who—
+(2A)[^c-36a39a31f4c0e2e5c2985f08c3671dd0] Where this section applies, the employer must permit the worker to be accompanied at the hearing by one companion who—
 
 - (a) is chosen by the worker; and
 - (b) is within subsection (3).
@@ -65,14 +65,14 @@ the employer must postpone the hearing to the time proposed by the worker.
 
 (6) An employer shall permit a worker to take time off during working hours for the purpose of accompanying another of the employer’s workers in accordance with a request under subsection (1)(b).
 
-(7) Sections 168(3) , (4) and (5)[^key-5f7402d7d73ebc4cb6d76acfc17a9eb6], 169 and 171 to 173 of the [^c12486121]Trade Union and Labour Relations (Consolidation) Act 1992 (time off for carrying out trade union duties) shall apply in relation to subsection (6) above as they apply in relation to section 168(1) of that Act.
+(7) Sections 168(3) , (4) and (5)[^c-5f7402d7d73ebc4cb6d76acfc17a9eb6], 169 and 171 to 173 of the [^c12486121]Trade Union and Labour Relations (Consolidation) Act 1992 (time off for carrying out trade union duties) shall apply in relation to subsection (6) above as they apply in relation to section 168(1) of that Act.
 
 ## Annotations
 
 [^c12486111]: Modification: S. 10 restricted (4.9.2000) by [S.I. 2000/2242](https://www.legislation.gov.uk/uksi/2000/2242), [art. 3](https://www.legislation.gov.uk/uksi/2000/2242/article/3)
 
-[^key-36a39a31f4c0e2e5c2985f08c3671dd0]: Textual amendment: S. 10(2A)-(2C) substituted for s. 10(2) (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/37/1), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/2566/article/8))
+[^c-36a39a31f4c0e2e5c2985f08c3671dd0]: Textual amendment: S. 10(2A)-(2C) substituted for s. 10(2) (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/37/1), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/2566/article/8))
 
-[^key-5f7402d7d73ebc4cb6d76acfc17a9eb6]: Textual amendment: Words in [s. 10(7)](https://www.legislation.gov.uk/ukpga/1999/26/section/10/7) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-5f7402d7d73ebc4cb6d76acfc17a9eb6]: Textual amendment: Words in [s. 10(7)](https://www.legislation.gov.uk/ukpga/1999/26/section/10/7) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
 
 [^c12486121]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).

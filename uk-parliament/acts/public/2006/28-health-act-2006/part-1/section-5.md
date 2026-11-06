@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Vehicles[^c16418381][^key-e35db9500ebd137cf99729cc96f3e57e]
+## 5. Vehicles[^c16418381][^c-e35db9500ebd137cf99729cc96f3e57e]
 
 *Extent: E+W*
 
-(1)[^key-88c39a5269069bd1df637683c7b3bc09] The Secretary of State[^key-4d39831f63939ddd2150aa6c48889ba8] may make regulations providing for vehicles in England[^key-6586907370e8ffd1b9b7bc8e81b83479] to be smoke-free.
+(1)[^c-88c39a5269069bd1df637683c7b3bc09] The Secretary of State[^c-4d39831f63939ddd2150aa6c48889ba8] may make regulations providing for vehicles in England[^c-6586907370e8ffd1b9b7bc8e81b83479] to be smoke-free.
 
-(1A)[^key-1cb349ef3b07ac6c759170515c6624b3] Regulations under this section may in particular provide for a private vehicle to be smoke-free where a person under the age of 18 is present in the vehicle.
+(1A)[^c-1cb349ef3b07ac6c759170515c6624b3] Regulations under this section may in particular provide for a private vehicle to be smoke-free where a person under the age of 18 is present in the vehicle.
 
-(2)[^key-88c39a5269069bd1df637683c7b3bc09] Regulations under this section[^key-b283d8973797913ef762855215e7a0fe] may in particular make provision—
+(2)[^c-88c39a5269069bd1df637683c7b3bc09] Regulations under this section[^c-b283d8973797913ef762855215e7a0fe] may in particular make provision—
 
 - (a) for the descriptions of vehicle which are to be smoke-free,
 - (b) for the circumstances in which they are to be smoke-free,
 - (c) for them to be smoke-free only in specified areas, or except in specified areas,
 - (d) for exemptions.
 
-(3)[^key-88c39a5269069bd1df637683c7b3bc09] The power to make regulations under this section is not exercisable in relation to—
+(3)[^c-88c39a5269069bd1df637683c7b3bc09] The power to make regulations under this section is not exercisable in relation to—
 
 - (a) any ship or hovercraft in relation to which regulations could be made under section 85 of the Merchant Shipping Act 1995 (c. 21) (safety and health on ships), including that section as applied by any Order in Council under section 1(1)(h) of the Hovercraft Act 1968 (c. 59), or
 - (b) persons on any such ship or hovercraft.
 
-(4)[^key-59313a52b85d42bb0504fe187d2df09e] In section 85 of the Merchant Shipping Act 1995, at the end add—
+(4)[^c-59313a52b85d42bb0504fe187d2df09e] In section 85 of the Merchant Shipping Act 1995, at the end add—
 
 > (8) Safety regulations which make provision in respect of the prohibition of smoking on any ship (“**the smoking provisions**”) may include provision—
 >
@@ -47,22 +47,22 @@ summary: ''
 >
 > In this subsection, “**smoking**” has the same meaning as in Chapter 1 of Part 1 of the Health Act 2006.
 
-(5)[^key-88c39a5269069bd1df637683c7b3bc09] In this Chapter, “**vehicle**” means every type of vehicle, including train, vessel, aircraft and hovercraft.
+(5)[^c-88c39a5269069bd1df637683c7b3bc09] In this Chapter, “**vehicle**” means every type of vehicle, including train, vessel, aircraft and hovercraft.
 
 ## Annotations
 
 [^c16418381]: Commencement: S. 5 in force for certain purposes at Royal Assent, see s. 83
 
-[^key-e35db9500ebd137cf99729cc96f3e57e]: Commencement: S. 5 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
+[^c-e35db9500ebd137cf99729cc96f3e57e]: Commencement: S. 5 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
 
-[^key-88c39a5269069bd1df637683c7b3bc09]: Commencement: S. 5(1)-(3) (5) in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
+[^c-88c39a5269069bd1df637683c7b3bc09]: Commencement: S. 5(1)-(3) (5) in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
 
-[^key-4d39831f63939ddd2150aa6c48889ba8]: Textual amendment: Words in s. 5(1) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/7/a); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-4d39831f63939ddd2150aa6c48889ba8]: Textual amendment: Words in s. 5(1) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/7/a); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
 
-[^key-6586907370e8ffd1b9b7bc8e81b83479]: Textual amendment: Words in s. 5(1) inserted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/7/b); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-6586907370e8ffd1b9b7bc8e81b83479]: Textual amendment: Words in s. 5(1) inserted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/7/b); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
 
-[^key-1cb349ef3b07ac6c759170515c6624b3]: Textual amendment: S. 5(1A) inserted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/2/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-1cb349ef3b07ac6c759170515c6624b3]: Textual amendment: S. 5(1A) inserted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/2/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
 
-[^key-b283d8973797913ef762855215e7a0fe]: Textual amendment: Words in s. 5(2) substituted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/2/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-b283d8973797913ef762855215e7a0fe]: Textual amendment: Words in s. 5(2) substituted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/2/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
 
-[^key-59313a52b85d42bb0504fe187d2df09e]: Commencement: S. 5(4) in force at 1.7.2007 for E.S.N.I. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
+[^c-59313a52b85d42bb0504fe187d2df09e]: Commencement: S. 5(4) in force at 1.7.2007 for E.S.N.I. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)

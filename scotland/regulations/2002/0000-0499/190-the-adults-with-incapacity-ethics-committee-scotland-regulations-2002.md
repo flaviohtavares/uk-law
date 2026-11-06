@@ -57,27 +57,27 @@ There is hereby constituted an Ethics Committee (“the Committee”) for the pu
 
 (1) The members of the Committee may be appointed by the Scottish Ministers on such terms and conditions as the Scottish Ministers consider appropriate.
 
-(2) No more than 30[^key-32df8977abbf801a1fcc67453729d24d] members shall be appointed to the Committee at any time.
+(2) No more than 30[^c-32df8977abbf801a1fcc67453729d24d] members shall be appointed to the Committee at any time.
 
 (3) The membership of the Committee shall, so far as practical, include at least–
 
 - (a) one person who has experience in relation to the treatment of adults who are incapable;
-- (b) one medical practitioner who provides primary medical services pursuant to Part I[^key-6983ebd9dc6a6d67d1c648d3a94212de] of the National Health Service (Scotland) Act 1978 [^c9801851];
+- (b) one medical practitioner who provides primary medical services pursuant to Part I[^c-6983ebd9dc6a6d67d1c648d3a94212de] of the National Health Service (Scotland) Act 1978 [^c9801851];
 - (c) one registered nurse or registered midwife;
 - (d) one registered medical practitioner having experience in clinical pharmacology;
-- (e) one pharmacist registered in Part 1 of the register maintained under article 19 of the Pharmacy Order 2010[^key-4dc3119cd21aa602ed91ace0dd42cce4] or a registered person as defined by Article 2(2) of the Pharmacy (Northern Ireland) Order 1976 [^c9801871];
+- (e) one pharmacist registered in Part 1 of the register maintained under article 19 of the Pharmacy Order 2010[^c-4dc3119cd21aa602ed91ace0dd42cce4] or a registered person as defined by Article 2(2) of the Pharmacy (Northern Ireland) Order 1976 [^c9801871];
 - (f) one registered medical practitioner who holds the position of hospital consultant;
 - (g) one registered medical practitioner having experience in the field of public health medicine;
-- (h) one member who is registered as a member of a profession to which the Health Professions Order 2001 applies[^key-61fc1f630d841b1f21f499744c6453ba]; and
+- (h) one member who is registered as a member of a profession to which the Health Professions Order 2001 applies[^c-61fc1f630d841b1f21f499744c6453ba]; and
 - (i) three lay members.
 
-(4) Each member may be appointed for a period not exceeding 5 years but no member may be appointed for consecutive periods exceeding 12[^key-54f1348113854ef0876004e1c501e6b6] years.
+(4) Each member may be appointed for a period not exceeding 5 years but no member may be appointed for consecutive periods exceeding 12[^c-54f1348113854ef0876004e1c501e6b6] years.
 
-(5) Where a person has been appointed as a member for a total of 12[^key-1ae09ab12b0c65e722ca7c015afbac91] years consecutively that person may only be appointed again as a member under paragraph (4) above after the expiration of a period of 2 years from the end of the person’s previous membership.
+(5) Where a person has been appointed as a member for a total of 12[^c-1ae09ab12b0c65e722ca7c015afbac91] years consecutively that person may only be appointed again as a member under paragraph (4) above after the expiration of a period of 2 years from the end of the person’s previous membership.
 
 ## 4. Chair and Vice-Chair
 
-Subject to regulation 3(4) and (5) above, the Scottish Ministers may appoint, from among the members of the Committee, a Chair,[^key-d4d5743a0c59694837ea7d3f7341ccf0] a Vice-Chair and up to two Alternate Vice-Chairs[^key-2f8e343a9e987e339db3850d93509189] of the Committee for such period or periods as the Scottish Ministers consider appropriate.
+Subject to regulation 3(4) and (5) above, the Scottish Ministers may appoint, from among the members of the Committee, a Chair,[^c-d4d5743a0c59694837ea7d3f7341ccf0] a Vice-Chair and up to two Alternate Vice-Chairs[^c-2f8e343a9e987e339db3850d93509189] of the Committee for such period or periods as the Scottish Ministers consider appropriate.
 
 ## 5. Remuneration
 
@@ -98,11 +98,11 @@ Before approving any research under section 51 of the Adults with Incapacity (Sc
 
 (1) Subject to the provision of this regulation, the Committee shall consider applications in such manner as it considers appropriate in the circumstances.
 
-(2) No approval of research shall be granted by the Committee unless at least 3[^key-d7dafd40a364cf4ad39c8a94e215e96e][^key-1e1906f8fefb51180ab6e5a99c9122e8] members are present and those members include–
+(2) No approval of research shall be granted by the Committee unless at least 3[^c-d7dafd40a364cf4ad39c8a94e215e96e][^c-1e1906f8fefb51180ab6e5a99c9122e8] members are present and those members include–
 
-- (a) the Chair, or in the Chair’s absence, the Vice-Chair or an Alternate Vice-Chair[^key-e90b1f0e0c96797b10c57cf5a18b00d8];
-- (b) a member[^key-68be69bb618e4968d6bd25ede99ab224] from among those appointed under sub-paragraphs (a) to (h) of regulation 3(3) above; and
-- (c) a member[^key-bdea4939235566c8142448d8d6f51f83] from among those appointed under sub-paragraph (i) of regulation 3(3) above.
+- (a) the Chair, or in the Chair’s absence, the Vice-Chair or an Alternate Vice-Chair[^c-e90b1f0e0c96797b10c57cf5a18b00d8];
+- (b) a member[^c-68be69bb618e4968d6bd25ede99ab224] from among those appointed under sub-paragraphs (a) to (h) of regulation 3(3) above; and
+- (c) a member[^c-bdea4939235566c8142448d8d6f51f83] from among those appointed under sub-paragraph (i) of regulation 3(3) above.
 
 (3) The proceedings of the Committee shall not be invalidated by death or other vacancy in its membership.
 
@@ -150,32 +150,32 @@ These Regulations–
 
 [^c9801841]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4). Section 87(1) contains a definition of “prescribed” relevant to the making of these Regulations.
 
-[^key-32df8977abbf801a1fcc67453729d24d]: Textual amendment: Word in reg. 3(2) substituted (20.2.2007) by [The Adults with Incapacity (Ethics Committee) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/22)](https://www.legislation.gov.uk/ssi/2007/22), [regs. 1](https://www.legislation.gov.uk/ssi/2007/22/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2007/22/regulation/2/2)
+[^c-32df8977abbf801a1fcc67453729d24d]: Textual amendment: Word in reg. 3(2) substituted (20.2.2007) by [The Adults with Incapacity (Ethics Committee) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/22)](https://www.legislation.gov.uk/ssi/2007/22), [regs. 1](https://www.legislation.gov.uk/ssi/2007/22/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2007/22/regulation/2/2)
 
-[^key-6983ebd9dc6a6d67d1c648d3a94212de]: Textual amendment: Words in reg. 3(3)(b) substituted (31.5.2004) by virtue of [The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 (S.S.I. 2004/212)](https://www.legislation.gov.uk/ssi/2004/212), [art. 1](https://www.legislation.gov.uk/ssi/2004/212/article/1), [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2004/212/schedule/1/paragraph/11)
+[^c-6983ebd9dc6a6d67d1c648d3a94212de]: Textual amendment: Words in reg. 3(3)(b) substituted (31.5.2004) by virtue of [The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 (S.S.I. 2004/212)](https://www.legislation.gov.uk/ssi/2004/212), [art. 1](https://www.legislation.gov.uk/ssi/2004/212/article/1), [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2004/212/schedule/1/paragraph/11)
 
 [^c9801851]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Section 17C was inserted by section 21(2) of the [National Health Service (Primary Care) Act 1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46) (“the 1997 Act”). Section 19 was amended by section 4 of and paragraph 29 of the Schedule to the [Medical (Professional Performance) Act 1995 (c.51)](https://www.legislation.gov.uk/ukpga/1995/51) and section 41(10) and (11) of and paragraph 39 of Schedule 2 to the 1997 Act (c.46).
 
-[^key-4dc3119cd21aa602ed91ace0dd42cce4]: Textual amendment: Words in reg. 3(3)(e) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/35) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-4dc3119cd21aa602ed91ace0dd42cce4]: Textual amendment: Words in reg. 3(3)(e) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/35) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^c9801871]: Marginal citation: [S.I. 1976/1213](https://www.legislation.gov.uk/uksi/1976/1213).
 
-[^key-61fc1f630d841b1f21f499744c6453ba]: Textual amendment: Words in reg. 3(3)(h) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/6); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-61fc1f630d841b1f21f499744c6453ba]: Textual amendment: Words in reg. 3(3)(h) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/6); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-54f1348113854ef0876004e1c501e6b6]: Textual amendment: Word in reg. 3(4) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/2)
+[^c-54f1348113854ef0876004e1c501e6b6]: Textual amendment: Word in reg. 3(4) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/2)
 
-[^key-1ae09ab12b0c65e722ca7c015afbac91]: Textual amendment: Word in reg. 3(5) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/2)
+[^c-1ae09ab12b0c65e722ca7c015afbac91]: Textual amendment: Word in reg. 3(5) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/2)
 
-[^key-d4d5743a0c59694837ea7d3f7341ccf0]: Textual amendment: Comma in reg. 4 substituted for word (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/3/a)
+[^c-d4d5743a0c59694837ea7d3f7341ccf0]: Textual amendment: Comma in reg. 4 substituted for word (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/3/a)
 
-[^key-2f8e343a9e987e339db3850d93509189]: Textual amendment: Words in reg. 4 inserted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/3/b)
+[^c-2f8e343a9e987e339db3850d93509189]: Textual amendment: Words in reg. 4 inserted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/3/b)
 
-[^key-d7dafd40a364cf4ad39c8a94e215e96e]: Textual amendment: Word in reg. 7(2) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/a)
+[^c-d7dafd40a364cf4ad39c8a94e215e96e]: Textual amendment: Word in reg. 7(2) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/a)
 
-[^key-1e1906f8fefb51180ab6e5a99c9122e8]: Textual amendment: Words in reg. 7(2) substituted (20.2.2007) by [The Adults with Incapacity (Ethics Committee) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/22)](https://www.legislation.gov.uk/ssi/2007/22), [regs. 1](https://www.legislation.gov.uk/ssi/2007/22/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2007/22/regulation/2/3)
+[^c-1e1906f8fefb51180ab6e5a99c9122e8]: Textual amendment: Words in reg. 7(2) substituted (20.2.2007) by [The Adults with Incapacity (Ethics Committee) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/22)](https://www.legislation.gov.uk/ssi/2007/22), [regs. 1](https://www.legislation.gov.uk/ssi/2007/22/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2007/22/regulation/2/3)
 
-[^key-e90b1f0e0c96797b10c57cf5a18b00d8]: Textual amendment: Words in reg. 7(2)(a) inserted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/b)
+[^c-e90b1f0e0c96797b10c57cf5a18b00d8]: Textual amendment: Words in reg. 7(2)(a) inserted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/b)
 
-[^key-68be69bb618e4968d6bd25ede99ab224]: Textual amendment: Words in reg. 7(2)(b) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/c)
+[^c-68be69bb618e4968d6bd25ede99ab224]: Textual amendment: Words in reg. 7(2)(b) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/c)
 
-[^key-bdea4939235566c8142448d8d6f51f83]: Textual amendment: Words in reg. 7(2)(c) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/d)
+[^c-bdea4939235566c8142448d8d6f51f83]: Textual amendment: Words in reg. 7(2)(c) substituted (21.5.2020) by [The Adults with Incapacity (Ethics Committee) (Scotland) (Coronavirus) Amendment Regulations 2020 (S.S.I. 2020/151)](https://www.legislation.gov.uk/ssi/2020/151), [regs. 1](https://www.legislation.gov.uk/ssi/2020/151/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2020/151/regulation/2/4/d)

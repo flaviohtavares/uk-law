@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67B. Exclusion in the case of property businesses of insurance companies[^key-d777f91139e16e1487c7df3bc7ac5b9f]
+## 67B. Exclusion in the case of property businesses of insurance companies[^c-d777f91139e16e1487c7df3bc7ac5b9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d777f91139e16e1487c7df3bc7ac5b9f]: Textual amendment: 67B and cross-heading inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 218](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/218)
+[^c-d777f91139e16e1487c7df3bc7ac5b9f]: Textual amendment: 67B and cross-heading inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 218](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/218)

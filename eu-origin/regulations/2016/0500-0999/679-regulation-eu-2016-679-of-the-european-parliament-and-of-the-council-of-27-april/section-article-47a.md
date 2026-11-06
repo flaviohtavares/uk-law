@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 47A. Transfers subject to appropriate safeguards: further provision[^key-b936e5544ee4b7eb8bf291bb1cf4952a]
+## Article 47A. Transfers subject to appropriate safeguards: further provision[^c-b936e5544ee4b7eb8bf291bb1cf4952a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 6. Regulations under paragraph 4 may, among other things—
 
 - (a) make provision by adopting safeguards prepared or published by another person;
-- (b) make provision about ways of providing safeguards which require authorisation from the Commission[^key-23f388d8c05b781e143275cee4a7cd68].
+- (b) make provision about ways of providing safeguards which require authorisation from the Commission[^c-23f388d8c05b781e143275cee4a7cd68].
 
 7. Regulations under paragraph 4 which amend Article 46 may do so only in the following ways—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b936e5544ee4b7eb8bf291bb1cf4952a]: Textual amendment: Art. 47A inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-b936e5544ee4b7eb8bf291bb1cf4952a]: Textual amendment: Art. 47A inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
 
-[^key-23f388d8c05b781e143275cee4a7cd68]: Textual amendment: Word in Art. 47A(6)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 41(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/3)[(4)(u)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/4/u); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-23f388d8c05b781e143275cee4a7cd68]: Textual amendment: Word in Art. 47A(6)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 41(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/3)[(4)(u)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/4/u); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

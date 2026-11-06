@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Consents, agreements, certifications and approvals[^key-aa75beb96f3a1da645e00832043bcc5c]
+## 63. Consents, agreements, certifications and approvals[^c-aa75beb96f3a1da645e00832043bcc5c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa75beb96f3a1da645e00832043bcc5c]: Commencement: Art. 63 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-aa75beb96f3a1da645e00832043bcc5c]: Commencement: Art. 63 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

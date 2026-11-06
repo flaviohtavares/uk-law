@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Transfer schemes in connection with regulations under section 233[^key-062dbc378a2de676588f6fab08f240cd]
+## 234. Transfer schemes in connection with regulations under section 233[^c-062dbc378a2de676588f6fab08f240cd]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062dbc378a2de676588f6fab08f240cd]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2023/55/section/234) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-062dbc378a2de676588f6fab08f240cd]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2023/55/section/234) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

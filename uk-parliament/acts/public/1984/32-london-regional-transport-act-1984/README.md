@@ -31,17 +31,17 @@ London Regional Transport Act 1984 (repealed)
 
 1984 c. 32
 
-[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — London Regional Transport[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+### Part I — London Regional Transport[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Constitution and general functions of London Regional Transport[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Constitution and general functions of London Regional Transport[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -49,7 +49,7 @@ London Regional Transport Act 1984 (repealed)
 - [Section 2 — Provision of passenger transport services for Greater London.](part-i/section-2.md)
 - [Section 3 — General powers.](part-i/section-3.md)
 
-#### Organisation of undertaking[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Organisation of undertaking[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -57,14 +57,14 @@ London Regional Transport Act 1984 (repealed)
 - [Section 5 — Redistribution of property among London Regional Transport and subsidiaries.](part-i/section-5.md)
 - [Section 6 — Obligation to invite tenders.](part-i/section-6.md)
 
-#### Planning and co-ordination[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Planning and co-ordination[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 7 — Planning of passenger transport services for Greater London.](part-i/section-7.md)
 - [Section 8 — Co-ordination of fares, services and charges under control of London Regional Transport](part-i/section-8.md)
 
-#### Powers of disposal[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Powers of disposal[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -72,7 +72,7 @@ London Regional Transport Act 1984 (repealed)
 - [Section 10 — Power of Secretary of State to require exercise of powers of disposal, etc.](part-i/section-10.md)
 - [Section 11 — Provision of services, etc. for related companies.](part-i/section-11.md)
 
-#### Financial provisions[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Financial provisions[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -89,14 +89,14 @@ London Regional Transport Act 1984 (repealed)
 - [Section 23 — Accounts.](part-i/section-23.md)
 - [Section 24 — Exclusion of National Audit Act 1983](part-i/section-24.md)
 
-#### Pensions[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Pensions[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 25 — Pensions and orders about pensions.](part-i/section-25.md)
 - [Section 26 — Pensions for employees of related companies.](part-i/section-26.md)
 
-#### Miscellaneous and supplemental[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Miscellaneous and supplemental[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 *Extent: E+W*
 
@@ -114,7 +114,7 @@ London Regional Transport Act 1984 (repealed)
 - [Section 34 — Annual report.](part-i/section-34.md)
 - [Section 35 — Inclusion in annual report of information with respect to contract and express carriage business.](part-i/section-35.md)
 
-### Part II — The London Regional Rail Passenger Network[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+### Part II — The London Regional Rail Passenger Network[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 *Extent: E+W*
 
@@ -125,57 +125,57 @@ London Regional Transport Act 1984 (repealed)
 - [Section 38 — Application and modification of Part I.](part-ii/section-38.md)
 - [Section 39 — Expiry of Part II.](part-ii/section-39.md)
 
-### Part III — Miscellaneous and General[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+### Part III — Miscellaneous and General[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Consultation with passengers[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Consultation with passengers[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 40 — The London Regional Passengers’ Committee.](part-iii/section-40.md)
 - [Section 41 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-41.md)
 
-#### Railway access contracts[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Railway access contracts[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 41A — Access contracts under the Railways Act 1993.](part-iii/section-41a.md)
 
-#### Railway closures in and around Greater London[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Railway closures in and around Greater London[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 42 — Application of provisions of the 1962 and 1968 Acts relating to railway closures.](part-iii/section-42.md)
 
-#### Regulation of services by public service vehicles in and around London[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Regulation of services by public service vehicles in and around London[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 43 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-43.md)
 
-#### Transfers to and from the Railways Board, etc.[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Transfers to and from the Railways Board, etc.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 46 — Schemes for transfers between London Regional Transport group and Railways Board group.](part-iii/section-46.md)
 - [Section 47 — Orders for transfer of functions, etc., within London Regional Transport group and between that group and Railways Board group.](part-iii/section-47.md)
 
-#### Compensation for loss of employment, etc.[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Compensation for loss of employment, etc.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 48 — Compensation for loss of employment, etc.](part-iii/section-48.md)
 
-#### Grants by Greater London Council for initial year[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Grants by Greater London Council for initial year[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
 - [Section 49 — Grants by Greater London Council for year including appointed day.](part-iii/section-49.md)
 
-#### Travel concessions[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Travel concessions[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -184,7 +184,7 @@ London Regional Transport Act 1984 (repealed)
 - [Section 52 — Supplementary provisions with respect to the free travel scheme.](part-iii/section-52.md)
 - [Section 53 — Requirements as to scope and uniformity of arrangements for travel concessions under section 50(1).](part-iii/section-53.md)
 
-#### Penalty fares[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Penalty fares[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -194,7 +194,7 @@ London Regional Transport Act 1984 (repealed)
 - [Section 57 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-57.md)
 - [Section 58 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-58.md)
 
-#### Miscellaneous[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]
+#### Miscellaneous[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 
 **No longer in force.**
 
@@ -217,7 +217,7 @@ London Regional Transport Act 1984 (repealed)
 
 **No longer in force.**
 
-[^key-5be61a0ebaf1f2b0053fc49a494b5ffb] SCHEDULES
+[^c-5be61a0ebaf1f2b0053fc49a494b5ffb] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -229,4 +229,4 @@ London Regional Transport Act 1984 (repealed)
 
 ## Annotations
 
-[^key-5be61a0ebaf1f2b0053fc49a494b5ffb]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1984/32) repealed (15.7.2003) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [ss. 297-303](https://www.legislation.gov.uk/ukpga/1999/29/section/297), [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
+[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1984/32) repealed (15.7.2003) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [ss. 297-303](https://www.legislation.gov.uk/ukpga/1999/29/section/297), [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)

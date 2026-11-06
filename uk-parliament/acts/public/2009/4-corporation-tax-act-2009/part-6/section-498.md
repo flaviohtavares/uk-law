@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 498. Building society dividends and interest[^key-2344c2adf3ba0638aaf23a6cace0064c]
+## 498. Building society dividends and interest[^c-2344c2adf3ba0638aaf23a6cace0064c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2344c2adf3ba0638aaf23a6cace0064c]: Modification: S. 498 definition excluded (1.3.2013) by [The Building Societies (Core Capital Deferred Shares) Regulations 2013 (S.I. 2013/460)](https://www.legislation.gov.uk/uksi/2013/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2013/460/regulation/3/1/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/2))
+[^c-2344c2adf3ba0638aaf23a6cace0064c]: Modification: S. 498 definition excluded (1.3.2013) by [The Building Societies (Core Capital Deferred Shares) Regulations 2013 (S.I. 2013/460)](https://www.legislation.gov.uk/uksi/2013/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2013/460/regulation/3/1/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/2))

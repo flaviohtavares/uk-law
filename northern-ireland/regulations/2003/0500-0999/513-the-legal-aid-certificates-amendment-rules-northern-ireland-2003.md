@@ -31,7 +31,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-The Legal Aid Certificates (Amendment) Rules (Northern Ireland) 2003 (revoked)[^key-d4ca564243d27aa9099c17d4c7dabdee]
+The Legal Aid Certificates (Amendment) Rules (Northern Ireland) 2003 (revoked)[^c-d4ca564243d27aa9099c17d4c7dabdee]
 
 Made
 
@@ -43,42 +43,42 @@ Coming into operation
 
 26th December 2003
 
-[^key-d4ca564243d27aa9099c17d4c7dabdee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4ca564243d27aa9099c17d4c7dabdee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d4ca564243d27aa9099c17d4c7dabdee]
+## 1. Citation and commencement[^c-d4ca564243d27aa9099c17d4c7dabdee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d4ca564243d27aa9099c17d4c7dabdee]
+## 2. Interpretation[^c-d4ca564243d27aa9099c17d4c7dabdee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Legal aid certificates[^key-d4ca564243d27aa9099c17d4c7dabdee]
+## 3. Legal aid certificates[^c-d4ca564243d27aa9099c17d4c7dabdee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Interpretation[^key-d4ca564243d27aa9099c17d4c7dabdee]
+## 4. Interpretation[^c-d4ca564243d27aa9099c17d4c7dabdee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4ca564243d27aa9099c17d4c7dabdee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4ca564243d27aa9099c17d4c7dabdee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d4ca564243d27aa9099c17d4c7dabdee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d4ca564243d27aa9099c17d4c7dabdee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4ca564243d27aa9099c17d4c7dabdee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4ca564243d27aa9099c17d4c7dabdee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d4ca564243d27aa9099c17d4c7dabdee]
+## SCHEDULE[^c-d4ca564243d27aa9099c17d4c7dabdee]
 
 Rule 6
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/513/images/nisr_20030513_en_001)
 
-[^key-d4ca564243d27aa9099c17d4c7dabdee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4ca564243d27aa9099c17d4c7dabdee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4ca564243d27aa9099c17d4c7dabdee]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2003/513) repealed (16.4.2012) by [The Criminal Aid Certificates Rules (Northern Ireland) 2012 (S.R. 2012/135)](https://www.legislation.gov.uk/nisr/2012/135), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/135/article/1/1), [8(1)(d)](https://www.legislation.gov.uk/nisr/2012/135/article/8/1/d) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2012/135/regulation/8/2))
+[^c-d4ca564243d27aa9099c17d4c7dabdee]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2003/513) repealed (16.4.2012) by [The Criminal Aid Certificates Rules (Northern Ireland) 2012 (S.R. 2012/135)](https://www.legislation.gov.uk/nisr/2012/135), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/135/article/1/1), [8(1)(d)](https://www.legislation.gov.uk/nisr/2012/135/article/8/1/d) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2012/135/regulation/8/2))

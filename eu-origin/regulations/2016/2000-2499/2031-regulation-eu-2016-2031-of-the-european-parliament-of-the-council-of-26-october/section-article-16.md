@@ -22,11 +22,11 @@ summary: ''
 
 The notification obligations referred to in Articles 14 and 15 shall not apply where:
 
-- ((a)) a GB[^key-d50df0f2ce1d9c8c457e837220d4119d] quarantine pest or provisional GB quarantine pest[^key-aa97faecfb2b2a2f9d38bf77aabaeb83] is found to be present in the infested zone of a demarcated area established for the containment of that pest, as referred to in Article 18(2);
+- ((a)) a GB[^c-d50df0f2ce1d9c8c457e837220d4119d] quarantine pest or provisional GB quarantine pest[^c-aa97faecfb2b2a2f9d38bf77aabaeb83] is found to be present in the infested zone of a demarcated area established for the containment of that pest, as referred to in Article 18(2);
 - ((b)) a GB quarantine pest or provisional GB quarantine pest is found to be present in the infested zone of a demarcated area and subject to eradication measures requiring eight years or more, during the period of those first eight years.
 
 ## Annotations
 
-[^key-d50df0f2ce1d9c8c457e837220d4119d]: Textual amendment: Word in Art. 16 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(15)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/15) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-d50df0f2ce1d9c8c457e837220d4119d]: Textual amendment: Word in Art. 16 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(15)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/15) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-aa97faecfb2b2a2f9d38bf77aabaeb83]: Textual amendment: Words in Art. 16 inserted (20.12.2022) by [The Plant Health and Trade in Animals and Related Products (Amendment) Regulations 2022 (S.I. 2022/1367)](https://www.legislation.gov.uk/uksi/2022/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/2/2)
+[^c-aa97faecfb2b2a2f9d38bf77aabaeb83]: Textual amendment: Words in Art. 16 inserted (20.12.2022) by [The Plant Health and Trade in Animals and Related Products (Amendment) Regulations 2022 (S.I. 2022/1367)](https://www.legislation.gov.uk/uksi/2022/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/2/2)

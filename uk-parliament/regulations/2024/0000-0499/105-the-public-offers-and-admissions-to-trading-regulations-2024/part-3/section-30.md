@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Compensation for statements in prospectus etc[^key-32d37d0353abe1b1fc278eb93e1e937c]
+## 30. Compensation for statements in prospectus etc[^c-32d37d0353abe1b1fc278eb93e1e937c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32d37d0353abe1b1fc278eb93e1e937c]: Commencement: Reg. 30 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-32d37d0353abe1b1fc278eb93e1e937c]: Commencement: Reg. 30 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

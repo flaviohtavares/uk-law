@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46V. Technical assistance relating to Schedule 3D revenue generating goods[^key-7788dbe4e19a81e510e80c310a1dcf8e][^key-ebcae1ff414b4d5e052a9d02ccae213c]
+## 46V. Technical assistance relating to Schedule 3D revenue generating goods[^c-7788dbe4e19a81e510e80c310a1dcf8e][^c-ebcae1ff414b4d5e052a9d02ccae213c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
   - (ii) are located in Russia,
 
   with the intention of those goods entering the United Kingdom;
-- (c)[^key-0d2678266f3877085fd7e4149f4cbf1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0d2678266f3877085fd7e4149f4cbf1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
 
@@ -38,14 +38,14 @@ summary: ''
 
 - (a) it is a defence for a person charged with an offence of contravening paragraph (1)(a), to show that the person did not know and had no reasonable cause to suspect that the technical assistance related to an import described in that paragraph;
 - (b) it is a defence for a person charged with an offence of contravening paragraph (1)(b), to show that the person did not know and had no reasonable cause to suspect that the technical assistance related to an acquisition described in that paragraph;
-- (c)[^key-c7abd855b607637e815c69a43d33b6b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c7abd855b607637e815c69a43d33b6b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-ebcae1ff414b4d5e052a9d02ccae213c]: Textual amendment: Words in [reg. 46V](https://www.legislation.gov.uk/uksi/2019/855/regulation/46V) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(f)(i)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/f/i)
+[^c-ebcae1ff414b4d5e052a9d02ccae213c]: Textual amendment: Words in [reg. 46V](https://www.legislation.gov.uk/uksi/2019/855/regulation/46V) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(f)(i)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/f/i)
 
-[^key-0d2678266f3877085fd7e4149f4cbf1d]: Textual amendment: [Reg. 46V(1)(c)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46V/1/c) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/f/ii)
+[^c-0d2678266f3877085fd7e4149f4cbf1d]: Textual amendment: [Reg. 46V(1)(c)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46V/1/c) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/f/ii)
 
-[^key-c7abd855b607637e815c69a43d33b6b6]: Textual amendment: [Reg. 46V(3)(c)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46V/3/c) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/f/ii)
+[^c-c7abd855b607637e815c69a43d33b6b6]: Textual amendment: [Reg. 46V(3)(c)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46V/3/c) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/f/ii)

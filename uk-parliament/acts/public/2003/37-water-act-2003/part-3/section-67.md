@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Membership of regional flood defence committees in Wales[^key-67f829338695b0bf6c61430a766318df]
+## 67. Membership of regional flood defence committees in Wales[^c-67f829338695b0bf6c61430a766318df]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ After section 16 of the Environment Act 1995 there is inserted—
 
 ## Annotations
 
-[^key-67f829338695b0bf6c61430a766318df]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2003/37/section/67) in force at 1.4.2004 by [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/a)
+[^c-67f829338695b0bf6c61430a766318df]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2003/37/section/67) in force at 1.4.2004 by [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Compensation for loss or damage caused by temporary listing[^key-a4bf10733e499349b9d1b0d038eed470][^key-6c933f26949aede1e1233e0f3cfa9c02]
+## 86. Compensation for loss or damage caused by temporary listing[^c-a4bf10733e499349b9d1b0d038eed470][^c-6c933f26949aede1e1233e0f3cfa9c02]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4bf10733e499349b9d1b0d038eed470]: Commencement: S. 86 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a4bf10733e499349b9d1b0d038eed470]: Commencement: S. 86 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6c933f26949aede1e1233e0f3cfa9c02]: Commencement: [S. 86](https://www.legislation.gov.uk/asc/2023/3/section/86) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-6c933f26949aede1e1233e0f3cfa9c02]: Commencement: [S. 86](https://www.legislation.gov.uk/asc/2023/3/section/86) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

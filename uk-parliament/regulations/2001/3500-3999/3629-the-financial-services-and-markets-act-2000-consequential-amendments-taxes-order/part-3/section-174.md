@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Qualifying investments for an insurance component[^key-a0d74ec157e18bea036abe413d860588]
+## 174. Qualifying investments for an insurance component[^c-a0d74ec157e18bea036abe413d860588]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In regulation 9(3) (qualifying investments for an insurance component) for sub-p
 
 ## Annotations
 
-[^key-a0d74ec157e18bea036abe413d860588]: Commencement: Art. 174 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-a0d74ec157e18bea036abe413d860588]: Commencement: Art. 174 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

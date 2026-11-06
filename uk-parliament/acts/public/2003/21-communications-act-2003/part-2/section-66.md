@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Designation of universal service providers[^key-9ce0049eece376653b8238862213088b][^key-09da578d79e3f86939c05aae428c8a4c]
+## 66. Designation of universal service providers[^c-9ce0049eece376653b8238862213088b][^c-09da578d79e3f86939c05aae428c8a4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,22 +43,22 @@ summary: ''
 - (a) to be efficient, objective and transparent; and
 - (b) not to involve, or to tend to give rise to, any undue discrimination against any person or description of persons.
 
-(8)[^key-8a37eb0febe07d2d59fb25ac9dbfb5e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8a37eb0febe07d2d59fb25ac9dbfb5e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-40bbec1a4f1c3f4f2378591114fb6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-40bbec1a4f1c3f4f2378591114fb6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9A)[^key-9293d9c6da1ebaa576fd970d8c78f7fe] In making any regulations under this section, OFCOM must have regard to any guidance that is contained in the universal service order.
+(9A)[^c-9293d9c6da1ebaa576fd970d8c78f7fe] In making any regulations under this section, OFCOM must have regard to any guidance that is contained in the universal service order.
 
 (10) Section 403 applies to the power of OFCOM to make regulations under this section.
 
 ## Annotations
 
-[^key-9ce0049eece376653b8238862213088b]: Commencement: S. 66 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-9ce0049eece376653b8238862213088b]: Commencement: S. 66 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-09da578d79e3f86939c05aae428c8a4c]: Commencement: S. 66 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-09da578d79e3f86939c05aae428c8a4c]: Commencement: S. 66 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8a37eb0febe07d2d59fb25ac9dbfb5e5]: Textual amendment: [S. 66(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/66/8) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a37eb0febe07d2d59fb25ac9dbfb5e5]: Textual amendment: [S. 66(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/66/8) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40bbec1a4f1c3f4f2378591114fb6cc7]: Textual amendment: [S. 66(9)](https://www.legislation.gov.uk/ukpga/2003/21/section/66/9) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40bbec1a4f1c3f4f2378591114fb6cc7]: Textual amendment: [S. 66(9)](https://www.legislation.gov.uk/ukpga/2003/21/section/66/9) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9293d9c6da1ebaa576fd970d8c78f7fe]: Textual amendment: S. 66(9A) inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/1/5), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-9293d9c6da1ebaa576fd970d8c78f7fe]: Textual amendment: S. 66(9A) inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/1/5), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

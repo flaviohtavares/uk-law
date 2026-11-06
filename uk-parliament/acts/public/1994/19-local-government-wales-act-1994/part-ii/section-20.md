@@ -46,13 +46,13 @@ summary: ''
 > - “**the Park area**”, in relation to a National Park, means the part of the local planning authority’s area which is within the area prescribed under section 23B(2) in relation to that Park or, where there is more than one such part, those parts taken as a whole;
 > - “**the remaining area**” means the part of the local planning authority’s area which is not within the area so prescribed in relation to any National Park.
 
-(2)[^key-21970a45f2e5d86ed6caa13cbcfe5500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-21970a45f2e5d86ed6caa13cbcfe5500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Schedule 5 shall have effect—
 
 - (a) Part I making minor and consequential amendments to Part II of the planning Act,
-- (b)[^key-1bb2fdef0a80903dfcd5a6b77774faba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1bb2fdef0a80903dfcd5a6b77774faba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1bb2fdef0a80903dfcd5a6b77774faba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1bb2fdef0a80903dfcd5a6b77774faba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Schedule 6 shall have effect—
 
@@ -63,6 +63,6 @@ summary: ''
 
 [^c10519281]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/1994/19/section/20) partly in force; [s. 20](https://www.legislation.gov.uk/ukpga/1994/19/section/20) not in force at Royal Assent see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66); [s. 20(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/4) in force at 3.4.1995 for certain purposes by [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/852/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/852/schedule/2) (subject to [art. 4(2)-(6)](https://www.legislation.gov.uk/uksi/1995/852/article/4/2)); [s. 20(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/4) in force at 1.10.1995 for certain purposes by [S.I. 1995/2490](https://www.legislation.gov.uk/uksi/1995/2490), [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/2490/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/2490/schedule/2) (subject to [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/1995/2490/article/4/2/3)); [s. 20(1)-(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/1) in force at 1.4.1996 by [S.I. 1995/3198](https://www.legislation.gov.uk/uksi/1995/3198), [art. 4](https://www.legislation.gov.uk/uksi/1995/3198/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/3198/schedule/2); [s. 20(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/4) in force at 1.4.1996 for certain purposes by [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 
-[^key-21970a45f2e5d86ed6caa13cbcfe5500]: Textual amendment: [S. 20(2)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/2)
+[^c-21970a45f2e5d86ed6caa13cbcfe5500]: Textual amendment: [S. 20(2)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/2)
 
-[^key-1bb2fdef0a80903dfcd5a6b77774faba]: Textual amendment: [S. 20(3)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3/b)[(c)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/2)
+[^c-1bb2fdef0a80903dfcd5a6b77774faba]: Textual amendment: [S. 20(3)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3/b)[(c)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/2)

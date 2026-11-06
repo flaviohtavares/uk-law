@@ -35,14 +35,14 @@ extending the period of validity of Implementing Decision (EU) 2015/179 authoris
 
 *(notified under document C(2017) 7489)* (revoked)
 
-[^key-72e19d2abd4a99c68a23bf17077b453d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72e19d2abd4a99c68a23bf17077b453d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-72e19d2abd4a99c68a23bf17077b453d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-72e19d2abd4a99c68a23bf17077b453d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-72e19d2abd4a99c68a23bf17077b453d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-72e19d2abd4a99c68a23bf17077b453d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72e19d2abd4a99c68a23bf17077b453d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72e19d2abd4a99c68a23bf17077b453d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72e19d2abd4a99c68a23bf17077b453d]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/27) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-72e19d2abd4a99c68a23bf17077b453d]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/27) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23.4. Determination of renewed application[^key-9ebfcbfcece0c1ed7f0dee9a0d1cf4fe]
+## 23.4. Determination of renewed application[^c-9ebfcbfcece0c1ed7f0dee9a0d1cf4fe]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ebfcbfcece0c1ed7f0dee9a0d1cf4fe]: Commencement: [Rule 23.4](https://www.legislation.gov.uk/uksi/2015/1568/article/23.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-9ebfcbfcece0c1ed7f0dee9a0d1cf4fe]: Commencement: [Rule 23.4](https://www.legislation.gov.uk/uksi/2015/1568/article/23.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

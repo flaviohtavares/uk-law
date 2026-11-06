@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Other pension accounts[^key-702c0b832c9b0b45f1c7339d1d0f0b2f]
+## 43. Other pension accounts[^c-702c0b832c9b0b45f1c7339d1d0f0b2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a pension credit member of this scheme is also an active member, deferred mem
 
 ## Annotations
 
-[^key-702c0b832c9b0b45f1c7339d1d0f0b2f]: Commencement: Reg. 43 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-702c0b832c9b0b45f1c7339d1d0f0b2f]: Commencement: Reg. 43 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

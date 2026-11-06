@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42A. Disqualification orders: record of reasons[^key-5eb1447630bdd4f78ae6a857d6da3825]
+## 42A. Disqualification orders: record of reasons[^c-5eb1447630bdd4f78ae6a857d6da3825]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Courts and Tribunals Service must establish and maintain a record o
 
 ## Annotations
 
-[^key-5eb1447630bdd4f78ae6a857d6da3825]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/asp/2006/11/section/42A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 4(4)](https://www.legislation.gov.uk/asp/2020/14/section/4/4), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
+[^c-5eb1447630bdd4f78ae6a857d6da3825]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/asp/2006/11/section/42A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 4(4)](https://www.legislation.gov.uk/asp/2020/14/section/4/4), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)

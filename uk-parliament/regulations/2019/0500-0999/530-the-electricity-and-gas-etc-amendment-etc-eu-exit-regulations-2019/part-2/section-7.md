@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Gas Act 1986[^key-bb4cb5727f2758fba79669d0ecdf45b9]
+## 7. Gas Act 1986[^c-bb4cb5727f2758fba79669d0ecdf45b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Gas Act 1986 [^c23650361] is amended as follows.
 
 ## Annotations
 
-[^key-bb4cb5727f2758fba79669d0ecdf45b9]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bb4cb5727f2758fba79669d0ecdf45b9]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23650361]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Relevant amendments were made by the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) sections 9 and 12, the [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27) section 16, and by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), 2009/1349, 2011/1043, 2011/2704 and 2014/3333.

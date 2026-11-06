@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Financial control, accounts and audit[^key-ce1eb25caa0aaffe99cdb92b45c4605a]
+## 13. Financial control, accounts and audit[^c-ce1eb25caa0aaffe99cdb92b45c4605a]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce1eb25caa0aaffe99cdb92b45c4605a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/4/section/13) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/d)
+[^c-ce1eb25caa0aaffe99cdb92b45c4605a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/4/section/13) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/d)

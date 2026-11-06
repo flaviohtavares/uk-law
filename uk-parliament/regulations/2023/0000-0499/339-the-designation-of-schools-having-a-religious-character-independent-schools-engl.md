@@ -43,13 +43,13 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation, commencement, extent and application[^key-d63300da634787a79417f4eef2805c4c]
+## 1. Citation, commencement, extent and application[^c-d63300da634787a79417f4eef2805c4c]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2023 and comes into force on the day after the day on which it is made.
 
-**2.**[^key-fb06f02e4792e3a6d9a51c5910356d27] This Order extends to England and Wales, and applies to England.
+**2.**[^c-fb06f02e4792e3a6d9a51c5910356d27] This Order extends to England and Wales, and applies to England.
 
-## 3. Designation of schools[^key-ce108d6ab27a6a77ea5e8b00a158edde]
+## 3. Designation of schools[^c-ce108d6ab27a6a77ea5e8b00a158edde]
 
 (1) The following independent schools are designated as schools having a religious character—
 
@@ -57,7 +57,7 @@ This Order may be cited as the Designation of Schools Having a Religious Charact
 - (b) St Gabriel’s CofE Primary School, Devon, EX4 2BY;
 - (c) St Cecilia’s Church of England Primary School, Wokingham, RG41 1BJ;
 - (d) Beech Grove School, Kent, CT15 4FB;
-- (e)[^key-0429517d5a4d37616c2707bd91fda18f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-0429517d5a4d37616c2707bd91fda18f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The religion or religious denomination in accordance with whose tenets education is provided, or the school is conducted, is—
 
@@ -65,7 +65,7 @@ This Order may be cited as the Designation of Schools Having a Religious Charact
 - (b) at the schools designated in paragraphs 1(b) and (c), Church of England;
 - (c) at the schools designated in paragraphs 1(d) and (e), Christian.
 
-## 4. Revocations[^key-0bd055abf597913d8f4e98ea3f16bb96]
+## 4. Revocations[^c-0bd055abf597913d8f4e98ea3f16bb96]
 
 The following provisions are revoked—
 
@@ -102,15 +102,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-d63300da634787a79417f4eef2805c4c]: Commencement: Art. 1 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
+[^c-d63300da634787a79417f4eef2805c4c]: Commencement: Art. 1 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
 
-[^key-fb06f02e4792e3a6d9a51c5910356d27]: Commencement: Art. 2 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
+[^c-fb06f02e4792e3a6d9a51c5910356d27]: Commencement: Art. 2 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
 
-[^key-ce108d6ab27a6a77ea5e8b00a158edde]: Commencement: Art. 3 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
+[^c-ce108d6ab27a6a77ea5e8b00a158edde]: Commencement: Art. 3 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
 
-[^key-0429517d5a4d37616c2707bd91fda18f]: Textual amendment: [Art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2023/339/article/3/1/e) revoked (29.8.2026) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (Amendment and Revocations) Order 2026 (S.I. 2026/942)](https://www.legislation.gov.uk/uksi/2026/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/942/regulation/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2026/942/regulation/3/g)
+[^c-0429517d5a4d37616c2707bd91fda18f]: Textual amendment: [Art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2023/339/article/3/1/e) revoked (29.8.2026) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (Amendment and Revocations) Order 2026 (S.I. 2026/942)](https://www.legislation.gov.uk/uksi/2026/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/942/regulation/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2026/942/regulation/3/g)
 
-[^key-0bd055abf597913d8f4e98ea3f16bb96]: Commencement: Art. 4 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
+[^c-0bd055abf597913d8f4e98ea3f16bb96]: Commencement: Art. 4 in force at 18.3.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/339/article/1)
 
 [^f00004]: Footnote: [S.I. 2004/354](https://www.legislation.gov.uk/uksi/2004/354).
 

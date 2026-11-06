@@ -299,7 +299,7 @@ In section 191 of the 1996 Act (Crown employment), in subsection (2) after parag
 
 (3) In subsection (5), after “subsections (2)” there is inserted “ , (3A) ”.
 
-## 13. Police officers.[^key-63778b69bbec710519f07d01b4f892e4]
+## 13. Police officers.[^c-63778b69bbec710519f07d01b4f892e4]
 
 *Extent: E+W+S*
 
@@ -372,7 +372,7 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c8780951]Nort
 
 [^c8780921]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1998/23/section/11) repealed (16.7.2001) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(12)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/12); [S.I. 2001/1187](https://www.legislation.gov.uk/uksi/2001/1187), [art. 3(b)](https://www.legislation.gov.uk/uksi/2001/1187/article/3/b) (as amended by [S.I. 2001/1461](https://www.legislation.gov.uk/uksi/2001/1461), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/1461/article/2/2))
 
-[^key-63778b69bbec710519f07d01b4f892e4]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/23/section/13) repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2002/30/section/37/3), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(b)(f)(vii)](https://www.legislation.gov.uk/uksi/2004/913/article/2/b/f/vii)
+[^c-63778b69bbec710519f07d01b4f892e4]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/23/section/13) repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2002/30/section/37/3), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(b)(f)(vii)](https://www.legislation.gov.uk/uksi/2004/913/article/2/b/f/vii)
 
 [^c8780941]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 

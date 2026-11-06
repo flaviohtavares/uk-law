@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Limitation of estate management charges: reasonableness[^key-d2ce04b4f8d72d0847aba8163ba153b0]
+## 74. Limitation of estate management charges: reasonableness[^c-d2ce04b4f8d72d0847aba8163ba153b0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ce04b4f8d72d0847aba8163ba153b0]: Commencement: S. 74 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d2ce04b4f8d72d0847aba8163ba153b0]: Commencement: S. 74 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -41,7 +41,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. Marriages of house-bound and detained persons in England and Wales.
 
-(1) Subject to the provisions of this Act and the [^c796816]Marriage Act 1949, the marriage of a person who is house-bound or is a detained person may be solemnized in England and Wales, on the authority of a marriage schedule[^key-48f77c0e8bbad9f4404c45e38fbe0b17] issued under Part III of the Marriage Act 1949, at the place where that person usually resides.
+(1) Subject to the provisions of this Act and the [^c796816]Marriage Act 1949, the marriage of a person who is house-bound or is a detained person may be solemnized in England and Wales, on the authority of a marriage schedule[^c-48f77c0e8bbad9f4404c45e38fbe0b17] issued under Part III of the Marriage Act 1949, at the place where that person usually resides.
 
 (2) For the purposes of this section a person is house-bound if—
 
@@ -77,39 +77,39 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: N.I.*
 
-### 3. Marriages of house-bound and detained persons in Northern Ireland.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 3. Marriages of house-bound and detained persons in Northern Ireland.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Issue of licence by Registrar General.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 4. Issue of licence by Registrar General.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Solemnization of marriage pursuant to Registrar General’s licence.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 5. Solemnization of marriage pursuant to Registrar General’s licence.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Void marriages.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 6. Void marriages.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Offences.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 7. Offences.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Application of Marriage Acts.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 8. Application of Marriage Acts.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Fees.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 9. Fees.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Regulations.[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 10. Regulations.[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Interpretation and savings (Northern Ireland).[^key-afb8a0e99799ec3ac584e498eb63bf40]
+### 11. Interpretation and savings (Northern Ireland).[^c-afb8a0e99799ec3ac584e498eb63bf40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -119,7 +119,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) This Act may be cited as the Marriage Act 1983 and this Act as it extends to England and Wales and the Marriages Acts 1949 to 1970 may be cited as the Marriage Acts 1949 to 1983.
 
-(2) Sections 3 to 11 above shall be construed as one with the Acts relating to marriage in Northern Ireland. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-77e40d67699c518a7b3d54548150069b]
+(2) Sections 3 to 11 above shall be construed as one with the Acts relating to marriage in Northern Ireland. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-77e40d67699c518a7b3d54548150069b]
 
 (3) Nothing in this Act shall affect any law or custom relating to the marriage of members of the Royal Family.
 
@@ -422,7 +422,7 @@ Section 8.
 
 [^c796816]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-48f77c0e8bbad9f4404c45e38fbe0b17]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1983/32/section/1/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/58) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-48f77c0e8bbad9f4404c45e38fbe0b17]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1983/32/section/1/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/58) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c796818]: Textual amendment: Words in s. 1(2)(a) substituted (1.1.2001) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1), [Sch. 14 para. 77(b)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/77/b); [S.I. 2000/2698](https://www.legislation.gov.uk/uksi/2000/2698), [art. 2](https://www.legislation.gov.uk/uksi/2000/2698/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2698/schedule)
 
@@ -440,9 +440,9 @@ Section 8.
 
 [^c796825]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
 
-[^key-afb8a0e99799ec3ac584e498eb63bf40]: Textual amendment: Ss. 3-11 repealed (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413 (N.I. 3))](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-afb8a0e99799ec3ac584e498eb63bf40]: Textual amendment: Ss. 3-11 repealed (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413 (N.I. 3))](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
 
-[^key-77e40d67699c518a7b3d54548150069b]: Textual amendment: S. 12(2) repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-77e40d67699c518a7b3d54548150069b]: Textual amendment: S. 12(2) repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
 
 [^c796837]: Marginal citation: [1533 c. 21](https://www.legislation.gov.uk/aep/1533/21).
 

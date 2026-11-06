@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State for Health makes the following Order in exercise of the powers conferred by sections 161(3) and (4), 167 and 170(3) and (4) of the Health and Social Care Act 2008[^f00001] and sections 8 and 9 of the Electronic Communications Act 2000[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-99ed9f2d0c808107540f47810044662a]
+## 1. Citation, commencement and interpretation[^c-99ed9f2d0c808107540f47810044662a]
 
 (1) This Order may be cited as the Health and Social Care Act 2008 (Commencement No. 13, Transitory and Transitional Provisions and Electronic Communications) Order 2009 and shall come into force on 11th December 2009.
 
@@ -57,7 +57,7 @@ The Secretary of State for Health makes the following Order in exercise of the p
 - “the Act” means the Health and Social Care Act 2008;
 - “determination”, in relation to any person, means a decision to give―
   - (a) a notice of proposal under section 26(3) of the Act (notice of proposals) to refuse a transitional application; or
-  - (b) a notice of decision under section 28 of the Act (notice of decisions) or article 7[^key-70a2849f6f2df2495d59360291d4cd39] in respect of a transitional application,
+  - (b) a notice of decision under section 28 of the Act (notice of decisions) or article 7[^c-70a2849f6f2df2495d59360291d4cd39] in respect of a transitional application,
 
   in relation to one or more regulated activities;
 - “existing registrant” means a person, other than NHS Blood and Transplant[^f00003], who, on the first appointed date―
@@ -81,7 +81,7 @@ The Secretary of State for Health makes the following Order in exercise of the p
 - (a) granted or refused means granted or refused in relation to one or more regulated activities; or
 - (b) made on a particular date means the date on which the application is received by the Commission.
 
-## 2. Appointed day for commencement of provisions relating to the functions of the Commission[^key-b409dcf28f7aec86696beaf8132ea173]
+## 2. Appointed day for commencement of provisions relating to the functions of the Commission[^c-b409dcf28f7aec86696beaf8132ea173]
 
 11th December 2009 is the day appointed for the coming into force of the following provisions of the Act―
 
@@ -93,11 +93,11 @@ The Secretary of State for Health makes the following Order in exercise of the p
 - (f) section 51 insofar as not already in force; and
 - (g) section 72 insofar as not already in force.
 
-## 3. Transitory provision relating to references to a service provider[^key-cf7a73431ee9100a4d2b98ac595a5344]
+## 3. Transitory provision relating to references to a service provider[^c-cf7a73431ee9100a4d2b98ac595a5344]
 
 For the period starting on the first appointed date and ending on 31st March 2010, the reference in section 11 of the Act (applications for registration as a service provider) to a person seeking to be registered as a service provider is to be interpreted as a reference to a person who intends to be carrying on, on or after the second appointed date, one or more activities which the person reasonably expects to be prescribed as a regulated activity under section 8 of the Act (“regulated activity”) from the second appointed date.
 
-## 4. Notification to existing registrants of the need to make a transitional application[^key-45f5a0e4f0e97194f7be1ec34d07fc8c]
+## 4. Notification to existing registrants of the need to make a transitional application[^c-45f5a0e4f0e97194f7be1ec34d07fc8c]
 
 (1) The Commission must, before 1st January 2010, give notice to each existing registrant of the need to make a transitional application.
 
@@ -107,14 +107,14 @@ For the period starting on the first appointed date and ending on 31st March 201
 - (b) what information it must contain or be accompanied by; and
 - (c) that the transitional application must be made to the Commission on or before 29th January 2010, in the specified form and contain or be accompanied by the specified information, in order for article 16(2) to apply.
 
-## 5. Transitory modification relating to section 11(3) of the Act[^key-9cbf7fae5d7b651e165f04443d22105e]
+## 5. Transitory modification relating to section 11(3) of the Act[^c-9cbf7fae5d7b651e165f04443d22105e]
 
 For the purpose of a transitional application, section 11(3) of the Act (applications for registration as a service provider) is modified as if―
 
 - (a) “In such cases as the Commission may determine,” were omitted; and
 - (b) for “may” there were substituted “must, unless the person and the Commission agree otherwise in writing,”.
 
-## 6. Transitional provisions relating to the grant or refusal of registration[^key-fbb4c22c8fa01e7daa0d89c84b92d82e]
+## 6. Transitional provisions relating to the grant or refusal of registration[^c-fbb4c22c8fa01e7daa0d89c84b92d82e]
 
 (1) Section 12 of the Act (grant or refusal of registration as a service provider) applies to a transitional application as if modified as set out in paragraph (2).
 
@@ -146,7 +146,7 @@ For the purpose of a transitional application, section 11(3) of the Act (applica
 
   .
 
-## 7. Transitional provisions relating to registration subject to conditions[^key-98d544e0019cde483d623612b08d800b]
+## 7. Transitional provisions relating to registration subject to conditions[^c-98d544e0019cde483d623612b08d800b]
 
 (1) Where, pursuant to section 12 of the Act (grant or refusal of registration as a service provider) as modified by article 6, the Commission decides to grant a transitional application subject to any condition which has not been agreed in writing between it and the applicant―
 
@@ -188,7 +188,7 @@ For the purpose of a transitional application, section 11(3) of the Act (applica
 
 the Commission must have regard to the need to strike a balance between the desirability of preserving service continuity and the exposure of any person to the risk of harm.
 
-## 8. Transitional provisions relating to refusal of registration[^key-292ee58deb4fc6e378316baf53fe6bbe]
+## 8. Transitional provisions relating to refusal of registration[^c-292ee58deb4fc6e378316baf53fe6bbe]
 
 (1) Where, pursuant to section 12 of the Act (grant or refusal of registration as a service provider) as modified by article 6, the Commission proposes to refuse a transitional application it must, in the case of such an application made on or before 29th January 2010, use its best endeavours to give the applicant a notice of proposal pursuant to section 26(3) of the Act (notice of proposal relating to refusal of registration) before the second appointed date.
 
@@ -200,7 +200,7 @@ the Commission must have regard to the need to strike a balance between the desi
 
 (3) In deciding which of the periods listed in paragraph (2) to state in any particular case, the Commission must have regard to the need to strike a balance between the desirability of preserving service continuity and the need to safeguard persons against serious risks to their life, health or well-being.
 
-## 9. Transitional applications where there is an outstanding matter relating to an application by a service provider to vary or remove a condition, or to cancel or vary a period of suspension[^key-3da7b2ca3351c735e0e7cb12c871164a]
+## 9. Transitional applications where there is an outstanding matter relating to an application by a service provider to vary or remove a condition, or to cancel or vary a period of suspension[^c-3da7b2ca3351c735e0e7cb12c871164a]
 
 (1) This article applies where a condition or period of suspension is in force before the second appointed date in relation to an existing registrant, an application has been made under section 19(1)(a) or (c) of the Act (application by registered persons) in relation to that condition or period of suspension and―
 
@@ -234,7 +234,7 @@ the Commission must consider whether it should exercise its powers under section
 - (a) before it makes a determination in respect of the applicant, reflect that decision in making that determination; or
 - (b) after it makes a decision to grant a transitional application, consider whether it needs to exercise its powers under section 12(5) or 18 of the Act in order to reflect that decision.
 
-## 10. Transitional applications where there is an outstanding matter relating to a notice of proposal to vary or remove a condition, impose an additional condition, suspend registration or extend a period of suspension[^key-9e983e009bdc43345eb06d32c024d066]
+## 10. Transitional applications where there is an outstanding matter relating to a notice of proposal to vary or remove a condition, impose an additional condition, suspend registration or extend a period of suspension[^c-9e983e009bdc43345eb06d32c024d066]
 
 (1) This article applies where―
 
@@ -273,7 +273,7 @@ in relation to the existing registration of that person, the Commission must con
 - (a) before it makes a determination in respect of the applicant, reflect that decision in that determination; or
 - (b) after it has made a decision to grant a transitional application, consider whether it needs to exercise its powers under section 12(5) or 18 of the Act in order to reflect that decision.
 
-## 11. Transitional applications where there is an outstanding matter relating to the urgent procedure to vary or remove a condition, impose an additional condition, suspend registration or extend a period of suspension[^key-8158bdb8e8adfc34f76c8ffe4c9509a2]
+## 11. Transitional applications where there is an outstanding matter relating to the urgent procedure to vary or remove a condition, impose an additional condition, suspend registration or extend a period of suspension[^c-8158bdb8e8adfc34f76c8ffe4c9509a2]
 
 (1) This article applies where―
 
@@ -310,7 +310,7 @@ in relation to the existing registration of that person, the Commission must con
 - (a) before it makes a determination in respect of the applicant, reflect that decision in that determination; or
 - (b) after it has made a decision to grant a transitional application, consider whether it needs to exercise its powers under section 12(5) or 18 of the Act in order to reflect that decision.
 
-## 12. Transitory modification of section 12(5) and 18 of the Act[^key-bd576287fa5c8cf219ccd79090defe19]
+## 12. Transitory modification of section 12(5) and 18 of the Act[^c-bd576287fa5c8cf219ccd79090defe19]
 
 (1) Where article 9(4) or (5)(b), 10(4) or (5)(b) or 11(4) or (5)(b) applies―
 
@@ -328,7 +328,7 @@ in relation to the existing registration of that person, the Commission must con
 
     .
 
-## 13. Cancellation proceedings under the Act before the determination[^key-93318a5e5c0588504dbe5df3eb003649]
+## 13. Cancellation proceedings under the Act before the determination[^c-93318a5e5c0588504dbe5df3eb003649]
 
 (1) The Commission is not required to determine a transitional application made by an existing registrant who, at the time that their transitional application falls to be determined by the Commission, comes within paragraph (4) or (5).
 
@@ -363,7 +363,7 @@ in relation to the existing registration of that person, the Commission must con
   - (i) the date specified by the Commission in that notice as the one by which such an application must be made, or
   - (ii) if a transitional application is made by that person on or before that date, the date on which the Commission determines that application.
 
-## 14. Transitional applications following cancellation proceedings under the Act[^key-9f0569fa0c63e383f578acaf36664e89]
+## 14. Transitional applications following cancellation proceedings under the Act[^c-9f0569fa0c63e383f578acaf36664e89]
 
 (1) This article applies where the Commission is not required to―
 
@@ -390,7 +390,7 @@ and paragraph (2) applies to that person.
 
 (5) The date specified in accordance with paragraph (4)(c) must be a date that is not less than 28 days after the date on which the notification under paragraph (3) is sent.
 
-## 15. Cancellation proceedings under the Act after the determination[^key-22e4efc47a507dcfc801cbeeadb905c4]
+## 15. Cancellation proceedings under the Act after the determination[^c-22e4efc47a507dcfc801cbeeadb905c4]
 
 (1) Paragraph (2) applies where, on a date after a decision has been made by the Commission to grant a transitional application, paragraph (3) or (4) becomes applicable to the existing registration of the person in respect of whom that decision was made.
 
@@ -424,7 +424,7 @@ and paragraph (2) applies to that person.
   - (ii) determined and the decision of the Commission or the order of the justice of the peace is confirmed by the Tribunal; or
 - (c) in cases where the Tribunal directs that the notice of decision to adopt a proposal referred to in paragraph (3) or the order referred to in paragraph (4), shall not, or shall cease to, have effect, the date that is the end of a period of 14 days beginning on the day on which the Tribunal makes such a direction.
 
-## 16. Suspension of the offence of carrying on a regulated activity while unregistered[^key-1ead191cb42c7cbd84962d62cec8f60a]
+## 16. Suspension of the offence of carrying on a regulated activity while unregistered[^c-1ead191cb42c7cbd84962d62cec8f60a]
 
 (1) Paragraph (2) applies where―
 
@@ -445,7 +445,7 @@ and paragraph (2) applies to that person.
 
 (5) Section 10(1) of the Act (offence of carrying on a regulated activity while unregistered) does not apply to the person for the period beginning on the date of service of the notice of proposal and ending on the date of service by the Commission under section 28 of the Act of a notice of decision in respect of the proposal to refuse registration or, if later, the date that the decision takes effect.
 
-## 17. NHS Blood and Transplant[^key-c07e0f38498962dfb2a9d3eb6ef8d286]
+## 17. NHS Blood and Transplant[^c-c07e0f38498962dfb2a9d3eb6ef8d286]
 
 (1) Notwithstanding any revocation of the Regulated Activities Regulations 2009, those regulations shall continue to apply in respect of NHS Blood and Transplant[^f00009] until 30th September 2010.
 
@@ -465,11 +465,11 @@ and paragraph (2) applies to that person.
   - (i) in paragraph (2)(b), for “the date they are revoked” substitute “30th September 2010” and omit “, notwithstanding such revocation,”, and
   - (ii) in paragraph (2)(c), for “the second appointed date” in the second place where it occurs substitute “1st April 2010”.
 
-## 18. Service of documents and electronic communications[^key-90036fb4215954e968fd515faffd5b24]
+## 18. Service of documents and electronic communications[^c-90036fb4215954e968fd515faffd5b24]
 
 Sections 93 (service of documents) and 94 (electronic communications) of the Act apply to a notice given under this Order as they do to a notice given under Part 1 of the Act.
 
-## 19. Amendment of the Act[^key-e54c51dbd876ee11a91264de2e141be4]
+## 19. Amendment of the Act[^c-e54c51dbd876ee11a91264de2e141be4]
 
 In section 93 of the Act (service of documents), after subsection (2) insert—
 
@@ -731,9 +731,9 @@ The following provisions of the Health and Social Care Act 2008 have been brough
 
 [^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). See section 9(1) of that Act for the definition of “appropriate Minister”.
 
-[^key-99ed9f2d0c808107540f47810044662a]: Commencement: Art. 1 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-99ed9f2d0c808107540f47810044662a]: Commencement: Art. 1 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-70a2849f6f2df2495d59360291d4cd39]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/2) inserted (8.2.2010) by [The Health and Social Care Act 2008 (Commencement No.13, Transitory and Transitional Provisions and Electronic Communications) Amendment Order 2010 (S.I. 2010/47)](https://www.legislation.gov.uk/uksi/2010/47), [arts. 1](https://www.legislation.gov.uk/uksi/2010/47/article/1), [2](https://www.legislation.gov.uk/uksi/2010/47/article/2)
+[^c-70a2849f6f2df2495d59360291d4cd39]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/2) inserted (8.2.2010) by [The Health and Social Care Act 2008 (Commencement No.13, Transitory and Transitional Provisions and Electronic Communications) Amendment Order 2010 (S.I. 2010/47)](https://www.legislation.gov.uk/uksi/2010/47), [arts. 1](https://www.legislation.gov.uk/uksi/2010/47/article/1), [2](https://www.legislation.gov.uk/uksi/2010/47/article/2)
 
 [^f00003]: Footnote: NHS Blood and Transplant was established as a Special Health Authority in October 2005: see [S.I. 2005/2529](https://www.legislation.gov.uk/uksi/2005/2529).
 
@@ -743,44 +743,44 @@ The following provisions of the Health and Social Care Act 2008 have been brough
 
 [^f00006]: Footnote: See section 97(1) of the Act for the definition of “Commission”.
 
-[^key-b409dcf28f7aec86696beaf8132ea173]: Commencement: Art. 2 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-b409dcf28f7aec86696beaf8132ea173]: Commencement: Art. 2 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
 [^f00007]: Footnote: Sections 41 and 42 were previously commenced for the purpose of making regulations by section 170(1)(b) of the Act on the day that Act was passed.
 
 [^f00008]: Footnote: Section 49 was previously commenced for the purpose of making regulations by section 170(1)(b) of the Act on the day that Act was passed.
 
-[^key-cf7a73431ee9100a4d2b98ac595a5344]: Commencement: Art. 3 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-cf7a73431ee9100a4d2b98ac595a5344]: Commencement: Art. 3 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-45f5a0e4f0e97194f7be1ec34d07fc8c]: Commencement: Art. 4 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-45f5a0e4f0e97194f7be1ec34d07fc8c]: Commencement: Art. 4 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-9cbf7fae5d7b651e165f04443d22105e]: Commencement: Art. 5 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-9cbf7fae5d7b651e165f04443d22105e]: Commencement: Art. 5 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-fbb4c22c8fa01e7daa0d89c84b92d82e]: Commencement: Art. 6 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-fbb4c22c8fa01e7daa0d89c84b92d82e]: Commencement: Art. 6 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-98d544e0019cde483d623612b08d800b]: Commencement: Art. 7 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-98d544e0019cde483d623612b08d800b]: Commencement: Art. 7 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-292ee58deb4fc6e378316baf53fe6bbe]: Commencement: Art. 8 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-292ee58deb4fc6e378316baf53fe6bbe]: Commencement: Art. 8 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-3da7b2ca3351c735e0e7cb12c871164a]: Commencement: Art. 9 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-3da7b2ca3351c735e0e7cb12c871164a]: Commencement: Art. 9 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-9e983e009bdc43345eb06d32c024d066]: Commencement: Art. 10 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-9e983e009bdc43345eb06d32c024d066]: Commencement: Art. 10 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-8158bdb8e8adfc34f76c8ffe4c9509a2]: Commencement: Art. 11 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-8158bdb8e8adfc34f76c8ffe4c9509a2]: Commencement: Art. 11 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-bd576287fa5c8cf219ccd79090defe19]: Commencement: Art. 12 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-bd576287fa5c8cf219ccd79090defe19]: Commencement: Art. 12 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-93318a5e5c0588504dbe5df3eb003649]: Commencement: Art. 13 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-93318a5e5c0588504dbe5df3eb003649]: Commencement: Art. 13 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-9f0569fa0c63e383f578acaf36664e89]: Commencement: Art. 14 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-9f0569fa0c63e383f578acaf36664e89]: Commencement: Art. 14 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-22e4efc47a507dcfc801cbeeadb905c4]: Commencement: Art. 15 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-22e4efc47a507dcfc801cbeeadb905c4]: Commencement: Art. 15 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-1ead191cb42c7cbd84962d62cec8f60a]: Commencement: Art. 16 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-1ead191cb42c7cbd84962d62cec8f60a]: Commencement: Art. 16 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-c07e0f38498962dfb2a9d3eb6ef8d286]: Commencement: Art. 17 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-c07e0f38498962dfb2a9d3eb6ef8d286]: Commencement: Art. 17 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
 [^f00009]: Footnote: NHS Blood and Transplant was established as a Special Health Authority in October 2005: see [S.I. 2005/2529](https://www.legislation.gov.uk/uksi/2005/2529).
 
-[^key-90036fb4215954e968fd515faffd5b24]: Commencement: Art. 18 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-90036fb4215954e968fd515faffd5b24]: Commencement: Art. 18 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
 
-[^key-e54c51dbd876ee11a91264de2e141be4]: Commencement: Art. 19 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)
+[^c-e54c51dbd876ee11a91264de2e141be4]: Commencement: Art. 19 in force at 11.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1)

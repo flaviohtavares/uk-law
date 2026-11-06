@@ -45,17 +45,17 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred upon the Secretary of State by sections 22(1)(a), (2)(g) and (3)(d) and 42(6) of the Teaching and Higher Education Act 1998[^f00001] and now exercisable by them[^f00002].
 
-## 1. Title and commencement[^key-1d2dd92918eb2f7dcc6ca48710d186e8]
+## 1. Title and commencement[^c-1d2dd92918eb2f7dcc6ca48710d186e8]
 
 (1) The title of these Regulations is the Cancellation of Student Loans for Living Costs Liability (Wales) Regulations 2022.
 
 (2) These Regulations come into force on 1 August 2022.
 
-## 2. Application[^key-9f9dab19130ce6f2ac6cea6026015dcc]
+## 2. Application[^c-9f9dab19130ce6f2ac6cea6026015dcc]
 
 These Regulations apply in relation to Wales and to the provision of support to students in respect of the Academic Year 2022/2023.
 
-## 3. Interpretation[^key-a1a5333bd846c3c6529817ddc911e488]
+## 3. Interpretation[^c-a1a5333bd846c3c6529817ddc911e488]
 
 In these Regulations—
 
@@ -71,11 +71,11 @@ In these Regulations—
 - “**Specified Amount**” (“***Swm Penodedig***”) has the meaning given in regulation 6;
 - “**Welsh Ministers**” (“***Gweinidogion Cymru***”) includes any person to whom they have transferred or delegated their functions under section 23 of the 1998 Act[^f00007] or to whom they have transferred their rights under section 9 of the 2008 Act.
 
-## 4. Qualification for cancellation[^key-5d2aa6bc56d33da292fe9b025df2d0fd]
+## 4. Qualification for cancellation[^c-5d2aa6bc56d33da292fe9b025df2d0fd]
 
 A borrower qualifies for cancellation of the Specified Amount of their Outstanding Liability in the circumstances set out in regulation 5 (“the Circumstances”).
 
-## 5. Circumstances[^key-78fc55f328468454e83e4785fc7db85d]
+## 5. Circumstances[^c-78fc55f328468454e83e4785fc7db85d]
 
 The Circumstances for the purposes of regulation 4 are that the Welsh Ministers consider that, on the Repayment Date, the borrower—
 
@@ -97,14 +97,14 @@ The Circumstances for the purposes of regulation 4 are that the Welsh Ministers 
 
   of any of their liability for payment in respect of a loan received from the Welsh Ministers.
 
-## 6. Specified Amount[^key-bdb8dca67b3efe1a60ba9b5712491fda]
+## 6. Specified Amount[^c-bdb8dca67b3efe1a60ba9b5712491fda]
 
 The Specified Amount is the lesser of—
 
 - (a) £1,500, or
 - (b) the Outstanding Liability.
 
-## 7. Outstanding Liability[^key-2342ba02d0bb0c6c8e9d2c989c385ef6]
+## 7. Outstanding Liability[^c-2342ba02d0bb0c6c8e9d2c989c385ef6]
 
 (1) Subject to paragraph (2), the Outstanding Liability is the total amount considered to be payable by the borrower on the Repayment Date in respect of any loan for living costs, but does not include any interest accrued or any penalties, costs, expenses or charges incurred in respect of any such loan.
 
@@ -112,11 +112,11 @@ The Specified Amount is the lesser of—
 
 (3) For the purposes of calculating the Outstanding Liability in paragraphs (1) and (2), the amount considered to be payable by the borrower is calculated in accordance with regulations made pursuant to section 22 of the 1998 Act[^f00020].
 
-## 8. Cancellation[^key-275c567b2214f42a66cbecd3908fd7f2]
+## 8. Cancellation[^c-275c567b2214f42a66cbecd3908fd7f2]
 
 In the Circumstances in regulation 5, the Welsh Ministers must cancel the Specified Amount with effect from the Repayment Date.
 
-**9.**[^key-b06d87176d246f32501113eeac00d4aa] If any of the Circumstances in regulation 5 are not satisfied on the Repayment Date, but they become satisfied at a later date, the Welsh Ministers may cancel the Specified Amount with effect from the date that they consider the Circumstances to have been satisfied (“the Satisfaction Date”).
+**9.**[^c-b06d87176d246f32501113eeac00d4aa] If any of the Circumstances in regulation 5 are not satisfied on the Repayment Date, but they become satisfied at a later date, the Welsh Ministers may cancel the Specified Amount with effect from the date that they consider the Circumstances to have been satisfied (“the Satisfaction Date”).
 
 Jeremy Miles
 
@@ -140,11 +140,11 @@ The Welsh Ministers Code of Practice on the carrying out of Regulatory Impact As
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22(1)(a), (2)(g) and (3)(d) of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales so far as they relate to making provision in relation to Wales by section 44 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8). The Secretary of State’s function in section 42(6) was transferred, in so far as exercisable in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, article 2 and Schedule 1 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-1d2dd92918eb2f7dcc6ca48710d186e8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/639/regulation/1) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-1d2dd92918eb2f7dcc6ca48710d186e8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/639/regulation/1) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
-[^key-9f9dab19130ce6f2ac6cea6026015dcc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/639/regulation/2) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-9f9dab19130ce6f2ac6cea6026015dcc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/639/regulation/2) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
-[^key-a1a5333bd846c3c6529817ddc911e488]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/639/regulation/3) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-a1a5333bd846c3c6529817ddc911e488]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/639/regulation/3) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
 [^f00003]: Footnote: [2008 c. 10](https://www.legislation.gov.uk/ukpga/2008/10).
 
@@ -156,9 +156,9 @@ The Welsh Ministers Code of Practice on the carrying out of Regulatory Impact As
 
 [^f00007]: Footnote: Section 23 was amended by section 146 of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), [S.I. 2002/808](https://www.legislation.gov.uk/uksi/2002/808) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-5d2aa6bc56d33da292fe9b025df2d0fd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/639/regulation/4) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-5d2aa6bc56d33da292fe9b025df2d0fd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/639/regulation/4) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
-[^key-78fc55f328468454e83e4785fc7db85d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/639/regulation/5) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-78fc55f328468454e83e4785fc7db85d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/639/regulation/5) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2010/1704 (W. 164)](https://www.legislation.gov.uk/wsi/2010/1704).
 
@@ -184,12 +184,12 @@ The Welsh Ministers Code of Practice on the carrying out of Regulatory Impact As
 
 [^f00019]: Footnote: [S.I. 2021/796 (W. 190.)](https://www.legislation.gov.uk/wsi/2021/796)
 
-[^key-bdb8dca67b3efe1a60ba9b5712491fda]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/639/regulation/6) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-bdb8dca67b3efe1a60ba9b5712491fda]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/639/regulation/6) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
-[^key-2342ba02d0bb0c6c8e9d2c989c385ef6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/639/regulation/7) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-2342ba02d0bb0c6c8e9d2c989c385ef6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/639/regulation/7) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
 [^f00020]: Footnote: At the time of making these Regulations, the amount which a borrower is considered to have repaid and therefore the amount that is considered to still be payable is determined in accordance with the Education (Student Loans) (Repayment) Regulations 2009 ([S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470)). See in particular regulations 17, 29, 44 and 76.
 
-[^key-275c567b2214f42a66cbecd3908fd7f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/639/regulation/8) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-275c567b2214f42a66cbecd3908fd7f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/639/regulation/8) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
 
-[^key-b06d87176d246f32501113eeac00d4aa]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/639/regulation/9) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)
+[^c-b06d87176d246f32501113eeac00d4aa]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/639/regulation/9) in force at 1.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/639/regulation/1/2)

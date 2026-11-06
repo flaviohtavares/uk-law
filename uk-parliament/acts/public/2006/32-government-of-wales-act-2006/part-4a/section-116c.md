@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116C. Power to add new devolved taxes[^key-072cc4442b55bad2cd354d03f2953ea6]
+## 116C. Power to add new devolved taxes[^c-072cc4442b55bad2cd354d03f2953ea6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 as Her Majesty considers appropriate in connection with the provision made by the Order.
 
-(3) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order has been laid before, and approved by a resolution of, each House of Parliament and the Senedd[^key-60edd79c70d763519861630d1afb7962] .
+(3) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this section unless a draft of the statutory instrument containing the Order has been laid before, and approved by a resolution of, each House of Parliament and the Senedd[^c-60edd79c70d763519861630d1afb7962] .
 
 (4) The amendment of this Part by an Order in Council under this section does not affect—
 
@@ -41,6 +41,6 @@ as Her Majesty considers appropriate in connection with the provision made by th
 
 ## Annotations
 
-[^key-072cc4442b55bad2cd354d03f2953ea6]: Textual amendment: Pt. 4A inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/2), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
+[^c-072cc4442b55bad2cd354d03f2953ea6]: Textual amendment: Pt. 4A inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/2), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Finality of decisions by Upper Tribunal about permission to appeal[^key-d16d2dbac48065eb4900bae4bab3f0db]
+## 11A. Finality of decisions by Upper Tribunal about permission to appeal[^c-d16d2dbac48065eb4900bae4bab3f0db]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d16d2dbac48065eb4900bae4bab3f0db]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2007/15/section/11A) inserted (14.7.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/2/1), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/2/2)); [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/b)
+[^c-d16d2dbac48065eb4900bae4bab3f0db]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2007/15/section/11A) inserted (14.7.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/2/1), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/2/2)); [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/b)

@@ -20,7 +20,7 @@ summary: ''
 
 (2) The Secretary of State shall provide the relevant authority with details of the calculation or estimate—
 
-- (a)[^key-a2a4b73b4febe9fe359eeb1700839a11] by the High Court or the County Court under Rule 21.11(1) of the Civil Procedure Rules 1998, or the Court of Protection, or on behalf of a person where the payment can only be disposed of by order or direction of any such court;
+- (a)[^c-a2a4b73b4febe9fe359eeb1700839a11] by the High Court or the County Court under Rule 21.11(1) of the Civil Procedure Rules 1998, or the Court of Protection, or on behalf of a person where the payment can only be disposed of by order or direction of any such court;
 - (b) if sub-paragraph (a) does not apply, within the two working days following the day he receives information from the relevant authority that the claimant or his partner has claimed council tax benefit, or as soon as reasonably practicable thereafter.
 
 (3) The details provided by the Secretary of State shall include the amount taken into account in that determination in respect of the net income of the person claiming state pension credit.
@@ -38,7 +38,7 @@ summary: ''
 - (e) the income and capital of any partner of the claimant who is treated as a member of the claimant's household under regulation 11, to the extent that it is not taken into account in determining the net income of the person claiming state pension credit;
 - (f) regulation 14 (circumstances in which income of a non-dependant is to be treated as claimant's), if the relevant authority determines that this provision applies in the claimant's case;
 - (g) any modification under section 139(6) of the Administration Act (modifications by resolution of an authority) which is applicable in the claimant's case.
-- (h)[^key-b24757b442c03b172fc11382bc532707] any amount to be disregarded by virtue of paragraph 5A of Schedule 2.
+- (h)[^c-b24757b442c03b172fc11382bc532707] any amount to be disregarded by virtue of paragraph 5A of Schedule 2.
 
 (5) Regulations 19 to 39 shall not apply to the amount of the net income to be taken into account by the local authority under paragraph (1), but shall apply (so far as relevant) for the purpose of determining any modifications which fall to be made to that amount under paragraph (4).
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a4b73b4febe9fe359eeb1700839a11]: Textual amendment: Reg. 17(2)(a) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [reg. 18(4)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/18/4)
+[^c-a2a4b73b4febe9fe359eeb1700839a11]: Textual amendment: Reg. 17(2)(a) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [reg. 18(4)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/18/4)
 
-[^key-b24757b442c03b172fc11382bc532707]: Textual amendment: [Reg. 17(4)(h)](https://www.legislation.gov.uk/uksi/2006/216/regulation/17/4/h) added (1.4.2010) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/5/2)
+[^c-b24757b442c03b172fc11382bc532707]: Textual amendment: [Reg. 17(4)(h)](https://www.legislation.gov.uk/uksi/2006/216/regulation/17/4/h) added (1.4.2010) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/5/2)

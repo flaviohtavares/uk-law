@@ -24,10 +24,10 @@ Section 43
 
 ### Membership, etc.
 
-**1.**[^key-ecf6266734d66a075a5cf49fcb192040] (1) The members of an SAB are—
+**1.**[^c-ecf6266734d66a075a5cf49fcb192040] (1) The members of an SAB are—
 
 - (a) the local authority which established it,
-- (b) an integrated care board[^key-09dafda8f27bd01320062f5b099d87a5] the whole or part of whose area is in the local authority's area,
+- (b) an integrated care board[^c-09dafda8f27bd01320062f5b099d87a5] the whole or part of whose area is in the local authority's area,
 - (c) the chief officer of police for a police area the whole or part of which is in the local authority's area, and
 - (d) such persons, or persons of such description, as may be specified in regulations.
 
@@ -37,7 +37,7 @@ Section 43
 
 (4) Each member of an SAB must appoint a person to represent it on the SAB; and the representative must be a person whom the member considers to have the required skills and experience.
 
-(5) Where more than one integrated care board[^key-fc3484b67b917cb6301057ae79fde1c8] or more than one chief officer of police comes within sub-paragraph (1), a person may represent more than one of the integrated care boards[^key-3faa02c7f824ce973d2b2d91e85d5493] or chief officers of police.
+(5) Where more than one integrated care board[^c-fc3484b67b917cb6301057ae79fde1c8] or more than one chief officer of police comes within sub-paragraph (1), a person may represent more than one of the integrated care boards[^c-3faa02c7f824ce973d2b2d91e85d5493] or chief officers of police.
 
 (6) The members of an SAB (other than the local authority which established it) must, in acting as such, have regard to such guidance as the Secretary of State may issue.
 
@@ -47,7 +47,7 @@ Section 43
 
 ### Funding and other resources
 
-**2.**[^key-86736cbb178c1925e6b0a4d52acac397] (1) A member of an SAB listed in paragraph 1(1) may make payments towards expenditure incurred by, or for purposes connected with, the SAB—
+**2.**[^c-86736cbb178c1925e6b0a4d52acac397] (1) A member of an SAB listed in paragraph 1(1) may make payments towards expenditure incurred by, or for purposes connected with, the SAB—
 
 - (a) by making the payments directly, or
 - (b) by contributing to a fund out of which the payments may be made.
@@ -56,7 +56,7 @@ Section 43
 
 ### Strategic plan
 
-**3.**[^key-5993d7a554a4b3182fa6a8d9d2fe798d] (1) An SAB must publish for each financial year a plan (its “strategic plan”) which sets out—
+**3.**[^c-5993d7a554a4b3182fa6a8d9d2fe798d] (1) An SAB must publish for each financial year a plan (its “strategic plan”) which sets out—
 
 - (a) its strategy for achieving its objective (see section 43), and
 - (b) what each member is to do to implement that strategy.
@@ -73,7 +73,7 @@ Section 43
 
 ### Annual report
 
-**4.**[^key-f3c8f228b184307d39abb2dcbd5e776a] (1) As soon as is feasible after the end of each financial year, an SAB must publish a report on—
+**4.**[^c-f3c8f228b184307d39abb2dcbd5e776a] (1) As soon as is feasible after the end of each financial year, an SAB must publish a report on—
 
 - (a) what it has done during that year to achieve its objective,
 - (b) what it has done during that year to implement its strategy,
@@ -94,16 +94,16 @@ Section 43
 
 ## Annotations
 
-[^key-ecf6266734d66a075a5cf49fcb192040]: Commencement: Sch. 2 para. 1 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
+[^c-ecf6266734d66a075a5cf49fcb192040]: Commencement: Sch. 2 para. 1 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
 
-[^key-09dafda8f27bd01320062f5b099d87a5]: Textual amendment: Words in [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/2/paragraph/1/1/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 198(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/198/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-09dafda8f27bd01320062f5b099d87a5]: Textual amendment: Words in [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/2/paragraph/1/1/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 198(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/198/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-fc3484b67b917cb6301057ae79fde1c8]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/2/paragraph/1/5) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 198(3)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/198/3/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-fc3484b67b917cb6301057ae79fde1c8]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/2/paragraph/1/5) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 198(3)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/198/3/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-3faa02c7f824ce973d2b2d91e85d5493]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/2/paragraph/1/5) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 198(3)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/198/3/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3faa02c7f824ce973d2b2d91e85d5493]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/2/paragraph/1/5) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 198(3)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/198/3/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-86736cbb178c1925e6b0a4d52acac397]: Commencement: Sch. 2 para. 2 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
+[^c-86736cbb178c1925e6b0a4d52acac397]: Commencement: Sch. 2 para. 2 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
 
-[^key-5993d7a554a4b3182fa6a8d9d2fe798d]: Commencement: Sch. 2 para. 3 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
+[^c-5993d7a554a4b3182fa6a8d9d2fe798d]: Commencement: Sch. 2 para. 3 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
 
-[^key-f3c8f228b184307d39abb2dcbd5e776a]: Commencement: Sch. 2 para. 4 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)
+[^c-f3c8f228b184307d39abb2dcbd5e776a]: Commencement: Sch. 2 para. 4 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/993/article/2/n) (with transitional provisions in S.I. 2015/995)

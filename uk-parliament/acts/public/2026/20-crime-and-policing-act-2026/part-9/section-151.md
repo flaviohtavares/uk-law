@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Possession of a SIM farm[^key-90d351434f89b4c511636b171059eac1][^key-26e6966774fa4f71a47cb0945c5e6759]
+## 151. Possession of a SIM farm[^c-90d351434f89b4c511636b171059eac1][^c-26e6966774fa4f71a47cb0945c5e6759]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ This subsection does not limit subsection (2).
 
 ## Annotations
 
-[^key-90d351434f89b4c511636b171059eac1]: Commencement: S. 151 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-90d351434f89b4c511636b171059eac1]: Commencement: S. 151 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-26e6966774fa4f71a47cb0945c5e6759]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2026/20/section/151) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/a)
+[^c-26e6966774fa4f71a47cb0945c5e6759]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2026/20/section/151) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/a)

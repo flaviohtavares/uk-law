@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Orders for securing compliance with confiscation order[^key-f7a5dad0d5570bea65b2ec3ea1bd843c]
+## 7. Orders for securing compliance with confiscation order[^c-f7a5dad0d5570bea65b2ec3ea1bd843c]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ After section 13 of the Proceeds of Crime Act 2002 insert—
 
 ## Annotations
 
-[^key-f7a5dad0d5570bea65b2ec3ea1bd843c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/9/section/7) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/d)
+[^c-f7a5dad0d5570bea65b2ec3ea1bd843c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/9/section/7) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/d)

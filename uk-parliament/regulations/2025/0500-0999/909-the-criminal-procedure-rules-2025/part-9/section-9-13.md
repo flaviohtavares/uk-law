@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.13. Young defendant[^key-212538d3d3835873d329cdd3efb46e18]
+## 9.13. Young defendant[^c-212538d3d3835873d329cdd3efb46e18]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-212538d3d3835873d329cdd3efb46e18]: Commencement: [Rule 9.13](https://www.legislation.gov.uk/uksi/2025/909/rule/9.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-212538d3d3835873d329cdd3efb46e18]: Commencement: [Rule 9.13](https://www.legislation.gov.uk/uksi/2025/909/rule/9.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00284]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 24A was inserted by paragraphs 1 and 10 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

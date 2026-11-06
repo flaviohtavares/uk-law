@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177B. Restrictions on setting losses against pre-entry gains.[^key-c8556b2e1575a70364012adc1391cc83]
+## 177B. Restrictions on setting losses against pre-entry gains.[^c-c8556b2e1575a70364012adc1391cc83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8556b2e1575a70364012adc1391cc83]: Textual amendment: S. 177B repealed (with effect in accordance with s. 70(6)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 70(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/4), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9) (with [s. 70(10)-(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/10))
+[^c-c8556b2e1575a70364012adc1391cc83]: Textual amendment: S. 177B repealed (with effect in accordance with s. 70(6)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 70(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/4), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9) (with [s. 70(10)-(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Meaning of “protected data”[^key-3fed50eee0f39e6dc4c77e5bdb2e6d0a]
+## 203. Meaning of “protected data”[^c-3fed50eee0f39e6dc4c77e5bdb2e6d0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fed50eee0f39e6dc4c77e5bdb2e6d0a]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2016/25/section/203) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/l)
+[^c-3fed50eee0f39e6dc4c77e5bdb2e6d0a]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2016/25/section/203) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/l)

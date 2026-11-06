@@ -37,28 +37,28 @@ amending Decisions (EU) 2017/1214, (EU) 2017/1215, (EU) 2017/1216, (EU) 2017/121
 
 (Text with EEA relevance) (revoked)
 
-[^key-b34521500914489f5551d3dbe6fe07ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b34521500914489f5551d3dbe6fe07ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-b34521500914489f5551d3dbe6fe07ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b34521500914489f5551d3dbe6fe07ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b34521500914489f5551d3dbe6fe07ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-b34521500914489f5551d3dbe6fe07ee]
+## ANNEX[^c-b34521500914489f5551d3dbe6fe07ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b34521500914489f5551d3dbe6fe07ee]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/5)
+[^c-b34521500914489f5551d3dbe6fe07ee]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/5)

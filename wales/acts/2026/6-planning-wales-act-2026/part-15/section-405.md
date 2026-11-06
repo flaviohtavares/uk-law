@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 405. Development by, and land of, planning authorities and the Welsh Ministers[^key-4e834fb3de6f59ae930ca2d4f3f77c06]
+## 405. Development by, and land of, planning authorities and the Welsh Ministers[^c-4e834fb3de6f59ae930ca2d4f3f77c06]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e834fb3de6f59ae930ca2d4f3f77c06]: Commencement: S. 405 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4e834fb3de6f59ae930ca2d4f3f77c06]: Commencement: S. 405 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

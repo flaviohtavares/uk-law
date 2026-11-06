@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.3. Documents and recordings held by the court officer[^key-d5ebfbbda78d7befd53a246fd6074c73]
+## 47.3. Documents and recordings held by the court officer[^c-d5ebfbbda78d7befd53a246fd6074c73]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ebfbbda78d7befd53a246fd6074c73]: Commencement: Rule 47.3 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d5ebfbbda78d7befd53a246fd6074c73]: Commencement: Rule 47.3 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01106]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 16(10) was substituted by section 114 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).

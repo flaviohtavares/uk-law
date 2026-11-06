@@ -34,7 +34,7 @@ Exiting The European Union, Northern Ireland
 
 Food, Northern Ireland
 
-The Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^key-1593356104a89c87409fe5ac8c0af1ec]
+The Food (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 Sift requirements satisfied
 
@@ -50,48 +50,48 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-1593356104a89c87409fe5ac8c0af1ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1593356104a89c87409fe5ac8c0af1ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 1. Citation and commencement[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Food (Lot Marking) Regulations (Northern Ireland) 1996[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 2. The Food (Lot Marking) Regulations (Northern Ireland) 1996[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 3. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The Fish Labelling Regulations (Northern Ireland) 2013[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 4. The Fish Labelling Regulations (Northern Ireland) 2013[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The Food Information Regulations (Northern Ireland) 2014[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 5. The Food Information Regulations (Northern Ireland) 2014[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. The Honey Regulations (Northern Ireland) 2015[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 6. The Honey Regulations (Northern Ireland) 2015[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. The Country of Origin of Certain Meats Regulations (Northern Ireland) 2015[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 7. The Country of Origin of Certain Meats Regulations (Northern Ireland) 2015[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015[^key-1593356104a89c87409fe5ac8c0af1ec]
+## 8. The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015[^c-1593356104a89c87409fe5ac8c0af1ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1593356104a89c87409fe5ac8c0af1ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1593356104a89c87409fe5ac8c0af1ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1593356104a89c87409fe5ac8c0af1ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1593356104a89c87409fe5ac8c0af1ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1593356104a89c87409fe5ac8c0af1ec]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food (Miscellaneous Amendments etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/286)](https://www.legislation.gov.uk/nisr/2020/286), [regs. 1](https://www.legislation.gov.uk/nisr/2020/286/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/286/regulation/2)
+[^c-1593356104a89c87409fe5ac8c0af1ec]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food (Miscellaneous Amendments etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/286)](https://www.legislation.gov.uk/nisr/2020/286), [regs. 1](https://www.legislation.gov.uk/nisr/2020/286/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/286/regulation/2)

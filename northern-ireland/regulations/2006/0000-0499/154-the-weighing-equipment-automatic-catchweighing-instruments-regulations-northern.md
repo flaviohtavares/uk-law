@@ -43,11 +43,11 @@ The Department of Enterprise, Trade and Investment[^f00001] makes the following 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-b75f9bd6cbe6395671e53cf358f14681]
+### 1. Citation and commencement[^c-b75f9bd6cbe6395671e53cf358f14681]
 
 These Regulations may be cited as the Weighing Equipment (Automatic Catchweighing Instruments) Regulations (Northern Ireland) 2006 and shall come into operation on 8th May 2006.
 
-### 2. Interpretation[^key-0e4006849f35feb817709762f6832697]
+### 2. Interpretation[^c-0e4006849f35feb817709762f6832697]
 
 (1) In these Regulations—
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Weighing Equipment (Automatic Catchweighin
 
 (2) Any expression or procedure which is not defined in these Regulations and is used both in these Regulations and in OIML R51 shall bear the same meaning as in OIML R51.
 
-### 3. Application and effect[^key-41660f40ed7317c9f169c6cd98502def]
+### 3. Application and effect[^c-41660f40ed7317c9f169c6cd98502def]
 
 (1) Subject to paragraphs (2) and (3) and regulation 4, these Regulations apply to automatic catchweighing instruments for use for trade, and such instruments are hereby prescribed for the purposes of Article 9(1) of the 1981 Order (use for trade of weighing or measuring equipment of prescribed classes).
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Weighing Equipment (Automatic Catchweighin
 
 (3) These Regulations shall not apply to any automatic catchweighing instrument which has been lawfully used for trade before these Regulations came into operation.
 
-### 4. Transitional exclusion[^key-63debfdc05ce8d735f566a06f4a2bc14]
+### 4. Transitional exclusion[^c-63debfdc05ce8d735f566a06f4a2bc14]
 
 (1) Subject to paragraph (2), these Regulations shall not apply to an automatic catchweighing instrument—
 
@@ -100,14 +100,14 @@ These Regulations may be cited as the Weighing Equipment (Automatic Catchweighin
 
 ## PART II — GENERAL REQUIREMENTS FOR USE FOR TRADE
 
-### 5. General duties for use for trade[^key-0693d6bb7c76cec9605380b7059878fc]
+### 5. General duties for use for trade[^c-0693d6bb7c76cec9605380b7059878fc]
 
 A person shall not use for trade an automatic catchweighing instrument unless—
 
 - (a) it has been erected and installed in accordance with the requirements of Schedule 2; and
 - (b) the requirements of Schedule 3 in respect of its use and manner of use are complied with.
 
-### 6. Requirements to be satisfied for passing as fit for use for trade[^key-a7e9dc3d6764f00fc40ffc6c9b575d59]
+### 6. Requirements to be satisfied for passing as fit for use for trade[^c-a7e9dc3d6764f00fc40ffc6c9b575d59]
 
 Every automatic catchweighing instrument shall, before it is passed as fit for use for trade,—
 
@@ -115,11 +115,11 @@ Every automatic catchweighing instrument shall, before it is passed as fit for u
 - (b) have affixed to it the applicable descriptive markings relating to that automatic catchweighing instrument and have provision for a place for the application of the specified verification marks, in accordance with the requirements of Schedule 4; and
 - (c) subject to regulation 9, have successfully undergone initial verification testing and, as part of that testing, an accuracy class has been confirmed in respect of it; for the purposes of these Regulations, initial verification testing means testing of an automatic catchweighing instrument in accordance with the procedure specified in clause 5.3 (initial verification) of Part 1 of OIML R51 or on an equivalent basis.
 
-### 7. Supplementary indications[^key-16d78beda3f56d16f653fdd1604474f8]
+### 7. Supplementary indications[^c-16d78beda3f56d16f653fdd1604474f8]
 
-Where the indication of the exact quantity of material an automatic catchweighing instrument purports to weigh is given in metric units of measurement that indication may also be given by means of a supplementary indication[^key-4d7ae04abaedcc1cfa0ce68598862525]....
+Where the indication of the exact quantity of material an automatic catchweighing instrument purports to weigh is given in metric units of measurement that indication may also be given by means of a supplementary indication[^c-4d7ae04abaedcc1cfa0ce68598862525]....
 
-### 8. Supplementary requirements[^key-5514d3bd562f82ea05b75f0b82ba2865]
+### 8. Supplementary requirements[^c-5514d3bd562f82ea05b75f0b82ba2865]
 
 (1) Every automatic catchweighing instrument submitted for testing shall be completely assembled and in a clean condition.
 
@@ -129,7 +129,7 @@ Where the indication of the exact quantity of material an automatic catchweighin
 
 (4) An automatic catchweighing instrument that has not been dismantled, or one where an inspector is satisfied that any dismantling and re-assembly or transportation to its intended place of use could not, in his opinion, affect the accuracy or functioning of the automatic catchweighing instrument, may be tested, with a view to passing that instrument as fit for use for trade, at a place other than the intended place of use, for the purposes of initial verification testing.
 
-### 9. Automatic catchweighing instruments imported from an EEA State[^key-6f38d1925525af3949ee3cdea2df917f]
+### 9. Automatic catchweighing instruments imported from an EEA State[^c-6f38d1925525af3949ee3cdea2df917f]
 
 (1) In relation to an automatic catchweighing instrument imported into Northern Ireland (whether directly or indirectly through Great Britain) from an EEA State, subject to paragraph (3), an inspector shall not carry out any test relating to initial verification testing if, together with the automatic catchweighing instrument being imported, he is presented with the requisite documentation.
 
@@ -138,7 +138,7 @@ Where the indication of the exact quantity of material an automatic catchweighin
 - (a) “requisite documentation” means—
   - (i) the test report of an approved body that the automatic catchweighing instrument which is the subject of that report has been tested on the same basis as the procedure specified in clause 5.3 (initial verification) of Part 1 of OIML R51 or on an equivalent basis, and stating which tests have been applied to it; and
   - (ii) the test results relating to those tests;
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement[^key-1fefea496a9c47e3cd952dcd0e5eac32]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; and
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement[^c-1fefea496a9c47e3cd952dcd0e5eac32]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; and
 - (c) a body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of automatic catchweighing instruments or is a laboratory which has been accredited for the purposes of testing automatic catchweighing instruments in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2005[^f00008].
 
 (3) Nothing in these Regulations shall prevent an inspector carrying out initial verification testing where he is not satisfied—
@@ -149,7 +149,7 @@ Where the indication of the exact quantity of material an automatic catchweighin
 
 ## PART III — TESTING AND STAMPING
 
-### 10. Passing as fit for use for trade[^key-da137193aed8bcb3c4f8f56ebb084ffa]
+### 10. Passing as fit for use for trade[^c-da137193aed8bcb3c4f8f56ebb084ffa]
 
 (1) An inspector shall not pass as fit for use for trade an automatic catchweighing instrument unless—
 
@@ -163,19 +163,19 @@ Where the indication of the exact quantity of material an automatic catchweighin
 
 (3) For the purposes of these Regulations, the prescribed limits of error relating to an automatic catchweighing instrument shall be determined in accordance with the provisions of Schedule 5.
 
-### 11. Stamping[^key-adc644ede63f69e820f13c202d777c7f]
+### 11. Stamping[^c-adc644ede63f69e820f13c202d777c7f]
 
 (1) The stamp shall be placed on the verification mark support referred to in clause 3.9.2 of OIML R51 which is set out in Schedule 4.
 
 (2) An inspector shall not stamp an automatic catchweighing instrument in accordance with paragraph (1) if it bears any mark which, in his opinion, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
 
-### 12. Obliteration of stamps (method)[^key-3d59f4678f52a8bfdb98370b8297199e]
+### 12. Obliteration of stamps (method)[^c-3d59f4678f52a8bfdb98370b8297199e]
 
 An inspector shall obliterate a stamp, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration—
 
 [image: see source](https://www.legislation.gov.uk/nisr/2006/154/images/nisr_20060154_en_001)
 
-### 13. Obliteration of stamps (failure to comply)[^key-da821a50cb91b8e12430bb84a7123ea9]
+### 13. Obliteration of stamps (failure to comply)[^c-da821a50cb91b8e12430bb84a7123ea9]
 
 (1) Subject to paragraph (2), an inspector shall obliterate the stamp on any automatic catchweighing instrument which—
 
@@ -184,7 +184,7 @@ An inspector shall obliterate a stamp, in accordance with the requirements of th
 
 (2) Except as provided by regulation 14, where any automatic catchweighing instrument does not fully comply with the requirements of these Regulations, but the nature or degree of the non-compliance is not, in the inspector’s opinion, such as to require the immediate obliteration of the stamp, he shall give to the proprietor or any person in control of the automatic catchweighing instrument a notice calling on him to have the instrument corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
 
-### 14. Obliteration of stamps on instruments which are unfit for use for trade[^key-3fa3aabaa12c6c656252ff5c0e8c1b2e]
+### 14. Obliteration of stamps on instruments which are unfit for use for trade[^c-3fa3aabaa12c6c656252ff5c0e8c1b2e]
 
 (1) An inspector shall obliterate the stamp on any automatic catchweighing instrument which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 10.
 
@@ -192,7 +192,7 @@ An inspector shall obliterate a stamp, in accordance with the requirements of th
 
 (3) Where an automatic catchweighing instrument has been subjected to one or other of the occurrences in paragraph (2) and the chief inspector of weights and measures has been furnished in writing with details of the occurrence, an inspector may obliterate the stamp.
 
-### 15. Power to obliterate stamps on instruments which are unfit for use for trade for a particular purpose[^key-7af0eba5502bf498955b84b34a2ffdb1]
+### 15. Power to obliterate stamps on instruments which are unfit for use for trade for a particular purpose[^c-7af0eba5502bf498955b84b34a2ffdb1]
 
 An inspector may obliterate the stamp on any automatic catchweighing instrument if—
 
@@ -203,7 +203,7 @@ An inspector may obliterate the stamp on any automatic catchweighing instrument 
   - (i) prevent the instrument operating consistently and correctly; or
   - (ii) are likely prematurely to degrade the metrological characteristics of the instrument.
 
-### 16. Obliteration of all stamps[^key-f17525537aa0bb8d7becb848d7d4fc27]
+### 16. Obliteration of all stamps[^c-f17525537aa0bb8d7becb848d7d4fc27]
 
 (1) Subject to paragraph (2), for the purposes of these Regulations, the obliteration of any one stamp on any automatic catchweighing instrument shall be deemed to be the obliteration of all other stamps on that instrument.
 
@@ -211,7 +211,7 @@ An inspector may obliterate the stamp on any automatic catchweighing instrument 
 
 ## PART IV — GENERAL
 
-### 17. Amendment[^key-be8b2b26b77d0365c43be713d4807266]
+### 17. Amendment[^c-be8b2b26b77d0365c43be713d4807266]
 
 (1) In regulation 3 (application) of the Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern Ireland) 2006—
 
@@ -240,13 +240,13 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — (Accuracy Classes for Catchweighing Instruments)[^key-f52a14054056e6d57266cb1a03b00cde]
+## SCHEDULE 1 — (Accuracy Classes for Catchweighing Instruments)[^c-f52a14054056e6d57266cb1a03b00cde]
 
 Regulations 2(1) and 6(c)
 
 ### Instruments designated Class Y(a) and Y(b)
 
-[^key-f52a14054056e6d57266cb1a03b00cde]
+[^c-f52a14054056e6d57266cb1a03b00cde]
 
 An instrument which is made in accordance with an approved pattern and which is marked Y(a) is a Class Y(a) instrument. The specifications for a Class Y(a) instrument are as follows—
 
@@ -262,35 +262,35 @@ An instrument which is made in accordance with an approved pattern and which is 
 | Lower limit of the Minimum capacity “Min”: | 10 e |
 | Number of scale intervals: | ≤1,000 |
 
-## SCHEDULE 2 — (Manner of Erection and Installation)[^key-95242ae5949578bd3405cc9abfdc46e3]
+## SCHEDULE 2 — (Manner of Erection and Installation)[^c-95242ae5949578bd3405cc9abfdc46e3]
 
 Regulation 5(a)
 
 ### Installation (Principle from Clause 5.3.1 of OIML R51)
 
-[^key-95242ae5949578bd3405cc9abfdc46e3]
+[^c-95242ae5949578bd3405cc9abfdc46e3]
 
 The installation of an automatic catchweighing instrument shall be so designed that an automatic weighing operation will be the same whether for the purposes of testing or for use for a transaction.
 
 ### Cleaning and testing
 
-[^key-95242ae5949578bd3405cc9abfdc46e3]
+[^c-95242ae5949578bd3405cc9abfdc46e3]
 
 Every automatic catchweighing instrument shall be positioned so as to facilitate cleaning and testing.
 
 ### Dynamic setting (Extract from Clause 3.2.3 of OIML R51)
 
-[^key-95242ae5949578bd3405cc9abfdc46e3]
+[^c-95242ae5949578bd3405cc9abfdc46e3]
 
 Instruments with dynamic setting shall have a facility for any access to dynamic setting to be automatically and non-erasably recorded.
 
-## SCHEDULE 3 — (Requirements in respect of Use and Manner of Use)[^key-abe273cb5935581003c460f70e07ad92]
+## SCHEDULE 3 — (Requirements in respect of Use and Manner of Use)[^c-abe273cb5935581003c460f70e07ad92]
 
 Regulation 5(b)
 
 ### Maximum and minimum capacities (Extract from Clause 2.4 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 Maximum capacity (Max) and minimum capacity (Min) shall be specified by the manufacturer.
 
@@ -304,7 +304,7 @@ The minimum capacity shall not be less than:
 
 ### Temperature (Principle from Clause 2.9.1 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 Instruments shall comply with the appropriate metrological and technical requirements at temperatures from –10°C to +40°C. However, for special applications the limits of the temperature range may differ from those given above but such a range shall not be less than 30°C and shall be specified in the descriptive markings.
 
@@ -312,7 +312,7 @@ Where an automatic catchweighing instrument is marked with a temperature range i
 
 ### Tilting (Principle from Clause 2.9.3 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 Instruments which are not intended for installation in a fixed position and which do not have a level indicator shall comply with the appropriate metrological and technical requirements when tilted by 5%.
 
@@ -320,7 +320,7 @@ Where an automatic catchweighing instrument is fitted with a level indicating de
 
 ### Specified purpose or manner of use
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 Where an automatic catchweighing instrument is marked (in accordance with Schedule 4) with a mark which signifies the purpose or manner of use, it shall not be used for a purpose or in a manner which does not accord with that marking.
 
@@ -328,13 +328,13 @@ Instruments of Class Y(b) shall only be used for weighing ballast or waste or ot
 
 ### Definition of waste
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 For the purposes of the second paragraph of the preceding section of this Schedule (Specified purpose or manner of use), “waste” shall be construed in accordance with Article 2(2) of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00012], provided that “waste” shall include any waste disposed of for reprocessing or recycling purposes but shall not include any radioactive waste as defined in section 2 of the Radioactive Substances Act 1993[^f00013].
 
 ### Zero-setting device (Extract from Clause 3.3.1 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 An automatic zero-setting device shall operate:
 
@@ -347,7 +347,7 @@ A semi-automatic zero-setting device shall function only when the stability crit
 
 ### Zero-tracking device (Extract from Clause 3.3.2 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 A zero-tracking device shall operate only when:
 
@@ -357,7 +357,7 @@ A zero-tracking device shall operate only when:
 
 ### Tare device (Extract from Clause 3.3.3 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 A semi-automatic or automatic tare device shall operate only when the stability criteria are fulfilled.
 
@@ -365,25 +365,25 @@ A non-automatic or semi-automatic tare device shall not be operable during autom
 
 ### Suitability for use (Extract from Clause 3.1 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 An instrument shall be designed to suit the method of operation and the loads for which it is intended. It shall be of adequately robust construction in order that it maintains its metrological characteristics.
 
 ### Minimum capacity (Extract from Clause 3.5 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 Printing a weighing result below minimum capacity shall not be possible.
 
 ### Maximum capacity (Extract from Clause 3.4.3 of OIML R51)
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 There shall be no indication above Max + 9 e.
 
 ### Rate of operation
 
-[^key-abe273cb5935581003c460f70e07ad92]
+[^c-abe273cb5935581003c460f70e07ad92]
 
 An automatic catchweighing instrument shall not be used above the maximum rate of operation.
 
@@ -391,11 +391,11 @@ An automatic catchweighing instrument shall not be used above the maximum rate o
 
 Regulation 6(b)
 
-### 3.8. Descriptive markings[^key-94dd5036b69aeb474e7db1fe22f8593f]
+### 3.8. Descriptive markings[^c-94dd5036b69aeb474e7db1fe22f8593f]
 
 Instruments shall bear the following markings.
 
-### 3.8.1. Markings shown in full[^key-5ab8897aca21de4fe39b39e69ae5240e]
+### 3.8.1. Markings shown in full[^c-5ab8897aca21de4fe39b39e69ae5240e]
 
 - name or identification mark of the manufacturer
 - name or identification mark of the importer (if applicable)
@@ -407,7 +407,7 @@ Instruments shall bear the following markings.
 - working fluid pressure (if applicable) in the form: … kPa
 - adjustment range referred to set point (if applicable) in the form: ± … g or % (of set point value)
 
-### 3.8.2. Markings shown in code[^key-fc02a0510f7517c6e1053bfbf8482d34]
+### 3.8.2. Markings shown in code[^c-fc02a0510f7517c6e1053bfbf8482d34]
 
 |  |  |
 | --- | --- |
@@ -420,13 +420,13 @@ Instruments shall bear the following markings.
 | • maximum tare additive in the form: | T = + … |
 | • maximum tare subtractive in the form: | T = − … |
 
-### 3.8.3. Supplementary markings[^key-272c3adacb1184470d5a5e41e93a6f24]
+### 3.8.3. Supplementary markings[^c-272c3adacb1184470d5a5e41e93a6f24]
 
 Depending upon the particular use of the instrument, supplementary markings may be required on pattern approval by the metrological authority issuing the pattern approval certificate, (e.g. temperature range.)
 
 Additional markings may be required on initial verification to specify types of packs and related weighing conditions.
 
-### 3.8.4. Presentation of descriptive markings[^key-6aa7ffa1a55c6abab78e1d0983cb9b42]
+### 3.8.4. Presentation of descriptive markings[^c-6aa7ffa1a55c6abab78e1d0983cb9b42]
 
 Descriptive markings shall be indelible and of a size, shape and clarity that permit legibility under normal conditions of use.
 
@@ -441,9 +441,9 @@ The descriptive markings may be shown on a programmable display which is control
 - electrical supply frequency
 - pneumatic pressure.
 
-### 3.9. Verification marks[^key-e38bba86f8ad028b5331c30ae4648e10]
+### 3.9. Verification marks[^c-e38bba86f8ad028b5331c30ae4648e10]
 
-### 3.9.1. Position[^key-4e832df5d86bf56805fa1b93d2eda506]
+### 3.9.1. Position[^c-4e832df5d86bf56805fa1b93d2eda506]
 
 Instruments shall have a place for the application of verification marks. This place shall:
 
@@ -451,7 +451,7 @@ Instruments shall have a place for the application of verification marks. This p
 - allow easy application of the mark without changing the metrological qualities of the instrument
 - be visible without the instrument or its protective covers having to be moved when it is in service.
 
-### 3.9.2. Mounting[^key-dcfdc10c2e1bd8bc7076a7a8f581796c]
+### 3.9.2. Mounting[^c-dcfdc10c2e1bd8bc7076a7a8f581796c]
 
 Instruments required to bear verification marks shall have a verification mark support, at the place provided for above, which shall ensure the conservation of the marks.
 
@@ -463,13 +463,13 @@ When the mark is made with a stamp the support may consist of a strip of lead or
 
 Automatic catchweighing instruments shall bear the additional descriptive marking “R51” which shall be presented in accordance with the provisions of clause 3.9.2 of Part 1 of OIML R51.
 
-## SCHEDULE 5 — (Prescribed Limits of Error)[^key-14ba3669a2f2c179ba05a2d33cf6808b]
+## SCHEDULE 5 — (Prescribed Limits of Error)[^c-14ba3669a2f2c179ba05a2d33cf6808b]
 
 Regulation 10(3)
 
 ### Maximum permissible errors for class Y(y) instruments
 
-[^key-14ba3669a2f2c179ba05a2d33cf6808b]
+[^c-14ba3669a2f2c179ba05a2d33cf6808b]
 
 (Principle from Clause 2.3 of OIML R51)
 
@@ -537,53 +537,53 @@ BS EN ISO/IEC 17025:2005 is available from any of the sales outlets operated by 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Art. 4
 
-[^key-b75f9bd6cbe6395671e53cf358f14681]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-b75f9bd6cbe6395671e53cf358f14681]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-0e4006849f35feb817709762f6832697]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/154/regulation/2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-0e4006849f35feb817709762f6832697]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/154/regulation/2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
 [^f00004]: Footnote: [S.R. & O. (N.I.) 1969 No. 11](https://www.legislation.gov.uk/nisro/1969/11) as amended by [S.R. 2002 No. 36](https://www.legislation.gov.uk/nisr/2002/36)
 
-[^key-41660f40ed7317c9f169c6cd98502def]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/154/regulation/3) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-41660f40ed7317c9f169c6cd98502def]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/154/regulation/3) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2000/3236](https://www.legislation.gov.uk/uksi/2000/3236)
 
-[^key-63debfdc05ce8d735f566a06f4a2bc14]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/154/regulation/4) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-63debfdc05ce8d735f566a06f4a2bc14]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/154/regulation/4) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2006 No. 5](https://www.legislation.gov.uk/nisr/2006/5)
 
 [^f00007]: Footnote: Regulation 3(6) is inserted pursuant to regulation 17(1) of these Regulations.
 
-[^key-0693d6bb7c76cec9605380b7059878fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/154/regulation/5) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-0693d6bb7c76cec9605380b7059878fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/154/regulation/5) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-a7e9dc3d6764f00fc40ffc6c9b575d59]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/154/regulation/6) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-a7e9dc3d6764f00fc40ffc6c9b575d59]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/154/regulation/6) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-16d78beda3f56d16f653fdd1604474f8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/154/regulation/7) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-16d78beda3f56d16f653fdd1604474f8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/154/regulation/7) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-4d7ae04abaedcc1cfa0ce68598862525]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2006/154/regulation/7) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(2)(h)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/2/h)
+[^c-4d7ae04abaedcc1cfa0ce68598862525]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2006/154/regulation/7) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(2)(h)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/2/h)
 
-[^key-5514d3bd562f82ea05b75f0b82ba2865]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/154/regulation/8) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-5514d3bd562f82ea05b75f0b82ba2865]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/154/regulation/8) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-6f38d1925525af3949ee3cdea2df917f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/154/regulation/9) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-6f38d1925525af3949ee3cdea2df917f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/154/regulation/9) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-1fefea496a9c47e3cd952dcd0e5eac32]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2006/154/regulation/9/2/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fefea496a9c47e3cd952dcd0e5eac32]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2006/154/regulation/9/2/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: BS EN ISO/1EC 17025:2005 is the international standard “General requirements for the competence of testing and calibration laboratories” (ISBN 0 580 46330 3).
 
-[^key-da137193aed8bcb3c4f8f56ebb084ffa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/154/regulation/10) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-da137193aed8bcb3c4f8f56ebb084ffa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/154/regulation/10) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-adc644ede63f69e820f13c202d777c7f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/154/regulation/11) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-adc644ede63f69e820f13c202d777c7f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/154/regulation/11) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-3d59f4678f52a8bfdb98370b8297199e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/154/regulation/12) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-3d59f4678f52a8bfdb98370b8297199e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/154/regulation/12) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-da821a50cb91b8e12430bb84a7123ea9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/154/regulation/13) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-da821a50cb91b8e12430bb84a7123ea9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/154/regulation/13) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-3fa3aabaa12c6c656252ff5c0e8c1b2e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/154/regulation/14) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-3fa3aabaa12c6c656252ff5c0e8c1b2e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/154/regulation/14) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-7af0eba5502bf498955b84b34a2ffdb1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/154/regulation/15) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-7af0eba5502bf498955b84b34a2ffdb1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/154/regulation/15) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-f17525537aa0bb8d7becb848d7d4fc27]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/154/regulation/16) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-f17525537aa0bb8d7becb848d7d4fc27]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/154/regulation/16) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-be8b2b26b77d0365c43be713d4807266]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/154/regulation/17) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-be8b2b26b77d0365c43be713d4807266]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/154/regulation/17) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2006 No. 154](https://www.legislation.gov.uk/nisr/2006/154)
 
@@ -591,30 +591,30 @@ BS EN ISO/IEC 17025:2005 is available from any of the sales outlets operated by 
 
 [^f00011]: Footnote: [S.R. 2006 No. 154](https://www.legislation.gov.uk/nisr/2006/154)
 
-[^key-f52a14054056e6d57266cb1a03b00cde]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/154/schedule/1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-f52a14054056e6d57266cb1a03b00cde]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/154/schedule/1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-95242ae5949578bd3405cc9abfdc46e3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/154/schedule/2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-95242ae5949578bd3405cc9abfdc46e3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/154/schedule/2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-abe273cb5935581003c460f70e07ad92]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/154/schedule/3) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-abe273cb5935581003c460f70e07ad92]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/154/schedule/3) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
 [^f00013]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-94dd5036b69aeb474e7db1fe22f8593f]: Commencement: [Sch. 4 para. 3.8](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-94dd5036b69aeb474e7db1fe22f8593f]: Commencement: [Sch. 4 para. 3.8](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-5ab8897aca21de4fe39b39e69ae5240e]: Commencement: [Sch. 4 para. 3.8.1](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-5ab8897aca21de4fe39b39e69ae5240e]: Commencement: [Sch. 4 para. 3.8.1](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-fc02a0510f7517c6e1053bfbf8482d34]: Commencement: [Sch. 4 para. 3.8.2](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-fc02a0510f7517c6e1053bfbf8482d34]: Commencement: [Sch. 4 para. 3.8.2](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-272c3adacb1184470d5a5e41e93a6f24]: Commencement: [Sch. 4 para. 3.8.3](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.3) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-272c3adacb1184470d5a5e41e93a6f24]: Commencement: [Sch. 4 para. 3.8.3](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.3) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-6aa7ffa1a55c6abab78e1d0983cb9b42]: Commencement: [Sch. 4 para. 3.8.4](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.4) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-6aa7ffa1a55c6abab78e1d0983cb9b42]: Commencement: [Sch. 4 para. 3.8.4](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.8.4) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-e38bba86f8ad028b5331c30ae4648e10]: Commencement: [Sch. 4 para. 3.9](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.9) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-e38bba86f8ad028b5331c30ae4648e10]: Commencement: [Sch. 4 para. 3.9](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.9) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-4e832df5d86bf56805fa1b93d2eda506]: Commencement: [Sch. 4 para. 3.9.1](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.9.1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-4e832df5d86bf56805fa1b93d2eda506]: Commencement: [Sch. 4 para. 3.9.1](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.9.1) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-dcfdc10c2e1bd8bc7076a7a8f581796c]: Commencement: [Sch. 4 para. 3.9.2](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.9.2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-dcfdc10c2e1bd8bc7076a7a8f581796c]: Commencement: [Sch. 4 para. 3.9.2](https://www.legislation.gov.uk/nisr/2006/154/schedule/4/paragraph/3.9.2) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
 
-[^key-14ba3669a2f2c179ba05a2d33cf6808b]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2006/154/schedule/5) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)
+[^c-14ba3669a2f2c179ba05a2d33cf6808b]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2006/154/schedule/5) in operation at 8.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/154/regulation/1)

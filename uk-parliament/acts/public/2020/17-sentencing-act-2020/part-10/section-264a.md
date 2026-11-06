@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264A. Presumption of suspended sentence order: offender under 21[^key-0eff35742980bf8971ac4ab6a45118de][^key-f293695c5943610dff481905cec2ebec]
+## 264A. Presumption of suspended sentence order: offender under 21[^c-0eff35742980bf8971ac4ab6a45118de][^c-f293695c5943610dff481905cec2ebec]
 
 *Extent: E+W*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0eff35742980bf8971ac4ab6a45118de]: Textual amendment: [S. 264A](https://www.legislation.gov.uk/ukpga/2020/17/section/264A) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/1/2), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-0eff35742980bf8971ac4ab6a45118de]: Textual amendment: [S. 264A](https://www.legislation.gov.uk/ukpga/2020/17/section/264A) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/1/2), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-f293695c5943610dff481905cec2ebec]: Modification: [S. 264A](https://www.legislation.gov.uk/ukpga/2020/17/section/264A) applied (with modifications) (22.3.2026) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 200ZB(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/200ZB/1) (as inserted by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/3/3))
+[^c-f293695c5943610dff481905cec2ebec]: Modification: [S. 264A](https://www.legislation.gov.uk/ukpga/2020/17/section/264A) applied (with modifications) (22.3.2026) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 200ZB(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/200ZB/1) (as inserted by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/3/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Tracing of products originating on infected premises[^key-aef5e2d3ca3e6ff069423cf3c1f5ae9b]
+## 20. Tracing of products originating on infected premises[^c-aef5e2d3ca3e6ff069423cf3c1f5ae9b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aef5e2d3ca3e6ff069423cf3c1f5ae9b]: Commencement: Reg. 20 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-aef5e2d3ca3e6ff069423cf3c1f5ae9b]: Commencement: Reg. 20 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

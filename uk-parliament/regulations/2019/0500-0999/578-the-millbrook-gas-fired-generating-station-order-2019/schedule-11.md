@@ -22,13 +22,13 @@ summary: ''
 
 Article 37
 
-### 1. Article 33 to the Rookery South (Resource Recovery Facility) Order 2011[^key-9f1e689b071faac25c3bee1427efd39b]
+### 1. Article 33 to the Rookery South (Resource Recovery Facility) Order 2011[^c-9f1e689b071faac25c3bee1427efd39b]
 
 In the title to Article 33, after the words “Protection of Network Rail Infrastructure Limited” insert the words “ and Millbrook Power Limited ”.
 
-**2.**[^key-35aa7678ead36ee1b1f1743173b04d8d] After the words “Schedule 7” and before the words “Protection of Network Rail Infrastructure Limited” insert the words “ Part 1 ”.
+**2.**[^c-35aa7678ead36ee1b1f1743173b04d8d] After the words “Schedule 7” and before the words “Protection of Network Rail Infrastructure Limited” insert the words “ Part 1 ”.
 
-### 3. Schedule 7 to the Rookery South (Resource Recovery Facility) Order 2011[^key-40b562cbea20c549767cc1c4ea15041c]
+### 3. Schedule 7 to the Rookery South (Resource Recovery Facility) Order 2011[^c-40b562cbea20c549767cc1c4ea15041c]
 
 After paragraph 21 of Schedule 7 insert new Part 2—
 
@@ -106,8 +106,8 @@ After paragraph 21 of Schedule 7 insert new Part 2—
 
 ## Annotations
 
-[^key-9f1e689b071faac25c3bee1427efd39b]: Commencement: Sch. 11 para. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-9f1e689b071faac25c3bee1427efd39b]: Commencement: Sch. 11 para. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-35aa7678ead36ee1b1f1743173b04d8d]: Commencement: Sch. 11 para. 2 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-35aa7678ead36ee1b1f1743173b04d8d]: Commencement: Sch. 11 para. 2 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-40b562cbea20c549767cc1c4ea15041c]: Commencement: Sch. 11 para. 3 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-40b562cbea20c549767cc1c4ea15041c]: Commencement: Sch. 11 para. 3 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

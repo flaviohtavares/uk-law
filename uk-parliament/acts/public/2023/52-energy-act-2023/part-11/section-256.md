@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Requirement for assessment of energy consumption[^key-8e8d337a4652cbec29a755436cd0c00b]
+## 256. Requirement for assessment of energy consumption[^c-8e8d337a4652cbec29a755436cd0c00b]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ Such an assessment is referred to as an “**ESOS assessment**”.
 
 ## Annotations
 
-[^key-8e8d337a4652cbec29a755436cd0c00b]: Commencement: S. 256 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-8e8d337a4652cbec29a755436cd0c00b]: Commencement: S. 256 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

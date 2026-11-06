@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 43. Places of worship[^key-f42dd1e597faa6a46edbc617ec48c04c]
+## 43. Places of worship[^c-f42dd1e597faa6a46edbc617ec48c04c]
 
 *Extent: E*
 
@@ -31,7 +31,7 @@ a church, building or part of a building so designated shall be deemed, while th
 
 (3) Where a church, building or part of a building in a parish has been so designated and the parish has no parish church, then, if the persons to be married so elect, they may proceed under sections 6 and 15 of the Marriage Act 1949 (which contain provisions whereby parishes in which there is no parish church are deemed to belong to adjoining parishes) as if the church, building or part had not been so designated; and this subsection shall have effect notwithstanding that there is in the parish a church or chapel licensed for marriages or a church or chapel in which divine service is usually solemnized every Sunday.
 
-(4) A building or part of a building so designated shall not by virtue only of the designation be subject to the faculty jurisdiction, but without prejudice to the power of the bishop under section 59 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^key-6cd9454c41d0eba0cbc6bc092b12a6d6] to direct that it shall be so subject.
+(4) A building or part of a building so designated shall not by virtue only of the designation be subject to the faculty jurisdiction, but without prejudice to the power of the bishop under section 59 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^c-6cd9454c41d0eba0cbc6bc092b12a6d6] to direct that it shall be so subject.
 
 (5) A designation under this section may be revoked by the bishop, but without prejudice to the continuation in force of any licence thereunder, if the bishop thinks fit.
 
@@ -39,6 +39,6 @@ a church, building or part of a building so designated shall be deemed, while th
 
 ## Annotations
 
-[^key-f42dd1e597faa6a46edbc617ec48c04c]: Commencement: S. 43 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-f42dd1e597faa6a46edbc617ec48c04c]: Commencement: S. 43 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-6cd9454c41d0eba0cbc6bc092b12a6d6]: Textual amendment: Words in s. 43(4) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/17) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-6cd9454c41d0eba0cbc6bc092b12a6d6]: Textual amendment: Words in s. 43(4) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/17) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

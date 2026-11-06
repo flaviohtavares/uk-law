@@ -26,7 +26,7 @@ summary: ''
 
 SPORTS GROUNDS AND SPORTING EVENTS
 
-The Football (Offences) (Designation of Football Matches) Order 1991 (revoked)[^key-9f3bcece144051c4bca68788edec1970]
+The Football (Offences) (Designation of Football Matches) Order 1991 (revoked)[^c-9f3bcece144051c4bca68788edec1970]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into force
 
 10th August 1991
 
-[^key-9f3bcece144051c4bca68788edec1970]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f3bcece144051c4bca68788edec1970]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-9f3bcece144051c4bca68788edec1970]
+## 1.[^c-9f3bcece144051c4bca68788edec1970]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-9f3bcece144051c4bca68788edec1970]
+## 2.[^c-9f3bcece144051c4bca68788edec1970]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f3bcece144051c4bca68788edec1970]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f3bcece144051c4bca68788edec1970]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9f3bcece144051c4bca68788edec1970]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f3bcece144051c4bca68788edec1970]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f3bcece144051c4bca68788edec1970]: Textual amendment: Order revoked (27.9.1999) by [The Football (Offences) (Designation of Football Matches) Order 1999 (S.I. 1999/2462)](https://www.legislation.gov.uk/uksi/1999/2462), [art. 2](https://www.legislation.gov.uk/uksi/1999/2462/article/2); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-9f3bcece144051c4bca68788edec1970]: Textual amendment: Order revoked (27.9.1999) by [The Football (Offences) (Designation of Football Matches) Order 1999 (S.I. 1999/2462)](https://www.legislation.gov.uk/uksi/1999/2462), [art. 2](https://www.legislation.gov.uk/uksi/1999/2462/article/2); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

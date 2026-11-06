@@ -24,7 +24,7 @@ summary: ''
 
 (2) In this Order—
 
-- the Act of 2016” means the Houses in Multiple Occupation Act (Northern Ireland) 2016;[^key-e32f0b8b7facd95f3578716aa6dd12aa]
+- the Act of 2016” means the Houses in Multiple Occupation Act (Northern Ireland) 2016;[^c-e32f0b8b7facd95f3578716aa6dd12aa]
 - “the Department” means the Department for Social Development;
 - “the Executive” means the Northern Ireland Housing Executive;
 - “the Order of 1981” means the Housing (Northern Ireland) Order 1981 (NI 3);
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e32f0b8b7facd95f3578716aa6dd12aa]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2003/412/article/2/2) inserted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/5); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e32f0b8b7facd95f3578716aa6dd12aa]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2003/412/article/2/2) inserted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/5); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

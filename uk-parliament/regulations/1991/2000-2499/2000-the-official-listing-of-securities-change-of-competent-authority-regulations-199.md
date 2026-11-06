@@ -42,15 +42,15 @@ Coming into force
 
 2nd October 1991
 
-The Secretary of State, being a minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to the listing of securitieson a stock exchange and to information concerning listed securities, in exercise of the powers conferred by that section, and of all other powers enabling him, hereby makes the following Regulations—[^key-b8f5f8806f157fa580809e54af16d9fd]
+The Secretary of State, being a minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to the listing of securitieson a stock exchange and to information concerning listed securities, in exercise of the powers conferred by that section, and of all other powers enabling him, hereby makes the following Regulations—[^c-b8f5f8806f157fa580809e54af16d9fd]
 
-## 1. Citation, commencement and extent[^key-ad705fd93e7cd892d8a18b925d07e00d]
+## 1. Citation, commencement and extent[^c-ad705fd93e7cd892d8a18b925d07e00d]
 
 (1) These Regulations may be cited as the Official Listing of Securities (Change of Competent Authority) Regulations 1991 and shall come into force on 2nd October 1991.
 
 (2) These Regulations extend to Northern Ireland.
 
-## 2. Interpretation[^key-e9afae8906df82733088dba09058d48f]
+## 2. Interpretation[^c-e9afae8906df82733088dba09058d48f]
 
 In these Regulations—
 
@@ -58,7 +58,7 @@ In these Regulations—
 - “the old competent authority” means the Council of The Stock Exchange; and
 - “the new competent authority” means The International Stock Exchange of the United Kingdom and the Republic of Ireland Limited.
 
-## 3. Change of competent authority under Part IV of the Act and consequential amendments to that Part[^key-95f747239993160eab33bc29b2ab6d34]
+## 3. Change of competent authority under Part IV of the Act and consequential amendments to that Part[^c-95f747239993160eab33bc29b2ab6d34]
 
 (1) The following amendments shall be made to section 142 of the Act—
 
@@ -77,7 +77,7 @@ In these Regulations—
 
 (2) Section 157 of the Act shall be repealed.
 
-## 4. Transitional provisions[^key-61014e87879bd12dab510747e6f49967]
+## 4. Transitional provisions[^c-61014e87879bd12dab510747e6f49967]
 
 (1) Rules made by the old competent authority or by any committee or sub-committee of the old competent authority under the powers conferred by Part IV of the Act shall be treated and have effect for all purposes as if made under those powers bythe governing body of the new competent authority or, as the case may be, by a committeeor sub-committee of that governing body.
 
@@ -89,7 +89,7 @@ In these Regulations—
 
 (5) References to the Official List of The Stock Exchange in any enactment, including an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978[^f00004], shall have effect as references to the Official List maintained by the new competent authority for the purposes of Part IV of the Act.
 
-## 5. Consequential amendments to other enactments[^key-f277e9dcf1ca01c8f6a8e6b9cc036f99]
+## 5. Consequential amendments to other enactments[^c-f277e9dcf1ca01c8f6a8e6b9cc036f99]
 
 (1) In section 60(8) of the Companies Act 1985[^f00005] (exceptions from rule in section 59), the words “the competent authority for the purposes of Part IV of the Financial ServicesAct 1986” shall be substituted for the words “the Council of The Stock Exchange”.
 
@@ -125,21 +125,21 @@ Part IV of the Financial Services Act 1986 implements Council Directive No. [79/
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-b8f5f8806f157fa580809e54af16d9fd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1991/2000): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-b8f5f8806f157fa580809e54af16d9fd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1991/2000): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-ad705fd93e7cd892d8a18b925d07e00d]: Commencement: Reg. 1 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
+[^c-ad705fd93e7cd892d8a18b925d07e00d]: Commencement: Reg. 1 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
 
-[^key-e9afae8906df82733088dba09058d48f]: Commencement: Reg. 2 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
+[^c-e9afae8906df82733088dba09058d48f]: Commencement: Reg. 2 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
 
 [^f00003]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 
-[^key-95f747239993160eab33bc29b2ab6d34]: Commencement: Reg. 3 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
+[^c-95f747239993160eab33bc29b2ab6d34]: Commencement: Reg. 3 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
 
-[^key-61014e87879bd12dab510747e6f49967]: Commencement: Reg. 4 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
+[^c-61014e87879bd12dab510747e6f49967]: Commencement: Reg. 4 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
 
 [^f00004]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f277e9dcf1ca01c8f6a8e6b9cc036f99]: Commencement: Reg. 5 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
+[^c-f277e9dcf1ca01c8f6a8e6b9cc036f99]: Commencement: Reg. 5 in force at 2.10.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2000/regulation/1/1)
 
 [^f00005]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 

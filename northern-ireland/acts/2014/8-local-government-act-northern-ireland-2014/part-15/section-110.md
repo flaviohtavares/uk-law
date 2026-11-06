@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Minor and consequential amendments[^key-65fb95a2b26b55a45c43ffe529cb0895]
+## 110. Minor and consequential amendments[^c-65fb95a2b26b55a45c43ffe529cb0895]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65fb95a2b26b55a45c43ffe529cb0895]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2014/8/section/110) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-65fb95a2b26b55a45c43ffe529cb0895]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2014/8/section/110) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

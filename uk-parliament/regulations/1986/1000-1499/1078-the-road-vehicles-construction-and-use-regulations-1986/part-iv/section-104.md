@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104. Driver's control[^key-6968cdb84cd6e6a2b629701b04c1178d]
+## 104. Driver's control[^c-6968cdb84cd6e6a2b629701b04c1178d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No person shall drive or cause or permit any other person to drive, a motor vehi
 
 ## Annotations
 
-[^key-6968cdb84cd6e6a2b629701b04c1178d]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/1986/1078/regulation/104) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6968cdb84cd6e6a2b629701b04c1178d]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/1986/1078/regulation/104) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

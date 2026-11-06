@@ -48,7 +48,7 @@ In accordance with section 119(2)(ha), (hb) and (i) of that Act, a draft of this
 
 ## Part 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-11dd36a0729cf4070a14fbc6529c3692]
+### 1. Citation, commencement, extent and application[^c-11dd36a0729cf4070a14fbc6529c3692]
 
 These Regulations—
 
@@ -57,7 +57,7 @@ These Regulations—
 - (c) extend to England and Wales, and
 - (d) apply in relation to England.
 
-### 2. Amendments to application of other subordinate legislation[^key-9d82a9358716db66a9bd83910c8b2137]
+### 2. Amendments to application of other subordinate legislation[^c-9d82a9358716db66a9bd83910c8b2137]
 
 (1) In the Higher Education (Fee Limit Condition) (England) Regulations 2017[^f00002], after regulation 1A insert—
 
@@ -83,7 +83,7 @@ These Regulations—
 
 .
 
-### 3. General interpretation[^key-878290037908a26f22047a55dd959429]
+### 3. General interpretation[^c-878290037908a26f22047a55dd959429]
 
 In these Regulations—
 
@@ -216,11 +216,11 @@ In these Regulations—
 
 ## Part 2 — Application of the fee limit condition for lifelong learning
 
-### 4. Registered higher education providers that are subject to the fee limit condition[^key-cad074b0891e77715f41f954666b1b5a]
+### 4. Registered higher education providers that are subject to the fee limit condition[^c-cad074b0891e77715f41f954666b1b5a]
 
 A registered higher education provider that is registered in the “Approved (fee cap)” part of the register[^f00009] is prescribed[^f00010] for the purposes of section 10(1) of the 2017 Act[^f00011].
 
-### 5. Qualifying person[^key-9e79b21c2e50af527d9ded9094eb6856]
+### 5. Qualifying person[^c-9e79b21c2e50af527d9ded9094eb6856]
 
 (1) Subject to paragraph (4) and regulation 6, a person is of a description prescribed for the purposes of section 10(4)(b) of the 2017 Act if they—
 
@@ -255,7 +255,7 @@ the person who would otherwise no longer fall within a paragraph in Part 2 of Sc
 - “**relevant course year**” means a course year beginning on or after 1st January 2027;
 - “**settled category**” means any category of persons described in paragraph 3 or 17 of Part 2 of Schedule 1.
 
-### 6. Qualifying person: effect of event during course year[^key-9fd0ec62a668296620979a1b4b0174b0]
+### 6. Qualifying person: effect of event during course year[^c-9fd0ec62a668296620979a1b4b0174b0]
 
 (1) Where an event specified in paragraph (2) occurs during a course year which results in a person falling within Part 2 of Schedule 1 part way through that course year, that person is not a qualifying person in respect of the course year in which the event occurred.
 
@@ -277,7 +277,7 @@ the person who would otherwise no longer fall within a paragraph in Part 2 of Sc
 - (n) the student or the student’s spouse, civil partner or parent becomes a person granted leave under one of the Afghan Schemes;
 - (o) the student or the student’s spouse, civil partner or parent becomes a person granted leave under one of the Ukraine Schemes.
 
-### 7. Qualifying course[^key-2801038cc645627b429e543131b8095a]
+### 7. Qualifying course[^c-2801038cc645627b429e543131b8095a]
 
 (1) For the purposes of section 10(6) of the 2017 Act, a “qualifying course” is a higher education course—
 
@@ -289,11 +289,11 @@ the person who would otherwise no longer fall within a paragraph in Part 2 of Sc
 
 ## Part 3 — Fee limits for lifelong learning
 
-### 8. Use of the credit-based method for determining the fee limit[^key-8dc20434d600ef0ab7bb26cbb5e4cf48]
+### 8. Use of the credit-based method for determining the fee limit[^c-8dc20434d600ef0ab7bb26cbb5e4cf48]
 
 For the purposes of paragraph 1(3) of Schedule 2 to the 2017 Act, the credit-based method[^f00014] is to be used for determining the fee limit applicable to a course year of a qualifying course in all cases.
 
-### 9. Attachment of credits[^key-473c3e34dcec16a9f95831486e072d62]
+### 9. Attachment of credits[^c-473c3e34dcec16a9f95831486e072d62]
 
 (1) This regulation makes provision about when a course year is to be regarded as having credits attached to it for the purposes of paragraph 1B(1) of Schedule 2 to the 2017 Act.
 
@@ -335,7 +335,7 @@ For the purposes of paragraph 1(3) of Schedule 2 to the 2017 Act, the credit-bas
 
 (7) This regulation is subject to regulation 17(3).
 
-### 10. Foundation years[^key-a4ec52be09e739c6f4ddc9ef504b6095]
+### 10. Foundation years[^c-a4ec52be09e739c6f4ddc9ef504b6095]
 
 (1) A “foundation year” is a period of study of 120 credits (or 1,200 notional learning hours), whether in a single course year or otherwise—
 
@@ -359,7 +359,7 @@ For the purposes of paragraph 1(3) of Schedule 2 to the 2017 Act, the credit-bas
 
 the course year that contains an overlap between the foundation year and the first year of the undergraduate course is to be treated as a course year including credit-differentiated activities.
 
-### 11. Credit-differentiated activities[^key-38ec5159b77bf548b7c03ab9e5ae763b]
+### 11. Credit-differentiated activities[^c-38ec5159b77bf548b7c03ab9e5ae763b]
 
 (1) This regulation makes provision about “credit-differentiated activities”, for the purposes of paragraph 1B(3)(a) of Schedule 2 to the 2017 Act.
 
@@ -378,7 +378,7 @@ the course year that contains an overlap between the foundation year and the fir
 
 (3) In relation to paragraph (2)(a)(iv), the Secretary of State must publish from time to time in such a manner as the Secretary of State sees fit a list of regulatory bodies that require a mandatory minimum amount of work experience to be undertaken by those whom they regulate.
 
-### 12. Per-course amount[^key-e3fda05741531be2f3cbef15885a79bc]
+### 12. Per-course amount[^c-e3fda05741531be2f3cbef15885a79bc]
 
 (1) This regulation makes provision regarding per-course amounts, for use in determining the maximum number of credits and the default number of credits for a course year (under paragraph 1C of Schedule 2 to the 2017 Act).
 
@@ -405,7 +405,7 @@ the course year that contains an overlap between the foundation year and the fir
 
 (7) This regulation is subject to regulation 16(2).
 
-### 13. Per-year amount[^key-53309f8e725b54cb9f415841587e539c][^key-174a42f7a72539b3df4890d1ff8d698f]
+### 13. Per-year amount[^c-53309f8e725b54cb9f415841587e539c][^c-174a42f7a72539b3df4890d1ff8d698f]
 
 (1) This regulation makes provision regarding a per-year amount, for use in determining the maximum number of credits and the default number of credits for a course year (under paragraph 1C of Schedule 2 to the 2017 Act).
 
@@ -434,7 +434,7 @@ the course year that contains an overlap between the foundation year and the fir
 
   [^f01000]
 
-### 14. Maximum number of credits[^key-dd05d8b01ed2c14ed1d213619edec9c7]
+### 14. Maximum number of credits[^c-dd05d8b01ed2c14ed1d213619edec9c7]
 
 (1) For the purposes of paragraphs 1C and 1D of Schedule 2 to the 2017 Act, this regulation makes provision regarding the maximum number of credits in respect of a course year to which credits are attached[^f00016].
 
@@ -461,7 +461,7 @@ the course year that contains an overlap between the foundation year and the fir
 - (a) the maximum number of credits for the course year is set at 180 credits, and
 - (b) in the event that the sum of the maximum numbers for all credit-differentiated activities adds up to more than 180 credits, the provider is to decide which credits to charge for up to and including 180 credits.
 
-### 15. Default number of credits[^key-ee31e86c16718553972125cf2123bca6][^key-2a9d40dd531f40d6b29e151054417aa8]
+### 15. Default number of credits[^c-ee31e86c16718553972125cf2123bca6][^c-2a9d40dd531f40d6b29e151054417aa8]
 
 (1) For the purposes of paragraphs 1C, 1E and 1F of Schedule 2 to the 2017 Act, this regulation makes provision regarding the default number of credits in respect of a course year where credits are not attached.
 
@@ -493,7 +493,7 @@ the course year that contains an overlap between the foundation year and the fir
 
 (7) In this regulation “duration credits” are a measurement of learning time whereby one week of full-time equivalent study (or 40 notional learning hours) is equivalent to 4 duration credits.
 
-### 16. Top-up courses[^key-dde0a68b97c8bf0d25c64ec681880bea]
+### 16. Top-up courses[^c-dde0a68b97c8bf0d25c64ec681880bea]
 
 (1) A “top-up course” is a course that—
 
@@ -507,7 +507,7 @@ the course year that contains an overlap between the foundation year and the fir
 
 (3) In the case of top-up courses that are only offered part-time, the number of full-time equivalent years is the number of years that it would take to complete the course if studying 120 credits (or 1,200 notional learning hours) per year.
 
-### 17. Transfer cases[^key-cb8663b0eaf114945dd8296d8eaf1fe3]
+### 17. Transfer cases[^c-cb8663b0eaf114945dd8296d8eaf1fe3]
 
 (1) This regulation makes provision in respect of transfer cases within the meaning of paragraph 1F(2) of Schedule 2 to the 2017 Act[^f00018].
 
@@ -518,7 +518,7 @@ the course year that contains an overlap between the foundation year and the fir
 - (a) the fee limit is to be based on an adjustment of the chargeable number of credits or of the default number of credits (as appropriate), with a reduction in the amount of learning that a student needs to undertake (“relieved learning”) to be based on the provider’s assessment of the reduction in the amount of learning that the student needs to undertake on account of previous learning undertaken by the student, and
 - (b) the provider must take account of the relieved learning referred to in sub-paragraph (a) when notifying the Secretary of State under regulation 9(2)(a) of the number of credits for which the provider intends to charge.
 
-### 18. Per-credit limits[^key-584a19664717b9229a57296378ba9b8b]
+### 18. Per-credit limits[^c-584a19664717b9229a57296378ba9b8b]
 
 (1) This regulation makes provision regarding per-credit limits—
 
@@ -586,7 +586,7 @@ the course year that contains an overlap between the foundation year and the fir
 
 ## Part 4 — Consequential Amendment
 
-### 19. Consequential Amendment of the Higher Education (Fee Limit Condition) (England) Regulations 2017[^key-ae3178cbf099412c9079db971bb6b560]
+### 19. Consequential Amendment of the Higher Education (Fee Limit Condition) (England) Regulations 2017[^c-ae3178cbf099412c9079db971bb6b560]
 
 In the Higher Education (Fee Limit Condition) (England) Regulations 2017, in regulation 7, after paragraph (1) insert—
 
@@ -610,7 +610,7 @@ Regulations 3, 5 and 6
 
 ### Part 1 — Interpretation
 
-**1.**[^key-abd6cd08e371d7d54965e06fdf116e5c] (1) In this Schedule—
+**1.**[^c-abd6cd08e371d7d54965e06fdf116e5c] (1) In this Schedule—
 
 - “**the 2020 Citizens’ Rights Regulations**” means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020[^f00023];
 - “**Directive 2004/38**” means [Directive 2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely in the territory of the Member States[^f00024];
@@ -733,7 +733,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 ### Part 2 — Qualifying person: categories
 
-#### 2. Persons who are settled in the United Kingdom[^key-f2e817ed1ff8121ffdd35b6bd1bc06c7]
+#### 2. Persons who are settled in the United Kingdom[^c-f2e817ed1ff8121ffdd35b6bd1bc06c7]
 
 (1) A person—
 
@@ -745,7 +745,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Sub-paragraph (1)(b) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 1(4).
 
-**3.**[^key-efb7aadb251a65637cf9ee5409a9afae] (1) A person—
+**3.**[^c-efb7aadb251a65637cf9ee5409a9afae] (1) A person—
 
 - (a) who—
   - (i) is settled in the United Kingdom and does not fall within paragraph 4,
@@ -755,7 +755,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Sub-paragraph (1)(b) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the Republic of Ireland in accordance with paragraph 1(4).
 
-**4.**[^key-b5c6ac983deabd0f67394b6a1d6564a3] (1) A person who—
+**4.**[^c-b5c6ac983deabd0f67394b6a1d6564a3] (1) A person who—
 
 - (a) comes within one of the following four sub-paragraphs—
   - (i) the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
@@ -780,7 +780,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (b) Article 17(3) of the EEA EFTA separation agreement, or
 - (c) Article 16(3) of the Swiss citizens’ rights agreement.
 
-#### 5. Refugees and their family members[^key-50914e10c83196320ce67c3d3c38943f]
+#### 5. Refugees and their family members[^c-50914e10c83196320ce67c3d3c38943f]
 
 (1) A person who—
 
@@ -803,7 +803,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
 - (e) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 6. Persons granted stateless leave and their family members[^key-3ba5ad063f83c3397639982f56dec9fa]
+#### 6. Persons granted stateless leave and their family members[^c-3ba5ad063f83c3397639982f56dec9fa]
 
 (1) A person granted stateless leave, who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -824,11 +824,11 @@ is to be considered to have always been a part of the European Economic Area.
 - (c) who is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
 - (d) who is ordinarily resident in the United Kingdom on the course start date.
 
-#### 7. Persons granted section 67 leave[^key-df5747b03ec9b2efcfe5a3ba8810abe9]
+#### 7. Persons granted section 67 leave[^c-df5747b03ec9b2efcfe5a3ba8810abe9]
 
 A person granted section 67 leave, who is ordinarily resident in the United Kingdom on the course start date.
 
-#### 8. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^key-59b55f9243138336a153e3ee2b6fa89c]
+#### 8. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^c-59b55f9243138336a153e3ee2b6fa89c]
 
 (1) A person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse, who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -843,11 +843,11 @@ A person granted section 67 leave, who is ordinarily resident in the United King
 
 (3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
 
-#### 9. Persons granted Calais leave[^key-00974d3fd4b5963a7d0f7adf0fa0a661]
+#### 9. Persons granted Calais leave[^c-00974d3fd4b5963a7d0f7adf0fa0a661]
 
 A person granted Calais leave, who is ordinarily resident in the United Kingdom on the course start date.
 
-#### 10. Persons granted indefinite leave to enter or remain as a bereaved partner and their children[^key-2b8eaaa9ed64cb5fa5d7141737d55f9a]
+#### 10. Persons granted indefinite leave to enter or remain as a bereaved partner and their children[^c-2b8eaaa9ed64cb5fa5d7141737d55f9a]
 
 (1) A person granted indefinite leave to enter or remain as a bereaved partner, who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -865,7 +865,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 - (a) under the immigration rules, or
 - (b) in the case of a person referred to in sub-paragraph (a)(vii) of the definition of “person granted indefinite leave to enter or remain as a bereaved partner” in regulation 3, outside the immigration rules.
 
-#### 11. Persons granted leave under one of the Afghan Schemes and their family members[^key-555baa79a3b0593756057ff8cf2896b7]
+#### 11. Persons granted leave under one of the Afghan Schemes and their family members[^c-555baa79a3b0593756057ff8cf2896b7]
 
 (1) A person granted leave under one of the Afghan Schemes, who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -890,7 +890,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (4) In this paragraph, “**leave application date**” means the date on which the person granted leave under one of the Afghan Schemes made an application for leave to enter or remain in the United Kingdom.
 
-#### 12. Evacuated or assisted British nationals from Afghanistan[^key-3418fdae6cd39337c552b062cc7b1b58]
+#### 12. Evacuated or assisted British nationals from Afghanistan[^c-3418fdae6cd39337c552b062cc7b1b58]
 
 (1) An evacuated or assisted British national from Afghanistan who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -902,7 +902,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
   - (ii) assisted by or on behalf of the United Kingdom, after 28th August 2021 and before 6th January 2022, to leave Afghanistan, and
 - (c) who has been ordinarily resident in the United Kingdom and the Islands since they were evacuated from or otherwise left Afghanistan.
 
-#### 13. Persons granted leave under one of the Ukraine Schemes and their family members[^key-b9fdfc33c07db06a08e07f7c586d9737]
+#### 13. Persons granted leave under one of the Ukraine Schemes and their family members[^c-b9fdfc33c07db06a08e07f7c586d9737]
 
 (1) A person granted leave under one of the Ukraine Schemes, who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -927,7 +927,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (4) In this paragraph, “**leave application date**” means the date on which the person granted leave under one of the Ukraine Schemes made an application for leave to enter or remain in the United Kingdom.
 
-#### 14. Persons granted humanitarian protection and their family members[^key-ab81bd02c4ec2e74e87ede36578fbebc]
+#### 14. Persons granted humanitarian protection and their family members[^c-ab81bd02c4ec2e74e87ede36578fbebc]
 
 (1) A person granted humanitarian protection, who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -946,7 +946,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 - (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
 - (e) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 15. Workers, employed persons, self-employed persons and their family members[^key-1ef02a48783bf9d881d8cb561b375cc4]
+#### 15. Workers, employed persons, self-employed persons and their family members[^c-1ef02a48783bf9d881d8cb561b375cc4]
 
 (1) A person with protected rights, or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020[^f00028], who—
 
@@ -964,7 +964,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
 
-**16.**[^key-a47a90eedaec1b8d9ac2571567e40c43] (1) A person with protected rights who—
+**16.**[^c-a47a90eedaec1b8d9ac2571567e40c43] (1) A person with protected rights who—
 
 - (a) is ordinarily resident in the United Kingdom on the first day of the first course year of the course,
 - (b) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first course year of the course, and
@@ -975,7 +975,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 - (a) the reference to a “national of a Member State” is to be read as including a relevant person of Northern Ireland, and
 - (b) the reference to “another Member State” is to be read as if it includes the United Kingdom, and the references to “that State” construed accordingly.
 
-#### 17. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-d1c3c79878f26840d90433725ed3bae7]
+#### 17. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-d1c3c79878f26840d90433725ed3bae7]
 
 (1) A person who—
 
@@ -997,7 +997,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (3) For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
 
-#### 18. EU nationals etc[^key-0c33a6c3d75bd181d3f8d01f8295da28]
+#### 18. EU nationals etc[^c-0c33a6c3d75bd181d3f8d01f8295da28]
 
 (1) A person with protected rights—
 
@@ -1016,7 +1016,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (3) Sub-paragraph (1)(d) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 1(4).
 
-#### 19. United Kingdom nationals[^key-41913a3fa53d05587c71cf0e62acfc20]
+#### 19. United Kingdom nationals[^c-41913a3fa53d05587c71cf0e62acfc20]
 
 (1) A person—
 
@@ -1041,7 +1041,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (4) Where a person (“**P**”) falls within sub-paragraph (1)(a)(ii), the person in relation to whom P is a family member must also meet the requirements of sub-paragraph (1)(b) and (d).
 
-**20.**[^key-142a5efdb54ab1d28efc409515bede55] (1) A person—
+**20.**[^c-142a5efdb54ab1d28efc409515bede55] (1) A person—
 
 - (a) who is an Irish citizen on the first day of a course year of the course,
 - (b) who was ordinarily resident immediately before IP completion day—
@@ -1055,7 +1055,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (2) Sub-paragraph (1)(e) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 1(4).
 
-**21.**[^key-7347100f5826155ea97f64e5d523a7c8] (1) A person—
+**21.**[^c-7347100f5826155ea97f64e5d523a7c8] (1) A person—
 
 - (a) who is—
   - (i) settled in the United Kingdom,
@@ -1074,7 +1074,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (4) Sub-paragraph (1)(e) does not apply to a person mentioned in sub-paragraph (1)(a)(iii).
 
-**22.**[^key-191d6e3009e2b6eefa8345f677fc747b] (1) A person—
+**22.**[^c-191d6e3009e2b6eefa8345f677fc747b] (1) A person—
 
 - (a) who is a family member of a person who is settled in the United Kingdom on the first day of the first course year of the course,
 - (b) who is undertaking the course in the United Kingdom,
@@ -1083,7 +1083,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (2) Sub-paragraph (1)(d) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 1(4).
 
-#### 23. Persons resident in Gibraltar[^key-27ae21c330d173ee4be5c463cc58985e]
+#### 23. Persons resident in Gibraltar[^c-27ae21c330d173ee4be5c463cc58985e]
 
 (1) A person—
 
@@ -1103,7 +1103,7 @@ A person granted Calais leave, who is ordinarily resident in the United Kingdom 
 
 (3) Sub-paragraph (1)(d) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 1(4).
 
-#### 24. EU nationals ordinarily resident in the United Kingdom and the Islands[^key-8a5ea6363440439c4c389f440cf55d8c]
+#### 24. EU nationals ordinarily resident in the United Kingdom and the Islands[^c-8a5ea6363440439c4c389f440cf55d8c]
 
 A person with protected rights who—
 
@@ -1112,7 +1112,7 @@ A person with protected rights who—
 - (c) has been ordinarily resident in the United Kingdom and the Islands throughout the three-year period immediately preceding the first day of the first course year of the course, and
 - (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 25. Children of Swiss nationals[^key-0745deaa697c2b84786f11c0dd1b05f5]
+#### 25. Children of Swiss nationals[^c-0745deaa697c2b84786f11c0dd1b05f5]
 
 A person with protected rights who—
 
@@ -1121,7 +1121,7 @@ A person with protected rights who—
 - (c) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first course year of the course, and
 - (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (c).
 
-#### 26. Children of Turkish workers[^key-3fd2023639d15b9b349d4fa281617e01]
+#### 26. Children of Turkish workers[^c-3fd2023639d15b9b349d4fa281617e01]
 
 (1) A person who—
 
@@ -1137,7 +1137,7 @@ A person with protected rights who—
 - (a) is ordinarily resident in the United Kingdom, and
 - (b) is, or has been, lawfully employed in the United Kingdom.
 
-#### 27. Long residence[^key-6d220c57ac88c6abdfa3a0d709ef8bf2]
+#### 27. Long residence[^c-6d220c57ac88c6abdfa3a0d709ef8bf2]
 
 (1) A person who on the first day of the first course year of the course—
 
@@ -1152,11 +1152,11 @@ A person with protected rights who—
 
 (2) Sub-paragraph (1)(d) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 1(4).
 
-## Schedule 2 — CAH3 codes for determining foundation year fee[^key-fb7ce1bb0855fbef651e2ce209c52bac]
+## Schedule 2 — CAH3 codes for determining foundation year fee[^c-fb7ce1bb0855fbef651e2ce209c52bac]
 
 Regulation 10
 
-[^key-fb7ce1bb0855fbef651e2ce209c52bac]
+[^c-fb7ce1bb0855fbef651e2ce209c52bac]
 
 | CAH3 version 1.3.4 subject name | CAH3 version 1.3.4 subject code |
 | --- | --- |
@@ -1206,11 +1206,11 @@ Regulation 10
 | liberal arts (non-specific) | 23-01-04 |
 | publicity studies | 24-01-02 |
 
-## Schedule 3 — Per-course amounts for other higher education courses[^key-8ca910c90bb51884628d5ce36a6d12f4]
+## Schedule 3 — Per-course amounts for other higher education courses[^c-8ca910c90bb51884628d5ce36a6d12f4]
 
 Regulation 12
 
-[^key-8ca910c90bb51884628d5ce36a6d12f4]
+[^c-8ca910c90bb51884628d5ce36a6d12f4]
 
 | Course type | Per-course amount |
 | --- | --- |
@@ -1300,9 +1300,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29). Sections 10 and 119 of, and Schedule 2 to, the Higher Education and Research Act 2017 (“**the 2017 Act**”) were amended by sections 1 and 2 of the Lifelong Learning (Higher Education Fee Limits) Act [2023 (c. 40)](https://www.legislation.gov.uk/ukpga/2023/40) (“**the 2023 Act**”); “prescribed” is defined in section 10(9) of, and Schedule 2 to, the 2017 Act.
 
-[^key-11dd36a0729cf4070a14fbc6529c3692]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/856/regulation/1) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-11dd36a0729cf4070a14fbc6529c3692]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/856/regulation/1) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-9d82a9358716db66a9bd83910c8b2137]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/856/regulation/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-9d82a9358716db66a9bd83910c8b2137]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/856/regulation/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00002]: Footnote: [S.I. 2017/1189](https://www.legislation.gov.uk/uksi/2017/1189).
 
@@ -1310,7 +1310,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: [S.I. 2019/214](https://www.legislation.gov.uk/uksi/2019/214).
 
-[^key-878290037908a26f22047a55dd959429]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/856/regulation/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-878290037908a26f22047a55dd959429]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/856/regulation/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00005]: Footnote: Under section 10(6) of the 2017 Act, a “qualifying course” can only be a “higher education course”; and by virtue of the definition of “higher education course” in section 83(1) of the 2017 Act (as substituted by section 16(1) and (3) of the Skills and Post-16 Education Act [2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21) (“the 2022 Act”)), reference to a “**higher education course**” includes reference to “a module of such a course, where it is taken otherwise than as part of that course”.
 
@@ -1320,7 +1320,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-cad074b0891e77715f41f954666b1b5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/856/regulation/4) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-cad074b0891e77715f41f954666b1b5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/856/regulation/4) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00009]: Footnote: Further to section 3(1) of the 2017 Act, “**the register**” means a register of English higher education providers established and maintained by the OfS (meaning the Office for Students, as established by section 1(1) of the 2017 Act). An “English higher education provider”, as defined in section 83(1) of the 2017 Act, means a higher education provider whose activities are carried on, or principally carried on, in England.
 
@@ -1328,55 +1328,55 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00011]: Footnote: Section 10(1) of the 2017 Act requires the OfS to ensure that the ongoing registration conditions of a prescribed provider include a fee limit condition.
 
-[^key-9e79b21c2e50af527d9ded9094eb6856]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/856/regulation/5) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-9e79b21c2e50af527d9ded9094eb6856]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/856/regulation/5) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-9fd0ec62a668296620979a1b4b0174b0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/856/regulation/6) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-9fd0ec62a668296620979a1b4b0174b0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/856/regulation/6) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-2801038cc645627b429e543131b8095a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/856/regulation/7) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-2801038cc645627b429e543131b8095a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/856/regulation/7) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00012]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 of the Teaching and Higher Education Act 1998 (“**the 1998 Act**”) was amended by sections 146(1) and (2) and 153 of, and Schedule 11 to, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21); section 43(1) and (2) of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8); and section 88(1), (2), (3) and (4) of the 2017 Act; other amendments were made but none is relevant. Section 28A of the 1998 Act, which modifies section 22 of the 1998 Act, was inserted by section 15 of the 2022 Act.
 
 [^f00013]: Footnote: [S.I. 2026/858](https://www.legislation.gov.uk/uksi/2026/858).
 
-[^key-8dc20434d600ef0ab7bb26cbb5e4cf48]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/856/regulation/8) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-8dc20434d600ef0ab7bb26cbb5e4cf48]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/856/regulation/8) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00014]: Footnote: The credit-based method for determining the fee limit is set out in paragraphs 1A to 1G of Schedule 2 to the 2017 Act.
 
-[^key-473c3e34dcec16a9f95831486e072d62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2026/856/regulation/9) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-473c3e34dcec16a9f95831486e072d62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2026/856/regulation/9) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-a4ec52be09e739c6f4ddc9ef504b6095]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/856/regulation/10) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-a4ec52be09e739c6f4ddc9ef504b6095]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/856/regulation/10) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00015]: Footnote: Version 1.3.4 of the Higher Education Classification of Subjects coding system was published digitally on 28th October 2021. A full list of Common Aggregated Hierarchy 3 codes, and the subjects they are associated with, is available at https://www.hesa.ac.uk/collection/coding-manual-tools/hecoscahdata/cah. A printed copy can be obtained on request from the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT.
 
-[^key-38ec5159b77bf548b7c03ab9e5ae763b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2026/856/regulation/11) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-38ec5159b77bf548b7c03ab9e5ae763b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2026/856/regulation/11) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-e3fda05741531be2f3cbef15885a79bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2026/856/regulation/12) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-e3fda05741531be2f3cbef15885a79bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2026/856/regulation/12) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-53309f8e725b54cb9f415841587e539c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/856/regulation/13) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-53309f8e725b54cb9f415841587e539c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/856/regulation/13) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-174a42f7a72539b3df4890d1ff8d698f]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/856/regulation/13) applied (1.9.2026) by [The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026 (S.I. 2026/858)](https://www.legislation.gov.uk/uksi/2026/858), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b), [54](https://www.legislation.gov.uk/uksi/2026/858/regulation/54) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/2))
+[^c-174a42f7a72539b3df4890d1ff8d698f]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/856/regulation/13) applied (1.9.2026) by [The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026 (S.I. 2026/858)](https://www.legislation.gov.uk/uksi/2026/858), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b), [54](https://www.legislation.gov.uk/uksi/2026/858/regulation/54) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/2))
 
 [^f01000]: Footnote: (a)
 
     “accelerated course” is defined in paragraph 4(2) of Schedule 2 to the 2017 Act.
 
-[^key-dd05d8b01ed2c14ed1d213619edec9c7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2026/856/regulation/14) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-dd05d8b01ed2c14ed1d213619edec9c7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2026/856/regulation/14) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00016]: Footnote: The maximum number of credits is used to determine the chargeable number of credits for the purposes of paragraph 1D of Schedule 2 to the 2017 Act.
 
-[^key-ee31e86c16718553972125cf2123bca6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2026/856/regulation/15) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-ee31e86c16718553972125cf2123bca6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2026/856/regulation/15) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-2a9d40dd531f40d6b29e151054417aa8]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2026/856/regulation/15) applied (1.9.2026) by [The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026 (S.I. 2026/858)](https://www.legislation.gov.uk/uksi/2026/858), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b), [54](https://www.legislation.gov.uk/uksi/2026/858/regulation/54) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/2))
+[^c-2a9d40dd531f40d6b29e151054417aa8]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2026/856/regulation/15) applied (1.9.2026) by [The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026 (S.I. 2026/858)](https://www.legislation.gov.uk/uksi/2026/858), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b), [54](https://www.legislation.gov.uk/uksi/2026/858/regulation/54) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/2))
 
-[^key-dde0a68b97c8bf0d25c64ec681880bea]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2026/856/regulation/16) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-dde0a68b97c8bf0d25c64ec681880bea]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2026/856/regulation/16) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00017]: Footnote: “**full course**” has the meaning given by section 85(1) of the 2017 Act.
 
-[^key-cb8663b0eaf114945dd8296d8eaf1fe3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2026/856/regulation/17) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-cb8663b0eaf114945dd8296d8eaf1fe3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2026/856/regulation/17) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00018]: Footnote: The effect of this regulation is to relieve a student of the need to undertake part of a course, because of activity undertaken by the student other than as part of that course.
 
-[^key-584a19664717b9229a57296378ba9b8b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2026/856/regulation/18) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-584a19664717b9229a57296378ba9b8b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2026/856/regulation/18) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00019]: Footnote: “**prescribed**” has the meaning given by paragraph 2(13) of Schedule 2 to the 2017 Act.
 
@@ -1384,11 +1384,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00021]: Footnote: This approach is necessary because calculating the fee limit using decimal places before a per-credit limit is applied (using the steps provided for in paragraph 1D or 1E of Schedule 2 to the 2017 Act) would lead to a different outcome due to the decimal place needing to be rounded too soon.
 
-[^key-ae3178cbf099412c9079db971bb6b560]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2026/856/regulation/19) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-ae3178cbf099412c9079db971bb6b560]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2026/856/regulation/19) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00022]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986).
 
-[^key-abd6cd08e371d7d54965e06fdf116e5c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/1) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-abd6cd08e371d7d54965e06fdf116e5c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/1) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00023]: Footnote: [S.I. 2020/1209](https://www.legislation.gov.uk/uksi/2020/1209).
 
@@ -1396,68 +1396,68 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00025]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-f2e817ed1ff8121ffdd35b6bd1bc06c7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-f2e817ed1ff8121ffdd35b6bd1bc06c7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-efb7aadb251a65637cf9ee5409a9afae]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-efb7aadb251a65637cf9ee5409a9afae]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-b5c6ac983deabd0f67394b6a1d6564a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/4) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-b5c6ac983deabd0f67394b6a1d6564a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/4) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00026]: Footnote: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052).
 
-[^key-50914e10c83196320ce67c3d3c38943f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/5) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-50914e10c83196320ce67c3d3c38943f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/5) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-3ba5ad063f83c3397639982f56dec9fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/6) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-3ba5ad063f83c3397639982f56dec9fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/6) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-df5747b03ec9b2efcfe5a3ba8810abe9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/7) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-df5747b03ec9b2efcfe5a3ba8810abe9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/7) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-59b55f9243138336a153e3ee2b6fa89c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/8) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-59b55f9243138336a153e3ee2b6fa89c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/8) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-00974d3fd4b5963a7d0f7adf0fa0a661]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/9) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-00974d3fd4b5963a7d0f7adf0fa0a661]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/9) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-2b8eaaa9ed64cb5fa5d7141737d55f9a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/10) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-2b8eaaa9ed64cb5fa5d7141737d55f9a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/10) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-555baa79a3b0593756057ff8cf2896b7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/11) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-555baa79a3b0593756057ff8cf2896b7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/11) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-3418fdae6cd39337c552b062cc7b1b58]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/12) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-3418fdae6cd39337c552b062cc7b1b58]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/12) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00027]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-b9fdfc33c07db06a08e07f7c586d9737]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/13) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-b9fdfc33c07db06a08e07f7c586d9737]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/13) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-ab81bd02c4ec2e74e87ede36578fbebc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/14) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-ab81bd02c4ec2e74e87ede36578fbebc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/14) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-1ef02a48783bf9d881d8cb561b375cc4]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/15) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-1ef02a48783bf9d881d8cb561b375cc4]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/15) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00028]: Footnote: [S.I. 2020/1213](https://www.legislation.gov.uk/uksi/2020/1213).
 
-[^key-a47a90eedaec1b8d9ac2571567e40c43]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/16) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-a47a90eedaec1b8d9ac2571567e40c43]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/16) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00029]: Footnote: OJ No. L 141, 27.05.2011, p.1, amended by [Regulation (EU) 2016/589](https://www.legislation.gov.uk/european/regulation/2016/0589) of the European Parliament and of the Council of 13 April 2016 (OJ No. L 107, 22.4.2016, p. 1) and [Regulation (EU) 2019/1149](https://www.legislation.gov.uk/european/regulation/2019/1149) of the European Parliament and of the Council of 20 June 2019 (OJ No. L 186, 11.7.2019, p. 21).
 
-[^key-d1c3c79878f26840d90433725ed3bae7]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/17) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-d1c3c79878f26840d90433725ed3bae7]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/17) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-0c33a6c3d75bd181d3f8d01f8295da28]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/18) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-0c33a6c3d75bd181d3f8d01f8295da28]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/18) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-41913a3fa53d05587c71cf0e62acfc20]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/19) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-41913a3fa53d05587c71cf0e62acfc20]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/19) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-142a5efdb54ab1d28efc409515bede55]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/20) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-142a5efdb54ab1d28efc409515bede55]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/20) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-7347100f5826155ea97f64e5d523a7c8]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/21) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-7347100f5826155ea97f64e5d523a7c8]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/21) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-191d6e3009e2b6eefa8345f677fc747b]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/22) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-191d6e3009e2b6eefa8345f677fc747b]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/22) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-27ae21c330d173ee4be5c463cc58985e]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/23) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-27ae21c330d173ee4be5c463cc58985e]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/23) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-8a5ea6363440439c4c389f440cf55d8c]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/24) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-8a5ea6363440439c4c389f440cf55d8c]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/24) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-0745deaa697c2b84786f11c0dd1b05f5]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/25) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-0745deaa697c2b84786f11c0dd1b05f5]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/25) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-3fd2023639d15b9b349d4fa281617e01]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/26) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-3fd2023639d15b9b349d4fa281617e01]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/26) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-6d220c57ac88c6abdfa3a0d709ef8bf2]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/27) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-6d220c57ac88c6abdfa3a0d709ef8bf2]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2026/856/schedule/1/paragraph/27) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-fb7ce1bb0855fbef651e2ce209c52bac]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2026/856/schedule/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-fb7ce1bb0855fbef651e2ce209c52bac]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2026/856/schedule/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
-[^key-8ca910c90bb51884628d5ce36a6d12f4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2026/856/schedule/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
+[^c-8ca910c90bb51884628d5ce36a6d12f4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2026/856/schedule/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/856/regulation/1/b)
 
 [^f00030]: Footnote: Ofqual (meaning the Office of Qualifications and Examinations Regulation) regulates qualifications, examinations and assessments in England.

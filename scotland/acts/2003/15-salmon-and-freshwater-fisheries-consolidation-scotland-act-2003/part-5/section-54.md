@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Powers of constables and water bailiffs to enter land[^key-a5f4231819df097608c10deea9b2220f]
+## 54. Powers of constables and water bailiffs to enter land[^c-a5f4231819df097608c10deea9b2220f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f4231819df097608c10deea9b2220f]: Commencement: S. 54 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-a5f4231819df097608c10deea9b2220f]: Commencement: S. 54 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

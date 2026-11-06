@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and application[^key-37f4cb94eca49610bfc1b67d97f170af]
+## 1. Citation, commencement and application[^c-37f4cb94eca49610bfc1b67d97f170af]
 
 (1) These Regulations may be cited as the Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 and come into force on 1 April 2023.
 
 (2) These Regulations apply to the financial year beginning with 1 April 2023 and each subsequent financial year.
 
-## 2. Interpretation[^key-76ad111b71ffe44f524a946942cbcad2]
+## 2. Interpretation[^c-76ad111b71ffe44f524a946942cbcad2]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “**minimal or SPEI financial assistance**” has the meaning given in section 42(8) of the 2022 Act, and
 - “**the subsidy control requirements**” has the meaning given in section 1(2) of the 2022 Act.
 
-## 3. Conditions on granting non-domestic rates relief[^key-800befcbbd8e1744edb93ec6f6daffc2]
+## 3. Conditions on granting non-domestic rates relief[^c-800befcbbd8e1744edb93ec6f6daffc2]
 
 (1) The conditions in paragraphs (3) and (4) apply to relief that is available under the Regulations specified in paragraph (2) to a person who is liable to pay non-domestic rates levied under section 7B of the Local Government (Scotland) Act 1975[^f00003].
 
@@ -77,10 +77,10 @@ In these Regulations—
 - (g) the Non-Domestic Rates (Day Nursery Relief) (Scotland) Regulations 2018[^f00010],
 - (h)[^M_F_603e7cd7-51bf-46f2-8895-869d55f6c4a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) Regulation 15 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023[^f00012],
-- (j)[^key-cd1b8869e1369547886c6620d77e5948] Regulation 15 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024, [^key-7c831776c00ee04ce0d6e101e17b0060]...
-- (k) Regulation 4 of the Non-Domestic Rates (Islands and Remote Areas Hospitality Relief) (Scotland) Regulations 2024 ,[^key-614d26c5c93e9c9154772714fd3b4b28] [^key-662d9571f5e5a76c67a8dc0003293a0e]...
+- (j)[^c-cd1b8869e1369547886c6620d77e5948] Regulation 15 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024, [^c-7c831776c00ee04ce0d6e101e17b0060]...
+- (k) Regulation 4 of the Non-Domestic Rates (Islands and Remote Areas Hospitality Relief) (Scotland) Regulations 2024 ,[^c-614d26c5c93e9c9154772714fd3b4b28] [^c-662d9571f5e5a76c67a8dc0003293a0e]...
 - (l) regulation 4 of the Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025,
-- (m)[^key-9227782433b78498d0ca82cb5de5ce9d] regulations 4, 4A and 5 of the Non-Domestic Rates (Retail, Hospitality and Leisure) (Scotland) Regulations 2026, and
+- (m)[^c-9227782433b78498d0ca82cb5de5ce9d] regulations 4, 4A and 5 of the Non-Domestic Rates (Retail, Hospitality and Leisure) (Scotland) Regulations 2026, and
 - (n) regulations 3, 4 and 8 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026.
 
 (3) Any relief granted to a person under the Regulations specified in paragraph (2) that is to be given as minimal financial assistance is to be granted only where—
@@ -94,7 +94,7 @@ In these Regulations—
 - (a) compatible with the subsidy control requirements in the 2022 Act, and
 - (b) granted in accordance with those requirements.
 
-## 4. Amendment of the Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021[^key-fb07e78ab44476b0bd5e1a2566d6fff9]
+## 4. Amendment of the Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021[^c-fb07e78ab44476b0bd5e1a2566d6fff9]
 
 For regulation 1(2) (citation, commencement and application) of the Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021[^f00013], substitute—
 
@@ -130,13 +130,13 @@ Regulation 4 amends the Non-Domestic Rates (Restriction of Relief) (Scotland) Re
 
 [^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), section 15 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4) and paragraph 7 of schedule 4 of the Coronavirus (Scotland) (No. 2) Act [2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-37f4cb94eca49610bfc1b67d97f170af]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1) in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
+[^c-37f4cb94eca49610bfc1b67d97f170af]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1) in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
 
-[^key-76ad111b71ffe44f524a946942cbcad2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/28/regulation/2) in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
+[^c-76ad111b71ffe44f524a946942cbcad2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/28/regulation/2) in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
 
 [^f00002]: Footnote: [2022 c. 23](https://www.legislation.gov.uk/ukpga/2022/23).
 
-[^key-800befcbbd8e1744edb93ec6f6daffc2]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
+[^c-800befcbbd8e1744edb93ec6f6daffc2]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
 
 [^f00003]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30). Section 7B was inserted by section 110(2) of the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). A new subsection (2) was substituted by paragraph 100(4) of schedule 13 of the Local Government etc. (Scotland) Act 1994.
 
@@ -158,16 +158,16 @@ Regulation 4 amends the Non-Domestic Rates (Restriction of Relief) (Scotland) Re
 
 [^f00012]: Footnote: [S.S.I. 2023/31](https://www.legislation.gov.uk/ssi/2023/31).
 
-[^key-cd1b8869e1369547886c6620d77e5948]: Textual amendment: Reg. 3(2)(j)(k) inserted by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/ssi/2024/5/regulation/18/2/b) (as substituted by [S.S.I. 2024/59](https://www.legislation.gov.uk/ssi/2024/59), [regs. 1](https://www.legislation.gov.uk/ssi/2024/59/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/59/regulation/2/4))
+[^c-cd1b8869e1369547886c6620d77e5948]: Textual amendment: Reg. 3(2)(j)(k) inserted by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/ssi/2024/5/regulation/18/2/b) (as substituted by [S.S.I. 2024/59](https://www.legislation.gov.uk/ssi/2024/59), [regs. 1](https://www.legislation.gov.uk/ssi/2024/59/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/59/regulation/2/4))
 
-[^key-7c831776c00ee04ce0d6e101e17b0060]: Textual amendment: Word in [reg. 3(2)(j)](https://www.legislation.gov.uk/ssi/2023/28/regulation/3/2/j) omitted (1.4.2025) by virtue of [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2025/40/regulation/5/2/a)
+[^c-7c831776c00ee04ce0d6e101e17b0060]: Textual amendment: Word in [reg. 3(2)(j)](https://www.legislation.gov.uk/ssi/2023/28/regulation/3/2/j) omitted (1.4.2025) by virtue of [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2025/40/regulation/5/2/a)
 
-[^key-614d26c5c93e9c9154772714fd3b4b28]: Textual amendment: [Reg. 3(2)(l)](https://www.legislation.gov.uk/ssi/2023/28/regulation/3/2/l) and word inserted (1.4.2025) by [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2025/40/regulation/5/2/b)
+[^c-614d26c5c93e9c9154772714fd3b4b28]: Textual amendment: [Reg. 3(2)(l)](https://www.legislation.gov.uk/ssi/2023/28/regulation/3/2/l) and word inserted (1.4.2025) by [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2025/40/regulation/5/2/b)
 
-[^key-662d9571f5e5a76c67a8dc0003293a0e]: Textual amendment: Word in reg. 3(2)(k) omitted (1.4.2026) by virtue of [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2026/68/regulation/13/2/a)
+[^c-662d9571f5e5a76c67a8dc0003293a0e]: Textual amendment: Word in reg. 3(2)(k) omitted (1.4.2026) by virtue of [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2026/68/regulation/13/2/a)
 
-[^key-9227782433b78498d0ca82cb5de5ce9d]: Textual amendment: Reg. 3(2)(m)(n) inserted (1.4.2026) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2026/68/regulation/13/2/b) (as substituted by [S.S.I. 2026/135](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/3/2))
+[^c-9227782433b78498d0ca82cb5de5ce9d]: Textual amendment: Reg. 3(2)(m)(n) inserted (1.4.2026) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2026/68/regulation/13/2/b) (as substituted by [S.S.I. 2026/135](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/3/2))
 
-[^key-fb07e78ab44476b0bd5e1a2566d6fff9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/28/regulation/4) in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
+[^c-fb07e78ab44476b0bd5e1a2566d6fff9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/28/regulation/4) in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/1)
 
 [^f00013]: Footnote: [S.S.I. 2021/145](https://www.legislation.gov.uk/ssi/2021/145).

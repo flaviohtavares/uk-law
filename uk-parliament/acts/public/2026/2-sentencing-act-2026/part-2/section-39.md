@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Termination of supervision period of suspended sentence order[^key-cb5ce050ebca9b2f16582d33c2540ca5][^key-b7a094333c503b366aa2b79b0eef619a]
+## 39. Termination of supervision period of suspended sentence order[^c-cb5ce050ebca9b2f16582d33c2540ca5][^c-b7a094333c503b366aa2b79b0eef619a]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb5ce050ebca9b2f16582d33c2540ca5]: Commencement: S. 39 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-cb5ce050ebca9b2f16582d33c2540ca5]: Commencement: S. 39 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-b7a094333c503b366aa2b79b0eef619a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2026/2/section/39) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/e)
+[^c-b7a094333c503b366aa2b79b0eef619a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2026/2/section/39) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/e)

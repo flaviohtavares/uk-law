@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Contents of the register[^key-f0798bf3fbbd3d1296b85aa079a474da]
+## 6. Contents of the register[^c-f0798bf3fbbd3d1296b85aa079a474da]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ must be kept together in the same part of the register.
 
 ## Annotations
 
-[^key-f0798bf3fbbd3d1296b85aa079a474da]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/282/regulation/6) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-f0798bf3fbbd3d1296b85aa079a474da]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/282/regulation/6) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

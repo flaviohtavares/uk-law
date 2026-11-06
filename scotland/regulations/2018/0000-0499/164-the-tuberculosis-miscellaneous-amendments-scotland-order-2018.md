@@ -34,7 +34,7 @@ Animals
 
 Animal Health
 
-The Tuberculosis (Miscellaneous Amendments) (Scotland) Order 2018 (revoked)[^key-5dd117d747292075c0ba6766c17c5009]
+The Tuberculosis (Miscellaneous Amendments) (Scotland) Order 2018 (revoked)[^c-5dd117d747292075c0ba6766c17c5009]
 
 Made
 
@@ -48,21 +48,21 @@ Coming into force
 
 10th July 2018
 
-[^key-5dd117d747292075c0ba6766c17c5009]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5dd117d747292075c0ba6766c17c5009]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-5dd117d747292075c0ba6766c17c5009]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Tuberculosis (Scotland) Order 2007[^key-5dd117d747292075c0ba6766c17c5009]
+## 1. Citation and commencement[^c-5dd117d747292075c0ba6766c17c5009]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Tuberculosis in Specified Animals (Scotland) Order 2015[^key-5dd117d747292075c0ba6766c17c5009]
+## 2. Amendment of the Tuberculosis (Scotland) Order 2007[^c-5dd117d747292075c0ba6766c17c5009]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Tuberculosis in Specified Animals (Scotland) Order 2015[^c-5dd117d747292075c0ba6766c17c5009]
 
 **Not yet in force.**
 
@@ -70,10 +70,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-5dd117d747292075c0ba6766c17c5009]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5dd117d747292075c0ba6766c17c5009]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5dd117d747292075c0ba6766c17c5009]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5dd117d747292075c0ba6766c17c5009]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5dd117d747292075c0ba6766c17c5009]: Textual amendment: Order revoked (30.6.2018) by [The Tuberculosis (Miscellaneous Amendments) (Scotland) Revocation Order 2018 (S.S.I. 2018/202)](https://www.legislation.gov.uk/ssi/2018/202), [arts. 1](https://www.legislation.gov.uk/ssi/2018/202/article/1), [2](https://www.legislation.gov.uk/ssi/2018/202/article/2)
+[^c-5dd117d747292075c0ba6766c17c5009]: Textual amendment: Order revoked (30.6.2018) by [The Tuberculosis (Miscellaneous Amendments) (Scotland) Revocation Order 2018 (S.S.I. 2018/202)](https://www.legislation.gov.uk/ssi/2018/202), [arts. 1](https://www.legislation.gov.uk/ssi/2018/202/article/1), [2](https://www.legislation.gov.uk/ssi/2018/202/article/2)

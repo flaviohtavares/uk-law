@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87BB. Information sharing between the Chief Inspector for England and section 87A inspectors[^key-93ffcd6d98f3dd6637ce85ec86323b2e]
+## 87BB. Information sharing between the Chief Inspector for England and section 87A inspectors[^c-93ffcd6d98f3dd6637ce85ec86323b2e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93ffcd6d98f3dd6637ce85ec86323b2e]: Textual amendment: [S. 87BB](https://www.legislation.gov.uk/ukpga/1989/41/section/87BB) inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/51/2), [78(2)(e)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/e)
+[^c-93ffcd6d98f3dd6637ce85ec86323b2e]: Textual amendment: [S. 87BB](https://www.legislation.gov.uk/ukpga/1989/41/section/87BB) inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/51/2), [78(2)(e)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/e)

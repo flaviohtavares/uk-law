@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Availability of licence[^key-8213c741fdf6bd11dbef2c4f206e06a3][^key-1b3fe8611b8ec3d7a4d4d90e9336ccbb]
+## 185. Availability of licence[^c-8213c741fdf6bd11dbef2c4f206e06a3][^c-1b3fe8611b8ec3d7a4d4d90e9336ccbb]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8213c741fdf6bd11dbef2c4f206e06a3]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2005/19/section/185) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-8213c741fdf6bd11dbef2c4f206e06a3]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2005/19/section/185) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
-[^key-1b3fe8611b8ec3d7a4d4d90e9336ccbb]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/2005/19/part/8) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 paras. 54-66](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54) (as amended (16.8.2007) by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 11](https://www.legislation.gov.uk/uksi/2007/2169/article/11))
+[^c-1b3fe8611b8ec3d7a4d4d90e9336ccbb]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/2005/19/part/8) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 paras. 54-66](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54) (as amended (16.8.2007) by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 11](https://www.legislation.gov.uk/uksi/2007/2169/article/11))

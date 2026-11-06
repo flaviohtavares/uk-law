@@ -51,8 +51,8 @@ Section 59.
 </tbody>
 </table>
 
-[^key-cbdbfef170db41c6ea30a4a4537bc287][^key-cbdbfef170db41c6ea30a4a4537bc287][^key-cbdbfef170db41c6ea30a4a4537bc287]
+[^c-cbdbfef170db41c6ea30a4a4537bc287][^c-cbdbfef170db41c6ea30a4a4537bc287][^c-cbdbfef170db41c6ea30a4a4537bc287]
 
 ## Annotations
 
-[^key-cbdbfef170db41c6ea30a4a4537bc287]: Textual amendment: Entry in [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/73/schedule/4) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 1(e)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/1/e) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
+[^c-cbdbfef170db41c6ea30a4a4537bc287]: Textual amendment: Entry in [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/73/schedule/4) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 1(e)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/1/e) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Content of application[^key-c523373fff136ff03dfa7fd7c34bc702]
+## 5. Content of application[^c-c523373fff136ff03dfa7fd7c34bc702]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c523373fff136ff03dfa7fd7c34bc702]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2026/11/rule/5) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c523373fff136ff03dfa7fd7c34bc702]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2026/11/rule/5) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Further information and disclosure[^key-9511b8fa71838dbbed381e37566655b2]
+## 138. Further information and disclosure[^c-9511b8fa71838dbbed381e37566655b2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9511b8fa71838dbbed381e37566655b2]: Commencement: Rule 138 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-9511b8fa71838dbbed381e37566655b2]: Commencement: Rule 138 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

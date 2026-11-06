@@ -54,20 +54,20 @@ A draft of this Order has been laid before Parliament and approved by each House
 
 The Secretary of State, in exercise of the powers conferred upon her by sections 30(2) and 33(5)(k) of that Act, makes the following Order:
 
-## 1. Citation and commencement[^key-9bd7f5360156816a4cd0fd66eb843d34]
+## 1. Citation and commencement[^c-9bd7f5360156816a4cd0fd66eb843d34]
 
 This Order may be cited as the Protection of Freedoms Act 2012 (Code of Practice for Surveillance Camera Systems and Specification of Relevant Authorities) Order 2013, and shall come into force on the seventh day after the day on which it is made.
 
-## 2. Surveillance Camera Code of Practice[^key-709b097dd28b81e8ce9198ba5116408a]
+## 2. Surveillance Camera Code of Practice[^c-709b097dd28b81e8ce9198ba5116408a]
 
 The Surveillance Camera Code of Practice which was laid before Parliament on 4<sup>th</sup> June 2013 shall come into operation on the day on which this Order comes into force.
 
-## 3. Specification of relevant authorities[^key-7f03af22de1087b92a8f16bd3f19af24]
+## 3. Specification of relevant authorities[^c-7f03af22de1087b92a8f16bd3f19af24]
 
 The following persons are specified as a “relevant authority” for the purposes of section 33(5)(k) of the Protection of Freedoms Act 2012–
 
 - (a) The chief constable of the British Transport Police;
-- (b) The National Crime Agency[^key-e654fa2dc3b635679db2aaef5ae9f11f];
+- (b) The National Crime Agency[^c-e654fa2dc3b635679db2aaef5ae9f11f];
 - (c) The chief constable of the Civil Nuclear Constabulary; and
 - (d) The chief constable of the Ministry of Defence Police.
 
@@ -93,10 +93,10 @@ Pursuant to section 32(1) of the Protection of Freedoms Act 2012, the Secretary 
 
 [^f00001]: Footnote: [2012 c.9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-9bd7f5360156816a4cd0fd66eb843d34]: Commencement: Art. 1 in force at 12.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1961/article/1)
+[^c-9bd7f5360156816a4cd0fd66eb843d34]: Commencement: Art. 1 in force at 12.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1961/article/1)
 
-[^key-709b097dd28b81e8ce9198ba5116408a]: Commencement: Art. 2 in force at 12.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1961/article/1)
+[^c-709b097dd28b81e8ce9198ba5116408a]: Commencement: Art. 2 in force at 12.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1961/article/1)
 
-[^key-7f03af22de1087b92a8f16bd3f19af24]: Commencement: Art. 3 in force at 12.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1961/article/1)
+[^c-7f03af22de1087b92a8f16bd3f19af24]: Commencement: Art. 3 in force at 12.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1961/article/1)
 
-[^key-e654fa2dc3b635679db2aaef5ae9f11f]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1961/article/3/b) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 127](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/127)
+[^c-e654fa2dc3b635679db2aaef5ae9f11f]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1961/article/3/b) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 127](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/127)

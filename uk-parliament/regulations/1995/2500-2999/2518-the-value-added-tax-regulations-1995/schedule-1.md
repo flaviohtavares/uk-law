@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1[^key-bc6516c3371563db8af93ccbddb938ee]
+## SCHEDULE 1[^c-bc6516c3371563db8af93ccbddb938ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -132,7 +132,7 @@ Form No. 17
 
 CERTIFICATE REQUIRED TO SECURE RELIEF FROM VAT ON PURCHASED OR ACQUIRED GOODS INTENDED TO BE PLACED IN A FISCAL WAREHOUSING REGIME
 
-### Information to be indicated:[^key-bc6516c3371563db8af93ccbddb938ee]
+### Information to be indicated:[^c-bc6516c3371563db8af93ccbddb938ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -140,10 +140,10 @@ Form No. 18
 
 CERTIFICATE REQUIRED TO SECURE ZERO-RATING OF SERVICES (OTHER THAN THE SUPPLY OF WAREHOUSING) PERFORMED IN A FISCAL OR OTHER WAREHOUSE
 
-### Information to be indicated:[^key-bc6516c3371563db8af93ccbddb938ee]
+### Information to be indicated:[^c-bc6516c3371563db8af93ccbddb938ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc6516c3371563db8af93ccbddb938ee]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2518/schedule/1) omitted (15.10.2012) by virtue of [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/2), [27](https://www.legislation.gov.uk/uksi/2012/1899/regulation/27)
+[^c-bc6516c3371563db8af93ccbddb938ee]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2518/schedule/1) omitted (15.10.2012) by virtue of [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/2), [27](https://www.legislation.gov.uk/uksi/2012/1899/regulation/27)

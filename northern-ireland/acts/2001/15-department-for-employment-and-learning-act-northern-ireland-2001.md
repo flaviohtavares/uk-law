@@ -31,14 +31,14 @@ Department for Employment and Learning Act (Northern Ireland) 2001 (repealed)
 
 2001 CHAPTER 15
 
-[^key-1f0eaff5ae3f0e860d3b404d5bd7420c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f0eaff5ae3f0e860d3b404d5bd7420c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Renaming of Department of Higher and Further Education, Training and Employment[^key-1f0eaff5ae3f0e860d3b404d5bd7420c]
+## 1. Renaming of Department of Higher and Further Education, Training and Employment[^c-1f0eaff5ae3f0e860d3b404d5bd7420c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f0eaff5ae3f0e860d3b404d5bd7420c]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2001/15) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-1f0eaff5ae3f0e860d3b404d5bd7420c]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2001/15) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. Section 6C: supplemental provision[^key-1277d4a51c96a6a58cf14a2d7e7b6a5c]
+## 6D. Section 6C: supplemental provision[^c-1277d4a51c96a6a58cf14a2d7e7b6a5c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1277d4a51c96a6a58cf14a2d7e7b6a5c]: Textual amendment: Ss. 6C-6CD substituted for ss. 6C, 6D (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/3)
+[^c-1277d4a51c96a6a58cf14a2d7e7b6a5c]: Textual amendment: Ss. 6C-6CD substituted for ss. 6C, 6D (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Designation of the Authority as the national regulatory authority for Northern Ireland[^key-9097ab83d8fc63e2026c37507d743a08]
+## 35. Designation of the Authority as the national regulatory authority for Northern Ireland[^c-9097ab83d8fc63e2026c37507d743a08]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ After Article 3 (The Northern Ireland Authority for Energy Regulation) of the En
 
 ## Annotations
 
-[^key-9097ab83d8fc63e2026c37507d743a08]: Commencement: Reg. 35 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-9097ab83d8fc63e2026c37507d743a08]: Commencement: Reg. 35 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

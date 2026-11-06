@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 221. Formal defects[^key-acae5ab080417fe200ca6859f7618bb6]
+## 221. Formal defects[^c-acae5ab080417fe200ca6859f7618bb6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ No special administration proceedings shall be invalidated by any formal defect 
 
 ## Annotations
 
-[^key-acae5ab080417fe200ca6859f7618bb6]: Commencement: [Rule 221](https://www.legislation.gov.uk/nisr/2026/11/rule/221) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-acae5ab080417fe200ca6859f7618bb6]: Commencement: [Rule 221](https://www.legislation.gov.uk/nisr/2026/11/rule/221) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -48,21 +48,21 @@ In accordance with section 1(2) of that Act they have consulted with such person
 
 ## PART 1 — Citation and commencement
 
-### 1. Citation and commencement[^key-d71c6475079f3391f876bd4193d97d69]
+### 1. Citation and commencement[^c-d71c6475079f3391f876bd4193d97d69]
 
 (1) These Regulations may be cited as the Building (Scotland) Amendment Regulations 2022.
 
 (2) These Regulations (other than Part 3) come into force on 1 June 2022.
 
-(3) Part 3 comes into force on 1 February 2023[^key-c7631ff3ea9862a7753373ff5a22bf3c].
+(3) Part 3 comes into force on 1 February 2023[^c-c7631ff3ea9862a7753373ff5a22bf3c].
 
 ## PART 2 — Amendment of the Building (Scotland) Regulations 2004 on 1 June 2022
 
-### 2. Amendment of the Building (Scotland) Regulations 2004 – 1 June 2022[^key-9344981e417bd4ffc46e1d95ba305fb2]
+### 2. Amendment of the Building (Scotland) Regulations 2004 – 1 June 2022[^c-9344981e417bd4ffc46e1d95ba305fb2]
 
 Subject to regulation 6, the Building (Scotland) Regulations 2004[^f00002] are amended in accordance with regulations 3 to 5.
 
-### 3. Amendment of regulation 8 – fitness and durability of materials and workmanship[^key-98c38fd281490b6fc2d2a4c278d7213c]
+### 3. Amendment of regulation 8 – fitness and durability of materials and workmanship[^c-98c38fd281490b6fc2d2a4c278d7213c]
 
 In regulation 8 (fitness and durability of materials and workmanship), after paragraph (2) insert—
 
@@ -103,7 +103,7 @@ In regulation 8 (fitness and durability of materials and workmanship), after par
 
 .
 
-### 4. Amendment of schedule 3 – descriptions of building and work, including the provision of services, fittings and equipment, not requiring a warrant[^key-c58c7896ef98008b7ce9458b3600506b]
+### 4. Amendment of schedule 3 – descriptions of building and work, including the provision of services, fittings and equipment, not requiring a warrant[^c-c58c7896ef98008b7ce9458b3600506b]
 
 In schedule 3 (descriptions of buildings and work, including the provision of services, fittings and equipment, not requiring a warrant)—
 
@@ -115,11 +115,11 @@ In schedule 3 (descriptions of buildings and work, including the provision of se
 
   .
 
-### 5. Amendment of schedule 5 – building standards applicable to design and construction[^key-2c758f1732c1622652240aadf44e6837]
+### 5. Amendment of schedule 5 – building standards applicable to design and construction[^c-2c758f1732c1622652240aadf44e6837]
 
 In schedule 5 (building standards applicable to design and construction), in paragraph 2.7 (spread on external walls) after “way” insert “, having regard to the height, use and position of the building,”.
 
-### 6. Transitional provision[^key-1c62812dd6ca49bbbf6da532ef186cac]
+### 6. Transitional provision[^c-1c62812dd6ca49bbbf6da532ef186cac]
 
 The amendments made by Part 2 of these Regulations do not apply to work, which by virtue of regulation 5 and schedule 3 of the Building (Scotland) Regulations 2004, does not require a building warrant if that work is—
 
@@ -128,13 +128,13 @@ The amendments made by Part 2 of these Regulations do not apply to work, which b
   - (i) the contract for the work is entered into before 1 June 2022, and
   - (ii) the work is completed on or before 30 September 2022.
 
-## PART 3 — Amendment of the Building (Scotland) Regulations 2004 on 1 February 2023[^key-cfbeb87a4c433f7a6576c74ad1108321]
+## PART 3 — Amendment of the Building (Scotland) Regulations 2004 on 1 February 2023[^c-cfbeb87a4c433f7a6576c74ad1108321]
 
-### 7. Amendment of the Building (Scotland) Regulations 2004 – 1 February 2023[^key-b1d2eef1550dd560e77d2039f54bcdd4][^key-88b658b32fc666a5e38c4cc4ab708e94]
+### 7. Amendment of the Building (Scotland) Regulations 2004 – 1 February 2023[^c-b1d2eef1550dd560e77d2039f54bcdd4][^c-88b658b32fc666a5e38c4cc4ab708e94]
 
 Subject to regulation 11, the Building (Scotland) Regulations 2004[^f00003] are amended in accordance with regulations 8 to 10.
 
-### 8. Amendment of regulation 2 – interpretation[^key-0e62ef3d5257170b12abc2fbb0e2363f]
+### 8. Amendment of regulation 2 – interpretation[^c-0e62ef3d5257170b12abc2fbb0e2363f]
 
 In regulation 2 (interpretation)—
 
@@ -152,7 +152,7 @@ In regulation 2 (interpretation)—
 
   .
 
-### 9. Amendment of schedule 5 – building standards applicable to design and construction[^key-47512af2e354c79cd8790663bb6bd18a]
+### 9. Amendment of schedule 5 – building standards applicable to design and construction[^c-47512af2e354c79cd8790663bb6bd18a]
 
 In schedule 5—
 
@@ -189,18 +189,18 @@ In schedule 5—
   - (i) after “energy supply systems” insert “, control systems”,
   - (ii) after “achieve” insert “effective operation and”.
 
-### 10. Amendment of schedule 6 – building standards applicable to conversions[^key-d885dd58ab2ffac72d17d41f360e6766]
+### 10. Amendment of schedule 6 – building standards applicable to conversions[^c-d885dd58ab2ffac72d17d41f360e6766]
 
 In schedule 6, in paragraph 2(c) after “3.19” insert “, 3.28”.
 
-### 11. Transitional provision[^key-f26fbc57de5cbd738244070051c9b447]
+### 11. Transitional provision[^c-f26fbc57de5cbd738244070051c9b447]
 
 The amendments made by Part 3 of these Regulations do not apply to work, which by virtue of regulation 5 and schedule 3 of the Building (Scotland) Regulations 2004, does not require a building warrant if that work is—
 
-- (a) completed before 1 February 2023[^key-2b4290c6496440ddc45e72c31cb6b6c4], or
+- (a) completed before 1 February 2023[^c-2b4290c6496440ddc45e72c31cb6b6c4], or
 - (b) not completed before that date and—
-  - (i) the contract for the work is entered into before 1 February 2023[^key-f12f33a4388efceb67f1db6fbe3a2c44], and
-  - (ii) the work is completed on or before 31 May[^key-67ad20330d73961f9ce80886f3eca11c] 2023.
+  - (i) the contract for the work is entered into before 1 February 2023[^c-f12f33a4388efceb67f1db6fbe3a2c44], and
+  - (ii) the work is completed on or before 31 May[^c-67ad20330d73961f9ce80886f3eca11c] 2023.
 
 PATRICK HARVIE
 
@@ -232,44 +232,44 @@ Regulation 9(c) amends paragraph 6.7 (commissioning building services) so that t
 
 [^f00001]: Footnote: [2003 asp 8](https://www.legislation.gov.uk/asp/2003/8). Section 1 was amended by section 6(2) of the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8). Paragraph 5(2) of schedule 1 was amended by [S.S.I. 2014/364](https://www.legislation.gov.uk/ssi/2014/364).
 
-[^key-d71c6475079f3391f876bd4193d97d69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/136/regulation/1) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
+[^c-d71c6475079f3391f876bd4193d97d69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/136/regulation/1) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
 
-[^key-c7631ff3ea9862a7753373ff5a22bf3c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/2)
+[^c-c7631ff3ea9862a7753373ff5a22bf3c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/2)
 
-[^key-9344981e417bd4ffc46e1d95ba305fb2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/136/regulation/2) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
+[^c-9344981e417bd4ffc46e1d95ba305fb2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/136/regulation/2) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406): relevant amending instrument is [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534).
 
-[^key-98c38fd281490b6fc2d2a4c278d7213c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/136/regulation/3) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
+[^c-98c38fd281490b6fc2d2a4c278d7213c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/136/regulation/3) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
 
-[^key-c58c7896ef98008b7ce9458b3600506b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/136/regulation/4) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
+[^c-c58c7896ef98008b7ce9458b3600506b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/136/regulation/4) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
 
-[^key-2c758f1732c1622652240aadf44e6837]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/136/regulation/5) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
+[^c-2c758f1732c1622652240aadf44e6837]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/136/regulation/5) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
 
-[^key-1c62812dd6ca49bbbf6da532ef186cac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/136/regulation/6) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
+[^c-1c62812dd6ca49bbbf6da532ef186cac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/136/regulation/6) in force at 1.6.2022, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/2)
 
-[^key-cfbeb87a4c433f7a6576c74ad1108321]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/ssi/2022/136/part/3) heading substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/3)
+[^c-cfbeb87a4c433f7a6576c74ad1108321]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/ssi/2022/136/part/3) heading substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/3)
 
-[^key-b1d2eef1550dd560e77d2039f54bcdd4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/136/regulation/7) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-b1d2eef1550dd560e77d2039f54bcdd4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/136/regulation/7) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-88b658b32fc666a5e38c4cc4ab708e94]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/ssi/2022/136/regulation/7) heading substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/4)
+[^c-88b658b32fc666a5e38c4cc4ab708e94]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/ssi/2022/136/regulation/7) heading substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/4)
 
 [^f00003]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406): relevant amending instruments are [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534), [S.S.I. 2010/32](https://www.legislation.gov.uk/ssi/2010/32), [S.S.I. 2013/143](https://www.legislation.gov.uk/ssi/2013/143), [S.S.I. 2016/70](https://www.legislation.gov.uk/ssi/2016/70) and [S.S.I. 2016/71](https://www.legislation.gov.uk/ssi/2016/71).
 
-[^key-0e62ef3d5257170b12abc2fbb0e2363f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/136/regulation/8) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-0e62ef3d5257170b12abc2fbb0e2363f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/136/regulation/8) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
 [^f00004]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12).
 
 [^f00005]: Footnote: [2021 asp 9](https://www.legislation.gov.uk/asp/2021/9).
 
-[^key-47512af2e354c79cd8790663bb6bd18a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/136/regulation/9) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-47512af2e354c79cd8790663bb6bd18a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/136/regulation/9) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-d885dd58ab2ffac72d17d41f360e6766]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/136/regulation/10) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-d885dd58ab2ffac72d17d41f360e6766]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/136/regulation/10) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-f26fbc57de5cbd738244070051c9b447]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-f26fbc57de5cbd738244070051c9b447]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11) in force at 1.2.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3) (as amended by S.S.I. 2022/340, [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-2b4290c6496440ddc45e72c31cb6b6c4]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/ssi/2022/136/regulation/11/a) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/5/a)
+[^c-2b4290c6496440ddc45e72c31cb6b6c4]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/ssi/2022/136/regulation/11/a) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/5/a)
 
-[^key-f12f33a4388efceb67f1db6fbe3a2c44]: Textual amendment: Words in [reg. 11(b)(i)](https://www.legislation.gov.uk/ssi/2022/136/regulation/11/b/i) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/5/b)
+[^c-f12f33a4388efceb67f1db6fbe3a2c44]: Textual amendment: Words in [reg. 11(b)(i)](https://www.legislation.gov.uk/ssi/2022/136/regulation/11/b/i) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/5/b)
 
-[^key-67ad20330d73961f9ce80886f3eca11c]: Textual amendment: Words in [reg. 11(b)(ii)](https://www.legislation.gov.uk/ssi/2022/136/regulation/11/b/ii) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/5/c)
+[^c-67ad20330d73961f9ce80886f3eca11c]: Textual amendment: Words in [reg. 11(b)(ii)](https://www.legislation.gov.uk/ssi/2022/136/regulation/11/b/ii) substituted (30.11.2022) by [The Building (Scotland) Amendment (Amendment) (No. 2) Regulations 2022 (S.S.I. 2022/340)](https://www.legislation.gov.uk/ssi/2022/340), [regs. 1](https://www.legislation.gov.uk/ssi/2022/340/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2022/340/regulation/2/5/c)

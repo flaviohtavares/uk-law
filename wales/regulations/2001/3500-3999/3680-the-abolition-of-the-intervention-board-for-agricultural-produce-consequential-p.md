@@ -47,7 +47,7 @@ The National Assembly for Wales, being designated[^c15967481] for the purposes o
 
 ## 2. Amendments consequential to the abolition of the Intervention Board for Agricultural Produce
 
-(1)[^key-7395dc58ad05e1cd5fa8d6d724f18a66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7395dc58ad05e1cd5fa8d6d724f18a66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the School Milk (Wales) Regulations 2001 [^c15967521]—
 
@@ -118,7 +118,7 @@ The abolition of the Intervention Board took effect on 15th November 2001 and th
 
 [^c15967501]: Marginal citation: The Intervention Board was abolished on 15th November 2001 which is therefore the date these regulations come into force.
 
-[^key-7395dc58ad05e1cd5fa8d6d724f18a66]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2001/3680/regulation/2/1) revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/wsi/2005/360), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/360/regulation/1/1), [14(1)](https://www.legislation.gov.uk/wsi/2005/360/regulation/14/1) (with [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/360/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2005/360/regulation/14/2))
+[^c-7395dc58ad05e1cd5fa8d6d724f18a66]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2001/3680/regulation/2/1) revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/wsi/2005/360), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/360/regulation/1/1), [14(1)](https://www.legislation.gov.uk/wsi/2005/360/regulation/14/1) (with [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/360/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2005/360/regulation/14/2))
 
 [^c15967521]: Marginal citation: S.I. 2001 / 275 (W.11).
 

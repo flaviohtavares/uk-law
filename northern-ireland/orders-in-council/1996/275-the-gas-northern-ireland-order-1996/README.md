@@ -26,7 +26,7 @@ summary: ''
 
 1996 No. 275 (N.I. 2)
 
-The Gas (Northern Ireland) Order 1996[^key-bcbeb82cbf4ffeac8d1d97ffd9eafd57]
+The Gas (Northern Ireland) Order 1996[^c-bcbeb82cbf4ffeac8d1d97ffd9eafd57]
 
 14th February 1996
 
@@ -251,6 +251,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-bcbeb82cbf4ffeac8d1d97ffd9eafd57]: Modification: [Order](https://www.legislation.gov.uk/nisi/1996/275): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-bcbeb82cbf4ffeac8d1d97ffd9eafd57]: Modification: [Order](https://www.legislation.gov.uk/nisi/1996/275): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
 [^c22558441]: Textual amendment: [Arts. 14-14G](https://www.legislation.gov.uk/nisi/1996/275/article/14) substituted (6.2.2015) for art. 14 by [Gas and Electricity Licence Modification and Appeals Regulations (Northern Ireland) 2015 (S.R. 2015/1)](https://www.legislation.gov.uk/nisr/2015/1), [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/1/regulation/3/1) (with [reg. 5](https://www.legislation.gov.uk/nisr/2015/1/regulation/5))

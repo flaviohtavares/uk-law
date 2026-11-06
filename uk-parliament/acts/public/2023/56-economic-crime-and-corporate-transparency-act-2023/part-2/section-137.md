@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Material not available for public inspection[^key-3435a7cb219011ef056f5e950c33e72d]
+## 137. Material not available for public inspection[^c-3435a7cb219011ef056f5e950c33e72d]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3435a7cb219011ef056f5e950c33e72d]: Commencement: S. 137 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-3435a7cb219011ef056f5e950c33e72d]: Commencement: S. 137 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

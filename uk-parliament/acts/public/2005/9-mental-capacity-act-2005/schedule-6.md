@@ -152,7 +152,7 @@ Section 67(1)
 
 ### Industrial and Provident Societies Act 1965 (c. 12)
 
-**11.**[^key-3b371ade80900c3a4aba223a84ee02e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3b371ade80900c3a4aba223a84ee02e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Compulsory Purchase Act 1965 (c. 56)
 
@@ -351,7 +351,7 @@ Section 67(1)
 
 **31.** (1) The Insolvency Act 1986 (c. 45) is amended as follows.
 
-(2)[^key-c60a73d610476a060f3b24965f0c0565] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c60a73d610476a060f3b24965f0c0565] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 390 (people not qualified to be insolvency practitioners), in subsection (4)—
 
@@ -529,7 +529,7 @@ Section 67(1)
 
 ### Access to Justice Act 1999 (c. 22)
 
-**44.**[^key-b134d22960f2c2d788c3ebefcb7b1d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-b134d22960f2c2d788c3ebefcb7b1d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adoption and Children Act 2002 (c. 38)
 
@@ -574,10 +574,10 @@ Section 67(1)
 
 ## Annotations
 
-[^key-3b371ade80900c3a4aba223a84ee02e1]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/11) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-3b371ade80900c3a4aba223a84ee02e1]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/11) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c2091743]: Textual amendment: [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/22/2) repealed (1.10.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)) (as amended by [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25), [Sch. 21 para. 97](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/97), [Sch. 23 Pt. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/9)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-c60a73d610476a060f3b24965f0c0565]: Textual amendment: [Sch. 6 para. 31(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/31/2) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 20(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20/4); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-c60a73d610476a060f3b24965f0c0565]: Textual amendment: [Sch. 6 para. 31(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/31/2) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 20(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20/4); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-b134d22960f2c2d788c3ebefcb7b1d9c]: Textual amendment: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/44) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-b134d22960f2c2d788c3ebefcb7b1d9c]: Textual amendment: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/44) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

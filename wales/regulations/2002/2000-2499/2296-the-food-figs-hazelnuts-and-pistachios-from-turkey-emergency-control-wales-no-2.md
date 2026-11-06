@@ -52,7 +52,7 @@ The National Assembly for Wales, being designated[^c8716021] for the purposes of
 (1) In these Regulations—
 
 - “the Act” means the Food Safety Act 1990 [^c8716041] and, save where the context otherwise requires and subject to paragraph (2), any expression used both in these Regulations and in the Act has the meaning it bears in the Act;
-- “the Commission Decision” means Commission Decision[^key-4ff49869952f4b5c7188ac8b047eeb60] [2002/80/EC](https://www.legislation.gov.uk/eud/2002/80) imposing special conditions on the import of figs, hazelnuts and pistachios and certain products derived thereof originating in or consigned from Turkey as amended by Commission Decision [2002/233/EC](https://www.legislation.gov.uk/eud/2002/233), Commission Decision [2002/679/EC](https://www.legislation.gov.uk/eud/2002/679), Commission Decision [2003/552/EC](https://www.legislation.gov.uk/eud/2003/552) and Commission Decision [2004/429/EC](https://www.legislation.gov.uk/eud/2004/429) amending Decisions [97/830/EC](https://www.legislation.gov.uk/eud/1997/830), [2000/49/EC](https://www.legislation.gov.uk/eud/2000/49), [2002/79/EC](https://www.legislation.gov.uk/eud/2002/79) and [2002/80/EC](https://www.legislation.gov.uk/eud/2002/80) as regards the points of entry through which the products concerned may only be imported into the Community;
+- “the Commission Decision” means Commission Decision[^c-4ff49869952f4b5c7188ac8b047eeb60] [2002/80/EC](https://www.legislation.gov.uk/eud/2002/80) imposing special conditions on the import of figs, hazelnuts and pistachios and certain products derived thereof originating in or consigned from Turkey as amended by Commission Decision [2002/233/EC](https://www.legislation.gov.uk/eud/2002/233), Commission Decision [2002/679/EC](https://www.legislation.gov.uk/eud/2002/679), Commission Decision [2003/552/EC](https://www.legislation.gov.uk/eud/2003/552) and Commission Decision [2004/429/EC](https://www.legislation.gov.uk/eud/2004/429) amending Decisions [97/830/EC](https://www.legislation.gov.uk/eud/1997/830), [2000/49/EC](https://www.legislation.gov.uk/eud/2000/49), [2002/79/EC](https://www.legislation.gov.uk/eud/2002/79) and [2002/80/EC](https://www.legislation.gov.uk/eud/2002/80) as regards the points of entry through which the products concerned may only be imported into the Community;
 - “controlled Turkish products” means Turkish products which are intended for human consumption or to be used as an ingredient in foodstuffs;
 - “Directive [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)” means Commission Directive [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53) laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs [^c8716081] as amended by Commission Directive [2002/27/EC](https://www.legislation.gov.uk/eudr/2002/27) [^c8716091];
 - “food authority” does not include a port health authority;
@@ -85,7 +85,7 @@ The National Assembly for Wales, being designated[^c8716021] for the purposes of
 - (a) ensure that the requirements referred to in paragraph (4) are adhered to; and
 - (b) have the same powers of entry as are bestowed on an authorised officer of an enforcement authority by section 32 of the Act for purposes connected with the Act or Regulations or Orders made under the Act.
 
-(4)[^key-22970d0545cce8378079f2c588503c53] The requirements are those specified in —
+(4)[^c-22970d0545cce8378079f2c588503c53] The requirements are those specified in —
 
 - (a) Article 1.4 of the Commission Decision (which is concerned with documentary checks relating to consignments of controlled Turkish products);
 - (b) Article 1.5 and 1.6 of that Decision (which provisions are concerned with the sampling and analysis of such consignments), other than the requirement under Article 1.5 to supply the Commission with specified information; and
@@ -211,7 +211,7 @@ These Regulations have been made in English only as, given the urgency with whic
 
 [^c8716041]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-4ff49869952f4b5c7188ac8b047eeb60]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/2296/regulation/2/1) substituted (31.7.2004) by [The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1804)](https://www.legislation.gov.uk/wsi/2004/1804), [regs. 1](https://www.legislation.gov.uk/wsi/2004/1804/regulation/1), [3](https://www.legislation.gov.uk/wsi/2004/1804/regulation/3)
+[^c-4ff49869952f4b5c7188ac8b047eeb60]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/2296/regulation/2/1) substituted (31.7.2004) by [The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1804)](https://www.legislation.gov.uk/wsi/2004/1804), [regs. 1](https://www.legislation.gov.uk/wsi/2004/1804/regulation/1), [3](https://www.legislation.gov.uk/wsi/2004/1804/regulation/3)
 
 [^c8716081]: Marginal citation: OJ No. L201, 17.7.1998, p.93.
 
@@ -219,7 +219,7 @@ These Regulations have been made in English only as, given the urgency with whic
 
 [^c8716101]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-22970d0545cce8378079f2c588503c53]: Textual amendment: Reg. 4(4) substituted (6.9.2003) by [The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) (Amendment) Regulations 2003 (S.I. 2003/2292)](https://www.legislation.gov.uk/uksi/2003/2292), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2292/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2292/regulation/2/3)
+[^c-22970d0545cce8378079f2c588503c53]: Textual amendment: Reg. 4(4) substituted (6.9.2003) by [The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) (Amendment) Regulations 2003 (S.I. 2003/2292)](https://www.legislation.gov.uk/uksi/2003/2292), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2292/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2292/regulation/2/3)
 
 [^c8716111]: Marginal citation: OJ No L290, 24.11.93, p.14.
 

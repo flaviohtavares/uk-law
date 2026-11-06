@@ -37,7 +37,7 @@ Social Care, England
 
 Public Health, England
 
-The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 (revoked)[^key-1e9822589a434dd0f7e63ec9e2c23842]
+The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 (revoked)[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 Made
 
@@ -47,43 +47,43 @@ Coming into force
 
 11th November 2021
 
-[^key-1e9822589a434dd0f7e63ec9e2c23842]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e9822589a434dd0f7e63ec9e2c23842]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 1. Citation and commencement[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent and application[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 2. Extent and application[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 3. Amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 2 (interpretation)[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 4. Amendment of regulation 2 (interpretation)[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 12 (safe care and treatment)[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 5. Amendment of regulation 12 (safe care and treatment)[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 17 (good governance)[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 6. Amendment of regulation 17 (good governance)[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Review[^key-1e9822589a434dd0f7e63ec9e2c23842]
+## 7. Review[^c-1e9822589a434dd0f7e63ec9e2c23842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e9822589a434dd0f7e63ec9e2c23842]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e9822589a434dd0f7e63ec9e2c23842]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-1e9822589a434dd0f7e63ec9e2c23842]EXPLANATORY NOTE
+[^c-1e9822589a434dd0f7e63ec9e2c23842]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -107,4 +107,4 @@ A full impact assessment has not been published with this instrument. An Impact 
 
 ## Annotations
 
-[^key-1e9822589a434dd0f7e63ec9e2c23842]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/891) revoked (15.3.2022) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/206/regulation/3/a)
+[^c-1e9822589a434dd0f7e63ec9e2c23842]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/891) revoked (15.3.2022) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/206/regulation/3/a)

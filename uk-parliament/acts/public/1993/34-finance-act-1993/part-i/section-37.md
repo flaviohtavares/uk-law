@@ -23,7 +23,7 @@ summary: ''
 (1) Notwithstanding any obligation not to disclose information that would otherwise apply, the Commissioners may disclose information—
 
 - (a) to the Secretary of State,
-- (b) to the Gambling Commission[^key-b4e2a1b8df3d46aea9d4b46f8513445d], or
+- (b) to the Gambling Commission[^c-b4e2a1b8df3d46aea9d4b46f8513445d], or
 - (c) to an authorised officer of the Secretary of State or Gambling Commission,
 
 for the purpose of assisting the Secretary of State or Gambling Commission (as the case may be) in the performance of duties imposed by or under any enactment in relation to lotteries.
@@ -31,7 +31,7 @@ for the purpose of assisting the Secretary of State or Gambling Commission (as t
 (2) Notwithstanding any such obligation as is mentioned in subsection (1) above—
 
 - (a) the Secretary of State,
-- (b) the Gambling Commission[^key-fcf2baaef5d3c7414ab4e78a4fa51f57] , or
+- (b) the Gambling Commission[^c-fcf2baaef5d3c7414ab4e78a4fa51f57] , or
 - (c) an authorised officer of the Secretary of State or Gambling Commission,
 
 may disclose information to the Commissioners or to an authorised officer of the Commissioners for the purpose of assisting the Commissioners in the performance of duties in relation to lottery duty.
@@ -47,6 +47,6 @@ may disclose information to the Commissioners or to an authorised officer of the
 
 ## Annotations
 
-[^key-b4e2a1b8df3d46aea9d4b46f8513445d]: Textual amendment: Words in s. 37(1) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 15(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/15/a), [23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
+[^c-b4e2a1b8df3d46aea9d4b46f8513445d]: Textual amendment: Words in s. 37(1) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 15(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/15/a), [23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
 
-[^key-fcf2baaef5d3c7414ab4e78a4fa51f57]: Textual amendment: Words in s. 37(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 15(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/15/b), [23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
+[^c-fcf2baaef5d3c7414ab4e78a4fa51f57]: Textual amendment: Words in s. 37(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 15(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/15/b), [23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)

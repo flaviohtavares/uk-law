@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 944E. Modified application of section 303D[^key-20669f415c994d4709469b5e0141bd33]
+## 944E. Modified application of section 303D[^c-20669f415c994d4709469b5e0141bd33]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20669f415c994d4709469b5e0141bd33]: Textual amendment: [Ss. 944A-944E](https://www.legislation.gov.uk/ukpga/2010/4/section/944A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/65)
+[^c-20669f415c994d4709469b5e0141bd33]: Textual amendment: [Ss. 944A-944E](https://www.legislation.gov.uk/ukpga/2010/4/section/944A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/65)

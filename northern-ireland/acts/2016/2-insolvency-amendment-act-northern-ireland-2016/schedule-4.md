@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — REPEALS[^key-b00c8ce6dd8d84d778fc33283abeaa54][^key-4e02cd55ff87f1722962e9794493239b]
+## SCHEDULE 4 — REPEALS[^c-b00c8ce6dd8d84d778fc33283abeaa54][^c-4e02cd55ff87f1722962e9794493239b]
 
 *Extent: N.I.*
 
@@ -79,6 +79,6 @@ Section 27(3).
 
 ## Annotations
 
-[^key-b00c8ce6dd8d84d778fc33283abeaa54]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) in operation at 1.4.2016 for specified purposes by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-b00c8ce6dd8d84d778fc33283abeaa54]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) in operation at 1.4.2016 for specified purposes by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-4e02cd55ff87f1722962e9794493239b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) in operation at 4.11.2020 for specified purposes by [S.R. 2020/236](https://www.legislation.gov.uk/nisr/2020/236), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/236/article/2/c)
+[^c-4e02cd55ff87f1722962e9794493239b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) in operation at 4.11.2020 for specified purposes by [S.R. 2020/236](https://www.legislation.gov.uk/nisr/2020/236), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/236/article/2/c)

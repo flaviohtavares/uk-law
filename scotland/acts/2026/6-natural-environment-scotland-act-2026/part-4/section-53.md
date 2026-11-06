@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Forestry: offence of unauthorised felling[^key-d1c625c3a327aff7a914f5a4eedefdb5][^key-4172f6d46ddb4ae1ee6929c1b73bba19]
+## 53. Forestry: offence of unauthorised felling[^c-d1c625c3a327aff7a914f5a4eedefdb5][^c-4172f6d46ddb4ae1ee6929c1b73bba19]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1c625c3a327aff7a914f5a4eedefdb5]: Commencement: S. 53 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-d1c625c3a327aff7a914f5a4eedefdb5]: Commencement: S. 53 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-4172f6d46ddb4ae1ee6929c1b73bba19]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2026/6/section/53) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z8)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z8)
+[^c-4172f6d46ddb4ae1ee6929c1b73bba19]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2026/6/section/53) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z8)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Notices arising from an application[^key-0144c14e28666f5ccf36581428a52668]
+## 7. Notices arising from an application[^c-0144c14e28666f5ccf36581428a52668]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ must be notified to the applicant by service of a notice on the applicant.
 
 ## Annotations
 
-[^key-0144c14e28666f5ccf36581428a52668]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/84/regulation/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-0144c14e28666f5ccf36581428a52668]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/84/regulation/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

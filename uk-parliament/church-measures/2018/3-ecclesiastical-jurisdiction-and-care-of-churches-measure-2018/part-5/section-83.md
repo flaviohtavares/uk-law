@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 83. Rule Committee: powers to make rules[^key-c0378d4c83251f86cd5b447777944e4a][^key-a8d5eff4a6d4534be09bf134afc9129c]
+## 83. Rule Committee: powers to make rules[^c-c0378d4c83251f86cd5b447777944e4a][^c-a8d5eff4a6d4534be09bf134afc9129c]
 
 *Extent: E*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0378d4c83251f86cd5b447777944e4a]: Commencement: [S. 83](https://www.legislation.gov.uk/ukcm/2018/3/section/83) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c0378d4c83251f86cd5b447777944e4a]: Commencement: [S. 83](https://www.legislation.gov.uk/ukcm/2018/3/section/83) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-a8d5eff4a6d4534be09bf134afc9129c]: Modification: [S. 83](https://www.legislation.gov.uk/ukcm/2018/3/section/83) applied (18.12.2025) by [Abuse Redress Measure 2025 (No. 4)](https://www.legislation.gov.uk/ukcm/2025/4), [ss. 29(5)](https://www.legislation.gov.uk/ukcm/2025/4/section/29/5)[(6)](https://www.legislation.gov.uk/ukcm/2025/4/section/29/6), [33(2)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/2)
+[^c-a8d5eff4a6d4534be09bf134afc9129c]: Modification: [S. 83](https://www.legislation.gov.uk/ukcm/2018/3/section/83) applied (18.12.2025) by [Abuse Redress Measure 2025 (No. 4)](https://www.legislation.gov.uk/ukcm/2025/4), [ss. 29(5)](https://www.legislation.gov.uk/ukcm/2025/4/section/29/5)[(6)](https://www.legislation.gov.uk/ukcm/2025/4/section/29/6), [33(2)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/2)

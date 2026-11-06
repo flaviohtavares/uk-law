@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Other provision to be made by regulations[^key-3c7751a8b676b2ae2621bd00b8282080]
+## 63. Other provision to be made by regulations[^c-3c7751a8b676b2ae2621bd00b8282080]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7751a8b676b2ae2621bd00b8282080]: Commencement: S. 63 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3c7751a8b676b2ae2621bd00b8282080]: Commencement: S. 63 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

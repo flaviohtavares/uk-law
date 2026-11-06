@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Information for calculating earned income – real time information etc.[^key-f2516593315a67ccbb56c314e25f1ef7]
+## 61. Information for calculating earned income – real time information etc.[^c-f2516593315a67ccbb56c314e25f1ef7]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ Consequential adjustments
 
 ## Annotations
 
-[^key-f2516593315a67ccbb56c314e25f1ef7]: Textual amendment: [Reg. 61](https://www.legislation.gov.uk/uksi/2013/376/regulation/61) substituted (16.11.2020) by [The Universal Credit (Earned Income) Amendment Regulations 2020 (S.I. 2020/1138)](https://www.legislation.gov.uk/uksi/2020/1138), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1138/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1138/regulation/2)
+[^c-f2516593315a67ccbb56c314e25f1ef7]: Textual amendment: [Reg. 61](https://www.legislation.gov.uk/uksi/2013/376/regulation/61) substituted (16.11.2020) by [The Universal Credit (Earned Income) Amendment Regulations 2020 (S.I. 2020/1138)](https://www.legislation.gov.uk/uksi/2020/1138), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1138/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1138/regulation/2)

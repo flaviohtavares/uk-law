@@ -32,7 +32,7 @@ summary: ''
 - (a) referred to in the Part 1 warrant, if the arrest was under a Part 1 warrant;
 - (b) in respect of which the constable has reasonable grounds for believing that a Part 1 warrant has been or will be issued, if the arrest was under section 5;
 - (c) in respect of which extradition is requested, if the arrest was under a warrant issued under section 71;
-- (d) of which the person is accused, if the arrest was under a provisional warrant or under section 74A[^key-6a94bdae1a617fbc39dc9698d1bab4e4].
+- (d) of which the person is accused, if the arrest was under a provisional warrant or under section 74A[^c-6a94bdae1a617fbc39dc9698d1bab4e4].
 
 (4) The power to search conferred by subsection (2)—
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c2087234]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-6a94bdae1a617fbc39dc9698d1bab4e4]: Textual amendment: Words in s. 162(3)(d) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/16); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-6a94bdae1a617fbc39dc9698d1bab4e4]: Textual amendment: Words in s. 162(3)(d) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/16); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

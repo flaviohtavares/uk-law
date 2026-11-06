@@ -49,7 +49,7 @@ In accordance with sections 217(6), 221(1), 223(2) and 224(5) of that Act[^f0000
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-05e416f44e44c6020a311dfbe82413ad][^key-05e416f44e44c6020a311dfbe82413ad]
+### 1. Citation, commencement and extent[^c-05e416f44e44c6020a311dfbe82413ad][^c-05e416f44e44c6020a311dfbe82413ad]
 
 (1) These Regulations may be cited as the Heat Networks (Market Framework) (Great Britain) Regulations 2025.
 
@@ -86,7 +86,7 @@ In accordance with sections 217(6), 221(1), 223(2) and 224(5) of that Act[^f0000
 
 (7) Regulation 68 (Part 1 of the Heat Networks (Scotland) Act 2021 amended) extends to Scotland only.
 
-### 2. Interpretation[^key-0127f7168b62425e5e8d0381e583b51c][^key-0127f7168b62425e5e8d0381e583b51c]
+### 2. Interpretation[^c-0127f7168b62425e5e8d0381e583b51c][^c-0127f7168b62425e5e8d0381e583b51c]
 
 In these Regulations—
 
@@ -97,10 +97,10 @@ In these Regulations—
 - “**Citizens Advice**” means the National Association of Citizens Advice Bureaux[^f00009];
 - “**Citizens Advice Scotland**” means the Scottish Association of Citizens Advice Bureaux[^f00010];
 - “**consumer**” includes a future consumer;
-- “**the court**” means , except in Part 7A,[^key-578278d06a6a130b382493f1e0b6351f] the High Court in relation to England and Wales and the Court of Session in relation to Scotland;
+- “**the court**” means , except in Part 7A,[^c-578278d06a6a130b382493f1e0b6351f] the High Court in relation to England and Wales and the Court of Session in relation to Scotland;
 - “**delegate**”, in relation to the Regulator, has the meaning given in regulation 5 (power for the Regulator to delegate functions);
 - “**general authorisation conditions**” means conditions that have effect as such by virtue of regulation 18 (general authorisation conditions);
-- “[^key-7ca3ffc831441b2eec43004f80c006e1]**heat network administration order**” has the meaning given in regulation 59B;
+- “[^c-7ca3ffc831441b2eec43004f80c006e1]**heat network administration order**” has the meaning given in regulation 59B;
 - “**heat network administrator**” has the meaning given in regulation 59B;
 - “**heat network consumer**” means a consumer in relation to heating, cooling or hot water supplied by means of a relevant heat network, including a person who takes a supply of heating, cooling or hot water from one relevant heat network for the purpose of supplying another[^f00011];
 - “initial period” and “first part of the initial period” have the meanings given in regulation 26 (initial period);
@@ -114,7 +114,7 @@ In these Regulations—
 - “**relevant requirement**” has the meaning given by paragraph 37(6) of Schedule 18 to the Energy Act 2023 except that, for the purposes of regulations 37 to 44 (consumer redress orders), it does not include standards of performance prescribed or determined under Chapter 1 of Part 6 (standards of performance);
 - “**specific authorisation conditions**” means conditions determined by the Regulator under regulation 19 (specific authorisation conditions).
 
-### 2A. Regulations do not apply to certain communal heat networks providing air-conditioning[^key-9255b54a7dc2915deb41727114bfed5f]
+### 2A. Regulations do not apply to certain communal heat networks providing air-conditioning[^c-9255b54a7dc2915deb41727114bfed5f]
 
 (1) These Regulations do not apply to a communal heat network by means of which cooling is supplied if—
 
@@ -123,19 +123,19 @@ In these Regulations—
 
 (2) Accordingly, in these Regulations, “relevant heat network” does not include a communal heat network referred to in paragraph (1).
 
-### 3. Service of notices[^key-8226698e74da2ff74fb9ffc8fdeebc55]
+### 3. Service of notices[^c-8226698e74da2ff74fb9ffc8fdeebc55]
 
 Schedule 1 makes provision about service of notices and other documents by the Regulator.
 
 ## PART 2 — The Regulator
 
-### 4. Specified functions to be carried out by the Secretary of State[^key-4dfb58fa78727cfa35428d7e625dc17e][^key-1b075162b2e64a97f68bedfe501f9d6b][^key-4dfb58fa78727cfa35428d7e625dc17e]
+### 4. Specified functions to be carried out by the Secretary of State[^c-4dfb58fa78727cfa35428d7e625dc17e][^c-1b075162b2e64a97f68bedfe501f9d6b][^c-4dfb58fa78727cfa35428d7e625dc17e]
 
 (1) Without prejudice to the generality of regulation 18 (general authorisation conditions) as regards the Secretary of State’s powers, the Secretary of State and not the GEMA has the function of determining and enforcing general authorisation conditions related to accuracy of heat meters, and references to “the Regulator” are to be construed accordingly.
 
 (2) In this regulation, “**heat meter**” means an instrument designed to measure, memorise and display the consumption of heating, cooling or hot water by a heat network consumer.
 
-### 5. Power for the Regulator to delegate functions[^key-0aa17f66a0a28537ca9d9398dcfd8d06][^key-147d0be53fb7bb9b129a131a329b54d8][^key-0aa17f66a0a28537ca9d9398dcfd8d06]
+### 5. Power for the Regulator to delegate functions[^c-0aa17f66a0a28537ca9d9398dcfd8d06][^c-147d0be53fb7bb9b129a131a329b54d8][^c-0aa17f66a0a28537ca9d9398dcfd8d06]
 
 (1) The Regulator may, with the agreement of another person, delegate to that person (“the delegate”) any function conferred on the Regulator by these Regulations other than a function conferred by regulation 49 (inspections).
 
@@ -150,7 +150,7 @@ Schedule 1 makes provision about service of notices and other documents by the R
 
 (4) A person carrying out a delegated function must comply with any duties specified in the delegation.
 
-### 6. Principal objective of the Regulator[^key-4a80b86745e33a56bfae0f2bd384ae0a][^key-7eab4abaa342133c9d541b677c0d9438][^key-4a80b86745e33a56bfae0f2bd384ae0a]
+### 6. Principal objective of the Regulator[^c-4a80b86745e33a56bfae0f2bd384ae0a][^c-7eab4abaa342133c9d541b677c0d9438][^c-4a80b86745e33a56bfae0f2bd384ae0a]
 
 (1) The principal objective of the Regulator in carrying out its functions under these Regulations is to protect the interests of heat network consumers.
 
@@ -163,7 +163,7 @@ Schedule 1 makes provision about service of notices and other documents by the R
 
 (3) References in this regulation and in regulations 7 (general duties of the Regulator) and 8 (duty of the Regulator and others to have regard to interests of consumers) to functions of the Regulator under these Regulations include references to any functions of the GEMA under section 5A of the Utilities Act 2000[^f00014] that are exercisable in relation to a proposal to do anything for the purposes of, or in connection with, the carrying out of any function of the GEMA under these Regulations.
 
-### 7. General duties of the Regulator[^key-fb1e1d73cfe0e23b03c64cb75274a48d][^key-d066330f0040da264010501679c72347][^key-fb1e1d73cfe0e23b03c64cb75274a48d]
+### 7. General duties of the Regulator[^c-fb1e1d73cfe0e23b03c64cb75274a48d][^c-d066330f0040da264010501679c72347][^c-fb1e1d73cfe0e23b03c64cb75274a48d]
 
 (1) The Regulator or a delegate of the Regulator must—
 
@@ -177,7 +177,7 @@ Schedule 1 makes provision about service of notices and other documents by the R
 - (b) the supply of heating, cooling or hot water to heat network consumers by means of a relevant heat network;
 - (c) commercial activities connected with the supply of heating, cooling or hot water to heat network consumers by means of a relevant heat network.
 
-### 8. Interests of other utility consumers[^key-11cf6bee1290160cdea9a21c850c5ef3][^key-5219b946c9c11e34cf22a9add2970714][^key-11cf6bee1290160cdea9a21c850c5ef3]
+### 8. Interests of other utility consumers[^c-11cf6bee1290160cdea9a21c850c5ef3][^c-5219b946c9c11e34cf22a9add2970714][^c-11cf6bee1290160cdea9a21c850c5ef3]
 
 (1) The Regulator or a delegate of the Regulator, in carrying out a function under these Regulations, may have regard to the interests of consumers in relation to—
 
@@ -188,13 +188,13 @@ Schedule 1 makes provision about service of notices and other documents by the R
 
 (2) A person or body exercising a regulatory function in a field mentioned in any sub-paragraph of paragraph (1) may have regard to the interests of heat network consumers.
 
-### 9. Monitoring and review[^key-87d719756cc7008c6061cc37bf8d82fb]
+### 9. Monitoring and review[^c-87d719756cc7008c6061cc37bf8d82fb]
 
 (1) The Regulator must keep under review the carrying on of regulated activities in relation to relevant heat networks in Great Britain.
 
 (2) The Regulator must, so far as it appears to it to be practicable from time to time to do so, monitor the carrying on of the activities mentioned in paragraph (1), and the persons by whom they are carried on, with a view to facilitating the exercise of its functions under these Regulations.
 
-### 10. Collecting information[^key-2d5f2ecc0b3adf087ec19dfcf36cf59e]
+### 10. Collecting information[^c-2d5f2ecc0b3adf087ec19dfcf36cf59e]
 
 (1) To enable the Regulator to comply with the duty in regulation 9 (monitoring and review), the Regulator may, by notice served on a person within paragraph 10(2), require that person to provide in the form and manner specified in the notice—
 
@@ -208,7 +208,7 @@ Schedule 1 makes provision about service of notices and other documents by the R
 
 (3) The notice must specify the time and place at which the person must provide the documents or information to the Regulator.
 
-### 11. Records[^key-5d3c186a7270c82d40abb96fb708a43c]
+### 11. Records[^c-5d3c186a7270c82d40abb96fb708a43c]
 
 (1) The Regulator must maintain records of information obtained under or by virtue of these Regulations relating to—
 
@@ -220,7 +220,7 @@ Schedule 1 makes provision about service of notices and other documents by the R
 
 (3) This regulation does not affect the operation of the Public Records Act 1958[^f00019] or the data protection legislation (within the meaning of the Data Protection Act 2018[^f00020]).
 
-### 12. Publication of advice, guidance, information and list of authorised persons by the Regulator[^key-e11609184f955e92fc36c7dfc5bb9fa8]
+### 12. Publication of advice, guidance, information and list of authorised persons by the Regulator[^c-e11609184f955e92fc36c7dfc5bb9fa8]
 
 (1) If it appears to the Regulator that the publication of any advice, guidance or information would promote the interests of heat network consumers, the Regulator may publish that advice, guidance or information in such manner as it thinks fit.
 
@@ -235,7 +235,7 @@ Schedule 1 makes provision about service of notices and other documents by the R
 
 ## PART 3 — Authorisations
 
-### 13. Meaning of regulated activity[^key-4a833ad830ebe519995baf21980c6c09][^key-4a833ad830ebe519995baf21980c6c09]
+### 13. Meaning of regulated activity[^c-4a833ad830ebe519995baf21980c6c09][^c-4a833ad830ebe519995baf21980c6c09]
 
 (1) Subject to paragraph (2), “**regulated activity**” means—
 
@@ -261,11 +261,11 @@ Schedule 1 makes provision about service of notices and other documents by the R
 - “**house in multiple occupation**” means a building or a part of a building within any of paragraphs (a) to (d) of subsection (1) of section 254 of the Housing Act 2004 (or that would be within any of those paragraphs if section 254 extended to Scotland);
 - “**source appliance**”, in relation to a relevant heat network, means an appliance the main purpose of which is to heat or cool the liquid or gas that is distributed in the network.
 
-### 14. Prohibition on carrying on a regulated activity without authorisation[^key-0c35252eef979cc49b31ebbe0ef181ca]
+### 14. Prohibition on carrying on a regulated activity without authorisation[^c-0c35252eef979cc49b31ebbe0ef181ca]
 
 A person must not carry on a regulated activity, except as permitted by virtue of a heat network authorisation (but see regulation 27 which provides for deemed heat network authorisations).
 
-### 15. Regulator’s regulations in relation to application for a heat network authorisation[^key-20adc1822863358af4ecc3051c4d0065][^key-20adc1822863358af4ecc3051c4d0065]
+### 15. Regulator’s regulations in relation to application for a heat network authorisation[^c-20adc1822863358af4ecc3051c4d0065][^c-20adc1822863358af4ecc3051c4d0065]
 
 (1) The Regulator must prescribe one or more of the following—
 
@@ -276,7 +276,7 @@ A person must not carry on a regulated activity, except as permitted by virtue o
 
 (2) In this regulation, “**prescribe**” means prescribe in regulations made by statutory instrument.
 
-### 16. Conferral of heat network authorisations[^key-f65eb7fefd2297888f3c9092e89f32ce]
+### 16. Conferral of heat network authorisations[^c-f65eb7fefd2297888f3c9092e89f32ce]
 
 (1) The Regulator may confer a heat network authorisation on an applicant if the application is made in accordance with the Regulator’s regulations.
 
@@ -295,7 +295,7 @@ A person must not carry on a regulated activity, except as permitted by virtue o
 
 (7) A heat network authorisation conferred under this regulation remains in force except to the extent that it is modified or revoked or otherwise ceases to have effect under this Part.
 
-### 17. Temporary authorisations[^key-0638a3d0c92e393a4160c59b8d229ba4]
+### 17. Temporary authorisations[^c-0638a3d0c92e393a4160c59b8d229ba4]
 
 (1) The Regulator may confer a heat network authorisation on an applicant on a temporary basis for a specified period (“temporary authorisation”) where it requires more time to determine—
 
@@ -310,7 +310,7 @@ A person must not carry on a regulated activity, except as permitted by virtue o
 
 (3) In this regulation, “**specified period**” means a period specified in the temporary authorisation.
 
-### 18. General authorisation conditions[^key-3c31691b0cbfe8c4051b079f8751b50b][^key-3c31691b0cbfe8c4051b079f8751b50b]
+### 18. General authorisation conditions[^c-3c31691b0cbfe8c4051b079f8751b50b][^c-3c31691b0cbfe8c4051b079f8751b50b]
 
 (1) A regulatory authority may determine conditions to be included in—
 
@@ -337,13 +337,13 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (7) In this regulation, “**regulatory authority**” means the Regulator or the Secretary of State.
 
-### 19. Specific authorisation conditions[^key-d3f8f01a287fe7923e48c10e979e6be5]
+### 19. Specific authorisation conditions[^c-d3f8f01a287fe7923e48c10e979e6be5]
 
 (1) The Regulator may determine conditions to be included in a particular heat network authorisation that are specific to that authorisation (“specific authorisation conditions”).
 
 (2) The Regulator must send to the authorised person any specific authorisation conditions that apply to that person.
 
-### 20. Scope of authorisation conditions[^key-188ec89ce4590ecc932e420ece31b1cf][^key-188ec89ce4590ecc932e420ece31b1cf]
+### 20. Scope of authorisation conditions[^c-188ec89ce4590ecc932e420ece31b1cf][^c-188ec89ce4590ecc932e420ece31b1cf]
 
 (1) General authorisation conditions or specific authorisation conditions may include—
 
@@ -351,9 +351,9 @@ but, subject to regulation 27(5), any modification of general authorisation cond
   - (i) the Regulator;
   - (ii) Citizens Advice, Citizens Advice Scotland or Consumer Scotland; or
   - (iii) the operator of a redress scheme for the purposes of section 47 of the Consumers, Estate Agents and Redress Act 2007 as applied by regulation 56(7) of these Regulations;
-- (b) conditions about the terms on which premises are connected to , or supplied by means of,[^key-e198c36431fdf26c85533330ef4445cf] a relevant heat network;
-- (c) conditions requiring an authorised person to make an offer of connection or supply[^key-34bf3db61082779d633509310ebf4d7f] to premises when asked to do so by the owner, occupier or a party acting on their behalf;
-- (d) conditions about installing and maintaining , and the operation of,[^key-2cf39e3eef88b5664083799129aaf861] equipment for measuring, displaying, recording and regulating consumption of heating, cooling and hot water supplied by means of a relevant heat network;
+- (b) conditions about the terms on which premises are connected to , or supplied by means of,[^c-e198c36431fdf26c85533330ef4445cf] a relevant heat network;
+- (c) conditions requiring an authorised person to make an offer of connection or supply[^c-34bf3db61082779d633509310ebf4d7f] to premises when asked to do so by the owner, occupier or a party acting on their behalf;
+- (d) conditions about installing and maintaining , and the operation of,[^c-2cf39e3eef88b5664083799129aaf861] equipment for measuring, displaying, recording and regulating consumption of heating, cooling and hot water supplied by means of a relevant heat network;
 - (e) conditions about—
   - (i) the charges payable by heat network consumers, including—
     - (aa) a condition that an authorised person must not charge domestic heat network consumers an amount that exceeds a specified price cap;
@@ -364,11 +364,11 @@ but, subject to regulation 27(5), any modification of general authorisation cond
     - (cc) a condition that makes provision about the charges that may be made in respect of the costs of providing bills and such information and explanatory material;
   - (iii) service standards (including standards for handling complaints);
   - (iv) the communication of information about the heat network, the services provided or the terms on which the services are provided;
-  - (v)[^key-2973536a0bed677c096d8f5b301e6882] the conduct of authorised persons towards heat network consumers or in relation to premises connected, or proposed to be connected, to a relevant heat network, including—
+  - (v)[^c-2973536a0bed677c096d8f5b301e6882] the conduct of authorised persons towards heat network consumers or in relation to premises connected, or proposed to be connected, to a relevant heat network, including—
     - (aa) a condition about conduct if payments relating to the supply of heating, cooling or hot water are not made (including restricting when premises may be disconnected);
     - (bb) a condition requiring credit to be provided to heat network consumers with pre-payment meters;
 - (f) conditions relating to price regulation (including by means of regulation of charges or profits);
-- (g) conditions about complying with technical standards including technical standards (including those for which provision is made in a designated document[^key-f9e0602e197d9e43b844a9fd7b4a7bd8] relating to—
+- (g) conditions about complying with technical standards including technical standards (including those for which provision is made in a designated document[^c-f9e0602e197d9e43b844a9fd7b4a7bd8] relating to—
   - (i) the design, construction, commissioning, operation or maintenance of a relevant heat network;
   - (ii) the decommissioning of a relevant heat network;
   - (iii) equipment or materials used in the construction, operation or maintenance of a relevant heat network;
@@ -378,7 +378,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 - (j) conditions about the payment of fees to the Regulator, including conditions about the payment of fees—
   - (i) in connection with the conferring of an authorisation;
   - (ii) while an authorisation continues to be in force in relation to a person;
-- (ja)[^key-378591281479274076953f0b3210d819] conditions requiring an authorised person to comply with the provisions of a designated document;
+- (ja)[^c-378591281479274076953f0b3210d819] conditions requiring an authorised person to comply with the provisions of a designated document;
 - (jb) conditions—
   - (i) requiring an authorised person to pay such sums relating to the costs of a heat network administration order as may be determined by the Secretary of State under the conditions to such persons as may be so determined for the purpose of—
     - (aa) enabling the Secretary of State to recover losses and expenses referred to in paragraph (5)(a);
@@ -398,14 +398,14 @@ but, subject to regulation 27(5), any modification of general authorisation cond
   - (i) any thing specified as falling to be done under the heat network authorisation; and
   - (ii) any specified contract or agreement made before the conferral of the heat network authorisation.
 
-(3A)[^key-214bcd0d8b1fcb0021fda635d7abec92] For the purpose of a condition referred to in paragraph (1)(e)(i)(bb) (disproportionate charges), the Regulator—
+(3A)[^c-214bcd0d8b1fcb0021fda635d7abec92] For the purpose of a condition referred to in paragraph (1)(e)(i)(bb) (disproportionate charges), the Regulator—
 
 - (a) may from time to time specify the methods that are to be used by the Regulator to determine whether charges are disproportionate; and
 - (b) must publish them in such manner as the Regulator thinks appropriate.
 
 (4) In this regulation, “**specified**” means specified in the condition.
 
-(5)[^key-8aa18143a4b57ea7b1944a14ce5a9fd2] For the purpose of this regulation, the costs of a heat network administration order are—
+(5)[^c-8aa18143a4b57ea7b1944a14ce5a9fd2] For the purpose of this regulation, the costs of a heat network administration order are—
 
 - (a) losses and expenses—
   - (i) that are incurred by the Secretary of State in, as a result of or in connection with giving relevant financial assistance—
@@ -425,7 +425,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 - (b) a sum paid by the Secretary of State in consequence of an indemnity given under section 166 of that Act, as so applied;
 - (c) a sum paid out by the Secretary of State under a guarantee given under section 167 of that Act, as so applied.
 
-### 21. Procedure for modifying general authorisation conditions[^key-250750b5c855f401077f1f069af79d3e]
+### 21. Procedure for modifying general authorisation conditions[^c-250750b5c855f401077f1f069af79d3e]
 
 (1) Subject to regulation 27(5) (deemed heat network authorisations), the Regulator must give notice of any proposed modification to general authorisation conditions by publishing, in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it, a notice setting out—
 
@@ -456,7 +456,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (11) Paragraph (2), so far as it comprises an obligation to send a notice to the Secretary of State, and paragraph (6) do not apply to the extent that the Regulator is the Secretary of State.
 
-### 22. Procedure for modifying specific authorisation conditions[^key-ee5cf638f72b4cbc50a1a94307ce0fb6]
+### 22. Procedure for modifying specific authorisation conditions[^c-ee5cf638f72b4cbc50a1a94307ce0fb6]
 
 (1) The Regulator must give notice of any proposed modification to specific authorisation conditions by sending a notice to the person whose heat network authorisation includes the conditions (“the relevant authorised person”).
 
@@ -478,7 +478,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (8) The date of effect may not be earlier than the day falling 28 days after the date the notice under paragraph (5) is sent.
 
-### 23. Modification of conditions under regulation 21 or 22: early effective date[^key-4ca62f6a273c97b85e98b170ea0f9e4d]
+### 23. Modification of conditions under regulation 21 or 22: early effective date[^c-4ca62f6a273c97b85e98b170ea0f9e4d]
 
 (1) The date specified by virtue of regulation 21(9) or 22(7) in relation to a modification under that regulation may fall before the end of the usual stand-still period if—
 
@@ -493,7 +493,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (3) In this regulation, “**the end of the usual stand-still period**” means the day falling 28 days after the date the notice under regulation 21(7) is published or the day falling 28 days after the date the notice under regulation 22(5) is sent, as the case may be.
 
-### 23A. Costs of heat network administration orders: Secretary of State may modify authorisation conditions[^key-3d26a1f2792a0fdbbb2d2e68ffc065df]
+### 23A. Costs of heat network administration orders: Secretary of State may modify authorisation conditions[^c-3d26a1f2792a0fdbbb2d2e68ffc065df]
 
 (1) The Secretary of State may make modifications to authorisation conditions to add, amend or revoke conditions referred to in regulation 20(1)(jb) (costs of heat network administration order).
 
@@ -501,7 +501,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (3) This regulation does not limit the Regulator’s powers under regulation 21 or 22.
 
-### 24. Transfer of heat network authorisations[^key-bb16cd5f948a2b96590662e13e0e910c]
+### 24. Transfer of heat network authorisations[^c-bb16cd5f948a2b96590662e13e0e910c]
 
 (1) This regulation applies where—
 
@@ -522,7 +522,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 - (b) the existing authorisation to the extent it continues to be held by the transferring entity;
 - (c) any other authorisation held by the new entity.
 
-### 25. Review and revocation of heat network authorisations[^key-155dd8906fe899e6c13912e62c270be2]
+### 25. Review and revocation of heat network authorisations[^c-155dd8906fe899e6c13912e62c270be2]
 
 (1) The Regulator may review the conditions of, or the regulated activities carried out by virtue of, a heat network authorisation at any time while it is in force.
 
@@ -530,7 +530,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (3) A heat network authorisation ceases to have effect in whole or in part in the circumstances specified in or determined under the authorisation conditions.
 
-### 26. Initial period[^key-0856ac72b8b652f1059ae12cb558a0b6]
+### 26. Initial period[^c-0856ac72b8b652f1059ae12cb558a0b6]
 
 (1) In these Regulations, subject to paragraph (2)—
 
@@ -545,7 +545,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (5) The Regulator must publish notice of a decision to prolong the first part of the initial period or the initial period in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
 
-### 27. Deemed heat network authorisations[^key-1aea6cd92031d9af57ee2cc762f35b61]
+### 27. Deemed heat network authorisations[^c-1aea6cd92031d9af57ee2cc762f35b61]
 
 (1) A person who carries on a regulated activity in relation to a relevant heat network before the end of the first part of the initial period is to be treated as holding a heat network authorisation in relation to that activity and that relevant heat network during the initial period, with the heat network authorisation treated as conferred on the later of—
 
@@ -560,7 +560,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 (5) A heat network authorisation treated as conferred before the launch date is to be treated as modified on the launch date to include the general authorisation conditions that would have been included had the heat network authorisation been conferred under regulation 16 on the launch date.
 
-## PART 3A — Supply to premises[^key-f74cd170e7fd88bb2e61f9abd9b2ced5]
+## PART 3A — Supply to premises[^c-f74cd170e7fd88bb2e61f9abd9b2ced5]
 
 ### 27A. Deemed contracts
 
@@ -593,7 +593,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 
 ## PART 4 — Enforcement of conditions and requirements
 
-### 28. Orders for securing compliance[^key-30a7febf90b9fa2b2c6e8a4bb6e65f2f]
+### 28. Orders for securing compliance[^c-30a7febf90b9fa2b2c6e8a4bb6e65f2f]
 
 (1) Where the Regulator is satisfied that an authorised person is contravening or is likely to contravene an authorisation condition or a relevant requirement, it must by final order make such provision as is requisite for the purpose of securing compliance with that condition or requirement.
 
@@ -636,7 +636,7 @@ but, subject to regulation 27(5), any modification of general authorisation cond
 - (a) “**final order**” means an order under this regulation other than a provisional order;
 - (b) “**provisional order**” means an order under this regulation which, if not previously confirmed, will cease to have effect at the end of such period (not exceeding 12 months) as is determined by or under the order.
 
-### 29. Procedure for final and provisional orders[^key-481c1db7276abee763916eaeed531680]
+### 29. Procedure for final and provisional orders[^c-481c1db7276abee763916eaeed531680]
 
 (1) Before it makes a final order or confirms a provisional order, the Regulator must give notice—
 
@@ -684,7 +684,7 @@ and must consider any representations or objections which are duly made and not 
 - (a) by publishing the notice in such manner as the Regulator considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them; and
 - (b) by serving a copy of the notice on the authorised person.
 
-### 30. Validity and effect of orders[^key-26261e41109eac656e2c90a3dde4c56e]
+### 30. Validity and effect of orders[^c-26261e41109eac656e2c90a3dde4c56e]
 
 (1) An authorised person to whom a final or provisional order relates who is aggrieved by the order and desires to question its validity on the ground—
 
@@ -705,7 +705,7 @@ may, within 42 days beginning with the date of service on the person of a copy o
 
 (7) Without prejudice to any right which any person may have by virtue of paragraph (5) to bring civil proceedings in respect of any contravention or apprehended contravention of a final or provisional order, compliance with any such order is enforceable by civil proceedings by the Regulator for an injunction or for interdict or for any other appropriate relief.
 
-### 31. Imposition of a penalty[^key-bdbe48acdd0118c957128c40b369db70]
+### 31. Imposition of a penalty[^c-bdbe48acdd0118c957128c40b369db70]
 
 (1) This regulation applies where the Regulator is satisfied that an authorised person has contravened or is contravening an authorisation condition or a relevant requirement.
 
@@ -758,7 +758,7 @@ may, within 42 days beginning with the date of service on the person of a copy o
 
 (15) Any sums received by the Regulator by way of penalty under this regulation must be paid into the Consolidated Fund.
 
-### 32. Requirement to publish statement of policy with respect to penalties[^key-abbf056573bebdc3b1bd12fed4a4ccb6]
+### 32. Requirement to publish statement of policy with respect to penalties[^c-abbf056573bebdc3b1bd12fed4a4ccb6]
 
 (1) The Regulator must as soon as reasonably practicable after this regulation comes into force prepare and publish a statement of policy with respect to—
 
@@ -773,7 +773,7 @@ may, within 42 days beginning with the date of service on the person of a copy o
 
 (5) It is immaterial for the purposes of paragraph (4) whether consultation is carried out before or after the coming into force of this regulation.
 
-### 33. Time limits on the imposition of penalties[^key-05e2245315b8742cb884bf2a5119054a]
+### 33. Time limits on the imposition of penalties[^c-05e2245315b8742cb884bf2a5119054a]
 
 The Regulator may not impose a penalty in respect of a contravention later than the end of the period of 5 years from the date of the contravention, unless before the end of that period—
 
@@ -781,7 +781,7 @@ The Regulator may not impose a penalty in respect of a contravention later than 
 - (b) a notice relating to the contravention is served on the authorised person under regulation 48(2); or
 - (c) a final or provisional order is served on the authorised person.
 
-### 34. Payment of interest and payment in instalments[^key-c3c7ab030a4188bb8e30463ba6dff8e7]
+### 34. Payment of interest and payment in instalments[^c-c3c7ab030a4188bb8e30463ba6dff8e7]
 
 (1) If the whole or any part of a penalty is not paid by the date by which it is required to be paid, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838[^f00024].
 
@@ -789,7 +789,7 @@ The Regulator may not impose a penalty in respect of a contravention later than 
 
 (3) If the Regulator grants an application under that paragraph in relation to a penalty but any portion of the penalty is not paid by the date specified in relation to it by the Regulator under that paragraph, the Regulator may, where it considers it appropriate, require so much of the penalty as has not already been paid to be paid immediately.
 
-### 35. Appeals against penalties[^key-61e77871d88f8d737f513e725d530c77]
+### 35. Appeals against penalties[^c-61e77871d88f8d737f513e725d530c77]
 
 (1) If the authorised person on whom a penalty is imposed is aggrieved by—
 
@@ -824,7 +824,7 @@ the authorised person may make an application to the court under this regulation
 
 (8) Except as provided by this regulation, the validity of a penalty is not to be questioned by any legal proceedings whatever.
 
-### 36. Recovery of penalties[^key-62673df1233b420d0c3cdc064f77e999]
+### 36. Recovery of penalties[^c-62673df1233b420d0c3cdc064f77e999]
 
 Where a penalty imposed under regulation 31, or any portion of it, has not been paid by the date on which it is required to be paid and—
 
@@ -833,7 +833,7 @@ Where a penalty imposed under regulation 31, or any portion of it, has not been
 
 the Regulator may recover from the authorised person, as a civil debt due to it, any of the penalty and any interest which has not been paid.
 
-### 37. Consumer redress orders[^key-4cb937bc8a3451ef36aa4a5b64d34664]
+### 37. Consumer redress orders[^c-4cb937bc8a3451ef36aa4a5b64d34664]
 
 (1) This regulation applies where the Regulator is satisfied that—
 
@@ -871,7 +871,7 @@ the Regulator may recover from the authorised person, as a civil debt due to it,
 - “**affected consumers**”, in relation to a consumer redress order (or proposed order), are those heat network consumers that the Regulator is satisfied have suffered loss or damage, or been caused inconvenience, as a result of the contravention in respect of which the order is (or would be) made;
 - “**consumer redress order**” means an order under paragraph (2).
 
-### 38. Remedial action under a consumer redress order[^key-2671e519bd6d9e5b3db6c4238f592f3d]
+### 38. Remedial action under a consumer redress order[^c-2671e519bd6d9e5b3db6c4238f592f3d]
 
 (1) The things mentioned in regulation 37(2) that an authorised person may be required to do under a consumer redress order (“the required remedial action”) include, in particular—
 
@@ -897,7 +897,7 @@ the Regulator may recover from the authorised person, as a civil debt due to it,
 - (b) the requirement has effect only if, and to the extent that, the affected consumer consents to the termination of the contract on those terms or to its variation in that way; and
 - (c) the order may specify the steps to be taken by the authorised person for the purpose of enabling the affected consumer to give such consent.
 
-### 39. Other procedural requirements in relation to consumer redress orders[^key-053680860dccfc0d9909e4dcc5ed516d]
+### 39. Other procedural requirements in relation to consumer redress orders[^c-053680860dccfc0d9909e4dcc5ed516d]
 
 (1) Before making a consumer redress order the Regulator must give notice stating that it proposes to make the order.
 
@@ -937,7 +937,7 @@ and must consider any representations or objections which are duly made and not 
 - (a) in a case where the notice is published in accordance with paragraph (5)(b)(ii), the date on which it is published;
 - (b) in any other case, the latest date on which a copy of the notice is served in accordance with paragraph (5)(a) and (b)(i).
 
-### 40. Requirement to publish statement of policy with respect to consumer redress orders[^key-cb99c3210daba4c5a6130f12cc17291a]
+### 40. Requirement to publish statement of policy with respect to consumer redress orders[^c-cb99c3210daba4c5a6130f12cc17291a]
 
 (1) The Regulator must as soon as reasonably practicable after this regulation comes into force prepare and publish a statement of policy with respect to—
 
@@ -957,7 +957,7 @@ and must consider any representations or objections which are duly made and not 
 
 (6) It is immaterial for the purposes of paragraph (5) whether consultation is carried out before or after the coming into force of this regulation.
 
-### 41. Time limits for making consumer redress orders[^key-374b89aaa9f8880688e3d3adc39e546b]
+### 41. Time limits for making consumer redress orders[^c-374b89aaa9f8880688e3d3adc39e546b]
 
 The Regulator may not give a consumer redress order in respect of a contravention later than the end of the period of 5 years from the time of the contravention, unless before the end of that period—
 
@@ -965,7 +965,7 @@ The Regulator may not give a consumer redress order in respect of a contraventio
 - (b) a notice relating to the contravention is served on the authorised person under regulation 48(2); or
 - (c) a final or provisional order is served on the authorised person.
 
-### 42. Enforcement of consumer redress orders[^key-aa3dc8617efca8ee4120f8b8473f346a]
+### 42. Enforcement of consumer redress orders[^c-aa3dc8617efca8ee4120f8b8473f346a]
 
 (1) Compliance with a consumer redress order is enforceable by civil proceedings by the Regulator—
 
@@ -984,7 +984,7 @@ The Regulator may not give a consumer redress order in respect of a contraventio
 
 (5) For the purposes of paragraph (4), the duty owed to P may in particular be enforced by P as if it were contained in a contract between P and the authorised person who owes the duty.
 
-### 43. Appeals against consumer redress orders[^key-d693579f9e9591afa53ff63c8e83618d]
+### 43. Appeals against consumer redress orders[^c-d693579f9e9591afa53ff63c8e83618d]
 
 (1) An authorised person in respect of whom a consumer redress order is made may make an application to the court under this regulation if the person is aggrieved by—
 
@@ -1012,7 +1012,7 @@ The Regulator may not give a consumer redress order in respect of a contraventio
 
 (8) Except as provided by this regulation, the validity of a consumer redress order is not to be questioned by any legal proceedings whatever.
 
-### 44. Consumer redress orders: miscellaneous[^key-d0494e0965b2f901d05ce6a2c6158710]
+### 44. Consumer redress orders: miscellaneous[^c-d0494e0965b2f901d05ce6a2c6158710]
 
 (1) If—
 
@@ -1025,7 +1025,7 @@ the unpaid balance from time to time carries interest at the rate for the time b
 
 (3) The Regulator’s power to make a consumer redress order as a result of a contravention of a relevant condition or requirement is not to be taken as limiting the Regulator’s power to impose a penalty under regulation 31 in relation to the same contravention (whether instead of, or in addition to, making a consumer redress order).
 
-### 45. Maximum amount of penalty or compensation[^key-dfa46a6c4c5204c203369a42902ae999]
+### 45. Maximum amount of penalty or compensation[^c-dfa46a6c4c5204c203369a42902ae999]
 
 (1) The maximum amount of penalty that may be imposed on an authorised person in respect of a contravention is the amount set out in paragraph (3).
 
@@ -1047,7 +1047,7 @@ the unpaid balance from time to time carries interest at the rate for the time b
 - “**compensation**” means compensation that an authorised person is required to pay by a consumer redress order;
 - “**penalty**” means a penalty imposed on an authorised person under regulation 31.
 
-### 46. Functions with respect to competition[^key-18a40035f9dee98e55dea030e951238d]
+### 46. Functions with respect to competition[^c-18a40035f9dee98e55dea030e951238d]
 
 (1) The following functions are exercisable concurrently by the GEMA and the Competition and Markets Authority (“**CMA**”) so far as they relate to commercial activities connected with the supply of heating, cooling or hot water to heat network consumers by means of a relevant heat network.
 
@@ -1104,7 +1104,7 @@ the unpaid balance from time to time carries interest at the rate for the time b
 
 the GEMA must have regard to the need for making a decision, or taking action, as soon as reasonably practicable.
 
-### 47. Procedure for concurrent exercise of functions[^key-434c056a32b0cdbc0238f9545d563b3c]
+### 47. Procedure for concurrent exercise of functions[^c-434c056a32b0cdbc0238f9545d563b3c]
 
 (1) Before the CMA or the GEMA first exercises in relation to any matter functions within regulation 46(2)(b) (“Part 4 functions”) which are exercisable concurrently by virtue of regulation 46(1) and (2) (concurrent exercise of functions), it must consult the other.
 
@@ -1117,7 +1117,7 @@ the GEMA must have regard to the need for making a decision, or taking action, a
 
 ## PART 5 — Investigation
 
-### 48. Powers to require information, etc.[^key-1c0febdb4e8427070d73062af0357e0f]
+### 48. Powers to require information, etc.[^c-1c0febdb4e8427070d73062af0357e0f]
 
 (1) Where it appears to the Regulator that an authorised person may be contravening, or may have contravened, any relevant condition or requirement, the Regulator may, for any purpose connected with any of its enforcement functions under Part 4 as are exercisable in relation to that matter, serve a notice under paragraph (2) on any person.
 
@@ -1137,7 +1137,7 @@ the GEMA must have regard to the need for making a decision, or taking action, a
 
 (6) If a person makes default in complying with a notice under this regulation, the court may, on the application of the Regulator, make such order as the court thinks fit for requiring the default to be made good; and any such order may provide that all the costs or expenses of and incidental to the application must be borne by the person in default or by any officers of a company or other association who are responsible for its default.
 
-### 49. Inspections[^key-202573290b7996112c45b1f6d95bf433]
+### 49. Inspections[^c-202573290b7996112c45b1f6d95bf433]
 
 The Regulator may authorise a person (“an authorised officer”) to exercise, on behalf of the Regulator and in accordance with the terms of the authorisation, the powers set out in Schedule 2.
 
@@ -1145,7 +1145,7 @@ The Regulator may authorise a person (“an authorised officer”) to exercise, 
 
 ### CHAPTER 1 — Standards of performance
 
-#### 50. Standards of performance in individual cases[^key-86864bd0568751a2cea6733ef995e1dd][^key-86864bd0568751a2cea6733ef995e1dd]
+#### 50. Standards of performance in individual cases[^c-86864bd0568751a2cea6733ef995e1dd][^c-86864bd0568751a2cea6733ef995e1dd]
 
 (1) The Regulator may make regulations prescribing such standards of performance in connection with the regulated activities of authorised persons so far as affecting—
 
@@ -1170,7 +1170,7 @@ and may make different provision for different descriptions of authorised person
 
 (6) Regulations made under this regulation may not take effect before the launch date.
 
-#### 51. Standards of performance in individual cases: disputes[^key-f55832a8755052b2842d59d456b03542][^key-f55832a8755052b2842d59d456b03542]
+#### 51. Standards of performance in individual cases: disputes[^c-f55832a8755052b2842d59d456b03542][^c-f55832a8755052b2842d59d456b03542]
 
 (1) Any dispute arising under regulation 50 or regulations made under that regulation may be referred to the Regulator—
 
@@ -1188,7 +1188,7 @@ and may make different provision for different descriptions of authorised person
 
 (5) Regulations made under this regulation may not take effect before the launch date.
 
-#### 52. Overall standards of performance[^key-e8622b1b5c46a10f58f1674d9ebb1cc9][^key-e8622b1b5c46a10f58f1674d9ebb1cc9]
+#### 52. Overall standards of performance[^c-e8622b1b5c46a10f58f1674d9ebb1cc9][^c-e8622b1b5c46a10f58f1674d9ebb1cc9]
 
 (1) The Regulator may from time to time—
 
@@ -1201,7 +1201,7 @@ and may make different provision for different descriptions of authorised person
 
 (4) Standards determined under this regulation may not take effect before the launch date.
 
-#### 53. Procedure for establishing standards of performance[^key-6759a53550116e9d5575f8f48468e0fe][^key-6759a53550116e9d5575f8f48468e0fe]
+#### 53. Procedure for establishing standards of performance[^c-6759a53550116e9d5575f8f48468e0fe][^c-6759a53550116e9d5575f8f48468e0fe]
 
 (1) Before prescribing standards of performance in regulations under regulation 50, or determining standards of performance under regulation 52, the Regulator must—
 
@@ -1230,11 +1230,11 @@ and may make different provision for different descriptions of authorised person
 
 ### CHAPTER 2 — Consumer advocacy and redress schemes
 
-#### 54. Application of Part 1 of the Consumers, Estate Agents and Redress Act 2007 with modifications[^key-2ade186c214a7a16ffb73736a9347498][^key-9d947f47210d6989e546e79f5e619e51][^key-2ade186c214a7a16ffb73736a9347498]
+#### 54. Application of Part 1 of the Consumers, Estate Agents and Redress Act 2007 with modifications[^c-2ade186c214a7a16ffb73736a9347498][^c-9d947f47210d6989e546e79f5e619e51][^c-2ade186c214a7a16ffb73736a9347498]
 
-(1)[^key-2ade186c214a7a16ffb73736a9347498] Part 1 of the Consumers, Estate Agents and Redress Act 2007 (the consumer advocacy bodies)[^f00048] applies in relation to heat network consumers as it applies in relation to designated consumers within section 4(1)(a) of that Act (designated consumers), subject to the following modifications.
+(1)[^c-2ade186c214a7a16ffb73736a9347498] Part 1 of the Consumers, Estate Agents and Redress Act 2007 (the consumer advocacy bodies)[^f00048] applies in relation to heat network consumers as it applies in relation to designated consumers within section 4(1)(a) of that Act (designated consumers), subject to the following modifications.
 
-(2)[^key-2ade186c214a7a16ffb73736a9347498] Section 13 (investigation of complaints relating to disconnection of gas or electricity) is to be taken to apply to a complaint made by a heat network consumer against an authorised person which relates to one of the following—
+(2)[^c-2ade186c214a7a16ffb73736a9347498] Section 13 (investigation of complaints relating to disconnection of gas or electricity) is to be taken to apply to a complaint made by a heat network consumer against an authorised person which relates to one of the following—
 
 - (a) the disconnection of, or threat to disconnect, the heat network consumer’s premises from a relevant heat network by the authorised person;
 - (b) following such a disconnection, a refusal by the authorised person to reconnect the premises;
@@ -1242,84 +1242,84 @@ and may make different provision for different descriptions of authorised person
 - (d) where a payment has been made for the supply of heating, cooling or hot water through a prepayment meter, a case where the supply is not given through the prepayment meter because of a defect in the meter or in the facilities for payment; or
 - (e) any other matter connected with the supply of heating, cooling or hot water to the heat network consumer or a refusal by the authorised person to supply heating, cooling or hot water to the heat network consumer.
 
-(3)[^key-2ade186c214a7a16ffb73736a9347498] But a complaint is only within paragraph (2)(b) if it is made by a person who was a heat network consumer in relation to the relevant heat network in question at the time of the disconnection.
+(3)[^c-2ade186c214a7a16ffb73736a9347498] But a complaint is only within paragraph (2)(b) if it is made by a person who was a heat network consumer in relation to the relevant heat network in question at the time of the disconnection.
 
-(4)[^key-9d947f47210d6989e546e79f5e619e51] Section 14 (reference of matters to the Gas and Electricity Markets Authority) is to be read as if—
+(4)[^c-9d947f47210d6989e546e79f5e619e51] Section 14 (reference of matters to the Gas and Electricity Markets Authority) is to be read as if—
 
 - (a) references to “the Authority” were to the Regulator;
 - (b) references to “**enforcement functions**” in relation to the Authority were to any of the Regulator’s functions under regulation 28 (orders for securing compliance), 31 (imposition of a penalty) or 37 (consumer redress orders) of these Regulations;
 - (c) the reference in subsection (4) to “the Gas Act [1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44) or the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29)” were to these Regulations.
 
-(5)[^key-2ade186c214a7a16ffb73736a9347498] Section 19A (guidance for energy consumers) is to be read as if references to “energy consumers” included heat network consumers.
+(5)[^c-2ade186c214a7a16ffb73736a9347498] Section 19A (guidance for energy consumers) is to be read as if references to “energy consumers” included heat network consumers.
 
-(6)[^key-9d947f47210d6989e546e79f5e619e51] Section 24 (provision of information to the consumer advocacy bodies) is to be read as if the Regulator were a person within subsection (3).
+(6)[^c-9d947f47210d6989e546e79f5e619e51] Section 24 (provision of information to the consumer advocacy bodies) is to be read as if the Regulator were a person within subsection (3).
 
-(7)[^key-9d947f47210d6989e546e79f5e619e51] Section 25 (enforcement by regulator of section 24 notice) is to be read as if—
+(7)[^c-9d947f47210d6989e546e79f5e619e51] Section 25 (enforcement by regulator of section 24 notice) is to be read as if—
 
 - (a) an authorised person were a “regulated provider” within subsection (3);
 - (b) the “**relevant regulator**” in relation to an authorised person were the Regulator.
 
-(8)[^key-9d947f47210d6989e546e79f5e619e51] An obligation imposed on an authorised person by virtue of section 25(5) as applied by these Regulations is enforceable under Part 4 of these Regulations as a relevant requirement.
+(8)[^c-9d947f47210d6989e546e79f5e619e51] An obligation imposed on an authorised person by virtue of section 25(5) as applied by these Regulations is enforceable under Part 4 of these Regulations as a relevant requirement.
 
-(9)[^key-9d947f47210d6989e546e79f5e619e51] Sections 27 (provision of information by a consumer advocacy body) and 29 (disclosure of information) are to be read as if the Regulator were an “authorised person” within section 27(3).
+(9)[^c-9d947f47210d6989e546e79f5e619e51] Sections 27 (provision of information by a consumer advocacy body) and 29 (disclosure of information) are to be read as if the Regulator were an “authorised person” within section 27(3).
 
-(10)[^key-2ade186c214a7a16ffb73736a9347498] Section 40B(1) (exemption from liability in damages) is to be read as if it applied to a function conferred by or under these Regulations.
+(10)[^c-2ade186c214a7a16ffb73736a9347498] Section 40B(1) (exemption from liability in damages) is to be read as if it applied to a function conferred by or under these Regulations.
 
-#### 55. Certain documents to be sent to Citizens Advice and Consumer Scotland[^key-bc39036e9f61e6fea7385777013e9a48]
+#### 55. Certain documents to be sent to Citizens Advice and Consumer Scotland[^c-bc39036e9f61e6fea7385777013e9a48]
 
 Where the Regulator is required by any provision of these Regulations to publish a notice or any other document, the Regulator must send a copy of the document to Citizens Advice and Consumer Scotland.
 
-#### 56. Application of Part 2 of the Consumers, Estate Agents and Redress Act 2007 with modifications[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3][^key-184bc6c85d3a2845e11535de0c2f79de][^key-2b023fb3650649377acc09eb4d21943d]
+#### 56. Application of Part 2 of the Consumers, Estate Agents and Redress Act 2007 with modifications[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3][^c-184bc6c85d3a2845e11535de0c2f79de][^c-2b023fb3650649377acc09eb4d21943d]
 
-(1)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] Part 2 of the Consumers, Estate Agents and Redress Act 2007 applies in relation to heat network consumers subject to the following modifications.
+(1)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] Part 2 of the Consumers, Estate Agents and Redress Act 2007 applies in relation to heat network consumers subject to the following modifications.
 
-(2)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] All authorised persons are to be considered regulated providers.
+(2)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] All authorised persons are to be considered regulated providers.
 
-(3)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] Each person who is a heat network consumer in relation to a relevant heat network is to be considered a relevant consumer in relation to an authorised person who carries on a regulated activity in relation to that network.
+(3)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] Each person who is a heat network consumer in relation to a relevant heat network is to be considered a relevant consumer in relation to an authorised person who carries on a regulated activity in relation to that network.
 
-(4)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] The GEMA is to be considered the relevant regulator in relation to all authorised persons.
+(4)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] The GEMA is to be considered the relevant regulator in relation to all authorised persons.
 
-(5)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] Section 43(1) is to be read as if for “must” there were substituted “may” but regulations made by the Regulator by virtue of this paragraph may not take effect before the launch date.
+(5)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] Section 43(1) is to be read as if for “must” there were substituted “may” but regulations made by the Regulator by virtue of this paragraph may not take effect before the launch date.
 
-(6)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] The requirements of section 44(1) as applied by these Regulations may be satisfied by action taken before these Regulations are made.
+(6)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] The requirements of section 44(1) as applied by these Regulations may be satisfied by action taken before these Regulations are made.
 
-(7)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] The Secretary of State is to be taken to have—
+(7)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] The Secretary of State is to be taken to have—
 
 - (a) made an order under section 47(1), coming into force on the same date as this paragraph, requiring all authorised persons to be members of a redress scheme within section 47(1)(b);
-- (b) specified in that order that the requirement applies only in relation to consumer complaints in connection with the supply of heating, cooling or hot water for domestic purposes or for the purposes of a small business or[^key-9f2c68a58f5053af8cc84602332a8255] a micro-business;
+- (b) specified in that order that the requirement applies only in relation to consumer complaints in connection with the supply of heating, cooling or hot water for domestic purposes or for the purposes of a small business or[^c-9f2c68a58f5053af8cc84602332a8255] a micro-business;
 - (c) designated the Energy Ombudsman Scheme as an appropriate redress scheme in relation to all authorised persons; and
 - (d) retained the power to designate a replacement or alternative redress scheme for the purpose of section 47(1)(b).
 
-(8)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] An obligation imposed on an authorised person by virtue of section 43, 46 or 47 as applied by these Regulations is enforceable under Part 4 of these Regulations as a relevant requirement.
+(8)[^c-2b023fb3650649377acc09eb4d21943d][^c-5f7995e7ecd636f651d26036de2252e3] An obligation imposed on an authorised person by virtue of section 43, 46 or 47 as applied by these Regulations is enforceable under Part 4 of these Regulations as a relevant requirement.
 
-(9)[^key-184bc6c85d3a2845e11535de0c2f79de] A person who is an authorised person by virtue of regulation 27 (deemed heat network authorisations) and is not a member of the Energy Ombudsman Scheme is bound by the Scheme Terms as if the person were a member from the date this paragraph comes into force.
+(9)[^c-184bc6c85d3a2845e11535de0c2f79de] A person who is an authorised person by virtue of regulation 27 (deemed heat network authorisations) and is not a member of the Energy Ombudsman Scheme is bound by the Scheme Terms as if the person were a member from the date this paragraph comes into force.
 
-(10)[^key-184bc6c85d3a2845e11535de0c2f79de] Paragraph (9) ceases to have effect—
+(10)[^c-184bc6c85d3a2845e11535de0c2f79de] Paragraph (9) ceases to have effect—
 
 - (a) if the Secretary of State designates a replacement redress scheme under paragraph (7)(d); or
 - (b) in relation to a person who becomes a member of the Energy Ombudsman Scheme.
 
-(11)[^key-184bc6c85d3a2845e11535de0c2f79de] In this regulation—
+(11)[^c-184bc6c85d3a2845e11535de0c2f79de] In this regulation—
 
 - “**the Energy Ombudsman Scheme**” means the scheme under that name operated by Trust Alliance Group Limited (a company registered in England and Wales with company number 04351294);
 - “**a member**”, in relation to the Energy Ombudsman Scheme as constituted by the Scheme Terms, means a “Participating Company” within the meaning of the Scheme Terms;
-- “[^key-f3841d85d123750f67cf5baa4df628a5]**micro-business**” means a business that—
+- “[^c-f3841d85d123750f67cf5baa4df628a5]**micro-business**” means a business that—
   - (a) consumes less than 247,000 kilowatt hours of heat per year; or
   - (b) has fewer than 10 full-time equivalent employees and—
     - (i) an annual turnover of £2 million or less; or
     - (ii) a balance sheet total of £2 million or less;
 - “**the Scheme Terms**” are the terms of the Energy Ombudsman Deed Poll[^f00049] read with the Terms of Reference: Energy Sector and the Membership Rules for Participating Companies[^f00050] as they have effect when these Regulations are made.
-- “[^key-8bd364438b852f27d0195692afaa7722]**small business**” means a business other than a micro-business that—
+- “[^c-8bd364438b852f27d0195692afaa7722]**small business**” means a business other than a micro-business that—
   - (a) consumes less than 420,000 kilowatt hours of heat per year; or
   - (b) has fewer than 50 full-time equivalent employees and—
     - (i) an annual turnover of £6.5 million or less; or
     - (ii) a balance sheet total of £5 million or less.
 
-(12)[^key-9a6f70eb8b28271069b0a88948ba499e] For the purpose of this regulation, the number of full-time equivalent employees of a business must be calculated by taking the number of full-time employees and adding, for each employee who is not a full-time employee, such fraction as is reasonable.
+(12)[^c-9a6f70eb8b28271069b0a88948ba499e] For the purpose of this regulation, the number of full-time equivalent employees of a business must be calculated by taking the number of full-time employees and adding, for each employee who is not a full-time employee, such fraction as is reasonable.
 
 ## PART 7 — Financial arrangements
 
-### 57. Expenses relating to consumer advocacy and advice[^key-b7ca7e88932cfd79f3aff5c887ffdc87]
+### 57. Expenses relating to consumer advocacy and advice[^c-b7ca7e88932cfd79f3aff5c887ffdc87]
 
 (1) The Regulator may include in a general authorisation condition a provision requiring an authorised person to pay sums to the Regulator relating to the costs of the bodies listed in paragraph (2) in providing, or arranging for the provision of, consumer advocacy and advice in relation to heat network consumers.
 
@@ -1332,17 +1332,17 @@ Where the Regulator is required by any provision of these Regulations to publish
 
 (3) A “qualifying public consumer advice body” is a body that is supported by Citizens Advice or Consumer Scotland to enable the body to provide, or arrange for the provision of, consumer advocacy or advice in relation to heat network consumers free of charge.
 
-### 58. Directions to the Regulator relating to expenses under regulation 57[^key-7adeb65ee7374f44cf16d114cff736f2]
+### 58. Directions to the Regulator relating to expenses under regulation 57[^c-7adeb65ee7374f44cf16d114cff736f2]
 
 (1) The Secretary of State may direct the Regulator to determine a general authorisation condition requiring an authorised person to pay sums to the Regulator relating to the costs mentioned in regulation 57 (expenses relating to consumer advocacy and advice).
 
 (2) The Regulator must comply with a direction given under paragraph (1).
 
-### 59. Payment into Consolidated Fund[^key-0b5a1094c05ef854c26bf1bb31080a06]
+### 59. Payment into Consolidated Fund[^c-0b5a1094c05ef854c26bf1bb31080a06]
 
 The Regulator must pay into the Consolidated Fund any sums received from fees paid to the Regulator under an authorisation condition imposed by virtue of regulation 20(1)(j) (scope of authorisation conditions).
 
-## PART 7A — Special administration regime[^key-da4c1909e95b8537e554036f9e59c090]
+## PART 7A — Special administration regime[^c-da4c1909e95b8537e554036f9e59c090]
 
 ### 59A. Interpretation of Part 7A
 
@@ -1499,7 +1499,7 @@ as it is appropriate to transfer for the purposes of achieving the objectives of
 
 ## PART 8 — Offences
 
-### 60. Carrying on a regulated activity without authorisation[^key-4f75f2b507881b15395a9c79524058d7]
+### 60. Carrying on a regulated activity without authorisation[^c-4f75f2b507881b15395a9c79524058d7]
 
 A person who contravenes regulation 14 (prohibition on carrying on a regulated activity without authorisation) commits an offence and is liable—
 
@@ -1507,7 +1507,7 @@ A person who contravenes regulation 14 (prohibition on carrying on a regulated a
 - (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 61. Failure to provide information in response to a notice[^key-b3e484f7b65f35f563adaa910c84d6b5]
+### 61. Failure to provide information in response to a notice[^c-b3e484f7b65f35f563adaa910c84d6b5]
 
 (1) A person who without reasonable excuse fails to do anything required by a notice under regulation 10 (collecting information) or 48 (powers to require information, etc.) commits an offence and is liable on summary conviction—
 
@@ -1520,7 +1520,7 @@ A person who contravenes regulation 14 (prohibition on carrying on a regulated a
 - (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 62. Provision of false or misleading information[^key-3015b2f90bae5dc717474ed623452740]
+### 62. Provision of false or misleading information[^c-3015b2f90bae5dc717474ed623452740]
 
 (1) It is an offence for a person to give any information or make any application under or for the purposes of any provision of these Regulations which includes any statement—
 
@@ -1533,7 +1533,7 @@ A person who contravenes regulation 14 (prohibition on carrying on a regulated a
 - (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 63. Obstructing inspection[^key-4af406c3fdca93968cf051f22634bafe]
+### 63. Obstructing inspection[^c-4af406c3fdca93968cf051f22634bafe]
 
 (1) It is an offence for a person intentionally to obstruct an authorised officer in the exercise of a power conferred by regulation 49 (inspections).
 
@@ -1543,7 +1543,7 @@ A person who contravenes regulation 14 (prohibition on carrying on a regulated a
 - (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 64. Impersonation of person entitled to entry[^key-41873cdcf3ef8d44d02d174de7d09a6b]
+### 64. Impersonation of person entitled to entry[^c-41873cdcf3ef8d44d02d174de7d09a6b]
 
 (1) It is an offence for a person who is not an authorised officer to purport to be entitled to enter any premises in exercise of a power conferred by regulation 49 (inspections).
 
@@ -1555,7 +1555,7 @@ A person who contravenes regulation 14 (prohibition on carrying on a regulated a
 - (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 65. Corporate liability[^key-46e60a33896b2f38a158b12659aaaada]
+### 65. Corporate liability[^c-46e60a33896b2f38a158b12659aaaada]
 
 (1) Where an offence under this Part is committed by a body corporate and—
 
@@ -1568,7 +1568,7 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts or defaults of a member in connection with that member’s functions of management as if the member were a director of the body corporate.
 
-### 66. Scottish partnerships[^key-897fabaf5067e840a36d6248047ce516]
+### 66. Scottish partnerships[^c-897fabaf5067e840a36d6248047ce516]
 
 (1) Where an offence under this Part is committed by a Scottish partnership and—
 
@@ -1581,11 +1581,11 @@ the partner as well as the partnership is guilty of the offence and is liable to
 
 ## PART 9 — Provision in relation to licensing authority in Scotland
 
-### 67. Designation of licensing authority in Scotland[^key-fa794519b899b6ccec9113aac9ee327a]
+### 67. Designation of licensing authority in Scotland[^c-fa794519b899b6ccec9113aac9ee327a]
 
 The GEMA is designated as the licensing authority for the purposes of the Heat Networks (Scotland) Act 2021[^f00051].
 
-### 68. Part 1 of the Heat Networks (Scotland) Act 2021 amended[^key-ec59288bf213952ddd2142a0c9945adf]
+### 68. Part 1 of the Heat Networks (Scotland) Act 2021 amended[^c-ec59288bf213952ddd2142a0c9945adf]
 
 *Extent: S*
 
@@ -1645,7 +1645,7 @@ The GEMA is designated as the licensing authority for the purposes of the Heat N
 
 ## PART 10 — Review
 
-### 69. Review[^key-9ec8799d356eedadb252df406efd4444]
+### 69. Review[^c-9ec8799d356eedadb252df406efd4444]
 
 (1) The Secretary of State must from time to time—
 
@@ -1677,7 +1677,7 @@ Department for Energy Security and Net Zero
 
 Regulation 3
 
-**1.**[^key-48237cf11869b1cda1b8ce052eb5f5f8] Any notice or other document required or authorised to be given, sent or served by the Regulator under these Regulations may be given, sent or served—
+**1.**[^c-48237cf11869b1cda1b8ce052eb5f5f8] Any notice or other document required or authorised to be given, sent or served by the Regulator under these Regulations may be given, sent or served—
 
 - (a) by delivering it to the person to whom it is to be given or sent or on whom it is to be served (“**the recipient**”);
 - (b) by leaving it at the usual or last known place of abode of the recipient;
@@ -1687,13 +1687,13 @@ Regulation 3
 - (f) by leaving it at or sending it in a prepaid letter to an address within the United Kingdom provided by the recipient for the purpose of the service of documents of the same description as that document;
 - (g) by sending it by electronic means to a number or address provided by the recipient for the purpose of the service of documents of the same description as that document.
 
-**2.**[^key-b2e028d42e94d57e7cae7a86aa62ce4b] For the purposes of this Schedule, the principal office of a body corporate registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+**2.**[^c-b2e028d42e94d57e7cae7a86aa62ce4b] For the purposes of this Schedule, the principal office of a body corporate registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
 
-**3.**[^key-9af3a99c096c924414f41a5699a38847] A notice or other document which is given or served in accordance with paragraph 1(g) is to be treated as having been given or served on the next working day after the day on which it is sent.
+**3.**[^c-9af3a99c096c924414f41a5699a38847] A notice or other document which is given or served in accordance with paragraph 1(g) is to be treated as having been given or served on the next working day after the day on which it is sent.
 
-**4.**[^key-5705cbe3bfefda5fa2128dd2739a8130] This Schedule does not apply to any document in relation to the service of which provision is made by rules of court[^f00055].
+**4.**[^c-5705cbe3bfefda5fa2128dd2739a8130] This Schedule does not apply to any document in relation to the service of which provision is made by rules of court[^f00055].
 
-**5.**[^key-8bde1c21883c233ab5ac1c706def63f3] In this Schedule—
+**5.**[^c-8bde1c21883c233ab5ac1c706def63f3] In this Schedule—
 
 - “**secretary**”, in relation to a local authority within the meaning of the Local Government Act 1972[^f00056] or the Local Government (Scotland) Act 1973[^f00057], means the proper officer within the meaning of that Act;
 - “**working day**” means any day other than—
@@ -1705,9 +1705,9 @@ Regulation 3
 
 Regulation 49
 
-**1.**[^key-aa4fa606f85d5817a3faa4f7eec8b6a9] An authorised officer may conduct an inspection.
+**1.**[^c-aa4fa606f85d5817a3faa4f7eec8b6a9] An authorised officer may conduct an inspection.
 
-**2.**[^key-2d0d754f9c70a3e1e0dd79f3967feb5f] An authorised person in relation to which an inspection is conducted must—
+**2.**[^c-2d0d754f9c70a3e1e0dd79f3967feb5f] An authorised person in relation to which an inspection is conducted must—
 
 - (a) pay the reasonable costs of the inspection if so required by the Regulator;
 - (b) co-operate with the authorised officer;
@@ -1716,7 +1716,7 @@ Regulation 49
 - (e) allow the authorised officer access to any person from whom the authorised officer seeks relevant information for the purposes of the inspection;
 - (f) comply with any request made by, or requirement of, an authorised officer performing their functions under this Schedule.
 
-**3.**[^key-52085b01a2c9c2d6319b300930673c95] The authorised officer may—
+**3.**[^c-52085b01a2c9c2d6319b300930673c95] The authorised officer may—
 
 - (a) at any reasonable time enter the premises of an authorised person (except any premises used wholly or mainly as a private dwelling) if the authorised officer has reasonable grounds to believe that entry to those premises may be necessary or helpful for the purpose of the inspection;
 - (b) require an authorised person to leave undisturbed and not to dispose of, render inaccessible or alter in any way any material, document, information, in whatever form and wherever it is held (including where it is held remotely), or equipment which is, or which the authorised officer considers to be, relevant for such period as is, or as the authorised officer considers to be, necessary for the purposes of the inspection;
@@ -1726,17 +1726,17 @@ Regulation 49
 - (f) conduct, or direct the authorised person to conduct, tests on any equipment;
 - (g) take any other action that the authorised officer considers appropriate and reasonably required for the purposes of the inspection.
 
-**4.**[^key-4beaf524a61f5ad4b61c390f963200db] The authorised officer must—
+**4.**[^c-4beaf524a61f5ad4b61c390f963200db] The authorised officer must—
 
 - (a) produce proof of the authorised officer’s identity if requested by any person present at the premises; and
 - (b) take appropriate and proportionate measures to ensure that any material, document, information or equipment removed in accordance with paragraph 3(e) is kept secure from unauthorised access, interference and physical damage.
 
-**5.**[^key-3c197a4bc0d72e88990d99a7ffafc268] Where under paragraph 3(e) an authorised officer removes any document, material or equipment, the authorised officer must provide, to the extent practicable, a notice giving—
+**5.**[^c-3c197a4bc0d72e88990d99a7ffafc268] Where under paragraph 3(e) an authorised officer removes any document, material or equipment, the authorised officer must provide, to the extent practicable, a notice giving—
 
 - (a) sufficient particulars of that document, material or equipment for it to be identifiable; and
 - (b) details of any procedures in relation to the handling or return of the document, material or equipment.
 
-**6.**[^key-036c1a9ee4727647b60eefaf3772781e] In this Schedule, “**inspection**” means any activity carried out (including any steps mentioned in paragraph 3) for the purpose of—
+**6.**[^c-036c1a9ee4727647b60eefaf3772781e] In this Schedule, “**inspection**” means any activity carried out (including any steps mentioned in paragraph 3) for the purpose of—
 
 - (a) verifying compliance with the requirements of these Regulations or any other relevant requirement or any relevant condition; or
 - (b) assessing or gathering evidence of potential or alleged failures to comply with the requirements of these Regulations or any other relevant requirement or any relevant condition,
@@ -1775,7 +1775,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: See section 331(3) of the Energy Act 2023 for the meaning of the affirmative procedure.
 
-[^key-05e416f44e44c6020a311dfbe82413ad]: Commencement: Reg. 1 in force at 3.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/a)
+[^c-05e416f44e44c6020a311dfbe82413ad]: Commencement: Reg. 1 in force at 3.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/a)
 
 [^f00003]: Footnote: See section 332 of the Energy Act 2023 for the meaning of “the GEMA”.
 
@@ -1787,7 +1787,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-0127f7168b62425e5e8d0381e583b51c]: Commencement: Reg. 2 in force at 3.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/b)
+[^c-0127f7168b62425e5e8d0381e583b51c]: Commencement: Reg. 2 in force at 3.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/b)
 
 [^f00008]: Footnote: See paragraph 13 of Schedule 18 to the Energy Act 2023 for the meaning of “heat network authorisation”.
 
@@ -1795,41 +1795,41 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: Scottish charity number SC016637.
 
-[^key-578278d06a6a130b382493f1e0b6351f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/269/regulation/2) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/5/2)
+[^c-578278d06a6a130b382493f1e0b6351f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/269/regulation/2) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/5/2)
 
-[^key-7ca3ffc831441b2eec43004f80c006e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/269/regulation/2) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [5(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/5/3)
+[^c-7ca3ffc831441b2eec43004f80c006e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/269/regulation/2) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [5(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/5/3)
 
 [^f00011]: Footnote: See section 216 of the Energy Act 2023 for the meaning of “relevant heat network”.
 
 [^f00012]: Footnote: Section 217(1) of the Energy Act 2023 defines “**the Regulator**”, in relation to England and Wales and Scotland, as the GEMA but section 217(2) provides for the functions of “the Regulator” to be carried out by another person or body.
 
-[^key-9255b54a7dc2915deb41727114bfed5f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2025/269/regulation/2A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [6](https://www.legislation.gov.uk/uksi/2026/7/regulation/6)
+[^c-9255b54a7dc2915deb41727114bfed5f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2025/269/regulation/2A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [6](https://www.legislation.gov.uk/uksi/2026/7/regulation/6)
 
-[^key-8226698e74da2ff74fb9ffc8fdeebc55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/269/regulation/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-8226698e74da2ff74fb9ffc8fdeebc55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/269/regulation/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4dfb58fa78727cfa35428d7e625dc17e]: Commencement: Reg. 4 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+[^c-4dfb58fa78727cfa35428d7e625dc17e]: Commencement: Reg. 4 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
 
-[^key-1b075162b2e64a97f68bedfe501f9d6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/269/regulation/4) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-1b075162b2e64a97f68bedfe501f9d6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/269/regulation/4) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-0aa17f66a0a28537ca9d9398dcfd8d06]: Commencement: Reg. 5 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+[^c-0aa17f66a0a28537ca9d9398dcfd8d06]: Commencement: Reg. 5 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
 
-[^key-147d0be53fb7bb9b129a131a329b54d8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/269/regulation/5) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-147d0be53fb7bb9b129a131a329b54d8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/269/regulation/5) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4a80b86745e33a56bfae0f2bd384ae0a]: Commencement: Reg. 6 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+[^c-4a80b86745e33a56bfae0f2bd384ae0a]: Commencement: Reg. 6 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
 
-[^key-7eab4abaa342133c9d541b677c0d9438]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/269/regulation/6) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-7eab4abaa342133c9d541b677c0d9438]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/269/regulation/6) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00013]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27). Section 1 was amended by the Climate Change Act 2008 (2050 Target Amendment) Order 2019 ([S.I. 2019/1056](https://www.legislation.gov.uk/uksi/2019/1056)), articles 1 and 2.
 
 [^f00014]: Footnote: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27). Section 5A was inserted by the Sustainable Energy Act [2003 (c. 30)](https://www.legislation.gov.uk/ukpga/2003/30), section 6 and amended by the Electricity and Gas (Smart Meters Licensable Activity) Order 2012 ([S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400)), article 30(2) and by the Energy Act 2023 (Consequential Amendments) Regulations 2024 ([S.I. 2024/706](https://www.legislation.gov.uk/uksi/2024/706)), regulation 5(3); it is prospectively amended by the Energy Act 2023, Schedule 17, paragraph 13.
 
-[^key-fb1e1d73cfe0e23b03c64cb75274a48d]: Commencement: Reg. 7 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+[^c-fb1e1d73cfe0e23b03c64cb75274a48d]: Commencement: Reg. 7 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
 
-[^key-d066330f0040da264010501679c72347]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/269/regulation/7) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-d066330f0040da264010501679c72347]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/269/regulation/7) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-11cf6bee1290160cdea9a21c850c5ef3]: Commencement: Reg. 8 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+[^c-11cf6bee1290160cdea9a21c850c5ef3]: Commencement: Reg. 8 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
 
-[^key-5219b946c9c11e34cf22a9add2970714]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/269/regulation/8) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-5219b946c9c11e34cf22a9add2970714]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/269/regulation/8) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00015]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -1837,119 +1837,119 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00017]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); the definition of “sewerage services” in section 219(1) was amended by the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), section 94(3) and Schedule 7, paragraph 120(2).
 
-[^key-87d719756cc7008c6061cc37bf8d82fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/269/regulation/9) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-87d719756cc7008c6061cc37bf8d82fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/269/regulation/9) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-2d5f2ecc0b3adf087ec19dfcf36cf59e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/269/regulation/10) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-2d5f2ecc0b3adf087ec19dfcf36cf59e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/269/regulation/10) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00018]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-5d3c186a7270c82d40abb96fb708a43c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/269/regulation/11) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-5d3c186a7270c82d40abb96fb708a43c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/269/regulation/11) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00019]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
 [^f00020]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). For the meaning of “the data protection legislation”, see section 3(9) of the Data Protection Act 2018.
 
-[^key-e11609184f955e92fc36c7dfc5bb9fa8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/269/regulation/12) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-e11609184f955e92fc36c7dfc5bb9fa8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/269/regulation/12) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4a833ad830ebe519995baf21980c6c09]: Commencement: Reg. 13 in force at 3.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/d)
+[^c-4a833ad830ebe519995baf21980c6c09]: Commencement: Reg. 13 in force at 3.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/d)
 
 [^f00021]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
 
-[^key-0c35252eef979cc49b31ebbe0ef181ca]: Commencement: Reg. 14 in force at 1.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/a)
+[^c-0c35252eef979cc49b31ebbe0ef181ca]: Commencement: Reg. 14 in force at 1.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/a)
 
-[^key-20adc1822863358af4ecc3051c4d0065]: Commencement: Reg. 15 in force at 3.3.2025, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/e)
+[^c-20adc1822863358af4ecc3051c4d0065]: Commencement: Reg. 15 in force at 3.3.2025, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/e)
 
-[^key-f65eb7fefd2297888f3c9092e89f32ce]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/269/regulation/16) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-f65eb7fefd2297888f3c9092e89f32ce]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/269/regulation/16) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-0638a3d0c92e393a4160c59b8d229ba4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/269/regulation/17) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-0638a3d0c92e393a4160c59b8d229ba4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/269/regulation/17) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-3c31691b0cbfe8c4051b079f8751b50b]: Commencement: Reg. 18 in force at 3.3.2025, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/f)
+[^c-3c31691b0cbfe8c4051b079f8751b50b]: Commencement: Reg. 18 in force at 3.3.2025, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/f)
 
-[^key-d3f8f01a287fe7923e48c10e979e6be5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/269/regulation/19) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-d3f8f01a287fe7923e48c10e979e6be5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/269/regulation/19) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-188ec89ce4590ecc932e420ece31b1cf]: Commencement: Reg. 20 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/g)
+[^c-188ec89ce4590ecc932e420ece31b1cf]: Commencement: Reg. 20 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/g)
 
-[^key-e198c36431fdf26c85533330ef4445cf]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/b) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/a)
+[^c-e198c36431fdf26c85533330ef4445cf]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/b) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/a)
 
-[^key-34bf3db61082779d633509310ebf4d7f]: Textual amendment: Words in [reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/c) substituted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/b)
+[^c-34bf3db61082779d633509310ebf4d7f]: Textual amendment: Words in [reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/c) substituted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/b)
 
-[^key-2cf39e3eef88b5664083799129aaf861]: Textual amendment: Words in [reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/d) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/c)
+[^c-2cf39e3eef88b5664083799129aaf861]: Textual amendment: Words in [reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/d) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/c)
 
-[^key-2973536a0bed677c096d8f5b301e6882]: Textual amendment: [Reg. 20(1)(e)(v)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/e/v) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/d)
+[^c-2973536a0bed677c096d8f5b301e6882]: Textual amendment: [Reg. 20(1)(e)(v)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/e/v) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/d)
 
-[^key-f9e0602e197d9e43b844a9fd7b4a7bd8]: Textual amendment: Words in [reg. 20(1)(g)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/g) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/e)
+[^c-f9e0602e197d9e43b844a9fd7b4a7bd8]: Textual amendment: Words in [reg. 20(1)(g)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/g) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/e)
 
-[^key-378591281479274076953f0b3210d819]: Textual amendment: [Reg. 20(1)(ja)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/ja)[(jb)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/jb) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/f)
+[^c-378591281479274076953f0b3210d819]: Textual amendment: [Reg. 20(1)(ja)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/ja)[(jb)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/jb) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/f)
 
-[^key-214bcd0d8b1fcb0021fda635d7abec92]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/3A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/3)
+[^c-214bcd0d8b1fcb0021fda635d7abec92]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/3A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/3)
 
-[^key-8aa18143a4b57ea7b1944a14ce5a9fd2]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/5)[(6)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/6) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/4)
+[^c-8aa18143a4b57ea7b1944a14ce5a9fd2]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/5)[(6)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/6) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/4)
 
-[^key-250750b5c855f401077f1f069af79d3e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/269/regulation/21) in force at 27.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/269/regulation/1)
+[^c-250750b5c855f401077f1f069af79d3e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/269/regulation/21) in force at 27.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/269/regulation/1)
 
-[^key-ee5cf638f72b4cbc50a1a94307ce0fb6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/269/regulation/22) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-ee5cf638f72b4cbc50a1a94307ce0fb6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/269/regulation/22) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4ca62f6a273c97b85e98b170ea0f9e4d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/269/regulation/23) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-4ca62f6a273c97b85e98b170ea0f9e4d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/269/regulation/23) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-3d26a1f2792a0fdbbb2d2e68ffc065df]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2025/269/regulation/23A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/a), [8](https://www.legislation.gov.uk/uksi/2026/7/regulation/8)
+[^c-3d26a1f2792a0fdbbb2d2e68ffc065df]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2025/269/regulation/23A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/a), [8](https://www.legislation.gov.uk/uksi/2026/7/regulation/8)
 
-[^key-bb16cd5f948a2b96590662e13e0e910c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/269/regulation/24) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-bb16cd5f948a2b96590662e13e0e910c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/269/regulation/24) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-155dd8906fe899e6c13912e62c270be2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/269/regulation/25) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-155dd8906fe899e6c13912e62c270be2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/269/regulation/25) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-0856ac72b8b652f1059ae12cb558a0b6]: Commencement: Reg. 26 in force at 1.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/b)
+[^c-0856ac72b8b652f1059ae12cb558a0b6]: Commencement: Reg. 26 in force at 1.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/b)
 
-[^key-1aea6cd92031d9af57ee2cc762f35b61]: Commencement: Reg. 27 in force at 1.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/c)
+[^c-1aea6cd92031d9af57ee2cc762f35b61]: Commencement: Reg. 27 in force at 1.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/c)
 
-[^key-f74cd170e7fd88bb2e61f9abd9b2ced5]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2025/269/part/3A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/b), [9](https://www.legislation.gov.uk/uksi/2026/7/regulation/9)
+[^c-f74cd170e7fd88bb2e61f9abd9b2ced5]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2025/269/part/3A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/b), [9](https://www.legislation.gov.uk/uksi/2026/7/regulation/9)
 
-[^key-30a7febf90b9fa2b2c6e8a4bb6e65f2f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/269/regulation/28) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-30a7febf90b9fa2b2c6e8a4bb6e65f2f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/269/regulation/28) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00022]: Footnote: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41); see Chapter 3 of Part 1.
 
-[^key-481c1db7276abee763916eaeed531680]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/269/regulation/29) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-481c1db7276abee763916eaeed531680]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/269/regulation/29) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-26261e41109eac656e2c90a3dde4c56e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/269/regulation/30) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-26261e41109eac656e2c90a3dde4c56e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/269/regulation/30) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-bdbe48acdd0118c957128c40b369db70]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/269/regulation/31) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-bdbe48acdd0118c957128c40b369db70]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/269/regulation/31) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00023]: Footnote: Consumer Scotland was established by the Consumer Scotland Act [2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11).
 
-[^key-abbf056573bebdc3b1bd12fed4a4ccb6]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/269/regulation/32) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-abbf056573bebdc3b1bd12fed4a4ccb6]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/269/regulation/32) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-05e2245315b8742cb884bf2a5119054a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/269/regulation/33) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-05e2245315b8742cb884bf2a5119054a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/269/regulation/33) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-c3c7ab030a4188bb8e30463ba6dff8e7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/269/regulation/34) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-c3c7ab030a4188bb8e30463ba6dff8e7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/269/regulation/34) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00024]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110) (1 & 2 Vict); the rate was last amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564).
 
-[^key-61e77871d88f8d737f513e725d530c77]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/269/regulation/35) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-61e77871d88f8d737f513e725d530c77]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/269/regulation/35) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-62673df1233b420d0c3cdc064f77e999]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/269/regulation/36) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-62673df1233b420d0c3cdc064f77e999]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/269/regulation/36) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4cb937bc8a3451ef36aa4a5b64d34664]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/269/regulation/37) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-4cb937bc8a3451ef36aa4a5b64d34664]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/269/regulation/37) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-2671e519bd6d9e5b3db6c4238f592f3d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/269/regulation/38) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-2671e519bd6d9e5b3db6c4238f592f3d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/269/regulation/38) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-053680860dccfc0d9909e4dcc5ed516d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/269/regulation/39) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-053680860dccfc0d9909e4dcc5ed516d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/269/regulation/39) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-cb99c3210daba4c5a6130f12cc17291a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/269/regulation/40) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-cb99c3210daba4c5a6130f12cc17291a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/269/regulation/40) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-374b89aaa9f8880688e3d3adc39e546b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/269/regulation/41) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-374b89aaa9f8880688e3d3adc39e546b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/269/regulation/41) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-aa3dc8617efca8ee4120f8b8473f346a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/269/regulation/42) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-aa3dc8617efca8ee4120f8b8473f346a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/269/regulation/42) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00025]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-d693579f9e9591afa53ff63c8e83618d]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/269/regulation/43) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-d693579f9e9591afa53ff63c8e83618d]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/269/regulation/43) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-d0494e0965b2f901d05ce6a2c6158710]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/269/regulation/44) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-d0494e0965b2f901d05ce6a2c6158710]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/269/regulation/44) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-dfa46a6c4c5204c203369a42902ae999]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/269/regulation/45) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-dfa46a6c4c5204c203369a42902ae999]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/269/regulation/45) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00026]: Footnote: [S.I. 2002/1111](https://www.legislation.gov.uk/uksi/2002/1111).
 
-[^key-18a40035f9dee98e55dea030e951238d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/269/regulation/46) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/5)
+[^c-18a40035f9dee98e55dea030e951238d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/269/regulation/46) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/5)
 
 [^f00027]: Footnote: Section 31D was inserted by the Competition Act 1998 and Other Enactments (Amendment) Regulations 2004 ([S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261)), regulation 1(a) and Schedule 1, paragraph 18 and amended by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 103(3) and Schedule 5, paragraph 14.
 
@@ -1993,93 +1993,93 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00047]: Footnote: Relevant amendments to section 117 were made by the Enterprise and Regulatory Reform Act 2013, section 29(11), Schedule 5, paragraph 151 and the Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014, Schedule 1, paragraph 6.
 
-[^key-434c056a32b0cdbc0238f9545d563b3c]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/269/regulation/47) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/5)
+[^c-434c056a32b0cdbc0238f9545d563b3c]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/269/regulation/47) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/5)
 
-[^key-1c0febdb4e8427070d73062af0357e0f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/269/regulation/48) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-1c0febdb4e8427070d73062af0357e0f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/269/regulation/48) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-202573290b7996112c45b1f6d95bf433]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/269/regulation/49) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-202573290b7996112c45b1f6d95bf433]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/269/regulation/49) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-86864bd0568751a2cea6733ef995e1dd]: Commencement: Reg. 50 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+[^c-86864bd0568751a2cea6733ef995e1dd]: Commencement: Reg. 50 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
 
-[^key-f55832a8755052b2842d59d456b03542]: Commencement: Reg. 51 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+[^c-f55832a8755052b2842d59d456b03542]: Commencement: Reg. 51 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
 
-[^key-e8622b1b5c46a10f58f1674d9ebb1cc9]: Commencement: Reg. 52 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+[^c-e8622b1b5c46a10f58f1674d9ebb1cc9]: Commencement: Reg. 52 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
 
-[^key-6759a53550116e9d5575f8f48468e0fe]: Commencement: Reg. 53 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+[^c-6759a53550116e9d5575f8f48468e0fe]: Commencement: Reg. 53 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
 
-[^key-2ade186c214a7a16ffb73736a9347498]: Commencement: Reg. 54(1)-(3)(5)(10) in force at 3.3.2025, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/d)
+[^c-2ade186c214a7a16ffb73736a9347498]: Commencement: Reg. 54(1)-(3)(5)(10) in force at 3.3.2025, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/d)
 
-[^key-9d947f47210d6989e546e79f5e619e51]: Commencement: [Reg. 54(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/54/4), [(6)-(9)](https://www.legislation.gov.uk/uksi/2025/269/regulation/54/6) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-9d947f47210d6989e546e79f5e619e51]: Commencement: [Reg. 54(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/54/4), [(6)-(9)](https://www.legislation.gov.uk/uksi/2025/269/regulation/54/6) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00048]: Footnote: Relevant amendments to Part 1 were made by the Electricity and Gas (Internal Markets) Regulations 2011 ([S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704)), regulation 3(2) and (3), the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)), Schedule 1, paragraph 12, the Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530)), regulation 77, the Gas (Internal Markets) Regulations 2020 ([S.I. 2020/625](https://www.legislation.gov.uk/uksi/2020/625)), regulation 8 and the Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 ([S.I. 2022/34](https://www.legislation.gov.uk/uksi/2022/34)), Schedule, paragraph 7.
 
-[^key-bc39036e9f61e6fea7385777013e9a48]: Commencement: Reg. 55 in force at 1.4.2025, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/e)
+[^c-bc39036e9f61e6fea7385777013e9a48]: Commencement: Reg. 55 in force at 1.4.2025, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/e)
 
-[^key-2b023fb3650649377acc09eb4d21943d]: Commencement: Reg. 56(1)-(8) in force at 3.3.2025 for specified purposes, see [reg. 1(2)(i)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/i)
+[^c-2b023fb3650649377acc09eb4d21943d]: Commencement: Reg. 56(1)-(8) in force at 3.3.2025 for specified purposes, see [reg. 1(2)(i)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/i)
 
-[^key-5f7995e7ecd636f651d26036de2252e3]: Commencement: [Reg. 56(1)-(8)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/1) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-5f7995e7ecd636f651d26036de2252e3]: Commencement: [Reg. 56(1)-(8)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/1) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-184bc6c85d3a2845e11535de0c2f79de]: Commencement: Reg. 56(9)-(11) in force at 1.4.2025, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/f)
+[^c-184bc6c85d3a2845e11535de0c2f79de]: Commencement: Reg. 56(9)-(11) in force at 1.4.2025, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/f)
 
-[^key-9f2c68a58f5053af8cc84602332a8255]: Textual amendment: Words in [reg. 56(7)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/7/b) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [10(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/10/2)
+[^c-9f2c68a58f5053af8cc84602332a8255]: Textual amendment: Words in [reg. 56(7)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/7/b) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [10(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/10/2)
 
-[^key-f3841d85d123750f67cf5baa4df628a5]: Textual amendment: Words in [reg. 56(11)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/11) substituted (28.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/10)](https://www.legislation.gov.uk/uksi/2026/10), [regs. 2](https://www.legislation.gov.uk/uksi/2026/10/regulation/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/10/regulation/4/2/a)
+[^c-f3841d85d123750f67cf5baa4df628a5]: Textual amendment: Words in [reg. 56(11)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/11) substituted (28.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/10)](https://www.legislation.gov.uk/uksi/2026/10), [regs. 2](https://www.legislation.gov.uk/uksi/2026/10/regulation/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/10/regulation/4/2/a)
 
 [^f00049]: Footnote: The Energy Ombudsman Deed Poll is available at https://lightning.nativeforms.app/m0/YeUDXXa2SQ2b or in hard copy from Energy Ombudsman, P.O. Box 966, Warrington WA4 9DF.
 
 [^f00050]: Footnote: The Terms of Reference: Energy Sector and the Membership Rules for Participating Companies are available at https://www.energyombudsman.org/terms-of-reference or in hard copy from Energy Ombudsman, P.O. Box 966, Warrington WA4 9DF.
 
-[^key-8bd364438b852f27d0195692afaa7722]: Textual amendment: Words in [reg. 56(11)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/11) substituted (28.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/10)](https://www.legislation.gov.uk/uksi/2026/10), [regs. 2](https://www.legislation.gov.uk/uksi/2026/10/regulation/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/10/regulation/4/2/b)
+[^c-8bd364438b852f27d0195692afaa7722]: Textual amendment: Words in [reg. 56(11)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/11) substituted (28.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/10)](https://www.legislation.gov.uk/uksi/2026/10), [regs. 2](https://www.legislation.gov.uk/uksi/2026/10/regulation/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/10/regulation/4/2/b)
 
-[^key-9a6f70eb8b28271069b0a88948ba499e]: Textual amendment: [Reg. 56(12)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/12) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [10(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/10/4)
+[^c-9a6f70eb8b28271069b0a88948ba499e]: Textual amendment: [Reg. 56(12)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/12) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [10(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/10/4)
 
-[^key-b7ca7e88932cfd79f3aff5c887ffdc87]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2025/269/regulation/57) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-b7ca7e88932cfd79f3aff5c887ffdc87]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2025/269/regulation/57) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-7adeb65ee7374f44cf16d114cff736f2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2025/269/regulation/58) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-7adeb65ee7374f44cf16d114cff736f2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2025/269/regulation/58) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-0b5a1094c05ef854c26bf1bb31080a06]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2025/269/regulation/59) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-0b5a1094c05ef854c26bf1bb31080a06]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2025/269/regulation/59) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-da4c1909e95b8537e554036f9e59c090]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2025/269/part/7A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2026/7/regulation/11)
+[^c-da4c1909e95b8537e554036f9e59c090]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2025/269/part/7A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2026/7/regulation/11)
 
-[^key-4f75f2b507881b15395a9c79524058d7]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2025/269/regulation/60) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-4f75f2b507881b15395a9c79524058d7]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2025/269/regulation/60) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-b3e484f7b65f35f563adaa910c84d6b5]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2025/269/regulation/61) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-b3e484f7b65f35f563adaa910c84d6b5]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2025/269/regulation/61) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-3015b2f90bae5dc717474ed623452740]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2025/269/regulation/62) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-3015b2f90bae5dc717474ed623452740]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2025/269/regulation/62) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4af406c3fdca93968cf051f22634bafe]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2025/269/regulation/63) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-4af406c3fdca93968cf051f22634bafe]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2025/269/regulation/63) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-41873cdcf3ef8d44d02d174de7d09a6b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2025/269/regulation/64) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-41873cdcf3ef8d44d02d174de7d09a6b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2025/269/regulation/64) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-46e60a33896b2f38a158b12659aaaada]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2025/269/regulation/65) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-46e60a33896b2f38a158b12659aaaada]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2025/269/regulation/65) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-897fabaf5067e840a36d6248047ce516]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2025/269/regulation/66) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-897fabaf5067e840a36d6248047ce516]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2025/269/regulation/66) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-fa794519b899b6ccec9113aac9ee327a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2025/269/regulation/67) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-fa794519b899b6ccec9113aac9ee327a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2025/269/regulation/67) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00051]: Footnote: [2021, asp 9](https://www.legislation.gov.uk/asp/2021/9).
 
-[^key-ec59288bf213952ddd2142a0c9945adf]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2025/269/regulation/68) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-ec59288bf213952ddd2142a0c9945adf]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2025/269/regulation/68) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00052]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
 [^f00053]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). For the meaning of “the data protection legislation”, see section 3(9) of the Data Protection Act 2018.
 
-[^key-9ec8799d356eedadb252df406efd4444]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2025/269/regulation/69) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-9ec8799d356eedadb252df406efd4444]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2025/269/regulation/69) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00054]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-48237cf11869b1cda1b8ce052eb5f5f8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/1) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-48237cf11869b1cda1b8ce052eb5f5f8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/1) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-b2e028d42e94d57e7cae7a86aa62ce4b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/2) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-b2e028d42e94d57e7cae7a86aa62ce4b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/2) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-9af3a99c096c924414f41a5699a38847]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-9af3a99c096c924414f41a5699a38847]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-5705cbe3bfefda5fa2128dd2739a8130]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/4) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-5705cbe3bfefda5fa2128dd2739a8130]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/4) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00055]: Footnote: See Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) for the meaning of “rules of court”.
 
-[^key-8bde1c21883c233ab5ac1c706def63f3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/5) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-8bde1c21883c233ab5ac1c706def63f3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/5) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
 [^f00056]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -2087,14 +2087,14 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00058]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-aa4fa606f85d5817a3faa4f7eec8b6a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/1) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-aa4fa606f85d5817a3faa4f7eec8b6a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/1) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-2d0d754f9c70a3e1e0dd79f3967feb5f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/2) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-2d0d754f9c70a3e1e0dd79f3967feb5f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/2) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-52085b01a2c9c2d6319b300930673c95]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-52085b01a2c9c2d6319b300930673c95]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-4beaf524a61f5ad4b61c390f963200db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/4) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-4beaf524a61f5ad4b61c390f963200db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/4) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-3c197a4bc0d72e88990d99a7ffafc268]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/5) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-3c197a4bc0d72e88990d99a7ffafc268]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/5) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
 
-[^key-036c1a9ee4727647b60eefaf3772781e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/6) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+[^c-036c1a9ee4727647b60eefaf3772781e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/6) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)

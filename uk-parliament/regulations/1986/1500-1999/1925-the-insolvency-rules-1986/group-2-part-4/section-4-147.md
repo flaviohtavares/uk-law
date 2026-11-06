@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.147. Vacation of office on making of winding-up order[^key-53947b8b5719a48db430e7a75eec1c66]
+## 4.147. Vacation of office on making of winding-up order[^c-53947b8b5719a48db430e7a75eec1c66]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the liquidator vacates office in consequence of the court making a winding
 
 ## Annotations
 
-[^key-53947b8b5719a48db430e7a75eec1c66]: Commencement: [Rule 4.147](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.147) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-53947b8b5719a48db430e7a75eec1c66]: Commencement: [Rule 4.147](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.147) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

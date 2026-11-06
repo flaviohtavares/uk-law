@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Recovery of payment if nomination found to be invalid[^key-fa0e6a2d06e90171523ba4f4e94b7bab]
+## 144. Recovery of payment if nomination found to be invalid[^c-fa0e6a2d06e90171523ba4f4e94b7bab]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa0e6a2d06e90171523ba4f4e94b7bab]: Commencement: Reg. 144 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-fa0e6a2d06e90171523ba4f4e94b7bab]: Commencement: Reg. 144 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

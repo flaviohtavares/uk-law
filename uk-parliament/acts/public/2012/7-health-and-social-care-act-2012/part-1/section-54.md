@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Certification of death[^key-b377a07c37aec5cb63bd3b748bb3ebd1]
+## 54. Certification of death[^c-b377a07c37aec5cb63bd3b748bb3ebd1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b377a07c37aec5cb63bd3b748bb3ebd1]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/2012/7/section/54) omitted (1.10.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/6), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-b377a07c37aec5cb63bd3b748bb3ebd1]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/2012/7/section/54) omitted (1.10.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/6), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)

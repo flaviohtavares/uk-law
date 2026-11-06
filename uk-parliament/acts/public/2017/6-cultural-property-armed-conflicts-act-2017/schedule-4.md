@@ -16,39 +16,39 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Second Protocol[^key-77e242e533d3b4a687bd6ded2dc032ac]
+## SCHEDULE 4 — Second Protocol[^c-77e242e533d3b4a687bd6ded2dc032ac]
 
 *Extent: E+W+S+N.I.*
 
 Section 1(2)
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**The Parties,**
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**The Parties,**
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Conscious** of the need to improve the protection of cultural property in the event of armed conflict and to establish an enhanced system of protection for specifically designated cultural property;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Conscious** of the need to improve the protection of cultural property in the event of armed conflict and to establish an enhanced system of protection for specifically designated cultural property;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Reaffirming** the importance of the provisions of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at the Hague on 14 May 1954, and emphasizing the necessity to supplement these provisions through measures to reinforce their implementation;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Reaffirming** the importance of the provisions of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at the Hague on 14 May 1954, and emphasizing the necessity to supplement these provisions through measures to reinforce their implementation;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Desiring** to provide the High Contracting Parties to the Convention with a means of being more closely involved in the protection of cultural property in the event of armed conflict by establishing appropriate procedures therefor;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Desiring** to provide the High Contracting Parties to the Convention with a means of being more closely involved in the protection of cultural property in the event of armed conflict by establishing appropriate procedures therefor;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Considering** that the rules governing the protection of cultural property in the event of armed conflict should reflect developments in international law;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Considering** that the rules governing the protection of cultural property in the event of armed conflict should reflect developments in international law;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Affirming** that the rules of customary international law will continue to govern questions not regulated by the provisions of this Protocol;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Affirming** that the rules of customary international law will continue to govern questions not regulated by the provisions of this Protocol;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Have agreed as follows:**
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Have agreed as follows:**
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**The Parties,**
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**The Parties,**
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Conscious** of the need to improve the protection of cultural property in the event of armed conflict and to establish an enhanced system of protection for specifically designated cultural property;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Conscious** of the need to improve the protection of cultural property in the event of armed conflict and to establish an enhanced system of protection for specifically designated cultural property;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Reaffirming** the importance of the provisions of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at the Hague on 14 May 1954, and emphasizing the necessity to supplement these provisions through measures to reinforce their implementation;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Reaffirming** the importance of the provisions of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at the Hague on 14 May 1954, and emphasizing the necessity to supplement these provisions through measures to reinforce their implementation;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Desiring** to provide the High Contracting Parties to the Convention with a means of being more closely involved in the protection of cultural property in the event of armed conflict by establishing appropriate procedures therefor;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Desiring** to provide the High Contracting Parties to the Convention with a means of being more closely involved in the protection of cultural property in the event of armed conflict by establishing appropriate procedures therefor;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Considering** that the rules governing the protection of cultural property in the event of armed conflict should reflect developments in international law;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Considering** that the rules governing the protection of cultural property in the event of armed conflict should reflect developments in international law;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Affirming** that the rules of customary international law will continue to govern questions not regulated by the provisions of this Protocol;
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Affirming** that the rules of customary international law will continue to govern questions not regulated by the provisions of this Protocol;
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]**Have agreed as follows:**
+[^c-77e242e533d3b4a687bd6ded2dc032ac]**Have agreed as follows:**
 
 #### Chapter 1 — Introduction
 
@@ -474,4 +474,4 @@ In conformity with Article 102 of the Charter of the United Nations, this Protoc
 
 ## Annotations
 
-[^key-77e242e533d3b4a687bd6ded2dc032ac]: Commencement: Sch. 4 in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-77e242e533d3b4a687bd6ded2dc032ac]: Commencement: Sch. 4 in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. VAT representatives[^key-2f114b8bacd6c4c735c23ce7d299e795]
+## 187. VAT representatives[^c-2f114b8bacd6c4c735c23ce7d299e795]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Commissioners may, as a condition of allowing a repayment under this Part, r
 
 ## Annotations
 
-[^key-2f114b8bacd6c4c735c23ce7d299e795]: Commencement: Reg. 187 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-2f114b8bacd6c4c735c23ce7d299e795]: Commencement: Reg. 187 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

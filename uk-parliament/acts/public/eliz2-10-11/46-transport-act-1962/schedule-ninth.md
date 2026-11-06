@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## NINTH SCHEDULE — Port Charges[^key-cd91b4130acd46e29ebd3e14e82bf9d4]
+## NINTH SCHEDULE — Port Charges[^c-cd91b4130acd46e29ebd3e14e82bf9d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ Sections 50 and 51.
 
 ### Other port charges
 
-**5.**[^c16892361] (1) The charges made by any of the Boards or Canal & River Trust[^key-c66e0cec80fc0304d29edf06438b8ed5] for the use of services or facilities provided in, or in connection with, a harbour specified in this Schedule (other than ship, passenger and goods dues, charges for the carriage of goods or passengers on any railway, charges for the use of a railway or charges in respect of railway wagons) shall be such as may be reasonable.
+**5.**[^c16892361] (1) The charges made by any of the Boards or Canal & River Trust[^c-c66e0cec80fc0304d29edf06438b8ed5] for the use of services or facilities provided in, or in connection with, a harbour specified in this Schedule (other than ship, passenger and goods dues, charges for the carriage of goods or passengers on any railway, charges for the use of a railway or charges in respect of railway wagons) shall be such as may be reasonable.
 
 (2) In this paragraph the expression “ **ship, passenger and goods dues** ” has the meaning assigned to it by section 57(1) of the [^c4803841] Harbours Act 1964.
 
@@ -72,7 +72,7 @@ Sections 50 and 51.
 
 ## Annotations
 
-[^key-cd91b4130acd46e29ebd3e14e82bf9d4]: Modification: Sch. 9 excluded (27.2.2008) by [Port of Weston Harbour Revision Order 2008 (S.I. 2008/230)](https://www.legislation.gov.uk/uksi/2008/230), [arts. 1](https://www.legislation.gov.uk/uksi/2008/230/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2008/230/article/5/6)
+[^c-cd91b4130acd46e29ebd3e14e82bf9d4]: Modification: Sch. 9 excluded (27.2.2008) by [Port of Weston Harbour Revision Order 2008 (S.I. 2008/230)](https://www.legislation.gov.uk/uksi/2008/230), [arts. 1](https://www.legislation.gov.uk/uksi/2008/230/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2008/230/article/5/6)
 
 [^c4803721]: Textual amendment: Sch. 9 para. 1 repealed by [Transport Act 1981 (c. 56, SIF 126)](https://www.legislation.gov.uk/ukpga/1981/56), [s. 5(4)](https://www.legislation.gov.uk/ukpga/1981/56/section/5/4), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1981/56/schedule/12/part/I)
 
@@ -92,7 +92,7 @@ Sections 50 and 51.
 
 [^c16892361]: Textual amendment: Para. 5 substituted by [Harbours Act 1964 (c. 40)](https://www.legislation.gov.uk/ukpga/1964/40), [s. 39(3)](https://www.legislation.gov.uk/ukpga/1964/40/section/39/3)
 
-[^key-c66e0cec80fc0304d29edf06438b8ed5]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/NINTH/paragraph/5/1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/29) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-c66e0cec80fc0304d29edf06438b8ed5]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/NINTH/paragraph/5/1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/29) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4803841]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

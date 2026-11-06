@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-899beef47737a7333bf9d0fdf06c25b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-899beef47737a7333bf9d0fdf06c25b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-899beef47737a7333bf9d0fdf06c25b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-899beef47737a7333bf9d0fdf06c25b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The consequential amendments in Part 2 of Schedule 12 to this Act have effect.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-899beef47737a7333bf9d0fdf06c25b2]: Textual amendment: S. 57(1)(2) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-899beef47737a7333bf9d0fdf06c25b2]: Textual amendment: S. 57(1)(2) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

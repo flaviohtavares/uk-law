@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-97e79c644004929e50a15313efc9f415] may by order substitute for the term specified in any of the following provisions—
+(1) The Secretary of State[^c-97e79c644004929e50a15313efc9f415] may by order substitute for the term specified in any of the following provisions—
 
 - (a) section 3(3),
 - (b) section 4(1)(c)(i) and (2)(b),
@@ -39,4 +39,4 @@ such shorter term as he thinks fit.
 
 ## Annotations
 
-[^key-97e79c644004929e50a15313efc9f415]: Textual amendment: Words in [s. 118](https://www.legislation.gov.uk/ukpga/2002/9/section/118) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-97e79c644004929e50a15313efc9f415]: Textual amendment: Words in [s. 118](https://www.legislation.gov.uk/ukpga/2002/9/section/118) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

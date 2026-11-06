@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5AZA — Meaning of “scheme of reconstruction”[^key-62b2974b1c71fb1e5b4b7a49bec3650b]
+## SCHEDULE 5AZA — Meaning of “scheme of reconstruction”[^c-62b2974b1c71fb1e5b4b7a49bec3650b]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ and does not involve the issue of units in any successor collective investment s
 
 ## Annotations
 
-[^key-62b2974b1c71fb1e5b4b7a49bec3650b]: Textual amendment: Sch. 5AZA inserted (8.6.2013) by [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2013/1400/regulation/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-62b2974b1c71fb1e5b4b7a49bec3650b]: Textual amendment: Sch. 5AZA inserted (8.6.2013) by [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2013/1400/regulation/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

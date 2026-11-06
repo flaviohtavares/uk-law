@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Transitional provisions: approvals granted under article 17(1) of the Forestry Order or article 17(1) of the 2005 Order[^key-a5c8c1ea629f980221bf4e58e6200236]
+## 53. Transitional provisions: approvals granted under article 17(1) of the Forestry Order or article 17(1) of the 2005 Order[^c-a5c8c1ea629f980221bf4e58e6200236]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5c8c1ea629f980221bf4e58e6200236]: Commencement: Reg. 53 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-a5c8c1ea629f980221bf4e58e6200236]: Commencement: Reg. 53 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

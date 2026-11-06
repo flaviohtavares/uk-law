@@ -37,7 +37,7 @@ Whereas the Commons of the United Kingdom in Parliament assembled have resolved 
 
 Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Main authorisation for use of resources for 2026-27[^key-062a7ded3f49a6d468dc9497f5e535c4]
+## 1. Main authorisation for use of resources for 2026-27[^c-062a7ded3f49a6d468dc9497f5e535c4]
 
 (1) The amount up to which there is authorisation for the use of resources for the year ending with 31 March 2027 is increased by £634,484,239,000.
 
@@ -46,7 +46,7 @@ Be it therefore enacted by the King’s most Excellent Majesty, by and with the 
 - (a) £527,294,965,000 is authorised for use for current purposes, and
 - (b) £107,189,274,000 is authorised for use for capital purposes.
 
-## 2. Main authorisation for issue of money out of Consolidated Fund in 2026-27[^key-432ce67bdacc21894803c00ea15ed267]
+## 2. Main authorisation for issue of money out of Consolidated Fund in 2026-27[^c-432ce67bdacc21894803c00ea15ed267]
 
 The amount up to which the Treasury has authorisation—
 
@@ -55,7 +55,7 @@ The amount up to which the Treasury has authorisation—
 
 is increased by £514,775,453,000.
 
-## 3. Appropriation of resources authorised for use for year 2026-27[^key-2cc38d04588d50861ba6aec48c545792]
+## 3. Appropriation of resources authorised for use for year 2026-27[^c-2cc38d04588d50861ba6aec48c545792]
 
 (1) The aggregate of the following (which is £1,154,943,006,000) is appropriated for the year ending with 31 March 2027 in accordance with subsections (2) to (4)—
 
@@ -85,7 +85,7 @@ is appropriated by this Act for use, for current or for capital purposes (accord
 
 (5) Section 5(4) applies (instead of subsections (2) to (4) of this section) to any amount of resources set out in a Scheduled Estimate if it is identified in that Estimate as representing the amount of an estimated surplus.
 
-## 4. Appropriation of money authorised for issue in year 2026-27[^key-76d5ae1f5d5954278130deb2b4bd4e0d]
+## 4. Appropriation of money authorised for issue in year 2026-27[^c-76d5ae1f5d5954278130deb2b4bd4e0d]
 
 (1) The aggregate of the following (which is £936,824,189,000) is appropriated for the year ending with 31 March 2027 in accordance with subsection (2)—
 
@@ -99,7 +99,7 @@ is appropriated by this Act for use, for current or for capital purposes (accord
 
 (3) Section 5(4) applies (instead of subsection (2) of this section) to any amount of money set out in a Scheduled Estimate if it is identified in that Estimate as representing the amount of an estimated surplus.
 
-## 5. Appropriation and other use of income[^key-d448b17a0331513a1b42ae6f774f9559]
+## 5. Appropriation and other use of income[^c-d448b17a0331513a1b42ae6f774f9559]
 
 (1) Subsections (2) to (4) make provision (instead of imposing limits on appropriations in aid under section 2 of the Government Resources and Accounts Act 2000) about the use of income arising for the year ending with 31 March 2027 from matters specified in the Scheduled Estimates as matters from which income may arise.
 
@@ -128,11 +128,11 @@ is appropriated by this Act for use, for current or for capital purposes (accord
 
 (7) A direction by the Treasury under this section may be revoked or varied by a subsequent direction.
 
-## 6. Operation from beginning of financial year[^key-2eb08652d9c23ac35c1bb6b662e753c8]
+## 6. Operation from beginning of financial year[^c-2eb08652d9c23ac35c1bb6b662e753c8]
 
 The appropriations and other provision made by sections 3 to 5 are to be treated as having had effect from the beginning of 1 April 2026.
 
-## 7. Interpretation[^key-b11215cd76823a871cba3b11e79d0814]
+## 7. Interpretation[^c-b11215cd76823a871cba3b11e79d0814]
 
 (1) In this Act—
 
@@ -157,11 +157,11 @@ The appropriations and other provision made by sections 3 to 5 are to be treated
 - (b) the National Audit Office;
 - (c) the Parliamentary Works Grant.
 
-## 8. Short title[^key-61897016f91792e5f365d6f5de2debfa]
+## 8. Short title[^c-61897016f91792e5f365d6f5de2debfa]
 
 This Act may be cited as the Supply and Appropriation (Main Estimates) Act 2026.
 
-## Schedule — Appropriations for financial year 2026-27[^key-039a146a41dbd8627814f069dc97245a]
+## Schedule — Appropriations for financial year 2026-27[^c-039a146a41dbd8627814f069dc97245a]
 
 Section 7
 
@@ -1308,20 +1308,20 @@ The Local Government Boundary Commission for England
 
 ## Annotations
 
-[^key-062a7ded3f49a6d468dc9497f5e535c4]: Commencement: S. 1 in force at Royal Assent
+[^c-062a7ded3f49a6d468dc9497f5e535c4]: Commencement: S. 1 in force at Royal Assent
 
-[^key-432ce67bdacc21894803c00ea15ed267]: Commencement: S. 2 in force at Royal Assent
+[^c-432ce67bdacc21894803c00ea15ed267]: Commencement: S. 2 in force at Royal Assent
 
-[^key-2cc38d04588d50861ba6aec48c545792]: Commencement: S. 3 in force at Royal Assent
+[^c-2cc38d04588d50861ba6aec48c545792]: Commencement: S. 3 in force at Royal Assent
 
-[^key-76d5ae1f5d5954278130deb2b4bd4e0d]: Commencement: S. 4 in force at Royal Assent
+[^c-76d5ae1f5d5954278130deb2b4bd4e0d]: Commencement: S. 4 in force at Royal Assent
 
-[^key-d448b17a0331513a1b42ae6f774f9559]: Commencement: S. 5 in force at Royal Assent
+[^c-d448b17a0331513a1b42ae6f774f9559]: Commencement: S. 5 in force at Royal Assent
 
-[^key-2eb08652d9c23ac35c1bb6b662e753c8]: Commencement: S. 6 in force at Royal Assent
+[^c-2eb08652d9c23ac35c1bb6b662e753c8]: Commencement: S. 6 in force at Royal Assent
 
-[^key-b11215cd76823a871cba3b11e79d0814]: Commencement: S. 7 in force at Royal Assent
+[^c-b11215cd76823a871cba3b11e79d0814]: Commencement: S. 7 in force at Royal Assent
 
-[^key-61897016f91792e5f365d6f5de2debfa]: Commencement: S. 8 in force at Royal Assent
+[^c-61897016f91792e5f365d6f5de2debfa]: Commencement: S. 8 in force at Royal Assent
 
-[^key-039a146a41dbd8627814f069dc97245a]: Commencement: Sch. in force at Royal Assent
+[^c-039a146a41dbd8627814f069dc97245a]: Commencement: Sch. in force at Royal Assent

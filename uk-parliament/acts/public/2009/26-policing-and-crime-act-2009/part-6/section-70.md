@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Extradition to category 2 territory[^key-b06303f03d44d3eebf21de69394fa9d5]
+## 70. Extradition to category 2 territory[^c-b06303f03d44d3eebf21de69394fa9d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ After section 76 of the Extradition Act 2003 (c. 41) insert—
 
 ## Annotations
 
-[^key-b06303f03d44d3eebf21de69394fa9d5]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2009/26/section/70) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(m)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/m) (with [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/d))
+[^c-b06303f03d44d3eebf21de69394fa9d5]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2009/26/section/70) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(m)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/m) (with [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/d))

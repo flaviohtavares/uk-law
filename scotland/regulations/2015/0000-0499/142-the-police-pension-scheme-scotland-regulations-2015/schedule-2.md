@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Progressive medical conditions[^key-2b0924d2797922fa0bc5b82b7bd8088a]
+## SCHEDULE 2 — Progressive medical conditions[^c-2b0924d2797922fa0bc5b82b7bd8088a]
 
 *Extent: S*
 
 Regulation 102
 
-[^key-2b0924d2797922fa0bc5b82b7bd8088a]
+[^c-2b0924d2797922fa0bc5b82b7bd8088a]
 
 - AIDS;
 - Alzheimer’s disease;
@@ -38,4 +38,4 @@ Regulation 102
 
 ## Annotations
 
-[^key-2b0924d2797922fa0bc5b82b7bd8088a]: Commencement: Sch. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2b0924d2797922fa0bc5b82b7bd8088a]: Commencement: Sch. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Duty to prepare and publish school profile[^key-5c8e0edd1624d6b2ebfcb7d7d6f06a3e]
+## 32. Duty to prepare and publish school profile[^c-5c8e0edd1624d6b2ebfcb7d7d6f06a3e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c8e0edd1624d6b2ebfcb7d7d6f06a3e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/21/section/32) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-5c8e0edd1624d6b2ebfcb7d7d6f06a3e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/21/section/32) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

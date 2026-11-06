@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Co-operation between authorities[^key-00d37dd99ef45db21ea0c92102c51c20]
+## 91. Co-operation between authorities[^c-00d37dd99ef45db21ea0c92102c51c20]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00d37dd99ef45db21ea0c92102c51c20]: Commencement: S. 91 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-00d37dd99ef45db21ea0c92102c51c20]: Commencement: S. 91 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)

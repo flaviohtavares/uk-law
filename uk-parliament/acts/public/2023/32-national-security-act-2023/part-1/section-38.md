@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Power to exclude the public from proceedings[^key-bbb1ba191baa92e24d2d06ea38c0cc55][^key-3e452df0a5a79a3eb9b84e537dbb15b4]
+## 38. Power to exclude the public from proceedings[^c-bbb1ba191baa92e24d2d06ea38c0cc55][^c-3e452df0a5a79a3eb9b84e537dbb15b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ except for the passing of sentence.
 
 ## Annotations
 
-[^key-bbb1ba191baa92e24d2d06ea38c0cc55]: Commencement: S. 38 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-bbb1ba191baa92e24d2d06ea38c0cc55]: Commencement: S. 38 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-3e452df0a5a79a3eb9b84e537dbb15b4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/32/section/38) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-3e452df0a5a79a3eb9b84e537dbb15b4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/32/section/38) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

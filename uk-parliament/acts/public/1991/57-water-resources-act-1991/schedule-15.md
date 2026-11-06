@@ -26,7 +26,7 @@ Sections 135 and 138.
 
 **1.** (1) A drainage charge—
 
-- (a) shall be raised by the appropriate agency[^key-1d6c45ed99b96a58f978e209a24fb1f6] in writing under the common seal of the appropriate agency; and
+- (a) shall be raised by the appropriate agency[^c-1d6c45ed99b96a58f978e209a24fb1f6] in writing under the common seal of the appropriate agency; and
 - (b) shall be deemed to be raised on the date on which a resolution is passed by the appropriate agency authorising their seal to be affixed to the charge.
 
 (2) Every drainage charge shall be raised for a year ending on 31st March and shall be raised before or during the year for which it is raised.
@@ -46,7 +46,7 @@ Sections 135 and 138.
 
 **3.** (1) Subject to paragraphs 4 and 5 below—
 
-- (a) drainage charges shall be levied on the occupiers of chargeable land in the flood risk management region[^key-f3d7760d960cafb255a8f61b5f68783e] or, as the case may be, the designated area; and
+- (a) drainage charges shall be levied on the occupiers of chargeable land in the flood risk management region[^c-f3d7760d960cafb255a8f61b5f68783e] or, as the case may be, the designated area; and
 - (b) sub-paragraphs (2) to (4) below shall have effect with respect to the assessment of persons to a drainage charge with respect to any land (“the relevant land") and their liability in regard to the charge.
 
 (2) A drainage charge shall be assessed on the person who at the date of the raising of the charge is the occupier of the relevant land.
@@ -122,7 +122,7 @@ and may, by a notice so given, revoke any determination under this sub-paragraph
 
 ### Returns with respect to land
 
-**9.** (1) The appropriate agency[^key-31a36e5a319e0ac356e9a06c0d8b090d] may serve on any person appearing to it to be the occupier of any land a notice requiring him to furnish a return under sub-paragraph (2) below to the appropriate agency within twenty-eight days beginning with the date of service of the notice on him.
+**9.** (1) The appropriate agency[^c-31a36e5a319e0ac356e9a06c0d8b090d] may serve on any person appearing to it to be the occupier of any land a notice requiring him to furnish a return under sub-paragraph (2) below to the appropriate agency within twenty-eight days beginning with the date of service of the notice on him.
 
 (2) The return required of a person by a notice under sub-paragraph (1) above is a return, in writing and in such form as may be specified in the notice, containing such particulars as may reasonably be required for the purpose of enabling the appropriate agency to determine—
 
@@ -165,7 +165,7 @@ he shall be guilty of an offence
 - (a) a demand for a drainage charge made on him as the occupier of chargeable land; or
 - (b) an amendment of such a demand,
 
-he may appeal to the county court [^key-bf0f8cbad321fdd5185ec4e4ea3530a2]... .
+he may appeal to the county court [^c-bf0f8cbad321fdd5185ec4e4ea3530a2]... .
 
 (2) Notice of appeal under this paragraph, specifying the grounds of appeal, must be given within the required period—
 
@@ -184,7 +184,7 @@ he may appeal to the county court [^key-bf0f8cbad321fdd5185ec4e4ea3530a2]... .
 (2) Without prejudice to its powers by virtue of section 37 of, and paragraph 6 of Schedule 1 to, the 1995 Act[^c18746861], the appropriate agency may by resolution authorise any member or officer of the appropriate agency, either generally or in respect of particular proceedings—
 
 - (a) to institute or defend on its behalf any proceedings in relation to a drainage charge; or
-- (b) notwithstanding that he is not qualified to act as a solicitor, to appear on the appropriate agency's behalf in any proceedings before a magistrates’ court for the issue of a warrant of control[^key-3777213ae24340c710bea6690322f56d] for failure to pay a drainage charge.
+- (b) notwithstanding that he is not qualified to act as a solicitor, to appear on the appropriate agency's behalf in any proceedings before a magistrates’ court for the issue of a warrant of control[^c-3777213ae24340c710bea6690322f56d] for failure to pay a drainage charge.
 
 (3) In proceedings for the recovery of arrears of a drainage charge the defendant shall not be entitled to raise by way of defence any matter which might have been raised on an appeal under paragraph 11 above.
 
@@ -210,17 +210,17 @@ he may appeal to the county court [^key-bf0f8cbad321fdd5185ec4e4ea3530a2]... .
 
 ## Annotations
 
-[^key-1d6c45ed99b96a58f978e209a24fb1f6]: Textual amendment: Words in Sch. 15 paras. 1-6 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1d6c45ed99b96a58f978e209a24fb1f6]: Textual amendment: Words in Sch. 15 paras. 1-6 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f3d7760d960cafb255a8f61b5f68783e]: Textual amendment: Words in [Sch. 15 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/15/paragraph/3/1/a) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/14)
+[^c-f3d7760d960cafb255a8f61b5f68783e]: Textual amendment: Words in [Sch. 15 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/15/paragraph/3/1/a) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/14)
 
 [^c18746571]: Textual amendment: Words in Sch. 15 para. 4(3) inserted (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 187(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/187/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)
 
-[^key-31a36e5a319e0ac356e9a06c0d8b090d]: Textual amendment: Words in Sch. 15 paras. 9-13 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-31a36e5a319e0ac356e9a06c0d8b090d]: Textual amendment: Words in Sch. 15 paras. 9-13 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18746721]: Textual amendment: Words in Sch. 15 para. 9(4) inserted (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 187(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/187/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)
 
-[^key-bf0f8cbad321fdd5185ec4e4ea3530a2]: Textual amendment: Words in [Sch. 15 para. 11(1)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/15/paragraph/11/1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 140](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/140); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-bf0f8cbad321fdd5185ec4e4ea3530a2]: Textual amendment: Words in [Sch. 15 para. 11(1)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/15/paragraph/11/1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 140](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/140); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c18746841]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
@@ -228,6 +228,6 @@ he may appeal to the county court [^key-bf0f8cbad321fdd5185ec4e4ea3530a2]... .
 
 [^c18746861]: Textual amendment: Words in Sch. 15 para. 12(2) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 187(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/187/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-3777213ae24340c710bea6690322f56d]: Textual amendment: Words in [Sch. 15 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/15/paragraph/12/2/b) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 99](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/99) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-3777213ae24340c710bea6690322f56d]: Textual amendment: Words in [Sch. 15 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/15/paragraph/12/2/b) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 99](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/99) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c18746981]: Textual amendment: Words in Sch. 15 para. 13(4) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11 Pt. I para. 3(9)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11/part/I/paragraph/3/9) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)

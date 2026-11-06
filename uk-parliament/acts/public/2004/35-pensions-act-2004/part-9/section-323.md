@@ -33,7 +33,7 @@ summary: ''
   - (ii) section 111 so far as that provision has effect in relation to functions of the Board conferred by any provision of, or made under, this Act which extends to Northern Ireland,
   - (iii) Schedule 5 (other than paragraph 18), and
   - (iv) Schedule 6 (other than paragraph 7),
-- (c) in Part 4 (retirement planning), sections 234 and 235 and paragraphs 2 and 4[^key-fe541c28f421f441dd9b706bee18d751] of Schedule 10 (and section 236 so far as it relates to those paragraphs[^key-6548e6e37a9f73b8f53a6345d1b748be]),
+- (c) in Part 4 (retirement planning), sections 234 and 235 and paragraphs 2 and 4[^c-fe541c28f421f441dd9b706bee18d751] of Schedule 10 (and section 236 so far as it relates to those paragraphs[^c-6548e6e37a9f73b8f53a6345d1b748be]),
 - (d) in Part 5 (personal and occupational pension schemes: miscellaneous provisions), sections 274 and 277(2)(b),
 - (e) Part 6 (financial assistance scheme for members of certain pension schemes),
 - (f) in Part 8 (state pensions), section 299, and
@@ -44,12 +44,12 @@ summary: ''
 
 (3) Section 106 (legal assistance scheme) does not extend to Scotland.
 
-(4) An amendment or repeal contained in this Act has the same extent as the enactment to which it relates and sections 236 (except so far as it relates to paragraphs 2 and 4[^key-4242e353141b0fbaa8cfb1836ac47d09] of Schedule 10), 319(1) and 320 have effect accordingly.
+(4) An amendment or repeal contained in this Act has the same extent as the enactment to which it relates and sections 236 (except so far as it relates to paragraphs 2 and 4[^c-4242e353141b0fbaa8cfb1836ac47d09] of Schedule 10), 319(1) and 320 have effect accordingly.
 
 ## Annotations
 
-[^key-fe541c28f421f441dd9b706bee18d751]: Textual amendment: Words in s. 323(2)(c) substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 63(3)(a)](https://www.legislation.gov.uk/ukpga/2008/30/section/63/3/a), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)
+[^c-fe541c28f421f441dd9b706bee18d751]: Textual amendment: Words in s. 323(2)(c) substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 63(3)(a)](https://www.legislation.gov.uk/ukpga/2008/30/section/63/3/a), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)
 
-[^key-6548e6e37a9f73b8f53a6345d1b748be]: Textual amendment: Words in s. 323(2)(c) substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 63(3)(b)](https://www.legislation.gov.uk/ukpga/2008/30/section/63/3/b), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)
+[^c-6548e6e37a9f73b8f53a6345d1b748be]: Textual amendment: Words in s. 323(2)(c) substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 63(3)(b)](https://www.legislation.gov.uk/ukpga/2008/30/section/63/3/b), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)
 
-[^key-4242e353141b0fbaa8cfb1836ac47d09]: Textual amendment: Words in s. 323(4) substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/63/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)
+[^c-4242e353141b0fbaa8cfb1836ac47d09]: Textual amendment: Words in s. 323(4) substituted (26.1.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/63/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/82/article/2/1/a)

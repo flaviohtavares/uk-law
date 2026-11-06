@@ -34,11 +34,11 @@ summary: ''
 (3) In this section—
 
 - “**CV**” means—
-  - (a) if the company was a party to the debtor relationship mentioned in section 652(2) at the time it was created, the tax-adjusted carrying value[^key-240b234dde7a4306d7a849e9c8b31f53] of the option at that time, or
+  - (a) if the company was a party to the debtor relationship mentioned in section 652(2) at the time it was created, the tax-adjusted carrying value[^c-240b234dde7a4306d7a849e9c8b31f53] of the option at that time, or
   - (b) if the company became a party to that relationship at a later time, the tax-adjusted carrying value of the option at that time,
 - “**X**” means the amount paid by the debtor in fulfilment of the obligations under the debtor relationship reduced (but not below nil) by the fair value of the host contract at the date on which the option is exercised, and
 - “**the host contract**” means the loan relationship to which the company is treated as a party under section 415(2) (loan relationships with embedded derivatives) because of the debtor relationship.
 
 ## Annotations
 
-[^key-240b234dde7a4306d7a849e9c8b31f53]: Textual amendment: Words in s. 654(3) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 82](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/82)
+[^c-240b234dde7a4306d7a849e9c8b31f53]: Textual amendment: Words in s. 654(3) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 82](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/82)

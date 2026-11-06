@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Code of practice[^key-eca7a71cb5317f395c44f8a232cf6fff][^key-e56abedcf4f034f0f8b63343218fa573]
+## 60. Code of practice[^c-eca7a71cb5317f395c44f8a232cf6fff][^c-e56abedcf4f034f0f8b63343218fa573]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the disclosure of information under section 56, and
 - (b) the use of information disclosed under that section.
 
-(2) The code of practice must be consistent with the code of practice prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act[^key-fe74df9c3f8ffc3b36c3fe65d3c85168] (as altered or replaced from time to time).
+(2) The code of practice must be consistent with the code of practice prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act[^c-fe74df9c3f8ffc3b36c3fe65d3c85168] (as altered or replaced from time to time).
 
 (3) A specified person must have regard to the code of practice in—
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) Before issuing or reissuing the code of practice the relevant Minister must consult—
 
-- (a) the Information Commission[^key-7fa9808ee12b5c184cc29a8eea959d66],
+- (a) the Information Commission[^c-7fa9808ee12b5c184cc29a8eea959d66],
 - (b) the Commissioners for Her Majesty's Revenue and Customs,
 - (c) the Scottish Ministers,
 - (d) the Welsh Ministers,
@@ -64,7 +64,7 @@ summary: ''
 - (b) the National Assembly for Wales, and
 - (c) the Northern Ireland Assembly.
 
-(13) In disclosing information under section 56, a person must have regard to the following codes of practice issued by the Information Commission[^key-16c591c1b72717a3900fc4b65935d34e] under section[^key-8b2407ae65f6dc8fdb059b9945695073] 124A[^key-078e6f6c14004e2553af349f44c4b83a] of the Data Protection Act 2018 (other codes of practice), so far as they apply to the information in question—
+(13) In disclosing information under section 56, a person must have regard to the following codes of practice issued by the Information Commission[^c-16c591c1b72717a3900fc4b65935d34e] under section[^c-8b2407ae65f6dc8fdb059b9945695073] 124A[^c-078e6f6c14004e2553af349f44c4b83a] of the Data Protection Act 2018 (other codes of practice), so far as they apply to the information in question—
 
 - (a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
 - (b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
@@ -73,16 +73,16 @@ summary: ''
 
 ## Annotations
 
-[^key-eca7a71cb5317f395c44f8a232cf6fff]: Commencement: S. 60 in force at 1.10.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/k)
+[^c-eca7a71cb5317f395c44f8a232cf6fff]: Commencement: S. 60 in force at 1.10.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/k)
 
-[^key-e56abedcf4f034f0f8b63343218fa573]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/30/section/60) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/s)
+[^c-e56abedcf4f034f0f8b63343218fa573]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/30/section/60) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/s)
 
-[^key-fe74df9c3f8ffc3b36c3fe65d3c85168]: Textual amendment: Words in s. 60(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 221(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/221/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-fe74df9c3f8ffc3b36c3fe65d3c85168]: Textual amendment: Words in s. 60(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 221(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/221/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-7fa9808ee12b5c184cc29a8eea959d66]: Textual amendment: Words in [s. 60(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/60/5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-7fa9808ee12b5c184cc29a8eea959d66]: Textual amendment: Words in [s. 60(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/60/5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-16c591c1b72717a3900fc4b65935d34e]: Textual amendment: Words in [s. 60(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/60/13) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-16c591c1b72717a3900fc4b65935d34e]: Textual amendment: Words in [s. 60(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/60/13) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-8b2407ae65f6dc8fdb059b9945695073]: Textual amendment: Words in s. 60(13) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 221(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/221/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-8b2407ae65f6dc8fdb059b9945695073]: Textual amendment: Words in s. 60(13) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 221(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/221/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-078e6f6c14004e2553af349f44c4b83a]: Textual amendment: Word in [s. 60(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/60/13) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 92(9)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/92/9/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)
+[^c-078e6f6c14004e2553af349f44c4b83a]: Textual amendment: Word in [s. 60(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/60/13) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 92(9)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/92/9/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)

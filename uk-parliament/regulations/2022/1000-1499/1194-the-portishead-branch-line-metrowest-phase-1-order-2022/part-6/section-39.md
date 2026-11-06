@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Operation and use of railways[^key-57253985be13e088c095a96bcf986e88]
+## 39. Operation and use of railways[^c-57253985be13e088c095a96bcf986e88]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57253985be13e088c095a96bcf986e88]: Commencement: Art. 39 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-57253985be13e088c095a96bcf986e88]: Commencement: Art. 39 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00056]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Application and interpretation[^key-893222ec979278d5c34334f182b4dbd5]
+## 32. Application and interpretation[^c-893222ec979278d5c34334f182b4dbd5]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-893222ec979278d5c34334f182b4dbd5]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2012/192/regulation/32) substituted (6.5.2025) by [The Building (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/191)](https://www.legislation.gov.uk/nisr/2024/191), [regs. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2024/191/regulation/6/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3))
+[^c-893222ec979278d5c34334f182b4dbd5]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2012/192/regulation/32) substituted (6.5.2025) by [The Building (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/191)](https://www.legislation.gov.uk/nisr/2024/191), [regs. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2024/191/regulation/6/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3))

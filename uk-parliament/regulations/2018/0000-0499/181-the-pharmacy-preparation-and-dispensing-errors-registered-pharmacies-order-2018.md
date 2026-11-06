@@ -100,7 +100,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## PART 2 — Amendment of the Medicines Act 1968
 
-### 4. New defences to the offences of contravening sections 63 and 64 of the Medicines Act 1968, and related provisions[^key-ef19eec02511d3d5197a87f1081f4d00]
+### 4. New defences to the offences of contravening sections 63 and 64 of the Medicines Act 1968, and related provisions[^c-ef19eec02511d3d5197a87f1081f4d00]
 
 In Part 3 of the Medicines Act 1968 [^c22913521] (further provisions relating to dealings with medicinal products), after section 67 (offences under Part 3), insert—
 
@@ -271,7 +271,7 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22913511]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-ef19eec02511d3d5197a87f1081f4d00]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2018/181/article/4) in force at 16.4.2018 by [S.I. 2018/402](https://www.legislation.gov.uk/uksi/2018/402), [art. 2](https://www.legislation.gov.uk/uksi/2018/402/article/2)
+[^c-ef19eec02511d3d5197a87f1081f4d00]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2018/181/article/4) in force at 16.4.2018 by [S.I. 2018/402](https://www.legislation.gov.uk/uksi/2018/402), [art. 2](https://www.legislation.gov.uk/uksi/2018/402/article/2)
 
 [^c22913521]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 

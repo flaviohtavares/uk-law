@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Appeal against variation etc. of marine licence for non-payment of fee or deposit[^key-c441b0789bf324ea08d217580a3dfd15][^key-ab2742ef4987504acb4085389b7a68ad]
+## 79. Appeal against variation etc. of marine licence for non-payment of fee or deposit[^c-c441b0789bf324ea08d217580a3dfd15][^c-ab2742ef4987504acb4085389b7a68ad]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In section 108 of the Marine and Coastal Access Act 2009 (appeals against notice
 
 ## Annotations
 
-[^key-c441b0789bf324ea08d217580a3dfd15]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2016/3/section/79) in force at 24.2.2017 for specified purposes by [S.I. 2017/152](https://www.legislation.gov.uk/wsi/2017/152), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/152/article/2/c)
+[^c-c441b0789bf324ea08d217580a3dfd15]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2016/3/section/79) in force at 24.2.2017 for specified purposes by [S.I. 2017/152](https://www.legislation.gov.uk/wsi/2017/152), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/152/article/2/c)
 
-[^key-ab2742ef4987504acb4085389b7a68ad]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2016/3/section/79) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)
+[^c-ab2742ef4987504acb4085389b7a68ad]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2016/3/section/79) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)

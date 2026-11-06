@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. When terms of occupation contract become enforceable[^key-2401aa5b232cb4a0e46560b69d3d9fdc]
+## 42. When terms of occupation contract become enforceable[^c-2401aa5b232cb4a0e46560b69d3d9fdc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2401aa5b232cb4a0e46560b69d3d9fdc]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2016/1/section/42) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-2401aa5b232cb4a0e46560b69d3d9fdc]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2016/1/section/42) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

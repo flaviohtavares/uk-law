@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Attestation of certain overseas electors’ declarations[^key-166fe88c55dff42875ff60bc50d84249]
+## 22. Attestation of certain overseas electors’ declarations[^c-166fe88c55dff42875ff60bc50d84249]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-166fe88c55dff42875ff60bc50d84249]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/1741/regulation/22) revoked (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2018/699/regulation/14/1)
+[^c-166fe88c55dff42875ff60bc50d84249]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/1741/regulation/22) revoked (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2018/699/regulation/14/1)

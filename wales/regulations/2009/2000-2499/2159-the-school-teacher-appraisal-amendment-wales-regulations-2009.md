@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The School Teacher Appraisal (Amendment) (Wales) Regulations 2009 (revoked)[^key-bedb5b95966276ccd8e614dc777d424d]
+The School Teacher Appraisal (Amendment) (Wales) Regulations 2009 (revoked)[^c-bedb5b95966276ccd8e614dc777d424d]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1 September 2009
 
-[^key-bedb5b95966276ccd8e614dc777d424d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bedb5b95966276ccd8e614dc777d424d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, Commencement and Application[^key-bedb5b95966276ccd8e614dc777d424d]
+## 1. Title, Commencement and Application[^c-bedb5b95966276ccd8e614dc777d424d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-bedb5b95966276ccd8e614dc777d424d]
+## 2. Interpretation[^c-bedb5b95966276ccd8e614dc777d424d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2002 Regulations[^key-bedb5b95966276ccd8e614dc777d424d]
+## 3. Amendment of the 2002 Regulations[^c-bedb5b95966276ccd8e614dc777d424d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bedb5b95966276ccd8e614dc777d424d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments to the School Government (Terms of Reference) (Wales) Regulations 2000[^key-bedb5b95966276ccd8e614dc777d424d]
+## 10. Amendments to the School Government (Terms of Reference) (Wales) Regulations 2000[^c-bedb5b95966276ccd8e614dc777d424d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bedb5b95966276ccd8e614dc777d424d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bedb5b95966276ccd8e614dc777d424d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bedb5b95966276ccd8e614dc777d424d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bedb5b95966276ccd8e614dc777d424d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bedb5b95966276ccd8e614dc777d424d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2159) revoked (1.1.2012) by [The School Teacher Appraisal (Wales) Regulations 2011 (S.I. 2011/2940)](https://www.legislation.gov.uk/wsi/2011/2940), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/2), [Sch.](https://www.legislation.gov.uk/wsi/2011/2940/schedule))
+[^c-bedb5b95966276ccd8e614dc777d424d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2159) revoked (1.1.2012) by [The School Teacher Appraisal (Wales) Regulations 2011 (S.I. 2011/2940)](https://www.legislation.gov.uk/wsi/2011/2940), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/2), [Sch.](https://www.legislation.gov.uk/wsi/2011/2940/schedule))

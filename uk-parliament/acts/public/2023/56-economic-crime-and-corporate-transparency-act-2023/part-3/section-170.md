@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Administrative removal of material from register[^key-01c39b9e5670a639f243d0ba5fb0927b][^key-58834028fb1849de7921ce2837e21ae5]
+## 170. Administrative removal of material from register[^c-01c39b9e5670a639f243d0ba5fb0927b][^c-58834028fb1849de7921ce2837e21ae5]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01c39b9e5670a639f243d0ba5fb0927b]: Commencement: S. 170 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-01c39b9e5670a639f243d0ba5fb0927b]: Commencement: S. 170 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-58834028fb1849de7921ce2837e21ae5]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2023/56/section/170) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z54)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z54)
+[^c-58834028fb1849de7921ce2837e21ae5]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2023/56/section/170) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z54)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z54)

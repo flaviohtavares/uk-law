@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Procedure for imposing monetary penalties[^key-2bf94073dcacfe0c694d103f33f4b511][^key-7402e1a3ce5a1e8ab6a2a9a5a57ab176]
+## 19. Procedure for imposing monetary penalties[^c-2bf94073dcacfe0c694d103f33f4b511][^c-7402e1a3ce5a1e8ab6a2a9a5a57ab176]
 
 *Extent: E+W*
 
@@ -146,6 +146,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf94073dcacfe0c694d103f33f4b511]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-2bf94073dcacfe0c694d103f33f4b511]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-7402e1a3ce5a1e8ab6a2a9a5a57ab176]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2026/21/section/19) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)
+[^c-7402e1a3ce5a1e8ab6a2a9a5a57ab176]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2026/21/section/19) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)

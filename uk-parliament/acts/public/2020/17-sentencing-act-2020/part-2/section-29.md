@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Remission by magistrates' court: adjournment, remand and appeal[^key-5d83708ab49d316fabec779d671e9bfa]
+## 29. Remission by magistrates' court: adjournment, remand and appeal[^c-5d83708ab49d316fabec779d671e9bfa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ This does not affect any right of appeal against an order made in respect of the
 
 ## Annotations
 
-[^key-5d83708ab49d316fabec779d671e9bfa]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2020/17/section/29) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5d83708ab49d316fabec779d671e9bfa]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2020/17/section/29) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

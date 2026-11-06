@@ -24,7 +24,7 @@ Section 91
 
 ### Status
 
-**1.**[^key-11df21dfe2a81721eebab3be32aa7820] (1) UKRI is not to be regarded—
+**1.**[^c-11df21dfe2a81721eebab3be32aa7820] (1) UKRI is not to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -36,7 +36,7 @@ Section 91
 
 ### Membership of UKRI
 
-**2.**[^key-4b6fdb055cdec10c55a219a352946822] (1) UKRI is to consist of the following members appointed by the Secretary of State—
+**2.**[^c-4b6fdb055cdec10c55a219a352946822] (1) UKRI is to consist of the following members appointed by the Secretary of State—
 
 - (a) a chair (“the chair”),
 - (b) the Chief Executive Officer (“the CEO”),
@@ -65,7 +65,7 @@ Section 91
 
 ### Membership of the Councils
 
-**3.**[^key-4d31bc54d8f74933a4cd74309a050577] (1) Each Council is to consist of—
+**3.**[^c-4d31bc54d8f74933a4cd74309a050577] (1) Each Council is to consist of—
 
 - (a) an executive chair appointed by the Secretary of State (the “executive chair”), and
 - (b) at least five and not more than twelve other members (the “ordinary Council members”).
@@ -80,9 +80,9 @@ Section 91
 
 ### Terms of appointment and tenure
 
-**4.**[^key-e2f7ddd0ae26d28c3cdf0ce67fde2950] A person holds and vacates office as a member of UKRI or as a Council member in accordance with the terms of his or her appointment.
+**4.**[^c-e2f7ddd0ae26d28c3cdf0ce67fde2950] A person holds and vacates office as a member of UKRI or as a Council member in accordance with the terms of his or her appointment.
 
-**5.**[^key-eed9d2b7e1d52855ad07140dbd1527b9] (1) This paragraph applies to a person (a “Ministerial appointee”) appointed as—
+**5.**[^c-eed9d2b7e1d52855ad07140dbd1527b9] (1) This paragraph applies to a person (a “Ministerial appointee”) appointed as—
 
 - (a) a member of UKRI,
 - (b) an executive chair, or
@@ -98,7 +98,7 @@ Section 91
 - (b) inability or unfitness to carry out the functions of the office, or
 - (c) such other grounds as the Secretary of State considers appropriate.
 
-**6.**[^key-de3888b1184a8a62eccd2692dbf58cc2] (1) This paragraph applies to a person (an “UKRI appointee”) appointed as an ordinary Council member where the appointment was made by UKRI.
+**6.**[^c-de3888b1184a8a62eccd2692dbf58cc2] (1) This paragraph applies to a person (an “UKRI appointee”) appointed as an ordinary Council member where the appointment was made by UKRI.
 
 (2) The terms and conditions of an UKRI appointee's appointment are to be determined by UKRI; but that is subject to the following provisions of this Schedule.
 
@@ -112,7 +112,7 @@ Section 91
 
 ### Remuneration etc
 
-**7.**[^key-ca544c644b6ccd2888cd1f17503e2746] (1) UKRI must pay to members of UKRI and Council members such remuneration as the Secretary of State may determine.
+**7.**[^c-ca544c644b6ccd2888cd1f17503e2746] (1) UKRI must pay to members of UKRI and Council members such remuneration as the Secretary of State may determine.
 
 (2) UKRI must pay, or make provision for paying, to or in respect of a person who is or has been a member of UKRI or a Council member, such sums as the Secretary of State may determine in respect of pension, allowances, expenses or gratuities.
 
@@ -120,7 +120,7 @@ Section 91
 
 ### Staffing of UKRI
 
-**8.**[^key-f3c35dfb156718d61e6e98ded4b06aca] (1) UKRI may—
+**8.**[^c-f3c35dfb156718d61e6e98ded4b06aca] (1) UKRI may—
 
 - (a) appoint employees, and
 - (b) make such other arrangements for the staffing of UKRI as it considers appropriate.
@@ -142,7 +142,7 @@ Section 91
 
 ### Executive Committee
 
-**9.**[^key-326b72d73e6237456f79ab5348d25b0c] (1) UKRI must establish a committee called “the Executive Committee”.
+**9.**[^c-326b72d73e6237456f79ab5348d25b0c] (1) UKRI must establish a committee called “the Executive Committee”.
 
 (2) The Executive Committee is to consist of—
 
@@ -167,7 +167,7 @@ Section 91
 
 ### Other committees and sub-committees
 
-**10.**[^key-7a043889c65cc2e714244adb8d3d399c] (1) UKRI may establish committees (in addition to the Councils and the Executive Committee).
+**10.**[^c-7a043889c65cc2e714244adb8d3d399c] (1) UKRI may establish committees (in addition to the Councils and the Executive Committee).
 
 (2) A committee established under sub-paragraph (1) may establish sub-committees.
 
@@ -194,7 +194,7 @@ Section 91
 
 ### Procedure
 
-**11.**[^key-9a22575792be3c83cd79a8d0e8a7cf06] (1) UKRI, a Council and the Executive Committee may each determine their own procedure and the procedure of any relevant committee.
+**11.**[^c-9a22575792be3c83cd79a8d0e8a7cf06] (1) UKRI, a Council and the Executive Committee may each determine their own procedure and the procedure of any relevant committee.
 
 (2) “**Relevant committee**” means—
 
@@ -215,11 +215,11 @@ Section 91
 
 (7) A Council must provide the Secretary of State, or a representative of the Secretary of State, with such copies of documents distributed to its members or to any Council sub-committee as the Secretary of State or the representative may require it to provide.
 
-**12.**[^key-dfa4dc78d2addd5dbb1bbb5521ff997f] The validity of any proceedings of UKRI, or of any Council, Council sub-committee or general committee, or of the Executive Committee or any Executive sub-committee, is not affected by a vacancy or a defective appointment.
+**12.**[^c-dfa4dc78d2addd5dbb1bbb5521ff997f] The validity of any proceedings of UKRI, or of any Council, Council sub-committee or general committee, or of the Executive Committee or any Executive sub-committee, is not affected by a vacancy or a defective appointment.
 
 ### Delegation of functions by UKRI
 
-**13.**[^key-ef2a3abf79f7c4929092ed54636debaf] (1) UKRI may delegate any of its functions to—
+**13.**[^c-ef2a3abf79f7c4929092ed54636debaf] (1) UKRI may delegate any of its functions to—
 
 - (a) a member of UKRI,
 - (b) an employee authorised for that purpose,
@@ -230,7 +230,7 @@ Section 91
 
 ### Accounts and audit
 
-**14.**[^key-ea6adfe162a7fdee92ef76fcb6ef41ca] (1) UKRI must—
+**14.**[^c-ea6adfe162a7fdee92ef76fcb6ef41ca] (1) UKRI must—
 
 - (a) keep proper accounts and proper records in relation to them, and
 - (b) prepare a statement of accounts in respect of each financial year.
@@ -257,7 +257,7 @@ Section 91
 
 ### Annual report
 
-**15.**[^key-52806d186091787c17ebdf9a06c2ffe9] (1) UKRI must prepare a report on the exercise of its functions during each financial year.
+**15.**[^c-52806d186091787c17ebdf9a06c2ffe9] (1) UKRI must prepare a report on the exercise of its functions during each financial year.
 
 (2) The report must include the statement of accounts in respect of that year.
 
@@ -271,7 +271,7 @@ Section 91
 
 ### Seal and evidence
 
-**16.**[^key-37d42b61e4b458e86db9145567b1cd37] (1) The application of UKRI's seal must be authenticated by the signature of—
+**16.**[^c-37d42b61e4b458e86db9145567b1cd37] (1) The application of UKRI's seal must be authenticated by the signature of—
 
 - (a) a member of UKRI, or
 - (b) another person authorised for that purpose by UKRI.
@@ -285,7 +285,7 @@ Section 91
 
 ### Supplementary powers
 
-**17.**[^key-276fdb0986e60ec448ea0fb07c87ab50] (1) UKRI may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions.
+**17.**[^c-276fdb0986e60ec448ea0fb07c87ab50] (1) UKRI may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions.
 
 (2) In particular, UKRI may—
 
@@ -302,72 +302,72 @@ Section 91
 
 ### Public records
 
-**18.**[^key-2c8a0aed746ed21ca9f7416ef970b903] In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place insert— “ United Kingdom Research and Innovation. ”
+**18.**[^c-2c8a0aed746ed21ca9f7416ef970b903] In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place insert— “ United Kingdom Research and Innovation. ”
 
 ### Investigation by the Parliamentary Commissioner
 
-**19.**[^key-694769e6443e9235026d3445070c0d04] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert— “ United Kingdom Research and Innovation. ”
+**19.**[^c-694769e6443e9235026d3445070c0d04] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert— “ United Kingdom Research and Innovation. ”
 
 ### House of Commons disqualification
 
-**20.**[^key-e6309698b96ac5c3403102d48be84426] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert— “ United Kingdom Research and Innovation (“UKRI”), any Council or other committee of UKRI and any sub-committee of such a Council or committee (see section 92 of, and paragraphs 9 and 10 of Schedule 9 to, the Higher Education and Research Act 2017). ”
+**20.**[^c-e6309698b96ac5c3403102d48be84426] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert— “ United Kingdom Research and Innovation (“UKRI”), any Council or other committee of UKRI and any sub-committee of such a Council or committee (see section 92 of, and paragraphs 9 and 10 of Schedule 9 to, the Higher Education and Research Act 2017). ”
 
 ### Northern Ireland Assembly disqualification
 
-**21.**[^key-7f224e5c52d00fff79c924ef683cb190] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert— “ United Kingdom Research and Innovation (“UKRI”), any Council or other committee of UKRI and any sub-committee of such a Council or committee (see section 92 of, and paragraphs 9 and 10 of Schedule 9 to, the Higher Education and Research Act 2017). ”
+**21.**[^c-7f224e5c52d00fff79c924ef683cb190] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert— “ United Kingdom Research and Innovation (“UKRI”), any Council or other committee of UKRI and any sub-committee of such a Council or committee (see section 92 of, and paragraphs 9 and 10 of Schedule 9 to, the Higher Education and Research Act 2017). ”
 
 ### Freedom of information
 
-**22.**[^key-d36d7a236441cb1602dd486735dd437b] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place insert— “ United Kingdom Research and Innovation. ”
+**22.**[^c-d36d7a236441cb1602dd486735dd437b] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place insert— “ United Kingdom Research and Innovation. ”
 
 ### Public sector equality duty
 
-**23.**[^key-578a3eefa4a5b23b7122eed50203b324] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Industry, business, finance etc”, at the end insert— “ United Kingdom Research and Innovation. ”
+**23.**[^c-578a3eefa4a5b23b7122eed50203b324] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Industry, business, finance etc”, at the end insert— “ United Kingdom Research and Innovation. ”
 
 ## Annotations
 
-[^key-11df21dfe2a81721eebab3be32aa7820]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/1) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-11df21dfe2a81721eebab3be32aa7820]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/1) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-4b6fdb055cdec10c55a219a352946822]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/2) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-4b6fdb055cdec10c55a219a352946822]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/2) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-4d31bc54d8f74933a4cd74309a050577]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/3) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-4d31bc54d8f74933a4cd74309a050577]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/3) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-e2f7ddd0ae26d28c3cdf0ce67fde2950]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/4) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-e2f7ddd0ae26d28c3cdf0ce67fde2950]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/4) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-eed9d2b7e1d52855ad07140dbd1527b9]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/5) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-eed9d2b7e1d52855ad07140dbd1527b9]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/5) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-de3888b1184a8a62eccd2692dbf58cc2]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/6) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-de3888b1184a8a62eccd2692dbf58cc2]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/6) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-ca544c644b6ccd2888cd1f17503e2746]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/7) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-ca544c644b6ccd2888cd1f17503e2746]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/7) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-f3c35dfb156718d61e6e98ded4b06aca]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/8) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-f3c35dfb156718d61e6e98ded4b06aca]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/8) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-326b72d73e6237456f79ab5348d25b0c]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/9) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-326b72d73e6237456f79ab5348d25b0c]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/9) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-7a043889c65cc2e714244adb8d3d399c]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/10) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-7a043889c65cc2e714244adb8d3d399c]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/10) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-9a22575792be3c83cd79a8d0e8a7cf06]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/11) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-9a22575792be3c83cd79a8d0e8a7cf06]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/11) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-dfa4dc78d2addd5dbb1bbb5521ff997f]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/12) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-dfa4dc78d2addd5dbb1bbb5521ff997f]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/12) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-ef2a3abf79f7c4929092ed54636debaf]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/13) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-ef2a3abf79f7c4929092ed54636debaf]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/13) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-ea6adfe162a7fdee92ef76fcb6ef41ca]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/14) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-ea6adfe162a7fdee92ef76fcb6ef41ca]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/14) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-52806d186091787c17ebdf9a06c2ffe9]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/15) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-52806d186091787c17ebdf9a06c2ffe9]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/15) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-37d42b61e4b458e86db9145567b1cd37]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/16) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-37d42b61e4b458e86db9145567b1cd37]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/16) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-276fdb0986e60ec448ea0fb07c87ab50]: Commencement: [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/17) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-276fdb0986e60ec448ea0fb07c87ab50]: Commencement: [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/17) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-2c8a0aed746ed21ca9f7416ef970b903]: Commencement: [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/18) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-2c8a0aed746ed21ca9f7416ef970b903]: Commencement: [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/18) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-694769e6443e9235026d3445070c0d04]: Commencement: [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/19) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-694769e6443e9235026d3445070c0d04]: Commencement: [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/19) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-e6309698b96ac5c3403102d48be84426]: Commencement: [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/20) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-e6309698b96ac5c3403102d48be84426]: Commencement: [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/20) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-7f224e5c52d00fff79c924ef683cb190]: Commencement: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/21) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-7f224e5c52d00fff79c924ef683cb190]: Commencement: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/21) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-d36d7a236441cb1602dd486735dd437b]: Commencement: [Sch. 9 para. 22](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/22) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-d36d7a236441cb1602dd486735dd437b]: Commencement: [Sch. 9 para. 22](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/22) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
 
-[^key-578a3eefa4a5b23b7122eed50203b324]: Commencement: [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/23) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+[^c-578a3eefa4a5b23b7122eed50203b324]: Commencement: [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/23) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)

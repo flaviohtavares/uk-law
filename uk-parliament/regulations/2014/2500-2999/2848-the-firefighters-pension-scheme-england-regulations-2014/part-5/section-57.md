@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Qualifying service[^key-4f4ed3a32530fc807fa5c57b58d187b1]
+## 57. Qualifying service[^c-4f4ed3a32530fc807fa5c57b58d187b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f4ed3a32530fc807fa5c57b58d187b1]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/2848/regulation/57) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-4f4ed3a32530fc807fa5c57b58d187b1]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/2848/regulation/57) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

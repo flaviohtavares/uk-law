@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Modifications to Part 7[^key-a0163385eaad3b0921104370a44c84ad]
+## 113. Modifications to Part 7[^c-a0163385eaad3b0921104370a44c84ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 67 (initiation of a review) has effect as if—
 
 ## Annotations
 
-[^key-a0163385eaad3b0921104370a44c84ad]: Commencement: Reg. 113 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-a0163385eaad3b0921104370a44c84ad]: Commencement: Reg. 113 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Enforcement receivers[^key-35b084feab7cd1fcff0eb267550d1656]
+## 4. Enforcement receivers[^c-35b084feab7cd1fcff0eb267550d1656]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 51 of the Proceeds of Crime Act 2002 (powers of receivers etc), after
 
 ## Annotations
 
-[^key-35b084feab7cd1fcff0eb267550d1656]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/9/section/4) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)
+[^c-35b084feab7cd1fcff0eb267550d1656]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/9/section/4) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)

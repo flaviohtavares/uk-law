@@ -50,13 +50,13 @@ Regulations 21 and 23
 | - (2) The other pair of reflectors: | No requirement |
 | (c) Vertical— |  |
 | - (i) Maximum height above the ground where one or two rear reflectors are required to be fitted— |  |
-| - (A) any vehicle not covered by head (B): | 900 mm or, if the structure of the vehicle makes this impracticable, 1500 mm[^key-005b962a41002c3f537aa3a782683dc3] |
+| - (A) any vehicle not covered by head (B): | 900 mm or, if the structure of the vehicle makes this impracticable, 1500 mm[^c-005b962a41002c3f537aa3a782683dc3] |
 | - (B) A motor vehicle first used before 24th January 1996 and any other vehicle manufactured before 24th January 1996: | 1500 mm |
 | - (ii) Maximum height above the ground where four rear reflectors are required to be fitted— |  |
 | - (A) One pair of reflectors: | Such that they satisfy the relevant requirements in paragraph 2(*c*)(i) |
 | - (B) The other pair of reflectors: | 2100 mm |
 | - (iii) Minimum height above the ground— |  |
-| - (A) Any vehicle not covered by sub-head (B): | 250 mm[^key-91a235e70b57af5b1527fb3bbcc30c8e] |
+| - (A) Any vehicle not covered by sub-head (B): | 250 mm[^c-91a235e70b57af5b1527fb3bbcc30c8e] |
 | - (B) A motor vehicle first used before 24th January 1996 and any other vehicle manufactured before 24th January 1996: | 400 mm |
 | *Extent: E+W+S+N.I.*<br>**3.** Angles of visibility— |  |
 | (a) A motor vehicle (not being a motor bicycle combination) first used on or after 24th January 1996 and a trailer manufactured on or after 24th January 1996— |  |
@@ -65,7 +65,7 @@ Regulations 21 and 23
 | - (1) Where two rear reflectors are required to be fitted: | 30° inwards and outwards |
 | - (2) Where one rear reflector is required to be fitted: | 30° to the left and to the right |
 | - (B) Vertical— |  |
-| - (1) Except in a case specified in sub- head (2): | 10 °[^key-119f679968b5f09148858f9d697275ab] above and below the horizontal |
+| - (1) Except in a case specified in sub- head (2): | 10 °[^c-119f679968b5f09148858f9d697275ab] above and below the horizontal |
 | - (2) Where the highest part of the reflecting area is less than 750 mm above the ground: | 15° above and 5° below the horizontal |
 | - (ii) Where four rear reflectors are required to be fitted— |  |
 | - (A) One pair of reflectors: | Such that they satisfy the relevant requirements in paragraph 3(*a*)(i) |
@@ -87,7 +87,7 @@ Regulations 21 and 23
 | *Extent: E+W+S+N.I.*<br>**7.** Colour: | Red |
 | *Extent: E+W+S+N.I.*<br>**8.** Other requirements—<br>(a) except in the case of a motor vehicle first used before 24th January 1996, any other vehicle manufactured before 24th January 1996 and a motor bicycle combination, where two rear reflectors are required to be fitted they shall form a pair. Where four rear reflectors are required to be fitted they shall form two pairs;<br>(b) no vehicle, other than a trailer or a broken- down motor vehicle being towed, may be fitted with triangular-shaped rear reflectors. |  |
 
-**9.**[^key-f503bf4724ad9cf37080d7eb52619b0b] Definitions—
+**9.**[^c-f503bf4724ad9cf37080d7eb52619b0b] Definitions—
 
 In this Schedule—
 
@@ -101,7 +101,7 @@ In this Schedule—
 
 a mark approved by the Italian Ministry of Transport, namely, one including two separate groups of symbols consisting of “IGM” or “DGM” and “C.I.” or “C.2.”.
 
-### Part II — REQUIREMENTS RELATING TO OPTIONAL REAR RETRO REFLECTORS[^key-53a495036e6cc11af97f20f85a0cf5fa]
+### Part II — REQUIREMENTS RELATING TO OPTIONAL REAR RETRO REFLECTORS[^c-53a495036e6cc11af97f20f85a0cf5fa]
 
 Any number may be fitted and the only requirements in respect of any which are fitted are those specified in paragraphs 7 and 8(b) of Part I. But the colour of rear retro reflectors fitted to a vehicle used for—
 
@@ -114,12 +114,12 @@ purposes may be red, yellow or orange (or any combination).
 
 ## Annotations
 
-[^key-005b962a41002c3f537aa3a782683dc3]: Textual amendment: Word in [Sch. 18 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [15(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/15/a)
+[^c-005b962a41002c3f537aa3a782683dc3]: Textual amendment: Word in [Sch. 18 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [15(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/15/a)
 
-[^key-91a235e70b57af5b1527fb3bbcc30c8e]: Textual amendment: Word in [Sch. 18 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [15(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/15/b)
+[^c-91a235e70b57af5b1527fb3bbcc30c8e]: Textual amendment: Word in [Sch. 18 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [15(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/15/b)
 
-[^key-119f679968b5f09148858f9d697275ab]: Textual amendment: Word in [Sch. 18 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [15(c)](https://www.legislation.gov.uk/nisr/2011/329/regulation/15/c)
+[^c-119f679968b5f09148858f9d697275ab]: Textual amendment: Word in [Sch. 18 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [15(c)](https://www.legislation.gov.uk/nisr/2011/329/regulation/15/c)
 
-[^key-f503bf4724ad9cf37080d7eb52619b0b]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/paragraph/9) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-f503bf4724ad9cf37080d7eb52619b0b]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/paragraph/9) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-53a495036e6cc11af97f20f85a0cf5fa]: Textual amendment: [Sch. 18 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/II) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2011/329/regulation/16)
+[^c-53a495036e6cc11af97f20f85a0cf5fa]: Textual amendment: [Sch. 18 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/18/part/II) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2011/329/regulation/16)

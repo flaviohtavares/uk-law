@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Grants for advice and assistance: England and Wales[^key-dfd041f99ac8daf9f123eef197dd84e3]
+## 177. Grants for advice and assistance: England and Wales[^c-dfd041f99ac8daf9f123eef197dd84e3]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In section 304A(1) of TCPA 1990 (grants for assisting the provision of advice an
 
 ## Annotations
 
-[^key-dfd041f99ac8daf9f123eef197dd84e3]: Commencement: S. 177 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2009/400/article/3/c)
+[^c-dfd041f99ac8daf9f123eef197dd84e3]: Commencement: S. 177 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2009/400/article/3/c)

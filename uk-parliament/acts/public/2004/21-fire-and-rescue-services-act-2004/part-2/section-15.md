@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Arrangements with other employers of fire-fighters[^c17822461][^key-1cd698f4ed4ade046c0fee82be2c1e54][^key-0b854f62bd9a4cbeae094ffa6e845c8e]
+## 15. Arrangements with other employers of fire-fighters[^c17822461][^c-1cd698f4ed4ade046c0fee82be2c1e54][^c-0b854f62bd9a4cbeae094ffa6e845c8e]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 [^c17822461]: Commencement: S. 15 partly in force; s. 15 not in force at Royal Assent see s. 61; s. 15(2) in force for certain purposes at 9.7.2002 and s. 15(2) in force for further certain purposes at 1.8.2002 and s. 15(1) in force for certain purposes at 1.1.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2)
 
-[^key-1cd698f4ed4ade046c0fee82be2c1e54]: Commencement: S. 15 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-1cd698f4ed4ade046c0fee82be2c1e54]: Commencement: S. 15 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-0b854f62bd9a4cbeae094ffa6e845c8e]: Commencement: S. 15 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-0b854f62bd9a4cbeae094ffa6e845c8e]: Commencement: S. 15 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

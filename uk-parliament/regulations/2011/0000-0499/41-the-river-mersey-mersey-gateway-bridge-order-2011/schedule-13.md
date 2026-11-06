@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — MANCHESTER SHIP CANAL ACTS AND ORDERS[^key-a97c8321f9524bc837e03d0014f303be]
+## SCHEDULE 13 — MANCHESTER SHIP CANAL ACTS AND ORDERS[^c-a97c8321f9524bc837e03d0014f303be]
 
 *Extent: E+W+S*
 
 Article 2(1)
 
-[^key-a97c8321f9524bc837e03d0014f303be]
+[^c-a97c8321f9524bc837e03d0014f303be]
 
 - [Manchester Ship Canal Act 1885 c. clxxxviii](https://www.legislation.gov.uk/ukla/1885/188)
 - [Manchester Ship Canal (Additional Lands) Act 1888 c. cxi](https://www.legislation.gov.uk/ukla/1888/111)
@@ -67,4 +67,4 @@ Article 2(1)
 
 ## Annotations
 
-[^key-a97c8321f9524bc837e03d0014f303be]: Commencement: Sch. 13 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-a97c8321f9524bc837e03d0014f303be]: Commencement: Sch. 13 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

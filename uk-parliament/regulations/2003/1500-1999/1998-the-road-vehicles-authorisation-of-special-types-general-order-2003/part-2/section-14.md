@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Forward and rearward projections: attendants[^key-8a2d2cee2cb129216cc28a79f4370dfe]
+## 14. Forward and rearward projections: attendants[^c-8a2d2cee2cb129216cc28a79f4370dfe]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2d2cee2cb129216cc28a79f4370dfe]: Commencement: Art. 14 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-8a2d2cee2cb129216cc28a79f4370dfe]: Commencement: Art. 14 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

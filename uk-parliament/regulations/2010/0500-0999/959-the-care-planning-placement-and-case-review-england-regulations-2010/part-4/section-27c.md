@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27C. Prohibition on placing a child who is 16 or 17 years old in other arrangements[^key-a221c6c1d1c49979038996addd191d4d]
+## 27C. Prohibition on placing a child who is 16 or 17 years old in other arrangements[^c-a221c6c1d1c49979038996addd191d4d]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a221c6c1d1c49979038996addd191d4d]: Textual amendment: [Reg. 27C](https://www.legislation.gov.uk/uksi/2010/959/regulation/27C) inserted (28.10.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3), [36(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/36/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-a221c6c1d1c49979038996addd191d4d]: Textual amendment: [Reg. 27C](https://www.legislation.gov.uk/uksi/2010/959/regulation/27C) inserted (28.10.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3), [36(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/36/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))

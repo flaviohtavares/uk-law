@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Right of inspection[^key-7b8e6d835657eb8119adf89037c9718f]
+## 76. Right of inspection[^c-7b8e6d835657eb8119adf89037c9718f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b8e6d835657eb8119adf89037c9718f]: Commencement: Rule 76 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-7b8e6d835657eb8119adf89037c9718f]: Commencement: Rule 76 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

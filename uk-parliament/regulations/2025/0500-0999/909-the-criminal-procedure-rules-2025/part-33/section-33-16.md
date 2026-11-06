@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.16. Application by magistrates’ court officer to discharge confiscation order[^key-c18e83a0b36cc2cd1095857b1669d2c2]
+## 33.16. Application by magistrates’ court officer to discharge confiscation order[^c-c18e83a0b36cc2cd1095857b1669d2c2]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c18e83a0b36cc2cd1095857b1669d2c2]: Commencement: [Rule 33.16](https://www.legislation.gov.uk/uksi/2025/909/rule/33.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c18e83a0b36cc2cd1095857b1669d2c2]: Commencement: [Rule 33.16](https://www.legislation.gov.uk/uksi/2025/909/rule/33.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00806]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); sections 24 and 25 were amended by section 109(1) of, and paragraphs 406(a) and 406(b), respectively, of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Restriction on applications[^key-5ce110e1d12a26ec78fc7329833b91b0]
+## 132. Restriction on applications[^c-5ce110e1d12a26ec78fc7329833b91b0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ within one year of the date on which notice of the refusal is given to the appli
 
 ## Annotations
 
-[^key-5ce110e1d12a26ec78fc7329833b91b0]: Commencement: S. 132 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-5ce110e1d12a26ec78fc7329833b91b0]: Commencement: S. 132 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

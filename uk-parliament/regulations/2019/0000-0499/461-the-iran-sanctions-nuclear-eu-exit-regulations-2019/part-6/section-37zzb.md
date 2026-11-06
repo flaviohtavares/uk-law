@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37ZZB. Finance: exceptions relating to payment of Treasury debt[^key-22f48c3eb135832c0e8b6c9931e4804f]
+## 37ZZB. Finance: exceptions relating to payment of Treasury debt[^c-22f48c3eb135832c0e8b6c9931e4804f]
 
 *Extent: E+W+S+N.I.*
 
 (1) The prohibitions in regulations 12 to 14 (asset-freeze and making funds available to or for benefit of designated persons) and regulation 17 (financial messaging services) are not contravened by any act done by a person to transfer funds to—
 
-- (a) a UN designated person (“**D**”) in order to satisfy an obligation owed [^key-3fc2c1880c56e67c3bafd8c612198a5d]... to D in respect of Treasury debt where the conditions in paragraph (2) are met; or
+- (a) a UN designated person (“**D**”) in order to satisfy an obligation owed [^c-3fc2c1880c56e67c3bafd8c612198a5d]... to D in respect of Treasury debt where the conditions in paragraph (2) are met; or
 - (b) a person (“**B**”) in respect of Treasury debt where the effect of the transfer is to make funds available to or for the benefit of D and the conditions in paragraph (3) are met.
 
 (2) The person (“**P**”) making the transfer of funds to D knows or has reasonable cause to suspect that the obligation referred to in paragraph (1) arose on a date when D was not a designated person and P takes reasonable steps to satisfy itself that the funds to be transferred to D are credited to a specified account.
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22f48c3eb135832c0e8b6c9931e4804f]: Textual amendment: [Reg. 37ZZB](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZB) inserted (1.10.2025) by [The Iran (Sanctions) (Nuclear) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1052)](https://www.legislation.gov.uk/uksi/2025/1052), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1052/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/1052/regulation/8/2)
+[^c-22f48c3eb135832c0e8b6c9931e4804f]: Textual amendment: [Reg. 37ZZB](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZB) inserted (1.10.2025) by [The Iran (Sanctions) (Nuclear) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1052)](https://www.legislation.gov.uk/uksi/2025/1052), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1052/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/1052/regulation/8/2)
 
-[^key-3fc2c1880c56e67c3bafd8c612198a5d]: Textual amendment: Words in [reg. 37ZZB(1)(a)](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZB/1/a) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2026/443/regulation/6/3)
+[^c-3fc2c1880c56e67c3bafd8c612198a5d]: Textual amendment: Words in [reg. 37ZZB(1)(a)](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZB/1/a) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2026/443/regulation/6/3)

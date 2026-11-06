@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Carry-over of disputes between default and general medical services contracts[^key-3021672a6340207312155d17453f6a4f]
+## 51. Carry-over of disputes between default and general medical services contracts[^c-3021672a6340207312155d17453f6a4f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ the adjudicator shall, in determining the dispute, consider the relevance of his
 
 ## Annotations
 
-[^key-3021672a6340207312155d17453f6a4f]: Commencement: Art. 51 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-3021672a6340207312155d17453f6a4f]: Commencement: Art. 51 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

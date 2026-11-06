@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Statement of policy on categorisation[^key-92fa14c29fe1de0b0b7d62d810dd752c]
+## 25. Statement of policy on categorisation[^c-92fa14c29fe1de0b0b7d62d810dd752c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92fa14c29fe1de0b0b7d62d810dd752c]: Commencement: S. 25 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-92fa14c29fe1de0b0b7d62d810dd752c]: Commencement: S. 25 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

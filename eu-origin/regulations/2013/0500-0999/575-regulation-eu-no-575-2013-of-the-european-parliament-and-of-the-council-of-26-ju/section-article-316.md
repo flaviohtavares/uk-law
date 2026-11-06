@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 316. Relevant indicator[^key-6f0a414e32a7936c44a9ce044ae9b6ac]
+## Article 316. Relevant indicator[^c-6f0a414e32a7936c44a9ce044ae9b6ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f0a414e32a7936c44a9ce044ae9b6ac]: Textual amendment: [Art. 316](https://www.legislation.gov.uk/eur/2013/575/article/316) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/4)
+[^c-6f0a414e32a7936c44a9ce044ae9b6ac]: Textual amendment: [Art. 316](https://www.legislation.gov.uk/eur/2013/575/article/316) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/4)

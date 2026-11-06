@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Transitional provision in respect of applications to market[^key-f2a120e147d7f8108dfb5e805197ee52]
+## 17. Transitional provision in respect of applications to market[^c-f2a120e147d7f8108dfb5e805197ee52]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a120e147d7f8108dfb5e805197ee52]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2002/541/regulation/17) omitted (15.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2019/86/regulation/9/a)
+[^c-f2a120e147d7f8108dfb5e805197ee52]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2002/541/regulation/17) omitted (15.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2019/86/regulation/9/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Interpretation.[^key-36c0be76be1b6fd5cec0810cc40b7b90][^key-e91644761e47b00a68cf892455839abc]
+## 70. Interpretation.[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-e91644761e47b00a68cf892455839abc]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
   until he attains normal pension age; and in this definition “**benefits**” means—
 
   - (i) retirement benefit for the member himself at normal pension age, or
-  - (ii) benefit for the member’s wife, husband, civil partner, widow, widower, or surviving civil partner[^key-0870391b602efc0c37f840aee0b54c32], or dependants, or others, on his attaining that age or his later death, or
+  - (ii) benefit for the member’s wife, husband, civil partner, widow, widower, or surviving civil partner[^c-0870391b602efc0c37f840aee0b54c32], or dependants, or others, on his attaining that age or his later death, or
   - (iii) both such descriptions of benefit.
 
 (2) In this Act, unless the context otherwise requires, “**pensionable service**”, in relation to a scheme and a member of it, means, subject to subsection (3), service in relevant employment which qualifies the member (on the assumption that it continues for the appropriate period) for long service benefit under the scheme.
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-e91644761e47b00a68cf892455839abc]: Modification: Ss. 69-76 modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
+[^c-e91644761e47b00a68cf892455839abc]: Modification: Ss. 69-76 modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
 
-[^key-0870391b602efc0c37f840aee0b54c32]: Textual amendment: Words in [s. 70(1)](https://www.legislation.gov.uk/ukpga/1993/48/section/70/1) substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/11)
+[^c-0870391b602efc0c37f840aee0b54c32]: Textual amendment: Words in [s. 70(1)](https://www.legislation.gov.uk/ukpga/1993/48/section/70/1) substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2053)](https://www.legislation.gov.uk/uksi/2005/2053), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2053/article/1/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2005/2053/schedule/paragraph/11)

@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State being designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to the control of concentrations between undertakings[^f00002] in exercise of the powers conferred upon her by the said section 2(2) hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-c79e10fdd64bfe921be3b19362369ecd]
+## 1. Citation and commencement[^c-c79e10fdd64bfe921be3b19362369ecd]
 
 These Regulations may be cited as the EC Merger Control (Consequential Amendments) Regulations 2004 and shall come into force on 1st May 2004.
 
-## 2. Consequential amendments[^key-7971e6f6a518cc53ad258687f8682331]
+## 2. Consequential amendments[^c-7971e6f6a518cc53ad258687f8682331]
 
 The amendments specified in the Schedule to these Regulations shall have effect.
 
@@ -65,35 +65,35 @@ Department of Trade and Industry
 
 Regulation 2
 
-### 1. Competition Act 1998[^key-82998d5b1035e14966666bffa7c14f5a]
+### 1. Competition Act 1998[^c-82998d5b1035e14966666bffa7c14f5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Enterprise Act 2002[^key-364c43659d6cc5d05159f5361becd30c]
+### 2. Enterprise Act 2002[^c-364c43659d6cc5d05159f5361becd30c]
 
 (1) The Enterprise Act 2002[^f00004] is amended as follows.
 
 (2) In section 22 (duty to make references in relation to completed mergers), in subsection (3)—
 
 - (a) the word “or” before paragraph (e) shall cease to have effect; and
-- (b)[^key-283833a3ffb8110ae2e1603b68d9f673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-283833a3ffb8110ae2e1603b68d9f673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-51cefd08eeebf4673af4a2dd06176209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-51cefd08eeebf4673af4a2dd06176209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-51cefd08eeebf4673af4a2dd06176209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-51cefd08eeebf4673af4a2dd06176209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-51cefd08eeebf4673af4a2dd06176209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-51cefd08eeebf4673af4a2dd06176209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 33 (duty to make references in relation to anticipated mergers), in subsection (3)—
 
 - (a) the word “or” before paragraph (e) shall cease to have effect; and
-- (b)[^key-895c98ee2c0a79f4dcc284b18a8c6924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-895c98ee2c0a79f4dcc284b18a8c6924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-78d3d0e97efd7324811af8007dd86aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-78d3d0e97efd7324811af8007dd86aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-78d3d0e97efd7324811af8007dd86aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-78d3d0e97efd7324811af8007dd86aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-78d3d0e97efd7324811af8007dd86aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-78d3d0e97efd7324811af8007dd86aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In section 39 (time-limits for investigations and reports), subsection (2) shall cease to have effect.
 
@@ -105,13 +105,13 @@ Regulation 2
 (12) In section 46 (references under section 45: supplementary), in subsection (1)—
 
 - (a) the word “or” before paragraph (b) shall cease to have effect; and
-- (b)[^key-8b06c525d82e27f1ac9613e01a14b41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8b06c525d82e27f1ac9613e01a14b41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-5e7c09de14778cf81029b016f8da146e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-5e7c09de14778cf81029b016f8da146e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-5e7c09de14778cf81029b016f8da146e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-5e7c09de14778cf81029b016f8da146e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-5e7c09de14778cf81029b016f8da146e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-5e7c09de14778cf81029b016f8da146e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) In section 51 (time-limits for investigations and reports by Commission), subsection (2) shall cease to have effect.
 
@@ -126,41 +126,41 @@ Regulation 2
 - (b) the word “or” before paragraph (c) shall cease to have effect; and
 - (c) paragraph (c) shall cease to have effect.
 
-(19)[^key-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(20)[^key-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(20)[^c-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(21)[^key-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(21)[^c-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(22)[^key-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(22)[^c-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(23)[^key-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(23)[^c-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(24)[^key-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(24)[^c-f1a6156e559d703da6892f06c85ef4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (25) In section 129 (other interpretation provisions), in subsection (1)—
 
 - (a) the definition of “the European Merger Regulations” shall cease to have effect; and
-- (b)[^key-38e85c9b11b9651422644b321c37adbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-38e85c9b11b9651422644b321c37adbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (26) In section 130 (index of defined expressions)—
 
 - (a) the expression “European Merger Regulations” in the left-hand column of the table and the corresponding provision in the right-hand column shall cease to have effect; and
-- (b)[^key-796053c366a8692b13ec859dfe560a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-796053c366a8692b13ec859dfe560a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(27)[^key-d5b212ee6fdd74bc3874caa2cde10e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(27)[^c-d5b212ee6fdd74bc3874caa2cde10e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. EEC Merger Control (Distinct Market Investigations) Regulations 1990[^key-b2d25dbd95629791d300355cb5426c7f]
+### 3. EEC Merger Control (Distinct Market Investigations) Regulations 1990[^c-b2d25dbd95629791d300355cb5426c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Transnational Information and Consultation of Employees Regulations 1999[^key-410779cee37bef81e764907dee133301]
+### 4. Transnational Information and Consultation of Employees Regulations 1999[^c-410779cee37bef81e764907dee133301]
 
 (1) The Transnational Information and Consultation of Employees Regulations 1999[^f00006] are amended as follows.
 
 (2) In paragraph (4) of regulation 3 (controlled and controlling undertaking), for “[(EEC) No 4064/89](https://www.legislation.gov.uk/european/regulation/1989/4064) of 21 December 1989” there is substituted “(EC) No 139/2004 of 20 January 2004”.
 
-### 5. Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003[^key-990d67cf3584e343aa14a562cd9a1cc6]
+### 5. Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003[^c-990d67cf3584e343aa14a562cd9a1cc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,40 +184,40 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: The European Communities (Designation) (No 2) Order 1990 S.I. [1990/1304](https://www.legislation.gov.uk/uksi/1990/1304).
 
-[^key-c79e10fdd64bfe921be3b19362369ecd]: Commencement: Reg. 1 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
+[^c-c79e10fdd64bfe921be3b19362369ecd]: Commencement: Reg. 1 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
 
-[^key-7971e6f6a518cc53ad258687f8682331]: Commencement: Reg. 2 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
+[^c-7971e6f6a518cc53ad258687f8682331]: Commencement: Reg. 2 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
 
-[^key-82998d5b1035e14966666bffa7c14f5a]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/1) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-82998d5b1035e14966666bffa7c14f5a]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/1) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-364c43659d6cc5d05159f5361becd30c]: Commencement: Sch. para. 2 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
+[^c-364c43659d6cc5d05159f5361becd30c]: Commencement: Sch. para. 2 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
 
 [^f00004]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-283833a3ffb8110ae2e1603b68d9f673]: Textual amendment: [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/2/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-283833a3ffb8110ae2e1603b68d9f673]: Textual amendment: [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/2/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-51cefd08eeebf4673af4a2dd06176209]: Textual amendment: [Sch. para. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-51cefd08eeebf4673af4a2dd06176209]: Textual amendment: [Sch. para. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-895c98ee2c0a79f4dcc284b18a8c6924]: Textual amendment: [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/6/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-895c98ee2c0a79f4dcc284b18a8c6924]: Textual amendment: [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/6/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-78d3d0e97efd7324811af8007dd86aa9]: Textual amendment: [Sch. para. 2(7)-(9)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/7) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-78d3d0e97efd7324811af8007dd86aa9]: Textual amendment: [Sch. para. 2(7)-(9)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/7) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-8b06c525d82e27f1ac9613e01a14b41a]: Textual amendment: [Sch. para. 2(12)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/12/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-8b06c525d82e27f1ac9613e01a14b41a]: Textual amendment: [Sch. para. 2(12)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/12/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-5e7c09de14778cf81029b016f8da146e]: Textual amendment: [Sch. para. 2(13)-(15)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/13) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-5e7c09de14778cf81029b016f8da146e]: Textual amendment: [Sch. para. 2(13)-(15)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/13) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-f1a6156e559d703da6892f06c85ef4cf]: Textual amendment: [Sch. para. 2(19)-(24)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/19) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-f1a6156e559d703da6892f06c85ef4cf]: Textual amendment: [Sch. para. 2(19)-(24)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/19) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-38e85c9b11b9651422644b321c37adbc]: Textual amendment: [Sch. para. 2(25)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/25/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-38e85c9b11b9651422644b321c37adbc]: Textual amendment: [Sch. para. 2(25)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/25/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-796053c366a8692b13ec859dfe560a44]: Textual amendment: [Sch. para. 2(26)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/26/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-796053c366a8692b13ec859dfe560a44]: Textual amendment: [Sch. para. 2(26)(b)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/26/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-d5b212ee6fdd74bc3874caa2cde10e93]: Textual amendment: [Sch. para. 2(27)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/27) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-d5b212ee6fdd74bc3874caa2cde10e93]: Textual amendment: [Sch. para. 2(27)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/27) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-b2d25dbd95629791d300355cb5426c7f]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-b2d25dbd95629791d300355cb5426c7f]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-410779cee37bef81e764907dee133301]: Commencement: Sch. para. 4 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
+[^c-410779cee37bef81e764907dee133301]: Commencement: Sch. para. 4 in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1)
 
 [^f00006]: Footnote: [S.I 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323).
 
-[^key-990d67cf3584e343aa14a562cd9a1cc6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/5) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-990d67cf3584e343aa14a562cd9a1cc6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/5) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

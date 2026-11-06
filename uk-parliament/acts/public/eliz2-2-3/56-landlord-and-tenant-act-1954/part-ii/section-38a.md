@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38A. Agreements to exclude provisions of Part 2[^key-5e8c50c27213f85653b25a39a318fc21]
+## 38A. Agreements to exclude provisions of Part 2[^c-5e8c50c27213f85653b25a39a318fc21]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8c50c27213f85653b25a39a318fc21]: Textual amendment: S. 38A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [22(1)](https://www.legislation.gov.uk/uksi/2003/3096/article/22/1)
+[^c-5e8c50c27213f85653b25a39a318fc21]: Textual amendment: S. 38A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [22(1)](https://www.legislation.gov.uk/uksi/2003/3096/article/22/1)

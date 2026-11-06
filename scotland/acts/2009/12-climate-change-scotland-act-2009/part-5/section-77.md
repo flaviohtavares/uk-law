@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Scottish civil estate: supplementary[^key-9ff8903684ff8a2419d9d60e0fcdb138]
+## 77. Scottish civil estate: supplementary[^c-9ff8903684ff8a2419d9d60e0fcdb138]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ff8903684ff8a2419d9d60e0fcdb138]: Commencement: S. 77 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-9ff8903684ff8a2419d9d60e0fcdb138]: Commencement: S. 77 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

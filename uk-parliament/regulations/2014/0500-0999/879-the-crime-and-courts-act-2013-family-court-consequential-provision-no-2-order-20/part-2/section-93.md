@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Amendments to the Justices of the Peace (Training and Development Committee) Rules 2007[^key-5a14eef2ebbc1e443119ad485f291d39]
+## 93. Amendments to the Justices of the Peace (Training and Development Committee) Rules 2007[^c-5a14eef2ebbc1e443119ad485f291d39]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Subject to articles 102 and 103, the Justices of the Peace (Training and Develop
 
 ## Annotations
 
-[^key-5a14eef2ebbc1e443119ad485f291d39]: Commencement: Art. 93 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-5a14eef2ebbc1e443119ad485f291d39]: Commencement: Art. 93 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00029]: Footnote: [S.I. 2007/1609](https://www.legislation.gov.uk/uksi/2007/1609). Relevant amending instruments are [S.I. 2011/1493](https://www.legislation.gov.uk/uksi/2011/1493) and [2012/1206](https://www.legislation.gov.uk/uksi/2012/1206).

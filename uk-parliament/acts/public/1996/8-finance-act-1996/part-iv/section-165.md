@@ -26,7 +26,7 @@ summary: ''
 >
 > (2B) The reference in subsection (2A) above to an annuity payable wholly or partly in satisfaction of a claim under an insurance policy shall be taken, in relation to an insurance company (within the meaning of Chapter I of Part XII), to include a reference to every annuity payable by that company; and the references in sections 338(2) and 434B(2) to an annuity paid wholly or partly as mentioned in subsection (2A) above shall be construed accordingly.
 
-(2)[^key-e02914d40b8f0b0207361a895c0e4b63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e02914d40b8f0b0207361a895c0e4b63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c14612651] In section 434B of that Act (treatment of interest and annuities in the case of insurance companies), subsection (1) shall cease to have effect; and in subsection (2), for the words from the beginning to “mentioned in subsection (1) above” there shall be substituted—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e02914d40b8f0b0207361a895c0e4b63]: Textual amendment: [S. 165(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/165/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e02914d40b8f0b0207361a895c0e4b63]: Textual amendment: [S. 165(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/165/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14612651]: Textual amendment: s. 165(3) repealed (19.3.1997 with effect as mentioned in Sch. 18 Pt. VI(6), Note) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. VI(6)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VI/6)

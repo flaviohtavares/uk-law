@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Manner in which service to be effected[^key-4bc3f47b78a0b1aff961f9a650bcaa8d]
+## 10. Manner in which service to be effected[^c-4bc3f47b78a0b1aff961f9a650bcaa8d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the proper address is the address of an office of that person where, to the know
 
 ## Annotations
 
-[^key-4bc3f47b78a0b1aff961f9a650bcaa8d]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2013/3208/rule/10) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-4bc3f47b78a0b1aff961f9a650bcaa8d]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2013/3208/rule/10) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

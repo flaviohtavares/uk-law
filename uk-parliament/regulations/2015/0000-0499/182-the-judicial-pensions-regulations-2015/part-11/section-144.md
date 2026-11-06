@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Appointment of scheme actuary and actuarial valuations[^key-d1dcda20613dc1fa659998ac89d9befa]
+## 144. Appointment of scheme actuary and actuarial valuations[^c-d1dcda20613dc1fa659998ac89d9befa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1dcda20613dc1fa659998ac89d9befa]: Textual amendment: [Reg. 144](https://www.legislation.gov.uk/uksi/2015/182/regulation/144) omitted (1.4.2022) by virtue of [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 4(12)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/4/12) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))
+[^c-d1dcda20613dc1fa659998ac89d9befa]: Textual amendment: [Reg. 144](https://www.legislation.gov.uk/uksi/2015/182/regulation/144) omitted (1.4.2022) by virtue of [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 4(12)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/4/12) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))

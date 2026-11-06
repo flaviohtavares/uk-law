@@ -30,7 +30,7 @@ summary: ''
 
 by giving written notice to the Secretary of State.
 
-(2) But paragraph (1) only applies where the person complies with regulation 107 (payment of benefits on application to Secretary of State) relating to the pension [^key-75ef80b9e81b59c9684ea60a8575e985]....
+(2) But paragraph (1) only applies where the person complies with regulation 107 (payment of benefits on application to Secretary of State) relating to the pension [^c-75ef80b9e81b59c9684ea60a8575e985]....
 
 (3) For the purpose of paragraph (1), a person is to be treated as being in pensionable employment on or after 1st January 2007 if the person has paid contributions under regulation C9 of TPR 1997 or regulation 19 (election to pay contributions by a person serving in a reserve force) for a period which ends on or after that date.
 
@@ -39,7 +39,7 @@ by giving written notice to the Secretary of State.
 (5) The conditions are—
 
 - (a) that no payment of any pension to the corresponding pension debit member had been initiated before the transfer day unless that pension relates to pensionable employment which was not taken into account in determining the rights from which PCM's credit is derived, and
-- (b) PCM complies with regulation 107 (payment of benefits on application to Secretary of State) relating to the pension credit member's pension [^key-8e7c3616eba233c610f2c107eb01bedb]....
+- (b) PCM complies with regulation 107 (payment of benefits on application to Secretary of State) relating to the pension credit member's pension [^c-8e7c3616eba233c610f2c107eb01bedb]....
 
 (6) For the purpose of paragraph (4), a pension credit member's credit is to be treated as attributable to pensionable employment on or after 1st January 2007 if it is attributable to contributions paid under regulation C9 of TPR 1997 or regulation 19 (election to pay contributions by a person serving in a reserve force) for a period which ends on or after that date.
 
@@ -65,6 +65,6 @@ by giving written notice to the Secretary of State.
 
 ## Annotations
 
-[^key-75ef80b9e81b59c9684ea60a8575e985]: Textual amendment: Words in [reg. 116(2)](https://www.legislation.gov.uk/uksi/2010/990/regulation/116/2) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/673/regulation/6/a)
+[^c-75ef80b9e81b59c9684ea60a8575e985]: Textual amendment: Words in [reg. 116(2)](https://www.legislation.gov.uk/uksi/2010/990/regulation/116/2) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/673/regulation/6/a)
 
-[^key-8e7c3616eba233c610f2c107eb01bedb]: Textual amendment: Words in [reg. 116(5)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/116/5/b) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/673/regulation/6/b)
+[^c-8e7c3616eba233c610f2c107eb01bedb]: Textual amendment: Words in [reg. 116(5)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/116/5/b) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/673/regulation/6/b)

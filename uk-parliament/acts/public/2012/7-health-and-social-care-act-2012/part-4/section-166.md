@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Information[^key-a72b7c2b04ba57dd08fc58526e8bdd66]
+## 166. Information[^c-a72b7c2b04ba57dd08fc58526e8bdd66]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ For section 48 of the National Health Service Act 2006 (information) substituteâ
 
 ## Annotations
 
-[^key-a72b7c2b04ba57dd08fc58526e8bdd66]: Commencement: S. 166 in force at 1.11.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2012/2657/article/10))
+[^c-a72b7c2b04ba57dd08fc58526e8bdd66]: Commencement: S. 166 in force at 1.11.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2012/2657/article/10))

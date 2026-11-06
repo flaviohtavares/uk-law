@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.28. Inspection of records[^key-560a129bc9fcbc745b2f79e3db17f0f0]
+## 7.28. Inspection of records[^c-560a129bc9fcbc745b2f79e3db17f0f0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-560a129bc9fcbc745b2f79e3db17f0f0]: Commencement: [Rule 7.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-560a129bc9fcbc745b2f79e3db17f0f0]: Commencement: [Rule 7.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

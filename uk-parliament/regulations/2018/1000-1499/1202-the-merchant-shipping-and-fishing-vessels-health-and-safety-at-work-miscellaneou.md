@@ -115,11 +115,11 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 ## PART 2 — Amendments which take effect on exit day
 
-### 3. Amendment of the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995[^key-3015525920c884c65af971b98355cda7]
+### 3. Amendment of the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995[^c-3015525920c884c65af971b98355cda7]
 
 In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 omit regulation 2 (purpose of regulation).
 
-### 4. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^key-48576d8ad6a8ac6d1ded454716d3611a]
+### 4. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^c-48576d8ad6a8ac6d1ded454716d3611a]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c23439791] are amended as follows.
 
@@ -128,19 +128,19 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
 - (a) in paragraph (2) omit the definition of “Directive 2014/27/EU”; and
 - (b) for paragraph (3) substitute—
 
-  > (3) Subject to paragraph (2), words and expressions used in the Regulations have the same meaning as in Council Directive [89/391/EEC](https://www.legislation.gov.uk/eudr/1989/391) of 12 June 1989 on the introduction of measures to encourage improvements in the health and safety of workers at work [^c23439801], as it had effect immediately before IP completion day[^key-75274774c2bd813e03d8d5b6dcc2e558]
+  > (3) Subject to paragraph (2), words and expressions used in the Regulations have the same meaning as in Council Directive [89/391/EEC](https://www.legislation.gov.uk/eudr/1989/391) of 12 June 1989 on the introduction of measures to encourage improvements in the health and safety of workers at work [^c23439801], as it had effect immediately before IP completion day[^c-75274774c2bd813e03d8d5b6dcc2e558]
 
   .
 
 (3) In regulation 8(1)(b) (new or expectant mothers) for “Annexes I and II of Council Directive [92/85/EEC](https://www.legislation.gov.uk/eudr/1992/85) on the introduction of measures to encourage improvements in the health and safety at work of pregnant workers who have recently given birth or are breast-feeding, as amended by Directive 2014/27/EU” substitute “ Annex A and B of Merchant Shipping Notice 1890 (M+F) ”.
 
-### 5. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998[^key-6fd2df33a15437b0b7297ff2219455d1]
+### 5. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998[^c-6fd2df33a15437b0b7297ff2219455d1]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 [^c23439811] are amended as follows.
 
 (2) In regulation 2(3) (interpretation) substitute—
 
-> (3) Subject to paragraph (2), words and expressions used in the Regulations shall have the same meaning as in Council Directive [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33) on the protection of young people at work [^c23439821], as it had effect immediately before IP completion day[^key-55e3d541b816f7b6efdec5b8be7cba5e] .
+> (3) Subject to paragraph (2), words and expressions used in the Regulations shall have the same meaning as in Council Directive [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33) on the protection of young people at work [^c23439821], as it had effect immediately before IP completion day[^c-55e3d541b816f7b6efdec5b8be7cba5e] .
 
 .
 
@@ -155,7 +155,7 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
   ; and
 - (b) in paragraph 3(a) after “classification under” insert “ Annex I to ”.
 
-### 6. Amendment of the Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001[^key-8ec3f5be3b1d9ab81d054c92fa3e685d]
+### 6. Amendment of the Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001[^c-8ec3f5be3b1d9ab81d054c92fa3e685d]
 
 (1) The Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001 [^c23439841] are amended as follows.
 
@@ -179,7 +179,7 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
 - (b) in paragraph (2)(b) for “Annexes I, VIII and IX of the Directive” substitute “ Parts I, VIII and IX of Schedule 1 to the Safety Signs Regulations ”; and
 - (c) in paragraph (5) for “Annex IX to the Directive” substitute “ Part IX of Schedule 1 to the Safety Signs Regulations ”.
 
-### 7. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Carcinogens and Mutagens) Regulations 2007[^key-31d0c40743caa8bf22983e580054aa18]
+### 7. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Carcinogens and Mutagens) Regulations 2007[^c-31d0c40743caa8bf22983e580054aa18]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Carcinogens and Mutagens) Regulations 2007 [^c23439861] are amended as follows.
 
@@ -191,7 +191,7 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
 
 (3) In regulation 3(4)(a) (application) for “radiation covered by the Treaty establishing the European Atomic Energy Community” substitute “ ionising radiation ”.
 
-### 8. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Biological Agents) Regulations 2010[^key-b2ea4bff3d66988e3079646594f3ea65]
+### 8. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Biological Agents) Regulations 2010[^c-b2ea4bff3d66988e3079646594f3ea65]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Biological Agents) Regulations 2010 [^c23439871] are amended as follows.
 
@@ -234,7 +234,7 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
 - (b) in paragraph (2) for “Annex VI to the Directive” substitute “ Schedule 3, Part 3 to the Control of Substances Hazardous to Health Regulations 2002 ”[^c23439881] .
 - (c) in paragraph (4) for “Annex V to the Directive” substitute “ Annex 5 of Merchant Shipping Notice 1889 (M+F) ”.
 
-### 9. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010[^key-7bbe4e036eb8d881a0d783b0718d0f1a]
+### 9. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010[^c-7bbe4e036eb8d881a0d783b0718d0f1a]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010 [^c23439891] are amended as follows.
 
@@ -259,7 +259,7 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
     > “**safety data sheet**” means a safety data sheet within the meaning of Article 31 of and Annex II to the REACH Regulation;
 
     ; and
-- (b) in paragraph (2) for “as amended from time to time” substitute “ as it had effect immediately before IP completion day[^key-497c9bd507b17706d54c6da9af4a83ee] ”.
+- (b) in paragraph (2) for “as amended from time to time” substitute “ as it had effect immediately before IP completion day[^c-497c9bd507b17706d54c6da9af4a83ee] ”.
 
 (3) In regulation 5 (application of related legislation)—
 
@@ -299,11 +299,11 @@ In the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 o
 
 (7) In regulation 12(5) (health surveillance) for “Annex II to the Directive” substitute “ Annex 2 of Merchant Shipping Notice 1888 (M+F) ”.
 
-### 10. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Artificial Optical Radiation) Regulations 2010[^key-e2cc8aa9e67aaa0b58dbfb8cb7a77d24]
+### 10. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Artificial Optical Radiation) Regulations 2010[^c-e2cc8aa9e67aaa0b58dbfb8cb7a77d24]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Artificial Optical Radiation) Regulations 2010 [^c23439941] are amended as follows.
 
-(2) In regulation 2 (interpretation) in paragraph (2) for “as amended from time to time” substitute “ as it had effect immediately before IP completion day[^key-37baac543cac9974476cacc6da406f45] ”.
+(2) In regulation 2 (interpretation) in paragraph (2) for “as amended from time to time” substitute “ as it had effect immediately before IP completion day[^c-37baac543cac9974476cacc6da406f45] ”.
 
 (3) In regulation 6 (assessment of health risks)—
 
@@ -353,49 +353,49 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23439781]: Marginal citation: A copy of the Ship Captain's Medical Guide published in 2014 by the Department for Transport may be downloaded from https://www.gov.uk/government/publications/the-ship-captains-medical-guide. The Guide is available for inspection free of charge but by appointment at the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG (infoline@mcga.gov.uk and 0203 817 2000).
 
-[^key-3015525920c884c65af971b98355cda7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-3015525920c884c65af971b98355cda7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-48576d8ad6a8ac6d1ded454716d3611a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-48576d8ad6a8ac6d1ded454716d3611a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439791]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21); there are other amending instruments but none is relevant.
 
 [^c23439801]: Marginal citation: OJ No. L 183, 29.06.1989, p. 1, as last amended by Regulation (EC) No 1137/2008 of the European Parliament and of the Council OJ No. L 311, 21.11.2008, p. 1.
 
-[^key-75274774c2bd813e03d8d5b6dcc2e558]: Textual amendment: Words in reg. 4(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
+[^c-75274774c2bd813e03d8d5b6dcc2e558]: Textual amendment: Words in reg. 4(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
 
-[^key-6fd2df33a15437b0b7297ff2219455d1]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6fd2df33a15437b0b7297ff2219455d1]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439811]: Marginal citation: [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21); there is another amending instrument but it is not relevant.
 
 [^c23439821]: Marginal citation: OJ No. L 216, 20.08.1994, p. 12, as last amended by Directive 2014/27/EU of the European Parliament and of the Council OJ No. L 65, 05.03.2014, p. 1.
 
-[^key-55e3d541b816f7b6efdec5b8be7cba5e]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/2) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
+[^c-55e3d541b816f7b6efdec5b8be7cba5e]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/2) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
 
 [^c23439831]: Marginal citation: [S.I. 2010/323](https://www.legislation.gov.uk/uksi/2010/323), to which there are amendments not relevant to these Regulations.
 
-[^key-8ec3f5be3b1d9ab81d054c92fa3e685d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8ec3f5be3b1d9ab81d054c92fa3e685d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439841]: Marginal citation: [S.I. 2001/3444](https://www.legislation.gov.uk/uksi/2001/3444), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21).
 
 [^c23439851]: Marginal citation: [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341), amended by SI 2015/21; there are other amending instruments but none is relevant.
 
-[^key-31d0c40743caa8bf22983e580054aa18]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-31d0c40743caa8bf22983e580054aa18]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439861]: Marginal citation: [S.I. 2007/3100](https://www.legislation.gov.uk/uksi/2007/3100), amended by [S.I. 2010/1110](https://www.legislation.gov.uk/uksi/2010/1110), 2015/21.
 
-[^key-b2ea4bff3d66988e3079646594f3ea65]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b2ea4bff3d66988e3079646594f3ea65]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439871]: Marginal citation: [S.I. 2010/323](https://www.legislation.gov.uk/uksi/2010/323), to which there are amendments not relevant to these Regulations.
 
 [^c23439881]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677), to which there are amendments not relevant to these Regulations.
 
-[^key-7bbe4e036eb8d881a0d783b0718d0f1a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7bbe4e036eb8d881a0d783b0718d0f1a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439891]: Marginal citation: [S.I. 2010/330](https://www.legislation.gov.uk/uksi/2010/330), amended by [S.I. 2012/1844](https://www.legislation.gov.uk/uksi/2012/1844), 2015/21.
 
 [^c23439901]: Marginal citation: The document EH40 published in 2013 by the Health and Safety Executive may be downloaded from http://www.hse.gov.uk/pUbns/priced/eh40.pdf and a copy may be obtained by writing to Health and Safety Executive Books at PO Box 1999, Sudbury, Suffolk CO10 2WA or via https://books.hse.gov.uk.
 
-[^key-497c9bd507b17706d54c6da9af4a83ee]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
+[^c-497c9bd507b17706d54c6da9af4a83ee]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
 
 [^c23439911]: Marginal citation: [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68).
 
@@ -403,8 +403,8 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23439931]: Marginal citation: [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21); there are other amending instruments but none is relevant.
 
-[^key-e2cc8aa9e67aaa0b58dbfb8cb7a77d24]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e2cc8aa9e67aaa0b58dbfb8cb7a77d24]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23439941]: Marginal citation: [S.I. 2010/2987](https://www.legislation.gov.uk/uksi/2010/2987).
 
-[^key-37baac543cac9974476cacc6da406f45]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/2) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)
+[^c-37baac543cac9974476cacc6da406f45]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/2) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)

@@ -26,7 +26,7 @@ summary: ''
 - (b) the person is using a lavatory, or *(affected by repeal, see note)*[^c20916611]
 - (c) the person is doing a sexual act that is not of a kind ordinarily done in public. *(affected by repeal, see note)*[^c20916611]
 
-(1A)[^key-e245116034cf6c72dc842aff15aa6034] For the purposes of sections 67 and 67A, operating equipment includes enabling or securing its activation by another person without that person's knowledge. *(affected by repeal, see note)*[^c20916611]
+(1A)[^c-e245116034cf6c72dc842aff15aa6034] For the purposes of sections 67 and 67A, operating equipment includes enabling or securing its activation by another person without that person's knowledge. *(affected by repeal, see note)*[^c20916611]
 
 (2) In section 67, “ *(affected by repeal, see note)*[^c20916611]**structure *(affected by repeal, see note)*[^c20916611]**” includes a tent, vehicle or vessel or other temporary or movable structure. *(affected by repeal, see note)*[^c20916611]
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c20916611]: Textual amendment: Ss. 66-72 repealed (N.I.) (2.2.2009) by [The Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1](https://www.legislation.gov.uk/nisi/2008/1769/article/1), [78(e)](https://www.legislation.gov.uk/nisi/2008/1769/article/78/e), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/2008/1769/schedule/2/paragraph/1)) [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-e245116034cf6c72dc842aff15aa6034]: Textual amendment: S. 68(1A) inserted (12.4.2019) by [Voyeurism (Offences) Act 2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2019/2/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2019/2/section/2/2)
+[^c-e245116034cf6c72dc842aff15aa6034]: Textual amendment: S. 68(1A) inserted (12.4.2019) by [Voyeurism (Offences) Act 2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2019/2/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2019/2/section/2/2)

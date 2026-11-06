@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Defence to proceedings in respect of statutory nuisance[^key-7d4d319090712aea18179b619095edaa]
+## 49. Defence to proceedings in respect of statutory nuisance[^c-7d4d319090712aea18179b619095edaa]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4d319090712aea18179b619095edaa]: Commencement: Art. 49 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-7d4d319090712aea18179b619095edaa]: Commencement: Art. 49 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00044]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

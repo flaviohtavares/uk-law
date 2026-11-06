@@ -45,15 +45,15 @@ In accordance with paragraph 2(2) of that schedule, they have consulted with suc
 
 In accordance with paragraph 2(3) of that schedule[^f00002], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-f82bf661a2a0ef54112c713a9dd94792]
+## 1. Citation and commencement[^c-f82bf661a2a0ef54112c713a9dd94792]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2023 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2023-2024[^key-7f74875ac8a57a847c5defc9471b1aaa]
+## 2. Revenue support grant for 2023-2024[^c-7f74875ac8a57a847c5defc9471b1aaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2023-2024[^key-8e885cf8d211729ce13ee60a572e98bd]
+## 3. Distribution of non-domestic rate income for 2023-2024[^c-8e885cf8d211729ce13ee60a572e98bd]
 
 (1) The distributable amount of non-domestic rate income arrived at under paragraph 9 of schedule 12 of the Local Government Finance Act 1992 in respect of the financial year 2023-2024 is £3,047,000,000.
 
@@ -61,13 +61,13 @@ This Order may be cited as the Local Government Finance (Scotland) Order 2023 an
 
 (3) The amount of non-domestic rate income distributed to each local authority specified in column 1 of schedule 1 in respect of the financial year 2023-2024 is the amount set out in column 3 of that schedule opposite the name of that local authority.
 
-## 4. Redetermination of revenue support grant for 2022-2023[^key-06ae146e4a4de1d64ad362febe28f773]
+## 4. Redetermination of revenue support grant for 2022-2023[^c-06ae146e4a4de1d64ad362febe28f773]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2022-2023 are specified in column 1 of schedule 2.
 
 (2) The amount of revenue support grant payable to each local authority specified in column 1 of schedule 2 in respect of the financial year 2022-2023 is the amount set out in column 2 of that schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-8a03a7ce9a05e25dbbb0d34bde23d175]
+## 5. Revocations[^c-8a03a7ce9a05e25dbbb0d34bde23d175]
 
 Article 2 and column 2 of schedule 1 of the Local Government Finance (Scotland) Order 2022[^f00003] are revoked.
 
@@ -81,47 +81,47 @@ Edinburgh
 
 2nd March 2023
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2023-2024[^key-a7f61e0def4ae5fca37b17034f26d34d]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2023-2024[^c-a7f61e0def4ae5fca37b17034f26d34d]
 
 Articles 2 and 3
 
-| *Column 1*<br>*Local Authority* | *[^key-0ab31969e5276ecffd1d9338bbe5e87f]...* | *Column 3*<br>*Amount of non-domestic rate income*<br>*£m* |
+| *Column 1*<br>*Local Authority* | *[^c-0ab31969e5276ecffd1d9338bbe5e87f]...* | *Column 3*<br>*Amount of non-domestic rate income*<br>*£m* |
 | --- | --- | --- |
-| Aberdeen City | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 257.797 |
-| Aberdeenshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 134.839 |
-| Angus | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 27.934 |
-| Argyll & Bute | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 37.645 |
-| Clackmannanshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 17.764 |
-| Dumfries & Galloway | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 60.313 |
-| Dundee City | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 73.704 |
-| East Ayrshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 30.467 |
-| East Dunbartonshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 24.099 |
-| East Lothian | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 58.108 |
-| East Renfrewshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 15.695 |
-| Edinburgh, City of | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 377.317 |
-| Eilean Siar | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 9.106 |
-| Falkirk | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 75.322 |
-| Fife | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 172.108 |
-| Glasgow City | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 358.472 |
-| Highland | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 156.979 |
-| Inverclyde | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 21.333 |
-| Midlothian | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 35.215 |
-| Moray | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 55.314 |
-| North Ayrshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 43.955 |
-| North Lanarkshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 121.640 |
-| Orkney Islands | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 11.473 |
-| Perth & Kinross | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 60.754 |
-| Renfrewshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 131.323 |
-| Scottish Borders | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 37.818 |
-| Shetland Islands | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 24.302 |
-| South Ayrshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 47.708 |
-| South Lanarkshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 341.536 |
-| Stirling | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 45.636 |
-| West Dunbartonshire | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 93.396 |
-| West Lothian | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 87.928 |
-| *Scotland Total* | [^key-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 3,047.000 |
+| Aberdeen City | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 257.797 |
+| Aberdeenshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 134.839 |
+| Angus | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 27.934 |
+| Argyll & Bute | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 37.645 |
+| Clackmannanshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 17.764 |
+| Dumfries & Galloway | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 60.313 |
+| Dundee City | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 73.704 |
+| East Ayrshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 30.467 |
+| East Dunbartonshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 24.099 |
+| East Lothian | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 58.108 |
+| East Renfrewshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 15.695 |
+| Edinburgh, City of | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 377.317 |
+| Eilean Siar | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 9.106 |
+| Falkirk | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 75.322 |
+| Fife | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 172.108 |
+| Glasgow City | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 358.472 |
+| Highland | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 156.979 |
+| Inverclyde | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 21.333 |
+| Midlothian | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 35.215 |
+| Moray | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 55.314 |
+| North Ayrshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 43.955 |
+| North Lanarkshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 121.640 |
+| Orkney Islands | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 11.473 |
+| Perth & Kinross | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 60.754 |
+| Renfrewshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 131.323 |
+| Scottish Borders | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 37.818 |
+| Shetland Islands | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 24.302 |
+| South Ayrshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 47.708 |
+| South Lanarkshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 341.536 |
+| Stirling | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 45.636 |
+| West Dunbartonshire | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 93.396 |
+| West Lothian | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 87.928 |
+| *Scotland Total* | [^c-0ab31969e5276ecffd1d9338bbe5e87f]. . . | 3,047.000 |
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2022-2023[^key-1d8806af3b2dfdd4d5ef6855ffe9b5be]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2022-2023[^c-1d8806af3b2dfdd4d5ef6855ffe9b5be]
 
 Article 4
 
@@ -178,20 +178,20 @@ This Order—
 
 [^f00002]: Footnote: Paragraph 2(3) has been modified by paragraph 6 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-f82bf661a2a0ef54112c713a9dd94792]: Commencement: Art. 1 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
+[^c-f82bf661a2a0ef54112c713a9dd94792]: Commencement: Art. 1 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
 
-[^key-7f74875ac8a57a847c5defc9471b1aaa]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2023/68/article/2) revoked (1.3.2024) by [The Local Government Finance (Scotland) Order 2024 (S.S.I. 2024/71)](https://www.legislation.gov.uk/ssi/2024/71), [arts. 1](https://www.legislation.gov.uk/ssi/2024/71/article/1), [5](https://www.legislation.gov.uk/ssi/2024/71/article/5)
+[^c-7f74875ac8a57a847c5defc9471b1aaa]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2023/68/article/2) revoked (1.3.2024) by [The Local Government Finance (Scotland) Order 2024 (S.S.I. 2024/71)](https://www.legislation.gov.uk/ssi/2024/71), [arts. 1](https://www.legislation.gov.uk/ssi/2024/71/article/1), [5](https://www.legislation.gov.uk/ssi/2024/71/article/5)
 
-[^key-8e885cf8d211729ce13ee60a572e98bd]: Commencement: Art. 3 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
+[^c-8e885cf8d211729ce13ee60a572e98bd]: Commencement: Art. 3 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
 
-[^key-06ae146e4a4de1d64ad362febe28f773]: Commencement: Art. 4 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
+[^c-06ae146e4a4de1d64ad362febe28f773]: Commencement: Art. 4 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
 
-[^key-8a03a7ce9a05e25dbbb0d34bde23d175]: Commencement: Art. 5 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
+[^c-8a03a7ce9a05e25dbbb0d34bde23d175]: Commencement: Art. 5 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2022/84](https://www.legislation.gov.uk/ssi/2022/84).
 
-[^key-a7f61e0def4ae5fca37b17034f26d34d]: Commencement: Sch. 1 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
+[^c-a7f61e0def4ae5fca37b17034f26d34d]: Commencement: Sch. 1 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
 
-[^key-0ab31969e5276ecffd1d9338bbe5e87f]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2023/68/schedule/1) revoked (1.3.2024) by [The Local Government Finance (Scotland) Order 2024 (S.S.I. 2024/71)](https://www.legislation.gov.uk/ssi/2024/71), [arts. 1](https://www.legislation.gov.uk/ssi/2024/71/article/1), [5](https://www.legislation.gov.uk/ssi/2024/71/article/5)
+[^c-0ab31969e5276ecffd1d9338bbe5e87f]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2023/68/schedule/1) revoked (1.3.2024) by [The Local Government Finance (Scotland) Order 2024 (S.S.I. 2024/71)](https://www.legislation.gov.uk/ssi/2024/71), [arts. 1](https://www.legislation.gov.uk/ssi/2024/71/article/1), [5](https://www.legislation.gov.uk/ssi/2024/71/article/5)
 
-[^key-1d8806af3b2dfdd4d5ef6855ffe9b5be]: Commencement: Sch. 2 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)
+[^c-1d8806af3b2dfdd4d5ef6855ffe9b5be]: Commencement: Sch. 2 in force at 3.3.2023, see [art. 1](https://www.legislation.gov.uk/ssi/2023/68/article/1)

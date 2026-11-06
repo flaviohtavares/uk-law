@@ -54,7 +54,7 @@ The Secretary of State considers that the restrictions and requirements imposed 
 
 In accordance with section 45R of that Act, the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and application[^key-07639d742d0cc238fe4afad2b48bc9c5]
+## 1. Citation, commencement and application[^c-07639d742d0cc238fe4afad2b48bc9c5]
 
 (1) These Regulations may be cited as the Public Health (Coronavirus) (Protection from Eviction) (England) (No. 2) Regulations 2021.
 
@@ -62,7 +62,7 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
 
 (3) These Regulations apply in relation to England only.
 
-## 2. Residential Tenancies (Protection from Eviction)[^key-d5af3719c457313619bc2a57494ee345]
+## 2. Residential Tenancies (Protection from Eviction)[^c-d5af3719c457313619bc2a57494ee345]
 
 (1) Subject to paragraphs (2), (3) and (5), no person may attend at a dwelling-house for the purpose of—
 
@@ -94,9 +94,9 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
 - (a) delivering a notice of eviction; or
 - (b) executing a writ or warrant of possession.
 
-## 3. Expiry[^key-23698313dc9ca770f39857ff3960cf30]
+## 3. Expiry[^c-23698313dc9ca770f39857ff3960cf30]
 
-These Regulations expire at the end of 31st May 2021 *(Extent: E)*[^key-6c30df7cc665ec586a68cf2ae9068a46].
+These Regulations expire at the end of 31st May 2021 *(Extent: E)*[^c-6c30df7cc665ec586a68cf2ae9068a46].
 
 David Wolfson
 
@@ -120,9 +120,9 @@ No impact assessment has been prepared for these Regulations.
 
 [^c24508181]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-07639d742d0cc238fe4afad2b48bc9c5]: Commencement: Reg. 1 in force at 22.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/164/regulation/1/2)
+[^c-07639d742d0cc238fe4afad2b48bc9c5]: Commencement: Reg. 1 in force at 22.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/164/regulation/1/2)
 
-[^key-d5af3719c457313619bc2a57494ee345]: Commencement: Reg. 2 in force at 22.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/164/regulation/1/2)
+[^c-d5af3719c457313619bc2a57494ee345]: Commencement: Reg. 2 in force at 22.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/164/regulation/1/2)
 
 [^c24508191]: Marginal citation: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Rule 55.6 was inserted by [S.I. 2001/256](https://www.legislation.gov.uk/uksi/2001/256).
 
@@ -138,8 +138,8 @@ No impact assessment has been prepared for these Regulations.
 
 [^c24508251]: Marginal citation: Ground 7 was amended by section 162(5) of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-23698313dc9ca770f39857ff3960cf30]: Commencement: Reg. 3 in force at 22.2.2021, see reg. 1(2)
+[^c-23698313dc9ca770f39857ff3960cf30]: Commencement: Reg. 3 in force at 22.2.2021, see reg. 1(2)
 
-[^key-6c30df7cc665ec586a68cf2ae9068a46]: Textual amendment: Words in reg. 3 substituted (30.3.2021) by [The Public Health (Coronavirus) (Protection from Eviction) (England) (No. 2) (Amendment) Regulations 2021 (S.I. 2021/362)](https://www.legislation.gov.uk/uksi/2021/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/362/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/362/regulation/2)
+[^c-6c30df7cc665ec586a68cf2ae9068a46]: Textual amendment: Words in reg. 3 substituted (30.3.2021) by [The Public Health (Coronavirus) (Protection from Eviction) (England) (No. 2) (Amendment) Regulations 2021 (S.I. 2021/362)](https://www.legislation.gov.uk/uksi/2021/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/362/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/362/regulation/2)
 
 [^c24508261]: Marginal citation: [S.I. 2021/15](https://www.legislation.gov.uk/uksi/2021/15).

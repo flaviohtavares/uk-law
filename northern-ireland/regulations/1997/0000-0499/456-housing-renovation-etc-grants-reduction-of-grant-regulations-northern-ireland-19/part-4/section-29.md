@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Annuity treated as income[^key-b534cbfa7ac510557e2ec01c9d1f980a]
+## 29. Annuity treated as income[^c-b534cbfa7ac510557e2ec01c9d1f980a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Any payment received under an annuity shall be treated as income.
 
 ## Annotations
 
-[^key-b534cbfa7ac510557e2ec01c9d1f980a]: Commencement: Reg. 29 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-b534cbfa7ac510557e2ec01c9d1f980a]: Commencement: Reg. 29 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

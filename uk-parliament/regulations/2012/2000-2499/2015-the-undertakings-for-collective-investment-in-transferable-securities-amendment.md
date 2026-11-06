@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of defects in [S.I. 2011/
 
 Financial Services And Markets
 
-The Undertakings for Collective Investment in Transferable Securities (Amendment) Regulations 2012 (revoked)[^key-088820ae477bf4f611b83a764d6775c1]
+The Undertakings for Collective Investment in Transferable Securities (Amendment) Regulations 2012 (revoked)[^c-088820ae477bf4f611b83a764d6775c1]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 24th August 2012
 
-[^key-088820ae477bf4f611b83a764d6775c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088820ae477bf4f611b83a764d6775c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-088820ae477bf4f611b83a764d6775c1]
+## 1. Citation and commencement[^c-088820ae477bf4f611b83a764d6775c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Financial Services and Markets Act 2000[^key-088820ae477bf4f611b83a764d6775c1]
+## 2. Amendments to the Financial Services and Markets Act 2000[^c-088820ae477bf4f611b83a764d6775c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-088820ae477bf4f611b83a764d6775c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-088820ae477bf4f611b83a764d6775c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-088820ae477bf4f611b83a764d6775c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-088820ae477bf4f611b83a764d6775c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Undertakings for Collective Investment in Transferable Securities Regulations 2011[^key-088820ae477bf4f611b83a764d6775c1]
+## 5. Amendment to the Undertakings for Collective Investment in Transferable Securities Regulations 2011[^c-088820ae477bf4f611b83a764d6775c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-088820ae477bf4f611b83a764d6775c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088820ae477bf4f611b83a764d6775c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-088820ae477bf4f611b83a764d6775c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088820ae477bf4f611b83a764d6775c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-088820ae477bf4f611b83a764d6775c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2015) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-088820ae477bf4f611b83a764d6775c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2015) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

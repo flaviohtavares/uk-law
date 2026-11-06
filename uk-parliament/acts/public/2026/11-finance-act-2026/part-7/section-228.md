@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Registration conditions: interpretation[^M_I_007f75e7-4f43-4d8a-980f-adde33780e17][^key-5af1e46a9cd92b7d513e80e53d4b6283][^key-284f7a199ddee402a1aba1679e51d0dd]
+## 228. Registration conditions: interpretation[^M_I_007f75e7-4f43-4d8a-980f-adde33780e17][^c-5af1e46a9cd92b7d513e80e53d4b6283][^c-284f7a199ddee402a1aba1679e51d0dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 [^M_I_007f75e7-4f43-4d8a-980f-adde33780e17]: Commencement: S. 228 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-5af1e46a9cd92b7d513e80e53d4b6283]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-5af1e46a9cd92b7d513e80e53d4b6283]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-284f7a199ddee402a1aba1679e51d0dd]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-284f7a199ddee402a1aba1679e51d0dd]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/11/section/228) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

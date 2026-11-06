@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Judicial proceedings as to disqualification.[^c12394061][^key-b1d6f2600ce96c359b051eeea288c3cf]
+## 18. Judicial proceedings as to disqualification.[^c12394061][^c-b1d6f2600ce96c359b051eeea288c3cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c12394061]: Modification: S. 18 extended (11.3.1999) by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787), [arts. 1](https://www.legislation.gov.uk/uksi/1999/787/article/1), [6](https://www.legislation.gov.uk/uksi/1999/787/article/6), [Sch. 2 Pt. II para. 9(4)(b)(i)](https://www.legislation.gov.uk/uksi/1999/787/schedule/2/part/II/paragraph/9/4/b/i)
 
-[^key-b1d6f2600ce96c359b051eeea288c3cf]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1998/46/section/18): power to modify conferred (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 3](https://www.legislation.gov.uk/asp/2025/4/section/3), [4](https://www.legislation.gov.uk/asp/2025/4/section/4), [5](https://www.legislation.gov.uk/asp/2025/4/section/5), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-b1d6f2600ce96c359b051eeea288c3cf]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1998/46/section/18): power to modify conferred (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 3](https://www.legislation.gov.uk/asp/2025/4/section/3), [4](https://www.legislation.gov.uk/asp/2025/4/section/4), [5](https://www.legislation.gov.uk/asp/2025/4/section/5), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

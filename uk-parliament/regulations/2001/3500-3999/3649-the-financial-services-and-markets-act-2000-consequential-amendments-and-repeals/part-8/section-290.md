@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290. Attachment of debts[^key-0894a7d1e58827012e59efbebdb73f2f]
+## 290. Attachment of debts[^c-0894a7d1e58827012e59efbebdb73f2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0894a7d1e58827012e59efbebdb73f2f]: Commencement: Art. 290 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0894a7d1e58827012e59efbebdb73f2f]: Commencement: Art. 290 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00212]: Footnote: Section 40(6) was amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22) Schedule 6, paragraph 11.

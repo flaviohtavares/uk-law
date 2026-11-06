@@ -22,7 +22,7 @@ summary: ''
 
 (1) If the shares acquired are restricted shares or convertible shares (or both), the amount of relief to be given is calculated as follows.
 
-This is subject to section 1020 [^key-ac7adf70a5f20242bdbf34c7742d211a]... .
+This is subject to section 1020 [^c-ac7adf70a5f20242bdbf34c7742d211a]... .
 
 (2) If the shares are restricted shares, the amount of relief is equal to—
 
@@ -47,4 +47,4 @@ and in calculating the employee's employment income for this purpose the market 
 
 ## Annotations
 
-[^key-ac7adf70a5f20242bdbf34c7742d211a]: Textual amendment: Words in s. 1019(1) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(e)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/e)
+[^c-ac7adf70a5f20242bdbf34c7742d211a]: Textual amendment: Words in s. 1019(1) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(e)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/e)

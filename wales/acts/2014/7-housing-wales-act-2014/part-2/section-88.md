@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Right of appeal to county court on point of law[^key-69392040373386d36e2e190cd3481318]
+## 88. Right of appeal to county court on point of law[^c-69392040373386d36e2e190cd3481318]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69392040373386d36e2e190cd3481318]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2014/7/section/88) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 39](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/39)
+[^c-69392040373386d36e2e190cd3481318]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2014/7/section/88) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 39](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/39)

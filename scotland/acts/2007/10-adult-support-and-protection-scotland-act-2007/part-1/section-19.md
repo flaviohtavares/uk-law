@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Banning orders[^key-75a2a5ef550ae9937ada9a9fca74f755]
+## 19. Banning orders[^c-75a2a5ef550ae9937ada9a9fca74f755]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75a2a5ef550ae9937ada9a9fca74f755]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2007/10/section/19) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-75a2a5ef550ae9937ada9a9fca74f755]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2007/10/section/19) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

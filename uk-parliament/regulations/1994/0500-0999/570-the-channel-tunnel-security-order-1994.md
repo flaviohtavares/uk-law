@@ -44,15 +44,15 @@ Now, therefore, the Secretary of State for Transport, in exercise of the powers 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-4b2d8b4a70fb1887bd2e655ec9444200]
+### 1. Citation and commencement[^c-4b2d8b4a70fb1887bd2e655ec9444200]
 
 This Order may be cited as the Channel Tunnel (Security) Order 1994 and shall come into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-9de348ab6d78b8db9081e26810008516]
+### 2. Interpretation[^c-9de348ab6d78b8db9081e26810008516]
 
 (1) In this Order, except where the context otherwise requires—
 
-- “[^key-7bd574ea33469d76bf2aae04f4f25276]**address**”, in relation to electronic communications, means any number or address used for the purposes of such communications,
+- “[^c-7bd574ea33469d76bf2aae04f4f25276]**address**”, in relation to electronic communications, means any number or address used for the purposes of such communications,
 - “**ammunition**” has the same meaning as in the Firearms Act 1968[^f00002],
 - “**article**” includes any substance, whether natural or artificial, in solid or liquid form or in the form of a gas or vapour,
 - “**authorised person**” means a person authorised in writing by the Secretary of State for the purposes of Part III of this Order,
@@ -85,7 +85,7 @@ references to the tunnel system include references to the tunnel system or any p
 
 (4) For the purposes of this Order a person is permitted to have access to a restricted zone if he is permitted to enter that zone or if arrangements exist for permitting any of his employees or agents to enter that zone.
 
-### 3. Extraterritorial application and extent[^key-83720f54c1f61f076d1035ca7595bc96]
+### 3. Extraterritorial application and extent[^c-83720f54c1f61f076d1035ca7595bc96]
 
 (1) This Order applies outside the United Kingdom only where jurisdiction is conferred by article 30 or 38 of the international articles.
 
@@ -95,19 +95,19 @@ references to the tunnel system include references to the tunnel system or any p
 
 ## PART II — OFFENCES AGAINST THE SAFETY OF CHANNEL TUNNEL TRAINS AND THE TUNNEL SYSTEM
 
-### 4. Hijacking of Channel Tunnel trains[^key-18ac42c13467941009d755e9c6ca7cfe]
+### 4. Hijacking of Channel Tunnel trains[^c-18ac42c13467941009d755e9c6ca7cfe]
 
 (2) A person who unlawfully, by the use of force or by threats of any kind, seizes a Channel Tunnel train or exercises control of it, commits the offence of hijacking a Channel Tunnel train.
 
 (2) A person guilty of the offence of hijacking a Channel Tunnel train is liable on conviction on indictment to imprisonment for life.
 
-### 5. Seizing or exercising control of the tunnel system[^key-cf9dbba5de3a94e20c71c4c9d8855613]
+### 5. Seizing or exercising control of the tunnel system[^c-cf9dbba5de3a94e20c71c4c9d8855613]
 
 (2) A person who unlawfully, by the use of force or by threats of any kind, seizes the tunnel system or exercises control of if, commits an offence.
 
 (2) A person guilty of an offence under this article is liable on conviction on indictment to imprisonment for life.
 
-### 6. Destroying a Channel Tunnel train or the tunnel system or endangering their safety[^key-ef5ea7072404163ad0e47f49446fb841]
+### 6. Destroying a Channel Tunnel train or the tunnel system or endangering their safety[^c-ef5ea7072404163ad0e47f49446fb841]
 
 (2) A person commits an offence if he unlawfully and intentionally—
 
@@ -135,7 +135,7 @@ references to the tunnel system include references to the tunnel system or any p
 
 which if committed in England and Wales, Scotland or Northern Ireland would constitute such an offence.
 
-### 7. Other acts endangering or likely to endanger the safe operation of a Channel Tunnel train or the safety of the tunnel system[^key-b481acf38b5b01fbfa0dd42672788ad6]
+### 7. Other acts endangering or likely to endanger the safe operation of a Channel Tunnel train or the safety of the tunnel system[^c-b481acf38b5b01fbfa0dd42672788ad6]
 
 (2) It is an offence for any person unlawfully and intentionally—
 
@@ -152,7 +152,7 @@ where the destruction, damage or interference is likely to endanger the safe ope
 
 (5) A person guilty of an offence under this article is liable on conviction on indictment to imprisonment for life.
 
-### 8. Offences involving threats[^key-af2a1032131d103593e41c7d02136a65]
+### 8. Offences involving threats[^c-af2a1032131d103593e41c7d02136a65]
 
 (2) A person commits an offence if—
 
@@ -166,7 +166,7 @@ where the destruction, damage or interference is likely to endanger the safe ope
 
 (3) A person guilty of an offence under this article is liable on conviction on indictment to imprisonment for life.
 
-### 9. Prosecution of offences and proceedings[^key-75a8c21c3ff7f87bc10d67cbd8a174ca]
+### 9. Prosecution of offences and proceedings[^c-75a8c21c3ff7f87bc10d67cbd8a174ca]
 
 (2) Proceedings for an offence under any provision of this Part of this Order shall not be instituted—
 
@@ -179,7 +179,7 @@ where the destruction, damage or interference is likely to endanger the safe ope
 
 ### General Purposes
 
-#### 10. Purposes to which Part III applies[^key-deb1de5d52e3d862aa2eced15cbdd85b]
+#### 10. Purposes to which Part III applies[^c-deb1de5d52e3d862aa2eced15cbdd85b]
 
 (2) The purposes to which this Part of this Order applies are the protection against acts of violence—
 
@@ -197,7 +197,7 @@ the offence of murder, attempted murder, manslaughter, culpable homicide or assa
 
 ### Powers of the Secretary of State
 
-#### 11. Powers of the Secretary of State to require information[^key-dcfc52932ac6b09c40a75ffcc431d98b]
+#### 11. Powers of the Secretary of State to require information[^c-dcfc52932ac6b09c40a75ffcc431d98b]
 
 (1) The Secretary of State may, by notice in writing served on any of the following persons—
 
@@ -209,11 +209,11 @@ the offence of murder, attempted murder, manslaughter, culpable homicide or assa
 
 require that person to provide the Secretary of State with such information specified in the notice as the Secretary of State may require in connection with the exercise by the Secretary of State of his functions under this Part of this Order.
 
-(2) A notice under paragraph (1) above shall specify a period before the end of[^key-9e282e19dfe678a68f2cad6a03b71486] which the information required by the notice in accordance with paragraph (1) above is to be furnished to the Secretary of State.
+(2) A notice under paragraph (1) above shall specify a period before the end of[^c-9e282e19dfe678a68f2cad6a03b71486] which the information required by the notice in accordance with paragraph (1) above is to be furnished to the Secretary of State.
 
 (3) Any such notice may also require the person on whom it is served, after he has furnished to the Secretary of State the information required by the notice in accordance with paragraph (1) above, to inform the Secretary of State if at any time the information previously furnished to the Secretary of State (including any information furnished in pursuance of a requirement imposed by virtue of this paragraph) is rendered inaccurate by any change of circumstances (including the taking of any further measures for purposes to which this Part of this Order applies or the alteration or discontinuance of any measures already being taken).
 
-(4) In so far as such a notice requires further information to be furnished to the Secretary of State in accordance with paragraph (3) above, it shall require that information to be furnished to him before the end of such period [^key-a744d03fb59212232b97e6029bd387d8]... as is specified in the notice for the purposes of this paragraph.
+(4) In so far as such a notice requires further information to be furnished to the Secretary of State in accordance with paragraph (3) above, it shall require that information to be furnished to him before the end of such period [^c-a744d03fb59212232b97e6029bd387d8]... as is specified in the notice for the purposes of this paragraph.
 
 (5) A notice may be served under this article on a person appearing to the Secretary of State to be about to become such a person as is mentioned in paragraph (1) above, but a notice served on a person by virtue of this paragraph shall not take effect until he becomes a person so mentioned and, in relation to the notice so served, the preceding provisions of this article shall apply with the necessary modifications.
 
@@ -234,7 +234,7 @@ commits an offence.
 - (a) be revoked by a notice in writing served on him by the Secretary of State, or
 - (b) be varied by a further notice under paragraph (1) above.
 
-#### 12. Designation of restricted zones[^key-d33d90c1e0ea9b14b4d7b94028113be1]
+#### 12. Designation of restricted zones[^c-d33d90c1e0ea9b14b4d7b94028113be1]
 
 (1) The Concessionaires may, and shall if so requested in writing by the Secretary of State, apply to the Secretary of State for the designation of the whole or any part of the tunnel system as a restricted zone for the purposes of this Part of this Order.
 
@@ -259,12 +259,12 @@ commits an offence.
 - (a) paragraphs (1) to (8) above also have effect in relation to any variation of the designation, and
 - (b) the designation may at any time be revoked by the Secretary of State.
 
-#### 13. Power to impose restrictions in relation to Channel Tunnel trains[^key-7300fe514b4f59a1129817bb4c1d0e41]
+#### 13. Power to impose restrictions in relation to Channel Tunnel trains[^c-7300fe514b4f59a1129817bb4c1d0e41]
 
 (1) For purposes to which this Part of this Order applies, the Secretary of State may give a direction in writing to the Concessionaires or to the owner, operator or train manager of any Channel Tunnel train requiring that person—
 
 - (a) not to cause or permit persons or property to go or be taken on board any Channel Tunnel train to which the direction relates, or to come or be brought into proximity to any such Channel Tunnel train, unless such searches of those persons or that property as are specified in the direction have been carried out by persons of a description specified in the direction or by constables, or
-- (b) not to cause or permit any such Channel Tunnel train to be put into service or moved in or into the United Kingdom unless such searches (of persons or property or of the train itself)[^key-69dc84b46074ff0279f12e7db56f4b54] as are specified in the direction have been carried out by persons of a description so specified or by constables.
+- (b) not to cause or permit any such Channel Tunnel train to be put into service or moved in or into the United Kingdom unless such searches (of persons or property or of the train itself)[^c-69dc84b46074ff0279f12e7db56f4b54] as are specified in the direction have been carried out by persons of a description so specified or by constables.
 
 (2) For purposes to which this Part of this Order applies, the Secretary of State may give a direction in writing to the Concessionaires or the owner, operator or train manager of any Channel Tunnel train requiring them or him not to cause or permit the train to be put into service or moved unless such modifications or alterations of the train, or of apparatus or equipment installed in or carried on board the train, as are specified in the direction have first been carried out, or such additional apparatus or equipment as is so specified is first installed in or carried on board the train.
 
@@ -286,9 +286,9 @@ commits an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(9) Where a person is convicted of an offence under paragraph (8) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-96fed2d133a88982a372b969335c2477] one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
+(9) Where a person is convicted of an offence under paragraph (8) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-96fed2d133a88982a372b969335c2477] one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
 
-#### 14. Power to require the Concessionaires to promote searches in the tunnel system[^key-a0746cb9d2ff1e43ee51eefff122eb47]
+#### 14. Power to require the Concessionaires to promote searches in the tunnel system[^c-a0746cb9d2ff1e43ee51eefff122eb47]
 
 (1) For the purposes to which this Part of this Order applies, the Secretary of State may give a direction in writing to the Concessionaires requiring them to use their best endeavours to secure that such searches to which this article applies as are specified in the direction are carried out by persons of a description specified in the direction or by constables.
 
@@ -332,11 +332,11 @@ commits an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(10) Where a person is convicted of an offence under paragraph (8)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-b56dd18c1e429745a1f077266bec02ee]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
+(10) Where a person is convicted of an offence under paragraph (8)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-b56dd18c1e429745a1f077266bec02ee]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
 
-(11) Paragraph (3) above has effect without prejudice to the operation in relation to any offence under this Order in England and Wales, of sections 17, 24 and 24A[^key-bbb8c42abe13743c8b348c893da5e304] of the Police and Criminal Evidence Act 1984 (which confer power to arrest without warrant and to enter premises for the purpose of making an arrest) or of section 3 of the Criminal Law Act 1967[^f00009] (use of force in making arrest etc).
+(11) Paragraph (3) above has effect without prejudice to the operation in relation to any offence under this Order in England and Wales, of sections 17, 24 and 24A[^c-bbb8c42abe13743c8b348c893da5e304] of the Police and Criminal Evidence Act 1984 (which confer power to arrest without warrant and to enter premises for the purpose of making an arrest) or of section 3 of the Criminal Law Act 1967[^f00009] (use of force in making arrest etc).
 
-#### 15. Power to require other persons to promote searches[^key-f019f17d50a6d09cdae4b8c67b02c82f]
+#### 15. Power to require other persons to promote searches[^c-f019f17d50a6d09cdae4b8c67b02c82f]
 
 (1) For purposes to which this Part of the Order applies, the Secretary of State may give a direction in writing to any person (other than the Concessionaires) who—
 
@@ -396,15 +396,15 @@ commits an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(10) Where a person is convicted of an offence under paragraph (8)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-7a290493e0cbc390266bd1d08e95591d]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
+(10) Where a person is convicted of an offence under paragraph (8)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-7a290493e0cbc390266bd1d08e95591d]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
 
 (11) Paragraph (3) above has effect without prejudice to the operation in relation to any offence under this Order—
 
-- (a) in England and Wales, of sections 17, 24 and 24A[^key-3c60ac28a3d72a561ac4fa4508c4577c] of the Police and Criminal Evidence Act 1984 (which confer power to arrest without warrant and to enter premises for the purpose of making an arrest) or of section 3 of the Criminal Law Act 1967 (use of force in making arrest etc), or
+- (a) in England and Wales, of sections 17, 24 and 24A[^c-3c60ac28a3d72a561ac4fa4508c4577c] of the Police and Criminal Evidence Act 1984 (which confer power to arrest without warrant and to enter premises for the purpose of making an arrest) or of section 3 of the Criminal Law Act 1967 (use of force in making arrest etc), or
 - (b) in Scotland, of any rule of law relating to the power to arrest without warrant, or
 - (c) in Northern Ireland, of Articles 19, 26 and 27 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00011] or section 3 of the Criminal Law Act (Northern Ireland) 1967[^f00012].
 
-#### 16. General power to direct measures to be taken for purposes to which Part III applies[^key-3b602935681e2f363622c382360ad4ba]
+#### 16. General power to direct measures to be taken for purposes to which Part III applies[^c-3b602935681e2f363622c382360ad4ba]
 
 (1) Paragraph (2) below applies to—
 
@@ -453,13 +453,13 @@ commits an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(9) Where a person is convicted of an offence under paragraph (7)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-21e6440944fa70895fa970bd6c5a3c45]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
+(9) Where a person is convicted of an offence under paragraph (7)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-21e6440944fa70895fa970bd6c5a3c45]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
 
 (10) The ownership of any property shall not be affected by reason only that it is placed on, in or under, or affixed to, any land, building or works in compliance with a direction under this article.
 
 ### Supplemental provisions with respect to directions
 
-#### 17. Matters which may be included in directions under articles 13 to 16.[^key-ab60b790206322c4908cf803c16f6695]
+#### 17. Matters which may be included in directions under articles 13 to 16.[^c-ab60b790206322c4908cf803c16f6695]
 
 (1) A direction under paragraph (1) of article 13 or under article 14 or 15 of this Order may specify the minimum number of persons by whom any search to which the direction relates is to be carried out, the qualifications which persons carrying out any such search are to have, the manner in which any such search is to be carried out, and any apparatus, equipment or other aids to be used for the purpose of carrying out any such search.
 
@@ -478,7 +478,7 @@ commits an offence.
 
 (7) In the application of this article to Northern Ireland for the words in paragraph (4) above from “chief officer” to “measures taken” there are substituted the words “chief constable of the Royal Ulster Constabulary”.
 
-#### 18. Limitations on scope of directions under articles 13 to 16[^key-9d8de97399e4ba09e6908c7a9c09506a]
+#### 18. Limitations on scope of directions under articles 13 to 16[^c-9d8de97399e4ba09e6908c7a9c09506a]
 
 (1) Without prejudice to articles 14(7), 15(7) and 17(4) of this Order, a direction shall not require or authorise any person to carry a firearm.
 
@@ -496,7 +496,7 @@ and accordingly, the direction shall not be construed as requiring the person to
 
 (5) In this article “direction” means a direction under article 13, 14, 15 or 16 of this Order.
 
-#### 19. General or urgent directions under articles 13 to 16[^key-2c0dd8fecbb8b4f29a9cf53035b8cea6]
+#### 19. General or urgent directions under articles 13 to 16[^c-2c0dd8fecbb8b4f29a9cf53035b8cea6]
 
 (1) A direction given to any person under article 13, 14, 15 or 16 of this Order need not be addressed to that particular person, but may be framed in general terms applicable to all persons to whom such a direction may be given or to any class of such persons to which that particular person belongs.
 
@@ -518,7 +518,7 @@ as he may specify; and the direction shall have effect in that case subject to a
 - (b) where that person is a body corporate, to the secretary, clerk or similar officer of the body corporate, and
 - (c) in any other case, to anyone holding a comparable office or position in that person’s employment.
 
-#### 20. Objections to certain directions under article 16[^key-7f4c428d2451c00a723108f2b3fe4789]
+#### 20. Objections to certain directions under article 16[^c-7f4c428d2451c00a723108f2b3fe4789]
 
 (1) This article applies to any direction given under article 16 of this Order which—
 
@@ -538,7 +538,7 @@ as he may specify; and the direction shall have effect in that case subject to a
 
 and the direction shall not take effect until it has been confirmed (with or without modification) by a notice served under this paragraph.
 
-#### 21. Enforcement notices[^key-d8d328862e0b6d7b501f4b2678ed5b2b]
+#### 21. Enforcement notices[^c-d8d328862e0b6d7b501f4b2678ed5b2b]
 
 (1) Where an authorised person is of the opinion that any person has failed to comply with any general requirement of a direction given to him under article 13, 14, 15 or 16 of this Order, the authorised person may serve on that person a notice (in this Order referred to as an “enforcement notice”)—
 
@@ -559,7 +559,7 @@ an authorised person may serve on the train manager—
 
 and if he does so, articles 23, 24 and 25 of this Order shall have effect as if the enforcement notice had been served on him as well as on the owner or operator of the train.
 
-#### 22. Contents of enforcement notices[^key-3354b27c255b56c0d4efb67876f69fde]
+#### 22. Contents of enforcement notices[^c-3354b27c255b56c0d4efb67876f69fde]
 
 (1) An enforcement notice may specify in greater detail measures which are described in general terms in those provisions of the direction to which it relates which impose general requirements, but may not impose any requirement which could not have been imposed by a direction given by the Secretary of State under the provision under which the direction was given.
 
@@ -578,21 +578,21 @@ and if he does so, articles 23, 24 and 25 of this Order shall have effect as if 
 
 (6) Subject to article 25(2) of this Order, an enforcement notice requiring a person not to cause or permit anything to be done shall be construed as requiring him to take all such steps as in any particular circumstances are practicable and necessary to prevent that thing from being done.
 
-#### 23. Offences relating to enforcement notices[^key-d3fa3b1ec797bd9c3d72cd5e39e77de3]
+#### 23. Offences relating to enforcement notices[^c-d3fa3b1ec797bd9c3d72cd5e39e77de3]
 
 (1) Any person who, without reasonable excuse, fails to comply with an enforcement notice served on him is guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-(2) Where a person is convicted of an offence under paragraph (1) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-58bfb4921bd1a043451563f434bd5cd8]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
+(2) Where a person is convicted of an offence under paragraph (1) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-58bfb4921bd1a043451563f434bd5cd8]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
 
 (3) Any person who intentionally interferes with any building constructed or other works executed on any land in compliance with an enforcement notice or with anything installed on, under, over or across any land in compliance with such a notice is guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-#### 24. Objections to enforcement notices[^key-31cb4523575164936b6aed49d5506f58]
+#### 24. Objections to enforcement notices[^c-31cb4523575164936b6aed49d5506f58]
 
 (1) The person on whom an enforcement notice is served may serve on the Secretary of State a notice in writing of his objection to the enforcement notice, specifying the grounds of the objection.
 
@@ -621,7 +621,7 @@ and if he does so, articles 23, 24 and 25 of this Order shall have effect as if 
 - (a) if it contains such a requirement as is mentioned in article 22(3) or (5)(b) of this Order, shall continue to have effect as originally served until it has been cancelled, or it has been confirmed subject to modification by a notice under paragraph (4) above, and
 - (b) in any other case, shall not take effect until it has been confirmed (with or without modification) by a notice under paragraph (4) above.
 
-#### 25. Enforcement notices: supplementary[^key-98c2073eb7963b0b77f4fe2a340060ef]
+#### 25. Enforcement notices: supplementary[^c-98c2073eb7963b0b77f4fe2a340060ef]
 
 (1) An enforcement notice served on any person—
 
@@ -640,7 +640,7 @@ and if he does so, articles 23, 24 and 25 of this Order shall have effect as if 
 
 (7) In this article “direction” means a direction under article 13, 14, 15 or 16 of this Order.
 
-#### 26. Operation of directions under Part III in relation to other rights and duties[^key-861567e887de76135ace34afd373575d]
+#### 26. Operation of directions under Part III in relation to other rights and duties[^c-861567e887de76135ace34afd373575d]
 
 (1) In paragraph (2) below references to a direction are references to a direction under article 13, 14, 15 or 16 of this Order as the direction has effect subject to any limitation imposed on its operation—
 
@@ -655,7 +655,7 @@ and any reference in those articles to compliance with a direction is a referenc
 
 (4) In this article “United Kingdom court” means a court exercising jurisdiction in any part of the United Kingdom under the law of the United Kingdom or of part of the United Kingdom, and “United Kingdom contract” means a contract which is either expressed to have effect in accordance with the law of the United Kingdom or of part of the United Kingdom or (not being so expressed) is a contract the law applicable to which is the law of the United Kingdom or of part of the United Kingdom.
 
-#### 27. Detention of Channel Tunnel trains[^key-6a2cda51c087b20558171b1fa7515e35]
+#### 27. Detention of Channel Tunnel trains[^c-6a2cda51c087b20558171b1fa7515e35]
 
 (1) Where an authorised person is satisfied that the owner, operator or train manager of a Channel Tunnel train has failed to comply with—
 
@@ -668,7 +668,7 @@ and the authorised person certifies in writing to that effect, stating particula
 
 (3) On detaining the train, the authorised person or other officer shall deliver to the train manager of the train a copy of the certificate.
 
-#### 28. Inspection of Channel Tunnel trains and the tunnel system[^key-686aba6b36c1c8449f8e7c0ad08d340a]
+#### 28. Inspection of Channel Tunnel trains and the tunnel system[^c-686aba6b36c1c8449f8e7c0ad08d340a]
 
 (1) For the purpose of enabling the Secretary of State to determine whether to give a direction to any person under any of articles 13 to 16 of this Order, or of ascertaining whether any such direction or any enforcement notice is being or has been complied with, an authorised person shall have power, on production (if required) of his credentials, to inspect—
 
@@ -713,7 +713,7 @@ commits an offence.
 
 ### Offences relating to security of Channel Tunnel trains and the tunnel system
 
-#### 29. False statements relating to goods etc[^key-ebb3f728f88bcc407f7867551781a6c9]
+#### 29. False statements relating to goods etc[^c-ebb3f728f88bcc407f7867551781a6c9]
 
 (1) Subject to paragraph (3) below, a person commits an offence if—
 
@@ -738,7 +738,7 @@ he makes a statement which he knows to be false in a material particular, or rec
 
 (4) A person guilty of an offence under paragraph (1) above is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 30. False statements in connection with identity documents[^key-3a0c984edc8246562a635ac7b40990a4]
+#### 30. False statements in connection with identity documents[^c-3a0c984edc8246562a635ac7b40990a4]
 
 (1) Subject to paragraph (4) below, a person commits an offence if—
 
@@ -760,7 +760,7 @@ he makes to any of the persons specified in paragraph (3) below, to any employee
 
 (5) A person guilty of an offence under paragraph (1) above is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 31. Unauthorised presence in restricted zone[^key-49a4cfaa8f182cd5833fb9226d0eabe9]
+#### 31. Unauthorised presence in restricted zone[^c-49a4cfaa8f182cd5833fb9226d0eabe9]
 
 (1) A person shall not—
 
@@ -775,7 +775,7 @@ he makes to any of the persons specified in paragraph (3) below, to any employee
 
 (5) In this article the “person in control of the restricted zone” means in the case of a restricted zone of the tunnel system, the Concessionaires and in the case of any other restricted zone, the owner, occupier or manager of the land, building or works constituting the restricted zone.
 
-#### 32. Offences relating to authorised persons[^key-ad9057a0f414a2dfce4714e2d2eaa17c]
+#### 32. Offences relating to authorised persons[^c-ad9057a0f414a2dfce4714e2d2eaa17c]
 
 (1) A person who—
 
@@ -793,7 +793,7 @@ commits an offence.
 
 ### Channel Tunnel freight forwarders
 
-#### 33. Channel Tunnel freight forwarders[^key-455023f8f9c1d7db26c2218c6ce2ba70]
+#### 33. Channel Tunnel freight forwarders[^c-455023f8f9c1d7db26c2218c6ce2ba70]
 
 (1) For the purposes for which this Part of this Order applies, the Secretary of State may maintain a list of Channel Tunnel freight forwarders (hereinafter called “the list of security approved Channel Tunnel freight forwarders”) who are approved by him for purposes related to the security of Channel Tunnel trains or the tunnel system, or of any property used in connection with the operation of any Channel Tunnel train or the tunnel system, may include the name of a person on that list on application being made to him in accordance with the provisions of Schedule 1 to this Order, if he is satisfied as to such matters as are specified in that Schedule, and may remove the name of a person from that list in such circumstances as are so specified.
 
@@ -803,7 +803,7 @@ commits an offence.
 
 ### General supplemental provisions
 
-#### 34. Compensation in respect of certain measures taken under Part III[^key-e7fc832c74d67defd79f09d6009d6d9c]
+#### 34. Compensation in respect of certain measures taken under Part III[^c-e7fc832c74d67defd79f09d6009d6d9c]
 
 (1) The provisions of this article have effect where, in compliance with a direction under article 16 of this Order or in compliance with an enforcement notice, the person to whom the direction was given or on whom the notice was served takes any measures consisting of the construction, execution, alteration, demolition or removal of a building or other works on land either within or outside the tunnel system.
 
@@ -815,7 +815,7 @@ commits an offence.
 
 (5) The provisions of Schedule 2 to this Order have effect for the purposes of this article and paragraphs (1) to (4) above have effect subject to the provisions of that Schedule.
 
-#### 35. Annual report by Secretary of State as to notices and directions under Part III[^key-5a4836ff81cf572e65fba67b6ed00875]
+#### 35. Annual report by Secretary of State as to notices and directions under Part III[^c-5a4836ff81cf572e65fba67b6ed00875]
 
 (1) The Secretary of State shall, on or before 31 January in each year, lay before each House of Parliament a report stating the number of notices served by him under article 11 of this Order, the number of directions given by him under articles 13, 14, 15 and 16 of this Order and the number of enforcement notices served by authorised persons during the period of twelve months which expired with the preceding December.
 
@@ -829,7 +829,7 @@ commits an offence.
 
 (3) Each such report shall also show separately the number of copies of enforcement notices which during that period were served on train managers of Channel Tunnel trains under article 21(3) of this Order.
 
-#### 36. Service of documents[^key-9dc74ef8283d05c8e49b887600bb8312]
+#### 36. Service of documents[^c-9dc74ef8283d05c8e49b887600bb8312]
 
 (1) This article has effect in relation to any notice, any document containing a direction and any other document authorised or required by any provision of this Part of the Order to be served on or given to any person.
 
@@ -838,15 +838,15 @@ commits an offence.
 - (a) by delivering it to him, or
 - (b) by leaving it at his proper address, or
 - (c) by sending it by post to him at that address, or
-- (d) by sending it to him at that address by telex or other similar means which produce a document containing the text of the communication, or[^key-dd9bca458ec1d19a4f58967f41868f38]
+- (d) by sending it to him at that address by telex or other similar means which produce a document containing the text of the communication, or[^c-dd9bca458ec1d19a4f58967f41868f38]
 - (e) where—
   - (i) an address for service using electronic communications has been given by that person and not withdrawn in accordance with paragraph (2E), and
   - (ii) that person has agreed to accept service by electronic communications of documents in a certain form and has not withdrawn that agreement in accordance with that paragraph,
 
-  by using electronic communications to send the document in that form to that person at that address , or[^key-e1c1df401243b9e6d47740e0e051e0be]
+  by using electronic communications to send the document in that form to that person at that address , or[^c-e1c1df401243b9e6d47740e0e051e0be]
 - (f) in the case of a person who is required by regulations to be able to accept service electronically in a manner and form specified in the regulations, in that manner and form.
 
-(2A)[^key-7b540e733501f26c51a5415c158e5429] A document given to or served on a person in accordance with paragraph (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
+(2A)[^c-7b540e733501f26c51a5415c158e5429] A document given to or served on a person in accordance with paragraph (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
 
 (2B) Where a document is given to or served on a person in accordance with paragraph (2)(e), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the time at which the electronic communication is transmitted except where transmission is made outside that person’s normal business hours, in which case it shall be taken to have been given or served on the next working day, and in this subsection, “working day” means any day other than—
 
@@ -880,7 +880,7 @@ commits an offence.
 
 (2I) Oral notice is not sufficient for the purposes of paragraph (2E) or (2F).
 
-(3)[^key-45efab789a6f7e7a5e5e6e513c1b4be1] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
+(3)[^c-45efab789a6f7e7a5e5e6e513c1b4be1] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
 
 (4) For the purposes of this article and section 7 of the Interpretation Act 1978[^f00013] (service of documents by post) in its application to this article, the proper address of any person to whom or on whom any document is to be given or served is his usual or last known address or place of business (whether in the United Kingdom or elsewhere), except that in the case of a body corporate or its secretary, clerk or similar officer it shall be the address of the registered or principal office of that body in the United Kingdom (or, if it has no office in the United Kingdom, of its principal office, wherever it may be).
 
@@ -892,7 +892,7 @@ commits an offence.
 
 (8) Where any document mentioned in paragraph (1) above is to be served (for the purposes of paragraph (6) above or otherwise) on the train manager of a train it shall be treated as duly served if it is left on board that train with the person being or appearing to be in command or charge of the train.
 
-(9)[^key-34884325fb166c6bfd15837962c97ea1] Regulations under paragraph (2)(f)—
+(9)[^c-34884325fb166c6bfd15837962c97ea1] Regulations under paragraph (2)(f)—
 
 - (a) may make different provision for different cases,
 - (b) may include incidental, supplemental or transitional provision,
@@ -901,13 +901,13 @@ commits an offence.
 
 ## PART IV — GENERAL
 
-### 37. Offences by bodies corporate[^key-d3345fa65e0b37ec49dcdbbfafaa9015]
+### 37. Offences by bodies corporate[^c-d3345fa65e0b37ec49dcdbbfafaa9015]
 
 (1) Where an offence under this Order has been committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, paragraph (1) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-### 38. Minor and consequential amendments[^key-1679ccd31bc38280b555e7b53e7ca83c]
+### 38. Minor and consequential amendments[^c-1679ccd31bc38280b555e7b53e7ca83c]
 
 The enactments mentioned in Schedule 3 to this Order have effect subject to the minor and consequential amendments specified in that Schedule.
 
@@ -921,7 +921,7 @@ Secretary of State for Transport
 
 Article 33
 
-### 1. Application for listing as a security approved Channel Tunnel freight forwarder[^key-e979657e9bcc978f5880eda8f7d849ed]
+### 1. Application for listing as a security approved Channel Tunnel freight forwarder[^c-e979657e9bcc978f5880eda8f7d849ed]
 
 (1) A person may apply to the Secretary of State to be included on the list of security approved Channel Tunnel freight forwarders, and such application shall include the following information relating to the applicant:
 
@@ -945,7 +945,7 @@ together with the additional information specified in sub-paragraph (2) below.
   - (iii) where the applicant is a body corporate, any director or secretary of that body; and
   - (iv) where the applicant is an unincorporated association or partnership, any member of the association or partner in the partnership.
 
-### 2. Requirements for inclusion on the list of security approved Channel Tunnel freight forwarders[^key-94fd87c01a0e16a2699322e0460b6eb7]
+### 2. Requirements for inclusion on the list of security approved Channel Tunnel freight forwarders[^c-94fd87c01a0e16a2699322e0460b6eb7]
 
 The Secretary of State may include an applicant on the list of security approved Channel Tunnel freight forwarders only if he is satisfied as to each of the following matters:
 
@@ -954,11 +954,11 @@ The Secretary of State may include an applicant on the list of security approved
 - (c) that the applicant has made adequate arrangements to ensure that all parts of premises where the applicant handles Channel Tunnel freight, after he has satisfied himself that it contains no article referred to in article 14(6)(b) of the Order, are physically secure and have appropriate controls on access; and
 - (d) that the applicant would be able to comply with any directions which may be given to him by the Secretary of State under article 15 or 16 of this Order.
 
-### 3. Notice of inclusion on the list of security approved Channel Tunnel freight forwarders[^key-66e56ec5d8dd2c6554d5910a4574fcd6]
+### 3. Notice of inclusion on the list of security approved Channel Tunnel freight forwarders[^c-66e56ec5d8dd2c6554d5910a4574fcd6]
 
 Where the Secretary of State decides to include an applicant on the list of security approved Channel Tunnel freight forwarders, he shall give notice to the applicant of his decision and of the date on which the applicant was placed on such list.
 
-### 4. Notice of proposal not to include an applicant on the list of security approved Channel Tunnel freight forwarders[^key-5ca7ac5b1b292fa57711008ba54dd4de]
+### 4. Notice of proposal not to include an applicant on the list of security approved Channel Tunnel freight forwarders[^c-5ca7ac5b1b292fa57711008ba54dd4de]
 
 (1) Where the Secretary of State proposes not to include an applicant on the list of security approved Channel Tunnel freight forwarders, he shall give notice to the applicant of such proposal and of the reasons for it.
 
@@ -970,11 +970,11 @@ Where the Secretary of State decides to include an applicant on the list of secu
 
 (5) Any applicant whom the Secretary of State decides not to include on the list of security approved Channel Tunnel freight forwarders may not re apply for such inclusion until after the expiry of the period of three months beginning with the date of the Secretary of State’s notice under sub paragraph (4) above.
 
-### 5. Notice of information being rendered inaccurate by a change in circumstances[^key-398de0da787ec3f661750c7c2577763c]
+### 5. Notice of information being rendered inaccurate by a change in circumstances[^c-398de0da787ec3f661750c7c2577763c]
 
 A security approved Channel Tunnel freight forwarder shall give notice to the Secretary of State if at any time any information provided to the Secretary of State in pursuance of sub paragraphs (1), (2)(a), (c), (d) or (g) of paragraph 1 above is rendered inaccurate by any change of circumstances, and shall give such notice to the Secretary of State within 7 days of such change occurring.
 
-### 6. Removal from the list of security approved Channel Tunnel freight forwarders[^key-5c69830493d10aa77c275934c247f1c1]
+### 6. Removal from the list of security approved Channel Tunnel freight forwarders[^c-5c69830493d10aa77c275934c247f1c1]
 
 (1) If at any time it appears to the Secretary of State that:
 
@@ -997,50 +997,50 @@ the Secretary of State may, subject to sub paragraph (2) below, remove that pers
 
 (4) The Secretary of State shall remove a person from the list upon being requested in writing to do so by that person.
 
-**7.**[^key-bc3f407997ffff63ca987adab8b2834e] In this Schedule “registrar of companies” means the registrar or other officer performing under the Companies Act 1985[^f00014] the duty of registration of companies in England and Wales or in Scotland, or the registrar of companies appointed under Article 653 of the Companies (Northern Ireland) Order 1986[^f00015], as the case may require.
+**7.**[^c-bc3f407997ffff63ca987adab8b2834e] In this Schedule “registrar of companies” means the registrar or other officer performing under the Companies Act 1985[^f00014] the duty of registration of companies in England and Wales or in Scotland, or the registrar of companies appointed under Article 653 of the Companies (Northern Ireland) Order 1986[^f00015], as the case may require.
 
 ## SCHEDULE 2 — PROVISIONS RELATING TO COMPENSATION
 
 Article 34
 
-**1.**[^key-f394be7cb546e83fd0c73b9299e89a20] This Schedule applies to compensation under article 34 of this Order (in this Schedule referred to as “the principal article”).
+**1.**[^c-f394be7cb546e83fd0c73b9299e89a20] This Schedule applies to compensation under article 34 of this Order (in this Schedule referred to as “the principal article”).
 
-**2.**[^key-86bf819c258a6f5a4674410d7fdb7a35] No compensation to which this Schedule applies shall be payable unless the person to whom it is payable in accordance with the principal article (or in accordance with regulations made under paragraph 5 below) serves on the person by whom the measures in question were taken a notice in writing claiming compensation under that article, and that notice is served before the end of the period of two years from the completion of the measures.
+**2.**[^c-86bf819c258a6f5a4674410d7fdb7a35] No compensation to which this Schedule applies shall be payable unless the person to whom it is payable in accordance with the principal article (or in accordance with regulations made under paragraph 5 below) serves on the person by whom the measures in question were taken a notice in writing claiming compensation under that article, and that notice is served before the end of the period of two years from the completion of the measures.
 
-**3.**[^key-8f28d0771867e769de613e67cbeebb19] In relation to any measures taken by any person on land outside the tunnel system, any reference in the principal article to a direction or enforcement notice, or to compliance with a direction or enforcement notice, is to be construed as if paragraph (3) of article 18 of this Order were omitted.
+**3.**[^c-8f28d0771867e769de613e67cbeebb19] In relation to any measures taken by any person on land outside the tunnel system, any reference in the principal article to a direction or enforcement notice, or to compliance with a direction or enforcement notice, is to be construed as if paragraph (3) of article 18 of this Order were omitted.
 
-**4.**[^key-5632c3a48c92a2e36e59c556f366d846] In calculating value for any of the purposes of the principle article—
+**4.**[^c-5632c3a48c92a2e36e59c556f366d846] In calculating value for any of the purposes of the principle article—
 
 - (a) rules (2) to (4) of the rules set out in section 5 of the Land Compensation Act 1961[^f00016] apply with the necessary modifications, and
 - (b) if the interest to be valued is subject to a mortgage, it is to be treated as if it were not subject to the mortgage.
 
-**5.**[^key-f8da1cc1a5f125dda79b3186349f1a0f] Regulations made by the Secretary of State by statutory instrument may make provision—
+**5.**[^c-f8da1cc1a5f125dda79b3186349f1a0f] Regulations made by the Secretary of State by statutory instrument may make provision—
 
 - (a) requiring compensation to which this Schedule applies, in such cases as may be specified in the regulations, to be paid to a person other than the person entitled to it in accordance with the principal article,
 - (b) as to the application of any compensation to which this Schedule applies, or any part or it, in cases where the right to claim compensation is exercisable by reference to an interest in land which is subject to a mortgage, or to a rentcharge, or to the trusts of a settlement, or, in Scotland, to a feuduty or ground annual or to the purposes of a trust, or which was so subject at a time specified in the regulations, or
 - (c) as to any assumptions to be made, or matters to be taken into or left out of account, for the purpose of assessing any compensation to which this Schedule applies.
 
-**6.**[^key-ed2d9ce7cce41c8c4654aa1b497670f5] A statutory instrument containing regulations made under paragraph 5 above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+**6.**[^c-ed2d9ce7cce41c8c4654aa1b497670f5] A statutory instrument containing regulations made under paragraph 5 above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**7.**[^key-19b0e5d169b0135fc03ebf4fbb13b2db] Any dispute arising under the principal article or under this Schedule, whether as to the right to any compensation or as to the amount of any compensation or otherwise, shall be referred to and determined by the appropriate tribunal[^key-d26e5e1ff9b168063897c4345cfba2eb].
+**7.**[^c-19b0e5d169b0135fc03ebf4fbb13b2db] Any dispute arising under the principal article or under this Schedule, whether as to the right to any compensation or as to the amount of any compensation or otherwise, shall be referred to and determined by the appropriate tribunal[^c-d26e5e1ff9b168063897c4345cfba2eb].
 
-**7A.**[^key-d1997abe011f300f4974588143e24dfa] In paragraph 7 “appropriate tribunal” means—
+**7A.**[^c-d1997abe011f300f4974588143e24dfa] In paragraph 7 “appropriate tribunal” means—
 
 - (a) in the application of this Schedule to England and Wales, the Upper Tribunal;
 - (b) in the application of this Schedule to Scotland, the Lands Tribunal for Scotland;
 - (c) in the application of this Schedule to Northern Ireland, the Lands Tribunal for Northern Ireland.
 
-**8.**[^key-03669b6ff223d1cf773d5def201d12ef] In the application of this Schedule to Scotland—
+**8.**[^c-03669b6ff223d1cf773d5def201d12ef] In the application of this Schedule to Scotland—
 
-- (a) the reference in paragraph 4(a) to section 5 of the Land Compensation Act 1961 is to be construed as a reference to section 12 of the Land Compensation (Scotland) Act 1963[^f00017], [^key-b7cad20f3fa860a545bbf9d186219d73]...
-- (b)[^key-b7cad20f3fa860a545bbf9d186219d73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the reference in paragraph 4(a) to section 5 of the Land Compensation Act 1961 is to be construed as a reference to section 12 of the Land Compensation (Scotland) Act 1963[^f00017], [^c-b7cad20f3fa860a545bbf9d186219d73]...
+- (b)[^c-b7cad20f3fa860a545bbf9d186219d73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-0faeffc736d99f010382dc32306c939b] In the application of this Schedule to Northern Ireland—
+**9.**[^c-0faeffc736d99f010382dc32306c939b] In the application of this Schedule to Northern Ireland—
 
-- (a) the reference in paragraph 4(a) to section 5 of the Land Compensation Act 1961 is to be construed, notwithstanding paragraph 4 of Schedule 1 to the Land Compensation (Northern Ireland) Order 1982[^f00018] (which confines the operation of that Order to matters within the legislative competence of the Parliament of Northern Ireland), as a reference to Article 6(1) of that Order, [^key-820911e4b99e0f35f2f49320d3e21f22]...
-- (b)[^key-820911e4b99e0f35f2f49320d3e21f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the reference in paragraph 4(a) to section 5 of the Land Compensation Act 1961 is to be construed, notwithstanding paragraph 4 of Schedule 1 to the Land Compensation (Northern Ireland) Order 1982[^f00018] (which confines the operation of that Order to matters within the legislative competence of the Parliament of Northern Ireland), as a reference to Article 6(1) of that Order, [^c-820911e4b99e0f35f2f49320d3e21f22]...
+- (b)[^c-820911e4b99e0f35f2f49320d3e21f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-72dde3bfa554adad27d4a23b74a38d78] In this Schedule “mortgage” includes any charge or lien on any property for securing money or money’s worth, and any heritable security within the meaning of section 9(8) of the Conveyancing and Feudal Reform (Scotland) Act 1970[^f00019].
+**10.**[^c-72dde3bfa554adad27d4a23b74a38d78] In this Schedule “mortgage” includes any charge or lien on any property for securing money or money’s worth, and any heritable security within the meaning of section 9(8) of the Conveyancing and Feudal Reform (Scotland) Act 1970[^f00019].
 
 ## SCHEDULE 3 — MINOR AND CONSEQUENTIAL AMENDMENTS
 
@@ -1048,11 +1048,11 @@ Article 38
 
 ### The Northern Ireland (Emergency Provisions) Act 1991
 
-**1.**[^key-3c9ba2faf46ff4dae1e326a1113f9054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3c9ba2faf46ff4dae1e326a1113f9054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Suppression of Terrorism Act 1978
 
-**2.**[^key-8a2e891f1cb809f4fba776cbe2afa2f5] In Schedule 1 to the Suppression of Terrorism Act 1978[^f00021] (list of offences for the purposes of section 1 of that Act) after paragraph 18B there is inserted—
+**2.**[^c-8a2e891f1cb809f4fba776cbe2afa2f5] In Schedule 1 to the Suppression of Terrorism Act 1978[^f00021] (list of offences for the purposes of section 1 of that Act) after paragraph 18B there is inserted—
 
 > **18C. Offences relating to Channel Tunnel trains and the tunnel system**
 >
@@ -1060,7 +1060,7 @@ Article 38
 
 ### The Criminal Justice Act 1982
 
-**3.**[^key-e33cf5d138166560197310372698f94d] At the end of Part II of Schedule 1 to the Criminal Justice Act 1982[^f00022] (statutory provisions excluded from provisions for early release of prisoners) there is inserted—
+**3.**[^c-e33cf5d138166560197310372698f94d] At the end of Part II of Schedule 1 to the Criminal Justice Act 1982[^f00022] (statutory provisions excluded from provisions for early release of prisoners) there is inserted—
 
 > **CHANNEL TUNNEL (SECURITY) ORDER 1994 No.**
 >
@@ -1070,7 +1070,7 @@ Article 38
 
 ### The Police and Criminal Evidence Act 1984
 
-**4.**[^key-e70b93cb7cd0c9c6c1dc19a72e6d5b96] At the end of Part II of Schedule 5 to the Police and Criminal Evidence Act 1984[^f00023] (serious arrestable offences) there is added—
+**4.**[^c-e70b93cb7cd0c9c6c1dc19a72e6d5b96] At the end of Part II of Schedule 5 to the Police and Criminal Evidence Act 1984[^f00023] (serious arrestable offences) there is added—
 
 > **14. Channel Tunnel (Security) Order 1994 No.**
 >
@@ -1080,7 +1080,7 @@ Article 38
 
 ### The Police and Criminal Evidence (Northern Ireland) Order 1989
 
-**5.**[^key-aa549d1b8b152d15dbbc0dc4667d47c0] At the end of Part II of Schedule 5 to the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00024] (serious arrestable offences) there is added—
+**5.**[^c-aa549d1b8b152d15dbbc0dc4667d47c0] At the end of Part II of Schedule 5 to the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00024] (serious arrestable offences) there is added—
 
 > **13. Channel Tunnel (Security) Order 1994 No.**
 >
@@ -1179,206 +1179,206 @@ Article 38 and Schedule 3 deal with minor and consequential amendments.
 
 [^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53); see the definition of “the appropriate Minister” in section 13(1).
 
-[^key-4b2d8b4a70fb1887bd2e655ec9444200]: Commencement: Art. 1 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-4b2d8b4a70fb1887bd2e655ec9444200]: Commencement: Art. 1 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-9de348ab6d78b8db9081e26810008516]: Commencement: Art. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-9de348ab6d78b8db9081e26810008516]: Commencement: Art. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-7bd574ea33469d76bf2aae04f4f25276]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/570/article/2/1) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/7/2)
+[^c-7bd574ea33469d76bf2aae04f4f25276]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/570/article/2/1) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/7/2)
 
 [^f00002]: Footnote: [1968 c. 57](https://www.legislation.gov.uk/ukpga/1968/57).
 
 [^f00003]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-83720f54c1f61f076d1035ca7595bc96]: Commencement: Art. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-83720f54c1f61f076d1035ca7595bc96]: Commencement: Art. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00004]: Footnote: [S.I. 1993 No. 1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-18ac42c13467941009d755e9c6ca7cfe]: Commencement: Art. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-18ac42c13467941009d755e9c6ca7cfe]: Commencement: Art. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-cf9dbba5de3a94e20c71c4c9d8855613]: Commencement: Art. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-cf9dbba5de3a94e20c71c4c9d8855613]: Commencement: Art. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-ef5ea7072404163ad0e47f49446fb841]: Commencement: Art. 6 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-ef5ea7072404163ad0e47f49446fb841]: Commencement: Art. 6 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00005]: Footnote: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100).
 
 [^f00006]: Footnote: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3).
 
-[^key-b481acf38b5b01fbfa0dd42672788ad6]: Commencement: Art. 7 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-b481acf38b5b01fbfa0dd42672788ad6]: Commencement: Art. 7 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-af2a1032131d103593e41c7d02136a65]: Commencement: Art. 8 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-af2a1032131d103593e41c7d02136a65]: Commencement: Art. 8 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-75a8c21c3ff7f87bc10d67cbd8a174ca]: Commencement: Art. 9 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-75a8c21c3ff7f87bc10d67cbd8a174ca]: Commencement: Art. 9 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-deb1de5d52e3d862aa2eced15cbdd85b]: Commencement: Art. 10 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-deb1de5d52e3d862aa2eced15cbdd85b]: Commencement: Art. 10 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00007]: Footnote: [1971 c. 48](https://www.legislation.gov.uk/ukpga/1971/48).
 
-[^key-dcfc52932ac6b09c40a75ffcc431d98b]: Commencement: Art. 11 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-dcfc52932ac6b09c40a75ffcc431d98b]: Commencement: Art. 11 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-9e282e19dfe678a68f2cad6a03b71486]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/1994/570/article/11/2) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/2/a) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-9e282e19dfe678a68f2cad6a03b71486]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/1994/570/article/11/2) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/2/a) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-a744d03fb59212232b97e6029bd387d8]: Textual amendment: Words in [art. 11(4)](https://www.legislation.gov.uk/uksi/1994/570/article/11/4) omitted (1.10.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/2/b) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-a744d03fb59212232b97e6029bd387d8]: Textual amendment: Words in [art. 11(4)](https://www.legislation.gov.uk/uksi/1994/570/article/11/4) omitted (1.10.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/2/b) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-d33d90c1e0ea9b14b4d7b94028113be1]: Commencement: Art. 12 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-d33d90c1e0ea9b14b4d7b94028113be1]: Commencement: Art. 12 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-7300fe514b4f59a1129817bb4c1d0e41]: Commencement: Art. 13 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-7300fe514b4f59a1129817bb4c1d0e41]: Commencement: Art. 13 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-69dc84b46074ff0279f12e7db56f4b54]: Textual amendment: Words in [art. 13(1)(b)](https://www.legislation.gov.uk/uksi/1994/570/article/13/1/b) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(3)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/3) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-69dc84b46074ff0279f12e7db56f4b54]: Textual amendment: Words in [art. 13(1)(b)](https://www.legislation.gov.uk/uksi/1994/570/article/13/1/b) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(3)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/3) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-96fed2d133a88982a372b969335c2477]: Textual amendment: Words in [art. 13(9)](https://www.legislation.gov.uk/uksi/1994/570/article/13/9) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-96fed2d133a88982a372b969335c2477]: Textual amendment: Words in [art. 13(9)](https://www.legislation.gov.uk/uksi/1994/570/article/13/9) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-a0746cb9d2ff1e43ee51eefff122eb47]: Commencement: Art. 14 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-a0746cb9d2ff1e43ee51eefff122eb47]: Commencement: Art. 14 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00008]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-b56dd18c1e429745a1f077266bec02ee]: Textual amendment: Words in [art. 14(10)](https://www.legislation.gov.uk/uksi/1994/570/article/14/10) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-b56dd18c1e429745a1f077266bec02ee]: Textual amendment: Words in [art. 14(10)](https://www.legislation.gov.uk/uksi/1994/570/article/14/10) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-bbb8c42abe13743c8b348c893da5e304]: Textual amendment: Words in [art. 14(11)](https://www.legislation.gov.uk/uksi/1994/570/article/14/11) substituted (E.W.) (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [art. 7](https://www.legislation.gov.uk/uksi/2005/3389/article/7), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/regulation/1/1)
+[^c-bbb8c42abe13743c8b348c893da5e304]: Textual amendment: Words in [art. 14(11)](https://www.legislation.gov.uk/uksi/1994/570/article/14/11) substituted (E.W.) (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [art. 7](https://www.legislation.gov.uk/uksi/2005/3389/article/7), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/regulation/1/1)
 
 [^f00009]: Footnote: [1967 c. 58](https://www.legislation.gov.uk/ukpga/1967/58).
 
-[^key-f019f17d50a6d09cdae4b8c67b02c82f]: Commencement: Art. 15 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-f019f17d50a6d09cdae4b8c67b02c82f]: Commencement: Art. 15 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00010]: Footnote: S.I. [1987/983 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/983).
 
-[^key-7a290493e0cbc390266bd1d08e95591d]: Textual amendment: Words in [art. 15(10)](https://www.legislation.gov.uk/uksi/1994/570/article/15/10) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-7a290493e0cbc390266bd1d08e95591d]: Textual amendment: Words in [art. 15(10)](https://www.legislation.gov.uk/uksi/1994/570/article/15/10) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-3c60ac28a3d72a561ac4fa4508c4577c]: Textual amendment: Words in [art. 15(11)(a)](https://www.legislation.gov.uk/uksi/1994/570/article/15/11/a) substituted (E.W.) (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [art. 7](https://www.legislation.gov.uk/uksi/2005/3389/article/7), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/regulation/1/1)
+[^c-3c60ac28a3d72a561ac4fa4508c4577c]: Textual amendment: Words in [art. 15(11)(a)](https://www.legislation.gov.uk/uksi/1994/570/article/15/11/a) substituted (E.W.) (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [art. 7](https://www.legislation.gov.uk/uksi/2005/3389/article/7), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
 
 [^f00012]: Footnote: [1967 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1967/18).
 
-[^key-3b602935681e2f363622c382360ad4ba]: Commencement: Art. 16 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-3b602935681e2f363622c382360ad4ba]: Commencement: Art. 16 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-21e6440944fa70895fa970bd6c5a3c45]: Textual amendment: Words in [art. 16(9)](https://www.legislation.gov.uk/uksi/1994/570/article/16/9) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-21e6440944fa70895fa970bd6c5a3c45]: Textual amendment: Words in [art. 16(9)](https://www.legislation.gov.uk/uksi/1994/570/article/16/9) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-ab60b790206322c4908cf803c16f6695]: Commencement: Art. 17 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-ab60b790206322c4908cf803c16f6695]: Commencement: Art. 17 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-9d8de97399e4ba09e6908c7a9c09506a]: Commencement: Art. 18 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-9d8de97399e4ba09e6908c7a9c09506a]: Commencement: Art. 18 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-2c0dd8fecbb8b4f29a9cf53035b8cea6]: Commencement: Art. 19 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-2c0dd8fecbb8b4f29a9cf53035b8cea6]: Commencement: Art. 19 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-7f4c428d2451c00a723108f2b3fe4789]: Commencement: Art. 20 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-7f4c428d2451c00a723108f2b3fe4789]: Commencement: Art. 20 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-d8d328862e0b6d7b501f4b2678ed5b2b]: Commencement: Art. 21 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-d8d328862e0b6d7b501f4b2678ed5b2b]: Commencement: Art. 21 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-3354b27c255b56c0d4efb67876f69fde]: Commencement: Art. 22 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-3354b27c255b56c0d4efb67876f69fde]: Commencement: Art. 22 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-d3fa3b1ec797bd9c3d72cd5e39e77de3]: Commencement: Art. 23 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-d3fa3b1ec797bd9c3d72cd5e39e77de3]: Commencement: Art. 23 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-58bfb4921bd1a043451563f434bd5cd8]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/uksi/1994/570/article/23/2) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-58bfb4921bd1a043451563f434bd5cd8]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/uksi/1994/570/article/23/2) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/10/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-31cb4523575164936b6aed49d5506f58]: Commencement: Art. 24 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-31cb4523575164936b6aed49d5506f58]: Commencement: Art. 24 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-98c2073eb7963b0b77f4fe2a340060ef]: Commencement: Art. 25 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-98c2073eb7963b0b77f4fe2a340060ef]: Commencement: Art. 25 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-861567e887de76135ace34afd373575d]: Commencement: Art. 26 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-861567e887de76135ace34afd373575d]: Commencement: Art. 26 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-6a2cda51c087b20558171b1fa7515e35]: Commencement: Art. 27 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-6a2cda51c087b20558171b1fa7515e35]: Commencement: Art. 27 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-686aba6b36c1c8449f8e7c0ad08d340a]: Commencement: Art. 28 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-686aba6b36c1c8449f8e7c0ad08d340a]: Commencement: Art. 28 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-ebb3f728f88bcc407f7867551781a6c9]: Commencement: Art. 29 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-ebb3f728f88bcc407f7867551781a6c9]: Commencement: Art. 29 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-3a0c984edc8246562a635ac7b40990a4]: Commencement: Art. 30 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-3a0c984edc8246562a635ac7b40990a4]: Commencement: Art. 30 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-49a4cfaa8f182cd5833fb9226d0eabe9]: Commencement: Art. 31 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-49a4cfaa8f182cd5833fb9226d0eabe9]: Commencement: Art. 31 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-ad9057a0f414a2dfce4714e2d2eaa17c]: Commencement: Art. 32 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-ad9057a0f414a2dfce4714e2d2eaa17c]: Commencement: Art. 32 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-455023f8f9c1d7db26c2218c6ce2ba70]: Commencement: Art. 33 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-455023f8f9c1d7db26c2218c6ce2ba70]: Commencement: Art. 33 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-e7fc832c74d67defd79f09d6009d6d9c]: Commencement: Art. 34 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-e7fc832c74d67defd79f09d6009d6d9c]: Commencement: Art. 34 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-5a4836ff81cf572e65fba67b6ed00875]: Commencement: Art. 35 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-5a4836ff81cf572e65fba67b6ed00875]: Commencement: Art. 35 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-9dc74ef8283d05c8e49b887600bb8312]: Commencement: Art. 36 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-9dc74ef8283d05c8e49b887600bb8312]: Commencement: Art. 36 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-dd9bca458ec1d19a4f58967f41868f38]: Textual amendment: [Art. 36(2)(e)](https://www.legislation.gov.uk/uksi/1994/570/article/36/2/e) and word inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/8/2)
+[^c-dd9bca458ec1d19a4f58967f41868f38]: Textual amendment: [Art. 36(2)(e)](https://www.legislation.gov.uk/uksi/1994/570/article/36/2/e) and word inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/8/2)
 
-[^key-e1c1df401243b9e6d47740e0e051e0be]: Textual amendment: [Art. 36(2)(f)](https://www.legislation.gov.uk/uksi/1994/570/article/36/2/f) inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/4/a) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-e1c1df401243b9e6d47740e0e051e0be]: Textual amendment: [Art. 36(2)(f)](https://www.legislation.gov.uk/uksi/1994/570/article/36/2/f) inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/4/a) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-7b540e733501f26c51a5415c158e5429]: Textual amendment: [Art. 36(2A)-(2I)](https://www.legislation.gov.uk/uksi/1994/570/article/36/2A) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/8/3)
+[^c-7b540e733501f26c51a5415c158e5429]: Textual amendment: [Art. 36(2A)-(2I)](https://www.legislation.gov.uk/uksi/1994/570/article/36/2A) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/8/3)
 
-[^key-45efab789a6f7e7a5e5e6e513c1b4be1]: Textual amendment: [Art. 36(3)](https://www.legislation.gov.uk/uksi/1994/570/article/36/3) substituted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/8/4)
+[^c-45efab789a6f7e7a5e5e6e513c1b4be1]: Textual amendment: [Art. 36(3)](https://www.legislation.gov.uk/uksi/1994/570/article/36/3) substituted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/8/4)
 
 [^f00013]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-34884325fb166c6bfd15837962c97ea1]: Textual amendment: [Art. 36(9)](https://www.legislation.gov.uk/uksi/1994/570/article/36/9) inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/4/b) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-34884325fb166c6bfd15837962c97ea1]: Textual amendment: [Art. 36(9)](https://www.legislation.gov.uk/uksi/1994/570/article/36/9) inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13/4/b) (with [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14)); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-d3345fa65e0b37ec49dcdbbfafaa9015]: Commencement: Art. 37 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-d3345fa65e0b37ec49dcdbbfafaa9015]: Commencement: Art. 37 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-1679ccd31bc38280b555e7b53e7ca83c]: Commencement: Art. 38 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-1679ccd31bc38280b555e7b53e7ca83c]: Commencement: Art. 38 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-e979657e9bcc978f5880eda8f7d849ed]: Commencement: Sch. 1 para. 1 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-e979657e9bcc978f5880eda8f7d849ed]: Commencement: Sch. 1 para. 1 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-94fd87c01a0e16a2699322e0460b6eb7]: Commencement: Sch. 1 para. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-94fd87c01a0e16a2699322e0460b6eb7]: Commencement: Sch. 1 para. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-66e56ec5d8dd2c6554d5910a4574fcd6]: Commencement: Sch. 1 para. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-66e56ec5d8dd2c6554d5910a4574fcd6]: Commencement: Sch. 1 para. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-5ca7ac5b1b292fa57711008ba54dd4de]: Commencement: Sch. 1 para. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-5ca7ac5b1b292fa57711008ba54dd4de]: Commencement: Sch. 1 para. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-398de0da787ec3f661750c7c2577763c]: Commencement: Sch. 1 para. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-398de0da787ec3f661750c7c2577763c]: Commencement: Sch. 1 para. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-5c69830493d10aa77c275934c247f1c1]: Commencement: Sch. 1 para. 6 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-5c69830493d10aa77c275934c247f1c1]: Commencement: Sch. 1 para. 6 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-bc3f407997ffff63ca987adab8b2834e]: Commencement: Sch. 1 para. 7 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-bc3f407997ffff63ca987adab8b2834e]: Commencement: Sch. 1 para. 7 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00014]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00015]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-f394be7cb546e83fd0c73b9299e89a20]: Commencement: Sch. 2 para. 1 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-f394be7cb546e83fd0c73b9299e89a20]: Commencement: Sch. 2 para. 1 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-86bf819c258a6f5a4674410d7fdb7a35]: Commencement: Sch. 2 para. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-86bf819c258a6f5a4674410d7fdb7a35]: Commencement: Sch. 2 para. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-8f28d0771867e769de613e67cbeebb19]: Commencement: Sch. 2 para. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-8f28d0771867e769de613e67cbeebb19]: Commencement: Sch. 2 para. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-5632c3a48c92a2e36e59c556f366d846]: Commencement: Sch. 2 para. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-5632c3a48c92a2e36e59c556f366d846]: Commencement: Sch. 2 para. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00016]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-f8da1cc1a5f125dda79b3186349f1a0f]: Commencement: Sch. 2 para. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-f8da1cc1a5f125dda79b3186349f1a0f]: Commencement: Sch. 2 para. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-ed2d9ce7cce41c8c4654aa1b497670f5]: Commencement: Sch. 2 para. 6 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-ed2d9ce7cce41c8c4654aa1b497670f5]: Commencement: Sch. 2 para. 6 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-19b0e5d169b0135fc03ebf4fbb13b2db]: Commencement: Sch. 2 para. 7 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-19b0e5d169b0135fc03ebf4fbb13b2db]: Commencement: Sch. 2 para. 7 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
-[^key-d26e5e1ff9b168063897c4345cfba2eb]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/7) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-d26e5e1ff9b168063897c4345cfba2eb]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/7) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-d1997abe011f300f4974588143e24dfa]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/7A) inserted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-d1997abe011f300f4974588143e24dfa]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/7A) inserted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-03669b6ff223d1cf773d5def201d12ef]: Commencement: Sch. 2 para. 8 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-03669b6ff223d1cf773d5def201d12ef]: Commencement: Sch. 2 para. 8 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00017]: Footnote: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).
 
-[^key-b7cad20f3fa860a545bbf9d186219d73]: Textual amendment: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/8/b) and word omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-b7cad20f3fa860a545bbf9d186219d73]: Textual amendment: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/8/b) and word omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-0faeffc736d99f010382dc32306c939b]: Commencement: Sch. 2 para. 9 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-0faeffc736d99f010382dc32306c939b]: Commencement: Sch. 2 para. 9 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00018]: Footnote: S.I. [1982/712 (N.I. 9)](https://www.legislation.gov.uk/nisi/1982/712).
 
-[^key-820911e4b99e0f35f2f49320d3e21f22]: Textual amendment: [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/9/b) and word omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-820911e4b99e0f35f2f49320d3e21f22]: Textual amendment: [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/1994/570/schedule/2/paragraph/9/b) and word omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/44/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-72dde3bfa554adad27d4a23b74a38d78]: Commencement: Sch. 2 para. 10 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-72dde3bfa554adad27d4a23b74a38d78]: Commencement: Sch. 2 para. 10 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00019]: Footnote: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-3c9ba2faf46ff4dae1e326a1113f9054]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1994/570/schedule/3/paragraph/1) revoked (25.8.1996) by [Northern Ireland (Emergency Provisions) Act 1996 (c. 22)](https://www.legislation.gov.uk/ukpga/1996/22), [s. 62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1996/22/schedule/7/part/II)
+[^c-3c9ba2faf46ff4dae1e326a1113f9054]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1994/570/schedule/3/paragraph/1) revoked (25.8.1996) by [Northern Ireland (Emergency Provisions) Act 1996 (c. 22)](https://www.legislation.gov.uk/ukpga/1996/22), [s. 62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1996/22/schedule/7/part/II)
 
-[^key-8a2e891f1cb809f4fba776cbe2afa2f5]: Commencement: Sch. 3 para. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-8a2e891f1cb809f4fba776cbe2afa2f5]: Commencement: Sch. 3 para. 2 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00021]: Footnote: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26); Schedule 1 is amended by paragraph 6 of Schedule 3 to the Aviation and Maritime Security Act 1990.
 
-[^key-e33cf5d138166560197310372698f94d]: Commencement: Sch. 3 para. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-e33cf5d138166560197310372698f94d]: Commencement: Sch. 3 para. 3 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00022]: Footnote: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48); Part II of Schedule 1 is amended by paragraph 7 of Schedule 3 to the Aviation and Maritime Security Act 1990.
 
-[^key-e70b93cb7cd0c9c6c1dc19a72e6d5b96]: Commencement: Sch. 3 para. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-e70b93cb7cd0c9c6c1dc19a72e6d5b96]: Commencement: Sch. 3 para. 4 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00023]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); Part II of Schedule 5 is amended by paragraph 8 of Schedule 3 to the Aviation and Maritime Security Act 1990.
 
-[^key-aa549d1b8b152d15dbbc0dc4667d47c0]: Commencement: Sch. 3 para. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
+[^c-aa549d1b8b152d15dbbc0dc4667d47c0]: Commencement: Sch. 3 para. 5 in force at 5.3.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/570/article/1)
 
 [^f00024]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); Part II of Schedule 5 is amended by paragraph 11 of Schedule 3 to the Aviation and Maritime Security Act 1990.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3D — Text of the 1996 Hague Convention[^key-cdc018dbdb2eb6d316e8e7faf0571f2e]
+## SCHEDULE 3D — Text of the 1996 Hague Convention[^c-cdc018dbdb2eb6d316e8e7faf0571f2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -518,4 +518,4 @@ Done at The Hague, on the 19th day of October 1996, in the English and French la
 
 ## Annotations
 
-[^key-cdc018dbdb2eb6d316e8e7faf0571f2e]: Textual amendment: [Sch. 3D](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3D) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2020/24/schedule/1) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1))
+[^c-cdc018dbdb2eb6d316e8e7faf0571f2e]: Textual amendment: [Sch. 3D](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3D) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2020/24/schedule/1) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1))

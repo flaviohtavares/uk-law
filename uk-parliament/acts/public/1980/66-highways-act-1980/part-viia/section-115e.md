@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsections (2) to (6)[^key-f3398d3de93d423aecfbd693783221ba] below, a council may grant a person permission—
+(1) Subject to subsections (2) to (6)[^c-f3398d3de93d423aecfbd693783221ba] below, a council may grant a person permission—
 
 - (a) to do on, in or over a highway to which this Part of this Act applies anything which the council could do on, in or over such a highway under section 115B(1) to (3) or 115C above; or
 - (b) to use objects or structures on, in or over a highway to which this Part of this Act applies—
@@ -49,9 +49,9 @@ unless they have first obtained the consent of the frontagers with an interest�
 
 unless they have first obtained walkway consent.
 
-(5)[^key-3ee145010df1ef332c8fa477ce367945] A council may not under this section grant a person permission to do anything which is capable of being authorised by a pavement licence under section 1 of the Business and Planning Act 2020.
+(5)[^c-3ee145010df1ef332c8fa477ce367945] A council may not under this section grant a person permission to do anything which is capable of being authorised by a pavement licence under section 1 of the Business and Planning Act 2020.
 
-(6)[^key-cdf7508d73ba11fc574e36da8ef5c27c] A council may not under this section grant a person permission to do anything relating to a public charge point in England which is capable of being authorised by a street works permit or a street works licence.
+(6)[^c-cdf7508d73ba11fc574e36da8ef5c27c] A council may not under this section grant a person permission to do anything relating to a public charge point in England which is capable of being authorised by a street works permit or a street works licence.
 
 (7) In this section—
 
@@ -68,8 +68,8 @@ unless they have first obtained walkway consent.
 
 [^M_C_d20f5128-b874-41ae-f957-8fcfbb10d173]: Modification: S. 115E(4) applied by [City of London (Various Powers) Act 1987 (c. xv)](https://www.legislation.gov.uk/ukla/1987/15) 11B(2) (as inserted (18.12.2013) by City of London (Various Powers) Act 2013, (c. vii), s. 9)
 
-[^key-f3398d3de93d423aecfbd693783221ba]: Textual amendment: Word in s. 115E(1) substituted (13.3.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 49(9)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/49/9/a), [118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/292](https://www.legislation.gov.uk/uksi/2026/292), [reg. 2](https://www.legislation.gov.uk/uksi/2026/292/regulation/2)
+[^c-f3398d3de93d423aecfbd693783221ba]: Textual amendment: Word in s. 115E(1) substituted (13.3.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 49(9)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/49/9/a), [118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/292](https://www.legislation.gov.uk/uksi/2026/292), [reg. 2](https://www.legislation.gov.uk/uksi/2026/292/regulation/2)
 
-[^key-3ee145010df1ef332c8fa477ce367945]: Textual amendment: S. 115E(5) inserted (31.3.2024) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 11(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/11/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247), [Sch. 22 paras. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18), [19](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/19)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-3ee145010df1ef332c8fa477ce367945]: Textual amendment: S. 115E(5) inserted (31.3.2024) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 11(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/11/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247), [Sch. 22 paras. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18), [19](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/19)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-cdf7508d73ba11fc574e36da8ef5c27c]: Textual amendment: S. 115E(6)(7) inserted (13.3.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 49(9)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/49/9/b), [118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/292](https://www.legislation.gov.uk/uksi/2026/292), [reg. 2](https://www.legislation.gov.uk/uksi/2026/292/regulation/2)
+[^c-cdf7508d73ba11fc574e36da8ef5c27c]: Textual amendment: S. 115E(6)(7) inserted (13.3.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 49(9)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/49/9/b), [118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/292](https://www.legislation.gov.uk/uksi/2026/292), [reg. 2](https://www.legislation.gov.uk/uksi/2026/292/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Exits from the mine[^key-8ecb7cfb9d5d1dbc0dde1309fe4f6434]
+## 48. Exits from the mine[^c-8ecb7cfb9d5d1dbc0dde1309fe4f6434]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ecb7cfb9d5d1dbc0dde1309fe4f6434]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2016/427/regulation/48) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-8ecb7cfb9d5d1dbc0dde1309fe4f6434]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2016/427/regulation/48) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

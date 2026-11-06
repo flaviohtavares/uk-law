@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. General purpose of Part 3[^key-2a9442dfb0337325ae5dbbcdcb6358c4]
+## 7. General purpose of Part 3[^c-2a9442dfb0337325ae5dbbcdcb6358c4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The purpose of this Part is to make provision for or in connection with establis
 
 ## Annotations
 
-[^key-2a9442dfb0337325ae5dbbcdcb6358c4]: Commencement: S. 7 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-2a9442dfb0337325ae5dbbcdcb6358c4]: Commencement: S. 7 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

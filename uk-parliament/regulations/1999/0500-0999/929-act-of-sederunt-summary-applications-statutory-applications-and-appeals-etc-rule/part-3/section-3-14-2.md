@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.14.2. Accompanying documents[^key-c4ebf9a6ea4df61362b1a064a45c9acd]
+## 3.14.2. Accompanying documents[^c-c4ebf9a6ea4df61362b1a064a45c9acd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ An application shall specify those steps prescribed in the Regulations which hav
 
 ## Annotations
 
-[^key-c4ebf9a6ea4df61362b1a064a45c9acd]: Textual amendment: Ch. 3 Pt. 14 inserted (3.7.2000) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment 2000 (S.S.I. 2000/148)](https://www.legislation.gov.uk/ssi/2000/148), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/2/2)
+[^c-c4ebf9a6ea4df61362b1a064a45c9acd]: Textual amendment: Ch. 3 Pt. 14 inserted (3.7.2000) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment 2000 (S.S.I. 2000/148)](https://www.legislation.gov.uk/ssi/2000/148), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Deeds of arrangement[^key-aa3620eb39b1db84daa6a1dcf4ea3ca4]
+## 11. Deeds of arrangement[^c-aa3620eb39b1db84daa6a1dcf4ea3ca4]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa3620eb39b1db84daa6a1dcf4ea3ca4]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/2/section/11) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-aa3620eb39b1db84daa6a1dcf4ea3ca4]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/2/section/11) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

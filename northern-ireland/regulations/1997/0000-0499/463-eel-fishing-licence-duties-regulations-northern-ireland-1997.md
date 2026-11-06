@@ -30,7 +30,7 @@ summary: ''
 
 FISHERIES
 
-Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1997 (revoked)[^key-dbad682b994785ce223f8585b464871f]
+Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1997 (revoked)[^c-dbad682b994785ce223f8585b464871f]
 
 Made
 
@@ -40,27 +40,27 @@ Coming into operation
 
 1st January 1998
 
-[^key-dbad682b994785ce223f8585b464871f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbad682b994785ce223f8585b464871f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dbad682b994785ce223f8585b464871f]
+## 1. Citation and commencement[^c-dbad682b994785ce223f8585b464871f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Licence Duties[^key-dbad682b994785ce223f8585b464871f]
+## 2. Licence Duties[^c-dbad682b994785ce223f8585b464871f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-dbad682b994785ce223f8585b464871f]
+## 3. Revocation[^c-dbad682b994785ce223f8585b464871f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbad682b994785ce223f8585b464871f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbad682b994785ce223f8585b464871f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-dbad682b994785ce223f8585b464871f]
+## SCHEDULE[^c-dbad682b994785ce223f8585b464871f]
 
 Regulation 2
 
@@ -68,8 +68,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbad682b994785ce223f8585b464871f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbad682b994785ce223f8585b464871f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbad682b994785ce223f8585b464871f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/463) revoked (1.1.1999) by [Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/403)](https://www.legislation.gov.uk/nisr/1998/403), [regs. 1](https://www.legislation.gov.uk/nisr/1998/403/regulation/1), [3](https://www.legislation.gov.uk/nisr/1998/403/regulation/3)
+[^c-dbad682b994785ce223f8585b464871f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/463) revoked (1.1.1999) by [Eel Fishing (Licence Duties) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/403)](https://www.legislation.gov.uk/nisr/1998/403), [regs. 1](https://www.legislation.gov.uk/nisr/1998/403/regulation/1), [3](https://www.legislation.gov.uk/nisr/1998/403/regulation/3)

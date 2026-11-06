@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Identification of contact premises[^key-1960db600e28abd2d03e10946af54b64]
+## 26. Identification of contact premises[^c-1960db600e28abd2d03e10946af54b64]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1960db600e28abd2d03e10946af54b64]: Commencement: Reg. 26 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-1960db600e28abd2d03e10946af54b64]: Commencement: Reg. 26 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

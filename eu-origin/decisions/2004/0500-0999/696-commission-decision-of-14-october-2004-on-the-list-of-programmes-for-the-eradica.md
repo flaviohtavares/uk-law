@@ -39,32 +39,32 @@ on the list of programmes for the eradication and the monitoring of certain TSEs
 
 (2004/696/EC) (revoked)
 
-[^key-ca653d8a4fdf6b870a6efbed263e40ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca653d8a4fdf6b870a6efbed263e40ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ca653d8a4fdf6b870a6efbed263e40ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-ca653d8a4fdf6b870a6efbed263e40ce]
+## ANNEX I[^c-ca653d8a4fdf6b870a6efbed263e40ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-ca653d8a4fdf6b870a6efbed263e40ce]
+## ANNEX II[^c-ca653d8a4fdf6b870a6efbed263e40ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-ca653d8a4fdf6b870a6efbed263e40ce]
+## ANNEX III[^c-ca653d8a4fdf6b870a6efbed263e40ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca653d8a4fdf6b870a6efbed263e40ce]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-ca653d8a4fdf6b870a6efbed263e40ce]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

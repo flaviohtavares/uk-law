@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — REVOCATIONS[^key-789b4c825922af82a7fd030292063f0b]
+## SCHEDULE 7 — REVOCATIONS[^c-789b4c825922af82a7fd030292063f0b]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ Regulation 33
 
 ## Annotations
 
-[^key-789b4c825922af82a7fd030292063f0b]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2010/208/schedule/7) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-789b4c825922af82a7fd030292063f0b]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2010/208/schedule/7) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

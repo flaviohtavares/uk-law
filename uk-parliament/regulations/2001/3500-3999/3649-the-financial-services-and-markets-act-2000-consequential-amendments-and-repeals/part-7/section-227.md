@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Local authority indemnity for building societies: consultation requirements[^key-68821f0649fdc3b0ad12c1872b429aef]
+## 227. Local authority indemnity for building societies: consultation requirements[^c-68821f0649fdc3b0ad12c1872b429aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 229(4) of the Housing (Scotland) Act 1987 (local authority indemnity 
 
 ## Annotations
 
-[^key-68821f0649fdc3b0ad12c1872b429aef]: Commencement: Art. 227 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-68821f0649fdc3b0ad12c1872b429aef]: Commencement: Art. 227 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

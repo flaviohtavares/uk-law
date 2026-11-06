@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Interim duty: water supply[^key-e48b3aa8aac22fa9c705d76828692053]
+## 31. Interim duty: water supply[^c-e48b3aa8aac22fa9c705d76828692053]
 
 *Extent: E+W*
 
@@ -152,4 +152,4 @@ For section 63AC of the Water Industry Act 1991 (interim duty of water undertake
 
 ## Annotations
 
-[^key-e48b3aa8aac22fa9c705d76828692053]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/21/section/31) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(f)](https://www.legislation.gov.uk/uksi/2017/462/article/3/f)
+[^c-e48b3aa8aac22fa9c705d76828692053]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/21/section/31) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(f)](https://www.legislation.gov.uk/uksi/2017/462/article/3/f)

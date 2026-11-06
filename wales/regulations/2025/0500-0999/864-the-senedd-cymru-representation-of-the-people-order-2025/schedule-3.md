@@ -24,14 +24,14 @@ Article 15(4)
 
 ### PART 1 — General
 
-#### 1. Returning officers and polling stations[^key-5ef1ac3746ad17bc1699994548ceb384]
+#### 1. Returning officers and polling stations[^c-5ef1ac3746ad17bc1699994548ceb384]
 
 Where the polls at a Senedd general election and a local government election are taken together under article 15(1)—
 
 - (a) those functions of the returning officer at the local government election which are specified in paragraph 2 must be discharged by the returning officer for a Senedd constituency for such part of the local government area as is situated in the constituency, and
 - (b) only polling stations used for the Senedd general election are to be used for the local government election.
 
-#### 2. Functions at combined polls[^key-9307e006bd7c1deda9ee9b716b11a746]
+#### 2. Functions at combined polls[^c-9307e006bd7c1deda9ee9b716b11a746]
 
 (1) The functions referred to in paragraph 1 are the functions conferred—
 
@@ -56,7 +56,7 @@ and where the proceedings on the issue and receipt of postal ballot papers at tw
 - (j) rule 42(3)(b) (authorisation to order removal from polling station);
 - (k) paragraphs (2) to (6) of rule 58 (the count: steps) as modified by paragraph 19 of this Schedule.
 
-#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^key-d4f9ed34928b946679c582104c0c9a79]
+#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^c-d4f9ed34928b946679c582104c0c9a79]
 
 (1) Sub-paragraph (2) applies where those functions of a returning officer at an election which are specified in paragraph 2 are discharged by the returning officer at another election under paragraph 1.
 
@@ -84,11 +84,11 @@ include special provision for expenses incurred in respect of the discharge of f
 
 ### PART 2 — Modifications to Schedule 5 to apply where the poll at a Senedd general election is taken together with a poll at a local government election under article 15(1)
 
-#### 4. Modifications to Schedule 5: general provision[^key-d89c6d5c0bd6e1c4fa7521b92ce61c2b]
+#### 4. Modifications to Schedule 5: general provision[^c-d89c6d5c0bd6e1c4fa7521b92ce61c2b]
 
 Where the poll at a Senedd general election is taken with the poll at a local government election under article 15(1), the Senedd election rules in Schedule 5 have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
-#### 5. Rule 27A (colour of ballot papers)[^key-a97b6e736a765c98637994d0ee3e4f99]
+#### 5. Rule 27A (colour of ballot papers)[^c-a97b6e736a765c98637994d0ee3e4f99]
 
 Schedule 5 is to be read as if after rule 27 (corresponding number list) there were inserted—
 
@@ -96,7 +96,7 @@ Schedule 5 is to be read as if after rule 27 (corresponding number list) there w
 >
 > Where the poll at a Senedd election is taken together with the poll at a local government election, the ballot paper to be used at the Senedd election must be of a different colour from that of any ballot paper to be used at the local government election.
 
-#### 6. Rule 31 (notice of poll)[^key-f06c5108236c8b82e59eb417b0218f63]
+#### 6. Rule 31 (notice of poll)[^c-f06c5108236c8b82e59eb417b0218f63]
 
 Rule 31 is to be read as if after paragraph (4) there were inserted—
 
@@ -106,13 +106,13 @@ Rule 31 is to be read as if after paragraph (4) there were inserted—
 > - (b) specify the relevant local authority and the electoral area for which the election is held, and
 > - (c) specify the part of the Senedd constituency in which the polls are to be taken together.
 
-#### 7. Rule 36 (issue of official poll cards)[^key-8ae5e1b36b499dd007be1ee2e4999533]
+#### 7. Rule 36 (issue of official poll cards)[^c-8ae5e1b36b499dd007be1ee2e4999533]
 
 Rule 36 is to be read as if after paragraph (6) there were inserted—
 
 > (6A) Where a poll at a Senedd election is taken together with a poll at a local government election, an official poll card issued under this rule may be combined with an official poll card issued at the local government election.
 
-#### 8. Rule 37 (equipment of polling stations)[^key-8b507cd2b747f9f9825339f583bf9712]
+#### 8. Rule 37 (equipment of polling stations)[^c-8b507cd2b747f9f9825339f583bf9712]
 
 (1) Rule 37 is to be read as if after paragraph (2) there were inserted—
 
@@ -179,25 +179,25 @@ Rule 36 is to be read as if after paragraph (6) there were inserted—
 >
 >   Put the number 3 in the voting box next to your third choice. And so on.”
 
-#### 9. Rule 38 (appointment of polling and counting agents)[^key-4176facdd048512d9c78ae78ffef27e6]
+#### 9. Rule 38 (appointment of polling and counting agents)[^c-4176facdd048512d9c78ae78ffef27e6]
 
 Rule 38 is to be read as if after paragraph (5) there were inserted—
 
 > (6) Where the poll at a Senedd election is taken together with a poll at a local government election, notices of the appointment of polling agents which are required by paragraphs (3) to (5) to be given to the returning officer, must be given to the returning officer who discharges the functions specified in paragraph 2 of Schedule 3.
 
-#### 10. Rule 41 (admission to polling station)[^key-f0bbb4c167c0968b1e48d0e706be9b6d]
+#### 10. Rule 41 (admission to polling station)[^c-f0bbb4c167c0968b1e48d0e706be9b6d]
 
 Rule 41 is to be read as if after paragraph (1)(j) there were inserted—
 
 > - (k) persons entitled to be admitted to the polling station at the local government election.
 
-#### 11. Rule 44 (questions to be put to voters)[^key-dedbe9f7acad6ef45a35aa311c993a80]
+#### 11. Rule 44 (questions to be put to voters)[^c-dedbe9f7acad6ef45a35aa311c993a80]
 
 (1) Questions 1(b), 2(a) and (b), 3(b) and 4 in column (2) of Table 1 in rule 44(4), are to be read as if before the word “election” there is inserted the word “Senedd”.
 
 (2) Questions 1(b), 2(a) and (b), 3(b) and 4 in column (3) of Table 1 in rule 44(4), are to be read as if after the words “yr etholiad hwn” there are inserted the words “i’r Senedd”.
 
-#### 12. Rule 46 (voting procedure)[^key-9ebe7f1e40a18403b62b599dc51be547]
+#### 12. Rule 46 (voting procedure)[^c-9ebe7f1e40a18403b62b599dc51be547]
 
 Rule 46 is to be read as if after paragraph (7) there were inserted—
 
@@ -206,13 +206,13 @@ Rule 46 is to be read as if after paragraph (7) there were inserted—
 > - (a) one mark may be placed in those records under paragraph (2)(d) or in the list of proxies under paragraph (2)(e) to denote that a ballot paper has been received in respect of each election, and
 > - (b) where a ballot paper has not been issued in respect of each election, a different mark must be placed in the registration records or list of proxies so as to identify the election in respect of which the ballot paper was issued.
 
-#### 13. Rule 47 (voters with a disability or unable to read: marking of votes by presiding officer)[^key-0a7bfa4e21fcc9c076f28b4ebb2a8dda]
+#### 13. Rule 47 (voters with a disability or unable to read: marking of votes by presiding officer)[^c-0a7bfa4e21fcc9c076f28b4ebb2a8dda]
 
 Rule 47 is to be read as if after paragraph (5) there were inserted—
 
 > (6) Where the poll at a Senedd election is taken together with a poll at a local government election, the same list of votes marked by the presiding officer may be used for each election and, where it is so used, an entry in that list is to be taken to mean that the ballot papers were so marked in respect of each election, unless the list identifies the election at which a ballot paper was so marked.
 
-#### 14. Rule 48 (voters with a disability or unable to read: assistance of companions)[^key-e97ca429c452eb734346fe9f73d8163f]
+#### 14. Rule 48 (voters with a disability or unable to read: assistance of companions)[^c-e97ca429c452eb734346fe9f73d8163f]
 
 In rule 48, paragraph (5) is to be read as if there were substituted for that paragraph—
 
@@ -221,7 +221,7 @@ In rule 48, paragraph (5) is to be read as if there were substituted for that pa
 > - (a) in form 21 set out in Welsh and English in Schedule 10, and
 > - (b) given to the presiding officer who must attest and retain it.
 
-#### 15. Rule 49 (voting with the assistance of a companion: supplemental provision)[^key-001c5c05ccabc3829476ac49983cab0e]
+#### 15. Rule 49 (voting with the assistance of a companion: supplemental provision)[^c-001c5c05ccabc3829476ac49983cab0e]
 
 Rule 49 is to be read as if after paragraph (5) there were inserted—
 
@@ -229,7 +229,7 @@ Rule 49 is to be read as if after paragraph (5) there were inserted—
 >
 > (7) Where the same list is used under paragraph (6), an entry in that list is to be taken to mean the votes were given in respect of each election, unless the list identifies the election at which a vote was so given.
 
-#### 16. Rule 51 (tendered ballot papers: duties of presiding officer)[^key-5d03dd2a2e99419dc99944b04f976598]
+#### 16. Rule 51 (tendered ballot papers: duties of presiding officer)[^c-5d03dd2a2e99419dc99944b04f976598]
 
 Rule 51 is to be read as if after paragraph (6) there were inserted—
 
@@ -237,7 +237,7 @@ Rule 51 is to be read as if after paragraph (6) there were inserted—
 >
 > (8) Where the same list is used under paragraph (7), an entry in that list is to be taken to mean that tendered ballot papers were marked in respect of each election, unless the list identifies the election at which a tendered ballot paper was so marked.
 
-#### 17. Rule 53 (correction of errors on the day of poll)[^key-ad2387e45d91024318e977755e917054]
+#### 17. Rule 53 (correction of errors on the day of poll)[^c-ad2387e45d91024318e977755e917054]
 
 Rule 53 is to be read as if for that rule there were substituted—
 
@@ -247,13 +247,13 @@ Rule 53 is to be read as if for that rule there were substituted—
 >
 > (2) Where the poll at a Senedd election is taken together with a poll at a local government election, the same list may be used for each election and, where it is so used, an entry in that list is to be taken to mean that ballot papers were issued in respect of each election, unless the list identifies the election for which a ballot paper was issued.
 
-#### 18. Rule 55 (procedure on close of poll)[^key-52cef0007af4bacb21a8629004c22c50]
+#### 18. Rule 55 (procedure on close of poll)[^c-52cef0007af4bacb21a8629004c22c50]
 
 Rule 55 is to be read as if after paragraph (3) there were inserted—
 
 > (3A) Where the poll at a Senedd election is taken together with a poll at a local government election, the contents of the packets referred to in paragraph (3)(a), (b), (d) and (e) must not be combined with the contents of packets made under the corresponding rule that applies at a local government election, nor must the statement prepared under paragraph (8) be so combined.
 
-#### 19. Rule 58 (the count: steps)[^key-bba66f0e2573282516fc68b9c0f497f1]
+#### 19. Rule 58 (the count: steps)[^c-bba66f0e2573282516fc68b9c0f497f1]
 
 Rule 58 is to be read as if for that rule there were substituted—
 
@@ -311,13 +311,13 @@ Rule 58 is to be read as if for that rule there were substituted—
 > - (a) keep the ballot papers with their faces upwards, and
 > - (b) take such other precautions as are appropriate for preventing any person from seeing the numbers or other unique identifying marks printed on the back of the papers.
 
-#### 20. Rule 72 (death of candidate)[^key-fc0630d92b9e70671322881f46031daa]
+#### 20. Rule 72 (death of candidate)[^c-fc0630d92b9e70671322881f46031daa]
 
 Rule 72 is to be read as if after paragraph (5) there were inserted—
 
 > (6) Neither the countermand of the notice of poll at the Senedd election nor a direction that the poll be abandoned affects the poll at the local government election.
 
-#### 21. Rule 73 (abandoned poll)[^key-1f2285113b62a9749b590645603d449e]
+#### 21. Rule 73 (abandoned poll)[^c-1f2285113b62a9749b590645603d449e]
 
 Rule 73 is to be read as if after paragraph (5) there were inserted—
 
@@ -328,7 +328,7 @@ Rule 73 is to be read as if after paragraph (5) there were inserted—
 
 ### PART 3 — Application of the Local Elections (Principal Areas) (Wales) Rules 2021 where the poll to fill a casual vacancy or vacancies occurring in the office of councillor for a county or county borough council is taken together with the poll at a Senedd general election under article 15(1)
 
-#### 22. Application and modification of the Local Elections (Principal Areas) (Wales) Rules 2021: general provision[^key-4520a7265340f251ee4e6fd754ce1ab7]
+#### 22. Application and modification of the Local Elections (Principal Areas) (Wales) Rules 2021: general provision[^c-4520a7265340f251ee4e6fd754ce1ab7]
 
 The following provisions of the Local Elections (Principal Areas) (Wales) Rules 2021[^f00105] apply where the poll to fill a casual vacancy in the office of councillor for a county or county borough council is taken together with the poll at a Senedd general election under article 15(1), subject to the modifications set out in this Part of this Schedule—
 
@@ -336,7 +336,7 @@ The following provisions of the Local Elections (Principal Areas) (Wales) Rules 
 - (b) rule 5(3) to (7) in its application to Schedule 2, and
 - (c) Schedule 2.
 
-#### 23. Rule 3 (interpretation)[^key-b68d7559eeda03ad7df2997327e2bab8]
+#### 23. Rule 3 (interpretation)[^c-b68d7559eeda03ad7df2997327e2bab8]
 
 In rule 3—
 
@@ -354,11 +354,11 @@ In rule 3—
   >   - (i) the poll at a Senedd Cymru general election, and
   >   - (ii) the poll at an election held in accordance with section 89(1) of that Act to fill a casual vacancy occurring in the office of councillor for a county or county borough council.
 
-#### 24. Rule 5 (conduct of elections to the council of a principal area)[^key-5653d72636cc1f1a052de501fdc14847]
+#### 24. Rule 5 (conduct of elections to the council of a principal area)[^c-5653d72636cc1f1a052de501fdc14847]
 
 In rule 5, paragraph (4) is to be read as if for the words from “who, under” to the end of the paragraph, there were substituted the words “who, under paragraph 1 of Schedule 3 to the 2025 Order, is responsible for discharging functions specified in paragraph 2 of that Schedule to that Order”.
 
-#### 25. Schedule 2 (rules for conduct of an election of councillors for a principal area where poll is taken together with poll at a relevant election)[^key-4a38d14d234cce9d711520c928476549]
+#### 25. Schedule 2 (rules for conduct of an election of councillors for a principal area where poll is taken together with poll at a relevant election)[^c-4a38d14d234cce9d711520c928476549]
 
 (1) Schedule 2 is to be read as if in each of the following places, for the words “regulations 4 and 5 of the Combination of Polls Regulations” there were substituted the words “paragraphs 1 and 2 of Schedule 3 to the 2025 Order”—
 
@@ -382,7 +382,7 @@ In rule 5, paragraph (4) is to be read as if for the words from “who, under”
 
 ### PART 4 — Application of the Local Election (Communities) (Wales) Rules 2021 where the poll to fill a casual vacancy or vacancies of councillors to a community council is taken together with the poll at a Senedd general election under article 15(1)
 
-#### 26. Application and Modification of the Local Election (Communities) (Wales) Rules 2021: general provision[^key-33d1295a971c805da2aee83e4fb26b82]
+#### 26. Application and Modification of the Local Election (Communities) (Wales) Rules 2021: general provision[^c-33d1295a971c805da2aee83e4fb26b82]
 
 The following provisions of the Local Elections (Communities) (Wales) Rules 2021[^f00106] apply where the poll to fill a casual vacancy or vacancies of councillors to a community council is taken together with the poll at a Senedd general election under article 15(1), subject to the modifications set out in this Part of this Schedule—
 
@@ -392,7 +392,7 @@ The following provisions of the Local Elections (Communities) (Wales) Rules 2021
 - (d) Schedule 2;
 - (e) Schedule 3.
 
-#### 27. Rule 3 (interpretation)[^key-8b3ba80fc2bc3dba69840df1a32b708a]
+#### 27. Rule 3 (interpretation)[^c-8b3ba80fc2bc3dba69840df1a32b708a]
 
 (1) In rule 3, paragraph (1) is to be read as if for the definition of “the Combination of Polls Regulations” there were substituted the following definition—
 
@@ -409,11 +409,11 @@ The following provisions of the Local Elections (Communities) (Wales) Rules 2021
 >   - (i) the poll at a Senedd Cymru general election, and
 >   - (ii) the poll at an election held in accordance with section 89(6) of that Act to fill a casual vacancy of councillors to a community council.
 
-#### 28. Rule 4 (conduct of elections to a community council)[^key-de0c2b37cfb19bd62ffd328ed7f6d184]
+#### 28. Rule 4 (conduct of elections to a community council)[^c-de0c2b37cfb19bd62ffd328ed7f6d184]
 
 In rule 4, paragraph (4) is to be read as if for the words from “who, under” to the end of the paragraph, there were substituted the words “who, under paragraph 1 of Schedule 3 to the 2025 Order, is responsible for discharging functions specified in paragraph 2 of that Schedule to that Order.”
 
-#### 29. Schedule 2 (rules for conduct of an election of councillors for a community where poll is taken together with poll at a relevant election)[^key-92a01a4b03ec97a5425b8c9bb417f0b4]
+#### 29. Schedule 2 (rules for conduct of an election of councillors for a community where poll is taken together with poll at a relevant election)[^c-92a01a4b03ec97a5425b8c9bb417f0b4]
 
 (1) Schedule 2 is to be read as if in each of the following places, for the words “regulations 4 and 5 of the Combination of Polls Regulations” there were substituted the words “paragraphs 1 and 2 of Schedule 3 to the 2025 Order”—
 
@@ -437,68 +437,68 @@ In rule 4, paragraph (4) is to be read as if for the words from “who, under”
 
 ## Annotations
 
-[^key-5ef1ac3746ad17bc1699994548ceb384]: Commencement: Sch. 3 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5ef1ac3746ad17bc1699994548ceb384]: Commencement: Sch. 3 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9307e006bd7c1deda9ee9b716b11a746]: Commencement: Sch. 3 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9307e006bd7c1deda9ee9b716b11a746]: Commencement: Sch. 3 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00103]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 36A was inserted by section 13(3) of the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-d4f9ed34928b946679c582104c0c9a79]: Commencement: Sch. 3 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d4f9ed34928b946679c582104c0c9a79]: Commencement: Sch. 3 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00104]: Footnote: Section 36C was inserted by paragraph 2 of Schedule 2 to the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-d89c6d5c0bd6e1c4fa7521b92ce61c2b]: Commencement: Sch. 3 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d89c6d5c0bd6e1c4fa7521b92ce61c2b]: Commencement: Sch. 3 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-a97b6e736a765c98637994d0ee3e4f99]: Commencement: Sch. 3 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a97b6e736a765c98637994d0ee3e4f99]: Commencement: Sch. 3 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-f06c5108236c8b82e59eb417b0218f63]: Commencement: Sch. 3 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f06c5108236c8b82e59eb417b0218f63]: Commencement: Sch. 3 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-8ae5e1b36b499dd007be1ee2e4999533]: Commencement: Sch. 3 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8ae5e1b36b499dd007be1ee2e4999533]: Commencement: Sch. 3 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-8b507cd2b747f9f9825339f583bf9712]: Commencement: Sch. 3 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8b507cd2b747f9f9825339f583bf9712]: Commencement: Sch. 3 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-4176facdd048512d9c78ae78ffef27e6]: Commencement: Sch. 3 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4176facdd048512d9c78ae78ffef27e6]: Commencement: Sch. 3 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-f0bbb4c167c0968b1e48d0e706be9b6d]: Commencement: Sch. 3 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f0bbb4c167c0968b1e48d0e706be9b6d]: Commencement: Sch. 3 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-dedbe9f7acad6ef45a35aa311c993a80]: Commencement: Sch. 3 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-dedbe9f7acad6ef45a35aa311c993a80]: Commencement: Sch. 3 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9ebe7f1e40a18403b62b599dc51be547]: Commencement: Sch. 3 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9ebe7f1e40a18403b62b599dc51be547]: Commencement: Sch. 3 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-0a7bfa4e21fcc9c076f28b4ebb2a8dda]: Commencement: Sch. 3 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0a7bfa4e21fcc9c076f28b4ebb2a8dda]: Commencement: Sch. 3 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-e97ca429c452eb734346fe9f73d8163f]: Commencement: Sch. 3 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e97ca429c452eb734346fe9f73d8163f]: Commencement: Sch. 3 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-001c5c05ccabc3829476ac49983cab0e]: Commencement: Sch. 3 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-001c5c05ccabc3829476ac49983cab0e]: Commencement: Sch. 3 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-5d03dd2a2e99419dc99944b04f976598]: Commencement: Sch. 3 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5d03dd2a2e99419dc99944b04f976598]: Commencement: Sch. 3 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-ad2387e45d91024318e977755e917054]: Commencement: Sch. 3 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ad2387e45d91024318e977755e917054]: Commencement: Sch. 3 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-52cef0007af4bacb21a8629004c22c50]: Commencement: Sch. 3 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-52cef0007af4bacb21a8629004c22c50]: Commencement: Sch. 3 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-bba66f0e2573282516fc68b9c0f497f1]: Commencement: Sch. 3 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-bba66f0e2573282516fc68b9c0f497f1]: Commencement: Sch. 3 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-fc0630d92b9e70671322881f46031daa]: Commencement: Sch. 3 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-fc0630d92b9e70671322881f46031daa]: Commencement: Sch. 3 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-1f2285113b62a9749b590645603d449e]: Commencement: Sch. 3 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1f2285113b62a9749b590645603d449e]: Commencement: Sch. 3 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-4520a7265340f251ee4e6fd754ce1ab7]: Commencement: Sch. 3 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4520a7265340f251ee4e6fd754ce1ab7]: Commencement: Sch. 3 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00105]: Footnote: [S.I. 2021/1459 (W. 374)](https://www.legislation.gov.uk/wsi/2021/1459). Rule 3 was amended by [S.I. 2022/263 (W. 79)](https://www.legislation.gov.uk/wsi/2022/263) and [S.I. 2023/1064 (W. 180)](https://www.legislation.gov.uk/wsi/2023/1064). Schedule 2 was amended by [S.I. 2023/1064 (W. 180)](https://www.legislation.gov.uk/wsi/2023/1064).
 
-[^key-b68d7559eeda03ad7df2997327e2bab8]: Commencement: Sch. 3 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-b68d7559eeda03ad7df2997327e2bab8]: Commencement: Sch. 3 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-5653d72636cc1f1a052de501fdc14847]: Commencement: Sch. 3 para. 24 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5653d72636cc1f1a052de501fdc14847]: Commencement: Sch. 3 para. 24 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-4a38d14d234cce9d711520c928476549]: Commencement: Sch. 3 para. 25 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4a38d14d234cce9d711520c928476549]: Commencement: Sch. 3 para. 25 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-33d1295a971c805da2aee83e4fb26b82]: Commencement: Sch. 3 para. 26 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-33d1295a971c805da2aee83e4fb26b82]: Commencement: Sch. 3 para. 26 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00106]: Footnote: [S.I. 2021/1460 (W. 375)](https://www.legislation.gov.uk/wsi/2021/1460).
 
-[^key-8b3ba80fc2bc3dba69840df1a32b708a]: Commencement: Sch. 3 para. 27 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8b3ba80fc2bc3dba69840df1a32b708a]: Commencement: Sch. 3 para. 27 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-de0c2b37cfb19bd62ffd328ed7f6d184]: Commencement: Sch. 3 para. 28 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-de0c2b37cfb19bd62ffd328ed7f6d184]: Commencement: Sch. 3 para. 28 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-92a01a4b03ec97a5425b8c9bb417f0b4]: Commencement: Sch. 3 para. 29 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-92a01a4b03ec97a5425b8c9bb417f0b4]: Commencement: Sch. 3 para. 29 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

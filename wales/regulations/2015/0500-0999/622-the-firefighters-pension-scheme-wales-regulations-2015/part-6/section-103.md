@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Meaning of “annualised final pay”[^key-109e17acf7cde8a2c1c8eec72c3469b2]
+## 103. Meaning of “annualised final pay”[^c-109e17acf7cde8a2c1c8eec72c3469b2]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-109e17acf7cde8a2c1c8eec72c3469b2]: Commencement: Reg. 103 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-109e17acf7cde8a2c1c8eec72c3469b2]: Commencement: Reg. 103 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

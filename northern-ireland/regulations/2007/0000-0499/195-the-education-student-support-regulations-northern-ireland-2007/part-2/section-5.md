@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Eligible students[^key-bb90e162abfe36555c0feedd18cb6694]
+## 5. Eligible students[^c-bb90e162abfe36555c0feedd18cb6694]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 (6) An eligible student in respect of whom the first academic year of the specified designated course begins on or after 1st September 2000 may not, at any one time, qualify for support for—
 
 - (a) more than one designated course;
-- (aa)[^key-b121e2991b0818e3bb8c701ff619205b] a designated course and a designated distance learning course;
+- (aa)[^c-b121e2991b0818e3bb8c701ff619205b] a designated course and a designated distance learning course;
 - (b) a designated course and a designated part-time course;
 - (c) a designated course and a designated postgraduate course.
 
@@ -71,7 +71,7 @@ summary: ''
 - (b) the person’s status as an eligible part-time student or as an eligible student in connection with the course referred to in sub-paragraph (a) has been converted or transferred from that course to the current course as a result of one or more conversions or transfers in accordance with regulations made by the Department under Article 3 of the Order; and
 - (c) the person’s status as an eligible student has not terminated.
 
-(11)[^key-2a2388ba3d33f165373e4ad5c22074bd] Where—
+(11)[^c-2a2388ba3d33f165373e4ad5c22074bd] Where—
 
 - (a) the Department determined that, by virtue of being a refugee or the spouse, civil partner, child or step-child of a refugee, a person (“A”) was—
   - (i) an eligible student in connection with an application for support for an earlier year of the current course, an application for support for a course in relation to which the current course is an end-on course or an application for support in connection with a designated part-time course, designated distance learning course or other designated course from which his status as an eligible part-time student, eligible distance learning student or eligible student has been transferred to the current course; or
@@ -80,7 +80,7 @@ summary: ''
 
 A’s status as an eligible or qualifying student terminates immediately before the first day of the academic year in respect of which he is applying for support.
 
-(12)[^key-51ca78666d1cfce95b52bc03570e8a94] Where—
+(12)[^c-51ca78666d1cfce95b52bc03570e8a94] Where—
 
 - (a) the Department determined that, by virtue of being a person with leave to enter or remain or the spouse, civil partner, child or step-child of such a person, a person (“A”) was—
   - (i) an eligible student in connection with an application for support for an earlier year of the current course, an application for support for a course in relation to which the current course is an end-on course or an application for support in connection with a designated part-time course, designated distance learning course or other designated course from which his status as an eligible part-time student, eligible distance learning student or eligible student has been transferred to the current course; or
@@ -93,12 +93,12 @@ A’s status as an eligible or qualifying student terminates immediately before 
 
 ## Annotations
 
-[^key-bb90e162abfe36555c0feedd18cb6694]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/195/regulation/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-bb90e162abfe36555c0feedd18cb6694]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/195/regulation/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00035]: Footnote: [S.I. 1992/580](https://www.legislation.gov.uk/uksi/1992/580), amended by [S.S.I. 2002/423](https://www.legislation.gov.uk/ssi/2002/423), [S.S.I. 2003/401](https://www.legislation.gov.uk/ssi/2003/401) and [S.S.I. 2006/323](https://www.legislation.gov.uk/ssi/2006/323)
 
-[^key-b121e2991b0818e3bb8c701ff619205b]: Textual amendment: [Reg. 5(6)(aa)](https://www.legislation.gov.uk/nisr/2007/195/regulation/5/6/aa) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/5/2)
+[^c-b121e2991b0818e3bb8c701ff619205b]: Textual amendment: [Reg. 5(6)(aa)](https://www.legislation.gov.uk/nisr/2007/195/regulation/5/6/aa) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/5/2)
 
-[^key-2a2388ba3d33f165373e4ad5c22074bd]: Textual amendment: [Reg. 5(11)](https://www.legislation.gov.uk/nisr/2007/195/regulation/5/11) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/5/3)
+[^c-2a2388ba3d33f165373e4ad5c22074bd]: Textual amendment: [Reg. 5(11)](https://www.legislation.gov.uk/nisr/2007/195/regulation/5/11) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/5/3)
 
-[^key-51ca78666d1cfce95b52bc03570e8a94]: Textual amendment: [Reg. 5(12)](https://www.legislation.gov.uk/nisr/2007/195/regulation/5/12) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2007/363/regulation/5)
+[^c-51ca78666d1cfce95b52bc03570e8a94]: Textual amendment: [Reg. 5(12)](https://www.legislation.gov.uk/nisr/2007/195/regulation/5/12) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2007/363/regulation/5)

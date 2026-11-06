@@ -48,7 +48,7 @@ Coming into force in accordance with regulation 1(2)
 
 In accordance with section 21 of that Act, the Secretary of State has consulted the representatives of such persons as appear to the Secretary of State likely to be affected by these Regulations.
 
-In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^key-703252c9c9f749ec871301b93feca700]
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^c-703252c9c9f749ec871301b93feca700]
 
 ## Contents
 
@@ -591,4 +591,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22420861]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-703252c9c9f749ec871301b93feca700]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/512) restricted (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations 2023 (S.I. 2023/871)](https://www.legislation.gov.uk/uksi/2023/871), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/871/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/871/regulation/30)
+[^c-703252c9c9f749ec871301b93feca700]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/512) restricted (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations 2023 (S.I. 2023/871)](https://www.legislation.gov.uk/uksi/2023/871), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/871/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/871/regulation/30)

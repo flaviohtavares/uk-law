@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Behaviour management, discipline and restraint[^key-d86bd6000471e3c95d00d0f49ab736f7]
+## 16. Behaviour management, discipline and restraint[^c-d86bd6000471e3c95d00d0f49ab736f7]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d86bd6000471e3c95d00d0f49ab736f7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/176/regulation/16) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-d86bd6000471e3c95d00d0f49ab736f7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/176/regulation/16) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

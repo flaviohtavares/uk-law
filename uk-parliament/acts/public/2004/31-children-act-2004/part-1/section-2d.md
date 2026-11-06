@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2D. Provision of advice and assistance to certain children in England[^key-7358a60390260fc5a25305e28024b1cf]
+## 2D. Provision of advice and assistance to certain children in England[^c-7358a60390260fc5a25305e28024b1cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7358a60390260fc5a25305e28024b1cf]: Textual amendment: S. 2D inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 108](https://www.legislation.gov.uk/ukpga/2014/6/section/108), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-7358a60390260fc5a25305e28024b1cf]: Textual amendment: S. 2D inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 108](https://www.legislation.gov.uk/ukpga/2014/6/section/108), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

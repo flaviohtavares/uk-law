@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Advance awards[^key-9c447d56e613ed55c607fa3249db038b]
+## 146. Advance awards[^c-9c447d56e613ed55c607fa3249db038b]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The conditions are that—
 
 - (a) the Department is of the opinion that unless there is a change of circumstances the claimant will satisfy the conditions set out in section 1(3)(b) to (f) of, and Part 2 of Schedule 1 to, the Act when an income-related allowance becomes payable under the award; and
-- (b) the claimant is treated as having limited capability for work in accordance with regulation 20, 25, 26, 30[^key-e5a52ce03ad799fdf816e7c9dedc40bd] or 33(2) for the period before an income-related allowance becomes payable under the award.
+- (b) the claimant is treated as having limited capability for work in accordance with regulation 20, 25, 26, 30[^c-e5a52ce03ad799fdf816e7c9dedc40bd] or 33(2) for the period before an income-related allowance becomes payable under the award.
 
 (3) Where an award is made under paragraph (1)—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c447d56e613ed55c607fa3249db038b]: Commencement: [Reg. 146](https://www.legislation.gov.uk/nisr/2008/280/regulation/146) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-9c447d56e613ed55c607fa3249db038b]: Commencement: [Reg. 146](https://www.legislation.gov.uk/nisr/2008/280/regulation/146) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-e5a52ce03ad799fdf816e7c9dedc40bd]: Textual amendment: Word in [reg. 146(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/146/2/b) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(26)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/26)
+[^c-e5a52ce03ad799fdf816e7c9dedc40bd]: Textual amendment: Word in [reg. 146(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/146/2/b) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(26)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/26)

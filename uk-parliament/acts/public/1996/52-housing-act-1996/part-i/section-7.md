@@ -24,7 +24,7 @@ Schedule 1 has effect for the regulation of registered social landlords.
 
 - Part I relates to the control of payments to members and similar matters.
 - Part II relates to the constitution, change of rules, amalgamation or dissolution of a registered social landlord.
-- Part 3A relates to inspection. *(Extent: W)*[^key-069ae1e36dbd757f3d50e74632a8e78e]
+- Part 3A relates to inspection. *(Extent: W)*[^c-069ae1e36dbd757f3d50e74632a8e78e]
 - Part III relates to accounts and audit.
 - Part IV relates to inquiries into the affairs of a registered social landlord.
 
@@ -34,4 +34,4 @@ Schedule 1 has effect for the regulation of registered social landlords.
 
 [^c13147211]: Commencement: S. 7 wholly in force 1.10.1996; s. 7 not in force at Royal Assent see s. 232(1)-(3); s. 7 in force for certain purposes at 1.8.1996 by [S.I. 1996/2048](https://www.legislation.gov.uk/uksi/1996/2048), [arts. 2](https://www.legislation.gov.uk/uksi/1996/2048/article/2), [3](https://www.legislation.gov.uk/uksi/1996/2048/article/3); s. 7 in force at 1.10.1996 to the extent it is not already in force by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (with transitional provisions and savings in the Sch. to that S.I.)
 
-[^key-069ae1e36dbd757f3d50e74632a8e78e]: Textual amendment: Words in s. 7 inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [s. 90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2), [Sch. para. 3](https://www.legislation.gov.uk/mwa/2011/5/schedule/paragraph/3); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(u)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/u)
+[^c-069ae1e36dbd757f3d50e74632a8e78e]: Textual amendment: Words in s. 7 inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [s. 90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2), [Sch. para. 3](https://www.legislation.gov.uk/mwa/2011/5/schedule/paragraph/3); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(u)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/u)

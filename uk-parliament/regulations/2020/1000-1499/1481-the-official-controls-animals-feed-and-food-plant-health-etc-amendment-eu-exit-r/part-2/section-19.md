@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendments to Title 4[^key-0d1cb67d7f2d8ce729da29e4c043cfda]
+## 19. Amendments to Title 4[^c-0d1cb67d7f2d8ce729da29e4c043cfda]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1cb67d7f2d8ce729da29e4c043cfda]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-0d1cb67d7f2d8ce729da29e4c043cfda]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

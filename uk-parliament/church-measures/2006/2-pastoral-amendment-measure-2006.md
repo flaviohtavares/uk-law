@@ -29,15 +29,15 @@ Pastoral (Amendment) Measure 2006 (repealed)
 
 2006 No. 2
 
-[^key-ec94b38f26a268bb3ce0c15dd1b8ac62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec94b38f26a268bb3ce0c15dd1b8ac62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Amendment of section 56 of Pastoral Measure 1983[^key-ec94b38f26a268bb3ce0c15dd1b8ac62][^key-ec94b38f26a268bb3ce0c15dd1b8ac62]
+## 1. Amendment of section 56 of Pastoral Measure 1983[^c-ec94b38f26a268bb3ce0c15dd1b8ac62][^c-ec94b38f26a268bb3ce0c15dd1b8ac62]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation, commencement and extent[^key-ec94b38f26a268bb3ce0c15dd1b8ac62][^key-ec94b38f26a268bb3ce0c15dd1b8ac62]
+## 2. Citation, commencement and extent[^c-ec94b38f26a268bb3ce0c15dd1b8ac62][^c-ec94b38f26a268bb3ce0c15dd1b8ac62]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Pastoral (Amendment) Measure 2006 (repealed)
 
 ## Annotations
 
-[^key-ec94b38f26a268bb3ce0c15dd1b8ac62]: Textual amendment: Measure repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); Instrument dated 2.5.2012 made by Archbishops, para. 2
+[^c-ec94b38f26a268bb3ce0c15dd1b8ac62]: Textual amendment: Measure repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); Instrument dated 2.5.2012 made by Archbishops, para. 2

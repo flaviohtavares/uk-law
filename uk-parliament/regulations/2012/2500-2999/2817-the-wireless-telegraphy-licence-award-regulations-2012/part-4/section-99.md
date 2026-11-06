@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Extension to assignment stage round[^key-e7505d15e823cfb10365a640080bafda]
+## 99. Extension to assignment stage round[^c-e7505d15e823cfb10365a640080bafda]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the time by which the bidder’s completed assignment stage bid form must be rec
 
 ## Annotations
 
-[^key-e7505d15e823cfb10365a640080bafda]: Commencement: Reg. 99 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e7505d15e823cfb10365a640080bafda]: Commencement: Reg. 99 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

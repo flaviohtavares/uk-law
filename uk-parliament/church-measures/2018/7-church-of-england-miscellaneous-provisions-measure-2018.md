@@ -35,7 +35,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## The Church Commissioners
 
-### 1. Power to make grants to Archbishops' Council[^key-cc8b82c94daf378d15fbadc39ee99a8d]
+### 1. Power to make grants to Archbishops' Council[^c-cc8b82c94daf378d15fbadc39ee99a8d]
 
 The Church Commissioners may make grants out of their general fund to the Archbishops' Council for the purposes of the Council's functions.
 
@@ -81,7 +81,7 @@ The Church Commissioners may make grants out of their general fund to the Archbi
 
 ## Church services
 
-### 3. Marriage: licensing chapel during suspension period in benefice[^key-ef6b1d03228777ce044ea77d7ef107e1]
+### 3. Marriage: licensing chapel during suspension period in benefice[^c-ef6b1d03228777ce044ea77d7ef107e1]
 
 In section 20 of the Marriage Act 1949 (licensing public chapel for publication of banns and solemnization of marriages), after subsection (7) insert—
 
@@ -89,49 +89,49 @@ In section 20 of the Marriage Act 1949 (licensing public chapel for publication 
 
 ### 4. Funerals: conduct
 
-(1)[^key-d2d92ed036c636aa926a85c5477346a5] A clerk in Holy Orders who is authorised to officiate in accordance with the Canons of the Church of England may perform a funeral service in a crematorium, cemetery or other place which is not a church or churchyard, and in which the clerk would not otherwise be entitled to perform the service, if—
+(1)[^c-d2d92ed036c636aa926a85c5477346a5] A clerk in Holy Orders who is authorised to officiate in accordance with the Canons of the Church of England may perform a funeral service in a crematorium, cemetery or other place which is not a church or churchyard, and in which the clerk would not otherwise be entitled to perform the service, if—
 
 - (a) the persons concerned have asked the clerk to perform the service, and
 - (b) the clerk has, so far as practicable, informed the relevant minister and sought his or her goodwill.
 
-(1A)[^key-21a280d0daf03732c26b6b0a7d2bcc8d] A duly authorised deaconess, reader or lay worker (a “lay office-holder”) may, with the consent of the incumbent or priest-in-charge of the benefice or parish to which the lay office-holder is licensed, perform a funeral service in a crematorium, cemetery or other place which is not a church or churchyard, and in which the lay office-holder would not otherwise be entitled to perform the service, if—
+(1A)[^c-21a280d0daf03732c26b6b0a7d2bcc8d] A duly authorised deaconess, reader or lay worker (a “lay office-holder”) may, with the consent of the incumbent or priest-in-charge of the benefice or parish to which the lay office-holder is licensed, perform a funeral service in a crematorium, cemetery or other place which is not a church or churchyard, and in which the lay office-holder would not otherwise be entitled to perform the service, if—
 
 - (a) the persons concerned have asked the lay office-holder to perform the service, and
 - (b) the lay office-holder has, so far as practicable, informed the relevant minister and sought his or her goodwill.
 
 (1B) The reference in subsection (1A) to the incumbent or priest-in-charge of the benefice or parish is, where there is no such person, to be read as a reference to the rural dean of the deanery in which the benefice or parish is situated.
 
-(2)[^key-d2d92ed036c636aa926a85c5477346a5] The “relevant minister” is—
+(2)[^c-d2d92ed036c636aa926a85c5477346a5] The “relevant minister” is—
 
 - (a) the minister of the parish on whose electoral roll the deceased's name was entered, or
 - (b) if the deceased's name was not entered on the electoral roll of a parish or the persons concerned do not know whether it was, the minister of the parish which included the deceased's usual place of residence.
 
-(3)[^key-d2d92ed036c636aa926a85c5477346a5] The performance of a funeral service in accordance with subsection (1) or (1A)[^key-2d677a244232abcb8e55bf8f74eded73] does not require the consent, and is not subject to the control, of the minister of the parish in which the service is performed.
+(3)[^c-d2d92ed036c636aa926a85c5477346a5] The performance of a funeral service in accordance with subsection (1) or (1A)[^c-2d677a244232abcb8e55bf8f74eded73] does not require the consent, and is not subject to the control, of the minister of the parish in which the service is performed.
 
-(4)[^key-d2d92ed036c636aa926a85c5477346a5] In subsections (1) and (1A)[^key-1ba9254fcddda9a169ce5abeaebe6087], “church” and “churchyard” each have the same meaning as they have in relation to a funeral service in the Ecclesiastical Fees Measure 1986 (see section 10 of that Measure).
+(4)[^c-d2d92ed036c636aa926a85c5477346a5] In subsections (1) and (1A)[^c-1ba9254fcddda9a169ce5abeaebe6087], “church” and “churchyard” each have the same meaning as they have in relation to a funeral service in the Ecclesiastical Fees Measure 1986 (see section 10 of that Measure).
 
-(5)[^key-d2d92ed036c636aa926a85c5477346a5] In section 2 of the Church of England (Miscellaneous Provisions) Measure 1992 (conduct of funeral services), in subsection (2), after “may perform” insert “ or arrange the performance of ”.
+(5)[^c-d2d92ed036c636aa926a85c5477346a5] In section 2 of the Church of England (Miscellaneous Provisions) Measure 1992 (conduct of funeral services), in subsection (2), after “may perform” insert “ or arrange the performance of ”.
 
-(6)[^key-d2d92ed036c636aa926a85c5477346a5] In subsection (4) of that section, after “be under the same obligation” insert “ (subject to subsection (4A)) ”.
+(6)[^c-d2d92ed036c636aa926a85c5477346a5] In subsection (4) of that section, after “be under the same obligation” insert “ (subject to subsection (4A)) ”.
 
-(7)[^key-d2d92ed036c636aa926a85c5477346a5] After that subsection insert—
+(7)[^c-d2d92ed036c636aa926a85c5477346a5] After that subsection insert—
 
 > (4A) Each of the following may perform a funeral service under an arrangement made under subsection (2) or (4)—
 >
 > - (a) a clerk in Holy Orders who is authorised to officiate in accordance with the Canons of the Church of England;
 > - (b) a duly authorised deaconess, reader or lay worker.
 
-(8)[^key-afc4deeea764010c976d958829d8d17a] The first rubric at the beginning of the Order for the Burial of the Dead in the Book of Common Prayer (which notes that the Order may not be used if the deceased is unbaptised, excommunicate or a suicide of sound mind) is omitted.
+(8)[^c-afc4deeea764010c976d958829d8d17a] The first rubric at the beginning of the Order for the Burial of the Dead in the Book of Common Prayer (which notes that the Order may not be used if the deceased is unbaptised, excommunicate or a suicide of sound mind) is omitted.
 
 ## Ecclesiastical offices
 
-### 5. Bishops: delegation of functions to other bishops[^key-a827f14b5fe64d54e11c7807e45600eb]
+### 5. Bishops: delegation of functions to other bishops[^c-a827f14b5fe64d54e11c7807e45600eb]
 
 It is hereby declared for the avoidance of doubt that the bishop of a diocese may, by virtue of the jurisdiction as Ordinary under Canon C 18, commit to another bishop of the Church of England the exercise of a function which is not conferred or imposed by or under an Act of Parliament or Measure.
 
 ### 6. Terms of service[^c23537421]
 
-(1)[^key-652a77230a67bd83a30c265f8b2bcaee] In section 1 of the Ecclesiastical Offices (Age Limit) Measure 1975 (age limit for appointment to certain ecclesiastical offices), after subsection (3A) insert—
+(1)[^c-652a77230a67bd83a30c265f8b2bcaee] In section 1 of the Ecclesiastical Offices (Age Limit) Measure 1975 (age limit for appointment to certain ecclesiastical offices), after subsection (3A) insert—
 
 > (3B) Neither subsection (1) nor subsection (3) shall apply to an office held under a contract of employment.
 
@@ -143,7 +143,7 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 - (b) in subsection (2)(a), after “section 3(1) of the Ecclesiastical Offices (Age Limit) Measure 1975” insert “ or regulation 29A of the Ecclesiastical Offices (Terms of Service) Regulations 2009 ”, and
 - (c) in subsection (2)(b), after “that section” insert “ or regulation ”.
 
-(4)[^key-652a77230a67bd83a30c265f8b2bcaee] For section 11 of the Church of England (Miscellaneous Provisions) Measure 1992 substitute—
+(4)[^c-652a77230a67bd83a30c265f8b2bcaee] For section 11 of the Church of England (Miscellaneous Provisions) Measure 1992 substitute—
 
 > **11. Resignation of incumbents**
 >
@@ -155,9 +155,9 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 >
 > (4) For the provision that applies in the case of an incumbent who holds office under common tenure, see section 3 of the Ecclesiastical Offices (Terms of Service) Measure 2009 (which requires the bishop to be given three months' written notice).
 
-(5)[^key-652a77230a67bd83a30c265f8b2bcaee] In consequence of subsection (4), Schedule 2 to the Church of England (Miscellaneous Provisions) Measure 1992 (form for resignation by incumbent) is repealed.
+(5)[^c-652a77230a67bd83a30c265f8b2bcaee] In consequence of subsection (4), Schedule 2 to the Church of England (Miscellaneous Provisions) Measure 1992 (form for resignation by incumbent) is repealed.
 
-(6)[^key-652a77230a67bd83a30c265f8b2bcaee] In section 1 of the Ecclesiastical Offices (Terms of Service) Measure 2009, after subsection (1) insert—
+(6)[^c-652a77230a67bd83a30c265f8b2bcaee] In section 1 of the Ecclesiastical Offices (Terms of Service) Measure 2009, after subsection (1) insert—
 
 > (1A) The reference in subsection (1)(h) to emoluments of office does not include a reference to fees which, pursuant to a decision of the Diocesan Board of Finance, have been paid to a deaconess, reader or lay worker in respect of a matter set out in Schedule A1 to the Ecclesiastical Fees Measure 1986.
 
@@ -167,9 +167,9 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 (8) In section 3 of that Measure (duration of appointments), in subsection (3)(b), after “section 2 or 3 of that Measure” insert “ or in provision made by regulations under section 2 of this Measure ”.
 
-(9)[^key-652a77230a67bd83a30c265f8b2bcaee] In regulation 5 of the Ecclesiastical Offices (Terms of Service) Regulations 2009 (S.I. 2009/2108) (note in statement of particulars), omit paragraph (3) (which relates to pensions and contracted-out employment).
+(9)[^c-652a77230a67bd83a30c265f8b2bcaee] In regulation 5 of the Ecclesiastical Offices (Terms of Service) Regulations 2009 (S.I. 2009/2108) (note in statement of particulars), omit paragraph (3) (which relates to pensions and contracted-out employment).
 
-(10)[^key-652a77230a67bd83a30c265f8b2bcaee] For regulation 23 of those Regulations substitute—
+(10)[^c-652a77230a67bd83a30c265f8b2bcaee] For regulation 23 of those Regulations substitute—
 
 > **23. Maternity, parental, adoption etc. leave and time off for carers**
 >
@@ -197,22 +197,22 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 > - “**dependant**”, in relation to an office-holder, means any person who would, if the office-holder were an employee for the purposes of the Employment Rights Act 1996, be a dependant within the meaning of section 57A of that Act, and
 > - “**shared parental leave**” means leave under section 75E or 75G of that Act.
 
-(11)[^key-652a77230a67bd83a30c265f8b2bcaee] In consequence of subsection (10), the following are revoked—
+(11)[^c-652a77230a67bd83a30c265f8b2bcaee] In consequence of subsection (10), the following are revoked—
 
 - (a) the Ecclesiastical Offices (Terms of Service) Directions 2010 (S.I. 2010/1923);
 - (b) the Ecclesiastical Offices (Terms of Service) (Amendment) Directions 2015 (S.I. 2015/1612).
 
 (12) The amendments made by subsections (2), (3), (7) and (8) are to be treated as having always had effect.
 
-(13)[^key-652a77230a67bd83a30c265f8b2bcaee] Section 2 of the Ecclesiastical Offices (Terms of Service) Measure 2009 is to be regarded as having always, until the commencement of subsections (10) and (11) of this section, enabled regulations under that section to confer power on the Archbishops' Council to make directions and to enable directions made under that power to provide for the exercise of a discretion.
+(13)[^c-652a77230a67bd83a30c265f8b2bcaee] Section 2 of the Ecclesiastical Offices (Terms of Service) Measure 2009 is to be regarded as having always, until the commencement of subsections (10) and (11) of this section, enabled regulations under that section to confer power on the Archbishops' Council to make directions and to enable directions made under that power to provide for the exercise of a discretion.
 
-(14)[^key-652a77230a67bd83a30c265f8b2bcaee] The amendment made by subsection (10) does not affect the power to make further regulations amending or revoking the provision made by that amendment.
+(14)[^c-652a77230a67bd83a30c265f8b2bcaee] The amendment made by subsection (10) does not affect the power to make further regulations amending or revoking the provision made by that amendment.
 
-(15)[^key-652a77230a67bd83a30c265f8b2bcaee] Section 13 of the Mission and Pastoral etc. (Amendment) Measure 2018 (which makes redundant provision about appointments after retirement age) is repealed.
+(15)[^c-652a77230a67bd83a30c265f8b2bcaee] Section 13 of the Mission and Pastoral etc. (Amendment) Measure 2018 (which makes redundant provision about appointments after retirement age) is repealed.
 
 ## Ecclesiastical jurisdiction
 
-### 7. Provincial courts: decisions to be treated as taken by each Court[^key-9304d1fc49fc2f78ad79241f2007aa8c]
+### 7. Provincial courts: decisions to be treated as taken by each Court[^c-9304d1fc49fc2f78ad79241f2007aa8c]
 
 (1) After section 14 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018, insert—
 
@@ -239,19 +239,19 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 ### 8. Fees[^c23537431]
 
-(1)[^key-a4656c5396527ad45f400cb13848bfa6] In section 1 of the Ecclesiastical Fees Measure 1986 (parochial fees orders), in subsection (1), for “licensed” substitute “ authorised ”.
+(1)[^c-a4656c5396527ad45f400cb13848bfa6] In section 1 of the Ecclesiastical Fees Measure 1986 (parochial fees orders), in subsection (1), for “licensed” substitute “ authorised ”.
 
-(2)[^key-38f44a51925bfdfba20d2b0a9297b091] After subsection (1) of that section insert—
+(2)[^c-38f44a51925bfdfba20d2b0a9297b091] After subsection (1) of that section insert—
 
 > (1A) Subsection (1) does not apply to matters which relate to duties carried out in the course of employment by a university, college, school, hospital or public or charitable institution.
 
-(3)[^key-a4656c5396527ad45f400cb13848bfa6] In the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (“**the 2018 Measure**”), in section 84 (Fees Advisory Commission: continuation and membership), in subsection (2), for paragraph (a) substitute—
+(3)[^c-a4656c5396527ad45f400cb13848bfa6] In the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (“**the 2018 Measure**”), in section 84 (Fees Advisory Commission: continuation and membership), in subsection (2), for paragraph (a) substitute—
 
 > - (a) one person who is a diocesan or suffragan bishop nominated by the House of Bishops (regardless of whether that person is a member of that House);
 
 .
 
-(4)[^key-a4656c5396527ad45f400cb13848bfa6] In section 85 of the 2018 Measure (Fees Advisory Commission: procedure), after subsection (5) insert—
+(4)[^c-a4656c5396527ad45f400cb13848bfa6] In section 85 of the 2018 Measure (Fees Advisory Commission: procedure), after subsection (5) insert—
 
 > (5A) If the chair of the Commission considers that it has business which can properly be conducted by correspondence, the chair may arrange for written proposals requiring the Commission's approval to be circulated to members.
 >
@@ -289,7 +289,7 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 >
 > (1D) The requirement under paragraph (1) for the General Synod to meet in session at least twice a year shall not apply in so far as a failure to satisfy the requirement is attributable to a cancellation under paragraph (1A) or (1B).
 
-(3)[^key-fd54f0db58ecadb43db268e8382dc938] In Article 10 (appointment of committees), in paragraph (3), for “of their members” substitute “ , which may include persons who are not members of that House, ”.
+(3)[^c-fd54f0db58ecadb43db268e8382dc938] In Article 10 (appointment of committees), in paragraph (3), for “of their members” substitute “ , which may include persons who are not members of that House, ”.
 
 (4) Each of the powers under Article 3(1) of the Constitution is to be regarded as having always, until the commencement of subsection (2), included a power to cancel a meeting which had been provided for or directed under Article 3(1); and the requirement under Article 3(1) for the Synod to meet in session at least twice a year is to be regarded as not having applied in so far as a failure to satisfy the requirement was attributable to such a cancellation.
 
@@ -303,23 +303,23 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 (2) Subsection (1) is to be regarded as having always had effect.
 
-(3)[^key-88c858698568b358fd02b08b15f4c2d8] The Schedule (which makes amendments to the Church of England (Legal Aid) Rules 1995) has effect.
+(3)[^c-88c858698568b358fd02b08b15f4c2d8] The Schedule (which makes amendments to the Church of England (Legal Aid) Rules 1995) has effect.
 
-(4)[^key-88c858698568b358fd02b08b15f4c2d8] The amendments made by that Schedule do not affect the power to make further rules amending or revoking the provision made by those amendments.
+(4)[^c-88c858698568b358fd02b08b15f4c2d8] The amendments made by that Schedule do not affect the power to make further rules amending or revoking the provision made by those amendments.
 
 ### 11. Execution of documents[^c23537461]
 
-(1)[^key-f55825d1cef77ecc88371a4deccd74b5] In section 9 of the Church Commissioners Measure 1947 (sealing and execution of documents), after subsection (3) insert—
+(1)[^c-f55825d1cef77ecc88371a4deccd74b5] In section 9 of the Church Commissioners Measure 1947 (sealing and execution of documents), after subsection (3) insert—
 
 > (3A) A document which is signed by two officers of the Commissioners authorised by the Board for that purpose, and which is expressed (in whatever form of words) to be signed on behalf of the Commissioners, shall have the same effect as if executed under the common seal of the Commissioners.
 >
 > (3B) An authorisation under subsection (3A) shall have effect subject to such limitations or conditions as may be specified in it.
 
-(2)[^key-f55825d1cef77ecc88371a4deccd74b5] In subsection (5) of that section, for “signed by two members of the Board” substitute “ signed in accordance with subsection (3) or (3A) ”.
+(2)[^c-f55825d1cef77ecc88371a4deccd74b5] In subsection (5) of that section, for “signed by two members of the Board” substitute “ signed in accordance with subsection (3) or (3A) ”.
 
-(3)[^key-c2d6abebc793684ee38664cebb22e0e4][^key-f55825d1cef77ecc88371a4deccd74b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c2d6abebc793684ee38664cebb22e0e4][^c-f55825d1cef77ecc88371a4deccd74b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f55825d1cef77ecc88371a4deccd74b5] In Schedule 1 to the National Institutions Measure 1998 (Archbishops' Council: constitution), after paragraph 12 insert—
+(4)[^c-f55825d1cef77ecc88371a4deccd74b5] In Schedule 1 to the National Institutions Measure 1998 (Archbishops' Council: constitution), after paragraph 12 insert—
 
 > **12A.**
 >
@@ -333,7 +333,7 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 >
 > (5) In favour of a person who in good faith acquires an interest in property for valuable consideration, a document shall be deemed to have been duly executed by the Council if it purports to be signed in accordance with sub-paragraph (1) or (2).
 
-(5)[^key-f55825d1cef77ecc88371a4deccd74b5] In section 3 of the Parochial Church Councils (Powers) Measure 1956 (status of PCC as body corporate), the first sentence of which becomes subsection (1) and the second sentence of which becomes subsection (2), at the end insert—
+(5)[^c-f55825d1cef77ecc88371a4deccd74b5] In section 3 of the Parochial Church Councils (Powers) Measure 1956 (status of PCC as body corporate), the first sentence of which becomes subsection (1) and the second sentence of which becomes subsection (2), at the end insert—
 
 > (3) An instrument which is signed pursuant to a resolution of the council by two members of the council (whether or not they were present at the meeting at which the resolution was passed) and expressed (in whatever form of words) to be signed on behalf of the council, shall have the same effect as if executed under hands, or under hands and seals, as provided for in subsection (2).
 >
@@ -341,14 +341,14 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 >
 > (5) In favour of a person who in good faith acquires an interest in property for valuable consideration, a document shall be deemed to have been duly executed by the council if it purports to be signed in accordance with subsection (3).
 
-(6)[^key-f55825d1cef77ecc88371a4deccd74b5] A provision of a Measure (whether passed before or after the commencement of this section) enabling a relevant body to make an instrument or execute a document by applying its seal is also to have effect as enabling the body to make the instrument or execute the document by having it signed in accordance with the relevant provision; and the instrument or document is accordingly to be treated as sealed on the date on which it is so signed.
+(6)[^c-f55825d1cef77ecc88371a4deccd74b5] A provision of a Measure (whether passed before or after the commencement of this section) enabling a relevant body to make an instrument or execute a document by applying its seal is also to have effect as enabling the body to make the instrument or execute the document by having it signed in accordance with the relevant provision; and the instrument or document is accordingly to be treated as sealed on the date on which it is so signed.
 
-(7)[^key-f55825d1cef77ecc88371a4deccd74b5] For the purposes of subsection (6), each of the bodies specified in the first column of the Table below is a relevant body; and the relevant provision in the case of that body is the provision specified opposite in the second column—
+(7)[^c-f55825d1cef77ecc88371a4deccd74b5] For the purposes of subsection (6), each of the bodies specified in the first column of the Table below is a relevant body; and the relevant provision in the case of that body is the provision specified opposite in the second column—
 
 | *Relevant body* | *Relevant provision* |
 | --- | --- |
 | Church Commissioners | Section 9(3) or (3A) of the Church Commissioners Measure 1947. |
-| Church of England Pensions Board | In Schedule 1 to the Church of England Pensions Measure 2018, paragraph 11(3) or (4).[^key-a661dc94d1fad902dff9eb0f076eea08] |
+| Church of England Pensions Board | In Schedule 1 to the Church of England Pensions Measure 2018, paragraph 11(3) or (4).[^c-a661dc94d1fad902dff9eb0f076eea08] |
 | Archbishops' Council | In Schedule 1 to the National Institutions Measure 1998, paragraph 12A. |
 
 (8) In each of the following provisions relating to the sealing of instruments, for “comes into force when” substitute “ may not come into force unless ”
@@ -360,7 +360,7 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 (9) The amendments made by subsection (8) are to be regarded as having always had effect.
 
-### 12. Delegation and casual vacancies[^key-2ad2c6ff4f5a6e3602e45f9814b57183]
+### 12. Delegation and casual vacancies[^c-2ad2c6ff4f5a6e3602e45f9814b57183]
 
 (1) In section 37 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (diocesan advisory committees: functions), after subsection (9) insert—
 
@@ -376,11 +376,11 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 ## Charities
 
-### 13. Disqualification as trustee[^key-77d51c476690ea35505fb28ee9cd74a8]
+### 13. Disqualification as trustee[^c-77d51c476690ea35505fb28ee9cd74a8]
 
-(1)[^key-a7f265fc4c20a1eb4773ab17f3677775] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a7f265fc4c20a1eb4773ab17f3677775] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a7f265fc4c20a1eb4773ab17f3677775] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a7f265fc4c20a1eb4773ab17f3677775] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 2(1) of the Churchwardens Measure 2001 (disqualification as charity trustee)—
 
@@ -399,7 +399,7 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 (4) Section 8(1)(c) of that Measure (vacation of office on disqualification) applies in a case where a churchwarden is, immediately before the commencement of subsection (3), disqualified from being a charity trustee by an order under section 181A of the Charities Act 2011 (as well as in a case where a churchwarden becomes so disqualified after that commencement).
 
-### 14. Provision of services to PCC by member[^key-925c18c9352033eda8359ef77a5d3cc8]
+### 14. Provision of services to PCC by member[^c-925c18c9352033eda8359ef77a5d3cc8]
 
 (1) After section 7 of the Parochial Church Councils (Powers) Measure 1956 (“**the 1956 Measure**”) insert—
 
@@ -417,22 +417,22 @@ It is hereby declared for the avoidance of doubt that the bishop of a diocese ma
 
 ### 15. Pastoral schemes and orders: notice and approval, etc.
 
-(1)[^key-292b2f7141ae79a7aa96f5e0daadab56] In each of sections 9(3) and 24(3) of the Mission and Pastoral Measure 2011 (schemes and orders: notice), for paragraphs (b) and (c) substitute—
+(1)[^c-292b2f7141ae79a7aa96f5e0daadab56] In each of sections 9(3) and 24(3) of the Mission and Pastoral Measure 2011 (schemes and orders: notice), for paragraphs (b) and (c) substitute—
 
 > - (b) to make such arrangements as are practicable, in the case of each of those churches or buildings at which one or more services are to be held in the period in which representations may be made in accordance with the notice, for announcements to be made at the service or, if there is more than one held there in that period, at as many of them as is practicable with a view to ensuring that as many of those who habitually attend public worship there as is practicable are aware of the contents of the notice.
 
-(2)[^key-292b2f7141ae79a7aa96f5e0daadab56] In each of sections 11(4A) and 26(5) of that Measure (proposals included in deanery plan), for the words from “, shall seal a copy” to the end substitute “ and unless they consider that there are material considerations which indicate that it should not be made, shall comply with the duties imposed by subsection (2)(a) and (b); and references in this Measure to a notice under subsection (2) shall be read accordingly. ”
+(2)[^c-292b2f7141ae79a7aa96f5e0daadab56] In each of sections 11(4A) and 26(5) of that Measure (proposals included in deanery plan), for the words from “, shall seal a copy” to the end substitute “ and unless they consider that there are material considerations which indicate that it should not be made, shall comply with the duties imposed by subsection (2)(a) and (b); and references in this Measure to a notice under subsection (2) shall be read accordingly. ”
 
-(3)[^key-c3ec35fd9ca4bbc66baf69096fd04854] In each of sections 11(8) and 26(7) of that Measure (meaning of “deanery plan”), after “approved by the deanery synod of each deanery which would be affected by implementation of the plan” insert “ and by the mission and pastoral committee ”.
+(3)[^c-c3ec35fd9ca4bbc66baf69096fd04854] In each of sections 11(8) and 26(7) of that Measure (meaning of “deanery plan”), after “approved by the deanery synod of each deanery which would be affected by implementation of the plan” insert “ and by the mission and pastoral committee ”.
 
-(4)[^key-c3ec35fd9ca4bbc66baf69096fd04854] In section 28 of that Measure (application of provisions on pastoral schemes and orders to pastoral church buildings schemes), at the end insert “ ; and for that purpose, a reference in section 12 or Schedule 2 to a notice under section 11(2) includes a reference to a notice under section 26(2). ”
+(4)[^c-c3ec35fd9ca4bbc66baf69096fd04854] In section 28 of that Measure (application of provisions on pastoral schemes and orders to pastoral church buildings schemes), at the end insert “ ; and for that purpose, a reference in section 12 or Schedule 2 to a notice under section 11(2) includes a reference to a notice under section 26(2). ”
 
-(5)[^key-c3ec35fd9ca4bbc66baf69096fd04854] In Schedule 3 to that Measure (pastoral schemes and orders: supplementary provision), in paragraph 9 (church and parochial trusts) in sub-paragraph (10)—
+(5)[^c-c3ec35fd9ca4bbc66baf69096fd04854] In Schedule 3 to that Measure (pastoral schemes and orders: supplementary provision), in paragraph 9 (church and parochial trusts) in sub-paragraph (10)—
 
 - (a) after “fund” insert “ or ”, and
 - (b) for “section 76” substitute “ section 77 ”.
 
-### 16. Bishop's mission order[^key-474ea5226252908a9de1da71804cb098]
+### 16. Bishop's mission order[^c-474ea5226252908a9de1da71804cb098]
 
 (1) In section 82 of the Mission and Pastoral Measure 2011 (mission initiative: supplementary provision), in subsection (6), for the words from the beginning to “any such order” substitute “ An order varying a bishop's mission order ”.
 
@@ -479,7 +479,7 @@ Section 10
 
 ### Meetings and procedure of Legal Aid Commission
 
-**2.**[^key-777c8f88d3110fb53360db49abf91485] (1) In rule 5 (meetings and procedure of Legal Aid Commission), after paragraph (1) insert—
+**2.**[^c-777c8f88d3110fb53360db49abf91485] (1) In rule 5 (meetings and procedure of Legal Aid Commission), after paragraph (1) insert—
 
 > (1A) The Commission shall elect one of its members to carry out the following functions in any circumstances where the chairman is unable to do so—
 >
@@ -508,7 +508,7 @@ Section 10
 
 ### Electronic service of documents
 
-**3.**[^key-e36c9d1abf71f984a7e22636ead3fa3e] In rule 6 (service of notices etc.), in paragraph (1)—
+**3.**[^c-e36c9d1abf71f984a7e22636ead3fa3e] In rule 6 (service of notices etc.), in paragraph (1)—
 
 - (a) in the opening words, omit “either”,
 - (b) after sub-paragraph (a) (but before the following “or”) insert—
@@ -520,11 +520,11 @@ Section 10
 
 ### Casting vote for chairman on decision whether to grant or terminate legal aid
 
-**4.**[^key-6bb0bdffee129af15540f75713d437fa] In rule 11 (determination of application for legal aid), after paragraph (1) insert—
+**4.**[^c-6bb0bdffee129af15540f75713d437fa] In rule 11 (determination of application for legal aid), after paragraph (1) insert—
 
 > (1A) Where the Commission's decision on an application for legal aid is tied, the chairman is to have a second, casting vote.
 
-**5.**[^key-43e543b9f829af5029945041f47c437b] (1) In rule 15 (discharge or revocation of certificate), after paragraph (1) insert—
+**5.**[^c-43e543b9f829af5029945041f47c437b] (1) In rule 15 (discharge or revocation of certificate), after paragraph (1) insert—
 
 > (1A) Where the Commission's decision on the discharge or revocation of a certificate is tied, the chairman is to have a second, casting vote.
 
@@ -532,7 +532,7 @@ Section 10
 
 ### Assessment of costs
 
-**6.**[^key-a6fbcf0c3103540aaf05f6e1eaa22180] (1) In rule 26 (assessment of costs), after paragraph (4) insert—
+**6.**[^c-a6fbcf0c3103540aaf05f6e1eaa22180] (1) In rule 26 (assessment of costs), after paragraph (4) insert—
 
 > (4A) The power of the Commission under paragraph (3) or (4) to assess costs may be exercised by the chairman in consultation with the secretary in a case where—
 >
@@ -602,70 +602,70 @@ Section 10
 
 ## Annotations
 
-[^key-cc8b82c94daf378d15fbadc39ee99a8d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/7/section/1) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/a)
+[^c-cc8b82c94daf378d15fbadc39ee99a8d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/7/section/1) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/a)
 
-[^key-ef6b1d03228777ce044ea77d7ef107e1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/7/section/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/b)
+[^c-ef6b1d03228777ce044ea77d7ef107e1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/7/section/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/b)
 
-[^key-d2d92ed036c636aa926a85c5477346a5]: Commencement: S. 4(1)-(7) in force at 1.5.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
+[^c-d2d92ed036c636aa926a85c5477346a5]: Commencement: S. 4(1)-(7) in force at 1.5.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
 
-[^key-21a280d0daf03732c26b6b0a7d2bcc8d]: Textual amendment: S. 4(1A)(1B) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 3(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-21a280d0daf03732c26b6b0a7d2bcc8d]: Textual amendment: S. 4(1A)(1B) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 3(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-2d677a244232abcb8e55bf8f74eded73]: Textual amendment: Words in s. 4(3) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 3(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/3/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-2d677a244232abcb8e55bf8f74eded73]: Textual amendment: Words in s. 4(3) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 3(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/3/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-1ba9254fcddda9a169ce5abeaebe6087]: Textual amendment: Words in s. 4(4) substituted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 3(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/3/3), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-1ba9254fcddda9a169ce5abeaebe6087]: Textual amendment: Words in s. 4(4) substituted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 3(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/3/3), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-afc4deeea764010c976d958829d8d17a]: Commencement: S. 4(8) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/c)
+[^c-afc4deeea764010c976d958829d8d17a]: Commencement: S. 4(8) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/c)
 
-[^key-a827f14b5fe64d54e11c7807e45600eb]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2018/7/section/5) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/d)
+[^c-a827f14b5fe64d54e11c7807e45600eb]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2018/7/section/5) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/d)
 
 [^c23537421]: Commencement: S. 6(2)(3)(7)(8)(12) in force at Royal Assent, see. s. 17(2)(b)
 
-[^key-652a77230a67bd83a30c265f8b2bcaee]: Commencement: S. 6(1)(4)-(6)(9)-(11)(13)-(15) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-652a77230a67bd83a30c265f8b2bcaee]: Commencement: S. 6(1)(4)-(6)(9)-(11)(13)-(15) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
 
-[^key-9304d1fc49fc2f78ad79241f2007aa8c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2018/7/section/7) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/f)
+[^c-9304d1fc49fc2f78ad79241f2007aa8c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2018/7/section/7) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/f)
 
 [^c23537431]: Commencement: [S. 8(5)(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/5/6) in force at Royal Assent, see. [s. 17(2)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b)
 
-[^key-a4656c5396527ad45f400cb13848bfa6]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/1)[(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/3)[(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/4) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/g)
+[^c-a4656c5396527ad45f400cb13848bfa6]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/1)[(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/3)[(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/4) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/g)
 
-[^key-38f44a51925bfdfba20d2b0a9297b091]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/2) in force at 1.5.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(b)](https://www.legislation.gov.uk/uksi/2019/67/article/3/b)
+[^c-38f44a51925bfdfba20d2b0a9297b091]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/2) in force at 1.5.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(b)](https://www.legislation.gov.uk/uksi/2019/67/article/3/b)
 
 [^c23537441]: Commencement: [S. 9(1)(2)(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/9/1/2/4) in force at Royal Assent, see. [s. 17(2)(c)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/c)
 
-[^key-fd54f0db58ecadb43db268e8382dc938]: Commencement: [S. 9(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/9/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/h)
+[^c-fd54f0db58ecadb43db268e8382dc938]: Commencement: [S. 9(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/9/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/h)
 
 [^c23537451]: Commencement: [S. 10(1)(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/10/1/2) in force and s. 10(3)(4) in force for specified purposes at Royal Assent, see. [s. 17(2)(b)(d)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b/d)
 
-[^key-88c858698568b358fd02b08b15f4c2d8]: Commencement: [S. 10(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/10/3)[(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/10/4) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/i)
+[^c-88c858698568b358fd02b08b15f4c2d8]: Commencement: [S. 10(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/10/3)[(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/10/4) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/i)
 
 [^c23537461]: Commencement: S. 11(8)(9) in force at Royal Assent, see. s. 17(2)(b)
 
-[^key-f55825d1cef77ecc88371a4deccd74b5]: Commencement: S. 11(1)-(7) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
+[^c-f55825d1cef77ecc88371a4deccd74b5]: Commencement: S. 11(1)-(7) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
 
-[^key-c2d6abebc793684ee38664cebb22e0e4]: Textual amendment: [S. 11(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/3) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-c2d6abebc793684ee38664cebb22e0e4]: Textual amendment: [S. 11(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/3) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-a661dc94d1fad902dff9eb0f076eea08]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7) substituted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukcm/2018/9/schedule/3/paragraph/7); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-a661dc94d1fad902dff9eb0f076eea08]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7) substituted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukcm/2018/9/schedule/3/paragraph/7); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-2ad2c6ff4f5a6e3602e45f9814b57183]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2018/7/section/12) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/k)
+[^c-2ad2c6ff4f5a6e3602e45f9814b57183]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2018/7/section/12) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/k)
 
-[^key-77d51c476690ea35505fb28ee9cd74a8]: Commencement: S. 13 in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/l)
+[^c-77d51c476690ea35505fb28ee9cd74a8]: Commencement: S. 13 in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/l)
 
-[^key-a7f265fc4c20a1eb4773ab17f3677775]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/13/1)[(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/13/2) repealed (coming into force in accordance with s. 53(3)(8) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(h)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/h) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-a7f265fc4c20a1eb4773ab17f3677775]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/13/1)[(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/13/2) repealed (coming into force in accordance with s. 53(3)(8) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(h)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/h) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-925c18c9352033eda8359ef77a5d3cc8]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2018/7/section/14) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/m)
+[^c-925c18c9352033eda8359ef77a5d3cc8]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2018/7/section/14) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/m)
 
-[^key-292b2f7141ae79a7aa96f5e0daadab56]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/1)[(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/2) in force at 1.3.2019 immediately after the provisions of Church Measure 2018 No. 4 commenced by S.I. 2019/66, art. 2 come into force by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)[(2)](https://www.legislation.gov.uk/uksi/2019/67/article/2/2)
+[^c-292b2f7141ae79a7aa96f5e0daadab56]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/1)[(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/2) in force at 1.3.2019 immediately after the provisions of Church Measure 2018 No. 4 commenced by S.I. 2019/66, art. 2 come into force by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)[(2)](https://www.legislation.gov.uk/uksi/2019/67/article/2/2)
 
-[^key-c3ec35fd9ca4bbc66baf69096fd04854]: Commencement: [S. 15(3)-(5)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)
+[^c-c3ec35fd9ca4bbc66baf69096fd04854]: Commencement: [S. 15(3)-(5)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)
 
-[^key-474ea5226252908a9de1da71804cb098]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/7/section/16) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/o)
+[^c-474ea5226252908a9de1da71804cb098]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/7/section/16) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/o)
 
-[^key-777c8f88d3110fb53360db49abf91485]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/2) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
+[^c-777c8f88d3110fb53360db49abf91485]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/2) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
 
-[^key-e36c9d1abf71f984a7e22636ead3fa3e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
+[^c-e36c9d1abf71f984a7e22636ead3fa3e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/3) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
 
-[^key-6bb0bdffee129af15540f75713d437fa]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/4) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
+[^c-6bb0bdffee129af15540f75713d437fa]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/4) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
 
-[^key-43e543b9f829af5029945041f47c437b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/5) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
+[^c-43e543b9f829af5029945041f47c437b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/5) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
 
-[^key-a6fbcf0c3103540aaf05f6e1eaa22180]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/6) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)
+[^c-a6fbcf0c3103540aaf05f6e1eaa22180]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2018/7/schedule/paragraph/6) in force at 1.3.2019 by [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/p)

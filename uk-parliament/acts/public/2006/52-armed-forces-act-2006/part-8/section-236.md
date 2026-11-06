@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Forfeiture of recognizance[^key-f5967880bf238399a6b08ab60b8c0af3][^key-a181556424150368089310bfd9e25fd9]
+## 236. Forfeiture of recognizance[^c-f5967880bf238399a6b08ab60b8c0af3][^c-a181556424150368089310bfd9e25fd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ the Court Martial or the Service Civilian Court may on convicting the offender o
 
 ## Annotations
 
-[^key-f5967880bf238399a6b08ab60b8c0af3]: Commencement: S. 236 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f5967880bf238399a6b08ab60b8c0af3]: Commencement: S. 236 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a181556424150368089310bfd9e25fd9]: Commencement: S. 236 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a181556424150368089310bfd9e25fd9]: Commencement: S. 236 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

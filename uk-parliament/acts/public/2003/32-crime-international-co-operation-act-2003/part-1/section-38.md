@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Making, varying or discharging customer information orders[^key-4e6a4e688597cf24c7b9c221cb73ca7d]
+## 38. Making, varying or discharging customer information orders[^c-4e6a4e688597cf24c7b9c221cb73ca7d]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e6a4e688597cf24c7b9c221cb73ca7d]: Commencement: S. 38 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)
+[^c-4e6a4e688597cf24c7b9c221cb73ca7d]: Commencement: S. 38 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)

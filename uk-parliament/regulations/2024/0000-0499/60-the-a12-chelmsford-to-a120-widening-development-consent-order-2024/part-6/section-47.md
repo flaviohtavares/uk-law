@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Trees subject to tree preservation orders, etc.[^key-e26415a1439be76a23caa06f97e71f88]
+## 47. Trees subject to tree preservation orders, etc.[^c-e26415a1439be76a23caa06f97e71f88]
 
 *Extent: E+W*
 
@@ -36,14 +36,14 @@ summary: ''
 
 (5) The powers conferred by paragraph (1) may be exercised in relation to any tree or shrub that is situated within a conservation area designated under section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00091].
 
-(6) Before exercising the powers mentioned in paragraph (5), the undertaker is required to give written notice to the relevant planning authority of the intended works (with sufficient particulars to identify the tree) and either[^key-b647f1db6b0f0b8b666252dbaa7e78ad]—
+(6) Before exercising the powers mentioned in paragraph (5), the undertaker is required to give written notice to the relevant planning authority of the intended works (with sufficient particulars to identify the tree) and either[^c-b647f1db6b0f0b8b666252dbaa7e78ad]—
 
 - (a) the relevant planning authority has indicated in writing that it has no objection to the works or that the works fall within an exemption in paragraph (7)(a) or (b); or
 - (b) six weeks have elapsed from the date of the notice and a tree preservation order has not been made in respect of the tree or shrub.
 
 (7) Paragraph (5) does not apply—
 
-- (a) where consent would not be needed[^key-8a24658b9452a7ae243b99d5c9eaaca0] for the proposed works if the tree or shrub were subject to a tree preservation order; or
+- (a) where consent would not be needed[^c-8a24658b9452a7ae243b99d5c9eaaca0] for the proposed works if the tree or shrub were subject to a tree preservation order; or
 - (b) to any works which would be exempt in accordance with the regulations made under section 212[^f00092] (disapplication of tree preservation offences) of the 1990 Act.
 
 (8) The duty contained in section 213(1)[^f00093] (enforcement of controls as respects trees in conservation areas) of the 1990 Act does not apply to the undertaker in carrying out the activity authorised by paragraphs (5) and (6).
@@ -56,15 +56,15 @@ summary: ''
 
 ## Annotations
 
-[^key-e26415a1439be76a23caa06f97e71f88]: Commencement: Art. 47 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-e26415a1439be76a23caa06f97e71f88]: Commencement: Art. 47 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00090]: Footnote: Section 206(1) was amended by paragraph 11 of Schedule 8 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
 [^f00091]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-b647f1db6b0f0b8b666252dbaa7e78ad]: Textual amendment: Words in art. 47(6) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-b647f1db6b0f0b8b666252dbaa7e78ad]: Textual amendment: Words in art. 47(6) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-8a24658b9452a7ae243b99d5c9eaaca0]: Textual amendment: Words in art. 47(7)(a) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-8a24658b9452a7ae243b99d5c9eaaca0]: Textual amendment: Words in art. 47(7)(a) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00092]: Footnote: Section 212 was amended by paragraph 15 of Schedule 8 and Schedule 13 to the Planning Act 2008.
 

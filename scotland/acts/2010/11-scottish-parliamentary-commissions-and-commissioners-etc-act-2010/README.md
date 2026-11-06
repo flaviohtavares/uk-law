@@ -36,9 +36,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — THE COMMISSIONER FOR ETHICAL STANDARDS IN PUBLIC LIFE IN SCOTLAND[^key-3646f7210f0aa05afe0fc3918935db7d]
+### Part 1 — THE COMMISSIONER FOR ETHICAL STANDARDS IN PUBLIC LIFE IN SCOTLAND[^c-3646f7210f0aa05afe0fc3918935db7d]
 
-#### The Commissioner[^key-94456ce1cb084db2ee52617bbbc4cc6e]
+#### The Commissioner[^c-94456ce1cb084db2ee52617bbbc4cc6e]
 
 - [Section 1 — The Commissioner for Ethical Standards in Public Life in Scotland](part-1/section-1.md)
 - [Section 2 — Functions of the Commissioners](part-1/section-2.md)
@@ -55,7 +55,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 10 — Pensions etc.](part-1/section-10.md)
 - [Section 11 — Subsequent appointments etc. of former Commissioner](part-1/section-11.md)
 
-#### General functions, procedures etc. of Commissioner[^key-add6fbd7fc22460c26ff2f1e4671b5ee]
+#### General functions, procedures etc. of Commissioner[^c-add6fbd7fc22460c26ff2f1e4671b5ee]
 
 - [Section 12 — General powers](part-1/section-12.md)
 - [Section 13 — Payment of witnesses' expenses](part-1/section-13.md)
@@ -112,8 +112,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-3646f7210f0aa05afe0fc3918935db7d]: Textual amendment: Pt. 1 heading substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/31)
+[^c-3646f7210f0aa05afe0fc3918935db7d]: Textual amendment: Pt. 1 heading substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/31)
 
-[^key-94456ce1cb084db2ee52617bbbc4cc6e]: Textual amendment: Cross-heading preceding s. 1 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/8)
+[^c-94456ce1cb084db2ee52617bbbc4cc6e]: Textual amendment: Cross-heading preceding s. 1 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/8)
 
-[^key-add6fbd7fc22460c26ff2f1e4671b5ee]: Textual amendment: Word in cross-heading preceding s. 12 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/18)
+[^c-add6fbd7fc22460c26ff2f1e4671b5ee]: Textual amendment: Word in cross-heading preceding s. 12 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/18)

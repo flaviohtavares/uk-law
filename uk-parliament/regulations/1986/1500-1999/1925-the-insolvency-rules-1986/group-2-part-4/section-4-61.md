@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.61. Expenses of summoning meetings[^key-48c34c29d1f8da8d53860484492d4e9b]
+## 4.61. Expenses of summoning meetings[^c-48c34c29d1f8da8d53860484492d4e9b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48c34c29d1f8da8d53860484492d4e9b]: Commencement: [Rule 4.61](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.61) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-48c34c29d1f8da8d53860484492d4e9b]: Commencement: [Rule 4.61](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.61) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

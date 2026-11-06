@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Transfer of Disclosure Scotland staff etc.[^key-45fae6d9e7c9b250c2879073c0c0cb43]
+## 86. Transfer of Disclosure Scotland staff etc.[^c-45fae6d9e7c9b250c2879073c0c0cb43]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ the person has the right to terminate the contract of employment.
 
 ## Annotations
 
-[^key-45fae6d9e7c9b250c2879073c0c0cb43]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2007/14/section/86) in force at 1.9.2007 by [S.S.I. 2007/385](https://www.legislation.gov.uk/ssi/2007/385), [art. 2](https://www.legislation.gov.uk/ssi/2007/385/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/385/schedule)
+[^c-45fae6d9e7c9b250c2879073c0c0cb43]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2007/14/section/86) in force at 1.9.2007 by [S.S.I. 2007/385](https://www.legislation.gov.uk/ssi/2007/385), [art. 2](https://www.legislation.gov.uk/ssi/2007/385/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/385/schedule)

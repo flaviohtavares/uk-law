@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Secretary of State’s duty to give direction about providing information to tenants[^key-737ec5fc86e1b2e57373598a1ea87751]
+## 25. Secretary of State’s duty to give direction about providing information to tenants[^c-737ec5fc86e1b2e57373598a1ea87751]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-737ec5fc86e1b2e57373598a1ea87751]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/36/section/25) in force at 20.9.2023, see [s. 46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)
+[^c-737ec5fc86e1b2e57373598a1ea87751]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/36/section/25) in force at 20.9.2023, see [s. 46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)

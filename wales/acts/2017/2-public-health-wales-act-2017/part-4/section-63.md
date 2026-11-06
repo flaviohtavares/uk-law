@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Mandatory licensing conditions[^key-3dd273106d13c3857823b0142885b743][^key-2c5561f0c7695edfcee7261c10c45df3]
+## 63. Mandatory licensing conditions[^c-3dd273106d13c3857823b0142885b743][^c-2c5561f0c7695edfcee7261c10c45df3]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3dd273106d13c3857823b0142885b743]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2017/2/section/63) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/d)
+[^c-3dd273106d13c3857823b0142885b743]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2017/2/section/63) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/d)
 
-[^key-2c5561f0c7695edfcee7261c10c45df3]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2017/2/section/63) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(g)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/g) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-2c5561f0c7695edfcee7261c10c45df3]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2017/2/section/63) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(g)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/g) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

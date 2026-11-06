@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Power of Commission etc to authorise ex gratia payments etc[^key-95e4c3b2734eeed49fe5a1fada7b5123][^key-c7e7bbe97c8a15a189a26d5230691a83]
+## 16. Power of Commission etc to authorise ex gratia payments etc[^c-95e4c3b2734eeed49fe5a1fada7b5123][^c-c7e7bbe97c8a15a189a26d5230691a83]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ In section 106 of the Charities Act 2011 (power of Commission to authorise ex gr
 
 ## Annotations
 
-[^key-95e4c3b2734eeed49fe5a1fada7b5123]: Commencement: S. 16 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-95e4c3b2734eeed49fe5a1fada7b5123]: Commencement: S. 16 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-c7e7bbe97c8a15a189a26d5230691a83]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/6/section/16) in force at 27.11.2025 for specified purposes by [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1191/regulation/4))
+[^c-c7e7bbe97c8a15a189a26d5230691a83]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/6/section/16) in force at 27.11.2025 for specified purposes by [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1191/regulation/4))

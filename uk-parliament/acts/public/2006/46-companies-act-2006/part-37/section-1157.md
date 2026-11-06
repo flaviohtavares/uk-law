@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1157. Power of court to grant relief in certain cases[^c19928281][^c20605771][^c21229431][^key-6db6f6f123602daa70706bb8cc5edb36][^key-8cbac175483a5d80d3544a9998244c90]
+## 1157. Power of court to grant relief in certain cases[^c19928281][^c20605771][^c21229431][^c-6db6f6f123602daa70706bb8cc5edb36][^c-8cbac175483a5d80d3544a9998244c90]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ it appears to the court hearing the case that the officer or person is or may be
 
 [^c21229431]: Modification: S. 1157 applied (E.W.) (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 192(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/192/1), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-6db6f6f123602daa70706bb8cc5edb36]: Modification: S. 1157 modified (1.1.2016) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [ss. 92(1)](https://www.legislation.gov.uk/nia/2008/12/section/92/1), [185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1); [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)
+[^c-6db6f6f123602daa70706bb8cc5edb36]: Modification: S. 1157 modified (1.1.2016) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [ss. 92(1)](https://www.legislation.gov.uk/nia/2008/12/section/92/1), [185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1); [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)
 
-[^key-8cbac175483a5d80d3544a9998244c90]: Modification: [S. 1157](https://www.legislation.gov.uk/ukpga/2006/46/section/1157) applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2017/694/regulation/76)
+[^c-8cbac175483a5d80d3544a9998244c90]: Modification: [S. 1157](https://www.legislation.gov.uk/ukpga/2006/46/section/1157) applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2017/694/regulation/76)

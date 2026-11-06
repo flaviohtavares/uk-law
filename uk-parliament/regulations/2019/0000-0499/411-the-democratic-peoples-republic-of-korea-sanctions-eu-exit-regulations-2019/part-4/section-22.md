@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Acquisition or extension of ownership interest by a DPRK credit or financial institution[^key-5b9ade225c06ddbb89d5d429ad233ed2][^key-4ac2582d5ee6a4c144d28f7218a8f65f]
+## 22. Acquisition or extension of ownership interest by a DPRK credit or financial institution[^c-5b9ade225c06ddbb89d5d429ad233ed2][^c-4ac2582d5ee6a4c144d28f7218a8f65f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b9ade225c06ddbb89d5d429ad233ed2]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-5b9ade225c06ddbb89d5d429ad233ed2]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-4ac2582d5ee6a4c144d28f7218a8f65f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/411/regulation/22) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ac2582d5ee6a4c144d28f7218a8f65f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/411/regulation/22) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

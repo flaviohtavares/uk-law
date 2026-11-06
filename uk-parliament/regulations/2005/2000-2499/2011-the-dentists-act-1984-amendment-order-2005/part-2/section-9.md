@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Repeal of sections 20 and 21[^key-03e027e625a777193c418314779e3a47]
+## 9. Repeal of sections 20 and 21[^c-03e027e625a777193c418314779e3a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 20 (selection of proper abbreviations of overseas diplomas) and section 
 
 ## Annotations
 
-[^key-03e027e625a777193c418314779e3a47]: Commencement: Art. 9 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-03e027e625a777193c418314779e3a47]: Commencement: Art. 9 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

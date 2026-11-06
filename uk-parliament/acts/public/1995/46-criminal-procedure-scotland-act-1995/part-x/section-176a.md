@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176A. Application of section 176 in relation to certain appeals[^key-1a74a0f39c745596238eeae6f02c1709]
+## 176A. Application of section 176 in relation to certain appeals[^c-1a74a0f39c745596238eeae6f02c1709]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a74a0f39c745596238eeae6f02c1709]: Textual amendment: [S. 176A](https://www.legislation.gov.uk/ukpga/1995/46/section/176A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 13](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/13); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-1a74a0f39c745596238eeae6f02c1709]: Textual amendment: [S. 176A](https://www.legislation.gov.uk/ukpga/1995/46/section/176A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 13](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/13); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Determination of costs[^key-e483331bc1e3133799eee63da7db90e1]
+## 34. Determination of costs[^c-e483331bc1e3133799eee63da7db90e1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e483331bc1e3133799eee63da7db90e1]: Commencement: Reg. 34 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-e483331bc1e3133799eee63da7db90e1]: Commencement: Reg. 34 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

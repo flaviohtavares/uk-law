@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213B. Duty of public authority to refer cases in England to local housing authority[^key-a465efb61ff32ac9f0edf41f4e345674]
+## 213B. Duty of public authority to refer cases in England to local housing authority[^c-a465efb61ff32ac9f0edf41f4e345674]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the specified public authority must notify that local housing authority of the m
 
 ## Annotations
 
-[^key-a465efb61ff32ac9f0edf41f4e345674]: Textual amendment: S. 213B inserted (12.2.2018 for specified purposes, 3.4.2018 in so far as not already in force) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 10](https://www.legislation.gov.uk/ukpga/2017/13/section/10), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/c), [3(j)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/j)
+[^c-a465efb61ff32ac9f0edf41f4e345674]: Textual amendment: S. 213B inserted (12.2.2018 for specified purposes, 3.4.2018 in so far as not already in force) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 10](https://www.legislation.gov.uk/ukpga/2017/13/section/10), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/c), [3(j)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/j)

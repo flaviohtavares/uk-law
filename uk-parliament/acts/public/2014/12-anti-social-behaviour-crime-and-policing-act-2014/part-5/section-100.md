@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f56f213f74a815a23786b80c735949e7][^key-435d8f12efaa76fd3364b02b77054f27] In section 138 of the Housing Act 1985 (right to buy: suspension of duty of landlord to convey freehold or grant lease)—
+(1)[^c-f56f213f74a815a23786b80c735949e7][^c-435d8f12efaa76fd3364b02b77054f27] In section 138 of the Housing Act 1985 (right to buy: suspension of duty of landlord to convey freehold or grant lease)—
 
 - (a) in subsection (2A)(a), for “or Ground 2 possession order” there is substituted “ , Ground 2 or 2ZA possession order or section 84A possession order ”;
 - (b) in subsection (2B)(a), for “or an operative Ground 2 possession order” there is substituted “ , an operative Ground 2 or 2ZA possession order or an operative section 84A possession order ”;
@@ -39,13 +39,13 @@ summary: ''
 
   .
 
-(2)[^key-25622c1b6913e459c90420edd71d4b0a][^key-44ece70a179905922752d11977f56c04] In Schedule 3 to that Act (grounds for withholding consent to assignment of secure tenancy by way of exchange), after Ground 2 there is inserted—
+(2)[^c-25622c1b6913e459c90420edd71d4b0a][^c-44ece70a179905922752d11977f56c04] In Schedule 3 to that Act (grounds for withholding consent to assignment of secure tenancy by way of exchange), after Ground 2 there is inserted—
 
 > *Ground 2ZA*
 >
 > Proceedings have been begun for possession of the dwelling-house, of which the tenant or the proposed assignee is the secure tenant, under section 84A (absolute ground for possession for anti-social behaviour), or there has been served on the tenant or the proposed assignee a notice under section 83ZA (notice requirements in relation to proceedings for possession on absolute ground for anti-social behaviour) which is still in force.
 
-(3)[^key-25622c1b6913e459c90420edd71d4b0a][^key-44ece70a179905922752d11977f56c04] In Schedule 14 to the Localism Act 2011 (grounds on which landlord may refuse to surrender and grant tenancies in pursuance of a request under section 158 of that Act)—
+(3)[^c-25622c1b6913e459c90420edd71d4b0a][^c-44ece70a179905922752d11977f56c04] In Schedule 14 to the Localism Act 2011 (grounds on which landlord may refuse to surrender and grant tenancies in pursuance of a request under section 158 of that Act)—
 
 - (a) after Ground 4 there is inserted—
 
@@ -82,10 +82,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f56f213f74a815a23786b80c735949e7]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/1) in force at 13.5.2014 for W. by [S.I. 2014/1241](https://www.legislation.gov.uk/wsi/2014/1241), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/1241/article/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2014/1241/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2014/1241/article/3/2))
+[^c-f56f213f74a815a23786b80c735949e7]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/1) in force at 13.5.2014 for W. by [S.I. 2014/1241](https://www.legislation.gov.uk/wsi/2014/1241), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/1241/article/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2014/1241/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2014/1241/article/3/2))
 
-[^key-435d8f12efaa76fd3364b02b77054f27]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/1) in force at 13.5.2014 for E. by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/949/article/2/b) (with [art. 11(1)](https://www.legislation.gov.uk/uksi/2014/949/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2014/949/article/11/2))
+[^c-435d8f12efaa76fd3364b02b77054f27]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/1) in force at 13.5.2014 for E. by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/949/article/2/b) (with [art. 11(1)](https://www.legislation.gov.uk/uksi/2014/949/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2014/949/article/11/2))
 
-[^key-25622c1b6913e459c90420edd71d4b0a]: Commencement: [S. 100(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/3) in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/e)
+[^c-25622c1b6913e459c90420edd71d4b0a]: Commencement: [S. 100(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/3) in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/e)
 
-[^key-44ece70a179905922752d11977f56c04]: Commencement: [S. 100(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/3) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(e)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/e)
+[^c-44ece70a179905922752d11977f56c04]: Commencement: [S. 100(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/100/3) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(e)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/e)

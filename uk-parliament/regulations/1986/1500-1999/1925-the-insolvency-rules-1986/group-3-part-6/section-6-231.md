@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.231. Interim receivership[^key-8ddf0e0ebf9d0000191159a55a61cec2]
+## 6.231. Interim receivership[^c-8ddf0e0ebf9d0000191159a55a61cec2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Chapter 4 of this Part of the Rules applies in criminal bankruptcy only in so fa
 
 ## Annotations
 
-[^key-8ddf0e0ebf9d0000191159a55a61cec2]: Commencement: [Rule 6.231](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.231) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8ddf0e0ebf9d0000191159a55a61cec2]: Commencement: [Rule 6.231](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.231) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The fee payable by an applicant for a certified copy of a certificate issued under Article 111(5) of the 2001 Directive is £82[^key-fdfa0482e85f021cc08662dfea7c4e72]
+The fee payable by an applicant for a certified copy of a certificate issued under Article 111(5) of the 2001 Directive is £82[^c-fdfa0482e85f021cc08662dfea7c4e72]
 
 ## Annotations
 
-[^key-fdfa0482e85f021cc08662dfea7c4e72]: Textual amendment: Sum in reg. 14 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2025/317/regulation/13)
+[^c-fdfa0482e85f021cc08662dfea7c4e72]: Textual amendment: Sum in reg. 14 substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2025/317/regulation/13)

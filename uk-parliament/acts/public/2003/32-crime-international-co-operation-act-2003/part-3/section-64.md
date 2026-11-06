@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Production of licence: Northern Ireland[^key-73ac80e25ef38e45e2705677eeae18c5]
+## 64. Production of licence: Northern Ireland[^c-73ac80e25ef38e45e2705677eeae18c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ the duty under subsection (1) is to be taken as satisfied.
 
 - “**Receipt**” means a receipt issued under Article 62 of the Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/ 1320 (N.I.10)).
 
-(4) Subsection (1) does not apply if the competent authority of the Republic of Ireland or the Secretary of State[^key-a80c0cdc022da7b9427d891e561fab96] —
+(4) Subsection (1) does not apply if the competent authority of the Republic of Ireland or the Secretary of State[^c-a80c0cdc022da7b9427d891e561fab96] —
 
 - (a) has the licence and its counterpart, or
 - (b) has delivered them to the Department.
 
-(5)[^key-4d2b7608c77716fd543e1b9e3651dbe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4d2b7608c77716fd543e1b9e3651dbe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) If the holder of a licence does not deliver his licence and its counterpart to the Department as required by subsection (1), he is guilty of an offence.
 
@@ -57,8 +57,8 @@ In relation to the holder of a Great Britain licence or Community licence, a new
 
 ## Annotations
 
-[^key-73ac80e25ef38e45e2705677eeae18c5]: Commencement: S. 64 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-73ac80e25ef38e45e2705677eeae18c5]: Commencement: S. 64 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
 
-[^key-a80c0cdc022da7b9427d891e561fab96]: Textual amendment: Words in s. 64(4) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/9/2) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-a80c0cdc022da7b9427d891e561fab96]: Textual amendment: Words in s. 64(4) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/9/2) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
 
-[^key-4d2b7608c77716fd543e1b9e3651dbe3]: Textual amendment: S. 64(5) omitted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/9/3) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-4d2b7608c77716fd543e1b9e3651dbe3]: Textual amendment: S. 64(5) omitted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/9/3) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

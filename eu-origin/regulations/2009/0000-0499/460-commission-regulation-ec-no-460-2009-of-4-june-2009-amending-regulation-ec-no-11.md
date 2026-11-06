@@ -35,238 +35,238 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-7d0faef69170d1e99870431128f7babe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d0faef69170d1e99870431128f7babe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7d0faef69170d1e99870431128f7babe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7d0faef69170d1e99870431128f7babe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7d0faef69170d1e99870431128f7babe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7d0faef69170d1e99870431128f7babe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7d0faef69170d1e99870431128f7babe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7d0faef69170d1e99870431128f7babe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d0faef69170d1e99870431128f7babe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-7d0faef69170d1e99870431128f7babe]
+## ANNEX[^c-7d0faef69170d1e99870431128f7babe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] IFRIC INTERPRETATION 16
+[^c-7d0faef69170d1e99870431128f7babe] IFRIC INTERPRETATION 16
 
 ***Hedges of a Net Investment in a Foreign Operation***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]REFERENCES
+[^c-7d0faef69170d1e99870431128f7babe]REFERENCES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]BACKGROUND
+[^c-7d0faef69170d1e99870431128f7babe]BACKGROUND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]1
+[^c-7d0faef69170d1e99870431128f7babe]1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]2
+[^c-7d0faef69170d1e99870431128f7babe]2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]3
+[^c-7d0faef69170d1e99870431128f7babe]3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]4
+[^c-7d0faef69170d1e99870431128f7babe]4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]5
+[^c-7d0faef69170d1e99870431128f7babe]5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]6
+[^c-7d0faef69170d1e99870431128f7babe]6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]SCOPE
+[^c-7d0faef69170d1e99870431128f7babe]SCOPE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]7
+[^c-7d0faef69170d1e99870431128f7babe]7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]8
+[^c-7d0faef69170d1e99870431128f7babe]8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]ISSUES
+[^c-7d0faef69170d1e99870431128f7babe]ISSUES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]9
+[^c-7d0faef69170d1e99870431128f7babe]9
 
 Investments in foreign operations may be held directly by a parent entity or indirectly by its subsidiary or subsidiaries. The issues addressed in this Interpretation are:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]CONSENSUS
+[^c-7d0faef69170d1e99870431128f7babe]CONSENSUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Nature of the hedged risk and amount of the hedged item for which a hedging relationship may be designated
+[^c-7d0faef69170d1e99870431128f7babe] Nature of the hedged risk and amount of the hedged item for which a hedging relationship may be designated
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]10
+[^c-7d0faef69170d1e99870431128f7babe]10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]11
+[^c-7d0faef69170d1e99870431128f7babe]11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]12
+[^c-7d0faef69170d1e99870431128f7babe]12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]13
+[^c-7d0faef69170d1e99870431128f7babe]13
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Where the hedging instrument can be held
+[^c-7d0faef69170d1e99870431128f7babe] Where the hedging instrument can be held
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]14
+[^c-7d0faef69170d1e99870431128f7babe]14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]15
+[^c-7d0faef69170d1e99870431128f7babe]15
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Disposal of a hedged foreign operation
+[^c-7d0faef69170d1e99870431128f7babe] Disposal of a hedged foreign operation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]16
+[^c-7d0faef69170d1e99870431128f7babe]16
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]17
+[^c-7d0faef69170d1e99870431128f7babe]17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]EFFECTIVE DATE
+[^c-7d0faef69170d1e99870431128f7babe]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]18
+[^c-7d0faef69170d1e99870431128f7babe]18
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]TRANSITION
+[^c-7d0faef69170d1e99870431128f7babe]TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]19
+[^c-7d0faef69170d1e99870431128f7babe]19
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]Appendix
+[^c-7d0faef69170d1e99870431128f7babe]Appendix
 
 **Application guidance**
 
 *This appendix is an integral part of the Interpretation.*
 
-[^key-7d0faef69170d1e99870431128f7babe]AG1
+[^c-7d0faef69170d1e99870431128f7babe]AG1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Nature of hedged risk for which a hedging relationship may be designated (paragraphs 10-13)
+[^c-7d0faef69170d1e99870431128f7babe] Nature of hedged risk for which a hedging relationship may be designated (paragraphs 10-13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG2
+[^c-7d0faef69170d1e99870431128f7babe]AG2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Amount of hedged item for which a hedging relationship may be designated (paragraphs 10-13)
+[^c-7d0faef69170d1e99870431128f7babe] Amount of hedged item for which a hedging relationship may be designated (paragraphs 10-13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG3
+[^c-7d0faef69170d1e99870431128f7babe]AG3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG4
+[^c-7d0faef69170d1e99870431128f7babe]AG4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG5
+[^c-7d0faef69170d1e99870431128f7babe]AG5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG6
+[^c-7d0faef69170d1e99870431128f7babe]AG6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Where in a group can the hedging instrument be held (paragraphs 14 and 15)?
+[^c-7d0faef69170d1e99870431128f7babe] Where in a group can the hedging instrument be held (paragraphs 14 and 15)?
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG7
+[^c-7d0faef69170d1e99870431128f7babe]AG7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Amounts reclassified to profit or loss on disposal of a foreign operation (paragraphs 16 and 17)
+[^c-7d0faef69170d1e99870431128f7babe] Amounts reclassified to profit or loss on disposal of a foreign operation (paragraphs 16 and 17)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG8
+[^c-7d0faef69170d1e99870431128f7babe]AG8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Hedging more than one foreign operation (paragraphs 11, 13 and 15)
+[^c-7d0faef69170d1e99870431128f7babe] Hedging more than one foreign operation (paragraphs 11, 13 and 15)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG9
+[^c-7d0faef69170d1e99870431128f7babe]AG9
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Parent holds both USD and GBP hedging instruments
+[^c-7d0faef69170d1e99870431128f7babe] Parent holds both USD and GBP hedging instruments
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG10
+[^c-7d0faef69170d1e99870431128f7babe]AG10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG11
+[^c-7d0faef69170d1e99870431128f7babe]AG11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG12
+[^c-7d0faef69170d1e99870431128f7babe]AG12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe] Subsidiary B holds the USD hedging instrument
+[^c-7d0faef69170d1e99870431128f7babe] Subsidiary B holds the USD hedging instrument
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG13
+[^c-7d0faef69170d1e99870431128f7babe]AG13
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG14
+[^c-7d0faef69170d1e99870431128f7babe]AG14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d0faef69170d1e99870431128f7babe]AG15
+[^c-7d0faef69170d1e99870431128f7babe]AG15
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d0faef69170d1e99870431128f7babe]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/11) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d0faef69170d1e99870431128f7babe]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/11) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

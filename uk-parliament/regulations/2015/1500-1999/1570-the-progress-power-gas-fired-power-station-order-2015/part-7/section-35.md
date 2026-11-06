@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Defence to proceedings in respect of statutory nuisance[^key-aa77f8a11e67535413157f54a0e93f3b]
+## 35. Defence to proceedings in respect of statutory nuisance[^c-aa77f8a11e67535413157f54a0e93f3b]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aa77f8a11e67535413157f54a0e93f3b]: Commencement: Art. 35 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-aa77f8a11e67535413157f54a0e93f3b]: Commencement: Art. 35 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
 [^f00022]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) was amended by paragraph 6 of Schedule 17 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25). There are amendments to this Act which are not relevant to this Order.
 

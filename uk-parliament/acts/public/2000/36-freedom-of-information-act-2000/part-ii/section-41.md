@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c7e7deefce0a77cffcdd8a9ab24a97e2] Information is exempt information if—
+(1)[^c-c7e7deefce0a77cffcdd8a9ab24a97e2] Information is exempt information if—
 
 - (a) it was obtained by the public authority from any other person (including another public authority), and
 - (b) the disclosure of the information to the public (otherwise than under this Act) by the public authority holding it would constitute a breach of confidence actionable by that or any other person.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e7deefce0a77cffcdd8a9ab24a97e2]: Modification: S. 41(1) extended (E.W.) (5.11.2013) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [ss. 61(8)](https://www.legislation.gov.uk/anaw/2013/6/section/61/8), [64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7))
+[^c-c7e7deefce0a77cffcdd8a9ab24a97e2]: Modification: S. 41(1) extended (E.W.) (5.11.2013) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [ss. 61(8)](https://www.legislation.gov.uk/anaw/2013/6/section/61/8), [64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7))

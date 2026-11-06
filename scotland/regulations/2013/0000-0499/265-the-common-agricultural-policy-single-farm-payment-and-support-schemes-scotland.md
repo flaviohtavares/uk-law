@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2013 (revoked)[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]
+The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2013 (revoked)[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 16th October 2013
 
-[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]
+## 1. Citation and commencement[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2011[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]
+## 2. Amendment of the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2011[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eae0e5b6f2fcaeebe2fa5e54ecbe1388]: Textual amendment: Regulations revoked (16.3.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 (S.S.I. 2015/58)](https://www.legislation.gov.uk/ssi/2015/58), [reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2015/58/regulation/28/1/b) (with [reg. 28(2)](https://www.legislation.gov.uk/ssi/2015/58/regulation/28/2))
+[^c-eae0e5b6f2fcaeebe2fa5e54ecbe1388]: Textual amendment: Regulations revoked (16.3.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 (S.S.I. 2015/58)](https://www.legislation.gov.uk/ssi/2015/58), [reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2015/58/regulation/28/1/b) (with [reg. 28(2)](https://www.legislation.gov.uk/ssi/2015/58/regulation/28/2))

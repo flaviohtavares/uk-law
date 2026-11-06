@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Annual rate of full retirement pension when taking partial retirement[^key-9212d3219db90cc7e31f4e12512cdc42]
+## 53. Annual rate of full retirement pension when taking partial retirement[^c-9212d3219db90cc7e31f4e12512cdc42]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9212d3219db90cc7e31f4e12512cdc42]: Commencement: Reg. 53 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-9212d3219db90cc7e31f4e12512cdc42]: Commencement: Reg. 53 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

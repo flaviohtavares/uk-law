@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (revoked)[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (revoked)[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 Made
 
@@ -44,150 +44,150 @@ at 3.00 p.m. on 3rd July 2020
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-e836d0d13c46f8da384a6c2fe7ba746a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e836d0d13c46f8da384a6c2fe7ba746a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 1. Citation, commencement, application and interpretation[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation and saving[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 2. Revocation and saving[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The emergency period and review of need for restrictions[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 3. The emergency period and review of need for restrictions[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement to close premises and businesses during the emergency[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 4. Requirement to close premises and businesses during the emergency[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Restrictions on opening hours of businesses and services[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 4A. Restrictions on opening hours of businesses and services[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4B. Restrictions on service of food and drink for consumption on the premises[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 4B. Restrictions on service of food and drink for consumption on the premises[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on participation in gatherings[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 5. Restrictions on participation in gatherings[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5ZA. Linked households[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 5ZA. Linked households[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Restriction on organisation or facilitation of certain large indoor gatherings[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 5A. Restriction on organisation or facilitation of certain large indoor gatherings[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5B. Restrictions on organisation or facilitation of other gatherings[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 5B. Restrictions on organisation or facilitation of other gatherings[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Power to restrict access to public places[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 6. Power to restrict access to public places[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement of requirement[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 7. Enforcement of requirement[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences and penalties[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 8. Offences and penalties[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Fixed penalty notices[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 9. Fixed penalty notices[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Prosecutions[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 10. Prosecutions[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Expiry[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## 11. Expiry[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e836d0d13c46f8da384a6c2fe7ba746a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e836d0d13c46f8da384a6c2fe7ba746a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Underlying Medical Conditions[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## SCHEDULE 1 — Underlying Medical Conditions[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 Regulation 1
 
-**1.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Businesses subject to closure[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## SCHEDULE 2 — Businesses subject to closure[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 Regulation 4
 
-**1.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Businesses and services subject to restrictions[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+## SCHEDULE 3 — Businesses and services subject to restrictions[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
 Regulations 4A and 4B
 
-[^key-e836d0d13c46f8da384a6c2fe7ba746a]
+[^c-e836d0d13c46f8da384a6c2fe7ba746a]
 
-[^key-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e836d0d13c46f8da384a6c2fe7ba746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e836d0d13c46f8da384a6c2fe7ba746a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e836d0d13c46f8da384a6c2fe7ba746a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e836d0d13c46f8da384a6c2fe7ba746a]: Textual amendment: Regulations expired (4.1.2021) by [The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (S.I. 2020/684)](https://www.legislation.gov.uk/uksi/2020/684), [reg. 11(1)](https://www.legislation.gov.uk/uksi/2020/684/regulation/11/1) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2020/684/regulation/11/2))
+[^c-e836d0d13c46f8da384a6c2fe7ba746a]: Textual amendment: Regulations expired (4.1.2021) by [The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (S.I. 2020/684)](https://www.legislation.gov.uk/uksi/2020/684), [reg. 11(1)](https://www.legislation.gov.uk/uksi/2020/684/regulation/11/1) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2020/684/regulation/11/2))

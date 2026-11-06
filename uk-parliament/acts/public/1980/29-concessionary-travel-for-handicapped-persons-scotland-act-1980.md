@@ -46,7 +46,7 @@ An Act to enable local authorities in Scotland to provide concessionary travel s
 (1) In section 1 of this Act—
 
 - “**handicapped persons**” means persons who, not being eligible persons within the meaning of section 93(7) of the Transport Act 1985[^c737428]—
-  - (a) suffer from mental disorder within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^key-a1b24cd9cca41e8813c4a1658dc2838d];
+  - (a) suffer from mental disorder within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^c-a1b24cd9cca41e8813c4a1658dc2838d];
   - (b) are deaf or dumb; or
   - (c) are substantially and permanently handicapped by illness, injury, defective hearing, defective sight or congenital deformity or by such other disabilities as may be prescribed by the Secretary of State by regulations;
 - “**local authority**” means a regional or islands council;
@@ -72,7 +72,7 @@ There shall be defrayed out of money provided by Parliament any increase attribu
 
 [^c737428]: Textual amendment: Words substituted by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 139(2)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/2), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/7/paragraph/19/2)(*a*)
 
-[^key-a1b24cd9cca41e8813c4a1658dc2838d]: Textual amendment: Words in s. 2(1)(a) substituted (27.9.2005) by [Mental Health (Care and Treatment0 (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/8/2)
+[^c-a1b24cd9cca41e8813c4a1658dc2838d]: Textual amendment: Words in s. 2(1)(a) substituted (27.9.2005) by [Mental Health (Care and Treatment0 (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/8/2)
 
 [^c737430]: Textual amendment: Definition of “public service vehicle” repealed by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 139(2)(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/2/3), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/7/paragraph/19/2)(*b*), Sch. 8
 

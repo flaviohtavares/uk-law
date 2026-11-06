@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Amendment of regulation A2[^key-7d8becba42b19ac7e4b7653a2771a004]
+## 2. Amendment of regulation A2[^c-7d8becba42b19ac7e4b7653a2771a004]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In regulation A2 (interpretation) insert the following definitions in the approp
 
 ## Annotations
 
-[^key-7d8becba42b19ac7e4b7653a2771a004]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-7d8becba42b19ac7e4b7653a2771a004]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).

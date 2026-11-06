@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104A. Public consultation in relation to media mergers[^key-698564be17fa152d59d56cf08741ae84][^key-a1ca3fb6bab80dc78ce3a2acc2f2da29][^c19085681][^c19085621][^key-698564be17fa152d59d56cf08741ae84][^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+## 104A. Public consultation in relation to media mergers[^c-698564be17fa152d59d56cf08741ae84][^c-a1ca3fb6bab80dc78ce3a2acc2f2da29][^c19085681][^c19085621][^c-698564be17fa152d59d56cf08741ae84][^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-698564be17fa152d59d56cf08741ae84]: Modification: S. 104A modified by S.I. 2003/1592, art. 5A(d) (as inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [7](https://www.legislation.gov.uk/uksi/2014/891/article/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20)))
+[^c-698564be17fa152d59d56cf08741ae84]: Modification: S. 104A modified by S.I. 2003/1592, art. 5A(d) (as inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [7](https://www.legislation.gov.uk/uksi/2014/891/article/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20)))
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c19085681]: Modification: S. 104A applied (with modifications) (29.12.2003) by [S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), [art. 15](https://www.legislation.gov.uk/uksi/2003/1592/article/15), [Sch. 3 para. 1(1)(la)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/1/1/la) (as inserted by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [art. 2](https://www.legislation.gov.uk/uksi/2003/3180/article/2), [Sch. para. 10(9)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/9) (with transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/uksi/2003/3180/article/3))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Scheme manager’s review of ill-health awards[^key-d57cf4c24fe7d8a528f4f832a151f4db][^key-351132a48e394feb1686f353a8450884]
+## 57. Scheme manager’s review of ill-health awards[^c-d57cf4c24fe7d8a528f4f832a151f4db][^c-351132a48e394feb1686f353a8450884]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ the scheme manager may determine that the member is to cease to be entitled to a
 
 ## Annotations
 
-[^key-d57cf4c24fe7d8a528f4f832a151f4db]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/2336/regulation/57) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d57cf4c24fe7d8a528f4f832a151f4db]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/2336/regulation/57) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-351132a48e394feb1686f353a8450884]: Modification: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/2336/regulation/57) applied (with modifications) (1.4.2015) by [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/23) (as inserted by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/568/schedule/2) and as amended (with effect from 1.4.2015) by [The Armed Forces Pension (Amendment) Regulations 2026 (S.I. 2026/523)](https://www.legislation.gov.uk/uksi/2026/523), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/523/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2026/523/regulation/2/2), [6](https://www.legislation.gov.uk/uksi/2026/523/regulation/6))
+[^c-351132a48e394feb1686f353a8450884]: Modification: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/2336/regulation/57) applied (with modifications) (1.4.2015) by [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/23) (as inserted by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/568/schedule/2) and as amended (with effect from 1.4.2015) by [The Armed Forces Pension (Amendment) Regulations 2026 (S.I. 2026/523)](https://www.legislation.gov.uk/uksi/2026/523), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/523/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2026/523/regulation/2/2), [6](https://www.legislation.gov.uk/uksi/2026/523/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.2. Information to be given in statutory demand[^key-d836b9834cb747ffdfd51565e343db28]
+## 6.2. Information to be given in statutory demand[^c-d836b9834cb747ffdfd51565e343db28]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In the case of any individual so named in the demand, his address and telephone 
 
 ## Annotations
 
-[^key-d836b9834cb747ffdfd51565e343db28]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d836b9834cb747ffdfd51565e343db28]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Maximum prices of medical supplies may be controlled.[^key-7845a5167c849c107a6afa6faf005ec4]
+## 49. Maximum prices of medical supplies may be controlled.[^c-7845a5167c849c107a6afa6faf005ec4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7845a5167c849c107a6afa6faf005ec4]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/1978/29/section/49) omitted (7.8.2017) by virtue of [Health Services Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2017/23/section/10/1/a), [12(3)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/3); [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/809/regulation/3))
+[^c-7845a5167c849c107a6afa6faf005ec4]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/1978/29/section/49) omitted (7.8.2017) by virtue of [Health Services Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2017/23/section/10/1/a), [12(3)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/3); [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/809/regulation/3))

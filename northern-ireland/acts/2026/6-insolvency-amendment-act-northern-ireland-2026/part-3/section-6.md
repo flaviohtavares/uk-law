@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Exercise of powers by trustee in bankruptcy: removal of need for sanction[^key-9e8be853b3dcf90ecff5952b2728aaa5]
+## 6. Exercise of powers by trustee in bankruptcy: removal of need for sanction[^c-9e8be853b3dcf90ecff5952b2728aaa5]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e8be853b3dcf90ecff5952b2728aaa5]: Commencement: S. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9e8be853b3dcf90ecff5952b2728aaa5]: Commencement: S. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

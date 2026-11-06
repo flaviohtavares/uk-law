@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66F. Vaccines and immunisations: exception for private arrangements[^key-ba316bfeaeeb96b221e8667175f51004]
+## 66F. Vaccines and immunisations: exception for private arrangements[^c-ba316bfeaeeb96b221e8667175f51004]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Part applies in relation to the offer or administration of any v
 
 ## Annotations
 
-[^key-ba316bfeaeeb96b221e8667175f51004]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/uksi/2015/1862/part/9A) inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/331/schedule/1/paragraph/6)
+[^c-ba316bfeaeeb96b221e8667175f51004]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/uksi/2015/1862/part/9A) inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/331/schedule/1/paragraph/6)

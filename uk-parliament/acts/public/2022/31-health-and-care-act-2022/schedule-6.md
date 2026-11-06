@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Intervention powers over the reconfiguration of NHS services[^key-3fc7f6e87a9e3479fadd29ee0aac44ba][^key-05d89feb758b5afec428a1a769dd68a1]
+## SCHEDULE 6 — Intervention powers over the reconfiguration of NHS services[^c-3fc7f6e87a9e3479fadd29ee0aac44ba][^c-05d89feb758b5afec428a1a769dd68a1]
 
 *Extent: E+W*
 
 Section 46
 
-[^key-05d89feb758b5afec428a1a769dd68a1]In the National Health Service Act 2006, after Schedule 10 insert—
+[^c-05d89feb758b5afec428a1a769dd68a1]In the National Health Service Act 2006, after Schedule 10 insert—
 
 > **SCHEDULE 10A — Intervention powers in relation to the reconfiguration of NHS services**
 >
@@ -102,6 +102,6 @@ Section 46
 
 ## Annotations
 
-[^key-3fc7f6e87a9e3479fadd29ee0aac44ba]: Commencement: Sch. 6 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-3fc7f6e87a9e3479fadd29ee0aac44ba]: Commencement: Sch. 6 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-05d89feb758b5afec428a1a769dd68a1]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/6) in force at 31.1.2024 for specified purposes by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/c)
+[^c-05d89feb758b5afec428a1a769dd68a1]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/6) in force at 31.1.2024 for specified purposes by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/c)

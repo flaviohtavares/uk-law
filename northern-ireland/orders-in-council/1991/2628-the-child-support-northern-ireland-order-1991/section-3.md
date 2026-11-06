@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Meaning of “child”[^key-148b262e9d8b3c5154b0b9edb998983f]
+## 3. Meaning of “child”[^c-148b262e9d8b3c5154b0b9edb998983f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-148b262e9d8b3c5154b0b9edb998983f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1991/2628/article/3) substituted (3.12.2012 for specified purposes, 10.12.2012 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 26](https://www.legislation.gov.uk/nia/2008/10/section/26), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/c); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+[^c-148b262e9d8b3c5154b0b9edb998983f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1991/2628/article/3) substituted (3.12.2012 for specified purposes, 10.12.2012 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 26](https://www.legislation.gov.uk/nia/2008/10/section/26), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/c); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))

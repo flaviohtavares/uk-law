@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2A. Number of chancellorships to be held by one person may be limited.[^key-2b437e980656f48ac5a3201079fe5a63]
+## 2A. Number of chancellorships to be held by one person may be limited.[^c-2b437e980656f48ac5a3201079fe5a63]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b437e980656f48ac5a3201079fe5a63]: Textual amendment: S. 2A repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/5), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-2b437e980656f48ac5a3201079fe5a63]: Textual amendment: S. 2A repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/5), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

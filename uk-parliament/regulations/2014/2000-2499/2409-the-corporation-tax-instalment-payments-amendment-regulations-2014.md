@@ -44,15 +44,15 @@ Coming into force
 
 1st October 2014
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 59E(1) of the Taxes Management Act 1970[^f00001].[^key-1ca3981c3ba5f73d7b6b436123104e58]
+The Treasury make the following Regulations in exercise of the powers conferred by section 59E(1) of the Taxes Management Act 1970[^f00001].[^c-1ca3981c3ba5f73d7b6b436123104e58]
 
-## 1. Citation and commencement[^key-0d4b29a17450f0669a6943a4e4d2183b]
+## 1. Citation and commencement[^c-0d4b29a17450f0669a6943a4e4d2183b]
 
 (1) These Regulations may be cited as the Corporation Tax (Instalment Payments) (Amendment) Regulations 2014 and come into force on 1st October 2014.
 
 (2) These Regulations have effect in relation to accounting periods beginning on or after 1st April 2015.
 
-## 2. Amendment of the Corporation Tax (Instalment Payments) Regulations 1998[^key-7c1e53f6ddd798e99ce1c76f4c8e3e51]
+## 2. Amendment of the Corporation Tax (Instalment Payments) Regulations 1998[^c-7c1e53f6ddd798e99ce1c76f4c8e3e51]
 
 (1) The Corporation Tax (Instalment Payments) Regulations 1998[^f00002] are amended as follows.
 
@@ -109,11 +109,11 @@ A Tax Information and Impact Note covering this instrument was first published o
 
 [^f00001]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); section 59E was inserted by section 30 of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36) and has been amended by section 92(2) of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), by paragraph 155 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), by paragraph 58 of Schedule 19 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), by paragraph 102 of Schedule 20 to the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) and paragraph 9 of Schedule 30 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29). See section 59E(10) for the meaning of “prescribed”. This power is exercised by statutory instrument which is subject to annulment in pursuance of a resolution of the House of Commons in accordance with section 1171 of the Corporation Tax Act 2010.
 
-[^key-1ca3981c3ba5f73d7b6b436123104e58]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2409) modified (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/39/1)
+[^c-1ca3981c3ba5f73d7b6b436123104e58]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2409) modified (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/39/1)
 
-[^key-0d4b29a17450f0669a6943a4e4d2183b]: Commencement: Reg. 1 in force at 1.10.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2409/regulation/1/1)
+[^c-0d4b29a17450f0669a6943a4e4d2183b]: Commencement: Reg. 1 in force at 1.10.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2409/regulation/1/1)
 
-[^key-7c1e53f6ddd798e99ce1c76f4c8e3e51]: Commencement: Reg. 2 in force at 1.10.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2409/regulation/1/1)
+[^c-7c1e53f6ddd798e99ce1c76f4c8e3e51]: Commencement: Reg. 2 in force at 1.10.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2409/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1998/3175](https://www.legislation.gov.uk/uksi/1998/3175), amended by section 92(5) to (7) of the Finance Act 2002 and [S.I. 2011/1785](https://www.legislation.gov.uk/uksi/2011/1785), there are other amending instruments but none is relevant.
 

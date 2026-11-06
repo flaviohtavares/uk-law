@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Eligible child’s pension payable on death of pensioner member[^key-ffb7124a510552fadc4315584d73dfe0]
+## 97. Eligible child’s pension payable on death of pensioner member[^c-ffb7124a510552fadc4315584d73dfe0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffb7124a510552fadc4315584d73dfe0]: Commencement: Reg. 97 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-ffb7124a510552fadc4315584d73dfe0]: Commencement: Reg. 97 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-4eb89ad322fe8c7500f46078c9fb1ca2] Where under or by virtue of any provision of this Act—
+(1)[^c-4eb89ad322fe8c7500f46078c9fb1ca2] Where under or by virtue of any provision of this Act—
 
 - (a) an order may be made, or
 - (b) directions may be given,
@@ -49,4 +49,4 @@ that provision includes power to vary or revoke the order or directions by subse
 
 ## Annotations
 
-[^key-4eb89ad322fe8c7500f46078c9fb1ca2]: Modification: [S. 204(1)](https://www.legislation.gov.uk/ukpga/2006/42/section/204/1) applied by 2007 c. 18, s. 42(5C) (as inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 287(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/287/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7)))
+[^c-4eb89ad322fe8c7500f46078c9fb1ca2]: Modification: [S. 204(1)](https://www.legislation.gov.uk/ukpga/2006/42/section/204/1) applied by 2007 c. 18, s. 42(5C) (as inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 287(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/287/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7)))

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to the Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019[^key-7b1d07ec204bd45b1cc5c6bb31b0e389]
+## 3. Amendments to the Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019[^c-7b1d07ec204bd45b1cc5c6bb31b0e389]
 
 *Extent: E+W+S+N.I.*
 
 The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019[^f00002] are amended as follows.
 
-**4.**[^key-d8197371acfad7acd3545f800b3de0e3] For “exit day”, in each place it occurs, substitute “IP completion day”.
+**4.**[^c-d8197371acfad7acd3545f800b3de0e3] For “exit day”, in each place it occurs, substitute “IP completion day”.
 
-**5.**[^key-6c7067df22d81cbe9ae6253830fab3f7] In regulation 1 (citation and commencement)—
+**5.**[^c-6c7067df22d81cbe9ae6253830fab3f7] In regulation 1 (citation and commencement)—
 
 - (a) for the heading, substitute—
 
@@ -39,7 +39,7 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
 
   .
 
-**6.**[^key-2adc2bac44f5cc62c446de6d2c3a9361] (1) In each of the provisions listed in paragraph (2), for “United Kingdom” substitute “Great Britain”.
+**6.**[^c-2adc2bac44f5cc62c446de6d2c3a9361] (1) In each of the provisions listed in paragraph (2), for “United Kingdom” substitute “Great Britain”.
 
 (2) The provisions referred to in paragraph (1) are—
 
@@ -150,7 +150,7 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
   - (xii) paragraph 14(3);
   - (xiii) paragraph 15(3).
 
-**7.**[^key-d842150e804546086d0e9e0fd06966ed] In Schedule 1—
+**7.**[^c-d842150e804546086d0e9e0fd06966ed] In Schedule 1—
 
 - (a) in paragraph 2(2)—
   - (i) for the inserted definition of “importer” substitute—
@@ -195,7 +195,7 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
 
   .
 
-**8.**[^key-1fb811b2abe2ed99857745e83947175c] In Schedule 2—
+**8.**[^c-1fb811b2abe2ed99857745e83947175c] In Schedule 2—
 
 - (a) omit paragraph 5 (amendment of [Commission Regulation (EC) No 278/2009](https://www.legislation.gov.uk/european/regulation/2009/0278));
 - (b) in paragraph 19 (amendment of [Commission Regulation (EU) No 813/2013](https://www.legislation.gov.uk/european/regulation/2013/0813), in sub-paragraph (4)(b)—
@@ -279,7 +279,7 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
       .
     - (dd) in paragraph (e), for “the fourth paragraph” substitute “the fifth paragraph”.
 
-**9.**[^key-7cfe536a7f0adc65ced0a3a825d9ab8c] In Schedule 4—
+**9.**[^c-7cfe536a7f0adc65ced0a3a825d9ab8c] In Schedule 4—
 
 - (a) in paragraph 3—
   - (i) for sub-paragraph (2) substitute—
@@ -326,7 +326,7 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
 - (c) in sub-paragraphs (4) and (5) of paragraph 9, for “United Kingdom market” substitute “market of Great Britain”;
 - (d) in paragraph 11, in the inserted Article 11, for “United Kingdom market” in each place it occurs, substitute “market of Great Britain”.
 
-**10.**[^key-039359097e0b7170bd5ed554b133f81b] In Schedule 5—
+**10.**[^c-039359097e0b7170bd5ed554b133f81b] In Schedule 5—
 
 - (a) in paragraph 7(2)(a), for “in paragraphs 1(b) and 2(a), in both instances” substitute “in paragraph 1(b)”;
 - (b) omit paragraphs 7(2)(b) and (3);
@@ -334,21 +334,21 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
 
 ## Annotations
 
-[^key-7b1d07ec204bd45b1cc5c6bb31b0e389]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-7b1d07ec204bd45b1cc5c6bb31b0e389]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-d8197371acfad7acd3545f800b3de0e3]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-d8197371acfad7acd3545f800b3de0e3]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
-[^key-6c7067df22d81cbe9ae6253830fab3f7]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-6c7067df22d81cbe9ae6253830fab3f7]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
-[^key-2adc2bac44f5cc62c446de6d2c3a9361]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-2adc2bac44f5cc62c446de6d2c3a9361]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
-[^key-d842150e804546086d0e9e0fd06966ed]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-d842150e804546086d0e9e0fd06966ed]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
 [^f00003]: Footnote: See Article 2 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) setting out the requirements for accreditation and market surveillance relating to the marketing of products (RAMS) for the meaning of “economic operator”; and see regulation 2(2) of the Ecodesign for Energy-Related Products Regulations 2010 for the application of expressions used in RAMS to those Regulations.
 
-[^key-1fb811b2abe2ed99857745e83947175c]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-1fb811b2abe2ed99857745e83947175c]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2016/1107](https://www.legislation.gov.uk/uksi/2016/1107).
 
@@ -360,8 +360,8 @@ The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU
 
 [^f00008]: Footnote: See regulations 2 and 2A of [S.I. 2010/2617](https://www.legislation.gov.uk/uksi/2010/2617) (as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539)) for the meaning of “designated standard”; that definition applies to [Commission Regulation (EU) No 548/2014](https://www.legislation.gov.uk/european/regulation/2014/0548) by virtue of paragraph 22(2) of Schedule 2 to [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539).
 
-[^key-7cfe536a7f0adc65ced0a3a825d9ab8c]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-7cfe536a7f0adc65ced0a3a825d9ab8c]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
 
 [^f00009]: Footnote: EUR765/2008. The definitions of “market surveillance” and “market surveillance authority” are set out in Article 2(17) and (18) respectively, and are amended by paragraph 3 of Schedule 33 to [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).
 
-[^key-039359097e0b7170bd5ed554b133f81b]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)
+[^c-039359097e0b7170bd5ed554b133f81b]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2)

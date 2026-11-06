@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**25.**[^key-b844578974ed312ed1a5df3b4f25f9ec] (1) The undertakings referred to in regulation 20(b) shall be given to the Commissioners by the claimant no later than the time at which he makes the claim for which the reimbursement arrangements have been made.
+**25.**[^c-b844578974ed312ed1a5df3b4f25f9ec] (1) The undertakings referred to in regulation 20(b) shall be given to the Commissioners by the claimant no later than the time at which he makes the claim for which the reimbursement arrangements have been made.
 
 (2) The undertakings shall be in writing and shall be signed and dated by the claimant.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b844578974ed312ed1a5df3b4f25f9ec]: Commencement: Reg. 25 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-b844578974ed312ed1a5df3b4f25f9ec]: Commencement: Reg. 25 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

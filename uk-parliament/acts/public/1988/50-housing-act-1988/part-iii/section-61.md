@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-fe4d2de36d88c9c983aedd4603df69c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fe4d2de36d88c9c983aedd4603df69c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where the Secretary of State is considering a proposal to make a designation order, he shall use his best endeavours to secure that notice of the proposal is given to all tenants of houses in the area proposed to be designated who are either secure tenants or introductory tenants[^c12869971] [^key-64d0398718f817df902225bc375e55ad]... or tenants of such description as may be prescribed by regulations.
+(2) Where the Secretary of State is considering a proposal to make a designation order, he shall use his best endeavours to secure that notice of the proposal is given to all tenants of houses in the area proposed to be designated who are either secure tenants or introductory tenants[^c12869971] [^c-64d0398718f817df902225bc375e55ad]... or tenants of such description as may be prescribed by regulations.
 
 (3) After having taken the action required by subsection (2) above, the Secretary of State shall either—
 
@@ -33,14 +33,14 @@ summary: ''
 
 (5) The power to make regulations under subsection (2) above shall be exercisable by the Secretary of State by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6)[^key-720a167bf7e8ca3a316c21e46346f977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-720a167bf7e8ca3a316c21e46346f977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe4d2de36d88c9c983aedd4603df69c0]: Textual amendment: S. 61(1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/3/a)
+[^c-fe4d2de36d88c9c983aedd4603df69c0]: Textual amendment: S. 61(1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/3/a)
 
 [^c12869971]: Textual amendment: Words in s. 61(2) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/6/a)
 
-[^key-64d0398718f817df902225bc375e55ad]: Textual amendment: Words in s. 61(2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/3/b)
+[^c-64d0398718f817df902225bc375e55ad]: Textual amendment: Words in s. 61(2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/3/b)
 
-[^key-720a167bf7e8ca3a316c21e46346f977]: Textual amendment: S. 61(6) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(3)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/3/c)
+[^c-720a167bf7e8ca3a316c21e46346f977]: Textual amendment: S. 61(6) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(3)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/3/c)

@@ -64,7 +64,7 @@ Section 68.
 
 ### Rehabilitation of Offenders Act 1974 (c.53)
 
-**5.**[^key-825785767b35da12cfdb19d8b6b425e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-825785767b35da12cfdb19d8b6b425e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Magistrates’ Courts Act 1980 (c.43)
 
@@ -95,7 +95,7 @@ Section 68.
 
 [^c13782661]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1991/53/schedule/8/paragraph/4) wholly in force at 1.10.1992 see [s. 102(2)(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/102/2/3) and [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
 
-[^key-825785767b35da12cfdb19d8b6b425e0]: Textual amendment: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1991/53/schedule/8/paragraph/5) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-825785767b35da12cfdb19d8b6b425e0]: Textual amendment: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1991/53/schedule/8/paragraph/5) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c13782691]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/1991/53/schedule/8/paragraph/6) wholly in force at 1.10.1992 see [s. 102(2)(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/102/2/3) and [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
 

@@ -30,11 +30,11 @@ Transport Act (Northern Ireland) 1967 [^c17016881]
 
 An Act to make further provision for the re-organisation of public transport and otherwise to amend the law relating to transport; and for purposes connected therewith.
 
-\[14th December 1967\][^key-960ec86344527f1d5176c3771170d4eb][^M_C_beda7138-f8e8-4659-b04d-615beae1dc5e]
+\[14th December 1967\][^c-960ec86344527f1d5176c3771170d4eb][^M_C_beda7138-f8e8-4659-b04d-615beae1dc5e]
 
 ## Contents
 
-### PART II — CARRIAGE OF PASSENGERS BY ROAD[^c20710321][^key-594a5d0233ac5ed1fe537371befa3436]
+### PART II — CARRIAGE OF PASSENGERS BY ROAD[^c20710321][^c-594a5d0233ac5ed1fe537371befa3436]
 
 #### Road service licences
 
@@ -53,13 +53,13 @@ An Act to make further provision for the re-organisation of public transport and
 - [Section 10D — Permits under section 10B: regulations.](part-ii/section-10d.md)
 - [Section 11 — Powers to make grants to operators of road passenger transport services.](part-ii/section-11.md)
 
-### PART III — CARRIAGE OF GOODS BY ROAD[^key-ea40d1c9aedf7873d2fb11b83982d450]
+### PART III — CARRIAGE OF GOODS BY ROAD[^c-ea40d1c9aedf7873d2fb11b83982d450]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Road freight operators' licences[^key-ea40d1c9aedf7873d2fb11b83982d450]
+#### Road freight operators' licences[^c-ea40d1c9aedf7873d2fb11b83982d450]
 
 **No longer in force.**
 
@@ -68,7 +68,7 @@ An Act to make further provision for the re-organisation of public transport and
 - [Section 15A — Conditions of operators' licences.](part-iii/section-15a.md)
 - [Section 16 — Duration of, and fees for, operators' licences.](part-iii/section-16.md)
 
-#### Road freight vehicle licences[^key-ea40d1c9aedf7873d2fb11b83982d450]
+#### Road freight vehicle licences[^c-ea40d1c9aedf7873d2fb11b83982d450]
 
 **No longer in force.**
 
@@ -83,7 +83,7 @@ An Act to make further provision for the re-organisation of public transport and
 - [Section 26 — Licence, notice or mark to be affixed to and exhibited on certain vehicles.](part-iii/section-26.md)
 - [Section 27 — Surrender of vehicle licences.](part-iii/section-27.md)
 
-#### General provisions relating to operators' or vehicle licences[^key-ea40d1c9aedf7873d2fb11b83982d450]
+#### General provisions relating to operators' or vehicle licences[^c-ea40d1c9aedf7873d2fb11b83982d450]
 
 **No longer in force.**
 
@@ -91,7 +91,7 @@ An Act to make further provision for the re-organisation of public transport and
 - [Section 28A — Refusal of operators' licences in certain cases.](part-iii/section-28a.md)
 - [Section 29 — Suspension and revocation of operators' or vehicle licences.](part-iii/section-29.md)
 
-### PART IV — GENERAL PROVISIONS RELATING TO LICENCES UNDER PARTS II AND III[^key-b3179796f2c1878349b07ed6bd25523a]
+### PART IV — GENERAL PROVISIONS RELATING TO LICENCES UNDER PARTS II AND III[^c-b3179796f2c1878349b07ed6bd25523a]
 
 - [Section 31 — Records of licences.](part-iv/section-31.md)
 - [Section 32 — Copies of licences.](part-iv/section-32.md)
@@ -235,17 +235,17 @@ SCHEDULES
 
 [^c17016881]: Textual amendment: Certain functions transf. by SR 1999/481
 
-[^key-960ec86344527f1d5176c3771170d4eb]: Modification: Act modified (13.1.2014) by [The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 (S.R. 2013/287)](https://www.legislation.gov.uk/nisr/2013/287), [reg. 15(1)](https://www.legislation.gov.uk/nisr/2013/287/regulation/15/1)
+[^c-960ec86344527f1d5176c3771170d4eb]: Modification: Act modified (13.1.2014) by [The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 (S.R. 2013/287)](https://www.legislation.gov.uk/nisr/2013/287), [reg. 15(1)](https://www.legislation.gov.uk/nisr/2013/287/regulation/15/1)
 
 [^M_C_beda7138-f8e8-4659-b04d-615beae1dc5e]: Modification: Act modified (28.3.2019) by [The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 (S.R. 2019/27)](https://www.legislation.gov.uk/nisr/2019/27), [reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2019/27/regulation/4/2/a)
 
 [^c20710321]: Modification: [Pt. 2](https://www.legislation.gov.uk/apni/1967/37/part/2) (ss. 4-13) excluded (prosp.) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [ss. 54(2)](https://www.legislation.gov.uk/nia/2008/4/section/54/2), [59](https://www.legislation.gov.uk/nia/2008/4/section/59) (with [s. 54(3)](https://www.legislation.gov.uk/nia/2008/4/section/54/3))
 
-[^key-594a5d0233ac5ed1fe537371befa3436]: Modification: [Pt. II](https://www.legislation.gov.uk/apni/1967/37/part/II): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-594a5d0233ac5ed1fe537371befa3436]: Modification: [Pt. II](https://www.legislation.gov.uk/apni/1967/37/part/II): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-ea40d1c9aedf7873d2fb11b83982d450]: Textual amendment: Pt. III repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-ea40d1c9aedf7873d2fb11b83982d450]: Textual amendment: Pt. III repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-b3179796f2c1878349b07ed6bd25523a]: Modification: [Pt. IV](https://www.legislation.gov.uk/apni/1967/37/part/IV): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b3179796f2c1878349b07ed6bd25523a]: Modification: [Pt. IV](https://www.legislation.gov.uk/apni/1967/37/part/IV): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c17016891]: Textual amendment: [1984 NI 15](https://www.legislation.gov.uk/1984/ni15)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. River basin management plans: publicity and consultation[^key-9e5cf19542c1e55e482f8139f85fae55]
+## 11. River basin management plans: publicity and consultation[^c-9e5cf19542c1e55e482f8139f85fae55]
 
 *Extent: S*
 
@@ -49,7 +49,7 @@ summary: ''
 - (d) every local authority any part of whose area is within the river basin district,
 - (e) every district salmon fishery board any part of whose salmon fishery district is within the river basin district,
 - (f) where any part of the river basin district has been designated as a National Park, the National Park authority for that National Park,
-- (fa)[^key-055c123c149ae8cb2cee79dd8602ca7d] where any part of the river basin district has been designated as a shellfish water protected area, Food Standards Scotland[^key-9913c706036346a4f48164e312d67bec],
+- (fa)[^c-055c123c149ae8cb2cee79dd8602ca7d] where any part of the river basin district has been designated as a shellfish water protected area, Food Standards Scotland[^c-9913c706036346a4f48164e312d67bec],
 - (g) such persons as appear to SEPA to be representative of the interests of those carrying on any business which relies upon the water environment within the river basin district,
 - (h) such persons as appear to SEPA to have an interest in the protection of the water environment within the river basin district,
 - (i) such persons as appear to SEPA to have an interest in the promotion of sustainable flood management,
@@ -80,8 +80,8 @@ which are received by SEPA within the period determined under subsection (5)(b).
 
 ## Annotations
 
-[^key-9e5cf19542c1e55e482f8139f85fae55]: Commencement: S. 11 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)
+[^c-9e5cf19542c1e55e482f8139f85fae55]: Commencement: S. 11 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)
 
-[^key-055c123c149ae8cb2cee79dd8602ca7d]: Textual amendment: S. 11(6)(fa) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(5)](https://www.legislation.gov.uk/asp/2013/7/section/54/5), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-055c123c149ae8cb2cee79dd8602ca7d]: Textual amendment: S. 11(6)(fa) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(5)](https://www.legislation.gov.uk/asp/2013/7/section/54/5), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-9913c706036346a4f48164e312d67bec]: Textual amendment: Words in s. 11(6)(fa) substituted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 8](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/8) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9913c706036346a4f48164e312d67bec]: Textual amendment: Words in s. 11(6)(fa) substituted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 8](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/8) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

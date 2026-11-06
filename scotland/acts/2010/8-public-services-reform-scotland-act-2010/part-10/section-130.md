@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Consultation by water and sewerage services providers[^key-f1847ac17c76e11ec769342f50fe5010]
+## 130. Consultation by water and sewerage services providers[^c-f1847ac17c76e11ec769342f50fe5010]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1847ac17c76e11ec769342f50fe5010]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2010/8/section/130) in force at 15.8.2011 by [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/278/article/2/b)
+[^c-f1847ac17c76e11ec769342f50fe5010]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2010/8/section/130) in force at 15.8.2011 by [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/278/article/2/b)

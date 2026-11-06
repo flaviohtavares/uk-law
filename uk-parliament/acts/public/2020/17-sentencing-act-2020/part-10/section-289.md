@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Suspended sentence to be treated generally as sentence of imprisonment etc[^key-cda439896488d15f5549024365be9d3d]
+## 289. Suspended sentence to be treated generally as sentence of imprisonment etc[^c-cda439896488d15f5549024365be9d3d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ for the purposes of all enactments and instruments made under enactments.
 
 ## Annotations
 
-[^key-cda439896488d15f5549024365be9d3d]: Commencement: S. 289 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cda439896488d15f5549024365be9d3d]: Commencement: S. 289 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

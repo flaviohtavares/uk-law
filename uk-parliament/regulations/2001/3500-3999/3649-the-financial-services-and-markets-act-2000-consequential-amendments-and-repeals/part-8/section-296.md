@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296. Meaning of “deposit-taking institution”[^key-20f959f4eef83b8710f0c612bf824f47]
+## 296. Meaning of “deposit-taking institution”[^c-20f959f4eef83b8710f0c612bf824f47]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20f959f4eef83b8710f0c612bf824f47]: Commencement: Art. 296 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-20f959f4eef83b8710f0c612bf824f47]: Commencement: Art. 296 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00221]: Footnote: The definition of “deposit-taking institution” was amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), s.108(1), Schedule 6, para.15.

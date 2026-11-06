@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Repayment[^key-a294cb62268f6af8d64c0b650e76dd53]
+## 40. Repayment[^c-a294cb62268f6af8d64c0b650e76dd53]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a294cb62268f6af8d64c0b650e76dd53]: Commencement: Reg. 40 in force at 27.5.2019, see reg. 1(2)
+[^c-a294cb62268f6af8d64c0b650e76dd53]: Commencement: Reg. 40 in force at 27.5.2019, see reg. 1(2)

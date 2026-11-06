@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make provision about the regulation
 
 ## Overview
 
-### 1. Overview of this Act[^key-f4e5328b7ec6256176f956744abd98d3]
+### 1. Overview of this Act[^c-f4e5328b7ec6256176f956744abd98d3]
 
 (1) This Act makes provision in respect of registered social landlords by amending existing Acts, including in particular the Housing Act 1996 (c. 52).
 
@@ -62,13 +62,13 @@ An Act of the National Assembly for Wales to make provision about the regulation
 
 ## Interpretation
 
-### 2. Meaning of the “1996 Act”[^key-7536f5f33529d671066aa15095094af8]
+### 2. Meaning of the “1996 Act”[^c-7536f5f33529d671066aa15095094af8]
 
 References in this Act to the “1996 Act” are to the Housing Act 1996 (c. 52).
 
 ## Notification by registered social landlord of constitutional changes, etc.
 
-### 3. Change of rules or articles[^key-ed278beafbf9fb9d87a25842b444e261]
+### 3. Change of rules or articles[^c-ed278beafbf9fb9d87a25842b444e261]
 
 (1) Schedule 1 to the 1996 Act is amended as follows.
 
@@ -86,7 +86,7 @@ References in this Act to the “1996 Act” are to the Housing Act 1996 (c. 52)
 > - (b) the address of its registered office;
 > - (c) its articles of association.
 
-### 4. Amalgamation and other structural changes[^key-bc534c0c6df304074a03e8fae6a3ccf6]
+### 4. Amalgamation and other structural changes[^c-bc534c0c6df304074a03e8fae6a3ccf6]
 
 (1) Schedule 1 to the 1996 Act is amended as follows.
 
@@ -125,7 +125,7 @@ References in this Act to the “1996 Act” are to the Housing Act 1996 (c. 52)
 
 (10) Omit paragraph 14 (Welsh Ministers' power to petition for winding up).
 
-### 5. Directions about notifications to be given to Welsh Ministers[^key-bc8781c6ccae5f7c02e94cb98e1ca1c0]
+### 5. Directions about notifications to be given to Welsh Ministers[^c-bc8781c6ccae5f7c02e94cb98e1ca1c0]
 
 In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
@@ -146,7 +146,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 ## Powers exercisable in respect of officers and management of registered social landlord
 
-### 6. Removal or appointment of officer of registered social landlord[^key-bcf42a2895d7f396859cb21dc66131f7]
+### 6. Removal or appointment of officer of registered social landlord[^c-bcf42a2895d7f396859cb21dc66131f7]
 
 (1) Schedule 1 to the 1996 Act is amended as follows.
 
@@ -158,7 +158,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 (5) In paragraph 8 (power to appoint officer of registered society), in sub-paragraph (1)(c), for “for the proper management of the society's affairs to have an additional officer” substitute “ to have an additional officer in order to ensure that the society complies with a requirement imposed by or under an enactment ”.
 
-### 7. Tender or transfer of registered social landlord's management functions[^key-35c8f7d48e4d65be41396a0fecec6f26]
+### 7. Tender or transfer of registered social landlord's management functions[^c-35c8f7d48e4d65be41396a0fecec6f26]
 
 (1) Schedule 1 to the 1996 Act is amended as follows.
 
@@ -172,7 +172,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 > (2) But this paragraph does not apply if the failure relates only to the registered social landlord's provision of housing in England.
 
-### 8. Appointment of manager of registered social landlord[^key-c68e6eab0c80c6044110923896731444]
+### 8. Appointment of manager of registered social landlord[^c-c68e6eab0c80c6044110923896731444]
 
 (1) In Schedule 1 to the 1996 Act, paragraph 15F (appointment of manager) is amended as follows.
 
@@ -180,7 +180,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 (3) In sub-paragraph (2), for “where the misconduct or mismanagement” substitute “ if the failure ”.
 
-### 9. Amalgamation effected by Welsh Ministers[^key-7076f666ab017a2f2f13fa812f4cfa96]
+### 9. Amalgamation effected by Welsh Ministers[^c-7076f666ab017a2f2f13fa812f4cfa96]
 
 (1) In Schedule 1 to the 1996 Act, paragraph 15H (amalgamation) is amended as follows.
 
@@ -192,7 +192,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 ## Powers exercisable in respect of inquiries etc.
 
-### 10. Inquiries and reports[^key-fd36e475ab6b05f3d93df42bb86e1c2a]
+### 10. Inquiries and reports[^c-fd36e475ab6b05f3d93df42bb86e1c2a]
 
 (1) Schedule 1 to the 1996 Act is amended as follows.
 
@@ -221,7 +221,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 ## Enforcement notices and penalties
 
-### 11. Enforcement notices[^key-7e91e7bb0e2e560000c362b22d2d03eb]
+### 11. Enforcement notices[^c-7e91e7bb0e2e560000c362b22d2d03eb]
 
 (1) Section 50C of the 1996 Act (enforcement notices) is amended as follows.
 
@@ -233,7 +233,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 > (10A) But Case 2 is not to be treated as applying if any of the other cases listed in this section applies.
 
-### 12. Requirement to pay a penalty[^key-07a7b1b14fd31d1528bfcac03c001de2]
+### 12. Requirement to pay a penalty[^c-07a7b1b14fd31d1528bfcac03c001de2]
 
 (1) Section 50H of the 1996 Act (cases in which penalty may be imposed) is amended as follows.
 
@@ -247,7 +247,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 
 ## Disposals of land
 
-### 13. Disposal of land: consent[^key-8bc05c22ace9dbc731c844c54a386979]
+### 13. Disposal of land: consent[^c-8bc05c22ace9dbc731c844c54a386979]
 
 (1) In the Housing Act 1985 (c. 68), in section 171D (subsequent dealings: qualifying dwelling house), in subsection (2ZA), after “housing” insert “ or by a registered social landlord ”.
 
@@ -273,7 +273,7 @@ In Schedule 1 to the 1996 Act, after paragraph 13 insert—
 > - (f) the grant of an assured tenancy or an assured agricultural occupancy, within the meaning of Part 1 of this Act, or what would be such a tenancy or occupancy but for any of paragraphs 4 to 8 of Schedule 1 to this Act;
 > - (g) the transfer of an interest held on trust for any person where the disposal is made in connection with the appointment of a new trustee or in connection with the discharge of any trustee.
 
-### 14. Disposal of land: notification[^key-3a843204e641874b30bd572c61708f47]
+### 14. Disposal of land: notification[^c-3a843204e641874b30bd572c61708f47]
 
 In the 1996 Act, for section 9 substitute—
 
@@ -296,7 +296,7 @@ In the 1996 Act, for section 9 substitute—
 >
 > (7) A registered social landlord must comply with a direction under this section.
 
-### 15. Disposal proceeds fund[^key-df2f9da061e3de555b17ebda8cadcfaa]
+### 15. Disposal proceeds fund[^c-df2f9da061e3de555b17ebda8cadcfaa]
 
 In the 1996 Act, omit—
 
@@ -306,17 +306,17 @@ In the 1996 Act, omit—
 
 ## Board membership and voting rights
 
-### 16. Limit on local authority board membership and voting rights[^key-10826b8877ff4e928991e74fe77b5698]
+### 16. Limit on local authority board membership and voting rights[^c-10826b8877ff4e928991e74fe77b5698]
 
 Schedule 1 to this Act inserts a new Chapter 1A into Part 1 of the 1996 Act (social rented sector regulated by the Welsh Ministers), limiting local authorities' powers in respect of the membership of the board of a registered social landlord and their voting rights.
 
 ## General
 
-### 17. Minor and consequential amendments[^key-a39bafc67c8c0dd17ac683f915474053]
+### 17. Minor and consequential amendments[^c-a39bafc67c8c0dd17ac683f915474053]
 
 Schedule 2 contains minor and consequential amendments.
 
-### 18. Power to make further consequential amendments etc.[^key-97f09630c36d00340823a0fe93da17bf]
+### 18. Power to make further consequential amendments etc.[^c-97f09630c36d00340823a0fe93da17bf]
 
 (1) The Welsh Ministers may by regulations make such provision amending, repealing or revoking any enactment as they consider appropriate in consequence of any provision made by or under this Act, or for the purpose of giving full effect to any provision made by or under this Act.
 
@@ -350,11 +350,11 @@ Schedule 2 contains minor and consequential amendments.
 
 The short title of this Act is the Regulation of Registered Social Landlords (Wales) Act 2018.
 
-## SCHEDULE 1 — LIMIT ON LOCAL AUTHORITY BOARD MEMBERSHIP AND VOTING RIGHTS[^key-dacd1473c6615d9977a458125176dd46]
+## SCHEDULE 1 — LIMIT ON LOCAL AUTHORITY BOARD MEMBERSHIP AND VOTING RIGHTS[^c-dacd1473c6615d9977a458125176dd46]
 
 (introduced by section 16)
 
-[^key-dacd1473c6615d9977a458125176dd46]
+[^c-dacd1473c6615d9977a458125176dd46]
 
 In Part 1 of the 1996 Act, after Chapter 1 insert—
 
@@ -492,38 +492,38 @@ In Part 1 of the 1996 Act, after Chapter 1 insert—
 
 ### Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
 
-**1.**[^key-36b32fc86eff01e0fb92ddfae9ea5c35] In paragraph 1(2) of Schedule 10 to the Leasehold Reform, Housing and Urban Development Act 1993 (acquisition of interests from local authorities)—
+**1.**[^c-36b32fc86eff01e0fb92ddfae9ea5c35] In paragraph 1(2) of Schedule 10 to the Leasehold Reform, Housing and Urban Development Act 1993 (acquisition of interests from local authorities)—
 
 - (a) in paragraph (ba), for “sections 9 and” substitute “ section ”;
 - (b) in paragraph (c), omit “and section 81 of that Act (certain subsequent disposals); and”.
 
 ### Housing Act 1996 (c. 52)
 
-**2.**[^key-1ad2984d99e52a6d5b6dfb58ef3709ba] The 1996 Act is amended as follows.
+**2.**[^c-1ad2984d99e52a6d5b6dfb58ef3709ba] The 1996 Act is amended as follows.
 
-**3.**[^key-434e867eb26032986d42f4863c8e723c] In section 8 (power of registered social landlord to dispose of land), in subsection (3), for “(control by Welsh Ministers of land transactions)” substitute “ (notification to Welsh Ministers of disposal of land) ”.
+**3.**[^c-434e867eb26032986d42f4863c8e723c] In section 8 (power of registered social landlord to dispose of land), in subsection (3), for “(control by Welsh Ministers of land transactions)” substitute “ (notification to Welsh Ministers of disposal of land) ”.
 
-**4.**[^key-f2ecca0c6cdab90108839f7619349dc4] In the italic cross-heading before section 9, for “Control by Welsh Ministers of” substitute “ Requirements relating to ”.
+**4.**[^c-f2ecca0c6cdab90108839f7619349dc4] In the italic cross-heading before section 9, for “Control by Welsh Ministers of” substitute “ Requirements relating to ”.
 
-**5.**[^key-56656f7ced084ce1e94e0a2622102020] Omit section 10 (disposals not requiring consent).
+**5.**[^c-56656f7ced084ce1e94e0a2622102020] Omit section 10 (disposals not requiring consent).
 
-**6.**[^key-60d5411d8c33a43c9a33d1ada5f777f2] In section 11 (covenant for repayment of discount on disposal), in subsection (1)—
+**6.**[^c-60d5411d8c33a43c9a33d1ada5f777f2] In section 11 (covenant for repayment of discount on disposal), in subsection (1)—
 
 - (a) omit “, in accordance with a consent given by the Welsh Ministers under section 9,”;
 - (b) omit “and the consent does not provide otherwise,”.
 
-**7.**[^key-0cd16e47af40c979deae80d7ee317c0c] In section 12A (right of first refusal for registered social landlord), in subsection (1)—
+**7.**[^c-0cd16e47af40c979deae80d7ee317c0c] In section 12A (right of first refusal for registered social landlord), in subsection (1)—
 
 - (a) omit “, in accordance with a consent given by the Welsh Ministers under section 9,“ ;
 - (b) omit “and the consent does not provide otherwise,”.
 
-**8.**[^key-9caeeb083e3eda02bffb46c573c12e16] In section 13 (restriction on disposal of houses in National Parks etc.), in subsection (1), omit “, in accordance with a consent given by the Welsh Ministers under section 9,”.
+**8.**[^c-9caeeb083e3eda02bffb46c573c12e16] In section 13 (restriction on disposal of houses in National Parks etc.), in subsection (1), omit “, in accordance with a consent given by the Welsh Ministers under section 9,”.
 
-**9.**[^key-91c724d0be9a1d81df16277ad658d014] In section 16 (right of tenant to acquire dwelling), in subsection (2)(b), for “(see section 25)” substitute “ maintained under this Act prior to the coming into force of section 15 of the Regulation of Registered Social Landlords (Wales) Act 2018 ”.
+**9.**[^c-91c724d0be9a1d81df16277ad658d014] In section 16 (right of tenant to acquire dwelling), in subsection (2)(b), for “(see section 25)” substitute “ maintained under this Act prior to the coming into force of section 15 of the Regulation of Registered Social Landlords (Wales) Act 2018 ”.
 
-**10.**[^key-615b3c547b01ab250b6f5e7ac7d5c4e4] In section 36 (guidance about the management of housing in England), omit subsection (7).
+**10.**[^c-615b3c547b01ab250b6f5e7ac7d5c4e4] In section 36 (guidance about the management of housing in England), omit subsection (7).
 
-**11.**[^key-9346a0b98fa0f3d29dcdf4efeb37ce98] In section 42 (moratorium on disposal of land), for subsection (3) substitute—
+**11.**[^c-9346a0b98fa0f3d29dcdf4efeb37ce98] In section 42 (moratorium on disposal of land), for subsection (3) substitute—
 
 > (3) Consent is not required under this section for—
 >
@@ -531,83 +531,83 @@ In Part 1 of the 1996 Act, after Chapter 1 insert—
 > - (b) a letting of land under a secure tenancy or what would be a secure tenancy but for any of paragraphs 2 to 12 of Schedule 1 to the Housing Act 1985;
 > - (c) a disposal under Part 5 of the Housing Act 1985 (the right to buy) or under the right conferred by section 16 (the right to acquire).
 
-**12.**[^key-8fd2475bdfc8df9f6f33fba810d7dd84] In section 52 (general provisions as to orders), in subsection (1), after “section 2,” insert “ 7J, ”.
+**12.**[^c-8fd2475bdfc8df9f6f33fba810d7dd84] In section 52 (general provisions as to orders), in subsection (1), after “section 2,” insert “ 7J, ”.
 
-**13.**[^key-9bd84dddf5b300ff9306c6fc78d2866d] In section 63, in the appropriate place, insert “ “**notify**” means notify in writing; ”.
+**13.**[^c-9bd84dddf5b300ff9306c6fc78d2866d] In section 63, in the appropriate place, insert “ “**notify**” means notify in writing; ”.
 
-**14.**[^key-49f9eaf3d7a7e295998ae894d54dd09e] In Schedule 1 (registered social landlords, regulation), in paragraph 25, in sub-paragraph (1)(a), omit “for misconduct or mismanagement”.
+**14.**[^c-49f9eaf3d7a7e295998ae894d54dd09e] In Schedule 1 (registered social landlords, regulation), in paragraph 25, in sub-paragraph (1)(a), omit “for misconduct or mismanagement”.
 
-**15.**[^key-fe90905f6dd7d5c2a0b0af7f4d216ecd] In Schedule 1, in paragraph 28—
+**15.**[^c-fe90905f6dd7d5c2a0b0af7f4d216ecd] In Schedule 1, in paragraph 28—
 
 - (a) in sub-paragraph (4)(b), omit “in connection with misconduct or mismanagement”;
 - (b) in sub-paragraph (4)(c), omit “in connection with misconduct or mismanagement”.
 
 ## Annotations
 
-[^key-f4e5328b7ec6256176f956744abd98d3]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/4/section/1) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/777/article/2/a)
+[^c-f4e5328b7ec6256176f956744abd98d3]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/4/section/1) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/777/article/2/a)
 
-[^key-7536f5f33529d671066aa15095094af8]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2018/4/section/2) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/777/article/2/b)
+[^c-7536f5f33529d671066aa15095094af8]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2018/4/section/2) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/777/article/2/b)
 
-[^key-ed278beafbf9fb9d87a25842b444e261]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2018/4/section/3) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
+[^c-ed278beafbf9fb9d87a25842b444e261]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2018/4/section/3) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
 
-[^key-bc534c0c6df304074a03e8fae6a3ccf6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2018/4/section/4) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
+[^c-bc534c0c6df304074a03e8fae6a3ccf6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2018/4/section/4) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
 
-[^key-bc8781c6ccae5f7c02e94cb98e1ca1c0]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2018/4/section/5) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
+[^c-bc8781c6ccae5f7c02e94cb98e1ca1c0]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2018/4/section/5) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
 
-[^key-bcf42a2895d7f396859cb21dc66131f7]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/4/section/6) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+[^c-bcf42a2895d7f396859cb21dc66131f7]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/4/section/6) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
 
-[^key-35c8f7d48e4d65be41396a0fecec6f26]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/4/section/7) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+[^c-35c8f7d48e4d65be41396a0fecec6f26]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/4/section/7) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
 
-[^key-c68e6eab0c80c6044110923896731444]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2018/4/section/8) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+[^c-c68e6eab0c80c6044110923896731444]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2018/4/section/8) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
 
-[^key-7076f666ab017a2f2f13fa812f4cfa96]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2018/4/section/9) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+[^c-7076f666ab017a2f2f13fa812f4cfa96]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2018/4/section/9) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
 
-[^key-fd36e475ab6b05f3d93df42bb86e1c2a]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2018/4/section/10) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(c)](https://www.legislation.gov.uk/wsi/2018/777/article/3/c)
+[^c-fd36e475ab6b05f3d93df42bb86e1c2a]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2018/4/section/10) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(c)](https://www.legislation.gov.uk/wsi/2018/777/article/3/c)
 
-[^key-7e91e7bb0e2e560000c362b22d2d03eb]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2018/4/section/11) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(d)](https://www.legislation.gov.uk/wsi/2018/777/article/3/d)
+[^c-7e91e7bb0e2e560000c362b22d2d03eb]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2018/4/section/11) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(d)](https://www.legislation.gov.uk/wsi/2018/777/article/3/d)
 
-[^key-07a7b1b14fd31d1528bfcac03c001de2]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2018/4/section/12) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(d)](https://www.legislation.gov.uk/wsi/2018/777/article/3/d)
+[^c-07a7b1b14fd31d1528bfcac03c001de2]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2018/4/section/12) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(d)](https://www.legislation.gov.uk/wsi/2018/777/article/3/d)
 
-[^key-8bc05c22ace9dbc731c844c54a386979]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2018/4/section/13) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e)
+[^c-8bc05c22ace9dbc731c844c54a386979]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2018/4/section/13) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e)
 
-[^key-3a843204e641874b30bd572c61708f47]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2018/4/section/14) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e)
+[^c-3a843204e641874b30bd572c61708f47]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2018/4/section/14) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e)
 
-[^key-df2f9da061e3de555b17ebda8cadcfaa]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2018/4/section/15) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/777/article/4))
+[^c-df2f9da061e3de555b17ebda8cadcfaa]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2018/4/section/15) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/777/article/4))
 
-[^key-10826b8877ff4e928991e74fe77b5698]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2018/4/section/16) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
+[^c-10826b8877ff4e928991e74fe77b5698]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2018/4/section/16) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
 
-[^key-a39bafc67c8c0dd17ac683f915474053]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2018/4/section/17) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-a39bafc67c8c0dd17ac683f915474053]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2018/4/section/17) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-97f09630c36d00340823a0fe93da17bf]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2018/4/section/18) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/777/article/2/c)
+[^c-97f09630c36d00340823a0fe93da17bf]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2018/4/section/18) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/777/article/2/c)
 
-[^key-dacd1473c6615d9977a458125176dd46]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
+[^c-dacd1473c6615d9977a458125176dd46]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
 
-[^key-36b32fc86eff01e0fb92ddfae9ea5c35]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/1) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-36b32fc86eff01e0fb92ddfae9ea5c35]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/1) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-1ad2984d99e52a6d5b6dfb58ef3709ba]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/2) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-1ad2984d99e52a6d5b6dfb58ef3709ba]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/2) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-434e867eb26032986d42f4863c8e723c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/3) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-434e867eb26032986d42f4863c8e723c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/3) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-f2ecca0c6cdab90108839f7619349dc4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/4) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-f2ecca0c6cdab90108839f7619349dc4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/4) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-56656f7ced084ce1e94e0a2622102020]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/5) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-56656f7ced084ce1e94e0a2622102020]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/5) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-60d5411d8c33a43c9a33d1ada5f777f2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/6) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-60d5411d8c33a43c9a33d1ada5f777f2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/6) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-0cd16e47af40c979deae80d7ee317c0c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/7) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-0cd16e47af40c979deae80d7ee317c0c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/7) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-9caeeb083e3eda02bffb46c573c12e16]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/8) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-9caeeb083e3eda02bffb46c573c12e16]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/8) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-91c724d0be9a1d81df16277ad658d014]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/9) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-91c724d0be9a1d81df16277ad658d014]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/9) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-615b3c547b01ab250b6f5e7ac7d5c4e4]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/10) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-615b3c547b01ab250b6f5e7ac7d5c4e4]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/10) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-9346a0b98fa0f3d29dcdf4efeb37ce98]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/11) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-9346a0b98fa0f3d29dcdf4efeb37ce98]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/11) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-8fd2475bdfc8df9f6f33fba810d7dd84]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/12) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-8fd2475bdfc8df9f6f33fba810d7dd84]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/12) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-9bd84dddf5b300ff9306c6fc78d2866d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/13) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-9bd84dddf5b300ff9306c6fc78d2866d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/13) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-49f9eaf3d7a7e295998ae894d54dd09e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/14) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-49f9eaf3d7a7e295998ae894d54dd09e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/14) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-fe90905f6dd7d5c2a0b0af7f4d216ecd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/15) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-fe90905f6dd7d5c2a0b0af7f4d216ecd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/15) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59A. Transfer of licence[^key-882af279e2c17ee6557f35922845975b][^key-0f4c17c9431d4be34ae11e4f1ecc6448]
+## 59A. Transfer of licence[^c-882af279e2c17ee6557f35922845975b][^c-0f4c17c9431d4be34ae11e4f1ecc6448]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 may be transferred by the holder of the licence to another person (“**the transferee**”) in accordance with the following provisions of this section.
 
-(2) The holder and the proposed transferee shall give notice (a “transfer notice”) to the appropriate agency[^key-5dcb8420d23f30c533898313e2bb1daa] of their agreement that the licence should be transferred.
+(2) The holder and the proposed transferee shall give notice (a “transfer notice”) to the appropriate agency[^c-5dcb8420d23f30c533898313e2bb1daa] of their agreement that the licence should be transferred.
 
 (3) The transfer notice shall include—
 
@@ -57,8 +57,8 @@ and may specify the date on which the holder and the transferee wish the transfe
 
 ## Annotations
 
-[^key-882af279e2c17ee6557f35922845975b]: Modification: S. 59A applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2006/641/regulation/21)
+[^c-882af279e2c17ee6557f35922845975b]: Modification: S. 59A applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2006/641/regulation/21)
 
-[^key-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
+[^c-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
 
-[^key-5dcb8420d23f30c533898313e2bb1daa]: Textual amendment: Words in [ss. 59A-59C](https://www.legislation.gov.uk/ukpga/1991/57/section/59A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(j)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/j) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5dcb8420d23f30c533898313e2bb1daa]: Textual amendment: Words in [ss. 59A-59C](https://www.legislation.gov.uk/ukpga/1991/57/section/59A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(j)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/j) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

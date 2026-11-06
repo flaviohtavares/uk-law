@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 321. Planning inquiries to be held in public subject to certain exceptions.[^c14031351][^key-8a2c775217fa755f5383c4fc70ff6e65]
+## 321. Planning inquiries to be held in public subject to certain exceptions.[^c14031351][^c-8a2c775217fa755f5383c4fc70ff6e65]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ he may direct that evidence of the description indicated in the direction shall 
 
 [^c14031351]: Modification: S. 321: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/a); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-8a2c775217fa755f5383c4fc70ff6e65]: Modification: [S. 321](https://www.legislation.gov.uk/ukpga/1990/8/section/321) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-8a2c775217fa755f5383c4fc70ff6e65]: Modification: [S. 321](https://www.legislation.gov.uk/ukpga/1990/8/section/321) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c18909831]: Textual amendment: S. 321(5)-(12) inserted (6.8.2004 for certain purposes and 7.6.2006 otherwise) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/80/1), [121](https://www.legislation.gov.uk/ukpga/2004/5/section/121) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); S.I. 2004/ 2097, {art. 2}; [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2](https://www.legislation.gov.uk/uksi/2006/1281/article/2)

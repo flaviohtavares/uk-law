@@ -31,29 +31,29 @@ In this Schedule—
 - “**CJCSA 2000**” means the Criminal Justice and Court Services Act 2000 [^c19670481];
 - “**PCC(S)A 2000**” means the Powers of Criminal Courts (Sentencing) Act 2000 [^c19670491].
 
-### 2. Punishments available to Service Civilian Court[^key-4a078beedb4609883ea5b8fbbe19a132]
+### 2. Punishments available to Service Civilian Court[^c-4a078beedb4609883ea5b8fbbe19a132]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Powers of Crown Court in relation to orders made by Service Civilian Court[^key-4a078beedb4609883ea5b8fbbe19a132]
+### 3. Powers of Crown Court in relation to orders made by Service Civilian Court[^c-4a078beedb4609883ea5b8fbbe19a132]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Testing for alcohol and drugs[^key-4a078beedb4609883ea5b8fbbe19a132]
+### 4. Testing for alcohol and drugs[^c-4a078beedb4609883ea5b8fbbe19a132]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Age at which imprisonment available[^key-4a078beedb4609883ea5b8fbbe19a132]
+### 5. Age at which imprisonment available[^c-4a078beedb4609883ea5b8fbbe19a132]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Mandatory custody for life[^key-4a078beedb4609883ea5b8fbbe19a132]
+### 6. Mandatory custody for life[^c-4a078beedb4609883ea5b8fbbe19a132]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Discretionary custody for life[^key-4a078beedb4609883ea5b8fbbe19a132]
+### 7. Discretionary custody for life[^c-4a078beedb4609883ea5b8fbbe19a132]
 
 **No longer in force.**
 
@@ -66,43 +66,43 @@ In this Schedule—
 - (a) article 89 (sentences required by SDAs) applies; and
 - (b) the offender is aged under 21 on conviction.
 
-(2) Where this paragraph applies, the references in article 89(2) and (4) to a sentence of life imprisonment are to be read as to a sentence of custody for life under section 272(2)(a) of the Sentencing Code, as applied by section 210A of AFA 2006[^key-ff5ab227bde3e7790e8fb1d73c754bfe].
+(2) Where this paragraph applies, the references in article 89(2) and (4) to a sentence of life imprisonment are to be read as to a sentence of custody for life under section 272(2)(a) of the Sentencing Code, as applied by section 210A of AFA 2006[^c-ff5ab227bde3e7790e8fb1d73c754bfe].
 
-### 9. Power to impose detention in a young offender institution[^key-4df7e466f76e3749e41912975c950016]
+### 9. Power to impose detention in a young offender institution[^c-4df7e466f76e3749e41912975c950016]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9A. Life and extended sentences: offenders aged at least 18 but under 21[^key-4df7e466f76e3749e41912975c950016]
+### 9A. Life and extended sentences: offenders aged at least 18 but under 21[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Interaction of detention in a young offender institution with detention and training order[^key-4df7e466f76e3749e41912975c950016]
+### 10. Interaction of detention in a young offender institution with detention and training order[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Consecutive sentences[^key-4df7e466f76e3749e41912975c950016]
+### 11. Consecutive sentences[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Restriction on imposing custodial sentence on unrepresented offender[^key-4df7e466f76e3749e41912975c950016]
+### 12. Restriction on imposing custodial sentence on unrepresented offender[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Crediting of time in service custody[^key-4df7e466f76e3749e41912975c950016]
+### 13. Crediting of time in service custody[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Re-sentencing powers[^key-4df7e466f76e3749e41912975c950016]
+### 14. Re-sentencing powers[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Sentences passed by civilian courts[^key-4df7e466f76e3749e41912975c950016]
+### 15. Sentences passed by civilian courts[^c-4df7e466f76e3749e41912975c950016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Meaning of “custodial sentence”[^key-4df7e466f76e3749e41912975c950016]
+### 16. Meaning of “custodial sentence”[^c-4df7e466f76e3749e41912975c950016]
 
 **No longer in force.**
 
@@ -134,11 +134,11 @@ In each of the following provisions of Schedule 6 to the Counter-Terrorism Act 2
 
 [^c19670491]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-4a078beedb4609883ea5b8fbbe19a132]: Textual amendment: Sch. 2 paras. 2-7 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4a078beedb4609883ea5b8fbbe19a132]: Textual amendment: Sch. 2 paras. 2-7 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ff5ab227bde3e7790e8fb1d73c754bfe]: Textual amendment: Words in Sch. 2 para. 8(2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 371](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/371) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ff5ab227bde3e7790e8fb1d73c754bfe]: Textual amendment: Words in Sch. 2 para. 8(2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 371](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/371) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4df7e466f76e3749e41912975c950016]: Textual amendment: Sch. 2 paras. 9-16 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4df7e466f76e3749e41912975c950016]: Textual amendment: Sch. 2 paras. 9-16 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19670501]: Marginal citation: [2008 c. 28](https://www.legislation.gov.uk/ukpga/2008/28).
 

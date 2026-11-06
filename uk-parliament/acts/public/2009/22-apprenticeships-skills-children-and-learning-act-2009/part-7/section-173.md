@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Transfer schemes[^key-f66f17878ad31278b733d0536a55170b]
+## 173. Transfer schemes[^c-f66f17878ad31278b733d0536a55170b]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f66f17878ad31278b733d0536a55170b]: Textual amendment: S. 173 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/24); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-f66f17878ad31278b733d0536a55170b]: Textual amendment: S. 173 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/24); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Set-off[^key-8db3a60c3da32dba4ed5d57aeafcfcf9]
+## 154. Set-off[^c-8db3a60c3da32dba4ed5d57aeafcfcf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,14 +27,14 @@ summary: ''
 (3) The conditions are that the monetary obligation—
 
 - (a) was incurred to the Crown or P’s employer (if different);
-- (aa)[^key-29769149e79fe0fd1aefca8a77bc660e] arose out of P’s criminal or fraudulent act or omission;
+- (aa)[^c-29769149e79fe0fd1aefca8a77bc660e] arose out of P’s criminal or fraudulent act or omission;
 - (b) was incurred after P became an active member of this scheme; and
 - (c) arose out of or was connected with service in a qualifying judicial office in respect of which P is a member of this scheme.
 
 (4) The conditions are that the monetary obligation—
 
 - (a) was incurred to this scheme; and
-- (b) arose out of P’s criminal or fraudulent[^key-712391cce451949be7014180b5056d48] act or omission.
+- (b) arose out of P’s criminal or fraudulent[^c-712391cce451949be7014180b5056d48] act or omission.
 
 (5) The conditions are that the monetary obligation—
 
@@ -62,11 +62,11 @@ summary: ''
 
 ## Annotations
 
-[^key-8db3a60c3da32dba4ed5d57aeafcfcf9]: Commencement: [Reg. 154](https://www.legislation.gov.uk/uksi/2015/182/regulation/154) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-8db3a60c3da32dba4ed5d57aeafcfcf9]: Commencement: [Reg. 154](https://www.legislation.gov.uk/uksi/2015/182/regulation/154) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-29769149e79fe0fd1aefca8a77bc660e]: Textual amendment: [Reg. 154(3)(aa)](https://www.legislation.gov.uk/uksi/2015/182/regulation/154/3/aa) inserted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [16(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/16/a)
+[^c-29769149e79fe0fd1aefca8a77bc660e]: Textual amendment: [Reg. 154(3)(aa)](https://www.legislation.gov.uk/uksi/2015/182/regulation/154/3/aa) inserted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [16(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/16/a)
 
-[^key-712391cce451949be7014180b5056d48]: Textual amendment: Words in [reg. 154(4)(b)](https://www.legislation.gov.uk/uksi/2015/182/regulation/154/4/b) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/16/b)
+[^c-712391cce451949be7014180b5056d48]: Textual amendment: Words in [reg. 154(4)(b)](https://www.legislation.gov.uk/uksi/2015/182/regulation/154/4/b) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/16/b)
 
 [^f00062]: Footnote: The definition of “transfer credits” in section 124(1) was amended by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 319(1) and Schedule 12 paragraphs 34 and 69.
 

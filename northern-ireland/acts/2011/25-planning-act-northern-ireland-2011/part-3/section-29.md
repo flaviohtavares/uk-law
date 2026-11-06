@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Call in of applications, etc., to Department[^key-3bae7961f2bdc4ca5da1e1224ebbac6d][^key-7980ecc27dbfa768afd1e58f15c92635][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-24fd84aeb01646170df6a13c30678bde][^key-d657810b426c3f01656fd32353b7f8a7][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 29. Call in of applications, etc., to Department[^c-3bae7961f2bdc4ca5da1e1224ebbac6d][^c-7980ecc27dbfa768afd1e58f15c92635][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-24fd84aeb01646170df6a13c30678bde][^c-d657810b426c3f01656fd32353b7f8a7][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -52,12 +52,12 @@ summary: ''
 
 ## Annotations
 
-[^key-3bae7961f2bdc4ca5da1e1224ebbac6d]: Commencement: S. 29 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-3bae7961f2bdc4ca5da1e1224ebbac6d]: Commencement: S. 29 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-7980ecc27dbfa768afd1e58f15c92635]: Commencement: S. 29 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-7980ecc27dbfa768afd1e58f15c92635]: Commencement: S. 29 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-24fd84aeb01646170df6a13c30678bde]: Modification: S. 29 applied (with modifications) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/66/regulation/12)
+[^c-24fd84aeb01646170df6a13c30678bde]: Modification: S. 29 applied (with modifications) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/66/regulation/12)
 
-[^key-d657810b426c3f01656fd32353b7f8a7]: Modification: [S. 29](https://www.legislation.gov.uk/nia/2011/25/section/29) applied (22.4.2015) by [The Planning (Inquiry Procedure) Rules (Northern Ireland) 2015 (S.R. 2015/189)](https://www.legislation.gov.uk/nisr/2015/189), [rules 1](https://www.legislation.gov.uk/nisr/2015/189/rule/1), [3](https://www.legislation.gov.uk/nisr/2015/189/rule/3)
+[^c-d657810b426c3f01656fd32353b7f8a7]: Modification: [S. 29](https://www.legislation.gov.uk/nia/2011/25/section/29) applied (22.4.2015) by [The Planning (Inquiry Procedure) Rules (Northern Ireland) 2015 (S.R. 2015/189)](https://www.legislation.gov.uk/nisr/2015/189), [rules 1](https://www.legislation.gov.uk/nisr/2015/189/rule/1), [3](https://www.legislation.gov.uk/nisr/2015/189/rule/3)

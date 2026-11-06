@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. County councils' default powers in relation to development plan documents[^key-92a2758228434046acb8555da187e9c8]
+## 10. County councils' default powers in relation to development plan documents[^c-92a2758228434046acb8555da187e9c8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 makes provision for the exercise of default powers by county councils
 
 ## Annotations
 
-[^key-92a2758228434046acb8555da187e9c8]: Commencement: S. 10 in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-92a2758228434046acb8555da187e9c8]: Commencement: S. 10 in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)

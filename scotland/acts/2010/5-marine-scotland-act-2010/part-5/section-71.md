@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Demonstration and Research MPAs: additional requirements relating to designation[^key-5debc34f635a7b4249fd913d297b3981]
+## 71. Demonstration and Research MPAs: additional requirements relating to designation[^c-5debc34f635a7b4249fd913d297b3981]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5debc34f635a7b4249fd913d297b3981]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2010/5/section/71) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-5debc34f635a7b4249fd913d297b3981]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2010/5/section/71) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

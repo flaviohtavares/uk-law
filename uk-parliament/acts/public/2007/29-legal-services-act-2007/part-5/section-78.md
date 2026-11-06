@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. The Board's power to recommend orders made under section 77[^key-2ec571ac9183fadbf96f1a808ed9257d]
+## 78. The Board's power to recommend orders made under section 77[^c-2ec571ac9183fadbf96f1a808ed9257d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ec571ac9183fadbf96f1a808ed9257d]: Commencement: S. 78 in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-2ec571ac9183fadbf96f1a808ed9257d]: Commencement: S. 78 in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)

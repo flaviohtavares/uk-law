@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Amendment to the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 1972[^key-0d623b5555c0270845a6e155eb403f01]
+## 61. Amendment to the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 1972[^c-0d623b5555c0270845a6e155eb403f01]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In Article 3 of the Diseases of Animals (Approval of Disinfectants) Order (North
 
 ## Annotations
 
-[^key-0d623b5555c0270845a6e155eb403f01]: Commencement: Reg. 61 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-0d623b5555c0270845a6e155eb403f01]: Commencement: Reg. 61 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00021]: Footnote: [S.R. 1972 No. 16](https://www.legislation.gov.uk/nisr/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69) and [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467)

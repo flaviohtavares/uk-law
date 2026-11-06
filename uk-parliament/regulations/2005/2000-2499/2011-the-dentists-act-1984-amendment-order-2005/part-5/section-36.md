@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of section 39[^key-c0b7296f9b41f481f09681e4d74b7853]
+## 36. Amendment of section 39[^c-c0b7296f9b41f481f09681e4d74b7853]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In section 39 (prohibition on use of practitioners' titles by laymen)—
 
 ## Annotations
 
-[^key-c0b7296f9b41f481f09681e4d74b7853]: Commencement: Art. 36 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-c0b7296f9b41f481f09681e4d74b7853]: Commencement: Art. 36 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00010]: Footnote: Subsection (1) was amended by S.I. [1996/1496](https://www.legislation.gov.uk/uksi/1996/1496).

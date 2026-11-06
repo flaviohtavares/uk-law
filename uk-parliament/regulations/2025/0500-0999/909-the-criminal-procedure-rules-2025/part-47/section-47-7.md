@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.7. Application containing information withheld from a respondent or other person[^key-16627f41a1d98db42b9328fb76aa3ac2]
+## 47.7. Application containing information withheld from a respondent or other person[^c-16627f41a1d98db42b9328fb76aa3ac2]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16627f41a1d98db42b9328fb76aa3ac2]: Commencement: Rule 47.7 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-16627f41a1d98db42b9328fb76aa3ac2]: Commencement: Rule 47.7 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

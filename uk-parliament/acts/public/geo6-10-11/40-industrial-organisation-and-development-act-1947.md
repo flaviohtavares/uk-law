@@ -31,7 +31,7 @@ Industrial Organisation and Development Act 1947
 
 An Act to provide for the establishment of development councils to exercise functions for improving or developing the service rendered to the community by industries and for other purposes in relation thereto, for making funds available for certain purposes in relation to industries for which there is no development council, for the disposal of any surplus of funds levied under emergency provision for encouragement of exports, for the making of grants to bodies established for the improvement of design, and for purposes connected therewith and consequential thereon.
 
-\[31st July 1947\] [^c593219][^c593220][^c593221][^c593222][^c593223][^key-7371ed2cc88ca42ff181871ef0cb70d3]
+\[31st July 1947\] [^c593219][^c593220][^c593221][^c593222][^c593223][^c-7371ed2cc88ca42ff181871ef0cb70d3]
 
 ## Development Councils
 
@@ -120,11 +120,11 @@ Provided that powers conferred on the council under this subsection shall be qua
 
 (3) If any person discloses any information in contravention of the last preceding subsection, he shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding fifty pounds, or on conviction on indictment to imprisonment for a term not exceeding two years or to a fine not exceeding one hundred pounds, or, in either case, to both such imprisonment and such a fine.
 
-(3A)[^key-ee79d463d146bac1dc1f5d12c8ff65c1] Subsections (2) and (3) do not apply to disclosure—
+(3A)[^c-ee79d463d146bac1dc1f5d12c8ff65c1] Subsections (2) and (3) do not apply to disclosure—
 
 - (a) by a development council established in relation to an industry whose activities include an agricultural activity;
 - (b) to, or to an officer of, Natural England;
-- (c)[^key-d008047e841056b52efc89da71e4c64a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d008047e841056b52efc89da71e4c64a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) to, or to an officer of, the Joint Nature Conservation Committee;
 - (e) to, or to an officer of, a body specified in Schedule 7 to the Natural Environment and Rural Communities Act 2006;
 - (f) to, or to an officer of, a board established under Chapter 2 of Part 8 of the 2006 Act.
@@ -141,21 +141,21 @@ Provided that no punishment provided for shall exceed that imposed by subsection
 
 (1) A development council shall prepare and transmit to the Board or Minister concerned annually a report setting out what has been done in the discharge of their functions during their financial year last completed.
 
-(2) The report shall include a statement of the accounts of the council for that year, and shall be transmitted as soon as the accounts therefor have been audited, together with a copy of any report made by the auditors [^key-7e276ae1dae7be963261a23578a8a951]... on the accounts.
+(2) The report shall include a statement of the accounts of the council for that year, and shall be transmitted as soon as the accounts therefor have been audited, together with a copy of any report made by the auditors [^c-7e276ae1dae7be963261a23578a8a951]... on the accounts.
 
-(2A)[^c593237] A person shall not be appointed to audit a council’s accounts unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-ae424a2060933efdd33bd57dd062e6ce].
+(2A)[^c593237] A person shall not be appointed to audit a council’s accounts unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-ae424a2060933efdd33bd57dd062e6ce].
 
-(2B)[^key-a2d2334f4febe29d720dbdd118e69455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-a2d2334f4febe29d720dbdd118e69455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The statement of accounts shall be in such form as the Board or Minister concerned may direct, being a form which shall conform with the best commercial standards, and the statement shall show the total of remuneration and allowances paid during the year to members of the council.
 
-(3A)[^key-15b56dbebd49d3558fa1d809b4d5a9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-15b56dbebd49d3558fa1d809b4d5a9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-15b56dbebd49d3558fa1d809b4d5a9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-15b56dbebd49d3558fa1d809b4d5a9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-15b56dbebd49d3558fa1d809b4d5a9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3C)[^c-15b56dbebd49d3558fa1d809b4d5a9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) A copy of each such report of a council, or made by the auditors on their[^key-2ffdd908ac950fbd77e1fddb2c3d38db] accounts, shall be laid before Parliament by the Board or Minister concerned.
+(4) A copy of each such report of a council, or made by the auditors on their[^c-2ffdd908ac950fbd77e1fddb2c3d38db] accounts, shall be laid before Parliament by the Board or Minister concerned.
 
 ### 8. Amendment or termination of provision for a development council.[^c593238]
 
@@ -179,7 +179,7 @@ Provided that the functions which may be assigned to a development council under
 
 ### 9. Levies for certain purposes for industries for which there is no development council.[^c593240][^c593241][^c593242]
 
-(1) If it appears to any of the authorities named in subsection (2) of section one of this Act that it is expedient that funds should be made available for any of the following purposes in connection with an industry for which there is neither a development council nor a relevant board[^key-d7e67cc9da5bf539ef16ea2ed0af3586], that is to say—
+(1) If it appears to any of the authorities named in subsection (2) of section one of this Act that it is expedient that funds should be made available for any of the following purposes in connection with an industry for which there is neither a development council nor a relevant board[^c-d7e67cc9da5bf539ef16ea2ed0af3586], that is to say—
 
 - (a) scientific research,
 - (b) promotion of export trade, or
@@ -187,13 +187,13 @@ Provided that the functions which may be assigned to a development council under
 
 and that there is, or is to be brought into being, a body capable of carrying out that purpose satisfactorily, the authority may, subject to the provisions of this section, make an order imposing on persons carrying on business in the industry, or on persons carrying on any business consisting wholly or partly in the production of, or dealing in, any of the materials of the industry, such charges as may be specified in the order, and providing for the recovery thereof by or on behalf of that authority in such manner and through such channels, if any, as may be specified in the order.
 
-(1A)[^key-a3179d0c390f5bef17b6f847e4ed6b2c] “**Relevant board**” means a board established under Chapter 2 of Part 8 of the Natural Environment and Rural Communities Act 2006.
+(1A)[^c-a3179d0c390f5bef17b6f847e4ed6b2c] “**Relevant board**” means a board established under Chapter 2 of Part 8 of the Natural Environment and Rural Communities Act 2006.
 
 (2) Before making an order imposing charges under this section the authority making the order shall satisfy themselves or himself that the incidence of the charges as between different classes of undertakings in the industry will be in accordance with a fair principle.
 
 (3) Sums recovered in respect of charges imposed by an order under this section shall be paid into such public fund or account as may be specified in the order, and shall be issued thereout to the body mentioned in subsection (1) of this section to meet expenses incurred by them for any of the purposes therein mentioned.
 
-(4)[^c593243][^key-e544aa685b7ec54396e969b391f18c83] The authority making an order under this section shall, as respects each financial year, prepare, in such form and manner as the Treasury may direct, an account of sums recovered under the order and of the disposal thereof by the authority, and any account prepared under this subsection shall, on or before the thirtieth day of November next following the expiration of the financial year in question, be transmitted to the Comptroller and Auditor General, who shall examine and certify the account and lay copies thereof, together with his report thereon, before Parliament.
+(4)[^c593243][^c-e544aa685b7ec54396e969b391f18c83] The authority making an order under this section shall, as respects each financial year, prepare, in such form and manner as the Treasury may direct, an account of sums recovered under the order and of the disposal thereof by the authority, and any account prepared under this subsection shall, on or before the thirtieth day of November next following the expiration of the financial year in question, be transmitted to the Comptroller and Auditor General, who shall examine and certify the account and lay copies thereof, together with his report thereon, before Parliament.
 
 (5) A body to whom sums are issued under this section shall prepare and transmit to the authority making the order annually a statement of their accounts for their financial year last completed, in such form as the authority may direct, as soon as their accounts for that year have been audited, together with a copy of any report made by the auditors on the accounts, and a copy of each such statement, and of any such report, shall be laid before Parliament by the authority.
 
@@ -212,7 +212,7 @@ and that there is, or is to be brought into being, a body capable of carrying ou
 
 ### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c593244]
 
-### 11. Grants to the Council of Industrial Design and to design centres.[^c593245][^key-8129b51eabc2dfaf4f981a43c748bc9b][^key-ecc281e62471fe0291aed848d2ff279d]
+### 11. Grants to the Council of Industrial Design and to design centres.[^c593245][^c-8129b51eabc2dfaf4f981a43c748bc9b][^c-ecc281e62471fe0291aed848d2ff279d]
 
 The Board of Trade may, with the approval of the Treasury, make grants out of moneys provided by Parliament—
 
@@ -338,7 +338,7 @@ either wholly out of moneys of the council, or partly thereout and partly by mea
 
 [^c593223]: Modification: Functions of Minister of Agriculture, Fisheries and Food under this Act, except those in relation to the Apple and Pear Development Council, which are exercisable by the Minister alone now exercisable (W.) by Secretary of State and (E.W.) by Minister and Secretary of State jointly and functions of Minister and Secretary of State jointly so far as they are exercisable in relation to Great Britain now exercisable by Minister, Secretary of State for Scotland and Secretary of State for Wales jointly: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 9](https://www.legislation.gov.uk/uksi/1978/272/article/9); see also [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 52-56](https://www.legislation.gov.uk/ukpga/1998/46/section/52).
 
-[^key-7371ed2cc88ca42ff181871ef0cb70d3]: Modification: Act functions transferred (E.W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 3(1)](https://www.legislation.gov.uk/uksi/2018/644/article/3/1) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2018/644/article/3/3))
+[^c-7371ed2cc88ca42ff181871ef0cb70d3]: Modification: Act functions transferred (E.W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 3(1)](https://www.legislation.gov.uk/uksi/2018/644/article/3/1) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2018/644/article/3/3))
 
 [^c593224]: Modification: Functions of Board of Trade under s. 1 now exercisable by Secretary of State: [S.I. 1969/1498](https://www.legislation.gov.uk/uksi/1969/1498), [art. 3(1)](https://www.legislation.gov.uk/uksi/1969/1498/article/3/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1969/1498/schedule/1/paragraph/1) and 1970/1537, art. 2(2), Sch. 1 Pt. II
 
@@ -362,23 +362,23 @@ either wholly out of moneys of the council, or partly thereout and partly by mea
 
 [^c593235]: Modification: S. 5 extended by [Cotton Industry Act 1959 (c. 48)](https://www.legislation.gov.uk/ukpga/1959/48), [s. 1(6)](https://www.legislation.gov.uk/ukpga/1959/48/section/1/6)
 
-[^key-ee79d463d146bac1dc1f5d12c8ff65c1]: Textual amendment: S. 5(3A) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/4); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-ee79d463d146bac1dc1f5d12c8ff65c1]: Textual amendment: S. 5(3A) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/4); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-d008047e841056b52efc89da71e4c64a]: Textual amendment: [S. 5(3A)(c)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/40/section/5/3A/c) repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-d008047e841056b52efc89da71e4c64a]: Textual amendment: [S. 5(3A)(c)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/40/section/5/3A/c) repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
 
 [^c593236]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Geo6/10-11/40/section/6) extended by [Cotton Industry Act 1959 (c. 48)](https://www.legislation.gov.uk/ukpga/1959/48), [s. 1(6)](https://www.legislation.gov.uk/ukpga/1959/48/section/1/6)
 
-[^key-7e276ae1dae7be963261a23578a8a951]: Textual amendment: Words in s. 7(2) omitted (coming into force in accordance with of the amending S.I.) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/a)
+[^c-7e276ae1dae7be963261a23578a8a951]: Textual amendment: Words in s. 7(2) omitted (coming into force in accordance with of the amending S.I.) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/a)
 
 [^c593237]: Textual amendment: S. 7(2A) inserted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2 Sch. para. 3(1)(2)](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2/schedule/paragraph/3/1/2) (subject to a saving in [reg. 4](https://www.legislation.gov.uk/uksi/1991/1997/regulation/4)).
 
-[^key-ae424a2060933efdd33bd57dd062e6ce]: Textual amendment: Words in s. 7(2A) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-ae424a2060933efdd33bd57dd062e6ce]: Textual amendment: Words in s. 7(2A) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-a2d2334f4febe29d720dbdd118e69455]: Textual amendment: S. 7(2B) omitted (coming into force in accordance with of the amending S.I.) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/b)
+[^c-a2d2334f4febe29d720dbdd118e69455]: Textual amendment: S. 7(2B) omitted (coming into force in accordance with of the amending S.I.) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/b)
 
-[^key-15b56dbebd49d3558fa1d809b4d5a9d2]: Textual amendment: S. 7(3A)-(3C) omitted (coming into force in accordance with of the amending S.I.) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/b)
+[^c-15b56dbebd49d3558fa1d809b4d5a9d2]: Textual amendment: S. 7(3A)-(3C) omitted (coming into force in accordance with of the amending S.I.) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/b)
 
-[^key-2ffdd908ac950fbd77e1fddb2c3d38db]: Textual amendment: Words in s. 7(4) substituted (coming into force in accordance with of the amending S.I.) by [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/c)
+[^c-2ffdd908ac950fbd77e1fddb2c3d38db]: Textual amendment: Words in s. 7(4) substituted (coming into force in accordance with of the amending S.I.) by [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/1/c)
 
 [^c593238]: Subordinate legislation: [S. 8](https://www.legislation.gov.uk/ukpga/Geo6/10-11/40/section/8) : for exercises of power previous to 1.2.1991 see Index to Government Orders.
 
@@ -390,23 +390,23 @@ either wholly out of moneys of the council, or partly thereout and partly by mea
 
 [^c593242]: Modification: S. 9 and so much of ss. 1(2)(3), 4(4), 6, 12-14, 15(2)(3) and 17(2) as relates to s. 9 extended (N.I.) by [S.I. 1962/2602](https://www.legislation.gov.uk/uksi/1962/2602)
 
-[^key-d7e67cc9da5bf539ef16ea2ed0af3586]: Textual amendment: Words in s. 9(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 5(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/5/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-d7e67cc9da5bf539ef16ea2ed0af3586]: Textual amendment: Words in s. 9(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 5(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/5/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-a3179d0c390f5bef17b6f847e4ed6b2c]: Textual amendment: S. 9(1A) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/5/3); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-a3179d0c390f5bef17b6f847e4ed6b2c]: Textual amendment: S. 9(1A) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/5/3); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c593243]: Modification: S. 9(4): transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
     S. 9(4): modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-e544aa685b7ec54396e969b391f18c83]: Modification: S. 9(4) applied (with modifications) (E.W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/3/2/a)
+[^c-e544aa685b7ec54396e969b391f18c83]: Modification: S. 9(4) applied (with modifications) (E.W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/3/2/a)
 
 [^c593244]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Geo6/10-11/40/section/10) repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [Sch. 1 Pt. IX](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/IX)
 
 [^c593245]: Modification: S. 11: modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-8129b51eabc2dfaf4f981a43c748bc9b]: Modification: S. 11 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-8129b51eabc2dfaf4f981a43c748bc9b]: Modification: S. 11 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-ecc281e62471fe0291aed848d2ff279d]: Modification: S. 11 functions transferred (E.W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/3/2/b)
+[^c-ecc281e62471fe0291aed848d2ff279d]: Modification: S. 11 functions transferred (E.W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/3/2/b)
 
 [^c593246]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Geo6/10-11/40/section/13) repealed by [Industrial Expansion Act 1968 (c. 32)](https://www.legislation.gov.uk/ukpga/1968/32), [Sch. 4](https://www.legislation.gov.uk/ukpga/1968/32/schedule/4)
 

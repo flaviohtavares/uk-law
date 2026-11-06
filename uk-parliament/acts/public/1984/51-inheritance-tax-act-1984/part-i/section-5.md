@@ -38,7 +38,7 @@ summary: ''
   - (ii) not a disabled person's interest, and
   - (iii) not a transitional serial interest.
 
-(1B)[^key-cc7c3838cd19e60361564e332ebf664f] An interest in possession falls within this subsection if—
+(1B)[^c-cc7c3838cd19e60361564e332ebf664f] An interest in possession falls within this subsection if—
 
 - (a) the person became beneficially entitled to it on or after 9 December 2009 by virtue of a disposition that was prevented from being a transfer of value by section 10 (no gratuitous benefit), and
 - (b) the person—
@@ -63,6 +63,6 @@ summary: ''
 
 [^c19471351]: Textual amendment: S. 5(1A) inserted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 paras. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/7), [10(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/10/3)
 
-[^key-cc7c3838cd19e60361564e332ebf664f]: Textual amendment: [S. 5(1B)](https://www.legislation.gov.uk/ukpga/1984/51/section/5/1B) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-cc7c3838cd19e60361564e332ebf664f]: Textual amendment: [S. 5(1B)](https://www.legislation.gov.uk/ukpga/1984/51/section/5/1B) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
 [^c13606591]: Textual amendment: *See* Finance Act 1986 s. 100(1)*and* (2)—*for any liability to tax arising on and after* 25*July* 1986*any reference in the legislation to capital transfer tax has effect as a reference to inheritance tax.*

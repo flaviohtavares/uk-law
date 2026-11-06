@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Offences aggravated by connection with serious organised crime[^key-90b12bb596e3cd10df160e61a4a321e5]
+## 29. Offences aggravated by connection with serious organised crime[^c-90b12bb596e3cd10df160e61a4a321e5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90b12bb596e3cd10df160e61a4a321e5]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2010/13/section/29) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-90b12bb596e3cd10df160e61a4a321e5]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2010/13/section/29) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

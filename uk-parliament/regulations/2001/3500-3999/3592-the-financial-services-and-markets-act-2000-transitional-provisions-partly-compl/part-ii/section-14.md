@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Notices under the Banking Act[^key-a7fc579ea1f0858a656dffd149435714]
+## 14. Notices under the Banking Act[^c-a7fc579ea1f0858a656dffd149435714]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ that notice has effect after commencement as if it were a notice given under sec
 
 ## Annotations
 
-[^key-a7fc579ea1f0858a656dffd149435714]: Commencement: Art. 14 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a7fc579ea1f0858a656dffd149435714]: Commencement: Art. 14 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

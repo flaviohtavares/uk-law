@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Appeals about variation and discharge[^key-2777a5e7ad2238c3963c0861d0b929bb]
+## 31. Appeals about variation and discharge[^c-2777a5e7ad2238c3963c0861d0b929bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2777a5e7ad2238c3963c0861d0b929bb]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/2/section/31) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-2777a5e7ad2238c3963c0861d0b929bb]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/2/section/31) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

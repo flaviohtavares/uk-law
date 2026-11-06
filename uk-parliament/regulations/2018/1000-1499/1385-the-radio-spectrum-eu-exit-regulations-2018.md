@@ -52,11 +52,11 @@ The Secretary of State, in exercise of the powers conferred by section 8(1) of t
 
 The requirements of paragraph 3(2) of Schedule 7 to the Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-8f96a1d6099d2766ec73f849e553524e]
+## 1. Citation and commencement[^c-8f96a1d6099d2766ec73f849e553524e]
 
 These Regulations may be cited as the Radio Spectrum (EU Exit) Regulations 2018 and come into force on exit day.
 
-## 2. Amendment of the 5875-5905 MHz Frequency Band (Management) Regulations 2009[^key-830222e1cc6f8ceab4e6d3b9282dd6e3]
+## 2. Amendment of the 5875-5905 MHz Frequency Band (Management) Regulations 2009[^c-830222e1cc6f8ceab4e6d3b9282dd6e3]
 
 (1) The 5875-5905 MHz Frequency Band (Management) Regulations 2009[^f00002] are amended as follows.
 
@@ -65,7 +65,7 @@ These Regulations may be cited as the Radio Spectrum (EU Exit) Regulations 2018 
 - (a) omit paragraph (1);
 - (b) in paragraph (2), omit “, in particular”.
 
-## 3. Amendment of the Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union) Regulations 2010[^key-917ec5a3cf736130b61d2b99761528b6]
+## 3. Amendment of the Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union) Regulations 2010[^c-917ec5a3cf736130b61d2b99761528b6]
 
 (1) The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union) Regulations 2010[^f00003] are amended as follows.
 
@@ -142,7 +142,7 @@ These Regulations may be cited as the Radio Spectrum (EU Exit) Regulations 2018 
 
 (11) In regulation 14 (review of the regulations), omit paragraph (2).
 
-## 4. Amendment of the Wireless Telegraphy Act 2006 (Directions to OFCOM) Order 2010[^key-97e940c5cff141353521187d978853ed]
+## 4. Amendment of the Wireless Telegraphy Act 2006 (Directions to OFCOM) Order 2010[^c-97e940c5cff141353521187d978853ed]
 
 (1) The Wireless Telegraphy Act 2006 (Directions to OFCOM) Order 2010[^f00004] is amended as follows.
 
@@ -154,7 +154,7 @@ These Regulations may be cited as the Radio Spectrum (EU Exit) Regulations 2018 
 
 (3) In Article 3 (interpretation), omit the definition of “the Directive”.
 
-## 5. Amendment of the 823-832 MHz and 1785-1805 MHz etc Frequency Bands (Management) Regulations 2015[^key-63283adefc67ad43af3a26086a858394]
+## 5. Amendment of the 823-832 MHz and 1785-1805 MHz etc Frequency Bands (Management) Regulations 2015[^c-63283adefc67ad43af3a26086a858394]
 
 (1) The 823-832 MHz and 1785-1805 MHz etc Frequency Bands (Management) Regulations 2015[^f00005] are amended as follows.
 
@@ -163,7 +163,7 @@ These Regulations may be cited as the Radio Spectrum (EU Exit) Regulations 2018 
 - (a) omit paragraph (1);
 - (b) in paragraph (2), omit “, in particular”.
 
-## 6. Amendment of the 1452-1492 MHz and 3400-3800 MHz Frequency Bands (Management) Regulations 2016[^key-deefdc9f139b27d816aab7b6c0b1c712]
+## 6. Amendment of the 1452-1492 MHz and 3400-3800 MHz Frequency Bands (Management) Regulations 2016[^c-deefdc9f139b27d816aab7b6c0b1c712]
 
 (1) The 1452-1492 MHz and 3400-3800 MHz Frequency Bands (Management) Regulations 2016[^f00006] are amended as follows.
 
@@ -177,13 +177,13 @@ These Regulations may be cited as the Radio Spectrum (EU Exit) Regulations 2018 
 - (a) omit paragraph (1);
 - (b) in paragraph (2), omit “In particular,”.
 
-## 7. Amendment of the 2010-2025 MHz Frequency Band (Management) Regulations 2016[^key-cf38b67cf0cdc8ee6ef129fe4033dcdd]
+## 7. Amendment of the 2010-2025 MHz Frequency Band (Management) Regulations 2016[^c-cf38b67cf0cdc8ee6ef129fe4033dcdd]
 
 (1) The 2010-2025 MHz Frequency Band (Management) Regulations 2016[^f00007] are amended as follows.
 
 (2) In regulation 2 (designation of the 2010-2025 MHz frequency band), omit paragraph (2).
 
-## 8. Revocation of EU decisions and EU tertiary legislation[^key-cb282efa957de971c1222a56a6377f38]
+## 8. Revocation of EU decisions and EU tertiary legislation[^c-cb282efa957de971c1222a56a6377f38]
 
 The EU decisions and EU tertiary legislation listed in, respectively, Schedule 1 and Schedule 2 are revoked.
 
@@ -199,107 +199,107 @@ Department for Digital, Culture, Media and Sport
 
 Regulation 8
 
-**1.**[^key-ad3c64ddace5c8792847b8a957ca3c00] Decision No [676/2002/EC](https://www.legislation.gov.uk/european/decision/19676/2002) of 7 March 2002 of the European Parliament and of the Council on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision).
+**1.**[^c-ad3c64ddace5c8792847b8a957ca3c00] Decision No [676/2002/EC](https://www.legislation.gov.uk/european/decision/19676/2002) of 7 March 2002 of the European Parliament and of the Council on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision).
 
-**2.**[^key-2113423ad86a559bc0b0a95a09c49a55] Decision [626/2008/EC](https://www.legislation.gov.uk/european/decision/19626/2008) of the European Parliament and of the Council of 30 June 2008 on the selection and authorisation of systems providing mobile satellite services.
+**2.**[^c-2113423ad86a559bc0b0a95a09c49a55] Decision [626/2008/EC](https://www.legislation.gov.uk/european/decision/19626/2008) of the European Parliament and of the Council of 30 June 2008 on the selection and authorisation of systems providing mobile satellite services.
 
-**3.**[^key-e745a6fbdbc0a9dd522d4c674080eb5f] Decision 243/2012/EU of 14 March 2012 on the European Parliament and of the Council establishing a multi-annual radio spectrum policy programme.
+**3.**[^c-e745a6fbdbc0a9dd522d4c674080eb5f] Decision 243/2012/EU of 14 March 2012 on the European Parliament and of the Council establishing a multi-annual radio spectrum policy programme.
 
-**4.**[^key-b31e26f9ef9b68731aeff72b218b129d] [Decision 2017/899/EU](https://www.legislation.gov.uk/european/decision/2017/0899) of the European Parliament and of the Council of 17 May 2017 on the use of the 470-790 MHz frequency band in the Union.
+**4.**[^c-b31e26f9ef9b68731aeff72b218b129d] [Decision 2017/899/EU](https://www.legislation.gov.uk/european/decision/2017/0899) of the European Parliament and of the Council of 17 May 2017 on the use of the 470-790 MHz frequency band in the Union.
 
 ## SCHEDULE 2 — Revocation of EU tertiary legislation
 
 Regulation 8
 
-**1.**[^key-5435668683534db9d9099298f11c8837] Commission [Decision 2002/622/EC](https://www.legislation.gov.uk/european/decision/2002/0622) of 26 July 2002 establishing a Radio Spectrum Policy Group, as amended by [Decision 2009/978/EC](https://www.legislation.gov.uk/european/decision/2009/0978).
+**1.**[^c-5435668683534db9d9099298f11c8837] Commission [Decision 2002/622/EC](https://www.legislation.gov.uk/european/decision/2002/0622) of 26 July 2002 establishing a Radio Spectrum Policy Group, as amended by [Decision 2009/978/EC](https://www.legislation.gov.uk/european/decision/2009/0978).
 
-**2.**[^key-4c92f74bb2e00043ed47f0998ddc0603] Commission [Decision 2004/545/EC](https://www.legislation.gov.uk/european/decision/2004/0545) of 8 July 2004 on the harmonisation of radio spectrum in the 79 GHz range for the use of automotive short-range radar equipment in the Community.
+**2.**[^c-4c92f74bb2e00043ed47f0998ddc0603] Commission [Decision 2004/545/EC](https://www.legislation.gov.uk/european/decision/2004/0545) of 8 July 2004 on the harmonisation of radio spectrum in the 79 GHz range for the use of automotive short-range radar equipment in the Community.
 
-**3.**[^key-045bce5636a634255c64f2a176061d0d] Commission [Decision 2005/50/EC](https://www.legislation.gov.uk/european/decision/2005/0050) of 17 January 2005 on the harmonisation of the 24GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community.
+**3.**[^c-045bce5636a634255c64f2a176061d0d] Commission [Decision 2005/50/EC](https://www.legislation.gov.uk/european/decision/2005/0050) of 17 January 2005 on the harmonisation of the 24GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community.
 
-**4.**[^key-30afa47abf5c65b52111e5ff9471e8a3] Commission [Decision 2005/513/EC](https://www.legislation.gov.uk/european/decision/2005/0513) of 11 July 2005 on the harmonised use of radio spectrum in the 5 GHz frequency band for the implementation of Wireless Access Systems including Radio Local Area Networks.
+**4.**[^c-30afa47abf5c65b52111e5ff9471e8a3] Commission [Decision 2005/513/EC](https://www.legislation.gov.uk/european/decision/2005/0513) of 11 July 2005 on the harmonised use of radio spectrum in the 5 GHz frequency band for the implementation of Wireless Access Systems including Radio Local Area Networks.
 
-**5.**[^key-53efaa066791c9eff306ced4c11156f3] Commission [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) of 9 November 2006 on harmonisation of the radio spectrum for use by short-range devices.
+**5.**[^c-53efaa066791c9eff306ced4c11156f3] Commission [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) of 9 November 2006 on harmonisation of the radio spectrum for use by short-range devices.
 
-**6.**[^key-77714834ee8d9fbdcb31cce29df72fa3] Commission [Decision 2007/90/EC](https://www.legislation.gov.uk/european/decision/2007/0090) of 12 February 2007 amending [Decision 2005/513/EC](https://www.legislation.gov.uk/european/decision/2005/0513) on the harmonised use of radio spectrum in the 5 GHz frequency band for the implementation of Wireless Access Systems including Radio Local Area Networks.
+**6.**[^c-77714834ee8d9fbdcb31cce29df72fa3] Commission [Decision 2007/90/EC](https://www.legislation.gov.uk/european/decision/2007/0090) of 12 February 2007 amending [Decision 2005/513/EC](https://www.legislation.gov.uk/european/decision/2005/0513) on the harmonised use of radio spectrum in the 5 GHz frequency band for the implementation of Wireless Access Systems including Radio Local Area Networks.
 
-**7.**[^key-2e87fa282019c12d394ad4461f36972e] Commission [Decision 2007/98/EC](https://www.legislation.gov.uk/european/decision/2007/0098) of 14 February 2007 on the harmonised use of radio spectrum in the 2 GHz frequency bands for the implementation of systems providing mobile satellite services.
+**7.**[^c-2e87fa282019c12d394ad4461f36972e] Commission [Decision 2007/98/EC](https://www.legislation.gov.uk/european/decision/2007/0098) of 14 February 2007 on the harmonised use of radio spectrum in the 2 GHz frequency bands for the implementation of systems providing mobile satellite services.
 
-**8.**[^key-e2d253f7136b7e1a966ff97e55a8c0a0] Commission [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) of 21 February 2007 on allowing the use of the radio spectrum for equipment using ultra-wideband technology in the Community.
+**8.**[^c-e2d253f7136b7e1a966ff97e55a8c0a0] Commission [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) of 21 February 2007 on allowing the use of the radio spectrum for equipment using ultra-wideband technology in the Community.
 
-**9.**[^key-772bab872d4435ba938f50dbd182f56f] Commission [Decision 2007/344/EC](https://www.legislation.gov.uk/european/decision/2007/0344) of 16 May 2007 on harmonised availability of information regarding spectrum use within the Community.
+**9.**[^c-772bab872d4435ba938f50dbd182f56f] Commission [Decision 2007/344/EC](https://www.legislation.gov.uk/european/decision/2007/0344) of 16 May 2007 on harmonised availability of information regarding spectrum use within the Community.
 
-**10.**[^key-f8f1f110436c60915f1a4f166b28a560] Commission [Decision 2008/294/EC](https://www.legislation.gov.uk/european/decision/2008/0294) of 7 April 2008 on harmonised conditions of spectrum use for the operation of mobile communication services on aircraft (MCA services) in the Community.
+**10.**[^c-f8f1f110436c60915f1a4f166b28a560] Commission [Decision 2008/294/EC](https://www.legislation.gov.uk/european/decision/2008/0294) of 7 April 2008 on harmonised conditions of spectrum use for the operation of mobile communication services on aircraft (MCA services) in the Community.
 
-**11.**[^key-31c69a5607350b112725e703df9800e6] Commission [Decision 2008/411/EC](https://www.legislation.gov.uk/european/decision/2008/0411) of 21 May 2008 on the harmonisation of the 3 400-3 800 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Community.
+**11.**[^c-31c69a5607350b112725e703df9800e6] Commission [Decision 2008/411/EC](https://www.legislation.gov.uk/european/decision/2008/0411) of 21 May 2008 on the harmonisation of the 3 400-3 800 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Community.
 
-**12.**[^key-a19d4162f52331137249198090670872] Commission [Decision 2008/432/EC](https://www.legislation.gov.uk/european/decision/2008/0432) of 23 May 2008 amending Commission Decision [2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
+**12.**[^c-a19d4162f52331137249198090670872] Commission [Decision 2008/432/EC](https://www.legislation.gov.uk/european/decision/2008/0432) of 23 May 2008 amending Commission Decision [2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
 
-**13.**[^key-8fa7f503ac3fcbeeec5d246f6e968035] Commission [Decision 2008/477/EC](https://www.legislation.gov.uk/european/decision/2008/0477) of 13 June 2008 on the harmonisation of the 2500-2690 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Community.
+**13.**[^c-8fa7f503ac3fcbeeec5d246f6e968035] Commission [Decision 2008/477/EC](https://www.legislation.gov.uk/european/decision/2008/0477) of 13 June 2008 on the harmonisation of the 2500-2690 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Community.
 
-**14.**[^key-481620273d648fe9556e525fb70088bc] Commission [Decision 2008/671/EC](https://www.legislation.gov.uk/european/decision/2008/0671) of 5 August 2008 on the harmonised use of radio spectrum in the 5875-5905 MHz frequency band for safety-related applications of Intelligent Transport Systems.
+**14.**[^c-481620273d648fe9556e525fb70088bc] Commission [Decision 2008/671/EC](https://www.legislation.gov.uk/european/decision/2008/0671) of 5 August 2008 on the harmonised use of radio spectrum in the 5875-5905 MHz frequency band for safety-related applications of Intelligent Transport Systems.
 
-**15.**[^key-268f3cde2cd53d5bb6aa78e2b0f7a60e] Commission [Decision 2008/673/EC](https://www.legislation.gov.uk/european/decision/2008/0673) of 13 August 2008 amending [Decision 2005/928/EC](https://www.legislation.gov.uk/european/decision/2005/0928) on the harmonisation of the 169,4-169,8125 MHz frequency band in the Community.
+**15.**[^c-268f3cde2cd53d5bb6aa78e2b0f7a60e] Commission [Decision 2008/673/EC](https://www.legislation.gov.uk/european/decision/2008/0673) of 13 August 2008 amending [Decision 2005/928/EC](https://www.legislation.gov.uk/european/decision/2005/0928) on the harmonisation of the 169,4-169,8125 MHz frequency band in the Community.
 
-**16.**[^key-8fdbcfdc49b920d92ac5856d4a918112] Commission [Decision 2009/343/EC](https://www.legislation.gov.uk/european/decision/2009/0343) of 21 April 2009 amending [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) on allowing the use of the radio spectrum for equipment using ultra-wideband technology in a harmonised manner in the Community.
+**16.**[^c-8fdbcfdc49b920d92ac5856d4a918112] Commission [Decision 2009/343/EC](https://www.legislation.gov.uk/european/decision/2009/0343) of 21 April 2009 amending [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) on allowing the use of the radio spectrum for equipment using ultra-wideband technology in a harmonised manner in the Community.
 
-**17.**[^key-0bd656fb32e6a5a08756eb75a11d24ff] Commission [Decision 2009/381/EC](https://www.legislation.gov.uk/european/decision/2009/0381) of 13 May 2009 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
+**17.**[^c-0bd656fb32e6a5a08756eb75a11d24ff] Commission [Decision 2009/381/EC](https://www.legislation.gov.uk/european/decision/2009/0381) of 13 May 2009 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
 
-**18.**[^key-ba47fcdca5ea0b784c4e86f4febd42d4] Commission [Decision 2009/449/EC](https://www.legislation.gov.uk/european/decision/2009/0449) of 13 May 2009 on the selection of operators of pan-European systems providing mobile satellite services.
+**18.**[^c-ba47fcdca5ea0b784c4e86f4febd42d4] Commission [Decision 2009/449/EC](https://www.legislation.gov.uk/european/decision/2009/0449) of 13 May 2009 on the selection of operators of pan-European systems providing mobile satellite services.
 
-**19.**[^key-1354af64f55bd6586e9baef8ff1c66a0] Commission [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766) of 16 October 2009 on the harmonisation of the 900 MHz and 1 800 MHz frequency bands for terrestrial systems capable of providing pan-European electronic communications services in the Community.
+**19.**[^c-1354af64f55bd6586e9baef8ff1c66a0] Commission [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766) of 16 October 2009 on the harmonisation of the 900 MHz and 1 800 MHz frequency bands for terrestrial systems capable of providing pan-European electronic communications services in the Community.
 
-**20.**[^key-94d282b06b1b6a7d80d395ec6626aa11] Commission [Decision 2009/978/EC](https://www.legislation.gov.uk/european/decision/2009/0978) of 16 December 2009 amending [Decision 2002/622/EC](https://www.legislation.gov.uk/european/decision/2002/0622) establishing a Radio Spectrum Policy Group.
+**20.**[^c-94d282b06b1b6a7d80d395ec6626aa11] Commission [Decision 2009/978/EC](https://www.legislation.gov.uk/european/decision/2009/0978) of 16 December 2009 amending [Decision 2002/622/EC](https://www.legislation.gov.uk/european/decision/2002/0622) establishing a Radio Spectrum Policy Group.
 
-**21.**[^key-4297f84394c80b4a9d9bd09c4397706c] Commission [Decision 2010/166/EU](https://www.legislation.gov.uk/european/decision/2010/0166) of 19 March 2010 on harmonised conditions of use of radio spectrum for mobile communication services on board vessels (MCV services) in the European Union.
+**21.**[^c-4297f84394c80b4a9d9bd09c4397706c] Commission [Decision 2010/166/EU](https://www.legislation.gov.uk/european/decision/2010/0166) of 19 March 2010 on harmonised conditions of use of radio spectrum for mobile communication services on board vessels (MCV services) in the European Union.
 
-**22.**[^key-84962144f3d2372303238f673d19382d] Commission [Decision 2010/267/EU](https://www.legislation.gov.uk/european/decision/2010/0267) of 6 May 2010 on harmonised technical conditions of use in the 790-862 MHz frequency band for terrestrial systems capable of providing electronic communications services in the European Union.
+**22.**[^c-84962144f3d2372303238f673d19382d] Commission [Decision 2010/267/EU](https://www.legislation.gov.uk/european/decision/2010/0267) of 6 May 2010 on harmonised technical conditions of use in the 790-862 MHz frequency band for terrestrial systems capable of providing electronic communications services in the European Union.
 
-**23.**[^key-adba62254d14227a2adef9298fc35e1b] Commission [Decision 2010/368/EU](https://www.legislation.gov.uk/european/decision/2010/0368) of 30 June 2010 amending Decision [2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
+**23.**[^c-adba62254d14227a2adef9298fc35e1b] Commission [Decision 2010/368/EU](https://www.legislation.gov.uk/european/decision/2010/0368) of 30 June 2010 amending Decision [2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
 
-**24.**[^key-9f4daf55a5f1c4f4ac9906823446de88] Commission [Decision 2011/251/EU](https://www.legislation.gov.uk/european/decision/2011/0251) of 18 April 2011 amending [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766) on the harmonisation of the 900 MHz and 1800 MHz frequency bands for terrestrial systems capable of providing pan-European electronic communications services in the Community.
+**24.**[^c-9f4daf55a5f1c4f4ac9906823446de88] Commission [Decision 2011/251/EU](https://www.legislation.gov.uk/european/decision/2011/0251) of 18 April 2011 amending [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766) on the harmonisation of the 900 MHz and 1800 MHz frequency bands for terrestrial systems capable of providing pan-European electronic communications services in the Community.
 
-**25.**[^key-e642120a3c2e5cfa250781053259a734] Commission Implementing [Decision 2011/485/EU](https://www.legislation.gov.uk/european/decision/2011/0485) of 29 July 2011 amending [Decision 2005/50/EC](https://www.legislation.gov.uk/european/decision/2005/0050) of 17 January 2005 on the harmonisation of the 24 GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community.
+**25.**[^c-e642120a3c2e5cfa250781053259a734] Commission Implementing [Decision 2011/485/EU](https://www.legislation.gov.uk/european/decision/2011/0485) of 29 July 2011 amending [Decision 2005/50/EC](https://www.legislation.gov.uk/european/decision/2005/0050) of 17 January 2005 on the harmonisation of the 24 GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community.
 
-**26.**[^key-ad042a280c1f79163f03383cefb529bb] Commission Decision 2011/667 of 10 October 2011 on modalities for coordinated application of the rules on enforcement with regard to mobile satellite services (MSS) pursuant to Article 9(3) of Decision No [626/2008/EC](https://www.legislation.gov.uk/european/decision/19626/2008) of the European Parliament and of the Council.
+**26.**[^c-ad042a280c1f79163f03383cefb529bb] Commission Decision 2011/667 of 10 October 2011 on modalities for coordinated application of the rules on enforcement with regard to mobile satellite services (MSS) pursuant to Article 9(3) of Decision No [626/2008/EC](https://www.legislation.gov.uk/european/decision/19626/2008) of the European Parliament and of the Council.
 
-**27.**[^key-594cc10623fcdcf3698dadcd5201b722] Commission Implementing [Decision 2011/829/EU](https://www.legislation.gov.uk/european/decision/2011/0829) of 8 December 2011 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
+**27.**[^c-594cc10623fcdcf3698dadcd5201b722] Commission Implementing [Decision 2011/829/EU](https://www.legislation.gov.uk/european/decision/2011/0829) of 8 December 2011 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices.
 
-**28.**[^key-e9ce9998bd7af28f8aa20b60e7559084] Commission Implementing [Decision 2012/688/EU](https://www.legislation.gov.uk/european/decision/2012/0688) of 5 November 2012 on the harmonisation of the frequency bands 1920-1980 MHz and 2110-2170 MHz for terrestrial systems capable of providing electronic communications services in the Union.
+**28.**[^c-e9ce9998bd7af28f8aa20b60e7559084] Commission Implementing [Decision 2012/688/EU](https://www.legislation.gov.uk/european/decision/2012/0688) of 5 November 2012 on the harmonisation of the frequency bands 1920-1980 MHz and 2110-2170 MHz for terrestrial systems capable of providing electronic communications services in the Union.
 
-**29.**[^key-b389093c81cbbd8c59e58232e01a1102] Commission Implementing [Decision 2013/195/EU](https://www.legislation.gov.uk/european/decision/2013/0195) of 23 April 2013 defining the practical arrangements, uniform formats and a methodology in relation to the radio spectrum inventory established by Decision 243/2012/EU of the European Parliament and of the Council establishing a multiannual radio spectrum policy programme.
+**29.**[^c-b389093c81cbbd8c59e58232e01a1102] Commission Implementing [Decision 2013/195/EU](https://www.legislation.gov.uk/european/decision/2013/0195) of 23 April 2013 defining the practical arrangements, uniform formats and a methodology in relation to the radio spectrum inventory established by Decision 243/2012/EU of the European Parliament and of the Council establishing a multiannual radio spectrum policy programme.
 
-**30.**[^key-a9f000ba8fc321a37a1e6e3c4c908ee4] Commission Implementing [Decision 2013/654/EU](https://www.legislation.gov.uk/european/decision/2013/0654) of 12 November 2013 amending Commission [Decision 2008/294/EC](https://www.legislation.gov.uk/european/decision/2008/0294) to include additional access technologies and frequency bands for mobile communications services on aircraft.
+**30.**[^c-a9f000ba8fc321a37a1e6e3c4c908ee4] Commission Implementing [Decision 2013/654/EU](https://www.legislation.gov.uk/european/decision/2013/0654) of 12 November 2013 amending Commission [Decision 2008/294/EC](https://www.legislation.gov.uk/european/decision/2008/0294) to include additional access technologies and frequency bands for mobile communications services on aircraft.
 
-**31.**[^key-e6fe249dcfac51c93da660c11d25fa8c] Commission Implementing [Decision 2013/752/EU](https://www.legislation.gov.uk/european/decision/2013/0752) of 11 December 2013 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices and repealing [Decision 2005/928/EC](https://www.legislation.gov.uk/european/decision/2005/0928).
+**31.**[^c-e6fe249dcfac51c93da660c11d25fa8c] Commission Implementing [Decision 2013/752/EU](https://www.legislation.gov.uk/european/decision/2013/0752) of 11 December 2013 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices and repealing [Decision 2005/928/EC](https://www.legislation.gov.uk/european/decision/2005/0928).
 
-**32.**[^key-57bb14e50e112068f4ee639bcd897cd4] Commission Implementing [Decision 2014/276/EU](https://www.legislation.gov.uk/european/decision/2014/0276) of 2 May 2014 on amending [Decision 2008/411/EC](https://www.legislation.gov.uk/european/decision/2008/0411) on the harmonisation of the 3 400-3 800 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Community.
+**32.**[^c-57bb14e50e112068f4ee639bcd897cd4] Commission Implementing [Decision 2014/276/EU](https://www.legislation.gov.uk/european/decision/2014/0276) of 2 May 2014 on amending [Decision 2008/411/EC](https://www.legislation.gov.uk/european/decision/2008/0411) on the harmonisation of the 3 400-3 800 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Community.
 
-**33.**[^key-4c76cd65cdab530f32f159a0b2d72072] Commission Implementing [Decision 2014/641/EU](https://www.legislation.gov.uk/european/decision/2014/0641) of 1 September 2014 on harmonised technical conditions of radio spectrum use by wireless audio programme making and special events equipment in the Union.
+**33.**[^c-4c76cd65cdab530f32f159a0b2d72072] Commission Implementing [Decision 2014/641/EU](https://www.legislation.gov.uk/european/decision/2014/0641) of 1 September 2014 on harmonised technical conditions of radio spectrum use by wireless audio programme making and special events equipment in the Union.
 
-**34.**[^key-40c00150890bbdeb1458c1bacc68e9aa] Commission Implementing [Decision 2014/702/EU](https://www.legislation.gov.uk/european/decision/2014/0702) of 7 October 2014 amending [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) on allowing the use of the radio spectrum for equipment using ultra-wideband technology in a harmonised manner in the Community.
+**34.**[^c-40c00150890bbdeb1458c1bacc68e9aa] Commission Implementing [Decision 2014/702/EU](https://www.legislation.gov.uk/european/decision/2014/0702) of 7 October 2014 amending [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) on allowing the use of the radio spectrum for equipment using ultra-wideband technology in a harmonised manner in the Community.
 
-**35.**[^key-e5ce21b1fa83fb41f355a33429b0a031] Commission Implementing Decision (EU) 2015/750 of 8 May 2015 on the harmonisation of the 1 452-1 492 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Union.
+**35.**[^c-e5ce21b1fa83fb41f355a33429b0a031] Commission Implementing Decision (EU) 2015/750 of 8 May 2015 on the harmonisation of the 1 452-1 492 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Union.
 
-**36.**[^key-569d62694bcb6d033c13a074c929b786] Commission Implementing Decision (EU) 2016/339 of 8 March 2016 on the harmonisation of the 2 010-2 025 MHz frequency band for portable or mobile wireless video links and cordless cameras used for programme making and special events.
+**36.**[^c-569d62694bcb6d033c13a074c929b786] Commission Implementing Decision (EU) 2016/339 of 8 March 2016 on the harmonisation of the 2 010-2 025 MHz frequency band for portable or mobile wireless video links and cordless cameras used for programme making and special events.
 
-**37.**[^key-13c2c6b3a93e2015a2ab9301cac79a0d] Commission Implementing Decision (EU) 2016/687 of 28 April 2016 on the harmonisation of the 694-790 MHz frequency band for terrestrial systems capable of providing wireless broadband electronic communications services and for flexible national use in the Union.
+**37.**[^c-13c2c6b3a93e2015a2ab9301cac79a0d] Commission Implementing Decision (EU) 2016/687 of 28 April 2016 on the harmonisation of the 694-790 MHz frequency band for terrestrial systems capable of providing wireless broadband electronic communications services and for flexible national use in the Union.
 
-**38.**[^key-1abec455f8fcdab91e1d889c6526b83d] Commission Implementing Decision (EU) 2016/2317 of 16 December 2016 amending [Decision 2008/294/EC](https://www.legislation.gov.uk/european/decision/2008/0294) and Implementing [Decision 2013/654/EU](https://www.legislation.gov.uk/european/decision/2013/0654), in order to simplify the operation of mobile communications on board aircraft (MCA services) in the Union.
+**38.**[^c-1abec455f8fcdab91e1d889c6526b83d] Commission Implementing Decision (EU) 2016/2317 of 16 December 2016 amending [Decision 2008/294/EC](https://www.legislation.gov.uk/european/decision/2008/0294) and Implementing [Decision 2013/654/EU](https://www.legislation.gov.uk/european/decision/2013/0654), in order to simplify the operation of mobile communications on board aircraft (MCA services) in the Union.
 
-**39.**[^key-6f26c83737146798e9f69531514df022] Commission Implementing Decision (EU) 2017/191 of 1 February 2017 amending [Decision 2010/166/EU](https://www.legislation.gov.uk/european/decision/2010/0166), in order to introduce new technologies and frequency bands for mobile communication services on board vessels (MCV services) in the European Union.
+**39.**[^c-6f26c83737146798e9f69531514df022] Commission Implementing Decision (EU) 2017/191 of 1 February 2017 amending [Decision 2010/166/EU](https://www.legislation.gov.uk/european/decision/2010/0166), in order to introduce new technologies and frequency bands for mobile communication services on board vessels (MCV services) in the European Union.
 
-**40.**[^key-766f3ba6f5464901dc1d7d72a53db7dd] Commission Implementing Decision (EU) 2017/2077 of 10 November 2017 amending [Decision 2005/50/EC](https://www.legislation.gov.uk/european/decision/2005/0050) on the harmonisation of the 24 GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community.
+**40.**[^c-766f3ba6f5464901dc1d7d72a53db7dd] Commission Implementing Decision (EU) 2017/2077 of 10 November 2017 amending [Decision 2005/50/EC](https://www.legislation.gov.uk/european/decision/2005/0050) on the harmonisation of the 24 GHz range radio spectrum band for the time-limited use by automotive short-range radar equipment in the Community.
 
-**41.**[^key-636296176ce544193b11bbd8f533c910] Commission Implementing Decision (EU) 2017/1438 of 4 August 2017 amending [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) on allowing the use of the radio spectrum for equipment using ultra-wideband technology in a harmonised manner in the Community.
+**41.**[^c-636296176ce544193b11bbd8f533c910] Commission Implementing Decision (EU) 2017/1438 of 4 August 2017 amending [Decision 2007/131/EC](https://www.legislation.gov.uk/european/decision/2007/0131) on allowing the use of the radio spectrum for equipment using ultra-wideband technology in a harmonised manner in the Community.
 
-**42.**[^key-52f29b306293b26d51bf4bd18a8bf0eb] Commission Implementing Decision (EU) 2017/1483 of 8 August 2017 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices and repealing [Decision 2006/804/EC](https://www.legislation.gov.uk/european/decision/2006/0804).
+**42.**[^c-52f29b306293b26d51bf4bd18a8bf0eb] Commission Implementing Decision (EU) 2017/1483 of 8 August 2017 amending [Decision 2006/771/EC](https://www.legislation.gov.uk/european/decision/2006/0771) on harmonisation of the radio spectrum for use by short-range devices and repealing [Decision 2006/804/EC](https://www.legislation.gov.uk/european/decision/2006/0804).
 
-**43.**[^key-ca2b385fac0f137f8c6f2caa49ff28a6] Commission Implementing Decision (EU) 2018/637 of 20 April 2018 amending [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766) on the harmonisation of the 900 MHz and 1800 MHz frequency bands for terrestrial systems capable of providing pan-European electronic communications services in the Community as regards relevant technical conditions for the Internet of Things.
+**43.**[^c-ca2b385fac0f137f8c6f2caa49ff28a6] Commission Implementing Decision (EU) 2018/637 of 20 April 2018 amending [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766) on the harmonisation of the 900 MHz and 1800 MHz frequency bands for terrestrial systems capable of providing pan-European electronic communications services in the Community as regards relevant technical conditions for the Internet of Things.
 
-**44.**[^key-860da70189e08591ce0828b1612b5f3f] Commission Implementing Decision (EU) 2018/661 of 26 April 2018 amending Implementing Decision (EU) 2015/750 on the harmonisation of the 1452-1492 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Union as regards its extension in the harmonised 1427-1452 MHz and 1492-1517 MHz frequency bands.
+**44.**[^c-860da70189e08591ce0828b1612b5f3f] Commission Implementing Decision (EU) 2018/661 of 26 April 2018 amending Implementing Decision (EU) 2015/750 on the harmonisation of the 1452-1492 MHz frequency band for terrestrial systems capable of providing electronic communications services in the Union as regards its extension in the harmonised 1427-1452 MHz and 1492-1517 MHz frequency bands.
 
-**45.**[^key-c076840b2f43eb736eb57a70b235bb9b] Commission Implementing Decision (EU) 2018/1538 of 11 October 2018 on the harmonisation of radio spectrum for use by short-range devices within the 874-876 and 915-921 MHz frequency bands.
+**45.**[^c-c076840b2f43eb736eb57a70b235bb9b] Commission Implementing Decision (EU) 2018/1538 of 11 October 2018 on the harmonisation of radio spectrum for use by short-range devices within the 874-876 and 915-921 MHz frequency bands.
 
 EXPLANATORY NOTE
 
@@ -315,128 +315,128 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00001]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16) (“the Act”).
 
-[^key-8f96a1d6099d2766ec73f849e553524e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-8f96a1d6099d2766ec73f849e553524e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-830222e1cc6f8ceab4e6d3b9282dd6e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1385/regulation/2) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-830222e1cc6f8ceab4e6d3b9282dd6e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1385/regulation/2) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2009/11](https://www.legislation.gov.uk/uksi/2009/11). These Regulations, which were made under section 2(2) of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), continue to have effect on and after exit day by virtue of section 2(1) of the Act.
 
-[^key-917ec5a3cf736130b61d2b99761528b6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-917ec5a3cf736130b61d2b99761528b6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2010/672](https://www.legislation.gov.uk/uksi/2010/672); amended by [S.I. 2013/174](https://www.legislation.gov.uk/uksi/2013/174). These Regulations, which were made under section 2(2) of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), continue to have effect on and after exit day by virtue of section 2(1) of the Act.
 
-[^key-97e940c5cff141353521187d978853ed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1385/regulation/4) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-97e940c5cff141353521187d978853ed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1385/regulation/4) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2010/3024](https://www.legislation.gov.uk/uksi/2010/3024). This Order, which implemented [Directive 2009/114/EC](https://www.legislation.gov.uk/european/directive/2009/0114) of the European Parliament and of the Council and Commission [Decision 2009/766/EC](https://www.legislation.gov.uk/european/decision/2009/0766), continues to have effect on and after exit day by virtue of section 2(1) of the Act.
 
-[^key-63283adefc67ad43af3a26086a858394]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1385/regulation/5) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-63283adefc67ad43af3a26086a858394]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1385/regulation/5) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2015/1658](https://www.legislation.gov.uk/uksi/2015/1658). These Regulations, which were made under section 2(2) of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), continue to have effect on and after exit day by virtue of section 2(1) of the Act.
 
-[^key-deefdc9f139b27d816aab7b6c0b1c712]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-deefdc9f139b27d816aab7b6c0b1c712]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2016/495](https://www.legislation.gov.uk/uksi/2016/495). These Regulations, which were made under section 2(2) of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), continue to have effect on and after exit day by virtue of section 2(1) of the Act.
 
-[^key-cf38b67cf0cdc8ee6ef129fe4033dcdd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1385/regulation/7) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-cf38b67cf0cdc8ee6ef129fe4033dcdd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1385/regulation/7) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2016/886](https://www.legislation.gov.uk/uksi/2016/886). These Regulations, which were made under section 2(2) of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), continue to have effect on and after exit day by virtue of section 2(1) of the Act.
 
-[^key-cb282efa957de971c1222a56a6377f38]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/1385/regulation/8) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-cb282efa957de971c1222a56a6377f38]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/1385/regulation/8) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-ad3c64ddace5c8792847b8a957ca3c00]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/1) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-ad3c64ddace5c8792847b8a957ca3c00]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/1) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-2113423ad86a559bc0b0a95a09c49a55]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/2) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-2113423ad86a559bc0b0a95a09c49a55]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/2) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-e745a6fbdbc0a9dd522d4c674080eb5f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/3) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-e745a6fbdbc0a9dd522d4c674080eb5f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/3) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-b31e26f9ef9b68731aeff72b218b129d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/4) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-b31e26f9ef9b68731aeff72b218b129d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/4) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-5435668683534db9d9099298f11c8837]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/1) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-5435668683534db9d9099298f11c8837]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/1) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-4c92f74bb2e00043ed47f0998ddc0603]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/2) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-4c92f74bb2e00043ed47f0998ddc0603]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/2) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-045bce5636a634255c64f2a176061d0d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/3) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-045bce5636a634255c64f2a176061d0d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/3) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-30afa47abf5c65b52111e5ff9471e8a3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/4) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-30afa47abf5c65b52111e5ff9471e8a3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/4) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-53efaa066791c9eff306ced4c11156f3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/5) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-53efaa066791c9eff306ced4c11156f3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/5) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-77714834ee8d9fbdcb31cce29df72fa3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/6) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-77714834ee8d9fbdcb31cce29df72fa3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/6) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-2e87fa282019c12d394ad4461f36972e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/7) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-2e87fa282019c12d394ad4461f36972e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/7) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-e2d253f7136b7e1a966ff97e55a8c0a0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/8) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-e2d253f7136b7e1a966ff97e55a8c0a0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/8) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-772bab872d4435ba938f50dbd182f56f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/9) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-772bab872d4435ba938f50dbd182f56f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/9) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-f8f1f110436c60915f1a4f166b28a560]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/10) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-f8f1f110436c60915f1a4f166b28a560]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/10) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-31c69a5607350b112725e703df9800e6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/11) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-31c69a5607350b112725e703df9800e6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/11) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-a19d4162f52331137249198090670872]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/12) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-a19d4162f52331137249198090670872]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/12) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-8fa7f503ac3fcbeeec5d246f6e968035]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/13) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-8fa7f503ac3fcbeeec5d246f6e968035]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/13) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-481620273d648fe9556e525fb70088bc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/14) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-481620273d648fe9556e525fb70088bc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/14) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-268f3cde2cd53d5bb6aa78e2b0f7a60e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/15) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-268f3cde2cd53d5bb6aa78e2b0f7a60e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/15) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-8fdbcfdc49b920d92ac5856d4a918112]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/16) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-8fdbcfdc49b920d92ac5856d4a918112]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/16) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-0bd656fb32e6a5a08756eb75a11d24ff]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/17) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-0bd656fb32e6a5a08756eb75a11d24ff]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/17) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-ba47fcdca5ea0b784c4e86f4febd42d4]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/18) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-ba47fcdca5ea0b784c4e86f4febd42d4]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/18) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-1354af64f55bd6586e9baef8ff1c66a0]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/19) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-1354af64f55bd6586e9baef8ff1c66a0]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/19) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-94d282b06b1b6a7d80d395ec6626aa11]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/20) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-94d282b06b1b6a7d80d395ec6626aa11]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/20) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-4297f84394c80b4a9d9bd09c4397706c]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/21) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-4297f84394c80b4a9d9bd09c4397706c]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/21) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-84962144f3d2372303238f673d19382d]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/22) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-84962144f3d2372303238f673d19382d]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/22) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-adba62254d14227a2adef9298fc35e1b]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/23) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-adba62254d14227a2adef9298fc35e1b]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/23) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-9f4daf55a5f1c4f4ac9906823446de88]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/24) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-9f4daf55a5f1c4f4ac9906823446de88]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/24) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-e642120a3c2e5cfa250781053259a734]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/25) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-e642120a3c2e5cfa250781053259a734]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/25) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-ad042a280c1f79163f03383cefb529bb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/26) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-ad042a280c1f79163f03383cefb529bb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/26) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-594cc10623fcdcf3698dadcd5201b722]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/27) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-594cc10623fcdcf3698dadcd5201b722]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/27) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-e9ce9998bd7af28f8aa20b60e7559084]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/28) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-e9ce9998bd7af28f8aa20b60e7559084]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/28) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-b389093c81cbbd8c59e58232e01a1102]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/29) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-b389093c81cbbd8c59e58232e01a1102]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/29) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-a9f000ba8fc321a37a1e6e3c4c908ee4]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/30) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-a9f000ba8fc321a37a1e6e3c4c908ee4]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/30) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-e6fe249dcfac51c93da660c11d25fa8c]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/31) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-e6fe249dcfac51c93da660c11d25fa8c]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/31) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-57bb14e50e112068f4ee639bcd897cd4]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/32) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-57bb14e50e112068f4ee639bcd897cd4]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/32) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-4c76cd65cdab530f32f159a0b2d72072]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/33) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-4c76cd65cdab530f32f159a0b2d72072]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/33) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-40c00150890bbdeb1458c1bacc68e9aa]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/34) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-40c00150890bbdeb1458c1bacc68e9aa]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/34) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-e5ce21b1fa83fb41f355a33429b0a031]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/35) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-e5ce21b1fa83fb41f355a33429b0a031]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/35) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-569d62694bcb6d033c13a074c929b786]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/36) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-569d62694bcb6d033c13a074c929b786]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/36) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-13c2c6b3a93e2015a2ab9301cac79a0d]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/37) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-13c2c6b3a93e2015a2ab9301cac79a0d]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/37) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-1abec455f8fcdab91e1d889c6526b83d]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/38) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-1abec455f8fcdab91e1d889c6526b83d]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/38) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-6f26c83737146798e9f69531514df022]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/39) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-6f26c83737146798e9f69531514df022]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/39) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-766f3ba6f5464901dc1d7d72a53db7dd]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/40) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-766f3ba6f5464901dc1d7d72a53db7dd]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/40) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-636296176ce544193b11bbd8f533c910]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/41) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-636296176ce544193b11bbd8f533c910]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/41) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-52f29b306293b26d51bf4bd18a8bf0eb]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/42) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-52f29b306293b26d51bf4bd18a8bf0eb]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/42) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-ca2b385fac0f137f8c6f2caa49ff28a6]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/43) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-ca2b385fac0f137f8c6f2caa49ff28a6]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/43) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-860da70189e08591ce0828b1612b5f3f]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/44) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-860da70189e08591ce0828b1612b5f3f]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/44) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
 
-[^key-c076840b2f43eb736eb57a70b235bb9b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/45) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)
+[^c-c076840b2f43eb736eb57a70b235bb9b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/45) in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1)

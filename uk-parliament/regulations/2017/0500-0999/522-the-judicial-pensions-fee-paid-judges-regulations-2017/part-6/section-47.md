@@ -35,10 +35,10 @@ summary: ''
 
 where—
 
-- A is the sum of the interim payments amount (if any), and any interim amendments payments amount (as that expression is defined in regulation 68 of the Amendment Regulations) in relation to P in respect of benefits corresponding to those under the post-1995 provisions;[^key-5c66fa0d254dfae2536b0381acebeb0e]
-- B is the amount (if any) paid or payable to P under regulation 50 and regulation 69 of the Amendment Regulations in respect of benefits corresponding to those under the post-1995 provisions[^key-fea5c069df4d45c068ea0312c9b97835];
+- A is the sum of the interim payments amount (if any), and any interim amendments payments amount (as that expression is defined in regulation 68 of the Amendment Regulations) in relation to P in respect of benefits corresponding to those under the post-1995 provisions;[^c-5c66fa0d254dfae2536b0381acebeb0e]
+- B is the amount (if any) paid or payable to P under regulation 50 and regulation 69 of the Amendment Regulations in respect of benefits corresponding to those under the post-1995 provisions[^c-fea5c069df4d45c068ea0312c9b97835];
 - C is the total of the sums paid or payable to P under Part 3 on account of the pension (including any increases under the Pensions (Increase) Act 1971 [^c23060511]), and by way of lump sum, in relation to the period after commencement day;
-- D is the amount (if any) paid or payable by P under regulation 51 and regulation 70 of the Amendment Regulations in respect of benefits corresponding to those under the post-1995 provisions[^key-ce008bfad89d1f4782137149299057eb].
+- D is the amount (if any) paid or payable by P under regulation 51 and regulation 70 of the Amendment Regulations in respect of benefits corresponding to those under the post-1995 provisions[^c-ce008bfad89d1f4782137149299057eb].
 
 (4) In this regulation “**the minimum benefits amount**” means the amount determined in accordance with the following formula—
 
@@ -46,16 +46,16 @@ where—
 
 where E is the annual rate of the pension payable to P under Part 3 immediately before P's death.
 
-(5)[^key-294c35b8df2d33a9142674c53545a36d] In this regulation, “**the Amendment Regulations**” means the Judicial Pensions (Fee-paid Judges) (Amendment) Regulations 2023.
+(5)[^c-294c35b8df2d33a9142674c53545a36d] In this regulation, “**the Amendment Regulations**” means the Judicial Pensions (Fee-paid Judges) (Amendment) Regulations 2023.
 
 ## Annotations
 
-[^key-5c66fa0d254dfae2536b0381acebeb0e]: Textual amendment: [Reg. 47(3)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/3/a) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(a)(i)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/a/i)
+[^c-5c66fa0d254dfae2536b0381acebeb0e]: Textual amendment: [Reg. 47(3)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/3/a) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(a)(i)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/a/i)
 
-[^key-fea5c069df4d45c068ea0312c9b97835]: Textual amendment: Words in [reg. 47(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/3/b) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(a)(ii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/a/ii)
+[^c-fea5c069df4d45c068ea0312c9b97835]: Textual amendment: Words in [reg. 47(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/3/b) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(a)(ii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/a/ii)
 
 [^c23060511]: Textual amendment: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-ce008bfad89d1f4782137149299057eb]: Textual amendment: Words in [reg. 47(3)(d)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/3/d) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(a)(iii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/a/iii)
+[^c-ce008bfad89d1f4782137149299057eb]: Textual amendment: Words in [reg. 47(3)(d)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/3/d) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(a)(iii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/a/iii)
 
-[^key-294c35b8df2d33a9142674c53545a36d]: Textual amendment: [Reg. 47(5)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/5) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/b)
+[^c-294c35b8df2d33a9142674c53545a36d]: Textual amendment: [Reg. 47(5)](https://www.legislation.gov.uk/uksi/2017/522/regulation/47/5) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [30(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/30/b)

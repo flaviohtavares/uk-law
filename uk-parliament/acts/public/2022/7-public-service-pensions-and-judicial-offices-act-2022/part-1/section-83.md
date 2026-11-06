@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Indirect compensation[^key-b3227b4e1c5b0b33940478e049daddd5][^key-56714e3f8799d65d2acf29e1ab935ffb]
+## 83. Indirect compensation[^c-b3227b4e1c5b0b33940478e049daddd5][^c-56714e3f8799d65d2acf29e1ab935ffb]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3227b4e1c5b0b33940478e049daddd5]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-b3227b4e1c5b0b33940478e049daddd5]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-56714e3f8799d65d2acf29e1ab935ffb]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/7/section/83) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-56714e3f8799d65d2acf29e1ab935ffb]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/7/section/83) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

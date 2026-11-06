@@ -33,7 +33,7 @@ An Act to make provision with respect to the reserve forces of the Crown and per
 
 \[22nd May 1996\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-7f3032583428faf9f7ed9c938f68cd64][^key-751ef0290d96db6087617ce227da81cd]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-7f3032583428faf9f7ed9c938f68cd64][^c-751ef0290d96db6087617ce227da81cd]
 
 ## Contents
 
@@ -103,7 +103,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 27 — Voluntary training and other duties.](part-iii/section-27.md)
 
-### Part IV — Special agreements for call out[^c8319381][^key-ded485b047fb2e5cf7a9293f46e88b35]
+### Part IV — Special agreements for call out[^c8319381][^c-ded485b047fb2e5cf7a9293f46e88b35]
 
 #### Special agreements
 
@@ -124,7 +124,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 36 — Parliamentary control of numbers and reports.](part-iv/section-36.md)
 - [Section 37 — Interpretation of Part IV.](part-iv/section-37.md)
 
-### Part V — Employee Agreements[^c8319401][^key-ded485b047fb2e5cf7a9293f46e88b35]
+### Part V — Employee Agreements[^c8319401][^c-ded485b047fb2e5cf7a9293f46e88b35]
 
 #### Preliminary
 
@@ -150,7 +150,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 48 — Application of Part V to Crown servants, employees of sub-contractors and self-employed persons.](part-v/section-48.md)
 - [Section 49 — Interpretation of Part V.](part-v/section-49.md)
 
-### Part VI — Call out for permanent service[^c8319421][^key-ded485b047fb2e5cf7a9293f46e88b35]
+### Part VI — Call out for permanent service[^c8319421][^c-ded485b047fb2e5cf7a9293f46e88b35]
 
 #### General liability to be called out for permanent service
 
@@ -184,7 +184,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 63 — Exercise of certain functions under section 58 or 61.](part-vi/section-63.md)
 - [Section 64 — Interpretation of Part VI.](part-vi/section-64.md)
 
-### Part VII — Recall for service of officers and former servicemen[^c8319431][^key-ded485b047fb2e5cf7a9293f46e88b35]
+### Part VII — Recall for service of officers and former servicemen[^c8319431][^c-ded485b047fb2e5cf7a9293f46e88b35]
 
 *Extent: E+W+S+N.I.*
 
@@ -225,7 +225,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 81 — Regulations under section 78 or 79: supplementary.](part-viii/section-81.md)
 - [Section 82 — Offences in connection with regulations under section 78 or 79.](part-viii/section-82.md)
 
-#### Financial assistance in respect of reserve forces[^key-0184f391cb0085d09e46c96c56729cc3]
+#### Financial assistance in respect of reserve forces[^c-0184f391cb0085d09e46c96c56729cc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -339,9 +339,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-7f3032583428faf9f7ed9c938f68cd64]: Modification: Act: power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-7f3032583428faf9f7ed9c938f68cd64]: Modification: Act: power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
 
-[^key-751ef0290d96db6087617ce227da81cd]: Modification: Act extended (with modifications) (Isle of Man) (1.11.2010) by [The Reserve Forces Act 1996 (Isle of Man) Order 2010 (S.I. 2010/2470)](https://www.legislation.gov.uk/uksi/2010/2470), [art. 2](https://www.legislation.gov.uk/uksi/2010/2470/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/2470/schedule) (as amended (1.8.2016) by [The Reserve Forces Acts 1980 and 1996 (Isle of Man) (Amendment) Order 2016 (S.I. 2016/746)](https://www.legislation.gov.uk/uksi/2016/746), [arts. 1](https://www.legislation.gov.uk/uksi/2016/746/article/1), [3(3)(b))](https://www.legislation.gov.uk/uksi/2016/746/article/3/3/b)
+[^c-751ef0290d96db6087617ce227da81cd]: Modification: Act extended (with modifications) (Isle of Man) (1.11.2010) by [The Reserve Forces Act 1996 (Isle of Man) Order 2010 (S.I. 2010/2470)](https://www.legislation.gov.uk/uksi/2010/2470), [art. 2](https://www.legislation.gov.uk/uksi/2010/2470/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/2470/schedule) (as amended (1.8.2016) by [The Reserve Forces Acts 1980 and 1996 (Isle of Man) (Amendment) Order 2016 (S.I. 2016/746)](https://www.legislation.gov.uk/uksi/2016/746), [arts. 1](https://www.legislation.gov.uk/uksi/2016/746/article/1), [3(3)(b))](https://www.legislation.gov.uk/uksi/2016/746/article/3/3/b)
 
 [^c8319381]: Modification: Ss. 28-77 (Pts. IV-VII) modified (1.4.1997) by Army Act [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18), [s. 9(6A)](https://www.legislation.gov.uk/ukpga/1955/18/section/9/6A) (as inserted (1.4.1997) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14), [s. 126](https://www.legislation.gov.uk/ukpga/1996/14/section/126), [Sch. 7 paras. 1(3)](https://www.legislation.gov.uk/ukpga/1996/14/schedule/7/paragraph/1/3), [3(2)(3)](https://www.legislation.gov.uk/ukpga/1996/14/schedule/7/paragraph/3/2/3)(with s. 72(5), Sch. 7 para. 2); [S.I. 1997/305](https://www.legislation.gov.uk/uksi/1997/305), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/305/article/2/1))
 
@@ -349,7 +349,7 @@ SCHEDULES
 
     Ss. 28-77 (Pts. IV-VII) modified (1.4.1997) by Armed Forces Act [1966 c. 45](https://www.legislation.gov.uk/ukpga/1966/45), [s. 4(6A)](https://www.legislation.gov.uk/ukpga/1966/45/section/4/6A) (as inserted (1.4.1997) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14), [s. 126](https://www.legislation.gov.uk/ukpga/1996/14/section/126), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/1996/14/schedule/7/paragraph/7/3)(with s. 72(5), Sch. 7 para. 8); [S.I. 1997/305](https://www.legislation.gov.uk/uksi/1997/305), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/305/article/2/1))
 
-[^key-ded485b047fb2e5cf7a9293f46e88b35]: Modification: Pts. 4-7 modified (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [8(8)(b)](https://www.legislation.gov.uk/uksi/2009/1091/regulation/8/8/b)
+[^c-ded485b047fb2e5cf7a9293f46e88b35]: Modification: Pts. 4-7 modified (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [8(8)(b)](https://www.legislation.gov.uk/uksi/2009/1091/regulation/8/8/b)
 
 [^c8319401]: Modification: [Ss. 28-77](https://www.legislation.gov.uk/ukpga/1996/14/section/28) (Pts. IV-VII) modified (1.4.1997) by Army Act [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18), [s. 9(6A)](https://www.legislation.gov.uk/ukpga/1955/18/section/9/6A) (as inserted (1.4.1997) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14), [s. 126](https://www.legislation.gov.uk/ukpga/1996/14/section/126), [Sch. 7 paras. 1(3)](https://www.legislation.gov.uk/ukpga/1996/14/schedule/7/paragraph/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/1996/14/schedule/7/paragraph/3/3)); [S.I. 1997/305](https://www.legislation.gov.uk/uksi/1997/305), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/305/article/2/1))
 
@@ -369,4 +369,4 @@ SCHEDULES
 
     SS. 28-77 (Pts. IV-VII) modified (1.4.1997) by Armed Forces Act [1966 c. 45](https://www.legislation.gov.uk/ukpga/1966/45), [s. 4(6A)](https://www.legislation.gov.uk/ukpga/1966/45/section/4/6A) (as inserted (1.4.1997) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14), [s. 126](https://www.legislation.gov.uk/ukpga/1996/14/section/126), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/1996/14/schedule/7/paragraph/7/3)) (with s. 72(5), Sch. 7 para. 8); [S.I. 1997/305](https://www.legislation.gov.uk/uksi/1997/305), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/305/article/2/1))
 
-[^key-0184f391cb0085d09e46c96c56729cc3]: Textual amendment: Words in s. 83 cross-heading substituted (5.9.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/2) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)
+[^c-0184f391cb0085d09e46c96c56729cc3]: Textual amendment: Words in s. 83 cross-heading substituted (5.9.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/2) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)

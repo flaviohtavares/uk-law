@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Information about estates or interests in land[^key-b08db82dc16bfd14271be75214e93074]
+## 61. Information about estates or interests in land[^c-b08db82dc16bfd14271be75214e93074]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b08db82dc16bfd14271be75214e93074]: Commencement: S. 61 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-b08db82dc16bfd14271be75214e93074]: Commencement: S. 61 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Powers of members and employees of Authority.[^key-06641d4794f9c38a4e2b7b3e9ed0f224]
+## 39. Powers of members and employees of Authority.[^c-06641d4794f9c38a4e2b7b3e9ed0f224]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06641d4794f9c38a4e2b7b3e9ed0f224]: Textual amendment: S. 39 repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2008/22/section/28/3), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)
+[^c-06641d4794f9c38a4e2b7b3e9ed0f224]: Textual amendment: S. 39 repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2008/22/section/28/3), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**12.**[^key-471eb3cb531231ea1803bfa028dc40a4] In Part 19 (Bail in magistrates' courts and the Crown Court), in the Table of Contents—
+**12.**[^c-471eb3cb531231ea1803bfa028dc40a4] In Part 19 (Bail in magistrates' courts and the Crown Court), in the Table of Contents—
 
 - (a) at the end of the first column, insert—
   - (i) “Grant of bail subject to electronic monitoring requirements”, and
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-471eb3cb531231ea1803bfa028dc40a4]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2009/2087/article/12) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-471eb3cb531231ea1803bfa028dc40a4]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2009/2087/article/12) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

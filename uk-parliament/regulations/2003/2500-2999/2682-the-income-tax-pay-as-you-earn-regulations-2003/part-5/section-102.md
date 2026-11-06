@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Succession to a business etc[^key-d366947385195b4ae9e203d36a8436cb]
+## 102. Succession to a business etc[^c-d366947385195b4ae9e203d36a8436cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d366947385195b4ae9e203d36a8436cb]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2003/2682/regulation/102) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-d366947385195b4ae9e203d36a8436cb]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2003/2682/regulation/102) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

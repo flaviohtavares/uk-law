@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75ZA. Return of permitted expenditure: power to require return[^key-a74e98e474fb049a86157667748ff177][^key-763ffff159b6a3525078541b3cdf2252][^c14479931]
+## 75ZA. Return of permitted expenditure: power to require return[^c-a74e98e474fb049a86157667748ff177][^c-763ffff159b6a3525078541b3cdf2252][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
-[^key-763ffff159b6a3525078541b3cdf2252]: Textual amendment: Ss. 75ZA, 75ZB inserted (1.7.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/36/2), [45(1)(b)(iv)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/iv); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1236/article/3))
+[^c-763ffff159b6a3525078541b3cdf2252]: Textual amendment: Ss. 75ZA, 75ZB inserted (1.7.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/36/2), [45(1)(b)(iv)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/iv); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1236/article/3))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

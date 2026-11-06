@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 996A. Deductions from total profits for sporting testimonial payments and associated payments[^key-016063ec958b61936588ae4ac39ca158]
+## 996A. Deductions from total profits for sporting testimonial payments and associated payments[^c-016063ec958b61936588ae4ac39ca158]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-016063ec958b61936588ae4ac39ca158]: Textual amendment: [S. 996A](https://www.legislation.gov.uk/ukpga/2010/4/section/996A) and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/3)
+[^c-016063ec958b61936588ae4ac39ca158]: Textual amendment: [S. 996A](https://www.legislation.gov.uk/ukpga/2010/4/section/996A) and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Employment Rights (Increase of Limits) Order 2021 (revoked)[^key-55f29ce5eb7fb95036c6c3a245abe217]
+The Employment Rights (Increase of Limits) Order 2021 (revoked)[^c-55f29ce5eb7fb95036c6c3a245abe217]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 6th April 2021
 
-[^key-55f29ce5eb7fb95036c6c3a245abe217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55f29ce5eb7fb95036c6c3a245abe217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-55f29ce5eb7fb95036c6c3a245abe217]
+## 1. Citation, commencement, extent and interpretation[^c-55f29ce5eb7fb95036c6c3a245abe217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-55f29ce5eb7fb95036c6c3a245abe217]
+## 2. Revocation[^c-55f29ce5eb7fb95036c6c3a245abe217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-55f29ce5eb7fb95036c6c3a245abe217]
+## 3. Increase of limits[^c-55f29ce5eb7fb95036c6c3a245abe217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-55f29ce5eb7fb95036c6c3a245abe217]
+## 4. Transitional provisions[^c-55f29ce5eb7fb95036c6c3a245abe217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55f29ce5eb7fb95036c6c3a245abe217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55f29ce5eb7fb95036c6c3a245abe217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-55f29ce5eb7fb95036c6c3a245abe217]
+## SCHEDULE[^c-55f29ce5eb7fb95036c6c3a245abe217]
 
 Article 3
 
@@ -78,7 +78,7 @@ Article 3
 
 **No longer in force.**
 
-[^key-55f29ce5eb7fb95036c6c3a245abe217]EXPLANATORY NOTE
+[^c-55f29ce5eb7fb95036c6c3a245abe217]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -92,4 +92,4 @@ A full impact assessment has not been produced for this Order because section 34
 
 ## Annotations
 
-[^key-55f29ce5eb7fb95036c6c3a245abe217]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/208) revoked (6.4.2022) by [The Employment Rights (Increase of Limits) Order 2022 (S.I. 2022/182)](https://www.legislation.gov.uk/uksi/2022/182), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/182/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/182/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2022/182/article/4))
+[^c-55f29ce5eb7fb95036c6c3a245abe217]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/208) revoked (6.4.2022) by [The Employment Rights (Increase of Limits) Order 2022 (S.I. 2022/182)](https://www.legislation.gov.uk/uksi/2022/182), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/182/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/182/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2022/182/article/4))

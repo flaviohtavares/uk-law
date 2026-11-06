@@ -46,11 +46,11 @@ In accordance with section 21(4) and (5) of the Consumer Scotland Act 2020 they 
 
 In accordance with section 26(2)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-537d9b01187555b938f76594127dd42b]
+## 1. Citation and commencement[^c-537d9b01187555b938f76594127dd42b]
 
 These Regulations may be cited as the Consumer Scotland Act 2020 (Relevant Public Authorities) Regulations 2024 and come into force on 1 April 2024.
 
-## 2. Specification of public authorities who have a duty to have regard to consumer interests[^key-f5afab0e0d32725d46762df3255069ad]
+## 2. Specification of public authorities who have a duty to have regard to consumer interests[^c-f5afab0e0d32725d46762df3255069ad]
 
 (1) The persons specified in the schedule are relevant public authorities for the purposes of section 21(2) of the Consumer Scotland Act 2020.
 
@@ -66,7 +66,7 @@ Edinburgh
 
 12th March 2024
 
-## SCHEDULE[^key-aaa1898129e8894820e5c8592dbe45b9]
+## SCHEDULE[^c-aaa1898129e8894820e5c8592dbe45b9]
 
 Regulation 2
 
@@ -286,7 +286,7 @@ Scottish Water
 
 ### Health Bodies
 
-the Common Services Agency for the Scottish Health Service[^key-d0426cf065ff393ceabf8bffa47620d6]
+the Common Services Agency for the Scottish Health Service[^c-d0426cf065ff393ceabf8bffa47620d6]
 
 NHS Ayrshire and Arran
 
@@ -322,7 +322,7 @@ Mental Welfare Commission for Scotland
 
 National Waiting Times Centre Board
 
-[^key-a879aa9d31637c79ac2dbfe5728584a0]...
+[^c-a879aa9d31637c79ac2dbfe5728584a0]...
 
 NHS National Services Scotland
 
@@ -430,12 +430,12 @@ Section 21(3) of the Consumer Scotland Act 2020 allows the Scottish Ministers to
 
 [^f00001]: Footnote: [2020 asp 11](https://www.legislation.gov.uk/asp/2020/11).
 
-[^key-537d9b01187555b938f76594127dd42b]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/78/regulation/1)
+[^c-537d9b01187555b938f76594127dd42b]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/78/regulation/1)
 
-[^key-f5afab0e0d32725d46762df3255069ad]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/78/regulation/1)
+[^c-f5afab0e0d32725d46762df3255069ad]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/78/regulation/1)
 
-[^key-aaa1898129e8894820e5c8592dbe45b9]: Commencement: Sch. in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/78/regulation/1)
+[^c-aaa1898129e8894820e5c8592dbe45b9]: Commencement: Sch. in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/78/regulation/1)
 
-[^key-d0426cf065ff393ceabf8bffa47620d6]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2024/78/schedule) inserted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 26(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/26/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-d0426cf065ff393ceabf8bffa47620d6]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2024/78/schedule) inserted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 26(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/26/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
-[^key-a879aa9d31637c79ac2dbfe5728584a0]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2024/78/schedule) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 26(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/26/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-a879aa9d31637c79ac2dbfe5728584a0]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2024/78/schedule) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 26(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/26/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))

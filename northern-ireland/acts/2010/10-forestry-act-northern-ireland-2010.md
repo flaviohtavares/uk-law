@@ -306,7 +306,7 @@ by reason of any act falling within subsection (4).
 
 ### Restriction of felling
 
-#### 15. Requirement of licence for felling[^key-ace14f15d3be310ec897661afbea1862]
+#### 15. Requirement of licence for felling[^c-ace14f15d3be310ec897661afbea1862]
 
 (1) Subject to subsection (2), a person shall not fell trees growing on land of 0.2 hectares or more in area unless a licence granted by the Department under this Part (“a felling licence”) is in force authorising the felling.
 
@@ -325,8 +325,8 @@ by reason of any act falling within subsection (4).
 - (i) the felling of a tree where the felling is immediately required for the purpose of carrying out development authorised by planning permission;
 - (j) the felling by statutory undertakers of a tree on land in their occupation which obstructs the construction of any works required for the purposes of the undertaking by those undertakers, or of a tree which interferes with the maintenance or operation of any works vested in those undertakers;
 - (k) the felling of trees by a government department;
-- (l) the felling of a tree which requires the consent of a council or[^key-e7026f059c0ecaa69578d342915c1068] of the Department of the Environment under the provisions of a tree preservation order;
-- (m) the felling of a tree to which section 127 of the Planning Act (Northern Ireland) 2011 applies[^key-64550b67fc9803466a09ea0790b32a04] (trees in conservation area).
+- (l) the felling of a tree which requires the consent of a council or[^c-e7026f059c0ecaa69578d342915c1068] of the Department of the Environment under the provisions of a tree preservation order;
+- (m) the felling of a tree to which section 127 of the Planning Act (Northern Ireland) 2011 applies[^c-64550b67fc9803466a09ea0790b32a04] (trees in conservation area).
 
 (3) Any person who fells trees in contravention of this section commits an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale or twice the sum which appears to the court to be the value of the trees, whichever is the higher.
 
@@ -346,7 +346,7 @@ by reason of any act falling within subsection (4).
 
 and references to the diameter of trees shall be construed as references to the diameter, measured over the bark, at a point 1.3 metres above the ground level.
 
-#### 16. Application for felling licence[^key-74e6460bb4207ef56c413dcae88d6e52]
+#### 16. Application for felling licence[^c-74e6460bb4207ef56c413dcae88d6e52]
 
 (1) An application for a felling licence may be made to the Department in the prescribed manner by any person who has such an estate in the land on which the trees are growing as enables that person, with or without the consent of any other person, to fell the trees.
 
@@ -357,7 +357,7 @@ and references to the diameter of trees shall be construed as references to the 
 
 (3) Where the Department refuses to grant a felling licence, it shall give notice in writing to the applicant of the grounds for the refusal.
 
-#### 17. Compensation on refusal of felling licence[^key-71ff61ed06f7f15a80a0308d93ab5d6a]
+#### 17. Compensation on refusal of felling licence[^c-71ff61ed06f7f15a80a0308d93ab5d6a]
 
 (1) If the Department refuses an application for a felling licence in the case of any trees, any person who is for the time being the owner of the trees is entitled to compensation for any depreciation in the value of the trees which is attributable to deterioration in the quality of the timber comprised therein in consequence of the refusal of a felling licence for them.
 
@@ -375,7 +375,7 @@ and references to the diameter of trees shall be construed as references to the 
 
 (5) Any question of disputed compensation shall be referred to and determined by the Lands Tribunal.
 
-#### 18. Operation and conditions of felling licence[^key-ea00f7ffe21fe673dffee0460924c606]
+#### 18. Operation and conditions of felling licence[^c-ea00f7ffe21fe673dffee0460924c606]
 
 (1) A felling licence shall continue in force for such period (not being less than 5 years from the date on which it is granted) as is specified in the licence.
 
@@ -396,7 +396,7 @@ and references to the diameter of trees shall be construed as references to the 
 
 (6) Regulations may make provision about the drawing up, form, content and amendment of, and other matters relating to, felling management plans.
 
-#### 19. Deferred decision on an application for felling licence[^key-564c2e24b572648a966418f8b727320d]
+#### 19. Deferred decision on an application for felling licence[^c-564c2e24b572648a966418f8b727320d]
 
 (1) Where a person applies for a felling licence and the Department does not within 3 months after receiving the application, or within such further time as may be agreed with the applicant, give notice to the applicant of its decision on the application, the provisions of this Part apply in relation to the application as if it had been refused.
 
@@ -406,7 +406,7 @@ and references to the diameter of trees shall be construed as references to the 
 
 (4) Where a notice under subsection (3) is given, subsection (1) applies as if, instead of referring to a period of 3 months after the Department receives the application, it referred to a period of 3 months after the date on which the person entitled to such an estate in the land as is mentioned in the notice is joined as a party to the application.
 
-#### 20. Appeal against decision of Department on application for felling licence[^key-69bf8d5610bcff2934336e268c8bfb70]
+#### 20. Appeal against decision of Department on application for felling licence[^c-69bf8d5610bcff2934336e268c8bfb70]
 
 (1) A person aggrieved by—
 
@@ -458,7 +458,7 @@ until any fee or instalment of a fee in respect of the application or issue (as 
 
 ### Restocking notice
 
-#### 22. Power of Department to require restocking after unauthorised felling[^key-3ed935dc59b057f4d70e8eb10a9eee5e]
+#### 22. Power of Department to require restocking after unauthorised felling[^c-3ed935dc59b057f4d70e8eb10a9eee5e]
 
 (1) The Department may serve a notice under this section (a “restocking notice”) on a person where it appears to the Department that—
 
@@ -470,7 +470,7 @@ until any fee or instalment of a fee in respect of the application or issue (as 
 - (a) to restock or stock with trees of a specified species the land or such other land as may be agreed between the Department and that person; and
 - (b) to maintain those trees in accordance with the rules and practice of good forestry for a period, not exceeding 5 years, specified in the notice.
 
-#### 23. Appeal against restocking notice[^key-199e2eddae0850e9175abeca7ccfe362]
+#### 23. Appeal against restocking notice[^c-199e2eddae0850e9175abeca7ccfe362]
 
 (1) A person on whom a restocking notice has been served who objects to the notice or to any requirement contained in the notice may appeal to a person appointed under section 26.
 
@@ -483,7 +483,7 @@ until any fee or instalment of a fee in respect of the application or issue (as 
 
 ### Enforcement of felling licence conditions and restocking notice
 
-#### 24. Notice to require compliance with felling licence conditions or restocking notice[^key-ed7b9891d600a1dc2591021d27d6ee09]
+#### 24. Notice to require compliance with felling licence conditions or restocking notice[^c-ed7b9891d600a1dc2591021d27d6ee09]
 
 (1) The provisions of this section apply if—
 
@@ -512,7 +512,7 @@ until any fee or instalment of a fee in respect of the application or issue (as 
 
 (9) A person who is required by an enforcement notice to carry out works or take any other steps may carry out those works or take those steps notwithstanding any lease, covenant or contract relating to the trees or land affected by the notice.
 
-#### 25. Appeal against enforcement notice[^key-4da6371d78f3089c6a76bc12a98df341]
+#### 25. Appeal against enforcement notice[^c-4da6371d78f3089c6a76bc12a98df341]
 
 (1) A person to whom an enforcement notice is given in relation to a felling licence may appeal against the enforcement notice to a person appointed under section 26 on the grounds—
 
@@ -538,7 +538,7 @@ until any fee or instalment of a fee in respect of the application or issue (as 
 
 ### Supplementary
 
-#### 26. Appeals under this Part[^key-f98667b67eede9ba8776435bcdeec7c8]
+#### 26. Appeals under this Part[^c-f98667b67eede9ba8776435bcdeec7c8]
 
 (1) The Department shall appoint a person to determine an appeal under section 20, 23 or 25.
 
@@ -551,21 +551,21 @@ until any fee or instalment of a fee in respect of the application or issue (as 
 
 (4) The Department may pay to a person appointed under this section such remuneration or allowances as it may, with the consent of DFP, determine.
 
-#### 27. Identification of trees[^key-1abcc7da625921cc105fcf5f33379ce2]
+#### 27. Identification of trees[^c-1abcc7da625921cc105fcf5f33379ce2]
 
 An authorised officer may take such steps, whether by marking or otherwise, as the Department considers necessary for identifying trees—
 
 - (a) which are the subject of a felling licence; or
 - (b) in respect of which a felling licence has been refused.
 
-#### 28. Regulations as to applications, claims and notices[^key-1cfef60792dd7472135c7f831fdfbe78]
+#### 28. Regulations as to applications, claims and notices[^c-1cfef60792dd7472135c7f831fdfbe78]
 
 A power conferred by this Part to prescribe the manner in which an application, a claim or a notice is to be made or given under this Part includes power to require—
 
 - (a) that any particulars specified in the application, claim or notice be verified in the prescribed manner;
 - (b) that notice of the application, claim or notice be given to a prescribed person or body.
 
-#### 29. Application of this Part to Crown land[^key-e7d2e644adef953eea5752b972499f35]
+#### 29. Application of this Part to Crown land[^c-e7d2e644adef953eea5752b972499f35]
 
 (1) In this section “**Crown land**” means—
 
@@ -586,7 +586,7 @@ A power conferred by this Part to prescribe the manner in which an application, 
 
 and if any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to DFP, whose decision shall be final.
 
-#### 30. Interpretation of this Part[^key-20efa4e46a118ac10421ee77c0055737]
+#### 30. Interpretation of this Part[^c-20efa4e46a118ac10421ee77c0055737]
 
 In this Part—
 
@@ -602,7 +602,7 @@ In this Part—
 
 ### Right of access to, and byelaws for, forestry land
 
-#### 31. Public right of access to, and byelaws for, forestry land[^key-2820549b4ed58ba47f2286636907ae0d]
+#### 31. Public right of access to, and byelaws for, forestry land[^c-2820549b4ed58ba47f2286636907ae0d]
 
 (1) Subject as follows, the public shall have right of access on foot to all forestry land for the purposes of recreation.
 
@@ -753,7 +753,7 @@ this Act binds the Crown to the full extent authorised or permitted by the const
 
   .
 
-(3)[^key-1ce74de5c2c70b8e1d8b2a751c829851][^key-0d8e3e198369ac6be5e45c9dff4af6fa] The statutory provisions set out in Schedule 2 are repealed to the extent specified in the second column of that Schedule.
+(3)[^c-1ce74de5c2c70b8e1d8b2a751c829851][^c-0d8e3e198369ac6be5e45c9dff4af6fa] The statutory provisions set out in Schedule 2 are repealed to the extent specified in the second column of that Schedule.
 
 #### 39. Commencement
 
@@ -833,7 +833,7 @@ shall not, where representations objecting to the proposal for making the order 
 - (b) to search and bore for the purposes of ascertaining the course of any sewers or drains or ascertaining the nature of the subsoil; and
 - (c) to take and carry away, for the purpose of examination, specimens of the subsoil.
 
-## SCHEDULE 2 — REPEALS[^c21871431][^key-8e95528852a034b21c78254501828569][^key-7840c34e3e4b8109559596acf3ddd630]
+## SCHEDULE 2 — REPEALS[^c21871431][^c-8e95528852a034b21c78254501828569][^c-7840c34e3e4b8109559596acf3ddd630]
 
 Section 38.
 
@@ -853,52 +853,52 @@ Section 38.
 
 [^c22540931]: Textual amendment: By [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(2)](https://www.legislation.gov.uk/nia/2011/15/section/39/2), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nia/2011/15/schedule/3/part/2) it is provided that in s. 11(5) the words "game licences or" are repealed (17.8.2011); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-ace14f15d3be310ec897661afbea1862]: Commencement: S. 15 in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-ace14f15d3be310ec897661afbea1862]: Commencement: S. 15 in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-e7026f059c0ecaa69578d342915c1068]: Textual amendment: Words in [s. 15(2)(l)](https://www.legislation.gov.uk/nia/2010/10/section/15/2/l) inserted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 107(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/107/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-e7026f059c0ecaa69578d342915c1068]: Textual amendment: Words in [s. 15(2)(l)](https://www.legislation.gov.uk/nia/2010/10/section/15/2/l) inserted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 107(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/107/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
-[^key-64550b67fc9803466a09ea0790b32a04]: Textual amendment: Words in [s. 15(2)(m)](https://www.legislation.gov.uk/nia/2010/10/section/15/2/m) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 107(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/107/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-64550b67fc9803466a09ea0790b32a04]: Textual amendment: Words in [s. 15(2)(m)](https://www.legislation.gov.uk/nia/2010/10/section/15/2/m) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 107(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/107/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
-[^key-74e6460bb4207ef56c413dcae88d6e52]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2010/10/section/16) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-74e6460bb4207ef56c413dcae88d6e52]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2010/10/section/16) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-71ff61ed06f7f15a80a0308d93ab5d6a]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2010/10/section/17) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-71ff61ed06f7f15a80a0308d93ab5d6a]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2010/10/section/17) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-ea00f7ffe21fe673dffee0460924c606]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2010/10/section/18) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-ea00f7ffe21fe673dffee0460924c606]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2010/10/section/18) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-564c2e24b572648a966418f8b727320d]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2010/10/section/19) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-564c2e24b572648a966418f8b727320d]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2010/10/section/19) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-69bf8d5610bcff2934336e268c8bfb70]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2010/10/section/20) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-69bf8d5610bcff2934336e268c8bfb70]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2010/10/section/20) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-3ed935dc59b057f4d70e8eb10a9eee5e]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2010/10/section/22) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-3ed935dc59b057f4d70e8eb10a9eee5e]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2010/10/section/22) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-199e2eddae0850e9175abeca7ccfe362]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2010/10/section/23) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-199e2eddae0850e9175abeca7ccfe362]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2010/10/section/23) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-ed7b9891d600a1dc2591021d27d6ee09]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2010/10/section/24) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-ed7b9891d600a1dc2591021d27d6ee09]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2010/10/section/24) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-4da6371d78f3089c6a76bc12a98df341]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2010/10/section/25) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-4da6371d78f3089c6a76bc12a98df341]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2010/10/section/25) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-f98667b67eede9ba8776435bcdeec7c8]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2010/10/section/26) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-f98667b67eede9ba8776435bcdeec7c8]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2010/10/section/26) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-1abcc7da625921cc105fcf5f33379ce2]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2010/10/section/27) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-1abcc7da625921cc105fcf5f33379ce2]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2010/10/section/27) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-1cfef60792dd7472135c7f831fdfbe78]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2010/10/section/28) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-1cfef60792dd7472135c7f831fdfbe78]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2010/10/section/28) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-e7d2e644adef953eea5752b972499f35]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2010/10/section/29) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-e7d2e644adef953eea5752b972499f35]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2010/10/section/29) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-20efa4e46a118ac10421ee77c0055737]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2010/10/section/30) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-20efa4e46a118ac10421ee77c0055737]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2010/10/section/30) in operation at 17.6.2013 by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
-[^key-2820549b4ed58ba47f2286636907ae0d]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2010/10/section/31) in operation at 17.3.2013 by [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
+[^c-2820549b4ed58ba47f2286636907ae0d]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2010/10/section/31) in operation at 17.3.2013 by [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
 
 [^c21871421]: Commencement: S. 38 partly in operation; s. 38 not in operation at Royal Assent, see s. 39(1); s. 38(1)(2) in operation at 13.9.2010 by [S.R. 2010/309](https://www.legislation.gov.uk/nisr/2010/309), [art. 2](https://www.legislation.gov.uk/nisr/2010/309/article/2). Sch.; s. 38(3) in operation for certain purposes at 13.9.2010 by [S.R. 2010/309](https://www.legislation.gov.uk/nisr/2010/309), [art. 2](https://www.legislation.gov.uk/nisr/2010/309/article/2). Sch.
 
-[^key-1ce74de5c2c70b8e1d8b2a751c829851]: Commencement: S. 38(3) in operation at 17.3.2013 for specified purposes by [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
+[^c-1ce74de5c2c70b8e1d8b2a751c829851]: Commencement: S. 38(3) in operation at 17.3.2013 for specified purposes by [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
 
-[^key-0d8e3e198369ac6be5e45c9dff4af6fa]: Commencement: S. 38(3) in operation at 17.6.2013 for specified purposes by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-0d8e3e198369ac6be5e45c9dff4af6fa]: Commencement: S. 38(3) in operation at 17.6.2013 for specified purposes by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
 
 [^c21871401]: Subordinate legislation: [S. 39(1)](https://www.legislation.gov.uk/nia/2010/10/section/39/1) power partly exercised: 13.9.2010 appointed for specified provisions by {[S.R. 2010/309](https://www.legislation.gov.uk/nisr/2010/309)}, art. 2, Sch.
 
 [^c21871431]: Commencement: Sch. 2 partly in operation; Sch. 2 not in operation at Royal Assent, see. s. 39(1); Sch. 2 in operation for certain purposes at 13.9.2010 by [S.R. 2010/309](https://www.legislation.gov.uk/nisr/2010/309), [art. 2](https://www.legislation.gov.uk/nisr/2010/309/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2010/309/schedule)
 
-[^key-8e95528852a034b21c78254501828569]: Commencement: Sch. 2 in operation at 17.3.2013 for specified purposes by [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
+[^c-8e95528852a034b21c78254501828569]: Commencement: Sch. 2 in operation at 17.3.2013 for specified purposes by [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
 
-[^key-7840c34e3e4b8109559596acf3ddd630]: Commencement: Sch. 2 in operation at 17.6.2013 for specified purposes by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)
+[^c-7840c34e3e4b8109559596acf3ddd630]: Commencement: Sch. 2 in operation at 17.6.2013 for specified purposes by [S.R. 2013/138](https://www.legislation.gov.uk/nisr/2013/138), [art. 2](https://www.legislation.gov.uk/nisr/2013/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/138/schedule)

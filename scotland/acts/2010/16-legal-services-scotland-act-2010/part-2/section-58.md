@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Conditions for disqualification[^key-d25df9b74047db106ec3471b89b87762]
+## 58. Conditions for disqualification[^c-d25df9b74047db106ec3471b89b87762]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) The second condition is that—
 
-- (a) P is subject to a bankruptcy restrictions order [^key-3543cd6521add8a17608690a9a5f8185]... under the Bankruptcy (Scotland) Act 1985, the Bankruptcy (Scotland) Act 2016,[^key-51b1c41d94df0d2f29b691b55fa71e4e] the Insolvency Act 1986 or corresponding Northern Ireland legislation, and
+- (a) P is subject to a bankruptcy restrictions order [^c-3543cd6521add8a17608690a9a5f8185]... under the Bankruptcy (Scotland) Act 1985, the Bankruptcy (Scotland) Act 2016,[^c-51b1c41d94df0d2f29b691b55fa71e4e] the Insolvency Act 1986 or corresponding Northern Ireland legislation, and
 - (b) the approved regulator is satisfied accordingly that P is unsuitable for the position.
 
 (4) The third condition is that—
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d25df9b74047db106ec3471b89b87762]: Commencement: S. 58 in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-d25df9b74047db106ec3471b89b87762]: Commencement: S. 58 in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-3543cd6521add8a17608690a9a5f8185]: Textual amendment: Words in s. 58(3)(a) omitted (30.11.2016) by virtue of [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(2)(a)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/2/a) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3543cd6521add8a17608690a9a5f8185]: Textual amendment: Words in s. 58(3)(a) omitted (30.11.2016) by virtue of [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(2)(a)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/2/a) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-51b1c41d94df0d2f29b691b55fa71e4e]: Textual amendment: Words in s. 58(3)(a) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(2)(b)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/2/b) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-51b1c41d94df0d2f29b691b55fa71e4e]: Textual amendment: Words in s. 58(3)(a) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(2)(b)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/2/b) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

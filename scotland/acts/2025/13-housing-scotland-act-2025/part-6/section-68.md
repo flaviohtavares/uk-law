@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Property factor registered numbers: inclusion in communications[^key-85d17a34a382b744b1a7eb574de6cb82][^key-63f0134266ac2afa1ed91caba2dcb3d4]
+## 68. Property factor registered numbers: inclusion in communications[^c-85d17a34a382b744b1a7eb574de6cb82][^c-63f0134266ac2afa1ed91caba2dcb3d4]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85d17a34a382b744b1a7eb574de6cb82]: Commencement: S. 68 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-85d17a34a382b744b1a7eb574de6cb82]: Commencement: S. 68 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-63f0134266ac2afa1ed91caba2dcb3d4]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2025/13/section/68) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-63f0134266ac2afa1ed91caba2dcb3d4]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2025/13/section/68) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

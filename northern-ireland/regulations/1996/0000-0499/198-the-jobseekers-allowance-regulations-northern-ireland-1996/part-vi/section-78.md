@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Circumstances in which a person is to be treated as being or not being a member of the household[^key-f3fd1eb4a58407137ce4459f41592512]
+## 78. Circumstances in which a person is to be treated as being or not being a member of the household[^c-f3fd1eb4a58407137ce4459f41592512]
 
 *Extent: N.I.*
 
@@ -71,7 +71,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f3fd1eb4a58407137ce4459f41592512]: Commencement: Reg. 78 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f3fd1eb4a58407137ce4459f41592512]: Commencement: Reg. 78 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00060]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 

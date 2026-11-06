@@ -22,7 +22,7 @@ summary: ''
 
 (see regulations 75, 77 and 79)
 
-### PART I (see regulation 75) — MAXIMUM PERMITTED LADEN WEIGHTS OF (1) TRAILERS AND (2) HEAVY MOTOR CARS AND MOTOR CARS NOT FITTED WITH ROAD FRIENDLY SUSPENSION; IN EACH CASE NOT FORMING PART OF AN ARTICULATED VEHICLE[^key-863627b0e6e5e9bf924190ada7bc8641]
+### PART I (see regulation 75) — MAXIMUM PERMITTED LADEN WEIGHTS OF (1) TRAILERS AND (2) HEAVY MOTOR CARS AND MOTOR CARS NOT FITTED WITH ROAD FRIENDLY SUSPENSION; IN EACH CASE NOT FORMING PART OF AN ARTICULATED VEHICLE[^c-863627b0e6e5e9bf924190ada7bc8641]
 
 **1.** The maximum permitted laden weight of a two or three axle vehicle to which this Part applies of a description specified in column 2 of Table I below shall, for the purposes of regulation 75, be the weight specified in column 3 of that item.
 
@@ -69,7 +69,7 @@ TABLE II
 </tbody>
 </table>
 
-### PART IA (see regulation 75) — MAXIMUM PERMITTED GROSS WEIGHTS FOR HEAVY CARS AND MOTOR CARS IF THE DRIVING AXLES ARE FITTED WITH ROAD FRIENDLY SUSPENSION ETC AND IN EACH CASE NOT FORMING PART OF AN ARTICULATED VEHICLE[^key-782ab921fe591ce4c2db526c32f77dd1]
+### PART IA (see regulation 75) — MAXIMUM PERMITTED GROSS WEIGHTS FOR HEAVY CARS AND MOTOR CARS IF THE DRIVING AXLES ARE FITTED WITH ROAD FRIENDLY SUSPENSION ETC AND IN EACH CASE NOT FORMING PART OF AN ARTICULATED VEHICLE[^c-782ab921fe591ce4c2db526c32f77dd1]
 
 **1.** Subject to paragraph 2, the maximum permitted gross weight of a vehicle to which this Part applies shall, for the purposes of regulation 75, be the weight shown in column 4 of the Table below in the item which is appropriate, having regard to columns 2 and 3 in that Table.
 
@@ -98,7 +98,7 @@ TABLE
 </tbody>
 </table>
 
-### PART II — Maximum permitted laden weights for heavy motor cars and motor cars forming part of articulated vehicles[^key-ccd1021c49bf61e0a5a3deaaa3359220]
+### PART II — Maximum permitted laden weights for heavy motor cars and motor cars forming part of articulated vehicles[^c-ccd1021c49bf61e0a5a3deaaa3359220]
 
 (see regulation 75)
 
@@ -119,9 +119,9 @@ TABLE
 </tbody>
 </table>
 
-[^key-beb51d8fb09854fdb80c98fa1a196480]
+[^c-beb51d8fb09854fdb80c98fa1a196480]
 
-### PART III — Maximum permitted laden weight of articulated vehicles[^key-4d65535726232d033aa365a19e20ae25]
+### PART III — Maximum permitted laden weight of articulated vehicles[^c-4d65535726232d033aa365a19e20ae25]
 
 (see regulation 77)
 
@@ -153,9 +153,9 @@ TABLE
 </tbody>
 </table>
 
-[^key-7e70d0e28e7a596c76d5aaa1de44b222]
+[^c-7e70d0e28e7a596c76d5aaa1de44b222]
 
-### PART IV (see regulation 77) — MAXIMUM PERMITTED LADEN WEIGHT OF ARTICULATED VEHICLES[^key-0d31bf96c3d01aa0c8d52e4df08162f7]
+### PART IV (see regulation 77) — MAXIMUM PERMITTED LADEN WEIGHT OF ARTICULATED VEHICLES[^c-0d31bf96c3d01aa0c8d52e4df08162f7]
 
 <table>
 <thead>
@@ -172,9 +172,9 @@ TABLE
 </tbody>
 </table>
 
-[^key-19ae3ce6253f6a27a4ec6eabcf614f7c]
+[^c-19ae3ce6253f6a27a4ec6eabcf614f7c]
 
-### PART V Regulation 79(2) — VEHICLES WITH TWO CLOSELY-SPACED AXLES[^key-c9ed279e67ebcb0fcfacbe62c8129426]
+### PART V Regulation 79(2) — VEHICLES WITH TWO CLOSELY-SPACED AXLES[^c-c9ed279e67ebcb0fcfacbe62c8129426]
 
 <table>
 <thead>
@@ -191,7 +191,7 @@ TABLE
 </tbody>
 </table>
 
-### PART VI Regulation 79(3) — VEHICLES WITH THREE CLOSELY-SPACED AXLES[^key-f33c365b68091bcfb9b314395d3969ed]
+### PART VI Regulation 79(3) — VEHICLES WITH THREE CLOSELY-SPACED AXLES[^c-f33c365b68091bcfb9b314395d3969ed]
 
 <table>
 <thead>
@@ -205,32 +205,32 @@ TABLE
 </tbody>
 </table>
 
-### PART VII — Maximum permitted weight of three adjacent axles[^key-3de1c3b203bf261485a92cdac2d299ad]
+### PART VII — Maximum permitted weight of three adjacent axles[^c-3de1c3b203bf261485a92cdac2d299ad]
 
 (see regulation 79(4))
 
-[^key-3de1c3b203bf261485a92cdac2d299ad]...
+[^c-3de1c3b203bf261485a92cdac2d299ad]...
 
 ## Annotations
 
-[^key-863627b0e6e5e9bf924190ada7bc8641]: Textual amendment: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/1) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/a), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/I)
+[^c-863627b0e6e5e9bf924190ada7bc8641]: Textual amendment: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/1) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/a), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/I)
 
-[^key-782ab921fe591ce4c2db526c32f77dd1]: Textual amendment: [Sch. 11 Pt. 1A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/1A) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/b), [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/II)
+[^c-782ab921fe591ce4c2db526c32f77dd1]: Textual amendment: [Sch. 11 Pt. 1A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/1A) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/b), [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/II)
 
-[^key-ccd1021c49bf61e0a5a3deaaa3359220]: Commencement: [Sch. 11 Pt. II](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/II) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-ccd1021c49bf61e0a5a3deaaa3359220]: Commencement: [Sch. 11 Pt. II](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/II) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-beb51d8fb09854fdb80c98fa1a196480]: Textual amendment: Words in [Sch. 11 Pt. II](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/II) omitted (1.4.1988) by virtue of [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/1987/676/regulation/13/2/b)
+[^c-beb51d8fb09854fdb80c98fa1a196480]: Textual amendment: Words in [Sch. 11 Pt. II](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/II) omitted (1.4.1988) by virtue of [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/1987/676/regulation/13/2/b)
 
-[^key-4d65535726232d033aa365a19e20ae25]: Commencement: [Sch. 11 Pt. III](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/III) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-4d65535726232d033aa365a19e20ae25]: Commencement: [Sch. 11 Pt. III](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/III) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-7e70d0e28e7a596c76d5aaa1de44b222]: Textual amendment: Words in [Sch. 11 Pt. III](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/III) omitted (24.3.1994) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/1994/329/regulation/11/2)
+[^c-7e70d0e28e7a596c76d5aaa1de44b222]: Textual amendment: Words in [Sch. 11 Pt. III](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/III) omitted (24.3.1994) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/1994/329/regulation/11/2)
 
-[^key-0d31bf96c3d01aa0c8d52e4df08162f7]: Textual amendment: [Sch. 11 Pt. 4](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/4) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/c), [Sch. 2 Pt. III](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/III)
+[^c-0d31bf96c3d01aa0c8d52e4df08162f7]: Textual amendment: [Sch. 11 Pt. 4](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/4) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/c), [Sch. 2 Pt. III](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/III)
 
-[^key-19ae3ce6253f6a27a4ec6eabcf614f7c]: Textual amendment: Words in [Sch. 11 Pt. IV](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/IV) substituted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/1994/329/regulation/11/3)
+[^c-19ae3ce6253f6a27a4ec6eabcf614f7c]: Textual amendment: Words in [Sch. 11 Pt. IV](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/IV) substituted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/1994/329/regulation/11/3)
 
-[^key-c9ed279e67ebcb0fcfacbe62c8129426]: Textual amendment: [Sch. 11 Pt. 5](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/5) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/d), [Sch. 2 Pt. IV](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/IV)
+[^c-c9ed279e67ebcb0fcfacbe62c8129426]: Textual amendment: [Sch. 11 Pt. 5](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/5) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/d), [Sch. 2 Pt. IV](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/IV)
 
-[^key-f33c365b68091bcfb9b314395d3969ed]: Textual amendment: [Sch. 11 Pt. 6](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/6) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/e), [Sch. 2 Pt. V](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/V)
+[^c-f33c365b68091bcfb9b314395d3969ed]: Textual amendment: [Sch. 11 Pt. 6](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/6) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/e), [Sch. 2 Pt. V](https://www.legislation.gov.uk/uksi/1992/2016/schedule/2/part/V)
 
-[^key-3de1c3b203bf261485a92cdac2d299ad]: Textual amendment: [Sch. 11 Pt. 7](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/7) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(f)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/f)
+[^c-3de1c3b203bf261485a92cdac2d299ad]: Textual amendment: [Sch. 11 Pt. 7](https://www.legislation.gov.uk/uksi/1986/1078/schedule/11/part/7) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [10(f)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/10/f)

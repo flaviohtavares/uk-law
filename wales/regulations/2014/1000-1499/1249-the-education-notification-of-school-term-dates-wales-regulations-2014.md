@@ -68,9 +68,9 @@ In these Regulations—
 
 ## 4. Period in which notification must be given
 
-(1)[^key-304daa4e469619303ed54293b7094011] Subject to paragraph (2),[^key-9f3c99047c02ec2891d2379d7c34db05] a local authority must notify the Welsh Ministers of all term dates which have been determined for the maintained schools in its area no later than the final working day in August in the year two years immediately preceding the beginning of the first school year for which the term dates have been determined.
+(1)[^c-304daa4e469619303ed54293b7094011] Subject to paragraph (2),[^c-9f3c99047c02ec2891d2379d7c34db05] a local authority must notify the Welsh Ministers of all term dates which have been determined for the maintained schools in its area no later than the final working day in August in the year two years immediately preceding the beginning of the first school year for which the term dates have been determined.
 
-(2)[^key-83975f6f1e9f90c6267515c887cb48d2] For the school year 2022-2023, a local authority must notify the Welsh Ministers of all term dates which have been determined for the maintained schools in its area for that school year no later than 31 December 2020.
+(2)[^c-83975f6f1e9f90c6267515c887cb48d2] For the school year 2022-2023, a local authority must notify the Welsh Ministers of all term dates which have been determined for the maintained schools in its area for that school year no later than 31 December 2020.
 
 Huw Lewis
 
@@ -94,8 +94,8 @@ Section 32A(5) further provides that local authorities must notify the Welsh Min
 
 [^c22111821]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-304daa4e469619303ed54293b7094011]: Textual amendment: Reg. 4(1): reg. 4 renumbered as reg. 4(1) (16.7.2020) by [The Education (Notification of School Term Dates) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/622)](https://www.legislation.gov.uk/wsi/2020/622), [regs. 1](https://www.legislation.gov.uk/wsi/2020/622/regulation/1), [2(a)](https://www.legislation.gov.uk/wsi/2020/622/regulation/2/a)
+[^c-304daa4e469619303ed54293b7094011]: Textual amendment: Reg. 4(1): reg. 4 renumbered as reg. 4(1) (16.7.2020) by [The Education (Notification of School Term Dates) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/622)](https://www.legislation.gov.uk/wsi/2020/622), [regs. 1](https://www.legislation.gov.uk/wsi/2020/622/regulation/1), [2(a)](https://www.legislation.gov.uk/wsi/2020/622/regulation/2/a)
 
-[^key-9f3c99047c02ec2891d2379d7c34db05]: Textual amendment: Words in reg. 4(1) inserted (16.7.2020) by [The Education (Notification of School Term Dates) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/622)](https://www.legislation.gov.uk/wsi/2020/622), [regs. 1](https://www.legislation.gov.uk/wsi/2020/622/regulation/1), [2(b)](https://www.legislation.gov.uk/wsi/2020/622/regulation/2/b)
+[^c-9f3c99047c02ec2891d2379d7c34db05]: Textual amendment: Words in reg. 4(1) inserted (16.7.2020) by [The Education (Notification of School Term Dates) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/622)](https://www.legislation.gov.uk/wsi/2020/622), [regs. 1](https://www.legislation.gov.uk/wsi/2020/622/regulation/1), [2(b)](https://www.legislation.gov.uk/wsi/2020/622/regulation/2/b)
 
-[^key-83975f6f1e9f90c6267515c887cb48d2]: Textual amendment: Reg. 4(2) inserted (16.7.2020) by [The Education (Notification of School Term Dates) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/622)](https://www.legislation.gov.uk/wsi/2020/622), [regs. 1](https://www.legislation.gov.uk/wsi/2020/622/regulation/1), [2(c)](https://www.legislation.gov.uk/wsi/2020/622/regulation/2/c)
+[^c-83975f6f1e9f90c6267515c887cb48d2]: Textual amendment: Reg. 4(2) inserted (16.7.2020) by [The Education (Notification of School Term Dates) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/622)](https://www.legislation.gov.uk/wsi/2020/622), [regs. 1](https://www.legislation.gov.uk/wsi/2020/622/regulation/1), [2(c)](https://www.legislation.gov.uk/wsi/2020/622/regulation/2/c)

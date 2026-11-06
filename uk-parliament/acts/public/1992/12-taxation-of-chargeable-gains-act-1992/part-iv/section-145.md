@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies [^key-22195a7fc6bd0d9651ca272d2b40de68]... where, on a disposal to which section 53 applies, the relevant allowable expenditure includes both—
+(1) This section applies [^c-22195a7fc6bd0d9651ca272d2b40de68]... where, on a disposal to which section 53 applies, the relevant allowable expenditure includes both—
 
 - (a) the cost of acquiring an option binding the grantor to sell (“**the option consideration**”); and
 - (b) the cost of acquiring what was sold as a result of the exercise of the option (“**the sale consideration**”),
 
 but does not apply in any case where section 114 applies.
 
-(1A)[^key-6b69033148ef402431148a3366f86357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-6b69033148ef402431148a3366f86357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purpose of computing the indexation allowance (if any) on the disposal referred to in subsection (1) above—
 
@@ -38,6 +38,6 @@ but does not apply in any case where section 114 applies.
 
 ## Annotations
 
-[^key-22195a7fc6bd0d9651ca272d2b40de68]: Textual amendment: Words in s. 145(1) omitted (with effect in accordance with Sch. 2 para. 83 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 81(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/81/2)
+[^c-22195a7fc6bd0d9651ca272d2b40de68]: Textual amendment: Words in s. 145(1) omitted (with effect in accordance with Sch. 2 para. 83 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 81(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/81/2)
 
-[^key-6b69033148ef402431148a3366f86357]: Textual amendment: S. 145(1A) omitted (with effect in accordance with Sch. 2 para. 83 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 81(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/81/3)
+[^c-6b69033148ef402431148a3366f86357]: Textual amendment: S. 145(1A) omitted (with effect in accordance with Sch. 2 para. 83 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 81(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/81/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49B. Collective settlements: where a collective proceedings order has not been made[^key-d4df63b0561eef251f4fa86bbbe3dbd8][^key-bf1a8eef7a6eb8e02985f33da985f18d]
+## 49B. Collective settlements: where a collective proceedings order has not been made[^c-d4df63b0561eef251f4fa86bbbe3dbd8][^c-bf1a8eef7a6eb8e02985f33da985f18d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4df63b0561eef251f4fa86bbbe3dbd8]: Textual amendment: S. 49B inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 11(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/11/1) (with [Sch. 8 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/11/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-d4df63b0561eef251f4fa86bbbe3dbd8]: Textual amendment: S. 49B inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 11(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/11/1) (with [Sch. 8 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/11/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)

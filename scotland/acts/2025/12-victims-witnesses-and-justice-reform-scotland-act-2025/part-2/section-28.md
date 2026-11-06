@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Civil courts: conduct of proceedings[^key-bd2436157240f60d2e061162f1d169a2][^key-c197e96541d4b68f813f17a9454fa431]
+## 28. Civil courts: conduct of proceedings[^c-bd2436157240f60d2e061162f1d169a2][^c-c197e96541d4b68f813f17a9454fa431]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd2436157240f60d2e061162f1d169a2]: Commencement: S. 28 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-bd2436157240f60d2e061162f1d169a2]: Commencement: S. 28 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-c197e96541d4b68f813f17a9454fa431]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2025/12/section/28) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-c197e96541d4b68f813f17a9454fa431]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2025/12/section/28) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

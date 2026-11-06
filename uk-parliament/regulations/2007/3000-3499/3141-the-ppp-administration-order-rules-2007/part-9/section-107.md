@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Notices sent simultaneously to the same person[^key-5a726de483dc0a69d5ed27156985c4ef]
+## 107. Notices sent simultaneously to the same person[^c-5a726de483dc0a69d5ed27156985c4ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the 1986 Act, the 1999 Act or these Rules a document of any descript
 
 ## Annotations
 
-[^key-5a726de483dc0a69d5ed27156985c4ef]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2007/3141/rule/107) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-5a726de483dc0a69d5ed27156985c4ef]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2007/3141/rule/107) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

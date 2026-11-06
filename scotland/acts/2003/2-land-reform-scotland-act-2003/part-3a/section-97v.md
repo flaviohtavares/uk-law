@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97V. Appeals[^key-03d2bb9594daa8ce1ed34f8efe45b7de]
+## 97V. Appeals[^c-03d2bb9594daa8ce1ed34f8efe45b7de]
 
 *Extent: S*
 
@@ -56,12 +56,12 @@ summary: ''
 
 (9) The decision of the sheriff in an appeal under this section—
 
-- (a) may require rectification of the New Register[^key-923dda0938bb9f3d79e809855693b21e],
+- (a) may require rectification of the New Register[^c-923dda0938bb9f3d79e809855693b21e],
 - (b) may impose conditions upon the appellant,
 - (c) is final.
 
 ## Annotations
 
-[^key-03d2bb9594daa8ce1ed34f8efe45b7de]: Textual amendment: Pt. 3A inserted (30.6.2017 for specified purposes, 27.6.2018 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 74](https://www.legislation.gov.uk/asp/2015/6/section/74), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2017/192](https://www.legislation.gov.uk/ssi/2017/192), [art. 2](https://www.legislation.gov.uk/ssi/2017/192/article/2); [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/139/article/2/a)
+[^c-03d2bb9594daa8ce1ed34f8efe45b7de]: Textual amendment: Pt. 3A inserted (30.6.2017 for specified purposes, 27.6.2018 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 74](https://www.legislation.gov.uk/asp/2015/6/section/74), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2017/192](https://www.legislation.gov.uk/ssi/2017/192), [art. 2](https://www.legislation.gov.uk/ssi/2017/192/article/2); [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/139/article/2/a)
 
-[^key-923dda0938bb9f3d79e809855693b21e]: Textual amendment: Words in s. 97V(9)(a) substituted (27.6.2018) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 1 para. 1(7)](https://www.legislation.gov.uk/asp/2016/18/schedule/1/paragraph/1/7) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2)
+[^c-923dda0938bb9f3d79e809855693b21e]: Textual amendment: Words in s. 97V(9)(a) substituted (27.6.2018) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 1 para. 1(7)](https://www.legislation.gov.uk/asp/2016/18/schedule/1/paragraph/1/7) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2)

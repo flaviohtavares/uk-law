@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Professional rules[^key-7dea4e1f6419f1662678b330f1d33a3b]
+## 121. Professional rules[^c-7dea4e1f6419f1662678b330f1d33a3b]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dea4e1f6419f1662678b330f1d33a3b]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2010/16/section/121) in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(b)](https://www.legislation.gov.uk/ssi/2011/180/article/5/b)
+[^c-7dea4e1f6419f1662678b330f1d33a3b]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2010/16/section/121) in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(b)](https://www.legislation.gov.uk/ssi/2011/180/article/5/b)

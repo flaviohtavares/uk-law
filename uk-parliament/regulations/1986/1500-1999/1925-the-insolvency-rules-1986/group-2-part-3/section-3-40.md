@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.40. Receiver to deal with prescribed part[^key-7b4127b9e01d495f530bfe487c22b806]
+## 3.40. Receiver to deal with prescribed part[^c-7b4127b9e01d495f530bfe487c22b806]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where Rule 3.39 applies—
 
 ## Annotations
 
-[^key-7b4127b9e01d495f530bfe487c22b806]: Textual amendment: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/3/chapter/7) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/11)
+[^c-7b4127b9e01d495f530bfe487c22b806]: Textual amendment: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/3/chapter/7) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/11)

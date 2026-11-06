@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Democratic Republic of the Congo (Restrictive Measures) (Overseas Territories) (Amendment) Order 2012 (revoked)[^key-e5fd63294c4554d554d7aa2d8d80ef51]
+The Democratic Republic of the Congo (Restrictive Measures) (Overseas Territories) (Amendment) Order 2012 (revoked)[^c-e5fd63294c4554d554d7aa2d8d80ef51]
 
 Made
 
@@ -52,42 +52,42 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-e5fd63294c4554d554d7aa2d8d80ef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5fd63294c4554d554d7aa2d8d80ef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-e5fd63294c4554d554d7aa2d8d80ef51]
+## 1. Citation, commencement, interpretation and extent[^c-e5fd63294c4554d554d7aa2d8d80ef51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-e5fd63294c4554d554d7aa2d8d80ef51]
+## 2. Amendment of the principal Order[^c-e5fd63294c4554d554d7aa2d8d80ef51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e5fd63294c4554d554d7aa2d8d80ef51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5fd63294c4554d554d7aa2d8d80ef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5fd63294c4554d554d7aa2d8d80ef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e5fd63294c4554d554d7aa2d8d80ef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5fd63294c4554d554d7aa2d8d80ef51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5fd63294c4554d554d7aa2d8d80ef51]: Textual amendment: Order revoked (8.7.2015) by [The Democratic Republic of the Congo (Sanctions) (Overseas Territories) Order 2015 (S.I. 2015/1382)](https://www.legislation.gov.uk/uksi/2015/1382), [art. 1(2)(4)](https://www.legislation.gov.uk/uksi/2015/1382/article/1/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2015/1382/article/2))
+[^c-e5fd63294c4554d554d7aa2d8d80ef51]: Textual amendment: Order revoked (8.7.2015) by [The Democratic Republic of the Congo (Sanctions) (Overseas Territories) Order 2015 (S.I. 2015/1382)](https://www.legislation.gov.uk/uksi/2015/1382), [art. 1(2)(4)](https://www.legislation.gov.uk/uksi/2015/1382/article/1/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2015/1382/article/2))

@@ -35,66 +35,66 @@ on the system of own resources of the European Union
 
 (2014/335/EU, Euratom) (revoked)
 
-[^key-e20b42dffc6972603507764514224127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e20b42dffc6972603507764514224127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-e20b42dffc6972603507764514224127]
+## Article 1. Subject matter[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Categories of own resources and specific methods for their calculation[^key-e20b42dffc6972603507764514224127]
+## Article 2. Categories of own resources and specific methods for their calculation[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Own resources ceiling[^key-e20b42dffc6972603507764514224127]
+## Article 3. Own resources ceiling[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Correction mechanism in favour of the United Kingdom[^key-e20b42dffc6972603507764514224127]
+## Article 4. Correction mechanism in favour of the United Kingdom[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Financing the correction mechanism in favour of the United Kingdom[^key-e20b42dffc6972603507764514224127]
+## Article 5. Financing the correction mechanism in favour of the United Kingdom[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Universality principle[^key-e20b42dffc6972603507764514224127]
+## Article 6. Universality principle[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Surplus carry-over[^key-e20b42dffc6972603507764514224127]
+## Article 7. Surplus carry-over[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Collecting own resources and making them available to the Commission[^key-e20b42dffc6972603507764514224127]
+## Article 8. Collecting own resources and making them available to the Commission[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Implementing measures[^key-e20b42dffc6972603507764514224127]
+## Article 9. Implementing measures[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Final and transitional provisions[^key-e20b42dffc6972603507764514224127]
+## Article 10. Final and transitional provisions[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-e20b42dffc6972603507764514224127]
+## Article 11. Entry into force[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Publication[^key-e20b42dffc6972603507764514224127]
+## Article 12. Publication[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e20b42dffc6972603507764514224127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e20b42dffc6972603507764514224127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — CORRELATION TABLE[^key-e20b42dffc6972603507764514224127]
+## ANNEX — CORRELATION TABLE[^c-e20b42dffc6972603507764514224127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e20b42dffc6972603507764514224127]: Textual amendment: Decision revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e20b42dffc6972603507764514224127]: Textual amendment: Decision revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

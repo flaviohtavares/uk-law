@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Requirement to have auditor panel[^key-57dbd25f67fde6c82af6a397ddce2175][^key-54257f3c88ad892b4bf995b58a5e7413]
+## 9. Requirement to have auditor panel[^c-57dbd25f67fde6c82af6a397ddce2175][^c-54257f3c88ad892b4bf995b58a5e7413]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57dbd25f67fde6c82af6a397ddce2175]: Commencement: S. 9(3) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/900/article/3/h)
+[^c-57dbd25f67fde6c82af6a397ddce2175]: Commencement: S. 9(3) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/900/article/3/h)
 
-[^key-54257f3c88ad892b4bf995b58a5e7413]: Commencement: S. 9 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-54257f3c88ad892b4bf995b58a5e7413]: Commencement: S. 9 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)

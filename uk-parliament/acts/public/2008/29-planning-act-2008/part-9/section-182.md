@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Development plan documents: climate change policies[^key-11976f9696ee1e128a2be4f95617e3c6]
+## 182. Development plan documents: climate change policies[^c-11976f9696ee1e128a2be4f95617e3c6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In section 19 of PCPA 2004 (preparation of local development documents) after su
 
 ## Annotations
 
-[^key-11976f9696ee1e128a2be4f95617e3c6]: Commencement: S. 182 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/400/article/3/e)
+[^c-11976f9696ee1e128a2be4f95617e3c6]: Commencement: S. 182 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/400/article/3/e)

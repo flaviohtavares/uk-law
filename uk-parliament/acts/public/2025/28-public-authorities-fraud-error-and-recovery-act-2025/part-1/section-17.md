@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Direct deduction orders[^key-b7f1645dfc555b56150188fd21254375][^key-9efee59295f1ab20f7f9bfbb8b16b0b7]
+## 17. Direct deduction orders[^c-b7f1645dfc555b56150188fd21254375][^c-9efee59295f1ab20f7f9bfbb8b16b0b7]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7f1645dfc555b56150188fd21254375]: Commencement: S. 17 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-b7f1645dfc555b56150188fd21254375]: Commencement: S. 17 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-9efee59295f1ab20f7f9bfbb8b16b0b7]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/28/section/17) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-9efee59295f1ab20f7f9bfbb8b16b0b7]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/28/section/17) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

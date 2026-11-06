@@ -56,7 +56,7 @@ After section 45 of the Environmental Protection Act 1990 (c. 43) there is inser
 >
 > (6) In this section, “**recyclable waste**” means household waste which is capable of being recycled or composted.
 
-## 2. Power to apply section 45A to Welsh waste collection authorities[^key-9588042ccfc84fd9d2aa9cd47ad56829]
+## 2. Power to apply section 45A to Welsh waste collection authorities[^c-9588042ccfc84fd9d2aa9cd47ad56829]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,4 +93,4 @@ In section 164 of the Environmental Protection Act 1990 (c. 43) (short title, co
 
 ## Annotations
 
-[^key-9588042ccfc84fd9d2aa9cd47ad56829]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2003/29/section/2) omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/15); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-9588042ccfc84fd9d2aa9cd47ad56829]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2003/29/section/2) omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/15); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)

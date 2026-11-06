@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 5 — Recovery from bank accounts etc[^key-49e2c1d56f0b135e1318341eba43fb2c][^key-3a7e0073f106f2498d6b71bf26a8b1c3]
+## Schedule 5 — Recovery from bank accounts etc[^c-49e2c1d56f0b135e1318341eba43fb2c][^c-3a7e0073f106f2498d6b71bf26a8b1c3]
 
 *Extent: E+W+S*
 
 Section 95
 
-[^key-49e2c1d56f0b135e1318341eba43fb2c][^key-3a7e0073f106f2498d6b71bf26a8b1c3]
+[^c-49e2c1d56f0b135e1318341eba43fb2c][^c-3a7e0073f106f2498d6b71bf26a8b1c3]
 
 The Schedule to be inserted in the Social Security Administration Act 1992 after Schedule 3 is—
 
@@ -589,6 +589,6 @@ The Schedule to be inserted in the Social Security Administration Act 1992 after
 
 ## Annotations
 
-[^key-49e2c1d56f0b135e1318341eba43fb2c]: Commencement: Sch. 5 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-49e2c1d56f0b135e1318341eba43fb2c]: Commencement: Sch. 5 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-3a7e0073f106f2498d6b71bf26a8b1c3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/28/schedule/5) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/g)
+[^c-3a7e0073f106f2498d6b71bf26a8b1c3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/28/schedule/5) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/g)

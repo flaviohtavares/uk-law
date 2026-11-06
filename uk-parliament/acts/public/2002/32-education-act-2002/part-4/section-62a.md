@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62A. Power to require local authority in England to obtain advisory services[^key-ffad605c47eaa3c9b7b28589c1112531][^key-cc4e782502c66df5dfba1caca1d12061][^key-379c0a8ab791aad4cda0b42dbea5f020]
+## 62A. Power to require local authority in England to obtain advisory services[^c-ffad605c47eaa3c9b7b28589c1112531][^c-cc4e782502c66df5dfba1caca1d12061][^c-379c0a8ab791aad4cda0b42dbea5f020]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
   - (ii) are unlikely to be effective in eliminating deficiencies in the conduct of other schools which may in the future fall within paragraph (a), or
   - (iii) maintain a disproportionate number of schools falling within that paragraph.
 
-(1A)[^key-1296a9a17e772627b0b48089cda20a5a] This section also applies where it appears to the Secretary of State that—
+(1A)[^c-1296a9a17e772627b0b48089cda20a5a] This section also applies where it appears to the Secretary of State that—
 
 - (a) a local authority in England maintain a disproportionate number of low-performing schools, and
 - (b) the authority—
@@ -51,19 +51,19 @@ summary: ''
 
 (4) In this section
 
-- “[^key-bd924c8851fc5309cd4610510a368ef1]**pupil**” has the same meaning as in the Education Act 1996 (see sections 3 and 19(5) of that Act);
+- “[^c-bd924c8851fc5309cd4610510a368ef1]**pupil**” has the same meaning as in the Education Act 1996 (see sections 3 and 19(5) of that Act);
 - “**school**” means a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school.
 
 (5) Any direction given under this section shall be enforceable, on an application made on behalf of the Secretary of State, by a mandatory order.
 
 ## Annotations
 
-[^key-ffad605c47eaa3c9b7b28589c1112531]: Modification: S. 62A applied (with modifications) (1.2.2008) by [The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2979/regulation/1/1), [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/18/1)
+[^c-ffad605c47eaa3c9b7b28589c1112531]: Modification: S. 62A applied (with modifications) (1.2.2008) by [The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2979/regulation/1/1), [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/18/1)
 
-[^key-cc4e782502c66df5dfba1caca1d12061]: Textual amendment: S. 62A inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/20); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-cc4e782502c66df5dfba1caca1d12061]: Textual amendment: S. 62A inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/20); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-1296a9a17e772627b0b48089cda20a5a]: Textual amendment: S. 62A(1A)-(1C) inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 204(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/204/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-1296a9a17e772627b0b48089cda20a5a]: Textual amendment: S. 62A(1A)-(1C) inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 204(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/204/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-bd924c8851fc5309cd4610510a368ef1]: Textual amendment: Words in s. 62A(4) inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 204(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/204/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-bd924c8851fc5309cd4610510a368ef1]: Textual amendment: Words in s. 62A(4) inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 204(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/204/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Power to acquire land[^key-e995fade2f79d3387ad33bdf7d2523be]
+## 16. Power to acquire land[^c-e995fade2f79d3387ad33bdf7d2523be]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ and may use any land so acquired for those purposes or for any other purposes th
 
 ## Annotations
 
-[^key-e995fade2f79d3387ad33bdf7d2523be]: Commencement: Art. 16 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-e995fade2f79d3387ad33bdf7d2523be]: Commencement: Art. 16 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
 
 [^f00016]: Footnote: [1925 c. 61](https://www.legislation.gov.uk/ukpga/1925/61).

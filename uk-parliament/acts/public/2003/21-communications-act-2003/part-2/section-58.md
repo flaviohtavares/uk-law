@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Conditions about allocation and adoption of numbers[^key-e7f7002fe933c6c238e27affac56092d][^key-83a507b340dd081d68cb4184267934da]
+## 58. Conditions about allocation and adoption of numbers[^c-e7f7002fe933c6c238e27affac56092d][^c-83a507b340dd081d68cb4184267934da]
 
 *Extent: E+W+S+N.I.*
 
 (1) General conditions may include conditions which—
 
 - (a) prohibit the adoption of telephone numbers by a communications provider except in cases where the numbers have been allocated by OFCOM to a person;
-- (aa)[^key-c47aacc39cbee5c4880859978c8ac14d] impose tariff principles and maximum prices for the purpose of protecting consumers in relation to the provision of an electronic communications service by means of telephone numbers adopted or available for use;
+- (aa)[^c-c47aacc39cbee5c4880859978c8ac14d] impose tariff principles and maximum prices for the purpose of protecting consumers in relation to the provision of an electronic communications service by means of telephone numbers adopted or available for use;
 - (b) regulate the use by a communications provider, for the purpose of providing an electronic communications network or electronic communications service, of telephone numbers not allocated to that provider;
 - (c) impose restrictions on the adoption of telephone numbers by a communications provider, and on other practices by communications providers in relation to telephone numbers allocated to them;
 - (d) impose requirements on a communications provider in connection with the adoption by him of telephone numbers;
@@ -42,7 +42,7 @@ summary: ''
 - (e) regulate the procedures to be followed, the system to be applied and the charges to be imposed for the purposes of, or in connection with, the adoption by a communications provider of telephone numbers allocated to that provider;
 - (f) regulate the procedures to be followed, the system to be applied and the charges to be imposed for the purposes of, or in connection with, the transfer of an allocation from one person to another.
 
-(2A)[^key-b936f2f6dba63ed9c5656a8f3611ba59] General conditions may also require a communications provider to whom telephone numbers have been allocated—
+(2A)[^c-b936f2f6dba63ed9c5656a8f3611ba59] General conditions may also require a communications provider to whom telephone numbers have been allocated—
 
 - (a) to provide OFCOM with any information that was not required to accompany the application for allocation of the numbers when it was made but which is now required to accompany such applications;
 - (b) to inform OFCOM of any changes to information that accompanied the application for allocation of the numbers or that has been provided in accordance with a condition set under paragraph (a);
@@ -86,10 +86,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e7f7002fe933c6c238e27affac56092d]: Commencement: S. 58 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-e7f7002fe933c6c238e27affac56092d]: Commencement: S. 58 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-83a507b340dd081d68cb4184267934da]: Commencement: S. 58 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-83a507b340dd081d68cb4184267934da]: Commencement: S. 58 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c47aacc39cbee5c4880859978c8ac14d]: Textual amendment: S. 58(1)(aa) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/32) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-c47aacc39cbee5c4880859978c8ac14d]: Textual amendment: S. 58(1)(aa) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/32) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-b936f2f6dba63ed9c5656a8f3611ba59]: Textual amendment: S. 58(2A) inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 84](https://www.legislation.gov.uk/ukpga/2017/30/section/84), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-b936f2f6dba63ed9c5656a8f3611ba59]: Textual amendment: S. 58(2A) inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 84](https://www.legislation.gov.uk/ukpga/2017/30/section/84), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Issue of summons to accused or warrant for his arrest[^key-2a46385a96d0af4be0457cbfb7dfa600]
+## 20. Issue of summons to accused or warrant for his arrest[^c-2a46385a96d0af4be0457cbfb7dfa600]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a46385a96d0af4be0457cbfb7dfa600]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/nisi/1981/1675/article/20) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(8)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/8) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-2a46385a96d0af4be0457cbfb7dfa600]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/nisi/1981/1675/article/20) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(8)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/8) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Third parties capable of giving notification[^key-c33e9874ad8fae6871415a3fbff6757b][^key-06820f60e7fdaaed940d0395a5304aab]
+## 22. Third parties capable of giving notification[^c-c33e9874ad8fae6871415a3fbff6757b][^c-06820f60e7fdaaed940d0395a5304aab]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c33e9874ad8fae6871415a3fbff6757b]: Commencement: S. 22 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-c33e9874ad8fae6871415a3fbff6757b]: Commencement: S. 22 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-06820f60e7fdaaed940d0395a5304aab]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/4/section/22) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-06820f60e7fdaaed940d0395a5304aab]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/4/section/22) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to prevent aircraft flying[^key-bdd7774650b10cb101b49378e4973f8a]
+## 8. Power to prevent aircraft flying[^c-bdd7774650b10cb101b49378e4973f8a]
 
 *Extent: E+W+S+N.I.*
 
 (1) If it appears to the Governor or an authorised person that any aircraft is intended or likely to be flown—
 
-- (a) in such circumstances that any provision of article 14, 22, 24, 40, 44, 84, 94, 100, 107, 111 , 167[^key-dc2cf4decfbe50668f73292e739b9d9c] or 178(2) would be contravened in relation to the flight;
-- (b) in such circumstances that the flight would be in contravention of any other provision of this Order or of any regulations made under it, and be a cause of danger to any person or property whether or not in the aircraft; [^key-46de29fdd19528ba5461b14ba5fdc939]...
-- (c) while in a condition unfit for the flight, whether or not the flight would otherwise be in contravention of any provision of this Order, or of any regulations made under it; or[^key-055f6314895ca5227e41bfd0c463ed90]
-- (d)[^key-81f745590c2aad979bcf43f654bfc195] in such circumstances that the operator of the aircraft has failed to comply with any of the specified requirements for the security of aircraft or any instruction for the security of aircraft given or published by the Governor under article 74(1)(c)
+- (a) in such circumstances that any provision of article 14, 22, 24, 40, 44, 84, 94, 100, 107, 111 , 167[^c-dc2cf4decfbe50668f73292e739b9d9c] or 178(2) would be contravened in relation to the flight;
+- (b) in such circumstances that the flight would be in contravention of any other provision of this Order or of any regulations made under it, and be a cause of danger to any person or property whether or not in the aircraft; [^c-46de29fdd19528ba5461b14ba5fdc939]...
+- (c) while in a condition unfit for the flight, whether or not the flight would otherwise be in contravention of any provision of this Order, or of any regulations made under it; or[^c-055f6314895ca5227e41bfd0c463ed90]
+- (d)[^c-81f745590c2aad979bcf43f654bfc195] in such circumstances that the operator of the aircraft has failed to comply with any of the specified requirements for the security of aircraft or any instruction for the security of aircraft given or published by the Governor under article 74(1)(c)
 
 the Governor or that authorised person may direct the operator or the pilot-in-command of the aircraft not to permit the aircraft to make the particular flight or any other flight of such description as may be specified in the direction, until the direction has been revoked by the Governor or by an authorised person.
 
@@ -37,12 +37,12 @@ the Governor or that authorised person may direct the operator or the pilot-in-c
 
 ## Annotations
 
-[^key-bdd7774650b10cb101b49378e4973f8a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/2870/article/8) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-bdd7774650b10cb101b49378e4973f8a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/2870/article/8) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-dc2cf4decfbe50668f73292e739b9d9c]: Textual amendment: Word in [art. 8(1)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/a) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/755/article/4/2)
+[^c-dc2cf4decfbe50668f73292e739b9d9c]: Textual amendment: Word in [art. 8(1)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/a) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/755/article/4/2)
 
-[^key-46de29fdd19528ba5461b14ba5fdc939]: Textual amendment: Word in [art. 8(1)(b)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/b) deleted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/2925/article/5/a)
+[^c-46de29fdd19528ba5461b14ba5fdc939]: Textual amendment: Word in [art. 8(1)(b)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/b) deleted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/2925/article/5/a)
 
-[^key-055f6314895ca5227e41bfd0c463ed90]: Textual amendment: Word in [art. 8(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/c) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/2925/article/5/b)
+[^c-055f6314895ca5227e41bfd0c463ed90]: Textual amendment: Word in [art. 8(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/c) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/2925/article/5/b)
 
-[^key-81f745590c2aad979bcf43f654bfc195]: Textual amendment: [Art. 8(1)(d)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/d) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2014/2925/article/5/c)
+[^c-81f745590c2aad979bcf43f654bfc195]: Textual amendment: [Art. 8(1)(d)](https://www.legislation.gov.uk/uksi/2013/2870/article/8/1/d) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2014/2925/article/5/c)

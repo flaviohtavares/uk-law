@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Members of the Court Martial[^key-a26315bf3b88456b55a40c9c90d222a2]
+## 76. Members of the Court Martial[^c-a26315bf3b88456b55a40c9c90d222a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 14 makes provision about members of the Court Martial and their deliber
 
 ## Annotations
 
-[^key-a26315bf3b88456b55a40c9c90d222a2]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2015/2/section/76) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/61)
+[^c-a26315bf3b88456b55a40c9c90d222a2]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2015/2/section/76) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/61)

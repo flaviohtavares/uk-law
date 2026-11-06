@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Amendment of the United Nations and European Union Financial Sanctions (Linking) Regulations 2017[^key-423e85e055fa3cfdae660a76bad943c7]
+## 82. Amendment of the United Nations and European Union Financial Sanctions (Linking) Regulations 2017[^c-423e85e055fa3cfdae660a76bad943c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In the Schedule to the United Nations and European Union Financial Sanctions (Li
 
 ## Annotations
 
-[^key-423e85e055fa3cfdae660a76bad943c7]: Commencement: Reg. 82 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-423e85e055fa3cfdae660a76bad943c7]: Commencement: Reg. 82 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
 [^c24171841]: Marginal citation: [S.I. 2017/478](https://www.legislation.gov.uk/uksi/2017/478), to which there are amendments not relevant to these Regulations.

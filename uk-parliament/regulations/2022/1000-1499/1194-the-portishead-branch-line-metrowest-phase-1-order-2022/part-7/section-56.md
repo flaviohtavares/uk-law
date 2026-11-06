@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Arbitration[^key-36547898ba85be01388cef6b84178747]
+## 56. Arbitration[^c-36547898ba85be01388cef6b84178747]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where otherwise expressly provided for in this Order and unless otherwise
 
 ## Annotations
 
-[^key-36547898ba85be01388cef6b84178747]: Commencement: Art. 56 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-36547898ba85be01388cef6b84178747]: Commencement: Art. 56 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

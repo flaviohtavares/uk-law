@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — REQUIREMENTS AS RESPECTS UK INSTITUTIONS[^key-1cd1a22cefe03369d691453e857d689d]
+## SCHEDULE 6 — REQUIREMENTS AS RESPECTS UK INSTITUTIONS[^c-1cd1a22cefe03369d691453e857d689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulation 22(6).
 
-### Requirements for carrying on activities etc.[^key-1cd1a22cefe03369d691453e857d689d]
+### Requirements for carrying on activities etc.[^c-1cd1a22cefe03369d691453e857d689d]
 
-**1.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Requirements for changing requisite details of branch[^key-1cd1a22cefe03369d691453e857d689d]
+### Requirements for changing requisite details of branch[^c-1cd1a22cefe03369d691453e857d689d]
 
-**5.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Cancellation of compliance with certain requirements[^key-1cd1a22cefe03369d691453e857d689d]
+### Cancellation of compliance with certain requirements[^c-1cd1a22cefe03369d691453e857d689d]
 
-**7.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appeals[^key-1cd1a22cefe03369d691453e857d689d]
+### Appeals[^c-1cd1a22cefe03369d691453e857d689d]
 
-**8.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1cd1a22cefe03369d691453e857d689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cd1a22cefe03369d691453e857d689d]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/a) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/12/1))
+[^c-1cd1a22cefe03369d691453e857d689d]: Textual amendment: Regulations revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/a) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/12/1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

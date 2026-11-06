@@ -30,7 +30,7 @@ summary: ''
 
 *Extent: E+W+S+E.W.*
 
-(2 (Extent: E.W.) (affected by repeal, see note))[^key-7fae88a9647c6b3eaefcaf64b22a6e01] Subsection (1) above does not, except in relation to work under section 24(1) (adaptations to dwellings in smoke control area), apply in relation to a private dwelling *(Extent: E.W.)* *(affected by repeal, see note)*[^key-7fae88a9647c6b3eaefcaf64b22a6e01]
+(2 (Extent: E.W.) (affected by repeal, see note))[^c-7fae88a9647c6b3eaefcaf64b22a6e01] Subsection (1) above does not, except in relation to work under section 24(1) (adaptations to dwellings in smoke control area), apply in relation to a private dwelling *(Extent: E.W.)* *(affected by repeal, see note)*[^c-7fae88a9647c6b3eaefcaf64b22a6e01]
 
 *Extent: E.W.*
 
@@ -60,7 +60,7 @@ then, subject to subsection (4), the justice may by warrant under his hand autho
 - (a) any reference to a justice of the peace shall be construed as including a reference to the sheriff; and
 - (b) in subsection (3) for “on sworn information in writing” there is substituted “ by evidence on oath ”.
 
-(7)[^key-d00eb5a93111dbc5b9c99dde7792facb] This section does not apply in relation to—
+(7)[^c-d00eb5a93111dbc5b9c99dde7792facb] This section does not apply in relation to—
 
 - (a) a function conferred on a local authority by Part 4, or
 - (b) a provision of an instrument made under that Part.
@@ -69,6 +69,6 @@ then, subject to subsection (4), the justice may by warrant under his hand autho
 
 [^c10491231]: Modification: S. 56 applied (with modifications) (1.10.1994) by [S.I. 1994/2249](https://www.legislation.gov.uk/uksi/1994/2249), [reg. 3(4)](https://www.legislation.gov.uk/uksi/1994/2249/regulation/3/4)
 
-[^key-7fae88a9647c6b3eaefcaf64b22a6e01]: Textual amendment: [S. 56(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/56/2) substituted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/8) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-7fae88a9647c6b3eaefcaf64b22a6e01]: Textual amendment: [S. 56(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/56/2) substituted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/8) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-d00eb5a93111dbc5b9c99dde7792facb]: Textual amendment: [S. 56(7)](https://www.legislation.gov.uk/ukpga/1993/11/section/56/7) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 56](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/56); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-d00eb5a93111dbc5b9c99dde7792facb]: Textual amendment: [S. 56(7)](https://www.legislation.gov.uk/ukpga/1993/11/section/56/7) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 56](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/56); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)

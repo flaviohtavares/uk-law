@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**36.**[^key-90073783fcbe1f839efd01b20b3c2a95] In section 3—
+**36.**[^c-90073783fcbe1f839efd01b20b3c2a95] In section 3—
 
 - (a) in subsection (1), for “a magistrates’ court” substitute “the family court”;
 - (b) in subsection (4)—
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90073783fcbe1f839efd01b20b3c2a95]: Commencement: Art. 36 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-90073783fcbe1f839efd01b20b3c2a95]: Commencement: Art. 36 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

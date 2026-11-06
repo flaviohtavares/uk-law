@@ -31,7 +31,7 @@ summary: ''
 
 COURT OF SESSION
 
-Act of Sederunt (Registration Appeal Court) 2009 (revoked)[^key-bc8a1762f5aaa0ddb0bac9076304776a]
+Act of Sederunt (Registration Appeal Court) 2009 (revoked)[^c-bc8a1762f5aaa0ddb0bac9076304776a]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 9th February 2009
 
-[^key-bc8a1762f5aaa0ddb0bac9076304776a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc8a1762f5aaa0ddb0bac9076304776a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bc8a1762f5aaa0ddb0bac9076304776a]
+## 1. Citation and commencement[^c-bc8a1762f5aaa0ddb0bac9076304776a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration Appeal Court[^key-bc8a1762f5aaa0ddb0bac9076304776a]
+## 2. Registration Appeal Court[^c-bc8a1762f5aaa0ddb0bac9076304776a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc8a1762f5aaa0ddb0bac9076304776a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc8a1762f5aaa0ddb0bac9076304776a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bc8a1762f5aaa0ddb0bac9076304776a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc8a1762f5aaa0ddb0bac9076304776a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc8a1762f5aaa0ddb0bac9076304776a]: Textual amendment: Instrument revoked (11.2.2010) by [Act of Sederunt (Registration Appeal Court) 2010 (S.S.I. 2010/7)](https://www.legislation.gov.uk/ssi/2010/7), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/7/section/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/7/section/2)
+[^c-bc8a1762f5aaa0ddb0bac9076304776a]: Textual amendment: Instrument revoked (11.2.2010) by [Act of Sederunt (Registration Appeal Court) 2010 (S.S.I. 2010/7)](https://www.legislation.gov.uk/ssi/2010/7), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/7/section/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/7/section/2)

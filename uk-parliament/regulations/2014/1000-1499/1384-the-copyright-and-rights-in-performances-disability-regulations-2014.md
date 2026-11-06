@@ -46,13 +46,13 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act, a draft of this ins
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8f6c9a8a425107af8e6226e4f4fe2a2b]
+## 1. Citation, commencement and interpretation[^c-8f6c9a8a425107af8e6226e4f4fe2a2b]
 
 (1) These Regulations may be cited as the Copyright and Rights in Performances (Disability) Regulations 2014 and come into force at 00.01 on 1st June 2014.
 
 (2) In these Regulations “the 1988 Act” means the Copyright, Designs and Patents Act 1988[^f00003].
 
-## 2. Amendments to Chapter 3 of Part 1 of the 1988 Act[^key-826493f726a01e89a5c44fda27fe329e]
+## 2. Amendments to Chapter 3 of Part 1 of the 1988 Act[^c-826493f726a01e89a5c44fda27fe329e]
 
 (1) Chapter 3 of Part 1 of the 1988 Act is amended as follows.
 
@@ -192,7 +192,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 .
 
-## 3. Amendments to Schedule 2 to the 1988 Act[^key-5d7b9d032fff8e817d121c0b76b4d5ae]
+## 3. Amendments to Schedule 2 to the 1988 Act[^c-5d7b9d032fff8e817d121c0b76b4d5ae]
 
 After paragraph 3 of Schedule 2 to the 1988 Act, insert—
 
@@ -291,7 +291,7 @@ After paragraph 3 of Schedule 2 to the 1988 Act, insert—
 
 .
 
-## 4. Consequential amendments etc[^key-1d30a12e31020885aca9d6403643bab6]
+## 4. Consequential amendments etc[^c-1d30a12e31020885aca9d6403643bab6]
 
 The Schedule (which contains amendments consequential on the amendments made by regulations 2 and 3, repeals, revocation and saving provisions) has effect.
 
@@ -307,7 +307,7 @@ Department for Business, Innovation and Skills
 
 Regulation 4
 
-### 1. Consequential amendments[^key-90bfaeca643df1d2795665712874fb91]
+### 1. Consequential amendments[^c-90bfaeca643df1d2795665712874fb91]
 
 In section 27(6) of the 1988 Act [^f00007](meaning of infringing copy)—
 
@@ -323,12 +323,12 @@ In section 27(6) of the 1988 Act [^f00007](meaning of infringing copy)—
   , and
 - (c) omit the entry relating to section 31C(2).
 
-**2.**[^key-ef5da297620521a12fcfffd776c86888] In section 143 of the 1988 Act[^f00008]—
+**2.**[^c-ef5da297620521a12fcfffd776c86888] In section 143 of the 1988 Act[^f00008]—
 
 - (a) in subsection (1), omit paragraph (d), and
 - (b) in subsection (3), omit “, 74”.
 
-**3.**[^key-d712e43f387f77a9f1e1d054182d49a4] In section 179 of the 1988 Act (index of defined expressions for the purposes of Part 1 of the 1988 Act)[^f00009]—
+**3.**[^c-d712e43f387f77a9f1e1d054182d49a4] In section 179 of the 1988 Act (index of defined expressions for the purposes of Part 1 of the 1988 Act)[^f00009]—
 
 - (a) for the entry in the table relating to “accessible copy”, substitute—
 
@@ -354,13 +354,13 @@ In section 27(6) of the 1988 Act [^f00007](meaning of infringing copy)—
   and
 - (c) omit the references to “approved body” and “visually impaired person”.
 
-**4.**[^key-1d21fe48b89dc8bc63fa4d22603fa76d] In section 197(5) of the 1988 Act (meaning of illicit recording)[^f00010] insert in the proper place in the list—
+**4.**[^c-1d21fe48b89dc8bc63fa4d22603fa76d] In section 197(5) of the 1988 Act (meaning of illicit recording)[^f00010] insert in the proper place in the list—
 
 > paragraph 3A(5) or (6) or 3B(10) (accessible copies of recordings made for disabled persons)
 
 .
 
-**5.**[^key-b6d100edd2644f57f40c30529b3cc274] In section 212 of the 1988 Act (index of defined expressions for the purposes of Part 2 of the 1988 Act)[^f00011] insert in alphabetical order in the table each of the following entries—
+**5.**[^c-b6d100edd2644f57f40c30529b3cc274] In section 212 of the 1988 Act (index of defined expressions for the purposes of Part 2 of the 1988 Act)[^f00011] insert in alphabetical order in the table each of the following entries—
 
 > |  |  |
 > | --- | --- |
@@ -372,9 +372,9 @@ In section 27(6) of the 1988 Act [^f00007](meaning of infringing copy)—
 
 .
 
-**6.**[^key-d6d578d0662a5b011545249fdb165ce5] In Schedule 2A to the 1988 Act (licensing of performers’ rights), in paragraph 16(1)[^f00012], omit “or 20” and “, provision of sub-titled copies of broadcast”.
+**6.**[^c-d6d578d0662a5b011545249fdb165ce5] In Schedule 2A to the 1988 Act (licensing of performers’ rights), in paragraph 16(1)[^f00012], omit “or 20” and “, provision of sub-titled copies of broadcast”.
 
-**7.**[^key-84f8263488727deaa4496689f4d096b8] (1) Schedule 5A to the 1988 Act (permitted acts to which section 296ZE applies)[^f00013] is amended as follows.
+**7.**[^c-84f8263488727deaa4496689f4d096b8] (1) Schedule 5A to the 1988 Act (permitted acts to which section 296ZE applies)[^f00013] is amended as follows.
 
 (2) In Part 1—
 
@@ -404,7 +404,7 @@ In section 27(6) of the 1988 Act [^f00007](meaning of infringing copy)—
   , and
 - (b) omit the entry relating to paragraph 20 of Schedule 2.
 
-### 8. Repeals and revocations[^key-1513f34b6b964908962e5c0938d8d9a7]
+### 8. Repeals and revocations[^c-1513f34b6b964908962e5c0938d8d9a7]
 
 The enactments listed in column 1 of the Table are repealed or revoked to the extent specified in column 2.
 
@@ -427,7 +427,7 @@ Table
 
 [^f00014][^f00015][^f00016][^f00017]
 
-### 9. Saving provisions[^key-a8e91c34206b39a5cb4637841df6ff04]
+### 9. Saving provisions[^c-a8e91c34206b39a5cb4637841df6ff04]
 
 Section 31F of the 1988 Act, as in force immediately before the commencement of these Regulations, continues to have effect for the purposes of regulation 26 of the Legal Deposit Libraries (Non-Print Works) Regulations 2013 (reader access to relevant material: visually impaired persons)[^f00018].
 
@@ -451,11 +451,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [S.I.1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-8f6c9a8a425107af8e6226e4f4fe2a2b]: Commencement: Reg. 1 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-8f6c9a8a425107af8e6226e4f4fe2a2b]: Commencement: Reg. 1 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-826493f726a01e89a5c44fda27fe329e]: Commencement: Reg. 2 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-826493f726a01e89a5c44fda27fe329e]: Commencement: Reg. 2 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00004]: Footnote: Section 31A was inserted into the 1988 Act by the Copyright (Visually Impaired Persons) Act [2002 (c.33)](https://www.legislation.gov.uk/ukpga/2002/33), section 1 as amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), Schedule 1, Part 2 paragraph 27.
 
@@ -463,39 +463,39 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: Section 31F was inserted into the 1988 Act by the Copyright (Visually Impaired Persons) Act [2002 (c.33)](https://www.legislation.gov.uk/ukpga/2002/33), section 6.
 
-[^key-5d7b9d032fff8e817d121c0b76b4d5ae]: Commencement: Reg. 3 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-5d7b9d032fff8e817d121c0b76b4d5ae]: Commencement: Reg. 3 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
-[^key-1d30a12e31020885aca9d6403643bab6]: Commencement: Reg. 4 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-1d30a12e31020885aca9d6403643bab6]: Commencement: Reg. 4 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
-[^key-90bfaeca643df1d2795665712874fb91]: Commencement: Sch. para. 1 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-90bfaeca643df1d2795665712874fb91]: Commencement: Sch. para. 1 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00007]: Footnote: Section 27(6) was amended by the Copyright (Visually Impaired Persons) Act [2002 (c.33)](https://www.legislation.gov.uk/ukpga/2002/33), section 7; there are other amendments but none are relevant.
 
-[^key-ef5da297620521a12fcfffd776c86888]: Commencement: Sch. para. 2 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-ef5da297620521a12fcfffd776c86888]: Commencement: Sch. para. 2 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00008]: Footnote: Section 143(1)(d) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), Schedule 2.
 
-[^key-d712e43f387f77a9f1e1d054182d49a4]: Commencement: Sch. para. 3 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-d712e43f387f77a9f1e1d054182d49a4]: Commencement: Sch. para. 3 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00009]: Footnote: Section 179 was amended by the Copyright (Visually Impaired Persons) Act [2002 (c.33)](https://www.legislation.gov.uk/ukpga/2002/33), section 7; there are other amendments but none are relevant.
 
-[^key-1d21fe48b89dc8bc63fa4d22603fa76d]: Commencement: Sch. para. 4 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-1d21fe48b89dc8bc63fa4d22603fa76d]: Commencement: Sch. para. 4 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00010]: Footnote: Section 197(5) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulations 20(4) and Schedule 2, and [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 8 of the Schedule.
 
-[^key-b6d100edd2644f57f40c30529b3cc274]: Commencement: Sch. para. 5 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-b6d100edd2644f57f40c30529b3cc274]: Commencement: Sch. para. 5 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00011]: Footnote: Section 212 was amended by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), regulations 9(6) and 11(4), [S.I.1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulations 20(4) and 21(6), [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), Schedule 1, Part 1, paragraph 15(6) and Schedule 2, [S.I.2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 7 of the Schedule and [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), Schedule 2, paragraph 13.
 
-[^key-d6d578d0662a5b011545249fdb165ce5]: Commencement: Sch. para. 6 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-d6d578d0662a5b011545249fdb165ce5]: Commencement: Sch. para. 6 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00012]: Footnote: Schedule 2A was inserted into the Act by the Copyright and Related Rights Regulations 1996 ([S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967)), regs 4 and 22(2) and paragraph 16(1) was amended by the [Copyright and Related Rights Regulations 2003 (2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(1), Sch 1, Part 1, paras 1 and 17.
 
-[^key-84f8263488727deaa4496689f4d096b8]: Commencement: Sch. para. 7 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-84f8263488727deaa4496689f4d096b8]: Commencement: Sch. para. 7 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00013]: Footnote: Schedule 5A was inserted into the Act by the Copyright and Related Rights Regulations 2003 ([S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498)), regulations 3 and 24(2).
 
-[^key-1513f34b6b964908962e5c0938d8d9a7]: Commencement: Sch. para. 8 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-1513f34b6b964908962e5c0938d8d9a7]: Commencement: Sch. para. 8 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00014]: Footnote: Sections 31C to 31E were inserted into the 1988 Act by sections 3 to 5 of the Copyright (Visually Impaired Persons) Act [2002 (c.33)](https://www.legislation.gov.uk/ukpga/2002/33).
 
@@ -505,6 +505,6 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00017]: Footnote: [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18).
 
-[^key-a8e91c34206b39a5cb4637841df6ff04]: Commencement: Sch. para. 9 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
+[^c-a8e91c34206b39a5cb4637841df6ff04]: Commencement: Sch. para. 9 in force at 1.6.2014 at 00.01, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2013/777](https://www.legislation.gov.uk/uksi/2013/777).

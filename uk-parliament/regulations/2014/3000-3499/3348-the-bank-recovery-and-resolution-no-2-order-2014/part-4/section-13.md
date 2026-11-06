@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The appropriate regulator must assess whether the recovery plan meets the requirements of Schedule A1[^key-3df26dd6c8569319b52fe19e7a4d9e71] and whether the arrangements proposed in the plan—
+(1) The appropriate regulator must assess whether the recovery plan meets the requirements of Schedule A1[^c-3df26dd6c8569319b52fe19e7a4d9e71] and whether the arrangements proposed in the plan—
 
 - (a) would, if implemented, be reasonably likely to maintain or restore the viability and financial position of the institution; and
 - (b) would be reasonably likely to be implemented quickly and effectively in situations of financial stress and, as far as possible, without any material adverse impact on the financial system of the United Kingdom.
 
-(1A)[^key-adc74a2a39bc59a93daace3a20f6bfcc] The PRA and the FCA may each make technical standards relating to the criteria referred to in paragraph (1) for a recovery plan submitted by an institution that it has authorised.
+(1A)[^c-adc74a2a39bc59a93daace3a20f6bfcc] The PRA and the FCA may each make technical standards relating to the criteria referred to in paragraph (1) for a recovery plan submitted by an institution that it has authorised.
 
 (2) In assessing the recovery plan against these criteria, the appropriate regulator must consider—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3df26dd6c8569319b52fe19e7a4d9e71]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2014/3348/article/13/1) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3df26dd6c8569319b52fe19e7a4d9e71]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2014/3348/article/13/1) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-adc74a2a39bc59a93daace3a20f6bfcc]: Textual amendment: [Art. 13(1A)](https://www.legislation.gov.uk/uksi/2014/3348/article/13/1A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adc74a2a39bc59a93daace3a20f6bfcc]: Textual amendment: [Art. 13(1A)](https://www.legislation.gov.uk/uksi/2014/3348/article/13/1A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

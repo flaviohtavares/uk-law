@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Meaning of “associated”: supplementary[^key-d77d479a46258b7251b1f770def21b75]
+## 67A. Meaning of “associated”: supplementary[^c-d77d479a46258b7251b1f770def21b75]
 
 *Extent: E+W+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d77d479a46258b7251b1f770def21b75]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2008/32/section/67A) inserted (31.3.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2022/15/section/40/2), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/d)
+[^c-d77d479a46258b7251b1f770def21b75]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2008/32/section/67A) inserted (31.3.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2022/15/section/40/2), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/d)

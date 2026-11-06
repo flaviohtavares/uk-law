@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271E. Profits of a property business: application of trading income rules[^key-f5dc6ed5acee1034c604d2fd1026903e]
+## 271E. Profits of a property business: application of trading income rules[^c-f5dc6ed5acee1034c604d2fd1026903e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5dc6ed5acee1034c604d2fd1026903e]: Textual amendment: S. 271E inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/15)
+[^c-f5dc6ed5acee1034c604d2fd1026903e]: Textual amendment: S. 271E inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/15)

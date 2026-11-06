@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Appointment of insolvency practitioner by the court.[^key-b8fa83772a8129811898f35f265b6308]
+## 273. Appointment of insolvency practitioner by the court.[^c-b8fa83772a8129811898f35f265b6308]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8fa83772a8129811898f35f265b6308]: Textual amendment: Ss. 272-274A and crossheading repealed (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/9/1); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3), [4](https://www.legislation.gov.uk/uksi/2016/191/article/4))
+[^c-b8fa83772a8129811898f35f265b6308]: Textual amendment: Ss. 272-274A and crossheading repealed (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/9/1); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3), [4](https://www.legislation.gov.uk/uksi/2016/191/article/4))

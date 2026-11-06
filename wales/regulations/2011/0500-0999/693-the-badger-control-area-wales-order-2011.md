@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Badger (Control Area) (Wales) Order 2011 (revoked)[^key-54abe628b3b61b1fbd62f68e9614ec75]
+The Badger (Control Area) (Wales) Order 2011 (revoked)[^c-54abe628b3b61b1fbd62f68e9614ec75]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 31 March 2011
 
-[^key-54abe628b3b61b1fbd62f68e9614ec75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54abe628b3b61b1fbd62f68e9614ec75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-54abe628b3b61b1fbd62f68e9614ec75]
+## 1. Title, commencement and interpretation[^c-54abe628b3b61b1fbd62f68e9614ec75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of Order[^key-54abe628b3b61b1fbd62f68e9614ec75]
+## 2. Application of Order[^c-54abe628b3b61b1fbd62f68e9614ec75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Destruction of badgers[^key-54abe628b3b61b1fbd62f68e9614ec75]
+## 3. Destruction of badgers[^c-54abe628b3b61b1fbd62f68e9614ec75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibitions[^key-54abe628b3b61b1fbd62f68e9614ec75]
+## 4. Prohibitions[^c-54abe628b3b61b1fbd62f68e9614ec75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-54abe628b3b61b1fbd62f68e9614ec75]
+## 5. Revocation[^c-54abe628b3b61b1fbd62f68e9614ec75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54abe628b3b61b1fbd62f68e9614ec75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54abe628b3b61b1fbd62f68e9614ec75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-54abe628b3b61b1fbd62f68e9614ec75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54abe628b3b61b1fbd62f68e9614ec75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54abe628b3b61b1fbd62f68e9614ec75]: Textual amendment: Order revoked (15.6.2012) by [The Badger (Control Area) (Wales) (Revocation) Order 2012 (S.I. 2012/1387)](https://www.legislation.gov.uk/uksi/2012/1387), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1387/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/1387/article/2)
+[^c-54abe628b3b61b1fbd62f68e9614ec75]: Textual amendment: Order revoked (15.6.2012) by [The Badger (Control Area) (Wales) (Revocation) Order 2012 (S.I. 2012/1387)](https://www.legislation.gov.uk/uksi/2012/1387), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1387/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/1387/article/2)

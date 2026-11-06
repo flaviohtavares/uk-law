@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Optional remuneration arrangements[^key-e2f701bca2126764886e1ec357bf868a]
+## 69A. Optional remuneration arrangements[^c-e2f701bca2126764886e1ec357bf868a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f701bca2126764886e1ec357bf868a]: Textual amendment: [Ss. 69A, 69B](https://www.legislation.gov.uk/ukpga/2003/1/section/69A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/1)
+[^c-e2f701bca2126764886e1ec357bf868a]: Textual amendment: [Ss. 69A, 69B](https://www.legislation.gov.uk/ukpga/2003/1/section/69A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Other requirements relating to instruments of government[^key-b1b3d3d6e9b0377fd3df2e9f79d7c5c4]
+## 46. Other requirements relating to instruments of government[^c-b1b3d3d6e9b0377fd3df2e9f79d7c5c4]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1b3d3d6e9b0377fd3df2e9f79d7c5c4]: Commencement: Reg. 46 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-b1b3d3d6e9b0377fd3df2e9f79d7c5c4]: Commencement: Reg. 46 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

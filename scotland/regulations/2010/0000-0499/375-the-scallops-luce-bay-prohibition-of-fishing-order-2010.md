@@ -34,7 +34,7 @@ Sea Fisheries
 
 Conservation Of Sea Fish
 
-The Scallops (Luce Bay) (Prohibition of Fishing) Order 2010 (revoked)[^key-3453d87b8629e1f177e3889f68681d9b]
+The Scallops (Luce Bay) (Prohibition of Fishing) Order 2010 (revoked)[^c-3453d87b8629e1f177e3889f68681d9b]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 1st November 2010
 
-[^key-3453d87b8629e1f177e3889f68681d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3453d87b8629e1f177e3889f68681d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, cessation, effect and extent[^key-3453d87b8629e1f177e3889f68681d9b]
+## 1. Citation, commencement, cessation, effect and extent[^c-3453d87b8629e1f177e3889f68681d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3453d87b8629e1f177e3889f68681d9b]
+## 2. Interpretation[^c-3453d87b8629e1f177e3889f68681d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition[^key-3453d87b8629e1f177e3889f68681d9b]
+## 3. Prohibition[^c-3453d87b8629e1f177e3889f68681d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-3453d87b8629e1f177e3889f68681d9b]
+## 4. Enforcement[^c-3453d87b8629e1f177e3889f68681d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3453d87b8629e1f177e3889f68681d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3453d87b8629e1f177e3889f68681d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Area to which the Order applies[^key-3453d87b8629e1f177e3889f68681d9b]
+## SCHEDULE — Area to which the Order applies[^c-3453d87b8629e1f177e3889f68681d9b]
 
 Article 2
 
@@ -80,8 +80,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-3453d87b8629e1f177e3889f68681d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3453d87b8629e1f177e3889f68681d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3453d87b8629e1f177e3889f68681d9b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/375) ceases to have effect (8.12.2010) by virtue of [The Scallops (Luce Bay) (Prohibition of Fishing) Order 2010 (S.S.I. 2010/375)](https://www.legislation.gov.uk/ssi/2010/375), [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/375/article/1/2) (as amended by [S.S.I. 2010/429](https://www.legislation.gov.uk/ssi/2010/429), [arts. 1](https://www.legislation.gov.uk/ssi/2010/429/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2010/429/article/2/2/a))
+[^c-3453d87b8629e1f177e3889f68681d9b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/375) ceases to have effect (8.12.2010) by virtue of [The Scallops (Luce Bay) (Prohibition of Fishing) Order 2010 (S.S.I. 2010/375)](https://www.legislation.gov.uk/ssi/2010/375), [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/375/article/1/2) (as amended by [S.S.I. 2010/429](https://www.legislation.gov.uk/ssi/2010/429), [arts. 1](https://www.legislation.gov.uk/ssi/2010/429/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2010/429/article/2/2/a))

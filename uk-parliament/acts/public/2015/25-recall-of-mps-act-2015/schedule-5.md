@@ -24,7 +24,7 @@ Section 16
 
 ### Recall petition returns
 
-**1.**[^c22525471][^key-e2741af34c68ae53e937fe64af3af841] (1) The responsible person in relation to an accredited campaigner must make a return, referred to in this Schedule as a “**recall petition return**”.
+**1.**[^c22525471][^c-e2741af34c68ae53e937fe64af3af841] (1) The responsible person in relation to an accredited campaigner must make a return, referred to in this Schedule as a “**recall petition return**”.
 
 (2) The recall petition return must specify the recall petition to which it relates and—
 
@@ -53,7 +53,7 @@ Section 16
 
 ### Statements and accompanying documents relating to petition expenses
 
-**2.**[^key-f0899409ba6103183d1de7eaa4553347] (1) The statements required by paragraph 1(2)(a) to be contained in the recall petition return are—
+**2.**[^c-f0899409ba6103183d1de7eaa4553347] (1) The statements required by paragraph 1(2)(a) to be contained in the recall petition return are—
 
 - (a) a statement of all payments made in respect of petition expenses incurred by or on behalf of the accredited campaigner during the recall petition period, or a statement that there were no such payments,
 - (b) a statement of all unpaid claims in respect of which the responsible person is aware that an application has been made, or is about to be made, to a court under paragraph 11 of Schedule 3 (application for leave to pay out of time), or a statement that the responsible person is not aware of any such claims, and
@@ -77,7 +77,7 @@ Section 16
 
 ### Statement and accompanying documents relating to relevant donations accepted
 
-**3.**[^c22525481][^key-3c27cef4213e445deb371e38a14bd88e] (1) The statement required by paragraph 1(2)(b)(i) to be contained in the recall petition return is—
+**3.**[^c22525481][^c-3c27cef4213e445deb371e38a14bd88e] (1) The statement required by paragraph 1(2)(b)(i) to be contained in the recall petition return is—
 
 - (a) a statement recording, in relation to each relevant donation accepted by the accredited campaigner—
   - (i) the amount of the donation or, where the donation is not of money, the nature of the donation and its value (as determined in accordance with paragraph 5 of Schedule 4),
@@ -94,7 +94,7 @@ Section 16
 
 ### Statement relating to relevant donations received from impermissible or unidentifiable donors
 
-**4.**[^c22525491][^key-336a304fe8aaed52083ab436c19ef98f] (1) The statement required by paragraph 1(2)(b)(iii) to be contained in the recall petition return is a statement—
+**4.**[^c22525491][^c-336a304fe8aaed52083ab436c19ef98f] (1) The statement required by paragraph 1(2)(b)(iii) to be contained in the recall petition return is a statement—
 
 - (a) recording the appropriate details in relation to each relevant donation that the accredited campaigner received but was prohibited from accepting by virtue of paragraph 9(a) of Schedule 4 (impermissible donor), or recording that no relevant donations of that kind were received, and
 - (b) recording the appropriate details in relation to each relevant donation that the accredited campaigner received but was prohibited from accepting by virtue of paragraph 9(b) of that Schedule (unidentifiable donor), or recording that no relevant donations of that kind were received.
@@ -123,7 +123,7 @@ Section 16
 
 ### Declaration of responsible person as to return
 
-**5.**[^key-f7915f68f5b0e12d2464fae52bbb3c30] (1) The responsible person must make the following declaration—
+**5.**[^c-f7915f68f5b0e12d2464fae52bbb3c30] (1) The responsible person must make the following declaration—
 
 - (a) that the responsible person has examined the recall petition return, and
 - (b) that to the best of the responsible person's knowledge and belief—
@@ -144,7 +144,7 @@ Section 16
 
 ### Delivery of return etc to petition officer and supplementary returns
 
-**6.**[^key-ff12b68a63d7ffaa90e643e0b1ce2790] (1) The responsible person must, within 30 days of the end of the recall petition period, deliver to the petition officer—
+**6.**[^c-ff12b68a63d7ffaa90e643e0b1ce2790] (1) The responsible person must, within 30 days of the end of the recall petition period, deliver to the petition officer—
 
 - (a) the recall petition return, and
 - (b) all documents required by this Schedule to accompany the return.
@@ -158,7 +158,7 @@ Section 16
 
 ### Offences relating to return
 
-**7.**[^key-cefbe980e9ec6ba6e73e47c326a7b8d3] (1) The responsible person commits an offence if, without reasonable excuse, he or she—
+**7.**[^c-cefbe980e9ec6ba6e73e47c326a7b8d3] (1) The responsible person commits an offence if, without reasonable excuse, he or she—
 
 - (a) fails to deliver a recall petition return in accordance with paragraph 6(1)(a),
 - (b) delivers a recall petition return to the petition officer that does not contain a statement required by paragraph 1(2)(a) or (b),
@@ -181,7 +181,7 @@ Section 16
 
 ### Onward delivery of returns to Electoral Commission
 
-**8.**[^key-f2df0dfa2a2d4aa46280f84aad8e99e6] (1) The petition officer must deliver to the Electoral Commission—
+**8.**[^c-f2df0dfa2a2d4aa46280f84aad8e99e6] (1) The petition officer must deliver to the Electoral Commission—
 
 - (a) a copy of a recall petition return received by the officer;
 - (b) a copy of a declaration, or other document, received by the officer accompanying a recall petition return;
@@ -192,7 +192,7 @@ Section 16
 
 ### Inspection of returns and accompanying documents
 
-**9.**[^c22525501][^key-a12cab14e7bd8b633525e5153adbde2c] (1) The petition officer must—
+**9.**[^c22525501][^c-a12cab14e7bd8b633525e5153adbde2c] (1) The petition officer must—
 
 - (a) as soon as reasonably practicable after receiving—
   - (i) a recall petition return,
@@ -225,7 +225,7 @@ Section 16
 
 ### Application of certain provisions of Schedule 3
 
-**10.**[^key-73b41c8f22137c266369f612dfc0eada] The following provisions of Schedule 3 (regulation of expenditure) apply for the purposes of this Schedule as they apply for the purposes of Part 2 of that Schedule—
+**10.**[^c-73b41c8f22137c266369f612dfc0eada] The following provisions of Schedule 3 (regulation of expenditure) apply for the purposes of this Schedule as they apply for the purposes of Part 2 of that Schedule—
 
 - (a) paragraph 4 (expenses incurred by persons acting in concert);
 - (b) paragraph 5 (expenses incurred before the recall petition period);
@@ -236,28 +236,28 @@ Section 16
 
 [^c22525471]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/1) partly in force; [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/1) in force at Royal Assent for specified purposes, see [s. 24(2)(f)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/f)
 
-[^key-e2741af34c68ae53e937fe64af3af841]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/1) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e2741af34c68ae53e937fe64af3af841]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/1) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-f0899409ba6103183d1de7eaa4553347]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-f0899409ba6103183d1de7eaa4553347]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525481]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/3) partly in force; [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/3) in force at Royal Assent for specified purposes, see [s. 24(2)(f)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/f)
 
-[^key-3c27cef4213e445deb371e38a14bd88e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/3) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-3c27cef4213e445deb371e38a14bd88e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/3) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525491]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/4) partly in force; [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/4) in force at Royal Assent for specified purposes, see [s. 24(2)(f)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/f)
 
-[^key-336a304fe8aaed52083ab436c19ef98f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/4) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-336a304fe8aaed52083ab436c19ef98f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/4) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-f7915f68f5b0e12d2464fae52bbb3c30]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-f7915f68f5b0e12d2464fae52bbb3c30]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-ff12b68a63d7ffaa90e643e0b1ce2790]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ff12b68a63d7ffaa90e643e0b1ce2790]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-cefbe980e9ec6ba6e73e47c326a7b8d3]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-cefbe980e9ec6ba6e73e47c326a7b8d3]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-f2df0dfa2a2d4aa46280f84aad8e99e6]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/8) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-f2df0dfa2a2d4aa46280f84aad8e99e6]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/8) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525501]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/9) partly in force; [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/9) in force at Royal Assent for specified purposes, see [s. 24(2)(f)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/f)
 
-[^key-a12cab14e7bd8b633525e5153adbde2c]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/9) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-a12cab14e7bd8b633525e5153adbde2c]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/9) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-73b41c8f22137c266369f612dfc0eada]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/10) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-73b41c8f22137c266369f612dfc0eada]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/25/schedule/5/paragraph/10) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

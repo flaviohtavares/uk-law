@@ -37,7 +37,7 @@ of 24 November 2015
 
 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code
 
-[^key-b2bd03b95d529c65b92cd18e4300ad77][^key-a57495befc01acb02de47ecd8cf6001a][^key-658a6cb3335f590e9debc1694f54800a]
+[^c-b2bd03b95d529c65b92cd18e4300ad77][^c-a57495befc01acb02de47ecd8cf6001a][^c-658a6cb3335f590e9debc1694f54800a]
 
 THE EUROPEAN COMMISSION,
 
@@ -1248,7 +1248,7 @@ Subsection 7
 
 *Extent: E+W+S+N.I.*
 
-[^key-780e10b903a6f128aa3e45c6014e8ef9]...
+[^c-780e10b903a6f128aa3e45c6014e8ef9]...
 
 *Extent: E+W+S+N.I.*
 
@@ -2084,7 +2084,7 @@ Other means of identification
 
 ANNEX B
 
-[^key-c4f1ceaaa00a7473e4b0c1d519fce7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4f1ceaaa00a7473e4b0c1d519fce7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force (ended 2021-08-01).**
 
@@ -2199,13 +2199,13 @@ The following codes shall be used:
 
 - Natural person
 - Legal person
-- Association of persons which is not a legal person but which is recognised under [^key-814edc2366a17d8ec4780cd8c3b09e97]... national law as having the capacity to perform legal acts.
+- Association of persons which is not a legal person but which is recognised under [^c-814edc2366a17d8ec4780cd8c3b09e97]... national law as having the capacity to perform legal acts.
 
 **13**
 
 **Principal economic activity**
 
-Principal economic activity code at 4 digit level in accordance with the Statistical Classification of Economic Activities in the European Community (NACE; Regulation (EC) No 1893/2006) as listed in the business register of the United Kingdom[^key-8f6e1c255393edc812c7f5a4f019ca3a].
+Principal economic activity code at 4 digit level in accordance with the Statistical Classification of Economic Activities in the European Community (NACE; Regulation (EC) No 1893/2006) as listed in the business register of the United Kingdom[^c-8f6e1c255393edc812c7f5a4f019ca3a].
 
 ANNEX 12-02
 
@@ -2217,7 +2217,7 @@ ANNEX 12-03
 
 **TAG TO BE AFFIXED ON HOLD BAGGAGE CHECKED IN A UNION AIRPORT (Article 44)**
 
-[^key-f94e7b57ff08724c69207f0f1b0403fc].................................................................
+[^c-f94e7b57ff08724c69207f0f1b0403fc].................................................................
 
 ANNEX 21-01
 
@@ -4115,11 +4115,11 @@ No erasures or alterations shall be made. Amendments shall be made by striking o
 
 ## Annotations
 
-[^key-b2bd03b95d529c65b92cd18e4300ad77]: Modification: "EU Customs Code" (which, by reg. 2 of the modifying instrument, includes this Regulation) modified (31.12.2020) by The Customs Miscellaneous Non-fiscal [Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1624/regulation/4)
+[^c-b2bd03b95d529c65b92cd18e4300ad77]: Modification: "EU Customs Code" (which, by reg. 2 of the modifying instrument, includes this Regulation) modified (31.12.2020) by The Customs Miscellaneous Non-fiscal [Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1624/regulation/4)
 
-[^key-a57495befc01acb02de47ecd8cf6001a]: Modification: "EU Customs Code" (which, by reg. 2 of the modifying instrument, includes this Regulation) modified (31.12.2020) by The Customs Miscellaneous Non-fiscal [Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1624/regulation/3)
+[^c-a57495befc01acb02de47ecd8cf6001a]: Modification: "EU Customs Code" (which, by reg. 2 of the modifying instrument, includes this Regulation) modified (31.12.2020) by The Customs Miscellaneous Non-fiscal [Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1624/regulation/3)
 
-[^key-658a6cb3335f590e9debc1694f54800a]: Modification: Regulation applied in part (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133K(3)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133K/3), [133M(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133M/2) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-658a6cb3335f590e9debc1694f54800a]: Modification: Regulation applied in part (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133K(3)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133K/3), [133M(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133M/2) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^f00001]: Footnote: [OJ L 269, 10.10.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.269.01.0001.01.ENG).
 
@@ -4131,7 +4131,7 @@ No erasures or alterations shall be made. Amendments shall be made by striking o
 
 [^c000010]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2020/893 of 29 June 2020 amending Implementing Regulation (EU) 2015/2447 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code](https://www.legislation.gov.uk/eur/2020/893).
 
-[^key-780e10b903a6f128aa3e45c6014e8ef9]: Textual amendment: Words after Art. 350 omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-780e10b903a6f128aa3e45c6014e8ef9]: Textual amendment: Words after Art. 350 omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00029]: Footnote: Commission Regulation (EU) No 1106/2012 of 27 November 2012 implementing Regulation (EC) No 471/2009 of the European Parliament and of the Council on Community statistics relating to external trade with non-member countries, as regards the update of the nomenclature of countries and territories Text with EEA relevance ([OJ L 328, 28.11.2012, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.328.01.0007.01.ENG)).
 
@@ -4151,7 +4151,7 @@ No erasures or alterations shall be made. Amendments shall be made by striking o
 
 [^f00034]: Footnote: Council Regulation (EC) No 150/2003 of 21 January 2003 suspending import duties on certain weapons and military equipment ([OJ L 25, 30.1.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.025.01.0001.01.ENG)).
 
-[^key-c4f1ceaaa00a7473e4b0c1d519fce7f1]: Textual amendment: [Annex B](https://www.legislation.gov.uk/eur/2015/2447/annex/B) omitted (30.1.2025 with effect in respect of goods that are brought into Great Britain on or after 31.1.2025) by virtue of [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/20/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
+[^c-c4f1ceaaa00a7473e4b0c1d519fce7f1]: Textual amendment: [Annex B](https://www.legislation.gov.uk/eur/2015/2447/annex/B) omitted (30.1.2025 with effect in respect of goods that are brought into Great Britain on or after 31.1.2025) by virtue of [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/20/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
 
 [^M_F_492079d7-995b-4f91-a430-9188c9e8dea2]: Textual amendment: Words in Annex 12-1 Title 1 revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/5/a) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -4163,11 +4163,11 @@ No erasures or alterations shall be made. Amendments shall be made by striking o
 
 [^M_F_90148606-9510-473c-cc7d-371a8854a89a]: Textual amendment: Words in Annex 12-1 Title II omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/5/b/ii) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-814edc2366a17d8ec4780cd8c3b09e97]: Textual amendment: Words in Annex 12-1 Title II omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/5/c) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-814edc2366a17d8ec4780cd8c3b09e97]: Textual amendment: Words in Annex 12-1 Title II omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/5/c) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f6e1c255393edc812c7f5a4f019ca3a]: Textual amendment: Words in Annex 12-1 Title II substituted (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/5/d) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f6e1c255393edc812c7f5a4f019ca3a]: Textual amendment: Words in Annex 12-1 Title II substituted (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/5/d) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f94e7b57ff08724c69207f0f1b0403fc]: Textual amendment: Annex 12-3 revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f94e7b57ff08724c69207f0f1b0403fc]: Textual amendment: Annex 12-3 revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000004]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2019/1394 of 10 September 2019 amending and correcting Implementing Regulation (EU) 2015/2447 as regards certain rules on surveillance for release for free circulation and exit from the customs territory of the Union](https://www.legislation.gov.uk/eur/2019/1394).
 

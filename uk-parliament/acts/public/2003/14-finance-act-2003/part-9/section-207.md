@@ -58,7 +58,7 @@ summary: ''
 > an election under—
 >
 > - (a) section 257BA of the principal Act (election as to transfer of married couple’s allowance), or
-> - (b)[^key-4988c038d084fdd11ddf07ae3d197811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b)[^c-4988c038d084fdd11ddf07ae3d197811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (c) section 35(5) of the Taxation of Chargeable Gains Act 1992 (election for assets to be re-based to 1982).
 
 .
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4988c038d084fdd11ddf07ae3d197811]: Textual amendment: Words in [s. 207(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/207/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-4988c038d084fdd11ddf07ae3d197811]: Textual amendment: Words in [s. 207(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/207/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Determination of suitability required for new officer[^key-54df509a724f70779bf2623bfd5b2a07][^key-581624fdb8970f377eb03294cb01de02]
+## 29. Determination of suitability required for new officer[^c-54df509a724f70779bf2623bfd5b2a07][^c-581624fdb8970f377eb03294cb01de02]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ This is subject to subsection (4)(b).
 
 ## Annotations
 
-[^key-54df509a724f70779bf2623bfd5b2a07]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-54df509a724f70779bf2623bfd5b2a07]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-581624fdb8970f377eb03294cb01de02]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/21/section/29) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/iii)
+[^c-581624fdb8970f377eb03294cb01de02]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/21/section/29) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/iii)

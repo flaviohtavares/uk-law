@@ -24,9 +24,9 @@ summary: ''
 
 (2) Where the effect of any of the terms referred to in Article 62(2) on persons of the same sex differs according to their family, marital or civil partnership status[^c17250961], the effect of the term is to be compared for the purposes of Article 62 with its effect on persons of the other sex who have the same status.
 
-(3) An equal treatment rule has effect subject to paragraphs 5 , 5D[^key-5fecfcf5826214d8f716d6c8f2345eb0] and 6 of Schedule 5 to the Social Security (Northern Ireland) Order 1989[^c17250981] (employment-related benefit schemes: maternity and family leave provisions).
+(3) An equal treatment rule has effect subject to paragraphs 5 , 5D[^c-5fecfcf5826214d8f716d6c8f2345eb0] and 6 of Schedule 5 to the Social Security (Northern Ireland) Order 1989[^c17250981] (employment-related benefit schemes: maternity and family leave provisions).
 
-(4) Article 62 shall be construed as one with sections 1 and 1B[^key-2c9d1a281af62d06b0fbeb3bdf37ef74] of the Equal Pay Act (Northern Ireland) 1970[^c17250991] (requirement of equal treatment for men and women in the same employment); and sections 2 and 2A of that Act (disputes and enforcement) shall have effect for the purposes of Article 62 as if—
+(4) Article 62 shall be construed as one with sections 1 and 1B[^c-2c9d1a281af62d06b0fbeb3bdf37ef74] of the Equal Pay Act (Northern Ireland) 1970[^c17250991] (requirement of equal treatment for men and women in the same employment); and sections 2 and 2A of that Act (disputes and enforcement) shall have effect for the purposes of Article 62 as if—
 
 - (a) references to an equality clause were to an equal treatment rule,
 - (b) references to employers and employees were to the trustees or managers of the scheme (on the one hand) and the members, or prospective members, of the scheme (on the other),
@@ -45,11 +45,11 @@ summary: ''
 
 [^c17250961]: Textual amendment: SR 2005/434
 
-[^key-5fecfcf5826214d8f716d6c8f2345eb0]: Textual amendment: Word in [art. 63(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/63/3) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5), [Sch. para. 14](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/14); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [art. 3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-5fecfcf5826214d8f716d6c8f2345eb0]: Textual amendment: Word in [art. 63(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/63/3) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5), [Sch. para. 14](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/14); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [art. 3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
 [^c17250981]: Textual amendment: [1989 NI 13](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-2c9d1a281af62d06b0fbeb3bdf37ef74]: Textual amendment: Words in [art. 63(4)](https://www.legislation.gov.uk/nisi/1995/3213/article/63/4) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/3/3)
+[^c-2c9d1a281af62d06b0fbeb3bdf37ef74]: Textual amendment: Words in [art. 63(4)](https://www.legislation.gov.uk/nisi/1995/3213/article/63/4) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/3/3)
 
 [^c17250991]: Textual amendment: [1970 c. 32 (NI)](https://www.legislation.gov.uk/apni/1970/32)
 

@@ -50,7 +50,7 @@ An Act to establish a Theatres Trust for the better protection of theatres; and 
 - (a) to acquire by purchase, gift or bequest and hold any theatre or any land required for the benefit of any theatre;
 - (b) to contribute towards the acquisition of any theatre or any such land;
 - (c) to maintain or assist in the maintenance of any theatre;
-- (d) subject to the provisions of sections 117 to 121 and 124 of the Charities Act 2011[^key-6f82e361857fd90876c78b7841839e01], from time to time to sell, mortgage, charge, let, surrender, exchange or otherwise dispose of any land or any personal estate or property (including moneys secured on mortgage of or charged upon any land) vested in or acquired by the trustees or any part thereof or any easements, rights or privileges to be exercised or enjoyed in, over, upon or under the same or any part thereof, and to do and execute all such acts, deeds, matters and things as may be necessary for affectuating and completing any such sale, mortgage, charge, letting, surrender, exchange or disposition;
+- (d) subject to the provisions of sections 117 to 121 and 124 of the Charities Act 2011[^c-6f82e361857fd90876c78b7841839e01], from time to time to sell, mortgage, charge, let, surrender, exchange or otherwise dispose of any land or any personal estate or property (including moneys secured on mortgage of or charged upon any land) vested in or acquired by the trustees or any part thereof or any easements, rights or privileges to be exercised or enjoyed in, over, upon or under the same or any part thereof, and to do and execute all such acts, deeds, matters and things as may be necessary for affectuating and completing any such sale, mortgage, charge, letting, surrender, exchange or disposition;
 - (e) to print, publish and sell literature, pictures and photographs and other things relating to the trust property;
 - (f) to give financial and other assistance to any body whose objects are charitable and similar to those of the Trust and to give such assistance in connection with any function or scheme for a purpose which is both charitable and similar to an object of the Trust;
 - (g) to co-operate with other persons engaged in activities similar to those of the objects of the Trust and in connection therewith to provide for the interchange of staff;
@@ -73,7 +73,7 @@ The trustees shall have power—
 - (d) as regards any officers or servants in whose case they may determine to do so—
   - (i) to pay to, or in respect of them, such pensions and gratuities as the trustees may determine;
   - (ii) to provide and maintain for them such superannuation schemes (whether contributory or not) as the trustees may determine; or
-  - (iii) to enter into and carry into effect agreements with any insurance company or other association or company for securing to any such officer or servant or his surviving spouse, surviving civil partner,[^key-8362993ac9f4318e0db92b13608af2cd] family or dependant such gratuities or pensions as are by this paragraph authorised to be paid.
+  - (iii) to enter into and carry into effect agreements with any insurance company or other association or company for securing to any such officer or servant or his surviving spouse, surviving civil partner,[^c-8362993ac9f4318e0db92b13608af2cd] family or dependant such gratuities or pensions as are by this paragraph authorised to be paid.
 
 ## 4. Saving for powers of Treasury.[^c721189]
 
@@ -147,7 +147,7 @@ Provided that attendance at a meeting of the executive committee or any other co
 
 **14.** The trustees shall keep proper accounts of all sums received or paid by them and proper records in relation to those accounts, and the accounts for each financial year of the Trust shall be audited by an auditor or auditors appointed by the trustees.
 
-No person shall be appointed under this paragraph unless he is eligible for appointment as a[^c721200] statutory auditor under Part 42 of the Companies Act 2006[^key-d43489b07afda6d689c034a49248d39f].
+No person shall be appointed under this paragraph unless he is eligible for appointment as a[^c721200] statutory auditor under Part 42 of the Companies Act 2006[^c-d43489b07afda6d689c034a49248d39f].
 
 ## Annotations
 
@@ -155,11 +155,11 @@ No person shall be appointed under this paragraph unless he is eligible for appo
 
 [^c721182]: Modification: Act as amended by [Theatres Trust (Scotland) Act 1978 (c. 24)](https://www.legislation.gov.uk/ukpga/1978/24), extended to Scotland by that 1978 Act, s. 1(1)
 
-[^key-6f82e361857fd90876c78b7841839e01]: Textual amendment: Words in s. 2(2)(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/33) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-6f82e361857fd90876c78b7841839e01]: Textual amendment: Words in s. 2(2)(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/33) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c721188]: Textual amendment: S. 2(3) added by [Theatres Trust (Scotland) Act 1978 (c. 24)](https://www.legislation.gov.uk/ukpga/1978/24), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1978/24/section/1/2)
 
-[^key-8362993ac9f4318e0db92b13608af2cd]: Textual amendment: Words in [s. 3(d)(iii)](https://www.legislation.gov.uk/ukpga/1976/27/section/3/d/iii) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/25/paragraph/4); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-8362993ac9f4318e0db92b13608af2cd]: Textual amendment: Words in [s. 3(d)(iii)](https://www.legislation.gov.uk/ukpga/1976/27/section/3/d/iii) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/25/paragraph/4); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c721189]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1976/27/section/4) repealed (11.2.1991) by [Government Trading Act 1990 (c. 30, SIF 99:1)](https://www.legislation.gov.uk/ukpga/1990/30), [ss. 4](https://www.legislation.gov.uk/ukpga/1990/30/section/4), [5](https://www.legislation.gov.uk/ukpga/1990/30/section/5), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1990/30/schedule/2/part/I)
 
@@ -179,4 +179,4 @@ No person shall be appointed under this paragraph unless he is eligible for appo
 
 [^c721200]: Textual amendment: Sch. para. 14: 2nd paragraph substituted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para.28](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/28) (with [reg. 4](https://www.legislation.gov.uk/uksi/1991/1997/regulation/4)).
 
-[^key-d43489b07afda6d689c034a49248d39f]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/ukpga/1976/27/schedule/paragraph/14) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-d43489b07afda6d689c034a49248d39f]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/ukpga/1976/27/schedule/paragraph/14) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

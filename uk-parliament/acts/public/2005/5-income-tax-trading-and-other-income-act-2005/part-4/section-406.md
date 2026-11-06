@@ -28,10 +28,10 @@ summary: ''
 
 (4) The person liable for any tax so charged is the participant.
 
-(4A)[^key-5afc2b3d22605c98d5a0e64c6e4ba672] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-5afc2b3d22605c98d5a0e64c6e4ba672] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of this Chapter, the question whether a cash dividend so paid over is a dividend paid by a company that is non-UK resident is determined by reference to the tax year in which the dividend was originally paid.
 
 ## Annotations
 
-[^key-5afc2b3d22605c98d5a0e64c6e4ba672]: Textual amendment: S. 406(4A) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/15)
+[^c-5afc2b3d22605c98d5a0e64c6e4ba672]: Textual amendment: S. 406(4A) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/15)

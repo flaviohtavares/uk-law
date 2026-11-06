@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Claimants not to be treated as receiving education[^key-6848731562c4894d89e1c861e9a3111f]
+## 16. Claimants not to be treated as receiving education[^c-6848731562c4894d89e1c861e9a3111f]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where a claimant is under 19 but not a qualifying young person, that claimant is
 
 ## Annotations
 
-[^key-6848731562c4894d89e1c861e9a3111f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/280/regulation/16) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-6848731562c4894d89e1c861e9a3111f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/280/regulation/16) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

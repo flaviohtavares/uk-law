@@ -45,15 +45,15 @@ The Department for Employment and Learning being a Department designated for the
 - (a) in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and Articles 17(1), (2) and (5), and 55(2) of, and paragraphs 6, 7 and 14(1) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003], (“the 1978 Order”); and
 - (b) independently of any proposals submitted by the Health and Safety Executive for Northern Ireland under Article 13(1A)(c) of the 1978 Order[^f00004].
 
-The Department for Employment and Learning has consulted the Health and Safety Executive for Northern Ireland and such other bodies as appear to the Department to be appropriate, as required by Article 46(1) of the 1978 Order[^f00005].[^key-3354306f0bf0e3e44d7a3ddb0a88876b]
+The Department for Employment and Learning has consulted the Health and Safety Executive for Northern Ireland and such other bodies as appear to the Department to be appropriate, as required by Article 46(1) of the 1978 Order[^f00005].[^c-3354306f0bf0e3e44d7a3ddb0a88876b]
 
 ## PART 1 — General and Interpretation
 
-### 1. Citation and commencement[^key-1c140ad07645e26f5ad7c67202359377]
+### 1. Citation and commencement[^c-1c140ad07645e26f5ad7c67202359377]
 
 These Regulations may be cited as the Agency Workers Regulations (Northern Ireland) 2011 and shall come into operation on 5th December 2011.
 
-### 2. Interpretation[^key-ad39420229b27fe32a87ebd28c69c16f]
+### 2. Interpretation[^c-ad39420229b27fe32a87ebd28c69c16f]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Agency Workers Regulations (Northern Irela
 
   and any reference to a worker’s contract shall be construed accordingly.
 
-### 3. The meaning of agency worker[^key-f1a69935c2931a2c50a42b28aeb1a316]
+### 3. The meaning of agency worker[^c-f1a69935c2931a2c50a42b28aeb1a316]
 
 (1) In these Regulations “agency worker” means an individual who—
 
@@ -107,7 +107,7 @@ These Regulations may be cited as the Agency Workers Regulations (Northern Irela
 
 (6) Paragraph (5) does not prejudice the generality of paragraphs (1) to (4).
 
-### 4. The meaning of temporary work agency[^key-1d9ef1bddc86b2ddd256d899fa5c3baa]
+### 4. The meaning of temporary work agency[^c-1d9ef1bddc86b2ddd256d899fa5c3baa]
 
 (1) In these Regulations “temporary work agency” means a person engaged in the economic activity, public or private, whether or not operating for profit, and whether or not carrying on such activity in conjunction with others, of—
 
@@ -118,7 +118,7 @@ These Regulations may be cited as the Agency Workers Regulations (Northern Irela
 
 ## PART 2 — Rights
 
-### 5. Rights of agency workers in relation to the basic working and employment conditions[^key-21cb2baa258f349f5a543ca9ec7da3e0]
+### 5. Rights of agency workers in relation to the basic working and employment conditions[^c-21cb2baa258f349f5a543ca9ec7da3e0]
 
 (1) Subject to regulation 7, an agency worker (A) shall be entitled to the same basic working and employment conditions as A would be entitled to for doing the same job had A been recruited by the hirer—
 
@@ -148,7 +148,7 @@ whether by collective agreement or otherwise, including any variations in those 
 
 (6) This regulation is subject to regulation 10.
 
-### 6. Relevant terms and conditions[^key-c2823a966bc05ab01a56eac9186faec3]
+### 6. Relevant terms and conditions[^c-c2823a966bc05ab01a56eac9186faec3]
 
 (1) In regulation 5(2) and (3) “relevant terms and conditions” means terms and conditions relating to—
 
@@ -165,7 +165,7 @@ whether by collective agreement or otherwise, including any variations in those 
 
 - (a) any payment by way of occupational sick pay;
 - (b) any payment by way of a pension, allowance or gratuity in connection with the worker’s retirement or as compensation for loss of office;
-- (c) any payment in respect of maternity, paternity , , parental bereavement[^key-78dcfaf4cd90582d7c6796ddf669a396] , or adoption leave;
+- (c) any payment in respect of maternity, paternity , , parental bereavement[^c-78dcfaf4cd90582d7c6796ddf669a396] , or adoption leave;
 - (d) any payment referable to the worker’s redundancy;
 - (e) any payment or reward made pursuant to a financial participation scheme;
 - (f) any bonus, incentive payment or reward which is not directly attributable to the amount or quality of the work done by a worker, and which is given to a worker for a reason other than the amount or quality of work done such as to encourage the worker’s loyalty or to reward the worker’s long-term service;
@@ -196,7 +196,7 @@ whether by collective agreement or otherwise, including any variations in those 
 - “relevant training” means work experience provided pursuant to a training course or programme, training for employment, or both, other than work experience or training—
   - (a) the immediate provider of which is an educational institution or a person whose main business is the provision of training, and
   - (b) which is provided on a course run by that institution or person;
-- “rest period”, in relation to an individual, means a period which is not working time, other than a rest break or leave to which that individual is entitled either under the Working Time Regulations (Northern Ireland) 2016[^key-39f218f44673357142a19aecc38b5e69] or under the contract between that individual and the employer of that individual;
+- “rest period”, in relation to an individual, means a period which is not working time, other than a rest break or leave to which that individual is entitled either under the Working Time Regulations (Northern Ireland) 2016[^c-39f218f44673357142a19aecc38b5e69] or under the contract between that individual and the employer of that individual;
 - “working time”, in relation to an individual means—
   - (a) any period during which that individual is working, at the disposal of the employer of that individual and carrying out the activity or duties of that individual,
   - (b) any period during which that individual is receiving relevant training, and
@@ -205,7 +205,7 @@ whether by collective agreement or otherwise, including any variations in those 
   - (a) a collective agreement which forms part of a contract between that individual and the employer of that individual, or
   - (b) any other agreement in writing which is legally enforceable as between the individual and the employer of that individual.
 
-### 7. Qualifying period[^key-de47b2b9b16471bfe69170276525fa5d]
+### 7. Qualifying period[^c-de47b2b9b16471bfe69170276525fa5d]
 
 (1) Regulation 5 does not apply unless an agency worker has completed the qualifying period.
 
@@ -269,14 +269,14 @@ the fact that an agency worker is actually working in another role, whether for 
 
 (12) Time spent by an agency worker working during an assignment before 5<sup>th</sup> December 2011 does not count for the purposes of this regulation.
 
-### 8. Completion of the qualifying period and continuation of the regulation 5 rights[^key-90a96312e1d589a2e7c778bc5fd27793]
+### 8. Completion of the qualifying period and continuation of the regulation 5 rights[^c-90a96312e1d589a2e7c778bc5fd27793]
 
 Where an agency worker has completed the qualifying period with a particular hirer, the rights conferred by regulation 5 shall apply and continue to apply to that agency worker in relation to that particular hirer unless—
 
 - (a) that agency worker is no longer working in the same role, within the meaning of regulation 7(3), with that hirer; or
 - (b) there is a break between assignments or during the assignment, when the agency worker is not working, to which regulation 7(8) does not apply.
 
-### 9. Structure of assignments[^key-fa9a282b9539cc0d398adda160fadf89]
+### 9. Structure of assignments[^c-fa9a282b9539cc0d398adda160fadf89]
 
 **May not be in force at this date. Check the source.**
 
@@ -310,7 +310,7 @@ shall be treated as continuing to be entitled to those rights from the time at w
 
 (6) For the purposes of this regulation hirers are connected to a hirer if one hirer (directly or indirectly) has control of the other hirer or a third person (directly or indirectly) has control of both hirers.
 
-### 10. Permanent contracts providing for pay between assignments[^key-9e37343c7289235d81d990e2c1b92902]
+### 10. Permanent contracts providing for pay between assignments[^c-9e37343c7289235d81d990e2c1b92902]
 
 **May not be in force at this date. Check the source.**
 
@@ -332,7 +332,7 @@ shall be treated as continuing to be entitled to those rights from the time at w
 
 (2) For work to be suitable for the purposes of paragraph (1)(c) the nature of the work, and the terms and conditions applicable to the agency worker whilst performing the work, must not differ from the nature of the work and the terms and conditions included in the contract of employment under paragraph (1)(a).
 
-### 11. Calculating the minimum amount of pay[^key-bfaca9667e4bf5a7204ebbbb85810645]
+### 11. Calculating the minimum amount of pay[^c-bfaca9667e4bf5a7204ebbbb85810645]
 
 **May not be in force at this date. Check the source.**
 
@@ -349,7 +349,7 @@ shall be treated as continuing to be entitled to those rights from the time at w
 
 (5) For the purposes of this regulation, “pay reference period” is a month or, in the case of a worker who is paid wages by reference to a period shorter than a month, that period.
 
-### 12. Rights of agency workers in relation to access to collective facilities and amenities[^key-ab12398f4e307218097aed921bb198a9]
+### 12. Rights of agency workers in relation to access to collective facilities and amenities[^c-ab12398f4e307218097aed921bb198a9]
 
 **May not be in force at this date. Check the source.**
 
@@ -371,7 +371,7 @@ shall be treated as continuing to be entitled to those rights from the time at w
 - (b) that individual works or is based at the same establishment as the agency worker or, where there is no comparable worker working or based at that establishment who satisfies the requirements of sub-paragraph (a), works or is based at a different establishment and satisfies those requirements; and
 - (c) that individual is an employee of the hirer or, where there is no employee satisfying the requirements of sub-paragraphs (a) and (b), is a worker of the hirer and satisfies those requirements.
 
-### 13. Rights of agency workers in relation to access to employment[^key-38f2460cf38da6b2f4f23acc86f46597]
+### 13. Rights of agency workers in relation to access to employment[^c-38f2460cf38da6b2f4f23acc86f46597]
 
 **May not be in force at this date. Check the source.**
 
@@ -391,7 +391,7 @@ shall be treated as continuing to be entitled to those rights from the time at w
 
 ## PART 3 — Liability, Protections and Remedies
 
-### 14. Liability of temporary work agency and hirer[^key-cb477e894c74cd36891cd92be0696b00]
+### 14. Liability of temporary work agency and hirer[^c-cb477e894c74cd36891cd92be0696b00]
 
 **May not be in force at this date. Check the source.**
 
@@ -421,13 +421,13 @@ and to the extent that the temporary work agency is not liable under this provis
 - (a) a temporary work agency shall be liable for any act, or any deliberate failure to act, of that temporary work agency; and
 - (b) the hirer shall be liable for any act, or any deliberate failure to act, of the hirer.
 
-### 15. Restrictions on contracting out[^key-3e9569401e6ece1bba41221c95c91544]
+### 15. Restrictions on contracting out[^c-3e9569401e6ece1bba41221c95c91544]
 
 **May not be in force at this date. Check the source.**
 
 Article 245[^f00013] of the 1996 Order (restrictions on contracting out) shall apply in relation to these Regulations as if they were contained in that Order.
 
-### 16. Right to receive information[^key-0f592f7b5b011bb2d4468825121865cd]
+### 16. Right to receive information[^c-0f592f7b5b011bb2d4468825121865cd]
 
 **May not be in force at this date. Check the source.**
 
@@ -463,7 +463,7 @@ Article 245[^f00013] of the 1996 Order (restrictions on contracting out) shall a
 
 it may draw any inference which it considers it just and equitable to draw, including an inference that that temporary work agency or hirer (as the case may be) has infringed the right in question.
 
-### 17. Unfair dismissal and the right not to be subjected to detriment[^key-4463c60d24487756081589dfd14deb33]
+### 17. Unfair dismissal and the right not to be subjected to detriment[^c-4463c60d24487756081589dfd14deb33]
 
 **May not be in force at this date. Check the source.**
 
@@ -486,7 +486,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 (5) Paragraph (2) does not apply where the detriment in question amounts to a dismissal of an employee within the meaning of Part XI of the 1996 Order.
 
-### 18. Complaints to industrial tribunals etc[^key-d4f587790e10381e95d217db1dd41817]
+### 18. Complaints to industrial tribunals etc[^c-d4f587790e10381e95d217db1dd41817]
 
 **May not be in force at this date. Check the source.**
 
@@ -556,7 +556,7 @@ shall not be less than two weeks’ pay, calculated in accordance with regulatio
 - (a) increase the amount of compensation required to be paid to the complainant in respect of the complaint, where an order was made under paragraph (8)(b); or
 - (b) make an order under paragraph (8)(b).
 
-### 18A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-6f41ce09436d2f92e50a722207a93891]
+### 18A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-6f41ce09436d2f92e50a722207a93891]
 
 (1) In this regulation—
 
@@ -569,7 +569,7 @@ shall not be less than two weeks’ pay, calculated in accordance with regulatio
 
 (4) The power conferred on the industrial tribunal by regulation 18(5) to extend the time limit set by paragraph (4) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-### 19. Calculating a week’s pay[^key-1a60c9b4fcd4656872f0cdcfc51af45f]
+### 19. Calculating a week’s pay[^c-1a60c9b4fcd4656872f0cdcfc51af45f]
 
 **May not be in force at this date. Check the source.**
 
@@ -585,7 +585,7 @@ shall not be less than two weeks’ pay, calculated in accordance with regulatio
 - (a) where the assignment has ended on or before the date the complaint was presented to the tribunal under regulation 18(2), the four week period (or in a case where the assignment was shorter than four weeks, that period) ending with the last day of the assignment to which the claim relates; or
 - (b) where the assignment has not so ended the four week period (or in the case where that assignment was shorter than four weeks, that period) ending with the date of the complaint.
 
-### 20. Liability of employers and principals[^key-0dc87a08cde03dfcd233513f89c3c670]
+### 20. Liability of employers and principals[^c-0dc87a08cde03dfcd233513f89c3c670]
 
 **May not be in force at this date. Check the source.**
 
@@ -602,7 +602,7 @@ shall not be less than two weeks’ pay, calculated in accordance with regulatio
 
 **May not be in force at this date. Check the source.**
 
-### 21. Crown employment and service as a member of the armed forces[^key-dcc0a3b155449f4245d7e505a3c86c2d]
+### 21. Crown employment and service as a member of the armed forces[^c-dcc0a3b155449f4245d7e505a3c86c2d]
 
 (1) These Regulations have effect in relation to—
 
@@ -625,7 +625,7 @@ as they have effect in relation to other employment and other employees.
 - (a) does not include service as a member of the armed forces of the Crown, but
 - (b) does include employment by an association established for the purposes of Part X1 of the Reserve Forces Act 1996[^f00014].
 
-### 22. Police Service of Northern Ireland and Police Service of Northern Ireland Reserve[^key-609589ee242778ee73525d24fdba943b]
+### 22. Police Service of Northern Ireland and Police Service of Northern Ireland Reserve[^c-609589ee242778ee73525d24fdba943b]
 
 (1) For the purposes of these Regulations, the holding, otherwise than under a contract of employment, of the office of constable or an appointment as a police cadet shall be treated as employment, under a contract of employment, by the relevant officer.
 
@@ -647,7 +647,7 @@ as they have effect in relation to other employment and other employees.
 
 **May not be in force at this date. Check the source.**
 
-### 23. Amendments to legislation[^key-131edb4e312f252fc1324f2cc9ea42ee]
+### 23. Amendments to legislation[^c-131edb4e312f252fc1324f2cc9ea42ee]
 
 (1) In relation to Northern Ireland, any reference to the Agency Workers Regulations 2010[^f00015] within the statutory provisions listed in Schedule 1 shall be construed as a reference to the Agency Workers Regulations (Northern Ireland) 2011.
 
@@ -663,7 +663,7 @@ Minister for Employment and Learning
 
 Regulation 23
 
-**1.**[^key-48455fde475262950725ed0c7213ef96] The statutory provisions to which regulation 23(1) refers are—
+**1.**[^c-48455fde475262950725ed0c7213ef96] The statutory provisions to which regulation 23(1) refers are—
 
 - (a) the Transnational Information and Consultation of Employees Regulations 1999[^f00016],
 - (b) the European Cooperative Society (Involvement of Employees) Regulations 2006[^f00017], and
@@ -675,29 +675,29 @@ Regulation 23
 
 ### PART 1 — PRIMARY LEGISLATION
 
-#### 1. The Industrial Relations (Northern Ireland) Order 1992[^key-90ba053be711ffd3b0550a0e11e02221]
+#### 1. The Industrial Relations (Northern Ireland) Order 1992[^c-90ba053be711ffd3b0550a0e11e02221]
 
 The Industrial Relations (Northern Ireland) Order 1992[^f00019] is amended as follows.
 
-**2.**[^key-452efad67fb83771ac52eb2001bb4b0c] In Article 2(2) (Interpretation), before the entry relating to “agent” insert—
+**2.**[^c-452efad67fb83771ac52eb2001bb4b0c] In Article 2(2) (Interpretation), before the entry relating to “agent” insert—
 
 > - “agency worker” has the meaning given in regulation 3 of the Agency Workers Regulations (Northern Ireland) 2011;
 
 .
 
-**3.**[^key-8a3d35462d50c5cf7406bb1a5010500a] In Article 39(1) (general duty of employers to disclose information) after “undertaking” insert “(including information relating to use of agency workers in that undertaking)”.
+**3.**[^c-8a3d35462d50c5cf7406bb1a5010500a] In Article 39(1) (general duty of employers to disclose information) after “undertaking” insert “(including information relating to use of agency workers in that undertaking)”.
 
-#### 4. The Trade Union and Labour Relations (Northern Ireland) Order 1995[^key-ab66ccd4f3d1dba94ea0e8131fcb85fa]
+#### 4. The Trade Union and Labour Relations (Northern Ireland) Order 1995[^c-ab66ccd4f3d1dba94ea0e8131fcb85fa]
 
 The Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00020] is amended as follows.
 
-**5.**[^key-69e80ef56e622d1cdac675ad7b8450d9] In Article 2(2) (Interpretation), after the entry relating to “the Agency” insert—
+**5.**[^c-69e80ef56e622d1cdac675ad7b8450d9] In Article 2(2) (Interpretation), after the entry relating to “the Agency” insert—
 
 > - “agency worker” has the meaning given in regulation 3 of the Agency Workers Regulations (Northern Ireland) 2011;
 
 .
 
-**6.**[^key-7a8e5ccd751afb36e8b4b97121af7f0d] In Article 44B (collective bargaining: training)—
+**6.**[^c-7a8e5ccd751afb36e8b4b97121af7f0d] In Article 44B (collective bargaining: training)—
 
 - (a) after paragraph (4) insert—
 
@@ -710,7 +710,7 @@ The Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00020] is a
   , and
 - (b) in paragraph (5) after “(4)” insert “or (4A)”.
 
-**7.**[^key-243ed05c52295790aa75402858292214] (1) Schedule 1A is amended as follows.
+**7.**[^c-243ed05c52295790aa75402858292214] (1) Schedule 1A is amended as follows.
 
 (2) In paragraph 7, after sub-paragraph (5), insert—
 
@@ -728,15 +728,15 @@ The Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00020] is a
 
 .
 
-#### 8. The Employment Rights (Northern Ireland) Order 1996[^key-ff958cbbedc712a26978f4d6f6674a20]
+#### 8. The Employment Rights (Northern Ireland) Order 1996[^c-ff958cbbedc712a26978f4d6f6674a20]
 
 The 1996 Order is amended as follows.
 
-**9.**[^key-ce4091583588fa9aa8deedb9b86ac644] In Article 59(1) (supplementary: meaning of “wages” etc), after sub-paragraph (f) insert—
+**9.**[^c-ce4091583588fa9aa8deedb9b86ac644] In Article 59(1) (supplementary: meaning of “wages” etc), after sub-paragraph (f) insert—
 
 > - (fa) remuneration on ending the supply of an agency worker on maternity grounds under Article 100C,
 
-**10.**[^key-655d269e0f0a2ead9d707cbc48de8a18] After Article 85 insert—
+**10.**[^c-655d269e0f0a2ead9d707cbc48de8a18] After Article 85 insert—
 
 > **Ante-natal care: agency workers**
 >
@@ -815,7 +815,7 @@ The 1996 Order is amended as follows.
 
 .
 
-**11.**[^key-9395e48f94e3a335580d80fc0f57b4c6] After Article 100 insert—
+**11.**[^c-9395e48f94e3a335580d80fc0f57b4c6] After Article 100 insert—
 
 > **Ending the supply of an agency worker on maternity grounds**
 >
@@ -877,7 +877,7 @@ The 1996 Order is amended as follows.
 
 .
 
-**12.**[^key-be53001967113f2ef995dd63f7afb095] After Article 101 insert—
+**12.**[^c-be53001967113f2ef995dd63f7afb095] After Article 101 insert—
 
 > **101A. Calculation of remuneration (agency workers)**
 >
@@ -893,7 +893,7 @@ The 1996 Order is amended as follows.
 
 .
 
-**13.**[^key-63d02be55d94eb5b10dbf541ed7923ca] After Article 102 insert—
+**13.**[^c-63d02be55d94eb5b10dbf541ed7923ca] After Article 102 insert—
 
 > **102A. Complaints to industrial tribunals: agency workers**
 >
@@ -924,19 +924,19 @@ The 1996 Order is amended as follows.
 
 .
 
-**14.**[^key-d1165e7fbbb489dccbd3a6d2a98791cd] In Article 137[^f00021] (redundancy as unfair dismissal) in paragraph (1)(c) (which requires one of a specified group of paragraphs to apply for a person to be treated as unfairly dismissed) for “(7K)” substitute “(7L)” and after paragraph “(7K)” insert—
+**14.**[^c-d1165e7fbbb489dccbd3a6d2a98791cd] In Article 137[^f00021] (redundancy as unfair dismissal) in paragraph (1)(c) (which requires one of a specified group of paragraphs to apply for a person to be treated as unfairly dismissed) for “(7K)” substitute “(7L)” and after paragraph “(7K)” insert—
 
 > (7L) This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one specified in paragraph (3) of regulation 17 of the Agency Workers Regulations (Northern Ireland) 2011 (unless the case is one to which paragraph (4) of that regulation applies).
 
 .
 
-**15.**[^key-8cf60319867ec1c19b60024975ae462d] In Article 140[^f00022] (exclusion of right: qualifying period of employment) in paragraph (3) (cases where no qualifying period of employment is required) omit “or” at the end of sub-paragraph (q) and after sub-paragraph (r) insert—
+**15.**[^c-8cf60319867ec1c19b60024975ae462d] In Article 140[^f00022] (exclusion of right: qualifying period of employment) in paragraph (3) (cases where no qualifying period of employment is required) omit “or” at the end of sub-paragraph (q) and after sub-paragraph (r) insert—
 
 > or
 >
 > - (s) paragraph (1) of regulation 17 of the Agency Workers Regulations (Northern Ireland) 2011 applies.
 
-**16.**[^key-9a1794f57a6d5846281a953e666a9771] (1) Article 216 (duty of employer to consult representatives of employees) is amended as follows.
+**16.**[^c-9a1794f57a6d5846281a953e666a9771] (1) Article 216 (duty of employer to consult representatives of employees) is amended as follows.
 
 (2) In paragraph (6) (disclosure for the purposes of consultation), after sub-paragraph (f) add—
 
@@ -950,11 +950,11 @@ The 1996 Order is amended as follows.
 
 > (13) In this Article “agency worker” has the same meaning as in regulation 3 of the Agency Workers Regulations (Northern Ireland) 2011.
 
-#### 17. The Industrial Tribunals (Northern Ireland) Order 1996[^key-f40c2578e7142af8e878f252701ef0bc]
+#### 17. The Industrial Tribunals (Northern Ireland) Order 1996[^c-f40c2578e7142af8e878f252701ef0bc]
 
 The Industrial Tribunals (Northern Ireland) Order 1996[^f00023] is amended as follows.
 
-**18.**[^key-4710aea6cd5fe7b5f0445afa2916f90f] In Article 20(1)[^f00024] (conciliation)—
+**18.**[^c-4710aea6cd5fe7b5f0445afa2916f90f] In Article 20(1)[^f00024] (conciliation)—
 
 - (a) omit “or” immediately preceding the sub-paragraph inserted by regulation 33 of the European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009[^f00025], and
 - (b) after sub-paragraph (s), insert—
@@ -965,11 +965,11 @@ The Industrial Tribunals (Northern Ireland) Order 1996[^f00023] is amended as fo
 
 ### PART 2 — OTHER LEGISLATION
 
-#### 19. Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^key-a49007d850f360c860d75e346be9c0f3]
+#### 19. Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^c-a49007d850f360c860d75e346be9c0f3]
 
 The Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00026] are amended as follows.
 
-**20.**[^key-4a2d30ff5d236f8ab8f0135170726c8d] After regulation 16 insert—
+**20.**[^c-4a2d30ff5d236f8ab8f0135170726c8d] After regulation 16 insert—
 
 > **16A. Alteration of working conditions in respect of new or expectant mothers (agency workers)**
 >
@@ -981,7 +981,7 @@ The Management of Health and Safety at Work Regulations (Northern Ireland) 2000[
 
 .
 
-**21.**[^key-56228211c6850acfc5c2a75dd1311c86] After regulation 17 insert—
+**21.**[^c-56228211c6850acfc5c2a75dd1311c86] After regulation 17 insert—
 
 > **17A. Certificate from registered medical practitioner in respect of new or expectant mothers (agency workers)**
 >
@@ -994,7 +994,7 @@ The Management of Health and Safety at Work Regulations (Northern Ireland) 2000[
 
 .
 
-**22.**[^key-9571c087c65a4608372a82bea552b48f] After regulation 18 insert—
+**22.**[^c-9571c087c65a4608372a82bea552b48f] After regulation 18 insert—
 
 > **18A. Notification by new or expectant mothers (agency workers)**
 >
@@ -1031,13 +1031,13 @@ The Management of Health and Safety at Work Regulations (Northern Ireland) 2000[
 
 .
 
-**23.**[^key-dadf8ecc0b280d8a53dd8ef8e1def8e8] In regulation 20(1)(a) for “regulations 16 to 18”, substitute, “regulations 16 to 18B”.
+**23.**[^c-dadf8ecc0b280d8a53dd8ef8e1def8e8] In regulation 20(1)(a) for “regulations 16 to 18”, substitute, “regulations 16 to 18B”.
 
-#### 24. The Information and Consultation of Employees Regulations (Northern Ireland) 2005[^key-705a1744774c0105368f04aee8467557]
+#### 24. The Information and Consultation of Employees Regulations (Northern Ireland) 2005[^c-705a1744774c0105368f04aee8467557]
 
 The Information and Consultation of Employees Regulations (Northern Ireland) 2005[^f00027] are amended as follows.
 
-**25.**[^key-853ec94dead1b0e70d39850fca82429e] In regulation 2(2) (interpretation) after the definition of—
+**25.**[^c-853ec94dead1b0e70d39850fca82429e] In regulation 2(2) (interpretation) after the definition of—
 
 - (a) “the 1996 Order” insert—
 
@@ -1053,7 +1053,7 @@ The Information and Consultation of Employees Regulations (Northern Ireland) 200
 
   .
 
-**26.**[^key-d2c084a167e40c535541027d37111fe5] After regulation 3 insert—
+**26.**[^c-d2c084a167e40c535541027d37111fe5] After regulation 3 insert—
 
 > **3A. Agency Workers**
 >
@@ -1065,7 +1065,7 @@ The Information and Consultation of Employees Regulations (Northern Ireland) 200
 
 .
 
-**27.**[^key-d9c3990d1cc182d832833ebcdabcf406] After regulation 8 insert—
+**27.**[^c-d9c3990d1cc182d832833ebcdabcf406] After regulation 8 insert—
 
 > **8A. Pre-existing agreements: agency workers**
 >
@@ -1073,7 +1073,7 @@ The Information and Consultation of Employees Regulations (Northern Ireland) 200
 
 .
 
-**28.**[^key-682191f5a49cf6f9ba443b874a27c9e5] In regulation 16(1), omit the “and” at the end of sub-paragraph (e) and after sub-paragraph (f) add—
+**28.**[^c-682191f5a49cf6f9ba443b874a27c9e5] In regulation 16(1), omit the “and” at the end of sub-paragraph (e) and after sub-paragraph (f) add—
 
 > and
 >
@@ -1081,13 +1081,13 @@ The Information and Consultation of Employees Regulations (Northern Ireland) 200
 
 .
 
-**29.**[^key-a7de6b70f117a5e23b5da696d2009204] In regulation 20(1)(b), after “the situation, structure and probable development of employment within the undertaking” and before “and on any anticipatory measures envisaged” insert “(and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)”.
+**29.**[^c-a7de6b70f117a5e23b5da696d2009204] In regulation 20(1)(b), after “the situation, structure and probable development of employment within the undertaking” and before “and on any anticipatory measures envisaged” insert “(and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)”.
 
-#### 30. The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006[^key-304401c4af745f00ad337d8894da2794]
+#### 30. The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006[^c-304401c4af745f00ad337d8894da2794]
 
 The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006[^f00028] are amended as follows.
 
-**31.**[^key-bb360aee342b87ea6989bf7858ad03bf] In regulation 13, after paragraph (2) insert—
+**31.**[^c-bb360aee342b87ea6989bf7858ad03bf] In regulation 13, after paragraph (2) insert—
 
 > (2A) Where information is to be supplied under paragraph (2) by an employer—
 >
@@ -1099,11 +1099,11 @@ The Service Provision Change (Protection of Employment) Regulations (Northern Ir
 
 .
 
-#### 32. The European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009[^key-7b8a99b955cf978f1679030700919082]
+#### 32. The European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009[^c-7b8a99b955cf978f1679030700919082]
 
 The European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009[^f00029] are amended as follows.
 
-**33.**[^key-d165d2dba5b00b994655b924524fdc78] In regulation 3 (interpretation) after the definition in paragraph (1) of—
+**33.**[^c-d165d2dba5b00b994655b924524fdc78] In regulation 3 (interpretation) after the definition in paragraph (1) of—
 
 - (a) “the Agency” insert—
 
@@ -1119,7 +1119,7 @@ The European Public Limited-Liability Company (Employee Involvement) (Northern I
 
   .
 
-**34.**[^key-336ecd0ba170d1d9dab8df2bf156aade] In regulation 5(2)—
+**34.**[^c-336ecd0ba170d1d9dab8df2bf156aade] In regulation 5(2)—
 
 - (a) omit the “and” at the end of sub-paragraph (b); and
 - (b) after sub-paragraph (c) insert—
@@ -1130,13 +1130,13 @@ The European Public Limited-Liability Company (Employee Involvement) (Northern I
 
   .
 
-**35.**[^key-11ea58ca1267fb5aff3ddaafa24ab922] After regulation 15(3) insert—
+**35.**[^c-11ea58ca1267fb5aff3ddaafa24ab922] After regulation 15(3) insert—
 
 > (3A) Where under the employee involvement agreement the competent organ of the SE is to provide information on the employment situation in that company, such information must include suitable information relating to the use of agency workers (if any) in that company.
 
 .
 
-**36.**[^key-e624f7d37a68b3a4e7810c2334348cd6] After regulation 19(3) insert—
+**36.**[^c-e624f7d37a68b3a4e7810c2334348cd6] After regulation 19(3) insert—
 
 > (3A) This paragraph applies to an agency worker whose contract within regulation 3(1)(b) of the Agency Workers Regulations (Northern Ireland) 2011 (contract with the temporary work agency) is not a contract of employment—
 >
@@ -1145,7 +1145,7 @@ The European Public Limited-Liability Company (Employee Involvement) (Northern I
 
 .
 
-**37.**[^key-445fc30f061d7f393965bce07299c1d3] In the Schedule, Part 2, after paragraph 8 insert—
+**37.**[^c-445fc30f061d7f393965bce07299c1d3] In the Schedule, Part 2, after paragraph 8 insert—
 
 > **8A.** Where under the provisions of this Part, the competent organ of the SE is to provide information on the employment situation in that company, such information must include suitable information relating to the use of agency workers (if any) in that company.
 
@@ -1209,79 +1209,79 @@ Schedule 2 contains consequential amendments to primary and secondary legislatio
 
 [^f00005]: Footnote: Article 46(1) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraph 18(1)
 
-[^key-3354306f0bf0e3e44d7a3ddb0a88876b]: Modification: Regulation Modified (13.11.2020) by [The Posted Workers (Agency Workers) Order (Northern Ireland) 2020 (S.R. 2020/251)](https://www.legislation.gov.uk/nisr/2020/251), [art. 2](https://www.legislation.gov.uk/nisr/2020/251/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2020/251/article/4))
+[^c-3354306f0bf0e3e44d7a3ddb0a88876b]: Modification: Regulation Modified (13.11.2020) by [The Posted Workers (Agency Workers) Order (Northern Ireland) 2020 (S.R. 2020/251)](https://www.legislation.gov.uk/nisr/2020/251), [art. 2](https://www.legislation.gov.uk/nisr/2020/251/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2020/251/article/4))
 
-[^key-1c140ad07645e26f5ad7c67202359377]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/350/section/1) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-1c140ad07645e26f5ad7c67202359377]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/350/section/1) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-ad39420229b27fe32a87ebd28c69c16f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/350/section/2) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-ad39420229b27fe32a87ebd28c69c16f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/350/section/2) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00007]: Footnote: [S.I. 1996/1919 (N.I.16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-f1a69935c2931a2c50a42b28aeb1a316]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/350/section/3) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-f1a69935c2931a2c50a42b28aeb1a316]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/350/section/3) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-1d9ef1bddc86b2ddd256d899fa5c3baa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/350/section/4) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-1d9ef1bddc86b2ddd256d899fa5c3baa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/350/section/4) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-21cb2baa258f349f5a543ca9ec7da3e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/350/section/5) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-21cb2baa258f349f5a543ca9ec7da3e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/350/section/5) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-c2823a966bc05ab01a56eac9186faec3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/350/section/6) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-c2823a966bc05ab01a56eac9186faec3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/350/section/6) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-78dcfaf4cd90582d7c6796ddf669a396]: Textual amendment: Words in [reg. 6(3)(c)](https://www.legislation.gov.uk/nisr/2011/350/regulation/6/3/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [18(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/18/2), [34](https://editorial.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-78dcfaf4cd90582d7c6796ddf669a396]: Textual amendment: Words in [reg. 6(3)(c)](https://www.legislation.gov.uk/nisr/2011/350/regulation/6/3/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [18(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/18/2), [34](https://editorial.legislation.gov.uk/nisr/2023/157/regulation/34)
 
 [^f00008]: Footnote: Article 93 of the 1996 Order was amended by Article 31(1) and (3) of the Employment (Northern Ireland) Order 2003, [S.I. 2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902)
 
-[^key-39f218f44673357142a19aecc38b5e69]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/nisr/2011/350/regulation/6/5) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(7)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/7) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-39f218f44673357142a19aecc38b5e69]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/nisr/2011/350/regulation/6/5) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(7)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/7) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
 
-[^key-de47b2b9b16471bfe69170276525fa5d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/350/section/7) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-de47b2b9b16471bfe69170276525fa5d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/350/section/7) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00010]: Footnote: [S.I.1996/1141 (N.I.6)](https://www.legislation.gov.uk/nisi/1996/1141)
 
 [^f00011]: Footnote: [1959 c.15 (N.I.)](https://www.legislation.gov.uk/apni/1959/15)
 
-[^key-90a96312e1d589a2e7c778bc5fd27793]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/350/section/8) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-90a96312e1d589a2e7c778bc5fd27793]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/350/section/8) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-fa9a282b9539cc0d398adda160fadf89]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/350/section/9) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-fa9a282b9539cc0d398adda160fadf89]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/350/section/9) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-9e37343c7289235d81d990e2c1b92902]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/350/section/10) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-9e37343c7289235d81d990e2c1b92902]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/350/section/10) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-bfaca9667e4bf5a7204ebbbb85810645]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/350/section/11) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-bfaca9667e4bf5a7204ebbbb85810645]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/350/section/11) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1999/584](https://www.legislation.gov.uk/uksi/1999/584); relevant amending instruments are [S.I. 2000/1989](https://www.legislation.gov.uk/uksi/2000/1989), [S.I. 2001/2673](https://www.legislation.gov.uk/uksi/2001/2673), [S.I. 2002/1999](https://www.legislation.gov.uk/uksi/2002/1999), [S.I. 2003/1923](https://www.legislation.gov.uk/uksi/2003/1923), [S.I. 2004/1930](https://www.legislation.gov.uk/uksi/2004/1930), [S.I. 2005/2019](https://www.legislation.gov.uk/uksi/2005/2019), [S.I. 2006/2001](https://www.legislation.gov.uk/uksi/2006/2001), [S.I. 2007/2318](https://www.legislation.gov.uk/uksi/2007/2318), [S.I. 2008/1894](https://www.legislation.gov.uk/uksi/2008/1894), [S.I. 2009/1902](https://www.legislation.gov.uk/uksi/2009/1902), [S.I. 2010/1901](https://www.legislation.gov.uk/uksi/2010/1901), [S.I. 2010/3001](https://www.legislation.gov.uk/uksi/2010/3001)
 
-[^key-ab12398f4e307218097aed921bb198a9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/350/section/12) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-ab12398f4e307218097aed921bb198a9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/350/section/12) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-38f2460cf38da6b2f4f23acc86f46597]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/350/section/13) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-38f2460cf38da6b2f4f23acc86f46597]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/350/section/13) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-cb477e894c74cd36891cd92be0696b00]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/350/section/14) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-cb477e894c74cd36891cd92be0696b00]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/350/section/14) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-3e9569401e6ece1bba41221c95c91544]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/350/section/15) in operation at 5.12.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-3e9569401e6ece1bba41221c95c91544]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/350/section/15) in operation at 5.12.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00013]: Footnote: Article 245 of the Order was amended by Article 10(1) of, and Schedule 1, paragraph 15 to, the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998, [S.I. 1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265)
 
-[^key-0f592f7b5b011bb2d4468825121865cd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/350/section/16) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-0f592f7b5b011bb2d4468825121865cd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/350/section/16) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-4463c60d24487756081589dfd14deb33]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/350/section/17) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-4463c60d24487756081589dfd14deb33]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/350/section/17) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-d4f587790e10381e95d217db1dd41817]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2011/350/section/18) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-d4f587790e10381e95d217db1dd41817]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2011/350/section/18) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-6f41ce09436d2f92e50a722207a93891]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/nisr/2011/350/regulation/18A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 52](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/52)
+[^c-6f41ce09436d2f92e50a722207a93891]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/nisr/2011/350/regulation/18A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 52](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/52)
 
-[^key-1a60c9b4fcd4656872f0cdcfc51af45f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2011/350/section/19) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-1a60c9b4fcd4656872f0cdcfc51af45f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2011/350/section/19) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-0dc87a08cde03dfcd233513f89c3c670]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/350/section/20) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-0dc87a08cde03dfcd233513f89c3c670]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/350/section/20) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-dcc0a3b155449f4245d7e505a3c86c2d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/350/section/21) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-dcc0a3b155449f4245d7e505a3c86c2d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/350/section/21) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00014]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14)
 
-[^key-609589ee242778ee73525d24fdba943b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/350/section/22) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-609589ee242778ee73525d24fdba943b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/350/section/22) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-131edb4e312f252fc1324f2cc9ea42ee]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/350/section/23) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-131edb4e312f252fc1324f2cc9ea42ee]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/350/section/23) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93)
 
-[^key-48455fde475262950725ed0c7213ef96]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2011/350/schedule/1/paragraph/1) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-48455fde475262950725ed0c7213ef96]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2011/350/schedule/1/paragraph/1) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), amended by [S.I. 2010/1088](https://www.legislation.gov.uk/uksi/2010/1088)
 
@@ -1289,98 +1289,98 @@ Schedule 2 contains consequential amendments to primary and secondary legislatio
 
 [^f00018]: Footnote: [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974)
 
-[^key-90ba053be711ffd3b0550a0e11e02221]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/1) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-90ba053be711ffd3b0550a0e11e02221]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/1) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00019]: Footnote: [S.I. 1992/807 (N.I.5)](https://www.legislation.gov.uk/nisi/1992/807)
 
-[^key-452efad67fb83771ac52eb2001bb4b0c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/2) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-452efad67fb83771ac52eb2001bb4b0c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/2) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-8a3d35462d50c5cf7406bb1a5010500a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/3) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-8a3d35462d50c5cf7406bb1a5010500a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/3) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-ab66ccd4f3d1dba94ea0e8131fcb85fa]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/4) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-ab66ccd4f3d1dba94ea0e8131fcb85fa]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/4) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1995/1980 (N.I.12)](https://www.legislation.gov.uk/nisi/1995/1980); Article 44B was inserted by Article 7(1) of the Employment Relations (Northern Ireland) Order 1999, [S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790); Schedule 1A was inserted by the Employment Relations (Northern Ireland) Order 1999, Article 3(1) and (3) and Schedule 1
 
-[^key-69e80ef56e622d1cdac675ad7b8450d9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/5) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-69e80ef56e622d1cdac675ad7b8450d9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/5) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-7a8e5ccd751afb36e8b4b97121af7f0d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/6) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-7a8e5ccd751afb36e8b4b97121af7f0d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/6) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-243ed05c52295790aa75402858292214]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/7) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-243ed05c52295790aa75402858292214]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/7) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-ff958cbbedc712a26978f4d6f6674a20]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/8) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-ff958cbbedc712a26978f4d6f6674a20]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/8) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-ce4091583588fa9aa8deedb9b86ac644]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/9) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-ce4091583588fa9aa8deedb9b86ac644]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/9) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-655d269e0f0a2ead9d707cbc48de8a18]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/10) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-655d269e0f0a2ead9d707cbc48de8a18]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/10) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-9395e48f94e3a335580d80fc0f57b4c6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/11) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-9395e48f94e3a335580d80fc0f57b4c6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/11) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-be53001967113f2ef995dd63f7afb095]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/12) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-be53001967113f2ef995dd63f7afb095]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/12) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-63d02be55d94eb5b10dbf541ed7923ca]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/13) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-63d02be55d94eb5b10dbf541ed7923ca]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/13) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-d1165e7fbbb489dccbd3a6d2a98791cd]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/14) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-d1165e7fbbb489dccbd3a6d2a98791cd]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/14) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00021]: Footnote: Article 137 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed
 
-[^key-8cf60319867ec1c19b60024975ae462d]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/15) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-8cf60319867ec1c19b60024975ae462d]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/15) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00022]: Footnote: Article 140(3) has been amended on a number of occasions to specify additional cases where the qualifying period does not apply
 
-[^key-9a1794f57a6d5846281a953e666a9771]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/16) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-9a1794f57a6d5846281a953e666a9771]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/16) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-f40c2578e7142af8e878f252701ef0bc]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/17) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-f40c2578e7142af8e878f252701ef0bc]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/17) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00023]: Footnote: [S.I. 1996/1921 (N.I.18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-4710aea6cd5fe7b5f0445afa2916f90f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/18) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-4710aea6cd5fe7b5f0445afa2916f90f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/18) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00024]: Footnote: Article 20(1) has been amended on a number of occasions to specify additional cases under which industrial tribunal proceedings may be brought
 
 [^f00025]: Footnote: [S.I. 2009/2402](https://www.legislation.gov.uk/uksi/2009/2402)
 
-[^key-a49007d850f360c860d75e346be9c0f3]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/19) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-a49007d850f360c860d75e346be9c0f3]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/19) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00026]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-4a2d30ff5d236f8ab8f0135170726c8d]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/20) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-4a2d30ff5d236f8ab8f0135170726c8d]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/20) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-56228211c6850acfc5c2a75dd1311c86]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/21) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-56228211c6850acfc5c2a75dd1311c86]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/21) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-9571c087c65a4608372a82bea552b48f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/22) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-9571c087c65a4608372a82bea552b48f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/22) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-dadf8ecc0b280d8a53dd8ef8e1def8e8]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/23) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-dadf8ecc0b280d8a53dd8ef8e1def8e8]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/23) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-705a1744774c0105368f04aee8467557]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/24) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-705a1744774c0105368f04aee8467557]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/24) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00027]: Footnote: [S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47)
 
-[^key-853ec94dead1b0e70d39850fca82429e]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-853ec94dead1b0e70d39850fca82429e]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-d2c084a167e40c535541027d37111fe5]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/26) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-d2c084a167e40c535541027d37111fe5]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/26) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-d9c3990d1cc182d832833ebcdabcf406]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/27) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-d9c3990d1cc182d832833ebcdabcf406]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/27) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-682191f5a49cf6f9ba443b874a27c9e5]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-682191f5a49cf6f9ba443b874a27c9e5]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-a7de6b70f117a5e23b5da696d2009204]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/29) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-a7de6b70f117a5e23b5da696d2009204]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/29) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-304401c4af745f00ad337d8894da2794]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/30) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-304401c4af745f00ad337d8894da2794]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/30) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00028]: Footnote: [S.R. 2006 No. 177](https://www.legislation.gov.uk/nisr/2006/177)
 
-[^key-bb360aee342b87ea6989bf7858ad03bf]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/31) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-bb360aee342b87ea6989bf7858ad03bf]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/31) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-7b8a99b955cf978f1679030700919082]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/32) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-7b8a99b955cf978f1679030700919082]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/32) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
 [^f00029]: Footnote: [S.I. 2009/2402](https://www.legislation.gov.uk/uksi/2009/2402)
 
-[^key-d165d2dba5b00b994655b924524fdc78]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/33) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-d165d2dba5b00b994655b924524fdc78]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/33) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-336ecd0ba170d1d9dab8df2bf156aade]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/34) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-336ecd0ba170d1d9dab8df2bf156aade]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/34) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-11ea58ca1267fb5aff3ddaafa24ab922]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/35) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-11ea58ca1267fb5aff3ddaafa24ab922]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/35) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-e624f7d37a68b3a4e7810c2334348cd6]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/36) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-e624f7d37a68b3a4e7810c2334348cd6]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/36) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
 
-[^key-445fc30f061d7f393965bce07299c1d3]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/37) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)
+[^c-445fc30f061d7f393965bce07299c1d3]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/37) in operation at 5.12.2011, see [reg.1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1)

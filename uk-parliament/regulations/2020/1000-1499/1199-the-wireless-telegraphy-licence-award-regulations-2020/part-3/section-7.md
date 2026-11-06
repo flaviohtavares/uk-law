@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Recording of applicant group members[^key-de8993e2629091e184e241e2fa7e1059]
+## 7. Recording of applicant group members[^c-de8993e2629091e184e241e2fa7e1059]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de8993e2629091e184e241e2fa7e1059]: Commencement: Reg. 7 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-de8993e2629091e184e241e2fa7e1059]: Commencement: Reg. 7 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

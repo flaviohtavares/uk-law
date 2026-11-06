@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Power to dissolve the Oil and Pipelines Agency by order[^key-cf49e6aa51628b57dc02e35c64a6331c]
+## 129. Power to dissolve the Oil and Pipelines Agency by order[^c-cf49e6aa51628b57dc02e35c64a6331c]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf49e6aa51628b57dc02e35c64a6331c]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2013/32/section/129) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-cf49e6aa51628b57dc02e35c64a6331c]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2013/32/section/129) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

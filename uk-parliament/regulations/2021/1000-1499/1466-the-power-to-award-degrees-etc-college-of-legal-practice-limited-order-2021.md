@@ -41,11 +41,11 @@ Coming into force
 
 The Office for Students, in exercise of the powers conferred by section 42(1) of the Higher Education and Research Act 2017[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-77e9a5189288c3f8428278d7b509a7c2]
+## 1. Citation and commencement[^c-77e9a5189288c3f8428278d7b509a7c2]
 
 This Order may be cited as the Power to Award Degrees etc. (College of Legal Practice Limited) Order 2021 and shall come into force on 1st February 2022.
 
-## 2. Competence to grant awards[^key-7223ae7325cbc3011439de7a31ead87b]
+## 2. Competence to grant awards[^c-7223ae7325cbc3011439de7a31ead87b]
 
 College of Legal Practice Limited (also known as The College of Legal Practice), shall be competent to grant the following specified taught awards of the kind mentioned in section 42(2)(b) of the said Act:
 
@@ -57,7 +57,7 @@ College of Legal Practice Limited (also known as The College of Legal Practice),
 
 **3.**[^M_F_118e0010-56a5-4e67-dfe0-235fca8e389a] College of Legal Practice Limited shall only be competent to grant the awards specified in article 2 of this Order for a fixed term beginning on 1st February 2022 and expiring at the end of the day on 29th April 2028.
 
-**4.**[^key-8e4598dbf009daf0f9697c3edae94b3d] College of Legal Practice Limited shall only grant the awards specified in article 2 of this Order to persons enrolled with it at the time they complete the course of study for which the award is granted.
+**4.**[^c-8e4598dbf009daf0f9697c3edae94b3d] College of Legal Practice Limited shall only grant the awards specified in article 2 of this Order to persons enrolled with it at the time they complete the course of study for which the award is granted.
 
 Susan Lapworth
 
@@ -79,10 +79,10 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-77e9a5189288c3f8428278d7b509a7c2]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1)
+[^c-77e9a5189288c3f8428278d7b509a7c2]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1)
 
-[^key-7223ae7325cbc3011439de7a31ead87b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1466/article/2) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1)
+[^c-7223ae7325cbc3011439de7a31ead87b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1466/article/2) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1)
 
 [^M_F_118e0010-56a5-4e67-dfe0-235fca8e389a]: Textual amendment: Art. 3 substituted (30.4.2025) by [The Power to Award Degrees etc. (College of Legal Practice Limited) (Amendment) Order 2025 (S.I. 2025/448)](https://www.legislation.gov.uk/uksi/2025/448), [arts. 1](https://www.legislation.gov.uk/uksi/2025/448/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/448/article/2/2)
 
-[^key-8e4598dbf009daf0f9697c3edae94b3d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1466/article/4) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1)
+[^c-8e4598dbf009daf0f9697c3edae94b3d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1466/article/4) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1466/article/1)

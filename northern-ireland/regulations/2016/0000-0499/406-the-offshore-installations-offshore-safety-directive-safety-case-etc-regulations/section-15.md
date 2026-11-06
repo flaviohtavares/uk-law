@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Design and relocation notifications for production installation[^key-430706ffa33109df4fcc238afcab8ce2]
+## 15. Design and relocation notifications for production installation[^c-430706ffa33109df4fcc238afcab8ce2]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ the operator shall notify the competent authority of that change as soon as prac
 
 ## Annotations
 
-[^key-430706ffa33109df4fcc238afcab8ce2]: Commencement: Reg. 15 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-430706ffa33109df4fcc238afcab8ce2]: Commencement: Reg. 15 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

@@ -81,7 +81,7 @@ Accordingly, the Secretary of State makes the following Order—
 - [Section 5 — Political adviser](part-2/section-5.md)
 - [Section 6 — Constitution](part-2/section-6.md)
 
-### PART 3 — Housing, regeneration and planning[^key-4d75bc17ec447d0da405397cba112d66]
+### PART 3 — Housing, regeneration and planning[^c-4d75bc17ec447d0da405397cba112d66]
 
 *Extent: E+W*
 
@@ -91,7 +91,7 @@ Accordingly, the Secretary of State makes the following Order—
 - [Section 8 — Acquisition and appropriation of land for planning and public purposes](part-3/section-8.md)
 - [Section 9 — Application of provisions of the 1985 Act, the 1990 Act and the 2008 Act](part-3/section-9.md)
 
-### PART 4 — Mayoral development corporation[^key-e849fc0cd4cc2ed7e2927f7c02011d77]
+### PART 4 — Mayoral development corporation[^c-e849fc0cd4cc2ed7e2927f7c02011d77]
 
 *Extent: E+W*
 
@@ -245,6 +245,6 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00004]: Footnote: Section 110(4) of the 2009 Act requires the Secretary of State when making an order to establish a combined authority to have regard to the need to reflect the identities and interests of local communities, and to secure effective and convenient local government.
 
-[^key-4d75bc17ec447d0da405397cba112d66]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2023/1432/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/3)
+[^c-4d75bc17ec447d0da405397cba112d66]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2023/1432/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/3)
 
-[^key-e849fc0cd4cc2ed7e2927f7c02011d77]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2023/1432/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/4)
+[^c-e849fc0cd4cc2ed7e2927f7c02011d77]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2023/1432/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/4)

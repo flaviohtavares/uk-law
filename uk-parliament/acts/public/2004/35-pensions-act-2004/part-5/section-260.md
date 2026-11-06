@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Consultation by employers: personal pension schemes[^key-8b6ab6fb0bda6e49737c4d2ec88b6f6b]
+## 260. Consultation by employers: personal pension schemes[^c-8b6ab6fb0bda6e49737c4d2ec88b6f6b]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ to consult prescribed persons in the prescribed manner before he makes the decis
 
 ## Annotations
 
-[^key-8b6ab6fb0bda6e49737c4d2ec88b6f6b]: Commencement: [S. 260](https://www.legislation.gov.uk/ukpga/2004/35/section/260) in force at 1.1.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
+[^c-8b6ab6fb0bda6e49737c4d2ec88b6f6b]: Commencement: [S. 260](https://www.legislation.gov.uk/ukpga/2004/35/section/260) in force at 1.1.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)

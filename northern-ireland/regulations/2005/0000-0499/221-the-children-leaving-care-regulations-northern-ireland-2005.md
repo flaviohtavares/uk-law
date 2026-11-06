@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 34A(3), (4), (8) and (9), 34B(3), 34C(5), (6), (8)(c), and (10), 34E(2), 34F, 35B(6) and 35D(2) of the Children (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d44c3471daee51b6e1739c8fedd8660b]
+## 1. Citation, commencement and interpretation[^c-d44c3471daee51b6e1739c8fedd8660b]
 
 (1) These Regulations may be cited as the Children (Leaving Care) Regulations (Northern Ireland) 2005 and shall come into operation on 1st September 2005.
 
@@ -54,7 +54,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
   - (a) in relation to an eligible child[^f00004], means the authority looking after him; and
   - (b) in relation to a relevant child[^f00005] or a former relevant child[^f00006], has the meaning given to it by Article 34B(4) of the Order.
 
-## 2. Eligible children[^key-6cff89baa157b876e7ee055d42d82c7b]
+## 2. Eligible children[^c-6cff89baa157b876e7ee055d42d82c7b]
 
 (1) For the purposes of Article 34A(3)(b) of the Order, the prescribed period is 13 weeks and the prescribed age is 14.
 
@@ -65,7 +65,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 - (a) the authority has arranged to place him in a pre-planned series of short-term placements, none of which individually exceeds four weeks (even though they may amount in all to the prescribed period); and
 - (b) at the end of each such placement the child returns to the care of his parent, or a person who is not a parent but who has parental responsibility for him.
 
-## 3. Relevant children[^key-54fe3a46d9aa8f8f0d4de354097aef42]
+## 3. Relevant children[^c-54fe3a46d9aa8f8f0d4de354097aef42]
 
 (1) For the purposes of Article 34B(3) of the Order, children falling within paragraph (2) are an additional category of relevant children.
 
@@ -90,7 +90,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 
 (7) Where a family placement breaks down and the child ceases to live with the person concerned, the child is to be treated as a relevant child.
 
-## 4. Assessments and pathway plans – general[^key-65654f548a5134c2d06856fae5e5f86f]
+## 4. Assessments and pathway plans – general[^c-65654f548a5134c2d06856fae5e5f86f]
 
 (1) The responsible authority must prepare a written statement describing the manner in which the needs of each eligible child and relevant child will be assessed.
 
@@ -106,7 +106,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 
 (4) Nothing in these Regulations shall prevent the carrying out of any assessment or review under these Regulations at the same time as any assessment, review or consideration under any other statutory provision.
 
-## 5. Involvement of the child or young person[^key-23b75568023a1767137ae43eb7e8ba2f]
+## 5. Involvement of the child or young person[^c-23b75568023a1767137ae43eb7e8ba2f]
 
 (1) The responsible authority in carrying out an assessment and in preparing or reviewing a pathway plan shall, unless it is not reasonably practicable –
 
@@ -121,7 +121,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 
 and shall ensure that the contents of each document are explained to him in accordance with his level of understanding unless it is not reasonably practicable to do so.
 
-## 6. Assessment of needs[^key-3841079aa5b5ea391339e1abf3d3f6bb]
+## 6. Assessment of needs[^c-3841079aa5b5ea391339e1abf3d3f6bb]
 
 (1) The responsible authority shall assess the needs of each eligible child and each relevant child who does not already have a pathway plan, in accordance with these Regulations.
 
@@ -156,7 +156,7 @@ and shall ensure that the contents of each document are explained to him in acco
 - (g) the personal adviser[^f00014] appointed for the child; and
 - (h) any other person whose views the responsible authority, or the child consider may be relevant.
 
-## 7. Pathway plans[^key-d45f79183dc2f7f8b19eaf4ba2e3efb4]
+## 7. Pathway plans[^c-d45f79183dc2f7f8b19eaf4ba2e3efb4]
 
 (1) A pathway plan prepared under Article 34A or Article 34C of the Order, must be prepared as soon as possible after the assessment and must include, in particular, the matters referred to in the Schedule.
 
@@ -167,7 +167,7 @@ and shall ensure that the contents of each document are explained to him in acco
 
 (3) The pathway plan must be recorded in writing.
 
-## 8. Review of pathway plans[^key-afb853d7f9e8f8049ef963da91ad1bef]
+## 8. Review of pathway plans[^c-afb853d7f9e8f8049ef963da91ad1bef]
 
 (1) The responsible authority shall review the pathway plan of each eligible child, relevant child and former relevant child in accordance with this regulation.
 
@@ -175,7 +175,7 @@ and shall ensure that the contents of each document are explained to him in acco
 
 - (a) if requested to do so by the child or young person;
 - (b) if it, or the personal adviser considers a review necessary; and
-- (c) in any other case, at intervals specified in accordance with guidance issued by the Department[^key-e71cb50a443213c6c0afa83648bfe3be] .
+- (c) in any other case, at intervals specified in accordance with guidance issued by the Department[^c-e71cb50a443213c6c0afa83648bfe3be] .
 
 (3) In carrying out a review, the responsible authority shall, to the extent it considers it appropriate to do so, seek and take account of the views of the persons mentioned in regulation 6(5).
 
@@ -186,7 +186,7 @@ and shall ensure that the contents of each document are explained to him in acco
 
 (5) The results of the review must be recorded in writing.
 
-## 9. Retention and confidentiality of records[^key-421ac3c53e3a6a9878892a9f1e1ed7d4]
+## 9. Retention and confidentiality of records[^c-421ac3c53e3a6a9878892a9f1e1ed7d4]
 
 (1) Records relating to assessments, pathway plans and their review shall be retained by the responsible authority until the seventy-fifth anniversary of the date of birth of the child or young person to whom they relate, or if the child dies before attaining the age of 18, for a period of fifteen years beginning with and including the date of his death.
 
@@ -197,7 +197,7 @@ and shall ensure that the contents of each document are explained to him in acco
 - (a) any statutory provision under which access to such records is authorised; or
 - (b) any court order authorising access to such records.
 
-## 10. Support and accommodation[^key-70d96c019ae596eef20122f710248a67]
+## 10. Support and accommodation[^c-70d96c019ae596eef20122f710248a67]
 
 (1) For the purposes of Article 34C(8)(c) of the Order (support for relevant children), the responsible authority must provide assistance in order to meet the child’s needs in relation to education, training or employment as provided for in his pathway plan.
 
@@ -214,7 +214,7 @@ and shall ensure that the contents of each document are explained to him in acco
 - (a) “higher education” means education provided by means of a course of any description mentioned in Schedule 1 to the Further Education (Northern Ireland) Order 1997[^f00015];
 - (b) “further education” has the same meaning as in Article 3 of the Further Education (Northern Ireland) Order 1997 save that for the purposes of this regulation it only includes further education which is provided on a full-time residential basis.
 
-## 11. Functions of personal advisers[^key-2d091c45f80a1e71fc09894e577f0bc6]
+## 11. Functions of personal advisers[^c-2d091c45f80a1e71fc09894e577f0bc6]
 
 A personal adviser shall have the following functions[^f00016] in relation to an eligible child or a relevant child or a young person who is a former relevant child –
 
@@ -226,7 +226,7 @@ A personal adviser shall have the following functions[^f00016] in relation to an
 - (f) to keep informed about his progress and wellbeing; and
 - (g) to keep a written record of contacts with him.
 
-## 12. Representations[^key-2c34744df2fe4b3df3750a77139fad50]
+## 12. Representations[^c-2c34744df2fe4b3df3750a77139fad50]
 
 (1) The Representations Procedure (Children) Regulations (Northern Ireland) 1996[^f00017] shall be amended as follows.
 
@@ -268,23 +268,23 @@ Department of Health, Social Services and Public Safety
 
 Regulation 7
 
-**1.**[^key-82ad34b2a7f32c98d1d9b9cb7755cbe3] The nature and level of contact and personal support to be provided, and by whom, to the child or young person.
+**1.**[^c-82ad34b2a7f32c98d1d9b9cb7755cbe3] The nature and level of contact and personal support to be provided, and by whom, to the child or young person.
 
-**2.**[^key-4c99745d8bd59d6eef7cdc33592900b5] Details of the accommodation the child or young person is to occupy.
+**2.**[^c-4c99745d8bd59d6eef7cdc33592900b5] Details of the accommodation the child or young person is to occupy.
 
-**3.**[^key-eae576b3f948140ff5f5b63d1e88dcd4] A detailed plan for the education or training of the child or young person.
+**3.**[^c-eae576b3f948140ff5f5b63d1e88dcd4] A detailed plan for the education or training of the child or young person.
 
-**4.**[^key-93c7640b02ad4c98846ae69a26db877b] How the responsible authority will assist the child or young person in relation to employment or other purposeful activity or occupation.
+**4.**[^c-93c7640b02ad4c98846ae69a26db877b] How the responsible authority will assist the child or young person in relation to employment or other purposeful activity or occupation.
 
-**5.**[^key-3a4059c129326b79ca1163729e80e2e0] The support to be provided to enable the child or young person to develop and sustain appropriate family and social relationships.
+**5.**[^c-3a4059c129326b79ca1163729e80e2e0] The support to be provided to enable the child or young person to develop and sustain appropriate family and social relationships.
 
-**6.**[^key-bffcb55ca93af08e57a1967e077ae84d] A programme to develop the practical and other skills necessary for the child or young person to live independently.
+**6.**[^c-bffcb55ca93af08e57a1967e077ae84d] A programme to develop the practical and other skills necessary for the child or young person to live independently.
 
-**7.**[^key-3d5e12db2f6344af8bc1af0a14f112a9] The financial support to be provided to the child or young person, in particular where it is to be provided to meet his accommodation and maintenance needs.
+**7.**[^c-3d5e12db2f6344af8bc1af0a14f112a9] The financial support to be provided to the child or young person, in particular where it is to be provided to meet his accommodation and maintenance needs.
 
-**8.**[^key-82a402065c7000e9a7e76910c83d3632] The health needs, including any mental health needs, of the child or young person, and how they are to be met.
+**8.**[^c-82a402065c7000e9a7e76910c83d3632] The health needs, including any mental health needs, of the child or young person, and how they are to be met.
 
-**9.**[^key-b83f54a1ef9e2bb6ef14fce507bfdc9a] Contingency plans for action to be taken by the responsible authority should the pathway plan for any reason cease to be effective.
+**9.**[^c-b83f54a1ef9e2bb6ef14fce507bfdc9a] Contingency plans for action to be taken by the responsible authority should the pathway plan for any reason cease to be effective.
 
 (This note is not part of the Regulations.)
 
@@ -302,7 +302,7 @@ Regulation 11 prescribes the functions of a personal adviser. Regulation 12 amen
 
 [^f00002]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) – Article 34A is inserted by section 1 of the Children (Leaving Care) Act (Northern Ireland) [2002 (c. 11 (N.I.))](https://www.legislation.gov.uk/nia/2002/11) (“the 2002 Act”); Articles 34B and 34C are inserted by section 2 of the 2002 Act; Articles 34E and 34F are inserted by section 3 of the 2002 Act, Article 35B is inserted by section 4 of the 2002 Act and Article 35D is inserted by section 5 of the 2002 Act
 
-[^key-d44c3471daee51b6e1739c8fedd8660b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/221/regulation/1) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-d44c3471daee51b6e1739c8fedd8660b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/221/regulation/1) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) – definition inserted by paragraph 2 of Schedule 1 to [S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)
 
@@ -312,9 +312,9 @@ Regulation 11 prescribes the functions of a personal adviser. Regulation 12 amen
 
 [^f00006]: Footnote: *See* Article 34D of the Order for the meaning of “former relevant child”
 
-[^key-6cff89baa157b876e7ee055d42d82c7b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/221/regulation/2) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-6cff89baa157b876e7ee055d42d82c7b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/221/regulation/2) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-54fe3a46d9aa8f8f0d4de354097aef42]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/221/regulation/3) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-54fe3a46d9aa8f8f0d4de354097aef42]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/221/regulation/3) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
 [^f00007]: Footnote: A “care order” is defined in Article 2(2) of the Order by reference to Article 49(1) of the Order
 
@@ -326,11 +326,11 @@ Regulation 11 prescribes the functions of a personal adviser. Regulation 12 amen
 
 [^f00011]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
-[^key-65654f548a5134c2d06856fae5e5f86f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/221/regulation/4) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-65654f548a5134c2d06856fae5e5f86f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/221/regulation/4) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-23b75568023a1767137ae43eb7e8ba2f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/221/regulation/5) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-23b75568023a1767137ae43eb7e8ba2f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/221/regulation/5) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-3841079aa5b5ea391339e1abf3d3f6bb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/221/regulation/6) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-3841079aa5b5ea391339e1abf3d3f6bb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/221/regulation/6) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
 [^f00012]: Footnote: “health” and “development” are defined in Article 2(2) of [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
@@ -338,40 +338,40 @@ Regulation 11 prescribes the functions of a personal adviser. Regulation 12 amen
 
 [^f00014]: Footnote: Personal advisers are provided for in Articles 34A(10), 34C(2), 34D(3)(a) and 34E of [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-d45f79183dc2f7f8b19eaf4ba2e3efb4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/221/regulation/7) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-d45f79183dc2f7f8b19eaf4ba2e3efb4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/221/regulation/7) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-afb853d7f9e8f8049ef963da91ad1bef]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/221/regulation/8) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-afb853d7f9e8f8049ef963da91ad1bef]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/221/regulation/8) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-e71cb50a443213c6c0afa83648bfe3be]: Textual amendment: Words in [reg. 8(2)(c)](https://www.legislation.gov.uk/nisr/2005/221/regulation/8/2/c) substituted (temp.) (7.5.2020) by virtue of [The Children's Social Care (Coronavirus) (Temporary Modification of Children's Social Care) Regulations (Northern Ireland) 2020 (S.R. 2020/78)](https://www.legislation.gov.uk/nisr/2020/78), [regs. 1](https://www.legislation.gov.uk/nisr/2020/78/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/78/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/nisr/2020/78/regulation/10))
+[^c-e71cb50a443213c6c0afa83648bfe3be]: Textual amendment: Words in [reg. 8(2)(c)](https://www.legislation.gov.uk/nisr/2005/221/regulation/8/2/c) substituted (temp.) (7.5.2020) by virtue of [The Children's Social Care (Coronavirus) (Temporary Modification of Children's Social Care) Regulations (Northern Ireland) 2020 (S.R. 2020/78)](https://www.legislation.gov.uk/nisr/2020/78), [regs. 1](https://www.legislation.gov.uk/nisr/2020/78/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/78/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/nisr/2020/78/regulation/10))
 
-[^key-421ac3c53e3a6a9878892a9f1e1ed7d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/221/regulation/9) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-421ac3c53e3a6a9878892a9f1e1ed7d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/221/regulation/9) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-70d96c019ae596eef20122f710248a67]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/221/regulation/10) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-70d96c019ae596eef20122f710248a67]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/221/regulation/10) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
 
-[^key-2d091c45f80a1e71fc09894e577f0bc6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/221/regulation/11) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-2d091c45f80a1e71fc09894e577f0bc6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/221/regulation/11) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
 [^f00016]: Footnote: In addition the responsible authority may see fit to arrange for the personal adviser to act on its behalf in the provision of other services pursuant to Article 18(5)(b) of [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-2c34744df2fe4b3df3750a77139fad50]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/221/regulation/12) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-2c34744df2fe4b3df3750a77139fad50]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/221/regulation/12) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1996 No. 451](https://www.legislation.gov.uk/nisr/1996/451)
 
-[^key-82ad34b2a7f32c98d1d9b9cb7755cbe3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/1) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-82ad34b2a7f32c98d1d9b9cb7755cbe3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/1) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-4c99745d8bd59d6eef7cdc33592900b5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/2) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-4c99745d8bd59d6eef7cdc33592900b5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/2) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-eae576b3f948140ff5f5b63d1e88dcd4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/3) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-eae576b3f948140ff5f5b63d1e88dcd4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/3) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-93c7640b02ad4c98846ae69a26db877b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/4) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-93c7640b02ad4c98846ae69a26db877b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/4) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-3a4059c129326b79ca1163729e80e2e0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/5) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-3a4059c129326b79ca1163729e80e2e0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/5) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-bffcb55ca93af08e57a1967e077ae84d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/6) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-bffcb55ca93af08e57a1967e077ae84d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/6) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-3d5e12db2f6344af8bc1af0a14f112a9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/7) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-3d5e12db2f6344af8bc1af0a14f112a9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/7) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-82a402065c7000e9a7e76910c83d3632]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/8) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-82a402065c7000e9a7e76910c83d3632]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/8) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
 
-[^key-b83f54a1ef9e2bb6ef14fce507bfdc9a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/9) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)
+[^c-b83f54a1ef9e2bb6ef14fce507bfdc9a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2005/221/schedule/paragraph/9) in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/221/regulation/1/1)

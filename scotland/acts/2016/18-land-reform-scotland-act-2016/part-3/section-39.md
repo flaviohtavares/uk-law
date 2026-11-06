@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Information about persons with controlling interests in owners and tenants of land[^key-7128119a4ddb51a63bba70e38ca4938f][^key-6cae72333db42ee510da72252effe78a]
+## 39. Information about persons with controlling interests in owners and tenants of land[^c-7128119a4ddb51a63bba70e38ca4938f][^c-6cae72333db42ee510da72252effe78a]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7128119a4ddb51a63bba70e38ca4938f]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/18/section/39) in force at 17.5.2018 for specified purposes by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 2](https://www.legislation.gov.uk/ssi/2018/138/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2018/138/schedule/1)
+[^c-7128119a4ddb51a63bba70e38ca4938f]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/18/section/39) in force at 17.5.2018 for specified purposes by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 2](https://www.legislation.gov.uk/ssi/2018/138/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2018/138/schedule/1)
 
-[^key-6cae72333db42ee510da72252effe78a]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/18/section/39) in force at 16.12.2020 in so far as not already in force by [S.S.I. 2020/383](https://www.legislation.gov.uk/ssi/2020/383), [reg. 2](https://www.legislation.gov.uk/ssi/2020/383/regulation/2)
+[^c-6cae72333db42ee510da72252effe78a]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/18/section/39) in force at 16.12.2020 in so far as not already in force by [S.S.I. 2020/383](https://www.legislation.gov.uk/ssi/2020/383), [reg. 2](https://www.legislation.gov.uk/ssi/2020/383/regulation/2)

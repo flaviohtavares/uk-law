@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-3ed352deefa6d6bc6aa3049a67224537]
+## 2. Interpretation[^c-3ed352deefa6d6bc6aa3049a67224537]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**Cadent**” means Cadent Gas Limited (company number 10080864) whose registered office is at Ashbrook Court Prologis Park, Central Boulevard, Coventry CV7 8PE;
 - “**carriageway**” has the same meaning as in the 1980 Act;
-- “**CEMP**” means the construction environmental management plan to be prepared and approved pursuant to requirement 4 (construction environmental management plan)[^key-9844c886d2fe8b147c7f4f5735abea4d] of Schedule 2 (requirements);
+- “**CEMP**” means the construction environmental management plan to be prepared and approved pursuant to requirement 4 (construction environmental management plan)[^c-9844c886d2fe8b147c7f4f5735abea4d] of Schedule 2 (requirements);
 - “**commence**” means beginning to carry out any material operation (as defined in section 56(4)[^f00019] of the 1990 Act) forming part of the authorised development other than operations consisting of archaeological surveys and evaluations, ecological surveys, installation of amphibian fencing and pre-construction ecological mitigation under licenses, investigations for the purpose of assessing and monitoring ground conditions and levels, remedial work in respect of any contamination or other adverse ground conditions, erection of any temporary means of enclosure, receipt and erection of construction plant and equipment, site clearance in connection with Work No. 29 and the establishment of construction compounds, and the temporary display of site notices or information, provided that any such operation would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement and “**commencement**” is to be construed accordingly;
 - “**cycle track**” has the same meaning as in the 1980 Act[^f00020];
 - “**electronic transmission**” means a communication transmitted—
@@ -105,7 +105,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3ed352deefa6d6bc6aa3049a67224537]: Commencement: Art. 2 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-3ed352deefa6d6bc6aa3049a67224537]: Commencement: Art. 2 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -123,7 +123,7 @@ summary: ''
 
 [^f00018]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-9844c886d2fe8b147c7f4f5735abea4d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/573/article/2) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-9844c886d2fe8b147c7f4f5735abea4d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/573/article/2) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
 
 [^f00019]: Footnote: Section 56(4) was amended by section 32 of, and paragraph 10(2) of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 

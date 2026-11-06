@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Services complaints: special provision for complaints against unregulated persons[^key-41fb4ded8fc0552a3c34a668a5337324]
+## 61. Services complaints: special provision for complaints against unregulated persons[^c-41fb4ded8fc0552a3c34a668a5337324]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41fb4ded8fc0552a3c34a668a5337324]: Commencement: S. 61 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-41fb4ded8fc0552a3c34a668a5337324]: Commencement: S. 61 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

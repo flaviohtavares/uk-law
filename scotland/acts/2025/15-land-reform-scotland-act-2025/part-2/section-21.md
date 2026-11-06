@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Resumption in respect of limited duration tenancies and repairing tenancies[^key-8703e025348fff6dce68677bace3fd22]
+## 21. Resumption in respect of limited duration tenancies and repairing tenancies[^c-8703e025348fff6dce68677bace3fd22]
 
 *Extent: S*
 
@@ -300,4 +300,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8703e025348fff6dce68677bace3fd22]: Commencement: S. 21 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8703e025348fff6dce68677bace3fd22]: Commencement: S. 21 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

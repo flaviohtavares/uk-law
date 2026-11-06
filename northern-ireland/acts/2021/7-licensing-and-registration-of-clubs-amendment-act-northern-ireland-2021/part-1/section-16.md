@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Delivery of intoxicating liquor to young persons[^key-ebe2457a8a206fb474806339d45e74b5][^key-586fde862b11375fc61ba3e9d99e5b5e]
+## 16. Delivery of intoxicating liquor to young persons[^c-ebe2457a8a206fb474806339d45e74b5][^c-586fde862b11375fc61ba3e9d99e5b5e]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe2457a8a206fb474806339d45e74b5]: Commencement: S. 16 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-ebe2457a8a206fb474806339d45e74b5]: Commencement: S. 16 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-586fde862b11375fc61ba3e9d99e5b5e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/7/section/16) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-586fde862b11375fc61ba3e9d99e5b5e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/7/section/16) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

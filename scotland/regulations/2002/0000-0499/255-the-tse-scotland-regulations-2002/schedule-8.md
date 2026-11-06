@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 8 — CONSEQUENTIAL AMENDMENTS[^key-277923e7f1e12feba1efa3351dee1ba7]
+## SCHEDULE 8 — CONSEQUENTIAL AMENDMENTS[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 *Extent: S*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulation 101
 
-### Part I — Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^key-277923e7f1e12feba1efa3351dee1ba7]
+### Part I — Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^c-277923e7f1e12feba1efa3351dee1ba7]
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part II — Amendments to the Specified Risk Material Order 1997[^key-277923e7f1e12feba1efa3351dee1ba7]
-
-**1.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part III — Amendment to the Cattle Identification Regulations 1998[^key-277923e7f1e12feba1efa3351dee1ba7]
-
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-277923e7f1e12feba1efa3351dee1ba7]
+### Part II — Amendments to the Specified Risk Material Order 1997[^c-277923e7f1e12feba1efa3351dee1ba7]
 
-[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part V — Amendment to the Feeding Stuffs (Scotland) Order 2000[^key-277923e7f1e12feba1efa3351dee1ba7]
+**4.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+### Part III — Amendment to the Cattle Identification Regulations 1998[^c-277923e7f1e12feba1efa3351dee1ba7]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part VI — Amendment to the Cattle (Identification of Older Animals) (Scotland) Regulations 2001[^key-277923e7f1e12feba1efa3351dee1ba7]
-
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part VII — Amendment to the Rendering (Fluid Treatment) (Scotland) Order 2001[^key-277923e7f1e12feba1efa3351dee1ba7]
+### ...[^c-277923e7f1e12feba1efa3351dee1ba7]
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part V — Amendment to the Feeding Stuffs (Scotland) Order 2000[^c-277923e7f1e12feba1efa3351dee1ba7]
+
+[^c-277923e7f1e12feba1efa3351dee1ba7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part VI — Amendment to the Cattle (Identification of Older Animals) (Scotland) Regulations 2001[^c-277923e7f1e12feba1efa3351dee1ba7]
+
+[^c-277923e7f1e12feba1efa3351dee1ba7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part VII — Amendment to the Rendering (Fluid Treatment) (Scotland) Order 2001[^c-277923e7f1e12feba1efa3351dee1ba7]
+
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-277923e7f1e12feba1efa3351dee1ba7]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

@@ -84,21 +84,21 @@ Section 24
 
 ### Stopping and searching persons: general[^M_F_a60d608a-7d6e-401a-c63f-0e297b24d4e2]
 
-**4.** (1) A member of Her Majesty's forces who is on duty[^key-9af224a30c0130f54ce17f3539792283] may—
+**4.** (1) A member of Her Majesty's forces who is on duty[^c-9af224a30c0130f54ce17f3539792283] may—
 
 - (a) stop a person in a public place, and
 - (b) search him for the purpose of ascertaining whether he has munitions unlawfully with him or wireless apparatus with him.
 
-(2) An member of Her Majesty's forces who is on duty[^key-c4894e29213784c64e2b8ad1a67b8825] may search a person—
+(2) An member of Her Majesty's forces who is on duty[^c-c4894e29213784c64e2b8ad1a67b8825] may search a person—
 
 - (a) who is not in a public place, and
-- (b) whom the member concerned[^key-113a51508f67ff9f0ec2672e06718a56] reasonably suspects to have munitions unlawfully with him or to have wireless apparatus with him.
+- (b) whom the member concerned[^c-113a51508f67ff9f0ec2672e06718a56] reasonably suspects to have munitions unlawfully with him or to have wireless apparatus with him.
 
 (3) A member of Her Majesty's forces may search a person entering or found in a dwelling entered under paragraph 2.
 
-(4)[^key-f47eae60b95c2b1c691b6335dff3d4fb] A constable may search a person (whether or not that person is in a public place) whom the constable reasonably suspects to have munitions unlawfully with him or to have wireless apparatus with him.
+(4)[^c-f47eae60b95c2b1c691b6335dff3d4fb] A constable may search a person (whether or not that person is in a public place) whom the constable reasonably suspects to have munitions unlawfully with him or to have wireless apparatus with him.
 
-### Stopping and searching persons in specified locations[^key-b70cc4fc0407829e595e46607e8fe726]
+### Stopping and searching persons in specified locations[^c-b70cc4fc0407829e595e46607e8fe726]
 
 **4A.** (1) A senior officer may give an authorisation under this paragraph in relation to a specified area or place if the officer—
 
@@ -252,7 +252,7 @@ is challenged on judicial review or in any other legal proceedings.
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months, to a fine not exceeding the statutory maximum or to both.
 
-**9.** (1) A person commits an offence if he fails to stop when required to do so under paragraph 4 or by virtue of paragraph 4A[^key-a5a8a95e17457a3e126aef9956f37d24].
+**9.** (1) A person commits an offence if he fails to stop when required to do so under paragraph 4 or by virtue of paragraph 4A[^c-a5a8a95e17457a3e126aef9956f37d24].
 
 (2) A person guilty of an offence under this paragraph shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -260,14 +260,14 @@ is challenged on judicial review or in any other legal proceedings.
 
 [^M_F_a60d608a-7d6e-401a-c63f-0e297b24d4e2]: Textual amendment: Words in Sch. 3 para. 4 cross-heading inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/3/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-9af224a30c0130f54ce17f3539792283]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-9af224a30c0130f54ce17f3539792283]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-c4894e29213784c64e2b8ad1a67b8825]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/3/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-c4894e29213784c64e2b8ad1a67b8825]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/3/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-113a51508f67ff9f0ec2672e06718a56]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/3/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-113a51508f67ff9f0ec2672e06718a56]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/3/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-f47eae60b95c2b1c691b6335dff3d4fb]: Textual amendment: Sch. 3 para. 4(4) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-f47eae60b95c2b1c691b6335dff3d4fb]: Textual amendment: Sch. 3 para. 4(4) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 1(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-b70cc4fc0407829e595e46607e8fe726]: Textual amendment: [Sch. 3 paras. 4A-4I](https://www.legislation.gov.uk/ukpga/2007/6/schedule/3) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-b70cc4fc0407829e595e46607e8fe726]: Textual amendment: [Sch. 3 paras. 4A-4I](https://www.legislation.gov.uk/ukpga/2007/6/schedule/3) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-a5a8a95e17457a3e126aef9956f37d24]: Textual amendment: Words in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/ukpga/2007/6/schedule/3/paragraph/9/1) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-a5a8a95e17457a3e126aef9956f37d24]: Textual amendment: Words in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/ukpga/2007/6/schedule/3/paragraph/9/1) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)

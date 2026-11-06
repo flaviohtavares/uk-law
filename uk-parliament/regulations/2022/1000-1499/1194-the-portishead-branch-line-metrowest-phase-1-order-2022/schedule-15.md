@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Amendment of Local Legislation[^key-71f70538200791293ae8c2a48289bfd9]
+## SCHEDULE 15 — Amendment of Local Legislation[^c-71f70538200791293ae8c2a48289bfd9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Byelaws
 
 ## Annotations
 
-[^key-71f70538200791293ae8c2a48289bfd9]: Commencement: Sch. 15 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-71f70538200791293ae8c2a48289bfd9]: Commencement: Sch. 15 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

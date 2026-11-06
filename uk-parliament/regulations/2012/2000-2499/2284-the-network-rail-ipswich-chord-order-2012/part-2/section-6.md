@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Maintenance of authorised project[^key-ad94df74d6a05534427dfc42bff975c2]
+## 6. Maintenance of authorised project[^c-ad94df74d6a05534427dfc42bff975c2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Network Rail may at any time maintain the authorised project, except to the exte
 
 ## Annotations
 
-[^key-ad94df74d6a05534427dfc42bff975c2]: Commencement: Art. 6 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-ad94df74d6a05534427dfc42bff975c2]: Commencement: Art. 6 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

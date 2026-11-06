@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Abolition of the QCDA: transfer schemes[^key-be25168407911435dda5f81a1f52b3cd]
+## 27. Abolition of the QCDA: transfer schemes[^c-be25168407911435dda5f81a1f52b3cd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (schemes for the transfer of staff, property, rights and liabilities 
 
 ## Annotations
 
-[^key-be25168407911435dda5f81a1f52b3cd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/21/section/27) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))
+[^c-be25168407911435dda5f81a1f52b3cd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/21/section/27) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2012/924/article/4), [5](https://www.legislation.gov.uk/uksi/2012/924/article/5))

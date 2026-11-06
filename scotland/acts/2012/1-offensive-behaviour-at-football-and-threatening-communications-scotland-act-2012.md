@@ -32,72 +32,72 @@ Offensive Behaviour at Football and Threatening Communications (Scotland) Act 20
 
 2012 asp 1
 
-[^key-8ec5250360a90788e67de79195aa8c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ec5250360a90788e67de79195aa8c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Offensive behaviour at regulated football matches[^key-8ec5250360a90788e67de79195aa8c21]
+## Offensive behaviour at regulated football matches[^c-8ec5250360a90788e67de79195aa8c21]
 
-### 1. Offensive behaviour at regulated football matches[^key-8ec5250360a90788e67de79195aa8c21]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Regulated football match: definition and meaning of behaviour “in relation to” match[^key-8ec5250360a90788e67de79195aa8c21]
+### 1. Offensive behaviour at regulated football matches[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Fixed penalties[^key-8ec5250360a90788e67de79195aa8c21]
+### 2. Regulated football match: definition and meaning of behaviour “in relation to” match[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Sections 1 and 2: interpretation[^key-8ec5250360a90788e67de79195aa8c21]
+### 3. Fixed penalties[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Power to modify sections 1 and 4[^key-8ec5250360a90788e67de79195aa8c21]
+### 4. Sections 1 and 2: interpretation[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Threatening communications[^key-8ec5250360a90788e67de79195aa8c21]
-
-### 6. Threatening communications[^key-8ec5250360a90788e67de79195aa8c21]
+### 5. Power to modify sections 1 and 4[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Protection of freedom of expression[^key-8ec5250360a90788e67de79195aa8c21]
+## Threatening communications[^c-8ec5250360a90788e67de79195aa8c21]
+
+### 6. Threatening communications[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Section 6: interpretation[^key-8ec5250360a90788e67de79195aa8c21]
+### 7. Protection of freedom of expression[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Power to modify sections 6(5)(b) and 8[^key-8ec5250360a90788e67de79195aa8c21]
+### 8. Section 6: interpretation[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Offences outside Scotland[^key-8ec5250360a90788e67de79195aa8c21]
-
-### 10. Sections 1(1) and 6(1): offences outside Scotland[^key-8ec5250360a90788e67de79195aa8c21]
+### 9. Power to modify sections 6(5)(b) and 8[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Report on operation of offences[^key-8ec5250360a90788e67de79195aa8c21]
+## Offences outside Scotland[^c-8ec5250360a90788e67de79195aa8c21]
 
-### 11. Report on operation of offences[^key-8ec5250360a90788e67de79195aa8c21]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Commencement and short title[^key-8ec5250360a90788e67de79195aa8c21]
-
-### 12. Commencement[^key-8ec5250360a90788e67de79195aa8c21]
+### 10. Sections 1(1) and 6(1): offences outside Scotland[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Short title[^key-8ec5250360a90788e67de79195aa8c21]
+## Report on operation of offences[^c-8ec5250360a90788e67de79195aa8c21]
+
+### 11. Report on operation of offences[^c-8ec5250360a90788e67de79195aa8c21]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Commencement and short title[^c-8ec5250360a90788e67de79195aa8c21]
+
+### 12. Commencement[^c-8ec5250360a90788e67de79195aa8c21]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Short title[^c-8ec5250360a90788e67de79195aa8c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ec5250360a90788e67de79195aa8c21]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2012/1) repealed (20.4.2018) by [Offensive Behaviour at Football and Threatening Communications (Repeal) (Scotland) Act 2018 (asp 7)](https://www.legislation.gov.uk/asp/2018/7), [s. 1](https://www.legislation.gov.uk/asp/2018/7/section/1) (with [s. 3](https://www.legislation.gov.uk/asp/2018/7/section/3))
+[^c-8ec5250360a90788e67de79195aa8c21]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2012/1) repealed (20.4.2018) by [Offensive Behaviour at Football and Threatening Communications (Repeal) (Scotland) Act 2018 (asp 7)](https://www.legislation.gov.uk/asp/2018/7), [s. 1](https://www.legislation.gov.uk/asp/2018/7/section/1) (with [s. 3](https://www.legislation.gov.uk/asp/2018/7/section/3))

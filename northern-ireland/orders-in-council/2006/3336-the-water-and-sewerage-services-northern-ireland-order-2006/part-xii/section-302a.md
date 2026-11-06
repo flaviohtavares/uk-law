@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 302A. Transitional provisions (Environmental Better Regulation Act (Northern Ireland) 2016)[^key-a009a4dd7d87ef072571f2c2c058bb38]
+## 302A. Transitional provisions (Environmental Better Regulation Act (Northern Ireland) 2016)[^c-a009a4dd7d87ef072571f2c2c058bb38]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a009a4dd7d87ef072571f2c2c058bb38]: Textual amendment: Art. 302A inserted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 23](https://www.legislation.gov.uk/nia/2016/13/section/23), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1)
+[^c-a009a4dd7d87ef072571f2c2c058bb38]: Textual amendment: Art. 302A inserted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 23](https://www.legislation.gov.uk/nia/2016/13/section/23), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1)

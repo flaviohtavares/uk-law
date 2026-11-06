@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Objective 2: keeping social housing in the regulated sector[^key-d99354f6bb1c336f3c0d7b8a3d802449]
+## 98. Objective 2: keeping social housing in the regulated sector[^c-d99354f6bb1c336f3c0d7b8a3d802449]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99354f6bb1c336f3c0d7b8a3d802449]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2016/22/section/98) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-d99354f6bb1c336f3c0d7b8a3d802449]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2016/22/section/98) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

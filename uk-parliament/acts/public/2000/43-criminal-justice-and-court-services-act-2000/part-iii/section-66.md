@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendments of the Sex Offenders Act 1997.[^key-95f62ec5093d5bd8f57075cf547b0089]
+## 66. Amendments of the Sex Offenders Act 1997.[^c-95f62ec5093d5bd8f57075cf547b0089]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95f62ec5093d5bd8f57075cf547b0089]: Textual amendment: S. 66 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 44(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/44/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-95f62ec5093d5bd8f57075cf547b0089]: Textual amendment: S. 66 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 44(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/44/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)

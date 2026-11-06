@@ -24,7 +24,7 @@ summary: ''
 
 ### PART 1 — AMENDMENTS RELATING TO CO-ORDINATION OF ELECTORAL ARRANGEMENTS
 
-#### 1. [Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4)[^key-7c6b4da35edd03c717e0f24edd6055d1][^key-d52b7e3a7dccb9ae8101b23edd5dbacc]
+#### 1. [Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4)[^c-7c6b4da35edd03c717e0f24edd6055d1][^c-d52b7e3a7dccb9ae8101b23edd5dbacc]
 
 (1) The 2013 Act is amended as follows—
 
@@ -94,13 +94,13 @@ summary: ''
 > | --- | --- |
 > | Welsh elections and referendums (*Etholiadau a refferenda Cymreig*) | section 20A(4) |
 
-#### 2. [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4)[^key-53f489631518df54a84bc8170fcbf9aa][^key-0ca368f4673a96853f87761b4a3020a6]
+#### 2. [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4)[^c-53f489631518df54a84bc8170fcbf9aa][^c-0ca368f4673a96853f87761b4a3020a6]
 
 In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 2024 (new Part 3A of the 2013 Act), omit sub-paragraph (4).
 
 ### PART 2 — AMENDMENTS RELATING TO WELSH ELECTIONS PILOTING AND REFORM
 
-#### 3. Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2)[^key-b92c66fa962e59deb234bb7e46d574e3]
+#### 3. Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2)[^c-b92c66fa962e59deb234bb7e46d574e3]
 
 (1) The Representation of the People Act 2000 is amended as follows.
 
@@ -115,7 +115,7 @@ In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 202
 - (b) in subsection (2), in paragraph (b), omit “and Wales”;
 - (c) omit subsection (6A).
 
-#### 4. Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22)[^key-e844750681a52af95510d3f95ec86888]
+#### 4. Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22)[^c-e844750681a52af95510d3f95ec86888]
 
 (1) The Electoral Administration Act 2006 is amended as follows.
 
@@ -123,7 +123,7 @@ In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 202
 
 (3) In section 34(1)(b) (revision of electoral provisions in the light of pilot schemes), omit “and Wales”.
 
-#### 5. Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6)[^key-17211d4459c52ddbcfe0bad5d9b9ef03]
+#### 5. Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6)[^c-17211d4459c52ddbcfe0bad5d9b9ef03]
 
 (1) The Electoral Registration and Administration Act 2013 is amended as follows.
 
@@ -139,7 +139,7 @@ In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 202
 
 ### PART 3 — AMENDMENTS RELATING TO CAMPAIGN FINANCE
 
-#### 6. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^key-e12d86ce137ad00f8876417d8764548d][^key-3853f4db606d43d290ff9ea213a3c7de]
+#### 6. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^c-e12d86ce137ad00f8876417d8764548d][^c-3853f4db606d43d290ff9ea213a3c7de]
 
 (1) The 2000 Act is amended as follows.
 
@@ -181,7 +181,7 @@ In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 202
 
 ### PART 4 — AMENDMENTS RELATING TO REMUNERATION OF PUBLIC AUTHORITY MEMBERS
 
-#### 7. Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70)[^key-aa905d0fc5c924a4f470e19524a4b47c][^key-20551043047b9a08a903ecfadf780216]
+#### 7. Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70)[^c-aa905d0fc5c924a4f470e19524a4b47c][^c-20551043047b9a08a903ecfadf780216]
 
 (1) The Local Government Act 1972 is amended as follows.
 
@@ -191,11 +191,11 @@ In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act 202
 
 (4) In section 249(4)(b) (allowance not payable to honorary aldermen) for “Part 8 of the Local Government (Wales) Measure 2011” substitute “Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013”.
 
-#### 8. Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^key-f627eaea15234a3ff93d4e4851c8ea21][^key-f726e5d34bb9438d2e12edbd46603822]
+#### 8. Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^c-f627eaea15234a3ff93d4e4851c8ea21][^c-f726e5d34bb9438d2e12edbd46603822]
 
 In section 18(3A)(b) of the Local Government and Housing Act 1989 (power to make regulations on gratuities and payments relating to relevant matters), for “Part 8 of the Local Government (Wales) Measure 2011” substitute “Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013”.
 
-#### 9. School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)[^key-5ce491de99b6d56f419a1437e89af2f9][^key-812d758d2c79f39e2cde45c1c68fd96b]
+#### 9. School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)[^c-5ce491de99b6d56f419a1437e89af2f9][^c-812d758d2c79f39e2cde45c1c68fd96b]
 
 (1) The School Standards and Framework Act 1998 is amended as follows.
 
@@ -203,19 +203,19 @@ In section 18(3A)(b) of the Local Government and Housing Act 1989 (power to make
 
 (3) In section 95(3B) (power to apply payments and pensions provisions to appeal panel members), for “Part 8 of the Local Government (Wales) Measure 2011” substitute “Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013”.
 
-#### 10. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^key-f33d31403f77133b009bd1b04ce0f7ac][^key-e50f5b617d44ee4f7191cbaef31cf6ce]
+#### 10. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^c-f33d31403f77133b009bd1b04ce0f7ac][^c-e50f5b617d44ee4f7191cbaef31cf6ce]
 
 In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general), omit “The Independent Remuneration Panel for Wales.”.
 
-#### 11. Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32)[^key-0f532ab25ed65fdfa460e6abe47ba342][^key-b9d54e571dc3936245ef7f71810d94ed]
+#### 11. Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32)[^c-0f532ab25ed65fdfa460e6abe47ba342][^c-b9d54e571dc3936245ef7f71810d94ed]
 
 In section 52(6) of the Education Act 2002 (power to apply payments and pensions provisions to panels dealing with pupil exclusion), for “Part 8 of the Local Government (Wales) Measure 2011” substitute “Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013”.
 
-#### 12. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-ddc2f116fef1ed0601907a4322f69a93][^key-21e189865ef4a89e0ebc7c674bc908b1]
+#### 12. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-ddc2f116fef1ed0601907a4322f69a93][^c-21e189865ef4a89e0ebc7c674bc908b1]
 
 In Schedule 1A to the Government of Wales Act 2006 (disqualification), in the table, omit “Independent Remuneration Panel for Wales or Panel Annibynnol Cymru ar Gydnabyddiaeth Ariannol” from the first column and “The members of the Panel” from the corresponding entry in the second column.
 
-#### 13. [Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4)[^key-8eb09ead8ca06b7d7c89637e45cd0bc0][^key-23cba8816a1ccd03c6cf89c838deaa4d]
+#### 13. [Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4)[^c-8eb09ead8ca06b7d7c89637e45cd0bc0][^c-23cba8816a1ccd03c6cf89c838deaa4d]
 
 (1) The Democracy and Boundary Commission Cymru etc. Act 2013 is amended as follows.
 
@@ -262,14 +262,14 @@ In Schedule 1A to the Government of Wales Act 2006 (disqualification), in the ta
 > | --- | --- |
 > | Supplementary remuneration report (*Adroddiad atodol ar dâl*) | Section 69F |
 
-#### 14. [Local Government (Wales) Act 2015 (anaw 6)](https://www.legislation.gov.uk/anaw/2015/6)[^key-e6a334b0370710e89c4b95d46a3555fb][^key-83586828805d821fbf563f975a92b519]
+#### 14. [Local Government (Wales) Act 2015 (anaw 6)](https://www.legislation.gov.uk/anaw/2015/6)[^c-e6a334b0370710e89c4b95d46a3555fb][^c-83586828805d821fbf563f975a92b519]
 
 In the Local Government (Wales) Act 2015—
 
 - (a) in section 1(2) (overview), omit paragraphs (b) and (c);
 - (b) omit sections 40 (changes to duty to have regard to Panel recommendations about salaries) and 41 (Panel membership).
 
-#### 15. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^key-9ec6ca0b62d9ac7ebb17c378dcc7d644][^key-dc4c672931ec195c429bf83bef1f4481]
+#### 15. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^c-9ec6ca0b62d9ac7ebb17c378dcc7d644][^c-dc4c672931ec195c429bf83bef1f4481]
 
 (1) The Local Government and Elections (Wales) Act 2021 is amended as follows.
 
@@ -327,56 +327,56 @@ In the Local Government (Wales) Act 2015—
 
 ## Annotations
 
-[^key-7c6b4da35edd03c717e0f24edd6055d1]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-7c6b4da35edd03c717e0f24edd6055d1]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-d52b7e3a7dccb9ae8101b23edd5dbacc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-d52b7e3a7dccb9ae8101b23edd5dbacc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
 
-[^key-53f489631518df54a84bc8170fcbf9aa]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-53f489631518df54a84bc8170fcbf9aa]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-0ca368f4673a96853f87761b4a3020a6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/2) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-0ca368f4673a96853f87761b4a3020a6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/2) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
 
-[^key-b92c66fa962e59deb234bb7e46d574e3]: Commencement: Sch. 1 para. 3 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-b92c66fa962e59deb234bb7e46d574e3]: Commencement: Sch. 1 para. 3 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
 
-[^key-e844750681a52af95510d3f95ec86888]: Commencement: Sch. 1 para. 4 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-e844750681a52af95510d3f95ec86888]: Commencement: Sch. 1 para. 4 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
 
-[^key-17211d4459c52ddbcfe0bad5d9b9ef03]: Commencement: Sch. 1 para. 5 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-17211d4459c52ddbcfe0bad5d9b9ef03]: Commencement: Sch. 1 para. 5 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
 
-[^key-e12d86ce137ad00f8876417d8764548d]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-e12d86ce137ad00f8876417d8764548d]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-3853f4db606d43d290ff9ea213a3c7de]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/6) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(n)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/n)
+[^c-3853f4db606d43d290ff9ea213a3c7de]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/6) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(n)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/n)
 
-[^key-aa905d0fc5c924a4f470e19524a4b47c]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-aa905d0fc5c924a4f470e19524a4b47c]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-20551043047b9a08a903ecfadf780216]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/7) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-20551043047b9a08a903ecfadf780216]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/7) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-f627eaea15234a3ff93d4e4851c8ea21]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-f627eaea15234a3ff93d4e4851c8ea21]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-f726e5d34bb9438d2e12edbd46603822]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/8) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-f726e5d34bb9438d2e12edbd46603822]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/8) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-5ce491de99b6d56f419a1437e89af2f9]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-5ce491de99b6d56f419a1437e89af2f9]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-812d758d2c79f39e2cde45c1c68fd96b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/9) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-812d758d2c79f39e2cde45c1c68fd96b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/9) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-f33d31403f77133b009bd1b04ce0f7ac]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-f33d31403f77133b009bd1b04ce0f7ac]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-e50f5b617d44ee4f7191cbaef31cf6ce]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/10) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-e50f5b617d44ee4f7191cbaef31cf6ce]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/10) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-0f532ab25ed65fdfa460e6abe47ba342]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-0f532ab25ed65fdfa460e6abe47ba342]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-b9d54e571dc3936245ef7f71810d94ed]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/11) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-b9d54e571dc3936245ef7f71810d94ed]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/11) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-ddc2f116fef1ed0601907a4322f69a93]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-ddc2f116fef1ed0601907a4322f69a93]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-21e189865ef4a89e0ebc7c674bc908b1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/12) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-21e189865ef4a89e0ebc7c674bc908b1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/12) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-8eb09ead8ca06b7d7c89637e45cd0bc0]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-8eb09ead8ca06b7d7c89637e45cd0bc0]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-23cba8816a1ccd03c6cf89c838deaa4d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/13) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-23cba8816a1ccd03c6cf89c838deaa4d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/13) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-e6a334b0370710e89c4b95d46a3555fb]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-e6a334b0370710e89c4b95d46a3555fb]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-83586828805d821fbf563f975a92b519]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/14) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-83586828805d821fbf563f975a92b519]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/14) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-9ec6ca0b62d9ac7ebb17c378dcc7d644]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-9ec6ca0b62d9ac7ebb17c378dcc7d644]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-dc4c672931ec195c429bf83bef1f4481]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-dc4c672931ec195c429bf83bef1f4481]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)

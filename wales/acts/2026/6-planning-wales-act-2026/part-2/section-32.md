@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Review of plan[^key-0b3f6b9667b96ca2bed770ff6311b142]
+## 32. Review of plan[^c-0b3f6b9667b96ca2bed770ff6311b142]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3f6b9667b96ca2bed770ff6311b142]: Commencement: S. 32 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0b3f6b9667b96ca2bed770ff6311b142]: Commencement: S. 32 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a direction for forfeiture is issued under regulation 91 (forfeiture of pension rights after conviction for employment-related offences) the appropriate administering authority must transfer out of the member's pension account the benefits which are forfeited and pay the relevant Scheme employer an amount determined by an actuary as representing the capital value of those benefits[^key-3c05604eed2308aa26038cfc9b7e4856].
+(1) Where a direction for forfeiture is issued under regulation 91 (forfeiture of pension rights after conviction for employment-related offences) the appropriate administering authority must transfer out of the member's pension account the benefits which are forfeited and pay the relevant Scheme employer an amount determined by an actuary as representing the capital value of those benefits[^c-3c05604eed2308aa26038cfc9b7e4856].
 
 (2) Where an amount is recovered or retained under regulation 93 (recovery or retention where former member has misconduct obligation), the appropriate administering authority must transfer out of the member's pension account the amount recovered or retained and pay it to the relevant Scheme employer.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c05604eed2308aa26038cfc9b7e4856]: Textual amendment: Words in [reg. 94(1)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/94/1) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [26](https://www.legislation.gov.uk/uksi/2015/755/regulation/26)
+[^c-3c05604eed2308aa26038cfc9b7e4856]: Textual amendment: Words in [reg. 94(1)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/94/1) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [26](https://www.legislation.gov.uk/uksi/2015/755/regulation/26)

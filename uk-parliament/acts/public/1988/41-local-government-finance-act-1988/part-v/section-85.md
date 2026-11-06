@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Additional grant.[^key-b01c2167cc5b029135a486b2667f3ad5]
+## 85. Additional grant.[^c-b01c2167cc5b029135a486b2667f3ad5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b01c2167cc5b029135a486b2667f3ad5]: Textual amendment: S. 85, 86 and cross-heading omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/3/3)
+[^c-b01c2167cc5b029135a486b2667f3ad5]: Textual amendment: S. 85, 86 and cross-heading omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/3/3)

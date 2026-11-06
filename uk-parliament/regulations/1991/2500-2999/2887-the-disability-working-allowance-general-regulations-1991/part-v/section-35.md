@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Calculation of capital in the United Kingdom[^key-493a5089e41d366430be3d818334af8f]
+## 35. Calculation of capital in the United Kingdom[^c-493a5089e41d366430be3d818334af8f]
 
 *Extent: E+W+S*
 
 Capital which a claimant possesses in the United Kingdom shall be calculated—
 
-- (a) except in a case to which paragraph[^key-e23d99d4e434f3fe00b5676321841e17] (b) applies, at its current market or surrender value less—
+- (a) except in a case to which paragraph[^c-e23d99d4e434f3fe00b5676321841e17] (b) applies, at its current market or surrender value less—
   - (i) where there would be expenses attributable to sale, 10 per cent.; and
   - (ii) the amount of any incumbrance secured on it;
 - (b) in the case of a National Savings Certificate—
@@ -31,6 +31,6 @@ Capital which a claimant possesses in the United Kingdom shall be calculated—
 
 ## Annotations
 
-[^key-493a5089e41d366430be3d818334af8f]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1991/2887/regulation/35) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-493a5089e41d366430be3d818334af8f]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1991/2887/regulation/35) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-e23d99d4e434f3fe00b5676321841e17]: Textual amendment: Word in [reg. 35(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/35/a) substituted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/10)
+[^c-e23d99d4e434f3fe00b5676321841e17]: Textual amendment: Word in [reg. 35(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/35/a) substituted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/10)

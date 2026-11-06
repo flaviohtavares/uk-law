@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Form and content of company accounts[^key-388f83ede4fe9915adcea181b87fe0ae]
+## 32. Form and content of company accounts[^c-388f83ede4fe9915adcea181b87fe0ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ For paragraph 84 of Schedule 4 to the 1985 Act (form and content of company acco
 
 ## Annotations
 
-[^key-388f83ede4fe9915adcea181b87fe0ae]: Commencement: Art. 32 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-388f83ede4fe9915adcea181b87fe0ae]: Commencement: Art. 32 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00035]: Footnote: Amended by the Financial Services Act [1986 (c. 40)](https://www.legislation.gov.uk/ukpga/1986/40), Schedule 16, paragraph 23.

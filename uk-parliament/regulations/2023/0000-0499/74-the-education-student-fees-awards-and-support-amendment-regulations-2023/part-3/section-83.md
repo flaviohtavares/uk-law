@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016[^key-85429113fac1901975fb6fb45ea06902]
+## 83. Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016[^c-85429113fac1901975fb6fb45ea06902]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Education (Postgraduate Master’s Degree Loans) Regulations 2016[^f00069] a
 
 ## Annotations
 
-[^key-85429113fac1901975fb6fb45ea06902]: Commencement: Reg. 83 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-85429113fac1901975fb6fb45ea06902]: Commencement: Reg. 83 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00069]: Footnote: [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).

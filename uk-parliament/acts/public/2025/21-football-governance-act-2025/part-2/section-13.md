@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Guidance published by the Secretary of State[^key-c6c2b19f982ddee68e1ebe62d0344bdd]
+## 13. Guidance published by the Secretary of State[^c-c6c2b19f982ddee68e1ebe62d0344bdd]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6c2b19f982ddee68e1ebe62d0344bdd]: Commencement: S. 13 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-c6c2b19f982ddee68e1ebe62d0344bdd]: Commencement: S. 13 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

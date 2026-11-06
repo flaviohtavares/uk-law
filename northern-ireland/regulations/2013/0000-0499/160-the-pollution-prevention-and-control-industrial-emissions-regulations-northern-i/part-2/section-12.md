@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Conditions of permits: specific conditions for all installations and mobile plant[^key-981264f3b40d579dedc86839df50de8d]
+## 12. Conditions of permits: specific conditions for all installations and mobile plant[^c-981264f3b40d579dedc86839df50de8d]
 
 *Extent: N.I.*
 
-(1) Subject to paragraphs (11) and (12) and regulations 14A, 15 and[^key-d3cc88a328f430afac81ad2bc74c681c] 16, there shall be included in all permits such conditions as the enforcing authority considers appropriate to ensure compliance with paragraphs (2) to (7).
+(1) Subject to paragraphs (11) and (12) and regulations 14A, 15 and[^c-d3cc88a328f430afac81ad2bc74c681c] 16, there shall be included in all permits such conditions as the enforcing authority considers appropriate to ensure compliance with paragraphs (2) to (7).
 
 (2) Subject to paragraph (6), a permit shall include emission limit values for pollutants, in particular those listed in Schedule 5, likely to be emitted from the installation or mobile plant in significant quantities, having regard to their nature and, in the case of emissions from a Part A installation or a Part A mobile plant, their potential to transfer pollution from one environmental medium to another.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) Where emissions of a pollutant from an installation are the subject of conditions imposed pursuant to regulation 10(2) and (3) of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^f00014], the permit shall not include an emission limit value, equivalent parameter or technical measure for those emissions unless the enforcing authority considers that the value, parameter or measure is necessary to ensure that no significant local pollution is caused.
 
-(7) For activities listed in Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)[^f00015] as last amended by Directive ([^key-b5b697e9bf9bb2c72a93aa4492cd3b4f]EU) 2018/410 of the European Parliament and of the Council , the competent authority may choose not to impose requirements relating to energy efficiency in respect of combustion units or other units emitting carbon dioxide on the site.
+(7) For activities listed in Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)[^f00015] as last amended by Directive ([^c-b5b697e9bf9bb2c72a93aa4492cd3b4f]EU) 2018/410 of the European Parliament and of the Council , the competent authority may choose not to impose requirements relating to energy efficiency in respect of combustion units or other units emitting carbon dioxide on the site.
 
 (8) Paragraphs (6) and (7) shall not apply where the relevant installation is an excluded installation for the purposes of regulation 11 of the Greenhouse Gas Emissions Trading Scheme Regulations 2005.
 
@@ -59,12 +59,12 @@ and the enforcing authorities shall include in such permits such conditions as a
 
 ## Annotations
 
-[^key-981264f3b40d579dedc86839df50de8d]: Commencement: Reg. 12 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-981264f3b40d579dedc86839df50de8d]: Commencement: Reg. 12 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-d3cc88a328f430afac81ad2bc74c681c]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/160/regulation/12/1) substituted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/18/regulation/3/3)
+[^c-d3cc88a328f430afac81ad2bc74c681c]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/160/regulation/12/1) substituted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/18/regulation/3/3)
 
 [^f00014]: Footnote: [S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925)
 
 [^f00015]: Footnote: O.J. L275, 25.10.2003,p.32
 
-[^key-b5b697e9bf9bb2c72a93aa4492cd3b4f]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/nisr/2013/160/regulation/12/7) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/10)
+[^c-b5b697e9bf9bb2c72a93aa4492cd3b4f]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/nisr/2013/160/regulation/12/7) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/10)

@@ -32,7 +32,7 @@ summary: ''
 
 ANIMALS, ENGLAND
 
-The TSE (England) (Amendment) Regulations 2005 (revoked)[^key-09555b2fc8290be0e468b1b00b125b21]
+The TSE (England) (Amendment) Regulations 2005 (revoked)[^c-09555b2fc8290be0e468b1b00b125b21]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 4th April 2005
 
-[^key-09555b2fc8290be0e468b1b00b125b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09555b2fc8290be0e468b1b00b125b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-09555b2fc8290be0e468b1b00b125b21]
+## 1. Title and commencement[^c-09555b2fc8290be0e468b1b00b125b21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (England) Regulations 2002[^key-09555b2fc8290be0e468b1b00b125b21]
+## 2. Amendment of the TSE (England) Regulations 2002[^c-09555b2fc8290be0e468b1b00b125b21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-09555b2fc8290be0e468b1b00b125b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09555b2fc8290be0e468b1b00b125b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-09555b2fc8290be0e468b1b00b125b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09555b2fc8290be0e468b1b00b125b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-09555b2fc8290be0e468b1b00b125b21]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-09555b2fc8290be0e468b1b00b125b21]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

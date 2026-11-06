@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Interim protection pending decision whether to list building[^key-52fd4dbe4f1cd21f6239d6d12edb2ddd][^key-cd5fb1624fa65dfd2afd2b5379f59b1d]
+## 79. Interim protection pending decision whether to list building[^c-52fd4dbe4f1cd21f6239d6d12edb2ddd][^c-cd5fb1624fa65dfd2afd2b5379f59b1d]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52fd4dbe4f1cd21f6239d6d12edb2ddd]: Commencement: S. 79 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-52fd4dbe4f1cd21f6239d6d12edb2ddd]: Commencement: S. 79 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-cd5fb1624fa65dfd2afd2b5379f59b1d]: Commencement: [S. 79](https://www.legislation.gov.uk/asc/2023/3/section/79) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-cd5fb1624fa65dfd2afd2b5379f59b1d]: Commencement: [S. 79](https://www.legislation.gov.uk/asc/2023/3/section/79) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

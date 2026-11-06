@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Offences by bodies corporate[^key-0044166b121dd54168abb7cf1b80839a]
+## 46. Offences by bodies corporate[^c-0044166b121dd54168abb7cf1b80839a]
 
 *Extent: E+W*
 
-(1) Where an offence under this Part or paragraph 22 of Schedule 4A (failure to comply with a stop notice)[^key-3e201f234505e096b5b449f3d300ee93] has been committed by a body corporate and the offence is proved—
+(1) Where an offence under this Part or paragraph 22 of Schedule 4A (failure to comply with a stop notice)[^c-3e201f234505e096b5b449f3d300ee93] has been committed by a body corporate and the offence is proved—
 
 - (a) to have been committed with the consent or connivance of an officer, or
 - (b) to be attributable to any neglect on the part of an officer,
@@ -36,6 +36,6 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 ## Annotations
 
-[^key-0044166b121dd54168abb7cf1b80839a]: Commencement: Reg. 46 in force at 27.3.2020, see reg. 1
+[^c-0044166b121dd54168abb7cf1b80839a]: Commencement: Reg. 46 in force at 27.3.2020, see reg. 1
 
-[^key-3e201f234505e096b5b449f3d300ee93]: Textual amendment: Words in reg. 46(1) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(6)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/6)
+[^c-3e201f234505e096b5b449f3d300ee93]: Textual amendment: Words in reg. 46(1) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(6)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/6)

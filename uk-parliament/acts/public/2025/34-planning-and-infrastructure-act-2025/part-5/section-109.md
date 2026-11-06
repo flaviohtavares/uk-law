@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. General vesting declarations: advancement of vesting by agreement[^key-9c489801372e8ca316b39f0821ea305e][^key-9afc14a5d348bbaf3d3031d2b5dd3585][^key-30ff46dfbb8edb93d890ae5a941fcd50]
+## 109. General vesting declarations: advancement of vesting by agreement[^c-9c489801372e8ca316b39f0821ea305e][^c-9afc14a5d348bbaf3d3031d2b5dd3585][^c-30ff46dfbb8edb93d890ae5a941fcd50]
 
 *Extent: E+W*
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9c489801372e8ca316b39f0821ea305e]: Commencement: S. 109 not in force at Royal Assent, see [s. 118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d)
+[^c-9c489801372e8ca316b39f0821ea305e]: Commencement: S. 109 not in force at Royal Assent, see [s. 118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d)
 
-[^key-9afc14a5d348bbaf3d3031d2b5dd3585]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/34/section/109) in force at 19.12.2025 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c)
+[^c-9afc14a5d348bbaf3d3031d2b5dd3585]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/34/section/109) in force at 19.12.2025 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c)
 
-[^key-30ff46dfbb8edb93d890ae5a941fcd50]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/34/section/109) in force at 18.2.2026 for E. in so far as not already in force by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)
+[^c-30ff46dfbb8edb93d890ae5a941fcd50]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/34/section/109) in force at 18.2.2026 for E. in so far as not already in force by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)

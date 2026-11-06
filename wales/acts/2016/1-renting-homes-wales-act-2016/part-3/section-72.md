@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Deeds and covenants[^key-7a105327fe3de352a0c2a1b5a286c77c]
+## 72. Deeds and covenants[^c-7a105327fe3de352a0c2a1b5a286c77c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a105327fe3de352a0c2a1b5a286c77c]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2016/1/section/72) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-7a105327fe3de352a0c2a1b5a286c77c]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2016/1/section/72) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. General requirements as to construction and use[^key-e3b4c4e99ecff034782f27dbc23aaafc]
+## 21. General requirements as to construction and use[^c-e3b4c4e99ecff034782f27dbc23aaafc]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b4c4e99ecff034782f27dbc23aaafc]: Commencement: Art. 21 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-e3b4c4e99ecff034782f27dbc23aaafc]: Commencement: Art. 21 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Procedure: revocation of direction and grant of request for variation[^key-fa892113f6a8b3932d5a8f9170906715]
+## 29. Procedure: revocation of direction and grant of request for variation[^c-fa892113f6a8b3932d5a8f9170906715]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa892113f6a8b3932d5a8f9170906715]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2004/335/regulation/29) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-fa892113f6a8b3932d5a8f9170906715]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2004/335/regulation/29) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

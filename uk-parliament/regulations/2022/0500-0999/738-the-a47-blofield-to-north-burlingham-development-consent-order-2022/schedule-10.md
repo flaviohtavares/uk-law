@@ -22,7 +22,7 @@ summary: ''
 
 Article 47
 
-### PART 1 — ENVIRONMENTAL STATEMENT[^key-06e4b08b1d46e941b3596f63756f6df5]
+### PART 1 — ENVIRONMENTAL STATEMENT[^c-06e4b08b1d46e941b3596f63756f6df5]
 
 | *(1)*<br>*Document* | *(2)*<br>*Document Reference* | *(3)*<br>*Revision* |
 | --- | --- | --- |
@@ -106,7 +106,7 @@ Article 47
 | Environmental Statement - Figures 12.1 to 12.3 | TR010040/APP/6.3 | Rev 1 |
 | Environmental Statement - Figures 13.1 to 15.1 | TR010040/APP/6.3 | Rev 0 |
 
-### PART 2 — OTHER DOCUMENTS[^key-87770408fc91af11ffb2050d64820727]
+### PART 2 — OTHER DOCUMENTS[^c-87770408fc91af11ffb2050d64820727]
 
 | *(1)*<br>*Document* | *(2)*<br>*Document Reference* | *(3)*<br>*Revision* |
 | --- | --- | --- |
@@ -127,6 +127,6 @@ Article 47
 
 ## Annotations
 
-[^key-06e4b08b1d46e941b3596f63756f6df5]: Commencement: Sch. 10 Pt. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-06e4b08b1d46e941b3596f63756f6df5]: Commencement: Sch. 10 Pt. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-87770408fc91af11ffb2050d64820727]: Commencement: Sch. 10 Pt. 2 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-87770408fc91af11ffb2050d64820727]: Commencement: Sch. 10 Pt. 2 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

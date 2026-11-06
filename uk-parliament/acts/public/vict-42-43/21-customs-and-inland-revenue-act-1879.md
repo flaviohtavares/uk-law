@@ -31,52 +31,52 @@ Customs and Inland Revenue Act 1879 (repealed)
 
 1879 c. 21
 
-[^key-910d0f6ac7fb7b30e8e78db8556a7fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-910d0f6ac7fb7b30e8e78db8556a7fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Short title.[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+## 1. Short title.[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part I[^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+## Part I[^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-### Customs[^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+### Customs[^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-#### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-#### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-#### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-#### 5. Prohibitions and restrictions.[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 5. Prohibitions and restrictions.[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6, 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 6, 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-#### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-#### 9—14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+#### 9—14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-## Parts II—IV[^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+## Parts II—IV[^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-### 15—17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+### 15—17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-### 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+### 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-### 19—25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+### 19—25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-### 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+### 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
-### 27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-910d0f6ac7fb7b30e8e78db8556a7fc9][^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+### 27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-910d0f6ac7fb7b30e8e78db8556a7fc9][^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
 **No longer in force.**
 
-## SCHEDULE[^key-910d0f6ac7fb7b30e8e78db8556a7fc9]
+## SCHEDULE[^c-910d0f6ac7fb7b30e8e78db8556a7fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-910d0f6ac7fb7b30e8e78db8556a7fc9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/42-43/21) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-910d0f6ac7fb7b30e8e78db8556a7fc9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/42-43/21) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b770e1b9516ab62c29d0ae4cb5c50432] This section applies for income tax purposes and explains how to work out, in relation to the trustees of a settlement, whether or not the single person mentioned in section 474(1) is UK resident.
+(1)[^c-b770e1b9516ab62c29d0ae4cb5c50432] This section applies for income tax purposes and explains how to work out, in relation to the trustees of a settlement, whether or not the single person mentioned in section 474(1) is UK resident.
 
-(2) If at a time either condition A or condition B is met, then at that time the single person is UK[^key-3b94d007612174bbd61fd0174dfb379c] resident.
+(2) If at a time either condition A or condition B is met, then at that time the single person is UK[^c-3b94d007612174bbd61fd0174dfb379c] resident.
 
-(3) If at a time neither condition A nor condition B is met, then at that time the single person is non-UK resident[^key-651f548b2b11ccd61935ad279122c8cd].
+(3) If at a time neither condition A nor condition B is met, then at that time the single person is non-UK resident[^c-651f548b2b11ccd61935ad279122c8cd].
 
 (4) Condition A is met at a time if, at that time, all the persons who are trustees of the settlement are UK resident.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) If at a time a person (“T”) who is a trustee of the settlement acts as trustee in the course of a business which T carries on in the United Kingdom through a branch, agency or permanent establishment there, then for the purposes of subsections (4) and (5) assume that T is UK resident at that time.
 
-(7)[^key-6f456d8bbe8a188ff9fbd2fe4246feb8] Subsection (8) applies if—
+(7)[^c-6f456d8bbe8a188ff9fbd2fe4246feb8] Subsection (8) applies if—
 
 - (a) an individual becomes or ceases to be a trustee of the settlement during a tax year,
 - (b) that year is a split year as respects the individual, and
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b770e1b9516ab62c29d0ae4cb5c50432]: Textual amendment: S. 475(1) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 56(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/56/2)
+[^c-b770e1b9516ab62c29d0ae4cb5c50432]: Textual amendment: S. 475(1) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 56(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/56/2)
 
-[^key-3b94d007612174bbd61fd0174dfb379c]: Textual amendment: Words in s. 475(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 56(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/56/3)
+[^c-3b94d007612174bbd61fd0174dfb379c]: Textual amendment: Words in s. 475(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 56(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/56/3)
 
-[^key-651f548b2b11ccd61935ad279122c8cd]: Textual amendment: Words in s. 475(3) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 56(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/56/4)
+[^c-651f548b2b11ccd61935ad279122c8cd]: Textual amendment: Words in s. 475(3) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 56(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/56/4)
 
-[^key-6f456d8bbe8a188ff9fbd2fe4246feb8]: Textual amendment: S. 475(7)-(9) inserted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 103](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/103)
+[^c-6f456d8bbe8a188ff9fbd2fe4246feb8]: Textual amendment: S. 475(7)-(9) inserted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 103](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/103)

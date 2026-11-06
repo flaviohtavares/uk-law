@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Duty of local authority to provide information to carer of disabled child[^key-eddd135ed0d75cc0f0b454c8fada93b8]
+## 24A. Duty of local authority to provide information to carer of disabled child[^c-eddd135ed0d75cc0f0b454c8fada93b8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eddd135ed0d75cc0f0b454c8fada93b8]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1995/36/section/24A) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 2(2)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/2/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-eddd135ed0d75cc0f0b454c8fada93b8]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1995/36/section/24A) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 2(2)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/2/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)

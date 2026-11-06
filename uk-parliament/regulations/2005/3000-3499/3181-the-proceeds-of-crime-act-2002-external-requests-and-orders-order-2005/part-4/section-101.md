@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Appointment of management receivers[^key-ec2130a49730fa3733f20f45bf70939e]
+## 101. Appointment of management receivers[^c-ec2130a49730fa3733f20f45bf70939e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec2130a49730fa3733f20f45bf70939e]: Commencement: [Art. 101](https://www.legislation.gov.uk/uksi/2005/3181/article/101) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ec2130a49730fa3733f20f45bf70939e]: Commencement: [Art. 101](https://www.legislation.gov.uk/uksi/2005/3181/article/101) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

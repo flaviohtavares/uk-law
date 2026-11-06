@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Application of Part[^key-cc2fe4cffa1852424c24018d763e8f58]
+## 121. Application of Part[^c-cc2fe4cffa1852424c24018d763e8f58]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ This Part—
 
 ## Annotations
 
-[^key-cc2fe4cffa1852424c24018d763e8f58]: Commencement: [Reg. 121](https://www.legislation.gov.uk/ssi/2015/19/regulation/121) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-cc2fe4cffa1852424c24018d763e8f58]: Commencement: [Reg. 121](https://www.legislation.gov.uk/ssi/2015/19/regulation/121) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00047]: Footnote: Chapter 5 of Part 4 of PSA 1993 was inserted by section 264 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).

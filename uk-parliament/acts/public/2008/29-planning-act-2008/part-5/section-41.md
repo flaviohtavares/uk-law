@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Chapter applies before application is made[^key-c4e337a78222d45b86e4133b5af6ae5f]
+## 41. Chapter applies before application is made[^c-c4e337a78222d45b86e4133b5af6ae5f]
 
 *Extent: E+W+S*
 
-(1) This Chapter applies where a person (“**the applicant**”) proposes to make an application for an order granting development consent (and “applicants” is to be construed accordingly)[^key-b5902211ecfa8b4d6846bd45b73e8d32].
+(1) This Chapter applies where a person (“**the applicant**”) proposes to make an application for an order granting development consent (and “applicants” is to be construed accordingly)[^c-b5902211ecfa8b4d6846bd45b73e8d32].
 
 (2) In the following provisions of this Chapter—
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e337a78222d45b86e4133b5af6ae5f]: Commencement: S. 41 in force at 1.10.2009 by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/b)
+[^c-c4e337a78222d45b86e4133b5af6ae5f]: Commencement: S. 41 in force at 1.10.2009 by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/b)
 
-[^key-b5902211ecfa8b4d6846bd45b73e8d32]: Textual amendment: Words in s. 41(1) inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/4), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-b5902211ecfa8b4d6846bd45b73e8d32]: Textual amendment: Words in s. 41(1) inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/4), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

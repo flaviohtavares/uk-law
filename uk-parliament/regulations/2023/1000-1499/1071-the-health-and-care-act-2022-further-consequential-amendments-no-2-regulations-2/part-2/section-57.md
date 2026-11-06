@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of the NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012[^key-c0483184aa8312701db34babcab4ff25]
+## 57. Amendment of the NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012[^c-c0483184aa8312701db34babcab4ff25]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0483184aa8312701db34babcab4ff25]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-c0483184aa8312701db34babcab4ff25]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00046]: Footnote: [S.I. 2012/3094](https://www.legislation.gov.uk/uksi/2012/3094), to which there are amendments not relevant to these Regulations.

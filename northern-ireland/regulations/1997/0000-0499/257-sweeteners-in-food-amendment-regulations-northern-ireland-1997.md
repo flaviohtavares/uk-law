@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Sweeteners in Food (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-97169499e1fae95d67200a228a2dbd0a]
+Sweeteners in Food (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-97169499e1fae95d67200a228a2dbd0a]
 
 Made
 
@@ -40,27 +40,27 @@ Coming into operation
 
 7th July 1997
 
-[^key-97169499e1fae95d67200a228a2dbd0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97169499e1fae95d67200a228a2dbd0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-97169499e1fae95d67200a228a2dbd0a]
+## 1. Citation, commencement and interpretation[^c-97169499e1fae95d67200a228a2dbd0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-97169499e1fae95d67200a228a2dbd0a]
+## 2. Amendment of the principal Regulations[^c-97169499e1fae95d67200a228a2dbd0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97169499e1fae95d67200a228a2dbd0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97169499e1fae95d67200a228a2dbd0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-97169499e1fae95d67200a228a2dbd0a]
+## SCHEDULE[^c-97169499e1fae95d67200a228a2dbd0a]
 
 Regulation 2(*f*)
 
-> **SCHEDULE 1 — Permitted sweeteners and the foods in or on which they may be used[^key-97169499e1fae95d67200a228a2dbd0a]**
+> **SCHEDULE 1 — Permitted sweeteners and the foods in or on which they may be used[^c-97169499e1fae95d67200a228a2dbd0a]**
 >
 > Regulations 2(1) and (3) and 3(3)
 >
@@ -68,8 +68,8 @@ Regulation 2(*f*)
 
 **May not be in force at this date. Check the source.**
 
-[^key-97169499e1fae95d67200a228a2dbd0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97169499e1fae95d67200a228a2dbd0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97169499e1fae95d67200a228a2dbd0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/257) revoked (20.1.2010) by [The Food Additives Regulations (Northern Ireland) 2009 (S.R. 2009/416)](https://www.legislation.gov.uk/nisr/2009/416), [regs. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1), [20](https://www.legislation.gov.uk/nisr/2009/416/regulation/20), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2)
+[^c-97169499e1fae95d67200a228a2dbd0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/257) revoked (20.1.2010) by [The Food Additives Regulations (Northern Ireland) 2009 (S.R. 2009/416)](https://www.legislation.gov.uk/nisr/2009/416), [regs. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1), [20](https://www.legislation.gov.uk/nisr/2009/416/regulation/20), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2)

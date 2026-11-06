@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Change of registered company's articles: supplementary[^key-d560d37dedbbd45f2f71062a54741dd6]
+## 95. Change of registered company's articles: supplementary[^c-d560d37dedbbd45f2f71062a54741dd6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d560d37dedbbd45f2f71062a54741dd6]: Textual amendment: Ss. 93-95 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 5(3)](https://www.legislation.gov.uk/asp/2018/13/section/5/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/253/regulation/7))
+[^c-d560d37dedbbd45f2f71062a54741dd6]: Textual amendment: Ss. 93-95 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 5(3)](https://www.legislation.gov.uk/asp/2018/13/section/5/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/253/regulation/7))

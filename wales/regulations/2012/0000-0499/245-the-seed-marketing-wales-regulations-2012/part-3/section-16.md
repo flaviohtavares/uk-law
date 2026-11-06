@@ -24,7 +24,7 @@ summary: ''
 
 (2) The packaged seed must be in homogeneous lots.
 
-(3)[^key-7a176c7142c5c969429b48fbfc521282] A package must be sealed by or under the supervision of a licensed seed sampler using an official seal.
+(3)[^c-7a176c7142c5c969429b48fbfc521282] A package must be sealed by or under the supervision of a licensed seed sampler using an official seal.
 
 (4) A package must either have a non-re-useable sealing system or be sealed in such a manner that opening the package—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a176c7142c5c969429b48fbfc521282]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/wsi/2012/245/regulation/16/3) substituted (11.1.2017) by [The Seed Marketing (Wales) (Amendment) Regulations 2016 (S.I. 2016/1242)](https://www.legislation.gov.uk/wsi/2016/1242), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1242/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2016/1242/regulation/3)
+[^c-7a176c7142c5c969429b48fbfc521282]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/wsi/2012/245/regulation/16/3) substituted (11.1.2017) by [The Seed Marketing (Wales) (Amendment) Regulations 2016 (S.I. 2016/1242)](https://www.legislation.gov.uk/wsi/2016/1242), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1242/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2016/1242/regulation/3)

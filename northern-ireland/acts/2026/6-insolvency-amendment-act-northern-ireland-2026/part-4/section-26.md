@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Final meeting prior to dissolution[^key-d1e561f94daecafca3d02d143fdf668e]
+## 26. Final meeting prior to dissolution[^c-d1e561f94daecafca3d02d143fdf668e]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ For Article 80 (final meeting prior to dissolution) substitute—
 
 ## Annotations
 
-[^key-d1e561f94daecafca3d02d143fdf668e]: Commencement: S. 26 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d1e561f94daecafca3d02d143fdf668e]: Commencement: S. 26 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

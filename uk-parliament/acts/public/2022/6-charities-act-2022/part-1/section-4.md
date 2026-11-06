@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Power to amend Royal charter[^key-98317c0f246ac21b2154c4ab9e561202][^key-951bd7b9ede40009cad5ae6d1df53939]
+## 4. Power to amend Royal charter[^c-98317c0f246ac21b2154c4ab9e561202][^c-951bd7b9ede40009cad5ae6d1df53939]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ After section 280B of the Charities Act 2011 (as inserted by section 3) insertâ€
 
 ## Annotations
 
-[^key-98317c0f246ac21b2154c4ab9e561202]: Commencement: S. 4 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-98317c0f246ac21b2154c4ab9e561202]: Commencement: S. 4 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-951bd7b9ede40009cad5ae6d1df53939]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/6/section/4) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/1)
+[^c-951bd7b9ede40009cad5ae6d1df53939]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/6/section/4) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/1)

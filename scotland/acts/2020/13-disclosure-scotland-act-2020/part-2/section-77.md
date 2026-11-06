@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Notice of consideration for listing[^key-b4b2e7cd11106e2aeb910e067229759a]
+## 77. Notice of consideration for listing[^c-b4b2e7cd11106e2aeb910e067229759a]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b2e7cd11106e2aeb910e067229759a]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2020/13/section/77) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/27/regulation/13)) (as amended by S.S.I. 2025/73, [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2) and S.S.I. 2025/84, [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
+[^c-b4b2e7cd11106e2aeb910e067229759a]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2020/13/section/77) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/27/regulation/13)) (as amended by S.S.I. 2025/73, [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2) and S.S.I. 2025/84, [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))

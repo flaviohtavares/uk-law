@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.190. Action to follow making of order[^key-7a2f58a9a58a65001b9e9dcac14a0fb2]
+## 6.190. Action to follow making of order[^c-7a2f58a9a58a65001b9e9dcac14a0fb2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a2f58a9a58a65001b9e9dcac14a0fb2]: Commencement: [Rule 6.190](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.190) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7a2f58a9a58a65001b9e9dcac14a0fb2]: Commencement: [Rule 6.190](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.190) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00189]: Marginal citation: \[FORM 6.65\] or \[FORM 6.66\]

@@ -53,7 +53,7 @@ In accordance with paragraph 10 of Schedule 3 to that Act, before the recommenda
 
 In accordance with paragraph 11 of that Schedule, a draft of the instrument containing this Order was laid before Parliament, the Northern Ireland Assembly, the Scottish Parliament and Senedd Cymru and approved by resolution of each House of Parliament, the Northern Ireland Assembly, the Scottish Parliament and Senedd Cymru.
 
-Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the following Order:[^key-9da5f9bedd06defd083ca82f538df699]
+Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the following Order:[^c-9da5f9bedd06defd083ca82f538df699]
 
 ## Contents
 
@@ -110,7 +110,7 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the
 - [Section 24 — Monitoring and reporting of emissions](part-2/section-24.md)
 - [Section 25 — Verification of data and accreditation of verifiers](part-2/section-25.md)
 
-#### CHAPTER 4 — Registry[^key-339cd57b8007d6cbdb5848ff00be660f]
+#### CHAPTER 4 — Registry[^c-339cd57b8007d6cbdb5848ff00be660f]
 
 - [Section 25A — Registry](part-2/section-25a.md)
 
@@ -134,13 +134,13 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the
 - [Section 33 — Reporting aviation emissions](part-4/section-33.md)
 - [Section 34 — Surrender of allowances by aircraft operators](part-4/section-34.md)
 
-### PART 4ZA — Maritime[^key-c7a64fb28389ed8c8a25ef19702499c0]
+### PART 4ZA — Maritime[^c-c7a64fb28389ed8c8a25ef19702499c0]
 
 - [Section 34ZA — Application of the Order to maritime](part-4za/section-34za.md)
 
-### PART 4A — Free Allocation[^key-9df07e4cff1aa5b85e9f5e409534e082]
+### PART 4A — Free Allocation[^c-9df07e4cff1aa5b85e9f5e409534e082]
 
-#### CHAPTER 1 — Installations[^key-9df07e4cff1aa5b85e9f5e409534e082]
+#### CHAPTER 1 — Installations[^c-9df07e4cff1aa5b85e9f5e409534e082]
 
 - [Section 34A — Allocation tables for 2021-2025 and 2027-2030 allocation periods](part-4a/section-34a.md)
 - [Section 34AA — Allocation table for 2026 allocation period](part-4a/section-34aa.md)
@@ -153,7 +153,7 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the
 - [Section 34H — Installations: errors in applications for free allocation, etc.](part-4a/section-34h.md)
 - [Section 34HA — Free allocation for former hospital or small emitters and ultra-small emitters](part-4a/section-34ha.md)
 
-#### CHAPTER 2 — Aviation[^key-a888bd4c94506ef60c8d871b6cb74a4a][^key-9df07e4cff1aa5b85e9f5e409534e082]
+#### CHAPTER 2 — Aviation[^c-a888bd4c94506ef60c8d871b6cb74a4a][^c-9df07e4cff1aa5b85e9f5e409534e082]
 
 - [Section 34I — Interpretation](part-4a/section-34i.md)
 - [Section 34J — Meaning of historical aviation activity level and attributable](part-4a/section-34j.md)
@@ -166,7 +166,7 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the
 - [Section 34Q — Transfers of aviation free allocation entitlement](part-4a/section-34q.md)
 - [Section 34R — Errors in aviation allocation table](part-4a/section-34r.md)
 
-#### CHAPTER 3 — Common provisions[^key-9df07e4cff1aa5b85e9f5e409534e082]
+#### CHAPTER 3 — Common provisions[^c-9df07e4cff1aa5b85e9f5e409534e082]
 
 - [Section 34S — Return of allowances: installations](part-4a/section-34s.md)
 - [Section 34T — Return of allowances: aviation](part-4a/section-34t.md)
@@ -198,7 +198,7 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Enforcement notices , deficit notices and determination of emissions by regulator[^key-329b6da505785f75ace8142c9083328a]
+#### CHAPTER 1 — Enforcement notices , deficit notices and determination of emissions by regulator[^c-329b6da505785f75ace8142c9083328a]
 
 *Extent: E+W+S+N.I.*
 
@@ -315,14 +315,14 @@ A regulatory impact assessment of the effect that the UK ETS will have on the co
 
 [^c24437931]: Marginal citation: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27).
 
-[^key-9da5f9bedd06defd083ca82f538df699]: Modification: [Order](https://www.legislation.gov.uk/uksi/2020/1265) modified (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [20(8)](https://www.legislation.gov.uk/uksi/2023/850/article/20/8)
+[^c-9da5f9bedd06defd083ca82f538df699]: Modification: [Order](https://www.legislation.gov.uk/uksi/2020/1265) modified (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [20(8)](https://www.legislation.gov.uk/uksi/2023/850/article/20/8)
 
-[^key-339cd57b8007d6cbdb5848ff00be660f]: Textual amendment: Pt. 2 Ch. 4 inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [15](https://www.legislation.gov.uk/uksi/2020/1557/article/15)
+[^c-339cd57b8007d6cbdb5848ff00be660f]: Textual amendment: Pt. 2 Ch. 4 inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [15](https://www.legislation.gov.uk/uksi/2020/1557/article/15)
 
-[^key-c7a64fb28389ed8c8a25ef19702499c0]: Textual amendment: [Pt. 4ZA](https://www.legislation.gov.uk/uksi/2020/1265/part/4ZA) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/392/article/3)
+[^c-c7a64fb28389ed8c8a25ef19702499c0]: Textual amendment: [Pt. 4ZA](https://www.legislation.gov.uk/uksi/2020/1265/part/4ZA) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/392/article/3)
 
-[^key-9df07e4cff1aa5b85e9f5e409534e082]: Textual amendment: Pt. 4A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [18](https://www.legislation.gov.uk/uksi/2020/1557/article/18)
+[^c-9df07e4cff1aa5b85e9f5e409534e082]: Textual amendment: Pt. 4A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [18](https://www.legislation.gov.uk/uksi/2020/1557/article/18)
 
-[^key-a888bd4c94506ef60c8d871b6cb74a4a]: Modification: Pt. 4A Ch. 2 modified (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [42(7)](https://www.legislation.gov.uk/uksi/2024/1366/article/42/7)
+[^c-a888bd4c94506ef60c8d871b6cb74a4a]: Modification: Pt. 4A Ch. 2 modified (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [42(7)](https://www.legislation.gov.uk/uksi/2024/1366/article/42/7)
 
-[^key-329b6da505785f75ace8142c9083328a]: Textual amendment: Words in Pt. 7 Ch. 1 heading inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [14](https://www.legislation.gov.uk/uksi/2024/1366/article/14)
+[^c-329b6da505785f75ace8142c9083328a]: Textual amendment: Words in Pt. 7 Ch. 1 heading inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [14](https://www.legislation.gov.uk/uksi/2024/1366/article/14)

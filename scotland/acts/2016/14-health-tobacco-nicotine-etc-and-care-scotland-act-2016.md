@@ -40,7 +40,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Nicotine vapour products
 
-##### 1. Nicotine vapour products[^key-dc3ed8904e9acf905c0db38bbb7f735e]
+##### 1. Nicotine vapour products[^c-dc3ed8904e9acf905c0db38bbb7f735e]
 
 After section 35 of the 2010 Act insert—
 
@@ -64,7 +64,7 @@ After section 35 of the 2010 Act insert—
 
 #### Sale and purchase of tobacco and nicotine vapour products
 
-##### 2. Sale of nicotine vapour products to persons under 18[^key-ce52b9e661647d444c8d32acad257149][^key-904eb1a84d880523e5fb6ba7a41fdea4]
+##### 2. Sale of nicotine vapour products to persons under 18[^c-ce52b9e661647d444c8d32acad257149][^c-904eb1a84d880523e5fb6ba7a41fdea4]
 
 (1) After section 4 of the 2010 Act insert—
 
@@ -94,7 +94,7 @@ After section 35 of the 2010 Act insert—
 
 (2) The italic heading immediately preceding section 4 of the 2010 Act becomes “ *Sale and purchase of tobacco and nicotine vapour products* ”.
 
-##### 3. Age verification policy[^key-d14cf417a9913f78ddf95d70bf65253c]
+##### 3. Age verification policy[^c-d14cf417a9913f78ddf95d70bf65253c]
 
 (1) After section 4A of the 2010 Act (inserted by section 2) insert—
 
@@ -130,7 +130,7 @@ After section 35 of the 2010 Act insert—
 
 (2) In section 40(4) of the 2010 Act (subordinate legislation subject to affirmative procedure) before “section 24” insert— “ section 4B(4) ”.
 
-##### 4. Sale by persons under 18[^key-69316e1a34e37a322d4c2a0c5bbfb897][^key-8258840574593d976e2fdc01c23b2d5d]
+##### 4. Sale by persons under 18[^c-69316e1a34e37a322d4c2a0c5bbfb897][^c-8258840574593d976e2fdc01c23b2d5d]
 
 After section 4B of the 2010 Act (inserted by section 3) insert—
 
@@ -166,7 +166,7 @@ After section 4B of the 2010 Act (inserted by section 3) insert—
 
 .
 
-##### 5. Defence of due diligence for certain offences[^key-6a41e205e201bd27f005533eb43673e7]
+##### 5. Defence of due diligence for certain offences[^c-6a41e205e201bd27f005533eb43673e7]
 
 After section 4C of the 2010 Act (inserted by section 4) insert—
 
@@ -182,7 +182,7 @@ After section 4C of the 2010 Act (inserted by section 4) insert—
 
 .
 
-##### 6. Purchase of nicotine vapour products on behalf of persons under 18[^key-51caaabd2ab12973095eab82eb211949]
+##### 6. Purchase of nicotine vapour products on behalf of persons under 18[^c-51caaabd2ab12973095eab82eb211949]
 
 After section 6 of the 2010 Act insert—
 
@@ -194,13 +194,13 @@ After section 6 of the 2010 Act insert—
 
 .
 
-##### 7. Extension of vending machine prohibition[^key-fa2cac0f885dae28bc4cf32a4d0bd417]
+##### 7. Extension of vending machine prohibition[^c-fa2cac0f885dae28bc4cf32a4d0bd417]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Register of tobacco and nicotine vapour product retailers
 
-##### 8. Register of tobacco and nicotine vapour product retailers[^key-9e8e9d78cd3113a87e3e7d4627d6c8e2][^key-dc8c008f7f518d73832f8a5ee3e9c414]
+##### 8. Register of tobacco and nicotine vapour product retailers[^c-9e8e9d78cd3113a87e3e7d4627d6c8e2][^c-dc8c008f7f518d73832f8a5ee3e9c414]
 
 (1) In section 10(1) of the 2010 Act (duty to keep Register), after “tobacco” insert “ or nicotine vapour product ”.
 
@@ -219,7 +219,7 @@ After section 6 of the 2010 Act insert—
 
 ##### 9. Registration and changes to the Register
 
-(1)[^key-107d3da559a06275178e366c359d5901][^key-707fbb1ee529bce6a6c8490cabfb95f9] In section 11 of the 2010 Act (application for registration and addition of premises etc.)—
+(1)[^c-107d3da559a06275178e366c359d5901][^c-707fbb1ee529bce6a6c8490cabfb95f9] In section 11 of the 2010 Act (application for registration and addition of premises etc.)—
 
 - (a) in subsection (2), after “tobacco”, in both places where it occurs, insert “ or nicotine vapour product ”,
 - (b) after subsection (2) insert—
@@ -251,7 +251,7 @@ After section 6 of the 2010 Act insert—
 
   .
 
-(2)[^key-77e8c9b670e10d0f4bbcf7b8740c64f4] In section 12 of the 2010 Act (certificates of registration)—
+(2)[^c-77e8c9b670e10d0f4bbcf7b8740c64f4] In section 12 of the 2010 Act (certificates of registration)—
 
 - (a) the existing text becomes subsection (1), and
 - (b) after that subsection, insert—
@@ -264,19 +264,19 @@ After section 6 of the 2010 Act insert—
 
   .
 
-(3)[^key-77e8c9b670e10d0f4bbcf7b8740c64f4] In section 13(1) of the 2010 Act (duty to notify certain changes), after paragraph (b) insert—
+(3)[^c-77e8c9b670e10d0f4bbcf7b8740c64f4] In section 13(1) of the 2010 Act (duty to notify certain changes), after paragraph (b) insert—
 
 > - (c) the fact that the person is no longer carrying on a nicotine vapour product business at an address noted in the person's entry in the Register.
 
 .
 
-(4)[^key-77e8c9b670e10d0f4bbcf7b8740c64f4] In section 14 of the 2010 Act (changes to and removal from Register)—
+(4)[^c-77e8c9b670e10d0f4bbcf7b8740c64f4] In section 14 of the 2010 Act (changes to and removal from Register)—
 
 - (a) in subsection (2), for “retailing” substitute “ and nicotine vapour product ”,
 - (b) in subsection (3)(b), after “tobacco” insert “ or nicotine vapour product ”, and
 - (c) in subsection (5)(b), after “tobacco” insert “ or nicotine vapour product ”.
 
-##### 10. Tobacco and nicotine vapour product banning orders[^key-4634f79c69f2399910f994b7b6db2b2f][^key-565fb3a932a088ab92c0c22c7a2fd86b]
+##### 10. Tobacco and nicotine vapour product banning orders[^c-4634f79c69f2399910f994b7b6db2b2f][^c-565fb3a932a088ab92c0c22c7a2fd86b]
 
 (1) In section 15 of the 2010 Act (banning orders)—
 
@@ -324,7 +324,7 @@ After section 6 of the 2010 Act insert—
 - (b) in subsection (3), for “retailing”, in both places where it occurs, substitute “ and nicotine vapour product ”, and
 - (c) for subsection (4), for “or smoking related products” substitute “ , smoking related products or nicotine vapour products ”.
 
-##### 11. Offences relating to the Register[^key-98b5516a2a38202961ef1105d33a13a3]
+##### 11. Offences relating to the Register[^c-98b5516a2a38202961ef1105d33a13a3]
 
 In section 20 of the 2010 Act (offences relating to the Register)—
 
@@ -338,7 +338,7 @@ In section 20 of the 2010 Act (offences relating to the Register)—
 - (d) in subsection (4), for “retailing” substitute “ and nicotine vapour product ”, and
 - (e) in subsection (6)(a), after “(2)” insert “ , (2A) ”.
 
-##### 12. Public inspection of the Register[^key-be09b615d01b9fffdd2e67b2c854d537]
+##### 12. Public inspection of the Register[^c-be09b615d01b9fffdd2e67b2c854d537]
 
 In section 21(1) of the 2010 Act (public inspection of the Register), for “at which tobacco businesses are carried on or proposed to be carried on” substitute
 
@@ -352,47 +352,47 @@ In section 21(1) of the 2010 Act (public inspection of the Register), for “at 
 
 #### The 2010 Act: miscellaneous
 
-##### 13. Power to exclude certain premises[^key-79a624bd72aa6e997088b22207b138be]
+##### 13. Power to exclude certain premises[^c-79a624bd72aa6e997088b22207b138be]
 
 In section 35(1) of the 2010 Act (interpretation), in the definition of “premises”, for “, vessel, or moveable structure” substitute “ or moveable structure (and, for this purpose, “**vehicle**” includes any aircraft or ship, boat or other water-going vessel, other than one of a prescribed description) ”.
 
-##### 14. Presumption as to contents of container[^key-080269a456bdc7ea7c00cdbf9bb38f94]
+##### 14. Presumption as to contents of container[^c-080269a456bdc7ea7c00cdbf9bb38f94]
 
 In section 33(1) of the 2010 Act (presumption as to contents of container), for “5 or 6” substitute “ 4A, 4B, 4C, 5, 6, 6A or 9 ”.
 
 ##### 15. Part 1 of the 2010 Act: miscellaneous
 
-(1)[^key-4836a0fa905cfc142d0ed021bd648868] The title of Chapter 1 of Part 1 of the 2010 Act becomes “ Display, sale and purchase ”.
+(1)[^c-4836a0fa905cfc142d0ed021bd648868] The title of Chapter 1 of Part 1 of the 2010 Act becomes “ Display, sale and purchase ”.
 
-(2)[^key-4836a0fa905cfc142d0ed021bd648868] The title of section 10 of the 2010 Act becomes “ Register of tobacco and nicotine vapour product retailers ”.
+(2)[^c-4836a0fa905cfc142d0ed021bd648868] The title of section 10 of the 2010 Act becomes “ Register of tobacco and nicotine vapour product retailers ”.
 
-(3)[^key-dc18b202efcb4fd3000ee15b1630aa55] The title of section 15 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders ”.
+(3)[^c-dc18b202efcb4fd3000ee15b1630aa55] The title of section 15 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders ”.
 
-(4)[^key-dc18b202efcb4fd3000ee15b1630aa55] The title of section 16 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders: ancillary orders ”.
+(4)[^c-dc18b202efcb4fd3000ee15b1630aa55] The title of section 16 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders: ancillary orders ”.
 
-(5)[^key-dc18b202efcb4fd3000ee15b1630aa55] The title of section 17 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders etc.: appeals ”.
+(5)[^c-dc18b202efcb4fd3000ee15b1630aa55] The title of section 17 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders etc.: appeals ”.
 
-(6)[^key-dc18b202efcb4fd3000ee15b1630aa55] The title of section 18 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders etc.: notification to Scottish Ministers ”.
+(6)[^c-dc18b202efcb4fd3000ee15b1630aa55] The title of section 18 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders etc.: notification to Scottish Ministers ”.
 
-(7)[^key-dc18b202efcb4fd3000ee15b1630aa55] The title of section 19 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders: display of notices ”.
+(7)[^c-dc18b202efcb4fd3000ee15b1630aa55] The title of section 19 of the 2010 Act becomes “ Tobacco and nicotine vapour product banning orders: display of notices ”.
 
-(8)[^key-dc18b202efcb4fd3000ee15b1630aa55] The italic heading immediately preceding section 15 of the 2010 Act becomes “ *Tobacco and nicotine vapour product banning orders* ”.
+(8)[^c-dc18b202efcb4fd3000ee15b1630aa55] The italic heading immediately preceding section 15 of the 2010 Act becomes “ *Tobacco and nicotine vapour product banning orders* ”.
 
-(9)[^key-4836a0fa905cfc142d0ed021bd648868] The italic heading immediately preceding section 21 of the 2010 Act becomes “ Register of tobacco and nicotine vapour product retailers: miscellaneous and supplementary ”.
+(9)[^c-4836a0fa905cfc142d0ed021bd648868] The italic heading immediately preceding section 21 of the 2010 Act becomes “ Register of tobacco and nicotine vapour product retailers: miscellaneous and supplementary ”.
 
-(10)[^key-4836a0fa905cfc142d0ed021bd648868] The title of Chapter 2 of Part 1 of the 2010 Act becomes “ Register of tobacco and nicotine vapour product retailers ”.
+(10)[^c-4836a0fa905cfc142d0ed021bd648868] The title of Chapter 2 of Part 1 of the 2010 Act becomes “ Register of tobacco and nicotine vapour product retailers ”.
 
-(11)[^key-4836a0fa905cfc142d0ed021bd648868] The title of Part 1 of the 2010 Act becomes “ Tobacco and nicotine vapour products etc. ”.
+(11)[^c-4836a0fa905cfc142d0ed021bd648868] The title of Part 1 of the 2010 Act becomes “ Tobacco and nicotine vapour products etc. ”.
 
 #### Interpretation
 
-##### 16. Meaning of “the 2010 Act”[^key-830a8d031439132163e7cde84a82f654]
+##### 16. Meaning of “the 2010 Act”[^c-830a8d031439132163e7cde84a82f654]
 
 In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Services (Scotland) Act 2010.
 
 ### CHAPTER 2 — Advertising and promotion of nicotine vapour products
 
-#### 17. Advertising and brandsharing[^key-6ac0947bc8666ed417ab02910d8b39c2]
+#### 17. Advertising and brandsharing[^c-6ac0947bc8666ed417ab02910d8b39c2]
 
 (1) The Scottish Ministers may by regulations make provision prohibiting or restricting an activity, in the course of a business, which relates to—
 
@@ -424,11 +424,11 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 - “**public**” means the public at large, or any section of the public or individually selected members of the public,
 - “**published**” means published, distributed or otherwise made available to the public, in any form and by any means.
 
-#### 18. Free distribution and nominal pricing[^key-10357cf93dff605324525eab53e703ea]
+#### 18. Free distribution and nominal pricing[^c-10357cf93dff605324525eab53e703ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Sponsorship[^key-5aa7d1ca1441d74735b7d6e781f31d65]
+#### 19. Sponsorship[^c-5aa7d1ca1441d74735b7d6e781f31d65]
 
 (1) The Scottish Ministers may by regulations make provision prohibiting or restricting the entering into, in the course of a business, of a sponsorship agreement, where the purpose or effect of anything done as a result of the agreement is to promote a nicotine vapour product.
 
@@ -452,7 +452,7 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 
 ### CHAPTER 3 — Smoking outside hospitals
 
-#### 20. Smoking outside hospitals[^key-8f2d0dd8b3edafec0a8c9102fd7c0cf3][^key-a6ba427aab372062544bb4aed3162695]
+#### 20. Smoking outside hospitals[^c-8f2d0dd8b3edafec0a8c9102fd7c0cf3][^c-a6ba427aab372062544bb4aed3162695]
 
 (1) The Smoking, Health and Social Care (Scotland) Act 2005 is modified as follows.
 
@@ -561,7 +561,7 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 
 ### Duty of candour procedure
 
-#### 21. Incident which activates duty of candour procedure[^key-5475642abccac2097b5317820da849ae][^key-56fc34023cc0ce8e99d02c5124c08e7c]
+#### 21. Incident which activates duty of candour procedure[^c-5475642abccac2097b5317820da849ae][^c-56fc34023cc0ce8e99d02c5124c08e7c]
 
 (1) A responsible person must follow the duty of candour procedure set out in section 22 as soon as reasonably practicable after becoming aware that subsection (2) applies to a person who has received—
 
@@ -594,7 +594,7 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 
 (5) The Scottish Ministers may by regulations modify subsection (4).
 
-#### 22. Duty of candour procedure[^key-e8b06f729f413db83ca8155739ea5db8][^key-2b1b4d5eb6d2849a90fb00b9631f0ca2]
+#### 22. Duty of candour procedure[^c-e8b06f729f413db83ca8155739ea5db8][^c-2b1b4d5eb6d2849a90fb00b9631f0ca2]
 
 (1) The “**duty of candour procedure**” means the actions to be taken by the responsible person in accordance with regulations made by the Scottish Ministers.
 
@@ -625,13 +625,13 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 
   a person acting on behalf of that person.
 
-#### 23. Apologies[^key-b0c4742bea5b665376ff45802dfc84d5][^key-97362d111f37edde12611913ec9b8802]
+#### 23. Apologies[^c-b0c4742bea5b665376ff45802dfc84d5][^c-97362d111f37edde12611913ec9b8802]
 
 (1) For the purposes of this Part, an “**apology**” means a statement of sorrow or regret in respect of the unintended or unexpected incident.
 
 (2) An apology or other step taken in accordance with the duty of candour procedure under section 22 does not of itself amount to an admission of negligence or a breach of a statutory duty.
 
-#### 24. Reporting and monitoring[^key-597b7d69bb7228396a96aa91b6ca5891]
+#### 24. Reporting and monitoring[^c-597b7d69bb7228396a96aa91b6ca5891]
 
 (1) A responsible person who provides a health service, a care service or a social work service during a financial year must prepare an annual report on the duty of candour as soon as reasonably practicable after the end of that financial year.
 
@@ -675,7 +675,7 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 
 #### 25. Interpretation of Part 2
 
-(1)[^key-2d2cd0ff1bcc9afa2a2f278a6dd00fba][^key-4dc47e77fa14c251c046c19165afd399] In this Part—
+(1)[^c-2d2cd0ff1bcc9afa2a2f278a6dd00fba][^c-4dc47e77fa14c251c046c19165afd399] In this Part—
 
 - “**the 1978 Act**” means the National Health Service (Scotland) Act 1978,
 - “**care service**” has the meaning given by section 47(1) of the Public Services Reform (Scotland) Act 2010, except that it does not include a service mentioned in paragraph (k) of that section (child minding),
@@ -695,13 +695,13 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
   - (h) a person (other than an individual) who provides a social work service,
 - “**social work services**” has the meaning given by section 48 of the Public Services Reform (Scotland) Act 2010.
 
-(2)[^key-9647737bffa2d323c84eb2a5a51ca982] The Scottish Ministers may by regulations modify the definition of “responsible person” in subsection (1).
+(2)[^c-9647737bffa2d323c84eb2a5a51ca982] The Scottish Ministers may by regulations modify the definition of “responsible person” in subsection (1).
 
 ## PART 3 — Ill-treatment and wilful neglect
 
 ### Offences by care workers and care providers
 
-#### 26. Care worker offence[^key-bae1c54f2b03085ee0efb5a62a581fef]
+#### 26. Care worker offence[^c-bae1c54f2b03085ee0efb5a62a581fef]
 
 (1) An individual commits an offence if the individual—
 
@@ -713,7 +713,7 @@ In this Part, “**the 2010 Act**” means the Tobacco and Primary Medical Servi
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both),
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
 
-#### 27. Care provider offence[^key-ab1cf206f98a43037fe41f3f0d5db311]
+#### 27. Care provider offence[^c-ab1cf206f98a43037fe41f3f0d5db311]
 
 (1) A care provider commits an offence if—
 
@@ -738,7 +738,7 @@ including where the individual is not the care provider but supervises or manage
 - (a) on summary conviction, to a fine not exceeding the statutory maximum,
 - (b) on conviction on indictment, to a fine.
 
-#### 28. Meaning of “care worker” and “care provider” etc.[^key-50c2aaef8803ef0a6d828d9f9e7fd285]
+#### 28. Meaning of “care worker” and “care provider” etc.[^c-50c2aaef8803ef0a6d828d9f9e7fd285]
 
 (1) In this Part, “**care worker**” means—
 
@@ -773,7 +773,7 @@ including where the individual is not the care provider but supervises or manage
   - (a) in section 47(1)(a), (b), (d) or (m) of the Public Services Reform (Scotland) Act 2010 to the extent that the service is provided to an individual aged 18 or over, or
   - (b) in section 47(1)(g) or (j) of that Act to the extent that the service is provided to an individual aged 16 or over.
 
-#### 29. Disclosure of conviction for offence under section 26[^key-05c9bd95e627ca61e683dab2b09dae8e]
+#### 29. Disclosure of conviction for offence under section 26[^c-05c9bd95e627ca61e683dab2b09dae8e]
 
 In schedule 8A of the Police Act 1997 (offences which must always be disclosed), after paragraph 55 insert—
 
@@ -785,7 +785,7 @@ In schedule 8A of the Police Act 1997 (offences which must always be disclosed),
 
 ### Remedial orders and publicity orders
 
-#### 30. Power to order offence to be remedied or publicised[^key-e4b4adfb118f0c61a3188f759f3f56a5]
+#### 30. Power to order offence to be remedied or publicised[^c-e4b4adfb118f0c61a3188f759f3f56a5]
 
 (1) This section applies where a care provider is convicted by a court of an offence under section 27(1).
 
@@ -830,7 +830,7 @@ In schedule 8A of the Police Act 1997 (offences which must always be disclosed),
 - (a) on summary conviction, to a fine not exceeding the statutory maximum,
 - (b) on conviction on indictment, to a fine.
 
-#### 31. Remedial and publicity orders: prosecutor's right of appeal[^key-0c83060d4faceed8c5d7fad816c8fd01]
+#### 31. Remedial and publicity orders: prosecutor's right of appeal[^c-0c83060d4faceed8c5d7fad816c8fd01]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended in accordance with this section.
 
@@ -856,7 +856,7 @@ In schedule 8A of the Police Act 1997 (offences which must always be disclosed),
 
 ### Ill-treatment and wilful neglect of mentally disordered person
 
-#### 32. Penalty for ill-treatment and wilful neglect of mentally disordered person[^key-40761712e38853fe21c02e12441b1e02]
+#### 32. Penalty for ill-treatment and wilful neglect of mentally disordered person[^c-40761712e38853fe21c02e12441b1e02]
 
 In section 315 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (ill-treatment and wilful neglect of mentally disordered person)—
 
@@ -880,7 +880,7 @@ In section 315 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (il
 
 ## PART 4 — Provision of communication equipment
 
-### 33. Duty to provide or secure communication equipment[^key-ea3448d9747d08efa10b91b65127cef1]
+### 33. Duty to provide or secure communication equipment[^c-ea3448d9747d08efa10b91b65127cef1]
 
 After section 46 of the National Health Service (Scotland) Act 1978, insert—
 
@@ -941,94 +941,94 @@ The short title of this Act is the Health (Tobacco, Nicotine etc. and Care) (Sco
 
 ## Annotations
 
-[^key-dc3ed8904e9acf905c0db38bbb7f735e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/14/section/1) in force at 6.2.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-dc3ed8904e9acf905c0db38bbb7f735e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/14/section/1) in force at 6.2.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-ce52b9e661647d444c8d32acad257149]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/14/section/2) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-ce52b9e661647d444c8d32acad257149]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/14/section/2) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-904eb1a84d880523e5fb6ba7a41fdea4]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/14/section/2) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-904eb1a84d880523e5fb6ba7a41fdea4]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/14/section/2) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-d14cf417a9913f78ddf95d70bf65253c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/14/section/3) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-d14cf417a9913f78ddf95d70bf65253c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/14/section/3) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-69316e1a34e37a322d4c2a0c5bbfb897]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/14/section/4) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-69316e1a34e37a322d4c2a0c5bbfb897]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/14/section/4) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-8258840574593d976e2fdc01c23b2d5d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/14/section/4) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-8258840574593d976e2fdc01c23b2d5d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/14/section/4) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-6a41e205e201bd27f005533eb43673e7]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/14/section/5) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-6a41e205e201bd27f005533eb43673e7]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/14/section/5) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-51caaabd2ab12973095eab82eb211949]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/14/section/6) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-51caaabd2ab12973095eab82eb211949]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/14/section/6) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-fa2cac0f885dae28bc4cf32a4d0bd417]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2016/14/section/7) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/8), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-fa2cac0f885dae28bc4cf32a4d0bd417]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2016/14/section/7) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/8), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-9e8e9d78cd3113a87e3e7d4627d6c8e2]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/14/section/8) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-9e8e9d78cd3113a87e3e7d4627d6c8e2]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/14/section/8) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-dc8c008f7f518d73832f8a5ee3e9c414]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/14/section/8) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-dc8c008f7f518d73832f8a5ee3e9c414]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/14/section/8) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-107d3da559a06275178e366c359d5901]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2016/14/section/9/1) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-107d3da559a06275178e366c359d5901]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2016/14/section/9/1) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-707fbb1ee529bce6a6c8490cabfb95f9]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2016/14/section/9/1) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-707fbb1ee529bce6a6c8490cabfb95f9]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2016/14/section/9/1) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-77e8c9b670e10d0f4bbcf7b8740c64f4]: Commencement: [S. 9(2)-(4)](https://www.legislation.gov.uk/asp/2016/14/section/9/2) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-77e8c9b670e10d0f4bbcf7b8740c64f4]: Commencement: [S. 9(2)-(4)](https://www.legislation.gov.uk/asp/2016/14/section/9/2) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-4634f79c69f2399910f994b7b6db2b2f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/14/section/10) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-4634f79c69f2399910f994b7b6db2b2f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/14/section/10) in force at 6.2.2017 for specified purposes by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-565fb3a932a088ab92c0c22c7a2fd86b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/14/section/10) in force at 1.10.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-565fb3a932a088ab92c0c22c7a2fd86b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/14/section/10) in force at 1.10.2017 in so far as not already in force by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-98b5516a2a38202961ef1105d33a13a3]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/14/section/11) in force at 1.10.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-98b5516a2a38202961ef1105d33a13a3]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/14/section/11) in force at 1.10.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-be09b615d01b9fffdd2e67b2c854d537]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/14/section/12) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-be09b615d01b9fffdd2e67b2c854d537]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/14/section/12) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-79a624bd72aa6e997088b22207b138be]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/14/section/13) in force at 6.2.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-79a624bd72aa6e997088b22207b138be]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/14/section/13) in force at 6.2.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-080269a456bdc7ea7c00cdbf9bb38f94]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/14/section/14) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-080269a456bdc7ea7c00cdbf9bb38f94]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/14/section/14) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-4836a0fa905cfc142d0ed021bd648868]: Commencement: S. 15(1)(2)(9)-(11) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-4836a0fa905cfc142d0ed021bd648868]: Commencement: S. 15(1)(2)(9)-(11) in force at 1.4.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-dc18b202efcb4fd3000ee15b1630aa55]: Commencement: [S. 15(3)-(8)](https://www.legislation.gov.uk/asp/2016/14/section/15/3) in force at 1.10.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-dc18b202efcb4fd3000ee15b1630aa55]: Commencement: [S. 15(3)-(8)](https://www.legislation.gov.uk/asp/2016/14/section/15/3) in force at 1.10.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-830a8d031439132163e7cde84a82f654]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/14/section/16) in force at 6.2.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-830a8d031439132163e7cde84a82f654]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/14/section/16) in force at 6.2.2017 by [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^key-6ac0947bc8666ed417ab02910d8b39c2]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/14/section/17) in force at 31.1.2024 by [S.S.I. 2024/1](https://www.legislation.gov.uk/ssi/2024/1), [reg. 2](https://www.legislation.gov.uk/ssi/2024/1/regulation/2)
+[^c-6ac0947bc8666ed417ab02910d8b39c2]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/14/section/17) in force at 31.1.2024 by [S.S.I. 2024/1](https://www.legislation.gov.uk/ssi/2024/1), [reg. 2](https://www.legislation.gov.uk/ssi/2024/1/regulation/2)
 
-[^key-10357cf93dff605324525eab53e703ea]: Textual amendment: [S. 18](https://www.legislation.gov.uk/asp/2016/14/section/18) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/65/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-10357cf93dff605324525eab53e703ea]: Textual amendment: [S. 18](https://www.legislation.gov.uk/asp/2016/14/section/18) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/65/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-5aa7d1ca1441d74735b7d6e781f31d65]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/14/section/19) in force at 31.1.2024 by [S.S.I. 2024/1](https://www.legislation.gov.uk/ssi/2024/1), [reg. 2](https://www.legislation.gov.uk/ssi/2024/1/regulation/2)
+[^c-5aa7d1ca1441d74735b7d6e781f31d65]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/14/section/19) in force at 31.1.2024 by [S.S.I. 2024/1](https://www.legislation.gov.uk/ssi/2024/1), [reg. 2](https://www.legislation.gov.uk/ssi/2024/1/regulation/2)
 
-[^key-8f2d0dd8b3edafec0a8c9102fd7c0cf3]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/14/section/20) in force at 2.3.2022 for specified purposes by [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-8f2d0dd8b3edafec0a8c9102fd7c0cf3]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/14/section/20) in force at 2.3.2022 for specified purposes by [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-a6ba427aab372062544bb4aed3162695]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/14/section/20) in force at 5.9.2022 in so far as not already in force by [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-a6ba427aab372062544bb4aed3162695]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/14/section/20) in force at 5.9.2022 in so far as not already in force by [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-5475642abccac2097b5317820da849ae]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/14/section/21) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-5475642abccac2097b5317820da849ae]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/14/section/21) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-56fc34023cc0ce8e99d02c5124c08e7c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/14/section/21) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
+[^c-56fc34023cc0ce8e99d02c5124c08e7c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/14/section/21) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
 
-[^key-e8b06f729f413db83ca8155739ea5db8]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/14/section/22) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-e8b06f729f413db83ca8155739ea5db8]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/14/section/22) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-2b1b4d5eb6d2849a90fb00b9631f0ca2]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/14/section/22) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
+[^c-2b1b4d5eb6d2849a90fb00b9631f0ca2]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/14/section/22) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
 
-[^key-b0c4742bea5b665376ff45802dfc84d5]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/14/section/23) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-b0c4742bea5b665376ff45802dfc84d5]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/14/section/23) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-97362d111f37edde12611913ec9b8802]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/14/section/23) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
+[^c-97362d111f37edde12611913ec9b8802]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/14/section/23) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
 
-[^key-597b7d69bb7228396a96aa91b6ca5891]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/14/section/24) in force at 1.4.2018 by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
+[^c-597b7d69bb7228396a96aa91b6ca5891]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/14/section/24) in force at 1.4.2018 by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
 
-[^key-2d2cd0ff1bcc9afa2a2f278a6dd00fba]: Commencement: [S. 25(1)](https://www.legislation.gov.uk/asp/2016/14/section/25/1) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-2d2cd0ff1bcc9afa2a2f278a6dd00fba]: Commencement: [S. 25(1)](https://www.legislation.gov.uk/asp/2016/14/section/25/1) in force at 1.10.2017 for specified purposes by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-4dc47e77fa14c251c046c19165afd399]: Commencement: [S. 25(1)](https://www.legislation.gov.uk/asp/2016/14/section/25/1) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
+[^c-4dc47e77fa14c251c046c19165afd399]: Commencement: [S. 25(1)](https://www.legislation.gov.uk/asp/2016/14/section/25/1) in force at 1.4.2018 in so far as not already in force by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
 
-[^key-9647737bffa2d323c84eb2a5a51ca982]: Commencement: [S. 25(2)](https://www.legislation.gov.uk/asp/2016/14/section/25/2) in force at 1.4.2018 by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
+[^c-9647737bffa2d323c84eb2a5a51ca982]: Commencement: [S. 25(2)](https://www.legislation.gov.uk/asp/2016/14/section/25/2) in force at 1.4.2018 by [S.S.I. 2018/56](https://www.legislation.gov.uk/ssi/2018/56), [art. 2](https://www.legislation.gov.uk/ssi/2018/56/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/56/schedule)
 
-[^key-bae1c54f2b03085ee0efb5a62a581fef]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/14/section/26) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-bae1c54f2b03085ee0efb5a62a581fef]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/14/section/26) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-ab1cf206f98a43037fe41f3f0d5db311]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/14/section/27) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-ab1cf206f98a43037fe41f3f0d5db311]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/14/section/27) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-50c2aaef8803ef0a6d828d9f9e7fd285]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/14/section/28) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-50c2aaef8803ef0a6d828d9f9e7fd285]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/14/section/28) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-05c9bd95e627ca61e683dab2b09dae8e]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/14/section/29) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-05c9bd95e627ca61e683dab2b09dae8e]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/14/section/29) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-e4b4adfb118f0c61a3188f759f3f56a5]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/14/section/30) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-e4b4adfb118f0c61a3188f759f3f56a5]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/14/section/30) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-0c83060d4faceed8c5d7fad816c8fd01]: Commencement: S. 31 in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-0c83060d4faceed8c5d7fad816c8fd01]: Commencement: S. 31 in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-40761712e38853fe21c02e12441b1e02]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/14/section/32) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
+[^c-40761712e38853fe21c02e12441b1e02]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/14/section/32) in force at 1.10.2017 by [S.S.I. 2017/294](https://www.legislation.gov.uk/ssi/2017/294), [reg. 2](https://www.legislation.gov.uk/ssi/2017/294/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/294/schedule)
 
-[^key-ea3448d9747d08efa10b91b65127cef1]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/14/section/33) in force at 19.3.2018 by [S.S.I. 2018/26](https://www.legislation.gov.uk/ssi/2018/26), [reg. 2](https://www.legislation.gov.uk/ssi/2018/26/regulation/2)
+[^c-ea3448d9747d08efa10b91b65127cef1]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/14/section/33) in force at 19.3.2018 by [S.S.I. 2018/26](https://www.legislation.gov.uk/ssi/2018/26), [reg. 2](https://www.legislation.gov.uk/ssi/2018/26/regulation/2)

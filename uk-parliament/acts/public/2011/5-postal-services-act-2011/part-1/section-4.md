@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Restrictions on issue and transfer of shares and share rights in a Post Office company etc[^key-9d9b3fd13ba4d818664a0c4e7f061696]
+## 4. Restrictions on issue and transfer of shares and share rights in a Post Office company etc[^c-9d9b3fd13ba4d818664a0c4e7f061696]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d9b3fd13ba4d818664a0c4e7f061696]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/5/section/4) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9d9b3fd13ba4d818664a0c4e7f061696]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/5/section/4) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

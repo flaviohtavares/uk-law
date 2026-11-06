@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75A. Grants for transport facilities and services.[^key-3475b3c340a3490a00150fbb0290a1c4]
+## 75A. Grants for transport facilities and services.[^c-3475b3c340a3490a00150fbb0290a1c4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3475b3c340a3490a00150fbb0290a1c4]: Textual amendment: S. 75A repealed (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(o)](https://www.legislation.gov.uk/nisr/2013/104/article/2/o)
+[^c-3475b3c340a3490a00150fbb0290a1c4]: Textual amendment: S. 75A repealed (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(o)](https://www.legislation.gov.uk/nisr/2013/104/article/2/o)

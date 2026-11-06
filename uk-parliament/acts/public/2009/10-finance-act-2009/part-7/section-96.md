@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-70a1b6b5425b6d3c83fa340d32a00443] In paragraph 63(1) of Schedule 36 to FA 2008 (information and inspection powers: meaning of “tax”), for paragraph (e) (and the “and” before it) substitute—
+(1)[^c-70a1b6b5425b6d3c83fa340d32a00443] In paragraph 63(1) of Schedule 36 to FA 2008 (information and inspection powers: meaning of “tax”), for paragraph (e) (and the “and” before it) substitute—
 
 > - (e) insurance premium tax,
 > - (f) inheritance tax,
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a1b6b5425b6d3c83fa340d32a00443]: Commencement: [S. 96(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/96/1) in force at 1.4.2010 for the purposes of the amendment made by that sub-section by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-70a1b6b5425b6d3c83fa340d32a00443]: Commencement: [S. 96(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/96/1) in force at 1.4.2010 for the purposes of the amendment made by that sub-section by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)

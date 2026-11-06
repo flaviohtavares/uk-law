@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Amendment of regulation A2[^key-f9e0f50e1257492346ef303f62bf431f]
+## 3. Amendment of regulation A2[^c-f9e0f50e1257492346ef303f62bf431f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation A2 (interpretation)—
 
 ## Annotations
 
-[^key-f9e0f50e1257492346ef303f62bf431f]: Commencement: Reg. 3 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-f9e0f50e1257492346ef303f62bf431f]: Commencement: Reg. 3 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

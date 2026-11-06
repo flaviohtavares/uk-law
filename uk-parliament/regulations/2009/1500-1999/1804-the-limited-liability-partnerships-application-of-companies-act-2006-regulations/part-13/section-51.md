@@ -32,7 +32,7 @@ Sections 1003 to 1011 apply to LLPs, modified so that they read as follows—
 >
 > (2) The application must contain a declaration by the member or members making the application that neither section 1004 nor 1005 prevents the application from being made.
 >
-> (3) The registrar may not strike an LLP off under this section until after the expiration of 2 months[^key-1680cdc3dcbfb3a6484a92099b56b733] from the publication by the registrar in the Gazette of a notice—
+> (3) The registrar may not strike an LLP off under this section until after the expiration of 2 months[^c-1680cdc3dcbfb3a6484a92099b56b733] from the publication by the registrar in the Gazette of a notice—
 >
 > - (a) stating that the registrar may exercise the power under this section in relation to the LLP, and
 > - (b) inviting any person to show cause why that should not be done.
@@ -73,7 +73,7 @@ Sections 1003 to 1011 apply to LLPs, modified so that they read as follows—
 >
 > (1) An application under section 1003 (application for voluntary striking off) on behalf of an LLP must not be made at a time when—
 >
-> - (a) an application to the court under Part 26 or 26A[^key-a74b3e556261b353a2595112187ecfdf] has been made on behalf of the LLP for the sanctioning of a compromise or arrangement and the matter has not been finally concluded;
+> - (a) an application to the court under Part 26 or 26A[^c-a74b3e556261b353a2595112187ecfdf] has been made on behalf of the LLP for the sanctioning of a compromise or arrangement and the matter has not been finally concluded;
 > - (b) a voluntary arrangement in relation to the LLP has been proposed under Part 1 of the Insolvency Act 1986 (c. 45) or Part 2 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19)) and the matter has not been finally concluded;
 > - (c) the LLP is in administration under Part 2 of that Act or Part 3 of that Order;
 > - (d) paragraph 44 of Schedule B1 to that Act or paragraph 45 of Schedule B1 to that Order applies (interim moratorium on proceedings where application to the court for an administration order has been made or notice of intention to appoint administrator has been filed);
@@ -201,7 +201,7 @@ Sections 1003 to 1011 apply to LLPs, modified so that they read as follows—
 >   - (ii) trades or otherwise carries on business,
 >   - (iii) makes a disposal for value of any property or rights other than those which it was necessary or expedient for it to hold for the purpose of making, or proceeding with, an application under that section, or
 >   - (iv) engages in any activity, except one to which subsection (4) applies;
-> - (b) an application is made to the court under Part 26 or 26A[^key-792758cbc4b8ca857cd02ecbba5a5609] on behalf of the LLP for the sanctioning of a compromise or arrangement;
+> - (b) an application is made to the court under Part 26 or 26A[^c-792758cbc4b8ca857cd02ecbba5a5609] on behalf of the LLP for the sanctioning of a compromise or arrangement;
 > - (c) a voluntary arrangement in relation to the LLP is proposed under Part 1 of the Insolvency Act 1986 (c. 45) or Part 2 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19));
 > - (d) an application to the court for an administration order in respect of the LLP is made under paragraph 12 of Schedule B1 to that Act or paragraph 13 of Schedule B1 to that Order;
 > - (e) an administrator is appointed in respect of the LLP under paragraph 14 or 22 of Schedule B1 to that Act or paragraph 15 or 23 of Schedule B1 to that Order, or a copy of notice of intention to appoint an administrator of the LLP under any of those provisions is filed with the court;
@@ -244,8 +244,8 @@ Sections 1003 to 1011 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-1680cdc3dcbfb3a6484a92099b56b733]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2009/1804/regulation/51) substituted (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/5/4) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/3/3))
+[^c-1680cdc3dcbfb3a6484a92099b56b733]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2009/1804/regulation/51) substituted (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/5/4) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/3/3))
 
-[^key-a74b3e556261b353a2595112187ecfdf]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2009/1804/regulation/51) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/4/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-a74b3e556261b353a2595112187ecfdf]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2009/1804/regulation/51) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/4/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
 
-[^key-792758cbc4b8ca857cd02ecbba5a5609]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2009/1804/regulation/51) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/4/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-792758cbc4b8ca857cd02ecbba5a5609]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/uksi/2009/1804/regulation/51) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/4/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))

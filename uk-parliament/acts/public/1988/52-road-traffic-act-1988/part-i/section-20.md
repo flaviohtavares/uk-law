@@ -32,7 +32,7 @@ summary: ''
 
 (4) In this section, and in the definition of “**goods vehicle**” in section 192 of this Act as it applies for the purposes of this section, “**trailer**” means any vehicle other than a motor vehicle.
 
-(5) The national authority[^key-f754d385a64927f945efbbd3b49f7ba1] may by regulations amend subsections (1) and (2) above (whether as originally enacted or as previously amended under this subsection)—
+(5) The national authority[^c-f754d385a64927f945efbbd3b49f7ba1] may by regulations amend subsections (1) and (2) above (whether as originally enacted or as previously amended under this subsection)—
 
 - (a) by substituting weights of a different description for any of the weights there mentioned, or
 - (b) in the case of subsection (1) above, by substituting a weight of a different description or amount, or a weight different both in description and amount, for the weight there mentioned.
@@ -41,7 +41,7 @@ summary: ''
 
 (7) Regulations under subsection (5) above shall not so amend subsection (1) above that there is any case in which a goods vehicle whose operating weight (ascertained in accordance with subsection (2) above as originally enacted) does not exceed 7.5 tonnes is a heavy commercial vehicle for any of the purposes of section 19 of this Act.
 
-(8)[^key-2abcc1c9cb9c1f9c2e42b0501f8f0006] In subsection (5) “national authority”—
+(8)[^c-2abcc1c9cb9c1f9c2e42b0501f8f0006] In subsection (5) “national authority”—
 
 - (a) in relation to a function so far as exercisable within devolved competence, within the meaning of the Scotland Act 1998, means the Scottish Ministers;
 - (b) otherwise, means the Secretary of State.
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f754d385a64927f945efbbd3b49f7ba1]: Textual amendment: Words in s. 20(5) substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/3), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-f754d385a64927f945efbbd3b49f7ba1]: Textual amendment: Words in s. 20(5) substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/3), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
 
-[^key-2abcc1c9cb9c1f9c2e42b0501f8f0006]: Textual amendment: S. 20(8)(9) added (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/4), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-2abcc1c9cb9c1f9c2e42b0501f8f0006]: Textual amendment: S. 20(8)(9) added (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/4), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

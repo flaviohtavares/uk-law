@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Categories of occurrence[^key-c2d186c202bed4ccf306964d77360dbe]
+## 275. Categories of occurrence[^c-c2d186c202bed4ccf306964d77360dbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ For the purposes of regulation 274(1)(f), the categories of occurrence are occur
 
 ## Annotations
 
-[^key-c2d186c202bed4ccf306964d77360dbe]: Commencement: Reg. 275 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c2d186c202bed4ccf306964d77360dbe]: Commencement: Reg. 275 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

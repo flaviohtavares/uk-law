@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Adjudication costs[^key-292b017f410818259c7dcb021d48e007][^key-2cca47d5fb8f8fea238fab7773378066][^key-fc5f708ed58e15e405875e062df8b1bb]
+## 141. Adjudication costs[^c-292b017f410818259c7dcb021d48e007][^c-2cca47d5fb8f8fea238fab7773378066][^c-fc5f708ed58e15e405875e062df8b1bb]
 
 *Extent: E+W+S*
 
@@ -33,8 +33,8 @@ In the Housing Grants, Construction and Regeneration Act 1996, after section 108
 
 ## Annotations
 
-[^key-292b017f410818259c7dcb021d48e007]: Commencement: S. 141 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-292b017f410818259c7dcb021d48e007]: Commencement: S. 141 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-2cca47d5fb8f8fea238fab7773378066]: Commencement: S. 141 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
+[^c-2cca47d5fb8f8fea238fab7773378066]: Commencement: S. 141 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
 
-[^key-fc5f708ed58e15e405875e062df8b1bb]: Commencement: S. 141 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)
+[^c-fc5f708ed58e15e405875e062df8b1bb]: Commencement: S. 141 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)

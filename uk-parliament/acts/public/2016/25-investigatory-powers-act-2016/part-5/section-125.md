@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Cancellation of warrants[^key-79c4443efe5a2bc2edb010c710ed1602][^key-af1131459bddc1b7e8e146c4e38e557a]
+## 125. Cancellation of warrants[^c-79c4443efe5a2bc2edb010c710ed1602][^c-af1131459bddc1b7e8e146c4e38e557a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ the person must cancel the warrant.
 
 ## Annotations
 
-[^key-79c4443efe5a2bc2edb010c710ed1602]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2016/25/section/125) in force at 27.6.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/m)
+[^c-79c4443efe5a2bc2edb010c710ed1602]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2016/25/section/125) in force at 27.6.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/m)
 
-[^key-af1131459bddc1b7e8e146c4e38e557a]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2016/25/section/125) in force at 5.12.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/e)
+[^c-af1131459bddc1b7e8e146c4e38e557a]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2016/25/section/125) in force at 5.12.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/e)

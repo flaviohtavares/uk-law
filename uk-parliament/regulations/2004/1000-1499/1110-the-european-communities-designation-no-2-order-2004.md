@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 2) Order 2004 (revoked)[^key-438469d320ad2c103f0c5ea1288f0e56]
+The European Communities (Designation) (No. 2) Order 2004 (revoked)[^c-438469d320ad2c103f0c5ea1288f0e56]
 
 Made
 
@@ -51,34 +51,34 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-438469d320ad2c103f0c5ea1288f0e56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-438469d320ad2c103f0c5ea1288f0e56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-438469d320ad2c103f0c5ea1288f0e56]
+## 1. Citation, commencement and interpretation[^c-438469d320ad2c103f0c5ea1288f0e56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of the Secretary of State[^key-438469d320ad2c103f0c5ea1288f0e56]
+## 2. Designation of the Secretary of State[^c-438469d320ad2c103f0c5ea1288f0e56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-438469d320ad2c103f0c5ea1288f0e56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-438469d320ad2c103f0c5ea1288f0e56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MATTER IN RELATION TO WHICH THE SECRETARY OF STATE IS DESIGNATED[^key-438469d320ad2c103f0c5ea1288f0e56]
+## SCHEDULE — MATTER IN RELATION TO WHICH THE SECRETARY OF STATE IS DESIGNATED[^c-438469d320ad2c103f0c5ea1288f0e56]
 
 Article 2
 
-[^key-438469d320ad2c103f0c5ea1288f0e56]
+[^c-438469d320ad2c103f0c5ea1288f0e56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-438469d320ad2c103f0c5ea1288f0e56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-438469d320ad2c103f0c5ea1288f0e56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-438469d320ad2c103f0c5ea1288f0e56]: Textual amendment: Order revoked (7.1.2009) by [The European Communities (Designation) (No. 4) Order 2008 (S.I. 2008/3117)](https://www.legislation.gov.uk/uksi/2008/3117), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3117/article/1), [5](https://www.legislation.gov.uk/uksi/2008/3117/article/5)
+[^c-438469d320ad2c103f0c5ea1288f0e56]: Textual amendment: Order revoked (7.1.2009) by [The European Communities (Designation) (No. 4) Order 2008 (S.I. 2008/3117)](https://www.legislation.gov.uk/uksi/2008/3117), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3117/article/1), [5](https://www.legislation.gov.uk/uksi/2008/3117/article/5)

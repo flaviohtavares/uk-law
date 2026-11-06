@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.74. Those entitled to be informed[^key-ea225022f1a977a69adfa47976b57298]
+## 6.74. Those entitled to be informed[^c-ea225022f1a977a69adfa47976b57298]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any reference in this Chapter to creditors is to creditors of the bankrupt who a
 
 ## Annotations
 
-[^key-ea225022f1a977a69adfa47976b57298]: Commencement: [Rule 6.74](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.74) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ea225022f1a977a69adfa47976b57298]: Commencement: [Rule 6.74](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.74) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

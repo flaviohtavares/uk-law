@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Methods of killing or taking seals under seal licence[^key-a83e5852c7c10a15e8f6e4d89eb9f5ca]
+## 111. Methods of killing or taking seals under seal licence[^c-a83e5852c7c10a15e8f6e4d89eb9f5ca]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a83e5852c7c10a15e8f6e4d89eb9f5ca]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/5/section/111) in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/230/article/3/a)
+[^c-a83e5852c7c10a15e8f6e4d89eb9f5ca]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/5/section/111) in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/230/article/3/a)

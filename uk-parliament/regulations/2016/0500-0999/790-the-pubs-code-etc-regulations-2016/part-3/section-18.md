@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Further information and advice in relation to the rent proposal[^key-ef1145e291c6ca1a0fa56f424163a91d]
+## 18. Further information and advice in relation to the rent proposal[^c-ef1145e291c6ca1a0fa56f424163a91d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef1145e291c6ca1a0fa56f424163a91d]: Commencement: Reg. 18 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-ef1145e291c6ca1a0fa56f424163a91d]: Commencement: Reg. 18 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

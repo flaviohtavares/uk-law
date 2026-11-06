@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Postponement or disapplication of automatic enrolment[^c21291261][^key-43b7776764ee05f5b8eedc4ff5a813ed]
+## 7. Postponement or disapplication of automatic enrolment[^c21291261][^c-43b7776764ee05f5b8eedc4ff5a813ed]
 
 *Extent: N.I.*
 
@@ -104,4 +104,4 @@ summary: ''
 
 [^c21291261]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2012/3/section/7) partly in operation; [s. 7](https://www.legislation.gov.uk/nia/2012/3/section/7) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-43b7776764ee05f5b8eedc4ff5a813ed]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2012/3/section/7) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/b)
+[^c-43b7776764ee05f5b8eedc4ff5a813ed]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2012/3/section/7) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/b)

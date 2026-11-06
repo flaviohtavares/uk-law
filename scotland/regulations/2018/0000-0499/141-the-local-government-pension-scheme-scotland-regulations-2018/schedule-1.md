@@ -50,14 +50,14 @@ In these Regulations—
   - (b) ordinary maternity leave;
   - (c) additional maternity or adoption leave during which the member receives some pensionable pay;
   - (d) paternity leave;
-  - (e) additional paternity leave; [^key-3f59056ef5149b5331545d483e37e560]...
-  - (f) shared parental leave during which the member receives some pensionable pay; or[^key-bccbb9e4fb599e43d705bc29ad3aba64]
+  - (e) additional paternity leave; [^c-3f59056ef5149b5331545d483e37e560]...
+  - (f) shared parental leave during which the member receives some pensionable pay; or[^c-bccbb9e4fb599e43d705bc29ad3aba64]
   - (g) parental bereavement leave during which the member receives some pensionable pay
 - “**children's pension**” means a pension payable to an eligible child in accordance with regulation 40, 43 or 46;
 - “**Club Memorandum**” means the current memorandum published by the Cabinet Office under the title “The Public Sector Transfer Club – memorandum by the Cabinet Office”[^c22971171];
 - “**Club Transfer**” means a transfer of employment between members of the Public Sector Transfer Club;
 - “**cohabiting partner**” means a person whom the appropriate administering authority is satisfied fulfils the following conditions—
-  - (a) the person (P) has fulfilled the condition in paragraph (b)(i), and the conditions in (b)(ii) to (iv)[^key-6d5b1e48a329af90c0dfed8cdfc399eb] for a continuous period of at least 2 years on the date the member (M) died; and
+  - (a) the person (P) has fulfilled the condition in paragraph (b)(i), and the conditions in (b)(ii) to (iv)[^c-6d5b1e48a329af90c0dfed8cdfc399eb] for a continuous period of at least 2 years on the date the member (M) died; and
   - (b) the condition is that—
     - (i) M is able to marry or form a civil partnership with P;
     - (ii) M and P are living together as if they were a married couple or as if they were civil partners;
@@ -70,7 +70,7 @@ In these Regulations—
   - (a) the person was financially dependent on the member;
   - (b) the person's financial relationship with the member was one of mutual dependence; or
   - (c) the person was dependent on the member because of the person's physical or mental impairment;
-- “Earlier Schemes” has the meaning in regulation 1(4) of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 ([^key-cef955f593482e392d7ed6a00e48d4d5][S.S.I. 2014/233](https://www.legislation.gov.uk/ssi/2014/233));
+- “Earlier Schemes” has the meaning in regulation 1(4) of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 ([^c-cef955f593482e392d7ed6a00e48d4d5][S.S.I. 2014/233](https://www.legislation.gov.uk/ssi/2014/233));
 - “**early payment reduction**” means the amount by which a member's entitlement is reduced pursuant to regulation 29(6), (7) or (13);
 - “**earned pension**” means pension accrued from the member's pensionable pay pursuant to regulation 23(4) or (5) or credited pursuant to regulation 96(1) (effect of acceptance of transfer value);
 - “**eligible child**”, in relation to a deceased member, means—
@@ -86,7 +86,7 @@ In these Regulations—
 - “**employment**” for the purposes of these Regulations only shall include holding an office, and related expressions are construed accordingly;
 - “**enactment**” has the same meaning as in section 126(1) of the Scotland Act 1998 [^c22971181];
 - “**European pensions institution**” has the same meaning as in section 293(8) of the Pensions Act 2004 [^c22971191];
-- “[^key-fafb4b7127da898570e36d95ae4e56fe]**final guarantee amount**” has the meaning given in regulation 1(4) of the Transitional Provisions and Savings Regulations 2014;
+- “[^c-fafb4b7127da898570e36d95ae4e56fe]**final guarantee amount**” has the meaning given in regulation 1(4) of the Transitional Provisions and Savings Regulations 2014;
 - “**gainful employment**” means paid employment for not less than 30 hours in each week for a period of not less than 12 months;
 - “**the Governance Regulations**” means the Local Government Pension Scheme (Governance) (Scotland) Regulations 2015 [^c22971201];
 - “**index rate adjustment**” means the percentage increase that would apply if the balance in the member's account were a pension in payment eligible for increase under the Pensions (Increase) Act 1971 [^c22971211];
@@ -100,7 +100,7 @@ In these Regulations—
 - “**occupational pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993 [^c22971251];
 - “**ordinary adoption leave**” means leave under section 75A of the Employment Rights Act 1996 [^c22971261];
 - “**ordinary maternity leave**” means leave under section 71 of the Employment Rights Act 1996 [^c22971271];
-- “parental bereavement leave” means leave under the Parental Bereavement Leave Regulations 2020;[^key-75a2673497e45b688751557c6b9e3d74]
+- “parental bereavement leave” means leave under the Parental Bereavement Leave Regulations 2020;[^c-75a2673497e45b688751557c6b9e3d74]
 - “**partner**” means a spouse, civil partner or cohabiting partner;
 - “**paternity leave**” means leave under regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002 [^c22971281];
 - “**payment period**” means a period of service to which an employee's wages or salary payments relate;
@@ -114,7 +114,7 @@ In these Regulations—
 - “**pension board**” means a board or committee established by an administering authority to discharge functions under regulation 5 (pension boards) of the Governance Regulations;
 - “**pension sharing order**” means any provision or order specified in section 28 of the Welfare Reform and Pensions Act 1999;
 - “**permanently incapable**” refers to the member being incapable until at the earliest the member's normal pension age;
-- “[^key-045906fd50823edac0a12377e9755151]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “[^c-045906fd50823edac0a12377e9755151]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “**public service pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993 [^c22971301];
 - “**Public Sector Transfer Club**” means the arrangements approved by the Secretary of State and detailed in the Club Memorandum as providing reciprocal arrangements between the Scheme and other registered occupational pension schemes for making and receiving transfer value payments;
 - “**qualifying recognised overseas pension scheme**” has the meaning given by section 169(2) of the Finance Act 2004 [^c22971311];
@@ -132,9 +132,9 @@ In these Regulations—
 - “**reserve forces service leave**” means absence from duty because of being called out or recalled for permanent service in Her Majesty's armed forces pursuant to a call-out notice served, or a call-out or recall order made, under the Reserve Forces Act 1996 [^c22971351];
 - “**retirement pension**” includes earned pension and additional pension;
 - “**revaluation adjustment**” means—
-  - (a) in the case of a balance transferred under a Club Transfer, the revaluation adjustment that would have applied to that balance if it had not been transferred and which is applied to the balance on the same day as the percentage increase or decrease referred to in paragraph (b)[^key-f553f98e69c1f3b42bcffb636900adcb]; and
-  - (b) in any other case the percentage specified as the change in prices in relation to the Scheme set out[^key-422857f818b8fdb403d93fac76beb190] in the relevant Treasury order made under section 9(2) of the Public Service Pensions Act 2013 in relation to the previous Scheme year[^key-3a2eb191904d14264af515a3217abf13] which is to be applied to a sum in a pension account [^key-4cd3c687f77fa81266cd251aeed13da7]...;
-- “[^key-78cc0ea8a0e13badb53bc0b214269781]**revaluation date**” means 6 April,
+  - (a) in the case of a balance transferred under a Club Transfer, the revaluation adjustment that would have applied to that balance if it had not been transferred and which is applied to the balance on the same day as the percentage increase or decrease referred to in paragraph (b)[^c-f553f98e69c1f3b42bcffb636900adcb]; and
+  - (b) in any other case the percentage specified as the change in prices in relation to the Scheme set out[^c-422857f818b8fdb403d93fac76beb190] in the relevant Treasury order made under section 9(2) of the Public Service Pensions Act 2013 in relation to the previous Scheme year[^c-3a2eb191904d14264af515a3217abf13] which is to be applied to a sum in a pension account [^c-4cd3c687f77fa81266cd251aeed13da7]...;
+- “[^c-78cc0ea8a0e13badb53bc0b214269781]**revaluation date**” means 6 April,
 - “**SCAVC**” has the meaning given in regulation 17(1);
 - “**the Scheme**” has the meaning given in regulation 2;
 - “**Scheme actuary**” means the actuary appointed under regulation 100 (Scheme actuary);
@@ -145,7 +145,7 @@ In these Regulations—
 - “**Scheme pays election**” means a member giving the administering authority notice of joint and several liability under section 237B of the Finance Act 2004 [^c22971361] in respect of the member's annual allowance charge;
 - “**Scheme year**” means a period of one year beginning with 1st April and ending with 31st March;
 - “**shared parental leave**” means leave as defined in regulation 3 of the Shared Parental Leave Regulations 2014 [^c22971371];
-- “**statutory pay**” means any statutory sick, maternity, paternity, shared parental , parental bereavement[^key-4af23c0944752fe9b3dc35124281f705] or adoption pay payable under the Social Security Contributions and Benefits Act 1992 [^c22971381];
+- “**statutory pay**” means any statutory sick, maternity, paternity, shared parental , parental bereavement[^c-4af23c0944752fe9b3dc35124281f705] or adoption pay payable under the Social Security Contributions and Benefits Act 1992 [^c22971381];
 - “**survivor member**” means a person entitled to a survivor pension or a children's pension;
 - “**survivor pension**” means a pension payable under regulation 39, 40, 42, 43, 45 or 46;
 - “**Tier 1 benefits**” means the benefits a member is entitled to under regulation 34(4) (calculated in accordance with regulation 37);
@@ -170,21 +170,21 @@ In these Regulations—
 
 [^c22971161]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12); section 216 has been amended by the [Finance Act 2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7), [schedule 10](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10), [paragraphs 31](https://www.legislation.gov.uk/ukpga/2005/7/paragraph/31) and 42, the [Finance Act 2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25), [schedule 23](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23), [paragraph 30](https://www.legislation.gov.uk/ukpga/2006/25/paragraph/30), the [Finance Act 2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9), [schedule 29](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29), [paragraph 1(3)](https://www.legislation.gov.uk/ukpga/2008/9/paragraph/1/3) and (5), the [Finance Act 2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), [schedule 16(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/1), [paragraph 43](https://www.legislation.gov.uk/ukpga/2011/11/paragraph/43) and schedule 16(2), paragraphs 73(2), (3)(a) and (b), the [Taxation of Pensions Act 2014 (c.30)](https://www.legislation.gov.uk/ukpga/2014/30), [schedule 1(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/1), [paragraph 16](https://www.legislation.gov.uk/ukpga/2014/30/paragraph/16) and schedule 2(3), paragraph 21 and the [Finance Act 2015 (c.11)](https://www.legislation.gov.uk/ukpga/2015/11), [schedule 4(1)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/1), [paragraph 4(2)](https://www.legislation.gov.uk/ukpga/2015/11/paragraph/4/2) and (3).
 
-[^key-3f59056ef5149b5331545d483e37e560]: Textual amendment: Word in sch. 1 omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/a)
+[^c-3f59056ef5149b5331545d483e37e560]: Textual amendment: Word in sch. 1 omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/a)
 
-[^key-bccbb9e4fb599e43d705bc29ad3aba64]: Textual amendment: Words in sch. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/a)
+[^c-bccbb9e4fb599e43d705bc29ad3aba64]: Textual amendment: Words in sch. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/a)
 
 [^c22971171]: Marginal citation: Issued by Cabinet Office in February 2017 with effect from 1st March 2017.
 
-[^key-6d5b1e48a329af90c0dfed8cdfc399eb]: Textual amendment: Words in sch. 1 substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(26)(a)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/26/a)
+[^c-6d5b1e48a329af90c0dfed8cdfc399eb]: Textual amendment: Words in sch. 1 substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(26)(a)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/26/a)
 
-[^key-cef955f593482e392d7ed6a00e48d4d5]: Textual amendment: Words in sch. 1 inserted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(26)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/26/b)
+[^c-cef955f593482e392d7ed6a00e48d4d5]: Textual amendment: Words in sch. 1 inserted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(26)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/26/b)
 
 [^c22971181]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
 [^c22971191]: Marginal citation: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35); section 293(8) was amended by [S.I. 2007/3014](https://www.legislation.gov.uk/uksi/2007/3014).
 
-[^key-fafb4b7127da898570e36d95ae4e56fe]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(17)(a)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/17/a)
+[^c-fafb4b7127da898570e36d95ae4e56fe]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(17)(a)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/17/a)
 
 [^c22971201]: Marginal citation: [S.S.I. 2015/60](https://www.legislation.gov.uk/ssi/2015/60).
 
@@ -202,13 +202,13 @@ In these Regulations—
 
 [^c22971271]: Marginal citation: Section 71 was substituted by the [Employment Relations Act 1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26) and amended by the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 17](https://www.legislation.gov.uk/ukpga/2002/22/section/17), the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), [schedule 1](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1), [paragraph 31](https://www.legislation.gov.uk/ukpga/2006/18/paragraph/31) and the [Children and Families Act 2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6), [section 118](https://www.legislation.gov.uk/ukpga/2014/6/section/118).
 
-[^key-75a2673497e45b688751557c6b9e3d74]: Textual amendment: Words in sch. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/b)
+[^c-75a2673497e45b688751557c6b9e3d74]: Textual amendment: Words in sch. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/b)
 
 [^c22971281]: Marginal citation: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
 [^c22971291]: Marginal citation: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-045906fd50823edac0a12377e9755151]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(17)(b)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/17/b)
+[^c-045906fd50823edac0a12377e9755151]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(17)(b)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/17/b)
 
 [^c22971301]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48); section 1 has amendments which are not relevant to this instrument.
 
@@ -222,21 +222,21 @@ In these Regulations—
 
 [^c22971351]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-f553f98e69c1f3b42bcffb636900adcb]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/a)
+[^c-f553f98e69c1f3b42bcffb636900adcb]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/a)
 
-[^key-422857f818b8fdb403d93fac76beb190]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/b/i)
+[^c-422857f818b8fdb403d93fac76beb190]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/b/i)
 
-[^key-3a2eb191904d14264af515a3217abf13]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/b/ii)
+[^c-3a2eb191904d14264af515a3217abf13]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/b/ii)
 
-[^key-4cd3c687f77fa81266cd251aeed13da7]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) omitted (28.3.2024 with effect from 31.3.2023) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(b)(iii)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/b/iii)
+[^c-4cd3c687f77fa81266cd251aeed13da7]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) omitted (28.3.2024 with effect from 31.3.2023) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(b)(iii)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/b/iii)
 
-[^key-78cc0ea8a0e13badb53bc0b214269781]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(c)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/c)
+[^c-78cc0ea8a0e13badb53bc0b214269781]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2018/141/schedule/1) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [9(c)](https://www.legislation.gov.uk/ssi/2024/37/regulation/9/c)
 
 [^c22971361]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12); section 237B was inserted by the Finance Act 2011.
 
 [^c22971371]: Marginal citation: [S.I. 2014/3050](https://www.legislation.gov.uk/uksi/2014/3050).
 
-[^key-4af23c0944752fe9b3dc35124281f705]: Textual amendment: Words in sch. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(c)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/c)
+[^c-4af23c0944752fe9b3dc35124281f705]: Textual amendment: Words in sch. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(6)(c)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/6/c)
 
 [^c22971381]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 

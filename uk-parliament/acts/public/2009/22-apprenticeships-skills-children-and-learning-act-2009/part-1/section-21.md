@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Submission of draft framework for issue: Wales[^key-04a3eb8fcbc01dc8d5f7e6ee97115938][^key-86e3546cc5697f54eb7036d249310bac]
+## 21. Submission of draft framework for issue: Wales[^c-04a3eb8fcbc01dc8d5f7e6ee97115938][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-04a3eb8fcbc01dc8d5f7e6ee97115938]: Commencement: S. 21 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/i)
+[^c-04a3eb8fcbc01dc8d5f7e6ee97115938]: Commencement: S. 21 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/i)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

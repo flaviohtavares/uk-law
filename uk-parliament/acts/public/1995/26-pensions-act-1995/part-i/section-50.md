@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Requirement for dispute resolution arrangements[^M_C_a6960c76-9fc8-40a2-91d3-ac82d1f77e4c][^M_C_31a041ed-e97f-400c-aa45-f57ebb8b6f67][^key-1678681f49718aad2bee2942368c0137]
+## 50. Requirement for dispute resolution arrangements[^M_C_a6960c76-9fc8-40a2-91d3-ac82d1f77e4c][^M_C_31a041ed-e97f-400c-aa45-f57ebb8b6f67][^c-1678681f49718aad2bee2942368c0137]
 
 *Extent: E+W+S*
 
@@ -80,4 +80,4 @@ section 10 applies to any of the trustees or managers who have failed to take al
 
 [^M_C_31a041ed-e97f-400c-aa45-f57ebb8b6f67]: Modification: S. 50 modified in part (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/ukpga/1999/30/regulation/1), [14](https://www.legislation.gov.uk/ukpga/1999/30/regulation/14), [Sch. 2 paras. 2](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/4)
 
-[^key-1678681f49718aad2bee2942368c0137]: Textual amendment: [Ss. 50-50B](https://www.legislation.gov.uk/ukpga/1995/26/section/50) substituted for s. 50 (5.3.2008 for specified purposes, 6.4.2008 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 273](https://www.legislation.gov.uk/ukpga/2004/35/section/273), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)) (as amended by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 16](https://www.legislation.gov.uk/ukpga/2007/22/section/16), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)); [S.I. 2008/627](https://www.legislation.gov.uk/uksi/2008/627), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/627/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2008/627/article/2/b)
+[^c-1678681f49718aad2bee2942368c0137]: Textual amendment: [Ss. 50-50B](https://www.legislation.gov.uk/ukpga/1995/26/section/50) substituted for s. 50 (5.3.2008 for specified purposes, 6.4.2008 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 273](https://www.legislation.gov.uk/ukpga/2004/35/section/273), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)) (as amended by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 16](https://www.legislation.gov.uk/ukpga/2007/22/section/16), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)); [S.I. 2008/627](https://www.legislation.gov.uk/uksi/2008/627), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/627/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2008/627/article/2/b)

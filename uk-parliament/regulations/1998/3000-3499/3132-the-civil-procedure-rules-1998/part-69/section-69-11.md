@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69.11. Order discharging or terminating appointment of receiver[^key-76e09c6173a9121b7a071a713ba7dc87]
+## 69.11. Order discharging or terminating appointment of receiver[^c-76e09c6173a9121b7a071a713ba7dc87]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e09c6173a9121b7a071a713ba7dc87]: Textual amendment: [Pt. 69](https://www.legislation.gov.uk/uksi/1998/3132/part/69) inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/2058/schedule/7)
+[^c-76e09c6173a9121b7a071a713ba7dc87]: Textual amendment: [Pt. 69](https://www.legislation.gov.uk/uksi/1998/3132/part/69) inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/2058/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Applications to admit certain evidence relating to sexual offences: rights of complainers[^key-40d688ed868a007a97229a2a14f2a178]
+## 106. Applications to admit certain evidence relating to sexual offences: rights of complainers[^c-40d688ed868a007a97229a2a14f2a178]
 
 *Extent: S*
 
@@ -161,4 +161,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40d688ed868a007a97229a2a14f2a178]: Commencement: S. 106 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-40d688ed868a007a97229a2a14f2a178]: Commencement: S. 106 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Requirements, appeals, etc.[^key-82f7d3533e28d2a1567167ae7b7bd3cc]
+## 39. Requirements, appeals, etc.[^c-82f7d3533e28d2a1567167ae7b7bd3cc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82f7d3533e28d2a1567167ae7b7bd3cc]: Commencement: Art. 39 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-82f7d3533e28d2a1567167ae7b7bd3cc]: Commencement: Art. 39 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

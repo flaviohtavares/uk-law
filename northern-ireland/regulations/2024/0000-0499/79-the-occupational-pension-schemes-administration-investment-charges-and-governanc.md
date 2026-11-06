@@ -42,7 +42,7 @@ Coming into operation in accordance with regulation 1(1) and (2)
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 109(6)(b) and (7) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 35(4) and (7) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and sections 42 and 51(6) of, and paragraphs 1 and 2 of Schedule 18 to, the Pensions Act (Northern Ireland) 2015[^f00004].
 
-## 1. Citation, commencement, application and interpretation[^key-40b35b551e9d61e35ffec13804e667b9]
+## 1. Citation, commencement, application and interpretation[^c-40b35b551e9d61e35ffec13804e667b9]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 and, subject to paragraph (2), shall come into operation on 30th March 2024.
 
@@ -77,11 +77,11 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (9) The Interpretation Act (Northern Ireland) 1954[^f00015] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-eec5ba1df6fd85c452bcbd6ec602490e][^key-32032c0fc8bd17fa3d83e21db760fbde][^key-094bffd8c823f527bd218af8d59019d6]
+## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-eec5ba1df6fd85c452bcbd6ec602490e][^c-32032c0fc8bd17fa3d83e21db760fbde][^c-094bffd8c823f527bd218af8d59019d6]
 
-(1)[^key-eec5ba1df6fd85c452bcbd6ec602490e] The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00016] are amended in accordance with paragraphs (2) to (5).
+(1)[^c-eec5ba1df6fd85c452bcbd6ec602490e] The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00016] are amended in accordance with paragraphs (2) to (5).
 
-(2)[^key-eec5ba1df6fd85c452bcbd6ec602490e] In regulation 1(2) (interpretation) after the definition of “the Solvency 2 Directive”[^f00017] insert—
+(2)[^c-eec5ba1df6fd85c452bcbd6ec602490e] In regulation 1(2) (interpretation) after the definition of “the Solvency 2 Directive”[^f00017] insert—
 
 > - “**specified performance-based fees**” has the same meaning as in regulation 2(1)[^f00018] of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015;
 
@@ -147,7 +147,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 .
 
-## 3. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-08b651a2d1bb0bd0d58d9455c57e8be8][^key-06df21ebb4521cb1a2f291153e2e96b1][^key-a0fe63cbd129d26dc4c098514fd7d4ac]
+## 3. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-08b651a2d1bb0bd0d58d9455c57e8be8][^c-06df21ebb4521cb1a2f291153e2e96b1][^c-a0fe63cbd129d26dc4c098514fd7d4ac]
 
 (1) The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00023] are amended in accordance with paragraphs (2) to (4).
 
@@ -209,7 +209,7 @@ The Department for Communities makes the following Regulations in exercise of th
 - (a) in the heading after “regulations 2” insert “, 2B”;
 - (b) in paragraph (1) after “regulations 2” insert “, 2B”.
 
-## 4. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-84ce9fd24991a3df833c72f9cadbba33][^key-2906b48c7d5b82c7b546c872166c4cc2]
+## 4. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-84ce9fd24991a3df833c72f9cadbba33][^c-2906b48c7d5b82c7b546c872166c4cc2]
 
 In regulation 29A(2) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00024] (publishing charges and transaction costs and other relevant information[^f00025])—
 
@@ -226,31 +226,31 @@ In regulation 29A(2) of the Occupational and Personal Pension Schemes (Disclosur
 
   .
 
-## 5. Amendment of the Occupational Pension Schemes (Charges and Governance) Regulations[^key-330b0a4917755f579b07d46aead27ea8][^key-9964102aed176122f2d894d7f87504e2]
+## 5. Amendment of the Occupational Pension Schemes (Charges and Governance) Regulations[^c-330b0a4917755f579b07d46aead27ea8][^c-9964102aed176122f2d894d7f87504e2]
 
-(1)[^key-330b0a4917755f579b07d46aead27ea8] The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015[^f00026] are amended in accordance with paragraphs (2) to (6).
+(1)[^c-330b0a4917755f579b07d46aead27ea8] The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015[^f00026] are amended in accordance with paragraphs (2) to (6).
 
 (2) In regulation 2 (interpretation)—
 
 - (a) in paragraph (1)—
-  - (i)[^key-330b0a4917755f579b07d46aead27ea8] in the definition of “charges” after paragraph (f)[^f00027] add—
+  - (i)[^c-330b0a4917755f579b07d46aead27ea8] in the definition of “charges” after paragraph (f)[^f00027] add—
 
     > - (g) specified performance-based fees;
 
     ;
-  - (ii)[^key-330b0a4917755f579b07d46aead27ea8] after the definition of “collective flat fee charge”[^f00028] insert—
+  - (ii)[^c-330b0a4917755f579b07d46aead27ea8] after the definition of “collective flat fee charge”[^f00028] insert—
 
     > - “**collective investment scheme**” has the meaning given in regulation 1(2) of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00029];
 
     ;
-  - (iii)[^key-330b0a4917755f579b07d46aead27ea8] after the definition of “flat fee charge” insert—
+  - (iii)[^c-330b0a4917755f579b07d46aead27ea8] after the definition of “flat fee charge” insert—
 
     > - “**fund manager**” has the meaning given in Article 121(1) of the 1995 Order;
     > - “**fund of funds**” means a collective investment scheme which has a policy of investing in other collective investment schemes;
 
     ;
   - (iv) omit the definition of “performance fee”[^f00030];
-  - (v)[^key-330b0a4917755f579b07d46aead27ea8] after the definition of “single charge structure” insert—
+  - (v)[^c-330b0a4917755f579b07d46aead27ea8] after the definition of “single charge structure” insert—
 
     > - “**specified performance-based fees**” means fees or profit-sharing arrangements, or any part of fees or profit-sharing arrangements, which are—
     >   - (a) payable by or on behalf of the trustees or managers of a pension scheme to a fund manager in relation to investments (“the managed investments”) managed by the fund manager, either directly or as part of a collective investment scheme, for the purposes of the scheme;
@@ -262,7 +262,7 @@ In regulation 29A(2) of the Occupational and Personal Pension Schemes (Disclosur
     >   - (e) subject to pre-agreed terms designed to mitigate the effects of short-term fluctuations in the investment performance or value of the investments;
 
     ;
-- (b)[^key-330b0a4917755f579b07d46aead27ea8] after paragraph (1A)[^f00031] insert—
+- (b)[^c-330b0a4917755f579b07d46aead27ea8] after paragraph (1A)[^f00031] insert—
 
   > (1B) When determining whether or not fees or profit-sharing arrangements, or any part of fees or profit-sharing arrangements, are specified performance-based fees for the purposes of these Regulations—
   >
@@ -272,23 +272,23 @@ In regulation 29A(2) of the Occupational and Personal Pension Schemes (Disclosur
   > - (b) regard must be had to any guidance issued by the Department by virtue of paragraph 1(2)(b) of Schedule 18 to the Pensions Act (Northern Ireland) 2015 (power to restrict charges).
 
   ;
-- (c)[^key-330b0a4917755f579b07d46aead27ea8] omit paragraphs (4A)[^f00032] and (4B).
+- (c)[^c-330b0a4917755f579b07d46aead27ea8] omit paragraphs (4A)[^f00032] and (4B).
 
-(3)[^key-330b0a4917755f579b07d46aead27ea8] In regulation 7 (assessment of charges – default arrangements[^f00033]) omit paragraphs (9)[^f00034], (10), (11) and (12).
+(3)[^c-330b0a4917755f579b07d46aead27ea8] In regulation 7 (assessment of charges – default arrangements[^f00033]) omit paragraphs (9)[^f00034], (10), (11) and (12).
 
-(4)[^key-330b0a4917755f579b07d46aead27ea8] In regulation 7A[^f00035] (assessment of charges – qualifying collective money purchase schemes) omit paragraphs (9), (10), (11) and (12).
+(4)[^c-330b0a4917755f579b07d46aead27ea8] In regulation 7A[^f00035] (assessment of charges – qualifying collective money purchase schemes) omit paragraphs (9), (10), (11) and (12).
 
-(5)[^key-330b0a4917755f579b07d46aead27ea8] In regulation 8 (alternative assessment of charges – default arrangements[^f00036])—
+(5)[^c-330b0a4917755f579b07d46aead27ea8] In regulation 8 (alternative assessment of charges – default arrangements[^f00036])—
 
 - (a) in paragraph (2)[^f00037] omit “and, if the trustees or managers so choose, the assumption in paragraph (3A)”;
 - (b) omit paragraph (3A)[^f00038].
 
-(6)[^key-330b0a4917755f579b07d46aead27ea8] In regulation 8A[^f00039] (alternative assessment of charges – qualifying collective money purchase schemes)—
+(6)[^c-330b0a4917755f579b07d46aead27ea8] In regulation 8A[^f00039] (alternative assessment of charges – qualifying collective money purchase schemes)—
 
 - (a) in paragraph (2) omit “and, if the trustees so choose, the assumption in paragraph (4)”;
 - (b) omit paragraph (4).
 
-## 6. Revocation[^key-1c4b6c332163594814624d68de6dbd3c]
+## 6. Revocation[^c-1c4b6c332163594814624d68de6dbd3c]
 
 The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment No. 2) Regulations (Northern Ireland) 2023[^f00040] are revoked.
 
@@ -332,7 +332,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00004]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5); paragraph 1 was amended by paragraph 25(2) of Schedule 6 and paragraph 15(2) of Schedule 11 to the Pension Schemes Act 2021
 
-[^key-40b35b551e9d61e35ffec13804e667b9]: Commencement: Reg. 1 in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
+[^c-40b35b551e9d61e35ffec13804e667b9]: Commencement: Reg. 1 in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569); regulation 2A was inserted by regulation 20(3) of [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309) and amended by regulation 4(3) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165), regulation 4(3) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272) and regulation 10 of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192); *see also* regulation 3 of [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158)
 
@@ -356,11 +356,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00015]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-eec5ba1df6fd85c452bcbd6ec602490e]: Commencement: Reg. 2(1)(2) in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
+[^c-eec5ba1df6fd85c452bcbd6ec602490e]: Commencement: Reg. 2(1)(2) in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
 
-[^key-32032c0fc8bd17fa3d83e21db760fbde]: Commencement: Reg. 2(3)(a)(4) in operation at 30.3.2024 with application in accordance with reg. 1(3)
+[^c-32032c0fc8bd17fa3d83e21db760fbde]: Commencement: Reg. 2(3)(a)(4) in operation at 30.3.2024 with application in accordance with reg. 1(3)
 
-[^key-094bffd8c823f527bd218af8d59019d6]: Commencement: Reg. 2(3)(b)(5) in operation at 30.3.2024 with application in accordance with reg. 1(4)
+[^c-094bffd8c823f527bd218af8d59019d6]: Commencement: Reg. 2(3)(b)(5) in operation at 30.3.2024 with application in accordance with reg. 1(4)
 
 [^f00016]: Footnote: *See also* regulation 2 of [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158)
 
@@ -376,25 +376,25 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00022]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); section 1005 was substituted by paragraph 1 of Schedule 26 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and amended by paragraph 55 of Schedule 2 to the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8)
 
-[^key-08b651a2d1bb0bd0d58d9455c57e8be8]: Commencement: Reg. 3(1) in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
+[^c-08b651a2d1bb0bd0d58d9455c57e8be8]: Commencement: Reg. 3(1) in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
 
-[^key-06df21ebb4521cb1a2f291153e2e96b1]: Commencement: Reg. 3(2) in operation at 30.3.2024 with application in accordance with reg. 1(6)
+[^c-06df21ebb4521cb1a2f291153e2e96b1]: Commencement: Reg. 3(2) in operation at 30.3.2024 with application in accordance with reg. 1(6)
 
-[^key-a0fe63cbd129d26dc4c098514fd7d4ac]: Commencement: Reg. 3(3)(4) in operation at 30.3.2024 with application in accordance with reg. 1(7)
+[^c-a0fe63cbd129d26dc4c098514fd7d4ac]: Commencement: Reg. 3(3)(4) in operation at 30.3.2024 with application in accordance with reg. 1(7)
 
 [^f00023]: Footnote: *See also* regulation 3 of [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158)
 
-[^key-84ce9fd24991a3df833c72f9cadbba33]: Commencement: Reg. 4(a) in operation at 30.3.2024 with application in accordance with reg. 1(3)
+[^c-84ce9fd24991a3df833c72f9cadbba33]: Commencement: Reg. 4(a) in operation at 30.3.2024 with application in accordance with reg. 1(3)
 
-[^key-2906b48c7d5b82c7b546c872166c4cc2]: Commencement: Reg. 4(b)-(d) in operation at 30.3.2024 with application in accordance with reg. 1(4)
+[^c-2906b48c7d5b82c7b546c872166c4cc2]: Commencement: Reg. 4(b)-(d) in operation at 30.3.2024 with application in accordance with reg. 1(4)
 
 [^f00024]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79); regulation 29A was inserted by regulation 3(6) of [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53) and paragraph (2) was amended by regulation 5(a) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272) and regulation 13(12) of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192); *see also* regulation 4 of [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158)
 
 [^f00025]: Footnote: The heading to regulation 29A was amended by regulation 5(3) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
-[^key-330b0a4917755f579b07d46aead27ea8]: Commencement: Reg. 5(1)(2)(a)(i)(ii)(iii)(v) (2)(b)(c) (3)-(6) in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
+[^c-330b0a4917755f579b07d46aead27ea8]: Commencement: Reg. 5(1)(2)(a)(i)(ii)(iii)(v) (2)(b)(c) (3)-(6) in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
 
-[^key-9964102aed176122f2d894d7f87504e2]: Commencement: Reg. 5(2)(a)(iv) in operation at 5.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/2)
+[^c-9964102aed176122f2d894d7f87504e2]: Commencement: Reg. 5(2)(a)(iv) in operation at 5.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/2)
 
 [^f00026]: Footnote: *See also* regulation 5 of [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158)
 
@@ -424,6 +424,6 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00039]: Footnote: Regulation 8A was inserted by paragraph 16 of Schedule 7 to [S.R. 2024 No. 15](https://www.legislation.gov.uk/nisr/2024/15)
 
-[^key-1c4b6c332163594814624d68de6dbd3c]: Commencement: Reg. 6 in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
+[^c-1c4b6c332163594814624d68de6dbd3c]: Commencement: Reg. 6 in operation at 30.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1)
 
 [^f00040]: Footnote: [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158)

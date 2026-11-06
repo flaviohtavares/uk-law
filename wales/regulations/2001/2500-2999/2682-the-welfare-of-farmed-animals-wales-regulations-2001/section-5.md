@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Additional duties on owners and keepers of poultry (other than those kept in the systems referred to in Schedules 3A, 3B and 3C)[^key-e4ca1ce604ad83eea122062c25a68265]
+## 5. Additional duties on owners and keepers of poultry (other than those kept in the systems referred to in Schedules 3A, 3B and 3C)[^c-e4ca1ce604ad83eea122062c25a68265]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Owners and keepers of poultry (other than those kept in the systems referred to 
 
 ## Annotations
 
-[^key-e4ca1ce604ad83eea122062c25a68265]: Textual amendment: Reg. 5 substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/4)
+[^c-e4ca1ce604ad83eea122062c25a68265]: Textual amendment: Reg. 5 substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/4)

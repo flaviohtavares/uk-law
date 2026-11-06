@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291A. First trustee in bankruptcy[^key-3c5a7ee59fde072f2e6eff61d641dba4]
+## 291A. First trustee in bankruptcy[^c-3c5a7ee59fde072f2e6eff61d641dba4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c5a7ee59fde072f2e6eff61d641dba4]: Textual amendment: S. 291A inserted (6.4.2017 for E.W.) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 133(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/133/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
+[^c-3c5a7ee59fde072f2e6eff61d641dba4]: Textual amendment: S. 291A inserted (6.4.2017 for E.W.) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 133(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/133/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)

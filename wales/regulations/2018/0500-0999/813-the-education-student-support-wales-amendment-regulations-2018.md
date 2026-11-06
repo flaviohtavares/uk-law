@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of powers conferred on the Secretary of State u
 
 ## PART 1 — TITLE AND COMMENCEMENT
 
-### 1. Title and commencement[^key-e1db356c8f85d15f925c548b0342cac0]
+### 1. Title and commencement[^c-e1db356c8f85d15f925c548b0342cac0]
 
 (1) The title of these Regulations is the Education (Student Support) (Wales) (Amendment) Regulations 2018.
 
@@ -55,13 +55,13 @@ The Welsh Ministers, in exercise of powers conferred on the Secretary of State u
 
 ## PART 2 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2018
 
-### 2. Amendments to the Education (Student Support) (Wales) Regulations 2018[^key-aab7ba38d87526ef89729cb89bace269]
+### 2. Amendments to the Education (Student Support) (Wales) Regulations 2018[^c-aab7ba38d87526ef89729cb89bace269]
 
 The Education (Student Support) (Wales) Regulations 2018[^f00003] are amended in accordance with regulations 3 to 10.
 
-**3.**[^key-77e755aea495e7b62b77a2d732ec2d27] In regulation 46(3)(c), after “household income” insert “exceeding £18,370”.
+**3.**[^c-77e755aea495e7b62b77a2d732ec2d27] In regulation 46(3)(c), after “household income” insert “exceeding £18,370”.
 
-**4.**[^key-f90ebb1a0d82e18e2d533e5827197fca] For regulation 56 substitute—
+**4.**[^c-f90ebb1a0d82e18e2d533e5827197fca] For regulation 56 substitute—
 
 > **56. Amount of maintenance loan: full-time students who qualify for special support payment**
 >
@@ -131,11 +131,11 @@ The Education (Student Support) (Wales) Regulations 2018[^f00003] are amended in
 >
 > (4) In this regulation, “living support” is the collective term for special support payment, maintenance grant and maintenance loan.
 
-**5.**[^key-66b212101f928e1e2e03eb59b05a88e4] In regulation 58 (amount of maintenance loan: part-time students), at the end insert—
+**5.**[^c-66b212101f928e1e2e03eb59b05a88e4] In regulation 58 (amount of maintenance loan: part-time students), at the end insert—
 
 > (3) This regulation is subject to regulation 58A.
 
-**6.**[^key-56ee6fdb4a6483fb5f0b4d89da0b3a90] After regulation 58 insert—
+**6.**[^c-56ee6fdb4a6483fb5f0b4d89da0b3a90] After regulation 58 insert—
 
 > **58A. Amount of maintenance loan: part-time students who qualify for special support payment**
 >
@@ -166,19 +166,19 @@ The Education (Student Support) (Wales) Regulations 2018[^f00003] are amended in
 >
 > (3) In this regulation, “living support” is the collective term for special support payment, maintenance grant and maintenance loan.
 
-**7.**[^key-624cf8a2db9f51befa0efc8de33b2103] In regulation 81(2) (qualifying for grants or maintenance loan during the academic year), for sub-paragraph (a) substitute—
+**7.**[^c-624cf8a2db9f51befa0efc8de33b2103] In regulation 81(2) (qualifying for grants or maintenance loan during the academic year), for sub-paragraph (a) substitute—
 
 > - (a) will only, in the case of a grant, be in respect of the remaining days of the academic year, and, in the case of a maintenance loan, only be in respect of the remaining term days of the academic year, in either case beginning with the day the relevant event occurs, and
 
-**8.**[^key-13fe2af919c4e58bb615cfc8bf1834c7] In regulation 93 (support reduced for periods spent in prison), for paragraph (2) substitute—
+**8.**[^c-13fe2af919c4e58bb615cfc8bf1834c7] In regulation 93 (support reduced for periods spent in prison), for paragraph (2) substitute—
 
 > (2) Where this regulation applies, the amount of grant or maintenance loan payable is reduced by the number of days during the academic year that the eligible student is a prisoner.
 
-**9.**[^key-20f9ea4dd5185f79c7a099e925ae77d2] In regulation 94 (support reduced for other periods of absence), for paragraph (2) substitute—
+**9.**[^c-20f9ea4dd5185f79c7a099e925ae77d2] In regulation 94 (support reduced for other periods of absence), for paragraph (2) substitute—
 
 > (2) Where this regulation applies, the amount of grant or maintenance loan is reduced by the number of days during the academic year the eligible student is absent from their course.
 
-**10.**[^key-022f337219047babf9f317c7f0872d35] In regulation 95 (payments when period of eligibility ends or is terminated), for paragraph (1) substitute—
+**10.**[^c-022f337219047babf9f317c7f0872d35] In regulation 95 (payments when period of eligibility ends or is terminated), for paragraph (1) substitute—
 
 > (1) Where an eligible student’s period of eligibility has ended or has been terminated, any amount of grant or maintenance loan payable in respect of an academic year is reduced by the number of days in the academic year when eligibility has ended or terminated.
 
@@ -212,24 +212,24 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The Secretary of State’s functions in section 22(2)(a) to (i) and (k) were transferred to the National Assembly for Wales so far as they relate to making provision in relation to Wales by section 44 of Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), with subsections (a), (c) and (k) being exercised concurrently with the Secretary of State. The Secretary of State’s functions in section 42 were transferred, in so far as exercisable in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, article 2, Schedule 1 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e1db356c8f85d15f925c548b0342cac0]: Commencement: Reg. 1 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-e1db356c8f85d15f925c548b0342cac0]: Commencement: Reg. 1 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-aab7ba38d87526ef89729cb89bace269]: Commencement: Reg. 2 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-aab7ba38d87526ef89729cb89bace269]: Commencement: Reg. 2 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2018/802 (W. 161)](https://www.legislation.gov.uk/wsi/2018/802).
 
-[^key-77e755aea495e7b62b77a2d732ec2d27]: Commencement: Reg. 3 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-77e755aea495e7b62b77a2d732ec2d27]: Commencement: Reg. 3 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-f90ebb1a0d82e18e2d533e5827197fca]: Commencement: Reg. 4 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-f90ebb1a0d82e18e2d533e5827197fca]: Commencement: Reg. 4 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-66b212101f928e1e2e03eb59b05a88e4]: Commencement: Reg. 5 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-66b212101f928e1e2e03eb59b05a88e4]: Commencement: Reg. 5 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-56ee6fdb4a6483fb5f0b4d89da0b3a90]: Commencement: Reg. 6 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-56ee6fdb4a6483fb5f0b4d89da0b3a90]: Commencement: Reg. 6 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-624cf8a2db9f51befa0efc8de33b2103]: Commencement: Reg. 7 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-624cf8a2db9f51befa0efc8de33b2103]: Commencement: Reg. 7 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-13fe2af919c4e58bb615cfc8bf1834c7]: Commencement: Reg. 8 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-13fe2af919c4e58bb615cfc8bf1834c7]: Commencement: Reg. 8 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-20f9ea4dd5185f79c7a099e925ae77d2]: Commencement: Reg. 9 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-20f9ea4dd5185f79c7a099e925ae77d2]: Commencement: Reg. 9 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
 
-[^key-022f337219047babf9f317c7f0872d35]: Commencement: Reg. 10 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)
+[^c-022f337219047babf9f317c7f0872d35]: Commencement: Reg. 10 in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2)

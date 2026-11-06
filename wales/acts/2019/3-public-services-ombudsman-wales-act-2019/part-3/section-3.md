@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Power to investigate complaints[^key-e9cbea2166bd1eab4a904b7966cb5c0f]
+## 3. Power to investigate complaints[^c-e9cbea2166bd1eab4a904b7966cb5c0f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the matter is one which the Ombudsman is entitled to investigate under sections 
 
 ## Annotations
 
-[^key-e9cbea2166bd1eab4a904b7966cb5c0f]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2019/3/section/3) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-e9cbea2166bd1eab4a904b7966cb5c0f]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2019/3/section/3) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

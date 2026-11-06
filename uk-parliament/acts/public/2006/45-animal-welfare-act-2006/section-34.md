@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Disqualification[^key-a8b776dd0b329861fc1a6c561e4c30e1][^key-4066c9cc45846ab849d76bef00370c18][^key-e0fac6bfbb565386f50477b8b9d23127][^key-1b9b827086d288c2b6089ef37b0c5755][^key-798cd9aa15342af60f3c6b42ca0a9403][^key-d2ab416dc9309c548b91df1d6de18613]
+## 34. Disqualification[^c-a8b776dd0b329861fc1a6c561e4c30e1][^c-4066c9cc45846ab849d76bef00370c18][^c-e0fac6bfbb565386f50477b8b9d23127][^c-1b9b827086d288c2b6089ef37b0c5755][^c-798cd9aa15342af60f3c6b42ca0a9403][^c-d2ab416dc9309c548b91df1d6de18613]
 
 *Extent: E+W*
 
@@ -56,14 +56,14 @@ summary: ''
 
 ## Annotations
 
-[^key-a8b776dd0b329861fc1a6c561e4c30e1]: Commencement: S. 34 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
+[^c-a8b776dd0b329861fc1a6c561e4c30e1]: Commencement: S. 34 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
 
-[^key-4066c9cc45846ab849d76bef00370c18]: Commencement: S. 34 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-4066c9cc45846ab849d76bef00370c18]: Commencement: S. 34 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
 
-[^key-e0fac6bfbb565386f50477b8b9d23127]: Modification: S. 34 applied (W.) (30.4.2015) by [The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (No. 3266)](https://www.legislation.gov.uk/wsi/2014/3266), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3266/regulation/1/2), [24](https://www.legislation.gov.uk/wsi/2014/3266/regulation/24)
+[^c-e0fac6bfbb565386f50477b8b9d23127]: Modification: S. 34 applied (W.) (30.4.2015) by [The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (No. 3266)](https://www.legislation.gov.uk/wsi/2014/3266), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/3266/regulation/1/2), [24](https://www.legislation.gov.uk/wsi/2014/3266/regulation/24)
 
-[^key-1b9b827086d288c2b6089ef37b0c5755]: Modification: S. 34 applied (E.) 1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [22](https://www.legislation.gov.uk/uksi/2018/486/regulation/22) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-1b9b827086d288c2b6089ef37b0c5755]: Modification: S. 34 applied (E.) 1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [22](https://www.legislation.gov.uk/uksi/2018/486/regulation/22) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
-[^key-798cd9aa15342af60f3c6b42ca0a9403]: Modification: S. 34 applied (W.) (10.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Wales) Regulations 2021 (S.I. 2021/416)](https://www.legislation.gov.uk/wsi/2021/416), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/416/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2021/416/regulation/21)
+[^c-798cd9aa15342af60f3c6b42ca0a9403]: Modification: S. 34 applied (W.) (10.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Wales) Regulations 2021 (S.I. 2021/416)](https://www.legislation.gov.uk/wsi/2021/416), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/416/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2021/416/regulation/21)
 
-[^key-d2ab416dc9309c548b91df1d6de18613]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2006/45/section/34) applied (with modifications) (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/19/b)
+[^c-d2ab416dc9309c548b91df1d6de18613]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2006/45/section/34) applied (with modifications) (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2024/296/regulation/19/b)

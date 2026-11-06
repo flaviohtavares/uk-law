@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 251. Notice of no, or no further, dividend[^key-25df0dd58a919ba64d02f8415ef17af7]
+## 251. Notice of no, or no further, dividend[^c-25df0dd58a919ba64d02f8415ef17af7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.07 of the 1991 Rules.
 
 ## Annotations
 
-[^key-25df0dd58a919ba64d02f8415ef17af7]: Commencement: Rule 251 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-25df0dd58a919ba64d02f8415ef17af7]: Commencement: Rule 251 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

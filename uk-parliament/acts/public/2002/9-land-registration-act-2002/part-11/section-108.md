@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The First-tier Tribunal[^key-049c7f5bae0b3d9f7302eeba3f07b7e7] has the following functions—
+(1) The First-tier Tribunal[^c-049c7f5bae0b3d9f7302eeba3f07b7e7] has the following functions—
 
-- (a) determining matters referred to it[^key-ac80a5549cef6b6e2e6273775bc5d6bc] under section 73(7), and
+- (a) determining matters referred to it[^c-ac80a5549cef6b6e2e6273775bc5d6bc] under section 73(7), and
 - (b) determining appeals under paragraph 4 of Schedule 5.
 
-(2) Also, the First-tier Tribunal[^key-6c2bc901d615788335d45425d5f53051] may, on application, make any order which the High Court could make for the rectification or setting aside of a document which—
+(2) Also, the First-tier Tribunal[^c-6c2bc901d615788335d45425d5f53051] may, on application, make any order which the High Court could make for the rectification or setting aside of a document which—
 
 - (a) effects a qualifying disposition of a registered estate or charge,
 - (b) is a contract to make such a disposition, or
@@ -38,14 +38,14 @@ summary: ''
 
 (4) The general law about the effect of an order of the High Court for the rectification or setting aside of a document shall apply to an order under this section.
 
-(5)[^key-f7573c9b66cd39ce009d502a166bbb26] The Lord Chancellor may require the registrar to make payments towards expenses of the Lord Chancellor in support of the functions conferred on the First-tier Tribunal by this section.
+(5)[^c-f7573c9b66cd39ce009d502a166bbb26] The Lord Chancellor may require the registrar to make payments towards expenses of the Lord Chancellor in support of the functions conferred on the First-tier Tribunal by this section.
 
 ## Annotations
 
-[^key-049c7f5bae0b3d9f7302eeba3f07b7e7]: Textual amendment: Words in [s. 108(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-049c7f5bae0b3d9f7302eeba3f07b7e7]: Textual amendment: Words in [s. 108(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-ac80a5549cef6b6e2e6273775bc5d6bc]: Textual amendment: Word in [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/1/a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ac80a5549cef6b6e2e6273775bc5d6bc]: Textual amendment: Word in [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/1/a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-6c2bc901d615788335d45425d5f53051]: Textual amendment: Words in [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6c2bc901d615788335d45425d5f53051]: Textual amendment: Words in [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-f7573c9b66cd39ce009d502a166bbb26]: Textual amendment: [S. 108(5)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/5) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f7573c9b66cd39ce009d502a166bbb26]: Textual amendment: [S. 108(5)](https://www.legislation.gov.uk/ukpga/2002/9/section/108/5) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 228(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/228/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

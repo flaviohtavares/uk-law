@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Suspension of payment of an employment and support allowance during imprisonment[^key-636c6f835ba109d469a8df548eb93d4e]
+## 97. Suspension of payment of an employment and support allowance during imprisonment[^c-636c6f835ba109d469a8df548eb93d4e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ is suspended while that claimant is undergoing imprisonment or detention in lega
 
 ## Annotations
 
-[^key-636c6f835ba109d469a8df548eb93d4e]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2016/219/regulation/97) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-636c6f835ba109d469a8df548eb93d4e]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2016/219/regulation/97) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

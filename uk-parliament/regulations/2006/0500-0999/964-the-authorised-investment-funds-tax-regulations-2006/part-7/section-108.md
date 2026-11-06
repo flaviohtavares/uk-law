@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 272 of TCGA 1992 (valuation: general) is modified as follows.
 
-(2)[^key-f25db210cfbe1d37852c95097289f3df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f25db210cfbe1d37852c95097289f3df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (5) the following subsection is treated as inserted—
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f25db210cfbe1d37852c95097289f3df]: Textual amendment: [Reg. 108(2)](https://www.legislation.gov.uk/uksi/2006/964/regulation/108/2) omitted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by virtue of [The Market Value of Shares, Securities and Strips Regulations 2015 (S.I. 2015/616)](https://www.legislation.gov.uk/uksi/2015/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/616/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/616/regulation/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/616/regulation/2/2))
+[^c-f25db210cfbe1d37852c95097289f3df]: Textual amendment: [Reg. 108(2)](https://www.legislation.gov.uk/uksi/2006/964/regulation/108/2) omitted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by virtue of [The Market Value of Shares, Securities and Strips Regulations 2015 (S.I. 2015/616)](https://www.legislation.gov.uk/uksi/2015/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/616/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/616/regulation/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/616/regulation/2/2))

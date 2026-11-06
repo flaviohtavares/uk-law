@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Interpretation[^key-0cc191b8de01e12e626b1a75796a582a]
+## 66. Interpretation[^c-0cc191b8de01e12e626b1a75796a582a]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc191b8de01e12e626b1a75796a582a]: Commencement: S. 66 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-0cc191b8de01e12e626b1a75796a582a]: Commencement: S. 66 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

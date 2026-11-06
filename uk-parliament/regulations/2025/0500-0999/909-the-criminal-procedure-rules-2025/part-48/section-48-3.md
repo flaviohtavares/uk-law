@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.3. Notice of suspension of imprisonment by Court of Appeal or Crown Court[^key-d1966c283eb99fbf6974ab7e53e74a71]
+## 48.3. Notice of suspension of imprisonment by Court of Appeal or Crown Court[^c-d1966c283eb99fbf6974ab7e53e74a71]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1966c283eb99fbf6974ab7e53e74a71]: Commencement: [Rule 48.3](https://www.legislation.gov.uk/uksi/2025/909/rule/48.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d1966c283eb99fbf6974ab7e53e74a71]: Commencement: [Rule 48.3](https://www.legislation.gov.uk/uksi/2025/909/rule/48.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01272]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).

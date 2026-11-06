@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Policy statement on environmental principles: process[^key-f8b1339a38cb909abbf961a75b2801ad][^key-66e19aec75a9cd1c22c78df8b7b72211]
+## 18. Policy statement on environmental principles: process[^c-f8b1339a38cb909abbf961a75b2801ad][^c-66e19aec75a9cd1c22c78df8b7b72211]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ the Secretary of State must produce a response and lay it before Parliament.
 
 ## Annotations
 
-[^key-f8b1339a38cb909abbf961a75b2801ad]: Commencement: S. 18 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-f8b1339a38cb909abbf961a75b2801ad]: Commencement: S. 18 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-66e19aec75a9cd1c22c78df8b7b72211]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/30/section/18) in force at 10.5.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/b)
+[^c-66e19aec75a9cd1c22c78df8b7b72211]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/30/section/18) in force at 10.5.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/b)

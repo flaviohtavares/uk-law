@@ -35,65 +35,61 @@ adopting the list of flavouring substances provided for by Regulation (EC) No 22
 
 (Text with EEA relevance) (revoked)
 
-[^key-38d586c30ef4c371b729c2dbb9fd6a99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38d586c30ef4c371b729c2dbb9fd6a99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-38d586c30ef4c371b729c2dbb9fd6a99]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Adoption of the list of flavouring substances referred to in Regulation (EC) No 2232/96[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 1. Definitions[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Introduction of the list of flavouring substances into Regulation (EC) No 1334/2008[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 2. Adoption of the list of flavouring substances referred to in Regulation (EC) No 2232/96[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Flavouring substances under evaluation[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 3. Introduction of the list of flavouring substances into Regulation (EC) No 1334/2008[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Updating the list[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 4. Flavouring substances under evaluation[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Repeal of Regulation (EC) No 2232/96[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 5. Updating the list[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Repeal of Regulation (EC) No 1565/2000[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 6. Repeal of Regulation (EC) No 2232/96[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Repeal of Decision 1999/217/EC[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 7. Repeal of Regulation (EC) No 1565/2000[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Provisions for foods for infants and young children[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 8. Repeal of Decision 1999/217/EC[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 9. Provisions for foods for infants and young children[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38d586c30ef4c371b729c2dbb9fd6a99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX — UNION LIST OF FLAVOURINGS AND SOURCE MATERIALS[^key-38d586c30ef4c371b729c2dbb9fd6a99]
-
-### PART A — Union list of flavouring substances[^key-38d586c30ef4c371b729c2dbb9fd6a99]
-
-#### SECTION 1 — Content of the list[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+## Article 10. Entry into force[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### SECTION 2[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+[^c-38d586c30ef4c371b729c2dbb9fd6a99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38d586c30ef4c371b729c2dbb9fd6a99] Notes
+## ANNEX — UNION LIST OF FLAVOURINGS AND SOURCE MATERIALS[^c-38d586c30ef4c371b729c2dbb9fd6a99]
+
+### PART A — Union list of flavouring substances[^c-38d586c30ef4c371b729c2dbb9fd6a99]
+
+#### SECTION 1 — Content of the list[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### SECTION 2[^c-38d586c30ef4c371b729c2dbb9fd6a99]
+
+[^c-38d586c30ef4c371b729c2dbb9fd6a99] Notes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,26 +97,30 @@ adopting the list of flavouring substances provided for by Regulation (EC) No 22
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Flavouring preparations[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Thermal process flavourings[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+### PART B — Flavouring preparations[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART D — Flavour precursors[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+### PART C — Thermal process flavourings[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART E — Other flavourings[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+### PART D — Flavour precursors[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART F — Source materials[^key-38d586c30ef4c371b729c2dbb9fd6a99]
+### PART E — Other flavourings[^c-38d586c30ef4c371b729c2dbb9fd6a99]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART F — Source materials[^c-38d586c30ef4c371b729c2dbb9fd6a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38d586c30ef4c371b729c2dbb9fd6a99]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/4/paragraph/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-38d586c30ef4c371b729c2dbb9fd6a99]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/4/paragraph/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Annual report[^key-cfd620f1d39f385c12aee3ac43fb2a64]
+## 6. Annual report[^c-cfd620f1d39f385c12aee3ac43fb2a64]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfd620f1d39f385c12aee3ac43fb2a64]: Commencement: S. 6 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(vi)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/vi)
+[^c-cfd620f1d39f385c12aee3ac43fb2a64]: Commencement: S. 6 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(vi)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/vi)

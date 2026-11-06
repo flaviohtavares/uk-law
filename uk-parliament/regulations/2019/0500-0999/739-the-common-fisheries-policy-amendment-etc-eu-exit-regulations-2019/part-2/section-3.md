@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Regulation (EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy[^key-7ebde9d3a63b4f016a2ddaa1fe3d0531]
+## 3. Regulation (EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy[^c-7ebde9d3a63b4f016a2ddaa1fe3d0531]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 > An obligation or power is within the jurisdiction of the Welsh Ministers if—
 >
 > - (a) it would be within the legislative competence of the National Assembly for Wales to impose or confer that obligation or power on, or in relation to, the Welsh Ministers (if it were included in an Act of that Assembly); or
-> - (b) it could have been imposed or conferred by, or relates to a function exercisable by the Welsh Ministers immediately before IP completion day[^key-e5a34dad81d997dc65825306cac326b2] .
+> - (b) it could have been imposed or conferred by, or relates to a function exercisable by the Welsh Ministers immediately before IP completion day[^c-e5a34dad81d997dc65825306cac326b2] .
 >
 > **5.**
 >
@@ -119,7 +119,7 @@ summary: ''
   >
   > (39) ‘United Kingdom fleet’ means all United Kingdom fishing vessels;
   >
-  > (40) ‘United Kingdom waters’ means the sea within British fishery limits but excluding the territorial sea adjacent to the Isle of Man[^key-20be1cf9e161a8b70a197734938ad866] [^c23688071].
+  > (40) ‘United Kingdom waters’ means the sea within British fishery limits but excluding the territorial sea adjacent to the Isle of Man[^c-20be1cf9e161a8b70a197734938ad866] [^c23688071].
   >
   > (41) ‘third country’ means any country that is not the United Kingdom;
   >
@@ -385,11 +385,11 @@ summary: ''
 
 ## Annotations
 
-[^key-7ebde9d3a63b4f016a2ddaa1fe3d0531]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-7ebde9d3a63b4f016a2ddaa1fe3d0531]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
 
 [^c23688021]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). [S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126) determines the extent of the area of the sea which is to be treated as adjacent to Scotland for the purposes of the definition of the Scottish zone.
 
-[^key-e5a34dad81d997dc65825306cac326b2]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/2/a)
+[^c-e5a34dad81d997dc65825306cac326b2]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/2/a)
 
 [^c23688031]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47). [S.I. 2002/791](https://www.legislation.gov.uk/uksi/2002/791) determines the extent of the area of the sea which is to be treated as adjacent to Northern Ireland for the purposes of the definition of the Northern Ireland zone.
 
@@ -399,6 +399,6 @@ summary: ''
 
 [^c23688061]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-20be1cf9e161a8b70a197734938ad866]: Textual amendment: Words in [reg. 3(4)(l)](https://www.legislation.gov.uk/uksi/2019/739/regulation/3/4/l) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/2/b)
+[^c-20be1cf9e161a8b70a197734938ad866]: Textual amendment: Words in [reg. 3(4)(l)](https://www.legislation.gov.uk/uksi/2019/739/regulation/3/4/l) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/2/b)
 
 [^c23688071]: Marginal citation: [1976 c. 86](https://www.legislation.gov.uk/ukpga/1976/86). By virtue of section 1(1) of the Fishery Limits Act 1976, “British fishery limits” are designated by [S.I. 2013/3161](https://www.legislation.gov.uk/uksi/2013/3161); section 1 of the Fishery Limits Act 1976 was amended (in relation to England and Wales) by paragraph 2(2) and (3) of Schedule 4, and Part 1 of Schedule 22, to the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).

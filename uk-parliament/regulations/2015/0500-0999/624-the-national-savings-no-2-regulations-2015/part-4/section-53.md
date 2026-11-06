@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Transfers and addition of names[^key-9326900431b9b838f11c64f82ee89faa]
+## 53. Transfers and addition of names[^c-9326900431b9b838f11c64f82ee89faa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ and the death of the applicant shall not of itself terminate the authority for t
 
 ## Annotations
 
-[^key-9326900431b9b838f11c64f82ee89faa]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-9326900431b9b838f11c64f82ee89faa]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

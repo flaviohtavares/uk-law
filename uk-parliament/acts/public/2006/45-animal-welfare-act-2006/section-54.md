@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Power to stop and detain vehicles[^key-6ae8fc0dbb4fc22b96e3fdded58950ee][^key-df4d9fd21958d92ddfb70aa7e85c53b5]
+## 54. Power to stop and detain vehicles[^c-6ae8fc0dbb4fc22b96e3fdded58950ee][^c-df4d9fd21958d92ddfb70aa7e85c53b5]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae8fc0dbb4fc22b96e3fdded58950ee]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/45/section/54) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/h)
+[^c-6ae8fc0dbb4fc22b96e3fdded58950ee]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/45/section/54) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/h)
 
-[^key-df4d9fd21958d92ddfb70aa7e85c53b5]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/45/section/54) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/j)
+[^c-df4d9fd21958d92ddfb70aa7e85c53b5]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/45/section/54) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/j)

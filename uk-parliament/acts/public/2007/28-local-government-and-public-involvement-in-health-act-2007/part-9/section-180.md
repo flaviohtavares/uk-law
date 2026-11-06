@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Expenses of the Commission[^key-9aeaa05ff93f9a2d3f0e631bdf8d99b9]
+## 180. Expenses of the Commission[^c-9aeaa05ff93f9a2d3f0e631bdf8d99b9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In Schedule 4 to the Local Government Act 1974 (the Commission) for paragraphs 6
 
 ## Annotations
 
-[^key-9aeaa05ff93f9a2d3f0e631bdf8d99b9]: Commencement: S. 180 in force at 1.4.2009 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/917/article/3/b)
+[^c-9aeaa05ff93f9a2d3f0e631bdf8d99b9]: Commencement: S. 180 in force at 1.4.2009 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/917/article/3/b)

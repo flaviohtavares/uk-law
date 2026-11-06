@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Streets subject to street works[^key-8e758ff664b65bd3ad1dec1614e3769e]
+## SCHEDULE 4 — Streets subject to street works[^c-8e758ff664b65bd3ad1dec1614e3769e]
 
 *Extent: E+W+S*
 
@@ -65,10 +65,10 @@ Article 13
 </tbody>
 </table>
 
-[^key-7e2f3aefda9acbf973077476b0d42bb2][^key-7e2f3aefda9acbf973077476b0d42bb2]
+[^c-7e2f3aefda9acbf973077476b0d42bb2][^c-7e2f3aefda9acbf973077476b0d42bb2]
 
 ## Annotations
 
-[^key-8e758ff664b65bd3ad1dec1614e3769e]: Commencement: Sch. 4 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8e758ff664b65bd3ad1dec1614e3769e]: Commencement: Sch. 4 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-7e2f3aefda9acbf973077476b0d42bb2]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2013/648/schedule/4) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [8](https://www.legislation.gov.uk/uksi/2017/843/article/8)
+[^c-7e2f3aefda9acbf973077476b0d42bb2]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2013/648/schedule/4) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [8](https://www.legislation.gov.uk/uksi/2017/843/article/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 68. General interpretation[^key-623058d9a011002be868e3b4c6d5b984]
+## 68. General interpretation[^c-623058d9a011002be868e3b4c6d5b984]
 
 *Extent: E*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-623058d9a011002be868e3b4c6d5b984]: Commencement: S. 68 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-623058d9a011002be868e3b4c6d5b984]: Commencement: S. 68 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

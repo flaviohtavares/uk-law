@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Treating[^key-573b32f56238b88dfb4793084bd1f9c6]
+## 76. Treating[^c-573b32f56238b88dfb4793084bd1f9c6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-573b32f56238b88dfb4793084bd1f9c6]: Commencement: Art. 76 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-573b32f56238b88dfb4793084bd1f9c6]: Commencement: Art. 76 in force at 16.12.2015 in accordance with art. 1(1)

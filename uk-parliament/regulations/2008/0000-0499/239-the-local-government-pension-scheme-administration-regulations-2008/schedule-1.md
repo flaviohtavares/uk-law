@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — INTERPRETATION[^key-186ed8d4320f9fd1335405b021ac8234]
+## SCHEDULE 1 — INTERPRETATION[^c-186ed8d4320f9fd1335405b021ac8234]
 
 *Extent: E+W+S*
 
@@ -95,7 +95,7 @@ Regulation 2
 
 ## Annotations
 
-[^key-186ed8d4320f9fd1335405b021ac8234]: Commencement: Sch. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-186ed8d4320f9fd1335405b021ac8234]: Commencement: Sch. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00053]: Footnote: [S.I.1986/24](https://www.legislation.gov.uk/uksi/1986/24).
 

@@ -41,11 +41,11 @@ This Act shall have effect for the control …[^c1688253] of pests and diseases 
 
 ## 2. Control of introduction of pests into Northern Ireland.
 
-(1) The Ministry of Agriculture (in this Act referred to as “the Ministry” ) may from time to time make such orders as it thinks expedient \[[^c1688254] or called for by any assimilated[^key-ba8b24fab9cc15ad456e80f1ecdaa46d][^key-791e0c4320c47f66ca5775621d372cfd] law or relevant Protocol obligation\] for preventing the introduction of pests into Northern Ireland.
+(1) The Ministry of Agriculture (in this Act referred to as “the Ministry” ) may from time to time make such orders as it thinks expedient \[[^c1688254] or called for by any assimilated[^c-ba8b24fab9cc15ad456e80f1ecdaa46d][^c-791e0c4320c47f66ca5775621d372cfd] law or relevant Protocol obligation\] for preventing the introduction of pests into Northern Ireland.
 
 (2) Where it appears to the Ministry that the landing in Northern Ireland of articles of any description (and in particular plants, trees or bushes or any part or produce thereof) is likely to introduce a pest into Northern Ireland, the orders may prohibit or regulate the landing of those articles, and may direct or authorise their destruction if landed (without prejudice to provisions of \[[^c1688255] the Customs and Excise Management Act 1979 [^m00001]\] imposing penalties or liability to forfeiture).
 
-(2A)[^key-c383bf680c4c95d5e56089da9ca6edd3] In this section—
+(2A)[^c-c383bf680c4c95d5e56089da9ca6edd3] In this section—
 
 - “relevant Protocol obligation” means any obligation created or arising by or under the relevant part of the Northern Ireland Protocol, whether or not an obligation to which section 7A(2) of the European Union (Withdrawal) Act 2018 applies;
 - “the relevant part of the Northern Ireland Protocol” means article 5(4) of the Northern Ireland Protocol so far as relating to sections 41 and 42 of Annex 2 to that Protocol;
@@ -55,9 +55,9 @@ This Act shall have effect for the control …[^c1688253] of pests and diseases 
 
 ## 3. Control of spread of pests in Northern Ireland.
 
-(1) The Ministry may from time to time make such orders as it thinks expedient \[[^c1688256] or called for by any assimilated[^key-71c05b80f0b54dcad10b7e658633b332][^key-27e79fc7377455b23626f98328fac3c6] law or relevant Protocol obligation\] for preventing the spread of pests in Northern Ireland \[[^c1688257] or the conveyance of pests by articles exported from Northern Ireland\].
+(1) The Ministry may from time to time make such orders as it thinks expedient \[[^c1688256] or called for by any assimilated[^c-71c05b80f0b54dcad10b7e658633b332][^c-27e79fc7377455b23626f98328fac3c6] law or relevant Protocol obligation\] for preventing the spread of pests in Northern Ireland \[[^c1688257] or the conveyance of pests by articles exported from Northern Ireland\].
 
-(1A)[^key-6eb3ab67ff51c9f27fd1c8c2e4a806f8] In this section, “relevant Protocol obligation” has the meaning given by section 2(2A).
+(1A)[^c-6eb3ab67ff51c9f27fd1c8c2e4a806f8] In this section, “relevant Protocol obligation” has the meaning given by section 2(2A).
 
 *Subs. (2)—(5) rep. by 1984 NI 2*
 
@@ -142,25 +142,25 @@ This Act may be cited as the Plant Health Act (Northern Ireland) 1967.
 
 [^c1688254]: Textual amendment: SRO (NI) 1972/351
 
-[^key-ba8b24fab9cc15ad456e80f1ecdaa46d]: Textual amendment: Word in s. 2(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/4/2/a)
+[^c-ba8b24fab9cc15ad456e80f1ecdaa46d]: Textual amendment: Word in s. 2(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/4/2/a)
 
-[^key-791e0c4320c47f66ca5775621d372cfd]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/apni/1967/28/section/2/1) substituted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(2)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/2)
+[^c-791e0c4320c47f66ca5775621d372cfd]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/apni/1967/28/section/2/1) substituted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(2)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/2)
 
 [^c1688255]: Textual amendment: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2)
 
 [^m00001]: Marginal citation: 1979 c.2
 
-[^key-c383bf680c4c95d5e56089da9ca6edd3]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/apni/1967/28/section/2/2A) inserted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/3)
+[^c-c383bf680c4c95d5e56089da9ca6edd3]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/apni/1967/28/section/2/2A) inserted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/3)
 
 [^c1688256]: Textual amendment: SRO (NI) 1972/351
 
-[^key-71c05b80f0b54dcad10b7e658633b332]: Textual amendment: Word in s. 3(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/4/2/b)
+[^c-71c05b80f0b54dcad10b7e658633b332]: Textual amendment: Word in s. 3(1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/4/2/b)
 
-[^key-27e79fc7377455b23626f98328fac3c6]: Textual amendment: Words in s. 3(1) substituted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(4)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/4)
+[^c-27e79fc7377455b23626f98328fac3c6]: Textual amendment: Words in s. 3(1) substituted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(4)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/4)
 
 [^c1688257]: Textual amendment: SRO (NI) 1972/351
 
-[^key-6eb3ab67ff51c9f27fd1c8c2e4a806f8]: Textual amendment: S. 3(1A) inserted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(5)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/5)
+[^c-6eb3ab67ff51c9f27fd1c8c2e4a806f8]: Textual amendment: S. 3(1A) inserted (31.12.2020) by [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [2(5)](https://www.legislation.gov.uk/nisr/2020/327/regulation/2/5)
 
 [^c1688258]: Textual amendment: [1975 NI 8](https://www.legislation.gov.uk/nisi/1975)
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) an individual carries on a trade (“the relevant trade”) as a non-active partner in a firm during an early tax year [^key-248e93d949b115dd9c8e1c87de1b98e2]..., and
+- (a) an individual carries on a trade (“the relevant trade”) as a non-active partner in a firm during an early tax year [^c-248e93d949b115dd9c8e1c87de1b98e2]..., and
 - (b) the individual makes a loss in the relevant trade in that tax year (“the relevant tax year”).
 
 (2) There is a restriction on the amount of relief within subsection (3) which may be given to the individual for the loss.
@@ -37,7 +37,7 @@ summary: ''
 - (a) the sum of the amount of the relief given and the total amount of all other relevant relief given, less
 - (b) the total amount of recovered relief,
 
-must not exceed the individual's contribution to the firm as at the end of [^key-7cda8cefc9b991a5c5a8bc40fe6a0f35]... the relevant tax year (see section 111).
+must not exceed the individual's contribution to the firm as at the end of [^c-7cda8cefc9b991a5c5a8bc40fe6a0f35]... the relevant tax year (see section 111).
 
 (5) “**Relevant relief**” means sideways relief or capital gains relief given to the individual for—
 
@@ -55,6 +55,6 @@ must not exceed the individual's contribution to the firm as at the end of [^key
 
 ## Annotations
 
-[^key-248e93d949b115dd9c8e1c87de1b98e2]: Textual amendment: Words in s. 110(1)(a) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 10(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/10/c), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
+[^c-248e93d949b115dd9c8e1c87de1b98e2]: Textual amendment: Words in s. 110(1)(a) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 10(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/10/c), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
 
-[^key-7cda8cefc9b991a5c5a8bc40fe6a0f35]: Textual amendment: Words in [s. 110(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/110/4) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 52](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/52), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-7cda8cefc9b991a5c5a8bc40fe6a0f35]: Textual amendment: Words in [s. 110(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/110/4) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 52](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/52), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

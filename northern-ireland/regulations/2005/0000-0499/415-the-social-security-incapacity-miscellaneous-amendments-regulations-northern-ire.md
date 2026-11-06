@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (revoked)[^key-2cd9f09412c6cd5456ae6009e8778f6f]
+The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (revoked)[^c-2cd9f09412c6cd5456ae6009e8778f6f]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st October 2005
 
-[^key-2cd9f09412c6cd5456ae6009e8778f6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cd9f09412c6cd5456ae6009e8778f6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2cd9f09412c6cd5456ae6009e8778f6f]
+## 1. Citation and commencement[^c-2cd9f09412c6cd5456ae6009e8778f6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-2cd9f09412c6cd5456ae6009e8778f6f]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-2cd9f09412c6cd5456ae6009e8778f6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-2cd9f09412c6cd5456ae6009e8778f6f]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-2cd9f09412c6cd5456ae6009e8778f6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-2cd9f09412c6cd5456ae6009e8778f6f]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-2cd9f09412c6cd5456ae6009e8778f6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-2cd9f09412c6cd5456ae6009e8778f6f]
+## 5. Revocation[^c-2cd9f09412c6cd5456ae6009e8778f6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cd9f09412c6cd5456ae6009e8778f6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cd9f09412c6cd5456ae6009e8778f6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cd9f09412c6cd5456ae6009e8778f6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cd9f09412c6cd5456ae6009e8778f6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2cd9f09412c6cd5456ae6009e8778f6f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/415) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-2cd9f09412c6cd5456ae6009e8778f6f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/415) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)

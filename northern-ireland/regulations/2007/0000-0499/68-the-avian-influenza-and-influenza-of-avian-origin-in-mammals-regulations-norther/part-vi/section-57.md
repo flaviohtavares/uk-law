@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Measures in a low pathogenic avian influenza restricted zone[^key-e146446c68f73fe1a173290d92212d5e]
+## 57. Measures in a low pathogenic avian influenza restricted zone[^c-e146446c68f73fe1a173290d92212d5e]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e146446c68f73fe1a173290d92212d5e]: Commencement: Reg. 57 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-e146446c68f73fe1a173290d92212d5e]: Commencement: Reg. 57 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

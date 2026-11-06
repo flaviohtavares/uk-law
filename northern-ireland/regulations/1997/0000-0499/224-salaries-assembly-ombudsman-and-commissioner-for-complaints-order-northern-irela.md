@@ -30,7 +30,7 @@ summary: ''
 
 SALARIES
 
-Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 1997 (revoked)[^key-90268183718aa357100772bb2b5f212a]
+Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 1997 (revoked)[^c-90268183718aa357100772bb2b5f212a]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 15th May 1997
 
-[^key-90268183718aa357100772bb2b5f212a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90268183718aa357100772bb2b5f212a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-90268183718aa357100772bb2b5f212a]
+## 1. Title and commencement[^c-90268183718aa357100772bb2b5f212a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-90268183718aa357100772bb2b5f212a]
+## 2. Revocation[^c-90268183718aa357100772bb2b5f212a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase in Salaries[^key-90268183718aa357100772bb2b5f212a]
+## 3. Increase in Salaries[^c-90268183718aa357100772bb2b5f212a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90268183718aa357100772bb2b5f212a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90268183718aa357100772bb2b5f212a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-90268183718aa357100772bb2b5f212a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90268183718aa357100772bb2b5f212a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-90268183718aa357100772bb2b5f212a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/224) revoked (3.6.1998) by [Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 1998 (S.R. 1998/181)](https://www.legislation.gov.uk/nisr/1998/181), [arts. 1](https://www.legislation.gov.uk/nisr/1998/181/article/1), [2](https://www.legislation.gov.uk/nisr/1998/181/article/2)
+[^c-90268183718aa357100772bb2b5f212a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/224) revoked (3.6.1998) by [Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 1998 (S.R. 1998/181)](https://www.legislation.gov.uk/nisr/1998/181), [arts. 1](https://www.legislation.gov.uk/nisr/1998/181/article/1), [2](https://www.legislation.gov.uk/nisr/1998/181/article/2)

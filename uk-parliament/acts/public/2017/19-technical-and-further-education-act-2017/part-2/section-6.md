@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Application of normal insolvency procedures[^key-ca247afd380e2873ec25c4bef0e4f6b8]
+## 6. Application of normal insolvency procedures[^c-ca247afd380e2873ec25c4bef0e4f6b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ and to make provision about receivers and managers of property.
 
 ## Annotations
 
-[^key-ca247afd380e2873ec25c4bef0e4f6b8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/19/section/6) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-ca247afd380e2873ec25c4bef0e4f6b8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/19/section/6) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

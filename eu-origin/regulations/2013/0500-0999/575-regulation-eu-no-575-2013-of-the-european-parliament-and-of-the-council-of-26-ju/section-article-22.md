@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 22. Sub-consolidation in cases of entities in third countries[^key-3344058388f78788cbae8d43cc8b02ce]
+## Article 22. Sub-consolidation in cases of entities in third countries[^c-3344058388f78788cbae8d43cc8b02ce]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-3344058388f78788cbae8d43cc8b02ce]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2013/575/article/22) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/8)
+[^c-3344058388f78788cbae8d43cc8b02ce]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2013/575/article/22) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/8)

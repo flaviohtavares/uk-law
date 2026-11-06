@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 642A. Netherlands Benefit Act for Victims of Persecution 1940-1945[^key-5b0c3238305d35c9164b4b253ddf383c]
+## 642A. Netherlands Benefit Act for Victims of Persecution 1940-1945[^c-5b0c3238305d35c9164b4b253ddf383c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No liability to income tax arises on a pension, annuity, allowance or other paym
 
 ## Annotations
 
-[^key-5b0c3238305d35c9164b4b253ddf383c]: Textual amendment: [S. 642A](https://www.legislation.gov.uk/ukpga/2003/1/section/642A) inserted (with effect in accordance with s. 23(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 23(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/23/1)
+[^c-5b0c3238305d35c9164b4b253ddf383c]: Textual amendment: [S. 642A](https://www.legislation.gov.uk/ukpga/2003/1/section/642A) inserted (with effect in accordance with s. 23(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 23(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/23/1)

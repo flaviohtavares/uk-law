@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Animal By-Products Regulations (Northern Ireland) 2003 (revoked)[^key-3a138b8af2876da48cf877e945ed76a6]
+Animal By-Products Regulations (Northern Ireland) 2003 (revoked)[^c-3a138b8af2876da48cf877e945ed76a6]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into operation
 
 3rd December 2003
 
-[^key-3a138b8af2876da48cf877e945ed76a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a138b8af2876da48cf877e945ed76a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTION[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART I — INTRODUCTION[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ Coming into operation
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Approvals, etc.](part-i/section-3.md)
 
-### PART II — COLLECTION, TRANSPORTATION, STORAGE, HANDLING, PROCESSING AND DISPOSAL OF ANIMAL BY-PRODUCTS[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART II — COLLECTION, TRANSPORTATION, STORAGE, HANDLING, PROCESSING AND DISPOSAL OF ANIMAL BY-PRODUCTS[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ Coming into operation
 - [Section 7 — Mixing mammalian and non-mammalian by-products](part-ii/section-7.md)
 - [Section 8 — Collection, transportation and storage](part-ii/section-8.md)
 
-### PART III — RESTRICTIONS ON ACCESS TO ANIMAL BY-PRODUCTS AND THEIR USE[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART III — RESTRICTIONS ON ACCESS TO ANIMAL BY-PRODUCTS AND THEIR USE[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -80,7 +80,7 @@ Coming into operation
 - [Section 11 — Pasture land](part-iii/section-11.md)
 - [Section 12 — Intra-species recycling of fish](part-iii/section-12.md)
 
-### PART IV — APPROVED PREMISES AND COMPETENT AUTHORITIES[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART IV — APPROVED PREMISES AND COMPETENT AUTHORITIES[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -96,7 +96,7 @@ Coming into operation
 - [Section 20 — Samples sent to laboratories](part-iv/section-20.md)
 - [Section 21 — Laboratories](part-iv/section-21.md)
 
-### PART V — PLACING ANIMAL BY-PRODUCTS AND PROCESSED PRODUCTS ON THE MARKET[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART V — PLACING ANIMAL BY-PRODUCTS AND PROCESSED PRODUCTS ON THE MARKET[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -106,7 +106,7 @@ Coming into operation
 - [Section 23 — Placing on the market of petfood, dogchews and technical products](part-v/section-23.md)
 - [Section 24 — Placing on the market of compost or digestion residues for use on agricultural land](part-v/section-24.md)
 
-### PART VI — DEROGATIONS[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART VI — DEROGATIONS[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -119,7 +119,7 @@ Coming into operation
 - [Section 29 — Burial in the event of a disease outbreak](part-vi/section-29.md)
 - [Section 30 — Burning and burial of bees and apiculture products](part-vi/section-30.md)
 
-### PART VII — RECORDS[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART VII — RECORDS[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -134,7 +134,7 @@ Coming into operation
 - [Section 37 — Records for approved laboratories](part-vii/section-37.md)
 - [Section 38 — Records to be kept for consignments of compost or digestion residue](part-vii/section-38.md)
 
-### PART VIII — ADMINISTRATION AND ENFORCEMENT[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART VIII — ADMINISTRATION AND ENFORCEMENT[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -164,14 +164,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-3a138b8af2876da48cf877e945ed76a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a138b8af2876da48cf877e945ed76a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3a138b8af2876da48cf877e945ed76a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a138b8af2876da48cf877e945ed76a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)
+[^c-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Guidance[^key-29863882b641556291dca7f17c2999de][^key-7e13f176e62d232c32c90acc60f12fe4]
+## 33. Guidance[^c-29863882b641556291dca7f17c2999de][^c-7e13f176e62d232c32c90acc60f12fe4]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29863882b641556291dca7f17c2999de]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-29863882b641556291dca7f17c2999de]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-7e13f176e62d232c32c90acc60f12fe4]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2022/9/section/33) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-7e13f176e62d232c32c90acc60f12fe4]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2022/9/section/33) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

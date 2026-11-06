@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Sale of salmon and trout.[^key-1437d91cc0d65573005e598f6df316ce]
+## 22. Sale of salmon and trout.[^c-1437d91cc0d65573005e598f6df316ce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1437d91cc0d65573005e598f6df316ce]: Textual amendment: [Ss. 19-22](https://www.legislation.gov.uk/ukpga/1975/51/section/19) repealed (12.1.2010 except for the omission of s. 20, 1.1.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/16/paragraph/8), [22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. paras. 15(c)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/15/c), [27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)
+[^c-1437d91cc0d65573005e598f6df316ce]: Textual amendment: [Ss. 19-22](https://www.legislation.gov.uk/ukpga/1975/51/section/19) repealed (12.1.2010 except for the omission of s. 20, 1.1.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/16/paragraph/8), [22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. paras. 15(c)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/15/c), [27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Use of alternative documents to give particulars[^key-75f7e2edd314a54802da27c7fbd2bf6d]
+## 37. Use of alternative documents to give particulars[^c-75f7e2edd314a54802da27c7fbd2bf6d]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ In Part 1 of the Employment Rights Act 1996 (employment particulars), after sect
 
 ## Annotations
 
-[^key-75f7e2edd314a54802da27c7fbd2bf6d]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2002/22/section/37) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+[^c-75f7e2edd314a54802da27c7fbd2bf6d]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2002/22/section/37) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)

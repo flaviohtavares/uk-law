@@ -25,7 +25,7 @@ summary: ''
 - (a) on summary conviction in England and Wales, to a fine;
 - (b) on summary conviction in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-(2) A person who commits an offence under section 132, 144, 148, 148C,[^key-13b42698594ab524aa3bd391ddbb00d8] 170, 171 or 184 is liable—
+(2) A person who commits an offence under section 132, 144, 148, 148C,[^c-13b42698594ab524aa3bd391ddbb00d8] 170, 171 or 184 is liable—
 
 - (a) on summary conviction in England and Wales, to a fine;
 - (b) on summary conviction in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum;
@@ -46,4 +46,4 @@ subject to subsection (5).
 
 [^M_I_fa535b92-b84f-4c76-ca76-66cb9287babf]: Commencement: S. 196 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-13b42698594ab524aa3bd391ddbb00d8]: Textual amendment: Word in s. 196(2) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(10)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/10), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-13b42698594ab524aa3bd391ddbb00d8]: Textual amendment: Word in s. 196(2) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(10)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/10), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)

@@ -22,7 +22,7 @@ summary: ''
 
 Articles 53 and 54
 
-### PART 1 — SPEED LIMITS AND RESTRICTED ROADS[^key-284f2cf4030a9d4c8aa46d67c5ab81b3]
+### PART 1 — SPEED LIMITS AND RESTRICTED ROADS[^c-284f2cf4030a9d4c8aa46d67c5ab81b3]
 
 Note 1: Where roads are to become restricted roads as indicated in this Schedule (Part 1) and as shown on the plans relating to this Schedule (the traffic regulation measures plans (speed limits and restricted roads)), speed limits are to apply in accordance with the provision of the 1984 Act (which defines speed limits of 30mph on ‘restricted’ roads by reference to street lighting).
 
@@ -48,7 +48,7 @@ Note 2: Where existing speed limits (to be retained) are shown on the traffic re
 </tbody>
 </table>
 
-### PART 2 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-0b73ed5d4643b0f243c4b1e32534186b]
+### PART 2 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-0b73ed5d4643b0f243c4b1e32534186b]
 
 <table>
 <tbody>
@@ -105,9 +105,9 @@ Note 2: Where existing speed limits (to be retained) are shown on the traffic re
 </tbody>
 </table>
 
-[^key-96e284a1523081d726001fe656d40bbd][^key-097fecfc747390f8654d7d95836c6377][^key-54838440326d8036f68c4ac916217500]
+[^c-96e284a1523081d726001fe656d40bbd][^c-097fecfc747390f8654d7d95836c6377][^c-54838440326d8036f68c4ac916217500]
 
-### PART 3 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-ded6e308d764ab8682c2c2655fe5bae2]
+### PART 3 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-ded6e308d764ab8682c2c2655fe5bae2]
 
 <table>
 <tbody>
@@ -128,14 +128,14 @@ Note 2: Where existing speed limits (to be retained) are shown on the traffic re
 
 ## Annotations
 
-[^key-284f2cf4030a9d4c8aa46d67c5ab81b3]: Commencement: Sch. 11 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-284f2cf4030a9d4c8aa46d67c5ab81b3]: Commencement: Sch. 11 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-0b73ed5d4643b0f243c4b1e32534186b]: Commencement: Sch. 11 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-0b73ed5d4643b0f243c4b1e32534186b]: Commencement: Sch. 11 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-96e284a1523081d726001fe656d40bbd]: Textual amendment: Word in [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2020/474/schedule/11/part/2) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/8/a)
+[^c-96e284a1523081d726001fe656d40bbd]: Textual amendment: Word in [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2020/474/schedule/11/part/2) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/8/a)
 
-[^key-097fecfc747390f8654d7d95836c6377]: Textual amendment: Word in [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2020/474/schedule/11/part/2) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/8/b)
+[^c-097fecfc747390f8654d7d95836c6377]: Textual amendment: Word in [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2020/474/schedule/11/part/2) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/8/b)
 
-[^key-54838440326d8036f68c4ac916217500]: Textual amendment: Word in [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2020/474/schedule/11/part/2) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/8/c)
+[^c-54838440326d8036f68c4ac916217500]: Textual amendment: Word in [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2020/474/schedule/11/part/2) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/8/c)
 
-[^key-ded6e308d764ab8682c2c2655fe5bae2]: Commencement: Sch. 11 Pt. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-ded6e308d764ab8682c2c2655fe5bae2]: Commencement: Sch. 11 Pt. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

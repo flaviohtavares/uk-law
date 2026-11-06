@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Determination of the amount of the countervailable subsidy that is attributable to the period of investigation[^key-8e08d34e5538dce2393e3cda02ecd78e]
+## 25. Determination of the amount of the countervailable subsidy that is attributable to the period of investigation[^c-8e08d34e5538dce2393e3cda02ecd78e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e08d34e5538dce2393e3cda02ecd78e]: Commencement: Reg. 25 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-8e08d34e5538dce2393e3cda02ecd78e]: Commencement: Reg. 25 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

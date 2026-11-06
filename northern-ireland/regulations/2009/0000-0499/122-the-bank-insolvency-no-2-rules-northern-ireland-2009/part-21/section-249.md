@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 249. Decision to declare dividend[^key-b8b46edc11f42a8dc39068dd336e3d15]
+## 249. Decision to declare dividend[^c-b8b46edc11f42a8dc39068dd336e3d15]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.05 of the 1991 Rules.
 
 ## Annotations
 
-[^key-b8b46edc11f42a8dc39068dd336e3d15]: Commencement: Rule 249 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-b8b46edc11f42a8dc39068dd336e3d15]: Commencement: Rule 249 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

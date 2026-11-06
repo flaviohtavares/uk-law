@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Failure to comply with codes[^key-c03fb04a113a102fe36d69ebcdeeb753]
+## 69. Failure to comply with codes[^c-c03fb04a113a102fe36d69ebcdeeb753]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c03fb04a113a102fe36d69ebcdeeb753]: Commencement: [S. 69](https://www.legislation.gov.uk/mwa/2011/1/section/69) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-c03fb04a113a102fe36d69ebcdeeb753]: Commencement: [S. 69](https://www.legislation.gov.uk/mwa/2011/1/section/69) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

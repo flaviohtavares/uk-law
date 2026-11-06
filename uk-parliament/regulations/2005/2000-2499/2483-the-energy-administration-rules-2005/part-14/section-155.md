@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Provable debts[^key-d4237eac6c9f74dd0ab882740cd6a5ca]
+## 155. Provable debts[^c-d4237eac6c9f74dd0ab882740cd6a5ca]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d4237eac6c9f74dd0ab882740cd6a5ca]: Commencement: Rule 155 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-d4237eac6c9f74dd0ab882740cd6a5ca]: Commencement: Rule 155 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00022]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

@@ -37,15 +37,15 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 71(2) of the Consumer Credit Act 2006[^f00001].
 
-## 1. Citation[^key-6e20a630bbdc28088072b2fb8872cc26]
+## 1. Citation[^c-6e20a630bbdc28088072b2fb8872cc26]
 
 This Order may be cited as the Consumer Credit Act 2006 (Commencement No. 1) Order 2006.
 
-## 2. Interpretation[^key-156d6837c46c5875df680b174ad77626]
+## 2. Interpretation[^c-156d6837c46c5875df680b174ad77626]
 
 In this Order “the Act” means the Consumer Credit Act 2006.
 
-## 3. Commencement[^key-56da44614ac6e9d76fba0bf24df0133a]
+## 3. Commencement[^c-56da44614ac6e9d76fba0bf24df0133a]
 
 (1) The provisions of the Act specified in Schedule 1 shall come into force on 16th June 2006.
 
@@ -59,7 +59,7 @@ Department of Trade and Industry
 
 10th June 2006
 
-## SCHEDULE 1 — PROVISIONS COMING INTO FORCE ON 16TH JUNE 2006[^key-6903000ea44eea926debd25b068a9cf3]
+## SCHEDULE 1 — PROVISIONS COMING INTO FORCE ON 16TH JUNE 2006[^c-6903000ea44eea926debd25b068a9cf3]
 
 Article 3(1)
 
@@ -97,7 +97,7 @@ Article 3(1)
 | Schedule 2 | Consumer credit rules |
 | Paragraph 1(1) of Schedule 3 | Interpretation |
 
-## SCHEDULE 2 — PROVISIONS COMING INTO FORCE ON 1ST OCTOBER 2006[^key-66f2481fa56c4b75ed3a7a0267dba937]
+## SCHEDULE 2 — PROVISIONS COMING INTO FORCE ON 1ST OCTOBER 2006[^c-66f2481fa56c4b75ed3a7a0267dba937]
 
 Article 3(2)
 
@@ -119,12 +119,12 @@ The remaining provisions of the Consumer Credit Act 2006 will be brought into fo
 
 [^f00001]: Footnote: [2006 c. 14](https://www.legislation.gov.uk/ukpga/2006/14).
 
-[^key-6e20a630bbdc28088072b2fb8872cc26]: Commencement: Art. 1 in force at made date
+[^c-6e20a630bbdc28088072b2fb8872cc26]: Commencement: Art. 1 in force at made date
 
-[^key-156d6837c46c5875df680b174ad77626]: Commencement: Art. 2 in force at made date
+[^c-156d6837c46c5875df680b174ad77626]: Commencement: Art. 2 in force at made date
 
-[^key-56da44614ac6e9d76fba0bf24df0133a]: Commencement: Art. 3 in force at made date
+[^c-56da44614ac6e9d76fba0bf24df0133a]: Commencement: Art. 3 in force at made date
 
-[^key-6903000ea44eea926debd25b068a9cf3]: Commencement: Sch. 1 in force at made date
+[^c-6903000ea44eea926debd25b068a9cf3]: Commencement: Sch. 1 in force at made date
 
-[^key-66f2481fa56c4b75ed3a7a0267dba937]: Commencement: Sch. 2 in force at made date
+[^c-66f2481fa56c4b75ed3a7a0267dba937]: Commencement: Sch. 2 in force at made date

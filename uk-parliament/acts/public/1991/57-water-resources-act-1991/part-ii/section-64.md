@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Abstracting and impounding by the appropriate agency.[^key-103a4b5abad4835f4e930f15618f9e05]
+## 64. Abstracting and impounding by the appropriate agency.[^c-103a4b5abad4835f4e930f15618f9e05]
 
 *Extent: E+W*
 
 (1) The provisions of this Chapter shall have effect—
 
 - (a) in relation to the abstraction of water by the appropriate agency from sources of supply; and
-- (b)[^key-c164644959cbcb3688a2f43ed0f2c3e4] in relation to—
+- (b)[^c-c164644959cbcb3688a2f43ed0f2c3e4] in relation to—
   - (i) the construction or alteration by the appropriate agency of impounding works; and
   - (ii) the obstruction or impeding by the appropriate agency of the flow of inland waters by means of impounding works,
 
@@ -39,6 +39,6 @@ subject to such exceptions and modifications as may be prescribed.
 
 ## Annotations
 
-[^key-103a4b5abad4835f4e930f15618f9e05]: Textual amendment: Words in [s. 64 and heading](https://www.legislation.gov.uk/ukpga/1991/57/part/II/chapter/II/crossheading/supplemental-provisions-of-chapter-ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(k)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/k) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-103a4b5abad4835f4e930f15618f9e05]: Textual amendment: Words in [s. 64 and heading](https://www.legislation.gov.uk/ukpga/1991/57/part/II/chapter/II/crossheading/supplemental-provisions-of-chapter-ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(k)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/k) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c164644959cbcb3688a2f43ed0f2c3e4]: Textual amendment: S. 64(1)(b) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 2(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/2/7), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 2(10)](https://www.legislation.gov.uk/ukpga/2003/37/section/2/10)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/984/article/2/b) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-c164644959cbcb3688a2f43ed0f2c3e4]: Textual amendment: S. 64(1)(b) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 2(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/2/7), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 2(10)](https://www.legislation.gov.uk/ukpga/2003/37/section/2/10)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/984/article/2/b) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

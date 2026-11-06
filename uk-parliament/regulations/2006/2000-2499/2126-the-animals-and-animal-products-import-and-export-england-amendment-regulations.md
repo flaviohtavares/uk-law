@@ -66,7 +66,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) in the definition of “Council Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425)” for “paragraph 4(a)”, substitute “ paragraph 5(a) ”; and
 - (b) in the definition of “Council Directive [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496)” for “paragraph 4(b)”, substitute “ paragraph 5(b) ”.
 
-(3)[^key-e126432c04d0c650af4b345c733fd8bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e126432c04d0c650af4b345c733fd8bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 19(9), after “an inspector” add “ in the case of sub-paragraphs (a) and (b), and a veterinary inspector in the case of sub-paragraph (c) ”.
 
@@ -96,4 +96,4 @@ No regulatory impact assessment has been produced for these Regulations in view 
 
 [^c16506801]: Marginal citation: [S.I. 2006/1471](https://www.legislation.gov.uk/uksi/2006/1471).
 
-[^key-e126432c04d0c650af4b345c733fd8bc]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2006/2126/regulation/2/3) revoked (31.3.2007) by [The Animals and Animal Products (Import and Export) (England) (Imports of Captive Birds) Regulations 2007 (S.I. 2007/1044)](https://www.legislation.gov.uk/uksi/2007/1044), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2007/1044/regulation/1/c), [3(a)](https://www.legislation.gov.uk/uksi/2007/1044/regulation/3/a)
+[^c-e126432c04d0c650af4b345c733fd8bc]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2006/2126/regulation/2/3) revoked (31.3.2007) by [The Animals and Animal Products (Import and Export) (England) (Imports of Captive Birds) Regulations 2007 (S.I. 2007/1044)](https://www.legislation.gov.uk/uksi/2007/1044), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2007/1044/regulation/1/c), [3(a)](https://www.legislation.gov.uk/uksi/2007/1044/regulation/3/a)

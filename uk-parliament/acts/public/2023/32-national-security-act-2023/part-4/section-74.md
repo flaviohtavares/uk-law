@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Registration information[^key-464633d90bfa7f2920a2ef0fb93d3939][^key-724857eee98ba6617efa583b2ec50fac]
+## 74. Registration information[^c-464633d90bfa7f2920a2ef0fb93d3939][^c-724857eee98ba6617efa583b2ec50fac]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-464633d90bfa7f2920a2ef0fb93d3939]: Commencement: S. 74 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-464633d90bfa7f2920a2ef0fb93d3939]: Commencement: S. 74 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-724857eee98ba6617efa583b2ec50fac]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/32/section/74) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-724857eee98ba6617efa583b2ec50fac]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/32/section/74) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

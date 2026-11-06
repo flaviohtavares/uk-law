@@ -24,7 +24,7 @@ summary: ''
 
 (2) An appeal lies to the Court from any order or judgment of the Court of Appeal in England and Wales in civil proceedings.
 
-(3)[^key-374d3ecd11d859fcdab2ab56c41a2ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-374d3ecd11d859fcdab2ab56c41a2ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Schedule 9—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-374d3ecd11d859fcdab2ab56c41a2ea9]: Textual amendment: [S. 40(3)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/3) repealed (E.W.N.I.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [art. 1(11)(m)](https://www.legislation.gov.uk/uksi/2015/700/article/1/11/m), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/700/schedule/paragraph/13); s. 40(3) repealed (S.) (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 33](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/33); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-374d3ecd11d859fcdab2ab56c41a2ea9]: Textual amendment: [S. 40(3)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/3) repealed (E.W.N.I.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [art. 1(11)(m)](https://www.legislation.gov.uk/uksi/2015/700/article/1/11/m), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/700/schedule/paragraph/13); s. 40(3) repealed (S.) (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 33](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/33); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

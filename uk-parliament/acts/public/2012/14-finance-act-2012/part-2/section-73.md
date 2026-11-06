@@ -25,9 +25,9 @@ This section sets out rules, in relation to the basic life assurance and general
 - *Step 1* Calculate the income chargeable for the accounting period that is referable, in accordance with Chapter 4, to the company's basic life assurance and general annuity business. The meaning here of “income” is given by section 74.
 - *Step 2* Calculate the BLAGAB chargeable gains of the company for the accounting period as adjusted for allowable losses (see section 75).
 - *Step 3* Calculate so much of the amount (or the total amount) of any I - E receipt under section 92 or 93(5)(a) as is not taken into account in the calculation required by step 1 or 2.
-- *Step 4* Add together the amounts given by the calculations required by steps 1 to 3. Reduce the total of those amounts by the relievable[^key-4761f8346e7ec05a10f7528d83fbfb75] amount of any non-trading deficit which the company has for the accounting period under section 388 of CTA 2009 (loan relationships and derivative contracts). The result is “I”.
+- *Step 4* Add together the amounts given by the calculations required by steps 1 to 3. Reduce the total of those amounts by the relievable[^c-4761f8346e7ec05a10f7528d83fbfb75] amount of any non-trading deficit which the company has for the accounting period under section 388 of CTA 2009 (loan relationships and derivative contracts). The result is “I”.
 
-  In this step, “the relievable amount” of a non-trading deficit means so much of the deficit as does not exceed the total of—[^key-84cd5fd377c7bfdfc288ccbefc97e40b]
+  In this step, “the relievable amount” of a non-trading deficit means so much of the deficit as does not exceed the total of—[^c-84cd5fd377c7bfdfc288ccbefc97e40b]
 
   (a) the amount given by the calculation required by step 1,
 
@@ -43,6 +43,6 @@ This section sets out rules, in relation to the basic life assurance and general
 
 ## Annotations
 
-[^key-4761f8346e7ec05a10f7528d83fbfb75]: Textual amendment: Words in s. 73 substituted (with effect in accordance with s. 67(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 67(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/67/2/a)
+[^c-4761f8346e7ec05a10f7528d83fbfb75]: Textual amendment: Words in s. 73 substituted (with effect in accordance with s. 67(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 67(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/67/2/a)
 
-[^key-84cd5fd377c7bfdfc288ccbefc97e40b]: Textual amendment: Words in s. 73 inserted (with effect in accordance with s. 67(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 67(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/67/2/b)
+[^c-84cd5fd377c7bfdfc288ccbefc97e40b]: Textual amendment: Words in s. 73 inserted (with effect in accordance with s. 67(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 67(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/67/2/b)

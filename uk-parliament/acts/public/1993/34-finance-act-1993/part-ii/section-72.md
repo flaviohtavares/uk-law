@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Car and car fuel benefits: 1994-95 onwards.[^key-7db5b0f4ba32e6ad8fcf33f470f7cd83]
+## 72. Car and car fuel benefits: 1994-95 onwards.[^c-7db5b0f4ba32e6ad8fcf33f470f7cd83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7db5b0f4ba32e6ad8fcf33f470f7cd83]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1993/34/section/72) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-7db5b0f4ba32e6ad8fcf33f470f7cd83]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1993/34/section/72) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

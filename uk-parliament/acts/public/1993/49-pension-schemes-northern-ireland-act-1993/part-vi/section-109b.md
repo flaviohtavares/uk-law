@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109B. Occupational pension schemes: requirements to refer members to guidance etc[^key-ec4e2e4d923cdb46187bf506c96a2cf5]
+## 109B. Occupational pension schemes: requirements to refer members to guidance etc[^c-ec4e2e4d923cdb46187bf506c96a2cf5]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec4e2e4d923cdb46187bf506c96a2cf5]: Textual amendment: [S. 109B](https://www.legislation.gov.uk/ukpga/1993/49/section/109B) inserted (15.3.2022 for specified purposes, 1.6.2022 in so far as not already in force) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/7), [37(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/2); [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/107/article/2/b); [S.R. 2022/175](https://www.legislation.gov.uk/nisr/2022/175), [art. 2](https://www.legislation.gov.uk/nisr/2022/175/article/2)
+[^c-ec4e2e4d923cdb46187bf506c96a2cf5]: Textual amendment: [S. 109B](https://www.legislation.gov.uk/ukpga/1993/49/section/109B) inserted (15.3.2022 for specified purposes, 1.6.2022 in so far as not already in force) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/7), [37(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/2); [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/107/article/2/b); [S.R. 2022/175](https://www.legislation.gov.uk/nisr/2022/175), [art. 2](https://www.legislation.gov.uk/nisr/2022/175/article/2)

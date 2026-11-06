@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**53.**[^key-4d3d0a1be754d58f852dd258f1898e19] For the purposes of section 52 of the Act “undersized pollen” means pollen of a size less than 20.5 centimetres.
+**53.**[^c-4d3d0a1be754d58f852dd258f1898e19] For the purposes of section 52 of the Act “undersized pollen” means pollen of a size less than 20.5 centimetres.
 
 ## Annotations
 
-[^key-4d3d0a1be754d58f852dd258f1898e19]: Commencement: S. 53 in operation at 1.11.1997, see byelaw 1
+[^c-4d3d0a1be754d58f852dd258f1898e19]: Commencement: S. 53 in operation at 1.11.1997, see byelaw 1

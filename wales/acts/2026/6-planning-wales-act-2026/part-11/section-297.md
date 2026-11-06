@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 297. Power of the Welsh Ministers to end right of way over land held for planning purposes[^key-f2a743e13355c692d2d2934dd0dc0945]
+## 297. Power of the Welsh Ministers to end right of way over land held for planning purposes[^c-f2a743e13355c692d2d2934dd0dc0945]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a743e13355c692d2d2934dd0dc0945]: Commencement: S. 297 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f2a743e13355c692d2d2934dd0dc0945]: Commencement: S. 297 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

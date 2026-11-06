@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41A. Use of telephone for review under Article 41[^key-f0d5a4a8db622a03d57e80e81f0b8f86][^c20416741]
+## 41A. Use of telephone for review under Article 41[^c-f0d5a4a8db622a03d57e80e81f0b8f86][^c20416741]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0d5a4a8db622a03d57e80e81f0b8f86]: Modification: [Art. 41A](https://www.legislation.gov.uk/nisi/1989/1341/article/41A) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-f0d5a4a8db622a03d57e80e81f0b8f86]: Modification: [Art. 41A](https://www.legislation.gov.uk/nisi/1989/1341/article/41A) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20416741]: Textual amendment: [Art. 41A](https://www.legislation.gov.uk/nisi/1989/1341/article/41A) inserted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [20](https://www.legislation.gov.uk/nisi/2007/288/article/20)

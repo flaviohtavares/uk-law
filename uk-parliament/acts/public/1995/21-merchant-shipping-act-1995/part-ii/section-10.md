@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Registration regulations.[^key-04eba6b51e63ba3062f85adf9538dc28]
+## 10. Registration regulations.[^c-04eba6b51e63ba3062f85adf9538dc28]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ but no provision determining, or providing for determining, the fees to be charg
 
 ## Annotations
 
-[^key-04eba6b51e63ba3062f85adf9538dc28]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/1995/21/section/10) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-04eba6b51e63ba3062f85adf9538dc28]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/1995/21/section/10) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
 
 [^c14525461]: Modification: S. 10(2)(f) amended (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [4](https://www.legislation.gov.uk/uksi/1999/1750/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1750/schedule/3); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

@@ -48,119 +48,119 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1A(1)(b) and (5), 2(8), 5(2ZA)(a)(ii), (2D) and (6A), 6(7), 7(1)(d), 11(1), 19(2), 22(2)(a) and (6), 23(1)(a), 32(9A), 40(3B), 43A(2), 43B(1), 45(3)(a), 49(3), 51(7)(a), 54(2), 54A(2), 54C(2), 54D(2)(a) and (c), 54E(2) and (5), 69, 71C, 72(1A) and 73(1) of and paragraphs 5(1) and 6 of Schedule 3 to the Bankruptcy (Scotland) Act 1985[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-2adb06196963d5a25b1d91e2a3d21b0c]
+## 1. Citation and commencement[^c-2adb06196963d5a25b1d91e2a3d21b0c]
 
 These Regulations may be cited as the Bankruptcy (Scotland) Regulations 2014 and come into force on 1st April 2015.
 
-## 2. Interpretation[^key-ce6d56b24ee5a2548413c4e537236e61]
+## 2. Interpretation[^c-ce6d56b24ee5a2548413c4e537236e61]
 
 (1) In these Regulations, “the 1985 Act” means the Bankruptcy (Scotland) Act 1985.
 
-(2)[^key-ba86926cb6111f1de736f254e9027f86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ba86926cb6111f1de736f254e9027f86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Forms
 
-### 3. Forms[^key-9a38331db96179cbac04ab880d304adb]
+### 3. Forms[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Register of Insolvencies
 
-### 4. Register of Insolvencies[^key-9a38331db96179cbac04ab880d304adb]
+### 4. Register of Insolvencies[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Sequestration Process
 
-### 5. Debtor applications[^key-9a38331db96179cbac04ab880d304adb]
+### 5. Debtor applications[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Sequestration where debtor has few assets (“Minimal Asset Process”): prescribed payments[^key-9a38331db96179cbac04ab880d304adb]
+### 6. Sequestration where debtor has few assets (“Minimal Asset Process”): prescribed payments[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Debt advice and information package[^key-9a38331db96179cbac04ab880d304adb]
+### 7. Debt advice and information package[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Application of the 1985 Act to limited partnerships[^key-9a38331db96179cbac04ab880d304adb]
+### 8. Application of the 1985 Act to limited partnerships[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Apparent Insolvency/Creditor Debt Threshold[^key-9a38331db96179cbac04ab880d304adb]
+### 9. Apparent Insolvency/Creditor Debt Threshold[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Claims in foreign currency[^key-9a38331db96179cbac04ab880d304adb]
+### 10. Claims in foreign currency[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Conversion of foreign currency claims[^key-9a38331db96179cbac04ab880d304adb]
+### 11. Conversion of foreign currency claims[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Trustee resignation application[^key-9a38331db96179cbac04ab880d304adb]
+### 12. Trustee resignation application[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Abandonment of heritable property by trustee[^key-9a38331db96179cbac04ab880d304adb]
+### 13. Abandonment of heritable property by trustee[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Debtor contribution orders[^key-9a38331db96179cbac04ab880d304adb]
+### 14. Debtor contribution orders[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Notice by trustee of proceedings to obtain authority in relation to debtor’s family home[^key-9a38331db96179cbac04ab880d304adb]
+### 15. Notice by trustee of proceedings to obtain authority in relation to debtor’s family home[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Debtor’s requirement to give account of state of affairs[^key-9a38331db96179cbac04ab880d304adb]
+### 16. Debtor’s requirement to give account of state of affairs[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Financial education[^key-9a38331db96179cbac04ab880d304adb]
+### 17. Financial education[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Interest on claims in sequestration[^key-9a38331db96179cbac04ab880d304adb]
+### 18. Interest on claims in sequestration[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Certificate of deferral[^key-9a38331db96179cbac04ab880d304adb]
+### 19. Certificate of deferral[^c-9a38331db96179cbac04ab880d304adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Premium of bond of caution[^key-9a38331db96179cbac04ab880d304adb]
+### 20. Premium of bond of caution[^c-9a38331db96179cbac04ab880d304adb]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Preference for remuneration of employees, etc.[^key-447eae99c4683019b9b1899c9cbcd647]
+### 21. Preference for remuneration of employees, etc.[^c-447eae99c4683019b9b1899c9cbcd647]
 
 The prescribed amount for the purposes of paragraphs 5(1) and 6 of Schedule 3 to the 1985 Act (the maximum amount which can be claimed as a preferred debt by an employee by way of remuneration or by a person under the Reserve Forces (Safeguard of Employment) Act 1985[^f00039]) is £800[^f00040].
 
 ### Moratorium on diligence
 
-#### 22. Moratorium on diligence: notice of intention to apply[^key-6a4f46dca0fd15d6c8fcc6f86675c9e9]
+#### 22. Moratorium on diligence: notice of intention to apply[^c-6a4f46dca0fd15d6c8fcc6f86675c9e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Revocations and sequestration before 1st April 2015
 
-#### 23. Revocations[^key-6a4f46dca0fd15d6c8fcc6f86675c9e9]
+#### 23. Revocations[^c-6a4f46dca0fd15d6c8fcc6f86675c9e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Sequestration before 1st April 2015[^key-6a4f46dca0fd15d6c8fcc6f86675c9e9]
+#### 24. Sequestration before 1st April 2015[^c-6a4f46dca0fd15d6c8fcc6f86675c9e9]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Trust deed granted before 1st April 2015[^key-ef7fc0fd8239618babd087609485cfdb]
+#### 25. Trust deed granted before 1st April 2015[^c-ef7fc0fd8239618babd087609485cfdb]
 
 These Regulations, except regulation 22 and Forms 29 and 30, have no effect as regards any trust deed granted before 1st April 2015.
 
@@ -174,7 +174,7 @@ Edinburgh
 
 20th August 2014
 
-## SCHEDULE 1 — FORMS[^key-1cac0dadc2f3ad1dc750804c5dc2acf6]
+## SCHEDULE 1 — FORMS[^c-1cac0dadc2f3ad1dc750804c5dc2acf6]
 
 **No longer in force.**
 
@@ -182,7 +182,7 @@ Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REGISTER OF INSOLVENCIES[^key-d1c7f2d1afaf671c6048703c5e8743f3]
+## SCHEDULE 2 — REGISTER OF INSOLVENCIES[^c-d1c7f2d1afaf671c6048703c5e8743f3]
 
 **No longer in force.**
 
@@ -246,24 +246,24 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^f00001]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66). Sections 1, 1A, 1B, 1C and 1D were substituted for section 1 by the Bankruptcy (Scotland) Act [1993 (c.6)](https://www.legislation.gov.uk/ukpga/1993/6) (“the 1993 Act”), section 1. Section 1A(1)(b) was amended by the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the 2007 Act”), schedule 6, the Bankruptcy and Debt Advice (Scotland) Act [2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11) (“the 2014 Act”), section 22 and schedule 3, paragraph 3 and by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 1A(5) was inserted by the 2014 Act, section 22. Section 2(8) was inserted by the 2014 Act, section 9. Section 5(2ZA) was inserted by the 2014 Act, section 5. Section 5(2D) was inserted by the 2007 Act, section 26. Section 5(6A) was substituted by the 2007 Act, schedule 1, paragraph 4 and is applied for the purposes of section 6 by section 6(8) which was amended by the 2007 Act, section 14 and the 2014 Act, schedule 3, paragraph 6. Section 7(1) was amended by the Criminal Justice (Scotland) Act [1987 (c.41)](https://www.legislation.gov.uk/ukpga/1987/41), section 45, the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33), Schedule 15, paragraph 108, the Drug Trafficking Act [1994 (c.37)](https://www.legislation.gov.uk/ukpga/1994/37), Schedule 1, paragraph 10 and Schedule 3, the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraph 15, the 2007 Act, schedule 6, the 2014 Act, schedule 3, paragraph 7 and by [S.I. 2003/2109](https://www.legislation.gov.uk/uksi/2003/2109) and [S.S.I. 2011/141](https://www.legislation.gov.uk/ssi/2011/141). Section 11(1) was amended by the 2007 Act, schedule 1, paragraph 9. Section 19 was substituted by the 1993 Act, Schedule 1, paragraph 7 and section 19(2) was amended by the 2007 Act, schedule 1, paragraph 17 and schedule 6. Section 22(2) was amended by the 2007 Act, schedule 6. Section 22(2)(a) is applied, with modifications, for the purposes of section 48 by section 48(3) which was amended by the 2007 Act, schedule 6. Section 22(6) is applied, with modifications, for the purposes of section 48 by section 48(7) which was amended by the 2007 Act, schedule 6 and the 2014 Act, schedule 3, paragraph 24. Section 23(1) was amended by the 2007 Act, schedule 6. Section 32(9A) was inserted by the 2007 Act, section 19. Section 40(3B) was inserted by the Home Owner and Debtor Protection (Scotland) Act [2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6) (“the 2010 Act”), section 11. Section 43A was inserted by the 2007 Act, section 30 and was amended by the 2014 Act, schedule 3, paragraph 22. Section 43B was inserted by the 2014 Act, section 2. Section 45(3) was amended by the 2007 Act, schedule 6 and the 2014 Act, section 24. Section 49(3) was amended by the 2007 Act, schedule 6. Sections 54 and 54A were substituted for section 54 by the 2014 Act, section 17. Section 54C was inserted by the 2014 Act, section 7. Sections 54D and 54E were inserted by the 2014 Act, section 19. Section 69 was amended by the 2007 Act, schedule 1, paragraph 58 and schedule 6. Section 71C was inserted by the 2014 Act, section 36. Section 72(1A) was inserted by the 2014 Act, schedule 3, paragraph 34(a). The definition of “statement of assets and liabilities” was inserted into section 73(1) by the 1993 Act, Schedule 1, paragraph 29. Section 73(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State so far as exercisable within devolved competence were transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-2adb06196963d5a25b1d91e2a3d21b0c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1)
+[^c-2adb06196963d5a25b1d91e2a3d21b0c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1)
 
-[^key-ce6d56b24ee5a2548413c4e537236e61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/225/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1)
+[^c-ce6d56b24ee5a2548413c4e537236e61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/225/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1)
 
-[^key-ba86926cb6111f1de736f254e9027f86]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2014/225/regulation/2/2) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-ba86926cb6111f1de736f254e9027f86]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2014/225/regulation/2/2) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
 
-[^key-9a38331db96179cbac04ab880d304adb]: Textual amendment: [Regs. 3-20](https://www.legislation.gov.uk/ssi/2014/225/regulation/3) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-9a38331db96179cbac04ab880d304adb]: Textual amendment: [Regs. 3-20](https://www.legislation.gov.uk/ssi/2014/225/regulation/3) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
 
-[^key-447eae99c4683019b9b1899c9cbcd647]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/225/regulation/21) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1)
+[^c-447eae99c4683019b9b1899c9cbcd647]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/225/regulation/21) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1)
 
 [^f00039]: Footnote: [1985 c.17](https://www.legislation.gov.uk/ukpga/1985/17).
 
 [^f00040]: Footnote: This regulation re-enacts regulation 10 of the 2008 Regulations.
 
-[^key-6a4f46dca0fd15d6c8fcc6f86675c9e9]: Textual amendment: [Regs. 22-24](https://www.legislation.gov.uk/ssi/2014/225/regulation/22) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-6a4f46dca0fd15d6c8fcc6f86675c9e9]: Textual amendment: [Regs. 22-24](https://www.legislation.gov.uk/ssi/2014/225/regulation/22) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
 
-[^key-ef7fc0fd8239618babd087609485cfdb]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/225/regulation/25) inserted (1.4.2015) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/80)](https://www.legislation.gov.uk/ssi/2015/80), [regs. 1](https://www.legislation.gov.uk/ssi/2015/80/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/80/regulation/2)
+[^c-ef7fc0fd8239618babd087609485cfdb]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/225/regulation/25) inserted (1.4.2015) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/80)](https://www.legislation.gov.uk/ssi/2015/80), [regs. 1](https://www.legislation.gov.uk/ssi/2015/80/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/80/regulation/2)
 
-[^key-1cac0dadc2f3ad1dc750804c5dc2acf6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/225/schedule/1) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-1cac0dadc2f3ad1dc750804c5dc2acf6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/225/schedule/1) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
 
-[^key-d1c7f2d1afaf671c6048703c5e8743f3]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2014/225/schedule/2) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-d1c7f2d1afaf671c6048703c5e8743f3]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2014/225/schedule/2) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)

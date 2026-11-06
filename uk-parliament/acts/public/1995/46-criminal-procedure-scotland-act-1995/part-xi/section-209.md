@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Supervised release orders.[^key-00dc3f4cbe94d9ee767d82a856cd9136]
+## 209. Supervised release orders.[^c-00dc3f4cbe94d9ee767d82a856cd9136]
 
 *Extent: E+W+S*
 
@@ -66,7 +66,7 @@ summary: ''
 
 the relevant period for any supervised release order made in relation to him shall begin on the date when he is released from those terms of imprisonment; and where there is more than one such order he shall on his release be subject to whichever of them is for the longer or, as the case may be, the longest period.
 
-(7B)[^key-1bce7c6e3bbb8ee5669c4d452dc16ed0] A supervised release order made in relation to a person is to be taken to be of no effect if the person becomes a long-term prisoner, as defined in section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993, because of the treating of—
+(7B)[^c-1bce7c6e3bbb8ee5669c4d452dc16ed0] A supervised release order made in relation to a person is to be taken to be of no effect if the person becomes a long-term prisoner, as defined in section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993, because of the treating of—
 
 - (a) a sentence in association with which the order is made, and
 - (b) any other sentence (whenever imposed on the person),
@@ -77,7 +77,7 @@ together as a single term by virtue of section 27(5) of that Act.
 
 ## Annotations
 
-[^key-00dc3f4cbe94d9ee767d82a856cd9136]: Modification: S. 209 modified (S.) (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 8](https://www.legislation.gov.uk/ukpga/2020/3/section/8), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
+[^c-00dc3f4cbe94d9ee767d82a856cd9136]: Modification: S. 209 modified (S.) (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 8](https://www.legislation.gov.uk/ukpga/2020/3/section/8), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
 
 [^c14472211]: Textual amendment: Words in s. 209(1) inserted (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 86(2)(a)(b)](https://www.legislation.gov.uk/ukpga/1998/37/section/86/2/a/b); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/s) (subject to [arts. 5-8](https://www.legislation.gov.uk/uksi/1998/2327/article/5))
 
@@ -101,4 +101,4 @@ together as a single term by virtue of section 27(5) of that Act.
 
 [^c14472301]: Textual amendment: S. 209(7A) inserted (1.4.1999) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1), [Sch. 1 para. 21(26)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/26)[S.I. 1999/652](https://www.legislation.gov.uk/uksi/1999/652), [art. 2](https://www.legislation.gov.uk/uksi/1999/652/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/652/schedule) (subject to savings and transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/1999/652/article/3))
 
-[^key-1bce7c6e3bbb8ee5669c4d452dc16ed0]: Textual amendment: S. 209(7B) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/1/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-1bce7c6e3bbb8ee5669c4d452dc16ed0]: Textual amendment: S. 209(7B) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/1/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

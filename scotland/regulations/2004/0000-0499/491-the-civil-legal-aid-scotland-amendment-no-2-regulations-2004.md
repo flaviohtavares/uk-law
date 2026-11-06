@@ -45,15 +45,15 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and by sections 36(1),(2)(a), (e), (f) and (g), and 42 of the Legal Aid (Scotland) Act 1986[^f00002], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-7a80a77929ebf2b6227943c1da7372ec]
+## 1. Citation and commencement[^c-7a80a77929ebf2b6227943c1da7372ec]
 
 These Regulations may be cited as the Civil Legal Aid (Scotland) Amendment (No. 2) Regulations 2004 and shall come into force on 4th December 2004.
 
-## 2. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-f6e83e0b66bb759a44a5abe68ae911cb]
+## 2. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-f6e83e0b66bb759a44a5abe68ae911cb]
 
 The Civil Legal Aid (Scotland) Regulations 2002[^f00003] are amended in accordance with the following regulations.
 
-**3.**[^key-94ee9990eabcf672104b775ca1fe4bda] (1) Regulation 9(1) is amended as follows–
+**3.**[^c-94ee9990eabcf672104b775ca1fe4bda] (1) Regulation 9(1) is amended as follows–
 
 - (a) after “such” insert “information or”; and
 - (b) after “application” insert “or to make determination as to the amount of contribution to the Fund”.
@@ -67,7 +67,7 @@ The Civil Legal Aid (Scotland) Regulations 2002[^f00003] are amended in accordan
 
 .
 
-**4.**[^key-5e4ef27262a027b64286b7682412de10] (1) After Regulation 23, insert–
+**4.**[^c-5e4ef27262a027b64286b7682412de10] (1) After Regulation 23, insert–
 
 > **23A.** (1) The Board from time to time may directly request from the applicant or assisted person, or a solicitor or counsel acting for the applicant or assisted person, information relating to any change in circumstances, financial or otherwise.
 >
@@ -116,14 +116,14 @@ These Regulations amend the Civil Legal Aid (Scotland) Regulations 2002 so as to
 
 [^f00002]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-7a80a77929ebf2b6227943c1da7372ec]: Commencement: Reg. 1 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
+[^c-7a80a77929ebf2b6227943c1da7372ec]: Commencement: Reg. 1 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
 
-[^key-f6e83e0b66bb759a44a5abe68ae911cb]: Commencement: Reg. 2 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
+[^c-f6e83e0b66bb759a44a5abe68ae911cb]: Commencement: Reg. 2 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), as relevantly amended by [S.S.I. 2003/486](https://www.legislation.gov.uk/ssi/2003/486). These Regulations revoked S.I. [1996/2444](https://www.legislation.gov.uk/uksi/1996/2444), S.I. [1997/727](https://www.legislation.gov.uk/uksi/1997/727), S.I. [1998/725](https://www.legislation.gov.uk/uksi/1998/725), [S.S.I. 2000/182](https://www.legislation.gov.uk/ssi/2000/182), [S.S.I. 2001/82](https://www.legislation.gov.uk/ssi/2001/82), [S.S.I. 2002/88](https://www.legislation.gov.uk/ssi/2002/88), [S.S.I. 2002/254](https://www.legislation.gov.uk/ssi/2002/254).
 
-[^key-94ee9990eabcf672104b775ca1fe4bda]: Commencement: Reg. 3 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
+[^c-94ee9990eabcf672104b775ca1fe4bda]: Commencement: Reg. 3 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
 
-[^key-5e4ef27262a027b64286b7682412de10]: Commencement: Reg. 4 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
+[^c-5e4ef27262a027b64286b7682412de10]: Commencement: Reg. 4 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/491/regulation/1)
 
 [^M_F_65769294-f38b-4aed-ea09-dd4db1113ba8]: Textual amendment: Reg. 5 omitted (31.12.2020) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [11](https://www.legislation.gov.uk/ssi/2020/441/regulation/11)

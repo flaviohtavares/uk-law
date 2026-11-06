@@ -105,7 +105,7 @@ An agreement relates to construction operations so far as it makes provision of 
 
 (3) The Department may by order add to, amend or repeal any of the provisions of paragraph (1) or (2) as to the operations and work to be treated as construction operations for the purposes of this Order.
 
-#### 5. Application of this Order[^key-418f92ec1738557e75d6fff61283d11c]
+#### 5. Application of this Order[^c-418f92ec1738557e75d6fff61283d11c]
 
 (1) This Order does not apply to a construction contract with a residential occupier (see paragraph (2)).
 
@@ -119,7 +119,7 @@ An agreement relates to construction operations so far as it makes provision of 
 
 (3) The Department may by order amend paragraph (2).
 
-#### 6. Provisions applicable only to agreements in writing[^key-4104e8e15136e856dc275b58850450ec]
+#### 6. Provisions applicable only to agreements in writing[^c-4104e8e15136e856dc275b58850450ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,7 +131,7 @@ An agreement relates to construction operations so far as it makes provision of 
 
 For this purpose dispute includes any difference.
 
-(2) The contract shall include provision in writing so as to[^key-841b7d1f4ab1467b9d97b9db2815ad02]—
+(2) The contract shall include provision in writing so as to[^c-841b7d1f4ab1467b9d97b9db2815ad02]—
 
 - (a) enable a party to give notice at any time of his intention to refer a dispute to adjudication;
 - (b) provide a timetable with the object of securing the appointment of the adjudicator and referral of the dispute to him within 7 days of such notice;
@@ -140,11 +140,11 @@ For this purpose dispute includes any difference.
 - (e) impose a duty on the adjudicator to act impartially; and
 - (f) enable the adjudicator to take the initiative in ascertaining the facts and the law.
 
-(3) The contract shall provide in writing[^key-0f24374552cbda9cad4db1b9475fbe6a] that the decision of the adjudicator is binding until the dispute is finally determined by legal proceedings, by arbitration (if the contract provides for arbitration or the parties otherwise agree to arbitration) or by agreement.
+(3) The contract shall provide in writing[^c-0f24374552cbda9cad4db1b9475fbe6a] that the decision of the adjudicator is binding until the dispute is finally determined by legal proceedings, by arbitration (if the contract provides for arbitration or the parties otherwise agree to arbitration) or by agreement.
 
 The parties may agree to accept the decision of the adjudicator as finally determining the dispute.
 
-(3A)[^key-1f9e12486261247f30e5016e3568a8e1] The contract shall include provision in writing permitting the adjudicator to correct his decision so as to remove a clerical or typographical error arising by accident or omission.
+(3A)[^c-1f9e12486261247f30e5016e3568a8e1] The contract shall include provision in writing permitting the adjudicator to correct his decision so as to remove a clerical or typographical error arising by accident or omission.
 
 (4) The contract shall also provide in writing that the adjudicator is not liable for anything done or omitted in the discharge or purported discharge of his functions as adjudicator unless the act or omission is in bad faith, and that any employee or agent of the adjudicator is similarly protected from liability.
 
@@ -152,7 +152,7 @@ The parties may agree to accept the decision of the adjudicator as finally deter
 
 (6) The Scheme may apply the provisions of the [^m00003] Arbitration Act 1996 with such adaptations and modifications as appear to the Department to be appropriate.
 
-#### 7A. Adjudication costs: effectiveness of provision[^key-4f5b16b10c489c7dfd6374f3edda2eaf]
+#### 7A. Adjudication costs: effectiveness of provision[^c-4f5b16b10c489c7dfd6374f3edda2eaf]
 
 (1) This Article applies in relation to any contractual provision made between the parties to a construction contract which concerns the allocation as between those parties of costs relating to the adjudication of a dispute arising under the construction contract. It is immaterial whether or not the contractual provision is contained in the construction contract.
 
@@ -174,7 +174,7 @@ The parties may agree to accept the decision of the adjudicator as finally deter
 
 (3) In the absence of such agreement, the relevant provisions of the Scheme apply.
 
-(4) References in the following Articles to a payment provided for by the contract[^key-68b970fcfa76a49e98b0f587f0065463] include a payment by virtue of this Article.
+(4) References in the following Articles to a payment provided for by the contract[^c-68b970fcfa76a49e98b0f587f0065463] include a payment by virtue of this Article.
 
 #### 9. Dates for payment
 
@@ -185,7 +185,7 @@ The parties may agree to accept the decision of the adjudicator as finally deter
 
 The parties are free to agree how long the period is to be between the date on which a sum becomes due and the final date for payment.
 
-(1A)[^M_C_2e8563f4-5487-41b1-b009-4735083b31c4][^key-ce494228c590c1abde0e918efd05ddd1] The requirement in paragraph (1)(a) to provide an adequate mechanism for determining what payments become due under the contract, or when, is not satisfied where a construction contract makes payment conditional on—
+(1A)[^M_C_2e8563f4-5487-41b1-b009-4735083b31c4][^c-ce494228c590c1abde0e918efd05ddd1] The requirement in paragraph (1)(a) to provide an adequate mechanism for determining what payments become due under the contract, or when, is not satisfied where a construction contract makes payment conditional on—
 
 - (a) the performance of obligations under another contract, or
 - (b) a decision by any person as to whether obligations under another contract have been performed.
@@ -199,11 +199,11 @@ The parties are free to agree how long the period is to be between the date on w
 
 (1D) The requirement in paragraph (1)(a) to provide an adequate mechanism for determining when payments become due under the contract is not satisfied where a construction contract provides for the date on which a payment becomes due to be determined by reference to the giving to the person to whom the payment is due of a notice which relates to what payments are due under the contract.
 
-(2)[^key-32c379e1ad8e775b85d38b36e4bf5a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-32c379e1ad8e775b85d38b36e4bf5a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) If or to the extent that a contract does not contain such provision as is mentioned in paragraph (1) [^key-60518ce483af9125022bf73c3c9b0d81]..., the relevant provisions of the Scheme apply.
+(3) If or to the extent that a contract does not contain such provision as is mentioned in paragraph (1) [^c-60518ce483af9125022bf73c3c9b0d81]..., the relevant provisions of the Scheme apply.
 
-#### 9A. Payment notices: contractual requirements[^key-d5001da376eea61393a16e38ffec3b42]
+#### 9A. Payment notices: contractual requirements[^c-d5001da376eea61393a16e38ffec3b42]
 
 (1) A construction contract shall, in relation to every payment provided for by the contract—
 
@@ -255,7 +255,7 @@ The parties are free to agree how long the period is to be between the date on w
 
 that notification is to be regarded as a notice complying with Article 9A(3) given pursuant to paragraph (2) (and the payee may not give another such notice pursuant to that paragraph).
 
-#### 10. Requirement to pay notified sum[^key-72e9c34481a76301c3475d1dfa5dcfcc]
+#### 10. Requirement to pay notified sum[^c-72e9c34481a76301c3475d1dfa5dcfcc]
 
 (1) Subject as follows, where a payment is provided for by a construction contract, the payer must pay the notified sum (to the extent not already paid) on or before the final date for payment.
 
@@ -309,15 +309,15 @@ whichever is the later.
 
 #### 11. Right to suspend performance for non-payment
 
-(1) Where the requirement in Article 10(1) applies in relation to any sum but is not complied with,[^key-452fae352e18b72e25c5fdde1027c525] the person to whom the sum is due has the right (without prejudice to any other right or remedy) to suspend performance of any or all of[^key-fac4c922e73edf49ce7619225ec55628] his obligations under the contract to the party by whom payment ought to have been made ( the party in default).
+(1) Where the requirement in Article 10(1) applies in relation to any sum but is not complied with,[^c-452fae352e18b72e25c5fdde1027c525] the person to whom the sum is due has the right (without prejudice to any other right or remedy) to suspend performance of any or all of[^c-fac4c922e73edf49ce7619225ec55628] his obligations under the contract to the party by whom payment ought to have been made ( the party in default).
 
 (2) The right may not be exercised without first giving to the party in default at least 7 days' notice of intention to suspend performance, stating the ground or grounds on which it is intended to suspend performance.
 
-(3) The right to suspend performance ceases when the party in default makes payment in full of the sum referred to in paragraph (1)[^key-c3696842cd4b9b68fae73821172b3b95].
+(3) The right to suspend performance ceases when the party in default makes payment in full of the sum referred to in paragraph (1)[^c-c3696842cd4b9b68fae73821172b3b95].
 
-(3A)[^key-d95e2969ac7f70df903ad98cede81b7d] Where the right conferred by this Article is exercised, the party in default shall be liable to pay to the party exercising the right a reasonable amount in respect of costs and expenses reasonably incurred by that party as a result of the exercise of the right.
+(3A)[^c-d95e2969ac7f70df903ad98cede81b7d] Where the right conferred by this Article is exercised, the party in default shall be liable to pay to the party exercising the right a reasonable amount in respect of costs and expenses reasonably incurred by that party as a result of the exercise of the right.
 
-(4) Any period during which performance is suspended in pursuance of, or in consequence of the exercise of,[^key-c1184b150a5b664f4858c79fd8f1efb5] the right conferred by this Article shall be disregarded in computing for the purposes of any contractual time limit the time taken, by the party exercising the right or by a third party, to complete any work directly or indirectly affected by the exercise of the right.
+(4) Any period during which performance is suspended in pursuance of, or in consequence of the exercise of,[^c-c1184b150a5b664f4858c79fd8f1efb5] the right conferred by this Article shall be disregarded in computing for the purposes of any contractual time limit the time taken, by the party exercising the right or by a third party, to complete any work directly or indirectly affected by the exercise of the right.
 
 Where the contractual time limit is set by reference to a date rather than a period, the date shall be adjusted accordingly.
 
@@ -390,43 +390,43 @@ This Order applies to a construction contract entered into by or on behalf of th
 
 [^c17052301]: Textual amendment: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-418f92ec1738557e75d6fff61283d11c]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/nisi/1997/274/article/5/1)[(1A)](https://www.legislation.gov.uk/nisi/1997/274/article/5/1A) and heading substituted for [art. 5(1)](https://www.legislation.gov.uk/nisi/1997/274/article/5/1) and heading (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 2(2)](https://www.legislation.gov.uk/nia/2011/4/section/2/2), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-418f92ec1738557e75d6fff61283d11c]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/nisi/1997/274/article/5/1)[(1A)](https://www.legislation.gov.uk/nisi/1997/274/article/5/1A) and heading substituted for [art. 5(1)](https://www.legislation.gov.uk/nisi/1997/274/article/5/1) and heading (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 2(2)](https://www.legislation.gov.uk/nia/2011/4/section/2/2), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-4104e8e15136e856dc275b58850450ec]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1997/274/article/6) repealed (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/4/section/1/1), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-4104e8e15136e856dc275b58850450ec]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1997/274/article/6) repealed (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/4/section/1/1), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-841b7d1f4ab1467b9d97b9db2815ad02]: Textual amendment: Words in art. 7(2) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2011/4/section/1/2/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-841b7d1f4ab1467b9d97b9db2815ad02]: Textual amendment: Words in art. 7(2) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2011/4/section/1/2/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-0f24374552cbda9cad4db1b9475fbe6a]: Textual amendment: Words in art. 7(3)(4) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 1(2)(b)](https://www.legislation.gov.uk/nia/2011/4/section/1/2/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-0f24374552cbda9cad4db1b9475fbe6a]: Textual amendment: Words in art. 7(3)(4) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 1(2)(b)](https://www.legislation.gov.uk/nia/2011/4/section/1/2/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-1f9e12486261247f30e5016e3568a8e1]: Textual amendment: [Art. 7(3A)](https://www.legislation.gov.uk/nisi/1997/274/article/7/3A) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 3](https://www.legislation.gov.uk/nia/2011/4/section/3), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-1f9e12486261247f30e5016e3568a8e1]: Textual amendment: [Art. 7(3A)](https://www.legislation.gov.uk/nisi/1997/274/article/7/3A) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 3](https://www.legislation.gov.uk/nia/2011/4/section/3), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
 [^m00003]: Marginal citation: 1996 c. 23.
 
-[^key-4f5b16b10c489c7dfd6374f3edda2eaf]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/nisi/1997/274/article/7A) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 4](https://www.legislation.gov.uk/nia/2011/4/section/4), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-4f5b16b10c489c7dfd6374f3edda2eaf]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/nisi/1997/274/article/7A) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 4](https://www.legislation.gov.uk/nia/2011/4/section/4), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-68b970fcfa76a49e98b0f587f0065463]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/nisi/1997/274/article/8/4) substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(2)](https://www.legislation.gov.uk/nia/2011/4/section/6/2), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-68b970fcfa76a49e98b0f587f0065463]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/nisi/1997/274/article/8/4) substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(2)](https://www.legislation.gov.uk/nia/2011/4/section/6/2), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
 [^M_C_2e8563f4-5487-41b1-b009-4735083b31c4]: Modification: Art. 9(1A) excluded (14.11.2012) by [The Construction Contracts Exclusion Order (Northern Ireland) 2012 (S.R. 2012/366)](https://www.legislation.gov.uk/nisr/2012/366), [arts. 1](https://www.legislation.gov.uk/nisr/2012/366/article/1), [3](https://www.legislation.gov.uk/nisr/2012/366/article/3)
 
-[^key-ce494228c590c1abde0e918efd05ddd1]: Textual amendment: Art. 9(1A)-(1D) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 5](https://www.legislation.gov.uk/nia/2011/4/section/5), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-ce494228c590c1abde0e918efd05ddd1]: Textual amendment: Art. 9(1A)-(1D) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 5](https://www.legislation.gov.uk/nia/2011/4/section/5), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-32c379e1ad8e775b85d38b36e4bf5a10]: Textual amendment: Art. 9(2) repealed (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(3)(a)](https://www.legislation.gov.uk/nia/2011/4/section/6/3/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-32c379e1ad8e775b85d38b36e4bf5a10]: Textual amendment: Art. 9(2) repealed (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(3)(a)](https://www.legislation.gov.uk/nia/2011/4/section/6/3/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-60518ce483af9125022bf73c3c9b0d81]: Textual amendment: Words in art. 9(3) repealed (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(3)(b)](https://www.legislation.gov.uk/nia/2011/4/section/6/3/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-60518ce483af9125022bf73c3c9b0d81]: Textual amendment: Words in art. 9(3) repealed (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(3)(b)](https://www.legislation.gov.uk/nia/2011/4/section/6/3/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-d5001da376eea61393a16e38ffec3b42]: Textual amendment: Art. 9A - Art. 9B inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(4)](https://www.legislation.gov.uk/nia/2011/4/section/6/4), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-d5001da376eea61393a16e38ffec3b42]: Textual amendment: Art. 9A - Art. 9B inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 6(4)](https://www.legislation.gov.uk/nia/2011/4/section/6/4), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-72e9c34481a76301c3475d1dfa5dcfcc]: Textual amendment: Art. 10 substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 7(1)](https://www.legislation.gov.uk/nia/2011/4/section/7/1), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-72e9c34481a76301c3475d1dfa5dcfcc]: Textual amendment: Art. 10 substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 7(1)](https://www.legislation.gov.uk/nia/2011/4/section/7/1), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-452fae352e18b72e25c5fdde1027c525]: Textual amendment: Words in art. 11(1) substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 7(2)(a)](https://www.legislation.gov.uk/nia/2011/4/section/7/2/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-452fae352e18b72e25c5fdde1027c525]: Textual amendment: Words in art. 11(1) substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 7(2)(a)](https://www.legislation.gov.uk/nia/2011/4/section/7/2/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-fac4c922e73edf49ce7619225ec55628]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1997/274/article/11/1) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 8(a)](https://www.legislation.gov.uk/nia/2011/4/section/8/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-fac4c922e73edf49ce7619225ec55628]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1997/274/article/11/1) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 8(a)](https://www.legislation.gov.uk/nia/2011/4/section/8/a), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-c3696842cd4b9b68fae73821172b3b95]: Textual amendment: Words in art. 11(3) substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 7(2)(b)](https://www.legislation.gov.uk/nia/2011/4/section/7/2/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-c3696842cd4b9b68fae73821172b3b95]: Textual amendment: Words in art. 11(3) substituted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 7(2)(b)](https://www.legislation.gov.uk/nia/2011/4/section/7/2/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-d95e2969ac7f70df903ad98cede81b7d]: Textual amendment: [Art. 11(3A)](https://www.legislation.gov.uk/nisi/1997/274/article/11/3A) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 8(b)](https://www.legislation.gov.uk/nia/2011/4/section/8/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-d95e2969ac7f70df903ad98cede81b7d]: Textual amendment: [Art. 11(3A)](https://www.legislation.gov.uk/nisi/1997/274/article/11/3A) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 8(b)](https://www.legislation.gov.uk/nia/2011/4/section/8/b), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-c1184b150a5b664f4858c79fd8f1efb5]: Textual amendment: Words in [art. 11(4)](https://www.legislation.gov.uk/nisi/1997/274/article/11/4) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 8(c)](https://www.legislation.gov.uk/nia/2011/4/section/8/c), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-c1184b150a5b664f4858c79fd8f1efb5]: Textual amendment: Words in [art. 11(4)](https://www.legislation.gov.uk/nisi/1997/274/article/11/4) inserted (14.11.2012) by [Construction Contracts (Amendment) Act (Northern Ireland) 2011 (c. 4)](https://www.legislation.gov.uk/nia/2011/4), [ss. 8(c)](https://www.legislation.gov.uk/nia/2011/4/section/8/c), [9(2)](https://www.legislation.gov.uk/nia/2011/4/section/9/2) (with [s. 9(4)](https://www.legislation.gov.uk/nia/2011/4/section/9/4)); [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
 [^c19439081]: Textual amendment: Art. 12(2)(a) substituted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/55); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to transitional provisions in [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2-7](https://www.legislation.gov.uk/nisr/2006/22/article/2))
 

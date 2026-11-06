@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consequential amendments to Acts and other legislation[^key-4cdc0e4bd6d6ed00750d1e755ebec8c7]
+## 9. Consequential amendments to Acts and other legislation[^c-4cdc0e4bd6d6ed00750d1e755ebec8c7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cdc0e4bd6d6ed00750d1e755ebec8c7]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2005/3238/article/9) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-4cdc0e4bd6d6ed00750d1e755ebec8c7]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2005/3238/article/9) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

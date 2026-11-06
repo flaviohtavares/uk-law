@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Provision of information on a website: supplemental[^key-654696b8dadd522a7c3613aa7be82cfd]
+## 28. Provision of information on a website: supplemental[^c-654696b8dadd522a7c3613aa7be82cfd]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-654696b8dadd522a7c3613aa7be82cfd]: Commencement: Reg. 28 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-654696b8dadd522a7c3613aa7be82cfd]: Commencement: Reg. 28 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

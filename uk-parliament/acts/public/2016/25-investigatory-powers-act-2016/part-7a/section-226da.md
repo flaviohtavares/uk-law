@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226DA. Annual report[^key-2782a17596a6d275274a936351539900]
+## 226DA. Annual report[^c-2782a17596a6d275274a936351539900]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2782a17596a6d275274a936351539900]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/2016/25/part/7A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2024/9/section/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/b)
+[^c-2782a17596a6d275274a936351539900]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/2016/25/part/7A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2024/9/section/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Application of Part[^key-34d827b84c0a1080e36df4aac3ba4fd4]
+## 109. Application of Part[^c-34d827b84c0a1080e36df4aac3ba4fd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ This Part—
 
 ## Annotations
 
-[^key-34d827b84c0a1080e36df4aac3ba4fd4]: Commencement: Reg. 109 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-34d827b84c0a1080e36df4aac3ba4fd4]: Commencement: Reg. 109 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00038]: Footnote: Part 4ZA was inserted by paragraph 8 of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8).

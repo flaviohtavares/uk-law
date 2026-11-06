@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Title and commencement[^key-6083bccc017474b8f7c33af09adfd1bd]
+## 1. Title and commencement[^c-6083bccc017474b8f7c33af09adfd1bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Veterinary Medicines Regulations 2006 and 
 
 ## Annotations
 
-[^key-6083bccc017474b8f7c33af09adfd1bd]: Commencement: Reg. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6083bccc017474b8f7c33af09adfd1bd]: Commencement: Reg. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

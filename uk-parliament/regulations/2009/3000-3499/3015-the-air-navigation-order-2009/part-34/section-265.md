@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Public transport and aerial work – exceptions – flying displays[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+## 265. Public transport and aerial work – exceptions – flying displays[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65b1b4ddd4621ed2e446d14b25b2fce9]: Textual amendment: Instrument revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [38(7)](https://www.legislation.gov.uk/uksi/2016/765/article/38/7), [40(4)](https://www.legislation.gov.uk/uksi/2016/765/article/40/4), [147(1)](https://www.legislation.gov.uk/uksi/2016/765/article/147/1), [152(7)](https://www.legislation.gov.uk/uksi/2016/765/article/152/7), [203(7)](https://www.legislation.gov.uk/uksi/2016/765/article/203/7), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2), [Sch. 14 paras. 15-20](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/15))
+[^c-65b1b4ddd4621ed2e446d14b25b2fce9]: Textual amendment: Instrument revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [38(7)](https://www.legislation.gov.uk/uksi/2016/765/article/38/7), [40(4)](https://www.legislation.gov.uk/uksi/2016/765/article/40/4), [147(1)](https://www.legislation.gov.uk/uksi/2016/765/article/147/1), [152(7)](https://www.legislation.gov.uk/uksi/2016/765/article/152/7), [203(7)](https://www.legislation.gov.uk/uksi/2016/765/article/203/7), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2), [Sch. 14 paras. 15-20](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/15))

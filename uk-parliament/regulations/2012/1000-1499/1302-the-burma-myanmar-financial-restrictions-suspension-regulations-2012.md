@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Burma/Myanmar (Financial Restrictions) (Suspension) Regulations 2012 (revoked)[^key-2847257e25aa3f6e6ced784957320922]
+The Burma/Myanmar (Financial Restrictions) (Suspension) Regulations 2012 (revoked)[^c-2847257e25aa3f6e6ced784957320922]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 17th May 2012
 
-[^key-2847257e25aa3f6e6ced784957320922]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2847257e25aa3f6e6ced784957320922]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2847257e25aa3f6e6ced784957320922]
+## 1. Citation and commencement[^c-2847257e25aa3f6e6ced784957320922]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Suspension of provisions in the Burma/Myanmar (Financial Restrictions) Regulations 2009[^key-2847257e25aa3f6e6ced784957320922]
+## 2. Suspension of provisions in the Burma/Myanmar (Financial Restrictions) Regulations 2009[^c-2847257e25aa3f6e6ced784957320922]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2847257e25aa3f6e6ced784957320922]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2847257e25aa3f6e6ced784957320922]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2847257e25aa3f6e6ced784957320922]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2847257e25aa3f6e6ced784957320922]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2847257e25aa3f6e6ced784957320922]: Textual amendment: Regulations revoked (8.5.2013) by The Burma/[Myanmar (Financial Restrictions) (Revocation) Regulations 2013 (S.I. 2013/1096)](https://www.legislation.gov.uk/uksi/2013/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1096/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/1096/regulation/2/b)
+[^c-2847257e25aa3f6e6ced784957320922]: Textual amendment: Regulations revoked (8.5.2013) by The Burma/[Myanmar (Financial Restrictions) (Revocation) Regulations 2013 (S.I. 2013/1096)](https://www.legislation.gov.uk/uksi/2013/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1096/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/1096/regulation/2/b)

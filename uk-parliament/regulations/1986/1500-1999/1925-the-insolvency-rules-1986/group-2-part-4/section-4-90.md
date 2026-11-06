@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.90. Mutual credit and set-off[^key-429396c02626a1d292e964e3fe2f224a][^key-0d981ec5008e6592bb4a801988ebda5b]
+## 4.90. Mutual credit and set-off[^c-429396c02626a1d292e964e3fe2f224a][^c-0d981ec5008e6592bb4a801988ebda5b]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-429396c02626a1d292e964e3fe2f224a]: Modification: Rule 4.90 applied (10.8.2005) by [The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 (S.I. 2005/1998)](https://www.legislation.gov.uk/uksi/2005/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1998/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (with [reg. 22(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/1))
+[^c-429396c02626a1d292e964e3fe2f224a]: Modification: Rule 4.90 applied (10.8.2005) by [The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 (S.I. 2005/1998)](https://www.legislation.gov.uk/uksi/2005/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1998/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (with [reg. 22(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/1))
 
-[^key-0d981ec5008e6592bb4a801988ebda5b]: Textual amendment: Rule 4.90 substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [23](https://www.legislation.gov.uk/uksi/2005/527/rule/23) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-0d981ec5008e6592bb4a801988ebda5b]: Textual amendment: Rule 4.90 substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [23](https://www.legislation.gov.uk/uksi/2005/527/rule/23) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

@@ -46,7 +46,7 @@ In this Part—
     - (ii) specified in a statement of accrued rights provided by the scheme manager of that scheme;
 - “**transfer value payment**” means—
   - (a) the payment of a transfer value or club transfer value under this Part; or
-  - (b) the payment of a transfer value under Chapter 1 of Part 4ZA of the 1993 Act.[^key-aa4b78b00697ccfd3a05efb62124bfbf]
+  - (b) the payment of a transfer value under Chapter 1 of Part 4ZA of the 1993 Act.[^c-aa4b78b00697ccfd3a05efb62124bfbf]
 
 ## Annotations
 
@@ -56,4 +56,4 @@ In this Part—
 
 [^c22361671]: Marginal citation: Chapter 2 of Part 4 deals with registration of pension schemes for tax purposes.
 
-[^key-aa4b78b00697ccfd3a05efb62124bfbf]: Textual amendment: Words in [reg. 132](https://www.legislation.gov.uk/uksi/2015/94/regulation/132) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [75](https://www.legislation.gov.uk/uksi/2016/245/regulation/75) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-aa4b78b00697ccfd3a05efb62124bfbf]: Textual amendment: Words in [reg. 132](https://www.legislation.gov.uk/uksi/2015/94/regulation/132) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [75](https://www.legislation.gov.uk/uksi/2016/245/regulation/75) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

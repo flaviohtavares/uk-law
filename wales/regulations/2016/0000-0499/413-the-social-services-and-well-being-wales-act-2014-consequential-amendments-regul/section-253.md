@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**253.**[^key-30be620c28e6e199fa5297578723a532] In section 6 (regulated activity providers)—.
+**253.**[^c-30be620c28e6e199fa5297578723a532] In section 6 (regulated activity providers)—.
 
 - (a) in subsection (8A)[^f00201]—
   - (i) after “Health and Social Care Act 2001” omit “or”;
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-30be620c28e6e199fa5297578723a532]: Commencement: Reg. 253 comes into force in accordance with reg. 2(5), see [reg. 2(1)(5)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1/5)
+[^c-30be620c28e6e199fa5297578723a532]: Commencement: Reg. 253 comes into force in accordance with reg. 2(5), see [reg. 2(1)(5)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1/5)
 
 [^f00201]: Footnote: Subsection (8A) was inserted by the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) Schedule 14, paragraph 8.
 

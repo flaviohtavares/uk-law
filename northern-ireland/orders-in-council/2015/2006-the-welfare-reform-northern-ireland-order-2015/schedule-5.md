@@ -22,7 +22,7 @@ summary: ''
 
 Article 41
 
-### 1. General[^key-df0e58c2b4491690be5856ca8ea38e86]
+### 1. General[^c-df0e58c2b4491690be5856ca8ea38e86]
 
 (1) In this Schedule “**relevant benefit**” means—
 
@@ -41,7 +41,7 @@ Article 41
 - (b) Article 8J or 8K of the Jobseekers Order (as inserted by Article 55(4) of this Order), or
 - (c) section 11J of the Welfare Reform Act (Northern Ireland) 2007 (as inserted by Article 63(2) of this Order).
 
-### 2. Dual entitlement[^key-b25897edad4c9dd3256b9f99f62b0a1c]
+### 2. Dual entitlement[^c-b25897edad4c9dd3256b9f99f62b0a1c]
 
 (1) Regulations may make provision as to the amount payable by way of a relevant benefit where a person is entitled to that benefit and universal credit.
 
@@ -62,7 +62,7 @@ Article 41
 - (a) provision for the order in which sanctions are to be applied to awards of a relevant benefit and universal credit;
 - (b) provision to secure that the application of a sanction to an award of a relevant benefit does not result in an increase of the amount of an award of universal credit.
 
-### 3. Movement between working-age benefits[^key-1d962c23c9889dc155905084209a6da4]
+### 3. Movement between working-age benefits[^c-1d962c23c9889dc155905084209a6da4]
 
 Regulations may provide—
 
@@ -90,7 +90,7 @@ In Article 6 of the Jobseekers Order (amount payable by way of a jobseeker's all
   ;
 - (b) “earnings,” (before “pension payments”) is repealed.
 
-**6.**[^key-d7626976b633f2662c554f3ceee794bb] (1) Section 2 of the Welfare Reform Act (Northern Ireland) 2007 (amount of contributory allowance) is amended as follows.
+**6.**[^c-d7626976b633f2662c554f3ceee794bb] (1) Section 2 of the Welfare Reform Act (Northern Ireland) 2007 (amount of contributory allowance) is amended as follows.
 
 (2) In subsection (1)(c), after “making” insert—
 
@@ -105,10 +105,10 @@ In Article 6 of the Jobseekers Order (amount payable by way of a jobseeker's all
 
 ## Annotations
 
-[^key-df0e58c2b4491690be5856ca8ea38e86]: Commencement: Sch. 5 para. 1 in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
+[^c-df0e58c2b4491690be5856ca8ea38e86]: Commencement: Sch. 5 para. 1 in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
 
-[^key-b25897edad4c9dd3256b9f99f62b0a1c]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/5/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
+[^c-b25897edad4c9dd3256b9f99f62b0a1c]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/5/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
 
-[^key-1d962c23c9889dc155905084209a6da4]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/5/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
+[^c-1d962c23c9889dc155905084209a6da4]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/5/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
 
-[^key-d7626976b633f2662c554f3ceee794bb]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/5/paragraph/6) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)
+[^c-d7626976b633f2662c554f3ceee794bb]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/5/paragraph/6) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/vii)

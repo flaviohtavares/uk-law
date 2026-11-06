@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Regulations: restrictions[^key-b14bff8460fe3795d9bd386951b02f8d]
+## 69. Regulations: restrictions[^c-b14bff8460fe3795d9bd386951b02f8d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14bff8460fe3795d9bd386951b02f8d]: Commencement: S. 69 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)
+[^c-b14bff8460fe3795d9bd386951b02f8d]: Commencement: S. 69 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)

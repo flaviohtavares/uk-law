@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Exemption certificates.[^key-82e58d2df5d1b3674811c4c2fcce34fc]
+## 53. Exemption certificates.[^c-82e58d2df5d1b3674811c4c2fcce34fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82e58d2df5d1b3674811c4c2fcce34fc]: Textual amendment: S. 53 repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-82e58d2df5d1b3674811c4c2fcce34fc]: Textual amendment: S. 53 repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

@@ -46,7 +46,7 @@ Section 17.
 
 **6.** Proceedings brought in any court in pursuance of—
 
-- (a) any statutory provision which, in the case of any convention to which the United Kingdom is or may become a party and which governs jurisdiction or recognition and enforcement of judgments in relation to a particular matter[^key-eb25fc49688ee90568d8e276fc93df59], implements the convention or makes provision with respect to jurisdiction in any field to which the convention relates; and
+- (a) any statutory provision which, in the case of any convention to which the United Kingdom is or may become a party and which governs jurisdiction or recognition and enforcement of judgments in relation to a particular matter[^c-eb25fc49688ee90568d8e276fc93df59], implements the convention or makes provision with respect to jurisdiction in any field to which the convention relates; and
 - (b) any rule of law so far as it has the effect of implementing any such convention.
 
 ### Certain Admiralty proceedings in Scotland
@@ -65,7 +65,7 @@ Section 17.
 
 **10.** Proceedings such as are mentioned in section 415 of the Financial Services and Markets Act 2000.[^c15860051]
 
-### Proceedings by third parties against insurers[^key-6952d44b837ead3eb2b57ae5aeb90055]
+### Proceedings by third parties against insurers[^c-6952d44b837ead3eb2b57ae5aeb90055]
 
 **11.** Proceedings under the Third Parties (Rights against Insurers) Act 2010.
 
@@ -85,7 +85,7 @@ Section 17.
 
 [^c21552231]: Textual amendment: Sch. 5 para. 5 repealed (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2011/1484/schedule/4/paragraph/12)
 
-[^key-eb25fc49688ee90568d8e276fc93df59]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1982/27/schedule/5/paragraph/6) substituted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [60](https://www.legislation.gov.uk/uksi/2019/479/regulation/60) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb25fc49688ee90568d8e276fc93df59]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1982/27/schedule/5/paragraph/6) substituted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [60](https://www.legislation.gov.uk/uksi/2019/479/regulation/60) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21528911]: Textual amendment: Words in Sch. 5 para. 7 substituted (S.) (1.7.2010) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) ss. 213, 227, {Sch. 4 para. 5(1)} (with s. 223); [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
@@ -95,4 +95,4 @@ Section 17.
 
 [^c15860051]: Textual amendment: Words in Sch. 5 para. 10 substituted (3.9.2001) by [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), [s. 432(1)](https://www.legislation.gov.uk/ukpga/2000/8/section/432/1), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2000/8/schedule/20/paragraph/3); [S.I. 2001/2632](https://www.legislation.gov.uk/uksi/2001/2632), [art. 2](https://www.legislation.gov.uk/uksi/2001/2632/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/2632/schedule/part/II)
 
-[^key-6952d44b837ead3eb2b57ae5aeb90055]: Textual amendment: Sch. 5 para. 11 and heading inserted (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2010/10/section/13/3), [21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-6952d44b837ead3eb2b57ae5aeb90055]: Textual amendment: Sch. 5 para. 11 and heading inserted (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2010/10/section/13/3), [21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)

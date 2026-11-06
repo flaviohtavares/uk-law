@@ -33,13 +33,13 @@ An Act to restrict the docking and nicking of horses and the importation of dock
 
 \[24th November 1949\][^c598938][^c598939][^c598940][^c598941]
 
-## 1. Prohibition of docking and nicking except in certain cases.[^key-2975865c726bf7de875c30f94fb24064]
+## 1. Prohibition of docking and nicking except in certain cases.[^c-2975865c726bf7de875c30f94fb24064]
 
-(1 (Extent: E+W) (affected by repeal, see note))[^c598942][^key-2975865c726bf7de875c30f94fb24064] Save as hereinafter provided, the docking or nicking of horses is prohibited. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2975865c726bf7de875c30f94fb24064]
+(1 (Extent: E+W) (affected by repeal, see note))[^c598942][^c-2975865c726bf7de875c30f94fb24064] Save as hereinafter provided, the docking or nicking of horses is prohibited. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2975865c726bf7de875c30f94fb24064]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-2975865c726bf7de875c30f94fb24064] The operation of docking or of nicking may be performed in any case in which a member of the Royal College of Veterinary Surgeons, after examination of the horse, has certified in writing that the operation is in his opinion necessary for the health of the horse because of disease or injury to the tail. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2975865c726bf7de875c30f94fb24064]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-2975865c726bf7de875c30f94fb24064] The operation of docking or of nicking may be performed in any case in which a member of the Royal College of Veterinary Surgeons, after examination of the horse, has certified in writing that the operation is in his opinion necessary for the health of the horse because of disease or injury to the tail. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2975865c726bf7de875c30f94fb24064]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^c598943][^key-2975865c726bf7de875c30f94fb24064] Any person who performs such an operation as aforesaid in contravention of the provisions of this section or who causes or permits such an operation to be so performed, shall be liable upon summary conviction to a fine not exceeding twenty-five pounds or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2975865c726bf7de875c30f94fb24064]
+(3 (Extent: E+W) (affected by repeal, see note))[^c598943][^c-2975865c726bf7de875c30f94fb24064] Any person who performs such an operation as aforesaid in contravention of the provisions of this section or who causes or permits such an operation to be so performed, shall be liable upon summary conviction to a fine not exceeding twenty-five pounds or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2975865c726bf7de875c30f94fb24064]
 
 ## 2. Restriction on landing docked horses.
 
@@ -56,15 +56,15 @@ shall be liable on summary conviction to a customs penalty not exceeding twenty-
 
 (4)[^c598945][^c598946] Any person who for the purposes of obtaining any such licence of the Minister of Agriculture and Fisheries as aforesaid makes any statement that he knows to be false in a material particular or recklessly makes any statement that is false in a material particular shall be liable on summary conviction to a fine not exceeding twenty-five pounds or to imprisonment for a term not exceeding three months or to both such a fine and such imprisonment.
 
-(5)[^key-e2fc3db48f03157f0b686f209ce0bb80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e2fc3db48f03157f0b686f209ce0bb80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation.[^key-17cbbfb247347600d7a9eba2b3e72131]
+## 3. Interpretation.[^c-17cbbfb247347600d7a9eba2b3e72131]
 
 In this Act the following expressions have the meanings hereby respectively assigned to them, that is to say:—
 
 - “**docking**” means the deliberate removal of any bone or any part of a bone from the tail of a horse, and the expression “**docked**” shall be construed accordingly;
 - “**horse**” includes stallion, gelding, colt, mare, filly, pony, mule and hinny;
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cbbfb247347600d7a9eba2b3e72131]**nicking *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cbbfb247347600d7a9eba2b3e72131]**” means the deliberate severing of any tendon or muscle in the tail of a horse, and the expression “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cbbfb247347600d7a9eba2b3e72131]**nicked *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cbbfb247347600d7a9eba2b3e72131]**” shall be construed accordingly. *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cbbfb247347600d7a9eba2b3e72131]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-17cbbfb247347600d7a9eba2b3e72131]**nicking *(Extent: E+W)* *(affected by repeal, see note)*[^c-17cbbfb247347600d7a9eba2b3e72131]**” means the deliberate severing of any tendon or muscle in the tail of a horse, and the expression “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-17cbbfb247347600d7a9eba2b3e72131]**nicked *(Extent: E+W)* *(affected by repeal, see note)*[^c-17cbbfb247347600d7a9eba2b3e72131]**” shall be construed accordingly. *(Extent: E+W)* *(affected by repeal, see note)*[^c-17cbbfb247347600d7a9eba2b3e72131]
 
 ## 4. Application to Scotland.
 
@@ -74,7 +74,7 @@ In the application of this Act to the landing of any horse in Scotland, for any 
 
 (1) This Act may be cited as the Docking and Nicking of Horses Act, 1949.
 
-(2)[^key-fdcd29ebb4c348d898dac1dbfbb8f3a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fdcd29ebb4c348d898dac1dbfbb8f3a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act shall not extend to Northern Ireland.
 
@@ -88,7 +88,7 @@ In the application of this Act to the landing of any horse in Scotland, for any 
 
 [^c598941]: Modification: Certain functions of Ministers of Agriculture, Fisheries and Food transferred by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2](https://www.legislation.gov.uk/uksi/1978/272/article/2)
 
-[^key-2975865c726bf7de875c30f94fb24064]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/1) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/m)
+[^c-2975865c726bf7de875c30f94fb24064]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/1) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/m)
 
 [^c598942]: Modification: S. 1(1) amended (S.) (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II)
 
@@ -100,8 +100,8 @@ In the application of this Act to the landing of any horse in Scotland, for any 
 
 [^c598946]: Modification: Ss. 2(3)(4) amended (S.) (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II)
 
-[^key-e2fc3db48f03157f0b686f209ce0bb80]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/2/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-e2fc3db48f03157f0b686f209ce0bb80]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/2/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
-[^key-17cbbfb247347600d7a9eba2b3e72131]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/3) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/m)
+[^c-17cbbfb247347600d7a9eba2b3e72131]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/3) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/m)
 
-[^key-fdcd29ebb4c348d898dac1dbfbb8f3a5]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-fdcd29ebb4c348d898dac1dbfbb8f3a5]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/70/section/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Provision of information by chief officers of police[^key-7066fd15bd9cc21f4714b0bbf2a57695]
+## 92. Provision of information by chief officers of police[^c-7066fd15bd9cc21f4714b0bbf2a57695]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ In the Police Act 1996, for section 44 (reports from chief constables) and secti
 
 ## Annotations
 
-[^key-7066fd15bd9cc21f4714b0bbf2a57695]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2011/13/section/92) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-7066fd15bd9cc21f4714b0bbf2a57695]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2011/13/section/92) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

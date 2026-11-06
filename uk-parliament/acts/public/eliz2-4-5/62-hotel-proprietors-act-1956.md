@@ -31,7 +31,7 @@ Hotel Proprietors Act 1956
 
 An Act to amend the law relating to inns and innkeepers.
 
-\[2nd August 1956\][^key-5d21bf2e0b69d7ef69e10ff15a4e35e2]
+\[2nd August 1956\][^c-5d21bf2e0b69d7ef69e10ff15a4e35e2]
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
@@ -86,6 +86,6 @@ This notice does not constitute an admission either that the Act applies to this
 
 ## Annotations
 
-[^key-5d21bf2e0b69d7ef69e10ff15a4e35e2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/62) applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [24](https://www.legislation.gov.uk/ukla/2004/1/section/24)
+[^c-5d21bf2e0b69d7ef69e10ff15a4e35e2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/62) applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [24](https://www.legislation.gov.uk/ukla/2004/1/section/24)
 
 [^c612618]: Marginal citation: [1863 c. 41](https://www.legislation.gov.uk/ukpga/1863/41).

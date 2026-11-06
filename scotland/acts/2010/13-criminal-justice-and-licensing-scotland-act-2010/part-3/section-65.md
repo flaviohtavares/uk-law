@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Meaning of “organisation”[^key-1cbf60b331339f3f7c8cf863ed7efc39]
+## 65. Meaning of “organisation”[^c-1cbf60b331339f3f7c8cf863ed7efc39]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 307(1) of the 1995 Act (interpretation), after the definition of “o
 
 ## Annotations
 
-[^key-1cbf60b331339f3f7c8cf863ed7efc39]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2010/13/section/65) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-1cbf60b331339f3f7c8cf863ed7efc39]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2010/13/section/65) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

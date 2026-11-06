@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Regulations about provision of equipment[^key-63d82c9375a990171590781f9a916071]
+## 93. Regulations about provision of equipment[^c-63d82c9375a990171590781f9a916071]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d82c9375a990171590781f9a916071]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2011/13/section/93) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/4))
+[^c-63d82c9375a990171590781f9a916071]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2011/13/section/93) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/4))

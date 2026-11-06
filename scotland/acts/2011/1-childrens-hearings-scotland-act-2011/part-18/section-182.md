@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Publishing restrictions[^key-78b5b1b5d963b1330f44575b074d5173]
+## 182. Publishing restrictions[^c-78b5b1b5d963b1330f44575b074d5173]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 (9) In this section—
 
-- “children’s hearing” includes a pre-hearing panel,[^key-f169fc743dabba8e484ca78867919703]
+- “children’s hearing” includes a pre-hearing panel,[^c-f169fc743dabba8e484ca78867919703]
 - “**protected information**” means—
   - (a) information in relation to—
     - (i) a children's hearing,
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78b5b1b5d963b1330f44575b074d5173]: Commencement: S. 182 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-78b5b1b5d963b1330f44575b074d5173]: Commencement: S. 182 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-f169fc743dabba8e484ca78867919703]: Textual amendment: Definition in s. 182(9) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(20)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/20)
+[^c-f169fc743dabba8e484ca78867919703]: Textual amendment: Definition in s. 182(9) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(20)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/20)

@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air, England
 
-The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2010 (revoked)[^key-3e5e727c39c4207b197c7024a29dd4b1]
+The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2010 (revoked)[^c-3e5e727c39c4207b197c7024a29dd4b1]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2010
 
-[^key-3e5e727c39c4207b197c7024a29dd4b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e5e727c39c4207b197c7024a29dd4b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3e5e727c39c4207b197c7024a29dd4b1]
+## 1. Citation and commencement[^c-3e5e727c39c4207b197c7024a29dd4b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-3e5e727c39c4207b197c7024a29dd4b1]
+## 2. Amendment[^c-3e5e727c39c4207b197c7024a29dd4b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e5e727c39c4207b197c7024a29dd4b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e5e727c39c4207b197c7024a29dd4b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e5e727c39c4207b197c7024a29dd4b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e5e727c39c4207b197c7024a29dd4b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e5e727c39c4207b197c7024a29dd4b1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/576) revoked (6.4.2012) by [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2012 (revoked) 2012 (S.I. 2012/814)](https://www.legislation.gov.uk/uksi/2012/814), [regs. 1](https://www.legislation.gov.uk/uksi/2012/814/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/814/regulation/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/814/schedule/2)
+[^c-3e5e727c39c4207b197c7024a29dd4b1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/576) revoked (6.4.2012) by [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2012 (revoked) 2012 (S.I. 2012/814)](https://www.legislation.gov.uk/uksi/2012/814), [regs. 1](https://www.legislation.gov.uk/uksi/2012/814/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/814/regulation/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/814/schedule/2)

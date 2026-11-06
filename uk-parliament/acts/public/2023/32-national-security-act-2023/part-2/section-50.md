@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Replacement of a Part 2 notice that is quashed etc[^key-56c681e6376e1b1159cb1639682b92eb][^key-59a15a9d6efadd7a26ff0f4c442fb29d]
+## 50. Replacement of a Part 2 notice that is quashed etc[^c-56c681e6376e1b1159cb1639682b92eb][^c-59a15a9d6efadd7a26ff0f4c442fb29d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56c681e6376e1b1159cb1639682b92eb]: Commencement: S. 50 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-56c681e6376e1b1159cb1639682b92eb]: Commencement: S. 50 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-59a15a9d6efadd7a26ff0f4c442fb29d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/32/section/50) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-59a15a9d6efadd7a26ff0f4c442fb29d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/32/section/50) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

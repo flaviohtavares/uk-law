@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Regulator assistance[^key-10723b28b2e6facd480607cf7a525d0b]
+## 88. Regulator assistance[^c-10723b28b2e6facd480607cf7a525d0b]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ without the consent of Ministers.
 
 ## Annotations
 
-[^key-10723b28b2e6facd480607cf7a525d0b]: Commencement: S. 88 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-10723b28b2e6facd480607cf7a525d0b]: Commencement: S. 88 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

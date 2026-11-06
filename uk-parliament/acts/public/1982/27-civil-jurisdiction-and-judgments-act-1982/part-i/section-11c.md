@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11C. Proof and admissibility of certain judgments and related documents for the purposes of the 2019 Hague Convention[^key-27e750360d201d86b529fa21ba6c5029][^key-33d1034395556bf411b4fe70d2cea905]
+## 11C. Proof and admissibility of certain judgments and related documents for the purposes of the 2019 Hague Convention[^c-27e750360d201d86b529fa21ba6c5029][^c-33d1034395556bf411b4fe70d2cea905]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27e750360d201d86b529fa21ba6c5029]: Modification: [S. 11C](https://www.legislation.gov.uk/ukpga/1982/27/section/11C) applied (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/2)
+[^c-27e750360d201d86b529fa21ba6c5029]: Modification: [S. 11C](https://www.legislation.gov.uk/ukpga/1982/27/section/11C) applied (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/2)
 
-[^key-33d1034395556bf411b4fe70d2cea905]: Textual amendment: [S. 11C](https://www.legislation.gov.uk/ukpga/1982/27/section/11C) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 12](https://www.legislation.gov.uk/uksi/2024/713/regulation/12)
+[^c-33d1034395556bf411b4fe70d2cea905]: Textual amendment: [S. 11C](https://www.legislation.gov.uk/ukpga/1982/27/section/11C) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 12](https://www.legislation.gov.uk/uksi/2024/713/regulation/12)

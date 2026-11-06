@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Meaning of “appropriate Licensing Board”[^key-7bea34d877a781053d00f8b8dc5662bf]
+## 18. Meaning of “appropriate Licensing Board”[^c-7bea34d877a781053d00f8b8dc5662bf]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bea34d877a781053d00f8b8dc5662bf]: Commencement: S. 18 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-7bea34d877a781053d00f8b8dc5662bf]: Commencement: S. 18 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

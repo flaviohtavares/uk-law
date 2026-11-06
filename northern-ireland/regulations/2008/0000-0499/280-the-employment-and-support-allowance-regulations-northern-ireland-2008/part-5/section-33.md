@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Additional circumstances where claimants are to be treated as having limited capability for work[^key-12db9cbcb792e003d2004e6e2b8ec5b5]
+## 33. Additional circumstances where claimants are to be treated as having limited capability for work[^c-12db9cbcb792e003d2004e6e2b8ec5b5]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12db9cbcb792e003d2004e6e2b8ec5b5]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2008/280/regulation/33) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-12db9cbcb792e003d2004e6e2b8ec5b5]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2008/280/regulation/33) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

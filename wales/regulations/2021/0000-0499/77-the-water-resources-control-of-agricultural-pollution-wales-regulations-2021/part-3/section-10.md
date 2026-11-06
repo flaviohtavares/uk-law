@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Maximum nitrogen limits by crop[^key-745561a7665e427540ae728f376a3eff]
+## 10. Maximum nitrogen limits by crop[^c-745561a7665e427540ae728f376a3eff]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ Maximum nitrogen
 
 ## Annotations
 
-[^key-745561a7665e427540ae728f376a3eff]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/77/regulation/10) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-745561a7665e427540ae728f376a3eff]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/77/regulation/10) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
 [^f01000]: Footnote: (a)
 

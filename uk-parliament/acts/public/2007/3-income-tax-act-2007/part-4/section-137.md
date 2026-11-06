@@ -64,8 +64,8 @@ This subsection does not apply at any time after the abandonment of that intenti
 
 (8) In sections 189(1)(b) and 194(4)(c) (as applied by subsection (7) for the purposes of the definitions of “excluded activities” and “qualifying trade”) “**period B**” means the continuous period that is relevant for the purposes of section 134(3).
 
-(9)[^key-d93b5dad85f25f2eb457b5c1f03a9c58] In section 195 as applied by subsection (7) for the purposes mentioned in subsection (8), references to the issuing company are to be read as references to the company mentioned in subsection (1).
+(9)[^c-d93b5dad85f25f2eb457b5c1f03a9c58] In section 195 as applied by subsection (7) for the purposes mentioned in subsection (8), references to the issuing company are to be read as references to the company mentioned in subsection (1).
 
 ## Annotations
 
-[^key-d93b5dad85f25f2eb457b5c1f03a9c58]: Textual amendment: S. 137(9) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/5), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
+[^c-d93b5dad85f25f2eb457b5c1f03a9c58]: Textual amendment: S. 137(9) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/5), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)

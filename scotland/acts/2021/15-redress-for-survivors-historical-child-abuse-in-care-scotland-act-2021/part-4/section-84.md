@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Offences of failure to provide, and of tampering with, information or evidence[^key-9886b1c7b61d703d84a2acd13e9b4a66]
+## 84. Offences of failure to provide, and of tampering with, information or evidence[^c-9886b1c7b61d703d84a2acd13e9b4a66]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9886b1c7b61d703d84a2acd13e9b4a66]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2021/15/section/84) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-9886b1c7b61d703d84a2acd13e9b4a66]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2021/15/section/84) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

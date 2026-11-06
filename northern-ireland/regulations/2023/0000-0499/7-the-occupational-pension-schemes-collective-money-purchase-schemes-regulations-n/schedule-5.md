@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — Systems and processes requirement[^key-c567ba7afc62e98938a1c1d4c270470d]
+## SCHEDULE 5 — Systems and processes requirement[^c-c567ba7afc62e98938a1c1d4c270470d]
 
 *Extent: N.I.*
 
@@ -24,62 +24,62 @@ summary: ''
 
 Regulations 6 and 14
 
-### Preliminary[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Preliminary[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**1.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Features and functionality of IT systems[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Features and functionality of IT systems[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**2.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Standards required of IT systems[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Standards required of IT systems[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**3.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Maintenance of IT systems[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Maintenance of IT systems[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**4.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Member records[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Member records[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**5.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Trustees and others[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Trustees and others[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**6.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Contracts and service providers[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Contracts and service providers[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**7.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Governance[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Governance[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**8.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Risk management[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Risk management[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**9.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Security[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Security[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**10.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Resource planning[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Resource planning[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**11.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Investments[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Investments[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**12.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Valuation and benefit adjustment[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Valuation and benefit adjustment[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**13.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Member engagement[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Member engagement[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**14.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c567ba7afc62e98938a1c1d4c270470d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/7) revoked (28.7.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/117)](https://www.legislation.gov.uk/nisr/2023/117), [regs. 1](https://www.legislation.gov.uk/nisr/2023/117/regulation/1), [36(a)](https://www.legislation.gov.uk/nisr/2023/117/regulation/36/a)
+[^c-c567ba7afc62e98938a1c1d4c270470d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/7) revoked (28.7.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/117)](https://www.legislation.gov.uk/nisr/2023/117), [regs. 1](https://www.legislation.gov.uk/nisr/2023/117/regulation/1), [36(a)](https://www.legislation.gov.uk/nisr/2023/117/regulation/36/a)

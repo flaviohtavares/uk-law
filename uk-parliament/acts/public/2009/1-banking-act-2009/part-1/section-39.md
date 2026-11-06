@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Foreign property[^key-3833175920ac50fe136d414e7a5350b9]
+## 39. Foreign property[^c-3833175920ac50fe136d414e7a5350b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,14 +34,14 @@ summary: ''
 - (a) hold the property or right for the benefit of the transferee (together with any additional property or right accruing by virtue of the original property or right), or
 - (b) discharge the liability on behalf of the transferee.
 
-(4A)[^key-a66d32f4fca3f1b0f8bb165b1cdcc655] If the Bank of England determines that, in spite of any action taken by the transferee or the transferor, it is not possible for the transfer of certain property to be effective under the law of the jurisdiction where the property is located or (where the property consists of rights or liabilities) the law under which it arises—
+(4A)[^c-a66d32f4fca3f1b0f8bb165b1cdcc655] If the Bank of England determines that, in spite of any action taken by the transferee or the transferor, it is not possible for the transfer of certain property to be effective under the law of the jurisdiction where the property is located or (where the property consists of rights or liabilities) the law under which it arises—
 
 - (a) subsection (4) ceases to apply, and
 - (b) the provisions of the property transfer instrument relating to that property are void.
 
 (4B) The Bank must give notice of any determination under subsection (4A) to the transferor and the transferee.
 
-(5)[^key-c9f29fd75fc9467c5fa6d41ffcdc009c] The transferor must meet any expenses of the transferee in complying with this section.
+(5)[^c-c9f29fd75fc9467c5fa6d41ffcdc009c] The transferor must meet any expenses of the transferee in complying with this section.
 
 (6) An obligation imposed by this section is enforceable as if created by contract between the transferor and transferee.
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3833175920ac50fe136d414e7a5350b9]: Commencement: S. 39 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-3833175920ac50fe136d414e7a5350b9]: Commencement: S. 39 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-a66d32f4fca3f1b0f8bb165b1cdcc655]: Textual amendment: S. 39(4A)(4B) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/38/a)
+[^c-a66d32f4fca3f1b0f8bb165b1cdcc655]: Textual amendment: S. 39(4A)(4B) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/38/a)
 
-[^key-c9f29fd75fc9467c5fa6d41ffcdc009c]: Textual amendment: S. 39(5) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/38/b)
+[^c-c9f29fd75fc9467c5fa6d41ffcdc009c]: Textual amendment: S. 39(5) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/38/b)

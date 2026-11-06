@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217A. Implied terms of management services agreements relating to qualifications[^key-14dea19961d710788caacde5c93a27c2]
+## 217A. Implied terms of management services agreements relating to qualifications[^c-14dea19961d710788caacde5c93a27c2]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ or if there is no standard in force under section 194A which imposes a requireme
 
 ## Annotations
 
-[^key-14dea19961d710788caacde5c93a27c2]: Textual amendment: [S. 217A](https://www.legislation.gov.uk/ukpga/2008/17/section/217A) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/21/4), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)
+[^c-14dea19961d710788caacde5c93a27c2]: Textual amendment: [S. 217A](https://www.legislation.gov.uk/ukpga/2008/17/section/217A) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/21/4), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)

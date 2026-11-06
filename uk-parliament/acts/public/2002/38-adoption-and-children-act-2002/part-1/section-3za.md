@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3ZA. England - joint arrangements etc[^key-0c5e3bf359e4b854dbe3a28d763a04ea]
+## 3ZA. England - joint arrangements etc[^c-0c5e3bf359e4b854dbe3a28d763a04ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5e3bf359e4b854dbe3a28d763a04ea]: Textual amendment: S. 3ZA inserted (7.3.2018) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/15/2), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/a)
+[^c-0c5e3bf359e4b854dbe3a28d763a04ea]: Textual amendment: S. 3ZA inserted (7.3.2018) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/15/2), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/a)

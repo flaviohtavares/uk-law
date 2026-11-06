@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Applications under the Firearms Acts: fees[^c22719711][^key-3c6685b70df8df7805f958379a3f7c06]
+## 132. Applications under the Firearms Acts: fees[^c22719711][^c-3c6685b70df8df7805f958379a3f7c06]
 
 *Extent: E+W+S*
 
@@ -100,4 +100,4 @@ summary: ''
 
 [^c22719711]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2017/3/section/132) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3c6685b70df8df7805f958379a3f7c06]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2017/3/section/132) in force at 18.7.2019 in so far as not already in force by [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/2))
+[^c-3c6685b70df8df7805f958379a3f7c06]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2017/3/section/132) in force at 18.7.2019 in so far as not already in force by [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/2))

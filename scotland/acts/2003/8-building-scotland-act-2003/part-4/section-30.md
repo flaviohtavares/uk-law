@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Dangerous building notices[^key-eb1b455435984c993e9cbec0bee214ca]
+## 30. Dangerous building notices[^c-eb1b455435984c993e9cbec0bee214ca]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1b455435984c993e9cbec0bee214ca]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2003/8/section/30) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-eb1b455435984c993e9cbec0bee214ca]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2003/8/section/30) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

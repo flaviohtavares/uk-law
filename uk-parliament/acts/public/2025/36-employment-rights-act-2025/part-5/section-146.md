@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Application of this Part to unincorporated associations[^key-0952aa0d01c1969aea227773f2c8a91f][^key-50af93848f71882aef0b84145d5f8a2e]
+## 146. Application of this Part to unincorporated associations[^c-0952aa0d01c1969aea227773f2c8a91f][^c-50af93848f71882aef0b84145d5f8a2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ the officer, as well as the association, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-0952aa0d01c1969aea227773f2c8a91f]: Commencement: S. 146 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0952aa0d01c1969aea227773f2c8a91f]: Commencement: S. 146 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-50af93848f71882aef0b84145d5f8a2e]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2025/36/section/146) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(46)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/46)
+[^c-50af93848f71882aef0b84145d5f8a2e]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2025/36/section/146) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(46)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/46)

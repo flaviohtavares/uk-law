@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Insertion of Schedule 2A[^key-b557a6b477f13e4ec1561b3e590a919d]
+## 42. Insertion of Schedule 2A[^c-b557a6b477f13e4ec1561b3e590a919d]
 
 *Extent: E+W+S+N.I.*
 
@@ -297,4 +297,4 @@ After Schedule 2, insert—
 
 ## Annotations
 
-[^key-b557a6b477f13e4ec1561b3e590a919d]: Commencement: Reg. 42 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b557a6b477f13e4ec1561b3e590a919d]: Commencement: Reg. 42 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Information, documents, evidence and facilities[^key-cef6aaf46895223f6c0a7cdeef17cdb2]
+## 19. Information, documents, evidence and facilities[^c-cef6aaf46895223f6c0a7cdeef17cdb2]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cef6aaf46895223f6c0a7cdeef17cdb2]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2019/3/section/19) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-cef6aaf46895223f6c0a7cdeef17cdb2]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2019/3/section/19) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

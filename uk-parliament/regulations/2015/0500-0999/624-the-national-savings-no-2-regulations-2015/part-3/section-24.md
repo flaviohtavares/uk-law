@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Transfer of stock to the Commissioners of Her Majesty’s Revenue and Customs in payment of duties or tax[^key-e5cbebd358f365268b71335430bcb837]
+## 24. Transfer of stock to the Commissioners of Her Majesty’s Revenue and Customs in payment of duties or tax[^c-e5cbebd358f365268b71335430bcb837]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of implementing arrangements made by the Commissioners of Her Ma
 
 ## Annotations
 
-[^key-e5cbebd358f365268b71335430bcb837]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-e5cbebd358f365268b71335430bcb837]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

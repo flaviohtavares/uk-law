@@ -23,7 +23,7 @@ summary: ''
 (1) In this Chapter—
 
 - “**appurtenant property**”, in relation to a building or part of a building or a flat, means any garage, outhouse, garden, yard or appurtenances belonging to, or usually enjoyed with, the building or part or flat,
-- “appropriate tribunal” means—[^key-35305c88d9510716685641a22f30e8fd]
+- “appropriate tribunal” means—[^c-35305c88d9510716685641a22f30e8fd]
   - (a) in relation to premises in England, the First-tier Tribunal or, where determined by Tribunal Procedure Rules, the Upper Tribunal; and
   - (b) in relation to premises in Wales, a leasehold valuation tribunal;
 - “**copy**”, in relation to a document in which information is recorded, means anything onto which the information has been copied by whatever means and whether directly or indirectly,
@@ -59,4 +59,4 @@ but do not include a tenancy at will or at sufferance.
 
 [^c21531421]: Commencement: S. 112 wholly in force at 30.3.2004; s. 112 not in force at Royal Assent see s. 181(1); s. 112 wholly in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); s. 112 wholly in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-35305c88d9510716685641a22f30e8fd]: Textual amendment: Words in s. 112(1) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 138](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/138) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-35305c88d9510716685641a22f30e8fd]: Textual amendment: Words in s. 112(1) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 138](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/138) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

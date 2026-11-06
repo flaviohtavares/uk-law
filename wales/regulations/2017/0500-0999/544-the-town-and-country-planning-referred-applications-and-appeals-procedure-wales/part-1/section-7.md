@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Allowing further time[^key-85e5c1ad0aeb2218b11298af724cd4b9]
+## 7. Allowing further time[^c-85e5c1ad0aeb2218b11298af724cd4b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may in any particular case give directions which extend the 
 
 ## Annotations
 
-[^key-85e5c1ad0aeb2218b11298af724cd4b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/544/regulation/7) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-85e5c1ad0aeb2218b11298af724cd4b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/544/regulation/7) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

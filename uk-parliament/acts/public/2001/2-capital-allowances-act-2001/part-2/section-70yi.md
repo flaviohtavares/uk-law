@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70YI. General definitions[^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70YI. General definitions[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 - “**lessee**”, in relation to a lease, includes any person entitled to the lessee's interest under the lease;
 - “**lessor**”, in relation to a lease, includes any person entitled to the lessor's interest under the lease;
 - “**long funding lease**” has the meaning given by section 70G;
-- “[^key-9271328fee3195e4474cd19348377dd9]**long funding finance lease**” means-
+- “[^c-9271328fee3195e4474cd19348377dd9]**long funding finance lease**” means-
   - (a) in relation to any person, a long funding lease that meets the finance lease test by virtue of section 70N(1)(a), or
   - (b) in relation to a lessee, a right-of-use lease which is a long funding lease—
     - (i) that meets the lease payments test in section 70O or the useful economic life test in section 70P, but
@@ -69,7 +69,7 @@ summary: ''
 - “**minimum lease payments**” has the meaning given by section 70YE;
 - “**mixed lease**” is to be construed in accordance with section 70L;
 - “**plant or machinery lease**” has the meaning given by section 70K (and see also sections 70L and 70M);
-- “[^key-e834b76ae349b822ab3f277bc2a18108]**relevant change of classification**” has the meaning given by section 70YA(11);
+- “[^c-e834b76ae349b822ab3f277bc2a18108]**relevant change of classification**” has the meaning given by section 70YA(11);
 - “remaining useful economic life”, in the case of any leased plant or machinery, is the period—
   - (a) beginning with the commencement of the term of the lease, and
   - (b) ending when the asset is no longer used, and no longer likely to be used, by any person for any purpose as a fixed asset of a business;
@@ -92,16 +92,16 @@ summary: ''
 
 (3) In relation to a lease, any reference to plant or machinery includes a reference to fixtures.
 
-(4)[^key-d2913fc264c2bcfe3596033f7ccfc0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d2913fc264c2bcfe3596033f7ccfc0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any necessary apportionments under or by virtue of this Chapter are to be made on a just and reasonable basis.
 
 ## Annotations
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
-[^key-9271328fee3195e4474cd19348377dd9]: Textual amendment: Words in s. 70YI(1) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/5/a)
+[^c-9271328fee3195e4474cd19348377dd9]: Textual amendment: Words in s. 70YI(1) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/5/a)
 
-[^key-e834b76ae349b822ab3f277bc2a18108]: Textual amendment: Words in s. 70YI(1) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/5/b)
+[^c-e834b76ae349b822ab3f277bc2a18108]: Textual amendment: Words in s. 70YI(1) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/5/b)
 
-[^key-d2913fc264c2bcfe3596033f7ccfc0d4]: Textual amendment: S. 70YI(4) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 399](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/399), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d2913fc264c2bcfe3596033f7ccfc0d4]: Textual amendment: S. 70YI(4) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 399](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/399), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

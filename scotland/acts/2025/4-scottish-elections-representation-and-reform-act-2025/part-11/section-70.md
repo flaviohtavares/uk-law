@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Application of public bodies legislation to the Electoral Management Board for Scotland[^key-7872c16b97f83c4fd099cb4e7e8283ae][^key-433a4bdb3431fe5bc0722368af997e47]
+## 70. Application of public bodies legislation to the Electoral Management Board for Scotland[^c-7872c16b97f83c4fd099cb4e7e8283ae][^c-433a4bdb3431fe5bc0722368af997e47]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7872c16b97f83c4fd099cb4e7e8283ae]: Commencement: S. 70 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-7872c16b97f83c4fd099cb4e7e8283ae]: Commencement: S. 70 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-433a4bdb3431fe5bc0722368af997e47]: Commencement: S. 70 in force at 1.4.2026 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-433a4bdb3431fe5bc0722368af997e47]: Commencement: S. 70 in force at 1.4.2026 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)

@@ -31,73 +31,73 @@ Rate Support Grants Act 1986 (repealed)
 
 1986 c. 54
 
-[^key-602739b390a7ae8ad50bf429108d00e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-602739b390a7ae8ad50bf429108d00e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Validation of approved block grant determinations.[^key-602739b390a7ae8ad50bf429108d00e1][^key-602739b390a7ae8ad50bf429108d00e1]
+## 1. Validation of approved block grant determinations.[^c-602739b390a7ae8ad50bf429108d00e1][^c-602739b390a7ae8ad50bf429108d00e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Adjustment of block grant to limit effects of changes.[^key-602739b390a7ae8ad50bf429108d00e1][^key-602739b390a7ae8ad50bf429108d00e1]
+## 2. Adjustment of block grant to limit effects of changes.[^c-602739b390a7ae8ad50bf429108d00e1][^c-602739b390a7ae8ad50bf429108d00e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Other rate support grant amendments.[^key-602739b390a7ae8ad50bf429108d00e1][^key-602739b390a7ae8ad50bf429108d00e1]
+## 3. Other rate support grant amendments.[^c-602739b390a7ae8ad50bf429108d00e1][^c-602739b390a7ae8ad50bf429108d00e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title, interpretation, repeals, and extent.[^key-602739b390a7ae8ad50bf429108d00e1][^key-602739b390a7ae8ad50bf429108d00e1]
+## 4. Short title, interpretation, repeals, and extent.[^c-602739b390a7ae8ad50bf429108d00e1][^c-602739b390a7ae8ad50bf429108d00e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-602739b390a7ae8ad50bf429108d00e1] SCHEDULES
+[^c-602739b390a7ae8ad50bf429108d00e1] SCHEDULES
 
-## SCHEDULE 1 — Amendments[^key-602739b390a7ae8ad50bf429108d00e1]
+## SCHEDULE 1 — Amendments[^c-602739b390a7ae8ad50bf429108d00e1]
 
 Section 3.
 
-### Determination of grant-related poundages[^key-602739b390a7ae8ad50bf429108d00e1]
+### Determination of grant-related poundages[^c-602739b390a7ae8ad50bf429108d00e1]
 
-**1.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Multipliers[^key-602739b390a7ae8ad50bf429108d00e1]
+### Multipliers[^c-602739b390a7ae8ad50bf429108d00e1]
 
-**4.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Explanation of determinations in rate support grant reports[^key-602739b390a7ae8ad50bf429108d00e1]
+### Explanation of determinations in rate support grant reports[^c-602739b390a7ae8ad50bf429108d00e1]
 
-**8.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary reports[^key-602739b390a7ae8ad50bf429108d00e1]
+### Supplementary reports[^c-602739b390a7ae8ad50bf429108d00e1]
 
-**10.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Adjustments for matching amount available for block grant[^key-602739b390a7ae8ad50bf429108d00e1]
+### Adjustments for matching amount available for block grant[^c-602739b390a7ae8ad50bf429108d00e1]
 
-**11.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Submission of information[^key-602739b390a7ae8ad50bf429108d00e1]
+### Submission of information[^c-602739b390a7ae8ad50bf429108d00e1]
 
-**13.**[^key-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-602739b390a7ae8ad50bf429108d00e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Repeals[^key-602739b390a7ae8ad50bf429108d00e1]
+## SCHEDULE 2 — Repeals[^c-602739b390a7ae8ad50bf429108d00e1]
 
 Section 4(3).
 
@@ -105,4 +105,4 @@ Section 4(3).
 
 ## Annotations
 
-[^key-602739b390a7ae8ad50bf429108d00e1]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1986/54) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-602739b390a7ae8ad50bf429108d00e1]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1986/54) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

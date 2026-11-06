@@ -260,7 +260,7 @@ Coming into force
   ;
 - (b) in paragraph 31 at the end the following words shall be added— “or the Macfarlane (Special Payments) (No. 2) Trust".
 
-## 4. Amendment of the Housing Benefit Regulations[^key-ad298c71b589b12726b563b295ccc0e5]
+## 4. Amendment of the Housing Benefit Regulations[^c-ad298c71b589b12726b563b295ccc0e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -418,6 +418,6 @@ They also amend the Social Security (Recoupment) Regulations 1990 so as to exemp
 
 [^c1831486]: Marginal citation: [S.I. 1990/322](https://www.legislation.gov.uk/uksi/1990/322); relevant amending instrument is [S.I. 1990/1558](https://www.legislation.gov.uk/uksi/1990/1558).
 
-[^key-ad298c71b589b12726b563b295ccc0e5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/1175/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-ad298c71b589b12726b563b295ccc0e5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/1175/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1831487]: Marginal citation: Paragraph (e) was substituted by [S.I. 1990/1558](https://www.legislation.gov.uk/uksi/1990/1558).

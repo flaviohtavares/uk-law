@@ -72,7 +72,7 @@ summary: ''
 
 .
 
-(7)[^key-8ffacdc3078af71c0e8feb935fd35f96][^key-5d719783d83f419615ce713ea809f11d] For subsections (7) to (10) substitute—
+(7)[^c-8ffacdc3078af71c0e8feb935fd35f96][^c-5d719783d83f419615ce713ea809f11d] For subsections (7) to (10) substitute—
 
 > (7) In considering their decision on the application, the Commission must have regard to the following—
 >
@@ -137,6 +137,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ffacdc3078af71c0e8feb935fd35f96]: Commencement: [S. 48(7)](https://www.legislation.gov.uk/asp/2010/14/section/48/7) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-8ffacdc3078af71c0e8feb935fd35f96]: Commencement: [S. 48(7)](https://www.legislation.gov.uk/asp/2010/14/section/48/7) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
 
-[^key-5d719783d83f419615ce713ea809f11d]: Commencement: [S. 48(7)](https://www.legislation.gov.uk/asp/2010/14/section/48/7) in force at 1.4.2012 in so far as not already in force by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)
+[^c-5d719783d83f419615ce713ea809f11d]: Commencement: [S. 48(7)](https://www.legislation.gov.uk/asp/2010/14/section/48/7) in force at 1.4.2012 in so far as not already in force by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Metering ...[^key-255c30c917b1ff76cf81d3fbc7ae193a]
+## 23. Metering ...[^c-255c30c917b1ff76cf81d3fbc7ae193a]
 
 *Extent: E+W+S*
 
-(1) Subject to regulation 24, this regulation applies to any plant in respect of which an application for accreditation is made [^key-e257af2529ff253c29e13c10fbc391e4]....
+(1) Subject to regulation 24, this regulation applies to any plant in respect of which an application for accreditation is made [^c-e257af2529ff253c29e13c10fbc391e4]....
 
 (2) Subject to paragraph (3) and regulation 27—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-255c30c917b1ff76cf81d3fbc7ae193a]: Textual amendment: Words in reg. 23 heading omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [11(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/11/a)
+[^c-255c30c917b1ff76cf81d3fbc7ae193a]: Textual amendment: Words in reg. 23 heading omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [11(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/11/a)
 
-[^key-e257af2529ff253c29e13c10fbc391e4]: Textual amendment: Words in reg. 23(1) omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [11(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/11/b)
+[^c-e257af2529ff253c29e13c10fbc391e4]: Textual amendment: Words in reg. 23(1) omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [11(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/11/b)

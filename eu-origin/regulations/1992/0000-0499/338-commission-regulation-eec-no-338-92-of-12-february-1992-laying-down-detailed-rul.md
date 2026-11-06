@@ -32,10 +32,10 @@ Commission Regulation (EEC) No 338/92
 
 of 12 February 1992 laying down detailed rules for the application of Council Regulation (EEC) No 3763/91 with regard to the Community quota for the import of 8 000 tonnes of wheat bran falling within CN code 2302 30 originating in the ACP States into the French overseas department of Réunion (revoked)
 
-[^key-20346d4e4d69d9cecd1c7155962101a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20346d4e4d69d9cecd1c7155962101a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-20346d4e4d69d9cecd1c7155962101a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-20346d4e4d69d9cecd1c7155962101a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-20346d4e4d69d9cecd1c7155962101a6]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-20346d4e4d69d9cecd1c7155962101a6]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

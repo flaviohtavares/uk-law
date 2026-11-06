@@ -32,7 +32,7 @@ summary: ''
 
 financial services
 
-The Financial Markets and Insolvency (Settlement Finality)(Amendment) Regulations 2007 (revoked)[^key-ae05281652d70f08bbb7e35808c86786]
+The Financial Markets and Insolvency (Settlement Finality)(Amendment) Regulations 2007 (revoked)[^c-ae05281652d70f08bbb7e35808c86786]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 6th April 2007
 
-[^key-ae05281652d70f08bbb7e35808c86786]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae05281652d70f08bbb7e35808c86786]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
 In exercise of the powers conferred by that section the Treasury make the following Regulations:
 
-## 1. Citation and commencement[^key-ae05281652d70f08bbb7e35808c86786]
+## 1. Citation and commencement[^c-ae05281652d70f08bbb7e35808c86786]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-ae05281652d70f08bbb7e35808c86786]
+## 2. Amendment to the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-ae05281652d70f08bbb7e35808c86786]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae05281652d70f08bbb7e35808c86786]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae05281652d70f08bbb7e35808c86786]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ae05281652d70f08bbb7e35808c86786]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae05281652d70f08bbb7e35808c86786]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae05281652d70f08bbb7e35808c86786]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-ae05281652d70f08bbb7e35808c86786]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

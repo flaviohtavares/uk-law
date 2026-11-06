@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Absent voters lists[^key-44b5c907a3ac43892460f7d9c1ba643f]
+## 74. Absent voters lists[^c-44b5c907a3ac43892460f7d9c1ba643f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44b5c907a3ac43892460f7d9c1ba643f]: Commencement: Reg. 74 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-44b5c907a3ac43892460f7d9c1ba643f]: Commencement: Reg. 74 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00050]: Footnote: Section 8 was amended by table (2) in Schedule 27 to the Finance Act [1985 (c.54)](https://www.legislation.gov.uk/ukpga/1985/54); paragraphs 12 and 16 of Schedule 6 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2); paragraphs 7 and 8 of Schedule 2 to [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948); and paragraph 7(1) and (3) of Schedule 4 to [S.I. 2005/3129](https://www.legislation.gov.uk/uksi/2005/3129).
 

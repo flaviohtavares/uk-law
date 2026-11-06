@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Procedural requirements[^key-dd3d57254162d279929b35e6c7b8cc66]
+## 102. Procedural requirements[^c-dd3d57254162d279929b35e6c7b8cc66]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd3d57254162d279929b35e6c7b8cc66]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2023/52/section/102) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-dd3d57254162d279929b35e6c7b8cc66]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2023/52/section/102) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

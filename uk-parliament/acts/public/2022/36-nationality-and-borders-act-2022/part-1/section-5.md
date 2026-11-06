@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Period for registration of person born outside the British overseas territories[^key-6c0a973a78faf1fb5f3cdd1f7f17c4bf][^key-95acce7882d03bf98e7428b1add8f4ce]
+## 5. Period for registration of person born outside the British overseas territories[^c-6c0a973a78faf1fb5f3cdd1f7f17c4bf][^c-95acce7882d03bf98e7428b1add8f4ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0a973a78faf1fb5f3cdd1f7f17c4bf]: Commencement: S. 5 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-6c0a973a78faf1fb5f3cdd1f7f17c4bf]: Commencement: S. 5 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-95acce7882d03bf98e7428b1add8f4ce]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/36/section/5) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/4) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/1))
+[^c-95acce7882d03bf98e7428b1add8f4ce]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/36/section/5) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/4) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/1))

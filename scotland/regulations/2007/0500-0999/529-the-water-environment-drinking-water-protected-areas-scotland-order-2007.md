@@ -34,7 +34,7 @@ ENVIRONMENTAL PROTECTION
 
 WATER
 
-The Water Environment (Drinking Water Protected Areas) (Scotland) Order 2007 (revoked)[^key-8a61d020b566cc2df82937507f08bdbb]
+The Water Environment (Drinking Water Protected Areas) (Scotland) Order 2007 (revoked)[^c-8a61d020b566cc2df82937507f08bdbb]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 31st December 2007
 
-[^key-8a61d020b566cc2df82937507f08bdbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a61d020b566cc2df82937507f08bdbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8a61d020b566cc2df82937507f08bdbb]
+## 1. Citation, commencement and interpretation[^c-8a61d020b566cc2df82937507f08bdbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Drinking Water Protected Areas[^key-8a61d020b566cc2df82937507f08bdbb]
+## 2. Drinking Water Protected Areas[^c-8a61d020b566cc2df82937507f08bdbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8a61d020b566cc2df82937507f08bdbb]
+## 3. Revocation[^c-8a61d020b566cc2df82937507f08bdbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a61d020b566cc2df82937507f08bdbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a61d020b566cc2df82937507f08bdbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8a61d020b566cc2df82937507f08bdbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a61d020b566cc2df82937507f08bdbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a61d020b566cc2df82937507f08bdbb]: Textual amendment: Order revoked (11.3.2013) by [The Water Environment (Drinking Water Protected Areas) (Scotland) Order 2013 (S.S.I. 2013/29)](https://www.legislation.gov.uk/ssi/2013/29), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/29/article/1/1), [3](https://www.legislation.gov.uk/ssi/2013/29/article/3)
+[^c-8a61d020b566cc2df82937507f08bdbb]: Textual amendment: Order revoked (11.3.2013) by [The Water Environment (Drinking Water Protected Areas) (Scotland) Order 2013 (S.S.I. 2013/29)](https://www.legislation.gov.uk/ssi/2013/29), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/29/article/1/1), [3](https://www.legislation.gov.uk/ssi/2013/29/article/3)

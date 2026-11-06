@@ -31,7 +31,7 @@ summary: ''
 
 POSTAL SERVICES
 
-The Postal Services Regulations 1999 (revoked)[^key-9e9cea617d25fd7a7120a77423d86687]
+The Postal Services Regulations 1999 (revoked)[^c-9e9cea617d25fd7a7120a77423d86687]
 
 Made
 
@@ -43,40 +43,40 @@ Laid before Parliament
 
 Coming into force – In accordance with regulation 1
 
-[^key-9e9cea617d25fd7a7120a77423d86687]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e9cea617d25fd7a7120a77423d86687]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, purpose, interpretation and commencement[^key-9e9cea617d25fd7a7120a77423d86687]
+## 1. Citation, purpose, interpretation and commencement[^c-9e9cea617d25fd7a7120a77423d86687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The national regulatory authorities[^key-9e9cea617d25fd7a7120a77423d86687]
+## 2. The national regulatory authorities[^c-9e9cea617d25fd7a7120a77423d86687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Postal Services Commission[^key-9e9cea617d25fd7a7120a77423d86687]
+## 3. The Postal Services Commission[^c-9e9cea617d25fd7a7120a77423d86687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision of universal postal service[^key-9e9cea617d25fd7a7120a77423d86687]
+## 4. Provision of universal postal service[^c-9e9cea617d25fd7a7120a77423d86687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exclusive privilege of Post Office[^key-9e9cea617d25fd7a7120a77423d86687]
+## 5. Exclusive privilege of Post Office[^c-9e9cea617d25fd7a7120a77423d86687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Schemes for dealing with users’ complaints[^key-9e9cea617d25fd7a7120a77423d86687]
+## 6. Schemes for dealing with users’ complaints[^c-9e9cea617d25fd7a7120a77423d86687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e9cea617d25fd7a7120a77423d86687]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e9cea617d25fd7a7120a77423d86687]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9e9cea617d25fd7a7120a77423d86687]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e9cea617d25fd7a7120a77423d86687]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e9cea617d25fd7a7120a77423d86687]: Textual amendment: Regulations revoked (31.12.2020) by [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1417/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e9cea617d25fd7a7120a77423d86687]: Textual amendment: Regulations revoked (31.12.2020) by [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1417/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

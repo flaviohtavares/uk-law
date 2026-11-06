@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. The Land Register of Scotland[^key-a02a8ab6057ee003bf27da018ac6ed95]
+## 1. The Land Register of Scotland[^c-a02a8ab6057ee003bf27da018ac6ed95]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a02a8ab6057ee003bf27da018ac6ed95]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/5/section/1) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-a02a8ab6057ee003bf27da018ac6ed95]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/5/section/1) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

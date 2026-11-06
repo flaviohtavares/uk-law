@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12B. Duties of adoption agency when a child is to be placed following consideration in accordance with section 22C(9B)(c) of the Children Act 1989[^key-3c00350a9c873cb8acca1a7db6b8b170]
+## 12B. Duties of adoption agency when a child is to be placed following consideration in accordance with section 22C(9B)(c) of the Children Act 1989[^c-3c00350a9c873cb8acca1a7db6b8b170]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c00350a9c873cb8acca1a7db6b8b170]: Textual amendment: Regs. 12A, 12B inserted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/1556/regulation/5)
+[^c-3c00350a9c873cb8acca1a7db6b8b170]: Textual amendment: Regs. 12A, 12B inserted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/1556/regulation/5)

@@ -51,13 +51,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1 — INTRODUCTION AND GENERAL PROHIBITION ON THE KEEPING OF PETROL
 
-### 1. Citation and commencement[^key-d6acedb2cc280169c1f8df432d9b1a76]
+### 1. Citation and commencement[^c-d6acedb2cc280169c1f8df432d9b1a76]
 
 (1) These Regulations may be cited as the Petroleum (Consolidation) Regulations 2014.
 
 (2) They come into force on 1st October 2014.
 
-### 2. Interpretation[^key-e0ef78268b204d0db3faf67a5c4a974f]
+### 2. Interpretation[^c-e0ef78268b204d0db3faf67a5c4a974f]
 
 In these Regulations—
 
@@ -90,33 +90,33 @@ In these Regulations—
 - “ship”, except in regulation 18, includes every description of vessel used in navigation, whatever its method of propulsion, including hovercraft;
 - “workplace” means a workplace within the meaning of the Dangerous Substances and Explosive Atmospheres Regulations 2002[^f00010].
 
-### 3. Application[^key-38fb6b8917a12b08af3a746f5ade2d67]
+### 3. Application[^c-38fb6b8917a12b08af3a746f5ade2d67]
 
 (1) These Regulations do not apply to—
 
 - (a) a workplace except one—
   - (i) used, or intended for use, for the dispensing of petrol; or
   - (ii) within the curtilage of domestic premises; or
-- (b) any establishment to which the Control of Major Accident Hazards Regulations 2015[^key-8c0cd8465c12878c57fe9da152b5e554] apply by virtue of regulation 3 of those Regulations.
+- (b) any establishment to which the Control of Major Accident Hazards Regulations 2015[^c-8c0cd8465c12878c57fe9da152b5e554] apply by virtue of regulation 3 of those Regulations.
 
 (2) Regulations 12(2), (3) and (4), 18(1)(b) and 21 do not apply to Her Majesty’s Forces.
 
 (3) In this regulation “Her Majesty’s Forces” means any of the naval, military or air forces of the Crown, whether raised inside or outside the United Kingdom and whether any such force is a regular, auxiliary or reserve force, and includes any civilian employed by those forces.
 
-### 4. General prohibition on the keeping of petrol[^key-a8c78c6b15f5a6863ac069730314f20c]
+### 4. General prohibition on the keeping of petrol[^c-a8c78c6b15f5a6863ac069730314f20c]
 
 No person is to keep petrol except in compliance with regulation 5 or regulation 13.
 
 ## PART 2 — STORAGE OF PETROL ON DISPENSING PREMISES
 
-### 5. Storage under certificate[^key-fb446412efff7f8577bdf493592724c8]
+### 5. Storage under certificate[^c-fb446412efff7f8577bdf493592724c8]
 
 A person keeps petrol in compliance with this regulation if the petrol is kept on dispensing premises in respect of which there is—
 
 - (a) a valid storage certificate; and
 - (b) compliance with the notification requirements set out in regulations 9 and 10, as applicable.
 
-### 6. Application and grant of storage certificates[^key-2c2d7ef4c045d6b1fcd7ac32cc01937d]
+### 6. Application and grant of storage certificates[^c-2c2d7ef4c045d6b1fcd7ac32cc01937d]
 
 (1) A petroleum enforcement authority must grant a certificate in respect of dispensing premises (a “storage certificate”) where—
 
@@ -150,14 +150,14 @@ before the day on which the storage of petrol is to be undertaken at the dispens
 
 (6) A storage certificate is not personal to the person to whom it is granted and remains valid on transfer of ownership, operation or management of the dispensing premises.
 
-### 7. Validity of storage certificates[^key-b23fdf55c7ccd474eeccf0e030cc61bb]
+### 7. Validity of storage certificates[^c-b23fdf55c7ccd474eeccf0e030cc61bb]
 
 A storage certificate remains valid for so long as—
 
 - (a) there is no prescribed material change (see regulation 8); and
 - (b) the dispensing premises do not cease to be used for the keeping of petrol for a continuous period exceeding 12 months.
 
-### 8. Prescribed material changes[^key-6d29218b62991f042239461225ed88ff]
+### 8. Prescribed material changes[^c-6d29218b62991f042239461225ed88ff]
 
 (1) For the purposes of regulation 7 a “prescribed material change” is a change to dispensing premises of a description falling within Schedule 1.
 
@@ -168,7 +168,7 @@ A storage certificate remains valid for so long as—
 - (a) the person to whom the certificate which it replaces was granted; or
 - (b) if that petroleum enforcement authority has subsequently been notified of the keeping of petrol at the premises by another person under regulation 10, the last such person to notify the petroleum enforcement authority.
 
-### 9. Notification before ceasing to occupy dispensing premises in respect of which there is a storage certificate[^key-5d9738680570387e2969528f1a968df3]
+### 9. Notification before ceasing to occupy dispensing premises in respect of which there is a storage certificate[^c-5d9738680570387e2969528f1a968df3]
 
 (1) A person keeping petrol on dispensing premises in respect of which there is a storage certificate must notify the petroleum enforcement authority in accordance with this regulation before ceasing to occupy the dispensing premises.
 
@@ -187,7 +187,7 @@ before the day on which the person ceases to occupy the dispensing premises.
 
 (4) A contravention of paragraph (3)(b) does not relieve a person from the duty to notify the petroleum enforcement authority under paragraphs (1) and (2).
 
-### 10. Notification before keeping petrol on dispensing premises in respect of which there is an existing storage certificate[^key-37fcbcd827692a518327d8f5de7644f0]
+### 10. Notification before keeping petrol on dispensing premises in respect of which there is an existing storage certificate[^c-37fcbcd827692a518327d8f5de7644f0]
 
 (1) This regulation applies where a person proposes to keep petrol on dispensing premises in respect of which there is a valid storage certificate, and that person was not the person to whom the storage certificate was granted.
 
@@ -208,7 +208,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 (5) A contravention of paragraph (4)(b) does not relieve a person from the duty to notify the petroleum enforcement authority under paragraphs (2) and (3).
 
-### 11. Appeals from refusals by petroleum enforcement authorities to grant storage certificates[^key-67651b1c05e82c436b157eba0364e0fe]
+### 11. Appeals from refusals by petroleum enforcement authorities to grant storage certificates[^c-67651b1c05e82c436b157eba0364e0fe]
 
 (1) A person who is aggrieved by a decision of a petroleum enforcement authority not to grant a storage certificate may appeal to the Secretary of State.
 
@@ -225,7 +225,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 (6) In paragraph (5) “Secretary of State” includes a person who under section 44(2) of the 1974 Act determines the appeal on behalf of the Secretary of State.
 
-### 12. General prohibitions on dispensing and supply of petrol[^key-dd5a4d2728a9551c7fbd543b9678a287]
+### 12. General prohibitions on dispensing and supply of petrol[^c-dd5a4d2728a9551c7fbd543b9678a287]
 
 (1) No person is to dispense, or allow the dispensing of, petrol from a dispenser on dispensing premises except—
 
@@ -245,7 +245,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 ## PART 3 — STORAGE OF PETROL IN DOMESTIC OR OTHER RELEVANT PREMISES
 
-### 13. Storage of petrol in domestic or other relevant premises[^key-07446ed41ac9cbe5dccff99a240b2007]
+### 13. Storage of petrol in domestic or other relevant premises[^c-07446ed41ac9cbe5dccff99a240b2007]
 
 (1) A person keeps petrol in compliance with this regulation if the petrol—
 
@@ -259,7 +259,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 (3) Petrol kept pursuant to paragraph (2) is not to be counted towards the amount of petrol kept in a storage place in accordance with Schedule 2.
 
-### 14. Licences for storage in domestic or other relevant premises[^key-7715dee3e5b16d92fea86f899d1af94a]
+### 14. Licences for storage in domestic or other relevant premises[^c-7715dee3e5b16d92fea86f899d1af94a]
 
 (1) A petroleum enforcement authority may grant a person a licence authorising the keeping of petrol in excess of 275 litres in domestic or other relevant premises.
 
@@ -287,7 +287,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 (8) A licence is personal to the licensee and is not transferrable.
 
-### 15. Appeals from refusals by petroleum enforcement authorities to grant licences[^key-ea98e9fff31b9d0cd07685f7dfcbe56c]
+### 15. Appeals from refusals by petroleum enforcement authorities to grant licences[^c-ea98e9fff31b9d0cd07685f7dfcbe56c]
 
 (1) A person who is aggrieved by a decision of a petroleum enforcement authority not to grant a licence under regulation 14 may appeal to the Secretary of State.
 
@@ -304,7 +304,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 (6) In paragraph (5) “Secretary of State” includes a person who under section 44(2) of the 1974 Act determines the appeal on behalf of the Secretary of State.
 
-### 16. Renewal and variation of licences[^key-404a721cd960dd31806aab24b2be7ba4]
+### 16. Renewal and variation of licences[^c-404a721cd960dd31806aab24b2be7ba4]
 
 (1) A petroleum enforcement authority may renew a licence, on the application of the licensee, for a period of up to three years if it is satisfied that the keeping of petrol in accordance with the conditions of the licence would not create an unacceptable risk to the health or safety of any person.
 
@@ -312,7 +312,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 (3) In varying the conditions of a licence a petroleum enforcement authority may attach only conditions that it would be able to attach pursuant to regulation 14 on the grant of a licence.
 
-### 17. Revocation of licences[^key-13d8717423db9f0ef4341ec0e1b1394f]
+### 17. Revocation of licences[^c-13d8717423db9f0ef4341ec0e1b1394f]
 
 (1) A petroleum enforcement authority may revoke a licence where—
 
@@ -323,7 +323,7 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 
 ## PART 4 — MISCELLANEOUS PROVISIONS
 
-### 18. Enforcing authorities[^key-25f1a81381bae88338eccdc7f7cda446]
+### 18. Enforcing authorities[^c-25f1a81381bae88338eccdc7f7cda446]
 
 (1) A petroleum enforcement authority is the enforcing authority within its area for—
 
@@ -348,23 +348,23 @@ before the day on which the person proposes to keep petrol on the dispensing pre
 - “vehicle fuel” means petrol or any other substance which provides the power in an internal-combustion engine in a motor vehicle, ship or aircraft;
 - “vehicle fuel dispenser” means a mechanical or electrical device for the dispensing of vehicle fuel.
 
-### 19. Manufacture etc. of portable petrol storage containers[^key-9e723edae39b96cfb99e58bc020b37cc]
+### 19. Manufacture etc. of portable petrol storage containers[^c-9e723edae39b96cfb99e58bc020b37cc]
 
 (1) Any person who manufactures, imports or supplies any container for use as a portable petrol storage container must ensure that the container meets the standards for such containers specified in Schedule 3.
 
 (2) In any proceedings for an offence under paragraph (1) it is a defence for any person who supplied the container, but did not manufacture it, to prove that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
-### 20. Repairs of vessels or containers that have contained petrol[^key-f09af21e4f5734b94e043e997c6f56f7]
+### 20. Repairs of vessels or containers that have contained petrol[^c-f09af21e4f5734b94e043e997c6f56f7]
 
 A domestic or other relevant user must not repair, or allow the repair of, any container or other vessel, which to the person’s knowledge has contained petrol, or still contains petrol, without first taking all reasonable precautions to ensure that the container or other vessel has been rendered free from petrol and any flammable petrol vapours.
 
-### 21. Prohibition on direct filling of fuel tanks from road tankers[^key-a29e58af4f2e0b3c05cbd6e89817da7b]
+### 21. Prohibition on direct filling of fuel tanks from road tankers[^c-a29e58af4f2e0b3c05cbd6e89817da7b]
 
 (1) No person is to fill or replenish a fuel tank for an internal combustion engine or a portable container with petrol directly from a road tanker conveying petrol.
 
 (2) A road tanker is conveying petrol where it is conveying petrol by road in circumstances where the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00014] apply to that tanker.
 
-### 22. Limited continuation of activities that were formerly compliant[^key-9fa974247e885be0c6aed81f6bfae750]
+### 22. Limited continuation of activities that were formerly compliant[^c-9fa974247e885be0c6aed81f6bfae750]
 
 (1) A petrol storage container that either—
 
@@ -385,7 +385,7 @@ may be manufactured and sold for use in Great Britain for up to two years after 
 
 (7) Fees paid for the grant or transfer of a licence in the circumstances described in paragraphs (5) and (6) are deemed to be fees paid in full for the determination of the application under these Regulations.
 
-### 23. Transitional provisions in relation to licences granted under the Petroleum (Consolidation) Act 1928[^key-32a3b799fdfae30ad7a8b3baadd2350e]
+### 23. Transitional provisions in relation to licences granted under the Petroleum (Consolidation) Act 1928[^c-32a3b799fdfae30ad7a8b3baadd2350e]
 
 (1) This regulation applies to the keeping of petrol that immediately before the relevant date was authorised by a licence granted under section 2(2) of the Petroleum (Consolidation) Act 1928.
 
@@ -412,17 +412,17 @@ it is deemed to be kept in compliance with a valid licence granted under regulat
 
 (7) A licence deemed to be tantamount to a valid storage certificate under paragraph (2), where the storage arrangements remain unaltered, is to be converted, by the petroleum enforcement authority, to a storage certificate on its expiry without having to fulfil the requirements set out in regulation 6.
 
-### 24. Savings in relation to byelaws[^key-e0996e66792ddb8a3be7bb936cf3319d]
+### 24. Savings in relation to byelaws[^c-e0996e66792ddb8a3be7bb936cf3319d]
 
 Despite the revocation of regulation 17(5) of the Dangerous Substances and Explosive Atmospheres Regulations 2002 (which saves byelaws made or having effect under section 9 of the Petroleum (Consolidation) Act 1928), byelaws made or having effect under section 9 of the Petroleum (Consolidation) Act 1928 which are in force immediately before the relevant date are to continue.
 
-### 25. Repeals, revocations and consequential amendments[^key-61d7b868b50f0c2aab26d236c3516468]
+### 25. Repeals, revocations and consequential amendments[^c-61d7b868b50f0c2aab26d236c3516468]
 
 (1) The Acts and instruments referred to in column 1 of Part 1 of Schedule 4 are repealed or revoked to the extent specified in the corresponding entry in column 3 of that Part.
 
 (2) Part 2 of Schedule 4 (which makes consequential amendments) has effect.
 
-### 26. Review[^key-ab840938ec15be8662af4999aa0d706a]
+### 26. Review[^c-ab840938ec15be8662af4999aa0d706a]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -452,19 +452,19 @@ Department of Work and Pensions
 
 Regulation 8
 
-**1.**[^key-6c6e3013423360c6b0b7e7e4b007eea9] The cessation of use of one or more of the petrol storage tanks.
+**1.**[^c-6c6e3013423360c6b0b7e7e4b007eea9] The cessation of use of one or more of the petrol storage tanks.
 
-**2.**[^key-4728a050812bf523969ba53efb069a00] The removal or permanent decommissioning of one or more of the petrol storage tanks.
+**2.**[^c-4728a050812bf523969ba53efb069a00] The removal or permanent decommissioning of one or more of the petrol storage tanks.
 
-**3.**[^key-3a21e3c06154544512b5202a1fca7dbc] The installation of any tank, pipework or vapour pipework associated with the storage and dispensing of petrol.
+**3.**[^c-3a21e3c06154544512b5202a1fca7dbc] The installation of any tank, pipework or vapour pipework associated with the storage and dispensing of petrol.
 
-**4.**[^key-d274ff7bae5186f803ad1211b540d92b] The installation of any petrol pump, any other automotive pump, or dispenser in a new location.
+**4.**[^c-d274ff7bae5186f803ad1211b540d92b] The installation of any petrol pump, any other automotive pump, or dispenser in a new location.
 
 ## SCHEDULE 2 — Petrol Storage in Domestic or Other Relevant Premises
 
 Regulation 13(1)(c)
 
-### 1. Requirements for keeping up to 30 litres of petrol in suitable portable containers or in a single demountable fuel tank[^key-c543e3cbcbfae96a54fc8fd0e300459a]
+### 1. Requirements for keeping up to 30 litres of petrol in suitable portable containers or in a single demountable fuel tank[^c-c543e3cbcbfae96a54fc8fd0e300459a]
 
 A person keeps petrol in accordance with this paragraph if—
 
@@ -482,7 +482,7 @@ A person keeps petrol in accordance with this paragraph if—
   - (ii) above, below or attached to a building, is fire-separated from the building; and
 - (d) the common storage requirements of paragraph 3 are met.
 
-### 2. Requirements for keeping of up to 275 litres of petrol[^key-f2bf70521f4f5beff7de2a658b8e46ae]
+### 2. Requirements for keeping of up to 275 litres of petrol[^c-f2bf70521f4f5beff7de2a658b8e46ae]
 
 A person keeps petrol in accordance with this paragraph if—
 
@@ -499,7 +499,7 @@ A person keeps petrol in accordance with this paragraph if—
     - (bb) attached to a building (but not domestic premises), and is fire-separated from the building; and
   - (iii) where fire extinguishing and spillage containment apparatus is available either within the storage place, or as close as is reasonably practicable to the storage place.
 
-### 3. Common storage requirements for the keeping of intermediate quantities of petrol[^key-fcf7590f4442687d34a1e1a93f88779a]
+### 3. Common storage requirements for the keeping of intermediate quantities of petrol[^c-fcf7590f4442687d34a1e1a93f88779a]
 
 The requirements of this paragraph are met if—
 
@@ -511,7 +511,7 @@ The requirements of this paragraph are met if—
   - (i) in the fuel tank of any internal combustion engine; or
   - (ii) in quantities, not exceeding at any one time 150 millilitres, for cleaning or as a solvent for repair purposes.
 
-### 4. Notification of petrol storage[^key-41fb7391d1dc642fe5e1c8c19b83cc5b]
+### 4. Notification of petrol storage[^c-41fb7391d1dc642fe5e1c8c19b83cc5b]
 
 A petroleum enforcement authority is given notice in accordance with this paragraph where notice—
 
@@ -523,11 +523,11 @@ A petroleum enforcement authority is given notice in accordance with this paragr
   - (i) before keeping, or permitting the keeping, of petrol in accordance with paragraph 2; and
   - (ii) after that, annually in the month of January.
 
-### 5. Calculating the amount of petrol kept in a storage place[^key-168715230c24577a602a293ce93f97d3]
+### 5. Calculating the amount of petrol kept in a storage place[^c-168715230c24577a602a293ce93f97d3]
 
 For the purpose of calculating the amount of petrol kept in domestic or other relevant premises, any petrol contained in a fuel tank that is connected to an internal combustion engine in the way it would ordinarily be connected when the engine is running, is not to be counted towards the total amount of petrol kept.
 
-### 6. Suitable portable containers[^key-bc18585da3e48b8da94b8289490cc727]
+### 6. Suitable portable containers[^c-bc18585da3e48b8da94b8289490cc727]
 
 For the purposes of this Schedule (and regulation 12) a container is a “suitable portable container” if it—
 
@@ -537,7 +537,7 @@ For the purposes of this Schedule (and regulation 12) a container is a “suitab
   - (ii) it is made of metal and immediately before the relevant date complied (or would have complied if it were used for the purpose of keeping petrol) with the requirements of regulations 2(1) and 4 of the Petroleum-Spirits (Motor Vehicles, etc.) Regulations 1929; or
   - (iii) immediately before the relevant date it had the characteristics described in sub-paragraphs (a) to (d) of regulation 3(1) of, and the Schedule to, the Petroleum-Sprits (Plastic Containers) Regulations 1982.
 
-### 7. Interpretation[^key-e2a0e9f6cae8cc8c673c50f25401c1fb]
+### 7. Interpretation[^c-e2a0e9f6cae8cc8c673c50f25401c1fb]
 
 In this Schedule—
 
@@ -556,7 +556,7 @@ In this Schedule—
 
 Regulation 19
 
-**1.**[^key-0e94ca2571619b2e188fc5430e8960e4] A portable petrol storage container must—
+**1.**[^c-0e94ca2571619b2e188fc5430e8960e4] A portable petrol storage container must—
 
 - (a) have a nominal capacity —
   - (i) no greater than 10 litres if made of plastic; and
@@ -574,7 +574,7 @@ Regulation 19
   - (iii) the nominal capacity in litres; and
   - (iv) the manufacturer’s name and the date and month of manufacture.
 
-**2.**[^key-a224aff53f87f8a5f3142a93cda92505] In paragraph 1—
+**2.**[^c-a224aff53f87f8a5f3142a93cda92505] In paragraph 1—
 
 - “nominal capacity” means the maximum volume of liquid that the container is intended to hold at 20°C;
 - “total capacity” means the maximum volume of liquid that the container would hold if filled to the brim.
@@ -583,7 +583,7 @@ Regulation 19
 
 Regulation 25
 
-### PART 1 — Repeals and revocations[^key-6d823dd29330cd4b83706166276d35e2]
+### PART 1 — Repeals and revocations[^c-6d823dd29330cd4b83706166276d35e2]
 
 | *Column 1*<br>*Title* | *Column 2*<br>*Reference* | *Column 3*<br>*Extent of repeal or revocation* |
 | --- | --- | --- |
@@ -608,15 +608,15 @@ Regulation 25
 
 ### PART 2
 
-**1.**[^key-e77584877c527708e1e4e8b3fad5a002] In section 143(4)(a) (regulations for building near dangerous businesses) of the London Building Act 1930[^f00019] for “licence is in force under the provisions of the Petroleum (Consolidation) Act 1928” substitute “storage certificate or licence is in force under the provisions of the Petroleum (Consolidation) Regulations 2014”.
+**1.**[^c-e77584877c527708e1e4e8b3fad5a002] In section 143(4)(a) (regulations for building near dangerous businesses) of the London Building Act 1930[^f00019] for “licence is in force under the provisions of the Petroleum (Consolidation) Act 1928” substitute “storage certificate or licence is in force under the provisions of the Petroleum (Consolidation) Regulations 2014”.
 
-**2.**[^key-a778ff416ed27814bad0ac857129f264] For section 69(8) (control of petroleum-filling stations) of the London County Council (General Powers) Act 1933[^f00020] substitute—
+**2.**[^c-a778ff416ed27814bad0ac857129f264] For section 69(8) (control of petroleum-filling stations) of the London County Council (General Powers) Act 1933[^f00020] substitute—
 
 > (8) In this section the expression “petroleum-filling station” means any premises or place used or intended to be used by way of trade or for purposes of gain for fuelling motor vehicles with petrol by means of a pump or standpipe or other like apparatus and includes any building advertisement pump or other apparatus used in connection with such premises or place and the expression “petrol” has the meaning given by regulation 2 of the Petroleum (Consolidation) Regulations 2014.
 
 .
 
-**3.**[^key-8acb5326483fa9372518a4ce1080d8b1] In section 73 (derelict petrol tanks) of the Public Health Act 1961[^f00021]—
+**3.**[^c-8acb5326483fa9372518a4ce1080d8b1] In section 73 (derelict petrol tanks) of the Public Health Act 1961[^f00021]—
 
 (1) in subsection (1), for “petroleum spirit” substitute “petrol”;
 
@@ -628,7 +628,7 @@ Regulation 25
 
 .
 
-**4.**[^key-bccf9d9f430d5f9247b985cd2b3d0450] In section 94 (disused petrol containers) of the Civic Government (Scotland) Act 1982[^f00022]—
+**4.**[^c-bccf9d9f430d5f9247b985cd2b3d0450] In section 94 (disused petrol containers) of the Civic Government (Scotland) Act 1982[^f00022]—
 
 (1) in subsection (1), for “petroleum spirit” substitute “petrol”;
 
@@ -640,9 +640,9 @@ Regulation 25
 
 .
 
-**5.**[^key-7c168ad7bb4d2718ba45180d0916ee8a] In article 3(e) of the Isles of Scilly (Functions) Order 1979[^f00023] (functions), for “the Petroleum (Consolidation) Act 1928” substitute “the Petroleum (Consolidation) Regulations 2014”.
+**5.**[^c-7c168ad7bb4d2718ba45180d0916ee8a] In article 3(e) of the Isles of Scilly (Functions) Order 1979[^f00023] (functions), for “the Petroleum (Consolidation) Act 1928” substitute “the Petroleum (Consolidation) Regulations 2014”.
 
-**6.**[^key-8f8c4e1dd3d8774ebd10259866af5669] In the Dangerous Substances in Harbour Areas Regulations 1987[^f00024]—
+**6.**[^c-8f8c4e1dd3d8774ebd10259866af5669] In the Dangerous Substances in Harbour Areas Regulations 1987[^f00024]—
 
 - (a) in regulation 2(1) (interpretation), for the definition beginning with “petroleum-spirit” substitute ““petroleum-spirit” means petrol within the meaning of regulation 2 of the Petroleum (Consolidation) Regulations 2014”;
 - (b) for regulation 5(2)(a) (application of these Regulations) substitute—
@@ -656,7 +656,7 @@ Regulation 25
 
   .
 
-**7.**[^key-9844e512cc5cd39a032c5fc930bb48ac] In the Dangerous Substances (notification and marking of sites) Regulations 1990[^f00025], in Schedule 1 (Exceptions)—
+**7.**[^c-9844e512cc5cd39a032c5fc930bb48ac] In the Dangerous Substances (notification and marking of sites) Regulations 1990[^f00025], in Schedule 1 (Exceptions)—
 
 - (a) for paragraph 2(c) substitute—
 
@@ -669,13 +669,13 @@ Regulation 25
 
   .
 
-**8.**[^key-dad5cf58e5bb127d5ee0a46bff95f1fa] In paragraph (10) of regulation 7 (labelling of dangerous substances and dangerous preparations) of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2009[^f00026], for sub-paragraph (a) substitute—
+**8.**[^c-dad5cf58e5bb127d5ee0a46bff95f1fa] In paragraph (10) of regulation 7 (labelling of dangerous substances and dangerous preparations) of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2009[^f00026], for sub-paragraph (a) substitute—
 
 > - (a) regulation 19 of and paragraph 1(e) of Schedule 3 to the Petroleum (Consolidation) Regulations 2014;
 
 .
 
-**9.**[^key-ab360bccb8f44a0af306c00b2de57804] In the Health and Safety (Fees) Regulations 2012[^f00027]—
+**9.**[^c-ab360bccb8f44a0af306c00b2de57804] In the Health and Safety (Fees) Regulations 2012[^f00027]—
 
 - (a) in the heading to regulation 9 for “Petroleum (Consolidation) Act 1928 and the Petroleum (Transfer of Licences) Act 1936” substitute “Petroleum (Consolidation) Regulations 2014”;
 - (b) for paragraph (5) of regulation 9 substitute—
@@ -749,9 +749,9 @@ Regulations concerning the standards for portable petrol storage containers and 
 
 [^f00004]: Footnote: Section 80(4) was substituted by the Employment Protection Act 1975, section 116 and Schedule15, paragraph 1.
 
-[^key-d6acedb2cc280169c1f8df432d9b1a76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-d6acedb2cc280169c1f8df432d9b1a76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-e0ef78268b204d0db3faf67a5c4a974f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1637/regulation/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-e0ef78268b204d0db3faf67a5c4a974f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1637/regulation/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00005]: Footnote: That is the area comprising the areas of the London boroughs, the City and the Temples which together constitute an administrative area known as Greater London, see section 2(1) of the London Government Act [1963 (c.33)](https://www.legislation.gov.uk/ukpga/1963/33) (which is the subject of amendment not relevant to these regulations). The London Boroughs are defined in section 1 of that Act, and the City and Temples are defined in section 89(1) of that Act.
 
@@ -765,53 +765,53 @@ Regulations concerning the standards for portable petrol storage containers and 
 
 [^f00010]: Footnote: [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776); to which there are amendments none of which is relevant.
 
-[^key-38fb6b8917a12b08af3a746f5ade2d67]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-38fb6b8917a12b08af3a746f5ade2d67]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-8c0cd8465c12878c57fe9da152b5e554]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1/b) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/10) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-8c0cd8465c12878c57fe9da152b5e554]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1/b) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/10) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
-[^key-a8c78c6b15f5a6863ac069730314f20c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1637/regulation/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-a8c78c6b15f5a6863ac069730314f20c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1637/regulation/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-fb446412efff7f8577bdf493592724c8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1637/regulation/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-fb446412efff7f8577bdf493592724c8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1637/regulation/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-2c2d7ef4c045d6b1fcd7ac32cc01937d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1637/regulation/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-2c2d7ef4c045d6b1fcd7ac32cc01937d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1637/regulation/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-b23fdf55c7ccd474eeccf0e030cc61bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1637/regulation/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-b23fdf55c7ccd474eeccf0e030cc61bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1637/regulation/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-6d29218b62991f042239461225ed88ff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1637/regulation/8) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-6d29218b62991f042239461225ed88ff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1637/regulation/8) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-5d9738680570387e2969528f1a968df3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1637/regulation/9) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-5d9738680570387e2969528f1a968df3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1637/regulation/9) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-37fcbcd827692a518327d8f5de7644f0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1637/regulation/10) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-37fcbcd827692a518327d8f5de7644f0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1637/regulation/10) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-67651b1c05e82c436b157eba0364e0fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1637/regulation/11) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-67651b1c05e82c436b157eba0364e0fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1637/regulation/11) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1974/2040](https://www.legislation.gov.uk/uksi/1974/2040).
 
 [^f00013]: Footnote: [S.I. 1974/2068](https://www.legislation.gov.uk/uksi/1974/2068).
 
-[^key-dd5a4d2728a9551c7fbd543b9678a287]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1637/regulation/12) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-dd5a4d2728a9551c7fbd543b9678a287]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1637/regulation/12) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-07446ed41ac9cbe5dccff99a240b2007]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/1637/regulation/13) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-07446ed41ac9cbe5dccff99a240b2007]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/1637/regulation/13) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-7715dee3e5b16d92fea86f899d1af94a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/1637/regulation/14) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-7715dee3e5b16d92fea86f899d1af94a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/1637/regulation/14) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-ea98e9fff31b9d0cd07685f7dfcbe56c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/1637/regulation/15) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-ea98e9fff31b9d0cd07685f7dfcbe56c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/1637/regulation/15) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-404a721cd960dd31806aab24b2be7ba4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1637/regulation/16) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-404a721cd960dd31806aab24b2be7ba4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1637/regulation/16) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-13d8717423db9f0ef4341ec0e1b1394f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/1637/regulation/17) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-13d8717423db9f0ef4341ec0e1b1394f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/1637/regulation/17) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-25f1a81381bae88338eccdc7f7cda446]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/1637/regulation/18) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-25f1a81381bae88338eccdc7f7cda446]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/1637/regulation/18) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-9e723edae39b96cfb99e58bc020b37cc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/1637/regulation/19) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-9e723edae39b96cfb99e58bc020b37cc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/1637/regulation/19) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-f09af21e4f5734b94e043e997c6f56f7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/1637/regulation/20) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-f09af21e4f5734b94e043e997c6f56f7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/1637/regulation/20) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-a29e58af4f2e0b3c05cbd6e89817da7b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/1637/regulation/21) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-a29e58af4f2e0b3c05cbd6e89817da7b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/1637/regulation/21) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348).
 
-[^key-9fa974247e885be0c6aed81f6bfae750]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/1637/regulation/22) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-9fa974247e885be0c6aed81f6bfae750]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/1637/regulation/22) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00015]: Footnote: [S.R. & O. 1929/952](https://www.legislation.gov.uk/uksro/1929/952); regulation 2 was substituted by [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776); regulation 4 was amended by [S.I. 1982/630](https://www.legislation.gov.uk/uksi/1982/630).
 
@@ -821,74 +821,74 @@ Regulations concerning the standards for portable petrol storage containers and 
 
 [^f00018]: Footnote: [1936 c. 27](https://www.legislation.gov.uk/ukpga/1936/27); section 1(4) was amended by [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) and [S.I. 1987/52](https://www.legislation.gov.uk/uksi/1987/52).
 
-[^key-32a3b799fdfae30ad7a8b3baadd2350e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/1637/regulation/23) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-32a3b799fdfae30ad7a8b3baadd2350e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/1637/regulation/23) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-e0996e66792ddb8a3be7bb936cf3319d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/1637/regulation/24) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-e0996e66792ddb8a3be7bb936cf3319d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/1637/regulation/24) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-61d7b868b50f0c2aab26d236c3516468]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/1637/regulation/25) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-61d7b868b50f0c2aab26d236c3516468]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/1637/regulation/25) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-ab840938ec15be8662af4999aa0d706a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/1637/regulation/26) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-ab840938ec15be8662af4999aa0d706a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/1637/regulation/26) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-6c6e3013423360c6b0b7e7e4b007eea9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-6c6e3013423360c6b0b7e7e4b007eea9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-4728a050812bf523969ba53efb069a00]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-4728a050812bf523969ba53efb069a00]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-3a21e3c06154544512b5202a1fca7dbc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-3a21e3c06154544512b5202a1fca7dbc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-d274ff7bae5186f803ad1211b540d92b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-d274ff7bae5186f803ad1211b540d92b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-c543e3cbcbfae96a54fc8fd0e300459a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-c543e3cbcbfae96a54fc8fd0e300459a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-f2bf70521f4f5beff7de2a658b8e46ae]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-f2bf70521f4f5beff7de2a658b8e46ae]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-fcf7590f4442687d34a1e1a93f88779a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-fcf7590f4442687d34a1e1a93f88779a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-41fb7391d1dc642fe5e1c8c19b83cc5b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-41fb7391d1dc642fe5e1c8c19b83cc5b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-168715230c24577a602a293ce93f97d3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-168715230c24577a602a293ce93f97d3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-bc18585da3e48b8da94b8289490cc727]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-bc18585da3e48b8da94b8289490cc727]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-e2a0e9f6cae8cc8c673c50f25401c1fb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-e2a0e9f6cae8cc8c673c50f25401c1fb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-0e94ca2571619b2e188fc5430e8960e4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/3/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-0e94ca2571619b2e188fc5430e8960e4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/3/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-a224aff53f87f8a5f3142a93cda92505]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/3/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-a224aff53f87f8a5f3142a93cda92505]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/3/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-6d823dd29330cd4b83706166276d35e2]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-6d823dd29330cd4b83706166276d35e2]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
-[^key-e77584877c527708e1e4e8b3fad5a002]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-e77584877c527708e1e4e8b3fad5a002]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00019]: Footnote: [1930 c.clviii](https://www.legislation.gov.uk/ukla/1930/158).
 
-[^key-a778ff416ed27814bad0ac857129f264]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-a778ff416ed27814bad0ac857129f264]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00020]: Footnote: [1933 c.xxviii](https://www.legislation.gov.uk/ukla/1933/28).
 
-[^key-8acb5326483fa9372518a4ce1080d8b1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-8acb5326483fa9372518a4ce1080d8b1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00021]: Footnote: [1961 c.64](https://www.legislation.gov.uk/ukpga/1961/64).
 
-[^key-bccf9d9f430d5f9247b985cd2b3d0450]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-bccf9d9f430d5f9247b985cd2b3d0450]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00022]: Footnote: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45).
 
-[^key-7c168ad7bb4d2718ba45180d0916ee8a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-7c168ad7bb4d2718ba45180d0916ee8a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 1979/72](https://www.legislation.gov.uk/uksi/1979/72).
 
-[^key-8f8c4e1dd3d8774ebd10259866af5669]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-8f8c4e1dd3d8774ebd10259866af5669]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37).
 
-[^key-9844e512cc5cd39a032c5fc930bb48ac]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-9844e512cc5cd39a032c5fc930bb48ac]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 1990/304](https://www.legislation.gov.uk/uksi/1990/304).
 
-[^key-dad5cf58e5bb127d5ee0a46bff95f1fa]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/8) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-dad5cf58e5bb127d5ee0a46bff95f1fa]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/8) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716) – to be revoked by regulation 36(b) of [S.I. 2013/506](https://www.legislation.gov.uk/uksi/2013/506) with effect from 1st June 2015.
 
-[^key-ab360bccb8f44a0af306c00b2de57804]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/9) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+[^c-ab360bccb8f44a0af306c00b2de57804]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/9) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2012/1652](https://www.legislation.gov.uk/uksi/2012/1652).

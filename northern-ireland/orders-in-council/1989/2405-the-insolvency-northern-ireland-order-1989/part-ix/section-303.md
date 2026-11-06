@@ -36,10 +36,10 @@ summary: ''
 
 (5) If a surplus remains after payment in full and with interest of all the bankrupt's creditors and the payment of the expenses of the bankruptcy, the bankrupt is entitled to the surplus.
 
-(6)[^key-3ecc72d324da9704d9beec80ef5a7e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3ecc72d324da9704d9beec80ef5a7e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c17601591]: Textual amendment: mod. by SR 1991/365
 
-[^key-3ecc72d324da9704d9beec80ef5a7e26]: Textual amendment: [Art. 303(6)](https://www.legislation.gov.uk/nisi/1989/2405/article/303/6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 179](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/179) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ecc72d324da9704d9beec80ef5a7e26]: Textual amendment: [Art. 303(6)](https://www.legislation.gov.uk/nisi/1989/2405/article/303/6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 179](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/179) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

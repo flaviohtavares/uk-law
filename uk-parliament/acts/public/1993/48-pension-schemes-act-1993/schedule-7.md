@@ -28,7 +28,7 @@ Section 190.
 
 *Extent: E+W+S*
 
-**1.**[^key-6ea84672d6cfb11cae5a98c1632eb992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6ea84672d6cfb11cae5a98c1632eb992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Social Security Act 1989 (c.24)
 
@@ -42,10 +42,10 @@ Section 190.
 
 ### This Act
 
-**3.**[^key-eea4df8b5254e061e3c1cc76f9dff643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eea4df8b5254e061e3c1cc76f9dff643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ea84672d6cfb11cae5a98c1632eb992]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/1993/48/schedule/7/paragraph/1) repealed (1.1.1996) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/47), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), art. 2(3)
+[^c-6ea84672d6cfb11cae5a98c1632eb992]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/1993/48/schedule/7/paragraph/1) repealed (1.1.1996) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/47), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), art. 2(3)
 
-[^key-eea4df8b5254e061e3c1cc76f9dff643]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1993/48/schedule/7/paragraph/3) repealed (1.1.1996) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/47), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), art. 2(3)
+[^c-eea4df8b5254e061e3c1cc76f9dff643]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1993/48/schedule/7/paragraph/3) repealed (1.1.1996) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/47), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), art. 2(3)

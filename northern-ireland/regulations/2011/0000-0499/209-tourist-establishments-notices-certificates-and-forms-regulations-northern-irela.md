@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001], in exercise of powers conferred by Articles 13(2)(a) and (b), 13(3), 13(7), 14A(1), 15(3), 16(3), 17(2) and 17A(2) of the Tourism (Northern Ireland) Order 1992[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2b641764d9033fb7408f4acec51db56d]
+## 1. Citation, commencement and interpretation[^c-2b641764d9033fb7408f4acec51db56d]
 
 (1) These Regulations may be cited as the Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 2011 and shall come into operation on 1st July 2011.
 
 (2) In these Regulations the “Statutory Criteria Regulations” means the Categories of Tourist Establishment (Statutory Criteria) Regulations (Northern Ireland) 1992[^f00003]
 
-## 2. Prescribed forms[^key-14e9ea9c7de54769202ca874fd5146d8]
+## 2. Prescribed forms[^c-14e9ea9c7de54769202ca874fd5146d8]
 
 The notices, certificates and forms in the Schedule are prescribed under Articles 13(2)(a) and (b), 13(3), 13(7), 14A(1), 15(3), 16(3), 17(2) and 17A(2) of the Tourism (Northern Ireland) Order 1992.
 
-## 3. Revocation[^key-758d8cd7143c6059af81d24a25e29593]
+## 3. Revocation[^c-758d8cd7143c6059af81d24a25e29593]
 
 The Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 1992[^f00004] are revoked.
 
@@ -64,7 +64,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE[^key-fc71791f15cf65705dc6c38323a262a8][^M_F_926dd8e0-1d70-42b1-af64-5655287cdc7e][^M_F_24c80f4a-539d-41cb-efdc-5b76161be2f3][^M_F_abe1661c-e986-48ba-d20b-425dfb9a9c7d][^M_F_42a1ea45-eeee-48cc-8724-ee642753c952][^M_F_0b8e664c-8c25-4065-bb55-5442e7fa6445][^M_F_94513fd2-a4d5-437d-aec6-2fbe6121bed9]
+## SCHEDULE[^c-fc71791f15cf65705dc6c38323a262a8][^M_F_926dd8e0-1d70-42b1-af64-5655287cdc7e][^M_F_24c80f4a-539d-41cb-efdc-5b76161be2f3][^M_F_abe1661c-e986-48ba-d20b-425dfb9a9c7d][^M_F_42a1ea45-eeee-48cc-8724-ee642753c952][^M_F_0b8e664c-8c25-4065-bb55-5442e7fa6445][^M_F_94513fd2-a4d5-437d-aec6-2fbe6121bed9]
 
 Regulation 2
 
@@ -101,17 +101,17 @@ The prescribed certificate relates to:
 
 [^f00002]: Footnote: [S.I. 1992/235 (N.I. 3)](https://www.legislation.gov.uk/nisi/1992/235). Article 14A was inserted by section 2(2) of the Tourism (Amendment) Act (Northern Ireland) [2011 (c. 3)](https://www.legislation.gov.uk/nia/2011/3) and Article 17A was inserted by section 2(4) of that Act
 
-[^key-2b641764d9033fb7408f4acec51db56d]: Commencement: Reg. 1 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+[^c-2b641764d9033fb7408f4acec51db56d]: Commencement: Reg. 1 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1992 No. 149](https://www.legislation.gov.uk/nisr/1992/149) as amended by [S.R. 2009 No. 367](https://www.legislation.gov.uk/nisr/2009/367) and [S.R. 2011 No. 104](https://www.legislation.gov.uk/nisr/2011/104)
 
-[^key-14e9ea9c7de54769202ca874fd5146d8]: Commencement: Reg. 2 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+[^c-14e9ea9c7de54769202ca874fd5146d8]: Commencement: Reg. 2 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
 
-[^key-758d8cd7143c6059af81d24a25e29593]: Commencement: Reg. 3 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+[^c-758d8cd7143c6059af81d24a25e29593]: Commencement: Reg. 3 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
 
 [^f00004]: Footnote: [S. R. 1992 No. 150](https://www.legislation.gov.uk/nisr/1992/150)
 
-[^key-fc71791f15cf65705dc6c38323a262a8]: Commencement: Sch. in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+[^c-fc71791f15cf65705dc6c38323a262a8]: Commencement: Sch. in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
 
 [^M_F_926dd8e0-1d70-42b1-af64-5655287cdc7e]: Textual amendment: Sch. Form 5: in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 

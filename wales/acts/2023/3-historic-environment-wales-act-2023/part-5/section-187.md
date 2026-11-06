@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Effect and validity of correction notice[^key-2402a2996b538a1b56253f4571bf91a3][^key-a9a372fb99915ae45abf42ff8d7db2c3]
+## 187. Effect and validity of correction notice[^c-2402a2996b538a1b56253f4571bf91a3][^c-a9a372fb99915ae45abf42ff8d7db2c3]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2402a2996b538a1b56253f4571bf91a3]: Commencement: S. 187 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2402a2996b538a1b56253f4571bf91a3]: Commencement: S. 187 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-a9a372fb99915ae45abf42ff8d7db2c3]: Commencement: [S. 187](https://www.legislation.gov.uk/asc/2023/3/section/187) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-a9a372fb99915ae45abf42ff8d7db2c3]: Commencement: [S. 187](https://www.legislation.gov.uk/asc/2023/3/section/187) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

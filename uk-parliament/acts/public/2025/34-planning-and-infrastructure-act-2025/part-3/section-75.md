@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Amount of the levy[^key-4431eccc05acbb54c6bbf83d4113f061][^key-2b13abcd9854b9e4c41076e0abd3cc12]
+## 75. Amount of the levy[^c-4431eccc05acbb54c6bbf83d4113f061][^c-2b13abcd9854b9e4c41076e0abd3cc12]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4431eccc05acbb54c6bbf83d4113f061]: Commencement: S. 75 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-4431eccc05acbb54c6bbf83d4113f061]: Commencement: S. 75 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2b13abcd9854b9e4c41076e0abd3cc12]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/34/section/75) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-2b13abcd9854b9e4c41076e0abd3cc12]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/34/section/75) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

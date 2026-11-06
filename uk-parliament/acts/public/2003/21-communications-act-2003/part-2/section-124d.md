@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124D. Initial obligations code by OFCOM in the absence of an approved code[^key-aae39989d4680dc229c7d22d1535d9c0]
+## 124D. Initial obligations code by OFCOM in the absence of an approved code[^c-aae39989d4680dc229c7d22d1535d9c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aae39989d4680dc229c7d22d1535d9c0]: Textual amendment: S. 124D inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 6](https://www.legislation.gov.uk/ukpga/2010/24/section/6), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)
+[^c-aae39989d4680dc229c7d22d1535d9c0]: Textual amendment: S. 124D inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 6](https://www.legislation.gov.uk/ukpga/2010/24/section/6), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)

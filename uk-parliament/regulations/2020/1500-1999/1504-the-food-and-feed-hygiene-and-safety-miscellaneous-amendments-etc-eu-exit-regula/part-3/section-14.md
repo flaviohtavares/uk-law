@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment of the Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019[^key-56b9f47ce92a48f69dcdb3672ce887a8]
+## 14. Amendment of the Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019[^c-56b9f47ce92a48f69dcdb3672ce887a8]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56b9f47ce92a48f69dcdb3672ce887a8]: Commencement: Reg. 14 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-56b9f47ce92a48f69dcdb3672ce887a8]: Commencement: Reg. 14 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375511]: Marginal citation: [S.I. 2019/701](https://www.legislation.gov.uk/uksi/2019/701).

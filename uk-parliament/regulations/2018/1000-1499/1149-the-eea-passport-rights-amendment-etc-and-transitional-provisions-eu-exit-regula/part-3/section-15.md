@@ -24,7 +24,7 @@ summary: ''
 
 - (a) if it considers that—
   - (i) the requirements of section 55U of the 2000 Act (applications under Part 4A: procedure) are satisfied, or
-  - (ii) the requirements of that section are satisfied with the exception of those provided by subsection (4), and it would not be practicable for the applicant to comply with the requirements of that subsection before IP completion day[^key-6800f05ef828209d26f84bf3e7d4d926],
+  - (ii) the requirements of that section are satisfied with the exception of those provided by subsection (4), and it would not be practicable for the applicant to comply with the requirements of that subsection before IP completion day[^c-6800f05ef828209d26f84bf3e7d4d926],
 
   confirm in writing to the person making the application that regulation 8 or 11 is to apply;
 - (b) if it considers otherwise, confirm in writing to the person making the application that regulation 8 or 11 is not to apply, giving details of the requirements that are not satisfied.
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6800f05ef828209d26f84bf3e7d4d926]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2018/1149/regulation/15) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(i)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/i)
+[^c-6800f05ef828209d26f84bf3e7d4d926]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2018/1149/regulation/15) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(i)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/i)

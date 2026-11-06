@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Requirement to justify assessment requests[^key-2532e849416e70d4a2211f7b9e3ae49d]
+## 55. Requirement to justify assessment requests[^c-2532e849416e70d4a2211f7b9e3ae49d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ being physically in the same place at the same time.
 
 ## Annotations
 
-[^key-2532e849416e70d4a2211f7b9e3ae49d]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2018/9/section/55) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/d)
+[^c-2532e849416e70d4a2211f7b9e3ae49d]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2018/9/section/55) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/d)

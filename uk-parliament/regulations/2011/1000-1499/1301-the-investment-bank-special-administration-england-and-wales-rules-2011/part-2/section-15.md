@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Costs[^key-f0f8ff8f057747b4fe7746c82610cdce]
+## 15. Costs[^c-f0f8ff8f057747b4fe7746c82610cdce]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If the court makes a special administration order, the following are payable as 
 
 ## Annotations
 
-[^key-f0f8ff8f057747b4fe7746c82610cdce]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2011/1301/rule/15) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f0f8ff8f057747b4fe7746c82610cdce]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2011/1301/rule/15) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

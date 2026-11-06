@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Application for property freezing order[^key-4afe8132594e69bf08415c9e349d400b]
+## 147. Application for property freezing order[^c-4afe8132594e69bf08415c9e349d400b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the authority has taken all reasonable steps to do so.
 
 ## Annotations
 
-[^key-4afe8132594e69bf08415c9e349d400b]: Commencement: [Art. 147](https://www.legislation.gov.uk/uksi/2005/3181/article/147) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-4afe8132594e69bf08415c9e349d400b]: Commencement: [Art. 147](https://www.legislation.gov.uk/uksi/2005/3181/article/147) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

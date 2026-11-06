@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**120.**[^key-bfdfb6fb70267ad3e4d064db5b98b9e5][^key-0efd56d87594499c8d6ec5a6191626b2] The part of the community of Llanarth shown hatched on Map 91—
+**120.**[^c-bfdfb6fb70267ad3e4d064db5b98b9e5][^c-0efd56d87594499c8d6ec5a6191626b2] The part of the community of Llanarth shown hatched on Map 91—
 
 - (a) is transferred to the new community of Whitecastle;
 - (b) forms part of the new community ward of Penrhos;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bfdfb6fb70267ad3e4d064db5b98b9e5]: Commencement: Art. 120 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-bfdfb6fb70267ad3e4d064db5b98b9e5]: Commencement: Art. 120 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0efd56d87594499c8d6ec5a6191626b2]: Commencement: [Art. 120](https://www.legislation.gov.uk/wsi/2021/1227/article/120) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0efd56d87594499c8d6ec5a6191626b2]: Commencement: [Art. 120](https://www.legislation.gov.uk/wsi/2021/1227/article/120) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

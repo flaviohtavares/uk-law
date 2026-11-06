@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 237. Duty of Revenue Scotland to carry out review[^key-15f7cf3cd96e372597b829d2a9aa78c1][^key-5c9fea1a3bdbfaf2c9571922ba684bbc]
+## 237. Duty of Revenue Scotland to carry out review[^c-15f7cf3cd96e372597b829d2a9aa78c1][^c-5c9fea1a3bdbfaf2c9571922ba684bbc]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15f7cf3cd96e372597b829d2a9aa78c1]: Commencement: [S. 237](https://www.legislation.gov.uk/asp/2014/16/section/237) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-15f7cf3cd96e372597b829d2a9aa78c1]: Commencement: [S. 237](https://www.legislation.gov.uk/asp/2014/16/section/237) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-5c9fea1a3bdbfaf2c9571922ba684bbc]: Commencement: [S. 237](https://www.legislation.gov.uk/asp/2014/16/section/237) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-5c9fea1a3bdbfaf2c9571922ba684bbc]: Commencement: [S. 237](https://www.legislation.gov.uk/asp/2014/16/section/237) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

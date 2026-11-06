@@ -45,7 +45,7 @@ The Welsh Ministers have consulted such persons as they think appropriate as req
 
 A draft of these Regulations was laid before Senedd Cymru under section 187(2)(b) and (f) of the Act and has been approved by a resolution of Senedd Cymru[^f00002].
 
-## 1. Title, coming into force and interpretation[^key-be92c5a9552f2e2a887db63a6bbe3163]
+## 1. Title, coming into force and interpretation[^c-be92c5a9552f2e2a887db63a6bbe3163]
 
 (1) The title of these Regulations is the Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024.
 
@@ -56,11 +56,11 @@ A draft of these Regulations was laid before Senedd Cymru under section 187(2)(b
 - “the Act” *(*“*y Ddeddf*”*)* means the Regulation and Inspection of Social Care (Wales) Act 2016;
 - “the Regulated Services Regulations” *(*“*y Rheoliadau Gwasanaethau Rheoleiddiedig*”*)* means the Regulated Services (Service Providers and Responsible Individuals) (Wales) Regulations 2017[^f00003].
 
-## 2. Amendments to the Regulated Services Regulations[^key-589752b757cce86265452a654255167f]
+## 2. Amendments to the Regulated Services Regulations[^c-589752b757cce86265452a654255167f]
 
 The Regulated Services Regulations are amended in accordance with regulations 3 to 8.
 
-## 3. Local authority intermediate care service: exception from scope of care home services[^key-f44068db8c828bb71d5a4ae94ba6b39f]
+## 3. Local authority intermediate care service: exception from scope of care home services[^c-f44068db8c828bb71d5a4ae94ba6b39f]
 
 In regulation 2(1) (care home services)—
 
@@ -76,7 +76,7 @@ In regulation 2(1) (care home services)—
 
   ;
 
-**4.**[^key-3196fe2b889b5af3e7c68394a7612dfa] In regulation 2 (care home services), after paragraph (4) insert—
+**4.**[^c-3196fe2b889b5af3e7c68394a7612dfa] In regulation 2 (care home services), after paragraph (4) insert—
 
 > (5) For the purposes of paragraph (1)(l) of this regulation—
 >
@@ -90,7 +90,7 @@ In regulation 2(1) (care home services)—
 >   - (b) where the accommodation used for the purposes of the intermediate care is vested in the local authority, and
 >   - (c) where any care and support is provided by a domiciliary support service the local authority is registered to provide.
 
-## 5. Amendment of regulation 49[^key-1f797e7cdb3d76bea86eee52a9ba5d18]
+## 5. Amendment of regulation 49[^c-1f797e7cdb3d76bea86eee52a9ba5d18]
 
 In regulation 49 (application of Part 13), for paragraph (1) substitute—
 
@@ -101,7 +101,7 @@ In regulation 49 (application of Part 13), for paragraph (1) substitute—
 >   - (ii) the premises used for the provision of the service fall within one of the categories in paragraph (2), or
 > - (b) the service providers are persons to whom regulation 49A(1) or regulation 49B(1) applies.
 
-**6.**[^key-cb00c0c74499dc30f84e4dd43d2b00de] After regulation 49 (application of Part 13) insert—
+**6.**[^c-cb00c0c74499dc30f84e4dd43d2b00de] After regulation 49 (application of Part 13) insert—
 
 > **49A. Reconfiguration of premises**
 >
@@ -127,13 +127,13 @@ In regulation 49 (application of Part 13), for paragraph (1) substitute—
 >
 > (3) The requirement to comply with regulations 50 and 51 in relation to that place only applies to any additional bedrooms for individuals.
 
-## 7. Miscellaneous amendments[^key-8dec6a140ff60b9f2755c47f2a495a42]
+## 7. Miscellaneous amendments[^c-8dec6a140ff60b9f2755c47f2a495a42]
 
 In regulation 16(2) (review of personal plan), for “looked after child” substitute “child who is looked after by a local authority”.
 
-**8.**[^key-52c2e1ad4148db1e1e3ca9944c0b019a] In regulation 51(2) (additional requirements – room sizes), after “basis” insert a full-stop and omit “because of the nature of their disability.”
+**8.**[^c-52c2e1ad4148db1e1e3ca9944c0b019a] In regulation 51(2) (additional requirements – room sizes), after “basis” insert a full-stop and omit “because of the nature of their disability.”
 
-## 9. Transitional provision[^key-687d4b03a85cbcf334a7c6d67dddb883]
+## 9. Transitional provision[^c-687d4b03a85cbcf334a7c6d67dddb883]
 
 Regulation 49 of the Regulated Services Regulations continues to have effect without the amendments made by regulation 6 in relation to a place at which an accommodation-based service is provided and which is the subject of an application for variation of registration by the service provider under section 11 of the Act where the application was made to the Welsh Ministers on or before 30 March 2024 but—
 
@@ -180,24 +180,24 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The references in sections 27(5) and 187(2) of the Act to the National Assembly for Wales now have effect as references to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-be92c5a9552f2e2a887db63a6bbe3163]: Commencement: Reg. 1 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-be92c5a9552f2e2a887db63a6bbe3163]: Commencement: Reg. 1 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2017/1264 (W. 295)](https://www.legislation.gov.uk/wsi/2017/1264); relevant amending instruments are [S.I. 2019/757 (W. 142)](https://www.legislation.gov.uk/wsi/2019/757), [S.I. 2020/389 (W. 87)](https://www.legislation.gov.uk/wsi/2020/389), [S.I. 2020/570 (W. 131)](https://www.legislation.gov.uk/wsi/2020/570) (revoked), [S.I. 2022/32 (W. 184)](https://www.legislation.gov.uk/wsi/2022/32) and [S.I. 2022/1074 (W. 226)](https://www.legislation.gov.uk/wsi/2022/1074).
 
-[^key-589752b757cce86265452a654255167f]: Commencement: Reg. 2 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-589752b757cce86265452a654255167f]: Commencement: Reg. 2 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
-[^key-f44068db8c828bb71d5a4ae94ba6b39f]: Commencement: Reg. 3 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-f44068db8c828bb71d5a4ae94ba6b39f]: Commencement: Reg. 3 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
-[^key-3196fe2b889b5af3e7c68394a7612dfa]: Commencement: Reg. 4 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-3196fe2b889b5af3e7c68394a7612dfa]: Commencement: Reg. 4 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
 [^f00004]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-1f797e7cdb3d76bea86eee52a9ba5d18]: Commencement: Reg. 5 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-1f797e7cdb3d76bea86eee52a9ba5d18]: Commencement: Reg. 5 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
-[^key-cb00c0c74499dc30f84e4dd43d2b00de]: Commencement: Reg. 6 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-cb00c0c74499dc30f84e4dd43d2b00de]: Commencement: Reg. 6 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
-[^key-8dec6a140ff60b9f2755c47f2a495a42]: Commencement: Reg. 7 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-8dec6a140ff60b9f2755c47f2a495a42]: Commencement: Reg. 7 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
-[^key-52c2e1ad4148db1e1e3ca9944c0b019a]: Commencement: Reg. 8 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-52c2e1ad4148db1e1e3ca9944c0b019a]: Commencement: Reg. 8 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
 
-[^key-687d4b03a85cbcf334a7c6d67dddb883]: Commencement: Reg. 9 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)
+[^c-687d4b03a85cbcf334a7c6d67dddb883]: Commencement: Reg. 9 in force at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2)

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-367329d8ed60fd21796a8f6d5b7437ac] Where a prisoner has been released on licence under section 3AA, the Scottish Ministers may revoke the licence and recall the person to prison if in their opinion the revocation and recall are expedient in the public interest.
+(1)[^c-367329d8ed60fd21796a8f6d5b7437ac] Where a prisoner has been released on licence under section 3AA, the Scottish Ministers may revoke the licence and recall the person to prison if in their opinion the revocation and recall are expedient in the public interest.
 
 (2) A person whose licence is revoked under subsection (1) above—
 
 - (a) must, on his return to prison, be informed of the reasons for the revocation and of his right under paragraph (b) below; and
 - (b) may make representations in writing with respect to the revocation to the Scottish Ministers.
 
-(2A)[^key-98f6e34409450f164ced53cf41561e5d] Such representations must be made by a person—
+(2A)[^c-98f6e34409450f164ced53cf41561e5d] Such representations must be made by a person—
 
 - (a) within 6 months from when the person is informed as mentioned in subsection (2)(a), or
 - (b) later as allowed by the Parole Board on cause shown by the person.
@@ -36,9 +36,9 @@ summary: ''
 
 (4) After considering the case the Parole Board may direct, or decline to direct, the Scottish Ministers to cancel the revocation.
 
-(5)[^key-959be27ee071f0dd1d9c9695d2850972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-959be27ee071f0dd1d9c9695d2850972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-f9f8828c0d3f3ff08ac835e4c1d06c90] Despite the cancellation of the revocation of a person's licence by virtue of subsection (4), the person's recall to prison remains effective.
+(5A)[^c-f9f8828c0d3f3ff08ac835e4c1d06c90] Despite the cancellation of the revocation of a person's licence by virtue of subsection (4), the person's recall to prison remains effective.
 
 (5B) Where a person's recall to prison remains effective under subsection (5A), the Scottish Ministers must consider whether the person should again be released under section 3AA.
 
@@ -48,10 +48,10 @@ summary: ''
 
 [^c20991231]: Textual amendment: S. 17A inserted (3.7.2006 for specified purposes, otherwise 21.3.2008) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 15(13)](https://www.legislation.gov.uk/asp/2005/14/section/15/13), [24(2)](https://www.legislation.gov.uk/asp/2005/14/section/24/2); [S.S.I. 2006/331](https://www.legislation.gov.uk/ssi/2006/331), [art 3(4)(5)](https://www.legislation.gov.uk/ssi/2006/331/article/3/4/5); [S.S.I. 2008/21](https://www.legislation.gov.uk/ssi/2008/21), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/21/article/2/2)
 
-[^key-367329d8ed60fd21796a8f6d5b7437ac]: Textual amendment: S. 17A(1) substituted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(2)](https://www.legislation.gov.uk/asp/2019/14/section/50/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/309/regulation/3))
+[^c-367329d8ed60fd21796a8f6d5b7437ac]: Textual amendment: S. 17A(1) substituted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(2)](https://www.legislation.gov.uk/asp/2019/14/section/50/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/309/regulation/3))
 
-[^key-98f6e34409450f164ced53cf41561e5d]: Textual amendment: S. 17A(2A) inserted (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(3)](https://www.legislation.gov.uk/asp/2019/14/section/50/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/m) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/283/regulation/4))
+[^c-98f6e34409450f164ced53cf41561e5d]: Textual amendment: S. 17A(2A) inserted (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(3)](https://www.legislation.gov.uk/asp/2019/14/section/50/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/m) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/283/regulation/4))
 
-[^key-959be27ee071f0dd1d9c9695d2850972]: Textual amendment: S. 17A(5) repealed (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(4)(a)](https://www.legislation.gov.uk/asp/2019/14/section/50/4/a), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)
+[^c-959be27ee071f0dd1d9c9695d2850972]: Textual amendment: S. 17A(5) repealed (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(4)(a)](https://www.legislation.gov.uk/asp/2019/14/section/50/4/a), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)
 
-[^key-f9f8828c0d3f3ff08ac835e4c1d06c90]: Textual amendment: S. 17A(5A)(5B) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(4)(b)](https://www.legislation.gov.uk/asp/2019/14/section/50/4/b), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)
+[^c-f9f8828c0d3f3ff08ac835e4c1d06c90]: Textual amendment: S. 17A(5A)(5B) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 50(4)(b)](https://www.legislation.gov.uk/asp/2019/14/section/50/4/b), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)

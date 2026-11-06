@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Local pension boards: establishment[^key-781f1003a221b2b4ce38f3f59e143e21]
+## 5. Local pension boards: establishment[^c-781f1003a221b2b4ce38f3f59e143e21]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-781f1003a221b2b4ce38f3f59e143e21]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-781f1003a221b2b4ce38f3f59e143e21]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) An application by the Secretary of State for an order of reimbursement under Article 16 of the 1977 Order or Article 17 of the 1988 Order may be made by notice in Form 340 or 364 as appropriate at any time after the conviction of the offender [^key-c870f87aa8519fda3d19d69c89063441]....
+(1) An application by the Secretary of State for an order of reimbursement under Article 16 of the 1977 Order or Article 17 of the 1988 Order may be made by notice in Form 340 or 364 as appropriate at any time after the conviction of the offender [^c-c870f87aa8519fda3d19d69c89063441]....
 
 (2) Except as provided by paragraph (4), such notice shall be served on the offender and a copy on the chief clerk not less than 15 days before the day appointed for the commencement of the sitting at which the application is to be heard.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c870f87aa8519fda3d19d69c89063441]: Textual amendment: Words in Order 54 rule 8(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(c)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-c870f87aa8519fda3d19d69c89063441]: Textual amendment: Words in Order 54 rule 8(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(c)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

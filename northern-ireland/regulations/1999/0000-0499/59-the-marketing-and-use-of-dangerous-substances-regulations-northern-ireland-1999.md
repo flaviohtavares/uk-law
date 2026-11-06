@@ -32,7 +32,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 1999 (revoked)[^key-ef2923241f083d06b2f0ba5bb0677b34]
+The Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 1999 (revoked)[^c-ef2923241f083d06b2f0ba5bb0677b34]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into operation
 
 26th March 1999
 
-[^key-ef2923241f083d06b2f0ba5bb0677b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef2923241f083d06b2f0ba5bb0677b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef2923241f083d06b2f0ba5bb0677b34]
+## 1. Citation and commencement[^c-ef2923241f083d06b2f0ba5bb0677b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ef2923241f083d06b2f0ba5bb0677b34]
+## 2. Interpretation[^c-ef2923241f083d06b2f0ba5bb0677b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^key-ef2923241f083d06b2f0ba5bb0677b34]
+## 3. Prohibition of the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^c-ef2923241f083d06b2f0ba5bb0677b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exceptions to the prohibition[^key-ef2923241f083d06b2f0ba5bb0677b34]
+## 4. Exceptions to the prohibition[^c-ef2923241f083d06b2f0ba5bb0677b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-ef2923241f083d06b2f0ba5bb0677b34]
+## 5. Offences and penalties[^c-ef2923241f083d06b2f0ba5bb0677b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef2923241f083d06b2f0ba5bb0677b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef2923241f083d06b2f0ba5bb0677b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef2923241f083d06b2f0ba5bb0677b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef2923241f083d06b2f0ba5bb0677b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef2923241f083d06b2f0ba5bb0677b34]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/59) revoked (30.6.2003) by [The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/106)](https://www.legislation.gov.uk/nisr/2003/106), [regs. 1](https://www.legislation.gov.uk/nisr/2003/106/regulation/1), [6](https://www.legislation.gov.uk/nisr/2003/106/regulation/6)
+[^c-ef2923241f083d06b2f0ba5bb0677b34]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/59) revoked (30.6.2003) by [The Marketing and Use of Dangerous Substances (No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/106)](https://www.legislation.gov.uk/nisr/2003/106), [regs. 1](https://www.legislation.gov.uk/nisr/2003/106/regulation/1), [6](https://www.legislation.gov.uk/nisr/2003/106/regulation/6)

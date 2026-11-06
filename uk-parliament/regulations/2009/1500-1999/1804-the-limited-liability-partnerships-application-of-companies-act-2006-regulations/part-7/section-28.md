@@ -34,7 +34,7 @@ Section 778 applies to LLPs, modified so that it reads as follows—
 >
 > (2) A “**financial institution**” means—
 >
-> - (a) a recognised clearing house or a recognised CSD[^key-80884b0ffa3b01600bb792d67466549d] acting in relation to a recognised investment exchange, or
+> - (a) a recognised clearing house or a recognised CSD[^c-80884b0ffa3b01600bb792d67466549d] acting in relation to a recognised investment exchange, or
 > - (b) a nominee of—
 >   - (i) a recognised clearing house or a recognised CSD acting in that way, or
 >   - (ii) a recognised investment exchange,
@@ -47,4 +47,4 @@ Section 778 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-80884b0ffa3b01600bb792d67466549d]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2009/1804/regulation/28) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/33) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-80884b0ffa3b01600bb792d67466549d]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2009/1804/regulation/28) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/33) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

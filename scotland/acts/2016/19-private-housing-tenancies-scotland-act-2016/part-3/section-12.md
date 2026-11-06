@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Regulations about providing information[^key-fb1f1e41bc04b47d4c039752ef629db6]
+## 12. Regulations about providing information[^c-fb1f1e41bc04b47d4c039752ef629db6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations make provision about how a duty arisin
 
 ## Annotations
 
-[^key-fb1f1e41bc04b47d4c039752ef629db6]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/19/section/12) in force at 31.10.2016 by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)
+[^c-fb1f1e41bc04b47d4c039752ef629db6]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/19/section/12) in force at 31.10.2016 by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)

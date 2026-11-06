@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Conditions A to E[^key-2d5120e71158348ab1909764dd5120ec][^key-51522e9e8788ceaed2ab05ff6706e0a4]
+## 40. Conditions A to E[^c-2d5120e71158348ab1909764dd5120ec][^c-51522e9e8788ceaed2ab05ff6706e0a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5120e71158348ab1909764dd5120ec]: Commencement: S. 40 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-2d5120e71158348ab1909764dd5120ec]: Commencement: S. 40 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-51522e9e8788ceaed2ab05ff6706e0a4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/32/section/40) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-51522e9e8788ceaed2ab05ff6706e0a4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/32/section/40) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

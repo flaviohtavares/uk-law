@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Proposal by funding authority to close station[^key-d4600e3b46cac1f5104c689ae28970bc][^key-e55833e09b7ac687796ba3902dc023b7][^key-2253b8c389371d4c8b98dcd386186ccb][^key-0be02bd3435dffc24f09a2b509f0fb17][^key-871840c56cfdcc2f043b4165ec9512c5][^key-8d2dcb94da6cb179071820b5536f67e7]
+## 30. Proposal by funding authority to close station[^c-d4600e3b46cac1f5104c689ae28970bc][^c-e55833e09b7ac687796ba3902dc023b7][^c-2253b8c389371d4c8b98dcd386186ccb][^c-0be02bd3435dffc24f09a2b509f0fb17][^c-871840c56cfdcc2f043b4165ec9512c5][^c-8d2dcb94da6cb179071820b5536f67e7]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) the station or that part of it is not excluded from the application of this section by an order under section 38; and
 - (e) the proposal is not a proposal for a minor modification.
 
-(2)[^key-328f521677c0fdef3a7b5dc4c4fea16f] Use for or in connection with the provision of any of the following services is to be disregarded for the purposes of subsection (1)(b)—
+(2)[^c-328f521677c0fdef3a7b5dc4c4fea16f] Use for or in connection with the provision of any of the following services is to be disregarded for the purposes of subsection (1)(b)—
 
 - (a) an experimental passenger service;
 - (b) a service involving travel through the Channel Tunnel;
@@ -38,7 +38,7 @@ summary: ''
 
 - (a) give notice of its proposal to the national authority, if it is not itself that authority;
 - (b) carry out a consultation under Schedule 7 about the proposal; and
-- (c) after carrying out that consultation, either withdraw the proposal or refer the proposal (with or without modifications) to the Office of Rail and Road[^key-ac390d6690f46dfc193b2f92043b8cb2].
+- (c) after carrying out that consultation, either withdraw the proposal or refer the proposal (with or without modifications) to the Office of Rail and Road[^c-ac390d6690f46dfc193b2f92043b8cb2].
 
 (4) A notice to the national authority under subsection (3)(a) must set out—
 
@@ -61,9 +61,9 @@ the railway funding authority making the proposal must carry out an assessment o
 (8) In this section “**the national authority**”—
 
 - (a) in relation to a proposal relating to a station or part of a station that is wholly in Scotland, means the Scottish Ministers; and
-- (b) in relation to a proposal relating to a station or part of a station that is wholly in England and Wales, means the Secretary of State, subject to subsection (9)[^key-cb8776557d3983e9a41b6165bf33cddd].
+- (b) in relation to a proposal relating to a station or part of a station that is wholly in England and Wales, means the Secretary of State, subject to subsection (9)[^c-cb8776557d3983e9a41b6165bf33cddd].
 
-(9)[^key-6ad14bcb3cdc1db9b3eb67934709dae8] The Welsh Ministers, rather than the Secretary of State, are “the national authority” in relation to a proposal relating to a station, or part of a station, that—
+(9)[^c-6ad14bcb3cdc1db9b3eb67934709dae8] The Welsh Ministers, rather than the Secretary of State, are “the national authority” in relation to a proposal relating to a station, or part of a station, that—
 
 - (a) is wholly in Wales, and
 - (b) is, when the proposal is made, a station to which subsection (10) applies or part of such a station.
@@ -72,22 +72,22 @@ the railway funding authority making the proposal must carry out an assessment o
 
 ## Annotations
 
-[^key-d4600e3b46cac1f5104c689ae28970bc]: Commencement: S. 30 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-d4600e3b46cac1f5104c689ae28970bc]: Commencement: S. 30 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-e55833e09b7ac687796ba3902dc023b7]: Modification: Ss. 29-31 power to exclude conferred (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 27](https://www.legislation.gov.uk/ukpga/2008/18/section/27)
+[^c-e55833e09b7ac687796ba3902dc023b7]: Modification: Ss. 29-31 power to exclude conferred (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 27](https://www.legislation.gov.uk/ukpga/2008/18/section/27)
 
-[^key-2253b8c389371d4c8b98dcd386186ccb]: Modification: S. 30 excluded by S.I. 1994/573, art. 6(5) (as inserted (12.1.2010) by [The Railways (Transport for London) (Exemptions) Order 2009 (S.I. 2009/3336)](https://www.legislation.gov.uk/uksi/2009/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3336/article/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2009/3336/article/2/7/b))
+[^c-2253b8c389371d4c8b98dcd386186ccb]: Modification: S. 30 excluded by S.I. 1994/573, art. 6(5) (as inserted (12.1.2010) by [The Railways (Transport for London) (Exemptions) Order 2009 (S.I. 2009/3336)](https://www.legislation.gov.uk/uksi/2009/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3336/article/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2009/3336/article/2/7/b))
 
-[^key-0be02bd3435dffc24f09a2b509f0fb17]: Modification: Ss. 29-31 excluded (1.4.2013) by [The Greater Manchester (Light Rapid Transit System) (Exemptions) Order 2013 (S.I. 2013/339)](https://www.legislation.gov.uk/uksi/2013/339), [arts. 1](https://www.legislation.gov.uk/uksi/2013/339/article/1), [9](https://www.legislation.gov.uk/uksi/2013/339/article/9)
+[^c-0be02bd3435dffc24f09a2b509f0fb17]: Modification: Ss. 29-31 excluded (1.4.2013) by [The Greater Manchester (Light Rapid Transit System) (Exemptions) Order 2013 (S.I. 2013/339)](https://www.legislation.gov.uk/uksi/2013/339), [arts. 1](https://www.legislation.gov.uk/uksi/2013/339/article/1), [9](https://www.legislation.gov.uk/uksi/2013/339/article/9)
 
-[^key-871840c56cfdcc2f043b4165ec9512c5]: Modification: Ss. 29-31: power to exclude conferred (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2017/7/section/41), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-871840c56cfdcc2f043b4165ec9512c5]: Modification: Ss. 29-31: power to exclude conferred (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2017/7/section/41), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-8d2dcb94da6cb179071820b5536f67e7]: Modification: [Ss. 29-31](https://www.legislation.gov.uk/ukpga/2005/14/section/29): power to exclude conferred (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 36](https://www.legislation.gov.uk/ukpga/2021/2/section/36), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-8d2dcb94da6cb179071820b5536f67e7]: Modification: [Ss. 29-31](https://www.legislation.gov.uk/ukpga/2005/14/section/29): power to exclude conferred (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 36](https://www.legislation.gov.uk/ukpga/2021/2/section/36), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
-[^key-328f521677c0fdef3a7b5dc4c4fea16f]: Modification: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/2) excluded (18.5.2025) by [The Railway Closure (Exclusion) (Hairmyres) Order 2025 (S.S.I. 2025/81)](https://www.legislation.gov.uk/ssi/2025/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/81/article/1/1), [2](https://www.legislation.gov.uk/ssi/2025/81/article/2)
+[^c-328f521677c0fdef3a7b5dc4c4fea16f]: Modification: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/2) excluded (18.5.2025) by [The Railway Closure (Exclusion) (Hairmyres) Order 2025 (S.S.I. 2025/81)](https://www.legislation.gov.uk/ssi/2025/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/81/article/1/1), [2](https://www.legislation.gov.uk/ssi/2025/81/article/2)
 
-[^key-ac390d6690f46dfc193b2f92043b8cb2]: Textual amendment: Words in s. 30 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/i)
+[^c-ac390d6690f46dfc193b2f92043b8cb2]: Textual amendment: Words in s. 30 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/i)
 
-[^key-cb8776557d3983e9a41b6165bf33cddd]: Textual amendment: Words in [s. 30(8)(b)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/8/b) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 47(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/47/2)
+[^c-cb8776557d3983e9a41b6165bf33cddd]: Textual amendment: Words in [s. 30(8)(b)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/8/b) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 47(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/47/2)
 
-[^key-6ad14bcb3cdc1db9b3eb67934709dae8]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/9)[(10)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/10) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 47(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/47/3)
+[^c-6ad14bcb3cdc1db9b3eb67934709dae8]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/9)[(10)](https://www.legislation.gov.uk/ukpga/2005/14/section/30/10) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 47(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/47/3)

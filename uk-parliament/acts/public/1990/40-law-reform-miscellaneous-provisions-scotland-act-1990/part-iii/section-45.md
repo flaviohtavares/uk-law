@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ....[^key-0c8992c34f776be3b716710be0482dca]
+## ....[^c-0c8992c34f776be3b716710be0482dca]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c8992c34f776be3b716710be0482dca]: Textual amendment: Pt. 3 repealed (1.2.2008 for the repeal of ss. 46(3), 51(1) and 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [arts. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), 3, [Sch.](https://www.legislation.gov.uk/ssi/2007/472/schedule)
+[^c-0c8992c34f776be3b716710be0482dca]: Textual amendment: Pt. 3 repealed (1.2.2008 for the repeal of ss. 46(3), 51(1) and 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [arts. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), 3, [Sch.](https://www.legislation.gov.uk/ssi/2007/472/schedule)

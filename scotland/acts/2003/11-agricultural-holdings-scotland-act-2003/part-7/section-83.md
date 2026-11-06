@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Power to amend Land Court’s jurisdiction[^key-5552d8fbc577f478876d6f3a00138275]
+## 83. Power to amend Land Court’s jurisdiction[^c-5552d8fbc577f478876d6f3a00138275]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers may by order modify (any or all)—
 
 ## Annotations
 
-[^key-5552d8fbc577f478876d6f3a00138275]: Commencement: S. 83 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-5552d8fbc577f478876d6f3a00138275]: Commencement: S. 83 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

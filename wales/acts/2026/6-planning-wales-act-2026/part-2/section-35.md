@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Annual monitoring report[^key-1efdf89f2dea04d913dcf813ed5995b3]
+## 35. Annual monitoring report[^c-1efdf89f2dea04d913dcf813ed5995b3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A plan-making authority must make an annual report to the Welsh Ministers about 
 
 ## Annotations
 
-[^key-1efdf89f2dea04d913dcf813ed5995b3]: Commencement: S. 35 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1efdf89f2dea04d913dcf813ed5995b3]: Commencement: S. 35 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

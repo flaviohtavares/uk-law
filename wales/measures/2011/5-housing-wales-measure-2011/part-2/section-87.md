@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Minor definitions[^key-3f60154b7017a9f2f046eb486246a8b8]
+## 87. Minor definitions[^c-3f60154b7017a9f2f046eb486246a8b8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In section 63 of the Housing Act 1996 (minor definitions: Part 1), in subsection
 
 ## Annotations
 
-[^key-3f60154b7017a9f2f046eb486246a8b8]: Commencement: [S. 87](https://www.legislation.gov.uk/mwa/2011/5/section/87) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-3f60154b7017a9f2f046eb486246a8b8]: Commencement: [S. 87](https://www.legislation.gov.uk/mwa/2011/5/section/87) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)

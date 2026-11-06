@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Acceptance of dangerous goods by the operator[^key-b08c97bc3c32cfd04ae69044fbd37d51]
+## 113. Acceptance of dangerous goods by the operator[^c-b08c97bc3c32cfd04ae69044fbd37d51]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The operator of an aircraft in which dangerous goods are to be carried must ensu
 
 ## Annotations
 
-[^key-b08c97bc3c32cfd04ae69044fbd37d51]: Commencement: [Art. 113](https://www.legislation.gov.uk/uksi/2013/2870/article/113) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-b08c97bc3c32cfd04ae69044fbd37d51]: Commencement: [Art. 113](https://www.legislation.gov.uk/uksi/2013/2870/article/113) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2016 (revoked)[^key-f9701380688dd9b1a28ba75a14f49ffa]
+The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2016 (revoked)[^c-f9701380688dd9b1a28ba75a14f49ffa]
 
 Made
 
@@ -42,19 +42,19 @@ Coming into operation
 
 1st March 2016
 
-[^key-f9701380688dd9b1a28ba75a14f49ffa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9701380688dd9b1a28ba75a14f49ffa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f9701380688dd9b1a28ba75a14f49ffa]
+## 1. Citation and commencement[^c-f9701380688dd9b1a28ba75a14f49ffa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-f9701380688dd9b1a28ba75a14f49ffa]
+## 2. Code of Practice[^c-f9701380688dd9b1a28ba75a14f49ffa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9701380688dd9b1a28ba75a14f49ffa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9701380688dd9b1a28ba75a14f49ffa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -64,4 +64,4 @@ Coming into operation
 
 ## Annotations
 
-[^key-f9701380688dd9b1a28ba75a14f49ffa]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/65) revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2021 (S.R. 2021/169)](https://www.legislation.gov.uk/nisr/2021/169), [art. 3](https://www.legislation.gov.uk/nisr/2021/169/article/3)
+[^c-f9701380688dd9b1a28ba75a14f49ffa]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/65) revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2021 (S.R. 2021/169)](https://www.legislation.gov.uk/nisr/2021/169), [art. 3](https://www.legislation.gov.uk/nisr/2021/169/article/3)

@@ -27,7 +27,7 @@ summary: ''
 
 and any transport provided under such arrangements shall be provided free of charge.
 
-(2) Arrangements made by the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] under paragraph (1) (other than arrangements made in pursuance of a direction of the Department) shall be subject to the approval of the Department.
+(2) Arrangements made by the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] under paragraph (1) (other than arrangements made in pursuance of a direction of the Department) shall be subject to the approval of the Department.
 
 (3) A board may, in accordance with arrangements approved by the Department, provide transport for, or pay the whole or part of the reasonable travelling expenses of—
 
@@ -51,4 +51,4 @@ for whom the Authority is not required to make provision under arrangements made
 
 [^c17007731]: Textual amendment: certain functions transf. by SR 1999/481
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

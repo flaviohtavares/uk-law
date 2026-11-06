@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.52. Applications for discharge or variation of receivership orders, and applications for other orders[^key-132b079af1c081586b92a8788ec125bb]
+## 33.52. Applications for discharge or variation of receivership orders, and applications for other orders[^c-132b079af1c081586b92a8788ec125bb]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ at least 5 business days before the date fixed by the court for hearing the appl
 
 ## Annotations
 
-[^key-132b079af1c081586b92a8788ec125bb]: Commencement: [Rule 33.52](https://www.legislation.gov.uk/uksi/2025/909/rule/33.52) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-132b079af1c081586b92a8788ec125bb]: Commencement: [Rule 33.52](https://www.legislation.gov.uk/uksi/2025/909/rule/33.52) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00843]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 63(1) was amended by section 74(2) of, and paragraphs 1 and 30 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).

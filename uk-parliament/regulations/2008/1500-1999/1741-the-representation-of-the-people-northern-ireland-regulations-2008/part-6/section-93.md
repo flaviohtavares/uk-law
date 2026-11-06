@@ -24,7 +24,7 @@ summary: ''
 
 (2) The edited register shall omit the names and addresses of any elector included in the full register if a request has been duly made in the form referred to in section 10(4) of the 1983 Act[^f00077] or in accordance with regulation 27 by or on behalf of that elector for his name and address to be excluded from the edited register.
 
-(2A)[^key-09173db74c52a342f65849cfbb06e619] The edited register shall omit all anonymous entries in the register, and any information relating to them.
+(2A)[^c-09173db74c52a342f65849cfbb06e619] The edited register shall omit all anonymous entries in the register, and any information relating to them.
 
 (3) In other respects the edited register shall be the same as the full register and shall include any marks or dates which are required to be recorded against the names of any electors.
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^f00077]: Footnote: Section 10(4) has been amended by Schedule 4 to the Miscellaneous Provisions Act.
 
-[^key-09173db74c52a342f65849cfbb06e619]: Textual amendment: [Reg. 93(2A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/93/2A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2014/1808/regulation/30)
+[^c-09173db74c52a342f65849cfbb06e619]: Textual amendment: [Reg. 93(2A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/93/2A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2014/1808/regulation/30)

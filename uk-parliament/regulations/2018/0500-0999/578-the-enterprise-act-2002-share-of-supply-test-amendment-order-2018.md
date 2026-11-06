@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Enterprise Act 2002 (Share of Supply Test) (Amendment) Order 2018 (revoked)[^key-80e74801b6e1c6829f455013e64b3503]
+The Enterprise Act 2002 (Share of Supply Test) (Amendment) Order 2018 (revoked)[^c-80e74801b6e1c6829f455013e64b3503]
 
 Made
 
@@ -40,40 +40,40 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-80e74801b6e1c6829f455013e64b3503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80e74801b6e1c6829f455013e64b3503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-80e74801b6e1c6829f455013e64b3503]
+## 1. Citation and commencement[^c-80e74801b6e1c6829f455013e64b3503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Enterprise Act 2002[^key-80e74801b6e1c6829f455013e64b3503]
+## 2. Amendment of the Enterprise Act 2002[^c-80e74801b6e1c6829f455013e64b3503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Relevant merger situations[^key-80e74801b6e1c6829f455013e64b3503]
+## 3. Relevant merger situations[^c-80e74801b6e1c6829f455013e64b3503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relevant enterprises[^key-80e74801b6e1c6829f455013e64b3503]
+## 4. Relevant enterprises[^c-80e74801b6e1c6829f455013e64b3503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-80e74801b6e1c6829f455013e64b3503]
+## 5. Consequential amendments[^c-80e74801b6e1c6829f455013e64b3503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision[^key-80e74801b6e1c6829f455013e64b3503]
+## 6. Transitional provision[^c-80e74801b6e1c6829f455013e64b3503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80e74801b6e1c6829f455013e64b3503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80e74801b6e1c6829f455013e64b3503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-80e74801b6e1c6829f455013e64b3503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80e74801b6e1c6829f455013e64b3503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80e74801b6e1c6829f455013e64b3503]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/578) revoked (4.1.2022) by [National Security and Investment Act 2021 (c. 25)](https://www.legislation.gov.uk/ukpga/2021/25), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/66/3), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/11/a); [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-80e74801b6e1c6829f455013e64b3503]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/578) revoked (4.1.2022) by [National Security and Investment Act 2021 (c. 25)](https://www.legislation.gov.uk/ukpga/2021/25), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/66/3), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/11/a); [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))

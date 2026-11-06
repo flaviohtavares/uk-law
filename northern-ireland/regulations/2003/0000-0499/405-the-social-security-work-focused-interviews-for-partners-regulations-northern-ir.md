@@ -39,9 +39,9 @@ Coming into operation
 
 12th April 2004
 
-The Department for Social Development, in exercise of the powers conferred by sections 2AA(1), (4) to (6), 2B(6) and 165(1), (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, section 5 of the Social Security Act (Northern Ireland) 2002[^f00003], hereby makes the following Regulations:[^key-2d1ff2b271ae4d12e328984ec470b157]
+The Department for Social Development, in exercise of the powers conferred by sections 2AA(1), (4) to (6), 2B(6) and 165(1), (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, section 5 of the Social Security Act (Northern Ireland) 2002[^f00003], hereby makes the following Regulations:[^c-2d1ff2b271ae4d12e328984ec470b157]
 
-## 1. Citation, commencement and interpretation[^key-fa3fd6427fc9a907c73e94193eaa5f6f]
+## 1. Citation, commencement and interpretation[^c-fa3fd6427fc9a907c73e94193eaa5f6f]
 
 (1) These Regulations may be cited as the Social Security (Work-focused Interviews for Partners) Regulations (Northern Ireland) 2003 and shall come into operation on 12th April 2004.
 
@@ -50,7 +50,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “the 1998 Order” means the Social Security (Northern Ireland) Order 1998[^f00004];
 - “benefit week” means any period of 7 days corresponding to the week in respect of which the relevant specified benefit is due to be paid;
 - “claimant” means a claimant of a specified benefit who has a partner to whom these Regulations apply;
-- “couple” means—[^key-e03feb028ae651eae4bc6f876ddd9db6]
+- “couple” means—[^c-e03feb028ae651eae4bc6f876ddd9db6]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
   - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;
 - “interview” means a work-focused interview with a partner which is conducted for any or all of the following purposes –
@@ -61,19 +61,19 @@ The Department for Social Development, in exercise of the powers conferred by se
   - (e) identifying educational opportunities connected with the existing or future employment prospects or needs of the partner;
 - “officer” means an officer of the Department or of the Department for Employment and Learning;
 - “partner” means a person who is member of the same couple as the claimant, or, in a case where the claimant has more than one partner, a person who is a partner of the claimant by reason of a polygamous marriage, but only where –
-  - (a) [^key-f74e0a748ed3a1aab244618e5091592b]...
-  - (b) both the partner and the claimant have attained the age of 18 but have not attained pensionable age[^key-eef0ac8b92444b1860d61c22ae29c1f4];
-- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^key-39db770ce4c02ebcb215c49647d3c4d4]
+  - (a) [^c-f74e0a748ed3a1aab244618e5091592b]...
+  - (b) both the partner and the claimant have attained the age of 18 but have not attained pensionable age[^c-eef0ac8b92444b1860d61c22ae29c1f4];
+- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^c-39db770ce4c02ebcb215c49647d3c4d4]
 - “polygamous marriage” means any marriage during the subsistence of which a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy;
 - “specified benefit” means a benefit to which section 2AA of the Social Security Administration (Northern Ireland) Act 1992 applies.
 
 (2A)[^M_F_b5c9e05e-44c5-4fe5-dab7-b1efcf886bf6] For the purposes of these Regulations a person is to be treated as responsible for, and a member of the same household as, a child only where the person would be treated as being responsible for, and a member of the same household as, such a child under regulations 15 and 16 of the Income Support (General) Regulations (Northern Ireland) 1987, if references in those Regulations to income support were to a specified benefit.
 
-(3)[^key-0cbf89c9142bff6c66de2f1c29ef3b60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0cbf89c9142bff6c66de2f1c29ef3b60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Partner of a person claiming a specified benefit to take part in an interview[^key-82d8a5c56f12133f11656fe44a0ab1f8]
+## 2. Partner of a person claiming a specified benefit to take part in an interview[^c-82d8a5c56f12133f11656fe44a0ab1f8]
 
 (1) Subject to regulations 4 to 7, a partner to whom this regulation applies is required to take part in an interview as a condition of the claimant continuing to be paid the full amount of a specified benefit which is payable apart from these Regulations.
 
@@ -111,23 +111,23 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (7) References in paragraphs (2)(e), (4) and (5) to a partner having taken part in an interview are to be construed as including cases where the partner is treated as having taken part in an interview under regulation 4 or 5.
 
-## 3. Time when interview is to take place[^key-cba4eb9f4882c57ceeb1d42acc7d9873]
+## 3. Time when interview is to take place[^c-cba4eb9f4882c57ceeb1d42acc7d9873]
 
 An officer shall arrange for an interview to take place as soon as reasonably practicable after –
 
-- (a) the requirement under regulation 2 or 2A[^key-399672d3d52668aa53a32177bb0fa097] arises, or
+- (a) the requirement under regulation 2 or 2A[^c-399672d3d52668aa53a32177bb0fa097] arises, or
 - (b) in a case where regulation 5(1) applies, the time when that requirement is to apply by virtue of regulation 5(2).
 
-## 4. Waiver of requirement to take part in an interview[^key-490707621da707c365e426d4c0fbf8a1]
+## 4. Waiver of requirement to take part in an interview[^c-490707621da707c365e426d4c0fbf8a1]
 
 (1) A requirement imposed by these Regulations to take part in an interview shall not apply where an officer determines that an interview would not –
 
 - (a) be of assistance to the partner concerned, or
 - (b) be appropriate in the circumstances.
 
-(2) A partner in relation to whom a requirement to take part in an interview has been waived under paragraph (1) shall be treated [^key-91938bd6cb685fca54046cdb7f43893f]... as having complied with that requirement.
+(2) A partner in relation to whom a requirement to take part in an interview has been waived under paragraph (1) shall be treated [^c-91938bd6cb685fca54046cdb7f43893f]... as having complied with that requirement.
 
-## 5. Deferment of requirement to take part in an interview[^key-4e4f03799e0146a6c907ed9dd9c44f47]
+## 5. Deferment of requirement to take part in an interview[^c-4e4f03799e0146a6c907ed9dd9c44f47]
 
 (1) An officer may determine, in the case of any particular partner, that the requirement to take part in an interview shall be deferred at the time that the requirement to take part in it arises or applies because an interview would not at that time –
 
@@ -142,7 +142,7 @@ An officer shall arrange for an interview to take place as soon as reasonably pr
 - (b) the partner takes part in an interview, or
 - (c) a relevant decision has been made in accordance with regulation 9(3),
 
-the partner shall be treated [^key-04604e23f9fdc5098df14b8da0078118]... as having complied with that requirement.
+the partner shall be treated [^c-04604e23f9fdc5098df14b8da0078118]... as having complied with that requirement.
 
 ## 6. Exemption[^M_F_83c7f126-ae68-41f6-83ea-657e2cd684a0]
 
@@ -153,14 +153,14 @@ A partner who, on the day on which the requirement to take part in an interview 
 
 is exempt from the requirement to take part in an interview.
 
-## 7. Claims for two or more specified benefits[^key-97654fa692afcc97019b26ed06b9df65]
+## 7. Claims for two or more specified benefits[^c-97654fa692afcc97019b26ed06b9df65]
 
 A partner who would otherwise be required under these Regulations to take part in interviews relating to more than one specified benefit –
 
 - (a) is only required to take part in one interview during any period where the claimant is in receipt of two or more specified benefits concurrently, and
 - (b) that interview counts for the purposes of each of those benefits.
 
-## 8. The interview[^key-cb6afbe321061917ef7a667b3f382e9d]
+## 8. The interview[^c-cb6afbe321061917ef7a667b3f382e9d]
 
 (1) An officer shall inform a partner who is required to take part in an interview of the date, place and time of the interview.
 
@@ -168,7 +168,7 @@ A partner who would otherwise be required under these Regulations to take part i
 
 (3) An officer shall conduct the interview.
 
-## 9. Taking part in an interview[^key-5844ab497388a3efc5342cfd94f999a9]
+## 9. Taking part in an interview[^c-5844ab497388a3efc5342cfd94f999a9]
 
 (1) The officer shall determine whether a partner has taken part in an interview.
 
@@ -186,18 +186,18 @@ A partner who would otherwise be required under these Regulations to take part i
 
 (3) Where an officer determines that a partner has failed to take part in an interview and good cause has not been shown either by the partner or by the claimant for that failure within 5 working days of the day on which the interview was to take place, a relevant decision shall be made for the purposes of section 2B[^f00007] of the Social Security Administration (Northern Ireland) Act 1992 (work-focused interviews) and the partner and the claimant shall be notified accordingly.
 
-## 10. Failure to take part in an interview[^key-9cf3f96c4d1547ea10a2092935b0d61b]
+## 10. Failure to take part in an interview[^c-9cf3f96c4d1547ea10a2092935b0d61b]
 
-(1) Where a relevant decision has been made in accordance with regulation 9(3), subject to paragraph (11) the specified benefit payable to the claimant in respect of which the requirement for the partner to take part in an interview under regulation 2 or 2A[^key-2ffdc613cbaba83791c5b9998c0b9d3c] arose shall be reduced, either as from the first day of the next benefit week following the day on which the relevant decision was made, or, if that date arises 5 days or less after the day on which the relevant decision was made, as from the first day of the second benefit week following the date of the relevant decision.
+(1) Where a relevant decision has been made in accordance with regulation 9(3), subject to paragraph (11) the specified benefit payable to the claimant in respect of which the requirement for the partner to take part in an interview under regulation 2 or 2A[^c-2ffdc613cbaba83791c5b9998c0b9d3c] arose shall be reduced, either as from the first day of the next benefit week following the day on which the relevant decision was made, or, if that date arises 5 days or less after the day on which the relevant decision was made, as from the first day of the second benefit week following the date of the relevant decision.
 
-(2) The deduction made to benefit in accordance with paragraph (1) shall be by a sum equal (but subject to paragraphs (3) and (4)) to 20 per cent. of the amount applicable [^key-acf82184ea58bc8f17d84fbe2638895d]... in respect of a single claimant for income support aged not less than 25.
+(2) The deduction made to benefit in accordance with paragraph (1) shall be by a sum equal (but subject to paragraphs (3) and (4)) to 20 per cent. of the amount applicable [^c-acf82184ea58bc8f17d84fbe2638895d]... in respect of a single claimant for income support aged not less than 25.
 
 (3) Benefit reduced in accordance with paragraph (1) shall not be reduced below 10 pence per week.
 
-(4) Where two or more specified benefits are in payment to a claimant, in relation to each of which a requirement for the partner to take part in an interview had arisen under these Regulations[^key-a9bbfaa835cfbcdaad76626a0dbcd9b7], a deduction made in accordance with this regulation shall be applied, except in a case to which paragraph (5) applies, to the specified benefits in the following order of priority –
+(4) Where two or more specified benefits are in payment to a claimant, in relation to each of which a requirement for the partner to take part in an interview had arisen under these Regulations[^c-a9bbfaa835cfbcdaad76626a0dbcd9b7], a deduction made in accordance with this regulation shall be applied, except in a case to which paragraph (5) applies, to the specified benefits in the following order of priority –
 
 - (a) an income-based jobseeker’s allowance;
-- (aa)[^key-23788ac7ca705cce7d16abfa22db9818] an income-related employment and support allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance);
+- (aa)[^c-23788ac7ca705cce7d16abfa22db9818] an income-related employment and support allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance);
 - (b) income support;
 - (c) incapacity benefit;
 - (d) severe disablement allowance;
@@ -209,7 +209,7 @@ A partner who would otherwise be required under these Regulations to take part i
 
 (7) In a case where the whole of the reduction cannot be applied against any one benefit because no one benefit is the same as, or greater than, the amount of the reduction, the reduction shall be applied against the first benefit in the list of priorities at paragraph (4) and so on against each benefit in turn until the whole of the reduction is exhausted or, if this is not possible, the whole of those benefits are exhausted, subject in each case to 10 pence remaining in payment.
 
-(8)[^key-c3ba1cf870a890cbab7e7d04d2352c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c3ba1cf870a890cbab7e7d04d2352c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Where the partner of a claimant whose benefit has been reduced in accordance with this regulation subsequently takes part in an interview, the reduction shall cease to have effect on the first day of the benefit week in which the requirement to take part in an interview was met.
 
@@ -220,11 +220,11 @@ A partner who would otherwise be required under these Regulations to take part i
 - (a) those facts could not reasonably have been brought to an officer’s notice within 5 working days of the day on which the interview was to take place, and
 - (b) those facts show that he had good cause for his failure to take part in the interview.
 
-## 11. Circumstances where regulation 10 does not apply[^key-2500030bbaf837a8ff39f9fe2e01a646]
+## 11. Circumstances where regulation 10 does not apply[^c-2500030bbaf837a8ff39f9fe2e01a646]
 
-The reduction of benefit to be made under regulation 10 shall not apply as from the date when a partner who failed to take part in an interview ceases to be a partner for the purposes of these Regulations or is no longer a partner to whom regulation 2 or 2A applies[^key-a35c5984097b58b246f11883c4abb6dc].
+The reduction of benefit to be made under regulation 10 shall not apply as from the date when a partner who failed to take part in an interview ceases to be a partner for the purposes of these Regulations or is no longer a partner to whom regulation 2 or 2A applies[^c-a35c5984097b58b246f11883c4abb6dc].
 
-## 12. Good cause[^key-fd2e9077c96d1d0d2f12ef9b9384c7a1]
+## 12. Good cause[^c-fd2e9077c96d1d0d2f12ef9b9384c7a1]
 
 Matters to be taken into account in determining whether the partner or the claimant has shown good cause for the partner’s failure to take part in an interview include –
 
@@ -238,7 +238,7 @@ Matters to be taken into account in determining whether the partner or the claim
 - (h) that he was attending the funeral of a close friend or relative on the day fixed for the interview;
 - (i) that a disability from which the partner suffers made it impracticable for him to attend at the time fixed for the interview.
 
-## 13. Appeals[^key-8530e710cc30f4331f394b89bcc507a6]
+## 13. Appeals[^c-8530e710cc30f4331f394b89bcc507a6]
 
 (1) This regulation applies to any relevant decision made under regulation 9(3) or any decision under Article 11 of the 1998 Order (decisions superseding earlier decisions) superseding such a decision.
 
@@ -246,7 +246,7 @@ Matters to be taken into account in determining whether the partner or the claim
 
 (3) In the case of a decision to which this regulation applies, the partner in respect of whom the decision was made and the claimant shall each have a right of appeal under Article 13 of the 1998 Order (appeal to appeal tribunal) to an appeal tribunal.
 
-## 14. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-a4ea1642bbe084c6081bd143eccc7986]
+## 14. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-a4ea1642bbe084c6081bd143eccc7986]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00008] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -306,71 +306,71 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: [2002 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2002/10)
 
-[^key-2d1ff2b271ae4d12e328984ec470b157]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2003/405) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16(1)(2)(g)](https://www.legislation.gov.uk/nisr/2010/312/regulation/16/2/g), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3)
+[^c-2d1ff2b271ae4d12e328984ec470b157]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2003/405) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16(1)(2)(g)](https://www.legislation.gov.uk/nisr/2010/312/regulation/16/2/g), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3)
 
-[^key-fa3fd6427fc9a907c73e94193eaa5f6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/405/regulation/1) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-fa3fd6427fc9a907c73e94193eaa5f6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/405/regulation/1) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-e03feb028ae651eae4bc6f876ddd9db6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [100](https://www.legislation.gov.uk/uksi/2019/1514/regulation/100) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-e03feb028ae651eae4bc6f876ddd9db6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [100](https://www.legislation.gov.uk/uksi/2019/1514/regulation/100) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-f74e0a748ed3a1aab244618e5091592b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2)
+[^c-f74e0a748ed3a1aab244618e5091592b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2)
 
-[^key-eef0ac8b92444b1860d61c22ae29c1f4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) substituted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2011/26/regulation/6/a)
+[^c-eef0ac8b92444b1860d61c22ae29c1f4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) substituted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2011/26/regulation/6/a)
 
-[^key-39db770ce4c02ebcb215c49647d3c4d4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) inserted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2011/26/regulation/6/b)
+[^c-39db770ce4c02ebcb215c49647d3c4d4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/2) inserted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2011/26/regulation/6/b)
 
 [^M_F_b5c9e05e-44c5-4fe5-dab7-b1efcf886bf6]: Textual amendment: Reg. 1(2A) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2011/368/regulation/4/2)
 
-[^key-0cbf89c9142bff6c66de2f1c29ef3b60]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/3) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2)
+[^c-0cbf89c9142bff6c66de2f1c29ef3b60]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/3) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-82d8a5c56f12133f11656fe44a0ab1f8]: Textual amendment: Regs. 2, 2A substituted for reg. 2 (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/3)
+[^c-82d8a5c56f12133f11656fe44a0ab1f8]: Textual amendment: Regs. 2, 2A substituted for reg. 2 (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/3)
 
-[^key-cba4eb9f4882c57ceeb1d42acc7d9873]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/405/regulation/3) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-cba4eb9f4882c57ceeb1d42acc7d9873]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/405/regulation/3) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-399672d3d52668aa53a32177bb0fa097]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2003/405/regulation/3) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/4)
+[^c-399672d3d52668aa53a32177bb0fa097]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2003/405/regulation/3) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/4)
 
-[^key-490707621da707c365e426d4c0fbf8a1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/405/regulation/4) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-490707621da707c365e426d4c0fbf8a1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/405/regulation/4) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-91938bd6cb685fca54046cdb7f43893f]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/4/2) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/5)
+[^c-91938bd6cb685fca54046cdb7f43893f]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/4/2) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/5)
 
-[^key-4e4f03799e0146a6c907ed9dd9c44f47]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/405/regulation/5) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-4e4f03799e0146a6c907ed9dd9c44f47]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/405/regulation/5) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-04604e23f9fdc5098df14b8da0078118]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2003/405/regulation/5/3) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/5)
+[^c-04604e23f9fdc5098df14b8da0078118]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2003/405/regulation/5/3) omitted (28.4.2008) by virtue of [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/5)
 
 [^M_F_83c7f126-ae68-41f6-83ea-657e2cd684a0]: Textual amendment: Reg. 6 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2011/368/regulation/4/3)
 
-[^key-97654fa692afcc97019b26ed06b9df65]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/405/regulation/7) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-97654fa692afcc97019b26ed06b9df65]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/405/regulation/7) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-cb6afbe321061917ef7a667b3f382e9d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/405/regulation/8) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-cb6afbe321061917ef7a667b3f382e9d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/405/regulation/8) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-5844ab497388a3efc5342cfd94f999a9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/405/regulation/9) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-5844ab497388a3efc5342cfd94f999a9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/405/regulation/9) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
 [^f00007]: Footnote: Section 2B was inserted by Article 54 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and amended by section 8(1) of, and paragraphs 5 and 6 of Schedule 1 to, the Social Security Act (Northern Ireland) [2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10)
 
-[^key-9cf3f96c4d1547ea10a2092935b0d61b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/405/regulation/10) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-9cf3f96c4d1547ea10a2092935b0d61b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/405/regulation/10) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-2ffdc613cbaba83791c5b9998c0b9d3c]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/1) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/7/a)
+[^c-2ffdc613cbaba83791c5b9998c0b9d3c]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/1) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/7/a)
 
-[^key-acf82184ea58bc8f17d84fbe2638895d]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/2) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [16(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/16/a)
+[^c-acf82184ea58bc8f17d84fbe2638895d]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/2) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [16(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/16/a)
 
-[^key-a9bbfaa835cfbcdaad76626a0dbcd9b7]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/4) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/7/b)
+[^c-a9bbfaa835cfbcdaad76626a0dbcd9b7]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/4) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/7/b)
 
-[^key-23788ac7ca705cce7d16abfa22db9818]: Textual amendment: [Reg. 10(4)(aa)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/4/aa) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [31](https://www.legislation.gov.uk/nisr/2008/286/regulation/31)
+[^c-23788ac7ca705cce7d16abfa22db9818]: Textual amendment: [Reg. 10(4)(aa)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/4/aa) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [31](https://www.legislation.gov.uk/nisr/2008/286/regulation/31)
 
-[^key-c3ba1cf870a890cbab7e7d04d2352c0a]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/8) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [16(b)](https://www.legislation.gov.uk/nisr/2011/357/regulation/16/b), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
+[^c-c3ba1cf870a890cbab7e7d04d2352c0a]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2003/405/regulation/10/8) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [16(b)](https://www.legislation.gov.uk/nisr/2011/357/regulation/16/b), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
 
-[^key-2500030bbaf837a8ff39f9fe2e01a646]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/405/regulation/11) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-2500030bbaf837a8ff39f9fe2e01a646]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/405/regulation/11) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-a35c5984097b58b246f11883c4abb6dc]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2003/405/regulation/11) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/8)
+[^c-a35c5984097b58b246f11883c4abb6dc]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2003/405/regulation/11) substituted (28.4.2008) by [The Social Security (Work-focused Interviews for Partners) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/169)](https://www.legislation.gov.uk/nisr/2008/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/169/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2008/169/regulation/2/8)
 
-[^key-fd2e9077c96d1d0d2f12ef9b9384c7a1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/405/regulation/12) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-fd2e9077c96d1d0d2f12ef9b9384c7a1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/405/regulation/12) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-8530e710cc30f4331f394b89bcc507a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/405/regulation/13) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-8530e710cc30f4331f394b89bcc507a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/405/regulation/13) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
-[^key-a4ea1642bbe084c6081bd143eccc7986]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/405/regulation/14) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
+[^c-a4ea1642bbe084c6081bd143eccc7986]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/405/regulation/14) in operation at 12.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/405/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2001 Nos. 23](https://www.legislation.gov.uk/nisr/2001/23) and [176](https://www.legislation.gov.uk/nisr/2001/176) and [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274)
 

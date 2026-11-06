@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Interpretation of Chapter 2[^key-facbbbac6f279ee1403171bcfa48de03]
+## 47. Interpretation of Chapter 2[^c-facbbbac6f279ee1403171bcfa48de03]
 
 *Extent: S*
 
@@ -34,12 +34,12 @@ In this Chapter—
   - (a) a constable of the Police Service;
   - (b) a member of the police staff; or
   - (c) a member of the Authority's staff;
-- “ **Police Service** ” means the Police Service of[^key-b489d32aec44f3671108b64f139e477b] Scotland;
+- “ **Police Service** ” means the Police Service of[^c-b489d32aec44f3671108b64f139e477b] Scotland;
 - “ **relevant complaint** ” has the meaning given by section 34;
 - “ **senior officer** ” has the same meaning as in the Police and Fire Reform (Scotland) Act 2012.
 
 ## Annotations
 
-[^key-facbbbac6f279ee1403171bcfa48de03]: Textual amendment: S. 47 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(11)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/11); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
+[^c-facbbbac6f279ee1403171bcfa48de03]: Textual amendment: S. 47 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(11)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/11); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
 
-[^key-b489d32aec44f3671108b64f139e477b]: Textual amendment: Word in s. 47 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/21)
+[^c-b489d32aec44f3671108b64f139e477b]: Textual amendment: Word in s. 47 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/21)

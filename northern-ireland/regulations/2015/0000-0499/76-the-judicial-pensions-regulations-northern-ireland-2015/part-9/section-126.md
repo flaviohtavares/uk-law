@@ -22,7 +22,7 @@ summary: ''
 
 (1) Member contributions are to be deducted by the member's employer from the member's pensionable earnings for each pay period.
 
-(1A)[^key-0be846f07e26a327642ae959fe58b59a] Member contributions that must be paid under section 52(4) of PSPJOA 2022 are to be paid in accordance with regulation 66 of the 2023 Regulations.
+(1A)[^c-0be846f07e26a327642ae959fe58b59a] Member contributions that must be paid under section 52(4) of PSPJOA 2022 are to be paid in accordance with regulation 66 of the 2023 Regulations.
 
 (2) A member's employer may make contributions on the member's behalf in circumstances determined by the scheme manager.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0be846f07e26a327642ae959fe58b59a]: Textual amendment: [Reg. 126(1A)](https://www.legislation.gov.uk/nisr/2015/76/regulation/126/1A) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/5)
+[^c-0be846f07e26a327642ae959fe58b59a]: Textual amendment: [Reg. 126(1A)](https://www.legislation.gov.uk/nisr/2015/76/regulation/126/1A) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/5)

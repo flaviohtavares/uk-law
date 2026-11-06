@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Designation and monitoring of UK notified bodies[^key-5c2c8b6f0b12658b6f84b0fd68b389e5][^M_E_d3c0960b-2117-4eea-f03e-dec3851d642a]
+## 16. Designation and monitoring of UK notified bodies[^c-5c2c8b6f0b12658b6f84b0fd68b389e5][^M_E_d3c0960b-2117-4eea-f03e-dec3851d642a]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) A person in respect of whom—
 
 - (a) a notified body designation has been made under this regulation; and
-- (b) whose designation has been notified by the Secretary of State to the Commission and the other relevant[^key-10cabf39a8fe346ba582fa7a6978f454] states under Article 14(1) of the Directive,
+- (b) whose designation has been notified by the Secretary of State to the Commission and the other relevant[^c-10cabf39a8fe346ba582fa7a6978f454] states under Article 14(1) of the Directive,
 
 is a “UK notified body” to the extent that that designation remains in effect.
 
@@ -72,12 +72,12 @@ is a “UK notified body” to the extent that that designation remains in effec
 
 ## Annotations
 
-[^key-5c2c8b6f0b12658b6f84b0fd68b389e5]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2008/1597/regulation/16) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 12 para. 15](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/15) (with [Sch. 12 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/22)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c2c8b6f0b12658b6f84b0fd68b389e5]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2008/1597/regulation/16) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 12 para. 15](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/15) (with [Sch. 12 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/22)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_d3c0960b-2117-4eea-f03e-dec3851d642a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_a05fd9d4-f012-4c95-ba1c-72f34306b65d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-10cabf39a8fe346ba582fa7a6978f454]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1597/regulation/16) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/4/paragraph/5)
+[^c-10cabf39a8fe346ba582fa7a6978f454]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1597/regulation/16) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/4/paragraph/5)
 
 [^V_NI_c48e5916-2e56-6e69-0fc5-a4372fb43fd8]: Textual amendment: Reg. 16(10) revoked (15.12.2011) by [The Supply of Machinery (Safety) (Amendment) Regulations 2011 (S.I. 2011/2157)](https://www.legislation.gov.uk/uksi/2011/2157), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2157/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2157/regulation/5)

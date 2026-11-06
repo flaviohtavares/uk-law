@@ -28,12 +28,12 @@ Regulation 24
 
 In this Schedule—
 
-- “[^key-86f32525e640abd56ccc3e6948bf60b0]**index adjustment**” means—
+- “[^c-86f32525e640abd56ccc3e6948bf60b0]**index adjustment**” means—
   - (a) in relation to the opening balance of earned pension for a scheme year (other than the opening balance of club transfer earned pension), the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015) made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year, plus 1.5%; and
   - (b) in relation to the opening balance of club transfer earned pension for a scheme year, the adjustment that is—
     - (i) equal to the adjustment that would apply to the opening balance of that amount of earned pension under the sending scheme for the previous scheme year, and
     - (ii) applied to the opening balance of club transfer earned on the date that the order (in respect of the NHS Pension Scheme (Scotland) 2015) made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year, has effect.
-- “**AP index adjustment**” means, in relation to the opening balance of additional pension for a scheme year, the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015[^key-7cf99c22d4c80ae26c1b0600ed70abd0] made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year;
+- “**AP index adjustment**” means, in relation to the opening balance of additional pension for a scheme year, the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015[^c-7cf99c22d4c80ae26c1b0600ed70abd0] made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year;
 - “**the leaving year**” means the scheme year in which the relevant last day falls;
 - “**the relevant last day**” means—
   - (a) for a member who has made a partial retirement application, the day before the entitlement day for a partial retirement pension; and
@@ -45,9 +45,9 @@ For the purpose of this Schedule, a person who re-enters pensionable service aft
 
 #### 3. Meaning of “leaver index adjustment”
 
-(1) Subject to sub-paragraph (2A), the[^key-4f1055edaa0c56830e3efab17ec4935a] leaver index adjustment for an amount of accrued earned pension other than an amount of club transfer accrued earned pension is an amount calculated as follows— *Step 1*
+(1) Subject to sub-paragraph (2A), the[^c-4f1055edaa0c56830e3efab17ec4935a] leaver index adjustment for an amount of accrued earned pension other than an amount of club transfer accrued earned pension is an amount calculated as follows— *Step 1*
 
-Add 1.5 to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015)[^key-85eaf0d115289bd997f117b8f7e2cdc1] made by the Treasury under section 9(2) of the 2013 Act in relation to the leaving year. *Step 2*
+Add 1.5 to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015)[^c-85eaf0d115289bd997f117b8f7e2cdc1] made by the Treasury under section 9(2) of the 2013 Act in relation to the leaving year. *Step 2*
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2015/94)
 
@@ -63,14 +63,14 @@ Multiply the amount of accrued earned pension by the leaver index percentage.
 
 The resulting amount is the leaver index adjustment.
 
-(2)[^key-40a459a7e3a7bf0ab6bf116fe1aea743][^key-57a585a9fb137fdf61dcce0a3cac4824] Subject to sub-paragraph (2A), the leaver index adjustment for an amount of club transfer accrued earned pension is—
+(2)[^c-40a459a7e3a7bf0ab6bf116fe1aea743][^c-57a585a9fb137fdf61dcce0a3cac4824] Subject to sub-paragraph (2A), the leaver index adjustment for an amount of club transfer accrued earned pension is—
 
 - (a) equal to the adjustment that would apply under the sending scheme to an amount of accrued earned pension equal to the amount of club transfer accrued earned pension specified in the active member’s account at the end of the relevant last day, and
 - (b) applied to the amount of club transfer earned pension at the end of the relevant last day on the date that the order (in respect of the NHS Pension Scheme (Scotland) 2015) made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year, has effect.
 
-(2A)[^key-19f496a8b907d1b55ff2359fd9d57ea1] If the amount of the leaver index adjustment under sub-paragraphs (1) or (2) is an amount that is less than zero, the amount of the leaver index adjustment for the purposes of those paragraphs is zero.
+(2A)[^c-19f496a8b907d1b55ff2359fd9d57ea1] If the amount of the leaver index adjustment under sub-paragraphs (1) or (2) is an amount that is less than zero, the amount of the leaver index adjustment for the purposes of those paragraphs is zero.
 
-(3)[^key-01f3cce44150918529619dcea34ad5f2] In this paragraph, “**complete month**” includes an incomplete month that consists of at least 16 days.
+(3)[^c-01f3cce44150918529619dcea34ad5f2] In this paragraph, “**complete month**” includes an incomplete month that consists of at least 16 days.
 
 #### 4. Meaning of “leaver AP index adjustment”
 
@@ -79,7 +79,7 @@ The resulting amount is the leaver index adjustment.
 (2) The leaver AP index adjustment is an amount equal to the amount of leaver index adjustment found if—
 
 - (a) the accrued additional pension were an accrued earned pension; and
-- (b) 1.5% is not added to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015)[^key-2db3ce14b97e5bf2dbef1e392dbdf6bb] made by the Treasury in Step 1 of paragraph 3(1).
+- (b) 1.5% is not added to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme (Scotland) 2015)[^c-2db3ce14b97e5bf2dbef1e392dbdf6bb] made by the Treasury in Step 1 of paragraph 3(1).
 
 #### 5. Meaning of “full retirement earned pension”
 
@@ -182,12 +182,12 @@ In these Regulations, “**conversion amount**”, in relation to any pension co
 
 #### 15. Actuarial reduction buy-out
 
-In relation to a scheme year which falls within a buy-out period (see regulation 44(4)[^key-4edd3ac156f8e39cf12e9fcd5826a28b]), the entry in the account relating to the standard earned pension must note—
+In relation to a scheme year which falls within a buy-out period (see regulation 44(4)[^c-4edd3ac156f8e39cf12e9fcd5826a28b]), the entry in the account relating to the standard earned pension must note—
 
 - (a) that a buy-out election has effect (unless it is revoked); and
 - (b) the number of years in respect of which the actuarial reduction is to be bought out.
 
-### PART 2A — Active member’s account for unqualified members[^key-ec381a4490c53b371eed730ed1a73e77]
+### PART 2A — Active member’s account for unqualified members[^c-ec381a4490c53b371eed730ed1a73e77]
 
 #### 15A. Closure of an active member’s account
 
@@ -343,7 +343,7 @@ The deferred member's account must specify—
 (1) This paragraph applies if—
 
 - (a) an additional pension is payable with a partial retirement pension; and
-- (b) the partial retirement pension is abated to zero under[^key-323ef58880a8cdcf44d7f590f677a652] regulation 85(3).
+- (b) the partial retirement pension is abated to zero under[^c-323ef58880a8cdcf44d7f590f677a652] regulation 85(3).
 
 (2) The additional pension account must be re-established and credited with an amount equal to the annual rate of additional (self only) pension.
 
@@ -423,26 +423,26 @@ For the purpose of a deferred member's account, the amount of accrued earned pen
 
 ## Annotations
 
-[^key-86f32525e640abd56ccc3e6948bf60b0]: Textual amendment: Words in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/1) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(2)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/2/a)
+[^c-86f32525e640abd56ccc3e6948bf60b0]: Textual amendment: Words in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/1) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(2)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/2/a)
 
-[^key-7cf99c22d4c80ae26c1b0600ed70abd0]: Textual amendment: Words in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/1) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(2)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/2/b)
+[^c-7cf99c22d4c80ae26c1b0600ed70abd0]: Textual amendment: Words in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/1) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(2)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/2/b)
 
-[^key-4f1055edaa0c56830e3efab17ec4935a]: Textual amendment: Words in sch. 7 para. 3(1) substituted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/b)
+[^c-4f1055edaa0c56830e3efab17ec4935a]: Textual amendment: Words in sch. 7 para. 3(1) substituted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/b)
 
-[^key-85eaf0d115289bd997f117b8f7e2cdc1]: Textual amendment: Words in [sch. 7 para. 3(1)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/3/1) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(3)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/3/a)
+[^c-85eaf0d115289bd997f117b8f7e2cdc1]: Textual amendment: Words in [sch. 7 para. 3(1)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/3/1) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(3)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/3/a)
 
-[^key-40a459a7e3a7bf0ab6bf116fe1aea743]: Textual amendment: Sch. 7 para. 3(1) renumbered as sch. 7 para. 3(2) (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/a)
+[^c-40a459a7e3a7bf0ab6bf116fe1aea743]: Textual amendment: Sch. 7 para. 3(1) renumbered as sch. 7 para. 3(2) (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/a)
 
-[^key-57a585a9fb137fdf61dcce0a3cac4824]: Textual amendment: [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/3/2) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(3)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/3/b)
+[^c-57a585a9fb137fdf61dcce0a3cac4824]: Textual amendment: [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/3/2) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(3)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/3/b)
 
-[^key-19f496a8b907d1b55ff2359fd9d57ea1]: Textual amendment: Sch. 7 para. 3(2A) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(c)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/c)
+[^c-19f496a8b907d1b55ff2359fd9d57ea1]: Textual amendment: Sch. 7 para. 3(2A) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(c)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/c)
 
-[^key-01f3cce44150918529619dcea34ad5f2]: Textual amendment: Sch. 7 para. 3(2) renumbered as sch. 7 para. 3(3) (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/a)
+[^c-01f3cce44150918529619dcea34ad5f2]: Textual amendment: Sch. 7 para. 3(2) renumbered as sch. 7 para. 3(3) (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/2/a)
 
-[^key-2db3ce14b97e5bf2dbef1e392dbdf6bb]: Textual amendment: Words in [sch. 7 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/4/2/b) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/4)
+[^c-2db3ce14b97e5bf2dbef1e392dbdf6bb]: Textual amendment: Words in [sch. 7 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/4/2/b) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [55(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/55/4)
 
-[^key-4edd3ac156f8e39cf12e9fcd5826a28b]: Textual amendment: Words in [sch. 7 para. 15](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/15) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2016/97/regulation/14/a)
+[^c-4edd3ac156f8e39cf12e9fcd5826a28b]: Textual amendment: Words in [sch. 7 para. 15](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/15) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2016/97/regulation/14/a)
 
-[^key-ec381a4490c53b371eed730ed1a73e77]: Textual amendment: [Sch. 7 Pt. 2A](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/part/2A) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/3)
+[^c-ec381a4490c53b371eed730ed1a73e77]: Textual amendment: [Sch. 7 Pt. 2A](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/part/2A) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [13(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/13/3)
 
-[^key-323ef58880a8cdcf44d7f590f677a652]: Textual amendment: Words in [sch. 7 para. 25(1)(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/25/1/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2016/97/regulation/14/b)
+[^c-323ef58880a8cdcf44d7f590f677a652]: Textual amendment: Words in [sch. 7 para. 25(1)(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/7/paragraph/25/1/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2016/97/regulation/14/b)

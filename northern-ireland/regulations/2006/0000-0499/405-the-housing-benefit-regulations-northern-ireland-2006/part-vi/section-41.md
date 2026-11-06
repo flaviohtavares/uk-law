@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Calculation of capital[^key-e3b21af60ef430ca936a28e3d6c4b66f]
+## 41. Calculation of capital[^c-e3b21af60ef430ca936a28e3d6c4b66f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b21af60ef430ca936a28e3d6c4b66f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/405/regulation/41) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-e3b21af60ef430ca936a28e3d6c4b66f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/405/regulation/41) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

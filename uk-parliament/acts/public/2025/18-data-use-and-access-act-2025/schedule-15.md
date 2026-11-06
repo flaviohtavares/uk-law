@@ -22,15 +22,15 @@ summary: ''
 
 Section 121
 
-**1.**[^key-1a58cdccad4bd3cbf2f8e449eb60a343][^key-3f1190258857bf34527f37deaf13cf4e] Chapter 1 of Part 9 of the Health and Social Care Act 2012 (health and adult social care services: information standards) is amended as follows.
+**1.**[^c-1a58cdccad4bd3cbf2f8e449eb60a343][^c-3f1190258857bf34527f37deaf13cf4e] Chapter 1 of Part 9 of the Health and Social Care Act 2012 (health and adult social care services: information standards) is amended as follows.
 
-**2.**[^key-4f97425bfd974750c81f3ca2acb46c15][^key-96797e1f379699828ef2576330d85374] Before section 250 insert—
+**2.**[^c-4f97425bfd974750c81f3ca2acb46c15][^c-96797e1f379699828ef2576330d85374] Before section 250 insert—
 
 > Powers to publish standards
 
 .
 
-**3.**[^key-00c54ffaec8bc8f6c098028e19081000][^key-cbd130af5921ff8373e8ead145ec5435] (1) Section 250 (powers to publish information standards) is amended as follows.
+**3.**[^c-00c54ffaec8bc8f6c098028e19081000][^c-cbd130af5921ff8373e8ead145ec5435] (1) Section 250 (powers to publish information standards) is amended as follows.
 
 (2) In subsection (2), at the end insert “and includes, among other things, a standard relating to information technology or IT services used, or intended to be used, in connection with the processing of information (see section 250A)”.
 
@@ -72,7 +72,7 @@ Section 121
   >
   >   whether for payment or free of charge, but only so far as the technology or service is used, or intended to be used, in connection with the provision in, or in relation to, England of health care or of adult social care.
 
-**4.**[^key-5342f0bc0225116bad33830a5c1a0943][^key-917cd57009e7ffb330859ab9468b069d] After section 250 insert—
+**4.**[^c-5342f0bc0225116bad33830a5c1a0943][^c-917cd57009e7ffb330859ab9468b069d] After section 250 insert—
 
 > **250A. Standards relating to information technology**
 >
@@ -92,7 +92,7 @@ Section 121
 >
 > (3) An information standard may make provision by reference to open standards or proprietary standards.
 
-**5.**[^key-61e200308c27eff83ee53224243ca452][^key-9a7e790e78760d6581fa552acc2a3cc0] (1) Section 251 (information standards: procedure etc) is amended as follows.
+**5.**[^c-61e200308c27eff83ee53224243ca452][^c-9a7e790e78760d6581fa552acc2a3cc0] (1) Section 251 (information standards: procedure etc) is amended as follows.
 
 (2) In the heading omit “Information standards:”.
 
@@ -103,15 +103,15 @@ Section 121
 > - (a) adopting an information standard prepared or published by another person, including as it has effect from time to time, or
 > - (b) making provision by reference to an international agreement or another document, including as it has effect from time to time.
 
-**6.**[^key-6ddd11b09f706f898f7cb9f0467e1290][^key-d054913302e33a2dd5a9a964bd34d27f] After section 251 insert—
+**6.**[^c-6ddd11b09f706f898f7cb9f0467e1290][^c-d054913302e33a2dd5a9a964bd34d27f] After section 251 insert—
 
 > Compliance with standards
 
 .
 
-**7.**[^key-0d5c818ab23862c074af26e3961be5ca][^key-19dae3d576e9e68761e3544e41c75c58] For the heading of section 251ZA (information standards: compliance) substitute “Monitoring compliance”.
+**7.**[^c-0d5c818ab23862c074af26e3961be5ca][^c-19dae3d576e9e68761e3544e41c75c58] For the heading of section 251ZA (information standards: compliance) substitute “Monitoring compliance”.
 
-**8.**[^key-ccd1996dcd3f026f4c09c6a1acd2c751][^key-dada63cf51fafb9bbed34c4589957cf9] After that section insert—
+**8.**[^c-ccd1996dcd3f026f4c09c6a1acd2c751][^c-dada63cf51fafb9bbed34c4589957cf9] After that section insert—
 
 > **251ZB. Notice requesting compliance by relevant IT providers**
 >
@@ -189,34 +189,34 @@ Section 121
 
 ## Annotations
 
-[^key-1a58cdccad4bd3cbf2f8e449eb60a343]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-1a58cdccad4bd3cbf2f8e449eb60a343]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-3f1190258857bf34527f37deaf13cf4e]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/1) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-3f1190258857bf34527f37deaf13cf4e]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/1) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-4f97425bfd974750c81f3ca2acb46c15]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-4f97425bfd974750c81f3ca2acb46c15]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-96797e1f379699828ef2576330d85374]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/2) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-96797e1f379699828ef2576330d85374]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/2) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-00c54ffaec8bc8f6c098028e19081000]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-00c54ffaec8bc8f6c098028e19081000]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-cbd130af5921ff8373e8ead145ec5435]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/3) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-cbd130af5921ff8373e8ead145ec5435]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/3) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-5342f0bc0225116bad33830a5c1a0943]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-5342f0bc0225116bad33830a5c1a0943]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-917cd57009e7ffb330859ab9468b069d]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/4) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-917cd57009e7ffb330859ab9468b069d]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/4) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-61e200308c27eff83ee53224243ca452]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-61e200308c27eff83ee53224243ca452]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-9a7e790e78760d6581fa552acc2a3cc0]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/5) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-9a7e790e78760d6581fa552acc2a3cc0]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/5) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-6ddd11b09f706f898f7cb9f0467e1290]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-6ddd11b09f706f898f7cb9f0467e1290]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-d054913302e33a2dd5a9a964bd34d27f]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/6) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-d054913302e33a2dd5a9a964bd34d27f]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/6) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-0d5c818ab23862c074af26e3961be5ca]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-0d5c818ab23862c074af26e3961be5ca]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-19dae3d576e9e68761e3544e41c75c58]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/7) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-19dae3d576e9e68761e3544e41c75c58]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/7) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-ccd1996dcd3f026f4c09c6a1acd2c751]: Commencement: Sch. 15 para. 8 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-ccd1996dcd3f026f4c09c6a1acd2c751]: Commencement: Sch. 15 para. 8 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-dada63cf51fafb9bbed34c4589957cf9]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/8) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-dada63cf51fafb9bbed34c4589957cf9]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/8) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)

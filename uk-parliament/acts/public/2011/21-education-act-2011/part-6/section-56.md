@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Academies: consultation on conversion[^key-ac8e6414c666386da35a801241d05c4a]
+## 56. Academies: consultation on conversion[^c-ac8e6414c666386da35a801241d05c4a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac8e6414c666386da35a801241d05c4a]: Textual amendment: S. 56 omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(b)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/b), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
+[^c-ac8e6414c666386da35a801241d05c4a]: Textual amendment: S. 56 omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(b)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/b), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)

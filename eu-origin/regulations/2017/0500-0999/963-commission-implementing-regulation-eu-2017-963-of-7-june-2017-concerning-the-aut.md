@@ -35,34 +35,34 @@ concerning the authorisation of the preparation of endo-1,3(4)-beta-glucanase pr
 
 (Text with EEA relevance) (revoked)
 
-[^key-5f2cbf28dcad854cd5a8b8543dd5689a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f2cbf28dcad854cd5a8b8543dd5689a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-5f2cbf28dcad854cd5a8b8543dd5689a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Regulation (EC) No 358/2005[^key-5f2cbf28dcad854cd5a8b8543dd5689a]
+## Article 1. Authorisation[^c-5f2cbf28dcad854cd5a8b8543dd5689a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EU) No 1270/2009[^key-5f2cbf28dcad854cd5a8b8543dd5689a]
+## Article 2. Amendments to Regulation (EC) No 358/2005[^c-5f2cbf28dcad854cd5a8b8543dd5689a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-5f2cbf28dcad854cd5a8b8543dd5689a]
+## Article 3. Amendment to Regulation (EU) No 1270/2009[^c-5f2cbf28dcad854cd5a8b8543dd5689a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-5f2cbf28dcad854cd5a8b8543dd5689a]
+## Article 4. Transitional measures[^c-5f2cbf28dcad854cd5a8b8543dd5689a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f2cbf28dcad854cd5a8b8543dd5689a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-5f2cbf28dcad854cd5a8b8543dd5689a]
 
-## ANNEX[^key-5f2cbf28dcad854cd5a8b8543dd5689a]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5f2cbf28dcad854cd5a8b8543dd5689a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-5f2cbf28dcad854cd5a8b8543dd5689a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f2cbf28dcad854cd5a8b8543dd5689a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 248](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/248) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-5f2cbf28dcad854cd5a8b8543dd5689a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 248](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/248) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

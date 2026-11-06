@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Application of this Order[^key-81f734c1aca42a03acb96adc3e928260]
+## 8. Application of this Order[^c-81f734c1aca42a03acb96adc3e928260]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81f734c1aca42a03acb96adc3e928260]: Commencement: Art. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-81f734c1aca42a03acb96adc3e928260]: Commencement: Art. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00020]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).

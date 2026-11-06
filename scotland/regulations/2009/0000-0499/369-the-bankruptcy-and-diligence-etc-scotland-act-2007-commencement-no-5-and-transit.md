@@ -39,15 +39,15 @@ Made
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 224(2) and 227(3) and (4) of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00001].
 
-## 1. Citation[^key-8bb4c9a45b77d70a7703130ac16f0543]
+## 1. Citation[^c-8bb4c9a45b77d70a7703130ac16f0543]
 
 This Order may be cited as the Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 5 and Transitional) Order 2009.
 
-## 2. Interpretation[^key-4257c261c45535e107f664e2a6886b3f]
+## 2. Interpretation[^c-4257c261c45535e107f664e2a6886b3f]
 
 In this Order, “the Act” means the Bankruptcy and Diligence etc. (Scotland) Act 2007.
 
-## 3. Appointed day – money attachment[^key-02c805ca317edd8954d146a5db959d11]
+## 3. Appointed day – money attachment[^c-02c805ca317edd8954d146a5db959d11]
 
 (1) The following provisions of the Act, in so far as not already in force, come into force on 23rd November 2009:—
 
@@ -58,7 +58,7 @@ In this Order, “the Act” means the Bankruptcy and Diligence etc. (Scotland) 
 
 (3) Where in the Schedule to this Order a purpose is specified in column 2 in relation to an amendment, it comes into force only for that purpose, but where no purpose is specified it comes into force for all purposes (in so far as not already in force).
 
-## 4. Transitional modification of the Act – references to “judicial officer”[^key-ffd3993a94465c9d576baada915c02a8]
+## 4. Transitional modification of the Act – references to “judicial officer”[^c-ffd3993a94465c9d576baada915c02a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -72,7 +72,7 @@ Edinburgh
 
 27th October 2009
 
-## SCHEDULE — Provisions of schedule 5 (minor and consequential amendments) coming into force on 23rd November 2009[^key-7301e21da05c61fe68e78fe994edc9e0]
+## SCHEDULE — Provisions of schedule 5 (minor and consequential amendments) coming into force on 23rd November 2009[^c-7301e21da05c61fe68e78fe994edc9e0]
 
 Article 3(2) and (3)
 
@@ -196,15 +196,15 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
 
-[^key-8bb4c9a45b77d70a7703130ac16f0543]: Commencement: Art. 1 in force at made date
+[^c-8bb4c9a45b77d70a7703130ac16f0543]: Commencement: Art. 1 in force at made date
 
-[^key-4257c261c45535e107f664e2a6886b3f]: Commencement: Art. 2 in force at made date
+[^c-4257c261c45535e107f664e2a6886b3f]: Commencement: Art. 2 in force at made date
 
-[^key-02c805ca317edd8954d146a5db959d11]: Commencement: Art. 3 in force at made date
+[^c-02c805ca317edd8954d146a5db959d11]: Commencement: Art. 3 in force at made date
 
-[^key-ffd3993a94465c9d576baada915c02a8]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4) revoked (31.1.2011) by [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 7 and Transitionals) Order 2011 (S.S.I. 2011/31)](https://www.legislation.gov.uk/ssi/2011/31), [art. 5](https://www.legislation.gov.uk/ssi/2011/31/article/5)[(c)](https://www.legislation.gov.uk/ssi/2011/31/article/5/c)
+[^c-ffd3993a94465c9d576baada915c02a8]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4) revoked (31.1.2011) by [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 7 and Transitionals) Order 2011 (S.S.I. 2011/31)](https://www.legislation.gov.uk/ssi/2011/31), [art. 5](https://www.legislation.gov.uk/ssi/2011/31/article/5)[(c)](https://www.legislation.gov.uk/ssi/2011/31/article/5/c)
 
-[^key-7301e21da05c61fe68e78fe994edc9e0]: Commencement: Sch. in force at made date
+[^c-7301e21da05c61fe68e78fe994edc9e0]: Commencement: Sch. in force at made date
 
 [^f00002]: Footnote: [1845 c.17](https://www.legislation.gov.uk/ukpga/1845/17).
 

@@ -31,7 +31,7 @@ summary: ''
 
 CLEAN AIR, ENGLAND
 
-The Smoke Control Areas (Exempted Fireplaces) (England) Order 2001 (revoked)[^key-8954787b69a2e3af139c9c2f8341ca63]
+The Smoke Control Areas (Exempted Fireplaces) (England) Order 2001 (revoked)[^c-8954787b69a2e3af139c9c2f8341ca63]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 14th March 2001
 
-[^key-8954787b69a2e3af139c9c2f8341ca63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8954787b69a2e3af139c9c2f8341ca63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-8954787b69a2e3af139c9c2f8341ca63]
+## 1. Citation, commencement and extent[^c-8954787b69a2e3af139c9c2f8341ca63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Classes of fireplace exempted from section 20 of the Clean Air Act 1993[^key-8954787b69a2e3af139c9c2f8341ca63]
+## 2. Classes of fireplace exempted from section 20 of the Clean Air Act 1993[^c-8954787b69a2e3af139c9c2f8341ca63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8954787b69a2e3af139c9c2f8341ca63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8954787b69a2e3af139c9c2f8341ca63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8954787b69a2e3af139c9c2f8341ca63]
+## SCHEDULE[^c-8954787b69a2e3af139c9c2f8341ca63]
 
 Article 2
 
@@ -69,8 +69,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-8954787b69a2e3af139c9c2f8341ca63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8954787b69a2e3af139c9c2f8341ca63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8954787b69a2e3af139c9c2f8341ca63]: Textual amendment: Order revoked (6.4.2015) by [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2015 (S.I. 2015/307)](https://www.legislation.gov.uk/uksi/2015/307), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/307/regulation/1/b), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/307/schedule/2/part/1)
+[^c-8954787b69a2e3af139c9c2f8341ca63]: Textual amendment: Order revoked (6.4.2015) by [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2015 (S.I. 2015/307)](https://www.legislation.gov.uk/uksi/2015/307), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/307/regulation/1/b), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/307/schedule/2/part/1)

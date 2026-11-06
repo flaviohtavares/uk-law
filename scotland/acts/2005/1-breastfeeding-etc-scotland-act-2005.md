@@ -49,7 +49,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (b) feeding from a bottle or other container;
 - “**licensed premises**” means premises licensed under—
   - (a) section 12 of the Theatres Act 1968 (c. 54);
-  - (b) the Licensing (Scotland) Act[^key-1ea85542fdcfb53f188d89a36d5be642] [2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16) ;
+  - (b) the Licensing (Scotland) Act[^c-1ea85542fdcfb53f188d89a36d5be642] [2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16) ;
   - (c) Part II of the Civic Government (Scotland) Act 1982 (c. 45); or
   - (d) section 1 of the Cinemas Act 1985 (c. 13);
 - “**milk**” means breastmilk, cow's milk or infant formula;
@@ -107,4 +107,4 @@ After section 38 of the National Health Service (Scotland) Act 1978 (c. 29) inse
 
 ## Annotations
 
-[^key-1ea85542fdcfb53f188d89a36d5be642]: Textual amendment: Words in s. 1(4) substituted (at 5.00 a.m. and with application in accordance with art. 1(2) of the amending S.S.I.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-1ea85542fdcfb53f188d89a36d5be642]: Textual amendment: Words in s. 1(4) substituted (at 5.00 a.m. and with application in accordance with art. 1(2) of the amending S.S.I.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))

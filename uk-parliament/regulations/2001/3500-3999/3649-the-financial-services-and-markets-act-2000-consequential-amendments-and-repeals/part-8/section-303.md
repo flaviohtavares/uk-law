@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303. Further meaning of inability to pay debts where the company is a deposit taker[^key-8847eaad7a9cc2c979fb9fe7f1902495]
+## 303. Further meaning of inability to pay debts where the company is a deposit taker[^c-8847eaad7a9cc2c979fb9fe7f1902495]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8847eaad7a9cc2c979fb9fe7f1902495]: Commencement: Art. 303 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8847eaad7a9cc2c979fb9fe7f1902495]: Commencement: Art. 303 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

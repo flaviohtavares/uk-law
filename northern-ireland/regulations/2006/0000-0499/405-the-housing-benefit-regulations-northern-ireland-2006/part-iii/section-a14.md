@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## A14. When a maximum rent (social sector) is to be determined[^key-ab09958349cd23539d5cf37818244335]
+## A14. When a maximum rent (social sector) is to be determined[^c-ab09958349cd23539d5cf37818244335]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (c) in respect of mooring charges for houseboats and payments in respect of the site on which a caravan or mobile home stands;
 - (d) where the claimant or the claimant’s partner has attained the qualifying age for state pension credit, or where both have attained that age; or
 - (e) where the dwelling is temporary accommodation.
-- (f)[^key-7e00223eae7a042d203847c8e5cfea2d] where—
+- (f)[^c-7e00223eae7a042d203847c8e5cfea2d] where—
   - (i) domestic violence has been inflicted upon or threatened against the claimant or a member of the claimant’s household (“the victim”) by that person’s partner or former partner, or by a relative;
   - (ii) the victim is not living at the same address as the person who inflicted or threatened the domestic violence, except where that person is a young person as defined in regulation 17 and is a dependant of a member of the claimant’s household; and
   - (iii) the claimant provides evidence from a person acting in an official capacity which demonstrates that the claimant is living in a property adapted under a sanctuary scheme and—
@@ -55,25 +55,25 @@ summary: ''
 - (b) accommodation which the authority or registered housing association holds on a lease granted for a term not exceeding 10 years;
 - (c) accommodation which the authority or registered housing association has a right to use under an agreement other than a lease with a third party.
 
-(5)[^key-02d618b6a7fc13eae9d3fd992dc092d2] In this regulation—
+(5)[^c-02d618b6a7fc13eae9d3fd992dc092d2] In this regulation—
 
-- [^key-d21e476d4275c64e1ff7c3ba09ee2d27]...
-- [^key-d21e476d4275c64e1ff7c3ba09ee2d27]...
+- [^c-d21e476d4275c64e1ff7c3ba09ee2d27]...
+- [^c-d21e476d4275c64e1ff7c3ba09ee2d27]...
 - “household” means the persons who the relevant authority are satisfied are occupying the claimant’s dwelling as their home;
 - “person acting in an official capacity” means a health care professional, a police officer, a registered social worker, the victim’s employer, a representative of the victim’s trade union, or any public, voluntary, or charitable body which has had direct contact with the victim in connection with domestic violence;
 - “provider of social housing” means –
   - (a) the Executive
   - (b) registered housing association;
-- [^key-d21e476d4275c64e1ff7c3ba09ee2d27]...
-- [^key-d21e476d4275c64e1ff7c3ba09ee2d27]...
+- [^c-d21e476d4275c64e1ff7c3ba09ee2d27]...
+- [^c-d21e476d4275c64e1ff7c3ba09ee2d27]...
 - “sanctuary scheme” means a scheme operated by a provider of social housing enabling victims of domestic violence to remain in their homes through the installation of additional security to the property or the perimeter of the property at which the victim resides.
 
 ## Annotations
 
-[^key-ab09958349cd23539d5cf37818244335]: Textual amendment: [Regs. A14](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14), [B14](https://www.legislation.gov.uk/nisr/2006/405/regulation/B14) inserted (20.2.2017) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/326)](https://www.legislation.gov.uk/nisr/2016/326), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3), [5(7)](https://www.legislation.gov.uk/nisr/2016/326/regulation/5/7) (as amended by [S.R. 2016/432](https://www.legislation.gov.uk/nisr/2016/432), [reg. 7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7))
+[^c-ab09958349cd23539d5cf37818244335]: Textual amendment: [Regs. A14](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14), [B14](https://www.legislation.gov.uk/nisr/2006/405/regulation/B14) inserted (20.2.2017) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/326)](https://www.legislation.gov.uk/nisr/2016/326), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3), [5(7)](https://www.legislation.gov.uk/nisr/2016/326/regulation/5/7) (as amended by [S.R. 2016/432](https://www.legislation.gov.uk/nisr/2016/432), [reg. 7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7))
 
-[^key-7e00223eae7a042d203847c8e5cfea2d]: Textual amendment: [Reg. A14(2)(f)](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14/2/f) inserted (1.10.2021) by [The Housing Benefit and Universal Credit (Sanctuary Schemes) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/248)](https://www.legislation.gov.uk/nisr/2021/248), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/248/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/248/regulation/2/a)
+[^c-7e00223eae7a042d203847c8e5cfea2d]: Textual amendment: [Reg. A14(2)(f)](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14/2/f) inserted (1.10.2021) by [The Housing Benefit and Universal Credit (Sanctuary Schemes) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/248)](https://www.legislation.gov.uk/nisr/2021/248), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/248/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/248/regulation/2/a)
 
-[^key-02d618b6a7fc13eae9d3fd992dc092d2]: Textual amendment: [Reg. A14(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14/5) inserted (1.10.2021) by [The Housing Benefit and Universal Credit (Sanctuary Schemes) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/248)](https://www.legislation.gov.uk/nisr/2021/248), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/248/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/248/regulation/2/b)
+[^c-02d618b6a7fc13eae9d3fd992dc092d2]: Textual amendment: [Reg. A14(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14/5) inserted (1.10.2021) by [The Housing Benefit and Universal Credit (Sanctuary Schemes) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/248)](https://www.legislation.gov.uk/nisr/2021/248), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/248/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/248/regulation/2/b)
 
-[^key-d21e476d4275c64e1ff7c3ba09ee2d27]: Textual amendment: Words in [reg. A14(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14/5) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2022/211/regulation/2/4)
+[^c-d21e476d4275c64e1ff7c3ba09ee2d27]: Textual amendment: Words in [reg. A14(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/A14/5) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2022/211/regulation/2/4)

@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-8b1a0ca7b6092673ce0908a219a17101] This section has effect for the purposes of—
+(A1)[^c-8b1a0ca7b6092673ce0908a219a17101] This section has effect for the purposes of—
 
 - (a) section 121(1) (method of calculating the cash equivalent of the benefit of a car), and
 - (b) section 121B(1) (optional remuneration arrangements: meaning of “modified cash equivalent”).
 
-(1) A deduction is to be made from the amount carried forward from step 6 of section 121(1) or (as the case may be) step 4 of section 121B(1)[^key-cd020a4a33bede4498cf6f9ae78a24c5] if the car has been unavailable on any day during the tax year in question.
+(1) A deduction is to be made from the amount carried forward from step 6 of section 121(1) or (as the case may be) step 4 of section 121B(1)[^c-cd020a4a33bede4498cf6f9ae78a24c5] if the car has been unavailable on any day during the tax year in question.
 
 (2) For the purposes of this section a car is unavailable on any day if the day—
 
@@ -43,14 +43,14 @@ U is the number of days in the year on which the car is unavailable,
 
 Y is the number of days in that year, and
 
-A is the amount carried forward from step 6 of section 121(1) or (as the case may be) step 4 of section 121B(1)[^key-c85604a880bc8e418f656f4308602091] .
+A is the amount carried forward from step 6 of section 121(1) or (as the case may be) step 4 of section 121B(1)[^c-c85604a880bc8e418f656f4308602091] .
 
 (4) This section is subject to section 145 (modification where car temporarily replaced).
 
 ## Annotations
 
-[^key-8b1a0ca7b6092673ce0908a219a17101]: Textual amendment: [S. 143(A1)](https://www.legislation.gov.uk/ukpga/2003/1/section/143/A1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/28/2)
+[^c-8b1a0ca7b6092673ce0908a219a17101]: Textual amendment: [S. 143(A1)](https://www.legislation.gov.uk/ukpga/2003/1/section/143/A1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/28/2)
 
-[^key-cd020a4a33bede4498cf6f9ae78a24c5]: Textual amendment: Words in [s. 143(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/143/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/28/3)
+[^c-cd020a4a33bede4498cf6f9ae78a24c5]: Textual amendment: Words in [s. 143(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/143/1) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/28/3)
 
-[^key-c85604a880bc8e418f656f4308602091]: Textual amendment: Words in [s. 143(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/143/3) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/28/4)
+[^c-c85604a880bc8e418f656f4308602091]: Textual amendment: Words in [s. 143(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/143/3) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/28/4)

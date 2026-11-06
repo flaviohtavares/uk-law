@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Automated computer system[^key-2053426dbb6d56bcf6e76010d036ac3c][^key-80f09c1179bdaa212ff51e14868daff8]
+## 114. Automated computer system[^c-2053426dbb6d56bcf6e76010d036ac3c][^c-80f09c1179bdaa212ff51e14868daff8]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2053426dbb6d56bcf6e76010d036ac3c]: Commencement: S. 114 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-2053426dbb6d56bcf6e76010d036ac3c]: Commencement: S. 114 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-80f09c1179bdaa212ff51e14868daff8]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2023/3/section/114) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-80f09c1179bdaa212ff51e14868daff8]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2023/3/section/114) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

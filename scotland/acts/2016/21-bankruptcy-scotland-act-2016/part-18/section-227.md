@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 227. Variation of references to time, money etc.[^key-7882d2bcb87b927c0b2245c2148eae4e]
+## 227. Variation of references to time, money etc.[^c-7882d2bcb87b927c0b2245c2148eae4e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ there may be prescribed, in substitution, some other period or as the case may b
 
 ## Annotations
 
-[^key-7882d2bcb87b927c0b2245c2148eae4e]: Commencement: [S. 227](https://www.legislation.gov.uk/asp/2016/21/section/227) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7882d2bcb87b927c0b2245c2148eae4e]: Commencement: [S. 227](https://www.legislation.gov.uk/asp/2016/21/section/227) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

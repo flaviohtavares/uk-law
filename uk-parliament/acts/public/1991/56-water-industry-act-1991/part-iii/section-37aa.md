@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37AA. Water resources management plans for England: resilience[^key-43cffe50ff7c09d998d8f3b06f70c634][^c19905171]
+## 37AA. Water resources management plans for England: resilience[^c-43cffe50ff7c09d998d8f3b06f70c634][^c19905171]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43cffe50ff7c09d998d8f3b06f70c634]: Textual amendment: S. 37AA inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/27/3), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)
+[^c-43cffe50ff7c09d998d8f3b06f70c634]: Textual amendment: S. 37AA inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/27/3), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)
 
 [^c19905171]: Textual amendment: Ss. 37A-37D inserted (1.10.2004 for specified purposes and 1.10.2005 for further specified purposes and 1.4.2006 for specified provisions and further purposes and 1.4.2007 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/j) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/i) (with [Sch. paras. 6](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/6), [8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(q)](https://www.legislation.gov.uk/uksi/2006/984/article/2/q) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/984/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/984/schedule)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/a)

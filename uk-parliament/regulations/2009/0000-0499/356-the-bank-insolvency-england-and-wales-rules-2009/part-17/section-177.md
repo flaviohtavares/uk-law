@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Application to court for order authorising return of capital[^key-8918d10dddb13c70585967fe420fdf2a]
+## 177. Application to court for order authorising return of capital[^c-8918d10dddb13c70585967fe420fdf2a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.221 of the 1986 Rules.
 
 ## Annotations
 
-[^key-8918d10dddb13c70585967fe420fdf2a]: Commencement: Rule 177 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-8918d10dddb13c70585967fe420fdf2a]: Commencement: Rule 177 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

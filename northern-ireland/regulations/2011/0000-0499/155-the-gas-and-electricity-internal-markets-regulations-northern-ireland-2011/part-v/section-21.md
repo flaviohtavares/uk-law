@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Conditions of licences[^key-703285be44fe19175d48950f9a7a4aad]
+## 21. Conditions of licences[^c-703285be44fe19175d48950f9a7a4aad]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 11(3A) (Conditions of licences) of the Electricity Order after “Art
 
 ## Annotations
 
-[^key-703285be44fe19175d48950f9a7a4aad]: Commencement: Reg. 21 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-703285be44fe19175d48950f9a7a4aad]: Commencement: Reg. 21 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

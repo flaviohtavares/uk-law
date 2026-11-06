@@ -43,7 +43,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 35, 38 and 
 
 In accordance with section 150(2) of the Measure, a draft of this Order was laid before and approved by resolution of the National Assembly for Wales.
 
-## 1. Title, commencement, application and interpretation[^key-ec3651cf288e46e2eadff9df9680e8e6]
+## 1. Title, commencement, application and interpretation[^c-ec3651cf288e46e2eadff9df9680e8e6]
 
 (1) The title of this Order is the Welsh Language (Wales) Measure 2011 (Amendment of Schedule 6) Order 2016.
 
@@ -53,7 +53,7 @@ In accordance with section 150(2) of the Measure, a draft of this Order was laid
 
 (4) In this Order “the Measure” means the Welsh Language (Wales) Measure 2011.
 
-## 2. Amendment of Schedule 6[^key-5659172a09410b0f95a4b6bec1851c82]
+## 2. Amendment of Schedule 6[^c-5659172a09410b0f95a4b6bec1851c82]
 
 Schedule 6 (public bodies etc: standards) to the Welsh Language (Wales) Measure 2011 is amended in accordance with the Schedule.
 
@@ -67,7 +67,7 @@ First Minister of Wales
 
 Article 2
 
-**1.**[^key-720ac2bfe077a8db2fa096540414322b] In the Welsh text of the table in Schedule 6 (cyrff cyhoeddus etc: safonau) to the Measure, in the appropriate places insert—
+**1.**[^c-720ac2bfe077a8db2fa096540414322b] In the Welsh text of the table in Schedule 6 (cyrff cyhoeddus etc: safonau) to the Measure, in the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -161,7 +161,7 @@ Article 2
 > | --- | --- |
 > | WEA YMCA CC Cymru | Safonau cyflenwi gwasanaethau<br>Safonau llunio polisi<br>Safonau gweithredu<br>Safonau cadw cofnodion |
 
-**2.**[^key-01161bdc4231a39d8dfe6a764b21a0d8] In the English text of the table in Schedule 6 (public bodies etc: standards) to the Measure, in the appropriate places insert—
+**2.**[^c-01161bdc4231a39d8dfe6a764b21a0d8] In the English text of the table in Schedule 6 (public bodies etc: standards) to the Measure, in the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -247,7 +247,7 @@ Article 2
 > | --- | --- |
 > | The Wales Audit Office (*“Swyddfa Archwilio Cymru”)* | Service delivery standards<br>Policy making standards<br>Operational standards<br>Record keeping standards” |
 
-**3.**[^key-67e36027a3ae785a648676e1ba342faa] In the Welsh text of the table in Schedule 6 to the Measure, omit the following entries—
+**3.**[^c-67e36027a3ae785a648676e1ba342faa] In the Welsh text of the table in Schedule 6 to the Measure, omit the following entries—
 
 - (a) “Awdurdodau’r Heddlu (*“Police Authorities”*)”;
 - (b) “Ymddiriedolaethau Prawf (*“Probation Trusts”*)”;
@@ -269,7 +269,7 @@ Article 2
 - (r) “Prifysgol Glyndŵr (*“Glyndŵr University”*); and
 - (s) “Prifysgol Morgannwg (*“University of Glamorgan”*)”.
 
-**4.**[^key-91753c9f7f62e4afb0309f20b48d63a2] In the English text of the table in Schedule 6 to the Measure, omit the following entries—
+**4.**[^c-91753c9f7f62e4afb0309f20b48d63a2] In the English text of the table in Schedule 6 to the Measure, omit the following entries—
 
 - (a) “Police Authorities (*“Awdurdodau’r Heddlu”*)”;
 - (b) “Probation Trusts (“Ymddiriedolaethau Prawf”)”;
@@ -291,7 +291,7 @@ Article 2
 - (r) The University of Wales Institute, Cardiff (*“Athrofa Prifysgol Cymru, Caerdydd”*)”; and
 - (s) “The University of Wales, Newport (*“Prifysgol Cymru, Casnewydd”*)”.
 
-**5.**[^key-31f67cb2a78e30a6dd208869ba1d0d75] In the Welsh text of the table in Schedule 6 to the Measure—
+**5.**[^c-31f67cb2a78e30a6dd208869ba1d0d75] In the Welsh text of the table in Schedule 6 to the Measure—
 
 - (a) for “Cyngor Addysgu Cyffredinol Cymru (*“The General Teaching Council for Wales”*)” substitute “Cyngor y Gweithlu Addysg *(“Education Workforce Council”*)”;
 - (b) for “Y Cyngor Proffesiynau Iechyd (*“The Health Professions Council”*)” substitute “Y Cyngor Proffesiynau Iechyd a Gofal *(“The Health and Care Professions Council”*)”;
@@ -299,7 +299,7 @@ Article 2
 - (d) for “Ffocws ar Deithwyr (*“Passenger Focus”*)” substitute “Transport Focus”; and
 - (e) for “Panel Asesu Rhenti i Gymru (*“The Rent Assessment Panel for Wales”*)” substitute “Y pwyllgorau asesu rhenti i Gymru (*“The rent assessment committees for Wales”*)”*.*
 
-**6.**[^key-1990482cd7358673e1167b24d4cdd7db] In the English text of the table in Schedule 6 to the Measure—
+**6.**[^c-1990482cd7358673e1167b24d4cdd7db] In the English text of the table in Schedule 6 to the Measure—
 
 - (a) for “The Council for Healthcare Regulatory Excellence (“*Cyngor Rhagoriaeth Rheoleiddio Gofal Iechyd*”)” substitute “The Professional Standards Authority for Health and Social Care (*“Yr Awdurdod Safonau Proffesiynol ar gyfer Iechyd a Gofal Cymdeithasol”*)”;
 - (b) for “The General Teaching Council for Wales (*“Cyngor Addysgu Cyffredinol Cymru”*)” substitute “Education Workforce Council *(“Cyngor y Gweithlu Addysg”*)”;
@@ -307,9 +307,9 @@ Article 2
 - (d) for “Passenger Focus (*“Ffocws ar Deithwyr”*)” substitute *“*Transport Focus”; and
 - (e) for “The Rent Assessment Panel for Wales (*“Panel Asesu Rhenti i Gymru”*)” substitute “The rent assessment committees for Wales (*“Y Pwyllgorau asesu rhenti i Gymru”*)”.
 
-**7.**[^key-310d405c090c64eb06623f2d7048cfb0] In the Welsh text of paragraph 2 of Schedule 6 to the Measure omit the definition of “Ffocws ar Deithwyr” (*“Passenger Focus”*) and insert in the appropriate place “ystyr “Transport Focus*”* yw’r Cyngor Teithwyr a sefydlwyd o dan Ddeddf Rheilffyrdd 2005;”.
+**7.**[^c-310d405c090c64eb06623f2d7048cfb0] In the Welsh text of paragraph 2 of Schedule 6 to the Measure omit the definition of “Ffocws ar Deithwyr” (*“Passenger Focus”*) and insert in the appropriate place “ystyr “Transport Focus*”* yw’r Cyngor Teithwyr a sefydlwyd o dan Ddeddf Rheilffyrdd 2005;”.
 
-**8.**[^key-6f0d37c8c2d81642987e8ca8c967e8b7] In the English text of paragraph 2 of Schedule 6 to the Measure omit the definition of “Passenger Focus” (*“Ffocws ar Deithwyr”*) and insert in the appropriate place ““Transport Focus” means the Passengers’ Council established under the Railways Act 2005;”.
+**8.**[^c-6f0d37c8c2d81642987e8ca8c967e8b7] In the English text of paragraph 2 of Schedule 6 to the Measure omit the definition of “Passenger Focus” (*“Ffocws ar Deithwyr”*) and insert in the appropriate place ““Transport Focus” means the Passengers’ Council established under the Railways Act 2005;”.
 
 EXPLANATORY NOTE
 
@@ -350,22 +350,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
 
-[^key-ec3651cf288e46e2eadff9df9680e8e6]: Commencement: Art. 1 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-ec3651cf288e46e2eadff9df9680e8e6]: Commencement: Art. 1 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-5659172a09410b0f95a4b6bec1851c82]: Commencement: Art. 2 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-5659172a09410b0f95a4b6bec1851c82]: Commencement: Art. 2 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-720ac2bfe077a8db2fa096540414322b]: Commencement: Sch. para. 1 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-720ac2bfe077a8db2fa096540414322b]: Commencement: Sch. para. 1 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-01161bdc4231a39d8dfe6a764b21a0d8]: Commencement: Sch. para. 2 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-01161bdc4231a39d8dfe6a764b21a0d8]: Commencement: Sch. para. 2 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-67e36027a3ae785a648676e1ba342faa]: Commencement: Sch. para. 3 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-67e36027a3ae785a648676e1ba342faa]: Commencement: Sch. para. 3 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-91753c9f7f62e4afb0309f20b48d63a2]: Commencement: Sch. para. 4 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-91753c9f7f62e4afb0309f20b48d63a2]: Commencement: Sch. para. 4 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-31f67cb2a78e30a6dd208869ba1d0d75]: Commencement: Sch. para. 5 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-31f67cb2a78e30a6dd208869ba1d0d75]: Commencement: Sch. para. 5 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-1990482cd7358673e1167b24d4cdd7db]: Commencement: Sch. para. 6 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-1990482cd7358673e1167b24d4cdd7db]: Commencement: Sch. para. 6 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-310d405c090c64eb06623f2d7048cfb0]: Commencement: Sch. para. 7 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-310d405c090c64eb06623f2d7048cfb0]: Commencement: Sch. para. 7 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
 
-[^key-6f0d37c8c2d81642987e8ca8c967e8b7]: Commencement: Sch. para. 8 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)
+[^c-6f0d37c8c2d81642987e8ca8c967e8b7]: Commencement: Sch. para. 8 in force at 15.2.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/183/article/1/2)

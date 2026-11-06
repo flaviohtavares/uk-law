@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — Application and modification of provisions of the Act[^key-82812990461b7b3787934b05de53a5a7]
+## SCHEDULE 13 — Application and modification of provisions of the Act[^c-82812990461b7b3787934b05de53a5a7]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ Regulation 22
 
 ## Annotations
 
-[^key-82812990461b7b3787934b05de53a5a7]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/uksi/2007/2785/schedule/13) inserted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/352/schedule/2)
+[^c-82812990461b7b3787934b05de53a5a7]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/uksi/2007/2785/schedule/13) inserted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/352/schedule/2)

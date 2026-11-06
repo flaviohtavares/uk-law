@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 380. Debts not provable unless all other claims have been paid in full[^key-814396242dd0a41dc13a06a5658b3073]
+## 380. Debts not provable unless all other claims have been paid in full[^c-814396242dd0a41dc13a06a5658b3073]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Rule 12.3 of those Rules (provable debts), for sub-paragraphs (2A)(a) and (b)
 
 ## Annotations
 
-[^key-814396242dd0a41dc13a06a5658b3073]: Commencement: Art. 380 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-814396242dd0a41dc13a06a5658b3073]: Commencement: Art. 380 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00275]: Footnote: Paragraph (2A) was inserted into rule 12.3 by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), rule 3(1), Schedule, Part 1, paragraph 143(2).

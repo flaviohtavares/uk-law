@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 365. Determination of appeal by inspector[^key-d55f01df7fb9ca21252063735fe388be]
+## 365. Determination of appeal by inspector[^c-d55f01df7fb9ca21252063735fe388be]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d55f01df7fb9ca21252063735fe388be]: Commencement: S. 365 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d55f01df7fb9ca21252063735fe388be]: Commencement: S. 365 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

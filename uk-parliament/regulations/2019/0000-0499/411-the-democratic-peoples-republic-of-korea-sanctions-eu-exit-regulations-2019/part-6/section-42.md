@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Brokering services: non-UK activity relating to restricted goods and restricted technology[^key-3e03bf6ac6df0db615419afaae023a2f][^key-226bd659c592bb50a4086b5af75fce7a]
+## 42. Brokering services: non-UK activity relating to restricted goods and restricted technology[^c-3e03bf6ac6df0db615419afaae023a2f][^c-226bd659c592bb50a4086b5af75fce7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e03bf6ac6df0db615419afaae023a2f]: Commencement: Reg. 42 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-3e03bf6ac6df0db615419afaae023a2f]: Commencement: Reg. 42 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-226bd659c592bb50a4086b5af75fce7a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/411/regulation/42) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-226bd659c592bb50a4086b5af75fce7a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/411/regulation/42) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

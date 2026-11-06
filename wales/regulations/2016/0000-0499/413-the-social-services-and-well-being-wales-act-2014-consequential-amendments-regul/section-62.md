@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**62.**[^key-cba48665884dde0fc0fda370ef49a91c] In section 17ZH[^f00073] (section 17 services: transition for children to adult care and support)—
+**62.**[^c-cba48665884dde0fc0fda370ef49a91c] In section 17ZH[^f00073] (section 17 services: transition for children to adult care and support)—
 
 - (a) in subsection (1) omit “in England”;
 - (b) in subsection (5) omit “in England”.
 
 ## Annotations
 
-[^key-cba48665884dde0fc0fda370ef49a91c]: Commencement: Reg. 62 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-cba48665884dde0fc0fda370ef49a91c]: Commencement: Reg. 62 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00073]: Footnote: Sections 17ZH and 17ZI were inserted by the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), section 66(1).

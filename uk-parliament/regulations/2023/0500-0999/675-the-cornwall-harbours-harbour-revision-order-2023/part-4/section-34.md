@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Special directions[^key-4f3c9b8d43aab3d145b885dc690bd9e7]
+## 34. Special directions[^c-4f3c9b8d43aab3d145b885dc690bd9e7]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f3c9b8d43aab3d145b885dc690bd9e7]: Commencement: Art. 34 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-4f3c9b8d43aab3d145b885dc690bd9e7]: Commencement: Art. 34 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

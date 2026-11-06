@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Function of deciding applications[^key-3f469a97467aec537395453d00efb2f7][^key-6e698fa364cb411a68f6c68b421998b0]
+## 55. Function of deciding applications[^c-3f469a97467aec537395453d00efb2f7][^c-6e698fa364cb411a68f6c68b421998b0]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f469a97467aec537395453d00efb2f7]: Commencement: S. 55 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-3f469a97467aec537395453d00efb2f7]: Commencement: S. 55 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-6e698fa364cb411a68f6c68b421998b0]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2024/3/section/55) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)
+[^c-6e698fa364cb411a68f6c68b421998b0]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2024/3/section/55) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)

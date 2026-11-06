@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Standard entitlement of current system students on end-on courses and certain degree courses[^key-e16e304b0e19f48ef5c47772802d285b]
+## 22. Standard entitlement of current system students on end-on courses and certain degree courses[^c-e16e304b0e19f48ef5c47772802d285b]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ where
 
 ## Annotations
 
-[^key-e16e304b0e19f48ef5c47772802d285b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/195/regulation/22) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-e16e304b0e19f48ef5c47772802d285b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/195/regulation/22) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

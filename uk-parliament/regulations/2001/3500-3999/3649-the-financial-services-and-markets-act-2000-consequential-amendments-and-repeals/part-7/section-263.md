@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263. Application of Part 20 of the Financial Services and Markets Act 2000 to European lawyers[^key-1daeb22eaf6c8612959d528c40d7e525]
+## 263. Application of Part 20 of the Financial Services and Markets Act 2000 to European lawyers[^c-1daeb22eaf6c8612959d528c40d7e525]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1daeb22eaf6c8612959d528c40d7e525]: Commencement: Art. 263 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1daeb22eaf6c8612959d528c40d7e525]: Commencement: Art. 263 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00177]: Footnote: The Law Society of Scotland is a designated professional body for the purposes of Part 20: [S.I. 2001/1226](https://www.legislation.gov.uk/uksi/2001/1226).

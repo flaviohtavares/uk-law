@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.4. Written motions[^key-c7ffa0d186063a67d24e51eb05e60be4]
+## 13.4. Written motions[^c-c7ffa0d186063a67d24e51eb05e60be4]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ffa0d186063a67d24e51eb05e60be4]: Commencement: Para. 13.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c7ffa0d186063a67d24e51eb05e60be4]: Commencement: Para. 13.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

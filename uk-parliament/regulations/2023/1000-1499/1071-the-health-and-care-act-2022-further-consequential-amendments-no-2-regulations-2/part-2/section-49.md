@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (Welsh language text)[^key-418353fd5a38118ac0fc9e5b92363061]
+## 49. Amendment of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (Welsh language text)[^c-418353fd5a38118ac0fc9e5b92363061]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-418353fd5a38118ac0fc9e5b92363061]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2023/1071/regulation/49) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-418353fd5a38118ac0fc9e5b92363061]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2023/1071/regulation/49) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

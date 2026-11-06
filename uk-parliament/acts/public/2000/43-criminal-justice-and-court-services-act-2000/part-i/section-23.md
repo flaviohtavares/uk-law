@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transfer of staff in consequence of arrangements under Part I.[^key-e1266c4e6eff113691646fc244e5ad30]
+## 23. Transfer of staff in consequence of arrangements under Part I.[^c-e1266c4e6eff113691646fc244e5ad30]
 
 *Extent: E+W*
 
 (1) This section applies where, by reason of the implementation or termination of any arrangements under section 5, 8 or 13, any functions exercisable by any person (the “**old employer**”) become exercisable by another person (whether on behalf, or instead, of the old employer).
 
-(2) The Secretary of State[^key-83a861af55ce04c52a0f39c345b99123] may by order make a scheme for the transfer to the other person (the “**transferee**”) of any person (an “**eligible employee**”) employed under a contract of employment with the transferor on work which would have continued but for the implementation or termination of the arrangements.
+(2) The Secretary of State[^c-83a861af55ce04c52a0f39c345b99123] may by order make a scheme for the transfer to the other person (the “**transferee**”) of any person (an “**eligible employee**”) employed under a contract of employment with the transferor on work which would have continued but for the implementation or termination of the arrangements.
 
 (3) A scheme may apply—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1266c4e6eff113691646fc244e5ad30]: Modification: S. 23: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
+[^c-e1266c4e6eff113691646fc244e5ad30]: Modification: S. 23: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
 
-[^key-83a861af55ce04c52a0f39c345b99123]: Textual amendment: Words in s. 23 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/2)
+[^c-83a861af55ce04c52a0f39c345b99123]: Textual amendment: Words in s. 23 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/2)

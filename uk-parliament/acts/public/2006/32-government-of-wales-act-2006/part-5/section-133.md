@@ -27,7 +27,7 @@ summary: ''
 
 the responsibilities which are from time to time specified by the Treasury.
 
-(2) The principal accounting officer for the Welsh Ministers may designate other members of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government as additional accounting officers.
+(2) The principal accounting officer for the Welsh Ministers may designate other members of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government as additional accounting officers.
 
 (3) An additional accounting officer has, in relation to such of the accounts of the Welsh Ministers and the finances of the Welsh Ministers and the Counsel General as may be specified by the principal accounting officer for the Welsh Ministers, the responsibilities which are from time to time specified by the principal accounting officer for the Welsh Ministers.
 
@@ -35,4 +35,4 @@ the responsibilities which are from time to time specified by the Treasury.
 
 [^c16542981]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))

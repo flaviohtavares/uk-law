@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Carry over of disputes relating to out of hours arrangements between default contracts and general medical services contracts[^key-d5fa0a5a489bd1a861f69ea48efdb498]
+## 66. Carry over of disputes relating to out of hours arrangements between default contracts and general medical services contracts[^c-d5fa0a5a489bd1a861f69ea48efdb498]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ paragraph (2) shall apply.
 
 ## Annotations
 
-[^key-d5fa0a5a489bd1a861f69ea48efdb498]: Commencement: Art. 66 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-d5fa0a5a489bd1a861f69ea48efdb498]: Commencement: Art. 66 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

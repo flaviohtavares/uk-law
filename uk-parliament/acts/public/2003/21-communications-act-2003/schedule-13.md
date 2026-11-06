@@ -26,11 +26,11 @@ Section 345
 
 #### Preliminary
 
-**1.**[^key-2660760030ccabd1e69027487b22249e] The 1990 Act shall be amended as follows.
+**1.**[^c-2660760030ccabd1e69027487b22249e] The 1990 Act shall be amended as follows.
 
 #### Revocation of television services licence
 
-**2.**[^key-6a8e1829f0b91307c993158d9eae4031] (1) In subsection (3) of section 18 (penalty on revocation of television services licence), for “a financial penalty of the prescribed amount” there shall be substituted “ a specified financial penalty ”.
+**2.**[^c-6a8e1829f0b91307c993158d9eae4031] (1) In subsection (3) of section 18 (penalty on revocation of television services licence), for “a financial penalty of the prescribed amount” there shall be substituted “ a specified financial penalty ”.
 
 (2) For subsection (4) of that section (amount of penalty) there shall be substituted—
 
@@ -57,7 +57,7 @@ is served after the commencement of this paragraph.
 
 #### Licences for Channel 3 services and for Channels 4 and 5
 
-**3.**[^key-92a19dc5179469990edd398d8e46d4d9] (1) For subsection (2) of section 41 (penalties for failure by holder of licence for Channel 3 services, Channel 4 or Channel 5 to comply with licence conditions or directions) there shall be substituted—
+**3.**[^c-92a19dc5179469990edd398d8e46d4d9] (1) For subsection (2) of section 41 (penalties for failure by holder of licence for Channel 3 services, Channel 4 or Channel 5 to comply with licence conditions or directions) there shall be substituted—
 
 > (1A) The amount of a financial penalty imposed on a person in pursuance of subsection (1)(a) shall not exceed 5 per cent. of the qualifying revenue for the licence holder’s last complete accounting period falling within the period for which his licence has been in force (“**the relevant period**”).
 >
@@ -69,7 +69,7 @@ is served after the commencement of this paragraph.
 
 #### Restricted services licences
 
-**4.**[^key-e398aa3088651323e877ae42275c0701] (1) In subsection (2) of section 42B (application of sections 40 to 42 to licensing of restricted services), for “subsections (3) and (4)” there shall be substituted “ subsections (3) to (3C) ”.
+**4.**[^c-e398aa3088651323e877ae42275c0701] (1) In subsection (2) of section 42B (application of sections 40 to 42 to licensing of restricted services), for “subsections (3) and (4)” there shall be substituted “ subsections (3) to (3C) ”.
 
 (2) In subsection (3) of that section—
 
@@ -91,7 +91,7 @@ is served after the commencement of this paragraph.
 
 #### Additional television services licences
 
-**5.**[^key-707de4b04e8d33d5c777703b59851040] (1) For subsection (2) of section 55 (penalties for failure by holder of licence for additional television service to comply with licence conditions or directions) there shall be substituted—
+**5.**[^c-707de4b04e8d33d5c777703b59851040] (1) For subsection (2) of section 55 (penalties for failure by holder of licence for additional television service to comply with licence conditions or directions) there shall be substituted—
 
 > (1A) The amount of a financial penalty imposed on a person in pursuance of subsection (1) shall not exceed 5 per cent. of the qualifying revenue for the licence holder’s last complete accounting period falling within the period for which his licence has been in force (“**the relevant period**”).
 >
@@ -103,7 +103,7 @@ is served after the commencement of this paragraph.
 
 #### Revocation of national sound broadcasting licence
 
-**6.**[^key-a9edd7446f0a2522fd2732448fb34f85] (1) In subsection (3) of section 101 (penalty on revocation of national sound broadcasting licence), for “a financial penalty of the prescribed amount” there shall be substituted “ a specified financial penalty ”.
+**6.**[^c-a9edd7446f0a2522fd2732448fb34f85] (1) In subsection (3) of section 101 (penalty on revocation of national sound broadcasting licence), for “a financial penalty of the prescribed amount” there shall be substituted “ a specified financial penalty ”.
 
 (2) For subsection (4) of that section (amount of penalty) there shall be substituted—
 
@@ -130,7 +130,7 @@ is served after the commencement of this paragraph.
 
 #### Licences for analogue sound services
 
-**7.**[^key-0cc45ef92e0d7b7a56c809f650f95660] (1) For subsection (2) of section 110 (penalties for failure by holder of national sound broadcasting licence to comply with licence conditions or directions) there shall be substituted—
+**7.**[^c-0cc45ef92e0d7b7a56c809f650f95660] (1) For subsection (2) of section 110 (penalties for failure by holder of national sound broadcasting licence to comply with licence conditions or directions) there shall be substituted—
 
 > (1A) The maximum amount which the holder of a national licence may be required to pay by way of a financial penalty imposed in pursuance of subsection (1)(a) is the maximum penalty given by subsection (1B).
 >
@@ -149,7 +149,7 @@ is served after the commencement of this paragraph.
 
 #### Additional radio services licences
 
-**8.**[^key-6b692031bf4b37831fc66377ec722686] (1) For subsection (2) of section 120 (penalties for failure by holder of additional radio services licence to comply with licence conditions or directions) there shall be substituted—
+**8.**[^c-6b692031bf4b37831fc66377ec722686] (1) For subsection (2) of section 120 (penalties for failure by holder of additional radio services licence to comply with licence conditions or directions) there shall be substituted—
 
 > (1A) The amount of a financial penalty imposed on a person in pursuance of subsection (1) shall not exceed 5 per cent. of the qualifying revenue for the licence holder’s last complete accounting period falling within the period for which his licence has been in force (“**the relevant period**”).
 >
@@ -161,7 +161,7 @@ is served after the commencement of this paragraph.
 
 #### Power to amend penalties under the 1990 Act
 
-**9.**[^key-01f5e0a97fae5aed313fcd023386c187] (1) The Secretary of State may by order amend any of the provisions of the 1990 Act specified in sub-paragraph (2) by substituting a different sum for the sum for the time being specified in that provision.
+**9.**[^c-01f5e0a97fae5aed313fcd023386c187] (1) The Secretary of State may by order amend any of the provisions of the 1990 Act specified in sub-paragraph (2) by substituting a different sum for the sum for the time being specified in that provision.
 
 (2) Those provisions are—
 
@@ -176,11 +176,11 @@ is served after the commencement of this paragraph.
 
 #### Preliminary
 
-**10.**[^key-b7be4ab243e558e3313678e68c7f0b17] The 1996 Act shall be amended as follows.
+**10.**[^c-b7be4ab243e558e3313678e68c7f0b17] The 1996 Act shall be amended as follows.
 
 #### Revocation of television multiplex licences
 
-**11.**[^key-94680a1735bebc34a1e954a655ae4487] (1) In subsection (5) of section 11 (penalty on revocation of television multiplex licence), the words from “not exceeding” onwards shall be omitted.
+**11.**[^c-94680a1735bebc34a1e954a655ae4487] (1) In subsection (5) of section 11 (penalty on revocation of television multiplex licence), the words from “not exceeding” onwards shall be omitted.
 
 (2) For subsection (6) of that section (amount of penalty) there shall be substituted—
 
@@ -207,7 +207,7 @@ is served after the commencement of this paragraph.
 
 #### Attribution of television multiplex revenue
 
-**12.**[^key-aaddb5b3fd0c5a804eed0a08cae6b77f] (1) In subsection (1) of section 15 (attribution of multiplex revenue for the purposes of section 17(3)), for “17(3)” there shall be substituted “ 17(2A) and (2B) ”.
+**12.**[^c-aaddb5b3fd0c5a804eed0a08cae6b77f] (1) In subsection (1) of section 15 (attribution of multiplex revenue for the purposes of section 17(3)), for “17(3)” there shall be substituted “ 17(2A) and (2B) ”.
 
 (2) In subsection (2) of that section (attribution for the purposes of sections 23(3) and 27(3)), for “section 23(3) or section 27(3)” there shall be substituted “ sections 23(2A) to (5) and 27(2A) to (5) ”.
 
@@ -215,7 +215,7 @@ is served after the commencement of this paragraph.
 
 #### Multiplex licences
 
-**13.**[^key-684fe6d73785cccb61a2c76fcff894c5] (1) In subsection (2) of section 17 (penalty for failure by holder of television multiplex licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
+**13.**[^c-684fe6d73785cccb61a2c76fcff894c5] (1) In subsection (2) of section 17 (penalty for failure by holder of television multiplex licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
 
 (2) For subsection (3) of that section (maximum penalties) there shall be substituted—
 
@@ -232,7 +232,7 @@ is served after the commencement of this paragraph.
 
 #### Digital television programme licences
 
-**14.**[^key-8019e5cb7287bc82e6f576f0b35969cf] (1) In subsection (2) of section 23 (penalty for failure by holder of digital television programme licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
+**14.**[^c-8019e5cb7287bc82e6f576f0b35969cf] (1) In subsection (2) of section 23 (penalty for failure by holder of digital television programme licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
 
 (2) For subsection (3) of that section (maximum penalties) there shall be substituted—
 
@@ -253,7 +253,7 @@ is served after the commencement of this paragraph.
 
 #### Digital additional television services licences
 
-**15.**[^key-60dca83352d77920001670d65e9b239e] (1) In subsection (2) of section 27 (penalty for failure by holder of digital additional services licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
+**15.**[^c-60dca83352d77920001670d65e9b239e] (1) In subsection (2) of section 27 (penalty for failure by holder of digital additional services licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
 
 (2) For subsection (3) of that section (maximum penalties) there shall be substituted—
 
@@ -274,7 +274,7 @@ is served after the commencement of this paragraph.
 
 #### Power to amend digital television penalties
 
-**16.**[^key-4da15b1f1e0decd9d8e328dfc4fc7f84] For section 36(2) and (3) (provisions that may be amended and negative resolution procedure) there shall be substituted—
+**16.**[^c-4da15b1f1e0decd9d8e328dfc4fc7f84] For section 36(2) and (3) (provisions that may be amended and negative resolution procedure) there shall be substituted—
 
 > (2) The provisions referred to in subsection (1) are—
 >
@@ -287,7 +287,7 @@ is served after the commencement of this paragraph.
 
 #### Revocation of radio multiplex licences
 
-**17.**[^key-5b7ab7d8af73cb1ceb7b1295bde5e79f] (1) In section 53(5) (maximum penalty on revocation of radio multiplex licence), for “£50,000”, in both places, there shall be substituted “ £250,000 ”.
+**17.**[^c-5b7ab7d8af73cb1ceb7b1295bde5e79f] (1) In section 53(5) (maximum penalty on revocation of radio multiplex licence), for “£50,000”, in both places, there shall be substituted “ £250,000 ”.
 
 (2) This paragraph applies only in a case of a revocation in relation to which—
 
@@ -298,7 +298,7 @@ is served after the commencement of this paragraph.
 
 #### Attribution of radio multiplex revenue
 
-**18.**[^key-e5e2fd92621b59550f4eb30b32e7b3d9] (1) In subsection (1) of section 57 (attribution of multiplex revenue for the purposes of sections 59(3)), for “59(3)” there shall be substituted “ 59(2A) and (2B) ”.
+**18.**[^c-e5e2fd92621b59550f4eb30b32e7b3d9] (1) In subsection (1) of section 57 (attribution of multiplex revenue for the purposes of sections 59(3)), for “59(3)” there shall be substituted “ 59(2A) and (2B) ”.
 
 (2) In subsection (2) of that section, (attribution for the purposes of sections 62(3) and 66(3)), for “section 62(3) or section 66(3)” there shall be substituted “ sections 62(2A) to (5) and 66(2A) to (5) ”.
 
@@ -306,7 +306,7 @@ is served after the commencement of this paragraph.
 
 #### Contraventions of conditions of radio multiplex licences
 
-**19.**[^key-a47f20a029a11978c210690d2bc319ae] (1) In subsection (2) of section 59 (penalty for failure by holder of radio multiplex licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
+**19.**[^c-a47f20a029a11978c210690d2bc319ae] (1) In subsection (2) of section 59 (penalty for failure by holder of radio multiplex licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
 
 (2) For subsection (3) of that section (maximum penalties) there shall be substituted—
 
@@ -325,7 +325,7 @@ is served after the commencement of this paragraph.
 
 #### Digital sound programme licences
 
-**20.**[^key-a153a7f0ba9866a2c5462d23134eb23c] (1) In subsection (2) of section 62 (penalty for failure by holder of digital sound programme licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
+**20.**[^c-a153a7f0ba9866a2c5462d23134eb23c] (1) In subsection (2) of section 62 (penalty for failure by holder of digital sound programme licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
 
 (2) For subsection (3) of that section (maximum penalties) there shall be substituted—
 
@@ -350,7 +350,7 @@ is served after the commencement of this paragraph.
 
 #### Licences for digital additional sound services
 
-**21.**[^key-d2c8f2ee480f2d59e1084d3eb96067a3] (1) In subsection (2) of section 66 (penalty for failure by holder of digital additional sound services licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
+**21.**[^c-d2c8f2ee480f2d59e1084d3eb96067a3] (1) In subsection (2) of section 66 (penalty for failure by holder of digital additional sound services licence to comply with licence conditions or directions), for the words from “whichever is the greater” onwards there shall be substituted “ the maximum penalty given by subsection (2A). ”
 
 (2) For subsection (3) of that section (maximum penalties) there shall be substituted—
 
@@ -375,7 +375,7 @@ is served after the commencement of this paragraph.
 
 #### Power to amend digital television penalties
 
-**22.**[^key-6c90d4aca8c4f63b808e73742d7a4d55] For section 69(2) and (3) (provisions that may be amended and negative resolution procedure) there shall be substituted—
+**22.**[^c-6c90d4aca8c4f63b808e73742d7a4d55] For section 69(2) and (3) (provisions that may be amended and negative resolution procedure) there shall be substituted—
 
 > (2) The provisions referred to in subsection (1) are—
 >
@@ -388,46 +388,46 @@ is served after the commencement of this paragraph.
 
 ## Annotations
 
-[^key-2660760030ccabd1e69027487b22249e]: Commencement: Sch. 13 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2660760030ccabd1e69027487b22249e]: Commencement: Sch. 13 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6a8e1829f0b91307c993158d9eae4031]: Commencement: Sch. 13 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6a8e1829f0b91307c993158d9eae4031]: Commencement: Sch. 13 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-92a19dc5179469990edd398d8e46d4d9]: Commencement: Sch. 13 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-92a19dc5179469990edd398d8e46d4d9]: Commencement: Sch. 13 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e398aa3088651323e877ae42275c0701]: Commencement: Sch. 13 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e398aa3088651323e877ae42275c0701]: Commencement: Sch. 13 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-707de4b04e8d33d5c777703b59851040]: Commencement: Sch. 13 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-707de4b04e8d33d5c777703b59851040]: Commencement: Sch. 13 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a9edd7446f0a2522fd2732448fb34f85]: Commencement: Sch. 13 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a9edd7446f0a2522fd2732448fb34f85]: Commencement: Sch. 13 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0cc45ef92e0d7b7a56c809f650f95660]: Commencement: Sch. 13 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0cc45ef92e0d7b7a56c809f650f95660]: Commencement: Sch. 13 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6b692031bf4b37831fc66377ec722686]: Commencement: Sch. 13 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6b692031bf4b37831fc66377ec722686]: Commencement: Sch. 13 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-01f5e0a97fae5aed313fcd023386c187]: Commencement: Sch. 13 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-01f5e0a97fae5aed313fcd023386c187]: Commencement: Sch. 13 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b7be4ab243e558e3313678e68c7f0b17]: Commencement: Sch. 13 para. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b7be4ab243e558e3313678e68c7f0b17]: Commencement: Sch. 13 para. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-94680a1735bebc34a1e954a655ae4487]: Commencement: Sch. 13 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-94680a1735bebc34a1e954a655ae4487]: Commencement: Sch. 13 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-aaddb5b3fd0c5a804eed0a08cae6b77f]: Commencement: Sch. 13 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-aaddb5b3fd0c5a804eed0a08cae6b77f]: Commencement: Sch. 13 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-684fe6d73785cccb61a2c76fcff894c5]: Commencement: Sch. 13 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-684fe6d73785cccb61a2c76fcff894c5]: Commencement: Sch. 13 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8019e5cb7287bc82e6f576f0b35969cf]: Commencement: Sch. 13 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8019e5cb7287bc82e6f576f0b35969cf]: Commencement: Sch. 13 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-60dca83352d77920001670d65e9b239e]: Commencement: Sch. 13 para. 15 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-60dca83352d77920001670d65e9b239e]: Commencement: Sch. 13 para. 15 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4da15b1f1e0decd9d8e328dfc4fc7f84]: Commencement: Sch. 13 para. 16 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4da15b1f1e0decd9d8e328dfc4fc7f84]: Commencement: Sch. 13 para. 16 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5b7ab7d8af73cb1ceb7b1295bde5e79f]: Commencement: Sch. 13 para. 17 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5b7ab7d8af73cb1ceb7b1295bde5e79f]: Commencement: Sch. 13 para. 17 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e5e2fd92621b59550f4eb30b32e7b3d9]: Commencement: Sch. 13 para. 18 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e5e2fd92621b59550f4eb30b32e7b3d9]: Commencement: Sch. 13 para. 18 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a47f20a029a11978c210690d2bc319ae]: Commencement: Sch. 13 para. 19 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a47f20a029a11978c210690d2bc319ae]: Commencement: Sch. 13 para. 19 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a153a7f0ba9866a2c5462d23134eb23c]: Commencement: Sch. 13 para. 20 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a153a7f0ba9866a2c5462d23134eb23c]: Commencement: Sch. 13 para. 20 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d2c8f2ee480f2d59e1084d3eb96067a3]: Commencement: Sch. 13 para. 21 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d2c8f2ee480f2d59e1084d3eb96067a3]: Commencement: Sch. 13 para. 21 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6c90d4aca8c4f63b808e73742d7a4d55]: Commencement: Sch. 13 para. 22 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6c90d4aca8c4f63b808e73742d7a4d55]: Commencement: Sch. 13 para. 22 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -25,7 +25,7 @@ summary: ''
 (1) The regulatory regime for—
 
 - (a) every licensed public service channel,
-- (b)[^key-9ac7c38e452dd17b9db58b5e7ab93a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (b)[^c-9ac7c38e452dd17b9db58b5e7ab93a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (c) every licensed television service added by order under section 275 to the list of must-provide services,
 
 includes the conditions that OFCOM consider appropriate for securing that arrangements satisfying the requirements of this section are entered into and maintained by all the persons who provide must-provide services.
@@ -80,4 +80,4 @@ but do not otherwise include references to apparatus.
 
 ## Annotations
 
-[^key-9ac7c38e452dd17b9db58b5e7ab93a0d]: Textual amendment: [S. 274(1)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/274/1/b) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/45); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-9ac7c38e452dd17b9db58b5e7ab93a0d]: Textual amendment: [S. 274(1)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/274/1/b) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/45); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

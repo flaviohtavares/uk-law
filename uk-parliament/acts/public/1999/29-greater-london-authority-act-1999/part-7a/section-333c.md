@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333C. Reviews of the strategy[^key-a761f600a6cde50131649a6bffe0cf99]
+## 333C. Reviews of the strategy[^c-a761f600a6cde50131649a6bffe0cf99]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a761f600a6cde50131649a6bffe0cf99]: Textual amendment: Pt. 7A inserted (E.W.) (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/28/4), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5)
+[^c-a761f600a6cde50131649a6bffe0cf99]: Textual amendment: Pt. 7A inserted (E.W.) (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/28/4), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5)

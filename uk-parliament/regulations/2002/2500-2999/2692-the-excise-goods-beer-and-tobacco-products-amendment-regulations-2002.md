@@ -49,11 +49,11 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred upo
 
 These Regulations may be cited as the Excise Goods, Beer and Tobacco Products (Amendment) Regulations 2002 and come into force on 1 December 2002.
 
-## 2. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^key-24b1896c51ac65ce74af908926d3b9ff]
+## 2. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^c-24b1896c51ac65ce74af908926d3b9ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Beer Regulations 1993[^key-24b1896c51ac65ce74af908926d3b9ff]
+## 3. The Beer Regulations 1993[^c-24b1896c51ac65ce74af908926d3b9ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -61,9 +61,9 @@ These Regulations may be cited as the Excise Goods, Beer and Tobacco Products (A
 
 (1) Amend the Tobacco Products Regulations 2001 [^c9627121] as follows.
 
-(2)[^key-aded0057c42fd2b2df2575d5f3e0043e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aded0057c42fd2b2df2575d5f3e0043e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-aded0057c42fd2b2df2575d5f3e0043e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-aded0057c42fd2b2df2575d5f3e0043e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 23(1), after paragraph (a), insert—
 
@@ -83,8 +83,8 @@ These Regulations come into force on 1 December 2002. They implement the require
 
 [^c9627051]: Marginal citation: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48).
 
-[^key-24b1896c51ac65ce74af908926d3b9ff]: Textual amendment: Reg. 2 revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
+[^c-24b1896c51ac65ce74af908926d3b9ff]: Textual amendment: Reg. 2 revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
 
 [^c9627121]: Marginal citation: [S.I. 2001/1712](https://www.legislation.gov.uk/uksi/2001/1712).
 
-[^key-aded0057c42fd2b2df2575d5f3e0043e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2002/2692/regulation/4/2)[(3)](https://www.legislation.gov.uk/uksi/2002/2692/regulation/4/3) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
+[^c-aded0057c42fd2b2df2575d5f3e0043e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2002/2692/regulation/4/2)[(3)](https://www.legislation.gov.uk/uksi/2002/2692/regulation/4/3) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table

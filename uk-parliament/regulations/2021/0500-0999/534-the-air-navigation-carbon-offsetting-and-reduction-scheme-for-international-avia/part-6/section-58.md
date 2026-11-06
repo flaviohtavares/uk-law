@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Failure to report emissions[^key-5da4c89a2522f549950d50898cc5320e]
+## 58. Failure to report emissions[^c-5da4c89a2522f549950d50898cc5320e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) The civil penalty is—
 
-- (a) £20,000,[^key-b30d0007cbb07707df7c9e9e868caa0e] and
+- (a) £20,000,[^c-b30d0007cbb07707df7c9e9e868caa0e] and
 - (b) a daily penalty at a daily rate of £500 for each day that the report is not submitted, beginning with the day on which the initial notice under article 53(4) is given, up to a maximum of £45,000.
 
 ## Annotations
 
-[^key-5da4c89a2522f549950d50898cc5320e]: Commencement: Art. 58 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-5da4c89a2522f549950d50898cc5320e]: Commencement: Art. 58 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-b30d0007cbb07707df7c9e9e868caa0e]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/uksi/2021/534/article/58): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
+[^c-b30d0007cbb07707df7c9e9e868caa0e]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/uksi/2021/534/article/58): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)

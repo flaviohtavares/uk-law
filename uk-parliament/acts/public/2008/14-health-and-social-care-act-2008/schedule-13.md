@@ -24,11 +24,11 @@ Section 147(6)
 
 ### Interpretation of Schedule
 
-**1.**[^key-499f3cef4a2d35a77aea590b84dce433][^key-667348f51229040716a6b9946e6a2eb0] In this Schedule “**the 1948 Act**” means the National Assistance Act 1948 (c. 29).
+**1.**[^c-499f3cef4a2d35a77aea590b84dce433][^c-667348f51229040716a6b9946e6a2eb0] In this Schedule “**the 1948 Act**” means the National Assistance Act 1948 (c. 29).
 
 ### Complaints, orders and payments under section 43 of the 1948 Act
 
-**2.**[^key-1a25003d0e9595f57b9d1c5ad62ff17e][^key-d544676a8a9512722993f3706383e6e0] (1) No complaint may be made under section 43 of the 1948 Act on or after the appointed day, not even—
+**2.**[^c-1a25003d0e9595f57b9d1c5ad62ff17e][^c-d544676a8a9512722993f3706383e6e0] (1) No complaint may be made under section 43 of the 1948 Act on or after the appointed day, not even—
 
 - (a) in respect of assistance given, or applied for, before that day, or
 - (b) in respect of expenditure incurred by virtue of section 47 of that Act—
@@ -63,7 +63,7 @@ Section 147(6)
 
 ### Recovery of expenditure incurred under section 47(8) of the 1948 Act
 
-**3.**[^key-d385aaa6b12c8e9b8d14c14690476e01][^key-c12b93e435c31dc78c600bd8985615cb] (1) Sub-paragraphs (3) to (5) apply in relation to expenditure incurred under section 47(8) of the 1948 Act in connection with the maintenance of any particular person (“A”).
+**3.**[^c-d385aaa6b12c8e9b8d14c14690476e01][^c-c12b93e435c31dc78c600bd8985615cb] (1) Sub-paragraphs (3) to (5) apply in relation to expenditure incurred under section 47(8) of the 1948 Act in connection with the maintenance of any particular person (“A”).
 
 (2) In sub-paragraphs (3) to (5) “**liability proceedings**” means proceedings for the expenditure's recovery under section 47(9) of the 1948 Act from a person other than A if the proceedings are brought against that other person (“B”) on account of B having, at a time before the appointed day, been for the purposes of the 1948 Act liable to maintain A.
 
@@ -80,7 +80,7 @@ Section 147(6)
 
 ### Recovery of expenses incurred under section 48 of the 1948 Act
 
-**4.**[^key-b0b3c24a9d29ffd9f2b650ee7042a065][^key-12150066d0218fa02d632707e44af08e] (1) Sub-paragraphs (3) to (5) apply in relation to reasonable expenses incurred under section 48(1) and (2) of the 1948 Act in relation to a person (“C”) admitted, or removed, as mentioned in section 48(1) of that Act.
+**4.**[^c-b0b3c24a9d29ffd9f2b650ee7042a065][^c-12150066d0218fa02d632707e44af08e] (1) Sub-paragraphs (3) to (5) apply in relation to reasonable expenses incurred under section 48(1) and (2) of the 1948 Act in relation to a person (“C”) admitted, or removed, as mentioned in section 48(1) of that Act.
 
 (2) In sub-paragraphs (3) to (5) “**liability proceedings**” means proceedings for the expenses' recovery under section 48(3) of the 1948 Act from a person other than C if the proceedings are brought against that other person (“D”) on account of D having, at a time before the appointed day, been for the purposes of the 1948 Act liable to maintain C.
 
@@ -97,7 +97,7 @@ Section 147(6)
 
 ### Prosecutions under section 51 of the 1948 Act
 
-**5.**[^key-7751258b218bfe6f4b8e4dfe415c8688][^key-ccf86e7c1386b61133f9dadd64193bfc] (1) Sub-paragraph (2) applies in relation to an offence under section 51 of the 1948 Act (offence where accommodation is provided under Part 3 of that Act in consequence of persistent refusal or neglect to maintain a person), other than an offence in respect of accommodation being provided to a person in consequence of that person's persistent refusal or neglect to maintain himself.
+**5.**[^c-7751258b218bfe6f4b8e4dfe415c8688][^c-ccf86e7c1386b61133f9dadd64193bfc] (1) Sub-paragraph (2) applies in relation to an offence under section 51 of the 1948 Act (offence where accommodation is provided under Part 3 of that Act in consequence of persistent refusal or neglect to maintain a person), other than an offence in respect of accommodation being provided to a person in consequence of that person's persistent refusal or neglect to maintain himself.
 
 (2) Proceedings for the offence may be begun or continued on or after the appointed day, but only if the accommodation provided in consequence of the refusal or neglect (or alleged refusal or neglect) began to be provided before the appointed day.
 
@@ -105,7 +105,7 @@ Section 147(6)
 
 ### Transitional cases under paragraph 19(1) of Schedule 6 to the 1948 Act
 
-**6.**[^key-1d8b5a9c4ab7124612d40383f9e98f93][^key-7a8a7dd18c3744cc43a1b780185ad1f9] (1) Sub-paragraphs (2) and (3) apply where—
+**6.**[^c-1d8b5a9c4ab7124612d40383f9e98f93][^c-7a8a7dd18c3744cc43a1b780185ad1f9] (1) Sub-paragraphs (2) and (3) apply where—
 
 - (a) a person was by virtue of an enactment repealed by the 1948 Act under a liability (whether under an order of a court or otherwise) to maintain another person,
 - (b) on the repeal of that enactment by the 1948 Act, that liability was saved by the operation of section 38(2) of the Interpretation Act 1889 (c. 63), and
@@ -122,7 +122,7 @@ Section 147(6)
 
 ### Transitional cases under paragraph 19(2) of Schedule 6 to the 1948 Act
 
-**7.**[^key-d2a210456ac5b93204133d31d2ba4e61][^key-1b72a48603a579217e6d741219dffa89] (1) Sub-paragraphs (2) and (3) apply where an order of court, or agreement, such as is mentioned in sub-paragraph (2) of paragraph 19 of Schedule 6 to the 1948 Act has effect at any time on or after 5 July 1948 by virtue of that sub-paragraph.
+**7.**[^c-d2a210456ac5b93204133d31d2ba4e61][^c-1b72a48603a579217e6d741219dffa89] (1) Sub-paragraphs (2) and (3) apply where an order of court, or agreement, such as is mentioned in sub-paragraph (2) of paragraph 19 of Schedule 6 to the 1948 Act has effect at any time on or after 5 July 1948 by virtue of that sub-paragraph.
 
 (2) If the order or agreement has not ceased to have effect before the appointed day, it ceases to have effect as from the beginning of that day; but this is subject to sub-paragraph (3).
 
@@ -135,7 +135,7 @@ Section 147(6)
 
 ### Recovery of expenses under section 46 of the Public Health (Control of Disease) Act 1984
 
-**8.**[^key-fff470429910d021a8b4b133c5b802bd][^key-7062d13e5bfbe690a446804f7a31cba0] (1) Sub-paragraphs (3) to (5) apply in relation to expenses incurred under subsection (1) or (2) of section 46 of the Public Health (Control of Disease) Act 1984 (c. 22) in relation to a person (“E”) whose body has been buried, or cremated, as mentioned in that subsection.
+**8.**[^c-fff470429910d021a8b4b133c5b802bd][^c-7062d13e5bfbe690a446804f7a31cba0] (1) Sub-paragraphs (3) to (5) apply in relation to expenses incurred under subsection (1) or (2) of section 46 of the Public Health (Control of Disease) Act 1984 (c. 22) in relation to a person (“E”) whose body has been buried, or cremated, as mentioned in that subsection.
 
 (2) In sub-paragraphs (3) to (5) “**liability proceedings**” means proceedings for the expenses' recovery under section 46(5) of that Act from a person (“F”) on account of F having, at a time before the appointed day, been for the purposes of the 1948 Act liable to maintain E.
 
@@ -152,34 +152,34 @@ Section 147(6)
 
 ## Annotations
 
-[^key-499f3cef4a2d35a77aea590b84dce433]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/1) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-499f3cef4a2d35a77aea590b84dce433]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/1) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-667348f51229040716a6b9946e6a2eb0]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/1) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-667348f51229040716a6b9946e6a2eb0]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/1) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-1a25003d0e9595f57b9d1c5ad62ff17e]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/2) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-1a25003d0e9595f57b9d1c5ad62ff17e]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/2) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-d544676a8a9512722993f3706383e6e0]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/2) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-d544676a8a9512722993f3706383e6e0]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/2) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-d385aaa6b12c8e9b8d14c14690476e01]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/3) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-d385aaa6b12c8e9b8d14c14690476e01]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/3) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-c12b93e435c31dc78c600bd8985615cb]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/3) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-c12b93e435c31dc78c600bd8985615cb]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/3) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-b0b3c24a9d29ffd9f2b650ee7042a065]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/4) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-b0b3c24a9d29ffd9f2b650ee7042a065]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/4) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-12150066d0218fa02d632707e44af08e]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/4) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-12150066d0218fa02d632707e44af08e]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/4) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-7751258b218bfe6f4b8e4dfe415c8688]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/5) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-7751258b218bfe6f4b8e4dfe415c8688]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/5) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-ccf86e7c1386b61133f9dadd64193bfc]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/5) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-ccf86e7c1386b61133f9dadd64193bfc]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/5) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-1d8b5a9c4ab7124612d40383f9e98f93]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/6) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-1d8b5a9c4ab7124612d40383f9e98f93]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/6) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-7a8a7dd18c3744cc43a1b780185ad1f9]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/6) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-7a8a7dd18c3744cc43a1b780185ad1f9]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/6) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-d2a210456ac5b93204133d31d2ba4e61]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/7) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-d2a210456ac5b93204133d31d2ba4e61]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/7) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-1b72a48603a579217e6d741219dffa89]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/7) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-1b72a48603a579217e6d741219dffa89]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/7) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
 
-[^key-fff470429910d021a8b4b133c5b802bd]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/8) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
+[^c-fff470429910d021a8b4b133c5b802bd]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/8) in force at 6.4.2009 for W. by [S.I. 2009/631](https://www.legislation.gov.uk/wsi/2009/631), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/631/article/2/b)
 
-[^key-7062d13e5bfbe690a446804f7a31cba0]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/8) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)
+[^c-7062d13e5bfbe690a446804f7a31cba0]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13/paragraph/8) in force at 6.4.2009 except in relation to local authorities in W. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/462/article/4/b)

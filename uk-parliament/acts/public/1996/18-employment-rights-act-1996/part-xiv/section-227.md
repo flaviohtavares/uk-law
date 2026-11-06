@@ -29,7 +29,7 @@ summary: ''
 - (ba)[^c20045651] an award under section 112(5), or
 - (c)[^c16337211] a redundancy payment,
 
-the amount of a week’s pay shall not exceed £751[^key-213be2eba5f615b1f4b36507525a232f].
+the amount of a week’s pay shall not exceed £751[^c-213be2eba5f615b1f4b36507525a232f].
 
 (2)[^c16337231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -61,6 +61,6 @@ the amount of a week’s pay shall not exceed £751[^key-213be2eba5f615b1f4b3650
 
 [^c16337211]: Modification: S. 227(1)(c) excluded (4.3.1998) by [S.I. 1998/192](https://www.legislation.gov.uk/uksi/1998/192), [reg. 37(1)](https://www.legislation.gov.uk/uksi/1998/192/regulation/37/1)
 
-[^key-213be2eba5f615b1f4b36507525a232f]: Textual amendment: Sum in [s. 227(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/227/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-213be2eba5f615b1f4b36507525a232f]: Textual amendment: Sum in [s. 227(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/227/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
 
 [^c16337231]: Textual amendment: S. 227(2)-(4) repealed (17.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [ss. 36(1)(3)](https://www.legislation.gov.uk/ukpga/1999/26/section/36/1/3), [44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(10)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/10); [S.I. 1999/3374](https://www.legislation.gov.uk/uksi/1999/3374), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/1999/3374/article/2/b/c), [Sch.](https://www.legislation.gov.uk/uksi/1999/3374/schedule)

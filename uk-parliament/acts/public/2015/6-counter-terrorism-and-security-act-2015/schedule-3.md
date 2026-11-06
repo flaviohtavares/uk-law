@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Temporary exclusion orders: proceedings[^key-fbdcaf2bf2c5dbb7b0d98f2058aab8b9]
+## SCHEDULE 3 — Temporary exclusion orders: proceedings[^c-fbdcaf2bf2c5dbb7b0d98f2058aab8b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -207,4 +207,4 @@ of the identity of the relevant individual or of any information that would tend
 
 ## Annotations
 
-[^key-fbdcaf2bf2c5dbb7b0d98f2058aab8b9]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2015/6/schedule/3) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(e)](https://www.legislation.gov.uk/uksi/2017/982/article/2/e), [Sch. 5](https://www.legislation.gov.uk/uksi/2017/982/schedule/5)
+[^c-fbdcaf2bf2c5dbb7b0d98f2058aab8b9]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2015/6/schedule/3) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(e)](https://www.legislation.gov.uk/uksi/2017/982/article/2/e), [Sch. 5](https://www.legislation.gov.uk/uksi/2017/982/schedule/5)

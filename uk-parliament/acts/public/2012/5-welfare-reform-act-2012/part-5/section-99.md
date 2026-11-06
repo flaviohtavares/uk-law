@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Powers to require information relating to claims and awards[^key-6ea75af1a828a4ad83072d51494af9c4]
+## 99. Powers to require information relating to claims and awards[^c-6ea75af1a828a4ad83072d51494af9c4]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea75af1a828a4ad83072d51494af9c4]: Commencement: S. 99 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/35)
+[^c-6ea75af1a828a4ad83072d51494af9c4]: Commencement: S. 99 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/35)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Deduction of trade union subscriptions from wages in public sector[^key-ad532eac0c1eb5a7ba4aff97352f5753]
+## 63. Deduction of trade union subscriptions from wages in public sector[^c-ad532eac0c1eb5a7ba4aff97352f5753]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad532eac0c1eb5a7ba4aff97352f5753]: Commencement: S. 63 in force at 18.2.2026, see [s. 159(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/c) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/5))
+[^c-ad532eac0c1eb5a7ba4aff97352f5753]: Commencement: S. 63 in force at 18.2.2026, see [s. 159(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/c) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/5))

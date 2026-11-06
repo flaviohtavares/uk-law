@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Interference with notices etc.[^key-b3ae7eb50ebdfea6f560e434ee37703f]
+## 143. Interference with notices etc.[^c-b3ae7eb50ebdfea6f560e434ee37703f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any person who without lawful authority destroys, mutilates, defaces or removes 
 
 ## Annotations
 
-[^key-b3ae7eb50ebdfea6f560e434ee37703f]: Commencement: Art. 143 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-b3ae7eb50ebdfea6f560e434ee37703f]: Commencement: Art. 143 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

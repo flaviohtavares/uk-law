@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Designation etc[^key-778e4e354634f3a645ef82ce5327ae23][^key-9ff8ff3c3d562eaeda84ceadc263f2a1]
+## 162. Designation etc[^c-778e4e354634f3a645ef82ce5327ae23][^c-9ff8ff3c3d562eaeda84ceadc263f2a1]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-778e4e354634f3a645ef82ce5327ae23]: Commencement: S. 162 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-778e4e354634f3a645ef82ce5327ae23]: Commencement: S. 162 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-9ff8ff3c3d562eaeda84ceadc263f2a1]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2023/52/section/162) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/i)
+[^c-9ff8ff3c3d562eaeda84ceadc263f2a1]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2023/52/section/162) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/i)

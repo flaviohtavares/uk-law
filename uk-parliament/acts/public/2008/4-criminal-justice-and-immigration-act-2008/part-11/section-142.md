@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Notification requirements: prescribed information[^key-618fd15f93c6a6dfd84bab9c3f626bea]
+## 142. Notification requirements: prescribed information[^c-618fd15f93c6a6dfd84bab9c3f626bea]
 
 *Extent: E+W+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-618fd15f93c6a6dfd84bab9c3f626bea]: Commencement: S. 142 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/45)
+[^c-618fd15f93c6a6dfd84bab9c3f626bea]: Commencement: S. 142 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/45)

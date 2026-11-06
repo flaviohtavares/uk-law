@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Persons who may be recalled under Part VII.[^key-ded485b047fb2e5cf7a9293f46e88b35]
+## 66. Persons who may be recalled under Part VII.[^c-ded485b047fb2e5cf7a9293f46e88b35]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ unless he is excluded (whether permanently or temporarily) by any provision of t
 (2) This section does not apply to any person falling within subsection (1)(b)—
 
 - (a) after he has attained the age of 55;
-- (b) in the case of a person who was discharged or transferred to the reserve from the regular army or the Royal Air Force[^key-7fa2fd5e42be217e501aff6bd39c12af], after the end of the period of 18 years beginning with the day on which he was so discharged or transferred; or
+- (b) in the case of a person who was discharged or transferred to the reserve from the regular army or the Royal Air Force[^c-7fa2fd5e42be217e501aff6bd39c12af], after the end of the period of 18 years beginning with the day on which he was so discharged or transferred; or
 - (c) in the case of a person who was discharged or transferred to the reserve from the Royal Navy or the Royal Marines, after the end of the period of 6 years beginning with the day on which he was so discharged or transferred.
 
 (3) The re-enlistment of a person falling within subsection (1)(b) in the regular services shall prevent or, as the case may be, shall terminate any application of this section to him by reference to an earlier discharge or transfer to the reserve.
@@ -56,6 +56,6 @@ unless he is excluded (whether permanently or temporarily) by any provision of t
 
 ## Annotations
 
-[^key-ded485b047fb2e5cf7a9293f46e88b35]: Modification: Pts. 4-7 modified (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [8(8)(b)](https://www.legislation.gov.uk/uksi/2009/1091/regulation/8/8/b)
+[^c-ded485b047fb2e5cf7a9293f46e88b35]: Modification: Pts. 4-7 modified (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [8(8)(b)](https://www.legislation.gov.uk/uksi/2009/1091/regulation/8/8/b)
 
-[^key-7fa2fd5e42be217e501aff6bd39c12af]: Textual amendment: Words in s. 66(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/37); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7fa2fd5e42be217e501aff6bd39c12af]: Textual amendment: Words in s. 66(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/37); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

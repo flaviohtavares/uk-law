@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Power to execute street works[^key-827d850c3cdb36b24ce737a771db2e5c]
+## 9. Power to execute street works[^c-827d850c3cdb36b24ce737a771db2e5c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ LUL may, for the purposes of and to the extent necessary for the construction of
 
 ## Annotations
 
-[^key-827d850c3cdb36b24ce737a771db2e5c]: Commencement: Art. 9 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-827d850c3cdb36b24ce737a771db2e5c]: Commencement: Art. 9 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**52.**[^key-1321508d0b8a1904e96e6a33f59fc2a9] In regulation 55 (report of receipt of excise goods imported under duty suspension arrangements when computerised system unavailable)—
+**52.**[^c-1321508d0b8a1904e96e6a33f59fc2a9] In regulation 55 (report of receipt of excise goods imported under duty suspension arrangements when computerised system unavailable)—
 
 - (a) in the heading and in paragraphs (1) and 3) insert “EU” before “computerised system”;
 - (b) in paragraph (2) insert “EU” before “Member State”.
 
 ## Annotations
 
-[^key-1321508d0b8a1904e96e6a33f59fc2a9]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-1321508d0b8a1904e96e6a33f59fc2a9]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

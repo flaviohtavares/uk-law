@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Rates[^M_I_6bf07e36-0dbd-4ecb-a03b-c0f0799e5277][^key-3197d62b8fc91596e999cdd5f70d0284]
+## 48. Rates[^M_I_6bf07e36-0dbd-4ecb-a03b-c0f0799e5277][^c-3197d62b8fc91596e999cdd5f70d0284]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_6bf07e36-0dbd-4ecb-a03b-c0f0799e5277]: Commencement: S. 48 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-3197d62b8fc91596e999cdd5f70d0284]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/30/section/48) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-3197d62b8fc91596e999cdd5f70d0284]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/30/section/48) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

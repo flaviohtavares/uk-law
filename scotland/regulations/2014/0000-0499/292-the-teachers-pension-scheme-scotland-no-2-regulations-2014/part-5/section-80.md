@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Re-qualifying for retirement benefits in respect of post-benefit service[^key-30282f9cf18ec3c7444eac50614f3fd3]
+## 80. Re-qualifying for retirement benefits in respect of post-benefit service[^c-30282f9cf18ec3c7444eac50614f3fd3]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30282f9cf18ec3c7444eac50614f3fd3]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2014/292/regulation/80) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-30282f9cf18ec3c7444eac50614f3fd3]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2014/292/regulation/80) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00023]: Footnote: Regulation 183(4) provides for extinguishment of rights following the refund of the member’s contributions. Regulation 197(6) provides for extinguishment of rights following a transfer value payment.

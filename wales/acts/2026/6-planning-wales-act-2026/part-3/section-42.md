@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Overview of this Part[^key-50e8e72f27ca6bca55526c688ee83247]
+## 42. Overview of this Part[^c-50e8e72f27ca6bca55526c688ee83247]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50e8e72f27ca6bca55526c688ee83247]: Commencement: S. 42 in force at 28.4.2026, see [s. 409(1)(b)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/b)
+[^c-50e8e72f27ca6bca55526c688ee83247]: Commencement: S. 42 in force at 28.4.2026, see [s. 409(1)(b)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/b)

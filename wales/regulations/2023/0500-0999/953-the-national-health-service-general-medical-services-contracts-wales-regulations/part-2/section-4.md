@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Conditions: general[^key-efd161b92323e40416189cf051e5157c]
+## 4. Conditions: general[^c-efd161b92323e40416189cf051e5157c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Local Heath Board may only enter into a contract if the conditions specified
 
 ## Annotations
 
-[^key-efd161b92323e40416189cf051e5157c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/953/regulation/4) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-efd161b92323e40416189cf051e5157c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/953/regulation/4) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

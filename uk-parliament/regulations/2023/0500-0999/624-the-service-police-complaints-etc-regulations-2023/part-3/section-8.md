@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Application of this Part[^key-e649b6ba14a762f3be9bfae94773f325]
+## 8. Application of this Part[^c-e649b6ba14a762f3be9bfae94773f325]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e649b6ba14a762f3be9bfae94773f325]: Commencement: Reg. 8 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-e649b6ba14a762f3be9bfae94773f325]: Commencement: Reg. 8 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00012]: Footnote: See section 375(1A) of the 2006 Act for the meaning of “tri-service serious crime unit”.

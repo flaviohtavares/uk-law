@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Subsidies and schemes in primary legislation[^key-3026e3bf591d89c4bc51963202a146e3][^key-e319dc3883277ae244706039954699ec]
+## 78. Subsidies and schemes in primary legislation[^c-3026e3bf591d89c4bc51963202a146e3][^c-e319dc3883277ae244706039954699ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3026e3bf591d89c4bc51963202a146e3]: Commencement: S. 78 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-3026e3bf591d89c4bc51963202a146e3]: Commencement: S. 78 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-e319dc3883277ae244706039954699ec]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/23/section/78) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-e319dc3883277ae244706039954699ec]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/23/section/78) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — RELEVANT INSTITUTIONS OF HIGHER EDUCATION IN THE REPUBLIC OF IRELAND[^key-30b11e59d5255b5ec17e33d9c588b478]
+## SCHEDULE 6 — RELEVANT INSTITUTIONS OF HIGHER EDUCATION IN THE REPUBLIC OF IRELAND[^c-30b11e59d5255b5ec17e33d9c588b478]
 
 *Extent: N.I.*
 
 Regulation 2(1)
 
-[^key-30b11e59d5255b5ec17e33d9c588b478]
+[^c-30b11e59d5255b5ec17e33d9c588b478]
 
 - All Hallows College, Drumcondra
 - Carlow College (St. Patrick’s)
@@ -69,4 +69,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-30b11e59d5255b5ec17e33d9c588b478]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-30b11e59d5255b5ec17e33d9c588b478]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

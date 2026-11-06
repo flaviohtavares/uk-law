@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Hospital patients[^key-83c0c7f804d78c6c564768f56d50ef2c]
+## 25. Hospital patients[^c-83c0c7f804d78c6c564768f56d50ef2c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83c0c7f804d78c6c564768f56d50ef2c]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/nisr/2008/280/regulation/25) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2013/2/regulation/3/4)
+[^c-83c0c7f804d78c6c564768f56d50ef2c]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/nisr/2008/280/regulation/25) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2013/2/regulation/3/4)

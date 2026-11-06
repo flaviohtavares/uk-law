@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Meaning of “owner”[^key-717fb49fa9cb028a987557fbd07b4982]
+## 88. Meaning of “owner”[^c-717fb49fa9cb028a987557fbd07b4982]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Act, “**owner**”, in relation to any land, means the person who has 
 
 ## Annotations
 
-[^key-717fb49fa9cb028a987557fbd07b4982]: Commencement: S. 88 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-717fb49fa9cb028a987557fbd07b4982]: Commencement: S. 88 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

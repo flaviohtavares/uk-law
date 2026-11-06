@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Definition of personal portfolio bond (applying to all policies or contracts whenever issued or made)[^key-30c18ae70645594c7124124e97e66d82]
+## 185. Definition of personal portfolio bond (applying to all policies or contracts whenever issued or made)[^c-30c18ae70645594c7124124e97e66d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 4(4)(c) (definition of personal portfolio bond (applying to all po
 
 ## Annotations
 
-[^key-30c18ae70645594c7124124e97e66d82]: Commencement: Art. 185 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-30c18ae70645594c7124124e97e66d82]: Commencement: Art. 185 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

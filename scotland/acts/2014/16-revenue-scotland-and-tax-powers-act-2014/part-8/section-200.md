@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 200. Failure to comply with time limit[^key-e23619322808988ef9a5947fb4914624]
+## 200. Failure to comply with time limit[^c-e23619322808988ef9a5947fb4914624]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A failure by a person to do anything required to be done within a limited period
 
 ## Annotations
 
-[^key-e23619322808988ef9a5947fb4914624]: Commencement: [S. 200](https://www.legislation.gov.uk/asp/2014/16/section/200) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-e23619322808988ef9a5947fb4914624]: Commencement: [S. 200](https://www.legislation.gov.uk/asp/2014/16/section/200) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Protection of pupils in an emergency[^key-35b5737e142f6280aeaa8d01940ac106]
+## 144. Protection of pupils in an emergency[^c-35b5737e142f6280aeaa8d01940ac106]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 342 of the Education Act 1996 (c. 56) insert—
 
 ## Annotations
 
-[^key-35b5737e142f6280aeaa8d01940ac106]: Commencement: S. 144 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-35b5737e142f6280aeaa8d01940ac106]: Commencement: S. 144 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)

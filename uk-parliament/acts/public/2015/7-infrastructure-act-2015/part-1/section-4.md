@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Route strategies[^key-33dc5cd1194d49129049ca36a404ae58]
+## 4. Route strategies[^c-33dc5cd1194d49129049ca36a404ae58]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33dc5cd1194d49129049ca36a404ae58]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/7/section/4) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-33dc5cd1194d49129049ca36a404ae58]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/7/section/4) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

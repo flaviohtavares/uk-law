@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Seizure power[^key-0404c0d670179f61bceddd693ba7994b][^key-98d00f5415f4bcaee232945a6f3f706a]
+## 61. Seizure power[^c-0404c0d670179f61bceddd693ba7994b][^c-98d00f5415f4bcaee232945a6f3f706a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0404c0d670179f61bceddd693ba7994b]: Commencement: Reg. 61 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-0404c0d670179f61bceddd693ba7994b]: Commencement: Reg. 61 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-98d00f5415f4bcaee232945a6f3f706a]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2020/1278/regulation/61) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-98d00f5415f4bcaee232945a6f3f706a]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2020/1278/regulation/61) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

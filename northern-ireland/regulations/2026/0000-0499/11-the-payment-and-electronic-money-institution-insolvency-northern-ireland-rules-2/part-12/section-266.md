@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 266. Omission of unobtainable information[^key-c078c10f878728ec4ceda4dc20a68bcb]
+## 266. Omission of unobtainable information[^c-c078c10f878728ec4ceda4dc20a68bcb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Information required under rule 264 or 265 of these Rules to be included in a no
 
 ## Annotations
 
-[^key-c078c10f878728ec4ceda4dc20a68bcb]: Commencement: [Rule 266](https://www.legislation.gov.uk/nisr/2026/11/rule/266) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c078c10f878728ec4ceda4dc20a68bcb]: Commencement: [Rule 266](https://www.legislation.gov.uk/nisr/2026/11/rule/266) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

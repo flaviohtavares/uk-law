@@ -38,8 +38,8 @@ and where the sheriff by whom he was originally remanded has recorded a finding 
 
 (4) Any direction in any enactment that a charge shall be brought before a juvenile court shall be construed as a direction that he shall be brought before the sheriff sitting as a court of summary jurisdiction, and no such direction shall be construed as restricting the powers of any justice or justices to entertain an application for bail or for a remand, and to hear such evidence as may be necessary for that purpose.
 
-(5) This section does not apply to summary proceedings before the sheriff in respect of an offence where a child has been charged jointly with a person who is not a child : but see section 142A[^key-9a4206296786cfa252a5c0cdf383a6d9].
+(5) This section does not apply to summary proceedings before the sheriff in respect of an offence where a child has been charged jointly with a person who is not a child : but see section 142A[^c-9a4206296786cfa252a5c0cdf383a6d9].
 
 ## Annotations
 
-[^key-9a4206296786cfa252a5c0cdf383a6d9]: Textual amendment: Words in [s. 142(5)](https://www.legislation.gov.uk/ukpga/1995/46/section/142/5) inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(4)](https://www.legislation.gov.uk/asp/2024/5/section/16/4), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)
+[^c-9a4206296786cfa252a5c0cdf383a6d9]: Textual amendment: Words in [s. 142(5)](https://www.legislation.gov.uk/ukpga/1995/46/section/142/5) inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(4)](https://www.legislation.gov.uk/asp/2024/5/section/16/4), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)

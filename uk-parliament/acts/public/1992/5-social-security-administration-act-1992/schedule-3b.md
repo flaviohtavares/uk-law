@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3B — Eligibility verification[^key-36d7f5348449c143f988a96057721175]
+## Schedule 3B — Eligibility verification[^c-36d7f5348449c143f988a96057721175]
 
 *Extent: E+W+S+N.I.*
 
@@ -515,4 +515,4 @@ Nothing in this Schedule limits the powers conferred on the Secretary of State b
 
 ## Annotations
 
-[^key-36d7f5348449c143f988a96057721175]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3B) inserted (2.12.2025 but only for the purposes of making regulations, 2.2.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/3/part/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/c)
+[^c-36d7f5348449c143f988a96057721175]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3B) inserted (2.12.2025 but only for the purposes of making regulations, 2.2.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/3/part/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/c)

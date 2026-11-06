@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 57. Work in other capacities: adverse findings[^key-b0e11e46cdf55b173bc3498e99e4d44c]
+## 57. Work in other capacities: adverse findings[^c-b0e11e46cdf55b173bc3498e99e4d44c]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e11e46cdf55b173bc3498e99e4d44c]: Commencement: S. 57 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-b0e11e46cdf55b173bc3498e99e4d44c]: Commencement: S. 57 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

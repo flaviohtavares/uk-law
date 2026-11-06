@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Land rights and responsibilities statement[^key-9d06d775785e973139e9a1d4058ef685]
+## 1. Land rights and responsibilities statement[^c-9d06d775785e973139e9a1d4058ef685]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (c) encouraging equal opportunities (within the meaning of Section L2 of Part 2 of schedule 5 of the Scotland Act 1998),
 - (d) furthering the reduction of inequalities of outcome which result from socio-economic disadvantage,
 - (e) supporting and facilitating community empowerment,
-- (ea)[^key-8ba9afe1d67128b35d0714aa1d12964f] promoting, facilitating and supporting the Gaelic language,
+- (ea)[^c-8ba9afe1d67128b35d0714aa1d12964f] promoting, facilitating and supporting the Gaelic language,
 - (f) increasing the diversity of land ownership, and
 - (g) furthering the achievement of sustainable development in relation to land.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d06d775785e973139e9a1d4058ef685]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/18/section/1) in force at 1.10.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/2)
+[^c-9d06d775785e973139e9a1d4058ef685]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/18/section/1) in force at 1.10.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/2)
 
-[^key-8ba9afe1d67128b35d0714aa1d12964f]: Textual amendment: [S. 1(3)(ea)](https://www.legislation.gov.uk/asp/2016/18/section/1/3/ea) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 14(2)](https://www.legislation.gov.uk/asp/2025/10/section/14/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-8ba9afe1d67128b35d0714aa1d12964f]: Textual amendment: [S. 1(3)(ea)](https://www.legislation.gov.uk/asp/2016/18/section/1/3/ea) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 14(2)](https://www.legislation.gov.uk/asp/2025/10/section/14/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)

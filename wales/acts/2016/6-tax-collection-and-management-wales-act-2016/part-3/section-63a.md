@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63A. Claim for relief in respect of land transaction tax: regulations ceasing to have effect[^key-0511b7d7055b707b8b331dd17ef0e09f]
+## 63A. Claim for relief in respect of land transaction tax: regulations ceasing to have effect[^c-0511b7d7055b707b8b331dd17ef0e09f]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the buyer in the transaction may make a claim to WRA for the discharge or repaym
 
 ## Annotations
 
-[^key-0511b7d7055b707b8b331dd17ef0e09f]: Textual amendment: [S. 63A](https://www.legislation.gov.uk/anaw/2016/6/section/63A) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/24); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0511b7d7055b707b8b331dd17ef0e09f]: Textual amendment: [S. 63A](https://www.legislation.gov.uk/anaw/2016/6/section/63A) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/24); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

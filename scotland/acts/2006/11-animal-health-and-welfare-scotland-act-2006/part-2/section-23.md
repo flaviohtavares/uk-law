@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Animal fights[^key-859c9a0e880526ad60124e358b518e6c]
+## 23. Animal fights[^c-859c9a0e880526ad60124e358b518e6c]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-859c9a0e880526ad60124e358b518e6c]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/11/section/23) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-859c9a0e880526ad60124e358b518e6c]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/11/section/23) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

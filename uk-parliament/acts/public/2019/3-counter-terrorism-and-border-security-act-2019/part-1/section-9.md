@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Extended sentences etc for terrorism offences: England and Wales[^key-bb370e1d6015762c49cc88c9bc819a55]
+## 9. Extended sentences etc for terrorism offences: England and Wales[^c-bb370e1d6015762c49cc88c9bc819a55]
 
 *Extent: E+W*
 
@@ -29,9 +29,9 @@ summary: ''
 
   > “**specified terrorism offence**” means an offence specified in Part 3 of that Schedule.
 
-(3)[^key-d4c1d79d694ced98a75e609117312841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d4c1d79d694ced98a75e609117312841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d4c1d79d694ced98a75e609117312841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d4c1d79d694ced98a75e609117312841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Schedule 15 (specified offences for the purposes of certain sentencing provisions in Chapter 5 of Part 12, relating to dangerous offenders), after Part 2 insert—
 
@@ -176,6 +176,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb370e1d6015762c49cc88c9bc819a55]: Modification: S. 9 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-bb370e1d6015762c49cc88c9bc819a55]: Modification: S. 9 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-d4c1d79d694ced98a75e609117312841]: Textual amendment: [S. 9(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/9/3)[(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/9/4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d4c1d79d694ced98a75e609117312841]: Textual amendment: [S. 9(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/9/3)[(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/9/4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

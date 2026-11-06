@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Power to modify licence conditions[^key-d794765e570a6d1f7d2e89288fc95ac0]
+## 134. Power to modify licence conditions[^c-d794765e570a6d1f7d2e89288fc95ac0]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d794765e570a6d1f7d2e89288fc95ac0]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2004/20/section/134) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-d794765e570a6d1f7d2e89288fc95ac0]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2004/20/section/134) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

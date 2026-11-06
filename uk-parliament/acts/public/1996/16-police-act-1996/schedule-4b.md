@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4B — The Police Remuneration Review Body[^key-61fd921e7b467c22fdc4b8d15a77d606]
+## SCHEDULE 4B — The Police Remuneration Review Body[^c-61fd921e7b467c22fdc4b8d15a77d606]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ Section 64A
 
 **8.** (1) The Prime Minister may by written notice dismiss the chair on the ground that—
 
-- (a) the chair has been made[^key-4ef6d6ad36362a8971466c579dde08b9] bankrupt, has been made the subject of a debt relief order (under Part 7A of the Insolvency Act 1986) or has made an arrangement with creditors;
+- (a) the chair has been made[^c-4ef6d6ad36362a8971466c579dde08b9] bankrupt, has been made the subject of a debt relief order (under Part 7A of the Insolvency Act 1986) or has made an arrangement with creditors;
 - (b) in the opinion of the Prime Minister the chair is unable, unfit or unwilling to perform—
   - (i) the functions of chair, or
   - (ii) the functions of a member.
@@ -68,7 +68,7 @@ Section 64A
 
 **9.** (1) The Secretary of State may by written notice dismiss the deputy chair on the ground that—
 
-- (a) the deputy chair has been made[^key-f12d64e335599d73e93b2d5314d67d86] bankrupt, has been made the subject of a debt relief order (under Part 7A of the Insolvency Act 1986) or has made an arrangement with creditors;
+- (a) the deputy chair has been made[^c-f12d64e335599d73e93b2d5314d67d86] bankrupt, has been made the subject of a debt relief order (under Part 7A of the Insolvency Act 1986) or has made an arrangement with creditors;
 - (b) in the opinion of the Secretary of State the deputy chair is unable, unfit or unwilling to perform—
   - (i) the functions of deputy chair, or
   - (ii) the functions of a member.
@@ -80,7 +80,7 @@ Section 64A
 
 **10.** The Secretary of State may by written notice dismiss a member other than the chair or deputy chair on the ground that—
 
-- (a) the member has been made[^key-ddc71770ad2adac1aa258e8380a4adad] bankrupt, has been made the subject of a debt relief order (under Part 7A of the Insolvency Act 1986) or has made an arrangement with creditors, or
+- (a) the member has been made[^c-ddc71770ad2adac1aa258e8380a4adad] bankrupt, has been made the subject of a debt relief order (under Part 7A of the Insolvency Act 1986) or has made an arrangement with creditors, or
 - (b) in the opinion of the Secretary of State the member is unable, unfit or unwilling to perform the functions of a member.
 
 ### Procedure
@@ -141,10 +141,10 @@ Section 64A
 
 ## Annotations
 
-[^key-61fd921e7b467c22fdc4b8d15a77d606]: Textual amendment: Sch. 4B inserted (E.W.N.I.) (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 132(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/132/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/12/schedule/7) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
+[^c-61fd921e7b467c22fdc4b8d15a77d606]: Textual amendment: Sch. 4B inserted (E.W.N.I.) (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 132(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/132/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/12/schedule/7) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
 
-[^key-4ef6d6ad36362a8971466c579dde08b9]: Textual amendment: Word in Sch. 4B para. 8(1)(a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-4ef6d6ad36362a8971466c579dde08b9]: Textual amendment: Word in Sch. 4B para. 8(1)(a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-f12d64e335599d73e93b2d5314d67d86]: Textual amendment: Word in [Sch. 4B para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/4B/paragraph/9/1/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-f12d64e335599d73e93b2d5314d67d86]: Textual amendment: Word in [Sch. 4B para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/4B/paragraph/9/1/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-ddc71770ad2adac1aa258e8380a4adad]: Textual amendment: Word in [Sch. 4B para. 10(a)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/4B/paragraph/10/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-ddc71770ad2adac1aa258e8380a4adad]: Textual amendment: Word in [Sch. 4B para. 10(a)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/4B/paragraph/10/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power to override easements and other rights[^key-605ae70aeb7f75801a4c1a45371aeb5b]
+## 27. Power to override easements and other rights[^c-605ae70aeb7f75801a4c1a45371aeb5b]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-605ae70aeb7f75801a4c1a45371aeb5b]: Commencement: Art. 27 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-605ae70aeb7f75801a4c1a45371aeb5b]: Commencement: Art. 27 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

@@ -22,9 +22,9 @@ summary: ''
 
 Section 34(4)
 
-**1.**[^key-9e087e5f6111f4edb82493286b719de9] Part 4 of the 2002 Act (market investigations) is amended as follows.
+**1.**[^c-9e087e5f6111f4edb82493286b719de9] Part 4 of the 2002 Act (market investigations) is amended as follows.
 
-**2.**[^key-93de503396800b770ce2b6a403ccd3da] (1) Section 133 (contents of references) is amended as follows.
+**2.**[^c-93de503396800b770ce2b6a403ccd3da] (1) Section 133 (contents of references) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -41,7 +41,7 @@ Section 34(4)
 - (a) in paragraph (a), after “a supply” insert “ or, in the case of a cross-market reference, supplies ”, and
 - (b) in paragraph (b), after “an acquisition” insert “ or, in the case of a cross-market reference, acquisitions ”.
 
-**3.**[^key-9324dc0dd3d022395c7520b81d9ebdcb] (1) Section 134 (questions to be decided on market investigation references) is amended as follows.
+**3.**[^c-9324dc0dd3d022395c7520b81d9ebdcb] (1) Section 134 (questions to be decided on market investigation references) is amended as follows.
 
 (2) In subsection (1), for “a market investigation” substitute “ an ordinary ”.
 
@@ -61,9 +61,9 @@ Section 34(4)
 
 (8) In subsection (8)(a)(i), after “the market” insert “ or markets ”.
 
-**4.**[^key-3b180d5bdbd43583f57718eae49c2993] In section 138 (duty to remedy adverse effects), in subsection (5), after “the market” insert “ or markets ”.
+**4.**[^c-3b180d5bdbd43583f57718eae49c2993] In section 138 (duty to remedy adverse effects), in subsection (5), after “the market” insert “ or markets ”.
 
-**5.**[^key-8e82fab1f676afe6cda484adfdcde80c] (1) Section 141 (questions to be decided where intervention notice under section 139(1) is in force) is amended as follows.
+**5.**[^c-8e82fab1f676afe6cda484adfdcde80c] (1) Section 141 (questions to be decided where intervention notice under section 139(1) is in force) is amended as follows.
 
 (2) In subsection (2), after “shall” insert “ , on an ordinary reference, ”.
 
@@ -73,11 +73,11 @@ Section 34(4)
 
 (4) In subsection (6), after “the market” insert “ or markets ”.
 
-**6.**[^key-2ecab0682269c7a1a43829233d9562c2] In section 147 (remedial action by the Secretary of State), in subsection (5), after “the market” insert “ or markets ”.
+**6.**[^c-2ecab0682269c7a1a43829233d9562c2] In section 147 (remedial action by the Secretary of State), in subsection (5), after “the market” insert “ or markets ”.
 
-**7.**[^key-42ccfc7e25822a0d03a4c5b606992e87] In section 154 (undertakings in lieu of references), in subsection (4), after “the market” insert “ or markets ”.
+**7.**[^c-42ccfc7e25822a0d03a4c5b606992e87] In section 154 (undertakings in lieu of references), in subsection (4), after “the market” insert “ or markets ”.
 
-**8.**[^key-12ef6573cbccad9a4ac11305c6057738] (1) Section 156 (effect of undertakings under section 154) is amended as follows.
+**8.**[^c-12ef6573cbccad9a4ac11305c6057738] (1) Section 156 (effect of undertakings under section 154) is amended as follows.
 
 (2) Before subsection (1) insert—
 
@@ -95,7 +95,7 @@ Section 34(4)
 
 (4) In subsection (2), for “Subsection (1) does” substitute “ Subsections (A1) and (1) do ”.
 
-**9.**[^key-fc63ca0258cd694705d7494575f077ed] (1) Section 184 (index of defined expressions for Part 4) is amended as follows.
+**9.**[^c-fc63ca0258cd694705d7494575f077ed] (1) Section 184 (index of defined expressions for Part 4) is amended as follows.
 
 (2) In the second column of the entry for “Adverse effect on competition”, after “134(2)” insert “ and (2A) ”.
 
@@ -117,20 +117,20 @@ Section 34(4)
 
 ## Annotations
 
-[^key-9e087e5f6111f4edb82493286b719de9]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9e087e5f6111f4edb82493286b719de9]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-93de503396800b770ce2b6a403ccd3da]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-93de503396800b770ce2b6a403ccd3da]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9324dc0dd3d022395c7520b81d9ebdcb]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9324dc0dd3d022395c7520b81d9ebdcb]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-3b180d5bdbd43583f57718eae49c2993]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-3b180d5bdbd43583f57718eae49c2993]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-8e82fab1f676afe6cda484adfdcde80c]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8e82fab1f676afe6cda484adfdcde80c]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-2ecab0682269c7a1a43829233d9562c2]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/6) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2ecab0682269c7a1a43829233d9562c2]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/6) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-42ccfc7e25822a0d03a4c5b606992e87]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/7) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-42ccfc7e25822a0d03a4c5b606992e87]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/7) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-12ef6573cbccad9a4ac11305c6057738]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/8) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-12ef6573cbccad9a4ac11305c6057738]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/8) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-fc63ca0258cd694705d7494575f077ed]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/9) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-fc63ca0258cd694705d7494575f077ed]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/9/paragraph/9) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

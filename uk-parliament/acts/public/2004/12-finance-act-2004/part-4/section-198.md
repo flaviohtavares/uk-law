@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Spreading of relief: cessation of business[^key-dced2dde7beda7c48dbfa465372dc2a6][^key-a053f031206de6cd959f707e9d17fa88]
+## 198. Spreading of relief: cessation of business[^c-dced2dde7beda7c48dbfa465372dc2a6][^c-a053f031206de6cd959f707e9d17fa88]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ DRP is the number of days in the relevant period.
 
 ## Annotations
 
-[^key-dced2dde7beda7c48dbfa465372dc2a6]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-dced2dde7beda7c48dbfa465372dc2a6]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-a053f031206de6cd959f707e9d17fa88]: Modification: S. 198 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [20](https://www.legislation.gov.uk/uksi/2006/575/regulation/20)
+[^c-a053f031206de6cd959f707e9d17fa88]: Modification: S. 198 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [20](https://www.legislation.gov.uk/uksi/2006/575/regulation/20)

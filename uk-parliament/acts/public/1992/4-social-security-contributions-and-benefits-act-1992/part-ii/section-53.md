@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Special provision for married women.[^key-fafa237a0a02362b579e37fb76901d25]
+## 53. Special provision for married women.[^c-fafa237a0a02362b579e37fb76901d25]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fafa237a0a02362b579e37fb76901d25]: Textual amendment: S. 53 repealed (19.7.1995) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2/a), [Sch. 4 para. 21(6)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7)
+[^c-fafa237a0a02362b579e37fb76901d25]: Textual amendment: S. 53 repealed (19.7.1995) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2/a), [Sch. 4 para. 21(6)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7)

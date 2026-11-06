@@ -44,7 +44,7 @@ Coming into force
 
 6th April 2008
 
-The Secretary of State, in exercise of the powers conferred by sections 2A, 2D, 2F, 59(1) and 74 of the Town and Country Planning Act 1990 [^c19149081], makes the following Order:[^key-444bbadc9a5586bad589b236d6a0f768][^key-a9821a855c94a65a6dbebc92fd1ba1cd]
+The Secretary of State, in exercise of the powers conferred by sections 2A, 2D, 2F, 59(1) and 74 of the Town and Country Planning Act 1990 [^c19149081], makes the following Order:[^c-444bbadc9a5586bad589b236d6a0f768][^c-a9821a855c94a65a6dbebc92fd1ba1cd]
 
 ## 1. Citation, commencement and application
 
@@ -63,15 +63,15 @@ The Secretary of State, in exercise of the powers conferred by sections 2A, 2D, 
 
 - “**the 1990 Act**” means the Town and Country Planning Act 1990;
 - “**the Use Classes Order**” means the Town and Country Planning (Use Classes) Order 1987 [^c19149091];
-- “[^key-3264d0bbcf0874e3325be8875e0f097b]**the DMPO**” means the Town and Country Planning (Development Management Procedure) (England) Order 2015;
+- “[^c-3264d0bbcf0874e3325be8875e0f097b]**the DMPO**” means the Town and Country Planning (Development Management Procedure) (England) Order 2015;
 - “**Category 3J application**” means an application which is a PSI application only by virtue of Category 3J of the Schedule;
-- [^key-24bbb23c52b44f643a482d39198312a1]...
+- [^c-24bbb23c52b44f643a482d39198312a1]...
 - “**a PSI application**” means an application of potential strategic importance as defined in the Schedule; and
 - “**Mayor**” means the Mayor of London.
 
-(2) For the purposes of this Order the date of receipt of a PSI application shall be determined in accordance with article 34(4) and (5) of the DMPO (time periods for decision)[^key-34d2bff9c284819e9b9e5db577965161].
+(2) For the purposes of this Order the date of receipt of a PSI application shall be determined in accordance with article 34(4) and (5) of the DMPO (time periods for decision)[^c-34d2bff9c284819e9b9e5db577965161].
 
-## 3. Land excluded from the application of section 2A[^key-43b90e1dfd65d93b2d525f5ee8eedc03]
+## 3. Land excluded from the application of section 2A[^c-43b90e1dfd65d93b2d525f5ee8eedc03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -88,11 +88,11 @@ The Secretary of State, in exercise of the powers conferred by sections 2A, 2D, 
 - (a) whether he considers that the PSI application complies with the spatial development strategy; and
 - (b) his reasons for taking that view.
 
-(3)[^key-48d192416779dcd3c01b4d814c96dd64] Paragraph (2) does not apply with respect to a Category 3J application.
+(3)[^c-48d192416779dcd3c01b4d814c96dd64] Paragraph (2) does not apply with respect to a Category 3J application.
 
 ## 5. Determination of PSI applications
 
-(1) Subject to paragraphs (1A) and (2)[^key-a8037f19c3307e33d700f37e52b94a31], the local planning authority must not determine a PSI application unless—
+(1) Subject to paragraphs (1A) and (2)[^c-a8037f19c3307e33d700f37e52b94a31], the local planning authority must not determine a PSI application unless—
 
 - (a) the authority has sent to the Mayor—
   - (i) a copy of any representations made to the authority in respect of the application;
@@ -103,7 +103,7 @@ The Secretary of State, in exercise of the powers conferred by sections 2A, 2D, 
   - (i) a period of 14 days has elapsed beginning with the date notified in writing by the Mayor to the authority as the date on which he received the documents referred to in article 5(1)(a); or
   - (ii) the Mayor has notified the local planning authority in writing that he is content for the authority to determine the application in accordance with the statement referred to in sub-paragraph (a)(iii) and, if applicable, the matters referred to in sub-paragraph (a)(iv).
 
-(1A)[^key-23c148039a572ee7d2b54df862717071] Paragraph (1) does not apply with respect to a Category 3J application.
+(1A)[^c-23c148039a572ee7d2b54df862717071] Paragraph (1) does not apply with respect to a Category 3J application.
 
 (1B) In the case of a Category 3J application, the local planning authority must not refuse the application unless—
 
@@ -118,13 +118,13 @@ The Secretary of State, in exercise of the powers conferred by sections 2A, 2D, 
 
 (1C) As soon as practicable after receiving the documents referred to in paragraph (1)(a) or (1B)(a), the Mayor must notify the local planning authority in writing of the date on which he received those documents.
 
-(2) Paragraphs (1) and (1B) do[^key-1b471369d137dc8ea9d0f1bdeadc257d] not apply with respect to a particular PSI application where the Mayor has notified the local planning authority in writing that he does not wish to be consulted pursuant to this article in relation to that application.
+(2) Paragraphs (1) and (1B) do[^c-1b471369d137dc8ea9d0f1bdeadc257d] not apply with respect to a particular PSI application where the Mayor has notified the local planning authority in writing that he does not wish to be consulted pursuant to this article in relation to that application.
 
 (3) The local planning authority must, at the time that it gives notice to an applicant of a determination on an application, send to the Mayor a copy of that notice.
 
-## 6. Mayor's power to direct refusal of a PSI application[^key-2409425623370f331c460dbabd3844ad]
+## 6. Mayor's power to direct refusal of a PSI application[^c-2409425623370f331c460dbabd3844ad]
 
-(A1)[^key-a5c607712f77350af1d9f4f526b0cec6] This article does not apply with respect to a Category 3J application.
+(A1)[^c-a5c607712f77350af1d9f4f526b0cec6] This article does not apply with respect to a Category 3J application.
 
 (1) If the Mayor considers that to grant permission on a PSI application would be—
 
@@ -141,16 +141,16 @@ he may, within the period specified in article 5(1)(b)(i), direct the local plan
   - (ii) the achievement of sustainable development in the United Kingdom;
 - (c) national policies and such international obligations as the Secretary of State may notify to the Mayor for the purposes of section 41(5)(a) of the Greater London Authority Act 1999 [^c19149131] (matters to which the Mayor is to have regard in preparing or revising his strategies);
 - (d) the spatial development strategy and any guidance issued by the Secretary of State so far as it relates to Greater London;
-- (e)[^key-23795fed5bda6f7adf3238ee45660985] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-23795fed5bda6f7adf3238ee45660985] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the desirability of promoting and encouraging the use of the River Thames safely, in particular for the provision of passenger transport services and for the transportation of freight;
-- (g)[^key-62dab42dee34357fd23e774663f359d6] the national waste management plan within the meaning of the Waste (England and Wales) Regulations 2011 and prepared by the Secretary of State;
-- (h)[^key-2a2e7a6bc586956eb95e8a5dfc617d03] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment;
+- (g)[^c-62dab42dee34357fd23e774663f359d6] the national waste management plan within the meaning of the Waste (England and Wales) Regulations 2011 and prepared by the Secretary of State;
+- (h)[^c-2a2e7a6bc586956eb95e8a5dfc617d03] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment;
 - (i) the need, in the long term—
   - (i) to maintain appropriate safety distances between establishments and residential areas, buildings and areas of public use, recreational areas, and, as far as possible, major transport routes;
   - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures; and
-  - (iii) in the case of existing establishments, to take additional technical measures, in accordance with regulation 5 of the Control of Major Accident Hazards Regulations 2015[^key-13d2800bb454c9507587adb2296a060a], so as not to increase the risks to human health and the environment.
+  - (iii) in the case of existing establishments, to take additional technical measures, in accordance with regulation 5 of the Control of Major Accident Hazards Regulations 2015[^c-13d2800bb454c9507587adb2296a060a], so as not to increase the risks to human health and the environment.
 
-(3)[^key-00500eb67ee32727e504cf2c9a3ac7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-00500eb67ee32727e504cf2c9a3ac7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any direction given under paragraph (1) must set out the Mayor's reasons for that direction.
 
@@ -161,25 +161,25 @@ he may, within the period specified in article 5(1)(b)(i), direct the local plan
 (7) Subject to any direction given under paragraph (8), the local planning authority must as soon as reasonably practicable after receiving a direction under paragraph (1)—
 
 - (a) refuse the application; and
-- (b) include with the notice given in accordance with article 34(1) of the DMPO[^key-eea7014786ad1801e05cb0b01fc4efd5] (time periods for decision) a copy of the direction given under paragraph (1).
+- (b) include with the notice given in accordance with article 34(1) of the DMPO[^c-eea7014786ad1801e05cb0b01fc4efd5] (time periods for decision) a copy of the direction given under paragraph (1).
 
 (8) The Secretary of State may give a direction prohibiting a local planning authority to which a direction is given under paragraph (1) from implementing that direction during such period as is specified in the Secretary of State's direction.
 
 (9) The Secretary of State must, at the time that he gives a direction to a local planning authority under paragraph (8), send a copy of it to the Mayor.
 
-(10) A local planning authority must place on Part 2 of the register required to be kept by article 40 of the DMPO (register of applications and biodiversity gain plans)[^key-caff92fe7796898fa5f2ca756e35e082] a copy of any direction it receives under this article within 14 days of receiving it.
+(10) A local planning authority must place on Part 2 of the register required to be kept by article 40 of the DMPO (register of applications and biodiversity gain plans)[^c-caff92fe7796898fa5f2ca756e35e082] a copy of any direction it receives under this article within 14 days of receiving it.
 
-(11)[^key-9e370c0e4d5af7c4e85005443a6ad2f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-9e370c0e4d5af7c4e85005443a6ad2f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Direction that the Mayor is to be the local planning authority
 
 (1) Subject to paragraphs (4) and (5), the Mayor may give to the local planning authority a direction under section 2A of the 1990 Act if he considers that—
 
-- (a)[^key-db55082dddd19387d2ef7b42f1446a06] the impact criterion is met;
+- (a)[^c-db55082dddd19387d2ef7b42f1446a06] the impact criterion is met;
 - (b) the development or any of the issues raised by the development to which the application relates has significant effects that are likely to affect more than one London Borough; and
 - (c) there are sound planning reasons for issuing a direction.
 
-(1A)[^key-c40c0a1cbc2887ad6f9496127e6846e8] For the purposes of paragraph (1), the impact criterion is met if—
+(1A)[^c-c40c0a1cbc2887ad6f9496127e6846e8] For the purposes of paragraph (1), the impact criterion is met if—
 
 - (a) for a Category 3J application, the development or any of the issues raised by the development to which the application relates would have an impact on the implementation of the spatial development strategy;
 - (b) in any other case, the development or any of the issues raised by the development to which the PSI application relates is of such a nature or scale that it would have a significant impact on the implementation of the spatial development strategy.
@@ -191,12 +191,12 @@ he may, within the period specified in article 5(1)(b)(i), direct the local plan
 
 (3) In deciding whether to give a direction the Mayor must take account –
 
-- (a) where the application relates to development which falls within Category 1A or Category 3J[^key-df91cec1e0e751d3e7b4fbf7496b45e8] of the Schedule, of the extent to which the council of the London Borough in which the development is or is to be situated is achieving, and has achieved the applicable development plan targets for new housing, including affordable housing;
+- (a) where the application relates to development which falls within Category 1A or Category 3J[^c-df91cec1e0e751d3e7b4fbf7496b45e8] of the Schedule, of the extent to which the council of the London Borough in which the development is or is to be situated is achieving, and has achieved the applicable development plan targets for new housing, including affordable housing;
 - (b) in relation to all applications, of the extent to which the council of the London Borough is achieving, and has achieved any other targets set out in the development plan which are relevant to the subject matter of the application.
 
-(4) Where an application for development which falls within Category 1A or Category 3J[^key-1d9e702209ac4d504e51e40d204ec731] of the Schedule is referred to the Mayor, paragraph (1)(b) does not apply.
+(4) Where an application for development which falls within Category 1A or Category 3J[^c-1d9e702209ac4d504e51e40d204ec731] of the Schedule is referred to the Mayor, paragraph (1)(b) does not apply.
 
-(5)[^key-ebe1f9b9b4a3d4a1b48c507784459763] A direction under paragraph (1) may not be given after—
+(5)[^c-ebe1f9b9b4a3d4a1b48c507784459763] A direction under paragraph (1) may not be given after—
 
 - (a) in the case of a Category 3J application, the end of the period referred to in article 5(1B)(b)(i);
 - (b) where paragraph (6) applies, the end of the period of 14 days beginning with the date on which the Mayor received the applicant’s request;
@@ -204,12 +204,12 @@ he may, within the period specified in article 5(1)(b)(i), direct the local plan
 
 (6) This paragraph applies where—
 
-- (a) the authority has failed to provide the statement referred to in article 5(1)(a)(iii) within the relevant period specified in article 34(2) of the DMPO[^key-1e535141cfa1dd24fec0b6aefded3ac7]; and
+- (a) the authority has failed to provide the statement referred to in article 5(1)(a)(iii) within the relevant period specified in article 34(2) of the DMPO[^c-1e535141cfa1dd24fec0b6aefded3ac7]; and
 - (b) the applicant has requested the Mayor in writing to give a direction under section 2A of the 1990 Act.
 
 (7) In giving reasons for making a direction the Mayor must specify how the matters set out in paragraph (3) have affected his decision.
 
-(8) A local planning authority must place on Part 2 of the register required to be kept by article 40 of the DMPO (register of applications and biodiversity gain plans)[^key-3350925e38d989ca300c26f3466d876e] a copy of any direction it receives under this article within 14 days of receiving it.
+(8) A local planning authority must place on Part 2 of the register required to be kept by article 40 of the DMPO (register of applications and biodiversity gain plans)[^c-3350925e38d989ca300c26f3466d876e] a copy of any direction it receives under this article within 14 days of receiving it.
 
 ## 8. Provision of information where the Mayor has given a direction
 
@@ -265,7 +265,7 @@ Articles 2 and 7
 
 (1) Subject to sub-paragraph (2), “ **PSI application**” means any application for planning permission for development which the local planning authority consider falls within a category set out below.
 
-(2) For the purposes of the power of the Mayor to make a direction under section 2A of the 1990 Act, “**PSI application**” means any application for planning permission for development which the local planning authority consider falls within one of the following categories set out below—[^key-49e9d77768624f99f35f7f97904a371f]
+(2) For the purposes of the power of the Mayor to make a direction under section 2A of the 1990 Act, “**PSI application**” means any application for planning permission for development which the local planning authority consider falls within one of the following categories set out below—[^c-49e9d77768624f99f35f7f97904a371f]
 
 - (a) a category in Parts 1 or 2;
 - (b) Category 3D;
@@ -286,7 +286,7 @@ Articles 2 and 7
 - (c) “**hazardous substances**” has the meaning given in regulation 6 of the Hazardous Waste (England and Wales) Regulations 2005 [^c19149191]; and
 - (d) “**waste development**” means any development designed to be used wholly or mainly for the purpose of, or a material change of use to, treating keeping, storing, processing, recovering or disposing of waste.
 
-### PART 1 — LARGE SCALE DEVELOPMENT[^key-9638937fdca78a7e1ee068c4276182bf]
+### PART 1 — LARGE SCALE DEVELOPMENT[^c-9638937fdca78a7e1ee068c4276182bf]
 
 #### 1. Category 1A
 
@@ -303,7 +303,7 @@ Development (other than development which only comprises the provision of houses
 **2.** In paragraph 1, “**Central London**” means the area bounded by the outer edge of the red line on a map entitled “Map of Central London referred to in the Town and Country Planning (Mayor of London) Order 2008” , of which prints, dated 28th February 2008 and signed by a Deputy Director in the Department for Communities and Local Government, are deposited and available for inspection [^c19149201] at—
 
 - (a) the principal office of the Secretary of State for Communities and Local Government;
-- (b)[^key-4f061b9017636ac9f18ab4541c8a3383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4f061b9017636ac9f18ab4541c8a3383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the principal office of the Mayor; and
 - (d) the principal office of the local planning authority for each London borough.
 
@@ -329,7 +329,7 @@ Development which comprises or includes the alteration of an existing building w
 - (a) the development would increase the height of the building by more than 15 metres; and
 - (b) the building would, on completion of the development, fall within a description set out in paragraph 1 of Category 1C.
 
-### PART 2 — MAJOR INFRASTRUCTURE[^key-08a4c978f4ab86d05390b85b85b8294b][^key-e5716454a27f07fce9886328b06c112f]
+### PART 2 — MAJOR INFRASTRUCTURE[^c-08a4c978f4ab86d05390b85b85b8294b][^c-e5716454a27f07fce9886328b06c112f]
 
 #### 1. Category 2A
 
@@ -380,7 +380,7 @@ Waste development which does not accord with one or more provisions of the devel
   - (i) 2,000 tonnes per annum of hazardous waste; or
   - (ii) 20,000 tonnes per annum of waste.
 
-### PART 3 — DEVELOPMENT WHICH MAY AFFECT STRATEGIC POLICIES[^key-495ac11617ae8484e9b841e5fae8782a][^key-e5716454a27f07fce9886328b06c112f]
+### PART 3 — DEVELOPMENT WHICH MAY AFFECT STRATEGIC POLICIES[^c-495ac11617ae8484e9b841e5fae8782a][^c-e5716454a27f07fce9886328b06c112f]
 
 #### 1. Interpretation
 
@@ -479,7 +479,7 @@ Development which—
 
 **2.** For the purpose of paragraph 1 (c) (ii), the area used for keeping or storing includes the area occupied by maintenance, administrative and staff facilities connected with such use.
 
-#### 1. Category 3J[^key-e838169aa40a1bf3c821fb87bb872299]
+#### 1. Category 3J[^c-e838169aa40a1bf3c821fb87bb872299]
 
 Development which comprises or includes the provision of 50 or more houses, flats, or houses and flats.
 
@@ -515,86 +515,86 @@ An impact assessment has been prepared and copies can be obtained from the Plann
 
 [^c19149081]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Sections 2A and 2D were inserted by section 31 of, and section 2F by section 35 of, the [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24). Section 74(1A) was inserted by, and section 74(2) was amended by, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), [section 19(1)](https://www.legislation.gov.uk/ukpga/1991/34/section/19/1) and paragraph 17 of Schedule 7. Section 74(1B) and (1C) was inserted by the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [section 334(9)](https://www.legislation.gov.uk/ukpga/1999/29/section/334/9). See section 336(1) for the definition of “**prescribed**” for the purposes of section 74(1).
 
-[^key-444bbadc9a5586bad589b236d6a0f768]: Modification: Order applied (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2017/430/article/5/2)
+[^c-444bbadc9a5586bad589b236d6a0f768]: Modification: Order applied (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2017/430/article/5/2)
 
-[^key-a9821a855c94a65a6dbebc92fd1ba1cd]: Modification: Order applied (with modifications) (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [12(5)](https://www.legislation.gov.uk/uksi/2017/126/article/12/5)[(6)](https://www.legislation.gov.uk/uksi/2017/126/article/12/6)
+[^c-a9821a855c94a65a6dbebc92fd1ba1cd]: Modification: Order applied (with modifications) (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [12(5)](https://www.legislation.gov.uk/uksi/2017/126/article/12/5)[(6)](https://www.legislation.gov.uk/uksi/2017/126/article/12/6)
 
 [^c19149091]: Marginal citation: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764). Relevant amendments were made by [S.I. 1991/1567](https://www.legislation.gov.uk/uksi/1991/1567), 1994/724, 1995/297, 2005/84 and 2006/1282.
 
-[^key-3264d0bbcf0874e3325be8875e0f097b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/580/article/2/1) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2026/345/article/4/a/i) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-3264d0bbcf0874e3325be8875e0f097b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/580/article/2/1) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2026/345/article/4/a/i) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-24bbb23c52b44f643a482d39198312a1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/580/article/2/1) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2026/345/article/4/a/ii) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-24bbb23c52b44f643a482d39198312a1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/580/article/2/1) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2026/345/article/4/a/ii) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-34d2bff9c284819e9b9e5db577965161]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/580/article/2/2) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/345/article/4/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-34d2bff9c284819e9b9e5db577965161]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/580/article/2/2) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/345/article/4/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-43b90e1dfd65d93b2d525f5ee8eedc03]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2008/580/article/3) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [5](https://www.legislation.gov.uk/uksi/2026/345/article/5) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-43b90e1dfd65d93b2d525f5ee8eedc03]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2008/580/article/3) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [5](https://www.legislation.gov.uk/uksi/2026/345/article/5) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-48d192416779dcd3c01b4d814c96dd64]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2008/580/article/4/3) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [6](https://www.legislation.gov.uk/uksi/2026/345/article/6) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-48d192416779dcd3c01b4d814c96dd64]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2008/580/article/4/3) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [6](https://www.legislation.gov.uk/uksi/2026/345/article/6) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-a8037f19c3307e33d700f37e52b94a31]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/580/article/5/1) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/345/article/7/a) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-a8037f19c3307e33d700f37e52b94a31]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/580/article/5/1) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/345/article/7/a) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-23c148039a572ee7d2b54df862717071]: Textual amendment: [Art. 5(1A)-(1C)](https://www.legislation.gov.uk/uksi/2008/580/article/5/1A) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/345/article/7/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-23c148039a572ee7d2b54df862717071]: Textual amendment: [Art. 5(1A)-(1C)](https://www.legislation.gov.uk/uksi/2008/580/article/5/1A) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/345/article/7/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-1b471369d137dc8ea9d0f1bdeadc257d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2008/580/article/5/2) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2026/345/article/7/c) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-1b471369d137dc8ea9d0f1bdeadc257d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2008/580/article/5/2) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2026/345/article/7/c) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-2409425623370f331c460dbabd3844ad]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2008/580/article/6) modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(c)(i)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/c/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/c/ii)[(iii)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/c/iii)
+[^c-2409425623370f331c460dbabd3844ad]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2008/580/article/6) modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(c)(i)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/c/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/c/ii)[(iii)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/c/iii)
 
-[^key-a5c607712f77350af1d9f4f526b0cec6]: Textual amendment: [Art. 6(A1)](https://www.legislation.gov.uk/uksi/2008/580/article/6/A1) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/345/article/8/a) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-a5c607712f77350af1d9f4f526b0cec6]: Textual amendment: [Art. 6(A1)](https://www.legislation.gov.uk/uksi/2008/580/article/6/A1) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/345/article/8/a) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
 [^c19149131]: Marginal citation: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-23795fed5bda6f7adf3238ee45660985]: Textual amendment: [Art. 6(2)(e)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/e) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/345/article/8/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-23795fed5bda6f7adf3238ee45660985]: Textual amendment: [Art. 6(2)(e)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/e) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/345/article/8/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-62dab42dee34357fd23e774663f359d6]: Textual amendment: Art. 6(2)(g) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/26) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-62dab42dee34357fd23e774663f359d6]: Textual amendment: Art. 6(2)(g) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/26) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-2a2e7a6bc586956eb95e8a5dfc617d03]: Textual amendment: [Art. 6(2)(h)(i)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/h/i) substituted (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/3/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-2a2e7a6bc586956eb95e8a5dfc617d03]: Textual amendment: [Art. 6(2)(h)(i)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/h/i) substituted (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/3/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-13d2800bb454c9507587adb2296a060a]: Textual amendment: Words in [art. 6(2)(i)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/i)[(iii)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/iii) substituted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13d2800bb454c9507587adb2296a060a]: Textual amendment: Words in [art. 6(2)(i)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/i)[(iii)](https://www.legislation.gov.uk/uksi/2008/580/article/6/2/iii) substituted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-00500eb67ee32727e504cf2c9a3ac7e9]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/2008/580/article/6/3) omitted (31.12.2020) by virtue of [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00500eb67ee32727e504cf2c9a3ac7e9]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/2008/580/article/6/3) omitted (31.12.2020) by virtue of [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eea7014786ad1801e05cb0b01fc4efd5]: Textual amendment: Words in [art. 6(7)(b)](https://www.legislation.gov.uk/uksi/2008/580/article/6/7/b) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2026/345/article/8/c) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-eea7014786ad1801e05cb0b01fc4efd5]: Textual amendment: Words in [art. 6(7)(b)](https://www.legislation.gov.uk/uksi/2008/580/article/6/7/b) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2026/345/article/8/c) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-caff92fe7796898fa5f2ca756e35e082]: Textual amendment: Words in [art. 6(10)](https://www.legislation.gov.uk/uksi/2008/580/article/6/10) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2026/345/article/8/d) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-caff92fe7796898fa5f2ca756e35e082]: Textual amendment: Words in [art. 6(10)](https://www.legislation.gov.uk/uksi/2008/580/article/6/10) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2026/345/article/8/d) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-9e370c0e4d5af7c4e85005443a6ad2f4]: Textual amendment: [Art. 6(11)](https://www.legislation.gov.uk/uksi/2008/580/article/6/11) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2026/345/article/8/e) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-9e370c0e4d5af7c4e85005443a6ad2f4]: Textual amendment: [Art. 6(11)](https://www.legislation.gov.uk/uksi/2008/580/article/6/11) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2026/345/article/8/e) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-db55082dddd19387d2ef7b42f1446a06]: Textual amendment: [Art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2008/580/article/7/1/a) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/345/article/9/a) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-db55082dddd19387d2ef7b42f1446a06]: Textual amendment: [Art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2008/580/article/7/1/a) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/345/article/9/a) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-c40c0a1cbc2887ad6f9496127e6846e8]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/uksi/2008/580/article/7/1A) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/345/article/9/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-c40c0a1cbc2887ad6f9496127e6846e8]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/uksi/2008/580/article/7/1A) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/345/article/9/b) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-df91cec1e0e751d3e7b4fbf7496b45e8]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2008/580/article/7/3/a) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2026/345/article/9/c) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-df91cec1e0e751d3e7b4fbf7496b45e8]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2008/580/article/7/3/a) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2026/345/article/9/c) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-1d9e702209ac4d504e51e40d204ec731]: Textual amendment: Words in [art. 7(4)](https://www.legislation.gov.uk/uksi/2008/580/article/7/4) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(d)](https://www.legislation.gov.uk/uksi/2026/345/article/9/d) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-1d9e702209ac4d504e51e40d204ec731]: Textual amendment: Words in [art. 7(4)](https://www.legislation.gov.uk/uksi/2008/580/article/7/4) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(d)](https://www.legislation.gov.uk/uksi/2026/345/article/9/d) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-ebe1f9b9b4a3d4a1b48c507784459763]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/uksi/2008/580/article/7/5) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(e)](https://www.legislation.gov.uk/uksi/2026/345/article/9/e) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-ebe1f9b9b4a3d4a1b48c507784459763]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/uksi/2008/580/article/7/5) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(e)](https://www.legislation.gov.uk/uksi/2026/345/article/9/e) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-1e535141cfa1dd24fec0b6aefded3ac7]: Textual amendment: Words in [art. 7(6)(a)](https://www.legislation.gov.uk/uksi/2008/580/article/7/6/a) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(f)](https://www.legislation.gov.uk/uksi/2026/345/article/9/f) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-1e535141cfa1dd24fec0b6aefded3ac7]: Textual amendment: Words in [art. 7(6)(a)](https://www.legislation.gov.uk/uksi/2008/580/article/7/6/a) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(f)](https://www.legislation.gov.uk/uksi/2026/345/article/9/f) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
-[^key-3350925e38d989ca300c26f3466d876e]: Textual amendment: Words in [art. 7(8)](https://www.legislation.gov.uk/uksi/2008/580/article/7/8) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(g)](https://www.legislation.gov.uk/uksi/2026/345/article/9/g) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-3350925e38d989ca300c26f3466d876e]: Textual amendment: Words in [art. 7(8)](https://www.legislation.gov.uk/uksi/2008/580/article/7/8) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [9(g)](https://www.legislation.gov.uk/uksi/2026/345/article/9/g) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
 [^c19149171]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Part 5A and Schedule 12A were inserted by the [Local Government (Access to Information) Act 1985 (1985 c.43)](https://www.legislation.gov.uk/ukpga/1985/43)
 
 [^c19149181]: Marginal citation: [S.I. 2000/1493](https://www.legislation.gov.uk/uksi/2000/1493)
 
-[^key-49e9d77768624f99f35f7f97904a371f]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2008/580/schedule/paragraph/1/2) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/345/article/10/2) (with [art. 11(1)(2)(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/1/2/5))
+[^c-49e9d77768624f99f35f7f97904a371f]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2008/580/schedule/paragraph/1/2) substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/345/article/10/2) (with [art. 11(1)(2)(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/1/2/5))
 
 [^c19149191]: Marginal citation: [S.I. 2005/1640](https://www.legislation.gov.uk/uksi/2005/1640).
 
-[^key-9638937fdca78a7e1ee068c4276182bf]: Modification: Sch. Pt. 1 modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/430/schedule/2)
+[^c-9638937fdca78a7e1ee068c4276182bf]: Modification: Sch. Pt. 1 modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/430/schedule/2)
 
 [^c19149201]: Marginal citation: Also available at www.communities.gov.uk and www.gos.gov.uk/gol.
 
-[^key-4f061b9017636ac9f18ab4541c8a3383]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/580/schedule/part/1) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2026/345/article/10/3) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-4f061b9017636ac9f18ab4541c8a3383]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/580/schedule/part/1) omitted (11.5.2026) by virtue of [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2026/345/article/10/3) (with [art. 11(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
 [^c19149211]: Marginal citation: Also available at www.communities.gov.uk and www.gos.gov.uk/gol.
 
-[^key-08a4c978f4ab86d05390b85b85b8294b]: Modification: Sch. Pt. 2 modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/430/schedule/2)
+[^c-08a4c978f4ab86d05390b85b85b8294b]: Modification: Sch. Pt. 2 modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/430/schedule/2)
 
-[^key-e5716454a27f07fce9886328b06c112f]: Modification: Sch. Pts. 2, 3 modified (1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) Regulations 2020 (S.I. 2020/757)](https://www.legislation.gov.uk/uksi/2020/757), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/757/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/757/regulation/5)
+[^c-e5716454a27f07fce9886328b06c112f]: Modification: Sch. Pts. 2, 3 modified (1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) Regulations 2020 (S.I. 2020/757)](https://www.legislation.gov.uk/uksi/2020/757), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/757/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/757/regulation/5)
 
-[^key-495ac11617ae8484e9b841e5fae8782a]: Modification: Sch. Pt. 3 modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/430/schedule/2)
+[^c-495ac11617ae8484e9b841e5fae8782a]: Modification: Sch. Pt. 3 modified (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2017/430/article/5/6/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/430/schedule/2)
 
-[^key-e838169aa40a1bf3c821fb87bb872299]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2008/580/schedule/part/3) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2026/345/article/10/4) (with [art. 11(3)](https://www.legislation.gov.uk/uksi/2026/345/article/11/3)[(4)](https://www.legislation.gov.uk/uksi/2026/345/article/11/4)[(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
+[^c-e838169aa40a1bf3c821fb87bb872299]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2008/580/schedule/part/3) inserted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2026/345/article/10/4) (with [art. 11(3)](https://www.legislation.gov.uk/uksi/2026/345/article/11/3)[(4)](https://www.legislation.gov.uk/uksi/2026/345/article/11/4)[(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/5))
 
 [^M_F_e38423c8-1fb7-47d3-96a4-eba9890a7481]: Textual amendment: Words in Sch. Pt. 4 substituted (11.5.2026) by [The Town and Country Planning (Mayor of London) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/345)](https://www.legislation.gov.uk/uksi/2026/345), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/345/article/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2026/345/article/10/5) (with [art. 11(3)(4)(5)](https://www.legislation.gov.uk/uksi/2026/345/article/11/3/4/5))

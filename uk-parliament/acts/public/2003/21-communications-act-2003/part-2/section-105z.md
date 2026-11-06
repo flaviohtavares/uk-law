@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z. OFCOM reports on security[^key-628402cbe5667b4c7c8a15ac8dcf25f5]
+## 105Z. OFCOM reports on security[^c-628402cbe5667b4c7c8a15ac8dcf25f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-628402cbe5667b4c7c8a15ac8dcf25f5]: Textual amendment: [S. 105Z](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/11/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-628402cbe5667b4c7c8a15ac8dcf25f5]: Textual amendment: [S. 105Z](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/11/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

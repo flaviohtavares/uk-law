@@ -2815,7 +2815,7 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006 ([S.I
   - (ii) in paragraph (f) omit “lifetime”;
   - (iii) in paragraph (g) omit “lifetime allowance”.
 
-### Part 6 — Commencement and transitional provision etc[^key-dd6ec13f857815b5349262dd82047e4d]
+### Part 6 — Commencement and transitional provision etc[^c-dd6ec13f857815b5349262dd82047e4d]
 
 #### 124. Commencement
 
@@ -2825,22 +2825,22 @@ The amendments made by section 14 and this Schedule have effect for the tax year
 
 (1) This paragraph applies where—
 
-- (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to an individual before 6 April 2024, [^key-28031f4c4af84564f64ce0ab7c7fa547]...
-- (b) a relevant benefit crystallisation event within the meaning of section 637Q of ITEPA 2003 (availability of individual’s lump sum allowance) occurs in relation to the individual on or after that date, and[^key-c9d17b62474f3a6ab5bce8742ec9297d]
+- (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to an individual before 6 April 2024, [^c-28031f4c4af84564f64ce0ab7c7fa547]...
+- (b) a relevant benefit crystallisation event within the meaning of section 637Q of ITEPA 2003 (availability of individual’s lump sum allowance) occurs in relation to the individual on or after that date, and[^c-c9d17b62474f3a6ab5bce8742ec9297d]
 - (c) at the time the relevant benefit crystallisation occurs, the individual—
   - (i) is not an individual to whom paragraph 12 of Schedule 36 to FA 2004 applies (enhanced protection), or
   - (ii) is such an individual and is not within paragraph 24(1) of Schedule 36 to FA 2004 (persons with lump sum protection).
 
-(2)[^key-52455820dae27d36760a530b37f7b4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-52455820dae27d36760a530b37f7b4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The[^key-9c9742916bfcf9f855442275bb923e15] amount of the individual’s lump sum allowance that is available on the occurrence of the relevant benefit crystallisation event is—
+(3) The[^c-9c9742916bfcf9f855442275bb923e15] amount of the individual’s lump sum allowance that is available on the occurrence of the relevant benefit crystallisation event is—
 
 - (a) the amount of that allowance that is available in accordance with section 637Q of ITEPA 2003 on the occurrence of that event, less
 - (b) an amount equal to 25% of the individual’s lifetime allowance previously-used amount;
 
 or, if that produces a negative result, nil.
 
-(3A)[^key-034e486d3e79b7b2aa3da78849481c90] Where—
+(3A)[^c-034e486d3e79b7b2aa3da78849481c90] Where—
 
 - (a) the individual is an individual to whom paragraph 7 of Schedule 36 to FA 2004 applies (primary protection),
 - (b) the individual is not within paragraph 24(1) of Schedule 36 to FA 2004 (persons with lump sum protection), and
@@ -2848,7 +2848,7 @@ or, if that produces a negative result, nil.
 
 sub-paragraph (3) has effect as if the amount determined under paragraph (b) of that sub-paragraph were £375,000.
 
-(4) But sub-paragraph (3) does[^key-2540fae79caa218798254f56518c31d0] not apply if, on the occurrence of the relevant benefit crystallisation event, a transitional tax-free amount certificate is in force in relation to the individual.
+(4) But sub-paragraph (3) does[^c-2540fae79caa218798254f56518c31d0] not apply if, on the occurrence of the relevant benefit crystallisation event, a transitional tax-free amount certificate is in force in relation to the individual.
 
 (5) In such a case, the amount of the individual’s lump sum allowance that is available on the occurrence of the relevant benefit crystallisation event is—
 
@@ -2863,9 +2863,9 @@ or, if that produces a negative result, nil.
 
 (1) This paragraph applies where—
 
-- (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to an individual before 6 April 2024, [^key-c60aa3a1ae39dab9759eb23900ced6b6]...
-- (b) a relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) occurs in relation to the individual on or after that date. , and[^key-b3e5d2938c122f2370d980dfa0f714d4]
-- (c)[^key-4003b912783025bf3d60a7e9e30f269d] at the time the relevant benefit crystallisation occurs, the individual is not an individual to whom paragraph 12 of Schedule 36 to FA 2004 applies (enhanced protection).
+- (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to an individual before 6 April 2024, [^c-c60aa3a1ae39dab9759eb23900ced6b6]...
+- (b) a relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) occurs in relation to the individual on or after that date. , and[^c-b3e5d2938c122f2370d980dfa0f714d4]
+- (c)[^c-4003b912783025bf3d60a7e9e30f269d] at the time the relevant benefit crystallisation occurs, the individual is not an individual to whom paragraph 12 of Schedule 36 to FA 2004 applies (enhanced protection).
 
 (2) Where the individual’s lifetime allowance previously-used amount is equal to or greater than the individual’s lifetime allowance, none of the individual’s lump sum and death benefit allowance is available on the occurrence of the relevant benefit crystallisation event.
 
@@ -2876,7 +2876,7 @@ or, if that produces a negative result, nil.
 
 or, if that produces a negative result, nil.
 
-(3A)[^key-4eafd66fe9b44b4b71e7919ea7a51fff] Where—
+(3A)[^c-4eafd66fe9b44b4b71e7919ea7a51fff] Where—
 
 - (a) the individual is an individual to whom paragraph 7 of Schedule 36 to FA 2004 applies (primary protection),
 - (b) the individual is not within paragraph 24(1) of Schedule 36 to FA 2004 (persons with lump sum protection),
@@ -2885,20 +2885,20 @@ or, if that produces a negative result, nil.
 
 sub-paragraph (3) has effect as if the amount determined under paragraph (b) of that sub-paragraph were £375,000.
 
-(4) In sub-paragraphs (3) and (3A)[^key-2c41446258f2dde7754382d01c978d4a] “**the appropriate percentage**” means—
+(4) In sub-paragraphs (3) and (3A)[^c-2c41446258f2dde7754382d01c978d4a] “**the appropriate percentage**” means—
 
 - (a) 100% in a case in which—
   - (i) the individual becomes entitled to a serious ill-health lump sum before 6 April 2024 and is under the age of 75 at the time of the payment, or
-  - (ii) the individual dies before 6 April 2024 under the age of 75 and the conditions in sub-paragraph (4A) are met[^key-cfeb928e76de147e6c8d4a94a88e2750];
+  - (ii) the individual dies before 6 April 2024 under the age of 75 and the conditions in sub-paragraph (4A) are met[^c-cfeb928e76de147e6c8d4a94a88e2750];
 - (b) 25% in any other case.
 
-(4A)[^key-947b3b927fa8ab1b3fbc36c120fb6608] The conditions mentioned in sub-paragraph (4)(a)(ii) are—
+(4A)[^c-947b3b927fa8ab1b3fbc36c120fb6608] The conditions mentioned in sub-paragraph (4)(a)(ii) are—
 
 - (a) that before 6 April 2024 a person is paid a defined benefits lump sum death benefit, or an uncrystallised funds lump sum death benefit, in respect of the individual,
 - (b) that the lump sum is paid before the end of the period of two years beginning with the day on which the scheme administrator of the scheme first knew of the individual’s death or (if earlier) the day on which the scheme administrator could first reasonably have been expected to have known of it, and
 - (c) that the person to whom the lump sum is paid is not a non-qualifying person.
 
-(5) But sub-paragraphs (2) to (4A)[^key-33569ea1d73ac157a3017672ee07218f] do not apply if, at the relevant time[^key-cc1aee9b5f4193caa1e986122b4308de], a transitional tax-free amount certificate is in force in relation to the individual.
+(5) But sub-paragraphs (2) to (4A)[^c-33569ea1d73ac157a3017672ee07218f] do not apply if, at the relevant time[^c-cc1aee9b5f4193caa1e986122b4308de], a transitional tax-free amount certificate is in force in relation to the individual.
 
 (6) In such a case, the amount of the individual’s lump sum and death benefit allowance that is available on the occurrence of the relevant benefit crystallisation event is—
 
@@ -2907,31 +2907,31 @@ sub-paragraph (3) has effect as if the amount determined under paragraph (b) of 
 
 or, if that produces a negative result, nil.
 
-(6A)[^key-ff4baa6c3f04bdf2751888e061281e27] In sub-paragraph (5) “**the relevant time**” means—
+(6A)[^c-ff4baa6c3f04bdf2751888e061281e27] In sub-paragraph (5) “**the relevant time**” means—
 
 - (a) if the relevant benefit crystallisation event is the individual becoming entitled to a relevant lump sum (within the meaning of section 637S of ITEPA 2003), the time at which the individual becomes so entitled;
 - (b) if the relevant benefit crystallisation event is a person being paid a relevant lump sum death benefit (within the meaning of section 637S of ITEPA 2003), the 31 October next following the end of the tax year in which the relevant lump sum death benefit is paid.
 
 (7) For provision about the meaning of expressions used in this paragraph, see paragraph 129.
 
-#### 127. Transitional tax-free amount certificates[^key-38a880cb28e95bb1b470a9db29fd1d54]
+#### 127. Transitional tax-free amount certificates[^c-38a880cb28e95bb1b470a9db29fd1d54]
 
 (1) A “transitional tax-free amount certificate” is a certificate relating to an individual that—
 
-- (a) is issued by a certification administrator,[^key-021d33c6f8fc9b91e226acdeae944f27] on an application made in accordance with this paragraph, and
-- (b) certifies that the certification administrator[^key-409b1ea0392cd2ce3b0bda49e257311c] is satisfied as to—
+- (a) is issued by a certification administrator,[^c-021d33c6f8fc9b91e226acdeae944f27] on an application made in accordance with this paragraph, and
+- (b) certifies that the certification administrator[^c-409b1ea0392cd2ce3b0bda49e257311c] is satisfied as to—
   - (i) the amount of the individual’s lump sum transitional tax-free amount, and
   - (ii) the amount of the individual’s lump sum and death benefit transitional tax-free amount.
 
 (2) An application for a certificate in relation to an individual—
 
 - (a) may be made by the individual or, if the individual is deceased, the individual’s personal representatives;
-- (b)[^key-c8dd60f7d8df6e3e19978c5d0c746456] may be made to any person who is a certification administrator in relation to the individual;
+- (b)[^c-c8dd60f7d8df6e3e19978c5d0c746456] may be made to any person who is a certification administrator in relation to the individual;
 - (c) must be accompanied by complete evidence as to the amount of the individual’s lump sum and death benefit transitional tax-free amount;
-- (d)[^key-2e66441b81493aa0c18de3f349e76131] may not be made after the individual becomes entitled to a relevant lump sum (within the meaning of section 637S of ITEPA 2003), and
+- (d)[^c-2e66441b81493aa0c18de3f349e76131] may not be made after the individual becomes entitled to a relevant lump sum (within the meaning of section 637S of ITEPA 2003), and
 - (e) may not be made after the 31 October next following the end of the tax year in which a relevant lump sum death benefit (within the meaning of section 637S of ITEPA 2003) is paid in respect of the individual.
 
-(3) The certification administrator to whom[^key-979aa7eab3d938150a9447e8833d7efa] an application is made must, before the end of the period of three months beginning with the date on which the the application is received[^key-e8f25c6ea4542c2f1648cb7eaef41617], determine the application by—
+(3) The certification administrator to whom[^c-979aa7eab3d938150a9447e8833d7efa] an application is made must, before the end of the period of three months beginning with the date on which the the application is received[^c-e8f25c6ea4542c2f1648cb7eaef41617], determine the application by—
 
 - (a) issuing the applicant with a certificate, or
 - (b) notifying the applicant that the application is refused.
@@ -2939,13 +2939,13 @@ or, if that produces a negative result, nil.
 (4) A certificate must (in addition to certifying the matter mentioned in sub-paragraph (1)(b)) contain the following information—
 
 - (a) the individual’s name, address and national insurance number,
-- (b) the individual’s lifetime allowance previously-used amount expressed as a percentage of the standard lifetime allowance for the tax year 2023/24[^key-349542590e5f7bc68585005e649298a6],
-- (c) the amount that the certification administrator[^key-78684ee3d316cd985e6ba2a03347e44b] is satisfied is the individual’s lump sum transitional tax-free amount, and
-- (d) the amount that the certification administrator[^key-99db0e5f86e3107be4085e86b74ff4ee] is satisfied is the individual’s lump sum and death benefit transitional tax-free amount.
+- (b) the individual’s lifetime allowance previously-used amount expressed as a percentage of the standard lifetime allowance for the tax year 2023/24[^c-349542590e5f7bc68585005e649298a6],
+- (c) the amount that the certification administrator[^c-78684ee3d316cd985e6ba2a03347e44b] is satisfied is the individual’s lump sum transitional tax-free amount, and
+- (d) the amount that the certification administrator[^c-99db0e5f86e3107be4085e86b74ff4ee] is satisfied is the individual’s lump sum and death benefit transitional tax-free amount.
 
-(5) A certificate may be in such form as the certification administrator[^key-11fafc52377a7d84fa17c08a6240669c] may determine and may, in particular, be incorporated into any other document that is given to the applicant by the certification administrator[^key-57f2f8be600e4e98655b6df77e359e80].
+(5) A certificate may be in such form as the certification administrator[^c-11fafc52377a7d84fa17c08a6240669c] may determine and may, in particular, be incorporated into any other document that is given to the applicant by the certification administrator[^c-57f2f8be600e4e98655b6df77e359e80].
 
-(6) If at any time it appears to a person who is a certification administrator in relation to the individual[^key-ad733c4ca27d8409f2cb513ca0a75269] that the amount specified on a certificate under sub-paragraph (4)(c) or (d) does not accurately reflect the individual’s lump sum transitional tax-free amount or (as the case may be) lump sum and death benefit transitional tax-free amount, they must cancel the certificate by giving notice of the cancellation to the applicant or, if the applicant is deceased, the applicant’s personal representatives.
+(6) If at any time it appears to a person who is a certification administrator in relation to the individual[^c-ad733c4ca27d8409f2cb513ca0a75269] that the amount specified on a certificate under sub-paragraph (4)(c) or (d) does not accurately reflect the individual’s lump sum transitional tax-free amount or (as the case may be) lump sum and death benefit transitional tax-free amount, they must cancel the certificate by giving notice of the cancellation to the applicant or, if the applicant is deceased, the applicant’s personal representatives.
 
 (7) A certificate—
 
@@ -2967,24 +2967,24 @@ or, if that produces a negative result, nil.
 
 .
 
-#### 127A. Availability of member’s overseas transfer allowance[^key-697b2e40cf259745f6b2d36fb443dfb0]
+#### 127A. Availability of member’s overseas transfer allowance[^c-697b2e40cf259745f6b2d36fb443dfb0]
 
 (1) This paragraph applies where—
 
-- (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to an individual before 6 April 2024, [^key-2ba2c6b072ad4bdb5356e4360c4ca3ea]...
-- (b) a transfer of the kind mentioned in section 244IA(1)(a) of FA 2004 is made in relation to the individual on or after that date , and[^key-b191c8a7868555d1af9a33507eabdd1b]
+- (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to an individual before 6 April 2024, [^c-2ba2c6b072ad4bdb5356e4360c4ca3ea]...
+- (b) a transfer of the kind mentioned in section 244IA(1)(a) of FA 2004 is made in relation to the individual on or after that date , and[^c-b191c8a7868555d1af9a33507eabdd1b]
 - (c) at the time the transfer is made, the individual is not an individual to whom paragraph 12 of Schedule 36 to FA 2004 applies (enhanced protection).
 
-(2) Where the individual’s [^key-9e103e2562a8c4adfcc3f7f7c071c23e]... lifetime allowance previously-used amount is equal to or greater than the individual’s lifetime allowance, none of the individual’s overseas transfer allowance is available on the making of the transfer.
+(2) Where the individual’s [^c-9e103e2562a8c4adfcc3f7f7c071c23e]... lifetime allowance previously-used amount is equal to or greater than the individual’s lifetime allowance, none of the individual’s overseas transfer allowance is available on the making of the transfer.
 
 (3) Otherwise, the amount of the individual’s overseas transfer allowance that is available on the making of the transfer is—
 
 - (a) the amount of that allowance that is available in accordance with section 244IC of FA 2004 on the making of the transfer, less
-- (b) the individual’s [^key-dc715661c928a744a453d6f9a48da053]... lifetime allowance previously-used amount,
+- (b) the individual’s [^c-dc715661c928a744a453d6f9a48da053]... lifetime allowance previously-used amount,
 
 or, if that produces a negative result, nil.
 
-(4)[^key-486e6c4f994a3de9d8767487f68ed28a] Sub-paragraph (5) applies where the individual’s lifetime allowance previously-used amount includes one or more amounts (“crystallised drawdown amounts”) that are attributable to the occurrence, before 6 April 2024, of benefit crystallisation event 1 (designation of money purchase funds for drawdown).
+(4)[^c-486e6c4f994a3de9d8767487f68ed28a] Sub-paragraph (5) applies where the individual’s lifetime allowance previously-used amount includes one or more amounts (“crystallised drawdown amounts”) that are attributable to the occurrence, before 6 April 2024, of benefit crystallisation event 1 (designation of money purchase funds for drawdown).
 
 (5) The individual’s lifetime allowance previously-used amount is to be reduced for the purposes of sub-paragraphs (2) and (3) (but not below zero) by—
 
@@ -3000,7 +3000,7 @@ where—
 - “**A**” is the crystallised drawdown amount in question;
 - “**B**” is the individual’s lifetime allowance on the occurrence of the benefit crystallisation event to which the crystallised drawdown amount in question is attributable.
 
-#### 127B. Provision of information by individuals to certification administrators[^key-923567dc6346926aabce3c006c55f91e][^key-3393d699d8f2dc08acd04bb41327b33b]
+#### 127B. Provision of information by individuals to certification administrators[^c-923567dc6346926aabce3c006c55f91e][^c-3393d699d8f2dc08acd04bb41327b33b]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -3030,7 +3030,7 @@ where—
 
 (8) In the case of an obligation under sub-paragraph (6) relating to a pension scheme of which the individual is a member as a result of a block transfer, references in sub-paragraph (7) to the day on which the relevant person receives notice of the cancellation are to the later of that day and the day on which the relevant person receives notice of the block transfer.
 
-(8A)[^key-1d7545ac607c59a1bdffb33daabb05c3] Sub-paragraph (8B) applies where—
+(8A)[^c-1d7545ac607c59a1bdffb33daabb05c3] Sub-paragraph (8B) applies where—
 
 - (a) a transitional tax-free amount certificate is issued in relation to an individual, and
 - (b) the individual subsequently becomes a member of a pension scheme (“the new pension scheme”).
@@ -3050,18 +3050,18 @@ where—
   - (a) the individual to whom the certificate relates, or
   - (b) if the individual is deceased, the individual’s personal representatives.
 
-#### 128. Provision of information by scheme administrators to members[^key-b91c66e0a0df0243f4d6af9436ad597e]
+#### 128. Provision of information by scheme administrators to members[^c-b91c66e0a0df0243f4d6af9436ad597e]
 
 (1) A reference in the Provision of Information Regulations to a relevant benefit crystallisation event is, in relation to times before 6 April 2024, a reference to a benefit crystallisation event within the meaning of Part 4 of FA 2004.
 
 (2) Sub-paragraph (3) applies where—
 
 - (a) one or more benefit crystallisation events within the meaning of Part 4 of FA 2004 occurred in relation to a member of a registered pension scheme before 6 April 2024, and
-- (b) it is necessary for a certification administrator[^key-aa64a937b6d21a63bb0677e225aab1e3] to determine, for the purposes of any provision of the Provision of Information Regulations as that provision has effect for the tax year 2024-25 or a subsequent tax year, the amount of the member’s lump sum allowance that has been expended by the events mentioned in paragraph (a).
+- (b) it is necessary for a certification administrator[^c-aa64a937b6d21a63bb0677e225aab1e3] to determine, for the purposes of any provision of the Provision of Information Regulations as that provision has effect for the tax year 2024-25 or a subsequent tax year, the amount of the member’s lump sum allowance that has been expended by the events mentioned in paragraph (a).
 
 (3) For those purposes, the amount of the member’s lump sum allowance that has been expended by the events mentioned in sub-paragraph (2)(a) is—
 
-- (a) if the certification conditions are met in relation to the determination[^key-6f1a322c876f53d3359246e26a8ff588], so much of the member’s lump sum transitional tax-free amount as is referable to those events;
+- (a) if the certification conditions are met in relation to the determination[^c-6f1a322c876f53d3359246e26a8ff588], so much of the member’s lump sum transitional tax-free amount as is referable to those events;
 - (b) otherwise, an amount equal to 25% of so much of the member’s lifetime allowance previously-used amount as is referable to those events.
 
 (4) Sub-paragraph (5) applies where—
@@ -3071,24 +3071,24 @@ where—
 
 (5) For those purposes, the amount of the member’s lump sum and death benefit allowance that has been expended by the events mentioned in sub-paragraph (4)(a) is—
 
-- (a) if the certification conditions are met in relation to the determination[^key-44ee66605c3941525f32f5733a4ab1d8], so much of the member’s lump sum and death benefit transitional tax-free amount as is referable to those events;
+- (a) if the certification conditions are met in relation to the determination[^c-44ee66605c3941525f32f5733a4ab1d8], so much of the member’s lump sum and death benefit transitional tax-free amount as is referable to those events;
 - (b) otherwise, an amount equal to the appropriate percentage of so much of the member’s lifetime allowance previously-used amount as is referable to those events.
 
 (6) In sub-paragraph (5)(b) “**the appropriate percentage**” means—
 
 - (a) 100% in a case in which—
-  - (zi)[^key-35f4812a2a801c481b26547bb801134e] the amount of the member’s lifetime allowance previously-used amount is equal to or greater than the member’s lifetime allowance,
+  - (zi)[^c-35f4812a2a801c481b26547bb801134e] the amount of the member’s lifetime allowance previously-used amount is equal to or greater than the member’s lifetime allowance,
   - (i) the member becomes entitled to a serious ill-health lump sum under the scheme before 6 April 2024 and is under the age of 75 at the time of the payment, or
-  - (ii) the member dies before 6 April 2024 under the age of 75 and the conditions in sub-paragraph (6A) are met,[^key-e61a5bfd4bc2e149d0598fcdb255f38d]
+  - (ii) the member dies before 6 April 2024 under the age of 75 and the conditions in sub-paragraph (6A) are met,[^c-e61a5bfd4bc2e149d0598fcdb255f38d]
 - (b) 25% in any other case.
 
-(6A)[^key-81c4bf124c7bc65878f83b171d2d23ba] The conditions mentioned in sub-paragraph (6)(a)(ii) are—
+(6A)[^c-81c4bf124c7bc65878f83b171d2d23ba] The conditions mentioned in sub-paragraph (6)(a)(ii) are—
 
 - (a) that before 6 April 2024 a person is paid a defined benefits lump sum death benefit, or an uncrystallised funds lump sum death benefit, under the scheme in respect of the member,
 - (b) that the lump sum is paid before the end of the period of two years beginning with the day on which the scheme administrator of the scheme first knew of the individual’s death or (if earlier) the day on which the scheme administrator could first reasonably have been expected to have known of it, and
 - (c) that the person to whom the lump sum is paid is not a non-qualifying person.
 
-(6B)[^key-cb043296b228838f3459079c27ca8bc1] In this paragraph “**the certification conditions**”, in relation to a determination mentioned in sub-paragraph (2)(b) or (4)(b), means the following conditions—
+(6B)[^c-cb043296b228838f3459079c27ca8bc1] In this paragraph “**the certification conditions**”, in relation to a determination mentioned in sub-paragraph (2)(b) or (4)(b), means the following conditions—
 
 - (a) that either—
   - (i) the certification administrator making the determination has issued a transitional tax-free amount certificate to the member, or
@@ -3105,17 +3105,17 @@ where—
 
 (1) “**Lump sum transitional tax-free amount**”, in relation to an individual, means the total of—
 
-- (a) each pension commencement lump sum (if any) to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, [^key-6b6c2ec99ecd6a31e000e90605605cd6]...
+- (a) each pension commencement lump sum (if any) to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, [^c-6b6c2ec99ecd6a31e000e90605605cd6]...
 - (b) each uncrystallised funds pension lump sum (if any) to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it.
-- (c)[^key-a8fed48d73ed7f298e9465fd41b136b7] each stand-alone lump sum (if any) to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it, and
+- (c)[^c-a8fed48d73ed7f298e9465fd41b136b7] each stand-alone lump sum (if any) to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it, and
 - (d) where a benefit crystallisation event within sub-paragraph (2)(a) of paragraph 20 of Schedule 36 to FA 2004 (pre-commencement pensions) was treated as having occurred before 6 April 2024 in relation to the individual, an amount equal to 25% of the amount treated as crystallised by that event under sub-paragraph (2)(b) of that paragraph.
 
 (2) “**Lump sum and death benefit transitional tax-free amount**”, in relation to an individual, means the total of—
 
-- (za)[^key-714e4830207146dd907b38011d830b22] the individual’s lump sum transitional tax-free amount,
-- (a) each relevant lump sum (if any) not comprised in the individual’s lump sum transitional tax-free amount[^key-b356d431a25c04a6eff3a8e68a50dfb1] to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it, and[^key-2995bc9d550cefeee85f3c9f5211ef7c]
-- (b) each relevant lump sum death benefit (if any) paid before 6 April 2024 by a registered pension scheme in respect of the individual so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it, [^key-8c50fd6fc049a781f0abb420604bfd52]...
-- (c)[^key-8c50fd6fc049a781f0abb420604bfd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (za)[^c-714e4830207146dd907b38011d830b22] the individual’s lump sum transitional tax-free amount,
+- (a) each relevant lump sum (if any) not comprised in the individual’s lump sum transitional tax-free amount[^c-b356d431a25c04a6eff3a8e68a50dfb1] to which the individual has, before 6 April 2024, become entitled under a registered pension scheme, so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it, and[^c-2995bc9d550cefeee85f3c9f5211ef7c]
+- (b) each relevant lump sum death benefit (if any) paid before 6 April 2024 by a registered pension scheme in respect of the individual so far as no charge to income tax under Part 9 of ITEPA 2003 or Part 4 of FA 2004 arises in respect of it, [^c-8c50fd6fc049a781f0abb420604bfd52]...
+- (c)[^c-8c50fd6fc049a781f0abb420604bfd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of sub-paragraph (2)—
 
@@ -3129,7 +3129,7 @@ where—
 
 that is comprised, or any part of which is comprised, in the individual’s lump sum and death benefit transitional tax-free amount.
 
-(4A)[^key-c4d29323d3681986d14110e782cb5863] “**Lifetime allowance previously-used amount**”, in relation to an individual, means (subject to sub-paragraphs (4B) and (4C)) the amount that would have been the previously used amount for the purposes of section 219 of FA 2004 (availability of individual’s lifetime allowance) if a benefit crystallisation event (within the meaning of that section) had occurred in relation to the individual immediately before 6 April 2024.
+(4A)[^c-c4d29323d3681986d14110e782cb5863] “**Lifetime allowance previously-used amount**”, in relation to an individual, means (subject to sub-paragraphs (4B) and (4C)) the amount that would have been the previously used amount for the purposes of section 219 of FA 2004 (availability of individual’s lifetime allowance) if a benefit crystallisation event (within the meaning of that section) had occurred in relation to the individual immediately before 6 April 2024.
 
 (4B) Sub-paragraph (4C) applies where—
 
@@ -3137,7 +3137,7 @@ that is comprised, or any part of which is comprised, in the individual’s lump
 - (b) on the individual reaching that age, an amount was, or amounts were, crystallised by one or more of benefit crystallisation events 5, 5A and 5B, and
 - (c) the individual did not become entitled to a lump sum under a registered pension scheme in the period beginning with the date on which the individual reached the age of 75 and ending with 5th April 2024.
 
-(4C) The amount determined under sub-paragraph (4A) is to be reduced (but not below zero) by the amount given by the following formula—[^key-9f9d05e68397c1f89abf88d6e092df43]
+(4C) The amount determined under sub-paragraph (4A) is to be reduced (but not below zero) by the amount given by the following formula—[^c-9f9d05e68397c1f89abf88d6e092df43]
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2024/3)
 
@@ -3146,9 +3146,9 @@ where—
 - “**A**” is the amount or (if more than one) the sum of the amounts mentioned in sub-paragraph (4B)(b);
 - “**B**” is the individual’s lifetime allowance at the time the individual reached the age of 75.
 
-(5)[^key-3343fbe7ce0861ded1606dac945e5149] In paragraphs 125 to 128 and this paragraph—
+(5)[^c-3343fbe7ce0861ded1606dac945e5149] In paragraphs 125 to 128 and this paragraph—
 
-- “[^key-7240e20b0bd2d6242243cd1d93ae8d9d]**benefit crystallisation event**”, followed by a number, has the same meaning as in Part 4 of FA 2004 (see section 216 of that Act);
+- “[^c-7240e20b0bd2d6242243cd1d93ae8d9d]**benefit crystallisation event**”, followed by a number, has the same meaning as in Part 4 of FA 2004 (see section 216 of that Act);
 - “**certification administrator**”, in relation to an individual, means—
   - (a) the scheme administrator of a registered pension scheme of which the individual is a member or, if the individual is deceased, of which the individual was a member immediately before death, or
   - (b) an insurance company to which a registered pension scheme has transferred sums or assets to secure the payment to the individual of a scheme pension or a lifetime annuity;
@@ -3158,7 +3158,7 @@ where—
 - “**entitled**” (in relation to a lump sum) has the same meaning as in Part 4 of FA 2004;
 - “**insurance company**” has the same meaning as in Part 4 of FA 2004;
 - “**lifetime allowance**” has the same meaning as in Part 4 of FA 2004;
-- “[^key-8db09401cf67a2fe10203ee8744ccbad]**lifetime allowance previously-used amount**” has the meaning given by sub-paragraphs (4A) to (4C);
+- “[^c-8db09401cf67a2fe10203ee8744ccbad]**lifetime allowance previously-used amount**” has the meaning given by sub-paragraphs (4A) to (4C);
 - “**lump sum and death benefit transitional tax-free amount**” has the meaning given by sub-paragraphs (2) and (3);
 - “**lump sum death benefit**” has the same meaning as in Part 4 of FA 2004;
 - “**lump sum transitional tax-free amount**” has the meaning given by sub-paragraph (1);
@@ -3168,10 +3168,10 @@ where—
 - “**the Provision of Information Regulations**” means the Registered Pension Schemes (Provision of Information) Regulations ([S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567));
 - “**scheme administrator**” has the same meaning as in Part 4 of FA 2004;
 - “**serious ill-health lump sum**” has the same meaning as in Part 4 of FA 2004;
-- “[^key-858050dcd5059212efb07c4edfc8b99e]**stand-alone lump sum**” has the meaning given by article 25 of the Taxation of Pension Schemes (Transitional Provisions) Order 2006 ([S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572));
+- “[^c-858050dcd5059212efb07c4edfc8b99e]**stand-alone lump sum**” has the meaning given by article 25 of the Taxation of Pension Schemes (Transitional Provisions) Order 2006 ([S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572));
 - “**standard lifetime allowance**”, in relation to an individual, has the same meaning as in Part 4 of FA 2004 as that Part has effect in relation to the individual;
 - “**transitional tax-free amount certificate**” means a certificate under paragraph 127;
-- “**uncrystallised funds pension lump sum[^key-dbd272522a0228dd684adb13634960bf]**” has the same meaning as in Part 4 of FA 2004.
+- “**uncrystallised funds pension lump sum[^c-dbd272522a0228dd684adb13634960bf]**” has the same meaning as in Part 4 of FA 2004.
 - “**uncrystallised funds pension lump sum death benefit**” has the same meaning as in Part 4 of FA 2004;
 
 (6) A reference in any of paragraphs 125 to 128 or this paragraph to a provision of FA 2004 is to that provision as it had effect immediately before 6 April 2024.
@@ -3187,16 +3187,16 @@ where—
   - (ii) who on that date does not have an actual (as opposed to prospective) entitlement to be paid a pension, or
 - (b) the personal representatives of a member within paragraph (a) who has died.
 
-(3)[^key-f651fa4e77afefffe7df38b94cd26197] The statement must contain the information in regulation 14(3) of the Provision of Information Regulations (percentage of standard lifetime allowance expended by benefit crystallisation events) in respect of benefit crystallisation events occurring before 6 April 2024.
+(3)[^c-f651fa4e77afefffe7df38b94cd26197] The statement must contain the information in regulation 14(3) of the Provision of Information Regulations (percentage of standard lifetime allowance expended by benefit crystallisation events) in respect of benefit crystallisation events occurring before 6 April 2024.
 
 (4) In this paragraph—
 
 - “**benefit crystallisation event**” means a benefit crystallisation event within the meaning of Part 4 of FA 2004, as that Part had effect immediately before 6 April 2024;
-- “[^key-37aee2caebf8067335740bfca27a1c8c]**member**” has the same meaning as in Part 4 of FA 2004;
-- “**the Provision of Information Regulations**” means the Registered Pension Schemes (Provision of Information) Regulations ([S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567)) , as those regulations had effect immediately before 6 April 2024[^key-7b4f3db4ded3d9b685394a399f5cc6e1];
+- “[^c-37aee2caebf8067335740bfca27a1c8c]**member**” has the same meaning as in Part 4 of FA 2004;
+- “**the Provision of Information Regulations**” means the Registered Pension Schemes (Provision of Information) Regulations ([S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567)) , as those regulations had effect immediately before 6 April 2024[^c-7b4f3db4ded3d9b685394a399f5cc6e1];
 - “**scheme administrator**” has the same meaning as in Part 4 of FA 2004.
 
-#### 130A. Lump sums paid on or after 6 April 2024 where entitlement arose before that date[^key-13deed529ca36d330305d018f91a4cce][^key-19d5f6ca5c8442ff1eaf413b09f4534c]
+#### 130A. Lump sums paid on or after 6 April 2024 where entitlement arose before that date[^c-13deed529ca36d330305d018f91a4cce][^c-19d5f6ca5c8442ff1eaf413b09f4534c]
 
 (1) The amendments made by or under this Schedule, and the amendments made by section 14, are to be disregarded for the purposes of determining—
 
@@ -3207,7 +3207,7 @@ where—
 
 (3) In sub-paragraph (2) “**member**” has the same meaning as in Part 4 of FA 2004.
 
-#### 131. Lump sum death benefits paid on or after 6 April 2024 that crystallised before that date[^key-b3eab1119e9eb5006ab9d67fbfcea07d]
+#### 131. Lump sum death benefits paid on or after 6 April 2024 that crystallised before that date[^c-b3eab1119e9eb5006ab9d67fbfcea07d]
 
 (1) The amendments made by or under this Schedule, and the amendments made by section 14, are to be disregarded for the purposes of determining the tax treatment under Part 9 of ITEPA 2003 of a transitional lump sum death benefit.
 
@@ -3215,19 +3215,19 @@ where—
 
 (3) In this paragraph “**transitional lump sum death benefit**” means a lump sum death benefit paid on or after 6 April 2024 so far as relating to rights that, before that date, crystallised under section 216 of FA 2004.
 
-#### 132. Modifications of scheme rules[^key-a8411c8b8efed4fb7ac4cb385fcfee9c]
+#### 132. Modifications of scheme rules[^c-a8411c8b8efed4fb7ac4cb385fcfee9c]
 
-(1)[^key-36df30aeea8bbbd4929e7286d375357d] A rule of a registered pension scheme relating to a member’s entitlement to , or to the payment of,[^key-1a56b1c592ae35df82127d29d4f1ea58] a lifetime allowance excess lump sum has effect, in relation to entitlements arising on or after 6 April 2024, and so far as possible, as a rule relating to the member’s entitlement to , or to the payment of, a pension commencement excess lump sum.
+(1)[^c-36df30aeea8bbbd4929e7286d375357d] A rule of a registered pension scheme relating to a member’s entitlement to , or to the payment of,[^c-1a56b1c592ae35df82127d29d4f1ea58] a lifetime allowance excess lump sum has effect, in relation to entitlements arising on or after 6 April 2024, and so far as possible, as a rule relating to the member’s entitlement to , or to the payment of, a pension commencement excess lump sum.
 
-(2)[^key-9d7a8e55d3e8fb37538a9c721f0510d6] The amendments [^key-3ce0d5eea4fb98097409a213abbcee34]... made by or under this Schedule , and the amendments made by section 14,[^key-514b17f93062206551482587f66fecef] do not affect the interpretation of any relevant rule of a registered pension scheme.
+(2)[^c-9d7a8e55d3e8fb37538a9c721f0510d6] The amendments [^c-3ce0d5eea4fb98097409a213abbcee34]... made by or under this Schedule , and the amendments made by section 14,[^c-514b17f93062206551482587f66fecef] do not affect the interpretation of any relevant rule of a registered pension scheme.
 
 (3) For the purposes of sub-paragraph (2), a rule of a registered pension scheme is “relevant” if the rule imposes a limit on the amount of a benefit payable under the scheme to, or in respect of, a member by reference to the member’s lifetime allowance, the standard lifetime allowance or the lifetime allowance charge.
 
-(4) In this paragraph “member”,[^key-9b1c9b36e7c468e960ded9dbad824bff] “**lifetime allowance**”, “**standard lifetime allowance**” and “**lifetime allowance charge**” have the same meaning as in Part 4 of FA 2004 as that Part had effect immediately before 6 April 2024.
+(4) In this paragraph “member”,[^c-9b1c9b36e7c468e960ded9dbad824bff] “**lifetime allowance**”, “**standard lifetime allowance**” and “**lifetime allowance charge**” have the same meaning as in Part 4 of FA 2004 as that Part had effect immediately before 6 April 2024.
 
 (5) This paragraph ceases to have effect at the end of the tax year 2028-29.
 
-#### 132A. Continuity of the law[^key-105fdf2a72adf4a959087012c0bc4063]
+#### 132A. Continuity of the law[^c-105fdf2a72adf4a959087012c0bc4063]
 
 (1) This paragraph applies where any provision of or made under this Schedule re-enacts (with or without modification) a provision of the pensions tax code that is repealed by or under this Schedule.
 
@@ -3265,170 +3265,170 @@ where—
 (2) Regulations under this paragraph may—
 
 - (a) amend any provision of the Income Tax Acts (including any provision of, or amendment made by, this Schedule);
-- (b)[^key-0014f1d8fef90bbc8e28faf8b320d107] have effect for the tax years 2024-25 and 2025-26 (as well as subsequent tax years);
+- (b)[^c-0014f1d8fef90bbc8e28faf8b320d107] have effect for the tax years 2024-25 and 2025-26 (as well as subsequent tax years);
 - (c) make different provision for different purposes;
-- (d) include transitional, transitory or saving provision (including any provision that could be made under paragraph 133)[^key-5c2205db6eb04248e6849f2230c7da60].
+- (d) include transitional, transitory or saving provision (including any provision that could be made under paragraph 133)[^c-5c2205db6eb04248e6849f2230c7da60].
 
-(3) Regulations under this paragraph [^key-0c9d02451315d78e1643ed44a53607b3]... may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, the House of Commons.
+(3) Regulations under this paragraph [^c-0c9d02451315d78e1643ed44a53607b3]... may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, the House of Commons.
 
-(4) No regulations under this paragraph may be made after 30 June[^key-29bcc68c8326579f9091775b8b7224a3] 2026.
+(4) No regulations under this paragraph may be made after 30 June[^c-29bcc68c8326579f9091775b8b7224a3] 2026.
 
 (5) In sub-paragraph (2) “**amend**” includes repeal or revoke.
 
 ## Annotations
 
-[^key-dd6ec13f857815b5349262dd82047e4d]: Modification: [Sch. 9 Pt. 6](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/part/6) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 19(2)-(5)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/19/2) (as substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/5))
+[^c-dd6ec13f857815b5349262dd82047e4d]: Modification: [Sch. 9 Pt. 6](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/part/6) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 19(2)-(5)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/19/2) (as substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/5))
 
-[^key-28031f4c4af84564f64ce0ab7c7fa547]: Textual amendment: Word in [Sch. 9 para. 125(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/1/a) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/3/a)
+[^c-28031f4c4af84564f64ce0ab7c7fa547]: Textual amendment: Word in [Sch. 9 para. 125(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/1/a) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/3/a)
 
-[^key-c9d17b62474f3a6ab5bce8742ec9297d]: Textual amendment: [Sch. 9 para. 125(1)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/1/c) and word inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/3/b)
+[^c-c9d17b62474f3a6ab5bce8742ec9297d]: Textual amendment: [Sch. 9 para. 125(1)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/1/c) and word inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/3/b)
 
-[^key-52455820dae27d36760a530b37f7b4d9]: Textual amendment: [Sch. 9 para. 125(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/2) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(4)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/4)
+[^c-52455820dae27d36760a530b37f7b4d9]: Textual amendment: [Sch. 9 para. 125(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/2) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(4)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/4)
 
-[^key-9c9742916bfcf9f855442275bb923e15]: Textual amendment: Word in [Sch. 9 para. 125(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(5)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/5)
+[^c-9c9742916bfcf9f855442275bb923e15]: Textual amendment: Word in [Sch. 9 para. 125(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(5)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/5)
 
-[^key-034e486d3e79b7b2aa3da78849481c90]: Textual amendment: [Sch. 9 para. 125(3A)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/3A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(6)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/6)
+[^c-034e486d3e79b7b2aa3da78849481c90]: Textual amendment: [Sch. 9 para. 125(3A)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/3A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(6)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/6)
 
-[^key-2540fae79caa218798254f56518c31d0]: Textual amendment: Words in [Sch. 9 para. 125(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(7)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/7)
+[^c-2540fae79caa218798254f56518c31d0]: Textual amendment: Words in [Sch. 9 para. 125(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125/4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(7)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/7)
 
-[^key-c60aa3a1ae39dab9759eb23900ced6b6]: Textual amendment: Word in Sch. 9 para. 126(1)(a) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(9)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/9/a)
+[^c-c60aa3a1ae39dab9759eb23900ced6b6]: Textual amendment: Word in Sch. 9 para. 126(1)(a) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(9)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/9/a)
 
-[^key-b3e5d2938c122f2370d980dfa0f714d4]: Textual amendment: Word in Sch. 9 para. 126(1)(b) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(9)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/9/b)
+[^c-b3e5d2938c122f2370d980dfa0f714d4]: Textual amendment: Word in Sch. 9 para. 126(1)(b) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(9)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/9/b)
 
-[^key-4003b912783025bf3d60a7e9e30f269d]: Textual amendment: Sch. 9 para. 126(1)(c) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(9)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/9/c)
+[^c-4003b912783025bf3d60a7e9e30f269d]: Textual amendment: Sch. 9 para. 126(1)(c) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(9)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/9/c)
 
-[^key-4eafd66fe9b44b4b71e7919ea7a51fff]: Textual amendment: Sch. 9 para. 126(3A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(10)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/10)
+[^c-4eafd66fe9b44b4b71e7919ea7a51fff]: Textual amendment: Sch. 9 para. 126(3A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(10)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/10)
 
-[^key-2c41446258f2dde7754382d01c978d4a]: Textual amendment: Words in Sch. 9 para. 126(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(11)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/11)
+[^c-2c41446258f2dde7754382d01c978d4a]: Textual amendment: Words in Sch. 9 para. 126(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(11)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/11)
 
-[^key-cfeb928e76de147e6c8d4a94a88e2750]: Textual amendment: Words in Sch. 9 para. 126(4)(a)(ii) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/a)
+[^c-cfeb928e76de147e6c8d4a94a88e2750]: Textual amendment: Words in Sch. 9 para. 126(4)(a)(ii) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/a)
 
-[^key-947b3b927fa8ab1b3fbc36c120fb6608]: Textual amendment: Sch. 9 para. 126(4A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/b)
+[^c-947b3b927fa8ab1b3fbc36c120fb6608]: Textual amendment: Sch. 9 para. 126(4A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/b)
 
-[^key-33569ea1d73ac157a3017672ee07218f]: Textual amendment: Word in [Sch. 9 para. 126(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/126/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/c/i)
+[^c-33569ea1d73ac157a3017672ee07218f]: Textual amendment: Word in [Sch. 9 para. 126(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/126/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/c/i)
 
-[^key-cc1aee9b5f4193caa1e986122b4308de]: Textual amendment: Words in [Sch. 9 para. 126(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/126/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/c/ii)
+[^c-cc1aee9b5f4193caa1e986122b4308de]: Textual amendment: Words in [Sch. 9 para. 126(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/126/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/c/ii)
 
-[^key-ff4baa6c3f04bdf2751888e061281e27]: Textual amendment: Sch. 9 para. 126(6A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/d)
+[^c-ff4baa6c3f04bdf2751888e061281e27]: Textual amendment: Sch. 9 para. 126(6A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(2)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/2/d)
 
-[^key-38a880cb28e95bb1b470a9db29fd1d54]: Modification: Sch. 9 para. 127 applied (with modifications) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by S.I. 2010/1187, reg. 20 (as inserted by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [27(23)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/27/23))
+[^c-38a880cb28e95bb1b470a9db29fd1d54]: Modification: Sch. 9 para. 127 applied (with modifications) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by S.I. 2010/1187, reg. 20 (as inserted by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [27(23)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/27/23))
 
-[^key-021d33c6f8fc9b91e226acdeae944f27]: Textual amendment: Words in Sch. 9 para. 127(1)(a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/a/i)
+[^c-021d33c6f8fc9b91e226acdeae944f27]: Textual amendment: Words in Sch. 9 para. 127(1)(a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/a/i)
 
-[^key-409b1ea0392cd2ce3b0bda49e257311c]: Textual amendment: Words in Sch. 9 para. 127(1)(b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/a/ii)
+[^c-409b1ea0392cd2ce3b0bda49e257311c]: Textual amendment: Words in Sch. 9 para. 127(1)(b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/a/ii)
 
-[^key-c8dd60f7d8df6e3e19978c5d0c746456]: Textual amendment: Sch. 9 para. 127(2)(b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/b/i)
+[^c-c8dd60f7d8df6e3e19978c5d0c746456]: Textual amendment: Sch. 9 para. 127(2)(b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/b/i)
 
-[^key-2e66441b81493aa0c18de3f349e76131]: Textual amendment: Sch. 9 para. 127(2)(d)(e) substituted for Sch. 9 para. 127(2)(d) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/b/ii)
+[^c-2e66441b81493aa0c18de3f349e76131]: Textual amendment: Sch. 9 para. 127(2)(d)(e) substituted for Sch. 9 para. 127(2)(d) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/b/ii)
 
-[^key-979aa7eab3d938150a9447e8833d7efa]: Textual amendment: Words in Sch. 9 para. 127(3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/c/i)
+[^c-979aa7eab3d938150a9447e8833d7efa]: Textual amendment: Words in Sch. 9 para. 127(3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/c/i)
 
-[^key-e8f25c6ea4542c2f1648cb7eaef41617]: Textual amendment: Words in Sch. 9 para. 127(3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/c/ii)
+[^c-e8f25c6ea4542c2f1648cb7eaef41617]: Textual amendment: Words in Sch. 9 para. 127(3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/c/ii)
 
-[^key-349542590e5f7bc68585005e649298a6]: Textual amendment: Words in Sch. 9 para. 127(4)(b) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(d)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/d/i)
+[^c-349542590e5f7bc68585005e649298a6]: Textual amendment: Words in Sch. 9 para. 127(4)(b) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(d)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/d/i)
 
-[^key-78684ee3d316cd985e6ba2a03347e44b]: Textual amendment: Words in Sch. 9 para. 127(4)(c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/d/ii)
+[^c-78684ee3d316cd985e6ba2a03347e44b]: Textual amendment: Words in Sch. 9 para. 127(4)(c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/d/ii)
 
-[^key-99db0e5f86e3107be4085e86b74ff4ee]: Textual amendment: Words in Sch. 9 para. 127(4)(d) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/d/ii)
+[^c-99db0e5f86e3107be4085e86b74ff4ee]: Textual amendment: Words in Sch. 9 para. 127(4)(d) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/d/ii)
 
-[^key-11fafc52377a7d84fa17c08a6240669c]: Textual amendment: Words in Sch. 9 para. 127(5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(e)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/e/i)
+[^c-11fafc52377a7d84fa17c08a6240669c]: Textual amendment: Words in Sch. 9 para. 127(5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(e)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/e/i)
 
-[^key-57f2f8be600e4e98655b6df77e359e80]: Textual amendment: Words in Sch. 9 para. 127(5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/e/ii)
+[^c-57f2f8be600e4e98655b6df77e359e80]: Textual amendment: Words in Sch. 9 para. 127(5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/e/ii)
 
-[^key-ad733c4ca27d8409f2cb513ca0a75269]: Textual amendment: Words in Sch. 9 para. 127(6) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(f)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/f)
+[^c-ad733c4ca27d8409f2cb513ca0a75269]: Textual amendment: Words in Sch. 9 para. 127(6) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(3)(f)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/3/f)
 
-[^key-697b2e40cf259745f6b2d36fb443dfb0]: Textual amendment: [Sch. 9 para. 127A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(12)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/12)
+[^c-697b2e40cf259745f6b2d36fb443dfb0]: Textual amendment: [Sch. 9 para. 127A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(12)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/12)
 
-[^key-2ba2c6b072ad4bdb5356e4360c4ca3ea]: Textual amendment: Word in [Sch. 9 para. 127A(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/1/a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/a/i)
+[^c-2ba2c6b072ad4bdb5356e4360c4ca3ea]: Textual amendment: Word in [Sch. 9 para. 127A(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/1/a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/a/i)
 
-[^key-b191c8a7868555d1af9a33507eabdd1b]: Textual amendment: [Sch. 9 para. 127A(1)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/1/c) and word inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/a/ii)
+[^c-b191c8a7868555d1af9a33507eabdd1b]: Textual amendment: [Sch. 9 para. 127A(1)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/1/c) and word inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/a/ii)
 
-[^key-9e103e2562a8c4adfcc3f7f7c071c23e]: Textual amendment: Word in [Sch. 9 para. 127A(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/2) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/b)
+[^c-9e103e2562a8c4adfcc3f7f7c071c23e]: Textual amendment: Word in [Sch. 9 para. 127A(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/2) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/b)
 
-[^key-dc715661c928a744a453d6f9a48da053]: Textual amendment: Word in [Sch. 9 para. 127A(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/3/b) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/b)
+[^c-dc715661c928a744a453d6f9a48da053]: Textual amendment: Word in [Sch. 9 para. 127A(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/3/b) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/b)
 
-[^key-486e6c4f994a3de9d8767487f68ed28a]: Textual amendment: [Sch. 9 para. 127A(4)-(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/4) substituted for [Sch. 9](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9) [para. 127A(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/4) (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(c)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/c)
+[^c-486e6c4f994a3de9d8767487f68ed28a]: Textual amendment: [Sch. 9 para. 127A(4)-(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/4) substituted for [Sch. 9](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9) [para. 127A(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127A/4) (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(2)(c)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/2/c)
 
-[^key-923567dc6346926aabce3c006c55f91e]: Modification: [Sch. 9 para. 127B](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127B) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 20A](https://www.legislation.gov.uk/uksi/2010/1187/regulation/20A) (as substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/5))
+[^c-923567dc6346926aabce3c006c55f91e]: Modification: [Sch. 9 para. 127B](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127B) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 20A](https://www.legislation.gov.uk/uksi/2010/1187/regulation/20A) (as substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/5))
 
-[^key-3393d699d8f2dc08acd04bb41327b33b]: Textual amendment: [Sch. 9 para. 127B](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127B) and cross-heading inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [17(5)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/5)
+[^c-3393d699d8f2dc08acd04bb41327b33b]: Textual amendment: [Sch. 9 para. 127B](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127B) and cross-heading inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [17(5)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/5)
 
-[^key-1d7545ac607c59a1bdffb33daabb05c3]: Textual amendment: [Sch. 9 para. 127B(8A)-(8C)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127B/8A) inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/3)
+[^c-1d7545ac607c59a1bdffb33daabb05c3]: Textual amendment: [Sch. 9 para. 127B(8A)-(8C)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/127B/8A) inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [9(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/3)
 
-[^key-b91c66e0a0df0243f4d6af9436ad597e]: Modification: [Sch. 9 para. 128](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/128) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 21](https://www.legislation.gov.uk/uksi/2010/1187/regulation/21) (as inserted by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [27(23)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/27/23); and as amended (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(7)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/7))
+[^c-b91c66e0a0df0243f4d6af9436ad597e]: Modification: [Sch. 9 para. 128](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/128) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 21](https://www.legislation.gov.uk/uksi/2010/1187/regulation/21) (as inserted by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [27(23)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/27/23); and as amended (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(7)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/7))
 
-[^key-aa64a937b6d21a63bb0677e225aab1e3]: Textual amendment: Words in Sch. 9 para. 128(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/a)
+[^c-aa64a937b6d21a63bb0677e225aab1e3]: Textual amendment: Words in Sch. 9 para. 128(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/a)
 
-[^key-6f1a322c876f53d3359246e26a8ff588]: Textual amendment: Words in Sch. 9 para. 128(3)(a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/b)
+[^c-6f1a322c876f53d3359246e26a8ff588]: Textual amendment: Words in Sch. 9 para. 128(3)(a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/b)
 
-[^key-44ee66605c3941525f32f5733a4ab1d8]: Textual amendment: Words in Sch. 9 para. 128(5)(a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/b)
+[^c-44ee66605c3941525f32f5733a4ab1d8]: Textual amendment: Words in Sch. 9 para. 128(5)(a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/b)
 
-[^key-35f4812a2a801c481b26547bb801134e]: Textual amendment: Sch. 9 para. 128(6)(a)(zi) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(13)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/13)
+[^c-35f4812a2a801c481b26547bb801134e]: Textual amendment: Sch. 9 para. 128(6)(a)(zi) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(13)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/13)
 
-[^key-e61a5bfd4bc2e149d0598fcdb255f38d]: Textual amendment: Words in Sch. 9 para. 128(6)(a)(ii) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/c)
+[^c-e61a5bfd4bc2e149d0598fcdb255f38d]: Textual amendment: Words in Sch. 9 para. 128(6)(a)(ii) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/c)
 
-[^key-81c4bf124c7bc65878f83b171d2d23ba]: Textual amendment: Sch. 9 para. 128(6A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/d)
+[^c-81c4bf124c7bc65878f83b171d2d23ba]: Textual amendment: Sch. 9 para. 128(6A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/d)
 
-[^key-cb043296b228838f3459079c27ca8bc1]: Textual amendment: Sch. 9 para. 128(6B) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(e)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/e)
+[^c-cb043296b228838f3459079c27ca8bc1]: Textual amendment: Sch. 9 para. 128(6B) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(6)(e)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/6/e)
 
-[^key-6b6c2ec99ecd6a31e000e90605605cd6]: Textual amendment: Word in Sch. 9 para. 129(1)(a) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(15)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/15/a)
+[^c-6b6c2ec99ecd6a31e000e90605605cd6]: Textual amendment: Word in Sch. 9 para. 129(1)(a) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(15)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/15/a)
 
-[^key-a8fed48d73ed7f298e9465fd41b136b7]: Textual amendment: Sch. 9 para. 129(1)(c)(d) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(15)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/15/b)
+[^c-a8fed48d73ed7f298e9465fd41b136b7]: Textual amendment: Sch. 9 para. 129(1)(c)(d) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(15)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/15/b)
 
-[^key-714e4830207146dd907b38011d830b22]: Textual amendment: Sch. 9 para. 129(2)(za) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/i)
+[^c-714e4830207146dd907b38011d830b22]: Textual amendment: Sch. 9 para. 129(2)(za) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/i)
 
-[^key-b356d431a25c04a6eff3a8e68a50dfb1]: Textual amendment: Words in Sch. 9 para. 129(2)(a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/ii)
+[^c-b356d431a25c04a6eff3a8e68a50dfb1]: Textual amendment: Words in Sch. 9 para. 129(2)(a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/ii)
 
-[^key-2995bc9d550cefeee85f3c9f5211ef7c]: Textual amendment: Word in Sch. 9 para. 129(2)(a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/iii)
+[^c-2995bc9d550cefeee85f3c9f5211ef7c]: Textual amendment: Word in Sch. 9 para. 129(2)(a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/iii)
 
-[^key-8c50fd6fc049a781f0abb420604bfd52]: Textual amendment: Sch. 9 para. 129(2)(c) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/iv)
+[^c-8c50fd6fc049a781f0abb420604bfd52]: Textual amendment: Sch. 9 para. 129(2)(c) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/a/iv)
 
-[^key-c4d29323d3681986d14110e782cb5863]: Textual amendment: Sch. 9 para. 129(4A)-(4C) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/b)
+[^c-c4d29323d3681986d14110e782cb5863]: Textual amendment: Sch. 9 para. 129(4A)-(4C) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/b)
 
-[^key-9f9d05e68397c1f89abf88d6e092df43]: Textual amendment: Words in [Sch. 9 para. 129(4C)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/129/4C) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [9(4)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/4)
+[^c-9f9d05e68397c1f89abf88d6e092df43]: Textual amendment: Words in [Sch. 9 para. 129(4C)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/129/4C) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [9(4)](https://www.legislation.gov.uk/uksi/2026/698/regulation/9/4)
 
-[^key-3343fbe7ce0861ded1606dac945e5149]: Modification: [Sch. 9 para. 129(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/129/5) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 20](https://www.legislation.gov.uk/uksi/2010/1187/regulation/20) (as substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/5))
+[^c-3343fbe7ce0861ded1606dac945e5149]: Modification: [Sch. 9 para. 129(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/129/5) modified (for the tax year 2024-25 and subsequent tax years) by [S.I. 2010/1187](https://www.legislation.gov.uk/uksi/2010/1187), [reg. 20](https://www.legislation.gov.uk/uksi/2010/1187/regulation/20) (as substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [15(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/15/5))
 
-[^key-7240e20b0bd2d6242243cd1d93ae8d9d]: Textual amendment: Words in Sch. 9 para. 129(5) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/c/ii)
+[^c-7240e20b0bd2d6242243cd1d93ae8d9d]: Textual amendment: Words in Sch. 9 para. 129(5) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/c/ii)
 
-[^key-8db09401cf67a2fe10203ee8744ccbad]: Textual amendment: Words in Sch. 9 para. 129(5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/c/i)
+[^c-8db09401cf67a2fe10203ee8744ccbad]: Textual amendment: Words in Sch. 9 para. 129(5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(7)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/7/c/i)
 
-[^key-858050dcd5059212efb07c4edfc8b99e]: Textual amendment: Words in Sch. 9 para. 129(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(17)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/17/a)
+[^c-858050dcd5059212efb07c4edfc8b99e]: Textual amendment: Words in Sch. 9 para. 129(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(17)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/17/a)
 
-[^key-dbd272522a0228dd684adb13634960bf]: Textual amendment: Word in Sch. 9 para. 129(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(17)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/17/b)
+[^c-dbd272522a0228dd684adb13634960bf]: Textual amendment: Word in Sch. 9 para. 129(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(17)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/17/b)
 
-[^key-f651fa4e77afefffe7df38b94cd26197]: Textual amendment: Sch. 9 para. 130(3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(19)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/19)
+[^c-f651fa4e77afefffe7df38b94cd26197]: Textual amendment: Sch. 9 para. 130(3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(19)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/19)
 
-[^key-37aee2caebf8067335740bfca27a1c8c]: Textual amendment: Words in Sch. 9 para. 130(4) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(8)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/8)
+[^c-37aee2caebf8067335740bfca27a1c8c]: Textual amendment: Words in Sch. 9 para. 130(4) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(8)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/8)
 
-[^key-7b4f3db4ded3d9b685394a399f5cc6e1]: Textual amendment: Words in Sch. 9 para. 130(4) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(20)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/20)
+[^c-7b4f3db4ded3d9b685394a399f5cc6e1]: Textual amendment: Words in Sch. 9 para. 130(4) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(20)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/20)
 
-[^key-13deed529ca36d330305d018f91a4cce]: Textual amendment: Sch. 9 para. 130A substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(9)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/9)
+[^c-13deed529ca36d330305d018f91a4cce]: Textual amendment: Sch. 9 para. 130A substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(9)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/9)
 
-[^key-19d5f6ca5c8442ff1eaf413b09f4534c]: Textual amendment: Sch. 9 para. 130A and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(21)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/21)
+[^c-19d5f6ca5c8442ff1eaf413b09f4534c]: Textual amendment: Sch. 9 para. 130A and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(21)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/21)
 
-[^key-b3eab1119e9eb5006ab9d67fbfcea07d]: Textual amendment: Sch. 9 para. 131 substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(10)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/10)
+[^c-b3eab1119e9eb5006ab9d67fbfcea07d]: Textual amendment: Sch. 9 para. 131 substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(10)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/10)
 
-[^key-a8411c8b8efed4fb7ac4cb385fcfee9c]: Textual amendment: Sch. 9 para. 132 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(22)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/22)
+[^c-a8411c8b8efed4fb7ac4cb385fcfee9c]: Textual amendment: Sch. 9 para. 132 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(22)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/22)
 
-[^key-36df30aeea8bbbd4929e7286d375357d]: Textual amendment: Sch. 9 para. 132 renumbered as Sch. 9 para. 132(1) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(23)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/23/a)
+[^c-36df30aeea8bbbd4929e7286d375357d]: Textual amendment: Sch. 9 para. 132 renumbered as Sch. 9 para. 132(1) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(23)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/23/a)
 
-[^key-1a56b1c592ae35df82127d29d4f1ea58]: Textual amendment: Words in Sch. 9 para. 132(1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(23)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/23/b)
+[^c-1a56b1c592ae35df82127d29d4f1ea58]: Textual amendment: Words in Sch. 9 para. 132(1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(23)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/23/b)
 
-[^key-9d7a8e55d3e8fb37538a9c721f0510d6]: Textual amendment: Sch. 9 para. 132(2)-(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(23)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/23/c)
+[^c-9d7a8e55d3e8fb37538a9c721f0510d6]: Textual amendment: Sch. 9 para. 132(2)-(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(23)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/23/c)
 
-[^key-3ce0d5eea4fb98097409a213abbcee34]: Textual amendment: Words in Sch. 9 para. 132(2) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(11)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/11/a/i)
+[^c-3ce0d5eea4fb98097409a213abbcee34]: Textual amendment: Words in Sch. 9 para. 132(2) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(11)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/11/a/i)
 
-[^key-514b17f93062206551482587f66fecef]: Textual amendment: Words in Sch. 9 para. 132(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/11/a/ii)
+[^c-514b17f93062206551482587f66fecef]: Textual amendment: Words in Sch. 9 para. 132(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/11/a/ii)
 
-[^key-9b1c9b36e7c468e960ded9dbad824bff]: Textual amendment: Word in Sch. 9 para. 132(4) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(11)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/11/b)
+[^c-9b1c9b36e7c468e960ded9dbad824bff]: Textual amendment: Word in Sch. 9 para. 132(4) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17(11)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17/11/b)
 
-[^key-105fdf2a72adf4a959087012c0bc4063]: Textual amendment: [Sch. 9 para. 132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/132A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(24)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/24)
+[^c-105fdf2a72adf4a959087012c0bc4063]: Textual amendment: [Sch. 9 para. 132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/132A) and cross-heading inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 4(24)](https://www.legislation.gov.uk/uksi/2024/356/regulation/4/24)
 
-[^key-0014f1d8fef90bbc8e28faf8b320d107]: Textual amendment: [Sch. 9 para. 134(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/2/b) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/2/a)
+[^c-0014f1d8fef90bbc8e28faf8b320d107]: Textual amendment: [Sch. 9 para. 134(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/2/b) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/2/a)
 
-[^key-5c2205db6eb04248e6849f2230c7da60]: Textual amendment: Words in [Sch. 9 para. 134(2)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/2/d) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/2/b)
+[^c-5c2205db6eb04248e6849f2230c7da60]: Textual amendment: Words in [Sch. 9 para. 134(2)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/2/d) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/2/b)
 
-[^key-0c9d02451315d78e1643ed44a53607b3]: Textual amendment: Words in [Sch. 9 para. 134(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/3) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/3)
+[^c-0c9d02451315d78e1643ed44a53607b3]: Textual amendment: Words in [Sch. 9 para. 134(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/3) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/3)
 
-[^key-29bcc68c8326579f9091775b8b7224a3]: Textual amendment: Words in [Sch. 9 para. 134(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/4) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/4)
+[^c-29bcc68c8326579f9091775b8b7224a3]: Textual amendment: Words in [Sch. 9 para. 134(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/134/4) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 59(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/59/4)

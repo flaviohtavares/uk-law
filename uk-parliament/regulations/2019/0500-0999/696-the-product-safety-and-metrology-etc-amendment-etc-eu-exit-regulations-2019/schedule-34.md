@@ -22,15 +22,15 @@ summary: ''
 
 Regulation 37
 
-### 1. Introduction[^key-a6ac10fcd2a8bad24b5f72e7ec21e117]
+### 1. Introduction[^c-a6ac10fcd2a8bad24b5f72e7ec21e117]
 
 Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) of the European Parliament and of the Council of 30 November on cosmetic products (recast) is amended in accordance with paragraphs 2 to 28.
 
-### 2. Amendment of Article 1[^key-db5bec4836e7f919f65c6941557eb56d]
+### 2. Amendment of Article 1[^c-db5bec4836e7f919f65c6941557eb56d]
 
 In Article 1 (scope and objective) omit “internal”.
 
-### 3. Amendment of Article 2[^key-1d06fe7a994470632d25fd09a9cefd45]
+### 3. Amendment of Article 2[^c-1d06fe7a994470632d25fd09a9cefd45]
 
 In Article 2 (definitions), in paragraph 1—
 
@@ -41,16 +41,16 @@ In Article 2 (definitions), in paragraph 1—
   - (i) omit “natural or legal”;
   - (ii) omit “Community”;
 - (c) in point (g) (making available on the market)—
-  - (i)[^key-55dc4a48e1865b56f1d6c1eab5ba015a] for “Community market” substitute “ market of Great Britain ”;
+  - (i)[^c-55dc4a48e1865b56f1d6c1eab5ba015a] for “Community market” substitute “ market of Great Britain ”;
   - (ii) at the end insert “ and related expressions are to be construed accordingly ”;
 - (d) for point (h) (placing on the market) substitute—
 
-  > - (h) placing on the market' means the first making available of a cosmetic product on the market of Great Britain[^key-ba044dc1abf5b7593f741862ea7b5305] on or after IP completion day[^key-96f8c018b4ec55888d5cbf5d42aabefe] and related expressions are to be construed accordingly;
+  > - (h) placing on the market' means the first making available of a cosmetic product on the market of Great Britain[^c-ba044dc1abf5b7593f741862ea7b5305] on or after IP completion day[^c-96f8c018b4ec55888d5cbf5d42aabefe] and related expressions are to be construed accordingly;
 
   ;
 - (e) for point (i) (importer) substitute—
 
-  > - (i)[^key-9d8ddd154d82450953e9580776df8e09] “**importer**” means a person who—
+  > - (i)[^c-9d8ddd154d82450953e9580776df8e09] “**importer**” means a person who—
   >   - (aa) is established in the United Kingdom and places a cosmetic product from a country outside of the United Kingdom on the market; or
   >   - (bb) is established in Northern Ireland and places a cosmetic product on the market that has been supplied to them for distribution, consumption or use in the course of a commercial activity, whether in return for payment or free of charge, from an EEA state;
 
@@ -60,15 +60,15 @@ In Article 2 (definitions), in paragraph 1—
 - (h) after point (s) insert—
 
   > - (t) ‘Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272)’ means Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16<sup>th</sup> December 2008 on classifications, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) and [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation [(EC) 1907/2006](https://www.legislation.gov.uk/eur/2006/1907);
-  > - (u) ‘EU Regulation (pre-exit)’ means Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) of the European Parliament and of the Council of 30 November on cosmetic products (recast) [^c24327641], as it has effect immediately before IP completion day[^key-ea8059720efc77e18b86004c0636b230];
+  > - (u) ‘EU Regulation (pre-exit)’ means Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) of the European Parliament and of the Council of 30 November on cosmetic products (recast) [^c24327641], as it has effect immediately before IP completion day[^c-ea8059720efc77e18b86004c0636b230];
   > - (v) ‘Enforcement Regulations’ means the Cosmetic Products Enforcement Regulations 2013 [^c24327651];
-  > - (va)[^key-a9261d3f564fdc9704b6923283fcda48] ‘CMR’ means carcinogenic, mutagenic or toxic for reproduction;
+  > - (va)[^c-a9261d3f564fdc9704b6923283fcda48] ‘CMR’ means carcinogenic, mutagenic or toxic for reproduction;
   > - (w) ‘competent authority’ has the meaning given to it in regulation 4 of the Enforcement Regulations;
   > - (x) ‘enforcement authority’ has the meaning given to it in regulation 2(1) of the Enforcement Regulations;
   > - (y) ‘finished cosmetic product’ means the cosmetic product in its final formulation, as placed on the market and made available to the end user, or its prototype;
-  > - (ya)[^key-ed2f8e0a8f4b2f004815b702a474816e] ‘historic animal testing data’ means data from any animal testing that was carried out before the date on which such testing was prohibited in accordance with Article 18 of the EU Regulation (pre-exit);
+  > - (ya)[^c-ed2f8e0a8f4b2f004815b702a474816e] ‘historic animal testing data’ means data from any animal testing that was carried out before the date on which such testing was prohibited in accordance with Article 18 of the EU Regulation (pre-exit);
   > - (z) ‘prototype’ means a first model or design that has not been produced in batches, and from which the finished cosmetic product is copied or finally developed;
-  > - (za) “**the transitory period**” means the period of 90 days beginning on the day after the day on which IP completion day[^key-6552fd003b0cf187c07f516eac4ecd4a] falls.
+  > - (za) “**the transitory period**” means the period of 90 days beginning on the day after the day on which IP completion day[^c-6552fd003b0cf187c07f516eac4ecd4a] falls.
 
   ;
 - (i) for paragraph (3) substitute—
@@ -102,11 +102,11 @@ In Article 2 (definitions), in paragraph 1—
 
   .
 
-### 4. Amendment of Article 3[^key-6358f812edfcf98d74a73b3dec13f91a]
+### 4. Amendment of Article 3[^c-6358f812edfcf98d74a73b3dec13f91a]
 
 In Article 3 (safety), in point (a) for “Directive [87/357/EEC](https://www.legislation.gov.uk/eudr/1987/357)” substitute “ the Food Imitations (Safety) Regulations 1989 [^c24327661] ”.
 
-### 5. Substitution of Article 4[^key-733b54c83d1867c864e9d04e96b76112]
+### 5. Substitution of Article 4[^c-733b54c83d1867c864e9d04e96b76112]
 
 For Article 4 (responsible person) substitute—
 
@@ -146,11 +146,11 @@ For Article 4 (responsible person) substitute—
 
 .
 
-### 6. Amendment of Article 5[^key-ab5ad9271e11411901d10176a2452496]
+### 6. Amendment of Article 5[^c-ab5ad9271e11411901d10176a2452496]
 
 In Article 5 (obligations of responsible persons)—
 
-- (ia)[^key-18c475cf25c14a50ed5bcaafe5ec9789] at the beginning of paragraph 1 insert “ Subject to Article 5A ”;
+- (ia)[^c-18c475cf25c14a50ed5bcaafe5ec9789] at the beginning of paragraph 1 insert “ Subject to Article 5A ”;
 - (a) in paragraphs 2 and 3 omit “national”;
 - (b) in paragraph 2 omit the words from “of the Member States” (in the first place in which it occurs) to “accessible”;
 - (c) in paragraph 3 omit “, in a language which can be easily understood by that authority”;
@@ -160,7 +160,7 @@ In Article 5 (obligations of responsible persons)—
 
   .
 
-### 6. Insertion of Article 5A[^key-d1de6e08ba32c1407925dfbe2d6dac90][^M_I_08dd63bc-3182-49b0-b7bb-7bed50007a60]
+### 6. Insertion of Article 5A[^c-d1de6e08ba32c1407925dfbe2d6dac90][^M_I_08dd63bc-3182-49b0-b7bb-7bed50007a60]
 
 After Article 5 insert—
 
@@ -193,7 +193,7 @@ After Article 5 insert—
 > - “**EU Regulation (Northern Ireland)**” means Regulation [(EC) No. 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) of the European Parliament and of the Council of 30<sup>th</sup> December 2008 on cosmetic products (recast), as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
 > - “**qualifying Northern Ireland goods**” has the meaning given to it in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018.
 
-### 7. Amendment of Article 6[^key-d67100d95d9119e0f628ade7d9ca39d4]
+### 7. Amendment of Article 6[^c-d67100d95d9119e0f628ade7d9ca39d4]
 
 In Article 6 (obligations of distributors)—
 
@@ -209,18 +209,18 @@ In Article 6 (obligations of distributors)—
 
   .
 
-### 8. Amendment of Article 8[^key-4d63dc27cd7ebf18d8eef70243167ece]
+### 8. Amendment of Article 8[^c-4d63dc27cd7ebf18d8eef70243167ece]
 
 In Article 8 (good manufacturing practice), in paragraph 2—
 
 - (a) for “harmonised” substitute “ designated ”;
 - (b) omit “, the references of which have been published in the Official Journal of the European Union”.
 
-### 9. Omission of Article 9[^key-e6d26bbde70256b359480386cc413af7]
+### 9. Omission of Article 9[^c-e6d26bbde70256b359480386cc413af7]
 
 Omit Article 9 (free movement).
 
-### 10. Amendment of Article 10[^key-854700f735ef1a032bdda1c16161c008]
+### 10. Amendment of Article 10[^c-854700f735ef1a032bdda1c16161c008]
 
 In Article 10 (safety assessment)—
 
@@ -231,7 +231,7 @@ In Article 10 (safety assessment)—
   - (ii) before “international standards” omit “other”;
   - (iii) for “Commission or the ECHA” substitute “ Secretary of State ”.
 
-### 11. Amendment of Article 11[^key-29ed0cb42c738cf6adf0d63ed52932dc]
+### 11. Amendment of Article 11[^c-29ed0cb42c738cf6adf0d63ed52932dc]
 
 In Article 11 (product information file)—
 
@@ -247,7 +247,7 @@ In Article 11 (product information file)—
 
   .
 
-### 12. Amendment of Article 12[^key-50da031a440ec8816ed352e6ed2ed8bd]
+### 12. Amendment of Article 12[^c-50da031a440ec8816ed352e6ed2ed8bd]
 
 In Article12, in paragraph 2—
 
@@ -255,7 +255,7 @@ In Article12, in paragraph 2—
 - (b) for “harmonised” substitute “ designated ”;
 - (c) omit “, the references of which have been published in the Official Journal of the European Union”.
 
-### 13. Substitution of Article 13[^key-707d45ac0b84be901c4298c3765ad636]
+### 13. Substitution of Article 13[^c-707d45ac0b84be901c4298c3765ad636]
 
 For Article 13 (notification) substitute—
 
@@ -271,12 +271,12 @@ For Article 13 (notification) substitute—
 >   - (i) presence of substances in the form of nanomaterials;
 >   - (ii) the identification including the chemical name (IUPAC) and other descriptors as specified in point 2 of the Preamble to Annexes 2 to 6 to this Regulation; and
 >   - (iii) the reasonably foreseeable exposure conditions;
-> - (f) the name and the Chemicals Abstracts Service (CAS) or EC number of substances classified as CMR substances of category 1A or 1B[^key-83917f7238b90619f37697091db1454d] under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272);
+> - (f) the name and the Chemicals Abstracts Service (CAS) or EC number of substances classified as CMR substances of category 1A or 1B[^c-83917f7238b90619f37697091db1454d] under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272);
 > - (g) the frame formulation allowing for prompt and appropriate medical treatment in the event of difficulties.
 >
 > **2.** When a cosmetic product is placed on the market, the responsible person must notify to the Secretary of State the original labelling and, where reasonably legible, a photograph of the corresponding packaging
 >
-> **3.** Paragraph 4 applies in relation to a cosmetic product where prior to IP completion day[^key-08cc333b89e4092cce165e974e72d924]—
+> **3.** Paragraph 4 applies in relation to a cosmetic product where prior to IP completion day[^c-08cc333b89e4092cce165e974e72d924]—
 >
 > - (a) the cosmetic product has been supplied on the market of the United Kingdom or the market of any EEA state for distribution, consumption or use in the course of a commercial activity (whether in return for payment or free of charge); and
 > - (b) a responsible person designated under Article 4 of the EU Regulation (pre-exit) has complied with Article 13 of that Regulation in relation to that product.
@@ -314,7 +314,7 @@ For Article 13 (notification) substitute—
 
 .
 
-### 14. Amendment of Article 14[^key-3e67c493fd0667a6bd5d75e19cf7d781]
+### 14. Amendment of Article 14[^c-3e67c493fd0667a6bd5d75e19cf7d781]
 
 In Article 14 (restrictions for substances)—
 
@@ -325,19 +325,19 @@ In Article 14 (restrictions for substances)—
   - (iii) “point (c)(i) does not apply to hair colouring products;”;
 - (c) omit paragraph 2.
 
-### 15. Substitution of Article 15[^key-cb2f3cba13fa81f6e00661e6dc4f5d7f]
+### 15. Substitution of Article 15[^c-cb2f3cba13fa81f6e00661e6dc4f5d7f]
 
 For Article 15 (substances classified as CMR substances) substitute—
 
 > **Article 15 — Substances classified as CMR substances**
 >
-> **1.**[^key-2525c00fca0192f65cfd3cd54e1a6e59] A cosmetic product must not contain a substance classified as a CMR substance of category 1A, 1B or 2 under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272), unless the substance is included in any of Annexes 3 to 6.
+> **1.**[^c-2525c00fca0192f65cfd3cd54e1a6e59] A cosmetic product must not contain a substance classified as a CMR substance of category 1A, 1B or 2 under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272), unless the substance is included in any of Annexes 3 to 6.
 >
-> **2.**[^key-c0a86698ab92c1a07536050ebd43eb2d] Where a CMR substance of category 1A or 1B is permitted for use in cosmetic products, specific labelling in order to avoid misuse of the cosmetic product must be provided in accordance with Article 3 of this Regulation, taking into account possible risks linked to the presence of hazardous substances and the routes of exposure.
+> **2.**[^c-c0a86698ab92c1a07536050ebd43eb2d] Where a CMR substance of category 1A or 1B is permitted for use in cosmetic products, specific labelling in order to avoid misuse of the cosmetic product must be provided in accordance with Article 3 of this Regulation, taking into account possible risks linked to the presence of hazardous substances and the routes of exposure.
 
 .
 
-### 16. Substitution of Article 16[^key-448a76d140c5d34381c352f7c59c0dc7]
+### 16. Substitution of Article 16[^c-448a76d140c5d34381c352f7c59c0dc7]
 
 For Article 16 (nanomaterials) substitute—
 
@@ -362,7 +362,7 @@ For Article 16 (nanomaterials) substitute—
 > - (e) the safety data of the nanomaterial relating to the category of cosmetic product, as used in such products;
 > - (f) the reasonably foreseeable exposure conditions.
 >
-> **5.** Paragraph 6 applies in relation to a cosmetic product containing nanomaterials where prior to IP completion day[^key-3bfbddd9777e6e88006b7b971d5ed46b]—
+> **5.** Paragraph 6 applies in relation to a cosmetic product containing nanomaterials where prior to IP completion day[^c-3bfbddd9777e6e88006b7b971d5ed46b]—
 >
 > - (a) the cosmetic product has been supplied on the market of the United Kingdom or the market of any EEA state for distribution, consumption or use in the course of a commercial activity (whether in return for payment or free of charge); and
 > - (b) a responsible person designated under Article 4 of the EU Regulation (pre-exit) has complied with Article 16 of that Regulation in relation to that product.
@@ -410,18 +410,18 @@ For Article 16 (nanomaterials) substitute—
 
 .
 
-### 17. Substitution of Article 18[^key-797df12c8fddea2cb11b6e89dc4f1237]
+### 17. Substitution of Article 18[^c-797df12c8fddea2cb11b6e89dc4f1237]
 
 For Article 18 (animal testing) substitute—
 
 > **Article 18 — Animal testing**
 >
-> **1.** Except as provided in paragraph 1A,[^key-0dd11973a219025098e0e79599f1dd60] no cosmetic product may be placed on the market—
+> **1.** Except as provided in paragraph 1A,[^c-0dd11973a219025098e0e79599f1dd60] no cosmetic product may be placed on the market—
 >
 > - (a) where the final formulation of the product has been the subject of animal testing in order to meet the requirements of this Regulation;
 > - (b) where the ingredients or combinations of ingredients of the product have been the subject of animal testing in order to meet the requirements of this Regulation.
 >
-> **1A.[^key-13b05360adc73e717086e1c0fdcd4311]**
+> **1A.[^c-13b05360adc73e717086e1c0fdcd4311]**
 >
 > Paragraph 1 does not prevent the use of historic animal testing data in order to meet the requirements of this Regulation.
 >
@@ -431,21 +431,21 @@ For Article 18 (animal testing) substitute—
 
 .
 
-### 18. Amendment of Article 19[^key-66ce5aab2c46dea0e2a05a4b288d0321]
+### 18. Amendment of Article 19[^c-66ce5aab2c46dea0e2a05a4b288d0321]
 
 In Article 19 (labelling)—
 
 - (a) in paragraph 1 point (a) for “his” substitute “ their ”;
 - (b) after point (a) of paragraph 1 insert—
 
-  > - (ab) for a period of two years beginning on the day after the day on which IP completion day[^key-f63a91af5e0781e4eaca51ee2e2ddc85] falls, point (a) is to be treated as satisfied where the requirements of Article 19(1)(a) of the EU Regulation (pre-exit) are complied with;
+  > - (ab) for a period of two years beginning on the day after the day on which IP completion day[^c-f63a91af5e0781e4eaca51ee2e2ddc85] falls, point (a) is to be treated as satisfied where the requirements of Article 19(1)(a) of the EU Regulation (pre-exit) are complied with;
 
   ;
 - (c) in paragraph 4 for the words from “Member” to “rules” substitute “ the requirements of regulation 5(1) and (2) of the Enforcement Regulations apply ”;
 - (d) in paragraph 5 for the words from “shall be” to “user” substitute “ must meet the requirements of regulation 5(3) of the Enforcement Regulations ”;
 - (e) in paragraph 6 for “provided for” substitute “ referred to ”.
 
-### 19. Amendment of Article 20[^key-0767f59e33fc731b8e4ebd9428148819]
+### 19. Amendment of Article 20[^c-0767f59e33fc731b8e4ebd9428148819]
 
 In Article 20 (product claims)—
 
@@ -456,7 +456,7 @@ In Article 20 (product claims)—
   ;
 - (b) in paragraph 3 for “his” substitute “the manufacturer's”.
 
-### 20. Amendment of Article 22[^key-1de9af7342062f821edfaecb21d3509f]
+### 20. Amendment of Article 22[^c-1de9af7342062f821edfaecb21d3509f]
 
 In Article 22 (in-market control)—
 
@@ -469,7 +469,7 @@ In Article 22 (in-market control)—
   ;
 - (d) omit the fourth paragraph.
 
-### 21. Amendment of Article 23[^key-1be56f91eab0abd74cca8372f4b7d8b8]
+### 21. Amendment of Article 23[^c-1be56f91eab0abd74cca8372f4b7d8b8]
 
 In Article 23 (communication of serious undesirable effects)—
 
@@ -498,7 +498,7 @@ In Article 23 (communication of serious undesirable effects)—
 
   .
 
-### 22. Amendment of Article 24[^key-ce6d2d26a5fee5a444f5db43759a6896]
+### 22. Amendment of Article 24[^c-ce6d2d26a5fee5a444f5db43759a6896]
 
 In Article 24 (information on substances)—
 
@@ -506,7 +506,7 @@ In Article 24 (information on substances)—
 - (b) omit the words from “of a Member” to “market”;
 - (c) for “he” substitute “ the responsible person ”.
 
-### 23. Amendment of Article 25[^key-3ab82027687c4839b9bf1d0fcc995e7c]
+### 23. Amendment of Article 25[^c-3ab82027687c4839b9bf1d0fcc995e7c]
 
 In regulation 25 (non-compliance by responsible person)—
 
@@ -526,7 +526,7 @@ In regulation 25 (non-compliance by responsible person)—
 
   .
 
-### 24. Amendment to Article 27[^key-872c50ec7c9a3444e778796801563811]
+### 24. Amendment to Article 27[^c-872c50ec7c9a3444e778796801563811]
 
 In Article 27 (safeguard clause)—
 
@@ -547,7 +547,7 @@ In Article 27 (safeguard clause)—
   ;
 - (e) omit paragraph 5.
 
-### 25. Amendment of Article 28[^key-7bf1c71b9471775dbb09c866b8d21488]
+### 25. Amendment of Article 28[^c-7bf1c71b9471775dbb09c866b8d21488]
 
 In Article 28 (good administrative practice)—
 
@@ -556,11 +556,11 @@ In Article 28 (good administrative practice)—
   - (ii) omit “of the Member State concerned”;
 - (b) in paragraph 2 for “his” substitute “ their ”.
 
-### 26. Omission of Chapter 9[^key-3d89ef7b698e76194b359225217a210f]
+### 26. Omission of Chapter 9[^c-3d89ef7b698e76194b359225217a210f]
 
 Omit Chapter 9.
 
-### 27. Substitution of Chapter 10[^key-54e772da96c04efc0436de6648454c21]
+### 27. Substitution of Chapter 10[^c-54e772da96c04efc0436de6648454c21]
 
 For Chapter 10, substitute—
 
@@ -576,7 +576,7 @@ For Chapter 10, substitute—
 >
 > **2.** The Secretary of State may by regulations amend paragraph 3 of Article 2(2) to reflect any changes in the name or structure of the recognised standardisation bodies.
 >
-> **3.**[^key-f315a1513d38c4aaece7364d606a658d] Where the conditions in paragraph 4 are met, the Secretary of State may by regulations amend Article 16(1) to extend the provisions of Article 16 to nanomaterials used as colourants, UV-filters or preservatives that are regulated under Article 14.
+> **3.**[^c-f315a1513d38c4aaece7364d606a658d] Where the conditions in paragraph 4 are met, the Secretary of State may by regulations amend Article 16(1) to extend the provisions of Article 16 to nanomaterials used as colourants, UV-filters or preservatives that are regulated under Article 14.
 >
 > **4.**
 >
@@ -598,7 +598,7 @@ For Chapter 10, substitute—
 > - (c) Annexes 2 or 3 where the Secretary of State considers that there is insufficient data to be able to determine whether there is a potential risk to human health;
 > - (d) Annexes 3 to 6 and 8 where the Secretary of State considers that there is sufficient scientific evidence that it is necessary to do so to take technical progress into account;
 > - (e) Annex 4 to extend its scope to hair colouring products.
-> - (f)[^key-e75f0f2e52b093649acf6cbcc680bcd2] Annex 2 to add a substance classified as a CMR substance of category 1A, 1B or 2 under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272);
+> - (f)[^c-e75f0f2e52b093649acf6cbcc680bcd2] Annex 2 to add a substance classified as a CMR substance of category 1A, 1B or 2 under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272);
 > - (g) Annexes 3 to 6—
 >   - (i) to allow a substance classified as a CMR substance of category 2 under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) to be used in cosmetic products where the Secretary of State considers that there is sufficient scientific evidence that the substance is safe for use in cosmetic products;
 >   - (ii) to allow a substance classified as a CMR substance of category 1A or 1B under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) to be used in cosmetic products where the conditions in point (h) are met;
@@ -634,7 +634,7 @@ For Chapter 10, substitute—
 
 .
 
-### 28. Amendment to the Preamble to Annexes 2 to 6[^key-81bf3ab22f5bcef83cecd84629278b8f]
+### 28. Amendment to the Preamble to Annexes 2 to 6[^c-81bf3ab22f5bcef83cecd84629278b8f]
 
 In paragraph 2, after “1907/2006” insert “ of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restrictions of Chemicals establishing a European Chemicals Agency, amending Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and repealing Council Regulation [(EEC) No 793/93](https://www.legislation.gov.uk/eur/1993/793) and Commission Regulation [(EC) No 1488/94](https://www.legislation.gov.uk/eur/1994/1488) as well as Council Directive [76/769/EEC](https://www.legislation.gov.uk/eudr/1976/769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/eudr/1991/155), [93/67/EEC](https://www.legislation.gov.uk/eudr/1993/67), [93/105/EC](https://www.legislation.gov.uk/eudr/1993/105) and [2000/21/EC](https://www.legislation.gov.uk/eudr/2000/21) ”.
 
@@ -642,9 +642,9 @@ In paragraph 2, after “1907/2006” insert “ of the European Parliament and 
 
 *Extent: E+W+S*
 
-**29.**[^key-e825b249658042b09ce1ae769fcd811b] The Cosmetic Products Enforcement Regulations 2013 [^c24327691] are amended in accordance with paragraphs 30 to 40.
+**29.**[^c-e825b249658042b09ce1ae769fcd811b] The Cosmetic Products Enforcement Regulations 2013 [^c24327691] are amended in accordance with paragraphs 30 to 40.
 
-#### 30. Amendment to regulation 2[^key-f36b8091f1ba69f99468aa4e3c507fd7]
+#### 30. Amendment to regulation 2[^c-f36b8091f1ba69f99468aa4e3c507fd7]
 
 In regulation 2 (interpretation)—
 
@@ -653,7 +653,7 @@ In regulation 2 (interpretation)—
 - (c) omit paragraph (2);
 - (d) in paragraph (3) omit “EU” in both places in which it occurs.
 
-#### 31. Amendment to regulation 3[^key-4c8e18249a96091fd1474b01909e6a7e]
+#### 31. Amendment to regulation 3[^c-4c8e18249a96091fd1474b01909e6a7e]
 
 In regulation 3 (revocation and savings)—
 
@@ -671,7 +671,7 @@ In regulation 3 (revocation and savings)—
 
   .
 
-#### 32. Insertion of regulation 3A[^key-7f10111fcf1f93f007703208d8b7fe8c]
+#### 32. Insertion of regulation 3A[^c-7f10111fcf1f93f007703208d8b7fe8c]
 
 After regulation 3, insert—
 
@@ -679,7 +679,7 @@ After regulation 3, insert—
 >
 > (1) In this regulation—
 >
-> - “**pre-exit period**” means the period beginning with 11 July 2013 and ending immediately before IP completion day[^key-a186202006f043ec03e7e6343ee4adda];
+> - “**pre-exit period**” means the period beginning with 11 July 2013 and ending immediately before IP completion day[^c-a186202006f043ec03e7e6343ee4adda];
 > - “**product**” means a cosmetic product to which these Regulations apply.
 >
 > (2) Subject to paragraph (3), where a product was made available on the market during the pre-exit period, despite the amendments made by Schedule 34 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24327701]—
@@ -694,7 +694,7 @@ After regulation 3, insert—
 
 .
 
-#### 33. Amendment to regulation 4[^key-2c4cc85a007e40fe72b1b56789a3e19f]
+#### 33. Amendment to regulation 4[^c-2c4cc85a007e40fe72b1b56789a3e19f]
 
 In regulation 4 (competent authority)—
 
@@ -704,48 +704,48 @@ In regulation 4 (competent authority)—
 - (b) omit paragraph (2);
 - (c) in paragraph (3) omit “Notwithstanding paragraph (2),”.
 
-#### 34. Amendment to regulations 5 to 8 and 10[^key-fc03b6f4412c9ee68a0a5927c8244c73]
+#### 34. Amendment to regulations 5 to 8 and 10[^c-fc03b6f4412c9ee68a0a5927c8244c73]
 
 In regulations 5 to 8 and 10 each place in which it occurs and in the heading to regulation 8 omit “EU”.
 
-#### 35. Omission of regulation 9[^key-d2d90fe6cc763e30e201ed5c918dda51]
+#### 35. Omission of regulation 9[^c-d2d90fe6cc763e30e201ed5c918dda51]
 
 Omit regulation 9.
 
-#### 36. Amendment to regulation 10[^key-09c6e576206281221f2917965898df1e]
+#### 36. Amendment to regulation 10[^c-09c6e576206281221f2917965898df1e]
 
 In regulation 10 (notification to the Secretary of State) omit the words from “,which is required” to “member States”.
 
-#### 37. Amendment to regulation 11[^key-35df43a095caf70c99effb9e34f9ee10]
+#### 37. Amendment to regulation 11[^c-35df43a095caf70c99effb9e34f9ee10]
 
 In regulation 11 for “regulation 9” substitute “ Article 27(2) of the Cosmetics Regulation ”.
 
-#### 38. Amendment to regulations 12 to 15, 17, 19 to 21[^key-01128d1d3eab459e5deb5f4a483f5b5d]
+#### 38. Amendment to regulations 12 to 15, 17, 19 to 21[^c-01128d1d3eab459e5deb5f4a483f5b5d]
 
 In regulations 12 to 15, 17 and 19 to 21 in each place in which it occurs omit “EU”.
 
-#### 39. Amendment to regulation 26[^key-41511121e3ad6b577cb3ffd0ae2cfaaa]
+#### 39. Amendment to regulation 26[^c-41511121e3ad6b577cb3ffd0ae2cfaaa]
 
 In regulation 26 in paragraphs (1) and (3) after “these Regulations” insert “ and the Cosmetic Regulation ”.
 
-#### 40. Amendment to Schedule 3[^key-92bbef2e5744f095007be543938ebc0d]
+#### 40. Amendment to Schedule 3[^c-92bbef2e5744f095007be543938ebc0d]
 
 In Schedule 3 (sampling and testing) omit “EU” in each place in which it occurs.
 
 ### PART 4 — Amendment to EU tertiary legislation
 
-#### 41. Amendment to Commission Regulation (EU) No 655/2013[^key-a7c92b2193983cce086e7a7c8b48ccc1]
+#### 41. Amendment to Commission Regulation (EU) No 655/2013[^c-a7c92b2193983cce086e7a7c8b48ccc1]
 
 Commission Regulation (EU) No 655/2013 of 10 July 2013 laying down common criteria for the justification of claims used in relation to cosmetic products is amended in accordance with paragraphs 42 and 43.
 
-#### 42. Amendment to Article 2[^key-6341c77ba4dce3073b0ecfe7dcb3e1d8]
+#### 42. Amendment to Article 2[^c-6341c77ba4dce3073b0ecfe7dcb3e1d8]
 
 In Article 2—
 
 - (a) in the first place in which it occurs, after “1223/2009” insert “of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast);
 - (b) in the second place in which it occurs for “Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223)” substitute “ that Regulation ”.
 
-#### 43. Amendment to the Annex[^key-83c1055fa5464bd36eaad0ca3c872324]
+#### 43. Amendment to the Annex[^c-83c1055fa5464bd36eaad0ca3c872324]
 
 In the Annex—
 
@@ -754,148 +754,148 @@ In the Annex—
 
 ## Annotations
 
-[^key-a6ac10fcd2a8bad24b5f72e7ec21e117]: Commencement: Sch. 34 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a6ac10fcd2a8bad24b5f72e7ec21e117]: Commencement: Sch. 34 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-db5bec4836e7f919f65c6941557eb56d]: Commencement: Sch. 34 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-db5bec4836e7f919f65c6941557eb56d]: Commencement: Sch. 34 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1d06fe7a994470632d25fd09a9cefd45]: Commencement: Sch. 34 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1d06fe7a994470632d25fd09a9cefd45]: Commencement: Sch. 34 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-55dc4a48e1865b56f1d6c1eab5ba015a]: Textual amendment: Sch. 34 para. 3(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/2/a)
+[^c-55dc4a48e1865b56f1d6c1eab5ba015a]: Textual amendment: Sch. 34 para. 3(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/2/a)
 
-[^key-ba044dc1abf5b7593f741862ea7b5305]: Textual amendment: Words in Sch. 34 para. 3(d) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/2/b)
+[^c-ba044dc1abf5b7593f741862ea7b5305]: Textual amendment: Words in Sch. 34 para. 3(d) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/2/b)
 
-[^key-96f8c018b4ec55888d5cbf5d42aabefe]: Textual amendment: Words in Sch. 34 para. 3(d) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(i)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/i)
+[^c-96f8c018b4ec55888d5cbf5d42aabefe]: Textual amendment: Words in Sch. 34 para. 3(d) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(i)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/i)
 
-[^key-9d8ddd154d82450953e9580776df8e09]: Textual amendment: Words in Sch. 34 para. 3(e) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/2/c)
+[^c-9d8ddd154d82450953e9580776df8e09]: Textual amendment: Words in Sch. 34 para. 3(e) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/2/c)
 
 [^c24327641]: Marginal citation: OJ L 342, 22.12.2009, p.59.
 
-[^key-ea8059720efc77e18b86004c0636b230]: Textual amendment: Words in Sch. 34 para. 3(h) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(ii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/ii)
+[^c-ea8059720efc77e18b86004c0636b230]: Textual amendment: Words in Sch. 34 para. 3(h) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(ii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/ii)
 
 [^c24327651]: Marginal citation: [S.I. 2013/1478](https://www.legislation.gov.uk/uksi/2013/1478); regulation 7(1)(a) was amended and Schedule 2 was revoked by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630).
 
-[^key-a9261d3f564fdc9704b6923283fcda48]: Textual amendment: Words in Sch. 34 para. 3(h) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(a)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9261d3f564fdc9704b6923283fcda48]: Textual amendment: Words in Sch. 34 para. 3(h) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(a)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed2f8e0a8f4b2f004815b702a474816e]: Textual amendment: Words in Sch. 34 para. 3(h) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed2f8e0a8f4b2f004815b702a474816e]: Textual amendment: Words in Sch. 34 para. 3(h) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6552fd003b0cf187c07f516eac4ecd4a]: Textual amendment: Words in Sch. 34 para. 3(h) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/iii)
+[^c-6552fd003b0cf187c07f516eac4ecd4a]: Textual amendment: Words in Sch. 34 para. 3(h) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/iii)
 
-[^key-6358f812edfcf98d74a73b3dec13f91a]: Commencement: Sch. 34 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6358f812edfcf98d74a73b3dec13f91a]: Commencement: Sch. 34 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327661]: Marginal citation: [S.I. 1989/1291](https://www.legislation.gov.uk/uksi/1989/1291).
 
-[^key-733b54c83d1867c864e9d04e96b76112]: Commencement: Sch. 34 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-733b54c83d1867c864e9d04e96b76112]: Commencement: Sch. 34 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ab5ad9271e11411901d10176a2452496]: Commencement: Sch. 34 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ab5ad9271e11411901d10176a2452496]: Commencement: Sch. 34 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-18c475cf25c14a50ed5bcaafe5ec9789]: Textual amendment: Sch. 34 para. 6(ia) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/3)
+[^c-18c475cf25c14a50ed5bcaafe5ec9789]: Textual amendment: Sch. 34 para. 6(ia) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/3)
 
-[^key-d1de6e08ba32c1407925dfbe2d6dac90]: Textual amendment: Sch. 34 para. 6 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/4)
+[^c-d1de6e08ba32c1407925dfbe2d6dac90]: Textual amendment: Sch. 34 para. 6 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 23(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/23/4)
 
 [^M_I_08dd63bc-3182-49b0-b7bb-7bed50007a60]: Commencement: Sch. 34 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d67100d95d9119e0f628ade7d9ca39d4]: Commencement: Sch. 34 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d67100d95d9119e0f628ade7d9ca39d4]: Commencement: Sch. 34 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4d63dc27cd7ebf18d8eef70243167ece]: Commencement: Sch. 34 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4d63dc27cd7ebf18d8eef70243167ece]: Commencement: Sch. 34 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e6d26bbde70256b359480386cc413af7]: Commencement: Sch. 34 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e6d26bbde70256b359480386cc413af7]: Commencement: Sch. 34 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-854700f735ef1a032bdda1c16161c008]: Commencement: Sch. 34 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-854700f735ef1a032bdda1c16161c008]: Commencement: Sch. 34 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327671]: Marginal citation: [S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106); regulation 2(1) was amended by [S.I. 2004/994](https://www.legislation.gov.uk/uksi/2004/994); there are some other amendments not relevant to these Regulations.
 
-[^key-29ed0cb42c738cf6adf0d63ed52932dc]: Commencement: Sch. 34 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-29ed0cb42c738cf6adf0d63ed52932dc]: Commencement: Sch. 34 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-50da031a440ec8816ed352e6ed2ed8bd]: Commencement: Sch. 34 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-50da031a440ec8816ed352e6ed2ed8bd]: Commencement: Sch. 34 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-707d45ac0b84be901c4298c3765ad636]: Commencement: Sch. 34 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-707d45ac0b84be901c4298c3765ad636]: Commencement: Sch. 34 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-83917f7238b90619f37697091db1454d]: Textual amendment: Words in Sch. 34 para. 13 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83917f7238b90619f37697091db1454d]: Textual amendment: Words in Sch. 34 para. 13 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-08cc333b89e4092cce165e974e72d924]: Textual amendment: Words in Sch. 34 para. 13 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/iv)
+[^c-08cc333b89e4092cce165e974e72d924]: Textual amendment: Words in Sch. 34 para. 13 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/iv)
 
-[^key-3e67c493fd0667a6bd5d75e19cf7d781]: Commencement: Sch. 34 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e67c493fd0667a6bd5d75e19cf7d781]: Commencement: Sch. 34 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cb2f3cba13fa81f6e00661e6dc4f5d7f]: Commencement: Sch. 34 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cb2f3cba13fa81f6e00661e6dc4f5d7f]: Commencement: Sch. 34 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2525c00fca0192f65cfd3cd54e1a6e59]: Textual amendment: Words in Sch. 34 para. 15 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(c)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2525c00fca0192f65cfd3cd54e1a6e59]: Textual amendment: Words in Sch. 34 para. 15 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(c)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0a86698ab92c1a07536050ebd43eb2d]: Textual amendment: Words in Sch. 34 para. 15 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0a86698ab92c1a07536050ebd43eb2d]: Textual amendment: Words in Sch. 34 para. 15 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-448a76d140c5d34381c352f7c59c0dc7]: Commencement: Sch. 34 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-448a76d140c5d34381c352f7c59c0dc7]: Commencement: Sch. 34 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3bfbddd9777e6e88006b7b971d5ed46b]: Textual amendment: Words in Sch. 34 para. 16 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/v)
+[^c-3bfbddd9777e6e88006b7b971d5ed46b]: Textual amendment: Words in Sch. 34 para. 16 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/v)
 
-[^key-797df12c8fddea2cb11b6e89dc4f1237]: Commencement: Sch. 34 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-797df12c8fddea2cb11b6e89dc4f1237]: Commencement: Sch. 34 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0dd11973a219025098e0e79599f1dd60]: Textual amendment: Words in Sch. 34 para. 17 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(d)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0dd11973a219025098e0e79599f1dd60]: Textual amendment: Words in Sch. 34 para. 17 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(d)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13b05360adc73e717086e1c0fdcd4311]: Textual amendment: Words in Sch. 34 para. 17 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13b05360adc73e717086e1c0fdcd4311]: Textual amendment: Words in Sch. 34 para. 17 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66ce5aab2c46dea0e2a05a4b288d0321]: Commencement: Sch. 34 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-66ce5aab2c46dea0e2a05a4b288d0321]: Commencement: Sch. 34 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f63a91af5e0781e4eaca51ee2e2ddc85]: Textual amendment: Words in Sch. 34 para. 18 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/vi)
+[^c-f63a91af5e0781e4eaca51ee2e2ddc85]: Textual amendment: Words in Sch. 34 para. 18 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/vi)
 
-[^key-0767f59e33fc731b8e4ebd9428148819]: Commencement: Sch. 34 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0767f59e33fc731b8e4ebd9428148819]: Commencement: Sch. 34 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1de9af7342062f821edfaecb21d3509f]: Commencement: Sch. 34 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1de9af7342062f821edfaecb21d3509f]: Commencement: Sch. 34 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1be56f91eab0abd74cca8372f4b7d8b8]: Commencement: Sch. 34 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1be56f91eab0abd74cca8372f4b7d8b8]: Commencement: Sch. 34 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ce6d2d26a5fee5a444f5db43759a6896]: Commencement: Sch. 34 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ce6d2d26a5fee5a444f5db43759a6896]: Commencement: Sch. 34 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3ab82027687c4839b9bf1d0fcc995e7c]: Commencement: Sch. 34 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3ab82027687c4839b9bf1d0fcc995e7c]: Commencement: Sch. 34 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-872c50ec7c9a3444e778796801563811]: Commencement: Sch. 34 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-872c50ec7c9a3444e778796801563811]: Commencement: Sch. 34 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7bf1c71b9471775dbb09c866b8d21488]: Commencement: Sch. 34 para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7bf1c71b9471775dbb09c866b8d21488]: Commencement: Sch. 34 para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3d89ef7b698e76194b359225217a210f]: Commencement: Sch. 34 para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3d89ef7b698e76194b359225217a210f]: Commencement: Sch. 34 para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-54e772da96c04efc0436de6648454c21]: Commencement: Sch. 34 para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-54e772da96c04efc0436de6648454c21]: Commencement: Sch. 34 para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f315a1513d38c4aaece7364d606a658d]: Textual amendment: Words in Sch. 34 para. 27 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(e)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f315a1513d38c4aaece7364d606a658d]: Textual amendment: Words in Sch. 34 para. 27 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(e)(i)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e75f0f2e52b093649acf6cbcc680bcd2]: Textual amendment: Words in Sch. 34 para. 27 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e75f0f2e52b093649acf6cbcc680bcd2]: Textual amendment: Words in Sch. 34 para. 27 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [8(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/8/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c24327681]: Marginal citation: Copies of the glossary of common ingredients is available from the Office of Product Safety and Standards, Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H OET.
 
-[^key-81bf3ab22f5bcef83cecd84629278b8f]: Commencement: Sch. 34 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-81bf3ab22f5bcef83cecd84629278b8f]: Commencement: Sch. 34 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e825b249658042b09ce1ae769fcd811b]: Commencement: Sch. 34 para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e825b249658042b09ce1ae769fcd811b]: Commencement: Sch. 34 para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327691]: Marginal citation: [S.I. 2013/1478](https://www.legislation.gov.uk/uksi/2013/1478); regulation 7(1)(a) was amended and Schedule 2 was revoked by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630).
 
-[^key-f36b8091f1ba69f99468aa4e3c507fd7]: Commencement: Sch. 34 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f36b8091f1ba69f99468aa4e3c507fd7]: Commencement: Sch. 34 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4c8e18249a96091fd1474b01909e6a7e]: Commencement: Sch. 34 para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4c8e18249a96091fd1474b01909e6a7e]: Commencement: Sch. 34 para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7f10111fcf1f93f007703208d8b7fe8c]: Commencement: Sch. 34 para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7f10111fcf1f93f007703208d8b7fe8c]: Commencement: Sch. 34 para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a186202006f043ec03e7e6343ee4adda]: Textual amendment: Words in Sch. 34 para. 32 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(vii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/vii)
+[^c-a186202006f043ec03e7e6343ee4adda]: Textual amendment: Words in Sch. 34 para. 32 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(t)(vii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/t/vii)
 
 [^c24327701]: Marginal citation: [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).
 
-[^key-2c4cc85a007e40fe72b1b56789a3e19f]: Commencement: Sch. 34 para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2c4cc85a007e40fe72b1b56789a3e19f]: Commencement: Sch. 34 para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fc03b6f4412c9ee68a0a5927c8244c73]: Commencement: Sch. 34 para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fc03b6f4412c9ee68a0a5927c8244c73]: Commencement: Sch. 34 para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d2d90fe6cc763e30e201ed5c918dda51]: Commencement: Sch. 34 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d2d90fe6cc763e30e201ed5c918dda51]: Commencement: Sch. 34 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-09c6e576206281221f2917965898df1e]: Commencement: Sch. 34 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-09c6e576206281221f2917965898df1e]: Commencement: Sch. 34 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-35df43a095caf70c99effb9e34f9ee10]: Commencement: Sch. 34 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-35df43a095caf70c99effb9e34f9ee10]: Commencement: Sch. 34 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-01128d1d3eab459e5deb5f4a483f5b5d]: Commencement: Sch. 34 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-01128d1d3eab459e5deb5f4a483f5b5d]: Commencement: Sch. 34 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-41511121e3ad6b577cb3ffd0ae2cfaaa]: Commencement: Sch. 34 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-41511121e3ad6b577cb3ffd0ae2cfaaa]: Commencement: Sch. 34 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-92bbef2e5744f095007be543938ebc0d]: Commencement: Sch. 34 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-92bbef2e5744f095007be543938ebc0d]: Commencement: Sch. 34 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a7c92b2193983cce086e7a7c8b48ccc1]: Commencement: Sch. 34 para. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a7c92b2193983cce086e7a7c8b48ccc1]: Commencement: Sch. 34 para. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6341c77ba4dce3073b0ecfe7dcb3e1d8]: Commencement: Sch. 34 para. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6341c77ba4dce3073b0ecfe7dcb3e1d8]: Commencement: Sch. 34 para. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-83c1055fa5464bd36eaad0ca3c872324]: Commencement: Sch. 34 para. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-83c1055fa5464bd36eaad0ca3c872324]: Commencement: Sch. 34 para. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327711]: Marginal citation: OJ L 342, 22.12.2009 p. 59.

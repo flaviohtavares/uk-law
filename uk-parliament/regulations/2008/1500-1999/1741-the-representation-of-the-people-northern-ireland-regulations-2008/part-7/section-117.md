@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Inspection of documents open to public inspection[^key-b1c6e4faed68c4fefd8c54a76ab648ca]
+## 117. Inspection of documents open to public inspection[^c-b1c6e4faed68c4fefd8c54a76ab648ca]
 
 *Extent: N.I.*
 
 (1) Any person is entitled to request that the Chief Electoral Officer for Northern Ireland make available for inspection a copy of any of the following documents (referred to in this regulation and in regulation 118 as “the documents open to public inspection”)—
 
 - (a) the marked register or lists;
-- (b) such other documents relating to an election as the Chief Electoral Officer for Northern Ireland is required by or under any enactment to retain for any period , except the documents specified in paragraph (1A).[^key-345cb37573f9b238d25288e59e9d333a]
+- (b) such other documents relating to an election as the Chief Electoral Officer for Northern Ireland is required by or under any enactment to retain for any period , except the documents specified in paragraph (1A).[^c-345cb37573f9b238d25288e59e9d333a]
 
-(1A)[^key-6f24be82801745305ff9572fdfb0c691] The specified documents are—
+(1A)[^c-6f24be82801745305ff9572fdfb0c691] The specified documents are—
 
 - (a) ballot papers,
 - (b) completed corresponding number lists,
@@ -72,8 +72,8 @@ except that a person who inspects a copy of the marked register or lists may mak
 
 ## Annotations
 
-[^key-b1c6e4faed68c4fefd8c54a76ab648ca]: Modification: [Reg. 117](https://www.legislation.gov.uk/uksi/2008/1741/regulation/117) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 106](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/106)
+[^c-b1c6e4faed68c4fefd8c54a76ab648ca]: Modification: [Reg. 117](https://www.legislation.gov.uk/uksi/2008/1741/regulation/117) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 106](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/106)
 
-[^key-345cb37573f9b238d25288e59e9d333a]: Textual amendment: Words in [reg. 117(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/117/1/b) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/319/regulation/9/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))
+[^c-345cb37573f9b238d25288e59e9d333a]: Textual amendment: Words in [reg. 117(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/117/1/b) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/319/regulation/9/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))
 
-[^key-6f24be82801745305ff9572fdfb0c691]: Textual amendment: [Reg. 117(1A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/117/1A) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/319/regulation/9/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))
+[^c-6f24be82801745305ff9572fdfb0c691]: Textual amendment: [Reg. 117(1A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/117/1A) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/319/regulation/9/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))

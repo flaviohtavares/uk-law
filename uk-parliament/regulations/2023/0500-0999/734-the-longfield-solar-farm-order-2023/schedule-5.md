@@ -22,7 +22,7 @@ summary: ''
 
 Article 9 and Article 10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT AND MAINTAINED BY THE HIGHWAY AUTHORITY[^key-cd9a1c3eef985aed3d67a701530e91cc]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT AND MAINTAINED BY THE HIGHWAY AUTHORITY[^c-cd9a1c3eef985aed3d67a701530e91cc]
 
 | (1)<br>Area | (2)<br>Street | (3)<br>Description of alteration |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Article 9 and Article 10
 | Chelmsford City Council | Noakes Lane | Works, including vegetation clearance, for the creation of visibility splays within the area shown shaded orange on sheet 8 of the streets, access and rights of way plans, reference AS-I4, to facilitate the works in AS-I3. |
 | Braintree District Council | Noakes Lane | Works, including vegetation clearance, for the creation of visibility splays within the area shown shaded orange, on sheet 8 of the streets, access and rights of way plans, reference AS-I5, to facilitate the works in AS-I3. |
 
-### PART 2 — PERMANENT ALTERATION OF LAYOUT AND MAINTAINED BY THE STREET AUTHORITY[^key-e66b9291e6e9bfa084f2a862e8eb3ad5]
+### PART 2 — PERMANENT ALTERATION OF LAYOUT AND MAINTAINED BY THE STREET AUTHORITY[^c-e66b9291e6e9bfa084f2a862e8eb3ad5]
 
 | (1)<br>Area | (2)<br>Street | (3)<br>Description of alteration |
 | --- | --- | --- |
@@ -75,7 +75,7 @@ Article 9 and Article 10
 | Braintree District Council | Private Track | Works for the provision of a permanent means of access to the authorised development within the area shown shaded orange on sheet 9 of the streets, access and rights of way plans, reference AS-J3. |
 | Braintree District Council | Private Track | Works for the provision of a permanent means of access to the authorised development within the area shown shaded orange on sheet 9 of the streets, access and rights of way plans, reference AS-J4. |
 
-### PART 3 — TEMPORARY ALTERATION OF LAYOUT[^key-9d410ce0ab10b322e680575fdaffb93e]
+### PART 3 — TEMPORARY ALTERATION OF LAYOUT[^c-9d410ce0ab10b322e680575fdaffb93e]
 
 | (1)<br>Area | (2)<br>Street | (3)<br>Description of alteration |
 | --- | --- | --- |
@@ -86,8 +86,8 @@ Article 9 and Article 10
 
 ## Annotations
 
-[^key-cd9a1c3eef985aed3d67a701530e91cc]: Commencement: Sch. 5 Pt. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-cd9a1c3eef985aed3d67a701530e91cc]: Commencement: Sch. 5 Pt. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-e66b9291e6e9bfa084f2a862e8eb3ad5]: Commencement: Sch. 5 Pt. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-e66b9291e6e9bfa084f2a862e8eb3ad5]: Commencement: Sch. 5 Pt. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-9d410ce0ab10b322e680575fdaffb93e]: Commencement: Sch. 5 Pt. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-9d410ce0ab10b322e680575fdaffb93e]: Commencement: Sch. 5 Pt. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

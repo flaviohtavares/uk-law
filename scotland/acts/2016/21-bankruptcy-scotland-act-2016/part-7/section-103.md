@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Orders under section 101: supplementary[^key-8f01d78f7e575f2dde8309adfe6728b8]
+## 103. Orders under section 101: supplementary[^c-8f01d78f7e575f2dde8309adfe6728b8]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ applies to a court exercising its powers under section 101.
 
 ## Annotations
 
-[^key-8f01d78f7e575f2dde8309adfe6728b8]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/21/section/103) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8f01d78f7e575f2dde8309adfe6728b8]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/21/section/103) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Prohibition on re-registering name following direction[^key-0d2ab9fc56a2ac0d0ca5fcb1f4456966][^key-724f0fc9fb9e1a6c25b9bb5d9a00425c]
+## 11. Prohibition on re-registering name following direction[^c-0d2ab9fc56a2ac0d0ca5fcb1f4456966][^c-724f0fc9fb9e1a6c25b9bb5d9a00425c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d2ab9fc56a2ac0d0ca5fcb1f4456966]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0d2ab9fc56a2ac0d0ca5fcb1f4456966]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-724f0fc9fb9e1a6c25b9bb5d9a00425c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/56/section/11) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/g)
+[^c-724f0fc9fb9e1a6c25b9bb5d9a00425c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/56/section/11) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/g)

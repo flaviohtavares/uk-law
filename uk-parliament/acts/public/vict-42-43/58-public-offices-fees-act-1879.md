@@ -77,7 +77,7 @@ All fees collected under this Act, when applicable by law to the payment of sala
 
 ## 7. Application of Act.
 
-This Act shall apply to all fees, per-centages, and other sums payable in or to any officer of any public office or department the expenses of which are paid wholly or partly out of the Consolidated Fund or moneys provided by Parliament, including the offices connected with the Senior Courts, the Court of Judicature,[^key-428f94c38f74337e25a02ab81db6e07c] , courts of bankruptcy, county courts, and other courts of law in the United Kingdom, or payable to any officer who is paid wholly or partly out of the Consolidated Fund or moneys provided by Parliament; and the expression “**fee**” shall include all such per-centages and sums.
+This Act shall apply to all fees, per-centages, and other sums payable in or to any officer of any public office or department the expenses of which are paid wholly or partly out of the Consolidated Fund or moneys provided by Parliament, including the offices connected with the Senior Courts, the Court of Judicature,[^c-428f94c38f74337e25a02ab81db6e07c] , courts of bankruptcy, county courts, and other courts of law in the United Kingdom, or payable to any officer who is paid wholly or partly out of the Consolidated Fund or moneys provided by Parliament; and the expression “**fee**” shall include all such per-centages and sums.
 
 Provided that nothing in this Act shall apply—
 
@@ -103,7 +103,7 @@ Provided that nothing in this Act shall apply—
 
 [^c569999]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/XII)
 
-[^key-428f94c38f74337e25a02ab81db6e07c]: Textual amendment: Words substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/14); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-428f94c38f74337e25a02ab81db6e07c]: Textual amendment: Words substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/14); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c570000]: Textual amendment: Words substituted by virtue of S.R. & O. 1909/197 (Rev. V, p. 465; 1909, p. 197), art. 10
 

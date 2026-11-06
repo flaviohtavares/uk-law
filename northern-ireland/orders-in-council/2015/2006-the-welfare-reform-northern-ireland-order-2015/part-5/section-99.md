@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Regulations[^key-3555349fcbd443193a025b856482e4f7]
+## 99. Regulations[^c-3555349fcbd443193a025b856482e4f7]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3555349fcbd443193a025b856482e4f7]: Commencement: [Art. 99](https://www.legislation.gov.uk/nisi/2015/2006/article/99) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(f)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/f)
+[^c-3555349fcbd443193a025b856482e4f7]: Commencement: [Art. 99](https://www.legislation.gov.uk/nisi/2015/2006/article/99) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(f)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/f)

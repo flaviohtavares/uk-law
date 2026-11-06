@@ -23,7 +23,7 @@ summary: ''
 (1) Regulations may authorise or require—
 
 - (a) the proprietor of a school,
-- (b)[^key-6a40f38a8b3926b02fa7676ae03a2b8f] a local authority,
+- (b)[^c-6a40f38a8b3926b02fa7676ae03a2b8f] a local authority,
 - (c) any prescribed person,
 
 to supply to the relevant person (as defined by subsection (2)) prescribed information relating to persons who are or have been qualifying workers or qualifying trainees, for use by the relevant person for a qualifying purpose.
@@ -59,10 +59,10 @@ to supply to the relevant person (as defined by subsection (2)) prescribed infor
 
 (8) Regulations may—
 
-- (a) prohibit any person to whom information is supplied by virtue of this section from further disclosing the information otherwise than in prescribed circumstances, [^key-12b4c6bea8ebb576a4048896d093d724]...
-- (b) in relation to England,[^key-742205dda1f0369508033eb489a222ec]provide that section 497 of the Education Act 1996 (c. 56) (default powers of Secretary of State or Assembly) is, in relation to the duties imposed by virtue of this section, to have effect as if—
-  - (i)[^key-2644893769eb61b6b5dd705de5bf52ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) any reference to a body to which that section applies included a reference to a prescribed person; and[^key-7e58f2765346bc8cf68155a2494e31d7]
+- (a) prohibit any person to whom information is supplied by virtue of this section from further disclosing the information otherwise than in prescribed circumstances, [^c-12b4c6bea8ebb576a4048896d093d724]...
+- (b) in relation to England,[^c-742205dda1f0369508033eb489a222ec]provide that section 497 of the Education Act 1996 (c. 56) (default powers of Secretary of State or Assembly) is, in relation to the duties imposed by virtue of this section, to have effect as if—
+  - (i)[^c-2644893769eb61b6b5dd705de5bf52ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) any reference to a body to which that section applies included a reference to a prescribed person; and[^c-7e58f2765346bc8cf68155a2494e31d7]
 - (c) in relation to Wales, provide that Chapter 2 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (intervention in local authorities) is to have effect as if—
   - (i) references to a local authority included a reference to a prescribed person,
   - (ii) duties imposed by virtue of this section were education functions,
@@ -80,12 +80,12 @@ to supply to the relevant person (as defined by subsection (2)) prescribed infor
 
 ## Annotations
 
-[^key-6a40f38a8b3926b02fa7676ae03a2b8f]: Textual amendment: S. 114(1)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 13(6)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/6/a)
+[^c-6a40f38a8b3926b02fa7676ae03a2b8f]: Textual amendment: S. 114(1)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 13(6)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/6/a)
 
-[^key-12b4c6bea8ebb576a4048896d093d724]: Textual amendment: Word in [s. 114(8)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/114/8/a) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(3)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/3/a); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-12b4c6bea8ebb576a4048896d093d724]: Textual amendment: Word in [s. 114(8)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/114/8/a) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(3)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/3/a); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-742205dda1f0369508033eb489a222ec]: Textual amendment: Words in [s. 114(8)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/114/8/b) inserted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(3)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/3/b); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-742205dda1f0369508033eb489a222ec]: Textual amendment: Words in [s. 114(8)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/114/8/b) inserted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(3)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/3/b); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-2644893769eb61b6b5dd705de5bf52ca]: Textual amendment: S. 114(8)(b)(i) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 13(6)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/6/b), [3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-2644893769eb61b6b5dd705de5bf52ca]: Textual amendment: S. 114(8)(b)(i) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 13(6)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/6/b), [3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
 
-[^key-7e58f2765346bc8cf68155a2494e31d7]: Textual amendment: [S. 114(8)(c)](https://www.legislation.gov.uk/ukpga/2005/18/section/114/8/c) and word inserted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(3)(c)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/3/c); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-7e58f2765346bc8cf68155a2494e31d7]: Textual amendment: [S. 114(8)(c)](https://www.legislation.gov.uk/ukpga/2005/18/section/114/8/c) and word inserted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(3)(c)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/3/c); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

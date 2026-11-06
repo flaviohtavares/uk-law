@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Time when postal signing packs are to be issued[^key-c035c2cf32b6cb8849bffbb81f39ad0a]
+## 86. Time when postal signing packs are to be issued[^c-c035c2cf32b6cb8849bffbb81f39ad0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ A petition officer must issue the postal signing packs as soon as reasonably pra
 
 ## Annotations
 
-[^key-c035c2cf32b6cb8849bffbb81f39ad0a]: Commencement: Reg. 86 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c035c2cf32b6cb8849bffbb81f39ad0a]: Commencement: Reg. 86 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00042]: Footnote: See section 7(1) of the Act; “designated day” means the day from which the petition is made available for signing.

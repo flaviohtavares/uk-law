@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 1 — Meaning of connected person[^key-3ff3f7eee7933f1fd60be5ca0d505064]
+## Schedule 1 — Meaning of connected person[^c-3ff3f7eee7933f1fd60be5ca0d505064]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ The following is the text referred to in sections 1(6) and 6(5)—
 
 ## Annotations
 
-[^key-3ff3f7eee7933f1fd60be5ca0d505064]: Commencement: Sch. 1 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3ff3f7eee7933f1fd60be5ca0d505064]: Commencement: Sch. 1 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

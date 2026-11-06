@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809VO. Investments made from mixed funds[^key-d22f65c468935a2cf97760c287b43072][^key-ecbfc597f6653475e871ac196657f259][^key-c5c5cb7574f58c28b1a8bfc62b2a2e3c][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+## 809VO. Investments made from mixed funds[^c-d22f65c468935a2cf97760c287b43072][^c-ecbfc597f6653475e871ac196657f259][^c-c5c5cb7574f58c28b1a8bfc62b2a2e3c][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The holding is to be treated as containing a proportion of each kind of income and capital contained in the invested property equal to the fixed proportion.
 
-(4)[^key-34b7dababe0147a6391e147cdfaae5c9] The “fixed proportion” is, unless subsection (4B) applies, the proportion of that kind of income or capital contained in the invested property by virtue of subsection (2).
+(4)[^c-34b7dababe0147a6391e147cdfaae5c9] The “fixed proportion” is, unless subsection (4B) applies, the proportion of that kind of income or capital contained in the invested property by virtue of subsection (2).
 
 (4A) Subsection (4B) applies, instead of subsection (3), for determining the composition of the holding in connection with the application of subsections (7) and (8) where the holding contains TRF capital (as a result of the designation of income or capital in the holding as TRF capital in the tax year after the tax year in which the relevant event occurred).
 
@@ -51,15 +51,15 @@ summary: ''
 - (a) section 809VG(2) does not apply because an amount is taken offshore, re-invested or used to make a tax deposit, or
 - (b) section 809VM(4) does not apply because an amount is taken offshore or re-invested.
 
-(7) The amount taken offshore, re-invested or used to make a tax deposit is treated, immediately after that step, as containing the fixed proportion (determined under subsection (4) or (4C) as the case may be)[^key-f1755dfbf9f9bb913e324b03e6e87b71] of each kind of income and capital contained in the holding.
+(7) The amount taken offshore, re-invested or used to make a tax deposit is treated, immediately after that step, as containing the fixed proportion (determined under subsection (4) or (4C) as the case may be)[^c-f1755dfbf9f9bb913e324b03e6e87b71] of each kind of income and capital contained in the holding.
 
 (8) In cases where section 809VG(2) applies—
 
-- (a) the relevant[^key-0dde1232c0edf070df07bbeed649ac38] affected income or gains are so much of the fixed amount of each kind of income or gain mentioned in subsection (1)(a) as reflects the relevant proportion of the[^key-e51afb6fea392f49c564b855390134f8] portion of the investment affected by the potentially chargeable event (see section 809VG(6)),
-- (b) “the fixed amount” is the amount of that kind of income or gain that the holding is treated as containing by virtue of subsection (3) or (4B) (as the case may be)[^key-3e9c637fc91173ae7a952b428ec486cb], and
+- (a) the relevant[^c-0dde1232c0edf070df07bbeed649ac38] affected income or gains are so much of the fixed amount of each kind of income or gain mentioned in subsection (1)(a) as reflects the relevant proportion of the[^c-e51afb6fea392f49c564b855390134f8] portion of the investment affected by the potentially chargeable event (see section 809VG(6)),
+- (b) “the fixed amount” is the amount of that kind of income or gain that the holding is treated as containing by virtue of subsection (3) or (4B) (as the case may be)[^c-3e9c637fc91173ae7a952b428ec486cb], and
 - (c) section 809Q does not apply in determining the affected income or gains.
 
-(8A)[^key-c94d88c236fc9740b7111957a4dc3368] For the purposes of subsection (8)(a)—
+(8A)[^c-c94d88c236fc9740b7111957a4dc3368] For the purposes of subsection (8)(a)—
 
 - (a) the “**relevant affected income or gains**” means—
   - (i) in a case where section 809VG(6A) applies to treat some of the affected income or gains as being comprised of TRF capital, so much of the affected income or gains as is not treated as being comprised of TRF capital, or
@@ -72,22 +72,22 @@ summary: ''
 
 ## Annotations
 
-[^key-d22f65c468935a2cf97760c287b43072]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643I(9) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-d22f65c468935a2cf97760c287b43072]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643I(9) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-ecbfc597f6653475e871ac196657f259]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643A(6) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-ecbfc597f6653475e871ac196657f259]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643A(6) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-c5c5cb7574f58c28b1a8bfc62b2a2e3c]: Textual amendment: Ss. 809VA-809VO and cross-heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/7)
+[^c-c5c5cb7574f58c28b1a8bfc62b2a2e3c]: Textual amendment: Ss. 809VA-809VO and cross-heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/7)
 
-[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
+[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
 
-[^key-34b7dababe0147a6391e147cdfaae5c9]: Textual amendment: [S. 809VO(4)-(4C)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/4) substituted for [s. 809VO(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/4) (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/a), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-34b7dababe0147a6391e147cdfaae5c9]: Textual amendment: [S. 809VO(4)-(4C)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/4) substituted for [s. 809VO(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/4) (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/a), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
 
-[^key-f1755dfbf9f9bb913e324b03e6e87b71]: Textual amendment: Words in [s. 809VO(7)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/7) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/b), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-f1755dfbf9f9bb913e324b03e6e87b71]: Textual amendment: Words in [s. 809VO(7)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/7) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/b), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
 
-[^key-0dde1232c0edf070df07bbeed649ac38]: Textual amendment: Word in [s. 809VO(8)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8/a) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/c/i), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-0dde1232c0edf070df07bbeed649ac38]: Textual amendment: Word in [s. 809VO(8)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8/a) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/c/i), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
 
-[^key-e51afb6fea392f49c564b855390134f8]: Textual amendment: Words in [s. 809VO(8)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8/a) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(c)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/c/ii), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-e51afb6fea392f49c564b855390134f8]: Textual amendment: Words in [s. 809VO(8)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8/a) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(c)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/c/ii), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
 
-[^key-3e9c637fc91173ae7a952b428ec486cb]: Textual amendment: Words in [s. 809VO(8)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8/b) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/d), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-3e9c637fc91173ae7a952b428ec486cb]: Textual amendment: Words in [s. 809VO(8)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8/b) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/d), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
 
-[^key-c94d88c236fc9740b7111957a4dc3368]: Textual amendment: [S. 809VO(8A)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/e), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-c94d88c236fc9740b7111957a4dc3368]: Textual amendment: [S. 809VO(8A)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VO/8A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(5)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/5/e), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)

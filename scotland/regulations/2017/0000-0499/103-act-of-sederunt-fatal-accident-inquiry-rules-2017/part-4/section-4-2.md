@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.2. The information management powers[^key-4554e07b87dffa826c255ee1aa378aa5]
+## 4.2. The information management powers[^c-4554e07b87dffa826c255ee1aa378aa5]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The sheriff may make orders about the manner in which information is presented t
 
 ## Annotations
 
-[^key-4554e07b87dffa826c255ee1aa378aa5]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/ssi/2017/103/rule/4.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-4554e07b87dffa826c255ee1aa378aa5]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/ssi/2017/103/rule/4.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

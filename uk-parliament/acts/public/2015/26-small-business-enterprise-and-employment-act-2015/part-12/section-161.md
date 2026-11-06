@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Regulations under this Act, other than regulations made by the Scottish Ministers under section 1 , 153A[^key-2d72dd78daf15e2c459bc8df3b080fce] or 154(1), are to be made by statutory instrument.
+(1) Regulations under this Act, other than regulations made by the Scottish Ministers under section 1 , 153A[^c-2d72dd78daf15e2c459bc8df3b080fce] or 154(1), are to be made by statutory instrument.
 
 (2) Regulations under this Act may make—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d72dd78daf15e2c459bc8df3b080fce]: Textual amendment: Word in [s. 161(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/161/1) inserted (1.2.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(4)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/4/b), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/3); [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
+[^c-2d72dd78daf15e2c459bc8df3b080fce]: Textual amendment: Word in [s. 161(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/161/1) inserted (1.2.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(4)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/4/b), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/3); [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)

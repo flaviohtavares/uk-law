@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-76a4dc6f3a85d0be0bd36fd282ffde2f] A fisheries administration shall use relevant data received from other authorities for the effective monitoring of the activities of fishing vessels.
+1.[^c-76a4dc6f3a85d0be0bd36fd282ffde2f] A fisheries administration shall use relevant data received from other authorities for the effective monitoring of the activities of fishing vessels.
 
-2. A fisheries administration must[^key-bacfad1d668bbab56d12aa5fe4fe719f]:
+2. A fisheries administration must[^c-bacfad1d668bbab56d12aa5fe4fe719f]:
 
 - (a) ensure that data received according to this Chapter are recorded in computer-readable form and safely stored in computerised databases for at least 3 years;
 - (b) take all necessary measures to ensure that they are only used for official purposes; and
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76a4dc6f3a85d0be0bd36fd282ffde2f]: Textual amendment: [Art. 27(1)](https://www.legislation.gov.uk/eur/2011/404/article/27/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(24)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76a4dc6f3a85d0be0bd36fd282ffde2f]: Textual amendment: [Art. 27(1)](https://www.legislation.gov.uk/eur/2011/404/article/27/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(24)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bacfad1d668bbab56d12aa5fe4fe719f]: Textual amendment: Words in [Art. 27(2)](https://www.legislation.gov.uk/eur/2011/404/article/27/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(24)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bacfad1d668bbab56d12aa5fe4fe719f]: Textual amendment: Words in [Art. 27(2)](https://www.legislation.gov.uk/eur/2011/404/article/27/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(24)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Abolition of Residuary Body for Wales.[^key-108ccc44ee73e48fb74256a420fa5421]
+## 150. Abolition of Residuary Body for Wales.[^c-108ccc44ee73e48fb74256a420fa5421]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108ccc44ee73e48fb74256a420fa5421]: Textual amendment: [S. 150](https://www.legislation.gov.uk/ukpga/1998/38/section/150) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 37](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/37)
+[^c-108ccc44ee73e48fb74256a420fa5421]: Textual amendment: [S. 150](https://www.legislation.gov.uk/ukpga/1998/38/section/150) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 37](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/37)

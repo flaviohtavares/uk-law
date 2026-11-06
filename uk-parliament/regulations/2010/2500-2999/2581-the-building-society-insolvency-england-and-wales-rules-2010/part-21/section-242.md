@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 242. Postponement or cancellation of dividend[^key-1d955d24d7a1ee6b81a21c0d3f217b82]
+## 242. Postponement or cancellation of dividend[^c-1d955d24d7a1ee6b81a21c0d3f217b82]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-1d955d24d7a1ee6b81a21c0d3f217b82]: Commencement: Rule 242 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-1d955d24d7a1ee6b81a21c0d3f217b82]: Commencement: Rule 242 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

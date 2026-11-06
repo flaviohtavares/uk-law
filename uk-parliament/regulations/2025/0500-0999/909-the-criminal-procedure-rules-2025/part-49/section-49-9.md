@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.9. Overseas record[^key-d35e68ff250885c52f9347f8ede4beca]
+## 49.9. Overseas record[^c-d35e68ff250885c52f9347f8ede4beca]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d35e68ff250885c52f9347f8ede4beca]: Commencement: [Rule 49.9](https://www.legislation.gov.uk/uksi/2025/909/rule/49.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d35e68ff250885c52f9347f8ede4beca]: Commencement: [Rule 49.9](https://www.legislation.gov.uk/uksi/2025/909/rule/49.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01325]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); a relevant amendment was made to section 150(1) by paragraph 250 of Schedule 8, and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

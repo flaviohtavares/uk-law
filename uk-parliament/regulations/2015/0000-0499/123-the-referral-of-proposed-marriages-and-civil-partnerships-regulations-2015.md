@@ -234,7 +234,7 @@ This Part applies where—
 
 As soon as practicable after (as the case may be)—
 
-- (a) the superintendent registrar has entered the particulars of the proposed marriage in the marriage register[^key-0d3217b925fcafadf8d5ce3d6a4c0f44] under section 27(4) of the 1949 Act [^c22341881], or
+- (a) the superintendent registrar has entered the particulars of the proposed marriage in the marriage register[^c-0d3217b925fcafadf8d5ce3d6a4c0f44] under section 27(4) of the 1949 Act [^c22341881], or
 - (b) the registration authority has recorded the information required in the register under section 8(5) of the 2004 Act,
 
 the superintendent registrar or (as the case may be) the registration authority must refer the proposed marriage or civil partnership to the Secretary of State.
@@ -255,7 +255,7 @@ in such form as the superintendent registrar or (as the case may be) the registr
 (2) The information mentioned in paragraph (1) is—
 
 - (a) the two identification numbers assigned to the notice of marriage or proposed civil partnership given by the party,
-- (b) the date of the notice of marriage as entered in the marriage register[^key-65bcc8d1a0f8aff131b3136db8b53099] or (as the case may be) the date of the notice of proposed civil partnership as recorded by the registration authority in the register,
+- (b) the date of the notice of marriage as entered in the marriage register[^c-65bcc8d1a0f8aff131b3136db8b53099] or (as the case may be) the date of the notice of proposed civil partnership as recorded by the registration authority in the register,
 - (c) the registration district of the superintendent registrar to whom notice of marriage was given or (as the case may be) the registration authority to which notice of proposed civil partnership was given,
 - (d) the party's full name including—
   - (i) any prefix or suffix where one is provided,
@@ -322,7 +322,7 @@ The information mentioned in regulation 16 as respects the effects of the referr
 - (b) the conditions that must be met for the Secretary of State to decide to investigate,
 - (c) the fact that the Secretary of State is under a duty to notify the parties to the referred marriage or civil partnership of the decision made under section 48 of the 2014 Act whether to investigate, and the period within which the Secretary of State must do so,
 - (d) where the Secretary of State gives notice of a decision to investigate under section 48 of the 2014 Act, the fact that—
-  - (i) in the case of a referred marriage, the superintendent registrar may not issue a marriage schedule[^key-8022178e0aaa5d70665199c2390c8a00] under section 31(2) of the 1949 Act [^c22341911] before the expiry of the 70 day period,
+  - (i) in the case of a referred marriage, the superintendent registrar may not issue a marriage schedule[^c-8022178e0aaa5d70665199c2390c8a00] under section 31(2) of the 1949 Act [^c22341911] before the expiry of the 70 day period,
   - (ii) in the case of a referred civil partnership, the registration authority may not issue the civil partnership schedule before the expiry of the 70 day period,
 - (e) the fact that a party to a referred marriage or civil partnership which is under investigation is required to comply with a specified requirement [^c22341921]—
   - (i) the section 48 notice given to the party states that the party must do so, or
@@ -359,7 +359,7 @@ Home Office
 
 Regulation 5
 
-### 1. Permanent residence[^key-f8c434c3bec9523b1a00d97feac88c2c]
+### 1. Permanent residence[^c-f8c434c3bec9523b1a00d97feac88c2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -394,9 +394,9 @@ Table
 </tbody>
 </table>
 
-[^c22341961][^c22341971][^key-bd60d94a4457c5d06a5ab73279fd792d][^c22341981][^c22341991][^c22342001]
+[^c22341961][^c22341971][^c-bd60d94a4457c5d06a5ab73279fd792d][^c22341981][^c22341991][^c22342001]
 
-(2)[^key-0d08327e1571a1ca3a7d13eb198c5e32] Instead of the evidence referred to in paragraph 2(1)—
+(2)[^c-0d08327e1571a1ca3a7d13eb198c5e32] Instead of the evidence referred to in paragraph 2(1)—
 
 - (a) the party may provide a notice accompanied by the evidence specified in paragraph (2A); or
 - (b) paragraphs (2B) to (2D) must be satisfied.
@@ -416,7 +416,7 @@ Table
 
 - “**certificate of entitlement**” has the same meaning as in section 33 of the 1971 Act [^c22342011],
 - “force” and “**sending State**”, in relation to evidence that must be provided by a party who is exempt from immigration control by virtue of section 8(4) of the 1971 Act, have the same meaning as in the Agreement between the Parties to the North Atlantic Treaty Regarding the Status of their Forces [^c22342021], done in London on 19th June 1951.
-- “[^key-4863e6eebb5eb5673d2e3008885e1e34]**online UK Visas and Immigration account**” means an online account maintained by the Secretary of State that allows individuals to access, manage and share their immigration status digitally,
+- “[^c-4863e6eebb5eb5673d2e3008885e1e34]**online UK Visas and Immigration account**” means an online account maintained by the Secretary of State that allows individuals to access, manage and share their immigration status digitally,
 - “**share code**” means electronically generated code to allow a third party to access information about an individual’s immigration status.
 
 ### 3. Settled
@@ -537,23 +537,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22341871]: Marginal citation: Relevant amendments made to section 3 are as follows: subsection (1) was amended by paragraphs 2 and 4 of Schedule 4 to the British Nationality Act 1981, paragraph 1(1) of Schedule 2 to the [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [paragraphs 43](https://www.legislation.gov.uk/ukpga/1996/49/paragraph/43) and 44(2) of Schedule 14 to the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [sections 16](https://www.legislation.gov.uk/ukpga/1999/33/section/16) and 58 of, and the Schedule to, the [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [section 50(1)](https://www.legislation.gov.uk/ukpga/2007/30/section/50/1) of the [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11); and subsection (3) was amended by paragraph 1 of the Schedule to the Immigration Act 1988.
 
-[^key-0d3217b925fcafadf8d5ce3d6a4c0f44]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/uksi/2015/123/regulation/12/a) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 69(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/69/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-0d3217b925fcafadf8d5ce3d6a4c0f44]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/uksi/2015/123/regulation/12/a) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 69(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/69/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c22341881]: Marginal citation: [Section 27(4)](https://www.legislation.gov.uk/uksi/2015/123/section/27/4) was amended by paragraph 5 of Schedule 1 to the [Marriage Act 1983 (c. 32)](https://www.legislation.gov.uk/ukpga/1983/32) and paragraphs 1 and 2(1) and (3) of Schedule 4 to the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-65bcc8d1a0f8aff131b3136db8b53099]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2015/123/regulation/14/2/b) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 69(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/69/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-65bcc8d1a0f8aff131b3136db8b53099]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2015/123/regulation/14/2/b) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 69(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/69/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c22341891]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33); [section 24](https://www.legislation.gov.uk/uksi/2015/123/section/24) was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678) and sections 55(1) and (2) and 56(1) and (2)(a) to (d) of the Immigration Act 2014; [section 24A](https://www.legislation.gov.uk/uksi/2015/123/section/24A) was inserted by paragraph 162 of Schedule 27 to the Civil Partnership Act 2004 and amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678) and sections 55(1) and (3) and 56(1) and (3)(a) to (d) of the Immigration Act 2014.
 
 [^c22341901]: Marginal citation: Subject to Parliament's approval, section 50(11) will be amended by paragraph 3 of Schedule 4 to the Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015, laid before Parliament on 15<sup>th</sup> December 2014, and paragraph 3 of Schedule 4 to the Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015, laid before Parliament on the same date.
 
-[^key-8022178e0aaa5d70665199c2390c8a00]: Textual amendment: Words in [reg. 17(d)(i)](https://www.legislation.gov.uk/uksi/2015/123/regulation/17/d/i) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 69(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/69/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-8022178e0aaa5d70665199c2390c8a00]: Textual amendment: Words in [reg. 17(d)(i)](https://www.legislation.gov.uk/uksi/2015/123/regulation/17/d/i) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 69(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/69/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c22341911]: Marginal citation: [Section 31(2)](https://www.legislation.gov.uk/uksi/2015/123/section/31/2) was amended by sections 160(4)(b) and 163(1) of the Immigration and Asylum Act 1999 and paragraph 10(1) and (2)(b) of Schedule 4 to the Immigration Act 2014.
 
 [^c22341921]: Marginal citation: Subject to Parliament's approval, the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015, laid before Parliament on 15<sup>th</sup> December 2014, will specify requirements for the purposes of section 51(4) of the Immigration Act 2014.
 
-[^key-f8c434c3bec9523b1a00d97feac88c2c]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/123/schedule/1/paragraph/1) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [41(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/41/2)
+[^c-f8c434c3bec9523b1a00d97feac88c2c]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/123/schedule/1/paragraph/1) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [41(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/41/2)
 
 [^c22341951]: Marginal citation: Regulations made under section 49 of the [Immigration Act 2014 (S.I. 2015/122)](https://www.legislation.gov.uk/uksi/2014/122) set out who is exempt from immigration control for the purposes of the referral and investigation scheme.
 
@@ -561,7 +561,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22341971]: Marginal citation: Section 8(3) was amended by paragraph 2 of Schedule 4 to the British Nationality Act 1981 and section 4 of the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14).
 
-[^key-bd60d94a4457c5d06a5ab73279fd792d]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/21)
+[^c-bd60d94a4457c5d06a5ab73279fd792d]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/21)
 
 [^c22341981]: Marginal citation: Section 8(4) was amended by paragraphs 2 and 5 of Schedule 4 to the [British Nationality Act 1981 and the Statute Law Repeals Act 1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44).
 
@@ -569,13 +569,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22342001]: Marginal citation: [1978 c. 33](https://www.legislation.gov.uk/ukpga/1978/33).
 
-[^key-0d08327e1571a1ca3a7d13eb198c5e32]: Textual amendment: Sch. 1 para. 2(2)-(2D) substituted for Sch. 1 para. 2(2) (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/3/2)
+[^c-0d08327e1571a1ca3a7d13eb198c5e32]: Textual amendment: Sch. 1 para. 2(2)-(2D) substituted for Sch. 1 para. 2(2) (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/3/2)
 
 [^c22342011]: Marginal citation: The definition of “certificate of entitlement” was substituted by section 10(5)(b) of the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41).
 
 [^c22342021]: Marginal citation: Cmd. 9363.
 
-[^key-4863e6eebb5eb5673d2e3008885e1e34]: Textual amendment: Words in Sch. 1 para. 2(3) inserted (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/85/regulation/3/3)
+[^c-4863e6eebb5eb5673d2e3008885e1e34]: Textual amendment: Words in Sch. 1 para. 2(3) inserted (25.2.2026) by [The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026 (S.I. 2026/85)](https://www.legislation.gov.uk/uksi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/85/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/85/regulation/3/3)
 
 [^c22342031]: Marginal citation: Subsection (2A) of section 33 was inserted by section 39(6) of, and paragraph 7 of Schedule 4 to, the British Nationality Act 1981.
 

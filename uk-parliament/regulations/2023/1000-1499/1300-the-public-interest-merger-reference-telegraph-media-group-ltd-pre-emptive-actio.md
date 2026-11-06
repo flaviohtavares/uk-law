@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Public Interest Merger Reference (Telegraph Media Group Ltd) (Pre-emptive Action) Order 2023 (revoked)[^key-5652754b149b6113b4a359ced9be4ddc]
+The Public Interest Merger Reference (Telegraph Media Group Ltd) (Pre-emptive Action) Order 2023 (revoked)[^c-5652754b149b6113b4a359ced9be4ddc]
 
 Made
 
@@ -46,42 +46,42 @@ Laid before Parliament
 
 3.29 p.m. on 1st December 2023
 
-[^key-5652754b149b6113b4a359ced9be4ddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5652754b149b6113b4a359ced9be4ddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-5652754b149b6113b4a359ced9be4ddc]
+## 1. Citation, commencement and extent[^c-5652754b149b6113b4a359ced9be4ddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5652754b149b6113b4a359ced9be4ddc]
+## 2. Interpretation[^c-5652754b149b6113b4a359ced9be4ddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Compliance[^key-5652754b149b6113b4a359ced9be4ddc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Derogations[^key-5652754b149b6113b4a359ced9be4ddc]
+## 6. Compliance[^c-5652754b149b6113b4a359ced9be4ddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5652754b149b6113b4a359ced9be4ddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5652754b149b6113b4a359ced9be4ddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-5652754b149b6113b4a359ced9be4ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Derogations[^c-5652754b149b6113b4a359ced9be4ddc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5652754b149b6113b4a359ced9be4ddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5652754b149b6113b4a359ced9be4ddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5652754b149b6113b4a359ced9be4ddc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/1300) revoked (30.1.2024 at 11 a.m.) by [The Public Interest Merger Reference (Telegraph Media Group Limited) (Pre-emptive Action) Order 2024 (S.I. 2024/103)](https://www.legislation.gov.uk/uksi/2024/103), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/103/article/1/1), [13](https://www.legislation.gov.uk/uksi/2024/103/article/13)
+[^c-5652754b149b6113b4a359ced9be4ddc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/1300) revoked (30.1.2024 at 11 a.m.) by [The Public Interest Merger Reference (Telegraph Media Group Limited) (Pre-emptive Action) Order 2024 (S.I. 2024/103)](https://www.legislation.gov.uk/uksi/2024/103), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/103/article/1/1), [13](https://www.legislation.gov.uk/uksi/2024/103/article/13)

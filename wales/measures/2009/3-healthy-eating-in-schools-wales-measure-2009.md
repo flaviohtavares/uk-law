@@ -38,7 +38,7 @@ A MEASURE of the National Assembly for Wales to make provision about the promoti
 
 **This Measure, passed by the National Assembly for Wales on 8 July 2009 and approved by Her Majesty in Council on 15 October 2009, enacts the following provisions:—**
 
-## 1. Promoting healthy eating and drinking by pupils in maintained schools[^key-a7ba0cb4751dcf6549ad99d1e20944ee]
+## 1. Promoting healthy eating and drinking by pupils in maintained schools[^c-a7ba0cb4751dcf6549ad99d1e20944ee]
 
 (1) A local authority must take action to promote healthy eating and drinking by registered pupils of maintained schools in its area.
 
@@ -50,7 +50,7 @@ A MEASURE of the National Assembly for Wales to make provision about the promoti
 - (b) on appropriate action to promote healthy eating and drinking,
 - (c) on how principles of sustainable development are to apply in relation to the promotion of healthy eating and drinking.
 
-## 2. Governors' reports[^key-5f65b56991cab32efc9079835b3c4348]
+## 2. Governors' reports[^c-5f65b56991cab32efc9079835b3c4348]
 
 In section 30 of the 2002 Act (governors' reports (Wales) and other information), after subsection (2) insert—
 
@@ -58,7 +58,7 @@ In section 30 of the 2002 Act (governors' reports (Wales) and other information)
 
 .
 
-## 3. Functions of the Chief Inspector of Education and Training in Wales[^key-7e944c2ddd89a95a35b987c43acaa3dc]
+## 3. Functions of the Chief Inspector of Education and Training in Wales[^c-7e944c2ddd89a95a35b987c43acaa3dc]
 
 (1) The Education Act 2005 (c. 18) is amended as follows.
 
@@ -74,7 +74,7 @@ In section 30 of the 2002 Act (governors' reports (Wales) and other information)
 
 .
 
-## 4. Requirements for food and drink provided on school premises etc[^key-c5c71312e67b99d77b0b5763e81d8bf4]
+## 4. Requirements for food and drink provided on school premises etc[^c-c5c71312e67b99d77b0b5763e81d8bf4]
 
 (1) The Welsh Ministers may by regulations prescribe requirements which, subject to such exceptions as may be provided for by or under the regulations, are to be complied with in connection with—
 
@@ -129,26 +129,26 @@ that authority or, as the case may be, that governing body must secure that any 
 - (a) take steps to ascertain the views of pupils as to the provisions proposed to be made by the regulations, and
 - (b) consult such other persons as they consider appropriate.
 
-## 5. Drinking water in schools[^key-c6974c3a6cfabea3fa89dfb0f676503e]
+## 5. Drinking water in schools[^c-c6974c3a6cfabea3fa89dfb0f676503e]
 
 (1) A local authority must ensure that a supply of drinking water is available, free of charge, on the premises of any maintained school.
 
 (2) When deciding how best to discharge its duty under subsection (1) a local authority must have regard to any guidance issued by the Welsh Ministers under this subsection.
 
-## 6. Promotion of meals in schools and other educational establishments[^key-4c61746b7afc112f63fc86919447792f]
+## 6. Promotion of meals in schools and other educational establishments[^c-4c61746b7afc112f63fc86919447792f]
 
 (1) A local authority or governing body of a maintained school which provides school meals or milk under section 512 of the 1996 Act must—
 
 - (a) encourage the take-up of school meals and milk, and
 - (b) take reasonable steps to ensure that every pupil who is entitled to receive school lunches and milk free of charge under section 512ZB of the 1996 Act does receive them.
 
-## 7. Protection of the identity of pupils receiving free school lunches or milk[^key-fa744cd37ab0bfe9298bba7771853fbb]
+## 7. Protection of the identity of pupils receiving free school lunches or milk[^c-fa744cd37ab0bfe9298bba7771853fbb]
 
 After section 512ZB of the 1996 Act insert—
 
 > **512ZC. Protection of identity of pupils receiving free school lunches or milk**
 >
-> (1) This section applies when a school lunch or milk is provided for a pupil in Wales free of charge by a local authority[^key-eede6e2151b34f7926a288bced043ae6] under section 512ZB or by the governing body of a maintained school by virtue of section 512A.
+> (1) This section applies when a school lunch or milk is provided for a pupil in Wales free of charge by a local authority[^c-eede6e2151b34f7926a288bced043ae6] under section 512ZB or by the governing body of a maintained school by virtue of section 512A.
 >
 > (2) A local authority or governing body in Wales must take reasonable steps to ensure that the pupil cannot be identified as a pupil who receives a school lunch or milk free of charge by any person other than an authorised person.
 >
@@ -171,11 +171,11 @@ After section 512ZB of the 1996 Act insert—
 
 .
 
-## 8. Consequential amendments[^key-a5cb9fe5fb00d2237ce957d89ac2afde]
+## 8. Consequential amendments[^c-a5cb9fe5fb00d2237ce957d89ac2afde]
 
 (1) In section 114A of the 1998 Act (requirements for food and drink provided on school premises etc)—
 
-- (a) in subsection (1), paragraph (a), after “local local authority[^key-fdc926431ab9e4545b78b56054019893]” insert “ in England ”,
+- (a) in subsection (1), paragraph (a), after “local local authority[^c-fdc926431ab9e4545b78b56054019893]” insert “ in England ”,
 - (b) in subsection (1), paragraph (b), after “local authority” insert “ in England ”.
 
 (2) Section 512 of the 1996 Act (LEA functions concerning the provision of meals, etc) is amended as follows—
@@ -183,15 +183,15 @@ After section 512ZB of the 1996 Act insert—
 - (a) in subsection (4), after “local authority” insert “ in England ”,
 - (b) after subsection (4), insert—
 
-  > (4A) Subject to section 4 *(Extent: W)*[^key-864b6b372aa1cd0da1bec5f6445cac9f] of the Healthy Eating in Schools (Wales) Measure 2009, any school lunches provided by a local authority in Wales pursuant to subsection (3) may take such form as the authority think fit.
+  > (4A) Subject to section 4 *(Extent: W)*[^c-864b6b372aa1cd0da1bec5f6445cac9f] of the Healthy Eating in Schools (Wales) Measure 2009, any school lunches provided by a local authority in Wales pursuant to subsection (3) may take such form as the authority think fit.
 
   .
 
-## 9. Saving[^key-66d1f0aaccce1f1268a0760abc1fe771]
+## 9. Saving[^c-66d1f0aaccce1f1268a0760abc1fe771]
 
 Any regulations made under section 114A of the 1998 Act by the Assembly constituted by the Government of Wales Act 1998 or by the Welsh Ministers or which have effect as if made under that section by virtue of section 86(3) of the Education and Inspections Act 2006 and which have effect immediately before the commencement of this section have effect in relation to Wales after that commencement as if made by the Welsh Ministers under section 4 of this Measure.
 
-## 10. Orders and regulations[^key-f38093b9b773b2268d05263037f0eb0b]
+## 10. Orders and regulations[^c-f38093b9b773b2268d05263037f0eb0b]
 
 (1) Any power to make an order or regulations conferred by this Measure is exercisable by statutory instrument.
 
@@ -207,7 +207,7 @@ Any regulations made under section 114A of the 1998 Act by the Assembly constitu
 
 (5) Subsection (4) does not apply to a statutory instrument containing an order which makes provision only under section 12(3).
 
-## 11. Orders and regulations[^key-952af68e2fb0f37e8f611cad3add29af]
+## 11. Orders and regulations[^c-952af68e2fb0f37e8f611cad3add29af]
 
 In this Measure—
 
@@ -215,8 +215,8 @@ In this Measure—
 - “the 1998 Act”(“*Deddf 1998*”) means the School Standards and Framework Act 1998 (c. 31);
 - “**the Assembly**” (“***y Cynulliad***”) means the National Assembly for Wales;
 - “**the Chief Inspector**” (“***y Prif Arolygydd***”) means the Chief Inspector of Education and Training in Wales;
-- “local authority” (“[^key-2b8ffbdae23f9f216c9ac9823d36a616] *awdurdod lleol* ”) means a local authority in Wales within the meaning of section 579(1) of the Education Act 1996;
-- “**maintained school**” (“***ysgol a gynhelir***”) means a community, foundation or voluntary school, a community [^key-4b385aaab338136c17ca07e87a6def80]... special school, a maintained nursery school or a pupil referral unit in Wales.
+- “local authority” (“[^c-2b8ffbdae23f9f216c9ac9823d36a616] *awdurdod lleol* ”) means a local authority in Wales within the meaning of section 579(1) of the Education Act 1996;
+- “**maintained school**” (“***ysgol a gynhelir***”) means a community, foundation or voluntary school, a community [^c-4b385aaab338136c17ca07e87a6def80]... special school, a maintained nursery school or a pupil referral unit in Wales.
 
 ## 12. Short title and commencement
 
@@ -230,34 +230,34 @@ In this Measure—
 
 ## Annotations
 
-[^key-a7ba0cb4751dcf6549ad99d1e20944ee]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2009/3/section/1) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-a7ba0cb4751dcf6549ad99d1e20944ee]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2009/3/section/1) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-5f65b56991cab32efc9079835b3c4348]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2009/3/section/2) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-5f65b56991cab32efc9079835b3c4348]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2009/3/section/2) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-7e944c2ddd89a95a35b987c43acaa3dc]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2009/3/section/3) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-7e944c2ddd89a95a35b987c43acaa3dc]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2009/3/section/3) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-c5c71312e67b99d77b0b5763e81d8bf4]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2009/3/section/4) in force at 8.8.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/a)
+[^c-c5c71312e67b99d77b0b5763e81d8bf4]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2009/3/section/4) in force at 8.8.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/a)
 
-[^key-c6974c3a6cfabea3fa89dfb0f676503e]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2009/3/section/5) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-c6974c3a6cfabea3fa89dfb0f676503e]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2009/3/section/5) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-4c61746b7afc112f63fc86919447792f]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2009/3/section/6) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-4c61746b7afc112f63fc86919447792f]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2009/3/section/6) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-fa744cd37ab0bfe9298bba7771853fbb]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2009/3/section/7) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-fa744cd37ab0bfe9298bba7771853fbb]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2009/3/section/7) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-eede6e2151b34f7926a288bced043ae6]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/mwa/2009/3/section/7) substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/wsi/2010/1148), [arts. 1](https://www.legislation.gov.uk/wsi/2010/1148/article/1), [4(2)](https://www.legislation.gov.uk/wsi/2010/1148/article/4/2)
+[^c-eede6e2151b34f7926a288bced043ae6]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/mwa/2009/3/section/7) substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/wsi/2010/1148), [arts. 1](https://www.legislation.gov.uk/wsi/2010/1148/article/1), [4(2)](https://www.legislation.gov.uk/wsi/2010/1148/article/4/2)
 
-[^key-a5cb9fe5fb00d2237ce957d89ac2afde]: Commencement: S. 8 in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-a5cb9fe5fb00d2237ce957d89ac2afde]: Commencement: S. 8 in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-fdc926431ab9e4545b78b56054019893]: Textual amendment: Words in s. 8 substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1),
+[^c-fdc926431ab9e4545b78b56054019893]: Textual amendment: Words in s. 8 substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1),
 
-[^key-864b6b372aa1cd0da1bec5f6445cac9f]: Textual amendment: Word in s. 8(2)(b) substituted (4.5.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(3)](https://www.legislation.gov.uk/anaw/2013/1/section/100/3), [Sch. 5 para. 35](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/35)
+[^c-864b6b372aa1cd0da1bec5f6445cac9f]: Textual amendment: Word in s. 8(2)(b) substituted (4.5.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(3)](https://www.legislation.gov.uk/anaw/2013/1/section/100/3), [Sch. 5 para. 35](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/35)
 
-[^key-66d1f0aaccce1f1268a0760abc1fe771]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2009/3/section/9) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-66d1f0aaccce1f1268a0760abc1fe771]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2009/3/section/9) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-f38093b9b773b2268d05263037f0eb0b]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2009/3/section/10) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-f38093b9b773b2268d05263037f0eb0b]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2009/3/section/10) in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-952af68e2fb0f37e8f611cad3add29af]: Commencement: S. 11 in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-952af68e2fb0f37e8f611cad3add29af]: Commencement: S. 11 in force at 2.9.2013 by [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-2b8ffbdae23f9f216c9ac9823d36a616]: Textual amendment: Words in s. 11 substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/1148/article/4/3)
+[^c-2b8ffbdae23f9f216c9ac9823d36a616]: Textual amendment: Words in s. 11 substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/1148/article/4/3)
 
-[^key-4b385aaab338136c17ca07e87a6def80]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/mwa/2009/3/section/11) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 27(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/27/2); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-4b385aaab338136c17ca07e87a6def80]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/mwa/2009/3/section/11) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 27(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/27/2); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

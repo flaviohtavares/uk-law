@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-cbabdd30cca9411172bc2004d56740c9]
+## 1. Citation and commencement[^c-cbabdd30cca9411172bc2004d56740c9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the North Wales Wind Farms Connection Order 2016 and 
 
 ## Annotations
 
-[^key-cbabdd30cca9411172bc2004d56740c9]: Commencement: Art. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-cbabdd30cca9411172bc2004d56740c9]: Commencement: Art. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

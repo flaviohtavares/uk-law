@@ -24,7 +24,7 @@ Regulation 21
 
 ### The Animal By-Products (Scotland) Regulations 2003
 
-**1.**[^key-0b719dfd030777743513e45fd1e739ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0b719dfd030777743513e45fd1e739ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Feeding Stuffs (Scotland) Regulations 2005
 
@@ -50,18 +50,18 @@ Regulation 21
 
 ### The Official Feed and Food Controls (Scotland) Regulations 2005
 
-**3.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b719dfd030777743513e45fd1e739ad]: Textual amendment: Sch. 8 para. 1 revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3)
+[^c-0b719dfd030777743513e45fd1e739ad]: Textual amendment: Sch. 8 para. 1 revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3)
 
 [^c17276631]: Marginal citation: [S.S.I. 2005/605](https://www.legislation.gov.uk/ssi/2005/605), amended by [S.S.I. 2006/16](https://www.legislation.gov.uk/ssi/2006/16).
 
-[^key-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))
+[^c-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 978. Application to public departments[^key-cd30a7bca5d4c6619cdad489eac9d258]
+## 978. Application to public departments[^c-cd30a7bca5d4c6619cdad489eac9d258]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd30a7bca5d4c6619cdad489eac9d258]: Modification: Pt. 15 modified (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 551(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/551/4), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/78))
+[^c-cd30a7bca5d4c6619cdad489eac9d258]: Modification: Pt. 15 modified (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 551(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/551/4), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/78))

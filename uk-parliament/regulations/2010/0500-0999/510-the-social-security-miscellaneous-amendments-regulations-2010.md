@@ -107,7 +107,7 @@ In respect of the provisions in these Regulations relating to mortgages, the Sec
 - (c) in sub-paragraph (3), for “Subject to sub-paragraph (4), the” substitute “ The ”; and
 - (d) in sub-paragraph (6), after “landlord” insert “ , or the person or body to whom charges are payable in respect of the residence of the beneficiary or the beneficiary's partner in approved premises under section 13 of the Offender Management Act 2007, ”.
 
-(8)[^key-614c3a1b4003f0d35a2b362531ce6207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-614c3a1b4003f0d35a2b362531ce6207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999
 
@@ -205,7 +205,7 @@ A full impact assessment has not been published for this instrument as it has on
 
 [^c2015546]: Marginal citation: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
 
-[^key-614c3a1b4003f0d35a2b362531ce6207]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2010/510/regulation/3/8) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
+[^c-614c3a1b4003f0d35a2b362531ce6207]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2010/510/regulation/3/8) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
 
 [^c2015548]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 

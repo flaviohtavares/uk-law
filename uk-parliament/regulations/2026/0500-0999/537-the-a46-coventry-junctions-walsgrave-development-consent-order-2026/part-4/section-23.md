@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Authority to survey and investigate the land[^key-cab653991606fcbff95ac2184c1e087a]
+## 23. Authority to survey and investigate the land[^c-cab653991606fcbff95ac2184c1e087a]
 
 *Extent: E+W+S*
 
-(1) The undertaker may for the purposes of the construction, operation or maintenance of the authorised development enter on any land shown within the Order limits and, where reasonably necessary, any land which is adjacent to, but outside the Order limits[^key-279ec6828eae0584127f08548a5fdd0d] and—
+(1) The undertaker may for the purposes of the construction, operation or maintenance of the authorised development enter on any land shown within the Order limits and, where reasonably necessary, any land which is adjacent to, but outside the Order limits[^c-279ec6828eae0584127f08548a5fdd0d] and—
 
 - (a) survey or investigate the land (including any watercourses, ground water, static water bodies or vegetation on the land);
 - (b) without limitation on the scope of sub-paragraph (a), make any excavations, trial holes, boreholes and other investigations in such positions on the land as the undertaker thinks fit to investigate the nature of the surface layer, subsoil and ground water, to investigate the extent and nature or underground structures, foundations, plant or apparatus and remove soil and water samples and discharge water from sampling operations onto the land;
@@ -58,6 +58,6 @@ that authority will be deemed to have granted consent.
 
 ## Annotations
 
-[^key-cab653991606fcbff95ac2184c1e087a]: Commencement: Art. 23 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-cab653991606fcbff95ac2184c1e087a]: Commencement: Art. 23 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-279ec6828eae0584127f08548a5fdd0d]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2026/537/article/23/1) inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-279ec6828eae0584127f08548a5fdd0d]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2026/537/article/23/1) inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

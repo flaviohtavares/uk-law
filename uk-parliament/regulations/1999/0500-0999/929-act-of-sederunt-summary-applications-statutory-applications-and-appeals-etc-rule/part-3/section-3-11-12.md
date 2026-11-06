@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.12. Petition against undue return[^key-4b91d0064d0d8fb733281e2c8c01837a]
+## 3.11.12. Petition against undue return[^c-4b91d0064d0d8fb733281e2c8c01837a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b91d0064d0d8fb733281e2c8c01837a]: Commencement: Rule 3.11.12 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-4b91d0064d0d8fb733281e2c8c01837a]: Commencement: Rule 3.11.12 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

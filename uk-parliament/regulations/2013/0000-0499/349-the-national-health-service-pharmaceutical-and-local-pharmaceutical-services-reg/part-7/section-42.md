@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] has made D1, or a reserved location determination has been made in accordance with the 2012 Regulations or the 2005 Regulations, and the person in relation to whose proposed listing of premises that determination was made (or that person's successor as the owner of the relevant pharmacy business) requests a further determination (referred to in this regulation as “**D2**”), NHS England may determine (subject to paragraph (3) and regulation 43(2))—
+(1) Where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] has made D1, or a reserved location determination has been made in accordance with the 2012 Regulations or the 2005 Regulations, and the person in relation to whose proposed listing of premises that determination was made (or that person's successor as the owner of the relevant pharmacy business) requests a further determination (referred to in this regulation as “**D2**”), NHS England may determine (subject to paragraph (3) and regulation 43(2))—
 
 - (a) whether or not a location that has become the relevant location for the purposes of a listing application is in a reserved location, on the basis of the circumstances that pertained on the day on which the request for D2 was received by NHS England, in circumstances where the relevant location in relation to which the earlier determination was made has changed because—
   - (i) no particular premises were proposed for listing in the application, but
@@ -49,12 +49,12 @@ summary: ''
 (5) Where—
 
 - (a) NHS England has made D2; and
-- (b) the person who sought the determination, or that person's successor as the person carrying on a pharmacy business at or from[^key-82b67aa7707dff3cdae60a5fb42578f2] the relevant location, believes that the reserved location no longer meets the criteria for being a reserved location in regulation 41(3),
+- (b) the person who sought the determination, or that person's successor as the person carrying on a pharmacy business at or from[^c-82b67aa7707dff3cdae60a5fb42578f2] the relevant location, believes that the reserved location no longer meets the criteria for being a reserved location in regulation 41(3),
 
 that person may request a further determination, under paragraph (1)(b), and if that person does, paragraphs (1) to (4) apply as if the references to D1 were to the most recent determination and the references to D2 were to the new further determination.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-82b67aa7707dff3cdae60a5fb42578f2]: Textual amendment: Words in [reg. 42(5)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/42/5/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2025/989/regulation/26)
+[^c-82b67aa7707dff3cdae60a5fb42578f2]: Textual amendment: Words in [reg. 42(5)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/42/5/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2025/989/regulation/26)

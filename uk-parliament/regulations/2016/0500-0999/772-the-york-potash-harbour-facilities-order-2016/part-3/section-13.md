@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Agreements with highway authority[^key-0e1682764cfb66b428c1bf18cb32f9c5]
+## 13. Agreements with highway authority[^c-0e1682764cfb66b428c1bf18cb32f9c5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e1682764cfb66b428c1bf18cb32f9c5]: Commencement: Art. 13 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-0e1682764cfb66b428c1bf18cb32f9c5]: Commencement: Art. 13 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

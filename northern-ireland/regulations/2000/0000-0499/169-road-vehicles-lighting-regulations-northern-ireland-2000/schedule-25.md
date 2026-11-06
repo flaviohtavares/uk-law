@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 25 — Proportions and form of letters, numerals and other characters[^key-00b7682ddd8bd61488bfdef43d85bd31]
+## SCHEDULE 25 — Proportions and form of letters, numerals and other characters[^c-00b7682ddd8bd61488bfdef43d85bd31]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulations 21 and 23
 
 ## Annotations
 
-[^key-00b7682ddd8bd61488bfdef43d85bd31]: Commencement: [Sch. 25](https://www.legislation.gov.uk/nisr/2000/169/schedule/25) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-00b7682ddd8bd61488bfdef43d85bd31]: Commencement: [Sch. 25](https://www.legislation.gov.uk/nisr/2000/169/schedule/25) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

@@ -25,12 +25,12 @@ summary: ''
 - “the 1973 Act” means the [^m00005] Fair Trading Act 1973;
 - “the 1980 Act” means the [^m00006] Competition Act 1980;
 - “[^c21258991]**the 2011 Regulations**” means The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011;
-- “[^key-0330dfa4438a726879b16601722712ad]**the Authority**” means the Northern Ireland Authority for Utility Regulation;
+- “[^c-0330dfa4438a726879b16601722712ad]**the Authority**” means the Northern Ireland Authority for Utility Regulation;
 - “[^c21258971]**the Commission Decision**” means Commission Decision PH (2005) 0791 granting a derogation from certain provisions of Directive [2003/55/EC](https://www.legislation.gov.uk/european/directive/2003/0055) of the European Parliament and of the Council in respect of Northern Ireland;
-- “[^key-05203030f78af715dc8f466a7e6311a1]**the Directive**” means European Parliament and Council Directive [2009/73/EC](https://www.legislation.gov.uk/european/directive/2009/0073) concerning common rules for the internal market in natural gas as amended by European Parliament and Council Directive 2019/692;
+- “[^c-05203030f78af715dc8f466a7e6311a1]**the Directive**” means European Parliament and Council Directive [2009/73/EC](https://www.legislation.gov.uk/european/directive/2009/0073) concerning common rules for the internal market in natural gas as amended by European Parliament and Council Directive 2019/692;
 - “exemption” means an exemption under Article 7;
 - “gas plant” includes any plant, equipment, pipe-line or apparatus used for, or for purposes connected with, the conveyance, storage or supply of gas;
-- “gas storage facility” means any facility [^key-2b91e72bb119c5bc2314675f052dc8d3]... designed or adapted for the storage of gas in bulk (whether in a liquid state or not), but does not include—[^key-a2dd425d9dfe1eca09db3ab18e806174]
+- “gas storage facility” means any facility [^c-2b91e72bb119c5bc2314675f052dc8d3]... designed or adapted for the storage of gas in bulk (whether in a liquid state or not), but does not include—[^c-a2dd425d9dfe1eca09db3ab18e806174]
   - (a) a pipe or other conduit for the conveyance of gas; or
   - (b) a facility that is an LNG facility;
 - “the General Consumer Council” means the General Consumer Council for Northern Ireland;
@@ -61,15 +61,15 @@ summary: ''
 
 [^c21258991]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1996/275/article/3): definition of "the 2011 regulations" inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 85(c)](https://www.legislation.gov.uk/nisr/2011/155/regulation/85/c)
 
-[^key-0330dfa4438a726879b16601722712ad]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) inserted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/a)
+[^c-0330dfa4438a726879b16601722712ad]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) inserted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/a)
 
 [^c21258971]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1996/275/article/3): definition of "the Commission Decision" substituted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 85(b)](https://www.legislation.gov.uk/nisr/2011/155/regulation/85/b)
 
-[^key-05203030f78af715dc8f466a7e6311a1]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/b)
+[^c-05203030f78af715dc8f466a7e6311a1]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/b)
 
-[^key-2b91e72bb119c5bc2314675f052dc8d3]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) omitted (16.12.2020) by virtue of [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(c)(i)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/c/i)
+[^c-2b91e72bb119c5bc2314675f052dc8d3]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) omitted (16.12.2020) by virtue of [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(c)(i)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/c/i)
 
-[^key-a2dd425d9dfe1eca09db3ab18e806174]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/c/ii)
+[^c-a2dd425d9dfe1eca09db3ab18e806174]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/1/c/ii)
 
 [^c21794401]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/nisi/1996/275/article/3/1): definitions of "LNG" and "LNG facility" inserted (12.4.2013) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [reg. 12(a)](https://www.legislation.gov.uk/nisr/2013/92/regulation/12/a)
 

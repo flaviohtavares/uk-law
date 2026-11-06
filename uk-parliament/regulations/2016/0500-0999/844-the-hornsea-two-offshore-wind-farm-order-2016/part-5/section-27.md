@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Temporary use of land for maintaining authorised project[^key-9621461092a39518e06153cb615523ff]
+## 27. Temporary use of land for maintaining authorised project[^c-9621461092a39518e06153cb615523ff]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9621461092a39518e06153cb615523ff]: Commencement: Art. 27 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-9621461092a39518e06153cb615523ff]: Commencement: Art. 27 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Sheep and Goats (Identification and Traceability) (Scotland) Amendment Regulations 2007 (revoked)[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+The Sheep and Goats (Identification and Traceability) (Scotland) Amendment Regulations 2007 (revoked)[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 Made
 
@@ -48,48 +48,48 @@ Coming into force
 
 18th January 2008
 
-[^key-d27a585c6f4cd4e6fa27d4e120389bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d27a585c6f4cd4e6fa27d4e120389bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 1. Citation and commencement[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 2. Amendment of the Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 3.[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 4.[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 5.[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 6.[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 7.[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-d27a585c6f4cd4e6fa27d4e120389bbe]
+## 8.[^c-d27a585c6f4cd4e6fa27d4e120389bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d27a585c6f4cd4e6fa27d4e120389bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d27a585c6f4cd4e6fa27d4e120389bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d27a585c6f4cd4e6fa27d4e120389bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d27a585c6f4cd4e6fa27d4e120389bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d27a585c6f4cd4e6fa27d4e120389bbe]: Textual amendment: Regulations revoked (31.12.2009) by [The Sheep and Goats (Identification and Traceability) (Scotland) Revocation Regulations 2009 (S.S.I. 2009/415)](https://www.legislation.gov.uk/ssi/2009/415), [regs. 1](https://www.legislation.gov.uk/ssi/2009/415/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2009/415/schedule) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/2))
+[^c-d27a585c6f4cd4e6fa27d4e120389bbe]: Textual amendment: Regulations revoked (31.12.2009) by [The Sheep and Goats (Identification and Traceability) (Scotland) Revocation Regulations 2009 (S.S.I. 2009/415)](https://www.legislation.gov.uk/ssi/2009/415), [regs. 1](https://www.legislation.gov.uk/ssi/2009/415/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2009/415/schedule) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/2))

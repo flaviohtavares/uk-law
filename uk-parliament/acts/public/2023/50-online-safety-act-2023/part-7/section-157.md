@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. OFCOM’s reports about use of age assurance[^key-3cefeb2ba75865ded52e37248eb7406d][^key-9341d55d3539352864196865f656b9ed]
+## 157. OFCOM’s reports about use of age assurance[^c-3cefeb2ba75865ded52e37248eb7406d][^c-9341d55d3539352864196865f656b9ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) In preparing a report, OFCOM must consult—
 
-- (a) the Information Commission[^key-bd56821ba74ac19aeafb9e8fd39ba9d3], and
+- (a) the Information Commission[^c-bd56821ba74ac19aeafb9e8fd39ba9d3], and
 - (b) such other persons as OFCOM consider appropriate.
 
 (5) OFCOM must send a copy of a report to the Secretary of State, and the Secretary of State must lay it before Parliament.
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3cefeb2ba75865ded52e37248eb7406d]: Commencement: S. 157 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-3cefeb2ba75865ded52e37248eb7406d]: Commencement: S. 157 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-9341d55d3539352864196865f656b9ed]: Commencement: S. 157 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-9341d55d3539352864196865f656b9ed]: Commencement: S. 157 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
 
-[^key-bd56821ba74ac19aeafb9e8fd39ba9d3]: Textual amendment: Words in [s. 157(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/157/4/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-bd56821ba74ac19aeafb9e8fd39ba9d3]: Textual amendment: Words in [s. 157(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/157/4/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

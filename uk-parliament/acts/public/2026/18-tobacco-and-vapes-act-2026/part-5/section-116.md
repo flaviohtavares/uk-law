@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Interpretation of Part 5[^key-1ebcdcb98635f29c6915d5abf0e57386]
+## 116. Interpretation of Part 5[^c-1ebcdcb98635f29c6915d5abf0e57386]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ In this Part—
 
 ## Annotations
 
-[^key-1ebcdcb98635f29c6915d5abf0e57386]: Commencement: S. 116 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-1ebcdcb98635f29c6915d5abf0e57386]: Commencement: S. 116 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

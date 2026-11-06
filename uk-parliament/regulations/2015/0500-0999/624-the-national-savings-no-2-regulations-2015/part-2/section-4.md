@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Persons entitled to purchase and hold bonds[^key-033296c6caaf8c87383ba106e49a90f2]
+## 4. Persons entitled to purchase and hold bonds[^c-033296c6caaf8c87383ba106e49a90f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) A bond may be purchased—
 
-- (a) on behalf of and in the name of a minor under the age of sixteen years by any person who may purchase a bond under paragraph (1)[^key-a55ab1caee3ca7602de7469916387c1a];
+- (a) on behalf of and in the name of a minor under the age of sixteen years by any person who may purchase a bond under paragraph (1)[^c-a55ab1caee3ca7602de7469916387c1a];
 - (b) on behalf of and in the name of a person who lacks capacity by that person’s deputy; or
 - (c) subject to the approval of the Director of Savings, on behalf of and in the name of an eligible person by another person acting under a power of attorney granted by that eligible person,
 
@@ -43,6 +43,6 @@ and any bond purchased in this way shall be deemed to be held by the person on w
 
 ## Annotations
 
-[^key-033296c6caaf8c87383ba106e49a90f2]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-033296c6caaf8c87383ba106e49a90f2]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
-[^key-a55ab1caee3ca7602de7469916387c1a]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2015/624/regulation/4/4/a) substituted (18.8.2019) by [The National Savings (Amendment) Regulations 2019 (S.I. 2019/1138)](https://www.legislation.gov.uk/uksi/2019/1138), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1138/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1138/regulation/2/2)
+[^c-a55ab1caee3ca7602de7469916387c1a]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2015/624/regulation/4/4/a) substituted (18.8.2019) by [The National Savings (Amendment) Regulations 2019 (S.I. 2019/1138)](https://www.legislation.gov.uk/uksi/2019/1138), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1138/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1138/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 244. Scottish Ministers' power to make provision in relation to treatment for certain informal patients[^key-b9ba71712a81c20acdef0cf4e4cdc170][^key-3790c3eca5764425ef9eac2694c0088f]
+## 244. Scottish Ministers' power to make provision in relation to treatment for certain informal patients[^c-b9ba71712a81c20acdef0cf4e4cdc170][^c-3790c3eca5764425ef9eac2694c0088f]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ Regulations may prescribe conditions that must be satisfied before types of medi
 
 ## Annotations
 
-[^key-b9ba71712a81c20acdef0cf4e4cdc170]: Commencement: S. 244 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-b9ba71712a81c20acdef0cf4e4cdc170]: Commencement: S. 244 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-3790c3eca5764425ef9eac2694c0088f]: Commencement: [S. 244](https://www.legislation.gov.uk/asp/2003/13/section/244) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-3790c3eca5764425ef9eac2694c0088f]: Commencement: [S. 244](https://www.legislation.gov.uk/asp/2003/13/section/244) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

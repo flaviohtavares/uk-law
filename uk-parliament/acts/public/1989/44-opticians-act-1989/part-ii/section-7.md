@@ -22,13 +22,13 @@ summary: ''
 
 The Council shall continue to maintain—
 
-- (a)[^key-1a0037290abca48eadbeea8bd095f4e6] a register of optometrists; and
+- (a)[^c-1a0037290abca48eadbeea8bd095f4e6] a register of optometrists; and
 - (b) a register of dispensing opticians,
 
-each containing the names and addresses[^key-d62cc695664c048a22ea065a491c8820] , and such other particulars as may be prescribed, of all persons who are entitled under the provisions of this Act to be registered in it and who apply in the prescribed manner to be so registered.
+each containing the names and addresses[^c-d62cc695664c048a22ea065a491c8820] , and such other particulars as may be prescribed, of all persons who are entitled under the provisions of this Act to be registered in it and who apply in the prescribed manner to be so registered.
 
 ## Annotations
 
-[^key-1a0037290abca48eadbeea8bd095f4e6]: Textual amendment: S. 7(a) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2005/848/article/7/1/a)[(2)](https://www.legislation.gov.uk/uksi/2005/848/article/7/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-1a0037290abca48eadbeea8bd095f4e6]: Textual amendment: S. 7(a) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2005/848/article/7/1/a)[(2)](https://www.legislation.gov.uk/uksi/2005/848/article/7/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-d62cc695664c048a22ea065a491c8820]: Textual amendment: Words in s. 7 substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2005/848/article/7/1/b)[(2)](https://www.legislation.gov.uk/uksi/2005/848/article/7/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-d62cc695664c048a22ea065a491c8820]: Textual amendment: Words in s. 7 substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2005/848/article/7/1/b)[(2)](https://www.legislation.gov.uk/uksi/2005/848/article/7/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

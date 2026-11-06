@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Effect of misdescription[^key-cfd90b69ee3a68f66e6ca11a82b250e0]
+## 22. Effect of misdescription[^c-cfd90b69ee3a68f66e6ca11a82b250e0]
 
 *Extent: S*
 
-No misnomer or inaccurate description of any person or place named in the register of electors, or[^key-a32935210414b7b95483cc5af5539cb6] in any list, record, proxy paper, nomination paper, ballot paper, notice or other document required for the purposes of this Order affects the full operation of the document with respect to that person or place in any case where the description of the person or place is such as to be commonly understood.
+No misnomer or inaccurate description of any person or place named in the register of electors, or[^c-a32935210414b7b95483cc5af5539cb6] in any list, record, proxy paper, nomination paper, ballot paper, notice or other document required for the purposes of this Order affects the full operation of the document with respect to that person or place in any case where the description of the person or place is such as to be commonly understood.
 
 ## Annotations
 
-[^key-cfd90b69ee3a68f66e6ca11a82b250e0]: Commencement: Art. 22 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-cfd90b69ee3a68f66e6ca11a82b250e0]: Commencement: Art. 22 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-a32935210414b7b95483cc5af5539cb6]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/ssi/2015/425/article/22) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [6](https://www.legislation.gov.uk/ssi/2020/426/article/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-a32935210414b7b95483cc5af5539cb6]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/ssi/2015/425/article/22) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [6](https://www.legislation.gov.uk/ssi/2020/426/article/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))

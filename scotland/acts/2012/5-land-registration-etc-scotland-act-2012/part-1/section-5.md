@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Structure of title sheets[^key-1169f9773e21e08060e6dbd3d71c89b6]
+## 5. Structure of title sheets[^c-1169f9773e21e08060e6dbd3d71c89b6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1169f9773e21e08060e6dbd3d71c89b6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/5/section/5) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1169f9773e21e08060e6dbd3d71c89b6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/5/section/5) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

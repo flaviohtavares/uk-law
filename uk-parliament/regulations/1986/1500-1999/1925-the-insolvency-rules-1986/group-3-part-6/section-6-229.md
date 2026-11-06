@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.229. Presentation of petition[^key-745cbc9bf5523f2330303d7bc7184f9c]
+## 6.229. Presentation of petition[^c-745cbc9bf5523f2330303d7bc7184f9c]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-745cbc9bf5523f2330303d7bc7184f9c]: Commencement: [Rule 6.229](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.229) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-745cbc9bf5523f2330303d7bc7184f9c]: Commencement: [Rule 6.229](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.229) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00199]: Marginal citation: \[FORM 6.79\]

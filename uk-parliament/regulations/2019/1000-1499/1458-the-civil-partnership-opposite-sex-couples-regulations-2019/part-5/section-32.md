@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Continuity of civil partnership on change of gender[^key-8431fbc550dcb01ecf4869494640d9d6]
+## 32. Continuity of civil partnership on change of gender[^c-8431fbc550dcb01ecf4869494640d9d6]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ For section 11B[^f00053] substitute—
 
 ## Annotations
 
-[^key-8431fbc550dcb01ecf4869494640d9d6]: Commencement: Reg. 32 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-8431fbc550dcb01ecf4869494640d9d6]: Commencement: Reg. 32 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00053]: Footnote: Section 11B was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 11.

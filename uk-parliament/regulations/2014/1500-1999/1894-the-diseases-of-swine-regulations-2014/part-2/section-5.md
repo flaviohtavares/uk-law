@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Notification requirements[^key-8f3dcd4642763c3f468660fab1cb673d]
+## 5. Notification requirements[^c-8f3dcd4642763c3f468660fab1cb673d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ must immediately notify the appropriate authority.
 
 ## Annotations
 
-[^key-8f3dcd4642763c3f468660fab1cb673d]: Commencement: Reg. 5 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-8f3dcd4642763c3f468660fab1cb673d]: Commencement: Reg. 5 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

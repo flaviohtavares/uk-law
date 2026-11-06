@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Notification of hospitals having arrangements for special cases[^key-d398b50d85ccc3781fef2f9bba67f3fe]
+## 45. Notification of hospitals having arrangements for special cases[^c-d398b50d85ccc3781fef2f9bba67f3fe]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d398b50d85ccc3781fef2f9bba67f3fe]: Commencement: S. 45 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d398b50d85ccc3781fef2f9bba67f3fe]: Commencement: S. 45 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

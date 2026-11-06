@@ -32,7 +32,7 @@ summary: ''
 
 (6) In this section “**subordinate provision**” means a provision contained in an instrument made under an enactment.
 
-(7)[^key-5e34f629cb657ccd4229e392d4a33630] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5e34f629cb657ccd4229e392d4a33630] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7287781]
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e34f629cb657ccd4229e392d4a33630]: Textual amendment: [S. 92(7)](https://www.legislation.gov.uk/ukpga/1967/80/section/92/7) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5e34f629cb657ccd4229e392d4a33630]: Textual amendment: [S. 92(7)](https://www.legislation.gov.uk/ukpga/1967/80/section/92/7) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c7287781]: Textual amendment: S. 92(8) repealed by [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), [s. 65(7)](https://www.legislation.gov.uk/ukpga/1977/45/section/65/7), [Sch. 13](https://www.legislation.gov.uk/ukpga/1977/45/schedule/13)

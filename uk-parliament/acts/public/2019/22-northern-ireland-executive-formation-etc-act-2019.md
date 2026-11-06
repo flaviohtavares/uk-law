@@ -38,37 +38,37 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Executive formation
 
-### 1. Extension of period for forming an Executive[^key-00351a9d327bdc206b7252a30514fd91]
+### 1. Extension of period for forming an Executive[^c-00351a9d327bdc206b7252a30514fd91]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Limited power to further extend period for forming an Executive[^key-00351a9d327bdc206b7252a30514fd91]
+### 2. Limited power to further extend period for forming an Executive[^c-00351a9d327bdc206b7252a30514fd91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Reports
 
-### 3. Reports on progress towards forming an Executive and other matters[^key-00351a9d327bdc206b7252a30514fd91]
+### 3. Reports on progress towards forming an Executive and other matters[^c-00351a9d327bdc206b7252a30514fd91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Debates
 
-### 4. Law on gambling and support for those experiencing problem gambling[^key-00351a9d327bdc206b7252a30514fd91]
+### 4. Law on gambling and support for those experiencing problem gambling[^c-00351a9d327bdc206b7252a30514fd91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Assistance and support for victims of human trafficking[^key-00351a9d327bdc206b7252a30514fd91]
+### 5. Assistance and support for victims of human trafficking[^c-00351a9d327bdc206b7252a30514fd91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Pension for victims and survivors of Troubles-related incidents[^key-00351a9d327bdc206b7252a30514fd91]
+### 6. Pension for victims and survivors of Troubles-related incidents[^c-00351a9d327bdc206b7252a30514fd91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Historical institutional abuse[^key-00351a9d327bdc206b7252a30514fd91]
+### 7. Historical institutional abuse[^c-00351a9d327bdc206b7252a30514fd91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -238,4 +238,4 @@ the person is entitled to a payment to reflect the amount that the person would 
 
 ## Annotations
 
-[^key-00351a9d327bdc206b7252a30514fd91]: Textual amendment: [Ss. 1-7](https://www.legislation.gov.uk/ukpga/2019/22/section/1) repealed (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 7(b)](https://www.legislation.gov.uk/ukpga/2022/2/section/7/b), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-00351a9d327bdc206b7252a30514fd91]: Textual amendment: [Ss. 1-7](https://www.legislation.gov.uk/ukpga/2019/22/section/1) repealed (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 7(b)](https://www.legislation.gov.uk/ukpga/2022/2/section/7/b), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)

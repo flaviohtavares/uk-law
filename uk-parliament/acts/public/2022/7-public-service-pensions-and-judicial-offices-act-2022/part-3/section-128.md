@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Consequential etc provision[^key-91c67288fe1bae92e0dc372f71e92d74][^key-25cf020ae1486e1a1fe148f2698d6731]
+## 128. Consequential etc provision[^c-91c67288fe1bae92e0dc372f71e92d74][^c-25cf020ae1486e1a1fe148f2698d6731]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-91c67288fe1bae92e0dc372f71e92d74]: Commencement: S. 128 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-91c67288fe1bae92e0dc372f71e92d74]: Commencement: S. 128 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-25cf020ae1486e1a1fe148f2698d6731]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/7/section/128) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/b)
+[^c-25cf020ae1486e1a1fe148f2698d6731]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/7/section/128) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/b)
 
 [^M_F_965ef042-36ef-403c-e02c-15c3599ce88b]: Textual amendment: Words in s. 128(7) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/8/3)

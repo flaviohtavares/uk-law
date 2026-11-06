@@ -34,7 +34,7 @@ and where the application is made by the officer in charge of the attendance cen
 
 the justice may—
 
-- (i) issue a summons directed to that child requiring him to appear before a youth court [^key-d244c6e45f43a10d1992971cbdb27bc3]...; or
+- (i) issue a summons directed to that child requiring him to appear before a youth court [^c-d244c6e45f43a10d1992971cbdb27bc3]...; or
 - (ii) if the complaint is in writing and on oath, issue a warrant for that child's arrest requiring him to be brought before such a court.
 
 (3) If it appears to the satisfaction of the court before which the child appears or is brought under paragraph (2) that—
@@ -57,4 +57,4 @@ that court may revoke the order and deal with him in any manner in which he coul
 
 ## Annotations
 
-[^key-d244c6e45f43a10d1992971cbdb27bc3]: Textual amendment: Words in [art. 38(2)(i)](https://www.legislation.gov.uk/nisi/1998/1504/article/38/2/i) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(9)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/9), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d244c6e45f43a10d1992971cbdb27bc3]: Textual amendment: Words in [art. 38(2)(i)](https://www.legislation.gov.uk/nisi/1998/1504/article/38/2/i) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(9)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/9), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

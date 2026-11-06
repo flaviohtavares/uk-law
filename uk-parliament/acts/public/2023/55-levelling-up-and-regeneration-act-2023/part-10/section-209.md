@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Exclusion of security of tenure[^key-bcbe97a61edb07796b61dd021c4c423f][^key-b61b8daea7d8146a78b9308fd587ea4b]
+## 209. Exclusion of security of tenure[^c-bcbe97a61edb07796b61dd021c4c423f][^c-b61b8daea7d8146a78b9308fd587ea4b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A tenancy granted further to a contract entered into under section 204 is exclud
 
 ## Annotations
 
-[^key-bcbe97a61edb07796b61dd021c4c423f]: Commencement: S. 209 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-bcbe97a61edb07796b61dd021c4c423f]: Commencement: S. 209 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-b61b8daea7d8146a78b9308fd587ea4b]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-b61b8daea7d8146a78b9308fd587ea4b]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Punishment of offences under these rules[^key-25a45a8d03597b7ec7da46cc99b4c02b]
+## SCHEDULE 2 — Punishment of offences under these rules[^c-25a45a8d03597b7ec7da46cc99b4c02b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Rule 154
 
 ## Annotations
 
-[^key-25a45a8d03597b7ec7da46cc99b4c02b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3208/schedule/2) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-25a45a8d03597b7ec7da46cc99b4c02b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3208/schedule/2) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

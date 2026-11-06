@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 215A. Statements of truth[^key-2365e7898eb374b23d04cb5dafd1ebbe]
+## 215A. Statements of truth[^c-2365e7898eb374b23d04cb5dafd1ebbe]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2365e7898eb374b23d04cb5dafd1ebbe]: Textual amendment: Rule 215A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/72) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-2365e7898eb374b23d04cb5dafd1ebbe]: Textual amendment: Rule 215A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/72) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

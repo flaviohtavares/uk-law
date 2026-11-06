@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 41. Deposition from Holy Orders: priest or deacon[^key-bf4040683e3e80d529615d9b775125dc]
+## 41. Deposition from Holy Orders: priest or deacon[^c-bf4040683e3e80d529615d9b775125dc]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4040683e3e80d529615d9b775125dc]: Commencement: S. 41 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-bf4040683e3e80d529615d9b775125dc]: Commencement: S. 41 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

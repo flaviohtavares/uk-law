@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Housing benefit: inclusion pending abolition[^key-f0153566ce8e23aec27ded1982f4bce2]
+## 51. Housing benefit: inclusion pending abolition[^c-f0153566ce8e23aec27ded1982f4bce2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0153566ce8e23aec27ded1982f4bce2]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/22/section/51) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
+[^c-f0153566ce8e23aec27ded1982f4bce2]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/22/section/51) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)

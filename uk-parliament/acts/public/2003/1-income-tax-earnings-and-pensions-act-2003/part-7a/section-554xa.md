@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554XA. Exclusions: payments in respect of a tax liability[^key-1d3362e57152d64aab4ff83effeb17c5][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554XA. Exclusions: payments in respect of a tax liability[^c-1d3362e57152d64aab4ff83effeb17c5][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ an officer of Revenue and Customs agrees that the liability is to be treated as 
 
 ## Annotations
 
-[^key-1d3362e57152d64aab4ff83effeb17c5]: Textual amendment: S. 554XA inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/9)
+[^c-1d3362e57152d64aab4ff83effeb17c5]: Textual amendment: S. 554XA inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/9)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)

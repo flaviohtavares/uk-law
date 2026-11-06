@@ -37,42 +37,42 @@ concerning the series of data to be produced for insurance services statistics
 
 (Text with EEA relevance) (revoked)
 
-[^key-73565e1ae75ed51d04aaf0990176b747]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73565e1ae75ed51d04aaf0990176b747]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-73565e1ae75ed51d04aaf0990176b747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-73565e1ae75ed51d04aaf0990176b747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-73565e1ae75ed51d04aaf0990176b747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-73565e1ae75ed51d04aaf0990176b747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-73565e1ae75ed51d04aaf0990176b747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-73565e1ae75ed51d04aaf0990176b747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73565e1ae75ed51d04aaf0990176b747]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73565e1ae75ed51d04aaf0990176b747]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Series of Data[^key-73565e1ae75ed51d04aaf0990176b747]
+## ANNEX — Series of Data[^c-73565e1ae75ed51d04aaf0990176b747]
 
-[^key-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down by legal status listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
+[^c-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down according to the country of residence of the parent enterprise listed in Annex 5 Section 4 paragraph 3 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
+[^c-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down by legal status listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down by size class listed in Annex 5 Section 4 paragraph 3 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
+[^c-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down according to the country of residence of the parent enterprise listed in Annex 5 Section 4 paragraph 3 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down by products listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
+[^c-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down by size class listed in Annex 5 Section 4 paragraph 3 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics by geographical breakdown listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
+[^c-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics broken down by products listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-73565e1ae75ed51d04aaf0990176b747]Annual enterprise statistics by geographical breakdown listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73565e1ae75ed51d04aaf0990176b747]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73565e1ae75ed51d04aaf0990176b747]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Penalties[^key-021d9822d76003f1f2d75199ef07afce]
+## 93. Penalties[^c-021d9822d76003f1f2d75199ef07afce]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-021d9822d76003f1f2d75199ef07afce]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2014/23/section/93) in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(w)](https://www.legislation.gov.uk/uksi/2015/993/article/2/w)
+[^c-021d9822d76003f1f2d75199ef07afce]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2014/23/section/93) in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(w)](https://www.legislation.gov.uk/uksi/2015/993/article/2/w)

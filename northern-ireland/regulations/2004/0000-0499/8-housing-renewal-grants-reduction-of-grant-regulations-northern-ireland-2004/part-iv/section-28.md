@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Determination of net profit of self-employed earners[^key-4fa43f8801f5932275817096c81dd5fd]
+## 28. Determination of net profit of self-employed earners[^c-4fa43f8801f5932275817096c81dd5fd]
 
 *Extent: N.I.*
 
@@ -91,6 +91,6 @@ unless it has been expended for the purposes of the business;
 
 ## Annotations
 
-[^key-4fa43f8801f5932275817096c81dd5fd]: Commencement: Reg. 28 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-4fa43f8801f5932275817096c81dd5fd]: Commencement: Reg. 28 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00073]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)

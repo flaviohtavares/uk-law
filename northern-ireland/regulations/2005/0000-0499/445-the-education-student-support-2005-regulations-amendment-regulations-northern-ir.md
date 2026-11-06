@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Support) (2005 Regulations) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-30c23c52da433655b8a035d25962648f]
+The Education (Student Support) (2005 Regulations) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-30c23c52da433655b8a035d25962648f]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 31st October 2005
 
-[^key-30c23c52da433655b8a035d25962648f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30c23c52da433655b8a035d25962648f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-30c23c52da433655b8a035d25962648f]
+## 1. Citation and commencement[^c-30c23c52da433655b8a035d25962648f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-30c23c52da433655b8a035d25962648f]
+## 2. Interpretation[^c-30c23c52da433655b8a035d25962648f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2005 Regulations[^key-30c23c52da433655b8a035d25962648f]
+## 3. Amendment of the 2005 Regulations[^c-30c23c52da433655b8a035d25962648f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-30c23c52da433655b8a035d25962648f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-30c23c52da433655b8a035d25962648f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-30c23c52da433655b8a035d25962648f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-30c23c52da433655b8a035d25962648f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-30c23c52da433655b8a035d25962648f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-30c23c52da433655b8a035d25962648f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30c23c52da433655b8a035d25962648f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30c23c52da433655b8a035d25962648f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30c23c52da433655b8a035d25962648f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30c23c52da433655b8a035d25962648f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30c23c52da433655b8a035d25962648f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/445) revoked (1.9.2006) by [The Education (Student Support) Regulations (Northern Ireland) 2006 (S.R. 2006/312)](https://www.legislation.gov.uk/nisr/2006/312), [regs. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2006/312/regulation/3/1/b)
+[^c-30c23c52da433655b8a035d25962648f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/445) revoked (1.9.2006) by [The Education (Student Support) Regulations (Northern Ireland) 2006 (S.R. 2006/312)](https://www.legislation.gov.uk/nisr/2006/312), [regs. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2006/312/regulation/3/1/b)

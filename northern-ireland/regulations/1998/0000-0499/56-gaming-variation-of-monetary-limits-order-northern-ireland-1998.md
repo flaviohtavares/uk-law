@@ -42,28 +42,28 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 77(4), 106(3) and 108(16) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-beb25f5d754dfb587dad52ed0217053c]
+## 1. Citation, commencement and interpretation[^c-beb25f5d754dfb587dad52ed0217053c]
 
 (1) This Order may be cited as the Gaming (Variation of Monetary Limits) Order (Northern Ireland) 1998 and shall come into operation on 9th April 1998.
 
 (2) In this Order “the Order” means the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985.
 
-## 2. Conditions governing gaming for prizes on bingo club premises[^key-7666e64c42e23502087e54cfcc94e67c]
+## 2. Conditions governing gaming for prizes on bingo club premises[^c-7666e64c42e23502087e54cfcc94e67c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Maximum charge for playing a game once by means of a gaming machine in a registered club[^key-a268888dcc4b3b9711165d78e9539fd0]
+## 3. Maximum charge for playing a game once by means of a gaming machine in a registered club[^c-a268888dcc4b3b9711165d78e9539fd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Maximum charge for playing a game once and maximum entitlement to prizes in gaming by means of gaming machines in certain other premises[^key-8a59317c342b0760cf0792563f9aba16]
+## 4. Maximum charge for playing a game once and maximum entitlement to prizes in gaming by means of gaming machines in certain other premises[^c-8a59317c342b0760cf0792563f9aba16]
 
 In Article 108 of the Order—
 
-- (a)[^key-54ab8f1524210ab0f2de744994072881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-54ab8f1524210ab0f2de744994072881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraphs (7) and (9) for “£4”[^f00005] wherever it occurs there shall be substituted “£5”.
 
-## 5. Revocations[^key-f4c47696b564ae085e5bea844f34ebb0]
+## 5. Revocations[^c-f4c47696b564ae085e5bea844f34ebb0]
 
 The following are hereby revoked—
 
@@ -91,19 +91,19 @@ This Order—
 
 [^f00001]: Footnote: S.I. [1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204); *see* Article 2(2) for the definition of “the Department”
 
-[^key-beb25f5d754dfb587dad52ed0217053c]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/56/article/1) in operation at 9.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/56/article/1/1)
+[^c-beb25f5d754dfb587dad52ed0217053c]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/56/article/1) in operation at 9.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/56/article/1/1)
 
-[^key-7666e64c42e23502087e54cfcc94e67c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/1998/56/article/2) revoked (13.2.2002) by [Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2001 (S.R. 2001/414)](https://www.legislation.gov.uk/nisr/2001/414), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2001/414/article/7/b)
+[^c-7666e64c42e23502087e54cfcc94e67c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/1998/56/article/2) revoked (13.2.2002) by [Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2001 (S.R. 2001/414)](https://www.legislation.gov.uk/nisr/2001/414), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2001/414/article/7/b)
 
-[^key-a268888dcc4b3b9711165d78e9539fd0]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/1998/56/article/3) revoked (19.2.1999) by [Gaming (Variation of Monetary Limits) Order (Northern Ireland) 1999 (S.R. 1999/4)](https://www.legislation.gov.uk/nisr/1999/4), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1999/4/article/1/1), [6(b)](https://www.legislation.gov.uk/nisr/1999/4/article/6/b)
+[^c-a268888dcc4b3b9711165d78e9539fd0]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/1998/56/article/3) revoked (19.2.1999) by [Gaming (Variation of Monetary Limits) Order (Northern Ireland) 1999 (S.R. 1999/4)](https://www.legislation.gov.uk/nisr/1999/4), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1999/4/article/1/1), [6(b)](https://www.legislation.gov.uk/nisr/1999/4/article/6/b)
 
-[^key-8a59317c342b0760cf0792563f9aba16]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1998/56/article/4) in operation at 9.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/56/article/1/1)
+[^c-8a59317c342b0760cf0792563f9aba16]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1998/56/article/4) in operation at 9.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/56/article/1/1)
 
-[^key-54ab8f1524210ab0f2de744994072881]: Textual amendment: [Art. 4(a)](https://www.legislation.gov.uk/nisr/1998/56/article/4/a) revoked (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2025/2/article/6/a)
+[^c-54ab8f1524210ab0f2de744994072881]: Textual amendment: [Art. 4(a)](https://www.legislation.gov.uk/nisr/1998/56/article/4/a) revoked (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2025/2/article/6/a)
 
 [^f00005]: Footnote: Substituted by [S.R. 1995 No. 442](https://www.legislation.gov.uk/nisr/1995/442) Article 3(*b*)
 
-[^key-f4c47696b564ae085e5bea844f34ebb0]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1998/56/article/5) in operation at 9.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/56/article/1/1)
+[^c-f4c47696b564ae085e5bea844f34ebb0]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1998/56/article/5) in operation at 9.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/56/article/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 572](https://www.legislation.gov.uk/nisr/1996/572)
 

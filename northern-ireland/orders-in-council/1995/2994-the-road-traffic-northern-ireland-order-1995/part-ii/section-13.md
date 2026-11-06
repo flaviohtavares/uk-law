@@ -42,7 +42,7 @@ summary: ''
 
 (2B) An order under paragraph (2) shall be subject to negative resolution[^c22013561].
 
-(3) A person does not co-operate with a preliminary test[^c20464481] or check-point breath test[^key-01e4d8775056a8a617715b38408b34ef] or provide a specimen of breath for analysis unless his co-operation or the specimen—
+(3) A person does not co-operate with a preliminary test[^c20464481] or check-point breath test[^c-01e4d8775056a8a617715b38408b34ef] or provide a specimen of breath for analysis unless his co-operation or the specimen—
 
 - (a) is sufficient to enable the test or the analysis to be carried out, and
 - (b) is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
@@ -66,6 +66,6 @@ summary: ''
 
 [^c20464481]: Textual amendment: Words in art. 13(3) substituted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [86(1)](https://www.legislation.gov.uk/nisi/2007/916/article/86/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/nisi/2007/916/schedule/7/paragraph/10); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
-[^key-01e4d8775056a8a617715b38408b34ef]: Textual amendment: Words in [art. 13(3)](https://www.legislation.gov.uk/nisi/1995/2994/article/13/3) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(2)](https://www.legislation.gov.uk/nia/2016/11/section/4/2), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-01e4d8775056a8a617715b38408b34ef]: Textual amendment: Words in [art. 13(3)](https://www.legislation.gov.uk/nisi/1995/2994/article/13/3) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(2)](https://www.legislation.gov.uk/nia/2016/11/section/4/2), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
 [^c20464511]: Textual amendment: Art. 13(5) repealed (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [86(2)](https://www.legislation.gov.uk/nisi/2007/916/article/86/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisi/2007/916/schedule/8/part/I); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)

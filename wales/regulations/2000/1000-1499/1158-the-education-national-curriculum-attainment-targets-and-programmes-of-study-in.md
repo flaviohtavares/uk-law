@@ -43,7 +43,7 @@ The requirements set out in the Schedule have been fulfilled.
 
 In exercise of the powers conferred on the Secretary of State by section 356(2)(a) and (b) and (4) of the Education Act 1996[^f00001] and now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales makes the following Order:
 
-## 1. Citation, commencement, interpretation and application[^key-137dfc063ebf9a47619e65fce2f736c0]
+## 1. Citation, commencement, interpretation and application[^c-137dfc063ebf9a47619e65fce2f736c0]
 
 (1) This Order may be cited as the Education (National Curriculum) (Attainment Targets and Programmes of Study in Music) (Wales) Order 2000 and shall come into force on 1st August 2000.
 
@@ -55,15 +55,15 @@ In exercise of the powers conferred on the Secretary of State by section 356(2)(
 
 (3) This Order applies only in relation to to schools in Wales.
 
-## 2. Revocation[^key-efe4ed93803558533311f663ff172844]
+## 2. Revocation[^c-efe4ed93803558533311f663ff172844]
 
 The Education (National Curriculum) (Attainment Targets and Programmes of Study in Music) (Wales) Order 1998[^f00005] is revoked.
 
-## 3. Specification of attainment targets and programmes of study[^key-4d0cdff74050bd5a7b648c0dfb3f5753]
+## 3. Specification of attainment targets and programmes of study[^c-4d0cdff74050bd5a7b648c0dfb3f5753]
 
 The National Assembly directs that the provisions relating to attainment targets and programmes of study set out in the Document shall have effect for the purpose of specifying the attainment targets and programmes of study in relation to music.
 
-**4.**[^key-2f2e3a275c70c4d4eb01ab5f16273367] The examples printed in italics in the Document (which serve to illustrate the programmes of study described therein) do not form part of the provision made by this Order.
+**4.**[^c-2f2e3a275c70c4d4eb01ab5f16273367] The examples printed in italics in the Document (which serve to illustrate the programmes of study described therein) do not form part of the provision made by this Order.
 
 Signed on behalf of the National Assembly under section 66(1) of the Government of Wales Act 1998[^f00006] 10th April 2000
 
@@ -71,9 +71,9 @@ D. Elis Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE — REQUIREMENTS UNDER SECTION 368 OF THE EDUCATION ACT 1996[^key-d0067ed118f2f004e5094ab2e996c236][^f00007]
+## SCHEDULE — REQUIREMENTS UNDER SECTION 368 OF THE EDUCATION ACT 1996[^c-d0067ed118f2f004e5094ab2e996c236][^f00007]
 
-[^key-d0067ed118f2f004e5094ab2e996c236]
+[^c-d0067ed118f2f004e5094ab2e996c236]
 
 - **Section 368(2)**
 
@@ -106,23 +106,23 @@ The Order replaces the Education (National Curriculum) (Attainment Targets and P
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 356 of the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-137dfc063ebf9a47619e65fce2f736c0]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1158/article/1) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
+[^c-137dfc063ebf9a47619e65fce2f736c0]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1158/article/1) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
 
 [^f00003]: Footnote: The Qualifications, Curriculum and Assessment Authority for Wales was established by section 14(1)(b) of the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), continued in existence by section 360 of the Education Act 1996 and given its current name by section 27(1) of the Education Act 1997.
 
 [^f00004]: Footnote: ISBN 07504 24109
 
-[^key-efe4ed93803558533311f663ff172844]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1158/article/2) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
+[^c-efe4ed93803558533311f663ff172844]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1158/article/2) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
 
 [^f00005]: Footnote: [S.I.1998/1889](https://www.legislation.gov.uk/uksi/1998/1889).
 
-[^key-4d0cdff74050bd5a7b648c0dfb3f5753]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1158/article/3) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
+[^c-4d0cdff74050bd5a7b648c0dfb3f5753]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1158/article/3) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
 
-[^key-2f2e3a275c70c4d4eb01ab5f16273367]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1158/article/4) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
+[^c-2f2e3a275c70c4d4eb01ab5f16273367]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1158/article/4) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
 
 [^f00006]: Footnote: [1998.c.38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-d0067ed118f2f004e5094ab2e996c236]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1158/schedule) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
+[^c-d0067ed118f2f004e5094ab2e996c236]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1158/schedule) in force at 1.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1158/article/1/1)
 
 [^f00007]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 368 is amended by paragraph 28 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44). The functions of the Secretary of State under section 368 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 

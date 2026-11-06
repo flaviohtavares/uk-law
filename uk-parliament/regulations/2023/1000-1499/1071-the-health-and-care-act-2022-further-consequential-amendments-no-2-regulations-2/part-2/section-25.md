@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Amendment of the Placement of Children (Wales) Regulations 2007 (English language text)[^key-3210281532afa3f882cc1a4fc969f5ad]
+## 25. Amendment of the Placement of Children (Wales) Regulations 2007 (English language text)[^c-3210281532afa3f882cc1a4fc969f5ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3210281532afa3f882cc1a4fc969f5ad]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2023/1071/regulation/25) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-3210281532afa3f882cc1a4fc969f5ad]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2023/1071/regulation/25) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2007/310 (W. 27)](https://www.legislation.gov.uk/wsi/2007/310), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

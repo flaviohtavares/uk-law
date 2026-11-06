@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Revocation of retained direct EU legislation[^key-1b4bd61d4419760d6f8b20a80551fc67]
+## 110. Revocation of retained direct EU legislation[^c-1b4bd61d4419760d6f8b20a80551fc67]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (revocation of retained direct EU legislation) has effect.
 
 ## Annotations
 
-[^key-1b4bd61d4419760d6f8b20a80551fc67]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-1b4bd61d4419760d6f8b20a80551fc67]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

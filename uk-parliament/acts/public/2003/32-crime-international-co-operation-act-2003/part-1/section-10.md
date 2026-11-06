@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Domestic freezing orders[^key-2f3a2706f1b1c2f9a17cb16919f9eee6]
+## 10. Domestic freezing orders[^c-2f3a2706f1b1c2f9a17cb16919f9eee6]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the judicial authority may make a domestic freezing order in respect of the evid
 
 ## Annotations
 
-[^key-2f3a2706f1b1c2f9a17cb16919f9eee6]: Commencement: S. 10 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/a)
+[^c-2f3a2706f1b1c2f9a17cb16919f9eee6]: Commencement: S. 10 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/a)

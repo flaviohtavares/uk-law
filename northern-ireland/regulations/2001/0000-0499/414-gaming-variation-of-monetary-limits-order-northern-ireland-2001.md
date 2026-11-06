@@ -43,25 +43,25 @@ Coming into operation in accordance with Article 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 75(2), 76(5), 77(4), 126(15) and 128(3) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00001] and now vested in it[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-439a89e27c606cfd1b7538820a1fc8b5]
+## 1. Citation, commencement and interpretation[^c-439a89e27c606cfd1b7538820a1fc8b5]
 
 (1) This Order may be cited as the Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2001 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
 (2) In this Order “the 1985 Order” means the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985.
 
-## 2. Maximum amount of weekly winnings in games of bingo played simultaneously on different bingo club premises[^key-8e086d8da469f4be5b2341a107999593]
+## 2. Maximum amount of weekly winnings in games of bingo played simultaneously on different bingo club premises[^c-8e086d8da469f4be5b2341a107999593]
 
 For the purposes of Article 75(2)(ii) of the 1985 Order instead of £30,000[^f00003] the amount £55,000 is hereby specified.
 
-## 3. Maximum amount by which weekly winnings on bingo club premises may exceed the stakes hazarded[^key-155945263ba1cb367246815fcaead6e1]
+## 3. Maximum amount by which weekly winnings on bingo club premises may exceed the stakes hazarded[^c-155945263ba1cb367246815fcaead6e1]
 
 For the purposes of Article 76(5) of the 1985 Order instead of £5,500[^f00004] the amount £10,000 is hereby specified.
 
-## 4. Conditions governing gaming for prizes on bingo club premises[^key-e025d4dc22453946a65c228f41b393ba][^key-dfa9670b6fe7aac29e925c83b10a458f]
+## 4. Conditions governing gaming for prizes on bingo club premises[^c-e025d4dc22453946a65c228f41b393ba][^c-dfa9670b6fe7aac29e925c83b10a458f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum amounts permitted in gaming at entertainments not held for private gain[^key-0d8e13f5a12e3d3ec01daf145033f97f]
+## 5. Maximum amounts permitted in gaming at entertainments not held for private gain[^c-0d8e13f5a12e3d3ec01daf145033f97f]
 
 (1) In Article 126 of the 1985 Order—
 
@@ -71,13 +71,13 @@ For the purposes of Article 76(5) of the 1985 Order instead of £5,500[^f00004] 
 
 (2) Paragraph (1) shall have effect only in relation to entertainments held on or after the date on which this Order comes into operation.
 
-## 6. Maximum daily charges for play at certain clubs[^key-db118b9cbdab18c44b9da4f005d5dedb]
+## 6. Maximum daily charges for play at certain clubs[^c-db118b9cbdab18c44b9da4f005d5dedb]
 
 (1) In Article 128(2) of the 1985 Order for “£0·50”[^f00010] there shall be substituted “£0·60”.
 
 (2) For the purposes of Article 128(2) of the 1985 Order, in the case of gaming which consists exclusively of playing bridge or whist, or bridge and whist, and which takes place on a day on which the premises used therefor are not used for any other gaming, or for any other gaming except gaming by means of a gaming machine, instead of £6[^f00011] the sum £15 is hereby specified.
 
-## 7. Revocations[^key-1f8771c91a07d2f9ee6b306f7e8591ed]
+## 7. Revocations[^c-1f8771c91a07d2f9ee6b306f7e8591ed]
 
 The following are hereby revoked—
 
@@ -118,21 +118,21 @@ This Order—
 
 [^f00002]: Footnote: *See* Article 8(*b*) of and Part II of Schedule 6 to the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
 
-[^key-439a89e27c606cfd1b7538820a1fc8b5]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2001/414/article/1) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-439a89e27c606cfd1b7538820a1fc8b5]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2001/414/article/1) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
-[^key-8e086d8da469f4be5b2341a107999593]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2001/414/article/2) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-8e086d8da469f4be5b2341a107999593]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2001/414/article/2) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
 [^f00003]: Footnote: Specified by [S.R. 1999 No. 4](https://www.legislation.gov.uk/nisr/1999/4) Article 2
 
-[^key-155945263ba1cb367246815fcaead6e1]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2001/414/article/3) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-155945263ba1cb367246815fcaead6e1]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2001/414/article/3) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
 [^f00004]: Footnote: Specified by [S.R. 1999 No. 4](https://www.legislation.gov.uk/nisr/1999/4) Article 3
 
-[^key-e025d4dc22453946a65c228f41b393ba]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2001/414/article/4) revoked (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [6(c)](https://www.legislation.gov.uk/nisr/2025/2/article/6/c)
+[^c-e025d4dc22453946a65c228f41b393ba]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2001/414/article/4) revoked (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [6(c)](https://www.legislation.gov.uk/nisr/2025/2/article/6/c)
 
-[^key-dfa9670b6fe7aac29e925c83b10a458f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2001/414/article/4) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-dfa9670b6fe7aac29e925c83b10a458f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2001/414/article/4) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
-[^key-0d8e13f5a12e3d3ec01daf145033f97f]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2001/414/article/5) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-0d8e13f5a12e3d3ec01daf145033f97f]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2001/414/article/5) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
 [^f00007]: Footnote: Substituted by [S.R. 1995 No. 343](https://www.legislation.gov.uk/nisr/1995/343) Article 7(1)(*a*)
 
@@ -140,13 +140,13 @@ This Order—
 
 [^f00009]: Footnote: Substituted by [S.R. 1995 No. 343](https://www.legislation.gov.uk/nisr/1995/343) Article 7(1)(*c*)
 
-[^key-db118b9cbdab18c44b9da4f005d5dedb]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2001/414/article/6) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-db118b9cbdab18c44b9da4f005d5dedb]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2001/414/article/6) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
 [^f00010]: Footnote: Substituted by [S.R. 1995 No. 343](https://www.legislation.gov.uk/nisr/1995/343) Article 8
 
 [^f00011]: Footnote: Specified by [S.R. 1987 No. 186](https://www.legislation.gov.uk/nisr/1987/186) Article 6(2)
 
-[^key-1f8771c91a07d2f9ee6b306f7e8591ed]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2001/414/article/7) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
+[^c-1f8771c91a07d2f9ee6b306f7e8591ed]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2001/414/article/7) in operation at 13.2.2002, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/414/article/1/1)
 
 [^f00012]: Footnote: [S.R. 1999 No. 4](https://www.legislation.gov.uk/nisr/1999/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.[^key-ff5e5f245355f614da53431ffc3cb32c]
+## 48.[^c-ff5e5f245355f614da53431ffc3cb32c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In Schedule 1, after paragraph 5 (persons with leave to enter or remain and thei
 
 ## Annotations
 
-[^key-ff5e5f245355f614da53431ffc3cb32c]: Commencement: Reg. 48 in force at 27.5.2019, see reg. 1(2)
+[^c-ff5e5f245355f614da53431ffc3cb32c]: Commencement: Reg. 48 in force at 27.5.2019, see reg. 1(2)

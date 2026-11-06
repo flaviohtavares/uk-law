@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 475A. “Hedging relationship”[^key-459a7a726e0df2f8e422a905b9c696e6]
+## 475A. “Hedging relationship”[^c-459a7a726e0df2f8e422a905b9c696e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-459a7a726e0df2f8e422a905b9c696e6]: Textual amendment: S. 475A and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/54)
+[^c-459a7a726e0df2f8e422a905b9c696e6]: Textual amendment: S. 475A and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/54)

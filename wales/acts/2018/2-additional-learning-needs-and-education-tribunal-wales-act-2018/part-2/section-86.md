@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Students at further education institutions undertaking higher education courses[^key-1d486c3629d9ef0d3dfc0130ea37f350]
+## 86. Students at further education institutions undertaking higher education courses[^c-1d486c3629d9ef0d3dfc0130ea37f350]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d486c3629d9ef0d3dfc0130ea37f350]: Commencement: S. 86 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-1d486c3629d9ef0d3dfc0130ea37f350]: Commencement: S. 86 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

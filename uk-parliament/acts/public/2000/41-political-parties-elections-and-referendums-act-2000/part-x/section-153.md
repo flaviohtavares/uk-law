@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Offences committed by unincorporated associations.[^c10575511][^key-47fd59b9e3a7c303d3b154f35680bf0e]
+## 153. Offences committed by unincorporated associations.[^c10575511][^c-47fd59b9e3a7c303d3b154f35680bf0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) Section 18 of the [^c10575551]Criminal Justice Act (Northern Ireland) 1945 and Schedule 4 to the [^c10575561] Magistrates’Courts (Northern Ireland) Order 1981 (procedure on charge of offence against a corporation) shall have effect in a case in which an unincorporated association is charged in Northern Ireland with an offence under this Act in like manner as they have effect in the case of a corporation so charged.
 
-(5A)[^key-163e30c32a502c26980650fda429b2e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-163e30c32a502c26980650fda429b2e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where a partnership is guilty of an offence under this Act and the offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any partner, he as well as the partnership shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
 
@@ -45,7 +45,7 @@ he, as well as the association, shall be guilty of that offence and be liable to
 
 [^c10575511]: Commencement: S. 153 wholly in force at 16.2.2001; s. 153 not in force at Royal Assent, see s. 163(2); s. 153 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt.I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-47fd59b9e3a7c303d3b154f35680bf0e]: Modification: S. 153 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 4 para. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/1/c); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-47fd59b9e3a7c303d3b154f35680bf0e]: Modification: S. 153 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 4 para. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/1/c); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c10575521]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86).
 
@@ -57,4 +57,4 @@ he, as well as the association, shall be guilty of that offence and be liable to
 
 [^c10575561]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-163e30c32a502c26980650fda429b2e7]: Textual amendment: [S. 153(5A)](https://www.legislation.gov.uk/ukpga/2000/41/section/153/5A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-163e30c32a502c26980650fda429b2e7]: Textual amendment: [S. 153(5A)](https://www.legislation.gov.uk/ukpga/2000/41/section/153/5A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Exemptions—Vehicles towing or being towed[^key-b8904b269c550c8a7824a625b96b1a32]
+## 6. Exemptions—Vehicles towing or being towed[^c-b8904b269c550c8a7824a625b96b1a32]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8904b269c550c8a7824a625b96b1a32]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1796/regulation/6) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-b8904b269c550c8a7824a625b96b1a32]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1796/regulation/6) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

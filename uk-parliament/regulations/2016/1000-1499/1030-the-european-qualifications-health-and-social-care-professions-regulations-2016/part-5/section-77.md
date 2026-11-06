@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendment of article 6[^key-60f3f591f9ea4fee1c39bbad8b107144]
+## 77. Amendment of article 6[^c-60f3f591f9ea4fee1c39bbad8b107144]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60f3f591f9ea4fee1c39bbad8b107144]: Commencement: Reg. 77 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-60f3f591f9ea4fee1c39bbad8b107144]: Commencement: Reg. 77 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00058]: Footnote: Article 6 was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

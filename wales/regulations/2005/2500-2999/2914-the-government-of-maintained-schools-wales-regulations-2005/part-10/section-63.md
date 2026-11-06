@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Restrictions on persons taking part in proceedings[^key-e71232e93771c382aed561697760739d][^key-0876520cd10434adcbde2c04df249d6e]
+## 63. Restrictions on persons taking part in proceedings[^c-e71232e93771c382aed561697760739d][^c-0876520cd10434adcbde2c04df249d6e]
 
 *Extent: E+W*
 
-[^key-0876520cd10434adcbde2c04df249d6e]
+[^c-0876520cd10434adcbde2c04df249d6e]
 
 (1) In this regulation and in Schedule 7—
 
 - (a) “relevant person” (“*person perthnasol*”) means a governor, a member of a committee who is not a governor, the head teacher (whether or not he or she is a governor) or any person appointed as clerk to the governing body or to a committee; and
-- (b) any reference to “meeting of the school” (“*cyfarfod o'r ysgol*”) is a reference to a meeting of the governing body or of a committee, including a selection panel established under The Staffing of Maintained Schools (Wales) Regulations 2006[^key-b70ed3268a37fd2724fdfcc56ebca06c].
+- (b) any reference to “meeting of the school” (“*cyfarfod o'r ysgol*”) is a reference to a meeting of the governing body or of a committee, including a selection panel established under The Staffing of Maintained Schools (Wales) Regulations 2006[^c-b70ed3268a37fd2724fdfcc56ebca06c].
 
 (2) Subject to paragraph (4), where—
 
@@ -50,8 +50,8 @@ that person, if present at a meeting of the school at which the matter is the su
 
 ## Annotations
 
-[^key-e71232e93771c382aed561697760739d]: Commencement: Reg. 63 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-e71232e93771c382aed561697760739d]: Commencement: Reg. 63 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-0876520cd10434adcbde2c04df249d6e]: Modification: [Pt. 10](https://www.legislation.gov.uk/wsi/2005/2914/part/10) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [42](https://www.legislation.gov.uk/wsi/2005/2912/regulation/42) (with [reg. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3))
+[^c-0876520cd10434adcbde2c04df249d6e]: Modification: [Pt. 10](https://www.legislation.gov.uk/wsi/2005/2914/part/10) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [42](https://www.legislation.gov.uk/wsi/2005/2912/regulation/42) (with [reg. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3))
 
-[^key-b70ed3268a37fd2724fdfcc56ebca06c]: Textual amendment: Words in [reg. 63(1)(b)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/63/1/b) substituted (1.4.2006) by [The Staffing of Maintained Schools (Wales) Regulations 2006 (S.I. 2006/873)](https://www.legislation.gov.uk/wsi/2006/873), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2006/873/regulation/1/1), [8(4)](https://www.legislation.gov.uk/wsi/2006/873/regulation/8/4)
+[^c-b70ed3268a37fd2724fdfcc56ebca06c]: Textual amendment: Words in [reg. 63(1)(b)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/63/1/b) substituted (1.4.2006) by [The Staffing of Maintained Schools (Wales) Regulations 2006 (S.I. 2006/873)](https://www.legislation.gov.uk/wsi/2006/873), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2006/873/regulation/1/1), [8(4)](https://www.legislation.gov.uk/wsi/2006/873/regulation/8/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8ZA. Duties in relation to carrying out its functions[^key-c4f0f9540450208182b0ee042918b1f4]
+## 8ZA. Duties in relation to carrying out its functions[^c-c4f0f9540450208182b0ee042918b1f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f0f9540450208182b0ee042918b1f4]: Textual amendment: S. 8ZA inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 7](https://www.legislation.gov.uk/ukpga/2008/22/section/7), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)
+[^c-c4f0f9540450208182b0ee042918b1f4]: Textual amendment: S. 8ZA inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 7](https://www.legislation.gov.uk/ukpga/2008/22/section/7), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)

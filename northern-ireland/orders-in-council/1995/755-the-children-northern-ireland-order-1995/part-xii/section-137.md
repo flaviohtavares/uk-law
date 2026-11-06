@@ -38,7 +38,7 @@ and a child shall be treated for the purposes of this Article as taking part in 
 (3) A licence under Article 138 shall not be required for any child to take part in a performance to which this Article applies if—
 
 - (a) in the six months preceding the performance he has not taken part in other performances to which this Article applies on more than three days; or
-- (b) the performance is given under arrangements made by a school or made by a body of persons approved for the purposes of this Article by the Department of Education or by the Education Authority[^key-b66bb61224eee6ec5ed12b1fa288b14c] , and no payment in respect of the child's taking part in the performance is made, whether to him or to any other person, except for defraying expenses;
+- (b) the performance is given under arrangements made by a school or made by a body of persons approved for the purposes of this Article by the Department of Education or by the Education Authority[^c-b66bb61224eee6ec5ed12b1fa288b14c] , and no payment in respect of the child's taking part in the performance is made, whether to him or to any other person, except for defraying expenses;
 
 but the Department of Education may, with the approval of the Department, by regulations prescribe conditions to be observed with respect to the hours of work, rest or meals of children taking part in performances as mentioned in sub-paragraph (a).
 
@@ -48,4 +48,4 @@ but the Department of Education may, with the approval of the Department, by reg
 
 [^c17271041]: Textual amendment: [1987 NI 14](https://www.legislation.gov.uk/nisi/1987)
 
-[^key-b66bb61224eee6ec5ed12b1fa288b14c]: Textual amendment: Words in [art. 137(3)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/137/3/b) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(9)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/9) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b66bb61224eee6ec5ed12b1fa288b14c]: Textual amendment: Words in [art. 137(3)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/137/3/b) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(9)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/9) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31A. Designation of premises and approved animal by-products plants in England[^key-2e34b9a818969462be2cf1bbff55271b]
+## 31A. Designation of premises and approved animal by-products plants in England[^c-2e34b9a818969462be2cf1bbff55271b]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e34b9a818969462be2cf1bbff55271b]: Textual amendment: [Pts. 7A](https://www.legislation.gov.uk/uksi/2014/1894/part/7A), [7B](https://www.legislation.gov.uk/uksi/2014/1894/part/7B) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(30)](https://www.legislation.gov.uk/uksi/2026/475/article/3/30)
+[^c-2e34b9a818969462be2cf1bbff55271b]: Textual amendment: [Pts. 7A](https://www.legislation.gov.uk/uksi/2014/1894/part/7A), [7B](https://www.legislation.gov.uk/uksi/2014/1894/part/7B) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(30)](https://www.legislation.gov.uk/uksi/2026/475/article/3/30)

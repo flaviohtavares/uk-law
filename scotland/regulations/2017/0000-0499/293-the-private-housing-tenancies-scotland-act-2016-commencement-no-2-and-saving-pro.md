@@ -32,7 +32,7 @@ summary: ''
 
 Housing
 
-The Private Housing (Tenancies) (Scotland) Act 2016 (Commencement No. 2 and Saving Provision) Regulations 2017 (revoked)[^key-9346736e08931bdc71182283a767124e]
+The Private Housing (Tenancies) (Scotland) Act 2016 (Commencement No. 2 and Saving Provision) Regulations 2017 (revoked)[^c-9346736e08931bdc71182283a767124e]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st December 2017
 
-[^key-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9346736e08931bdc71182283a767124e]
+## 1. Citation, commencement and interpretation[^c-9346736e08931bdc71182283a767124e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-9346736e08931bdc71182283a767124e]
+## 2. Appointed day[^c-9346736e08931bdc71182283a767124e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving provision[^key-9346736e08931bdc71182283a767124e]
+## 3. Saving provision[^c-9346736e08931bdc71182283a767124e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PROVISIONS OF THE ACT COMING INTO FORCE ON 1st DECEMBER 2017[^key-9346736e08931bdc71182283a767124e]
+## SCHEDULE — PROVISIONS OF THE ACT COMING INTO FORCE ON 1st DECEMBER 2017[^c-9346736e08931bdc71182283a767124e]
 
 Regulation 2
 
@@ -74,12 +74,12 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9346736e08931bdc71182283a767124e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9346736e08931bdc71182283a767124e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2017/293) revoked (1.12.2017) by [The Private Housing (Tenancies) (Scotland) Act 2016 (Commencement No. 3, Amendment, Saving Provision and Revocation) Regulations 2017 (S.S.I. 2017/346)](https://www.legislation.gov.uk/ssi/2017/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/346/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2017/346/regulation/7)
+[^c-9346736e08931bdc71182283a767124e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2017/293) revoked (1.12.2017) by [The Private Housing (Tenancies) (Scotland) Act 2016 (Commencement No. 3, Amendment, Saving Provision and Revocation) Regulations 2017 (S.S.I. 2017/346)](https://www.legislation.gov.uk/ssi/2017/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/346/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2017/346/regulation/7)

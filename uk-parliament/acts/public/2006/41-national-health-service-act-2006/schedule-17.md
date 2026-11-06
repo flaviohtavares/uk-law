@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Exempt information relating to health services[^key-5b8a36469ef90115155b9290ab1fe2b9][^key-f8f5d371c064be68b1f5690e65db08ef]
+## SCHEDULE 17 — Exempt information relating to health services[^c-5b8a36469ef90115155b9290ab1fe2b9][^c-f8f5d371c064be68b1f5690e65db08ef]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ Section 246
 **13.** (1) Information relating to a particular person who—
 
 - (a) is, or was formerly, providing primary medical services, primary dental services or primary ophthalmic services under a contract under section 84, 100 or 117, or
-- (b) is, or was formerly, included in, or is an applicant for inclusion in, a list under section 91, 106, 123 or 147A[^key-93f5c5757e75b780e1bfc1933977bda0].
+- (b) is, or was formerly, included in, or is an applicant for inclusion in, a list under section 91, 106, 123 or 147A[^c-93f5c5757e75b780e1bfc1933977bda0].
 
 (2) In this paragraph—
 
@@ -98,8 +98,8 @@ Section 246
 
 ## Annotations
 
-[^key-5b8a36469ef90115155b9290ab1fe2b9]: Modification: Sch. 17: power to apply conferred by 2007 c. 28, s. 123(5)(b)(iii) (as substituted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/32/1), [148(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/2/a/ii))
+[^c-5b8a36469ef90115155b9290ab1fe2b9]: Modification: Sch. 17: power to apply conferred by 2007 c. 28, s. 123(5)(b)(iii) (as substituted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/32/1), [148(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/2/a/ii))
 
-[^key-f8f5d371c064be68b1f5690e65db08ef]: Modification: Sch. 17 applied (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/30/3)
+[^c-f8f5d371c064be68b1f5690e65db08ef]: Modification: Sch. 17 applied (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/30/3)
 
-[^key-93f5c5757e75b780e1bfc1933977bda0]: Textual amendment: Word in [Sch. 17 para. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2006/41/schedule/17/paragraph/13/1/b) substituted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/6), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
+[^c-93f5c5757e75b780e1bfc1933977bda0]: Textual amendment: Word in [Sch. 17 para. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2006/41/schedule/17/paragraph/13/1/b) substituted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/6), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)

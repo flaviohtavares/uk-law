@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Fitness of registered provider[^key-5aaa20cf95a683eefb5e67c1ff100c8c]
+## 5. Fitness of registered provider[^c-5aaa20cf95a683eefb5e67c1ff100c8c]
 
 *Extent: E+W*
 
@@ -40,13 +40,13 @@ summary: ''
 
 (4) A person must not carry on a scheme if that person has—
 
-- (a) been made[^key-d11924b147959bd0ad031ce2e21aa76a] bankrupt, or sequestration of that person’s estate has been awarded, or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986[^f00009]), applies in relation to that person and that person has not been discharged from the bankruptcy or the sequestration and the bankruptcy order has not been annulled or rescinded; or
+- (a) been made[^c-d11924b147959bd0ad031ce2e21aa76a] bankrupt, or sequestration of that person’s estate has been awarded, or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986[^f00009]), applies in relation to that person and that person has not been discharged from the bankruptcy or the sequestration and the bankruptcy order has not been annulled or rescinded; or
 - (b) made a composition or arrangement with a creditor and has not been discharged in respect of it.
 
 ## Annotations
 
-[^key-5aaa20cf95a683eefb5e67c1ff100c8c]: Commencement: Reg. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-5aaa20cf95a683eefb5e67c1ff100c8c]: Commencement: Reg. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-d11924b147959bd0ad031ce2e21aa76a]: Textual amendment: Word in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/5/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-d11924b147959bd0ad031ce2e21aa76a]: Textual amendment: Word in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/5/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00009]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 251A was inserted by Schedule 17 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

@@ -52,35 +52,35 @@ The Treasury consider, in relation to territories that are specified as Pillar T
 
 The Treasury consider, in relation to taxes that are specified as qualifying domestic top-up taxes, that those taxes are equivalent in substance to domestic top-up tax under Part 4 of the Finance (No. 2) Act 2023.
 
-## 1. Citation, commencement and effect[^key-c1b4a38ebaec55d41bc2881a82df2e47]
+## 1. Citation, commencement and effect[^c-c1b4a38ebaec55d41bc2881a82df2e47]
 
 (1) These Regulations may be cited as the Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) Regulations 2025 and come into force on 21st April 2025.
 
 (2) These Regulations have effect for accounting periods beginning on or after 31st December 2023.
 
-## 2. Pillar Two territories[^key-2edacfc0f36ac2243164678db17c2b51]
+## 2. Pillar Two territories[^c-2edacfc0f36ac2243164678db17c2b51]
 
 (1) The territories set out in Schedule 1 are specified as Pillar Two territories with effect on and after the respective dates listed in the table.
 
 (2) A territory is also a Pillar Two territory if it is specified as such in a notice published by the Commissioners for His Majesty’s Revenue and Customs.
 
-(3)[^key-581ca529a2e4def63ce6af112f15c46c] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
+(3)[^c-581ca529a2e4def63ce6af112f15c46c] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
 
-## 3. Qualifying domestic top-up taxes[^key-bc9f3e5a955bc6d0d066c3b24b3ecd6b]
+## 3. Qualifying domestic top-up taxes[^c-bc9f3e5a955bc6d0d066c3b24b3ecd6b]
 
 (1) A Qualified Domestic Minimum Top-up Tax for the purposes of the Pillar Two rules that is charged by the territory listed, and under the legislation set out, in Schedule 2 is specified as a qualifying domestic top-up tax with effect on or after the respective date listed in the table.
 
 (2) A Qualified Domestic Minimum Top-up Tax is also a qualifying domestic top-up tax if it is specified as such in a notice published by the Commissioners for His Majesty’s Revenue and Customs.
 
-(3)[^key-cdd4b762e68e40ce36c190e8527f3f9a] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
+(3)[^c-cdd4b762e68e40ce36c190e8527f3f9a] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
 
-## 4. Accredited qualifying domestic top-up taxes[^key-5c62019c863592857fb66bfcb285a068]
+## 4. Accredited qualifying domestic top-up taxes[^c-5c62019c863592857fb66bfcb285a068]
 
 (1) A Qualified Domestic Minimum Top-up Tax for the purpose of the Pillar Two rules that is charged by the territory listed, and under the legislation set out, in Schedule 3 is specified as an accredited qualifying domestic top-up tax with effect on or after the respective date listed in the table.
 
 (2) A Qualified Domestic Minimum Top-up Tax is also an accredited qualifying domestic top-up tax if it is specified as such in a notice published by the Commissioners for His Majesty’s Revenue and Customs.
 
-(3)[^key-4eea539a4bab1136ddd4978c2f7fa858] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
+(3)[^c-4eea539a4bab1136ddd4978c2f7fa858] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
 
 Anna Turley
 
@@ -92,7 +92,7 @@ Two of the Lords Commissioners of His Majesty's Treasury
 
 Schedules
 
-## Schedule 1 — Pillar Two Territories[^key-c8eff1cbef415900b5b8c47091f335b9]
+## Schedule 1 — Pillar Two Territories[^c-c8eff1cbef415900b5b8c47091f335b9]
 
 Regulation 2
 
@@ -125,7 +125,7 @@ Regulation 2
 | Turkey | 1st January 2024 |
 | Vietnam | 1st January 2024 |
 
-## Schedule 2 — Qualifying Domestic Top-up Taxes[^key-24a43f65f1251c1d101b0859c4cec4e7]
+## Schedule 2 — Qualifying Domestic Top-up Taxes[^c-24a43f65f1251c1d101b0859c4cec4e7]
 
 Regulation 3
 
@@ -164,7 +164,7 @@ Regulation 3
 | Turkey | Kanun Numarası 5520 KURUMLAR VERGİSİ KANUNU (BEŞİNCİ KISIM Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi ve Geçici Maddeler) | 1st January 2024 |
 | Vietnam | Nghị quyết số 107/2023/QH15 của Quốc hội: Về việc áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu | 1st January 2024 |
 
-## Schedule 3 — Accredited Qualifying Domestic Top-up Taxes[^key-be3d0b918f26723a2c3eb34bf82b26bd]
+## Schedule 3 — Accredited Qualifying Domestic Top-up Taxes[^c-be3d0b918f26723a2c3eb34bf82b26bd]
 
 Regulation 4
 
@@ -231,22 +231,22 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30); Section 241 was amended by paragraphs 8 and 51(1) of Schedule 4 to the Finance Act [2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8). Section 256 was amended by paragraph 51(2) of Schedule 4 to the Finance Act 2025. Paragraph 2 of Schedule 16A was inserted by paragraph 41(1) of Schedule 12 to the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3) and amended by paragraph 51(3) of Schedule 4 to the Finance Act 2025.
 
-[^key-c1b4a38ebaec55d41bc2881a82df2e47]: Commencement: Reg. 1 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-c1b4a38ebaec55d41bc2881a82df2e47]: Commencement: Reg. 1 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
 
-[^key-2edacfc0f36ac2243164678db17c2b51]: Commencement: Reg. 2 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-2edacfc0f36ac2243164678db17c2b51]: Commencement: Reg. 2 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
 
-[^key-581ca529a2e4def63ce6af112f15c46c]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/2/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
+[^c-581ca529a2e4def63ce6af112f15c46c]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/2/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
 
-[^key-bc9f3e5a955bc6d0d066c3b24b3ecd6b]: Commencement: Reg. 3 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-bc9f3e5a955bc6d0d066c3b24b3ecd6b]: Commencement: Reg. 3 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
 
-[^key-cdd4b762e68e40ce36c190e8527f3f9a]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/3/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
+[^c-cdd4b762e68e40ce36c190e8527f3f9a]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/3/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
 
-[^key-5c62019c863592857fb66bfcb285a068]: Commencement: Reg. 4 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-5c62019c863592857fb66bfcb285a068]: Commencement: Reg. 4 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
 
-[^key-4eea539a4bab1136ddd4978c2f7fa858]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/4/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
+[^c-4eea539a4bab1136ddd4978c2f7fa858]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/4/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
 
-[^key-c8eff1cbef415900b5b8c47091f335b9]: Commencement: Sch. 1 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-c8eff1cbef415900b5b8c47091f335b9]: Commencement: Sch. 1 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
 
-[^key-24a43f65f1251c1d101b0859c4cec4e7]: Commencement: Sch. 2 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-24a43f65f1251c1d101b0859c4cec4e7]: Commencement: Sch. 2 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
 
-[^key-be3d0b918f26723a2c3eb34bf82b26bd]: Commencement: Sch. 3 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+[^c-be3d0b918f26723a2c3eb34bf82b26bd]: Commencement: Sch. 3 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)

@@ -25,7 +25,7 @@ Rules 8(2) and 12(3) and rule 18 (with paragraphs 16(d) and 21 of Schedule 5)
 | *Column (1)* | *Column (2)* |
 | --- | --- |
 | *Authority sought for–* | *Those to be served–* |
-| **1.** Works affecting the banks or the bed of, or the subsoil beneath, a river. | **1.** The Crown Estate Commissioners or (as the case may be) the relevant person[^key-4fa8642e87655987ca5c47f7472b1c30]. |
+| **1.** Works affecting the banks or the bed of, or the subsoil beneath, a river. | **1.** The Crown Estate Commissioners or (as the case may be) the relevant person[^c-4fa8642e87655987ca5c47f7472b1c30]. |
 | **2.** Works affecting the banks or the bed of, or the subsoil beneath, an inland waterway or any reservoirs, feeders, sluices, locks, lifts, drains and other works comprised in or serving that inland waterway. | **2.** The Scottish Inland Waterways Association;<br>the Association of Inland Navigation Authorities;<br>the Waterways Trust for Scotland;<br>the National Association of Boat Owners. |
 | **3.** Works affecting an area under the control of a harbour authority as defined in section 57(1) of the Harbours Act 1964. | **3.** The navigation authority for any adjoining waterway (if different from the navigation authority for the harbour area). |
 | **4.** Any activity which is a controlled activity within the meaning of regulation 2(1) of the Water Environment (Controlled Activities) (Scotland) Regulations 2005 (interpretation) [^c19038961]. | **4.** The Scottish Environment Protection Agency. |
@@ -38,7 +38,7 @@ Rules 8(2) and 12(3) and rule 18 (with paragraphs 16(d) and 21 of Schedule 5)
 
 ## Annotations
 
-[^key-4fa8642e87655987ca5c47f7472b1c30]: Textual amendment: Words in Sch. 4 inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 107(4)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/107/4)
+[^c-4fa8642e87655987ca5c47f7472b1c30]: Textual amendment: Words in Sch. 4 inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 107(4)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/107/4)
 
 [^c19038961]: Marginal citation: [S.S.I. 2005/348](https://www.legislation.gov.uk/ssi/2005/348).
 

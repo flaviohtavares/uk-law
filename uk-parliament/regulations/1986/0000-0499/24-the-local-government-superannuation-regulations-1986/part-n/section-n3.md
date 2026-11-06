@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N3. Decisions by administering authorities as to status of employees[^key-cb3f24ebec0c4103bafbfe39d52150b7]
+## N3. Decisions by administering authorities as to status of employees[^c-cb3f24ebec0c4103bafbfe39d52150b7]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb3f24ebec0c4103bafbfe39d52150b7]: Commencement: [Reg. N3](https://www.legislation.gov.uk/uksi/1986/24/regulation/N3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-cb3f24ebec0c4103bafbfe39d52150b7]: Commencement: [Reg. N3](https://www.legislation.gov.uk/uksi/1986/24/regulation/N3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

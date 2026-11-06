@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Application for variation or discharge of injunction[^key-00b6fc6feb42d7ae19c4cc383d83a70d]
+## 37. Application for variation or discharge of injunction[^c-00b6fc6feb42d7ae19c4cc383d83a70d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In the Policing and Crime Act 2009, in section 42 (variation or discharge of inj
 
 ## Annotations
 
-[^key-00b6fc6feb42d7ae19c4cc383d83a70d]: Commencement: S. 37 in force at 31.1.2011 by [S.I. 2010/2989](https://www.legislation.gov.uk/uksi/2010/2989), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2989/article/2/a)
+[^c-00b6fc6feb42d7ae19c4cc383d83a70d]: Commencement: S. 37 in force at 31.1.2011 by [S.I. 2010/2989](https://www.legislation.gov.uk/uksi/2010/2989), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2989/article/2/a)

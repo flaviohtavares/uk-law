@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Transmission to Ministry, and preservation, of plans of abandoned or disused mines, seams and veins.[^key-96af4518f8617f432e1e2d187c817784]
+## 20. Transmission to Ministry, and preservation, of plans of abandoned or disused mines, seams and veins.[^c-96af4518f8617f432e1e2d187c817784]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96af4518f8617f432e1e2d187c817784]: Textual amendment: [Ss. 1-20](https://www.legislation.gov.uk/apni/1969/6/section/1) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-96af4518f8617f432e1e2d187c817784]: Textual amendment: [Ss. 1-20](https://www.legislation.gov.uk/apni/1969/6/section/1) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

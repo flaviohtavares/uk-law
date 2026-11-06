@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. General purpose of Part 1[^key-c57d26730ef1601c4c168a03971d2631]
+## 1. General purpose of Part 1[^c-c57d26730ef1601c4c168a03971d2631]
 
 *Extent: S*
 
-(1) The purpose of this Part is to make provision for or in connection with protection of the water environment, including making provision, and enabling provision to be made, for or in connection with implementing Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council of 23rd October 2000 establishing a framework for Community action in the field of water policy , as last amended by Commission Directive 2014/101/EU[^key-c9ecf7fad36e0194cbf0ced40dfbe6d1] [^c23546481], (referred to in this Part as “**the Directive**”).
+(1) The purpose of this Part is to make provision for or in connection with protection of the water environment, including making provision, and enabling provision to be made, for or in connection with implementing Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council of 23rd October 2000 establishing a framework for Community action in the field of water policy , as last amended by Commission Directive 2014/101/EU[^c-c9ecf7fad36e0194cbf0ced40dfbe6d1] [^c23546481], (referred to in this Part as “**the Directive**”).
 
-(1A)[^key-8d5a1d2c28fbd4c664145e816b06f81a] The reference in subsection (1) to [Directive 2000/60/EC](https://www.legislation.gov.uk/eudr/2000/0060) is to that Directive as amended by—
+(1A)[^c-8d5a1d2c28fbd4c664145e816b06f81a] The reference in subsection (1) to [Directive 2000/60/EC](https://www.legislation.gov.uk/eudr/2000/0060) is to that Directive as amended by—
 
 - (a) Decision No [2455/2001/EC](https://www.legislation.gov.uk/eud/2001/2455) of the European Parliament and of the Council,
 - (b) [Directive 2008/32/EC](https://www.legislation.gov.uk/eudr/2008/0032) of the European Parliament and of the Council,
@@ -50,10 +50,10 @@ with a view to contributing to the achievement of the aims specified in subsecti
 
 ## Annotations
 
-[^key-c57d26730ef1601c4c168a03971d2631]: Commencement: S. 1 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
+[^c-c57d26730ef1601c4c168a03971d2631]: Commencement: S. 1 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
 
-[^key-c9ecf7fad36e0194cbf0ced40dfbe6d1]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/asp/2003/3/section/1/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/26/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9ecf7fad36e0194cbf0ced40dfbe6d1]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/asp/2003/3/section/1/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/26/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23546481]: Textual amendment: OJ L 311, 31.10.2014, p.32.
 
-[^key-8d5a1d2c28fbd4c664145e816b06f81a]: Textual amendment: S. 1(1A) inserted (14.9.2015) by [The Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 (S.S.I. 2015/270)](https://www.legislation.gov.uk/ssi/2015/270), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/270/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2015/270/regulation/2/a)
+[^c-8d5a1d2c28fbd4c664145e816b06f81a]: Textual amendment: S. 1(1A) inserted (14.9.2015) by [The Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 (S.S.I. 2015/270)](https://www.legislation.gov.uk/ssi/2015/270), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/270/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2015/270/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Universal credit: persons to whom, and time when, paid[^key-94661c17f3a1f06fcac7129bbadda2b5]
+## 30. Universal credit: persons to whom, and time when, paid[^c-94661c17f3a1f06fcac7129bbadda2b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Secretary of State may by regulations made by statutory instrument amend the
 
 ## Annotations
 
-[^key-94661c17f3a1f06fcac7129bbadda2b5]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/11/section/30) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/g)
+[^c-94661c17f3a1f06fcac7129bbadda2b5]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/11/section/30) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/g)

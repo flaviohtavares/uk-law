@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14B. Appeal to the CMA[^key-3359a5f3e8a515c0ad07a506cdfe24e6][^c22560091]
+## 14B. Appeal to the CMA[^c-3359a5f3e8a515c0ad07a506cdfe24e6][^c22560091]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3359a5f3e8a515c0ad07a506cdfe24e6]: Modification: [Art. 14B](https://www.legislation.gov.uk/nisi/1992/231/article/14B) restricted (temp.) (25.10.2022 until the end of the “relevant period”) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/4/paragraph/1/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/44/schedule/4/paragraph/3))
+[^c-3359a5f3e8a515c0ad07a506cdfe24e6]: Modification: [Art. 14B](https://www.legislation.gov.uk/nisi/1992/231/article/14B) restricted (temp.) (25.10.2022 until the end of the “relevant period”) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/4/paragraph/1/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/44/schedule/4/paragraph/3))
 
 [^c22560091]: Textual amendment: [Arts. 14-14G](https://www.legislation.gov.uk/nisi/1992/231/article/14) substituted (6.2.2015) for art. 14 by [Gas and Electricity Licence Modification and Appeals Regulations (Northern Ireland) 2015 (S.R. 2015/1)](https://www.legislation.gov.uk/nisr/2015/1), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2015/1/regulation/4/1) (with [reg. 6](https://www.legislation.gov.uk/nisr/2015/1/regulation/6))

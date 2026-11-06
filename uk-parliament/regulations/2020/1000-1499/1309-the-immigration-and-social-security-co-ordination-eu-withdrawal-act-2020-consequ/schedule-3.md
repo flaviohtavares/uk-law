@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 82
 
-**1.**[^key-f2d4ca97580a0e08d858d8a2cc361ea9][^M_I_9e577601-90c6-454b-ed97-52c8a20526ca] In this Schedule “**EEA Regulations 2016**” means the Immigration (European Economic Area) Regulations 2016 [^c24399451] and, unless provided otherwise, refers to those Regulations as they had effect immediately before they were revoked.
+**1.**[^c-f2d4ca97580a0e08d858d8a2cc361ea9][^M_I_9e577601-90c6-454b-ed97-52c8a20526ca] In this Schedule “**EEA Regulations 2016**” means the Immigration (European Economic Area) Regulations 2016 [^c24399451] and, unless provided otherwise, refers to those Regulations as they had effect immediately before they were revoked.
 
-### 2. Deportation and exclusion orders[^key-83c1815000e5cf984492c63996bad367][^M_I_65fbc867-23aa-4bb7-ed92-46470752e053]
+### 2. Deportation and exclusion orders[^c-83c1815000e5cf984492c63996bad367][^M_I_65fbc867-23aa-4bb7-ed92-46470752e053]
 
 (1) Any deportation order made or treated as having been made by virtue of the EEA Regulations 2016 [^c24399461] continues to apply for the period specified in the order or until revoked.
 
@@ -47,7 +47,7 @@ Regulation 82
 
 (6) This paragraph does not apply to the extent that the provisions specified in paragraph (5) continue to apply to a deportation or exclusion order by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.
 
-### 3. Pending applications for documentation under the EEA Regulations 2016[^key-ceb6754e9acc939cc63d61c859e8cb09][^M_I_9c9e695b-80e5-402e-a358-a0baa2561111]
+### 3. Pending applications for documentation under the EEA Regulations 2016[^c-ceb6754e9acc939cc63d61c859e8cb09][^M_I_9c9e695b-80e5-402e-a358-a0baa2561111]
 
 (1) Regulation 12 of the EEA Regulations 2016 (issue of EEA family permit) [^c24399491], continues to apply for the purposes of considering and, where appropriate, granting an application for a family permit which was validly made in accordance with the EEA Regulations 2016 before commencement day.
 
@@ -61,13 +61,13 @@ Regulation 82
 
 (6) Regulation 20 of the EEA Regulations 2016 (issue of a derivative residence card), continues to apply for the purposes of considering and, where appropriate, granting an application for a derivative residence card which was validly made in accordance with the EEA Regulations 2016 before commencement day.
 
-### 4. Application of EEA Regulations 2016 to pending applications[^key-1acad787295596071ed61f2f68932952][^M_I_23ba061f-51c6-46a0-862c-36118bffb086]
+### 4. Application of EEA Regulations 2016 to pending applications[^c-1acad787295596071ed61f2f68932952][^M_I_23ba061f-51c6-46a0-862c-36118bffb086]
 
 (1) Subject to sub-paragraph (2) the provisions of the EEA Regulations 2016 specified in paragraph 6 continue to apply (despite the revocation of those Regulations) with the modifications specified for the purposes of determining whether an application referred to in paragraph 3 should be granted.
 
 (2) The provisions specified in paragraph 6 do not apply to the extent that the provisions of the EEA Regulations 2016 specified in that paragraph continue to apply to an application within paragraph 3(2) by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.
 
-### 5. Existing appeal rights and appeals[^key-1a1ad0e8c527ae47c167b498c0d614b7][^M_I_fc68a382-3d10-432b-e03c-b4a54fdf6920]
+### 5. Existing appeal rights and appeals[^c-1a1ad0e8c527ae47c167b498c0d614b7][^M_I_fc68a382-3d10-432b-e03c-b4a54fdf6920]
 
 (1) Subject to sub-paragraph (4), the provisions of the EEA Regulations 2016 specified in paragraph 6 continue to apply—
 
@@ -85,7 +85,7 @@ Regulation 82
 
 (4) The provisions specified in paragraph 6 do not apply to the extent that the provisions of the EEA Regulations 2016 specified in paragraph 6 continue to apply to an appeal or EEA decision by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.
 
-### 6. Specified provisions of the EEA Regulations 2016[^key-6f846353732e0052b4c686b19acec527][^M_I_5b901cbb-9f53-4919-d98d-06fec97a8aff]
+### 6. Specified provisions of the EEA Regulations 2016[^c-6f846353732e0052b4c686b19acec527][^M_I_5b901cbb-9f53-4919-d98d-06fec97a8aff]
 
 (1) The specified provisions of the EEA Regulations 2016 are—
 
@@ -150,7 +150,7 @@ Regulation 82
   - (aa) in relation to an appeal within paragraph 5(1)(a) to (c), in each of paragraphs 1 and 2(4), the words “under the EU Treaties”, in so far as they relate to things done on or after exit day but before commencement day, were a reference to the EU Treaties so far as they were applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement;
   - (bb) in relation to an appeal within paragraph 5(1)(d), in each of paragraphs 1 and 2(4), the words “under the EU Treaties”, were a reference to “under the Immigration (European Economic Area) Regulations 2016 as they are continued in effect by these Regulations or the Citizens' Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020, or by virtue of the EU withdrawal agreement, the EEA EFTA separation agreement (which has the same meaning as in the European Union (Withdrawal Agreement) Act 2020) or the Swiss citizens' rights agreement (which has the same meaning as in that Act)”.
 
-### 7. Nationality, Immigration and Asylum Act 2016- saving in relation to appeals[^key-1cdcba4932afd0ed33b4f0691d08c220][^M_I_f2774680-21a7-46ec-eab1-f9883f1e0d9e]
+### 7. Nationality, Immigration and Asylum Act 2016- saving in relation to appeals[^c-1cdcba4932afd0ed33b4f0691d08c220][^M_I_f2774680-21a7-46ec-eab1-f9883f1e0d9e]
 
 The repeal of section 109 of the Nationality, Immigration and Asylum Act 2002 (power to make regulations about appeals against immigration decisions in respect of persons having, or claiming to have, EU rights), by paragraph 2(1) of Schedule 1 to the 2020 Act, does not affect—
 
@@ -159,13 +159,13 @@ The repeal of section 109 of the Nationality, Immigration and Asylum Act 2002 (p
 
 ## Annotations
 
-[^key-f2d4ca97580a0e08d858d8a2cc361ea9]: Commencement: Sch. 3 para. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-f2d4ca97580a0e08d858d8a2cc361ea9]: Commencement: Sch. 3 para. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_9e577601-90c6-454b-ed97-52c8a20526ca]: Commencement: Sch. 3 para. 1 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
 [^c24399451]: Marginal citation: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) amended by S.I.s 2017/1, 2017/1242, 2018/201, 2019/468 and 2019/745. The amendments made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) are not yet in force and are revoked by regulation 48 of these Regulations before they come into force. [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) is revoked by section 1 of, and paragraph 2(2) of Schedule 1 to, the Act.
 
-[^key-83c1815000e5cf984492c63996bad367]: Commencement: Sch. 3 para. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-83c1815000e5cf984492c63996bad367]: Commencement: Sch. 3 para. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_65fbc867-23aa-4bb7-ed92-46470752e053]: Commencement: Sch. 3 para. 2 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
@@ -175,7 +175,7 @@ The repeal of section 109 of the Nationality, Immigration and Asylum Act 2002 (p
 
 [^c24399481]: Marginal citation: Exclusion orders made under the Immigration (European Economic Area) Regulations 2006 [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003) are treated as being made under the EEA Regulations by virtue of paragraph 5(4) of Schedule 6 to the EEA Regulations.
 
-[^key-ceb6754e9acc939cc63d61c859e8cb09]: Commencement: Sch. 3 para. 3 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-ceb6754e9acc939cc63d61c859e8cb09]: Commencement: Sch. 3 para. 3 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_9c9e695b-80e5-402e-a358-a0baa2561111]: Commencement: Sch. 3 para. 3 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
@@ -183,20 +183,20 @@ The repeal of section 109 of the Nationality, Immigration and Asylum Act 2002 (p
 
 [^c24399501]: Marginal citation: Relevant amendments are made by [S.I. 2017/1](https://www.legislation.gov.uk/uksi/2017/1).
 
-[^key-1acad787295596071ed61f2f68932952]: Commencement: Sch. 3 para. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-1acad787295596071ed61f2f68932952]: Commencement: Sch. 3 para. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_23ba061f-51c6-46a0-862c-36118bffb086]: Commencement: Sch. 3 para. 4 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-1a1ad0e8c527ae47c167b498c0d614b7]: Commencement: Sch. 3 para. 5 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-1a1ad0e8c527ae47c167b498c0d614b7]: Commencement: Sch. 3 para. 5 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_fc68a382-3d10-432b-e03c-b4a54fdf6920]: Commencement: Sch. 3 para. 5 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-6f846353732e0052b4c686b19acec527]: Commencement: Sch. 3 para. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-6f846353732e0052b4c686b19acec527]: Commencement: Sch. 3 para. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_5b901cbb-9f53-4919-d98d-06fec97a8aff]: Commencement: Sch. 3 para. 6 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
 [^c24399511]: Marginal citation: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
-[^key-1cdcba4932afd0ed33b4f0691d08c220]: Commencement: Sch. 3 para. 7 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-1cdcba4932afd0ed33b4f0691d08c220]: Commencement: Sch. 3 para. 7 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_f2774680-21a7-46ec-eab1-f9883f1e0d9e]: Commencement: Sch. 3 para. 7 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)

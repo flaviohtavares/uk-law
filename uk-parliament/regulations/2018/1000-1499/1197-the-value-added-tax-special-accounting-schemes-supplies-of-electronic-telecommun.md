@@ -32,7 +32,7 @@ summary: ''
 
 Value Added Tax
 
-The Value Added Tax (Special Accounting Schemes) (Supplies of Electronic, Telecommunication and Broadcasting Services) Order 2018 (revoked)[^key-8f13ff8feb57ca7c3825e217caf388d1]
+The Value Added Tax (Special Accounting Schemes) (Supplies of Electronic, Telecommunication and Broadcasting Services) Order 2018 (revoked)[^c-8f13ff8feb57ca7c3825e217caf388d1]
 
 Made
 
@@ -46,29 +46,29 @@ Coming into force
 
 1st January 2019
 
-[^key-8f13ff8feb57ca7c3825e217caf388d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f13ff8feb57ca7c3825e217caf388d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-8f13ff8feb57ca7c3825e217caf388d1]
+## 1. Citation, commencement and effect[^c-8f13ff8feb57ca7c3825e217caf388d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Schedule 3B to the Value Added Tax Act 1994[^key-8f13ff8feb57ca7c3825e217caf388d1]
+## 2. Amendments to Schedule 3B to the Value Added Tax Act 1994[^c-8f13ff8feb57ca7c3825e217caf388d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8f13ff8feb57ca7c3825e217caf388d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8f13ff8feb57ca7c3825e217caf388d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8f13ff8feb57ca7c3825e217caf388d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8f13ff8feb57ca7c3825e217caf388d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8f13ff8feb57ca7c3825e217caf388d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8f13ff8feb57ca7c3825e217caf388d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f13ff8feb57ca7c3825e217caf388d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f13ff8feb57ca7c3825e217caf388d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-8f13ff8feb57ca7c3825e217caf388d1]EXPLANATORY NOTE
+[^c-8f13ff8feb57ca7c3825e217caf388d1]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -86,4 +86,4 @@ A Tax Information and Impact Note covering this instrument was published on 11th
 
 ## Annotations
 
-[^key-8f13ff8feb57ca7c3825e217caf388d1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1197) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Revocation and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/513)](https://www.legislation.gov.uk/uksi/2019/513), [regs. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/513/regulation/16); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8f13ff8feb57ca7c3825e217caf388d1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1197) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Revocation and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/513)](https://www.legislation.gov.uk/uksi/2019/513), [regs. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/513/regulation/16); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

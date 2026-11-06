@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9C. Carrying out of certain petroleum industry activities[^key-e273b266a99dba86f3a0e52d2b715e53][^key-3cf64e08e6cd4abf95571c8bce33f674]
+## 9C. Carrying out of certain petroleum industry activities[^c-e273b266a99dba86f3a0e52d2b715e53][^c-3cf64e08e6cd4abf95571c8bce33f674]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) A person who is an operator under a petroleum licence must act in accordance with the current strategy or strategies when planning and carrying out activities as the operator under the licence.
 
-(3)[^key-b05ccb329c241a70c304729018d8934b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b05ccb329c241a70c304729018d8934b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A person must act in accordance with the current strategy or strategies when planning and carrying out the commissioning of upstream petroleum infrastructure.
 
-(5)[^key-3384abd44b70a1984cd8ba10567737dc] A person who is the owner of—
+(5)[^c-3384abd44b70a1984cd8ba10567737dc] A person who is the owner of—
 
 - (a) a relevant offshore installation, or
 - (b) upstream petroleum infrastructure,
@@ -47,10 +47,10 @@ must act in accordance with the current strategy or strategies when planning and
 
 ## Annotations
 
-[^key-e273b266a99dba86f3a0e52d2b715e53]: Textual amendment: Pt. 1A inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
+[^c-e273b266a99dba86f3a0e52d2b715e53]: Textual amendment: Pt. 1A inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
 
-[^key-3cf64e08e6cd4abf95571c8bce33f674]: Extent: Pt. 1A extended (N.I.) (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/74/1), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-3cf64e08e6cd4abf95571c8bce33f674]: Extent: Pt. 1A extended (N.I.) (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/74/1), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-b05ccb329c241a70c304729018d8934b]: Textual amendment: S. 9C(3) omitted (1.10.2016) by virtue of [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/section/73/3/a), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-b05ccb329c241a70c304729018d8934b]: Textual amendment: S. 9C(3) omitted (1.10.2016) by virtue of [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/section/73/3/a), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-3384abd44b70a1984cd8ba10567737dc]: Textual amendment: Ss. 9C(5)-(7) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/73/3/b), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-3384abd44b70a1984cd8ba10567737dc]: Textual amendment: Ss. 9C(5)-(7) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/73/3/b), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Service of petition[^key-1c46279e797cf2e753cffd898a15d338]
+## 7. Service of petition[^c-1c46279e797cf2e753cffd898a15d338]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c46279e797cf2e753cffd898a15d338]: Commencement: Rule 7 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-1c46279e797cf2e753cffd898a15d338]: Commencement: Rule 7 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

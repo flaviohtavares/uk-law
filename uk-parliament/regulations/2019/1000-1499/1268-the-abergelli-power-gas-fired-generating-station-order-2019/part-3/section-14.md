@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Agreements with street authorities[^key-4749031b9ca79dc6f1aa39cb6b0c6ce8]
+## 14. Agreements with street authorities[^c-4749031b9ca79dc6f1aa39cb6b0c6ce8]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4749031b9ca79dc6f1aa39cb6b0c6ce8]: Commencement: Art. 14 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-4749031b9ca79dc6f1aa39cb6b0c6ce8]: Commencement: Art. 14 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

@@ -28,7 +28,7 @@ summary: ''
   - (a) the duties imposed by Articles 25, 26, 27 and 28; and
   - (b) any duties imposed by regulations made under Article 29 or 30;
 - “**fire safety measures**” shall be construed in accordance with Article 51;
-- “**house in multiple occupation**” has the meaning given by section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^key-d9bd85842bf6258716d3cc99adec886f] ;
+- “**house in multiple occupation**” has the meaning given by section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^c-d9bd85842bf6258716d3cc99adec886f] ;
 - “**operational task**” means–
   - (a) a function such as is mentioned in sub-paragraph (a) or (b) of paragraph (1) of Article 5;
   - (b) a function such as is mentioned in sub-paragraph (a) or (b) of paragraph (1) of Article 6; or
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9bd85842bf6258716d3cc99adec886f]: Textual amendment: Words in [art. 52(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/52/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/7); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-d9bd85842bf6258716d3cc99adec886f]: Textual amendment: Words in [art. 52(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/52/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/7); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

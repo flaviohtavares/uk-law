@@ -34,7 +34,7 @@ summary: ''
 - (h) a county council in Wales;
 - (i) a community council in Wales;
 - (j) a county borough council in Wales;
-- (ja)[^key-d0d205ead4e8db6946cd470969e0ff5b] a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;
+- (ja)[^c-d0d205ead4e8db6946cd470969e0ff5b] a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;
 - (k) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
 - (l) a community council in Scotland.
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d205ead4e8db6946cd470969e0ff5b]: Textual amendment: [S. 59(2)(ja)](https://www.legislation.gov.uk/ukpga/2010/15/section/59/2/ja) inserted (E.W.) (1.4.2021) by [The Corporate Joint Committees (General) (Wales) Regulations 2021 (S.I. 2021/327)](https://www.legislation.gov.uk/wsi/2021/327), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2021/327/schedule/3/paragraph/2)
+[^c-d0d205ead4e8db6946cd470969e0ff5b]: Textual amendment: [S. 59(2)(ja)](https://www.legislation.gov.uk/ukpga/2010/15/section/59/2/ja) inserted (E.W.) (1.4.2021) by [The Corporate Joint Committees (General) (Wales) Regulations 2021 (S.I. 2021/327)](https://www.legislation.gov.uk/wsi/2021/327), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2021/327/schedule/3/paragraph/2)

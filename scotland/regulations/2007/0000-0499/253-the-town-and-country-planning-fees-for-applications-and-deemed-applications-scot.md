@@ -42,7 +42,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 252 of the Town and Country Planning (Scotland) Act 1997[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has, in accordance with subsection (4) of that section, been laid before, and approved by resolution of the Scottish Parliament:
 
-## 1. Citation, commencement, interpretation and application[^key-5bf0d82d6703e13c08668a577523bedf]
+## 1. Citation, commencement, interpretation and application[^c-5bf0d82d6703e13c08668a577523bedf]
 
 (1) These Regulations may be cited as the Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Amendment Regulations 2007 and shall come into force on 1st April 2007.
 
@@ -53,7 +53,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 252 of th
 - (a) applications referred to at regulation 1(2)(a) of the principal Regulations which are made on or after 1st April 2007; and
 - (b) deemed applications for planning permission in connection with an enforcement notice issued on or after 1st April 2007.
 
-## 2. General increase[^key-3f57015abf62858b1b0ce698c6c5c8d2]
+## 2. General increase[^c-3f57015abf62858b1b0ce698c6c5c8d2]
 
 (1) The principal Regulations are amended in accordance with this regulation and regulations 3 and 4.
 
@@ -77,7 +77,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 252 of th
 
 (6) In regulation 14(2) for the words from “£120” to “£130” substitute “£145”.
 
-**3.**[^key-dbf996ab5e55a340167e660d0f99726c] In the Schedule to the principal Regulations (fees in respect of applications and deemed applications for planning permission or for approval of reserved matters)–
+**3.**[^c-dbf996ab5e55a340167e660d0f99726c] In the Schedule to the principal Regulations (fees in respect of applications and deemed applications for planning permission or for approval of reserved matters)–
 
 - (a) in paragraph 1(a) for “the tables set out in Part III” substitute “the Table”;
 - (b) in paragraph 2(a) for “Table 1” substitute “the Table”;
@@ -88,9 +88,9 @@ The Scottish Ministers, in exercise of the powers conferred by section 252 of th
   - (i) “£240” substitute “£290”; and
   - (ii) “£6,500” substitute “£7,250”.
 
-**4.**[^key-7b18cef6f6f9ef2656be0bac40d75cdd] For Table 1 and Table 2 contained in Part III of the Schedule to the principal Regulations substitute the Table contained in the Schedule to these Regulations.
+**4.**[^c-7b18cef6f6f9ef2656be0bac40d75cdd] For Table 1 and Table 2 contained in Part III of the Schedule to the principal Regulations substitute the Table contained in the Schedule to these Regulations.
 
-## 5. Savings[^key-1a78525cd34c15527b33f7f8b6e5c64c]
+## 5. Savings[^c-1a78525cd34c15527b33f7f8b6e5c64c]
 
 These Regulations shall not affect the principal Regulations in so far as the principal Regulations apply to–
 
@@ -107,7 +107,7 @@ Edinburgh
 
 19th March 2007
 
-## SCHEDULE[^key-3ae2fd2281cd86ae921ec5311aff16eb]
+## SCHEDULE[^c-3ae2fd2281cd86ae921ec5311aff16eb]
 
 Regulation 4
 
@@ -154,18 +154,18 @@ The effect of these Regulations is that all fees currently payable under the pri
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-5bf0d82d6703e13c08668a577523bedf]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
+[^c-5bf0d82d6703e13c08668a577523bedf]: Commencement: Reg. 1 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2004/219](https://www.legislation.gov.uk/ssi/2004/219).
 
-[^key-3f57015abf62858b1b0ce698c6c5c8d2]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
+[^c-3f57015abf62858b1b0ce698c6c5c8d2]: Commencement: Reg. 2 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
 
-[^key-dbf996ab5e55a340167e660d0f99726c]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
+[^c-dbf996ab5e55a340167e660d0f99726c]: Commencement: Reg. 3 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
 
-[^key-7b18cef6f6f9ef2656be0bac40d75cdd]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
+[^c-7b18cef6f6f9ef2656be0bac40d75cdd]: Commencement: Reg. 4 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
 
-[^key-1a78525cd34c15527b33f7f8b6e5c64c]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
+[^c-1a78525cd34c15527b33f7f8b6e5c64c]: Commencement: Reg. 5 in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
 
-[^key-3ae2fd2281cd86ae921ec5311aff16eb]: Commencement: Sch. in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
+[^c-3ae2fd2281cd86ae921ec5311aff16eb]: Commencement: Sch. in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/253/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223).

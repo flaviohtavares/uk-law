@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Automatic enrolment[^key-9daaa17aaed8eb2212c3cda9e0bdc794]
+## 11. Automatic enrolment[^c-9daaa17aaed8eb2212c3cda9e0bdc794]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9daaa17aaed8eb2212c3cda9e0bdc794]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2848/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-9daaa17aaed8eb2212c3cda9e0bdc794]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2848/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00040]: Footnote: See section 37 of the 2013 Act for the meaning of “pensionable service”.

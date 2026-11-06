@@ -31,10 +31,10 @@ Council Regulation (EEC) No 2078/92
 
 of 30 June 1992 on agricultural production methods compatible with the requirements of the protection of the environment and the maintenance of the countryside (repealed)
 
-[^key-5da13d0d3b9bfc0c6e83f4c998cd5752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5da13d0d3b9bfc0c6e83f4c998cd5752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5da13d0d3b9bfc0c6e83f4c998cd5752] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5da13d0d3b9bfc0c6e83f4c998cd5752] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5da13d0d3b9bfc0c6e83f4c998cd5752]: Textual amendment: Regulation repealed by [Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations](https://www.legislation.gov.uk/eur/1999/1257), [Arts. 55(1)](https://www.legislation.gov.uk/eur/1999/1257/article/55), [56](https://www.legislation.gov.uk/eur/1999/1257/article/56) (with [Art. 55(3))](https://www.legislation.gov.uk/eur/1999/1257/article/55)
+[^c-5da13d0d3b9bfc0c6e83f4c998cd5752]: Textual amendment: Regulation repealed by [Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations](https://www.legislation.gov.uk/eur/1999/1257), [Arts. 55(1)](https://www.legislation.gov.uk/eur/1999/1257/article/55), [56](https://www.legislation.gov.uk/eur/1999/1257/article/56) (with [Art. 55(3))](https://www.legislation.gov.uk/eur/1999/1257/article/55)

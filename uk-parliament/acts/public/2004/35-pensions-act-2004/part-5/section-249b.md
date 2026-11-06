@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249B. Requirement for internal controls: public service pension schemes[^key-14406acd8fd1a8dabe082b0a261f08ac]
+## 249B. Requirement for internal controls: public service pension schemes[^c-14406acd8fd1a8dabe082b0a261f08ac]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14406acd8fd1a8dabe082b0a261f08ac]: Textual amendment: [S. 249B](https://www.legislation.gov.uk/ukpga/2004/35/section/249B) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/21) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-14406acd8fd1a8dabe082b0a261f08ac]: Textual amendment: [S. 249B](https://www.legislation.gov.uk/ukpga/2004/35/section/249B) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/21) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)

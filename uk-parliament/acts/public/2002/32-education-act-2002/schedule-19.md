@@ -22,15 +22,15 @@ summary: ''
 
 Section 199
 
-**1.**[^c521483][^key-62c18486961ae03b736a0a1557e9de82][^key-edbfde1b50b0eec22c75e6c569191d44] The Education Act 1996 is amended as follows.
+**1.**[^c521483][^c-62c18486961ae03b736a0a1557e9de82][^c-edbfde1b50b0eec22c75e6c569191d44] The Education Act 1996 is amended as follows.
 
-**2.**[^key-686938770423c5e0e9325d69c2077e7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-686938770423c5e0e9325d69c2077e7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^c521487][^key-c95f4f8d9fd5ff0b6698375ca7aa69c3][^key-255677ae3c77ee31a400d373b9593396] After section 509 there is inserted—
+**3.**[^c521487][^c-c95f4f8d9fd5ff0b6698375ca7aa69c3][^c-255677ae3c77ee31a400d373b9593396] After section 509 there is inserted—
 
 > **509AA. Provision of transport etc. for persons of sixth form age**
 >
-> (1) A local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] shall prepare for each academic year a transport policy statement complying with the requirements of this section.
+> (1) A local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] shall prepare for each academic year a transport policy statement complying with the requirements of this section.
 >
 > (2) The statement shall specify the arrangements for the provision of transport or otherwise that the authority consider it necessary to make for facilitating the attendance of persons of sixth form age receiving education or training—
 >
@@ -71,7 +71,7 @@ Section 199
 >
 > (10) The Secretary of State may by order amend subsection (7)(a) by substituting a different date for 31st May.
 
-**4.**[^c521488][^key-1c1a047de8dc9798232be468501e5f79][^key-9893e1b5beeec287e6cc861fb136e283] After section 509AA there is inserted—
+**4.**[^c521488][^c-1c1a047de8dc9798232be468501e5f79][^c-9893e1b5beeec287e6cc861fb136e283] After section 509AA there is inserted—
 
 > **509AB. Further provision about transport policy statements**
 >
@@ -108,7 +108,7 @@ Section 199
 > - (a) where they are the local authority for a district in a metropolitan county, the Passenger Transport Authority for that county, and
 > - (b) where they are the local authority for a London borough or the City of London, Transport for London.
 
-**5.**[^c521489][^key-c542774cb84db1080421aca5479af520][^key-802934c083b7c28eb59c22a8accb0afd] After section 509AB there is inserted—
+**5.**[^c521489][^c-c542774cb84db1080421aca5479af520][^c-802934c083b7c28eb59c22a8accb0afd] After section 509AB there is inserted—
 
 > **509AC. Interpretation of sections 509AA and 509AB**
 >
@@ -132,7 +132,7 @@ Section 199
 >
 > (6) The Secretary of State may by order amend the definition of “academic year” in subsection (5).
 
-**6.**[^c521490][^key-1b4e7639f079eea734d1eac32454e5cf][^key-e69c2267ce70f5b79c18599644d48a81] In section 509A (travel arrangements for children receiving nursery education otherwise than at school), after subsection (4) there is inserted—
+**6.**[^c521490][^c-1b4e7639f079eea734d1eac32454e5cf][^c-e69c2267ce70f5b79c18599644d48a81] In section 509A (travel arrangements for children receiving nursery education otherwise than at school), after subsection (4) there is inserted—
 
 > (4A) Regulations may require a local authority to publish, at such times and in such manner as may be prescribed, such information as may be prescribed with respect to the authority’s policy and arrangements relating to the making of provision under this section.
 
@@ -140,34 +140,34 @@ Section 199
 
 [^c521483]: Commencement: Sch. 19 partly in force; Sch. 19 not in force at Royal assent see s. 216; Sch. 19 in force for E. at 20.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-62c18486961ae03b736a0a1557e9de82]: Commencement: Sch. 19 para. 1 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-62c18486961ae03b736a0a1557e9de82]: Commencement: Sch. 19 para. 1 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-edbfde1b50b0eec22c75e6c569191d44]: Commencement: Sch. 19 para. 1 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-edbfde1b50b0eec22c75e6c569191d44]: Commencement: Sch. 19 para. 1 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-686938770423c5e0e9325d69c2077e7d]: Textual amendment: Sch. 19 para. 2 repealed (1.9.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/371/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-686938770423c5e0e9325d69c2077e7d]: Textual amendment: Sch. 19 para. 2 repealed (1.9.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/371/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
 [^c521487]: Commencement: Sch. 19 partly in force; Sch. 19 not in force at Royal Assent, see s. 216; Sch. 19 in force for E. at 20.1.2003 by [S.I. 2002/2953](https://www.legislation.gov.uk/uksi/2002/2953), [art. 2](https://www.legislation.gov.uk/uksi/2002/2953/article/2)
 
-[^key-c95f4f8d9fd5ff0b6698375ca7aa69c3]: Commencement: Sch. 19 para. 3 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-c95f4f8d9fd5ff0b6698375ca7aa69c3]: Commencement: Sch. 19 para. 3 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-255677ae3c77ee31a400d373b9593396]: Commencement: Sch. 19 para. 3 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-255677ae3c77ee31a400d373b9593396]: Commencement: Sch. 19 para. 3 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
 [^c521488]: Commencement: Sch. 19 partly in force; Sch. 19 not in force at Royal Assent, see s. 216; Sch. 19 in force for E. at 30.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-1c1a047de8dc9798232be468501e5f79]: Commencement: Sch. 19 para. 4 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-1c1a047de8dc9798232be468501e5f79]: Commencement: Sch. 19 para. 4 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-9893e1b5beeec287e6cc861fb136e283]: Commencement: Sch. 19 para. 4 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-9893e1b5beeec287e6cc861fb136e283]: Commencement: Sch. 19 para. 4 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
 [^c521489]: Commencement: Sch. 19 partly in force; Sch. 19 not in force at Royal Assent, see s. 216; Sch. 19 in force for E. at 30.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-c542774cb84db1080421aca5479af520]: Commencement: Sch. 19 para. 5 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-c542774cb84db1080421aca5479af520]: Commencement: Sch. 19 para. 5 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-802934c083b7c28eb59c22a8accb0afd]: Commencement: Sch. 19 para. 5 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-802934c083b7c28eb59c22a8accb0afd]: Commencement: Sch. 19 para. 5 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
 [^c521490]: Commencement: Sch. 19 partly in force; Sch. 19 not in force at Royal Assent, see s. 216; Sch. 19 in force for E. at 30.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-1b4e7639f079eea734d1eac32454e5cf]: Commencement: Sch. 19 para. 6 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-1b4e7639f079eea734d1eac32454e5cf]: Commencement: Sch. 19 para. 6 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-e69c2267ce70f5b79c18599644d48a81]: Commencement: Sch. 19 para. 6 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-e69c2267ce70f5b79c18599644d48a81]: Commencement: Sch. 19 para. 6 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)

@@ -45,7 +45,7 @@ subsection (1) of this section shall have effect as if it required the notice un
 - (d) specifying the name and address of the person to whom notice of any application under section 59(2) to the appropriate judicial authority in respect of any of the seized property must be given; and
 - (e) specifying the name and address of the person to whom an application may be made to be allowed to attend the initial examination required by any arrangements made for the purposes of section 53(2).
 
-(5) The Secretary of State may by regulations made by statutory instrument, after consultation with the Scottish Ministers and the Department of Justice in Northern Ireland[^key-8699fba0de474ed5c2ce97cb21539b8b] , provide that a person who exercises a power of seizure conferred by section 50 shall be required to give a notice such as is mentioned in subsection (1) of this section to any person, or send it to any place, described in the regulations.
+(5) The Secretary of State may by regulations made by statutory instrument, after consultation with the Scottish Ministers and the Department of Justice in Northern Ireland[^c-8699fba0de474ed5c2ce97cb21539b8b] , provide that a person who exercises a power of seizure conferred by section 50 shall be required to give a notice such as is mentioned in subsection (1) of this section to any person, or send it to any place, described in the regulations.
 
 (6) Regulations under subsection (5) may make different provision for different cases.
 
@@ -53,4 +53,4 @@ subsection (1) of this section shall have effect as if it required the notice un
 
 ## Annotations
 
-[^key-8699fba0de474ed5c2ce97cb21539b8b]: Textual amendment: Words in [s. 52(5)](https://www.legislation.gov.uk/ukpga/2001/16/section/52/5) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/46/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-8699fba0de474ed5c2ce97cb21539b8b]: Textual amendment: Words in [s. 52(5)](https://www.legislation.gov.uk/ukpga/2001/16/section/52/5) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/46/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Amendments to the Care Leavers (England) Regulations 2010[^key-8bc94458dd8b7c45afd4cf4667931e29]
+## 37. Amendments to the Care Leavers (England) Regulations 2010[^c-8bc94458dd8b7c45afd4cf4667931e29]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bc94458dd8b7c45afd4cf4667931e29]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2023/416/regulation/37) in force at 28.10.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3)
+[^c-8bc94458dd8b7c45afd4cf4667931e29]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2023/416/regulation/37) in force at 28.10.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3)
 
 [^f00040]: Footnote: [S.I. 2010/2571](https://www.legislation.gov.uk/uksi/2010/2571), to which there are amendments not relevant to these Regulations.

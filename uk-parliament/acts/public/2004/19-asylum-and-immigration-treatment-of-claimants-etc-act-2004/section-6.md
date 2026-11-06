@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Employment[^key-90cb7bdfa7efa816863dae663523da1f]
+## 6. Employment[^c-90cb7bdfa7efa816863dae663523da1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90cb7bdfa7efa816863dae663523da1f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/19/section/6) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-90cb7bdfa7efa816863dae663523da1f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/19/section/6) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

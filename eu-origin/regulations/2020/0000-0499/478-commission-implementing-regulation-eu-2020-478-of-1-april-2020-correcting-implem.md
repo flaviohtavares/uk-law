@@ -35,18 +35,18 @@ correcting Implementing Regulation (EU) 2017/2470 establishing the Union list of
 
 (Text with EEA relevance) (revoked)
 
-[^key-ffc034224655f87592f0d57e8d753916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc034224655f87592f0d57e8d753916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ffc034224655f87592f0d57e8d753916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ffc034224655f87592f0d57e8d753916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ffc034224655f87592f0d57e8d753916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ffc034224655f87592f0d57e8d753916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffc034224655f87592f0d57e8d753916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc034224655f87592f0d57e8d753916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ffc034224655f87592f0d57e8d753916]
+## ANNEX[^c-ffc034224655f87592f0d57e8d753916]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffc034224655f87592f0d57e8d753916]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 43](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/43) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ffc034224655f87592f0d57e8d753916]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 43](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/43) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

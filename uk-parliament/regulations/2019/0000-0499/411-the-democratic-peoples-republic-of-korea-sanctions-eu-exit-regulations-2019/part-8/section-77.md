@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Registration of ships in the United Kingdom[^key-bc89f03557552ae526b658504a8bf5b0][^key-f4563e7aabbc6972eb020d6639ccfa21]
+## 77. Registration of ships in the United Kingdom[^c-bc89f03557552ae526b658504a8bf5b0][^c-f4563e7aabbc6972eb020d6639ccfa21]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc89f03557552ae526b658504a8bf5b0]: Commencement: Reg. 77 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-bc89f03557552ae526b658504a8bf5b0]: Commencement: Reg. 77 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-f4563e7aabbc6972eb020d6639ccfa21]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2019/411/regulation/77) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4563e7aabbc6972eb020d6639ccfa21]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2019/411/regulation/77) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

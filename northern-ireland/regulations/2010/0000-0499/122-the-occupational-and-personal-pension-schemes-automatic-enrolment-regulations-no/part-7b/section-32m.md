@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32M.[^key-3e15512fd24477a9e437b673289caee0]
+## 32M.[^c-3e15512fd24477a9e437b673289caee0]
 
 *Extent: N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) Terms defined for the purpose of section 23A have the meanings prescribed in the following paragraphs.
 
-(3) Subject to paragraphs (4) , (5A)[^key-211c01d4fb2a12fd2ad883bce4d7a1c2] and (6), the relevant members are the active members of the defined benefits scheme of which the jobholder is a member.
+(3) Subject to paragraphs (4) , (5A)[^c-211c01d4fb2a12fd2ad883bce4d7a1c2] and (6), the relevant members are the active members of the defined benefits scheme of which the jobholder is a member.
 
-(4) Subject to paragraph (5A),[^key-2056debf1e72ee72b84b1abb5511b054] where there is or was, as the case may be, a material difference in the cost of providing the benefits accruing for different groups of relevant members over the relevant period by taking into account the criteria under which members accrue or accrued benefits including—
+(4) Subject to paragraph (5A),[^c-2056debf1e72ee72b84b1abb5511b054] where there is or was, as the case may be, a material difference in the cost of providing the benefits accruing for different groups of relevant members over the relevant period by taking into account the criteria under which members accrue or accrued benefits including—
 
 - (a) the rate at which benefits accrue or accrued;
 - (b) the provision of survivor’s benefits;
@@ -42,7 +42,7 @@ the relevant members are the active members of each such group.
 
 (5) For the purposes of paragraph (4), whether a difference in cost is a material difference is to be determined by the actuary.
 
-(5A)[^key-cf2900fca437cbadfa4b1f73d34ccf78] Subject to paragraph (5C), where the conditions in paragraph (5B) are met, the employer of the jobholder may choose, notwithstanding paragraph (4), that the relevant members are the members of the scheme who were active members and in contracted-out employment on the effective date of the most recent written report from an actuary.
+(5A)[^c-cf2900fca437cbadfa4b1f73d34ccf78] Subject to paragraph (5C), where the conditions in paragraph (5B) are met, the employer of the jobholder may choose, notwithstanding paragraph (4), that the relevant members are the members of the scheme who were active members and in contracted-out employment on the effective date of the most recent written report from an actuary.
 
 (5B) The conditions to be met for the purposes of paragraph (5A) are—
 
@@ -56,7 +56,7 @@ the relevant members are the active members of each such group.
 
 (5D) For the purposes of paragraph (5A), the effective date of the most recent written report is the date by reference to which the information in that report is stated.
 
-(6) Subject to paragraphs (4) and (5A)[^key-7803dddf86d21bcddfc6af5c59abc7c3], in the case of a multi-employer scheme, the employer of the jobholder may choose that the relevant members are the active members who are also employed by that employer.
+(6) Subject to paragraphs (4) and (5A)[^c-7803dddf86d21bcddfc6af5c59abc7c3], in the case of a multi-employer scheme, the employer of the jobholder may choose that the relevant members are the active members who are also employed by that employer.
 
 (7) Subject to paragraph (8), the relevant period is—
 
@@ -65,12 +65,12 @@ the relevant members are the active members of each such group.
 
 (8) Where, after the date of the report referred to in paragraph (7)(a) or the period referred to in paragraph (7)(b) begins (whether or not it has ended), a change is made to the benefits provided to a relevant member, the relevant period is a period of 12 months commencing with the day on which that change takes effect.
 
-(9) Relevant earnings are the earnings which the scheme uses to determine pensionable earnings provided that they are equal to or more than[^key-3d0d1270664da7239787875ef0d84352] the relevant member’s—
+(9) Relevant earnings are the earnings which the scheme uses to determine pensionable earnings provided that they are equal to or more than[^c-3d0d1270664da7239787875ef0d84352] the relevant member’s—
 
 - (a) qualifying earnings;
-- (b)[^key-ab0d56e31717dbc25f3d432594c03564] basic pay;
-- (c) [^key-3603aa3dd5b2f392fa5a4e97d7164aff]... basic pay and, taking all the relevant members together, the pensionable earnings of those members constitute at least 85% of the earnings of those members in the relevant period;
-- (d)[^key-055d3fbc96b819158717487b4b366a80] earnings, or
+- (b)[^c-ab0d56e31717dbc25f3d432594c03564] basic pay;
+- (c) [^c-3603aa3dd5b2f392fa5a4e97d7164aff]... basic pay and, taking all the relevant members together, the pensionable earnings of those members constitute at least 85% of the earnings of those members in the relevant period;
+- (d)[^c-055d3fbc96b819158717487b4b366a80] earnings, or
 - (e) basic pay above—
   - (i) the amount of the lower earnings limit specified for the purposes of section 5(1)(a)(i) of the Contributions and Benefits Act (earnings limits and thresholds for Class 1 contributions), or
   - (ii) the amount of the basic state pension specified in the first figure in section 44(4) of the Contributions and Benefits Act (Category A retirement pension).
@@ -98,7 +98,7 @@ the relevant members are the active members of each such group.
     - (iii) in a case not covered by sub-paragraph (ii), the purchase, lease or maintenance of a vehicle;
     - (iv) in a case not covered by sub-paragraph (ii) or (iii), the purchase, lease or maintenance of an item;
     - (v) in a case not covered by sub-paragraph (ii), (iii) or (iv), the delivery of a service to the relevant member;
-- “[^key-a4c297bdc7d58791e38d07c72da195a7]**contracted-out employment**” has the meaning given in section 4(1) of the 1993 Act (meaning of “contracted-out” employment);
+- “[^c-a4c297bdc7d58791e38d07c72da195a7]**contracted-out employment**” has the meaning given in section 4(1) of the 1993 Act (meaning of “contracted-out” employment);
 - “**contracting-out requirements**” means the requirements set out in section 5 of the 1993 Act (requirements for certification of schemes: general) as they had effect immediately before 6th April 2016;
 - “multi-employer scheme” means an occupational pension scheme in relation to which there is more than one employer;
 - “normal pension age” has the meaning given by section 175 of the 1993 Act;
@@ -106,22 +106,22 @@ the relevant members are the active members of each such group.
 
 ## Annotations
 
-[^key-3e15512fd24477a9e437b673289caee0]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/nisr/2010/122/part/7B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/310/regulation/10)
+[^c-3e15512fd24477a9e437b673289caee0]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/nisr/2010/122/part/7B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/310/regulation/10)
 
-[^key-211c01d4fb2a12fd2ad883bce4d7a1c2]: Textual amendment: Word in [reg. 32M(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/3) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/a)
+[^c-211c01d4fb2a12fd2ad883bce4d7a1c2]: Textual amendment: Word in [reg. 32M(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/3) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/a)
 
-[^key-2056debf1e72ee72b84b1abb5511b054]: Textual amendment: Words in [reg. 32M(4)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/4) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/b)
+[^c-2056debf1e72ee72b84b1abb5511b054]: Textual amendment: Words in [reg. 32M(4)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/4) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/b)
 
-[^key-cf2900fca437cbadfa4b1f73d34ccf78]: Textual amendment: [Reg. 32M(5A)-(5D)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/5A) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/c)
+[^c-cf2900fca437cbadfa4b1f73d34ccf78]: Textual amendment: [Reg. 32M(5A)-(5D)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/5A) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/c)
 
-[^key-7803dddf86d21bcddfc6af5c59abc7c3]: Textual amendment: Words in [reg. 32M(6)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/6) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/d)
+[^c-7803dddf86d21bcddfc6af5c59abc7c3]: Textual amendment: Words in [reg. 32M(6)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/6) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/d)
 
-[^key-3d0d1270664da7239787875ef0d84352]: Textual amendment: Words in [reg. 32M(9)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(i)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/i)
+[^c-3d0d1270664da7239787875ef0d84352]: Textual amendment: Words in [reg. 32M(9)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(i)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/i)
 
-[^key-ab0d56e31717dbc25f3d432594c03564]: Textual amendment: [Reg. 32M(9)(b)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9/b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/ii)
+[^c-ab0d56e31717dbc25f3d432594c03564]: Textual amendment: [Reg. 32M(9)(b)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9/b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/ii)
 
-[^key-3603aa3dd5b2f392fa5a4e97d7164aff]: Textual amendment: Words in [reg. 32M(9)(c)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9/c) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(iii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/iii)
+[^c-3603aa3dd5b2f392fa5a4e97d7164aff]: Textual amendment: Words in [reg. 32M(9)(c)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9/c) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(iii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/iii)
 
-[^key-055d3fbc96b819158717487b4b366a80]: Textual amendment: [Reg. 32M(9)(d)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9/d) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(iv)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/iv)
+[^c-055d3fbc96b819158717487b4b366a80]: Textual amendment: [Reg. 32M(9)(d)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/9/d) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(e)(iv)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/e/iv)
 
-[^key-a4c297bdc7d58791e38d07c72da195a7]: Textual amendment: Words in [reg. 32M(12)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/12) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(f)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/f)
+[^c-a4c297bdc7d58791e38d07c72da195a7]: Textual amendment: Words in [reg. 32M(12)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32M/12) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [2(5)(f)](https://www.legislation.gov.uk/nisr/2016/142/regulation/2/5/f)

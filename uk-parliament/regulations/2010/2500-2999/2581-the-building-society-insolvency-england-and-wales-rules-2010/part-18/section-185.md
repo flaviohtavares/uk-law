@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Application under section 176A(5) to disapply section 176A[^key-3917c1011d06d63a724bf8c05e253529]
+## 185. Application under section 176A(5) to disapply section 176A[^c-3917c1011d06d63a724bf8c05e253529]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3917c1011d06d63a724bf8c05e253529]: Commencement: Rule 185 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3917c1011d06d63a724bf8c05e253529]: Commencement: Rule 185 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00066]: Footnote: Rule 7.3A was inserted by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).

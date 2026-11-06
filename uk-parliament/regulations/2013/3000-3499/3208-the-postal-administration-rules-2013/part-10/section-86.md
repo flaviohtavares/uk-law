@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Notice of resignation[^key-2599115453f5d8488ebd4a3fd5eee010]
+## 86. Notice of resignation[^c-2599115453f5d8488ebd4a3fd5eee010]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The notice shall be filed with the court, and a copy sent to the registrar of co
 
 ## Annotations
 
-[^key-2599115453f5d8488ebd4a3fd5eee010]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2013/3208/rule/86) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2599115453f5d8488ebd4a3fd5eee010]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2013/3208/rule/86) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

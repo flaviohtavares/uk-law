@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Design of electoral identity documents, anonymous elector’s documents, etc.[^key-5cbef434d34cfda32902f6be92d4b317]
+## 15. Design of electoral identity documents, anonymous elector’s documents, etc.[^c-5cbef434d34cfda32902f6be92d4b317]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbef434d34cfda32902f6be92d4b317]: Commencement: Reg. 15 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5cbef434d34cfda32902f6be92d4b317]: Commencement: Reg. 15 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

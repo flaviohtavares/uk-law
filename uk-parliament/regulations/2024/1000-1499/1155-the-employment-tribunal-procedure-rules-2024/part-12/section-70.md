@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Process for reconsideration[^key-0c48db2abec1566876f5c6bd6195767c]
+## 70. Process for reconsideration[^c-0c48db2abec1566876f5c6bd6195767c]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c48db2abec1566876f5c6bd6195767c]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2024/1155/rule/70) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-0c48db2abec1566876f5c6bd6195767c]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2024/1155/rule/70) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

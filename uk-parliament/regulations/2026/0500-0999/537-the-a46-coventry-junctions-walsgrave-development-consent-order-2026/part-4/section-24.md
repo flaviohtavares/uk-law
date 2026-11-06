@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Felling or lopping of trees and removal of hedgerows[^key-779347023feaaa2c54ab8a7a743fe2dc]
+## 24. Felling or lopping of trees and removal of hedgerows[^c-779347023feaaa2c54ab8a7a743fe2dc]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-779347023feaaa2c54ab8a7a743fe2dc]: Commencement: Art. 24 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-779347023feaaa2c54ab8a7a743fe2dc]: Commencement: Art. 24 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00064]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

@@ -34,7 +34,7 @@ Intellectual Property
 
 Artists
 
-The Artist’s Resale Right (Amendment) Regulations 2009 (revoked)[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]
+The Artist’s Resale Right (Amendment) Regulations 2009 (revoked)[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 1st December 2009
 
-[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]
+## 1. Citation and commencement[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Artist’s Resale Right Regulations 2006[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]
+## 2. Amendment of the Artist’s Resale Right Regulations 2006[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c6b77c8c8ec5e49dce52dd8e57d5124]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2792) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-0c6b77c8c8ec5e49dce52dd8e57d5124]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2792) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

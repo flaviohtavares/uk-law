@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Scotland) Amendment (No. 2) Order 2013 (revoked)[^key-a5cba2f59894f431be949407605d9eae]
+The Plant Health (Scotland) Amendment (No. 2) Order 2013 (revoked)[^c-a5cba2f59894f431be949407605d9eae]
 
 Made
 
@@ -46,63 +46,63 @@ Coming into force
 
 29th June 2013
 
-[^key-a5cba2f59894f431be949407605d9eae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5cba2f59894f431be949407605d9eae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a5cba2f59894f431be949407605d9eae]
+## 1. Citation and commencement[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Scotland) Order 2005[^key-a5cba2f59894f431be949407605d9eae]
+## 2. Amendment of the Plant Health (Scotland) Order 2005[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part 1[^key-a5cba2f59894f431be949407605d9eae]
+## 3. Amendment of Part 1[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part 3[^key-a5cba2f59894f431be949407605d9eae]
+## 4. Amendment of Part 3[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part 6[^key-a5cba2f59894f431be949407605d9eae]
+## 5. Amendment of Part 6[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Part 8[^key-a5cba2f59894f431be949407605d9eae]
+## 6. Amendment of Part 8[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Part 10[^key-a5cba2f59894f431be949407605d9eae]
+## 7. Amendment of Part 10[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 1[^key-a5cba2f59894f431be949407605d9eae]
+## 8. Amendment of Schedule 1[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Schedule 4[^key-a5cba2f59894f431be949407605d9eae]
+## 9. Amendment of Schedule 4[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 5[^key-a5cba2f59894f431be949407605d9eae]
+## 10. Amendment of Schedule 5[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Schedule 6[^key-a5cba2f59894f431be949407605d9eae]
+## 11. Amendment of Schedule 6[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 7[^key-a5cba2f59894f431be949407605d9eae]
+## 12. Amendment of Schedule 7[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocation[^key-a5cba2f59894f431be949407605d9eae]
+## 13. Revocation[^c-a5cba2f59894f431be949407605d9eae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5cba2f59894f431be949407605d9eae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5cba2f59894f431be949407605d9eae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -110,4 +110,4 @@ Coming into force
 
 ## Annotations
 
-[^key-a5cba2f59894f431be949407605d9eae]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
+[^c-a5cba2f59894f431be949407605d9eae]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)

@@ -63,12 +63,12 @@ These Regulations apply to approved premises which are provided in accordance wi
 In these Regulations—
 
 - “**bail**” means bail in criminal proceedings within the meaning of the Bail Act 1976 [^c22100081];
-- “**community sentence**” has the meaning given to it by section 397(1) of the Sentencing Code[^key-c164a5373d31bfd30832d118595eda5f];
-- “**licence**” includes temporary release in accordance with rule 9 or rule 9A[^key-d51a74f6b2a08e8f621f1a677bdce77b] of the Prison Rules 1999 [^c22100101];
+- “**community sentence**” has the meaning given to it by section 397(1) of the Sentencing Code[^c-c164a5373d31bfd30832d118595eda5f];
+- “**licence**” includes temporary release in accordance with rule 9 or rule 9A[^c-d51a74f6b2a08e8f621f1a677bdce77b] of the Prison Rules 1999 [^c22100101];
 - “**resident**”, in relation to approved premises, means a person who lives in the approved premises otherwise than in the course of their employment and “**reside**” shall be construed accordingly;
 - “**provider**” means a provider of approved premises;
 - “**statutory supervision**” means supervision by virtue of section 256B of the Criminal Justice Act 2003 [^c22100111]; and
-- “**suspended sentence order**” has the meaning given to it by section 286(6) of the Sentencing Code[^key-bb7f41e513b89a4705d71740307ef382].
+- “**suspended sentence order**” has the meaning given to it by section 286(6) of the Sentencing Code[^c-bb7f41e513b89a4705d71740307ef382].
 
 ## 5. Residence conditions
 
@@ -216,12 +216,12 @@ Regulations 14 to 16 require that approved premises are managed by a management 
 
 [^c22100081]: Marginal citation: [1976 c.63](https://www.legislation.gov.uk/ukpga/1976/63).
 
-[^key-c164a5373d31bfd30832d118595eda5f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/1198/regulation/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 421(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/421/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c164a5373d31bfd30832d118595eda5f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/1198/regulation/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 421(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/421/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d51a74f6b2a08e8f621f1a677bdce77b]: Textual amendment: Words in reg. 4 inserted (6.4.2020 at 12:01 a.m.) by [The Offender Management Act 2007 (Coronavirus) (Approved Premises) (Amendment) Regulations 2020 (S.I. 2020/401)](https://www.legislation.gov.uk/uksi/2020/401), [regs. 1](https://www.legislation.gov.uk/uksi/2020/401/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/401/regulation/2)
+[^c-d51a74f6b2a08e8f621f1a677bdce77b]: Textual amendment: Words in reg. 4 inserted (6.4.2020 at 12:01 a.m.) by [The Offender Management Act 2007 (Coronavirus) (Approved Premises) (Amendment) Regulations 2020 (S.I. 2020/401)](https://www.legislation.gov.uk/uksi/2020/401), [regs. 1](https://www.legislation.gov.uk/uksi/2020/401/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/401/regulation/2)
 
 [^c22100101]: Marginal citation: [S.I. 1999/728](https://www.legislation.gov.uk/uksi/1999/728).
 
 [^c22100111]: Marginal citation: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 256B was inserted by section 115 of the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-bb7f41e513b89a4705d71740307ef382]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/1198/regulation/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 421(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/421/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bb7f41e513b89a4705d71740307ef382]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/1198/regulation/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 421(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/421/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

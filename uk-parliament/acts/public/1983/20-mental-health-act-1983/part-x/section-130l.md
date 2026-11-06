@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130L. Duty to give information about independent mental health advocates to Welsh qualifying informal patients[^key-e765ef0aae4c24b93b350009a7ddc581]
+## 130L. Duty to give information about independent mental health advocates to Welsh qualifying informal patients[^c-e765ef0aae4c24b93b350009a7ddc581]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e765ef0aae4c24b93b350009a7ddc581]: Textual amendment: S. 130L inserted (2.4.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 38](https://www.legislation.gov.uk/mwa/2010/7/section/38), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-e765ef0aae4c24b93b350009a7ddc581]: Textual amendment: S. 130L inserted (2.4.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 38](https://www.legislation.gov.uk/mwa/2010/7/section/38), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

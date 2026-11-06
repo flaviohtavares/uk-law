@@ -33,11 +33,11 @@ sections 107, 115, 117, 279 and 280 shall have effect subject, in such cases as 
 - (b) for the modification of the basis on which any amount to be paid by way of compensation is to be assessed;
 - (c) for the assessment of any such amount on a basis different from that on which it would otherwise have been assessed,
 
-and may also make different provision for different cases [^key-c780a8efd6156e8ba8ba0a7fbe18f5ac]....
+and may also make different provision for different cases [^c-c780a8efd6156e8ba8ba0a7fbe18f5ac]....
 
-(3) No such regulations shall be made by the Secretary of State[^key-ec6d1583e93ffbe6911fdb8c06a2b493] unless a draft of the instrument is laid before and approved by a resolution of each House of Parliament.
+(3) No such regulations shall be made by the Secretary of State[^c-ec6d1583e93ffbe6911fdb8c06a2b493] unless a draft of the instrument is laid before and approved by a resolution of each House of Parliament.
 
-(4) Before making any such regulations the Secretary of State or (as the case may be) the Welsh Ministers[^key-018494d03d0bd06f9541e2c603cba02e] shall consult such persons as appear to him or them[^key-98979e456ef025fee3328bcf25448b21] to be representative—
+(4) Before making any such regulations the Secretary of State or (as the case may be) the Welsh Ministers[^c-018494d03d0bd06f9541e2c603cba02e] shall consult such persons as appear to him or them[^c-98979e456ef025fee3328bcf25448b21] to be representative—
 
 - (a) of persons carrying out mining operations;
 - (b) of owners of interests in land containing minerals; and
@@ -51,10 +51,10 @@ and may also make different provision for different cases [^key-c780a8efd6156e8b
 
 [^c14021211]: Textual amendment: S. 116 substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 21](https://www.legislation.gov.uk/ukpga/1991/34/section/21), [Sch. 1 para.9](https://www.legislation.gov.uk/ukpga/1991/34/schedule/1/paragraph/9); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 
-[^key-c780a8efd6156e8ba8ba0a7fbe18f5ac]: Textual amendment: Words in [s. 116(2)](https://www.legislation.gov.uk/ukpga/1990/8/section/116/2) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(3)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/3/c), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c780a8efd6156e8ba8ba0a7fbe18f5ac]: Textual amendment: Words in [s. 116(2)](https://www.legislation.gov.uk/ukpga/1990/8/section/116/2) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(3)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/3/c), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-ec6d1583e93ffbe6911fdb8c06a2b493]: Textual amendment: Words in s. 116(3) inserted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/2/a)
+[^c-ec6d1583e93ffbe6911fdb8c06a2b493]: Textual amendment: Words in s. 116(3) inserted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/2/a)
 
-[^key-018494d03d0bd06f9541e2c603cba02e]: Textual amendment: Words in s. 116(4) inserted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(2)(b)(i)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/2/b/i)
+[^c-018494d03d0bd06f9541e2c603cba02e]: Textual amendment: Words in s. 116(4) inserted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(2)(b)(i)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/2/b/i)
 
-[^key-98979e456ef025fee3328bcf25448b21]: Textual amendment: Words in s. 116(4) inserted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/2/b/ii)
+[^c-98979e456ef025fee3328bcf25448b21]: Textual amendment: Words in s. 116(4) inserted (6.9.2015) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/2/b/ii)

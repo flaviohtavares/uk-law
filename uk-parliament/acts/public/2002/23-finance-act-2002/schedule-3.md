@@ -24,7 +24,7 @@ Section 6
 
 ### Part 1 — Regulating traders in rebated heavy oil
 
-**1.**[^key-8df0ca5d5143b3437a715cce1986ac90] In the Hydrocarbon Oil Duties Act 1979 (c. 5), after section 23 insert—
+**1.**[^c-8df0ca5d5143b3437a715cce1986ac90] In the Hydrocarbon Oil Duties Act 1979 (c. 5), after section 23 insert—
 
 > **23A. Regulation of traders in controlled oil**
 >
@@ -148,4 +148,4 @@ and
 
 ## Annotations
 
-[^key-8df0ca5d5143b3437a715cce1986ac90]: Commencement: Sch. 3 para. 1 in force at 24.7.2002 for specified purposes , see s. 6(3)(4); Sch. 3 para. 1 in force at 1.4.2003 in so far as not already in force by [S.I. 2002/3056](https://www.legislation.gov.uk/uksi/2002/3056), [art. 2](https://www.legislation.gov.uk/uksi/2002/3056/article/2)
+[^c-8df0ca5d5143b3437a715cce1986ac90]: Commencement: Sch. 3 para. 1 in force at 24.7.2002 for specified purposes , see s. 6(3)(4); Sch. 3 para. 1 in force at 1.4.2003 in so far as not already in force by [S.I. 2002/3056](https://www.legislation.gov.uk/uksi/2002/3056), [art. 2](https://www.legislation.gov.uk/uksi/2002/3056/article/2)

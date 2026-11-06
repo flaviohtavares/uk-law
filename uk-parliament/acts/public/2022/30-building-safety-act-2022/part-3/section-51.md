@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. New initial notices[^key-2a01db72f97c83d293089605460fea37][^key-a5c21f9b387645102d17f75044d5d756][^key-fad90670488be2478477b5803228d903][^key-0273494608a3348eb5de123de158717e][^key-dacb71bd578f06bb3344c0edbe86db50]
+## 51. New initial notices[^c-2a01db72f97c83d293089605460fea37][^c-a5c21f9b387645102d17f75044d5d756][^c-fad90670488be2478477b5803228d903][^c-0273494608a3348eb5de123de158717e][^c-dacb71bd578f06bb3344c0edbe86db50]
 
 *Extent: E+W*
 
@@ -209,12 +209,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2a01db72f97c83d293089605460fea37]: Commencement: S. 51 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
+[^c-2a01db72f97c83d293089605460fea37]: Commencement: S. 51 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
 
-[^key-a5c21f9b387645102d17f75044d5d756]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/v)
+[^c-a5c21f9b387645102d17f75044d5d756]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/v)
 
-[^key-fad90670488be2478477b5803228d903]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xii)
+[^c-fad90670488be2478477b5803228d903]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xii)
 
-[^key-0273494608a3348eb5de123de158717e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 6.4.2024 for W. in so far as not already in force by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(vii)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/vii) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-0273494608a3348eb5de123de158717e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 6.4.2024 for W. in so far as not already in force by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(vii)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/vii) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
 
-[^key-dacb71bd578f06bb3344c0edbe86db50]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 6.4.2024 in force in so far as not already in force except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3), [5](https://www.legislation.gov.uk/uksi/2024/104/regulation/5))
+[^c-dacb71bd578f06bb3344c0edbe86db50]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/30/section/51) in force at 6.4.2024 in force in so far as not already in force except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3), [5](https://www.legislation.gov.uk/uksi/2024/104/regulation/5))

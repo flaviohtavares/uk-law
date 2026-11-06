@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Use of fixed penalty receipts[^key-43afc4ed84feb03756066a0fb6edf078][^key-29c76d05cc41adb341dedae6c7ef2c80][^key-2f4e29dc5e1ac0e850fe9e96fcb8f5d4][^key-c7dbba2981a225b2e9bc33ac16d717d2]
+## 75. Use of fixed penalty receipts[^c-43afc4ed84feb03756066a0fb6edf078][^c-29c76d05cc41adb341dedae6c7ef2c80][^c-2f4e29dc5e1ac0e850fe9e96fcb8f5d4][^c-c7dbba2981a225b2e9bc33ac16d717d2]
 
 *Extent: E+W*
 
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-43afc4ed84feb03756066a0fb6edf078]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 14.3.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
+[^c-43afc4ed84feb03756066a0fb6edf078]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 14.3.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
 
-[^key-29c76d05cc41adb341dedae6c7ef2c80]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-29c76d05cc41adb341dedae6c7ef2c80]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-2f4e29dc5e1ac0e850fe9e96fcb8f5d4]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 6.4.2006 for E. in so far as not already in force by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-2f4e29dc5e1ac0e850fe9e96fcb8f5d4]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 6.4.2006 for E. in so far as not already in force by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-c7dbba2981a225b2e9bc33ac16d717d2]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(ee)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/ee)
+[^c-c7dbba2981a225b2e9bc33ac16d717d2]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2005/16/section/75) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(ee)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/ee)

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Where on any occasion a constable or a vehicle examiner[^key-6f596a81973fd2eedd7432f1e8eca919] has reason to believe in the case of any stationary vehicle that a fixed penalty offence is being or has on that occasion been committed in respect of it, he may fix a fixed penalty notice in respect of the offence to the vehicle unless the offence appears to him to involve obligatory endorsement.
+(1) Where on any occasion a constable or a vehicle examiner[^c-6f596a81973fd2eedd7432f1e8eca919] has reason to believe in the case of any stationary vehicle that a fixed penalty offence is being or has on that occasion been committed in respect of it, he may fix a fixed penalty notice in respect of the offence to the vehicle unless the offence appears to him to involve obligatory endorsement.
 
 (2) A person is guilty of an offence if he removes or interferes with any notice fixed to a vehicle under this section, unless he does so by or under the authority of the driver or person in charge of the vehicle or the person liable for the fixed penalty offence in question.
 
 ## Annotations
 
-[^key-6f596a81973fd2eedd7432f1e8eca919]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/1988/53/section/62/1) inserted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/7); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-6f596a81973fd2eedd7432f1e8eca919]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/1988/53/section/62/1) inserted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/7); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)

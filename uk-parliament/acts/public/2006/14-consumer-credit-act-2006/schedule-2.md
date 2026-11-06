@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Part 3A of Schedule 17 to the 2000 Act[^key-74d72ab061060d88df62dd775f87d64c]
+## SCHEDULE 2 — Part 3A of Schedule 17 to the 2000 Act[^c-74d72ab061060d88df62dd775f87d64c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ Section 59
 
 ## Annotations
 
-[^key-74d72ab061060d88df62dd775f87d64c]: Textual amendment: Sch. 2 omitted (26.7.2013 for specified purposes) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/b)
+[^c-74d72ab061060d88df62dd775f87d64c]: Textual amendment: Sch. 2 omitted (26.7.2013 for specified purposes) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/b)

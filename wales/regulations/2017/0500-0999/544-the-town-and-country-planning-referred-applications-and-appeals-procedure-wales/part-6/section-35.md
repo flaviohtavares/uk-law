@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Application of Part 6[^key-b87395d1f670fd3b11518bed2dfaadaa]
+## 35. Application of Part 6[^c-b87395d1f670fd3b11518bed2dfaadaa]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ to such extent as the Welsh Ministers may specify having regard to any steps alr
 
 ## Annotations
 
-[^key-b87395d1f670fd3b11518bed2dfaadaa]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2017/544/regulation/35) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-b87395d1f670fd3b11518bed2dfaadaa]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2017/544/regulation/35) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

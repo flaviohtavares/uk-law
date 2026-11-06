@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus Restrictions) (Wales) (Amendment) (No. 2) Regulations 2020 (revoked)[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+The Health Protection (Coronavirus Restrictions) (Wales) (Amendment) (No. 2) Regulations 2020 (revoked)[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 Approved by both Houses of Parliament
 
@@ -47,40 +47,40 @@ Coming into force
 
 at 12.01 a.m. on 25 April 2020
 
-[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and application[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+## 1. Title, coming into force and application[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Termination directions[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+## 2. Termination directions[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Physical distancing requirement in relation to certain premises[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+## 3. Physical distancing requirement in relation to certain premises[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restriction on persons leaving or being outside of the place where they live[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+## 4. Restriction on persons leaving or being outside of the place where they live[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+## 5. Enforcement[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Minor and consequential amendments[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
+## 6. Minor and consequential amendments[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0d31ed8dc40f2ec9deea68ff7b9c1fa]: Textual amendment: Regulations revoked (13.7.2020) by [S.I. 2020/725](https://www.legislation.gov.uk/uksi/2020/725), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/725/regulation/1/4), [3(1)(c)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/1/c) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/2), [5](https://www.legislation.gov.uk/uksi/2020/725/regulation/5))
+[^c-f0d31ed8dc40f2ec9deea68ff7b9c1fa]: Textual amendment: Regulations revoked (13.7.2020) by [S.I. 2020/725](https://www.legislation.gov.uk/uksi/2020/725), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/725/regulation/1/4), [3(1)(c)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/1/c) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/2), [5](https://www.legislation.gov.uk/uksi/2020/725/regulation/5))

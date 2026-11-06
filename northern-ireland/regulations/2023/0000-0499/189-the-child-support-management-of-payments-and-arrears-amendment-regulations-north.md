@@ -44,11 +44,11 @@ Coming into operation in accordance with regulation 1
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 38E, 47(1) and 48(2) of the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-a14f3a2ca86d15e2964eb1bd045b6372]
+## 1. Citation and commencement[^c-a14f3a2ca86d15e2964eb1bd045b6372]
 
 These Regulations may be cited as the Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 26th February 2024.
 
-## 2. Amendment of the Child Support (Management of Payments and Arrears) Regulations[^key-ad96c8f7b0a915fc3949e6348973a7bb]
+## 2. Amendment of the Child Support (Management of Payments and Arrears) Regulations[^c-ad96c8f7b0a915fc3949e6348973a7bb]
 
 (1) The Child Support (Management of Payments and Arrears) Regulations (Northern Ireland) 2009[^f00003] are amended as follows.
 
@@ -103,9 +103,9 @@ A regulatory impact assessment has not been produced for these Regulations as th
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-a14f3a2ca86d15e2964eb1bd045b6372]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1) in operation at 26.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1)
+[^c-a14f3a2ca86d15e2964eb1bd045b6372]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1) in operation at 26.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1)
 
-[^key-ad96c8f7b0a915fc3949e6348973a7bb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/189/regulation/2) in operation at 26.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1)
+[^c-ad96c8f7b0a915fc3949e6348973a7bb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/189/regulation/2) in operation at 26.2.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2009 No. 422](https://www.legislation.gov.uk/nisr/2009/422)
 

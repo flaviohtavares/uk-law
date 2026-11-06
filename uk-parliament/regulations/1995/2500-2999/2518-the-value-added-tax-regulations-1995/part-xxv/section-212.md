@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Distress[^key-b4a8aea6bd341763cf2b03af0308243c]
+## 212. Distress[^c-b4a8aea6bd341763cf2b03af0308243c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4a8aea6bd341763cf2b03af0308243c]: Textual amendment: [Reg. 212](https://www.legislation.gov.uk/uksi/1995/2518/regulation/212) revoked (1.7.1997) by [The Distress for Customs and Excise Duties and Other Indirect Taxes Regulations 1997 (S.I. 1997/1431)](https://www.legislation.gov.uk/uksi/1997/1431), [reg. 1](https://www.legislation.gov.uk/uksi/1997/1431/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1997/1431/schedule/3)
+[^c-b4a8aea6bd341763cf2b03af0308243c]: Textual amendment: [Reg. 212](https://www.legislation.gov.uk/uksi/1995/2518/regulation/212) revoked (1.7.1997) by [The Distress for Customs and Excise Duties and Other Indirect Taxes Regulations 1997 (S.I. 1997/1431)](https://www.legislation.gov.uk/uksi/1997/1431), [reg. 1](https://www.legislation.gov.uk/uksi/1997/1431/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1997/1431/schedule/3)

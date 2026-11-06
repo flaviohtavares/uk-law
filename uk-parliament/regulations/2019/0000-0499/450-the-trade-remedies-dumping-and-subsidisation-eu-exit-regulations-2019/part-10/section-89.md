@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Investigations regarding repayments[^key-2d9e9f65060bdc4cb38a2e9213244e12]
+## 89. Investigations regarding repayments[^c-2d9e9f65060bdc4cb38a2e9213244e12]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d9e9f65060bdc4cb38a2e9213244e12]: Commencement: Reg. 89 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-2d9e9f65060bdc4cb38a2e9213244e12]: Commencement: Reg. 89 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
 [^c24288081]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248)

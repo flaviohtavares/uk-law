@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Eligibility criteria[^key-8d0e42dc3639fa1867bf52a7adf1a312][^key-888dba33749265870915044e8590f011]
+## 48. Eligibility criteria[^c-8d0e42dc3639fa1867bf52a7adf1a312][^c-888dba33749265870915044e8590f011]
 
 *Extent: S*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d0e42dc3639fa1867bf52a7adf1a312]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/16/section/48) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-8d0e42dc3639fa1867bf52a7adf1a312]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/16/section/48) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-888dba33749265870915044e8590f011]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/16/section/48) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-888dba33749265870915044e8590f011]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/16/section/48) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

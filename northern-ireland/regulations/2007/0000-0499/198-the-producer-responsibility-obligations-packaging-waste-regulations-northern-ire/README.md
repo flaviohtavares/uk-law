@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC HEALTH
 
-The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (revoked)[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (revoked)[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 5th April 2007
 
-[^key-ecb2428bd5a0c4491c18884fcdd98ade]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecb2428bd5a0c4491c18884fcdd98ade]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 1 — GENERAL[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ Coming into operation
 - [Section 2B — Modifications to the Waste Directive](part-1/section-2b.md)
 - [Section 3 — Exclusion of charities from producer responsibility obligations](part-1/section-3.md)
 
-### PART 2 — PRODUCERS AND OBLIGATIONS[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 2 — PRODUCERS AND OBLIGATIONS[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -66,7 +66,7 @@ Coming into operation
 - [Section 4 — Producers and producer responsibility obligations](part-2/section-4.md)
 - [Section 5 — Producers and Scheme membership](part-2/section-5.md)
 
-### PART 3 — REGISTRATION: PRODUCERS AND SCHEMES[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 3 — REGISTRATION: PRODUCERS AND SCHEMES[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -91,7 +91,7 @@ Coming into operation
 - [Section 18 — Cancellation of registration of a scheme](part-3/section-18.md)
 - [Section 19 — Information provided to scheme operators](part-3/section-19.md)
 
-### PART 4 — RECORDS, RETURNS AND CERTIFICATE[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 4 — RECORDS, RETURNS AND CERTIFICATE[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -102,7 +102,7 @@ Coming into operation
 - [Section 22 — Schemes – records and returns](part-4/section-22.md)
 - [Section 22A — Notification of winding-up, receivership, administration, etc.](part-4/section-22a.md)
 
-### PART 5 — ACCREDITATION OF REPROCESSORS AND EXPORTERS[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 5 — ACCREDITATION OF REPROCESSORS AND EXPORTERS[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -113,7 +113,7 @@ Coming into operation
 - [Section 25 — Conditions of accreditation](part-5/section-25.md)
 - [Section 26 — Suspension and cancellation of accreditation](part-5/section-26.md)
 
-### PART 6 — APPEALS[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 6 — APPEALS[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -124,7 +124,7 @@ Coming into operation
 - [Section 29 — Determination of appeals](part-6/section-29.md)
 - [Section 30 — Status pending appeal](part-6/section-30.md)
 
-### PART 7 — POWERS AND DUTIES OF THE DEPARTMENT[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 7 — POWERS AND DUTIES OF THE DEPARTMENT[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -138,7 +138,7 @@ Coming into operation
 - [Section 35 — Entry and inspection](part-7/section-35.md)
 - [Section 36 — Provision of information to the Department](part-7/section-36.md)
 
-### PART 8 — GROUPS OF COMPANIES, PUB OPERATING BUSINESSES AND LICENSORS AND MID-YEAR CHANGES[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 8 — GROUPS OF COMPANIES, PUB OPERATING BUSINESSES AND LICENSORS AND MID-YEAR CHANGES[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ Coming into operation
 - [Section 38 — Packaging handled by licensors and pub operating businesses](part-8/section-38.md)
 - [Section 39 — Mid-year changes](part-8/section-39.md)
 
-### PART 9 — OFFENCES[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 9 — OFFENCES[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -156,7 +156,7 @@ Coming into operation
 
 - [Section 40 — Offences and penalties](part-9/section-40.md)
 
-### PART 10 — REVOCATION AND TRANSITIONAL PROVISION[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART 10 — REVOCATION AND TRANSITIONAL PROVISION[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -182,14 +182,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-ecb2428bd5a0c4491c18884fcdd98ade]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecb2428bd5a0c4491c18884fcdd98ade]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ecb2428bd5a0c4491c18884fcdd98ade]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecb2428bd5a0c4491c18884fcdd98ade]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecb2428bd5a0c4491c18884fcdd98ade]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/198) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(b)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))
+[^c-ecb2428bd5a0c4491c18884fcdd98ade]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/198) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(b)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))

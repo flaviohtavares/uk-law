@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 987B. Education Authority of Northern Ireland[^key-a0394cba6efc94cf9c91b7dd5d06f6a0]
+## 987B. Education Authority of Northern Ireland[^c-a0394cba6efc94cf9c91b7dd5d06f6a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Education Authority of Northern Ireland is not liable to corporation tax.
 
 ## Annotations
 
-[^key-a0394cba6efc94cf9c91b7dd5d06f6a0]: Textual amendment: S. 987B and cross-heading inserted (retrospective to 1.4.2015) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/25/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/25/2)
+[^c-a0394cba6efc94cf9c91b7dd5d06f6a0]: Textual amendment: S. 987B and cross-heading inserted (retrospective to 1.4.2015) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/25/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/25/2)

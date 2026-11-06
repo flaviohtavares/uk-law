@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Amendments to Schedule 3 (non-IAS group accounts)[^key-ac86878ea56fecf9bd893e61a8ba9488]
+## 60. Amendments to Schedule 3 (non-IAS group accounts)[^c-ac86878ea56fecf9bd893e61a8ba9488]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ In Schedule 3 (non-IAS group accounts)—
 
 ## Annotations
 
-[^key-ac86878ea56fecf9bd893e61a8ba9488]: Commencement: Reg. 60 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-ac86878ea56fecf9bd893e61a8ba9488]: Commencement: Reg. 60 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

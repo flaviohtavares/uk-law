@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Calculation of income other than earnings[^key-450e66bc0e73310342ca961d9b79b8ab]
+## 23. Calculation of income other than earnings[^c-450e66bc0e73310342ca961d9b79b8ab]
 
 *Extent: E+W+S*
 
-(1) For the purposes of regulation 14 (average weekly income other than earnings), the income of a claimant which does not consist of earnings to be taken into account shall, subject to paragraphs (2) and (3), be his gross income and any capital treated as income under regulation 24 (capital treated as income)[^key-295f932df646efa69d9706d7cd84b559].
+(1) For the purposes of regulation 14 (average weekly income other than earnings), the income of a claimant which does not consist of earnings to be taken into account shall, subject to paragraphs (2) and (3), be his gross income and any capital treated as income under regulation 24 (capital treated as income)[^c-295f932df646efa69d9706d7cd84b559].
 
 (2) There shall be disregarded from the calculation of a claimant’s gross income under paragraph (1) any sum, where applicable, specified in Schedule 3.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-450e66bc0e73310342ca961d9b79b8ab]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1988/1890/regulation/23) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-450e66bc0e73310342ca961d9b79b8ab]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1988/1890/regulation/23) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-295f932df646efa69d9706d7cd84b559]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/23/1) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/1989/361/regulation/6)
+[^c-295f932df646efa69d9706d7cd84b559]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/23/1) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/1989/361/regulation/6)

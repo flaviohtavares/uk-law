@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Amendment of regulation 2[^key-bf38c728f7df432d53fa9b180b3780f7]
+## 122. Amendment of regulation 2[^c-bf38c728f7df432d53fa9b180b3780f7]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In regulation 2 (interpretation), in paragraph (1)—
 
 ## Annotations
 
-[^key-bf38c728f7df432d53fa9b180b3780f7]: Commencement: [Reg. 122](https://www.legislation.gov.uk/ssi/2011/364/regulation/122) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-bf38c728f7df432d53fa9b180b3780f7]: Commencement: [Reg. 122](https://www.legislation.gov.uk/ssi/2011/364/regulation/122) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

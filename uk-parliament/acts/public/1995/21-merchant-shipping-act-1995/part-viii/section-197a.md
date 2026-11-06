@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197A. General lighthouse authorities: commercial activities[^key-a19fc53252fed0ad390ca87786ac51e4]
+## 197A. General lighthouse authorities: commercial activities[^c-a19fc53252fed0ad390ca87786ac51e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a19fc53252fed0ad390ca87786ac51e4]: Textual amendment: [S. 197A](https://www.legislation.gov.uk/ukpga/1995/21/section/197A) inserted (26.6.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/9/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-a19fc53252fed0ad390ca87786ac51e4]: Textual amendment: [S. 197A](https://www.legislation.gov.uk/ukpga/1995/21/section/197A) inserted (26.6.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/9/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)

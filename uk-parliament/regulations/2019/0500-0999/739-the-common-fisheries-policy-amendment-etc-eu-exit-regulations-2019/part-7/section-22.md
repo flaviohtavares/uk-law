@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Council Regulation [(EEC) No 2136/89](https://www.legislation.gov.uk/european/regulation/1989/2136) laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products[^key-2e80b8c0af2c3f49cbb6c189fab0507e]
+## 22. Council Regulation [(EEC) No 2136/89](https://www.legislation.gov.uk/european/regulation/1989/2136) laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products[^c-2e80b8c0af2c3f49cbb6c189fab0507e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e80b8c0af2c3f49cbb6c189fab0507e]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-2e80b8c0af2c3f49cbb6c189fab0507e]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

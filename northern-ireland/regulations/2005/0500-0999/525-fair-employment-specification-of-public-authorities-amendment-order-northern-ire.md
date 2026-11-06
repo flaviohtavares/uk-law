@@ -51,11 +51,11 @@ And whereas, in accordance with Article 51(4) of the 1998 Order, it appears to t
 
 Now, therefore, the Department in exercise of the powers conferred by Article 50(1) and (2) and Article 51(2) of the 1998 Order and now vested in it[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-d26fc2f93a2c57204bd93d4e7fedc3f1]
+## 1. Citation and commencement[^c-d26fc2f93a2c57204bd93d4e7fedc3f1]
 
 This Order may be cited as the Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2005 and shall come into operation on 1st January 2006.
 
-## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^key-fa4cab78a7e811ea0c00b977f7e016e3]
+## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^c-fa4cab78a7e811ea0c00b977f7e016e3]
 
 For the Schedule to the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^f00004] there shall be substituted the Schedule to this Order.
 
@@ -69,7 +69,7 @@ A senior officer of the Office of the First Minister and deputy First Minister
 
 Articles 3 and 4
 
-### PART I — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 52 TO 65 OF THE 1998 ORDER[^key-d58d49f89b2a8fbe8cde887275ee615d]
+### PART I — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 52 TO 65 OF THE 1998 ORDER[^c-d58d49f89b2a8fbe8cde887275ee615d]
 
 - Agricultural Research Institute of Northern Ireland
 - Altnagelvin Hospitals Health and Social Services Trust
@@ -153,7 +153,7 @@ Articles 3 and 4
 - Northern Ireland Film and Television Commission
 - Northern Ireland Fishery Harbour Authority
 - Northern Ireland Guardian Ad Litem Agency
-- Health and Social Care Regulation and Quality Improvement Authority[^key-c2afdf41f5183c56675a93e9be619f38]
+- Health and Social Care Regulation and Quality Improvement Authority[^c-c2afdf41f5183c56675a93e9be619f38]
 - Northern Ireland Health Promotion Agency
 - Northern Ireland Housing Executive
 - Northern Ireland Human Rights Commission
@@ -193,7 +193,7 @@ Articles 3 and 4
 - Western Health and Social Services Board
 - Youth Council for Northern Ireland
 
-### PART II — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 62 TO 65 OF THE 1998 ORDER[^key-a09d56805531f7e4e3f3a14b88b4eb02]
+### PART II — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 62 TO 65 OF THE 1998 ORDER[^c-a09d56805531f7e4e3f3a14b88b4eb02]
 
 - First Secretary of State
 - Secretary of State for Constitutional Affairs
@@ -257,14 +257,14 @@ The following Amendments have been made to the Schedule:
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
 
-[^key-d26fc2f93a2c57204bd93d4e7fedc3f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+[^c-d26fc2f93a2c57204bd93d4e7fedc3f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
 
-[^key-fa4cab78a7e811ea0c00b977f7e016e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/525/article/2) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+[^c-fa4cab78a7e811ea0c00b977f7e016e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/525/article/2) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
 
 [^f00004]: Footnote: [S.R. 2004 No. 494](https://www.legislation.gov.uk/nisr/2004/494)
 
-[^key-d58d49f89b2a8fbe8cde887275ee615d]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2005/525/schedule/part/I) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+[^c-d58d49f89b2a8fbe8cde887275ee615d]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2005/525/schedule/part/I) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
 
-[^key-c2afdf41f5183c56675a93e9be619f38]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2005/525) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-c2afdf41f5183c56675a93e9be619f38]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2005/525) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
-[^key-a09d56805531f7e4e3f3a14b88b4eb02]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2005/525/schedule/part/II) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+[^c-a09d56805531f7e4e3f3a14b88b4eb02]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2005/525/schedule/part/II) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)

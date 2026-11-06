@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 293. The appropriate fee[^key-6b57fb7b552d89736ba00d435090b43e]
+## 293. The appropriate fee[^c-6b57fb7b552d89736ba00d435090b43e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b57fb7b552d89736ba00d435090b43e]: Commencement: Rule 293 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6b57fb7b552d89736ba00d435090b43e]: Commencement: Rule 293 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

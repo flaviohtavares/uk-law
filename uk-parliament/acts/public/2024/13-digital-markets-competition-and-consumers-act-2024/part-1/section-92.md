@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Monetary penalties: criminal proceedings and convictions[^key-7bb587fd4e5105d48ba05c8e1d91b990][^key-4cda9f3f6d6dfe76220ed30989abefdd]
+## 92. Monetary penalties: criminal proceedings and convictions[^c-7bb587fd4e5105d48ba05c8e1d91b990][^c-4cda9f3f6d6dfe76220ed30989abefdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb587fd4e5105d48ba05c8e1d91b990]: Commencement: S. 92 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7bb587fd4e5105d48ba05c8e1d91b990]: Commencement: S. 92 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4cda9f3f6d6dfe76220ed30989abefdd]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2024/13/section/92) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4cda9f3f6d6dfe76220ed30989abefdd]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2024/13/section/92) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

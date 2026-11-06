@@ -335,7 +335,7 @@ for the words “the custody, charge or care of" there shall, in each case, be s
 - (a) in paragraph (a) for the words “6 or 11(2)" there shall be substituted “ or 6" ”; and
 - (b) after paragraph (a) there shall be inserted “ or" ”.
 
-**42.**[^key-6b773237f481ed2ad4c793f4738fc6ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-6b773237f481ed2ad4c793f4738fc6ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **43.**[^c15184021] In section 88(1) of that Act (interpretation)—
 
@@ -528,9 +528,9 @@ for the words “the custody, charge or care of" there shall, in each case, be s
 
 > “**parental responsibility**” has the same meaning as in the Children Act 1989.
 
-(3)[^key-cfbf92ad8212bccb8d929d9de3f793c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cfbf92ad8212bccb8d929d9de3f793c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cfbf92ad8212bccb8d929d9de3f793c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cfbf92ad8212bccb8d929d9de3f793c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Family Law Act 1986 (c. 55)
 
@@ -837,7 +837,7 @@ for “section 1(1)(d)" there shall be substituted “ section 1(1)(e)" ”.
 
 [^c15184001]: Commencement: [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/41) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-6b773237f481ed2ad4c793f4738fc6ef]: Textual amendment: [Sch. 13 para. 42](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/42) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6b773237f481ed2ad4c793f4738fc6ef]: Textual amendment: [Sch. 13 para. 42](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/42) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c15184021]: Commencement: [Sch. 13 para. 43](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/43) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -889,7 +889,7 @@ for “section 1(1)(d)" there shall be substituted “ section 1(1)(e)" ”.
 
 [^c15184251]: Commencement: Sch. 13 para. 61 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-cfbf92ad8212bccb8d929d9de3f793c8]: Textual amendment: Sch. 13 para. 61(3)(4) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [122](https://www.legislation.gov.uk/wsi/2016/413/regulation/122)
+[^c-cfbf92ad8212bccb8d929d9de3f793c8]: Textual amendment: Sch. 13 para. 61(3)(4) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [122](https://www.legislation.gov.uk/wsi/2016/413/regulation/122)
 
 [^c15184261]: Commencement: [Sch. 13 para. 62](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/62) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 

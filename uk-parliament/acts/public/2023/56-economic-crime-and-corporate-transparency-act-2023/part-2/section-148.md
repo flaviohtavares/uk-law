@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Service on a limited partnership[^key-b247308c9a3b6b9f8d14fad5d9976102]
+## 148. Service on a limited partnership[^c-b247308c9a3b6b9f8d14fad5d9976102]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 36 of the Limited Partnerships Act 1907 (inserted by section 147 o
 
 ## Annotations
 
-[^key-b247308c9a3b6b9f8d14fad5d9976102]: Commencement: S. 148 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b247308c9a3b6b9f8d14fad5d9976102]: Commencement: S. 148 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

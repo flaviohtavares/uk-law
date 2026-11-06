@@ -45,7 +45,7 @@ Section 31.
 
 ### Charges
 
-**3.**[^key-4dfe4ffee50d81f291071bf16515c42b] For section 6(1) (restriction on demand or receipt of fee for finding or seeking to find employment) there shall be substituted—
+**3.**[^c-4dfe4ffee50d81f291071bf16515c42b] For section 6(1) (restriction on demand or receipt of fee for finding or seeking to find employment) there shall be substituted—
 
 > (1) Except in such cases or classes of case as the Secretary of State may prescribe—
 >
@@ -55,11 +55,11 @@ Section 31.
 
 ### Inspection
 
-**4.**[^key-f847c9a5bb942ad5b46b51a2897450b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f847c9a5bb942ad5b46b51a2897450b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Offences
 
-**5.**[^c12486771][^key-14060d1aa3e9c87f4f74ab423cd2c9dd] After section 11 there shall be inserted—
+**5.**[^c12486771][^c-14060d1aa3e9c87f4f74ab423cd2c9dd] After section 11 there shall be inserted—
 
 > **11A. Offences: extension of time limit.**
 >
@@ -91,7 +91,7 @@ Section 31.
 
 ### Interpretation
 
-**7.**[^key-e454921d5bee497c06876901eb7d9c7a] In section 13(2) (definition of employment agency) for “workers” (in each place) there shall be substituted “ persons ”.
+**7.**[^c-e454921d5bee497c06876901eb7d9c7a] In section 13(2) (definition of employment agency) for “workers” (in each place) there shall be substituted “ persons ”.
 
 ### Exemptions
 
@@ -105,16 +105,16 @@ Section 31.
 
 [^c12486751]: Marginal citation: [1973 c. 35](https://www.legislation.gov.uk/ukpga/1973/35).
 
-[^key-4dfe4ffee50d81f291071bf16515c42b]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/3) in force at 6.4.2004 by [S.I. 2003/3357](https://www.legislation.gov.uk/uksi/2003/3357), [art. 3](https://www.legislation.gov.uk/uksi/2003/3357/article/3)
+[^c-4dfe4ffee50d81f291071bf16515c42b]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/3) in force at 6.4.2004 by [S.I. 2003/3357](https://www.legislation.gov.uk/uksi/2003/3357), [art. 3](https://www.legislation.gov.uk/uksi/2003/3357/article/3)
 
-[^key-f847c9a5bb942ad5b46b51a2897450b3]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/4) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 69](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/69) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/c)
+[^c-f847c9a5bb942ad5b46b51a2897450b3]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/4) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 69](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/69) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/c)
 
 [^c12486771]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/5) partly in force; [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/5) not in force at Royal Assent see [s. 45](https://www.legislation.gov.uk/ukpga/1999/26/section/45); [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/5) in force at 25.10.1999 for specifed purposes by [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I)
 
-[^key-14060d1aa3e9c87f4f74ab423cd2c9dd]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/5) in force at 6.4.2004 in so far as not already in force by [S.I. 2003/3357](https://www.legislation.gov.uk/uksi/2003/3357), [art. 3](https://www.legislation.gov.uk/uksi/2003/3357/article/3)
+[^c-14060d1aa3e9c87f4f74ab423cd2c9dd]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/5) in force at 6.4.2004 in so far as not already in force by [S.I. 2003/3357](https://www.legislation.gov.uk/uksi/2003/3357), [art. 3](https://www.legislation.gov.uk/uksi/2003/3357/article/3)
 
 [^c12486781]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c12486791]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-e454921d5bee497c06876901eb7d9c7a]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/7) in force at 6.7.2004 by [S.I. 2003/3357](https://www.legislation.gov.uk/uksi/2003/3357), [art. 4](https://www.legislation.gov.uk/uksi/2003/3357/article/4)
+[^c-e454921d5bee497c06876901eb7d9c7a]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7/paragraph/7) in force at 6.7.2004 by [S.I. 2003/3357](https://www.legislation.gov.uk/uksi/2003/3357), [art. 4](https://www.legislation.gov.uk/uksi/2003/3357/article/4)

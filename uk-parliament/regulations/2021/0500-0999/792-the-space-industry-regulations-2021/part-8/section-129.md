@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Failure of a pilot in command to carry out obligations to a spaceflight participant about stations[^key-76c996ed856c3052a95992e4d8cf0449]
+## 129. Failure of a pilot in command to carry out obligations to a spaceflight participant about stations[^c-76c996ed856c3052a95992e4d8cf0449]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A pilot in command who fails, without reasonable excuse, to comply with the requ
 
 ## Annotations
 
-[^key-76c996ed856c3052a95992e4d8cf0449]: Commencement: Reg. 129 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-76c996ed856c3052a95992e4d8cf0449]: Commencement: Reg. 129 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

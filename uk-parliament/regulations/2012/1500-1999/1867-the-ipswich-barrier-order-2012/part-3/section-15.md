@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Tidal works not to be executed without approval of Secretary of State[^key-fe3f616b69d6095ec436f84a9e06b953]
+## 15. Tidal works not to be executed without approval of Secretary of State[^c-fe3f616b69d6095ec436f84a9e06b953]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ and any expenditure incurred by the Secretary of State in so doing is recoverabl
 
 ## Annotations
 
-[^key-fe3f616b69d6095ec436f84a9e06b953]: Commencement: Art. 15 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-fe3f616b69d6095ec436f84a9e06b953]: Commencement: Art. 15 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -16,40 +16,40 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XVI — Instructions for taking samples of fresh grapes and processing them into wine for analysis by the isotopic methods referred to in Article 88(1)[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+## ANNEX XVI — Instructions for taking samples of fresh grapes and processing them into wine for analysis by the isotopic methods referred to in Article 88(1)[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] I.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] I.
 
 SAMPLING OF GRAPES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] A.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] A.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] B.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] B.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] II.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] II.
 
 VINIFICATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] A.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] A.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] B.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] B.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Revocation[^key-0454bbcbdb7d270c0dfe26d8288e68f6]
+## 26. Revocation[^c-0454bbcbdb7d270c0dfe26d8288e68f6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0454bbcbdb7d270c0dfe26d8288e68f6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/247/regulation/26) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-0454bbcbdb7d270c0dfe26d8288e68f6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/247/regulation/26) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Further modifications to Part 5[^key-651a316f83bc40850af57943c0ec9c88]
+## 56. Further modifications to Part 5[^c-651a316f83bc40850af57943c0ec9c88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 12 (general provisions relating to the initiation and conduct of an i
 
 ## Annotations
 
-[^key-651a316f83bc40850af57943c0ec9c88]: Commencement: Reg. 56 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-651a316f83bc40850af57943c0ec9c88]: Commencement: Reg. 56 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

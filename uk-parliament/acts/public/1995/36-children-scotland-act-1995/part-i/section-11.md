@@ -46,7 +46,7 @@ summary: ''
 - (g) an order appointing a judicial factor to manage a child’s property or remitting the matter to the Accountant of Court to report on suitable arrangements for the future management of the property; or
 - (h) an order appointing or removing a person as guardian of the child.
 
-(2A)[^key-2c42b3e55dbe596b8d6b7207e097c2d9] An order doing any of the things mentioned in subsection (2) is to be regarded as an order in relation to at least one of the matters mentioned in subsection (1).
+(2A)[^c-2c42b3e55dbe596b8d6b7207e097c2d9] An order doing any of the things mentioned in subsection (2) is to be regarded as an order in relation to at least one of the matters mentioned in subsection (1).
 
 (3) The relevant circumstances mentioned in subsection (1) above are—
 
@@ -55,19 +55,19 @@ summary: ''
   - (ii) has parental responsibilities or parental rights in relation to the child;
   - (iii)[^c21005081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (aa)[^c21005101] that application for a contact order is made with the leave of the court by a person whose parental responsibilities or parental rights in relation to the child were extinguished on the making of an adoption order;
-- (ab) that application for an order under subsection (1) above [^key-3607610d648a8080a59256df20c944cc]... is made by a person who has had, but for a reason other than is mentioned in subsection (4) below, no longer has, parental responsibilities or parental rights in relation to the child;
+- (ab) that application for an order under subsection (1) above [^c-3607610d648a8080a59256df20c944cc]... is made by a person who has had, but for a reason other than is mentioned in subsection (4) below, no longer has, parental responsibilities or parental rights in relation to the child;
 - (b) that although no application for an order under subsection (1) above[^c21005131] has been made, the court (even if it declines to make any other order) considers it should make such an order.
 
 (4) The reasons referred to in (3)(ab)[^c21005171] above are that the parental responsibilities or parental rights have been—
 
 - (a) extinguished on the making of an adoption order; or[^c21007351]
 - (b)[^c21016351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) extinguished by virtue of section 55(1) of the Human Fertilisation and Embryology Act 2008 (parental orders: supplementary provision)[^c21004221] on the making of a parental order under section 54[^c21004411] or 54A[^key-a2267cf33b1c870e584f7b6a66df820b] of that Act; [^c21016391]. . .
+- (c) extinguished by virtue of section 55(1) of the Human Fertilisation and Embryology Act 2008 (parental orders: supplementary provision)[^c21004221] on the making of a parental order under section 54[^c21004411] or 54A[^c-a2267cf33b1c870e584f7b6a66df820b] of that Act; [^c21016391]. . .
 - (d)[^c21016391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (3)(a) and (ab)[^c21007371] above “**person**” includes (without prejudice to the generality of that subsection) the child concerned; but it does not include a local authority.
 
-(6) In subsections (3)(aa) and (4)[^key-4a4847a840e9b0437ac1c264a8563f03] above—
+(6) In subsections (3)(aa) and (4)[^c-4a4847a840e9b0437ac1c264a8563f03] above—
 
 [^c21016431]. . . “**adoption order**” has the meaning given by section 119 of the Adoption and Children (Scotland) Act 2007 (asp 4)[^c21007391].
 
@@ -138,13 +138,13 @@ the court shall consider whether it would be appropriate to make the order.
 
 [^c20998351]: Textual amendment: S. 11(1A) repealed (1.3.2005) by [The European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005 (S.S.I. 2005/42)](https://www.legislation.gov.uk/ssi/2005/42), [reg. 9](https://www.legislation.gov.uk/ssi/2005/42/regulation/9) (with [reg. 6](https://www.legislation.gov.uk/ssi/2005/42/regulation/6))
 
-[^key-2c42b3e55dbe596b8d6b7207e097c2d9]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/ukpga/1995/36/section/11/2A) inserted (17.1.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 15(2)](https://www.legislation.gov.uk/asp/2020/16/section/15/2), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/412/regulation/3))
+[^c-2c42b3e55dbe596b8d6b7207e097c2d9]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/ukpga/1995/36/section/11/2A) inserted (17.1.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 15(2)](https://www.legislation.gov.uk/asp/2020/16/section/15/2), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/412/regulation/3))
 
 [^c21005081]: Textual amendment: S. 11(3)(a)(iii) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 107(a)](https://www.legislation.gov.uk/asp/2007/4/section/107/a), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3))
 
 [^c21005101]: Textual amendment: S. 11(3)(aa)(ab) inserted (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 107(b)](https://www.legislation.gov.uk/asp/2007/4/section/107/b), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3))
 
-[^key-3607610d648a8080a59256df20c944cc]: Textual amendment: Words in s. 11(3)(ab) repealed (15.1.2016) by [The Adoption and Children (Scotland) Act 2007 (Amendment of the Children (Scotland) Act 1995) Order 2016 (S.S.I. 2016/21)](https://www.legislation.gov.uk/ssi/2016/21), [arts. 1](https://www.legislation.gov.uk/ssi/2016/21/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/21/article/2/a)
+[^c-3607610d648a8080a59256df20c944cc]: Textual amendment: Words in s. 11(3)(ab) repealed (15.1.2016) by [The Adoption and Children (Scotland) Act 2007 (Amendment of the Children (Scotland) Act 1995) Order 2016 (S.S.I. 2016/21)](https://www.legislation.gov.uk/ssi/2016/21), [arts. 1](https://www.legislation.gov.uk/ssi/2016/21/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/21/article/2/a)
 
 [^c21005131]: Textual amendment: Words in s. 11(3)(b) inserted (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 107(c)](https://www.legislation.gov.uk/asp/2007/4/section/107/c), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3))
 
@@ -158,13 +158,13 @@ the court shall consider whether it would be appropriate to make the order.
 
 [^c21004411]: Textual amendment: Words in s. 11(4)(c) substituted (6.4.2009 for certain purposes, otherwise 6.4.2010) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68](https://www.legislation.gov.uk/ukpga/2008/22/section/68), [Sch. 6 para. 52(2)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/52/2/b); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e) (as amended by [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 3](https://www.legislation.gov.uk/uksi/2009/2232/article/3)); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/987/article/2/g)
 
-[^key-a2267cf33b1c870e584f7b6a66df820b]: Textual amendment: Words in s. 11(4)(c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/9)
+[^c-a2267cf33b1c870e584f7b6a66df820b]: Textual amendment: Words in s. 11(4)(c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/9)
 
 [^c21016391]: Textual amendment: S. 11(4)(d) and preceding word repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(2)](https://www.legislation.gov.uk/asp/2007/4/section/120/2), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3))
 
 [^c21007371]: Textual amendment: Words in s. 11(5) inserted (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/9/2/b); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3))
 
-[^key-4a4847a840e9b0437ac1c264a8563f03]: Textual amendment: Words in s. 11(6) substituted (15.1.2016) by [The Adoption and Children (Scotland) Act 2007 (Amendment of the Children (Scotland) Act 1995) Order 2016 (S.S.I. 2016/21)](https://www.legislation.gov.uk/ssi/2016/21), [arts. 1](https://www.legislation.gov.uk/ssi/2016/21/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2016/21/article/2/b)
+[^c-4a4847a840e9b0437ac1c264a8563f03]: Textual amendment: Words in s. 11(6) substituted (15.1.2016) by [The Adoption and Children (Scotland) Act 2007 (Amendment of the Children (Scotland) Act 1995) Order 2016 (S.S.I. 2016/21)](https://www.legislation.gov.uk/ssi/2016/21), [arts. 1](https://www.legislation.gov.uk/ssi/2016/21/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2016/21/article/2/b)
 
 [^c21016431]: Textual amendment: Words in s. 11(6) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(2)](https://www.legislation.gov.uk/asp/2007/4/section/120/2), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3))
 

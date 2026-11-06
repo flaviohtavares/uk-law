@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Information notices[^key-7bbdfd57be9635d06a238f6d44912566][^key-f4d5d34a3193359d2527a3cd99a8f6e0]
+## 3. Information notices[^c-7bbdfd57be9635d06a238f6d44912566][^c-f4d5d34a3193359d2527a3cd99a8f6e0]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ within the meaning of the Police and Criminal Evidence Act 1984 (see sections 11
 
 ## Annotations
 
-[^key-7bbdfd57be9635d06a238f6d44912566]: Commencement: S. 3 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-7bbdfd57be9635d06a238f6d44912566]: Commencement: S. 3 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-f4d5d34a3193359d2527a3cd99a8f6e0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/28/section/3) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-f4d5d34a3193359d2527a3cd99a8f6e0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/28/section/3) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

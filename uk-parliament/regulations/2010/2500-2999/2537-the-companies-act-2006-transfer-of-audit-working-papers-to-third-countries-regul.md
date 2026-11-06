@@ -48,15 +48,15 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 
 In exercise of the powers conferred by section 2(2) of the European Communities Act 1972 the Secretary of State makes the following Regulations.
 
-## 1. Citation and commencement[^key-ed208f301bc363caf04b3c8dbd7e24fb]
+## 1. Citation and commencement[^c-ed208f301bc363caf04b3c8dbd7e24fb]
 
 (1) These Regulations may be cited as the Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010.
 
 (2) These Regulations (other than regulation 4) come into force on 15th November 2010.
 
-(3)[^key-8f64333f08493468f94d50638f802a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8f64333f08493468f94d50638f802a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transfer of audit working papers to third countries[^key-584cffa4b6070a41a845068d390a6366]
+## 2. Transfer of audit working papers to third countries[^c-584cffa4b6070a41a845068d390a6366]
 
 For section 1253D of the Companies Act 2006 (restriction on transfer of audit working papers to third countries)[^f00003] substitute—
 
@@ -143,7 +143,7 @@ For section 1253D of the Companies Act 2006 (restriction on transfer of audit wo
 >
 > (3) The inspection must be under the leadership of the Secretary of State unless the Secretary of State otherwise permits.
 
-## 3. Working arrangements for transfer of papers[^key-1937104daccda6f01f878d58901f560e]
+## 3. Working arrangements for transfer of papers[^c-1937104daccda6f01f878d58901f560e]
 
 For section 1253E of the Companies Act 2006 (working arrangements for transfer of papers)[^f00005] substitute—
 
@@ -189,11 +189,11 @@ For section 1253E of the Companies Act 2006 (working arrangements for transfer o
 >
 > (9) “Relevant transfer” means any transfer other than a transfer by a statutory auditor under section 1253DC.
 
-## 4. Amendment of definition of approved third country competent authorities with effect from 1 August 2016[^key-4e30d3c96b2411c5dbdabb1c4f6ade7c]
+## 4. Amendment of definition of approved third country competent authorities with effect from 1 August 2016[^c-4e30d3c96b2411c5dbdabb1c4f6ade7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Rules of recognised supervisory bodies as to transfer of audit working papers[^key-9272cc54bcf3bb436e83bcb8827c3b9c]
+## 5. Rules of recognised supervisory bodies as to transfer of audit working papers[^c-9272cc54bcf3bb436e83bcb8827c3b9c]
 
 For paragraph 16A of Schedule 10 to the Companies Act 2006 (rules of recognised supervisory bodies as to transfer of papers to third countries)[^f00006], and the heading before it, substitute—
 
@@ -231,7 +231,7 @@ For paragraph 16A of Schedule 10 to the Companies Act 2006 (rules of recognised 
 >
 > (5) The fourth condition is that the authority has entered into arrangements with the Secretary of State in accordance with section 1253E.
 
-## 6. Minor definitions and index of defined expressions[^key-88c1a822a444d305bd1e9da8241d0af7]
+## 6. Minor definitions and index of defined expressions[^c-88c1a822a444d305bd1e9da8241d0af7]
 
 (1) Section 1261(1) of the Companies Act 2006[^f00007] (minor definitions for Part 42) is amended as follows.
 
@@ -259,7 +259,7 @@ For paragraph 16A of Schedule 10 to the Companies Act 2006 (rules of recognised 
 > | --- | --- |
 > | transfer (in relation to audit working papers) | Section 1261(1). |
 
-## 7. Exercise of functions of Secretary of State[^key-71bc874ac5a6ecc757dd5948cbe2a956]
+## 7. Exercise of functions of Secretary of State[^c-71bc874ac5a6ecc757dd5948cbe2a956]
 
 (1) In the Statutory Auditors (Delegation of Functions etc) Order 2008[^f00008], article 4 (transfer of functions to delegated body) is amended as follows.
 
@@ -269,7 +269,7 @@ For paragraph 16A of Schedule 10 to the Companies Act 2006 (rules of recognised 
 
 > - (d) refusing a request, or directing a statutory auditor to refuse a request, from a third country competent authority in a case referred to in section 1253E(7)(a) (prejudice to sovereignty, security or public order).
 
-## 8. Application of these Regulations[^key-958af9a8b4b6e40d6dab40fedc84c8ee]
+## 8. Application of these Regulations[^c-958af9a8b4b6e40d6dab40fedc84c8ee]
 
 Notwithstanding paragraph 38 of Schedule 4 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007[^f00009] (which limits the application of certain provisions of the Companies Act 2006, including Schedule 10), paragraphs 16A to 16AB of Schedule 10 to the Companies Act 2006 (inserted by these Regulations) apply in relation to the supervision of auditors appointed for any financial year.
 
@@ -313,34 +313,34 @@ A transposition note has been prepared which sets out how the Directive is trans
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-ed208f301bc363caf04b3c8dbd7e24fb]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-ed208f301bc363caf04b3c8dbd7e24fb]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
-[^key-8f64333f08493468f94d50638f802a6f]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/3) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [22(2)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/22/2/a)
+[^c-8f64333f08493468f94d50638f802a6f]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/3) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [22(2)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/22/2/a)
 
-[^key-584cffa4b6070a41a845068d390a6366]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-584cffa4b6070a41a845068d390a6366]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1253D was inserted by regulation 15 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 
 [^f00004]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-1937104daccda6f01f878d58901f560e]: Commencement: Reg. 3 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-1937104daccda6f01f878d58901f560e]: Commencement: Reg. 3 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
 [^f00005]: Footnote: Section 1253E was inserted by regulation 15 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 
-[^key-4e30d3c96b2411c5dbdabb1c4f6ade7c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2537/regulation/4) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/22/2/b)
+[^c-4e30d3c96b2411c5dbdabb1c4f6ade7c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2537/regulation/4) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/22/2/b)
 
-[^key-9272cc54bcf3bb436e83bcb8827c3b9c]: Commencement: Reg. 5 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-9272cc54bcf3bb436e83bcb8827c3b9c]: Commencement: Reg. 5 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
 [^f00006]: Footnote: Paragraph 16A was inserted by regulation 24 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 
-[^key-88c1a822a444d305bd1e9da8241d0af7]: Commencement: Reg. 6 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-88c1a822a444d305bd1e9da8241d0af7]: Commencement: Reg. 6 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
 [^f00007]: Footnote: Section 1261 was amended by regulation 2 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 
-[^key-71bc874ac5a6ecc757dd5948cbe2a956]: Commencement: Reg. 7 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-71bc874ac5a6ecc757dd5948cbe2a956]: Commencement: Reg. 7 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2008/496](https://www.legislation.gov.uk/uksi/2008/496).
 
-[^key-958af9a8b4b6e40d6dab40fedc84c8ee]: Commencement: Reg. 8 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+[^c-958af9a8b4b6e40d6dab40fedc84c8ee]: Commencement: Reg. 8 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495).

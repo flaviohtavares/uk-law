@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Entitlement to vote (customers)[^key-a0c87f78d87c36faf7db844d14ee7a5b]
+## 54. Entitlement to vote (customers)[^c-a0c87f78d87c36faf7db844d14ee7a5b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0c87f78d87c36faf7db844d14ee7a5b]: Commencement: Rule 54 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a0c87f78d87c36faf7db844d14ee7a5b]: Commencement: Rule 54 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

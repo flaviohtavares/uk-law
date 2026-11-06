@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Licensing appeals[^key-6725d9715ea814694b212b09b7f82d70]
+## 17. Licensing appeals[^c-6725d9715ea814694b212b09b7f82d70]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6725d9715ea814694b212b09b7f82d70]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/16/section/17) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-6725d9715ea814694b212b09b7f82d70]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/16/section/17) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

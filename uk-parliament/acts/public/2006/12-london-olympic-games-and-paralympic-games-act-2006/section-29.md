@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Role of Olympic Delivery Authority[^key-d221cb55f6267cc40800d4a470bc00c9]
+## 29. Role of Olympic Delivery Authority[^c-d221cb55f6267cc40800d4a470bc00c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d221cb55f6267cc40800d4a470bc00c9]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/2006/12/section/29) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(i)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/i)
+[^c-d221cb55f6267cc40800d4a470bc00c9]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/2006/12/section/29) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(i)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/i)

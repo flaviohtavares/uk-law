@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Liability of occupier for rates unpaid by owner[^key-d0d9774cce2b656b3f234924cccb9e39]
+## 23. Liability of occupier for rates unpaid by owner[^c-d0d9774cce2b656b3f234924cccb9e39]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d9774cce2b656b3f234924cccb9e39]: Textual amendment: S. 23 repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), s. 13(1), Sch. and expressed to be repealed by s. 4of said Act and [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305)
+[^c-d0d9774cce2b656b3f234924cccb9e39]: Textual amendment: S. 23 repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), s. 13(1), Sch. and expressed to be repealed by s. 4of said Act and [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305)

@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 323 and 333(2A) of the Town and Country Planning Act 1990[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-2486431a3a11dc4dbb4e7a3d409756cd]
+## 1. Citation and commencement[^c-2486431a3a11dc4dbb4e7a3d409756cd]
 
 These Regulations may be cited as the Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2009 and shall come into force on 6th April 2009.
 
-## 2. Interpretation[^key-9cc88af973e403aff02db1903233741e]
+## 2. Interpretation[^c-9cc88af973e403aff02db1903233741e]
 
 (1) In these Regulations—
 
@@ -99,7 +99,7 @@ These Regulations may be cited as the Town and Country Planning (Appeals) (Writt
 
 (7) A requirement in these Regulations that any document should be in writing is fulfilled where that document meets the criteria in paragraph (4), and “written” and cognate expressions are to be construed accordingly.
 
-## 3. Application[^key-7f7c2f47ba93ca29a15d7ec1f0a78de7]
+## 3. Application[^c-7f7c2f47ba93ca29a15d7ec1f0a78de7]
 
 (1) These Regulations apply in relation to England only.
 
@@ -119,7 +119,7 @@ These Regulations may be cited as the Town and Country Planning (Appeals) (Writt
 
 ## PART 1 — Procedure for Householder Appeals
 
-### 4. Notification of receipt of appeal[^key-51097b3ab1e1598eea0fd6500e9c3dd7]
+### 4. Notification of receipt of appeal[^c-51097b3ab1e1598eea0fd6500e9c3dd7]
 
 The Secretary of State shall, as soon as practicable after a determination has been made under section 319A of the Act, advise the appellant and the local planning authority in writing—
 
@@ -127,14 +127,14 @@ The Secretary of State shall, as soon as practicable after a determination has b
 - (b) that the appeal will follow the procedures set out in Part 1 of these Regulations; and
 - (c) of the address to which written communications to the Secretary of State about the appeal are to be sent.
 
-### 5. Questionnaire[^key-9fb32b292294809149bc132f984794c1]
+### 5. Questionnaire[^c-9fb32b292294809149bc132f984794c1]
 
 The local planning authority shall, within 5 working days of the starting date, send to the Secretary of State and copy to the appellant—
 
 - (a) a completed questionnaire; and
 - (b) a copy of each of the documents referred to in it.
 
-### 6. Notice to interested persons[^key-fd0a812d819e8ae285a3390f8a3f202b]
+### 6. Notice to interested persons[^c-fd0a812d819e8ae285a3390f8a3f202b]
 
 (1) The local planning authority shall give written notice of the appeal within 5 working days of the starting date to—
 
@@ -149,7 +149,7 @@ The local planning authority shall, within 5 working days of the starting date, 
 - (d) set out the matters notified to the appellant and the local planning authority under regulation 4(a) and (b); and
 - (e) state that any representations made to the local planning authority in relation to the application, before it was determined, will be sent to the Secretary of State and the appellant by the local planning authority and will be considered by the Secretary of State when determining the appeal unless they are withdrawn in writing within 4 weeks of the starting date.
 
-### 7. Representations[^key-b5eb2518b86ae8ec32728382ace74860]
+### 7. Representations[^c-b5eb2518b86ae8ec32728382ace74860]
 
 (1) The notice of appeal and the documents accompanying it shall comprise the appellant’s representations in relation to the appeal.
 
@@ -157,7 +157,7 @@ The local planning authority shall, within 5 working days of the starting date, 
 
 (3) The Secretary of State shall, as soon as practicable after receipt, send a copy of the representations made by the local planning authority to the appellant and shall send a copy of the representations made by the appellant to the local planning authority.
 
-### 8. Further information[^key-41de8e28ac95c1353999573cbbbedb23]
+### 8. Further information[^c-41de8e28ac95c1353999573cbbbedb23]
 
 (1) The Secretary of State may in writing require the appellant, local planning authority and other interested persons, to provide such further information relevant to the appeal as may be specified.
 
@@ -165,7 +165,7 @@ The local planning authority shall, within 5 working days of the starting date, 
 
 (3) The Secretary of State may disregard any further information unless that information has been requested pursuant to paragraph (1).
 
-### 9. Transfer of appeal from Part 1[^key-6b3c0d5b3ef7837c7b37eb234de606f7]
+### 9. Transfer of appeal from Part 1[^c-6b3c0d5b3ef7837c7b37eb234de606f7]
 
 (1) At any time before an appeal is determined, the Secretary of State may determine that the procedures set out in this Part are no longer suitable for that appeal.
 
@@ -174,7 +174,7 @@ The local planning authority shall, within 5 working days of the starting date, 
 - (a) the appeal is to be transferred from the procedures set out in Part 1 of these Regulations; and
 - (b) the appeal will proceed in accordance with Part 2 of these Regulations to such extent as the Secretary of State may specify having regard to any steps already taken in relation to those proceedings.
 
-### 10. Decision on householder appeal under Part 1[^key-b7df820c24fc3b550be5928cba1aabea]
+### 10. Decision on householder appeal under Part 1[^c-b7df820c24fc3b550be5928cba1aabea]
 
 (1) The Secretary of State may, after giving the appellant and the local planning authority written notice of the intention to do so, proceed to a decision on an appeal taking into account only those representations which have been sent within the relevant time limits, where it appears that there is sufficient material to enable a decision to be reached.
 
@@ -182,7 +182,7 @@ The local planning authority shall, within 5 working days of the starting date, 
 
 ## PART 2 — Procedures for other appeals
 
-### 11. Notification of receipt of appeal[^key-2e0d6fa1855be888682da5192d8a50e0]
+### 11. Notification of receipt of appeal[^c-2e0d6fa1855be888682da5192d8a50e0]
 
 The Secretary of State shall, as soon as practicable after a determination has been made under section 319A of the Act, advise the appellant and the local planning authority in writing—
 
@@ -190,14 +190,14 @@ The Secretary of State shall, as soon as practicable after a determination has b
 - (b) that the appeal will follow the procedures set out in Part 2 of these Regulations; and
 - (c) of the address to which written communications to the Secretary of State about the appeal are to be sent.
 
-### 12. Questionnaire[^key-0b14de7f05ef636da30ab30309146e8e]
+### 12. Questionnaire[^c-0b14de7f05ef636da30ab30309146e8e]
 
 The local planning authority shall, within 2 weeks of the starting date, send to the Secretary of State and copy to the appellant—
 
 - (a) a completed questionnaire; and
 - (b) a copy of each of the documents referred to in it.
 
-### 13. Notice to interested persons[^key-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]
+### 13. Notice to interested persons[^c-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]
 
 (1) The local planning authority shall give written notice of the appeal within 2 weeks of the starting date to —
 
@@ -213,7 +213,7 @@ The local planning authority shall, within 2 weeks of the starting date, send to
 - (e) state that any representations made to the local planning authority in relation to the application, before it was determined, will be sent to the Secretary of State and the appellant by the local planning authority and will be considered by the Secretary of State when determining the appeal unless they are withdrawn, in writing, within 6 weeks of the starting date; and
 - (f) state that further written representations may be sent to the Secretary of State within 6 weeks of the starting date.
 
-### 14. Representations[^key-69739742fcd9858df03a22b7f67adedb]
+### 14. Representations[^c-69739742fcd9858df03a22b7f67adedb]
 
 (1) The notice of appeal and the documents accompanying it shall comprise the appellant’s representations in relation to the appeal.
 
@@ -231,7 +231,7 @@ The local planning authority shall, within 2 weeks of the starting date, send to
 
 (8) Where a party to which this regulation applies elects to use electronic communications for submitting, sending, copying or sending a copy of any representations, questionnaire or other documents, references to “2 copies of” in paragraphs (3), (4) and (6) shall be omitted.
 
-### 15. Third party representations[^key-e09f34ab71b166ee890dad3cbb47554b]
+### 15. Third party representations[^c-e09f34ab71b166ee890dad3cbb47554b]
 
 (1) If a person notified under regulation 13(1) wishes to send representations to the Secretary of State, they shall do so, in writing, within 6 weeks of the starting date.
 
@@ -240,7 +240,7 @@ The local planning authority shall, within 2 weeks of the starting date, send to
 - (a) send to the appellant and the local planning authority, as soon as practicable after receipt, a copy each of all of such representations; and
 - (b) specify a period of not less than 2 weeks within which any comments on these representations must be sent to the Secretary of State.
 
-### 16. Decision on appeal[^key-ed095704f6c7235cf1c52dfa3db7f63e]
+### 16. Decision on appeal[^c-ed095704f6c7235cf1c52dfa3db7f63e]
 
 (1) The Secretary of State may proceed to a decision on an appeal taking into account only such written representations as have been sent within the relevant time limits.
 
@@ -250,11 +250,11 @@ The local planning authority shall, within 2 weeks of the starting date, send to
 
 ## PART 3 — Miscellaneous
 
-### 17. Allowing further time[^key-25ceb8dbd8aefc5a3d9a52cd6db9bf20]
+### 17. Allowing further time[^c-25ceb8dbd8aefc5a3d9a52cd6db9bf20]
 
 The Secretary of State may in a particular case give directions setting later time limits than those prescribed by these Regulations.
 
-### 18. Mayor of London[^key-6051fae8529bd113eca1916b6b434ade]
+### 18. Mayor of London[^c-6051fae8529bd113eca1916b6b434ade]
 
 (1) In this regulation “the Mayor” means the Mayor of London.
 
@@ -278,7 +278,7 @@ The Secretary of State may in a particular case give directions setting later ti
 - (g) in regulation 15, in paragraph (2)(a), after “the appellant” insert “, the Mayor”;
 - (h) in regulation 16, in paragraph (2), after “the appellant” insert “, the Mayor”.
 
-### 19. Withdrawal of consent to use of electronic communications[^key-0c7e4e74a86818a30001cb0246ab3f13]
+### 19. Withdrawal of consent to use of electronic communications[^c-0c7e4e74a86818a30001cb0246ab3f13]
 
 Where a person is no longer willing to accept the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically, the person shall give notice in writing—
 
@@ -287,7 +287,7 @@ Where a person is no longer willing to accept the use of electronic communicatio
 
 and such withdrawal or revocation shall be final and shall take effect on a date specified by the person in the notice but not less than 1 week after the date on which the notice is given.
 
-### 20. Revocation transitional and saving provision[^key-2c6264426e2e2f8c4492156c27d53d2b]
+### 20. Revocation transitional and saving provision[^c-2c6264426e2e2f8c4492156c27d53d2b]
 
 (1) Subject to paragraphs (2), the Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2000[^f00003] (“the 2000 Regulations”) are revoked.
 
@@ -334,46 +334,46 @@ An impact assessment has been prepared in relation to these Regulations. This as
 
 [^f00001]: Footnote: [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8). The functions of the Secretary of State under sections 323 and 333 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999.672](https://www.legislation.gov.uk/uksi/1999/672)); see the entry in Schedule 1 for the 1990 Act. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), the functions were transferred to the Welsh Ministers. Section 323(1A) was inserted by section 196 and paragraph 12 of Schedule 10 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 319A was inserted by section 196 of that Act. Section 333(2A) was inserted by the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), Schedule 6, paragraphs 1 and 14. See section 336 of the Act for the meaning of “prescribed”.
 
-[^key-2486431a3a11dc4dbb4e7a3d409756cd]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-2486431a3a11dc4dbb4e7a3d409756cd]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-9cc88af973e403aff02db1903233741e]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-9cc88af973e403aff02db1903233741e]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
 [^f00002]: Footnote: [2000 (c.7)](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), see section 406(1) and paragraph 158 of Schedule 17.
 
-[^key-7f7c2f47ba93ca29a15d7ec1f0a78de7]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-7f7c2f47ba93ca29a15d7ec1f0a78de7]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-51097b3ab1e1598eea0fd6500e9c3dd7]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-51097b3ab1e1598eea0fd6500e9c3dd7]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-9fb32b292294809149bc132f984794c1]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-9fb32b292294809149bc132f984794c1]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-fd0a812d819e8ae285a3390f8a3f202b]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-fd0a812d819e8ae285a3390f8a3f202b]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-b5eb2518b86ae8ec32728382ace74860]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-b5eb2518b86ae8ec32728382ace74860]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-41de8e28ac95c1353999573cbbbedb23]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-41de8e28ac95c1353999573cbbbedb23]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-6b3c0d5b3ef7837c7b37eb234de606f7]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-6b3c0d5b3ef7837c7b37eb234de606f7]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-b7df820c24fc3b550be5928cba1aabea]: Commencement: Reg. 10 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-b7df820c24fc3b550be5928cba1aabea]: Commencement: Reg. 10 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-2e0d6fa1855be888682da5192d8a50e0]: Commencement: Reg. 11 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-2e0d6fa1855be888682da5192d8a50e0]: Commencement: Reg. 11 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-0b14de7f05ef636da30ab30309146e8e]: Commencement: Reg. 12 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-0b14de7f05ef636da30ab30309146e8e]: Commencement: Reg. 12 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-69739742fcd9858df03a22b7f67adedb]: Commencement: Reg. 14 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-69739742fcd9858df03a22b7f67adedb]: Commencement: Reg. 14 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-e09f34ab71b166ee890dad3cbb47554b]: Commencement: Reg. 15 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-e09f34ab71b166ee890dad3cbb47554b]: Commencement: Reg. 15 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-ed095704f6c7235cf1c52dfa3db7f63e]: Commencement: Reg. 16 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-ed095704f6c7235cf1c52dfa3db7f63e]: Commencement: Reg. 16 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-25ceb8dbd8aefc5a3d9a52cd6db9bf20]: Commencement: Reg. 17 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-25ceb8dbd8aefc5a3d9a52cd6db9bf20]: Commencement: Reg. 17 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-6051fae8529bd113eca1916b6b434ade]: Commencement: Reg. 18 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-6051fae8529bd113eca1916b6b434ade]: Commencement: Reg. 18 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-0c7e4e74a86818a30001cb0246ab3f13]: Commencement: Reg. 19 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-0c7e4e74a86818a30001cb0246ab3f13]: Commencement: Reg. 19 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
-[^key-2c6264426e2e2f8c4492156c27d53d2b]: Commencement: Reg. 20 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+[^c-2c6264426e2e2f8c4492156c27d53d2b]: Commencement: Reg. 20 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2000/1628](https://www.legislation.gov.uk/uksi/2000/1628). Amended by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956).

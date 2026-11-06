@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2631a3f13088b571946f3d0699e25c54][^key-d1b1bd0412398f2dcf5601cee6d70048][^key-acc3158e88f025071906bc7ddc168241][^key-54df7703a88a47ac834165a9daa5ede1][^key-62db79581f2a2923debd6d531757b523][^key-664ca98d5b3c69ea32fd281438cb8b5b][^key-56de2635da80113e4b062dd92e8aa837][^key-573b23793fd4255f7c7244fa520cfa71][^key-10c35fc1bc61df604cb3929d69c862a8][^key-01cca335ca9b248e338765ca23d65f1b][^key-08713f6a512a96d8a417d76ac21dc138][^key-b1a55ab6addd21308ed5a52f6c53a8ad][^key-1b54120f70138682abf08a1e1c98bb61] Schedule 26 contains minor and consequential amendments.
+(1)[^c-2631a3f13088b571946f3d0699e25c54][^c-d1b1bd0412398f2dcf5601cee6d70048][^c-acc3158e88f025071906bc7ddc168241][^c-54df7703a88a47ac834165a9daa5ede1][^c-62db79581f2a2923debd6d531757b523][^c-664ca98d5b3c69ea32fd281438cb8b5b][^c-56de2635da80113e4b062dd92e8aa837][^c-573b23793fd4255f7c7244fa520cfa71][^c-10c35fc1bc61df604cb3929d69c862a8][^c-01cca335ca9b248e338765ca23d65f1b][^c-08713f6a512a96d8a417d76ac21dc138][^c-b1a55ab6addd21308ed5a52f6c53a8ad][^c-1b54120f70138682abf08a1e1c98bb61] Schedule 26 contains minor and consequential amendments.
 
-(2)[^key-2631a3f13088b571946f3d0699e25c54][^key-d1b1bd0412398f2dcf5601cee6d70048][^key-61d2f4c8ebacb1d0b7bd974b5c3f1f38][^key-e257a8a1b4330192c8a070abb4ff488c][^key-54df7703a88a47ac834165a9daa5ede1][^key-f55da4f4240b2af3ec41912fd2f12ba1][^key-9b949efeb89ad5ba3a3636c553acb3e3][^key-399cf280590cdefdd0ff05760d3e1832][^key-a8140a7fd063846e7f4b609fe21b126a][^key-573b23793fd4255f7c7244fa520cfa71][^key-01cca335ca9b248e338765ca23d65f1b] Schedule 27 contains transitory, transitional and saving provisions.
+(2)[^c-2631a3f13088b571946f3d0699e25c54][^c-d1b1bd0412398f2dcf5601cee6d70048][^c-61d2f4c8ebacb1d0b7bd974b5c3f1f38][^c-e257a8a1b4330192c8a070abb4ff488c][^c-54df7703a88a47ac834165a9daa5ede1][^c-f55da4f4240b2af3ec41912fd2f12ba1][^c-9b949efeb89ad5ba3a3636c553acb3e3][^c-399cf280590cdefdd0ff05760d3e1832][^c-a8140a7fd063846e7f4b609fe21b126a][^c-573b23793fd4255f7c7244fa520cfa71][^c-01cca335ca9b248e338765ca23d65f1b] Schedule 27 contains transitory, transitional and saving provisions.
 
 (3) The Secretary of State may by order make—
 
@@ -56,40 +56,40 @@ as the Secretary of State considers appropriate for the general purposes, or any
 
 [^c1931120]: Commencement: S. 148(1) in force at Royal Assent for specified purposes, see s. 153(1)(a)(k)(3) and in force for further specified purposes at 8.7.2008, see s. 153(2)(b)(c)(3); s. 148(2) in force for specified purposes at 8.7.2008, see s. 153(2)(f)(3); s. 148(3)-(7) in force at Royal Assent, see [s. 153(1)(f)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/f)
 
-[^key-2631a3f13088b571946f3d0699e25c54]: Commencement: S. 148(1)(2) in force at 9.6.2008 for specified purposes by [S.I. 2008/1466](https://www.legislation.gov.uk/uksi/2008/1466), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1466/article/2/b)
+[^c-2631a3f13088b571946f3d0699e25c54]: Commencement: S. 148(1)(2) in force at 9.6.2008 for specified purposes by [S.I. 2008/1466](https://www.legislation.gov.uk/uksi/2008/1466), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1466/article/2/b)
 
-[^key-d1b1bd0412398f2dcf5601cee6d70048]: Commencement: S. 148(1)(2) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/46)
+[^c-d1b1bd0412398f2dcf5601cee6d70048]: Commencement: S. 148(1)(2) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/46)
 
-[^key-acc3158e88f025071906bc7ddc168241]: Commencement: S. 148(1) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/12)
+[^c-acc3158e88f025071906bc7ddc168241]: Commencement: S. 148(1) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/12)
 
-[^key-54df7703a88a47ac834165a9daa5ede1]: Commencement: S. 148(1)(2) in force at 26.1.2009 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/h)
+[^c-54df7703a88a47ac834165a9daa5ede1]: Commencement: S. 148(1)(2) in force at 26.1.2009 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/h)
 
-[^key-62db79581f2a2923debd6d531757b523]: Commencement: S. 148(1) in force at 27.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/860/article/2/2/d)
+[^c-62db79581f2a2923debd6d531757b523]: Commencement: S. 148(1) in force at 27.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/860/article/2/2/d)
 
-[^key-664ca98d5b3c69ea32fd281438cb8b5b]: Commencement: S. 148(1) in force at 8.7.2009 for specified purposes by [S.I. 2009/1678](https://www.legislation.gov.uk/uksi/2009/1678), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2009/1678/article/2/a), [3(a)](https://www.legislation.gov.uk/uksi/2009/1678/article/3/a)
+[^c-664ca98d5b3c69ea32fd281438cb8b5b]: Commencement: S. 148(1) in force at 8.7.2009 for specified purposes by [S.I. 2009/1678](https://www.legislation.gov.uk/uksi/2009/1678), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2009/1678/article/2/a), [3(a)](https://www.legislation.gov.uk/uksi/2009/1678/article/3/a)
 
-[^key-56de2635da80113e4b062dd92e8aa837]: Commencement: S. 148(1) in force at 31.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/e)
+[^c-56de2635da80113e4b062dd92e8aa837]: Commencement: S. 148(1) in force at 31.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/e)
 
-[^key-573b23793fd4255f7c7244fa520cfa71]: Commencement: S. 148(1)(2) in force at 16.11.2009 for specified purposes by [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/2)
+[^c-573b23793fd4255f7c7244fa520cfa71]: Commencement: S. 148(1)(2) in force at 16.11.2009 for specified purposes by [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/2)
 
-[^key-10c35fc1bc61df604cb3929d69c862a8]: Commencement: S. 148(1) in force at 16.11.2009 for specified purposes by [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/3)
+[^c-10c35fc1bc61df604cb3929d69c862a8]: Commencement: S. 148(1) in force at 16.11.2009 for specified purposes by [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/3)
 
-[^key-01cca335ca9b248e338765ca23d65f1b]: Commencement: S. 148(1)(2) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(k)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/k)
+[^c-01cca335ca9b248e338765ca23d65f1b]: Commencement: S. 148(1)(2) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(k)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/k)
 
-[^key-08713f6a512a96d8a417d76ac21dc138]: Commencement: S. 148(1) in force at 23.3.2010 for specified purposes by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/712/article/2/b)
+[^c-08713f6a512a96d8a417d76ac21dc138]: Commencement: S. 148(1) in force at 23.3.2010 for specified purposes by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/712/article/2/b)
 
-[^key-b1a55ab6addd21308ed5a52f6c53a8ad]: Commencement: S. 148(1) in force at 1.4.2010 for specified purposes by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/712/article/3/a)
+[^c-b1a55ab6addd21308ed5a52f6c53a8ad]: Commencement: S. 148(1) in force at 1.4.2010 for specified purposes by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/712/article/3/a)
 
-[^key-1b54120f70138682abf08a1e1c98bb61]: Commencement: S. 148(1) in force at 8.4.2013 by [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/616/article/2/a)
+[^c-1b54120f70138682abf08a1e1c98bb61]: Commencement: S. 148(1) in force at 8.4.2013 by [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/616/article/2/a)
 
-[^key-61d2f4c8ebacb1d0b7bd974b5c3f1f38]: Commencement: S. 148(2) in force at 1.12.2008 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/e)
+[^c-61d2f4c8ebacb1d0b7bd974b5c3f1f38]: Commencement: S. 148(2) in force at 1.12.2008 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/e)
 
-[^key-e257a8a1b4330192c8a070abb4ff488c]: Commencement: S. 148(2) in force at 19.12.2008 for specified purposes by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/c)
+[^c-e257a8a1b4330192c8a070abb4ff488c]: Commencement: S. 148(2) in force at 19.12.2008 for specified purposes by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/c)
 
-[^key-f55da4f4240b2af3ec41912fd2f12ba1]: Commencement: S. 148(2) in force at 1.2.2009 for specified purposes by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/140/article/2/d)
+[^c-f55da4f4240b2af3ec41912fd2f12ba1]: Commencement: S. 148(2) in force at 1.2.2009 for specified purposes by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/140/article/2/d)
 
-[^key-9b949efeb89ad5ba3a3636c553acb3e3]: Commencement: S. 148(2) in force at 1.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/e)
+[^c-9b949efeb89ad5ba3a3636c553acb3e3]: Commencement: S. 148(2) in force at 1.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/e)
 
-[^key-399cf280590cdefdd0ff05760d3e1832]: Commencement: S. 148(2) in force at 3.8.2009 for specified purposes by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/u)
+[^c-399cf280590cdefdd0ff05760d3e1832]: Commencement: S. 148(2) in force at 3.8.2009 for specified purposes by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/u)
 
-[^key-a8140a7fd063846e7f4b609fe21b126a]: Commencement: S. 148(2) in force at 1.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(p)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/p)
+[^c-a8140a7fd063846e7f4b609fe21b126a]: Commencement: S. 148(2) in force at 1.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(p)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/p)

@@ -27,7 +27,7 @@ Section 133.
 **1.** (1) The articles of government for a county, controlled, special agreement or maintained special school shall provide—
 
 - (a) for the constitution of a selection panel whenever such a panel is required by virtue of this Schedule in relation to the appointment of a head teacher or deputy head teacher, and
-- (b) for a selection panel to consist of a specified number of persons appointed to it by the local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] and a specified number of governors appointed to it by the governing body.
+- (b) for a selection panel to consist of a specified number of persons appointed to it by the local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] and a specified number of governors appointed to it by the governing body.
 
 (2) Neither of the numbers specified by virtue of sub-paragraph (1)(b) shall be less than three; and the number specified in relation to appointments made by the governing body shall not be less than the number specified in relation to appointments made by the authority.
 
@@ -225,4 +225,4 @@ shall be entitled to be present for the purpose of giving advice.
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

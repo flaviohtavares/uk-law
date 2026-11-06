@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Directions from Secretary of State[^key-9a33c5d0a955a0ef7d4e1744c7963f74]
+## 92. Directions from Secretary of State[^c-9a33c5d0a955a0ef7d4e1744c7963f74]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a33c5d0a955a0ef7d4e1744c7963f74]: Commencement: S. 92 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-9a33c5d0a955a0ef7d4e1744c7963f74]: Commencement: S. 92 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

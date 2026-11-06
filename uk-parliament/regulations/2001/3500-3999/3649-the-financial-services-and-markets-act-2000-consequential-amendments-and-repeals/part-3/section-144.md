@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Salary related occupational pension schemes: discharge of liabilities by insurance etc[^key-794fe05484129a63aee3b3203053e4bf]
+## 144. Salary related occupational pension schemes: discharge of liabilities by insurance etc[^c-794fe05484129a63aee3b3203053e4bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 74 of the Pensions Act 1995 (discharge of liabilities by insurance et
 
 ## Annotations
 
-[^key-794fe05484129a63aee3b3203053e4bf]: Commencement: Art. 144 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-794fe05484129a63aee3b3203053e4bf]: Commencement: Art. 144 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

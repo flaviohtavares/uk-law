@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Illegal canvassing by police officers[^key-15b2597c52f0abc45f185b5160c1d91a]
+## 68. Illegal canvassing by police officers[^c-15b2597c52f0abc45f185b5160c1d91a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15b2597c52f0abc45f185b5160c1d91a]: Commencement: Art. 68 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-15b2597c52f0abc45f185b5160c1d91a]: Commencement: Art. 68 in force at 16.12.2015 in accordance with art. 1(1)

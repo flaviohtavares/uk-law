@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. All drivers[^key-a6df83e2bcaf977e9d1275e53c0ba3ec]
+## 10. All drivers[^c-a6df83e2bcaf977e9d1275e53c0ba3ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,9 +60,9 @@ summary: ''
 >
 > the person to whom the notice is delivered must give him a fixed penalty notice in respect of the offence to which the notice under subsection (5) above relates.
 
-(5)[^key-c571a0e2c3bc5ae3a5419fc2cb1d6a0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c571a0e2c3bc5ae3a5419fc2cb1d6a0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c571a0e2c3bc5ae3a5419fc2cb1d6a0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c571a0e2c3bc5ae3a5419fc2cb1d6a0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Omit section 57 (endorsement of counterparts without hearings).
 
@@ -70,16 +70,16 @@ summary: ''
 
 (9) In subsection (1), omit “who is not the holder of a licence”.
 
-(10)[^key-95fd520c33fb07a50bc4291ac0972bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-95fd520c33fb07a50bc4291ac0972bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-95fd520c33fb07a50bc4291ac0972bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-95fd520c33fb07a50bc4291ac0972bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Schedule 3 contains further amendments about the endorsement of driving records in the case of all drivers.
 
 ## Annotations
 
-[^key-a6df83e2bcaf977e9d1275e53c0ba3ec]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/49/section/10) in force at 8.6.2015 by [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/560/article/3/a) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-a6df83e2bcaf977e9d1275e53c0ba3ec]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/49/section/10) in force at 8.6.2015 by [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/560/article/3/a) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-c571a0e2c3bc5ae3a5419fc2cb1d6a0e]: Textual amendment: [S. 10(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/5)[(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/6) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 31(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/31/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-c571a0e2c3bc5ae3a5419fc2cb1d6a0e]: Textual amendment: [S. 10(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/5)[(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/6) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 31(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/31/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-95fd520c33fb07a50bc4291ac0972bb0]: Textual amendment: [S. 10(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/10)[(11)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/11) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 31(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/31/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-95fd520c33fb07a50bc4291ac0972bb0]: Textual amendment: [S. 10(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/10)[(11)](https://www.legislation.gov.uk/ukpga/2006/49/section/10/11) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 31(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/31/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

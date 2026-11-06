@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172. Effect of protected status: general[^key-204e495b9ae75a0653d3659e1d14d86c]
+## 172. Effect of protected status: general[^c-204e495b9ae75a0653d3659e1d14d86c]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
   has no higher right to recover the debt than a creditor who has acceded to, or been deemed by virtue of section 170(2) to have acceded to, the trust deed, and
 - (b) an application for sequestration of the debtor's estate may not be made by the debtor while the trust deed subsists.
 
-(2) A creditor ceases to be deemed (by virtue of section 170(2)) to have acceded to a trust deed if AiB agrees that the debtor should not be discharged from the trust deed under section 184A[^key-f5b0aa1af6faf7bc28cba506dc15d727].
+(2) A creditor ceases to be deemed (by virtue of section 170(2)) to have acceded to a trust deed if AiB agrees that the debtor should not be discharged from the trust deed under section 184A[^c-f5b0aa1af6faf7bc28cba506dc15d727].
 
 (3) Where a secured creditor's agreement has been obtained by virtue of section 166(2)(b) and the trust deed becomes a protected trust deed, that creditor is not entitled—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-204e495b9ae75a0653d3659e1d14d86c]: Commencement: S. 172 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-204e495b9ae75a0653d3659e1d14d86c]: Commencement: S. 172 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-f5b0aa1af6faf7bc28cba506dc15d727]: Textual amendment: Words in [s. 172(2)](https://www.legislation.gov.uk/asp/2016/21/section/172/2) substituted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/2)
+[^c-f5b0aa1af6faf7bc28cba506dc15d727]: Textual amendment: Words in [s. 172(2)](https://www.legislation.gov.uk/asp/2016/21/section/172/2) substituted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/2)

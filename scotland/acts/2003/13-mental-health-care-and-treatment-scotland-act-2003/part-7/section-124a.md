@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124A. Transfer to other hospital unit[^key-43fe6cf0c890ddaa3e6a1c188937af3a]
+## 124A. Transfer to other hospital unit[^c-43fe6cf0c890ddaa3e6a1c188937af3a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43fe6cf0c890ddaa3e6a1c188937af3a]: Textual amendment: [S. 124A](https://www.legislation.gov.uk/asp/2003/13/section/124A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 13(2)](https://www.legislation.gov.uk/asp/2015/9/section/13/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-43fe6cf0c890ddaa3e6a1c188937af3a]: Textual amendment: [S. 124A](https://www.legislation.gov.uk/asp/2003/13/section/124A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 13(2)](https://www.legislation.gov.uk/asp/2015/9/section/13/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

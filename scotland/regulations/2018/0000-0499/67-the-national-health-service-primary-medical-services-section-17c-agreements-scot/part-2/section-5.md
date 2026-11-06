@@ -28,9 +28,9 @@ summary: ''
   - (i) maternity leave;
   - (ii) paternity leave;
   - (iii) adoption leave;
-  - (iv) parental leave; [^key-ea9a43c7dd901e7ccfb838aac1857499]...
-  - (v) shared parental leave ; or[^key-1bfd342e63258ce3ff5b79fd942f4e77]
-  - (vi)[^key-e31cf2420f278881ac01e7ebb742547c] neonatal care leave,
+  - (iv) parental leave; [^c-ea9a43c7dd901e7ccfb838aac1857499]...
+  - (v) shared parental leave ; or[^c-1bfd342e63258ce3ff5b79fd942f4e77]
+  - (vi)[^c-e31cf2420f278881ac01e7ebb742547c] neonatal care leave,
 
   as determined by the period of entitlement of the said person;
 - (d) a period of time when a person has been incapable of work due to sickness, injury or pregnancy;
@@ -45,10 +45,10 @@ summary: ''
 
 [^f00058]: Footnote: Section 17CA was inserted into the Act by section 38 of the Tobacco and Primary Medical Services (Scotland) Act [2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3).
 
-[^key-ea9a43c7dd901e7ccfb838aac1857499]: Textual amendment: Word in [reg. 5(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2018/67/regulation/5/3/c/iv) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/27/2/a)
+[^c-ea9a43c7dd901e7ccfb838aac1857499]: Textual amendment: Word in [reg. 5(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2018/67/regulation/5/3/c/iv) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/27/2/a)
 
-[^key-1bfd342e63258ce3ff5b79fd942f4e77]: Textual amendment: Word in [reg. 5(3)(c)(v)](https://www.legislation.gov.uk/ssi/2018/67/regulation/5/3/c/v) substituted for comma (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/27/2/b)
+[^c-1bfd342e63258ce3ff5b79fd942f4e77]: Textual amendment: Word in [reg. 5(3)(c)(v)](https://www.legislation.gov.uk/ssi/2018/67/regulation/5/3/c/v) substituted for comma (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/27/2/b)
 
-[^key-e31cf2420f278881ac01e7ebb742547c]: Textual amendment: [Reg. 5(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2018/67/regulation/5/3/c/vi) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2025/201/regulation/27/2/c)
+[^c-e31cf2420f278881ac01e7ebb742547c]: Textual amendment: [Reg. 5(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2018/67/regulation/5/3/c/vi) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2025/201/regulation/27/2/c)
 
 [^f00059]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54). Section 34C was inserted by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).

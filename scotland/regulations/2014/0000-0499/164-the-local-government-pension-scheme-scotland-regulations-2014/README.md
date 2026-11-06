@@ -32,7 +32,7 @@ summary: ''
 
 Public Service Pensions
 
-The Local Government Pension Scheme (Scotland) Regulations 2014 (revoked)[^key-356a63b3cc973a2309320da4a1d80054]
+The Local Government Pension Scheme (Scotland) Regulations 2014 (revoked)[^c-356a63b3cc973a2309320da4a1d80054]
 
 Made
 
@@ -44,17 +44,17 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-356a63b3cc973a2309320da4a1d80054]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-356a63b3cc973a2309320da4a1d80054]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Membership, contributions and benefits[^key-356a63b3cc973a2309320da4a1d80054]
+### PART 1 — Membership, contributions and benefits[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Preliminary Provisions[^key-356a63b3cc973a2309320da4a1d80054]
+#### Preliminary Provisions[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -63,7 +63,7 @@ Coming into force in accordance with regulation 1
 - [Section 1 — Citation, commencement and extent](part-1/section-1.md)
 - [Section 2 — Introductory](part-1/section-2.md)
 
-#### Membership[^key-356a63b3cc973a2309320da4a1d80054]
+#### Membership[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -76,7 +76,7 @@ Coming into force in accordance with regulation 1
 - [Section 7 — Pensioner members](part-1/section-7.md)
 - [Section 8 — Pension credit and survivor members](part-1/section-8.md)
 
-#### Contributions[^key-356a63b3cc973a2309320da4a1d80054]
+#### Contributions[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -96,7 +96,7 @@ Coming into force in accordance with regulation 1
 - [Section 20 — Meaning of pensionable pay](part-1/section-20.md)
 - [Section 21 — Assumed pensionable pay](part-1/section-21.md)
 
-#### Pension accounts[^key-356a63b3cc973a2309320da4a1d80054]
+#### Pension accounts[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -110,7 +110,7 @@ Coming into force in accordance with regulation 1
 - [Section 27 — Flexible retirement pension accounts](part-1/section-27.md)
 - [Section 28 — Pension credit accounts](part-1/section-28.md)
 
-#### Benefits[^key-356a63b3cc973a2309320da4a1d80054]
+#### Benefits[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -122,7 +122,7 @@ Coming into force in accordance with regulation 1
 - [Section 32 — Election for lump sum instead of pension](part-1/section-32.md)
 - [Section 33 — Commutation and small pensions](part-1/section-33.md)
 
-#### Ill-health retirement[^key-356a63b3cc973a2309320da4a1d80054]
+#### Ill-health retirement[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -133,7 +133,7 @@ Coming into force in accordance with regulation 1
 - [Section 36 — Early payment of retirement pension on ill-health grounds: deferred members](part-1/section-36.md)
 - [Section 37 — Calculation of ill-health pension amounts](part-1/section-37.md)
 
-#### Survivor benefits[^key-356a63b3cc973a2309320da4a1d80054]
+#### Survivor benefits[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -149,7 +149,7 @@ Coming into force in accordance with regulation 1
 - [Section 45 — Survivor benefits: partners of pensioner members](part-1/section-45.md)
 - [Section 46 — Survivor benefits: children of pensioner members](part-1/section-46.md)
 
-#### Adjustments of benefits[^key-356a63b3cc973a2309320da4a1d80054]
+#### Adjustments of benefits[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -160,13 +160,13 @@ Coming into force in accordance with regulation 1
 - [Section 49 — Guaranteed minimum pensions](part-1/section-49.md)
 - [Section 50 — Pension debits](part-1/section-50.md)
 
-### PART 2 — Administration[^key-356a63b3cc973a2309320da4a1d80054]
+### PART 2 — Administration[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### Administering authorities[^key-356a63b3cc973a2309320da4a1d80054]
+#### Administering authorities[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -177,7 +177,7 @@ Coming into force in accordance with regulation 1
 - [Section 53 — Administering authorities: governance compliance statement](part-2/section-53.md)
 - [Section 54 — Accounts and audit](part-2/section-54.md)
 
-#### Strategies, statements and reports[^key-356a63b3cc973a2309320da4a1d80054]
+#### Strategies, statements and reports[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -189,7 +189,7 @@ Coming into force in accordance with regulation 1
 - [Section 58 — Statements of policy about exercise of discretionary functions](part-2/section-58.md)
 - [Section 59 — Statements of policy concerning communications with members and Scheme employers](part-2/section-59.md)
 
-#### Actuarial valuations[^key-356a63b3cc973a2309320da4a1d80054]
+#### Actuarial valuations[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -201,7 +201,7 @@ Coming into force in accordance with regulation 1
 - [Section 63 — Aggregate Scheme costs: revised certificates](part-2/section-63.md)
 - [Section 64 — Supply of copies of valuations, certificates etc.](part-2/section-64.md)
 
-#### Payments[^key-356a63b3cc973a2309320da4a1d80054]
+#### Payments[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -213,7 +213,7 @@ Coming into force in accordance with regulation 1
 - [Section 68 — Additional costs arising from Scheme employer’s level of performance](part-2/section-68.md)
 - [Section 69 — Interest on late payments by Scheme employers](part-2/section-69.md)
 
-#### Decisions[^key-356a63b3cc973a2309320da4a1d80054]
+#### Decisions[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -239,7 +239,7 @@ Coming into force in accordance with regulation 1
 - [Section 87 — Annual benefit statements](part-2/section-87.md)
 - [Section 88 — Information to be supplied by employees](part-2/section-88.md)
 
-#### Forfeiture[^key-356a63b3cc973a2309320da4a1d80054]
+#### Forfeiture[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -250,7 +250,7 @@ Coming into force in accordance with regulation 1
 - [Section 91 — Adjustment of accounts following forfeiture etc](part-2/section-91.md)
 - [Section 92 — Protection of guaranteed minimum pension rights](part-2/section-92.md)
 
-#### Certificates of protection[^key-356a63b3cc973a2309320da4a1d80054]
+#### Certificates of protection[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -258,7 +258,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 93 — Certificate of protection](part-2/section-93.md)
 
-#### Transfers[^key-356a63b3cc973a2309320da4a1d80054]
+#### Transfers[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -272,7 +272,7 @@ Coming into force in accordance with regulation 1
 - [Section 99 — Effect of acceptance of transfer value](part-2/section-99.md)
 - [Section 100 — Changes of administering authority](part-2/section-100.md)
 
-#### Councillors[^key-356a63b3cc973a2309320da4a1d80054]
+#### Councillors[^c-356a63b3cc973a2309320da4a1d80054]
 
 *Extent: S*
 
@@ -284,7 +284,7 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-356a63b3cc973a2309320da4a1d80054]SCHEDULES
+[^c-356a63b3cc973a2309320da4a1d80054]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -296,16 +296,16 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-356a63b3cc973a2309320da4a1d80054]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-356a63b3cc973a2309320da4a1d80054]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-356a63b3cc973a2309320da4a1d80054]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-356a63b3cc973a2309320da4a1d80054]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-356a63b3cc973a2309320da4a1d80054]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/164) revoked (1.6.2018) by [The Local Government Pension Scheme (Scotland) Regulations 2018 (S.S.I. 2018/141)](https://www.legislation.gov.uk/ssi/2018/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/141/regulation/1/1), [sch. 6 para. 1(a)](https://www.legislation.gov.uk/ssi/2018/141/schedule/6/paragraph/1/a)
+[^c-356a63b3cc973a2309320da4a1d80054]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/164) revoked (1.6.2018) by [The Local Government Pension Scheme (Scotland) Regulations 2018 (S.S.I. 2018/141)](https://www.legislation.gov.uk/ssi/2018/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/141/regulation/1/1), [sch. 6 para. 1(a)](https://www.legislation.gov.uk/ssi/2018/141/schedule/6/paragraph/1/a)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

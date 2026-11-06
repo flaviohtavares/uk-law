@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213Z8. Continuation of account freezing order pending appeal[^key-9c617700803fb83acc47c3b52cf46ec6]
+## 213Z8. Continuation of account freezing order pending appeal[^c-9c617700803fb83acc47c3b52cf46ec6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
+[^c-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)

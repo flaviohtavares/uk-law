@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Joint strategies[^key-c31462d3807e41ef0c42be00d5032684]
+## 16. Joint strategies[^c-c31462d3807e41ef0c42be00d5032684]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A group of two or more contracting authorities may have a joint procurement stra
 
 ## Annotations
 
-[^key-c31462d3807e41ef0c42be00d5032684]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/12/section/16) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-c31462d3807e41ef0c42be00d5032684]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/12/section/16) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

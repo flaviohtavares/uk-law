@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Interpretation of existing private legal instruments[^key-f7383c2e273a193dcd0cabc3237324ff]
+## 8. Interpretation of existing private legal instruments[^c-f7383c2e273a193dcd0cabc3237324ff]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ but (with the exception of the kinds of private Act mentioned in sub-paragraphs 
 
 ## Annotations
 
-[^key-f7383c2e273a193dcd0cabc3237324ff]: Commencement: Reg. 8 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f7383c2e273a193dcd0cabc3237324ff]: Commencement: Reg. 8 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

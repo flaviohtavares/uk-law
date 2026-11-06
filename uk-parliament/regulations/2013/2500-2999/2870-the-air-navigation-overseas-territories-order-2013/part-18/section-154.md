@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Aeronautical telecommunication service records[^key-c870d5c5fb62359921ad8683cd17132e]
+## 154. Aeronautical telecommunication service records[^c-c870d5c5fb62359921ad8683cd17132e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c870d5c5fb62359921ad8683cd17132e]: Commencement: [Art. 154](https://www.legislation.gov.uk/uksi/2013/2870/article/154) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c870d5c5fb62359921ad8683cd17132e]: Commencement: [Art. 154](https://www.legislation.gov.uk/uksi/2013/2870/article/154) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Transitional provisions and savings[^key-dcbd632738e212a228b8ba29278182af][^key-82bb12b6171c5d8ed156d481eb29b86c]
+## 158. Transitional provisions and savings[^c-dcbd632738e212a228b8ba29278182af][^c-82bb12b6171c5d8ed156d481eb29b86c]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Schedule 15 contains—
 
 ## Annotations
 
-[^key-dcbd632738e212a228b8ba29278182af]: Commencement: S. 158 in force at 12.12.2006 for specified purposes by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/f)
+[^c-dcbd632738e212a228b8ba29278182af]: Commencement: S. 158 in force at 12.12.2006 for specified purposes by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/f)
 
-[^key-82bb12b6171c5d8ed156d481eb29b86c]: Commencement: S. 158 in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(x)](https://www.legislation.gov.uk/uksi/2007/935/article/5/x)
+[^c-82bb12b6171c5d8ed156d481eb29b86c]: Commencement: S. 158 in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(x)](https://www.legislation.gov.uk/uksi/2007/935/article/5/x)

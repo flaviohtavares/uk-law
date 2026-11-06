@@ -90,24 +90,24 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Subject matter and scope
 
-(1.)[^key-c742b80b9f680fdc4d3bb82db14c7f76] This Decision lays down certain control measures in relation to classical swine fever to be applied in respect of the importation of live pigs from member States or areas thereof as set out in the Annex[^key-6317321ec799d297a386b8317852e62a].
+(1.)[^c-c742b80b9f680fdc4d3bb82db14c7f76] This Decision lays down certain control measures in relation to classical swine fever to be applied in respect of the importation of live pigs from member States or areas thereof as set out in the Annex[^c-6317321ec799d297a386b8317852e62a].
 
-[^key-47f362ae02ec0d31f63d6a3d81a6a796]...
+[^c-47f362ae02ec0d31f63d6a3d81a6a796]...
 
-(2.)[^key-f19bfaadf0fb699511fcc62d05eb3016] In this Decision, “**appropriate authority**” means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland); but the “appropriate authority” is the Secretary of State if consent is given by:
+(2.)[^c-f19bfaadf0fb699511fcc62d05eb3016] In this Decision, “**appropriate authority**” means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland); but the “appropriate authority” is the Secretary of State if consent is given by:
 
 - (a) in relation to Wales, the Welsh Ministers;
 - (b) in relation to Scotland, the Scottish Ministers.
 
-## Article 2. Prohibition on the dispatch of live pigs from the areas listed in the Annex to Great Britain[^key-625530ce4db130d9d58d58cf215792a9][^key-ddb2dda6fc8b2a63c79dc58d1e46f8e9]
+## Article 2. Prohibition on the dispatch of live pigs from the areas listed in the Annex to Great Britain[^c-625530ce4db130d9d58d58cf215792a9][^c-ddb2dda6fc8b2a63c79dc58d1e46f8e9]
 
 The appropriate authority must ensure that no live pigs are imported into Great Britain from the member States or areas thereof as listed in the Annex.
 
-## Article 2a. Derogations for the importation into Great Britain of live pigs from member States[^c000001][^key-1d07abdaaf67c597b835f53e2daff4de]
+## Article 2a. Derogations for the importation into Great Britain of live pigs from member States[^c000001][^c-1d07abdaaf67c597b835f53e2daff4de]
 
-1. By way of derogation from Article 2, the appropriate authority may authorise the importation of live pigs from holdings located within any area listed in the Annex provided that the overall classical swine fever situation in that area is favourable and the pigs concerned were kept in holdings where:[^key-9efce51bb15f9bde2551d9d26c6a7ea5]
+1. By way of derogation from Article 2, the appropriate authority may authorise the importation of live pigs from holdings located within any area listed in the Annex provided that the overall classical swine fever situation in that area is favourable and the pigs concerned were kept in holdings where:[^c-9efce51bb15f9bde2551d9d26c6a7ea5]
 
-- no evidence of classical swine fever has been recorded in the previous 12 months in the holding in question and the holding is located outside a protection zone or a surveillance zone established in accordance with Directive 2001/89/EC as it exists immediately before IP completion day[^key-dcc2683da96b7583bac92c9995aa1bed];
+- no evidence of classical swine fever has been recorded in the previous 12 months in the holding in question and the holding is located outside a protection zone or a surveillance zone established in accordance with Directive 2001/89/EC as it exists immediately before IP completion day[^c-dcc2683da96b7583bac92c9995aa1bed];
 - the pigs have been resident for at least 90 days or since birth on the holding and no live pigs have been introduced into the holding during the 30-day period immediately prior to the date of dispatch;
 - the holding implements a bio-security plan approved by the competent authority;
 - the holding has been subjected regularly and at least every four months to inspections by the competent authority, which must:
@@ -116,44 +116,44 @@ The appropriate authority must ensure that no live pigs are imported into Great 
   - ((iii)) check the effective application of the measures provided for in the second indent and in the fourth to seventh indents of Article 15(2)(b) of Directive 2001/89/EC as it exists immediately before IP completion day; and
 - the holding is subject to a classical swine fever surveillance plan implemented by the competent authority in accordance with the sampling procedures laid down in point F.2 of Chapter IV of the Annex to Decision 2002/106/EC and laboratory testing with negative results within one month prior to movement.
 
-2.[^key-5be2eb0d87bd8e540bd5e9ceef982d1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-5be2eb0d87bd8e540bd5e9ceef982d1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Prohibition on the importation into Great Britain of consignments of porcine semen and ova and embryos of swine from the member States or areas thereof listed in the Annex[^key-9fb22cd4e0f728bffbcd12ee5de31d61]
+## Article 3. Prohibition on the importation into Great Britain of consignments of porcine semen and ova and embryos of swine from the member States or areas thereof listed in the Annex[^c-9fb22cd4e0f728bffbcd12ee5de31d61]
 
-The appropriate authority must ensure that consignments of the following are not accepted into Great Britain from the member States listed in the Annex:[^key-c563d235c8b6c4923d24816c0492163e]
+The appropriate authority must ensure that consignments of the following are not accepted into Great Britain from the member States listed in the Annex:[^c-c563d235c8b6c4923d24816c0492163e]
 
-- ((a)) porcine semen, unless the semen originates from pigs kept at an approved collection centre , in accordance with relevant legislation,[^key-e880212e37c4e49eb71496ec0f048e44] and situated outside the areas listed in the Annex to this Decision;
+- ((a)) porcine semen, unless the semen originates from pigs kept at an approved collection centre , in accordance with relevant legislation,[^c-e880212e37c4e49eb71496ec0f048e44] and situated outside the areas listed in the Annex to this Decision;
 - ((b)) ova and embryos of swine, unless the ova and embryos originate from swine kept in holdings situated outside the areas listed in the Annex.
 
-## Article 4. Dispatch of fresh pigmeat and of certain meat preparations and meat products from areas listed in the Annex[^key-6c82c4a379d0a07b65b18460188c73ef]
+## Article 4. Dispatch of fresh pigmeat and of certain meat preparations and meat products from areas listed in the Annex[^c-6c82c4a379d0a07b65b18460188c73ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Special health marks and certification requirements for fresh pigmeat, meat preparations and meat products consisting of, or containing pigmeat other than those in in Article 4[^key-6c82c4a379d0a07b65b18460188c73ef]
+## Article 5. Special health marks and certification requirements for fresh pigmeat, meat preparations and meat products consisting of, or containing pigmeat other than those in in Article 4[^c-6c82c4a379d0a07b65b18460188c73ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Requirements concerning holdings and transport vehicles in the areas listed in the Annex[^key-6c82c4a379d0a07b65b18460188c73ef]
+## Article 6. Requirements concerning holdings and transport vehicles in the areas listed in the Annex[^c-6c82c4a379d0a07b65b18460188c73ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Information requirements of the Member States concerned[^key-6c82c4a379d0a07b65b18460188c73ef]
+## Article 7. Information requirements of the Member States concerned[^c-6c82c4a379d0a07b65b18460188c73ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 8. Compliance
 
-[^key-6c82c4a379d0a07b65b18460188c73ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c82c4a379d0a07b65b18460188c73ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Repeal[^key-6c82c4a379d0a07b65b18460188c73ef]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 10. Applicability[^key-6c82c4a379d0a07b65b18460188c73ef]
+## Article 9. Repeal[^c-6c82c4a379d0a07b65b18460188c73ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Addressees[^key-6c82c4a379d0a07b65b18460188c73ef]
+## Article 10. Applicability[^c-6c82c4a379d0a07b65b18460188c73ef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 11. Addressees[^c-6c82c4a379d0a07b65b18460188c73ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -203,37 +203,37 @@ The whole territory of Romania.
 
 [^f00007]: Footnote: Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption ([OJ L 139, 30.4.2004, p. 206](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0206.01.ENG)).
 
-[^key-c742b80b9f680fdc4d3bb82db14c7f76]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2013/764/article/1) renumbered as Art. 1(1) (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-c742b80b9f680fdc4d3bb82db14c7f76]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2013/764/article/1) renumbered as Art. 1(1) (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-6317321ec799d297a386b8317852e62a]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2013/764/article/1/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/b/i) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-6317321ec799d297a386b8317852e62a]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2013/764/article/1/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/b/i) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-47f362ae02ec0d31f63d6a3d81a6a796]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2013/764/article/1/1) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-47f362ae02ec0d31f63d6a3d81a6a796]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2013/764/article/1/1) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-f19bfaadf0fb699511fcc62d05eb3016]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2013/764/article/1/2) inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-f19bfaadf0fb699511fcc62d05eb3016]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2013/764/article/1/2) inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(2)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/2/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-625530ce4db130d9d58d58cf215792a9]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2013/764/article/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(3)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/3/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-625530ce4db130d9d58d58cf215792a9]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2013/764/article/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(3)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/3/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-ddb2dda6fc8b2a63c79dc58d1e46f8e9]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2013/764/article/2) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(3)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/3/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-ddb2dda6fc8b2a63c79dc58d1e46f8e9]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2013/764/article/2) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(3)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/3/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000001]: Textual amendment: Inserted by [Commission Implementing Decision (EU) 2016/1898 of 26 October 2016 amending Implementing Decision 2013/764/EU concerning animal health control measures relating to classical swine fever in certain Member States (notified under document C(2016) 6710) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2016/1898).
 
-[^key-1d07abdaaf67c597b835f53e2daff4de]: Textual amendment: [Art. 2a](https://www.legislation.gov.uk/eudn/2013/764/article/2a) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-1d07abdaaf67c597b835f53e2daff4de]: Textual amendment: [Art. 2a](https://www.legislation.gov.uk/eudn/2013/764/article/2a) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-9efce51bb15f9bde2551d9d26c6a7ea5]: Textual amendment: Words in [Art. 2a(1)](https://www.legislation.gov.uk/eudn/2013/764/article/2a/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/b/i) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-9efce51bb15f9bde2551d9d26c6a7ea5]: Textual amendment: Words in [Art. 2a(1)](https://www.legislation.gov.uk/eudn/2013/764/article/2a/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/b/i) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-dcc2683da96b7583bac92c9995aa1bed]: Textual amendment: Words in [Art. 2a(1)](https://www.legislation.gov.uk/eudn/2013/764/article/2a/1) inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-dcc2683da96b7583bac92c9995aa1bed]: Textual amendment: Words in [Art. 2a(1)](https://www.legislation.gov.uk/eudn/2013/764/article/2a/1) inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^f00008]: Footnote: Commission Decision 2002/106/EC of[^c000001] 1 February 2002 approving a Diagnostic Manual establishing diagnostic procedures, sampling methods and criteria for evaluation of the laboratory tests for the confirmation of classical swine fever ( [OJ L 39, 9.2.2002, p. 71](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.039.01.0071.01.ENG) ).
 
-[^key-5be2eb0d87bd8e540bd5e9ceef982d1d]: Textual amendment: [Art. 2a(2)](https://www.legislation.gov.uk/eudn/2013/764/article/2a/2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-5be2eb0d87bd8e540bd5e9ceef982d1d]: Textual amendment: [Art. 2a(2)](https://www.legislation.gov.uk/eudn/2013/764/article/2a/2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(4)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/4/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-9fb22cd4e0f728bffbcd12ee5de31d61]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2013/764/article/3) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(5)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/5/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-9fb22cd4e0f728bffbcd12ee5de31d61]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2013/764/article/3) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(5)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/5/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-c563d235c8b6c4923d24816c0492163e]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2013/764/article/3) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(5)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/5/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-c563d235c8b6c4923d24816c0492163e]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2013/764/article/3) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(5)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/5/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-e880212e37c4e49eb71496ec0f048e44]: Textual amendment: Words in [Art. 3(a)](https://www.legislation.gov.uk/eudn/2013/764/article/3/a) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(5)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/5/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-e880212e37c4e49eb71496ec0f048e44]: Textual amendment: Words in [Art. 3(a)](https://www.legislation.gov.uk/eudn/2013/764/article/3/a) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(5)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/5/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-6c82c4a379d0a07b65b18460188c73ef]: Textual amendment: [Arts. 4-11](https://www.legislation.gov.uk/eudn/2013/764/article/4) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-6c82c4a379d0a07b65b18460188c73ef]: Textual amendment: [Arts. 4-11](https://www.legislation.gov.uk/eudn/2013/764/article/4) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [65(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/65/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000005]: Textual amendment: Deleted by [Commission Implementing Decision (EU) 2019/1972 of 26 November 2019 amending Implementing Decision 2013/764/EU concerning animal health control measures relating to classical swine fever in certain Member States (notified under document C(2019) 8396) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2019/1972).
 

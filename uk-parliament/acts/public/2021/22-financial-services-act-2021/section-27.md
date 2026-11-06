@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Provision of investment services etc in the UK[^key-96a540dbaa72a9f332c7b8a1e37a2916]
+## 27. Provision of investment services etc in the UK[^c-96a540dbaa72a9f332c7b8a1e37a2916]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96a540dbaa72a9f332c7b8a1e37a2916]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/22/section/27) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-96a540dbaa72a9f332c7b8a1e37a2916]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/22/section/27) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)

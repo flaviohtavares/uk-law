@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. The Scottish Police Authority's annual report[^key-4e83e5b8acbaeaa2853ed42ea53917e3]
+## 39. The Scottish Police Authority's annual report[^c-4e83e5b8acbaeaa2853ed42ea53917e3]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e83e5b8acbaeaa2853ed42ea53917e3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2012/8/section/39) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/51/article/3))
+[^c-4e83e5b8acbaeaa2853ed42ea53917e3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2012/8/section/39) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/51/article/3))

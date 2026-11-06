@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Notification of well operations[^key-a9f1453ff2996834899f1a9506b687a1]
+## 17. Notification of well operations[^c-a9f1453ff2996834899f1a9506b687a1]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9f1453ff2996834899f1a9506b687a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/247/regulation/17) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-a9f1453ff2996834899f1a9506b687a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/247/regulation/17) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

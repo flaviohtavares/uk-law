@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Retention and public inspection of documents[^key-4ba32c05644175ff9db8be49a10257be]
+## 58. Retention and public inspection of documents[^c-4ba32c05644175ff9db8be49a10257be]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ This does not apply to—
 
 ## Annotations
 
-[^key-4ba32c05644175ff9db8be49a10257be]: Commencement: Reg. 58 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-4ba32c05644175ff9db8be49a10257be]: Commencement: Reg. 58 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

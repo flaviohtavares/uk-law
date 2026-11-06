@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Private sector purchasers[^key-dea9436b324ce6db6b92c00ae7977af0]
+## 97. Private sector purchasers[^c-dea9436b324ce6db6b92c00ae7977af0]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,4 +156,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dea9436b324ce6db6b92c00ae7977af0]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2012/21/section/97) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-dea9436b324ce6db6b92c00ae7977af0]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2012/21/section/97) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

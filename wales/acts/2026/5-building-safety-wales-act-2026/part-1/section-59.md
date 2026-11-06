@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Power of accountable person to give warning notice: fire and structural safety duty of residents etc.[^key-5b06cc3ba716d7d9daf9584483bbb2af]
+## 59. Power of accountable person to give warning notice: fire and structural safety duty of residents etc.[^c-5b06cc3ba716d7d9daf9584483bbb2af]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b06cc3ba716d7d9daf9584483bbb2af]: Commencement: S. 59 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5b06cc3ba716d7d9daf9584483bbb2af]: Commencement: S. 59 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

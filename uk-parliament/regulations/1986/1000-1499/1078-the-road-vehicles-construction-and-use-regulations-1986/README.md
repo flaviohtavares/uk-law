@@ -43,7 +43,7 @@ Coming into Operation
 
 11th August 1986
 
-The Secretary of State for Transport (hereinafter referred to as “**the Secretary of State**”), in exercise of the powers conferred by sections 34(5), 40(1), (2) and (3) and 172 of the Road Traffic Act 1972 now vested in him[^f00001] and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—[^key-568a7528772250bdbd2f824dbae05fec][^key-26cc9ab3c35fd81239808a0189ee0d09]
+The Secretary of State for Transport (hereinafter referred to as “**the Secretary of State**”), in exercise of the powers conferred by sections 34(5), 40(1), (2) and (3) and 172 of the Road Traffic Act 1972 now vested in him[^f00001] and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—[^c-568a7528772250bdbd2f824dbae05fec][^c-26cc9ab3c35fd81239808a0189ee0d09]
 
 ## Contents
 
@@ -277,7 +277,7 @@ The Secretary of State for Transport (hereinafter referred to as “**the Secret
 - [Section 92 — Attachment of sidecars](part-iv/section-92.md)
 - [Section 93 — Use of sidecars](part-iv/section-93.md)
 
-#### CA — USE OF MOTOR VEHICLES FOR THE CARRIAGE OR HAULAGE OF DANGEROUS GOODS[^key-dc86f11063e3ff391c96b0fd883440bc]
+#### CA — USE OF MOTOR VEHICLES FOR THE CARRIAGE OR HAULAGE OF DANGEROUS GOODS[^c-dc86f11063e3ff391c96b0fd883440bc]
 
 - [Section 93A — Additional braking requirements for motor vehicles carrying or hauling dangerous goods](part-iv/section-93a.md)
 
@@ -289,7 +289,7 @@ The Secretary of State for Transport (hereinafter referred to as “**the Secret
 - [Section 95 — Use of gas-fired appliances—general](part-iv/section-95.md)
 - [Section 96 — Use of gas-fired appliances when a vehicle is in motion](part-iv/section-96.md)
 
-#### DA — USE OF AERODYNAMIC DEVICES AND EQUIPMENT, AND ELONGATED CABS[^key-9bf5e1a831c94bd5e56623e9035f9d8f]
+#### DA — USE OF AERODYNAMIC DEVICES AND EQUIPMENT, AND ELONGATED CABS[^c-9bf5e1a831c94bd5e56623e9035f9d8f]
 
 - [Section 96A — Use of aerodynamic devices and equipment](part-iv/section-96a.md)
 - [Section 96B — Use of elongated cabs](part-iv/section-96b.md)
@@ -370,10 +370,10 @@ Secretary of State for Transport
 
 [^f00001]: Footnote: S.I. 1979/571 and 1981/238.
 
-[^key-568a7528772250bdbd2f824dbae05fec]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1986/1078) modified (1.7.2022) by [The Road Vehicles (Construction and Use) (Automated Vehicles) Order 2022 (S.I. 2022/470)](https://www.legislation.gov.uk/uksi/2022/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/470/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/470/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/470/article/2))
+[^c-568a7528772250bdbd2f824dbae05fec]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1986/1078) modified (1.7.2022) by [The Road Vehicles (Construction and Use) (Automated Vehicles) Order 2022 (S.I. 2022/470)](https://www.legislation.gov.uk/uksi/2022/470), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/470/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/470/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/470/article/2))
 
-[^key-26cc9ab3c35fd81239808a0189ee0d09]: Modification: Regulations applied in part by [The Road Vehicles (Authorisation of Special Types) (General) Order 2003 (S.I. 2003/1998)](https://www.legislation.gov.uk/uksi/2003/1998), [art. 58](https://www.legislation.gov.uk/uksi/2003/1998/article/58) (as inserted (31.5.2023) by [S.I. 2023/524](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/524/article/4))
+[^c-26cc9ab3c35fd81239808a0189ee0d09]: Modification: Regulations applied in part by [The Road Vehicles (Authorisation of Special Types) (General) Order 2003 (S.I. 2003/1998)](https://www.legislation.gov.uk/uksi/2003/1998), [art. 58](https://www.legislation.gov.uk/uksi/2003/1998/article/58) (as inserted (31.5.2023) by [S.I. 2023/524](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/524/article/4))
 
-[^key-dc86f11063e3ff391c96b0fd883440bc]: Textual amendment: [Reg. 93A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/93A) and heading inserted (3.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 8) Regulations 1996 (S.I. 1996/3133)](https://www.legislation.gov.uk/uksi/1996/3133), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3133/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/3133/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/1996/3133/schedule)
+[^c-dc86f11063e3ff391c96b0fd883440bc]: Textual amendment: [Reg. 93A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/93A) and heading inserted (3.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 8) Regulations 1996 (S.I. 1996/3133)](https://www.legislation.gov.uk/uksi/1996/3133), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3133/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/3133/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/1996/3133/schedule)
 
-[^key-9bf5e1a831c94bd5e56623e9035f9d8f]: Textual amendment: [Pt. 4(DA)](https://www.legislation.gov.uk/uksi/1986/1078/part/4/DA) inserted (14.2.2022) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2022 (S.I. 2022/59)](https://www.legislation.gov.uk/uksi/2022/59), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/59/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/59/regulation/5)
+[^c-9bf5e1a831c94bd5e56623e9035f9d8f]: Textual amendment: [Pt. 4(DA)](https://www.legislation.gov.uk/uksi/1986/1078/part/4/DA) inserted (14.2.2022) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2022 (S.I. 2022/59)](https://www.legislation.gov.uk/uksi/2022/59), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/59/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/59/regulation/5)

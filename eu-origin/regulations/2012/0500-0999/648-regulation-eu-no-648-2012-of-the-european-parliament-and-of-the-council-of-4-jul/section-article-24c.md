@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 24c. Decision making within the CCP Supervisory Committee[^key-4d6448a3554f8e12de91a0abfdf357da]
+## Article 24c. Decision making within the CCP Supervisory Committee[^c-4d6448a3554f8e12de91a0abfdf357da]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d6448a3554f8e12de91a0abfdf357da]: Textual amendment: Title 3 Ch. 3A omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2020/646/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))
+[^c-4d6448a3554f8e12de91a0abfdf357da]: Textual amendment: Title 3 Ch. 3A omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2020/646/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))

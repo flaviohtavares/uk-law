@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22B. Co-operation with accountable persons[^key-42ad4e0faec7a17ff16db02646fc59bf]
+## 22B. Co-operation with accountable persons[^c-42ad4e0faec7a17ff16db02646fc59bf]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42ad4e0faec7a17ff16db02646fc59bf]: Textual amendment: Arts. 22A, 22B inserted (1.10.2023 except in relation to W., 1.10.2023 for W. in relation to art. 22A) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/8), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-42ad4e0faec7a17ff16db02646fc59bf]: Textual amendment: Arts. 22A, 22B inserted (1.10.2023 except in relation to W., 1.10.2023 for W. in relation to art. 22A) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/8), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)

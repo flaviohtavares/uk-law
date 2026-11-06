@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. The right not to suffer detriment[^key-07278aa83823fa0b2066451d4b98e087]
+## 55. The right not to suffer detriment[^c-07278aa83823fa0b2066451d4b98e087]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ but, for that subsection to apply, the claim that the requirement applies and, i
 
 ## Annotations
 
-[^key-07278aa83823fa0b2066451d4b98e087]: Commencement: S. 55 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-07278aa83823fa0b2066451d4b98e087]: Commencement: S. 55 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

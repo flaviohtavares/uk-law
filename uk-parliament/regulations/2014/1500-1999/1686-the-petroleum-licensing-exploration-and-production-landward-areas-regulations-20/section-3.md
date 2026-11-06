@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Review[^key-ca23861d12d6e6b4914f2e1494320c78]
+## 3. Review[^c-ca23861d12d6e6b4914f2e1494320c78]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca23861d12d6e6b4914f2e1494320c78]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1686/regulation/3) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/23/2)
+[^c-ca23861d12d6e6b4914f2e1494320c78]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1686/regulation/3) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/23/2)

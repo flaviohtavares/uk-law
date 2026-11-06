@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.12. Discharge and variation[^key-0684fc483e481c1016467c4839b82a02]
+## 5.12. Discharge and variation[^c-0684fc483e481c1016467c4839b82a02]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where an interlocutor is pronounced in the sheriff court varying or discharging 
 
 ## Annotations
 
-[^key-0684fc483e481c1016467c4839b82a02]: Commencement: Rule 5.12 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-0684fc483e481c1016467c4839b82a02]: Commencement: Rule 5.12 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 355A. Powers of FCA and PRA to participate in proceedings[^key-e4f9435dcf26161d8a6e7d4c615df07e][^key-5fe5bb330be89aaad84db1eb96e6bd54]
+## 355A. Powers of FCA and PRA to participate in proceedings[^c-e4f9435dcf26161d8a6e7d4c615df07e][^c-5fe5bb330be89aaad84db1eb96e6bd54]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4f9435dcf26161d8a6e7d4c615df07e]: Modification: S. 355A applied (with modifications) by S.I. 2014/229, art. 5A (as inserted (E.W.S.) (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [9](https://www.legislation.gov.uk/uksi/2020/744/article/9))
+[^c-e4f9435dcf26161d8a6e7d4c615df07e]: Modification: S. 355A applied (with modifications) by S.I. 2014/229, art. 5A (as inserted (E.W.S.) (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [9](https://www.legislation.gov.uk/uksi/2020/744/article/9))
 
-[^key-5fe5bb330be89aaad84db1eb96e6bd54]: Textual amendment: Ss. 355A, 355B and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/20/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-5fe5bb330be89aaad84db1eb96e6bd54]: Textual amendment: Ss. 355A, 355B and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/20/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Table of REACH transitional provisions relating to EU exit[^key-47d76310a4ff943e2dc2e36c2b5ef529]
+## SCHEDULE 1A — Table of REACH transitional provisions relating to EU exit[^c-47d76310a4ff943e2dc2e36c2b5ef529]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-47d76310a4ff943e2dc2e36c2b5ef529]: Textual amendment: Sch. 1A inserted (E.W.S.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/1/5) (as amended by [S.I. 2019/858](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/858/regulation/5/3) and [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47d76310a4ff943e2dc2e36c2b5ef529]: Textual amendment: Sch. 1A inserted (E.W.S.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 1(5)](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/1/5) (as amended by [S.I. 2019/858](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/858/regulation/5/3) and [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

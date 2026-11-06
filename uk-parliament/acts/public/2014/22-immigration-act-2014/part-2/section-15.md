@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Right of appeal to First-tier Tribunal[^key-a56364b7940c09366e6fa2b96e539beb]
+## 15. Right of appeal to First-tier Tribunal[^c-a56364b7940c09366e6fa2b96e539beb]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a56364b7940c09366e6fa2b96e539beb]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/22/section/15) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/b) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^c-a56364b7940c09366e6fa2b96e539beb]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/22/section/15) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/b) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))

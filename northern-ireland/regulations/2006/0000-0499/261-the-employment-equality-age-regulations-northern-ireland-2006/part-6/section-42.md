@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Burden of proof: industrial tribunals[^key-07803775583d2cfc69ba2b980eb54cf4]
+## 42. Burden of proof: industrial tribunals[^c-07803775583d2cfc69ba2b980eb54cf4]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ the tribunal shall uphold the complaint unless the respondent proves that he did
 
 ## Annotations
 
-[^key-07803775583d2cfc69ba2b980eb54cf4]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/261/regulation/42) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-07803775583d2cfc69ba2b980eb54cf4]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/261/regulation/42) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

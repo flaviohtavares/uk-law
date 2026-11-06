@@ -26,10 +26,10 @@ summary: ''
 
 3. For the purpose of the application of Article 14 of the Control Regulation species caught for live bait shall be considered as a species caught and kept on board.
 
-4. The master of a United Kingdom[^key-f2ab11ba47df7a72abf505df416a44f7][^c000001] fishing vessel crossing an effort zone where it is authorised to fish shall record and report the information referred to in Article 14(5) of the Control Regulation as applicable even if he does not carry out any fishing activities in that zone.
+4. The master of a United Kingdom[^c-f2ab11ba47df7a72abf505df416a44f7][^c000001] fishing vessel crossing an effort zone where it is authorised to fish shall record and report the information referred to in Article 14(5) of the Control Regulation as applicable even if he does not carry out any fishing activities in that zone.
 
 ## Annotations
 
-[^key-f2ab11ba47df7a72abf505df416a44f7]: Textual amendment: Words in [Art. 51](https://www.legislation.gov.uk/eur/2011/404/article/51) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(45)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2ab11ba47df7a72abf505df416a44f7]: Textual amendment: Words in [Art. 51](https://www.legislation.gov.uk/eur/2011/404/article/51) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(45)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).

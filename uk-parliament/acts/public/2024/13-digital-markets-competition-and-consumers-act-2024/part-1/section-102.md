@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Treatment of CMA breach decisions etc[^key-3925342954371c633db0734d5a98e75a][^key-6bfb8090424d9f55672d1f92071e2b98]
+## 102. Treatment of CMA breach decisions etc[^c-3925342954371c633db0734d5a98e75a][^c-6bfb8090424d9f55672d1f92071e2b98]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3925342954371c633db0734d5a98e75a]: Commencement: S. 102 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3925342954371c633db0734d5a98e75a]: Commencement: S. 102 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6bfb8090424d9f55672d1f92071e2b98]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2024/13/section/102) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-6bfb8090424d9f55672d1f92071e2b98]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2024/13/section/102) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

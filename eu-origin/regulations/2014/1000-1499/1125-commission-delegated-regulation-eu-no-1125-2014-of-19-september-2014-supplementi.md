@@ -35,16 +35,16 @@ supplementing Directive 2014/17/EU of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-9a1c7f2244bef896bbbe208763c223b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a1c7f2244bef896bbbe208763c223b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9a1c7f2244bef896bbbe208763c223b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9a1c7f2244bef896bbbe208763c223b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9a1c7f2244bef896bbbe208763c223b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9a1c7f2244bef896bbbe208763c223b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a1c7f2244bef896bbbe208763c223b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a1c7f2244bef896bbbe208763c223b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a1c7f2244bef896bbbe208763c223b4]: Textual amendment: Regulation revoked (31.12.2020) by [The Mortgage Credit (Amendment) ( EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/656/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a1c7f2244bef896bbbe208763c223b4]: Textual amendment: Regulation revoked (31.12.2020) by [The Mortgage Credit (Amendment) ( EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/656/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

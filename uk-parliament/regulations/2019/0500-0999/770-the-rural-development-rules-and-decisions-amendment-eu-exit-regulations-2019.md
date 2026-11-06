@@ -44,11 +44,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-920539ca3e434f9e31ddfbfc04763453]
+## 1. Citation and commencement[^c-920539ca3e434f9e31ddfbfc04763453]
 
 These Regulations may be cited as the Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019 and come into force on the later of exit day or the day after the day on which they are made.
 
-## 2. Amendment of Regulation (EU) No 807/2014[^key-69c7159ea1fa2bd80c7373b0717f42b9]
+## 2. Amendment of Regulation (EU) No 807/2014[^c-69c7159ea1fa2bd80c7373b0717f42b9]
 
 (1) Commission Delegated Regulation (EU) No 807/2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions is amended as follows.
 
@@ -90,7 +90,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
 
 (9) In Article 9(2) omit “in the Member State or region”.
 
-(10) In Article 11(3), after “Commission Recommendation 2003/361/EC” insert “ as it had effect immediately before IP completion day[^key-fc9b3b5078fac3318c392b717d1fdc30]”;
+(10) In Article 11(3), after “Commission Recommendation 2003/361/EC” insert “ as it had effect immediately before IP completion day[^c-fc9b3b5078fac3318c392b717d1fdc30]”;
 
 (11) In Article 13—
 
@@ -126,7 +126,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
 
 (18) After Article 20 omit the words from “This Regulation” to “Member States”.
 
-## 3. Amendment of Regulation (EU) 808/2014[^key-4a34cc0056c65ed3f385424c273c80d2]
+## 3. Amendment of Regulation (EU) 808/2014[^c-4a34cc0056c65ed3f385424c273c80d2]
 
 (1) Commission Implementing Regulation (EU) No 808/2014 laying down rules for the application of Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) is amended as follows.
 
@@ -162,7 +162,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
   - (i) in point (a)—
     - (aa) omit “national”;
     - (bb) for “the Member State” substitute “ the constituent nation ”;
-    - (cc)[^key-1ea318fe94f8dd4a5feab9505371b7f0] for the words from “proposal” to “Commission” substitute “ amendment made in response to the COVID-19 crisis is made ”;
+    - (cc)[^c-1ea318fe94f8dd4a5feab9505371b7f0] for the words from “proposal” to “Commission” substitute “ amendment made in response to the COVID-19 crisis is made ”;
   - (ii) in point (b) for “Union legal framework” substitute “ the law as it applies in the constituent nation ”;
   - (iii) omit point (c);
   - (iv) in point (d)—
@@ -209,7 +209,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
 
 (14) In Article 14—
 
-- (za)[^key-9dc5b73b7f4ae7eae90e4f15e80e93da] in paragraph 1, omit point (g);
+- (za)[^c-9dc5b73b7f4ae7eae90e4f15e80e93da] in paragraph 1, omit point (g);
 - (a) in paragraph 2 omit the words from “For the purpose” to the end;
 - (b) omit paragraph 3;
 - (c) after paragraph 4 insert—
@@ -238,7 +238,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
     - (bb) in the second indent, after “Directive [2009/128/EC](https://www.legislation.gov.uk/eudr/2009/128) of the European Parliament and of the Council” insert “(reading Article 3(10)(b) of the Directive as if, for the words from “ Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8) ” to the end there were substituted “ Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products ”.
   - (iv) in point 11 in the third indent, for “Article 13 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council (‘WFD’)” substitute “ Part 6 of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 [^c23692391] or Chapter 2 of Part 1 to the Water Environment and Water Services (Scotland) Act 2003 [^c23692401] ”;
   - (v) in point 12 for “Member State calculates degressivity of payments” substitute “ degressivity of payments is calculated ”;
-  - (vi (Extent: E) (affected by repeal, see note))[^key-a73c863dc2a0d2b4b2980bd264aeccc3] in point 13 omit “and the Union”; *(Extent: E)* *(affected by repeal, see note)*[^key-a73c863dc2a0d2b4b2980bd264aeccc3]
+  - (vi (Extent: E) (affected by repeal, see note))[^c-a73c863dc2a0d2b4b2980bd264aeccc3] in point 13 omit “and the Union”; *(Extent: E)* *(affected by repeal, see note)*[^c-a73c863dc2a0d2b4b2980bd264aeccc3]
   - (vii) in point 14 for “national legislation” substitute “ law as it applies in the constituent nation ”;
   - (viii) in point 16 omit the words from “Income stabilisation tool” to “financial contribution”;
   - (ix) in point 17, omit the sixth indent;
@@ -325,7 +325,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
   - (i) for “the EAFRD” substitute “ support for rural development ”;
   - (ii) omit “Union”.
 
-## 4. Amendment of Implementing Decision C(2015) 855[^key-3a99de34bf21db5a0ea97e4b19e953b9]
+## 4. Amendment of Implementing Decision C(2015) 855[^c-3a99de34bf21db5a0ea97e4b19e953b9]
 
 (1) Commission Implementing Decision C(2015) 855 approving the rural development programme of England (UK) for support from the European Agricultural Fund for Rural Development is amended as follows.
 
@@ -358,7 +358,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
 - (a) in the heading omit “national”;
 - (b) For “M20 – Technical assistance Member States (Article 51-54 of Regulation (EU) No 1305/2013)” substitute “ M20 – Technical assistance Member States (Article 51 and 54 of Regulation (EU) No 1305/2013) ”.
 
-## 5. Amendment of Commission Implementing Decision C(2015) 3488[^key-508d2bd8f7e9c7088dcc82e626c1658a]
+## 5. Amendment of Commission Implementing Decision C(2015) 3488[^c-508d2bd8f7e9c7088dcc82e626c1658a]
 
 (1) Commission Implementing Decision C(2015) 3488 approving the rural development programme of Wales for support from the European Agricultural Fund for Rural Development is amended as follows.
 
@@ -384,7 +384,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
 - (d) for “M20 – Technical assistance Member States (Article 51-54 of Regulation (EU) No 1305/2013)” substitute “ M20 – Technical assistance Member States (Article 51 and 54 of Regulation (EU) No 1305/2013) ”;
 - (e) omit the last row of table 1.
 
-## 6. Amendment of Commission Implementing Decision C(2015) 6018[^key-2e686a3e9aefde04ba8d405f66c76a39]
+## 6. Amendment of Commission Implementing Decision C(2015) 6018[^c-2e686a3e9aefde04ba8d405f66c76a39]
 
 (1) Commission Implementing Decision C(2015) 6018 approving the rural development programme of Northern Ireland for support from the European Agricultural Fund for Rural Development is amended as follows.
 
@@ -416,7 +416,7 @@ These Regulations may be cited as the Rural Development (Rules and Decisions) (A
 - (a) in the heading omit “national”;
 - (b) For “M20 – Technical assistance Member States (Article 51-54 of Regulation (EU) No 1305/2013)” substitute M20 – Technical assistance Member States (Article 51 and 54 of Regulation (EU) No 1305/2013)”.
 
-## 7. Amendment of Commission Implementing Decision C(2015) 3489[^key-c69398ad73f922143d63581a693d52e4]
+## 7. Amendment of Commission Implementing Decision C(2015) 3489[^c-c69398ad73f922143d63581a693d52e4]
 
 (1) Commission Implementing Decision C(2015) 3489 approving the rural development programme of Scotland for support from the European Agricultural Fund for Rural Development is amended as follows.
 
@@ -467,28 +467,28 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23692381]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-920539ca3e434f9e31ddfbfc04763453]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-920539ca3e434f9e31ddfbfc04763453]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-69c7159ea1fa2bd80c7373b0717f42b9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-69c7159ea1fa2bd80c7373b0717f42b9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fc9b3b5078fac3318c392b717d1fdc30]: Textual amendment: Words in reg. 2(10) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/13/2)
+[^c-fc9b3b5078fac3318c392b717d1fdc30]: Textual amendment: Words in reg. 2(10) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/13/2)
 
-[^key-4a34cc0056c65ed3f385424c273c80d2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4a34cc0056c65ed3f385424c273c80d2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1ea318fe94f8dd4a5feab9505371b7f0]: Textual amendment: [Reg. 3(5)(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/770/regulation/3/5/d/i/cc) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/13/3/a)
+[^c-1ea318fe94f8dd4a5feab9505371b7f0]: Textual amendment: [Reg. 3(5)(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/770/regulation/3/5/d/i/cc) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/13/3/a)
 
-[^key-9dc5b73b7f4ae7eae90e4f15e80e93da]: Textual amendment: [Reg. 3(14)(za)](https://www.legislation.gov.uk/uksi/2019/770/regulation/3/14/za) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [13(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/13/3/b)
+[^c-9dc5b73b7f4ae7eae90e4f15e80e93da]: Textual amendment: [Reg. 3(14)(za)](https://www.legislation.gov.uk/uksi/2019/770/regulation/3/14/za) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [13(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/13/3/b)
 
 [^c23692391]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407)
 
 [^c23692401]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3)
 
-[^key-a73c863dc2a0d2b4b2980bd264aeccc3]: Textual amendment: [Reg. 3(16)(g)(vi)](https://www.legislation.gov.uk/uksi/2019/770/regulation/3/16/g/vi) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-a73c863dc2a0d2b4b2980bd264aeccc3]: Textual amendment: [Reg. 3(16)(g)(vi)](https://www.legislation.gov.uk/uksi/2019/770/regulation/3/16/g/vi) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-3a99de34bf21db5a0ea97e4b19e953b9]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3a99de34bf21db5a0ea97e4b19e953b9]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-508d2bd8f7e9c7088dcc82e626c1658a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-508d2bd8f7e9c7088dcc82e626c1658a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2e686a3e9aefde04ba8d405f66c76a39]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2e686a3e9aefde04ba8d405f66c76a39]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c69398ad73f922143d63581a693d52e4]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c69398ad73f922143d63581a693d52e4]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

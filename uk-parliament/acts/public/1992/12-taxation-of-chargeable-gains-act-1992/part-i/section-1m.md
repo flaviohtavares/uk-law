@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1M. Temporary non-residents[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 1M. Temporary non-residents[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 the gain or loss is treated instead as accruing to the individual in the period of return.
 
-(1A)[^key-18c8ccc10fabc7ba540db7d2dc8662cc] Subsection (1) does not apply to a gain that accrues to an individual who was temporarily non-resident in tax year 2025-26 or an earlier tax year under section 103KA(2) or (3) of TCGA 1992 (as it then had effect).
+(1A)[^c-18c8ccc10fabc7ba540db7d2dc8662cc] Subsection (1) does not apply to a gain that accrues to an individual who was temporarily non-resident in tax year 2025-26 or an earlier tax year under section 103KA(2) or (3) of TCGA 1992 (as it then had effect).
 
 But see section 23M of ITTOIA 2005 which charges the amount of the gain to income tax in the period of return.
 
@@ -60,6 +60,6 @@ the gain is treated instead as accruing to the individual in the period of retur
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
 
-[^key-18c8ccc10fabc7ba540db7d2dc8662cc]: Textual amendment: S. 1M(1A) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/4)
+[^c-18c8ccc10fabc7ba540db7d2dc8662cc]: Textual amendment: S. 1M(1A) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/4)

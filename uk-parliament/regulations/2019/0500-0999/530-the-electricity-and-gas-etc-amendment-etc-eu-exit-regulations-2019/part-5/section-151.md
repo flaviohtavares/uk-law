@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. The Gas Regulation[^key-be5a82403bd580ab6e641af60da95baf]
+## 151. The Gas Regulation[^c-be5a82403bd580ab6e641af60da95baf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be5a82403bd580ab6e641af60da95baf]: Commencement: Reg. 151 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-be5a82403bd580ab6e641af60da95baf]: Commencement: Reg. 151 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23650601]: Marginal citation: Further amendments to the Gas Regulation are made by [S.I. 2018/1286](https://www.legislation.gov.uk/uksi/2018/1286).

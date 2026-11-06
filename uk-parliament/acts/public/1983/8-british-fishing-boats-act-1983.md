@@ -29,13 +29,13 @@ British Fishing Boats Act 1983
 
 1983 c. 8
 
-[^key-593070e3837dc46438da3653ad02cdd9]An Act to prohibit the fishing for and trans-shipment of sea fish by or from British fishing boats, in areas specified by order made by the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, unless those boats satisfy conditions prescribed by an order of those Ministers with respect to the nationality of members of the crew; and to prohibit the landing of sea fish in the United Kingdom from British fishing boats that do not satisfy conditions so prescribed.
+[^c-593070e3837dc46438da3653ad02cdd9]An Act to prohibit the fishing for and trans-shipment of sea fish by or from British fishing boats, in areas specified by order made by the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, unless those boats satisfy conditions prescribed by an order of those Ministers with respect to the nationality of members of the crew; and to prohibit the landing of sea fish in the United Kingdom from British fishing boats that do not satisfy conditions so prescribed.
 
 \[28th March 1983\]
 
-[^c756721]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e74535ed88d0f784db198fcb511522ab]
+[^c756721]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e74535ed88d0f784db198fcb511522ab]
 
-## 1. Restrictions on fishing, etc., by British fishing boats.[^c756722][^key-b9e05f75d805a1d753fcfb24bc4871ad]
+## 1. Restrictions on fishing, etc., by British fishing boats.[^c756722][^c-b9e05f75d805a1d753fcfb24bc4871ad]
 
 (1) The operations mentioned in subsection (2) below may not be carried out by or from a relevant[^c756723] British fishing boat unless the boat is qualified in accordance with an order made by the Ministers under this subsection for use in carrying out operations of that description.
 
@@ -53,7 +53,7 @@ References below in this Act to a restricted fishing area are references to any 
 
 (5) Where a relevant British fishing boat is not for the time being qualified under this section for use in carrying out operations of any description mentioned in subsection (2)(a) or (b) above in a restricted fishing area, its fishing gear shall be stowed in accordance with an order made by the Ministers at any time when it is within such an area.
 
-(6) If this section is contravened in the case of any fishing boat the master, the owner and the charterer (if any) of the boat shall be liable on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-55bde861c1d480e552aeb9d6da925caf] on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-55bde861c1d480e552aeb9d6da925caf] .
+(6) If this section is contravened in the case of any fishing boat the master, the owner and the charterer (if any) of the boat shall be liable on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-55bde861c1d480e552aeb9d6da925caf] on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-55bde861c1d480e552aeb9d6da925caf] .
 
 (7) The court by or before which a person is convicted of an offence under subsection (6) above may order the forfeiture of any fish or fishing gear found in the boat in relation to which the offence was committed or taken or used by any person from the boat; and, in Scotland, any fish or fishing gear forfeited under this subsection may be destroyed or disposed of as the court may direct.
 
@@ -116,7 +116,7 @@ is satisfied by information on oath that there is reasonable ground for suspecti
 - (b) prevents, or attempts to prevent, any other person from complying with any such requirement; or
 - (c) assaults any such officer while exercising any of the powers conferred on him under section 2 or 3 of this Act or wilfully obstructs any such officer in the exercise of any of those powers;
 
-shall be liable on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-922c95bdcd3bc34820e9c3bae373f3a6] on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-922c95bdcd3bc34820e9c3bae373f3a6] .
+shall be liable on summary conviction to a fine not exceeding £5,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-922c95bdcd3bc34820e9c3bae373f3a6] on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-922c95bdcd3bc34820e9c3bae373f3a6] .
 
 (2) A British sea-fishery officer shall not be liable in any civil or criminal proceedings for anything done in purported exercise of the powers conferred on him by section 2 or 3 of this Act if the court is satisfied that the act was done in good faith and with reasonable skill and care and that there were reasonable grounds for doing it.
 
@@ -132,7 +132,7 @@ shall be liable on summary conviction to a fine not exceeding £5,000 or on conv
 - (a) issue a warrant for the arrestment[^c756729] and sale of the boat and its gear and catch and any property of the person convicted; and
 - (b) order the boat to be detained for a period not exceeding three months from the date of the conviction or until the fine is paid, whichever occurs first.
 
-(3) Sections 77(1) and 78 of the [^c756730]Magistrates’ Courts Act 1980 (postponement of issue of, and defects in, warrants), as they apply to warrants of the kinds mentioned there,[^key-fbb60b13788189548b8d6c65562e3aec] shall apply to a warrant of distress issued under this section in England and Wales [^key-1e0c1cf59dabf2ca9c5a2989e3fb0f48]....
+(3) Sections 77(1) and 78 of the [^c756730]Magistrates’ Courts Act 1980 (postponement of issue of, and defects in, warrants), as they apply to warrants of the kinds mentioned there,[^c-fbb60b13788189548b8d6c65562e3aec] shall apply to a warrant of distress issued under this section in England and Wales [^c-1e0c1cf59dabf2ca9c5a2989e3fb0f48]....
 
 (4) Article 114(2) of the [^c756731]Magistrates’ Courts (Northern Ireland) Order 1981 (postponement of issue of certain warrants) shall apply to a warrant of distress issued under this section in Northern Ireland as it applies to a warrant referred to in that paragraph.
 
@@ -192,15 +192,15 @@ Her Majesty may by Order in Council direct that, subject to such exceptions, ada
 
 ## Annotations
 
-[^key-593070e3837dc46438da3653ad02cdd9]: Textual amendment: Act repealed (E.W.N.I) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [Sch. 23 para. 31(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/31/c)
+[^c-593070e3837dc46438da3653ad02cdd9]: Textual amendment: Act repealed (E.W.N.I) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [Sch. 23 para. 31(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/31/c)
 
 [^c756721]: Modification: Act: power to transfer certain functions conferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-e74535ed88d0f784db198fcb511522ab]: Modification: Act: functions made exercisable concurrently (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [5(1)(d)](https://www.legislation.gov.uk/uksi/2010/760/article/5/1/d)
+[^c-e74535ed88d0f784db198fcb511522ab]: Modification: Act: functions made exercisable concurrently (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [5(1)(d)](https://www.legislation.gov.uk/uksi/2010/760/article/5/1/d)
 
 [^c756722]: Modification: S. 1: certain functions made exercisable in or as regards N.I. for the purposes of [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 6](https://www.legislation.gov.uk/ukpga/1998/47/section/6), [86](https://www.legislation.gov.uk/ukpga/1998/47/section/86) and transferred (28.3.2002) by [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), [art. 3(3)](https://www.legislation.gov.uk/uksi/2002/790/article/3/3), [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/7/1)
 
-[^key-b9e05f75d805a1d753fcfb24bc4871ad]: Modification: S. 1: transfer of functions (5.12.2012) by [The Transfer of Functions (Sea Fisheries) Order 2012 (S.I. 2012/2747)](https://www.legislation.gov.uk/uksi/2012/2747), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2747/article/1/2), [3(1)(e)](https://www.legislation.gov.uk/uksi/2012/2747/article/3/1/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2747/article/5))
+[^c-b9e05f75d805a1d753fcfb24bc4871ad]: Modification: S. 1: transfer of functions (5.12.2012) by [The Transfer of Functions (Sea Fisheries) Order 2012 (S.I. 2012/2747)](https://www.legislation.gov.uk/uksi/2012/2747), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2747/article/1/2), [3(1)(e)](https://www.legislation.gov.uk/uksi/2012/2747/article/3/1/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2747/article/5))
 
 [^c756723]: Textual amendment: Words in s. 1(1)(3)(5) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 70(2)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/70/2/a); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
@@ -208,19 +208,19 @@ Her Majesty may by Order in Council direct that, subject to such exceptions, ada
 
 [^c756726]: Textual amendment: Words in s. 1(4) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 70(2)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/70/2/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-55bde861c1d480e552aeb9d6da925caf]: Textual amendment: Words in s. 1(6) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/12/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-55bde861c1d480e552aeb9d6da925caf]: Textual amendment: Words in s. 1(6) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/12/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c756728]: Modification: S. 1(8) excluded (28.3.2002) by [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), [art. 3(3)](https://www.legislation.gov.uk/uksi/2002/790/article/3/3), [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/7/4)
 
-[^key-922c95bdcd3bc34820e9c3bae373f3a6]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1983/8/section/4/1) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/12/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-922c95bdcd3bc34820e9c3bae373f3a6]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1983/8/section/4/1) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/12/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c756729]: Textual amendment: Word substituted by [Debtors (Scotland) Act 1987 (c. 18, SIF 45:2)](https://www.legislation.gov.uk/ukpga/1987/18), [s. 108(1)(2)](https://www.legislation.gov.uk/ukpga/1987/18/section/108/1/2), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/1987/18/schedule/6/paragraph/24), [Sch. 7 paras. 5](https://www.legislation.gov.uk/ukpga/1987/18/schedule/7/paragraph/5), [9(1)](https://www.legislation.gov.uk/ukpga/1987/18/schedule/7/paragraph/9/1)
 
 [^c756730]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-fbb60b13788189548b8d6c65562e3aec]: Textual amendment: Words in s. 5(3) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 67(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/67/a) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-fbb60b13788189548b8d6c65562e3aec]: Textual amendment: Words in s. 5(3) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 67(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/67/a) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-1e0c1cf59dabf2ca9c5a2989e3fb0f48]: Textual amendment: Words in s. 5(3) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 67(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/67/b), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-1e0c1cf59dabf2ca9c5a2989e3fb0f48]: Textual amendment: Words in s. 5(3) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 67(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/67/b), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c756731]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 

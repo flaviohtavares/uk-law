@@ -22,13 +22,13 @@ summary: ''
 
 (1) Each person entitled to vote as an elector at an ordinary election shall have the following votes—
 
-- (a) one vote [^key-54ccbe3ab52185e9e613518a83036276]... which may be given for a candidate to be the Mayor;
+- (a) one vote [^c-54ccbe3ab52185e9e613518a83036276]... which may be given for a candidate to be the Mayor;
 - (b) one vote (referred to in this Part as a constituency vote) which may be given for a candidate to be the Assembly member for the Assembly constituency; and
 - (c) one vote (referred to in this Part as a London vote) which may be given in accordance with subsection (5) below.
 
-(2) The Mayor shall be returned under the simple majority system[^key-295440e86097815cf8938b7d9596e57d]... .
+(2) The Mayor shall be returned under the simple majority system[^c-295440e86097815cf8938b7d9596e57d]... .
 
-(3)[^key-11b44b296299bede549de2fdd7729c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-11b44b296299bede549de2fdd7729c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Assembly member for an Assembly constituency shall be returned under the simple majority system.
 
@@ -56,11 +56,11 @@ must be determined before it is determined who are to be returned as the London 
 
 ## Annotations
 
-[^key-54ccbe3ab52185e9e613518a83036276]: Textual amendment: Words in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1999/29/section/4/1/a) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/2/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-54ccbe3ab52185e9e613518a83036276]: Textual amendment: Words in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1999/29/section/4/1/a) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/2/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
-[^key-295440e86097815cf8938b7d9596e57d]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/4/2) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/2/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-295440e86097815cf8938b7d9596e57d]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/4/2) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/2/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
-[^key-11b44b296299bede549de2fdd7729c02]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/4/3) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/2/c), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-11b44b296299bede549de2fdd7729c02]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/4/3) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/2/c), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
 [^c12799931]: Modification: S. 4(5)(a) applied (14.12.1999) by [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2), [s. 203(1B)](https://www.legislation.gov.uk/ukpga/1983/2/section/203/1B) (as inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/1), [39(5)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/39/5) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2))
 

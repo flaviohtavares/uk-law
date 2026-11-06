@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health[^f00001], in exercise of the powers conferred by Articles 42, 106(b) and 107(6) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002], in conjunction with the Department of Finance[^f00003], makes the following Regulations:
 
-## 1. Citation and commencement[^key-27ffb07d83f14d1f0870be85d72e19bd]
+## 1. Citation and commencement[^c-27ffb07d83f14d1f0870be85d72e19bd]
 
 These Regulations may be cited as the Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 19<sup>th</sup> June 2026.
 
-## 2. Amendment to Schedule 1 to the Provision of Health Service to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015[^key-5d7ee9374a5531d838f464a4a107ac15]
+## 2. Amendment to Schedule 1 to the Provision of Health Service to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015[^c-5d7ee9374a5531d838f464a4a107ac15]
 
 In Schedule 1 (Diseases for which no charge is to be made for treatment) to the Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015[^f00004]after “Haemolytic uraemic syndrome (HUS)” insert -
 
@@ -82,8 +82,8 @@ Regulation 4(1)(d) of the 2015 Regulations provides that, subject to Regulation 
 
 [^f00003]: Footnote: see [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5), s1(4)
 
-[^key-27ffb07d83f14d1f0870be85d72e19bd]: Commencement: Reg. 1 in operation at 19.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1)
+[^c-27ffb07d83f14d1f0870be85d72e19bd]: Commencement: Reg. 1 in operation at 19.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1)
 
-[^key-5d7ee9374a5531d838f464a4a107ac15]: Commencement: Reg. 2 in operation at 19.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1)
+[^c-5d7ee9374a5531d838f464a4a107ac15]: Commencement: Reg. 2 in operation at 19.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 27](https://www.legislation.gov.uk/nisr/2015/27), as amended by [S.I. 2019/784](https://www.legislation.gov.uk/uksi/2019/784), [S.R. 2020 No. 25](https://www.legislation.gov.uk/nisr/2020/25), [S.R. 2021 No. 286](https://www.legislation.gov.uk/nisr/2021/286), S.R. Nos. [174](https://www.legislation.gov.uk/nisr/2021/174) & [195](https://www.legislation.gov.uk/nisr/2021/195), and [S.R. 2023 No.213](https://www.legislation.gov.uk/nisr/2023/213)

@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 87(5) of the Social Work (Scotland) Act 1968[^f00001], sections 15(1), (2)(c) and (d) and 22(1)(a) of the Social Care (Self-directed Support) (Scotland) Act 2013[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ec716dade7f3e93f5480fc09ca4388ad]
+## 1. Citation and commencement[^c-ec716dade7f3e93f5480fc09ca4388ad]
 
 These Regulations may be cited as the Carers (Waiving of Charges for Support) (Scotland) Regulations 2014 and come into force on 1st April 2014.
 
-## 2. Waiving of charges in connection with support to carers[^key-1cbec2adee1abab7c9725df1f6c78912]
+## 2. Waiving of charges in connection with support to carers[^c-1cbec2adee1abab7c9725df1f6c78912]
 
-A local authority must waive any payment which it would otherwise be entitled to charge under section 87(1) of the Social Work (Scotland) Act 1968 where the payment is in consequence of the provision of services under section 24 of the Carers (Scotland) Act 2016 (duty to provide support)[^key-74310f1ef97cce51031fb1d549b0eb3d].
+A local authority must waive any payment which it would otherwise be entitled to charge under section 87(1) of the Social Work (Scotland) Act 1968 where the payment is in consequence of the provision of services under section 24 of the Carers (Scotland) Act 2016 (duty to provide support)[^c-74310f1ef97cce51031fb1d549b0eb3d].
 
-**3.**[^key-659171769350c680318a63c8c9d5e359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-659171769350c680318a63c8c9d5e359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Local authority not to require contribution in respect of direct payments enabling the provision of support to carers[^key-9faaa1cf9f1febae7e03c72cd1a104af]
+## 4. Local authority not to require contribution in respect of direct payments enabling the provision of support to carers[^c-9faaa1cf9f1febae7e03c72cd1a104af]
 
 (1) The Self-directed Support (Direct Payments) (Scotland) Regulations 2014[^f00004] are amended as follows.
 
@@ -110,14 +110,14 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00002]: Footnote: [2013 asp 1](https://www.legislation.gov.uk/asp/2013/1).
 
-[^key-ec716dade7f3e93f5480fc09ca4388ad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1)
+[^c-ec716dade7f3e93f5480fc09ca4388ad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1)
 
-[^key-1cbec2adee1abab7c9725df1f6c78912]: Commencement: Reg. 2 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1)
+[^c-1cbec2adee1abab7c9725df1f6c78912]: Commencement: Reg. 2 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1)
 
-[^key-74310f1ef97cce51031fb1d549b0eb3d]: Textual amendment: Words in reg. 2 substituted (1.4.2018) by [The Carers (Waiving of Charges for Support) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/31)](https://www.legislation.gov.uk/ssi/2018/31), [regs. 1](https://www.legislation.gov.uk/ssi/2018/31/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/ssi/2018/31/regulation/2/1/a)
+[^c-74310f1ef97cce51031fb1d549b0eb3d]: Textual amendment: Words in reg. 2 substituted (1.4.2018) by [The Carers (Waiving of Charges for Support) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/31)](https://www.legislation.gov.uk/ssi/2018/31), [regs. 1](https://www.legislation.gov.uk/ssi/2018/31/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/ssi/2018/31/regulation/2/1/a)
 
-[^key-659171769350c680318a63c8c9d5e359]: Textual amendment: Reg. 3 revoked (1.4.2018) by [The Carers (Waiving of Charges for Support) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/31)](https://www.legislation.gov.uk/ssi/2018/31), [regs. 1](https://www.legislation.gov.uk/ssi/2018/31/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2018/31/regulation/2/1/b)
+[^c-659171769350c680318a63c8c9d5e359]: Textual amendment: Reg. 3 revoked (1.4.2018) by [The Carers (Waiving of Charges for Support) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/31)](https://www.legislation.gov.uk/ssi/2018/31), [regs. 1](https://www.legislation.gov.uk/ssi/2018/31/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2018/31/regulation/2/1/b)
 
-[^key-9faaa1cf9f1febae7e03c72cd1a104af]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/65/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1)
+[^c-9faaa1cf9f1febae7e03c72cd1a104af]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/65/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1)
 
 [^f00004]: Footnote: [S.S.I. 2014/25](https://www.legislation.gov.uk/ssi/2014/25).

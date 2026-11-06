@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Flood risk assessments: regulations[^key-6a891a741dab5cc4a38056c982ebf9c7]
+## 11. Flood risk assessments: regulations[^c-6a891a741dab5cc4a38056c982ebf9c7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations make further provision as to the prepa
 
 ## Annotations
 
-[^key-6a891a741dab5cc4a38056c982ebf9c7]: Commencement: S. 11 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-6a891a741dab5cc4a38056c982ebf9c7]: Commencement: S. 11 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

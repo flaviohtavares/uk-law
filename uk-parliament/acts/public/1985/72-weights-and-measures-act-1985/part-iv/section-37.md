@@ -23,7 +23,7 @@ summary: ''
 (1) If proceedings for an offence under this Part of this Act, or any instrument made under this Part, in respect of any deficiency or excess in the quantity—
 
 - (a) of any goods made up for sale (whether by way of pre-packing or otherwise) in or on a container marked with an indication of quantity, or
-- (b) of any goods which have been pre-packed or otherwise made up in or on a container for sale or for delivery after sale, or which have been made for sale, and which are required by or under this Part of this Act or the FIC Regulation[^key-d83ef6192219ec96865cb62f028ba9fe] to be pre-packed, or to be otherwise so made up, or to be so made, as the case may be, only in particular quantities,
+- (b) of any goods which have been pre-packed or otherwise made up in or on a container for sale or for delivery after sale, or which have been made for sale, and which are required by or under this Part of this Act or the FIC Regulation[^c-d83ef6192219ec96865cb62f028ba9fe] to be pre-packed, or to be otherwise so made up, or to be so made, as the case may be, only in particular quantities,
 
 are brought with respect to any article, and it is proved that, at the time and place at which that article was tested, other articles of the same kind, being articles which, or articles containing goods which, had been sold by the person charged or were in that person’s possession for sale or for delivery after sale, were available for testing, the person charged shall not be convicted of such an offence with respect to that article unless a reasonable number of those other articles was also tested.
 
@@ -39,4 +39,4 @@ are brought with respect to any article, and it is proved that, at the time and 
 
 ## Annotations
 
-[^key-d83ef6192219ec96865cb62f028ba9fe]: Textual amendment: Words in [s. 37(1)(b)](https://www.legislation.gov.uk/ukpga/1985/72/section/37/1/b) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/2975/regulation/8)
+[^c-d83ef6192219ec96865cb62f028ba9fe]: Textual amendment: Words in [s. 37(1)(b)](https://www.legislation.gov.uk/ukpga/1985/72/section/37/1/b) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/2975/regulation/8)

@@ -30,9 +30,9 @@ may be made the subject of civil proceedings in like manner as any other claim i
 
 (2) Proceedings under paragraph (1) shall be brought only in a county court, but all such remedies shall be obtainable in such proceedings as, apart from this paragraph and Article 62(1), would be obtainable in the High Court.
 
-(3)[^key-e9efe890cba2a8951dff7ddef187fe60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e9efe890cba2a8951dff7ddef187fe60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-7317d4fd27c744f459a2a416b77eab13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-7317d4fd27c744f459a2a416b77eab13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the avoidance of doubt it is hereby declared that damages in respect of an unlawful act of discrimination or harassment may include compensation for injury to feelings whether or not they include compensation under any other head.
 
@@ -51,9 +51,9 @@ may be made the subject of civil proceedings in like manner as any other claim i
 
 [^c22300011]: Textual amendment: Art. 66(1)(c) and preceding word inserted (31.3.2011) by [Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/156)](https://www.legislation.gov.uk/nisr/2011/156), [reg. 8](https://www.legislation.gov.uk/nisr/2011/156/regulation/8)
 
-[^key-e9efe890cba2a8951dff7ddef187fe60]: Textual amendment: [Art. 66(3)](https://www.legislation.gov.uk/nisi/1976/1042/article/66/3) omitted (2.5.2016) by virtue of [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [20(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/20/a) (with [reg. 22](https://www.legislation.gov.uk/nisr/2016/191/regulation/22))
+[^c-e9efe890cba2a8951dff7ddef187fe60]: Textual amendment: [Art. 66(3)](https://www.legislation.gov.uk/nisi/1976/1042/article/66/3) omitted (2.5.2016) by virtue of [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [20(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/20/a) (with [reg. 22](https://www.legislation.gov.uk/nisr/2016/191/regulation/22))
 
-[^key-7317d4fd27c744f459a2a416b77eab13]: Textual amendment: [Art. 66(3A)](https://www.legislation.gov.uk/nisi/1976/1042/article/66/3A) omitted (2.5.2016) by virtue of [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [20(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/20/b) (with [reg. 22](https://www.legislation.gov.uk/nisr/2016/191/regulation/22))
+[^c-7317d4fd27c744f459a2a416b77eab13]: Textual amendment: [Art. 66(3A)](https://www.legislation.gov.uk/nisi/1976/1042/article/66/3A) omitted (2.5.2016) by virtue of [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [20(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/20/b) (with [reg. 22](https://www.legislation.gov.uk/nisr/2016/191/regulation/22))
 
 [^c17235001]: Textual amendment: [1980 NI 3](https://www.legislation.gov.uk/nisi/1980)
 

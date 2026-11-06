@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Procedure on appeals[^key-1c26d6a0d7985ef32805a5a9e14d24b7]
+## 106. Procedure on appeals[^c-1c26d6a0d7985ef32805a5a9e14d24b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c26d6a0d7985ef32805a5a9e14d24b7]: Commencement: Reg. 106 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-1c26d6a0d7985ef32805a5a9e14d24b7]: Commencement: Reg. 106 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

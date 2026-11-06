@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Jurisdiction and competence of sheriffs[^key-e0b5f0e629bb65c35b77affc5e3f2492]
+## 38. Jurisdiction and competence of sheriffs[^c-e0b5f0e629bb65c35b77affc5e3f2492]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0b5f0e629bb65c35b77affc5e3f2492]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/18/section/38) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-e0b5f0e629bb65c35b77affc5e3f2492]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/18/section/38) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

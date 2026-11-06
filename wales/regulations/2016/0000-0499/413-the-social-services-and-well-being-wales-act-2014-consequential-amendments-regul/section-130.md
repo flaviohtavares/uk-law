@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**130.**[^key-5e626c1173affd52d0891f5244840a50] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+**130.**[^c-5e626c1173affd52d0891f5244840a50] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
 ## Annotations
 
-[^key-5e626c1173affd52d0891f5244840a50]: Commencement: Reg. 130 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5e626c1173affd52d0891f5244840a50]: Commencement: Reg. 130 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

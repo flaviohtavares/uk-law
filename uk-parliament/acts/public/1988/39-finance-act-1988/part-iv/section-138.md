@@ -34,7 +34,7 @@ summary: ''
 (3) In determining, in accordance with subsection (2) above, whether an oil field (in this subsection referred to as “**the field in question**”) is a relevant Southern Basin or onshore field, no account shall be taken of a consent for development granted before 1st April 1982 or a programme of development served on the licensee or approved by the Secretary of State before that date if—
 
 - (a) in whole or in part that consent or programme related to another oil field for which a determination under Schedule 1 to the [^c13529451]Oil Taxation Act 1975 was made before the determination under that Schedule for the field in question; and
-- (b) on or after 1st April 1982, a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the OGA[^key-45d2c39f903a766da87f01a4e8eeef7a] and that consent or programme relates, in whole or in part, to the field in question.
+- (b) on or after 1st April 1982, a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the OGA[^c-45d2c39f903a766da87f01a4e8eeef7a] and that consent or programme relates, in whole or in part, to the field in question.
 
 (4) Subsections (4) and (5) of section 36 of the Finance [^c13529461]Act 1983 (which define “**development**” for the purposes of subsections (2) and (3) of that section) shall apply also for the purposes of subsections (2) and (3) of this section.
 
@@ -50,7 +50,7 @@ summary: ''
 
 [^c13529451]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-45d2c39f903a766da87f01a4e8eeef7a]: Textual amendment: Word in [s. 138(3)(b)](https://www.legislation.gov.uk/ukpga/1988/39/section/138/3/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2016/898/regulation/10)
+[^c-45d2c39f903a766da87f01a4e8eeef7a]: Textual amendment: Word in [s. 138(3)(b)](https://www.legislation.gov.uk/ukpga/1988/39/section/138/3/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2016/898/regulation/10)
 
 [^c13529461]: Marginal citation: [1983 c. 28](https://www.legislation.gov.uk/ukpga/1983/28).
 

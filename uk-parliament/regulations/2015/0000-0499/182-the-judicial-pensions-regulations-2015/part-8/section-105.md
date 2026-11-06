@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Annual rate of eligible child’s pension[^key-1ed37ef776961442d922e4aedac9f41a]
+## 105. Annual rate of eligible child’s pension[^c-1ed37ef776961442d922e4aedac9f41a]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed37ef776961442d922e4aedac9f41a]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2015/182/regulation/105) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-1ed37ef776961442d922e4aedac9f41a]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2015/182/regulation/105) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

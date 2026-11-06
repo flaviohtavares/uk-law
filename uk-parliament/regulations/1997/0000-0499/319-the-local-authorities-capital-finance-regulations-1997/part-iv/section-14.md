@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Capital cost of leases[^key-30706cabb8d996c259c8828ca07de3da]
+## 14. Capital cost of leases[^c-30706cabb8d996c259c8828ca07de3da]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ that consideration shall not be regarded as having been given until the undertak
 
 ## Annotations
 
-[^key-30706cabb8d996c259c8828ca07de3da]: Commencement: Reg. 14 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-30706cabb8d996c259c8828ca07de3da]: Commencement: Reg. 14 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Arrangements where transitional conditions cease to be satisfied[^c21291401][^key-0818a3789f20e0d2a9cd664957db5ae9]
+## 16. Arrangements where transitional conditions cease to be satisfied[^c21291401][^c-0818a3789f20e0d2a9cd664957db5ae9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c21291401]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2012/3/section/16) partly in operation; [s. 16](https://www.legislation.gov.uk/nia/2012/3/section/16) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-0818a3789f20e0d2a9cd664957db5ae9]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2012/3/section/16) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/e)
+[^c-0818a3789f20e0d2a9cd664957db5ae9]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2012/3/section/16) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/e)

@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(1)(*j*), 61(1) and (2), 73(3) to (7) and 165(4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, and by this statutory rule which contains only regulations made by virtue of, or consequential upon, Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00002] and is made before the end of the period of six months from the coming into operation of that Article, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-43fcb29d7e313923049d7031cebccc80]
+## 1. Citation, commencement and interpretation[^c-43fcb29d7e313923049d7031cebccc80]
 
 (1) These Regulations may be cited as the Housing Benefit (Recovery of Overpayments) Regulations (Northern Ireland) 1997 and shall come into operation on 3rd November 1997, immediately following the coming into operation of the Housing Benefit (General) (Amendment No. 7) Regulations (Northern Ireland) 1997[^f00003].
 
@@ -52,7 +52,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Prescribed benefits[^key-fbf15e37746dfc24d7e01f3909c68c69]
+## 2. Prescribed benefits[^c-fbf15e37746dfc24d7e01f3909c68c69]
 
 (1) The benefits prescribed for the purposes of section 73(5) and (7)[^f00006] of the Act (recovery of overpaid housing benefit) are those set out in paragraphs (2) to (4).
 
@@ -67,7 +67,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) Prescribed benefits within section 73(7) of the Act (benefits recoverable from the county court) are housing benefit and those benefits prescribed from time to time in regulation 105(1) of the Housing Benefit Regulations.
 
-## 3. Restriction on recovery of rent and consequent notifications[^key-ade975be5b92ae24d20466d902283ab6]
+## 3. Restriction on recovery of rent and consequent notifications[^c-ade975be5b92ae24d20466d902283ab6]
 
 (1) Where, pursuant to section 73(5)(*b*) of the Act, an amount has been recovered by deduction from housing benefit paid to a person (referred to as “the landlord” in this regulation) to discharge (in whole or in part) an obligation owed to him by the person on whose behalf the recoverable amount was paid (referred to as “the tenant” in this regulation) that obligation shall, in a case to which paragraph (2) applies, be taken to be discharged by the amount of the deduction.
 
@@ -81,7 +81,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) the overpayment that it has recovered or that it has determined to recover (“that sum”) was one to which paragraph (2) applies, and
 - (b) the landlord has no right in relation to that sum against the tenant, and that his obligation to the landlord shall be taken to be discharged by the amount so recovered.
 
-## 4. Amendment of Schedule 6 to the Housing Benefit Regulations[^key-335dc23f492adae3b9ee7c26936beb4f]
+## 4. Amendment of Schedule 6 to the Housing Benefit Regulations[^c-335dc23f492adae3b9ee7c26936beb4f]
 
 (1) Schedule 6 to the Housing Benefit Regulations (matters to be included in the notice of determination) shall be amended in accordance with paragraphs (2) to (4).
 
@@ -134,7 +134,7 @@ Sub-sections (5) to (7) of section 73 of the Social Security Administration (Nor
 
 [^f00002]: Footnote: [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182); *see* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-43fcb29d7e313923049d7031cebccc80]: Commencement: Reg. 1 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+[^c-43fcb29d7e313923049d7031cebccc80]: Commencement: Reg. 1 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)
 
@@ -142,17 +142,17 @@ Sub-sections (5) to (7) of section 73 of the Social Security Administration (Nor
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fbf15e37746dfc24d7e01f3909c68c69]: Commencement: Reg. 2 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+[^c-fbf15e37746dfc24d7e01f3909c68c69]: Commencement: Reg. 2 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
 
 [^f00006]: Footnote: Section 73(5) and (7) was inserted by Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997
 
 [^f00007]: Footnote: Regulation 105(1) was amended by regulation 16 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), regulation 11(3) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) and regulation 18 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 
-[^key-ade975be5b92ae24d20466d902283ab6]: Commencement: Reg. 3 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+[^c-ade975be5b92ae24d20466d902283ab6]: Commencement: Reg. 3 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
 
 [^f00008]: Footnote: Section 109A was inserted by Article 14 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997
 
-[^key-335dc23f492adae3b9ee7c26936beb4f]: Commencement: Reg. 4 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+[^c-335dc23f492adae3b9ee7c26936beb4f]: Commencement: Reg. 4 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph 11 was amended by regulation 6(*a*) of [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)
 

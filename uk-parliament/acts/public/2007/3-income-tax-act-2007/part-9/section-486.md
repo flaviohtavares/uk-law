@@ -32,7 +32,7 @@ References at Steps 3 to 6 below to the allowable expenses are references to the
 
 Identify the type or types of income which make up the trust rate income.
 
-The possible types are dividend income, savings income , property income[^key-757de913d323086302dd2fae39b5ee7a] and other income.
+The possible types are dividend income, savings income , property income[^c-757de913d323086302dd2fae39b5ee7a] and other income.
 
 *Step 3*
 
@@ -58,14 +58,14 @@ For the purposes of this step “the remaining expenses” are the allowable exp
 
 If there are remaining expenses and there is savings income—
 
-- (a) gross up by reference to the savings basic rate[^key-ad2d93534c837eb5a444e439432f628e] so much of the remaining expenses as is necessary to give a result equal to the amount of that income, or
+- (a) gross up by reference to the savings basic rate[^c-ad2d93534c837eb5a444e439432f628e] so much of the remaining expenses as is necessary to give a result equal to the amount of that income, or
 - (b) if there are not enough remaining expenses to give that result, gross them all up by reference to that rate.
 
 The grossed up amount is set against the savings income.
 
 For the purposes of this step “the remaining expenses” are the allowable expenses so far as they have not been grossed up at Step 3 or 4.
 
-*Step 5A[^key-932aec9b1fabf0dfc04d9f87d8f84879]*
+*Step 5A[^c-932aec9b1fabf0dfc04d9f87d8f84879]*
 
 If there are remaining expenses and there is property income—
 
@@ -83,7 +83,7 @@ If there are remaining expenses and there is other income—
 
 The grossed up amount is set against the other income.
 
-For the purposes of this step “the remaining expenses” are the allowable expenses so far as they have not been grossed up at Step 3, 4 , 5 or 5A[^key-8efbc2b3517e0ffb115bb28a164e3869].
+For the purposes of this step “the remaining expenses” are the allowable expenses so far as they have not been grossed up at Step 3, 4 , 5 or 5A[^c-8efbc2b3517e0ffb115bb28a164e3869].
 
 (2) Income is within this subsection so far as it is—
 
@@ -95,10 +95,10 @@ For the purposes of this step “the remaining expenses” are the allowable exp
 
 ## Annotations
 
-[^key-757de913d323086302dd2fae39b5ee7a]: Textual amendment: Words in s. 486(1) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/a)
+[^c-757de913d323086302dd2fae39b5ee7a]: Textual amendment: Words in s. 486(1) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/a)
 
-[^key-ad2d93534c837eb5a444e439432f628e]: Textual amendment: Words in s. 486(1) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/b)
+[^c-ad2d93534c837eb5a444e439432f628e]: Textual amendment: Words in s. 486(1) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/b)
 
-[^key-932aec9b1fabf0dfc04d9f87d8f84879]: Textual amendment: Words in s. 486(1) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/c)
+[^c-932aec9b1fabf0dfc04d9f87d8f84879]: Textual amendment: Words in s. 486(1) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/c)
 
-[^key-8efbc2b3517e0ffb115bb28a164e3869]: Textual amendment: Words in s. 486(1) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(d)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/d)
+[^c-8efbc2b3517e0ffb115bb28a164e3869]: Textual amendment: Words in s. 486(1) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 27(d)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/27/d)

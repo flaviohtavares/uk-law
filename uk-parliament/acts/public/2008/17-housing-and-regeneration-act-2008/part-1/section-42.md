@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Agency arrangements with UDCs[^key-95680bf049b32c8c9f413fe4ab254bc5]
+## 42. Agency arrangements with UDCs[^c-95680bf049b32c8c9f413fe4ab254bc5]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The appointment—
 
-- (a) may be in connection with any of the functions of the HCA other than its functions in connection with Chapter 3 [^key-1bc40b0dd23b9ad86bfd898d226c4d16]..., and
+- (a) may be in connection with any of the functions of the HCA other than its functions in connection with Chapter 3 [^c-1bc40b0dd23b9ad86bfd898d226c4d16]..., and
 - (b) is to be on such terms as may be agreed.
 
-(2A)[^key-5cbbe63075ca01342b9ee981fd321594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-5cbbe63075ca01342b9ee981fd321594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The appointment must specify the functions in connection with which it is made.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-95680bf049b32c8c9f413fe4ab254bc5]: Commencement: S. 42 in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/r) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-95680bf049b32c8c9f413fe4ab254bc5]: Commencement: S. 42 in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/r) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-1bc40b0dd23b9ad86bfd898d226c4d16]: Textual amendment: Words in [s. 42(2)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/42/2/a) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-1bc40b0dd23b9ad86bfd898d226c4d16]: Textual amendment: Words in [s. 42(2)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/42/2/a) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-5cbbe63075ca01342b9ee981fd321594]: Textual amendment: [S. 42(2A)](https://www.legislation.gov.uk/ukpga/2008/17/section/42/2A) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/9/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-5cbbe63075ca01342b9ee981fd321594]: Textual amendment: [S. 42(2A)](https://www.legislation.gov.uk/ukpga/2008/17/section/42/2A) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/9/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

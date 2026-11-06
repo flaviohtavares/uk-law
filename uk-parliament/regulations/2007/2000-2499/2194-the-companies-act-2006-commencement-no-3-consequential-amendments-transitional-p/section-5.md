@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Provisions of the Companies Act 2006 coming into force on 1st October 2008[^key-738f8fb135bd78392e6be0668a0d80d0]
+## 5. Provisions of the Companies Act 2006 coming into force on 1st October 2008[^c-738f8fb135bd78392e6be0668a0d80d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-738f8fb135bd78392e6be0668a0d80d0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2194/article/5) in force at 1.10.2008, see [art. 1(3)(d)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/d)
+[^c-738f8fb135bd78392e6be0668a0d80d0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2194/article/5) in force at 1.10.2008, see [art. 1(3)(d)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/d)

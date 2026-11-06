@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Water saving measures[^key-29d939e2a5a4dd007812f7097bf8e11f]
+## SCHEDULE 2 — Water saving measures[^c-29d939e2a5a4dd007812f7097bf8e11f]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ The following are water saving measures—
 
 ## Annotations
 
-[^key-29d939e2a5a4dd007812f7097bf8e11f]: Commencement: Sch. 2 in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-29d939e2a5a4dd007812f7097bf8e11f]: Commencement: Sch. 2 in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

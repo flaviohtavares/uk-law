@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Abolition of function of assigning radio frequencies[^key-a1f1ecd72139cb2d249222c8b616e579]
+## 246. Abolition of function of assigning radio frequencies[^c-a1f1ecd72139cb2d249222c8b616e579]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Secretary of State shall cease to have any function under the 1990 Act or th
 
 ## Annotations
 
-[^key-a1f1ecd72139cb2d249222c8b616e579]: Commencement: S. 246 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a1f1ecd72139cb2d249222c8b616e579]: Commencement: S. 246 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

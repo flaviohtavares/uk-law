@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 148. Contractual relations in the milk and milk products sector[^key-c4a59bc27d5028d1ab142c3b68b6bff6]
+## Article 148. Contractual relations in the milk and milk products sector[^c-c4a59bc27d5028d1ab142c3b68b6bff6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4a59bc27d5028d1ab142c3b68b6bff6]: Textual amendment: [Art. 148](https://www.legislation.gov.uk/eur/2013/1308/article/148) omitted (9.7.2024) by virtue of [The Fair Dealing Obligations (Milk) Regulations 2024 (S.I. 2024/537)](https://www.legislation.gov.uk/uksi/2024/537), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7), [28(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/28/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/5))
+[^c-c4a59bc27d5028d1ab142c3b68b6bff6]: Textual amendment: [Art. 148](https://www.legislation.gov.uk/eur/2013/1308/article/148) omitted (9.7.2024) by virtue of [The Fair Dealing Obligations (Milk) Regulations 2024 (S.I. 2024/537)](https://www.legislation.gov.uk/uksi/2024/537), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7), [28(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/28/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/5))

@@ -50,31 +50,31 @@ This Order makes provision for a purpose mentioned in section 2(2) of that Act a
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, by paragraph 1A of Schedule 2 to that Act [^c20878041] and by sections 1, 2, 3, 4, 5 and 7 of the Export Control Act 2002 [^c20878051], makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-6f62f70e15f3c5344732dba628efb3ff]
+## 1. Citation, commencement and interpretation[^c-6f62f70e15f3c5344732dba628efb3ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences in relation to Eritrea[^key-6f62f70e15f3c5344732dba628efb3ff]
+## 2. Offences in relation to Eritrea[^c-6f62f70e15f3c5344732dba628efb3ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences in relation to designated persons[^key-6f62f70e15f3c5344732dba628efb3ff]
+## 3. Offences in relation to designated persons[^c-6f62f70e15f3c5344732dba628efb3ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Overlap with the 2008 Order[^key-8a8e1f868fa4963be63049967b020e82]
+## 4. Overlap with the 2008 Order[^c-8a8e1f868fa4963be63049967b020e82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-6f62f70e15f3c5344732dba628efb3ff]
+## 5. Penalties[^c-6f62f70e15f3c5344732dba628efb3ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of the 1979 Act[^key-6f62f70e15f3c5344732dba628efb3ff]
+## 6. Application of the 1979 Act[^c-6f62f70e15f3c5344732dba628efb3ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to the Export Control (North Korea) Order 2007[^key-dfc7c603e8cfff87028d5030f0b32c15]
+## 7. Amendment to the Export Control (North Korea) Order 2007[^c-dfc7c603e8cfff87028d5030f0b32c15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 In Schedule 2 to the 2008 Order, in entry ML9a.1. following “and components therefor specially designed” insert “ or modified ”.
 
-## 9. Review[^key-6f62f70e15f3c5344732dba628efb3ff]
+## 9. Review[^c-6f62f70e15f3c5344732dba628efb3ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,11 +126,11 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c20878051]: Marginal citation: [2002 c.28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-6f62f70e15f3c5344732dba628efb3ff]: Textual amendment: Order revoked (except art. 8) (30.6.2019) by [The Export Control (Amendment) Order 2019 (S.I. 2019/989)](https://www.legislation.gov.uk/uksi/2019/989), [arts. 1](https://www.legislation.gov.uk/uksi/2019/989/article/1), [3](https://www.legislation.gov.uk/uksi/2019/989/article/3)
+[^c-6f62f70e15f3c5344732dba628efb3ff]: Textual amendment: Order revoked (except art. 8) (30.6.2019) by [The Export Control (Amendment) Order 2019 (S.I. 2019/989)](https://www.legislation.gov.uk/uksi/2019/989), [arts. 1](https://www.legislation.gov.uk/uksi/2019/989/article/1), [3](https://www.legislation.gov.uk/uksi/2019/989/article/3)
 
-[^key-8a8e1f868fa4963be63049967b020e82]: Textual amendment: Art. 4 omitted (30.12.2011) by virtue of [The Export Control (Sudan and South Sudan Sanctions) and (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2925)](https://www.legislation.gov.uk/uksi/2011/2925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/1/1), [10(e)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/10/e)
+[^c-8a8e1f868fa4963be63049967b020e82]: Textual amendment: Art. 4 omitted (30.12.2011) by virtue of [The Export Control (Sudan and South Sudan Sanctions) and (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2925)](https://www.legislation.gov.uk/uksi/2011/2925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/1/1), [10(e)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/10/e)
 
-[^key-dfc7c603e8cfff87028d5030f0b32c15]: Textual amendment: Art. 7 revoked (7.1.2014) by [The Export Control (North Korea and Ivory Coast Sanctions and Syria Amendment) Order 2013 (S.I. 2013/3182)](https://www.legislation.gov.uk/uksi/2013/3182), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3182/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/3182/schedule)
+[^c-dfc7c603e8cfff87028d5030f0b32c15]: Textual amendment: Art. 7 revoked (7.1.2014) by [The Export Control (North Korea and Ivory Coast Sanctions and Syria Amendment) Order 2013 (S.I. 2013/3182)](https://www.legislation.gov.uk/uksi/2013/3182), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3182/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/3182/schedule)
 
 [^c20878251]: Marginal citation: OJ No L 195, 27.7.2010, p16.
 

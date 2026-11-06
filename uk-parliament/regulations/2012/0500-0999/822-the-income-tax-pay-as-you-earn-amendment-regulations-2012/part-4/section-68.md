@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. How information must or may be delivered by employers[^key-715b6b9d7ca67aba7fda0637880d9c82]
+## 68. How information must or may be delivered by employers[^c-715b6b9d7ca67aba7fda0637880d9c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Table 10 in regulation 211 (how information must or may be delivered by emplo
 
 ## Annotations
 
-[^key-715b6b9d7ca67aba7fda0637880d9c82]: Commencement: Reg. 68 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-715b6b9d7ca67aba7fda0637880d9c82]: Commencement: Reg. 68 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

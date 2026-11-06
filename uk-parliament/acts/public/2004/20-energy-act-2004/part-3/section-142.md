@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Interpretation of Chapter 1 of Part 3[^key-6a316384ac4cb21c3dea8d63b8c6a51a]
+## 142. Interpretation of Chapter 1 of Part 3[^c-6a316384ac4cb21c3dea8d63b8c6a51a]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ and references to the new trading and transmission arrangements are to be constr
 
 ## Annotations
 
-[^key-6a316384ac4cb21c3dea8d63b8c6a51a]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2004/20/section/142) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-6a316384ac4cb21c3dea8d63b8c6a51a]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2004/20/section/142) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

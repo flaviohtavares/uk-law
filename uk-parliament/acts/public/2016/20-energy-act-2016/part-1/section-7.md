@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Contracting out of functions to the OGA[^key-687f4508a842bff4ea991f440f6665b6]
+## 7. Contracting out of functions to the OGA[^c-687f4508a842bff4ea991f440f6665b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-687f4508a842bff4ea991f440f6665b6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/20/section/7) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-687f4508a842bff4ea991f440f6665b6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/20/section/7) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

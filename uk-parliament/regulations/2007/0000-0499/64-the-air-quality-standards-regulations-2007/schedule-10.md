@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Ozone precursor substances[^key-485e3a5db5560debee05c99a8b7974dc]
+## SCHEDULE 10 — Ozone precursor substances[^c-485e3a5db5560debee05c99a8b7974dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 18
 
-### 1. Objectives[^key-485e3a5db5560debee05c99a8b7974dc]
+### 1. Objectives[^c-485e3a5db5560debee05c99a8b7974dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Substances[^key-485e3a5db5560debee05c99a8b7974dc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Reference methods[^key-485e3a5db5560debee05c99a8b7974dc]
+### 3. Substances[^c-485e3a5db5560debee05c99a8b7974dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Monitoring sites[^key-485e3a5db5560debee05c99a8b7974dc]
+**4.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Reference methods[^c-485e3a5db5560debee05c99a8b7974dc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Monitoring sites[^c-485e3a5db5560debee05c99a8b7974dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)
+[^c-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)

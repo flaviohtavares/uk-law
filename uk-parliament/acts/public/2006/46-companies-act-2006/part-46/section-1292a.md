@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1292A. “Bank of England”[^key-18e4c845a2b70d5ef94d5c86636bd6e3]
+## 1292A. “Bank of England”[^c-18e4c845a2b70d5ef94d5c86636bd6e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act, except in section 796, references to the Bank of England do not inc
 
 ## Annotations
 
-[^key-18e4c845a2b70d5ef94d5c86636bd6e3]: Textual amendment: S. 1292A and crossheading inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/18)
+[^c-18e4c845a2b70d5ef94d5c86636bd6e3]: Textual amendment: S. 1292A and crossheading inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/18)

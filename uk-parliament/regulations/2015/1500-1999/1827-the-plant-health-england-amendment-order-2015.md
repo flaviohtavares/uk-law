@@ -33,7 +33,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (England) (Amendment) Order 2015 (revoked)[^key-846f6a436ab579c4922046ccdbeaed50]
+The Plant Health (England) (Amendment) Order 2015 (revoked)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 Made
 
@@ -47,68 +47,68 @@ Coming into force
 
 20th November 2015
 
-[^key-846f6a436ab579c4922046ccdbeaed50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-846f6a436ab579c4922046ccdbeaed50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-846f6a436ab579c4922046ccdbeaed50]
+## 1. Title and commencement[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (England) Order 2015[^key-846f6a436ab579c4922046ccdbeaed50]
+## 2. Amendment of the Plant Health (England) Order 2015[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 2 (general interpretation)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 3. Article 2 (general interpretation)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Article 22 (exceptions from certain prohibitions and requirements)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 4. Article 22 (exceptions from certain prohibitions and requirements)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Article 28 (conditions for maintaining registration as a plant trader)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 5. Article 28 (conditions for maintaining registration as a plant trader)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Article 42 (notification of the presence or suspected presence of certain plant pests)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 6. Article 42 (notification of the presence or suspected presence of certain plant pests)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Article 46 (offences)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 7. Article 46 (offences)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Schedule 1 (plant pests which may not be introduced into or spread within England)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 8. Schedule 1 (plant pests which may not be introduced into or spread within England)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Schedule 3 (relevant material which may not be introduced into England if that material originates in certain third countries)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 9. Schedule 3 (relevant material which may not be introduced into England if that material originates in certain third countries)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Schedule 4 (restrictions on the introduction into and movement within England of relevant material)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 10. Schedule 4 (restrictions on the introduction into and movement within England of relevant material)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Schedule 5 (relevant material from a third country for which a phytosanitary certificate may be required)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 11. Schedule 5 (relevant material from a third country for which a phytosanitary certificate may be required)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Schedule 6 (prohibitions on the introduction into or movement within England of relevant material without a plant passport)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 12. Schedule 6 (prohibitions on the introduction into or movement within England of relevant material without a plant passport)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Schedule 7 (prohibitions on the consignment of relevant material to another part of the European Union without a plant passport)[^key-846f6a436ab579c4922046ccdbeaed50]
+## 13. Schedule 7 (prohibitions on the consignment of relevant material to another part of the European Union without a plant passport)[^c-846f6a436ab579c4922046ccdbeaed50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-846f6a436ab579c4922046ccdbeaed50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-846f6a436ab579c4922046ccdbeaed50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-846f6a436ab579c4922046ccdbeaed50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-846f6a436ab579c4922046ccdbeaed50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-846f6a436ab579c4922046ccdbeaed50]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1827) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-846f6a436ab579c4922046ccdbeaed50]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1827) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

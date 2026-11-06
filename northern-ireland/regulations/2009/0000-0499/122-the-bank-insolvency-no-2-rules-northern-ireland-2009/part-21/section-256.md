@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 256. Preferential creditors[^key-9d8891c356847b7791388f802e7b8689]
+## 256. Preferential creditors[^c-9d8891c356847b7791388f802e7b8689]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.12 of the 1991 Rules.
 
 ## Annotations
 
-[^key-9d8891c356847b7791388f802e7b8689]: Commencement: Rule 256 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9d8891c356847b7791388f802e7b8689]: Commencement: Rule 256 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

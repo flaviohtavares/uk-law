@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26FA. Free-circulation procedure: use, sale or consumption of non-domestic stores on board a non-qualifying vehicle[^key-be4970edd53dd83435e3bf0827e864ba]
+## 26FA. Free-circulation procedure: use, sale or consumption of non-domestic stores on board a non-qualifying vehicle[^c-be4970edd53dd83435e3bf0827e864ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be4970edd53dd83435e3bf0827e864ba]: Textual amendment: [Reg. 26FA](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26FA) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/6)
+[^c-be4970edd53dd83435e3bf0827e864ba]: Textual amendment: [Reg. 26FA](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26FA) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/6)

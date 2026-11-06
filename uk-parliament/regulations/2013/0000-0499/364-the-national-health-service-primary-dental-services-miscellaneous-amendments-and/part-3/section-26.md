@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Amendment of regulation 5[^key-bea22449f32356a69c5b58057198398e]
+## 26. Amendment of regulation 5[^c-bea22449f32356a69c5b58057198398e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In regulation 5 and its heading (additional conditions relating to agreements wi
 
 ## Annotations
 
-[^key-bea22449f32356a69c5b58057198398e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/364/regulation/26) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-bea22449f32356a69c5b58057198398e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/364/regulation/26) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

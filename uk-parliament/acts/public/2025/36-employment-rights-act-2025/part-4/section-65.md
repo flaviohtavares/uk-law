@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Facilities for equality representatives[^key-4d774c856267a6029886099ee205b836][^key-621d1e176e6516cc59c576758adc4ee0][^key-2764b18aa9864b873b5ce056a657d3ce]
+## 65. Facilities for equality representatives[^c-4d774c856267a6029886099ee205b836][^c-621d1e176e6516cc59c576758adc4ee0][^c-2764b18aa9864b873b5ce056a657d3ce]
 
 *Extent: E+W+S*
 
@@ -148,8 +148,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4d774c856267a6029886099ee205b836]: Commencement: S. 65 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-4d774c856267a6029886099ee205b836]: Commencement: S. 65 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-621d1e176e6516cc59c576758adc4ee0]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/36/section/65) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-621d1e176e6516cc59c576758adc4ee0]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/36/section/65) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
 
-[^key-2764b18aa9864b873b5ce056a657d3ce]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/36/section/65) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))
+[^c-2764b18aa9864b873b5ce056a657d3ce]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/36/section/65) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))

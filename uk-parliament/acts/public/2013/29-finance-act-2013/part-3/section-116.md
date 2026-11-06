@@ -52,9 +52,9 @@ summary: ''
 - section 139 (property developers: exchange of dwellings);
 - section 141 (property traders);
 - section 143 (financial institutions acquiring dwellings in the course of lending);
-- section 144A (regulated home reversion plans);[^key-e80946807d6b0e75e845fedd5d65f5b9]
-- section 145 (occupation by employees or partners of a qualifying trade or property rental business[^key-42a42c11e723eb56ec39c214704904ec] );
-- section 147A (caretaker flat owned by management company);[^key-cddf492f641ebbd1255c0eb6bf04e23f]
+- section 144A (regulated home reversion plans);[^c-e80946807d6b0e75e845fedd5d65f5b9]
+- section 145 (occupation by employees or partners of a qualifying trade or property rental business[^c-42a42c11e723eb56ec39c214704904ec] );
+- section 147A (caretaker flat owned by management company);[^c-cddf492f641ebbd1255c0eb6bf04e23f]
 - section 148 (farmhouses);
 - section 150 (providers of social housing).
 
@@ -75,8 +75,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e80946807d6b0e75e845fedd5d65f5b9]: Textual amendment: Words in s. 116(6) inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/3)
+[^c-e80946807d6b0e75e845fedd5d65f5b9]: Textual amendment: Words in s. 116(6) inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/3)
 
-[^key-42a42c11e723eb56ec39c214704904ec]: Textual amendment: Words in s. 116(6) substituted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(8)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/8/a)
+[^c-42a42c11e723eb56ec39c214704904ec]: Textual amendment: Words in s. 116(6) substituted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(8)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/8/a)
 
-[^key-cddf492f641ebbd1255c0eb6bf04e23f]: Textual amendment: Words in s. 116(6) inserted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(8)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/8/b)
+[^c-cddf492f641ebbd1255c0eb6bf04e23f]: Textual amendment: Words in s. 116(6) inserted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(8)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/8/b)

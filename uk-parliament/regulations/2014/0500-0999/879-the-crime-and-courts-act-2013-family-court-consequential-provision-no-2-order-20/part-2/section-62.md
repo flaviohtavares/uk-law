@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**62.**[^key-a3bd33e5d4e02a3b8f6d3c85d63f5224] In paragraph 8—
+**62.**[^c-a3bd33e5d4e02a3b8f6d3c85d63f5224] In paragraph 8—
 
 - (a) in sub-paragraph (2), in the substituted section 9(1)(b) of the 1972 Act, for “a magistrates’ court” substitute “the family court in England and Wales or a magistrates’ court in Northern Ireland”; and
 - (b) after sub-paragraph (2), insert—
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3bd33e5d4e02a3b8f6d3c85d63f5224]: Commencement: Art. 62 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-a3bd33e5d4e02a3b8f6d3c85d63f5224]: Commencement: Art. 62 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

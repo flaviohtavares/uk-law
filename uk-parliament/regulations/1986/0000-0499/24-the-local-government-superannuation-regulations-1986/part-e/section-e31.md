@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E31. National Insurance[^key-3c3c7d96f3a372795a54bf5dd380e792]
+## E31. National Insurance[^c-3c3c7d96f3a372795a54bf5dd380e792]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ shall apply so as to reduce a pension payable in respect of any period of servic
 
 ## Annotations
 
-[^key-3c3c7d96f3a372795a54bf5dd380e792]: Commencement: [Reg. E31](https://www.legislation.gov.uk/uksi/1986/24/regulation/E31) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3c3c7d96f3a372795a54bf5dd380e792]: Commencement: [Reg. E31](https://www.legislation.gov.uk/uksi/1986/24/regulation/E31) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -46,10 +46,10 @@ summary: ''
   - (ii) compensation offer under section 302A(1) of this Act,
 
   that has been accepted (or deemed to have been accepted) by the accused in the two years preceding the date of an offence charged;
-- (b) a work order under section 303ZA(6) of this Act that has been completed in the two years preceding the date of an offence charged. ;[^key-c39c8ae1df8dae4b18471e4cd29343a2]
+- (b) a work order under section 303ZA(6) of this Act that has been completed in the two years preceding the date of an offence charged. ;[^c-c39c8ae1df8dae4b18471e4cd29343a2]
 - (c) a restoration notice given under subsection (4) of section 20A of the Nature Conservation (Scotland) Act 2004 (asp 6) in respect of which the accused has given notice of intention to comply under subsection (5) of that section in the two years preceding the date of an offence charged.
 
-(8)[^key-f28cd46d4b862c7b28d840ff3266a46e] Any reference in this section to a previous conviction includes, where relevant, a conviction by a court in any part of the United Kingdom or in any member State of the European Union.
+(8)[^c-f28cd46d4b862c7b28d840ff3266a46e] Any reference in this section to a previous conviction includes, where relevant, a conviction by a court in any part of the United Kingdom or in any member State of the European Union.
 
 ## Annotations
 
@@ -61,6 +61,6 @@ summary: ''
 
 [^c19796011]: Textual amendment: S. 69(6)(7) added (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 53(1)](https://www.legislation.gov.uk/asp/2007/6/section/53/1), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 
-[^key-c39c8ae1df8dae4b18471e4cd29343a2]: Textual amendment: S. 69(7)(c) and semi colon inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(3)(a)](https://www.legislation.gov.uk/asp/2011/6/section/40/3/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
+[^c-c39c8ae1df8dae4b18471e4cd29343a2]: Textual amendment: S. 69(7)(c) and semi colon inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(3)(a)](https://www.legislation.gov.uk/asp/2011/6/section/40/3/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
 
-[^key-f28cd46d4b862c7b28d840ff3266a46e]: Textual amendment: [S. 69(8)](https://www.legislation.gov.uk/ukpga/1995/46/section/69/8) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(5)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/5) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-f28cd46d4b862c7b28d840ff3266a46e]: Textual amendment: [S. 69(8)](https://www.legislation.gov.uk/ukpga/1995/46/section/69/8) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(5)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/5) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

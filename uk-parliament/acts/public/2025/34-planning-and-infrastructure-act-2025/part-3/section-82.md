@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Administering, implementing and monitoring EDPs[^key-bbfefe2e6ed08789801d1d70eec2ffba][^key-b3062b6d474aaca3858ebe340981f781]
+## 82. Administering, implementing and monitoring EDPs[^c-bbfefe2e6ed08789801d1d70eec2ffba][^c-b3062b6d474aaca3858ebe340981f781]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbfefe2e6ed08789801d1d70eec2ffba]: Commencement: S. 82 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-bbfefe2e6ed08789801d1d70eec2ffba]: Commencement: S. 82 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-b3062b6d474aaca3858ebe340981f781]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2025/34/section/82) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(g)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/g)
+[^c-b3062b6d474aaca3858ebe340981f781]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2025/34/section/82) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(g)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/g)

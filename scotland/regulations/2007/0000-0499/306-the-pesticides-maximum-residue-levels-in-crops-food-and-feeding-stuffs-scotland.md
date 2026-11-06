@@ -34,7 +34,7 @@ AGRICULTURE
 
 PESTICIDES
 
-The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Amendment (No. 2) Regulations 2007 (revoked)[^key-1542d48723854d756c75f83979ecf71d]
+The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Amendment (No. 2) Regulations 2007 (revoked)[^c-1542d48723854d756c75f83979ecf71d]
 
 Made
 
@@ -46,57 +46,57 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1(3) to (6)
 
-[^key-1542d48723854d756c75f83979ecf71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1542d48723854d756c75f83979ecf71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, interpretation and commencement[^key-1542d48723854d756c75f83979ecf71d]
+## 1. Citation, interpretation and commencement[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the principal Regulations[^key-1542d48723854d756c75f83979ecf71d]
+## 2. Amendment to the principal Regulations[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments coming into force on 16th August 2007[^key-1542d48723854d756c75f83979ecf71d]
+## 3. Amendments coming into force on 16th August 2007[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments coming into force on 28th August 2007[^key-1542d48723854d756c75f83979ecf71d]
+## 4. Amendments coming into force on 28th August 2007[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments coming into force on 2nd September 2007[^key-1542d48723854d756c75f83979ecf71d]
+## 5. Amendments coming into force on 2nd September 2007[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments coming into force on 21st January 2008[^key-1542d48723854d756c75f83979ecf71d]
+## 6. Amendments coming into force on 21st January 2008[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to regulation 5 of the 2007 Amendment Regulations[^key-1542d48723854d756c75f83979ecf71d]
+## 7. Amendment to regulation 5 of the 2007 Amendment Regulations[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to Schedule 1 to the 2007 Amendment Regulations[^key-1542d48723854d756c75f83979ecf71d]
+## 8. Amendment to Schedule 1 to the 2007 Amendment Regulations[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to Schedule 2 to the 2007 Amendment Regulations[^key-1542d48723854d756c75f83979ecf71d]
+## 9. Amendment to Schedule 2 to the 2007 Amendment Regulations[^c-1542d48723854d756c75f83979ecf71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1542d48723854d756c75f83979ecf71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1542d48723854d756c75f83979ecf71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ENTRIES INSERTED IN SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-1542d48723854d756c75f83979ecf71d]
+## SCHEDULE 1 — ENTRIES INSERTED IN SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-1542d48723854d756c75f83979ecf71d]
 
 Regulations 3 and 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ENTRIES SUBSTITUTED OR INSERTED IN SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^key-1542d48723854d756c75f83979ecf71d]
+## SCHEDULE 2 — ENTRIES SUBSTITUTED OR INSERTED IN SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^c-1542d48723854d756c75f83979ecf71d]
 
 Regulations 3, 4, 5 and 6
 
@@ -104,8 +104,8 @@ Regulations 3, 4, 5 and 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-1542d48723854d756c75f83979ecf71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1542d48723854d756c75f83979ecf71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1542d48723854d756c75f83979ecf71d]: Textual amendment: Regulations revoked (18.11.2008) by [The Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008 (S.S.I. 2008/342)](https://www.legislation.gov.uk/ssi/2008/342), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/342/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2008/342/schedule/2)
+[^c-1542d48723854d756c75f83979ecf71d]: Textual amendment: Regulations revoked (18.11.2008) by [The Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008 (S.S.I. 2008/342)](https://www.legislation.gov.uk/ssi/2008/342), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/342/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2008/342/schedule/2)

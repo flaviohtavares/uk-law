@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Insurance business: apportionment rules.[^key-fcb40573248ac1b0d6c237003f72ae1c]
+## 109. Insurance business: apportionment rules.[^c-fcb40573248ac1b0d6c237003f72ae1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb40573248ac1b0d6c237003f72ae1c]: Textual amendment: [S. 109](https://www.legislation.gov.uk/ukpga/2000/17/section/109) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(j)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/j)
+[^c-fcb40573248ac1b0d6c237003f72ae1c]: Textual amendment: [S. 109](https://www.legislation.gov.uk/ukpga/2000/17/section/109) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(j)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/j)

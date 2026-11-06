@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Statements of compatibility in relation to legislation[^key-155b9459a0a89526baef834bd776d9b7]
+## 23. Statements of compatibility in relation to legislation[^c-155b9459a0a89526baef834bd776d9b7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-155b9459a0a89526baef834bd776d9b7]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/1/section/23) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-155b9459a0a89526baef834bd776d9b7]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/1/section/23) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

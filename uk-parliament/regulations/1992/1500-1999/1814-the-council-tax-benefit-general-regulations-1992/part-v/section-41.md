@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Further provision with respect to students entering the United Kingdom from abroad[^key-036307b099825d762faf17a3c3cca908]
+## 41. Further provision with respect to students entering the United Kingdom from abroad[^c-036307b099825d762faf17a3c3cca908]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-036307b099825d762faf17a3c3cca908]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1992/1814/regulation/41) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-036307b099825d762faf17a3c3cca908]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1992/1814/regulation/41) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00063]: Footnote: Cmnd 9512.
 

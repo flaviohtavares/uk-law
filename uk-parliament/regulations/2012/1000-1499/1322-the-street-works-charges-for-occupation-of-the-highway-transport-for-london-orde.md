@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Street Works (Charges for Occupation of the Highway) (Transport for London) Order 2012 (revoked)[^key-b8b5fd488d929665d6b5ddb5914329d0]
+The Street Works (Charges for Occupation of the Highway) (Transport for London) Order 2012 (revoked)[^c-b8b5fd488d929665d6b5ddb5914329d0]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 11th June 2012
 
-[^key-b8b5fd488d929665d6b5ddb5914329d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8b5fd488d929665d6b5ddb5914329d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b8b5fd488d929665d6b5ddb5914329d0]
+## 1. Citation and commencement[^c-b8b5fd488d929665d6b5ddb5914329d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of local highway authority[^key-b8b5fd488d929665d6b5ddb5914329d0]
+## 2. Approval of local highway authority[^c-b8b5fd488d929665d6b5ddb5914329d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8b5fd488d929665d6b5ddb5914329d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8b5fd488d929665d6b5ddb5914329d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b8b5fd488d929665d6b5ddb5914329d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8b5fd488d929665d6b5ddb5914329d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b8b5fd488d929665d6b5ddb5914329d0]: Textual amendment: Order revoked (1.5.2021) by [The Street Works (Charges for Occupation of the Highway) (Transport for London) Order 2021 (S.I. 2021/540)](https://www.legislation.gov.uk/uksi/2021/540), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/540/article/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2021/540/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/540/article/3/2))
+[^c-b8b5fd488d929665d6b5ddb5914329d0]: Textual amendment: Order revoked (1.5.2021) by [The Street Works (Charges for Occupation of the Highway) (Transport for London) Order 2021 (S.I. 2021/540)](https://www.legislation.gov.uk/uksi/2021/540), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/540/article/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2021/540/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/540/article/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Defences[^key-f50e45c4033b9ef54ff3a65f9212dc5b]
+## 45. Defences[^c-f50e45c4033b9ef54ff3a65f9212dc5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f50e45c4033b9ef54ff3a65f9212dc5b]: Commencement: Reg. 45 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-f50e45c4033b9ef54ff3a65f9212dc5b]: Commencement: Reg. 45 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

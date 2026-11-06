@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Environment Agency to be enforcement authority under the Reservoirs Act 1975[^key-98638839537f75461d2ca779fff66b6d]
+## 74. Environment Agency to be enforcement authority under the Reservoirs Act 1975[^c-98638839537f75461d2ca779fff66b6d]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98638839537f75461d2ca779fff66b6d]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2003/37/section/74) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/k) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-98638839537f75461d2ca779fff66b6d]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2003/37/section/74) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/k) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

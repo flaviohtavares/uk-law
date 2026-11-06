@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Guardian’s Allowances) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-066ae8e4515e06fb777c29b2558d64a9]
+The Social Security (Guardian’s Allowances) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-066ae8e4515e06fb777c29b2558d64a9]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 31st August 1998
 
-[^key-066ae8e4515e06fb777c29b2558d64a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-066ae8e4515e06fb777c29b2558d64a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-066ae8e4515e06fb777c29b2558d64a9]
+## 1. Citation, commencement and interpretation[^c-066ae8e4515e06fb777c29b2558d64a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Guardian’s Allowances) Regulations[^key-066ae8e4515e06fb777c29b2558d64a9]
+## 2. Amendment of the Social Security (Guardian’s Allowances) Regulations[^c-066ae8e4515e06fb777c29b2558d64a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-066ae8e4515e06fb777c29b2558d64a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-066ae8e4515e06fb777c29b2558d64a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-066ae8e4515e06fb777c29b2558d64a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-066ae8e4515e06fb777c29b2558d64a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-066ae8e4515e06fb777c29b2558d64a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/263) revoked (7.4.2003 immediately after the commencement of 2002 c. 21, s. 49) by [The Guardian’s Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2)
+[^c-066ae8e4515e06fb777c29b2558d64a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/263) revoked (7.4.2003 immediately after the commencement of 2002 c. 21, s. 49) by [The Guardian’s Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2)

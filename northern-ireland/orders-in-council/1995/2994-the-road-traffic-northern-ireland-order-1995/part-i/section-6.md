@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Certain vehicles not to be treated as motor vehicles[^key-531db6909eab2b475b7f9955208ed595]
+## 6. Certain vehicles not to be treated as motor vehicles[^c-531db6909eab2b475b7f9955208ed595]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ is to be treated as not being a motor vehicle.
 
 ## Annotations
 
-[^key-531db6909eab2b475b7f9955208ed595]: Modification: Art. 6 applied (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 27(3)](https://www.legislation.gov.uk/nia/2016/21/section/27/3), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-531db6909eab2b475b7f9955208ed595]: Modification: Art. 6 applied (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 27(3)](https://www.legislation.gov.uk/nia/2016/21/section/27/3), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
 
 [^c17246851]: Textual amendment: [1996 NI 10](https://www.legislation.gov.uk/nisi/1996)

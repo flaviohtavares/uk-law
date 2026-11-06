@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.5. When discontinuance takes effect where permission of the court is not needed[^key-ed47c0e7e4d9373cd3c95cb56bda1ffe]
+## 38.5. When discontinuance takes effect where permission of the court is not needed[^c-ed47c0e7e4d9373cd3c95cb56bda1ffe]
 
 *Extent: E+W*
 
-(1) Discontinuance against any defendant takes effect on the date when notice of discontinuance is served on them[^key-d8266192c45161c7956b90c4efcfb33a] under rule 38.3(1).
+(1) Discontinuance against any defendant takes effect on the date when notice of discontinuance is served on them[^c-d8266192c45161c7956b90c4efcfb33a] under rule 38.3(1).
 
-(2) Subject to rule 38.4, the claim is[^key-5de1da892a5482c82e3d7d26be374792] brought to an end as against that defendant[^key-29e2d8fa8ff9c0e85ff5905352080222] on that date.
+(2) Subject to rule 38.4, the claim is[^c-5de1da892a5482c82e3d7d26be374792] brought to an end as against that defendant[^c-29e2d8fa8ff9c0e85ff5905352080222] on that date.
 
 (3) However, this does not affect proceedings to deal with any question of costs.
 
 ## Annotations
 
-[^key-ed47c0e7e4d9373cd3c95cb56bda1ffe]: Commencement: [Rule 38.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-ed47c0e7e4d9373cd3c95cb56bda1ffe]: Commencement: [Rule 38.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-d8266192c45161c7956b90c4efcfb33a]: Textual amendment: Word in [rule 38.5(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5/1) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/21/5/a)
+[^c-d8266192c45161c7956b90c4efcfb33a]: Textual amendment: Word in [rule 38.5(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5/1) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/21/5/a)
 
-[^key-5de1da892a5482c82e3d7d26be374792]: Textual amendment: Words in [rule 38.5(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5/2) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [21(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/105/rule/21/5/b/i)
+[^c-5de1da892a5482c82e3d7d26be374792]: Textual amendment: Words in [rule 38.5(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5/2) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [21(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/105/rule/21/5/b/i)
 
-[^key-29e2d8fa8ff9c0e85ff5905352080222]: Textual amendment: Words in [rule 38.5(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5/2) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [21(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/105/rule/21/5/b/ii)
+[^c-29e2d8fa8ff9c0e85ff5905352080222]: Textual amendment: Words in [rule 38.5(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/38.5/2) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [21(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/105/rule/21/5/b/ii)

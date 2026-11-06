@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Movement of eggs from premises where low pathogenic avian influenza is confirmed[^key-360a3849ff0434ff292a466fa023f4fa]
+## 48. Movement of eggs from premises where low pathogenic avian influenza is confirmed[^c-360a3849ff0434ff292a466fa023f4fa]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-360a3849ff0434ff292a466fa023f4fa]: Commencement: Reg. 48 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-360a3849ff0434ff292a466fa023f4fa]: Commencement: Reg. 48 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

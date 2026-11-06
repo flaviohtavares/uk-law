@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. The Town and Country Planning (Cardiff Bay Urban Development Area) Special Development Order 1989[^key-ce92b214cc864a03962be5999ba8ffc7]
+## 7. The Town and Country Planning (Cardiff Bay Urban Development Area) Special Development Order 1989[^c-ce92b214cc864a03962be5999ba8ffc7]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In article 2 of the Town and Country Planning (Cardiff Bay Urban Development Are
 
 ## Annotations
 
-[^key-ce92b214cc864a03962be5999ba8ffc7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/924/regulation/7) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-ce92b214cc864a03962be5999ba8ffc7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/924/regulation/7) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1989/1180](https://www.legislation.gov.uk/uksi/1989/1180), to which there are amendments not relevant to these Regulations.

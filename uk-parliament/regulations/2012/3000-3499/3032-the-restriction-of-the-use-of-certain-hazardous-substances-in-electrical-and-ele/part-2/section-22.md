@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A manufacturer may, by written mandate, appoint a person established within the United Kingdom[^key-c5d6bbd486aac0e966eaff68a73d276f] as their authorised representative to act on the manufacturer’s behalf in relation to specified tasks.
+(1) A manufacturer may, by written mandate, appoint a person established within the United Kingdom[^c-c5d6bbd486aac0e966eaff68a73d276f] as their authorised representative to act on the manufacturer’s behalf in relation to specified tasks.
 
 (2) The mandate must allow the authorised representative to do at least the following in relation to EEE covered by the mandate—
 
-- (a) perform the manufacturer’s obligations under regulation 15 (duty to keep technical documentation and [^key-9c896103a7d3786b0280d076f059e7d3]... declaration of conformity); and
+- (a) perform the manufacturer’s obligations under regulation 15 (duty to keep technical documentation and [^c-9c896103a7d3786b0280d076f059e7d3]... declaration of conformity); and
 - (b) perform the manufacturer’s obligations under paragraph (4) of regulation 21 (cooperation with the authorities).
 
 (3) An authorised representative may not be appointed to perform the manufacturer’s obligations under regulation 11 (design and manufacture of EEE ) or paragraph (1)(a) of regulation 12 (conformity assessment procedure and drawing up of technical documentation).
@@ -40,7 +40,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A manufacturer may, by written mandate, appoint a person established within a relevant state[^key-2a5737de54795d24926fd4ba113c2664] as their authorised representative to act on the manufacturer’s behalf in relation to specified tasks.
+(1) A manufacturer may, by written mandate, appoint a person established within a relevant state[^c-2a5737de54795d24926fd4ba113c2664] as their authorised representative to act on the manufacturer’s behalf in relation to specified tasks.
 
 (2) The mandate must allow the authorised representative to do at least the following in relation to EEE covered by the mandate—
 
@@ -60,10 +60,10 @@ summary: ''
 
 [^M_E_54e8556c-11f4-482d-e29e-0dbf68286ce0]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c5d6bbd486aac0e966eaff68a73d276f]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/22/1) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(15)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/15/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5d6bbd486aac0e966eaff68a73d276f]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/22/1) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(15)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/15/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c896103a7d3786b0280d076f059e7d3]: Textual amendment: Word in [reg. 22(2)(a)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/22/2/a) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(15)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/15/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c896103a7d3786b0280d076f059e7d3]: Textual amendment: Word in [reg. 22(2)(a)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/22/2/a) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(15)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/15/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_ae52ae5e-bba9-43dd-bcc1-4c35139bb0cf]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-2a5737de54795d24926fd4ba113c2664]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/22/1) substituted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [14(6)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/14/6)
+[^c-2a5737de54795d24926fd4ba113c2664]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/22/1) substituted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [14(6)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/14/6)

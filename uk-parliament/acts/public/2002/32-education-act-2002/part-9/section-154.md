@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Establishment or alteration of maintained nursery schools[^key-73088ca3d298d87feffeef9ce87da303]
+## 154. Establishment or alteration of maintained nursery schools[^c-73088ca3d298d87feffeef9ce87da303]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73088ca3d298d87feffeef9ce87da303]: Textual amendment: S. 154 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(9)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/9); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-73088ca3d298d87feffeef9ce87da303]: Textual amendment: S. 154 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(9)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/9); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The victims’ code[^key-df39d671e9c4cfb980f4bcbc414fa85b]
+## 2. The victims’ code[^c-df39d671e9c4cfb980f4bcbc414fa85b]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) victims, or
 - (b) any aspect of the criminal justice system.
 
-(2)[^key-564a7a724a211c14560dfd3a432a49c7] In this Part, the “**victims’ code**” means the code of practice issued under this section that is for the time being in operation (but see subsection (13)).
+(2)[^c-564a7a724a211c14560dfd3a432a49c7] In this Part, the “**victims’ code**” means the code of practice issued under this section that is for the time being in operation (but see subsection (13)).
 
 (3) The victims’ code must make provision for services which reflect the principles that victims require—
 
@@ -34,7 +34,7 @@ summary: ''
 - (c) the opportunity to make their views heard in the criminal justice process;
 - (d) the ability to challenge decisions which have a direct impact on them.
 
-(3A)[^key-d796939caf102ef4bff8c0c1faa0e2d4] The victims’ code must make provision about informing victims of the opportunity to ask the Attorney General to refer a case to the Court of Appeal under section 36 of the Criminal Justice Act 1988 (unduly lenient sentences).
+(3A)[^c-d796939caf102ef4bff8c0c1faa0e2d4] The victims’ code must make provision about informing victims of the opportunity to ask the Attorney General to refer a case to the Court of Appeal under section 36 of the Criminal Justice Act 1988 (unduly lenient sentences).
 
 (3B) Subsection (3A) applies only in respect of—
 
@@ -74,14 +74,14 @@ summary: ''
 
 (12) In this section, “**specified**” means specified in the victims’ code.
 
-(13)[^key-564a7a724a211c14560dfd3a432a49c7] Until the first code of practice issued under this section is in operation, references in subsection (3A) and[^key-95a8cc6b943fe961210a609f5cd25688] sections 5 to 12 and 32 to the “victims’ code” are to the code of practice issued under section 32 of the Domestic Violence, Crime and Victims Act 2004 that is for the time being in operation.
+(13)[^c-564a7a724a211c14560dfd3a432a49c7] Until the first code of practice issued under this section is in operation, references in subsection (3A) and[^c-95a8cc6b943fe961210a609f5cd25688] sections 5 to 12 and 32 to the “victims’ code” are to the code of practice issued under section 32 of the Domestic Violence, Crime and Victims Act 2004 that is for the time being in operation.
 
 ## Annotations
 
-[^key-df39d671e9c4cfb980f4bcbc414fa85b]: Commencement: S. 2 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-df39d671e9c4cfb980f4bcbc414fa85b]: Commencement: S. 2 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-564a7a724a211c14560dfd3a432a49c7]: Commencement: S. 2(2)(13) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/b)
+[^c-564a7a724a211c14560dfd3a432a49c7]: Commencement: S. 2(2)(13) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/b)
 
-[^key-d796939caf102ef4bff8c0c1faa0e2d4]: Textual amendment: S. 2(3A)(3B) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/14/2), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-d796939caf102ef4bff8c0c1faa0e2d4]: Textual amendment: S. 2(3A)(3B) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/14/2), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
 
-[^key-95a8cc6b943fe961210a609f5cd25688]: Textual amendment: Words in s. 2(13) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/14/3), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-95a8cc6b943fe961210a609f5cd25688]: Textual amendment: Words in s. 2(13) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/14/3), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)

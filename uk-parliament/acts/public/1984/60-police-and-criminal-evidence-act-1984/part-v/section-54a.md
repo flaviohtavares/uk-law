@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Searches and examination to ascertain identity[^key-6ffd583f3ac1e09bce69c7b64d5f6ac5][^c19009911][^c11323671]
+## 54A. Searches and examination to ascertain identity[^c-6ffd583f3ac1e09bce69c7b64d5f6ac5][^c19009911][^c11323671]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6ffd583f3ac1e09bce69c7b64d5f6ac5]: Modification: S. 54A applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
+[^c-6ffd583f3ac1e09bce69c7b64d5f6ac5]: Modification: S. 54A applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
 
 [^c19009911]: Modification: S. 54A applied (with modifications) (31.12.2006) by [The Police and Criminal Evidence Act 1984 (Application to the Armed Forces) Order 2006 (S.I. 2006/2015)](https://www.legislation.gov.uk/uksi/2006/2015), [arts. 2](https://www.legislation.gov.uk/uksi/2006/2015/article/2), [3](https://www.legislation.gov.uk/uksi/2006/2015/article/3), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2006/2015/schedule/1)
 

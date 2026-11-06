@@ -24,10 +24,10 @@ Where there is a duty on a shipowner to provide for the repatriation of a seafar
 
 - (a) the seafarer is repatriated in accordance with regulation 20;
 - (b) the shipowner makes reasonable arrangements for repatriation which are unsuccessful because of the seafarer's unreasonable conduct;
-- (c) except where the seafarer is held captive as a result of piracy or armed robbery against a ship,[^key-f72637492ee2e18efaa29a8545fd4ba1] the shipowner has used reasonable endeavours to contact the seafarer for a period of three months or more, but has been unable to make such contact;
+- (c) except where the seafarer is held captive as a result of piracy or armed robbery against a ship,[^c-f72637492ee2e18efaa29a8545fd4ba1] the shipowner has used reasonable endeavours to contact the seafarer for a period of three months or more, but has been unable to make such contact;
 - (d) the seafarer confirms in writing to the shipowner that repatriation is not required; or
 - (e) the seafarer is dead.
 
 ## Annotations
 
-[^key-f72637492ee2e18efaa29a8545fd4ba1]: Textual amendment: Words in reg. 21(c) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/2/4)
+[^c-f72637492ee2e18efaa29a8545fd4ba1]: Textual amendment: Words in reg. 21(c) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/2/4)

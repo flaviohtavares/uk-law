@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the organisation of working time, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b1876f9bef8bc142c77210b29fc483db]
+## 1. Citation and commencement[^c-b1876f9bef8bc142c77210b29fc483db]
 
 These Regulations may be cited as the Road Transport (Working Time) Regulations (Northern Ireland) 2005 and shall come into operation on 16th June 2005.
 
-## 2. Interpretation[^key-c8919dcb55c93e1295924b30eb9ed83e]
+## 2. Interpretation[^c-c8919dcb55c93e1295924b30eb9ed83e]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -55,8 +55,8 @@ These Regulations may be cited as the Road Transport (Working Time) Regulations 
 
 - “AETR” means the European agreement concerning the work of crews of vehicles engaged in international road transport[^f00004] of 1st July 1970;
 - “collective agreement” means a collective agreement within the meaning of Article 2(2) of the Industrial Relations (Northern Ireland) Order 1992[^f00005], the trade union parties to which are independent trade unions within the meaning of section 6 of that Order;
-- “[^key-d5a1df66e723976034be94186095c128]**the Community Drivers’ Hours Regulation**” means Regulation [(EC) No. 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (and amending and repealing certain Council Regulations);
-- “the Department” means the Department for Infrastructure;[^key-122c2837270601323f6d8984eea03246]
+- “[^c-d5a1df66e723976034be94186095c128]**the Community Drivers’ Hours Regulation**” means Regulation [(EC) No. 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (and amending and repealing certain Council Regulations);
+- “the Department” means the Department for Infrastructure;[^c-122c2837270601323f6d8984eea03246]
 - “employer” in relation to a worker, means the person by whom the worker is (or, where the employment has ceased, was) employed;
 - “employment” in relation to a worker, means employment under his contract, and “employed” shall be construed accordingly;
 - “goods” includes goods or burden of any description;
@@ -66,24 +66,24 @@ These Regulations may be cited as the Road Transport (Working Time) Regulations 
 - “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
 - “night time” means in respect of goods vehicles the period between midnight and 4 a.m. and in respect of passenger vehicles the period between 1 a.m. and 5 a.m.;
 - “night work” means any work performed during night time;
-- “period of availability” means a period during which the mobile worker or self-employed driver is not required to remain at his workstation, but—[^key-e68e8b48b1a4c3ec5513faec17e93ae6]
+- “period of availability” means a period during which the mobile worker or self-employed driver is not required to remain at his workstation, but—[^c-e68e8b48b1a4c3ec5513faec17e93ae6]
   - (a) in the case of a mobile worker, is required to be available; or
   - (b) in the case of a self-employed driver, makes himself available,
 
     to answer any calls to start or resume driving or to carry out other work, including periods during which the mobile worker or self-employed driver is accompanying a vehicle being transported by a ferry or by a train as well as periods of waiting at frontiers and those due to traffic prohibitions;
 - “passenger vehicle” means a motor vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver;
 - “reference period” means the period for calculation of the average maximum weekly working time;
-- “relevant requirements” means regulations 4(8) and (9), 7(5) and (6), 8(2) and (3), 9(4) and (5), 10, 11, 11A and 12;[^key-d1bca1cef36f5b6db97a1085e219fa3b]
-- “self-employed driver” means anyone whose main occupation is to transport passengers or goods by road for hire or reward within the meaning of EU[^key-27f10c19ee3054c2ada3a2e7663d41e7] legislation under cover of a EU licence or any other professional authorisation to carry out such transport, who is entitled to work for himself and who is not tied to an employer by an employment contract or by any other type of working hierarchical relationship, who is free to organise the relevant working activities, whose income depends directly on the profits made and who has the freedom, individually or through a co-operation between self-employed drivers, to have commercial relations with several customers;
+- “relevant requirements” means regulations 4(8) and (9), 7(5) and (6), 8(2) and (3), 9(4) and (5), 10, 11, 11A and 12;[^c-d1bca1cef36f5b6db97a1085e219fa3b]
+- “self-employed driver” means anyone whose main occupation is to transport passengers or goods by road for hire or reward within the meaning of EU[^c-27f10c19ee3054c2ada3a2e7663d41e7] legislation under cover of a EU licence or any other professional authorisation to carry out such transport, who is entitled to work for himself and who is not tied to an employer by an employment contract or by any other type of working hierarchical relationship, who is free to organise the relevant working activities, whose income depends directly on the profits made and who has the freedom, individually or through a co-operation between self-employed drivers, to have commercial relations with several customers;
 - “vehicle” means a goods vehicle or a passenger vehicle;
 - “week” means a period of seven days beginning at midnight between Sunday and Monday;
-- “worker” means an individual who is not a self-employed driver and[^key-dd2305b1446f8470931f54aba8b01c1a] who has entered into or works under (or, where employment has ceased, worked under) –
+- “worker” means an individual who is not a self-employed driver and[^c-dd2305b1446f8470931f54aba8b01c1a] who has entered into or works under (or, where employment has ceased, worked under) –
   - (a) a contract of employment; or
   - (b) any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract,
 
   and any reference to a worker’s contract shall be construed accordingly;
 - “workforce agreement” means an agreement between an employer and mobile workers employed by him or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied;
-- “working time” means the time from the beginning to the end of work during which—[^key-3598d8d901dc133fd54eea5ae4fda342]
+- “working time” means the time from the beginning to the end of work during which—[^c-3598d8d901dc133fd54eea5ae4fda342]
   - (a) the mobile worker or self-employed driver is at his workstation;
   - (b) the mobile worker is at the disposal of his employer, or (as applicable) the self-employed driver is at the disposal of the client; and
   - (c) the mobile worker or self-employed driver is exercising his functions or activities, being—
@@ -97,46 +97,46 @@ These Regulations may be cited as the Road Transport (Working Time) Regulations 
 
     but, in relation to self-employed drivers, general administrative work that is not directly linked to the specific transport operation under way is excluded from working time;
 - “workstation” means –
-  - (a) in relation to a mobile worker,[^key-9b9f14f362e2c2693c3484339f844cf1] the location of the main place of business of the undertaking for which the person performing mobile transport activities carries out duties, together with its various subsidiary places of business, regardless of whether they are located in the same place as its head office or its main place of business;
-  - (b) in relation to a mobile worker or a self-employed driver,[^key-6e123cc7f4b93342ac81fd3bc4815318] the vehicle which the person performing mobile road transport activities uses when he carries out duties; or
+  - (a) in relation to a mobile worker,[^c-9b9f14f362e2c2693c3484339f844cf1] the location of the main place of business of the undertaking for which the person performing mobile transport activities carries out duties, together with its various subsidiary places of business, regardless of whether they are located in the same place as its head office or its main place of business;
+  - (b) in relation to a mobile worker or a self-employed driver,[^c-6e123cc7f4b93342ac81fd3bc4815318] the vehicle which the person performing mobile road transport activities uses when he carries out duties; or
   - (c) in relation to a mobile worker or a self-employed driver, any other place in which activities connected with transport are carried out.
 
-## 3. Application[^key-121341d74021087990280be539e099f9]
+## 3. Application[^c-121341d74021087990280be539e099f9]
 
-(1) These Regulations apply to mobile workers who are employed by, or who do work for, undertakings established in the United Kingdom[^key-6661aded1b596c3f724c5ce5f0c44745] , and to whom paragraph (2) or paragraph (3) applies.
+(1) These Regulations apply to mobile workers who are employed by, or who do work for, undertakings established in the United Kingdom[^c-6661aded1b596c3f724c5ce5f0c44745] , and to whom paragraph (2) or paragraph (3) applies.
 
-(1A)[^key-090abc968c18c428fb30fea001ca73db] These Regulations also apply to self-employed drivers who are established in, or who do work for undertakings established in, the United Kingdom[^key-4c52dbf23db72b63a9d733b7138e5993] , and to whom paragraph (2) or (3) applies.
+(1A)[^c-090abc968c18c428fb30fea001ca73db] These Regulations also apply to self-employed drivers who are established in, or who do work for undertakings established in, the United Kingdom[^c-4c52dbf23db72b63a9d733b7138e5993] , and to whom paragraph (2) or (3) applies.
 
-(2)[^key-1238d455697de9c5c84cbf794e298c29] This paragraph applies to mobile workers or self-employed drivers who, in the course of their employment or working activities,[^key-204bd8c1ae4caf43c329134decfbf5a5] , drive or travel in or on vehicles—
+(2)[^c-1238d455697de9c5c84cbf794e298c29] This paragraph applies to mobile workers or self-employed drivers who, in the course of their employment or working activities,[^c-204bd8c1ae4caf43c329134decfbf5a5] , drive or travel in or on vehicles—
 
 - (a) which are vehicles within the meaning of Article 4(b) of the Community Drivers’ Hours Regulation,
 - (b) which are not vehicles described in Article 3 of that Regulation, and
-- (c) which are not vehicles exempted from the provisions of that Regulation under regulation 3 (exemption from the Community Drivers’ Hours Regulation) of the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009[^key-ba9764964e83a5262f5ef57887c4cca5] .
+- (c) which are not vehicles exempted from the provisions of that Regulation under regulation 3 (exemption from the Community Drivers’ Hours Regulation) of the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009[^c-ba9764964e83a5262f5ef57887c4cca5] .
 
-(3) This paragraph applies to mobile workers or self-employed drivers, to whom paragraph (2) does not apply, who in the course of their employment or working activities, drive or travel in[^key-69b32fee8e497c94f8689f434f41f5d3] or travel in, vehicles –
+(3) This paragraph applies to mobile workers or self-employed drivers, to whom paragraph (2) does not apply, who in the course of their employment or working activities, drive or travel in[^c-69b32fee8e497c94f8689f434f41f5d3] or travel in, vehicles –
 
 - (a) which fall within the meaning of a “vehicle” in Article 1 of the AETR;
-- (b) which are not referred to in Article Article 2(2)[^key-811de02871c695af68da4d8b2f4aba59] ) of the AETR; and
-- (c) which are performing transport operations wholly or partly outside the United Kingdom[^key-d64bda482b76d005490dd90c090f43ab] .
+- (b) which are not referred to in Article Article 2(2)[^c-811de02871c695af68da4d8b2f4aba59] ) of the AETR; and
+- (c) which are performing transport operations wholly or partly outside the United Kingdom[^c-d64bda482b76d005490dd90c090f43ab] .
 
-(4)[^key-12a4a4a39b6d690fce7e89d06aa57d57] These Regulations do not apply to any mobile worker or self-employed driver who does work which is included in the calculation of working time—
+(4)[^c-12a4a4a39b6d690fce7e89d06aa57d57] These Regulations do not apply to any mobile worker or self-employed driver who does work which is included in the calculation of working time—
 
 - (a) where the reference period is shorter than 26 weeks, on fewer than 11 days in a reference period applicable to that mobile worker or self-employed driver; or
 - (b) in any other case on fewer than 16 days in a reference period applicable to that mobile worker or self-employed driver.
 
-## 4. Working time[^key-7eb9cb2c2b964d54235436527b12fbd1]
+## 4. Working time[^c-7eb9cb2c2b964d54235436527b12fbd1]
 
-(1) Subject to paragraph (2), the working time, including overtime, of a mobile worker or self-employed driver[^key-41ba41c482a9081115f769f8787910ad] shall not exceed 60 hours in a week.
+(1) Subject to paragraph (2), the working time, including overtime, of a mobile worker or self-employed driver[^c-41ba41c482a9081115f769f8787910ad] shall not exceed 60 hours in a week.
 
-(2) In any reference period which is applicable to his case, the working time of a mobile worker or self-employed driver[^key-c8e3b42cc32b5b869dfbf600f7795e5c] shall not exceed an average of 48 hours for each week.
+(2) In any reference period which is applicable to his case, the working time of a mobile worker or self-employed driver[^c-c8e3b42cc32b5b869dfbf600f7795e5c] shall not exceed an average of 48 hours for each week.
 
-(3) The reference periods which apply [^key-e32ce1b2b2f1a8286f97144e7d6efc1e]...shall be –
+(3) The reference periods which apply [^c-e32ce1b2b2f1a8286f97144e7d6efc1e]...shall be –
 
-- (a)[^key-e9c253ab56093e0df8ad90f5ad4c11b9] in the case of a mobile worker—
+- (a)[^c-e9c253ab56093e0df8ad90f5ad4c11b9] in the case of a mobile worker—
   - (i) where a collective agreement or a workforce agreement provides for the application of this regulation in relation to successive periods of 17 weeks, each such period; or
   - (ii) where there is no such provision, and the employer gives written notice to the mobile worker that he intends to apply this sub-paragraph, any period of 17 weeks in the course of the worker’s employment;
-- (b)[^key-2c8d8e59056dc6bf68c8ca3e5dc84a39] in the case of a self-employed driver who elects to apply this sub-paragraph in relation to any period of 17 weeks or to successive periods of 17 weeks, each such period; or
-- (c) in any other case for a mobile worker or self-employed driver,[^key-97c71cf66a7ae3e27ea95f1447467f35] , the period ending at midnight between Sunday 31st July 2005 and Monday 1st August 2005 and thereafter, in each year, the successive periods beginning at midnight at the beginning of the Monday which falls on, or is the first Monday after, a date in column 1 below and ending at midnight at the beginning of the Monday which falls on, or is the first Monday after, the date on the same line in column 2 below.
+- (b)[^c-2c8d8e59056dc6bf68c8ca3e5dc84a39] in the case of a self-employed driver who elects to apply this sub-paragraph in relation to any period of 17 weeks or to successive periods of 17 weeks, each such period; or
+- (c) in any other case for a mobile worker or self-employed driver,[^c-97c71cf66a7ae3e27ea95f1447467f35] , the period ending at midnight between Sunday 31st July 2005 and Monday 1st August 2005 and thereafter, in each year, the successive periods beginning at midnight at the beginning of the Monday which falls on, or is the first Monday after, a date in column 1 below and ending at midnight at the beginning of the Monday which falls on, or is the first Monday after, the date on the same line in column 2 below.
 
   | Column 1 (beginning) | Column 2 (end) |
   | --- | --- |
@@ -144,11 +144,11 @@ These Regulations may be cited as the Road Transport (Working Time) Regulations 
   | 1st April | 1st August |
   | 1st August | 1st December |
 
-(4) The reference period may be extended in relation to particular mobile workers or groups of mobile workers for objective or technical reasons or reasons concerning the organisation of work, by a collective agreement or a workforce agreement, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(a)(i)[^key-0d7397579fe59002ea1e09c9bc6d6f14] above.
+(4) The reference period may be extended in relation to particular mobile workers or groups of mobile workers for objective or technical reasons or reasons concerning the organisation of work, by a collective agreement or a workforce agreement, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(a)(i)[^c-0d7397579fe59002ea1e09c9bc6d6f14] above.
 
-(4A)[^key-41c0aeab21ab69db2f2b8619d2b3ee81] The reference period may be extended in relation to self-employed drivers for objective or technical reasons or reasons concerning the organisation of work, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(b).
+(4A)[^c-41c0aeab21ab69db2f2b8619d2b3ee81] The reference period may be extended in relation to self-employed drivers for objective or technical reasons or reasons concerning the organisation of work, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(b).
 
-(5)[^key-1f5580d34c575b016ed2f41315688378] The average weekly working time during any applicable reference period shall be determined according to the formula—
+(5)[^c-1f5580d34c575b016ed2f41315688378] The average weekly working time during any applicable reference period shall be determined according to the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2005/241) for mobile workers, or
 
@@ -164,7 +164,7 @@ where—
 
 (6) In paragraph (5), “excluded hours” means hours comprised in –
 
-- (a) any period of annual leave taken by the mobile worker in exercise of entitlement under regulation 15 of the Working Time Regulations (Northern Ireland) 2016[^key-ca4fcdd2665e71e0eae6587f7084065c] ;
+- (a) any period of annual leave taken by the mobile worker in exercise of entitlement under regulation 15 of the Working Time Regulations (Northern Ireland) 2016[^c-ca4fcdd2665e71e0eae6587f7084065c] ;
 - (b) any period of sick leave taken by the mobile worker;
 - (c) any period of maternity, paternity, adoption or parental leave taken by the mobile worker.
 
@@ -172,61 +172,61 @@ where—
 
 (8) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of the mobile worker, to ensure that the limits specified above are complied with in the case of each mobile worker employed by him.
 
-(9)[^key-6d6ba82e6ae102551fce9c4491e19841] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified in paragraphs (1) to (7).
+(9)[^c-6d6ba82e6ae102551fce9c4491e19841] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified in paragraphs (1) to (7).
 
-**5.**[^key-630dacf414f513d44c83fb46049dd082] The times of breaks, rests and periods of availability shall not be included in the calculation of working time.
+**5.**[^c-630dacf414f513d44c83fb46049dd082] The times of breaks, rests and periods of availability shall not be included in the calculation of working time.
 
-## 6. Periods of availability[^key-3e61e4a50cc7e89b1be1be1ad7419b8f]
+## 6. Periods of availability[^c-3e61e4a50cc7e89b1be1be1ad7419b8f]
 
-(1) A period shall not be treated as a period of availability unless the mobile worker or self-employed driver[^key-f148ca22c2759ab5983d545cb9365802] knows before the start of the relevant period about that period of availability and its reasonably foreseeable duration.
+(1) A period shall not be treated as a period of availability unless the mobile worker or self-employed driver[^c-f148ca22c2759ab5983d545cb9365802] knows before the start of the relevant period about that period of availability and its reasonably foreseeable duration.
 
-(2) The time spent by a mobile worker, who is working as part of a team, travelling in, but not driving, a moving vehicle as part of that team shall be a period of availability for that mobile worker or self-employed driver[^key-9bfc90117b291b76ed4e1ed4de6fbc9e] .
+(2) The time spent by a mobile worker, who is working as part of a team, travelling in, but not driving, a moving vehicle as part of that team shall be a period of availability for that mobile worker or self-employed driver[^c-9bfc90117b291b76ed4e1ed4de6fbc9e] .
 
 (3) Subject to paragraph (4), a period of availability shall not include a period of rest or a break.
 
-(4) A period of availability may include a break taken by a mobile worker or self-employed driver[^key-13206a74f5dda6d49b2f7feff6380b79] during waiting time or time which is not devoted to driving by the mobile worker and is spent in a moving vehicle, a ferry or a train.
+(4) A period of availability may include a break taken by a mobile worker or self-employed driver[^c-13206a74f5dda6d49b2f7feff6380b79] during waiting time or time which is not devoted to driving by the mobile worker and is spent in a moving vehicle, a ferry or a train.
 
-## 7. Breaks[^key-ad21f50a949b946bd555ff82dc920aaf]
+## 7. Breaks[^c-ad21f50a949b946bd555ff82dc920aaf]
 
-(1) No mobile worker or self-employed driver[^key-9da3ece1fda9618091162760040b1fe0] shall work for more than six hours without a break.
+(1) No mobile worker or self-employed driver[^c-9da3ece1fda9618091162760040b1fe0] shall work for more than six hours without a break.
 
-(2)[^key-0c4262fd140b0953e2a9219edd6369e1] Where the working time of a mobile worker or self-employed driver exceeds 6 hours but does not exceed 9 hours, the mobile worker or self-employed driver must take a break lasting at least 30 minutes and interrupting that period.
+(2)[^c-0c4262fd140b0953e2a9219edd6369e1] Where the working time of a mobile worker or self-employed driver exceeds 6 hours but does not exceed 9 hours, the mobile worker or self-employed driver must take a break lasting at least 30 minutes and interrupting that period.
 
-(3)[^key-fd7424bea81371b514766aeee10b903c] Where the working time of a mobile worker or self-employed driver exceeds 9 hours, the mobile worker or self-employed driver must take a break lasting at least 45 minutes and interrupting that period.
+(3)[^c-fd7424bea81371b514766aeee10b903c] Where the working time of a mobile worker or self-employed driver exceeds 9 hours, the mobile worker or self-employed driver must take a break lasting at least 45 minutes and interrupting that period.
 
 (4) Each break may be made up of separate periods of not less than 15 minutes each.
 
 (5) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of the mobile worker, to ensure that the limits specified above are complied with in the case of each mobile worker employed by him.
 
-(6)[^key-f0944935f404ed6ac9c02b7deb9e546e] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified in paragraphs (1) to (4).
+(6)[^c-f0944935f404ed6ac9c02b7deb9e546e] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified in paragraphs (1) to (4).
 
-## 8. Rest periods[^key-c3cc12ced4c840a15e963231970afad2]
+## 8. Rest periods[^c-c3cc12ced4c840a15e963231970afad2]
 
-(1) In the application of these Regulations, the provisions of the Community Drivers' Hours Regulation relating to daily and weekly rest shall apply to all mobile workers to whom they do not apply under that Regulation as they apply to other mobile workers and self-employed drivers[^key-f6afbc91e6dce91d9128e118aa5fbc68] under that Regulation.
+(1) In the application of these Regulations, the provisions of the Community Drivers' Hours Regulation relating to daily and weekly rest shall apply to all mobile workers to whom they do not apply under that Regulation as they apply to other mobile workers and self-employed drivers[^c-f6afbc91e6dce91d9128e118aa5fbc68] under that Regulation.
 
 (2) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of the mobile worker, to ensure that those provisions are complied with in the case of each mobile worker employed by him, to whom they are applied by paragraph (1).
 
-(3)[^key-59f31394dd95673ff9565cc2281df1f6] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that he complies with the provisions applied by paragraph (1).
+(3)[^c-59f31394dd95673ff9565cc2281df1f6] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that he complies with the provisions applied by paragraph (1).
 
-## 9. Night work[^key-3f0bd08f7848109f1d4aeb2037c7d6b2]
+## 9. Night work[^c-3f0bd08f7848109f1d4aeb2037c7d6b2]
 
-(1) The working time of a mobile worker or self-employed driver[^key-5eacfe47bd3786206faac4ef33e6cbd9] , who performs night work in any period of 24 hours, shall not exceed 10 hours during that period.
+(1) The working time of a mobile worker or self-employed driver[^c-5eacfe47bd3786206faac4ef33e6cbd9] , who performs night work in any period of 24 hours, shall not exceed 10 hours during that period.
 
 (2) The period of 10 hours may be extended in relation to particular mobile workers or groups of mobile workers for objective or technical reasons or reasons concerning the organisation of work, by a collective agreement or a workforce agreement.
 
-(2A)[^key-0a1be38b6ab51aa13de5435488808511] A self-employed driver may elect to extend the period of 10 hours for objective or technical reasons or reasons concerning the organisation of work.
+(2A)[^c-0a1be38b6ab51aa13de5435488808511] A self-employed driver may elect to extend the period of 10 hours for objective or technical reasons or reasons concerning the organisation of work.
 
-(3) Compensation for night work shall not be given to a mobile worker or to a self-employed driver[^key-137fcab279ce6a6676ebef9bffe9454c] in any manner which is liable to endanger road safety.
+(3) Compensation for night work shall not be given to a mobile worker or to a self-employed driver[^c-137fcab279ce6a6676ebef9bffe9454c] in any manner which is liable to endanger road safety.
 
 (4) An employer shall take all reasonable steps in keeping with the need to protect the health and safety of mobile workers to ensure that the limit specified in paragraph (1), or extended in accordance with paragraph (2), is complied with in the case of each mobile worker employed by him.
 
-(5)[^key-7148f23352326c71fcfd8dca449a1ba9] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that the limit specified in paragraph (1), or extended in accordance with paragraph (2A), is complied with.
+(5)[^c-7148f23352326c71fcfd8dca449a1ba9] A self-employed driver shall take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that the limit specified in paragraph (1), or extended in accordance with paragraph (2A), is complied with.
 
-## 10. Information and Records[^key-4f250c9c38e27f66d27d107c20ed79e9]
+## 10. Information and Records[^c-4f250c9c38e27f66d27d107c20ed79e9]
 
 An employer of mobile workers shall notify each worker of the provisions of these Regulations and the provisions of any collective or workforce agreement which is capable of application to that worker.
 
-**11.**[^key-a5e91b33ec5173827094d6bfe66817d0] An employer of a mobile worker shall –
+**11.**[^c-a5e91b33ec5173827094d6bfe66817d0] An employer of a mobile worker shall –
 
 - (a) request from each mobile worker details of any time worked by that worker for another employer;
 - (b) include time worked for another employer in the calculation of the mobile worker’s working time;
@@ -236,21 +236,21 @@ An employer of mobile workers shall notify each worker of the provisions of thes
 - (f) provide to an enforcement officer copies of such records relating to mobile workers as the officer may require;
 - (g) provide to a mobile worker or enforcement officer copies of such documentary evidence in the employer’s possession as may be requested by the worker or officer in relation to records provided to him in accordance with paragraph (e) or (f).
 
-**11A.**[^key-ef651575057ffcf339f2cc1e77300e8a] A self-employed driver shall—
+**11A.**[^c-ef651575057ffcf339f2cc1e77300e8a] A self-employed driver shall—
 
 - (a) keep records which are adequate to show whether he is complying with the requirements of these Regulations;
 - (b) retain such records for at least two years after the end of the period covered by those records; and
 - (c) provide to an enforcement officer copies of such records as the officer may require.
 
-**12.**[^key-b7c091946ad85be4d93df5088c0825c6] A mobile worker shall, at the request of his employer under regulation 11(a), notify his employer in writing of time worked by the worker for another employer for inclusion in the calculation of the mobile worker’s working time.
+**12.**[^c-b7c091946ad85be4d93df5088c0825c6] A mobile worker shall, at the request of his employer under regulation 11(a), notify his employer in writing of time worked by the worker for another employer for inclusion in the calculation of the mobile worker’s working time.
 
-## 13.[^key-82c220c2d4ea80978707ebf75df6af75]
+## 13.[^c-82c220c2d4ea80978707ebf75df6af75]
 
 (1) The Department shall arrange for the publication, in such form and manner as it considers appropriate, of information and advice concerning the operation of these Regulations.
 
-(2) The information and advice shall be such as appear to the Department best calculated to enable employers, workers and self-employed drivers[^key-748c3ae3798805bfd83e269e4283ccc2] affected by these Regulations to understand their respective rights and obligations.
+(2) The information and advice shall be such as appear to the Department best calculated to enable employers, workers and self-employed drivers[^c-748c3ae3798805bfd83e269e4283ccc2] affected by these Regulations to understand their respective rights and obligations.
 
-## 14. Agency workers not otherwise mobile workers[^key-c4d202c264c22d66412b46ac431bb182]
+## 14. Agency workers not otherwise mobile workers[^c-c4d202c264c22d66412b46ac431bb182]
 
 (1) This regulation applies in any case where an individual (“the agency worker”) –
 
@@ -264,7 +264,7 @@ An employer of mobile workers shall notify each worker of the provisions of thes
 - (b) if neither the agent nor the principal is so responsible, whichever of them pays the agency worker in respect of the work;
 - (c) and as if that person were the agency worker’s employer.
 
-## 15. Individual carrying on trade or business[^key-4580cea7a05b21d628d3c5beffd0f9f8]
+## 15. Individual carrying on trade or business[^c-4580cea7a05b21d628d3c5beffd0f9f8]
 
 (1) This regulation applies to an individual who—
 
@@ -278,13 +278,13 @@ An employer of mobile workers shall notify each worker of the provisions of thes
 - (a) the individual were both a mobile worker and the employer of that mobile worker, and
 - (b) regulations 10, 11(a) and (e) and 12 were omitted.
 
-## 16. Enforcement[^key-58b5aafad35e237460ebb4b77a394fb6]
+## 16. Enforcement[^c-58b5aafad35e237460ebb4b77a394fb6]
 
 (1) It shall be the duty of the Department to enforce the requirements of these Regulations.
 
 (2) Schedule 2 shall apply in relation to the enforcement of the relevant requirements.
 
-**17.**[^key-077a38c9c08b77401224ca8f4bebf4ef] (1) Any person who fails to comply with any of the relevant requirements shall be guilty of an offence.
+**17.**[^c-077a38c9c08b77401224ca8f4bebf4ef] (1) Any person who fails to comply with any of the relevant requirements shall be guilty of an offence.
 
 (2) The provisions of paragraph (3) shall apply where an inspector is exercising or has exercised any power conferred by Schedule 2.
 
@@ -318,25 +318,25 @@ An employer of mobile workers shall notify each worker of the provisions of thes
 
 (8) The provisions set out in regulations 18 to 22 shall apply in relation to the offences provided for in paragraphs (1) and (3).
 
-## 18. Offences due to fault of other person[^key-fcb35de28cea590841b6e07a70d19bec]
+## 18. Offences due to fault of other person[^c-fcb35de28cea590841b6e07a70d19bec]
 
 Where the commission by any person of an offence is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with the conviction of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
 
-## 19. Offences by bodies corporate[^key-9709b624bc28a761c80d3f935aeb0465]
+## 19. Offences by bodies corporate[^c-9709b624bc28a761c80d3f935aeb0465]
 
 (1) Where an offence committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, the preceding paragraph shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-## 20. Restriction on institution of proceedings[^key-9a3a39f5876094d2a67694966919721f]
+## 20. Restriction on institution of proceedings[^c-9a3a39f5876094d2a67694966919721f]
 
 Proceedings for an offence shall not be instituted except by an inspector or by, or with the consent of, the Director of Public Prosecutions.
 
-## 21. Prosecution by inspectors[^key-57beda8cc14bfb9f5d7132b81b30de85]
+## 21. Prosecution by inspectors[^c-57beda8cc14bfb9f5d7132b81b30de85]
 
 If authorised in that behalf by the Department an inspector may prosecute proceedings for an offence before a magistrates court even though the inspector is not of counsel or a solicitor.
 
-## 22. Power of court to order cause of offence to be remedied[^key-8ec54d00266734c698f572cd9b368602]
+## 22. Power of court to order cause of offence to be remedied[^c-8ec54d00266734c698f572cd9b368602]
 
 (1) This regulation applies where a person is convicted of an offence in respect of any matter which appears to the court to be a matter which it is in his power to remedy.
 
@@ -358,7 +358,7 @@ Department of the Environment
 
 Regulation 2
 
-**1.**[^key-5cecaa377fbd2baacfad92367bc74743] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied –
+**1.**[^c-5cecaa377fbd2baacfad92367bc74743] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied –
 
 - (a) the agreement is in writing;
 - (b) it has effect for a specified period not exceeding five years;
@@ -370,7 +370,7 @@ Regulation 2
   - (ii) if the employer employed 20 or fewer workers on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the workers employed by him; and
 - (e) before the agreement was made available for signature, the employer provided all the workers to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it in full.
 
-**2.**[^key-aa73ade292ab7d8653ba24f20c07bee2] For the purposes of this Schedule –
+**2.**[^c-aa73ade292ab7d8653ba24f20c07bee2] For the purposes of this Schedule –
 
 - “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace, or belong to a particular department or unit within their employer’s business;
 - “relevant members of the workforce” are all of the workers employed by a particular employer, excluding any worker whose terms and conditions of employment are provided for, wholly or in part, in a collective agreement;
@@ -379,7 +379,7 @@ Regulation 2
 
 and representatives are “duly elected” if the election at which they were elected satisfied the requirements of paragraph 3.
 
-**3.**[^key-5b687961b6878dc224155d0e04fe9e77] The requirements concerning elections referred to in paragraph 2 are that –
+**3.**[^c-5b687961b6878dc224155d0e04fe9e77] The requirements concerning elections referred to in paragraph 2 are that –
 
 - (a) the number of representatives to be elected is determined by the employer;
 - (b) the candidates for election as representatives of the workforce are relevant members of the workforce, and candidates for election as representatives of the group are members of the group;
@@ -394,7 +394,7 @@ and representatives are “duly elected” if the election at which they were el
 
 Regulation 16
 
-### 1. Appointment of inspectors[^key-91c552e987291a481d6ac12ae6672a63]
+### 1. Appointment of inspectors[^c-91c552e987291a481d6ac12ae6672a63]
 
 (1) The Department may appoint as inspectors (under whatever title it may from time to time determine) such persons having suitable qualifications as it thinks necessary for carrying into effect these Regulations, and may terminate any appointment made under this paragraph.
 
@@ -404,7 +404,7 @@ Regulation 16
 
 (4) An inspector shall, if so required when exercising or seeking to exercise any power conferred on him by these Regulations, produce his instrument of appointment or a duly authenticated copy thereof.
 
-### 2. Powers of inspectors[^key-294a76220cd17d60f37760c28462d517]
+### 2. Powers of inspectors[^c-294a76220cd17d60f37760c28462d517]
 
 (1) Subject to the provisions of paragraph 1 and this paragraph, an inspector may for the purpose of carrying into effect these Regulations exercise the powers set out in sub-paragraph (2).
 
@@ -427,7 +427,7 @@ Regulation 16
 
 (4) Nothing in this paragraph shall be taken to compel the production by any person of a document of which he would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court or, as the case may be, an order for the production of documents in an action in the Court of Appeal.
 
-### 3. Improvement notices[^key-97b94547f00d36f7fccc40e2fd8dbab0]
+### 3. Improvement notices[^c-97b94547f00d36f7fccc40e2fd8dbab0]
 
 If an inspector is of the opinion that a person –
 
@@ -436,7 +436,7 @@ If an inspector is of the opinion that a person –
 
 he may serve on him a notice (in this Schedule referred to as “an improvement notice”) stating that he is of that opinion, specifying the provision or provisions as to which he is of that opinion, giving particulars of the reasons why he is of that opinion, and requiring that person to remedy the contravention or, as the case may be, the matter occasioning it within such period (ending not earlier than the period within which an appeal against the notice can be brought under paragraph 6 as may be specified in the notice).
 
-### 4. Prohibition notices[^key-fdde2dbbdbce24166a23296f0b3a82ce]
+### 4. Prohibition notices[^c-fdde2dbbdbce24166a23296f0b3a82ce]
 
 (1) This paragraph applies to any activities which are being, or are likely to be, carried on by or under the control of any person, being activities to or in relation to which any of these Regulations apply or will, if the activities are so carried on, apply.
 
@@ -454,7 +454,7 @@ he may serve on him a notice (in this Schedule referred to as “an improvement 
 - (a) at the end of the period specified in the notice; or
 - (b) if the notice so declares, immediately.
 
-### 5. Provisions supplementary to paragraphs 3 and 4[^key-afb8bfd125064d1909d827329d3de727]
+### 5. Provisions supplementary to paragraphs 3 and 4[^c-afb8bfd125064d1909d827329d3de727]
 
 (1) In this paragraph “a notice” means an improvement notice or a prohibition notice.
 
@@ -468,22 +468,22 @@ he may serve on him a notice (in this Schedule referred to as “an improvement 
 - (a) the notice may be withdrawn by an inspector at any time before the end of the period specified therein in pursuance of paragraph 3 or paragraph 4(4) as the case may be; and
 - (b) the period so specified may be extended or further extended by an inspector at any time when an appeal against the notice is not pending.
 
-### 6. Appeal against improvement or prohibition notice[^key-7af5e962c61ead8f1033ad45d3fadf90]
+### 6. Appeal against improvement or prohibition notice[^c-7af5e962c61ead8f1033ad45d3fadf90]
 
 (1) In this paragraph “a notice” means an improvement or prohibition notice.
 
-(2) A person on whom a notice is served may within 21 days from the date of its service appeal to an industrial[^key-ccbfe9f86e7b0be3040be9020c77fce1] tribunal; and on such an appeal the tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the tribunal may in the circumstances think fit.
+(2) A person on whom a notice is served may within 21 days from the date of its service appeal to an industrial[^c-ccbfe9f86e7b0be3040be9020c77fce1] tribunal; and on such an appeal the tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the tribunal may in the circumstances think fit.
 
 (3) Where an appeal under this paragraph is brought against a notice within the period allowed under the preceding sub-paragraph, then –
 
 - (a) in the case of an improvement notice, the bringing of the appeal shall have the effect of suspending the operation of the notice until the appeal is finally disposed of or, if the appeal is withdrawn, until the withdrawal of the appeal;
 - (b) in the case of a prohibition notice, the bringing of the appeal shall have the like effect if, but only if, on the application of the appellant the tribunal so directs (and then only from the giving of the direction).
 
-(3A)[^key-ef63478b619228c39c7294ae4de42c46] In relation to an appeal under this paragraph[^key-0fa7f1f9c0b8414a4cb5115e04148514] , any reference to a provision of Article 26 of the Health and Safety at Work (Northern Ireland) Order 1978 in the rules of procedure governing industrial tribunals shall be construed as a reference to a provision of this paragraph.
+(3A)[^c-ef63478b619228c39c7294ae4de42c46] In relation to an appeal under this paragraph[^c-0fa7f1f9c0b8414a4cb5115e04148514] , any reference to a provision of Article 26 of the Health and Safety at Work (Northern Ireland) Order 1978 in the rules of procedure governing industrial tribunals shall be construed as a reference to a provision of this paragraph.
 
-(4) One or more assessors may be appointed for the purposes of any proceedings brought before an industrial[^key-9a0826c9b64aee3ef15f9691d55b9fae] tribunal under this paragraph.
+(4) One or more assessors may be appointed for the purposes of any proceedings brought before an industrial[^c-9a0826c9b64aee3ef15f9691d55b9fae] tribunal under this paragraph.
 
-### 7. Restrictions on disclosure of information[^key-514969b6f98eca35f26d9c14c2323baa]
+### 7. Restrictions on disclosure of information[^c-514969b6f98eca35f26d9c14c2323baa]
 
 (1) In this paragraph –
 
@@ -542,9 +542,9 @@ They make it an offence to fail to comply with their requirements and provide fo
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-b1876f9bef8bc142c77210b29fc483db]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-b1876f9bef8bc142c77210b29fc483db]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-c8919dcb55c93e1295924b30eb9ed83e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/241/regulation/2) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-c8919dcb55c93e1295924b30eb9ed83e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/241/regulation/2) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -552,160 +552,160 @@ They make it an offence to fail to comply with their requirements and provide fo
 
 [^f00005]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
-[^key-d5a1df66e723976034be94186095c128]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/241/regulation/2) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/1)
+[^c-d5a1df66e723976034be94186095c128]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/241/regulation/2) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/1)
 
-[^key-122c2837270601323f6d8984eea03246]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2019/6/regulation/9)
+[^c-122c2837270601323f6d8984eea03246]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2019/6/regulation/9)
 
-[^key-e68e8b48b1a4c3ec5513faec17e93ae6]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/a)
+[^c-e68e8b48b1a4c3ec5513faec17e93ae6]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/a)
 
-[^key-d1bca1cef36f5b6db97a1085e219fa3b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/b)
+[^c-d1bca1cef36f5b6db97a1085e219fa3b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/b)
 
-[^key-27f10c19ee3054c2ada3a2e7663d41e7]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-27f10c19ee3054c2ada3a2e7663d41e7]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-dd2305b1446f8470931f54aba8b01c1a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/c)
+[^c-dd2305b1446f8470931f54aba8b01c1a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/c)
 
-[^key-3598d8d901dc133fd54eea5ae4fda342]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(d)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/d)
+[^c-3598d8d901dc133fd54eea5ae4fda342]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(d)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/d)
 
-[^key-9b9f14f362e2c2693c3484339f844cf1]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2/a) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(e)(i)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/e/i)
+[^c-9b9f14f362e2c2693c3484339f844cf1]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2/a) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(e)(i)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/e/i)
 
-[^key-6e123cc7f4b93342ac81fd3bc4815318]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2/b)[(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2/c) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(e)(ii)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/e/ii)
+[^c-6e123cc7f4b93342ac81fd3bc4815318]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2/b)[(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/2/2/c) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [2(e)(ii)](https://www.legislation.gov.uk/nisr/2012/169/regulation/2/e/ii)
 
-[^key-121341d74021087990280be539e099f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/241/regulation/3) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-121341d74021087990280be539e099f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/241/regulation/3) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-6661aded1b596c3f724c5ce5f0c44745]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6661aded1b596c3f724c5ce5f0c44745]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-090abc968c18c428fb30fea001ca73db]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/1A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/2)
+[^c-090abc968c18c428fb30fea001ca73db]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/1A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/2)
 
-[^key-4c52dbf23db72b63a9d733b7138e5993]: Textual amendment: Words in [reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/1A) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c52dbf23db72b63a9d733b7138e5993]: Textual amendment: Words in [reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/1A) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1238d455697de9c5c84cbf794e298c29]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/2) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/2)
+[^c-1238d455697de9c5c84cbf794e298c29]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/2) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/2)
 
-[^key-204bd8c1ae4caf43c329134decfbf5a5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/3/a)
+[^c-204bd8c1ae4caf43c329134decfbf5a5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/3/a)
 
-[^key-ba9764964e83a5262f5ef57887c4cca5]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/2/c) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/3/b)
+[^c-ba9764964e83a5262f5ef57887c4cca5]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/2/c) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/3/b)
 
-[^key-69b32fee8e497c94f8689f434f41f5d3]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/4)
+[^c-69b32fee8e497c94f8689f434f41f5d3]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/4)
 
-[^key-811de02871c695af68da4d8b2f4aba59]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/3/b) substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2019/12/regulation/26)
+[^c-811de02871c695af68da4d8b2f4aba59]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/3/b) substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2019/12/regulation/26)
 
-[^key-d64bda482b76d005490dd90c090f43ab]: Textual amendment: Words in [reg. 3(3)(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/3/c) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [12(b)](https://www.legislation.gov.uk/uksi/2019/596/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d64bda482b76d005490dd90c090f43ab]: Textual amendment: Words in [reg. 3(3)(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/3/c) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [12(b)](https://www.legislation.gov.uk/uksi/2019/596/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12a4a4a39b6d690fce7e89d06aa57d57]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/4) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/5)
+[^c-12a4a4a39b6d690fce7e89d06aa57d57]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/241/regulation/3/4) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/3/5)
 
-[^key-7eb9cb2c2b964d54235436527b12fbd1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/241/regulation/4) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-7eb9cb2c2b964d54235436527b12fbd1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/241/regulation/4) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-41ba41c482a9081115f769f8787910ad]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/2)
+[^c-41ba41c482a9081115f769f8787910ad]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/2)
 
-[^key-c8e3b42cc32b5b869dfbf600f7795e5c]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/3)
+[^c-c8e3b42cc32b5b869dfbf600f7795e5c]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/3)
 
-[^key-e32ce1b2b2f1a8286f97144e7d6efc1e]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3) omitted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/a)
+[^c-e32ce1b2b2f1a8286f97144e7d6efc1e]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3) omitted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/a)
 
-[^key-e9c253ab56093e0df8ad90f5ad4c11b9]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3/a) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/b)
+[^c-e9c253ab56093e0df8ad90f5ad4c11b9]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3/a) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/b)
 
-[^key-2c8d8e59056dc6bf68c8ca3e5dc84a39]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3/b) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/c)
+[^c-2c8d8e59056dc6bf68c8ca3e5dc84a39]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3/b) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/c)
 
-[^key-97c71cf66a7ae3e27ea95f1447467f35]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3/c) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/d)
+[^c-97c71cf66a7ae3e27ea95f1447467f35]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/3/c) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/4/d)
 
-[^key-0d7397579fe59002ea1e09c9bc6d6f14]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/4) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/5)
+[^c-0d7397579fe59002ea1e09c9bc6d6f14]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/4) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/5)
 
-[^key-41c0aeab21ab69db2f2b8619d2b3ee81]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/4A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/6)
+[^c-41c0aeab21ab69db2f2b8619d2b3ee81]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/4A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/6)
 
-[^key-1f5580d34c575b016ed2f41315688378]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/5) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/7)
+[^c-1f5580d34c575b016ed2f41315688378]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/5) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/7)
 
-[^key-ca4fcdd2665e71e0eae6587f7084065c]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/6/a) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/5) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-ca4fcdd2665e71e0eae6587f7084065c]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/6/a) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/5) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
 
-[^key-6d6ba82e6ae102551fce9c4491e19841]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/9) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(8)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/8)
+[^c-6d6ba82e6ae102551fce9c4491e19841]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/nisr/2005/241/regulation/4/9) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [4(8)](https://www.legislation.gov.uk/nisr/2012/169/regulation/4/8)
 
-[^key-630dacf414f513d44c83fb46049dd082]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/241/regulation/5) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-630dacf414f513d44c83fb46049dd082]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/241/regulation/5) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-3e61e4a50cc7e89b1be1be1ad7419b8f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/241/regulation/6) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-3e61e4a50cc7e89b1be1be1ad7419b8f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/241/regulation/6) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-f148ca22c2759ab5983d545cb9365802]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/6/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2012/169/regulation/5)
+[^c-f148ca22c2759ab5983d545cb9365802]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/6/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2012/169/regulation/5)
 
-[^key-9bfc90117b291b76ed4e1ed4de6fbc9e]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/6/2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2012/169/regulation/5)
+[^c-9bfc90117b291b76ed4e1ed4de6fbc9e]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/6/2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2012/169/regulation/5)
 
-[^key-13206a74f5dda6d49b2f7feff6380b79]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/nisr/2005/241/regulation/6/4) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2012/169/regulation/5)
+[^c-13206a74f5dda6d49b2f7feff6380b79]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/nisr/2005/241/regulation/6/4) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2012/169/regulation/5)
 
-[^key-ad21f50a949b946bd555ff82dc920aaf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/241/regulation/7) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-ad21f50a949b946bd555ff82dc920aaf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/241/regulation/7) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-9da3ece1fda9618091162760040b1fe0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/2)
+[^c-9da3ece1fda9618091162760040b1fe0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/2)
 
-[^key-0c4262fd140b0953e2a9219edd6369e1]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/3)
+[^c-0c4262fd140b0953e2a9219edd6369e1]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/3)
 
-[^key-fd7424bea81371b514766aeee10b903c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/4)
+[^c-fd7424bea81371b514766aeee10b903c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/4)
 
-[^key-f0944935f404ed6ac9c02b7deb9e546e]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/6) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/5)
+[^c-f0944935f404ed6ac9c02b7deb9e546e]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/nisr/2005/241/regulation/7/6) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/6/5)
 
-[^key-c3cc12ced4c840a15e963231970afad2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/241/regulation/8) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-c3cc12ced4c840a15e963231970afad2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/241/regulation/8) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-f6afbc91e6dce91d9128e118aa5fbc68]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/8/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/7/2)
+[^c-f6afbc91e6dce91d9128e118aa5fbc68]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/8/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/7/2)
 
-[^key-59f31394dd95673ff9565cc2281df1f6]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/8/3) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/7/3)
+[^c-59f31394dd95673ff9565cc2281df1f6]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/8/3) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/7/3)
 
-[^key-3f0bd08f7848109f1d4aeb2037c7d6b2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/241/regulation/9) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-3f0bd08f7848109f1d4aeb2037c7d6b2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/241/regulation/9) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-5eacfe47bd3786206faac4ef33e6cbd9]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/2)
+[^c-5eacfe47bd3786206faac4ef33e6cbd9]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/2)
 
-[^key-0a1be38b6ab51aa13de5435488808511]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/2A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/3)
+[^c-0a1be38b6ab51aa13de5435488808511]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/2A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/3)
 
-[^key-137fcab279ce6a6676ebef9bffe9454c]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/4)
+[^c-137fcab279ce6a6676ebef9bffe9454c]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/4)
 
-[^key-7148f23352326c71fcfd8dca449a1ba9]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/5) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/5)
+[^c-7148f23352326c71fcfd8dca449a1ba9]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/nisr/2005/241/regulation/9/5) added (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [8(5)](https://www.legislation.gov.uk/nisr/2012/169/regulation/8/5)
 
-[^key-4f250c9c38e27f66d27d107c20ed79e9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/241/regulation/10) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-4f250c9c38e27f66d27d107c20ed79e9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/241/regulation/10) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-a5e91b33ec5173827094d6bfe66817d0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/241/regulation/11) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-a5e91b33ec5173827094d6bfe66817d0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/241/regulation/11) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-ef651575057ffcf339f2cc1e77300e8a]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/nisr/2005/241/regulation/11A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2012/169/regulation/9)
+[^c-ef651575057ffcf339f2cc1e77300e8a]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/nisr/2005/241/regulation/11A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2012/169/regulation/9)
 
-[^key-b7c091946ad85be4d93df5088c0825c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/241/regulation/12) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-b7c091946ad85be4d93df5088c0825c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/241/regulation/12) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-82c220c2d4ea80978707ebf75df6af75]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/241/regulation/13) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-82c220c2d4ea80978707ebf75df6af75]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/241/regulation/13) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-748c3ae3798805bfd83e269e4283ccc2]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/13/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2012/169/regulation/10)
+[^c-748c3ae3798805bfd83e269e4283ccc2]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2005/241/regulation/13/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2012/169/regulation/10)
 
-[^key-c4d202c264c22d66412b46ac431bb182]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/241/regulation/14) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-c4d202c264c22d66412b46ac431bb182]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/241/regulation/14) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-4580cea7a05b21d628d3c5beffd0f9f8]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/241/regulation/15) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/3)
+[^c-4580cea7a05b21d628d3c5beffd0f9f8]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/241/regulation/15) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/3)
 
-[^key-58b5aafad35e237460ebb4b77a394fb6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/241/regulation/16) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-58b5aafad35e237460ebb4b77a394fb6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/241/regulation/16) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-077a38c9c08b77401224ca8f4bebf4ef]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/241/regulation/17) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-077a38c9c08b77401224ca8f4bebf4ef]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/241/regulation/17) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-fcb35de28cea590841b6e07a70d19bec]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/241/regulation/18) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-fcb35de28cea590841b6e07a70d19bec]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/241/regulation/18) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-9709b624bc28a761c80d3f935aeb0465]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/241/regulation/19) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-9709b624bc28a761c80d3f935aeb0465]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/241/regulation/19) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-9a3a39f5876094d2a67694966919721f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/241/regulation/20) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-9a3a39f5876094d2a67694966919721f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/241/regulation/20) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-57beda8cc14bfb9f5d7132b81b30de85]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/241/regulation/21) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-57beda8cc14bfb9f5d7132b81b30de85]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/241/regulation/21) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-8ec54d00266734c698f572cd9b368602]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/241/regulation/22) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-8ec54d00266734c698f572cd9b368602]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/241/regulation/22) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-5cecaa377fbd2baacfad92367bc74743]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/241/schedule/1/paragraph/1) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-5cecaa377fbd2baacfad92367bc74743]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/241/schedule/1/paragraph/1) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-aa73ade292ab7d8653ba24f20c07bee2]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/241/schedule/1/paragraph/2) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-aa73ade292ab7d8653ba24f20c07bee2]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/241/schedule/1/paragraph/2) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-5b687961b6878dc224155d0e04fe9e77]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/241/schedule/1/paragraph/3) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-5b687961b6878dc224155d0e04fe9e77]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/241/schedule/1/paragraph/3) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-91c552e987291a481d6ac12ae6672a63]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/1) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-91c552e987291a481d6ac12ae6672a63]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/1) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-294a76220cd17d60f37760c28462d517]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/2) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-294a76220cd17d60f37760c28462d517]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/2) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-97b94547f00d36f7fccc40e2fd8dbab0]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/3) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-97b94547f00d36f7fccc40e2fd8dbab0]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/3) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-fdde2dbbdbce24166a23296f0b3a82ce]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/4) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-fdde2dbbdbce24166a23296f0b3a82ce]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/4) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-afb8bfd125064d1909d827329d3de727]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/5) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-afb8bfd125064d1909d827329d3de727]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/5) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-7af5e962c61ead8f1033ad45d3fadf90]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-7af5e962c61ead8f1033ad45d3fadf90]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
 
-[^key-ccbfe9f86e7b0be3040be9020c77fce1]: Textual amendment: Word in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/2) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/4)
+[^c-ccbfe9f86e7b0be3040be9020c77fce1]: Textual amendment: Word in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/2) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/4)
 
-[^key-ef63478b619228c39c7294ae4de42c46]: Textual amendment: [Sch. 2 para. 6(3A)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/3A) inserted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/5)
+[^c-ef63478b619228c39c7294ae4de42c46]: Textual amendment: [Sch. 2 para. 6(3A)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/3A) inserted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/5)
 
-[^key-0fa7f1f9c0b8414a4cb5115e04148514]: Textual amendment: Words in [Sch. 2 para. 6(3A)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/3A) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2012/169/regulation/11)
+[^c-0fa7f1f9c0b8414a4cb5115e04148514]: Textual amendment: Words in [Sch. 2 para. 6(3A)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/3A) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/169)](https://www.legislation.gov.uk/nisr/2012/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/169/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2012/169/regulation/11)
 
-[^key-9a0826c9b64aee3ef15f9691d55b9fae]: Textual amendment: Word in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/4) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/4)
+[^c-9a0826c9b64aee3ef15f9691d55b9fae]: Textual amendment: Word in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/6/4) substituted (31.7.2007) by [The Road Transport (Working Time) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/323)](https://www.legislation.gov.uk/nisr/2007/323), [regs. 1](https://www.legislation.gov.uk/nisr/2007/323/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/323/regulation/2/4)
 
-[^key-514969b6f98eca35f26d9c14c2323baa]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/7) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)
+[^c-514969b6f98eca35f26d9c14c2323baa]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/241/schedule/2/paragraph/7) in operation at 16.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/241/regulation/1)

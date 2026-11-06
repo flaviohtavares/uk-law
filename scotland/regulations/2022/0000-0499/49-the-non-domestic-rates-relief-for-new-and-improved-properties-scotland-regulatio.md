@@ -50,11 +50,11 @@ In accordance with section 14(5) of that Act, the Scottish Ministers have consul
 
 ## PART 1 — Introduction and interpretation
 
-### 1. Citation and commencement[^key-332e6c35ebef6ae59f1ac825989b74e7]
+### 1. Citation and commencement[^c-332e6c35ebef6ae59f1ac825989b74e7]
 
 These Regulations may be cited as the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 and come into force on 1 April 2022.
 
-### 2. Interpretation[^key-fc2c80757f2bacc28308f67996584349]
+### 2. Interpretation[^c-fc2c80757f2bacc28308f67996584349]
 
 In these Regulations—
 
@@ -65,11 +65,11 @@ In these Regulations—
   - (b) in any other case, the rateable value entered in the valuation roll for that date in respect of those lands and heritages,
 
   and includes a rateable value so entered with retrospective effect, and
-- “the relevant year” means the financial year 2022-23 and each subsequent financial year[^key-354ebb6efc12c8bd713165a680f6e965].
+- “the relevant year” means the financial year 2022-23 and each subsequent financial year[^c-354ebb6efc12c8bd713165a680f6e965].
 
 ## PART 2 — New property
 
-### 3. Availability of relief - new building entered in the valuation roll under section 2(1)(b) of the 1975 Act[^key-48e8c3feaa5583e0a00060a231a3d480]
+### 3. Availability of relief - new building entered in the valuation roll under section 2(1)(b) of the 1975 Act[^c-48e8c3feaa5583e0a00060a231a3d480]
 
 (1) Regulation 4 grants relief to a person who is liable to pay non-domestic rates in respect of lands and heritages on a day in the relevant year if—
 
@@ -90,7 +90,7 @@ In these Regulations—
 - (a) where no building or any part of a building shown in any separate entry has been occupied since that relief was granted, for 12 months in respect of each of the later entries from the date a building or any part of a building shown in that individual entry first becomes occupied (regardless of whether there is such occupation in respect of other entries), or
 - (b) where any building or part of a building shown in any separate entry has been occupied at any time since that relief was granted, for the remainder of the period of 12 months from the date that building or part of a building first became occupied.
 
-### 4. Relief granted - new building entered in the valuation roll under section 2(1)(b) of the 1975 Act[^key-d7781b815b6d730680299cc9755d4644]
+### 4. Relief granted - new building entered in the valuation roll under section 2(1)(b) of the 1975 Act[^c-d7781b815b6d730680299cc9755d4644]
 
 (1) The relief granted is that the amount of non-domestic rates payable is to be reduced by 100%.
 
@@ -107,7 +107,7 @@ In these Regulations—
 
 (6) No relief is granted unless an application is made in accordance with regulation 12.
 
-### 5. Availability of relief – new building resulting in an alteration to the valuation roll under section 2(1)(d) of the 1975 Act[^key-203bd46d5d73852082ec012a41165bcc]
+### 5. Availability of relief – new building resulting in an alteration to the valuation roll under section 2(1)(d) of the 1975 Act[^c-203bd46d5d73852082ec012a41165bcc]
 
 (1) Regulation 6 grants relief to a person who is liable to pay non-domestic rates in respect of lands and heritages on a day in the relevant year—
 
@@ -131,7 +131,7 @@ In these Regulations—
 - (a) where no building or any part of a building shown in any separate entry has been occupied since that relief was granted, for 12 months in respect of each of the later entries from the date a building or any part of a building shown in that individual entry first becomes occupied (regardless of whether there is such occupation in respect of other entries), or
 - (b) where any building or part of a building shown in any separate entry has been occupied at any time since that relief was granted, for the remainder of the period of 12 months from the date that building or part of a building first became occupied.
 
-### 6. Relief granted – new building resulting in an alteration to the valuation roll under section 2(1)(d) of the 1975 Act[^key-de4b6e599693abf52b4be42c00a516ad]
+### 6. Relief granted – new building resulting in an alteration to the valuation roll under section 2(1)(d) of the 1975 Act[^c-de4b6e599693abf52b4be42c00a516ad]
 
 (1) The relief granted is that the amount of non-domestic rates payable is to be reduced by 100%.
 
@@ -143,7 +143,7 @@ In these Regulations—
 
 (5) No relief is granted unless an application is made in accordance with regulation 12.
 
-### 7. Availability of relief – further works to lands and heritages granted relief under regulation 4 or 6[^key-c36db0337d996229832e484323e14c7d]
+### 7. Availability of relief – further works to lands and heritages granted relief under regulation 4 or 6[^c-c36db0337d996229832e484323e14c7d]
 
 Regulation 8 grants relief to a person who is liable to pay non-domestic rates in respect of lands and heritages on a day in the relevant year if—
 
@@ -152,7 +152,7 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 - (c) that alteration takes effect on a day on or after 1 April 2019,
 - (d) there is a relevant increase in rateable value within the meaning of section 2A(5) of the 1975 Act[^f00006] on the day the alteration takes effect.
 
-### 8. Relief granted –further works to lands and heritages granted relief under regulation 4 or 6[^key-c0dadad8a8f5121fb4d0a8e327125fea]
+### 8. Relief granted –further works to lands and heritages granted relief under regulation 4 or 6[^c-c0dadad8a8f5121fb4d0a8e327125fea]
 
 (1) The relief granted is the amount of non-domestic rates payable that has resulted from the increase in rateable value referred to in regulation 7(d).
 
@@ -162,9 +162,9 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 ## PART 3 — Improved property
 
-### 9. Availability of relief – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-4ccf55c279baea17a0792db9913b08fe]
+### 9. Availability of relief – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-4ccf55c279baea17a0792db9913b08fe]
 
-(1) Regulations 10, 10A[^key-27582cb1db903acdc6024a57ec1553e1] , 10B or 10C[^key-70c3a9b1471d8a27a78337ca87f5e14f] and 11 grant relief to a person who is liable to pay non-domestic rates in respect of lands and heritages on a day in the relevant year if—
+(1) Regulations 10, 10A[^c-27582cb1db903acdc6024a57ec1553e1] , 10B or 10C[^c-70c3a9b1471d8a27a78337ca87f5e14f] and 11 grant relief to a person who is liable to pay non-domestic rates in respect of lands and heritages on a day in the relevant year if—
 
 - (a) they are lands and heritages in respect of which one or more relevant increases within the meaning of section 2A(5) of the 1975 Act have been made with effect from a date within the previous 12 months,
 - (b) they are not lands and heritages which are eligible for relief under regulation 4, 6 or 8, and
@@ -172,38 +172,38 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 (2) Where the rateable value of the lands and heritages is reduced during a period of works as described in section 2A(5)(a) of the 1975 Act, the relevant increase is the increase in the rateable value between that when the works commenced and that when the entry is altered due to the material change of circumstances as a result of the completion of the works.
 
-### 10. Relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-32c40ddca2fd446d2adb4aa36e786c46]
+### 10. Relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-32c40ddca2fd446d2adb4aa36e786c46]
 
-(1) In relation to the financial year 2023-2024, the[^key-8b6f14ac10939e4c4f320f728bb5f6a5] relief granted is that the amount of non-domestic rates payable is to be reduced as set out in paragraph (4) or, as the case may be, paragraph (5).
+(1) In relation to the financial year 2023-2024, the[^c-8b6f14ac10939e4c4f320f728bb5f6a5] relief granted is that the amount of non-domestic rates payable is to be reduced as set out in paragraph (4) or, as the case may be, paragraph (5).
 
 (2) The amount of relief granted depends on—
 
-- (a) whether regulation 7 of the 2023[^key-b7ab1187838edc17f8881b8ef705d7e2] Regulations applies (transitional relief in the amount of rates payable),
+- (a) whether regulation 7 of the 2023[^c-b7ab1187838edc17f8881b8ef705d7e2] Regulations applies (transitional relief in the amount of rates payable),
 - (b) the total amount of any relevant increases made in respect of the lands and heritages taking effect on a day within the previous 12 months (“the reference amount”).
 
 (3) No relief is granted unless an application is made in accordance with regulation 12.
 
-(4) Where regulation 7 of the 2023[^key-74c53eafeb5b3355f6c76d3308ef1b73] Regulations does not apply to the lands and heritages—
+(4) Where regulation 7 of the 2023[^c-74c53eafeb5b3355f6c76d3308ef1b73] Regulations does not apply to the lands and heritages—
 
 - (a) the amount of non-domestic rates payable is to be calculated on the rateable value minus the reference amount, but
 - (b) if the rateable value minus the reference amount is a negative figure, then no relief is granted (and the amount of non-domestic rates payable is to be calculated on the rateable value).
 
-(5) Where regulation 7 of the 2023 Regulations applies, the amount of non-domestic rates payable is the transitional limit calculated in accordance with regulation 9 of those Regulations[^key-d01f879ac6026b2582315db261475d90], and for these purposes the transitional limit is to be calculated—
+(5) Where regulation 7 of the 2023 Regulations applies, the amount of non-domestic rates payable is the transitional limit calculated in accordance with regulation 9 of those Regulations[^c-d01f879ac6026b2582315db261475d90], and for these purposes the transitional limit is to be calculated—
 
-- (a) in respect of lands and heritages for which the rateable value exceeds the sum of the rateable value on 1 April 2023[^key-18dc63895b6ab24a6bf0149152a37150] and the reference amount, in accordance with the formula—[^key-23731af66867b3489272658ec0fef1ef][^key-86a41e1183ab079c8784c922fb217ecd]
+- (a) in respect of lands and heritages for which the rateable value exceeds the sum of the rateable value on 1 April 2023[^c-18dc63895b6ab24a6bf0149152a37150] and the reference amount, in accordance with the formula—[^c-23731af66867b3489272658ec0fef1ef][^c-86a41e1183ab079c8784c922fb217ecd]
 
   [formula: see source](https://www.legislation.gov.uk/ssi/2022/49)
 
   where—
 
   - ARV is the adjusted rateable value, found by subtracting the reference amount from the rateable value of the lands and heritages,
-  - BL is the base liability of the lands and heritages calculated in accordance with regulation 10 of the of the 2023 Regulations,[^key-1f1b7bb8fde31ffaebc36216a43b49c0]
-  - RV is the rateable value of the lands and heritages on 1 April 2023,[^key-20540d193ff7b82aa80a523169094513]
-  - PF is the poundage figure of—[^key-e72224a9c8ae8d7e7e4baaefa5a08b28]
+  - BL is the base liability of the lands and heritages calculated in accordance with regulation 10 of the of the 2023 Regulations,[^c-1f1b7bb8fde31ffaebc36216a43b49c0]
+  - RV is the rateable value of the lands and heritages on 1 April 2023,[^c-20540d193ff7b82aa80a523169094513]
+  - PF is the poundage figure of—[^c-e72224a9c8ae8d7e7e4baaefa5a08b28]
     - (i) 0.524 where the lands and heritages have a rateable value exceeding £100, 000,
     - (ii) 0.511 where the lands and heritages have a rateable value exceeding £51,000 but not exceeding £100,000, or
     - (iii) 0.498 in any other case, and
-  - X is—[^key-e1e2827dc499eecaa4d6fda4b6a09284]
+  - X is—[^c-e1e2827dc499eecaa4d6fda4b6a09284]
     - (i) 1.125 where at revaluation on 1 April 2023 the lands and heritages have a rateable value of £20,000 or less,
     - (ii) 1.250 where at revaluation on 1 April 2023 the lands and heritages have a rateable value between £20,001 and £100,000, and
     - (iii) 1.375 where at revaluation on 1 April 2023 the lands and heritages have a rateable value of more than £100, 000, or
@@ -213,11 +213,11 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
   where—
 
-  - BL, ARV, RV and X[^key-eb88ea00c3709ab6ef51291d2431ee92] have the same meanings as in sub-paragraph (a).
+  - BL, ARV, RV and X[^c-eb88ea00c3709ab6ef51291d2431ee92] have the same meanings as in sub-paragraph (a).
 
-(6)[^key-34cc5688ead1261c336f666b3737419c] In this regulation, “**the 2023 Regulations**” means the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023.
+(6)[^c-34cc5688ead1261c336f666b3737419c] In this regulation, “**the 2023 Regulations**” means the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023.
 
-### 10A. Relief granted – financial year 2024-2025 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-caecd3b620ab47bfcb3b3d71e3d68bdf]
+### 10A. Relief granted – financial year 2024-2025 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-caecd3b620ab47bfcb3b3d71e3d68bdf]
 
 (1) In relation to the financial year 2024-2025 the relief granted is that the amount of non-domestic rates payable is to be reduced as set out in paragraph (4) or, as the case may be, paragraph (5).
 
@@ -233,7 +233,7 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 - (a) the amount of non-domestic rates payable is to be calculated on the rateable value minus the reference amount, but
 - (b) if the rateable value minus the reference amount is a negative figure, then no relief is granted (and the amount of non-domestic rates payable is to be calculated on the rateable value).
 
-(5) Where regulation 7 of the 2024 Regulations applies, the amount of non-domestic rates payable is the transitional limit described in that regulation[^key-2bc79c9e7e82d8e98772997b3f38ac4d], and for these purposes the transitional limit is to be calculated—
+(5) Where regulation 7 of the 2024 Regulations applies, the amount of non-domestic rates payable is the transitional limit described in that regulation[^c-2bc79c9e7e82d8e98772997b3f38ac4d], and for these purposes the transitional limit is to be calculated—
 
 - (a) in respect of the lands and heritages for which the rateable value exceeds the sum of the rateable value on 1 April 2023 and the reference amount, in accordance with the formula—
 
@@ -262,7 +262,7 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 (6) In this regulation, “**the 2024 Regulations**” means the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024.
 
-### 10B. Relief granted – financial year 2025-2026 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-eba869a8d89f3db33a15b8839a698b02]
+### 10B. Relief granted – financial year 2025-2026 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-eba869a8d89f3db33a15b8839a698b02]
 
 (1) In relation to the financial year 2025-2026 the relief granted is that the amount of non-domestic rates payable is to be reduced as set out in paragraph (4) or, as the case may be, paragraph (5).
 
@@ -307,7 +307,7 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 (6) In this regulation, “**the 2025 Regulations**” means the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025.
 
-### 10C. Relief granted – financial year 2026-2027 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-70ce03207f7796bc8d45aff5446858c8]
+### 10C. Relief granted – financial year 2026-2027 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-70ce03207f7796bc8d45aff5446858c8]
 
 (1) In relation to the financial year 2026-2027 the relief granted is that the amount of non-domestic rates payable is to be reduced as set out in paragraph (4) or, as the case may be, paragraph (5).
 
@@ -357,34 +357,34 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 (6) In this regulation, “**the 2026 Regulations**” means the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026.
 
-### 11. Additional relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-d65fd5b66c4d06a608f5506cd5b06f93]
+### 11. Additional relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-d65fd5b66c4d06a608f5506cd5b06f93]
 
-(1) Relief is granted in addition to that granted by regulation 10 , 10A[^key-9f841b4a409492b0886d8e43d2e3ceea] , 10B or 10C[^key-4124f9713aa37ae1527b0a2dbd089991] where “reduction X” is less than “reduction Z”.
+(1) Relief is granted in addition to that granted by regulation 10 , 10A[^c-9f841b4a409492b0886d8e43d2e3ceea] , 10B or 10C[^c-4124f9713aa37ae1527b0a2dbd089991] where “reduction X” is less than “reduction Z”.
 
 (2) In this regulation—
 
 - (a) “reduction X” is the reduction applied by the provisions listed in paragraph (3), and
-- (b) “reduction Z” is the reduction that would have been applied by those provisions if the rateable value of the lands and heritages were lowered by the reference amount described in regulation 10(2)(b) , 10A(2)(b)[^key-5c49c2572fc935770349ef7966c4f094] , 10B(2)(b) or 10C(2)(b)[^key-523234a76b764cdf66d7bac14dc1809f].
+- (b) “reduction Z” is the reduction that would have been applied by those provisions if the rateable value of the lands and heritages were lowered by the reference amount described in regulation 10(2)(b) , 10A(2)(b)[^c-5c49c2572fc935770349ef7966c4f094] , 10B(2)(b) or 10C(2)(b)[^c-523234a76b764cdf66d7bac14dc1809f].
 
-(3)[^key-88e9dd2f55fc3b9630d0ad1807544d78] The provisions are—
+(3)[^c-88e9dd2f55fc3b9630d0ad1807544d78] The provisions are—
 
 - (a) paragraph 3 of schedule 2 of the Local Government and Rating Act 1997 (rural rate relief),
 - (b) regulations 3 and 3B of the Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Regulations 2010 (renewable energy generation relief),
 - (c) regulations 5, 5A and 5B of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016 (enterprise areas relief),
 - (d) regulation 4 of the Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (relief for lands and heritages used for hospitality purposes),
-- (e) regulation 3 and 4 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (relief for lands and heritages with rateable values below a specified amount), [^key-c39de25bac89991ebf1392d134b60153]...
-- (f) regulation 3 and 4 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (relief for lands and heritages with rateable values below a specified amount), and[^key-82deea9e43f8c93b2f8c57c5426f21f3]
+- (e) regulation 3 and 4 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (relief for lands and heritages with rateable values below a specified amount), [^c-c39de25bac89991ebf1392d134b60153]...
+- (f) regulation 3 and 4 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (relief for lands and heritages with rateable values below a specified amount), and[^c-82deea9e43f8c93b2f8c57c5426f21f3]
 - (g) regulations 3 and 4 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (relief for lands and heritages with rateable values below a specified amount).
 
 (4) The additional relief granted is the amount by which reduction Z exceeds reduction X (but the amount payable is not to be reduced to less than nil).
 
 (5) For the avoidance of doubt, relief under this regulation ceases, in respect of a relevant increase, 12 months after the date from which it had effect.
 
-## PART 3A — Effect of revaluation on relief granted under regulation 10[^key-89184b1c0cfe2575bab1c4683ea543ac]
+## PART 3A — Effect of revaluation on relief granted under regulation 10[^c-89184b1c0cfe2575bab1c4683ea543ac]
 
-**11A.**[^key-d83854adaf6c1fdf9a18ca95d6c7f9fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11A.**[^c-d83854adaf6c1fdf9a18ca95d6c7f9fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3B[^key-3efa90eec2920b4efcfbf658a4a83cc9]
+## PART 3B[^c-3efa90eec2920b4efcfbf658a4a83cc9]
 
 ### 11B. Effect of revaluation year 2026-2027 on relief granted under regulation 10C
 
@@ -396,7 +396,7 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 ## PART 4 — Applications for relief
 
-### 12. Applications for relief[^key-345d0dd204f5c9082ff6a531e856c8f3]
+### 12. Applications for relief[^c-345d0dd204f5c9082ff6a531e856c8f3]
 
 (1) An application for relief under these Regulations must—
 
@@ -414,11 +414,11 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
   - (c) a body corporate, a director of that body or any other person authorised by it, and
 - “sign” or “signed”, in relation to an application made by electronic communication, means an electronic signature, as defined in section 7(2) of the 2000 Act[^f00014].
 
-(3)[^key-095a111dc62430ffc0a834f9d5c4fff6] An application for relief may be made in respect of the financial year preceding the financial year in which the application is made.
+(3)[^c-095a111dc62430ffc0a834f9d5c4fff6] An application for relief may be made in respect of the financial year preceding the financial year in which the application is made.
 
 ## PART 5 — Revocation, saving and transitional provision
 
-### 13. Revocation and saving[^key-d546a5f98ffd166883803121777cbb9d]
+### 13. Revocation and saving[^c-d546a5f98ffd166883803121777cbb9d]
 
 (1) Subject to paragraph (2), the following are revoked—
 
@@ -429,7 +429,7 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 
 (2) Nothing in paragraph (1) affects the continuing operation of the instruments mentioned in paragraph (1)(a) to (c) and regulation 12 of the instrument mentioned in paragraph (1)(d) as regards the financial years starting with 2019-20 and ending with 2021-22.
 
-### 14. Transitional provision[^key-1b12a15a95636099fd18600dbf3b8aae]
+### 14. Transitional provision[^c-1b12a15a95636099fd18600dbf3b8aae]
 
 (1) Any person described in paragraph (2) is deemed to have made an application under these Regulations on 1 April 2022.
 
@@ -438,18 +438,18 @@ Regulation 8 grants relief to a person who is liable to pay non-domestic rates i
 - (a) who is entitled to a grant of relief under the 2019 Regulations on 31 March 2022, or
 - (b) who made an application under the 2019 Regulations before 31 March 2022 which is not determined on or before 31 March 2022.
 
-**15.**[^key-d653c7097790ad3b926c4fa27ac58f8d] (1) Regulation 4(2)(b) does not apply in respect of a person described in paragraph (2), until such time as the lands and heritages cease to satisfy a condition in regulation 3(3).
+**15.**[^c-d653c7097790ad3b926c4fa27ac58f8d] (1) Regulation 4(2)(b) does not apply in respect of a person described in paragraph (2), until such time as the lands and heritages cease to satisfy a condition in regulation 3(3).
 
 (2) Paragraph (1) applies where—
 
 - (a) on 31 March 2020 a person had been granted relief under regulation 4 (relief granted – new building entered in the valuation roll under section 2(1)(b) of the 1975 Act) of the 2019 Regulations, and
 - (b) that person would not have continued to be entitled to relief under that regulation on 1 April 2020 solely as a result of the amendment to that regulation made by regulation 2(3) of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Amendment Regulations 2020 (exclusion of relief where the building is not new).
 
-## Part 6 — Parks[^key-6bcb4a2d5f9c9b913492df0ee68995cf]
+## Part 6 — Parks[^c-6bcb4a2d5f9c9b913492df0ee68995cf]
 
 ### 16. Exclusion of relief in respect of parks
 
-No relief is granted under these Regulations in respect of lands and heritages to which relief is granted under regulation 15 (relief for parks or parts of parts previously exempt from rating and becoming rateable on 1 April 2023) of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 or regulation 15 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024[^key-55910f5d3fb976685204c3699026b1c0].
+No relief is granted under these Regulations in respect of lands and heritages to which relief is granted under regulation 15 (relief for parks or parts of parts previously exempt from rating and becoming rateable on 1 April 2023) of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 or regulation 15 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024[^c-55910f5d3fb976685204c3699026b1c0].
 
 TOM ARTHUR
 
@@ -491,9 +491,9 @@ Regulation 13 revokes provisions which are superseded by these Regulations, but 
 
 [^f00001]: Footnote: [2020 asp 4](https://www.legislation.gov.uk/asp/2020/4).
 
-[^key-332e6c35ebef6ae59f1ac825989b74e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-332e6c35ebef6ae59f1ac825989b74e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-fc2c80757f2bacc28308f67996584349]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/49/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-fc2c80757f2bacc28308f67996584349]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/49/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
 [^f00002]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -501,101 +501,101 @@ Regulation 13 revokes provisions which are superseded by these Regulations, but 
 
 [^f00004]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). There are amendments to section 99(1) that are not relevant to these Regulations.
 
-[^key-354ebb6efc12c8bd713165a680f6e965]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2022/49/regulation/2) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/2)
+[^c-354ebb6efc12c8bd713165a680f6e965]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2022/49/regulation/2) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/2)
 
-[^key-48e8c3feaa5583e0a00060a231a3d480]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/49/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-48e8c3feaa5583e0a00060a231a3d480]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/49/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-d7781b815b6d730680299cc9755d4644]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/49/regulation/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-d7781b815b6d730680299cc9755d4644]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/49/regulation/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-203bd46d5d73852082ec012a41165bcc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/49/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-203bd46d5d73852082ec012a41165bcc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/49/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
 [^f00005]: Footnote: Section 2(1)(d) was amended by [S.S.I. 2000/285](https://www.legislation.gov.uk/ssi/2000/285).
 
-[^key-de4b6e599693abf52b4be42c00a516ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/49/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-de4b6e599693abf52b4be42c00a516ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/49/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-c36db0337d996229832e484323e14c7d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/49/regulation/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-c36db0337d996229832e484323e14c7d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/49/regulation/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
 [^f00006]: Footnote: Section 2A was inserted by section 3 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4). The definition of “relevant increase” in section 2A(5) of the Local Government (Scotland) Act 1975 was amended by [S.S.I. 2022/126](https://www.legislation.gov.uk/ssi/2022/126).
 
-[^key-c0dadad8a8f5121fb4d0a8e327125fea]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/49/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-c0dadad8a8f5121fb4d0a8e327125fea]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/49/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-4ccf55c279baea17a0792db9913b08fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/49/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-4ccf55c279baea17a0792db9913b08fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/49/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-27582cb1db903acdc6024a57ec1553e1]: Textual amendment: Words in reg. 9(1) substituted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(2)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/2) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
+[^c-27582cb1db903acdc6024a57ec1553e1]: Textual amendment: Words in reg. 9(1) substituted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(2)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/2) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
 
-[^key-70c3a9b1471d8a27a78337ca87f5e14f]: Textual amendment: Words in reg. 9(1) substituted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(2)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/2)
+[^c-70c3a9b1471d8a27a78337ca87f5e14f]: Textual amendment: Words in reg. 9(1) substituted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(2)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/2)
 
-[^key-32c40ddca2fd446d2adb4aa36e786c46]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/49/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-32c40ddca2fd446d2adb4aa36e786c46]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/49/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-8b6f14ac10939e4c4f320f728bb5f6a5]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/1) substituted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
+[^c-8b6f14ac10939e4c4f320f728bb5f6a5]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/1) substituted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
 
-[^key-b7ab1187838edc17f8881b8ef705d7e2]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/2/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(2)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/2) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-b7ab1187838edc17f8881b8ef705d7e2]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/2/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(2)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/2) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-74c53eafeb5b3355f6c76d3308ef1b73]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/4) substituted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
+[^c-74c53eafeb5b3355f6c76d3308ef1b73]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/4) substituted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
 
-[^key-d01f879ac6026b2582315db261475d90]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-d01f879ac6026b2582315db261475d90]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-18dc63895b6ab24a6bf0149152a37150]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(i)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-18dc63895b6ab24a6bf0149152a37150]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(i)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-23731af66867b3489272658ec0fef1ef]: Textual amendment: Word “X” substituted for “2.247” in reg. 10(5)(a) formula (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/ii/aa) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-23731af66867b3489272658ec0fef1ef]: Textual amendment: Word “X” substituted for “2.247” in reg. 10(5)(a) formula (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/ii/aa) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-86a41e1183ab079c8784c922fb217ecd]: Textual amendment: Word “366” substituted for “365” in reg. 10(5)(a) formula (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/ii/bb) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-86a41e1183ab079c8784c922fb217ecd]: Textual amendment: Word “366” substituted for “365” in reg. 10(5)(a) formula (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/ii/bb) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-1f1b7bb8fde31ffaebc36216a43b49c0]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/iii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-1f1b7bb8fde31ffaebc36216a43b49c0]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/iii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-20540d193ff7b82aa80a523169094513]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(iv)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/iv) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-20540d193ff7b82aa80a523169094513]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(iv)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/iv) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-e72224a9c8ae8d7e7e4baaefa5a08b28]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(v)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/v) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13)) (as amended by [S.S.I. 2023/63](https://www.legislation.gov.uk/ssi/2023/63), [regs. 1](https://www.legislation.gov.uk/ssi/2023/63/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/63/regulation/2/6))
+[^c-e72224a9c8ae8d7e7e4baaefa5a08b28]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(v)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/v) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13)) (as amended by [S.S.I. 2023/63](https://www.legislation.gov.uk/ssi/2023/63), [regs. 1](https://www.legislation.gov.uk/ssi/2023/63/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/63/regulation/2/6))
 
-[^key-e1e2827dc499eecaa4d6fda4b6a09284]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) inserted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(vi)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/vi) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-e1e2827dc499eecaa4d6fda4b6a09284]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/a) inserted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(3)(b)(vi)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/3/b/vi) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
 [^M_F_4ae35888-82eb-458a-859f-9f4b176812be]: Textual amendment: Word "X" substituted for "2.247" in [reg. 10(5)(b)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/b) formula (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(c)(i)(aa)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/c/i/aa) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
 
 [^M_F_67416b48-b2f0-451a-9657-5a598a8d7a01]: Textual amendment: Word "366" substituted for "365" in [reg. 10(5)(b)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/b) formula (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/c/i/bb) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
 
-[^key-eb88ea00c3709ab6ef51291d2431ee92]: Textual amendment: Words in [reg. 10(5)(b)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/b) substituted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/c/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
+[^c-eb88ea00c3709ab6ef51291d2431ee92]: Textual amendment: Words in [reg. 10(5)(b)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/5/b) substituted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/2/c/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
 
-[^key-34cc5688ead1261c336f666b3737419c]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/6) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(4)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
+[^c-34cc5688ead1261c336f666b3737419c]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10/6) substituted (1.4.2023) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023 (S.S.I. 2023/31)](https://www.legislation.gov.uk/ssi/2023/31), [regs. 1](https://www.legislation.gov.uk/ssi/2023/31/regulation/1), [17(4)](https://www.legislation.gov.uk/ssi/2023/31/regulation/17/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2023/31/regulation/13))
 
-[^key-caecd3b620ab47bfcb3b3d71e3d68bdf]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2022/49/regulation/10A) inserted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(3)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
+[^c-caecd3b620ab47bfcb3b3d71e3d68bdf]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2022/49/regulation/10A) inserted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(3)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
 
-[^key-2bc79c9e7e82d8e98772997b3f38ac4d]: Textual amendment: Words in [reg. 10A(5)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10A/5) substituted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(3)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
+[^c-2bc79c9e7e82d8e98772997b3f38ac4d]: Textual amendment: Words in [reg. 10A(5)](https://www.legislation.gov.uk/ssi/2022/49/regulation/10A/5) substituted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(3)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
 
-[^key-eba869a8d89f3db33a15b8839a698b02]: Textual amendment: [Reg. 10B](https://www.legislation.gov.uk/ssi/2022/49/regulation/10B) inserted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(4)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
+[^c-eba869a8d89f3db33a15b8839a698b02]: Textual amendment: [Reg. 10B](https://www.legislation.gov.uk/ssi/2022/49/regulation/10B) inserted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(4)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
 
-[^key-70ce03207f7796bc8d45aff5446858c8]: Textual amendment: Reg. 10C inserted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(3)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/3) (as amended by [S.S.I. 2026/135](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/5))
+[^c-70ce03207f7796bc8d45aff5446858c8]: Textual amendment: Reg. 10C inserted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(3)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/3) (as amended by [S.S.I. 2026/135](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/5))
 
-[^key-d65fd5b66c4d06a608f5506cd5b06f93]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/49/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-d65fd5b66c4d06a608f5506cd5b06f93]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/49/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-9f841b4a409492b0886d8e43d2e3ceea]: Textual amendment: Words in reg. 11(1) inserted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(5)(a)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/5/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
+[^c-9f841b4a409492b0886d8e43d2e3ceea]: Textual amendment: Words in reg. 11(1) inserted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(5)(a)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/5/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
 
-[^key-4124f9713aa37ae1527b0a2dbd089991]: Textual amendment: Words in reg. 11(1) substituted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(a)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/a)
+[^c-4124f9713aa37ae1527b0a2dbd089991]: Textual amendment: Words in reg. 11(1) substituted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(a)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/a)
 
-[^key-5c49c2572fc935770349ef7966c4f094]: Textual amendment: Words in reg. 11(2)(b) inserted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(5)(b)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/5/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
+[^c-5c49c2572fc935770349ef7966c4f094]: Textual amendment: Words in reg. 11(2)(b) inserted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(5)(b)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/5/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
 
-[^key-523234a76b764cdf66d7bac14dc1809f]: Textual amendment: Words in reg. 11(2)(b) substituted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(b)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/b)
+[^c-523234a76b764cdf66d7bac14dc1809f]: Textual amendment: Words in reg. 11(2)(b) substituted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(b)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/b)
 
-[^key-88e9dd2f55fc3b9630d0ad1807544d78]: Textual amendment: Reg. 11(3) substituted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(5)(c)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/5/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
+[^c-88e9dd2f55fc3b9630d0ad1807544d78]: Textual amendment: Reg. 11(3) substituted (1.4.2025) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025 (S.S.I. 2025/39)](https://www.legislation.gov.uk/ssi/2025/39), [regs. 1](https://www.legislation.gov.uk/ssi/2025/39/regulation/1), [16(5)(c)](https://www.legislation.gov.uk/ssi/2025/39/regulation/16/5/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/39/regulation/13))
 
-[^key-c39de25bac89991ebf1392d134b60153]: Textual amendment: Word in reg. 11(3)(e) omitted (1.4.2026) by virtue of [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(c)(i)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/c/i)
+[^c-c39de25bac89991ebf1392d134b60153]: Textual amendment: Word in reg. 11(3)(e) omitted (1.4.2026) by virtue of [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(c)(i)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/c/i)
 
-[^key-82deea9e43f8c93b2f8c57c5426f21f3]: Textual amendment: Reg. 11(3)(g) and word inserted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/c/ii)
+[^c-82deea9e43f8c93b2f8c57c5426f21f3]: Textual amendment: Reg. 11(3)(g) and word inserted (1.4.2026) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 (S.S.I. 2026/70)](https://www.legislation.gov.uk/ssi/2026/70), [regs. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1), [16(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/4/c/ii)
 
-[^key-89184b1c0cfe2575bab1c4683ea543ac]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ssi/2022/49/regulation/11A) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(3)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/3)
+[^c-89184b1c0cfe2575bab1c4683ea543ac]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ssi/2022/49/regulation/11A) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(3)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/3)
 
-[^key-d83854adaf6c1fdf9a18ca95d6c7f9fb]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2022/49/regulation/11A) revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [13](https://www.legislation.gov.uk/ssi/2025/38/regulation/13)
+[^c-d83854adaf6c1fdf9a18ca95d6c7f9fb]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2022/49/regulation/11A) revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [13](https://www.legislation.gov.uk/ssi/2025/38/regulation/13)
 
-[^key-3efa90eec2920b4efcfbf658a4a83cc9]: Textual amendment: Pt. 3B inserted (1.4.2026) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [12(2)](https://www.legislation.gov.uk/ssi/2026/68/regulation/12/2)
+[^c-3efa90eec2920b4efcfbf658a4a83cc9]: Textual amendment: Pt. 3B inserted (1.4.2026) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [12(2)](https://www.legislation.gov.uk/ssi/2026/68/regulation/12/2)
 
-[^key-345d0dd204f5c9082ff6a531e856c8f3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/49/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-345d0dd204f5c9082ff6a531e856c8f3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/49/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
 [^f00013]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00014]: Footnote: Section 7(2) was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
 
-[^key-095a111dc62430ffc0a834f9d5c4fff6]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/ssi/2022/49/regulation/12/3) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(4)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/4)
+[^c-095a111dc62430ffc0a834f9d5c4fff6]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/ssi/2022/49/regulation/12/3) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(4)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/4)
 
-[^key-d546a5f98ffd166883803121777cbb9d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/49/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-d546a5f98ffd166883803121777cbb9d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/49/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
 [^f00015]: Footnote: [S.S.I. 2019/116](https://www.legislation.gov.uk/ssi/2019/116).
 
@@ -603,10 +603,10 @@ Regulation 13 revokes provisions which are superseded by these Regulations, but 
 
 [^f00017]: Footnote: [S.S.I. 2021/65](https://www.legislation.gov.uk/ssi/2021/65).
 
-[^key-1b12a15a95636099fd18600dbf3b8aae]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/49/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-1b12a15a95636099fd18600dbf3b8aae]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/49/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-d653c7097790ad3b926c4fa27ac58f8d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/49/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
+[^c-d653c7097790ad3b926c4fa27ac58f8d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/49/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1)
 
-[^key-6bcb4a2d5f9c9b913492df0ee68995cf]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/ssi/2022/49/part/6) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(5)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/5)
+[^c-6bcb4a2d5f9c9b913492df0ee68995cf]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/ssi/2022/49/part/6) inserted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [13(5)](https://www.legislation.gov.uk/ssi/2023/30/regulation/13/5)
 
-[^key-55910f5d3fb976685204c3699026b1c0]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2022/49/regulation/16) inserted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(4)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))
+[^c-55910f5d3fb976685204c3699026b1c0]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2022/49/regulation/16) inserted (1.4.2024) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024 (S.S.I. 2024/5)](https://www.legislation.gov.uk/ssi/2024/5), [regs. 1](https://www.legislation.gov.uk/ssi/2024/5/regulation/1), [17(4)](https://www.legislation.gov.uk/ssi/2024/5/regulation/17/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2024/5/regulation/13))

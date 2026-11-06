@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Duty to refer related proposals[^key-f70372de6fcd1462f5ed3a3c8d76e835]
+## 19. Duty to refer related proposals[^c-f70372de6fcd1462f5ed3a3c8d76e835]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f70372de6fcd1462f5ed3a3c8d76e835]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/3109/regulation/19) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)
+[^c-f70372de6fcd1462f5ed3a3c8d76e835]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/3109/regulation/19) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Transition from income support payable on the grounds of incapacity for work or disability and other incapacity benefits[^key-52d56b4618006a7f52c811a7805bcebe]
+## 23. Transition from income support payable on the grounds of incapacity for work or disability and other incapacity benefits[^c-52d56b4618006a7f52c811a7805bcebe]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52d56b4618006a7f52c811a7805bcebe]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/226/regulation/23) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-52d56b4618006a7f52c811a7805bcebe]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/226/regulation/23) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

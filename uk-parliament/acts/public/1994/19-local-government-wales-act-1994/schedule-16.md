@@ -60,7 +60,7 @@ Section 66(6).
 
 **7.** (1) In section 193 of the Law of Property Act 1925 (rights of the public over commons and waste lands), in subsection (1)(d)(ii), after “county” insert “ , county borough ”.
 
-(2)[^key-37c73cf9e093133463a38fba083a73d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-37c73cf9e093133463a38fba083a73d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Education Act 1944 (c. 31)
 
@@ -126,9 +126,9 @@ Section 66(6).
 
 *Extent: E+W+S*
 
-**16.** (1)[^key-e93056b0ec6c61b278ff0007e4ee83e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.** (1)[^c-e93056b0ec6c61b278ff0007e4ee83e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e93056b0ec6c61b278ff0007e4ee83e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e93056b0ec6c61b278ff0007e4ee83e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 29(1) of that Act (interpretation of Part I), in the definition of “**local authority**”, at the end add “ but, in relation to Wales, means the council of a Welsh county or county borough ”.
 
@@ -221,7 +221,7 @@ Section 66(6).
 
 *Extent: E+W*
 
-**26.**[^key-3742d6b0b430fe9433137c24056175c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-3742d6b0b430fe9433137c24056175c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government Act 1966 (c. 42)
 
@@ -241,9 +241,9 @@ Section 66(6).
 
 **29.** [^c20992811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-55a6177a540d26f45fca581c184b4bdb]
+### ...[^c-55a6177a540d26f45fca581c184b4bdb]
 
-[^key-55a6177a540d26f45fca581c184b4bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55a6177a540d26f45fca581c184b4bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Slaughter of Poultry Act 1967 (c. 24)
 
@@ -345,7 +345,7 @@ Section 66(6).
 
 *Extent: E+W+S*
 
-**42.**[^key-305403677a5da0f4691105a29a223113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-305403677a5da0f4691105a29a223113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Slaughterhouses Act 1974 (c. 3)
 
@@ -485,11 +485,11 @@ Section 66(6).
 
 > (1A) In the application of sub-paragraph (1) above in relation to Wales, the words “after consulting the other designated district authority,” shall not apply.
 
-### ...[^key-30018813587c6f50385c9c0a3629a57d]
+### ...[^c-30018813587c6f50385c9c0a3629a57d]
 
 *Extent: E+W+S*
 
-**56.**[^key-30018813587c6f50385c9c0a3629a57d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-30018813587c6f50385c9c0a3629a57d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government, Planning and Land Act 1980 (c. 65)
 
@@ -571,9 +571,9 @@ Section 66(6).
 
 (9) In Schedule 32 to that Act (enterprise zones)—
 
-- (a)[^key-6a720d16c311f33fe51dee52842eb021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-6a720d16c311f33fe51dee52842eb021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) in paragraph 2(2)(a)(ii) omit “or Wales” [^key-d69c6cda894bf12712540f79df9a41fa]...
+- (a)[^c-6a720d16c311f33fe51dee52842eb021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6a720d16c311f33fe51dee52842eb021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in paragraph 2(2)(a)(ii) omit “or Wales” [^c-d69c6cda894bf12712540f79df9a41fa]...
 
   > - ;
 
@@ -654,7 +654,7 @@ Section 66(6).
 
 *Extent: E+W+S*
 
-**65.**[^key-989a5dc1406d1fa8178fcacc75cc4c19] (1) In section 3 of the Wildlife and Countryside Act 1981 (areas of special protection), in subsection (4), for “district” substitute “locality”.
+**65.**[^c-989a5dc1406d1fa8178fcacc75cc4c19] (1) In section 3 of the Wildlife and Countryside Act 1981 (areas of special protection), in subsection (4), for “district” substitute “locality”.
 
 (2) In section 27(1) of that Act (interpretation of Part I), in paragraph (a) of the definition of “**local authority**”, omit “and Wales” and after that paragraph insert—
 
@@ -668,7 +668,7 @@ Section 66(6).
 
 .
 
-(4)[^key-a86478bf41269ad3ab8a97f2f8a43a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a86478bf41269ad3ab8a97f2f8a43a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 39(5) of that Act (relevant authorities for purposes of management agreements with owners and occupiers of land), after “land” in paragraph (a), insert “in England”.
 
@@ -682,7 +682,7 @@ Section 66(6).
 
 (9)[^c10522271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-989a5dc1406d1fa8178fcacc75cc4c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-989a5dc1406d1fa8178fcacc75cc4c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In Schedule 14 to that Act (applications for certain orders under Part III), in paragraph 5(1), in the definition of “**local authority**”, omit “or community” and at the end of that definition add “ but, in relation to Wales, means a community council ”.
 
@@ -745,11 +745,11 @@ Section 66(6).
 > - (a) an officer of the council to be the returning officer for elections of councillors of the county or county borough; and
 > - (b) an officer of the council to be the returning officer for elections of councillors of communities within the county or county borough.
 
-(8) In section 36 of that Act (local elections), in subsection (3) omit “or community” in both places in paragraph (b) [^key-32f818cec33319e639d59263dd515032]...
+(8) In section 36 of that Act (local elections), in subsection (3) omit “or community” in both places in paragraph (b) [^c-32f818cec33319e639d59263dd515032]...
 
-(9)[^key-8410ffb22833e35aee54d9b4d6284234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8410ffb22833e35aee54d9b4d6284234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10) In section 36 of that Act, in subsection (5) omit “or community”, in both places, and “or the community” [^key-8c20c10b8836c92f90df322d9edbf0fb]...
+(10) In section 36 of that Act, in subsection (5) omit “or community”, in both places, and “or the community” [^c-8c20c10b8836c92f90df322d9edbf0fb]...
 
 (11) In section 39 of that Act (void local elections)—
 
@@ -861,7 +861,7 @@ Section 66(6).
 
 ### The Parliamentary Constituencies Act 1986 (c. 56)
 
-**80.**[^key-6de68e6a01edad25a6156edc3801eda7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**80.**[^c-6de68e6a01edad25a6156edc3801eda7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Fire Safety and Safety of Places of Sport Act 1987 (c. 27)
 
@@ -965,15 +965,15 @@ Section 66(6).
 
 *Extent: E+W*
 
-**84.**[^key-4e1acb2484b270af268f976b2dd0dee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-4e1acb2484b270af268f976b2dd0dee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**85.**[^c10522411] In section 88(2) of the Local Government Finance Act 1988[^key-665a45ae8d1fc6821befdb6512bb2ec4] (councils to whom transport grants may be paid), after paragraph (a) insert—
+**85.**[^c10522411] In section 88(2) of the Local Government Finance Act 1988[^c-665a45ae8d1fc6821befdb6512bb2ec4] (councils to whom transport grants may be paid), after paragraph (a) insert—
 
 > - (aa) a county borough council,
 
 .
 
-**86.**[^key-3cb56de2c3e6812a4b9bc27c2cdc8d60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-3cb56de2c3e6812a4b9bc27c2cdc8d60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Football Spectators Act 1989 (c. 37)
 
@@ -1079,7 +1079,7 @@ Section 66(6).
 
 *Extent: E+W*
 
-**101.**[^key-ef753e3ab07a0cdbd0dbfcb9f22e76e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-ef753e3ab07a0cdbd0dbfcb9f22e76e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Radioactive Substances Act 1993 (c. 12)
 
@@ -1134,7 +1134,7 @@ Section 66(6).
 
 ## Annotations
 
-[^key-37c73cf9e093133463a38fba083a73d5]: Textual amendment: Sch. 16 para. 7(2) repealed (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/ii) (with art. 3); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h)
+[^c-37c73cf9e093133463a38fba083a73d5]: Textual amendment: Sch. 16 para. 7(2) repealed (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/ii) (with art. 3); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h)
 
 [^c10522071]: Textual amendment: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/8) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
 
@@ -1144,15 +1144,15 @@ Section 66(6).
 
 [^c20991891]: Textual amendment: [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/13) repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/3), {Sch. 4 Pt. 1 } (with reg. 28(2)(3))
 
-[^key-e93056b0ec6c61b278ff0007e4ee83e5]: Textual amendment: [Sch. 16 para. 16(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/16/1)[(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/16/2) omitted (E.W.) (5.11.2013) by virtue of [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/7) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of [S.I. 2014/11](https://www.legislation.gov.uk/uksi/2014/11), art. 3(2))
+[^c-e93056b0ec6c61b278ff0007e4ee83e5]: Textual amendment: [Sch. 16 para. 16(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/16/1)[(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/16/2) omitted (E.W.) (5.11.2013) by virtue of [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/7) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of [S.I. 2014/11](https://www.legislation.gov.uk/uksi/2014/11), art. 3(2))
 
 [^c20991921]: Textual amendment: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/22) repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2005/3056/article/3))
 
-[^key-3742d6b0b430fe9433137c24056175c9]: Textual amendment: Sch. 16 para. 26 repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-3742d6b0b430fe9433137c24056175c9]: Textual amendment: Sch. 16 para. 26 repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
 [^c20992811]: Textual amendment: [Sch. 16 para. 29](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/29) repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-55a6177a540d26f45fca581c184b4bdb]: Textual amendment: [Sch. 16 para. 30 and cross-heading](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/crossheading/the-agriculture-act-1967-c-22) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/2)
+[^c-55a6177a540d26f45fca581c184b4bdb]: Textual amendment: [Sch. 16 para. 30 and cross-heading](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/crossheading/the-agriculture-act-1967-c-22) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/2)
 
 [^c20992821]: Textual amendment: [Sch. 16 para. 32](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/32) repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2005/3056/article/3))
 
@@ -1164,7 +1164,7 @@ Section 66(6).
 
 [^c10522141]: Textual amendment: [Sch. 16 para. 40(2)(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/40/2/b) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/X) Group 5
 
-[^key-305403677a5da0f4691105a29a223113]: Textual amendment: [Sch. 16 para. 42](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/42) omitted (W.) (30.4.2015) by virtue of [The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (S.I. 2014/3266)](https://www.legislation.gov.uk/wsi/2014/3266), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3266/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/3266/schedule/2/paragraph/2)
+[^c-305403677a5da0f4691105a29a223113]: Textual amendment: [Sch. 16 para. 42](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/42) omitted (W.) (30.4.2015) by virtue of [The Animal Welfare (Breeding of Dogs) (Wales) Regulations 2014 (S.I. 2014/3266)](https://www.legislation.gov.uk/wsi/2014/3266), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3266/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/3266/schedule/2/paragraph/2)
 
 [^c20993501]: Textual amendment: [Sch. 16 para. 50](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/50) repealed (1.9.2007) by Gambling Act 2005 (c. 19 ), ss. 356, 358, {Sch. 17} (with ss. 352, 354, Sch. 16 para. 21); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)
 
@@ -1172,7 +1172,7 @@ Section 66(6).
 
 [^c10522171]: Textual amendment: [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/54) repealed (1.5.1999) by [1999 c. 1](https://www.legislation.gov.uk/ukpga/1999/1), [s. 3(3)](https://www.legislation.gov.uk/ukpga/1999/1/section/3/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1999/1/schedule/4); [S.I. 1999/717](https://www.legislation.gov.uk/uksi/1999/717), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/717/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/717/article/2/3))
 
-[^key-30018813587c6f50385c9c0a3629a57d]: Textual amendment: [Sch. 16 para. 56 and cross-heading](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/crossheading/the-ancient-monuments-and-archaeological-areas-act-1979-c-46) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 169](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/169) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-30018813587c6f50385c9c0a3629a57d]: Textual amendment: [Sch. 16 para. 56 and cross-heading](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/crossheading/the-ancient-monuments-and-archaeological-areas-act-1979-c-46) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 169](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/169) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c10522201]: Commencement: [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/57) wholly in force at 19.11.1998; [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/57) not in force at Royal Assent see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66); [Sch. 16 para. 57(1)-(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/57/1) in force at 3.4.1995 by [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 
@@ -1184,15 +1184,15 @@ Section 66(6).
 
 [^c10522241]: Textual amendment: [Sch. 16 para. 59(6)-(8)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/6) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. V](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/V) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-6a720d16c311f33fe51dee52842eb021]: Textual amendment: [Sch. 16 para. 59(9)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/a)[(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/b) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/5/a)
+[^c-6a720d16c311f33fe51dee52842eb021]: Textual amendment: [Sch. 16 para. 59(9)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/a)[(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/b) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/5/a)
 
-[^key-d69c6cda894bf12712540f79df9a41fa]: Textual amendment: Words in [Sch. 16 para. 59(9)(c)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/5/b)
+[^c-d69c6cda894bf12712540f79df9a41fa]: Textual amendment: Words in [Sch. 16 para. 59(9)(c)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/c) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/5/b)
 
 [^c20993531]: Textual amendment: [Sch. 16 para. 63(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/63/5) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17 ), ss. 321(1), 325, {Sch. 16}; [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-989a5dc1406d1fa8178fcacc75cc4c19]: Textual amendment: Sch. 16 para. 65(10) repealed (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c) and (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 167](https://www.legislation.gov.uk/asp/2010/5/section/167), [168](https://www.legislation.gov.uk/asp/2010/5/section/168), [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/7); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
+[^c-989a5dc1406d1fa8178fcacc75cc4c19]: Textual amendment: Sch. 16 para. 65(10) repealed (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c) and (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 167](https://www.legislation.gov.uk/asp/2010/5/section/167), [168](https://www.legislation.gov.uk/asp/2010/5/section/168), [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/7); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
 
-[^key-a86478bf41269ad3ab8a97f2f8a43a18]: Textual amendment: Sch. 16 para. 65(4) repealed (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 167](https://www.legislation.gov.uk/asp/2010/5/section/167), [168](https://www.legislation.gov.uk/asp/2010/5/section/168), [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/7); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h) and (E.W.) (12.12.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c)
+[^c-a86478bf41269ad3ab8a97f2f8a43a18]: Textual amendment: Sch. 16 para. 65(4) repealed (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 167](https://www.legislation.gov.uk/asp/2010/5/section/167), [168](https://www.legislation.gov.uk/asp/2010/5/section/168), [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/7); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h) and (E.W.) (12.12.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c)
 
 [^c10522271]: Textual amendment: Sch. 16 para. 65(9) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2560/schedule)
 
@@ -1200,11 +1200,11 @@ Section 66(6).
 
 [^c10522311]: Commencement: Sch. 16 para. 68 wholly in force at 1.4.1996; Sch. 16 para. 68 not in force at Royal Assent see s. 66; Sch. 16 para. 68(6)(8)(9)(13)-(16)(19) in force at 20.3.1995, and Sch. 16 para. 68(7) in force at 20.3.1995 for certain purposes by [S.I. 1995/546](https://www.legislation.gov.uk/uksi/1995/546), [art. 3](https://www.legislation.gov.uk/uksi/1995/546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1995/546/schedule) (subject to arts. 4-8 (as amended by [S.I. 1995/851](https://www.legislation.gov.uk/uksi/1995/851))); Sch. 16 para. 68(7) in force at 1.4. 1996 insofar as not already in force and Sch. 16 para. 68(1)-(5)(10)-(12)(17)(18)(20) in force at 1.4.1996 by [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-32f818cec33319e639d59263dd515032]: Textual amendment: Words in [Sch. 16 para. 68(8)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/8) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6/a)
+[^c-32f818cec33319e639d59263dd515032]: Textual amendment: Words in [Sch. 16 para. 68(8)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/8) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6/a)
 
-[^key-8410ffb22833e35aee54d9b4d6284234]: Textual amendment: [Sch. 16 para. 68(9)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/9) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6/b)
+[^c-8410ffb22833e35aee54d9b4d6284234]: Textual amendment: [Sch. 16 para. 68(9)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/9) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6/b)
 
-[^key-8c20c10b8836c92f90df322d9edbf0fb]: Textual amendment: Words in [Sch. 16 para. 68(10)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/10) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6/c)
+[^c-8c20c10b8836c92f90df322d9edbf0fb]: Textual amendment: Words in [Sch. 16 para. 68(10)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/10) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6/c)
 
 [^c21000481]: Textual amendment: [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/69) repealed (24.11.2005) by Licensing Act 2003 (c. 17 ), ss. 199, 201, {Sch. 7} (with ss. 2(3), 15(2), 195; [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2005/3056/article/3))
 
@@ -1218,19 +1218,19 @@ Section 66(6).
 
 [^c10522341]: Textual amendment: [Sch. 16 para. 78](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/78) repealed (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 17(5)](https://www.legislation.gov.uk/ukpga/1995/45/section/17/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/1995/45/schedule/6); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-6de68e6a01edad25a6156edc3801eda7]: Textual amendment: [Sch. 16 para. 80](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/80) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)
+[^c-6de68e6a01edad25a6156edc3801eda7]: Textual amendment: [Sch. 16 para. 80](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/80) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)
 
 [^c10522361]: Commencement: [Sch. 16 para. 82](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82) wholly in force at 1.4.1996; [Sch. 16 para. 82](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82) not in force at Royal Assent see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66); [Sch. 16 para. 82(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82/5) in force for certain purposes at 3.4.1995 by [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2)); [Sch. 16 para. 82(1)-(3)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82/1) in force at 3.4.1995 for certain purposes and 1.4.1996 otherwise by [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2)); [Sch. 16 para. 82(4)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82/4) in force at 3.4.1995 by [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2)); [Sch. 16 para. 82(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82/5) in force at 3.4.1995 for certain purposes by [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2)); [Sch. 16 para. 82(6)-(10)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82/6) at 1.4.1996 by [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2) (which Sch. 16 para. 82(9) is repealed (1.4.1996) by [S.I. 1996/655](https://www.legislation.gov.uk/uksi/1996/655), [reg. 3](https://www.legislation.gov.uk/uksi/1996/655/regulation/3))
 
 [^c10522371]: Textual amendment: [Sch. 16 para. 82(1)(2)(9)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/82/1/2/9) repealed (1.4.1996) by [S.I. 1996/655](https://www.legislation.gov.uk/uksi/1996/655), [reg. 3](https://www.legislation.gov.uk/uksi/1996/655/regulation/3); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-4e1acb2484b270af268f976b2dd0dee5]: Textual amendment: Sch. 16 para. 84 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/3/a)
+[^c-4e1acb2484b270af268f976b2dd0dee5]: Textual amendment: Sch. 16 para. 84 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/3/a)
 
 [^c10522411]: Commencement: Sch. 16 para. 85 in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9](https://www.legislation.gov.uk/uksi/1995/852/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 
-[^key-665a45ae8d1fc6821befdb6512bb2ec4]: Textual amendment: Words in Sch. 16 para. 85 substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/3/b)
+[^c-665a45ae8d1fc6821befdb6512bb2ec4]: Textual amendment: Words in Sch. 16 para. 85 substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/3/b)
 
-[^key-3cb56de2c3e6812a4b9bc27c2cdc8d60]: Textual amendment: Sch. 16 para. 86 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(3)(c)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/3/c)
+[^c-3cb56de2c3e6812a4b9bc27c2cdc8d60]: Textual amendment: Sch. 16 para. 86 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(3)(c)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/3/c)
 
 [^c10522431]: Commencement: [Sch. 16 para. 88](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/88) in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9](https://www.legislation.gov.uk/uksi/1995/852/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 
@@ -1246,7 +1246,7 @@ Section 66(6).
 
 [^c21000911]: Textual amendment: [Sch. 16 para. 99](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/99) repealed (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 75](https://www.legislation.gov.uk/ukpga/2006/50/section/75), [79](https://www.legislation.gov.uk/ukpga/2006/50/section/79), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule) (subject to [arts. 4-13](https://www.legislation.gov.uk/uksi/2007/309/article/4))
 
-[^key-ef753e3ab07a0cdbd0dbfcb9f22e76e5]: Textual amendment: [Sch. 16 para. 101](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/101) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-ef753e3ab07a0cdbd0dbfcb9f22e76e5]: Textual amendment: [Sch. 16 para. 101](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/101) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c21001081]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16): heading preceding para. 104 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17 ), ss. 321(1), 325, {Sch. 16}; [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 

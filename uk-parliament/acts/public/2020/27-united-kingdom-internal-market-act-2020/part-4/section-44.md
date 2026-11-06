@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Duty to review arrangements for carrying out Part 4 functions[^key-eae2b9f1eeab62dc8ae9160994a8a993]
+## 44. Duty to review arrangements for carrying out Part 4 functions[^c-eae2b9f1eeab62dc8ae9160994a8a993]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eae2b9f1eeab62dc8ae9160994a8a993]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2020/27/section/44) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/j)
+[^c-eae2b9f1eeab62dc8ae9160994a8a993]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2020/27/section/44) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/j)

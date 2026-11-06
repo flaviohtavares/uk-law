@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Urgent safety restrictions[^key-4d91d888fd97ee73bb1ac212df5af8e3]
+## 148A. Urgent safety restrictions[^c-4d91d888fd97ee73bb1ac212df5af8e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d91d888fd97ee73bb1ac212df5af8e3]: Textual amendment: [Reg. 148A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/148A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [130](https://www.legislation.gov.uk/uksi/2019/775/regulation/130); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d91d888fd97ee73bb1ac212df5af8e3]: Textual amendment: [Reg. 148A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/148A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [130](https://www.legislation.gov.uk/uksi/2019/775/regulation/130); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

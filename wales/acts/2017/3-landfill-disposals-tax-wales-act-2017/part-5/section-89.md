@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Power to impose secondary liability on controllers of authorised landfill sites[^key-8678e0d646624c903f339535ea385411]
+## 89. Power to impose secondary liability on controllers of authorised landfill sites[^c-8678e0d646624c903f339535ea385411]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8678e0d646624c903f339535ea385411]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2017/3/section/89) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-8678e0d646624c903f339535ea385411]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2017/3/section/89) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

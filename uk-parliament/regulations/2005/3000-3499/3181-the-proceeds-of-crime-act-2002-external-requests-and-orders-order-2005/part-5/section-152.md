@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Functions of interim receiver[^key-9142669e060b03f8e8d390b929754219]
+## 152. Functions of interim receiver[^c-9142669e060b03f8e8d390b929754219]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the interim receiver is not liable to any person in respect of any loss or damag
 
 ## Annotations
 
-[^key-9142669e060b03f8e8d390b929754219]: Commencement: [Art. 152](https://www.legislation.gov.uk/uksi/2005/3181/article/152) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-9142669e060b03f8e8d390b929754219]: Commencement: [Art. 152](https://www.legislation.gov.uk/uksi/2005/3181/article/152) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

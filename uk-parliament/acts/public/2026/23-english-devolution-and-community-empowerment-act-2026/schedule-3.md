@@ -22,7 +22,7 @@ summary: ''
 
 Section 9
 
-### 1. Schedule 2A to LURA 2023[^key-92ccbf4fbe61140e3c7f3f53daa9cdbc]
+### 1. Schedule 2A to LURA 2023[^c-92ccbf4fbe61140e3c7f3f53daa9cdbc]
 
 After Schedule 2 to LURA 2023 insert—
 
@@ -235,11 +235,11 @@ After Schedule 2 to LURA 2023 insert—
 >
 > (10) The members of overview and scrutiny committees must take account of any such guidance.
 
-**2.**[^key-fbe3b4bc86bb77bd833e546297f38edb] In section 252 of LURA 2023 (regulations), in subsection (8), after paragraph (k) insert—
+**2.**[^c-fbe3b4bc86bb77bd833e546297f38edb] In section 252 of LURA 2023 (regulations), in subsection (8), after paragraph (k) insert—
 
 > - (l) under Schedule 2A.
 
-### 3. Schedule 5BA to LDEDCA 2009[^key-986e699a40b255a1a028b48e1e23af06]
+### 3. Schedule 5BA to LDEDCA 2009[^c-986e699a40b255a1a028b48e1e23af06]
 
 After Schedule 5B to LDEDCA 2009 insert—
 
@@ -454,8 +454,8 @@ After Schedule 5B to LDEDCA 2009 insert—
 
 ## Annotations
 
-[^key-92ccbf4fbe61140e3c7f3f53daa9cdbc]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-92ccbf4fbe61140e3c7f3f53daa9cdbc]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-fbe3b4bc86bb77bd833e546297f38edb]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-fbe3b4bc86bb77bd833e546297f38edb]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-986e699a40b255a1a028b48e1e23af06]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-986e699a40b255a1a028b48e1e23af06]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

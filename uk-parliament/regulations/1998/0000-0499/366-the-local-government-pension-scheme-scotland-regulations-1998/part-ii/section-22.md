@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Permanent reductions in pay: certificates of protection of pension benefits[^key-706273c4a390b8be27fbbae6890dae32]
+## 22. Permanent reductions in pay: certificates of protection of pension benefits[^c-706273c4a390b8be27fbbae6890dae32]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ he is entitled to be issued with a certificate to that effect by the employing a
 
 ## Annotations
 
-[^key-706273c4a390b8be27fbbae6890dae32]: Commencement: Reg. 22 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-706273c4a390b8be27fbbae6890dae32]: Commencement: Reg. 22 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

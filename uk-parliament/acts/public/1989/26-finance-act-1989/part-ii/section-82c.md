@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82C. Relevant financial reinsurance contracts[^key-08c23aba45cb6d3b3c5c9a7af8689cbe]
+## 82C. Relevant financial reinsurance contracts[^c-08c23aba45cb6d3b3c5c9a7af8689cbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08c23aba45cb6d3b3c5c9a7af8689cbe]: Textual amendment: S. 82C repealed (with effect in accordance with Sch. 9 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2007/11/schedule/9/paragraph/9), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9); [S.I. 2008/379](https://www.legislation.gov.uk/uksi/2008/379), [art. 2](https://www.legislation.gov.uk/uksi/2008/379/article/2)
+[^c-08c23aba45cb6d3b3c5c9a7af8689cbe]: Textual amendment: S. 82C repealed (with effect in accordance with Sch. 9 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2007/11/schedule/9/paragraph/9), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9); [S.I. 2008/379](https://www.legislation.gov.uk/uksi/2008/379), [art. 2](https://www.legislation.gov.uk/uksi/2008/379/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — Removal of hedgerows[^key-13d1908ad56d42d49d000544bb053d8c]
+## SCHEDULE 10 — Removal of hedgerows[^c-13d1908ad56d42d49d000544bb053d8c]
 
 *Extent: E+W+S*
 
@@ -104,4 +104,4 @@ Article 34
 
 ## Annotations
 
-[^key-13d1908ad56d42d49d000544bb053d8c]: Commencement: Sch. 10 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-13d1908ad56d42d49d000544bb053d8c]: Commencement: Sch. 10 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

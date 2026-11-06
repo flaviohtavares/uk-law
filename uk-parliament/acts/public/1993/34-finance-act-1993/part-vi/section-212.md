@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Act “**the Taxes Act 1988**” means the [^c15156431]Income and Corporation Taxes Act 1988 , and “[^key-737d0a2aae2c06e7ea5cefe06342842c]**ITA 2007**” means the Income Tax Act 2007.
+In this Act “**the Taxes Act 1988**” means the [^c15156431]Income and Corporation Taxes Act 1988 , and “[^c-737d0a2aae2c06e7ea5cefe06342842c]**ITA 2007**” means the Income Tax Act 2007.
 
 ## Annotations
 
 [^c15156431]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-737d0a2aae2c06e7ea5cefe06342842c]: Textual amendment: Words in s. 212 inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 360](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/360) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-737d0a2aae2c06e7ea5cefe06342842c]: Textual amendment: Words in s. 212 inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 360](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/360) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

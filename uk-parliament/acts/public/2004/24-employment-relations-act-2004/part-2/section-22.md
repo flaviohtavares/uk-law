@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Information about employees to be balloted on industrial action[^key-8bf794bcafadca5e02f24d7900f0fb7d]
+## 22. Information about employees to be balloted on industrial action[^c-8bf794bcafadca5e02f24d7900f0fb7d]
 
 *Extent: E+W+S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bf794bcafadca5e02f24d7900f0fb7d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2004/24/section/22) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/2419/article/6))
+[^c-8bf794bcafadca5e02f24d7900f0fb7d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2004/24/section/22) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/2419/article/6))

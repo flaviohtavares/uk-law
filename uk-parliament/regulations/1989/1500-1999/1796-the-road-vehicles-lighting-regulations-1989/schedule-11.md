@@ -26,8 +26,8 @@ summary: ''
 
 |  |  |
 | --- | --- |
-| **1.**[^key-dd1d300bac5cb9db2823f2ebba6cf4b3] Number: | One |
-| **2.**[^key-e86d0d48446792a096cbbc3a77d3fe5c] Position–<br>(a) Longitudinal: | At or near the rear of the vehicle |
+| **1.**[^c-dd1d300bac5cb9db2823f2ebba6cf4b3] Number: | One |
+| **2.**[^c-e86d0d48446792a096cbbc3a77d3fe5c] Position–<br>(a) Longitudinal: | At or near the rear of the vehicle |
 | (b) Lateral–<br>- (i) Where one rear fog lamp is fitted: | On the centre-line or off side of the vehicle (disregarding any sidecar forming part of a motor bicycle combination) |
 | - (ii) Where two lamps are fitted: | No requirement |
 | (c) Vertical–<br>- (i) Maximum height above the ground–<br>  - (A) Any vehicle not covered by sub-paragraph (B): | 1000 mm |
@@ -46,11 +46,11 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**10.**[^M_I_6a39df5f-24d9-49bc-fd1b-8e016289627d] Electrical connections: | No rear fog lamp shall be fitted to any vehicle so that it can be illuminated by the application of any braking system on the vehicle |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_938b3ec3-b5a4-4642-ab9d-3248a1765469] Tell-tale: | A circuit-closed tell-tale shall be fitted |
 
-**12.**[^key-39932c21c44fa164a3bc8e24bc6549ac] Other requirements–
+**12.**[^c-39932c21c44fa164a3bc8e24bc6549ac] Other requirements–
 
 - Where two rear fog lamps are fitted to a motor vehicle first used on or after 1st April 1986 or to a trailer manufactured on or after 1st October 1985 they shall form a matched pair.
 
-**13.**[^key-7b7daa277f15a73328634322f572c357] Definitions–
+**13.**[^c-7b7daa277f15a73328634322f572c357] Definitions–
 
 - In this Schedule “approval mark” means either–
   - (a) a marking designated as an approval mark by regulation 5 of the Designation of Approval Marks Regulations and shown at item 20 of Schedule 4 to those Regulations; or
@@ -64,9 +64,9 @@ summary: ''
 
 ## Annotations
 
-[^key-dd1d300bac5cb9db2823f2ebba6cf4b3]: Commencement: Sch. 11 Pt. I para. 1 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-dd1d300bac5cb9db2823f2ebba6cf4b3]: Commencement: Sch. 11 Pt. I para. 1 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-e86d0d48446792a096cbbc3a77d3fe5c]: Commencement: Sch. 11 Pt. I para. 2 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-e86d0d48446792a096cbbc3a77d3fe5c]: Commencement: Sch. 11 Pt. I para. 2 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^M_I_aced9a0d-37b4-44ef-e896-8703c7825e46]: Commencement: Sch. 11 Pt. I para. 3 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
@@ -86,9 +86,9 @@ summary: ''
 
 [^M_I_938b3ec3-b5a4-4642-ab9d-3248a1765469]: Commencement: Sch. 11 Pt. I para. 11 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-39932c21c44fa164a3bc8e24bc6549ac]: Commencement: Sch. 11 Pt. I para. 12 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-39932c21c44fa164a3bc8e24bc6549ac]: Commencement: Sch. 11 Pt. I para. 12 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-7b7daa277f15a73328634322f572c357]: Commencement: Sch. 11 Pt. I para. 13 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-7b7daa277f15a73328634322f572c357]: Commencement: Sch. 11 Pt. I para. 13 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^M_I_1f3090d1-510c-461e-a675-ec14f09ad065]: Commencement: Sch. 11 Pt. II para. 1 in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 

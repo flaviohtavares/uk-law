@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3d9c5377e174b404f1792571be03e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3d9c5377e174b404f1792571be03e6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (1) of section 36 of the [^c13527321]Finance (No. 2) Act 1975 (vouchers other than cash vouchers), for the words “Subject to subsection (2) below” there shall be substituted the words “ Subject to the provisions of this section ”.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d9c5377e174b404f1792571be03e6e4]: Textual amendment: [S. 47(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/47/1) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-3d9c5377e174b404f1792571be03e6e4]: Textual amendment: [S. 47(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/47/1) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13527321]: Marginal citation: [1975 c. 45](https://www.legislation.gov.uk/ukpga/1975/45).

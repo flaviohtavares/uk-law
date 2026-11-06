@@ -73,7 +73,7 @@ For the purpose of a sale of land under the Ecclesiastical Leasing Acts to a cou
 
 ### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c581204]
 
-### 11. Duties of county councils with respect to sale or lease of land.[^key-3e0400447e0b9c259e01607fb6899584]
+### 11. Duties of county councils with respect to sale or lease of land.[^c-3e0400447e0b9c259e01607fb6899584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -113,7 +113,7 @@ Notwithstanding any provision in the principal Act, the consent of the Board of 
 
 ### 17. Power of county council to acquire land for letting to parish council for allotments.[^c581223]
 
-A *(Extent: S)* *(affected by repeal, see note)*[^key-8971d116af67c5d3b6dd0d01e058b5bd] district[^c581224] *(Extent: S)* *(affected by repeal, see note)*[^key-8971d116af67c5d3b6dd0d01e058b5bd]council may acquire land for the purpose of leasing it to the council of a parish within the county for the provision of allotments, and the provisions of the principal Act relating to the acquisition, and to proceedings in relation to the acquisition, of land for the purpose of providing small holdings shall apply to such acquisition as if the land were to be acquired for the provision of small holdings. *(Extent: S)* *(affected by repeal, see note)*[^key-8971d116af67c5d3b6dd0d01e058b5bd]
+A *(Extent: S)* *(affected by repeal, see note)*[^c-8971d116af67c5d3b6dd0d01e058b5bd] district[^c581224] *(Extent: S)* *(affected by repeal, see note)*[^c-8971d116af67c5d3b6dd0d01e058b5bd]council may acquire land for the purpose of leasing it to the council of a parish within the county for the provision of allotments, and the provisions of the principal Act relating to the acquisition, and to proceedings in relation to the acquisition, of land for the purpose of providing small holdings shall apply to such acquisition as if the land were to be acquired for the provision of small holdings. *(Extent: S)* *(affected by repeal, see note)*[^c-8971d116af67c5d3b6dd0d01e058b5bd]
 
 ### 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c581225]
 
@@ -125,9 +125,9 @@ A council, with a view to ascertaining whether any land is suitable for any purp
 
 ### 21. Provisions as to allotments.[^c581230]
 
-(1) The council of any borough, urban district or parish may purchase any fruit trees, seeds, plants, fertilizers or implements required for the purposes of allotments cultivated as gardens, whether provided by the council or otherwise, and sell any article so purchased to the cultivators, or, in the case of implements, allow their use, at a price or charge sufficient to cover the cost of purchase. *(Extent: S)* *(affected by repeal, see note)*[^key-25f1ecc46057a2e426d46b8529a99950]
+(1) The council of any borough, urban district or parish may purchase any fruit trees, seeds, plants, fertilizers or implements required for the purposes of allotments cultivated as gardens, whether provided by the council or otherwise, and sell any article so purchased to the cultivators, or, in the case of implements, allow their use, at a price or charge sufficient to cover the cost of purchase. *(Extent: S)* *(affected by repeal, see note)*[^c-25f1ecc46057a2e426d46b8529a99950]
 
-(2) The powers conferred by the preceding subsection shall be exercisable by a council only where in the opinion of the council the facilities for the purchase or hire of the articles therein referred to from a society on a co-operative basis are inadequate. *(Extent: S)* *(affected by repeal, see note)*[^key-25f1ecc46057a2e426d46b8529a99950]
+(2) The powers conferred by the preceding subsection shall be exercisable by a council only where in the opinion of the council the facilities for the purchase or hire of the articles therein referred to from a society on a co-operative basis are inadequate. *(Extent: S)* *(affected by repeal, see note)*[^c-25f1ecc46057a2e426d46b8529a99950]
 
 (3) Rules made by a council under section twenty-eight of the principal Act, shall, unless otherwise expressly provided, apply to an allotment, though held under a tenancy made before the rules come into operation.
 
@@ -137,12 +137,12 @@ A council, with a view to ascertaining whether any land is suitable for any purp
 
 ### 22. Power of appropriation of land.
 
-(1 (Extent: S) (affected by repeal, see note))[^key-d246ea3dd1c98dc573c887733db83c6c] A council of a borough, urban district, or parish may, in a case where no power of appropriation is otherwise provided, . . . *(Extent: S)* *(affected by repeal, see note)*[^key-d246ea3dd1c98dc573c887733db83c6c] [^c581233],— *(Extent: S)* *(affected by repeal, see note)*[^key-d246ea3dd1c98dc573c887733db83c6c]
+(1 (Extent: S) (affected by repeal, see note))[^c-d246ea3dd1c98dc573c887733db83c6c] A council of a borough, urban district, or parish may, in a case where no power of appropriation is otherwise provided, . . . *(Extent: S)* *(affected by repeal, see note)*[^c-d246ea3dd1c98dc573c887733db83c6c] [^c581233],— *(Extent: S)* *(affected by repeal, see note)*[^c-d246ea3dd1c98dc573c887733db83c6c]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-d246ea3dd1c98dc573c887733db83c6c] appropriate for the purpose of allotments any land held by the council for other purposes of the council; or *(Extent: S)* *(affected by repeal, see note)*[^key-d246ea3dd1c98dc573c887733db83c6c]
-- (b (Extent: S) (affected by repeal, see note))[^key-d246ea3dd1c98dc573c887733db83c6c] appropriate for other purposes of the council land acquired by the council for allotments. *(Extent: S)* *(affected by repeal, see note)*[^key-d246ea3dd1c98dc573c887733db83c6c]
+- (a (Extent: S) (affected by repeal, see note))[^c-d246ea3dd1c98dc573c887733db83c6c] appropriate for the purpose of allotments any land held by the council for other purposes of the council; or *(Extent: S)* *(affected by repeal, see note)*[^c-d246ea3dd1c98dc573c887733db83c6c]
+- (b (Extent: S) (affected by repeal, see note))[^c-d246ea3dd1c98dc573c887733db83c6c] appropriate for other purposes of the council land acquired by the council for allotments. *(Extent: S)* *(affected by repeal, see note)*[^c-d246ea3dd1c98dc573c887733db83c6c]
 
-(2 (Extent: S) (affected by repeal, see note))[^c581234][^key-d246ea3dd1c98dc573c887733db83c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-d246ea3dd1c98dc573c887733db83c6c]
+(2 (Extent: S) (affected by repeal, see note))[^c581234][^c-d246ea3dd1c98dc573c887733db83c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^c-d246ea3dd1c98dc573c887733db83c6c]
 
 ### 23. Agreement as to compensation where land is let for provision of allotments.
 
@@ -226,22 +226,22 @@ Section 25.
 
 | .Provision of thr Principal Act to be amended. | Amendment. |
 | --- | --- |
-| [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
-| [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
-|  | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
-| [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
-|  | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+| [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+| [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+|  | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+| [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+|  | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
 | Section 27. | At the end of subsection (4) there shall be inserted the words “exceptwith the consent of the council.” |
 |  | In subsection (6) after the words “system or” there shall be insertedthe words “of letting or selling.” |
-| [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+| [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
 | Section 42. | In subsection (1) for the words “attaching to small holdings orallotments provided by the council” there shall be substituted thewords “letting to tenants of small holdings and allotments,” and insubsection (2) for the words “attached to the” there shall besubstituted the words “let to tenants of.” |
 | Section 43. | For the word “may” there shall be substituted the word “shall.” |
 | Section 46. | In subsection (1) after the word “do” there shall be inserted the words “or such notice ass may be required by the order for the compulsoryhiring of the land.” |
 | Section 47. | In subsection (2) for the words “subject in the case of land hired byagreement to any agreement in the contrary” there shall be substitutedthe words “subject to any provision to the contrary in the agreement ororder for hiring.” |
 | Section 49. | In subsection (1) and subsection (2) after the word “county” in bothplaces where it occurs there shall be inserted the words “or borough orurban district.” |
-|  | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+|  | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
 | Secton 53. | In subsectioon (4) after the words “adapting land for allotments” thereshall be inserted the words “and the council of a borough or urbandistrict may borrow for the purpose of grants or advances to aco-operative society.” |
-| [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^key-fa85979f31cf495b0e0f6c03f24f7bcc]... |
+| [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... | [^c-fa85979f31cf495b0e0f6c03f24f7bcc]... |
 | Schedule I., Part II. | In paragraph (2)*b* after the word “holdings” there shall be added thewords “or allotments as the case may be.” |
 |  | In paragraph (6) after the word “expenses” there shall be added thewords “as the council shall consider or.” |
 
@@ -299,7 +299,7 @@ Section 25.
 
 [^c581204]: Textual amendment: [Ss. 10](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/section/10),11(2)(5)-(7) repealed by [Small Holdings and Allotments Act 1926 (c. 52)](https://www.legislation.gov.uk/ukpga/1926/52), [Sch. 2](https://www.legislation.gov.uk/ukpga/1926/52/schedule/2)
 
-[^key-3e0400447e0b9c259e01607fb6899584]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
+[^c-3e0400447e0b9c259e01607fb6899584]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
 
 [^c581210]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/section/12) amended by [Small Holdings and Allotments Act 1926 (c. 52)](https://www.legislation.gov.uk/ukpga/1926/52), [s. 20(1)](https://www.legislation.gov.uk/ukpga/1926/52/section/20/1)
 
@@ -325,7 +325,7 @@ Section 25.
 
 [^c581223]: Modification: S. 17 saved by [Agriculture Act 1947 (c. 48)](https://www.legislation.gov.uk/ukpga/1947/48), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1947/48/section/67/2) proviso (b)
 
-[^key-8971d116af67c5d3b6dd0d01e058b5bd]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/section/17) repealed (S.) (16.3.2018) by [The Community Empowerment (Scotland) Act 2015 (Supplementary and Consequential Provisions) Order 2018 (S.S.I. 2018/97)](https://www.legislation.gov.uk/ssi/2018/97), [arts. 1](https://www.legislation.gov.uk/ssi/2018/97/article/1), [3](https://www.legislation.gov.uk/ssi/2018/97/article/3)
+[^c-8971d116af67c5d3b6dd0d01e058b5bd]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/section/17) repealed (S.) (16.3.2018) by [The Community Empowerment (Scotland) Act 2015 (Supplementary and Consequential Provisions) Order 2018 (S.S.I. 2018/97)](https://www.legislation.gov.uk/ssi/2018/97), [arts. 1](https://www.legislation.gov.uk/ssi/2018/97/article/1), [3](https://www.legislation.gov.uk/ssi/2018/97/article/3)
 
 [^c581224]: Textual amendment: Word substituted by [Local Government Act 1972 (c.70, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 251(2)](https://www.legislation.gov.uk/ukpga/1972/70/section/251/2), [Sch. 29 para. 10(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/10/2)
 
@@ -337,13 +337,13 @@ Section 25.
 
 [^c581230]: Modification: S. 21 excluded by [Agricultural Land (Utilisation) Act 1931 (c. 41)](https://www.legislation.gov.uk/ukpga/1931/41), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/1931/41/section/16/1), [20](https://www.legislation.gov.uk/ukpga/1931/41/section/20)
 
-[^key-25f1ecc46057a2e426d46b8529a99950]: Textual amendment: S. 21(1)(2) repealed (S.) (16.3.2018) by [The Community Empowerment (Scotland) Act 2015 (Supplementary and Consequential Provisions) Order 2018 (S.S.I. 2018/97)](https://www.legislation.gov.uk/ssi/2018/97), [arts. 1](https://www.legislation.gov.uk/ssi/2018/97/article/1), [3](https://www.legislation.gov.uk/ssi/2018/97/article/3)
+[^c-25f1ecc46057a2e426d46b8529a99950]: Textual amendment: S. 21(1)(2) repealed (S.) (16.3.2018) by [The Community Empowerment (Scotland) Act 2015 (Supplementary and Consequential Provisions) Order 2018 (S.S.I. 2018/97)](https://www.legislation.gov.uk/ssi/2018/97), [arts. 1](https://www.legislation.gov.uk/ssi/2018/97/article/1), [3](https://www.legislation.gov.uk/ssi/2018/97/article/3)
 
 [^c581231]: Textual amendment: S. 21(4) repealed by [Allotments Act 1922 (c. 51)](https://www.legislation.gov.uk/ukpga/1922/51), [s. 19(2)](https://www.legislation.gov.uk/ukpga/1922/51/section/19/2)
 
 [^c581232]: Textual amendment: S. 21(5) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.III](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/III)
 
-[^key-d246ea3dd1c98dc573c887733db83c6c]: Textual amendment: S. 22 repealed (S.) (16.3.2018) by [The Community Empowerment (Scotland) Act 2015 (Supplementary and Consequential Provisions) Order 2018 (S.S.I. 2018/97)](https://www.legislation.gov.uk/ssi/2018/97), [arts. 1](https://www.legislation.gov.uk/ssi/2018/97/article/1), [3](https://www.legislation.gov.uk/ssi/2018/97/article/3)
+[^c-d246ea3dd1c98dc573c887733db83c6c]: Textual amendment: S. 22 repealed (S.) (16.3.2018) by [The Community Empowerment (Scotland) Act 2015 (Supplementary and Consequential Provisions) Order 2018 (S.S.I. 2018/97)](https://www.legislation.gov.uk/ssi/2018/97), [arts. 1](https://www.legislation.gov.uk/ssi/2018/97/article/1), [3](https://www.legislation.gov.uk/ssi/2018/97/article/3)
 
 [^c581233]: Textual amendment: Words in s. 22(1) repealed by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1980/65), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/5), [194](https://www.legislation.gov.uk/ukpga/1980/65/section/194), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/1980/65/schedule/5/paragraph/3), [Sch. 34 Pt. V](https://www.legislation.gov.uk/ukpga/1980/65/schedule/34/part/V)
 
@@ -391,6 +391,6 @@ Section 25.
 
 [^c581260]: Modification: The text of Sch.2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-fa85979f31cf495b0e0f6c03f24f7bcc]: Textual amendment: Sch. 2: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
+[^c-fa85979f31cf495b0e0f6c03f24f7bcc]: Textual amendment: Sch. 2: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
 
 [^c581261]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/Geo5/9-10/59/schedule/3) repealed by [Statute Law Revision Act 1947 (c. 42)](https://www.legislation.gov.uk/ukpga/1947/42)

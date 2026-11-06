@@ -24,7 +24,7 @@ summary: ''
 
 - Surveillance report reference
 - Date and time of sighting or detection (UTC)
-- Originating country[^key-b88c1aa04bc8b1a46117e4badc991907] and name of single authority
+- Originating country[^c-b88c1aa04bc8b1a46117e4badc991907] and name of single authority
 - Type and identification of the surveillance craft
 - Position and location of the surveillance craft at the time of sighting or detection
 
@@ -35,7 +35,7 @@ summary: ''
 - Registration port and external registration number
 - International radio call sign
 - International Maritime Organisation number
-- United Kingdom Fleet Register number or[^key-8315a9b51ecd06f4b9dac634013ad71b] Community Fleet Register number
+- United Kingdom Fleet Register number or[^c-8315a9b51ecd06f4b9dac634013ad71b] Community Fleet Register number
 - Description
 - Type
 - Initial position and location at the time of sighting or detection
@@ -77,6 +77,6 @@ For the electronic exchange of surveillance reports, the XML Schema Definition i
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
 
-[^key-b88c1aa04bc8b1a46117e4badc991907]: Textual amendment: Word in [Annex 23 point 3](https://www.legislation.gov.uk/eur/2011/404/annex/XXIII) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(115)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/115/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b88c1aa04bc8b1a46117e4badc991907]: Textual amendment: Word in [Annex 23 point 3](https://www.legislation.gov.uk/eur/2011/404/annex/XXIII) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(115)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/115/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8315a9b51ecd06f4b9dac634013ad71b]: Textual amendment: Words in [Annex 23 point 11](https://www.legislation.gov.uk/eur/2011/404/annex/XXIII) inserted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(115)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/115/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8315a9b51ecd06f4b9dac634013ad71b]: Textual amendment: Words in [Annex 23 point 11](https://www.legislation.gov.uk/eur/2011/404/annex/XXIII) inserted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(115)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/115/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

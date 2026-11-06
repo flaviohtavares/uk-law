@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Private rights over land[^key-df7969efc33a4908ed3dee1583ff9eb7]
+## 25. Private rights over land[^c-df7969efc33a4908ed3dee1583ff9eb7]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-df7969efc33a4908ed3dee1583ff9eb7]: Commencement: Art. 25 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-df7969efc33a4908ed3dee1583ff9eb7]: Commencement: Art. 25 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Period of eligibility[^key-1a1df29a9cd427a7f69eaab5b620919e]
+## 113. Period of eligibility[^c-1a1df29a9cd427a7f69eaab5b620919e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a1df29a9cd427a7f69eaab5b620919e]: Commencement: Reg. 113 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-1a1df29a9cd427a7f69eaab5b620919e]: Commencement: Reg. 113 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

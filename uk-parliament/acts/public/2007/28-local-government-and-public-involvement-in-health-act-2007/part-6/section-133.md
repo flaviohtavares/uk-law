@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Community support officers etc[^key-9b6efe6131ab8ac7474d16b3b43ab923]
+## 133. Community support officers etc[^c-9b6efe6131ab8ac7474d16b3b43ab923]
 
 *Extent: E+W*
 
 (1) The Police Reform Act 2002 (c. 30) is amended as follows.
 
-(2)[^key-60670d680c032d5d751e309d0732994c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-60670d680c032d5d751e309d0732994c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 5 (accredited persons)—
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b6efe6131ab8ac7474d16b3b43ab923]: Commencement: S. 133 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/112/article/2/e)
+[^c-9b6efe6131ab8ac7474d16b3b43ab923]: Commencement: S. 133 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/112/article/2/e)
 
-[^key-60670d680c032d5d751e309d0732994c]: Textual amendment: S. 133(2) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 22(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/22/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-60670d680c032d5d751e309d0732994c]: Textual amendment: S. 133(2) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 22(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/22/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)

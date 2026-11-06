@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Bunkering or ship supply services[^key-d90371b902e52edf47d7c87d9277ac33]
+## 37. Bunkering or ship supply services[^c-d90371b902e52edf47d7c87d9277ac33]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d90371b902e52edf47d7c87d9277ac33]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-d90371b902e52edf47d7c87d9277ac33]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

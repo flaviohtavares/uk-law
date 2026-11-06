@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Effect of sentencing guidelines[^key-e1ab7d646aeaa9c566e3c24200057353]
+## 6. Effect of sentencing guidelines[^c-e1ab7d646aeaa9c566e3c24200057353]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The sentencing guidelines to which the court must have regard under subsection (1) are those applicable to the case at the time the court is sentencing the offender or, as the case may be, carrying out the function.
 
-(4)[^key-186a858f93bb9358090f2e7939affae6] Subsection (5) applies where, on an appeal in any case—
+(4)[^c-186a858f93bb9358090f2e7939affae6] Subsection (5) applies where, on an appeal in any case—
 
 - (a) the High Court of Justiciary passes another sentence under one of the following provisions of the 1995 Act—
   - (i) section 118(3),
@@ -38,7 +38,7 @@ summary: ''
   - (iv) section 118(4A)(c)(ii), or
 - (b) the Sheriff Appeal Court or the High Court passes another sentence under section 189(1)(b) of that Act.
 
-(5) The sentencing guidelines which the High Court or, as the case may be, the Sheriff Appeal Court[^key-69aa881b1a958e4741d4a4b4cff6e8fc] must have regard to under subsection (1) in passing that other sentence are those applicable to the case at the time it is passed.
+(5) The sentencing guidelines which the High Court or, as the case may be, the Sheriff Appeal Court[^c-69aa881b1a958e4741d4a4b4cff6e8fc] must have regard to under subsection (1) in passing that other sentence are those applicable to the case at the time it is passed.
 
 (6) A revision of the sentencing guidelines after an offender is sentenced in respect of an offence is not a ground for the referral of the case to the High Court of Justiciary under section 194B of the 1995 Act (references to the High Court of cases dealt with on indictment).
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ab7d646aeaa9c566e3c24200057353]: Commencement: S. 6 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-e1ab7d646aeaa9c566e3c24200057353]: Commencement: S. 6 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
 
-[^key-186a858f93bb9358090f2e7939affae6]: Textual amendment: S. 6(4) substituted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(2)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/2/a); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
+[^c-186a858f93bb9358090f2e7939affae6]: Textual amendment: S. 6(4) substituted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(2)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/2/a); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
 
-[^key-69aa881b1a958e4741d4a4b4cff6e8fc]: Textual amendment: Words in s. 6(5) inserted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(2)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/2/b); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
+[^c-69aa881b1a958e4741d4a4b4cff6e8fc]: Textual amendment: Words in s. 6(5) inserted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(2)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/2/b); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)

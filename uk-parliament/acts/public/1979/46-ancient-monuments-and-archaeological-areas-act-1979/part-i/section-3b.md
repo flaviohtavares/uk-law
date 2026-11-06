@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3B. Referral of certain applications to the Scottish Ministers[^key-fbb27b67cbdc1736e5936ae28a46c03f]
+## 3B. Referral of certain applications to the Scottish Ministers[^c-fbb27b67cbdc1736e5936ae28a46c03f]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ to be referred to them instead of being dealt with by Historic Environment Scotl
 
 ## Annotations
 
-[^key-fbb27b67cbdc1736e5936ae28a46c03f]: Textual amendment: [Ss. 3B](https://www.legislation.gov.uk/ukpga/1979/46/section/3B), [3C](https://www.legislation.gov.uk/ukpga/1979/46/section/3C) inserted (S.) (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 2 para. 35](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/35) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-fbb27b67cbdc1736e5936ae28a46c03f]: Textual amendment: [Ss. 3B](https://www.legislation.gov.uk/ukpga/1979/46/section/3B), [3C](https://www.legislation.gov.uk/ukpga/1979/46/section/3C) inserted (S.) (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 2 para. 35](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/35) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)

@@ -22,7 +22,7 @@ summary: ''
 
 Article (2)
 
-### 1. General requirements for applications[^key-d311f1eecfba6251843758a6caebabbd]
+### 1. General requirements for applications[^c-d311f1eecfba6251843758a6caebabbd]
 
 (1) Applications under article 8, 9, 10 or 11 (absent votes) shall state—
 
@@ -58,20 +58,20 @@ and the application shall be dated and made and sent or delivered in accordance 
 
 (8) An application under article 8, 9, 10 or 11 shall comply with such further requirements of this Schedule as apply to such an application including the requirements as to time set out by paragraph 9.
 
-### 2. Checking of signatures[^key-674b6d46efc66a229451a23344ae0b0a]
+### 2. Checking of signatures[^c-674b6d46efc66a229451a23344ae0b0a]
 
 The ERO may be satisfied that an application under article 8, 9, 10 or 11 meets any requirements that it has been signed by the applicant and states the applicant’s date of birth by referring to any signature and date of birth—
 
 - (a) previously provided by the applicant to the ERO or a returning officer; or
 - (b) previously provided by the applicant to the council by which the ERO was appointed, if held by that council in records which the ERO is authorised to inspect for the purposes of the ERO’s registration duties; and
 
-### 3. Provision of fresh signatures[^key-a7cc39abf9eaeb72814b624627cd7da7]
+### 3. Provision of fresh signatures[^c-a7cc39abf9eaeb72814b624627cd7da7]
 
 (1) A person who remains on the record kept under article 8(4) or article 11(5) may, at any time, provide the ERO with a fresh signature.
 
 (2) Anything required or authorised to be done for the purposes of this Order in relation to a signature required to be provided in pursuance of this Order must be done in relation to a signature provided as mentioned in sub-paragraph (1) instead of in relation to a signature provided on any earlier occasion.
 
-### 4. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under article 8(4) or 11(5) (records of absent voters)[^key-d84aca83d9fa879f2a021d4cf02e4fac]
+### 4. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under article 8(4) or 11(5) (records of absent voters)[^c-d84aca83d9fa879f2a021d4cf02e4fac]
 
 (1) Sub-paragraph (3) applies to an application under—
 
@@ -89,7 +89,7 @@ for the person’s ballot paper to be sent to a different address from the addre
 
 (4) The requirement in sub-paragraph (3) does not apply where an applicant has, or has applied for, an anonymous entry.
 
-### 5. Additional requirements for applications on grounds of disability[^key-563a102d1ebafd6b4f4e50db56d91e10]
+### 5. Additional requirements for applications on grounds of disability[^c-563a102d1ebafd6b4f4e50db56d91e10]
 
 (1) An application under paragraph (1), as read with paragraph (3)(c), of article 8 (application for proxy vote by reason of blindness or other disability) shall specify the disability by reason of which the application is made.
 
@@ -103,7 +103,7 @@ for the person’s ballot paper to be sent to a different address from the addre
 - (f) a registered osteopath as defined by section 41 of the Osteopaths Act 1993[^f00087];
 - (g) a registered chiropractor as defined by section 43 of the Chiropractors Act 1994[^f00088];
 - (h) a Christian Science practitioner;
-- (i) a person registered as a member of a profession to which the Health and Social Work Professions Order 2001[^key-bd56ffef4ff9d82afe72601286ac953f] for the time being extends , other than the profession of social worker;[^key-6813be3b3f7263e307e04d0e16c8500e]
+- (i) a person registered as a member of a profession to which the Health and Social Work Professions Order 2001[^c-bd56ffef4ff9d82afe72601286ac953f] for the time being extends , other than the profession of social worker;[^c-6813be3b3f7263e307e04d0e16c8500e]
 - (j) the person managing a care home service registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^f00090];
 - (k) the warden of premises forming one of a group of premises provided for persons of pensionable age or disabled persons for which there is a resident warden, where the applicant states that the applicant resides in such premises;
 - (l) a manager (or a person on behalf of a manager) within the meaning of section 329 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00091] responsible for the administration of a hospital within the meaning of that section; or
@@ -147,7 +147,7 @@ for the person’s ballot paper to be sent to a different address from the addre
 
 (9) Until section 59(1) of the Public Services Reform (Scotland) Act 2010 (registration of care services) comes fully into force, in sub-paragraph (2)(j) the reference to “Part 5 of the Public Services Reform (Scotland) Act 2010” shall be read as a reference to “Part 1 of the Regulation of Care (Scotland) Act 2001[^f00094].
 
-### 6. Additional requirements for applications for a proxy vote based on occupation, service or employment[^key-e67c12085da4ac3f04b22949c427d851]
+### 6. Additional requirements for applications for a proxy vote based on occupation, service or employment[^c-e67c12085da4ac3f04b22949c427d851]
 
 (1) An application to vote by proxy for a particular or indefinite period under paragraph (2), as read with paragraph (3)(d), of article 8 shall state—
 
@@ -178,7 +178,7 @@ for the person’s ballot paper to be sent to a different address from the addre
 - (b) in the case of a person who attests an application under sub-paragraph (2)(b), either that P is the employer of the employed person or the position P holds in the employment of that employer; or
 - (c) in the case of a person who attests under sub-paragraph (2)(c), the post P holds at the institution.
 
-### 7. Additional requirements for applications for a proxy vote in respect of a particular election[^key-128d765860882d9cb5fc50fc66b9350d]
+### 7. Additional requirements for applications for a proxy vote in respect of a particular election[^c-128d765860882d9cb5fc50fc66b9350d]
 
 (1) An application under article 9(2) to vote by proxy at a particular election shall set out why the applicant’s circumstances on the date of the poll for that election in respect of which it is made will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the applicant’s allotted polling station.
 
@@ -204,14 +204,14 @@ the requirements of paragraph 5 as to the matters to be specified and the attest
 
 (6) This paragraph does not apply where an applicant has an anonymous entry.
 
-### 8. Additional requirements for applications for appointment of a proxy[^key-5d983b299660d0188bfc27e7afc5b435]
+### 8. Additional requirements for applications for appointment of a proxy[^c-5d983b299660d0188bfc27e7afc5b435]
 
 An application for the appointment of a proxy under article 10(6) or (7) shall state the full name and address of the person whom the applicant wishes to appoint as the applicant’s proxy, together with the person’s family relationship, if any, with the applicant, and—
 
 - (a) if it is signed only by the applicant, shall contain a statement by the applicant that the applicant has consulted the person so named and that that person is capable of being and willing to be appointed to vote as the applicant’s proxy; or
 - (b) if it is also signed by the person to be appointed, shall contain a statement by that person that the person is capable of being and willing to be appointed to vote as the applicant’s proxy.
 
-### 9. Closing dates for applications[^key-6429a3e3986fd422e0a175dcd0612f8b]
+### 9. Closing dates for applications[^c-6429a3e3986fd422e0a175dcd0612f8b]
 
 (1) An application—
 
@@ -266,7 +266,7 @@ shall be disregarded for the purposes of a particular election if it is received
 
 shall be disregarded.
 
-### 10. Grant or refusal of applications for a postal or proxy vote[^key-36bc7fa61f94a2666c13fc10041d5ab5]
+### 10. Grant or refusal of applications for a postal or proxy vote[^c-36bc7fa61f94a2666c13fc10041d5ab5]
 
 (1) Where the ERO grants an application under article 8, 9, 10 or 11 the ERO shall, where practicable, notify the applicant of the ERO’s decision.
 
@@ -285,7 +285,7 @@ shall be disregarded.
 
 (7) At an election where the ERO is not the CRO for any constituency or part of a constituency for which the ERO is the ERO, the ERO shall send to that CRO details of any application to vote by post which the ERO has granted as soon as practicable after doing so.
 
-### 11. Notice of appeal[^key-2efeaf02a139d118b8e6696b33b131f9]
+### 11. Notice of appeal[^c-2efeaf02a139d118b8e6696b33b131f9]
 
 (1) A person desiring to appeal under article 4(1) against the decision of an ERO must give notice of the appeal to the ERO within 14 days of the receipt of the notice given under paragraph 10(4), specifying the grounds of the appeal.
 
@@ -299,7 +299,7 @@ and shall also give to the sheriff any other information which the sheriff may r
 
 (3) Where it appears to the ERO that any notices of appeal given to the ERO are based on similar grounds, the ERO shall inform the sheriff so that the sheriff may consolidate the appeals or select a case as a test case.
 
-### 12. Cancellation of proxy appointment[^key-f95f5096451c00bf5f530a72bcdc1f5d]
+### 12. Cancellation of proxy appointment[^c-f95f5096451c00bf5f530a72bcdc1f5d]
 
 (1) Where the appointment of a proxy is cancelled by notice given to the ERO under article 10(9) or ceases to be in force under that provision or is no longer in force under article 10(10)(b), the ERO shall—
 
@@ -308,13 +308,13 @@ and shall also give to the sheriff any other information which the sheriff may r
 
 (2) The ERO shall, where practicable, also notify the elector that the appointment has been cancelled or, as the case may be, notify the elector that the appointment has ceased and the reason for it.
 
-### 13. Inquiries by registration officer about postal and proxy voters[^key-b13246f36f9dacfe642d220061ce1d41]
+### 13. Inquiries by registration officer about postal and proxy voters[^c-b13246f36f9dacfe642d220061ce1d41]
 
 (1) The ERO may, at such times as the ERO thinks fit, make inquiries of a person who is shown in the record kept under article 8(4) by virtue of an application under that article on the grounds set out in article 8(3)(d) or (e).
 
 (2) The ERO may treat the failure by a person of whom inquiries have been made under sub-paragraph (1) to respond to such inquiries within one month of the date on which they were made as sufficient evidence of a material change in circumstances.
 
-### 14. Requirement to provide fresh signatures at five yearly intervals[^key-31d9c422799307bd7e95fe20a40f377b]
+### 14. Requirement to provide fresh signatures at five yearly intervals[^c-31d9c422799307bd7e95fe20a40f377b]
 
 (1) The ERO shall every year by 31st January send every person who remains an absent voter and whose signature held on the personal identifiers record is more than five years old a notice in writing—
 
@@ -349,7 +349,7 @@ and postage shall be prepaid.
 - (a) explaining the effect of such removal; and
 - (b) reminding the absent voter that the absent voter may make a fresh application under article 8, 9, 10 or 11 to vote by post or by proxy (as the case may be).
 
-### 15. Absent voting lists: form[^key-45f7080656e6c007dc05f8ab1b50da63]
+### 15. Absent voting lists: form[^c-45f7080656e6c007dc05f8ab1b50da63]
 
 (1) Subject to the provisions of this paragraph, the records kept under articles 8(4) and 11(5) and the postal voters list, list of proxies and proxy postal voters list[^f00097] shall be in such form as the ERO thinks fit.
 
@@ -361,7 +361,7 @@ and postage shall be prepaid.
 
 (5) In this paragraph, “electoral number” means a person’s number in the register to be used at the election.
 
-### 16. Absent voting lists: supply of copies, etc.[^key-c189b1dfea0f5d2c40778701fb33ec70]
+### 16. Absent voting lists: supply of copies, etc.[^c-c189b1dfea0f5d2c40778701fb33ec70]
 
 (1) Any person entitled to be supplied, in accordance with any of the provisions specified in sub-paragraph (2), with copies of the full register is also a person entitled, subject to this paragraph and paragraph 20, to request that the ERO supply, free of charge, the relevant part (within the meaning of those provisions) of a copy of any of the following information which the ERO keeps—
 
@@ -410,7 +410,7 @@ for use in respect of the purposes for which that person is entitled to obtain s
 
 (10) A processor may not disclose the information covered by sub-paragraph (1) except to the person who supplied it to the processor or any other person, or an employee of such a person, who is entitled to obtain a copy of that information under this paragraph.
 
-### 17. Absent voting lists: inspection[^key-17f108cfae7e7680cc298515884cfcc3]
+### 17. Absent voting lists: inspection[^c-17f108cfae7e7680cc298515884cfcc3]
 
 (1) Any person is entitled to request that the ERO make available for inspection a copy of any of the information specified in paragraph 16(1).
 
@@ -438,7 +438,7 @@ otherwise than by means of handwritten notes.
 
 (6) Any duty on an ERO to supply a copy or make information available for inspection under this paragraph imposes only a duty to provide that information in the form in which the ERO holds it.
 
-### 18. Supply and inspection of absent voting lists: general provisions[^key-f4a007ca36c18c8f6141295c732a6735]
+### 18. Supply and inspection of absent voting lists: general provisions[^c-f4a007ca36c18c8f6141295c732a6735]
 
 (1) For the purposes of paragraphs 16 and 17,—
 
@@ -451,7 +451,7 @@ otherwise than by means of handwritten notes.
 - (a) a person who has an anonymous entry; or
 - (b) the proxy of a person who has an anonymous entry.
 
-### 19. Conditions on the use, supply and inspection of absent voter lists[^key-8023bdde1ca3cdbdfdece6bcc4fae718]
+### 19. Conditions on the use, supply and inspection of absent voter lists[^c-8023bdde1ca3cdbdfdece6bcc4fae718]
 
 (1) This paragraph applies to—
 
@@ -472,7 +472,7 @@ otherwise than in accordance with an enactment, including this Order.
 
 (4) Nothing in sub-paragraph (3) applies to the supply or disclosure by a person to whom this paragraph applies to another such person in connection with that other person’s registration duties or for the purposes of an election or referendum.
 
-**20.**[^key-c4b069045eb25e826c577774ab0dd180] (1) This paragraph applies to any person who has obtained access to the information covered by paragraph 16(1) by any means.
+**20.**[^c-c4b069045eb25e826c577774ab0dd180] (1) This paragraph applies to any person who has obtained access to the information covered by paragraph 16(1) by any means.
 
 (2) No person to whom this paragraph applies may—
 
@@ -487,7 +487,7 @@ other than for a permitted purpose construed in accordance with sub-paragraph (3
 - (a) research purposes within the meaning of that term in section 33 of the Data Protection Act 1998; or
 - (b) electoral purposes.
 
-### 21. Supply and inspection of absent voting lists: offences[^key-4ee00e3a42cd25c696366e7855fb8f71]
+### 21. Supply and inspection of absent voting lists: offences[^c-4ee00e3a42cd25c696366e7855fb8f71]
 
 (1) A person (“P”) is guilty of an offence—
 
@@ -508,7 +508,7 @@ other than for a permitted purpose construed in accordance with sub-paragraph (3
 
 (5) A person guilty of an offence as mentioned in sub-paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 22. The personal identifiers record[^key-c904ee6fb7a26ab94feeca2123dbbfab]
+### 22. The personal identifiers record[^c-c904ee6fb7a26ab94feeca2123dbbfab]
 
 (1) The ERO shall maintain a record (“the personal identifiers record”), apart from the other records and lists which the ERO is required to keep under articles 8, 9 and 11, of the signatures and dates of birth provided by persons whose applications under article 8(1) or (2), article 9(1) or (2) or article 11(4) were granted, until the expiry of twelve months from—
 
@@ -526,9 +526,9 @@ other than for a permitted purpose construed in accordance with sub-paragraph (3
 - (a) any candidate or agent attending proceedings on receipt of postal ballot papers, in accordance with, and for the purposes of, paragraphs 20(4), 21(4) and 22(3) of Schedule 4;
 - (b) any person attending proceedings on receipt of postal ballot papers, who is entitled to do so by virtue of any of sections 6A to 6D of the 2000 Political Parties Act[^f00101] (representatives of the Electoral Commission and accredited observers), but only to the extent required to permit them to observe the proceedings.
 
-### 23. Use of personal identifier information[^key-13167d54c7cb4d227490b5e9bd1162a1]
+### 23. Use of personal identifier information[^c-13167d54c7cb4d227490b5e9bd1162a1]
 
-(1)[^key-cc67fa3c9306f91ebdab95a57a0b84e6] The ERO must either—
+(1)[^c-cc67fa3c9306f91ebdab95a57a0b84e6] The ERO must either—
 
 - (a) provide the CRO for an election with a copy of the information contained in records kept by the ERO in pursuance of articles 8(9), 9(8) and 11(12) in relation to electors at the election; or
 - (b) give the CRO access to such information.
@@ -538,25 +538,25 @@ other than for a permitted purpose construed in accordance with sub-paragraph (3
 - (a) any other ERO if the first ERO thinks that to do so will assist the other ERO in the performance of the other ERO’s duties; or
 - (b) any other person exercising functions in relation to the preparation or conduct of legal proceedings under this Order.
 
-### 24. Marked register for polling stations[^key-c5d518bd92a0329bda1305709e564a66]
+### 24. Marked register for polling stations[^c-c5d518bd92a0329bda1305709e564a66]
 
 To indicate that an elector or the elector’s proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” shall be placed against the entry of that elector in any copy of the register, or part of it, provided for a polling station.
 
 ## Annotations
 
-[^key-d311f1eecfba6251843758a6caebabbd]: Commencement: Sch. 3 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d311f1eecfba6251843758a6caebabbd]: Commencement: Sch. 3 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00081]: Footnote: Section 16(d) was amended by the 2000 Act, sections 8 and 15(2), Schedule 1, paragraphs 1 and 9(c) and Schedule 7, Part 1.
 
 [^f00082]: Footnote: Section 7B was inserted by the 2000 Act, section 6.
 
-[^key-674b6d46efc66a229451a23344ae0b0a]: Commencement: Sch. 3 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-674b6d46efc66a229451a23344ae0b0a]: Commencement: Sch. 3 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-a7cc39abf9eaeb72814b624627cd7da7]: Commencement: Sch. 3 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a7cc39abf9eaeb72814b624627cd7da7]: Commencement: Sch. 3 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-d84aca83d9fa879f2a021d4cf02e4fac]: Commencement: Sch. 3 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d84aca83d9fa879f2a021d4cf02e4fac]: Commencement: Sch. 3 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-563a102d1ebafd6b4f4e50db56d91e10]: Commencement: Sch. 3 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-563a102d1ebafd6b4f4e50db56d91e10]: Commencement: Sch. 3 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00083]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), to which there are amendments not relevant to this Order.
 
@@ -570,9 +570,9 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^f00088]: Footnote: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17). The definition of “registered chiropractor” was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), regulation 226(c).
 
-[^key-bd56ffef4ff9d82afe72601286ac953f]: Textual amendment: Words in [Sch. 3 para. 5(2)(i)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/3/paragraph/5/2/i) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 65(a)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/65/a)
+[^c-bd56ffef4ff9d82afe72601286ac953f]: Textual amendment: Words in [Sch. 3 para. 5(2)(i)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/3/paragraph/5/2/i) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 65(a)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/65/a)
 
-[^key-6813be3b3f7263e307e04d0e16c8500e]: Textual amendment: Words in [Sch. 3 para. 5(2)(i)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/3/paragraph/5/2/i) added (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 65(b)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/65/b)
+[^c-6813be3b3f7263e307e04d0e16c8500e]: Textual amendment: Words in [Sch. 3 para. 5(2)(i)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/3/paragraph/5/2/i) added (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 65(b)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/65/b)
 
 [^f00090]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -584,33 +584,33 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^f00094]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
 
-[^key-e67c12085da4ac3f04b22949c427d851]: Commencement: Sch. 3 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e67c12085da4ac3f04b22949c427d851]: Commencement: Sch. 3 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-128d765860882d9cb5fc50fc66b9350d]: Commencement: Sch. 3 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-128d765860882d9cb5fc50fc66b9350d]: Commencement: Sch. 3 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00095]: Footnote: Paragraph 2(5A) was inserted by the 2006 Act, section 35.
 
-[^key-5d983b299660d0188bfc27e7afc5b435]: Commencement: Sch. 3 para. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5d983b299660d0188bfc27e7afc5b435]: Commencement: Sch. 3 para. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-6429a3e3986fd422e0a175dcd0612f8b]: Commencement: Sch. 3 para. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6429a3e3986fd422e0a175dcd0612f8b]: Commencement: Sch. 3 para. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00096]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-36bc7fa61f94a2666c13fc10041d5ab5]: Commencement: Sch. 3 para. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-36bc7fa61f94a2666c13fc10041d5ab5]: Commencement: Sch. 3 para. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-2efeaf02a139d118b8e6696b33b131f9]: Commencement: Sch. 3 para. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2efeaf02a139d118b8e6696b33b131f9]: Commencement: Sch. 3 para. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-f95f5096451c00bf5f530a72bcdc1f5d]: Commencement: Sch. 3 para. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f95f5096451c00bf5f530a72bcdc1f5d]: Commencement: Sch. 3 para. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-b13246f36f9dacfe642d220061ce1d41]: Commencement: Sch. 3 para. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b13246f36f9dacfe642d220061ce1d41]: Commencement: Sch. 3 para. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-31d9c422799307bd7e95fe20a40f377b]: Commencement: Sch. 3 para. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-31d9c422799307bd7e95fe20a40f377b]: Commencement: Sch. 3 para. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-45f7080656e6c007dc05f8ab1b50da63]: Commencement: Sch. 3 para. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-45f7080656e6c007dc05f8ab1b50da63]: Commencement: Sch. 3 para. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00097]: Footnote: The postal voters list is the special list kept under article 9(5)(a), the list of proxies is kept under 9(5)(b) and the proxy postal voters list is kept under article 11(7). These terms are defined in article 2.
 
-[^key-c189b1dfea0f5d2c40778701fb33ec70]: Commencement: Sch. 3 para. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c189b1dfea0f5d2c40778701fb33ec70]: Commencement: Sch. 3 para. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00098]: Footnote: Regulation 104 was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872).
 
@@ -618,22 +618,22 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^f00100]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-17f108cfae7e7680cc298515884cfcc3]: Commencement: Sch. 3 para. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-17f108cfae7e7680cc298515884cfcc3]: Commencement: Sch. 3 para. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-f4a007ca36c18c8f6141295c732a6735]: Commencement: Sch. 3 para. 18 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f4a007ca36c18c8f6141295c732a6735]: Commencement: Sch. 3 para. 18 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-8023bdde1ca3cdbdfdece6bcc4fae718]: Commencement: Sch. 3 para. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8023bdde1ca3cdbdfdece6bcc4fae718]: Commencement: Sch. 3 para. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-c4b069045eb25e826c577774ab0dd180]: Commencement: Sch. 3 para. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c4b069045eb25e826c577774ab0dd180]: Commencement: Sch. 3 para. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-4ee00e3a42cd25c696366e7855fb8f71]: Commencement: Sch. 3 para. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4ee00e3a42cd25c696366e7855fb8f71]: Commencement: Sch. 3 para. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-c904ee6fb7a26ab94feeca2123dbbfab]: Commencement: Sch. 3 para. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c904ee6fb7a26ab94feeca2123dbbfab]: Commencement: Sch. 3 para. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00101]: Footnote: Sections 6A to 6D were inserted by the 2006 Act, section 29.
 
-[^key-13167d54c7cb4d227490b5e9bd1162a1]: Commencement: Sch. 3 para. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-13167d54c7cb4d227490b5e9bd1162a1]: Commencement: Sch. 3 para. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-cc67fa3c9306f91ebdab95a57a0b84e6]: Modification: [Sch. 3 para. 23(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/3/paragraph/23/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/57)
+[^c-cc67fa3c9306f91ebdab95a57a0b84e6]: Modification: [Sch. 3 para. 23(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/3/paragraph/23/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/57)
 
-[^key-c5d518bd92a0329bda1305709e564a66]: Commencement: Sch. 3 para. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c5d518bd92a0329bda1305709e564a66]: Commencement: Sch. 3 para. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

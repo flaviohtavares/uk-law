@@ -44,13 +44,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-d29c8778926c6ca46a0d90f236faab68]
+## 1. Citation and commencement[^c-d29c8778926c6ca46a0d90f236faab68]
 
 (1) These Regulations may be cited as the Organic Production and Control (Amendment) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on the later of exit day or the day after the day on which they are made.
 
-## 2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products[^key-48043d51a6cde159a05f6791f548be75]
+## 2. Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products[^c-48043d51a6cde159a05f6791f548be75]
 
 (1) Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products is amended as follows.
 
@@ -66,8 +66,8 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 (3) In Article 2—
 
 - (a) in point (l), for the words from “Article” to the end substitute “ Article 2(2)(e) of Regulation (EU) No 1169/2011 ”;
-- (b)[^key-b23b4f53379346acba6beff8d7fefdfb] in point (n), omit “of a Member State”;
-- (c)[^key-93c9122b030534b8c721aedd50189ca5] in point (o), omit “of a Member State”;
+- (b)[^c-b23b4f53379346acba6beff8d7fefdfb] in point (n), omit “of a Member State”;
+- (c)[^c-93c9122b030534b8c721aedd50189ca5] in point (o), omit “of a Member State”;
 - (d) in point (r), for “Article 6(4) of Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13)” substitute “ Article 2(2)(f) of Regulation (EU) No 1169/2011 ”;
 - (e) in point (s), for the words from “Council” to the end of the paragraph substitute “ Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) ”;
 - (f) after point (aa) insert—
@@ -81,7 +81,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   >   - (i) in relation to England, the Secretary of State;
   >   - (ii) in relation to Wales, the Welsh Ministers;
   >   - (iii) in relation to Scotland, the Scottish Ministers;
-  >   - (iv)[^key-025c10c7fae2501ae645b93339b4a643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (iv)[^c-025c10c7fae2501ae645b93339b4a643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   .
 
@@ -105,7 +105,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (8) In Article 16—
 
-- (a)[^key-838286c2d9cfcfe787b45e5f333d8839] in paragraph 1, in the second subparagraph, for the words from “the Member States” to the end substitute “Great Britain”;
+- (a)[^c-838286c2d9cfcfe787b45e5f333d8839] in paragraph 1, in the second subparagraph, for the words from “the Member States” to the end substitute “Great Britain”;
 - (b) in paragraph 4—
   - (i) for “Member States may regulate, within their territory,” substitute “ Nothing in this Regulation prevents the relevant authority from using any power the authority has to regulate ”;
   - (ii) omit the words from “, and in so far” to the end.
@@ -172,7 +172,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (22) In the Annex omit the listed terms other than “*EN*: organic”.
 
-## 3. Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/eur/2008/889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products with regard to organic production, labelling and control[^key-c612cc64109ca2339c1bc3049fa56b91]
+## 3. Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/eur/2008/889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products with regard to organic production, labelling and control[^c-c612cc64109ca2339c1bc3049fa56b91]
 
 (1) Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/eur/2008/889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products with regard to organic production, labelling and control is amended as follows.
 
@@ -180,7 +180,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 - (a) in point (c)—
   - (i) omit “within the community”;
-  - (ii)[^key-f513775d311c62f44ad95cbe3e929be9] for “the Community” substitute “Great Britain”;
+  - (ii)[^c-f513775d311c62f44ad95cbe3e929be9] for “the Community” substitute “Great Britain”;
 - (b) in point (s), for “authorities of the Member State” substitute “ authority ”;
 - (c) after point (u), insert—
 
@@ -188,7 +188,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   >   - (i) in relation to England, the Secretary of State;
   >   - (ii) in relation to Wales, the Welsh Ministers;
   >   - (iii) in relation to Scotland, the Scottish Ministers;
-  >   - (iv)[^key-55b57ef7cb6f83a54a0dbd477d4b561b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (iv)[^c-55b57ef7cb6f83a54a0dbd477d4b561b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   > - (w) ‘third country’ has the same meaning as in Article 2 of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834).
 
   .
@@ -226,13 +226,13 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (12) In Article 24(5), for “Article 11 of Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82)” substitute “ paragraph 2 of Schedule 4 to the Veterinary Medicines Regulations 2013 [^c23678121] ”.
 
-(13)[^key-8ee70648418d4fc56f10dde4ccf0c09f] In Article 25(5), for the words from “the Member State” to the end substitute “Great Britain in accordance with any relevant retained EU law”.
+(13)[^c-8ee70648418d4fc56f10dde4ccf0c09f] In Article 25(5), for the words from “the Member State” to the end substitute “Great Britain in accordance with any relevant retained EU law”.
 
 (14) In Article 25o(1) omit the third subparagraph.
 
 (15) In Article 25t—
 
-- (a) in paragraph 3, for “by Member States” substitute “ in Great Britain[^key-4cb95e2e40eba16bbc2fc4bf8e69c387] ”;
+- (a) in paragraph 3, for “by Member States” substitute “ in Great Britain[^c-4cb95e2e40eba16bbc2fc4bf8e69c387] ”;
 - (b) in paragraph 4, for “Article 11 of Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82)” substitute “ paragraph 2 of Schedule 4 to the Veterinary Medicines Regulations 2013 ”.
 
 (16) In Article 27—
@@ -253,7 +253,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
       > - (i) the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003 [^c23678131];
       > - (ii) the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004 [^c23678141];
       > - (iii) the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Regulations 2004 [^c23678151];
-      > - (iv)[^key-646b365987377c60b2d05bf36a9e134e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      > - (iv)[^c-646b365987377c60b2d05bf36a9e134e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
       ;
     - (bb) for the third indent substitute—
@@ -263,7 +263,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
       > - (i) the Infant Formula and Follow-on Formula (England) Regulations 2007 [^c23678171];
       > - (ii) the Infant Formula and Follow-on Formula (Wales) Regulations 2007 [^c23678181];
       > - (iii) the Infant Formula and Follow-on Formula (Scotland) Regulations 2007 [^c23678191];
-      > - (iv)[^key-fe3a84f56a49c508ab47f59d6f78b79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      > - (iv)[^c-fe3a84f56a49c508ab47f59d6f78b79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
       ;
 - (b) omit paragraph 3;
@@ -277,7 +277,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 - (b) in paragraph 1—
   - (i) in point (a)—
     - (aa) omit “of the Member State”;
-    - (bb)[^key-2dd1affb3d48ef4293d24bf42f02c5af] for “the Community” substitute “Great Britain”;
+    - (bb)[^c-2dd1affb3d48ef4293d24bf42f02c5af] for “the Community” substitute “Great Britain”;
   - (ii) in point (b)—
     - (aa) omit “of the Member State”;
     - (bb) omit “in the Community”;
@@ -328,7 +328,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
     > - (a) in respect of England, the Plant Health (England) Order 2015 [^c23678211];
     > - (b) in respect of Wales, the Plant Health (Wales) Order 2018 [^c23678221];
     > - (c) in respect of Scotland, the Plant Health (Scotland) Order 2005 [^c23678231];
-    > - (d)[^key-939fc1c27ae4ac267bca8e99f4bafb51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    > - (d)[^c-939fc1c27ae4ac267bca8e99f4bafb51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
     ;
 - (c) in paragraph 3, in the first subparagraph omit “in all parts of the Community”;
@@ -349,7 +349,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 - (a) in paragraph 1—
   - (i) for “Each Member State” substitute “ The relevant authority ”;
-  - (ii) for “on its territory” substitute “ in Great Britain[^key-a3c9feb30593ba8adaeb7c808d7b3beb] ”;
+  - (ii) for “on its territory” substitute “ in Great Britain[^c-a3c9feb30593ba8adaeb7c808d7b3beb] ”;
 - (b) in paragraph 2—
   - (i) omit “of the Member State”;
   - (ii) for “the Member State” substitute “ the relevant authority ”;
@@ -362,7 +362,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (29) For Article 51(1)(d) substitute—
 
-> - (d) the country or region in which the variety is tested and approved for the purposes of [^key-2c4018e5e0c7e7e0c234f2fb6363fab1]... the GB variety[^key-422c105215fd8818815bec3c23424447] list as defined in the Seeds (National Lists of Varieties) Regulations 2001 [^c23678251] [^key-617459629de707f516c93cf27a8bd146]....
+> - (d) the country or region in which the variety is tested and approved for the purposes of [^c-2c4018e5e0c7e7e0c234f2fb6363fab1]... the GB variety[^c-422c105215fd8818815bec3c23424447] list as defined in the Seeds (National Lists of Varieties) Regulations 2001 [^c23678251] [^c-617459629de707f516c93cf27a8bd146]....
 
 .
 
@@ -482,7 +482,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (61) Omit Annex 13c.
 
-## 4. Annex 2 of the EEA Agreement[^key-800e748b2c3b2aae2bbb3686fcfe0ad7]
+## 4. Annex 2 of the EEA Agreement[^c-800e748b2c3b2aae2bbb3686fcfe0ad7]
 
 In Annex 2 to the EEA Agreement, in Chapter 12 omit paragraph 54b.
 
@@ -504,23 +504,23 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23678081]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-d29c8778926c6ca46a0d90f236faab68]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d29c8778926c6ca46a0d90f236faab68]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-48043d51a6cde159a05f6791f548be75]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-48043d51a6cde159a05f6791f548be75]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-b23b4f53379346acba6beff8d7fefdfb]: Textual amendment: Reg. 2(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/a/i)
+[^c-b23b4f53379346acba6beff8d7fefdfb]: Textual amendment: Reg. 2(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/a/i)
 
-[^key-93c9122b030534b8c721aedd50189ca5]: Textual amendment: Reg. 2(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/a/ii)
+[^c-93c9122b030534b8c721aedd50189ca5]: Textual amendment: Reg. 2(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/a/ii)
 
-[^key-025c10c7fae2501ae645b93339b4a643]: Textual amendment: Words in reg. 2(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/a/iii)
+[^c-025c10c7fae2501ae645b93339b4a643]: Textual amendment: Words in reg. 2(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/a/iii)
 
-[^key-838286c2d9cfcfe787b45e5f333d8839]: Textual amendment: Reg. 2(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/b)
+[^c-838286c2d9cfcfe787b45e5f333d8839]: Textual amendment: Reg. 2(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/2/b)
 
-[^key-c612cc64109ca2339c1bc3049fa56b91]: Commencement: Reg. 3 at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c612cc64109ca2339c1bc3049fa56b91]: Commencement: Reg. 3 at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-f513775d311c62f44ad95cbe3e929be9]: Textual amendment: Reg. 3(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/a/i)
+[^c-f513775d311c62f44ad95cbe3e929be9]: Textual amendment: Reg. 3(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/a/i)
 
-[^key-55b57ef7cb6f83a54a0dbd477d4b561b]: Textual amendment: Words in reg. 3(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/a/ii)
+[^c-55b57ef7cb6f83a54a0dbd477d4b561b]: Textual amendment: Words in reg. 3(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/a/ii)
 
 [^c23678091]: Marginal citation: OJ L 26, 28.1.2012, p. 1–21
 
@@ -530,9 +530,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23678121]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033) (W. 32), there are amending instruments but none are relevant.
 
-[^key-8ee70648418d4fc56f10dde4ccf0c09f]: Textual amendment: Reg. 3(13) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/b)
+[^c-8ee70648418d4fc56f10dde4ccf0c09f]: Textual amendment: Reg. 3(13) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/b)
 
-[^key-4cb95e2e40eba16bbc2fc4bf8e69c387]: Textual amendment: Words in reg. 3(15)(a) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/c)
+[^c-4cb95e2e40eba16bbc2fc4bf8e69c387]: Textual amendment: Words in reg. 3(15)(a) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/c)
 
 [^c23678131]: Marginal citation: [S.I. 2003/3207](https://www.legislation.gov.uk/uksi/2003/3207), as amended by S.I 2007/2591, 2011/2131, 2016/688,
 
@@ -540,7 +540,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23678151]: Marginal citation: [S.S.I. 2004/8](https://www.legislation.gov.uk/ssi/2004/8), as amended by [S.S.I. 2005/479](https://www.legislation.gov.uk/ssi/2005/479), 2005/616, 2007/424, 2011/2131, 2014/312.
 
-[^key-646b365987377c60b2d05bf36a9e134e]: Textual amendment: Words in reg. 3(16)(a)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/d/i)
+[^c-646b365987377c60b2d05bf36a9e134e]: Textual amendment: Words in reg. 3(16)(a)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/d/i)
 
 [^c23678171]: Marginal citation: [S.I. 2007/3521](https://www.legislation.gov.uk/uksi/2007/3521), as amended by [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626), 2005/2630, 2008/2445, 2011/3012, 2011/1043, 2013/3243, 2014/1855, 2016/688.
 
@@ -548,9 +548,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23678191]: Marginal citation: S.S.I 2007/549, as amended by [S.S.I. 2008/322](https://www.legislation.gov.uk/ssi/2008/322), 2014/12, 2015/100, 2016/190, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-fe3a84f56a49c508ab47f59d6f78b79e]: Textual amendment: Words in reg. 3(16)(a)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/d/ii)
+[^c-fe3a84f56a49c508ab47f59d6f78b79e]: Textual amendment: Words in reg. 3(16)(a)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/d/ii)
 
-[^key-2dd1affb3d48ef4293d24bf42f02c5af]: Textual amendment: Reg. 3(17)(b)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(e)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/e)
+[^c-2dd1affb3d48ef4293d24bf42f02c5af]: Textual amendment: Reg. 3(17)(b)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(e)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/e)
 
 [^c23678211]: Marginal citation: [S.I. 2015/610](https://www.legislation.gov.uk/uksi/2015/610), as amended by [S.I. 2015/1827](https://www.legislation.gov.uk/uksi/2015/1827), 2016/104, 2017/8, 2017/1220, 2018/71, 2018/320, 2018/910, 2018/1051, 2018/1136,
 
@@ -558,16 +558,16 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23678231]: Marginal citation: [S.S.I. 2005/613](https://www.legislation.gov.uk/ssi/2005/613), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.S.I. 2018/112](https://www.legislation.gov.uk/ssi/2018/112); there are other amending instruments but none is relevant.
 
-[^key-939fc1c27ae4ac267bca8e99f4bafb51]: Textual amendment: Words in reg. 3(23)(b)(iii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(f)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/f)
+[^c-939fc1c27ae4ac267bca8e99f4bafb51]: Textual amendment: Words in reg. 3(23)(b)(iii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(f)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/f)
 
-[^key-a3c9feb30593ba8adaeb7c808d7b3beb]: Textual amendment: Words in reg. 3(26)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(g)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/g)
+[^c-a3c9feb30593ba8adaeb7c808d7b3beb]: Textual amendment: Words in reg. 3(26)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(g)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/g)
 
-[^key-2c4018e5e0c7e7e0c234f2fb6363fab1]: Textual amendment: Word in reg. 3(29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h/i)
+[^c-2c4018e5e0c7e7e0c234f2fb6363fab1]: Textual amendment: Word in reg. 3(29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h/i)
 
-[^key-422c105215fd8818815bec3c23424447]: Textual amendment: Words in reg. 3(29) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h/ii)
+[^c-422c105215fd8818815bec3c23424447]: Textual amendment: Words in reg. 3(29) substituted (31.12.2020 immediately before IP completion day) by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h/ii)
 
 [^c23678251]: Marginal citation: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), as amended by [S.I. 2004/2949](https://www.legislation.gov.uk/uksi/2004/2949), 2011/464 and [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942); there are other amending instruments but none is relevant.
 
-[^key-617459629de707f516c93cf27a8bd146]: Textual amendment: Words in reg. 3(29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)(iii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h/iii)
+[^c-617459629de707f516c93cf27a8bd146]: Textual amendment: Words in reg. 3(29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)(iii)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h/iii)
 
-[^key-800e748b2c3b2aae2bbb3686fcfe0ad7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-800e748b2c3b2aae2bbb3686fcfe0ad7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1B — Modification of compensation provisions etc in relation to the creation of new rights[^key-f9c4ca97eb422d54567742f785b600aa]
+## SCHEDULE 1B — Modification of compensation provisions etc in relation to the creation of new rights[^c-f9c4ca97eb422d54567742f785b600aa]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ Section 4C(5)
 
 ### Section 8 of the 1965 Act
 
-**4.**[^key-81e7de5b4dad18b1f4ecfc261c3e7575] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+**4.**[^c-81e7de5b4dad18b1f4ecfc261c3e7575] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -125,6 +125,6 @@ shall be so modified as to secure that, as against persons with interests in the
 
 ## Annotations
 
-[^key-f9c4ca97eb422d54567742f785b600aa]: Textual amendment: Sch. 1B inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/37/schedule/6); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-f9c4ca97eb422d54567742f785b600aa]: Textual amendment: Sch. 1B inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2003/37/schedule/6); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-81e7de5b4dad18b1f4ecfc261c3e7575]: Textual amendment: [Sch. 1B para. 4](https://www.legislation.gov.uk/ukpga/1994/21/schedule/1B/paragraph/4) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-81e7de5b4dad18b1f4ecfc261c3e7575]: Textual amendment: [Sch. 1B para. 4](https://www.legislation.gov.uk/ukpga/1994/21/schedule/1B/paragraph/4) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

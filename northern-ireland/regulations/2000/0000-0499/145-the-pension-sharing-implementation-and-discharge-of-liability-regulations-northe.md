@@ -45,7 +45,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-bee836875ae7c1d8cb030b3b941c1144]
+### 1. Citation, commencement and interpretation[^c-bee836875ae7c1d8cb030b3b941c1144]
 
 (1) These Regulations may be cited as the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000 and shall come into operation on 1st December 2000.
 
@@ -86,11 +86,11 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 ## Part II — Extension, Postponement or Cessation of Implementation Period
 
-### 2. Time period for notification to the Regulatory Authority of failure by the trustees or managers of an occupational pension scheme to discharge their liability in respect of a pension credit[^key-8dbcefba323fd96d7907036257f46a6b]
+### 2. Time period for notification to the Regulatory Authority of failure by the trustees or managers of an occupational pension scheme to discharge their liability in respect of a pension credit[^c-8dbcefba323fd96d7907036257f46a6b]
 
 The period prescribed for the purposes of Article 30(2)(*a*) (period within which notice must be given of non-discharge of pension credit liability) is the period of 21 days beginning with the day immediately following the end of the implementation period.
 
-### 3. Circumstances in which an application for an extension of the implementation period may be made[^key-1c5a3228d107d2c749886a10bf8b3fb5]
+### 3. Circumstances in which an application for an extension of the implementation period may be made[^c-1c5a3228d107d2c749886a10bf8b3fb5]
 
 The circumstances in which an application may be made for the purposes of Article 30(4) (application for extension of period within which pension credit liability is to be discharged) are that the application is made to the Regulatory Authority before the end of the implementation period, and—
 
@@ -104,7 +104,7 @@ The circumstances in which an application may be made for the purposes of Articl
 - (b) the provisions of section 49[^f00014] (supervision: former contracted-out schemes) apply, or
 - (c) the application has been made on one or more of the grounds specified in paragraph (*a*) or (*b*), and the Regulatory Authority’s consideration of the application cannot be completed before the end of the implementation period.
 
-### 4. Postponement or cessation of implementation period when an application is made for leave to appeal out of time[^key-bb94996da674f28a4c31ae2a6c3de959]
+### 4. Postponement or cessation of implementation period when an application is made for leave to appeal out of time[^c-bb94996da674f28a4c31ae2a6c3de959]
 
 (1) The modifications to the operation of Article 31 (implementation period) where the pension credit depends on a pension sharing order and the order is the subject of an application for leave to appeal out of time are—
 
@@ -118,7 +118,7 @@ The circumstances in which an application may be made for the purposes of Articl
 
 (3) Where the person responsible for the pension arrangement has discharged his liability in respect of the pension credit which depends on a pension sharing order and that person subsequently receives notification of an application for leave to appeal out of time in respect of that order, he shall inform the court within 21 days from the date on which he received the notification that liability in respect of that pension credit has been discharged.
 
-### 5. Civil Penalties[^key-61caab4d03a15a414ac65eef0aa5e8f5]
+### 5. Civil Penalties[^c-61caab4d03a15a414ac65eef0aa5e8f5]
 
 For the purpose of Article 30(2)(*b*) or (3) (time for discharge of liability), the maximum amount of the penalty which may be imposed by the Regulatory Authority under Article 10(2)(*b*) of the 1995 Order is—
 
@@ -127,7 +127,7 @@ For the purpose of Article 30(2)(*b*) or (3) (time for discharge of liability), 
 
 ## Part III — Death of Person entitled to a Pension Credit before Liability in Respect of the Pension Credit is Discharged
 
-### 6. Discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit[^key-71420a866d55ef5e1e4efaf795b98599]
+### 6. Discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit[^c-71420a866d55ef5e1e4efaf795b98599]
 
 (1) Where —
 
@@ -145,7 +145,7 @@ the person responsible for the pension arrangement shall discharge his liability
 
 ## Part IV — Discharge of Liability in Respect of a Pension Credit
 
-### 7. Funded pension schemes[^key-6d37562e804d5e66f5c2754eccaa33f9]
+### 7. Funded pension schemes[^c-6d37562e804d5e66f5c2754eccaa33f9]
 
 (1) The circumstances in which the trustees or managers of a scheme, to which paragraph 1 of Schedule 5 applies, may discharge their liability in respect of a pension credit in accordance with sub-paragraph (2)(*b*) of that paragraph are where—
 
@@ -157,7 +157,7 @@ the person responsible for the pension arrangement shall discharge his liability
 - (a) the person entitled to the credit has failed to provide his consent in accordance with paragraph 1(2)(*a*) of Schedule 5, and
 - (b) the trustees or managers of the scheme have not discharged their liability in accordance with paragraph (1).
 
-### 8. Unfunded occupational pension schemes other than public service pension schemes[^key-46e87b9e13334ccf866499fd6aa9601b]
+### 8. Unfunded occupational pension schemes other than public service pension schemes[^c-46e87b9e13334ccf866499fd6aa9601b]
 
 (1) The circumstances in which the trustees or managers of a scheme, to which paragraph 3 of Schedule 5 applies, may discharge their liability in respect of a pension credit in accordance with sub-paragraph (3)(*c*) of that paragraph are those specified in—
 
@@ -174,7 +174,7 @@ the person responsible for the pension arrangement shall discharge his liability
 
 (3) In this regulation “approved scheme” means an occupational pension scheme which is approved for the purposes of Part XIV of the Income and Corporation Taxes Act 1988[^f00015] and an “unapproved scheme” means an occupational pension scheme which is not approved for those purposes.
 
-### 9. Other pension arrangements[^key-cfec17b95bd24728b7e72ee08e8ef83a]
+### 9. Other pension arrangements[^c-cfec17b95bd24728b7e72ee08e8ef83a]
 
 (1) The circumstances in which the person responsible for a pension arrangement, to which paragraph 4 of Schedule 5 applies, may discharge his liability in respect of a pension credit in accordance with sub-paragraph (2)(*c*) of that paragraph are where his liability has not been discharged in accordance with the provisions of paragraph 4(3) or (4) of that Schedule.
 
@@ -184,7 +184,7 @@ the person responsible for the pension arrangement shall discharge his liability
 - (b) paragraph 4(2) of Schedule 5, or
 - (c) paragraph 4(3) of Schedule 5.
 
-### 10. Calculation of the value of appropriate rights[^key-9e657266836e6b52572bda94b5937ae8]
+### 10. Calculation of the value of appropriate rights[^c-9e657266836e6b52572bda94b5937ae8]
 
 (1) Except in a case to which paragraph (4) applies, the value of the rights conferred on a person entitled to a pension credit shall be calculated by adopting methods and making assumptions which the scheme actuary or, in relation to a scheme to which Article 47(1)(*b*) of the 1995 Order (professional advisers) does not apply, by a person referred to in paragraph (2), has certified to the person responsible for the pension arrangement as being consistent with—
 
@@ -201,7 +201,7 @@ the person responsible for the pension arrangement shall discharge his liability
 
 (4) Where the rights conferred on a person entitled to a pension credit are derived from money purchase rights in whole or in part, the value of those rights shall be calculated by the person responsible for the pension arrangement in a manner consistent with the methods adopted and assumptions made when transfers of other pension rights are received by the person responsible for the pension arrangement.
 
-### 11. Qualifying arrangements[^key-beb812958c148aa2fe6b08c5e4156811]
+### 11. Qualifying arrangements[^c-beb812958c148aa2fe6b08c5e4156811]
 
 (1) The requirements referred to in paragraph 6(2)(*b*) of Schedule 5 (requirements applying to annuity contracts or insurance policies for the purpose of sub-paragraph (1) of that paragraph) are that the annuity contract is entered into or the insurance policy is taken out with an insurance company which is—
 
@@ -214,7 +214,7 @@ the person responsible for the pension arrangement shall discharge his liability
 - (a) carries on ordinary long-term insurance business (within the meaning of section 96(1) of the Insurance Companies Act 1982[^f00022]) in the United Kingdom through a branch in respect of which such of the requirements of Part I of Schedule 2F to that Act[^f00023] (recognition in the United Kingdom of EC and EFTA companies: EC companies carrying on business in the United Kingdom) as are applicable have been complied with, or
 - (b) provides ordinary long-term insurance in the United Kingdom and such of the requirements of Part I of Schedule 2F to that Act as are applicable have been complied with in respect of insurance.
 
-### 12. Destination for pension credit — general[^key-bb867d0b12724a07228f2f5d76e43db0]
+### 12. Destination for pension credit — general[^c-bb867d0b12724a07228f2f5d76e43db0]
 
 The requirements referred to in paragraph 7(1)(*b*) of Schedule 5 (requirements to be satisfied to qualify pension arrangements as destinations for pension credits) are that the pension arrangement—
 
@@ -222,7 +222,7 @@ The requirements referred to in paragraph 7(1)(*b*) of Schedule 5 (requirements 
 - (b) is an overseas arrangement within the meaning given in regulation 1(2) of the Transfer and Transfer Payment Regulations (interpretation), or
 - (c) is an overseas scheme within the meaning given in regulation 1(2) of the Transfer and Transfer Payment Regulations[^f00025].
 
-### 13. Destination for pension credit — contracted-out or safeguarded rights[^key-1f09eb7916a4f1774ba3cc8c4581f35e]
+### 13. Destination for pension credit — contracted-out or safeguarded rights[^c-1f09eb7916a4f1774ba3cc8c4581f35e]
 
 (1) The descriptions of pension arrangements referred to in paragraph 7(2)(*a*) of Schedule 5 (pension arrangements which qualify as destinations for pension credits, where the rights by reference to which the amount of the credits are determined are or include contracted-out rights or safeguarded rights) are—
 
@@ -244,11 +244,11 @@ The requirements referred to in paragraph 7(1)(*b*) of Schedule 5 (requirements 
 
 (3) The rights for the purposes of paragraph 7(6) of Schedule 5 (meaning of “contracted-out” rights under or derived from an occupational pension scheme or a personal pension scheme) are those which fall within the categories specified in regulation 2 of the Safeguarded Rights Regulations (definition of contracted-out rights).
 
-### 14. Destination for pension credit — occupational pension schemes[^key-d809e3c5cf9ff52bd482f83b58075dea]
+### 14. Destination for pension credit — occupational pension schemes[^c-d809e3c5cf9ff52bd482f83b58075dea]
 
 The calculation of the value of the rights of the person entitled to the pension credit for the purposes of paragraph 7(3) of Schedule 5 shall be made in accordance with the methods adopted and assumptions made by the scheme which are consistent with the methods adopted and assumptions made by that scheme when transfers of other pension rights are received by the scheme.
 
-### 15. Disqualification as a destination for pension credit — annuity contracts and insurance policies[^key-d5d8b88dd3f4ccfc5413583caea075bb]
+### 15. Disqualification as a destination for pension credit — annuity contracts and insurance policies[^c-d5d8b88dd3f4ccfc5413583caea075bb]
 
 (1) The circumstances referred to in paragraph 7(4) of Schedule 5 (circumstances in which an annuity contract or insurance policy is disqualified as a destination for a pension credit) are where the requirements specified in paragraphs (2) to (7) are not satisfied.
 
@@ -287,7 +287,7 @@ has consented to the assignment or surrender.
 
 - “serious ill health” means ill health which is such as to give rise to a life expectancy of less than one year from the date on which commutation of the benefits secured by the annuity contract or insurance policy is applied for.
 
-### 16. Adjustments to amount of pension credit — occupational pension schemes which are underfunded on the valuation day[^key-e903275c0012b0bdf1a4d8092c65e0b6]
+### 16. Adjustments to amount of pension credit — occupational pension schemes which are underfunded on the valuation day[^c-e903275c0012b0bdf1a4d8092c65e0b6]
 
 (1) The circumstances referred to in paragraph 8(1)(*d*) of Schedule 5 (adjustments to amount of pension credit) are—
 
@@ -307,11 +307,11 @@ where the actuarial valuation is the latest actuarial valuation obtained in acco
 
 (3) If, by virtue of Schedule 5 to the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00031], Article 56 of the 1995 Order (minimum funding requirement) applies to a section of a scheme as if that section were a separate scheme, paragraph (2) of this regulation shall apply as if that section were a separate scheme, and as if the reference therein to a scheme were accordingly a reference to that section.
 
-### 17. Adjustments to amount of the pension credit — payments made without knowledge of the pension debit[^key-4f38c0720ae60dc7d687bad04ea80d32]
+### 17. Adjustments to amount of the pension credit — payments made without knowledge of the pension debit[^c-4f38c0720ae60dc7d687bad04ea80d32]
 
 For the purposes of paragraph 9 of Schedule 5 (adjustments to amount of pension credit), where the cash equivalent of the member’s shareable rights after deduction of the payment referred to in sub-paragraph (*b*) of that paragraph, is less than the amount of the pension debit, the pension credit shall be reduced to that lesser amount.
 
-### 18. Adjustments to amount of the pension credit — increasing amount of the pension credit[^key-a9a952931c005f37ff315f8482c7a7ea]
+### 18. Adjustments to amount of the pension credit — increasing amount of the pension credit[^c-a9a952931c005f37ff315f8482c7a7ea]
 
 (1) For the purposes of paragraph 10 of Schedule 5 (adjustments to amount of pension credit) the trustees or managers of an occupational pension scheme to which paragraph 1(3) or 3(3) of Schedule 5 applies shall increase the amount of the pension credit by—
 
@@ -375,7 +375,7 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No.3) Order (Northern
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-bee836875ae7c1d8cb030b3b941c1144]: Commencement: Reg. 1 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-bee836875ae7c1d8cb030b3b941c1144]: Commencement: Reg. 1 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2000 No. 147](https://www.legislation.gov.uk/nisr/2000/147)
 
@@ -397,33 +397,33 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No.3) Order (Northern
 
 [^f00013]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8dbcefba323fd96d7907036257f46a6b]: Commencement: Reg. 2 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-8dbcefba323fd96d7907036257f46a6b]: Commencement: Reg. 2 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-1c5a3228d107d2c749886a10bf8b3fb5]: Commencement: Reg. 3 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-1c5a3228d107d2c749886a10bf8b3fb5]: Commencement: Reg. 3 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00014]: Footnote: Section 49 applies to occupational pension schemes by virtue of section 48(1). Section 49 was amended by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 61 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.)(Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
-[^key-bb94996da674f28a4c31ae2a6c3de959]: Commencement: Reg. 4 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-bb94996da674f28a4c31ae2a6c3de959]: Commencement: Reg. 4 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-61caab4d03a15a414ac65eef0aa5e8f5]: Commencement: Reg. 5 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-61caab4d03a15a414ac65eef0aa5e8f5]: Commencement: Reg. 5 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-71420a866d55ef5e1e4efaf795b98599]: Commencement: Reg. 6 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-71420a866d55ef5e1e4efaf795b98599]: Commencement: Reg. 6 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-6d37562e804d5e66f5c2754eccaa33f9]: Commencement: Reg. 7 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-6d37562e804d5e66f5c2754eccaa33f9]: Commencement: Reg. 7 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-46e87b9e13334ccf866499fd6aa9601b]: Commencement: Reg. 8 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-46e87b9e13334ccf866499fd6aa9601b]: Commencement: Reg. 8 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00015]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-cfec17b95bd24728b7e72ee08e8ef83a]: Commencement: Reg. 9 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-cfec17b95bd24728b7e72ee08e8ef83a]: Commencement: Reg. 9 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-9e657266836e6b52572bda94b5937ae8]: Commencement: Reg. 10 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-9e657266836e6b52572bda94b5937ae8]: Commencement: Reg. 10 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00016]: Footnote: The publication “Retirement Benefit Schemes — Transfer Values (GN 11)” may be obtained from the Institute of Actuaries, Staple Inn Hall, High Holborn, London WC1V 7QJ, and from the Faculty of Actuaries, Maclaurin House, 18 Dublin Street, Edinburgh EH1 3PP. The publication is also available on the following internet web-site: http://www.actuaries.org.uk
 
 [^f00017]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
-[^key-beb812958c148aa2fe6b08c5e4156811]: Commencement: Reg. 11 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-beb812958c148aa2fe6b08c5e4156811]: Commencement: Reg. 11 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00018]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50), as amended by the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51)
 
@@ -437,13 +437,13 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No.3) Order (Northern
 
 [^f00023]: Footnote: Schedule 2F was inserted by regulation 45 of [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696)
 
-[^key-bb867d0b12724a07228f2f5d76e43db0]: Commencement: Reg. 12 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-bb867d0b12724a07228f2f5d76e43db0]: Commencement: Reg. 12 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00024]: Footnote: Section 431B was inserted by paragraph 2 of Schedule 8 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4)
 
 [^f00025]: Footnote: The definition of “overseas scheme” was amended by paragraph 10(2) of the Schedule to [S.R. 1997 No.160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-1f09eb7916a4f1774ba3cc8c4581f35e]: Commencement: Reg. 13 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-1f09eb7916a4f1774ba3cc8c4581f35e]: Commencement: Reg. 13 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00026]: Footnote: Section 5(2) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
@@ -451,20 +451,20 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No.3) Order (Northern
 
 [^f00028]: Footnote: Section 3(4) was amended by paragraph 15(*b*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-d809e3c5cf9ff52bd482f83b58075dea]: Commencement: Reg. 14 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-d809e3c5cf9ff52bd482f83b58075dea]: Commencement: Reg. 14 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-d5d8b88dd3f4ccfc5413583caea075bb]: Commencement: Reg. 15 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-d5d8b88dd3f4ccfc5413583caea075bb]: Commencement: Reg. 15 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146)
 
-[^key-e903275c0012b0bdf1a4d8092c65e0b6]: Commencement: Reg. 16 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-e903275c0012b0bdf1a4d8092c65e0b6]: Commencement: Reg. 16 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00030]: Footnote: Article 73 was modified by regulation 3 of [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621) (as amended by regulation 9 of [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)) and amended by Article 35(1) of, and paragraph 44 of Schedule 9 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999. *See also* Article 11 of [S.R. 1997 No. 192 (C. 10)](https://www.legislation.gov.uk/nisr/1997/192)
 
 [^f00031]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570); Schedule 5 was amended by paragraph 7 of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and regulation 3(5) of [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
 
-[^key-4f38c0720ae60dc7d687bad04ea80d32]: Commencement: Reg. 17 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-4f38c0720ae60dc7d687bad04ea80d32]: Commencement: Reg. 17 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
-[^key-a9a952931c005f37ff315f8482c7a7ea]: Commencement: Reg. 18 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
+[^c-a9a952931c005f37ff315f8482c7a7ea]: Commencement: Reg. 18 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/145/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346); the rate of interest was substituted by [S.R. 1993 No. 143](https://www.legislation.gov.uk/nisr/1993/143)

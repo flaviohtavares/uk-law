@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service Trusts (Trust Funds: Appointment of Trustees) (Revocation) and the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) (Amendment) Order 2017 (revoked)[^key-f35c27b87396cafe8eadbe4e40ef3f41]
+The National Health Service Trusts (Trust Funds: Appointment of Trustees) (Revocation) and the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) (Amendment) Order 2017 (revoked)[^c-f35c27b87396cafe8eadbe4e40ef3f41]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into force
 
 1st April 2017
 
-[^key-f35c27b87396cafe8eadbe4e40ef3f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f35c27b87396cafe8eadbe4e40ef3f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f35c27b87396cafe8eadbe4e40ef3f41]
+## 1. Citation and commencement[^c-f35c27b87396cafe8eadbe4e40ef3f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-f35c27b87396cafe8eadbe4e40ef3f41]
+## 2. Revocations[^c-f35c27b87396cafe8eadbe4e40ef3f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Substitution of Schedule 1 to the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^key-f35c27b87396cafe8eadbe4e40ef3f41]
+## 3. Substitution of Schedule 1 to the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^c-f35c27b87396cafe8eadbe4e40ef3f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f35c27b87396cafe8eadbe4e40ef3f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f35c27b87396cafe8eadbe4e40ef3f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATION OF INSTRUMENTS RELATING TO THE APPOINTMENT OF TRUSTEES FOR NATIONAL HEALTH SERVICE TRUSTS BY THE SECRETARY OF STATE[^key-f35c27b87396cafe8eadbe4e40ef3f41]
+## SCHEDULE — REVOCATION OF INSTRUMENTS RELATING TO THE APPOINTMENT OF TRUSTEES FOR NATIONAL HEALTH SERVICE TRUSTS BY THE SECRETARY OF STATE[^c-f35c27b87396cafe8eadbe4e40ef3f41]
 
 Article 2
 
@@ -69,8 +69,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-f35c27b87396cafe8eadbe4e40ef3f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f35c27b87396cafe8eadbe4e40ef3f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f35c27b87396cafe8eadbe4e40ef3f41]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/424) revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [art. 1](https://www.legislation.gov.uk/uksi/2018/1002/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)
+[^c-f35c27b87396cafe8eadbe4e40ef3f41]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/424) revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [art. 1](https://www.legislation.gov.uk/uksi/2018/1002/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)

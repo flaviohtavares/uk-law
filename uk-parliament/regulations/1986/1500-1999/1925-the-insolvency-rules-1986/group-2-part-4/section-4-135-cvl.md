@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.135-CVL. Loss of qualification as insolvency practitioner[^key-c53fabfa76caa10486cf48adef9d6e5e]
+## 4.135-CVL. Loss of qualification as insolvency practitioner[^c-c53fabfa76caa10486cf48adef9d6e5e]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c53fabfa76caa10486cf48adef9d6e5e]: Commencement: [Rule 4.135CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.135CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c53fabfa76caa10486cf48adef9d6e5e]: Commencement: [Rule 4.135CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.135CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00083]: Marginal citation: \[FORM 4.46\] \[FORM 4.45\]

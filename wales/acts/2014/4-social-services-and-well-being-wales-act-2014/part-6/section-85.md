@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Contributions towards maintenance of looked after children[^key-dad3c833ef41aa87e531eed5e736840b]
+## 85. Contributions towards maintenance of looked after children[^c-dad3c833ef41aa87e531eed5e736840b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 makes provision about contributions towards the maintenance of childr
 
 ## Annotations
 
-[^key-dad3c833ef41aa87e531eed5e736840b]: Commencement: S. 85 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-dad3c833ef41aa87e531eed5e736840b]: Commencement: S. 85 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

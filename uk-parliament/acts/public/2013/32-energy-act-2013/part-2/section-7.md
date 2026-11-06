@@ -31,7 +31,7 @@ summary: ''
 
 (4) A designation may be made only with the consent of the person designated.
 
-(5) The Secretary of State may exercise the power to designate so that more than one designation has effect under this section [^key-1b1fad751bfd556dda82a7bb96527c0b]...
+(5) The Secretary of State may exercise the power to designate so that more than one designation has effect under this section [^c-1b1fad751bfd556dda82a7bb96527c0b]...
 
 (6) A designation ceases to have effect if—
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b1fad751bfd556dda82a7bb96527c0b]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/2013/32/section/7/5) omitted (25.12.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/3), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-1b1fad751bfd556dda82a7bb96527c0b]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/2013/32/section/7/5) omitted (25.12.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/3), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))

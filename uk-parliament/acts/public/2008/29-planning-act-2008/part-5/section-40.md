@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Applications by the Crown for orders granting development consent[^key-381f7f696bbb2675ed216fd6b6c9d0f1]
+## 40. Applications by the Crown for orders granting development consent[^c-381f7f696bbb2675ed216fd6b6c9d0f1]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-381f7f696bbb2675ed216fd6b6c9d0f1]: Commencement: S. 40 in force at 1.10.2009 in so far as not already in force by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/b)
+[^c-381f7f696bbb2675ed216fd6b6c9d0f1]: Commencement: S. 40 in force at 1.10.2009 in so far as not already in force by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/b)

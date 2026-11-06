@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Aims of children's services plan[^key-0b788d540966e629c6c3d7e5aab0f83c]
+## 9. Aims of children's services plan[^c-0b788d540966e629c6c3d7e5aab0f83c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b788d540966e629c6c3d7e5aab0f83c]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/8/section/9) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-0b788d540966e629c6c3d7e5aab0f83c]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/8/section/9) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

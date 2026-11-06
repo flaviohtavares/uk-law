@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 400. Service of documents on the Crown[^key-e65f36e82929b2581fd955de08c5e098]
+## 400. Service of documents on the Crown[^c-e65f36e82929b2581fd955de08c5e098]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e65f36e82929b2581fd955de08c5e098]: Commencement: S. 400 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e65f36e82929b2581fd955de08c5e098]: Commencement: S. 400 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

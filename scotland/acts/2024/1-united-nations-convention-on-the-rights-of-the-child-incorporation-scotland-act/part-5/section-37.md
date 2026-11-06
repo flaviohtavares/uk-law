@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Direct references to Supreme Court: compatibility question not arising in proceedings[^key-ceb4e6080fb4cc65f8c434d1df3139e2]
+## 37. Direct references to Supreme Court: compatibility question not arising in proceedings[^c-ceb4e6080fb4cc65f8c434d1df3139e2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ceb4e6080fb4cc65f8c434d1df3139e2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2024/1/section/37) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-ceb4e6080fb4cc65f8c434d1df3139e2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2024/1/section/37) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

@@ -42,9 +42,9 @@ and the landlord shall serve such a notice if the purpose of the advance or furt
 
 the Relevant Authority[^c15064961],
 
-(5A)[^key-01dea99ec01d2e4bfe5c7e38c7746295] In subsection (5) “the Relevant Authority” does not include the Regulator of Social Housing but does include the Homes and Communities Agency.
+(5A)[^c-01dea99ec01d2e4bfe5c7e38c7746295] In subsection (5) “the Relevant Authority” does not include the Regulator of Social Housing but does include the Homes and Communities Agency.
 
-(5B)[^key-7925c86891c87d919f6da198bc5f7811] In subsection (5) “the Relevant Authority” also includes the Greater London Authority.
+(5B)[^c-7925c86891c87d919f6da198bc5f7811] In subsection (5) “the Relevant Authority” also includes the Greater London Authority.
 
 - an authorised deposit taker[^c15064971]
 - an authorised insurer
@@ -91,9 +91,9 @@ but only in relation to deeds executed after the order comes into force.
 
 [^c15064961]: Textual amendment: Words in s. 151B(5) substituted (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/5) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 
-[^key-01dea99ec01d2e4bfe5c7e38c7746295]: Textual amendment: S. 151B(5A) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/866/schedule/1/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-01dea99ec01d2e4bfe5c7e38c7746295]: Textual amendment: S. 151B(5A) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/866/schedule/1/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-7925c86891c87d919f6da198bc5f7811]: Textual amendment: S. 151B(5B) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/14); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-7925c86891c87d919f6da198bc5f7811]: Textual amendment: S. 151B(5B) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/14); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c15064971]: Textual amendment: Words in s. 151B(5) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [299(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/299/3)
 

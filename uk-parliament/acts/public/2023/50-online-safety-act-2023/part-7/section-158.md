@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. OFCOM’s reports about news publisher content and journalistic content[^key-b388d8def8a1c279f312d539045ffb18][^key-2bdb74a6ed7574be4869ac4488325752]
+## 158. OFCOM’s reports about news publisher content and journalistic content[^c-b388d8def8a1c279f312d539045ffb18][^c-2bdb74a6ed7574be4869ac4488325752]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b388d8def8a1c279f312d539045ffb18]: Commencement: S. 158 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b388d8def8a1c279f312d539045ffb18]: Commencement: S. 158 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2bdb74a6ed7574be4869ac4488325752]: Commencement: S. 158 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-2bdb74a6ed7574be4869ac4488325752]: Commencement: S. 158 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

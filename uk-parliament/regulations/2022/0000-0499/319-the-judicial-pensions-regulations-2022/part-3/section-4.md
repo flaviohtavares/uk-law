@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Scheme manager[^key-1115c5ceb55f18d6f9757a37bd0306c8][^key-1115c5ceb55f18d6f9757a37bd0306c8]
+## 4. Scheme manager[^c-1115c5ceb55f18d6f9757a37bd0306c8][^c-1115c5ceb55f18d6f9757a37bd0306c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1115c5ceb55f18d6f9757a37bd0306c8]: Commencement: Reg. 4 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
+[^c-1115c5ceb55f18d6f9757a37bd0306c8]: Commencement: Reg. 4 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)

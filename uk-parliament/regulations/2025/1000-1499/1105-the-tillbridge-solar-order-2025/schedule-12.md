@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### PART 1 — IMPORTANT HEDGEROWS WHICH REQUIRE REMOVAL[^key-b1962b598f6aad3b65121f5f25ac8829]
+### PART 1 — IMPORTANT HEDGEROWS WHICH REQUIRE REMOVAL[^c-b1962b598f6aad3b65121f5f25ac8829]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* | *(3)*<br>*Purpose of removal* |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ Article 39
 | Bassetlaw District Council | Removal of up to 53m, 45m and 29m of the hedgerow H348 within the Order limits as shown approximately within the Hedgerow Removal Plan Sheet 22 of 24 | To facilitate construction of the authorised development |
 | Bassetlaw District Council | Removal of up to 48m of the hedgerow H366 within the Order limits as shown approximately within the Hedgerow Removal Plan Sheet 23 of 24 | To facilitate construction of the authorised development |
 
-### PART 2 — HEDGEROWS WHICH REQUIRE REMOVAL[^key-7b7d45f7e551c4ab6f4c818f778f40ef]
+### PART 2 — HEDGEROWS WHICH REQUIRE REMOVAL[^c-7b7d45f7e551c4ab6f4c818f778f40ef]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* | *(3)*<br>*Purpose of removal* |
 | --- | --- | --- |
@@ -187,6 +187,6 @@ Article 39
 
 ## Annotations
 
-[^key-b1962b598f6aad3b65121f5f25ac8829]: Commencement: Sch. 12 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-b1962b598f6aad3b65121f5f25ac8829]: Commencement: Sch. 12 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-7b7d45f7e551c4ab6f4c818f778f40ef]: Commencement: Sch. 12 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-7b7d45f7e551c4ab6f4c818f778f40ef]: Commencement: Sch. 12 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

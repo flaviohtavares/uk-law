@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. The bill payer where there is no supply of electricity to a green deal property[^key-c141238922db26a3661b501f4f775cc4]
+## 6. The bill payer where there is no supply of electricity to a green deal property[^c-c141238922db26a3661b501f4f775cc4]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ In any period where no electricity is supplied to a green deal property, the bil
 
 ## Annotations
 
-[^key-c141238922db26a3661b501f4f775cc4]: Commencement: Reg. 6 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-c141238922db26a3661b501f4f775cc4]: Commencement: Reg. 6 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
 
 [^f00022]: Footnote: This provision is made pursuant to section 2(10) of the Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Pause orders[^key-e4a73587b3296c25b41855147b94a76d]
+## 33. Pause orders[^c-e4a73587b3296c25b41855147b94a76d]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ Where a pause order containing a direction under section 95(5)(e) of the 2021 Ac
 
 ## Annotations
 
-[^key-e4a73587b3296c25b41855147b94a76d]: Commencement: Reg. 33 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-e4a73587b3296c25b41855147b94a76d]: Commencement: Reg. 33 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00023]: Footnote: Section 95(2) was substituted by paragraph 59(2) of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8) and amended by section 76(4) of the Pension Schemes Act [2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1)

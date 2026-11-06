@@ -44,11 +44,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1 and 8(1) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-68095672dfc67158f5a0c2c99a205dca]
+## 1. Citation and commencement[^c-68095672dfc67158f5a0c2c99a205dca]
 
 This Order may be cited as the Tuberculosis (Scotland) Amendment Order 2009 and comes into force on 28th February 2010.
 
-## 2. Amendments to the Tuberculosis (Scotland) Order 2007[^key-2fde936e72701a24286f142787f10d32]
+## 2. Amendments to the Tuberculosis (Scotland) Order 2007[^c-2fde936e72701a24286f142787f10d32]
 
 (1) The Tuberculosis (Scotland) Order 2007[^f00002] is amended in accordance with the following paragraphs.
 
@@ -116,9 +116,9 @@ A regulatory impact assessment has not been prepared as this instrument has no i
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). The functions of the Secretary of State insofar as within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-68095672dfc67158f5a0c2c99a205dca]: Commencement: Art. 1 in force at 28.2.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2009/445/article/1)
+[^c-68095672dfc67158f5a0c2c99a205dca]: Commencement: Art. 1 in force at 28.2.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2009/445/article/1)
 
-[^key-2fde936e72701a24286f142787f10d32]: Commencement: Art. 2 in force at 28.2.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2009/445/article/1)
+[^c-2fde936e72701a24286f142787f10d32]: Commencement: Art. 2 in force at 28.2.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2009/445/article/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/147](https://www.legislation.gov.uk/ssi/2007/147).
 

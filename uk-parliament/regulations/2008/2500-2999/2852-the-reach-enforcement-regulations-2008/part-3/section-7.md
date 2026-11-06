@@ -22,8 +22,8 @@ summary: ''
 
 (1) A person is exempt from compliance with a listed REACH provision if that person—
 
-- (a) has the benefit of a defence exemption certificate made by the Secretary of State in respect of that provision; [^key-fc699b3841339783fe0e5e2fb3318846] . . .
-- (b)[^key-fc699b3841339783fe0e5e2fb3318846] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) has the benefit of a defence exemption certificate made by the Secretary of State in respect of that provision; [^c-fc699b3841339783fe0e5e2fb3318846] . . .
+- (b)[^c-fc699b3841339783fe0e5e2fb3318846] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 4 (defence exemption certificates) has effect.
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fc699b3841339783fe0e5e2fb3318846]: Textual amendment: Reg. 7(1)(b) and word omitted (E.W.S.) (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/4) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc699b3841339783fe0e5e2fb3318846]: Textual amendment: Reg. 7(1)(b) and word omitted (E.W.S.) (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/4) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_3c8f2d55-2081-7743-eb58-fb25286cbd28]: Textual amendment: Words in reg. 7(1) inserted (N.I.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/c), [15(8)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/15/8/a)
 

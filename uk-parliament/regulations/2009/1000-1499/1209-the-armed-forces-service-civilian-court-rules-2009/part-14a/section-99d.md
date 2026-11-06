@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99D. Direction that variation proceedings be held[^key-ad473a5694dcb2fae3b714b92603f878]
+## 99D. Direction that variation proceedings be held[^c-ad473a5694dcb2fae3b714b92603f878]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad473a5694dcb2fae3b714b92603f878]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/1209/part/14A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1097/rule/5)
+[^c-ad473a5694dcb2fae3b714b92603f878]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/1209/part/14A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1097/rule/5)

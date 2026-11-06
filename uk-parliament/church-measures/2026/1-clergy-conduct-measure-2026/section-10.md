@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 10. Provincial panel: composition[^key-295adf11c4f176bf5188bb306333fb03]
+## 10. Provincial panel: composition[^c-295adf11c4f176bf5188bb306333fb03]
 
 *Extent: E*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-295adf11c4f176bf5188bb306333fb03]: Commencement: S. 10 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-295adf11c4f176bf5188bb306333fb03]: Commencement: S. 10 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

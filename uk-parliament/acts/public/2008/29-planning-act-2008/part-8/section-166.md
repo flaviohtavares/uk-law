@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Rights of entry: Crown land[^key-93b99e016cbcfe1759bbe66de008fe13]
+## 166. Rights of entry: Crown land[^c-93b99e016cbcfe1759bbe66de008fe13]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Sections 163 and 164 do not apply to Crown land.
 
 ## Annotations
 
-[^key-93b99e016cbcfe1759bbe66de008fe13]: Commencement: S. 166 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-93b99e016cbcfe1759bbe66de008fe13]: Commencement: S. 166 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

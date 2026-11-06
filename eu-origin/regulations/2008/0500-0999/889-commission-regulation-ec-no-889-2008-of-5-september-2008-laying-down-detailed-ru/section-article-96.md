@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 96. Repeal[^key-7f6b2f80dc6bc8e7f8fb5ad3a3e56d0d]
+## Article 96. Repeal[^c-7f6b2f80dc6bc8e7f8fb5ad3a3e56d0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f6b2f80dc6bc8e7f8fb5ad3a3e56d0d]: Textual amendment: [Art. 96](https://www.legislation.gov.uk/eur/2008/889/article/96) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(53)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f6b2f80dc6bc8e7f8fb5ad3a3e56d0d]: Textual amendment: [Art. 96](https://www.legislation.gov.uk/eur/2008/889/article/96) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(53)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10.[^key-e2c3e91e427fdad181d2dcc4bda91eec]
+## 10.[^c-e2c3e91e427fdad181d2dcc4bda91eec]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ In section 97E [^c23620641]—
 
 ## Annotations
 
-[^key-e2c3e91e427fdad181d2dcc4bda91eec]: Commencement: Reg. 10 in force at 26.3.2019, see reg. 1(2)
+[^c-e2c3e91e427fdad181d2dcc4bda91eec]: Commencement: Reg. 10 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620641]: Marginal citation: Section 97E was inserted by [S.I. 2008/198](https://www.legislation.gov.uk/uksi/2008/198).

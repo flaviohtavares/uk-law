@@ -41,7 +41,7 @@ An Act to consolidate certain enactments relating to county courts.
 
 *Extent: E+W*
 
-#### The county court[^key-c7442ee439a4f27b82adcf6f1ac1a8cc]
+#### The county court[^c-c7442ee439a4f27b82adcf6f1ac1a8cc]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ An Act to consolidate certain enactments relating to county courts.
 
 - [Section 5 — Judges of the county court](part-i/section-5.md)
 
-#### District judges and deputy district judges[^key-fff9c47fa4059204891874ed44fa2fd6]
+#### District judges and deputy district judges[^c-fff9c47fa4059204891874ed44fa2fd6]
 
 *Extent: E+W*
 
@@ -403,9 +403,9 @@ SCHEDULES
 
 [^c4401521]: Modification: By [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/1), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/23); [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2208/schedule/1) it is provided (14.10.1991) that in relation to any time before the commencement of s. 70 of that 1991 Act (which came into force on 1.10.1992 by [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)) references to youth courts in any enactment amended by that 1991 Act shall be construed as references to juvenile courts
 
-[^key-c7442ee439a4f27b82adcf6f1ac1a8cc]: Textual amendment: S. A1 and cross-heading inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c7442ee439a4f27b82adcf6f1ac1a8cc]: Textual amendment: S. A1 and cross-heading inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-fff9c47fa4059204891874ed44fa2fd6]: Textual amendment: S. 6 cross-heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/5/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-fff9c47fa4059204891874ed44fa2fd6]: Textual amendment: S. 6 cross-heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/5/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c4406101]: Textual amendment: S. 74A and crossheading inserted (27.4.1997) by [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12), [s. 5(2)](https://www.legislation.gov.uk/ukpga/1997/12/section/5/2); [S.I. 1997/841](https://www.legislation.gov.uk/uksi/1997/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/1997/841/article/3/a)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Chief Auditor for St Helena[^key-c45bc0a3bf5929a3b4f29ecae2f50058]
+## 10. Chief Auditor for St Helena[^c-c45bc0a3bf5929a3b4f29ecae2f50058]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The terms and conditions of employment (including the remuneration) applicable t
 
 ## Annotations
 
-[^key-c45bc0a3bf5929a3b4f29ecae2f50058]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/1751/article/10) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-c45bc0a3bf5929a3b4f29ecae2f50058]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/1751/article/10) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

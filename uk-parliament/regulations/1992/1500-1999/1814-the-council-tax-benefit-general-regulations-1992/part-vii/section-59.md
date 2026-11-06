@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Date on which change of circumstances is to take effect[^key-a4ae0120de5032609a402a8cf00c7bc1]
+## 59. Date on which change of circumstances is to take effect[^c-a4ae0120de5032609a402a8cf00c7bc1]
 
 *Extent: E+W+S*
 
@@ -32,10 +32,10 @@ summary: ''
 
 (6) Where the change of circumstances is the death of a claimant’s partner or their separation, it shall have effect on the day the death or separation occurs.
 
-(7) If two or more changes of circumstances occurring in the same benefit week would, but for this paragraph, take effect in different benefit weeks in accordance with paragraphs (1) to (6) they shall take effect from the day to which the appropriate paragraph from (2) to (6)[^key-8f79d96deb3260b2eaa4793887f77af9] above refers, or, where more than one day is concerned, from the earlier day.
+(7) If two or more changes of circumstances occurring in the same benefit week would, but for this paragraph, take effect in different benefit weeks in accordance with paragraphs (1) to (6) they shall take effect from the day to which the appropriate paragraph from (2) to (6)[^c-8f79d96deb3260b2eaa4793887f77af9] above refers, or, where more than one day is concerned, from the earlier day.
 
 ## Annotations
 
-[^key-a4ae0120de5032609a402a8cf00c7bc1]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1992/1814/regulation/59) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-a4ae0120de5032609a402a8cf00c7bc1]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1992/1814/regulation/59) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-8f79d96deb3260b2eaa4793887f77af9]: Textual amendment: Words in [reg. 59(7)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/59/7) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1993/688/regulation/16)
+[^c-8f79d96deb3260b2eaa4793887f77af9]: Textual amendment: Words in [reg. 59(7)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/59/7) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1993/688/regulation/16)

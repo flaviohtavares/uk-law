@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Permanent stopping up of streets[^key-508a33330fa4aaf4de91343f1c42fc0c]
+## 14. Permanent stopping up of streets[^c-508a33330fa4aaf4de91343f1c42fc0c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-508a33330fa4aaf4de91343f1c42fc0c]: Commencement: Art. 14 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-508a33330fa4aaf4de91343f1c42fc0c]: Commencement: Art. 14 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

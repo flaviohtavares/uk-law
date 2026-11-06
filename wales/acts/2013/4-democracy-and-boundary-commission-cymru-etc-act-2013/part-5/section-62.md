@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Functions relating to payments to members[^key-0f9b1c32e19ed383b4d886b954cb651c]
+## 62. Functions relating to payments to members[^c-0f9b1c32e19ed383b4d886b954cb651c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f9b1c32e19ed383b4d886b954cb651c]: Textual amendment: [Ss. 62-67](https://www.legislation.gov.uk/anaw/2013/4/section/62) and cross-heading omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/13/3); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/uksi/2024/1337/article/3/e)
+[^c-0f9b1c32e19ed383b4d886b954cb651c]: Textual amendment: [Ss. 62-67](https://www.legislation.gov.uk/anaw/2013/4/section/62) and cross-heading omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/13/3); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/uksi/2024/1337/article/3/e)

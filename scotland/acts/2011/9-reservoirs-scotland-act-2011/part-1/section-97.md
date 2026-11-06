@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Affording of reasonable facilities to engineers[^key-c00b6b37d6959f7371aedf48fb4b08c6]
+## 97. Affording of reasonable facilities to engineers[^c-c00b6b37d6959f7371aedf48fb4b08c6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c00b6b37d6959f7371aedf48fb4b08c6]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2011/9/section/97) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-c00b6b37d6959f7371aedf48fb4b08c6]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2011/9/section/97) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Environmental control of animal and plant species[^key-b7937f0c27bd65aa5d1b8147da4339da][^key-1363c2f4689d13b3c191f3c5ee463777]
+## 23. Environmental control of animal and plant species[^c-b7937f0c27bd65aa5d1b8147da4339da][^c-1363c2f4689d13b3c191f3c5ee463777]
 
 *Extent: E+W*
 
@@ -457,6 +457,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7937f0c27bd65aa5d1b8147da4339da]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/7/section/23) in force at 12.4.2015 for E. by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a)
+[^c-b7937f0c27bd65aa5d1b8147da4339da]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/7/section/23) in force at 12.4.2015 for E. by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a)
 
-[^key-1363c2f4689d13b3c191f3c5ee463777]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/7/section/23) in force at 12.4.2015 for W. by [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
+[^c-1363c2f4689d13b3c191f3c5ee463777]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/7/section/23) in force at 12.4.2015 for W. by [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)

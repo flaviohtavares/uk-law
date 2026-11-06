@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36 (Extent: E) (affected by repeal, see note). Fresh appointments (Extent: E) (affected by repeal, see note)[^key-d21edb1ad3b5524161394686179f4b7d][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
+## 36 (Extent: E) (affected by repeal, see note). Fresh appointments (Extent: E) (affected by repeal, see note)[^c-d21edb1ad3b5524161394686179f4b7d][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 
 *Extent: E+W*
 
-(1 (Extent: E) (affected by repeal, see note))[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] Where a person appointed by the Secretary of State for any purpose of any provision of regulation *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] 10, 11, 12[^key-05e4ab36cf160b17e1c3734df636d8fc] *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] or of Schedule 5— *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
+(1 (Extent: E) (affected by repeal, see note))[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] Where a person appointed by the Secretary of State for any purpose of any provision of regulation *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] 10, 11, 12[^c-05e4ab36cf160b17e1c3734df636d8fc] *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] or of Schedule 5— *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 
 - (a (Extent: E) (affected by repeal, see note))[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] dies or resigns before the completion of that purpose; or *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 - (b (Extent: E) (affected by repeal, see note))[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6] is unable or refuses to complete that purpose, *(Extent: E)* *(affected by repeal, see note)*[^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
@@ -33,8 +33,8 @@ the Secretary of State may rescind that appointment together with that of any ot
 
 ## Annotations
 
-[^key-d21edb1ad3b5524161394686179f4b7d]: Commencement: Reg. 36 in force at 1.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/664/regulation/1)
+[^c-d21edb1ad3b5524161394686179f4b7d]: Commencement: Reg. 36 in force at 1.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/664/regulation/1)
 
 [^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]: Textual amendment: Regulations revoked (E.) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/1/a)
 
-[^key-05e4ab36cf160b17e1c3734df636d8fc]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/1992/664/regulation/36/1) substituted (1.4.1996) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1996 (S.I. 1996/703)](https://www.legislation.gov.uk/uksi/1996/703), [regs. 1](https://www.legislation.gov.uk/uksi/1996/703/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/703/regulation/10)
+[^c-05e4ab36cf160b17e1c3734df636d8fc]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/1992/664/regulation/36/1) substituted (1.4.1996) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1996 (S.I. 1996/703)](https://www.legislation.gov.uk/uksi/1996/703), [regs. 1](https://www.legislation.gov.uk/uksi/1996/703/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/703/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88.[^key-cd05327b0ab2569a4fa79c43fbba870c]
+## 88.[^c-cd05327b0ab2569a4fa79c43fbba870c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ After Article 38 insert—
 > - (a) for regulations applying in relation to England, the Secretary of State;
 > - (b) for regulations applying in relation to Wales, the Welsh Ministers;
 > - (c) for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (d)[^key-94ab66533428dda322a3488375189f10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-94ab66533428dda322a3488375189f10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **3.**
 >
@@ -43,7 +43,7 @@ After Article 38 insert—
 >
 > - (a) for regulations applying in relation to Wales, the Welsh Ministers;
 > - (b) for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (c)[^key-94ab66533428dda322a3488375189f10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-94ab66533428dda322a3488375189f10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Article 38b — Regulations procedure**
 >
@@ -55,7 +55,7 @@ After Article 38 insert—
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23706691].
 >
-> **3.[^key-3f741e25a69b8838bd84c565c619872d]**
+> **3.[^c-3f741e25a69b8838bd84c565c619872d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -71,7 +71,7 @@ After Article 38 insert—
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-3f741e25a69b8838bd84c565c619872d]**
+> **7.[^c-3f741e25a69b8838bd84c565c619872d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -93,10 +93,10 @@ After Article 38 insert—
 
 ## Annotations
 
-[^key-cd05327b0ab2569a4fa79c43fbba870c]: Commencement: Reg. 88 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-cd05327b0ab2569a4fa79c43fbba870c]: Commencement: Reg. 88 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
-[^key-94ab66533428dda322a3488375189f10]: Textual amendment: Words in reg. 88 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [12(13)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/12/13/a)
+[^c-94ab66533428dda322a3488375189f10]: Textual amendment: Words in reg. 88 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [12(13)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/12/13/a)
 
 [^c23706691]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-3f741e25a69b8838bd84c565c619872d]: Textual amendment: Words in reg. 88 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [12(13)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/12/13/b)
+[^c-3f741e25a69b8838bd84c565c619872d]: Textual amendment: Words in reg. 88 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [12(13)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/12/13/b)

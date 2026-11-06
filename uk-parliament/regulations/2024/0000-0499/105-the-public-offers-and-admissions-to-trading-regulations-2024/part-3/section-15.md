@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. FCA rules relating to admissions to trading on primary MTF[^key-fd1479d8aef07ec32c2fc1b63095fc42]
+## 15. FCA rules relating to admissions to trading on primary MTF[^c-fd1479d8aef07ec32c2fc1b63095fc42]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd1479d8aef07ec32c2fc1b63095fc42]: Commencement: Reg. 15 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-fd1479d8aef07ec32c2fc1b63095fc42]: Commencement: Reg. 15 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

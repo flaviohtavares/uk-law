@@ -51,7 +51,7 @@ for all other purposes
 
 The Treasury, with the concurrence of the Secretary of State, in relation to regulation 3, and the Secretary of State in relation to the remainder of the Regulations, in exercise of the powers conferred upon them by sections 3(2) and 175(3) to (5) of the Social Security Contributions and Benefits Act 1992[^f00001], sections 5(1)(p), 15A(2)(aa), 189(4) to (6) and 191 of the Social Security Administration Act 1992[^f00002], sections 26(1) and (4)(a), 35(1) and 36(2) of the Jobseekers Act 1995[^f00003], sections 10(1) and (5)(a) and 26(3) of the Child Support Act 1995[^f00004], section 10(3) and (6), 79(4) and 84 of the Social Security Act 1998[^f00005] and sections 2(3)(b) and (6), 12(2)(b), 13, 15(3) and (6)(a) and (b), 16(2)(a) and 17(2)(a) of the State Pension Credit Act 2002, and of all other powers enabling them in that behalf, by this Instrument, which contains only regulations made by virtue of, or consequential upon, sections 1 to 17 of the State Pension Credit Act 2002 and which is made before the end of the period of 6 months beginning with the coming into force of those provisions[^f00006], make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f5a692aa77abf8bffa123e4959995596]
+## 1. Citation, commencement and interpretation[^c-f5a692aa77abf8bffa123e4959995596]
 
 (1) These Regulations may be cited as the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) (No. 2) Regulations 2002 and shall come into force—
 
@@ -60,11 +60,11 @@ The Treasury, with the concurrence of the Secretary of State, in relation to reg
 
 (2) In these Regulations, “the principal Regulations” means the State Pension Credit Regulations 2002[^f00007] and references in these Regulations to a regulation or a Schedule are, unless the context otherwise requires, to a regulation of, or a Schedule to, those Regulations.
 
-## 2. Amendment of the principal Regulations[^key-e04b190fd7c8f6d16df6b1804188fe0e]
+## 2. Amendment of the principal Regulations[^c-e04b190fd7c8f6d16df6b1804188fe0e]
 
 The principal Regulations shall be amended in accordance with the Schedule to these Regulations.
 
-## 3. Further amendments to the principal Regulations relating to earnings[^key-16f0b078ffabfe33d0815b2ee1d334a9]
+## 3. Further amendments to the principal Regulations relating to earnings[^c-16f0b078ffabfe33d0815b2ee1d334a9]
 
 (1) In regulation 17A (earnings of an employed earner)—
 
@@ -91,7 +91,7 @@ The principal Regulations shall be amended in accordance with the Schedule to th
   ;
 - (b) at the end of regulation 12(2)(e) of the Social Security Benefit (Computation of Earnings) Regulations 1996[^f00008] as given effect by paragraph (4)(b), there shall be added the words “being an award made by one of the Sports Councils named in section 23(2) of the National Lottery etc. Act 1993[^f00009] out of sums allocated to it for distribution under that section”.
 
-## 4. Amendment of amounts in the principal Regulations[^key-6d086a9159d63f357f831ffb5e895cf9]
+## 4. Amendment of amounts in the principal Regulations[^c-6d086a9159d63f357f831ffb5e895cf9]
 
 (1) In regulation 6 (amount of the guarantee credit)—
 
@@ -112,7 +112,7 @@ The principal Regulations shall be amended in accordance with the Schedule to th
   - (ii) in the substituted regulation 6(1)(b), for the sum “£54” there shall be substituted the sum “£53.70”;
 - (b) in sub-paragraph (7), in the substituted regulation 7(2), for the sum “£123” there shall be substituted the sum “£123.80”.
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-2977c6e20e879c4df3ceaf7ae77d23e8]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-2977c6e20e879c4df3ceaf7ae77d23e8]
 
 (1) The Social Security (Claims and Payments) Regulations 1987[^f00010] shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -182,7 +182,7 @@ The principal Regulations shall be amended in accordance with the Schedule to th
   - (i) in sub-paragraph (1), after “regulation 34A” there shall be inserted “or 34B”;
   - (ii) in sub-paragraph (2)(a)(i), after the words “Jobseeker’s Allowance Regulations” there shall be inserted the words “or paragraph 9 of Schedule II to the State Pension Credit Regulations”.
 
-## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-c7c3f1d05f21fb2f6172b072a4573a7a]
+## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-c7c3f1d05f21fb2f6172b072a4573a7a]
 
 In regulation 7 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00018] (date from which a decision superseded under section 10 takes effect)—
 
@@ -205,9 +205,9 @@ In regulation 7 of the Social Security and Child Support (Decisions and Appeals)
 
   .
 
-## 7. Amendments to other Regulations[^key-d75ee1b3ccaf9f4a1d4bd0511d0a7153][^key-0c8fe0f84e1467e675ae6c695a060a99]
+## 7. Amendments to other Regulations[^c-d75ee1b3ccaf9f4a1d4bd0511d0a7153][^c-0c8fe0f84e1467e675ae6c695a060a99]
 
-(1)[^key-d75ee1b3ccaf9f4a1d4bd0511d0a7153] In regulation 8 of the Social Security (Child Maintenance Bonus) Regulations 1996[^f00019] (retirement)—
+(1)[^c-d75ee1b3ccaf9f4a1d4bd0511d0a7153] In regulation 8 of the Social Security (Child Maintenance Bonus) Regulations 1996[^f00019] (retirement)—
 
 - (a) in paragraph (2), for the words “income support”, in both places where they occur, there shall be substituted the words “state pension credit”;
 - (b) after paragraph (2) there shall be inserted the following paragraph—
@@ -216,7 +216,7 @@ In regulation 7 of the Social Security and Child Support (Decisions and Appeals)
 
   .
 
-(2)[^key-d75ee1b3ccaf9f4a1d4bd0511d0a7153] In regulation 17 of the Social Security (Back to Work Bonus) (No. 2) Regulations 1996[^f00020] (persons attaining pensionable age)—
+(2)[^c-d75ee1b3ccaf9f4a1d4bd0511d0a7153] In regulation 17 of the Social Security (Back to Work Bonus) (No. 2) Regulations 1996[^f00020] (persons attaining pensionable age)—
 
 - (a) in paragraphs (4) and (6), for the words “income support”, in all places where they occur, there shall be substituted the words “state pension credit”;
 - (b) at the end, there shall be added the following paragraph—
@@ -225,7 +225,7 @@ In regulation 7 of the Social Security and Child Support (Decisions and Appeals)
 
   .
 
-(3)[^key-d75ee1b3ccaf9f4a1d4bd0511d0a7153] In regulation 1(2) of the Community Charges (Deductions from Income Support) (Scotland) Regulation 1989[^f00021] (interpretation), for the definition of “personal allowance for a couple where both members are aged not less than 18” there shall be substituted the following definition—
+(3)[^c-d75ee1b3ccaf9f4a1d4bd0511d0a7153] In regulation 1(2) of the Community Charges (Deductions from Income Support) (Scotland) Regulation 1989[^f00021] (interpretation), for the definition of “personal allowance for a couple where both members are aged not less than 18” there shall be substituted the following definition—
 
 > - “personal allowance for a couple where both members are aged not less than 18” means—
 >   - (a) in the case of a person who is entitled to either income support or state pension credit, the amount for the time being specified in paragraph 1(3)(c) of column (2) of Schedule 2 to the Income Support (General) Regulations 1987[^f00022]; or
@@ -233,7 +233,7 @@ In regulation 7 of the Social Security and Child Support (Decisions and Appeals)
 
 .
 
-(4)[^key-0c8fe0f84e1467e675ae6c695a060a99] In regulation 36 of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002[^f00024] (persons entitled to income support immediately before the appointed day)—
+(4)[^c-0c8fe0f84e1467e675ae6c695a060a99] In regulation 36 of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002[^f00024] (persons entitled to income support immediately before the appointed day)—
 
 - (a) in paragraph (15)—
   - (i) at the beginning there shall be inserted the words “Except where paragraph (16) applies,”;
@@ -285,7 +285,7 @@ Department for Work and Pensions
 
 Regulation 2
 
-**1.**[^key-b07f3624b2c08487b35708f0e771e0d3] In regulation 1(2) (interpretation)—
+**1.**[^c-b07f3624b2c08487b35708f0e771e0d3] In regulation 1(2) (interpretation)—
 
 - (a) at the end of the definition of “care home” there shall be added the words “and in Scotland means a care home service” and after that definition there shall be inserted the following definition—
 
@@ -298,16 +298,16 @@ Regulation 2
 
   .
 
-**2.**[^key-bb8eb272533f33a3545b426e7c1bdfe3] At the end of regulation 5(1) (persons treated as being or not being members of the same household), there shall be added the following sub-paragraphs—
+**2.**[^c-bb8eb272533f33a3545b426e7c1bdfe3] At the end of regulation 5(1) (persons treated as being or not being members of the same household), there shall be added the following sub-paragraphs—
 
 > - (g) he is not habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland;
 > - (h) he is a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999[^f00026]
 
 .
 
-**3.**[^key-14a0ee8b3aef844bed329d9c9afcb0be] In regulation 13B(2) (date on which benefits are treated as paid), the words “respect of” shall be omitted.
+**3.**[^c-14a0ee8b3aef844bed329d9c9afcb0be] In regulation 13B(2) (date on which benefits are treated as paid), the words “respect of” shall be omitted.
 
-**4.**[^key-9f2547339880f83351899f2d6a5815d6] In regulation 16 (retirement pension income)—
+**4.**[^c-9f2547339880f83351899f2d6a5815d6] In regulation 16 (retirement pension income)—
 
 - (a) for the word “paragraph” there shall be substituted the word “paragraphs”;
 - (b) in the new section 16(1)(k), for the words “Civil List 1975” there shall be substituted the words “Civil List Act 1975”;
@@ -319,17 +319,17 @@ Regulation 2
 
   .
 
-**5.**[^key-f908d2ced9ddfb6affa6c245d2404b0c] In regulation 17(10) (calculation of weekly income), for “17C” there shall be substituted “17B(6)” and sub-paragraph (c) shall be omitted.
+**5.**[^c-f908d2ced9ddfb6affa6c245d2404b0c] In regulation 17(10) (calculation of weekly income), for “17C” there shall be substituted “17B(6)” and sub-paragraph (c) shall be omitted.
 
-**6.**[^key-ab80b50a2b2a4dea50fd30b029ba2722] For regulation 21(1) (notional capital), there shall be substituted the following paragraph—
+**6.**[^c-ab80b50a2b2a4dea50fd30b029ba2722] For regulation 21(1) (notional capital), there shall be substituted the following paragraph—
 
 > (1) A claimant shall be treated as possessing capital of which he has deprived himself for the purpose of securing entitlement to state pension credit or increasing the amount of that benefit except to the extent that the capital which he is treated as possessing is reduced in accordance with regulation 22 (diminishing notional capital rule).
 
 .
 
-**7.**[^key-a83f9d97f3f2938be88d83385ad8f0db] In regulation 22 (diminishing notional capital rule), for “22(1)”, wherever it occurs, there shall be substituted “21(1)”.
+**7.**[^c-a83f9d97f3f2938be88d83385ad8f0db] In regulation 22 (diminishing notional capital rule), for “22(1)”, wherever it occurs, there shall be substituted “21(1)”.
 
-**8.**[^key-75513ad4160f935f96c608f41f496542] In Schedule I—
+**8.**[^c-75513ad4160f935f96c608f41f496542] In Schedule I—
 
 - (a) in Part I (circumstances in which persons are treated as being or not being severely disabled)—
   - (i) in paragraph 1(2)(b), for “37ZB(3)” there shall be substituted “72(3)”;
@@ -350,7 +350,7 @@ Regulation 2
 
     .
 
-**9.**[^key-9759858f6e4a58704e37955db062bb98] In Schedule II (housing costs)—
+**9.**[^c-9759858f6e4a58704e37955db062bb98] In Schedule II (housing costs)—
 
 - (a) in paragraph (iii) of the definition of “disabled person” in paragraph 1(2)(a)—
   - (i) at the end of (aa), there shall be inserted the word “and”;
@@ -417,12 +417,12 @@ Regulation 2
 
     .
 
-**10.**[^key-bcf3a0f1756399a69dd54f9dafa80934] In Schedule III (special groups)—
+**10.**[^c-bcf3a0f1756399a69dd54f9dafa80934] In Schedule III (special groups)—
 
 - (a) in the new regulation 7(2) as inserted by paragraph 1(7), after the words “(polygamous marriages)”, there shall be inserted the word “applies,”;
-- (b)[^key-aff1b88af5bd5d931158361473652c6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aff1b88af5bd5d931158361473652c6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ed6e635e0c8a4c49436f9db297446d89] In Schedule IV (amounts to be disregarded in the calculation of income other than earnings)—
+**11.**[^c-ed6e635e0c8a4c49436f9db297446d89] In Schedule IV (amounts to be disregarded in the calculation of income other than earnings)—
 
 - (a) after paragraph 7, there shall be inserted the following paragraph—
 
@@ -435,7 +435,7 @@ Regulation 2
   - (i) the word “final” shall be omitted;
   - (ii) for the words “the partner” there shall be substituted the words “that person”.
 
-**12.**[^key-ce722ff1cd791a8ed5c67cdf84f7826a] In Schedule V (income from capital)—
+**12.**[^c-ce722ff1cd791a8ed5c67cdf84f7826a] In Schedule V (income from capital)—
 
 - (a) in paragraph 12, for the word “interment” there shall be substituted the word “internment”;
 - (b) in the definition of “training allowance” in paragraph 15(8), the words from “nor does it include” to the end of sub-paragraph (8) shall be omitted;
@@ -453,7 +453,7 @@ Regulation 2
 
   .
 
-**13.**[^key-3f649b33bc7e0a7164f0f4643e78bd6d] In Schedule VI (sums disregarded from claimant’s earnings)—
+**13.**[^c-3f649b33bc7e0a7164f0f4643e78bd6d] In Schedule VI (sums disregarded from claimant’s earnings)—
 
 - (a) in paragraph 2, at the end of sub-paragraph (2) there shall be added the following—
 
@@ -533,21 +533,21 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: Paragraph 20(a) of Schedule 2 to the State Pension Credit Act added the provisions of that Act to the list of “the relevant enactments” in respect of which regulations must normally be referred to the Social Security Advisory Committee. *See* however section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-f5a692aa77abf8bffa123e4959995596]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
+[^c-f5a692aa77abf8bffa123e4959995596]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
 
 [^f00007]: Footnote: S.I. [2002/1792](https://www.legislation.gov.uk/uksi/2002/1792) as amended by S.I. [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-e04b190fd7c8f6d16df6b1804188fe0e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/3197/regulation/2) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-e04b190fd7c8f6d16df6b1804188fe0e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/3197/regulation/2) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-16f0b078ffabfe33d0815b2ee1d334a9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/3197/regulation/3) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-16f0b078ffabfe33d0815b2ee1d334a9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/3197/regulation/3) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00008]: Footnote: S.I. [1996/2745](https://www.legislation.gov.uk/uksi/1996/2745)
 
 [^f00009]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39).
 
-[^key-6d086a9159d63f357f831ffb5e895cf9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/3197/regulation/4) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-6d086a9159d63f357f831ffb5e895cf9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/3197/regulation/4) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-2977c6e20e879c4df3ceaf7ae77d23e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/3197/regulation/5) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
+[^c-2977c6e20e879c4df3ceaf7ae77d23e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/3197/regulation/5) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
 
 [^f00010]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -565,13 +565,13 @@ These Regulations do not impose a charge on business.
 
 [^f00017]: Footnote: Sub-paragraphs (1A) and (10) are inserted by S.I. [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-c7c3f1d05f21fb2f6172b072a4573a7a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2002/3197/regulation/6) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
+[^c-c7c3f1d05f21fb2f6172b072a4573a7a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2002/3197/regulation/6) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
 
 [^f00018]: Footnote: S.I. [1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending instrument is S.I. [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-d75ee1b3ccaf9f4a1d4bd0511d0a7153]: Commencement: [Reg. 7(1)-(3)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/7/1) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-d75ee1b3ccaf9f4a1d4bd0511d0a7153]: Commencement: [Reg. 7(1)-(3)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/7/1) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-0c8fe0f84e1467e675ae6c695a060a99]: Commencement: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/7/4) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
+[^c-0c8fe0f84e1467e675ae6c695a060a99]: Commencement: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/7/4) in force at 7.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/a)
 
 [^f00019]: Footnote: S.I. [1996/3195](https://www.legislation.gov.uk/uksi/1996/3195) to which there are amendments which are not relevant to these Regulations.
 
@@ -585,45 +585,45 @@ These Regulations do not impose a charge on business.
 
 [^f00024]: Footnote: S.I. [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-b07f3624b2c08487b35708f0e771e0d3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/1) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-b07f3624b2c08487b35708f0e771e0d3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/1) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00025]: Footnote: [2001 asp. 8](https://www.legislation.gov.uk/asp/2001/8).
 
-[^key-bb8eb272533f33a3545b426e7c1bdfe3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/2) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-bb8eb272533f33a3545b426e7c1bdfe3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/2) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00026]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-14a0ee8b3aef844bed329d9c9afcb0be]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/3) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-14a0ee8b3aef844bed329d9c9afcb0be]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/3) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-9f2547339880f83351899f2d6a5815d6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/4) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-9f2547339880f83351899f2d6a5815d6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/4) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-f908d2ced9ddfb6affa6c245d2404b0c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/5) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-f908d2ced9ddfb6affa6c245d2404b0c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/5) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-ab80b50a2b2a4dea50fd30b029ba2722]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/6) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-ab80b50a2b2a4dea50fd30b029ba2722]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/6) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-a83f9d97f3f2938be88d83385ad8f0db]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/7) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-a83f9d97f3f2938be88d83385ad8f0db]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/7) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-75513ad4160f935f96c608f41f496542]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/8) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-75513ad4160f935f96c608f41f496542]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/8) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00027]: Footnote: S.I. [1995/2287](https://www.legislation.gov.uk/uksi/1995/2287).
 
 [^f00028]: Footnote: S.I. [1995/516](https://www.legislation.gov.uk/uksi/1995/516).
 
-[^key-9759858f6e4a58704e37955db062bb98]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/9) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-9759858f6e4a58704e37955db062bb98]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/9) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00029]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39).
 
-[^key-bcf3a0f1756399a69dd54f9dafa80934]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/10) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-bcf3a0f1756399a69dd54f9dafa80934]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/10) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-aff1b88af5bd5d931158361473652c6a]: Textual amendment: [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/10/b) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-aff1b88af5bd5d931158361473652c6a]: Textual amendment: [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/10/b) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
-[^key-ed6e635e0c8a4c49436f9db297446d89]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/11) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-ed6e635e0c8a4c49436f9db297446d89]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/11) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
-[^key-ce722ff1cd791a8ed5c67cdf84f7826a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/12) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-ce722ff1cd791a8ed5c67cdf84f7826a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/12) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00030]: Footnote: S.I. [1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
-[^key-3f649b33bc7e0a7164f0f4643e78bd6d]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/13) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
+[^c-3f649b33bc7e0a7164f0f4643e78bd6d]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/13) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b)
 
 [^f00031]: Footnote: S.I. [2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 

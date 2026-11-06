@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZA. Finance: exception from prohibitions for required payments[^key-69c64491d0118ec34986ec62a312cb96]
+## 30ZA. Finance: exception from prohibitions for required payments[^c-69c64491d0118ec34986ec62a312cb96]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,7 +73,7 @@ summary: ''
     - (iv) an application for review or approval of a document relating to listing;
     - (v) an application for approval as a sponsor or primary information provider;
     - (vi) an application for review or approval of—
-      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^key-f18ed3981cd2d5b94703c7850ceba672]
+      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^c-f18ed3981cd2d5b94703c7850ceba672]
       - (bb) listing particulars under section 79 of the Financial Services and Markets Act 2000 or supplementary listing particulars under section 81 of that Act;
   - (c) the Secretary of State or the Welsh Ministers, a payment that a non-UN designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 3 of the Local Government Finance Act 1988;
   - (d) the Department of Finance in Northern Ireland, a payment that a non-UN designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 2 of the Rates (Northern Ireland) Order 1977;
@@ -101,7 +101,7 @@ summary: ''
   - (a) who is designated under regulation 5 for the purposes of regulations 12 to 16 (asset-freeze etc.), and
   - (b) whose designation, in the opinion of the Secretary of State, is not required by a provision mentioned in regulation 4(3);
 - “**primary information provider**” has the meaning given in section 89P(2) of the Financial Services and Markets Act 2000;
-- [^key-77764093edec84aae65c6aacc0e12ef1]...
+- [^c-77764093edec84aae65c6aacc0e12ef1]...
 - “**registrar of companies**” has the meaning given in section 1060 of the Companies Act 2006 (the registrar);
 - “**reimbursement payment**” means a repayment from the non-UN designated person to the person who made a required payment which is of the same amount as that required payment;
 - “**scheme manager**” has the meaning given in section 212 of the Financial Services and Markets Act 2000;
@@ -112,8 +112,8 @@ summary: ''
 
 ## Annotations
 
-[^key-69c64491d0118ec34986ec62a312cb96]: Textual amendment: [Reg. 30ZA](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30ZA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/29/5)
+[^c-69c64491d0118ec34986ec62a312cb96]: Textual amendment: [Reg. 30ZA](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30ZA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/29/5)
 
-[^key-f18ed3981cd2d5b94703c7850ceba672]: Textual amendment: Words in [reg. 30ZA(8)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30ZA/8) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/34/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-f18ed3981cd2d5b94703c7850ceba672]: Textual amendment: Words in [reg. 30ZA(8)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30ZA/8) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/34/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-77764093edec84aae65c6aacc0e12ef1]: Textual amendment: Words in [reg. 30ZA(8)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30ZA/8) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/34/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-77764093edec84aae65c6aacc0e12ef1]: Textual amendment: Words in [reg. 30ZA(8)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30ZA/8) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/34/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)

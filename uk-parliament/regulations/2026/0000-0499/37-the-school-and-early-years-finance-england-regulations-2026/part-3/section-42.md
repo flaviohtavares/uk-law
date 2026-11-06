@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Correction of errors and changes in non-domestic rates[^key-2db1fa42e949298dc71abb9099ddd630]
+## 42. Correction of errors and changes in non-domestic rates[^c-2db1fa42e949298dc71abb9099ddd630]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2db1fa42e949298dc71abb9099ddd630]: Commencement: Reg. 42 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-2db1fa42e949298dc71abb9099ddd630]: Commencement: Reg. 42 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

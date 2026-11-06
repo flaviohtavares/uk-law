@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. Northern Ireland: minor and consequential amendments etc[^key-94965ce4a5dad132afb00ec428a8ea3c]
+## 113A. Northern Ireland: minor and consequential amendments etc[^c-94965ce4a5dad132afb00ec428a8ea3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94965ce4a5dad132afb00ec428a8ea3c]: Textual amendment: [S. 113A](https://www.legislation.gov.uk/ukpga/2009/26/section/113A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 106](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/106) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-94965ce4a5dad132afb00ec428a8ea3c]: Textual amendment: [S. 113A](https://www.legislation.gov.uk/ukpga/2009/26/section/113A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 106](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/106) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

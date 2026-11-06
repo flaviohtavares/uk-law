@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Part provides for the assessment, collection and recovery of income tax in respect of PAYE income and includes provision in respect of the deduction of certain other amounts from, and the repayment of certain other amounts with,[^key-d1e56b237c212ab857338943d35d52ad] PAYE income.
+(1) This Part provides for the assessment, collection and recovery of income tax in respect of PAYE income and includes provision in respect of the deduction of certain other amounts from, and the repayment of certain other amounts with,[^c-d1e56b237c212ab857338943d35d52ad] PAYE income.
 
 (2) The provisions of this Part are contained in—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1e56b237c212ab857338943d35d52ad]: Textual amendment: Words in s. 682(1) inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 58 para. 9(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/58/paragraph/9/2)
+[^c-d1e56b237c212ab857338943d35d52ad]: Textual amendment: Words in s. 682(1) inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 58 para. 9(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/58/paragraph/9/2)

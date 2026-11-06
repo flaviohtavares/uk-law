@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the removal of doubt, it is declared that making land available for the purposes of a school or institution—
 
-- (a) which is, or is to be, maintained by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], or
+- (a) which is, or is to be, maintained by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], or
 - (b) which such an authority have power to assist,
 
 is a function of the authority within the meaning of section 120 of the [^c15253171]Local Government Act 1972 (which relates to the acquisition by a local authority by agreement of land for the purpose of any of their functions), even though the land will not be held by the authority.
@@ -36,7 +36,7 @@ are such as to secure that the expenditure ultimately borne by them will not inc
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15253171]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

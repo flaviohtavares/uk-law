@@ -31,7 +31,7 @@ summary: ''
 
 (3) A person carrying out a veterinary investigation who suspects that avian influenza or influenza virus of avian origin exists or has existed on the premises must seek to establish—
 
-- (a) the length of time avian influenza virus[^key-fabba1ad725bcf9ff848db7cfaee2bab] has existed on the premises or on any vehicle,
+- (a) the length of time avian influenza virus[^c-fabba1ad725bcf9ff848db7cfaee2bab] has existed on the premises or on any vehicle,
 - (b) the possible origin of avian influenza virus on the premises,
 - (c) which premises may have been exposed to contamination by avian influenza virus from the same origin or from the premises under investigation, and
 - (d) the extent to which avian influenza virus may have been carried to or from the premises under investigation by the movement of birds, people, animals, vehicles, eggs, carcases, implements or any other thing.
@@ -44,10 +44,10 @@ summary: ''
 
 (7) Any person who imposes any requirements or restrictions under this Order must take account of the results of any relevant veterinary inquiries of which he should reasonably be aware.
 
-(8)[^key-69d3f75f1966628a03ee76a4cff68270] Any person who carries out an investigation under this Order must do so in accordance with the diagnostic manual.
+(8)[^c-69d3f75f1966628a03ee76a4cff68270] Any person who carries out an investigation under this Order must do so in accordance with the diagnostic manual.
 
 ## Annotations
 
-[^key-fabba1ad725bcf9ff848db7cfaee2bab]: Textual amendment: Word in [art. 81(3)(a)-(d)](https://www.legislation.gov.uk/uksi/2006/2702/article/81/3/a) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(39)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/39)
+[^c-fabba1ad725bcf9ff848db7cfaee2bab]: Textual amendment: Word in [art. 81(3)(a)-(d)](https://www.legislation.gov.uk/uksi/2006/2702/article/81/3/a) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(39)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/39)
 
-[^key-69d3f75f1966628a03ee76a4cff68270]: Textual amendment: [Art. 81(8)](https://www.legislation.gov.uk/uksi/2006/2702/article/81/8) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(16)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/16)
+[^c-69d3f75f1966628a03ee76a4cff68270]: Textual amendment: [Art. 81(8)](https://www.legislation.gov.uk/uksi/2006/2702/article/81/8) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(16)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/16)

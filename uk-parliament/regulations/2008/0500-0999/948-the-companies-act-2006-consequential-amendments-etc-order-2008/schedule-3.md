@@ -109,21 +109,21 @@ In section 112 of the Companies Act 1989 (charitable companies: Scotland), for s
 
 .
 
-### 7. Charities Act 1993 (c.10)[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84]
+### 7. Charities Act 1993 (c.10)[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13. Agriculture Act 1993 (c.37)
 
@@ -176,7 +176,7 @@ In section 56(5) of the Transport Act 2000 [^c19201731] (shadow directors)—
 
 [^c19201651]: Marginal citation: [Article 9B](https://www.legislation.gov.uk/uksi/2008/948/article/9B) was inserted by the [Companies (No. 2) (Northern Ireland) Order 1990 (S.I. 1990/1504 (N.I. 10))](https://www.legislation.gov.uk/nisi/1990/1504), [Article 47](https://www.legislation.gov.uk/nisi/1990/1504/article/47).
 
-[^key-62f3b3c98aaa1f49a9c387ce6fd7eb84]: Textual amendment: [Sch. 3 paras. 7-12](https://www.legislation.gov.uk/uksi/2008/948/schedule/3/paragraph/7) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-62f3b3c98aaa1f49a9c387ce6fd7eb84]: Textual amendment: [Sch. 3 paras. 7-12](https://www.legislation.gov.uk/uksi/2008/948/schedule/3/paragraph/7) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c19201711]: Marginal citation: [Paragraph 15(2)](https://www.legislation.gov.uk/uksi/2008/948/paragraph/15/2) was substituted by the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) (C. 84)), Schedule 4, paragraph 90.
 

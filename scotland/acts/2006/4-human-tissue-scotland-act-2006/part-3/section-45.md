@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Authorisation of use etc. after examination: person with parental rights and parental responsibilities for child 12 years of age or over[^key-bf128319e67fbec86c65a2945cbc421f]
+## 45. Authorisation of use etc. after examination: person with parental rights and parental responsibilities for child 12 years of age or over[^c-bf128319e67fbec86c65a2945cbc421f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf128319e67fbec86c65a2945cbc421f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2006/4/section/45) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-bf128319e67fbec86c65a2945cbc421f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2006/4/section/45) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

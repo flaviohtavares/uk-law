@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97C. Delivery of record sheets and other documents[^key-e330be0867afc24c41c40e53132dbb3c]
+## 97C. Delivery of record sheets and other documents[^c-e330be0867afc24c41c40e53132dbb3c]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to the following documents—
 
 - (a) record sheets;
-- (b) manual records and printouts made in accordance with the EU[^key-3bb25a342d6782c932df2fc975258d84] Tachographs Regulation or the AETR[^key-582f7cdc705a093ed51830f587fbd411].
+- (b) manual records and printouts made in accordance with the EU[^c-3bb25a342d6782c932df2fc975258d84] Tachographs Regulation or the AETR[^c-582f7cdc705a093ed51830f587fbd411].
 
-(2) If such a document relates to a person in his capacity as the driver of a vehicle to which section 97 or 97ZA[^key-a8762ba8e53a5e36e130ea9fbe771c08] applies, he must before the end of the delivery period deliver the document to the transport undertaking to whose orders he was subject in driving the vehicle.
+(2) If such a document relates to a person in his capacity as the driver of a vehicle to which section 97 or 97ZA[^c-a8762ba8e53a5e36e130ea9fbe771c08] applies, he must before the end of the delivery period deliver the document to the transport undertaking to whose orders he was subject in driving the vehicle.
 
 (3) The delivery period is the period of 42 days starting on the day after the latest date to which the document relates.
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
+[^c-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
 
-[^key-3bb25a342d6782c932df2fc975258d84]: Textual amendment: Words in s. 97C(1)(b) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2016/248/regulation/6)
+[^c-3bb25a342d6782c932df2fc975258d84]: Textual amendment: Words in s. 97C(1)(b) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2016/248/regulation/6)
 
-[^key-582f7cdc705a093ed51830f587fbd411]: Textual amendment: Words in [s. 97C(1)(b)](https://www.legislation.gov.uk/ukpga/1968/73/section/97C/1/b) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/8/a)
+[^c-582f7cdc705a093ed51830f587fbd411]: Textual amendment: Words in [s. 97C(1)(b)](https://www.legislation.gov.uk/ukpga/1968/73/section/97C/1/b) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/8/a)
 
-[^key-a8762ba8e53a5e36e130ea9fbe771c08]: Textual amendment: Words in [s. 97C(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/97C/2) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/8/b)
+[^c-a8762ba8e53a5e36e130ea9fbe771c08]: Textual amendment: Words in [s. 97C(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/97C/2) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/8/b)

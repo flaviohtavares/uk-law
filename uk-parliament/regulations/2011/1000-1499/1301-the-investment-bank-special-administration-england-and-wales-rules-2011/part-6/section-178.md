@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Declaration of a dividend[^key-159e3e1013aba8e68fddb4bd2638ff69]
+## 178. Declaration of a dividend[^c-159e3e1013aba8e68fddb4bd2638ff69]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-159e3e1013aba8e68fddb4bd2638ff69]: Commencement: [Rule 178](https://www.legislation.gov.uk/uksi/2011/1301/rule/178) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-159e3e1013aba8e68fddb4bd2638ff69]: Commencement: [Rule 178](https://www.legislation.gov.uk/uksi/2011/1301/rule/178) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

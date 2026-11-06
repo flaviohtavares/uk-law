@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School and Early Years Finance (England) Regulations 2023 (revoked)[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+The School and Early Years Finance (England) Regulations 2023 (revoked)[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 14th February 2023
 
-[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+### PART 1 — Introduction[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -60,13 +60,13 @@ Coming into force
 - [Section 2 — Revocation and saving](part-1/section-2.md)
 - [Section 3 — Amendments](part-1/section-3.md)
 
-### PART 2 — Action to be taken by a local authority[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+### PART 2 — Action to be taken by a local authority[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Determination of the non-schools education budget, schools budget, individual schools budget, and budget shares[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+#### CHAPTER 1 — Determination of the non-schools education budget, schools budget, individual schools budget, and budget shares[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ Coming into force
 - [Section 10 — Formulae for determination of budget shares etc. for certain maintained schools and early years providers](part-2/section-10.md)
 - [Section 11 — Determination of allocation of budget shares etc. for the funding period](part-2/section-11.md)
 
-#### CHAPTER 2 — Further deductions and variations to limits authorised by schools forums or the Secretary of State[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+#### CHAPTER 2 — Further deductions and variations to limits authorised by schools forums or the Secretary of State[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -89,13 +89,13 @@ Coming into force
 
 - [Section 12 — Applications to the schools forum and the Secretary of State](part-2/section-12.md)
 
-### PART 3 — Determination of budget shares etc.[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+### PART 3 — Determination of budget shares etc.[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Requirements, and factors and criteria taken into account[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+#### CHAPTER 1 — Requirements, and factors and criteria taken into account[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -126,7 +126,7 @@ Coming into force
 - [Section 35 — New schools, merged schools and closing schools](part-3/section-35.md)
 - [Section 36 — Federated schools](part-3/section-36.md)
 
-#### CHAPTER 2 — Adjustments, correction of errors, and alternative arrangements authorised by the Secretary of State[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+#### CHAPTER 2 — Adjustments, correction of errors, and alternative arrangements authorised by the Secretary of State[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ Coming into force
 - [Section 38 — Correction of errors and changes in non-domestic rates](part-3/section-38.md)
 - [Section 39 — Alternative arrangements approved by the Secretary of State](part-3/section-39.md)
 
-### PART 4 — Schemes[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+### PART 4 — Schemes[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -156,14 +156,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/59) revoked (1.4.2025) by [The School and Early Years Finance (England) Regulations 2025 (S.I. 2025/42)](https://www.legislation.gov.uk/uksi/2025/42), [reg. 2](https://www.legislation.gov.uk/uksi/2025/42/regulation/2)
+[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/59) revoked (1.4.2025) by [The School and Early Years Finance (England) Regulations 2025 (S.I. 2025/42)](https://www.legislation.gov.uk/uksi/2025/42), [reg. 2](https://www.legislation.gov.uk/uksi/2025/42/regulation/2)

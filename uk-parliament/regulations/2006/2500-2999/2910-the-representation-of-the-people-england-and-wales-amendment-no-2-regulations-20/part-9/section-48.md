@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Interpretation of Part 5[^key-87ea5fe75e7bfbbb57cfb29268eaee9a]
+## 48. Interpretation of Part 5[^c-87ea5fe75e7bfbbb57cfb29268eaee9a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87ea5fe75e7bfbbb57cfb29268eaee9a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2006/2910/regulation/48) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-87ea5fe75e7bfbbb57cfb29268eaee9a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2006/2910/regulation/48) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

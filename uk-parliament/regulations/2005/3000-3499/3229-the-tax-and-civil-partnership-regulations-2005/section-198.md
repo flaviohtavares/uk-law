@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198.[^key-cf6b7193797aa5128c9cac96badeda3e]
+## 198.[^c-cf6b7193797aa5128c9cac96badeda3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 742 (meaning of “the insured”), after “spouse”, in each place
 
 ## Annotations
 
-[^key-cf6b7193797aa5128c9cac96badeda3e]: Commencement: Reg. 198 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-cf6b7193797aa5128c9cac96badeda3e]: Commencement: Reg. 198 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

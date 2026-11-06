@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An election must be made by notice to an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8] no later than 2 years after the date when—
+(1) An election must be made by notice to an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8] no later than 2 years after the date when—
 
 - (a) the purchaser acquires the qualifying interest, in the case of an election under section 198, or
 - (b) the lessee is granted the lease, in the case of an election under section 199.
 
-But this is subject to subsection (1A).[^key-1b9583a7a9a9f015b16d23f228a6598e]
+But this is subject to subsection (1A).[^c-1b9583a7a9a9f015b16d23f228a6598e]
 
-(1A)[^key-024788cce3cab22a8e1619fbabe855cb] Where—
+(1A)[^c-024788cce3cab22a8e1619fbabe855cb] Where—
 
 - (a) the requirement of subsection (6) of section 187A (effect of changes in ownership of fixture: fixed value requirement) applies, or may in future apply by reason of a person being required to bring the disposal value of plant and machinery into account in accordance with item 1, 5 or 9 of the Table in section 196,
 - (b) an application is made to the tribunal for the purposes of section 187A(7)(a), and
@@ -46,7 +46,7 @@ subsection (1) does not apply and an election within section 187A(7)(b) may be m
 - (e) particulars of—
   - (i) the interest acquired by the purchaser, in the case of an election under section 198, or
   - (ii) the lease granted to the lessee, in the case of an election under section 199, and
-- (f)[^key-d47ef72466821c06069a2ba67d1383b4] in relation to each of the persons making the election—
+- (f)[^c-d47ef72466821c06069a2ba67d1383b4] in relation to each of the persons making the election—
   - (i) that person's Unique Taxpayer Reference, or
   - (ii) that the person does not have a Unique Taxpayer Reference.
 
@@ -66,10 +66,10 @@ a copy of the notice containing the election must accompany the return.
 
 ## Annotations
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-1b9583a7a9a9f015b16d23f228a6598e]: Textual amendment: Words in [s. 201(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/201/1) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/4/2)
+[^c-1b9583a7a9a9f015b16d23f228a6598e]: Textual amendment: Words in [s. 201(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/201/1) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/4/2)
 
-[^key-024788cce3cab22a8e1619fbabe855cb]: Textual amendment: [S. 201(1A)](https://www.legislation.gov.uk/ukpga/2001/2/section/201/1A) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/4/3)
+[^c-024788cce3cab22a8e1619fbabe855cb]: Textual amendment: [S. 201(1A)](https://www.legislation.gov.uk/ukpga/2001/2/section/201/1A) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/4/3)
 
-[^key-d47ef72466821c06069a2ba67d1383b4]: Textual amendment: [S. 201(3)(f)](https://www.legislation.gov.uk/ukpga/2001/2/section/201/3/f) substituted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/4/4)
+[^c-d47ef72466821c06069a2ba67d1383b4]: Textual amendment: [S. 201(3)(f)](https://www.legislation.gov.uk/ukpga/2001/2/section/201/3/f) substituted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/4/4)

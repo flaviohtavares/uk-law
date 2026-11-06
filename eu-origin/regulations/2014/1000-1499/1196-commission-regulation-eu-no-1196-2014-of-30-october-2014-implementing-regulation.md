@@ -35,85 +35,85 @@ implementing Regulation (EC) No 808/2004 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6885d2f3f24f3c93ef62ae79b44181ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6885d2f3f24f3c93ef62ae79b44181ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6885d2f3f24f3c93ef62ae79b44181ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6885d2f3f24f3c93ef62ae79b44181ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Module 1: Enterprises and the information society[^key-6885d2f3f24f3c93ef62ae79b44181ef]
+## ANNEX I — Module 1: Enterprises and the information society[^c-6885d2f3f24f3c93ef62ae79b44181ef]
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]1.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]1.
 
 SUBJECTS AND THEIR CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]2.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]2.
 
 COVERAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]3.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]3.
 
 REFERENCE PERIODS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]4.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]4.
 
 BREAKDOWNS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]5.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]5.
 
 PERIODICITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]6.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]6.
 
 DEADLINES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Module 2: Individuals, households and the information society[^key-6885d2f3f24f3c93ef62ae79b44181ef]
+## ANNEX II — Module 2: Individuals, households and the information society[^c-6885d2f3f24f3c93ef62ae79b44181ef]
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]1.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]1.
 
 SUBJECTS AND THEIR CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]2.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]2.
 
 COVERAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]3.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]3.
 
 REFERENCE PERIOD
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]4.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]4.
 
 SOCIOECONOMIC BACKGROUND CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]5.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]5.
 
 PERIODICITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]6.
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]6.
 
 DEADLINES FOR TRANSMISSION OF RESULTS
 
@@ -121,4 +121,4 @@ DEADLINES FOR TRANSMISSION OF RESULTS
 
 ## Annotations
 
-[^key-6885d2f3f24f3c93ef62ae79b44181ef]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 240](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/240); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6885d2f3f24f3c93ef62ae79b44181ef]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 240](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/240); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

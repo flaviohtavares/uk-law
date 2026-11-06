@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Necessary services for temporary patients[^key-9bb185c4e1cac82401e0e9cf64273aa0]
+## 27. Necessary services for temporary patients[^c-9bb185c4e1cac82401e0e9cf64273aa0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A doctor who provides pharmaceutical services to patients on a patient list by a
 
 ## Annotations
 
-[^key-9bb185c4e1cac82401e0e9cf64273aa0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2020/1073/regulation/27) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-9bb185c4e1cac82401e0e9cf64273aa0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2020/1073/regulation/27) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

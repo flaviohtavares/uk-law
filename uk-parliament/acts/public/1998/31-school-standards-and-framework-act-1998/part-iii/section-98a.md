@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Meaning of “sixth form education” etc[^key-65a0eb209df8cb6707720bf376897867]
+## 98A. Meaning of “sixth form education” etc[^c-65a0eb209df8cb6707720bf376897867]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65a0eb209df8cb6707720bf376897867]: Textual amendment: S. 98A inserted (26.1.2009 for E., 31.3.2009 for W.) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 153](https://www.legislation.gov.uk/ukpga/2008/25/section/153), [173(3)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/3/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a); [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a)
+[^c-65a0eb209df8cb6707720bf376897867]: Textual amendment: S. 98A inserted (26.1.2009 for E., 31.3.2009 for W.) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 153](https://www.legislation.gov.uk/ukpga/2008/25/section/153), [173(3)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/3/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a); [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a)

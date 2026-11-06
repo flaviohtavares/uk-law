@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Right of interested person to inspect and object to accounts: completion of audit.[^c9677221][^key-8d9d8ed73a454973c3145f4094b55f8e][^c9677211]
+## 101. Right of interested person to inspect and object to accounts: completion of audit.[^c9677221][^c-8d9d8ed73a454973c3145f4094b55f8e][^c9677211]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ above to the accounts of a local authority, the auditor shall, if so requested b
 
 [^c9677221]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/1973/65/section/101) excluded by [Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 11(1)(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/11/1/4)
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9677211]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/1973/65/section/101) extended by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31) ss. 24(3)(*b*), 85(4)
 

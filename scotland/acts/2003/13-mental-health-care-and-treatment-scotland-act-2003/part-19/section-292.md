@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 292. Warrant to enter premises for purposes of taking patient[^key-075caa11ca1b0db0342c20928415fbe2]
+## 292. Warrant to enter premises for purposes of taking patient[^c-075caa11ca1b0db0342c20928415fbe2]
 
 *Extent: S*
 
@@ -34,10 +34,10 @@ summary: ''
 - (a) authorising—
   - (i) the authorised person;
   - (ii) any mental health officer appointed by the local authority for the area in which the premises are situated; and
-  - (iiia)[^key-1158cf9c5d7b92ef8fb94daa876110bf] any constable of the Police Service of Scotland,
+  - (iiia)[^c-1158cf9c5d7b92ef8fb94daa876110bf] any constable of the Police Service of Scotland,
 
   to enter the premises specified in the warrant; and
-- (b) authorising any constable of the Police Service of Scotland[^key-203ee1cd451aa00dd0fd537e9fa4fef2], for the purpose of exercising the power mentioned in paragraph (a) above, to open lockfast places on premises so specified.
+- (b) authorising any constable of the Police Service of Scotland[^c-203ee1cd451aa00dd0fd537e9fa4fef2], for the purpose of exercising the power mentioned in paragraph (a) above, to open lockfast places on premises so specified.
 
 (4) In the execution of a warrant granted under subsection (1) above, the persons authorised for the purpose of subsection (3)(a) above may be accompanied by—
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-075caa11ca1b0db0342c20928415fbe2]: Commencement: S. 292 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-075caa11ca1b0db0342c20928415fbe2]: Commencement: S. 292 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-1158cf9c5d7b92ef8fb94daa876110bf]: Textual amendment: [S. 292(3)(a)](https://www.legislation.gov.uk/asp/2003/13/section/292/3/a)[(iiia)](https://www.legislation.gov.uk/asp/2003/13/section/292/3/iiia) substituted for s. 292(3)(a)(iii) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(5)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/5/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1158cf9c5d7b92ef8fb94daa876110bf]: Textual amendment: [S. 292(3)(a)](https://www.legislation.gov.uk/asp/2003/13/section/292/3/a)[(iiia)](https://www.legislation.gov.uk/asp/2003/13/section/292/3/iiia) substituted for s. 292(3)(a)(iii) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(5)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/5/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-203ee1cd451aa00dd0fd537e9fa4fef2]: Textual amendment: Words in [s. 292(3)(b)](https://www.legislation.gov.uk/asp/2003/13/section/292/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(5)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/5/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-203ee1cd451aa00dd0fd537e9fa4fef2]: Textual amendment: Words in [s. 292(3)(b)](https://www.legislation.gov.uk/asp/2003/13/section/292/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(5)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/5/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

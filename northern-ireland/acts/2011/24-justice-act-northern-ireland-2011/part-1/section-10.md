@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Evidence by live link: presence of supporter[^key-6d67d8467f3819c3738a240b0dae0d56]
+## 10. Evidence by live link: presence of supporter[^c-6d67d8467f3819c3738a240b0dae0d56]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d67d8467f3819c3738a240b0dae0d56]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/24/section/10) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
+[^c-6d67d8467f3819c3738a240b0dae0d56]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/24/section/10) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)

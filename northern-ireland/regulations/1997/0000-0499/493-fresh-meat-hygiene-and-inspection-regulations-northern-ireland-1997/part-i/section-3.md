@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Exemptions[^key-62c6742655b5c7d124cdc64f9f63fb65]
+## 3. Exemptions[^c-62c6742655b5c7d124cdc64f9f63fb65]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ These Regulations shall not apply—
 
 ## Annotations
 
-[^key-62c6742655b5c7d124cdc64f9f63fb65]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-62c6742655b5c7d124cdc64f9f63fb65]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Temporary use of land for carrying out the authorised development[^key-4e86565c71b6b44426a547a2c0b4c43d]
+## 33. Temporary use of land for carrying out the authorised development[^c-4e86565c71b6b44426a547a2c0b4c43d]
 
 *Extent: E+W+S*
 
@@ -42,8 +42,8 @@ summary: ''
 - (b) restore the land on which any permanent works have been constructed under paragraph (1)(d);
 - (c) remove any ground strengthening works which have been placed on the land to facilitate construction of the authorised development;
 - (d) remove any measures installed over or around statutory undertakers’ apparatus to protect that apparatus from the authorised development; or
-- (e) remove or reposition any apparatus installed for or belonging to statutory undertakers ; or[^key-3c291416497e2a537befd2da66dcf44c] [^key-2dd2044d0d3875a06bcadf69246e2995]...
-- (f)[^key-36ecb9582f023afdc3b12d024988c27c] remove or reposition any necessary mitigation works.
+- (e) remove or reposition any apparatus installed for or belonging to statutory undertakers ; or[^c-3c291416497e2a537befd2da66dcf44c] [^c-2dd2044d0d3875a06bcadf69246e2995]...
+- (f)[^c-36ecb9582f023afdc3b12d024988c27c] remove or reposition any necessary mitigation works.
 
 (5) The undertaker must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the provisions of this article.
 
@@ -61,12 +61,12 @@ summary: ''
 
 ## Annotations
 
-[^key-4e86565c71b6b44426a547a2c0b4c43d]: Commencement: Art. 33 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-4e86565c71b6b44426a547a2c0b4c43d]: Commencement: Art. 33 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
-[^key-3c291416497e2a537befd2da66dcf44c]: Textual amendment: Word in [art. 33(4)(e)](https://www.legislation.gov.uk/uksi/2022/911/article/33/4/e) inserted (11.10.2023) by [The A47 North Tuddenham to Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
+[^c-3c291416497e2a537befd2da66dcf44c]: Textual amendment: Word in [art. 33(4)(e)](https://www.legislation.gov.uk/uksi/2022/911/article/33/4/e) inserted (11.10.2023) by [The A47 North Tuddenham to Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
 
-[^key-2dd2044d0d3875a06bcadf69246e2995]: Textual amendment: Words in [art. 33(4)(e)](https://www.legislation.gov.uk/uksi/2022/911/article/33/4/e) omitted (11.10.2023) by virtue of [The A47 North Tuddenham to Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
+[^c-2dd2044d0d3875a06bcadf69246e2995]: Textual amendment: Words in [art. 33(4)(e)](https://www.legislation.gov.uk/uksi/2022/911/article/33/4/e) omitted (11.10.2023) by virtue of [The A47 North Tuddenham to Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
 
-[^key-36ecb9582f023afdc3b12d024988c27c]: Textual amendment: [Art. 33(4)(f)](https://www.legislation.gov.uk/uksi/2022/911/article/33/4/f) inserted (11.10.2023) by [The A47 North Tuddenham to Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
+[^c-36ecb9582f023afdc3b12d024988c27c]: Textual amendment: [Art. 33(4)(f)](https://www.legislation.gov.uk/uksi/2022/911/article/33/4/f) inserted (11.10.2023) by [The A47 North Tuddenham to Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
 
 [^f00071]: Footnote: Section 13 was amended by sections 62(3) and 139 of, and paragraphs 27 and 28 of Schedule 13, and Part 3 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

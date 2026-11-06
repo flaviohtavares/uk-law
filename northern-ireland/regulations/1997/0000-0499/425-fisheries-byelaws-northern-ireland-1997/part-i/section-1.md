@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-3d1b5e82fafcc8a04578cc64ce1b7667]
+## 1. Citation and commencement[^c-3d1b5e82fafcc8a04578cc64ce1b7667]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Byelaws may be cited as the Fisheries Byelaws (Northern Ireland) 1997 and 
 
 ## Annotations
 
-[^key-3d1b5e82fafcc8a04578cc64ce1b7667]: Commencement: S. 1 in operation at 1.11.1997, see byelaw 1
+[^c-3d1b5e82fafcc8a04578cc64ce1b7667]: Commencement: S. 1 in operation at 1.11.1997, see byelaw 1

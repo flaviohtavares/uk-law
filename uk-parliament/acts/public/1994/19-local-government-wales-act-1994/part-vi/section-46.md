@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Committees of existing councils for consideration of certain matters.[^key-9000411f1915805bfed846e182072792]
+## 46. Committees of existing councils for consideration of certain matters.[^c-9000411f1915805bfed846e182072792]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9000411f1915805bfed846e182072792]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1994/19/section/46) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/a)
+[^c-9000411f1915805bfed846e182072792]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1994/19/section/46) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/a)

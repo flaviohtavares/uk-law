@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Advice and assistance in relation to apprenticeships[^key-13297408875cf66ee2e67674d1da0c63]
+## 106. Advice and assistance in relation to apprenticeships[^c-13297408875cf66ee2e67674d1da0c63]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13297408875cf66ee2e67674d1da0c63]: Textual amendment: S. 106 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/18)
+[^c-13297408875cf66ee2e67674d1da0c63]: Textual amendment: S. 106 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/18)

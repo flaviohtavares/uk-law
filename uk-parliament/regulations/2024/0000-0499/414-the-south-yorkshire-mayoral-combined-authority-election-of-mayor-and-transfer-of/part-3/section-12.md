@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Modification to the Local Government Act 1972[^key-e7d0ad659d7f03e111b71d66097c3533]
+## 12. Modification to the Local Government Act 1972[^c-e7d0ad659d7f03e111b71d66097c3533]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d0ad659d7f03e111b71d66097c3533]: Commencement: Art. 12 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-e7d0ad659d7f03e111b71d66097c3533]: Commencement: Art. 12 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00020]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 86 was amended by paragraph 8 of Schedule 14 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and by section 59 of and paragraph 6(1) and (7)(d) of Schedule 13 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20). There are other amendments not relevant to this instrument.

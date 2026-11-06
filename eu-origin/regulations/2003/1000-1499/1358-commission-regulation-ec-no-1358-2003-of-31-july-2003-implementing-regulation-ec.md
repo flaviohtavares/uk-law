@@ -38,56 +38,56 @@ implementing Regulation (EC) No 437/2003 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-160f2dca4d60a0696a75ecc7f474a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — AIRPORT CATEGORIES...[^key-160f2dca4d60a0696a75ecc7f474a2b8]
+## ANNEX I — AIRPORT CATEGORIES...[^c-160f2dca4d60a0696a75ecc7f474a2b8]
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]I.
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]I.
 
 Airport categories and reference periods taken into account
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]...
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]...
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Annex 2 — DESCRIPTION OF THE DATA FILES AND TRANSMISSION MEDIUM[^key-160f2dca4d60a0696a75ecc7f474a2b8]
+## Annex 2 — DESCRIPTION OF THE DATA FILES AND TRANSMISSION MEDIUM[^c-160f2dca4d60a0696a75ecc7f474a2b8]
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Amendments to the Annexes of Regulation (EC) No 437/2003[^key-160f2dca4d60a0696a75ecc7f474a2b8]
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — Amendments to the Annexes of Regulation (EC) No 437/2003[^c-160f2dca4d60a0696a75ecc7f474a2b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-160f2dca4d60a0696a75ecc7f474a2b8]: Textual amendment: Regulation revoked (22.11.2023) by [The Aviation Statistics Regulations 2023 (S.I. 2023/1074)](https://www.legislation.gov.uk/uksi/2023/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/11/b)
+[^c-160f2dca4d60a0696a75ecc7f474a2b8]: Textual amendment: Regulation revoked (22.11.2023) by [The Aviation Statistics Regulations 2023 (S.I. 2023/1074)](https://www.legislation.gov.uk/uksi/2023/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/11/b)

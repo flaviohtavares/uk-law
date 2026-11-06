@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Obligation to report results of recyclability assessments[^key-ea9df4305a986beeb99ab400ce7f18af]
+## 37. Obligation to report results of recyclability assessments[^c-ea9df4305a986beeb99ab400ce7f18af]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea9df4305a986beeb99ab400ce7f18af]: Commencement: Reg. 37 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-ea9df4305a986beeb99ab400ce7f18af]: Commencement: Reg. 37 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -88,7 +88,7 @@ Section 38(1)
 
 *Extent: S*
 
-**8.**[^key-b6687c51532449a6a27c3b011efbd8ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b6687c51532449a6a27c3b011efbd8ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Highlands and Islands Air Services (Scotland) Act 1980 (c. 19.)
 
@@ -100,7 +100,7 @@ Section 38(1)
 
 ### Agricultural Training Board Act 1982 (c. 9.)
 
-**10.**[^key-d10f2240686fc094e1fb0ccd3904a108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d10f2240686fc094e1fb0ccd3904a108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Industrial Training Act 1982 (c. 10.)
 
@@ -139,7 +139,7 @@ Section 38(1)
 
 ### Income and Corporation Taxes Act 1988 (c. 1.)
 
-**15.**[^key-64ce3cb0de493aca712f4e2d987414bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-64ce3cb0de493aca712f4e2d987414bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment Act 1988 (c. 19.)
 
@@ -174,8 +174,8 @@ Section 38(1)
 
 [^c1031202]: Marginal citation: [1975 c. 69](https://www.legislation.gov.uk/ukpga/1975/69).
 
-[^key-b6687c51532449a6a27c3b011efbd8ce]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/8) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 5(3)](https://www.legislation.gov.uk/asp/2010/8/section/5/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-b6687c51532449a6a27c3b011efbd8ce]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/8) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 5(3)](https://www.legislation.gov.uk/asp/2010/8/section/5/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-d10f2240686fc094e1fb0ccd3904a108]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-d10f2240686fc094e1fb0ccd3904a108]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
-[^key-64ce3cb0de493aca712f4e2d987414bc]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/15) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-64ce3cb0de493aca712f4e2d987414bc]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/15) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

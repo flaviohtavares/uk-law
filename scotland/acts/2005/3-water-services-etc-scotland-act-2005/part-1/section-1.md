@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Water Industry Commission for Scotland[^key-afeb64672dde9378ec47ff544520719b]
+## 1. Water Industry Commission for Scotland[^c-afeb64672dde9378ec47ff544520719b]
 
 *Extent: S*
 
-(1)[^key-5f50f4a66d6791c1e1c8288c3ba426c6] For section 1 (Water Industry Commissioner for Scotland) of the 2002 Act there is substituted—
+(1)[^c-5f50f4a66d6791c1e1c8288c3ba426c6] For section 1 (Water Industry Commissioner for Scotland) of the 2002 Act there is substituted—
 
 > **1. Water Industry Commission for Scotland**
 >
@@ -58,12 +58,12 @@ summary: ''
 
 .
 
-(4)[^key-f58c5baad939406a79001c5f5921fa3d] Schedule 1 inserts schedule A1 into that Act.
+(4)[^c-f58c5baad939406a79001c5f5921fa3d] Schedule 1 inserts schedule A1 into that Act.
 
 ## Annotations
 
-[^key-afeb64672dde9378ec47ff544520719b]: Commencement: S. 1 in force at 1.7.2005 in so far as not already in force by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-afeb64672dde9378ec47ff544520719b]: Commencement: S. 1 in force at 1.7.2005 in so far as not already in force by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
 
-[^key-5f50f4a66d6791c1e1c8288c3ba426c6]: Commencement: S. 1(1) in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-5f50f4a66d6791c1e1c8288c3ba426c6]: Commencement: S. 1(1) in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
 
-[^key-f58c5baad939406a79001c5f5921fa3d]: Commencement: S. 1(4) in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-f58c5baad939406a79001c5f5921fa3d]: Commencement: S. 1(4) in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

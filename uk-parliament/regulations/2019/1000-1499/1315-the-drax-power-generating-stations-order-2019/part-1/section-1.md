@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-9f111177beeed57dccfe998b386e7907]
+## 1. Citation and commencement[^c-9f111177beeed57dccfe998b386e7907]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Drax Power (Generating Stations) Order 2019 and c
 
 ## Annotations
 
-[^key-9f111177beeed57dccfe998b386e7907]: Commencement: Art. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-9f111177beeed57dccfe998b386e7907]: Commencement: Art. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

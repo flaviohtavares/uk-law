@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Interdicts having effect in more than one sheriffdom[^key-db588a5bae997c07d41d5217a5419f7d]
+## 84. Interdicts having effect in more than one sheriffdom[^c-db588a5bae997c07d41d5217a5419f7d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db588a5bae997c07d41d5217a5419f7d]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/18/section/84) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-db588a5bae997c07d41d5217a5419f7d]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/18/section/84) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

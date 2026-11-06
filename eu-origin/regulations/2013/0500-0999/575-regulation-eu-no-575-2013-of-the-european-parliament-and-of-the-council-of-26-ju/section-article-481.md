@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 481. Additional filters and deductions[^key-456ef9bedffc768fce50ac05a28dfbc6]
+## Article 481. Additional filters and deductions[^c-456ef9bedffc768fce50ac05a28dfbc6]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-456ef9bedffc768fce50ac05a28dfbc6]: Textual amendment: [Art. 481](https://www.legislation.gov.uk/eur/2013/575/article/481) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(53)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/53)
+[^c-456ef9bedffc768fce50ac05a28dfbc6]: Textual amendment: [Art. 481](https://www.legislation.gov.uk/eur/2013/575/article/481) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(53)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/53)

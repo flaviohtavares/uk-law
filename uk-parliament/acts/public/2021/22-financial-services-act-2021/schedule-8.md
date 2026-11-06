@@ -62,7 +62,7 @@ Section 22
 >
 > (4) In this section, “**branch**” has the same meaning as in Schedule 2A (see paragraph 3 of that Schedule).
 
-**5.**[^key-784fe5b780a65b16b732f0c253a9189a] After section 137A insert—
+**5.**[^c-784fe5b780a65b16b732f0c253a9189a] After section 137A insert—
 
 > **137AA. The FCA's general rules: Gibraltar**
 >
@@ -74,7 +74,7 @@ Section 22
 >
 > (4) Before making regulations under subsection (3), the Treasury must consult the FCA.
 
-**6.**[^key-ddc1e4752ef0fbf988461b4baa588029] After section 137G insert—
+**6.**[^c-ddc1e4752ef0fbf988461b4baa588029] After section 137G insert—
 
 > **137GA. The PRA's general rules: Gibraltar**
 >
@@ -84,7 +84,7 @@ Section 22
 >
 > (3) Before making regulations under subsection (2), the Treasury must consult the PRA.
 
-**7.**[^key-3d9915324068a76abede705a4754a2d4] In section 213 (the compensation scheme), after subsection (9) insert—
+**7.**[^c-3d9915324068a76abede705a4754a2d4] In section 213 (the compensation scheme), after subsection (9) insert—
 
 > (10A) But a person is not to be regarded as a relevant person in relation to a regulated activity if, at that time, the person—
 >
@@ -102,7 +102,7 @@ Section 22
 
 > (5A) The scheme may make different provision according to whether or not a relevant person is a member of both the compensation scheme and another comparable scheme.
 
-**9.**[^key-6cb8e01b98a2dc4a7aa7cde2365daa92] In section 224 (scheme manager's power to inspect documents held by Official Receiver etc), before subsection (4A) insert—
+**9.**[^c-6cb8e01b98a2dc4a7aa7cde2365daa92] In section 224 (scheme manager's power to inspect documents held by Official Receiver etc), before subsection (4A) insert—
 
 > (4ZA) But a person is not to be regarded as a relevant person in relation to a regulated activity if, at that time, the person—
 >
@@ -162,7 +162,7 @@ Section 22
 
 **13.** Omit section 409 (Gibraltar).
 
-**14.**[^key-f14c1ed9a8f4424a6b22fc6c68cfa5c4] In section 417(1) (definitions), at the appropriate places insert—
+**14.**[^c-f14c1ed9a8f4424a6b22fc6c68cfa5c4] In section 417(1) (definitions), at the appropriate places insert—
 
 > “**Gibraltar-based person**” has the meaning given in paragraph 1 of Schedule 2A (read with Part 14 of that Schedule);
 
@@ -185,7 +185,7 @@ Section 22
 > - (a) the person's head office or registered office is in the United Kingdom, and
 > - (b) the person is carrying on a restricted activity (as defined in paragraph 3 of Schedule 2B) in Gibraltar.
 
-**16.**[^key-b43d0fdc7a779cd33ca21291abcf4807] (1) Section 429 (parliamentary control of statutory instruments) is amended as follows.
+**16.**[^c-b43d0fdc7a779cd33ca21291abcf4807] (1) Section 429 (parliamentary control of statutory instruments) is amended as follows.
 
 (2) In subsection (2) (affirmative procedure)—
 
@@ -218,7 +218,7 @@ Section 22
 
 **19.** The Financial Services and Markets Act 2000 (Gibraltar) Order 2001 is revoked.
 
-### Subsidy Control Act 2022[^key-5fc49b6914bc1c05f1abce386641e270]
+### Subsidy Control Act 2022[^c-5fc49b6914bc1c05f1abce386641e270]
 
 **20.** (1) The Subsidy Control Act 2022 is amended as follows.
 
@@ -230,16 +230,16 @@ Section 22
 
 ## Annotations
 
-[^key-784fe5b780a65b16b732f0c253a9189a]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/5) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/i)
+[^c-784fe5b780a65b16b732f0c253a9189a]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/5) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/i)
 
-[^key-ddc1e4752ef0fbf988461b4baa588029]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/6) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/ii)
+[^c-ddc1e4752ef0fbf988461b4baa588029]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/6) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/ii)
 
-[^key-3d9915324068a76abede705a4754a2d4]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/7) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/iii)
+[^c-3d9915324068a76abede705a4754a2d4]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/7) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/iii)
 
-[^key-6cb8e01b98a2dc4a7aa7cde2365daa92]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/9) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/iv)
+[^c-6cb8e01b98a2dc4a7aa7cde2365daa92]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/9) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/iv)
 
-[^key-f14c1ed9a8f4424a6b22fc6c68cfa5c4]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/14) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/v)
+[^c-f14c1ed9a8f4424a6b22fc6c68cfa5c4]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/14) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/v)
 
-[^key-b43d0fdc7a779cd33ca21291abcf4807]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/16) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/vi)
+[^c-b43d0fdc7a779cd33ca21291abcf4807]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/16) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b/vi)
 
-[^key-5fc49b6914bc1c05f1abce386641e270]: Textual amendment: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/20) inserted (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 83](https://www.legislation.gov.uk/ukpga/2022/23/section/83), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-5fc49b6914bc1c05f1abce386641e270]: Textual amendment: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2021/22/schedule/8/paragraph/20) inserted (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 83](https://www.legislation.gov.uk/ukpga/2022/23/section/83), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

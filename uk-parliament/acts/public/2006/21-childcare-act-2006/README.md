@@ -34,7 +34,7 @@ An Act to make provision about the powers and duties of local authorities and ot
 
 \[11th July 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e14cd79004c0999dfe82f0954af9ab83]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e14cd79004c0999dfe82f0954af9ab83]
 
 ## Contents
 
@@ -48,7 +48,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 4 — Duty of local authority and relevant partners to work together](part-1/section-4.md)
 - [Section 5 — Power to amend sections 2 and 4](part-1/section-5.md)
 
-#### Children's centres[^key-818f519d5a2122e962d56a0e1ac06762]
+#### Children's centres[^c-818f519d5a2122e962d56a0e1ac06762]
 
 - [Section 5A — Arrangements for provision of children's centres](part-1/section-5a.md)
 - [Section 5B — Children's centres: staffing, organisation and operation](part-1/section-5b.md)
@@ -161,20 +161,20 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 51 — Interpretation of Chapter 2](part-3/section-51.md)
 
-#### CHAPTER 2A — Regulation of early years childminder agencies[^key-ba9f5b2baa9bc3e018b82bc6cf726506]
+#### CHAPTER 2A — Regulation of early years childminder agencies[^c-ba9f5b2baa9bc3e018b82bc6cf726506]
 
-##### Process of registration[^key-ba9f5b2baa9bc3e018b82bc6cf726506]
+##### Process of registration[^c-ba9f5b2baa9bc3e018b82bc6cf726506]
 
 - [Section 51A — Applications for registration](part-3/section-51a.md)
 - [Section 51B — Entry on the register and certificates](part-3/section-51b.md)
 - [Section 51C — Conditions on registration](part-3/section-51c.md)
 
-##### Inspections[^key-ba9f5b2baa9bc3e018b82bc6cf726506]
+##### Inspections[^c-ba9f5b2baa9bc3e018b82bc6cf726506]
 
 - [Section 51D — Inspections of early years childminder agencies](part-3/section-51d.md)
 - [Section 51E — Reports of inspections](part-3/section-51e.md)
 
-##### False representations[^key-ba9f5b2baa9bc3e018b82bc6cf726506]
+##### False representations[^c-ba9f5b2baa9bc3e018b82bc6cf726506]
 
 - [Section 51F — False representations](part-3/section-51f.md)
 
@@ -204,21 +204,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 60 — Inspections](part-3/section-60.md)
 - [Section 61 — Report of inspections](part-3/section-61.md)
 
-#### CHAPTER 3A — Regulation of later years childminder agencies[^key-574afba809940eda0813ece88e21a41b]
+#### CHAPTER 3A — Regulation of later years childminder agencies[^c-574afba809940eda0813ece88e21a41b]
 
-##### Process of registration[^key-574afba809940eda0813ece88e21a41b]
+##### Process of registration[^c-574afba809940eda0813ece88e21a41b]
 
 - [Section 61A — Applications for registration](part-3/section-61a.md)
 - [Section 61B — Entry on the register and certificates](part-3/section-61b.md)
 - [Section 61C — Special procedure for registered early years childminder agencies](part-3/section-61c.md)
 - [Section 61D — Conditions on registration](part-3/section-61d.md)
 
-##### Inspections[^key-574afba809940eda0813ece88e21a41b]
+##### Inspections[^c-574afba809940eda0813ece88e21a41b]
 
 - [Section 61E — Inspections of later years childminder agencies](part-3/section-61e.md)
 - [Section 61F — Reports of inspections](part-3/section-61f.md)
 
-##### False representations[^key-574afba809940eda0813ece88e21a41b]
+##### False representations[^c-574afba809940eda0813ece88e21a41b]
 
 - [Section 61G — False representations](part-3/section-61g.md)
 
@@ -231,7 +231,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 64 — Entry on the register and certificates](part-3/section-64.md)
 - [Section 65 — Special procedure for persons already registered in a childcare register](part-3/section-65.md)
 
-##### Voluntary registration of persons registered with childminder agencies[^key-db00f36383f6473fee16fa24d520ecfe]
+##### Voluntary registration of persons registered with childminder agencies[^c-db00f36383f6473fee16fa24d520ecfe]
 
 - [Section 65A — Procedure for persons already registered with a childminder agency](part-3/section-65a.md)
 
@@ -264,14 +264,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 73 — Procedure for taking certain steps](part-3/section-73.md)
 - [Section 74 — Appeals relating to registration in a childcare register](part-3/section-74.md)
 
-##### Disqualification from registration : early years and later years providers[^key-88858e96714a5b047955e8d1ebe35aca]
+##### Disqualification from registration : early years and later years providers[^c-88858e96714a5b047955e8d1ebe35aca]
 
 *Extent: E+W*
 
 - [Section 75 — Disqualification from registration: early years and later years providers](part-3/section-75.md)
 - [Section 76 — Consequences of disqualification : early years and later years providers](part-3/section-76.md)
 
-##### Disqualification from registration: childminder agencies[^key-17a1ae49fa20ab3d7286e0e3b3770822]
+##### Disqualification from registration: childminder agencies[^c-17a1ae49fa20ab3d7286e0e3b3770822]
 
 *Extent: E+W*
 
@@ -324,7 +324,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 97 — Employees not to be regarded as providing childcare](part-3/section-97.md)
 - [Section 98 — Interpretation of Part 3](part-3/section-98.md)
 
-### Part 3A — Inspection of children's centres[^key-5d7282497b1b5c4b9f439be03c111e43]
+### Part 3A — Inspection of children's centres[^c-5d7282497b1b5c4b9f439be03c111e43]
 
 - [Section 98A — Inspections](part-3a/section-98a.md)
 - [Section 98B — Reports](part-3a/section-98b.md)
@@ -366,18 +366,18 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e14cd79004c0999dfe82f0954af9ab83]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/21) power to amend repealed or modify conferred (conditional) (13.3.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 137(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/137/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/137/5)[139(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/1)
+[^c-e14cd79004c0999dfe82f0954af9ab83]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/21) power to amend repealed or modify conferred (conditional) (13.3.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 137(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/137/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/137/5)[139(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/1)
 
-[^key-818f519d5a2122e962d56a0e1ac06762]: Textual amendment: Ss. 5A-5G and cross-heading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 198](https://www.legislation.gov.uk/ukpga/2009/22/section/198), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
+[^c-818f519d5a2122e962d56a0e1ac06762]: Textual amendment: Ss. 5A-5G and cross-heading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 198](https://www.legislation.gov.uk/ukpga/2009/22/section/198), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
 
-[^key-ba9f5b2baa9bc3e018b82bc6cf726506]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2006/21/part/3/chapter/2A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/13); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-ba9f5b2baa9bc3e018b82bc6cf726506]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2006/21/part/3/chapter/2A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/13); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-574afba809940eda0813ece88e21a41b]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/ukpga/2006/21/part/3/chapter/3A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/26); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-574afba809940eda0813ece88e21a41b]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/ukpga/2006/21/part/3/chapter/3A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/26); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-db00f36383f6473fee16fa24d520ecfe]: Textual amendment: S. 65A and cross-heading inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/29); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-db00f36383f6473fee16fa24d520ecfe]: Textual amendment: S. 65A and cross-heading inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/29); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-88858e96714a5b047955e8d1ebe35aca]: Textual amendment: Words in Pt. 3 Ch. 5(crossheading)(disqualification)(from)(registration) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 43](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/43); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-88858e96714a5b047955e8d1ebe35aca]: Textual amendment: Words in Pt. 3 Ch. 5(crossheading)(disqualification)(from)(registration) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 43](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/43); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-17a1ae49fa20ab3d7286e0e3b3770822]: Textual amendment: [Ss. 76A](https://www.legislation.gov.uk/ukpga/2006/21/section/76A), [76B](https://www.legislation.gov.uk/ukpga/2006/21/section/76B) and cross-heading inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/46); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-17a1ae49fa20ab3d7286e0e3b3770822]: Textual amendment: [Ss. 76A](https://www.legislation.gov.uk/ukpga/2006/21/section/76A), [76B](https://www.legislation.gov.uk/ukpga/2006/21/section/76B) and cross-heading inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/46); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-5d7282497b1b5c4b9f439be03c111e43]: Textual amendment: Pt. 3A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) , [ss. 199](https://www.legislation.gov.uk/ukpga/2009/22/section/199) , [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
+[^c-5d7282497b1b5c4b9f439be03c111e43]: Textual amendment: Pt. 3A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) , [ss. 199](https://www.legislation.gov.uk/ukpga/2009/22/section/199) , [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)

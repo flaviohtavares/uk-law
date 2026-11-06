@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Power to require identification of operator[^key-de07ddca8aaddc923ef057be7f70e9d9]
+## 104. Power to require identification of operator[^c-de07ddca8aaddc923ef057be7f70e9d9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de07ddca8aaddc923ef057be7f70e9d9]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2008/5/section/104) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-de07ddca8aaddc923ef057be7f70e9d9]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2008/5/section/104) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

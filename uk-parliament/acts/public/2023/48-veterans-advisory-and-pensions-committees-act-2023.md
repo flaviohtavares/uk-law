@@ -35,7 +35,7 @@ An Act to make provision about veterans advisory and pensions committees; and fo
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Veterans advisory and pensions committees[^key-1314e8fdacd39c2e09036dfd08a132bb]
+## 1. Veterans advisory and pensions committees[^c-1314e8fdacd39c2e09036dfd08a132bb]
 
 **Not yet in force.**
 
@@ -90,7 +90,7 @@ After Part 16A of the Armed Forces Act 2006 (armed forces covenant report) inser
 >   but does not include any pension or benefit administered by the Defence Council or the Commissioners for the Royal Hospital for Soldiers at Chelsea, or any pension or benefit administered by the Secretary of State for Defence (except one administered by the Secretary of State in the exercise of functions transferred to the Secretary of State from the Secretary of State for Work and Pensions);
 > - “**war pensioner**” means a person in receipt of a war pension, in the person’s capacity as such.
 
-## 2. Consequential provision[^key-605e93e220fe649fc054772336c2e1c2]
+## 2. Consequential provision[^c-605e93e220fe649fc054772336c2e1c2]
 
 (1) In consequence of section 1—
 
@@ -110,11 +110,11 @@ After Part 16A of the Armed Forces Act 2006 (armed forces covenant report) inser
 - (k) in section 2 of the Digital Switchover (Disclosure of Information) Act 2007 (kinds of information), in subsection (3), for “section 25(4) of the Social Security Act [1989 (c 24)](https://www.legislation.gov.uk/ukpga/1989/24)” substitute “section 343C(6) of the Armed Forces Act 2006”;
 - (l) in paragraph 2(1) of Schedule 3 to the Data Protection Act 2018 (health data), in the definition of “war pension”, for “section 25 of the Social Security Act 1989 (establishment and functions of war pensions committees)” substitute “section 343C of the Armed Forces Act 2006 (establishment and functions of veterans advisory and pensions committees)”.
 
-(2)[^key-605e93e220fe649fc054772336c2e1c2] The Secretary of State may by regulations made by statutory instrument make such provision as the Secretary of State considers appropriate in consequence of this Act.
+(2)[^c-605e93e220fe649fc054772336c2e1c2] The Secretary of State may by regulations made by statutory instrument make such provision as the Secretary of State considers appropriate in consequence of this Act.
 
-(3)[^key-605e93e220fe649fc054772336c2e1c2] A statutory instrument containing regulations made under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+(3)[^c-605e93e220fe649fc054772336c2e1c2] A statutory instrument containing regulations made under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 3. Extent, commencement, transitional provision and short title[^key-2ab91e04d5202759977fb7aa280ad654]
+## 3. Extent, commencement, transitional provision and short title[^c-2ab91e04d5202759977fb7aa280ad654]
 
 (1) Subject to subsection (2), this Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -130,8 +130,8 @@ After Part 16A of the Armed Forces Act 2006 (armed forces covenant report) inser
 
 ## Annotations
 
-[^key-1314e8fdacd39c2e09036dfd08a132bb]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/48/section/3/3)
+[^c-1314e8fdacd39c2e09036dfd08a132bb]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/48/section/3/3)
 
-[^key-605e93e220fe649fc054772336c2e1c2]: Commencement: S. 2(2)(3) in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/48/section/3/4)
+[^c-605e93e220fe649fc054772336c2e1c2]: Commencement: S. 2(2)(3) in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/48/section/3/4)
 
-[^key-2ab91e04d5202759977fb7aa280ad654]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/48/section/3/4)
+[^c-2ab91e04d5202759977fb7aa280ad654]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/48/section/3/4)

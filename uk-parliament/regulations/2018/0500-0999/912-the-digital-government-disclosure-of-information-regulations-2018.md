@@ -46,7 +46,7 @@ The Minister for the Cabinet Office has consulted the Information Commissioner, 
 
 In accordance with section 44(7) of the Digital Economy Act 2017, a draft of these Regulations was laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement, interpretation and extent[^key-49a0def144075327a29ff8af77f91414]
+## 1. Citation, commencement, interpretation and extent[^c-49a0def144075327a29ff8af77f91414]
 
 (1) These Regulations may be cited as the Digital Government (Disclosure of Information) Regulations 2018 and come into force on the day after the day on which they are made.
 
@@ -54,11 +54,11 @@ In accordance with section 44(7) of the Digital Economy Act 2017, a draft of the
 
 (3) These Regulations do not extend to Northern Ireland.
 
-## 2. Specified objectives for the disclosure of information in relation to public service delivery[^key-69ad9c3d4f4b73115b818c93345af42e]
+## 2. Specified objectives for the disclosure of information in relation to public service delivery[^c-69ad9c3d4f4b73115b818c93345af42e]
 
 The Schedule specifies objectives, and specified persons in relation to those objectives, for the purposes of section 35(7) of the Act.
 
-## 3. Amendment to section 36 of the Act (disclosure of information to gas and electricity suppliers etc)[^key-cabad1ae59ef3c33088b1cbc7cd19c55]
+## 3. Amendment to section 36 of the Act (disclosure of information to gas and electricity suppliers etc)[^c-cabad1ae59ef3c33088b1cbc7cd19c55]
 
 (1) Section 36 of the Act (disclosure of information to gas and electricity suppliers etc) is amended as follows.
 
@@ -104,15 +104,15 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 2
 
-### 1. Specified objectives in relation to a specified person[^key-e1bf88b3f23754e71c99907ead9c6963]
+### 1. Specified objectives in relation to a specified person[^c-e1bf88b3f23754e71c99907ead9c6963]
 
 (1) The specified objectives are—
 
 - (a) the multiple disadvantages objective;
 - (b) the television retuning objective;
-- (c) the fuel poverty objective; [^key-51537479e38092a4013f2628e42870dc]...
-- (d) the water poverty objective ; and[^key-60d7ca743f747db1234679a249122506]
-- (e)[^key-c5fb5b57255864a09e0030082732dc4f] the Scottish early learning and childcare objective.
+- (c) the fuel poverty objective; [^c-51537479e38092a4013f2628e42870dc]...
+- (d) the water poverty objective ; and[^c-60d7ca743f747db1234679a249122506]
+- (e)[^c-c5fb5b57255864a09e0030082732dc4f] the Scottish early learning and childcare objective.
 
 (2) In relation to each specified objective, the following are the specified persons—
 
@@ -123,16 +123,16 @@ Regulation 2
   - (i) the persons specified at paragraphs 2, 7, 11 to 17, 29 to 34, 47 and 50 of Schedule 4 to the Act, and
   - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
 - (c) for the fuel poverty objective—
-  - (i) the persons specified at paragraphs 6 to 8, 9A, 9B,[^key-dd7f6b12709f339caede31999a364731] 10 to 21, 26 to 27, 29 to 34, 40, 42 to 47 and 49 to 50 of Schedule 4 to the Act, and
+  - (i) the persons specified at paragraphs 6 to 8, 9A, 9B,[^c-dd7f6b12709f339caede31999a364731] 10 to 21, 26 to 27, 29 to 34, 40, 42 to 47 and 49 to 50 of Schedule 4 to the Act, and
   - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
 - (d) for the water poverty objective—
   - (i) the persons specified at paragraphs 7 to 8, 10 to 17, 27, 29 to 34 and 42 to 47 of Schedule 4 to the Act, and
   - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
-- (e)[^key-94c12cd04982365a966cb8a419a764f0] for the Scottish early learning and childcare objective—
+- (e)[^c-94c12cd04982365a966cb8a419a764f0] for the Scottish early learning and childcare objective—
   - (i) the persons specified at paragraphs 7, 10, 49 and 50 of Schedule 4 to the Act, and
   - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i).
 
-### 2. Multiple disadvantages objective[^key-9c4e48ddbdddb78b7b1259dba4c91e3e]
+### 2. Multiple disadvantages objective[^c-9c4e48ddbdddb78b7b1259dba4c91e3e]
 
 (1) In paragraph 1(1)(a) the multiple disadvantages objective is to provide assistance to individuals or households who are affected by multiple disadvantages by—
 
@@ -193,7 +193,7 @@ Regulation 2
 
 (6) Sub-paragraph (3)(k) applies only to persons who are aged at least 16 years but less than 25 years old.
 
-### 3. Television retuning objective[^key-b745de1f190c04599466150e968a6cc3]
+### 3. Television retuning objective[^c-b745de1f190c04599466150e968a6cc3]
 
 (1) In paragraph 1(1)(b) the television retuning objective is to provide assistance to an individual or a household under a relevant scheme by—
 
@@ -206,7 +206,7 @@ Regulation 2
 - (a) “**relevant scheme**” means a scheme set up to assist in the retuning of television receivers pursuant to a change in the use of any part of the electromagnetic spectrum between 470 and 790 MHz;
 - (b) “**television receiver**” has the meaning given in regulation 9 of the Communications (Television Licensing) Regulations 2004[^f00016].
 
-### 4. Fuel poverty objective[^key-dec346275c85497c7ae00bc21e1b4409]
+### 4. Fuel poverty objective[^c-dec346275c85497c7ae00bc21e1b4409]
 
 In paragraph 1(1)(c) the fuel poverty objective is to provide assistance to people living in fuel poverty by—
 
@@ -214,7 +214,7 @@ In paragraph 1(1)(c) the fuel poverty objective is to provide assistance to peop
 - (b) improving efficiency in their use of energy; or
 - (c) improving their health or financial well-being.
 
-### 5. Water poverty objective[^key-1c03272d745fe155b507d8aac0afd63e]
+### 5. Water poverty objective[^c-1c03272d745fe155b507d8aac0afd63e]
 
 In paragraph 1(1)(d) the water poverty objective is to provide assistance to people living in water poverty by—
 
@@ -222,7 +222,7 @@ In paragraph 1(1)(d) the water poverty objective is to provide assistance to peo
 - (b) improving efficiency in their use of water; or
 - (c) improving their health or financial well-being.
 
-### 6. Scottish early learning and childcare objective[^key-fe2abe196b90a51f2a1389237459b718]
+### 6. Scottish early learning and childcare objective[^c-fe2abe196b90a51f2a1389237459b718]
 
 (1) In paragraph 1(1)(e) the Scottish early learning and childcare objective is to—
 
@@ -254,31 +254,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30). Consent of the Treasury is required by section 44(6).
 
-[^key-49a0def144075327a29ff8af77f91414]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/912/regulation/1) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-49a0def144075327a29ff8af77f91414]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/912/regulation/1) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
-[^key-69ad9c3d4f4b73115b818c93345af42e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/912/regulation/2) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-69ad9c3d4f4b73115b818c93345af42e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/912/regulation/2) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
-[^key-cabad1ae59ef3c33088b1cbc7cd19c55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/912/regulation/3) in force at 19.7.2018 in accordance with[reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-cabad1ae59ef3c33088b1cbc7cd19c55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/912/regulation/3) in force at 19.7.2018 in accordance with[reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 23 was substituted by Schedule 3 paragraph 21 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and was amended by section 3 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). Other amendments have been made which are not relevant to this instrument.
 
 [^f00003]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 11A was inserted by section 35 of the Utilities Act 2000, and was amended by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). Other amendments have been made which are not relevant to this instrument.
 
-[^key-e1bf88b3f23754e71c99907ead9c6963]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-e1bf88b3f23754e71c99907ead9c6963]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
-[^key-51537479e38092a4013f2628e42870dc]: Textual amendment: Word in [Sch. para. 1(1)(c)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/c) omitted (27.10.2022) by virtue of [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/a)
+[^c-51537479e38092a4013f2628e42870dc]: Textual amendment: Word in [Sch. para. 1(1)(c)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/c) omitted (27.10.2022) by virtue of [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/a)
 
-[^key-60d7ca743f747db1234679a249122506]: Textual amendment: Word in [Sch. para. 1(1)(d)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/d) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/b)
+[^c-60d7ca743f747db1234679a249122506]: Textual amendment: Word in [Sch. para. 1(1)(d)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/d) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/b)
 
-[^key-c5fb5b57255864a09e0030082732dc4f]: Textual amendment: [Sch. para. 1(1)(e)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/e) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/c)
+[^c-c5fb5b57255864a09e0030082732dc4f]: Textual amendment: [Sch. para. 1(1)(e)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/e) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/c)
 
 [^f00004]: Footnote: Paragraphs 28 to 48 of Schedule 4 were inserted by the Digital Government (Welsh Bodies) (Wales) Regulations 2018 ([S.I. 2018/551 (W. 93)](https://www.legislation.gov.uk/wsi/2018/551) and paragraphs 49 to 52 were inserted by the Digital Government (Scottish Bodies) Regulations 2018 ([S.S.I. 2018/243](https://www.legislation.gov.uk/ssi/2018/243)).
 
-[^key-dd7f6b12709f339caede31999a364731]: Textual amendment: Words in [Sch. para. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/2/c/i) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/3/2)
+[^c-dd7f6b12709f339caede31999a364731]: Textual amendment: Words in [Sch. para. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/2/c/i) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/3/2)
 
-[^key-94c12cd04982365a966cb8a419a764f0]: Textual amendment: [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/2/e) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/3)
+[^c-94c12cd04982365a966cb8a419a764f0]: Textual amendment: [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/2/e) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/3)
 
-[^key-9c4e48ddbdddb78b7b1259dba4c91e3e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/2) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-9c4e48ddbdddb78b7b1259dba4c91e3e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/2) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
 [^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Paragraph 19B of Schedule 2 was inserted by section 1 of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), and was amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
 
@@ -302,12 +302,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00015]: Footnote: [2014 anaw/dccc 7](https://www.legislation.gov.uk/anaw/2014/7).
 
-[^key-b745de1f190c04599466150e968a6cc3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/3) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-b745de1f190c04599466150e968a6cc3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/3) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2004/692](https://www.legislation.gov.uk/uksi/2004/692). Regulation 9 was amended by regulation 7(b) and (c) of [S.I. 2007/718](https://www.legislation.gov.uk/uksi/2007/718) and regulation 6 of [S.I. 2016/704](https://www.legislation.gov.uk/uksi/2016/704).
 
-[^key-dec346275c85497c7ae00bc21e1b4409]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/4) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-dec346275c85497c7ae00bc21e1b4409]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/4) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
-[^key-1c03272d745fe155b507d8aac0afd63e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/5) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+[^c-1c03272d745fe155b507d8aac0afd63e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/5) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
 
-[^key-fe2abe196b90a51f2a1389237459b718]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/6) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/4)
+[^c-fe2abe196b90a51f2a1389237459b718]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/6) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/4)

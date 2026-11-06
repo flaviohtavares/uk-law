@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Reports etc.[^key-3c4c57947240926fdeae43799444c369]
+## 52. Reports etc.[^c-3c4c57947240926fdeae43799444c369]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ the Commission must arrange for the document to be published.
 
 ## Annotations
 
-[^key-3c4c57947240926fdeae43799444c369]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2002/26/section/52) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 10](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/10) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3c4c57947240926fdeae43799444c369]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2002/26/section/52) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 10](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/10) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

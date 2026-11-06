@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Power to make consequential provision[^key-6be909f6f7c01decad3471c9edf04a84]
+## 182. Power to make consequential provision[^c-6be909f6f7c01decad3471c9edf04a84]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6be909f6f7c01decad3471c9edf04a84]: Commencement: S. 182 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)
+[^c-6be909f6f7c01decad3471c9edf04a84]: Commencement: S. 182 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Operational land for purposes of the 1990 Act[^key-016873e204a92e05a58a717e35bd8f69]
+## 58. Operational land for purposes of the 1990 Act[^c-016873e204a92e05a58a717e35bd8f69]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order is to be treated as specific planning 
 
 ## Annotations
 
-[^key-016873e204a92e05a58a717e35bd8f69]: Commencement: Art. 58 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-016873e204a92e05a58a717e35bd8f69]: Commencement: Art. 58 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

@@ -31,83 +31,83 @@ Local Government Finance Act 1987 (repealed)
 
 1987 c. 6
 
-[^key-9bcfea3e51c2af9bfd931bebbad11071]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bcfea3e51c2af9bfd931bebbad11071]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I — England and Wales[^key-9bcfea3e51c2af9bfd931bebbad11071]
+## Part I — England and Wales[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 *Extent: E+W*
 
-### Rate support grant: future years[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Rate support grant: future years[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-#### 1. Rate fund revenue accounts.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Rate fund revenue accounts: further provisions.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 1. Rate fund revenue accounts.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Meaning of local authorities’ expenditure.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 2. Rate fund revenue accounts: further provisions.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rate support grant: other years[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-#### 4. Validation for past and general provision for future.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 3. Meaning of local authorities’ expenditure.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Further provision as to future.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Rate support grant: other years[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+#### 4. Validation for past and general provision for future.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rates[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-#### 6. Validation of past acts.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 5. Further provision as to future.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Restrictions on rating and precepting.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Rates[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+#### 6. Validation of past acts.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Sanctions.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 7. Restrictions on rating and precepting.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Miscellaneous and general[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-#### 9. Power of specifying: general.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 8. Sanctions.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Special provisions as to rate support grant.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Miscellaneous and general[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+#### 9. Power of specifying: general.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Amendments and repeals.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 10. Special provisions as to rate support grant.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Interpretation.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 11. Amendments and repeals.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Scotland[^key-9bcfea3e51c2af9bfd931bebbad11071]
+#### 12. Interpretation.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Scotland[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 *Extent: S*
 
-### 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+### 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-## Part III — General[^key-9bcfea3e51c2af9bfd931bebbad11071]
+## Part III — General[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-### 15. Expenses.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+### 15. Expenses.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Citation and extent.[^key-9bcfea3e51c2af9bfd931bebbad11071][^key-9bcfea3e51c2af9bfd931bebbad11071]
+### 16. Citation and extent.[^c-9bcfea3e51c2af9bfd931bebbad11071][^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,141 +115,141 @@ Local Government Finance Act 1987 (repealed)
 
 **No longer in force.**
 
-[^key-9bcfea3e51c2af9bfd931bebbad11071] SCHEDULES
+[^c-9bcfea3e51c2af9bfd931bebbad11071] SCHEDULES
 
-## SCHEDULE 1 — List of Accounts[^key-9bcfea3e51c2af9bfd931bebbad11071]
+## SCHEDULE 1 — List of Accounts[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 Section 1.
 
-**1.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7, 8.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7, 8.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Rates: Maximum Limit[^key-9bcfea3e51c2af9bfd931bebbad11071]
+## SCHEDULE 2 — Rates: Maximum Limit[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 Section 7.
 
-**1.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Rate Support Grant: Special Provisions[^key-9bcfea3e51c2af9bfd931bebbad11071]
+## SCHEDULE 3 — Rate Support Grant: Special Provisions[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-### Consultation[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Consultation[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**1.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Certain matters to be disregarded[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Certain matters to be disregarded[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**2.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Total expenditure 1985-86[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Total expenditure 1985-86[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**3.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Total expenditure 1986-87[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Total expenditure 1986-87[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**4.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Total expenditure 1986-87 (further provisions)[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Total expenditure 1986-87 (further provisions)[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**5.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Teachers’ remuneration[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Teachers’ remuneration[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**6.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rateable values 1985-86[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Rateable values 1985-86[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**7.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rateable values 1986-87[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Rateable values 1986-87[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**8.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### General[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### General[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
-**9.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amendments[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-Section 11.
-
-### Local Government, Planning and Land Act 1980[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**1.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Social Security and Housing Benefits Act 1982[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**5.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Local Government Finance Act 1982[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**6.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Rates Act 1984[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**8.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Local Government Act 1985[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**10.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Social Security Act 1986[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**11.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### General[^key-9bcfea3e51c2af9bfd931bebbad11071]
-
-**12.**[^key-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 5 — Repeals[^key-9bcfea3e51c2af9bfd931bebbad11071]
+## SCHEDULE 4 — Amendments[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 Section 11.
 
-[^key-9bcfea3e51c2af9bfd931bebbad11071]
+### Local Government, Planning and Land Act 1980[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**1.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security and Housing Benefits Act 1982[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**5.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government Finance Act 1982[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**6.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Rates Act 1984[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**8.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government Act 1985[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**10.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Social Security Act 1986[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**11.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+**12.**[^c-9bcfea3e51c2af9bfd931bebbad11071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Repeals[^c-9bcfea3e51c2af9bfd931bebbad11071]
+
+Section 11.
+
+[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -263,10 +263,10 @@ Section 11.
 | 1986 c. 50. | Social Security Act 1986. | In Schedule 10, paragraph 52(2). |
 | 1986 c. 54. | Rate Support Grants Act 1986. | In Schedule 1, paragraph 13. |
 
-[^key-9bcfea3e51c2af9bfd931bebbad11071]
+[^c-9bcfea3e51c2af9bfd931bebbad11071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bcfea3e51c2af9bfd931bebbad11071]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-9bcfea3e51c2af9bfd931bebbad11071]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

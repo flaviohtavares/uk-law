@@ -22,8 +22,8 @@ summary: ''
 
 (1) Nothing in section 9 shall make unlawful—
 
-- (a) anything done in pursuance of a requirement by the Minister of Agriculture, Fisheries and Food or the Secretary of State under section 98 of the [^c4939641]Agriculture Act 1947, or by the Secretary of State under section 39 of the [^c4939651]Agriculture (Scotland) Act 1948; [^key-2aa15bdb8aa75509da5639ad85d5fc9a]...
-- (b) anything done under, or in pursuance of an order made under, the [^c4939661]Animal Health Act 1981. or[^key-a520859271e6eb86e9745d544a857c6d]
+- (a) anything done in pursuance of a requirement by the Minister of Agriculture, Fisheries and Food or the Secretary of State under section 98 of the [^c4939641]Agriculture Act 1947, or by the Secretary of State under section 39 of the [^c4939651]Agriculture (Scotland) Act 1948; [^c-2aa15bdb8aa75509da5639ad85d5fc9a]...
+- (b) anything done under, or in pursuance of an order made under, the [^c4939661]Animal Health Act 1981. or[^c-a520859271e6eb86e9745d544a857c6d]
 - (c) anything done in relation to an animal of any species pursuant to a licence granted by Natural England under regulation 55 of the Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) in respect of an animal or animals of that species
 
 (2) Nothing in subsection (4) of section 9 shall make unlawful anything done within a dwelling-house.
@@ -89,11 +89,11 @@ summary: ''
 
 [^c4939651]: Marginal citation: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45).
 
-[^key-2aa15bdb8aa75509da5639ad85d5fc9a]: Textual amendment: Word in s. 10(1)(a) omitted (E.W.) (30.9.2022) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 111(1)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/111/1/a), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
+[^c-2aa15bdb8aa75509da5639ad85d5fc9a]: Textual amendment: Word in s. 10(1)(a) omitted (E.W.) (30.9.2022) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 111(1)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/111/1/a), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
 
 [^c4939661]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-a520859271e6eb86e9745d544a857c6d]: Textual amendment: S. 10(1)(c) and word inserted (E.W.) (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 111(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/111/1/b), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
+[^c-a520859271e6eb86e9745d544a857c6d]: Textual amendment: S. 10(1)(c) and word inserted (E.W.) (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 111(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/111/1/b), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
 
 [^c19473611]: Textual amendment: Words in s. 10(5) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 70](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/70); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 

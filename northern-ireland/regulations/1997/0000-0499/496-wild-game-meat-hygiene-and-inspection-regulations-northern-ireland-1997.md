@@ -49,11 +49,11 @@ to make the following Regulations;
 
 ## Part I — Preliminary
 
-### 1. Citation and commencement[^key-46b741c3b0b5e7065ef1711528dc81d5]
+### 1. Citation and commencement[^c-46b741c3b0b5e7065ef1711528dc81d5]
 
 These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997 and shall come into operation on 8th December 1997.
 
-### 2. Interpretation[^key-ca8ae0b6985fc742c3bd0934373df9e9]
+### 2. Interpretation[^c-ca8ae0b6985fc742c3bd0934373df9e9]
 
 (1) In these Regulations—
 
@@ -116,7 +116,7 @@ These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Re
 
 ## Part II — Licensing of Wild Game Processing Facilities
 
-### 3. Issue of licences[^key-4529269bcd747a7a7d2094f4c0fbb1db]
+### 3. Issue of licences[^c-4529269bcd747a7a7d2094f4c0fbb1db]
 
 (1) A person shall not use any wild game processing facility for the purpose of dressing or cutting up wild game, the meat derived from which is intended for consignment, or sale for consignment, to a relevant EEA State for human consumption, unless that wild game processing facility is currently licensed under these Regulations.
 
@@ -140,7 +140,7 @@ These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Re
 - (a) in respect of the type or species of wild game which may be processed there; and
 - (b) as to the operations which may be carried out there.
 
-### 4. Revocation of licences[^key-d1afa94cf7e84340abd38015bbd50f9a]
+### 4. Revocation of licences[^c-d1afa94cf7e84340abd38015bbd50f9a]
 
 (1) The Department may revoke a licence granted by it under regulation 3 in respect of any premises and, where appropriate, require the withdrawal of the equipment for application of the health mark if, after an inspection of, or an inquiry into, the operation or structure of the premises and a report by an OVS or veterinary officer, it is satisfied that—
 
@@ -154,7 +154,7 @@ These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Re
 
 (3) In paragraph (2) “occupier”, in relation to a proposed revocation by virtue of paragraph (1)(*e*) where the premises are vacant, means the last person known to the Department to have carried on at the premises the business for which the licence was granted or his successor in respect of that business.
 
-### 5. Right of appeal[^key-176f0d833ec1ae30aed20cf8d6c70151]
+### 5. Right of appeal[^c-176f0d833ec1ae30aed20cf8d6c70151]
 
 (1) Any person who is aggrieved by the refusal or revocation of a licence or by any condition of a licence may appeal to a magistrates' court against the decision.
 
@@ -164,7 +164,7 @@ These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Re
 
 ## Part III — Supervision and Control of Premises
 
-### 6. Supervision of premises[^key-9fba0788abbb2ae754ae261f261d0b6c]
+### 6. Supervision of premises[^c-9fba0788abbb2ae754ae261f261d0b6c]
 
 (1) The Department may designate veterinary surgeons as OVSs and shall, in relation to any licensed premises, appoint one or more OVSs, in each case to be an authorised officer of the Department authorised to act in relation to the examination and seizure of wild game meat, to provide the health certification of wild game meat and to be responsible for the following functions in relation to those premises—
 
@@ -185,7 +185,7 @@ These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Re
 
 (6) An inspector appointed under the Fresh Meat Regulations may, in relation to any cold store or re-wrapping centre to which he is appointed under those Regulations and which handles wild game meat, act as an inspector in relation to securing the observance of Schedules 8 and 9 to these Regulations, and the application of the health mark in accordance with Schedule 7 to these Regulations, in those establishments.
 
-### 7. Revocation and suspension of designations of OVSs[^key-5cca5a6304e5753c9d687e6a97ff91b2]
+### 7. Revocation and suspension of designations of OVSs[^c-5cca5a6304e5753c9d687e6a97ff91b2]
 
 (1) Subject to paragraphs (2) and (3), the Department may, at any time, revoke or suspend the designation of any person as an OVS if it appears to the Department that such person is unfit to perform one or more of the functions of an OVS under these Regulations.
 
@@ -193,7 +193,7 @@ These Regulations may be cited as the Wild Game Meat (Hygiene and Inspection) Re
 
 (3) A notice given under paragraph (2) shall inform the person to whom it is given of his rights to make representations in writing and to be heard, of the manner in which and the time (not being less than 21 days from the giving of the notice) within which such representations or an application for an opportunity to be heard may be made; and, in the event of the designated person making any representations (whether orally or in writing) to the Department under this paragraph, the Department shall reconsider whether that person is unfit to perform one or more of the functions of an OVS under these Regulations and shall reconsider, as soon as practicable, its decision to revoke or suspend the designation under paragraph (1) in the light of those representations.
 
-### 8. Powers of OVSs and veterinary officers[^key-3fb956e001b94ea324686a5526a35c24]
+### 8. Powers of OVSs and veterinary officers[^c-3fb956e001b94ea324686a5526a35c24]
 
 (1) Where it appears to an OVS that in respect of any licensed premises to which he is appointed—
 
@@ -219,7 +219,7 @@ and the occupier shall comply with the notice.
 
 (5) A veterinary officer may at any time give to an OVS such reasonable directions as he may consider necessary to ensure that the duties and functions of the OVS under these Regulations are being complied with, and the OVS shall comply with those directions.
 
-### 9. Authorisation of plant inspection assistants[^key-c7410d43e09dee5d4458393489869f31]
+### 9. Authorisation of plant inspection assistants[^c-c7410d43e09dee5d4458393489869f31]
 
 (1) The Department may, in relation to any licensed premises processing small wild game, authorise persons employed at those premises to act as PIAs to perform the function specified in Schedule 4 in relation to small wild game.
 
@@ -234,7 +234,7 @@ and the occupier shall comply with the notice.
 
 (5) A notice given under paragraph (4) shall inform the person to whom it is given of his rights to make representations in writing and to be heard and of the manner in which and the time (not being less than 21 days from the giving of the notice) within which such representations or an application for an opportunity to be heard may be made; and, in the event of that person making any representations (whether orally or in writing) to the Department under this paragraph, the Department shall reconsider whether that person is unfit to act or has failed to perform his functions as a PIA under these Regulations and shall reconsider, as soon as practicable, its decision to revoke or suspend the authorisation under paragraph (3) in the light of those representations.
 
-### 10. Inspection and health marking[^key-1fd1e8b0f2ca112ac2bd9c1fbe33c77d]
+### 10. Inspection and health marking[^c-1fd1e8b0f2ca112ac2bd9c1fbe33c77d]
 
 (1) The Department shall arrange for post-mortem health inspections to be carried out at all licensed premises in accordance with Schedule 4.
 
@@ -250,7 +250,7 @@ and the occupier shall comply with the notice.
 
 (7) A person shall not use any mark so resembling a health mark, or in such a way, as to be likely to suggest that the product has been produced in accordance with these Regulations.
 
-### 11. Notice of operation of licensed premises[^key-d5c3e82136597390959005997499e3e3]
+### 11. Notice of operation of licensed premises[^c-d5c3e82136597390959005997499e3e3]
 
 (1) Subject to paragraph (3), a person shall not operate any licensed premises to produce wild game meat intended for consignment or sale for consignment to a relevant EEA State for human consumption unless he has notified the Department, in accordance with paragraph (2), of the day on which, times between which and place at which they are to be operated.
 
@@ -260,7 +260,7 @@ and the occupier shall comply with the notice.
 
 ## Part IV — Conditions for the Marketing of Wild Game Meat
 
-### 12. General conditions[^key-6b9b43aa2fec2c2f271b8353f3679b8e]
+### 12. General conditions[^c-6b9b43aa2fec2c2f271b8353f3679b8e]
 
 (1) Subject, where appropriate, to paragraphs (3) and (4), a person shall not consign, or sell for consignment, to a relevant EEA State wild game meat for human consumption unless—
 
@@ -299,7 +299,7 @@ and the occupier shall comply with the notice.
 
 (4) Paragraph (1) shall not apply to wild game meat imported from a relevant EEA State or third country, save that wild game meat so imported shall be handled in accordance with these Regulations.
 
-### 13. Transport documentation[^key-253d07b4e49678ebedaf09b8e4439d62]
+### 13. Transport documentation[^c-253d07b4e49678ebedaf09b8e4439d62]
 
 (1) The occupier of any licensed premises, cold store or re-wrapping centre shall ensure that wild game meat intended for consignment to a relevant EEA State shall be accompanied during transportation from the premises—
 
@@ -319,13 +319,13 @@ and the occupier shall comply with the notice.
 
 ## Part V — Administration, Penalties and Enforcement
 
-### 14. Records of inspections[^key-d55acbc7ab5a6df1400b8bc912be5e05]
+### 14. Records of inspections[^c-d55acbc7ab5a6df1400b8bc912be5e05]
 
 (1) The Department shall keep in respect of individual licensed premises, where appropriate, a record of the results of post-mortem health inspections for the purpose of compliance with the provisions of Council Directive [92/45/EEC](https://www.legislation.gov.uk/european/directive/1992/0045)[^f00016].
 
 (2) The Department shall retain any record of such an inspection until the end of the period of 1 year commencing with the date of the inspection to which it relates.
 
-### 15. Duties of occupier[^key-be0d1b8283b8a9cafff7ae8973eedc5e]
+### 15. Duties of occupier[^c-be0d1b8283b8a9cafff7ae8973eedc5e]
 
 (1) The occupier of any licensed premises shall—
 
@@ -347,7 +347,7 @@ and the occupier shall comply with the notice.
 - (a) are present at the times notified to him by the OVS appointed in respect of those premises; and
 - (b) carry out the functions specified in Schedule 4 as directed by such OVS.
 
-### 16. Offences and penalties[^key-bf1f527c201f56f98ccd5938c2d8ed22]
+### 16. Offences and penalties[^c-bf1f527c201f56f98ccd5938c2d8ed22]
 
 (1) If any person contravenes—
 
@@ -373,7 +373,7 @@ he shall be guilty of an offence and shall be liable—
 
 whichever is the earlier.
 
-### 17. Application of various Articles of the Order[^key-89eae205f6a547cdebe72625b0e7a750]
+### 17. Application of various Articles of the Order[^c-89eae205f6a547cdebe72625b0e7a750]
 
 The following provisions of the Order shall apply for the purposes of these Regulations as they apply for the purposes of Articles 7, 13 or 14 of the Order and any reference in them to the Order shall be construed as a reference to the Regulations—
 
@@ -383,17 +383,17 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - Article 20 (defence of due diligence); and
 - Article 34 (obstruction, etc. of officers).
 
-### 18. Supervision and enforcement[^key-b424355696b443100a6b1de74dd68fdd]
+### 18. Supervision and enforcement[^c-b424355696b443100a6b1de74dd68fdd]
 
 These Regulations shall be enforced and executed by the Department or any district council or by the Department and any district council acting jointly and any authority having such responsibility shall be known for the purposes of these Regulations as “an enforcement authority”
 
-### 19. Wild game meat from Great Britain, the Isle of Man and the Channel Islands[^key-269015b3936e62af734561067c28522b]
+### 19. Wild game meat from Great Britain, the Isle of Man and the Channel Islands[^c-269015b3936e62af734561067c28522b]
 
 (1) A person shall not consign or sell for consignment to a relevant EEA State for human consumption wild game meat produced in a place to which this regulation applies unless it was produced at premises in that place in accordance with legislative provisions having effect in that place and corresponding to regulation 3, regulation 12(1)(*e*) and paragraph 1 of Schedule 7.
 
 (2) The places to which this regulation applies are Great Britain, the Isle of Man and the Channel Islands.
 
-### 20. Amendments[^key-7eb3a8875e051c22d9f583faa83547c3]
+### 20. Amendments[^c-7eb3a8875e051c22d9f583faa83547c3]
 
 (1) After regulation 3(2)(*g*) of the Food Premises (Registration) Regulations (Northern Ireland) 1992[^f00017] there shall be added—
 
@@ -429,7 +429,7 @@ Assistant Secretary
 
 13th November 1997.
 
-## SCHEDULE 1 — Construction, Layout and Equipment of Wild Game Processing Facilities[^key-44f7337914c719adace6918440b02598]
+## SCHEDULE 1 — Construction, Layout and Equipment of Wild Game Processing Facilities[^c-44f7337914c719adace6918440b02598]
 
 Regulations 3(2)(*a*) and 6(1)(*e*)
 
@@ -483,7 +483,7 @@ All wild game processing facilities shall have, in so far as is necessary for th
 
 Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*e*)
 
-**1.**[^key-29449f8078d74e94db7af793c9323b92] The occupier of every wild game processing facility shall keep it, or cause it to be kept, in such a state of cleanliness and otherwise conduct it so as to prevent any risk of contamination to any wild game meat therein and, in particular shall—
+**1.**[^c-29449f8078d74e94db7af793c9323b92] The occupier of every wild game processing facility shall keep it, or cause it to be kept, in such a state of cleanliness and otherwise conduct it so as to prevent any risk of contamination to any wild game meat therein and, in particular shall—
 
 - (a) ensure that equipment and instruments used for working on wild game meat are kept clean and in a good state of repair;
 - (b) ensure that premises, instruments and working equipment including meat cutting instruments are not used for purposes other than work on wild game meat, fresh meat or meat preparations or products unless they are cleaned and disinfected before re-use;
@@ -494,7 +494,7 @@ Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*e*)
 - (g) ensure that all detergents, disinfectants, pesticides and rodenticides used in the premises are of such a kind and are used in such a manner as not to affect the fitness of any wild game meat intended for human consumption; and
 - (h) ensure that rodents, insects and other vermin are systematically destroyed.
 
-**2.**[^key-2dac3fce9fc83148df8353182c96e1d5] Every person engaged in working on or handling wild game meat in a wild game processing facility shall—
+**2.**[^c-2dac3fce9fc83148df8353182c96e1d5] Every person engaged in working on or handling wild game meat in a wild game processing facility shall—
 
 - (a) wear footwear and light-coloured working clothes, including covering for the hair of the head, and, where necessary, the neck; all of which articles shall, unless disposable, be easily cleanable, clean at the commencement of every working day and renewed during the day as necessary.
 - (b) wash and disinfect his hands and arms frequently during the working day and each time work is started and resumed and immediately after contact with wild game meat which he knows or suspects to be diseased;
@@ -506,7 +506,7 @@ Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*e*)
   - (v) at the end of each working day; and
 - (d) before being engaged to work on or handle unpackaged wild game meat, obtain a medical certificate certifying that there is no objection on public health grounds to such activities and produce such medical certificate on request to an OVS, to an inspector, or to a veterinary officer.
 
-**3.**[^key-935b5b9206ebed9b5286baf230297baf] A person shall not—
+**3.**[^c-935b5b9206ebed9b5286baf230297baf] A person shall not—
 
 - (a) work on or handle wild game meat if he is likely to contaminate it;
 - (b) wipe down any carcase or offal;
@@ -519,14 +519,14 @@ Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*e*)
 
 Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*e*) and 12(1)(*b*)(iii) and (iv), (*d*) and (*g*)
 
-**1.**[^key-e05833a57ba6ffc0b9c0a77feaf82374] The hunter shall ensure that—
+**1.**[^c-e05833a57ba6ffc0b9c0a77feaf82374] The hunter shall ensure that—
 
 - (a) all wild game is accompanied to the wild game processing facility by the thoracic viscera, the liver and the spleen, which are to be kept so as to remain readily identifiable with the carcase until it has been inspected in accordance with Schedule 4;
 - (b) small wild game shall be totally or partially eviscerated on the spot or in the collection centre, except that this may be delayed until it arrives at the wild game processing facility, provided it can be transported there, under satisfactory hygiene conditions, within a reasonable time and at a temperature such that it is in a condition that allows the inspection provided for in Schedule 4 to be completed;
 - (c) the temperature of wild game meat is brought progressively towards an internal temperature of not more than +7°C in respect of large wild game and +4°C in respect of small wild game; save that where this is not practicable the wild game shall be transported, under satisfactory hygiene conditions, within a reasonable time, to a wild game processing facility at a temperature such that it is in a condition that allows the inspection provided for in Schedule 4 to be completed; and
 - (d) any abnormal behaviour or illness or injury of the live wild game at the time of killing, or any abnormality observed in the abdominal viscera, the lower limbs or the head prior to disposal is reported to the occupier of the wild game processing facility.
 
-**2.**[^key-f260d7cb70fe5bbe852674f1146c7e42] The occupier of any wild game processing facility shall ensure that—
+**2.**[^c-f260d7cb70fe5bbe852674f1146c7e42] The occupier of any wild game processing facility shall ensure that—
 
 - (a) if it has not been carried out immediately after killing, wild game shall be eviscerated without delay, save that the lungs, heart, liver, kidneys, spleen and mediastinum may either be detached or left attached to the carcase by their natural connections; save that evisceration of small wild game shall not be necessary where a sample representative of that small wild game which came from the same source, or, if sources have been mixed into batches prior to inspection, which came from the same batch, has undergone an inspection in accordance with Schedule 4;
 - (b) the carcases and offal of any wild game not inspected are kept separate from the carcases or offal of any wild game already inspected in accordance with Schedule 4;
@@ -544,7 +544,7 @@ Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*e*) and 12(1)(*b*)(iii) and (iv), (*d*
 
 Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*a*), 9(1)and (3)(*a*), 10(1), 12(1)(*b*)(iii), (*c*) and (*d*) and 15(3)(*b*).
 
-**1.**[^key-78e75e56a9f55696ce424043934ea964] Subject to paragraph 2, killed wild game intended for human consumption must be inspected within 18 hours of entering the wild game processing facility, and any OVS, inspector or PIA—
+**1.**[^c-78e75e56a9f55696ce424043934ea964] Subject to paragraph 2, killed wild game intended for human consumption must be inspected within 18 hours of entering the wild game processing facility, and any OVS, inspector or PIA—
 
 - (a) shall have regard to any report of abnormal behaviour or illness or injury of the live animal or any observed abnormality of the abdominal viscera or the head;
 - (b) shall carry out a visual inspection of the bodies of wild game and any organs belonging to them which are available to him, paying particular attention to—
@@ -562,7 +562,7 @@ Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*a*), 9(1)and (3)(*a*), 10(1), 12(1)(*b
   - (xii) any visible contamination; and
 - (c) shall detain, in the facilities referred to in sub-paragraph 1(i) of Schedule 1 for further inspection any carcase and offal suspected of being unfit for human consumption but which requires more detailed examination before a decision can be made.
 
-**2.**[^key-6aaef67b46fb644e7e06650340a11faf]
+**2.**[^c-6aaef67b46fb644e7e06650340a11faf]
 
 - (a) In the case of small wild game, the inspection described in paragraph 1 may be carried out on a representative sample, which may be in fur or in feather, from the same source or, if the sources have been mixed into batches prior to inspection, have come from the same batch.
 - (b) Where such inspection reveals that any of the representative sample is unfit for human consumption, all the animals or birds from that source or batch must undergo inspection in accordance with paragraph 1.
@@ -571,11 +571,11 @@ Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*a*), 9(1)and (3)(*a*), 10(1), 12(1)(*b
 
 Regulations 3(2)(*a*) and (*b*)(i), 6(1)(*b*), 10(2) and 12(1)(*c*) and (2)(*a*)
 
-### Part I — Wild Game approved as fit for Human Consumption[^key-634f3e3ce09a3226e38da8d6b06aee0f]
+### Part I — Wild Game approved as fit for Human Consumption[^c-634f3e3ce09a3226e38da8d6b06aee0f]
 
 Where an inspector or an OVS is satisfied that the inspection or any other information available has revealed no evidence of any disease transmissible to humans or animals or defect or contamination that cannot be removed by rinsing or trimming, and, where appropriate, if the dressing operation has been carried out in an hygienic manner, he shall approve the killed wild game as fit for human consumption.
 
-### Part II — Wild Game condemned as unfit for Human Consumption[^key-90af02a48205b7a339402a01dad33c57]
+### Part II — Wild Game condemned as unfit for Human Consumption[^c-90af02a48205b7a339402a01dad33c57]
 
 An inspector or OVS shall condemn the carcase and offal as unfit for human consumption if he is satisfied that the inspection and any other information available has revealed one or more of the following—
 
@@ -587,7 +587,7 @@ An inspector or OVS shall condemn the carcase and offal as unfit for human consu
 - (f) abnormal colour or smell associated with disease or other conditions prejudicial to health;
 - (g) bruising, injuries, swellings or visible contamination which cannot be removed by rinsing or trimming.
 
-## SCHEDULE 6 — Hygiene Requirements for cutting up Wild Game[^key-2d5bcd4fbc5e98f10111de830401e044]
+## SCHEDULE 6 — Hygiene Requirements for cutting up Wild Game[^c-2d5bcd4fbc5e98f10111de830401e044]
 
 Regulations 3(2)(*a*) and (*b*), 6(1)(*e*) and 12(1)(*b*)(iv)
 
@@ -605,7 +605,7 @@ The occupier of any premises shall ensure that:
 
 Regulations 2(1), 6(1)(*d*), (5) and (6), 10(2), 12(1)(*e*), 13(1)(*b*)(vii) and 19(1)
 
-**1.**[^key-722801025786b5d539cb1b7c92f23ae5] The health mark shall consist of—
+**1.**[^c-722801025786b5d539cb1b7c92f23ae5] The health mark shall consist of—
 
 - (a) a pentagonal mark bearing, in legible form in letters at least 0.8 cm and figures at least l cm high in the case of large wild game and letters and figures at least 0.2 cm high in the case of small wild game, the following information—
   - (i) on the upper part, the initials “UK”;
@@ -613,14 +613,14 @@ Regulations 2(1), 6(1)(*d*), (5) and (6), 10(2), 12(1)(*e*), 13(1)(*b*)(vii) and
   - (iii) on the lower part, the letters “EC”; or
 - (b) a pentagonal stamp containing the information referred to in (a).
 
-**2.**[^key-b46bbb11024597a14023e72248e75fe2] Subject to paragraph 3, the health mark referred to in paragraph 1(a) shall be applied—
+**2.**[^c-b46bbb11024597a14023e72248e75fe2] Subject to paragraph 3, the health mark referred to in paragraph 1(a) shall be applied—
 
 - (a) to exposed carcases by means of hot branding, a stamp or a seal; or
 - (b) on or visibly beneath the wrapping or other packaging of packed carcases or of parts of carcases or offal wrapped in small quantities,
 
 and the health mark referred to in paragraph 1(*b*) shall be applied to large packaging.
 
-**3.**[^key-7dc64f856bf555c4c502361289a16cbc] The health marking of carcases, parts of carcases or offal as provided for in paragraph 2 shall not be necessary in the case of small wild game in the following cases:
+**3.**[^c-7dc64f856bf555c4c502361289a16cbc] The health marking of carcases, parts of carcases or offal as provided for in paragraph 2 shall not be necessary in the case of small wild game in the following cases:
 
 - (a) consignments of carcases dispatched from one wild game processing facility to another for cutting therein, subject to the following conditions:
   - (i) the large packaging containing the fresh wild game meat shall bear on the external surface the health mark appropriate to large wild game in accordance with paragraph 1(*a*);
@@ -647,22 +647,22 @@ Regulations 6(1)(*e*), (5) and (6) and 12(1)(*h*)
 
 ### Part I — Wrapping
 
-**1.**[^key-e011494290096012c04996706adf48d5] The occupier of any licensed premises shall ensure that the wrapping operation is carried out immediately after cutting up and in an hygienic manner and the wrapping material is not re-used for wrapping wild game meat.
+**1.**[^c-e011494290096012c04996706adf48d5] The occupier of any licensed premises shall ensure that the wrapping operation is carried out immediately after cutting up and in an hygienic manner and the wrapping material is not re-used for wrapping wild game meat.
 
-**2.**[^key-3009d00bcd6fc43fa5557f1034872e95] The occupier of any licensed premises, cold store or re-wrapping centre shall ensure that—
+**2.**[^c-3009d00bcd6fc43fa5557f1034872e95] The occupier of any licensed premises, cold store or re-wrapping centre shall ensure that—
 
 - (a) any material for wrapping wild game meat does not cause a deterioration in the organoleptic characteristics of such meat or transmit to it any substance harmful to human health and that only transparent and uncoloured wrapping material is used; and
 - (b) wrapped wild game meat is packaged in accordance with the requirement of Part II, save that where the wrapping material used fulfils the requirement of packaging in accordance with paragraph 1(*a*), (*b*) and (*c*) of Part II, it does not in addition require to be packaged.
 
 ### Part II — Packaging
 
-**1.**[^key-f6e68fb3dd43ec40312f893652cbbd5f] The occupier of any licensed premises, cold store or re-wrapping centre shall ensure—
+**1.**[^c-f6e68fb3dd43ec40312f893652cbbd5f] The occupier of any licensed premises, cold store or re-wrapping centre shall ensure—
 
 - (a) that any material used for packaging wild game meat is strong enough to protect the meat during the course of handling and transport and does not cause a deterioration in the organoleptic characteristics of that meat or transmit to it any substance harmful to human health;
 - (b) that any material used for packaging wild game meat is not re-used for this purpose unless it is made of a non corrodible substance which is easy to clean and has been cleaned and disinfected prior to re-use for packaging meat; and
 - (c) that every package bears the health mark either on the package or on a clearly visible label or sealing tape affixed to the package and that the health mark is applied in such a way that it is torn when the package is opened.
 
-**2.**[^key-7afcba4e73c1f0648177d137e997b8a5] The occupier of all premises in which wild game meat is cut up, wrapped and packaged in the same room shall ensure that the following conditions are observed—
+**2.**[^c-7afcba4e73c1f0648177d137e997b8a5] The occupier of all premises in which wild game meat is cut up, wrapped and packaged in the same room shall ensure that the following conditions are observed—
 
 - (a) the packaging and wrapping material shall, during storage, be enclosed in a protective cover under hygienic conditions in the separate room provided for this purpose, and such a room shall not be connected in any way with rooms containing substances which might contaminate wild game meat;
 - (b) packaging and wrapping materials shall be protected from dust and vermin and such materials shall not be stored on the floor;
@@ -675,17 +675,17 @@ Regulations 6(1)(*e*), (5) and (6) and 12(1)(*h*)
 
 Regulations 6(1)(*e*), (5) and (6), 12(1)(i) and 15(1)(*f*)
 
-**1.**[^key-3dbb81fb32615acf2941f5de53a95da3] Wild game meat transported to licensed premises to a cold store or to a re-wrapping centre shall be loaded at a temperature of not more than +7°C for carcases and cuts of large wild game meat, +4°C for consignments of small wild game and −12°C for frozen wild game meat and shall be transported in vehicles so designed and equipped that such meat is maintained at low temperatures throughout the period of transport.
+**1.**[^c-3dbb81fb32615acf2941f5de53a95da3] Wild game meat transported to licensed premises to a cold store or to a re-wrapping centre shall be loaded at a temperature of not more than +7°C for carcases and cuts of large wild game meat, +4°C for consignments of small wild game and −12°C for frozen wild game meat and shall be transported in vehicles so designed and equipped that such meat is maintained at low temperatures throughout the period of transport.
 
-**2.**[^key-7a3e26b9561e33cd48401ff4e119b2d2] In respect of large wild game which meets the requirements of regulation 12(2)(*g*)(i) to (v)(*bb*) carcases shall be loaded at a temperature of not lower than −1°C and no more than +7°C and must be transported to a wild game processing facility within the maximum period of 7 days from the post-mortem inspection; or −1°C and +1°C provided it is transported to a wild game processing facility within the maximum period of 15 days from the post-mortem inspection. Small wild game exported unskinned or unplucked and uneviscerated shall not be frozen.
+**2.**[^c-7a3e26b9561e33cd48401ff4e119b2d2] In respect of large wild game which meets the requirements of regulation 12(2)(*g*)(i) to (v)(*bb*) carcases shall be loaded at a temperature of not lower than −1°C and no more than +7°C and must be transported to a wild game processing facility within the maximum period of 7 days from the post-mortem inspection; or −1°C and +1°C provided it is transported to a wild game processing facility within the maximum period of 15 days from the post-mortem inspection. Small wild game exported unskinned or unplucked and uneviscerated shall not be frozen.
 
-**3.**[^key-e485e9e788125e6c347773daf178130d] Wild game meat shall not be transported to licensed premises, to a cold store or to a re-wrapping centre in vehicles or containers which are not properly cleaned and disinfected.
+**3.**[^c-e485e9e788125e6c347773daf178130d] Wild game meat shall not be transported to licensed premises, to a cold store or to a re-wrapping centre in vehicles or containers which are not properly cleaned and disinfected.
 
-**4.**[^key-511941c6aa295550dbbf7a8437492f6e] Vehicles used for the transport of carcases and half carcases of wild game meat shall be suitably equipped. Fittings for hanging the meat shall be provided and fixed at such a height that the meat cannot come into contact with the floor except that such fittings shall not be required where such meat is transported by aircraft in which suitable facilities have been provided.
+**4.**[^c-511941c6aa295550dbbf7a8437492f6e] Vehicles used for the transport of carcases and half carcases of wild game meat shall be suitably equipped. Fittings for hanging the meat shall be provided and fixed at such a height that the meat cannot come into contact with the floor except that such fittings shall not be required where such meat is transported by aircraft in which suitable facilities have been provided.
 
-**5.**[^key-deab44c0e5983624242390b5326c01e7] Cuts of wild game meat other than carcases and half carcases shall be suspended throughout the period of transport except where such meat is transported by aircraft in which suitable facilities have been provided; otherwise, if they are not placed in packages, they shall be placed on supports of material resistant to corrosion; and the support shall be clean and corrosion resistant and packaging shall meet the requirements of Schedule 8.
+**5.**[^c-deab44c0e5983624242390b5326c01e7] Cuts of wild game meat other than carcases and half carcases shall be suspended throughout the period of transport except where such meat is transported by aircraft in which suitable facilities have been provided; otherwise, if they are not placed in packages, they shall be placed on supports of material resistant to corrosion; and the support shall be clean and corrosion resistant and packaging shall meet the requirements of Schedule 8.
 
-## SCHEDULE 10[^key-e241b2b73c39b946c10a5da46d2722a8]
+## SCHEDULE 10[^c-e241b2b73c39b946c10a5da46d2722a8]
 
 Vetrinary Health Certificate
 
@@ -695,7 +695,7 @@ Regulation 12(2)(*g*)(iv) and 13(2)(*b*)
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/496/images/nisr_19970496_en_001)
 
-## SCHEDULE 11[^key-ca1b699e4f03389fd035e464b223472a]
+## SCHEDULE 11[^c-ca1b699e4f03389fd035e464b223472a]
 
 Vetrinary Health Certificate
 
@@ -705,7 +705,7 @@ Regulation 13(1)(*a*) and (2)(*a*)
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/496/images/nisr_19970496_en_002) [image: see source](https://www.legislation.gov.uk/nisr/1997/496/images/nisr_19970496_en_003)
 
-## SCHEDULE 12 — Indication to be applied to large packaging[^key-9d1f4cfdf67ff4a9c7141893afb783d0]
+## SCHEDULE 12 — Indication to be applied to large packaging[^c-9d1f4cfdf67ff4a9c7141893afb783d0]
 
 Regulation 12(1)(*e*)
 
@@ -750,9 +750,9 @@ The Regulations also—
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-46b741c3b0b5e7065ef1711528dc81d5]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-46b741c3b0b5e7065ef1711528dc81d5]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-ca8ae0b6985fc742c3bd0934373df9e9]: Commencement: Reg. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-ca8ae0b6985fc742c3bd0934373df9e9]: Commencement: Reg. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L.1, 3.1.94. p. 1
 
@@ -768,25 +768,25 @@ The Regulations also—
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4529269bcd747a7a7d2094f4c0fbb1db]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-4529269bcd747a7a7d2094f4c0fbb1db]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-d1afa94cf7e84340abd38015bbd50f9a]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-d1afa94cf7e84340abd38015bbd50f9a]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-176f0d833ec1ae30aed20cf8d6c70151]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-176f0d833ec1ae30aed20cf8d6c70151]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-9fba0788abbb2ae754ae261f261d0b6c]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-9fba0788abbb2ae754ae261f261d0b6c]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-5cca5a6304e5753c9d687e6a97ff91b2]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-5cca5a6304e5753c9d687e6a97ff91b2]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-3fb956e001b94ea324686a5526a35c24]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-3fb956e001b94ea324686a5526a35c24]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-c7410d43e09dee5d4458393489869f31]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-c7410d43e09dee5d4458393489869f31]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-1fd1e8b0f2ca112ac2bd9c1fbe33c77d]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-1fd1e8b0f2ca112ac2bd9c1fbe33c77d]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-d5c3e82136597390959005997499e3e3]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-d5c3e82136597390959005997499e3e3]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-6b9b43aa2fec2c2f271b8353f3679b8e]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-6b9b43aa2fec2c2f271b8353f3679b8e]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00011]: Footnote: O.J. No. L.302, 31.12.72, p. 24
 
@@ -798,82 +798,82 @@ The Regulations also—
 
 [^f00015]: Footnote: O.J. No. L.57, 2.3.92, p.1
 
-[^key-253d07b4e49678ebedaf09b8e4439d62]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-253d07b4e49678ebedaf09b8e4439d62]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-d55acbc7ab5a6df1400b8bc912be5e05]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-d55acbc7ab5a6df1400b8bc912be5e05]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00016]: Footnote: O.J. No. L.268, 14.9.92, p. 35
 
-[^key-be0d1b8283b8a9cafff7ae8973eedc5e]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-be0d1b8283b8a9cafff7ae8973eedc5e]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-bf1f527c201f56f98ccd5938c2d8ed22]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-bf1f527c201f56f98ccd5938c2d8ed22]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-89eae205f6a547cdebe72625b0e7a750]: Commencement: Reg. 17 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-89eae205f6a547cdebe72625b0e7a750]: Commencement: Reg. 17 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-b424355696b443100a6b1de74dd68fdd]: Commencement: Reg. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-b424355696b443100a6b1de74dd68fdd]: Commencement: Reg. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-269015b3936e62af734561067c28522b]: Commencement: Reg. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-269015b3936e62af734561067c28522b]: Commencement: Reg. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-7eb3a8875e051c22d9f583faa83547c3]: Commencement: Reg. 20 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-7eb3a8875e051c22d9f583faa83547c3]: Commencement: Reg. 20 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1992 No. 167](https://www.legislation.gov.uk/nisr/1992/167); the relevant amending Regulations are [S.R. 1994 No. 346](https://www.legislation.gov.uk/nisr/1994/346), [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493), [S.R. 1997 No. 494](https://www.legislation.gov.uk/nisr/1997/494) and [S.R. 1997 No. 495](https://www.legislation.gov.uk/nisr/1997/495)
 
 [^f00018]: Footnote: [S.R. 1995 No. 360](https://www.legislation.gov.uk/nisr/1995/360), to which there are amendments not relevant to these Regulations
 
-[^key-44f7337914c719adace6918440b02598]: Commencement: Sch. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-44f7337914c719adace6918440b02598]: Commencement: Sch. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-29449f8078d74e94db7af793c9323b92]: Commencement: Sch. 2 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-29449f8078d74e94db7af793c9323b92]: Commencement: Sch. 2 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-2dac3fce9fc83148df8353182c96e1d5]: Commencement: Sch. 2 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-2dac3fce9fc83148df8353182c96e1d5]: Commencement: Sch. 2 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-935b5b9206ebed9b5286baf230297baf]: Commencement: Sch. 2 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-935b5b9206ebed9b5286baf230297baf]: Commencement: Sch. 2 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-e05833a57ba6ffc0b9c0a77feaf82374]: Commencement: Sch. 3 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-e05833a57ba6ffc0b9c0a77feaf82374]: Commencement: Sch. 3 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-f260d7cb70fe5bbe852674f1146c7e42]: Commencement: Sch. 3 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-f260d7cb70fe5bbe852674f1146c7e42]: Commencement: Sch. 3 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-78e75e56a9f55696ce424043934ea964]: Commencement: Sch. 4 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-78e75e56a9f55696ce424043934ea964]: Commencement: Sch. 4 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-6aaef67b46fb644e7e06650340a11faf]: Commencement: Sch. 4 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-6aaef67b46fb644e7e06650340a11faf]: Commencement: Sch. 4 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-634f3e3ce09a3226e38da8d6b06aee0f]: Commencement: Sch. 5 Pt. I in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-634f3e3ce09a3226e38da8d6b06aee0f]: Commencement: Sch. 5 Pt. I in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-90af02a48205b7a339402a01dad33c57]: Commencement: Sch. 5 Pt. II in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-90af02a48205b7a339402a01dad33c57]: Commencement: Sch. 5 Pt. II in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-2d5bcd4fbc5e98f10111de830401e044]: Commencement: Sch. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-2d5bcd4fbc5e98f10111de830401e044]: Commencement: Sch. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-722801025786b5d539cb1b7c92f23ae5]: Commencement: Sch. 7 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-722801025786b5d539cb1b7c92f23ae5]: Commencement: Sch. 7 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-b46bbb11024597a14023e72248e75fe2]: Commencement: Sch. 7 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-b46bbb11024597a14023e72248e75fe2]: Commencement: Sch. 7 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-7dc64f856bf555c4c502361289a16cbc]: Commencement: Sch. 7 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-7dc64f856bf555c4c502361289a16cbc]: Commencement: Sch. 7 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00019]: Footnote: [S.R. 1997 No. 494](https://www.legislation.gov.uk/nisr/1997/494)
 
-[^key-e011494290096012c04996706adf48d5]: Commencement: Sch. 8 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-e011494290096012c04996706adf48d5]: Commencement: Sch. 8 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-3009d00bcd6fc43fa5557f1034872e95]: Commencement: Sch. 8 Pt. I para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-3009d00bcd6fc43fa5557f1034872e95]: Commencement: Sch. 8 Pt. I para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-f6e68fb3dd43ec40312f893652cbbd5f]: Commencement: Sch. 8 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-f6e68fb3dd43ec40312f893652cbbd5f]: Commencement: Sch. 8 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-7afcba4e73c1f0648177d137e997b8a5]: Commencement: Sch. 8 Pt. II para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-7afcba4e73c1f0648177d137e997b8a5]: Commencement: Sch. 8 Pt. II para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-3dbb81fb32615acf2941f5de53a95da3]: Commencement: Sch. 9 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-3dbb81fb32615acf2941f5de53a95da3]: Commencement: Sch. 9 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-7a3e26b9561e33cd48401ff4e119b2d2]: Commencement: Sch. 9 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-7a3e26b9561e33cd48401ff4e119b2d2]: Commencement: Sch. 9 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-e485e9e788125e6c347773daf178130d]: Commencement: Sch. 9 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-e485e9e788125e6c347773daf178130d]: Commencement: Sch. 9 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-511941c6aa295550dbbf7a8437492f6e]: Commencement: Sch. 9 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-511941c6aa295550dbbf7a8437492f6e]: Commencement: Sch. 9 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-deab44c0e5983624242390b5326c01e7]: Commencement: Sch. 9 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-deab44c0e5983624242390b5326c01e7]: Commencement: Sch. 9 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
-[^key-e241b2b73c39b946c10a5da46d2722a8]: Commencement: Sch. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-e241b2b73c39b946c10a5da46d2722a8]: Commencement: Sch. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00020]: Footnote: For unskinned large wild game from a wild game processing facility, cold-store or re-wrapping centre which is situated in a restricted region or area or intended for consignment to an EEA State after transit through a third country, the Health Certificate set out in Schedule 11 to the Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997 should be used.
 
-[^key-ca1b699e4f03389fd035e464b223472a]: Commencement: Sch. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-ca1b699e4f03389fd035e464b223472a]: Commencement: Sch. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
 
 [^f00021]: Footnote: Wild game Meat which has not been treated, other than by chilling or freezing to ensure its preservation
 
-[^key-9d1f4cfdf67ff4a9c7141893afb783d0]: Commencement: Sch. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)
+[^c-9d1f4cfdf67ff4a9c7141893afb783d0]: Commencement: Sch. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/496/regulation/1)

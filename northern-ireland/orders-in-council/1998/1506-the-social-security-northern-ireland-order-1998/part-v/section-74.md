@@ -34,7 +34,7 @@ summary: ''
 
 (5)[^c21759731][^c21759741] Without prejudice to any specific provision in this Order, a power conferred by this Order to make regulations includes power to make thereby such incidental, supplementary, consequential or transitional provision as appears to the authority making the regulations to be expedient for the purposes of those regulations.
 
-(5A)[^key-875aaa028c320191c45cd0100b2377bf] The provision referred to in paragraph (5) includes, in a case where regulations under this Order require or authorise the use of electronic communications, provision referred to in sections 1(4) and (5) and 2(5) of the Electronic Communications Act (Northern Ireland) 2001.
+(5A)[^c-875aaa028c320191c45cd0100b2377bf] The provision referred to in paragraph (5) includes, in a case where regulations under this Order require or authorise the use of electronic communications, provision referred to in sections 1(4) and (5) and 2(5) of the Electronic Communications Act (Northern Ireland) 2001.
 
 (5B) For the purposes of paragraph (5A), references in sections 1(4) and (5) and 2(5) of the Electronic Communications Act (Northern Ireland) 2001 to an order under section 2 of that Act are to be read as references to regulations under this Order; and references to anything authorised by such an order are to be read as references to anything required or authorised by such regulations.
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c21759741]: Modification: Art. 74(3)-(6) applied (prosp.) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 9(6)](https://www.legislation.gov.uk/nia/2010/13/section/9/6), [36(2)](https://www.legislation.gov.uk/nia/2010/13/section/36/2)
 
-[^key-875aaa028c320191c45cd0100b2377bf]: Textual amendment: [Art. 74(5A)](https://www.legislation.gov.uk/nisi/1998/1506/article/74/5A)[(5B)](https://www.legislation.gov.uk/nisi/1998/1506/article/74/5B) inserted (2.5.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [108(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/108/2); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
+[^c-875aaa028c320191c45cd0100b2377bf]: Textual amendment: [Art. 74(5A)](https://www.legislation.gov.uk/nisi/1998/1506/article/74/5A)[(5B)](https://www.legislation.gov.uk/nisi/1998/1506/article/74/5B) inserted (2.5.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [108(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/108/2); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)

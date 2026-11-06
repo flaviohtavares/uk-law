@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Promotion of welfare[^key-e5c6d5c1f788e5485dc63040de5f68fe]
+## 11. Promotion of welfare[^c-e5c6d5c1f788e5485dc63040de5f68fe]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c6d5c1f788e5485dc63040de5f68fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/176/regulation/11) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-e5c6d5c1f788e5485dc63040de5f68fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/176/regulation/11) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

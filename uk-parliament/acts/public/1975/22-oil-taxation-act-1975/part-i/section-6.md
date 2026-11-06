@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c10742751] In the case of a participator in an oil field, an allowable unrelievable field loss is the unrelievable portion of an allowable loss falling within subsection (1B) below.
 
-(1A) Subsection (1) above is subject to subsections (5) to (9) below and Schedule 8 to this Act and[^key-de48fef9a39db09f5db9b0b3dae08042] paragraph 6[^key-f73be0b66449df79b35afef2a125de66] of Schedule 20B[^key-53e3de67265956dce9747e9cba02c627] to the Finance Act 1993.
+(1A) Subsection (1) above is subject to subsections (5) to (9) below and Schedule 8 to this Act and[^c-de48fef9a39db09f5db9b0b3dae08042] paragraph 6[^c-f73be0b66449df79b35afef2a125de66] of Schedule 20B[^c-53e3de67265956dce9747e9cba02c627] to the Finance Act 1993.
 
 (1B) An allowable loss falls within this subsection if—
 
@@ -57,9 +57,9 @@ In this subsection “**half year**” has the same meaning as in section 1 of t
   - (ii) the chargeable period in which the allowable loss accrued,
 
   (or, if they are the same period, with the end of that period); and
-- (b) Chapter 3 of Part 24 of CTA 2010[^key-518000951082dc715603421598a3b845] (subsidiaries) shall apply.
+- (b) Chapter 3 of Part 24 of CTA 2010[^c-518000951082dc715603421598a3b845] (subsidiaries) shall apply.
 
-(4A)[^key-43e0223f8c0ce002393530130f146b46] For the purposes of this section and Schedule 8 to this Act, the winning of oil from an oil field shall not be regarded as having permanently ceased until all the oil wells in the field have been permanently abandoned.
+(4A)[^c-43e0223f8c0ce002393530130f146b46] For the purposes of this section and Schedule 8 to this Act, the winning of oil from an oil field shall not be regarded as having permanently ceased until all the oil wells in the field have been permanently abandoned.
 
 (5)[^c10742791] Subsections (6) to (9) below apply if—
 
@@ -91,19 +91,19 @@ and, in relation to expenditure falling within section 65 of the [^c10742811]Fin
 
 [^c10742751]: Textual amendment: S. 6(1)-(1D) substituted (*retrospective* to 7.3.2001) for s. 6(1)(1A) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9) s. 101(1)(5)
 
-[^key-de48fef9a39db09f5db9b0b3dae08042]: Textual amendment: Words in s. 6(1A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/2)
+[^c-de48fef9a39db09f5db9b0b3dae08042]: Textual amendment: Words in s. 6(1A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/2)
 
-[^key-f73be0b66449df79b35afef2a125de66]: Textual amendment: Words in s. 6(1A) substituted (retrospective to 23.11.2016) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 44(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/4)
+[^c-f73be0b66449df79b35afef2a125de66]: Textual amendment: Words in s. 6(1A) substituted (retrospective to 23.11.2016) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 44(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/4)
 
-[^key-53e3de67265956dce9747e9cba02c627]: Textual amendment: Words in s. 6(1A) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/2/a)
+[^c-53e3de67265956dce9747e9cba02c627]: Textual amendment: Words in s. 6(1A) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/2/a)
 
 [^c10742761]: Modification: S. 6(1C) excluded (*retrospective* to 7.3.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 101(4)(5)](https://www.legislation.gov.uk/ukpga/2001/9/section/101/4/5), [Sch. 32 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/32/paragraph/5)
 
 [^c10742771]: Textual amendment: Words in s. 6(2) substituted (*retrospective* to 7.3.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 101(2)(5)](https://www.legislation.gov.uk/ukpga/2001/9/section/101/2/5)
 
-[^key-518000951082dc715603421598a3b845]: Textual amendment: Words in s. 6(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 163](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/163) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-518000951082dc715603421598a3b845]: Textual amendment: Words in s. 6(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 163](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/163) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-43e0223f8c0ce002393530130f146b46]: Textual amendment: S. 6(4A) inserted (retrospective to 1.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 104(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/104/1)[(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/104/2)
+[^c-43e0223f8c0ce002393530130f146b46]: Textual amendment: S. 6(4A) inserted (retrospective to 1.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 104(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/104/1)[(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/104/2)
 
 [^c10742791]: Textual amendment: S. 6(5)-(9) inserted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 146(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/146/3) (with [Sch. 8 paras. 55(2)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/8/paragraph/55/2), [57(1)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/8/paragraph/57/1))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Interception by OFCOM in connection with wireless telegraphy[^key-ce19634b2c353f48f368c8020f4ec11d]
+## 48. Interception by OFCOM in connection with wireless telegraphy[^c-ce19634b2c353f48f368c8020f4ec11d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce19634b2c353f48f368c8020f4ec11d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/25/section/48) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-ce19634b2c353f48f368c8020f4ec11d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/25/section/48) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

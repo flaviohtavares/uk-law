@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Use of proxies at meetings[^key-698207f405cec0e8c1fe763a15c44c87]
+## 142. Use of proxies at meetings[^c-698207f405cec0e8c1fe763a15c44c87]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-698207f405cec0e8c1fe763a15c44c87]: Commencement: Rule 142 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-698207f405cec0e8c1fe763a15c44c87]: Commencement: Rule 142 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Power to construct, etc., pontoons and jetties[^key-a1294727105726b650d24e73780d65ac]
+## 11. Power to construct, etc., pontoons and jetties[^c-a1294727105726b650d24e73780d65ac]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The Harbour Authority may within the area of jurisdiction construct and maintain
 
 ## Annotations
 
-[^key-a1294727105726b650d24e73780d65ac]: Commencement: Art. 11 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-a1294727105726b650d24e73780d65ac]: Commencement: Art. 11 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

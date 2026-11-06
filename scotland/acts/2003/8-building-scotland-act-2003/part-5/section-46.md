@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Sale of materials from demolished buildings[^key-b0bad928c087a66b0a573ec2eabd2a57]
+## 46. Sale of materials from demolished buildings[^c-b0bad928c087a66b0a573ec2eabd2a57]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0bad928c087a66b0a573ec2eabd2a57]: Commencement: S. 46 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-b0bad928c087a66b0a573ec2eabd2a57]: Commencement: S. 46 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

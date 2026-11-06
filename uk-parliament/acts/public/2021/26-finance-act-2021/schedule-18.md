@@ -26,9 +26,9 @@ Section 95
 
 #### Amendments to Part 9 of Schedule 9ZA to VATA 1994
 
-**1.**[^c24596791][^key-7b8c0357c4a783b9279153f94ee89a88] Part 9 of Schedule 9ZA to VATA 1994 (value added tax on acquisitions in Northern Ireland from Member States: registration in respect of distance sales) is amended as follows.
+**1.**[^c24596791][^c-7b8c0357c4a783b9279153f94ee89a88] Part 9 of Schedule 9ZA to VATA 1994 (value added tax on acquisitions in Northern Ireland from Member States: registration in respect of distance sales) is amended as follows.
 
-**2.**[^c24596801][^key-20f433e8ffdbb1749b93b24dbd40e4fb] (1) Paragraph 48 (liability to be registered) is amended as follows.
+**2.**[^c24596801][^c-20f433e8ffdbb1749b93b24dbd40e4fb] (1) Paragraph 48 (liability to be registered) is amended as follows.
 
 (2) In sub-paragraph (1), in the words after paragraph (b), for “on any day” to the end substitute
 
@@ -62,7 +62,7 @@ Section 95
 >
 > (10) In sub-paragraph (8), “**the VAT Directive**” means Council Directive [2006/112/EC](https://www.legislation.gov.uk/european/directive/2006/0112) of 28 November 2006 on the common system of value added tax.
 
-**3.**[^c24596811][^key-40421c4c19f2aef98f70c3bd95aae967] (1) Paragraph 49 (ceasing to be liable to be registered) is amended as follows.
+**3.**[^c24596811][^c-40421c4c19f2aef98f70c3bd95aae967] (1) Paragraph 49 (ceasing to be liable to be registered) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -95,7 +95,7 @@ Section 95
 
 #### Amendments to Part 5 of Schedule 9ZB to VATA 1994
 
-**4.**[^c24596821][^key-ada785f226b75f5382b0472fd7e2b889] In Part 5 of Schedule 9ZB to VATA 1994 (goods removed to or from Northern Ireland: rules relating to particular supplies), in paragraph 29 (distance selling between EU and Northern Ireland: place of supply)—
+**4.**[^c24596821][^c-ada785f226b75f5382b0472fd7e2b889] In Part 5 of Schedule 9ZB to VATA 1994 (goods removed to or from Northern Ireland: rules relating to particular supplies), in paragraph 29 (distance selling between EU and Northern Ireland: place of supply)—
 
 - (a) in sub-paragraph (1)(c)—
   - (i) omit the “or” at the end of paragraph (i);
@@ -109,7 +109,7 @@ Section 95
 
 ### PART 2 — Amendments relating to the One Stop Shop and Import One Stop Shop Schemes
 
-**5.**[^c24596831][^key-86af8ad7f5a7a0538a6b2fb85910bac8] In section 40A of VATA 1994 (Northern Ireland Protocol) after subsection (3) insert—
+**5.**[^c24596831][^c-86af8ad7f5a7a0538a6b2fb85910bac8] In section 40A of VATA 1994 (Northern Ireland Protocol) after subsection (3) insert—
 
 > (4) Schedule 9ZD—
 >
@@ -141,7 +141,7 @@ Section 95
 > - (b) make provision by reference to things specified in a notice published in accordance with the regulations;
 > - (c) make consequential, transitional, transitory, saving, supplementary or incidental provision.
 
-**6.**[^c24596841][^key-06d56e27d8b65894f6c6bbfd3d15bf26][^key-31e8fea781b6ce3c330b4580a9122342][^key-e6ed110af77cb3e95a452678f09b49cb] After Schedule 9ZC to VATA 1994 insert—
+**6.**[^c24596841][^c-06d56e27d8b65894f6c6bbfd3d15bf26][^c-31e8fea781b6ce3c330b4580a9122342][^c-e6ed110af77cb3e95a452678f09b49cb] After Schedule 9ZC to VATA 1994 insert—
 
 > **SCHEDULE 9ZD — Distance selling of goods from Northern Ireland: special accounting scheme**
 >
@@ -1568,11 +1568,11 @@ Section 95
 
 ### PART 3 — Omission of Part 2 of Schedule 9ZC to VATA 1994
 
-**7.**[^c24596851][^key-32ab641d9dd16fb801612f688eed849f] In Schedule 9ZC to VATA 1994 (online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol) omit Part 2 (modifications of the Value Added Tax (Imported Goods) Relief Order 1984).
+**7.**[^c24596851][^c-32ab641d9dd16fb801612f688eed849f] In Schedule 9ZC to VATA 1994 (online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol) omit Part 2 (modifications of the Value Added Tax (Imported Goods) Relief Order 1984).
 
 ### PART 4 — Amendments relating to supplies of goods by persons established outside the United Kingdom that are facilitated by online marketplaces
 
-**8.**[^c24596861][^key-79b90f5cbb77ac4e79d16ada18605160] (1) Schedule 9ZC to VATA 1994 is amended as follows.
+**8.**[^c24596861][^c-79b90f5cbb77ac4e79d16ada18605160] (1) Schedule 9ZC to VATA 1994 is amended as follows.
 
 (2) Before paragraph 2 insert—
 
@@ -1672,36 +1672,36 @@ Section 95
 
 [^c24596791]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/1) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-7b8c0357c4a783b9279153f94ee89a88]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/1) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-7b8c0357c4a783b9279153f94ee89a88]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/1) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
 [^c24596801]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/2) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-20f433e8ffdbb1749b93b24dbd40e4fb]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/2) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-20f433e8ffdbb1749b93b24dbd40e4fb]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/2) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
 [^c24596811]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/3) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-40421c4c19f2aef98f70c3bd95aae967]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/3) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-40421c4c19f2aef98f70c3bd95aae967]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/3) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
 [^c24596821]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/4) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-ada785f226b75f5382b0472fd7e2b889]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/4) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-ada785f226b75f5382b0472fd7e2b889]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/4) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
 [^c24596831]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/5) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-86af8ad7f5a7a0538a6b2fb85910bac8]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/5) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-86af8ad7f5a7a0538a6b2fb85910bac8]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/5) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
 [^c24596841]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-06d56e27d8b65894f6c6bbfd3d15bf26]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force at 1.7.2021 for specified purposes by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5))
+[^c-06d56e27d8b65894f6c6bbfd3d15bf26]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force at 1.7.2021 for specified purposes by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5))
 
-[^key-31e8fea781b6ce3c330b4580a9122342]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force at 1.3.2024 for specified purposes by [S.I. 2024/130](https://www.legislation.gov.uk/uksi/2024/130), [regs. 3](https://www.legislation.gov.uk/uksi/2024/130/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/130/regulation/4)
+[^c-31e8fea781b6ce3c330b4580a9122342]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force at 1.3.2024 for specified purposes by [S.I. 2024/130](https://www.legislation.gov.uk/uksi/2024/130), [regs. 3](https://www.legislation.gov.uk/uksi/2024/130/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/130/regulation/4)
 
-[^key-e6ed110af77cb3e95a452678f09b49cb]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force at 31.3.2026 in so far as not already in force by [S.I. 2026/315](https://www.legislation.gov.uk/uksi/2026/315), [reg. 2](https://www.legislation.gov.uk/uksi/2026/315/regulation/2)
+[^c-e6ed110af77cb3e95a452678f09b49cb]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6) in force at 31.3.2026 in so far as not already in force by [S.I. 2026/315](https://www.legislation.gov.uk/uksi/2026/315), [reg. 2](https://www.legislation.gov.uk/uksi/2026/315/regulation/2)
 
 [^c24596851]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/7) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-32ab641d9dd16fb801612f688eed849f]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/7) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-32ab641d9dd16fb801612f688eed849f]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/7) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
 [^c24596861]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8) in force for specified purposes at Royal Assent, see [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a)
 
-[^key-79b90f5cbb77ac4e79d16ada18605160]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-79b90f5cbb77ac4e79d16ada18605160]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8) in force at 1.7.2021 in so far as not already in force by [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)

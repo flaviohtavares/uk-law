@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where it appears to the person imposing a prohibition under Article 77 that the vehicle is adapted to carry more than 8 passengers, or is a public service vehicle not so adapted or is a taxi[^key-58948f33f7b0cb48f423b9a2bc5fed17] , the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at a vehicle testing centre.
+(1) Where it appears to the person imposing a prohibition under Article 77 that the vehicle is adapted to carry more than 8 passengers, or is a public service vehicle not so adapted or is a taxi[^c-58948f33f7b0cb48f423b9a2bc5fed17] , the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at a vehicle testing centre.
 
 (2) Where it appears to that person that the vehicle is of a class to which regulations under Article 65 apply, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at a vehicle testing centre.
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-58948f33f7b0cb48f423b9a2bc5fed17]: Textual amendment: Words in [art. 78(1)](https://www.legislation.gov.uk/nisi/1995/2994/article/78/1) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/10); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-58948f33f7b0cb48f423b9a2bc5fed17]: Textual amendment: Words in [art. 78(1)](https://www.legislation.gov.uk/nisi/1995/2994/article/78/1) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/10); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^c17247611]: Textual amendment: mod. by SR 1996/12
 

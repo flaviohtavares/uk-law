@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for waste treatment, as set out in the Annex, are adopted.
 
-**Article 2.**[^key-d01e787786bfbd0093b3dd607bfb98f4] Application and Interpretation
+**Article 2.**[^c-d01e787786bfbd0093b3dd607bfb98f4] Application and Interpretation
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -1640,7 +1640,7 @@ DESCRIPTION OF TECHNIQUES
 
 [^f00002]: Footnote: Commission Decision of 16 May 2011 establishing a forum for the exchange of information pursuant to Article 13 of Directive 2010/75/EU on industrial emissions ([OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG)).
 
-[^key-d01e787786bfbd0093b3dd607bfb98f4]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2018/1147/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d01e787786bfbd0093b3dd607bfb98f4]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2018/1147/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment ([OJ L 135, 30.5.1991, p. 40](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.135.01.0040.01.ENG)).
 

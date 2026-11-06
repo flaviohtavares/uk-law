@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Right of trade unions to access workplaces[^key-78e16c784738286f3bcc2bcf96e3d10d]
+## 59. Right of trade unions to access workplaces[^c-78e16c784738286f3bcc2bcf96e3d10d]
 
 *Extent: E+W+S*
 
-(1)[^key-853243c1e879aa70bcf7c0bf1fa2e43e][^key-022f678252124b8876efe01baeef7f45] The Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with subsections (2) to (6).
+(1)[^c-853243c1e879aa70bcf7c0bf1fa2e43e][^c-022f678252124b8876efe01baeef7f45] The Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with subsections (2) to (6).
 
-(2)[^key-37e5935ffc935cf1016c3559b913b23d][^key-022f678252124b8876efe01baeef7f45] In Part 1 (trade unions), before Chapter 5A insert—
+(2)[^c-37e5935ffc935cf1016c3559b913b23d][^c-022f678252124b8876efe01baeef7f45] In Part 1 (trade unions), before Chapter 5A insert—
 
 > **Chapter 5ZA — Right of trade unions to access workplaces**
 >
@@ -347,7 +347,7 @@ summary: ''
 >
 > Regulations prescribing anything for the purposes of this Chapter (see section 293(1)) may make different provision for different purposes.
 
-(3)[^key-5c53d1c6251df1c1473e0996f3310d55] In section 263 (proceedings of the Central Arbitration Committee)—
+(3)[^c-5c53d1c6251df1c1473e0996f3310d55] In section 263 (proceedings of the Central Arbitration Committee)—
 
 - (a) in subsection (4), omit “or, in Scotland, an oversman”;
 - (b) after subsection (6) insert—
@@ -363,7 +363,7 @@ summary: ''
 
   > (8) The reference in subsection (7) to the Committee’s functions under Schedule A1 does not include a reference to its functions under paragraph 166 of that Schedule.
 
-(4)[^key-5c53d1c6251df1c1473e0996f3310d55] After section 263 insert—
+(4)[^c-5c53d1c6251df1c1473e0996f3310d55] After section 263 insert—
 
 > **263ZA. Proceedings of the Committee under section 70ZE**
 >
@@ -422,14 +422,14 @@ summary: ''
 >
 > (11) Subject to the provisions of this section, the Committee may determine its own procedure.
 
-(5)[^key-5c53d1c6251df1c1473e0996f3310d55] In section 263A (proceedings of the Central Arbitration Committee under Schedule A1)—
+(5)[^c-5c53d1c6251df1c1473e0996f3310d55] In section 263A (proceedings of the Central Arbitration Committee under Schedule A1)—
 
 - (a) for the heading substitute “Proceedings of the Committee: other special cases”;
 - (b) in subsection (1), for “under Schedule A1” substitute “in relation to which this section applies (see section 263(7))”;
 - (c) in subsection (6), omit “or, in Scotland, an oversman”;
 - (d) omit subsection (8).
 
-(6)[^key-5c53d1c6251df1c1473e0996f3310d55] In section 264 (awards of the Central Arbitration Committee)—
+(6)[^c-5c53d1c6251df1c1473e0996f3310d55] In section 264 (awards of the Central Arbitration Committee)—
 
 - (a) in the heading, after “Awards” insert “etc”;
 - (b) in subsection (1), after “award,” insert “in any determination, declaration, order or other decision of the Committee under Chapter 5ZA of Part 1,”;
@@ -437,16 +437,16 @@ summary: ''
 
   > (2A) Subsection (2) does not apply in relation to Chapter 5ZA of Part 1.
 
-(7)[^key-5c53d1c6251df1c1473e0996f3310d55] In Schedule 1 to the Employment Relations Act 2004 (minor and consequential amendments), omit paragraph 15.
+(7)[^c-5c53d1c6251df1c1473e0996f3310d55] In Schedule 1 to the Employment Relations Act 2004 (minor and consequential amendments), omit paragraph 15.
 
 ## Annotations
 
-[^key-78e16c784738286f3bcc2bcf96e3d10d]: Commencement: S. 59 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-78e16c784738286f3bcc2bcf96e3d10d]: Commencement: S. 59 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-853243c1e879aa70bcf7c0bf1fa2e43e]: Commencement: [S. 59(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/a)
+[^c-853243c1e879aa70bcf7c0bf1fa2e43e]: Commencement: [S. 59(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/a)
 
-[^key-022f678252124b8876efe01baeef7f45]: Commencement: [S. 59(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/e)
+[^c-022f678252124b8876efe01baeef7f45]: Commencement: [S. 59(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/e)
 
-[^key-37e5935ffc935cf1016c3559b913b23d]: Commencement: [S. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)
+[^c-37e5935ffc935cf1016c3559b913b23d]: Commencement: [S. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)
 
-[^key-5c53d1c6251df1c1473e0996f3310d55]: Commencement: [S. 59(3)-(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/3) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/e)
+[^c-5c53d1c6251df1c1473e0996f3310d55]: Commencement: [S. 59(3)-(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/3) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/e)

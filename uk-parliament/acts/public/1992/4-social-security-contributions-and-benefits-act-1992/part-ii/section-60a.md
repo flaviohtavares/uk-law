@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Failure to satisfy contribution condition in paragraph 5A of Schedule 3[^key-42e8342e98997eb72e4828ccb9334b19]
+## 60A. Failure to satisfy contribution condition in paragraph 5A of Schedule 3[^c-42e8342e98997eb72e4828ccb9334b19]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ includes a reference to that condition or those requirements as modified by virt
 
 ## Annotations
 
-[^key-42e8342e98997eb72e4828ccb9334b19]: Textual amendment: S. 60A inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/5)
+[^c-42e8342e98997eb72e4828ccb9334b19]: Textual amendment: S. 60A inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/5)

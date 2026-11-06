@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19.2. Assessment of costs[^key-d8ff15dae1806bc2b2325691043e9e10]
+## 19.2. Assessment of costs[^c-d8ff15dae1806bc2b2325691043e9e10]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Unless the amount of any costs is specified in the order made by the court, cost
 
 ## Annotations
 
-[^key-d8ff15dae1806bc2b2325691043e9e10]: Commencement: [Rule 19.2](https://www.legislation.gov.uk/uksi/2015/1568/article/19.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-d8ff15dae1806bc2b2325691043e9e10]: Commencement: [Rule 19.2](https://www.legislation.gov.uk/uksi/2015/1568/article/19.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 87. Infringement detected by Union inspectors[^key-f1027c013744378371854d384ce2fc55][^c000001]
+## Article 87. Infringement detected by Union inspectors[^c-f1027c013744378371854d384ce2fc55][^c000001]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1027c013744378371854d384ce2fc55]: Textual amendment: [Title 7 Ch. 4](https://www.legislation.gov.uk/eur/2009/1224/title/VII/chapter/IV) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(80)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1027c013744378371854d384ce2fc55]: Textual amendment: [Title 7 Ch. 4](https://www.legislation.gov.uk/eur/2009/1224/title/VII/chapter/IV) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(80)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Regulation (EU) 2015/812 of the European Parliament and of the Council of 20 May 2015 amending Council Regulations (EC) No 850/98, (EC) No 2187/2005, (EC) No 1967/2006, (EC) No 1098/2007, (EC) No 254/2002, (EC) No 2347/2002 and (EC) No 1224/2009, and Regulations (EU) No 1379/2013 and (EU) No 1380/2013 of the European Parliament and of the Council, as regards the landing obligation, and repealing Council Regulation (EC) No 1434/98](https://www.legislation.gov.uk/eur/2015/812).

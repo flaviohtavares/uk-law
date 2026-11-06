@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Costs of making a claim[^key-d315d96d8fd482f0c490c6c47bfe4261]
+## 141. Costs of making a claim[^c-d315d96d8fd482f0c490c6c47bfe4261]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the court orders otherwise, every claimant under rules 139 and 140 bears 
 
 ## Annotations
 
-[^key-d315d96d8fd482f0c490c6c47bfe4261]: Commencement: [Rule 141](https://www.legislation.gov.uk/uksi/2011/1301/rule/141) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d315d96d8fd482f0c490c6c47bfe4261]: Commencement: [Rule 141](https://www.legislation.gov.uk/uksi/2011/1301/rule/141) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

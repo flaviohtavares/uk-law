@@ -100,7 +100,7 @@ The Lord Chancellor may pay compensation to a person who ceases to be a member o
 
 - (a) has a seven year general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990 (c. 41),
 - (b) is an advocate or solicitor in Scotland of at least seven years’ standing,
-- (c) is a member of the Bar of Northern Ireland, or a solicitor of the Court of Judicature of Northern Ireland[^key-509ef447868a1db40da39de76c4dc52b] , of at least seven years’ standing, or
+- (c) is a member of the Bar of Northern Ireland, or a solicitor of the Court of Judicature of Northern Ireland[^c-509ef447868a1db40da39de76c4dc52b] , of at least seven years’ standing, or
 - (d) is appointed by the Lord Chancellor as a legally qualified member.
 
 (2) A person may be appointed by the Lord Chancellor under sub-paragraph (1)(d) only if he has legal or other experience which in the Lord Chancellor’s opinion makes him suitable for appointment as a legally qualified member.
@@ -109,4 +109,4 @@ The Lord Chancellor may pay compensation to a person who ceases to be a member o
 
 [^c19439161]: Textual amendment: Sch. 5 repealed (4.4.2005) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 26(5)(b)](https://www.legislation.gov.uk/ukpga/2004/19/section/26/5/b), [47](https://www.legislation.gov.uk/ukpga/2004/19/section/47), [48(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [art. 2](https://www.legislation.gov.uk/uksi/2005/565/article/2) (with savings in [arts. 3-9](https://www.legislation.gov.uk/uksi/2005/565/article/3))
 
-[^key-509ef447868a1db40da39de76c4dc52b]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-509ef447868a1db40da39de76c4dc52b]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

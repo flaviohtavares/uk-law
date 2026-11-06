@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Requisite majorities[^key-30a349eabe630c75b70fbd0df7e85a04]
+## 58. Requisite majorities[^c-30a349eabe630c75b70fbd0df7e85a04]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a349eabe630c75b70fbd0df7e85a04]: Commencement: [Rule 58](https://www.legislation.gov.uk/nisr/2026/11/rule/58) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-30a349eabe630c75b70fbd0df7e85a04]: Commencement: [Rule 58](https://www.legislation.gov.uk/nisr/2026/11/rule/58) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

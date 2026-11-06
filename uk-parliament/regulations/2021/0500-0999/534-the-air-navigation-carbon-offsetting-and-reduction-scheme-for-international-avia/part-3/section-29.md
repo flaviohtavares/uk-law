@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Monitoring of CORSIA eligible fuels claims[^key-fa875ba1c0a71efb751cc89689621174]
+## 29. Monitoring of CORSIA eligible fuels claims[^c-fa875ba1c0a71efb751cc89689621174]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fa875ba1c0a71efb751cc89689621174]: Commencement: Art. 29 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-fa875ba1c0a71efb751cc89689621174]: Commencement: Art. 29 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00033]: Footnote: “CORSIA Sustainability Criteria for Sustainable Aviation Fuels” is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 

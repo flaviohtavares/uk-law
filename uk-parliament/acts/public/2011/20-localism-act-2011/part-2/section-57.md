@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Interpretation of Part: general[^key-f09e2accf968ffc00f31b22685347554]
+## 57. Interpretation of Part: general[^c-f09e2accf968ffc00f31b22685347554]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In this Part—
 
 ## Annotations
 
-[^key-f09e2accf968ffc00f31b22685347554]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2011/20/section/57) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-f09e2accf968ffc00f31b22685347554]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2011/20/section/57) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

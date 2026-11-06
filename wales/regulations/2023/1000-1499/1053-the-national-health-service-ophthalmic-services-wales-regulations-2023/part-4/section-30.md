@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Review periods for national disqualification[^key-0b5b5e0db2c4e6610c87396b274d8fc8]
+## 30. Review periods for national disqualification[^c-0b5b5e0db2c4e6610c87396b274d8fc8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b5b5e0db2c4e6610c87396b274d8fc8]: Commencement: Reg. 30 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-0b5b5e0db2c4e6610c87396b274d8fc8]: Commencement: Reg. 30 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

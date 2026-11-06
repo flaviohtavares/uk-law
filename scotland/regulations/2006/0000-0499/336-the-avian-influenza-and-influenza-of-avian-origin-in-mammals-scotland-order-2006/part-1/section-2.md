@@ -23,11 +23,11 @@ summary: ''
 In this Order–
 
 - “**the Act**” means the Animal Health Act 1981;
-- “[^key-f56e6ff178f8262ebe71429423ea4322]**the appropriate Minister**” means—
+- “[^c-f56e6ff178f8262ebe71429423ea4322]**the appropriate Minister**” means—
   - (i) in relation to England, the Secretary of State,
   - (ii) in relation to Scotland, the Scottish Ministers,
   - (iii) in relation to Wales, the Welsh Ministers;
-- “[^key-ff3a48443af16042ef0d4ddf1250a1d4]**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about—
+- “[^c-ff3a48443af16042ef0d4ddf1250a1d4]**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about—
   - (a) birds or carcases infected with avian influenza or suspected of being infected with avian influenza,
   - (b) mammals or mammal carcases in which—
     - (i) the presence of influenza of avian origin is suspected, or
@@ -35,22 +35,22 @@ In this Order–
 - “**avian influenza**” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six-week old chickens greater than 1.2;
 - “**avian influenza prevention zone**” means an area declared to be an avian influenza prevention zone under article 6(1)(a);
 - “**avian influenza (restrictions on mammals) zone**” means an avian influenza (restrictions on mammals) zone declared under article 60;
-- “[^key-f9deab7c4f727f94191c4d971248e48e]**border control post**” means a place (together with the facilities at that place) designated by the Scottish Ministers in accordance with Article 59 of the Official Controls Regulation for the purpose of official controls as specified in Article 47(1) of that Regulation;
-- “[^key-1e37641d7a393f1068e085f37049197f]**brood-and-move poultry**” means poultry that have been, are being or are to be moved for the purposes of growing or fattening to premises other than those where they were reared;
-- “[^key-ec1d6456d1c8da80be83a613dd381ea3]**carcase**” means, except in the expression “mammal carcase”, the carcase of any bird and includes any part of a carcase;
-- [^key-12d94a452a61387486298fd43e3b4d8d]...
+- “[^c-f9deab7c4f727f94191c4d971248e48e]**border control post**” means a place (together with the facilities at that place) designated by the Scottish Ministers in accordance with Article 59 of the Official Controls Regulation for the purpose of official controls as specified in Article 47(1) of that Regulation;
+- “[^c-1e37641d7a393f1068e085f37049197f]**brood-and-move poultry**” means poultry that have been, are being or are to be moved for the purposes of growing or fattening to premises other than those where they were reared;
+- “[^c-ec1d6456d1c8da80be83a613dd381ea3]**carcase**” means, except in the expression “mammal carcase”, the carcase of any bird and includes any part of a carcase;
+- [^c-12d94a452a61387486298fd43e3b4d8d]...
 - “**commercial poultry premises**” means commercial premises where poultry are kept;
 - “**commercial premises**” means premises where poultry or other captive birds are kept for commercial purposes and does not include premises where all poultry and their eggs are kept by their owners for their own consumption or use or, in the case of poultry, as pets;
-- [^key-447587012c51c66b4a0532a7036ca689]...
+- [^c-447587012c51c66b4a0532a7036ca689]...
 - “**contact premises**” has the meaning given in article 24;
 - “**controlled zone**” means a protection zone, a surveillance zone, a restricted zone, a temporary movement restriction zone, a temporary control zone, a low pathogenic avian influenza restricted zone , an avian influenza prevention zone or an avian influenza (restrictions on mammals) zone;
 - “**day-old chick**” means all poultry less than 72 hours old which have not yet fed and muscovy ducks (*Cairina moschata*) and their crosses less than 72 hours old, whether or not fed;
 - “**designated**” means designated by the Scottish Ministers in accordance with article 70;
-- [^key-b64faeb7cd2fc7011a594620d75fb47c]...
-- “**dispose**” means treat in accordance with the Animal By-Products (Enforcement) (Scotland) Regulations 2013[^key-30dceaf23dc20f5fb068145778d2a1b4] or as a veterinary inspector otherwise directs;
-- “[^key-c5bced77822452d0946eca1fde4188b5]**game birds**” means any birds reared or kept in captivity prior to release for sporting purposes;
-- [^key-958695a1ba96222fd3f029019afad401]...
-- “**hatchery**” means an establishment for incubating eggs, hatching and supplying chicks[^key-7eb1fc5eb3d0b7fd6cdc7e8eab9c1d56];
+- [^c-b64faeb7cd2fc7011a594620d75fb47c]...
+- “**dispose**” means treat in accordance with the Animal By-Products (Enforcement) (Scotland) Regulations 2013[^c-30dceaf23dc20f5fb068145778d2a1b4] or as a veterinary inspector otherwise directs;
+- “[^c-c5bced77822452d0946eca1fde4188b5]**game birds**” means any birds reared or kept in captivity prior to release for sporting purposes;
+- [^c-958695a1ba96222fd3f029019afad401]...
+- “**hatchery**” means an establishment for incubating eggs, hatching and supplying chicks[^c-7eb1fc5eb3d0b7fd6cdc7e8eab9c1d56];
 - “**highly pathogenic avian influenza**” means an infection of poultry or other captive birds caused by–
   - (a) avian influenza viruses of the subtypes H5 or H7 with genome sequences codifying for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other highly pathogenic avian influenza viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease; or
   - (b) avian influenza viruses with an intravenous pathogenicity index in six-week old chickens greater than 1.2;
@@ -61,23 +61,23 @@ In this Order–
 - “**low pathogenic avian influenza**” means an infection of poultry or other captive birds caused by avian influenza viruses of subtypes H5 or H7 other than avian influenza viruses of subtypes H5 or H7 which cause highly pathogenic avian influenza;
 - “**low pathogenic avian influenza restricted zone**” means an area declared to be a low pathogenic avian influenza restricted zone under article 53;
 - “**mammal**” means any mammal, except man;
-- “[^key-7fd25dd56342948c053189d0c3c48120]**mammal carcase**” means the carcase of any mammal and includes any part of a mammal carcase;
-- “**non-commercial premises**” means premises where poultry or other captive birds are kept [^key-f94f65084a78aa46f2358dc54cfdcab2]... as pets;
+- “[^c-7fd25dd56342948c053189d0c3c48120]**mammal carcase**” means the carcase of any mammal and includes any part of a mammal carcase;
+- “**non-commercial premises**” means premises where poultry or other captive birds are kept [^c-f94f65084a78aa46f2358dc54cfdcab2]... as pets;
 - “**other captive bird**” means a bird kept in captivity which is not poultry and includes a bird kept for shows, races, exhibitions, competitions, breeding or for sale;
-- “packing centre” has the same meaning as in sub-paragraph (q) of the second paragraph of Article 1 of Commission Regulation[^key-c0cc627d5335fccf8557a00a0e651ea4] [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs , as last amended by Commission Delegated Regulation (EU) 2017/2168[^key-cfe04dad84a4c2fe9b64053ba14ae29f];
+- “packing centre” has the same meaning as in sub-paragraph (q) of the second paragraph of Article 1 of Commission Regulation[^c-c0cc627d5335fccf8557a00a0e651ea4] [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs , as last amended by Commission Delegated Regulation (EU) 2017/2168[^c-cfe04dad84a4c2fe9b64053ba14ae29f];
 - “**poultry**” means a bird reared or kept in captivity for the production of meat or eggs for consumption, or of other products, for restocking supplies of game or for the purposes of any breeding programme for the production of such categories of birds;
-- “[^key-23f444e6c34e60dc64699de75331b623]**premises**” includes any land, place of business or other place;
+- “[^c-23f444e6c34e60dc64699de75331b623]**premises**” includes any land, place of business or other place;
 - “**prohibition notice**” has the meaning given in article 33(4);
 - “**protection zone**” means an area declared to be a protection zone under article 26;
 - “**quarantine centre**” means premises where birds are isolated to prevent the spread of disease following importation from another country;
 - “**racing pigeon**” means any pigeon transported or intended for transport from its pigeon house so that it may be released and freely fly back there or to another destination;
-- “[^key-b652ae3f23d1ceb3f943b8157d5de26a]**ready to lay poultry**” means birds which are intended for use as productive egg layers, and for these purposes includes both female and male birds;
-- “**regulated place**” means a slaughterhouse, quarantine centre or border control[^key-5f62ebe7de96864b5d80f29c4f54eb71] post or a laboratory authorised by the Scottish Ministers to hold avian influenza virus under the Specified Animal Pathogens (Scotland) Order 2009[^key-3304386b6ae445616f1eef54d8880942] or in connection with monitoring and diagnosis of avian influenza or influenza of avian origin in mammals;
+- “[^c-b652ae3f23d1ceb3f943b8157d5de26a]**ready to lay poultry**” means birds which are intended for use as productive egg layers, and for these purposes includes both female and male birds;
+- “**regulated place**” means a slaughterhouse, quarantine centre or border control[^c-5f62ebe7de96864b5d80f29c4f54eb71] post or a laboratory authorised by the Scottish Ministers to hold avian influenza virus under the Specified Animal Pathogens (Scotland) Order 2009[^c-3304386b6ae445616f1eef54d8880942] or in connection with monitoring and diagnosis of avian influenza or influenza of avian origin in mammals;
 - “**the Regulations**” means the Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c15868221];
 - “**restricted zone**” means an area declared to be a restricted zone under article 26(5);
 - “**restrictions notice**” means a notice served under article 6(1)(b);
 - “**slaughterhouse**” means an establishment used for slaughtering and dressing poultry, the meat of which is intended for human consumption;
-- “[^key-8195d9c541ff840cb2f48399bd45ae62]**special category premises**” means—
+- “[^c-8195d9c541ff840cb2f48399bd45ae62]**special category premises**” means—
   - (a) non-commercial premises,
   - (b) circuses,
   - (c) zoos,
@@ -102,48 +102,48 @@ In this Order–
 
 ## Annotations
 
-[^key-f56e6ff178f8262ebe71429423ea4322]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/a)
+[^c-f56e6ff178f8262ebe71429423ea4322]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/a)
 
-[^key-ff3a48443af16042ef0d4ddf1250a1d4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/b)
+[^c-ff3a48443af16042ef0d4ddf1250a1d4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/b)
 
-[^key-f9deab7c4f727f94191c4d971248e48e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/c)
+[^c-f9deab7c4f727f94191c4d971248e48e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/c)
 
-[^key-1e37641d7a393f1068e085f37049197f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/d)
+[^c-1e37641d7a393f1068e085f37049197f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/d)
 
-[^key-ec1d6456d1c8da80be83a613dd381ea3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/e)
+[^c-ec1d6456d1c8da80be83a613dd381ea3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/e)
 
-[^key-12d94a452a61387486298fd43e3b4d8d]: Textual amendment: Words in art. 2 omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [19(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/19/2/a)
+[^c-12d94a452a61387486298fd43e3b4d8d]: Textual amendment: Words in art. 2 omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [19(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/19/2/a)
 
-[^key-447587012c51c66b4a0532a7036ca689]: Textual amendment: Words in art. 2 omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/a)
+[^c-447587012c51c66b4a0532a7036ca689]: Textual amendment: Words in art. 2 omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/a)
 
-[^key-b64faeb7cd2fc7011a594620d75fb47c]: Textual amendment: Words in art. 2 omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/b)
+[^c-b64faeb7cd2fc7011a594620d75fb47c]: Textual amendment: Words in art. 2 omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/b)
 
-[^key-30dceaf23dc20f5fb068145778d2a1b4]: Textual amendment: Words in art. 2 substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/2/b)
+[^c-30dceaf23dc20f5fb068145778d2a1b4]: Textual amendment: Words in art. 2 substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/2/b)
 
-[^key-c5bced77822452d0946eca1fde4188b5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(f)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/f)
+[^c-c5bced77822452d0946eca1fde4188b5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(f)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/f)
 
-[^key-958695a1ba96222fd3f029019afad401]: Textual amendment: Words in art. 2 omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [19(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/19/2/b)
+[^c-958695a1ba96222fd3f029019afad401]: Textual amendment: Words in art. 2 omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [19(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/19/2/b)
 
-[^key-7eb1fc5eb3d0b7fd6cdc7e8eab9c1d56]: Textual amendment: Words in art. 2 substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/c)
+[^c-7eb1fc5eb3d0b7fd6cdc7e8eab9c1d56]: Textual amendment: Words in art. 2 substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/c)
 
 [^c15868191]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-7fd25dd56342948c053189d0c3c48120]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(g)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/g)
+[^c-7fd25dd56342948c053189d0c3c48120]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(g)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/g)
 
-[^key-f94f65084a78aa46f2358dc54cfdcab2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) omitted (19.12.2023) by virtue of [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(h)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/h)
+[^c-f94f65084a78aa46f2358dc54cfdcab2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) omitted (19.12.2023) by virtue of [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(h)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/h)
 
-[^key-c0cc627d5335fccf8557a00a0e651ea4]: Textual amendment: Words in art. 2 substituted (19.12.2008) by [The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 (S.S.I. 2008/395)](https://www.legislation.gov.uk/ssi/2008/395), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/395/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2008/395/regulation/23), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2008/395/schedule/3/paragraph/4)
+[^c-c0cc627d5335fccf8557a00a0e651ea4]: Textual amendment: Words in art. 2 substituted (19.12.2008) by [The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 (S.S.I. 2008/395)](https://www.legislation.gov.uk/ssi/2008/395), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/395/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2008/395/regulation/23), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2008/395/schedule/3/paragraph/4)
 
-[^key-cfe04dad84a4c2fe9b64053ba14ae29f]: Textual amendment: Words in art. 2 inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(d)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/d)
+[^c-cfe04dad84a4c2fe9b64053ba14ae29f]: Textual amendment: Words in art. 2 inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [4(2)(d)](https://www.legislation.gov.uk/ssi/2019/71/regulation/4/2/d)
 
-[^key-23f444e6c34e60dc64699de75331b623]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/108/article/2/2)
+[^c-23f444e6c34e60dc64699de75331b623]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/108/article/2/2)
 
-[^key-b652ae3f23d1ceb3f943b8157d5de26a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(i)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/i)
+[^c-b652ae3f23d1ceb3f943b8157d5de26a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(i)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/i)
 
-[^key-5f62ebe7de96864b5d80f29c4f54eb71]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(j)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/j)
+[^c-5f62ebe7de96864b5d80f29c4f54eb71]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(j)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/j)
 
-[^key-3304386b6ae445616f1eef54d8880942]: Textual amendment: Words in art. 2 substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/2/c)
+[^c-3304386b6ae445616f1eef54d8880942]: Textual amendment: Words in art. 2 substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/2/c)
 
 [^c15868221]: Marginal citation: [S.S.I. 2006/337](https://www.legislation.gov.uk/ssi/2006/337).
 
-[^key-8195d9c541ff840cb2f48399bd45ae62]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(k)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/k)
+[^c-8195d9c541ff840cb2f48399bd45ae62]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2006/336/article/2) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(2)(k)](https://www.legislation.gov.uk/ssi/2023/361/article/2/2/k)

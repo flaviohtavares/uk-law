@@ -37,11 +37,11 @@ Made
 
 The Secretary of State makes the following Order in exercise of the power conferred by section 75(3) of the Data Protection Act 1998[^f00001]:
 
-## 1. Citation[^key-1b9ee3d1bc527b329d48be95ba7022c6]
+## 1. Citation[^c-1b9ee3d1bc527b329d48be95ba7022c6]
 
 This Order may be cited as the Data Protection Act 1998 (Commencement No. 4) Order 2015.
 
-## 2. Commencement of section 56 of the Data Protection Act 1998[^key-3318d494311fe4e8c364d779e5bc3619]
+## 2. Commencement of section 56 of the Data Protection Act 1998[^c-3318d494311fe4e8c364d779e5bc3619]
 
 The day appointed for the coming into force of section 56 (prohibition of requirement as to production of certain records) of the Data Protection Act 1998[^f00002], so far as it is not already in force, is 10th March 2015.
 
@@ -116,8 +116,8 @@ The following provisions of the Data Protection Act 1998 have been brought into 
 
 [^f00001]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29). Section 75(3) was amended by [2003/1887](https://www.legislation.gov.uk/uksi/2003/1887). Section 75(4) provides that the day appointed for the coming into force of section 56 must not be earlier than the first day on which sections 112, 113A and 113B of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) are all in force. Section 112 was commenced by [S.S.I. 2002/124](https://www.legislation.gov.uk/ssi/2002/124), [2008/692](https://www.legislation.gov.uk/uksi/2008/692) and [2014/237](https://www.legislation.gov.uk/uksi/2014/237). Section 113A was commenced by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [2006/378](https://www.legislation.gov.uk/uksi/2006/378), [2008/692](https://www.legislation.gov.uk/uksi/2008/692) and [2008/697](https://www.legislation.gov.uk/uksi/2008/697). Section 113B was commenced by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [2006/378](https://www.legislation.gov.uk/uksi/2006/378), [2006/2182](https://www.legislation.gov.uk/uksi/2006/2182), [2007/3064](https://www.legislation.gov.uk/uksi/2007/3064), [2008/306](https://www.legislation.gov.uk/uksi/2008/306), [2008/692](https://www.legislation.gov.uk/uksi/2008/692) and [2015/188](https://www.legislation.gov.uk/uksi/2015/188).
 
-[^key-1b9ee3d1bc527b329d48be95ba7022c6]: Commencement: Art. 1 in force at made date
+[^c-1b9ee3d1bc527b329d48be95ba7022c6]: Commencement: Art. 1 in force at made date
 
-[^key-3318d494311fe4e8c364d779e5bc3619]: Commencement: Art. 2 in force at made date
+[^c-3318d494311fe4e8c364d779e5bc3619]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: Section 56 was amended by the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), Schedule 9, paragraph 191; the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), section 78(2)(a); the Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36), section 68(4); the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 4, paragraph 112; the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), Schedule 9, paragraph 15; the Policing and Crime Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), section 81(2) and (3)(i); and the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 8, paragraph 187. Section 56 was also amended by [2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), [2007/1351](https://www.legislation.gov.uk/uksi/2007/1351), [2011/565](https://www.legislation.gov.uk/uksi/2011/565), [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [2012/3006](https://www.legislation.gov.uk/uksi/2012/3006), [2013/602](https://www.legislation.gov.uk/uksi/2013/602) and [2013/630](https://www.legislation.gov.uk/uksi/2013/630), and by [S.R.(NI) 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357).

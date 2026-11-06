@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Overview of Part[^key-e2575326c614089360c0b3398e3e06b8][^key-b325b783767c6261e841e78296dbc103]
+## 38. Overview of Part[^c-e2575326c614089360c0b3398e3e06b8][^c-b325b783767c6261e841e78296dbc103]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) Section 47 deals with how a category 1 regulator is to monitor and investigate the performance of authorised legal businesses.
 
-(6)[^key-35cecf0e819e3a3d2b9077b9b927594f] Section 48 and Part 2 of schedule 1 (which amends the 1980 Act)—
+(6)[^c-35cecf0e819e3a3d2b9077b9b927594f] Section 48 and Part 2 of schedule 1 (which amends the 1980 Act)—
 
 - (a) enable the Law Society to authorise (and regulate) legal businesses,
 - (b) reflect that incorporated practices (within the meaning of section 34 of the 1980 Act) are to be authorised as a type of legal business.
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e2575326c614089360c0b3398e3e06b8]: Commencement: S. 38 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e2575326c614089360c0b3398e3e06b8]: Commencement: S. 38 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-b325b783767c6261e841e78296dbc103]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/8/section/38) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-b325b783767c6261e841e78296dbc103]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/8/section/38) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-35cecf0e819e3a3d2b9077b9b927594f]: Commencement: [S. 38(6)](https://www.legislation.gov.uk/asp/2025/8/section/38/6) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-35cecf0e819e3a3d2b9077b9b927594f]: Commencement: [S. 38(6)](https://www.legislation.gov.uk/asp/2025/8/section/38/6) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

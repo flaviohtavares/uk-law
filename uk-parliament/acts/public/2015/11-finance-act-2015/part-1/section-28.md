@@ -124,8 +124,8 @@ summary: ''
 - (l) section 1072(8);
 - (m) section 1077(6);
 - (n) section 1078(7);
-- (o)[^key-2235ebbbc6b40114da2d0b7889b208c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (p)[^key-2235ebbbc6b40114da2d0b7889b208c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-2235ebbbc6b40114da2d0b7889b208c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^c-2235ebbbc6b40114da2d0b7889b208c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 104Y(2), for “and 1126” substitute “ to 1126B ”.
 
@@ -139,4 +139,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2235ebbbc6b40114da2d0b7889b208c3]: Textual amendment: [S. 28(4)(o)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/4/o)[(p)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/4/p) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/b)
+[^c-2235ebbbc6b40114da2d0b7889b208c3]: Textual amendment: [S. 28(4)(o)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/4/o)[(p)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/4/p) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/b)

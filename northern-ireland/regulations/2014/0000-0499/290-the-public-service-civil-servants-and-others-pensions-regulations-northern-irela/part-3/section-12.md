@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Scheme advisory board: conflicts of interest[^key-56373f011fa0b0d70be847b2bdc3a7d3]
+## 12. Scheme advisory board: conflicts of interest[^c-56373f011fa0b0d70be847b2bdc3a7d3]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56373f011fa0b0d70be847b2bdc3a7d3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2014/290/regulation/12) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-56373f011fa0b0d70be847b2bdc3a7d3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2014/290/regulation/12) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00046]: Footnote: See section 7(5) of the Act for the meaning of “conflict of interest”

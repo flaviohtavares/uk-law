@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Independent advocacy services for complaints about privately arranged or funded palliative care[^key-d4430f1d647223d2180d09878d21ffba]
+## 180. Independent advocacy services for complaints about privately arranged or funded palliative care[^c-d4430f1d647223d2180d09878d21ffba]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4430f1d647223d2180d09878d21ffba]: Commencement: S. 180 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/c)
+[^c-d4430f1d647223d2180d09878d21ffba]: Commencement: S. 180 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/c)

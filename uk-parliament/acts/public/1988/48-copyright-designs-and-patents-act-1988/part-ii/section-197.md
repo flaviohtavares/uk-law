@@ -30,11 +30,11 @@ summary: ''
 
 (5) In this Chapter “**illicit recording**” includes a recording falling to be treated as an illicit recording by virtue of any of the following provisions of Schedule 2—
 
-- paragraph 1D(3) (copies for text and data analysis for non-commercial research),[^key-2a6a34cc6c3299d7ea582f0420f97655]
-- paragraph 3A(5) or (6) or 3B(10) (accessible copies of recordings made for disabled persons)[^key-f51bbc0be76fe568bf16a955264a41b2]
-- paragraph 1B(5) and (7) (personal copies of recordings for private use),[^key-f2319d32d632d46bf7f8e9b72da521b1]
-- [^key-b03e821ec2250ddd98d38d2871545cea]...
-- paragraph 6(5) (recording by educational establishments of broadcasts),[^key-7ccc73e5733c19a6e916c6cc05e7eb40]
+- paragraph 1D(3) (copies for text and data analysis for non-commercial research),[^c-2a6a34cc6c3299d7ea582f0420f97655]
+- paragraph 3A(5) or (6) or 3B(10) (accessible copies of recordings made for disabled persons)[^c-f51bbc0be76fe568bf16a955264a41b2]
+- paragraph 1B(5) and (7) (personal copies of recordings for private use),[^c-f2319d32d632d46bf7f8e9b72da521b1]
+- [^c-b03e821ec2250ddd98d38d2871545cea]...
+- paragraph 6(5) (recording by educational establishments of broadcasts),[^c-7ccc73e5733c19a6e916c6cc05e7eb40]
 - paragraph 6F(5)(b) (copying by librarians: single copies of published recordings),
 - paragraph 6G(5)(b) (copying by librarians or archivists: single copies of unpublished recordings),
 - paragraph 6ZA(7) (copying and use of extracts of recordings by educational establishments),
@@ -54,15 +54,15 @@ but otherwise does not include a recording made in accordance with any of the pr
 
 [^c20325321]: Textual amendment: Words in s. 197(1)(5) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 
-[^key-2a6a34cc6c3299d7ea582f0420f97655]: Textual amendment: Words in s. 197(5) inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/7/a)
+[^c-2a6a34cc6c3299d7ea582f0420f97655]: Textual amendment: Words in s. 197(5) inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/7/a)
 
-[^key-f51bbc0be76fe568bf16a955264a41b2]: Textual amendment: Words in s. 197(5) inserted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/4)
+[^c-f51bbc0be76fe568bf16a955264a41b2]: Textual amendment: Words in s. 197(5) inserted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/4)
 
-[^key-f2319d32d632d46bf7f8e9b72da521b1]: Textual amendment: Words in s. 197(5) inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
+[^c-f2319d32d632d46bf7f8e9b72da521b1]: Textual amendment: Words in s. 197(5) inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
 
-[^key-b03e821ec2250ddd98d38d2871545cea]: Textual amendment: Words in s. 197(5) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/7/b)
+[^c-b03e821ec2250ddd98d38d2871545cea]: Textual amendment: Words in s. 197(5) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/7/b)
 
-[^key-7ccc73e5733c19a6e916c6cc05e7eb40]: Textual amendment: Words in s. 197(5) substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/7/c)
+[^c-7ccc73e5733c19a6e916c6cc05e7eb40]: Textual amendment: Words in s. 197(5) substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/7/c)
 
 [^c20312041]: Textual amendment: Words in s. 197(5) repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Power to seize documents etc[^key-663c99c279025009a98a9a71b97eb4fa]
+## 39. Power to seize documents etc[^c-663c99c279025009a98a9a71b97eb4fa]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ then any of the persons mentioned in subsection (3) may make an application to a
 
 ## Annotations
 
-[^key-663c99c279025009a98a9a71b97eb4fa]: Commencement: S. 39 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-663c99c279025009a98a9a71b97eb4fa]: Commencement: S. 39 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

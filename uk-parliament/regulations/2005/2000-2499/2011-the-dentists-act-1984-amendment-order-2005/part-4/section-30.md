@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Insertion of section 36J[^key-eca7590ba8d25690854b0bd6c4b46ace]
+## 30. Insertion of section 36J[^c-eca7590ba8d25690854b0bd6c4b46ace]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca7590ba8d25690854b0bd6c4b46ace]: Commencement: Art. 30 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-eca7590ba8d25690854b0bd6c4b46ace]: Commencement: Art. 30 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

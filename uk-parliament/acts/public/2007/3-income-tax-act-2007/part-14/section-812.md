@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 811 does not apply to income tax to which non-UK resident trustees are liable for a tax year, if there is a beneficiary of the trust who is—
 
-- (a) an individual who is [^key-165fee778c17eadf0bbf01bbe890b50e]... UK resident, or
+- (a) an individual who is [^c-165fee778c17eadf0bbf01bbe890b50e]... UK resident, or
 - (b) a UK resident company.
 
 (2) For the purposes of subsection (1) a person is a beneficiary of the trust if—
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-165fee778c17eadf0bbf01bbe890b50e]: Textual amendment: Word in s. 812(1)(a) omitted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 66](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/66)
+[^c-165fee778c17eadf0bbf01bbe890b50e]: Textual amendment: Word in s. 812(1)(a) omitted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 66](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/66)

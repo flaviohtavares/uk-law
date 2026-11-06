@@ -61,9 +61,9 @@ A. K. Galloway
 
 Clerk of the Privy Council
 
-## SCHEDULE — THE HEALTH PROFESSIONS COUNCIL (REGISTRATION APPEALS) RULES 2003[^key-51d9e3062179776a842aaa539ab93f2d]
+## SCHEDULE — THE HEALTH PROFESSIONS COUNCIL (REGISTRATION APPEALS) RULES 2003[^c-51d9e3062179776a842aaa539ab93f2d]
 
-[^key-51d9e3062179776a842aaa539ab93f2d]
+[^c-51d9e3062179776a842aaa539ab93f2d]
 
 The Health Professions Council, in exercise of its powers under articles 37(1), (4) and (5) and 41(2) of the Health Professions Order 2001 [^c5050441] and of all other powers enabling it in that behalf and after consulting in accordance with article 41(3) of that Order, hereby makes the following Rules:
 
@@ -74,15 +74,15 @@ The Health Professions Council, in exercise of its powers under articles 37(1), 
 - “**appeal**” means an appeal which is made to the Council in accordance with article 37(1) of the Order;
 - “**Appeal Panel**” means a panel appointed under rule 9 to consider an appeal;
 - “**appellant**” means a person who makes an appeal;
-- “Chair” means the Chair of an Appeal Panel;[^key-205adc918fa4d8b8200e3739dafcb969]
+- “Chair” means the Chair of an Appeal Panel;[^c-205adc918fa4d8b8200e3739dafcb969]
 - “**Committee**” means the Education and Training Committee of the Council; and
-- “**Order**” means the Health Professions Order 2001[^key-2d0ee2c9498167eea4a02dcd537a7138].
+- “**Order**” means the Health Professions Order 2001[^c-2d0ee2c9498167eea4a02dcd537a7138].
 
-### 2A. Emergency virtual meetings and hearings[^key-ee4a62cb27030ae40290652a7e857e21]
+### 2A. Emergency virtual meetings and hearings[^c-ee4a62cb27030ae40290652a7e857e21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Service of Documents[^key-cd982b3937ef42a62636106b79433c5f]
+### 3. Service of Documents[^c-cd982b3937ef42a62636106b79433c5f]
 
 In these Rules a reference to the sending of a notice or other document to any person is a reference to it being—
 
@@ -96,12 +96,12 @@ In these Rules a reference to the sending of a notice or other document to any p
   - (i) sent by post to or left at the last known address of that person, or
   - (ii) sent by electronic mail to an electronic mail address which the person has notified to the Council as an address for communications.
 
-**3A.**[^key-c4d971f5df5bf8dbcfb64a068fdd2d2f] Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
+**3A.**[^c-c4d971f5df5bf8dbcfb64a068fdd2d2f] Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
 
 **4.** The period within which the person aggrieved may appeal to the Council under article 37(1) of the Order is—
 
 - (a) where the appeal is against a decision referred to in sub-paragraph (a), (b) or (c) of that article, before the end of the period of 28 days beginning with the day on which the Committee made the decision; or
-- (b) where the appeal is against a failure to issue a decision as referred to in sub-paragraph (d) of that article, before the end of the period of 28 days beginning with the day after the end of the period of three months referred to in article 9(5) of the Order[^key-45c8cef25d70336a649c25eb8d1a4526].
+- (b) where the appeal is against a failure to issue a decision as referred to in sub-paragraph (d) of that article, before the end of the period of 28 days beginning with the day after the end of the period of three months referred to in article 9(5) of the Order[^c-45c8cef25d70336a649c25eb8d1a4526].
 
 **5.** (1) An appeal shall be made by giving notice in writing in accordance with the following paragraphs.
 
@@ -143,7 +143,7 @@ In these Rules a reference to the sending of a notice or other document to any p
 
 (2) The quorum of the Council when considering an appeal is seven and shall consist of registrant members and lay members and the number of members who are registrants may exceed the number of lay members but may not exceed them by more than one.
 
-(3)[^key-f5f92ef544d175cc1aeb7c8deb6dede7] An Appeal Panel shall comprise not fewer than three members appointed by the Council and shall include—
+(3)[^c-f5f92ef544d175cc1aeb7c8deb6dede7] An Appeal Panel shall comprise not fewer than three members appointed by the Council and shall include—
 
 - (a) a person who is registered in the same part of the register as that in which the appellant is, or is applying to be, registered;
 - (b) a person who—
@@ -151,13 +151,13 @@ In these Rules a reference to the sending of a notice or other document to any p
   - (ii) does not hold a qualification that would entitle them to apply for registration under the Order;
 - (c) where the health of the appellant is in issue, a registered medical practitioner.
 
-(4) A member of the Council shall be appointed as Chair (and may also count as the registrant or lay person mentioned in paragraphs (3)(b)(i) and (ii))[^key-fcb89beb1ae4ec420629d83c495e1e84].
+(4) A member of the Council shall be appointed as Chair (and may also count as the registrant or lay person mentioned in paragraphs (3)(b)(i) and (ii))[^c-fcb89beb1ae4ec420629d83c495e1e84].
 
 (5) A person who has been involved in any other capacity in a case which is to be considered by an Appeal Panel shall not be appointed as a member of that Panel.
 
-(6) Decisions by an Appeal Panel shall be made by a majority vote of those present and, in the event of a tie, the Chair[^key-d2133a4ef7f964d7079dbd5d6a4a91a8] shall have an additional casting vote which shall be exercised in favour of the appellant.
+(6) Decisions by an Appeal Panel shall be made by a majority vote of those present and, in the event of a tie, the Chair[^c-d2133a4ef7f964d7079dbd5d6a4a91a8] shall have an additional casting vote which shall be exercised in favour of the appellant.
 
-(7)[^key-50239e656c2b52b1beac441c6449f062] The members of an Appeal Panel, other than the Chair, shall be appointed from among the members of the Practice Committees.
+(7)[^c-50239e656c2b52b1beac441c6449f062] The members of an Appeal Panel, other than the Chair, shall be appointed from among the members of the Practice Committees.
 
 (8) A person—
 
@@ -193,7 +193,7 @@ In these Rules a reference to the sending of a notice or other document to any p
 
 the Appeal Panel may nevertheless proceed with the hearing if it is satisfied that all reasonable steps have been taken to give notice of the hearing to the appellant.
 
-**14.** (1) The[^key-b2a9a44f720eca42600468ac23eafe98][^key-db3f7af4ef6cd07a6badf609ce2f290e] hearing shall be held in public unless the Appeal Panel is satisfied that, in the interests of justice or for the protection of the private life of the appellant[^key-11a34d0a37f239a6301adbe273eedc60], the complainant, any person giving evidence or of any patient or client, the public should be excluded from all or part of the hearing.
+**14.** (1) The[^c-b2a9a44f720eca42600468ac23eafe98][^c-db3f7af4ef6cd07a6badf609ce2f290e] hearing shall be held in public unless the Appeal Panel is satisfied that, in the interests of justice or for the protection of the private life of the appellant[^c-11a34d0a37f239a6301adbe273eedc60], the complainant, any person giving evidence or of any patient or client, the public should be excluded from all or part of the hearing.
 
 (2) At the beginning of the hearing the Chairman shall explain to the parties the order of proceedings which the Appeal Panel proposes to adopt.
 
@@ -219,7 +219,7 @@ shall be read as references to the representative of the Committee or the appell
 
 (6) Except as provided in paragraph (5) references in paragraph (3) to the Committee shall be references to the Chairman of the Committee or any other person nominated by the Committee to appear on its behalf.
 
-### 14A. Meetings and hearings[^key-3eccf5189b591aa710fe6c91ac86e6cd]
+### 14A. Meetings and hearings[^c-3eccf5189b591aa710fe6c91ac86e6cd]
 
 (1) In the case of—
 
@@ -254,34 +254,34 @@ This Order, which is made under the Health Professions Order 2001, approves Rule
 
 [^c5050431]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
-[^key-51d9e3062179776a842aaa539ab93f2d]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2003/1579/schedule) continued (with modifications) (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [reg. 23(9)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/9)
+[^c-51d9e3062179776a842aaa539ab93f2d]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2003/1579/schedule) continued (with modifications) (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [reg. 23(9)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/9)
 
 [^c5050441]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
-[^key-205adc918fa4d8b8200e3739dafcb969]: Textual amendment: Words in Sch. rule 2 substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/a)
+[^c-205adc918fa4d8b8200e3739dafcb969]: Textual amendment: Words in Sch. rule 2 substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/a)
 
-[^key-2d0ee2c9498167eea4a02dcd537a7138]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/2) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1094/schedule/1/paragraph/9)
+[^c-2d0ee2c9498167eea4a02dcd537a7138]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/2) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1094/schedule/1/paragraph/9)
 
-[^key-ee4a62cb27030ae40290652a7e857e21]: Textual amendment: [Sch. rule 2A](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/2A) omitted (9.11.2023) by virtue of [The Health and Care Professions Council (Miscellaneous Amendment) Rules Order of Council 2023 (S.I. 2023/995)](https://www.legislation.gov.uk/uksi/2023/995), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/995/article/1/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2023/995/schedule/paragraph/6/a)
+[^c-ee4a62cb27030ae40290652a7e857e21]: Textual amendment: [Sch. rule 2A](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/2A) omitted (9.11.2023) by virtue of [The Health and Care Professions Council (Miscellaneous Amendment) Rules Order of Council 2023 (S.I. 2023/995)](https://www.legislation.gov.uk/uksi/2023/995), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/995/article/1/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2023/995/schedule/paragraph/6/a)
 
-[^key-cd982b3937ef42a62636106b79433c5f]: Textual amendment: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/3) substituted (4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/27)](https://www.legislation.gov.uk/uksi/2021/27), [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1), [Sch. rule 5(3)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/3)
+[^c-cd982b3937ef42a62636106b79433c5f]: Textual amendment: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/3) substituted (4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/27)](https://www.legislation.gov.uk/uksi/2021/27), [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1), [Sch. rule 5(3)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/3)
 
-[^key-c4d971f5df5bf8dbcfb64a068fdd2d2f]: Textual amendment: Sch. rule 3A inserted (4.3.2021) by [S.I. 2021/27](https://www.legislation.gov.uk/uksi/2021/27), [Sch. rule 5(3A)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/3A) (as inserted by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2))
+[^c-c4d971f5df5bf8dbcfb64a068fdd2d2f]: Textual amendment: Sch. rule 3A inserted (4.3.2021) by [S.I. 2021/27](https://www.legislation.gov.uk/uksi/2021/27), [Sch. rule 5(3A)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/3A) (as inserted by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2))
 
-[^key-45c8cef25d70336a649c25eb8d1a4526]: Textual amendment: Words in [Sch. rule 4(b)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/4/b) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/8/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/8/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [16(6)-(13)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/16/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45c8cef25d70336a649c25eb8d1a4526]: Textual amendment: Words in [Sch. rule 4(b)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/4/b) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/8/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/8/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [16(6)-(13)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/16/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f5f92ef544d175cc1aeb7c8deb6dede7]: Textual amendment: Sch. rule 9(3) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(i)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/i)
+[^c-f5f92ef544d175cc1aeb7c8deb6dede7]: Textual amendment: Sch. rule 9(3) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(i)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/i)
 
-[^key-fcb89beb1ae4ec420629d83c495e1e84]: Textual amendment: Words in Sch. rule 9(4) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/ii)
+[^c-fcb89beb1ae4ec420629d83c495e1e84]: Textual amendment: Words in Sch. rule 9(4) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/ii)
 
-[^key-d2133a4ef7f964d7079dbd5d6a4a91a8]: Textual amendment: Word in Sch. rule 9(6) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(iii)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/iii)
+[^c-d2133a4ef7f964d7079dbd5d6a4a91a8]: Textual amendment: Word in Sch. rule 9(6) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(iii)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/iii)
 
-[^key-50239e656c2b52b1beac441c6449f062]: Textual amendment: Sch. rule 9(7)(8) inserted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(iv)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/iv)
+[^c-50239e656c2b52b1beac441c6449f062]: Textual amendment: Sch. rule 9(7)(8) inserted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(iv)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/iv)
 
-[^key-b2a9a44f720eca42600468ac23eafe98]: Textual amendment: Word in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14/1) substituted (9.11.2023) by [The Health and Care Professions Council (Miscellaneous Amendment) Rules Order of Council 2023 (S.I. 2023/995)](https://www.legislation.gov.uk/uksi/2023/995), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/995/article/1/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2023/995/schedule/paragraph/6/b)
+[^c-b2a9a44f720eca42600468ac23eafe98]: Textual amendment: Word in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14/1) substituted (9.11.2023) by [The Health and Care Professions Council (Miscellaneous Amendment) Rules Order of Council 2023 (S.I. 2023/995)](https://www.legislation.gov.uk/uksi/2023/995), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/995/article/1/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2023/995/schedule/paragraph/6/b)
 
-[^key-db3f7af4ef6cd07a6badf609ce2f290e]: Textual amendment: Words in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14/1) inserted (4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/27)](https://www.legislation.gov.uk/uksi/2021/27), [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1), [Sch. rule 5(4)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/4)
+[^c-db3f7af4ef6cd07a6badf609ce2f290e]: Textual amendment: Words in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14/1) inserted (4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/27)](https://www.legislation.gov.uk/uksi/2021/27), [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1), [Sch. rule 5(4)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/4)
 
-[^key-11a34d0a37f239a6301adbe273eedc60]: Textual amendment: Word in Sch. rule 14(1) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential ProvisionSocial Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2012/1479/article/9/3)
+[^c-11a34d0a37f239a6301adbe273eedc60]: Textual amendment: Word in Sch. rule 14(1) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential ProvisionSocial Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2012/1479/article/9/3)
 
-[^key-3eccf5189b591aa710fe6c91ac86e6cd]: Textual amendment: [Sch. rule 14A](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14A) substituted (29.4.2025) by [The Health and Care Professions Council (Miscellaneous Amendments) Rules Order of Council 2025 (S.I. 2025/240)](https://www.legislation.gov.uk/uksi/2025/240), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/240/article/1/1), [Sch. rule 6](https://www.legislation.gov.uk/uksi/2025/240/schedule/rule/6)
+[^c-3eccf5189b591aa710fe6c91ac86e6cd]: Textual amendment: [Sch. rule 14A](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14A) substituted (29.4.2025) by [The Health and Care Professions Council (Miscellaneous Amendments) Rules Order of Council 2025 (S.I. 2025/240)](https://www.legislation.gov.uk/uksi/2025/240), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/240/article/1/1), [Sch. rule 6](https://www.legislation.gov.uk/uksi/2025/240/schedule/rule/6)

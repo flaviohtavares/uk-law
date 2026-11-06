@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Land transaction tax[^key-9978d5bc4b62a4adfee2a14d9a2db8ff]
+## 2. Land transaction tax[^c-9978d5bc4b62a4adfee2a14d9a2db8ff]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9978d5bc4b62a4adfee2a14d9a2db8ff]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/1/section/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9978d5bc4b62a4adfee2a14d9a2db8ff]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/1/section/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

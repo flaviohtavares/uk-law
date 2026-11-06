@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Politically exposed persons: review of guidance[^key-af6762a049ade9ebe9530c7754aef4be]
+## 78. Politically exposed persons: review of guidance[^c-af6762a049ade9ebe9530c7754aef4be]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af6762a049ade9ebe9530c7754aef4be]: Commencement: S. 78 in force at Royal Assent, see [s. 86(1)(g)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/g)
+[^c-af6762a049ade9ebe9530c7754aef4be]: Commencement: S. 78 in force at Royal Assent, see [s. 86(1)(g)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/g)

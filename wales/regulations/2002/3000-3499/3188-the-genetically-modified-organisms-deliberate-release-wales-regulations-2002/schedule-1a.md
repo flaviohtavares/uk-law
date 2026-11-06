@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1A — Information to be included in applications for consent to market genetically modified higher plants[^key-dbfcf3594f8ab7676b640b74c1ddd759]
+## SCHEDULE 1A — Information to be included in applications for consent to market genetically modified higher plants[^c-dbfcf3594f8ab7676b640b74c1ddd759]
 
 *Extent: E+W*
 
@@ -177,6 +177,6 @@ except where the applicant considers it is not relevant in view of the intended 
 
 ## Annotations
 
-[^key-dbfcf3594f8ab7676b640b74c1ddd759]: Textual amendment: Sch. 1A inserted (30.10.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (Wales) Regulations 2019 (S.I. 2019/1316)](https://www.legislation.gov.uk/wsi/2019/1316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/1316/regulation/7)
+[^c-dbfcf3594f8ab7676b640b74c1ddd759]: Textual amendment: Sch. 1A inserted (30.10.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (Wales) Regulations 2019 (S.I. 2019/1316)](https://www.legislation.gov.uk/wsi/2019/1316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/1316/regulation/7)
 
 [^M_F_8e468680-9ed1-4e96-a030-4ac2267f25f9]: Textual amendment: Words in [Sch. 1A para. 15(c)](https://www.legislation.gov.uk/wsi/2002/3188/schedule/1A/paragraph/15/c) substituted by S.I. 2019/1316, reg. 7 (as amended) (30.10.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1407)](https://www.legislation.gov.uk/wsi/2019/1407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1407/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1407/regulation/4/b)

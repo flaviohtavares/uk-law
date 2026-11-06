@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-616e4b98df661c3962f08122e6d50799] Without prejudice to section 111 above, every local authority shall make arrangements for the proper administration of their financial affairs and shall secure that one of their officers has responsibility for the administration of those affairs.
+(1)[^c-616e4b98df661c3962f08122e6d50799] Without prejudice to section 111 above, every local authority shall make arrangements for the proper administration of their financial affairs and shall secure that one of their officers has responsibility for the administration of those affairs.
 
-(2)[^key-7c68f5a4746cea475d7e51edc2abd5b1] This section applies to a corporate joint committee as it applies to a local authority.
+(2)[^c-7c68f5a4746cea475d7e51edc2abd5b1] This section applies to a corporate joint committee as it applies to a local authority.
 
 ## Annotations
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c20521161]: Modification: S. 151 applied (1.4.2009) by [The Charter Trustees Regulations 2009 (S.I. 2009/467)](https://www.legislation.gov.uk/uksi/2009/467), [reg. 14(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/14/1)
 
-[^key-616e4b98df661c3962f08122e6d50799]: Textual amendment: S. 151 renumbered as s. 151(1) (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/5/2)
+[^c-616e4b98df661c3962f08122e6d50799]: Textual amendment: S. 151 renumbered as s. 151(1) (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/5/2)
 
-[^key-7c68f5a4746cea475d7e51edc2abd5b1]: Textual amendment: [S. 151(2)](https://www.legislation.gov.uk/ukpga/1972/70/section/151/2) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/5/3)
+[^c-7c68f5a4746cea475d7e51edc2abd5b1]: Textual amendment: [S. 151(2)](https://www.legislation.gov.uk/ukpga/1972/70/section/151/2) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/5/3)

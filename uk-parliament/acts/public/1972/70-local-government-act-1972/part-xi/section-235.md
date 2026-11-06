@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The council of a district [^key-1814bc57d497d4a02beb9ba041d80e24]... and the council of a London borough may make byelaws for the good rule and government of the whole or any part of the district [^key-cf9436707af2aa2065754d3c09237acf]... or borough, as the case may be, and for the prevention and suppression of nuisances therein.
+(1) The council of a district [^c-1814bc57d497d4a02beb9ba041d80e24]... and the council of a London borough may make byelaws for the good rule and government of the whole or any part of the district [^c-cf9436707af2aa2065754d3c09237acf]... or borough, as the case may be, and for the prevention and suppression of nuisances therein.
 
 (2) The confirming authority in relation to byelaws made under this section shall be the Secretary of State.
 
-(2A)[^key-7a66b523b27d147a667e4b2ab67c1182] Subsection (2) does not apply to byelaws of a class prescribed by regulations under section 236A(1).
+(2A)[^c-7a66b523b27d147a667e4b2ab67c1182] Subsection (2) does not apply to byelaws of a class prescribed by regulations under section 236A(1).
 
-(3)[^key-70d06ebe55fab7d47530670ce2e5e499] Byelaws shall not be made under this section for any purpose as respects any area if provision for that purpose as respects that area is made by, or is or may be made under, any other enactment.
+(3)[^c-70d06ebe55fab7d47530670ce2e5e499] Byelaws shall not be made under this section for any purpose as respects any area if provision for that purpose as respects that area is made by, or is or may be made under, any other enactment.
 
 ## Annotations
 
@@ -36,10 +36,10 @@ summary: ''
 
     [S. 235](https://www.legislation.gov.uk/ukpga/1972/70/section/235) functions made exercisable concurrently (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [art. 25(2)(xii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xii)
 
-[^key-1814bc57d497d4a02beb9ba041d80e24]: Textual amendment: Words in s. 235(1) omitted (31.3.2015) by virtue of [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/9/2/a); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-1814bc57d497d4a02beb9ba041d80e24]: Textual amendment: Words in s. 235(1) omitted (31.3.2015) by virtue of [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/9/2/a); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-cf9436707af2aa2065754d3c09237acf]: Textual amendment: Words in s. 235(1) omitted (31.3.2015) by virtue of [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/9/2/b); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-cf9436707af2aa2065754d3c09237acf]: Textual amendment: Words in s. 235(1) omitted (31.3.2015) by virtue of [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/9/2/b); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-7a66b523b27d147a667e4b2ab67c1182]: Textual amendment: S. 235(2A) inserted (E.) (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/5/2)
+[^c-7a66b523b27d147a667e4b2ab67c1182]: Textual amendment: S. 235(2A) inserted (E.) (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/5/2)
 
-[^key-70d06ebe55fab7d47530670ce2e5e499]: Modification: S. 235(3) restricted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)
+[^c-70d06ebe55fab7d47530670ce2e5e499]: Modification: S. 235(3) restricted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)

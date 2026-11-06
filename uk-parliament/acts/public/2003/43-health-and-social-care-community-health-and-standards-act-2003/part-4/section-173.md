@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. General dental services: transitional[^c552141][^key-55e63a3a3de4b74cab3a0bab54804ef5][^key-341dea6567d56e391a5c44c922b5faf2]
+## 173. General dental services: transitional[^c552141][^c-55e63a3a3de4b74cab3a0bab54804ef5][^c-341dea6567d56e391a5c44c922b5faf2]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c552141]: Commencement: S. 173 partly in force; s. 173 in force at Royal Assent for certain purposes, see s. 199(1)(4)
 
-[^key-55e63a3a3de4b74cab3a0bab54804ef5]: Commencement: S. 173 in force at 1.12.2005 for E. by [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2005/2925/article/5/1/c)
+[^c-55e63a3a3de4b74cab3a0bab54804ef5]: Commencement: S. 173 in force at 1.12.2005 for E. by [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2005/2925/article/5/1/c)
 
-[^key-341dea6567d56e391a5c44c922b5faf2]: Commencement: S. 173 in force at 15.2.2006 for W. in so far as not already in force by [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2006/345/article/3/1/b)
+[^c-341dea6567d56e391a5c44c922b5faf2]: Commencement: S. 173 in force at 15.2.2006 for W. in so far as not already in force by [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2006/345/article/3/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Continuity[^key-3abd9b3fe41dc15671dfd8bf2afc458f]
+## 6. Continuity[^c-3abd9b3fe41dc15671dfd8bf2afc458f]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ has effect as if made or done by or in relation to the combined authority.
 
 ## Annotations
 
-[^key-3abd9b3fe41dc15671dfd8bf2afc458f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/470/article/6) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-3abd9b3fe41dc15671dfd8bf2afc458f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/470/article/6) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Certain guarantees not capable of being arm’s length[^key-53af67ba621179d9d8d3f298dbc36bed]
+## 153A. Certain guarantees not capable of being arm’s length[^c-53af67ba621179d9d8d3f298dbc36bed]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ provision for the guarantee (to the extent it relates to the borrowing of that a
 
 ## Annotations
 
-[^key-53af67ba621179d9d8d3f298dbc36bed]: Textual amendment: [S. 153A](https://www.legislation.gov.uk/ukpga/2010/8/section/153A) inserted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/3), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-53af67ba621179d9d8d3f298dbc36bed]: Textual amendment: [S. 153A](https://www.legislation.gov.uk/ukpga/2010/8/section/153A) inserted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/3), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)

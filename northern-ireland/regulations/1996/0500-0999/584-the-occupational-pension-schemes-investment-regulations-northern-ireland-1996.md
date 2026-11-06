@@ -44,7 +44,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-8b978e88065180e122dbb06f9c9c8f92]
+### 1. Citation, commencement and interpretation[^c-8b978e88065180e122dbb06f9c9c8f92]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
@@ -68,7 +68,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part II — Restrictions on Employer-Related Investments
 
-### 2. Schemes to which regulation 5 applies[^key-5397385243a3ff735abd826d9da0ca65]
+### 2. Schemes to which regulation 5 applies[^c-5397385243a3ff735abd826d9da0ca65]
 
 (1) Subject to paragraph (2), regulation 5 applies to schemes—
 
@@ -84,11 +84,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - (a) which have fewer than 12 members each of whom is a trustee of the scheme; and
 - (b) the rules of which provide that, before any investment of the resources of the scheme is made in employer-related investments, each member shall agree in writing to the making of that investment.
 
-### 3. “Connected” persons[^key-75710d5919a75a1d34723af245a980fd]
+### 3. “Connected” persons[^c-75710d5919a75a1d34723af245a980fd]
 
 Article 7 of the Insolvency (Northern Ireland) Order 1989 (connected persons) shall be modified in its application for the purposes of Article 40 and these Regulations so that a company shall not be connected with another company solely by reason of one or more of its directors being a director of that other company.
 
-### 4. Prescription of investments as employer-related investments[^key-48592eb9f80e4e13526cdbafdb94a8f1]
+### 4. Prescription of investments as employer-related investments[^c-48592eb9f80e4e13526cdbafdb94a8f1]
 
 For the purposes of paragraph (*e*) of the definition of “employer-related investments” in Article 40(2) the following are prescribed as employer-related investments—
 
@@ -103,7 +103,7 @@ For the purposes of paragraph (*e*) of the definition of “employer-related inv
 - B represents that part of A which would, if invested by the scheme, be employer-related investments; and
   - (a) where any of a scheme’s resources are invested in a policy of insurance (not being resources invested in a fund created only for the purposes of that policy) the terms of which permit the trustees or managers or the employer to direct that some or all of the premiums or other consideration for the rights acquired under the policy, or any monies otherwise credited to, or for the benefit of, the trustees or managers or the members, are invested in employer-related investments, any investments made by the insurer from those premiums or other consideration or monies, which would have been employer-related investments if they had been made by the scheme.
 
-### 5. Restrictions on employer-related investments[^key-e43d38aa0d95d3251e88da88ce8897a5]
+### 5. Restrictions on employer-related investments[^c-e43d38aa0d95d3251e88da88ce8897a5]
 
 (1) Subject to regulations 6 to 9—
 
@@ -118,7 +118,7 @@ For the purposes of paragraph (*e*) of the definition of “employer-related inv
 - (b) a security mentioned in paragraph (*a*) of the definition of “employer-related investments” in Article 40(2) which falls within paragraph 2 of Schedule 1 to the Financial Services Act 1986 (investments and investment business), except any such security which is listed on a recognised stock exchange; and
 - (c) an employer-related investment prescribed as such by regulation 4(*b*) or (*c*).
 
-### 6. Investments to which restrictions do not apply[^key-a0a59383483480fd6eb1829e83706e2f]
+### 6. Investments to which restrictions do not apply[^c-a0a59383483480fd6eb1829e83706e2f]
 
 (1) Regulation 5(1) shall not restrict or prohibit investments to which this regulation applies.
 
@@ -180,7 +180,7 @@ and for the purposes of paragraph (9)(*d*) all issues within a group of companie
 - (a) employer-related investments which were, prior to the commencement of the winding up, held in contravention of these Regulations; or
 - (b) employer-related loans to which regulation 7(2)(*c*) applies.
 
-### 7. Transitional provisions[^key-c35b56530793f77a4f43f6d875372a5d]
+### 7. Transitional provisions[^c-c35b56530793f77a4f43f6d875372a5d]
 
 (1) Where on the commencement date the resources of a scheme are invested in—
 
@@ -216,7 +216,7 @@ those investments may be retained in accordance with paragraph (2).
 - “loans” does not include any sums regarded as loans under Article 40(3); and
 - “retained”, in relation to a loan, means left undischarged.
 
-### 8. Loans that become employer-related[^key-6c95037dc7fd95282bd9f2252d44adce]
+### 8. Loans that become employer-related[^c-6c95037dc7fd95282bd9f2252d44adce]
 
 (1) If either a loan or a security falling within paragraph 2 of Schedule 1 to the Financial Services Act 1986 becomes an employer-related loan on or after the commencement date as a result of a change in the ownership of the employer or the person to whom the loan was made, the loan or security may be retained until whichever is the latest of—
 
@@ -229,7 +229,7 @@ those investments may be retained in accordance with paragraph (2).
 - “loan” does not include any sum regarded as a loan under Article 40(3); and
 - “retained” means left undischarged.
 
-### 9. Multi-employer schemes[^key-76fd1b290c8bf4b0b5919d382d28e1e3]
+### 9. Multi-employer schemes[^c-76fd1b290c8bf4b0b5919d382d28e1e3]
 
 (1) Where a scheme in relation to which there is more than one employer is divided into 2 or more sections and the provisions of the scheme are such that—
 
@@ -261,7 +261,7 @@ then this Part of these Regulations (excepting this regulation) shall apply as i
 
 ## Part III — Exemptions from, and Modification of, Requirement to Obtain Statement of Investment Principles
 
-### 10. Exemptions from Article 35[^key-9597863fa18ff6fec13951e51f59873d]
+### 10. Exemptions from Article 35[^c-9597863fa18ff6fec13951e51f59873d]
 
 (1) In this regulation “wholly insured scheme” means a trust scheme which has no investments other than policies of insurance the effecting of which constitutes the carrying on of long term business falling within Class I or Class III of Schedule 1 to the Insurance Companies Act 1982.
 
@@ -293,7 +293,7 @@ then this Part of these Regulations (excepting this regulation) shall apply as i
 - (c) the investment management in relation to each such investment fund is undertaken by the insurance company without direction or influence by the trustees; and
 - (d) no individual asset held in any such fund is attributed to monies invested for the benefit of the trustees, members or any other beneficiaries of any particular scheme.
 
-### 11. Multi-employer schemes: modification of Article 35[^key-dc1cc1037c9bab5cc3380f9cde133bab]
+### 11. Multi-employer schemes: modification of Article 35[^c-dc1cc1037c9bab5cc3380f9cde133bab]
 
 (1) In the application of Article 35 to a trust scheme in relation to which there is more than one employer, the requirement imposed by paragraph (5)(*b*) of that Article—
 
@@ -305,7 +305,7 @@ then this Part of these Regulations (excepting this regulation) shall apply as i
 
 ## Part IV — Amendment
 
-### 12. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-23b6cb214d3dfcf42180b7be71ca3fcd]
+### 12. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^c-23b6cb214d3dfcf42180b7be71ca3fcd]
 
 (1) In regulation 6(1)(*b*) of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00014] (excluded assets) after “or 75(1)” there shall be inserted “or under section 140(1) of the Pension Schemes (Northern Ireland) Act 1993”.
 
@@ -326,7 +326,7 @@ then this Part of these Regulations (excepting this regulation) shall apply as i
 
 ## Part V — Revocations
 
-### 13. Revocations[^key-bce1aaa029928f9dde915b1a2c17f2ab]
+### 13. Revocations[^c-bce1aaa029928f9dde915b1a2c17f2ab]
 
 (1) The Occupational Pension Schemes (Investment of Scheme’s Resources) Regulations (Northern Ireland) 1992 are hereby revoked.
 
@@ -360,7 +360,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-8b978e88065180e122dbb06f9c9c8f92]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-8b978e88065180e122dbb06f9c9c8f92]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
 
@@ -372,15 +372,15 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5397385243a3ff735abd826d9da0ca65]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-5397385243a3ff735abd826d9da0ca65]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-75710d5919a75a1d34723af245a980fd]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-75710d5919a75a1d34723af245a980fd]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-48592eb9f80e4e13526cdbafdb94a8f1]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-48592eb9f80e4e13526cdbafdb94a8f1]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-e43d38aa0d95d3251e88da88ce8897a5]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-e43d38aa0d95d3251e88da88ce8897a5]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-a0a59383483480fd6eb1829e83706e2f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-a0a59383483480fd6eb1829e83706e2f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
 [^f00007]: Footnote: Section 2(6) was inserted by regulation 4(2) of [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696)
 
@@ -394,22 +394,22 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00012]: Footnote: The Note to paragraph 1 was amended by article 2 of [S.I. 1991/1104](https://www.legislation.gov.uk/uksi/1991/1104)
 
-[^key-c35b56530793f77a4f43f6d875372a5d]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-c35b56530793f77a4f43f6d875372a5d]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1992 No. 47](https://www.legislation.gov.uk/nisr/1992/47); regulation 5(4) was amended by paragraph 30 of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-6c95037dc7fd95282bd9f2252d44adce]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-6c95037dc7fd95282bd9f2252d44adce]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-76fd1b290c8bf4b0b5919d382d28e1e3]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-76fd1b290c8bf4b0b5919d382d28e1e3]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-9597863fa18ff6fec13951e51f59873d]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-9597863fa18ff6fec13951e51f59873d]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-dc1cc1037c9bab5cc3380f9cde133bab]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-dc1cc1037c9bab5cc3380f9cde133bab]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
-[^key-23b6cb214d3dfcf42180b7be71ca3fcd]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-23b6cb214d3dfcf42180b7be71ca3fcd]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570)
 
-[^key-bce1aaa029928f9dde915b1a2c17f2ab]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
+[^c-bce1aaa029928f9dde915b1a2c17f2ab]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/584/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)

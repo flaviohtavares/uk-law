@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Further Education Teachers’ Qualifications (England) (Amendment) Regulations 2011 (revoked)[^key-6a890112b4f73521cd2961a8744d50e3]
+The Further Education Teachers’ Qualifications (England) (Amendment) Regulations 2011 (revoked)[^c-6a890112b4f73521cd2961a8744d50e3]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st April 2011
 
-[^key-6a890112b4f73521cd2961a8744d50e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a890112b4f73521cd2961a8744d50e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6a890112b4f73521cd2961a8744d50e3]
+## 1. Citation and commencement[^c-6a890112b4f73521cd2961a8744d50e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Further Education Teachers’ Qualifications (England) Regulations 2007[^key-6a890112b4f73521cd2961a8744d50e3]
+## 2. Amendment of the Further Education Teachers’ Qualifications (England) Regulations 2007[^c-6a890112b4f73521cd2961a8744d50e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6a890112b4f73521cd2961a8744d50e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6a890112b4f73521cd2961a8744d50e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a890112b4f73521cd2961a8744d50e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a890112b4f73521cd2961a8744d50e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a890112b4f73521cd2961a8744d50e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a890112b4f73521cd2961a8744d50e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a890112b4f73521cd2961a8744d50e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/690) revoked (1.9.2013) by [The Further Education Teachers’ Qualifications (England) (Revocation) Regulations 2013 (S.I. 2013/1976)](https://www.legislation.gov.uk/uksi/2013/1976), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1976/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1976/schedule)
+[^c-6a890112b4f73521cd2961a8744d50e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/690) revoked (1.9.2013) by [The Further Education Teachers’ Qualifications (England) (Revocation) Regulations 2013 (S.I. 2013/1976)](https://www.legislation.gov.uk/uksi/2013/1976), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1976/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1976/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Positions of trust[^key-1d6860af141910ecf1a08e75af0ca1ad]
+## 47. Positions of trust[^c-1d6860af141910ecf1a08e75af0ca1ad]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d6860af141910ecf1a08e75af0ca1ad]: Commencement: S. 47 in force at 28.6.2022, see [s. 208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)
+[^c-1d6860af141910ecf1a08e75af0ca1ad]: Commencement: S. 47 in force at 28.6.2022, see [s. 208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)

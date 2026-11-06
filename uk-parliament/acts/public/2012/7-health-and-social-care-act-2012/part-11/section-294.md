@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 294. Failure to discharge functions[^key-9f2ef182582132c27709f2070f8bd7e2][^c2191372]
+## 294. Failure to discharge functions[^c-9f2ef182582132c27709f2070f8bd7e2][^c2191372]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f2ef182582132c27709f2070f8bd7e2]: Commencement: [S. 294](https://www.legislation.gov.uk/ukpga/2012/7/section/294) in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-9f2ef182582132c27709f2070f8bd7e2]: Commencement: [S. 294](https://www.legislation.gov.uk/ukpga/2012/7/section/294) in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
 [^c2191372]: Commencement: [S. 294](https://www.legislation.gov.uk/ukpga/2012/7/section/294) partly in force; [s. 294](https://www.legislation.gov.uk/ukpga/2012/7/section/294) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

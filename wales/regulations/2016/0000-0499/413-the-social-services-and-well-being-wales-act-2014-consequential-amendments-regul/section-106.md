@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**106.**[^key-8ffba3f53ca5ec1685b7fcb21200a24f] In section 105 (interpretation)—
+**106.**[^c-8ffba3f53ca5ec1685b7fcb21200a24f] In section 105 (interpretation)—
 
 - (a) in subsection (1) for the definition of “local authority foster parent” substitute—
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8ffba3f53ca5ec1685b7fcb21200a24f]: Commencement: Reg. 106 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-8ffba3f53ca5ec1685b7fcb21200a24f]: Commencement: Reg. 106 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00133]: Footnote: The definition of “local authority foster parent” was substituted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 1, paragraph 3(1) and (4).
 

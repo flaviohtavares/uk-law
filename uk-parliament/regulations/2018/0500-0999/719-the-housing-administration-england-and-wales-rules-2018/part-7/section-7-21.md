@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.21. Application of Chapter[^key-24299dd2696ac7442c4dbc2ce09981dc]
+## 7.21. Application of Chapter[^c-24299dd2696ac7442c4dbc2ce09981dc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24299dd2696ac7442c4dbc2ce09981dc]: Commencement: Rule 7.21 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-24299dd2696ac7442c4dbc2ce09981dc]: Commencement: Rule 7.21 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

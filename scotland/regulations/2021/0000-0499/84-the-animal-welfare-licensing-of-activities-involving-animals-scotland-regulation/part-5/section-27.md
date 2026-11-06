@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Appeals[^key-22e42808fdf0a1b31fce907ff7a833d5]
+## 27. Appeals[^c-22e42808fdf0a1b31fce907ff7a833d5]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ may appeal to the sheriff.
 
 ## Annotations
 
-[^key-22e42808fdf0a1b31fce907ff7a833d5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2021/84/regulation/27) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-22e42808fdf0a1b31fce907ff7a833d5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2021/84/regulation/27) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

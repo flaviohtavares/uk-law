@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Committal for sentence on indication of guilty plea to offence triable either way: adult offenders[^key-dff3e836b16f4024f88eaca2cc8ec271]
+## 18. Committal for sentence on indication of guilty plea to offence triable either way: adult offenders[^c-dff3e836b16f4024f88eaca2cc8ec271]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ the court may make a statement of that opinion.
 
 ## Annotations
 
-[^key-dff3e836b16f4024f88eaca2cc8ec271]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2020/17/section/18) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dff3e836b16f4024f88eaca2cc8ec271]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2020/17/section/18) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

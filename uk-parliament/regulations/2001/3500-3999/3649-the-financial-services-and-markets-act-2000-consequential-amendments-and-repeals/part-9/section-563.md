@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 563. Interest on late payment of certain benefits[^key-0744a005d0fcb6df021147f826fd6f96]
+## 563. Interest on late payment of certain benefits[^c-0744a005d0fcb6df021147f826fd6f96]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0744a005d0fcb6df021147f826fd6f96]: Commencement: Art. 563 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0744a005d0fcb6df021147f826fd6f96]: Commencement: Art. 563 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00358]: Footnote: Regulation E34 was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

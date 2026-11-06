@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Prohibiting attendance at matches in Scotland and Northern Ireland etc[^key-78c70359b54690b0e8647d100f4924c2]
+## 103. Prohibiting attendance at matches in Scotland and Northern Ireland etc[^c-78c70359b54690b0e8647d100f4924c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78c70359b54690b0e8647d100f4924c2]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2009/26/section/103) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)
+[^c-78c70359b54690b0e8647d100f4924c2]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2009/26/section/103) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)

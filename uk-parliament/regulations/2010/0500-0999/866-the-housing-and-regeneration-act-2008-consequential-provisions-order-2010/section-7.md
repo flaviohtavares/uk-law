@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Repeals[^key-4d6db53ad68568c1125a46a38f60172b]
+## 7. Repeals[^c-4d6db53ad68568c1125a46a38f60172b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The enactments specified in Schedule 4 to this Order are repealed to the extent 
 
 ## Annotations
 
-[^key-4d6db53ad68568c1125a46a38f60172b]: Commencement: Art. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-4d6db53ad68568c1125a46a38f60172b]: Commencement: Art. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)

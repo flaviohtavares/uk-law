@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Extent[^key-bff61d755f35498640c6e1fed37eca15]
+## 132. Extent[^c-bff61d755f35498640c6e1fed37eca15]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bff61d755f35498640c6e1fed37eca15]: Commencement: S. 132 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)
+[^c-bff61d755f35498640c6e1fed37eca15]: Commencement: S. 132 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)

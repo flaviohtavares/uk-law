@@ -31,11 +31,11 @@ For the purposes of paragraph (a) it does not matter if the amount of relief is 
 
 (2) Relief under this Chapter is available to the employing company.
 
-(3)[^key-c5e093159c5a64dabab9caf457f30582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c5e093159c5a64dabab9caf457f30582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c5e093159c5a64dabab9caf457f30582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c5e093159c5a64dabab9caf457f30582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c5e093159c5a64dabab9caf457f30582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c5e093159c5a64dabab9caf457f30582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) If—
 
@@ -57,4 +57,4 @@ Those sections are supplemented by section 1028.
 
 ## Annotations
 
-[^key-c5e093159c5a64dabab9caf457f30582]: Textual amendment: S. 1025(3)-(5) omitted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 32](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/32), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-c5e093159c5a64dabab9caf457f30582]: Textual amendment: S. 1025(3)-(5) omitted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 32](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/32), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

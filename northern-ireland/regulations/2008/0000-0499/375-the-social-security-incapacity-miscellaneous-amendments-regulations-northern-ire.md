@@ -41,19 +41,19 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 30C(3), 30DD(4), 30E(1), 167D and 171(1) of, and paragraph 2(3) of Schedule 7 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-16257077e93c537779a68aaafc8e798f]
+## 1. Citation and commencement[^c-16257077e93c537779a68aaafc8e798f]
 
 These Regulations may be cited as the Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 and shall come into operation on 1st October 2008.
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-8de9b97192b72bac11308650ef777672]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-8de9b97192b72bac11308650ef777672]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-fdf6764d8b0b9f0136f5e1b15d2a58cc]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-fdf6764d8b0b9f0136f5e1b15d2a58cc]
 
 (1) The Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00004] are amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-b241eb96eb5a99e9058009e8cf56179d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b241eb96eb5a99e9058009e8cf56179d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 20 (disregard of certain pension payments or PPF periodic payments)—
 
@@ -65,14 +65,14 @@ These Regulations may be cited as the Social Security (Incapacity) (Miscellaneou
 
   .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-566ffa607a707e794fd27d6c8457d58e]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-566ffa607a707e794fd27d6c8457d58e]
 
 In regulation 17 (exempt work) of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00005]—
 
-- (a)[^key-c436ca1aaa75b3ee32668a98e787cf3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c436ca1aaa75b3ee32668a98e787cf3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (7) for “Duties undertaken on not more than one day a week” substitute “Duties undertaken on either one full day or two half days a week”.
 
-## 5. Revocations[^key-b0e29b4632001ed083bb141d8e6ad34b]
+## 5. Revocations[^c-b0e29b4632001ed083bb141d8e6ad34b]
 
 Regulations 3, 5(3) and 6 of the Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007[^f00006] are revoked.
 
@@ -106,22 +106,22 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-16257077e93c537779a68aaafc8e798f]: Commencement: Reg. 1 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
+[^c-16257077e93c537779a68aaafc8e798f]: Commencement: Reg. 1 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
 
-[^key-8de9b97192b72bac11308650ef777672]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/375/regulation/2) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
+[^c-8de9b97192b72bac11308650ef777672]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/375/regulation/2) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
 
-[^key-fdf6764d8b0b9f0136f5e1b15d2a58cc]: Commencement: Reg. 3 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
+[^c-fdf6764d8b0b9f0136f5e1b15d2a58cc]: Commencement: Reg. 3 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 7 was amended by regulation 5(3) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396) and regulation 20 was inserted by regulation 2(5) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and amended by regulation 3(2) of [S.R. 2006 No. 184](https://www.legislation.gov.uk/nisr/2006/184)
 
-[^key-b241eb96eb5a99e9058009e8cf56179d]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/375/regulation/3/2) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
+[^c-b241eb96eb5a99e9058009e8cf56179d]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/375/regulation/3/2) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
 
-[^key-566ffa607a707e794fd27d6c8457d58e]: Commencement: Reg. 4 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
+[^c-566ffa607a707e794fd27d6c8457d58e]: Commencement: Reg. 4 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); regulation 17 was substituted by regulation 2(4) of [S.R. 2006 No. 150](https://www.legislation.gov.uk/nisr/2006/150) and amended by regulation 6 of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
 
-[^key-c436ca1aaa75b3ee32668a98e787cf3d]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2008/375/regulation/4/a) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
+[^c-c436ca1aaa75b3ee32668a98e787cf3d]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2008/375/regulation/4/a) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
 
-[^key-b0e29b4632001ed083bb141d8e6ad34b]: Commencement: Reg. 5 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
+[^c-b0e29b4632001ed083bb141d8e6ad34b]: Commencement: Reg. 5 in operation at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)

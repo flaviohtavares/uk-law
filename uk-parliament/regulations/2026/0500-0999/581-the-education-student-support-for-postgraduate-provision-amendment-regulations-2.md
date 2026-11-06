@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — General
 
-### 1. Citation, commencement, extent, application and interpretation[^key-ac4339ba8c609f6839929ae4b05185b1]
+### 1. Citation, commencement, extent, application and interpretation[^c-ac4339ba8c609f6839929ae4b05185b1]
 
 (1) These Regulations may be cited as the Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026.
 
@@ -63,11 +63,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018
 
-### 2. Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018[^key-8910d9056fc0e91178eb152f1ea6d0ec]
+### 2. Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018[^c-8910d9056fc0e91178eb152f1ea6d0ec]
 
 The Postgraduate Doctoral Degree Regulations are amended in accordance with this Part.
 
-### 3. Amendment to regulation 2 (interpretation)[^key-d309d2ac54dab77d6fafd2ee44967cef]
+### 3. Amendment to regulation 2 (interpretation)[^c-d309d2ac54dab77d6fafd2ee44967cef]
 
 In regulation 2(1), in the appropriate place, insert—
 
@@ -75,7 +75,7 @@ In regulation 2(1), in the appropriate place, insert—
 
 .
 
-### 4. Amendment to regulation 4 (designated courses)[^key-33c07cc0ec746696760225aab02dcda1]
+### 4. Amendment to regulation 4 (designated courses)[^c-33c07cc0ec746696760225aab02dcda1]
 
 In regulation 4(1)(b)—
 
@@ -89,7 +89,7 @@ In regulation 4(1)(b)—
 
   .
 
-### 5. Amendment to regulation 7 (students becoming eligible in the course of an academic year)[^key-204d2200a6a988a0a102231447e8e600]
+### 5. Amendment to regulation 7 (students becoming eligible in the course of an academic year)[^c-204d2200a6a988a0a102231447e8e600]
 
 In regulation 7(1)(a)—
 
@@ -104,7 +104,7 @@ In regulation 7(1)(a)—
 
   .
 
-### 6. Insertion of new Chapter 2A (designation of courses taught or delivered by franchised providers)[^key-cc50e7c07f6fa691410e25a8eb19375f]
+### 6. Insertion of new Chapter 2A (designation of courses taught or delivered by franchised providers)[^c-cc50e7c07f6fa691410e25a8eb19375f]
 
 After regulation 8, insert—
 
@@ -289,11 +289,11 @@ After regulation 8, insert—
 
 ## Part 3 — Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016
 
-### 7. Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016[^key-6b9847b50fcdc04c3c430779dfaf0dfc]
+### 7. Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016[^c-6b9847b50fcdc04c3c430779dfaf0dfc]
 
 The Postgraduate Master’s Degree Regulations are amended in accordance with this Part.
 
-### 8. Amendment to regulation 2 (interpretation)[^key-1e436d3f241f12f23789e0ce093744b1]
+### 8. Amendment to regulation 2 (interpretation)[^c-1e436d3f241f12f23789e0ce093744b1]
 
 In regulation 2(1), in the appropriate place, insert—
 
@@ -301,7 +301,7 @@ In regulation 2(1), in the appropriate place, insert—
 
 .
 
-### 9. Amendment to regulation 4 (designated courses)[^key-7f87720fb88ec70113118bf7d1e0cfea]
+### 9. Amendment to regulation 4 (designated courses)[^c-7f87720fb88ec70113118bf7d1e0cfea]
 
 In regulation 4(1)(b)—
 
@@ -316,7 +316,7 @@ In regulation 4(1)(b)—
 
   .
 
-### 10. Amendment to regulation 7 (students becoming eligible in the course of an academic year)[^key-f35fa9a9e3c5a0625f85d581ef98cdf6]
+### 10. Amendment to regulation 7 (students becoming eligible in the course of an academic year)[^c-f35fa9a9e3c5a0625f85d581ef98cdf6]
 
 In regulation 7(1)(a)—
 
@@ -331,7 +331,7 @@ In regulation 7(1)(a)—
 
   .
 
-### 11. Insertion of new Chapter 2A (designation of courses taught or delivered by franchised providers)[^key-9638607cdfce40c0c5d2956013780a5b]
+### 11. Insertion of new Chapter 2A (designation of courses taught or delivered by franchised providers)[^c-9638607cdfce40c0c5d2956013780a5b]
 
 After regulation 8, insert—
 
@@ -516,7 +516,7 @@ After regulation 8, insert—
 
 ## Part 4 — Transitional Provisions
 
-### 12. Interpretation of Part 4[^key-9fbdef1d22ef8d193ed595e611c2cf32]
+### 12. Interpretation of Part 4[^c-9fbdef1d22ef8d193ed595e611c2cf32]
 
 (1) In this Part—
 
@@ -543,7 +543,7 @@ After regulation 8, insert—
 - “**qualifying franchised provider**” has the meaning given in regulation 8B(14) of the Postgraduate Master’s Degree Regulations (as inserted by regulation 11 of these Regulations);
 - “**student population**” has the meaning given in regulation 8B(5) of the Postgraduate Master’s Degree Regulations (as inserted by regulation 11 of these Regulations).
 
-### 13. Ongoing applications for registration[^key-56d21ed8f64a4847c02062be7e44210f]
+### 13. Ongoing applications for registration[^c-56d21ed8f64a4847c02062be7e44210f]
 
 (1) This regulation applies where the following conditions are met—
 
@@ -554,7 +554,7 @@ After regulation 8, insert—
 
 (2) That franchised provider will be treated as if it is a qualifying franchised provider for the academic year beginning with 1st September 2028.
 
-### 14. Transitional appeals[^key-3b579489a0f270c5d4eae8fda53ce420]
+### 14. Transitional appeals[^c-3b579489a0f270c5d4eae8fda53ce420]
 
 (1) This regulation will cease to have effect on 31st August 2029.
 
@@ -596,17 +596,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by section 146(2)(a) of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21) and section 88(2) of the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29); there are other amending instruments but none is relevant.
 
-[^key-ac4339ba8c609f6839929ae4b05185b1]: Commencement: Reg. 1 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-ac4339ba8c609f6839929ae4b05185b1]: Commencement: Reg. 1 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599), amended by [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142) and [2023/74](https://www.legislation.gov.uk/uksi/2023/74); there are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606), amended by [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142) and [2023/74](https://www.legislation.gov.uk/uksi/2023/74); there are other amending instruments but none is relevant.
 
-[^key-8910d9056fc0e91178eb152f1ea6d0ec]: Commencement: Reg. 2 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-8910d9056fc0e91178eb152f1ea6d0ec]: Commencement: Reg. 2 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
-[^key-d309d2ac54dab77d6fafd2ee44967cef]: Commencement: Reg. 3 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-d309d2ac54dab77d6fafd2ee44967cef]: Commencement: Reg. 3 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
-[^key-33c07cc0ec746696760225aab02dcda1]: Commencement: Reg. 4 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-33c07cc0ec746696760225aab02dcda1]: Commencement: Reg. 4 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00004]: Footnote: “institution” is defined in regulation 2(1) of [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).
 
@@ -618,11 +618,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: “the course start date” is defined in regulation 2(1) of [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).
 
-[^key-204d2200a6a988a0a102231447e8e600]: Commencement: Reg. 5 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-204d2200a6a988a0a102231447e8e600]: Commencement: Reg. 5 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00009]: Footnote: “English higher education provider” is defined in regulation 2(1) of [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).
 
-[^key-cc50e7c07f6fa691410e25a8eb19375f]: Commencement: Reg. 6 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-cc50e7c07f6fa691410e25a8eb19375f]: Commencement: Reg. 6 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00010]: Footnote: “academic year” is defined in regulation 2(1) of [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).
 
@@ -654,11 +654,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00024]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-6b9847b50fcdc04c3c430779dfaf0dfc]: Commencement: Reg. 7 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-6b9847b50fcdc04c3c430779dfaf0dfc]: Commencement: Reg. 7 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
-[^key-1e436d3f241f12f23789e0ce093744b1]: Commencement: Reg. 8 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-1e436d3f241f12f23789e0ce093744b1]: Commencement: Reg. 8 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
-[^key-7f87720fb88ec70113118bf7d1e0cfea]: Commencement: Reg. 9 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-7f87720fb88ec70113118bf7d1e0cfea]: Commencement: Reg. 9 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00025]: Footnote: “institution” is defined in regulation 2(1) of [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).
 
@@ -670,20 +670,20 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00029]: Footnote: “the course start date” is defined in regulation 2(1) of [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).
 
-[^key-f35fa9a9e3c5a0625f85d581ef98cdf6]: Commencement: Reg. 10 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-f35fa9a9e3c5a0625f85d581ef98cdf6]: Commencement: Reg. 10 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00030]: Footnote: “English higher education provider” is defined in regulation 2(1) of [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).
 
-[^key-9638607cdfce40c0c5d2956013780a5b]: Commencement: Reg. 11 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-9638607cdfce40c0c5d2956013780a5b]: Commencement: Reg. 11 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00031]: Footnote: “academic year” is defined in regulation 2(1) of [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).
 
 [^f00032]: Footnote: “OfS” is defined in regulation 2(1) of [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).
 
-[^key-9fbdef1d22ef8d193ed595e611c2cf32]: Commencement: Reg. 12 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-9fbdef1d22ef8d193ed595e611c2cf32]: Commencement: Reg. 12 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
-[^key-56d21ed8f64a4847c02062be7e44210f]: Commencement: Reg. 13 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-56d21ed8f64a4847c02062be7e44210f]: Commencement: Reg. 13 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
 
 [^f00033]: Footnote: The OfS’s application criteria can be found at https://www.officeforstudents.org.uk/for-providers/registering-with-the-ofs/how-to-register-with-the-office-for-students/.
 
-[^key-3b579489a0f270c5d4eae8fda53ce420]: Commencement: Reg. 14 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)
+[^c-3b579489a0f270c5d4eae8fda53ce420]: Commencement: Reg. 14 in force at 25.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2)

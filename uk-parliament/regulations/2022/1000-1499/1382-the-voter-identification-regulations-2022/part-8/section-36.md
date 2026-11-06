@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of the Representation of the People (Scotland) Regulations 1986[^key-8ad10ee4fb93c388f06d252af10a88a0]
+## 36. Amendment of the Representation of the People (Scotland) Regulations 1986[^c-8ad10ee4fb93c388f06d252af10a88a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,6 +111,6 @@ In regulation 98 of the Representation of the People (Scotland) Regulations 1986
 
 ## Annotations
 
-[^key-8ad10ee4fb93c388f06d252af10a88a0]: Commencement: Reg. 36 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-8ad10ee4fb93c388f06d252af10a88a0]: Commencement: Reg. 36 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00057]: Footnote: [S.I. 1986/1111](https://www.legislation.gov.uk/uksi/1986/1111), amended by [S.I. 1990/629](https://www.legislation.gov.uk/uksi/1990/629); there are other amending instruments but none is relevant.

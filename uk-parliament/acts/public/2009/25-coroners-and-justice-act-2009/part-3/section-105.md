@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Age of child complainant[^key-6b6d8e2f43cf1d9563eff89e609e0d56]
+## 105. Age of child complainant[^c-6b6d8e2f43cf1d9563eff89e609e0d56]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 35 of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (child
 
 ## Annotations
 
-[^key-6b6d8e2f43cf1d9563eff89e609e0d56]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2009/25/section/105) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/b)
+[^c-6b6d8e2f43cf1d9563eff89e609e0d56]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2009/25/section/105) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Alternative arrangements approved by the Secretary of State[^key-a56900ed1b9ac16ef2d5c2cf131e96ba]
+## 43. Alternative arrangements approved by the Secretary of State[^c-a56900ed1b9ac16ef2d5c2cf131e96ba]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a56900ed1b9ac16ef2d5c2cf131e96ba]: Commencement: Reg. 43 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-a56900ed1b9ac16ef2d5c2cf131e96ba]: Commencement: Reg. 43 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

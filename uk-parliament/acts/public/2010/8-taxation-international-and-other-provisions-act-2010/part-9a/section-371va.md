@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371VA. Definitions[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371VA. Definitions[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ In this Part—
 - “**non-trading finance profits**” is to be read in accordance with section 371VG,
 - “**non-trading income**” means income which is not trading income,
 - “**property business profits**” is to be read in accordance with section 371VI,
-- “[^key-0528624b3a2e2eba3fbabe3ee3cd09b0]**relevant finance lease**” is to be read in accordance with section 371VIA,
+- “[^c-0528624b3a2e2eba3fbabe3ee3cd09b0]**relevant finance lease**” is to be read in accordance with section 371VIA,
 - “**relevant interest**” is to be read in accordance with Chapter 15,
 - “**tax advantage**” has the meaning given by section 1139 of CTA 2010,
 - “**trading finance profits**” is to be read in accordance with section 371VG,
@@ -63,6 +63,6 @@ In this Part—
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-0528624b3a2e2eba3fbabe3ee3cd09b0]: Textual amendment: Words in s. 371VA substituted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/6), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-0528624b3a2e2eba3fbabe3ee3cd09b0]: Textual amendment: Words in s. 371VA substituted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/6), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)

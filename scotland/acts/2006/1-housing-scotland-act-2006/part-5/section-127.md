@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Power to designate HMOs capable of being exempted by local authorities[^key-aab79e97b43d1cc406ee10dffd35a64b]
+## 127. Power to designate HMOs capable of being exempted by local authorities[^c-aab79e97b43d1cc406ee10dffd35a64b]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ an order made by a local authority under subsection (2) ceases to have effect in
 
 ## Annotations
 
-[^key-aab79e97b43d1cc406ee10dffd35a64b]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2006/1/section/127) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-aab79e97b43d1cc406ee10dffd35a64b]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2006/1/section/127) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

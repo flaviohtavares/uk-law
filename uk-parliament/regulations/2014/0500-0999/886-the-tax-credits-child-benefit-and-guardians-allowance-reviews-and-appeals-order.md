@@ -46,7 +46,7 @@ The Treasury make this Order in exercise of the powers conferred by section 124(
 
 A draft of this instrument was laid before and approved by resolution of the House of Commons in accordance with section 124(8) of that Act.
 
-## 1. Citation, commencement and effect[^key-b5663d0da2dbdb0ac275aaf0db8627a4]
+## 1. Citation, commencement and effect[^c-b5663d0da2dbdb0ac275aaf0db8627a4]
 
 (1) This Order may be cited as the Tax Credits, Child Benefit and Guardian’s Allowance Reviews and Appeals Order 2014 and comes into force on 6th April 2014.
 
@@ -58,7 +58,7 @@ A draft of this instrument was laid before and approved by resolution of the Hou
 
 (5) Any amendment made by this Order only has effect in relation to an HMRC decision[^f00002] made on or after the amendment comes into force.
 
-## 2. Amendment of the Tax Credits Act 2002[^key-8e534ff62e0054a73b1f354d32f3d313]
+## 2. Amendment of the Tax Credits Act 2002[^c-8e534ff62e0054a73b1f354d32f3d313]
 
 (1) The Tax Credits Act 2002[^f00003] is amended as follows.
 
@@ -154,7 +154,7 @@ A draft of this instrument was laid before and approved by resolution of the Hou
 - (a) omit: “to the Board”;
 - (b) from “notice of the decision” to the end, substitute: “notice under section 21A(3) was given of the conclusion on the review of the decision”.
 
-## 3. Revocation (for Great Britain) and amendment (for Northern Ireland) of the Tax Credits (Notice of Appeal) Regulations 2002[^key-5431b03293c7270bcd4c860db56c1a9d]
+## 3. Revocation (for Great Britain) and amendment (for Northern Ireland) of the Tax Credits (Notice of Appeal) Regulations 2002[^c-5431b03293c7270bcd4c860db56c1a9d]
 
 (1) The Tax Credits (Notice of Appeal) Regulations 2002[^f00006] are revoked (for England and Wales and Scotland).
 
@@ -171,7 +171,7 @@ A draft of this instrument was laid before and approved by resolution of the Hou
 - (a) for “Board”, substitute: “appropriate office”;
 - (b) for “the Commissioners of Inland Revenue”, substitute: “any office specified in writing for the purpose by the Department for Social Development in Northern Ireland”.
 
-## 4. Child benefit and guardian’s allowance: amendment of the Social Security Act 1998 and the Social Security (Northern Ireland) Order 1998[^key-34ca3b60ee6863c17e19619bf9638a16]
+## 4. Child benefit and guardian’s allowance: amendment of the Social Security Act 1998 and the Social Security (Northern Ireland) Order 1998[^c-34ca3b60ee6863c17e19619bf9638a16]
 
 (1) After section 12(3C) of the Social Security Act 1998[^f00007], insert—
 
@@ -185,7 +185,7 @@ A draft of this instrument was laid before and approved by resolution of the Hou
 
 .
 
-## 5. Amendment of the Child Benefit and Guardian’s Allowance (Decisions and Appeals) Regulations 2003[^key-04689544b43e119c3f39bb8be4727037]
+## 5. Amendment of the Child Benefit and Guardian’s Allowance (Decisions and Appeals) Regulations 2003[^c-04689544b43e119c3f39bb8be4727037]
 
 (1) The Child Benefit and Guardian’s Allowance (Decisions and Appeals) Regulations 2003[^f00011] are amended as follows.
 
@@ -249,11 +249,11 @@ A full Impact Assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-b5663d0da2dbdb0ac275aaf0db8627a4]: Commencement: Art. 1 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/886/article/1)
+[^c-b5663d0da2dbdb0ac275aaf0db8627a4]: Commencement: Art. 1 in force at 6.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/886/article/1)
 
 [^f00002]: Footnote: Section 124(11) of the Finance Act 2008 defines “HMRC decision”.
 
-[^key-8e534ff62e0054a73b1f354d32f3d313]: Commencement: Art. 2(1)-(12) in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
+[^c-8e534ff62e0054a73b1f354d32f3d313]: Commencement: Art. 2(1)-(12) in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
 
 [^f00003]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
@@ -261,11 +261,11 @@ A full Impact Assessment of the effect that this instrument will have on the cos
 
 [^f00005]: Footnote: Section 38(1) was amended by the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), section 120(1) and (3).
 
-[^key-5431b03293c7270bcd4c860db56c1a9d]: Commencement: Art. 3(1) in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
+[^c-5431b03293c7270bcd4c860db56c1a9d]: Commencement: Art. 3(1) in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2002/3119](https://www.legislation.gov.uk/uksi/2002/3119).
 
-[^key-34ca3b60ee6863c17e19619bf9638a16]: Commencement: Art. 4 in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
+[^c-34ca3b60ee6863c17e19619bf9638a16]: Commencement: Art. 4 in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
 
 [^f00007]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14). Section 12(3C) was inserted by the Welfare Reform Act 2012, section 102(1) and (3). By sections 50(1) and 50(2)(e) of the Tax Credits Act 2002, the functions of the Secretary of State under Chapter 2 of Part 1 of the Social Security Act 1998, so far as they relate to child benefit and guardian’s allowance, were transferred to the Board of the Inland Revenue. By paragraphs 12 and 15 of Schedule 4 to the 2002 Act, relevant references in Chapter 2 of Part 1 of the 1998 Act are to be construed as references to the Board or an officer of the Board. Section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) provides that those Commissioners have these functions of the Commissioners of Inland Revenue, and section 50(1) of that Act provides that references to “the Commissioners of Inland Revenue” (however expressed) must be taken accordingly.
 
@@ -275,7 +275,7 @@ A full Impact Assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: Guardian’s allowance falls within Article 9(3)(a) of [S.I. 1998/1506 (N. I 10)](https://www.legislation.gov.uk/nisi/1998/1506).
 
-[^key-04689544b43e119c3f39bb8be4727037]: Commencement: Art. 5(1)-(6)(7)(b)(d)(f)(i)(k)(8) in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
+[^c-04689544b43e119c3f39bb8be4727037]: Commencement: Art. 5(1)-(6)(7)(b)(d)(f)(i)(k)(8) in force at 6.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/886/article/1/1)
 
 [^f00011]: Footnote: [S.I. 2003/916](https://www.legislation.gov.uk/uksi/2003/916); relevant amending instruments are [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683), [2009/3268](https://www.legislation.gov.uk/uksi/2009/3268).
 

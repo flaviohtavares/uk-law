@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Closure and transfer of added pension account[^key-0f393affe24dcea0d6f84518c3a500c1]
+## 50. Closure and transfer of added pension account[^c-0f393affe24dcea0d6f84518c3a500c1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f393affe24dcea0d6f84518c3a500c1]: Commencement: Reg. 50 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0f393affe24dcea0d6f84518c3a500c1]: Commencement: Reg. 50 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

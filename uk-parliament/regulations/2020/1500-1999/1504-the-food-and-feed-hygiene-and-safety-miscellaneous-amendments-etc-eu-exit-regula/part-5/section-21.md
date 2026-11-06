@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Revocation of secondary legislation[^key-c1171230ecc7ce974772a5ea2d7b63e8]
+## 21. Revocation of secondary legislation[^c-c1171230ecc7ce974772a5ea2d7b63e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ The following regulations are revoked—
 
 ## Annotations
 
-[^key-c1171230ecc7ce974772a5ea2d7b63e8]: Commencement: Reg. 21 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-c1171230ecc7ce974772a5ea2d7b63e8]: Commencement: Reg. 21 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375561]: Marginal citation: [S.I. 2019/652](https://www.legislation.gov.uk/uksi/2019/652).
 

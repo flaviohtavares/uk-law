@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Display Energy Certificates and Green Deal Assessments[^key-2e02c8e5cb7f708ccf3f80929559cbe6]
+## 34. Display Energy Certificates and Green Deal Assessments[^c-2e02c8e5cb7f708ccf3f80929559cbe6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e02c8e5cb7f708ccf3f80929559cbe6]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2026/701/regulation/26)
+[^c-2e02c8e5cb7f708ccf3f80929559cbe6]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2026/701/regulation/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Termination of lease of allotment or allotment site[^key-8b97980c775dc7d8b989f37d5bc27388]
+## 126. Termination of lease of allotment or allotment site[^c-8b97980c775dc7d8b989f37d5bc27388]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b97980c775dc7d8b989f37d5bc27388]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2015/6/section/126) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-8b97980c775dc7d8b989f37d5bc27388]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2015/6/section/126) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

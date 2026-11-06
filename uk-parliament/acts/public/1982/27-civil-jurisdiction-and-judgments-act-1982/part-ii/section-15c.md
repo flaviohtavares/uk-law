@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15C. Jurisdiction in relation to individual contracts of employment[^key-59cf4b4d784fe6deb5c8fcaeb9468fc7]
+## 15C. Jurisdiction in relation to individual contracts of employment[^c-59cf4b4d784fe6deb5c8fcaeb9468fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-59cf4b4d784fe6deb5c8fcaeb9468fc7]: Textual amendment: [Ss. 15A-15E](https://www.legislation.gov.uk/ukpga/1982/27/section/15A) and cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59cf4b4d784fe6deb5c8fcaeb9468fc7]: Textual amendment: [Ss. 15A-15E](https://www.legislation.gov.uk/ukpga/1982/27/section/15A) and cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_4ed9e410-1564-4d4b-f971-0469657f2db5]: Textual amendment: Words in [s. 15C(2)(c)](https://www.legislation.gov.uk/ukpga/1982/27/section/15C/2/c) inserted in earlier amending provision S.I. 2019/479, reg. 26 (31.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/3/a)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.7. Power of court to add to, vary or revoke directions[^key-e39f78e7fedce86dfcf7c66bd7190d0f]
+## 27.7. Power of court to add to, vary or revoke directions[^c-e39f78e7fedce86dfcf7c66bd7190d0f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may add to, vary or revoke directions.
 
 ## Annotations
 
-[^key-e39f78e7fedce86dfcf7c66bd7190d0f]: Commencement: [Rule 27.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e39f78e7fedce86dfcf7c66bd7190d0f]: Commencement: [Rule 27.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

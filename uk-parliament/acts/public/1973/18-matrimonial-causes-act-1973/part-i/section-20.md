@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Relief for respondent in divorce proceedings.[^key-6c31ddde56e56f84729cc5e77d430b9e]
+## 20. Relief for respondent in divorce proceedings.[^c-6c31ddde56e56f84729cc5e77d430b9e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c31ddde56e56f84729cc5e77d430b9e]: Textual amendment: [S. 20 and cross-heading](https://www.legislation.gov.uk/ukpga/1973/18/part/I/crossheading/general) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/17) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-6c31ddde56e56f84729cc5e77d430b9e]: Textual amendment: [S. 20 and cross-heading](https://www.legislation.gov.uk/ukpga/1973/18/part/I/crossheading/general) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/17) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

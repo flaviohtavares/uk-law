@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Duties of the Welsh Ministers in relation to applications for consent to market genetically modified organisms[^key-c7b93198252f22792dec106950bb7e62]
+## 24. Duties of the Welsh Ministers in relation to applications for consent to market genetically modified organisms[^c-c7b93198252f22792dec106950bb7e62]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7b93198252f22792dec106950bb7e62]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/wsi/2002/3188/regulation/24) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [2(9)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7b93198252f22792dec106950bb7e62]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/wsi/2002/3188/regulation/24) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [2(9)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

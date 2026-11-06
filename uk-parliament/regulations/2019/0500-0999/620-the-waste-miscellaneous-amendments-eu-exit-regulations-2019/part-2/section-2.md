@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Environmental Protection Act 1990[^key-340912b0f3d7814c15b12cddad68a9e1]
+## 2. Environmental Protection Act 1990[^c-340912b0f3d7814c15b12cddad68a9e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-340912b0f3d7814c15b12cddad68a9e1]: Commencement: Reg. 2 in force at 20.3.2019, see reg. 1(2)(a)
+[^c-340912b0f3d7814c15b12cddad68a9e1]: Commencement: Reg. 2 in force at 20.3.2019, see reg. 1(2)(a)
 
 [^c23655901]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

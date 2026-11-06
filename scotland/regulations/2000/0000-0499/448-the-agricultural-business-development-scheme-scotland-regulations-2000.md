@@ -60,7 +60,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 - “application” means an application for financial assistance under the scheme made in accordance with regulations 4 or 5 and “applicant” and “apply” shall be construed accordingly;
 - “approved” means approved by the Scottish Ministers in writing and “approve” and “approval” shall be construed accordingly;
 - “authorised person” means a person appointed by the Scottish Ministers for the purpose of enforcement of these Regulations;
-- “EU[^key-b238620daeace698ed075de95df7f229] legislation” means–
+- “EU[^c-b238620daeace698ed075de95df7f229] legislation” means–
   - (a) Council Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) of 17th May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations [^c16007741];
   - (b) Council Regulation [(EC) No 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260) of 21st June 1999 laying down general provisions on the Structural Funds [^c16007751]; and
   - (c) Commission Regulation [(EC) No 1750/1999](https://www.legislation.gov.uk/european/regulation/1999/1750) of 23rd July 1999 laying down detailed rules for the application of Council Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) [^c16007761];
@@ -69,7 +69,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 - “designated maps” means the four maps numbered 1 to 4, each such map being marked “map of less-favoured farming areas in Scotland” and with the number of the map, dated 5th May 1991, signed by the Secretary of State for Scotland and deposited at the offices of the Scottish Executive Rural Affairs Department, Pentland House, 47 Robb’s Loan, Edinburgh EH14 1TW;
 - “eligible business” means a business which has been engaged in agriculture on an agricultural unit for a continuous period of two years ending with the date of the application;
 - “eligible expenditure” means expenditure (including reasonable professional fees and charges) approved in relation to measures to be undertaken under the scheme;
-- “eligible person” means–[^key-0da707262882523af9ce3b5afe22d455]
+- “eligible person” means–[^c-0da707262882523af9ce3b5afe22d455]
   - (a) in relation to any measure–
     - (i) a person who is a legal occupier of an agricultural unit and who operates an eligible business on that unit; or
     - (ii) a person authorised to act on behalf of such legal occupier; and
@@ -135,7 +135,7 @@ Subject to the provisions of these Regulations, the Scottish Ministers may in ac
 - (d) a business plan approved under regulation 4, if such a plan was required by the Scottish Ministers under regulation 4;
 - (e) a statement that the measure could not proceed without financial assistance under the scheme;
 - (f) sufficient information to show that the measure is likely to meet at least one of the objectives specified in regulation 3; and
-- (g)[^key-e5e8591078168c8e3b7be7083c9d6da1] confirmation–
+- (g)[^c-e5e8591078168c8e3b7be7083c9d6da1] confirmation–
   - (i) as to what public funding (if any) towards the cost of the measure has been sought, otherwise than under these Regulations; and
   - (ii) that it is not intended to seek any public funding towards such costs, otherwise than under these Regulations
 
@@ -169,10 +169,10 @@ Subject to the provisions of these Regulations, the Scottish Ministers may in ac
   - (i) the economic viability of the eligible business is demonstrated;
   - (ii) the eligible business complies with the minimum standards regarding the environment, hygiene and animal welfare; and
   - (iii) the eligible person possesses adequate agricultural skill and competence;
-- (e) subject to paragraph (3A) below,[^key-6d730e2ba51c56a24040b41417ed31ad] other public funding towards the cost of the measure has not been or will not be sought in respect of the measure, other than under these Regulations; and
+- (e) subject to paragraph (3A) below,[^c-6d730e2ba51c56a24040b41417ed31ad] other public funding towards the cost of the measure has not been or will not be sought in respect of the measure, other than under these Regulations; and
 - (f) the provision of such a measure is appropriate having regard to the need for, and existing provision of, measures of that type in the scheme area.
 
-(3A)[^key-eae4c353c4611a136b7291ec45428757] Where an applicant has sought public funding in respect of the measure concerned otherwise than under these Regulations, but the public funding so sought was not obtained, the duty of the Scottish Ministers to be satisfied as to the matters set out in paragraph (3)(e) above shall not apply in relation to such public funding so sought and not obtained.
+(3A)[^c-eae4c353c4611a136b7291ec45428757] Where an applicant has sought public funding in respect of the measure concerned otherwise than under these Regulations, but the public funding so sought was not obtained, the duty of the Scottish Ministers to be satisfied as to the matters set out in paragraph (3)(e) above shall not apply in relation to such public funding so sought and not obtained.
 
 (4) Before approving an application (in whole or in part), the Scottish Ministers may consult such persons as they consider appropriate.
 
@@ -409,7 +409,7 @@ A copy of the Commission Decision approving the Single Programming Document, tog
 
 [^c16007731]: Marginal citation: [1991 c.55](https://www.legislation.gov.uk/ukpga/1991/55).
 
-[^key-b238620daeace698ed075de95df7f229]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-b238620daeace698ed075de95df7f229]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^c16007741]: Marginal citation: O.J. No. L 160, 26.6.99, p.80.
 
@@ -419,7 +419,7 @@ A copy of the Commission Decision approving the Single Programming Document, tog
 
 [^c16007771]: Marginal citation: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44).
 
-[^key-0da707262882523af9ce3b5afe22d455]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/448/regulation/2/1) substituted (5.7.2004) by [The Agricultural Business Development Scheme (Scotland) Amendment Regulations 2004 (S.S.I. 2004/267)](https://www.legislation.gov.uk/ssi/2004/267), [regs. 1](https://www.legislation.gov.uk/ssi/2004/267/regulation/1), [2](https://www.legislation.gov.uk/ssi/2004/267/regulation/2)
+[^c-0da707262882523af9ce3b5afe22d455]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/448/regulation/2/1) substituted (5.7.2004) by [The Agricultural Business Development Scheme (Scotland) Amendment Regulations 2004 (S.S.I. 2004/267)](https://www.legislation.gov.uk/ssi/2004/267), [regs. 1](https://www.legislation.gov.uk/ssi/2004/267/regulation/1), [2](https://www.legislation.gov.uk/ssi/2004/267/regulation/2)
 
 [^c16007781]: Marginal citation: O.J. No. L 82, 26.3.84, p.67, as amended by Commission Decision 91/25/EEC altering the limits of the less favoured areas in the United Kingdom within the meaning of Council Directive 75/268/EEC (O.J. No. L 16, 22.1.91, p.25).
 
@@ -427,11 +427,11 @@ A copy of the Commission Decision approving the Single Programming Document, tog
 
 [^c16007801]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-e5e8591078168c8e3b7be7083c9d6da1]: Textual amendment: [Reg. 5(2)(g)](https://www.legislation.gov.uk/ssi/2000/448/regulation/5/2/g) substituted (19.2.2001) by [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [14(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/14/2)
+[^c-e5e8591078168c8e3b7be7083c9d6da1]: Textual amendment: [Reg. 5(2)(g)](https://www.legislation.gov.uk/ssi/2000/448/regulation/5/2/g) substituted (19.2.2001) by [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [14(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/14/2)
 
-[^key-6d730e2ba51c56a24040b41417ed31ad]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/ssi/2000/448/regulation/6/3/e) inserted (19.2.2001) by [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (revoked) 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [14(3)](https://www.legislation.gov.uk/ssi/2001/40/regulation/14/3)
+[^c-6d730e2ba51c56a24040b41417ed31ad]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/ssi/2000/448/regulation/6/3/e) inserted (19.2.2001) by [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (revoked) 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [14(3)](https://www.legislation.gov.uk/ssi/2001/40/regulation/14/3)
 
-[^key-eae4c353c4611a136b7291ec45428757]: Textual amendment: [Reg. 6(3A)](https://www.legislation.gov.uk/ssi/2000/448/regulation/6/3A) inserted (19.2.2001) by [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [14(4)](https://www.legislation.gov.uk/ssi/2001/40/regulation/14/4)
+[^c-eae4c353c4611a136b7291ec45428757]: Textual amendment: [Reg. 6(3A)](https://www.legislation.gov.uk/ssi/2000/448/regulation/6/3A) inserted (19.2.2001) by [The Highland and Islands Agricultural Processing and Marketing Grants Etc. (Scotland) Regulations 2001 (S.S.I. 2001/40)](https://www.legislation.gov.uk/ssi/2001/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2001/40/regulation/1/2), [14(4)](https://www.legislation.gov.uk/ssi/2001/40/regulation/14/4)
 
 [^M_F_eeaf11e0-ad15-48c2-8074-5d7d91667aff]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 

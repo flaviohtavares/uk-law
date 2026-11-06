@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Liability to pay pre-commencement contributions amount[^key-dfae7c7aeda379fd5cb11ce519520821]
+## 53. Liability to pay pre-commencement contributions amount[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfae7c7aeda379fd5cb11ce519520821]: Modification: [Pts. 1-11](https://www.legislation.gov.uk/uksi/2017/522/part/1) restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-dfae7c7aeda379fd5cb11ce519520821]: Modification: [Pts. 1-11](https://www.legislation.gov.uk/uksi/2017/522/part/1) restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

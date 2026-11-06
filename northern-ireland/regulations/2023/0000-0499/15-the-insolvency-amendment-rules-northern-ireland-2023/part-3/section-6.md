@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Amendment to the principal Rules[^key-a96f87180996717adf502b1a302f03b1]
+## 6. Amendment to the principal Rules[^c-a96f87180996717adf502b1a302f03b1]
 
 *Extent: N.I.*
 
 The principal Rules are amended as follows.
 
-**7.**[^key-03e921c43d8fce9e5f772e2b935d5cd8] In Rule 0.2 (interpretation)—
+**7.**[^c-03e921c43d8fce9e5f772e2b935d5cd8] In Rule 0.2 (interpretation)—
 
 (1) After the definition of “authorised deposit-taker” insert—
 
@@ -67,6 +67,6 @@ The principal Rules are amended as follows.
 
 ## Annotations
 
-[^key-a96f87180996717adf502b1a302f03b1]: Commencement: Rule 6 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-a96f87180996717adf502b1a302f03b1]: Commencement: Rule 6 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-03e921c43d8fce9e5f772e2b935d5cd8]: Commencement: Rule 7 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-03e921c43d8fce9e5f772e2b935d5cd8]: Commencement: Rule 7 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

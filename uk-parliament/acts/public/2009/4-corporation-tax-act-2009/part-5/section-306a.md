@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306A. Matters in respect of which amounts to be brought into account[^key-195dd24127643e5ec9e8faa1e0c04385]
+## 306A. Matters in respect of which amounts to be brought into account[^c-195dd24127643e5ec9e8faa1e0c04385]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-195dd24127643e5ec9e8faa1e0c04385]: Textual amendment: S. 306A and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/3)
+[^c-195dd24127643e5ec9e8faa1e0c04385]: Textual amendment: S. 306A and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/3)

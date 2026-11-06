@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Supply of marked registers and lists after an election[^key-4e9b5055d6d9f3791ef08dedb6da2c70]
+## 116. Supply of marked registers and lists after an election[^c-4e9b5055d6d9f3791ef08dedb6da2c70]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ for use in respect of the purposes for which that person is entitled to obtain s
 
 ## Annotations
 
-[^key-4e9b5055d6d9f3791ef08dedb6da2c70]: Modification: [Reg. 116](https://www.legislation.gov.uk/uksi/2008/1741/regulation/116) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/105)
+[^c-4e9b5055d6d9f3791ef08dedb6da2c70]: Modification: [Reg. 116](https://www.legislation.gov.uk/uksi/2008/1741/regulation/116) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/105)

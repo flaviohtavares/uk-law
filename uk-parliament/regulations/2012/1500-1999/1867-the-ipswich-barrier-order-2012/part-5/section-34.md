@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Power to operate scheduled works[^key-ebbd802c74514181bac0e210c0250c87]
+## 34. Power to operate scheduled works[^c-ebbd802c74514181bac0e210c0250c87]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ occasioned by the operation of the scheduled works unless the costs, damages, lo
 
 ## Annotations
 
-[^key-ebbd802c74514181bac0e210c0250c87]: Commencement: Art. 34 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-ebbd802c74514181bac0e210c0250c87]: Commencement: Art. 34 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

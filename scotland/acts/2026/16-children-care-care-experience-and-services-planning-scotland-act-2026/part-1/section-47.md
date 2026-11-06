@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Removal of relevant person status[^key-ea1d2a5eb54cee9386af33cf5ff64f0d]
+## 47. Removal of relevant person status[^c-ea1d2a5eb54cee9386af33cf5ff64f0d]
 
 *Extent: S*
 
@@ -193,4 +193,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea1d2a5eb54cee9386af33cf5ff64f0d]: Commencement: S. 47 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-ea1d2a5eb54cee9386af33cf5ff64f0d]: Commencement: S. 47 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

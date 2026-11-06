@@ -22,9 +22,9 @@ summary: ''
 
 Section 51
 
-**1.**[^key-9bbe3dcbe4e968e1b34062baba9c8778][^key-e9f3f91ae0052946e6a9003515bd7db5][^key-040184625de8c41bfd9390f6cd92fe5b][^key-9e04bd0ea3d4f12316c92f18f51566d2][^key-b8a5201f49dba5aafc54289051c9ee13] The Financial Services (Banking Reform) Act 2013 is amended as follows.
+**1.**[^c-9bbe3dcbe4e968e1b34062baba9c8778][^c-e9f3f91ae0052946e6a9003515bd7db5][^c-040184625de8c41bfd9390f6cd92fe5b][^c-9e04bd0ea3d4f12316c92f18f51566d2][^c-b8a5201f49dba5aafc54289051c9ee13] The Financial Services (Banking Reform) Act 2013 is amended as follows.
 
-**2.**[^key-489372aa1e6c4d973371e693b4033925][^key-cb7601a99531d3b55447dc5aaa403c96][^key-7dec06208f292330036b0866eca0b093] In section 39 (overview)—
+**2.**[^c-489372aa1e6c4d973371e693b4033925][^c-cb7601a99531d3b55447dc5aaa403c96][^c-7dec06208f292330036b0866eca0b093] In section 39 (overview)—
 
 - (a) after subsection (11) insert—
 
@@ -33,9 +33,9 @@ Section 51
   ;
 - (b) in subsection (12) for “107” substitute “107A”.
 
-**3.**[^key-a48e8789aaeba6e8a2fe3694d3b85cb0][^key-7c241bc97fe974ad7f04c4df080a1bc6][^key-63ff469869f3663f6d87a1fe6da8d44f] In section 53 (regulatory principles), in paragraph (c) at the end insert “, including in a way consistent with contributing towards achieving compliance by the Secretary of State with section 1 of the Climate Change Act 2008 (UK net zero emissions target) and section 5 of the Environment Act 2021 (environmental targets) where the Payment Systems Regulator considers the exercise of its functions to be relevant to the making of such a contribution;”.
+**3.**[^c-a48e8789aaeba6e8a2fe3694d3b85cb0][^c-7c241bc97fe974ad7f04c4df080a1bc6][^c-63ff469869f3663f6d87a1fe6da8d44f] In section 53 (regulatory principles), in paragraph (c) at the end insert “, including in a way consistent with contributing towards achieving compliance by the Secretary of State with section 1 of the Climate Change Act 2008 (UK net zero emissions target) and section 5 of the Environment Act 2021 (environmental targets) where the Payment Systems Regulator considers the exercise of its functions to be relevant to the making of such a contribution;”.
 
-**4.**[^key-c18af9857155a0b93e91ee708923bf91][^key-1e56691d5a8c9befd2a0a4b355341877] After section 102 (power of PRA to require Regulator to refrain from specified action), insert—
+**4.**[^c-c18af9857155a0b93e91ee708923bf91][^c-1e56691d5a8c9befd2a0a4b355341877] After section 102 (power of PRA to require Regulator to refrain from specified action), insert—
 
 > **Recommendations**
 >
@@ -70,7 +70,7 @@ Section 51
 > - (a) publish in such manner as they think fit any notice given under subsection (1), (3) or (5), and
 > - (b) lay a copy of it before Parliament.
 
-**5.**[^key-f0f3b69ab7dbd3b5dfa2f6b67b788629][^key-bdfd3701c5b4d9d502455d29f50f8930] Before section 103 (regulator’s general duty to consult) insert (under the italic heading “Consultation, accountability and oversight”)—
+**5.**[^c-f0f3b69ab7dbd3b5dfa2f6b67b788629][^c-bdfd3701c5b4d9d502455d29f50f8930] Before section 103 (regulator’s general duty to consult) insert (under the italic heading “Consultation, accountability and oversight”)—
 
 > **102B. Matters to consider when imposing generally applicable requirements**
 >
@@ -88,7 +88,7 @@ Section 51
 >
 > (5) The duty under subsection (2) is in addition to any other requirements to have regard to matters when exercising relevant functions imposed by another provision of this Act or by any other enactment.
 
-**6.**[^key-1ea71ab84e2c4837e4599636b5366662][^key-b45ed0707797f80bc21201c81b4f9eb9] In section 104 (consultation in relation to generally applicable requirements)—
+**6.**[^c-1ea71ab84e2c4837e4599636b5366662][^c-b45ed0707797f80bc21201c81b4f9eb9] In section 104 (consultation in relation to generally applicable requirements)—
 
 - (a) in subsection (1), in the words before paragraph (a) for “section” substitute “Part”;
 - (b) in subsection (3) after paragraph (b) insert—
@@ -102,7 +102,7 @@ Section 51
   >
   > (12B) Where an explanation is not provided by virtue of subsection (12A), the draft of the proposed requirement must be accompanied by a statement of the Payment Systems Regulator’s opinion.
 
-**7.**[^key-da9939fd9df7e9a4a2c04a8f6698ae3f][^key-6943b27ffee73f202a1ec5dd331c42a5][^key-d27d26c33778465c191fc88e5d644af9] After section 104 insert—
+**7.**[^c-da9939fd9df7e9a4a2c04a8f6698ae3f][^c-6943b27ffee73f202a1ec5dd331c42a5][^c-d27d26c33778465c191fc88e5d644af9] After section 104 insert—
 
 > **104A. Requirements in connection with public consultations**
 >
@@ -274,7 +274,7 @@ Section 51
 >
 > (7) Publication under this section is to be made in such manner as the Payment Systems Regulator considers best designed to bring the statement to the attention of the public.
 
-**8.**[^key-7f69f42d7105be7c0d9c7f72a41e1894][^key-f778d47c41f55fc4c450c2db66a9716e] After section 107 insert—
+**8.**[^c-7f69f42d7105be7c0d9c7f72a41e1894][^c-f778d47c41f55fc4c450c2db66a9716e] After section 107 insert—
 
 > **107A. International trade obligations**
 >
@@ -305,27 +305,27 @@ Section 51
 > - (a) a free trade agreement, as defined by section 5(1) of the Trade Act 2021, or
 > - (b) the agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994.
 
-**9.**[^key-fd898780b3e97595109cb5bdfa89171d][^key-b64669c1a4ebc78b2ec19a73e5e01565] In section 110(1) (interpretation), at the appropriate place insert—
+**9.**[^c-fd898780b3e97595109cb5bdfa89171d][^c-b64669c1a4ebc78b2ec19a73e5e01565] In section 110(1) (interpretation), at the appropriate place insert—
 
 > - “**generally applicable requirement**” has the meaning given by section 104(1);
 
 .
 
-**10.**[^key-739ae2daf75f0bbdadfcc36b0b30b063][^key-85a21512aa44ea5b3cab10d5ee2d4116] In section 143 (orders and regulations: Parliamentary control), in subsection (2), after paragraph (b) insert—
+**10.**[^c-739ae2daf75f0bbdadfcc36b0b30b063][^c-85a21512aa44ea5b3cab10d5ee2d4116] In section 143 (orders and regulations: Parliamentary control), in subsection (2), after paragraph (b) insert—
 
 > - (ba) regulations under section 102B (matters to consider when imposing generally applicable requirements);
 > - (bb) regulations under section 104F (power to require imposition of generally applicable requirements);
 
 .
 
-**11.**[^key-b562e30a623b4abca7eec39fc072f07f][^key-11ceb5cb24345d7859a976a8ef41c3ac] In Schedule 4 (the Payment Systems Regulator), after paragraph 7(2)(b) insert—
+**11.**[^c-b562e30a623b4abca7eec39fc072f07f][^c-11ceb5cb24345d7859a976a8ef41c3ac] In Schedule 4 (the Payment Systems Regulator), after paragraph 7(2)(b) insert—
 
 > - (ba) set out any engagement with a statutory panel established under section 103(3),
 > - (bb) set out how the Regulator has complied with the statement of policy on panel appointments prepared under section 104I in relation to the process for making appointments and the matters considered in determining who is appointed,
 
 .
 
-**12.**[^key-c11aaed713145b5ec2646c63c02efad3][^key-0878a8bc9fe1567504fa86361eef7f5a] In Schedule 4, after paragraph 7 insert—
+**12.**[^c-c11aaed713145b5ec2646c63c02efad3][^c-0878a8bc9fe1567504fa86361eef7f5a] In Schedule 4, after paragraph 7 insert—
 
 > **7A. Other reports**
 >
@@ -356,7 +356,7 @@ Section 51
 >
 > (9) A direction under this paragraph may be varied or revoked by the giving of a further direction.
 
-**13.**[^key-8359cd02214fe56083ffbd120d6b7756][^key-8b7132c4d5d9cfd4944a18c7beae4e2a] In Schedule 4, after paragraph 14 insert—
+**13.**[^c-8359cd02214fe56083ffbd120d6b7756][^c-8b7132c4d5d9cfd4944a18c7beae4e2a] In Schedule 4, after paragraph 14 insert—
 
 > **14A. Engagement with Parliamentary Committees**
 >
@@ -410,66 +410,66 @@ Section 51
 
 ## Annotations
 
-[^key-9bbe3dcbe4e968e1b34062baba9c8778]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-9bbe3dcbe4e968e1b34062baba9c8778]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e9f3f91ae0052946e6a9003515bd7db5]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(i)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/i)
+[^c-e9f3f91ae0052946e6a9003515bd7db5]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(i)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/i)
 
-[^key-040184625de8c41bfd9390f6cd92fe5b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 1.1.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/i)
+[^c-040184625de8c41bfd9390f6cd92fe5b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 1.1.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/i)
 
-[^key-9e04bd0ea3d4f12316c92f18f51566d2]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 1.8.2024 for specified purposes by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/3/b)
+[^c-9e04bd0ea3d4f12316c92f18f51566d2]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 1.8.2024 for specified purposes by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/3/b)
 
-[^key-b8a5201f49dba5aafc54289051c9ee13]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/4/b)
+[^c-b8a5201f49dba5aafc54289051c9ee13]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/1) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/4/b)
 
-[^key-489372aa1e6c4d973371e693b4033925]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-489372aa1e6c4d973371e693b4033925]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-cb7601a99531d3b55447dc5aaa403c96]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/2) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/ii)
+[^c-cb7601a99531d3b55447dc5aaa403c96]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/2) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/ii)
 
-[^key-7dec06208f292330036b0866eca0b093]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/2) in force at 1.1.2024 in so far as not already in force by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/ii)
+[^c-7dec06208f292330036b0866eca0b093]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/2) in force at 1.1.2024 in so far as not already in force by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/ii)
 
-[^key-a48e8789aaeba6e8a2fe3694d3b85cb0]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a48e8789aaeba6e8a2fe3694d3b85cb0]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7c241bc97fe974ad7f04c4df080a1bc6]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/3) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iii)
+[^c-7c241bc97fe974ad7f04c4df080a1bc6]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/3) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iii)
 
-[^key-63ff469869f3663f6d87a1fe6da8d44f]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/3) in force at 1.1.2025 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/d) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/2))
+[^c-63ff469869f3663f6d87a1fe6da8d44f]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/3) in force at 1.1.2025 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/d) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/2))
 
-[^key-c18af9857155a0b93e91ee708923bf91]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c18af9857155a0b93e91ee708923bf91]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1e56691d5a8c9befd2a0a4b355341877]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/4) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
+[^c-1e56691d5a8c9befd2a0a4b355341877]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/4) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
 
-[^key-f0f3b69ab7dbd3b5dfa2f6b67b788629]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f0f3b69ab7dbd3b5dfa2f6b67b788629]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bdfd3701c5b4d9d502455d29f50f8930]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
+[^c-bdfd3701c5b4d9d502455d29f50f8930]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
 
-[^key-1ea71ab84e2c4837e4599636b5366662]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1ea71ab84e2c4837e4599636b5366662]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b45ed0707797f80bc21201c81b4f9eb9]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
+[^c-b45ed0707797f80bc21201c81b4f9eb9]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
 
-[^key-da9939fd9df7e9a4a2c04a8f6698ae3f]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-da9939fd9df7e9a4a2c04a8f6698ae3f]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6943b27ffee73f202a1ec5dd331c42a5]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/7) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/v)
+[^c-6943b27ffee73f202a1ec5dd331c42a5]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/7) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/v)
 
-[^key-d27d26c33778465c191fc88e5d644af9]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/7) in force at 1.8.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/c)
+[^c-d27d26c33778465c191fc88e5d644af9]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/7) in force at 1.8.2024 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/c)
 
-[^key-7f69f42d7105be7c0d9c7f72a41e1894]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7f69f42d7105be7c0d9c7f72a41e1894]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f778d47c41f55fc4c450c2db66a9716e]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/8) in force at 1.1.2024 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/iii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))
+[^c-f778d47c41f55fc4c450c2db66a9716e]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/8) in force at 1.1.2024 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/iii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))
 
-[^key-fd898780b3e97595109cb5bdfa89171d]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-fd898780b3e97595109cb5bdfa89171d]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b64669c1a4ebc78b2ec19a73e5e01565]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/9) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-b64669c1a4ebc78b2ec19a73e5e01565]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/9) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-739ae2daf75f0bbdadfcc36b0b30b063]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-739ae2daf75f0bbdadfcc36b0b30b063]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-85a21512aa44ea5b3cab10d5ee2d4116]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/10) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-85a21512aa44ea5b3cab10d5ee2d4116]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/10) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-b562e30a623b4abca7eec39fc072f07f]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b562e30a623b4abca7eec39fc072f07f]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-11ceb5cb24345d7859a976a8ef41c3ac]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/11) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-11ceb5cb24345d7859a976a8ef41c3ac]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/11) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-c11aaed713145b5ec2646c63c02efad3]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c11aaed713145b5ec2646c63c02efad3]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-0878a8bc9fe1567504fa86361eef7f5a]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/12) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-0878a8bc9fe1567504fa86361eef7f5a]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/12) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-8359cd02214fe56083ffbd120d6b7756]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8359cd02214fe56083ffbd120d6b7756]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8b7132c4d5d9cfd4944a18c7beae4e2a]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/13) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-8b7132c4d5d9cfd4944a18c7beae4e2a]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/13) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Cases in which the obligations of manufacturers apply to importers and distributors[^key-80f41ec91ce77cb45243ad6f4b9f3d57]
+## 33. Cases in which the obligations of manufacturers apply to importers and distributors[^c-80f41ec91ce77cb45243ad6f4b9f3d57]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ is to be treated as the manufacturer of that product for the purposes of these R
 
 ## Annotations
 
-[^key-80f41ec91ce77cb45243ad6f4b9f3d57]: Commencement: Reg. 33 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-80f41ec91ce77cb45243ad6f4b9f3d57]: Commencement: Reg. 33 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

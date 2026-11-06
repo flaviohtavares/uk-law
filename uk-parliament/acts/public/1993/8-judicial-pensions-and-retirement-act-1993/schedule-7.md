@@ -24,35 +24,35 @@ Section 26.
 
 ### Interpretation
 
-**1.** (1)[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.** (1)[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-195a564d56c91ce88890848049f6bd30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-195a564d56c91ce88890848049f6bd30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Salaried offices
 
-**2.**[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Fee-paid offices
 
-**3.**[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Persons holding a relevant office by virtue of a continuation power
 
-**4.**[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ascertainment of potential retirement date
 
-**5.**[^key-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8570c9ff7cffebae87aa97c59bb9dfb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -62,6 +62,6 @@ Section 26.
 
     [Sch. 7](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7) continued (14.2.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/2), [Sch. 15 para. 3(4)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/3/4); [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3))
 
-[^key-8570c9ff7cffebae87aa97c59bb9dfb9]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7) omitted (except for Sch. 7 para. 1(2)) (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/4)
+[^c-8570c9ff7cffebae87aa97c59bb9dfb9]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7) omitted (except for Sch. 7 para. 1(2)) (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/4)
 
-[^key-195a564d56c91ce88890848049f6bd30]: Textual amendment: [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/1/2) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/13/3); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-195a564d56c91ce88890848049f6bd30]: Textual amendment: [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/1/2) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/13/3); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))

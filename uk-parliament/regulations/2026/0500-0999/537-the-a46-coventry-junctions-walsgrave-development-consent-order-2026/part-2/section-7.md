@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Limits of deviation[^key-9f2520dc76d7de4ed269a33e334f0686]
+## 7. Limits of deviation[^c-9f2520dc76d7de4ed269a33e334f0686]
 
 *Extent: E+W+S*
 
@@ -32,10 +32,10 @@ summary: ''
 
 certifies accordingly that a deviation in excess of these limits would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement.
 
-(3) Part 2 (procedure for discharge of requirements) of Schedule 2 (requirements) applies to an application to the Secretary of State for certification under paragraph (2)[^key-f7e7d86946d7c22edc63e79c0bf4b628] as though it were an approval required by a requirement under that Schedule.
+(3) Part 2 (procedure for discharge of requirements) of Schedule 2 (requirements) applies to an application to the Secretary of State for certification under paragraph (2)[^c-f7e7d86946d7c22edc63e79c0bf4b628] as though it were an approval required by a requirement under that Schedule.
 
 ## Annotations
 
-[^key-9f2520dc76d7de4ed269a33e334f0686]: Commencement: Art. 7 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-9f2520dc76d7de4ed269a33e334f0686]: Commencement: Art. 7 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-f7e7d86946d7c22edc63e79c0bf4b628]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2026/537/article/7/3) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-f7e7d86946d7c22edc63e79c0bf4b628]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2026/537/article/7/3) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

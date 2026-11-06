@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Claimants dependent on drugs etc.[^key-446025f5bc96adc315eb1df4dd868986]
+## 11. Claimants dependent on drugs etc.[^c-446025f5bc96adc315eb1df4dd868986]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-446025f5bc96adc315eb1df4dd868986]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2009/24/section/11) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/60/3), [150(2)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/b)
+[^c-446025f5bc96adc315eb1df4dd868986]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2009/24/section/11) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/60/3), [150(2)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of article 3 (general interpretation) of the EDP Order 2005[^key-d9de447a1e0583d3cac8a39864adacfb]
+## 15. Amendment of article 3 (general interpretation) of the EDP Order 2005[^c-d9de447a1e0583d3cac8a39864adacfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ Article 3 (general interpretation) of the Armed Forces Early Departure Payments 
 
 ## Annotations
 
-[^key-d9de447a1e0583d3cac8a39864adacfb]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-d9de447a1e0583d3cac8a39864adacfb]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2005/437](https://www.legislation.gov.uk/uksi/2005/437) as amended.
 

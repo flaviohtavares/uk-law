@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Bad debts: supplementary provisions[^key-6f78952ae32752809afd12a09313c761]
+## 16. Bad debts: supplementary provisions[^c-6f78952ae32752809afd12a09313c761]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the payment shall be attributed to each remaining debt according to the proporti
 
 ## Annotations
 
-[^key-6f78952ae32752809afd12a09313c761]: Commencement: Reg. 16 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-6f78952ae32752809afd12a09313c761]: Commencement: Reg. 16 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

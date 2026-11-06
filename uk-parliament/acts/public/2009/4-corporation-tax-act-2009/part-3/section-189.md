@@ -29,8 +29,8 @@ summary: ''
 - (a) it is received by or on behalf of a non-UK resident company which is beneficially entitled to it, and
 - (b) it represents income arising outside the United Kingdom.
 
-(4) A post-cessation receipt is not chargeable to tax under this Chapter if it arises from a trade carried on wholly outside the United Kingdom other than a company's trade of dealing in or developing[^key-64b46833c6112e4718014ae9801294f3] UK land.
+(4) A post-cessation receipt is not chargeable to tax under this Chapter if it arises from a trade carried on wholly outside the United Kingdom other than a company's trade of dealing in or developing[^c-64b46833c6112e4718014ae9801294f3] UK land.
 
 ## Annotations
 
-[^key-64b46833c6112e4718014ae9801294f3]: Textual amendment: Words in s. 189(4) inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 76(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/76/9) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))
+[^c-64b46833c6112e4718014ae9801294f3]: Textual amendment: Words in s. 189(4) inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 76(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/76/9) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))

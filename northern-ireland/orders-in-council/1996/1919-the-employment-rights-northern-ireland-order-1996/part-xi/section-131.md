@@ -30,14 +30,14 @@ summary: ''
 (3) A reason or set of circumstances prescribed under this Article must relate to—
 
 - (a) pregnancy, childbirth or maternity,
-- (aa)[^key-e972fcb87db6e406e598b6a3994ba706] time off under Article 85ZE,
-- (ab)[^key-3ec32ffaaf3ffb80bfd32b23b66624c0] time off under Article 85ZJ or 85ZL,
+- (aa)[^c-e972fcb87db6e406e598b6a3994ba706] time off under Article 85ZE,
+- (ab)[^c-3ec32ffaaf3ffb80bfd32b23b66624c0] time off under Article 85ZJ or 85ZL,
 - (b) ordinary, compulsory or additional maternity leave,
 - (ba)[^c17624321] ordinary or additional adoption leave,
-- (bb)[^key-e0c5d2e2b8cef1ce9eb97bd74817bc7c] shared parental leave,
+- (bb)[^c-e0c5d2e2b8cef1ce9eb97bd74817bc7c] shared parental leave,
 - (c) parental leave,
-- (ca)[^key-9a3948e74f03dd55de58e8761cf7b875] paternity leave,
-- (cb)[^key-da8dbb8e298169d4d87b23505b66b447] parental bereavement leave, or
+- (ca)[^c-9a3948e74f03dd55de58e8761cf7b875] paternity leave,
+- (cb)[^c-da8dbb8e298169d4d87b23505b66b447] parental bereavement leave, or
 - (d) time off under Article 85A;
 
 and it may also relate to redundancy or other factors.
@@ -58,14 +58,14 @@ under or in respect of a collective or workforce agreement which deals with pare
 
 [^c20508501]: Editorial: The insertion of the new arts. 130ZA-130ZH preceded by new "Retirement" crossheading and followed by new "Other Dismissals" crossheading on 1.10.2006 gives rise to a change in the structure of this Order on legislation.gov.uk which breaks the continuity of historical versions of the existing provisions which are brought under new "Other Dismissals" crossheading
 
-[^key-e972fcb87db6e406e598b6a3994ba706]: Textual amendment: Art. 131(3)(aa) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(5)](https://www.legislation.gov.uk/nia/2015/1/section/15/5), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
+[^c-e972fcb87db6e406e598b6a3994ba706]: Textual amendment: Art. 131(3)(aa) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(5)](https://www.legislation.gov.uk/nia/2015/1/section/15/5), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
 
-[^key-3ec32ffaaf3ffb80bfd32b23b66624c0]: Textual amendment: Art. 131(3)(ab) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(6)](https://www.legislation.gov.uk/nia/2015/1/section/17/6), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(n)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/n)
+[^c-3ec32ffaaf3ffb80bfd32b23b66624c0]: Textual amendment: Art. 131(3)(ab) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(6)](https://www.legislation.gov.uk/nia/2015/1/section/17/6), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(n)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/n)
 
 [^c17624321]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 
-[^key-e0c5d2e2b8cef1ce9eb97bd74817bc7c]: Textual amendment: Art. 131(3)(bb) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(16)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/16/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-e0c5d2e2b8cef1ce9eb97bd74817bc7c]: Textual amendment: Art. 131(3)(bb) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(16)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/16/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
 
-[^key-9a3948e74f03dd55de58e8761cf7b875]: Textual amendment: [Art. 131(3)(ca)](https://www.legislation.gov.uk/nisi/1996/1919/article/131/3/ca) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(16)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/16/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-9a3948e74f03dd55de58e8761cf7b875]: Textual amendment: [Art. 131(3)(ca)](https://www.legislation.gov.uk/nisi/1996/1919/article/131/3/ca) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(16)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/16/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-da8dbb8e298169d4d87b23505b66b447]: Textual amendment: [Art. 131(3)(cb)](https://www.legislation.gov.uk/nisi/1996/1919/article/131/3/cb) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 23](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/23); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-da8dbb8e298169d4d87b23505b66b447]: Textual amendment: [Art. 131(3)(cb)](https://www.legislation.gov.uk/nisi/1996/1919/article/131/3/cb) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 23](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/23); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)

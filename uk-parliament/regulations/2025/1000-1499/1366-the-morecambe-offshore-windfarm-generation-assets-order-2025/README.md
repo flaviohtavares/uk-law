@@ -107,7 +107,7 @@ Department for Energy Security and Net Zero
 
 *Extent: E+W+S*
 
-[^key-bd5198dd31bf627b767e96cd1aa526c7]EXPLANATORY NOTE
+[^c-bd5198dd31bf627b767e96cd1aa526c7]EXPLANATORY NOTE
 
 (This note is not part of this Order)
 
@@ -133,4 +133,4 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00008]: Footnote: Section 149A was inserted by paragraph 4 in Part 1 of Schedule 8 to the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-bd5198dd31bf627b767e96cd1aa526c7]: Textual amendment: Words in Explanatory Note substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-bd5198dd31bf627b767e96cd1aa526c7]: Textual amendment: Words in Explanatory Note substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)

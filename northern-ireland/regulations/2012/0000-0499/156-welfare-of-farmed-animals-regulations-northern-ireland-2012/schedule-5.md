@@ -33,12 +33,12 @@ In this Part—
 - “**food business operator**” has the same meaning as it has in Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21232271];
 - “**holding**” means a production site on which chickens are kept;
 - “**house**” means a building on a holding where a flock of chickens is kept;
-- “**official veterinarian**” has the same meaning as it has in Regulation (EU) 2017/625[^key-d657be43b79d0a6a14545e4c6529915f] ;
+- “**official veterinarian**” has the same meaning as it has in Regulation (EU) 2017/625[^c-d657be43b79d0a6a14545e4c6529915f] ;
 - “**owner**” means any natural or legal person or persons owning the holding where chickens are kept;
 - “**poultry**” means any bird reared or kept in captivity for the production of meat or eggs for consumption, or of other products, for restocking supplies of game or for the purpose of any breeding programme for the production of such categories of birds;
-- “**Regulation 853/2004**” means Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin , as last amended by Commission Regulation (EU) 2017/1981[^key-84cf6baa221c53e7f789e0b46c15f9fb] [^c21232281];
-- [^key-93f080ec49aab71b01c78f83ca85a216]...
-- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^key-1bfd060ccc3f30bfe6e5c93774be78b6]
+- “**Regulation 853/2004**” means Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin , as last amended by Commission Regulation (EU) 2017/1981[^c-84cf6baa221c53e7f789e0b46c15f9fb] [^c21232281];
+- [^c-93f080ec49aab71b01c78f83ca85a216]...
+- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^c-1bfd060ccc3f30bfe6e5c93774be78b6]
 - “**stocking density**” means the total live weight of chickens which are present in a house at the same time per m<sup>2</sup> of usable area;
 - “**working day**” means a day other than a Saturday or a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971 [^c21232301].
 
@@ -184,7 +184,7 @@ The requirements of this paragraph are that the owner or other person responsibl
 
 ### 16. Identification of poor welfare conditions and follow up
 
-(1) Under the supervision of an official veterinarian conducting controls under Regulation (EU) 2017/625[^key-a61226e2662261117e1cf42167268095] in relation to chickens—
+(1) Under the supervision of an official veterinarian conducting controls under Regulation (EU) 2017/625[^c-a61226e2662261117e1cf42167268095] in relation to chickens—
 
 - (a) the results of their post mortem inspection shall be evaluated, as required, to identify possible indications of poor welfare conditions in their holding or house of origin; and
 - (b) if the mortality rate of the chickens or the results of the post mortem inspection are consistent with poor animal welfare conditions, this data shall be reported to the Department and owner or other person responsible for the chickens without delay.
@@ -195,18 +195,18 @@ The requirements of this paragraph are that the owner or other person responsibl
 
 [^c21232271]: Marginal citation: O.J. No. L 31, 1.2.02, p 1; last amended by Regulation (EC) No 596/2009 (O.J. No. L 188, 18.7.09, p 14)
 
-[^key-d657be43b79d0a6a14545e4c6529915f]: Textual amendment: Words in Sch. 5 substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/a)
+[^c-d657be43b79d0a6a14545e4c6529915f]: Textual amendment: Words in Sch. 5 substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/a)
 
-[^key-84cf6baa221c53e7f789e0b46c15f9fb]: Textual amendment: Words in Sch. 5 para. 1 inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/5/a)
+[^c-84cf6baa221c53e7f789e0b46c15f9fb]: Textual amendment: Words in Sch. 5 para. 1 inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/5/a)
 
 [^c21232281]: Marginal citation: O.J. No. L 226, 25.6.04, p. 22; last amended by Regulation (EC) No. 219/2009 (O.J. No. L 87, 31.3.09, p. 109)
 
-[^key-93f080ec49aab71b01c78f83ca85a216]: Textual amendment: Words in Sch. 5 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/b)
+[^c-93f080ec49aab71b01c78f83ca85a216]: Textual amendment: Words in Sch. 5 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/b)
 
-[^key-1bfd060ccc3f30bfe6e5c93774be78b6]: Textual amendment: Words in Sch. 5 inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/c)
+[^c-1bfd060ccc3f30bfe6e5c93774be78b6]: Textual amendment: Words in Sch. 5 inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/c)
 
 [^c21232301]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80) to which there is an amendment not relevant to these Regulations
 
 [^c21232311]: Marginal citation: O.J. No. L 182, 12.7.07, p. 19
 
-[^key-a61226e2662261117e1cf42167268095]: Textual amendment: Words in [Sch. 5 para. 16(1)](https://www.legislation.gov.uk/nisr/2012/156/schedule/5/paragraph/16/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(d)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/d)
+[^c-a61226e2662261117e1cf42167268095]: Textual amendment: Words in [Sch. 5 para. 16(1)](https://www.legislation.gov.uk/nisr/2012/156/schedule/5/paragraph/16/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [21(2)(d)](https://www.legislation.gov.uk/nisr/2019/227/regulation/21/2/d)

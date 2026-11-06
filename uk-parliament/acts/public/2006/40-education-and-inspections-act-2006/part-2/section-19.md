@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Publication of proposals for alteration of school[^key-8c84ac8e408433f97e4dceea280916ad]
+## 19. Publication of proposals for alteration of school[^c-8c84ac8e408433f97e4dceea280916ad]
 
 *Extent: E+W*
 
 (1) Where—
 
-- (a) the local authority[^key-0ea7acc4831332590d0c9da4689eca3c] propose to make a prescribed alteration to a maintained school, and
+- (a) the local authority[^c-0ea7acc4831332590d0c9da4689eca3c] propose to make a prescribed alteration to a maintained school, and
 - (b) the prescribed alteration is one that under subsection (2) is capable of being proposed by a local authority,
 
 the authority must publish their proposals under this section.
@@ -58,6 +58,6 @@ the governing body must publish their proposals under this section.
 
 ## Annotations
 
-[^key-8c84ac8e408433f97e4dceea280916ad]: Commencement: S. 19 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(d)](https://www.legislation.gov.uk/uksi/2007/935/article/7/d)
+[^c-8c84ac8e408433f97e4dceea280916ad]: Commencement: S. 19 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(d)](https://www.legislation.gov.uk/uksi/2007/935/article/7/d)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Part-time sheriffs[^key-6156cefe1725088cae1f10c00b0814c0]
+## 8. Part-time sheriffs[^c-6156cefe1725088cae1f10c00b0814c0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6156cefe1725088cae1f10c00b0814c0]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/18/section/8) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-6156cefe1725088cae1f10c00b0814c0]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/18/section/8) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

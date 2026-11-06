@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Chargeable events: soft drinks imported into the UK[^key-85d2623fd1299acb79d5be06e8ef4a34]
+## 33. Chargeable events: soft drinks imported into the UK[^c-85d2623fd1299acb79d5be06e8ef4a34]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ summary: ''
 
 (9) If the chargeable soft drinks are made available for sale or free of charge by a relevant person (the “first seller”) before a chargeable event in relation to the soft drinks occurs under subsection (2) or (8), a chargeable event occurs at the time the chargeable soft drinks are made available (and not at the time mentioned in subsection (2) or (8)).
 
-(10)[^key-72bc6c2b10ae077de1ec6278c24af316] This section is subject to section 58A (Isle of Man: import and export of chargeable soft drinks).
+(10)[^c-72bc6c2b10ae077de1ec6278c24af316] This section is subject to section 58A (Isle of Man: import and export of chargeable soft drinks).
 
 ## Annotations
 
-[^key-85d2623fd1299acb79d5be06e8ef4a34]: Commencement: S. 33 in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-85d2623fd1299acb79d5be06e8ef4a34]: Commencement: S. 33 in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
 
-[^key-72bc6c2b10ae077de1ec6278c24af316]: Textual amendment: [S. 33(10)](https://www.legislation.gov.uk/ukpga/2017/10/section/33/10) inserted (1.4.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 68(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/4)[(6)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/6)
+[^c-72bc6c2b10ae077de1ec6278c24af316]: Textual amendment: [S. 33(10)](https://www.legislation.gov.uk/ukpga/2017/10/section/33/10) inserted (1.4.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 68(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/4)[(6)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/6)

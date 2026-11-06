@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (International Railway Tariffs Agreements) Order 1993 (revoked)[^key-e046185044ee60decde65475263156a7]
+The European Communities (Definition of Treaties) (International Railway Tariffs Agreements) Order 1993 (revoked)[^c-e046185044ee60decde65475263156a7]
 
 Approved by both Houses of Parliament
 
@@ -46,26 +46,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-e046185044ee60decde65475263156a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e046185044ee60decde65475263156a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e046185044ee60decde65475263156a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e046185044ee60decde65475263156a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e046185044ee60decde65475263156a7]
+## SCHEDULE[^c-e046185044ee60decde65475263156a7]
 
-**1.**[^key-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e046185044ee60decde65475263156a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e046185044ee60decde65475263156a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e046185044ee60decde65475263156a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e046185044ee60decde65475263156a7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1993/944) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e046185044ee60decde65475263156a7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1993/944) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

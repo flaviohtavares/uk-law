@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Review of regulatory schemes[^key-c46979185c4af872289e43e2391e3971][^key-d8fd92e0d25ec3f23bcd10604e20db70]
+## 33. Review of regulatory schemes[^c-c46979185c4af872289e43e2391e3971][^c-d8fd92e0d25ec3f23bcd10604e20db70]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c46979185c4af872289e43e2391e3971]: Commencement: S. 33 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c46979185c4af872289e43e2391e3971]: Commencement: S. 33 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d8fd92e0d25ec3f23bcd10604e20db70]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/8/section/33) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-d8fd92e0d25ec3f23bcd10604e20db70]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/8/section/33) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

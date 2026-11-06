@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Power to deal with cause of imminent danger of serious pollution etc.[^key-bbf59d6b6ea44ed6959c6ae0d017d18d]
+## 73. Power to deal with cause of imminent danger of serious pollution etc.[^c-bbf59d6b6ea44ed6959c6ae0d017d18d]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ and if, where sub-paragraph (b) applies, the authorised person cannot after reas
 
 ## Annotations
 
-[^key-bbf59d6b6ea44ed6959c6ae0d017d18d]: Modification: [Art. 73](https://www.legislation.gov.uk/nisi/1997/2778/article/73) applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/21/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-bbf59d6b6ea44ed6959c6ae0d017d18d]: Modification: [Art. 73](https://www.legislation.gov.uk/nisi/1997/2778/article/73) applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/21/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))

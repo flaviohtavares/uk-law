@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Functions under the Corporate Manslaughter and Corporate Homicide Act 2007[^key-4ce1a5d36554ffbdaec105477b5ea9b7]
+## 7. Functions under the Corporate Manslaughter and Corporate Homicide Act 2007[^c-4ce1a5d36554ffbdaec105477b5ea9b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 9 (which amends the Corporate Manslaughter and Corporate Homicide Act 2
 
 ## Annotations
 
-[^key-4ce1a5d36554ffbdaec105477b5ea9b7]: Commencement: Art. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4ce1a5d36554ffbdaec105477b5ea9b7]: Commencement: Art. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00006]: Footnote: [2007 c. 19](https://www.legislation.gov.uk/ukpga/2007/19).

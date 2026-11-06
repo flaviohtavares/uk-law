@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Power to require documents to be produced or information given[^key-b6f09a9c76c0a2ec26580ee0672d6007]
+## 37. Power to require documents to be produced or information given[^c-b6f09a9c76c0a2ec26580ee0672d6007]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6f09a9c76c0a2ec26580ee0672d6007]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2014/7/section/37) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(s)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/s)
+[^c-b6f09a9c76c0a2ec26580ee0672d6007]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2014/7/section/37) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(s)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/s)

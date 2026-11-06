@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J6. Rights where a person transfers to the Communities' scheme and leaves without a right to either an immediate or prospective pension[^key-feea51ba2237e2dbb26965bea47e3f40]
+## J6. Rights where a person transfers to the Communities' scheme and leaves without a right to either an immediate or prospective pension[^c-feea51ba2237e2dbb26965bea47e3f40]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feea51ba2237e2dbb26965bea47e3f40]: Commencement: [Reg. J6](https://www.legislation.gov.uk/uksi/1986/24/regulation/J6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-feea51ba2237e2dbb26965bea47e3f40]: Commencement: [Reg. J6](https://www.legislation.gov.uk/uksi/1986/24/regulation/J6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

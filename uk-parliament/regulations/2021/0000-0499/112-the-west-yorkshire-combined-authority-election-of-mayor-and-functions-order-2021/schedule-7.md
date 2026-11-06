@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7[^key-b3eebe1eccaa470b6642dff3081f730a]
+## SCHEDULE 7[^c-b3eebe1eccaa470b6642dff3081f730a]
 
 *Extent: E+W*
 
@@ -169,6 +169,6 @@ Article 44
 
 ## Annotations
 
-[^key-b3eebe1eccaa470b6642dff3081f730a]: Commencement: Sch. 7 in force at 30.1.2021, see art. 1(2)
+[^c-b3eebe1eccaa470b6642dff3081f730a]: Commencement: Sch. 7 in force at 30.1.2021, see art. 1(2)
 
 [^c24435391]: Marginal citation: [S.I. 2017/611](https://www.legislation.gov.uk/uksi/2017/611).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Listed offences[^key-e1f4096d0f1709c4ea498a22b6e2a9c1]
+## SCHEDULE 3 — Listed offences[^c-e1f4096d0f1709c4ea498a22b6e2a9c1]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ Regulation 11C
 
 ## Annotations
 
-[^key-e1f4096d0f1709c4ea498a22b6e2a9c1]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2020/4/schedule/3) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/653/schedule/1) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-e1f4096d0f1709c4ea498a22b6e2a9c1]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2020/4/schedule/3) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/653/schedule/1) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))

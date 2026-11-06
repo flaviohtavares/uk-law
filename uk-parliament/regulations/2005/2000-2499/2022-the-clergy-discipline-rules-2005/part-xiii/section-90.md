@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 90. Application by bishop or archbishop for review of penalty[^key-23e428b10fd78983892a063a79ff836a]
+## 90. Application by bishop or archbishop for review of penalty[^c-23e428b10fd78983892a063a79ff836a]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ An application under rule 70 for a review of a penalty imposed under section 31(
 
 ## Annotations
 
-[^key-23e428b10fd78983892a063a79ff836a]: Commencement: [Rule 90](https://www.legislation.gov.uk/uksi/2005/2022/rule/90) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-23e428b10fd78983892a063a79ff836a]: Commencement: [Rule 90](https://www.legislation.gov.uk/uksi/2005/2022/rule/90) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

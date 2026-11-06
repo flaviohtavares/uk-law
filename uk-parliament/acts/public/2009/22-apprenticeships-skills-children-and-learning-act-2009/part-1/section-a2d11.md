@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A2D11. Co-operation between the Institute and Ofqual[^key-6cf07be0974715e14ab5b4dbea0d863a]
+## A2D11. Co-operation between the Institute and Ofqual[^c-6cf07be0974715e14ab5b4dbea0d863a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cf07be0974715e14ab5b4dbea0d863a]: Textual amendment: S. A2D11 omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/18) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-6cf07be0974715e14ab5b4dbea0d863a]: Textual amendment: S. A2D11 omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/18) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)

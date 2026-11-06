@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77A. Transitional provision for common charger radio equipment[^key-9c55f9e636d9f412a7bfc2646348e4a5]
+## 77A. Transitional provision for common charger radio equipment[^c-9c55f9e636d9f412a7bfc2646348e4a5]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Nothing in these Regulations prevents the making available on the market of comm
 
 ## Annotations
 
-[^key-9c55f9e636d9f412a7bfc2646348e4a5]: Textual amendment: [Reg. 77A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77A) inserted (N.I.) (28.12.2024) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/1231)](https://www.legislation.gov.uk/uksi/2024/1231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/2/11)
+[^c-9c55f9e636d9f412a7bfc2646348e4a5]: Textual amendment: [Reg. 77A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77A) inserted (N.I.) (28.12.2024) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/1231)](https://www.legislation.gov.uk/uksi/2024/1231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/2/11)

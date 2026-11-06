@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Protective provisions[^key-515c8adec868fc6dc1a03a128cce265e]
+## 53. Protective provisions[^c-515c8adec868fc6dc1a03a128cce265e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 16 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-515c8adec868fc6dc1a03a128cce265e]: Commencement: Art. 53 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-515c8adec868fc6dc1a03a128cce265e]: Commencement: Art. 53 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

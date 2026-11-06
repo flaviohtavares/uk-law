@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Right of governing body to determine own foundation proposals[^key-2c62e6bec5232e879878327614d09b29]
+## 22. Right of governing body to determine own foundation proposals[^c-2c62e6bec5232e879878327614d09b29]
 
 *Extent: E+W*
 
@@ -40,11 +40,11 @@ summary: ''
 
 (5) In relation to proposals to which this subsection applies, regulations under section 21—
 
-- (a) must provide for the proposals to be determined by the governing body unless the local authority[^key-0ea7acc4831332590d0c9da4689eca3c] exercise the right conferred on them by regulations made by virtue of section 23(1), and
+- (a) must provide for the proposals to be determined by the governing body unless the local authority[^c-0ea7acc4831332590d0c9da4689eca3c] exercise the right conferred on them by regulations made by virtue of section 23(1), and
 - (b) may not make any provision under subsection (2)(g) or (h) of section 21 enabling a person other than the local authority to require the proposals to be referred to the adjudicator.
 
 ## Annotations
 
-[^key-2c62e6bec5232e879878327614d09b29]: Commencement: S. 22 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(c)](https://www.legislation.gov.uk/uksi/2007/935/article/5/c)
+[^c-2c62e6bec5232e879878327614d09b29]: Commencement: S. 22 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(c)](https://www.legislation.gov.uk/uksi/2007/935/article/5/c)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

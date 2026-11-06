@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Section 424A (meaning of “investment firm”)[^key-00d71b3519f405c6369e6469ad905bd2]
+## 90. Section 424A (meaning of “investment firm”)[^c-00d71b3519f405c6369e6469ad905bd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00d71b3519f405c6369e6469ad905bd2]: Commencement: Reg. 90 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-00d71b3519f405c6369e6469ad905bd2]: Commencement: Reg. 90 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658611]: Marginal citation: Section 424A was inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
 

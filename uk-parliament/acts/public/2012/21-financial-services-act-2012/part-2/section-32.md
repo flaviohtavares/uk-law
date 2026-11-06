@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Recognised bodies: procedure for giving directions under s.296 etc[^key-48119044f0b1a13ce0733f2ab7ab524d]
+## 32. Recognised bodies: procedure for giving directions under s.296 etc[^c-48119044f0b1a13ce0733f2ab7ab524d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48119044f0b1a13ce0733f2ab7ab524d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2012/21/section/32) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-48119044f0b1a13ce0733f2ab7ab524d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2012/21/section/32) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

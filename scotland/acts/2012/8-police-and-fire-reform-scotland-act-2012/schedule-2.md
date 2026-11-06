@@ -22,11 +22,11 @@ summary: ''
 
 (introduced by section 28(3))
 
-**1.**[^key-992b357237ae36bbfa7b1d81170c9c81] A police custody and security officer has power—
+**1.**[^c-992b357237ae36bbfa7b1d81170c9c81] A police custody and security officer has power—
 
 - (a) to transfer persons in legal custody from one set of relevant premises to another,
 - (b) to have custody of persons held in legal custody on court premises (whether or not such persons would otherwise be in the custody of the court) and to produce them before the court,
-- (ba)[^key-5e61b225182fcaa7a8ff803d61592357] to have custody of persons held in legal custody in a police station for the purpose of effecting their production, by electronic means from the station, before a court,
+- (ba)[^c-5e61b225182fcaa7a8ff803d61592357] to have custody of persons held in legal custody in a police station for the purpose of effecting their production, by electronic means from the station, before a court,
 - (c) to have custody of persons temporarily held in legal custody in relevant premises while in the course of transfer from one set of such premises to another,
 - (d) to apprehend a person who was in the custody of the officer in relevant premises or in such course of transfer but who is unlawfully at large,
 - (e) to remove from relevant premises any person—
@@ -47,7 +47,7 @@ summary: ''
 
 and either (but not both) of the sets of premises mentioned in any of paragraphs (a), (c) and (g) may be situated in a part of the British Islands outwith Scotland.
 
-**2.**[^key-86ac04c44fecb3066b718575b371d60e] (1) It is the duty of a police custody and security officer—
+**2.**[^c-86ac04c44fecb3066b718575b371d60e] (1) It is the duty of a police custody and security officer—
 
 - (a) to attend to the well-being of a person in the officer's custody,
 - (b) to prevent such a person from escaping from custody,
@@ -68,8 +68,8 @@ and either (but not both) of the sets of premises mentioned in any of paragraphs
 
 ## Annotations
 
-[^key-992b357237ae36bbfa7b1d81170c9c81]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/2/paragraph/1) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-992b357237ae36bbfa7b1d81170c9c81]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/2/paragraph/1) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-5e61b225182fcaa7a8ff803d61592357]: Textual amendment: [Sch. 2 para. 1(ba)](https://www.legislation.gov.uk/asp/2012/8/schedule/2/paragraph/1/ba) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(4)](https://www.legislation.gov.uk/asp/2022/8/section/40/4), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-5e61b225182fcaa7a8ff803d61592357]: Textual amendment: [Sch. 2 para. 1(ba)](https://www.legislation.gov.uk/asp/2012/8/schedule/2/paragraph/1/ba) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(4)](https://www.legislation.gov.uk/asp/2022/8/section/40/4), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-86ac04c44fecb3066b718575b371d60e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/2/paragraph/2) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-86ac04c44fecb3066b718575b371d60e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/2/paragraph/2) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

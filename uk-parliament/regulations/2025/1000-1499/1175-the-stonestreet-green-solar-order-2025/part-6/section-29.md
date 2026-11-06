@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Modification of Part 1 of the 1965 Act[^key-2b3225568441f2a0df5d28914bc13c00]
+## 29. Modification of Part 1 of the 1965 Act[^c-2b3225568441f2a0df5d28914bc13c00]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3225568441f2a0df5d28914bc13c00]: Commencement: Art. 29 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-2b3225568441f2a0df5d28914bc13c00]: Commencement: Art. 29 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00047]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56). Section 4 was amended by section 185(2)(a) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55).
 

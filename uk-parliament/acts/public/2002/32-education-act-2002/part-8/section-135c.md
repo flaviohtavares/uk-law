@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135C. Induction periods: supplementary[^key-36491703824b012c443cf5c2db4d1e84]
+## 135C. Induction periods: supplementary[^c-36491703824b012c443cf5c2db4d1e84]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Nothing in this subsection applies to a maintained school at any time when the s
 
 ## Annotations
 
-[^key-36491703824b012c443cf5c2db4d1e84]: Textual amendment: Ss. 135A-135C and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2011/21/section/9), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-36491703824b012c443cf5c2db4d1e84]: Textual amendment: Ss. 135A-135C and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2011/21/section/9), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

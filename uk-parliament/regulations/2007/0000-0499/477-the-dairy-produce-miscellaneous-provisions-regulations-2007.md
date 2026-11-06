@@ -44,7 +44,7 @@ Coming into force
 
 6th April 2007
 
-[^M_F_f4015cbe-9e4a-426a-b5fb-f40980923964][^key-f7afa1b8ed19d7d38f0ab0694ef28252]The Secretary of State has been designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community.
+[^M_F_f4015cbe-9e4a-426a-b5fb-f40980923964][^c-f7afa1b8ed19d7d38f0ab0694ef28252]The Secretary of State has been designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community.
 
 He makes the following Regulations under the powers conferred by that section.
 
@@ -60,7 +60,7 @@ The Dairy Produce Quota Tribunals, re-constituted under regulation 7(1) of the D
 
 (1) The Dairy Produce Quotas (General Provisions) Regulations 2002 are amended as follows.
 
-(2)[^key-c2af87dd68af1665a32a796ffa7fec27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c2af87dd68af1665a32a796ffa7fec27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit regulation 7 (dairy produce quota tribunals).
 
@@ -149,7 +149,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^M_F_f4015cbe-9e4a-426a-b5fb-f40980923964]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
 
-[^key-f7afa1b8ed19d7d38f0ab0694ef28252]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/h)
+[^c-f7afa1b8ed19d7d38f0ab0694ef28252]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/h)
 
 [^f00001]: Footnote: The power of the Secretary of State, as a Minister designated by virtue of [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) in relation to the common agricultural policy of the European Community, to make regulations which extend to Scotland remains exercisable by virtue of section 57(1) of the Scotland Act 1998 ([1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46)). The Secretary of State’s power, as a Minister so designated, to make regulations which apply to Wales is confirmed by article 4(4) of [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). The Secretary of State’s power, as a Minister so designated, to make regulations which extend to Northern Ireland is confirmed by article 3(2) of [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812).
 
@@ -157,6 +157,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [S.I. 2002/458](https://www.legislation.gov.uk/uksi/2002/458) as amended by [S.I. 2005/466](https://www.legislation.gov.uk/uksi/2005/466).
 
-[^key-c2af87dd68af1665a32a796ffa7fec27]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/2) omitted (1.4.2008) by virtue of [Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2008/438/regulation/3/2)
+[^c-c2af87dd68af1665a32a796ffa7fec27]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/2) omitted (1.4.2008) by virtue of [Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2008/438/regulation/3/2)
 
 [^f00007]: Footnote: [1986 c.49](https://www.legislation.gov.uk/ukpga/1986/49).

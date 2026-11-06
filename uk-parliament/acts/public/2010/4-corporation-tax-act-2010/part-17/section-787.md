@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 787. Exemption of manufactured dividends[^key-473222e77804a1539a9abfad600d2c7d]
+## 787. Exemption of manufactured dividends[^c-473222e77804a1539a9abfad600d2c7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-473222e77804a1539a9abfad600d2c7d]: Textual amendment: [Pt. 17](https://www.legislation.gov.uk/ukpga/2010/4/part/17) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 43](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/43), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
+[^c-473222e77804a1539a9abfad600d2c7d]: Textual amendment: [Pt. 17](https://www.legislation.gov.uk/ukpga/2010/4/part/17) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 43](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/43), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)

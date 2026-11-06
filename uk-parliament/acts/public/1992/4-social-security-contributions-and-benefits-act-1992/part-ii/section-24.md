@@ -24,9 +24,9 @@ summary: ''
 
 (2) Where the Secretary of State is satisfied that records of earnings relevant for the purpose of calculating a person’s earnings factors for the tax year 1987-88 or any subsequent tax year have not been maintained or retained or are otherwise unobtainable, then, for the purpose of determining those earnings factors, he may—
 
-- (a) compute, in such manner as he thinks fit, an amount which shall be regarded as the amount of so much of that person’s earnings as did not exceed the upper earnings limit and[^key-c89e29aa0bfb4d27f927e1519ae9e2d7] on which primary Class 1 contributions have been paid or treated as paid; or
+- (a) compute, in such manner as he thinks fit, an amount which shall be regarded as the amount of so much of that person’s earnings as did not exceed the upper earnings limit and[^c-c89e29aa0bfb4d27f927e1519ae9e2d7] on which primary Class 1 contributions have been paid or treated as paid; or
 - (b) take the amount of those earnings to be such sum as he may specify in the particular case.
 
 ## Annotations
 
-[^key-c89e29aa0bfb4d27f927e1519ae9e2d7]: Textual amendment: Words in s. 24(2)(a) substituted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/9)
+[^c-c89e29aa0bfb4d27f927e1519ae9e2d7]: Textual amendment: Words in s. 24(2)(a) substituted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/9)

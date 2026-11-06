@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Authorisation requirements and conditions[^key-eddce8221d48994fde3445f9bf4aa113]
+## 5. Authorisation requirements and conditions[^c-eddce8221d48994fde3445f9bf4aa113]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eddce8221d48994fde3445f9bf4aa113]: Commencement: S. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-eddce8221d48994fde3445f9bf4aa113]: Commencement: S. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

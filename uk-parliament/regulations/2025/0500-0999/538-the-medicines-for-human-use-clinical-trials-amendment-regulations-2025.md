@@ -48,7 +48,7 @@ In accordance with section 47(3) and (6)(c) of that Act, a draft of this instrum
 
 ## Part 1 — General
 
-### 1. Citation, commencement and extent[^key-35ca5454e2d4428532a80fea0ddff9ce]
+### 1. Citation, commencement and extent[^c-35ca5454e2d4428532a80fea0ddff9ce]
 
 (1) These Regulations may be cited as the Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025.
 
@@ -56,13 +56,13 @@ In accordance with section 47(3) and (6)(c) of that Act, a draft of this instrum
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendment of the Medicines for Human Use (Clinical Trials) Regulations 2004[^key-20fa39c8ce121bd0c6f52ccf50e7a22b]
+### 2. Amendment of the Medicines for Human Use (Clinical Trials) Regulations 2004[^c-20fa39c8ce121bd0c6f52ccf50e7a22b]
 
 The Medicines for Human Use (Clinical Trials) Regulations 2004[^f00002] are amended in accordance with these Regulations.
 
 ## Part 2 — Amendment to Part 1 (Introductory Provisions)
 
-### 3. Amendment to regulation 2[^key-d82a591875143be78d97f271f87b6eea]
+### 3. Amendment to regulation 2[^c-d82a591875143be78d97f271f87b6eea]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -175,7 +175,7 @@ The Medicines for Human Use (Clinical Trials) Regulations 2004[^f00002] are amen
 
   .
 
-### 4. Amendment to regulation 3[^key-de13cdae4772493129febe389087d940]
+### 4. Amendment to regulation 3[^c-de13cdae4772493129febe389087d940]
 
 (1) Regulation 3 (sponsor of a clinical trial) is amended as follows.
 
@@ -203,7 +203,7 @@ The Medicines for Human Use (Clinical Trials) Regulations 2004[^f00002] are amen
 - (a) in sub-paragraph (a), for “regulations 15 and 28(1)” substitute “regulation 28(1)”;
 - (b) in sub-paragraph (c), omit “, and Part 1 of Schedule 3”.
 
-### 5. Insertion of new regulation 3B[^key-9e066b2e4f6d6218ecd29301753a9ded]
+### 5. Insertion of new regulation 3B[^c-9e066b2e4f6d6218ecd29301753a9ded]
 
 After regulation 3A (sponsor’s responsibility for the investigator’s brochure) insert—
 
@@ -215,7 +215,7 @@ After regulation 3A (sponsor’s responsibility for the investigator’s brochur
 
 ## Part 3 — Amendment to Part 2 (Ethics Committees)
 
-### 6. Amendment to regulation 5[^key-7e65e196714d77179e87767a2ac12419]
+### 6. Amendment to regulation 5[^c-7e65e196714d77179e87767a2ac12419]
 
 (1) Regulation 5 (United Kingdom Ethics Committees Authority) is amended as follows.
 
@@ -228,7 +228,7 @@ After regulation 3A (sponsor’s responsibility for the investigator’s brochur
 
 (4) In paragraph (5), omit sub-paragraph (b) and the “or” preceding it.
 
-### 7. Amendment to regulation 6[^key-8872b240b0ff256ccd928b3c2cd0e6eb]
+### 7. Amendment to regulation 6[^c-8872b240b0ff256ccd928b3c2cd0e6eb]
 
 (1) Regulation 6 (establishment of ethics committees) is amended as follows.
 
@@ -274,11 +274,11 @@ After regulation 3A (sponsor’s responsibility for the investigator’s brochur
 
 .
 
-### 8. Omission of regulations 7 and 8[^key-c6f6412447501774e2cfd40525734f0c]
+### 8. Omission of regulations 7 and 8[^c-c6f6412447501774e2cfd40525734f0c]
 
 Omit regulations 7 (recognition of ethics committees)[^f00013] and 8 (revocation of recognition).
 
-### 9. Substitution of regulation 9[^key-01bcf570374764f49d46952b59fb1035]
+### 9. Substitution of regulation 9[^c-01bcf570374764f49d46952b59fb1035]
 
 For regulation 9 (constitution and operation of ethics committees) substitute—
 
@@ -319,7 +319,7 @@ For regulation 9 (constitution and operation of ethics committees) substitute—
 
 ## Part 4 — Amendment to Part 3 (Authorisation for Clinical Trials and Ethics Committee Opinion)
 
-### 10. Substitution of regulation 11[^key-8409f0caca3652a911696ecf0fde30b0]
+### 10. Substitution of regulation 11[^c-8409f0caca3652a911696ecf0fde30b0]
 
 For regulation 11 (interpretation of Part 3) substitute—
 
@@ -356,7 +356,7 @@ For regulation 11 (interpretation of Part 3) substitute—
 
 .
 
-### 11. Insertion of new regulations 11A and 11B[^key-d8da79b94a4a1ab310fb8f612685e4a3]
+### 11. Insertion of new regulations 11A and 11B[^c-d8da79b94a4a1ab310fb8f612685e4a3]
 
 After regulation 11 (interpretation of Part 3) insert—
 
@@ -442,7 +442,7 @@ After regulation 11 (interpretation of Part 3) insert—
 
 .
 
-### 12. Amendment to regulation 12[^key-f1db5efad7ad2499d5cbae7fcf5d70f1]
+### 12. Amendment to regulation 12[^c-f1db5efad7ad2499d5cbae7fcf5d70f1]
 
 (1) Regulation 12 (requirement for authorisation and ethics committee opinion) is amended as follows.
 
@@ -464,7 +464,7 @@ After regulation 11 (interpretation of Part 3) insert—
 
 (4) Omit paragraph (4).
 
-### 13. Amendment to regulation 13[^key-cec72fb273936e1c3fe10c7530a31e33]
+### 13. Amendment to regulation 13[^c-cec72fb273936e1c3fe10c7530a31e33]
 
 (1) Regulation 13 (supply of investigational medicinal products for the purpose of clinical trials) is amended as follows.
 
@@ -475,7 +475,7 @@ After regulation 11 (interpretation of Part 3) insert—
 - (a) in sub-paragraph (aa), for “Article 13 of the Directive” substitute “Article 62 of the EU Regulation”;
 - (b) in sub-paragraph (bb), for “Article 13(3) and (4) of the Directive” substitute “Article 62 of the EU Regulation”.
 
-### 14. Substitution of regulations 14 to 26[^key-c7803d086cb72922fc326122777b105e]
+### 14. Substitution of regulations 14 to 26[^c-c7803d086cb72922fc326122777b105e]
 
 For regulations 14 to 26 substitute—
 
@@ -964,11 +964,11 @@ For regulations 14 to 26 substitute—
 
 .
 
-### 15. Amendment to regulation 27A[^key-1930e9f343e13ba77b6725f6b0a10ae6]
+### 15. Amendment to regulation 27A[^c-1930e9f343e13ba77b6725f6b0a10ae6]
 
 In regulation 27A (information sharing)[^f00018], after “licensing authority” insert “, the Authority”.
 
-### 16. Substitution of regulation 27B[^key-693d41fae3b61e80326655668e60a8e7]
+### 16. Substitution of regulation 27B[^c-693d41fae3b61e80326655668e60a8e7]
 
 For regulation 27B (publication of information) substitute—
 
@@ -990,7 +990,7 @@ For regulation 27B (publication of information) substitute—
 
 ## Part 5 — Amendment to Part 4 (Good Clinical Practice and the Conduct of Clinical Trials)
 
-### 17. Amendment to regulation 28[^key-da5006326a15a64277c0bf2359c01b00]
+### 17. Amendment to regulation 28[^c-da5006326a15a64277c0bf2359c01b00]
 
 (1) Regulation 28 (good clinical practice and protection of clinical trial subjects) is amended as follows.
 
@@ -1018,7 +1018,7 @@ For regulation 27B (publication of information) substitute—
 - (a) for “site”, in both places where it occurs, substitute “location”;
 - (b) for “sites”, in both places where it occurs, substitute “locations”.
 
-### 18. Amendment to regulation 29[^key-64bd6ab84c4787a8e676c187636d2523]
+### 18. Amendment to regulation 29[^c-64bd6ab84c4787a8e676c187636d2523]
 
 (1) Regulation 29 (conduct of trial in accordance with clinical trial authorisation etc.) is amended as follows.
 
@@ -1032,7 +1032,7 @@ For regulation 27B (publication of information) substitute—
 - (a) omit “by the licensing authority”;
 - (b) for “regulation 18(2) or (6), 19(8), 20(5), 24(5)” substitute “regulation 18(3), 18B(3), 22A(4), 22C(3)”.
 
-### 19. Amendment to regulation 29A[^key-4d09b069ff448fd2f7d99bd2a2fc50e4]
+### 19. Amendment to regulation 29A[^c-4d09b069ff448fd2f7d99bd2a2fc50e4]
 
 (1) Regulation 29A (notification of serious breaches)[^f00021] is amended as follows.
 
@@ -1043,7 +1043,7 @@ For regulation 27B (publication of information) substitute—
 
 (3) In paragraph (2)(a), for “subjects” substitute “participants”.
 
-### 20. Amendment to regulation 30[^key-62f24177106a368a248ef361c3f242db]
+### 20. Amendment to regulation 30[^c-62f24177106a368a248ef361c3f242db]
 
 (1) Regulation 30 (urgent safety measures) is amended as follows.
 
@@ -1051,7 +1051,7 @@ For regulation 27B (publication of information) substitute—
 
 (3) In paragraph (2)(b)[^f00022], for “3 days” substitute “7 days”.
 
-### 21. Amendment to regulation 31[^key-c88bbbd8ce373adb3cb9dfaff7304bff]
+### 21. Amendment to regulation 31[^c-c88bbbd8ce373adb3cb9dfaff7304bff]
 
 (1) Regulation 31 (suspension or termination of clinical trial) is amended as follows.
 
@@ -1084,7 +1084,7 @@ For regulation 27B (publication of information) substitute—
 
 (6) In paragraph (6), for “subjects” substitute “participants”.
 
-### 22. Amendment to regulation 31A[^key-6da07e3838358845141c7d2b85ee8051]
+### 22. Amendment to regulation 31A[^c-6da07e3838358845141c7d2b85ee8051]
 
 (1) Regulation 31A (trial master file and archiving) is amended as follows.
 
@@ -1107,7 +1107,7 @@ For regulation 27B (publication of information) substitute—
 
 ## Part 6 — Amendment to Part 5 (Pharmacovigilance)
 
-### 23. Insertion of new regulation A32[^key-540f10ec0aa925a2c0ae038b99e880de]
+### 23. Insertion of new regulation A32[^c-540f10ec0aa925a2c0ae038b99e880de]
 
 In Part 5, before regulation 32 (notification of adverse events) insert—
 
@@ -1129,11 +1129,11 @@ In Part 5, before regulation 32 (notification of adverse events) insert—
 
 .
 
-### 24. Amendment to regulation 32[^key-56b99ddca2a4c437661b273ff04470c2]
+### 24. Amendment to regulation 32[^c-56b99ddca2a4c437661b273ff04470c2]
 
 In regulation 32 (notification of adverse events), for “subject”, in each place where it occurs, substitute “participant”.
 
-### 25. Amendment to regulation 33[^key-39e357b57440b1218dc3802399ff2203]
+### 25. Amendment to regulation 33[^c-39e357b57440b1218dc3802399ff2203]
 
 (1) Regulation 33 (notification of suspected unexpected serious adverse reactions) is amended as follows.
 
@@ -1164,7 +1164,7 @@ In regulation 32 (notification of adverse events), for “subject”, in each pl
 
 (6) Omit paragraph (5).
 
-### 26. Amendment to regulation 35[^key-c46c8efc86816b57a5602760b08dcf8a]
+### 26. Amendment to regulation 35[^c-c46c8efc86816b57a5602760b08dcf8a]
 
 (1) Regulation 35 (annual list of suspected serious adverse reactions and safety report) is amended as follows.
 
@@ -1200,11 +1200,11 @@ In regulation 32 (notification of adverse events), for “subject”, in each pl
 
 ## Part 7 — Amendment to Part 6 (Manufacture and Importation of Investigational Medicinal Products)
 
-### 27. Amendment to regulation 36[^key-e9fbbeea9dd4c9ace4d35c1971855dd2]
+### 27. Amendment to regulation 36[^c-e9fbbeea9dd4c9ace4d35c1971855dd2]
 
 In regulation 36 (requirement for authorisation to manufacture or import investigational medicinal products), in paragraph (1), for “regulation 37” substitute “regulations 37 and 37A”.
 
-### 28. Insertion of new regulation 37A[^key-275b45f600a7034e554c20d340bebd82]
+### 28. Insertion of new regulation 37A[^c-275b45f600a7034e554c20d340bebd82]
 
 After regulation 37 (exemption for hospitals and health centres) insert—
 
@@ -1221,11 +1221,11 @@ After regulation 37 (exemption for hospitals and health centres) insert—
 
 .
 
-### 29. Amendment to regulation 40[^key-af4a0ca259e804bccd57184602b92563]
+### 29. Amendment to regulation 40[^c-af4a0ca259e804bccd57184602b92563]
 
 In regulation 40 (grant or refusal of manufacturing authorisation), in paragraph (1)(a)(ii)[^f00026], after “Commission [Directive 2003/94/EC](https://www.legislation.gov.uk/european/directive/2003/0094)” insert “in respect of Great Britain, or of Commission Delegated Regulation 2017/1569 in respect of Northern Ireland”.
 
-### 30. Amendment to regulation 43[^key-1db69826e7203bf9e5eb73a130f9acd7]
+### 30. Amendment to regulation 43[^c-1db69826e7203bf9e5eb73a130f9acd7]
 
 (1) Regulation 43 (qualified persons) is amended as follows.
 
@@ -1239,7 +1239,7 @@ In regulation 40 (grant or refusal of manufacturing authorisation), in paragraph
 
 ## Part 8 — Insertion of new Part 6A (Non-Investigational Medicinal and Non-Medicinal Products)
 
-### 31. Insertion of new Part 6A[^key-5f9e482c12f8f4ed3182428865d32908]
+### 31. Insertion of new Part 6A[^c-5f9e482c12f8f4ed3182428865d32908]
 
 After Part 6, insert—
 
@@ -1258,7 +1258,7 @@ After Part 6, insert—
 
 ## Part 9 — Substitution of Part 7 (Labelling of Investigational Medicinal Products)
 
-### 32. Substitution of Part 7[^key-36e004ca8c1afcb86e787b3f3e462c0f]
+### 32. Substitution of Part 7[^c-36e004ca8c1afcb86e787b3f3e462c0f]
 
 For Part 7 (labelling of investigational medicinal products) substitute—
 
@@ -1346,7 +1346,7 @@ For Part 7 (labelling of investigational medicinal products) substitute—
 
 ## Part 10 — Amendment to Part 8 (Enforcement and Related Provisions)
 
-### 33. Amendment to regulation 48[^key-ce5671fc9ecddb34ba4f9b336359cc9e]
+### 33. Amendment to regulation 48[^c-ce5671fc9ecddb34ba4f9b336359cc9e]
 
 In regulation 48 (infringement notices), for paragraph (4)[^f00029] substitute—
 
@@ -1354,7 +1354,7 @@ In regulation 48 (infringement notices), for paragraph (4)[^f00029] substitute�
 
 .
 
-### 34. Amendment to regulation 49[^key-89a8b166c1ff88b4c01ff0795ffb01ca]
+### 34. Amendment to regulation 49[^c-89a8b166c1ff88b4c01ff0795ffb01ca]
 
 (1) Regulation 49 (offences) is amended as follows.
 
@@ -1400,7 +1400,7 @@ In regulation 48 (infringement notices), for paragraph (4)[^f00029] substitute�
 
 .
 
-### 35. Amendment to regulation 50[^key-ccf80c2dc8f6e5475e8fc626853ee245]
+### 35. Amendment to regulation 50[^c-ccf80c2dc8f6e5475e8fc626853ee245]
 
 In regulation 50 (false or misleading information), in paragraph (1)—
 
@@ -1414,13 +1414,13 @@ In regulation 50 (false or misleading information), in paragraph (1)—
 
 ## Part 11 — Amendment to Part 9 (Miscellaneous Provisions)
 
-### 36. Amendment to regulation 58[^key-753749e5f765f477d2e66e279c3c5f02]
+### 36. Amendment to regulation 58[^c-753749e5f765f477d2e66e279c3c5f02]
 
 In regulation 58 (detailed guidance), in paragraph (c), for “substantial amendment to the clinical trial authorisation” substitute “substantial modification, as defined in regulation 11 (interpretation of Part 3),”.
 
 ## Part 12 — Amendment to the Schedules
 
-### 37. Amendment to Schedule 1[^key-9867783da301cabc229ca55159547186]
+### 37. Amendment to Schedule 1[^c-9867783da301cabc229ca55159547186]
 
 (1) Schedule 1 (conditions and principles of good clinical practice and for the protection of clinical trial subjects) is amended as follows.
 
@@ -1482,11 +1482,11 @@ In regulation 58 (detailed guidance), in paragraph (c), for “substantial amend
 - (b) in paragraph 1, for “the subject’s” substitute “the participant’s”;
 - (c) in paragraph 7, for “a subject” substitute “a participant”.
 
-### 38. Omission of Schedule 2[^key-851cd3497f83d78328911a55a195feef]
+### 38. Omission of Schedule 2[^c-851cd3497f83d78328911a55a195feef]
 
 Omit Schedule 2 (additional provisions relating to ethics committees).
 
-### 39. Amendment to Schedule 3[^key-80f32a2cb265c73feceecd52d51a4eee]
+### 39. Amendment to Schedule 3[^c-80f32a2cb265c73feceecd52d51a4eee]
 
 (1) Schedule 3 (particulars and documents that must accompany an application for an ethics committee opinion, a request for authorisation, a notice of amendment and a notification of the conclusion of a trial) is amended as follows.
 
@@ -1550,7 +1550,7 @@ Omit Schedule 2 (additional provisions relating to ethics committees).
 
     .
 
-### 40. Amendment to Schedule 4[^key-5f426b6193eb1ad8ba83922cf6595687]
+### 40. Amendment to Schedule 4[^c-5f426b6193eb1ad8ba83922cf6595687]
 
 (1) Schedule 4 (appeal against unfavourable ethics committee opinion) is amended as follows.
 
@@ -1583,7 +1583,7 @@ Omit Schedule 2 (additional provisions relating to ethics committees).
 
 (4) Omit paragraphs 3 to 6.
 
-### 41. Amendment to Schedule 5[^key-f36a59502039f613adcb4674d4c5d10a]
+### 41. Amendment to Schedule 5[^c-f36a59502039f613adcb4674d4c5d10a]
 
 (1) Schedule 5 (procedural provisions relating to the refusal or amendment of, or imposition of conditions relating to, clinical trial authorisations and the suspension or termination of clinical trials) is amended as follows.
 
@@ -1597,7 +1597,7 @@ Omit Schedule 2 (additional provisions relating to ethics committees).
   - (iii) in paragraph (b), for “amendment to the clinical trial authorisation” substitute “modification”;
 - (b) in sub-paragraph (2), for “notice of amendment to a clinical trial authorisation” substitute “valid modification request”.
 
-### 42. Amendment to Schedule 7[^key-76caafba03362e532940c4778b1cf646]
+### 42. Amendment to Schedule 7[^c-76caafba03362e532940c4778b1cf646]
 
 (1) Schedule 7 (standard provisions for manufacturing authorisations) is amended as follows.
 
@@ -1624,7 +1624,7 @@ Omit Schedule 2 (additional provisions relating to ethics committees).
 
 ## Part 13 — Consequential provisions
 
-### 43. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016[^key-0ba8b95ea6611375281000cc507051fb]
+### 43. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016[^c-0ba8b95ea6611375281000cc507051fb]
 
 (1) The Medicines (Products for Human Use) (Fees) Regulations 2016[^f00040] are amended as follows.
 
@@ -1639,11 +1639,11 @@ Omit Schedule 2 (additional provisions relating to ethics committees).
 
 ## Part 14 — Transitional provisions
 
-### 44. Amendment to regulation 56[^key-794c0c9401ac2e5e8e1e110a6ca3873b]
+### 44. Amendment to regulation 56[^c-794c0c9401ac2e5e8e1e110a6ca3873b]
 
 In regulation 56 (transitional provisions), for “Schedules 12 and 13” substitute “Schedules 12, 13 and 14”.
 
-### 45. Insertion of Schedule 14[^key-f235ef0f4d5f8a42031f4e75fbcce258]
+### 45. Insertion of Schedule 14[^c-f235ef0f4d5f8a42031f4e75fbcce258]
 
 After Schedule 13 (transitional provisions relating to EU Exit) insert—
 
@@ -1799,13 +1799,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3). The powers in section 2(1) of the Medicines and Medical Devices Act 2021, and the provisions that relate to it, are exercisable by the “appropriate authority”. As defined in section 2(6)(a) of the Act, the appropriate authority for England and Wales and Scotland is the Secretary of State. In relation to Northern Ireland, as defined in section 2(6)(b)(ii), the appropriate authority can mean the Secretary of State and the Department of Health in Northern Ireland acting jointly.
 
-[^key-35ca5454e2d4428532a80fea0ddff9ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/538/regulation/1) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-35ca5454e2d4428532a80fea0ddff9ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/538/regulation/1) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-20fa39c8ce121bd0c6f52ccf50e7a22b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/538/regulation/2) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-20fa39c8ce121bd0c6f52ccf50e7a22b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/538/regulation/2) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031).
 
-[^key-d82a591875143be78d97f271f87b6eea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/538/regulation/3) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-d82a591875143be78d97f271f87b6eea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/538/regulation/3) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00003]: Footnote: The definition of “chief investigator” was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
@@ -1827,109 +1827,109 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00012]: Footnote: Paragraph (a) of the definition of “health service body” was amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-de13cdae4772493129febe389087d940]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/538/regulation/4) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-de13cdae4772493129febe389087d940]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/538/regulation/4) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-9e066b2e4f6d6218ecd29301753a9ded]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/538/regulation/5) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-9e066b2e4f6d6218ecd29301753a9ded]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/538/regulation/5) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-7e65e196714d77179e87767a2ac12419]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/538/regulation/6) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-7e65e196714d77179e87767a2ac12419]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/538/regulation/6) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-8872b240b0ff256ccd928b3c2cd0e6eb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/538/regulation/7) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-8872b240b0ff256ccd928b3c2cd0e6eb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/538/regulation/7) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-c6f6412447501774e2cfd40525734f0c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/538/regulation/8) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-c6f6412447501774e2cfd40525734f0c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/538/regulation/8) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00013]: Footnote: Regulation 7 was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-01bcf570374764f49d46952b59fb1035]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/538/regulation/9) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-01bcf570374764f49d46952b59fb1035]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/538/regulation/9) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-8409f0caca3652a911696ecf0fde30b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/538/regulation/10) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-8409f0caca3652a911696ecf0fde30b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/538/regulation/10) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916); this definition was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-d8da79b94a4a1ab310fb8f612685e4a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/538/regulation/11) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-d8da79b94a4a1ab310fb8f612685e4a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/538/regulation/11) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-f1db5efad7ad2499d5cbae7fcf5d70f1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/538/regulation/12) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-f1db5efad7ad2499d5cbae7fcf5d70f1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/538/regulation/12) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00015]: Footnote: Regulation 12(3) was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-cec72fb273936e1c3fe10c7530a31e33]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/538/regulation/13) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-cec72fb273936e1c3fe10c7530a31e33]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/538/regulation/13) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00016]: Footnote: Paragraph (2) was inserted by [S.I. 2019/744](https://www.legislation.gov.uk/uksi/2019/744).
 
-[^key-c7803d086cb72922fc326122777b105e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/538/regulation/14) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-c7803d086cb72922fc326122777b105e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/538/regulation/14) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791); there are other amending instruments but none is relevant.
 
-[^key-1930e9f343e13ba77b6725f6b0a10ae6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/538/regulation/15) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-1930e9f343e13ba77b6725f6b0a10ae6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/538/regulation/15) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00018]: Footnote: Regulation 27A was inserted by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-693d41fae3b61e80326655668e60a8e7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/538/regulation/16) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-693d41fae3b61e80326655668e60a8e7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/538/regulation/16) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-da5006326a15a64277c0bf2359c01b00]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/538/regulation/17) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-da5006326a15a64277c0bf2359c01b00]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/538/regulation/17) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00019]: Footnote: The Guideline can be found at https://ich.org/page/efficacy-guidelines. A printed version of the document can be made available on request by the Department of Health and Social Care, 39 Victoria Street, London SW1H 0EU.
 
-[^key-64bd6ab84c4787a8e676c187636d2523]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/538/regulation/18) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-64bd6ab84c4787a8e676c187636d2523]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/538/regulation/18) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00020]: Footnote: Regulation 29(c) was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-4d09b069ff448fd2f7d99bd2a2fc50e4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/538/regulation/19) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-4d09b069ff448fd2f7d99bd2a2fc50e4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/538/regulation/19) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00021]: Footnote: Regulation 29A was inserted by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-62f24177106a368a248ef361c3f242db]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/538/regulation/20) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-62f24177106a368a248ef361c3f242db]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/538/regulation/20) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00022]: Footnote: Regulation 30(2) was substituted by [S.I. 2009/1164](https://www.legislation.gov.uk/uksi/2009/1164).
 
-[^key-c88bbbd8ce373adb3cb9dfaff7304bff]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/538/regulation/21) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-c88bbbd8ce373adb3cb9dfaff7304bff]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/538/regulation/21) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00023]: Footnote: Regulation 31(1)(a)(ii) was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-6da07e3838358845141c7d2b85ee8051]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/538/regulation/22) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-6da07e3838358845141c7d2b85ee8051]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/538/regulation/22) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-540f10ec0aa925a2c0ae038b99e880de]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/538/regulation/23) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-540f10ec0aa925a2c0ae038b99e880de]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/538/regulation/23) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-56b99ddca2a4c437661b273ff04470c2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/538/regulation/24) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-56b99ddca2a4c437661b273ff04470c2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/538/regulation/24) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-39e357b57440b1218dc3802399ff2203]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/538/regulation/25) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-39e357b57440b1218dc3802399ff2203]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/538/regulation/25) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00024]: Footnote: Regulation 33(1) was amended by [S.I. 2019/744](https://www.legislation.gov.uk/uksi/2019/744).
 
 [^f00025]: Footnote: Regulation 33(3) was amended by [S.I. 2019/744](https://www.legislation.gov.uk/uksi/2019/744).
 
-[^key-c46c8efc86816b57a5602760b08dcf8a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/538/regulation/26) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-c46c8efc86816b57a5602760b08dcf8a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/538/regulation/26) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-e9fbbeea9dd4c9ace4d35c1971855dd2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/538/regulation/27) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-e9fbbeea9dd4c9ace4d35c1971855dd2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/538/regulation/27) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-275b45f600a7034e554c20d340bebd82]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/538/regulation/28) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-275b45f600a7034e554c20d340bebd82]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/538/regulation/28) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-af4a0ca259e804bccd57184602b92563]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/538/regulation/29) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-af4a0ca259e804bccd57184602b92563]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/538/regulation/29) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00026]: Footnote: Regulation 40(1)(a)(ii) was substituted by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-1db69826e7203bf9e5eb73a130f9acd7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/538/regulation/30) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-1db69826e7203bf9e5eb73a130f9acd7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/538/regulation/30) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00027]: Footnote: Paragraph (2A) was inserted by [S.I. 2019/744](https://www.legislation.gov.uk/uksi/2019/744).
 
 [^f00028]: Footnote: Paragraph (5) was substituted by [S.I. 2019/744](https://www.legislation.gov.uk/uksi/2019/744).
 
-[^key-5f9e482c12f8f4ed3182428865d32908]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/538/regulation/31) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-5f9e482c12f8f4ed3182428865d32908]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/538/regulation/31) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-36e004ca8c1afcb86e787b3f3e462c0f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/538/regulation/32) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-36e004ca8c1afcb86e787b3f3e462c0f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/538/regulation/32) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-ce5671fc9ecddb34ba4f9b336359cc9e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/538/regulation/33) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-ce5671fc9ecddb34ba4f9b336359cc9e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/538/regulation/33) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00029]: Footnote: Regulation 48(4) was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-89a8b166c1ff88b4c01ff0795ffb01ca]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/538/regulation/34) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-89a8b166c1ff88b4c01ff0795ffb01ca]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/538/regulation/34) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00030]: Footnote: Regulation 49(1) was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-ccf80c2dc8f6e5475e8fc626853ee245]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/538/regulation/35) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-ccf80c2dc8f6e5475e8fc626853ee245]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/538/regulation/35) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-753749e5f765f477d2e66e279c3c5f02]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/538/regulation/36) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-753749e5f765f477d2e66e279c3c5f02]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/538/regulation/36) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-9867783da301cabc229ca55159547186]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/538/regulation/37) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-9867783da301cabc229ca55159547186]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/538/regulation/37) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00031]: Footnote: Paragraph 1(7) of Schedule 1 was inserted by [S.I. 2006/2984](https://www.legislation.gov.uk/uksi/2006/2984).
 
@@ -1937,32 +1937,32 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00033]: Footnote: The Guideline can be found at https://ich.org/page/efficacy-guidelines. A printed version of the document can be made available on request by the Department of Health and Social Care, 39 Victoria Street, London SW1H 0EU.
 
-[^key-851cd3497f83d78328911a55a195feef]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/538/regulation/38) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-851cd3497f83d78328911a55a195feef]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/538/regulation/38) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-80f32a2cb265c73feceecd52d51a4eee]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/538/regulation/39) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-80f32a2cb265c73feceecd52d51a4eee]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/538/regulation/39) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00034]: Footnote: Paragraph 2 was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
 [^f00035]: Footnote: Paragraph 2 was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-5f426b6193eb1ad8ba83922cf6595687]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/538/regulation/40) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-5f426b6193eb1ad8ba83922cf6595687]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/538/regulation/40) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00036]: Footnote: Paragraph 1(1) was amended by [S.I. 2006/1928](https://www.legislation.gov.uk/uksi/2006/1928).
 
-[^key-f36a59502039f613adcb4674d4c5d10a]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/538/regulation/41) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-f36a59502039f613adcb4674d4c5d10a]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/538/regulation/41) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00037]: Footnote: Paragraph 1 was substituted by [S.I. 2005/2754](https://www.legislation.gov.uk/uksi/2005/2754).
 
-[^key-76caafba03362e532940c4778b1cf646]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/538/regulation/42) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-76caafba03362e532940c4778b1cf646]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/538/regulation/42) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00038]: Footnote: OJ No. L 238, 16.09.17, p. 12-21.
 
 [^f00039]: Footnote: The definition of “Commission [Directive 2003/94/EC](https://www.legislation.gov.uk/european/directive/2003/0094)” was inserted by [S.I. 2019/744](https://www.legislation.gov.uk/uksi/2019/744).
 
-[^key-0ba8b95ea6611375281000cc507051fb]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/538/regulation/43) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-0ba8b95ea6611375281000cc507051fb]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/538/regulation/43) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
 [^f00040]: Footnote: [S.I. 2016/190](https://www.legislation.gov.uk/uksi/2016/190).
 
-[^key-794c0c9401ac2e5e8e1e110a6ca3873b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/538/regulation/44) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-794c0c9401ac2e5e8e1e110a6ca3873b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/538/regulation/44) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
 
-[^key-f235ef0f4d5f8a42031f4e75fbcce258]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/538/regulation/45) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)
+[^c-f235ef0f4d5f8a42031f4e75fbcce258]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/538/regulation/45) in force at 28.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2)

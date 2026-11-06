@@ -30,8 +30,8 @@ it must give the applicant a warning notice.
 (2) If the Authority decides to refuse to revoke or vary the direction—
 
 - (a) it must give the applicant a decision notice; and
-- (b) the applicant may refer the matter to the Upper Tribunal[^key-28641b8c53e3cd206a08a5a4add91841].
+- (b) the applicant may refer the matter to the Upper Tribunal[^c-28641b8c53e3cd206a08a5a4add91841].
 
 ## Annotations
 
-[^key-28641b8c53e3cd206a08a5a4add91841]: Textual amendment: Words in reg. 28(2)(b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/23)
+[^c-28641b8c53e3cd206a08a5a4add91841]: Textual amendment: Words in reg. 28(2)(b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/23)

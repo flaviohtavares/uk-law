@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Payments to counting officers[^key-9446eba80d26c15ff6cc861f0f205de9]
+## 13. Payments to counting officers[^c-9446eba80d26c15ff6cc861f0f205de9]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ if the Welsh Ministers are satisfied that the conditions in paragraph (4) are me
 
 ## Annotations
 
-[^key-9446eba80d26c15ff6cc861f0f205de9]: Commencement: Art. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-9446eba80d26c15ff6cc861f0f205de9]: Commencement: Art. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00019]: Footnote: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36).
 

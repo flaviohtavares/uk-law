@@ -42,11 +42,11 @@ Coming into operation -
 
 The Department for Infrastructure makes the following Order in exercise of the powers conferred by sections 32 and 247(6) of the Planning Act (Northern Ireland) 2011[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-caa7c4356ea27e7ff972b0c65afb1f6e]
+## 1. Citation and commencement[^c-caa7c4356ea27e7ff972b0c65afb1f6e]
 
 This Order may be cited as the Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2023 and comes into operation on 4th July 2023.
 
-## 2. Amendment of the Planning (General Permitted Development) Order (Northern Ireland) 2015[^key-bd3be06e550440962e90f47cf68b3c0f]
+## 2. Amendment of the Planning (General Permitted Development) Order (Northern Ireland) 2015[^c-bd3be06e550440962e90f47cf68b3c0f]
 
 In the Schedule (development permitted under Article 3) to the Planning (General Permitted Development) Order (Northern Ireland) 2015[^f00003] Part 2 (installation of domestic microgeneration equipment) is amended as set out in the Schedule to this order.
 
@@ -60,7 +60,7 @@ A senior officer of the Department for Infrastructure
 
 Article 2
 
-**3.**[^key-f3837b8e1fdcb7e47a993ff08b0f5dae] For Class F and Class G substitute—
+**3.**[^c-f3837b8e1fdcb7e47a993ff08b0f5dae] For Class F and Class G substitute—
 
 > <table>
 > <tbody>
@@ -93,12 +93,12 @@ The Explanatory Memorandum is available alongside the Order on the government’
 
 [^f00002]: Footnote: [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), article 8(1)(b) and Schedule 5, Part 2.
 
-[^key-caa7c4356ea27e7ff972b0c65afb1f6e]: Commencement: Art. 1 in operation at 4.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1)
+[^c-caa7c4356ea27e7ff972b0c65afb1f6e]: Commencement: Art. 1 in operation at 4.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1)
 
-[^key-bd3be06e550440962e90f47cf68b3c0f]: Commencement: Art. 2 in operation at 4.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1)
+[^c-bd3be06e550440962e90f47cf68b3c0f]: Commencement: Art. 2 in operation at 4.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 70](https://www.legislation.gov.uk/nisr/2015/70) as amended by [S.R. 2020 No. 292](https://www.legislation.gov.uk/nisr/2020/292)
 
-[^key-f3837b8e1fdcb7e47a993ff08b0f5dae]: Commencement: Sch. para. 3 in operation at 4.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1)
+[^c-f3837b8e1fdcb7e47a993ff08b0f5dae]: Commencement: Sch. para. 3 in operation at 4.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1)
 
 [^f00004]: Footnote: Issue 1.3 dated 19th June 2019 at MCS-020.pdf (mcscertified.com)

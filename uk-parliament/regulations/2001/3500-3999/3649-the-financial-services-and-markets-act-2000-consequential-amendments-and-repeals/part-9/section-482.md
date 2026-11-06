@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 482. Revocation of the 1994 Regulations[^key-41670c6be4d93a1066bf10eef35087d9]
+## 482. Revocation of the 1994 Regulations[^c-41670c6be4d93a1066bf10eef35087d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Amendment No.2) Regulations 1994 are revoked.
 
 ## Annotations
 
-[^key-41670c6be4d93a1066bf10eef35087d9]: Commencement: Art. 482 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-41670c6be4d93a1066bf10eef35087d9]: Commencement: Art. 482 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Commission Implementing Regulation (EU) 2020/918 establishing a derogation from Implementing Regulation (EU) 2019/2072 as regards the requirements for the introduction into the Union of ash wood originating or processed in Canada[^key-e65dcef884bb5f22c49a59862ef95671]
+## 50. Commission Implementing Regulation (EU) 2020/918 establishing a derogation from Implementing Regulation (EU) 2019/2072 as regards the requirements for the introduction into the Union of ash wood originating or processed in Canada[^c-e65dcef884bb5f22c49a59862ef95671]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e65dcef884bb5f22c49a59862ef95671]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-e65dcef884bb5f22c49a59862ef95671]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375281]: Marginal citation: EUR 2020/918.

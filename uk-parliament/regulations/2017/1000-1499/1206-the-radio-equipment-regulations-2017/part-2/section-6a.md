@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Power to specify additional essential requirements[^M_E_8ca1db06-630c-4c88-db99-625faecba711][^key-b372368353c0e974dead3959306cc980]
+## 6A. Power to specify additional essential requirements[^M_E_8ca1db06-630c-4c88-db99-625faecba711][^c-b372368353c0e974dead3959306cc980]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) may make such supplemental, consequential and transitional provisions as the Secretary of State considers appropriate; and
 - (b) are to be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 6A. Additional essential requirements[^M_E_c2527037-3d05-4ed5-e5cd-2ebf4b218a51][^key-98b9b83767d78dbcc9919d7fbbc4dfff]
+## 6A. Additional essential requirements[^M_E_c2527037-3d05-4ed5-e5cd-2ebf4b218a51][^c-98b9b83767d78dbcc9919d7fbbc4dfff]
 
 *Extent: N.I.*
 
@@ -87,8 +87,8 @@ summary: ''
 
 [^M_E_8ca1db06-630c-4c88-db99-625faecba711]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-b372368353c0e974dead3959306cc980]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/6A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 6](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/6) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b372368353c0e974dead3959306cc980]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/6A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 6](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/6) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_c2527037-3d05-4ed5-e5cd-2ebf4b218a51]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-98b9b83767d78dbcc9919d7fbbc4dfff]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/6A) inserted (N.I.) (16.12.2025) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/1244)](https://www.legislation.gov.uk/uksi/2025/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1244/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1244/regulation/2/3)
+[^c-98b9b83767d78dbcc9919d7fbbc4dfff]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/6A) inserted (N.I.) (16.12.2025) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/1244)](https://www.legislation.gov.uk/uksi/2025/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1244/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1244/regulation/2/3)

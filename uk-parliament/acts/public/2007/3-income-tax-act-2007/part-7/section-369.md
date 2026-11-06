@@ -39,8 +39,8 @@ but no CITR attributable to the continuing investment is withdrawn under section
 - (a) is not more than £1,000, or
 - (b) if it is more than £1,000, is insignificant in relation to the amount subscribed by the investor for the securities or shares included in the continuing investment.
 
-(5)[^key-c1c5cb7e00255fba5c54d42fe4990705] This section is subject to section 368 (value received if there is more than one investment).
+(5)[^c-c1c5cb7e00255fba5c54d42fe4990705] This section is subject to section 368 (value received if there is more than one investment).
 
 ## Annotations
 
-[^key-c1c5cb7e00255fba5c54d42fe4990705]: Textual amendment: S. 369(5) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 519](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/519) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c1c5cb7e00255fba5c54d42fe4990705]: Textual amendment: S. 369(5) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 519](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/519) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

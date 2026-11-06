@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1070. Qualifying Chapter 4 expenditure[^key-808ea6b062d3619468f00d8fcbab283d]
+## 1070. Qualifying Chapter 4 expenditure[^c-808ea6b062d3619468f00d8fcbab283d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-808ea6b062d3619468f00d8fcbab283d]: Textual amendment: Pt. 13 Ch. 4 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/15)
+[^c-808ea6b062d3619468f00d8fcbab283d]: Textual amendment: Pt. 13 Ch. 4 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/15)

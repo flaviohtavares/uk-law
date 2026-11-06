@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23CZA. Arrangements for certain former relevant children to continue to live with former foster parents[^key-858bf2d6fccbbccd5120294d2382892f]
+## 23CZA. Arrangements for certain former relevant children to continue to live with former foster parents[^c-858bf2d6fccbbccd5120294d2382892f]
 
 *Extent: E+W*
 
-(1) Each local authority [^key-4abcad1ced3d5a811e958085c760eb9b] ... have the duties provided for in subsection (3) in relation to a staying put arrangement.
+(1) Each local authority [^c-4abcad1ced3d5a811e958085c760eb9b] ... have the duties provided for in subsection (3) in relation to a staying put arrangement.
 
 (2) A “staying put arrangement” is an arrangement under which—
 
@@ -42,6 +42,6 @@ continue to live together after the former relevant child has ceased to be looke
 
 ## Annotations
 
-[^key-858bf2d6fccbbccd5120294d2382892f]: Textual amendment: S. 23CZA inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/98/2), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)
+[^c-858bf2d6fccbbccd5120294d2382892f]: Textual amendment: S. 23CZA inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/98/2), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)
 
-[^key-4abcad1ced3d5a811e958085c760eb9b]: Textual amendment: Words in s. 23CZA(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [77](https://www.legislation.gov.uk/wsi/2016/413/regulation/77)
+[^c-4abcad1ced3d5a811e958085c760eb9b]: Textual amendment: Words in s. 23CZA(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [77](https://www.legislation.gov.uk/wsi/2016/413/regulation/77)

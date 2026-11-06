@@ -40,23 +40,23 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b30a17d085ede0c30cd42ae8d218d84a]
+## 1. Citation, commencement and interpretation[^c-b30a17d085ede0c30cd42ae8d218d84a]
 
 (1) These Regulations may be cited as the Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 1997 and shall come into operation on 1st November 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of regulation 2 of the Social Fund (Cold Weather Payments) (General) Regulations[^key-a372364bf49d152f4bec04920bbbdb66]
+## 2. Amendment of regulation 2 of the Social Fund (Cold Weather Payments) (General) Regulations[^c-a372364bf49d152f4bec04920bbbdb66]
 
 (1) Regulation 2(1) of the Social Fund (Cold Weather Payments) (General) Regulations (Northern Ireland) 1988[^f00003] (prescribed circumstances) shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In sub paragraph (*a*)—
 
-- (a)[^key-4b1e92b97e1388a1698c454d79d55b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-4b1e92b97e1388a1698c454d79d55b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4b1e92b97e1388a1698c454d79d55b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4b1e92b97e1388a1698c454d79d55b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) head (iii) shall be omitted.
 
-(3)[^key-e4873e5cc5fd3c2d2dda59c008ef4faf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e4873e5cc5fd3c2d2dda59c008ef4faf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
 
@@ -78,14 +78,14 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-b30a17d085ede0c30cd42ae8d218d84a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/437/regulation/1) in operation at 1.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/437/regulation/1/1)
+[^c-b30a17d085ede0c30cd42ae8d218d84a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/437/regulation/1) in operation at 1.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/437/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a372364bf49d152f4bec04920bbbdb66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/437/regulation/2) in operation at 1.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/437/regulation/1/1)
+[^c-a372364bf49d152f4bec04920bbbdb66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/437/regulation/2) in operation at 1.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/437/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1988 No. 368](https://www.legislation.gov.uk/nisr/1988/368); relevant amending Regulations are [S.R. 1991 Nos. 464](https://www.legislation.gov.uk/nisr/1991/464) and [487](https://www.legislation.gov.uk/nisr/1991/487), [S.R. 1992 No. 470](https://www.legislation.gov.uk/nisr/1992/470) and [S.R. 1996 No. 488](https://www.legislation.gov.uk/nisr/1996/488)
 
-[^key-4b1e92b97e1388a1698c454d79d55b73]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1997/437/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/1997/437/regulation/2/2/b) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
+[^c-4b1e92b97e1388a1698c454d79d55b73]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1997/437/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/1997/437/regulation/2/2/b) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
 
-[^key-e4873e5cc5fd3c2d2dda59c008ef4faf]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1997/437/regulation/2/3) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2010/344/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)
+[^c-e4873e5cc5fd3c2d2dda59c008ef4faf]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1997/437/regulation/2/3) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2010/344/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)

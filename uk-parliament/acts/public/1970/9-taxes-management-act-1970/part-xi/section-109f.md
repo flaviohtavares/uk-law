@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109F. Interpretation of sections 109B to 109E[^key-4658da09574b0b2b7be4ddf5f7b06949]
+## 109F. Interpretation of sections 109B to 109E[^c-4658da09574b0b2b7be4ddf5f7b06949]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ which the company is liable to pay in respect of periods beginning before or aft
 
 ## Annotations
 
-[^key-4658da09574b0b2b7be4ddf5f7b06949]: Textual amendment: Ss. 109B-109F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/54) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4658da09574b0b2b7be4ddf5f7b06949]: Textual amendment: Ss. 109B-109F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/54) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

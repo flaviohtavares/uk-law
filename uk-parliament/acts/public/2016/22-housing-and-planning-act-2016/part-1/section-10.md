@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duty to grant planning permission etc[^key-57ef56b780102f30fba7defca2bbd56a]
+## 10. Duty to grant planning permission etc[^c-57ef56b780102f30fba7defca2bbd56a]
 
 *Extent: E+W*
 
@@ -61,13 +61,13 @@ summary: ''
 
 > (3) An authority that is subject to the duty in section 2A must have regard to any guidance issued by the Secretary of State in relation to that duty.
 
-(3) In relation to entries made on the register under section 1 of that Act before 31 October 2016[^key-69507fb11be3da77dd4d04f9a3f649f4], any reference to self-build and custom housebuilding in section 2A of that Act (inserted by subsection (1) above) is to be read as if, in section 1 of that Act (as amended by section 9 above)—
+(3) In relation to entries made on the register under section 1 of that Act before 31 October 2016[^c-69507fb11be3da77dd4d04f9a3f649f4], any reference to self-build and custom housebuilding in section 2A of that Act (inserted by subsection (1) above) is to be read as if, in section 1 of that Act (as amended by section 9 above)—
 
 - (a) the words “or completion” in subsection (A1) were omitted, and
 - (b) the definitions of “completion” and “home” in subsection (6A) were omitted.
 
 ## Annotations
 
-[^key-57ef56b780102f30fba7defca2bbd56a]: Commencement: S. 10 in force at 31.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 5](https://www.legislation.gov.uk/uksi/2016/733/regulation/5)
+[^c-57ef56b780102f30fba7defca2bbd56a]: Commencement: S. 10 in force at 31.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 5](https://www.legislation.gov.uk/uksi/2016/733/regulation/5)
 
-[^key-69507fb11be3da77dd4d04f9a3f649f4]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/10/3) substituted (31.10.2016) by [The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016 (S.I. 2016/733)](https://www.legislation.gov.uk/uksi/2016/733), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2016/733/regulation/12/2)
+[^c-69507fb11be3da77dd4d04f9a3f649f4]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/10/3) substituted (31.10.2016) by [The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016 (S.I. 2016/733)](https://www.legislation.gov.uk/uksi/2016/733), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2016/733/regulation/12/2)

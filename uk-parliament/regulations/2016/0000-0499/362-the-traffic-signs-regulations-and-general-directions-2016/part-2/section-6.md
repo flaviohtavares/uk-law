@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. General provision about the removal of temporary signs[^key-6f7cd6976dcb1ddb6caf2dc7cf53450f]
+## 6. General provision about the removal of temporary signs[^c-6f7cd6976dcb1ddb6caf2dc7cf53450f]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f7cd6976dcb1ddb6caf2dc7cf53450f]: Commencement: [Dir. 6](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/6) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-6f7cd6976dcb1ddb6caf2dc7cf53450f]: Commencement: [Dir. 6](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/6) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

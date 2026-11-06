@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Further review of determinations[^key-86198777b84074a256b27c11f7cb907f]
+## 70. Further review of determinations[^c-86198777b84074a256b27c11f7cb907f]
 
 *Extent: E+W+S*
 
@@ -26,12 +26,12 @@ summary: ''
 
 (3) Subject to paragraph (4), the further review shall be conducted by a Review Board appointed by the appropriate authority and constituted in accordance with Schedule 7.
 
-(4) Notwithstanding paragraph (3) where, under this regulation, a person has requested a further review of a determination and has also, in connection with a claim for housing benefit, requested a further review of a determination relating to housing benefit in accordance with regulation 81 of the Housing Benefit (General) Regulations 1987 (further reviews of determinations with respect to housing benefit), or a determination relating to community charge benefit in accordance with regulation 69 of the Community Charge Benefits (General) Regulations 1989 (further review of community charge benefit determinations), a Review Board appointed in accordance with either of those regulations[^key-8b16254deae4e98a1a94d80be7832f57] may also be appointed under this regulation to conduct a further review of the determination in respect of council tax benefit at the same time, provided that the appropriate authority and the person who has made the representation against each determination and any affected partner agree to this course.
+(4) Notwithstanding paragraph (3) where, under this regulation, a person has requested a further review of a determination and has also, in connection with a claim for housing benefit, requested a further review of a determination relating to housing benefit in accordance with regulation 81 of the Housing Benefit (General) Regulations 1987 (further reviews of determinations with respect to housing benefit), or a determination relating to community charge benefit in accordance with regulation 69 of the Community Charge Benefits (General) Regulations 1989 (further review of community charge benefit determinations), a Review Board appointed in accordance with either of those regulations[^c-8b16254deae4e98a1a94d80be7832f57] may also be appointed under this regulation to conduct a further review of the determination in respect of council tax benefit at the same time, provided that the appropriate authority and the person who has made the representation against each determination and any affected partner agree to this course.
 
 (5) Notice of any hearing by the Review Board shall be given by the Board to the persons concerned in accordance with regulation 71(3) (10 days notice of hearing) unless all such persons agree that such notice may be dispensed with.
 
 ## Annotations
 
-[^key-86198777b84074a256b27c11f7cb907f]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1992/1814/regulation/70) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-86198777b84074a256b27c11f7cb907f]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1992/1814/regulation/70) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-8b16254deae4e98a1a94d80be7832f57]: Textual amendment: Words in [reg. 70(4)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/70/4) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1993/688/regulation/20)
+[^c-8b16254deae4e98a1a94d80be7832f57]: Textual amendment: Words in [reg. 70(4)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/70/4) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1993/688/regulation/20)

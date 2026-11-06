@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. For protection of British Waterways Board[^key-c8a4d7df3ccfad68e48f228250563a84]
+## 44. For protection of British Waterways Board[^c-c8a4d7df3ccfad68e48f228250563a84]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 14 to this Order shall have effect.
 
 ## Annotations
 
-[^key-c8a4d7df3ccfad68e48f228250563a84]: Commencement: Art. 44 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-c8a4d7df3ccfad68e48f228250563a84]: Commencement: Art. 44 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

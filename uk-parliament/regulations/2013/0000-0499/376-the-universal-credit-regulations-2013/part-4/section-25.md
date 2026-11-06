@@ -29,7 +29,7 @@ summary: ''
 (2) The payments in respect of accommodation must be—
 
 - (a) payments within the meaning of paragraph 2 of Schedule 1 (“rent payments”);
-- (b)[^key-ce58f365d62d82816992bd577bf24c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ce58f365d62d82816992bd577bf24c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) payments within the meaning of paragraph 7 of that Schedule (“service charge payments”).
 
 (3) The circumstances of the liability to make the payments must be such that—
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce58f365d62d82816992bd577bf24c71]: Textual amendment: [Reg. 25(2)(b)](https://www.legislation.gov.uk/uksi/2013/376/regulation/25/2/b) omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/a)
+[^c-ce58f365d62d82816992bd577bf24c71]: Textual amendment: [Reg. 25(2)(b)](https://www.legislation.gov.uk/uksi/2013/376/regulation/25/2/b) omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/a)

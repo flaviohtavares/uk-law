@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a report of the CMA[^key-f60b70477b8bd211f7682601a215767b] on a reference under section 14 above—
+(1) Where a report of the CMA[^c-f60b70477b8bd211f7682601a215767b] on a reference under section 14 above—
 
 - (a) includes conclusions to the effect that any of the matters specified in the reference operate, or may be expected to operate, against the public interest;
 - (b) specifies effects adverse to the public interest which those matters have or may be expected to have;
@@ -44,7 +44,7 @@ and shall consider any representations or objections which are duly made and not
 - (a) by publishing the notice in such manner as the Authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by the making of the modifications; and
 - (b) by serving a copy of the notice on the company whose appointment it is proposed to modify.
 
-(4A)[^c19758781] After considering any representations or objections made in response to proposals set out in a notice under subsection (3) above, the Authority shall give notice to the CMA[^key-35e6482a26c52b23ae0b709f8be90422]—
+(4A)[^c19758781] After considering any representations or objections made in response to proposals set out in a notice under subsection (3) above, the Authority shall give notice to the CMA[^c-35e6482a26c52b23ae0b709f8be90422]—
 
 - (a) setting out the modifications it proposes to make to remedy or prevent the adverse effects specified in the report; and
 - (b) stating the reasons for making the modifications.
@@ -65,8 +65,8 @@ and shall consider any representations or objections which are duly made and not
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)
 
-[^key-f60b70477b8bd211f7682601a215767b]: Textual amendment: Words in s. 16(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 57](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/57); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-f60b70477b8bd211f7682601a215767b]: Textual amendment: Words in s. 16(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 57](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/57); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c19758781]: Textual amendment: S. 16(4A)-(4C) inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/55/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/h) (with savings in [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4))
 
-[^key-35e6482a26c52b23ae0b709f8be90422]: Textual amendment: Words in s. 16(4A) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 57](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/57); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-35e6482a26c52b23ae0b709f8be90422]: Textual amendment: Words in s. 16(4A) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 57](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/57); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

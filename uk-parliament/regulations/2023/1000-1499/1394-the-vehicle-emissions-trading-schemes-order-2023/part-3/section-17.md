@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Borrowed allowances: pool CRTS participants[^key-064cda5fb63e224b80f06014d3dd85b2]
+## 17. Borrowed allowances: pool CRTS participants[^c-064cda5fb63e224b80f06014d3dd85b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-064cda5fb63e224b80f06014d3dd85b2]: Commencement: Art. 17 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-064cda5fb63e224b80f06014d3dd85b2]: Commencement: Art. 17 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

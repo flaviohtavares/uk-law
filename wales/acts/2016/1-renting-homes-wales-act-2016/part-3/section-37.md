@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Incorrect statement: contract-holder's application to court[^key-5487e041b0eda3f6538dcd191a1619ac]
+## 37. Incorrect statement: contract-holder's application to court[^c-5487e041b0eda3f6538dcd191a1619ac]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 (2) But a written statement is not incorrect merely because it does not set out a term varied in accordance with the contract or by or as a result of an enactment if—
 
 - (a) a written statement of the term varied was given in accordance with section 109, 128 or 136, or
-- (b) notice of the variation was given in accordance with section 104, 105(2) to (4) or 107(1)(b) and (2) to (6) (variation of secure contracts) or section 123 or 124(2) to (4)[^key-8ad17bded200789489dca1614901ba34] (variation of periodic standard contracts),
+- (b) notice of the variation was given in accordance with section 104, 105(2) to (4) or 107(1)(b) and (2) to (6) (variation of secure contracts) or section 123 or 124(2) to (4)[^c-8ad17bded200789489dca1614901ba34] (variation of periodic standard contracts),
 
 unless the statement was given under section 31(2) or (4) after any such variation of a term took effect.
 
@@ -55,6 +55,6 @@ unless the statement was given under section 31(2) or (4) after any such variati
 
 ## Annotations
 
-[^key-5487e041b0eda3f6538dcd191a1619ac]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2016/1/section/37) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-5487e041b0eda3f6538dcd191a1619ac]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2016/1/section/37) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-8ad17bded200789489dca1614901ba34]: Textual amendment: Words in [s. 37(2)(b)](https://www.legislation.gov.uk/anaw/2016/1/section/37/2/b) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/5)
+[^c-8ad17bded200789489dca1614901ba34]: Textual amendment: Words in [s. 37(2)(b)](https://www.legislation.gov.uk/anaw/2016/1/section/37/2/b) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/5)

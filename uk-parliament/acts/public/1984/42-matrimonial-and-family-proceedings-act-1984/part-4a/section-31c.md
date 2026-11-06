@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31C. Judges[^key-4071a9d3584c3572190b0bb77e5ce803]
+## 31C. Judges[^c-4071a9d3584c3572190b0bb77e5ce803]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) is the Master of the Rolls,
 - (c) is the President of the Queen's Bench Division,
 - (d) is the President of the Family Division,
-- (e) is the President of the Business and Property Division[^key-694d76835b39d957fb49bc358dc9e33b],
+- (e) is the President of the Business and Property Division[^c-694d76835b39d957fb49bc358dc9e33b],
 - (f) is an ordinary judge of the Court of Appeal (including the vice-president, if any, of either division of that court),
 - (g) is the Senior President of Tribunals,
 - (h) is a puisne judge of the High Court,
@@ -50,7 +50,7 @@ summary: ''
 - (x) is a District Judge (Magistrates' Courts), or
 - (y) is a justice of the peace who is not a District Judge (Magistrates' Courts),
 
-[^key-9274ac46e49b8dae18f330579c9db78f]...
+[^c-9274ac46e49b8dae18f330579c9db78f]...
 
 (2) A decision of the family court, if made by or by persons who include—
 
@@ -58,7 +58,7 @@ summary: ''
 - (b) a person who has been a judge of the Court of Appeal, or
 - (c) a person who has been a puisne judge of the High Court,
 
-is (so far as relevant) to be followed by a judge within subsection (1)(j) to (y), and by a person authorised under section 67B(2) of the Courts Act 2003,[^key-f2af3adc1a9adb58b1eceb1730329c8f] when carrying out functions of the family court unless doing so with a person within paragraphs (a) to (c) of this subsection.
+is (so far as relevant) to be followed by a judge within subsection (1)(j) to (y), and by a person authorised under section 67B(2) of the Courts Act 2003,[^c-f2af3adc1a9adb58b1eceb1730329c8f] when carrying out functions of the family court unless doing so with a person within paragraphs (a) to (c) of this subsection.
 
 (3) A fee-paid, or unsalaried, part-time judge of the family court may not act as a judge of the court in relation to any proceedings in the court in which the judge, or a partner or employer of the judge, or a body of which the judge is a member or officer, or a body of whose governing body the judge is a member, is directly or indirectly engaged as legal representative or agent for any party.
 
@@ -66,10 +66,10 @@ is (so far as relevant) to be followed by a judge within subsection (1)(j) to (y
 
 ## Annotations
 
-[^key-4071a9d3584c3572190b0bb77e5ce803]: Textual amendment: [Ss. 31B-31P](https://www.legislation.gov.uk/ukpga/1984/42/section/31B) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-4071a9d3584c3572190b0bb77e5ce803]: Textual amendment: [Ss. 31B-31P](https://www.legislation.gov.uk/ukpga/1984/42/section/31B) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
-[^key-694d76835b39d957fb49bc358dc9e33b]: Textual amendment: Words in [s. 31C(1)(e)](https://www.legislation.gov.uk/ukpga/1984/42/section/31C/1/e) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/14)
+[^c-694d76835b39d957fb49bc358dc9e33b]: Textual amendment: Words in [s. 31C(1)(e)](https://www.legislation.gov.uk/ukpga/1984/42/section/31C/1/e) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/14)
 
-[^key-9274ac46e49b8dae18f330579c9db78f]: Textual amendment: Words in [s. 31C(1)](https://www.legislation.gov.uk/ukpga/1984/42/section/31C/1) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/7); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-9274ac46e49b8dae18f330579c9db78f]: Textual amendment: Words in [s. 31C(1)](https://www.legislation.gov.uk/ukpga/1984/42/section/31C/1) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/7); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
 
-[^key-f2af3adc1a9adb58b1eceb1730329c8f]: Textual amendment: Words in [s. 31C(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/31C/2) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/13); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f2af3adc1a9adb58b1eceb1730329c8f]: Textual amendment: Words in [s. 31C(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/31C/2) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/13); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

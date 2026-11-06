@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.32. Delivery of proofs and details of claims[^key-13a3e3140d87a192097f6420e343a1d4]
+## 7.32. Delivery of proofs and details of claims[^c-13a3e3140d87a192097f6420e343a1d4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Once a proof has, or details of a claim have, been delivered to a housing admini
 
 ## Annotations
 
-[^key-13a3e3140d87a192097f6420e343a1d4]: Commencement: Rule 7.32 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-13a3e3140d87a192097f6420e343a1d4]: Commencement: Rule 7.32 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

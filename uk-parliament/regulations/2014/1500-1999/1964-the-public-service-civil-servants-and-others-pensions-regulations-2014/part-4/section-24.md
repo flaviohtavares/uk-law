@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Opting out before the end of one month[^key-1f75d45b2cb2f35466da735227898c5e]
+## 24. Opting out before the end of one month[^c-1f75d45b2cb2f35466da735227898c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f75d45b2cb2f35466da735227898c5e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/1964/regulation/24) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1f75d45b2cb2f35466da735227898c5e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/1964/regulation/24) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

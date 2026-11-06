@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Further functions of the IPSA and Commissioner[^key-8dd92ca522e40a2e49e61957c767687a]
+## 36. Further functions of the IPSA and Commissioner[^c-8dd92ca522e40a2e49e61957c767687a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit section 11 of the Parliamentary Standards Act 2009 (further functions of th
 
 ## Annotations
 
-[^key-8dd92ca522e40a2e49e61957c767687a]: Commencement: S. 36 in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/f)
+[^c-8dd92ca522e40a2e49e61957c767687a]: Commencement: S. 36 in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/f)

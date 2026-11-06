@@ -37,8 +37,8 @@ but this subsection is without prejudice to the operation of subsection (1) abov
 
 (3) Subsection (4) below applies in any case where—
 
-- (a) in connection with the transfer, shares in the successor company are issued by that company, or disposed of by the society, to the trustees of a settlement[^key-8e7649ec012a2d219f10a4b377058bc3] on terms which provide for the transfer of those shares to members of the society for no new consideration; [^key-2f724fcbdd2122f3796434854ac3db00]...
-- (b)[^key-76aca482cde5f1d6c8b56e79e36e6b9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in connection with the transfer, shares in the successor company are issued by that company, or disposed of by the society, to the trustees of a settlement[^c-8e7649ec012a2d219f10a4b377058bc3] on terms which provide for the transfer of those shares to members of the society for no new consideration; [^c-2f724fcbdd2122f3796434854ac3db00]...
+- (b)[^c-76aca482cde5f1d6c8b56e79e36e6b9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where this subsection applies, then, for the purposes of tax on chargeable gains—
 
@@ -47,7 +47,7 @@ but this subsection is without prejudice to the operation of subsection (1) abov
 - (c) where a member becomes absolutely entitled as against the trustees to any of the settled property, both the trustees and the member shall be treated as if, on his becoming so entitled, the shares in question had been disposed of and immediately reacquired by the trustees, in their capacity as trustees within section 60(1), for a consideration of such an amount as would secure that on the disposal neither a gain nor a loss would accrue to the trustees (and accordingly section 71 shall not apply in relation to that occasion); and
 - (d) on the disposal by a member of an interest in the settled property, other than the disposal treated as occurring for the purposes of paragraph (c) above, any gain accruing shall be a chargeable gain (and accordingly section 76(1) shall not apply in relation to the disposal).
 
-(5) Where, in connection with the transfer, the society disposes of any shares in the successor company, then, for the purposes of this Act, any gains accruing[^key-fdbf68257fc748410ab8210269342901] on the disposal shall not be chargeable gains.
+(5) Where, in connection with the transfer, the society disposes of any shares in the successor company, then, for the purposes of this Act, any gains accruing[^c-fdbf68257fc748410ab8210269342901] on the disposal shall not be chargeable gains.
 
 (6) In this section—
 
@@ -61,10 +61,10 @@ but this subsection is without prejudice to the operation of subsection (1) abov
 
 ## Annotations
 
-[^key-8e7649ec012a2d219f10a4b377058bc3]: Textual amendment: Words in s. 217(3)(a) substituted (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/a/i)
+[^c-8e7649ec012a2d219f10a4b377058bc3]: Textual amendment: Words in s. 217(3)(a) substituted (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/a/i)
 
-[^key-2f724fcbdd2122f3796434854ac3db00]: Textual amendment: Word in s. 217(3)(a) repealed (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/a/ii), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
+[^c-2f724fcbdd2122f3796434854ac3db00]: Textual amendment: Word in s. 217(3)(a) repealed (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/a/ii), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
 
-[^key-76aca482cde5f1d6c8b56e79e36e6b9f]: Textual amendment: S. 217(3)(b) repealed (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/b), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
+[^c-76aca482cde5f1d6c8b56e79e36e6b9f]: Textual amendment: S. 217(3)(b) repealed (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/b), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
 
-[^key-fdbf68257fc748410ab8210269342901]: Textual amendment: Word in s. 217(5) substituted (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(c)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/c)
+[^c-fdbf68257fc748410ab8210269342901]: Textual amendment: Word in s. 217(5) substituted (with effect in accordance with Sch. 12 para. 20(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 20(1)(c)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/20/1/c)

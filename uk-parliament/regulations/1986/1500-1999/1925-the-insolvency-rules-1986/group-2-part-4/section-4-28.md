@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.28. Security[^key-163d9cce9ece3c8219481f4e5b777928]
+## 4.28. Security[^c-163d9cce9ece3c8219481f4e5b777928]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-163d9cce9ece3c8219481f4e5b777928]: Commencement: [Rule 4.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-163d9cce9ece3c8219481f4e5b777928]: Commencement: [Rule 4.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

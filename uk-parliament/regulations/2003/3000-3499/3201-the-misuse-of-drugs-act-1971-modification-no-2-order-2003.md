@@ -27,7 +27,7 @@ summary: ''
 
 DANGEROUS DRUGS
 
-The Misuse of Drugs Act 1971 (Modification) (No. 2) Order 2003 (revoked)[^key-48f668a7e7b772079e5da7528621a6c8]
+The Misuse of Drugs Act 1971 (Modification) (No. 2) Order 2003 (revoked)[^c-48f668a7e7b772079e5da7528621a6c8]
 
 Made
 
@@ -43,24 +43,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-48f668a7e7b772079e5da7528621a6c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48f668a7e7b772079e5da7528621a6c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-48f668a7e7b772079e5da7528621a6c8]
+## 1.[^c-48f668a7e7b772079e5da7528621a6c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-48f668a7e7b772079e5da7528621a6c8]
+## 2.[^c-48f668a7e7b772079e5da7528621a6c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48f668a7e7b772079e5da7528621a6c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48f668a7e7b772079e5da7528621a6c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48f668a7e7b772079e5da7528621a6c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48f668a7e7b772079e5da7528621a6c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48f668a7e7b772079e5da7528621a6c8]: Textual amendment: Order revoked (26.1.2009) by [The Misuse of Drugs Act 1971 (Amendment) Order 2008 (S.I. 2008/3130)](https://www.legislation.gov.uk/uksi/2008/3130), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3130/article/1/2) \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made)' version from the left-hand menu to see the document content as it originally stood\]
+[^c-48f668a7e7b772079e5da7528621a6c8]: Textual amendment: Order revoked (26.1.2009) by [The Misuse of Drugs Act 1971 (Amendment) Order 2008 (S.I. 2008/3130)](https://www.legislation.gov.uk/uksi/2008/3130), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3130/article/1/2) \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made)' version from the left-hand menu to see the document content as it originally stood\]

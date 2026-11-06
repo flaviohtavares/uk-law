@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Repeal of Flood Prevention (Scotland) Act 1961[^key-aba167dad61005bbd76844cd6cedfb26]
+## 70. Repeal of Flood Prevention (Scotland) Act 1961[^c-aba167dad61005bbd76844cd6cedfb26]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The 1961 Act is repealed.
 
 ## Annotations
 
-[^key-aba167dad61005bbd76844cd6cedfb26]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2009/6/section/70) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/401/article/5))
+[^c-aba167dad61005bbd76844cd6cedfb26]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2009/6/section/70) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/401/article/5))

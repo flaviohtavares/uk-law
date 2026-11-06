@@ -26,7 +26,7 @@ summary: ''
 - (b) a VCT approval of that company has taken effect on or before the day of the making of the first issue, and
 - (c) a further issue of ordinary share capital of that company has been made since the making of the first issue.
 
-(2) If this subsection applies, the use to which the money raised by the further issue is put, and the use of any money deriving from that use, are ignored in determining whether either or both of the 80%[^key-dae530f033115d96cc010a3d48e068a6] qualifying holdings condition and the 70%[^key-0e3d7e9af8fe4f46ae16f7db33086083] eligible shares condition are, have been or will be met in relation to—
+(2) If this subsection applies, the use to which the money raised by the further issue is put, and the use of any money deriving from that use, are ignored in determining whether either or both of the 80%[^c-dae530f033115d96cc010a3d48e068a6] qualifying holdings condition and the 70%[^c-0e3d7e9af8fe4f46ae16f7db33086083] eligible shares condition are, have been or will be met in relation to—
 
 - (a) the accounting period in which the further issue is made, or
 - (b) any later accounting period ending no more than 3 years after the making of the further issue.
@@ -54,6 +54,6 @@ as it applies in relation to regulations under Chapter 5 and a power conferred b
 
 ## Annotations
 
-[^key-dae530f033115d96cc010a3d48e068a6]: Textual amendment: Word in s. 280(2) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(d)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/d), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
+[^c-dae530f033115d96cc010a3d48e068a6]: Textual amendment: Word in s. 280(2) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(d)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/d), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
 
-[^key-0e3d7e9af8fe4f46ae16f7db33086083]: Textual amendment: Word in s. 280(2) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 6, 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/5); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-0e3d7e9af8fe4f46ae16f7db33086083]: Textual amendment: Word in s. 280(2) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 6, 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/5); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Transfers based on adequacy regulations[^key-218ac3e533ec93bd9bdc354aed5273ba]
+## 74A. Transfers based on adequacy regulations[^c-218ac3e533ec93bd9bdc354aed5273ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-218ac3e533ec93bd9bdc354aed5273ba]: Textual amendment: S. 74A omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 8 para. 4(1)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/8/paragraph/4/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z10)
+[^c-218ac3e533ec93bd9bdc354aed5273ba]: Textual amendment: S. 74A omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 8 para. 4(1)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/8/paragraph/4/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z10)

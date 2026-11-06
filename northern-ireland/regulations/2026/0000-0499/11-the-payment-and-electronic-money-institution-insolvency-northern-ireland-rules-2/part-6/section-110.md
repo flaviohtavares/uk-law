@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Notifying potential claimants after bar date has passed[^key-621b267c5330e1eeac3ab3277833635c]
+## 110. Notifying potential claimants after bar date has passed[^c-621b267c5330e1eeac3ab3277833635c]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ that there is a customer who is eligible to make a relevant funds claim but that
 
 ## Annotations
 
-[^key-621b267c5330e1eeac3ab3277833635c]: Commencement: [Rule 110](https://www.legislation.gov.uk/nisr/2026/11/rule/110) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-621b267c5330e1eeac3ab3277833635c]: Commencement: [Rule 110](https://www.legislation.gov.uk/nisr/2026/11/rule/110) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

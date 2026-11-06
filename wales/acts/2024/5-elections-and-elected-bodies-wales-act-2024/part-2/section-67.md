@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Democracy and Boundary Commission Cymru: governance and audit committee[^key-a764dbdac90807bf581e6beb398688fa][^key-03a96287b9a10b5e24b6a55922059312]
+## 67. Democracy and Boundary Commission Cymru: governance and audit committee[^c-a764dbdac90807bf581e6beb398688fa][^c-03a96287b9a10b5e24b6a55922059312]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a764dbdac90807bf581e6beb398688fa]: Commencement: S. 67 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-a764dbdac90807bf581e6beb398688fa]: Commencement: S. 67 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-03a96287b9a10b5e24b6a55922059312]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2024/5/section/67) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/o)
+[^c-03a96287b9a10b5e24b6a55922059312]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2024/5/section/67) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/o)

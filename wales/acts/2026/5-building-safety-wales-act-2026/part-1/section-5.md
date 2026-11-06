@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Meaning of “residential unit”[^key-ff0cd0d0f86f0f6cb7ef9372e3b604ef]
+## 5. Meaning of “residential unit”[^c-ff0cd0d0f86f0f6cb7ef9372e3b604ef]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ each self-contained flat is a separate residential unit and the other living acc
 
 ## Annotations
 
-[^key-ff0cd0d0f86f0f6cb7ef9372e3b604ef]: Commencement: S. 5 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-ff0cd0d0f86f0f6cb7ef9372e3b604ef]: Commencement: S. 5 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

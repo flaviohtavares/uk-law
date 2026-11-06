@@ -22,8 +22,8 @@ summary: ''
 
 (1) The Secretary of State may make regulations under section 16 only if—
 
-- (a) the relevant local authority by whom a function becomes exercisable by virtue of the regulations consents, [^key-5ea226cd9a02981d7c08df3013c92569]...
-- (b) the Secretary of State considers that the making of the regulations is likely to improve the economic, social and environmental well-being of some or all of the people who live or work[^key-db1226f2185bdf96ad1ea5075e65ff6c] in the relevant local authority's area , and[^key-2e1ea5055b8b6017432630dec1eafb3e]
+- (a) the relevant local authority by whom a function becomes exercisable by virtue of the regulations consents, [^c-5ea226cd9a02981d7c08df3013c92569]...
+- (b) the Secretary of State considers that the making of the regulations is likely to improve the economic, social and environmental well-being of some or all of the people who live or work[^c-db1226f2185bdf96ad1ea5075e65ff6c] in the relevant local authority's area , and[^c-2e1ea5055b8b6017432630dec1eafb3e]
 - (c) where subsection (4A) applies to the regulations, the Secretary of State has had regard to the matters in subsection (4B).
 
 (2) The power to make regulations under section 16—
@@ -42,7 +42,7 @@ summary: ''
 - (a) relates to the health service, as defined by section 275(1) of the National Health Service Act 2006, and
 - (b) is exercisable by the authority by virtue of regulations under section 16.
 
-(4A)[^key-1d89d4b62cf5e4b1a5691fa6c5820394] This subsection applies to regulations under section 16 that—
+(4A)[^c-1d89d4b62cf5e4b1a5691fa6c5820394] This subsection applies to regulations under section 16 that—
 
 - (a) revoke or otherwise amend previous regulations under that section, and
 - (b) are made in response to a notification from a local authority under section 9NC(3) or 9ND(4) of the Local Government Act 2000 (transfer of functions: changes in governance arrangements) of a proposed change in governance arrangements.
@@ -54,7 +54,7 @@ summary: ''
   - (i) the economic, social and environmental well-being of some or all of the people who live or work in the area of the local authority, and
   - (ii) the accountability and decision-making of the local authority.
 
-(4C)[^key-94d61d6f89ab0ac17d520b0b5a97362b] The requirement in subsection (1)(b) does not apply to the making of regulations under section 16 where subsection (4A) applies to those regulations.
+(4C)[^c-94d61d6f89ab0ac17d520b0b5a97362b] The requirement in subsection (1)(b) does not apply to the making of regulations under section 16 where subsection (4A) applies to those regulations.
 
 (5) A statutory instrument containing regulations under section 16 may be made only if a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House.
 
@@ -72,12 +72,12 @@ summary: ''
 
 [^c22562551]: Commencement: S. 17 in force for certain purposes at Royal Assent and at 28.3.2016 otherwise by s. 25(2)(a)(b)
 
-[^key-5ea226cd9a02981d7c08df3013c92569]: Textual amendment: Word in s. 17(1)(a) omitted (26.10.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 72(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/72/6/a/i), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-5ea226cd9a02981d7c08df3013c92569]: Textual amendment: Word in s. 17(1)(a) omitted (26.10.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 72(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/72/6/a/i), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-db1226f2185bdf96ad1ea5075e65ff6c]: Textual amendment: Words in [s. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2016/1/section/17/1/b) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 73(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/73/a), [255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-db1226f2185bdf96ad1ea5075e65ff6c]: Textual amendment: Words in [s. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2016/1/section/17/1/b) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 73(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/73/a), [255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-2e1ea5055b8b6017432630dec1eafb3e]: Textual amendment: S. 17(1)(c) and word inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 72(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/72/6/a/ii), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-2e1ea5055b8b6017432630dec1eafb3e]: Textual amendment: S. 17(1)(c) and word inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 72(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/72/6/a/ii), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-1d89d4b62cf5e4b1a5691fa6c5820394]: Textual amendment: S. 17(4A)(4B) inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 72(6)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/72/6/b), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-1d89d4b62cf5e4b1a5691fa6c5820394]: Textual amendment: S. 17(4A)(4B) inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 72(6)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/72/6/b), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-94d61d6f89ab0ac17d520b0b5a97362b]: Textual amendment: [S. 17(4C)](https://www.legislation.gov.uk/ukpga/2016/1/section/17/4C) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 73(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/73/b), [255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-94d61d6f89ab0ac17d520b0b5a97362b]: Textual amendment: [S. 17(4C)](https://www.legislation.gov.uk/ukpga/2016/1/section/17/4C) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 73(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/73/b), [255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

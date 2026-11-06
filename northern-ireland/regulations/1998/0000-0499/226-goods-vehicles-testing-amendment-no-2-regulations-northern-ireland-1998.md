@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Goods Vehicles (Testing) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^key-6e7d00723f2081aaff9f4ab50225b358]
+Goods Vehicles (Testing) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^c-6e7d00723f2081aaff9f4ab50225b358]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st August 1998
 
-[^key-6e7d00723f2081aaff9f4ab50225b358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e7d00723f2081aaff9f4ab50225b358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6e7d00723f2081aaff9f4ab50225b358]
+## 1. Citation and commencement[^c-6e7d00723f2081aaff9f4ab50225b358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^key-6e7d00723f2081aaff9f4ab50225b358]
+## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^c-6e7d00723f2081aaff9f4ab50225b358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e7d00723f2081aaff9f4ab50225b358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e7d00723f2081aaff9f4ab50225b358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e7d00723f2081aaff9f4ab50225b358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e7d00723f2081aaff9f4ab50225b358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e7d00723f2081aaff9f4ab50225b358]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/226) revoked (1.8.2003) by [Goods Vehicles (Testing) Regulations (Northern Ireland) 2003 (S.R. 2003/304)](https://www.legislation.gov.uk/nisr/2003/304), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2003/304/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2003/304/regulation/27), [Sch. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/6)
+[^c-6e7d00723f2081aaff9f4ab50225b358]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/226) revoked (1.8.2003) by [Goods Vehicles (Testing) Regulations (Northern Ireland) 2003 (S.R. 2003/304)](https://www.legislation.gov.uk/nisr/2003/304), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2003/304/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2003/304/regulation/27), [Sch. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/6)

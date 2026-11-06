@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Amendments to the Civil Jurisdiction and Judgments Order 2001[^key-90471d4e36aeb83b7456b9f1d4eb219b]
+## 82. Amendments to the Civil Jurisdiction and Judgments Order 2001[^c-90471d4e36aeb83b7456b9f1d4eb219b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 1 to the Civil Jurisdiction and Judgments Order 2001[^f00024] is amende
 
 ## Annotations
 
-[^key-90471d4e36aeb83b7456b9f1d4eb219b]: Commencement: Art. 82 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-90471d4e36aeb83b7456b9f1d4eb219b]: Commencement: Art. 82 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00024]: Footnote: [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929). Relevant amending instruments are [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617) and [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Health and fitness[^c398394][^key-d82ef5c67bc803be05c093bdac7e2eff]
+## 141. Health and fitness[^c398394][^c-d82ef5c67bc803be05c093bdac7e2eff]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ summary: ''
 (3) This section also applies to an activity of a prescribed kind performed in the course of the provision of education by a person—
 
 - (a) otherwise than in a school or a further education institution, and
-- (b) under a contract of employment or for services where the other party is a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] or a person exercising a function relating to the provision of education on behalf of a local authority.
+- (b) under a contract of employment or for services where the other party is a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] or a person exercising a function relating to the provision of education on behalf of a local authority.
 
 (4) This section also applies to an activity of a prescribed kind (other than the provision of education) where—
 
 - (a) the activity is carried out by a person under a contract of employment or for services,
-- (b)[^key-9d1cf2117b5ec95fb57b66afb6b678b9] the other party to the contract is—
+- (b)[^c-9d1cf2117b5ec95fb57b66afb6b678b9] the other party to the contract is—
   - (i) a local authority which entered into the contract for purposes connected with any of their education functions,
   - (ii) the governing body of a school, or
   - (iii) a further education institution,
@@ -54,8 +54,8 @@ summary: ''
 
 [^c398394]: Commencement: S. 141 partly in force; s. 141 not in force at Royal Assent, see s. 216; s. 141 in force for W. at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I)
 
-[^key-d82ef5c67bc803be05c093bdac7e2eff]: Commencement: S. 141 in force at 1.8.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3)
+[^c-d82ef5c67bc803be05c093bdac7e2eff]: Commencement: S. 141 in force at 1.8.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-9d1cf2117b5ec95fb57b66afb6b678b9]: Textual amendment: S. 141(4)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(9)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/9)
+[^c-9d1cf2117b5ec95fb57b66afb6b678b9]: Textual amendment: S. 141(4)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(9)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/9)

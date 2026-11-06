@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Persons disqualified for jury service[^key-63e1121b936c42b54a3c8b188d507ddf]
+## 79. Persons disqualified for jury service[^c-63e1121b936c42b54a3c8b188d507ddf]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Schedule 1 to the Juries (Northern Ireland) Order 1996 (persons disqualified 
 
 ## Annotations
 
-[^key-63e1121b936c42b54a3c8b188d507ddf]: Commencement: [S. 79](https://www.legislation.gov.uk/nia/2015/9/section/79) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/247/article/2/c)
+[^c-63e1121b936c42b54a3c8b188d507ddf]: Commencement: [S. 79](https://www.legislation.gov.uk/nia/2015/9/section/79) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/247/article/2/c)

@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Bovine Spongiform Encephalopathy (BSE) Compensation (Wales) Regulations 2006 (revoked)[^key-5853dfd216c624f1c4398a586ba4288f]
+The Bovine Spongiform Encephalopathy (BSE) Compensation (Wales) Regulations 2006 (revoked)[^c-5853dfd216c624f1c4398a586ba4288f]
 
 Made
 
@@ -43,40 +43,40 @@ Coming into force
 
 14 June 2006
 
-[^key-5853dfd216c624f1c4398a586ba4288f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5853dfd216c624f1c4398a586ba4288f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-5853dfd216c624f1c4398a586ba4288f]
+## 1. Title, application and commencement[^c-5853dfd216c624f1c4398a586ba4288f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5853dfd216c624f1c4398a586ba4288f]
+## 2. Interpretation[^c-5853dfd216c624f1c4398a586ba4288f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Compensation for bovine animals slaughtered for TSE[^key-5853dfd216c624f1c4398a586ba4288f]
+## 3. Compensation for bovine animals slaughtered for TSE[^c-5853dfd216c624f1c4398a586ba4288f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of compensation payable[^key-5853dfd216c624f1c4398a586ba4288f]
+## 4. Amount of compensation payable[^c-5853dfd216c624f1c4398a586ba4288f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exceptions to amount of compensation payable[^key-5853dfd216c624f1c4398a586ba4288f]
+## 5. Exceptions to amount of compensation payable[^c-5853dfd216c624f1c4398a586ba4288f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-5853dfd216c624f1c4398a586ba4288f]
+## 6. Revocations[^c-5853dfd216c624f1c4398a586ba4288f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5853dfd216c624f1c4398a586ba4288f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5853dfd216c624f1c4398a586ba4288f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5853dfd216c624f1c4398a586ba4288f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5853dfd216c624f1c4398a586ba4288f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5853dfd216c624f1c4398a586ba4288f]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21)
+[^c-5853dfd216c624f1c4398a586ba4288f]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21)

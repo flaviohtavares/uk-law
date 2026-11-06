@@ -166,7 +166,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 55 — Meaning of “property manager” and related expressions](part-2/section-55.md)
 - [Section 56 — General interpretation of Part](part-2/section-56.md)
 
-### PART 3 — Recovering abandoned premises in England[^key-2abe47d5b4f6a6822e08bf40a4ddddb2]
+### PART 3 — Recovering abandoned premises in England[^c-2abe47d5b4f6a6822e08bf40a4ddddb2]
 
 *Extent: E+W*
 
@@ -356,7 +356,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 137 — Redemption price for rentcharges](part-5/section-137.md)
 - [Section 138 — Procedure for redeeming English rentcharges](part-5/section-138.md)
 
-### PART 6 — Planning in England[^key-1e5a0d4df3c904aae981c74958e07a62]
+### PART 6 — Planning in England[^c-1e5a0d4df3c904aae981c74958e07a62]
 
 *Extent: E+W*
 
@@ -431,7 +431,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 171 — Sustainable drainage](part-6/section-171.md)
 
-### PART 7 — Compulsory purchase etc[^key-1e5a0d4df3c904aae981c74958e07a62]
+### PART 7 — Compulsory purchase etc[^c-1e5a0d4df3c904aae981c74958e07a62]
 
 *Extent: E+W*
 
@@ -537,6 +537,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2abe47d5b4f6a6822e08bf40a4ddddb2]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2016/22/part/3) omitted (27.12.2025) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 59](https://www.legislation.gov.uk/ukpga/2025/26/section/59), [145(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/b) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-2abe47d5b4f6a6822e08bf40a4ddddb2]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2016/22/part/3) omitted (27.12.2025) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 59](https://www.legislation.gov.uk/ukpga/2025/26/section/59), [145(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/b) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-1e5a0d4df3c904aae981c74958e07a62]: Modification: [Pts. 6](https://www.legislation.gov.uk/ukpga/2016/22/part/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/part/7): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-1e5a0d4df3c904aae981c74958e07a62]: Modification: [Pts. 6](https://www.legislation.gov.uk/ukpga/2016/22/part/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/part/7): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

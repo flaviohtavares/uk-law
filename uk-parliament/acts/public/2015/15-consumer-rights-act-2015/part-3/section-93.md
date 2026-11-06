@@ -24,9 +24,9 @@ summary: ''
 
 (2) The Department of Enterprise, Trade and Investment may enforce the provisions of this Chapter in Northern Ireland.
 
-(2A)[^key-4b726394979e6a46983281fe36a83128] The Competition and Markets Authority may also enforce the provisions of this Chapter.
+(2A)[^c-4b726394979e6a46983281fe36a83128] The Competition and Markets Authority may also enforce the provisions of this Chapter.
 
-(3) Each of the bodies referred to in subsections (1) , (2) and (2A)[^key-a9396ff6d1bec4b6d48ecc9cd1b02972] is an “**enforcement authority**” for the purposes of this Chapter.
+(3) Each of the bodies referred to in subsections (1) , (2) and (2A)[^c-a9396ff6d1bec4b6d48ecc9cd1b02972] is an “**enforcement authority**” for the purposes of this Chapter.
 
 (4) Where an enforcement authority is satisfied on the balance of probabilities that a person has breached a duty or prohibition imposed by this Chapter, the authority may impose a financial penalty on the person in respect of that breach.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b726394979e6a46983281fe36a83128]: Textual amendment: [S. 93(2A)](https://www.legislation.gov.uk/ukpga/2015/15/section/93/2A) inserted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 216(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/216/2/a), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-4b726394979e6a46983281fe36a83128]: Textual amendment: [S. 93(2A)](https://www.legislation.gov.uk/ukpga/2015/15/section/93/2A) inserted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 216(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/216/2/a), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
 
-[^key-a9396ff6d1bec4b6d48ecc9cd1b02972]: Textual amendment: Words in [s. 93(3)](https://www.legislation.gov.uk/ukpga/2015/15/section/93/3) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 216(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/216/2/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-a9396ff6d1bec4b6d48ecc9cd1b02972]: Textual amendment: Words in [s. 93(3)](https://www.legislation.gov.uk/ukpga/2015/15/section/93/3) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 216(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/216/2/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

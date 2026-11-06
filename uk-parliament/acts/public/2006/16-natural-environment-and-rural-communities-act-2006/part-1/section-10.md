@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Consultancy services and training[^key-6de341538183852b5d0adaeb4eecc246]
+## 10. Consultancy services and training[^c-6de341538183852b5d0adaeb4eecc246]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6de341538183852b5d0adaeb4eecc246]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/16/section/10) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-6de341538183852b5d0adaeb4eecc246]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/16/section/10) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

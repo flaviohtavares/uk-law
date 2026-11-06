@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Power to make payments towards expenditure on community services.[^c14160151][^key-046ff196cf20fcbfdda9dbc11f657411][^key-9ed2e72ff684583b4c081b8b16904f3b][^c14160141][^key-046ff196cf20fcbfdda9dbc11f657411]
+## 16A. Power to make payments towards expenditure on community services.[^c14160151][^c-046ff196cf20fcbfdda9dbc11f657411][^c-9ed2e72ff684583b4c081b8b16904f3b][^c14160141][^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -54,9 +54,9 @@ summary: ''
 
 [^c14160151]: Modification: S. 16A applied (1.4.1995) by [S.I. 1995/574](https://www.legislation.gov.uk/uksi/1995/574), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/1995/574/article/5/1/2), [Sch. Pt I](https://www.legislation.gov.uk/uksi/1995/574/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/1995/574/article/6))
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-9ed2e72ff684583b4c081b8b16904f3b]: Modification: [S. 16A](https://www.legislation.gov.uk/ukpga/1978/29/section/16A) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-9ed2e72ff684583b4c081b8b16904f3b]: Modification: [S. 16A](https://www.legislation.gov.uk/ukpga/1978/29/section/16A) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c14160141]: Textual amendment: S. 16A substituted by [Health and Social Services and Social Security Adjudications Act 1983 (c. 41, SIF 113:3)](https://www.legislation.gov.uk/ukpga/1983/41), [s. 2](https://www.legislation.gov.uk/ukpga/1983/41/section/2)
 

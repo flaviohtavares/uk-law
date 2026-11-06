@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Annual rate of early retirement pension[^key-f50e6dfbe73963638f399757d2ff2754]
+## 102. Annual rate of early retirement pension[^c-f50e6dfbe73963638f399757d2ff2754]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ The annual rate of the early retirement pension payable to a person (P) is found
 
 ## Annotations
 
-[^key-f50e6dfbe73963638f399757d2ff2754]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2014/292/regulation/102) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-f50e6dfbe73963638f399757d2ff2754]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2014/292/regulation/102) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

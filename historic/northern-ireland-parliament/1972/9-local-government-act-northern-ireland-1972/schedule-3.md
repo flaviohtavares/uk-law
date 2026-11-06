@@ -63,7 +63,7 @@ as may be determined by the Ministry with the approval of the Ministry of Financ
 
 **11.** The Staff Commission shall keep such accounts and records as the Ministry directs.
 
-**12.** The accounts of the Staff Commission shall be audited annually by the local[^key-6cd182458a782622f0eb273127f36b6c] government auditor, and the provisions of Part II of the Local Government (Northern Ireland) Order 2005[^c19124951] with respect to audit shall apply to that audit subject to such modifications as the Ministry directs.
+**12.** The accounts of the Staff Commission shall be audited annually by the local[^c-6cd182458a782622f0eb273127f36b6c] government auditor, and the provisions of Part II of the Local Government (Northern Ireland) Order 2005[^c19124951] with respect to audit shall apply to that audit subject to such modifications as the Ministry directs.
 
 #### Information, reports and returns
 
@@ -90,6 +90,6 @@ as may be determined by the Ministry with the approval of the Ministry of Financ
 
 [^c16965301]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/1981/ni3)
 
-[^key-6cd182458a782622f0eb273127f36b6c]: Textual amendment: Words in [Sch. 3 para. 12](https://www.legislation.gov.uk/apni/1972/9/schedule/3/paragraph/12) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 110(3)](https://www.legislation.gov.uk/nia/2014/8/section/110/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-6cd182458a782622f0eb273127f36b6c]: Textual amendment: Words in [Sch. 3 para. 12](https://www.legislation.gov.uk/apni/1972/9/schedule/3/paragraph/12) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 110(3)](https://www.legislation.gov.uk/nia/2014/8/section/110/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
 [^c19124951]: Textual amendment: Words in Sch. 3 para. 12 substituted (1.4.2006) by [Local Government (Northern Ireland) Order 2005 (S.I. 2005/1968 (N.I. 18))](https://www.legislation.gov.uk/nisi/2005/1968), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1968/article/1/2), [28(5)](https://www.legislation.gov.uk/nisi/2005/1968/article/28/5); [S.R. 2006/151](https://www.legislation.gov.uk/nisr/2006/151), [art. 2](https://www.legislation.gov.uk/nisr/2006/151/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/151/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/151/article/4))

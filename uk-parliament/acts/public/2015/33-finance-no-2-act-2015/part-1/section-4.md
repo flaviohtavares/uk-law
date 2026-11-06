@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Personal allowance and national minimum wage: Chancellor's duties[^key-18e8ab81819155f392082b27814ccf4f]
+## 4. Personal allowance and national minimum wage: Chancellor's duties[^c-18e8ab81819155f392082b27814ccf4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e8ab81819155f392082b27814ccf4f]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2015/33/section/4) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/5/3)
+[^c-18e8ab81819155f392082b27814ccf4f]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2015/33/section/4) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/5/3)

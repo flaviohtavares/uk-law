@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2012 (revoked)[^key-1547e41b6861ad840bcedfc28b224567]
+The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2012 (revoked)[^c-1547e41b6861ad840bcedfc28b224567]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 21st March 2012
 
-[^key-1547e41b6861ad840bcedfc28b224567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1547e41b6861ad840bcedfc28b224567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1547e41b6861ad840bcedfc28b224567]
+## 1. Citation and commencement[^c-1547e41b6861ad840bcedfc28b224567]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Potatoes Originating in Egypt (Scotland) Regulations 2004[^key-1547e41b6861ad840bcedfc28b224567]
+## 2. Amendments to the Potatoes Originating in Egypt (Scotland) Regulations 2004[^c-1547e41b6861ad840bcedfc28b224567]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-1547e41b6861ad840bcedfc28b224567]
+## 3. Revocation[^c-1547e41b6861ad840bcedfc28b224567]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1547e41b6861ad840bcedfc28b224567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1547e41b6861ad840bcedfc28b224567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1547e41b6861ad840bcedfc28b224567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1547e41b6861ad840bcedfc28b224567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1547e41b6861ad840bcedfc28b224567]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/37) revoked (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2020/176/schedule)
+[^c-1547e41b6861ad840bcedfc28b224567]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/37) revoked (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2020/176/schedule)

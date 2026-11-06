@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 975A. Statements about certain payments of interest[^key-b78fada1e5a8b94adb0de6280b8f6f10]
+## 975A. Statements about certain payments of interest[^c-b78fada1e5a8b94adb0de6280b8f6f10]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (4) Subsection (5) applies where a person—
 
 - (a) is treated as making a payment of an amount of interest (“the deemed interest”) by virtue of section 413 of CTA 2009 or section 380 of ITTOIA 2005 (funding bonds), and
-- (b) is under a duty under section 939(2) to retain funding bonds equal in value to income tax on the deemed interest at the savings basic rate[^key-09998670a34316e9d5ae700d8d1b653f].
+- (b) is under a duty under section 939(2) to retain funding bonds equal in value to income tax on the deemed interest at the savings basic rate[^c-09998670a34316e9d5ae700d8d1b653f].
 
 (5) The person must provide the recipient of the funding bonds with a statement showing—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b78fada1e5a8b94adb0de6280b8f6f10]: Textual amendment: S. 975A inserted (with effect in accordance with Sch. 11 para. 12(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/11/paragraph/10)
+[^c-b78fada1e5a8b94adb0de6280b8f6f10]: Textual amendment: S. 975A inserted (with effect in accordance with Sch. 11 para. 12(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/11/paragraph/10)
 
-[^key-09998670a34316e9d5ae700d8d1b653f]: Textual amendment: Words in s. 975A(4)(b) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/34)
+[^c-09998670a34316e9d5ae700d8d1b653f]: Textual amendment: Words in s. 975A(4)(b) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/34)

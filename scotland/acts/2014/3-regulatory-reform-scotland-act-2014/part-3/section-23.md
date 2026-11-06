@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Variable monetary penalties[^key-ac18a1087bf6f0df35c61e81cd90b1ff]
+## 23. Variable monetary penalties[^c-ac18a1087bf6f0df35c61e81cd90b1ff]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac18a1087bf6f0df35c61e81cd90b1ff]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/3/section/23) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-ac18a1087bf6f0df35c61e81cd90b1ff]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/3/section/23) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

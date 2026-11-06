@@ -29,7 +29,7 @@ Section 105.
 - (a) for enabling members, former members and existing employees of the Scottish Boards to participate in or acquire pension rights under the North Scheme or the South Scheme on such terms and conditions as may be prescribed;
 - (b) for requiring any persons to make payments to the trustees of the schemes in such circumstances as may be prescribed;
 - (c) for enabling either scheme, or both schemes, to be wound up (in whole or in part) in such circumstances as may be prescribed; and
-- (d) for securing that the schemes continue to be registered or[^key-bc9eb3847ed03b1e32fe0bd7282d3fa8] approved for the purposes of the relevant enactments notwithstanding the transfers made by this Act and the repeal by this Act of section 37 of the [^c4122771]Electricity (Scotland) Act 1979.
+- (d) for securing that the schemes continue to be registered or[^c-bc9eb3847ed03b1e32fe0bd7282d3fa8] approved for the purposes of the relevant enactments notwithstanding the transfers made by this Act and the repeal by this Act of section 37 of the [^c4122771]Electricity (Scotland) Act 1979.
 
 (2) Without prejudice to the generality of paragraph (c) of sub-paragraph (1) above, regulations made for the purposes of that paragraph may require persons not participating in—
 
@@ -120,7 +120,7 @@ and subsections (2) to (4) of section 736 of the [^c4122811]Companies Act 1985 (
   - (b) any expectation of the accruer of a pension to or in respect of him;
 
   and includes a right of allocation in respect of the present or future payment of a pension;
-- “**the relevant enactments**” means Part 4 of the Finance Act 2004 (pension schemes[^key-606fc61343b34c20c2c94ec087cbf014] etc) and Part III of the Pension Schemes Act 1993 (so far as relating to occupational pension schemes within the meaning of that Act)[^c4122911];
+- “**the relevant enactments**” means Part 4 of the Finance Act 2004 (pension schemes[^c-606fc61343b34c20c2c94ec087cbf014] etc) and Part III of the Pension Schemes Act 1993 (so far as relating to occupational pension schemes within the meaning of that Act)[^c4122911];
 - “**relevant scheme**” has the meaning given by paragraph 2(1) above;
 - “**wholly-owned subsidiary**” has the same meaning as in the [^c4122921]Companies Act 1985.
 
@@ -133,7 +133,7 @@ and subsections (2) to (4) of section 736 of the [^c4122811]Companies Act 1985 (
 
 ## Annotations
 
-[^key-bc9eb3847ed03b1e32fe0bd7282d3fa8]: Textual amendment: Words in Sch. 15 para. 1(1)(d) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2006/745/article/3/3/a)
+[^c-bc9eb3847ed03b1e32fe0bd7282d3fa8]: Textual amendment: Words in Sch. 15 para. 1(1)(d) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2006/745/article/3/3/a)
 
 [^c4122771]: Marginal citation: [1979 c. 11](https://www.legislation.gov.uk/ukpga/1979/11).
 
@@ -145,7 +145,7 @@ and subsections (2) to (4) of section 736 of the [^c4122811]Companies Act 1985 (
 
 [^c4122881]: Marginal citation: [1947 c. 54](https://www.legislation.gov.uk/ukpga/1947/54).
 
-[^key-606fc61343b34c20c2c94ec087cbf014]: Textual amendment: Words in Sch. 15 para. 5(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/3/3/b)
+[^c-606fc61343b34c20c2c94ec087cbf014]: Textual amendment: Words in Sch. 15 para. 5(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/3/3/b)
 
 [^c4122911]: Textual amendment: Words in Sch. 15 para. 5(1) substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para.23](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/23) (with [ss. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8), [164](https://www.legislation.gov.uk/ukpga/1993/48/section/164)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 

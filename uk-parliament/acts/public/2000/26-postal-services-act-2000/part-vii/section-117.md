@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Records of the former Postmaster General’s department.[^key-51a1dec81980a5dd615ba74e0dddada3]
+## 117. Records of the former Postmaster General’s department.[^c-51a1dec81980a5dd615ba74e0dddada3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51a1dec81980a5dd615ba74e0dddada3]: Textual amendment: [S. 117](https://www.legislation.gov.uk/ukpga/2000/26/section/117) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 43](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/43); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-51a1dec81980a5dd615ba74e0dddada3]: Textual amendment: [S. 117](https://www.legislation.gov.uk/ukpga/2000/26/section/117) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 43](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/43); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

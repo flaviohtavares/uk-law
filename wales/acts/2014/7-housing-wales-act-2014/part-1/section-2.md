@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Meaning of key terms[^key-878bfbebd9901805965e0c08404c527c][^key-8b4fd15d8fc7297d7a7177e78c6f9466]
+## 2. Meaning of key terms[^c-878bfbebd9901805965e0c08404c527c][^c-8b4fd15d8fc7297d7a7177e78c6f9466]
 
 *Extent: E+W*
 
 (1) In this Part—
 
 - “**domestic tenancy**” (“***tenantiaeth ddomestig***”) means—
-  - (a) a tenancy which is an occupation contract, except where the occupation contract—[^key-f28319268487acc4125ffdf9d1dd3609]
+  - (a) a tenancy which is an occupation contract, except where the occupation contract—[^c-f28319268487acc4125ffdf9d1dd3609]
     - (i) is a supported standard contact, or
     - (ii) is also a long lease for the purposes of Chapter 1 of Part 1 of the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28) (“**the 1993 Act**”) or, in the case of a shared ownership lease (within the meaning given by section 7(7) of the 1993 Act), would be such a lease if the tenant’s share (within the meaning given by that section) were 100 per cent;
   - (b) a regulated tenancy for the purposes of the Rent Act 1977, or
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-878bfbebd9901805965e0c08404c527c]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/7/section/2) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-878bfbebd9901805965e0c08404c527c]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/7/section/2) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-8b4fd15d8fc7297d7a7177e78c6f9466]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/7/section/2) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/b)
+[^c-8b4fd15d8fc7297d7a7177e78c6f9466]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/7/section/2) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/b)
 
-[^key-f28319268487acc4125ffdf9d1dd3609]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/anaw/2014/7/section/2/1) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/2)
+[^c-f28319268487acc4125ffdf9d1dd3609]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/anaw/2014/7/section/2/1) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/2)

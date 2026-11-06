@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Authorisation of collective money purchase schemes[^c24459371][^key-b273984a6a061c84c13baefd5f1ee360]
+## 58. Authorisation of collective money purchase schemes[^c24459371][^c-b273984a6a061c84c13baefd5f1ee360]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c24459371]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/1/section/58) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-b273984a6a061c84c13baefd5f1ee360]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/1/section/58) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-b273984a6a061c84c13baefd5f1ee360]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/1/section/58) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

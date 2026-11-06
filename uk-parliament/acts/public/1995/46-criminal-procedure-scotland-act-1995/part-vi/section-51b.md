@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51B. Diminished responsibility[^key-0d03765b13e298127b1aca4b7697a277]
+## 51B. Diminished responsibility[^c-0d03765b13e298127b1aca4b7697a277]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d03765b13e298127b1aca4b7697a277]: Textual amendment: Ss. 51A, 51B and cross-headings inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 168](https://www.legislation.gov.uk/asp/2010/13/section/168), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-0d03765b13e298127b1aca4b7697a277]: Textual amendment: Ss. 51A, 51B and cross-headings inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 168](https://www.legislation.gov.uk/asp/2010/13/section/168), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Inducements: regulations[^key-86cd8bac7ad59adb871b4e589a1dbfdb]
+## 61. Inducements: regulations[^c-86cd8bac7ad59adb871b4e589a1dbfdb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86cd8bac7ad59adb871b4e589a1dbfdb]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2015/2/section/61) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/51)
+[^c-86cd8bac7ad59adb871b4e589a1dbfdb]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2015/2/section/61) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/51)

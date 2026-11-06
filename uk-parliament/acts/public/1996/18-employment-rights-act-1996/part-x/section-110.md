@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Dismissal procedures agreements.[^key-8668f4727b8da87e7a6d89a8eb377abb]
+## 110. Dismissal procedures agreements.[^c-8668f4727b8da87e7a6d89a8eb377abb]
 
 *Extent: E+W+S*
 
@@ -54,12 +54,12 @@ the Secretary of State shall revoke the order by an order under this subsection.
 
 (6)[^c16331031] Where an award is made under a designated dismissal procedures agreement—
 
-- (a) in England and Wales it may be enforced, by leave of the county court[^key-344ae4a8ad6b9da11a74feb6eae6d993], in the same manner as a judgment of the court to the same effect and, where leave is given, judgment may be entered in terms of the award, and
+- (a) in England and Wales it may be enforced, by leave of the county court[^c-344ae4a8ad6b9da11a74feb6eae6d993], in the same manner as a judgment of the court to the same effect and, where leave is given, judgment may be entered in terms of the award, and
 - (b) in Scotland it may be recorded for execution in the Books of Council and Session and shall be enforceable accordingly.
 
 ## Annotations
 
-[^key-8668f4727b8da87e7a6d89a8eb377abb]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (5.12.2022) by [The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022 (S.I. 2022/1145)](https://www.legislation.gov.uk/uksi/2022/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/7/1)
+[^c-8668f4727b8da87e7a6d89a8eb377abb]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (5.12.2022) by [The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022 (S.I. 2022/1145)](https://www.legislation.gov.uk/uksi/2022/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/7/1)
 
 [^c16330991]: Textual amendment: [S. 110(2)](https://www.legislation.gov.uk/ukpga/1996/18/section/110/2) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/12/1) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/1998/8/section/12/5)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
@@ -69,4 +69,4 @@ the Secretary of State shall revoke the order by an order under this subsection.
 
 [^c16331031]: Textual amendment: [S. 110(6)](https://www.legislation.gov.uk/ukpga/1996/18/section/110/6) inserted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 12(3)](https://www.legislation.gov.uk/ukpga/1998/8/section/12/3); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-344ae4a8ad6b9da11a74feb6eae6d993]: Textual amendment: Words in s. 110(6)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-344ae4a8ad6b9da11a74feb6eae6d993]: Textual amendment: Words in s. 110(6)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

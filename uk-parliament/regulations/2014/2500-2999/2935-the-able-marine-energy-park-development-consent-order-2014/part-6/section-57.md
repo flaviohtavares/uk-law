@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Arbitration[^key-4020360642b8b7c2dce7a9ce03eac54a]
+## 57. Arbitration[^c-4020360642b8b7c2dce7a9ce03eac54a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-4020360642b8b7c2dce7a9ce03eac54a]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2014/2935/article/57) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-4020360642b8b7c2dce7a9ce03eac54a]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2014/2935/article/57) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

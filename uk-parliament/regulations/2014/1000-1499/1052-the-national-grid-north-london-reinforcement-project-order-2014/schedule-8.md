@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — TEMPORARY CLOSURE OF, AND WORKS IN, THE CANAL[^key-2c9f4690e3daf4e1ea07b18b46a8c5fa]
+## SCHEDULE 8 — TEMPORARY CLOSURE OF, AND WORKS IN, THE CANAL[^c-2c9f4690e3daf4e1ea07b18b46a8c5fa]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Article 20
 
 ## Annotations
 
-[^key-2c9f4690e3daf4e1ea07b18b46a8c5fa]: Commencement: Sch. 8 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-2c9f4690e3daf4e1ea07b18b46a8c5fa]: Commencement: Sch. 8 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

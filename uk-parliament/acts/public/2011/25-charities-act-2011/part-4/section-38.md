@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Right to inspect register[^key-131540ce72084a89621b82efa085af6b]
+## 38. Right to inspect register[^c-131540ce72084a89621b82efa085af6b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ a copy of the document must be open to inspection under subsection (4) as if sup
 
 ## Annotations
 
-[^key-131540ce72084a89621b82efa085af6b]: Modification: S. 38 modified (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/6)
+[^c-131540ce72084a89621b82efa085af6b]: Modification: S. 38 modified (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/6)

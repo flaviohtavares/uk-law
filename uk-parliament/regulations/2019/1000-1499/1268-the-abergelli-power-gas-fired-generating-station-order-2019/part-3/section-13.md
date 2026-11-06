@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Access to works[^key-91040de119fce5bab87ec88e1a6d6fbb]
+## 13. Access to works[^c-91040de119fce5bab87ec88e1a6d6fbb]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The undertaker may, for the purposes of the authorised development—
 
 ## Annotations
 
-[^key-91040de119fce5bab87ec88e1a6d6fbb]: Commencement: Art. 13 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-91040de119fce5bab87ec88e1a6d6fbb]: Commencement: Art. 13 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

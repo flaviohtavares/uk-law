@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007 (revoked)[^key-2dc9639b11f8530f1d0d1bebe3408523]
+The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007 (revoked)[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 13th April 2007
 
-[^key-2dc9639b11f8530f1d0d1bebe3408523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dc9639b11f8530f1d0d1bebe3408523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 1 — Introduction[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -56,7 +56,7 @@ Coming into operation
 - [Section 3 — Person responsible for a consignment](part-1/section-3.md)
 - [Section 4 — Exemption for authorised products and personal imports](part-1/section-4.md)
 
-### PART 2 — Enforcement[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 2 — Enforcement[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -73,7 +73,7 @@ Coming into operation
 - [Section 13 — Suspension of border inspection posts and inspection centres](part-2/section-13.md)
 - [Section 14 — Regulatory functions of authorised officers](part-2/section-14.md)
 
-### PART 3 — Provisions Applicable to Products in General[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 3 — Provisions Applicable to Products in General[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -94,7 +94,7 @@ Coming into operation
 - [Section 27 — Invalidation of veterinary documents](part-3/section-27.md)
 - [Section 28 — Costs in respect of products redispatched or disposed of](part-3/section-28.md)
 
-### ...[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### ...[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -106,7 +106,7 @@ Coming into operation
 - [Section regulation-32](part-4/section-regulation-32.md)
 - [Section regulation-33](part-4/section-regulation-33.md)
 
-### PART 5 — Products Intended for Import[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 5 — Products Intended for Import[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -118,7 +118,7 @@ Coming into operation
 - [Section 37 — Products transported under supervision](part-5/section-37.md)
 - [Section 38 — Transhipment of products intended for import](part-5/section-38.md)
 
-### PART 6 — Transit Products[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 6 — Transit Products[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -130,7 +130,7 @@ Coming into operation
 - [Section 42 — Movement of transit products](part-6/section-42.md)
 - [Section 43 — Disposal of returned transit products](part-6/section-43.md)
 
-### PART 7 — Products Intended for Warehouses, Ships’ Stores or Cross-Border Means of Sea Transport[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 7 — Products Intended for Warehouses, Ships’ Stores or Cross-Border Means of Sea Transport[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -143,7 +143,7 @@ Coming into operation
 - [Section 48 — Direct movement to cross border means of sea transport](part-7/section-48.md)
 - [Section 49 — Additional certificate to accompany products on board means of sea transport](part-7/section-49.md)
 
-### PART 8 — Products Returned from Third Countries[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 8 — Products Returned from Third Countries[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -154,7 +154,7 @@ Coming into operation
 - [Section 52 — Physical check of returned products](part-8/section-52.md)
 - [Section 53 — Movement of returned products](part-8/section-53.md)
 
-### PART 9 — Charges for Veterinary Checks[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 9 — Charges for Veterinary Checks[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -168,7 +168,7 @@ Coming into operation
 - [Section 59 — Appeals against charges paid to district councils](part-9/section-59.md)
 - [Section 60 — Appeals against charges paid to the Department or Agency](part-9/section-60.md)
 
-### PART 10 — Emergency Declarations[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 10 — Emergency Declarations[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -176,7 +176,7 @@ Coming into operation
 
 - [Section 61 — Disease outbreaks in third countries](part-10/section-61.md)
 
-### PART 11 — Offences and Penalties[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 11 — Offences and Penalties[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -187,7 +187,7 @@ Coming into operation
 - [Section 64 — Contraventions](part-11/section-64.md)
 - [Section 65 — Penalties](part-11/section-65.md)
 
-### PART 12 — Notices and Decisions[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 12 — Notices and Decisions[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -196,7 +196,7 @@ Coming into operation
 - [Section 66 — Service of notices](part-12/section-66.md)
 - [Section 67 — Notification of decisions](part-12/section-67.md)
 
-### PART 13 — Disapplications and Revocations[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART 13 — Disapplications and Revocations[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -214,14 +214,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-2dc9639b11f8530f1d0d1bebe3408523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dc9639b11f8530f1d0d1bebe3408523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-2dc9639b11f8530f1d0d1bebe3408523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dc9639b11f8530f1d0d1bebe3408523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dc9639b11f8530f1d0d1bebe3408523]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/199) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(d)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3))
+[^c-2dc9639b11f8530f1d0d1bebe3408523]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/199) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(d)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3))

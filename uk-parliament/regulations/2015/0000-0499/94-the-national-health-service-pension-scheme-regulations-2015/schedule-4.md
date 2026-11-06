@@ -43,7 +43,7 @@ Regulations 15 & 16
 - (a) belongs or would belong to group D in regulation 27(1); and
 - (b) has more than one employment or engagement to which group D applies.
 
-(6)[^key-9bfa06b7f8e72f7699726dabd22abb2c] If the person gives a notice mentioned in sub-paragraph (1), the notice must relate to all of the employments or engagements to which group D applies.
+(6)[^c-9bfa06b7f8e72f7699726dabd22abb2c] If the person gives a notice mentioned in sub-paragraph (1), the notice must relate to all of the employments or engagements to which group D applies.
 
 (7) Sub-paragraph (8) applies if a person—
 
@@ -58,4 +58,4 @@ A person who has opted out of this scheme pursuant to paragraph 1 may, if eligib
 
 ## Annotations
 
-[^key-9bfa06b7f8e72f7699726dabd22abb2c]: Textual amendment: [Sch. 4 para. 1(6)-(8)](https://www.legislation.gov.uk/uksi/2015/94/schedule/4/paragraph/1/6) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2015/94/schedule/4) [para. 1(6)](https://www.legislation.gov.uk/uksi/2015/94/schedule/4/paragraph/1/6) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [85](https://www.legislation.gov.uk/uksi/2016/245/regulation/85) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-9bfa06b7f8e72f7699726dabd22abb2c]: Textual amendment: [Sch. 4 para. 1(6)-(8)](https://www.legislation.gov.uk/uksi/2015/94/schedule/4/paragraph/1/6) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2015/94/schedule/4) [para. 1(6)](https://www.legislation.gov.uk/uksi/2015/94/schedule/4/paragraph/1/6) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [85](https://www.legislation.gov.uk/uksi/2016/245/regulation/85) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

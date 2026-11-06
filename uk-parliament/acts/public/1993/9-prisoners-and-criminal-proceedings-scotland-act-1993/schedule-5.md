@@ -96,7 +96,7 @@ Section 47(1).
 
 (3) In section 14(1) (legalised police cells), after the word “under” there shall be inserted the words “ section 39 of ”.
 
-(4)[^key-93220c373bda636148a57d572b72b1d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-93220c373bda636148a57d572b72b1d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 21 (transfer to prison of persons over 21 etc.)—
 
@@ -134,4 +134,4 @@ Section 47(1).
 
 [^c12929401]: Commencement: Sch. 5 para. 6 not in force at Royal Assent see. s. 48(2). Sch. 5 para. 6(1)-(4), (6),(8) in force at 18.8.1993, para. 6 wholly in force at 1.10.1993 by [S.I. 1993/2050](https://www.legislation.gov.uk/uksi/1993/2050), [art. 3(2)(4)](https://www.legislation.gov.uk/uksi/1993/2050/article/3/2/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/2050/schedule/1)
 
-[^key-93220c373bda636148a57d572b72b1d5]: Textual amendment: [Sch. 5 para. 6(4)](https://www.legislation.gov.uk/ukpga/1993/9/schedule/5/paragraph/6/4) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 2](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/2)
+[^c-93220c373bda636148a57d572b72b1d5]: Textual amendment: [Sch. 5 para. 6(4)](https://www.legislation.gov.uk/ukpga/1993/9/schedule/5/paragraph/6/4) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 2](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Joint committees: further provisions[^key-ffcc32b5f76ec71aba71811f5ebb70a5]
+## 14. Joint committees: further provisions[^c-ffcc32b5f76ec71aba71811f5ebb70a5]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffcc32b5f76ec71aba71811f5ebb70a5]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2014/8/section/14) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-ffcc32b5f76ec71aba71811f5ebb70a5]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2014/8/section/14) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

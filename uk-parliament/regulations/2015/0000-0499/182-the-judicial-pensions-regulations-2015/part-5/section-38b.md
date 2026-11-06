@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38B. Purported transfer value payment in respect of relevant fee-paid judges[^key-1691b55d4cb9beff0a6a6c03f12a563d]
+## 38B. Purported transfer value payment in respect of relevant fee-paid judges[^c-1691b55d4cb9beff0a6a6c03f12a563d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1691b55d4cb9beff0a6a6c03f12a563d]: Textual amendment: [Reg. 38B](https://www.legislation.gov.uk/uksi/2015/182/regulation/38B) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/5)
+[^c-1691b55d4cb9beff0a6a6c03f12a563d]: Textual amendment: [Reg. 38B](https://www.legislation.gov.uk/uksi/2015/182/regulation/38B) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/5)

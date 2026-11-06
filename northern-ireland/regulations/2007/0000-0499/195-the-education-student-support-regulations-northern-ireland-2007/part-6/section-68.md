@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Old system students with full entitlement[^key-5be83df92bfced7e1f468225b4d99c9e]
+## 68. Old system students with full entitlement[^c-5be83df92bfced7e1f468225b4d99c9e]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ Y is the reduction.
 
 ## Annotations
 
-[^key-5be83df92bfced7e1f468225b4d99c9e]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2007/195/regulation/68) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-5be83df92bfced7e1f468225b4d99c9e]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2007/195/regulation/68) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

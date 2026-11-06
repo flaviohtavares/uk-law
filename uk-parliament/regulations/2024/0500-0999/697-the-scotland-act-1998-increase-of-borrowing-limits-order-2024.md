@@ -34,7 +34,7 @@ CONSTITUTIONAL LAW
 
 DEVOLUTION, SCOTLAND
 
-The Scotland Act 1998 (Increase of Borrowing Limits) Order 2024 (revoked)[^key-26a431f9988219089f250810f9c28cc7]
+The Scotland Act 1998 (Increase of Borrowing Limits) Order 2024 (revoked)[^c-26a431f9988219089f250810f9c28cc7]
 
 Made
 
@@ -42,24 +42,24 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-26a431f9988219089f250810f9c28cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26a431f9988219089f250810f9c28cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-26a431f9988219089f250810f9c28cc7]
+## 1. Citation, commencement and extent[^c-26a431f9988219089f250810f9c28cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Scotland Act 1998[^key-26a431f9988219089f250810f9c28cc7]
+## 2. Amendments to the Scotland Act 1998[^c-26a431f9988219089f250810f9c28cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26a431f9988219089f250810f9c28cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26a431f9988219089f250810f9c28cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-26a431f9988219089f250810f9c28cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26a431f9988219089f250810f9c28cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26a431f9988219089f250810f9c28cc7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/697) revoked (25.6.2025) by [The Scotland Act 1998 (Increase of Borrowing Limits) Order 2025 (S.I. 2025/759)](https://www.legislation.gov.uk/uksi/2025/759), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/759/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/759/article/3)
+[^c-26a431f9988219089f250810f9c28cc7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/697) revoked (25.6.2025) by [The Scotland Act 1998 (Increase of Borrowing Limits) Order 2025 (S.I. 2025/759)](https://www.legislation.gov.uk/uksi/2025/759), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/759/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/759/article/3)

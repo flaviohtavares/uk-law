@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Enforcement of 2006 Act in England and Wales and Northern Ireland[^key-fdf3e5e3e8ec7169495ed90ad3054749]
+## 106. Enforcement of 2006 Act in England and Wales and Northern Ireland[^c-fdf3e5e3e8ec7169495ed90ad3054749]
 
 *Extent: E+W+N.I.*
 
@@ -40,4 +40,4 @@ But in relation to an offence committed before the commencement of section 281(5
 
 ## Annotations
 
-[^key-fdf3e5e3e8ec7169495ed90ad3054749]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2009/26/section/106) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)
+[^c-fdf3e5e3e8ec7169495ed90ad3054749]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2009/26/section/106) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)

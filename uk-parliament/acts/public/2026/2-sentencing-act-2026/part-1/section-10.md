@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Corresponding provision under service law[^key-b306490a1a3f673c7f5164bc27081d7a]
+## 10. Corresponding provision under service law[^c-b306490a1a3f673c7f5164bc27081d7a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 3 makes provision about sentencing under service law that corresponds t
 
 ## Annotations
 
-[^key-b306490a1a3f673c7f5164bc27081d7a]: Commencement: S. 10 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-b306490a1a3f673c7f5164bc27081d7a]: Commencement: S. 10 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)

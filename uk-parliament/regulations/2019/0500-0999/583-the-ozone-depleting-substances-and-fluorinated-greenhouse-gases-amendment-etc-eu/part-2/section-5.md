@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Insertion of new Articles 3A and 3B[^key-89cbf7ed463f25057155f15dd5078e1c]
+## 5. Insertion of new Articles 3A and 3B[^c-89cbf7ed463f25057155f15dd5078e1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ After Article 3, insert—
 
 ## Annotations
 
-[^key-89cbf7ed463f25057155f15dd5078e1c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-89cbf7ed463f25057155f15dd5078e1c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

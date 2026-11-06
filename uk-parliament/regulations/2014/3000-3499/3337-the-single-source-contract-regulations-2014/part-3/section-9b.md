@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9B. Contract pricing methods[^key-eb6f665700b6e5a2df1f572df10eca06]
+## 9B. Contract pricing methods[^c-eb6f665700b6e5a2df1f572df10eca06]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6f665700b6e5a2df1f572df10eca06]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/1) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/420/regulation/12)
+[^c-eb6f665700b6e5a2df1f572df10eca06]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/1) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/420/regulation/12)

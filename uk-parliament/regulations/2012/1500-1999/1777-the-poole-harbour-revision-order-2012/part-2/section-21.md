@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Power to deal with abandoned vessels, etc.[^key-22829748da05e8ecac88eaf36898f6d2]
+## 21. Power to deal with abandoned vessels, etc.[^c-22829748da05e8ecac88eaf36898f6d2]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ the Commissioners may recover the amounts referred to in paragraph (2) net of an
 
 ## Annotations
 
-[^key-22829748da05e8ecac88eaf36898f6d2]: Commencement: Art. 21 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-22829748da05e8ecac88eaf36898f6d2]: Commencement: Art. 21 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

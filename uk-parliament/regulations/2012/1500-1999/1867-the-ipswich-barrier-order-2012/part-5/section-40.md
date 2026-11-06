@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Arbitration in respect of removal of obstructions other than vessels[^key-38bf8b19acff381ce82f91835f566695]
+## 40. Arbitration in respect of removal of obstructions other than vessels[^c-38bf8b19acff381ce82f91835f566695]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ and any dispute under this article is to be determined in accordance with articl
 
 ## Annotations
 
-[^key-38bf8b19acff381ce82f91835f566695]: Commencement: Art. 40 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-38bf8b19acff381ce82f91835f566695]: Commencement: Art. 40 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

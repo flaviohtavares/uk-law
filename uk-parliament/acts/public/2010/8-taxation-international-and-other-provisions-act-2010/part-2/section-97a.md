@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Commercial allocation of relevant income to different categories of long-term business[^key-e323e9829f65e1296674806ab382a1ca]
+## 97A. Commercial allocation of relevant income to different categories of long-term business[^c-e323e9829f65e1296674806ab382a1ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e323e9829f65e1296674806ab382a1ca]: Textual amendment: Ss. 97, 97A substituted (17.7.2012) for s. 97 by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 236](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/236)
+[^c-e323e9829f65e1296674806ab382a1ca]: Textual amendment: Ss. 97, 97A substituted (17.7.2012) for s. 97 by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 236](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/236)

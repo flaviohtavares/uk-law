@@ -79,7 +79,7 @@ References to the repealed Decision shall be construed as references to this Reg
 
 **Article 3.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-e9a4fbc9930839cf5024880040207260]This Regulation shall be binding in its entirety and directly applicable in all Member States.
+[^c-e9a4fbc9930839cf5024880040207260]This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 1 July 2015.
 
@@ -336,7 +336,7 @@ Two or more non-substantial layers that are adjacent to each other, where there 
 
 [^f00002]: Footnote: Commission Decision 2000/147/EC of 8 February 2000 implementing Council Directive 89/106/EEC as regards the classification of the reaction to fire performance of construction products ([OJ L 50, 23.2.2000, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.050.01.0014.01.ENG)).
 
-[^key-e9a4fbc9930839cf5024880040207260]: Modification: [Signature](https://www.legislation.gov.uk/eur/2016/364/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/8) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(k)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/k)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9a4fbc9930839cf5024880040207260]: Modification: [Signature](https://www.legislation.gov.uk/eur/2016/364/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/8) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(k)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/k)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: The characteristics are defined with respect to the appropriate test method.
 

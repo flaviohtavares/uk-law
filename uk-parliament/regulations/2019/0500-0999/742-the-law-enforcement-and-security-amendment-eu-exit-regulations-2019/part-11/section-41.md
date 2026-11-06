@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Revocation of additional legislation[^key-dd99ea50703f580ea2465f0bccdf6fcc]
+## 41. Revocation of additional legislation[^c-dd99ea50703f580ea2465f0bccdf6fcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ The following Orders are revoked—
 
 ## Annotations
 
-[^key-dd99ea50703f580ea2465f0bccdf6fcc]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dd99ea50703f580ea2465f0bccdf6fcc]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691161]: Marginal citation: [S.I. 1996/3157](https://www.legislation.gov.uk/uksi/1996/3157). [S.I. 1997/2973](https://www.legislation.gov.uk/uksi/1997/2973) provides for the revocation of [S.I. 1996/3157](https://www.legislation.gov.uk/uksi/1996/3157) but neither S.I. has been commenced.
 

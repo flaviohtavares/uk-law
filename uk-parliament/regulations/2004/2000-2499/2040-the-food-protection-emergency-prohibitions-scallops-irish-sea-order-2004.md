@@ -35,7 +35,7 @@ PUBLIC HEALTH, ENGLAND
 
 CONTAMINATION OF FOOD
 
-The Food Protection (Emergency Prohibitions) (Scallops) (Irish Sea) Order 2004 (revoked)[^key-17807d67f6e7288833ade406a857de7b]
+The Food Protection (Emergency Prohibitions) (Scallops) (Irish Sea) Order 2004 (revoked)[^c-17807d67f6e7288833ade406a857de7b]
 
 Made
 
@@ -51,46 +51,46 @@ article 1(1)
 
 14.31 hours on 29th July 2004
 
-[^key-17807d67f6e7288833ade406a857de7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17807d67f6e7288833ade406a857de7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-17807d67f6e7288833ade406a857de7b]
+## 1. Title, commencement and interpretation[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designated circumstances[^key-17807d67f6e7288833ade406a857de7b]
+## 2. Designated circumstances[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designated area[^key-17807d67f6e7288833ade406a857de7b]
+## 3. Designated area[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Activities prohibited in the designated area[^key-17807d67f6e7288833ade406a857de7b]
+## 4. Activities prohibited in the designated area[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibition on movement[^key-17807d67f6e7288833ade406a857de7b]
+## 5. Prohibition on movement[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prohibitions applicable throughout the United Kingdom[^key-17807d67f6e7288833ade406a857de7b]
+## 6. Prohibitions applicable throughout the United Kingdom[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17807d67f6e7288833ade406a857de7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17807d67f6e7288833ade406a857de7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — DESIGNATED AREA[^key-17807d67f6e7288833ade406a857de7b]
+## SCHEDULE — DESIGNATED AREA[^c-17807d67f6e7288833ade406a857de7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-17807d67f6e7288833ade406a857de7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17807d67f6e7288833ade406a857de7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-17807d67f6e7288833ade406a857de7b]: Textual amendment: Order revoked (15.10.2004 at 15.11) by [The Food Protection (Emergency Prohibitions) (Scallops) (Irish Sea) (Revocation) Order 2004 (S.I. 2004/2686)](https://www.legislation.gov.uk/uksi/2004/2686), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2686/article/1), [2](https://www.legislation.gov.uk/uksi/2004/2686/article/2)
+[^c-17807d67f6e7288833ade406a857de7b]: Textual amendment: Order revoked (15.10.2004 at 15.11) by [The Food Protection (Emergency Prohibitions) (Scallops) (Irish Sea) (Revocation) Order 2004 (S.I. 2004/2686)](https://www.legislation.gov.uk/uksi/2004/2686), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2686/article/1), [2](https://www.legislation.gov.uk/uksi/2004/2686/article/2)

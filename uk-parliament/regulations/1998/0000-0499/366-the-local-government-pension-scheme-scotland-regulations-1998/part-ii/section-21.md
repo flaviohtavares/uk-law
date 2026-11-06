@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Other final pay periods[^key-5007e6b6458301f0a585bb0924eb4844]
+## 21. Other final pay periods[^c-5007e6b6458301f0a585bb0924eb4844]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5007e6b6458301f0a585bb0924eb4844]: Commencement: Reg. 21 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5007e6b6458301f0a585bb0924eb4844]: Commencement: Reg. 21 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

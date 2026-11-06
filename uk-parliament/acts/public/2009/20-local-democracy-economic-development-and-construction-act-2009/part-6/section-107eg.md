@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107EG. Section 107EA orders: application of local policing provisions[^key-c21d236103722888879824cc493eef26][^key-f78856540a0ef1754d6c0a1da23b73a9]
+## 107EG. Section 107EA orders: application of local policing provisions[^c-c21d236103722888879824cc493eef26][^c-f78856540a0ef1754d6c0a1da23b73a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c21d236103722888879824cc493eef26]: Textual amendment: Ss. 107EA-107EG inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
+[^c-c21d236103722888879824cc493eef26]: Textual amendment: Ss. 107EA-107EG inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
 
-[^key-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

@@ -24,8 +24,8 @@ summary: ''
 
 - (a) B enters into a relevant transaction with S,
 - (b) the plant or machinery—
-  - (i) is within section 216(1)(b) (sale and leaseback), [^key-ad2be07d1890b9a7b0372b5dc7a62c51]...
-  - (ii)[^key-ad2be07d1890b9a7b0372b5dc7a62c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) is within section 216(1)(b) (sale and leaseback), [^c-ad2be07d1890b9a7b0372b5dc7a62c51]...
+  - (ii)[^c-ad2be07d1890b9a7b0372b5dc7a62c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the conditions set out in subsection (2) are met, and
 - (d) B and S elect that section 228 should apply.
 
@@ -33,7 +33,7 @@ summary: ''
 
 - (a) that S incurred capital expenditure on the provision of the plant or machinery,
 - (b) that the plant or machinery was unused and not second-hand at or after the time when it was acquired by S,
-- (c) that the plant or machinery was acquired by S otherwise than as a result of a transaction to which section 217 or 218[^key-38c678bc3adea1e6b3efb2298aaf5b07] applies,
+- (c) that the plant or machinery was acquired by S otherwise than as a result of a transaction to which section 217 or 218[^c-38c678bc3adea1e6b3efb2298aaf5b07] applies,
 - (d) that the relevant transaction is effected not more than 4 months after the first occasion on which the plant or machinery is brought into use by any person for any purpose, and
 - (e) that S has not—
   - (i) made a claim for an allowance under this Act in respect of expenditure incurred on the provision of the plant or machinery,
@@ -44,7 +44,7 @@ summary: ''
 
 (4) An election under this section—
 
-- (a) must be made by notice to an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8] no later than 2 years after the date of the transaction, and
+- (a) must be made by notice to an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8] no later than 2 years after the date of the transaction, and
 - (b) is irrevocable.
 
 (5) Nothing in—
@@ -60,8 +60,8 @@ applies to such an election.
 
 [^M_F_c9af7422-2f0d-492d-a1cf-01e4d9f970fc]: Textual amendment: S. 227 heading substituted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/b)
 
-[^key-ad2be07d1890b9a7b0372b5dc7a62c51]: Textual amendment: S. 227(1)(b)(ii) and preceding word omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/a)
+[^c-ad2be07d1890b9a7b0372b5dc7a62c51]: Textual amendment: S. 227(1)(b)(ii) and preceding word omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/a)
 
-[^key-38c678bc3adea1e6b3efb2298aaf5b07]: Textual amendment: Words in s. 227(2)(c) substituted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/b)
+[^c-38c678bc3adea1e6b3efb2298aaf5b07]: Textual amendment: Words in s. 227(2)(c) substituted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/b)
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

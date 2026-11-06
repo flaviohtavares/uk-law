@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Duty of person in charge to satisfy himself as to competence of controllers[^key-e91769b84d9f53c9cd96c18ffc2a3a25]
+## 139. Duty of person in charge to satisfy himself as to competence of controllers[^c-e91769b84d9f53c9cd96c18ffc2a3a25]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The holder of an approval under article 138 must not permit any person to act as
 
 ## Annotations
 
-[^key-e91769b84d9f53c9cd96c18ffc2a3a25]: Commencement: [Art. 139](https://www.legislation.gov.uk/uksi/2013/2870/article/139) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e91769b84d9f53c9cd96c18ffc2a3a25]: Commencement: [Art. 139](https://www.legislation.gov.uk/uksi/2013/2870/article/139) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

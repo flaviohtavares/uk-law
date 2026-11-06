@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Traffic regulation[^key-1eecdaf3b0bad9b0787966b712c508ec]
+## 51. Traffic regulation[^c-1eecdaf3b0bad9b0787966b712c508ec]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-1eecdaf3b0bad9b0787966b712c508ec]: Commencement: Art. 51 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-1eecdaf3b0bad9b0787966b712c508ec]: Commencement: Art. 51 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00098]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

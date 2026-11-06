@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39.[^key-eb833fe5ed9038172385de2329e2246a]
+## 39.[^c-eb833fe5ed9038172385de2329e2246a]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ In section 101—
 
 ## Annotations
 
-[^key-eb833fe5ed9038172385de2329e2246a]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-eb833fe5ed9038172385de2329e2246a]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23620981]: Marginal citation: Section 101(3) was amended by section 2(1)(i) of the [Road Traffic (Drivers' Ages and Hours of Work) Act 1976 (c. 3)](https://www.legislation.gov.uk/ukpga/1976/3).
 

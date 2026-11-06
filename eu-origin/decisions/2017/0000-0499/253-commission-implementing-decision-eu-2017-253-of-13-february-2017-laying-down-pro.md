@@ -35,50 +35,50 @@ laying down procedures for the notification of alerts as part of the early warni
 
 (Text with EEA relevance) (revoked)
 
-[^key-02f61bbb6ece639004099620ca643f5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02f61bbb6ece639004099620ca643f5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. EWRS competent authorities[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 1. EWRS competent authorities[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Alert notifications in the EWRS[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 2. Alert notifications in the EWRS[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Other Union rapid alert and information systems[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 3. Other Union rapid alert and information systems[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Coordination of national responses to serious cross-border threats to health[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 4. Coordination of national responses to serious cross-border threats to health[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Risk and crisis communication[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 5. Risk and crisis communication[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Deactivation of the alert notification[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 6. Deactivation of the alert notification[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Repeal of Decision 2000/57/EC[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 7. Repeal of Decision 2000/57/EC[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-02f61bbb6ece639004099620ca643f5f]
+## Article 8. Entry into force[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02f61bbb6ece639004099620ca643f5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02f61bbb6ece639004099620ca643f5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Non-exhaustive list of alert and Information Systems at union level to be progressively linked with EWRS[^key-02f61bbb6ece639004099620ca643f5f]
+## ANNEX — Non-exhaustive list of alert and Information Systems at union level to be progressively linked with EWRS[^c-02f61bbb6ece639004099620ca643f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02f61bbb6ece639004099620ca643f5f]: Textual amendment: Decision revoked (1.9.2021) by [The Health Security (EU Exit) Regulations 2021 (S.I. 2021/877)](https://www.legislation.gov.uk/uksi/2021/877), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/877/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2021/877/regulation/15/c)
+[^c-02f61bbb6ece639004099620ca643f5f]: Textual amendment: Decision revoked (1.9.2021) by [The Health Security (EU Exit) Regulations 2021 (S.I. 2021/877)](https://www.legislation.gov.uk/uksi/2021/877), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/877/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2021/877/regulation/15/c)

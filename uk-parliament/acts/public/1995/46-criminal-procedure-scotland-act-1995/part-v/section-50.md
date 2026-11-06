@@ -39,10 +39,10 @@ shall be excluded from the court during the taking of the evidence of that witne
 
 (6) Every court in dealing with a child who is brought before it as an offender shall have regard to the welfare of the child and shall in a proper case take steps for removing him from undesirable surroundings.
 
-(7)[^key-2012bc8bb9381aaf08202a05d3e27107] In complying with subsection (6) the court must, in particular, consider what steps might be taken to facilitate the participation of the child in the proceedings while safeguarding the child’s welfare and, where reasonably practicable, take those steps.
+(7)[^c-2012bc8bb9381aaf08202a05d3e27107] In complying with subsection (6) the court must, in particular, consider what steps might be taken to facilitate the participation of the child in the proceedings while safeguarding the child’s welfare and, where reasonably practicable, take those steps.
 
 ## Annotations
 
 [^c14468761]: Textual amendment: Words in s. 50(1) inserted (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 73(2)](https://www.legislation.gov.uk/ukpga/1999/22/section/73/2), [108(3)(b)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/3/b) (with [s. 107](https://www.legislation.gov.uk/ukpga/1999/22/section/107), [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2))
 
-[^key-2012bc8bb9381aaf08202a05d3e27107]: Textual amendment: [S. 50(7)](https://www.legislation.gov.uk/ukpga/1995/46/section/50/7) inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(2)](https://www.legislation.gov.uk/asp/2024/5/section/16/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)
+[^c-2012bc8bb9381aaf08202a05d3e27107]: Textual amendment: [S. 50(7)](https://www.legislation.gov.uk/ukpga/1995/46/section/50/7) inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(2)](https://www.legislation.gov.uk/asp/2024/5/section/16/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)

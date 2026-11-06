@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Investigation reports[^key-fe0f73fbb3caad0f190639605e411789]
+## 54. Investigation reports[^c-fe0f73fbb3caad0f190639605e411789]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe0f73fbb3caad0f190639605e411789]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2015/26/section/54) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-fe0f73fbb3caad0f190639605e411789]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2015/26/section/54) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

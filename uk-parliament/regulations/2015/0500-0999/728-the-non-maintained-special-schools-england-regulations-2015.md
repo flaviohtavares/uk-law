@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations, in exercise of the powers conferred by sections 342(2), (4), (5) and (5A), 342A, 342B, 342C and 569(4) of the Education Act 1996[^f00001].
 
-## 1. Citation, commencement and application[^key-e25dbf3c22ded725962892f5252a600b]
+## 1. Citation, commencement and application[^c-e25dbf3c22ded725962892f5252a600b]
 
 (1) These Regulations may be cited as the Non-Maintained Special Schools (England) Regulations 2015 and come into force on 1st September 2015.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Interpretation[^key-36b0b49cfebf14cf3bbf655802bdad66]
+## 2. Interpretation[^c-36b0b49cfebf14cf3bbf655802bdad66]
 
 (1) In these Regulations —
 
@@ -61,16 +61,16 @@ The Secretary of State for Education makes the following Regulations, in exercis
 - “the 2002 Act” means the Education Act 2002[^f00003];
 - “the 2005 Act” means the Education Act 2005[^f00004];
 - “the 2006 Act” means the Safeguarding Vulnerable Groups Act 2006[^f00005];
-- “children’s home” has the meaning given in section 1 of the Care Standards Act 2000[^key-8fbf9f3f42c4ab2590958b19556def28]
+- “children’s home” has the meaning given in section 1 of the Care Standards Act 2000[^c-8fbf9f3f42c4ab2590958b19556def28]
 - “EHC plan” means a plan within the meaning of section 37(2) of the Children and Families Act 2014[^f00006];
 - “employment business” has the same meaning as in section 13(3) of the Employment Agencies Act 1973[^f00007];
 - “enhanced criminal record certificate” means an enhanced criminal record certificate issued under section 113B(1)[^f00008] of the 1997 Act which includes, in such cases as are from time to time prescribed under section 113BA(1)[^f00009] of that Act, suitability information relating to children or vulnerable adults, and any relevant up-date information where such a certificate is subject to up-date arrangements;
 - “interim prohibition order” has the same meaning as in section 141C(7) of the 2002 Act[^f00010];
 - “maintained special school” means a community or foundation special school[^f00011];
-- “National Minimum Standards” means the statement of national minimum standards relating to residential special schools[^f00012] published in May 2022[^key-d586115a73f35fa01bd8466c222cbed3] by the Secretary of State for Education under section 87C(1) of the Children Act 1989[^f00013]; [^key-9b9261639f6118fc7ca1f163e310c9d2]...
+- “National Minimum Standards” means the statement of national minimum standards relating to residential special schools[^f00012] published in May 2022[^c-d586115a73f35fa01bd8466c222cbed3] by the Secretary of State for Education under section 87C(1) of the Children Act 1989[^f00013]; [^c-9b9261639f6118fc7ca1f163e310c9d2]...
 - “prohibition order” has the same meaning as in section 141B of the 2002 Act;
 - “Quality Standards” means the statement published in April 2015 by the Secretary of State under section 23 of the Care Standards Act 2000 relating to children’s homes
-- “registered person” has the meaning given in section 120(1) of the 1997 Act;[^key-af7bb92891d5b9af148b5cc5561564a7]
+- “registered person” has the meaning given in section 120(1) of the 1997 Act;[^c-af7bb92891d5b9af148b5cc5561564a7]
 - “relevant up-date information” means up-date information within the meaning given in section 116A(8)(b)(i) or 116A(8)(c)(i) [^f00016]of the 1997 Act;
 - “suitability information relating to children” has the same meaning as in section 113(BA)(2) of the 1997 Act;
 - “suitability information relating to vulnerable adults” has the same meaning as in section 113BB(2)[^f00017] of the 1997 Act;
@@ -79,7 +79,7 @@ The Secretary of State for Education makes the following Regulations, in exercis
 
 (2) In these Regulations, an “enhanced criminal check” is made if —
 
-- (a)[^key-ed93bd3e31687085778ddd3a80714dca] an application for an enhanced criminal record certificate is made under section 113B(1) of the 1997 Act; or
+- (a)[^c-ed93bd3e31687085778ddd3a80714dca] an application for an enhanced criminal record certificate is made under section 113B(1) of the 1997 Act; or
 - (b) where an enhanced criminal record certificate has been obtained under section 113B(1) of the 1997 Act and is subject to up-date arrangements, relevant up-date information is obtained.
 
 (3) In these Regulations a person is appointed to a position if that person is—
@@ -94,18 +94,18 @@ The Secretary of State for Education makes the following Regulations, in exercis
 - (c) is not barred from regulated activity relating to children, to vulnerable adults or to both under section 3 of the 2006 Act, where that person is or will be engaging in activity which is regulated activity within the meaning of Part 1 of Schedule 4 of that Act; and
 - (d) is not subject to a prohibition order or an interim prohibition order.
 
-(5) For the purposes of paragraphs 4(4), 5(2)(a)(ii) and 6(4)[^key-7957cf51c4cdc5fdc926f98f5504a0e5] of Part 1 of the Schedule, an enhanced criminal record check is only relevant where a person or an individual is or will be engaging in—
+(5) For the purposes of paragraphs 4(4), 5(2)(a)(ii) and 6(4)[^c-7957cf51c4cdc5fdc926f98f5504a0e5] of Part 1 of the Schedule, an enhanced criminal record check is only relevant where a person or an individual is or will be engaging in—
 
 - (a) regulated activity within the meaning of Part 1 of Schedule 4 to the 2006 Act; or
 - (b) regulated activity relating to children or vulnerable adults within the meaning of Part 1 of Schedule 4 to the 2006 Act, as it had effect immediately before the coming into force of section 64 of the Protection of Freedoms Act 2012[^f00021].
 
-## 3. Conditions of approval and requirements to be complied with[^key-03930ba37d2b6a2f7626518e54ba36aa]
+## 3. Conditions of approval and requirements to be complied with[^c-03930ba37d2b6a2f7626518e54ba36aa]
 
 (1) Part 1 of the Schedule provides the requirements a school must comply with as a condition of approval by the Secretary of State[^f00022] under section 342(1) of the 1996 Act.
 
 (2) Part 2 of the Schedule provides the requirements a school must comply with while approved under section 342(1) of the 1996 Act.
 
-## 4. Withdrawal of approval[^key-dd9de7592d089fab34135f3995aef16e]
+## 4. Withdrawal of approval[^c-dd9de7592d089fab34135f3995aef16e]
 
 (1) The Secretary of State may withdraw approval from a school on the ground that there has been a failure to comply with any requirement contained in these Regulations.
 
@@ -118,7 +118,7 @@ The Secretary of State for Education makes the following Regulations, in exercis
 
 (4) If the Secretary of State withdraws approval from a school following a request to do so by the proprietor, the Secretary of State may determine that the decision will have effect from such date as the Secretary of State may specify.
 
-## 5. Emergencies[^key-02f0793bc7f6090c9ee064f96ba75a39]
+## 5. Emergencies[^c-02f0793bc7f6090c9ee064f96ba75a39]
 
 (1) In an urgent case the Secretary of State may apply to a justice of the peace to make an order that a non-maintained special school in England should cease to be approved under section 342 of the 1996 Act.
 
@@ -144,7 +144,7 @@ The Secretary of State for Education makes the following Regulations, in exercis
 
 (9) For the purposes of this regulation, “harm” has the same meaning as in the Children Act 1989[^f00023] and the question of whether harm is significant is to be determined in accordance with section 31(10) of that Act.
 
-## 6. Appeals[^key-1d65b044733dd4081896e5ca08930a15]
+## 6. Appeals[^c-1d65b044733dd4081896e5ca08930a15]
 
 (1) An appeal lies to the First-tier Tribunal[^f00024] against—
 
@@ -160,13 +160,13 @@ The Secretary of State for Education makes the following Regulations, in exercis
 
 (5) If, on an appeal under paragraph (1)(a) or (b), the First-tier Tribunal upholds a decision of the Secretary of State to withdraw approval, the school ceases to be approved under section 342 of the 1996 Act from such date as the First-tier Tribunal may specify or, if it does not specify a date, from such date as the Secretary of State may determine.
 
-## 7. Effect of pending appeals[^key-a65caed59ec242d848a6a965eb4abf66]
+## 7. Effect of pending appeals[^c-a65caed59ec242d848a6a965eb4abf66]
 
 (1) If the Secretary of State withdraws approval from a school under regulation 4(1), the Secretary of State’s decision does not have effect during the period in which an appeal against the decision could be brought, or where an appeal has been brought, the appeal has not been determined, withdrawn or otherwise disposed of.
 
 (2) If an order has been made under regulation 5, such order has effect during the period in which an appeal against the order could be brought, or where an appeal has been brought, the appeal has not been determined, withdrawn or otherwise disposed of.
 
-## 8. Revocations[^key-02285a6226f1a95cd8e567a45f6db6f9]
+## 8. Revocations[^c-02285a6226f1a95cd8e567a45f6db6f9]
 
 The following regulations are revoked—
 
@@ -188,14 +188,14 @@ Regulation 3
 
 ### PART 1 — CONDITIONS OF APPROVAL UNDER SECTION 342(1) OF THE 1996 ACT
 
-#### 1. Special educational provision[^key-0f03dee60f672019affc8c702979f44a]
+#### 1. Special educational provision[^c-0f03dee60f672019affc8c702979f44a]
 
 Arrangements must be made at the school with respect to—
 
 - (a) the registered pupils[^f00028] for whom special educational provision is to be made, categorised by reference to the number, age and sex of day pupils and pupils for whom accommodation is provided respectively, and their respective special educational needs, and
 - (b) the special educational provision to be made for these pupils.
 
-#### 2. Governing body[^key-48b1b824e9b18838591628d6059fc7b4]
+#### 2. Governing body[^c-48b1b824e9b18838591628d6059fc7b4]
 
 (1) The arrangements to be made at the school with respect to the composition and proceedings of the governing body and the appointment or election of its members must meet the requirements set out in sub-paragraph (2).
 
@@ -208,16 +208,16 @@ Arrangements must be made at the school with respect to—
 - (b) that a governor is to hold office for a period of four years from the date of election or appointment, except in the case of a governor who is the head teacher of the school who may hold office as long as that person is the head teacher; and
 - (c) that the governing body must hold at least three meetings in every school year.
 
-#### 3. Welfare of pupils[^key-62129857c16fd634a19ef55171325282]
+#### 3. Welfare of pupils[^c-62129857c16fd634a19ef55171325282]
 
 The proprietor must make arrangements for safeguarding and promoting the health, safety and welfare of registered pupils at the school which—
 
 - (a) have regard to any guidance, including—
-  - (i)[^key-a19a8b764ee66fd90b3bade818864657] where appropriate, the National Minimum Standards, about safeguarding and promoting the health, safety and welfare of pupils, and
-  - (ii)[^key-9bbc3c5598bfc560bb32f3a28f328041] where the school is also a children’s home, the Quality Standards, and
+  - (i)[^c-a19a8b764ee66fd90b3bade818864657] where appropriate, the National Minimum Standards, about safeguarding and promoting the health, safety and welfare of pupils, and
+  - (ii)[^c-9bbc3c5598bfc560bb32f3a28f328041] where the school is also a children’s home, the Quality Standards, and
 - (b) include arrangements actively to promote the fundamental British values of democracy, the rule of law, individual liberty, and mutual respect and tolerance of those with different faiths and beliefs.
 
-#### 4. Suitability of staff and governors[^key-d91ad4b7e4bff6bccec028476cc5fddc]
+#### 4. Suitability of staff and governors[^c-d91ad4b7e4bff6bccec028476cc5fddc]
 
 (1) The suitability of a person who has been appointed to a position, which is not the position of chair of the governing body, must be checked in accordance with sub-paragraphs (3) to (7).
 
@@ -233,7 +233,7 @@ The proprietor must make arrangements for safeguarding and promoting the health,
 
 (5) In the case of any person for whom, by reason of that person living or having lived outside the United Kingdom, obtaining such a certificate is not sufficient to establish the person’s suitability to work in a school, the proprietor must make such further checks as the proprietor considers appropriate, having regard to any guidance issued by the Secretary of State.
 
-(6) In the case of a person who cares for, trains, supervises or is in charge of pupils for whom accommodation is provided, in addition to the matters specified in sub-paragraphs (3) to (5), the proprietor must check that the National Minimum Standards and, where the school is also a children’s home, the Quality Standards,[^key-9d4a2b6797b26d4c273e8b2783917858] are complied with.
+(6) In the case of a person who cares for, trains, supervises or is in charge of pupils for whom accommodation is provided, in addition to the matters specified in sub-paragraphs (3) to (5), the proprietor must check that the National Minimum Standards and, where the school is also a children’s home, the Quality Standards,[^c-9d4a2b6797b26d4c273e8b2783917858] are complied with.
 
 (7) The checks referred to in sub-paragraphs (4) to (6) do not need to be carried out in relation to a person who has worked in—
 
@@ -243,7 +243,7 @@ The proprietor must make arrangements for safeguarding and promoting the health,
 
 during a period which ended not more than three months before the person’s appointment.
 
-#### 5. Suitability of supply staff[^key-fe61f25f4377f41d43035c312a2ed92c]
+#### 5. Suitability of supply staff[^c-fe61f25f4377f41d43035c312a2ed92c]
 
 (1) The suitability of a person supplied by an employment business to the school who is working as a teacher or member of support staff at the school must be checked in accordance with sub-paragraphs (2) to (6).
 
@@ -268,11 +268,11 @@ during a period which ended not more than three months before the person is due 
 
 (5) Before a person offered for supply by an employment business begins work at the school, the proprietor must check the person’s identity (irrespective of whether the employment business carried out such a check before the person was offered for supply).
 
-(6) Except for a person to whom sub-paragraph (4) applies, the proprietor must check that where a person offered for supply to care for, train, supervise or be in charge of pupils for whom accommodation is provided, the National Minimum Standards and, where the school is also a children’s home, the Quality Standards,[^key-8c72adeba1fb498d0136722ec17403b4] are complied with, before that person may begin work at the school.
+(6) Except for a person to whom sub-paragraph (4) applies, the proprietor must check that where a person offered for supply to care for, train, supervise or be in charge of pupils for whom accommodation is provided, the National Minimum Standards and, where the school is also a children’s home, the Quality Standards,[^c-8c72adeba1fb498d0136722ec17403b4] are complied with, before that person may begin work at the school.
 
-#### 6. Suitability of the chair of the governing body[^key-7e74ad3d988448d58e105e06465fef27]
+#### 6. Suitability of the chair of the governing body[^c-7e74ad3d988448d58e105e06465fef27]
 
-(1) A person may only be appointed chair of the governing body of a school if the requirements of sub-paragraphs (2), (3), (4), (5) and (6)[^key-436b8d5922a8dd8737227069c260f5ea] are satisfied.
+(1) A person may only be appointed chair of the governing body of a school if the requirements of sub-paragraphs (2), (3), (4), (5) and (6)[^c-436b8d5922a8dd8737227069c260f5ea] are satisfied.
 
 (2) Checks must have been made that the individual—
 
@@ -281,18 +281,18 @@ during a period which ended not more than three months before the person is due 
 
 (3) The Secretary of State must make the following checks relating to the individual —
 
-- (a)[^key-51575a37d554f49a86ab1e4b4ca4ec02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-853a8897f53753e43d28589fdf4b80f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-51575a37d554f49a86ab1e4b4ca4ec02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-853a8897f53753e43d28589fdf4b80f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the case of an individual, for whom by reason of that individual living or having lived outside the United Kingdom, obtaining an enhanced criminal record certificate is not sufficient to establish the individual’s suitability to work in a school, such further checks as the Secretary of State considers appropriate.
 
-(4)[^key-d671cfd442a054e845f8793770fbed8b] The Secretary of State receives confirmation that, where relevant to the individual, an enhanced criminal record check has been made relating to the individual—
+(4)[^c-d671cfd442a054e845f8793770fbed8b] The Secretary of State receives confirmation that, where relevant to the individual, an enhanced criminal record check has been made relating to the individual—
 
 - (a) which is countersigned by the Secretary of State or by or on behalf of another registered person who is asked to arrange countersignature of the application by the Secretary of State; or
 - (b) which is transmitted by or on behalf of a registered person who is asked to arrange transmission of the application by the Secretary of State;
 
 and, where an enhanced criminal record check is made, the Secretary of State either obtains an enhanced criminal record certificate relating to the individual or confirms to the individual that no certificate is required to be provided to the Secretary of State.
 
-(5)[^key-ddf84fe338e03c57a2d848a79a5c137d] The Secretary of State—
+(5)[^c-ddf84fe338e03c57a2d848a79a5c137d] The Secretary of State—
 
 - (a) makes checks confirming the individual’s identity; or
 - (b) requests the individual or another person that checks are made for the purposes of confirming the individual’s identity, and following that request, evidence is provided to the satisfaction of the Secretary of State that the individual is in fact the person with the particular identity that the individual claims to have; and
@@ -304,7 +304,7 @@ and, where an enhanced criminal record check is made, the Secretary of State eit
 - (b) requests the individual or another person that checks are made for the purposes of confirming that the individual has the right to work in the United Kingdom, and following that request, evidence is provided to the satisfaction of the Secretary of State that the individual has that right; and
 - (c) notifies the individual that the Secretary of State is satisfied that the individual has that right.
 
-#### 7. Register of checks[^key-990ec1db2d4112d516501da68ead023b]
+#### 7. Register of checks[^c-990ec1db2d4112d516501da68ead023b]
 
 (1) A register of checks containing the information referred to in sub-paragraphs (3), (4) and (6) must be maintained by the proprietor.
 
@@ -335,35 +335,35 @@ and, where an enhanced criminal record check is made, the Secretary of State eit
   together with the date the written notification that each such check was made, or certificate obtained, was received; and
 - (b) where written notification has been received from the employment business that it has obtained an enhanced criminal record certificate, whether the employment business supplied a copy of the certificate to the school.
 
-#### 8. Financial interests[^key-7c0892bbf5fe54f2452dbd86e7ccbb5e]
+#### 8. Financial interests[^c-7c0892bbf5fe54f2452dbd86e7ccbb5e]
 
 (1) The school is not conducted for profit.
 
 (2) No member of the staff may have a financial interest in the school other than by reason of receiving a salary that is unrelated to the financial performance of the school.
 
-#### 9. Financial viability[^key-cd291a343230f103345c9f7cac74faeb]
+#### 9. Financial viability[^c-cd291a343230f103345c9f7cac74faeb]
 
 The school is financially viable and the proprietor produces evidence relating to this, upon request by the Secretary of State.
 
-#### 10. Premises[^key-13bc3d4069b76f16ebcdc051e2752bb9]
+#### 10. Premises[^c-13bc3d4069b76f16ebcdc051e2752bb9]
 
 (1) The premises of the school conform to the standards applicable to maintained special schools prescribed in regulations from time to time in force under section 542 of the 1996 Act[^f00029].
 
 (2) If the Secretary of State is satisfied that it would be unreasonable to require conformity with any of the standards applicable to maintained special schools prescribed in regulations in force under section 542 of the 1996 Act, the Secretary of State may direct that different standards apply.
 
-#### 11. Fire safety[^key-80306e7c36dfdb59801c92dcf33aaf78]
+#### 11. Fire safety[^c-80306e7c36dfdb59801c92dcf33aaf78]
 
 The Regulatory Reform (Fire Safety) Order 2005[^f00030] is complied with.
 
 ### PART 2 — Requirements to be complied with by a school while approved under section 342(1) of the 1996 Act
 
-#### 12. Special educational provision[^key-cbc2c189071a5c22ac44b974ad2838c9]
+#### 12. Special educational provision[^c-cbc2c189071a5c22ac44b974ad2838c9]
 
 (1) The arrangements made at the school with respect to the matters referred to in paragraph 1 are in accordance with the approval given by the Secretary of State.
 
 (2) Where, at any time, a change is proposed in relation to the arrangements at a school under paragraph 1, the proprietor must give written notice of the proposed change to the Secretary of State, and no proposed change in arrangements may take effect unless it is approved by the Secretary of State.
 
-#### 13. Governing body[^key-33f8b850e16b273df24477b2dda25659]
+#### 13. Governing body[^c-33f8b850e16b273df24477b2dda25659]
 
 (1) The arrangements to be made at the school with respect to the matters referred to in paragraph 2(1) are in accordance with the approval given by the Secretary of State, and meet the requirements in paragraph 2(2).
 
@@ -374,58 +374,58 @@ The Regulatory Reform (Fire Safety) Order 2005[^f00030] is complied with.
 - (a) it is approved by the Secretary of State, and
 - (b) the arrangements comply with paragraph 2(2).
 
-#### 14. Welfare of pupils[^key-0af7039377f5391f9cca5b63c4407d26]
+#### 14. Welfare of pupils[^c-0af7039377f5391f9cca5b63c4407d26]
 
 (1) The arrangements at the school with respect to the matters referred to in paragraph 3 are in accordance with the approval given by the Secretary of State.
 
-(2) In relation to the pupils for whom it provides accommodation (including any pupils accommodated during school holidays), the school complies with—[^key-b3412fac7abb72401b12d1e409003e16]
+(2) In relation to the pupils for whom it provides accommodation (including any pupils accommodated during school holidays), the school complies with—[^c-b3412fac7abb72401b12d1e409003e16]
 
 - (a) National Minimum Standards in relation to—
   - (i) safeguarding and promoting the health, safety and welfare of such pupils; and
   - (ii) adequate and suitable deployment of staff; and
 - (b) where the school is also a children’s home the Quality Standards.
 
-#### 15. Suitability of staff[^key-11e0517f17f51127e2021678923de5ee]
+#### 15. Suitability of staff[^c-11e0517f17f51127e2021678923de5ee]
 
 A person must not be appointed to a position at the school unless the checks referred to in paragraph 4(3) to (6) have been carried out in relation to that person.
 
-#### 16. Suitability of supply staff[^key-69079b2145e8b19b1ad2961a6e547e71]
+#### 16. Suitability of supply staff[^c-69079b2145e8b19b1ad2961a6e547e71]
 
 Where supply staff are employed at the school, paragraph 5(2), (3), (5) and (6) must be complied with.
 
-#### 17. Suitability of the chair of the governing body[^key-bd8398a1e3d11f167d9ad3be815ea4e2]
+#### 17. Suitability of the chair of the governing body[^c-bd8398a1e3d11f167d9ad3be815ea4e2]
 
-A person must not be appointed as chair of the governing body unless the checks referred to in paragraph 6(2), (3), (4), (5) and (6)[^key-b38f0baa5f1a4a6eefc9ae51e7e96dc8] have been carried out in relation to that person.
+A person must not be appointed as chair of the governing body unless the checks referred to in paragraph 6(2), (3), (4), (5) and (6)[^c-b38f0baa5f1a4a6eefc9ae51e7e96dc8] have been carried out in relation to that person.
 
-#### 18. Register of checks[^key-7405d1ee6fe6af8cf85c7b75fd205eed]
+#### 18. Register of checks[^c-7405d1ee6fe6af8cf85c7b75fd205eed]
 
 (1) A register is maintained that meets the requirements set out in paragraph 7(3), (4) and (6).
 
 (2) The register required to be maintained under this paragraph may be maintained in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
 
-#### 19. Financial interests[^key-3cdf667e254ef1fdc79d5df2bdff527c]
+#### 19. Financial interests[^c-3cdf667e254ef1fdc79d5df2bdff527c]
 
 (1) The school is not conducted for profit.
 
 (2) No member of the staff may have a financial interest in the school other than by reason of receiving a salary that is unrelated to the financial performance of the school.
 
-#### 20. Premises[^key-8a5b8dcd81caaf235e87f14b5d74b48c]
+#### 20. Premises[^c-8a5b8dcd81caaf235e87f14b5d74b48c]
 
 (1) The premises of the school conform to the standards applicable to maintained special schools prescribed in regulations from time to time in force under section 542 of the 1996 Act.
 
 (2) If the Secretary of State has directed that different standards apply in accordance with paragraph 10(2), the premises conform to the standards specified in the direction for as long as the direction remains in force.
 
-#### 21. Fire safety[^key-3843ae3db635c1050bcb7ce7cd3cbaf2]
+#### 21. Fire safety[^c-3843ae3db635c1050bcb7ce7cd3cbaf2]
 
 The Regulatory Reform (Fire Safety) Order 2005 is complied with.
 
-#### 22. Admissions and special educational provision[^key-84708d74035d25ecbf27a2bf392042ef]
+#### 22. Admissions and special educational provision[^c-84708d74035d25ecbf27a2bf392042ef]
 
 (1) A pupil may only be admitted to a school if that pupil falls within the arrangements approved for that school in relation to the categories referred to in paragraph 1(a).
 
 (2) The special educational provision made under the arrangements referred to in paragraph 1(b) must be suitable for the registered pupils at the school having regard to their different ages, abilities and aptitudes and any special educational needs they may have, and constitute an efficient use of resources.
 
-#### 23. Health of pupils[^key-a9471f7ff2a093a8c248b5410c855aae]
+#### 23. Health of pupils[^c-a9471f7ff2a093a8c248b5410c855aae]
 
 The proprietor must make arrangements —
 
@@ -433,7 +433,7 @@ The proprietor must make arrangements —
 - (b) for the medical and dental inspection of the pupils at appropriate intervals, and for their medical and dental treatment, and
 - (c) for the maintenance of medical and dental records.
 
-#### 24. Religious education and religious worship[^key-86718995ff5effe5b2b150309a1e709f]
+#### 24. Religious education and religious worship[^c-86718995ff5effe5b2b150309a1e709f]
 
 The proprietor must make arrangements to ensure, so far as practicable, that every registered pupil at the school—
 
@@ -442,7 +442,7 @@ The proprietor must make arrangements to ensure, so far as practicable, that eve
   - (i) in the case of a sixth-form pupil, in accordance with the pupil’s own wishes, or
   - (ii) in any other case, in accordance with the wishes of the pupil’s parent.
 
-#### 25. Relationships, sex and health education[^key-8730e326475596dae27d8f8eacf4787c]
+#### 25. Relationships, sex and health education[^c-8730e326475596dae27d8f8eacf4787c]
 
 (1) The proprietor must make arrangements to ensure that—
 
@@ -463,7 +463,7 @@ The proprietor must make arrangements to ensure, so far as practicable, that eve
 
 **25A.** Arrangements under paragraph 25(1)(b) must ensure that where a pupil’s parent requests that the pupil is wholly or partly excused from sex education provided as part of relationships and sex education, the pupil is so excused until the request is withdrawn, unless or to the extent that the head teacher considers that the pupil should not be so excused.
 
-#### 26. Meals and refreshments[^key-779d42f33134e9f0afb2f5404c0c9943]
+#### 26. Meals and refreshments[^c-779d42f33134e9f0afb2f5404c0c9943]
 
 (1) The proprietor must provide school lunches and free school lunches in accordance with the provisions of section 512 and 512ZB(1) of the 1996 Act as if references in those sections to a local authority were to the proprietor and as if references to a school maintained by the local authority were to a non-maintained special school.
 
@@ -473,7 +473,7 @@ The proprietor must make arrangements to ensure, so far as practicable, that eve
 
 (4) The requirements applicable to maintained schools prescribed in regulations under section 114A of the Schools Standards and Framework Act 1998[^f00031] must be complied with, as if references to a local authority were to the proprietor and as if references to a school maintained by the local authority were to a non-maintained special school.
 
-#### 27. Incident books and records[^key-5648224db70d57f82db91f8d654f40a7]
+#### 27. Incident books and records[^c-5648224db70d57f82db91f8d654f40a7]
 
 (1) The proprietor must keep an incident book which records—
 
@@ -486,7 +486,7 @@ and may record any other incidents and matters.
 
 (3) The incident book referred to in sub-paragraph (1) and the record referred to in sub-paragraph (2) may be kept in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
 
-#### 27A. Reporting and recording of use of force, seclusion and restraint[^key-6625f2e602074450d9ebeea73bdff99c]
+#### 27A. Reporting and recording of use of force, seclusion and restraint[^c-6625f2e602074450d9ebeea73bdff99c]
 
 (1) The proprietor must—
 
@@ -525,26 +525,26 @@ and may record any other incidents and matters.
 - “**parent**”, in relation to a pupil, has the meaning given by section 576 of the 1996 Act in relation to a child or young person, but includes a local authority who provide accommodation for the pupil under section 20 of the Children Act 1989 or section 76 of the Social Services and Well-being (Wales) Act 2014;
 - “**staff**” includes supply staff and volunteers.
 
-#### 28. Co-operation with local authorities[^key-f1a2bd431ef27ffe39afdf8e816208f8]
+#### 28. Co-operation with local authorities[^c-f1a2bd431ef27ffe39afdf8e816208f8]
 
 (1) The proprietor must —
 
 - (a) co-operate with a local authority which arranges for pupils to attend the school in relation to any registered pupil in respect of whom a local authority maintains an EHC plan or a statement under section 328 of the 1996 Act, and
 - (b) allow access to the school at all reasonable times, to a person authorised by the local authority.
 
-#### 29. Accounts[^key-00b0758f7b1db84f084cbc999ef42080]
+#### 29. Accounts[^c-00b0758f7b1db84f084cbc999ef42080]
 
 (1) The school is financially viable and the proprietor produces evidence relating to this, upon request by the Secretary of State.
 
 (2) A copy of the annual statement of accounts for the last year for which it is available must, on request, be sent to any local authority which arranges for pupils to attend the school.
 
-#### 30. Reports and returns[^key-4fda158be8dc7cde5554e5751fc9b743]
+#### 30. Reports and returns[^c-4fda158be8dc7cde5554e5751fc9b743]
 
 (1) The proprietor must send to the Secretary of State any reports, returns or other information relating to the school as requested by the Secretary of State, within the timescale specified in the request.
 
 (2) The proprietor must report the death and the cause of death (if known) of any registered pupil to the Secretary of State in writing as soon as is reasonably practicable after the death has occurred.
 
-#### 31. Complaints[^key-96665bb4391196b3d83d8b7dd18b07b8]
+#### 31. Complaints[^c-96665bb4391196b3d83d8b7dd18b07b8]
 
 The proprietor must make arrangements for a complaints procedure which—
 
@@ -575,11 +575,11 @@ The proprietor must make arrangements for a complaints procedure which—
 
   requests access to them.
 
-#### 32. Inspection reports[^key-d1f412a9972fe2fcf12e5445d57cbef5]
+#### 32. Inspection reports[^c-d1f412a9972fe2fcf12e5445d57cbef5]
 
 Following an inspection under section 87(6) of the Children Act 1989, the proprietor must send a copy of any report of that inspection to the parents of any registered pupil for whom the school provides accommodation.
 
-#### 33. Prospectus[^key-8b4efbdabe996cbb0fd69b1b80a84892]
+#### 33. Prospectus[^c-8b4efbdabe996cbb0fd69b1b80a84892]
 
 (1) The proprietor must prepare and publish a prospectus in advance of each school year providing information about the school in relation to the school year in question.
 
@@ -587,7 +587,7 @@ Following an inspection under section 87(6) of the Children Act 1989, the propri
 
 (3) The prospectus referred to in sub-paragraph (1) may be kept in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
 
-#### 34. Temporary arrangements[^key-6d90210ab4e2fb0f42d74c63795d0195]
+#### 34. Temporary arrangements[^c-6d90210ab4e2fb0f42d74c63795d0195]
 
 Where notice has been given under regulation 4(2)(a) and the Secretary of State has approved relevant temporary arrangements and directed that the proprietor put them into operation, those temporary arrangements must operate pending compliance with the requirements specified in the notice.
 
@@ -617,9 +617,9 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56); section 342A was inserted by section 144, and sections 342A and 342B were inserted by section 145, of the Education and Skills Act 2008 (“the 2008 Act”) (c.25). For the meanings of “prescribed” and “regulations”, see section 579(1) of the Education Act 1996 (“the 1996 Act”).
 
-[^key-e25dbf3c22ded725962892f5252a600b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/728/regulation/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-e25dbf3c22ded725962892f5252a600b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/728/regulation/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-36b0b49cfebf14cf3bbf655802bdad66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/728/regulation/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-36b0b49cfebf14cf3bbf655802bdad66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/728/regulation/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
@@ -629,7 +629,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00005]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-8fbf9f3f42c4ab2590958b19556def28]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/728/regulation/2) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/2/b)
+[^c-8fbf9f3f42c4ab2590958b19556def28]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/728/regulation/2) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/2/b)
 
 [^f00006]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
 
@@ -645,19 +645,19 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00012]: Footnote: The National Minimum Standards relating to residential special schools are available at https://www.gov.uk/government/publications/residential-special-schools-national-minimum-standards.
 
-[^key-d586115a73f35fa01bd8466c222cbed3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/1) substituted (5.9.2022) by [The Independent School Standards and Non-Maintained Special Schools (England) (Amendment) Regulations 2022 (S.I. 2022/905)](https://www.legislation.gov.uk/uksi/2022/905), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/905/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/905/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/905/regulation/4))
+[^c-d586115a73f35fa01bd8466c222cbed3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/1) substituted (5.9.2022) by [The Independent School Standards and Non-Maintained Special Schools (England) (Amendment) Regulations 2022 (S.I. 2022/905)](https://www.legislation.gov.uk/uksi/2022/905), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/905/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/905/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/905/regulation/4))
 
 [^f00013]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); Section 87C was inserted by section 107 of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) (“the 2000 Act”).
 
-[^key-9b9261639f6118fc7ca1f163e310c9d2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/728/regulation/2) omitted (1.9.2018) by virtue of [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/2/a/ii)
+[^c-9b9261639f6118fc7ca1f163e310c9d2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/728/regulation/2) omitted (1.9.2018) by virtue of [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/2/a/ii)
 
-[^key-af7bb92891d5b9af148b5cc5561564a7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/1) inserted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/2/a)
+[^c-af7bb92891d5b9af148b5cc5561564a7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/1) inserted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/2/a)
 
 [^f00016]: Footnote: Section 116A was inserted by section 83 of the 2012 Act and amended by articles 36 and 37(g) of the Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 ([S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006)).
 
 [^f00017]: Footnote: Section 113BB was inserted by section 63(1) of, and paragraph 14(1) and (4) of Schedule 9 to, the 2006 Act.
 
-[^key-ed93bd3e31687085778ddd3a80714dca]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/2/a) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/2/b)
+[^c-ed93bd3e31687085778ddd3a80714dca]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/2/a) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/2/b)
 
 [^f00018]: Footnote: The relevant regulations are the Education (School Teachers’ Qualifications (England) Regulations 2003 ([S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662)), amended by [S.I. 2007/2782](https://www.legislation.gov.uk/uksi/2007/2782) and [2009/3156](https://www.legislation.gov.uk/uksi/2009/3156); and the Education (Specified Work and Registration) (England) Regulations 2003 ([S.I. 2003/1663](https://www.legislation.gov.uk/uksi/2003/1663)), amended by [S.I. 2007/2117](https://www.legislation.gov.uk/uksi/2007/2117).
 
@@ -665,130 +665,130 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00020]: Footnote: The relevant regulations are the Education (Health Standards) (England) Regulations 2003 ([S.I. 2003/3139](https://www.legislation.gov.uk/uksi/2003/3139)).
 
-[^key-7957cf51c4cdc5fdc926f98f5504a0e5]: Textual amendment: Word in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/5) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/2/c)
+[^c-7957cf51c4cdc5fdc926f98f5504a0e5]: Textual amendment: Word in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/728/regulation/2/5) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/2/c)
 
 [^f00021]: Footnote: [2012 c.9](https://www.legislation.gov.uk/ukpga/2012/9); and came into force on 1st May 2012 .
 
-[^key-03930ba37d2b6a2f7626518e54ba36aa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/728/regulation/3) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-03930ba37d2b6a2f7626518e54ba36aa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/728/regulation/3) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00022]: Footnote: Section 337A of the 1996 Act (substituted by section 142(1) of the 2008 Act) provides that the Secretary of State is the appropriate national authority in relation to a non-maintained special school in England.
 
-[^key-dd9de7592d089fab34135f3995aef16e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/728/regulation/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-dd9de7592d089fab34135f3995aef16e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/728/regulation/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-02f0793bc7f6090c9ee064f96ba75a39]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/728/regulation/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-02f0793bc7f6090c9ee064f96ba75a39]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/728/regulation/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00023]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-1d65b044733dd4081896e5ca08930a15]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/728/regulation/6) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-1d65b044733dd4081896e5ca08930a15]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/728/regulation/6) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00024]: Footnote: The First-Tier Tribunal is established under section 3 of the Tribunals, Courts and Enforcements Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
 [^f00025]: Footnote: For the meaning of “relevant arrangements” see section 342B of the 1996 Act.
 
-[^key-a65caed59ec242d848a6a965eb4abf66]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/728/regulation/7) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-a65caed59ec242d848a6a965eb4abf66]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/728/regulation/7) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-02285a6226f1a95cd8e567a45f6db6f9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/728/regulation/8) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-02285a6226f1a95cd8e567a45f6db6f9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/728/regulation/8) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2011/1627](https://www.legislation.gov.uk/uksi/2011/1627).
 
 [^f00027]: Footnote: [S.I. 2015/387](https://www.legislation.gov.uk/uksi/2015/387).
 
-[^key-0f03dee60f672019affc8c702979f44a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-0f03dee60f672019affc8c702979f44a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/1) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00028]: Footnote: For the meaning of “registered pupil” see section 434(5) of the 1996 Act.
 
-[^key-48b1b824e9b18838591628d6059fc7b4]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-48b1b824e9b18838591628d6059fc7b4]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/2) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-62129857c16fd634a19ef55171325282]: Commencement: Sch. para. 3 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-62129857c16fd634a19ef55171325282]: Commencement: Sch. para. 3 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-a19a8b764ee66fd90b3bade818864657]: Textual amendment: Sch. para. 3(a) renumbered as Sch. para. 3(a)(i) (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/a/i)
+[^c-a19a8b764ee66fd90b3bade818864657]: Textual amendment: Sch. para. 3(a) renumbered as Sch. para. 3(a)(i) (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/a/i)
 
-[^key-9bbc3c5598bfc560bb32f3a28f328041]: Textual amendment: Sch. para. 3(a)(ii) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/a/ii)
+[^c-9bbc3c5598bfc560bb32f3a28f328041]: Textual amendment: Sch. para. 3(a)(ii) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/a/ii)
 
-[^key-d91ad4b7e4bff6bccec028476cc5fddc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-d91ad4b7e4bff6bccec028476cc5fddc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/4) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-9d4a2b6797b26d4c273e8b2783917858]: Textual amendment: Words in [Sch. para. 4(6)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/4/6) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/b)
+[^c-9d4a2b6797b26d4c273e8b2783917858]: Textual amendment: Words in [Sch. para. 4(6)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/4/6) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/b)
 
-[^key-fe61f25f4377f41d43035c312a2ed92c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-fe61f25f4377f41d43035c312a2ed92c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/5) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-8c72adeba1fb498d0136722ec17403b4]: Textual amendment: Words in [Sch. para. 5(6)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/5/6) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/b)
+[^c-8c72adeba1fb498d0136722ec17403b4]: Textual amendment: Words in [Sch. para. 5(6)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/5/6) inserted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/b)
 
-[^key-7e74ad3d988448d58e105e06465fef27]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-7e74ad3d988448d58e105e06465fef27]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-436b8d5922a8dd8737227069c260f5ea]: Textual amendment: Words in [Sch. para. 6(1)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/1) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/a)
+[^c-436b8d5922a8dd8737227069c260f5ea]: Textual amendment: Words in [Sch. para. 6(1)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/1) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/a)
 
-[^key-51575a37d554f49a86ab1e4b4ca4ec02]: Textual amendment: [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/3/a) omitted (1.11.2021) by virtue of [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/b)
+[^c-51575a37d554f49a86ab1e4b4ca4ec02]: Textual amendment: [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/3/a) omitted (1.11.2021) by virtue of [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/b)
 
-[^key-853a8897f53753e43d28589fdf4b80f8]: Textual amendment: [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/3/b) omitted (1.11.2021) by virtue of [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/b)
+[^c-853a8897f53753e43d28589fdf4b80f8]: Textual amendment: [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/3/b) omitted (1.11.2021) by virtue of [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/b)
 
-[^key-d671cfd442a054e845f8793770fbed8b]: Textual amendment: [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/4) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/c)
+[^c-d671cfd442a054e845f8793770fbed8b]: Textual amendment: [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/4) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/c)
 
-[^key-ddf84fe338e03c57a2d848a79a5c137d]: Textual amendment: [Sch. paras. 6(5)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/6) inserted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/d)
+[^c-ddf84fe338e03c57a2d848a79a5c137d]: Textual amendment: [Sch. paras. 6(5)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/6/6) inserted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/3/d)
 
-[^key-990ec1db2d4112d516501da68ead023b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/7) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-990ec1db2d4112d516501da68ead023b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/7) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-7c0892bbf5fe54f2452dbd86e7ccbb5e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/8) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-7c0892bbf5fe54f2452dbd86e7ccbb5e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/8) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-cd291a343230f103345c9f7cac74faeb]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/9) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-cd291a343230f103345c9f7cac74faeb]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/9) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-13bc3d4069b76f16ebcdc051e2752bb9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/10) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-13bc3d4069b76f16ebcdc051e2752bb9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/10) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00029]: Footnote: Section 542 has been amended by section 140(1) and (3) of, and Schedule 30, paragraph 158 and Schedule 31 to, the 1998 Act and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). The current regulations are the School Premises (England) Regulations 2012 ([S.I. 2012/1943](https://www.legislation.gov.uk/uksi/2012/1943)).
 
-[^key-80306e7c36dfdb59801c92dcf33aaf78]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/11) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-80306e7c36dfdb59801c92dcf33aaf78]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/11) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541), to which there are amendments not relevant to these Regulations.
 
-[^key-cbc2c189071a5c22ac44b974ad2838c9]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/12) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-cbc2c189071a5c22ac44b974ad2838c9]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/12) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-33f8b850e16b273df24477b2dda25659]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/13) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-33f8b850e16b273df24477b2dda25659]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/13) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-0af7039377f5391f9cca5b63c4407d26]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/14) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-0af7039377f5391f9cca5b63c4407d26]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/14) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-b3412fac7abb72401b12d1e409003e16]: Textual amendment: Words in [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/14/2) substituted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/c)
+[^c-b3412fac7abb72401b12d1e409003e16]: Textual amendment: Words in [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/14/2) substituted (1.9.2018) by [The Independent Educational Provision in England (Provision of Information) and Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2018 (S.I. 2018/901)](https://www.legislation.gov.uk/uksi/2018/901), [regs. 1](https://www.legislation.gov.uk/uksi/2018/901/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2018/901/regulation/10/3/c)
 
-[^key-11e0517f17f51127e2021678923de5ee]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/15) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-11e0517f17f51127e2021678923de5ee]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/15) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-69079b2145e8b19b1ad2961a6e547e71]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/16) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-69079b2145e8b19b1ad2961a6e547e71]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/16) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-bd8398a1e3d11f167d9ad3be815ea4e2]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/17) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-bd8398a1e3d11f167d9ad3be815ea4e2]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/17) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-b38f0baa5f1a4a6eefc9ae51e7e96dc8]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/17) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/4)
+[^c-b38f0baa5f1a4a6eefc9ae51e7e96dc8]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/17) substituted (1.11.2021) by [The Non-Maintained Special Schools (England) and Independent School Standards (Amendment) Regulations 2021 (S.I. 2021/1124)](https://www.legislation.gov.uk/uksi/2021/1124), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1124/regulation/2/4)
 
-[^key-7405d1ee6fe6af8cf85c7b75fd205eed]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/18) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-7405d1ee6fe6af8cf85c7b75fd205eed]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/18) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-3cdf667e254ef1fdc79d5df2bdff527c]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/19) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-3cdf667e254ef1fdc79d5df2bdff527c]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/19) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-8a5b8dcd81caaf235e87f14b5d74b48c]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/20) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-8a5b8dcd81caaf235e87f14b5d74b48c]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/20) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-3843ae3db635c1050bcb7ce7cd3cbaf2]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/21) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-3843ae3db635c1050bcb7ce7cd3cbaf2]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/21) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-84708d74035d25ecbf27a2bf392042ef]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/22) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-84708d74035d25ecbf27a2bf392042ef]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/22) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-a9471f7ff2a093a8c248b5410c855aae]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/23) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-a9471f7ff2a093a8c248b5410c855aae]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/23) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-86718995ff5effe5b2b150309a1e709f]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/24) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-86718995ff5effe5b2b150309a1e709f]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/24) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-8730e326475596dae27d8f8eacf4787c]: Textual amendment: [Sch. paras. 25](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/25), [25A](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/25A) substituted for sch. para. 25 (1.9.2020) by [The Relationships Education, Relationships and Sex Education and Health Education (England) Regulations 2019 (S.I. 2019/924)](https://www.legislation.gov.uk/uksi/2019/924), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/924/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/924/schedule/paragraph/13)
+[^c-8730e326475596dae27d8f8eacf4787c]: Textual amendment: [Sch. paras. 25](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/25), [25A](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/25A) substituted for sch. para. 25 (1.9.2020) by [The Relationships Education, Relationships and Sex Education and Health Education (England) Regulations 2019 (S.I. 2019/924)](https://www.legislation.gov.uk/uksi/2019/924), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/924/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/924/schedule/paragraph/13)
 
-[^key-779d42f33134e9f0afb2f5404c0c9943]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/26) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-779d42f33134e9f0afb2f5404c0c9943]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/26) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
 [^f00031]: Footnote: Section 114A was inserted by section 86(1) of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40) and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Regulations currently in force are the Requirements for School Food Regulations 2014 ([S.I. 2014/1603](https://www.legislation.gov.uk/uksi/2014/1603)).
 
-[^key-5648224db70d57f82db91f8d654f40a7]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/27) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-5648224db70d57f82db91f8d654f40a7]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/27) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-6625f2e602074450d9ebeea73bdff99c]: Textual amendment: [Sch. para. 27A](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/27A) inserted (1.4.2026) by [The Schools (Recording and Reporting of Seclusion and Restraint) (No. 2) (England) Regulations 2025 (S.I. 2025/1348)](https://www.legislation.gov.uk/uksi/2025/1348), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/8/2)
+[^c-6625f2e602074450d9ebeea73bdff99c]: Textual amendment: [Sch. para. 27A](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/27A) inserted (1.4.2026) by [The Schools (Recording and Reporting of Seclusion and Restraint) (No. 2) (England) Regulations 2025 (S.I. 2025/1348)](https://www.legislation.gov.uk/uksi/2025/1348), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/8/2)
 
-[^key-f1a2bd431ef27ffe39afdf8e816208f8]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/28) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-f1a2bd431ef27ffe39afdf8e816208f8]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/28) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-00b0758f7b1db84f084cbc999ef42080]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/29) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-00b0758f7b1db84f084cbc999ef42080]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/29) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-4fda158be8dc7cde5554e5751fc9b743]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/30) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-4fda158be8dc7cde5554e5751fc9b743]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/30) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-96665bb4391196b3d83d8b7dd18b07b8]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/31) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-96665bb4391196b3d83d8b7dd18b07b8]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/31) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-d1f412a9972fe2fcf12e5445d57cbef5]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/32) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-d1f412a9972fe2fcf12e5445d57cbef5]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/32) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-8b4efbdabe996cbb0fd69b1b80a84892]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/33) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-8b4efbdabe996cbb0fd69b1b80a84892]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/33) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
 
-[^key-6d90210ab4e2fb0f42d74c63795d0195]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/34) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)
+[^c-6d90210ab4e2fb0f42d74c63795d0195]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2015/728/schedule/paragraph/34) in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/728/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 269A. Cases with non-concurrent officer service between periods of practitioner service[^key-dd583ed3d9491bd7c93d0a60ddb9e0c3]
+## 269A. Cases with non-concurrent officer service between periods of practitioner service[^c-dd583ed3d9491bd7c93d0a60ddb9e0c3]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ the reference amount in respect of such part of that officer service that is not
 
 ## Annotations
 
-[^key-dd583ed3d9491bd7c93d0a60ddb9e0c3]: Textual amendment: [Reg. 269A](https://www.legislation.gov.uk/nisr/2008/256/regulation/269A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [101](https://www.legislation.gov.uk/nisr/2010/22/regulation/101)
+[^c-dd583ed3d9491bd7c93d0a60ddb9e0c3]: Textual amendment: [Reg. 269A](https://www.legislation.gov.uk/nisr/2008/256/regulation/269A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [101](https://www.legislation.gov.uk/nisr/2010/22/regulation/101)

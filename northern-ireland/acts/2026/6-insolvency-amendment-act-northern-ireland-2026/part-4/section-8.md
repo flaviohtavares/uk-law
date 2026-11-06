@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Abolition of requirements to hold meetings: individual insolvency[^key-b2b7d9dde16933f8bcba19a89653ba1d]
+## 8. Abolition of requirements to hold meetings: individual insolvency[^c-b2b7d9dde16933f8bcba19a89653ba1d]
 
 *Extent: N.I.*
 
@@ -141,4 +141,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2b7d9dde16933f8bcba19a89653ba1d]: Commencement: S. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b2b7d9dde16933f8bcba19a89653ba1d]: Commencement: S. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

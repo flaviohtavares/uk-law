@@ -35,7 +35,7 @@ An Act to require proposals to be drawn up for the use of alternative dispute re
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Resolution of compensation disputes in electricity-related land acquisition cases[^key-36b6549954a6f8197d66e6c3852cfc0b]
+## 1. Resolution of compensation disputes in electricity-related land acquisition cases[^c-36b6549954a6f8197d66e6c3852cfc0b]
 
 (1) The Secretary of State must draw up proposals for the use of alternative dispute resolution processes in electricity-related land acquisition cases.
 
@@ -59,7 +59,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (6) Before laying the report the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
-## 2. Extent, commencement and short title[^key-aec48449dc12c1512fbff1c078dc4977]
+## 2. Extent, commencement and short title[^c-aec48449dc12c1512fbff1c078dc4977]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -69,6 +69,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-36b6549954a6f8197d66e6c3852cfc0b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/19/section/1) in force at 24.7.2023, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2023/19/section/2/2)
+[^c-36b6549954a6f8197d66e6c3852cfc0b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/19/section/1) in force at 24.7.2023, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2023/19/section/2/2)
 
-[^key-aec48449dc12c1512fbff1c078dc4977]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/19/section/2) in force at 24.7.2023, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2023/19/section/2/2)
+[^c-aec48449dc12c1512fbff1c078dc4977]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/19/section/2) in force at 24.7.2023, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2023/19/section/2/2)

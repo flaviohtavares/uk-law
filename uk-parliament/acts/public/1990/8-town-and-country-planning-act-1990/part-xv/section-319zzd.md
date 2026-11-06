@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 319ZZD. Size and composition of committee discharging functions[^key-b4ec12d87e84f3c78c0122716477fc2a]
+## 319ZZD. Size and composition of committee discharging functions[^c-b4ec12d87e84f3c78c0122716477fc2a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4ec12d87e84f3c78c0122716477fc2a]: Textual amendment: Ss. 319ZZC-319ZZF and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/1), [118(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/c/i) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-b4ec12d87e84f3c78c0122716477fc2a]: Textual amendment: Ss. 319ZZC-319ZZF and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/1), [118(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/c/i) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

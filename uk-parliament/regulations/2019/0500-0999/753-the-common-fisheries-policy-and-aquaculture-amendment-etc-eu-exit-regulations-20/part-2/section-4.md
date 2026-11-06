@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Council Regulation [(EC) No 2115/2005](https://www.legislation.gov.uk/eur/2005/2115) establishing a recovery plan for Greenland halibut in the framework of the Northwest Atlantic Fisheries Organisation[^key-3b2bb283a772c4d7c2a45310e9abd55c]
+## 4. Council Regulation [(EC) No 2115/2005](https://www.legislation.gov.uk/eur/2005/2115) establishing a recovery plan for Greenland halibut in the framework of the Northwest Atlantic Fisheries Organisation[^c-3b2bb283a772c4d7c2a45310e9abd55c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2bb283a772c4d7c2a45310e9abd55c]: Textual amendment: Reg. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b2bb283a772c4d7c2a45310e9abd55c]: Textual amendment: Reg. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

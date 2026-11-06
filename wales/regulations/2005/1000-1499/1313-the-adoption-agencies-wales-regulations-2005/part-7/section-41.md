@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Preservation of case records[^key-3778e079cebe62b2aa4b414cc399ac47]
+## 41. Preservation of case records[^c-3778e079cebe62b2aa4b414cc399ac47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where an adoption order is made in relation to a child the adoption agency must 
 
 ## Annotations
 
-[^key-3778e079cebe62b2aa4b414cc399ac47]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2005/1313/regulation/41) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-3778e079cebe62b2aa4b414cc399ac47]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2005/1313/regulation/41) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

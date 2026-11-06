@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7C. Interpretation of relevant separation agreement law[^key-3c7321e7e904180b7440d524e900baee]
+## 7C. Interpretation of relevant separation agreement law[^c-3c7321e7e904180b7440d524e900baee]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ as that body of law is added to or otherwise modified by or under this Act or by
 
 ## Annotations
 
-[^key-3c7321e7e904180b7440d524e900baee]: Textual amendment: S. 7C inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2020/1/section/26/2), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/j)
+[^c-3c7321e7e904180b7440d524e900baee]: Textual amendment: S. 7C inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2020/1/section/26/2), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81A. Electronic claims for benefit[^key-f4a9355b17817e31b51137868c4c9d72]
+## 81A. Electronic claims for benefit[^c-f4a9355b17817e31b51137868c4c9d72]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A claim for housing benefit may be made by means of an electronic communication 
 
 ## Annotations
 
-[^key-f4a9355b17817e31b51137868c4c9d72]: Textual amendment: [Reg. 81A](https://www.legislation.gov.uk/nisr/2006/405/regulation/81A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2006/463/article/2/3)
+[^c-f4a9355b17817e31b51137868c4c9d72]: Textual amendment: [Reg. 81A](https://www.legislation.gov.uk/nisr/2006/405/regulation/81A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2006/463/article/2/3)

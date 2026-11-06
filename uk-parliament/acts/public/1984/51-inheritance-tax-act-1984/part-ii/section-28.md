@@ -42,10 +42,10 @@ the reference in subsection (2)(a)(ii) above to all questions affecting the comp
 
 (4) Subsection (1) above shall not apply if the trusts permit any of the settled property to be applied at any time (whether during any such period as is referred to in section 86(1) below or later) for the benefit of—
 
-- (a)[^key-53d03daadf25fd5ef7679f5830adb764] a person who is, at the time of the transfer of value mentioned in subsection (1), a participator in the company mentioned in that subsection; or
-- (b) any other person who is , at the time of the transfer of value mentioned in subsection (1),[^key-e5f039b0a65de8879c2bccc33aed9dab] a participator in any close company that has made a disposition whereby property became comprised in the same settlement, being a disposition which but for section 13 above would have been a transfer of value; or
-- (c) any other person who is[^key-f36334f0c3ef76ecdb0c378b33306dd1] a participator in the company mentioned in subsection (1) above or in any such company as is mentioned in paragraph (b) above at any time after, or during the ten years before, the transfer of value mentioned in subsection (1) above; or
-- (d)[^key-24d9f84bfbe02ed0a0e761540b31f98c] any person who is, at the time of the transfer of value mentioned in subsection (1) or any later time, connected with a person within paragraph (a), (b) or (c).
+- (a)[^c-53d03daadf25fd5ef7679f5830adb764] a person who is, at the time of the transfer of value mentioned in subsection (1), a participator in the company mentioned in that subsection; or
+- (b) any other person who is , at the time of the transfer of value mentioned in subsection (1),[^c-e5f039b0a65de8879c2bccc33aed9dab] a participator in any close company that has made a disposition whereby property became comprised in the same settlement, being a disposition which but for section 13 above would have been a transfer of value; or
+- (c) any other person who is[^c-f36334f0c3ef76ecdb0c378b33306dd1] a participator in the company mentioned in subsection (1) above or in any such company as is mentioned in paragraph (b) above at any time after, or during the ten years before, the transfer of value mentioned in subsection (1) above; or
+- (d)[^c-24d9f84bfbe02ed0a0e761540b31f98c] any person who is, at the time of the transfer of value mentioned in subsection (1) or any later time, connected with a person within paragraph (a), (b) or (c).
 
 (5) The participators in a company who are referred to in subsection (4) above do not include any participator who—
 
@@ -74,13 +74,13 @@ the reference in subsection (2)(a)(ii) above to all questions affecting the comp
 
 [^M_F_b21dc283-5a33-434e-a0bc-bd5ab2b046ca]: Textual amendment: S. 28(1)(c) and word inserted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 60(2)(a)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/60/2/a)
 
-[^key-53d03daadf25fd5ef7679f5830adb764]: Textual amendment: [S. 28(4)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/a) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/a)
+[^c-53d03daadf25fd5ef7679f5830adb764]: Textual amendment: [S. 28(4)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/a) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/a)
 
-[^key-e5f039b0a65de8879c2bccc33aed9dab]: Textual amendment: Words in [s. 28(4)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/b) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/b)
+[^c-e5f039b0a65de8879c2bccc33aed9dab]: Textual amendment: Words in [s. 28(4)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/b) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/b)
 
-[^key-f36334f0c3ef76ecdb0c378b33306dd1]: Textual amendment: Word in [s. 28(4)(c)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/c) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/c)
+[^c-f36334f0c3ef76ecdb0c378b33306dd1]: Textual amendment: Word in [s. 28(4)(c)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/c) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/c)
 
-[^key-24d9f84bfbe02ed0a0e761540b31f98c]: Textual amendment: [S. 28(4)(d)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/d) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/d)
+[^c-24d9f84bfbe02ed0a0e761540b31f98c]: Textual amendment: [S. 28(4)(d)](https://www.legislation.gov.uk/ukpga/1984/51/section/28/4/d) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/3/d)
 
 [^M_F_2904b634-b8db-4cde-9886-13091d6749bd]: Textual amendment: S. 28(6A)(6B) inserted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 59(3)(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/59/3)
 

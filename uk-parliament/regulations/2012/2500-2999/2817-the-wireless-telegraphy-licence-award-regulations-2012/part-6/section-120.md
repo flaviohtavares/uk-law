@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Refunds[^key-89fefdeb578e07d6ebba231feda89da1]
+## 120. Refunds[^c-89fefdeb578e07d6ebba231feda89da1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ OFCOM may, in such cases as they think fit, refund, in whole or in part, sums wh
 
 ## Annotations
 
-[^key-89fefdeb578e07d6ebba231feda89da1]: Commencement: Reg. 120 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-89fefdeb578e07d6ebba231feda89da1]: Commencement: Reg. 120 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Further enforcement measures: enforcement[^key-9d674e5731dd22e15acf17ccef070b41]
+## 85. Further enforcement measures: enforcement[^c-9d674e5731dd22e15acf17ccef070b41]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ but may not specify an amount which exceeds, or make provision under which the a
 
 ## Annotations
 
-[^key-9d674e5731dd22e15acf17ccef070b41]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2011/9/section/85) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-9d674e5731dd22e15acf17ccef070b41]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2011/9/section/85) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

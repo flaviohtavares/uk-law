@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Deferral requests in cases of contingent or uncertain consideration[^key-07ea300d86462ff15b6fe165cad3324d]
+## 58. Deferral requests in cases of contingent or uncertain consideration[^c-07ea300d86462ff15b6fe165cad3324d]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ea300d86462ff15b6fe165cad3324d]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2017/1/section/58) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-07ea300d86462ff15b6fe165cad3324d]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2017/1/section/58) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

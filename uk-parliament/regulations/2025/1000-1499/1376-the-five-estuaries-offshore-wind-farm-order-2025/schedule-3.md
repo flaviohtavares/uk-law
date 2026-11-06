@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Streets subject to street works[^key-b89e1695c44647499eaab35b4ac8ea81]
+## SCHEDULE 3 — Streets subject to street works[^c-b89e1695c44647499eaab35b4ac8ea81]
 
 *Extent: E+W*
 
 Article 10
 
-[^key-b89e1695c44647499eaab35b4ac8ea81]
+[^c-b89e1695c44647499eaab35b4ac8ea81]
 
 In the District of Tendring—
 
@@ -33,7 +33,7 @@ In the District of Tendring—
 | Short Lane | Between points labelled AE and AF on sheets 2 and 3 |
 | Short Lane | Between points labelled AG and AH on sheets 2 and 3 |
 | Access track between Manor Farm and Short Lane | Between points labelled AI and AJ on sheets 3 and 4 |
-| B1032, Clacton Road | Between points labelled AK and AL on sheets[^key-b1a0bab4f2500a693fbe83166481234e] 3 and 4 |
+| B1032, Clacton Road | Between points labelled AK and AL on sheets[^c-b1a0bab4f2500a693fbe83166481234e] 3 and 4 |
 | Little Clacton Road | Between points labelled AM and AN on sheet 4 |
 | B1033, Thorpe Road | Between points labelled AO and AP on sheet 6 |
 | B1034, Sneating Hall Lane | Between points labelled AQ and AR on sheets 6 and 7 |
@@ -69,6 +69,6 @@ In the District of Tendring—
 
 ## Annotations
 
-[^key-b89e1695c44647499eaab35b4ac8ea81]: Commencement: Sch. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-b89e1695c44647499eaab35b4ac8ea81]: Commencement: Sch. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-b1a0bab4f2500a693fbe83166481234e]: Textual amendment: Word in Sch. 3 table substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-b1a0bab4f2500a693fbe83166481234e]: Textual amendment: Word in Sch. 3 table substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)

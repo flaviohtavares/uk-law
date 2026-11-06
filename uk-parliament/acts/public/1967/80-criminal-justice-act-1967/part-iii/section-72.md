@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Power of magistrates to issue warrants for arrest of escaped prisoners and mental patients.[^key-fb8740524571a56801614baf8e3e2506]
+## 72. Power of magistrates to issue warrants for arrest of escaped prisoners and mental patients.[^c-fb8740524571a56801614baf8e3e2506]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,11 +39,11 @@ the justice, sheriff or magistrate may issue a warrant to arrest him and bring h
 
 (5)[^c7287591] Section 27 of the [^c7287601]Criminal Justice Administration Act 1914 (power to issue warrants for the arrest of persons who may be arrested without a warrant) shall cease to have effect.
 
-(6)[^key-06604c4f4857b5809bc88ff37fecff31] References in this section to offences include service offences within the meaning of the Armed Forces Act 2006.
+(6)[^c-06604c4f4857b5809bc88ff37fecff31] References in this section to offences include service offences within the meaning of the Armed Forces Act 2006.
 
 ## Annotations
 
-[^key-fb8740524571a56801614baf8e3e2506]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/1967/80/section/72) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/10)
+[^c-fb8740524571a56801614baf8e3e2506]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/1967/80/section/72) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/10)
 
 [^c7287381]: Textual amendment: S. 72(1)–(4) repealed (S.) by [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [Sch. 10 Pt. I](https://www.legislation.gov.uk/ukpga/1975/21/schedule/10/part/I)
 
@@ -87,4 +87,4 @@ the justice, sheriff or magistrate may issue a warrant to arrest him and bring h
 
 [^c7287601]: Marginal citation: [1914 c. 58](https://www.legislation.gov.uk/ukpga/1914/58).
 
-[^key-06604c4f4857b5809bc88ff37fecff31]: Textual amendment: [S. 72(6)](https://www.legislation.gov.uk/ukpga/1967/80/section/72/6) added (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 49](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/49); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-06604c4f4857b5809bc88ff37fecff31]: Textual amendment: [S. 72(6)](https://www.legislation.gov.uk/ukpga/1967/80/section/72/6) added (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 49](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/49); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

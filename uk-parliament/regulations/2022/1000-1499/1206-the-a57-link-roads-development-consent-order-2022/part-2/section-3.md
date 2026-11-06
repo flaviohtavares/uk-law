@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Development consent etc. granted by the Order[^key-917aa93861786c8d8118dde5a5261ea3]
+## 3. Development consent etc. granted by the Order[^c-917aa93861786c8d8118dde5a5261ea3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-917aa93861786c8d8118dde5a5261ea3]: Commencement: Art. 3 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-917aa93861786c8d8118dde5a5261ea3]: Commencement: Art. 3 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

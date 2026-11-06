@@ -46,15 +46,15 @@ The Department of Justice makes the following Rules in exercise of the powers co
 
 **Not yet in force.**
 
-## 1. Citation and commencement[^key-79d83cf2be32d5dbc1555e97fd91af55]
+## 1. Citation and commencement[^c-79d83cf2be32d5dbc1555e97fd91af55]
 
 These Rules may be cited as the Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 and shall come into operation on 16th April 2012.
 
-## 2. Amendment to the Valuation Tribunal Rules (Northern Ireland) 2007[^key-65f2d58100b6b9a6505de2fd9c065b53]
+## 2. Amendment to the Valuation Tribunal Rules (Northern Ireland) 2007[^c-65f2d58100b6b9a6505de2fd9c065b53]
 
 The Valuation Tribunal Rules (Northern Ireland) 2007[^f00003] are amended in accordance with rules 3 to 9.
 
-**3.**[^key-5f0f3f967d64c6444d25d489a07c51b4] In rule 2(1) (*interpretation*)—
+**3.**[^c-5f0f3f967d64c6444d25d489a07c51b4] In rule 2(1) (*interpretation*)—
 
 - (a) after the definition of “the 2010 (Low-Carbon Homes Scheme) Regulations” insert—
 
@@ -96,7 +96,7 @@ The Valuation Tribunal Rules (Northern Ireland) 2007[^f00003] are amended in acc
 
     .
 
-**4.**[^key-cd23d6517969c39a69943294f60f8948] In rule 4 (composition of tribunals)—
+**4.**[^c-cd23d6517969c39a69943294f60f8948] In rule 4 (composition of tribunals)—
 
 - (a) in paragraph (1) for the words “paragraph (3)” substitute “paragraphs (3) and (4)”;
 - (b) in paragraph (3) for the words “paragraphs (1) and (2)” substitute “paragraph (2) and either paragraph (1) or, as the case may be, paragraph (4)”; and
@@ -106,11 +106,11 @@ The Valuation Tribunal Rules (Northern Ireland) 2007[^f00003] are amended in acc
 
   .
 
-**5.**[^key-8f3b7012fe79e9a15ee7772e284569ea] In rule 5 (*notice of appeal*) after paragraph (g) insert—
+**5.**[^c-8f3b7012fe79e9a15ee7772e284569ea] In rule 5 (*notice of appeal*) after paragraph (g) insert—
 
 > - (h) an appeal under section 7(1) or (3) of the 2011 Act shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 8 within 28 days beginning with the relevant date.
 
-**6.**[^key-47f6748720c7cc4440996e6d3bed6c8a] After rule 5 (*notice of appeal*) insert the following new rules—
+**6.**[^c-47f6748720c7cc4440996e6d3bed6c8a] After rule 5 (*notice of appeal*) insert the following new rules—
 
 > **5A. High hedges fee**
 >
@@ -156,9 +156,9 @@ The Valuation Tribunal Rules (Northern Ireland) 2007[^f00003] are amended in acc
 
 .
 
-**7.**[^key-7910baa3a7a76eb815f80e820b96bf66] In rule 11 (*disposal by written representations*) paragraph (1) for the words “An appeal” substitute “Subject to rule 11A, an appeal”.
+**7.**[^c-7910baa3a7a76eb815f80e820b96bf66] In rule 11 (*disposal by written representations*) paragraph (1) for the words “An appeal” substitute “Subject to rule 11A, an appeal”.
 
-**8.**[^key-82cc283f214d7b7e0548b8f443eec75c] After rule 11 (*disposal by written representations*) insert the following new rule—
+**8.**[^c-82cc283f214d7b7e0548b8f443eec75c] After rule 11 (*disposal by written representations*) insert the following new rule—
 
 > **11A. Special procedure for high hedge appeals**
 >
@@ -168,7 +168,7 @@ The Valuation Tribunal Rules (Northern Ireland) 2007[^f00003] are amended in acc
 
 .
 
-**9.**[^key-5b60aa4c3bfb7cde66393b5582e3c040] In the Schedule after Form 7 insert the form set out in the Schedule to these Rules.
+**9.**[^c-5b60aa4c3bfb7cde66393b5582e3c040] In the Schedule after Form 7 insert the form set out in the Schedule to these Rules.
 
 Sealed with the Official Seal of the Department of Justice on 12th March 2012
 
@@ -176,7 +176,7 @@ David Ford
 
 Minister of Justice
 
-## SCHEDULE[^key-e10afc9264244970d18882d3c3991ad2]
+## SCHEDULE[^c-e10afc9264244970d18882d3c3991ad2]
 
 Rule 9
 
@@ -194,28 +194,28 @@ These Rules amend the principal Rules in consequence of the introduction of a ri
 
 [^f00002]: Footnote: [S.I. 1977 No. 2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 36A was inserted by Article 29(1) of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006 No. 2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)) and Schedule 9B was inserted by Article 29(2) of, and Schedule 1 to, that Order. These powers were transferred from the Lord Chancellor to the Department of Justice by Article 15(1) of, and paragraph 30 of Schedule 17 to, the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010 No. 976](https://www.legislation.gov.uk/uksi/2010/976)).
 
-[^key-79d83cf2be32d5dbc1555e97fd91af55]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-79d83cf2be32d5dbc1555e97fd91af55]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-65f2d58100b6b9a6505de2fd9c065b53]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2012/122/rule/2) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-65f2d58100b6b9a6505de2fd9c065b53]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2012/122/rule/2) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
 [^f00003]: Footnote: [S.R. 2007 No. 182](https://www.legislation.gov.uk/nisr/2007/182) as amended by [S.R. 2008 No. 153](https://www.legislation.gov.uk/nisr/2008/153) and [S.R. 2010 No. 104](https://www.legislation.gov.uk/nisr/2010/104).
 
-[^key-5f0f3f967d64c6444d25d489a07c51b4]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2012/122/rule/3) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-5f0f3f967d64c6444d25d489a07c51b4]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2012/122/rule/3) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-cd23d6517969c39a69943294f60f8948]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2012/122/rule/4) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-cd23d6517969c39a69943294f60f8948]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2012/122/rule/4) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-8f3b7012fe79e9a15ee7772e284569ea]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2012/122/rule/5) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-8f3b7012fe79e9a15ee7772e284569ea]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2012/122/rule/5) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-47f6748720c7cc4440996e6d3bed6c8a]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2012/122/rule/6) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-47f6748720c7cc4440996e6d3bed6c8a]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2012/122/rule/6) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
 [^f00004]: Footnote: [S.R. 1995 No. 78](https://www.legislation.gov.uk/nisr/1995/78)
 
 [^f00005]: Footnote: [S.R.1991 No. 1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220); Article 127 was substituted by section 16 of the Planning Reform (Northern Ireland) Order 2006 ([S.I. 2006 No. 1252 (N.I. 7)](https://www.legislation.gov.uk/nisi/2006/1252)).
 
-[^key-7910baa3a7a76eb815f80e820b96bf66]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2012/122/rule/7) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-7910baa3a7a76eb815f80e820b96bf66]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2012/122/rule/7) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-82cc283f214d7b7e0548b8f443eec75c]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2012/122/rule/8) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-82cc283f214d7b7e0548b8f443eec75c]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2012/122/rule/8) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-5b60aa4c3bfb7cde66393b5582e3c040]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2012/122/rule/9) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-5b60aa4c3bfb7cde66393b5582e3c040]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2012/122/rule/9) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
 
-[^key-e10afc9264244970d18882d3c3991ad2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2012/122/schedule) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)
+[^c-e10afc9264244970d18882d3c3991ad2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2012/122/schedule) in operation at 16.4.2012, see [rule 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1)

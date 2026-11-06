@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 338. Carrying out and participating in reviews[^key-41b1283f01704b00af2c6d08a45a09ff]
+## 338. Carrying out and participating in reviews[^c-41b1283f01704b00af2c6d08a45a09ff]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ For the purposes of this section, the council for the Inner and Middle Temples i
 
 ## Annotations
 
-[^key-41b1283f01704b00af2c6d08a45a09ff]: Commencement: [S. 338](https://www.legislation.gov.uk/ukpga/2020/17/section/338) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-41b1283f01704b00af2c6d08a45a09ff]: Commencement: [S. 338](https://www.legislation.gov.uk/ukpga/2020/17/section/338) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

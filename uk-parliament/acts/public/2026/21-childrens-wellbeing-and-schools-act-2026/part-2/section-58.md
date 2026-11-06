@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Repeal of duty to make Academy order in relation to school causing concern[^key-a08c861608a106b99af970744338826f]
+## 58. Repeal of duty to make Academy order in relation to school causing concern[^c-a08c861608a106b99af970744338826f]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a08c861608a106b99af970744338826f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2026/21/section/58) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-a08c861608a106b99af970744338826f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2026/21/section/58) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

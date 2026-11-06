@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Safety management system[^key-d0c0874196fa2e0d60c846e41eafb490]
+## 85. Safety management system[^c-d0c0874196fa2e0d60c846e41eafb490]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A spaceflight operator must have in place a safety management system which compl
 
 ## Annotations
 
-[^key-d0c0874196fa2e0d60c846e41eafb490]: Commencement: Reg. 85 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d0c0874196fa2e0d60c846e41eafb490]: Commencement: Reg. 85 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

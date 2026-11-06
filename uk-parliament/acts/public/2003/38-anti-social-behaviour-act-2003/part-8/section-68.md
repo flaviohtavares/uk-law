@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Procedure for dealing with complaints[^key-70060f51822cb51970ca86604446090b][^key-6962e792a1b2485ead0a5a33036c86c7]
+## 68. Procedure for dealing with complaints[^c-70060f51822cb51970ca86604446090b][^c-6962e792a1b2485ead0a5a33036c86c7]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ they must as soon as is reasonably practicable notify the appropriate person or 
 
 ## Annotations
 
-[^key-70060f51822cb51970ca86604446090b]: Commencement: S. 68 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-70060f51822cb51970ca86604446090b]: Commencement: S. 68 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-6962e792a1b2485ead0a5a33036c86c7]: Commencement: S. 68 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-6962e792a1b2485ead0a5a33036c86c7]: Commencement: S. 68 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

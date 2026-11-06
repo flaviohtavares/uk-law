@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. General duties of electricity distribution system operators[^key-e48536df5e100b75f8f29aeefbd9372b]
+## 22. General duties of electricity distribution system operators[^c-e48536df5e100b75f8f29aeefbd9372b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 12(1)(a) of the Electricity Order after “distribution” there shal
 
 ## Annotations
 
-[^key-e48536df5e100b75f8f29aeefbd9372b]: Commencement: Reg. 22 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-e48536df5e100b75f8f29aeefbd9372b]: Commencement: Reg. 22 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

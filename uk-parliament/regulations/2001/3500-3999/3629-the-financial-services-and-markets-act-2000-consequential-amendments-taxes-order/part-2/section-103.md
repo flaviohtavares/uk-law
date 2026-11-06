@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Company tax returns: insurance companies and friendly societies with non-annual actuarial investigations[^key-eb092f467f4656867860cc7d8a8b7dc9]
+## 103. Company tax returns: insurance companies and friendly societies with non-annual actuarial investigations[^c-eb092f467f4656867860cc7d8a8b7dc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb092f467f4656867860cc7d8a8b7dc9]: Commencement: Art. 103 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-eb092f467f4656867860cc7d8a8b7dc9]: Commencement: Art. 103 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00105]: Footnote: This sourcebook is part of the FSA Handbook. The FSA Handbook may be purchased on paper and on CD Rom from the Publications Department (Sales), Financial Services Authority, 25 The North Colonnade, Canary Wharf, London E14 5HS and is available on line at www.fsa.gov.uk.

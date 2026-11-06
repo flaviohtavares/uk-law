@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Meaning of “mine”[^key-fd834a38678b82f1b34af94d963105aa]
+## 3. Meaning of “mine”[^c-fd834a38678b82f1b34af94d963105aa]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd834a38678b82f1b34af94d963105aa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/427/regulation/3) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-fd834a38678b82f1b34af94d963105aa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/427/regulation/3) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

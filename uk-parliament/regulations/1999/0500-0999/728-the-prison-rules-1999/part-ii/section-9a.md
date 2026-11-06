@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9A. Coronavirus Restricted Temporary Release[^key-3c3f22f871121599610f2dce8fe01fe1]
+## 9A. Coronavirus Restricted Temporary Release[^c-3c3f22f871121599610f2dce8fe01fe1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c3f22f871121599610f2dce8fe01fe1]: Textual amendment: [Rule 9A](https://www.legislation.gov.uk/uksi/1999/728/rule/9A) omitted (25.3.2022) by virtue of [The Prison and Young Offender Institution (Coronavirus) (Amendment) (No. 2) Rules 2020 (S.I. 2020/508)](https://www.legislation.gov.uk/uksi/2020/508), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/508/rule/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/508/rule/2/2)
+[^c-3c3f22f871121599610f2dce8fe01fe1]: Textual amendment: [Rule 9A](https://www.legislation.gov.uk/uksi/1999/728/rule/9A) omitted (25.3.2022) by virtue of [The Prison and Young Offender Institution (Coronavirus) (Amendment) (No. 2) Rules 2020 (S.I. 2020/508)](https://www.legislation.gov.uk/uksi/2020/508), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/508/rule/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/508/rule/2/2)

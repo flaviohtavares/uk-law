@@ -120,7 +120,7 @@ for the purpose of the exercise of the power to make regulations.
 
 3rd March 2003 is the day appointed for the coming into force of section 20, in so far as that section is not already in force, for the purposes of cases where an application for child support maintenance is made to the Secretary of State (whether or not in writing) and the effective date would be on or after 3rd March 2003.
 
-## 6. Appointed day for section 23 and associated repeal[^key-1d0549e5a9fa0727c3f3514254d62fd0]
+## 6. Appointed day for section 23 and associated repeal[^c-1d0549e5a9fa0727c3f3514254d62fd0]
 
 (1) The day appointed for the coming into force of the provisions specified in paragraph (2) for the purposes of cases specified in paragraph (3) is—
 
@@ -379,7 +379,7 @@ The following provisions of the Child Support, Pensions and Social Security Act 
 
 [^c498970]: Marginal citation: *See* [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155), [regulation 4(2)](https://www.legislation.gov.uk/uksi/2001/155/regulation/4/2).
 
-[^key-1d0549e5a9fa0727c3f3514254d62fd0]: Textual amendment: Art. 6 substituted (22.2.2003) by [The Child Support, Pensions and Social Security Act 2000 (Commencement No.13) Order 2003 (S.I. 2003/346)](https://www.legislation.gov.uk/uksi/2003/346), [art. 2](https://www.legislation.gov.uk/uksi/2003/346/article/2)
+[^c-1d0549e5a9fa0727c3f3514254d62fd0]: Textual amendment: Art. 6 substituted (22.2.2003) by [The Child Support, Pensions and Social Security Act 2000 (Commencement No.13) Order 2003 (S.I. 2003/346)](https://www.legislation.gov.uk/uksi/2003/346), [art. 2](https://www.legislation.gov.uk/uksi/2003/346/article/2)
 
 [^f00003]: Annotation text not found in the source document.
 

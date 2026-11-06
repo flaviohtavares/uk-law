@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 36. Referral of unresolved objections to the Commission[^key-b576e21be2cd39ca58edfa0848609305]
+## Article 36. Referral of unresolved objections to the Commission[^c-b576e21be2cd39ca58edfa0848609305]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b576e21be2cd39ca58edfa0848609305]: Textual amendment: [Arts. 32-46](https://www.legislation.gov.uk/eur/2012/528/article/32) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b576e21be2cd39ca58edfa0848609305]: Textual amendment: [Arts. 32-46](https://www.legislation.gov.uk/eur/2012/528/article/32) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

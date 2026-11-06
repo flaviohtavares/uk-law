@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Relevant disposals.[^c10160891][^key-e35c88e95a010edc3efbdaf3947cc2b5]
+## 4. Relevant disposals.[^c10160891][^c-e35c88e95a010edc3efbdaf3947cc2b5]
 
 *Extent: E+W*
 
@@ -40,13 +40,13 @@ summary: ''
   - (ii) section 24A of the Matrimonial Causes Act 1973 (orders for the sale of property in connection with matrimonial proceedings) where the order includes provision requiring the property concerned to be offered for sale to a person or class of persons specified in the order,
   - (iii) section 2 of the Inheritance (Provision for Family and Dependants) Act 1975 (orders as to financial provision to be made from estate),
   - (iv) section 17(1) of the Matrimonial and Family Proceedings Act 1984 (property adjustment orders after overseas divorce, &c.),
-  - (v) section 17(2) of the Matrimonial and Family Proceedings Act 1984 (orders for the sale of property after overseas divorce, &c.) where the order includes provision requiring the property concerned to be offered for sale to a person or class of persons specified in the order, [^key-9f1a2c118ed2402175b38a26f8102ccd]...
+  - (v) section 17(2) of the Matrimonial and Family Proceedings Act 1984 (orders for the sale of property after overseas divorce, &c.) where the order includes provision requiring the property concerned to be offered for sale to a person or class of persons specified in the order, [^c-9f1a2c118ed2402175b38a26f8102ccd]...
   - (vi) paragraph 1 of Schedule 1 to the Children Act 1989 (orders for financial relief against parents);
-  - (vii)[^key-fd7d2ff0c8f22ed08c1071b18aa15498] Part 2 of Schedule 5, or paragraph 9(2) or (3) of Schedule 7, to the Civil Partnership Act 2004 (property adjustment orders in connection with civil partnership proceedings or after overseas dissolution of a civil partnership, etc.), or
+  - (vii)[^c-fd7d2ff0c8f22ed08c1071b18aa15498] Part 2 of Schedule 5, or paragraph 9(2) or (3) of Schedule 7, to the Civil Partnership Act 2004 (property adjustment orders in connection with civil partnership proceedings or after overseas dissolution of a civil partnership, etc.), or
   - (viii) Part 3 of Schedule 5, or paragraph 9(4) of Schedule 7, to the Civil Partnership Act 2004 (orders for the sale of property in connection with civil partnership proceedings or after overseas dissolution of a civil partnership, etc.) where the order includes provision requiring the property concerned to be offered for sale to a person or class of persons specified in the order;
 - (d) a disposal in pursuance of a compulsory purchase order or in pursuance of an agreement entered into in circumstances where, but for the agreement, such an order would have been made or (as the case may be) carried into effect;
 - (da)[^c10160971] a disposal of any freehold or leasehold interest in pursuance of Chapter I of Part I of the Leasehold Reform, Housing and Urban Development Act 1993;
-- (db)[^key-377254fee8acd088f56e3603b20c8651] the conferral of a code right under Schedule 3A to the Communications Act 2003 (the electronic communications code);
+- (db)[^c-377254fee8acd088f56e3603b20c8651] the conferral of a code right under Schedule 3A to the Communications Act 2003 (the electronic communications code);
 - (e) a disposal by way of gift to a member of the landlord’s family or to a charity;
 - (f) a disposal by one charity to another of an estate or interest in land which prior to the disposal is functional land of the first-mentioned charity and which is intended to be functional land of the other charity once the disposal is made;
 - (g) a disposal consisting of the transfer of an estate or interest held on trust for any person where the disposal is made in connection with the appointment of a new trustee or in connection with the discharge of any trustee;
@@ -69,12 +69,12 @@ and references in this Part to the transferee in connection with a disposal shal
 
 (5) A person is a member of another’s family for the purposes of this section if—
 
-- (a) that person is the spouse or civil partner[^key-bc32ff577f5a43c55f43a39bfa995421] of that other person, or the two of them live together as if they were a married couple or[^key-001f4e2f9032d04bdcc947e7f19193fd] civil partners[^key-8c39ec241b4c0d2c91a59c9bc79e4466], or
+- (a) that person is the spouse or civil partner[^c-bc32ff577f5a43c55f43a39bfa995421] of that other person, or the two of them live together as if they were a married couple or[^c-001f4e2f9032d04bdcc947e7f19193fd] civil partners[^c-8c39ec241b4c0d2c91a59c9bc79e4466], or
 - (b) that person is that other person’s parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece.
 
 (6) For the purposes of subsection (5)(b)—
 
-- (a) a relationship by marriage or civil partnership[^key-44dffcf2a4a8016a5a694b860a1e9037] shall be treated as a relationship by blood,
+- (a) a relationship by marriage or civil partnership[^c-44dffcf2a4a8016a5a694b860a1e9037] shall be treated as a relationship by blood,
 - (b) a relationship of the half-blood shall be treated as a relationship of the whole blood,
 - (c) the stepchild of a person shall be treated as his child, and
 - (d) an illegitimate child shall be treated as the legitimate child of his mother and reputed father.
@@ -99,7 +99,7 @@ and references in this Part to the transferee in connection with a disposal shal
 
     S. 4 excluded by [2002 c. iv](https://www.legislation.gov.uk/ukla/2002/4), [s. 14(1)(a)](https://www.legislation.gov.uk/ukla/2002/4/section/14/1/a)
 
-[^key-e35c88e95a010edc3efbdaf3947cc2b5]: Modification: S. 4 excluded (coming into force in accordance with s. 9 of the excluding Act) by [HBOS Group Reorganisation Act 2006 (c. i)](https://www.legislation.gov.uk/ukla/2006/1), [s. 21(1)](https://www.legislation.gov.uk/ukla/2006/1/section/21/1)
+[^c-e35c88e95a010edc3efbdaf3947cc2b5]: Modification: S. 4 excluded (coming into force in accordance with s. 9 of the excluding Act) by [HBOS Group Reorganisation Act 2006 (c. i)](https://www.legislation.gov.uk/ukla/2006/1), [s. 21(1)](https://www.legislation.gov.uk/ukla/2006/1/section/21/1)
 
 [^c10160901]: Textual amendment: S. 4(1A) inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 119](https://www.legislation.gov.uk/ukpga/1988/50/section/119), [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/13/paragraph/3/1)
 
@@ -111,22 +111,22 @@ and references in this Part to the transferee in connection with a disposal shal
 
 [^c10160961]: Textual amendment: S. 4(2)(c) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 222](https://www.legislation.gov.uk/ukpga/1996/52/section/222), [Sch. 18 Pt. III para. 18](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/part/III/paragraph/18); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3)
 
-[^key-9f1a2c118ed2402175b38a26f8102ccd]: Textual amendment: Word in s. 4(2)(c)(v) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b)[(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/d), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
+[^c-9f1a2c118ed2402175b38a26f8102ccd]: Textual amendment: Word in s. 4(2)(c)(v) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b)[(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/d), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
 
-[^key-fd7d2ff0c8f22ed08c1071b18aa15498]: Textual amendment: S. 4(2)(c)(vii)(viii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-fd7d2ff0c8f22ed08c1071b18aa15498]: Textual amendment: S. 4(2)(c)(vii)(viii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c10160971]: Textual amendment: S. 4(2)(da) inserted (1.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 187(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/1), SCh. 21 para. 26; [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [arts. 2](https://www.legislation.gov.uk/uksi/1993/2134/article/2), [5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
 
-[^key-377254fee8acd088f56e3603b20c8651]: Textual amendment: S. 4(2)(db) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/26); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-377254fee8acd088f56e3603b20c8651]: Textual amendment: S. 4(2)(db) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/26); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c10160981]: Textual amendment: S. 4(2)(i) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 89(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/89/2); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
 [^c10160991]: Textual amendment: S. 4(2)(l) substituted (1.10.1996 with effect as mentioned in [s. 90(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/90/2) of the amending Act) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 90(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/90/1); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-bc32ff577f5a43c55f43a39bfa995421]: Textual amendment: Words in s. 4(5)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/3/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-bc32ff577f5a43c55f43a39bfa995421]: Textual amendment: Words in s. 4(5)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/3/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-001f4e2f9032d04bdcc947e7f19193fd]: Textual amendment: Words in [s. 4(5)(a)](https://www.legislation.gov.uk/ukpga/1987/31/section/4/5/a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/11)
+[^c-001f4e2f9032d04bdcc947e7f19193fd]: Textual amendment: Words in [s. 4(5)(a)](https://www.legislation.gov.uk/ukpga/1987/31/section/4/5/a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/11)
 
-[^key-8c39ec241b4c0d2c91a59c9bc79e4466]: Textual amendment: Words in s. 4(5)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(3)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/3/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-8c39ec241b4c0d2c91a59c9bc79e4466]: Textual amendment: Words in s. 4(5)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(3)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/3/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-44dffcf2a4a8016a5a694b860a1e9037]: Textual amendment: Words in s. 4(6)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(4)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/4); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-44dffcf2a4a8016a5a694b860a1e9037]: Textual amendment: Words in s. 4(6)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 40(4)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/40/4); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)

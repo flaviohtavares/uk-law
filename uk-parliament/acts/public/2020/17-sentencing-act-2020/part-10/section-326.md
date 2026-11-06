@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326. Section 325: interpretation[^key-36f08d5a83c434a9a34bd4843550b216]
+## 326. Section 325: interpretation[^c-36f08d5a83c434a9a34bd4843550b216]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ This definition has effect in place of the definition of “sentence of imprison
 
 ## Annotations
 
-[^key-36f08d5a83c434a9a34bd4843550b216]: Commencement: S. 326 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-36f08d5a83c434a9a34bd4843550b216]: Commencement: S. 326 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

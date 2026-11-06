@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Types of assistance[^key-2137db78c57eb073202fecce9bd4d498]
+## 3. Types of assistance[^c-2137db78c57eb073202fecce9bd4d498]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2137db78c57eb073202fecce9bd4d498]: Commencement: S. 3 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-2137db78c57eb073202fecce9bd4d498]: Commencement: S. 3 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

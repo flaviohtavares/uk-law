@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notification and payment of import duty, etc[^c23439201][^key-546c71b11eeb5114f4f1323f3f234be6]
+## 20. Notification and payment of import duty, etc[^c23439201][^c-546c71b11eeb5114f4f1323f3f234be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Schedule 6 makes provision for—
 
 [^c23439201]: Commencement: S. 20 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-546c71b11eeb5114f4f1323f3f234be6]: Commencement: S. 20 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-546c71b11eeb5114f4f1323f3f234be6]: Commencement: S. 20 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

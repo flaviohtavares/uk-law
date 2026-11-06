@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 489. Interpretation of the 1995 Order[^key-7b163b5af08c98bdb892a4c8ff2112dc]
+## 489. Interpretation of the 1995 Order[^c-7b163b5af08c98bdb892a4c8ff2112dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b163b5af08c98bdb892a4c8ff2112dc]: Commencement: Art. 489 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7b163b5af08c98bdb892a4c8ff2112dc]: Commencement: Art. 489 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00321]: Footnote: The definition of “relevant lender” was inserted into paragraph (2) of article 12 by [S.I. 1996/621](https://www.legislation.gov.uk/uksi/1996/621), article 3.

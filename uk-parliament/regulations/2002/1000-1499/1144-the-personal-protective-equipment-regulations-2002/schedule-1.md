@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — ANNEX I OF THE PPE DIRECTIVE[^key-e182ddf0dd244d6e78f212e0ae4e8314]
+## SCHEDULE 1 — ANNEX I OF THE PPE DIRECTIVE[^c-e182ddf0dd244d6e78f212e0ae4e8314]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulations 2(1)(c)(ii), 2(2) and 5(1)
 
-### EXHAUSTIVE LIST OF PPE CLASSES NOT COVERED BY THIS DIRECTIVE[^key-e182ddf0dd244d6e78f212e0ae4e8314]
+### EXHAUSTIVE LIST OF PPE CLASSES NOT COVERED BY THIS DIRECTIVE[^c-e182ddf0dd244d6e78f212e0ae4e8314]
 
-**1.**[^key-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e182ddf0dd244d6e78f212e0ae4e8314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e182ddf0dd244d6e78f212e0ae4e8314]: Textual amendment: Regulations revoked (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/6) (with [reg. 2(1)-(5)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-e182ddf0dd244d6e78f212e0ae4e8314]: Textual amendment: Regulations revoked (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/6) (with [reg. 2(1)-(5)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))

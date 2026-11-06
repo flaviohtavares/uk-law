@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Tax calculation[^key-554bdc5c8938866a27af14181bfcb2aa]
+## 161. Tax calculation[^c-554bdc5c8938866a27af14181bfcb2aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) In this regulation—
 
-- “claimant’s total tax” means the lesser of—[^key-b0c8f61a8171c1030c899c2c0367ffbc]
+- “claimant’s total tax” means the lesser of—[^c-b0c8f61a8171c1030c899c2c0367ffbc]
   - (a) 50% of the claimant’s total payments to date, and
   - (b) the tax due in accordance with the appropriate tax tables in respect of the claimant’s total taxable payments to date at the relevant date;
 - “recorded tax” means the total tax to date or (as the case may be) the total net tax deducted which was recorded in accordance with regulation 153(3) or (4) when the claim was made;
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-554bdc5c8938866a27af14181bfcb2aa]: Commencement: [Reg. 161](https://www.legislation.gov.uk/uksi/2003/2682/regulation/161) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-554bdc5c8938866a27af14181bfcb2aa]: Commencement: [Reg. 161](https://www.legislation.gov.uk/uksi/2003/2682/regulation/161) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
-[^key-b0c8f61a8171c1030c899c2c0367ffbc]: Textual amendment: Words in [reg. 161(5)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/161/5) substituted (6.4.2015) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2014 (S.I. 2014/2689)](https://www.legislation.gov.uk/uksi/2014/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2014/2689/regulation/7)
+[^c-b0c8f61a8171c1030c899c2c0367ffbc]: Textual amendment: Words in [reg. 161(5)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/161/5) substituted (6.4.2015) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2014 (S.I. 2014/2689)](https://www.legislation.gov.uk/uksi/2014/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2014/2689/regulation/7)

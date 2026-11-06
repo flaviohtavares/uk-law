@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Timing of automatic re-enrolment[^c2114361][^key-ae04bd9adc90f1a81d0cdf880d8ce665]
+## 7. Timing of automatic re-enrolment[^c2114361][^c-ae04bd9adc90f1a81d0cdf880d8ce665]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 6 of the 2008 Act (timing of automatic re-enrolment) in subsection (1
 
 [^c2114361]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-ae04bd9adc90f1a81d0cdf880d8ce665]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/19/section/7) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/676](https://www.legislation.gov.uk/uksi/2015/676), [art. 2](https://www.legislation.gov.uk/uksi/2015/676/article/2)
+[^c-ae04bd9adc90f1a81d0cdf880d8ce665]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/19/section/7) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/676](https://www.legislation.gov.uk/uksi/2015/676), [art. 2](https://www.legislation.gov.uk/uksi/2015/676/article/2)

@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by section 1(1) of the Football (Offences) Act 1991[^f00001], hereby makes the following Order:
 
-**1.**[^key-884e2c0d133a8f68331c0cd2076b8ecc] This Order may be cited as the Football (Offences) (Designation of Football Matches) Order 2004 and shall come into force on 11<sup>th</sup> October 2004.
+**1.**[^c-884e2c0d133a8f68331c0cd2076b8ecc] This Order may be cited as the Football (Offences) (Designation of Football Matches) Order 2004 and shall come into force on 11<sup>th</sup> October 2004.
 
-**2.**[^key-898353f122998840148cafc44f85bb3d] The Football (Offences) (Designation of Football Matches) Order 2000[^f00002] is hereby revoked.
+**2.**[^c-898353f122998840148cafc44f85bb3d] The Football (Offences) (Designation of Football Matches) Order 2000[^f00002] is hereby revoked.
 
-**3.**[^key-0b65943bacbe756638146d24d7ea5f64] (1) The association football matches specified in paragraph (2) are hereby designated for the purposes of the Football (Offences) Act 1991.
+**3.**[^c-0b65943bacbe756638146d24d7ea5f64] (1) The association football matches specified in paragraph (2) are hereby designated for the purposes of the Football (Offences) Act 1991.
 
 (2) A designated match is an association football match in which one or both of the participating teams represents a club which is for the time being a member (whether a full or associate member) of the Football League, the Football Association Premier League, the Football Conference or the League of Wales, or represents a country or territory.
 
@@ -74,10 +74,10 @@ Article 3(2) designates association football matches in which one or both partic
 
 [^f00001]: Footnote: [1991 c. 19](https://www.legislation.gov.uk/ukpga/1991/19).
 
-[^key-884e2c0d133a8f68331c0cd2076b8ecc]: Commencement: Art. 1 in force at 11.10.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/2410/article/1)
+[^c-884e2c0d133a8f68331c0cd2076b8ecc]: Commencement: Art. 1 in force at 11.10.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/2410/article/1)
 
-[^key-898353f122998840148cafc44f85bb3d]: Commencement: Art. 2 in force at 11.10.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/2410/article/1)
+[^c-898353f122998840148cafc44f85bb3d]: Commencement: Art. 2 in force at 11.10.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/2410/article/1)
 
 [^f00002]: Footnote: S.I. [2000/2329](https://www.legislation.gov.uk/uksi/2000/2329).
 
-[^key-0b65943bacbe756638146d24d7ea5f64]: Commencement: Art. 3 in force at 11.10.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/2410/article/1)
+[^c-0b65943bacbe756638146d24d7ea5f64]: Commencement: Art. 3 in force at 11.10.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/2410/article/1)

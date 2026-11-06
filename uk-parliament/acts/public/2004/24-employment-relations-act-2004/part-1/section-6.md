@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Circumstances in which the CAC must arrange a ballot[^key-9000178d6ec7138e77da9c9e1cbe0d83]
+## 6. Circumstances in which the CAC must arrange a ballot[^c-9000178d6ec7138e77da9c9e1cbe0d83]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9000178d6ec7138e77da9c9e1cbe0d83]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/24/section/6) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-9000178d6ec7138e77da9c9e1cbe0d83]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/24/section/6) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))

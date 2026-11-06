@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Sexual offences prevention orders[^key-ac2983cd4ca774757ce16402c1164799]
+## 100. Sexual offences prevention orders[^c-ac2983cd4ca774757ce16402c1164799]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac2983cd4ca774757ce16402c1164799]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/13/section/100) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)
+[^c-ac2983cd4ca774757ce16402c1164799]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2010/13/section/100) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)

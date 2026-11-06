@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The regulators[^key-d2d31ce2b57cb827952d84ee4261b4df] may by rules make provision in connection with the exercise by the FSCS manager of functions in respect of relevant schemes.
+(1) The regulators[^c-d2d31ce2b57cb827952d84ee4261b4df] may by rules make provision in connection with the exercise by the FSCS manager of functions in respect of relevant schemes.
 
 (2) The provision that may be made by the rules includes any provision corresponding to provision that could be contained in the FSCS; but this is subject to subsections (3) and (4).
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2080763]: Textual amendment: Pt. 15A inserted (12.10.2010) by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 17](https://www.legislation.gov.uk/ukpga/2010/28/section/17), [26(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/3); [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/d)
 
-[^key-d2d31ce2b57cb827952d84ee4261b4df]: Textual amendment: Word in s. 224F(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/38/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d2d31ce2b57cb827952d84ee4261b4df]: Textual amendment: Word in s. 224F(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/38/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

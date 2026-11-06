@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Transfer schemes[^key-60f659d398bc3f5248461bc6fc9d11c5]
+## 15. Transfer schemes[^c-60f659d398bc3f5248461bc6fc9d11c5]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60f659d398bc3f5248461bc6fc9d11c5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/7/section/15) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-60f659d398bc3f5248461bc6fc9d11c5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/7/section/15) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

@@ -34,7 +34,7 @@ Section 44(1).
 
 **2.** In Schedule 1 to the Superannuation Act 1972 (kinds of employment to which schemes may apply), in the list of “Other Bodies”, insert at the appropriate places—
 
-> A body corporate created by virtue of section 59A(2)(c) of the Further and Higher Education (Scotland) Act 1992. *(Extent: S)* *(affected by repeal, see note)*[^key-97d4cf5871a1b026638047247569bf5c]
+> A body corporate created by virtue of section 59A(2)(c) of the Further and Higher Education (Scotland) Act 1992. *(Extent: S)* *(affected by repeal, see note)*[^c-97d4cf5871a1b026638047247569bf5c]
 
 > General Teaching Council for England.
 
@@ -65,7 +65,7 @@ Section 44(1).
 
 *Extent: E+W*
 
-**5.**[^key-ba34cfa5e1adf7be1489c8933d93f00b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ba34cfa5e1adf7be1489c8933d93f00b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Reform Act 1988 (c.40)
 
@@ -85,7 +85,7 @@ Section 44(1).
 
 *Extent: E+W*
 
-**9.**[^key-56943e43f272a90eb4b4e33e82a001ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-56943e43f272a90eb4b4e33e82a001ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment Rights Act 1996 (c.18)
 
@@ -135,8 +135,8 @@ Section 44(1).
 
 ## Annotations
 
-[^key-97d4cf5871a1b026638047247569bf5c]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1998/30/schedule/3/paragraph/2) entry repealed (S.) (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 7(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/7/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-97d4cf5871a1b026638047247569bf5c]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1998/30/schedule/3/paragraph/2) entry repealed (S.) (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 7(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/7/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-ba34cfa5e1adf7be1489c8933d93f00b]: Textual amendment: Sch. 3 para. 5 repealed (6.11.2006 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2006/2895](https://www.legislation.gov.uk/uksi/2006/2895), [art. 2](https://www.legislation.gov.uk/uksi/2006/2895/article/2); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-ba34cfa5e1adf7be1489c8933d93f00b]: Textual amendment: Sch. 3 para. 5 repealed (6.11.2006 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2006/2895](https://www.legislation.gov.uk/uksi/2006/2895), [art. 2](https://www.legislation.gov.uk/uksi/2006/2895/article/2); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
-[^key-56943e43f272a90eb4b4e33e82a001ec]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1998/30/schedule/3/paragraph/9) repealed (31.1.2009) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2008/3267](https://www.legislation.gov.uk/uksi/2008/3267), [art. 2](https://www.legislation.gov.uk/uksi/2008/3267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/3267/schedule) (with [arts. 3-27](https://www.legislation.gov.uk/uksi/2008/3267/article/3)) (as amended: (29.9.2009) by [S.I. 2009/2648](https://www.legislation.gov.uk/uksi/2009/2648), art. 3; (26.7.2010) by [S.I. 2010/1942](https://www.legislation.gov.uk/uksi/2010/1942), art. 2; and (1.8.2011) by [S.I. 2011/1725](https://www.legislation.gov.uk/uksi/2011/1725), arts. 1(2), 3, Sch. para. 6)
+[^c-56943e43f272a90eb4b4e33e82a001ec]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1998/30/schedule/3/paragraph/9) repealed (31.1.2009) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2008/3267](https://www.legislation.gov.uk/uksi/2008/3267), [art. 2](https://www.legislation.gov.uk/uksi/2008/3267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/3267/schedule) (with [arts. 3-27](https://www.legislation.gov.uk/uksi/2008/3267/article/3)) (as amended: (29.9.2009) by [S.I. 2009/2648](https://www.legislation.gov.uk/uksi/2009/2648), art. 3; (26.7.2010) by [S.I. 2010/1942](https://www.legislation.gov.uk/uksi/2010/1942), art. 2; and (1.8.2011) by [S.I. 2011/1725](https://www.legislation.gov.uk/uksi/2011/1725), arts. 1(2), 3, Sch. para. 6)

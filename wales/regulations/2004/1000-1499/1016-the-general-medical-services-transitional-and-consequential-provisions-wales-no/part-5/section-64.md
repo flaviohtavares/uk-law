@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Appeal against immediate withdrawal of approval of out of hours arrangements under general medical services and default contracts[^key-0ccdf71e6df513fae193c62afc671ebe]
+## 64. Appeal against immediate withdrawal of approval of out of hours arrangements under general medical services and default contracts[^c-0ccdf71e6df513fae193c62afc671ebe]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ Where—
 
 ## Annotations
 
-[^key-0ccdf71e6df513fae193c62afc671ebe]: Commencement: Art. 64 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-0ccdf71e6df513fae193c62afc671ebe]: Commencement: Art. 64 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

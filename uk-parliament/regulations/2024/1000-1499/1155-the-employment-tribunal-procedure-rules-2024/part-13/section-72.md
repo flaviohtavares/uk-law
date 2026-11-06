@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Definitions[^key-419c38a3bac06ceec7beb18fdefd5e47]
+## 72. Definitions[^c-419c38a3bac06ceec7beb18fdefd5e47]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-419c38a3bac06ceec7beb18fdefd5e47]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2024/1155/rule/72) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-419c38a3bac06ceec7beb18fdefd5e47]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2024/1155/rule/72) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

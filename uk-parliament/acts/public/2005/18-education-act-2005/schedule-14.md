@@ -24,31 +24,31 @@ Section 98
 
 ### Public Records Act 1958 (c. 51)
 
-**1.**[^key-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Parliamentary Commissioner Act 1967 (c. 13)
 
-**2.**[^key-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Superannuation Act 1972 (c. 11)
 
-**3.**[^key-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### House of Commons Disqualification Act 1975 (c. 24)
 
-**4.**[^key-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-00edea137cc719ca632ff0f47b9ae0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sex Discrimination Act 1975 (c. 65)
 
-**5.**[^key-55f6de1afaf00b528243546469faee09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-55f6de1afaf00b528243546469faee09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e5c5db83ffb2337c43d50b4ecced7cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e5c5db83ffb2337c43d50b4ecced7cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Race Relations Act 1976 (c. 74)
 
-**7.**[^key-06892ee15c5397fc261c55a896b795e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-06892ee15c5397fc261c55a896b795e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-578669d769e48d913f3e1078c65eddc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-578669d769e48d913f3e1078c65eddc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education (Fees and Awards) Act 1983 (c. 40)
 
@@ -269,7 +269,7 @@ Section 98
 (4) In subsection (11)—
 
 - (a) for “the 1994 Act” substitute “ the 2005 Act ”, and
-- (b)[^key-ba7575fea87164b5abd382e882fb1a33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ba7575fea87164b5abd382e882fb1a33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** (1) In section 28(1) of the Teaching and Higher Education Act 1998 (interpretation of Chapter 1 of Part 2), in the definition of “publicly-funded institution” (which is to be repealed by the Higher Education Act 2004 (c. 8)), for “section 5 of the Education Act 1994” substitute “ section 78 or 86 of the Education Act 2005 ”.
 
@@ -288,15 +288,15 @@ Section 98
 > | The governing body of an institution in Wales receiving financial support under section 86 of the Education Act 2005 from the Higher Education Funding Council for Wales. | The governing body or the Higher Education Funding Council for Wales |
 > | A training provider (within the meaning of Part 3 of the Education Act 2005) receiving financial support under section 78 of that Act from the Training and Development Agency for Schools, except where that financial support is wholly derived from grants made to the Agency by the Secretary of State. | The training provider or the Training and Development Agency for Schools. |
 
-(3)[^key-dde747f16d584293803db4d661ed49d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dde747f16d584293803db4d661ed49d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-dde747f16d584293803db4d661ed49d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dde747f16d584293803db4d661ed49d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-dde747f16d584293803db4d661ed49d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-dde747f16d584293803db4d661ed49d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Freedom of Information Act 2000 (c. 36)
 
-**22.**[^key-9a0b15abd3723fcba33fd6d245e9d46f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-9a0b15abd3723fcba33fd6d245e9d46f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 2002 (c. 32)
 
@@ -311,13 +311,13 @@ Section 98
 
 (3) In the definition of “education” in subsection (3), after “but” insert “ , except in subsection (2ZA)(a), ”.
 
-**24.**[^key-eec1b3e4dbe1cdf1ae4758ae92de704c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-eec1b3e4dbe1cdf1ae4758ae92de704c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Higher Education Act 2004 (c. 8)
 
-**25.**[^key-84bc4ae74e276f5d1f2f7c6a070c595e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-84bc4ae74e276f5d1f2f7c6a070c595e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.**[^M_F_e7af16ec-e231-46da-ceb6-94e07d2b424a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -325,17 +325,17 @@ Section 98
 
 **29.**[^M_F_501e1a74-9dd7-42b7-f328-2d5a5569f9ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-c0af94956d8caa1bf0d5794578651a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-c0af94956d8caa1bf0d5794578651a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-c0af94956d8caa1bf0d5794578651a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-c0af94956d8caa1bf0d5794578651a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-c0af94956d8caa1bf0d5794578651a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-c0af94956d8caa1bf0d5794578651a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-06201f9a51f7b1dfd48ad0bf6e0c36c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **36.** In section 48 of the Higher Education Act 2004 (c. 8) (general interpretation)—
 
@@ -348,29 +348,29 @@ Section 98
 
 ## Annotations
 
-[^key-00edea137cc719ca632ff0f47b9ae0b5]: Textual amendment: [Sch. 14 paras. 1-4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/1) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-00edea137cc719ca632ff0f47b9ae0b5]: Textual amendment: [Sch. 14 paras. 1-4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/1) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-55f6de1afaf00b528243546469faee09]: Textual amendment: Sch. 14 para. 5 repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2))
+[^c-55f6de1afaf00b528243546469faee09]: Textual amendment: Sch. 14 para. 5 repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2))
 
-[^key-e5c5db83ffb2337c43d50b4ecced7cc3]: Textual amendment: Sch. 14 para. 6 repealed (4.4.2011) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1A](https://www.legislation.gov.uk/ukpga/2010/15/part/1A) (as inserted) (as substituted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3))
+[^c-e5c5db83ffb2337c43d50b4ecced7cc3]: Textual amendment: Sch. 14 para. 6 repealed (4.4.2011) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1A](https://www.legislation.gov.uk/ukpga/2010/15/part/1A) (as inserted) (as substituted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3))
 
-[^key-06892ee15c5397fc261c55a896b795e4]: Textual amendment: Sch. 14 para. 7 repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by[The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2))
+[^c-06892ee15c5397fc261c55a896b795e4]: Textual amendment: Sch. 14 para. 7 repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by[The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2))
 
-[^key-578669d769e48d913f3e1078c65eddc0]: Textual amendment: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/8) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-578669d769e48d913f3e1078c65eddc0]: Textual amendment: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/8) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
 [^M_F_80c42d3d-0b25-457a-e989-66e97872172e]: Textual amendment: Sch. 14 para. 18 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), [art. 2](https://www.legislation.gov.uk/uksi/2016/675/article/2))
 
-[^key-ba7575fea87164b5abd382e882fb1a33]: Textual amendment: [Sch. 14 para. 19(4)(b)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/19/4/b) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-ba7575fea87164b5abd382e882fb1a33]: Textual amendment: [Sch. 14 para. 19(4)(b)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/19/4/b) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-dde747f16d584293803db4d661ed49d5]: Textual amendment: [Sch. 14 para. 21(3)-(5)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/21/3) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-dde747f16d584293803db4d661ed49d5]: Textual amendment: [Sch. 14 para. 21(3)-(5)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/21/3) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-9a0b15abd3723fcba33fd6d245e9d46f]: Textual amendment: [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/22) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-9a0b15abd3723fcba33fd6d245e9d46f]: Textual amendment: [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/22) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-eec1b3e4dbe1cdf1ae4758ae92de704c]: Textual amendment: [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/24) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-eec1b3e4dbe1cdf1ae4758ae92de704c]: Textual amendment: [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/24) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-84bc4ae74e276f5d1f2f7c6a070c595e]: Textual amendment: Sch. 14 para. 25 omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-84bc4ae74e276f5d1f2f7c6a070c595e]: Textual amendment: Sch. 14 para. 25 omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-06201f9a51f7b1dfd48ad0bf6e0c36c0]: Textual amendment: Sch. 14 paras. 26-35 omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 31(3)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/31/3); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 17, 18)
+[^c-06201f9a51f7b1dfd48ad0bf6e0c36c0]: Textual amendment: Sch. 14 paras. 26-35 omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 31(3)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/31/3); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 17, 18)
 
 [^M_F_e7af16ec-e231-46da-ceb6-94e07d2b424a]: Textual amendment: Sch. 14 paras. 27-29 omitted (1.9.2015) by Higher Education (Wales) Act 2015 (anaw 1), s. 59(2), Sch. para. 22; [S.I. 2015/1327](https://www.legislation.gov.uk/uksi/2015/1327), [art. 5(s)(iv)](https://www.legislation.gov.uk/uksi/2015/1327/article/5/s/iv)
 
@@ -378,4 +378,4 @@ Section 98
 
 [^M_F_501e1a74-9dd7-42b7-f328-2d5a5569f9ea]: Textual amendment: Sch. 14 paras. 27-29 omitted (1.9.2015) by Higher Education (Wales) Act 2015 (anaw 1), s. 59(2), Sch. para. 22; [S.I. 2015/1327](https://www.legislation.gov.uk/uksi/2015/1327), [art. 5(s)(iv)](https://www.legislation.gov.uk/uksi/2015/1327/article/5/s/iv)
 
-[^key-c0af94956d8caa1bf0d5794578651a19]: Textual amendment: Sch. 14 paras. 32-34 omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c0af94956d8caa1bf0d5794578651a19]: Textual amendment: Sch. 14 paras. 32-34 omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

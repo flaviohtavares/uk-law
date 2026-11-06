@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Wales) Measure 2009 (Pilot) Regulations 2012 (revoked)[^key-0a1948289939cfb7354ee93373507f01]
+The Education (Wales) Measure 2009 (Pilot) Regulations 2012 (revoked)[^c-0a1948289939cfb7354ee93373507f01]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 6 March 2012
 
-[^key-0a1948289939cfb7354ee93373507f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a1948289939cfb7354ee93373507f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and expiry[^key-0a1948289939cfb7354ee93373507f01]
+## 1. Title, commencement and expiry[^c-0a1948289939cfb7354ee93373507f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0a1948289939cfb7354ee93373507f01]
+## 2. Interpretation[^c-0a1948289939cfb7354ee93373507f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Specified local authorities and areas[^key-0a1948289939cfb7354ee93373507f01]
+## 3. Specified local authorities and areas[^c-0a1948289939cfb7354ee93373507f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Right of a Child to make an appeal or claim to the Tribunal[^key-0a1948289939cfb7354ee93373507f01]
+## 4. Right of a Child to make an appeal or claim to the Tribunal[^c-0a1948289939cfb7354ee93373507f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information[^key-0a1948289939cfb7354ee93373507f01]
+## 5. Information[^c-0a1948289939cfb7354ee93373507f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a1948289939cfb7354ee93373507f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a1948289939cfb7354ee93373507f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a1948289939cfb7354ee93373507f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a1948289939cfb7354ee93373507f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a1948289939cfb7354ee93373507f01]: Textual amendment: Regulations revoked (5.1.2015) by [The Education (Wales) Measure 2009 (Pilot) (Revocation) Regulations 2014 (S.I. 2014/3267)](https://www.legislation.gov.uk/uksi/2014/3267), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3267/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/3267/regulation/2/1)
+[^c-0a1948289939cfb7354ee93373507f01]: Textual amendment: Regulations revoked (5.1.2015) by [The Education (Wales) Measure 2009 (Pilot) (Revocation) Regulations 2014 (S.I. 2014/3267)](https://www.legislation.gov.uk/uksi/2014/3267), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3267/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/3267/regulation/2/1)

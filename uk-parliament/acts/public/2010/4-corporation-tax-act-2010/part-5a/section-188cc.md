@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188CC. Claims in relation to the surrenderable amounts that are attributable to a specified accounting period[^M_C_12ec7bc6-34f1-484a-c400-a41f96a5868a][^key-5f4b4ffe3f8c46c0f1df33d946de3a27]
+## 188CC. Claims in relation to the surrenderable amounts that are attributable to a specified accounting period[^M_C_12ec7bc6-34f1-484a-c400-a41f96a5868a][^c-5f4b4ffe3f8c46c0f1df33d946de3a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_C_12ec7bc6-34f1-484a-c400-a41f96a5868a]: Modification: S. 188CC(3) applied (with effect in accordance with [Sch. 4 para. 190](https://www.legislation.gov.uk/ukpga/1998/36/schedule/4/paragraph/190) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 18 para. 70(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/18/paragraph/70/1) (as substituted) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 114(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/114/2)
 
-[^key-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
+[^c-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)

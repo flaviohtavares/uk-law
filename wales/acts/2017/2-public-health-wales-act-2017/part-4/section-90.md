@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Power to make test purchases[^key-5b2c2318f65083146f5a15df3050608a]
+## 90. Power to make test purchases[^c-5b2c2318f65083146f5a15df3050608a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An authorised officer may make such purchases and arrangements, and secure the p
 
 ## Annotations
 
-[^key-5b2c2318f65083146f5a15df3050608a]: Commencement: [S. 90](https://www.legislation.gov.uk/anaw/2017/2/section/90) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(ee)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/ee) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-5b2c2318f65083146f5a15df3050608a]: Commencement: [S. 90](https://www.legislation.gov.uk/anaw/2017/2/section/90) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(ee)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/ee) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

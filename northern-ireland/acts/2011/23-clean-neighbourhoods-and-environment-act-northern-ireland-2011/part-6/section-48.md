@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Designation of alarm notification areas[^key-1f4621dd04067bd60e1a1cd14fa70b22]
+## 48. Designation of alarm notification areas[^c-1f4621dd04067bd60e1a1cd14fa70b22]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f4621dd04067bd60e1a1cd14fa70b22]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2011/23/section/48) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-1f4621dd04067bd60e1a1cd14fa70b22]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2011/23/section/48) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

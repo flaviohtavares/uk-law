@@ -43,7 +43,7 @@ Coming into force
 
 5 May 2017
 
-The Welsh Ministers, in exercise of the powers conferred on them by sections 217, 319B and 323A of the Town and Country Planning Act 1990[^f00001], section 88E of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002] and section 21B of the Planning (Hazardous Substances) Act 1990[^f00003], make the following Regulations:[^key-ab4965f3bc0265301bf25d5b11395ae8]
+The Welsh Ministers, in exercise of the powers conferred on them by sections 217, 319B and 323A of the Town and Country Planning Act 1990[^f00001], section 88E of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002] and section 21B of the Planning (Hazardous Substances) Act 1990[^f00003], make the following Regulations:[^c-ab4965f3bc0265301bf25d5b11395ae8]
 
 ## Contents
 
@@ -164,7 +164,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 217
 
 - [Section 52 — Application of Regulations to enforcement notices issued by the Welsh Ministers](part-10/section-52.md)
 
-### Part 10A — Applications relating to urgent works on Crown land[^key-162a66ddfa6d815129693a28a649becc]
+### Part 10A — Applications relating to urgent works on Crown land[^c-162a66ddfa6d815129693a28a649becc]
 
 - [Section 52A](part-10a/section-52a.md)
 
@@ -223,6 +223,6 @@ A regulatory impact assessment has been prepared in relation to this instrument.
 
 [^f00003]: Footnote: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10). Section 21B was inserted by [S.I. 2014/2773 (W. 280)](https://www.legislation.gov.uk/wsi/2014/2773).
 
-[^key-ab4965f3bc0265301bf25d5b11395ae8]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2017/544) applied (with modifications) (7.1.2019) by [The Sustainable Drainage (Appeals) (Wales) Regulations 2018 (S.I. 2018/1181)](https://www.legislation.gov.uk/wsi/2018/1181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1181/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/1181/regulation/9), [17(2)](https://www.legislation.gov.uk/wsi/2018/1182/regulation/17/2)
+[^c-ab4965f3bc0265301bf25d5b11395ae8]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2017/544) applied (with modifications) (7.1.2019) by [The Sustainable Drainage (Appeals) (Wales) Regulations 2018 (S.I. 2018/1181)](https://www.legislation.gov.uk/wsi/2018/1181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1181/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/1181/regulation/9), [17(2)](https://www.legislation.gov.uk/wsi/2018/1182/regulation/17/2)
 
-[^key-162a66ddfa6d815129693a28a649becc]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/wsi/2017/544/part/10A) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [108](https://www.legislation.gov.uk/wsi/2024/924/regulation/108)
+[^c-162a66ddfa6d815129693a28a649becc]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/wsi/2017/544/part/10A) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [108](https://www.legislation.gov.uk/wsi/2024/924/regulation/108)

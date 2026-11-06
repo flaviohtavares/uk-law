@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Disclosure of information between UK tax authorities[^key-b48b89e7f3b0496a4d6d07195c8c48cb]
+## 51. Disclosure of information between UK tax authorities[^c-b48b89e7f3b0496a4d6d07195c8c48cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b48b89e7f3b0496a4d6d07195c8c48cb]: Textual amendment: S. 51 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(5)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/5/c) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-b48b89e7f3b0496a4d6d07195c8c48cb]: Textual amendment: S. 51 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(5)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/5/c) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))

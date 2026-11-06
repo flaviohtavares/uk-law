@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Directions as to surplus funds[^key-c32aaeb43e021315a1f9d13aedd42341]
+## 25. Directions as to surplus funds[^c-c32aaeb43e021315a1f9d13aedd42341]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ as the Secretary of State may decide.
 
 ## Annotations
 
-[^key-c32aaeb43e021315a1f9d13aedd42341]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2008/17/section/25) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/m) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-c32aaeb43e021315a1f9d13aedd42341]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2008/17/section/25) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/m) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

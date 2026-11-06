@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Qualifications of supervisors and operatives[^key-34c06677c392319d792c4bf7ae7376a5]
+## 26. Qualifications of supervisors and operatives[^c-34c06677c392319d792c4bf7ae7376a5]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c06677c392319d792c4bf7ae7376a5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2005/12/section/26) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-34c06677c392319d792c4bf7ae7376a5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2005/12/section/26) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

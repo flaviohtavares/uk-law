@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Commission duty to monitor compliance with ongoing registration conditions[^key-e86978fee30aec4f6c51a99ca2d2636d][^key-4fea08dac8423abdcb1a902a73c50f22][^key-a6890aeea4526a9021199b1d3462ada1]
+## 36. Commission duty to monitor compliance with ongoing registration conditions[^c-e86978fee30aec4f6c51a99ca2d2636d][^c-4fea08dac8423abdcb1a902a73c50f22][^c-a6890aeea4526a9021199b1d3462ada1]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ The Commission must monitor compliance with ongoing registration conditions by r
 
 ## Annotations
 
-[^key-e86978fee30aec4f6c51a99ca2d2636d]: Commencement: S. 36 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-e86978fee30aec4f6c51a99ca2d2636d]: Commencement: S. 36 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-4fea08dac8423abdcb1a902a73c50f22]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2022/1/section/36) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(w)](https://www.legislation.gov.uk/wsi/2023/919/article/3/w)
+[^c-4fea08dac8423abdcb1a902a73c50f22]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2022/1/section/36) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(w)](https://www.legislation.gov.uk/wsi/2023/919/article/3/w)
 
-[^key-a6890aeea4526a9021199b1d3462ada1]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2022/1/section/36) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(i)](https://www.legislation.gov.uk/wsi/2025/432/article/2/i)
+[^c-a6890aeea4526a9021199b1d3462ada1]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2022/1/section/36) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(i)](https://www.legislation.gov.uk/wsi/2025/432/article/2/i)

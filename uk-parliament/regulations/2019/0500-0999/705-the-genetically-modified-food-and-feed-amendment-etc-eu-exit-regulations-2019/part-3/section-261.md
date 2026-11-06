@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261.[^key-27f2279b92c6738725bb178ce27dcc07][^key-ec3ea3a20ed5947355e168a2daa274f4]
+## 261.[^c-27f2279b92c6738725bb178ce27dcc07][^c-ec3ea3a20ed5947355e168a2daa274f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In the Annex—
 
 ## Annotations
 
-[^key-27f2279b92c6738725bb178ce27dcc07]: Commencement: Reg. 261 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-27f2279b92c6738725bb178ce27dcc07]: Commencement: Reg. 261 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ec3ea3a20ed5947355e168a2daa274f4]: Textual amendment: Reg. 261 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(17)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/17)
+[^c-ec3ea3a20ed5947355e168a2daa274f4]: Textual amendment: Reg. 261 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(17)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Notices of complaint[^key-db028cb1e63feeae2055d1a43755db13]
+## 89. Notices of complaint[^c-db028cb1e63feeae2055d1a43755db13]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db028cb1e63feeae2055d1a43755db13]: Commencement: S. 89 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-db028cb1e63feeae2055d1a43755db13]: Commencement: S. 89 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

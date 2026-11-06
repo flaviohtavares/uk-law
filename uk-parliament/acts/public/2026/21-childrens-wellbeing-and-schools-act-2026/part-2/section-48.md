@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Imposition of relevant restrictions[^key-9c68ae34266aaaea761173ee46d75fc3]
+## 48. Imposition of relevant restrictions[^c-9c68ae34266aaaea761173ee46d75fc3]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c68ae34266aaaea761173ee46d75fc3]: Commencement: S. 48 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-9c68ae34266aaaea761173ee46d75fc3]: Commencement: S. 48 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

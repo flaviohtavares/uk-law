@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Interpretation[^key-9f7d29df33e10e6f3234f1a5c18e8e71]
+## 114. Interpretation[^c-9f7d29df33e10e6f3234f1a5c18e8e71]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In this Part—
 
 ## Annotations
 
-[^key-9f7d29df33e10e6f3234f1a5c18e8e71]: Commencement: Reg. 114 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-9f7d29df33e10e6f3234f1a5c18e8e71]: Commencement: Reg. 114 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

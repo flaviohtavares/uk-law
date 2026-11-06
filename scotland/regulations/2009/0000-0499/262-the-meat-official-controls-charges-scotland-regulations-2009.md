@@ -61,11 +61,11 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
 (1) In these Regulations—
 
 - “**accounting period**” means a period of less than a year determined by the Agency;
-- “**the Agency**” means Food Standards Scotland[^key-61cbe54c3fc925855f947c293a271b50];
-- “**audit**” has the meaning given to it in Article 3(30) of Regulation 2017/625[^key-5e45aae4398b5cd94e8aed07a480d55f];
+- “**the Agency**” means Food Standards Scotland[^c-61cbe54c3fc925855f947c293a271b50];
+- “**audit**” has the meaning given to it in Article 3(30) of Regulation 2017/625[^c-5e45aae4398b5cd94e8aed07a480d55f];
 - “**controls**” means those official controls performed by the Agency—
-  - (a) under Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^key-469bf74ce287c9a00be40371bf261eab], at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
-  - (b) at slaughterhouses, for the verification of compliance with the provisions of the Welfare of Animals (Slaughter or Killing) Regulations 1995 [^c19748911] and the Welfare of Animals at Time of Killing (Scotland) Regulations 2012[^key-a7ca7af2e3a8f1a6e6016a63f4e36edc];
+  - (a) under Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^c-469bf74ce287c9a00be40371bf261eab], at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
+  - (b) at slaughterhouses, for the verification of compliance with the provisions of the Welfare of Animals (Slaughter or Killing) Regulations 1995 [^c19748911] and the Welfare of Animals at Time of Killing (Scotland) Regulations 2012[^c-a7ca7af2e3a8f1a6e6016a63f4e36edc];
   - (c) in relation to domestic ungulates slaughtered outside the slaughterhouse, pursuant to Chapter VI of Section I of Annex III to Regulation 853/2004;
   - (d) in relation to poultry slaughtered on farm, pursuant to Chapter VI of Section II of Annex III to Regulation 853/2004; and
   - (e) in relation to—
@@ -74,30 +74,30 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
     - (iii) bison,
 
   slaughtered at the place of origin pursuant to Section III of Annex III to Regulation 853/2004;
-- “[^key-93185c40d46efc5544779807a2d6a84d]**cutting plant**” means any establishment which is used for boning and/or cutting up fresh meat for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
+- “[^c-93185c40d46efc5544779807a2d6a84d]**cutting plant**” means any establishment which is used for boning and/or cutting up fresh meat for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
 - “**cutting up**” has the meaning that it bears in Regulation 853/2004 and “**cut up**” shall be construed accordingly;
-- “[^key-803464c3031d8a8bc5cfc0eaa7c2ddea]**Directive 2004/41**”, “**Regulation 178/2002**”, “**Regulation 852/2004**”, “**Regulation 853/2004**”, “**Regulation 1688/2005**”, “**Regulation 2073/2005**”, “**Regulation 2074/2005**”, “**Regulation 2015/1375**”, “**Regulation 2017/185**”, “**Regulation 2017/625**”, “**Regulation 2019/624**” and “**Regulation 2019/627**” have the meanings respectively given to them in schedule 1;
+- “[^c-803464c3031d8a8bc5cfc0eaa7c2ddea]**Directive 2004/41**”, “**Regulation 178/2002**”, “**Regulation 852/2004**”, “**Regulation 853/2004**”, “**Regulation 1688/2005**”, “**Regulation 2073/2005**”, “**Regulation 2074/2005**”, “**Regulation 2015/1375**”, “**Regulation 2017/185**”, “**Regulation 2017/625**”, “**Regulation 2019/624**” and “**Regulation 2019/627**” have the meanings respectively given to them in schedule 1;
 - “**domestic ungulates**” has the meaning given to it in point 1.2 of Annex I to Regulation 853/2004;
 - “**establishment**” has the meaning given to it in Article 2.1(c) of Regulation 852/2004;
 - “**farmed game**” has the meaning given to it in point 1.6 of Annex I to Regulation 853/2004;
 - “**food business operator**” has the meaning given to it in Article 3.3 of Regulation 178/2002;
 - “**fresh meat**” has the meaning given to it in point 1.10 of Annex I to Regulation 853/2004;
 - “**game**” has the meaning that it bears in Regulation 853/2004;
-- “[^key-35fccfeac428c1987e1810c98a26b9ec]**game-handling establishment**” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
+- “[^c-35fccfeac428c1987e1810c98a26b9ec]**game-handling establishment**” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
 - “**game meat**” has the meaning that it bears in Regulation 853/2004;
 - “**inspector**” means an official veterinarian, an official auxiliary or any other person appointed by the Agency for the purpose of performing controls;
 - “**lagomorphs**” has the meaning given to it in point 1.4 of Annex I to Regulation 853/2004;
 - “**meat**” has the meaning given to it in point 1.1 of Annex I to Regulation 853/2004;
-- “**official auxiliary**” has the meaning given to it in Article 3(49) of Regulation 2017/625[^key-6c90782ae4aa554e646710d39c48f310];
-- “**official controls**” shall be construed in accordance with definition of “official control” in Article 2(1) of Regulation 2017/625[^key-867353e43c497fb990554a8138eca275];
+- “**official auxiliary**” has the meaning given to it in Article 3(49) of Regulation 2017/625[^c-6c90782ae4aa554e646710d39c48f310];
+- “**official controls**” shall be construed in accordance with definition of “official control” in Article 2(1) of Regulation 2017/625[^c-867353e43c497fb990554a8138eca275];
 - “**official controls charge**” means the charge calculated in accordance with Schedule 2 and notified in accordance with regulation 3(1), (2) or (3);
-- “**official veterinarian**” has the meaning given to it in Article 3(32) of Regulation 2017/625[^key-daea5d90bb3eb094ed46cdffa386b6d0];
+- “**official veterinarian**” has the meaning given to it in Article 3(32) of Regulation 2017/625[^c-daea5d90bb3eb094ed46cdffa386b6d0];
 - “**operator**” means a food business operator who is carrying on a food business at any premises or that person's duly authorised representative;
 - “**place of origin**” has the meaning that it bears in point 3 of Section III of Annex III to Regulation 853/2004;
 - “**placing on the market**” has the meaning given to it in Article 3.8 of Regulation 178/2002;
 - “**poultry**” has the meaning given to it in point 1.3 of Annex I to Regulation 853/2004;
 - “**premises**” means any slaughterhouse, game—handling establishment, cutting plant, place that is outside the slaughterhouse for the purposes of Chapter VI of Section I of Annex III to Regulation 853/2004, farm or place of origin;
-- “[^key-919d977da42a5b7f4cc3f111ba8d3d36]**slaughterhouse**” means any establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
+- “[^c-919d977da42a5b7f4cc3f111ba8d3d36]**slaughterhouse**” means any establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 148 of Regulation 2017/625;
 - “time costs”, means in relation to any establishment for any accounting period, the costs calculated in accordance with paragraphs 7 to 9 of Schedule 2;
 - “**verification**” means checking, by examination and provision of objective evidence; and
 - “**wild game**” has the meaning given to it in point 1.5 of Annex I to Regulation 853/2004.
@@ -166,7 +166,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — DEFINITIONS OF ... LEGISLATION[^key-ce3cd4265fb8f3c369a59e6821f7614e][^key-1c783c718e415cba6797376a3ea27eb0]
+## SCHEDULE 1 — DEFINITIONS OF ... LEGISLATION[^c-ce3cd4265fb8f3c369a59e6821f7614e][^c-1c783c718e415cba6797376a3ea27eb0]
 
 - “Directive 2004/41” means [Directive 2004/41/EC](https://www.legislation.gov.uk/eudr/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/eud/1995/0408),
 - “Regulation 178/2002” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety,
@@ -191,7 +191,7 @@ Regulation 2(1)
 
 (2) The Agency may vary any percentage determined pursuant to sub-paragraph (1) where it appears to the Agency to be appropriate to do so.
 
-**2.** In calculating the official controls charge, the Agency shall comply with Article 82 of Regulation 2017/625[^key-467105a02b108f6947d9453de9df5da0].
+**2.** In calculating the official controls charge, the Agency shall comply with Article 82 of Regulation 2017/625[^c-467105a02b108f6947d9453de9df5da0].
 
 ### 3. Declarations by operators
 
@@ -238,7 +238,7 @@ the operator may request that the matter that is the subject of that decision be
 
 (9) Where, pursuant to sub-paragraph (7)(b)(ii), the person nominated determines that the decision made by the Agency pursuant to sub-paragraph (3) was incorrect, the Agency shall refund to the operator the payment made by the operator in accordance with sub-paragraph (3).
 
-**6.** Nothing in paragraph 4 or 5 shall restrict the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^key-b883fc946bc42cb648659ce141eaa560] are achieved and that the obligation specified in Article 9(1)[^key-2c5ced6976948212ce138d889f02d6bb] of that Regulation is fulfilled.
+**6.** Nothing in paragraph 4 or 5 shall restrict the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^c-b883fc946bc42cb648659ce141eaa560] are achieved and that the obligation specified in Article 9(1)[^c-2c5ced6976948212ce138d889f02d6bb] of that Regulation is fulfilled.
 
 ### 7. Time costs
 
@@ -262,7 +262,7 @@ shall be counted as if it were time when the inspector was exercising controls.
 
 **10.** The Agency shall determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising controls by different inspectors or classes of inspector.
 
-**11.** The hourly rate for any inspector or class of inspector shall be calculated so as to reflect such proportion of the costs of the items listed in Article 81 of Regulation 2017/625[^key-5637e4ad06642dd2358c4ba6d37ff226] incurred by that inspector or class of inspector in exercising controls (excluding any payments or allowances taken into account pursuant to paragraph 8) as the Agency considers it appropriate to apportion to that hourly rate.
+**11.** The hourly rate for any inspector or class of inspector shall be calculated so as to reflect such proportion of the costs of the items listed in Article 81 of Regulation 2017/625[^c-5637e4ad06642dd2358c4ba6d37ff226] incurred by that inspector or class of inspector in exercising controls (excluding any payments or allowances taken into account pursuant to paragraph 8) as the Agency considers it appropriate to apportion to that hourly rate.
 
 **12.** The Agency may vary any rate determined pursuant to paragraph 10 where, having regard to variations in the costs referred to in paragraph 11, it appears to it to be necessary to do so.
 
@@ -304,42 +304,42 @@ shall be counted as if it were time when the inspector was exercising controls.
 
 [^c19748901]: Marginal citation: O.J. No. L 31, 1.2.02, p.1. The Regulation was amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4), Commission Regulation (EC) No. 575/2006 (O.J. No. L 100, 8.4.06, p.3) and by Commission Regulation (EC) No. 202/2008 (O.J. No. L 60, 5.3.08, p.17).
 
-[^key-61cbe54c3fc925855f947c293a271b50]: Textual amendment: Words in reg. 2(1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 22](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/22)
+[^c-61cbe54c3fc925855f947c293a271b50]: Textual amendment: Words in reg. 2(1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 22](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/22)
 
-[^key-5e45aae4398b5cd94e8aed07a480d55f]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/a)
+[^c-5e45aae4398b5cd94e8aed07a480d55f]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/a)
 
-[^key-469bf74ce287c9a00be40371bf261eab]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/b)
+[^c-469bf74ce287c9a00be40371bf261eab]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/b)
 
 [^c19748911]: Marginal citation: [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731), amended by [S.I. 1999/400](https://www.legislation.gov.uk/uksi/1999/400), [S.I](https://www.legislation.gov.uk/uksi/1999/400/section/I). 1999/1820, [S.I. 2000/656](https://www.legislation.gov.uk/uksi/2000/656), [S.I](https://www.legislation.gov.uk/uksi/2000/656/section/I). 2000/3352, [S.I. 2001/447](https://www.legislation.gov.uk/uksi/2001/447), [S.I](https://www.legislation.gov.uk/uksi/2001/447/section/I). 2001/3830, S.I. 2003/3272, [S.I. 2006/1200](https://www.legislation.gov.uk/uksi/2006/1200) and [S.I. 2007/402](https://www.legislation.gov.uk/uksi/2007/402).
 
-[^key-a7ca7af2e3a8f1a6e6016a63f4e36edc]: Textual amendment: Words in reg. 2(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2012/321/schedule/4/paragraph/4)
+[^c-a7ca7af2e3a8f1a6e6016a63f4e36edc]: Textual amendment: Words in reg. 2(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2012/321/schedule/4/paragraph/4)
 
-[^key-93185c40d46efc5544779807a2d6a84d]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/c)
+[^c-93185c40d46efc5544779807a2d6a84d]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/c)
 
-[^key-803464c3031d8a8bc5cfc0eaa7c2ddea]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(d)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/d)
+[^c-803464c3031d8a8bc5cfc0eaa7c2ddea]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(d)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/d)
 
-[^key-35fccfeac428c1987e1810c98a26b9ec]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(e)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/e)
+[^c-35fccfeac428c1987e1810c98a26b9ec]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(e)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/e)
 
-[^key-6c90782ae4aa554e646710d39c48f310]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(f)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/f)
+[^c-6c90782ae4aa554e646710d39c48f310]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(f)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/f)
 
-[^key-867353e43c497fb990554a8138eca275]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(g)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/g)
+[^c-867353e43c497fb990554a8138eca275]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(g)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/g)
 
-[^key-daea5d90bb3eb094ed46cdffa386b6d0]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(h)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/h)
+[^c-daea5d90bb3eb094ed46cdffa386b6d0]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(h)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/h)
 
-[^key-919d977da42a5b7f4cc3f111ba8d3d36]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/i)
+[^c-919d977da42a5b7f4cc3f111ba8d3d36]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(2)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/2/i)
 
 [^M_F_0a9ceb79-ca00-4f0d-c4a0-75b3ca43f18d]: Textual amendment: Words in reg. 2(2) substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^c19748951]: Marginal citation: S.S.I. 2008/98.
 
-[^key-ce3cd4265fb8f3c369a59e6821f7614e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2009/262/schedule/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [reg. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2019/407/schedule/3)
+[^c-ce3cd4265fb8f3c369a59e6821f7614e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2009/262/schedule/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [reg. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2019/407/schedule/3)
 
-[^key-1c783c718e415cba6797376a3ea27eb0]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2009/262/schedule/1) heading omitted (31.12.2020) by virtue of [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/2/2)
+[^c-1c783c718e415cba6797376a3ea27eb0]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2009/262/schedule/1) heading omitted (31.12.2020) by virtue of [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/2/2)
 
-[^key-467105a02b108f6947d9453de9df5da0]: Textual amendment: Words in Sch. 2 para. 2 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/a)
+[^c-467105a02b108f6947d9453de9df5da0]: Textual amendment: Words in Sch. 2 para. 2 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/a)
 
-[^key-b883fc946bc42cb648659ce141eaa560]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/b/i)
+[^c-b883fc946bc42cb648659ce141eaa560]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/b/i)
 
-[^key-2c5ced6976948212ce138d889f02d6bb]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/b/ii)
+[^c-2c5ced6976948212ce138d889f02d6bb]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/b/ii)
 
-[^key-5637e4ad06642dd2358c4ba6d37ff226]: Textual amendment: Words in Sch. 2 para. 11 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/c)
+[^c-5637e4ad06642dd2358c4ba6d37ff226]: Textual amendment: Words in Sch. 2 para. 11 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/ssi/2019/407/regulation/6/4/c)

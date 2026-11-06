@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**34.**[^key-a35d8680fbdc11e4ff53080d439f8ab2] In the Arrangement of Rules contained in the Criminal Procedure Rules 2005—
+**34.**[^c-a35d8680fbdc11e4ff53080d439f8ab2] In the Arrangement of Rules contained in the Criminal Procedure Rules 2005—
 
 - (a) in the entry for Part 5, for “Forms”, substitute “Forms and court records”;
 - (b) before the entry for Part 6 “Court records”, insert a new division heading “Preliminary proceedings”;
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a35d8680fbdc11e4ff53080d439f8ab2]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2009/2087/article/34) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-a35d8680fbdc11e4ff53080d439f8ab2]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2009/2087/article/34) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

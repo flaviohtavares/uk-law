@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Companies and other organisations[^key-42ca82057b3e9c1617ca797330211c11]
+## 44. Companies and other organisations[^c-42ca82057b3e9c1617ca797330211c11]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42ca82057b3e9c1617ca797330211c11]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2013/11/section/44) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-42ca82057b3e9c1617ca797330211c11]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2013/11/section/44) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

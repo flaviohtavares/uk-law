@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.8. Procedure where defendant objects to use of the Part 8 procedure[^key-fdce543285a965231013f7dd537fb168]
+## 8.8. Procedure where defendant objects to use of the Part 8 procedure[^c-fdce543285a965231013f7dd537fb168]
 
 *Extent: E+W*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (2) When the court receives the acknowledgment of service and any written evidence it will give directions as to the future management of the case.
 
-(Rule 8.1(4)[^key-efd45ffcc38d02ecdefdc4901d0f29da] allows the court to make an order that the claim continue as if the claimant had not used the Part 8 procedure)
+(Rule 8.1(4)[^c-efd45ffcc38d02ecdefdc4901d0f29da] allows the court to make an order that the claim continue as if the claimant had not used the Part 8 procedure)
 
 ## Annotations
 
-[^key-fdce543285a965231013f7dd537fb168]: Commencement: [Rule 8.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-fdce543285a965231013f7dd537fb168]: Commencement: [Rule 8.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-efd45ffcc38d02ecdefdc4901d0f29da]: Textual amendment: Words in [rule 8.8(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.8/2) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [6](https://www.legislation.gov.uk/uksi/2026/817/rule/6)
+[^c-efd45ffcc38d02ecdefdc4901d0f29da]: Textual amendment: Words in [rule 8.8(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.8/2) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [6](https://www.legislation.gov.uk/uksi/2026/817/rule/6)

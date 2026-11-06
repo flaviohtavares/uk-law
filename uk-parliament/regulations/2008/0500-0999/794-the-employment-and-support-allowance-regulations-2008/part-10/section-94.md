@@ -26,7 +26,7 @@ summary: ''
 - (b) exceeds a week, the weekly amount is to be determined—
   - (i) in a case where that period is a month, by multiplying the amount of the payment by 12 and dividing the product by 52;
   - (ii) in a case where that period is 3 months, by multiplying the amount of the payment by 4 and dividing the product by 52;
-  - (iii)[^key-86fe2de8bc0c766317e24fb0072c9c44] in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7;
+  - (iii)[^c-86fe2de8bc0c766317e24fb0072c9c44] in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7;
   - (iiia) in a case where that period is a year and the payment is income other than an award of working tax credit, by dividing the amount of the payment by 52;
   - (iv) in any other case by multiplying the amount of the payment by 7 and dividing the product by the number equal to the number of days in the period in respect of which it is made.
 
@@ -48,10 +48,10 @@ summary: ''
 
 (7) Where income is taken into account under paragraph (4) of regulation 91 over the period specified in that paragraph, the amount of that income to be taken into account in respect of any week in that period is to be an amount equal to the amount of that income which would have been taken into account under regulation 132 (calculation of grant income) had the person to whom that income was paid not ceased to be a full-time student.
 
-(8) Where any payment of earnings is taken into account under paragraph (8)[^key-3a9b2c500334e2d80d1c24b024c83541] of regulation 91 (calculation of earnings derived from employed earner's employment and income other than earnings), over the period specified in that paragraph, the amount to be taken into account is to be equal to the amount of the payment.
+(8) Where any payment of earnings is taken into account under paragraph (8)[^c-3a9b2c500334e2d80d1c24b024c83541] of regulation 91 (calculation of earnings derived from employed earner's employment and income other than earnings), over the period specified in that paragraph, the amount to be taken into account is to be equal to the amount of the payment.
 
 ## Annotations
 
-[^key-86fe2de8bc0c766317e24fb0072c9c44]: Textual amendment: Reg. 94(1)(b)(iii)(iiia) substituted for reg. 94(1)(b)(iii) (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2009/583/regulation/10/6)
+[^c-86fe2de8bc0c766317e24fb0072c9c44]: Textual amendment: Reg. 94(1)(b)(iii)(iiia) substituted for reg. 94(1)(b)(iii) (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2009/583/regulation/10/6)
 
-[^key-3a9b2c500334e2d80d1c24b024c83541]: Textual amendment: Words in reg. 94(8) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/8/1)
+[^c-3a9b2c500334e2d80d1c24b024c83541]: Textual amendment: Words in reg. 94(8) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/8/1)

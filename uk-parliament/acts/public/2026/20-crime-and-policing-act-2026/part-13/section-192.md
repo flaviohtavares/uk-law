@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Duty of offender to notify details[^key-030fbdb3cbdcfa606cad61e808001e87]
+## 192. Duty of offender to notify details[^c-030fbdb3cbdcfa606cad61e808001e87]
 
 *Extent: E+W*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030fbdb3cbdcfa606cad61e808001e87]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2026/20/section/192) in force at 29.6.2026, see [s. 255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-030fbdb3cbdcfa606cad61e808001e87]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2026/20/section/192) in force at 29.6.2026, see [s. 255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)

@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1997 (revoked)[^key-354c168513999255089c45f4c55fc01d]
+The Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1997 (revoked)[^c-354c168513999255089c45f4c55fc01d]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 6th April 1997
 
-[^key-354c168513999255089c45f4c55fc01d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-354c168513999255089c45f4c55fc01d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-354c168513999255089c45f4c55fc01d]
+## 1. Citation and commencement[^c-354c168513999255089c45f4c55fc01d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 19 of the Social Security (Contributions) Regulations[^key-354c168513999255089c45f4c55fc01d]
+## 2. Amendment of regulation 19 of the Social Security (Contributions) Regulations[^c-354c168513999255089c45f4c55fc01d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-354c168513999255089c45f4c55fc01d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-354c168513999255089c45f4c55fc01d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-354c168513999255089c45f4c55fc01d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-354c168513999255089c45f4c55fc01d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-354c168513999255089c45f4c55fc01d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/180) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
+[^c-354c168513999255089c45f4c55fc01d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/180) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)

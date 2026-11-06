@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.14. Transcripts at public expense[^key-80838474f749f7ae040b777947f28e75]
+## 52.14. Transcripts at public expense[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (2), the lower court or the appeal court may direct, on the request[^key-e7141601b7d56afc9e10a5e3e6962066] of a party to the proceedings, that an official transcript of the judgment of the lower court, or of any part of the evidence or the proceedings in the lower court, be obtained at public expense for the purposes of an appeal.
+(1) Subject to paragraph (2), the lower court or the appeal court may direct, on the request[^c-e7141601b7d56afc9e10a5e3e6962066] of a party to the proceedings, that an official transcript of the judgment of the lower court, or of any part of the evidence or the proceedings in the lower court, be obtained at public expense for the purposes of an appeal.
 
 (2) Before making a direction under paragraph (1), the court must be satisfied that—
 
-- (a) the requesting party[^key-9eb873b99e66a53e8c94b6f9e067fe8d] qualifies for fee remission or is otherwise in such poor financial circumstances that the cost of obtaining a transcript would be an excessive burden; and
+- (a) the requesting party[^c-9eb873b99e66a53e8c94b6f9e067fe8d] qualifies for fee remission or is otherwise in such poor financial circumstances that the cost of obtaining a transcript would be an excessive burden; and
 - (b) it is necessary in the interests of justice for such a transcript to be obtained.
 
-(3)[^key-0870b1360b798ba82c7a28dbdbd08a16] A request under paragraph (1) must be made on the approved form.
+(3)[^c-0870b1360b798ba82c7a28dbdbd08a16] A request under paragraph (1) must be made on the approved form.
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-e7141601b7d56afc9e10a5e3e6962066]: Textual amendment: Word in rule 52.14(1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/20/a)
+[^c-e7141601b7d56afc9e10a5e3e6962066]: Textual amendment: Word in rule 52.14(1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/20/a)
 
-[^key-9eb873b99e66a53e8c94b6f9e067fe8d]: Textual amendment: Words in rule 52.14(2)(a) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/20/b)
+[^c-9eb873b99e66a53e8c94b6f9e067fe8d]: Textual amendment: Words in rule 52.14(2)(a) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/20/b)
 
-[^key-0870b1360b798ba82c7a28dbdbd08a16]: Textual amendment: Rule 52.14(3) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2022/783/rule/20/c)
+[^c-0870b1360b798ba82c7a28dbdbd08a16]: Textual amendment: Rule 52.14(3) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2022/783/rule/20/c)

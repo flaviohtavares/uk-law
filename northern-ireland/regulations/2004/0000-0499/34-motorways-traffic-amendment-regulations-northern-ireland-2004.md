@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motorways Traffic (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-ac7249a711f1d818e19d8a423893cc50]
+Motorways Traffic (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-ac7249a711f1d818e19d8a423893cc50]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 15th March 2004
 
-[^key-ac7249a711f1d818e19d8a423893cc50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac7249a711f1d818e19d8a423893cc50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ac7249a711f1d818e19d8a423893cc50]
+## 1. Citation and commencement[^c-ac7249a711f1d818e19d8a423893cc50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-ac7249a711f1d818e19d8a423893cc50]
+## 2. Amendment[^c-ac7249a711f1d818e19d8a423893cc50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac7249a711f1d818e19d8a423893cc50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac7249a711f1d818e19d8a423893cc50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac7249a711f1d818e19d8a423893cc50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac7249a711f1d818e19d8a423893cc50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac7249a711f1d818e19d8a423893cc50]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/34) revoked (20.9.2004) by [Motorways Traffic (Amendment No. 2) Regulations (Northern Ireland) 2004 (S.R. 2004/336)](https://www.legislation.gov.uk/nisr/2004/336), [regs. 1](https://www.legislation.gov.uk/nisr/2004/336/regulation/1), [3](https://www.legislation.gov.uk/nisr/2004/336/regulation/3)
+[^c-ac7249a711f1d818e19d8a423893cc50]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/34) revoked (20.9.2004) by [Motorways Traffic (Amendment No. 2) Regulations (Northern Ireland) 2004 (S.R. 2004/336)](https://www.legislation.gov.uk/nisr/2004/336), [regs. 1](https://www.legislation.gov.uk/nisr/2004/336/regulation/1), [3](https://www.legislation.gov.uk/nisr/2004/336/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Vetting by relevant authorised persons of candidates for approval[^key-c43c7debcd6804b3772a7538d004e4a5]
+## 21. Vetting by relevant authorised persons of candidates for approval[^c-c43c7debcd6804b3772a7538d004e4a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ After section 60 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-c43c7debcd6804b3772a7538d004e4a5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/33/section/21) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-c43c7debcd6804b3772a7538d004e4a5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/33/section/21) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

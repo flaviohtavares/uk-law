@@ -64,13 +64,13 @@ In accordance with paragraph 19(2) of that Schedule[^f00012], Ministers have dec
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-48773aa5d81c4e34c4b1680cc7de2a3b]
+### 1. Citation and commencement[^c-48773aa5d81c4e34c4b1680cc7de2a3b]
 
 (1) This Order may be cited as the Fraserburgh Harbour Revision Order 2011 and shall come into force on the day following the day on which it is made.
 
 (2) The Fraserburgh Harbour Order Confirmation Act 1985[^f00013], the Fraserburgh Harbour Order Confirmation Act 1990[^f00014], The Fraserburgh Harbour Revision Order 1995[^f00015], The Fraserburgh Harbour Revision Order 1999[^f00016], The Fraserburgh Harbour Revision (Constitution) Order 2001[^f00017] and this Order may be cited together as the Fraserburgh Harbour Acts and Orders 1985 to 2011.
 
-### 2. Interpretation[^key-6d49ce67d0dea2f092c4a251e8bab79f]
+### 2. Interpretation[^c-6d49ce67d0dea2f092c4a251e8bab79f]
 
 (1) In this Order—
 
@@ -91,7 +91,7 @@ In accordance with paragraph 19(2) of that Schedule[^f00012], Ministers have dec
 
 ## PART 2 — WORKS
 
-### 3. Power to construct works[^key-48ebbfcf564768bb65dcfebbbc076cd4]
+### 3. Power to construct works[^c-48ebbfcf564768bb65dcfebbbc076cd4]
 
 (1) The Commissioners may in the lines and situations and upon the lands delineated on the deposited plans and within the limits of deviation shown on them and according to the levels shown on the deposited sections or deposited elevations, construct and maintain the following works—
 
@@ -113,15 +113,15 @@ In accordance with paragraph 19(2) of that Schedule[^f00012], Ministers have dec
 
 (3) The Commissioners may, within the limits of deviation, reconstruct, extend, enlarge, replace, relay or otherwise alter temporarily or permanently the works authorised by paragraph (1) and may maintain the same as reconstructed, extended, enlarged, replaced or relaid.
 
-### 4. Power to deviate[^key-ac16ecd19c357175e785999c97a95c60]
+### 4. Power to deviate[^c-ac16ecd19c357175e785999c97a95c60]
 
 In carrying out the works authorised by this Order the Commissioners may deviate laterally from the lines or situations of those works as shown on the deposited plans to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works as shown on the deposited sections or deposited elevations to any extent not exceeding 3 metres upwards and to such extent downwards as may be found necessary or convenient.
 
-### 5. Subsidiary works[^key-5e6728d7eba0bbeba6ffb637ea954afc]
+### 5. Subsidiary works[^c-5e6728d7eba0bbeba6ffb637ea954afc]
 
 The Commissioners, for the purposes of or in connection with the works, may within the limits of deviation construct, execute and maintain all such subsidiary or incidental works and conveniences as may be necessary or expedient for or in connection with the works.
 
-### 6. Period for commencement of works[^key-4089b2a6728636d601125360241c19f6]
+### 6. Period for commencement of works[^c-4089b2a6728636d601125360241c19f6]
 
 (1) Subject to paragraph (3), if the works are not substantially commenced within five years from the date of coming into force of this Order or such extended time as the Scottish Ministers may on the application of the Commissioners allow by consent in writing, then on the expiration of that period or such extended time (as the case may be) the powers granted by this Order to the Commissioners for making and maintaining the works shall cease.
 
@@ -135,7 +135,7 @@ The Commissioners, for the purposes of or in connection with the works, may with
 
 (6) During the period of one month beginning with the date on which any notice is published in a local newspaper under paragraph (5), a copy of the consent referred to in that notice shall be kept by the Commissioners at the offices of the Commissioners situated at the harbour and shall at reasonable hours be open to public inspection without payment.
 
-### 7. Power to dredge[^key-aa701c8b3b51181a0983f68af3a7dc34]
+### 7. Power to dredge[^c-aa701c8b3b51181a0983f68af3a7dc34]
 
 (1) Without prejudice to any other powers which may be exercisable by the Commissioners within the harbour the Commissioners may, for the purposes of constructing the works deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the harbour as lie within the limits of the harbour and within the approaches and the channels leading to those limits and may use, appropriate or dispose of the materials (other than any wreck within the meaning of Part IX of the Merchant Shipping Act 1995[^f00019]), from time to time dredged by them from the harbour.
 
@@ -144,15 +144,15 @@ The Commissioners, for the purposes of or in connection with the works, may with
 - (a) in contravention of the provisions of any enactment as respects the disposal of waste; or
 - (b) in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
 
-### 8. Fine for obstructing works[^key-c7fb12f3a7d2c00d3273ae3512f43ddf]
+### 8. Fine for obstructing works[^c-c7fb12f3a7d2c00d3273ae3512f43ddf]
 
 Any person who intentionally obstructs any person acting under the authority of the Commissioners in setting out the lines of the works, or who moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale, and shall in addition be liable to repay to the Commissioners as a debt any expenses incurred by it in making good any damage resulting from such obstruction, moving or removal.
 
-### 9. Works to be deemed part of harbour[^key-254b446256c7e49d14119fd04bb4d218]
+### 9. Works to be deemed part of harbour[^c-254b446256c7e49d14119fd04bb4d218]
 
 The works shall be deemed for all purposes to be part of the harbour and all byelaws, directions, rules and regulations of the Commissioners for the time being in force relating to the harbour shall apply to the works and may be enforced by the Commissioners accordingly.
 
-### 10. Tidal works not to be executed without approval of the Scottish Ministers[^key-65ea55b394d71905e61b0929fb668b9f]
+### 10. Tidal works not to be executed without approval of the Scottish Ministers[^c-65ea55b394d71905e61b0929fb668b9f]
 
 (1) A tidal work shall not be demolished, constructed, renewed, reconstructed or altered except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun.
 
@@ -165,17 +165,17 @@ and any expenditure incurred by the Scottish Ministers in so doing shall be reco
 
 (3) Paragraph (1) shall not apply to any work authorised by paragraph (1) of article 3 (power to construct works) and any related works authorised by article 5 (subsidiary works).
 
-### 11. Survey of tidal works[^key-a2a0b504f5305c0a91a3300357c3c306]
+### 11. Survey of tidal works[^c-a2a0b504f5305c0a91a3300357c3c306]
 
 The Scottish Ministers may at any time if they deem it expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct the work and any expense incurred by them in such a survey and examination shall be recoverable from the Commissioners as a debt.
 
-### 12. Provision against danger to navigation[^key-a8c31abf465a259d7527419ddfea1f20]
+### 12. Provision against danger to navigation[^c-a8c31abf465a259d7527419ddfea1f20]
 
 (1) In the case of injury to or destruction or decay of a tidal work or any part thereof, the Commissioners shall as soon as practicable notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Commissioners fail to comply in any respect with the provisions of this article, they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 13. Abatement of works abandoned or decayed[^key-ce1cd3540a706f0479ecd4674a2e5a17]
+### 13. Abatement of works abandoned or decayed[^c-ce1cd3540a706f0479ecd4674a2e5a17]
 
 (1) Where a tidal work is abandoned or suffered to fall into decay the Scottish Ministers may by notice in writing require the Commissioners at their own expense either to repair and restore the work or any part of it, or to remove the work and restore the site thereof to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
 
@@ -183,23 +183,23 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon the Commissioners they have failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing shall be recoverable from the Commissioners as a debt.
 
-### 14. Lights on tidal works during construction[^key-4bb7d1e3aa01997bc30df829ef738937]
+### 14. Lights on tidal works during construction[^c-4bb7d1e3aa01997bc30df829ef738937]
 
 (1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work the Commissioners shall at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Commissioners fail to comply in any respect with a direction given under this article they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 15. Permanent lights on tidal works[^key-8d1f31a97b030eae627b9a16126f7e6e]
+### 15. Permanent lights on tidal works[^c-8d1f31a97b030eae627b9a16126f7e6e]
 
 (1) After completion of a tidal work, the Commissioners shall at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Commissioners fail to comply in any respect with a direction given under this article they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 16. Works to be within area of Aberdeenshire Council[^key-7b1d24216a6dce8f0f72ee99c615989d]
+### 16. Works to be within area of Aberdeenshire Council[^c-7b1d24216a6dce8f0f72ee99c615989d]
 
 The works shall, to the extent that they lie outwith the area of the Aberdeenshire Council, be annexed to and incorporated within that area.
 
-### 17. Minimising risk to marine mammals[^key-c05390c75bf8fddde5ef88545fce0035]
+### 17. Minimising risk to marine mammals[^c-c05390c75bf8fddde5ef88545fce0035]
 
 (1) In constructing the works, the Commissioners shall act in accordance with—
 
@@ -210,7 +210,7 @@ both issued by the Joint Nature Conservation Committee[^f00022].
 
 ## PART 3 — TEMPORARY CLOSURE OF HARBOUR
 
-### 18. Temporary closure of area of works[^key-95e68aa60806fab922f77c60e31e4aeb]
+### 18. Temporary closure of area of works[^c-95e68aa60806fab922f77c60e31e4aeb]
 
 (1) For the purpose of carrying out the works the Commissioners may irrespective of anything in any enactment—
 
@@ -219,7 +219,7 @@ both issued by the Joint Nature Conservation Committee[^f00022].
 
 (2) Irrespective of anything contained in this Order, the area of works shall not be closed to vessels for a period continuous or discontinuous longer than two years.
 
-### 19. Removal of vessels from area of works[^key-f705ec5ce186f657b3a6ab3712f8c34c]
+### 19. Removal of vessels from area of works[^c-f705ec5ce186f657b3a6ab3712f8c34c]
 
 (1) Before exercising the power conferred on them by article 18 (temporary closure of area of works) of this order temporarily to close the area of works to vessels the Commissioners shall—
 
@@ -236,13 +236,13 @@ both issued by the Joint Nature Conservation Committee[^f00022].
 
 (4) The powers conferred on the harbour master and the Commissioners by this article is in addition to and without prejudice to the powers relating to the removal of vessels conferred upon them by sections 64 and 65 of the Harbours, Docks and Piers Clauses Act 1847[^f00023].
 
-### 20. Vessels entering the area of works after date of closure[^key-caf03203dda804257da9d3c051deda62]
+### 20. Vessels entering the area of works after date of closure[^c-caf03203dda804257da9d3c051deda62]
 
 If any vessel enters the area of works after the date specified in paragraph (2)(b) of article 19 (removal of vessels from area of works) of this Order, during the period of temporary closure the harbour master may direct the master of the vessel immediately to remove the vessel from the area of works, and if the master of that vessel does not immediately comply with such directions the provisions of paragraphs (3) and (4) of article 19 shall apply to and in respect of that vessel as if the vessel had been within the area of works before the date specified in paragraph (2) (b) of article 19.
 
 ## PART 4 — REVISION OF CONSTITUTION
 
-### 21. Incorporation of section 60 of Commissioners Clauses Act 1847[^key-ca47644e87de68fd0f442bb575e5c44e]
+### 21. Incorporation of section 60 of Commissioners Clauses Act 1847[^c-ca47644e87de68fd0f442bb575e5c44e]
 
 After article 2 (Interpretation) of the 2001 Order there shall be inserted—
 
@@ -252,23 +252,23 @@ After article 2 (Interpretation) of the 2001 Order there shall be inserted—
 
 .
 
-### 22. Body corporate[^key-ae5ba8a96a258bda7ea649b7d98b948c]
+### 22. Body corporate[^c-ae5ba8a96a258bda7ea649b7d98b948c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Application procedure[^key-ae5ba8a96a258bda7ea649b7d98b948c]
+### 23. Application procedure[^c-ae5ba8a96a258bda7ea649b7d98b948c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Interviews and selection[^key-ae5ba8a96a258bda7ea649b7d98b948c]
+### 24. Interviews and selection[^c-ae5ba8a96a258bda7ea649b7d98b948c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Registers[^key-ae5ba8a96a258bda7ea649b7d98b948c]
+### 25. Registers[^c-ae5ba8a96a258bda7ea649b7d98b948c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Termination of office[^key-855c8c76ffdc758d0739f272a4937175]
+### 26. Termination of office[^c-855c8c76ffdc758d0739f272a4937175]
 
 (1) In sub-paragraph (d) of article 12(1) (Termination of office) of the 2001 Order, the words “, unsuitable (in the opinion of the Commissioners)” shall be inserted after the word “unwilling” and before “or”.
 
@@ -280,13 +280,13 @@ After article 2 (Interpretation) of the 2001 Order there shall be inserted—
 
 .
 
-### 27. Indemnity insurance[^key-0aa2cb3cf6e57abafdde2ec3f5350e58]
+### 27. Indemnity insurance[^c-0aa2cb3cf6e57abafdde2ec3f5350e58]
 
 In article 13 (Indemnity insurance) of the 2001 Order for the word “shall” there shall be substituted the word “may”.
 
 ## PART 5 — MISCELLANEOUS
 
-### 28. Defence of due diligence[^key-05b1db7d535ce4c28edabfc9bfcbb316]
+### 28. Defence of due diligence[^c-05b1db7d535ce4c28edabfc9bfcbb316]
 
 (1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for the Commissioners to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
@@ -298,7 +298,7 @@ In article 13 (Indemnity insurance) of the 2001 Order for the word “shall” t
 
 (3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Commissioners shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, they have served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in their possession.
 
-### 29. Borrowing powers[^key-83fb7ffd2e15356f032a70c4a5ffc952]
+### 29. Borrowing powers[^c-83fb7ffd2e15356f032a70c4a5ffc952]
 
 For article 16 sub-paragraphs (1), to (3) inclusive (Borrowing powers) of the 2001 Order there shall be substituted the following—
 
@@ -306,27 +306,27 @@ For article 16 sub-paragraphs (1), to (3) inclusive (Borrowing powers) of the 20
 
 .
 
-### 30. Saving for Commissioners of Northern Lighthouses[^key-fd99d994a11c6abafcec7d4e1fbdbba8]
+### 30. Saving for Commissioners of Northern Lighthouses[^c-fd99d994a11c6abafcec7d4e1fbdbba8]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-### 31. Saving for other consents, etc.[^key-cfe7c0f66db570f3e5544c0d881836fd]
+### 31. Saving for other consents, etc.[^c-cfe7c0f66db570f3e5544c0d881836fd]
 
 The carrying out of any works or operations pursuant to this Order is subject to the Commissioners obtaining any consent, permission or licence required under any other enactment.
 
-### 32. Crown rights[^key-9d5a433dd0953e952afa8857cb6b6a66]
+### 32. Crown rights[^c-9d5a433dd0953e952afa8857cb6b6a66]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises the Commissioners or any licensee to take, use, enter upon or in any manner interfere with any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
 - (a) belonging to Her Majesty in right of the Crown and under the management of the Crown estate, without the consent in writing of the Crown Estate Commissioners;
-- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown estate without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person[^key-8f1c33ce6d93df4e793b7be67c752fee]; or
+- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown estate without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person[^c-8f1c33ce6d93df4e793b7be67c752fee]; or
 - (c) belonging to a government department or held in trust for Her Majesty for the purposes of a government department without the consent in writing of that government department.
 
-(1A)[^key-8c715cd9afeb26e39fa4bf3f262b32a9] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(1A)[^c-8c715cd9afeb26e39fa4bf3f262b32a9] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and shall be deemed to have been given in writing where it is sent electronically.
 
-### 33. Amendments[^key-2698b0b1e9a14ab7eed805d43ba703b0]
+### 33. Amendments[^c-2698b0b1e9a14ab7eed805d43ba703b0]
 
 For the definition of “Commissioners” in section 2 of the Fraserburgh Harbour Order 1985 there shall be substituted—
 
@@ -334,7 +334,7 @@ For the definition of “Commissioners” in section 2 of the Fraserburgh Harbou
 
 .
 
-### 34. Revocations[^key-247db1291eefd1e2246b93099e031130]
+### 34. Revocations[^c-247db1291eefd1e2246b93099e031130]
 
 Article 17 (Annual increase in borrowing limit) of the 2001 Order is revoked.
 
@@ -348,7 +348,7 @@ Edinburgh
 
 20th December 2011
 
-## SCHEDULE 1 — DECLARATION OF INTERESTS[^key-9bbfb4610f5be87873c396a656d1a732]
+## SCHEDULE 1 — DECLARATION OF INTERESTS[^c-9bbfb4610f5be87873c396a656d1a732]
 
 Article 26
 
@@ -394,7 +394,7 @@ The Order, together with the certified plans, sections and elevations may be ins
 
 [^f00012]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1990/3445](https://www.legislation.gov.uk/uksi/1990/3445).
 
-[^key-48773aa5d81c4e34c4b1680cc7de2a3b]: Commencement: Art. 1 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-48773aa5d81c4e34c4b1680cc7de2a3b]: Commencement: Art. 1 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
 [^f00013]: Footnote: [1985 c. xlv](https://www.legislation.gov.uk/ukla/1985/45).
 
@@ -406,41 +406,41 @@ The Order, together with the certified plans, sections and elevations may be ins
 
 [^f00017]: Footnote: [S.S.I. 2001/457](https://www.legislation.gov.uk/ssi/2001/457).
 
-[^key-6d49ce67d0dea2f092c4a251e8bab79f]: Commencement: Art. 2 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-6d49ce67d0dea2f092c4a251e8bab79f]: Commencement: Art. 2 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-48ebbfcf564768bb65dcfebbbc076cd4]: Commencement: Art. 3 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-48ebbfcf564768bb65dcfebbbc076cd4]: Commencement: Art. 3 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
 [^f00018]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-ac16ecd19c357175e785999c97a95c60]: Commencement: Art. 4 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-ac16ecd19c357175e785999c97a95c60]: Commencement: Art. 4 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-5e6728d7eba0bbeba6ffb637ea954afc]: Commencement: Art. 5 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-5e6728d7eba0bbeba6ffb637ea954afc]: Commencement: Art. 5 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-4089b2a6728636d601125360241c19f6]: Commencement: Art. 6 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-4089b2a6728636d601125360241c19f6]: Commencement: Art. 6 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-aa701c8b3b51181a0983f68af3a7dc34]: Commencement: Art. 7 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-aa701c8b3b51181a0983f68af3a7dc34]: Commencement: Art. 7 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
 [^f00019]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21), see section 255(1).
 
-[^key-c7fb12f3a7d2c00d3273ae3512f43ddf]: Commencement: Art. 8 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-c7fb12f3a7d2c00d3273ae3512f43ddf]: Commencement: Art. 8 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-254b446256c7e49d14119fd04bb4d218]: Commencement: Art. 9 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-254b446256c7e49d14119fd04bb4d218]: Commencement: Art. 9 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-65ea55b394d71905e61b0929fb668b9f]: Commencement: Art. 10 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-65ea55b394d71905e61b0929fb668b9f]: Commencement: Art. 10 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-a2a0b504f5305c0a91a3300357c3c306]: Commencement: Art. 11 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-a2a0b504f5305c0a91a3300357c3c306]: Commencement: Art. 11 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-a8c31abf465a259d7527419ddfea1f20]: Commencement: Art. 12 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-a8c31abf465a259d7527419ddfea1f20]: Commencement: Art. 12 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-ce1cd3540a706f0479ecd4674a2e5a17]: Commencement: Art. 13 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-ce1cd3540a706f0479ecd4674a2e5a17]: Commencement: Art. 13 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-4bb7d1e3aa01997bc30df829ef738937]: Commencement: Art. 14 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-4bb7d1e3aa01997bc30df829ef738937]: Commencement: Art. 14 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-8d1f31a97b030eae627b9a16126f7e6e]: Commencement: Art. 15 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-8d1f31a97b030eae627b9a16126f7e6e]: Commencement: Art. 15 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-7b1d24216a6dce8f0f72ee99c615989d]: Commencement: Art. 16 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-7b1d24216a6dce8f0f72ee99c615989d]: Commencement: Art. 16 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-c05390c75bf8fddde5ef88545fce0035]: Commencement: Art. 17 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-c05390c75bf8fddde5ef88545fce0035]: Commencement: Art. 17 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
 [^f00020]: Footnote: http://jncc.defra.gov.uk/pdf/JNCC\_Guidelines\_Piling%20protocol\_August%202010.pdf.
 
@@ -448,38 +448,38 @@ The Order, together with the certified plans, sections and elevations may be ins
 
 [^f00022]: Footnote: The Joint Nature Conservation Committee is reconstituted by section 31 of and Schedule 4 to the Natural and Rural Communities Act 2006.
 
-[^key-95e68aa60806fab922f77c60e31e4aeb]: Commencement: Art. 18 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-95e68aa60806fab922f77c60e31e4aeb]: Commencement: Art. 18 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-f705ec5ce186f657b3a6ab3712f8c34c]: Commencement: Art. 19 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-f705ec5ce186f657b3a6ab3712f8c34c]: Commencement: Art. 19 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
 [^f00023]: Footnote: [1847 c.27](https://www.legislation.gov.uk/ukpga/1847/27).
 
-[^key-caf03203dda804257da9d3c051deda62]: Commencement: Art. 20 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-caf03203dda804257da9d3c051deda62]: Commencement: Art. 20 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-ca47644e87de68fd0f442bb575e5c44e]: Commencement: Art. 21 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-ca47644e87de68fd0f442bb575e5c44e]: Commencement: Art. 21 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-ae5ba8a96a258bda7ea649b7d98b948c]: Textual amendment: [Arts. 22-25](https://www.legislation.gov.uk/ssi/2011/447/article/22) revoked (28.9.2012) by [The Fraserburgh Harbour Revision (Constitution) Order 2012 (S.S.I. 2012/262)](https://www.legislation.gov.uk/ssi/2012/262), [art. 10](https://www.legislation.gov.uk/ssi/2012/262/article/10), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/262/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/262/schedule)
+[^c-ae5ba8a96a258bda7ea649b7d98b948c]: Textual amendment: [Arts. 22-25](https://www.legislation.gov.uk/ssi/2011/447/article/22) revoked (28.9.2012) by [The Fraserburgh Harbour Revision (Constitution) Order 2012 (S.S.I. 2012/262)](https://www.legislation.gov.uk/ssi/2012/262), [art. 10](https://www.legislation.gov.uk/ssi/2012/262/article/10), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/262/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/262/schedule)
 
-[^key-855c8c76ffdc758d0739f272a4937175]: Commencement: Art. 26 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-855c8c76ffdc758d0739f272a4937175]: Commencement: Art. 26 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-0aa2cb3cf6e57abafdde2ec3f5350e58]: Commencement: Art. 27 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-0aa2cb3cf6e57abafdde2ec3f5350e58]: Commencement: Art. 27 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-05b1db7d535ce4c28edabfc9bfcbb316]: Commencement: Art. 28 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-05b1db7d535ce4c28edabfc9bfcbb316]: Commencement: Art. 28 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-83fb7ffd2e15356f032a70c4a5ffc952]: Commencement: Art. 29 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-83fb7ffd2e15356f032a70c4a5ffc952]: Commencement: Art. 29 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-fd99d994a11c6abafcec7d4e1fbdbba8]: Commencement: Art. 30 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-fd99d994a11c6abafcec7d4e1fbdbba8]: Commencement: Art. 30 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-cfe7c0f66db570f3e5544c0d881836fd]: Commencement: Art. 31 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-cfe7c0f66db570f3e5544c0d881836fd]: Commencement: Art. 31 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-9d5a433dd0953e952afa8857cb6b6a66]: Commencement: Art. 32 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-9d5a433dd0953e952afa8857cb6b6a66]: Commencement: Art. 32 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-8f1c33ce6d93df4e793b7be67c752fee]: Textual amendment: Words in [art. 32(1)(b)](https://www.legislation.gov.uk/ssi/2011/447/article/32/1/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 123(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/123/a)
+[^c-8f1c33ce6d93df4e793b7be67c752fee]: Textual amendment: Words in [art. 32(1)(b)](https://www.legislation.gov.uk/ssi/2011/447/article/32/1/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 123(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/123/a)
 
-[^key-8c715cd9afeb26e39fa4bf3f262b32a9]: Textual amendment: [Art. 32(1A)](https://www.legislation.gov.uk/ssi/2011/447/article/32/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 123(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/123/b)
+[^c-8c715cd9afeb26e39fa4bf3f262b32a9]: Textual amendment: [Art. 32(1A)](https://www.legislation.gov.uk/ssi/2011/447/article/32/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 123(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/123/b)
 
-[^key-2698b0b1e9a14ab7eed805d43ba703b0]: Commencement: Art. 33 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-2698b0b1e9a14ab7eed805d43ba703b0]: Commencement: Art. 33 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-247db1291eefd1e2246b93099e031130]: Commencement: Art. 34 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-247db1291eefd1e2246b93099e031130]: Commencement: Art. 34 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
 
-[^key-9bbfb4610f5be87873c396a656d1a732]: Commencement: Sch. 1 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)
+[^c-9bbfb4610f5be87873c396a656d1a732]: Commencement: Sch. 1 in force at 21.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/447/article/1/1)

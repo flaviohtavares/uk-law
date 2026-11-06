@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Regulations: inspections[^key-4b82ae9effdebdd16a0137aece3d8ef8][^key-2500808dd4ecca6860871e8c53f529a4]
+## 58. Regulations: inspections[^c-4b82ae9effdebdd16a0137aece3d8ef8][^c-2500808dd4ecca6860871e8c53f529a4]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b82ae9effdebdd16a0137aece3d8ef8]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2010/8/section/58) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-4b82ae9effdebdd16a0137aece3d8ef8]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2010/8/section/58) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-2500808dd4ecca6860871e8c53f529a4]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2010/8/section/58) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-2500808dd4ecca6860871e8c53f529a4]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2010/8/section/58) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

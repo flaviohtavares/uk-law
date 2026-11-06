@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Protective provisions for specially formed successors.[^key-b7714b4ca25ea9b03a9e84b66a88c63c][^key-c738a3fecdcf6b42cf328c9869a616d3][^key-ff5f0a3a178d184cdb965c63312bf916][^c15516161]
+## 101. Protective provisions for specially formed successors.[^c-b7714b4ca25ea9b03a9e84b66a88c63c][^c-c738a3fecdcf6b42cf328c9869a616d3][^c-ff5f0a3a178d184cdb965c63312bf916][^c15516161]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,18 +36,18 @@ if the effect of the offer, the invitation, the allotment or the registration of
 
 - (a) a person who is an authorised person within the meaning of section 31 of the Financial Services and Markets Act 2000[^c15516191] becomes a subsidiary undertaking of the company, or the company or such an undertaking acquires the whole, or substantially the whole, of the business of such a person[^c15516201];
 - (b) a special resolution to that effect is passed by the requisite majority of the members of the company; or
-- (c) the appropriate authority[^key-b4c68dc5b87038fb6d4d5d51bd6bd7cc] by notice to the company gives a direction to that effect;
+- (c) the appropriate authority[^c-b4c68dc5b87038fb6d4d5d51bd6bd7cc] by notice to the company gives a direction to that effect;
 
 and the appropriate authority shall not give such a direction unless it considers it desirable to do so in the interests of the depositors and potential depositors of the company.
 
-(4A)[^key-85b68fdcb195ae632074ab1b137b19ce] The PRA must consult the FCA before giving a direction under this section.
+(4A)[^c-85b68fdcb195ae632074ab1b137b19ce] The PRA must consult the FCA before giving a direction under this section.
 
 (5) If this section ceases to apply to a company, any provision included by virtue of subsection (2) above in its articles of association shall cease to have effect.
 
 (6) In this section—
 
 - [^c15516231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “**concert party agreement**” means an agreement to which section 824 of the Companies Act 2006[^key-3206d6bd39598fc2e820f3e9a6b6db78] applies;
+- “**concert party agreement**” means an agreement to which section 824 of the Companies Act 2006[^c-3206d6bd39598fc2e820f3e9a6b6db78] applies;
 - “**EEA country or territory**” has the same meaning as in sections 6A and 6B;
 - [^c15516261]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**the permitted proportion**”, in relation to shares in the company, is 15 per cent. of the company’s issued share capital;
@@ -55,7 +55,7 @@ and the appropriate authority shall not give such a direction unless it consider
 - “**the requisite majority**” means a majority of the members having the right to attend and vote at a general meeting of the company, being a majority together holding not less than 75 per cent in nominal value of the shares giving that right;
 - “**transfer**”, in relation to shares, does not include a transfer to a person to whom the right to any shares has been transmitted by operation of law;
 
-and any expression used in this section and in the Companies Acts (as defined in section 2 of the Companies Act 2006)[^key-d13ac920c5bdea5761e660f0d1258065] has the same meaning in this section as in those Acts[^key-edaa3cb2bc0803449bc51cdbda557a26].
+and any expression used in this section and in the Companies Acts (as defined in section 2 of the Companies Act 2006)[^c-d13ac920c5bdea5761e660f0d1258065] has the same meaning in this section as in those Acts[^c-edaa3cb2bc0803449bc51cdbda557a26].
 
 (7) For the purposes of this section—
 
@@ -72,11 +72,11 @@ and for the purposes of subsection (1) above any shares to which any such instru
 
 ## Annotations
 
-[^key-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
+[^c-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
 
-[^key-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
+[^c-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
 
 [^c15516161]: Textual amendment: S. 101 substituted (21.3.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 41](https://www.legislation.gov.uk/ukpga/1997/32/section/41) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/10))
 
@@ -88,16 +88,16 @@ and for the purposes of subsection (1) above any shares to which any such instru
 
 [^c15516201]: Textual amendment: Words in s. 101(4)(a) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [197(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/197/2/b)
 
-[^key-b4c68dc5b87038fb6d4d5d51bd6bd7cc]: Textual amendment: Words in s. 101(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 44(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-b4c68dc5b87038fb6d4d5d51bd6bd7cc]: Textual amendment: Words in s. 101(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 44(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-85b68fdcb195ae632074ab1b137b19ce]: Textual amendment: S. 101(4A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 44(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-85b68fdcb195ae632074ab1b137b19ce]: Textual amendment: S. 101(4A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 44(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15516231]: Textual amendment: Definition of “the Authority" in s. 101(6) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [art. 13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/a)
 
-[^key-3206d6bd39598fc2e820f3e9a6b6db78]: Textual amendment: Words in s. 101(6) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 48(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/48/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-3206d6bd39598fc2e820f3e9a6b6db78]: Textual amendment: Words in s. 101(6) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 48(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/48/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
 [^c15516261]: Textual amendment: Definition of “financial institution" in s. 101(6) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [197(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/197/3)
 
-[^key-d13ac920c5bdea5761e660f0d1258065]: Textual amendment: Words in s. 101(6) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 48(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/48/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-d13ac920c5bdea5761e660f0d1258065]: Textual amendment: Words in s. 101(6) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 48(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/48/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-edaa3cb2bc0803449bc51cdbda557a26]: Textual amendment: Words in s. 101(6) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 48(3)(b)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/48/3/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-edaa3cb2bc0803449bc51cdbda557a26]: Textual amendment: Words in s. 101(6) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 48(3)(b)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/48/3/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))

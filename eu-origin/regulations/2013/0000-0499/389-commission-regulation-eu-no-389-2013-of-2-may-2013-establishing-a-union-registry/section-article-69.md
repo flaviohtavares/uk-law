@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 69. Cancellation of Kyoto units[^key-aafd2d5c58ce963408f02be1f9af9f0a]
+## Article 69. Cancellation of Kyoto units[^c-aafd2d5c58ce963408f02be1f9af9f0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State must ensure that the Registry provides for the carrying o
 
 ## Annotations
 
-[^key-aafd2d5c58ce963408f02be1f9af9f0a]: Textual amendment: [Art. 69](https://www.legislation.gov.uk/eur/2013/389/article/69) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/8)
+[^c-aafd2d5c58ce963408f02be1f9af9f0a]: Textual amendment: [Art. 69](https://www.legislation.gov.uk/eur/2013/389/article/69) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/8)

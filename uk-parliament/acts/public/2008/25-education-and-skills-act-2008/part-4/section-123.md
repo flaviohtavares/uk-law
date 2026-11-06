@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Provision of information by proprietors[^key-682d62f6d5b1551dd1f62f7caa2f312c][^key-6dd81b23a946dcd99d9952102017ddbd]
+## 123. Provision of information by proprietors[^c-682d62f6d5b1551dd1f62f7caa2f312c][^c-6dd81b23a946dcd99d9952102017ddbd]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-682d62f6d5b1551dd1f62f7caa2f312c]: Commencement: S. 123 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-682d62f6d5b1551dd1f62f7caa2f312c]: Commencement: S. 123 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-6dd81b23a946dcd99d9952102017ddbd]: Commencement: S. 123 in force at 1.1.2011 in so far as not already in force by [S.I. 2010/2906](https://www.legislation.gov.uk/uksi/2010/2906), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2906/article/2/c) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2906/article/3/2)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-6dd81b23a946dcd99d9952102017ddbd]: Commencement: S. 123 in force at 1.1.2011 in so far as not already in force by [S.I. 2010/2906](https://www.legislation.gov.uk/uksi/2010/2906), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2906/article/2/c) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2906/article/3/2)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

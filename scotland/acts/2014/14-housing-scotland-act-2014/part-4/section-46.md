@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Letting Agent Code of Practice[^key-f7659526a5405071c25dd19a53dd8bf1]
+## 46. Letting Agent Code of Practice[^c-f7659526a5405071c25dd19a53dd8bf1]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7659526a5405071c25dd19a53dd8bf1]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/14/section/46) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-f7659526a5405071c25dd19a53dd8bf1]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/14/section/46) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

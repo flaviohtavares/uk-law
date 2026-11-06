@@ -20,23 +20,23 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where a business , or part of a business,[^key-039313684edcd10c05f1cd8eff750431] carried on by a taxable person is transferred to another person as a going concern, then—
+(1) Where a business , or part of a business,[^c-039313684edcd10c05f1cd8eff750431] carried on by a taxable person is transferred to another person as a going concern, then—
 
-- (a) for the purpose of determining whether the transferee is liable to be registered under this Act he shall be treated as having carried on the business or part of the business[^key-29f03c79320b0f86dd36899dff209d68] before as well as after the transfer and supplies by the transferor shall be treated accordingly; [^key-3a9ea92311c68ed28617a0ac9667f9db]...
-- (b)[^key-3a9ea92311c68ed28617a0ac9667f9db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for the purpose of determining whether the transferee is liable to be registered under this Act he shall be treated as having carried on the business or part of the business[^c-29f03c79320b0f86dd36899dff209d68] before as well as after the transfer and supplies by the transferor shall be treated accordingly; [^c-3a9ea92311c68ed28617a0ac9667f9db]...
+- (b)[^c-3a9ea92311c68ed28617a0ac9667f9db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Without prejudice to subsection (1) above, the Commissioners may by regulations make provision for securing continuity in the application of this Act in cases where a business , or part of a business,[^key-1fdb4b0389075602e64cd5510060909c] carried on by a taxable person is transferred to another person as a going concern and the transferee is registered under this Act in substitution for the transferor.
+(2) Without prejudice to subsection (1) above, the Commissioners may by regulations make provision for securing continuity in the application of this Act in cases where a business , or part of a business,[^c-1fdb4b0389075602e64cd5510060909c] carried on by a taxable person is transferred to another person as a going concern and the transferee is registered under this Act in substitution for the transferor.
 
-(2A)[^key-6c8e4d9d6cdb6f3e8b589af33dc16c31] Regulations under subsection (2) above may, in particular, provide for the duties under this Act of the transferor to preserve records relating to the business or part of the business for any period after the transfer to become duties of the transferee unless the Commissioners, at the request of the transferor, otherwise direct.
+(2A)[^c-6c8e4d9d6cdb6f3e8b589af33dc16c31] Regulations under subsection (2) above may, in particular, provide for the duties under this Act of the transferor to preserve records relating to the business or part of the business for any period after the transfer to become duties of the transferee unless the Commissioners, at the request of the transferor, otherwise direct.
 
 (3) Regulations under subsection (2) above may, in particular, provide—
 
-- (a) for liabilities and duties under this Act (excluding sections 59 to 70) of the transferor (other than the duties mentioned in subsection (2A) above)[^key-f4d416e25642b53f7bcf2ffb022f3451] to become, to such extent as may be provided by the regulations, liabilities and duties of the transferee; and
+- (a) for liabilities and duties under this Act (excluding sections 59 to 70) of the transferor (other than the duties mentioned in subsection (2A) above)[^c-f4d416e25642b53f7bcf2ffb022f3451] to become, to such extent as may be provided by the regulations, liabilities and duties of the transferee; and
 - (b) for any right of either of them to repayment or credit in respect of VAT to be satisfied by making a repayment or allowing a credit to the other;
 
 but no such provision as is mentioned in paragraph (a) or (b) of this subsection shall have effect in relation to any transferor and transferee unless an application in that behalf has been made by them under the regulations.
 
-(4)[^key-3c2e3629e8b446284e922d33f1404dca] Subsection (5) below applies where—
+(4)[^c-3c2e3629e8b446284e922d33f1404dca] Subsection (5) below applies where—
 
 - (a) a business, or part of a business, carried on by a taxable person is transferred to another person as a going concern, and
 - (b) the transferor continues to be required under this Act to preserve for any period after the transfer any records relating to the business or part of the business.
@@ -51,16 +51,16 @@ but no such provision as is mentioned in paragraph (a) or (b) of this subsection
 
 ## Annotations
 
-[^key-039313684edcd10c05f1cd8eff750431]: Textual amendment: Words in s. 49(1) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/2/a)
+[^c-039313684edcd10c05f1cd8eff750431]: Textual amendment: Words in s. 49(1) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/2/a)
 
-[^key-29f03c79320b0f86dd36899dff209d68]: Textual amendment: Words in s. 49(1)(a) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/2/b)
+[^c-29f03c79320b0f86dd36899dff209d68]: Textual amendment: Words in s. 49(1)(a) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/2/b)
 
-[^key-3a9ea92311c68ed28617a0ac9667f9db]: Textual amendment: S. 49(1)(b) and word omitted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(2)(c)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/2/c), [Sch. 27 Pt. 6(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/2)
+[^c-3a9ea92311c68ed28617a0ac9667f9db]: Textual amendment: S. 49(1)(b) and word omitted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(2)(c)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/2/c), [Sch. 27 Pt. 6(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/2)
 
-[^key-1fdb4b0389075602e64cd5510060909c]: Textual amendment: Words in s. 49(2) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/3)
+[^c-1fdb4b0389075602e64cd5510060909c]: Textual amendment: Words in s. 49(2) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/3)
 
-[^key-6c8e4d9d6cdb6f3e8b589af33dc16c31]: Textual amendment: S. 49(2A) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/4)
+[^c-6c8e4d9d6cdb6f3e8b589af33dc16c31]: Textual amendment: S. 49(2A) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/4)
 
-[^key-f4d416e25642b53f7bcf2ffb022f3451]: Textual amendment: Words in s. 49(3)(a) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/5)
+[^c-f4d416e25642b53f7bcf2ffb022f3451]: Textual amendment: Words in s. 49(3)(a) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/5)
 
-[^key-3c2e3629e8b446284e922d33f1404dca]: Textual amendment: S. 49(4)-(6) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/6)
+[^c-3c2e3629e8b446284e922d33f1404dca]: Textual amendment: S. 49(4)-(6) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/6)

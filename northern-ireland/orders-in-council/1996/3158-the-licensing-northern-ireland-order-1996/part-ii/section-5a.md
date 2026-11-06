@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5A. Remote sales: requirement for off-licence[^key-5e1f602b322db5d96e6cf360085ae5bb]
+## 5A. Remote sales: requirement for off-licence[^c-5e1f602b322db5d96e6cf360085ae5bb]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where a sale of intoxicating liquor by retail is made otherwise than in person a
 
 ## Annotations
 
-[^key-5e1f602b322db5d96e6cf360085ae5bb]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisi/1996/3158/article/5A) and heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 12(1)](https://www.legislation.gov.uk/nia/2021/7/section/12/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-5e1f602b322db5d96e6cf360085ae5bb]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisi/1996/3158/article/5A) and heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 12(1)](https://www.legislation.gov.uk/nia/2021/7/section/12/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

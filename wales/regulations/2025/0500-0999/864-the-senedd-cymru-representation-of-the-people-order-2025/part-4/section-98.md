@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Witnesses[^key-42bd8ab4b904fde8fb0788ac3241c460]
+## 98. Witnesses[^c-42bd8ab4b904fde8fb0788ac3241c460]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42bd8ab4b904fde8fb0788ac3241c460]: Commencement: Art. 98 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-42bd8ab4b904fde8fb0788ac3241c460]: Commencement: Art. 98 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

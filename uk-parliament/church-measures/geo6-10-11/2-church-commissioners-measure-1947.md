@@ -33,7 +33,7 @@ Church Commissioners Measure 1947
 
 A Measure passed by the National Assembly of the Church of England. To promote the more efficient and economical administration of the resources of the Church of England by uniting the Corporation of the Governors of the Bounty of Queen Anne for the augmentation of the maintenance of the poor clergy, founded by charter under the Great Seal in the year 1704, and the Ecclesiastical Commissioners for England originally established in the year 1836 by the statute 6 and 7 William the Fourth, chapter 77.
 
-\[2nd April 1947\][^c1020758][^c1020759][^key-da4f85a784a5ac8dc3fb5263d168ea07]
+\[2nd April 1947\][^c1020758][^c1020759][^c-da4f85a784a5ac8dc3fb5263d168ea07]
 
 ## 1. Establishment of the Church Commissioners.
 
@@ -72,7 +72,7 @@ The business of the Commissioners, except the exercise of powers which, under th
 
 (4) The chairman may call such other general meetings of the Commissioners as he deems necessary and he shall, so soon as reasonably practicable, call a meeting if ten or more members give to the secretary notice in writing that they desire a meeting to be called to consider matters specified in the notice.
 
-(5) Not less than twenty-eight days before any general meeting, notice of the day, hour and place appointed therefor, and not less than ten days before any general meeting notice of the business to be considered thereat, shall be sent by post or by electronic transmission[^key-dbabe27565acba2f26fe6adbe58017c1] to every member.
+(5) Not less than twenty-eight days before any general meeting, notice of the day, hour and place appointed therefor, and not less than ten days before any general meeting notice of the business to be considered thereat, shall be sent by post or by electronic transmission[^c-dbabe27565acba2f26fe6adbe58017c1] to every member.
 
 ## 5. Constitution and functions of Board of Governors.
 
@@ -80,7 +80,7 @@ The business of the Commissioners, except the exercise of powers which, under th
 
 (1)[^c1020772] The Board shall consist of the Commissioners mentioned in paragraph 1(b) of Schedule 1 to this Measure.
 
-(2)[^key-3afde110f8d38134a103f6c09d212a94] The Archbishop of Canterbury shall be the chairman of the Board and—
+(2)[^c-3afde110f8d38134a103f6c09d212a94] The Archbishop of Canterbury shall be the chairman of the Board and—
 
 - (a) he may appoint a deputy chairman from among the members of the Board, who may act as chairman in the Archbishop's absence at any meeting to be held during the period of five years following the date of his appointment; and
 - (b) if neither the chairman nor the deputy chairman is present at any meeting, the members attending the meeting may elect a member to act as chairman of that meeting.
@@ -89,35 +89,35 @@ The business of the Commissioners, except the exercise of powers which, under th
 
 (4) The Board shall have power—
 
-- (a)[^c1020774] to refer for consideration and report any matter within their jurisdiction to the Assets Committee or the Audit and Risk Committee[^key-0288b90a1cb1f36e4fbb75d2b63e846d], or to any other committee which the Board may appoint for the purpose or which the Board and the Archbishops’ Council acting jointly may appoint;
+- (a)[^c1020774] to refer for consideration and report any matter within their jurisdiction to the Assets Committee or the Audit and Risk Committee[^c-0288b90a1cb1f36e4fbb75d2b63e846d], or to any other committee which the Board may appoint for the purpose or which the Board and the Archbishops’ Council acting jointly may appoint;
 - (b) to authorise [^c1020775]. . . [^c1020776]the Assets Committee, or any other such committee as aforesaid, to do and complete any matter on behalf of the Board;
 - (c) to make general rules for the direction and guidance of [^c1020777]. . . the Assets Committee or any committee appointed by the Board, as to the matters and acts to be considered and done by that committee, and as to the general principles upon which that committee shall act in carrying out such functions as may from time to time be delegated to them by the Board.
 
 (4A)[^c1020779] Commissioners shall constitute a majority of the members of any committee appointed under subsection (4)(a) above.
 
-(4B)[^key-0d55faa9767e5f14fb54a88b43806d7d] A committee constituted by or under this Measure may itself establish one or more sub-committees and may delegate functions to any sub-committee so established.
+(4B)[^c-0d55faa9767e5f14fb54a88b43806d7d] A committee constituted by or under this Measure may itself establish one or more sub-committees and may delegate functions to any sub-committee so established.
 
 (4C) A sub-committee established by a committee constituted by or under this Measure may itself delegate functions to the chair or deputy chair of the sub-committee or to an appropriate officer.
 
 (5) [^c1020780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Assets Committee and Audit and Risk Committee[^key-38e737484c70f97fbd5169bc52251f3f][^c1020799][^key-d34d29487c710966fb42b44faa3b4ce6]
+## 6. Assets Committee and Audit and Risk Committee[^c-38e737484c70f97fbd5169bc52251f3f][^c1020799][^c-d34d29487c710966fb42b44faa3b4ce6]
 
 *Extent: E*
 
-(1)[^c1020801][^c1020800] There shall be two committees, one to be known as the Assets Committee and the other as the Audit and Risk Committee[^key-410988d2d7ce90068982e69e9832ec1d], which shall be constituted as follows—
+(1)[^c1020801][^c1020800] There shall be two committees, one to be known as the Assets Committee and the other as the Audit and Risk Committee[^c-410988d2d7ce90068982e69e9832ec1d], which shall be constituted as follows—
 
-- (a)[^key-8f28d0a4063070b3c6b032469b5857c8] the Assets Committee is to comprise—
+- (a)[^c-8f28d0a4063070b3c6b032469b5857c8] the Assets Committee is to comprise—
   - (i) the First Church Estates Commissioner,
   - (ii) two Commissioners who are clerks in Holy Orders (at least one of whom must be a Commissioner elected by the House of Clergy of the General Synod) appointed by the Board for such period not exceeding five years as the Board determines, and
   - (iii) at least four but no more than eight lay Commissioners (at least one of whom must be a Commissioner elected by the House of Laity of the General Synod) appointed by the Archbishop of Canterbury for such period not exceeding five years as the Archbishop determines and each of whom is, in the opinion of the Archbishop, well qualified to assist in the management of the Commissioners’ assets;
-- (b) the First Church Estates Commissioner shall be the chairman of the Assets Committee and a deputy chairman shall be elected annually by that committee and shall , if present,[^key-b5e31de745e2e785ab86620e04728495] act as chairman at any meeting at which the chairman is not present;
+- (b) the First Church Estates Commissioner shall be the chairman of the Assets Committee and a deputy chairman shall be elected annually by that committee and shall , if present,[^c-b5e31de745e2e785ab86620e04728495] act as chairman at any meeting at which the chairman is not present;
 - (c) if a member of the Assets Committee appointed by the Board ceases to have the qualifications by virtue of which he was qualified for his appointment, he shall vacate his appointment;
-- (d)[^key-151e3e0651b5ac9af1db92ef7af7e4ae] the Audit and Risk Committee is to comprise at least four but no more than six persons appointed by the Board for such period not exceeding five years as the Board determines, at least one of whom must be an elected Commissioner and at least two of whom must not be Commissioners;
+- (d)[^c-151e3e0651b5ac9af1db92ef7af7e4ae] the Audit and Risk Committee is to comprise at least four but no more than six persons appointed by the Board for such period not exceeding five years as the Board determines, at least one of whom must be an elected Commissioner and at least two of whom must not be Commissioners;
 - (e) the Board, with the agreement of the Archbishop of Canterbury, shall appoint a member of the Audit and Risk Committee to be the chairman of that committee;
 - (f) the Church Estates Commissioners, the chairman of the Board and the acting chairman of the Board (elected under section 5(2) above to act as chairman, when required during the following period of twelve months) shall not be eligible to be members of the Audit and Risk Committee.
 
-(1A)[^key-37a8924b78718f905e866083da62f88f] A person who has served as an appointed member of the Assets Committee or as a member of the Audit and Risk Committee, or as either, for a continuous period of ten years—
+(1A)[^c-37a8924b78718f905e866083da62f88f] A person who has served as an appointed member of the Assets Committee or as a member of the Audit and Risk Committee, or as either, for a continuous period of ten years—
 
 - (a) ceases to be a member at the end of that period or, if the person continues to be a member under subsection (1B) or (1C), at the end of the period of continuation, and
 - (b) is not eligible for appointment to either Committee until after the end of five years beginning with the date on which the person last ceased to be a member of either Committee (including, where applicable, under subsection (1B) or (1C)).
@@ -144,29 +144,29 @@ The business of the Commissioners, except the exercise of powers which, under th
 
 (3A)[^c1020803] Before making any recommendation under subsection (3)(b) above the Assets Committee shall obtain the advice of an actuary as to the likely effect of adopting the recommendation on the Commissioners’ financial position as a whole and shall have regard to that advice; and the Commissioners shall ensure that a summary of such advice is included in their annual report under section 12 of this Measure.
 
-For the purposes of this subsection “ **actuary** ” means a Fellow of the Institute and Faculty of Actuaries[^key-d83edc75d52c2118919198aaaefe957e], not being a Church Commissioner or a member of the staff of the Commissioners, and includes a firm of actuaries.
+For the purposes of this subsection “ **actuary** ” means a Fellow of the Institute and Faculty of Actuaries[^c-d83edc75d52c2118919198aaaefe957e], not being a Church Commissioner or a member of the staff of the Commissioners, and includes a firm of actuaries.
 
-(3B)[^c1020804] The Audit and Risk Committee[^key-4102ebbc245bff9ee0197e2c88d881a5] shall have the following functions—
+(3B)[^c1020804] The Audit and Risk Committee[^c-4102ebbc245bff9ee0197e2c88d881a5] shall have the following functions—
 
-- (a) a duty to review the Commissioners’ accounting policies and practices, their annual accounts and any reports made and advice given to the Commissioners by the auditor appointed under paragraph (d)[^key-4bf4d3f72f468d8475bb216aeb11319b] below;
-- (aa)[^key-609dacccc85e6ae64fb670764e89bab0] a duty to keep under review the risks, including financial risks, to which the Commissioners are exposed in carrying out their functions and the adequacy of the steps taken by the Commissioners to mitigate those risks;
+- (a) a duty to review the Commissioners’ accounting policies and practices, their annual accounts and any reports made and advice given to the Commissioners by the auditor appointed under paragraph (d)[^c-4bf4d3f72f468d8475bb216aeb11319b] below;
+- (aa)[^c-609dacccc85e6ae64fb670764e89bab0] a duty to keep under review the risks, including financial risks, to which the Commissioners are exposed in carrying out their functions and the adequacy of the steps taken by the Commissioners to mitigate those risks;
 - (b) a duty to keep under review the effectiveness of the Commissioners’ internal control system;
 - (c) a duty to consider any representations made to them;
-- (d)[^key-1e9c7abac5562367963e7e535e625803] a duty to appoint, with the approval of the Board, an auditor and to direct the manner in which the audit required to be made under section 11(2) below is undertaken, including ensuring that the requirements of generally accepted auditing standards are met;
+- (d)[^c-1e9c7abac5562367963e7e535e625803] a duty to appoint, with the approval of the Board, an auditor and to direct the manner in which the audit required to be made under section 11(2) below is undertaken, including ensuring that the requirements of generally accepted auditing standards are met;
 - (e) a duty to report to those Commissioners who are not members of the Board on any matter relating to the functions and business of the Commissioners which causes the committee grave concern and about which the Board has been unable to satisfy the committee.
 
-(3C) The Commissioners’ officers shall supply the Audit and Risk Committee[^key-9e26d01371b61b81f2eb58ceaf19267e] with such information in their possession as the Committee may require to enable the Committee to exercise their functions.
+(3C) The Commissioners’ officers shall supply the Audit and Risk Committee[^c-9e26d01371b61b81f2eb58ceaf19267e] with such information in their possession as the Committee may require to enable the Committee to exercise their functions.
 
-(4)[^key-78cf708b20f9bf20f1b8c8facdb335f7] The Standing Orders regulating the procedure of the Board, the Assets Committee or any committee appointed by the Board may provide for —[^key-df22cf6af2070ba095e2d39c0e1c9446]
+(4)[^c-78cf708b20f9bf20f1b8c8facdb335f7] The Standing Orders regulating the procedure of the Board, the Assets Committee or any committee appointed by the Board may provide for —[^c-df22cf6af2070ba095e2d39c0e1c9446]
 
-- (a) authorising the chairman, deputy chairman or an appropriate officer to act on behalf of the Board, the Assets Committee or other committee, as the case may be, in relation to such matters as the Board or the committee in question[^key-8302a717cf60fa830d827f25bb70fe05] may think fit ;[^key-39a1f8d94eb906b1200cb8dc65df17e8]
+- (a) authorising the chairman, deputy chairman or an appropriate officer to act on behalf of the Board, the Assets Committee or other committee, as the case may be, in relation to such matters as the Board or the committee in question[^c-8302a717cf60fa830d827f25bb70fe05] may think fit ;[^c-39a1f8d94eb906b1200cb8dc65df17e8]
 - (b) authorising an appropriate officer to act in relation to a matter on behalf of a person authorised by virtue of paragraph (a) to act in relation to that matter.
 
 (5) The Second Church Estates Commissioner shall be entitled to attend and speak at the meetings of every committee constituted by or under this Measure of which he is not a member, and every Church Estates Commissioner shall be entitled to receive the papers of every such committee of which he is not a member.
 
 (6) The provisions of any enactment or Measure relating to the payment of salaries and pensions to Church Estates Commissioners shall continue to have effect with the substitution of reference to the Board and to the general fund of the Commissioners for references to the Ecclesiastical Commissioners and to their common fund.
 
-## 6A. Further provisions relating to the Assets Committee[^key-6c5493112922b8d72e94dab965b50c44]
+## 6A. Further provisions relating to the Assets Committee[^c-6c5493112922b8d72e94dab965b50c44]
 
 (1) The Commissioners may exercise their powers to make investments by entering into derivative contracts, derivative financial instruments and equity instruments and the function of the Assets Committee, under section 6(3)(a) above, to make, realise and change investments includes power to enter into any of those contracts or instruments.
 
@@ -200,13 +200,13 @@ the draft regulations shall, for the purposes of subsections (4) and (5) above, 
 
 (1) The provision of the Fourth Schedule to this Measure shall have effect with regard to the meetings and procedure of the Commissioners and of the Board and of any committee constituted by or under this Measure.
 
-(1A)[^key-388e1379f7bab618ba8365ebef4c02a3] A majority of the members of the Board, and a majority of the members of each committee constituted by or under this Measure, must be members of the Church of England.
+(1A)[^c-388e1379f7bab618ba8365ebef4c02a3] A majority of the members of the Board, and a majority of the members of each committee constituted by or under this Measure, must be members of the Church of England.
 
 (2) Subject as aforesaid and to any other provisions of this Measure—
 
 - (a) the Commissioners may regulate their own procedure and may from time to time at any general meeting make, vary and revoke Standing Orders for the purpose;
-- (b) the Board may from time to time make, vary and revoke Standing Orders for regulating the procedure of the Board or of any Committee of the Board (but not a sub-committee established by a committee of the Board)[^key-cc8f359cea3dbedc4b6818246fa18015] and subject to any such Standing Orders the Board and any such committee may regulate their own procedure;
-- (c) the Assets Committee and the[^c1020807] Audit and Risk Committee[^key-9d20b86b9172e20c78409297f8b3febc] may regulate their own procedure and may from time to time make, vary and revoke Standing Orders for the purpose ;[^key-c9a8e287b0e1c32ad8ee319355cebb99]
+- (b) the Board may from time to time make, vary and revoke Standing Orders for regulating the procedure of the Board or of any Committee of the Board (but not a sub-committee established by a committee of the Board)[^c-cc8f359cea3dbedc4b6818246fa18015] and subject to any such Standing Orders the Board and any such committee may regulate their own procedure;
+- (c) the Assets Committee and the[^c1020807] Audit and Risk Committee[^c-9d20b86b9172e20c78409297f8b3febc] may regulate their own procedure and may from time to time make, vary and revoke Standing Orders for the purpose ;[^c-c9a8e287b0e1c32ad8ee319355cebb99]
 - (d) a committee constituted by or under this Measure which establishes a sub-committee may from time to time make, vary and revoke Standing Orders for regulating the procedure of the sub-committee and subject to any such Standing Orders the sub-committee may regulate its own procedure.
 
 ## 8. †Secretary, agents and other officers.[^c1020808]
@@ -217,25 +217,25 @@ the draft regulations shall, for the purposes of subsections (4) and (5) above, 
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1020810]
 
-## 9. Sealing and execution of documents by the Commissioners[^key-fab33179914a6b2cb93ea75c83504f42]
+## 9. Sealing and execution of documents by the Commissioners[^c-fab33179914a6b2cb93ea75c83504f42]
 
 (1) The common seal of the Commissioners shall be judicially noticed and shall be authenticated by the signature of the secretary, or of some other officer of the Commissioners authorised by the Board to act in that behalf.
 
 (2) Every document purporting to be sealed with the said seal and to be authenticated by the signature of the secretary, or of a person so authorised to act in that behalf, shall be received in evidence and be deemed to be such an instrument without further proof, unless evidence to the contrary is given.
 
-(3)[^key-2b5be02602f89786ae55b95933a4d5cc] A document signed by two members of the Board and expressed (in whatever form of words) to be executed by the Commissioners shall have the same effect as if executed under the common seal of the Commissioners.
+(3)[^c-2b5be02602f89786ae55b95933a4d5cc] A document signed by two members of the Board and expressed (in whatever form of words) to be executed by the Commissioners shall have the same effect as if executed under the common seal of the Commissioners.
 
-(3A)[^key-fe7332fd72b00aeaa640d45f181e2dd1] A document which is signed by two officers of the Commissioners authorised by the Board for that purpose, and which is expressed (in whatever form of words) to be signed on behalf of the Commissioners, shall have the same effect as if executed under the common seal of the Commissioners.
+(3A)[^c-fe7332fd72b00aeaa640d45f181e2dd1] A document which is signed by two officers of the Commissioners authorised by the Board for that purpose, and which is expressed (in whatever form of words) to be signed on behalf of the Commissioners, shall have the same effect as if executed under the common seal of the Commissioners.
 
 (3B) An authorisation under subsection (3A) shall have effect subject to such limitations or conditions as may be specified in it.
 
 (4) A document executed by the Commissioners which makes it clear on its face that it is intended to be a deed has effect, upon delivery, as a deed; and it shall be presumed, unless a contrary intention is proved, to be delivered upon its being so executed.
 
-(5) In favour of a purchaser a document shall be deemed to have been duly executed by the Commissioners if it purports to be signed in accordance with subsection (3) or (3A)[^key-5e8267c5c6bfb8f32b2ffa76612facfa].
+(5) In favour of a purchaser a document shall be deemed to have been duly executed by the Commissioners if it purports to be signed in accordance with subsection (3) or (3A)[^c-5e8267c5c6bfb8f32b2ffa76612facfa].
 
 (6) In subsection (5) above “ **purchaser** ” means a purchaser in good faith for valuable consideration and includes a lessee, mortgagee or other person who, for valuable consideration, acquires an interest in property.
 
-(3)[^key-9426764d3344cf2f1981995ae54dc6c3] In this section “ **signature** ” includes signature by electronic means.
+(3)[^c-9426764d3344cf2f1981995ae54dc6c3] In this section “ **signature** ” includes signature by electronic means.
 
 ## 10. Finance.
 
@@ -251,15 +251,15 @@ the draft regulations shall, for the purposes of subsections (4) and (5) above, 
 
 (5) Any trust or other fund previously maintained by either of the constituent authorities as a separate fund shall be continued and maintained as a separate fund by the Commissioners: provided that funds maintained by the two constituent authorities for the same objects or purposes may be amalgamated.
 
-(6) Subject to the last preceding subsection, the Commissioners shall carry all income received in respect of property and funds held by them into their general fund, and , subject to[^c1020818] sections 31(4) and 39(6)[^key-379af802d87cf0e8e259189d504bfae5] of the Church of England Pensions Measure 2018[^key-7c4d4d6b3bf5244e98374659f5fc332b] (which relate to the use of capital funds) shall discharge thereout all trusts and commitments to which that income or any part thereof is subject and all expenses and obligations falling upon the Commissioners in the due discharge of their functions, and the balance from time to time thereafter remaining in the said fund shall be available for any purpose for which, but for this Measure, any surplus of the common fund of the Ecclesiastical Commissioners or of the corporate fund of Queen Anne’s Bounty would have been available.
+(6) Subject to the last preceding subsection, the Commissioners shall carry all income received in respect of property and funds held by them into their general fund, and , subject to[^c1020818] sections 31(4) and 39(6)[^c-379af802d87cf0e8e259189d504bfae5] of the Church of England Pensions Measure 2018[^c-7c4d4d6b3bf5244e98374659f5fc332b] (which relate to the use of capital funds) shall discharge thereout all trusts and commitments to which that income or any part thereof is subject and all expenses and obligations falling upon the Commissioners in the due discharge of their functions, and the balance from time to time thereafter remaining in the said fund shall be available for any purpose for which, but for this Measure, any surplus of the common fund of the Ecclesiastical Commissioners or of the corporate fund of Queen Anne’s Bounty would have been available.
 
-(7)[^key-45d2ea043609346f9c4883791d96d92c] The Commissioners may borrow money for purposes of or in connection with their functions, in so far as they do not have power to do so apart from this subsection.
+(7)[^c-45d2ea043609346f9c4883791d96d92c] The Commissioners may borrow money for purposes of or in connection with their functions, in so far as they do not have power to do so apart from this subsection.
 
 ## 11. Accounts and audit.
 
 (1) The Commissioners shall cause such accounts to be kept as may be required for the due performance and discharge of their functions.
 
-(2) The accounts of the Commissioners shall in every year be audited [^key-2a36dc1ec8ce081e52a591a3e87eb7aa]..., and the auditor’s report thereon shall for the purposes of the next succeeding section be deemed to form part of the accounts.
+(2) The accounts of the Commissioners shall in every year be audited [^c-2a36dc1ec8ce081e52a591a3e87eb7aa]..., and the auditor’s report thereon shall for the purposes of the next succeeding section be deemed to form part of the accounts.
 
 ## 12. Annual report and accounts to be laid before Parliament and Church Assembly.
 
@@ -275,7 +275,7 @@ the draft regulations shall, for the purposes of subsections (4) and (5) above, 
 
 (2) All contracts, bonds, agreements and other instruments subsisting immediately before the appointed day and affecting either of the constituent authorities shall be of as full force and effect against, or in favour of, the Commissioners and may be enforced as fully and effectually as if the Commissioners had been a party thereto instead of the constituent authority.
 
-## 13A. Charitable object relating to facilities at Lambeth Palace Library[^key-f35e75f8a8b3674a4b2d1ddb14ad07b9]
+## 13A. Charitable object relating to facilities at Lambeth Palace Library[^c-f35e75f8a8b3674a4b2d1ddb14ad07b9]
 
 The charitable objects of the Commissioners are to include providing the National Church Institutions with access to the facilities for archiving and document storage at Lambeth Palace Library.
 
@@ -290,9 +290,9 @@ The charitable objects of the Commissioners are to include providing the Nationa
 
 ## 15. Transfer of Officers.
 
-(1)[^key-c2b609165fee32856598f2ea1718b1a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c2b609165fee32856598f2ea1718b1a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-125689ce2fc34440b4ca0ba947b43a4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-125689ce2fc34440b4ca0ba947b43a4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1020821]
 
@@ -302,7 +302,7 @@ The charitable objects of the Commissioners are to include providing the Nationa
 
 *Extent: E*
 
-(1) The Board[^c1020834] shall make rules regulating the grant of superannuation benefits to the officers of the Commissioners, and the allocation of superannuation benefits to their spouses or dependants, and the provisions of the [^key-2a1008a3a5c12e7a3dec230e73daa544]... [^c1020839]Superannuation (Various Services) Act 1938 shall not apply to the Commissioners or their officers:
+(1) The Board[^c1020834] shall make rules regulating the grant of superannuation benefits to the officers of the Commissioners, and the allocation of superannuation benefits to their spouses or dependants, and the provisions of the [^c-2a1008a3a5c12e7a3dec230e73daa544]... [^c1020839]Superannuation (Various Services) Act 1938 shall not apply to the Commissioners or their officers:
 
 Provided that in the case of any transferred officer—
 
@@ -311,7 +311,7 @@ Provided that in the case of any transferred officer—
 
 (2) As from the appointed day the liability of either of the constituent authorities to make payments in respect of superannuation benefits to a person who had been employed by them, but had before the appointed day ceased to be so employed, or to his spouse or dependants, shall be transferred to, and become a liability of, the Commissioners and be a charge on their general fund.
 
-(4)[^key-8ef8c4978b3da09a5132f1db1f341084] The Commissioners may, until 31 December 2032[^key-b27d159dc950d6759196baf1f18ff9c8], apply capital funds for meeting the cost of any pension or lump sum payable under the Church Commissioners Superannuation Scheme in so far as it is attributable to a period of service before 1 January 1998.
+(4)[^c-8ef8c4978b3da09a5132f1db1f341084] The Commissioners may, until 31 December 2032[^c-b27d159dc950d6759196baf1f18ff9c8], apply capital funds for meeting the cost of any pension or lump sum payable under the Church Commissioners Superannuation Scheme in so far as it is attributable to a period of service before 1 January 1998.
 
 (5) In subsection (4), “**capital funds**” means funds held by the Commissioners the income of which forms part of their general fund.
 
@@ -320,7 +320,7 @@ Provided that in the case of any transferred officer—
 (1)[^c1020843] In this Measure, unless the context otherwise requires—
 
 - “**the appointed day**” means the first day of April in such year as the Archbishop of Canterbury may appoint by a notice published in the London Gazette not later than the first day of December in the preceding year;
-- “**dean**” includes the dean [^key-192e27f7bda5bbdb8c5dd7bbb544d8ed]... of any cathedral church in England, and the deans of Westminster and Windsor;
+- “**dean**” includes the dean [^c-192e27f7bda5bbdb8c5dd7bbb544d8ed]... of any cathedral church in England, and the deans of Westminster and Windsor;
 - “**functions**” includes powers and duties;
 - “**officer**” includes servant;
 - “**procedure**” includes the fixing of a quorum;
@@ -329,9 +329,9 @@ Provided that in the case of any transferred officer—
 
 (2) References in any Act or Measure (other than this Measure) or in any other document (including any testamentary document) to either of the constituent authorities, or to the common or corporate fund of either of them, shall be construed as references to the Commissioners or, as the case may be, to their general fund.
 
-(3)[^key-97891ce7dffeebe3b1e8d9887f7b837b] A reference in this Measure to a meeting of the Commissioners, the Board or a committee constituted by or under this Measure, including a reference to the place at which such a meeting is or is to be held or a reference to being present at such a meeting, is to be construed in accordance with paragraph 8 of Schedule 4.
+(3)[^c-97891ce7dffeebe3b1e8d9887f7b837b] A reference in this Measure to a meeting of the Commissioners, the Board or a committee constituted by or under this Measure, including a reference to the place at which such a meeting is or is to be held or a reference to being present at such a meeting, is to be construed in accordance with paragraph 8 of Schedule 4.
 
-(4)[^key-d4d3fbd126c7e78983c921f1d0135837] A reference in this Measure to a committee constituted by or under this Measure includes a reference to a sub-committee established by that committee (but is not to be read as enabling a sub-committee to establish a sub-committee of its own).
+(4)[^c-d4d3fbd126c7e78983c921f1d0135837] A reference in this Measure to a committee constituted by or under this Measure includes a reference to a sub-committee established by that committee (but is not to be read as enabling a sub-committee to establish a sub-committee of its own).
 
 ## 19. Short title.
 
@@ -348,18 +348,18 @@ Section 1(2).
 - (a) the following office-holders—
   - the First Lord of the Treasury;
   - the Lord President of the Council;
-  - the Lord Chancellor[^key-70d3d5ea1e74acf03622afde8cc9fe60];
-  - [^key-22c549f160181d3e3e58ccc9a0647d89] ...
+  - the Lord Chancellor[^c-70d3d5ea1e74acf03622afde8cc9fe60];
+  - [^c-22c549f160181d3e3e58ccc9a0647d89] ...
   - the Speaker of the House of Commons;
-  - the Speaker of the House of Lords;[^key-6dd667018dcdd373ed252280f4ac63d1]
+  - the Speaker of the House of Lords;[^c-6dd667018dcdd373ed252280f4ac63d1]
   - the Secretary of State for the Department for Culture, Media and Sport;
 - (b) the following other persons—
   - the Archbishops of Canterbury and York;
   - the Church Estates Commissioners;
   - four bishops elected by the House of Bishops of the General Synod from among their number;
-  - two deans [^key-f3fe2552022c336bd4a93c0e971b7f74] ... elected by all the deans [^key-f3fe2552022c336bd4a93c0e971b7f74] ... ;
-  - three other clerks in Holy Orders elected by those members of the House of Clergy of the General Synod who are not deans , whether or not those clerks are members of that House[^key-3eb0bf92e2ad4587f7b297f2d6179dbf] [^key-f3fe2552022c336bd4a93c0e971b7f74] ...;
-  - four lay persons elected by the House of Laity of the General Synod , whether or not those persons are members of that House[^key-91ea66f86df13d32887c38b4b7259e65];
+  - two deans [^c-f3fe2552022c336bd4a93c0e971b7f74] ... elected by all the deans [^c-f3fe2552022c336bd4a93c0e971b7f74] ... ;
+  - three other clerks in Holy Orders elected by those members of the House of Clergy of the General Synod who are not deans , whether or not those clerks are members of that House[^c-3eb0bf92e2ad4587f7b297f2d6179dbf] [^c-f3fe2552022c336bd4a93c0e971b7f74] ...;
+  - four lay persons elected by the House of Laity of the General Synod , whether or not those persons are members of that House[^c-91ea66f86df13d32887c38b4b7259e65];
   - nine persons nominated as follows—
   - (i) three persons by Her Majesty,
   - (ii) three persons by the Archbishops of Canterbury and York acting jointly, and
@@ -369,7 +369,7 @@ Section 1(2).
 
 *Extent: E*
 
-**2.**[^key-23c6e398ac5553d640ebdab2bd828b72] (1) Each elected Commissioner is to hold office for a period of five years; and each election is to be conducted in accordance with the Standing Orders of the General Synod.
+**2.**[^c-23c6e398ac5553d640ebdab2bd828b72] (1) Each elected Commissioner is to hold office for a period of five years; and each election is to be conducted in accordance with the Standing Orders of the General Synod.
 
 (2) Each nominated Commissioner is to hold office for such period not exceeding five years as the person or persons making the nomination determine.
 
@@ -389,19 +389,19 @@ Section 1(2).
 
 **3.** In the event of delay in the election[^c1020860] or nomination of a successor any such Commissioner as is referred to in the last preceding paragraph shall, notwithstanding the expiration of the period for which he was elected[^c1020861] or nominated, continue to hold office until a successor is elected or nominated.
 
-**4.** A person shall be disqualified from being a Commissioner so long as he is a salaried official of any central [^key-99d8534c3fbcabefaf735a3b9b11016d]... body in the Church of England.
+**4.** A person shall be disqualified from being a Commissioner so long as he is a salaried official of any central [^c-99d8534c3fbcabefaf735a3b9b11016d]... body in the Church of England.
 
 *Extent: E*
 
-**5.**[^c1020863] If an elected Commissioner who was qualified for election by virtue of being a bishop, a dean [^key-1a8c33dd5c997e11b3916e8de87376a9] ..., a clerk in Holy Orders or a lay person ceases to be so qualified, he shall cease to be a Commissioner.
+**5.**[^c1020863] If an elected Commissioner who was qualified for election by virtue of being a bishop, a dean [^c-1a8c33dd5c997e11b3916e8de87376a9] ..., a clerk in Holy Orders or a lay person ceases to be so qualified, he shall cease to be a Commissioner.
 
 *Extent: E*
 
-**5A.**[^c1020865] (1) Without prejudice to paragraph 5 above, if a Commissioner elected by members of the House of Bishops[^key-22c8e7ac94b79cc504f5cee240555ffa] of the General Synod who is a member of that House[^key-64b55a2e82400f764494f47214dfb4c7] ceases to be a member thereof, then, subject to paragraph (2) below, he shall cease to be a Commissioner.
+**5A.**[^c1020865] (1) Without prejudice to paragraph 5 above, if a Commissioner elected by members of the House of Bishops[^c-22c8e7ac94b79cc504f5cee240555ffa] of the General Synod who is a member of that House[^c-64b55a2e82400f764494f47214dfb4c7] ceases to be a member thereof, then, subject to paragraph (2) below, he shall cease to be a Commissioner.
 
-(2) If a Commissioner to whom sub-paragraph (1) above applies ceases to be a member of the General Synod by reason of the dissolution of that Synod he shall not cease to be a Commissioner by virtue of that sub-paragraph; but if he does not stand for re-election to the General Synod or is not re-elected an election to fill his place as a Commissioner shall be held in accordance with the Standing Orders of the General Synod[^key-a033128d485902620549bca9bb39f024].
+(2) If a Commissioner to whom sub-paragraph (1) above applies ceases to be a member of the General Synod by reason of the dissolution of that Synod he shall not cease to be a Commissioner by virtue of that sub-paragraph; but if he does not stand for re-election to the General Synod or is not re-elected an election to fill his place as a Commissioner shall be held in accordance with the Standing Orders of the General Synod[^c-a033128d485902620549bca9bb39f024].
 
-**6.**[^key-967c98a368e2e3dbb2794a5cb8a45c0c] Every lay Commissioner, other than a person who is a Commissioner in right of office, shall, upon appointment and before acting as a Commissioner, sign and return to an officer of the Commissioners a written declaration of —[^key-690b8754eb3092a2d963a1f9cd862e58]
+**6.**[^c-967c98a368e2e3dbb2794a5cb8a45c0c] Every lay Commissioner, other than a person who is a Commissioner in right of office, shall, upon appointment and before acting as a Commissioner, sign and return to an officer of the Commissioners a written declaration of —[^c-690b8754eb3092a2d963a1f9cd862e58]
 
 - (a) membership of the Church of England or of a Church which subscribes to the doctrine of the Holy Trinity, and
 - (b) support for the charitable objects of the Commissioners.
@@ -512,11 +512,11 @@ Section 7(1).
 
 *Extent: E*
 
-**4.**[^key-6f88ebd32560dff210775af02061d558] (1) A person elected to fill a casual vacancy among the elected Commissioners is to hold office for a period of five years.
+**4.**[^c-6f88ebd32560dff210775af02061d558] (1) A person elected to fill a casual vacancy among the elected Commissioners is to hold office for a period of five years.
 
 (2) A person nominated to fill a casual vacancy among the nominated Commissioners is to hold office for such period not exceeding five years as the person or persons making the nomination determine.
 
-(3)[^key-9fa118a1cab91f793d3010de2f27cf19] A person appointed to fill a casual vacancy among the appointed members of the Assets Committee or of the Audit and Risk Committee is to hold office for such period not exceeding five years as the person or body making the appointment determines.
+(3)[^c-9fa118a1cab91f793d3010de2f27cf19] A person appointed to fill a casual vacancy among the appointed members of the Assets Committee or of the Audit and Risk Committee is to hold office for such period not exceeding five years as the person or body making the appointment determines.
 
 *Extent: E*
 
@@ -524,7 +524,7 @@ Section 7(1).
 
 [^c1020879]. . .
 
-**5A.**[^key-6158a447c597315972fda43a3f419ceb] (1) The chairman of the Commissioners,[^key-1199687cd530d42439916b83a1d131d6] the Board or of any committee may, if he considers that any business can properly be conducted by correspondence, instruct the secretary of the Commissioners, the Board or of the committee to circulate to the Commissioners, the Board or the committee in writing or by electronic transmission proposals requiring the approval of the Commissioners or (as the case may be) the members of the Board or committee[^key-17d88665e8d85c848eb38d125a88d0e4].
+**5A.**[^c-6158a447c597315972fda43a3f419ceb] (1) The chairman of the Commissioners,[^c-1199687cd530d42439916b83a1d131d6] the Board or of any committee may, if he considers that any business can properly be conducted by correspondence, instruct the secretary of the Commissioners, the Board or of the committee to circulate to the Commissioners, the Board or the committee in writing or by electronic transmission proposals requiring the approval of the Commissioners or (as the case may be) the members of the Board or committee[^c-17d88665e8d85c848eb38d125a88d0e4].
 
 (2) Unless objections to the proposals are received from any members in such numbers and within such period from the date of their posting or transmission (as the case may be), as may be specified in Standing Orders, the proposals shall be deemed, at the expiry of that period, to be approved by the Board or the committee with the same effect as if they had been approved at a duly convened meeting.
 
@@ -532,9 +532,9 @@ Section 7(1).
 
 *Extent: E*
 
-**7.** The provisions of this Schedule relating to Committees shall in their application to the Assets Committee and the[^c1020881] Audit and Risk Committee[^key-3ddfd62684a1f4e1dca0905777b458f4] have effect subject to any special provisions with respect thereto contained in this Measure.
+**7.** The provisions of this Schedule relating to Committees shall in their application to the Assets Committee and the[^c1020881] Audit and Risk Committee[^c-3ddfd62684a1f4e1dca0905777b458f4] have effect subject to any special provisions with respect thereto contained in this Measure.
 
-**8.**[^key-eca7a98ea99526be167eaad5651bbc19] (1) A reference in this Measure to a meeting of the Commissioners, the Board or a committee includes a reference to a meeting which persons may attend, speak at, vote in or otherwise participate in without all of the persons, or without any of the persons, being together in the same place.
+**8.**[^c-eca7a98ea99526be167eaad5651bbc19] (1) A reference in this Measure to a meeting of the Commissioners, the Board or a committee includes a reference to a meeting which persons may attend, speak at, vote in or otherwise participate in without all of the persons, or without any of the persons, being together in the same place.
 
 (2) A reference in this Measure to a place where a meeting of the Commissioners, the Board or a committee is held, or is to be held, includes a reference to more than one place, including electronic, digital or virtual locations, web addresses or conference call telephone numbers.
 
@@ -550,7 +550,7 @@ Section 7(1).
 
 [^c1020759]: Commencement: Measure wholly in force at Royal Assent
 
-[^key-da4f85a784a5ac8dc3fb5263d168ea07]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2) applied (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 56(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/56/3), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 79](https://www.legislation.gov.uk/ukcm/2011/3/section/79), [100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-da4f85a784a5ac8dc3fb5263d168ea07]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2) applied (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 56(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/56/3), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 79](https://www.legislation.gov.uk/ukcm/2011/3/section/79), [100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
 [^c1020760]: Textual amendment: Words repealed by [Charities Act 1960 (c. 58)](https://www.legislation.gov.uk/ukpga/1960/58), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1960/58/schedule/7/part/II)
 
@@ -560,15 +560,15 @@ Section 7(1).
 
 [^c1020764]: Textual amendment: S. 4(2)(c) repealed by [Church Commissioners Measure 1964 (No. 8)](https://www.legislation.gov.uk/ukcm/1964/8), [s. 2(3)](https://www.legislation.gov.uk/ukcm/1964/8/section/2/3)
 
-[^key-dbabe27565acba2f26fe6adbe58017c1]: Textual amendment: Words in s. 4(5) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-dbabe27565acba2f26fe6adbe58017c1]: Textual amendment: Words in s. 4(5) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c1020772]: Textual amendment: S. 5(1) substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/3/a); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-3afde110f8d38134a103f6c09d212a94]: Textual amendment: S. 5(2) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/3); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-3afde110f8d38134a103f6c09d212a94]: Textual amendment: S. 5(2) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/3); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c1020774]: Textual amendment: S. 5(4)(a) substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 3(b)(i)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/3/b/i); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-0288b90a1cb1f36e4fbb75d2b63e846d]: Textual amendment: Words in [s. 5(4)(a)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/5/4/a) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-0288b90a1cb1f36e4fbb75d2b63e846d]: Textual amendment: Words in [s. 5(4)(a)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/5/4/a) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
 [^c1020775]: Textual amendment: Words in s. 5(4)(b) repealed (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 3(b)(ii)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/3/b/ii); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
@@ -578,67 +578,67 @@ Section 7(1).
 
 [^c1020779]: Textual amendment: S. 5(4A) inserted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/3/c); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-0d55faa9767e5f14fb54a88b43806d7d]: Textual amendment: [S. 5(4B)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/5/4B)[(4C)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/5/4C) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/1), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-0d55faa9767e5f14fb54a88b43806d7d]: Textual amendment: [S. 5(4B)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/5/4B)[(4C)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/5/4C) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/1), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
 [^c1020780]: Textual amendment: S. 5(5) repealed (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 3(d)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/3/d); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-38e737484c70f97fbd5169bc52251f3f]: Modification: S. 6 modified (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/a); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-38e737484c70f97fbd5169bc52251f3f]: Modification: S. 6 modified (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/a); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c1020799]: Modification: Unreliable marginal note.
 
-[^key-d34d29487c710966fb42b44faa3b4ce6]: Textual amendment: S. 6 heading substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(e)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/e); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-d34d29487c710966fb42b44faa3b4ce6]: Textual amendment: S. 6 heading substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(e)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/e); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c1020801]: Textual amendment: S. 6(1) substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/4/a); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
 [^c1020800]: Textual amendment: S. 6(1)–(5) substituted by [Church Commissioners Measure 1964 (No. 8)](https://www.legislation.gov.uk/ukcm/1964/8), [s. 1](https://www.legislation.gov.uk/ukcm/1964/8/section/1)
 
-[^key-410988d2d7ce90068982e69e9832ec1d]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/1) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-410988d2d7ce90068982e69e9832ec1d]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/1) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-8f28d0a4063070b3c6b032469b5857c8]: Textual amendment: S. 6(1)(a) substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2021/842/article/3/1) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
+[^c-8f28d0a4063070b3c6b032469b5857c8]: Textual amendment: S. 6(1)(a) substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2021/842/article/3/1) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
 
-[^key-b5e31de745e2e785ab86620e04728495]: Textual amendment: Words in s. 6(1)(b) inserted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [ss. 2(a)](https://www.legislation.gov.uk/ukcm/2005/3/section/2/a), [11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2); [2005 No. 2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-b5e31de745e2e785ab86620e04728495]: Textual amendment: Words in s. 6(1)(b) inserted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [ss. 2(a)](https://www.legislation.gov.uk/ukcm/2005/3/section/2/a), [11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2); [2005 No. 2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-151e3e0651b5ac9af1db92ef7af7e4ae]: Textual amendment: S. 6(1)(d) substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/842/article/3/2) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
+[^c-151e3e0651b5ac9af1db92ef7af7e4ae]: Textual amendment: S. 6(1)(d) substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/842/article/3/2) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
 
-[^key-37a8924b78718f905e866083da62f88f]: Textual amendment: S. 6(1A)-(1D) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/842/article/3/3) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
+[^c-37a8924b78718f905e866083da62f88f]: Textual amendment: S. 6(1A)-(1D) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/842/article/3/3) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
 
 [^c1020802]: Textual amendment: S. 6(2) omitted (1.1.1999) by virtue of [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/4/b); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
 [^c1020803]: Textual amendment: S. 6(3A) inserted (1.1.1998) by [1997 No. 1](https://www.legislation.gov.uk/ukcm/1997/1), [s. 10(1)](https://www.legislation.gov.uk/ukcm/1997/1/section/10/1), [Sch. 1 Pt. I paras. 1](https://www.legislation.gov.uk/ukcm/1997/1/schedule/1/part/I/paragraph/1), [2](https://www.legislation.gov.uk/ukcm/1997/1/schedule/1/part/I/paragraph/2); [Instrument dated 28.11.1997 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1997-11-28)
 
-[^key-d83edc75d52c2118919198aaaefe957e]: Textual amendment: Words in s. 6(3A) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/b); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-d83edc75d52c2118919198aaaefe957e]: Textual amendment: Words in s. 6(3A) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/b); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c1020804]: Textual amendment: S. 6(3B)(3C) inserted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/4/c); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-4102ebbc245bff9ee0197e2c88d881a5]: Textual amendment: Words in [s. 6(3B)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/3B) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-4102ebbc245bff9ee0197e2c88d881a5]: Textual amendment: Words in [s. 6(3B)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/3B) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-4bf4d3f72f468d8475bb216aeb11319b]: Textual amendment: Words in s. 6(3B)(a) substituted (1.9.2010) by [Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)](https://www.legislation.gov.uk/ukcm/2010/1), [ss. 2](https://www.legislation.gov.uk/ukcm/2010/1/section/2), [13(2)](https://www.legislation.gov.uk/ukcm/2010/1/section/13/2); [2010 No. 2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-4bf4d3f72f468d8475bb216aeb11319b]: Textual amendment: Words in s. 6(3B)(a) substituted (1.9.2010) by [Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)](https://www.legislation.gov.uk/ukcm/2010/1), [ss. 2](https://www.legislation.gov.uk/ukcm/2010/1/section/2), [13(2)](https://www.legislation.gov.uk/ukcm/2010/1/section/13/2); [2010 No. 2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-609dacccc85e6ae64fb670764e89bab0]: Textual amendment: S. 6(3B)(aa) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(c)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/c); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-609dacccc85e6ae64fb670764e89bab0]: Textual amendment: S. 6(3B)(aa) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(c)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/c); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-1e9c7abac5562367963e7e535e625803]: Textual amendment: S. 6(3B)(d) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [ss. 2(b)](https://www.legislation.gov.uk/ukcm/2005/3/section/2/b), [11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2); [2005 No. 2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-1e9c7abac5562367963e7e535e625803]: Textual amendment: S. 6(3B)(d) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [ss. 2(b)](https://www.legislation.gov.uk/ukcm/2005/3/section/2/b), [11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2); [2005 No. 2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-9e26d01371b61b81f2eb58ceaf19267e]: Textual amendment: Words in [s. 6(3C)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/3C) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-9e26d01371b61b81f2eb58ceaf19267e]: Textual amendment: Words in [s. 6(3C)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/3C) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-78cf708b20f9bf20f1b8c8facdb335f7]: Textual amendment: S. 6(4) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(d)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/d); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-78cf708b20f9bf20f1b8c8facdb335f7]: Textual amendment: S. 6(4) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(4)(d)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/4/d); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-df22cf6af2070ba095e2d39c0e1c9446]: Textual amendment: Word in [s. 6(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/4) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/2/a), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-df22cf6af2070ba095e2d39c0e1c9446]: Textual amendment: Word in [s. 6(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/4) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/2/a), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-8302a717cf60fa830d827f25bb70fe05]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/4) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/2/b), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-8302a717cf60fa830d827f25bb70fe05]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/4) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/2/b), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-39a1f8d94eb906b1200cb8dc65df17e8]: Textual amendment: [S. 6(4)(b)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/4/b) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(2)(c)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/2/c), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-39a1f8d94eb906b1200cb8dc65df17e8]: Textual amendment: [S. 6(4)(b)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/6/4/b) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(2)(c)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/2/c), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-6c5493112922b8d72e94dab965b50c44]: Textual amendment: S. 6A inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2014/1/section/4/1), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-6c5493112922b8d72e94dab965b50c44]: Textual amendment: S. 6A inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2014/1/section/4/1), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-388e1379f7bab618ba8365ebef4c02a3]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/1A) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/842/article/5/2)
+[^c-388e1379f7bab618ba8365ebef4c02a3]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/1A) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/842/article/5/2)
 
-[^key-cc8f359cea3dbedc4b6818246fa18015]: Textual amendment: Words in [s. 7(2)(b)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/2/b) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/3/a), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-cc8f359cea3dbedc4b6818246fa18015]: Textual amendment: Words in [s. 7(2)(b)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/2/b) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/3/a), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
 [^c1020807]: Textual amendment: Words in s. 7(2) substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/5); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-9d20b86b9172e20c78409297f8b3febc]: Textual amendment: Words in [s. 7(2)(c)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/2/c) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-9d20b86b9172e20c78409297f8b3febc]: Textual amendment: Words in [s. 7(2)(c)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/2/c) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-c9a8e287b0e1c32ad8ee319355cebb99]: Textual amendment: [S. 7(2)(d)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/2/d) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/3/b), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-c9a8e287b0e1c32ad8ee319355cebb99]: Textual amendment: [S. 7(2)(d)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/7/2/d) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/3/b), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
 [^c1020808]: Modification: Unreliable marginal note.
 
@@ -646,15 +646,15 @@ Section 7(1).
 
 [^c1020810]: Textual amendment: S. 8(3) repealed by [Charities Act 1960 (c. 58)](https://www.legislation.gov.uk/ukpga/1960/58), [s. 48(2)](https://www.legislation.gov.uk/ukpga/1960/58/section/48/2), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1960/58/schedule/7/part/I)
 
-[^key-fab33179914a6b2cb93ea75c83504f42]: Textual amendment: S. 9 heading substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-fab33179914a6b2cb93ea75c83504f42]: Textual amendment: S. 9 heading substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-2b5be02602f89786ae55b95933a4d5cc]: Textual amendment: S. 9(3)-(6) added (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-2b5be02602f89786ae55b95933a4d5cc]: Textual amendment: S. 9(3)-(6) added (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-fe7332fd72b00aeaa640d45f181e2dd1]: Textual amendment: S. 9(3A)(3B) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 11(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/1), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 11(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/6)[(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
+[^c-fe7332fd72b00aeaa640d45f181e2dd1]: Textual amendment: S. 9(3A)(3B) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 11(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/1), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 11(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/6)[(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
 
-[^key-5e8267c5c6bfb8f32b2ffa76612facfa]: Textual amendment: Words in s. 9(5) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 11(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/2), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 11(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/6)[(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
+[^c-5e8267c5c6bfb8f32b2ffa76612facfa]: Textual amendment: Words in s. 9(5) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 11(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/2), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 11(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/6)[(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
 
-[^key-9426764d3344cf2f1981995ae54dc6c3]: Textual amendment: S. 9(3) added at the end (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/5); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-9426764d3344cf2f1981995ae54dc6c3]: Textual amendment: S. 9(3) added at the end (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/5); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c1020814]: Textual amendment: Word substituted by [Church of England (Miscellaneous Provisions) Measure 1978 (No. 3, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1978/3), [s. 3(1)](https://www.legislation.gov.uk/ukcm/1978/3/section/3/1)
 
@@ -664,23 +664,23 @@ Section 7(1).
 
 [^c1020818]: Textual amendment: Words in s. 10(6) inserted (1.1.1998) by [1997 No. 1](https://www.legislation.gov.uk/ukcm/1997/1), [s. 10(1)](https://www.legislation.gov.uk/ukcm/1997/1/section/10/1), [Sch. 1 Pt. I paras. 1](https://www.legislation.gov.uk/ukcm/1997/1/schedule/1/part/I/paragraph/1), [3](https://www.legislation.gov.uk/ukcm/1997/1/schedule/1/part/I/paragraph/3); [Instrument dated 26.7.1997 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1997-07-26)
 
-[^key-379af802d87cf0e8e259189d504bfae5]: Textual amendment: Words in s. 10(6) substituted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukcm/2018/9/schedule/3/paragraph/1); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-379af802d87cf0e8e259189d504bfae5]: Textual amendment: Words in s. 10(6) substituted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukcm/2018/9/schedule/3/paragraph/1); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-7c4d4d6b3bf5244e98374659f5fc332b]: Textual amendment: Words in s. 10(6) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/842/article/8)
+[^c-7c4d4d6b3bf5244e98374659f5fc332b]: Textual amendment: Words in s. 10(6) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/842/article/8)
 
-[^key-45d2ea043609346f9c4883791d96d92c]: Textual amendment: [S. 10(7)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/10/7) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/4), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-45d2ea043609346f9c4883791d96d92c]: Textual amendment: [S. 10(7)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/10/7) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/4), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-2a36dc1ec8ce081e52a591a3e87eb7aa]: Textual amendment: Words in s. 11(2) omitted (1.6.2005) by virtue of [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [ss. 2(c)](https://www.legislation.gov.uk/ukcm/2005/3/section/2/c), [11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2); [2005 No. 2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-2a36dc1ec8ce081e52a591a3e87eb7aa]: Textual amendment: Words in s. 11(2) omitted (1.6.2005) by virtue of [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [ss. 2(c)](https://www.legislation.gov.uk/ukcm/2005/3/section/2/c), [11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2); [2005 No. 2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c1020819]: Modification: S. 12(2): Functions of the Secretary of State transferred to the Lord Chancellor (26.11.2001) by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), [arts. 3](https://www.legislation.gov.uk/uksi/2001/3500/article/3), [4](https://www.legislation.gov.uk/uksi/2001/3500/article/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2001/3500/schedule/1/paragraph/9)
 
 [^c1020820]: Textual amendment: Words in s. 12(2) substituted (26.11.2001) by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), [art. 8](https://www.legislation.gov.uk/uksi/2001/3500/article/8), [Sch. 2 Pt. II para. 11](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/part/II/paragraph/11)
 
-[^key-f35e75f8a8b3674a4b2d1ddb14ad07b9]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/13A) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/842/article/7)
+[^c-f35e75f8a8b3674a4b2d1ddb14ad07b9]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/13A) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/842/article/7)
 
-[^key-c2b609165fee32856598f2ea1718b1a3]: Textual amendment: S. 15(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-c2b609165fee32856598f2ea1718b1a3]: Textual amendment: S. 15(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
-[^key-125689ce2fc34440b4ca0ba947b43a4d]: Textual amendment: S. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-125689ce2fc34440b4ca0ba947b43a4d]: Textual amendment: S. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
 [^c1020821]: Textual amendment: Ss. 15(3), 16 repealed by [Statute Law Revision Act 1966 (c. 5)](https://www.legislation.gov.uk/ukpga/1966/5)
 
@@ -690,7 +690,7 @@ Section 7(1).
 
 [^c1020834]: Textual amendment: Words in s. 17(1) substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/7); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-2a1008a3a5c12e7a3dec230e73daa544]: Textual amendment: Words in s. 17(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-2a1008a3a5c12e7a3dec230e73daa544]: Textual amendment: Words in s. 17(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
 [^c1020839]: Marginal citation: [1938 c. 13](https://www.legislation.gov.uk/ukpga/1938/13).
 
@@ -700,19 +700,19 @@ Section 7(1).
 
 [^c1020842]: Marginal citation: [1938 c. 13](https://www.legislation.gov.uk/ukpga/1938/13).
 
-[^key-8ef8c4978b3da09a5132f1db1f341084]: Textual amendment: S. 17(4)(5) inserted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [ss. 39(6)](https://www.legislation.gov.uk/ukcm/2018/9/section/39/6), [61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-8ef8c4978b3da09a5132f1db1f341084]: Textual amendment: S. 17(4)(5) inserted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [ss. 39(6)](https://www.legislation.gov.uk/ukcm/2018/9/section/39/6), [61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-b27d159dc950d6759196baf1f18ff9c8]: Textual amendment: Word in [s. 17(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/17/4) substituted (25.1.2024) by [Church of England Pensions (Application of Capital Funds) Measure 2024 (No. 2)](https://www.legislation.gov.uk/ukcm/2024/2), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/1/2), [2(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/2/2)
+[^c-b27d159dc950d6759196baf1f18ff9c8]: Textual amendment: Word in [s. 17(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/17/4) substituted (25.1.2024) by [Church of England Pensions (Application of Capital Funds) Measure 2024 (No. 2)](https://www.legislation.gov.uk/ukcm/2024/2), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/1/2), [2(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/2/2)
 
 [^c1020843]: Modification: 1.4.1948 appointed under s. 18(1)
 
-[^key-192e27f7bda5bbdb8c5dd7bbb544d8ed]: Textual amendment: Words in s. 18(1) omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/3); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-192e27f7bda5bbdb8c5dd7bbb544d8ed]: Textual amendment: Words in s. 18(1) omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/3); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c1020844]: Marginal citation: [1938 c. 13](https://www.legislation.gov.uk/ukpga/1938/13).
 
-[^key-97891ce7dffeebe3b1e8d9887f7b837b]: Textual amendment: [S. 18(3)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/18/3) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/842/article/6/3)
+[^c-97891ce7dffeebe3b1e8d9887f7b837b]: Textual amendment: [S. 18(3)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/18/3) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/842/article/6/3)
 
-[^key-d4d3fbd126c7e78983c921f1d0135837]: Textual amendment: [S. 18(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/18/4) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/5), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-d4d3fbd126c7e78983c921f1d0135837]: Textual amendment: [S. 18(4)](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/section/18/4) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/5), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
 [^c1020853]: Textual amendment: Sch. I para. 1 substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 8(a)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/8/a); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
@@ -720,41 +720,41 @@ Section 7(1).
 
 [^c1020852]: Modification: Sch. I para. 1: Power to amend conferred (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/1998/1/section/13/2); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-70d3d5ea1e74acf03622afde8cc9fe60]: Textual amendment: Words in Sch. 1 para. 1 substituted (22.8.2007) by [Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/1)
+[^c-70d3d5ea1e74acf03622afde8cc9fe60]: Textual amendment: Words in Sch. 1 para. 1 substituted (22.8.2007) by [Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/1)
 
-[^key-22c549f160181d3e3e58ccc9a0647d89]: Textual amendment: Words in Sch. 1 omitted (22.6.2006) by virtue of [Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 1(a)](https://www.legislation.gov.uk/uksi/2006/1640/article/1/a), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/1/paragraph/2/a)
+[^c-22c549f160181d3e3e58ccc9a0647d89]: Textual amendment: Words in Sch. 1 omitted (22.6.2006) by virtue of [Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 1(a)](https://www.legislation.gov.uk/uksi/2006/1640/article/1/a), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/1/paragraph/2/a)
 
-[^key-6dd667018dcdd373ed252280f4ac63d1]: Textual amendment: Words in Sch. 1 inserted (22.6.2006) by [Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 1(a)](https://www.legislation.gov.uk/uksi/2006/1640/article/1/a), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/1/paragraph/2/b)
+[^c-6dd667018dcdd373ed252280f4ac63d1]: Textual amendment: Words in Sch. 1 inserted (22.6.2006) by [Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 1(a)](https://www.legislation.gov.uk/uksi/2006/1640/article/1/a), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/1/paragraph/2/b)
 
-[^key-f3fe2552022c336bd4a93c0e971b7f74]: Textual amendment: Words in Sch. 1 para. 1(b) omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-f3fe2552022c336bd4a93c0e971b7f74]: Textual amendment: Words in Sch. 1 para. 1(b) omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-3eb0bf92e2ad4587f7b297f2d6179dbf]: Textual amendment: Words in Sch. 1 para. 1(b) added (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-3eb0bf92e2ad4587f7b297f2d6179dbf]: Textual amendment: Words in Sch. 1 para. 1(b) added (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-91ea66f86df13d32887c38b4b7259e65]: Textual amendment: Words in Sch. 1 para. 1(b) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-91ea66f86df13d32887c38b4b7259e65]: Textual amendment: Words in Sch. 1 para. 1(b) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-23c6e398ac5553d640ebdab2bd828b72]: Textual amendment: Sch. 1 para. 2 substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/842/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/842/article/2/3))
+[^c-23c6e398ac5553d640ebdab2bd828b72]: Textual amendment: Sch. 1 para. 2 substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/842/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/842/article/2/3))
 
 [^c1020860]: Textual amendment: Word in Sch. I para. 3 substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 8(c)(i)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/8/c/i); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
 [^c1020861]: Textual amendment: Word in Sch. I para. 3 substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 8(c)(ii)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/8/c/ii); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-99d8534c3fbcabefaf735a3b9b11016d]: Textual amendment: Words in Sch. 1 para. 4 omitted (28.7.2021) by virtue of [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [4](https://www.legislation.gov.uk/uksi/2021/842/article/4)
+[^c-99d8534c3fbcabefaf735a3b9b11016d]: Textual amendment: Words in Sch. 1 para. 4 omitted (28.7.2021) by virtue of [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [4](https://www.legislation.gov.uk/uksi/2021/842/article/4)
 
 [^c1020863]: Textual amendment: Sch. I para. 5 substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 8(d)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/8/d); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-1a8c33dd5c997e11b3916e8de87376a9]: Textual amendment: Words in Sch. 1 para. 5 omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-1a8c33dd5c997e11b3916e8de87376a9]: Textual amendment: Words in Sch. 1 para. 5 omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c1020865]: Textual amendment: Sch. I para. 5A substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 8(e)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/8/e); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-22c8e7ac94b79cc504f5cee240555ffa]: Textual amendment: Words in Sch. 1 para. 5A substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/7); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-22c8e7ac94b79cc504f5cee240555ffa]: Textual amendment: Words in Sch. 1 para. 5A substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/7); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-64b55a2e82400f764494f47214dfb4c7]: Textual amendment: Words in Sch. 1 para. 5A(1) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(d)(i)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/d/i); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-64b55a2e82400f764494f47214dfb4c7]: Textual amendment: Words in Sch. 1 para. 5A(1) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(d)(i)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/d/i); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-a033128d485902620549bca9bb39f024]: Textual amendment: Words in Sch. 1 para. 5A(2) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(d)(ii)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/d/ii); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-a033128d485902620549bca9bb39f024]: Textual amendment: Words in Sch. 1 para. 5A(2) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 2 para. 4(1)(d)(ii)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/2/paragraph/4/1/d/ii); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-967c98a368e2e3dbb2794a5cb8a45c0c]: Textual amendment: Sch. 1 para. 6 substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(8)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/8); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-967c98a368e2e3dbb2794a5cb8a45c0c]: Textual amendment: Sch. 1 para. 6 substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(8)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/8); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-690b8754eb3092a2d963a1f9cd862e58]: Textual amendment: Sch. 1 para. 6(a)(b) substituted for words in Sch. 1 para. 6 (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2021/842/article/5/1)
+[^c-690b8754eb3092a2d963a1f9cd862e58]: Textual amendment: Sch. 1 para. 6(a)(b) substituted for words in Sch. 1 para. 6 (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2021/842/article/5/1)
 
 [^c1020866]: Textual amendment: [Sch. II](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/schedule/II) repealed (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/1998/1/section/13/2); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
@@ -774,20 +774,20 @@ Section 7(1).
 
 [^c1020875]: Textual amendment: Sch. IV para. 3 substituted (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 9(c)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/9/c); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-6f88ebd32560dff210775af02061d558]: Textual amendment: Sch. 4 para. 4 substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/842/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/842/article/2/3))
+[^c-6f88ebd32560dff210775af02061d558]: Textual amendment: Sch. 4 para. 4 substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/842/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/842/article/2/3))
 
-[^key-9fa118a1cab91f793d3010de2f27cf19]: Textual amendment: Sch. 4 para. 4(3) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/842/article/3/4) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
+[^c-9fa118a1cab91f793d3010de2f27cf19]: Textual amendment: Sch. 4 para. 4(3) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/842/article/3/4) (with [art. 3(5)](https://www.legislation.gov.uk/uksi/2021/842/article/3/5))
 
 [^c1020879]: Textual amendment: Words in Sch. IV para. 5 omitted (1.1.1999) by virtue of [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 9(e)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/9/e); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-6158a447c597315972fda43a3f419ceb]: Textual amendment: Sch. 4 para. 5A inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(9)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/9); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-6158a447c597315972fda43a3f419ceb]: Textual amendment: Sch. 4 para. 5A inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 3(9)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/3/9); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-1199687cd530d42439916b83a1d131d6]: Textual amendment: Words in Sch. 4 para. 5A(1) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/842/article/6/2/a)
+[^c-1199687cd530d42439916b83a1d131d6]: Textual amendment: Words in Sch. 4 para. 5A(1) inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/842/article/6/2/a)
 
-[^key-17d88665e8d85c848eb38d125a88d0e4]: Textual amendment: Words in Sch. 4 para. 5A(1) substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/842/article/6/2/b)
+[^c-17d88665e8d85c848eb38d125a88d0e4]: Textual amendment: Words in Sch. 4 para. 5A(1) substituted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/842/article/6/2/b)
 
 [^c1020881]: Textual amendment: Words in [Sch. 4 para. 7](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/schedule/4/paragraph/7) substituted (1.1.1999) by virtue of [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/7/1), [Sch. 4 para. 9(f)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/4/paragraph/9/f); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-3ddfd62684a1f4e1dca0905777b458f4]: Textual amendment: Words in [Sch. 4 para. 7](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/schedule/4/paragraph/7) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-3ddfd62684a1f4e1dca0905777b458f4]: Textual amendment: Words in [Sch. 4 para. 7](https://www.legislation.gov.uk/ukcm/Geo6/10-11/2/schedule/4/paragraph/7) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/6), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
 
-[^key-eca7a98ea99526be167eaad5651bbc19]: Textual amendment: Sch. 4 para. 8 inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/842/article/6/1)
+[^c-eca7a98ea99526be167eaad5651bbc19]: Textual amendment: Sch. 4 para. 8 inserted (28.7.2021) by [The Legislative Reform (Church Commissioners) Order 2021 (S.I. 2021/842)](https://www.legislation.gov.uk/uksi/2021/842), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/842/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/842/article/6/1)

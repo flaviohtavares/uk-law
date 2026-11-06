@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2C. Meaning of “registered contact” etc.[^key-02371ddf8ddfb120fa5106013463019f]
+## 2C. Meaning of “registered contact” etc.[^c-02371ddf8ddfb120fa5106013463019f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,11 +31,11 @@ summary: ''
   - (iii) the child has assumed responsibility for the management of the account in accordance with paragraph (6), or
 - (c) in any other case, the responsible person in relation to the account.
 
-(3) For the purposes of paragraph (2)(b)(ii) this paragraph applies in relation to the child—[^key-28dc89e0e59dc0a8e640c6185ff08e1f]
+(3) For the purposes of paragraph (2)(b)(ii) this paragraph applies in relation to the child—[^c-28dc89e0e59dc0a8e640c6185ff08e1f]
 
 - (a) if the child is resident in England and Wales and lacks capacity in relation to the management of the junior ISA account under section 2(1) of the Mental Capacity Act 2005;
-- (b) if the child is resident in Scotland, the child is suffering mental disorder within the meaning given by[^key-634fb2582f7ec64f6dc8ff295ab15ac1] section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003;
-- (c) if the child is resident in Northern Ireland, the child is suffering mental disorder within the meaning given by[^key-9e6aa7be65e440a31ef96f392df9e5a6] Article 3 of the Mental Health (Northern Ireland) Order 1986.
+- (b) if the child is resident in Scotland, the child is suffering mental disorder within the meaning given by[^c-634fb2582f7ec64f6dc8ff295ab15ac1] section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003;
+- (c) if the child is resident in Northern Ireland, the child is suffering mental disorder within the meaning given by[^c-9e6aa7be65e440a31ef96f392df9e5a6] Article 3 of the Mental Health (Northern Ireland) Order 1986.
 
 (4) A person is the responsible person in relation to a junior ISA account if—
 
@@ -98,10 +98,10 @@ summary: ''
 
 ## Annotations
 
-[^key-02371ddf8ddfb120fa5106013463019f]: Textual amendment: Regs. 2A-2E inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/1780/regulation/6)
+[^c-02371ddf8ddfb120fa5106013463019f]: Textual amendment: Regs. 2A-2E inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/1780/regulation/6)
 
-[^key-28dc89e0e59dc0a8e640c6185ff08e1f]: Textual amendment: Words in [reg. 2C(3)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2C/3) substituted (6.4.2014) by [The Individual Savings Account (Amendment) Regulations 2014 (S.I. 2014/654)](https://www.legislation.gov.uk/uksi/2014/654), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/654/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/654/regulation/4/a)
+[^c-28dc89e0e59dc0a8e640c6185ff08e1f]: Textual amendment: Words in [reg. 2C(3)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2C/3) substituted (6.4.2014) by [The Individual Savings Account (Amendment) Regulations 2014 (S.I. 2014/654)](https://www.legislation.gov.uk/uksi/2014/654), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/654/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/654/regulation/4/a)
 
-[^key-634fb2582f7ec64f6dc8ff295ab15ac1]: Textual amendment: Words in [reg. 2C(3)(b)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2C/3/b) substituted (6.4.2014) by [The Individual Savings Account (Amendment) Regulations 2014 (S.I. 2014/654)](https://www.legislation.gov.uk/uksi/2014/654), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/654/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/654/regulation/4/b)
+[^c-634fb2582f7ec64f6dc8ff295ab15ac1]: Textual amendment: Words in [reg. 2C(3)(b)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2C/3/b) substituted (6.4.2014) by [The Individual Savings Account (Amendment) Regulations 2014 (S.I. 2014/654)](https://www.legislation.gov.uk/uksi/2014/654), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/654/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/654/regulation/4/b)
 
-[^key-9e6aa7be65e440a31ef96f392df9e5a6]: Textual amendment: Words in [reg. 2C(3)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2C/3/c) substituted (6.4.2014) by [The Individual Savings Account (Amendment) Regulations 2014 (S.I. 2014/654)](https://www.legislation.gov.uk/uksi/2014/654), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/654/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2014/654/regulation/4/c)
+[^c-9e6aa7be65e440a31ef96f392df9e5a6]: Textual amendment: Words in [reg. 2C(3)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2C/3/c) substituted (6.4.2014) by [The Individual Savings Account (Amendment) Regulations 2014 (S.I. 2014/654)](https://www.legislation.gov.uk/uksi/2014/654), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/654/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2014/654/regulation/4/c)

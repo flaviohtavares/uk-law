@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Power to deviate[^key-450460a6e7e75209d7f808822110bd24]
+## 6. Power to deviate[^c-450460a6e7e75209d7f808822110bd24]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In constructing or maintaining any of the scheduled works, the Council may—
 
 ## Annotations
 
-[^key-450460a6e7e75209d7f808822110bd24]: Commencement: Art. 6 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-450460a6e7e75209d7f808822110bd24]: Commencement: Art. 6 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Orders which are kinship care orders[^key-8dcedc5b0c7ec046a5faefc4554cf12f]
+## 72. Orders which are kinship care orders[^c-8dcedc5b0c7ec046a5faefc4554cf12f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dcedc5b0c7ec046a5faefc4554cf12f]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2014/8/section/72) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-8dcedc5b0c7ec046a5faefc4554cf12f]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2014/8/section/72) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

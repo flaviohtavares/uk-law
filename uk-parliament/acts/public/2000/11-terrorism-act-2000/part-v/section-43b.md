@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43B. Terrorist offenders released on licence: arrest without warrant pending recall decision[^key-cc31c579b994ae0138bd91bf449aa7f3]
+## 43B. Terrorist offenders released on licence: arrest without warrant pending recall decision[^c-cc31c579b994ae0138bd91bf449aa7f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc31c579b994ae0138bd91bf449aa7f3]: Textual amendment: [S. 43B](https://www.legislation.gov.uk/ukpga/2000/11/section/43B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 184(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/184/1), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-cc31c579b994ae0138bd91bf449aa7f3]: Textual amendment: [S. 43B](https://www.legislation.gov.uk/ukpga/2000/11/section/43B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 184(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/184/1), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

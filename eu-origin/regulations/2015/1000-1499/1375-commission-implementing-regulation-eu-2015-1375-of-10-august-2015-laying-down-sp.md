@@ -154,7 +154,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 - ((1)) ‘*Trichinella*’ means any nematode belonging to the species of the genus *Trichinella*;
 - ((2)) ‘controlled housing conditions’ means a type of animal husbandry where swine are kept at all times under conditions controlled by the food business operator with regard to feeding and housing;
-- ((3)) ‘compartment’ means a group of holdings which apply controlled housing conditions. All holdings applying controlled housing conditions [^key-40d2a5696320d431dff385cb6ed53972]... may be considered as one compartment.
+- ((3)) ‘compartment’ means a group of holdings which apply controlled housing conditions. All holdings applying controlled housing conditions [^c-40d2a5696320d431dff385cb6ed53972]... may be considered as one compartment.
 
 ## CHAPTER II — OBLIGATIONS OF COMPETENT AUTHORITIES AND OF FOOD BUSINESS OPERATORS
 
@@ -186,18 +186,18 @@ A sample shall be collected from each carcass and the sample shall be examined i
 
 3. By way of derogation from Article 2(1), carcasses and meat of domestic swine may be exempt from *Trichinella* examination where the animals come from a holding or a compartment officially recognised as applying controlled housing conditions in accordance with Annex IV, if:
 
-- (a) no autochthonous *Trichinella* infestations in domestic swine kept in holdings officially recognised as applying controlled housing conditions have been detected [^key-a477608aaf91c9cd546e7c4af54cc263]... in the past three years, during which time continuous testing has been conducted in accordance with Article 2; or
-- (b) historical data on continuous testing carried out on slaughtered swine population provide at least 95 % confidence that the prevalence of *Trichinella* does not exceed one per million in that population; [^key-bd580020b6e75a4163e6cbc3f3697bfe]...
-- (c)[^key-ce59db08a7b38ef9bade323606f728c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) no autochthonous *Trichinella* infestations in domestic swine kept in holdings officially recognised as applying controlled housing conditions have been detected [^c-a477608aaf91c9cd546e7c4af54cc263]... in the past three years, during which time continuous testing has been conducted in accordance with Article 2; or
+- (b) historical data on continuous testing carried out on slaughtered swine population provide at least 95 % confidence that the prevalence of *Trichinella* does not exceed one per million in that population; [^c-bd580020b6e75a4163e6cbc3f3697bfe]...
+- (c)[^c-ce59db08a7b38ef9bade323606f728c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-22ce7814a04730852fc78e7f3e81e2ef] When carcasses and meat of domestic swine are exempt from Trichinella examination pursuant to a derogation under Article 3(3), the competent authority must collect the information referred to in Chapter 2 of Annex 4 and must maintain a list of holdings and compartments to which the derogation applies.
+4.[^c-22ce7814a04730852fc78e7f3e81e2ef] When carcasses and meat of domestic swine are exempt from Trichinella examination pursuant to a derogation under Article 3(3), the competent authority must collect the information referred to in Chapter 2 of Annex 4 and must maintain a list of holdings and compartments to which the derogation applies.
 
 5.[^c000002] By way of derogation from Article 2(3) and following approval by the competent authority:
 
 - (a) carcasses may be cut up at a cutting plant attached to or separate from the slaughterhouse provided that:
   - ((i)) the procedure is approved by the competent authority;
   - ((ii)) a carcass or the parts thereof have not more than one cutting plant as its destination;
-  - ((iii)) the cutting plant is situated within Great Britain[^key-b1f0610421770dd953a7dc72607655c4]; and
+  - ((iii)) the cutting plant is situated within Great Britain[^c-b1f0610421770dd953a7dc72607655c4]; and
   - ((iv)) in the case of a positive result all the parts are declared unfit for human consumption;
 - (b) carcasses derived from domestic swine may be cut up into more parts in a cutting plant on the same premises or attached to the slaughterhouse provided that:
   - ((i)) the procedure is approved by the competent authority;
@@ -227,11 +227,11 @@ The competent authority shall ensure that all personnel involved in the examinat
 
 1. The methods of detection set out in Chapters I and II of Annex I shall be used for examining samples as referred to in Article 2 where they provide grounds for suspecting *Trichinella* infestation.
 
-2. All positive samples shall be forwarded to the national reference laboratory [^key-fc94c2b21838c4fe5ff1abffd5a392a3]... for determination of the *Trichinella* species involved.
+2. All positive samples shall be forwarded to the national reference laboratory [^c-fc94c2b21838c4fe5ff1abffd5a392a3]... for determination of the *Trichinella* species involved.
 
 ### Article 7. Contingency plans
 
-The competent authority[^key-02d2fb0a95bce5b780f52a1790bf3a9a] shall provide for a contingency plan outlining all action to be taken where samples as referred to in Article 2 test positive for *Trichinella*. That plan shall include details covering:
+The competent authority[^c-02d2fb0a95bce5b780f52a1790bf3a9a] shall provide for a contingency plan outlining all action to be taken where samples as referred to in Article 2 test positive for *Trichinella*. That plan shall include details covering:
 
 - ((a)) traceability of infested carcasses and parts thereof containing muscle tissue;
 - ((b)) measures for dealing with infested carcasses and parts thereof;
@@ -244,7 +244,7 @@ The competent authority[^key-02d2fb0a95bce5b780f52a1790bf3a9a] shall provide for
 
 1. For the purposes of this Regulation, the competent authority may officially recognise a holding or a compartment applying controlled housing conditions where the requirements laid down in Annex IV are complied with.
 
-2.[^key-dd831aac834dc1446fa1c818804cb846] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-dd831aac834dc1446fa1c818804cb846] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 9. Obligation on food business operators to inform
 
@@ -264,7 +264,7 @@ The competent authority may implement a monitoring programme covering the popula
 
 The frequency of testing, the number of animals to be tested and the sampling plan shall be laid down in the monitoring programme. To that end, meat samples shall be collected and examined for the presence of *Trichinella* parasites in accordance with Chapter I or II of Annex I.
 
-The monitoring programme may include serological methods as an additional tool once a suitable test is validated by the national[^key-b8b30f2628a8923cfaad7fb65d70efe2] reference laboratory.
+The monitoring programme may include serological methods as an additional tool once a suitable test is validated by the national[^c-b8b30f2628a8923cfaad7fb65d70efe2] reference laboratory.
 
 ### Article 12. Withdrawal of official recognition of holdings as applying controlled housing conditions
 
@@ -276,7 +276,7 @@ The monitoring programme may include serological methods as an additional tool o
 - (b) examine all domestic swine of that holding at the time of slaughter;
 - (c) trace and test all breeding animals that arrived on the holding and, as far as possible, all those that left the holding in at least the six months preceding the positive finding; to that end, meat samples shall be collected and examined for presence of *Trichinella* parasites using the detection methods laid down in Chapters I and II of Annex I;
 - (d) when relevant, as far as is feasible, investigate the spread of parasite infestation due to the distribution of meat from domestic swine slaughtered in the period preceding the positive finding;
-- (e)[^key-aa69a080e6a195fa0d1c53969def58c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-aa69a080e6a195fa0d1c53969def58c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) when relevant, initiate an epidemiological investigation to elucidate the cause of infestation;
 - (g) take appropriate measures where any infested carcass cannot be identified at the slaughterhouse, including:
   - ((i)) increasing the size of each meat sample collected for testing of the suspect carcasses; or
@@ -291,9 +291,9 @@ The monitoring programme may include serological methods as an additional tool o
 
 ### Article 13. Import health requirements
 
-1. Meat containing striated muscles of animal species that may be carriers of *Trichinella* may only be imported into Great Britain[^key-3aa1ab1164cd48580dbc69ce8223c05d] if prior to export the examination for *Trichinella* has been performed in accordance with conditions equivalent to those laid down in Article 2 or 3 in the third country where the animals were slaughtered.
+1. Meat containing striated muscles of animal species that may be carriers of *Trichinella* may only be imported into Great Britain[^c-3aa1ab1164cd48580dbc69ce8223c05d] if prior to export the examination for *Trichinella* has been performed in accordance with conditions equivalent to those laid down in Article 2 or 3 in the third country where the animals were slaughtered.
 
-2. A third country may only apply the derogations provided for in Article 3(2) and (3) if it has informed the competent authority[^key-e91a5cc9417b3fd0ad40072f36dd6247] of the application of those derogations and if it has been listed for that purpose:
+2. A third country may only apply the derogations provided for in Article 3(2) and (3) if it has informed the competent authority[^c-e91a5cc9417b3fd0ad40072f36dd6247] of the application of those derogations and if it has been listed for that purpose:
 
 - ((i)) in Part 1 of Annex I to Regulation (EU) No 206/2010 for imports of live domestic swine;
 - ((ii)) in Part 1 of Annex II to Regulation (EU) No 206/2010 for imports of fresh meat of domestic swine; or
@@ -301,9 +301,9 @@ The monitoring programme may include serological methods as an additional tool o
 
 ### Article 14. Documents
 
-1.[^key-7cc4ca3d0cc33ca70502cdf178c112ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-7cc4ca3d0cc33ca70502cdf178c112ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2. In the model health certificate for imports into Great Britain[^key-c3d58cde47f5e6eff6108038f27ec085] of domestic swine set out in the Models ‘POR-X’ and ‘POR-Y’ in Part 2 of Annex I to Regulation (EU) No 206/2010, the official veterinarian shall include the information on the official recognition by the competent authority of a third country of the holding of origin as applying controlled housing conditions equivalent to those provided for in Annex IV to this Regulation.
+2. In the model health certificate for imports into Great Britain[^c-c3d58cde47f5e6eff6108038f27ec085] of domestic swine set out in the Models ‘POR-X’ and ‘POR-Y’ in Part 2 of Annex I to Regulation (EU) No 206/2010, the official veterinarian shall include the information on the official recognition by the competent authority of a third country of the holding of origin as applying controlled housing conditions equivalent to those provided for in Annex IV to this Regulation.
 
 3. In the veterinary certificate, in accordance with Model ‘POR’ set out in Part 2 of Annex II to Regulation (EU) No 206/2010, accompanying consignments of meat intended for imports into Great Britain from third countries, the official veterinarian shall include the public health attestation of the examination for *Trichinella* carried out in accordance with Article 13 of this Regulation in the third country of origin of the meat.
 
@@ -323,7 +323,7 @@ References to the repealed Regulation shall be construed as references to this R
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-c091f4509d5977f6e95a4b7943241cb8]...
+[^c-c091f4509d5977f6e95a4b7943241cb8]...
 
 ## ANNEX I — Detection methods
 
@@ -422,7 +422,7 @@ Where examination of a collective sample produces a positive or uncertain result
 
 When *Trichinella* is detected in a pooled sample from five pigs, further 20 g samples are collected from the individual pigs in the group and each is examined separately using the method described in this Chapter.
 
-Parasite samples are to be kept in 90 % ethyl alcohol for conservation and identification at species level at the [^key-872009baa4c6315b844b53080c7e8306]... national reference laboratory.
+Parasite samples are to be kept in 90 % ethyl alcohol for conservation and identification at species level at the [^c-872009baa4c6315b844b53080c7e8306]... national reference laboratory.
 
 After parasite collection, positive fluids (digestive juice, supernatant fluid, washings, etc.) are to be decontaminated by heating to at least 60 °C.
 
@@ -778,7 +778,7 @@ When a positive latex agglutination is obtained from a group of five swine, furt
 
 When a positive or uncertain latex agglutination result is obtained, at least 20 g of swine muscle must be sent to the national reference laboratory for confirmation using one of the methods described in Chapter I.
 
-Parasite samples must be kept in 90 % ethyl alcohol for conservation and identification at species level at the [^key-c65a2bf4f1c10e5881237206237c58ea]... national reference laboratory.
+Parasite samples must be kept in 90 % ethyl alcohol for conservation and identification at species level at the [^c-c65a2bf4f1c10e5881237206237c58ea]... national reference laboratory.
 
 After parasite collection, positive fluids must be decontaminated by heating to at least 60 °C.
 
@@ -886,13 +886,13 @@ Food business operators of holdings officially recognised as applying controlled
 
 C.
 
-The competent authority[^key-7c43cf6a6f95138f45455661e546d308] may only recognise a holding or a category of holdings provided that they have verified that the requirements laid down in point A are met.
+The competent authority[^c-7c43cf6a6f95138f45455661e546d308] may only recognise a holding or a category of holdings provided that they have verified that the requirements laid down in point A are met.
 
 ### CHAPTER II — REPORTING ON TRICHINELLA SITUATION
 
 (a)
 
-[^key-02c65f080feb8b63442caa62011730e5]...
+[^c-02c65f080feb8b63442caa62011730e5]...
 
 (b)
 
@@ -968,50 +968,50 @@ The number of tests and the results of testing for *Trichinella* in domestic swi
 
 [^f00015]: Footnote: Directive 2003/99/EC of the European Parliament and of the Council of 17 November 2003 on the monitoring of zoonoses and zoonotic agents, amending Council Decision 90/424/EEC and repealing Council Directive 92/117/EEC ([OJ L 325, 12.12.2003, p. 31](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.325.01.0031.01.ENG)).
 
-[^key-40d2a5696320d431dff385cb6ed53972]: Textual amendment: Words in [Art. 1(3)](https://www.legislation.gov.uk/eur/2015/1375/article/1/3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51B](https://www.legislation.gov.uk/uksi/2019/640/regulation/51B) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-40d2a5696320d431dff385cb6ed53972]: Textual amendment: Words in [Art. 1(3)](https://www.legislation.gov.uk/eur/2015/1375/article/1/3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51B](https://www.legislation.gov.uk/uksi/2019/640/regulation/51B) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
 [^c000001]: Textual amendment: Deleted by [Commission Implementing Regulation (EU) 2020/1478 of 14 October 2020 amending Implementing Regulation (EU) 2015/1375 as regards sampling, the reference method for detection and import conditions related to Trichinella control (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2020/1478).
 
-[^key-a477608aaf91c9cd546e7c4af54cc263]: Textual amendment: Words in [Art. 3(3)(a)](https://www.legislation.gov.uk/eur/2015/1375/article/3/3/a) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(a)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/a/i) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-a477608aaf91c9cd546e7c4af54cc263]: Textual amendment: Words in [Art. 3(3)(a)](https://www.legislation.gov.uk/eur/2015/1375/article/3/3/a) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(a)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/a/i) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-bd580020b6e75a4163e6cbc3f3697bfe]: Textual amendment: Word in [Art. 3(3)(b)](https://www.legislation.gov.uk/eur/2015/1375/article/3/3/b) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(a)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/a/ii) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-bd580020b6e75a4163e6cbc3f3697bfe]: Textual amendment: Word in [Art. 3(3)(b)](https://www.legislation.gov.uk/eur/2015/1375/article/3/3/b) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(a)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/a/ii) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-ce59db08a7b38ef9bade323606f728c9]: Textual amendment: [Art. 3(3)(c)](https://www.legislation.gov.uk/eur/2015/1375/article/3/3/c) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(a)(iii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/a/iii) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-ce59db08a7b38ef9bade323606f728c9]: Textual amendment: [Art. 3(3)(c)](https://www.legislation.gov.uk/eur/2015/1375/article/3/3/c) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(a)(iii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/a/iii) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-22ce7814a04730852fc78e7f3e81e2ef]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/eur/2015/1375/article/3/4) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-22ce7814a04730852fc78e7f3e81e2ef]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/eur/2015/1375/article/3/4) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2020/1478 of 14 October 2020 amending Implementing Regulation (EU) 2015/1375 as regards sampling, the reference method for detection and import conditions related to Trichinella control (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2020/1478).
 
-[^key-b1f0610421770dd953a7dc72607655c4]: Textual amendment: Words in [Art. 3(5)(a)(iii)](https://www.legislation.gov.uk/eur/2015/1375/article/3/5/a/iii) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/c) (as inserted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/7/2/b))
+[^c-b1f0610421770dd953a7dc72607655c4]: Textual amendment: Words in [Art. 3(5)(a)(iii)](https://www.legislation.gov.uk/eur/2015/1375/article/3/5/a/iii) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51D(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51D/c) (as inserted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/7/2/b))
 
 [^c000003]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2020/1478 of 14 October 2020 amending Implementing Regulation (EU) 2015/1375 as regards sampling, the reference method for detection and import conditions related to Trichinella control (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2020/1478).
 
-[^key-fc94c2b21838c4fe5ff1abffd5a392a3]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2015/1375/article/6/2) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51E](https://www.legislation.gov.uk/uksi/2019/640/regulation/51E) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-fc94c2b21838c4fe5ff1abffd5a392a3]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2015/1375/article/6/2) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51E](https://www.legislation.gov.uk/uksi/2019/640/regulation/51E) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-02d2fb0a95bce5b780f52a1790bf3a9a]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2015/1375/article/7) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51F](https://www.legislation.gov.uk/uksi/2019/640/regulation/51F) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-02d2fb0a95bce5b780f52a1790bf3a9a]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2015/1375/article/7) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51F](https://www.legislation.gov.uk/uksi/2019/640/regulation/51F) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-dd831aac834dc1446fa1c818804cb846]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/eur/2015/1375/article/8/2) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51G](https://www.legislation.gov.uk/uksi/2019/640/regulation/51G) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-dd831aac834dc1446fa1c818804cb846]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/eur/2015/1375/article/8/2) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51G](https://www.legislation.gov.uk/uksi/2019/640/regulation/51G) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-b8b30f2628a8923cfaad7fb65d70efe2]: Textual amendment: Word in [Art. 11](https://www.legislation.gov.uk/eur/2015/1375/article/11) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51H](https://www.legislation.gov.uk/uksi/2019/640/regulation/51H) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-b8b30f2628a8923cfaad7fb65d70efe2]: Textual amendment: Word in [Art. 11](https://www.legislation.gov.uk/eur/2015/1375/article/11) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51H](https://www.legislation.gov.uk/uksi/2019/640/regulation/51H) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-aa69a080e6a195fa0d1c53969def58c7]: Textual amendment: [Art. 12(2)(e)](https://www.legislation.gov.uk/eur/2015/1375/article/12/2/e) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51I](https://www.legislation.gov.uk/uksi/2019/640/regulation/51I) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-aa69a080e6a195fa0d1c53969def58c7]: Textual amendment: [Art. 12(2)(e)](https://www.legislation.gov.uk/eur/2015/1375/article/12/2/e) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51I](https://www.legislation.gov.uk/uksi/2019/640/regulation/51I) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-3aa1ab1164cd48580dbc69ce8223c05d]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2015/1375/article/13/1) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51J(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51J/a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-3aa1ab1164cd48580dbc69ce8223c05d]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2015/1375/article/13/1) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51J(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51J/a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-e91a5cc9417b3fd0ad40072f36dd6247]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2015/1375/article/13/2) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51J(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51J/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-e91a5cc9417b3fd0ad40072f36dd6247]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2015/1375/article/13/2) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51J(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51J/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-7cc4ca3d0cc33ca70502cdf178c112ce]: Textual amendment: [Art. 14(1)](https://www.legislation.gov.uk/eur/2015/1375/article/14/1) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51K(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51K/a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-7cc4ca3d0cc33ca70502cdf178c112ce]: Textual amendment: [Art. 14(1)](https://www.legislation.gov.uk/eur/2015/1375/article/14/1) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51K(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51K/a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-c3d58cde47f5e6eff6108038f27ec085]: Textual amendment: Words in [Art. 14](https://www.legislation.gov.uk/eur/2015/1375/article/14) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51K(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51K/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-c3d58cde47f5e6eff6108038f27ec085]: Textual amendment: Words in [Art. 14](https://www.legislation.gov.uk/eur/2015/1375/article/14) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51K(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51K/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-c091f4509d5977f6e95a4b7943241cb8]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51L](https://www.legislation.gov.uk/uksi/2019/640/regulation/51L) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-c091f4509d5977f6e95a4b7943241cb8]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51L](https://www.legislation.gov.uk/uksi/2019/640/regulation/51L) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-872009baa4c6315b844b53080c7e8306]: Textual amendment: Words in Annex 1 Ch. 1 para. 3(3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51M(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51M/a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-872009baa4c6315b844b53080c7e8306]: Textual amendment: Words in Annex 1 Ch. 1 para. 3(3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51M(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51M/a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-c65a2bf4f1c10e5881237206237c58ea]: Textual amendment: Words in Annex 1 Ch. 2(D) para. 3(3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51M(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51M/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-c65a2bf4f1c10e5881237206237c58ea]: Textual amendment: Words in Annex 1 Ch. 2(D) para. 3(3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 51M(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/51M/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
 [^f00017]: Footnote: Regulation (EC) No 183/2005 of the European Parliament and of the Council of 12 January 2005 laying down requirements for feed hygiene ([OJ L 35, 8.2.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.035.01.0001.01.ENG)).
 
-[^key-7c43cf6a6f95138f45455661e546d308]: Textual amendment: Words in [Annex 4 Ch. 1(C)](https://www.legislation.gov.uk/eur/2015/1375/annex/IV/chapter/I) substituted (31.12.2020) by S.I. 2019/640, reg. 51N(a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-7c43cf6a6f95138f45455661e546d308]: Textual amendment: Words in [Annex 4 Ch. 1(C)](https://www.legislation.gov.uk/eur/2015/1375/annex/IV/chapter/I) substituted (31.12.2020) by S.I. 2019/640, reg. 51N(a) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
 
-[^key-02c65f080feb8b63442caa62011730e5]: Textual amendment: [Annex 4 Ch. 2](https://www.legislation.gov.uk/eur/2015/1375/annex/IV/chapter/II) subpara. (a) omitted (31.12.2020) by virtue of S.I. 2019/640, reg. 51N(b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))
+[^c-02c65f080feb8b63442caa62011730e5]: Textual amendment: [Annex 4 Ch. 2](https://www.legislation.gov.uk/eur/2015/1375/annex/IV/chapter/II) subpara. (a) omitted (31.12.2020) by virtue of S.I. 2019/640, reg. 51N(b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/14))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Insertion of sections 36X to 36Z2[^key-59697e5c654f019d03cd8c38a3f610f5]
+## 33. Insertion of sections 36X to 36Z2[^c-59697e5c654f019d03cd8c38a3f610f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,4 +121,4 @@ After section 36W insert—
 
 ## Annotations
 
-[^key-59697e5c654f019d03cd8c38a3f610f5]: Commencement: Art. 33 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-59697e5c654f019d03cd8c38a3f610f5]: Commencement: Art. 33 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

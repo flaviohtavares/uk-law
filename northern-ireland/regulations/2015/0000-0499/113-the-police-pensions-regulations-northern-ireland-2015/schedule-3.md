@@ -86,7 +86,7 @@ The scheme manager must refund to a member the amount of any payment for added p
 
 (4) A member may exercise the added pension option more than once but an option to make a lump sum payment for added pension may only be exercised once in any scheme year.
 
-(5)[^key-9e5e253e85edf94c7af9c39b0cc470d6] An option to make a lump sum payment for added pension may only be exercised if the member—
+(5)[^c-9e5e253e85edf94c7af9c39b0cc470d6] An option to make a lump sum payment for added pension may only be exercised if the member—
 
 - (a) has been an active member of this scheme in relation to a continuous period of pensionable service for at least 12 months; and
 - (b) has been provided with a statement of the amount of added pension (if paragraph 16 applies).
@@ -224,6 +224,6 @@ This Part applies in relation to an active member of this scheme who opts to mak
 
 [^c22512561]: Marginal citation: Added pension which increases the member's retirement benefits is payable to the member as part of the member's full retirement pension in accordance with the provisions of Part 6 of these Regulations.
 
-[^key-9e5e253e85edf94c7af9c39b0cc470d6]: Modification: [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/nisr/2015/113/schedule/3/paragraph/5/5) excluded (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [30](https://www.legislation.gov.uk/nisr/2023/122/regulation/30)
+[^c-9e5e253e85edf94c7af9c39b0cc470d6]: Modification: [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/nisr/2015/113/schedule/3/paragraph/5/5) excluded (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [30](https://www.legislation.gov.uk/nisr/2023/122/regulation/30)
 
 [^c22512571]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)

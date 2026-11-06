@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Confirmation hearings etc: Schedule 4A to the GLA Act 1999[^key-f4e4ba3b4aa8a2b285612f4bb1dfe2a4]
+## SCHEDULE 1 — Confirmation hearings etc: Schedule 4A to the GLA Act 1999[^c-f4e4ba3b4aa8a2b285612f4bb1dfe2a4]
 
 *Extent: E+W*
 
@@ -138,4 +138,4 @@ This is the Schedule that is to be inserted as Schedule 4A to the GLA Act 1999�
 
 ## Annotations
 
-[^key-f4e4ba3b4aa8a2b285612f4bb1dfe2a4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/24/schedule/1) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(l)](https://www.legislation.gov.uk/uksi/2008/113/article/2/l)
+[^c-f4e4ba3b4aa8a2b285612f4bb1dfe2a4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/24/schedule/1) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(l)](https://www.legislation.gov.uk/uksi/2008/113/article/2/l)

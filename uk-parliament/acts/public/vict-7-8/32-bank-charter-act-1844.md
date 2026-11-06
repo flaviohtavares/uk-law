@@ -43,7 +43,7 @@ The issue of promissory notes of the governor and company of the Bank of England
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c558057]
 
-## 6. Weekly account in form in schedule (A.) to be rendered by the Bank of England.[^key-2fa77d1e68e4c71d95dd09c0549318f8]
+## 6. Weekly account in form in schedule (A.) to be rendered by the Bank of England.[^c-2fa77d1e68e4c71d95dd09c0549318f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,7 +53,7 @@ The issue of promissory notes of the governor and company of the Bank of England
 
 ## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c558062]
 
-## 10. No banker not issuing notes on 6th May 1844, to issue notes hereafter.[^c558064][^key-d6171e1bdf226ad936b07ab66a2ffab2][^c558063]
+## 10. No banker not issuing notes on 6th May 1844, to issue notes hereafter.[^c558064][^c-d6171e1bdf226ad936b07ab66a2ffab2][^c558063]
 
 No person other than a banker who on the sixth day of May one thousand eight hundred and forty-four was lawfully issuing his own bank notes shall make or issue bank notes in any part of the United Kingdom.
 
@@ -61,7 +61,7 @@ No person other than a banker who on the sixth day of May one thousand eight hun
 
 It shall not be lawful for any banker to draw, accept, make, or issue, in England or Wales, any bill of exchange or promissory note or engagement for the payment of money payable to bearer on demand, or to borrow, owe, or take up, in England or Wales, any sums or sum of money on the bills or notes of such banker payable to bearer on demand, . . . [^c558065]
 
-## 12. Bankers ceasing to issue notes may not resume.[^key-58d6b7917d30e8920e0f932d7b569468][^c558066]
+## 12. Bankers ceasing to issue notes may not resume.[^c-58d6b7917d30e8920e0f932d7b569468][^c558066]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,7 +77,7 @@ It shall not be lawful for any banker to draw, accept, make, or issue, in Englan
 
 ## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c558072]
 
-## 27. Bank to enjoy privileges, subject to redemption.[^key-bdbe1df839ce89a03ea4cb536ac38354]
+## 27. Bank to enjoy privileges, subject to redemption.[^c-bdbe1df839ce89a03ea4cb536ac38354]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -152,7 +152,7 @@ Dated the day of 18 .
 
 [^c558057]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/5) repealed by [Currency and Bank Notes Act 1928 (c. 13)](https://www.legislation.gov.uk/ukpga/1928/13), [Sch.](https://www.legislation.gov.uk/ukpga/1928/13/schedule)
 
-[^key-2fa77d1e68e4c71d95dd09c0549318f8]: Textual amendment: S. 6 repealed (21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 245](https://www.legislation.gov.uk/ukpga/2009/1/section/245), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/8)
+[^c-2fa77d1e68e4c71d95dd09c0549318f8]: Textual amendment: S. 6 repealed (21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 245](https://www.legislation.gov.uk/ukpga/2009/1/section/245), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/8)
 
 [^c558060]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/7) repealed by [Finance Act 1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41), [Sch. 28 Pt. XI](https://www.legislation.gov.uk/ukpga/1972/41/schedule/28/part/XI)
 
@@ -162,13 +162,13 @@ Dated the day of 18 .
 
 [^c558064]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/10) amended by [Allied Irish Banks Act 1981 (c. x)](https://www.legislation.gov.uk/ukla/1981/10), [s. 6(1)](https://www.legislation.gov.uk/ukla/1981/10/section/6/1)(*b*)
 
-[^key-d6171e1bdf226ad936b07ab66a2ffab2]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/10) excluded (15.5.2012 coming into force in accordance with s. 3) by [Bank of Ireland (UK) plc Act 2012 (c. i)](https://www.legislation.gov.uk/ukla/2012/1), [ss. 1](https://www.legislation.gov.uk/ukla/2012/1/section/1), [4(3)](https://www.legislation.gov.uk/ukla/2012/1/section/4/3) (with [ss. 4(7)](https://www.legislation.gov.uk/ukla/2012/1/section/4/7), [5](https://www.legislation.gov.uk/ukla/2012/1/section/5), [6](https://www.legislation.gov.uk/ukla/2012/1/section/6)) (see London Gazette (4.5.2012), Notice 1583811)
+[^c-d6171e1bdf226ad936b07ab66a2ffab2]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/10) excluded (15.5.2012 coming into force in accordance with s. 3) by [Bank of Ireland (UK) plc Act 2012 (c. i)](https://www.legislation.gov.uk/ukla/2012/1), [ss. 1](https://www.legislation.gov.uk/ukla/2012/1/section/1), [4(3)](https://www.legislation.gov.uk/ukla/2012/1/section/4/3) (with [ss. 4(7)](https://www.legislation.gov.uk/ukla/2012/1/section/4/7), [5](https://www.legislation.gov.uk/ukla/2012/1/section/5), [6](https://www.legislation.gov.uk/ukla/2012/1/section/6)) (see London Gazette (4.5.2012), Notice 1583811)
 
 [^c558063]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/10) repealed (E.W.) by [Currency and Bank Notes Act 1928 (c. 13)](https://www.legislation.gov.uk/ukpga/1928/13), [Sch.](https://www.legislation.gov.uk/ukpga/1928/13/schedule)
 
 [^c558065]: Textual amendment: Words repealed by [Currency and Bank Notes Act 1928 (c. 13)](https://www.legislation.gov.uk/ukpga/1928/13), [Sch.](https://www.legislation.gov.uk/ukpga/1928/13/schedule)
 
-[^key-58d6b7917d30e8920e0f932d7b569468]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/12) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-58d6b7917d30e8920e0f932d7b569468]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/12) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c558066]: Modification: S. 12 repealed (E.W.) by [Currency and Bank Notes Act 1928 (c. 13)](https://www.legislation.gov.uk/ukpga/1928/13), [Sch.](https://www.legislation.gov.uk/ukpga/1928/13/schedule)
 
@@ -184,7 +184,7 @@ Dated the day of 18 .
 
 [^c558072]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/Vict/7-8/32/section/26) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/IV)
 
-[^key-bdbe1df839ce89a03ea4cb536ac38354]: Textual amendment: S. 27 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-bdbe1df839ce89a03ea4cb536ac38354]: Textual amendment: S. 27 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c558075]: Textual amendment: Words repealed by [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54)
 

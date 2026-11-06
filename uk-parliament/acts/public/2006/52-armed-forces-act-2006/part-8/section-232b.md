@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232B. Service SOPOs: appeals[^key-0758b5a0a2129c1e033e8d77b6cb9e1f]
+## 232B. Service SOPOs: appeals[^c-0758b5a0a2129c1e033e8d77b6cb9e1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0758b5a0a2129c1e033e8d77b6cb9e1f]: Textual amendment: Ss. 232A-232G and cross-heading inserted (8.3.2012 for specified purposes) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/17/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/669/article/3/d)
+[^c-0758b5a0a2129c1e033e8d77b6cb9e1f]: Textual amendment: Ss. 232A-232G and cross-heading inserted (8.3.2012 for specified purposes) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/17/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/669/article/3/d)

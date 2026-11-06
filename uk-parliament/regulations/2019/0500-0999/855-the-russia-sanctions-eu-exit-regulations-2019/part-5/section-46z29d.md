@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z29D. Brokering services relating to maritime transportation of liquefied natural gas[^key-8a04a06c956fc6b0fdfdfa8cd735019f]
+## 46Z29D. Brokering services relating to maritime transportation of liquefied natural gas[^c-8a04a06c956fc6b0fdfdfa8cd735019f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a04a06c956fc6b0fdfdfa8cd735019f]: Textual amendment: [Pt. 5 Ch. 4LA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4LA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/543/regulation/10)
+[^c-8a04a06c956fc6b0fdfdfa8cd735019f]: Textual amendment: [Pt. 5 Ch. 4LA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4LA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/543/regulation/10)

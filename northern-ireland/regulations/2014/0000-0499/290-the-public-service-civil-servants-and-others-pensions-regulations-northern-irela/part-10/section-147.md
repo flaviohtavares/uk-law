@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147. Effect of a transfer out[^key-3f2aebece34e07eb048632ae45a4df06][^key-d6aaf33276febcb2cdb6601428c88a85]
+## 147. Effect of a transfer out[^c-3f2aebece34e07eb048632ae45a4df06][^c-d6aaf33276febcb2cdb6601428c88a85]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ If a transfer payment is made under this Chapter in respect of a member’s accr
 
 ## Annotations
 
-[^key-3f2aebece34e07eb048632ae45a4df06]: Commencement: [Reg. 147](https://www.legislation.gov.uk/nisr/2014/290/regulation/147) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-3f2aebece34e07eb048632ae45a4df06]: Commencement: [Reg. 147](https://www.legislation.gov.uk/nisr/2014/290/regulation/147) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-d6aaf33276febcb2cdb6601428c88a85]: Textual amendment: Words in [reg. 147](https://www.legislation.gov.uk/nisr/2014/290/regulation/147) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [47](https://www.legislation.gov.uk/nisr/2022/67/regulation/47)
+[^c-d6aaf33276febcb2cdb6601428c88a85]: Textual amendment: Words in [reg. 147](https://www.legislation.gov.uk/nisr/2014/290/regulation/147) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [47](https://www.legislation.gov.uk/nisr/2022/67/regulation/47)

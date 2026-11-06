@@ -44,13 +44,13 @@ In accordance with sections 1082(5), 1098F(5), 1098G(7), 1110A(8), 1110B(6) and 
 
 ## Part 1 — Introductory
 
-### 1. Citation and extent[^key-eedecca52213cb720a9e9f7da14943f8]
+### 1. Citation and extent[^c-eedecca52213cb720a9e9f7da14943f8]
 
 (1) These Regulations may be cited as the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Commencement[^key-30d7337e78709e4ccf80a8897a469c03]
+### 2. Commencement[^c-30d7337e78709e4ccf80a8897a469c03]
 
 (1) Subject to paragraphs (2) and (3), these Regulations come into force when section 65 (procedure etc for verifying identity) of the 2023 Act comes fully into force.
 
@@ -58,7 +58,7 @@ In accordance with sections 1082(5), 1098F(5), 1098G(7), 1110A(8), 1110B(6) and 
 
 (3) Part 4 comes into force when section 68 (allocation of unique identifiers) of the 2023 Act comes fully into force.
 
-### 3. Interpretation[^key-e8d9fed3c628aa87570af9164137d2ec]
+### 3. Interpretation[^c-e8d9fed3c628aa87570af9164137d2ec]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
 
 ### Chapter 1 — Introduction
 
-#### 4. Interpretation of Part 2[^key-9424e5153fcf165d4794a2be13992e7b]
+#### 4. Interpretation of Part 2[^c-9424e5153fcf165d4794a2be13992e7b]
 
 In this Part—
 
@@ -102,7 +102,7 @@ In this Part—
 
 ### Chapter 2 — Registrar’s rules
 
-#### 5. Requirements in registrar’s rules[^key-e557bb9d5b24b8620bae07f6c55108b8]
+#### 5. Requirements in registrar’s rules[^c-e557bb9d5b24b8620bae07f6c55108b8]
 
 (1) The registrar must specify in rules the types of contact information to be provided by an individual who makes an application under regulation 6 or a request mentioned in regulation 9.
 
@@ -124,7 +124,7 @@ which must be delivered to the registrar in an application under regulation 6 or
 
 ### Chapter 3 — Procedure for identity verification or reverification by the registrar
 
-#### 6. Application for verification and reverification[^key-7ffb6003910176517b9877baa378f238]
+#### 6. Application for verification and reverification[^c-7ffb6003910176517b9877baa378f238]
 
 (1) An individual may apply to the registrar for verification of their identity if the individual is not an individual whose identity is verified.
 
@@ -141,7 +141,7 @@ which must be delivered to the registrar in an application under regulation 6 or
 
 (4) An individual who makes an application under paragraph (2) must comply before or on its delivery with any requirements included in the reverification notice under regulation 13(3)(a)(i) or (b)(i).
 
-#### 7. Determination of application[^key-e04668b8589414f722787f25cfa4e100]
+#### 7. Determination of application[^c-e04668b8589414f722787f25cfa4e100]
 
 (1) On delivery of an application under regulation 6, the registrar must as soon as reasonably practicable determine the application.
 
@@ -153,7 +153,7 @@ which must be delivered to the registrar in an application under regulation 6 or
 
 (5) The registrar may consider other information and evidence in addition to that contained in the application when determining it.
 
-#### 8. Notice of outcome of application[^key-bc703d9aa32380190e71e65a13e98642]
+#### 8. Notice of outcome of application[^c-bc703d9aa32380190e71e65a13e98642]
 
 (1) If the registrar determines an application made under regulation 6 in the applicant’s favour the registrar must give the applicant a notice stating that they are an individual whose identity is verified.
 
@@ -169,7 +169,7 @@ which must be delivered to the registrar in an application under regulation 6 or
 
 ### Chapter 4 — Verification and reverification statements by an ACSP
 
-#### 9. Verification or reverification by an ACSP[^key-4953f30816997116d6c4f202aa96e61b]
+#### 9. Verification or reverification by an ACSP[^c-4953f30816997116d6c4f202aa96e61b]
 
 (1) Paragraph (2) applies to an individual whose identity is not verified.
 
@@ -191,7 +191,7 @@ which must be delivered to the registrar in an application under regulation 6 or
 
 (5) For the purpose verifying or reverifying an individual’s identity under this regulation, the ACSP may consider other information and evidence in addition to that provided by the individual under paragraphs (2)(b) or (4)(c) and (d) (as applicable).
 
-#### 10. Verification statement and reverification statement[^key-7858e0a2fe978cc5598929f211163889]
+#### 10. Verification statement and reverification statement[^c-7858e0a2fe978cc5598929f211163889]
 
 (1) If an ACSP verifies or reverifies an individual’s identity in accordance with regulation 9, the ACSP may deliver to the registrar a verification statement[^f00006] or a reverification statement (as applicable).
 
@@ -201,7 +201,7 @@ which must be delivered to the registrar in an application under regulation 6 or
 - (b) state the date on which the ACSP became satisfied that the required personal information is true, and
 - (c) include a statement confirming that the ACSP has delivered, or is delivering at the same time as the statement, the information referred to in regulation 11.
 
-#### 11. Provision of information upon delivery of verification statement and reverification statement[^key-50e74b34e78c0cac50a9557e65ebb55c]
+#### 11. Provision of information upon delivery of verification statement and reverification statement[^c-50e74b34e78c0cac50a9557e65ebb55c]
 
 The information referred to in regulation 10(2)(c) and paragraph (f) of the definition of “**reverification statement**” (see regulation 4) is—
 
@@ -210,7 +210,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 - (c) a description of the information and evidence which formed the basis on which the ACSP became satisfied that the required personal information is true, and
 - (d) the ACSP’s unique identifier.
 
-#### 12. Notice of delivery of a verification statement or reverification statement[^key-d63cd5f27ebdc9677d89659e6357f83d]
+#### 12. Notice of delivery of a verification statement or reverification statement[^c-d63cd5f27ebdc9677d89659e6357f83d]
 
 (1) Where a verification statement has been delivered in accordance with regulation 10, the registrar must give a notice to the individual in respect of whom the verification statement was delivered, which must state—
 
@@ -222,7 +222,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 ### Chapter 5 — Ceasing to be an individual whose identity is verified
 
-#### 13. Reverification notice[^key-2f14a39b48150f5755199b364979ae3a]
+#### 13. Reverification notice[^c-2f14a39b48150f5755199b364979ae3a]
 
 (1) The registrar may give an individual whose identity is verified a reverification notice if the registrar has reasonable cause to believe that information or evidence falling in paragraph (2) is misleading, false or deceptive in a material particular.
 
@@ -244,7 +244,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 (4) The registrar may by notice in writing extend the periods mentioned in paragraphs (b) and (c) of the definition of “**reverification notice**” (see regulation 4).
 
-#### 14. Ceasing to be verified[^key-511f2e0d4d69fdeb315fa312da8bc89c]
+#### 14. Ceasing to be verified[^c-511f2e0d4d69fdeb315fa312da8bc89c]
 
 (1) An individual to whom a reverification notice is given under regulation 13 ceases to be an individual whose identity is verified at the end of the specified period, unless—
 
@@ -263,7 +263,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 ### Chapter 6 — Records kept by an ACSP
 
-#### 15. Records kept by an ACSP[^key-920347291e920993b1bd36055d3bebd9]
+#### 15. Records kept by an ACSP[^c-920347291e920993b1bd36055d3bebd9]
 
 (1) This regulation applies to a person who is or has been an ACSP (“a relevant person”).
 
@@ -284,7 +284,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 - (a) any records of requests referred to in regulation 9;
 - (b) all information and evidence the relevant person considered when determining such requests.
 
-#### 16. Offences in relation to record keeping[^key-1f60f565b4d499c11519e56ba323d09b]
+#### 16. Offences in relation to record keeping[^c-1f60f565b4d499c11519e56ba323d09b]
 
 (1) It is an offence for a person to fail, without reasonable excuse, to comply with regulation 15.
 
@@ -302,7 +302,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 ### Chapter 1 — Suspension and cessation of ACSP status
 
-#### 17. Suspension of ACSP status[^key-06bfc82d19a19cf70006706c1df18ba0]
+#### 17. Suspension of ACSP status[^c-06bfc82d19a19cf70006706c1df18ba0]
 
 (1) A person is suspended as an ACSP when the registrar gives the person a notice informing them their status as an ACSP is suspended (a “notice of suspension”).
 
@@ -325,7 +325,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 (7) Upon the giving of a notice of suspension revocation, the registrar must notify the person’s supervisory authority.
 
-#### 18. Cessation of ACSP status[^key-2796f5171e8838cf6464d9b8f9649e54]
+#### 18. Cessation of ACSP status[^c-2796f5171e8838cf6464d9b8f9649e54]
 
 (1) A person ceases to be an ACSP when the registrar gives the person a notice informing them they no longer have that status (a “notice of cessation”).
 
@@ -359,7 +359,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 ### Chapter 2 — Duty to provide information or notify changes
 
-#### 19. Duty to provide information[^key-3d025f9bd8f9c177e27ccb60b57c91da]
+#### 19. Duty to provide information[^c-3d025f9bd8f9c177e27ccb60b57c91da]
 
 (1) The registrar may by notice in writing require a person to provide information to the registrar for the purpose of enabling the registrar to determine—
 
@@ -375,13 +375,13 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 (4) The registrar may by notice in writing extend a period specified in a requirement under this regulation.
 
-#### 20. Privilege against self-incrimination[^key-7bb911808c0f8d5d3de0656a2a21c699]
+#### 20. Privilege against self-incrimination[^c-7bb911808c0f8d5d3de0656a2a21c699]
 
 (1) A statement made by a person in response to a requirement under regulation 19 may not be used against the person in criminal proceedings in which the person is charged with an offence to which this paragraph applies.
 
 (2) Paragraph (1) applies to any offence other than those specified in section 1092C(2)[^f00007] (privilege against self-incrimination) of the 2006 Act.
 
-#### 21. Duty to notify registrar of changes of ACSP information[^key-0acbe7001b6a1c0abe96d90a39b65f64]
+#### 21. Duty to notify registrar of changes of ACSP information[^c-0acbe7001b6a1c0abe96d90a39b65f64]
 
 (1) An ACSP must give notice to the registrar of any change in the required information about it since the date that it delivered its application under section 1098B[^f00008] (application to become an authorised corporate service provider) of the 2006 Act.
 
@@ -394,7 +394,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 - (a) in the case of an ACSP which is a firm, the information required under section 1098C(1)[^f00009] (the required information about an applicant) of the 2006 Act;
 - (b) in the case of an ACSP which is an individual, the information required under section 1098C(2) of the 2006 Act.
 
-#### 22. Offence for failure to provide information[^key-46039ef25cf26574535b795f3a1c1a62]
+#### 22. Offence for failure to provide information[^c-46039ef25cf26574535b795f3a1c1a62]
 
 (1) It is an offence for a person to fail, without reasonable excuse, to comply with regulation 19 or 21.
 
@@ -407,15 +407,15 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 
 ## Part 4 — Unique identifiers
 
-### Chapter 1 — Unique identifiers for individuals[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81][^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268][^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5][^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978][^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13][^key-3648663cd3726fbf79ac8662facc6699][^key-657bff7c5e77e230b7e26fa7ca4bf081]
+### Chapter 1 — Unique identifiers for individuals[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81][^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268][^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5][^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978][^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13][^c-3648663cd3726fbf79ac8662facc6699][^c-657bff7c5e77e230b7e26fa7ca4bf081]
 
-#### 23. Allocation of unique identifier to individual whose identity is verified[^key-6787d96d76ca3b3ebbce3065b2b476d2]
+#### 23. Allocation of unique identifier to individual whose identity is verified[^c-6787d96d76ca3b3ebbce3065b2b476d2]
 
 (1) The registrar must allocate a unique identifier to any individual whose identity is verified.
 
 (2) Unique identifiers allocated under this Chapter may be in such form, consisting of one or more sequences of letters or numbers, as the registrar may from time to time determine.
 
-#### 24. Discontinuance of unique identifier[^key-6a48a11a2ba7f77df54ffd4ea76c84d2]
+#### 24. Discontinuance of unique identifier[^c-6a48a11a2ba7f77df54ffd4ea76c84d2]
 
 (1) A unique identifier ceases to be allocated to an individual if—
 
@@ -432,7 +432,7 @@ The information referred to in regulation 10(2)(c) and paragraph (f) of the defi
 - (c) specify one or more unique identifiers which have ceased to be allocated to the individual, and
 - (d) state the unique identifier that remains allocated to them.
 
-#### 25. Allocation of new unique identifier[^key-f8e37177c01da97ab4dc4cbb988ce5e3]
+#### 25. Allocation of new unique identifier[^c-f8e37177c01da97ab4dc4cbb988ce5e3]
 
 A new unique identifier may be allocated to an individual by giving them a notice stating—
 
@@ -440,26 +440,26 @@ A new unique identifier may be allocated to an individual by giving them a notic
 - (b) the unique identifier that has ceased to be allocated to the individual, and
 - (c) the individual’s new unique identifier.
 
-### Chapter 2 — Unique identifiers for ACSPs[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81][^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268][^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5][^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978][^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13][^key-3648663cd3726fbf79ac8662facc6699][^key-657bff7c5e77e230b7e26fa7ca4bf081]
+### Chapter 2 — Unique identifiers for ACSPs[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81][^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268][^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5][^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978][^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13][^c-3648663cd3726fbf79ac8662facc6699][^c-657bff7c5e77e230b7e26fa7ca4bf081]
 
-#### 26. Interpretation[^key-3184f59367266b0c5fcdaccbdce3a6cf]
+#### 26. Interpretation[^c-3184f59367266b0c5fcdaccbdce3a6cf]
 
 In this Chapter, in the case of an ACSP which is a firm, “**name**” means firm name.
 
-#### 27. Allocation of unique identifier to ACSP[^key-be842dcd6da42a9910fd7f4812dd7fc5]
+#### 27. Allocation of unique identifier to ACSP[^c-be842dcd6da42a9910fd7f4812dd7fc5]
 
 (1) The registrar must allocate a unique identifier to an ACSP.
 
 (2) Unique identifiers allocated under this Chapter may be in such form, consisting of one or more sequences of letters or numbers, as the registrar may from time to time determine.
 
-#### 28. Notice of allocation of unique identifier to ACSP[^key-b2535bcb3b2c70d5b1a3a240fcb4bb57]
+#### 28. Notice of allocation of unique identifier to ACSP[^c-b2535bcb3b2c70d5b1a3a240fcb4bb57]
 
 Where the registrar has granted an application under section 1098B (application to become authorised corporate service provider) of the 2006 Act, the registrar must give notice to the ACSP stating—
 
 - (a) the ACSP’s name, and
 - (b) the ACSP’s unique identifier.
 
-#### 29. Discontinuance of an ACSP’s unique identifier[^key-12ead17330558756906562b64b182766]
+#### 29. Discontinuance of an ACSP’s unique identifier[^c-12ead17330558756906562b64b182766]
 
 (1) A unique identifier ceases to be allocated to an ACSP if—
 
@@ -475,7 +475,7 @@ Where the registrar has granted an application under section 1098B (application 
 - (b) specify one or more unique identifiers which have ceased to be allocated to the individual, and
 - (c) state the unique identifier that remains allocated to them.
 
-#### 30. Allocation of new unique identifier to an ACSP[^key-9cc72023f196063c2f40b5480e5619df]
+#### 30. Allocation of new unique identifier to an ACSP[^c-9cc72023f196063c2f40b5480e5619df]
 
 A new unique identifier may be allocated to an ACSP by giving it a notice stating—
 
@@ -485,7 +485,7 @@ A new unique identifier may be allocated to an ACSP by giving it a notice statin
 
 ### Chapter 3 — Statement about the unique identifiers
 
-#### 31. Requirement to deliver statements about the unique identifier[^key-1e36400baf2532ed7647174f9dde8750]
+#### 31. Requirement to deliver statements about the unique identifier[^c-1e36400baf2532ed7647174f9dde8750]
 
 (1) Where a statement is delivered under any of the provisions mentioned in paragraph (2) that an individual’s identity is verified, the statement must include a statement of the individual’s unique identifier.
 
@@ -505,7 +505,7 @@ A new unique identifier may be allocated to an ACSP by giving it a notice statin
 
 ## Part 5 — Communication
 
-### 32. Communication with an individual[^key-98c404ae281ae68104061f72c42acc72]
+### 32. Communication with an individual[^c-98c404ae281ae68104061f72c42acc72]
 
 (1) Notices specified in paragraph (2) are validly given to an individual if they are sent or supplied to any address (including any email address) delivered—
 
@@ -524,7 +524,7 @@ A new unique identifier may be allocated to an ACSP by giving it a notice statin
 
 (3) An individual whose required contact information has been registered under these Regulations may notify the registrar about any change to that information.
 
-### 33. Communication with an ACSP[^key-e76cb9a0012d6045ac4663d4bd07086c]
+### 33. Communication with an ACSP[^c-e76cb9a0012d6045ac4663d4bd07086c]
 
 (1) Notices specified in paragraph (2) are validly given to an ACSP if they are sent or supplied in accordance with paragraph (3).
 
@@ -546,7 +546,7 @@ delivered under section 1098C(1) or (2) (the required information about an appli
 
 ## Part 6 — Review
 
-### 34. Review of Regulations[^key-7407340db2f2ecdc2cbd38f8b23ba3ba]
+### 34. Review of Regulations[^c-7407340db2f2ecdc2cbd38f8b23ba3ba]
 
 (1) The Secretary of State must from time to time—
 
@@ -602,65 +602,65 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1082 was amended by section 68 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56) (the “**2023 Act**”), sections 1098F and 1098G were inserted by section 66 of the 2023 Act, and sections 1110A and 1110B were inserted by section 65 of the 2023 Act.
 
-[^key-eedecca52213cb720a9e9f7da14943f8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/50/regulation/1) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-eedecca52213cb720a9e9f7da14943f8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/50/regulation/1) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-30d7337e78709e4ccf80a8897a469c03]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/50/regulation/2) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-30d7337e78709e4ccf80a8897a469c03]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/50/regulation/2) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-e8d9fed3c628aa87570af9164137d2ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/50/regulation/3) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-e8d9fed3c628aa87570af9164137d2ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/50/regulation/3) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
 [^f00002]: Footnote: See section 1098A of the Companies Act 2006 for the definition of “authorised corporate service provider”.
 
 [^f00003]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-9424e5153fcf165d4794a2be13992e7b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/50/regulation/4) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-9424e5153fcf165d4794a2be13992e7b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/50/regulation/4) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
 [^f00004]: Footnote: See section 1110A(1) of the Companies Act 2006 for the meaning of “identity is verified”.
 
 [^f00005]: Footnote: See section 1082(1) of the Companies Act 2006 for the meaning of “unique identifier”.
 
-[^key-e557bb9d5b24b8620bae07f6c55108b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/50/regulation/5) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-e557bb9d5b24b8620bae07f6c55108b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/50/regulation/5) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-7ffb6003910176517b9877baa378f238]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/50/regulation/6) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-7ffb6003910176517b9877baa378f238]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/50/regulation/6) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-e04668b8589414f722787f25cfa4e100]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/50/regulation/7) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-e04668b8589414f722787f25cfa4e100]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/50/regulation/7) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-bc703d9aa32380190e71e65a13e98642]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/50/regulation/8) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-bc703d9aa32380190e71e65a13e98642]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/50/regulation/8) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-4953f30816997116d6c4f202aa96e61b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/50/regulation/9) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-4953f30816997116d6c4f202aa96e61b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/50/regulation/9) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-7858e0a2fe978cc5598929f211163889]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/50/regulation/10) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-7858e0a2fe978cc5598929f211163889]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/50/regulation/10) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
 [^f00006]: Footnote: See section 1110A(2) of the Companies Act 2006 for the definition of “verification statement”.
 
-[^key-50e74b34e78c0cac50a9557e65ebb55c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/50/regulation/11) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-50e74b34e78c0cac50a9557e65ebb55c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/50/regulation/11) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-d63cd5f27ebdc9677d89659e6357f83d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/50/regulation/12) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-d63cd5f27ebdc9677d89659e6357f83d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/50/regulation/12) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-2f14a39b48150f5755199b364979ae3a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/50/regulation/13) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-2f14a39b48150f5755199b364979ae3a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/50/regulation/13) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-511f2e0d4d69fdeb315fa312da8bc89c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/50/regulation/14) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-511f2e0d4d69fdeb315fa312da8bc89c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/50/regulation/14) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-920347291e920993b1bd36055d3bebd9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/50/regulation/15) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-920347291e920993b1bd36055d3bebd9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/50/regulation/15) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-1f60f565b4d499c11519e56ba323d09b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/50/regulation/16) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-1f60f565b4d499c11519e56ba323d09b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/50/regulation/16) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-06bfc82d19a19cf70006706c1df18ba0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/50/regulation/17) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+[^c-06bfc82d19a19cf70006706c1df18ba0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/50/regulation/17) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
 
-[^key-2796f5171e8838cf6464d9b8f9649e54]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/50/regulation/18) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+[^c-2796f5171e8838cf6464d9b8f9649e54]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/50/regulation/18) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
 
-[^key-3d025f9bd8f9c177e27ccb60b57c91da]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/50/regulation/19) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+[^c-3d025f9bd8f9c177e27ccb60b57c91da]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/50/regulation/19) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
 
-[^key-7bb911808c0f8d5d3de0656a2a21c699]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/50/regulation/20) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+[^c-7bb911808c0f8d5d3de0656a2a21c699]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/50/regulation/20) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
 
 [^f00007]: Footnote: Section 1092C was inserted by section 83(2) of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-0acbe7001b6a1c0abe96d90a39b65f64]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/50/regulation/21) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+[^c-0acbe7001b6a1c0abe96d90a39b65f64]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/50/regulation/21) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
 
 [^f00008]: Footnote: Section 1098B was inserted by section 66 of the Economic Crime and Corporate Transparency Act 2023.
 
 [^f00009]: Footnote: Section 1098C was inserted by section 66 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-46039ef25cf26574535b795f3a1c1a62]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/50/regulation/22) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+[^c-46039ef25cf26574535b795f3a1c1a62]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/50/regulation/22) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
 
 [^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2025/49/regulation/3/1); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
 
@@ -672,30 +672,30 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694), [reg. 59A](https://www.legislation.gov.uk/uksi/2017/694/regulation/59A) (as inserted by [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2025/49/regulation/7); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b))
 
-[^key-3648663cd3726fbf79ac8662facc6699]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/1), [2](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/2) applied (18.11.2025) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 64](https://www.legislation.gov.uk/uksi/2009/1804/regulation/64) (as amended by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)))
+[^c-3648663cd3726fbf79ac8662facc6699]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/1), [2](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/2) applied (18.11.2025) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 64](https://www.legislation.gov.uk/uksi/2009/1804/regulation/64) (as amended by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)))
 
-[^key-657bff7c5e77e230b7e26fa7ca4bf081]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/1), [2](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/2) applied (18.11.2025) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [reg. 12A](https://www.legislation.gov.uk/uksi/2009/2436/regulation/12A) (as amended by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g))
+[^c-657bff7c5e77e230b7e26fa7ca4bf081]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/1), [2](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/2) applied (18.11.2025) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [reg. 12A](https://www.legislation.gov.uk/uksi/2009/2436/regulation/12A) (as amended by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g))
 
-[^key-6787d96d76ca3b3ebbce3065b2b476d2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/50/regulation/23) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-6787d96d76ca3b3ebbce3065b2b476d2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/50/regulation/23) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-6a48a11a2ba7f77df54ffd4ea76c84d2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/50/regulation/24) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-6a48a11a2ba7f77df54ffd4ea76c84d2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/50/regulation/24) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-f8e37177c01da97ab4dc4cbb988ce5e3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/50/regulation/25) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-f8e37177c01da97ab4dc4cbb988ce5e3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/50/regulation/25) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-3184f59367266b0c5fcdaccbdce3a6cf]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/50/regulation/26) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-3184f59367266b0c5fcdaccbdce3a6cf]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/50/regulation/26) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-be842dcd6da42a9910fd7f4812dd7fc5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/50/regulation/27) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-be842dcd6da42a9910fd7f4812dd7fc5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/50/regulation/27) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-b2535bcb3b2c70d5b1a3a240fcb4bb57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/50/regulation/28) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-b2535bcb3b2c70d5b1a3a240fcb4bb57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/50/regulation/28) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-12ead17330558756906562b64b182766]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/50/regulation/29) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-12ead17330558756906562b64b182766]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/50/regulation/29) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-9cc72023f196063c2f40b5480e5619df]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/50/regulation/30) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+[^c-9cc72023f196063c2f40b5480e5619df]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/50/regulation/30) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
 
-[^key-1e36400baf2532ed7647174f9dde8750]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/50/regulation/31) substituted (18.11.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/8); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-1e36400baf2532ed7647174f9dde8750]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/50/regulation/31) substituted (18.11.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/8); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-98c404ae281ae68104061f72c42acc72]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/50/regulation/32) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-98c404ae281ae68104061f72c42acc72]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/50/regulation/32) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-e76cb9a0012d6045ac4663d4bd07086c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/50/regulation/33) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-e76cb9a0012d6045ac4663d4bd07086c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/50/regulation/33) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
 
-[^key-7407340db2f2ecdc2cbd38f8b23ba3ba]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/50/regulation/34) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+[^c-7407340db2f2ecdc2cbd38f8b23ba3ba]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/50/regulation/34) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)

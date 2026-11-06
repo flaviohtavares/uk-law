@@ -31,7 +31,7 @@ summary: ''
 
 environmental protection
 
-Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2006 (revoked)[^key-1c6d90f7df74826ff82236dd010c84bb]
+Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2006 (revoked)[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 Made
 
@@ -41,98 +41,98 @@ Coming into operation-
 
 1st January 2007
 
-[^key-1c6d90f7df74826ff82236dd010c84bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c6d90f7df74826ff82236dd010c84bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — PRELIMINARY[^key-1c6d90f7df74826ff82236dd010c84bb]
+## PART 1 — PRELIMINARY[^c-1c6d90f7df74826ff82236dd010c84bb]
 
-### 1. Citation, commencement and interpretation[^key-1c6d90f7df74826ff82236dd010c84bb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — MEASURES RELATING TO THE LAND APPLICATION OF FERTILISERS[^key-1c6d90f7df74826ff82236dd010c84bb]
-
-### 2. Measures governing limits on the land application of chemical fertiliser[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 1. Citation, commencement and interpretation[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Duty of the controller to prevent water pollution[^key-1c6d90f7df74826ff82236dd010c84bb]
+## PART 2 — MEASURES RELATING TO THE LAND APPLICATION OF FERTILISERS[^c-1c6d90f7df74826ff82236dd010c84bb]
+
+### 2. Measures governing limits on the land application of chemical fertiliser[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Requirements as to the manner of land application of chemical fertiliser[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 3. Duty of the controller to prevent water pollution[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — GENERAL[^key-1c6d90f7df74826ff82236dd010c84bb]
-
-### 5. General duty of owner and/or controller[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 4. Requirements as to the manner of land application of chemical fertiliser[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Duty of controller to provide information[^key-1c6d90f7df74826ff82236dd010c84bb]
+## PART 3 — GENERAL[^c-1c6d90f7df74826ff82236dd010c84bb]
+
+### 5. General duty of owner and/or controller[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — ENFORCEMENT[^key-1c6d90f7df74826ff82236dd010c84bb]
-
-### 7. Monitoring and inspections[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 6. Duty of controller to provide information[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Offences[^key-1c6d90f7df74826ff82236dd010c84bb]
+## PART 4 — ENFORCEMENT[^c-1c6d90f7df74826ff82236dd010c84bb]
+
+### 7. Monitoring and inspections[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Penalties[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 8. Offences[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c6d90f7df74826ff82236dd010c84bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Penalties[^c-1c6d90f7df74826ff82236dd010c84bb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1c6d90f7df74826ff82236dd010c84bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SOIL TEST FOR PHOSPHORUS[^key-1c6d90f7df74826ff82236dd010c84bb]
+## SCHEDULE 1 — SOIL TEST FOR PHOSPHORUS[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 Regulation 2(1)
 
-[^key-1c6d90f7df74826ff82236dd010c84bb]
+[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 A soil test refers to the results of an analysis of a soil sample carried out by a soil-testing laboratory competent to analyse soils for phosphorus. Each analysis, provided by the competent laboratory, will require a UKAS accreditation or (National equivalent) statement.
 
-[^key-1c6d90f7df74826ff82236dd010c84bb]
+[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 The taking of soil samples and the analysis for phosphorus shall be carried out in accordance with the procedures below.
 
-### 1. Soil Sampling Procedure[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 1. Soil Sampling Procedure[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Soil Analysis for Phosphorus[^key-1c6d90f7df74826ff82236dd010c84bb]
+### 1. Soil Analysis for Phosphorus[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1c6d90f7df74826ff82236dd010c84bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PHOSPHORUS CONTENT OF ORGANIC MANURES[^key-1c6d90f7df74826ff82236dd010c84bb]
+## SCHEDULE 2 — PHOSPHORUS CONTENT OF ORGANIC MANURES[^c-1c6d90f7df74826ff82236dd010c84bb]
 
 Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c6d90f7df74826ff82236dd010c84bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c6d90f7df74826ff82236dd010c84bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1c6d90f7df74826ff82236dd010c84bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/488) revoked (1.1.2015) by [The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014 (S.R. 2014/308)](https://www.legislation.gov.uk/nisr/2014/308), [regs. 1](https://www.legislation.gov.uk/nisr/2014/308/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2014/308/regulation/3)
+[^c-1c6d90f7df74826ff82236dd010c84bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/488) revoked (1.1.2015) by [The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014 (S.R. 2014/308)](https://www.legislation.gov.uk/nisr/2014/308), [regs. 1](https://www.legislation.gov.uk/nisr/2014/308/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2014/308/regulation/3)

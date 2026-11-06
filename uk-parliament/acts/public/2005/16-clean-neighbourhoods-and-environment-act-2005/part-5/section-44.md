@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Forfeiture of vehicles[^key-db33957b78497a52b9ed85d3c8c41b07]
+## 44. Forfeiture of vehicles[^c-db33957b78497a52b9ed85d3c8c41b07]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db33957b78497a52b9ed85d3c8c41b07]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2005/16/section/44) in force at 18.10.2005 by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2896/article/2/c)
+[^c-db33957b78497a52b9ed85d3c8c41b07]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2005/16/section/44) in force at 18.10.2005 by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2896/article/2/c)

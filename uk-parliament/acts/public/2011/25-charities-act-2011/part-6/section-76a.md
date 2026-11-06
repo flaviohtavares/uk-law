@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Exercise of powers where section 76(1)(a) applies[^key-561b271d0620112d4dcc83d45deb915b]
+## 76A. Exercise of powers where section 76(1)(a) applies[^c-561b271d0620112d4dcc83d45deb915b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the Commission may take into account the matters mentioned in subsection (3) in 
 
 ## Annotations
 
-[^key-561b271d0620112d4dcc83d45deb915b]: Textual amendment: S. 76A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 3](https://www.legislation.gov.uk/ukpga/2016/4/section/3), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/b)
+[^c-561b271d0620112d4dcc83d45deb915b]: Textual amendment: S. 76A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 3](https://www.legislation.gov.uk/ukpga/2016/4/section/3), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/b)

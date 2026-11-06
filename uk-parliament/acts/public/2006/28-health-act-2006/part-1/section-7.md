@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Offence of smoking in smoke-free place[^c16418401][^key-78cd649765e8ad00c0a890e791c418a1][^key-7dc953b8c70db6bbc03d863db6452bec]
+## 7. Offence of smoking in smoke-free place[^c16418401][^c-78cd649765e8ad00c0a890e791c418a1][^c-7dc953b8c70db6bbc03d863db6452bec]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c16418401]: Commencement: S. 7 in force for certain purposes at Royal Assent, see s. 83
 
-[^key-78cd649765e8ad00c0a890e791c418a1]: Commencement: S. 7 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
+[^c-78cd649765e8ad00c0a890e791c418a1]: Commencement: S. 7 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
 
-[^key-7dc953b8c70db6bbc03d863db6452bec]: Commencement: S. 7 in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
+[^c-7dc953b8c70db6bbc03d863db6452bec]: Commencement: S. 7 in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)

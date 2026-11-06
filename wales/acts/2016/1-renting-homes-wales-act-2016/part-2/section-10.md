@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Private landlords[^key-f44be3f6dbce736e24b65286991b7560]
+## 10. Private landlords[^c-f44be3f6dbce736e24b65286991b7560]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Act “**private landlord**” means a landlord that is not a community 
 
 ## Annotations
 
-[^key-f44be3f6dbce736e24b65286991b7560]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2016/1/section/10) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f44be3f6dbce736e24b65286991b7560]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2016/1/section/10) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

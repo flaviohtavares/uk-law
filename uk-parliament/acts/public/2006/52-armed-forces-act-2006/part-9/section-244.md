@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Limit on combined term of sentences of service detention[^key-fe1ade8b98f30837a68b2433061221f2][^key-931b9b08de613d230b4cdeaf8a9ff6a1]
+## 244. Limit on combined term of sentences of service detention[^c-fe1ade8b98f30837a68b2433061221f2][^c-931b9b08de613d230b4cdeaf8a9ff6a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ whose effect would be that a person would (at the relevant time) be subject to s
 
 ## Annotations
 
-[^key-fe1ade8b98f30837a68b2433061221f2]: Commencement: S. 244 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-fe1ade8b98f30837a68b2433061221f2]: Commencement: S. 244 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-931b9b08de613d230b4cdeaf8a9ff6a1]: Commencement: S. 244 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-931b9b08de613d230b4cdeaf8a9ff6a1]: Commencement: S. 244 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

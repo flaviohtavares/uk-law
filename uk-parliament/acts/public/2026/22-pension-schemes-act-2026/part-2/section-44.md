@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Regulations about consolidation of non-scale default arrangements[^key-a5a128e387eb03d555a3ebb10af9d965]
+## 44. Regulations about consolidation of non-scale default arrangements[^c-a5a128e387eb03d555a3ebb10af9d965]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5a128e387eb03d555a3ebb10af9d965]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-a5a128e387eb03d555a3ebb10af9d965]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

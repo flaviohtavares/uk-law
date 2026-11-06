@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Mutual credit and set-off[^key-f5b5eff6fedc21ba7f1990af3244a0b1]
+## 131. Mutual credit and set-off[^c-f5b5eff6fedc21ba7f1990af3244a0b1]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b5eff6fedc21ba7f1990af3244a0b1]: Commencement: [Rule 131](https://www.legislation.gov.uk/nisr/2026/11/rule/131) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f5b5eff6fedc21ba7f1990af3244a0b1]: Commencement: [Rule 131](https://www.legislation.gov.uk/nisr/2026/11/rule/131) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

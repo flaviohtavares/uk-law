@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, as the appropriate licensing authority under section 113(6)(b) of the Marine and Coastal Access Act 2009[^f00001], in exercise of the powers conferred by sections 67(2) and 316(1) of that Act makes the following Regulations.
 
-## 1. Citation and commencement[^key-a4e6c3bea3efdc831c6e25816f7bae77]
+## 1. Citation and commencement[^c-a4e6c3bea3efdc831c6e25816f7bae77]
 
 These Regulations may be cited as the Marine Licensing (Application Fees) (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 1st January 2025.
 
-## 2. Amendment of the Marine Licensing (Application Fees) Regulations (Northern Ireland) 2011[^key-7065b9b8d83d62904973ac32be13aa5a]
+## 2. Amendment of the Marine Licensing (Application Fees) Regulations (Northern Ireland) 2011[^c-7065b9b8d83d62904973ac32be13aa5a]
 
 The Marine Licensing (Application Fees) Regulations (Northern Ireland) 2011[^f00002] are amended in accordance with regulation 3.
 
-## 3. Amendment of the Schedule[^key-71a767fba0cfaf6c8f1dcd10e1f1dac2]
+## 3. Amendment of the Schedule[^c-71a767fba0cfaf6c8f1dcd10e1f1dac2]
 
 (1) In Part 1 of the Schedule (Description of Fee Tables (Usage)), in paragraph 1, for “9” substitute “12”.
 
@@ -198,10 +198,10 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23)
 
-[^key-a4e6c3bea3efdc831c6e25816f7bae77]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1) in operation at 1.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1)
+[^c-a4e6c3bea3efdc831c6e25816f7bae77]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1) in operation at 1.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1)
 
-[^key-7065b9b8d83d62904973ac32be13aa5a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/204/regulation/2) in operation at 1.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1)
+[^c-7065b9b8d83d62904973ac32be13aa5a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/204/regulation/2) in operation at 1.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2011/77](https://www.legislation.gov.uk/nisr/2011/77)
 
-[^key-71a767fba0cfaf6c8f1dcd10e1f1dac2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/204/regulation/3) in operation at 1.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1)
+[^c-71a767fba0cfaf6c8f1dcd10e1f1dac2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/204/regulation/3) in operation at 1.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Eligible child’s pension[^key-3fc7882d6ce8b9d40eb9dc968a2f2864]
+## 135. Eligible child’s pension[^c-3fc7882d6ce8b9d40eb9dc968a2f2864]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc7882d6ce8b9d40eb9dc968a2f2864]: Commencement: Reg. 135 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3fc7882d6ce8b9d40eb9dc968a2f2864]: Commencement: Reg. 135 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

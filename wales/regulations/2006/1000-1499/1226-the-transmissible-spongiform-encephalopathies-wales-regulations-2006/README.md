@@ -33,7 +33,7 @@ ANIMALs, wales
 
 ANIMAL HEALTH
 
-The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (revoked)[^key-07012b8c8eda093c89f7ba1b870274d2]
+The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (revoked)[^c-07012b8c8eda093c89f7ba1b870274d2]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 3 May 2006
 
-[^key-07012b8c8eda093c89f7ba1b870274d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07012b8c8eda093c89f7ba1b870274d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General provisions[^key-07012b8c8eda093c89f7ba1b870274d2]
+### PART 1 — General provisions[^c-07012b8c8eda093c89f7ba1b870274d2]
 
 **No longer in force.**
 
@@ -56,7 +56,7 @@ Coming into force
 - [Section 3 — Appointment of competent authority](part-1/section-3.md)
 - [Section 4 — Exception for research](part-1/section-4.md)
 
-### PART 2 — Introduction of Schedules[^key-07012b8c8eda093c89f7ba1b870274d2]
+### PART 2 — Introduction of Schedules[^c-07012b8c8eda093c89f7ba1b870274d2]
 
 **No longer in force.**
 
@@ -66,7 +66,7 @@ Coming into force
 - [Section 8 — Feedingstuffs](part-2/section-8.md)
 - [Section 9 — Specified risk material, mechanically recovered meat and slaughtering techniques and restrictions on dispatch to other member states and to third countries](part-2/section-9.md)
 
-### PART 3 — Administration and enforcement[^key-07012b8c8eda093c89f7ba1b870274d2]
+### PART 3 — Administration and enforcement[^c-07012b8c8eda093c89f7ba1b870274d2]
 
 **No longer in force.**
 
@@ -101,14 +101,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-07012b8c8eda093c89f7ba1b870274d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07012b8c8eda093c89f7ba1b870274d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-07012b8c8eda093c89f7ba1b870274d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07012b8c8eda093c89f7ba1b870274d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07012b8c8eda093c89f7ba1b870274d2]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21/a)
+[^c-07012b8c8eda093c89f7ba1b870274d2]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21/a)

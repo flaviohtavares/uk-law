@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Availability of legal services[^key-8242f2ff333b976aa4ff6b7346b65599]
+## 141. Availability of legal services[^c-8242f2ff333b976aa4ff6b7346b65599]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ In the 1986 Act—
 
 ## Annotations
 
-[^key-8242f2ff333b976aa4ff6b7346b65599]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2010/16/section/141) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-8242f2ff333b976aa4ff6b7346b65599]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2010/16/section/141) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 13. The competent authority[^key-13ecd4358e524f8217ce73ac3012eeac]
+## 13. The competent authority[^c-13ecd4358e524f8217ce73ac3012eeac]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13ecd4358e524f8217ce73ac3012eeac]: Textual amendment: Regulations revoked (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [28](https://www.legislation.gov.uk/uksi/2011/881/regulation/28)
+[^c-13ecd4358e524f8217ce73ac3012eeac]: Textual amendment: Regulations revoked (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [28](https://www.legislation.gov.uk/uksi/2011/881/regulation/28)

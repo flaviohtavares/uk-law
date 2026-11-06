@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Amount of grant[^key-0d8d1e4f7a2fbaa5b7b1770b3adabe25]
+## 156. Amount of grant[^c-0d8d1e4f7a2fbaa5b7b1770b3adabe25]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d8d1e4f7a2fbaa5b7b1770b3adabe25]: Commencement: Reg. 156 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-0d8d1e4f7a2fbaa5b7b1770b3adabe25]: Commencement: Reg. 156 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Registration: provision relating to specified state professionals[^key-cba8b25235bb1767cc8b485700c39bb1]
+## 6A. Registration: provision relating to specified state professionals[^c-cba8b25235bb1767cc8b485700c39bb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cba8b25235bb1767cc8b485700c39bb1]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1993/21/section/6A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/45)
+[^c-cba8b25235bb1767cc8b485700c39bb1]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1993/21/section/6A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 45](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/45)

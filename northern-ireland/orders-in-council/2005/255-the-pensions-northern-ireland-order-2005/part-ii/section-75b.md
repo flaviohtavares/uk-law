@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**75B.**[^key-47657a2e5b2bafb64aea0b53767d5996] (1) This Article applies in relation to an occupational pension scheme other than—
+**75B.**[^c-47657a2e5b2bafb64aea0b53767d5996] (1) This Article applies in relation to an occupational pension scheme other than—
 
 - (a) a money purchase scheme, or
 - (b) a prescribed scheme or a scheme of a prescribed description.
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47657a2e5b2bafb64aea0b53767d5996]: Textual amendment: [Art. 75B](https://www.legislation.gov.uk/nisi/2005/255/article/75B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/13); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(h)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/h) (with [art. 7](https://www.legislation.gov.uk/nisr/2021/271/article/7))
+[^c-47657a2e5b2bafb64aea0b53767d5996]: Textual amendment: [Art. 75B](https://www.legislation.gov.uk/nisi/2005/255/article/75B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/13); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(h)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/h) (with [art. 7](https://www.legislation.gov.uk/nisr/2021/271/article/7))

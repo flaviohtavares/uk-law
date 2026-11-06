@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Financial provisions[^key-695a21f67454c9f3f77fa152bc21f27a]
+## 238. Financial provisions[^c-695a21f67454c9f3f77fa152bc21f27a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-695a21f67454c9f3f77fa152bc21f27a]: Commencement: S. 238 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-695a21f67454c9f3f77fa152bc21f27a]: Commencement: S. 238 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

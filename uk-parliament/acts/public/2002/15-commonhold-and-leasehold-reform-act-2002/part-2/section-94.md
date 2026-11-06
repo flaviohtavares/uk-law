@@ -35,7 +35,7 @@ must make to the company a payment equal to the amount of any accrued uncommitte
 
 less so much (if any) of that amount as is required to meet the costs incurred before the acquisition date in connection with the matters for which the service charges were payable.
 
-(3) He or the RTM company may make an application to the appropriate tribunal[^key-1ec30a89534bda7526495b9a7d80a927] to determine the amount of any payment which falls to be made under this section.
+(3) He or the RTM company may make an application to the appropriate tribunal[^c-1ec30a89534bda7526495b9a7d80a927] to determine the amount of any payment which falls to be made under this section.
 
 (4) The duty imposed by this section must be complied with on the acquisition date or as soon after that date as is reasonably practicable.
 
@@ -43,4 +43,4 @@ less so much (if any) of that amount as is required to meet the costs incurred b
 
 [^c21531221]: Commencement: S. 94 wholly in force at 30.3.2004; s. 94 not in force at Royal Assent see s. 181(1); s. 94 wholly in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); s. 94 wholly in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-1ec30a89534bda7526495b9a7d80a927]: Textual amendment: Words in s. 94(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 136](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/136) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-1ec30a89534bda7526495b9a7d80a927]: Textual amendment: Words in s. 94(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 136](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/136) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

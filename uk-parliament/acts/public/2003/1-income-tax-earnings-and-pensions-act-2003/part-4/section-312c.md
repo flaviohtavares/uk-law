@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312C. Section 312B: the participation and equality requirements[^key-0491cdb747c11813b8a05a7880031421]
+## 312C. Section 312B: the participation and equality requirements[^c-0491cdb747c11813b8a05a7880031421]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) where E is a member of a group, the person is employed by any company which is a member of the group, and
 - (b) in any other case, the person is employed by E.
 
-(2A)[^key-b1cb7c7f52bfe8a2c3e0e7d618ec1273] The participation requirement is not infringed by reason of the exclusion of directors of the company from participating in an award.
+(2A)[^c-b1cb7c7f52bfe8a2c3e0e7d618ec1273] The participation requirement is not infringed by reason of the exclusion of directors of the company from participating in an award.
 
 (3) The participation requirement is not infringed by reason of a person in relevant employment being excluded from participating in an award because, at the time the award is determined, the person has less than the minimum period of continuous service in relevant employment required by E.
 
@@ -75,6 +75,6 @@ but this is subject to subsections (7) and (8).
 
 ## Annotations
 
-[^key-0491cdb747c11813b8a05a7880031421]: Textual amendment: Pt. 4 Ch. 10A inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5)
+[^c-0491cdb747c11813b8a05a7880031421]: Textual amendment: Pt. 4 Ch. 10A inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5)
 
-[^key-b1cb7c7f52bfe8a2c3e0e7d618ec1273]: Textual amendment: S. 312C(2A) inserted (with effect in accordance with Sch. 6 para. 8(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 8(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/8/1)
+[^c-b1cb7c7f52bfe8a2c3e0e7d618ec1273]: Textual amendment: S. 312C(2A) inserted (with effect in accordance with Sch. 6 para. 8(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 8(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/8/1)

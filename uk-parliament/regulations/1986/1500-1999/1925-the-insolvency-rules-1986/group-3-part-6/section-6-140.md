@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.140. Recourse of trustee to meeting of creditors[^key-32160d0bdbff4e8c181f7e03b1e887f6]
+## 6.140. Recourse of trustee to meeting of creditors[^c-32160d0bdbff4e8c181f7e03b1e887f6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the trustee's remuneration has been fixed by the creditors' committee, and he
 
 ## Annotations
 
-[^key-32160d0bdbff4e8c181f7e03b1e887f6]: Commencement: [Rule 6.140](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.140) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-32160d0bdbff4e8c181f7e03b1e887f6]: Commencement: [Rule 6.140](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.140) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

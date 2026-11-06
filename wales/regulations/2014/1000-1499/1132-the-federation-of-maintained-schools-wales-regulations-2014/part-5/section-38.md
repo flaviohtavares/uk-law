@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Removal of local authority, foundation, representative, additional community and sponsor governors[^key-8e9c7fd9d245f172413c30952fefdd37]
+## 38. Removal of local authority, foundation, representative, additional community and sponsor governors[^c-8e9c7fd9d245f172413c30952fefdd37]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e9c7fd9d245f172413c30952fefdd37]: Commencement: Reg. 38 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-8e9c7fd9d245f172413c30952fefdd37]: Commencement: Reg. 38 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

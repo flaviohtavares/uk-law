@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Police Service of Northern Ireland and the Police Service of Northern Ireland Reserve[^key-8cd799f83f745752e9ba9344028c54cd]
+## 14. Police Service of Northern Ireland and the Police Service of Northern Ireland Reserve[^c-8cd799f83f745752e9ba9344028c54cd]
 
 *Extent: N.I.*
 
@@ -50,11 +50,11 @@ summary: ''
   - (i) in paragraph (1), the reference to the Chief Constable included a reference to the Ombudsman; and
   - (ii) in paragraphs (2), (4) and (5), the references to the Chief Constable were references to the Ombudsman.
 
-(7) This regulation is subject to regulation 16 ( National Crime Agency[^key-41db1f7400a41afc5601431bd2132ec6] ).
+(7) This regulation is subject to regulation 16 ( National Crime Agency[^c-41db1f7400a41afc5601431bd2132ec6] ).
 
 ## Annotations
 
-[^key-8cd799f83f745752e9ba9344028c54cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/261/regulation/14) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-8cd799f83f745752e9ba9344028c54cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/261/regulation/14) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00011]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^f00014]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-41db1f7400a41afc5601431bd2132ec6]: Textual amendment: Words in [reg. 14(7)](https://www.legislation.gov.uk/nisr/2006/261/regulation/14/7) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/49)
+[^c-41db1f7400a41afc5601431bd2132ec6]: Textual amendment: Words in [reg. 14(7)](https://www.legislation.gov.uk/nisr/2006/261/regulation/14/7) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/49)

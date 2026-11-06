@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Supplementary provision about reviews[^key-2bb31fbe776f1409db838222d2668369][^key-e9dabeeaaf5e59def4da0eaf237fb8b7]
+## 10. Supplementary provision about reviews[^c-2bb31fbe776f1409db838222d2668369][^c-e9dabeeaaf5e59def4da0eaf237fb8b7]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bb31fbe776f1409db838222d2668369]: Commencement: S. 10 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2bb31fbe776f1409db838222d2668369]: Commencement: S. 10 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e9dabeeaaf5e59def4da0eaf237fb8b7]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/3/section/10) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-e9dabeeaaf5e59def4da0eaf237fb8b7]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/3/section/10) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

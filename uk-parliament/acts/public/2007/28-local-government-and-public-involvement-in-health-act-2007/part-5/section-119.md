@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Reference of matter by councillor to overview and scrutiny committee[^key-7b3275c2cc02d5c6c0eaa6280876464d][^key-e651957be1323b10eb73f74b5252cd2d]
+## 119. Reference of matter by councillor to overview and scrutiny committee[^c-7b3275c2cc02d5c6c0eaa6280876464d][^c-e651957be1323b10eb73f74b5252cd2d]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ After section 21 of the Local Government Act 2000 (c. 22) insert—
 
 ## Annotations
 
-[^key-7b3275c2cc02d5c6c0eaa6280876464d]: Commencement: S. 119 in force at 12.12.2008 for specified purposes by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/a)
+[^c-7b3275c2cc02d5c6c0eaa6280876464d]: Commencement: S. 119 in force at 12.12.2008 for specified purposes by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/a)
 
-[^key-e651957be1323b10eb73f74b5252cd2d]: Commencement: S. 119 in force at 1.4.2009 in so far as not already in force by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/a)
+[^c-e651957be1323b10eb73f74b5252cd2d]: Commencement: S. 119 in force at 1.4.2009 in so far as not already in force by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/a)

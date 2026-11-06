@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174A. Claims under section 174 where disadvantaged person within charge to income tax[^key-2109d925e724bc4827e995ac55ad4c44]
+## 174A. Claims under section 174 where disadvantaged person within charge to income tax[^c-2109d925e724bc4827e995ac55ad4c44]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A claim under section 174 may not be made if—
 
 ## Annotations
 
-[^key-2109d925e724bc4827e995ac55ad4c44]: Textual amendment: S. 174A inserted (with effect in accordance with s. 75(5)(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/75/3)
+[^c-2109d925e724bc4827e995ac55ad4c44]: Textual amendment: S. 174A inserted (with effect in accordance with s. 75(5)(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/75/3)

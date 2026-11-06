@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-4bfd5632d5405110e00404eb841e0445]
+## 1. Citation and commencement[^c-4bfd5632d5405110e00404eb841e0445]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Recognition of Professional Qualifications
 
 ## Annotations
 
-[^key-4bfd5632d5405110e00404eb841e0445]: Commencement: Reg. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-4bfd5632d5405110e00404eb841e0445]: Commencement: Reg. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

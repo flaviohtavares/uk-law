@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256A. Attributing gains to the non-exempt amount: charitable trusts[^key-83987a394fdba41108192544e6dd1d80][^key-40baeb671e3e266e4675970ebf580529]
+## 256A. Attributing gains to the non-exempt amount: charitable trusts[^c-83987a394fdba41108192544e6dd1d80][^c-40baeb671e3e266e4675970ebf580529]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83987a394fdba41108192544e6dd1d80]: Textual amendment: Ss. 256A, 256B inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 327](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/327) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-83987a394fdba41108192544e6dd1d80]: Textual amendment: Ss. 256A, 256B inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 327](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/327) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-40baeb671e3e266e4675970ebf580529]: Textual amendment: Words in s. 256A heading inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 255](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/255) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-40baeb671e3e266e4675970ebf580529]: Textual amendment: Words in s. 256A heading inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 255](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/255) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

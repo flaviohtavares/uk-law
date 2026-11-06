@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 151. Transfer statement[^key-138bad480426389f09f4e4dff0227c74]
+## 151. Transfer statement[^c-138bad480426389f09f4e4dff0227c74]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-138bad480426389f09f4e4dff0227c74]: Commencement: [Reg. 151](https://www.legislation.gov.uk/nisr/2014/290/regulation/151) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-138bad480426389f09f4e4dff0227c74]: Commencement: [Reg. 151](https://www.legislation.gov.uk/nisr/2014/290/regulation/151) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

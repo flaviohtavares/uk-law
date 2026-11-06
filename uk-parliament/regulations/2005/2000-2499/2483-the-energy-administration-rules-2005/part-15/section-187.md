@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Application[^key-250699b0bdd985b126f5721665a3c5b8]
+## 187. Application[^c-250699b0bdd985b126f5721665a3c5b8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Rules apply to energy administration proceedings commenced on or after the d
 
 ## Annotations
 
-[^key-250699b0bdd985b126f5721665a3c5b8]: Commencement: Rule 187 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-250699b0bdd985b126f5721665a3c5b8]: Commencement: Rule 187 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

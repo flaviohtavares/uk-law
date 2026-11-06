@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Commencement of development[^key-8fd2262e83c568cc214a730c2596fb11]
+## 7. Commencement of development[^c-8fd2262e83c568cc214a730c2596fb11]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ is to be treated as commencing on the day planning permission for that developme
 
 ## Annotations
 
-[^key-8fd2262e83c568cc214a730c2596fb11]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-8fd2262e83c568cc214a730c2596fb11]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00016]: Footnote: Relevant amendments to section 54 were made by paragraph 10 of Schedule 6 and paragraph 10(2) of Schedule 7 to the Planning and Compensation Act 1991 and section 40(2)(a) of the Planning and Compulsory Purchase Act 2004.

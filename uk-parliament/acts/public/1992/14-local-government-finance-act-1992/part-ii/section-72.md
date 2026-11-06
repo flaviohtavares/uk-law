@@ -22,7 +22,7 @@ summary: ''
 
 (1) Council tax shall be payable in respect of any dwelling which is not an exempt dwelling.
 
-(2)[^c12079871][^key-dfd9d3809c8d88640338f706bde895eb] In this Part, “**dwelling**”—
+(2)[^c12079871][^c-dfd9d3809c8d88640338f706bde895eb] In this Part, “**dwelling**”—
 
 - (a) means any lands and heritages—
   - (i) which consist of one or more dwelling houses with any garden, yard, garage, outhouse or pertinent belonging to and occupied with such dwelling house or dwelling houses; and
@@ -36,7 +36,7 @@ summary: ''
 
 (4) The Secretary of State may vary the definition of dwelling in subsection (2) above by including or excluding such lands and heritages or parts thereof or such class or classes of lands and heritages or parts thereof as may be prescribed.
 
-(4A)[^key-72c411a43b95688b9a232167bc6fc791] Where regulations under subsection (4) prescribe a class, the regulations may confer discretion on a local authority to determine, in such circumstances as may be prescribed, whether particular lands and heritages fall within that class.
+(4A)[^c-72c411a43b95688b9a232167bc6fc791] Where regulations under subsection (4) prescribe a class, the regulations may confer discretion on a local authority to determine, in such circumstances as may be prescribed, whether particular lands and heritages fall within that class.
 
 (5) The Secretary of State may by order provide that in such cases as may be prescribed by or determined under the order—
 
@@ -66,8 +66,8 @@ summary: ''
 
     Definition of "dwelling" in s. 72(2) varied (1.4.1997) by [S.I. 1997/673](https://www.legislation.gov.uk/uksi/1997/673), [reg. 2(1)(2)](https://www.legislation.gov.uk/uksi/1997/673/regulation/2)
 
-[^key-dfd9d3809c8d88640338f706bde895eb]: Modification: S. 72(2) definition of "dwelling" varied (1.4.2010) by [Council Tax (Dwellings) (Scotland) Regulations 2010 (S.S.I. 2010/35)](https://www.legislation.gov.uk/ssi/2010/35), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/35/regulation/1/1), [3-5](https://www.legislation.gov.uk/ssi/2010/35/regulation/3)
+[^c-dfd9d3809c8d88640338f706bde895eb]: Modification: S. 72(2) definition of "dwelling" varied (1.4.2010) by [Council Tax (Dwellings) (Scotland) Regulations 2010 (S.S.I. 2010/35)](https://www.legislation.gov.uk/ssi/2010/35), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/35/regulation/1/1), [3-5](https://www.legislation.gov.uk/ssi/2010/35/regulation/3)
 
 [^c12079881]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
-[^key-72c411a43b95688b9a232167bc6fc791]: Textual amendment: S. 72(4A) inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 6](https://www.legislation.gov.uk/asp/2020/4/section/6), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-72c411a43b95688b9a232167bc6fc791]: Textual amendment: S. 72(4A) inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 6](https://www.legislation.gov.uk/asp/2020/4/section/6), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)

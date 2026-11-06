@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Decommissioning notices relating to offshore renewable energy installations[^key-42513a4945a1ac3c4e5ee88a99ccfbc0]
+## 69. Decommissioning notices relating to offshore renewable energy installations[^c-42513a4945a1ac3c4e5ee88a99ccfbc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42513a4945a1ac3c4e5ee88a99ccfbc0]: Commencement: S. 69 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-42513a4945a1ac3c4e5ee88a99ccfbc0]: Commencement: S. 69 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)

@@ -29,7 +29,7 @@ summary: ''
 
 (3) A request to treat a document as confidential must—
 
-- (a) be made before the end of the period of 14 days beginning immediately after[^key-9e2562465dc9268d7cc0a573cc41775f] the date on which the document was—
+- (a) be made before the end of the period of 14 days beginning immediately after[^c-9e2562465dc9268d7cc0a573cc41775f] the date on which the document was—
   - (i) filed at the Patent Office, or
   - (ii) received by the comptroller, an examiner or the Patent Office; and
 - (b) include reasons for the request.
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2562465dc9268d7cc0a573cc41775f]: Textual amendment: Words in [rule 53(3)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/53/3/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-9e2562465dc9268d7cc0a573cc41775f]: Textual amendment: Words in [rule 53(3)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/53/3/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

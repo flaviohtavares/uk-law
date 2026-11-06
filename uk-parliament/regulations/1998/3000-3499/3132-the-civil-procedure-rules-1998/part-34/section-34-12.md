@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.12. Restrictions on subsequent use of deposition taken for the purpose of any hearing except the trial[^key-182dac7821f4a3e795e087def4a99cf1]
+## 34.12. Restrictions on subsequent use of deposition taken for the purpose of any hearing except the trial[^c-182dac7821f4a3e795e087def4a99cf1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-182dac7821f4a3e795e087def4a99cf1]: Commencement: [Rule 34.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.12) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-182dac7821f4a3e795e087def4a99cf1]: Commencement: [Rule 34.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.12) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

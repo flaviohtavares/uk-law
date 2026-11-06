@@ -32,10 +32,10 @@ summary: ''
 (3) In this section—
 
 - “**passenger transport undertaking**” means an undertaking whose business consists wholly or mainly in the carriage of passengers or a subsidiary of such an undertaking, and
-- “**subsidiary**” means a wholly-owned subsidiary within the meaning of section 1159 of and Schedule 6 to[^key-b599cdc053a77b0be2b23491bc56bdc9] the Companies Act 2006[^key-c8e3fc08c188808ab059199f5ab2c705].
+- “**subsidiary**” means a wholly-owned subsidiary within the meaning of section 1159 of and Schedule 6 to[^c-b599cdc053a77b0be2b23491bc56bdc9] the Companies Act 2006[^c-c8e3fc08c188808ab059199f5ab2c705].
 
 ## Annotations
 
-[^key-b599cdc053a77b0be2b23491bc56bdc9]: Textual amendment: Words in s. 86(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(g)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/g)
+[^c-b599cdc053a77b0be2b23491bc56bdc9]: Textual amendment: Words in s. 86(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(g)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/g)
 
-[^key-c8e3fc08c188808ab059199f5ab2c705]: Textual amendment: Word in s. 86(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(g)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/g)
+[^c-c8e3fc08c188808ab059199f5ab2c705]: Textual amendment: Word in s. 86(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(g)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/g)

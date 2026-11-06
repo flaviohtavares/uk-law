@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Conversion of status – eligible distance learning students transferring to designated courses[^key-98d4fd649dd511143a521c7d1ea15ae2]
+## 77. Conversion of status – eligible distance learning students transferring to designated courses[^c-98d4fd649dd511143a521c7d1ea15ae2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98d4fd649dd511143a521c7d1ea15ae2]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/wsi/2017/47/part/11) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [60](https://www.legislation.gov.uk/wsi/2021/481/regulation/60) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-98d4fd649dd511143a521c7d1ea15ae2]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/wsi/2017/47/part/11) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [60](https://www.legislation.gov.uk/wsi/2021/481/regulation/60) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))

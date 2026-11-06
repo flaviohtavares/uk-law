@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Revocations[^key-d28738d7e9c0b1102a617815a7a69953]
+## 33. Revocations[^c-d28738d7e9c0b1102a617815a7a69953]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 makes provision in respect of the revocation of the enactments specif
 
 ## Annotations
 
-[^key-d28738d7e9c0b1102a617815a7a69953]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2023/953/regulation/33) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-d28738d7e9c0b1102a617815a7a69953]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2023/953/regulation/33) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

@@ -25,8 +25,8 @@ summary: ''
 - (a) the person is entitled to universal credit immediately before the beginning of the period of temporary absence; and
 - (b) either—
   - (i) the absence is not expected to exceed, and does not exceed, one month, or
-  - (ii) paragraph (3) or (4) applies , or[^key-1d06a5a6d57e0edffa09c99f31cfbb1f]
-  - (iii)[^key-91a536711f77d92b03c3f9c9d2360ce6] paragraph (4A) applies.
+  - (ii) paragraph (3) or (4) applies , or[^c-1d06a5a6d57e0edffa09c99f31cfbb1f]
+  - (iii)[^c-91a536711f77d92b03c3f9c9d2360ce6] paragraph (4A) applies.
 
 (2) The period of one month in paragraph (1)(b) may be extended by up to a further month if the temporary absence is in connection with the death of—
 
@@ -47,7 +47,7 @@ and the Secretary of State considers that it would be unreasonable to expect the
 - (a) a mariner; or
 - (b) a continental shelf worker who is in a designated area or a prescribed area.
 
-(4A)[^key-452b5bd6cb2d7e66f55f73b8ec3515e6] This paragraph applies where—
+(4A)[^c-452b5bd6cb2d7e66f55f73b8ec3515e6] This paragraph applies where—
 
 - (a) the person was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
   - (i) provided public information to advise British nationals to leave that country or territory, or
@@ -66,19 +66,19 @@ and the Secretary of State considers that it would be unreasonable to expect the
   - (a) the employment in that other capacity is for the purposes of that ship or vessel or its crew or any passengers or cargo or mails carried by the ship or vessel; and
   - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on its voyage;
 - “**medically approved**” means certified by a registered medical practitioner;
-- “**prescribed area**” means any area over which Norway or any member State [^key-6ec915b2173c8b2ef762a825d0c528ac]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or such member State, or any other area which is from time to time specified under section 10(8) of the Petroleum Act 1998;
+- “**prescribed area**” means any area over which Norway or any member State [^c-6ec915b2173c8b2ef762a825d0c528ac]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or such member State, or any other area which is from time to time specified under section 10(8) of the Petroleum Act 1998;
 - “**qualified practitioner**” means a person qualified to provide medical treatment, physiotherapy or a form of treatment which is similar to, or related to, either of those forms of treatment.
 
 ## Annotations
 
-[^key-1d06a5a6d57e0edffa09c99f31cfbb1f]: Textual amendment: Word in [reg. 11(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/1/b/ii) substituted for full stop (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/10/2/a)
+[^c-1d06a5a6d57e0edffa09c99f31cfbb1f]: Textual amendment: Word in [reg. 11(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/1/b/ii) substituted for full stop (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/10/2/a)
 
-[^key-91a536711f77d92b03c3f9c9d2360ce6]: Textual amendment: [Reg. 11(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/1/b/iii) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/10/2/b)
+[^c-91a536711f77d92b03c3f9c9d2360ce6]: Textual amendment: [Reg. 11(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/1/b/iii) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/10/2/b)
 
-[^key-452b5bd6cb2d7e66f55f73b8ec3515e6]: Textual amendment: [Reg. 11(4A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/4A)[(4B)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/4B) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/10/2/c)
+[^c-452b5bd6cb2d7e66f55f73b8ec3515e6]: Textual amendment: [Reg. 11(4A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/4A)[(4B)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/4B) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/10/2/c)
 
 [^c2165929]: Marginal citation: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17).
 
 [^c2165930]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-6ec915b2173c8b2ef762a825d0c528ac]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/5) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ec915b2173c8b2ef762a825d0c528ac]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2013/376/regulation/11/5) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -46,11 +46,11 @@ In accordance with section 72(2) of that Act[^f00002], a draft of this instrumen
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-44b2a14f551799de1ff0a76fa16ad0d4]
+### 1. Citation and commencement[^c-44b2a14f551799de1ff0a76fa16ad0d4]
 
 These Regulations may be cited as the Protected Trust Deeds (Scotland) Regulations 2013 and come into force on 28th November 2013.
 
-### 2. Interpretation[^key-ed632dd27269af3a4d0c691badcf5914]
+### 2. Interpretation[^c-ed632dd27269af3a4d0c691badcf5914]
 
 (1) In these Regulations—
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Protected Trust Deeds (Scotland) Regulatio
 - “the Act” means the Bankruptcy (Scotland) Act 1985;
 - “the 2008 Regulations” means the Protected Trust Deeds (Scotland) Regulations 2008[^f00003];
 - “Common Financial Statement” means the style and format for income and expenditure categories under that title (and, where relevant, related spread sheets, budget sheets, trigger figures, guidance materials and notes) published by the Money Advice Trust[^f00004];
-- “common financial tool” has the meaning given by section 5D(1) of the 1985 Act;[^key-4663ab61f8217ac1b9e1e9d97b03f5c4]
+- “common financial tool” has the meaning given by section 5D(1) of the 1985 Act;[^c-4663ab61f8217ac1b9e1e9d97b03f5c4]
 - “the EU Regulation” means Council Regulation [(EC) No 1346/2000](https://www.legislation.gov.uk/european/regulation/2000/1346) of 29th May 2000 on insolvency proceedings[^f00005];
 - “notified creditors” means all creditors to whom a trustee has sent documents in terms of regulation 10 (except for a secured creditor who has agreed not to claim in terms of regulation 6(c) in respect of excluding a dwellinghouse or part of a dwellinghouse);
 - “relevant period” means the period of 5 weeks beginning with the date of registration of the notice referred to in regulation 9;
@@ -67,7 +67,7 @@ These Regulations may be cited as the Protected Trust Deeds (Scotland) Regulatio
 
 (2) A Form referred to by number in these Regulations means the Form so numbered in the Schedule.
 
-### 3. Protected status[^key-be555d27e1a555fe4c87bb42b52a53e7]
+### 3. Protected status[^c-be555d27e1a555fe4c87bb42b52a53e7]
 
 (1) A trust deed has the status of a protected trust deed if—
 
@@ -78,7 +78,7 @@ These Regulations may be cited as the Protected Trust Deeds (Scotland) Regulatio
 
 ## PART 2 — CONDITIONS OF PROTECTION
 
-### 4. The debtor[^key-2884e6497672cc033d83a13a7f6a27cb]
+### 4. The debtor[^c-2884e6497672cc033d83a13a7f6a27cb]
 
 (1) The debtor who grants the trust deed must do so for a single estate and must be—
 
@@ -96,11 +96,11 @@ These Regulations may be cited as the Protected Trust Deeds (Scotland) Regulatio
 
 (3) The total amount of the debtor’s debts (including interest) at the date on which the debtor grants the trust deed must be not less than £5,000.
 
-### 5. The trustee[^key-0b14250b4a1492c23ee87fb06bdab74c]
+### 5. The trustee[^c-0b14250b4a1492c23ee87fb06bdab74c]
 
 The trustee under the trust deed must be a person who would not be disqualified under section 24(2) of the Act from acting as the replacement trustee were the debtor’s estate being sequestrated.
 
-### 6. Exclusion of a secured creditor[^key-68658ee4a9f653724fea31d838d0515d]
+### 6. Exclusion of a secured creditor[^c-68658ee4a9f653724fea31d838d0515d]
 
 Where a secured creditor is excluded from a trust deed under section 5(4A)(b)(ii)[^f00008] of the Act, prior to the debtor granting the trust deed—
 
@@ -108,7 +108,7 @@ Where a secured creditor is excluded from a trust deed under section 5(4A)(b)(ii
 - (b) the debtor must, in Part 1 of Form 1A, request obtaining the secured creditor’s agreement not to claim under the trust deed for any of the debt in respect of which the security is held; and
 - (c) the secured creditor’s agreement must be set out in Part 2 of Form 1A.
 
-### 7. Statements in relation to trust deed[^key-79bfc19d5199ad72dcf8e0f6725e9424]
+### 7. Statements in relation to trust deed[^c-79bfc19d5199ad72dcf8e0f6725e9424]
 
 (1) The trust deed must state—
 
@@ -116,7 +116,7 @@ Where a secured creditor is excluded from a trust deed under section 5(4A)(b)(ii
 - (b) that the debtor agrees to convey to the trustee, for the benefit of creditors generally, any estate (wherever situated) which—
   - (i) is acquired by the debtor during a period of 4 years beginning with the date on which the trust deed is granted; and
   - (ii) would have been conveyed to the trustee under paragraph (1)(a) if it had been part of the debtor’s estate on the date on which the trust deed was granted; and
-- (c) that any contribution from income for the benefit of creditors , including any contribution required by the common financial tool where the debtor is a living individual,[^key-9de6f402cb856e7613e335a3baaef16a] is payable in accordance with regulation 8.
+- (c) that any contribution from income for the benefit of creditors , including any contribution required by the common financial tool where the debtor is a living individual,[^c-9de6f402cb856e7613e335a3baaef16a] is payable in accordance with regulation 8.
 
 (2) Where the debtor’s dwellinghouse, or part of the debtor’s dwellinghouse, is excluded as mentioned in section 5(4A)(b)(i) of the Act from the estate conveyed to the trustee, the trust deed must also include details—
 
@@ -136,9 +136,9 @@ Where a secured creditor is excluded from a trust deed under section 5(4A)(b)(ii
 - (b) the trustee must provide the debtor with a copy of a debt advice and information package referred to in section 10(5) of the Debt Arrangement and Attachment (Scotland) Act 2002[^f00009]; and
 - (c) the trustee and the debtor must sign a statement to the effect that the trustee has fulfilled the duties referred to in this paragraph.
 
-### 8. Payment of debtor’s contribution[^key-2e75df1efc4d4cf712531580af53e98f]
+### 8. Payment of debtor’s contribution[^c-2e75df1efc4d4cf712531580af53e98f]
 
-(1) Where this regulation applies, the trust deed must state that the debtor must, during the payment period, pay the debtor’s contribution from income at regular intervals , as required by the common financial tool where the debtor is a living individual[^key-43ab54a5bda97479cf4d89dc35d7a7ee].
+(1) Where this regulation applies, the trust deed must state that the debtor must, during the payment period, pay the debtor’s contribution from income at regular intervals , as required by the common financial tool where the debtor is a living individual[^c-43ab54a5bda97479cf4d89dc35d7a7ee].
 
 (2) The payment period is—
 
@@ -152,13 +152,13 @@ Where a secured creditor is excluded from a trust deed under section 5(4A)(b)(ii
 
 (4) Where the debtor is a living individual, the debtor’s contributions from income must be such as to result over the payment period in the payment of a sum less than the total amount of the debtor’s debts (including interest) at the date on which the debtor grants the trust deed.
 
-(5) In calculating the debtor’s contributions from income for the purposes of paragraphs (1) and (4)[^key-1ad3d1113034af946f503ef26c4e8919], the whole of the debtor’s surplus income over the amount allowed for expenditure in the statement of the debtor’s income and expenditure supplied under regulation 10(1)(d)(ii) must be applied.
+(5) In calculating the debtor’s contributions from income for the purposes of paragraphs (1) and (4)[^c-1ad3d1113034af946f503ef26c4e8919], the whole of the debtor’s surplus income over the amount allowed for expenditure in the statement of the debtor’s income and expenditure supplied under regulation 10(1)(d)(ii) must be applied.
 
-### 9. Notice in the register of insolvencies[^key-268060cbc7aabe504c056ba5222970fc]
+### 9. Notice in the register of insolvencies[^c-268060cbc7aabe504c056ba5222970fc]
 
 After the trust deed has been delivered to the trustee, the trustee must without delay send a notice in Form 1 to the Accountant for publication by registration in the register of insolvencies.
 
-### 10. Documents to be sent to creditors[^key-df8eb31d6081209626c5294d977596b5]
+### 10. Documents to be sent to creditors[^c-df8eb31d6081209626c5294d977596b5]
 
 (1) Not later than 7 days after registration under regulation 9, the trustee must send to every creditor known to the trustee (other than any secured creditor who has under section 5(4A)(b)(ii) of the Act agreed not to claim under the trust deed for any of the debt in respect of which the security is held)—
 
@@ -167,7 +167,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 - (c) a copy of the notice mentioned in regulation 9;
 - (d) a statement of the debtor’s affairs, prepared by the trustee, containing—
   - (i) a list of the debtor’s assets and liabilities;
-  - (ii) a statement of the debtor’s income and expenditure as at the date on which the trust deed was granted , in Form 2A where the debtor is a living individual[^key-a29214b3c33e41ae43db42bc98d7069b];
+  - (ii) a statement of the debtor’s income and expenditure as at the date on which the trust deed was granted , in Form 2A where the debtor is a living individual[^c-a29214b3c33e41ae43db42bc98d7069b];
   - (iii) a statement as to the extent to which those assets and that income will not vest in the trustee;
   - (iv) a statement as to whether, and if so on what basis, the EU Regulation applies to the trust deed;
   - (v) if the EU Regulation does apply to the trust deed, a statement as to whether the proceedings are main proceedings or territorial proceedings;
@@ -184,7 +184,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 
 ## PART 3 — REGISTRATION AND EFFECT OF PROTECTION
 
-### 11. Registration of the trust deed etc.[^key-94eb52afebca5701bca024325916b977]
+### 11. Registration of the trust deed etc.[^c-94eb52afebca5701bca024325916b977]
 
 (1) As soon as reasonably practicable after the expiry of the relevant period (and in any event no later than 4 weeks after that expiry), the trustee must send to the Accountant for registration in the register of insolvencies—
 
@@ -197,7 +197,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 - (e) a copy of the statement referred to in regulation 10(1)(d);
 - (f) a copy of any agreement in Form 1B referred to in regulation 15(2);
 - (g) a statement in the form of Form 3; and
-- (h)[^key-fd2dee6ad14aa09a29cc2742f6617795] where a debtor who is a living individual makes a contribution from income,—
+- (h)[^c-fd2dee6ad14aa09a29cc2742f6617795] where a debtor who is a living individual makes a contribution from income,—
   - (i) a statement that the amount of that contribution is in accordance with the common financial tool as assessed by the trustee; and
   - (ii) any evidence or explanation required in applying the common financial tool.
 
@@ -205,11 +205,11 @@ After the trust deed has been delivered to the trustee, the trustee must without
 
 - (a) the Accountant has received all the documents required to be sent under paragraph (1);
 - (b) the conditions set out in regulations 4 to 10 have been met; and
-- (c)[^key-ef571fbb3bc5c5688fed88f0aacd80f9] the Accountant is satisfied in accordance with the common financial tool with the amount of the contribution determined.
+- (c)[^c-ef571fbb3bc5c5688fed88f0aacd80f9] the Accountant is satisfied in accordance with the common financial tool with the amount of the contribution determined.
 
 (3) The trustee must notify the debtor and every creditor known to the trustee of the registration of the trust deed in the register of insolvencies or the refusal by the Accountant to so register the trust deed by no later than 7 days after receipt of the notification of the same by the Accountant.
 
-### 12. Effect of protected status[^key-6548a1d3dd7d472910213c4fe10414c0]
+### 12. Effect of protected status[^c-6548a1d3dd7d472910213c4fe10414c0]
 
 (1) Where a trust deed has become a protected trust deed then—
 
@@ -228,7 +228,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 - (b) to do diligence against the assets conveyed to the trustee under the protected trust deed; or
 - (c) to petition for the sequestration of the debtor during the subsistence of the protected trust deed.
 
-### 13. Effect of protected status on diligence against earnings[^key-3867aaf6c10388f2ed87834803990cf2]
+### 13. Effect of protected status on diligence against earnings[^c-3867aaf6c10388f2ed87834803990cf2]
 
 (1) This regulation has effect where a trust deed has protected status.
 
@@ -240,7 +240,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 
 (5) A deduction from earnings order under the Debtors (Scotland) Act 1987 is not competent after the date of protection to secure the payment of any amount due by the debtor under a maintenance calculation within the meaning of that Act in respect of which a claim could be made under the trust deed.
 
-### 14. Deductions from debtor’s earnings[^key-95e225acb9c1511c8489812ab67f148d]
+### 14. Deductions from debtor’s earnings[^c-95e225acb9c1511c8489812ab67f148d]
 
 (1) This regulation applies where—
 
@@ -269,7 +269,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 
 (9) Following agreement by the debtor and the trustee, the debtor may give to the person by whom the debtor is employed a variation to the instruction mentioned in paragraph (2) in Form 4C.
 
-### 15. Agreement in respect of debtor’s heritable property[^key-e2792a2b671cc8ac6f71454aaeb7c9db]
+### 15. Agreement in respect of debtor’s heritable property[^c-e2792a2b671cc8ac6f71454aaeb7c9db]
 
 (1) This regulation does not apply to the debtor’s dwellinghouse (or any part of that dwellinghouse) if the dwellinghouse or part is excluded from the estate conveyed to the trustee in accordance with section 5(4A)(b)(i) of the Act.
 
@@ -292,7 +292,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 
 (6) The trustee must, as soon as is practicable, send a copy of the agreement mentioned in paragraph (2) in Form 1B to the Accountant and to every creditor known to the trustee (other than any secured creditor who has under section 5(4A)(b)(ii) of the Act agreed not to claim under the trust deed for any of the debt in respect of which the security is held).
 
-### 16. Dividend payments[^key-8d09670941b6ca1d087f7b898cdb7d52]
+### 16. Dividend payments[^c-8d09670941b6ca1d087f7b898cdb7d52]
 
 (1) If the funds of the debtor’s estate are sufficient, the trustee must pay a dividend out of the estate to the creditors no later than 6 weeks after the end of—
 
@@ -306,7 +306,7 @@ After the trust deed has been delivered to the trustee, the trustee must without
 
 a dividend may be paid to the creditors amounting to at least 5 pence for each pound sterling of the debtor’s debt under the trust deed on the date on which the trust deed was protected.
 
-### 17. Sequestration petition by qualified creditor[^key-0cc69ea3e3b076dd9090f68caf91028a]
+### 17. Sequestration petition by qualified creditor[^c-0cc69ea3e3b076dd9090f68caf91028a]
 
 (1) A qualified creditor who is not a notified creditor, or who has notified the trustee of objection to the trust deed within the relevant period, may present a petition to the sheriff for sequestration of the debtor’s estate—
 
@@ -320,7 +320,7 @@ a dividend may be paid to the creditors amounting to at least 5 pence for each p
 - (a) paragraph (1)(a), only if satisfied that to do so would be in the best interests of the creditors; and
 - (b) paragraph (1)(b), only if satisfied that the creditor’s averment is correct.
 
-### 18. Creditor’s application as respects intromissions of trustee[^key-21ac01f28a3b6ab87c08d2bf25207f10]
+### 18. Creditor’s application as respects intromissions of trustee[^c-21ac01f28a3b6ab87c08d2bf25207f10]
 
 (1) A creditor who is not sent a copy of the notice mentioned in regulation 10(1)(c) or who has notified the trustee of objection to the trust within the relevant period may apply to the sheriff under this regulation.
 
@@ -337,7 +337,7 @@ a dividend may be paid to the creditors amounting to at least 5 pence for each p
 
 ## PART 4 — ADMINISTRATION, ACCOUNTING AND DISCHARGE
 
-### 19. Directions to trustee under protected trust deed[^key-8e1c4db6df6438ce0c98338902994fd1]
+### 19. Directions to trustee under protected trust deed[^c-8e1c4db6df6438ce0c98338902994fd1]
 
 (1) The Accountant may give directions to the trustee under a protected trust deed as to how the trustee should conduct the administration of the trust.
 
@@ -347,7 +347,7 @@ a dividend may be paid to the creditors amounting to at least 5 pence for each p
 
 (4) The trustee must, unless paragraph (5) applies, comply with the direction within the period of 30 days beginning with the day on which the direction is given.
 
-(5) Where the trustee has made an appeal to the sheriff under regulation 27(1)(c)[^key-ffc5b7a01585e9044daabf1aa375ab1d] and the appeal has been dismissed by the sheriff or withdrawn by the trustee, the trustee must comply with the direction within the period of 30 days beginning with the day on which (as the case may be)—
+(5) Where the trustee has made an appeal to the sheriff under regulation 27(1)(c)[^c-ffc5b7a01585e9044daabf1aa375ab1d] and the appeal has been dismissed by the sheriff or withdrawn by the trustee, the trustee must comply with the direction within the period of 30 days beginning with the day on which (as the case may be)—
 
 - (a) the appeal was dismissed by the sheriff; or
 - (b) the appeal was withdrawn by the trustee.
@@ -357,7 +357,7 @@ a dividend may be paid to the creditors amounting to at least 5 pence for each p
 - (a) censure the trustee; or
 - (b) make such other order as the circumstances of the case require.
 
-### 20. Information and notification obligations of trustee under protected trust deed[^key-b2e1b7fdeed0e104b02becfee2c159ff]
+### 20. Information and notification obligations of trustee under protected trust deed[^c-b2e1b7fdeed0e104b02becfee2c159ff]
 
 (1) Where the trustee under a protected trust deed makes a determination to shorten or lengthen the payment period under regulation 8, the trustee must notify the debtor of the determination without delay.
 
@@ -370,7 +370,7 @@ a dividend may be paid to the creditors amounting to at least 5 pence for each p
 
 (4) On the trustee under a protected trust deed being replaced with a new trustee, the new trustee must notify the Accountant accordingly without delay.
 
-### 21. Administration of trust under protected trust deed[^key-e51ecc1bf7b694d12fa4777a9be87f8e]
+### 21. Administration of trust under protected trust deed[^c-e51ecc1bf7b694d12fa4777a9be87f8e]
 
 (1) At intervals of not more than 12 months (the first such interval beginning with the date on which the trust deed was granted) and by no later than 6 weeks after the end of each interval, the trustee under a protected trust deed must send the trustee’s accounts of the trustee’s intromissions with the debtor’s estate in administering the trust during the period in question—
 
@@ -380,7 +380,7 @@ a dividend may be paid to the creditors amounting to at least 5 pence for each p
 
 (2) At such intervals the trustee must send to the Accountant, the debtor and each creditor a report in Form 4 on the management of the trust during the period in question.
 
-(2A)[^key-ccbc65619f29b146c71c8d6177e6606b] If the trustee receives within 21 days after the date on which the Form 4 was sent notification in writing from—
+(2A)[^c-ccbc65619f29b146c71c8d6177e6606b] If the trustee receives within 21 days after the date on which the Form 4 was sent notification in writing from—
 
 - (a) a majority in number; or
 - (b) not less than one third in value,
@@ -391,7 +391,7 @@ of creditors that they object to the recommended course of action in the Form 4 
 
 (4) In determining the amount of any contribution from income to be made by the debtor, the trustee may take account of any social security benefit paid to the debtor but any contribution must not include an amount derived from social security benefit.
 
-### 22. Retention of documents by trustee under protected trust deed[^key-492aafce41eac4393cfda5aa398584b8]
+### 22. Retention of documents by trustee under protected trust deed[^c-492aafce41eac4393cfda5aa398584b8]
 
 The trustee under a protected trust deed must retain the following documents (or copies of those documents) for a period of at least 12 months after the date of the trustee’s discharge under regulation 25—
 
@@ -412,13 +412,13 @@ The trustee under a protected trust deed must retain the following documents (or
 - (o) any decree, interlocutory decree, direction or order relating to the administration of the trust which is granted by the court;
 - (p) any other document relating to the administration of the trust if it is a document which the Accountant, by notice to the trustee prior to the trustee’s discharge, identifies as a document the trustee should retain.
 
-### 23. Remuneration payable to trustee under protected trust deed[^key-cc41a2dbd40a8a8579abd4547cba84e9]
+### 23. Remuneration payable to trustee under protected trust deed[^c-cc41a2dbd40a8a8579abd4547cba84e9]
 
-(1) For work done by the trustee in administering the trust, the trustee under a protected trust deed is entitled to remuneration which may consist only[^key-adc21c516f62b2073697173e7bae710b] of—
+(1) For work done by the trustee in administering the trust, the trustee under a protected trust deed is entitled to remuneration which may consist only[^c-adc21c516f62b2073697173e7bae710b] of—
 
 - (a) a fixed fee which must be set out in the Form 3 (“fixed fee”);
 - (b) an additional fee based upon a percentage of the total assets and contributions realised by the trustee which must be set out in the Form 3; and
-- (c) outlays incurred after the date on which the trust deed was granted or before that date on a single valuation of any item of the debtor’s heritable estate specified or valued in such a valuation[^key-1391075513605a0a24677444e85f8a93].
+- (c) outlays incurred after the date on which the trust deed was granted or before that date on a single valuation of any item of the debtor’s heritable estate specified or valued in such a valuation[^c-1391075513605a0a24677444e85f8a93].
 
 (2) In the event of unforeseen circumstances, the fixed fee may be increased by—
 
@@ -427,7 +427,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 (3) The Accountant is to approve an increase in the fixed fee if satisfied—
 
-- (a) that a majority in value[^key-3f18060adc98f75d2160d78a09906f7a] of the notified creditors have not refused to approve the increase in the fixed fee; and
+- (a) that a majority in value[^c-3f18060adc98f75d2160d78a09906f7a] of the notified creditors have not refused to approve the increase in the fixed fee; and
 - (b) that the increase in the fixed fee is required for work to be completed by the trustee for the benefit of the creditors generally that was not foreseen in submitting the Form 3.
 
 (4) In deciding whether or not to grant the approval mentioned in paragraph (2)(b), the Accountant may determine the amount of any increase in the fixed fee.
@@ -436,11 +436,11 @@ The trustee under a protected trust deed must retain the following documents (or
 
 (6) Any debt due to a third party for work done before the granting of the trust deed does not rank higher than any other creditor’s claim.
 
-(7) The trustee is entitled to recover from the debtor’s estate any audit fee charged by the Accountant under paragraph 1 or 1A of Schedule 5 to the Act in accordance with the rate specified in the Table of Fees in Schedule 1 to the Bankruptcy Fees (Scotland) Regulations 2014[^key-11544391f3bea7863a5768671e6f65b9].
+(7) The trustee is entitled to recover from the debtor’s estate any audit fee charged by the Accountant under paragraph 1 or 1A of Schedule 5 to the Act in accordance with the rate specified in the Table of Fees in Schedule 1 to the Bankruptcy Fees (Scotland) Regulations 2014[^c-11544391f3bea7863a5768671e6f65b9].
 
 (8) The Accountant may, at any time, audit the trustee’s accounts and fix the outlays of the trustee in the administration of the trust.
 
-### 24. Discharge of debtor[^key-7e6214ab95f9d68332252566c8ef7a02]
+### 24. Discharge of debtor[^c-7e6214ab95f9d68332252566c8ef7a02]
 
 (1) If the conditions set out in paragraph (2) are met, subject to paragraphs (6), (9) and (11)—
 
@@ -462,7 +462,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 (4) The Accountant must notify the trustee of the fact of registration and the date of the debtor’s discharge without delay.
 
-(5) The trustee must notify the debtor and every creditor known to the trustee of the information set out in the notification mentioned in paragraph (4) by no later than[^key-c7c68525762a081e01fdc6b3397d36ec] 7 days after the date of receipt of the notification.
+(5) The trustee must notify the debtor and every creditor known to the trustee of the information set out in the notification mentioned in paragraph (4) by no later than[^c-c7c68525762a081e01fdc6b3397d36ec] 7 days after the date of receipt of the notification.
 
 (6) The letter of discharge does not—
 
@@ -476,7 +476,7 @@ The trustee under a protected trust deed must retain the following documents (or
 - (a) for the debtor to refuse to consent to the sale of the debtor’s dwellinghouse (or of a part of that dwellinghouse) if the dwellinghouse or part is excluded from the estate conveyed to the trustee in accordance with section 5(4A)(b) of the Act;
 - (b) for the debtor to refuse to give a relevant consent in terms of section 40(1)(a) of the Act.
 
-(8) If on request by the debtor, or as soon as reasonably practicable after the end of the period for which payments are required under the trust deed[^key-f2173ea349f66ff9e5158184c3a13dcd], the trustee refuses to apply to the Accountant for discharge of the debtor, the trustee must—
+(8) If on request by the debtor, or as soon as reasonably practicable after the end of the period for which payments are required under the trust deed[^c-f2173ea349f66ff9e5158184c3a13dcd], the trustee refuses to apply to the Accountant for discharge of the debtor, the trustee must—
 
 - (a) inform the debtor in writing—
   - (i) of the fact and the reason for the refusal;
@@ -502,7 +502,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 (13) The trustee must send a copy of the notification mentioned in paragraph (12) to every creditor known to the trustee by no later than 7 days after the date of receipt of the notification.
 
-### 25. Discharge of trustee[^key-cac2f4e2ea58fef227f3544f201e6d0a]
+### 25. Discharge of trustee[^c-cac2f4e2ea58fef227f3544f201e6d0a]
 
 (1) This regulation applies where a trustee under a protected trust deed has made the final distribution of the trust estate among the creditors.
 
@@ -529,7 +529,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 (9) Where the trustee’s discharge is granted under this regulation, the discharge also applies as regards any previous trustee under the trust deed unless, under regulation 28, a person with an interest obtains an order to the contrary from the sheriff.
 
-### 26. Electronic delivery of notices etc.[^key-5b6e13f5a7d55ebb0f91559f9dabe89f]
+### 26. Electronic delivery of notices etc.[^c-5b6e13f5a7d55ebb0f91559f9dabe89f]
 
 (1) Any notice or document authorised or required under these Regulations may be given, delivered or sent by electronic means, provided the intended recipient has—
 
@@ -547,7 +547,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 ## PART 5 — APPEALS AND DIRECTIONS
 
-### 27. Appeal[^key-5a06e031ee28943138dd265411160cfd]
+### 27. Appeal[^c-5a06e031ee28943138dd265411160cfd]
 
 (1) The persons mentioned in paragraph (2) may appeal to the sheriff by way of summary application against—
 
@@ -575,7 +575,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 (7) The decision of the sheriff on an appeal under this regulation is final.
 
-### 28. Sheriff’s direction[^key-c18ba75b1a319c77c0eda9388a6605ff]
+### 28. Sheriff’s direction[^c-c18ba75b1a319c77c0eda9388a6605ff]
 
 (1) Any person with an interest may at any time apply to the sheriff for a direction as regards the administration of the trust deed.
 
@@ -588,7 +588,7 @@ The trustee under a protected trust deed must retain the following documents (or
 
 ## PART 6 — FEES AMENDMENTS, REVOCATIONS, SAVINGS AND TRANSITIONALS
 
-### 29. Amendment of the Bankruptcy Fees etc. (Scotland) Regulations 2012[^key-1e55cfe8c5b76d846062a872543258ef]
+### 29. Amendment of the Bankruptcy Fees etc. (Scotland) Regulations 2012[^c-1e55cfe8c5b76d846062a872543258ef]
 
 (1) The Bankruptcy Fees etc. (Scotland) Regulations 2012[^f00017] are amended as follows.
 
@@ -606,14 +606,14 @@ The trustee under a protected trust deed must retain the following documents (or
 >
 > [^f00018]
 
-### 30. Revocation[^key-715b739ea74bfd7f06b9f93ba61fb036]
+### 30. Revocation[^c-715b739ea74bfd7f06b9f93ba61fb036]
 
 These instruments are revoked—
 
 - (a) the 2008 Regulations[^f00019]; and
 - (b) the Protected Trust Deeds (Scotland) Amendment Regulations 2010[^f00020].
 
-### 31. Saving and transitional[^key-438636f2ad3f934f68db6c3109d8ba98]
+### 31. Saving and transitional[^c-438636f2ad3f934f68db6c3109d8ba98]
 
 (1) Notwithstanding revocation of the 2008 Regulations by regulation 30, the revoked Regulations continue to apply to any trust deed granted before 28th November 2013.
 
@@ -629,7 +629,7 @@ Edinburgh
 
 6th November 2013
 
-## SCHEDULE — LIST OF FORMS TO BE USED IN CONNECTION WITH PROTECTED TRUST DEEDS[^key-d01417bd7c3816c23167c5a3c19070ed]
+## SCHEDULE — LIST OF FORMS TO BE USED IN CONNECTION WITH PROTECTED TRUST DEEDS[^c-d01417bd7c3816c23167c5a3c19070ed]
 
 Regulation 2(2)
 
@@ -639,9 +639,9 @@ Regulation 2(2)
 | 1A | Consents required for exclusion of a secured creditor from a protected trust deed | Regulation 6(b) |
 | 1B | Agreement in respect of heritable property | Regulation 15(2) |
 | 2 | Statement of claim by creditors in trust deed | Regulation 10(1)(b) |
-| 2A[^key-cb194eb2ed9aa475799b1c4a1c668cf8] | Income and expenditure | Regulation 10(1)(d)(ii) |
+| 2A[^c-cb194eb2ed9aa475799b1c4a1c668cf8] | Income and expenditure | Regulation 10(1)(d)(ii) |
 | 3 | Trust deed protection proposal and trustee’s application | Regulation 10(1)(e) and 11(1)(g) |
-| 4 | Trustee’s annual statement report on protected trust deed management[^key-2c99d1e4fc28f8526939881b96e7e6f2] | Regulation 21(2) |
+| 4 | Trustee’s annual statement report on protected trust deed management[^c-2c99d1e4fc28f8526939881b96e7e6f2] | Regulation 21(2) |
 | 4A | Employee’s payment instruction to employer | Regulation 14(2) |
 | 4B | Trustee’s payment instruction to employer | Regulation 14(3) |
 | 4C | Payment variation instruction to employer | Regulation 14(9) |
@@ -665,15 +665,15 @@ Form 2
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_007)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_008)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_009)
 
-[^key-6c59b2e66364acfc7af358a8d4f52e8f]Form 2A
+[^c-6c59b2e66364acfc7af358a8d4f52e8f]Form 2A
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_002.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_004.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_005.gif)
 
-[^key-3d5dc55bd2cfc1432f7d092643a794aa]Form 3
+[^c-3d5dc55bd2cfc1432f7d092643a794aa]Form 3
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_007.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_008.gif)
 
-[^key-9a40b6e07212148f40a620b47a9c4d9e]Form 4
+[^c-9a40b6e07212148f40a620b47a9c4d9e]Form 4
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_022.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_023.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_024.gif)
 
@@ -689,15 +689,15 @@ Form 4C
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_020)
 
-[^key-3e7b44afedfc278214362902529ca6b8]Form 5
+[^c-3e7b44afedfc278214362902529ca6b8]Form 5
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_025.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_026.gif)
 
-[^key-b4c2688480ed4ff9466c42e2ae49b2b8]Form 6
+[^c-b4c2688480ed4ff9466c42e2ae49b2b8]Form 6
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_027.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_028.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_029.gif)
 
-[^key-bc09a7b0c824d2c3511c6eeb3849f1fc]Form 7
+[^c-bc09a7b0c824d2c3511c6eeb3849f1fc]Form 7
 
 [image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_030.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_031.gif)[image: see source](https://www.legislation.gov.uk/ssi/2013/318/images/ssi_20130318_en_epp_032.gif)
 
@@ -748,101 +748,101 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^f00002]: Footnote: Section 72(2) has been modified by paragraph 5(2) of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) (“the 2010 Act”). The powers to make these Regulations are exercised together by virtue of section 33(2) of the 2010 Act. The Regulations are subject to the affirmative procedure by virtue of section 33(3) of the 2010 Act.
 
-[^key-44b2a14f551799de1ff0a76fa16ad0d4]: Commencement: Reg. 1 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-44b2a14f551799de1ff0a76fa16ad0d4]: Commencement: Reg. 1 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-ed632dd27269af3a4d0c691badcf5914]: Commencement: Reg. 2 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-ed632dd27269af3a4d0c691badcf5914]: Commencement: Reg. 2 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2008/143](https://www.legislation.gov.uk/ssi/2008/143), amended by [S.S.I. 2010/398](https://www.legislation.gov.uk/ssi/2010/398).
 
 [^f00004]: Footnote: The Money Advice Trust is a company registered in England and Wales with registered number 4741583, registered charity in England and Wales registration number 1099506. Available atwww.cfs.moneyadvicetrust.org
 
-[^key-4663ab61f8217ac1b9e1e9d97b03f5c4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/318/regulation/2) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-4663ab61f8217ac1b9e1e9d97b03f5c4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/318/regulation/2) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
 [^f00005]: Footnote: OJ L 160, 30.6.2000, p.1.
 
-[^key-be555d27e1a555fe4c87bb42b52a53e7]: Commencement: Reg. 3 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-be555d27e1a555fe4c87bb42b52a53e7]: Commencement: Reg. 3 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-2884e6497672cc033d83a13a7f6a27cb]: Commencement: Reg. 4 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-2884e6497672cc033d83a13a7f6a27cb]: Commencement: Reg. 4 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00006]: Footnote: [1907 c.24](https://www.legislation.gov.uk/ukpga/1907/24).
 
 [^f00007]: Footnote: Section 58A was inserted by the Bankruptcy (Scotland) Act [1993 (c.6)](https://www.legislation.gov.uk/ukpga/1993/6), Schedule 1, paragraph 16.
 
-[^key-0b14250b4a1492c23ee87fb06bdab74c]: Commencement: Reg. 5 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-0b14250b4a1492c23ee87fb06bdab74c]: Commencement: Reg. 5 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-68658ee4a9f653724fea31d838d0515d]: Commencement: Reg. 6 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-68658ee4a9f653724fea31d838d0515d]: Commencement: Reg. 6 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00008]: Footnote: Section 5(4A)(b) was inserted by section 10(1) of the Home Owner and Debtor Protection (Scotland) Act [2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6).
 
-[^key-79bfc19d5199ad72dcf8e0f6725e9424]: Commencement: Reg. 7 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-79bfc19d5199ad72dcf8e0f6725e9424]: Commencement: Reg. 7 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-9de6f402cb856e7613e335a3baaef16a]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/ssi/2013/318/regulation/7/1/c) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/2) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-9de6f402cb856e7613e335a3baaef16a]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/ssi/2013/318/regulation/7/1/c) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/2) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
 [^f00009]: Footnote: asp 17. Section 10(5) is prospectively amended by the Child Maintenance and Other Payments Act [2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6), Schedule 7, paragraph 5 and [S.S.I. 2012/301](https://www.legislation.gov.uk/ssi/2012/301), Schedule 1, paragraph 2.
 
-[^key-2e75df1efc4d4cf712531580af53e98f]: Commencement: Reg. 8 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-2e75df1efc4d4cf712531580af53e98f]: Commencement: Reg. 8 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-43ab54a5bda97479cf4d89dc35d7a7ee]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2013/318/regulation/8/1) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/3/a) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-43ab54a5bda97479cf4d89dc35d7a7ee]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2013/318/regulation/8/1) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/3/a) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-1ad3d1113034af946f503ef26c4e8919]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/ssi/2013/318/regulation/8/5) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/3/b) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-1ad3d1113034af946f503ef26c4e8919]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/ssi/2013/318/regulation/8/5) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/3/b) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-268060cbc7aabe504c056ba5222970fc]: Commencement: Reg. 9 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-268060cbc7aabe504c056ba5222970fc]: Commencement: Reg. 9 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-df8eb31d6081209626c5294d977596b5]: Commencement: Reg. 10 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-df8eb31d6081209626c5294d977596b5]: Commencement: Reg. 10 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-a29214b3c33e41ae43db42bc98d7069b]: Textual amendment: Words in [reg. 10(1)(d)(ii)](https://www.legislation.gov.uk/ssi/2013/318/regulation/10/1/d/ii) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/4) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-a29214b3c33e41ae43db42bc98d7069b]: Textual amendment: Words in [reg. 10(1)(d)(ii)](https://www.legislation.gov.uk/ssi/2013/318/regulation/10/1/d/ii) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/4) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-94eb52afebca5701bca024325916b977]: Commencement: Reg. 11 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-94eb52afebca5701bca024325916b977]: Commencement: Reg. 11 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-fd2dee6ad14aa09a29cc2742f6617795]: Textual amendment: [Reg. 11(1)(h)](https://www.legislation.gov.uk/ssi/2013/318/regulation/11/1/h) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(5)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/5) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
+[^c-fd2dee6ad14aa09a29cc2742f6617795]: Textual amendment: [Reg. 11(1)(h)](https://www.legislation.gov.uk/ssi/2013/318/regulation/11/1/h) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(5)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/5) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
 
-[^key-ef571fbb3bc5c5688fed88f0aacd80f9]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/ssi/2013/318/regulation/11/2/c) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(6)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/6) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-ef571fbb3bc5c5688fed88f0aacd80f9]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/ssi/2013/318/regulation/11/2/c) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [7(6)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/6) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-6548a1d3dd7d472910213c4fe10414c0]: Commencement: Reg. 12 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-6548a1d3dd7d472910213c4fe10414c0]: Commencement: Reg. 12 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-3867aaf6c10388f2ed87834803990cf2]: Commencement: Reg. 13 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-3867aaf6c10388f2ed87834803990cf2]: Commencement: Reg. 13 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00010]: Footnote: [1987 c.18](https://www.legislation.gov.uk/ukpga/1987/18).
 
-[^key-95e225acb9c1511c8489812ab67f148d]: Commencement: Reg. 14 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-95e225acb9c1511c8489812ab67f148d]: Commencement: Reg. 14 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00011]: Footnote: [1987 c.18](https://www.legislation.gov.uk/ukpga/1987/18).
 
-[^key-e2792a2b671cc8ac6f71454aaeb7c9db]: Commencement: Reg. 15 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-e2792a2b671cc8ac6f71454aaeb7c9db]: Commencement: Reg. 15 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-8d09670941b6ca1d087f7b898cdb7d52]: Commencement: Reg. 16 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-8d09670941b6ca1d087f7b898cdb7d52]: Commencement: Reg. 16 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-0cc69ea3e3b076dd9090f68caf91028a]: Commencement: Reg. 17 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-0cc69ea3e3b076dd9090f68caf91028a]: Commencement: Reg. 17 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-21ac01f28a3b6ab87c08d2bf25207f10]: Commencement: Reg. 18 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-21ac01f28a3b6ab87c08d2bf25207f10]: Commencement: Reg. 18 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-8e1c4db6df6438ce0c98338902994fd1]: Commencement: Reg. 19 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-8e1c4db6df6438ce0c98338902994fd1]: Commencement: Reg. 19 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-ffc5b7a01585e9044daabf1aa375ab1d]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/ssi/2013/318/regulation/19/5) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/1) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-ffc5b7a01585e9044daabf1aa375ab1d]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/ssi/2013/318/regulation/19/5) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/1) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-b2e1b7fdeed0e104b02becfee2c159ff]: Commencement: Reg. 20 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-b2e1b7fdeed0e104b02becfee2c159ff]: Commencement: Reg. 20 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-e51ecc1bf7b694d12fa4777a9be87f8e]: Commencement: Reg. 21 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-e51ecc1bf7b694d12fa4777a9be87f8e]: Commencement: Reg. 21 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-ccbc65619f29b146c71c8d6177e6606b]: Textual amendment: [Reg. 21(2A)](https://www.legislation.gov.uk/ssi/2013/318/regulation/21/2A) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [8(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/1) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
+[^c-ccbc65619f29b146c71c8d6177e6606b]: Textual amendment: [Reg. 21(2A)](https://www.legislation.gov.uk/ssi/2013/318/regulation/21/2A) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [8(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/1) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
 
-[^key-492aafce41eac4393cfda5aa398584b8]: Commencement: Reg. 22 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-492aafce41eac4393cfda5aa398584b8]: Commencement: Reg. 22 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-cc41a2dbd40a8a8579abd4547cba84e9]: Commencement: Reg. 23 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-cc41a2dbd40a8a8579abd4547cba84e9]: Commencement: Reg. 23 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-adc21c516f62b2073697173e7bae710b]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/1) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/2) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-adc21c516f62b2073697173e7bae710b]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/1) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/2) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-1391075513605a0a24677444e85f8a93]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/1/c) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [9](https://www.legislation.gov.uk/ssi/2014/290/regulation/9) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
+[^c-1391075513605a0a24677444e85f8a93]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/1/c) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [9](https://www.legislation.gov.uk/ssi/2014/290/regulation/9) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
 
-[^key-3f18060adc98f75d2160d78a09906f7a]: Textual amendment: Words in [reg. 23(3)(a)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/3/a) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/2) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-3f18060adc98f75d2160d78a09906f7a]: Textual amendment: Words in [reg. 23(3)(a)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/3/a) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/2) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-11544391f3bea7863a5768671e6f65b9]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/7) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(3)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-11544391f3bea7863a5768671e6f65b9]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/ssi/2013/318/regulation/23/7) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(3)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-7e6214ab95f9d68332252566c8ef7a02]: Commencement: Reg. 24 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-7e6214ab95f9d68332252566c8ef7a02]: Commencement: Reg. 24 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-c7c68525762a081e01fdc6b3397d36ec]: Textual amendment: Word in [reg. 24(5)](https://www.legislation.gov.uk/ssi/2013/318/regulation/24/5) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(4)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/4) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-c7c68525762a081e01fdc6b3397d36ec]: Textual amendment: Word in [reg. 24(5)](https://www.legislation.gov.uk/ssi/2013/318/regulation/24/5) inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(4)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/4) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-f2173ea349f66ff9e5158184c3a13dcd]: Textual amendment: Words in [reg. 24(8)](https://www.legislation.gov.uk/ssi/2013/318/regulation/24/8) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-f2173ea349f66ff9e5158184c3a13dcd]: Textual amendment: Words in [reg. 24(8)](https://www.legislation.gov.uk/ssi/2013/318/regulation/24/8) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
 [^f00013]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73(f) was amended by the Education (Graduate Endowment and Student Support) (Scotland) Act [2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6), section 3(2). Section 73B was inserted by the Teaching and Higher Education Act [1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30), section 29(2).
 
@@ -852,42 +852,42 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^f00016]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760).
 
-[^key-cac2f4e2ea58fef227f3544f201e6d0a]: Commencement: Reg. 25 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-cac2f4e2ea58fef227f3544f201e6d0a]: Commencement: Reg. 25 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-5b6e13f5a7d55ebb0f91559f9dabe89f]: Commencement: Reg. 26 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-5b6e13f5a7d55ebb0f91559f9dabe89f]: Commencement: Reg. 26 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-5a06e031ee28943138dd265411160cfd]: Commencement: Reg. 27 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-5a06e031ee28943138dd265411160cfd]: Commencement: Reg. 27 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-c18ba75b1a319c77c0eda9388a6605ff]: Commencement: Reg. 28 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-c18ba75b1a319c77c0eda9388a6605ff]: Commencement: Reg. 28 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-1e55cfe8c5b76d846062a872543258ef]: Commencement: Reg. 29 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-1e55cfe8c5b76d846062a872543258ef]: Commencement: Reg. 29 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00017]: Footnote: [S.S.I. 2012/118](https://www.legislation.gov.uk/ssi/2012/118).
 
 [^f00018]: Footnote: Under regulation 9 of these Regulations.
 
-[^key-715b739ea74bfd7f06b9f93ba61fb036]: Commencement: Reg. 30 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-715b739ea74bfd7f06b9f93ba61fb036]: Commencement: Reg. 30 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
 [^f00019]: Footnote: [S.S.I. 2008/143](https://www.legislation.gov.uk/ssi/2008/143), amended and partially revoked by [S.S.I. 2010/398](https://www.legislation.gov.uk/ssi/2010/398).
 
 [^f00020]: Footnote: [S.S.I. 2010/398](https://www.legislation.gov.uk/ssi/2010/398).
 
-[^key-438636f2ad3f934f68db6c3109d8ba98]: Commencement: Reg. 31 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-438636f2ad3f934f68db6c3109d8ba98]: Commencement: Reg. 31 in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-d01417bd7c3816c23167c5a3c19070ed]: Commencement: Sch. in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
+[^c-d01417bd7c3816c23167c5a3c19070ed]: Commencement: Sch. in force at 28.11.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1)
 
-[^key-cb194eb2ed9aa475799b1c4a1c668cf8]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) table of forms inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/5/a) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-cb194eb2ed9aa475799b1c4a1c668cf8]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) table of forms inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/5/a) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-2c99d1e4fc28f8526939881b96e7e6f2]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) table of forms substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/a)
+[^c-2c99d1e4fc28f8526939881b96e7e6f2]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) table of forms substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/a)
 
-[^key-6c59b2e66364acfc7af358a8d4f52e8f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 2A inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/5/b), [sch.](https://www.legislation.gov.uk/ssi/2014/290/schedule) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
+[^c-6c59b2e66364acfc7af358a8d4f52e8f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 2A inserted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/5/b), [sch.](https://www.legislation.gov.uk/ssi/2014/290/schedule) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11))
 
-[^key-3d5dc55bd2cfc1432f7d092643a794aa]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 3 substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(5)(c)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/5/c), [sch.](https://www.legislation.gov.uk/ssi/2014/290/schedule) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended to insert the words “or engaged” after “employed” in Note 2 by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(8)(a)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
+[^c-3d5dc55bd2cfc1432f7d092643a794aa]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 3 substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Regulations 2014 (S.S.I. 2014/290)](https://www.legislation.gov.uk/ssi/2014/290), [regs. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1), [10(5)(c)](https://www.legislation.gov.uk/ssi/2014/290/regulation/10/5/c), [sch.](https://www.legislation.gov.uk/ssi/2014/290/schedule) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11)) (as amended to insert the words “or engaged” after “employed” in Note 2 by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(8)(a)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4))
 
-[^key-9a40b6e07212148f40a620b47a9c4d9e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 4 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/i), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
+[^c-9a40b6e07212148f40a620b47a9c4d9e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 4 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/i), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
 
-[^key-3e7b44afedfc278214362902529ca6b8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 5 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/ii), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
+[^c-3e7b44afedfc278214362902529ca6b8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 5 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/ii), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
 
-[^key-b4c2688480ed4ff9466c42e2ae49b2b8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 6 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/iii), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
+[^c-b4c2688480ed4ff9466c42e2ae49b2b8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 6 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/iii), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
 
-[^key-bc09a7b0c824d2c3511c6eeb3849f1fc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 7 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/iv), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)
+[^c-bc09a7b0c824d2c3511c6eeb3849f1fc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/318/schedule) Form 7 substituted (30.11.2016) by [The Protected Trust Deeds (Scotland) Amendment Regulations 2016 (S.S.I. 2016/399)](https://www.legislation.gov.uk/ssi/2016/399), [regs. 1](https://www.legislation.gov.uk/ssi/2016/399/regulation/1), [2(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2016/399/regulation/2/2/b/iv), [sch.](https://www.legislation.gov.uk/ssi/2016/399/schedule)

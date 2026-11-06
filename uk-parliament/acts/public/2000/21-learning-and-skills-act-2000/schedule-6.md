@@ -16,98 +16,98 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — The Adult Learning Inspectorate[^key-c6f46176b1fbb54f5808ed93c69f666a]
+## SCHEDULE 6 — The Adult Learning Inspectorate[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 *Extent: E+W*
 
 Section 52.
 
-### Tenure of members[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Tenure of members[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**1.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Salaries, pensions, Et ceteralaetc[^key-c6f46176b1fbb54f5808ed93c69f666a]
-
-**No longer in force.**
-
-**3.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Staff[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Salaries, pensions, Et ceteralaetc[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**4.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Committees[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Staff[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**7.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary powers[^key-c6f46176b1fbb54f5808ed93c69f666a]
+**5.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+**6.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Delegation of functions[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Committees[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**9.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Members’ interests[^key-c6f46176b1fbb54f5808ed93c69f666a]
-
-**No longer in force.**
-
-**10.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Proceedings[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Supplementary powers[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**11.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Seal and proof of instruments[^key-c6f46176b1fbb54f5808ed93c69f666a]
-
-**No longer in force.**
-
-**12.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Accounts[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Delegation of functions[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**14.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Financial year of the Inspectorate[^key-c6f46176b1fbb54f5808ed93c69f666a]
-
-**No longer in force.**
-
-**15.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Inspectorate’s status[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Members’ interests[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**16.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### House of Commons disqualification[^key-c6f46176b1fbb54f5808ed93c69f666a]
+### Proceedings[^c-c6f46176b1fbb54f5808ed93c69f666a]
 
 **No longer in force.**
 
-**17.**[^key-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Seal and proof of instruments[^c-c6f46176b1fbb54f5808ed93c69f666a]
+
+**No longer in force.**
+
+**12.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts[^c-c6f46176b1fbb54f5808ed93c69f666a]
+
+**No longer in force.**
+
+**14.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Financial year of the Inspectorate[^c-c6f46176b1fbb54f5808ed93c69f666a]
+
+**No longer in force.**
+
+**15.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Inspectorate’s status[^c-c6f46176b1fbb54f5808ed93c69f666a]
+
+**No longer in force.**
+
+**16.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### House of Commons disqualification[^c-c6f46176b1fbb54f5808ed93c69f666a]
+
+**No longer in force.**
+
+**17.**[^c-c6f46176b1fbb54f5808ed93c69f666a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6f46176b1fbb54f5808ed93c69f666a]: Textual amendment: Sch. 6 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 65](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/65), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-c6f46176b1fbb54f5808ed93c69f666a]: Textual amendment: Sch. 6 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 65](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/65), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)

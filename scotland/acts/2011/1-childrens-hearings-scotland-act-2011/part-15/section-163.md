@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Appeals to sheriff principal and Court of Session: children's hearings etc.[^key-27f20fae72312c9006a5fde65e852706]
+## 163. Appeals to sheriff principal and Court of Session: children's hearings etc.[^c-27f20fae72312c9006a5fde65e852706]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f20fae72312c9006a5fde65e852706]: Commencement: S. 163 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-27f20fae72312c9006a5fde65e852706]: Commencement: S. 163 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

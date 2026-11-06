@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Company names: exceptions based on national security etc[^key-580e9472d005f25a28ce6df105e1d78f][^key-87f87a662e5e331330ef7e210a9ce885]
+## 22. Company names: exceptions based on national security etc[^c-580e9472d005f25a28ce6df105e1d78f][^c-87f87a662e5e331330ef7e210a9ce885]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ After section 76D of the Companies Act 2006 (inserted by section 20 of this Act)
 
 ## Annotations
 
-[^key-580e9472d005f25a28ce6df105e1d78f]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-580e9472d005f25a28ce6df105e1d78f]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-87f87a662e5e331330ef7e210a9ce885]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/56/section/22) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/a)
+[^c-87f87a662e5e331330ef7e210a9ce885]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/56/section/22) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/a)

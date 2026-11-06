@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Premises manager, staff etc. not to be drunk[^key-b6afddd9eca2600fa74a66c7e89fa7cb]
+## 114. Premises manager, staff etc. not to be drunk[^c-b6afddd9eca2600fa74a66c7e89fa7cb]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6afddd9eca2600fa74a66c7e89fa7cb]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2005/16/section/114) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-b6afddd9eca2600fa74a66c7e89fa7cb]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2005/16/section/114) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

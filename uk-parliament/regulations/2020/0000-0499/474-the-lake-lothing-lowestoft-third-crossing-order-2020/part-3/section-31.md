@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Application of the 1981 Act[^key-de6f75e7b45a84ec29722d4d7dfff4c8]
+## 31. Application of the 1981 Act[^c-de6f75e7b45a84ec29722d4d7dfff4c8]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-de6f75e7b45a84ec29722d4d7dfff4c8]: Commencement: Art. 31 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-de6f75e7b45a84ec29722d4d7dfff4c8]: Commencement: Art. 31 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091301]: Marginal citation: [Section 5A](https://www.legislation.gov.uk/uksi/2020/474/section/5A) was inserted by section 182(2) of the Housing and Planning 2016.
 

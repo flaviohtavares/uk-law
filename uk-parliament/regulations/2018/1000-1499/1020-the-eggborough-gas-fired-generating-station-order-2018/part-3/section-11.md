@@ -48,8 +48,8 @@ summary: ''
 
 (11) The undertaker may not exercise the powers of paragraph (7) of this article after the completion of construction of the authorised development.
 
-(12) The powers in paragraph (7) are subject to Part 3 (for the protection of Canal and River Trust)[^key-6dd93656f5fb746e47fc021ec5c4d979] of Schedule 12.
+(12) The powers in paragraph (7) are subject to Part 3 (for the protection of Canal and River Trust)[^c-6dd93656f5fb746e47fc021ec5c4d979] of Schedule 12.
 
 ## Annotations
 
-[^key-6dd93656f5fb746e47fc021ec5c4d979]: Textual amendment: Words in [art. 11(12)](https://www.legislation.gov.uk/uksi/2018/1020/article/11/12) substituted (7.12.2018) by [The Eggborough Gas Fired Generating Station (Correction) Order 2018 (S.I. 2018/1312)](https://www.legislation.gov.uk/uksi/2018/1312), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1312/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1312/schedule)
+[^c-6dd93656f5fb746e47fc021ec5c4d979]: Textual amendment: Words in [art. 11(12)](https://www.legislation.gov.uk/uksi/2018/1020/article/11/12) substituted (7.12.2018) by [The Eggborough Gas Fired Generating Station (Correction) Order 2018 (S.I. 2018/1312)](https://www.legislation.gov.uk/uksi/2018/1312), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1312/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1312/schedule)

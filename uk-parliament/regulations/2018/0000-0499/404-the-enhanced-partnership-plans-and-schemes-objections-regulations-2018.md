@@ -44,11 +44,11 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 In accordance with section 160(2A) of that Act, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation and commencement[^key-2a051e4775dda1d8019f84d608b6b93c]
+## 1. Citation and commencement[^c-2a051e4775dda1d8019f84d608b6b93c]
 
 These Regulations may be cited as the Enhanced Partnership Plans and Schemes (Objections) Regulations 2018 and come into force on 6th April 2018.
 
-## 2. Interpretation[^key-e70c9dbbba478ad511b9e619b5b00f15]
+## 2. Interpretation[^c-e70c9dbbba478ad511b9e619b5b00f15]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ These Regulations may be cited as the Enhanced Partnership Plans and Schemes (Ob
 
 (2) References to sections in these Regulations are, unless otherwise stated, to sections of the Transport Act 2000.
 
-## 3. Meaning of “qualifying local service”[^key-9f18a0ac32d91760bddc4050b6da2fa4]
+## 3. Meaning of “qualifying local service”[^c-9f18a0ac32d91760bddc4050b6da2fa4]
 
 (1) A local service is a qualifying local service for the purposes of these Regulations if it —
 
@@ -83,35 +83,35 @@ These Regulations may be cited as the Enhanced Partnership Plans and Schemes (Ob
 - (c) a service in respect of which a community bus permit has been granted under section 22 of the 1985 Act[^f00009]; or
 - (d) a service which is a local service for 10% or less of the overall distance covered by the service.
 
-## 4. Objections to proposal to make a plan or scheme[^key-63fc565ba6a7d3b04765918d00ecbc7d]
+## 4. Objections to proposal to make a plan or scheme[^c-63fc565ba6a7d3b04765918d00ecbc7d]
 
 If an operator of a qualifying local service to which notice has been given under section 138F(1)(c) (notice of plan and scheme prepared) makes an objection to the plan or scheme, the objection must be made in accordance with regulation 9.
 
-## 5. Objections to the making of a plan or scheme with modifications[^key-656b7fca1693d346b189ca9ec84fac3d]
+## 5. Objections to the making of a plan or scheme with modifications[^c-656b7fca1693d346b189ca9ec84fac3d]
 
 If an operator of a qualifying local service to which notice has been given under section 138G(2) (notice of making plan and scheme with modifications) makes an objection to the plan or scheme, the objection must be made in accordance with regulation 9.
 
-## 6. Objections to proposal to make changes to a plan or scheme[^key-da67bdc9d38d86a82818bd2f52141a61]
+## 6. Objections to proposal to make changes to a plan or scheme[^c-da67bdc9d38d86a82818bd2f52141a61]
 
 If an operator of a qualifying local service to which notice has been given under section 138L(1)(c) (notice of changes to plan or scheme) makes an objection to the changes prepared for the plan or scheme, the objection must be made in accordance with regulation 9.
 
-## 7. Objections to the variation of a plan or scheme[^key-09a7532b25f69dddc7982b0de8f2baaa]
+## 7. Objections to the variation of a plan or scheme[^c-09a7532b25f69dddc7982b0de8f2baaa]
 
 (1) For the purposes of section 138M, the qualifying time is the working day immediately before the day on which notice is given under section 138M(3) (notice to operators of qualifying local services of intention to vary plan or scheme).
 
-(2)[^key-c16ae297c2d8100597949dbd745613a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c16ae297c2d8100597949dbd745613a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If an operator of a qualifying local service to which notice has been given under section 138M(3) makes an objection to the proposed variation of the plan or scheme, the objection must be made in accordance with regulation 9.
 
-## 8. Objections to the revocation of a plan or scheme[^key-11fdf7aefdf095e7bc403e943ffb7ab0]
+## 8. Objections to the revocation of a plan or scheme[^c-11fdf7aefdf095e7bc403e943ffb7ab0]
 
 (1) For the purposes of section 138O, the qualifying time is the working day immediately before the day on which notice is given under section 138O(6) (notice to operators of qualifying local services of intention to revoke the plan or scheme).
 
-(2)[^key-5f08a26184c8a86c94feb9c70237b016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5f08a26184c8a86c94feb9c70237b016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If an operator of a qualifying local service to which notice has been given under section 138O(6) makes an objection to the revocation of the plan or scheme, the objection must be made in accordance with regulation 9.
 
-## 9. Means of making objections[^key-2b981054d37ce460f885d94ac746b1d4]
+## 9. Means of making objections[^c-2b981054d37ce460f885d94ac746b1d4]
 
 Any objection made under regulation 4, 5, 6, 7(3) or 8(3) must be—
 
@@ -121,13 +121,13 @@ Any objection made under regulation 4, 5, 6, 7(3) or 8(3) must be—
   - (ii) by electronic means to an electronic address specified in the notice as an address to which objections may be sent; and
 - (c) accompanied by information about the registered distance of all qualifying local services which the operator operates in the relevant area.
 
-## 10. Publication of names of operators making an objection[^key-2882dc92bf9f29b138fc4e30d0bc95c9]
+## 10. Publication of names of operators making an objection[^c-2882dc92bf9f29b138fc4e30d0bc95c9]
 
 (1) An authority must publish the name of any operator who makes an objection under regulation 4, 5, 6, 7(3) or 8(3) within 14 days of the last day of the period during which objections may be made.
 
 (2) The name of any operator to be published under paragraph (1) must be the name in which the local service operated by the operator is registered with the traffic commissioner by virtue of section 6 of the 1985 Act.
 
-## 11. Sufficient number[^key-5d939a4ed66d4312ed874a2fc76485f3]
+## 11. Sufficient number[^c-5d939a4ed66d4312ed874a2fc76485f3]
 
 (1) For the purposes of sections 138F(5), 138G(4) and 138L(5), the number of persons who, on the relevant day[^f00010], were operators of qualifying local services in the relevant area and who have objected under regulation 4, 5 or 6 is a sufficient number if either paragraph (4) or (5) applies.
 
@@ -186,9 +186,9 @@ A full impact assessment has not been published for these Regulations. However, 
 
 [^f00001]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38). Sections 138A to 138S are inserted by section 9 of the Bus Services Act [2017 (c.21)](https://www.legislation.gov.uk/ukpga/2017/21).
 
-[^key-2a051e4775dda1d8019f84d608b6b93c]: Commencement: Reg. 1 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-2a051e4775dda1d8019f84d608b6b93c]: Commencement: Reg. 1 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-e70c9dbbba478ad511b9e619b5b00f15]: Commencement: Reg. 2 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-e70c9dbbba478ad511b9e619b5b00f15]: Commencement: Reg. 2 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
 [^f00002]: Footnote: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
 
@@ -202,31 +202,31 @@ A full impact assessment has not been published for these Regulations. However, 
 
 [^f00007]: Footnote: “Enhanced partnership scheme” is defined in sections 138A(5) and 162 of the Transport Act 2000.
 
-[^key-9f18a0ac32d91760bddc4050b6da2fa4]: Commencement: Reg. 3 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-9f18a0ac32d91760bddc4050b6da2fa4]: Commencement: Reg. 3 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
 [^f00008]: Footnote: Sections 89 to 91 deal with an authority’s obligation to invite tenders for subsidised services. Section 89 is amended by Schedule 1 to the Statute Law Repeals Act [1995 (c.44)](https://www.legislation.gov.uk/ukpga/1995/44), section 10 of the Local Transport Act 2008, section 152 to, and Schedule 31 to, the Transport Act 2000 and section 60 of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1). Section 90 is amended by section 70 of the Local Transport Act 2008, section 152 of the Transport Act 2000 and section 60 of the Local Government in Scotland Act 2003.
 
 [^f00009]: Footnote: Section 22 is amended by Schedule 7 to the Local Transport Act 2008 and by [S.I. 2013/1644](https://www.legislation.gov.uk/uksi/2013/1644).
 
-[^key-63fc565ba6a7d3b04765918d00ecbc7d]: Commencement: Reg. 4 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-63fc565ba6a7d3b04765918d00ecbc7d]: Commencement: Reg. 4 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-656b7fca1693d346b189ca9ec84fac3d]: Commencement: Reg. 5 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-656b7fca1693d346b189ca9ec84fac3d]: Commencement: Reg. 5 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-da67bdc9d38d86a82818bd2f52141a61]: Commencement: Reg. 6 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-da67bdc9d38d86a82818bd2f52141a61]: Commencement: Reg. 6 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-09a7532b25f69dddc7982b0de8f2baaa]: Commencement: Reg. 7 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-09a7532b25f69dddc7982b0de8f2baaa]: Commencement: Reg. 7 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-c16ae297c2d8100597949dbd745613a7]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/404/regulation/7/2) omitted (1.4.2026) by virtue of [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/7), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
+[^c-c16ae297c2d8100597949dbd745613a7]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/404/regulation/7/2) omitted (1.4.2026) by virtue of [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/7), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
 
-[^key-11fdf7aefdf095e7bc403e943ffb7ab0]: Commencement: Reg. 8 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-11fdf7aefdf095e7bc403e943ffb7ab0]: Commencement: Reg. 8 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-5f08a26184c8a86c94feb9c70237b016]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/404/regulation/8/2) omitted (1.4.2026) by virtue of [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/7), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
+[^c-5f08a26184c8a86c94feb9c70237b016]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/404/regulation/8/2) omitted (1.4.2026) by virtue of [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/7), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
 
-[^key-2b981054d37ce460f885d94ac746b1d4]: Commencement: Reg. 9 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-2b981054d37ce460f885d94ac746b1d4]: Commencement: Reg. 9 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-2882dc92bf9f29b138fc4e30d0bc95c9]: Commencement: Reg. 10 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-2882dc92bf9f29b138fc4e30d0bc95c9]: Commencement: Reg. 10 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
-[^key-5d939a4ed66d4312ed874a2fc76485f3]: Commencement: Reg. 11 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
+[^c-5d939a4ed66d4312ed874a2fc76485f3]: Commencement: Reg. 11 in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/404/regulation/1)
 
 [^f00010]: Footnote: “Relevant day” is defined respectively in sections 138F(12), 138G(11) and 138L(10) of the Transport Act 2000.
 

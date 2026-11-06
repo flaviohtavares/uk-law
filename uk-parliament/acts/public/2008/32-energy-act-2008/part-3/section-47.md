@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Prohibition on use of site in absence of approved programme[^key-ab502f39c6885ee9fefb2fd0b094ab5c]
+## 47. Prohibition on use of site in absence of approved programme[^c-ab502f39c6885ee9fefb2fd0b094ab5c]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab502f39c6885ee9fefb2fd0b094ab5c]: Commencement: S. 47 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-ab502f39c6885ee9fefb2fd0b094ab5c]: Commencement: S. 47 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

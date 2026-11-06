@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Complaints by representative bodies[^key-71d1acf79e23587546405d2c85835575]
+## 68. Complaints by representative bodies[^c-71d1acf79e23587546405d2c85835575]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and “**conduct**” includes any failure to act (whether or not intentional) a
 
 ## Annotations
 
-[^key-71d1acf79e23587546405d2c85835575]: Commencement: S. 68 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-71d1acf79e23587546405d2c85835575]: Commencement: S. 68 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

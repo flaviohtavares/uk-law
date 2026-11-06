@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Power to make consequential and transitional provision etc[^key-c02105d577425d755dee4948c2b04f3d]
+## 38. Power to make consequential and transitional provision etc[^c-c02105d577425d755dee4948c2b04f3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ which is passed or made before the end of the Session after that in which this A
 
 ## Annotations
 
-[^key-c02105d577425d755dee4948c2b04f3d]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2007/21/section/38) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/o)
+[^c-c02105d577425d755dee4948c2b04f3d]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2007/21/section/38) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Establishment, Incorporation and Constitution of Building Societies[^c15520741][^key-d3c7e988a46b6a40e88e1e6fc94ee8cf]
+## SCHEDULE 2 — Establishment, Incorporation and Constitution of Building Societies[^c15520741][^c-d3c7e988a46b6a40e88e1e6fc94ee8cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Sections 5, 93, 94 and 97.
 
 - (a) agreeing upon the purpose or principal purpose of the society and upon the extent of its powers in a memorandum the provisions of which comply with the requirements of this Part of this Schedule;
 - (b) agreeing upon rules for the regulation of the society which comply with the requirements of this Part of this Schedule;
-- (c) sending to the FCA[^key-2183edc91419c56b06a1ec084a4837a6] three[^c15520771] copies of the memorandum and the rules, each copy signed by at least ten of those persons (or, if there are only ten, by all of them) and by the intended secretary.
+- (c) sending to the FCA[^c-2183edc91419c56b06a1ec084a4837a6] three[^c15520771] copies of the memorandum and the rules, each copy signed by at least ten of those persons (or, if there are only ten, by all of them) and by the intended secretary.
 
 (2) Where copies of the memorandum and rules are sent to the FCA in accordance with sub-paragraph (1)(c) above, the FCA , if satisfied that—
 
@@ -102,10 +102,10 @@ TABLE OF MATTERS TO BE COVERED BY THE RULES
   - (d) the procedure to be observed at meetings;
   - (e) the form of notice for the convening of a meeting and the manner of its service;
   - (f) the voting rights of members, the right to demand a poll and the manner in which a poll is to be taken.
-- 14\. The entitlement of members to participate in the distribution of any surplus assets after payments to creditors on the dissolution by consent[^key-128ca26b29093b48f17169e03795d9e6] of the society.
-- 15\. The entitlement of members, on the winding up of the society, to participate in the distribution of any surplus assets after payments are made in satisfaction of the society’s liabilities to creditors and shareholding members under the companies winding up legislation as modified by Parts 1 to 3 of Schedule 15 to this Act.[^key-895d219576fcd2871189eec2dac9593e]
+- 14\. The entitlement of members to participate in the distribution of any surplus assets after payments to creditors on the dissolution by consent[^c-128ca26b29093b48f17169e03795d9e6] of the society.
+- 15\. The entitlement of members, on the winding up of the society, to participate in the distribution of any surplus assets after payments are made in satisfaction of the society’s liabilities to creditors and shareholding members under the companies winding up legislation as modified by Parts 1 to 3 of Schedule 15 to this Act.[^c-895d219576fcd2871189eec2dac9593e]
 
-(5)[^key-a17352a3eb2aef9da135691047772a88] Nothing in the rules of a society shall prevent the service of a notice or other document by the society—
+(5)[^c-a17352a3eb2aef9da135691047772a88] Nothing in the rules of a society shall prevent the service of a notice or other document by the society—
 
 - (a) by sending it electronically to an electronic address notified for the purpose in accordance with express provision made by this Act; or
 - (b) by its publication on a web site in accordance with any such provision.
@@ -114,14 +114,14 @@ TABLE OF MATTERS TO BE COVERED BY THE RULES
 
 **4.** (1)[^c15521001] A building society may by special resolution alter its purposes, alter its powers or alter its rules.
 
-(2) Where a building society alters its purpose or powers or its rules under this paragraph, it shall send to the FCA[^key-9f987753c4bbee31fe60781645083892] —
+(2) Where a building society alters its purpose or powers or its rules under this paragraph, it shall send to the FCA[^c-9f987753c4bbee31fe60781645083892] —
 
 - (a) three copies of a record of the alteration signed by the secretary; and
 - (b) a statutory declaration by the secretary that the alteration was effected by a resolution passed as a special resolution and that the record is a true record of the resolution.
 
 (3)[^c15521021] On altering its purpose or powers or its rules under this paragraph the building society shall determine the date on which it intends the alteration to take effect; and the record of the alteration shall specify that date (in this paragraph referred to as “**the specified date**”).
 
-(4) Where copies of a record of an alteration of a building society’s purpose, powers or rules are sent to the FCA[^key-02907f393441d768800f3565bda1b429] under sub-paragraph (2) above and the FCA is satisfied that the alteration is in conformity with this Act and (where applicable) any instruments under it, the FCA shall, subject to paragraph 19[^c15521061] below—
+(4) Where copies of a record of an alteration of a building society’s purpose, powers or rules are sent to the FCA[^c-02907f393441d768800f3565bda1b429] under sub-paragraph (2) above and the FCA is satisfied that the alteration is in conformity with this Act and (where applicable) any instruments under it, the FCA shall, subject to paragraph 19[^c15521061] below—
 
 - (a) retain and register one of the copies,
 - (b) return another to the secretary of the society together with a certificate of registration of the alteration, and
@@ -131,7 +131,7 @@ TABLE OF MATTERS TO BE COVERED BY THE RULES
 
 (6) Any provision in the rules of a building society that the memorandum or rules may be altered without passing a special resolution shall be void.
 
-(7) If a building society arranges for the publication in consolidated form of its rules or memorandum as altered for the time being, it shall send a copy to the FCA[^key-014861af28b5a445197ded701f9edaed] and the FCA —
+(7) If a building society arranges for the publication in consolidated form of its rules or memorandum as altered for the time being, it shall send a copy to the FCA[^c-014861af28b5a445197ded701f9edaed] and the FCA —
 
 - (a) shall keep the copy in the public file of the society, but
 - (b) shall not register the copy.
@@ -174,7 +174,7 @@ TABLE OF MATTERS TO BE COVERED BY THE RULES
 
 (2) In this paragraph, in relation to any shares jointly held, “**representative joint holder**” means that one of the joint holders who is named first in the records of the society.
 
-(3) Except where the rules of the society otherwise provide, any notice or other document may be given or sent by the society to the joint holders by being given or sent to the representative joint holder; but this sub-paragraph shall not prevent any of the joint holders from exercising the rights under this Act of a member of a building society to obtain from the society on demand a copy of [^key-709ea0011dcfc7d424026b64060a4b06]... the annual accounts and the annual business statement.
+(3) Except where the rules of the society otherwise provide, any notice or other document may be given or sent by the society to the joint holders by being given or sent to the representative joint holder; but this sub-paragraph shall not prevent any of the joint holders from exercising the rights under this Act of a member of a building society to obtain from the society on demand a copy of [^c-709ea0011dcfc7d424026b64060a4b06]... the annual accounts and the annual business statement.
 
 (4) For the purpose of determining—
 
@@ -200,7 +200,7 @@ the shares shall be treated as held by the representative joint holder alone; an
 
 (2) In this paragraph, in relation to any rights of theirs as borrowing members, “**representative joint borrowers**” means that one of the joint borrowers who is named first in the records of the society.
 
-(3) Except where the rules of the society otherwise provide, any notice or other document may be given or sent by the society to the joint borrowers by being given or sent to the representative joint borrowers; but this sub-paragraph shall not prevent any of the joint borrowers from exercising the rights under this Act of a borrowing member of a building society to obtain from the society on demand a copy of [^key-e533ff2433679ba46a3abdf1920546dc]... the annual accounts and the annual business statement.
+(3) Except where the rules of the society otherwise provide, any notice or other document may be given or sent by the society to the joint borrowers by being given or sent to the representative joint borrowers; but this sub-paragraph shall not prevent any of the joint borrowers from exercising the rights under this Act of a borrowing member of a building society to obtain from the society on demand a copy of [^c-e533ff2433679ba46a3abdf1920546dc]... the annual accounts and the annual business statement.
 
 (4) For the purpose of determining—
 
@@ -223,7 +223,7 @@ the rights of the joint borrowers as borrowing members of the society shall be t
 
 (2)[^c15521171] Every building society shall paint or affix, and keep painted or affixed, its registered name on the outside of every office or place in which its business is carried on, in a conspicuous position and in letters easily legible.
 
-(2A) Every building society shall state its registered name in legible characters in all of the following documents, in every electronic communication containing any of the following documents and on every web site on which any of the following documents is published,[^key-48fec8120621c8ed311caf44903723fb] namely—
+(2A) Every building society shall state its registered name in legible characters in all of the following documents, in every electronic communication containing any of the following documents and on every web site on which any of the following documents is published,[^c-48fec8120621c8ed311caf44903723fb] namely—
 
 - (a) its business letters;
 - (b) its account statements, including those relating to deposit, share, loan or mortgage accounts;
@@ -236,7 +236,7 @@ the rights of the joint borrowers as borrowing members of the society shall be t
 
 (3) A building society may change its name by special resolution.
 
-(4) Where a society changes its name in accordance with this paragraph notice of the change of name shall be sent to the FCA[^key-a6d65da8d0b58a10ef0a0dbf8e8f193c] and, unless the FCA is of the opinion that the changed name is undesirable, the FCA shall register the notice of the change of name and give the society a certificate of registration.
+(4) Where a society changes its name in accordance with this paragraph notice of the change of name shall be sent to the FCA[^c-a6d65da8d0b58a10ef0a0dbf8e8f193c] and, unless the FCA is of the opinion that the changed name is undesirable, the FCA shall register the notice of the change of name and give the society a certificate of registration.
 
 (5) A change of name shall take effect on the date on which the certificate of registration under sub-paragraph (4) above is issued or on such later date as may be specified in the certificate.
 
@@ -264,7 +264,7 @@ as required by paragraph 9(2) above, the society shall be liable on summary conv
 - (a) he shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale; and
 - (b) he shall be further personally liable to the holder of the bill of exchange, promissory note, cheque or order for money or goods for the amount of it (unless it is duly paid by the building society).
 
-(5) If a building society fails to send to the FCA[^key-a65ffa82ebef648f429a6fedc34338be] a notice which it is required to send to it under paragraph 9(4) above, the society shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale and so shall any officer who is also guilty of the offence.
+(5) If a building society fails to send to the FCA[^c-a65ffa82ebef648f429a6fedc34338be] a notice which it is required to send to it under paragraph 9(4) above, the society shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale and so shall any officer who is also guilty of the offence.
 
 #### Restrictions on business names[^c15521271]
 
@@ -274,20 +274,20 @@ as required by paragraph 9(2) above, the society shall be liable on summary conv
 - (b) its registered name with the omission of the words “Building Society”; and
 - (c) its registered name with an addition which merely indicates that the business is carried on in succession to a former building society with which it has merged.
 
-(2) The society shall not, without the written approval of the FCA[^key-5aa0344c7889c006273e82938e49c021] , carry on business under a name which—
+(2) The society shall not, without the written approval of the FCA[^c-5aa0344c7889c006273e82938e49c021] , carry on business under a name which—
 
 - (a) would be likely to give the impression that the business is connected with Her Majesty’s Government or with any local authority, or
 - (b) includes any word or expression for the time being specified in regulations made under sub-paragraph (3) below.
 
 (3)[^c15521341] The Treasury may[^c15521351], by regulations—
 
-- (a) specify words or expressions for the use of which as or as part of a business name the approval of the FCA[^key-e5f1ff313bfbefbc8312143eaf211d37] is required by sub-paragraph (2) above, and
+- (a) specify words or expressions for the use of which as or as part of a business name the approval of the FCA[^c-e5f1ff313bfbefbc8312143eaf211d37] is required by sub-paragraph (2) above, and
 - (b) in relation to any such word or expression, specify a Government department or other body for the purposes of sub-paragraph (4) below.
 
 (4) Where the society proposes to carry on business under a name which is or includes any such word or expression, and a government department or other body is specified under sub-paragraph (3)(b) above in relation to that word or expression, the society shall—
 
 - (a) request (in writing) the relevant body to indicate whether (and if so why) it has any objections to the proposal, and
-- (b) submit to the FCA[^key-680c2f3b3801a31a96bccfcdf2090db4] a statement that such a request has been made and a copy of any response received from the relevant body.
+- (b) submit to the FCA[^c-680c2f3b3801a31a96bccfcdf2090db4] a statement that such a request has been made and a copy of any response received from the relevant body.
 
 (5) For the purposes of this paragraph “**local authority**” means—
 
@@ -333,7 +333,7 @@ unless the court before which the proceedings are brought is satisfied that it i
 - (a) in such manner as its rules direct, or
 - (b) if there is no such direction in the rules, by an ordinary resolution[^c15521521].
 
-(2) Notice of any such change and of the date of it shall, within seven days after the change, be sent to the FCA[^key-2769adc4921039b7c939171bf5d98ca5] and the FCA shall keep the notice in the public file of the society.
+(2) Notice of any such change and of the date of it shall, within seven days after the change, be sent to the FCA[^c-2769adc4921039b7c939171bf5d98ca5] and the FCA shall keep the notice in the public file of the society.
 
 (3) It is not necessary to alter the memorandum or rules of a building society by reason only that its principal office is changed.
 
@@ -359,10 +359,10 @@ unless the court before which the proceedings are brought is satisfied that it i
 
 **13.** (1)[^c15521581] Every building society shall maintain a register of members showing—
 
-- (a) the name and postal[^key-400128b88886ef60ba9b356351700dbd] address of each member; and
+- (a) the name and postal[^c-400128b88886ef60ba9b356351700dbd] address of each member; and
 - (b) whether each member is a shareholding member or a borrowing member or both.
 
-(1A)[^key-e3e51083920cfb54e60ae2a3bc275b91] Where a member has notified to the building society an electronic address for the purpose of receiving notices or documents required to be sent by the society under this Act, the register shall show—
+(1A)[^c-e3e51083920cfb54e60ae2a3bc275b91] Where a member has notified to the building society an electronic address for the purpose of receiving notices or documents required to be sent by the society under this Act, the register shall show—
 
 - (a) the electronic address in addition to the postal address of the member; and
 - (b) the purposes for which the electronic address has been notified.
@@ -373,8 +373,8 @@ unless the court before which the proceedings are brought is satisfied that it i
 
 (4) For the purposes of this Act “**registered address**” in relation to a member of a building society, means—
 
-- (a) the postal[^key-4c4a000071068860e3e2460ec5c7615e] address shown in the register maintained under this paragraph, except in a case where paragraph (b) below applies;
-- (b) where the member has requested that communications from the society be sent to some other postal[^key-7de9bbcaff42b64b8ccb175ef1a9af4a] address, that other address.
+- (a) the postal[^c-4c4a000071068860e3e2460ec5c7615e] address shown in the register maintained under this paragraph, except in a case where paragraph (b) below applies;
+- (b) where the member has requested that communications from the society be sent to some other postal[^c-7de9bbcaff42b64b8ccb175ef1a9af4a] address, that other address.
 
 #### Exception to duties to send documents
 
@@ -386,7 +386,7 @@ unless the court before which the proceedings are brought is satisfied that it i
 
 **15.** (1)[^c15521731] At any time when a building society—
 
-- (a) has had its permission under[^c15521741] Part 4A[^key-4e499898a66ce6abbca4450cf66a52f6] of the Financial Services and Markets Act 2000 to accept deposits cancelled; and
+- (a) has had its permission under[^c15521741] Part 4A[^c-4e499898a66ce6abbca4450cf66a52f6] of the Financial Services and Markets Act 2000 to accept deposits cancelled; and
 - (b) has not subsequently been given such permission[^c15521751],
 
 a member of the society shall, subject to sub-paragraph (1A) below, have the right to obtain, from the register kept under paragraph 13 above, the names and addresses of members of the society, for the purpose of communicating with them on a subject relating to the affairs of the society.
@@ -396,7 +396,7 @@ a member of the society shall, subject to sub-paragraph (1A) below, have the rig
 - (a) is qualified under the rules of the society to join in a members’ requisition for a special meeting, or to join in nominating a person for election as a director; or
 - (b) would be so qualified if any requirements as to length of time a person must have been a shareholding or borrowing member were omitted.
 
-(2) If, at any time not falling within sub-paragraph (1) above, a member of a building society who is qualified under the rules of the society to join in a members’ requisition for a special meeting, or to join in nominating a person for election as a director, makes a written application to the FCA[^key-0e5473a42c4924fceafb431176c37cf9] for the right to obtain names and addresses from the register, the FCA —
+(2) If, at any time not falling within sub-paragraph (1) above, a member of a building society who is qualified under the rules of the society to join in a members’ requisition for a special meeting, or to join in nominating a person for election as a director, makes a written application to the FCA[^c-0e5473a42c4924fceafb431176c37cf9] for the right to obtain names and addresses from the register, the FCA —
 
 - (a) if satisfied that the applicant—
   - (i) requires that right for the purpose of communicating with members of the society on a subject relating to its affairs; and
@@ -408,7 +408,7 @@ a member of the society shall, subject to sub-paragraph (1A) below, have the rig
 
 (3) Any direction under sub-paragraph (2) above may be given subject to such limitations or conditions as the FCA may think fit.
 
-(3A)[^key-2a9f443bdb03187961e88032716b39c1] The FCA must consult the PRA before giving a direction under sub-paragraph (2).
+(3A)[^c-2a9f443bdb03187961e88032716b39c1] The FCA must consult the PRA before giving a direction under sub-paragraph (2).
 
 (4) Before giving a direction under sub-paragraph (2) above, the FCA shall give particulars of the application to the building society and shall afford the society an opportunity of making representations with respect to the application; and the FCA shall, if the applicant or the society so requests, afford to the applicant and to the society an opportunity of being heard by it.
 
@@ -454,7 +454,7 @@ a member of the society shall, subject to sub-paragraph (1A) below, have the rig
 - (b) a person shall not be regarded as acting in bad faith by reason only of his knowing that an act is beyond the powers of the directors under the society’s constitution; and
 - (c) a person shall be presumed to have acted in good faith unless the contrary is proved.
 
-(3) The references above to limitations on the directors’ powers under the society’s constitution include limitations deriving from a resolution of the society passed at a general meeting or special meeting or on a postal or electronic[^key-cc9f46e475fa4f565018da6b3a25ef4b] ballot, or from any agreement between the members of the society.
+(3) The references above to limitations on the directors’ powers under the society’s constitution include limitations deriving from a resolution of the society passed at a general meeting or special meeting or on a postal or electronic[^c-cc9f46e475fa4f565018da6b3a25ef4b] ballot, or from any agreement between the members of the society.
 
 (4) Notwithstanding anything in paragraph 3(2) above, sub-paragraph (1) above applies in relation to members of the society, and to persons claiming on account of members or under the rules of the society, as it applies in relation to other persons.
 
@@ -505,7 +505,7 @@ and shall send a copy of the notice to the Commission.
 
 (2) Sub-paragraph (1) above does not require a building society to hold an annual general meeting in the calendar year in which it is incorporated.
 
-(3) If default is made in holding a meeting in accordance with sub-paragraph (1) above, the FCA[^key-d39d03cfa9a4881b9cbbc36d2e806e86] may—
+(3) If default is made in holding a meeting in accordance with sub-paragraph (1) above, the FCA[^c-d39d03cfa9a4881b9cbbc36d2e806e86] may—
 
 - (a) call, or direct the calling of, an annual general meeting in that financial year, and
 - (b) give such ancillary or consequential directions as it thinks expedient, including directions modifying or supplementing the operation of the rules of the society in relation to the calling, holding and conducting of the meeting.
@@ -528,7 +528,7 @@ the building society shall be liable on summary conviction to a fine not exceedi
 
 and where a meeting is so called no business shall be conducted at the meeting other than that stated in the notice calling it or (where applicable) that mentioned in sub-paragraph (8)(b) below.
 
-(1A)[^key-0cbfd6907d8e3d09de1ad21de48c6ff8] Where a copy of a statement is required to be sent to a member under sub-paragraph (1)(b)—
+(1A)[^c-0cbfd6907d8e3d09de1ad21de48c6ff8] Where a copy of a statement is required to be sent to a member under sub-paragraph (1)(b)—
 
 - (a) it may be sent to him electronically only if it is sent to an electronic address notified by the member for the purpose; but
 - (b) the requirement to send it shall also be treated as satisfied if the conditions set out in sub-paragraph (1B) are satisfied.
@@ -537,7 +537,7 @@ and where a meeting is so called no business shall be conducted at the meeting o
 
 - (a) the society and that member have agreed that information which is required to be sent to him may instead be accessed by him on a web site;
 - (b) the agreement applies to the statement in question;
-- (c) no later than one working day after the statement is first capable of being accessed on a web site that person is notified [^key-32fbcd6ca87e3bbbf86b6dd1cb9f6bf6]... of—
+- (c) no later than one working day after the statement is first capable of being accessed on a web site that person is notified [^c-32fbcd6ca87e3bbbf86b6dd1cb9f6bf6]... of—
   - (i) the publication of the statement on a web site,
   - (ii) the address of that web site,
   - (iii) the place on that web site where the statement may be accessed, and how it may be accessed; and
@@ -564,7 +564,7 @@ and in this sub-paragraph “**specified period**” means such period (not more
 
 (6) No objection may be made by virtue of such rules to the requisition or, where the requisition consists of several documents, to any of those documents unless it is made within 14 days of the requisition or document being deposited at the society’s principal office.
 
-(7) The rules of the society may also require a sum of money, not exceeding £50[^key-dba59dd5b9a400e14c057578e1e94d53] per requisitionist, to be deposited with the requisition; and, where any money is so deposited, it shall be forfeited to the society, or returned to the persons who deposited it, as provided by the rules.
+(7) The rules of the society may also require a sum of money, not exceeding £50[^c-dba59dd5b9a400e14c057578e1e94d53] per requisitionist, to be deposited with the requisition; and, where any money is so deposited, it shall be forfeited to the society, or returned to the persons who deposited it, as provided by the rules.
 
 (8) The rules shall not provide for any deposited money to be forfeited to the society except—
 
@@ -573,7 +573,7 @@ and in this sub-paragraph “**specified period**” means such period (not more
 
 (9) If the rules of a building society so provide, sub-paragraph (1) above does not require the society—
 
-- (a) to call a special meeting if the only or main object of the meeting is to move a resolution in substantially the same terms as any resolution which has been defeated at a meeting or on a postal or electronic[^key-9bb22c7ad82db42bfb67732a2c0276f7] ballot during the period beginning with the third annual general meeting before the date on which the requisition is deposited at the society’s principal office; or
+- (a) to call a special meeting if the only or main object of the meeting is to move a resolution in substantially the same terms as any resolution which has been defeated at a meeting or on a postal or electronic[^c-9bb22c7ad82db42bfb67732a2c0276f7] ballot during the period beginning with the third annual general meeting before the date on which the requisition is deposited at the society’s principal office; or
 - (b) to call a special meeting to be held during the period of four months beginning one month after the end of its financial year.
 
 (10) Sub-paragraph (1)(b) above does not require the society to send copies of a statement to members entitled to receive notice of a meeting in any case where—
@@ -588,14 +588,14 @@ and that provision shall not be taken to confer any rights on members, or to imp
 - (a) the accidental omission to send a copy of the statement to a member entitled to receive one, or
 - (b) the non-receipt of such a copy by such a member.
 
-(11A)[^key-7b6876fb79653bd9086e5c019baa040d] Where, in a case in which sub-paragraph (1A)(b) is relied on for compliance with a requirement of sub-paragraph (1)(b)—
+(11A)[^c-7b6876fb79653bd9086e5c019baa040d] Where, in a case in which sub-paragraph (1A)(b) is relied on for compliance with a requirement of sub-paragraph (1)(b)—
 
 - (a) a statement is published for a part, but not all, of the period mentioned in subparagraph (1B)(d), but
 - (b) the failure to publish it throughout that period is wholly attributable to circumstances which it would not be reasonable to have expected the society to prevent or avoid,
 
 the failure shall not invalidate the proceedings at the meeting.
 
-(12) The appropriate authority[^key-821d3d975617f7c93492b8ac7ea890e8] shall hear and determine any dispute arising under sub-paragraph (10)(a) above, whether on the application of the society or of any other person who claims to be aggrieved.
+(12) The appropriate authority[^c-821d3d975617f7c93492b8ac7ea890e8] shall hear and determine any dispute arising under sub-paragraph (10)(a) above, whether on the application of the society or of any other person who claims to be aggrieved.
 
 (13)[^c15522081] The Treasury may[^c15522091], by order substitute—
 
@@ -632,7 +632,7 @@ the requisitionists, or any proportion of them exceeding one half, may themselve
 
 #### Length of notice for calling meetings
 
-**21.** (1) Any provision contained in the rules of a building society shall be void to the extent that it provides for the calling of a meeting of the society (other than an adjourned meeting) by less than 21 days’ notice expiring with the date of the meeting or, if earlier, the date specified by the society, under its rules, as the final date for the receipt of appointments of[^key-c237eeb5ba6f5415aa2ab90b9dd912f5] proxies to vote at the meeting.
+**21.** (1) Any provision contained in the rules of a building society shall be void to the extent that it provides for the calling of a meeting of the society (other than an adjourned meeting) by less than 21 days’ notice expiring with the date of the meeting or, if earlier, the date specified by the society, under its rules, as the final date for the receipt of appointments of[^c-c237eeb5ba6f5415aa2ab90b9dd912f5] proxies to vote at the meeting.
 
 (2) A meeting of a building society may be called by 21 days’ notice, unless the rules provide for longer notice of the meeting to be given.
 
@@ -649,11 +649,11 @@ the requisitionists, or any proportion of them exceeding one half, may themselve
 
 and who would (in either case) be eligible to vote at the meeting if he remained such a member until the date of the meeting.
 
-(2A) In sub-paragraph (2) above “**the specified date**” means the date specified by the society as the final date for the receipt of appointments of[^key-18cda6b5caa73868d154dea984efbb4d] proxies to vote at the meeting.
+(2A) In sub-paragraph (2) above “**the specified date**” means the date specified by the society as the final date for the receipt of appointments of[^c-18cda6b5caa73868d154dea984efbb4d] proxies to vote at the meeting.
 
 (3) Accidental omission to give notice of a meeting to, or non-receipt of notice of a meeting by, any person entitled to receive notice of the meeting does not invalidate the proceedings at that meeting.
 
-#### Transmission of notice of meeting to an electronic address[^key-ca5b04d5160e598db873c858a0461109]
+#### Transmission of notice of meeting to an electronic address[^c-ca5b04d5160e598db873c858a0461109]
 
 **22A.** (1) Where a notice of a meeting of a society is required to be sent to a person under any provision of this Act, the notice may be sent to him electronically only if it is sent to an electronic address notified by him to the society for the purpose.
 
@@ -667,7 +667,7 @@ and who would (in either case) be eligible to vote at the meeting if he remained
 
 - (a) the society and the person have agreed that notices which are required to be sent to him may instead be accessed by him on a web site;
 - (b) the agreement applies to the notice in question
-- (c) that person is notified [^key-501534817da21830f5593c4d6f0b36ca]... of—
+- (c) that person is notified [^c-501534817da21830f5593c4d6f0b36ca]... of—
   - (i) the publication of the notice on a web site,
   - (ii) the address of that web site, and
   - (iii) the place on that web site where the notice may be accessed, and how it may be accessed; and
@@ -696,7 +696,7 @@ the failure shall not invalidate the proceedings of the meeting.
 - (b) on a shareholding members’ resolution, if he was, at the end of that year, and is, on that date, a shareholding member of the society; and
 - (c) on a borrowing members’ resolution if he was, at the end of that year, and is, on that date, a borrowing member of the society,
 
-but subject, in either case, to paragraphs 5(3), 7(4) and 8(4) above and sub-paragraph (5A) below[^key-4c4930be25acf72edb2acc0d6c043d6a] and, in the case of paragraphs (a) and (b), to sub-paragraph (3) below.
+but subject, in either case, to paragraphs 5(3), 7(4) and 8(4) above and sub-paragraph (5A) below[^c-4c4930be25acf72edb2acc0d6c043d6a] and, in the case of paragraphs (a) and (b), to sub-paragraph (3) below.
 
 (2) Subject to the following provisions of this paragraph, any provision in the rules of a building society is void to the extent that it would have the effect of restricting the rights conferred on members by sub-paragraph (1) above.
 
@@ -708,29 +708,29 @@ but subject, in either case, to paragraphs 5(3), 7(4) and 8(4) above and sub-par
 (4) Where a building society’s rules make such provision as is mentioned in sub-paragraph (3)(a) above, a shareholding member shall be taken to have had a qualifying shareholding at the qualifying shareholding date if he had such a holding—
 
 - (a) at the end of the last financial year before the voting date, except where paragraph (b) below applies; or
-- (b) in a case where the voting date falls during that part of a financial year which follows the conclusion of the annual general meeting commenced in that year, at the beginning of the period of 56 days immediately preceding the voting date for members voting in person at a meeting or, as the case may be, on a postal or electronic[^key-1ec42c730b6c7e1586eb598e886a78de] ballot.
+- (b) in a case where the voting date falls during that part of a financial year which follows the conclusion of the annual general meeting commenced in that year, at the beginning of the period of 56 days immediately preceding the voting date for members voting in person at a meeting or, as the case may be, on a postal or electronic[^c-1ec42c730b6c7e1586eb598e886a78de] ballot.
 
 (5) For the purposes of this paragraph a member of a building society has a “**qualifying shareholding**” at any time if at that time he holds shares in the society to a value not less than the prescribed amount or such lesser amount as may be specified in the rules.
 
-(5A)[^key-2c18794e11089ceaba2979bb896ba088] If the rules of the society so provide, a member who is also an employee of the building society shall not be entitled to exercise, directly or indirectly, any voting rights that the member may have with respect to a relevant resolution.
+(5A)[^c-2c18794e11089ceaba2979bb896ba088] If the rules of the society so provide, a member who is also an employee of the building society shall not be entitled to exercise, directly or indirectly, any voting rights that the member may have with respect to a relevant resolution.
 
-(5B)[^key-c4d883acc98523f2a4ca0b9ac3ccf4a3] For the purposes of sub-paragraph (5A), a relevant resolution is a resolution to approve an increase in the maximum ratio between the fixed and variable components of remuneration as permitted by—
+(5B)[^c-c4d883acc98523f2a4ca0b9ac3ccf4a3] For the purposes of sub-paragraph (5A), a relevant resolution is a resolution to approve an increase in the maximum ratio between the fixed and variable components of remuneration as permitted by—
 
 - (a) rule 15.10 of the Remuneration Part of the Rulebook made by the Prudential Regulation Authority under the Financial Services and Markets Act 2000, or
 - (b) rule 19D.3.49 of the Senior Management Arrangements, Systems and Controls sourcebook made by the Financial Conduct Authority under that Act,
 
 where the member referred to would be directly affected by the increase.
 
-(5BA)[^key-93a347670c68c4d12fbebb46fc239769] For the purposes of sub-paragraph (5B), references to rules made by the Prudential Regulation Authority or the Financial Conduct Authority are to those rules as they have effect on IP completion day.
+(5BA)[^c-93a347670c68c4d12fbebb46fc239769] For the purposes of sub-paragraph (5B), references to rules made by the Prudential Regulation Authority or the Financial Conduct Authority are to those rules as they have effect on IP completion day.
 
-(5C)[^key-49d4955041f246e0585004702e8dc2ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5C)[^c-49d4955041f246e0585004702e8dc2ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this paragraph “**voting date**”, with reference to any resolution, means—
 
 - (a) the date of the meeting at which the resolution is intended to be moved, except where paragraph (b) or (c) below applies;
-- (b) where voting on the resolution is to be conducted by postal ballot or by electronic ballot in the case of which not all the voting is electronic (within the meaning of paragraph 33A of Schedule 2)[^key-3833d7f678abf611ec550b995932e3d8], the date which the society specifies as the final date for the receipt of completed ballot papers;
-- (bb)[^key-ffd6de3749a4d1b345e32603ccd1eb16] in the case of an election conducted by electronic ballot in which all the voting is electronic voting (within the meaning of that paragraph), the date which the society specifies[^key-13a8a519b6d5f29d2e52327084ebad6f] as the final date for registering votes;
-- (c) in the case of a member appointing a proxy to vote instead of him at a meeting, the date which the society specifies as the final date for the receipt of appointments of[^key-932ed9d274586033fd9efaba07e97a0b] proxies to vote on that resolution.
+- (b) where voting on the resolution is to be conducted by postal ballot or by electronic ballot in the case of which not all the voting is electronic (within the meaning of paragraph 33A of Schedule 2)[^c-3833d7f678abf611ec550b995932e3d8], the date which the society specifies as the final date for the receipt of completed ballot papers;
+- (bb)[^c-ffd6de3749a4d1b345e32603ccd1eb16] in the case of an election conducted by electronic ballot in which all the voting is electronic voting (within the meaning of that paragraph), the date which the society specifies[^c-13a8a519b6d5f29d2e52327084ebad6f] as the final date for registering votes;
+- (c) in the case of a member appointing a proxy to vote instead of him at a meeting, the date which the society specifies as the final date for the receipt of appointments of[^c-932ed9d274586033fd9efaba07e97a0b] proxies to vote on that resolution.
 
 #### Proxies
 
@@ -739,7 +739,7 @@ where the member referred to would be directly affected by the increase.
 - (a) may appoint another person (whether a member of the society or not) as his proxy, to attend and, subject to sub-paragraph (3) below, to vote at the meeting instead of him, and
 - (b) may direct the proxy how to vote at the meeting.
 
-(1A)[^key-1e541d9a1223946df7f85d30320705a5] A form for the appointment of a proxy—
+(1A)[^c-1e541d9a1223946df7f85d30320705a5] A form for the appointment of a proxy—
 
 - (a) may be sent electronically to a member if it is sent to an electronic address notified by that member to the society for the purpose;
 - (b) is to be treated as having been sent electronically to a member, where the conditions in sub-paragraph (1B) below are satisfied.
@@ -747,7 +747,7 @@ where the member referred to would be directly affected by the increase.
 (1B) The conditions are that—
 
 - (a) the society and the member have agreed that a form may instead be accessed by the member on a website;
-- (b) [^key-a1f68c5b19484ae4712c4399292fc50d]... the member is notified of—
+- (b) [^c-a1f68c5b19484ae4712c4399292fc50d]... the member is notified of—
   - (i) the publication of the form on a website;
   - (ii) the address of that website; and
   - (iii) the place on that website where the form may be accessed, and how it may be accessed; and
@@ -757,7 +757,7 @@ where the member referred to would be directly affected by the increase.
 
 (1D) Where a form for the appointment of a proxy is made available by a society on a website in accordance with subsection (1A)(b), the society may also make available on the website a facility for completing the form and returning the appointment in an electronic communication (but see paragraph 34).
 
-(2) Where the society, under its rules, specifies a final date for the receipt of appointments of[^key-6dda157a4ab827c27d9de3fbf5713bc3] proxies to vote at a meeting, a person appointed a proxy by a member who at that date is entitled to attend and vote at the meeting may act as his proxy at the meeting whether or not the member ceases to be so entitled after that date.
+(2) Where the society, under its rules, specifies a final date for the receipt of appointments of[^c-6dda157a4ab827c27d9de3fbf5713bc3] proxies to vote at a meeting, a person appointed a proxy by a member who at that date is entitled to attend and vote at the meeting may act as his proxy at the meeting whether or not the member ceases to be so entitled after that date.
 
 (3) A proxy is entitled to vote on a poll but, subject to any provision in the rules of the building society, not otherwise.
 
@@ -771,7 +771,7 @@ where the member referred to would be directly affected by the increase.
 
 (5) If default is made in complying with sub-paragraph (4) above in respect of a meeting of a building society, or in complying with sub-paragraph (4A) above in respect of a form of appointment of a proxy,[^c15522201] the society shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale, and so shall any officer who is also guilty of the offence.
 
-(6) Any provision contained in the rules of a building society shall be void in so far as it would have the effect of requiring the appointment of a proxy, or any[^key-47955032c01ff9330c3363baa0bfc3b4] document necessary to show the validity of, or otherwise relating to, the appointment of a proxy, to be received by the society or any other person more than seven days before a meeting or adjourned meeting in order that the appointment may be effective at the meeting or adjourned meeting.
+(6) Any provision contained in the rules of a building society shall be void in so far as it would have the effect of requiring the appointment of a proxy, or any[^c-47955032c01ff9330c3363baa0bfc3b4] document necessary to show the validity of, or otherwise relating to, the appointment of a proxy, to be received by the society or any other person more than seven days before a meeting or adjourned meeting in order that the appointment may be effective at the meeting or adjourned meeting.
 
 #### Right to demand a poll
 
@@ -780,7 +780,7 @@ where the member referred to would be directly affected by the increase.
 - (a) of excluding the right to demand a poll at a meeting of the society on any question other than the election of a chairman of the meeting or the adjournment of the meeting, or
 - (b) of making ineffective a demand for a poll on any such question which is made by not less than ten members having the right to vote at the meeting.
 
-(2) Any appointment of[^key-7c1ec763cae043ffa47254bc63e48ae8] a proxy to vote at a meeting of a building society shall be taken also to confer authority to demand or join in demanding a poll; and for the purposes of sub-paragraph (1) above a demand by a person as proxy of a member shall be the same as the demand by the member.
+(2) Any appointment of[^c-7c1ec763cae043ffa47254bc63e48ae8] a proxy to vote at a meeting of a building society shall be taken also to confer authority to demand or join in demanding a poll; and for the purposes of sub-paragraph (1) above a demand by a person as proxy of a member shall be the same as the demand by the member.
 
 #### Special resolutions
 
@@ -789,7 +789,7 @@ where the member referred to would be directly affected by the increase.
 **27.** (1) A resolution of a building society shall be a special resolution when it has been passed by not less than three-quarters of the number of the members of the society qualified to vote on a special resolution and voting either—
 
 - (a) in person or by proxy on a poll on the resolution at a meeting of the society of which notice specifying the intention to move the resolution as a special resolution has been duly given; or
-- (b) in a postal or electronic[^key-b3f95b6b5e40cce1b972f3cfd37d34b4] ballot on the resolution of which notice specifying that the resolution will not be effective unless it is passed as a special resolution has been duly given.
+- (b) in a postal or electronic[^c-b3f95b6b5e40cce1b972f3cfd37d34b4] ballot on the resolution of which notice specifying that the resolution will not be effective unless it is passed as a special resolution has been duly given.
 
 (2) In any rules made by a building society on or after 1st October 1960, whether before or after the commencement of this Act, “**special resolution**”, unless the context otherwise requires, means a special resolution as defined in this paragraph.
 
@@ -812,7 +812,7 @@ where the member referred to would be directly affected by the increase.
 
 #### Transfer resolutions
 
-**30.**[^key-e0a9ea263b8c3df7acae18c3bdac60c8][^key-30dfa9f993d9dccf0ccfa794434acd50] (1) The transfer resolutions required for the purposes of section 97 for the approval by members of a building society of a transfer of its business are two resolutions, of which—
+**30.**[^c-e0a9ea263b8c3df7acae18c3bdac60c8][^c-30dfa9f993d9dccf0ccfa794434acd50] (1) The transfer resolutions required for the purposes of section 97 for the approval by members of a building society of a transfer of its business are two resolutions, of which—
 
 - (a) one is passed as a borrowing members’ resolution, and
 - (b) the other (“**the requisite shareholders’ resolution**”) is passed in accordance with sub-paragraphs (2) to (5) below.
@@ -831,9 +831,9 @@ and the notice of the resolution required by paragraph 27A above[^c15522611] mus
 
 and, in either case, the resolution must be a resolution in relation to which the notice required by paragraph 27A[^c15522651] above includes a statement specifying that the resolution will not be effective unless either of the above requirements is fulfilled has been duly given[^c15522661].
 
-(4) If the appropriate authority[^key-36222850197312bf9e00182698373f69] considers it expedient, in relation to a transfer of the business of a building society to an existing company, to do so for the purpose of protecting the investments of the shareholders of or depositors with the society, the it[^c15522671] may give a direction under sub-paragraph (5) below.
+(4) If the appropriate authority[^c-36222850197312bf9e00182698373f69] considers it expedient, in relation to a transfer of the business of a building society to an existing company, to do so for the purpose of protecting the investments of the shareholders of or depositors with the society, the it[^c15522671] may give a direction under sub-paragraph (5) below.
 
-(4A)[^key-8dc671351f9fa8ab1054f612c358873a] If the appropriate authority is the PRA, it must consult the FCA before giving a direction under sub-paragraph (5).
+(4A)[^c-8dc671351f9fa8ab1054f612c358873a] If the appropriate authority is the PRA, it must consult the FCA before giving a direction under sub-paragraph (5).
 
 (5) A direction under this sub-paragraph is a direction that, for the purposes of the transfer of business specified in the direction, the requisite shareholders’ resolution is to be effective if it is passed as a shareholding members’ resolution[^c15522691].
 
@@ -853,8 +853,8 @@ and, in either case, the resolution must be a resolution in relation to which th
 (2) For the purposes of sub-paragraph (1) above—
 
 - (a) “**the requisite number**”—
-  - (i)[^c15522861] in the case of a society in relation to which the difference between the total assets of the society as shown in the accounts last prepared by it under section 72A or 72E[^key-1efd9cf30248d4b03cc4cb1111c8dbc6] immediately before the date on which the members gave notice to the society under sub-paragraph (1) above and the aggregate of—
-    - (aa) the liquid assets of the society as shown in those accounts in pursuance of regulations under section 72C or 72G or in accordance with[^key-43a67e137316ba2905cb86bc330079b9] UK-adopted international accounting standards[^key-842d52f1f7f31f1d1a1880b271ff4dd3], as appropriate; and
+  - (i)[^c15522861] in the case of a society in relation to which the difference between the total assets of the society as shown in the accounts last prepared by it under section 72A or 72E[^c-1efd9cf30248d4b03cc4cb1111c8dbc6] immediately before the date on which the members gave notice to the society under sub-paragraph (1) above and the aggregate of—
+    - (aa) the liquid assets of the society as shown in those accounts in pursuance of regulations under section 72C or 72G or in accordance with[^c-43a67e137316ba2905cb86bc330079b9] UK-adopted international accounting standards[^c-842d52f1f7f31f1d1a1880b271ff4dd3], as appropriate; and
     - (bb) the fixed assets of the society as so shown,
 
     exceeds £100 million, is five hundred[^c15522871] or such lesser number as is specified for the purpose in the rules of the society, and
@@ -876,15 +876,15 @@ and for the purposes of this sub-paragraph the qualifying date is the date on wh
 
 and that sub-paragraph shall not be taken to confer any rights on members, or to impose any duties on a building society, in respect of a resolution or statement which does not relate directly to the affairs of the society.
 
-(5) If the rules of a building society so provide, sub-paragraph (1) above does not require notice of a resolution to be given to members of the society if the resolution is in substantially the same terms as any resolution which has been defeated at a meeting or on a postal or electronic[^key-d5cf5ea7c882b17191c50b4c0233cf61] ballot during the period beginning with the third annual general meeting before the date on which notice of the resolution is given to the society.
+(5) If the rules of a building society so provide, sub-paragraph (1) above does not require notice of a resolution to be given to members of the society if the resolution is in substantially the same terms as any resolution which has been defeated at a meeting or on a postal or electronic[^c-d5cf5ea7c882b17191c50b4c0233cf61] ballot during the period beginning with the third annual general meeting before the date on which notice of the resolution is given to the society.
 
 (6) No copies of a statement with respect to a resolution shall be sent to members of a building society if, on any of the grounds in sub-paragraph (4) or (5) above, the society does not give the notice of the resolution to them required by sub-paragraph (1)(a) above.
 
-(7) The PRA[^key-c860c297702d5708b8500274f6f23707] shall hear and determine any dispute arising under sub-paragraph (4)(a) above, whether on the application of the building society or of any other person who claims to be aggrieved.
+(7) The PRA[^c-c860c297702d5708b8500274f6f23707] shall hear and determine any dispute arising under sub-paragraph (4)(a) above, whether on the application of the building society or of any other person who claims to be aggrieved.
 
 (8) If a building society fails to comply with the requirements of sub-paragraph (1) above where notice is duly given under that sub-paragraph, the society shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale and so shall any officer who is also guilty of the offence.
 
-(9)[^key-81e65c5fcdd4b5772c4c112d4f182f2d] For the purposes of this paragraph “liquid assets” and “fixed assets”, in the case of societies which produce IAS individual accounts or IAS group accounts, have the same meaning as given in section 6(16).
+(9)[^c-81e65c5fcdd4b5772c4c112d4f182f2d] For the purposes of this paragraph “liquid assets” and “fixed assets”, in the case of societies which produce IAS individual accounts or IAS group accounts, have the same meaning as given in section 6(16).
 
 #### Members’ resolutions: supplementary provisions
 
@@ -892,7 +892,7 @@ and that sub-paragraph shall not be taken to confer any rights on members, or to
 
 (2) The notices of a resolution and the copies of a statement required to be sent to members by paragraph 31(1)(a) or (b) above shall be sent to them in the same manner and (so far as practicable) at the same time as the notice of the annual general meeting at which the resolution is intended to be moved; and, where it is not practicable for them to be sent at the same time as the notice, they shall be sent as soon as practicable thereafter.
 
-(2A)[^key-f57b5d3a6553ec3a8783b2df0e4580fa] Sub-paragraph (2B) applies where, in a case in which a society gives notice in accordance with paragraph 22A or 22B of this Schedule of the annual general meeting at which a resolution is intended to be moved, the notice of the resolution and the copy of a statement in respect of the resolution that are required to be sent to a member under paragraph 3 1 (1)(a) or (b) are not transmitted or published at the same time as the notice.
+(2A)[^c-f57b5d3a6553ec3a8783b2df0e4580fa] Sub-paragraph (2B) applies where, in a case in which a society gives notice in accordance with paragraph 22A or 22B of this Schedule of the annual general meeting at which a resolution is intended to be moved, the notice of the resolution and the copy of a statement in respect of the resolution that are required to be sent to a member under paragraph 3 1 (1)(a) or (b) are not transmitted or published at the same time as the notice.
 
 (2B) The requirement of sub-paragraph (2) to send a member his notice of the resolution and his copy of a statement in the same manner as the notice of the annual general meeting is satisfied if—
 
@@ -905,7 +905,7 @@ and that sub-paragraph shall not be taken to confer any rights on members, or to
 
 - (a) the notice of the annual general meeting at which the resolution is intended to be moved is a notice given to that member by being published on a web site;
 - (b) an agreement between the society and the member to his accessing information on a web site applies to the notice of a resolution and copy of a statement for the meeting in question;
-- (c) the member is notified [^key-edc9e2c079bf2f29840afd56d551d535]... of—
+- (c) the member is notified [^c-edc9e2c079bf2f29840afd56d551d535]... of—
   - (i) the publication of the notice of a resolution and copy of a statement on a web site,
   - (ii) the address of that web site,
   - (iii) the place on that web site where the notice and copy may be accessed, and how they may be accessed;
@@ -918,9 +918,9 @@ and that sub-paragraph shall not be taken to confer any rights on members, or to
 - (a) the accidental omission to send a notice or copy to a person entitled to receive one, or
 - (b) the non-receipt of a notice or copy by such a person.
 
-(3A)[^key-9c59c6fcea9cbcdde83cb3b7b5d9be84] Where, in a case in which sub-paragraph (2D) is relied on for compliance with a requirement of sub-paragraph (2) or (2B)(a)—
+(3A)[^c-9c59c6fcea9cbcdde83cb3b7b5d9be84] Where, in a case in which sub-paragraph (2D) is relied on for compliance with a requirement of sub-paragraph (2) or (2B)(a)—
 
-- (a) a notice or copy is[^key-d0d66c6f6de4db910f3b663a554d2235] published for a part, but not all, of the period mentioned in subparagraph (2D)(f), but
+- (a) a notice or copy is[^c-d0d66c6f6de4db910f3b663a554d2235] published for a part, but not all, of the period mentioned in subparagraph (2D)(f), but
 - (b) the failure to publish it throughout that period is wholly attributable to circumstances which it would not be reasonable to have expected the society to prevent or avoid,
 
 the failure shall not invalidate the proceedings at the meeting.
@@ -938,9 +938,9 @@ whether by the addition of any description or other provision or by the substitu
 
 #### Postal ballots
 
-**33.** (1) The rules of a building society may provide for the voting in an election of directors or on any resolution of the society (other than a shareholding members’ resolution or a borrowing members’ resolution)[^c15522941] to be conducted in all, or in any particular, circumstances by postal ballot; [^key-b93673b01ab9409ba796566cc11e3ce8]...
+**33.** (1) The rules of a building society may provide for the voting in an election of directors or on any resolution of the society (other than a shareholding members’ resolution or a borrowing members’ resolution)[^c15522941] to be conducted in all, or in any particular, circumstances by postal ballot; [^c-b93673b01ab9409ba796566cc11e3ce8]...
 
-(1A)[^key-49cfc0e4ff92e56dc2185ee5dfd27aba] Rules made pursuant to sub-paragraph (1) may also make provision in relation to the use of electronic communications in the conduct of a postal ballot.
+(1A)[^c-49cfc0e4ff92e56dc2185ee5dfd27aba] Rules made pursuant to sub-paragraph (1) may also make provision in relation to the use of electronic communications in the conduct of a postal ballot.
 
 (2) Where, under the rules of a society, a postal ballot is to take place, the following provisions of this paragraph have effect.
 
@@ -955,7 +955,7 @@ whether by the addition of any description or other provision or by the substitu
 
 and who would (in either case) be eligible to vote in the election or on the resolution if he remained such a member until that day.
 
-(5A)[^key-291f99a90e86cf8cf171f2970111045f] Where a notice of a postal ballot is required to be given to a person by sub-paragraph (4) or (5), the notice may be sent to him electronically only if it is sent to an electronic address notified by the person to the society for the purpose.
+(5A)[^c-291f99a90e86cf8cf171f2970111045f] Where a notice of a postal ballot is required to be given to a person by sub-paragraph (4) or (5), the notice may be sent to him electronically only if it is sent to an electronic address notified by the person to the society for the purpose.
 
 (5B) In a case in which notice of a postal ballot is sent electronically to an electronic address in accordance with sub-paragraph (5A), the notice is to be treated as given to a person on the day on which it is transmitted.
 
@@ -963,7 +963,7 @@ and who would (in either case) be eligible to vote in the election or on the res
 
 - (a) the society and the person have agreed that notices which are required to be sent to him may instead be accessed by him on a web site;
 - (b) the agreement applies to the notice in question
-- (c) that person is notified [^key-372de0038cb6d166bdaa4de7dc644069]... of—
+- (c) that person is notified [^c-372de0038cb6d166bdaa4de7dc644069]... of—
   - (i) the publication of the notice on a web site,
   - (ii) the address of that web site, and
   - (iii) the place on that web site where the notice may be accessed, and how it may be accessed; and
@@ -980,12 +980,12 @@ the failure shall not invalidate the postal ballot.
 
 (6) Notice of a postal ballot—
 
-- (a) shall contain such other notices relating to the election or resolution (“related notices”)[^key-9be14b10355803685a9656db08c26b35], and
-- (b) shall be accompanied by such other documents (“accompanying documents”)[^key-a704b8faf4e786997143028589d34cfc],
+- (a) shall contain such other notices relating to the election or resolution (“related notices”)[^c-9be14b10355803685a9656db08c26b35], and
+- (b) shall be accompanied by such other documents (“accompanying documents”)[^c-a704b8faf4e786997143028589d34cfc],
 
 as would be required to be given or sent to a member in connection with notice of a meeting, had it been intended to hold the election or vote on the resolution at a meeting instead of by postal ballot with the exception, however, of any notice relating to voting by proxy at a meeting.
 
-(6A)[^key-a012fa912936f7dcb42ef70d2aad621e] Where the notice of a postal ballot is required by sub-paragraph (6) to contain a related notice or to be accompanied by an accompanying document—
+(6A)[^c-a012fa912936f7dcb42ef70d2aad621e] Where the notice of a postal ballot is required by sub-paragraph (6) to contain a related notice or to be accompanied by an accompanying document—
 
 - (a) in a case where the notice of that ballot is given to a person electronically in accordance with sub-paragraph (5A), the related notice or accompanying document may be sent to him electronically only if it is sent to the same electronic address, and at the same time as the notice of the postal ballot;
 - (b) in a case where notice of that ballot is given on a web site in accordance with subparagraph (5C), the requirement to send the related notice or accompanying document to that person shall also be treated as satisfied if the conditions set out in sub-paragraph (6B) are satisfied.
@@ -1014,14 +1014,14 @@ unless the rules of the society make provision to the contrary.
 
 to any person entitled to receive it, or non-receipt of such a notice or document by such a person, does not invalidate the postal ballot.
 
-(7A)[^key-4df0e35020a0b77ea624bd8d7e74934a] Where, in a case in which sub-paragraph (6A)(b) is relied on for compliance with a requirement of sub-paragraph (6)—
+(7A)[^c-4df0e35020a0b77ea624bd8d7e74934a] Where, in a case in which sub-paragraph (6A)(b) is relied on for compliance with a requirement of sub-paragraph (6)—
 
 - (a) a related notice or accompanying document is published for a part, but not all, of the period mentioned in sub-paragraph (6B)(d), but
 - (b) the failure to publish it throughout that period is wholly attributable to circumstances which it would not be reasonable to have expected the society to prevent or avoid,
 
 the failure shall not invalidate the postal ballot.
 
-#### Electronic ballots[^key-e7e0cc42b1d240494ea85e4a94cbf9df]
+#### Electronic ballots[^c-e7e0cc42b1d240494ea85e4a94cbf9df]
 
 **33A.** (1) Where—
 
@@ -1063,7 +1063,7 @@ to be conducted by an electronic ballot in which all the voting is electronic vo
 
 - (a) the society and the person have agreed that notices of electronic ballots, any document which is required to accompany the notice, and a voting facility may be accessed by him on a web site;
 - (b) that agreement applies to the electronic ballot and accompanying documents in question;
-- (c) that person is notified [^key-952b0128fe42d293cc0d163bb8bbccc9]... of—
+- (c) that person is notified [^c-952b0128fe42d293cc0d163bb8bbccc9]... of—
   - (i) the publication of the notice and documents and the availability of the voting facility on a web site,
   - (ii) the address of that web site, and
   - (iii) the place on that web site where the notice, any such documents, and the facility may be accessed, and how they may be accessed; and
@@ -1090,10 +1090,10 @@ to be conducted by an electronic ballot in which all the voting is electronic vo
 **34.**[^c15522971] (1) If a member of a building society who purports to exercise his right—
 
 - (a) to appoint a proxy to vote instead of him at a meeting of the society, or
-- (b) to vote in a postal or electronic[^key-abc426cfc6506ccd228b4a75c82f8f29] ballot, or
+- (b) to vote in a postal or electronic[^c-abc426cfc6506ccd228b4a75c82f8f29] ballot, or
 - (c) to vote on a poll at a meeting of the society,
 
-fails to make a declaration in accordance with sub-paragraph (2) below in the [^key-ffc5ad1af0417a91569bb00a7baa40e4]... appointment or, as the case may be, on the voting paper, the appointment made or, as the case may be, the vote cast by him is invalid.
+fails to make a declaration in accordance with sub-paragraph (2) below in the [^c-ffc5ad1af0417a91569bb00a7baa40e4]... appointment or, as the case may be, on the voting paper, the appointment made or, as the case may be, the vote cast by him is invalid.
 
 (2)[^c15522981] A person making a declaration in pursuance of sub-paragraph (1) above shall—
 
@@ -1104,7 +1104,7 @@ fails to make a declaration in accordance with sub-paragraph (2) below in the [^
 - (c) where the vote is to be cast on a borrowing members’ resolution, declare that on the voting date he is or, so far as he can reasonably foresee, will be a borrowing member of the society; and
 - (d) where the vote is to be cast on an ordinary or special resolution, declare either as mentioned in paragraph (b) above, or as mentioned in paragraph (c) above, or both.
 
-(2A)[^key-fb01242263c1cb9b6a52fc5beeeaede4] Where an appointment of a proxy is returned in an electronic communication in accordance with paragraph 24(1D)[^key-c9de5d2bfe1d2c50ac099db5e80eb1bc], the requirements of sub-paragraph (2) above are satisfied only if—
+(2A)[^c-fb01242263c1cb9b6a52fc5beeeaede4] Where an appointment of a proxy is returned in an electronic communication in accordance with paragraph 24(1D)[^c-c9de5d2bfe1d2c50ac099db5e80eb1bc], the requirements of sub-paragraph (2) above are satisfied only if—
 
 - (a) the appointment incorporates the terms of the declaration required by that subparagraph; and
 - (b) the authenticity and integrity of the appointment is established (whether by an electronic signature or otherwise) in such manner as may have been agreed between the member and the society.
@@ -1119,9 +1119,9 @@ fails to make a declaration in accordance with sub-paragraph (2) below in the [^
 - (a) at the place on the web site where the voting facility is accessed, the member has confirmed the terms of the declaration specified by that sub-paragraph; and
 - (b) the authenticity and integrity of the member’s vote is established (whether by electronic signature or otherwise) in such a manner as may have been agreed between the member and the society.
 
-(3) A building society shall secure that every document issued by it for use as a voting paper and every[^key-a4f1d062d44210aeab73d616211004d6] appointment of a proxy incorporates a form of declaration under this paragraph for completion by the member using it.
+(3) A building society shall secure that every document issued by it for use as a voting paper and every[^c-a4f1d062d44210aeab73d616211004d6] appointment of a proxy incorporates a form of declaration under this paragraph for completion by the member using it.
 
-(3A)[^key-7e35885bf976f935ea0ea3d55ca83a3a] A building society shall ensure that—
+(3A)[^c-7e35885bf976f935ea0ea3d55ca83a3a] A building society shall ensure that—
 
 - (a) every voting paper sent by it to a member by means of an electronic communication incorporates a declaration in accordance with sub-paragraph (2) above, and
 - (b) every voting facility provided by it on a web site is accompanied by such a declaration,
@@ -1132,13 +1132,13 @@ for completion or confirmation by the member purporting to exercise his right to
 
 (5) In this paragraph—
 
-- “authenticity” and “integrity”, with reference to an electronic communication, must be construed in accordance with section 15(2) of the Electronic Communications Act 2000;[^key-318ecb08b2ecc41de8730815c12cab56]
+- “authenticity” and “integrity”, with reference to an electronic communication, must be construed in accordance with section 15(2) of the Electronic Communications Act 2000;[^c-318ecb08b2ecc41de8730815c12cab56]
 - “electronic signature” has the same meaning as in section 7(2) of that Act;
 - “**qualifying shareholding**” shall be construed in accordance with paragraph 23(5) above;
 - “**qualifying shareholding date**” has the same meaning as it has for the purposes of paragraph 23 above; and
 - “**voting date**” has the meaning given by paragraph 23(6) above.
 
-**34A.**[^key-59eb56ab7334abd4e7864c4d38743b1a] (1) Nothing in this Part of this Schedule is to be taken to preclude the holding and conducting of a meeting of a building society in such a way that persons who are not present together at the same place may by electronic means attend, speak and vote at it.
+**34A.**[^c-59eb56ab7334abd4e7864c4d38743b1a] (1) Nothing in this Part of this Schedule is to be taken to preclude the holding and conducting of a meeting of a building society in such a way that persons who are not present together at the same place may by electronic means attend, speak and vote at it.
 
 (2) The use of electronic means for the purpose of enabling participation in such a meeting may be made subject only to such requirements and restrictions as are—
 
@@ -1147,7 +1147,7 @@ for completion or confirmation by the member purporting to exercise his right to
 
 #### Advertising requirements in lieu of notice of meetings, etc.
 
-**35.** (1) The advertising requirements referred to in paragraph 14 above, in relation to notices of meetings or postal or electronic[^key-45919ba9ed18a3754680ea723d872386] ballots of building societies, are as follows.
+**35.** (1) The advertising requirements referred to in paragraph 14 above, in relation to notices of meetings or postal or electronic[^c-45919ba9ed18a3754680ea723d872386] ballots of building societies, are as follows.
 
 (2) Notice of the holding of the meeting or of the postal ballot must be given either—
 
@@ -1156,9 +1156,9 @@ for completion or confirmation by the member purporting to exercise his right to
 
 according as the rules of the society provide.
 
-(3) The notice must be given not later than 21 days before the date of the proposed meeting or, as the case may be, the final date for the receipt of completed ballot papers or for the registration of votes in an electronic ballot (as the case may be)[^key-25aa59668f4387003f17271c6d75744a].
+(3) The notice must be given not later than 21 days before the date of the proposed meeting or, as the case may be, the final date for the receipt of completed ballot papers or for the registration of votes in an electronic ballot (as the case may be)[^c-25aa59668f4387003f17271c6d75744a].
 
-(4) The notice shall state where members may obtain copies of the resolutions and any statements with respect to the matter referred to in a resolution, forms relating to voting by proxy and, in the case of a postal ballot, the ballot papers, or, in the case of an electronic ballot, how members may access electronic voting facilities[^key-3b1e70bb5e71c73ce42d8f37efb37900].
+(4) The notice shall state where members may obtain copies of the resolutions and any statements with respect to the matter referred to in a resolution, forms relating to voting by proxy and, in the case of a postal ballot, the ballot papers, or, in the case of an electronic ballot, how members may access electronic voting facilities[^c-3b1e70bb5e71c73ce42d8f37efb37900].
 
 #### The prescribed amount
 
@@ -1172,9 +1172,9 @@ according as the rules of the society provide.
 
 [^c15520741]: Modification: Sch. 2 modified (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/1994/40/section/17/3), [82(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2)
 
-[^key-d3c7e988a46b6a40e88e1e6fc94ee8cf]: Modification: Sch. 2 applied (with modifications) (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [8](https://www.legislation.gov.uk/uksi/2010/1188/article/8)
+[^c-d3c7e988a46b6a40e88e1e6fc94ee8cf]: Modification: Sch. 2 applied (with modifications) (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [8](https://www.legislation.gov.uk/uksi/2010/1188/article/8)
 
-[^key-2183edc91419c56b06a1ec084a4837a6]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-2183edc91419c56b06a1ec084a4837a6]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15520771]: Textual amendment: Words in Sch. 2 para. 1(1)(c) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 200(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/200/b) (with [S. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/section/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
@@ -1192,23 +1192,23 @@ according as the rules of the society provide.
 
 [^c15520941]: Textual amendment: Words in Sch. 2 Pt. I para. 3(4) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 56(5)(b)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/56/5/b); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiii)
 
-[^key-128ca26b29093b48f17169e03795d9e6]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/3/4) substituted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/35/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
+[^c-128ca26b29093b48f17169e03795d9e6]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/3/4) substituted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/35/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
 
-[^key-895d219576fcd2871189eec2dac9593e]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/3/4) added (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2014/3486/article/35/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3), [36](https://www.legislation.gov.uk/uksi/2014/3486/article/36))
+[^c-895d219576fcd2871189eec2dac9593e]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/3/4) added (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2014/3486/article/35/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3), [36](https://www.legislation.gov.uk/uksi/2014/3486/article/36))
 
-[^key-a17352a3eb2aef9da135691047772a88]: Textual amendment: Sch. 2 para. 3(5) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [10](https://www.legislation.gov.uk/uksi/2003/404/article/10)
+[^c-a17352a3eb2aef9da135691047772a88]: Textual amendment: Sch. 2 para. 3(5) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [10](https://www.legislation.gov.uk/uksi/2003/404/article/10)
 
 [^c15521001]: Textual amendment: Sch. 2 Pt. I para. 4(1) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 56(6)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/56/6); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiii)
 
-[^key-9f987753c4bbee31fe60781645083892]: Textual amendment: Word in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/4/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-9f987753c4bbee31fe60781645083892]: Textual amendment: Word in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/4/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521021]: Modification: Sch. 2 para. 4(1)(3) modified (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/17/2), [82(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2)
 
-[^key-02907f393441d768800f3565bda1b429]: Textual amendment: Word in [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/4/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-02907f393441d768800f3565bda1b429]: Textual amendment: Word in [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/4/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521061]: Textual amendment: Words in Sch. 2 Pt. I para. 4(4) repealed (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [46(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/3), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 56(7)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/56/7), [Sch. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/9); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(y)(z)(xxxiii)(cc)(xviii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/y/z/xxxiii/cc/xviii)
 
-[^key-014861af28b5a445197ded701f9edaed]: Textual amendment: Word in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/4/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-014861af28b5a445197ded701f9edaed]: Textual amendment: Word in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/4/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521091]: Textual amendment: Sch. 2 Pt. I para. 5(1)-(2B) substituted for Sch. 2 para. 5(1)(2) (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/2/1), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/1), [Sch. 8 paras. 4](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/5)); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(b)(aa)(i)(ii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/b/aa/i/ii)
 
@@ -1218,39 +1218,39 @@ according as the rules of the society provide.
 
 [^c15521121]: Textual amendment: Sch. 2 Pt. I para. 6 substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/2/3), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/1), [Sch. 8 paras. 4](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/5)); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(b)(aa)(i)(ii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/b/aa/i/ii)
 
-[^key-709ea0011dcfc7d424026b64060a4b06]: Textual amendment: Words in Sch. 2 para. 7(3) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/7/b)
+[^c-709ea0011dcfc7d424026b64060a4b06]: Textual amendment: Words in Sch. 2 para. 7(3) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/7/b)
 
 [^c15521131]: Textual amendment: Sch. 2 para. 7(5A) inserted (1.5.1995 with application as mentioned in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1995/5/section/2/2) of the amending Act) by [1995 c. 5](https://www.legislation.gov.uk/ukpga/1995/5), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1995/5/section/1/2)
 
 [^c15521141]: Textual amendment: Words in Sch. 2 para. 8(1) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 56(8)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/56/8); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiii)
 
-[^key-e533ff2433679ba46a3abdf1920546dc]: Textual amendment: Words in Sch. 2 para. 8(3) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/7/b)
+[^c-e533ff2433679ba46a3abdf1920546dc]: Textual amendment: Words in Sch. 2 para. 8(3) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/7/b)
 
 [^c15521171]: Textual amendment: Sch. 2 Pt. I para. 9(2)(2A) substituted for Sch. 2 para. 9(2) (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 36(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/36/1); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(h)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/h)
 
-[^key-48fec8120621c8ed311caf44903723fb]: Textual amendment: Words in Sch. 2 para. 9(2A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [11](https://www.legislation.gov.uk/uksi/2003/404/article/11)
+[^c-48fec8120621c8ed311caf44903723fb]: Textual amendment: Words in Sch. 2 para. 9(2A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [11](https://www.legislation.gov.uk/uksi/2003/404/article/11)
 
-[^key-a6d65da8d0b58a10ef0a0dbf8e8f193c]: Textual amendment: Word in [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/9) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a6d65da8d0b58a10ef0a0dbf8e8f193c]: Textual amendment: Word in [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/9) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521221]: Textual amendment: Sch. 2 Pt. I para. 9(8) inserted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 36(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/36/2); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(h)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/h)
 
 [^c15521251]: Textual amendment: Sch. 2 Pt. I para. 10 substituted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 36(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/36/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(h)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/h)
 
-[^key-a65ffa82ebef648f429a6fedc34338be]: Textual amendment: Word in [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a65ffa82ebef648f429a6fedc34338be]: Textual amendment: Word in [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521271]: Textual amendment: Cross-heading inserted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 36(4)](https://www.legislation.gov.uk/ukpga/1997/32/section/36/4); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(h)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/h)
 
 [^c15521321]: Textual amendment: Sch. 2 Pt. I paras. 10A-10C inserted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 36(4)](https://www.legislation.gov.uk/ukpga/1997/32/section/36/4); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(h)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/h)
 
-[^key-5aa0344c7889c006273e82938e49c021]: Textual amendment: Word in [Sch. 2 para. 10A(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10A/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(6)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-5aa0344c7889c006273e82938e49c021]: Textual amendment: Word in [Sch. 2 para. 10A(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10A/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(6)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521341]: Modification: Sch. 2 para. 10A(3); Functions of Building Societies Commission transferred (1.12.2001) to the Treasury by S.I 2001/2617, arts. 2(b), 4(1), Sch. 1 Pt. III; 2001/3538 art. 2(1)
 
 [^c15521351]: Textual amendment: Words in Sch. 2 para. 10A(3) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 200(e)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/200/e) (with [S. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/section/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-e5f1ff313bfbefbc8312143eaf211d37]: Textual amendment: Word in [Sch. 2 para. 10A(3)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10A/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(6)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-e5f1ff313bfbefbc8312143eaf211d37]: Textual amendment: Word in [Sch. 2 para. 10A(3)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10A/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(6)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-680c2f3b3801a31a96bccfcdf2090db4]: Textual amendment: Word in [Sch. 2 para. 10A(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10A/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(6)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-680c2f3b3801a31a96bccfcdf2090db4]: Textual amendment: Word in [Sch. 2 para. 10A(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/10A/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(6)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521381]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -1276,7 +1276,7 @@ according as the rules of the society provide.
 
 [^c15521521]: Textual amendment: Words in Sch. 2 Pt. I para. 11(1)(b) substituted (9.6.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [Sch. 7 para. 56(9)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/56/9); [S.I. 1997/1427](https://www.legislation.gov.uk/uksi/1997/1427), [art. 2(k)(n)(xv)](https://www.legislation.gov.uk/uksi/1997/1427/article/2/k/n/xv)
 
-[^key-2769adc4921039b7c939171bf5d98ca5]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/11) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(7)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-2769adc4921039b7c939171bf5d98ca5]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/11) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(7)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521561]: Modification: Sch. 2 para. 12(4): Functions of Building Societies Commission transferred (1.12.2001) to Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/III); 2001/3538 art. 2(1)
 
@@ -1284,29 +1284,29 @@ according as the rules of the society provide.
 
 [^c15521581]: Textual amendment: Sch. 2 Pt. I para. 13(1) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 56(10)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/56/10); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiii)
 
-[^key-400128b88886ef60ba9b356351700dbd]: Textual amendment: Word in Sch. 2 para. 13(1)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2003/404/article/12/2)
+[^c-400128b88886ef60ba9b356351700dbd]: Textual amendment: Word in Sch. 2 para. 13(1)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2003/404/article/12/2)
 
-[^key-e3e51083920cfb54e60ae2a3bc275b91]: Textual amendment: Sch. 2 para. 13(1A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2003/404/article/12/3)
+[^c-e3e51083920cfb54e60ae2a3bc275b91]: Textual amendment: Sch. 2 para. 13(1A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2003/404/article/12/3)
 
-[^key-4c4a000071068860e3e2460ec5c7615e]: Textual amendment: Word in Sch. 2 para. 13(4)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/12/4/a)
+[^c-4c4a000071068860e3e2460ec5c7615e]: Textual amendment: Word in Sch. 2 para. 13(4)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/12/4/a)
 
-[^key-7de9bbcaff42b64b8ccb175ef1a9af4a]: Textual amendment: Word in Sch. 2 para. 13(4)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/12/4/b)
+[^c-7de9bbcaff42b64b8ccb175ef1a9af4a]: Textual amendment: Word in Sch. 2 para. 13(4)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/12/4/b)
 
 [^c15521731]: Textual amendment: Sch. 2 Pt. I para. 15(1)(1A)(2) substituted for Sch. 2 para. 15(1)(2) (9.6.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 37(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/37/1); [S.I. 1997/1427](https://www.legislation.gov.uk/uksi/1997/1427), [art. 2(i)](https://www.legislation.gov.uk/uksi/1997/1427/article/2/i)
 
 [^c15521741]: Textual amendment: Words in Sch. 2 para. 15(1)(a) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 200(h)(i)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/200/h/i) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-4e499898a66ce6abbca4450cf66a52f6]: Textual amendment: Words in [Sch. 2 para. 15(1)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/15/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(8)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/8/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-4e499898a66ce6abbca4450cf66a52f6]: Textual amendment: Words in [Sch. 2 para. 15(1)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/15/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(8)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/8/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521751]: Textual amendment: Words in Sch. 2 para. 15(1)(b) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 200(h)(ii)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/200/h/ii) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-0e5473a42c4924fceafb431176c37cf9]: Textual amendment: Word in [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(8)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/8/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-0e5473a42c4924fceafb431176c37cf9]: Textual amendment: Word in [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(8)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/8/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521781]: Textual amendment: Sch. 2 para. 15(c) and the word “and" immediately preceding repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b),13(2), Sch. 4 (with S. 13(3), Sch. 5); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
 [^c15521801]: Textual amendment: Sch. 2 para. 15(2A) inserted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 200(h)(v)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/200/h/v) (with [S. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/section/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-2a9f443bdb03187961e88032716b39c1]: Textual amendment: [Sch. 2 para. 15(3A)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/15/3A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(8)(c)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/8/c) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-2a9f443bdb03187961e88032716b39c1]: Textual amendment: [Sch. 2 para. 15(3A)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/15/3A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(8)(c)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/8/c) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15521841]: Textual amendment: Sch. 2 Pt. I para. 15(7)-(11) inserted (9.6.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/37/2); [S.I. 1997/1427](https://www.legislation.gov.uk/uksi/1997/1427), [art. 2(i)](https://www.legislation.gov.uk/uksi/1997/1427/article/2/i)
 
@@ -1322,7 +1322,7 @@ according as the rules of the society provide.
 
 [^c15521921]: Textual amendment: Sch. 2 Pt. II substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/3/2), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/1997/32/schedule/1); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(c)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/c)
 
-[^key-cc9f46e475fa4f565018da6b3a25ef4b]: Textual amendment: Words in Sch. 2 para. 17(3) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(6)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/30/6/a)
+[^c-cc9f46e475fa4f565018da6b3a25ef4b]: Textual amendment: Words in Sch. 2 para. 17(3) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(6)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/30/6/a)
 
 [^c15521931]: Textual amendment: Sch. 2 Pt. II substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/3/2), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/1997/32/schedule/1); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(c)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/c)
 
@@ -1332,25 +1332,25 @@ according as the rules of the society provide.
 
 [^c15521981]: Modification: Sch. 2 Pt. III (paras. 20–36) modified by [S.I. 1987/426](https://www.legislation.gov.uk/uksi/1987/426), [art. 4](https://www.legislation.gov.uk/uksi/1987/426/article/4)
 
-[^key-d39d03cfa9a4881b9cbbc36d2e806e86]: Textual amendment: Word in [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/20) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(9)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/9) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-d39d03cfa9a4881b9cbbc36d2e806e86]: Textual amendment: Word in [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/20) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(9)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/9) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15522011]: Textual amendment: Sch. 2 Pt. III para. 20A and cross-heading inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 25](https://www.legislation.gov.uk/ukpga/1997/32/section/25), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(q)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/q)
 
 [^c15522051]: Textual amendment: Sch. 2 Pt. III para. 20A and cross-heading inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 25](https://www.legislation.gov.uk/ukpga/1997/32/section/25), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(q)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/q)
 
-[^key-0cbfd6907d8e3d09de1ad21de48c6ff8]: Textual amendment: Sch. 2 para. 20A(1A)(1B) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2003/404/article/13/2)
+[^c-0cbfd6907d8e3d09de1ad21de48c6ff8]: Textual amendment: Sch. 2 para. 20A(1A)(1B) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2003/404/article/13/2)
 
-[^key-32fbcd6ca87e3bbbf86b6dd1cb9f6bf6]: Textual amendment: Words in Sch. 2 para. 20A(1B)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/2)
+[^c-32fbcd6ca87e3bbbf86b6dd1cb9f6bf6]: Textual amendment: Words in Sch. 2 para. 20A(1B)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/2)
 
 [^c15522061]: Textual amendment: Figure in Sch. 2 para. 20A substituted (1.12.1999) by [S.I. 1999/3031](https://www.legislation.gov.uk/uksi/1999/3031), [art. 2](https://www.legislation.gov.uk/uksi/1999/3031/article/2)
 
-[^key-dba59dd5b9a400e14c057578e1e94d53]: Textual amendment: Word in Sch. 2 para. 20A(7) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2007/860/article/2/7)
+[^c-dba59dd5b9a400e14c057578e1e94d53]: Textual amendment: Word in Sch. 2 para. 20A(7) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2007/860/article/2/7)
 
-[^key-9bb22c7ad82db42bfb67732a2c0276f7]: Textual amendment: Words in Sch. 2 para. 20A(9)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(6)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/30/6/b)
+[^c-9bb22c7ad82db42bfb67732a2c0276f7]: Textual amendment: Words in Sch. 2 para. 20A(9)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(6)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/30/6/b)
 
-[^key-7b6876fb79653bd9086e5c019baa040d]: Textual amendment: Sch. 2 para. 20A(11A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2003/404/article/13/3)
+[^c-7b6876fb79653bd9086e5c019baa040d]: Textual amendment: Sch. 2 para. 20A(11A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2003/404/article/13/3)
 
-[^key-821d3d975617f7c93492b8ac7ea890e8]: Textual amendment: Words in Sch. 2 para. 20A(12) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(10)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/10) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-821d3d975617f7c93492b8ac7ea890e8]: Textual amendment: Words in Sch. 2 para. 20A(12) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(10)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/10) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15522081]: Modification: Sch. 2 para. 20A(13): Functions of Building Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) arts. 2(b), 4(1), Sch. 1 Pt. III; [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
@@ -1364,59 +1364,59 @@ according as the rules of the society provide.
 
 [^c15522131]: Textual amendment: Sch. 2 Pt. III para. 20B and cross-heading inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 26](https://www.legislation.gov.uk/ukpga/1997/32/section/26), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(r)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/r)
 
-[^key-c237eeb5ba6f5415aa2ab90b9dd912f5]: Textual amendment: Words in Sch. 2 para. 21(1) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/a)
+[^c-c237eeb5ba6f5415aa2ab90b9dd912f5]: Textual amendment: Words in Sch. 2 para. 21(1) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/a)
 
 [^c15522151]: Modification: Sch. 2 Pt. III paras. 22, 34 excluded by [S.I. 1987/426](https://www.legislation.gov.uk/uksi/1987/426), [art. 3](https://www.legislation.gov.uk/uksi/1987/426/article/3)
 
 [^c15522161]: Textual amendment: Sch. 2 Pt. III para. 22(2)(2A) substituted for Sch. 2 Pt. III para. 22(2) (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(2)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/2); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-18cda6b5caa73868d154dea984efbb4d]: Textual amendment: Words in Sch. 2 para. 22(2A) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/b)
+[^c-18cda6b5caa73868d154dea984efbb4d]: Textual amendment: Words in Sch. 2 para. 22(2A) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/b)
 
-[^key-ca5b04d5160e598db873c858a0461109]: Textual amendment: Sch. 2 paras. 22A, 22B and cross-headings inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [14](https://www.legislation.gov.uk/uksi/2003/404/article/14)
+[^c-ca5b04d5160e598db873c858a0461109]: Textual amendment: Sch. 2 paras. 22A, 22B and cross-headings inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [14](https://www.legislation.gov.uk/uksi/2003/404/article/14)
 
-[^key-501534817da21830f5593c4d6f0b36ca]: Textual amendment: Words in Sch. 2 para. 22B(2)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/3)
+[^c-501534817da21830f5593c4d6f0b36ca]: Textual amendment: Words in Sch. 2 para. 22B(2)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/3)
 
 [^c15522171]: Textual amendment: Sch. 2 Pt. III para. 23(1) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(3)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-4c4930be25acf72edb2acc0d6c043d6a]: Textual amendment: Words in Sch. 2 para. 23(1) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/35/a)
+[^c-4c4930be25acf72edb2acc0d6c043d6a]: Textual amendment: Words in Sch. 2 para. 23(1) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/35/a)
 
 [^c15522181]: Textual amendment: Sch. 2 Pt. III para. 23(3)(4) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(4)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/4); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-1ec42c730b6c7e1586eb598e886a78de]: Textual amendment: Words in Sch. 2 para. 23(4)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(7)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/30/7/a)
+[^c-1ec42c730b6c7e1586eb598e886a78de]: Textual amendment: Words in Sch. 2 para. 23(4)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(7)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/30/7/a)
 
-[^key-2c18794e11089ceaba2979bb896ba088]: Textual amendment: Sch. 2 para. 23(5A)-(5C) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/35/b)
+[^c-2c18794e11089ceaba2979bb896ba088]: Textual amendment: Sch. 2 para. 23(5A)-(5C) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/35/b)
 
-[^key-c4d883acc98523f2a4ca0b9ac3ccf4a3]: Textual amendment: Sch. 2 para. 23(5B) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4d883acc98523f2a4ca0b9ac3ccf4a3]: Textual amendment: Sch. 2 para. 23(5B) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-93a347670c68c4d12fbebb46fc239769]: Textual amendment: Sch. 2 para. 23(5BA) inserted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/6/b) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93a347670c68c4d12fbebb46fc239769]: Textual amendment: Sch. 2 para. 23(5BA) inserted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/6/b) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-49d4955041f246e0585004702e8dc2ac]: Textual amendment: Sch. 2 para. 23(5C) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-49d4955041f246e0585004702e8dc2ac]: Textual amendment: Sch. 2 para. 23(5C) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3833d7f678abf611ec550b995932e3d8]: Textual amendment: Words in Sch. 2 para. 23(6)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(7)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/30/7/b)
+[^c-3833d7f678abf611ec550b995932e3d8]: Textual amendment: Words in Sch. 2 para. 23(6)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(7)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/30/7/b)
 
-[^key-ffd6de3749a4d1b345e32603ccd1eb16]: Textual amendment: Sch. 2 para. 23(6)(bb) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(7)(c)](https://www.legislation.gov.uk/uksi/2003/404/article/30/7/c)
+[^c-ffd6de3749a4d1b345e32603ccd1eb16]: Textual amendment: Sch. 2 para. 23(6)(bb) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(7)(c)](https://www.legislation.gov.uk/uksi/2003/404/article/30/7/c)
 
-[^key-13a8a519b6d5f29d2e52327084ebad6f]: Textual amendment: Words in Sch. 2 para. 23(6)(bb) substituted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/593/article/3/2/a)
+[^c-13a8a519b6d5f29d2e52327084ebad6f]: Textual amendment: Words in Sch. 2 para. 23(6)(bb) substituted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/593/article/3/2/a)
 
-[^key-932ed9d274586033fd9efaba07e97a0b]: Textual amendment: Words in Sch. 2 para. 23(6)(c) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(c)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/c)
+[^c-932ed9d274586033fd9efaba07e97a0b]: Textual amendment: Words in Sch. 2 para. 23(6)(c) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(c)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/c)
 
-[^key-1e541d9a1223946df7f85d30320705a5]: Textual amendment: Sch. 2 para. 24(1A)-(1D) substituted for Sch. 2 para. 24(1A)(1B) (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/593/article/2/1)
+[^c-1e541d9a1223946df7f85d30320705a5]: Textual amendment: Sch. 2 para. 24(1A)-(1D) substituted for Sch. 2 para. 24(1A)(1B) (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/593/article/2/1)
 
-[^key-a1f68c5b19484ae4712c4399292fc50d]: Textual amendment: Words in Sch. 2 para. 24(1B)(b) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(4)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/4)
+[^c-a1f68c5b19484ae4712c4399292fc50d]: Textual amendment: Words in Sch. 2 para. 24(1B)(b) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(4)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/4)
 
-[^key-6dda157a4ab827c27d9de3fbf5713bc3]: Textual amendment: Words in Sch. 2 para. 24(2) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(d)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/d)
+[^c-6dda157a4ab827c27d9de3fbf5713bc3]: Textual amendment: Words in Sch. 2 para. 24(2) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(3)(d)](https://www.legislation.gov.uk/uksi/2003/404/article/29/3/d)
 
 [^c15522191]: Textual amendment: Sch. 2 Pt. III para. 24(4A) inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(5)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/5); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
 [^c15522201]: Textual amendment: Words in Sch. 2 Pt. III para. 24(5) inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(6)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/6); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-47955032c01ff9330c3363baa0bfc3b4]: Textual amendment: Words in Sch. 2 para. 24(6) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(4)](https://www.legislation.gov.uk/uksi/2003/404/article/29/4)
+[^c-47955032c01ff9330c3363baa0bfc3b4]: Textual amendment: Words in Sch. 2 para. 24(6) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(4)](https://www.legislation.gov.uk/uksi/2003/404/article/29/4)
 
-[^key-7c1ec763cae043ffa47254bc63e48ae8]: Textual amendment: Words in Sch. 2 para. 25(2) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(5)](https://www.legislation.gov.uk/uksi/2003/404/article/29/5)
+[^c-7c1ec763cae043ffa47254bc63e48ae8]: Textual amendment: Words in Sch. 2 para. 25(2) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(5)](https://www.legislation.gov.uk/uksi/2003/404/article/29/5)
 
 [^c15522211]: Textual amendment: Words in Sch. 2 Pt. III para. 26 inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(7)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/7); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-b3f95b6b5e40cce1b972f3cfd37d34b4]: Textual amendment: Words in Sch. 2 para. 27(1)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(8)](https://www.legislation.gov.uk/uksi/2003/404/article/30/8)
+[^c-b3f95b6b5e40cce1b972f3cfd37d34b4]: Textual amendment: Words in Sch. 2 para. 27(1)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(8)](https://www.legislation.gov.uk/uksi/2003/404/article/30/8)
 
 [^c18336811]: Textual amendment: Sch. 2 Pt. III para. 27A inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(8)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/8); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II)((w)(z)(xxxiv)
 
@@ -1424,9 +1424,9 @@ according as the rules of the society provide.
 
 [^c15522241]: Textual amendment: Sch. 2 Pt. III para. 29(2) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/1997/32/section/2/4), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/1), [Sch. 8 paras. 4](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/5)); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(b)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/b)
 
-[^key-e0a9ea263b8c3df7acae18c3bdac60c8]: Modification: Sch. 2 para. 30: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-e0a9ea263b8c3df7acae18c3bdac60c8]: Modification: Sch. 2 para. 30: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-30dfa9f993d9dccf0ccfa794434acd50]: Modification: Sch. 2 para. 30 applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
+[^c-30dfa9f993d9dccf0ccfa794434acd50]: Modification: Sch. 2 para. 30 applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
 
 [^c15522581]: Textual amendment: Words in Sch. 2 Pt. III para. 30(2) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(10)(a)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/10/a); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
@@ -1440,11 +1440,11 @@ according as the rules of the society provide.
 
 [^c15522661]: Textual amendment: Words in Sch. 2 Pt. III para. 30(3) repealed (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [46(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/3), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(11)(c)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/11/c), [Sch. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/9); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(y)(z)(xxxiv)(cc)(xviii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/y/z/xxxiv/cc/xviii)
 
-[^key-36222850197312bf9e00182698373f69]: Textual amendment: Words in [Sch. 2 para. 30(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/30/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(11)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/11) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-36222850197312bf9e00182698373f69]: Textual amendment: Words in [Sch. 2 para. 30(4)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/30/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(11)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/11) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15522671]: Textual amendment: Words in Sch. 2 para. 30(4) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 200(l)(i)(ii)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/200/l/i/ii) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-8dc671351f9fa8ab1054f612c358873a]: Textual amendment: [Sch. 2 para. 30(4A)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/30/4A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(12)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/12) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-8dc671351f9fa8ab1054f612c358873a]: Textual amendment: [Sch. 2 para. 30(4A)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/30/4A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(12)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/12) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15522691]: Textual amendment: Words in Sch. 2 Pt. III para. 30(5) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(12)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/12); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
@@ -1458,11 +1458,11 @@ according as the rules of the society provide.
 
 [^c15522861]: Textual amendment: Sch. 2 Pt. III para. 31(2)(a)(i) substituted (1.1.1998) by [S.I. 1997/2840](https://www.legislation.gov.uk/uksi/1997/2840), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2840/article/2/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/1997/2840/article/3))
 
-[^key-1efd9cf30248d4b03cc4cb1111c8dbc6]: Textual amendment: Words in Sch. 2 para. 31(2)(a)(i) substituted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/8/a)
+[^c-1efd9cf30248d4b03cc4cb1111c8dbc6]: Textual amendment: Words in Sch. 2 para. 31(2)(a)(i) substituted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/8/a)
 
-[^key-43a67e137316ba2905cb86bc330079b9]: Textual amendment: Words in Sch. 2 para. 31(2)(a)(i) (aa) substituted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/8/b)
+[^c-43a67e137316ba2905cb86bc330079b9]: Textual amendment: Words in Sch. 2 para. 31(2)(a)(i) (aa) substituted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/8/b)
 
-[^key-842d52f1f7f31f1d1a1880b271ff4dd3]: Textual amendment: Words in Sch. 2 para. 31(2)(a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/36) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/66)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22), [25(d)](https://www.legislation.gov.uk/uksi/2020/523/regulation/25/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-842d52f1f7f31f1d1a1880b271ff4dd3]: Textual amendment: Words in Sch. 2 para. 31(2)(a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/36) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/66)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22), [25(d)](https://www.legislation.gov.uk/uksi/2020/523/regulation/25/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15522871]: Textual amendment: Words in Sch. 2 para. 31(2)(a)(i) substituted (1.12.1999) by [S.I. 1999/3033](https://www.legislation.gov.uk/uksi/1999/3033), [art. 2](https://www.legislation.gov.uk/uksi/1999/3033/article/2)
 
@@ -1470,19 +1470,19 @@ according as the rules of the society provide.
 
 [^c15522891]: Textual amendment: Sch. 2 Pt. III para. 31(3)(a)-(c) substituted for Sch. 2 para. 31(3)(a)(b) (1.1.1998) by [S.I. 1997/2840](https://www.legislation.gov.uk/uksi/1997/2840), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/2840/article/2/3) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/1997/2840/article/3))
 
-[^key-d5cf5ea7c882b17191c50b4c0233cf61]: Textual amendment: Words in Sch. 2 para. 31(5) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(9)](https://www.legislation.gov.uk/uksi/2003/404/article/30/9)
+[^c-d5cf5ea7c882b17191c50b4c0233cf61]: Textual amendment: Words in Sch. 2 para. 31(5) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(9)](https://www.legislation.gov.uk/uksi/2003/404/article/30/9)
 
-[^key-c860c297702d5708b8500274f6f23707]: Textual amendment: Word in Sch. 2 para. 31(7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(13)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/13) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-c860c297702d5708b8500274f6f23707]: Textual amendment: Word in Sch. 2 para. 31(7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 53(13)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/53/13) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-81e65c5fcdd4b5772c4c112d4f182f2d]: Textual amendment: Sch. 2 para. 31(9) inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 8(c)](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/8/c)
+[^c-81e65c5fcdd4b5772c4c112d4f182f2d]: Textual amendment: Sch. 2 para. 31(9) inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 8(c)](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/8/c)
 
-[^key-f57b5d3a6553ec3a8783b2df0e4580fa]: Textual amendment: Sch. 2 para. 32(2A)-(2D) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2003/404/article/16/2)
+[^c-f57b5d3a6553ec3a8783b2df0e4580fa]: Textual amendment: Sch. 2 para. 32(2A)-(2D) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2003/404/article/16/2)
 
-[^key-edc9e2c079bf2f29840afd56d551d535]: Textual amendment: Words in Sch. 2 para. 32(2D)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(5)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/5)
+[^c-edc9e2c079bf2f29840afd56d551d535]: Textual amendment: Words in Sch. 2 para. 32(2D)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(5)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/5)
 
-[^key-9c59c6fcea9cbcdde83cb3b7b5d9be84]: Textual amendment: Sch. 2 para. 32(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2003/404/article/16/3)
+[^c-9c59c6fcea9cbcdde83cb3b7b5d9be84]: Textual amendment: Sch. 2 para. 32(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2003/404/article/16/3)
 
-[^key-d0d66c6f6de4db910f3b663a554d2235]: Textual amendment: Word in Sch. 2 para. 32(3A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/593/article/3/2/b)
+[^c-d0d66c6f6de4db910f3b663a554d2235]: Textual amendment: Word in Sch. 2 para. 32(3A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/593/article/3/2/b)
 
 [^c15522911]: Modification: Sch. 2 paras. 32(4)(6): Functions of Building Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/III); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
@@ -1490,53 +1490,53 @@ according as the rules of the society provide.
 
 [^c15522941]: Textual amendment: Words in Sch. 2 Pt. III para. 33(1) inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(14)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/14); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-b93673b01ab9409ba796566cc11e3ce8]: Textual amendment: Words in Sch. 2 para. 33(1) omitted (20.3.2003) by virtue of [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2003/404/article/17/2), [30(10)](https://www.legislation.gov.uk/uksi/2003/404/article/30/10)
+[^c-b93673b01ab9409ba796566cc11e3ce8]: Textual amendment: Words in Sch. 2 para. 33(1) omitted (20.3.2003) by virtue of [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2003/404/article/17/2), [30(10)](https://www.legislation.gov.uk/uksi/2003/404/article/30/10)
 
-[^key-49cfc0e4ff92e56dc2185ee5dfd27aba]: Textual amendment: Sch. 2 para. 33(1A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2003/404/article/17/3)
+[^c-49cfc0e4ff92e56dc2185ee5dfd27aba]: Textual amendment: Sch. 2 para. 33(1A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2003/404/article/17/3)
 
 [^c15522951]: Textual amendment: Sch. 2 Pt. III para. 33(5) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(15)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/15); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-291f99a90e86cf8cf171f2970111045f]: Textual amendment: Sch. 2 para. 33(5A)-(5E) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2003/404/article/17/4)
+[^c-291f99a90e86cf8cf171f2970111045f]: Textual amendment: Sch. 2 para. 33(5A)-(5E) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2003/404/article/17/4)
 
-[^key-372de0038cb6d166bdaa4de7dc644069]: Textual amendment: Words in Sch. 2 para. 33(5C)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/3)
+[^c-372de0038cb6d166bdaa4de7dc644069]: Textual amendment: Words in Sch. 2 para. 33(5C)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/3)
 
-[^key-9be14b10355803685a9656db08c26b35]: Textual amendment: Words in Sch. 2 para. 33(6)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(5)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/17/5/a)
+[^c-9be14b10355803685a9656db08c26b35]: Textual amendment: Words in Sch. 2 para. 33(6)(a) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(5)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/17/5/a)
 
-[^key-a704b8faf4e786997143028589d34cfc]: Textual amendment: Words in Sch. 2 para. 33(6)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(5)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/17/5/b)
+[^c-a704b8faf4e786997143028589d34cfc]: Textual amendment: Words in Sch. 2 para. 33(6)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(5)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/17/5/b)
 
-[^key-a012fa912936f7dcb42ef70d2aad621e]: Textual amendment: Sch. 2 para. 33(6A)-(6C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(6)](https://www.legislation.gov.uk/uksi/2003/404/article/17/6)
+[^c-a012fa912936f7dcb42ef70d2aad621e]: Textual amendment: Sch. 2 para. 33(6A)-(6C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(6)](https://www.legislation.gov.uk/uksi/2003/404/article/17/6)
 
-[^key-4df0e35020a0b77ea624bd8d7e74934a]: Textual amendment: Sch. 2 para. 33(7A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(7)](https://www.legislation.gov.uk/uksi/2003/404/article/17/7)
+[^c-4df0e35020a0b77ea624bd8d7e74934a]: Textual amendment: Sch. 2 para. 33(7A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [17(7)](https://www.legislation.gov.uk/uksi/2003/404/article/17/7)
 
-[^key-e7e0cc42b1d240494ea85e4a94cbf9df]: Textual amendment: Sch. 2 para 33A and cross-heading inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [18](https://www.legislation.gov.uk/uksi/2003/404/article/18)
+[^c-e7e0cc42b1d240494ea85e4a94cbf9df]: Textual amendment: Sch. 2 para 33A and cross-heading inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [18](https://www.legislation.gov.uk/uksi/2003/404/article/18)
 
-[^key-952b0128fe42d293cc0d163bb8bbccc9]: Textual amendment: Words in Sch. 2 para. 33A(9)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(6)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/6)
+[^c-952b0128fe42d293cc0d163bb8bbccc9]: Textual amendment: Words in Sch. 2 para. 33A(9)(c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 12(6)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/12/6)
 
 [^c15522971]: Modification: Sch. 2 Pt. III paras. 22, 34 excluded by [S.I. 1987/426](https://www.legislation.gov.uk/uksi/1987/426), [art. 3](https://www.legislation.gov.uk/uksi/1987/426/article/3)
 
-[^key-abc426cfc6506ccd228b4a75c82f8f29]: Textual amendment: Words in Sch. 2 para. 34(1)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(11)](https://www.legislation.gov.uk/uksi/2003/404/article/30/11)
+[^c-abc426cfc6506ccd228b4a75c82f8f29]: Textual amendment: Words in Sch. 2 para. 34(1)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(11)](https://www.legislation.gov.uk/uksi/2003/404/article/30/11)
 
-[^key-ffc5ad1af0417a91569bb00a7baa40e4]: Textual amendment: Words in Sch. 2 para. 34(1) omitted (20.3.2003) by virtue of [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(6)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/29/6/a)
+[^c-ffc5ad1af0417a91569bb00a7baa40e4]: Textual amendment: Words in Sch. 2 para. 34(1) omitted (20.3.2003) by virtue of [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(6)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/29/6/a)
 
 [^c15522981]: Textual amendment: Sch. 2 Pt. III para. 34(2) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 57(16)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/57/16); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxiv)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxiv)
 
-[^key-fb01242263c1cb9b6a52fc5beeeaede4]: Textual amendment: Sch. 2 para. 34(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2003/404/article/19/2)
+[^c-fb01242263c1cb9b6a52fc5beeeaede4]: Textual amendment: Sch. 2 para. 34(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2003/404/article/19/2)
 
-[^key-c9de5d2bfe1d2c50ac099db5e80eb1bc]: Textual amendment: Words in Sch. 2 para. 34(2A) substituted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/593/article/2/2)
+[^c-c9de5d2bfe1d2c50ac099db5e80eb1bc]: Textual amendment: Words in Sch. 2 para. 34(2A) substituted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/593/article/2/2)
 
-[^key-a4f1d062d44210aeab73d616211004d6]: Textual amendment: Words in Sch. 2 para. 34(3) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(6)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/29/6/b)
+[^c-a4f1d062d44210aeab73d616211004d6]: Textual amendment: Words in Sch. 2 para. 34(3) substituted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [29(6)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/29/6/b)
 
-[^key-7e35885bf976f935ea0ea3d55ca83a3a]: Textual amendment: Sch. 2 para. 34(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2003/404/article/19/3)
+[^c-7e35885bf976f935ea0ea3d55ca83a3a]: Textual amendment: Sch. 2 para. 34(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2003/404/article/19/3)
 
-[^key-318ecb08b2ecc41de8730815c12cab56]: Textual amendment: Words in Sch. 2 para. 34(5) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2003/404/article/19/4)
+[^c-318ecb08b2ecc41de8730815c12cab56]: Textual amendment: Words in Sch. 2 para. 34(5) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2003/404/article/19/4)
 
-[^key-59eb56ab7334abd4e7864c4d38743b1a]: Textual amendment: [Sch. 2 para. 34A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/34A) inserted (24.7.2024) by [Building Societies Act 1986 (Amendment) Act 2024 (c. 18)](https://www.legislation.gov.uk/ukpga/2024/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2024/18/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
+[^c-59eb56ab7334abd4e7864c4d38743b1a]: Textual amendment: [Sch. 2 para. 34A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2/paragraph/34A) inserted (24.7.2024) by [Building Societies Act 1986 (Amendment) Act 2024 (c. 18)](https://www.legislation.gov.uk/ukpga/2024/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2024/18/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
 
-[^key-45919ba9ed18a3754680ea723d872386]: Textual amendment: Words in Sch. 2 para. 35(1) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(12)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/30/12/a)
+[^c-45919ba9ed18a3754680ea723d872386]: Textual amendment: Words in Sch. 2 para. 35(1) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(12)(a)](https://www.legislation.gov.uk/uksi/2003/404/article/30/12/a)
 
-[^key-25aa59668f4387003f17271c6d75744a]: Textual amendment: Words in Sch. 2 para. 35(3) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(12)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/30/12/b)
+[^c-25aa59668f4387003f17271c6d75744a]: Textual amendment: Words in Sch. 2 para. 35(3) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(12)(b)](https://www.legislation.gov.uk/uksi/2003/404/article/30/12/b)
 
-[^key-3b1e70bb5e71c73ce42d8f37efb37900]: Textual amendment: Words in Sch. 2 para. 35(4) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(12)(c)](https://www.legislation.gov.uk/uksi/2003/404/article/30/12/c)
+[^c-3b1e70bb5e71c73ce42d8f37efb37900]: Textual amendment: Words in Sch. 2 para. 35(4) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(12)(c)](https://www.legislation.gov.uk/uksi/2003/404/article/30/12/c)
 
 [^c15522991]: Modification: Sch. 2 para. 36(1)(3): functions of Building Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/III); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 

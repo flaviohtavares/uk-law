@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power to delegate prescription of forms etc.[^key-881ee82d5dc26836ed5ad91070b98de1]
+## 25. Power to delegate prescription of forms etc.[^c-881ee82d5dc26836ed5ad91070b98de1]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ In section 7 of the Employment Tribunals Act 1996 (c. 17) (employment tribunal p
 
 ## Annotations
 
-[^key-881ee82d5dc26836ed5ad91070b98de1]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2002/22/section/25) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)
+[^c-881ee82d5dc26836ed5ad91070b98de1]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2002/22/section/25) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)

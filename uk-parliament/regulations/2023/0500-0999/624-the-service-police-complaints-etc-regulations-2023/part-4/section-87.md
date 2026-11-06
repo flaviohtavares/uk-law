@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Interpretation of this Part[^key-822d53a4df623647d5b75167d490d01d]
+## 87. Interpretation of this Part[^c-822d53a4df623647d5b75167d490d01d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In this Part—
 
 ## Annotations
 
-[^key-822d53a4df623647d5b75167d490d01d]: Commencement: Reg. 87 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-822d53a4df623647d5b75167d490d01d]: Commencement: Reg. 87 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00016]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).

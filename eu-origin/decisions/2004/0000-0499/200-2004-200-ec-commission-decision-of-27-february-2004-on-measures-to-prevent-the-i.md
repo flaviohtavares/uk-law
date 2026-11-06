@@ -37,32 +37,32 @@ on measures to prevent the introduction into and the spread within the Community
 
 (2004/200/EC) (revoked)
 
-[^key-52d1f036b50bc8cf9b3ea6df3e63569a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d1f036b50bc8cf9b3ea6df3e63569a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52d1f036b50bc8cf9b3ea6df3e63569a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d1f036b50bc8cf9b3ea6df3e63569a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Conditions laid down in Articles 2 and 3[^key-52d1f036b50bc8cf9b3ea6df3e63569a]
+## ANNEX — Conditions laid down in Articles 2 and 3[^c-52d1f036b50bc8cf9b3ea6df3e63569a]
 
-1.[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-52d1f036b50bc8cf9b3ea6df3e63569a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52d1f036b50bc8cf9b3ea6df3e63569a]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/8) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-52d1f036b50bc8cf9b3ea6df3e63569a]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/8) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

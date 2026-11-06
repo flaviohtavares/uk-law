@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Choice of investments by trustees of occupational pension scheme under a trust: meaning of “proper advice”[^key-e7983c21c284f22b8befab4313e4f219]
+## 140. Choice of investments by trustees of occupational pension scheme under a trust: meaning of “proper advice”[^c-e7983c21c284f22b8befab4313e4f219]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For paragraph (a) of section 36(6) of the Pensions Act 1995 (choice of investmen
 
 ## Annotations
 
-[^key-e7983c21c284f22b8befab4313e4f219]: Commencement: Art. 140 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e7983c21c284f22b8befab4313e4f219]: Commencement: Art. 140 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

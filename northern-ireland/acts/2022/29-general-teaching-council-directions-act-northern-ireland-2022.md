@@ -35,7 +35,7 @@ An Act to empower the Department of Education to give binding directions to the 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Power of Department to give directions[^key-30259acc30db0717fc80d0e910c135d2][^key-30259acc30db0717fc80d0e910c135d2]
+## 1. Power of Department to give directions[^c-30259acc30db0717fc80d0e910c135d2][^c-30259acc30db0717fc80d0e910c135d2]
 
 (1) The Education and Libraries (Northern Ireland) Order 1986 is amended as follows.
 
@@ -45,7 +45,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-## 2. Commencement and short title[^key-76d62dcf653e8c02a63b3a4f5152caf8][^key-76d62dcf653e8c02a63b3a4f5152caf8]
+## 2. Commencement and short title[^c-76d62dcf653e8c02a63b3a4f5152caf8][^c-76d62dcf653e8c02a63b3a4f5152caf8]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -53,6 +53,6 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-30259acc30db0717fc80d0e910c135d2]: Commencement: S. 1 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/29/section/2/1)
+[^c-30259acc30db0717fc80d0e910c135d2]: Commencement: S. 1 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/29/section/2/1)
 
-[^key-76d62dcf653e8c02a63b3a4f5152caf8]: Commencement: S. 2 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/29/section/2/1)
+[^c-76d62dcf653e8c02a63b3a4f5152caf8]: Commencement: S. 2 in operation at 7.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/29/section/2/1)

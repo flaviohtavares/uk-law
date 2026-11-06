@@ -43,11 +43,11 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement[^key-3de5e91d777188d310fb2b6f3b680b54]
+## 1. Citation and commencement[^c-3de5e91d777188d310fb2b6f3b680b54]
 
 These Regulations may be cited as the Wireless Telegraphy (Automotive Short Range Radar) (Exemption) Regulations 2013 and shall come into force on 30th June 2013.
 
-## 2. Interpretation[^key-7c72f13e6fd7c72d836cee429147e1df]
+## 2. Interpretation[^c-7c72f13e6fd7c72d836cee429147e1df]
 
 In these Regulations—
 
@@ -58,9 +58,9 @@ In these Regulations—
 - (e) “eirp” means effective isotropically radiated power;
 - (f) “exclusion zone”, in relation to each of the radio astronomy stations specified in Column 1 of the Schedule, means the zone within the circle whose centre is the location (expressed by longitude and latitude coordinates) of the radio astronomy station, as specified in Column 2 of the Schedule, and whose radius is the distance specified in Column 3 of the Schedule;
 - (g) “the Act” means the Wireless Telegraphy Act 2006; and
-- (h) “vehicle” has the meaning given by Article 3 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-df08e15e994162d3585f7fee79aa1e31].
+- (h) “vehicle” has the meaning given by Article 3 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-df08e15e994162d3585f7fee79aa1e31].
 
-## 3. Revocation[^key-dec401191ab28ec80ba71d87ab67913b]
+## 3. Revocation[^c-dec401191ab28ec80ba71d87ab67913b]
 
 (1) The regulations listed in paragraph (2) are hereby revoked.
 
@@ -70,7 +70,7 @@ In these Regulations—
 - (b) The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (No.2) (Amendment) Regulations 2008[^f00004]; and
 - (c) The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (No.2) (Amendment) Regulations 2010[^f00005].
 
-## 4. First exemption[^key-91665ac16a1a3c315dcae355ce0ed147]
+## 4. First exemption[^c-91665ac16a1a3c315dcae355ce0ed147]
 
 (1) The establishment or installation of equipment in a vehicle and the use of equipment so established or installed is exempt from the provisions of section 8(1) of the Act where the terms, provisions and limitations in this regulation are met.
 
@@ -104,14 +104,14 @@ In these Regulations—
 
 (9) Equipment operating in the frequency band between 22.21 gigahertz and 24.00 gigahertz must where the equipment has been established or installed in a vehicle put into service in the Community on or after 27th February 2008 automatically deactivate so that all emissions cease while the vehicle in which it is established or installed is within an exclusion zone.
 
-## 5. Second exemption[^key-96e2ee59349a4b174135a30a3171ed7f]
+## 5. Second exemption[^c-96e2ee59349a4b174135a30a3171ed7f]
 
 (1) The establishment or installation of equipment in a vehicle and the use of equipment so established or installed is also exempt from the provisions of section 8(1) of the Act where the terms, provisions and limitations in this regulation are met.
 
-(2)[^key-a5500a30aba57410b96a31598c88718d] The establishment or installation must be in a vehicle which was registered, placed on the market or put into service—
+(2)[^c-a5500a30aba57410b96a31598c88718d] The establishment or installation must be in a vehicle which was registered, placed on the market or put into service—
 
 - (a) in the European Union during the period starting on 1 July 2013 and ending immediately before IP completion day; or
-- (b) in the United Kingdom or in the European Union during the period starting on IP completion day and ending on 24th March 2023[^key-117086dd6d25008e58e1479fdf9d7a15],
+- (b) in the United Kingdom or in the European Union during the period starting on IP completion day and ending on 24th March 2023[^c-117086dd6d25008e58e1479fdf9d7a15],
 
 or must be in a vehicle in which equipment was so established or installed in order to replace that equipment.
 
@@ -129,7 +129,7 @@ Group Director of Strategy, International, Technology and Economists Group
 
 For and by the authority of the Office of Communications
 
-## SCHEDULE — EXCLUSION ZONES[^key-d65d9814e91f91d4b811ea2df5f6c24a]
+## SCHEDULE — EXCLUSION ZONES[^c-d65d9814e91f91d4b811ea2df5f6c24a]
 
 Regulation 2
 
@@ -159,13 +159,13 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36)
 
-[^key-3de5e91d777188d310fb2b6f3b680b54]: Commencement: Reg. 1 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
+[^c-3de5e91d777188d310fb2b6f3b680b54]: Commencement: Reg. 1 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
 
-[^key-7c72f13e6fd7c72d836cee429147e1df]: Commencement: Reg. 2 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
+[^c-7c72f13e6fd7c72d836cee429147e1df]: Commencement: Reg. 2 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
 
-[^key-df08e15e994162d3585f7fee79aa1e31]: Textual amendment: Words in [reg. 2(h)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/2/h) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 29(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/29/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-df08e15e994162d3585f7fee79aa1e31]: Textual amendment: Words in [reg. 2(h)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/2/h) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 29(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/29/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-dec401191ab28ec80ba71d87ab67913b]: Commencement: Reg. 3 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
+[^c-dec401191ab28ec80ba71d87ab67913b]: Commencement: Reg. 3 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2005/1585](https://www.legislation.gov.uk/uksi/2005/1585)
 
@@ -173,12 +173,12 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00005]: Footnote: [S.I. 2010/1484](https://www.legislation.gov.uk/uksi/2010/1484)
 
-[^key-91665ac16a1a3c315dcae355ce0ed147]: Commencement: Reg. 4 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
+[^c-91665ac16a1a3c315dcae355ce0ed147]: Commencement: Reg. 4 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
 
-[^key-96e2ee59349a4b174135a30a3171ed7f]: Commencement: Reg. 5 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
+[^c-96e2ee59349a4b174135a30a3171ed7f]: Commencement: Reg. 5 in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
 
-[^key-a5500a30aba57410b96a31598c88718d]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/5/2) substituted (31.12.2020) by [The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (Amendment) Regulations 2020 (S.I. 2020/1583)](https://www.legislation.gov.uk/uksi/2020/1583), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1583/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1583/regulation/2/2)
+[^c-a5500a30aba57410b96a31598c88718d]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/5/2) substituted (31.12.2020) by [The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (Amendment) Regulations 2020 (S.I. 2020/1583)](https://www.legislation.gov.uk/uksi/2020/1583), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1583/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1583/regulation/2/2)
 
-[^key-117086dd6d25008e58e1479fdf9d7a15]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/5/2/b) substituted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2023/243/regulation/3)
+[^c-117086dd6d25008e58e1479fdf9d7a15]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/5/2/b) substituted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2023/243/regulation/3)
 
-[^key-d65d9814e91f91d4b811ea2df5f6c24a]: Commencement: Sch. in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)
+[^c-d65d9814e91f91d4b811ea2df5f6c24a]: Commencement: Sch. in force at 30.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1)

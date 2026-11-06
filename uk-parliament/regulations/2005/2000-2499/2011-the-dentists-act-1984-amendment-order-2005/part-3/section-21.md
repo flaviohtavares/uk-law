@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Substitution of section 30[^key-b1c0f145a7bc6fe40f46a0cb69d31cc5]
+## 21. Substitution of section 30[^c-b1c0f145a7bc6fe40f46a0cb69d31cc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ For section 30 substitute—
 
 ## Annotations
 
-[^key-b1c0f145a7bc6fe40f46a0cb69d31cc5]: Commencement: Art. 21 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-b1c0f145a7bc6fe40f46a0cb69d31cc5]: Commencement: Art. 21 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

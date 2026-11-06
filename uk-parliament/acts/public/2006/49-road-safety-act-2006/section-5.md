@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Giving of fixed penalty notices by vehicle examiners[^key-763114c56e1db149c6dbcc817faef60b]
+## 5. Giving of fixed penalty notices by vehicle examiners[^c-763114c56e1db149c6dbcc817faef60b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 contains provision about the giving of fixed penalty notices by vehic
 
 ## Annotations
 
-[^key-763114c56e1db149c6dbcc817faef60b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/49/section/5) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-763114c56e1db149c6dbcc817faef60b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/49/section/5) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)

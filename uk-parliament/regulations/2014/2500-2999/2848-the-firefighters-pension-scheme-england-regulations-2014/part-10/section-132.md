@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Interpretation in relation to Part[^key-b68c34a1c4516e8636ab908217e6254b]
+## 132. Interpretation in relation to Part[^c-b68c34a1c4516e8636ab908217e6254b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b68c34a1c4516e8636ab908217e6254b]: Commencement: [Reg. 132](https://www.legislation.gov.uk/uksi/2014/2848/regulation/132) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b68c34a1c4516e8636ab908217e6254b]: Commencement: [Reg. 132](https://www.legislation.gov.uk/uksi/2014/2848/regulation/132) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

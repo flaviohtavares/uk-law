@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Financial responsibilities of integrated care boards and their partners[^key-bef3ce103e814e21359e0a2a9d37abac][^key-13521d9863ab77fe20558a821510ca01]
+## 29. Financial responsibilities of integrated care boards and their partners[^c-bef3ce103e814e21359e0a2a9d37abac][^c-13521d9863ab77fe20558a821510ca01]
 
 *Extent: E+W*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bef3ce103e814e21359e0a2a9d37abac]: Commencement: S. 29 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-bef3ce103e814e21359e0a2a9d37abac]: Commencement: S. 29 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-13521d9863ab77fe20558a821510ca01]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/31/section/29) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))
+[^c-13521d9863ab77fe20558a821510ca01]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/31/section/29) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [34](https://www.legislation.gov.uk/uksi/2022/734/regulation/34))

@@ -30,12 +30,12 @@ summary: ''
 - (a) the deposit-taker is non-UK resident for income tax purposes or corporation tax purposes, and
 - (b) the investment is not held at a branch of the deposit-taker situated in the United Kingdom.
 
-(3)[^key-f38e41bd64ec1a440095a2cbe79d4067] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f38e41bd64ec1a440095a2cbe79d4067] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) For the purposes of this section an investment is held at a branch of a deposit-taker [^key-5e99f2117a14ad4b9aa971bd0cde7241]... if the investment is recorded in its books as a liability of that branch.
+(4) For the purposes of this section an investment is held at a branch of a deposit-taker [^c-5e99f2117a14ad4b9aa971bd0cde7241]... if the investment is recorded in its books as a liability of that branch.
 
 ## Annotations
 
-[^key-f38e41bd64ec1a440095a2cbe79d4067]: Textual amendment: S. 868(3) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/15)
+[^c-f38e41bd64ec1a440095a2cbe79d4067]: Textual amendment: S. 868(3) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/15)
 
-[^key-5e99f2117a14ad4b9aa971bd0cde7241]: Textual amendment: Words in s. 868(4) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/14)
+[^c-5e99f2117a14ad4b9aa971bd0cde7241]: Textual amendment: Words in s. 868(4) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/14)

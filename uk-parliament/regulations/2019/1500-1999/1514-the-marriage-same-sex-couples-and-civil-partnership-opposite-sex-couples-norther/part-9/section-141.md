@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Agriculture and Fisheries (Financial Assistance) (Northern Ireland) Order 1987[^key-769e03aa6daa4b981719fa8eff7845b1]
+## 141. Agriculture and Fisheries (Financial Assistance) (Northern Ireland) Order 1987[^c-769e03aa6daa4b981719fa8eff7845b1]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-769e03aa6daa4b981719fa8eff7845b1]: Commencement: Reg. 141 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-769e03aa6daa4b981719fa8eff7845b1]: Commencement: Reg. 141 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00228]: Footnote: [S.I. 1987/166 (N.I.1)](https://www.legislation.gov.uk/nisi/1987/166).

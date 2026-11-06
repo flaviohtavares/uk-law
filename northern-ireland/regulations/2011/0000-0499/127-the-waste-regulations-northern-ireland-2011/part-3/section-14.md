@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Public participation in waste prevention programmes[^key-e4a240a4dd399f77e3bbc0da23f418d0]
+## 14. Public participation in waste prevention programmes[^c-e4a240a4dd399f77e3bbc0da23f418d0]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a240a4dd399f77e3bbc0da23f418d0]: Commencement: Reg. 14 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-e4a240a4dd399f77e3bbc0da23f418d0]: Commencement: Reg. 14 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2004 No. 280](https://www.legislation.gov.uk/nisr/2004/280)

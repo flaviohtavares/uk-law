@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Expedited orders: Convention rights and consents[^key-1a86ae8f7cd791f9af9890a0a0ea50cf]
+## 72A. Expedited orders: Convention rights and consents[^c-1a86ae8f7cd791f9af9890a0a0ea50cf]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ must have particular regard to the rights of freedom of expression and freedom o
 
 ## Annotations
 
-[^key-1a86ae8f7cd791f9af9890a0a0ea50cf]: Textual amendment: [Ss. 72A](https://www.legislation.gov.uk/ukpga/2014/12/section/72A), [72B](https://www.legislation.gov.uk/ukpga/2014/12/section/72B) inserted (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 82(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/82/4), [208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-1a86ae8f7cd791f9af9890a0a0ea50cf]: Textual amendment: [Ss. 72A](https://www.legislation.gov.uk/ukpga/2014/12/section/72A), [72B](https://www.legislation.gov.uk/ukpga/2014/12/section/72B) inserted (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 82(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/82/4), [208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

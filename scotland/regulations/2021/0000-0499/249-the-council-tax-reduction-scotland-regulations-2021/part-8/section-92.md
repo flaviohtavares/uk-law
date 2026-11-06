@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Residents of a dwelling to whom regulation 13(7) does not apply[^key-e7c9d0ae006b2c3b9d1b2d31afb9ad1a]
+## 92. Residents of a dwelling to whom regulation 13(7) does not apply[^c-e7c9d0ae006b2c3b9d1b2d31afb9ad1a]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ Regulation 13(7) (conditions of entitlement to council tax reduction) does not a
 
 ## Annotations
 
-[^key-e7c9d0ae006b2c3b9d1b2d31afb9ad1a]: Commencement: [Reg. 92](https://www.legislation.gov.uk/ssi/2021/249/regulation/92) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-e7c9d0ae006b2c3b9d1b2d31afb9ad1a]: Commencement: [Reg. 92](https://www.legislation.gov.uk/ssi/2021/249/regulation/92) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00222]: Footnote: Section 77 was amended by section 4 of the Education (Graduate Endowment and Student Support) (Scotland) Act [2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6) and by [S.S.I. 2005/623](https://www.legislation.gov.uk/ssi/2005/623). Section 77A was added by section 133 of the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 

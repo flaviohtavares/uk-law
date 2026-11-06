@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Additional Learning Needs Co-ordinator (Wales) Regulations 2020 (revoked)[^key-d6fb054feb446db5c30f70c195ef9be6]
+The Additional Learning Needs Co-ordinator (Wales) Regulations 2020 (revoked)[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into force
 
 4 January 2021
 
-[^key-d6fb054feb446db5c30f70c195ef9be6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6fb054feb446db5c30f70c195ef9be6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d6fb054feb446db5c30f70c195ef9be6]
+## 1. Title and commencement[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d6fb054feb446db5c30f70c195ef9be6]
+## 2. Interpretation[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed qualification or experience of an additional learning needs co-ordinator at a school[^key-d6fb054feb446db5c30f70c195ef9be6]
+## 3. Prescribed qualification or experience of an additional learning needs co-ordinator at a school[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed qualification of an additional learning needs co-ordinator at an institution within the further education sector[^key-d6fb054feb446db5c30f70c195ef9be6]
+## 4. Prescribed qualification of an additional learning needs co-ordinator at an institution within the further education sector[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Additional learning needs co-ordinator functions at a school[^key-d6fb054feb446db5c30f70c195ef9be6]
+## 5. Additional learning needs co-ordinator functions at a school[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Additional learning needs co-ordinator functions at an institution within the further education sector[^key-d6fb054feb446db5c30f70c195ef9be6]
+## 6. Additional learning needs co-ordinator functions at an institution within the further education sector[^c-d6fb054feb446db5c30f70c195ef9be6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6fb054feb446db5c30f70c195ef9be6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6fb054feb446db5c30f70c195ef9be6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6fb054feb446db5c30f70c195ef9be6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6fb054feb446db5c30f70c195ef9be6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6fb054feb446db5c30f70c195ef9be6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1351) revoked (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/3)
+[^c-d6fb054feb446db5c30f70c195ef9be6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1351) revoked (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/3)

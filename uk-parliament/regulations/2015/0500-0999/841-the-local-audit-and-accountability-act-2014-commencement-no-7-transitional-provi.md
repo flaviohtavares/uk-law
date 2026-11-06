@@ -37,11 +37,11 @@ Made
 
 The Secretary of State for Communities and Local Government makes the following Order in exercise of the powers conferred by section 49(1) and (5) to (8) of the Local Audit and Accountability Act 2014[^f00001].
 
-## 1. Citation[^key-d584d624e30e34b8a45ca573ede65766]
+## 1. Citation[^c-d584d624e30e34b8a45ca573ede65766]
 
 This Order may be cited as the Local Audit and Accountability Act 2014 (Commencement No. 7, Transitional Provisions and Savings) Order 2015.
 
-## 2. Interpretation[^key-e4792b05859b540b96bda387cf4a9bb3]
+## 2. Interpretation[^c-e4792b05859b540b96bda387cf4a9bb3]
 
 In this Order—
 
@@ -51,19 +51,19 @@ In this Order—
 - “relevant financial year” means a financial year—
   - (a) beginning before 1st April 2015, or
   - (b)
-    - in relation to a two-year transitional period authority, falling within the period beginning with 1st April 2015 and ending with 31st March 2017; or[^key-2db4b0b89097587249a06d6d781aab75]
+    - in relation to a two-year transitional period authority, falling within the period beginning with 1st April 2015 and ending with 31st March 2017; or[^c-2db4b0b89097587249a06d6d781aab75]
     - in relation to any other relevant authority, falling within the period beginning with 1st April 2015 and ending with 31st March 2018;
-- “transitional period” means—[^key-0947098553446818410cc9cab6f628ab]
+- “transitional period” means—[^c-0947098553446818410cc9cab6f628ab]
   - (a) in relation to a two-year transitional period authority the period beginning with 1st April 2015 and ending with 31st March 2017;
   - (b) in relation to any other relevant authority the period beginning with 1st April 2015 and ending with 31st March 2018;
-- “two-year transitional period authority” means–[^key-91204c06e9835dc17b04f1e7c9be4650]
+- “two-year transitional period authority” means–[^c-91204c06e9835dc17b04f1e7c9be4650]
   - (a) a smaller authority within the meaning of section 6 of the 2014 Act which is not a full audit authority in accordance with regulation 8 of the Local Audit (Smaller Authorities) Regulations 2015;
   - (b) a clinical commissioning group;
   - (c) special trustees for a hospital;
   - (d) an NHS trust all or most of whose hospitals, establishments and facilities are situated in England; or
   - (e) any trustees for an NHS trust all or most of whose hospitals, establishments and facilities are situated in England, appointed under paragraph 10 of Schedule 4 to the National Health Service Act 2006.
 
-## 3. Provisions of the 2014 Act coming into force on 1st April 2015[^key-cc7c1851755e9c79e75e9424df908e87]
+## 3. Provisions of the 2014 Act coming into force on 1st April 2015[^c-cc7c1851755e9c79e75e9424df908e87]
 
 1st April 2015 is the day appointed for the coming into force of the following provisions of the 2014 Act, subject to the transitional, transitory and saving provisions in this Order—
 
@@ -93,11 +93,11 @@ In this Order—
 - (x) paragraphs 1 to 44, 46 to 117 and 123 of Schedule 12 so far as they are not yet in force and section 45 so far as relating to those paragraphs and that extent;
 - (y) section 47 and Schedule 13 so far as they are not yet in force.
 
-## 4. Provisions of the 2014 Act coming into force on 1st April 2017[^key-fa734e64686e685525b9d8704feeac54]
+## 4. Provisions of the 2014 Act coming into force on 1st April 2017[^c-fa734e64686e685525b9d8704feeac54]
 
-1st April 2017 is the day appointed for the coming into force of paragraphs [^key-d47ad19d45f59970df128170333c17c6]... 118 to 122 of Schedule 12 to the 2014 Act and section 45 so far as relating to those paragraphs.
+1st April 2017 is the day appointed for the coming into force of paragraphs [^c-d47ad19d45f59970df128170333c17c6]... 118 to 122 of Schedule 12 to the 2014 Act and section 45 so far as relating to those paragraphs.
 
-## 5. Saving in relation to the audit of accounts for financial years beginning before 1st April 2015[^key-b29aedb080a1f97dbcbde638754c91a7]
+## 5. Saving in relation to the audit of accounts for financial years beginning before 1st April 2015[^c-b29aedb080a1f97dbcbde638754c91a7]
 
 Despite the repeal of the 1998 Act, Part 2 of that Act (accounts and audit of public bodies) and provision made under Part 2 continue to have effect for and in relation to—
 
@@ -106,7 +106,7 @@ Despite the repeal of the 1998 Act, Part 2 of that Act (accounts and audit of pu
 
 for a financial year beginning before 1st April 2015.
 
-## 6. Transitory provisions: functions of the Audit Commission[^key-e4d91bb2ec2bdeb520918f5383d23269]
+## 6. Transitory provisions: functions of the Audit Commission[^c-e4d91bb2ec2bdeb520918f5383d23269]
 
 (1) Despite the repeal of the 1998 Act and without prejudice to article 5, in relation to a relevant financial year the provisions listed in paragraph (2) continue to have effect, subject to the modifications in paragraph (3).
 
@@ -120,21 +120,21 @@ for a financial year beginning before 1st April 2015.
 - (f) section 52 (orders and regulations) so far as it relates to the power of the Secretary of State to make regulations under section 7;
 - (g) section 53 (interpretation) so far as is necessary for the purposes of the interpretation of the provisions referred to above.
 
-(3) In relation to a financial year falling within the period beginning with 1st April 2015 and ending with 31st March 2018[^key-161db7123cf09eff6908ee43f907f716]—
+(3) In relation to a financial year falling within the period beginning with 1st April 2015 and ending with 31st March 2018[^c-161db7123cf09eff6908ee43f907f716]—
 
 - (a) references to “this Act” in sections 2(1)(b), 3(9) and (11) and 7(1) are to be read as references to Parts 2 and 5 of the 2014 Act;
 - (b) any reference in the provisions listed in paragraph (2) to a body whose accounts are required to be audited in accordance with the 1998 Act is to be read as a reference to a relevant authority within the meaning of the 2014 Act[^f00003] and any reference to “a body subject to audit” is to be construed accordingly.
 
 (4) In relation to a relevant financial year any reference to the Audit Commission in the provisions listed in paragraph (2) is to be read as a reference to the person or body by whom functions may be exercised by virtue of article 7.
 
-## 7. Transitory provision: exercise of functions[^key-c018ef02dab4cb2814db1484ef66bd9b]
+## 7. Transitory provision: exercise of functions[^c-c018ef02dab4cb2814db1484ef66bd9b]
 
-Until 31st December 2028[^key-8ac4aa9947651726218ad26b69e3b091] and in relation to a relevant financial year—
+Until 31st December 2028[^c-8ac4aa9947651726218ad26b69e3b091] and in relation to a relevant financial year—
 
 - (a) the functions of the Audit Commission under the provisions listed in article 6(2) may be exercised by a Minister of the Crown; and
 - (b) the Minister may delegate the exercise of any such function to another person or body or other persons or bodies.
 
-## 8. Transitional and saving provision[^key-19100d4a56bdd27bae86cbe4274b2a6e]
+## 8. Transitional and saving provision[^c-19100d4a56bdd27bae86cbe4274b2a6e]
 
 The Schedule to this Order has effect for the purposes of making transitional, transitory and saving provisions.
 
@@ -150,16 +150,16 @@ Department for Communities and Local Government
 
 ## SCHEDULE — Further transitional, transitory and saving provisions
 
-### 1. General provisions[^key-083805a6f277481820f637ae76be0a6d]
+### 1. General provisions[^c-083805a6f277481820f637ae76be0a6d]
 
 (1) Nothing in this Schedule affects the generality of articles 5 and 6.
 
-(2) The duty of a relevant authority to appoint a local auditor to audit its accounts for a financial year applies in relation to a financial year beginning on or after —[^key-47fc3d47f6630b90fd049e73b7c8a782]
+(2) The duty of a relevant authority to appoint a local auditor to audit its accounts for a financial year applies in relation to a financial year beginning on or after —[^c-47fc3d47f6630b90fd049e73b7c8a782]
 
 - (a) 1st April 2017 in relation to a two-year transitional period authority; or
 - (b) 1st April 2018 in relation to any other relevant authority.
 
-(3) The duty of a relevant authority to have an auditor panel applies in relation to the exercise of the functions of the panel so far as relating to a financial year beginning on or after —[^key-a4d11c4668e7ac35435de0927e61fa76]
+(3) The duty of a relevant authority to have an auditor panel applies in relation to the exercise of the functions of the panel so far as relating to a financial year beginning on or after —[^c-a4d11c4668e7ac35435de0927e61fa76]
 
 - (a) 1st April 2017 in relation to a two-year transitional period authority; or
 - (b) 1st April 2018 in relation to any other relevant authority.
@@ -178,7 +178,7 @@ for a financial year beginning before 1st April 2015.
 
 do not affect the requirements of the provisions amended in relation to a financial year beginning before 1st April 2015.
 
-### 2. Provisions in relation to the transitional period[^key-9e7656ebafc8f62c75c8503d3add4364]
+### 2. Provisions in relation to the transitional period[^c-9e7656ebafc8f62c75c8503d3add4364]
 
 (1) The following provisions have effect in relation to financial years falling within the transitional period.
 
@@ -211,22 +211,22 @@ do not affect the requirements of the provisions amended in relation to a financ
 
 (8) The reference to a local auditor appointed under or by virtue of the Local Audit and Accountability Act 2014 in section 210A(1A) of the Housing and Regeneration Act 2008[^f00015] is to be read as including a reference to an auditor appointed in pursuance of section 3 of the 1998 Act (including section 3 as it has effect by virtue of article 6 of this Order).
 
-### 3. Code of audit practice for financial years beginning before 1st April 2015[^key-c1564b34e458caa384e161c04077eafb]
+### 3. Code of audit practice for financial years beginning before 1st April 2015[^c-c1564b34e458caa384e161c04077eafb]
 
 Despite the repeal of section 4 of the 1998 Act, any code of practice prepared under that section continues in force in relation to the functions of auditors under that Act for a financial year beginning before 1st April 2015.
 
-### 4. Public interest reports for financial years beginning before 1st April 2015[^key-025d94d9ac8c16b9c1d9df4fd068ce91]
+### 4. Public interest reports for financial years beginning before 1st April 2015[^c-025d94d9ac8c16b9c1d9df4fd068ce91]
 
 (1) The repeal of section 8 of the 1998 Act (immediate and other reports in public interest) does not affect a report made under that section in relation to a financial year beginning before 1st April 2015.
 
-(2) Until 31st December 2018[^key-6739f45e465d9161b096ba2fa220dca6] and in relation to the audit of accounts for a financial year beginning before 1st April 2015 a reference to the Commission in a provision listed in sub-paragraph (3) is to be read as a reference to the person or body by whom functions of the Audit Commission may be exercised by virtue of article 7 of this Order.
+(2) Until 31st December 2018[^c-6739f45e465d9161b096ba2fa220dca6] and in relation to the audit of accounts for a financial year beginning before 1st April 2015 a reference to the Commission in a provision listed in sub-paragraph (3) is to be read as a reference to the person or body by whom functions of the Audit Commission may be exercised by virtue of article 7 of this Order.
 
 (3) The provisions referred to in sub-paragraph (2) are—
 
 - (a) section 10(2) of the 1998 Act;
 - (b) section 13A(4)(b) of the 1998 Act[^f00016].
 
-### 5. Data matching[^key-3a7ab04f732a04d59039a8011cbc6559]
+### 5. Data matching[^c-3a7ab04f732a04d59039a8011cbc6559]
 
 (1) The following provisions have effect despite the repeal of Part 2A of the 1998 Act[^f00017] (data matching).
 
@@ -249,33 +249,33 @@ Despite the repeal of section 4 of the 1998 Act, any code of practice prepared u
 
 (9) Nothing in the 2014 Act affects Part 2A of the 1998 Act in its operation in relation to offences committed before 1st April 2015.
 
-### 6. Disclosure of information[^key-46d2c9ce1ba32b4fe39bcf71d9ec4f9e]
+### 6. Disclosure of information[^c-46d2c9ce1ba32b4fe39bcf71d9ec4f9e]
 
 (1) Information relating to a particular body or person that was obtained by an auditor, or by a person acting on behalf of an auditor, under or by virtue of the 1998 Act is to be treated for the purposes of Schedule 11 (disclosure of information) to the 2014 Act as information obtained by a local auditor under or by virtue of that Act or in the course of an audit under that Act.
 
 (2) Nothing in the 2014 Act affects sections 49 and 49ZA of the 1998 Act in their operation in relation to offences committed before 1st April 2015.
 
-### 7. Transport Act 1968[^key-eaf7d7111ae801b0891a3a5dc449597b]
+### 7. Transport Act 1968[^c-eaf7d7111ae801b0891a3a5dc449597b]
 
 The coming into force of the amendment made by paragraph 3 of Schedule 12 to the 2014 Act does not affect the obligations of a Passenger Transport Executive under section 14(3) of the Transport Act 1968[^f00018] in relation to a statement of accounts prepared for an accounting period before 1st April 2015.
 
-### 8. Freedom of Information Act 2000[^key-e594ff3ec22429e8f15ed93c64ce7e91]
+### 8. Freedom of Information Act 2000[^c-e594ff3ec22429e8f15ed93c64ce7e91]
 
 From 1st April 2015 until the coming into force of paragraph 45 of Schedule 12 to the 2014 Act the reference to the Audit Commission for Local Authorities and the National Health Service in England (“the Audit Commission”) in Part 6 of Schedule 1 to the Freedom of Information Act 2000[^f00019] is to read as a reference to the person or body by whom functions of the Audit Commission may be exercised by virtue of article 7 of the Local Audit and Accountability Act 2014 (Commencement No. 7, Transitional Provisions and Savings) Order 2015[^f00020].
 
-### 9. Local Government Act 2003[^key-8168b2b9d49385fd5434c416bed69c52]
+### 9. Local Government Act 2003[^c-8168b2b9d49385fd5434c416bed69c52]
 
 (1) Despite the repeal of section 99 of the Local Government Act 2003[^f00021] by paragraph 53 of Schedule 12 to the 2014 Act, the Local Authorities (Categorisation) (England) Regulations 2006[^f00022] continue in force until 1st April 2017.
 
 (2) Despite the amendment of section 100 of the Local Government Act 2003 by paragraph 54 of Schedule 12 to the 2014 Act, provisions in regulations and orders made in reliance on section 100 continue in force until 1st April 2017.
 
-### 10. Local Democracy, Economic Development and Construction Act 2009[^key-d2b8b59002ca88962e0a570a346e9b0a]
+### 10. Local Democracy, Economic Development and Construction Act 2009[^c-d2b8b59002ca88962e0a570a346e9b0a]
 
 The coming into force of the amendments to Chapter 3 of Part 2 of the Local Democracy, Economic Development and Construction Act 2009[^f00023] by paragraphs 97 to 113 of Schedule 12 to the 2014 Act does not affect the carrying out of audit functions in relation to a company, limited liability partnership or registered society which is a qualifying English local authority entity for a financial year beginning before 1st April 2015.
 
-### 11. Charities Act 2011[^key-1b22f28f581f1e750208c5932c4c600c]
+### 11. Charities Act 2011[^c-1b22f28f581f1e750208c5932c4c600c]
 
-(1) In relation to financial years falling within the period beginning with 1st April 2015 and ending with 31st March 2017[^key-27fb526362d6d6bbcaa0c2310026a529] sections 149, 151 and 152 of the Charities Act 2011[^f00024] have effect subject to the following modifications.
+(1) In relation to financial years falling within the period beginning with 1st April 2015 and ending with 31st March 2017[^c-27fb526362d6d6bbcaa0c2310026a529] sections 149, 151 and 152 of the Charities Act 2011[^f00024] have effect subject to the following modifications.
 
 (2) In section 149—
 
@@ -365,49 +365,49 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-d584d624e30e34b8a45ca573ede65766]: Commencement: Art. 1 in force at made date
+[^c-d584d624e30e34b8a45ca573ede65766]: Commencement: Art. 1 in force at made date
 
-[^key-e4792b05859b540b96bda387cf4a9bb3]: Commencement: Art. 2 in force at made date
+[^c-e4792b05859b540b96bda387cf4a9bb3]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18).
 
-[^key-2db4b0b89097587249a06d6d781aab75]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/841/article/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2016/675/article/2/2/a)
+[^c-2db4b0b89097587249a06d6d781aab75]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/841/article/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2016/675/article/2/2/a)
 
-[^key-0947098553446818410cc9cab6f628ab]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/841/article/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/675/article/2/2/b)
+[^c-0947098553446818410cc9cab6f628ab]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/841/article/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/675/article/2/2/b)
 
-[^key-91204c06e9835dc17b04f1e7c9be4650]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/841/article/2) inserted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2016/675/article/2/2/c)
+[^c-91204c06e9835dc17b04f1e7c9be4650]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/841/article/2) inserted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2016/675/article/2/2/c)
 
-[^key-cc7c1851755e9c79e75e9424df908e87]: Commencement: Art. 3 in force at made date
+[^c-cc7c1851755e9c79e75e9424df908e87]: Commencement: Art. 3 in force at made date
 
-[^key-fa734e64686e685525b9d8704feeac54]: Commencement: Art. 4 in force at made date
+[^c-fa734e64686e685525b9d8704feeac54]: Commencement: Art. 4 in force at made date
 
-[^key-d47ad19d45f59970df128170333c17c6]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2015/841/article/4) omitted (27.6.2016) by virtue of [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/675/article/2/3)
+[^c-d47ad19d45f59970df128170333c17c6]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2015/841/article/4) omitted (27.6.2016) by virtue of [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/675/article/2/3)
 
-[^key-b29aedb080a1f97dbcbde638754c91a7]: Commencement: Art. 5 in force at made date
+[^c-b29aedb080a1f97dbcbde638754c91a7]: Commencement: Art. 5 in force at made date
 
-[^key-e4d91bb2ec2bdeb520918f5383d23269]: Commencement: Art. 6 in force at made date
+[^c-e4d91bb2ec2bdeb520918f5383d23269]: Commencement: Art. 6 in force at made date
 
-[^key-161db7123cf09eff6908ee43f907f716]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2015/841/article/6/3) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(4)](https://www.legislation.gov.uk/uksi/2016/675/article/2/4)
+[^c-161db7123cf09eff6908ee43f907f716]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2015/841/article/6/3) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(4)](https://www.legislation.gov.uk/uksi/2016/675/article/2/4)
 
 [^f00003]: Footnote: For the meaning of “relevant authority” in the Local Audit and Accountability Act 2014 see section 2(1) and Schedule 2.
 
-[^key-c018ef02dab4cb2814db1484ef66bd9b]: Commencement: Art. 7 in force at made date
+[^c-c018ef02dab4cb2814db1484ef66bd9b]: Commencement: Art. 7 in force at made date
 
-[^key-8ac4aa9947651726218ad26b69e3b091]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/2015/841/article/7) substituted (14.12.2023) by [The Local Audit and Accountability Act 2014 (Commencement No. 7, Transitional Provisions and Savings) (Amendment) Order 2023 (S.I. 2023/1396)](https://www.legislation.gov.uk/uksi/2023/1396), [art. 2](https://www.legislation.gov.uk/uksi/2023/1396/article/2)
+[^c-8ac4aa9947651726218ad26b69e3b091]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/2015/841/article/7) substituted (14.12.2023) by [The Local Audit and Accountability Act 2014 (Commencement No. 7, Transitional Provisions and Savings) (Amendment) Order 2023 (S.I. 2023/1396)](https://www.legislation.gov.uk/uksi/2023/1396), [art. 2](https://www.legislation.gov.uk/uksi/2023/1396/article/2)
 
-[^key-19100d4a56bdd27bae86cbe4274b2a6e]: Commencement: Art. 8 in force at made date
+[^c-19100d4a56bdd27bae86cbe4274b2a6e]: Commencement: Art. 8 in force at made date
 
-[^key-083805a6f277481820f637ae76be0a6d]: Commencement: Sch. para. 1 in force at made date
+[^c-083805a6f277481820f637ae76be0a6d]: Commencement: Sch. para. 1 in force at made date
 
-[^key-47fc3d47f6630b90fd049e73b7c8a782]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/a)
+[^c-47fc3d47f6630b90fd049e73b7c8a782]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/a)
 
-[^key-a4d11c4668e7ac35435de0927e61fa76]: Textual amendment: Words in [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1/3) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/a)
+[^c-a4d11c4668e7ac35435de0927e61fa76]: Textual amendment: Words in [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1/3) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/a)
 
 [^f00004]: Footnote: [1968 c.73](https://www.legislation.gov.uk/ukpga/1968/73).
 
 [^f00005]: Footnote: [1986 c.31](https://www.legislation.gov.uk/ukpga/1986/31).
 
-[^key-9e7656ebafc8f62c75c8503d3add4364]: Commencement: Sch. para. 2 in force at made date
+[^c-9e7656ebafc8f62c75c8503d3add4364]: Commencement: Sch. para. 2 in force at made date
 
 [^f00006]: Footnote: For the meaning of “local auditor” in the Local Audit and Accountability Act 2014 see section 4(1)(b).
 
@@ -429,42 +429,42 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00015]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17); section 210A of that Act is amended by paragraph 95 of Schedule 12 to the 2014 Act.
 
-[^key-c1564b34e458caa384e161c04077eafb]: Commencement: Sch. para. 3 in force at made date
+[^c-c1564b34e458caa384e161c04077eafb]: Commencement: Sch. para. 3 in force at made date
 
-[^key-025d94d9ac8c16b9c1d9df4fd068ce91]: Commencement: Sch. para. 4 in force at made date
+[^c-025d94d9ac8c16b9c1d9df4fd068ce91]: Commencement: Sch. para. 4 in force at made date
 
-[^key-6739f45e465d9161b096ba2fa220dca6]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/4/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/b)
+[^c-6739f45e465d9161b096ba2fa220dca6]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/4/2) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/b)
 
 [^f00016]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18); section 13A of that Act is inserted by section 108 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-3a7ab04f732a04d59039a8011cbc6559]: Commencement: Sch. para. 5 in force at made date
+[^c-3a7ab04f732a04d59039a8011cbc6559]: Commencement: Sch. para. 5 in force at made date
 
 [^f00017]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18); Part 2A of that Act is inserted by section 73 of, and Part 1 of Schedule 7 to, the Serious Crime Act [2007 (c.27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-46d2c9ce1ba32b4fe39bcf71d9ec4f9e]: Commencement: Sch. para. 6 in force at made date
+[^c-46d2c9ce1ba32b4fe39bcf71d9ec4f9e]: Commencement: Sch. para. 6 in force at made date
 
-[^key-eaf7d7111ae801b0891a3a5dc449597b]: Commencement: Sch. para. 7 in force at made date
+[^c-eaf7d7111ae801b0891a3a5dc449597b]: Commencement: Sch. para. 7 in force at made date
 
 [^f00018]: Footnote: [1968 c.73](https://www.legislation.gov.uk/ukpga/1968/73); section 14 of that Act is amended by paragraph 3 of Schedule 12 to the 2014 Act.
 
-[^key-e594ff3ec22429e8f15ed93c64ce7e91]: Commencement: Sch. para. 8 in force at made date
+[^c-e594ff3ec22429e8f15ed93c64ce7e91]: Commencement: Sch. para. 8 in force at made date
 
 [^f00019]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
 [^f00020]: Footnote: [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841).
 
-[^key-8168b2b9d49385fd5434c416bed69c52]: Commencement: Sch. para. 9 in force at made date
+[^c-8168b2b9d49385fd5434c416bed69c52]: Commencement: Sch. para. 9 in force at made date
 
 [^f00021]: Footnote: [2003 c.26](https://www.legislation.gov.uk/ukpga/2003/26).
 
 [^f00022]: Footnote: [S.I. 2006/3096](https://www.legislation.gov.uk/uksi/2006/3096).
 
-[^key-d2b8b59002ca88962e0a570a346e9b0a]: Commencement: Sch. para. 10 in force at made date
+[^c-d2b8b59002ca88962e0a570a346e9b0a]: Commencement: Sch. para. 10 in force at made date
 
 [^f00023]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20); for the meaning of “qualifying English local authority entity” see section 36(4) of that Act, repealed by paragraph 98(3) of Schedule 12 to the 2014 Act.
 
-[^key-1b22f28f581f1e750208c5932c4c600c]: Commencement: Sch. para. 11 in force at made date
+[^c-1b22f28f581f1e750208c5932c4c600c]: Commencement: Sch. para. 11 in force at made date
 
-[^key-27fb526362d6d6bbcaa0c2310026a529]: Textual amendment: Words in [Sch. para. 11(1)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/11/1) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(c)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/c)
+[^c-27fb526362d6d6bbcaa0c2310026a529]: Textual amendment: Words in [Sch. para. 11(1)](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/11/1) substituted (27.6.2016) by [The Local Audit and Accountability Act 2014 (Commencement No. 8 and Commencement No. 7, Transitional Provisions and Savings (Amendment)) Order 2016 (S.I. 2016/675)](https://www.legislation.gov.uk/uksi/2016/675), [art. 2(6)(c)](https://www.legislation.gov.uk/uksi/2016/675/article/2/6/c)
 
 [^f00024]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).

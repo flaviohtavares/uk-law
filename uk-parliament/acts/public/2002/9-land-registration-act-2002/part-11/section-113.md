@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Fees[^key-f6a399612f2d56848a8b3b1b7264727f]
+## 113. Fees[^c-f6a399612f2d56848a8b3b1b7264727f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6a399612f2d56848a8b3b1b7264727f]: Textual amendment: [S. 113](https://www.legislation.gov.uk/ukpga/2002/9/section/113) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 233](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/233) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f6a399612f2d56848a8b3b1b7264727f]: Textual amendment: [S. 113](https://www.legislation.gov.uk/ukpga/2002/9/section/113) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 233](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/233) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

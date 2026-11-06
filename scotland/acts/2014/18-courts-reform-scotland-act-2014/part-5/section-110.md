@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Appeal from a sheriff to the Sheriff Appeal Court[^key-e7f3fa7304e2d0a5adc601ef678cd426]
+## 110. Appeal from a sheriff to the Sheriff Appeal Court[^c-e7f3fa7304e2d0a5adc601ef678cd426]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7f3fa7304e2d0a5adc601ef678cd426]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2014/18/section/110) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-e7f3fa7304e2d0a5adc601ef678cd426]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2014/18/section/110) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

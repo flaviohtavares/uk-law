@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67.4. Proceedings under Schedule 1 to the Act[^key-0db9e51b0f85054bd91a5747c4c888a8]
+## 67.4. Proceedings under Schedule 1 to the Act[^c-0db9e51b0f85054bd91a5747c4c888a8]
 
 *Extent: E+W*
 
 (1) Proceedings in the High Court under Schedule 1 to the Act must be brought—
 
-- (a) in a Business List of the Business and Property Division[^key-af164fe9336a5b2a69a523978fd2411a]; and
+- (a) in a Business List of the Business and Property Division[^c-af164fe9336a5b2a69a523978fd2411a]; and
 - (b) by Part 8 claim form, unless paragraph (4) below applies.
 
 (2) The heading of the claim form must state that the claim relates to a solicitor and is made under Schedule 1 to the Act.
@@ -51,6 +51,6 @@ Defendants to applications under Schedule 1 to the Act
 
 ## Annotations
 
-[^key-0db9e51b0f85054bd91a5747c4c888a8]: Textual amendment: [Pt. 67](https://www.legislation.gov.uk/uksi/1998/3132/part/67) inserted (1.4.2005) by [The Civil Procedure (Amendment No. 4) Rules 2004 (S.I. 2004/3419)](https://www.legislation.gov.uk/uksi/2004/3419), [rule 1](https://www.legislation.gov.uk/uksi/2004/3419/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3419/schedule/2)
+[^c-0db9e51b0f85054bd91a5747c4c888a8]: Textual amendment: [Pt. 67](https://www.legislation.gov.uk/uksi/1998/3132/part/67) inserted (1.4.2005) by [The Civil Procedure (Amendment No. 4) Rules 2004 (S.I. 2004/3419)](https://www.legislation.gov.uk/uksi/2004/3419), [rule 1](https://www.legislation.gov.uk/uksi/2004/3419/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3419/schedule/2)
 
-[^key-af164fe9336a5b2a69a523978fd2411a]: Textual amendment: Words in [rule 67.4(1)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/67.4/1/a) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [24](https://www.legislation.gov.uk/uksi/2026/817/rule/24) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))
+[^c-af164fe9336a5b2a69a523978fd2411a]: Textual amendment: Words in [rule 67.4(1)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/67.4/1/a) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [24](https://www.legislation.gov.uk/uksi/2026/817/rule/24) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))

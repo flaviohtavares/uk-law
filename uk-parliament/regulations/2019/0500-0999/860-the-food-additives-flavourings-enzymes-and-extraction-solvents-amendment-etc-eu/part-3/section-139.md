@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Amendment to Regulation (EU) No. 234/2011 implementing Regulation [(EC) No. 1331/2008](https://www.legislation.gov.uk/eur/2008/1331) of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings[^key-a3a3fd25916dfdcd854d37756191f7fa]
+## 139. Amendment to Regulation (EU) No. 234/2011 implementing Regulation [(EC) No. 1331/2008](https://www.legislation.gov.uk/eur/2008/1331) of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings[^c-a3a3fd25916dfdcd854d37756191f7fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) No. 234/2011 implementing Regulation [(EC) No. 1331/2008](https:
 
 ## Annotations
 
-[^key-a3a3fd25916dfdcd854d37756191f7fa]: Commencement: Reg. 139 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a3a3fd25916dfdcd854d37756191f7fa]: Commencement: Reg. 139 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Children’s services plans: process and review[^key-71a9f4dc47781f6a376cbb1b2b481add]
+## 62. Children’s services plans: process and review[^c-71a9f4dc47781f6a376cbb1b2b481add]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71a9f4dc47781f6a376cbb1b2b481add]: Commencement: S. 62 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-71a9f4dc47781f6a376cbb1b2b481add]: Commencement: S. 62 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

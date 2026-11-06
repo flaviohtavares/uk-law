@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26F. Supplementary: proceedings for delivery up etc.[^key-f03aca406502417a22220873685e5a3b]
+## 26F. Supplementary: proceedings for delivery up etc.[^c-f03aca406502417a22220873685e5a3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 26(1)(b) the reference to proceedings for infringement of the right i
 
 ## Annotations
 
-[^key-f03aca406502417a22220873685e5a3b]: Textual amendment: Ss. 26-26F and cross-heading substituted for s. 26 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/3), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-f03aca406502417a22220873685e5a3b]: Textual amendment: Ss. 26-26F and cross-heading substituted for s. 26 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/3), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

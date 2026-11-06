@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Preparation and agreement of information and samples plans[^key-e1e6169cea354c310e6f09f5e326a32b]
+## 31. Preparation and agreement of information and samples plans[^c-e1e6169cea354c310e6f09f5e326a32b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the plan has effect as if it had been prepared by the responsible person and agr
 
 ## Annotations
 
-[^key-e1e6169cea354c310e6f09f5e326a32b]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/20/section/31) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/942/regulation/3))
+[^c-e1e6169cea354c310e6f09f5e326a32b]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/20/section/31) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/942/regulation/3))

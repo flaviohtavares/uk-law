@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Effect of determination as to capacity or capability for work[^key-eab8c9716c87f1682ad8c79b9179b9a3]
+## 10. Effect of determination as to capacity or capability for work[^c-eab8c9716c87f1682ad8c79b9179b9a3]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eab8c9716c87f1682ad8c79b9179b9a3]: Textual amendment: Reg. 10 substituted (27.7.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [36](https://www.legislation.gov.uk/uksi/2008/1554/regulation/36)
+[^c-eab8c9716c87f1682ad8c79b9179b9a3]: Textual amendment: Reg. 10 substituted (27.7.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [36](https://www.legislation.gov.uk/uksi/2008/1554/regulation/36)

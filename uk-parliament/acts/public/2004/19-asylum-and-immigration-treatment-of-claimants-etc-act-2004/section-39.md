@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Offence of advertising services[^key-51269f9fa445ca0c3cf08ce6756610e4]
+## 39. Offence of advertising services[^c-51269f9fa445ca0c3cf08ce6756610e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ After section 92A of the Immigration and Asylum Act 1999 (c. 33) (inserted by se
 
 ## Annotations
 
-[^key-51269f9fa445ca0c3cf08ce6756610e4]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2004/19/section/39) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-51269f9fa445ca0c3cf08ce6756610e4]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2004/19/section/39) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

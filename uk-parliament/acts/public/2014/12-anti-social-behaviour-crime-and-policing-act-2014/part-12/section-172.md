@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Discount on sentence for time spent in custody awaiting extradition: Scotland[^key-739ddc24f333a1090255401d68678485]
+## 172. Discount on sentence for time spent in custody awaiting extradition: Scotland[^c-739ddc24f333a1090255401d68678485]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-739ddc24f333a1090255401d68678485]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2014/12/section/172) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(q)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/q)
+[^c-739ddc24f333a1090255401d68678485]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2014/12/section/172) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(q)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/q)

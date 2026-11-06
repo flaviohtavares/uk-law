@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Certificates given under section 16(9) of the Act[^key-4822f1c1559883102c3164a8ea491521]
+## 29. Certificates given under section 16(9) of the Act[^c-4822f1c1559883102c3164a8ea491521]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ as they do in relation to the approval of inspectors and the designation of bodi
 
 ## Annotations
 
-[^key-4822f1c1559883102c3164a8ea491521]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-4822f1c1559883102c3164a8ea491521]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))

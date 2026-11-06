@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Sentences of detention during Her Majesty’s pleasure: review of minimum term[^key-285e33a088aef49f4bad10ed7b1c8792]
+## 128. Sentences of detention during Her Majesty’s pleasure: review of minimum term[^c-285e33a088aef49f4bad10ed7b1c8792]
 
 *Extent: E+W*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-285e33a088aef49f4bad10ed7b1c8792]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/32/section/128) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-285e33a088aef49f4bad10ed7b1c8792]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/32/section/128) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)

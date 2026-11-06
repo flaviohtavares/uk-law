@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Remit of cases to the Court of Session[^key-29e89ab2137ae79517d3711ffda09f89]
+## 92. Remit of cases to the Court of Session[^c-29e89ab2137ae79517d3711ffda09f89]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e89ab2137ae79517d3711ffda09f89]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/18/section/92) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2015/247/article/11))
+[^c-29e89ab2137ae79517d3711ffda09f89]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/18/section/92) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2015/247/article/11))

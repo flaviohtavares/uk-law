@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.4. Use of initial details[^key-23668a6c024f01ecac3f57a8486b9f69]
+## 8.4. Use of initial details[^c-23668a6c024f01ecac3f57a8486b9f69]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23668a6c024f01ecac3f57a8486b9f69]: Commencement: [Rule 8.4](https://www.legislation.gov.uk/uksi/2025/909/rule/8.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-23668a6c024f01ecac3f57a8486b9f69]: Commencement: [Rule 8.4](https://www.legislation.gov.uk/uksi/2025/909/rule/8.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

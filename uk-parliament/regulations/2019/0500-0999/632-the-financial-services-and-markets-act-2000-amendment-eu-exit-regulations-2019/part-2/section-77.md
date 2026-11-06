@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Section 391C (publication: special provisions relating to the UCITS directive)[^key-c54edb5e3269da06ad882540b390d014]
+## 77. Section 391C (publication: special provisions relating to the UCITS directive)[^c-c54edb5e3269da06ad882540b390d014]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c54edb5e3269da06ad882540b390d014]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c54edb5e3269da06ad882540b390d014]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658261]: Marginal citation: Section 391C was inserted by [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225) and amended by section 211(1)(a) of, and paragraphs 48 and 51 of Part 1 of Schedule 19 to, the Data Protection Act 2018.
 

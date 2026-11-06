@@ -86,7 +86,7 @@ If any person to whom an oath is administered desires to swear with uplifted han
 
 #### 6. Form of affirmation.[^c2088900][^c2088883][^c2088878][^c2088755][^c2088749][^c2088682][^c2088633][^c2088384]
 
-(1)[^c2088503] Subject to subsections (2) and (3)[^key-da0679517b87cb14e735253af4549445] below, every affirmation shall be as follows:—
+(1)[^c2088503] Subject to subsections (2) and (3)[^c-da0679517b87cb14e735253af4549445] below, every affirmation shall be as follows:—
 
 “I, do solemnly, sincerely and truly declare and affirm,” and then proceed with the words of the oath prescribed by law, omitting any words of imprecation or calling to witness.
 
@@ -96,7 +96,7 @@ If any person to whom an oath is administered desires to swear with uplifted han
 
 *Extent: S*
 
-(3)[^key-133c795328632a1e1ec86b7ad4fefb72] In the case of a jury in solemn proceedings, the affirmation is to be in the following form:
+(3)[^c-133c795328632a1e1ec86b7ad4fefb72] In the case of a jury in solemn proceedings, the affirmation is to be in the following form:
 
 <table>
 <tbody>
@@ -225,11 +225,11 @@ Section 7.
 
 [^c2088503]: Modification: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1978/19/section/6/1) modified (1.6.2007) by [The Citizenship Oath and Pledge (Welsh Language) Order 2007 (S.I. 2007/1484)](https://www.legislation.gov.uk/uksi/2007/1484), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/1484/article/4/2)
 
-[^key-da0679517b87cb14e735253af4549445]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1978/19/section/6/1) substituted (S.) (6.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 63(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/63/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-da0679517b87cb14e735253af4549445]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1978/19/section/6/1) substituted (S.) (6.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 63(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/63/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^c2088506]: Modification: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1978/19/section/6/2) modified (1.6.2007) by [The Citizenship Oath and Pledge (Welsh Language) Order 2007 (S.I. 2007/1484)](https://www.legislation.gov.uk/uksi/2007/1484), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/1484/article/4/2)
 
-[^key-133c795328632a1e1ec86b7ad4fefb72]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1978/19/section/6/3) inserted (S.) (6.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 63(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/63/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-133c795328632a1e1ec86b7ad4fefb72]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1978/19/section/6/3) inserted (S.) (6.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 63(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/63/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^c908940]: Modification: The text of ss. 2, 7(1) and Sch. is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

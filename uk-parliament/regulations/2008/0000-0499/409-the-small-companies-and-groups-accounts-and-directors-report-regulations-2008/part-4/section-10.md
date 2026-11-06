@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Information about related undertakings (Companies Act or IAS group accounts)[^key-24de0fe1c57150ea9fcb7e0df37136bc]
+## 10. Information about related undertakings (Companies Act or IAS group accounts)[^c-24de0fe1c57150ea9fcb7e0df37136bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ if the conditions specified in section 409(4) of the 2006 Act are met (see secti
 
 ## Annotations
 
-[^key-24de0fe1c57150ea9fcb7e0df37136bc]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/409/regulation/10) applied (with modifications) (E.W.S.) (with application in accordance with reg. 2(2) of the amending S.I.) by [The Small Limited Liability Partnerships (Accounts) Regulations 2008 (S.I. 2008/1912)](https://www.legislation.gov.uk/uksi/2008/1912), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/1912/regulation/2/1), [7(1)](https://www.legislation.gov.uk/uksi/2008/1912/regulation/7/1) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2008/1912/regulation/2/3))
+[^c-24de0fe1c57150ea9fcb7e0df37136bc]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/409/regulation/10) applied (with modifications) (E.W.S.) (with application in accordance with reg. 2(2) of the amending S.I.) by [The Small Limited Liability Partnerships (Accounts) Regulations 2008 (S.I. 2008/1912)](https://www.legislation.gov.uk/uksi/2008/1912), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/1912/regulation/2/1), [7(1)](https://www.legislation.gov.uk/uksi/2008/1912/regulation/7/1) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2008/1912/regulation/2/3))

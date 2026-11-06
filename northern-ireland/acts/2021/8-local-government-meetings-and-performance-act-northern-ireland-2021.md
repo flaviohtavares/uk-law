@@ -39,13 +39,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### Conduct of meetings
 
-#### 1. Meetings: effect of regulations under the Coronavirus Act[^key-16f25b8e4c6bea11876dc1cc1817b0af]
+#### 1. Meetings: effect of regulations under the Coronavirus Act[^c-16f25b8e4c6bea11876dc1cc1817b0af]
 
 (1) In section 78 (local authority meetings) of the Coronavirus Act 2020, subsection (3) is repealed.
 
 (2) The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 have effect on and after the day on which this Act comes into operation as if never (and are to be treated as having been made as if not) subject to the provision repealed by this section.
 
-#### 2. Meetings: power to make provision about remote meetings[^key-d0a1e9d0392efa246b94e3384845af4a]
+#### 2. Meetings: power to make provision about remote meetings[^c-d0a1e9d0392efa246b94e3384845af4a]
 
 (1) The Department for Communities may by regulations make provision for the purpose of or in connection with ensuring that district council meetings may be held remotely.
 
@@ -84,7 +84,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### Performance improvement
 
-#### 3. Performance: certain rules deemed as not applying (2020/21)[^key-13e7a6cdb77c0b852d2f7a65a34d5f1a]
+#### 3. Performance: certain rules deemed as not applying (2020/21)[^c-13e7a6cdb77c0b852d2f7a65a34d5f1a]
 
 (1) The relevant requirements of the Local Government Act (Northern Ireland) 2014 are to be regarded as having no effect (and as having never had effect) with respect to financial year 2020/21.
 
@@ -98,7 +98,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) The reference in this section to financial year 2020/21 is to the financial year ending on 31st March 2021.
 
-#### 4. Performance: power to alter various rules (2021/22)[^key-85cd1ace878ee59097d0a3bb3525c77c]
+#### 4. Performance: power to alter various rules (2021/22)[^c-85cd1ace878ee59097d0a3bb3525c77c]
 
 (1) The Department for Communities may by regulations disapply or modify, with respect to financial year 2021/22, any provision in Part 12 of the Local Government Act (Northern Ireland) 2014.
 
@@ -112,11 +112,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## PART 2 — Final provisions
 
-### 5. Updated reference to the Department[^key-82d0347506333b29763607452ab5600a]
+### 5. Updated reference to the Department[^c-82d0347506333b29763607452ab5600a]
 
 In section 126 (interpretation) of the Local Government Act (Northern Ireland) 2014, in the definition of “the Department” in subsection (1), for “the Department of the Environment” substitute “the Department for Communities”.
 
-### 6. Commencement and short title[^key-e6ae93d9d2e9fddaaeeff090f4210f1b]
+### 6. Commencement and short title[^c-e6ae93d9d2e9fddaaeeff090f4210f1b]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -124,14 +124,14 @@ In section 126 (interpretation) of the Local Government Act (Northern Ireland) 2
 
 ## Annotations
 
-[^key-16f25b8e4c6bea11876dc1cc1817b0af]: Commencement: S. 1 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-16f25b8e4c6bea11876dc1cc1817b0af]: Commencement: S. 1 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-d0a1e9d0392efa246b94e3384845af4a]: Commencement: S. 2 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-d0a1e9d0392efa246b94e3384845af4a]: Commencement: S. 2 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-13e7a6cdb77c0b852d2f7a65a34d5f1a]: Commencement: S. 3 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-13e7a6cdb77c0b852d2f7a65a34d5f1a]: Commencement: S. 3 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-85cd1ace878ee59097d0a3bb3525c77c]: Commencement: S. 4 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-85cd1ace878ee59097d0a3bb3525c77c]: Commencement: S. 4 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-82d0347506333b29763607452ab5600a]: Commencement: S. 5 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-82d0347506333b29763607452ab5600a]: Commencement: S. 5 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-e6ae93d9d2e9fddaaeeff090f4210f1b]: Commencement: S. 6 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-e6ae93d9d2e9fddaaeeff090f4210f1b]: Commencement: S. 6 in operation at 27.8.2021, see [s. 6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)

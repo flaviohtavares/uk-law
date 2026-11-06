@@ -44,7 +44,7 @@ Regulations 4(2) and (7) to (9) and 5(2), (7) and (8) are made with the consent 
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 2, 3, 4(2) to (5) and (7) to (9), 5(2) to (5), (7) and (8) and 6 should not be referred to it [^f00007].
 
-## 1. Citation, commencement and interpretation[^key-f68937fc500c11cf79b56cc9425d9995]
+## 1. Citation, commencement and interpretation[^c-f68937fc500c11cf79b56cc9425d9995]
 
 (1) These Regulations may be cited as the Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 and, subject to paragraph (2), shall come into operation on 1st May 2011.
 
@@ -55,11 +55,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-14c86e40b956c477dbb7481bf30ef6fe]
+## 2. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-14c86e40b956c477dbb7481bf30ef6fe]
 
 In regulation 10(1)(b) of the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00009] (notice of a decision against which an appeal lies) after “he may” insert “, within one month of the date of notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011),”.
 
-## 3. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^key-4b2a3cdc653cd120c3df179cf523beb1]
+## 3. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^c-4b2a3cdc653cd120c3df179cf523beb1]
 
 In regulation 4 of the Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2001[^f00010] (change affecting housing benefit)—
 
@@ -83,13 +83,13 @@ In regulation 4 of the Social Security (Notification of Change of Circumstances)
   ; and
 - (b) in paragraph (2) for ““designated office” and relevant authority”” substitute ““appropriate office”[^f00011], “claimant”, “designated office” and “relevant authority””.
 
-## 4. Amendment of the Housing Benefit Regulations[^key-1e6686bf8cf2a63420a170d25d30cbc7][^key-b28141048d2d1ebed22195dc1d67f89c][^key-13dbf9cc89f9ccab1129bd21a3e9706a]
+## 4. Amendment of the Housing Benefit Regulations[^c-1e6686bf8cf2a63420a170d25d30cbc7][^c-b28141048d2d1ebed22195dc1d67f89c][^c-13dbf9cc89f9ccab1129bd21a3e9706a]
 
-(1)[^key-1e6686bf8cf2a63420a170d25d30cbc7] The Housing Benefit Regulations (Northern Ireland) 2006[^f00012] are amended in accordance with paragraphs (2) to (9).
+(1)[^c-1e6686bf8cf2a63420a170d25d30cbc7] The Housing Benefit Regulations (Northern Ireland) 2006[^f00012] are amended in accordance with paragraphs (2) to (9).
 
-(2)[^key-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 19(3) (circumstances in which a person is to be treated as being or not being a member of the household) after “as a member of the claimant’s household” insert “, nor as occupying the claimant’s dwelling,”.
+(2)[^c-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 19(3) (circumstances in which a person is to be treated as being or not being a member of the household) after “as a member of the claimant’s household” insert “, nor as occupying the claimant’s dwelling,”.
 
-(3)[^key-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 81 (time and manner in which claims are to be made) for paragraph (12)[^f00013] substitute—
+(3)[^c-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 81 (time and manner in which claims are to be made) for paragraph (12)[^f00013] substitute—
 
 > (12) Where a claimant (“C”)—
 >
@@ -106,7 +106,7 @@ In regulation 4 of the Social Security (Notification of Change of Circumstances)
 
 .
 
-(4)[^key-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 84(1)[^f00014] (duty to notify changes of circumstances) for sub-paragraphs (a) and (b) substitute—
+(4)[^c-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 84(1)[^f00014] (duty to notify changes of circumstances) for sub-paragraphs (a) and (b) substitute—
 
 > - (a) in writing;
 > - (b) by telephone—
@@ -116,36 +116,36 @@ In regulation 4 of the Social Security (Notification of Change of Circumstances)
 
 .
 
-(5)[^key-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 86(2) (notification of decisions) after “signed by him,” insert “within one month of the date of the notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011)”.
+(5)[^c-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 86(2) (notification of decisions) after “signed by him,” insert “within one month of the date of the notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011)”.
 
-(6)[^key-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 93(2) (circumstances in which payment may be made to a landlord) omit “by sending to the claimant an instrument of payment payable”.
+(6)[^c-1e6686bf8cf2a63420a170d25d30cbc7] In regulation 93(2) (circumstances in which payment may be made to a landlord) omit “by sending to the claimant an instrument of payment payable”.
 
 (7) In Schedule 4 (applicable amounts)—
 
-- (a)[^key-a8402d6b13aacc1746c10ef8cc637801][^key-b28141048d2d1ebed22195dc1d67f89c][^key-13dbf9cc89f9ccab1129bd21a3e9706a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-1e6686bf8cf2a63420a170d25d30cbc7] in paragraph 20(9)[^f00016] (amounts of premiums specified in Part III) in the first column omit “where the conditions in paragraph 15 are satisfied”.
+- (a)[^c-a8402d6b13aacc1746c10ef8cc637801][^c-b28141048d2d1ebed22195dc1d67f89c][^c-13dbf9cc89f9ccab1129bd21a3e9706a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1e6686bf8cf2a63420a170d25d30cbc7] in paragraph 20(9)[^f00016] (amounts of premiums specified in Part III) in the first column omit “where the conditions in paragraph 15 are satisfied”.
 
-(8)[^key-1e6686bf8cf2a63420a170d25d30cbc7] In Schedule 5 (sums to be disregarded in the calculation of earnings) in paragraph 17(3)(a) for “paragraphs 3 to 10” substitute “paragraphs 3 to 10A”.
+(8)[^c-1e6686bf8cf2a63420a170d25d30cbc7] In Schedule 5 (sums to be disregarded in the calculation of earnings) in paragraph 17(3)(a) for “paragraphs 3 to 10” substitute “paragraphs 3 to 10A”.
 
 (9) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-1e6686bf8cf2a63420a170d25d30cbc7] in paragraph 15 in sub-paragraphs (ba) and (bc)[^f00017] after paragraph (ii) insert—
+- (a)[^c-1e6686bf8cf2a63420a170d25d30cbc7] in paragraph 15 in sub-paragraphs (ba) and (bc)[^f00017] after paragraph (ii) insert—
 
   > - (iia) the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^f00018];
 
   ;
-- (b)[^key-b28141048d2d1ebed22195dc1d67f89c][^key-13dbf9cc89f9ccab1129bd21a3e9706a] in paragraph 26—
+- (b)[^c-b28141048d2d1ebed22195dc1d67f89c][^c-13dbf9cc89f9ccab1129bd21a3e9706a] in paragraph 26—
   - (i) in sub-paragraph (1)[^f00019] omit “to the extent specified in sub-paragraph (3)”, and
   - (ii) omit sub-paragraph (3); and
-- (c)[^key-1e6686bf8cf2a63420a170d25d30cbc7] in paragraph 49A(2)[^f00020] in the definition of “liable relative” for “Income Support (General) Regulations (Northern Ireland) 1987” substitute “Income Support Regulations”.
+- (c)[^c-1e6686bf8cf2a63420a170d25d30cbc7] in paragraph 49A(2)[^f00020] in the definition of “liable relative” for “Income Support (General) Regulations (Northern Ireland) 1987” substitute “Income Support Regulations”.
 
-## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-3f2aacdac2e429d92c5e21654dd7869f][^key-8474a340ff772714388f8d36b514dc2f][^key-f59179c8ca072e11aa948e6087e78159]
+## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-3f2aacdac2e429d92c5e21654dd7869f][^c-8474a340ff772714388f8d36b514dc2f][^c-f59179c8ca072e11aa948e6087e78159]
 
-(1)[^key-3f2aacdac2e429d92c5e21654dd7869f] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00021] are amended in accordance with paragraphs (2) to (8).
+(1)[^c-3f2aacdac2e429d92c5e21654dd7869f] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00021] are amended in accordance with paragraphs (2) to (8).
 
-(2)[^key-3f2aacdac2e429d92c5e21654dd7869f] In regulation 19(3) (circumstances in which a person is to be treated as being or not being a member of the household) after “as a member of the claimant’s household” insert “, nor as occupying the claimant’s dwelling,”.
+(2)[^c-3f2aacdac2e429d92c5e21654dd7869f] In regulation 19(3) (circumstances in which a person is to be treated as being or not being a member of the household) after “as a member of the claimant’s household” insert “, nor as occupying the claimant’s dwelling,”.
 
-(3)[^key-3f2aacdac2e429d92c5e21654dd7869f] In regulation 62 (time and manner in which claims are to be made)—
+(3)[^c-3f2aacdac2e429d92c5e21654dd7869f] In regulation 62 (time and manner in which claims are to be made)—
 
 - (a) in paragraph (1)[^f00022] at the beginning insert “Subject to paragraph (1A),”; and
 - (b) after paragraph (1) insert—
@@ -154,7 +154,7 @@ In regulation 4 of the Social Security (Notification of Change of Circumstances)
 
   .
 
-(4)[^key-3f2aacdac2e429d92c5e21654dd7869f] In regulation 65(1)[^f00024] (duty to notify changes of circumstances) for sub-paragraphs (a) and (b) substitute—
+(4)[^c-3f2aacdac2e429d92c5e21654dd7869f] In regulation 65(1)[^f00024] (duty to notify changes of circumstances) for sub-paragraphs (a) and (b) substitute—
 
 > - (a) in writing;
 > - (b) by telephone—
@@ -164,19 +164,19 @@ In regulation 4 of the Social Security (Notification of Change of Circumstances)
 
 .
 
-(5)[^key-3f2aacdac2e429d92c5e21654dd7869f] In regulation 67(2) (notification of decision) after “signed by him,” insert “within one month of the date of the notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011)”.
+(5)[^c-3f2aacdac2e429d92c5e21654dd7869f] In regulation 67(2) (notification of decision) after “signed by him,” insert “within one month of the date of the notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011)”.
 
-(6)[^key-3f2aacdac2e429d92c5e21654dd7869f] In regulation 74(2) (circumstances in which payment may be made to a landlord) omit “by sending to the claimant an instrument of payment payable”.
+(6)[^c-3f2aacdac2e429d92c5e21654dd7869f] In regulation 74(2) (circumstances in which payment may be made to a landlord) omit “by sending to the claimant an instrument of payment payable”.
 
-(7)[^key-3dbca10359cd28e126c1c66406f05609][^key-8474a340ff772714388f8d36b514dc2f][^key-f59179c8ca072e11aa948e6087e78159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3dbca10359cd28e126c1c66406f05609][^c-8474a340ff772714388f8d36b514dc2f][^c-f59179c8ca072e11aa948e6087e78159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-3f2aacdac2e429d92c5e21654dd7869f] In paragraph 1 of Schedule 6[^f00025] (sums to be disregarded in the calculation of income other than earnings) in sub-paragraphs (ba) and (bc) after paragraph (ii) insert—
+(8)[^c-3f2aacdac2e429d92c5e21654dd7869f] In paragraph 1 of Schedule 6[^f00025] (sums to be disregarded in the calculation of income other than earnings) in sub-paragraphs (ba) and (bc) after paragraph (ii) insert—
 
 > - (iia) the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010;
 
 .
 
-## 6. Revocations[^key-92b95093c2427ba5c6bc7024a46d3d7e]
+## 6. Revocations[^c-92b95093c2427ba5c6bc7024a46d3d7e]
 
 Paragraph 9(a) of Schedule 2 to the Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006[^f00026], regulation 4 of the Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2008[^f00027] and regulation 6(9)(a) of the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009[^f00028] are revoked.
 
@@ -232,25 +232,25 @@ In so far as these Regulations are required, for the purposes of regulations 2, 
 
 [^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-f68937fc500c11cf79b56cc9425d9995]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1) in operation at 1.5.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1)
+[^c-f68937fc500c11cf79b56cc9425d9995]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1) in operation at 1.5.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-14c86e40b956c477dbb7481bf30ef6fe]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/136/regulation/2) in operation at 1.5.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1)
+[^c-14c86e40b956c477dbb7481bf30ef6fe]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/136/regulation/2) in operation at 1.5.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213)
 
-[^key-4b2a3cdc653cd120c3df179cf523beb1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/136/regulation/3) in operation at 1.5.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1)
+[^c-4b2a3cdc653cd120c3df179cf523beb1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/136/regulation/3) in operation at 1.5.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/136/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2001 No. 420](https://www.legislation.gov.uk/nisr/2001/420); regulation 4 was amended by paragraph 9 of Schedule 2 to [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
 
 [^f00011]: Footnote: The definition of “appropriate office” was amended by regulation 3(2)(a)(ii) or, as the case may be, regulation 4(2)(a)(ii) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
 
-[^key-1e6686bf8cf2a63420a170d25d30cbc7]: Commencement: [Reg. 4(1)-(6)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/1), [(7)(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/7/b)[(8)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/8)[(9)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/9/a)[(c)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/9/c) in operation at 1.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1)
+[^c-1e6686bf8cf2a63420a170d25d30cbc7]: Commencement: [Reg. 4(1)-(6)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/1), [(7)(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/7/b)[(8)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/8)[(9)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/9/a)[(c)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/9/c) in operation at 1.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1)
 
-[^key-b28141048d2d1ebed22195dc1d67f89c]: Commencement: Reg. 4(7)(a)(9)(b) in operation at 1.4.2011 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/b)
+[^c-b28141048d2d1ebed22195dc1d67f89c]: Commencement: Reg. 4(7)(a)(9)(b) in operation at 1.4.2011 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/b)
 
-[^key-13dbf9cc89f9ccab1129bd21a3e9706a]: Commencement: Reg. 4(7)(a)(9)(b) in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/a)
+[^c-13dbf9cc89f9ccab1129bd21a3e9706a]: Commencement: Reg. 4(7)(a)(9)(b) in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/a)
 
 [^f00012]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Rules are [S.R. 2006 No. 462](https://www.legislation.gov.uk/nisr/2006/462), [S.R. 2008 Nos. 410](https://www.legislation.gov.uk/nisr/2008/410) and [498](https://www.legislation.gov.uk/nisr/2008/498), [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338), [S.R. 2010 No. 8](https://www.legislation.gov.uk/nisr/2010/8) and [S.R. 2011 No. 119](https://www.legislation.gov.uk/nisr/2011/119)
 
@@ -258,7 +258,7 @@ In so far as these Regulations are required, for the purposes of regulations 2, 
 
 [^f00014]: Footnote: Regulation 84(1) was amended by regulation 2(4) of [S.R. 2006 No. 462](https://www.legislation.gov.uk/nisr/2006/462)
 
-[^key-a8402d6b13aacc1746c10ef8cc637801]: Textual amendment: [Reg. 4(7)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/7/a) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
+[^c-a8402d6b13aacc1746c10ef8cc637801]: Textual amendment: [Reg. 4(7)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/7/a) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
 
 [^f00016]: Footnote: Paragraph 20(9) was amended by Schedule 6 to [S.R. 2011 No. 119](https://www.legislation.gov.uk/nisr/2011/119)
 
@@ -270,11 +270,11 @@ In so far as these Regulations are required, for the purposes of regulations 2, 
 
 [^f00020]: Footnote: Paragraph 49A was substituted by regulation 6(6)(d) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 
-[^key-3f2aacdac2e429d92c5e21654dd7869f]: Commencement: [Reg. 5(1)-(6)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/1), [(8)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/8) in operation at 1.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1)
+[^c-3f2aacdac2e429d92c5e21654dd7869f]: Commencement: [Reg. 5(1)-(6)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/1), [(8)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/8) in operation at 1.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1)
 
-[^key-8474a340ff772714388f8d36b514dc2f]: Commencement: Reg. 5(7) in operation at 1.4.2011 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/b)
+[^c-8474a340ff772714388f8d36b514dc2f]: Commencement: Reg. 5(7) in operation at 1.4.2011 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/b)
 
-[^key-f59179c8ca072e11aa948e6087e78159]: Commencement: Reg. 5(7) in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/a)
+[^c-f59179c8ca072e11aa948e6087e78159]: Commencement: Reg. 5(7) in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/2/a)
 
 [^f00021]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are [S.R. 2006 No. 462](https://www.legislation.gov.uk/nisr/2006/462), [S.R. 2008 No. 410](https://www.legislation.gov.uk/nisr/2008/410) and [S.R. 2010 No. 8](https://www.legislation.gov.uk/nisr/2010/8)
 
@@ -284,11 +284,11 @@ In so far as these Regulations are required, for the purposes of regulations 2, 
 
 [^f00024]: Footnote: Regulation 65(1) was amended by regulation 3(4) of [S.R. 2006 No. 462](https://www.legislation.gov.uk/nisr/2006/462)
 
-[^key-3dbca10359cd28e126c1c66406f05609]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/7) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
+[^c-3dbca10359cd28e126c1c66406f05609]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/7) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
 
 [^f00025]: Footnote: Sub-paragraphs (ba) to (bc) were inserted by regulation 3 of [S.R. 2010 No. 8](https://www.legislation.gov.uk/nisr/2010/8)
 
-[^key-92b95093c2427ba5c6bc7024a46d3d7e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/136/regulation/6) in operation at 1.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1)
+[^c-92b95093c2427ba5c6bc7024a46d3d7e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/136/regulation/6) in operation at 1.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
 

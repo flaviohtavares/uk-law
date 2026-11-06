@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Regulations: supplemental[^key-a3f85b5cddb4a7b4212d449a300294df]
+## 29. Regulations: supplemental[^c-a3f85b5cddb4a7b4212d449a300294df]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ Regulations under this Part may—
 
 ## Annotations
 
-[^key-a3f85b5cddb4a7b4212d449a300294df]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2011/4/section/29) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-a3f85b5cddb4a7b4212d449a300294df]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2011/4/section/29) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Scheme valuation and employer cost cap[^key-c9245f049d1080576d8e5f101eeb955f]
+## SCHEDULE 4 — Scheme valuation and employer cost cap[^c-c9245f049d1080576d8e5f101eeb955f]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ Any changes to the scheme made as a result of paragraph 5 are to take effect wit
 
 ## Annotations
 
-[^key-c9245f049d1080576d8e5f101eeb955f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/512/schedule/4) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [52](https://www.legislation.gov.uk/uksi/2014/2652/regulation/52)
+[^c-c9245f049d1080576d8e5f101eeb955f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/512/schedule/4) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [52](https://www.legislation.gov.uk/uksi/2014/2652/regulation/52)

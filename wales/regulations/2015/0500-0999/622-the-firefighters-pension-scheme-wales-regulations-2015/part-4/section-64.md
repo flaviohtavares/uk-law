@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Other pension accounts[^key-68034eddafc64d1bb9ca6cfb5e8d00cd]
+## 64. Other pension accounts[^c-68034eddafc64d1bb9ca6cfb5e8d00cd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a pension credit member of this scheme is also an active member, deferred mem
 
 ## Annotations
 
-[^key-68034eddafc64d1bb9ca6cfb5e8d00cd]: Commencement: Reg. 64 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-68034eddafc64d1bb9ca6cfb5e8d00cd]: Commencement: Reg. 64 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

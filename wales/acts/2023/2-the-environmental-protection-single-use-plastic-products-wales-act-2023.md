@@ -42,7 +42,7 @@ An Act of Senedd Cymru to prohibit supply of certain single-use plastic products
 
 ## Prohibition on the supply of certain single-use plastic products
 
-### 1. Key concepts: “plastic product”, “single-use” and “plastic”[^key-66a6ed16c57a5a19171a2bbcfd82889e][^key-78c636cebaf5660d6f5408d66dde34bd]
+### 1. Key concepts: “plastic product”, “single-use” and “plastic”[^c-66a6ed16c57a5a19171a2bbcfd82889e][^c-78c636cebaf5660d6f5408d66dde34bd]
 
 (1) This section defines certain key concepts for the purposes of this Act.
 
@@ -62,7 +62,7 @@ An Act of Senedd Cymru to prohibit supply of certain single-use plastic products
 
 (6) For the purposes of subsection (3), a carrier bag is deemed to have been designed to be used to carry goods more than once before being disposed of unless it is made of plastic film no greater than 49 microns in thickness (in which case it is considered to be a plastic product that is single-use).
 
-### 2. Prohibited single-use plastic products[^key-fb526a8e2fd45102a6243e62baad9a4f][^key-a226576d3f039c0fee3cac1e179b0029]
+### 2. Prohibited single-use plastic products[^c-fb526a8e2fd45102a6243e62baad9a4f][^c-a226576d3f039c0fee3cac1e179b0029]
 
 (1) For the purposes of this Act, a single-use plastic product is prohibited if—
 
@@ -76,7 +76,7 @@ An Act of Senedd Cymru to prohibit supply of certain single-use plastic products
 - (a) the single-use plastic products that are prohibited under this Act;
 - (b) the application of any exemptions listed in column 2 of the Table in paragraph 1 of the Schedule.
 
-### 3. Prohibited single-use plastic products: power to amend[^key-05b085597eb19f4b2050755b159c4063]
+### 3. Prohibited single-use plastic products: power to amend[^c-05b085597eb19f4b2050755b159c4063]
 
 (1) The Welsh Ministers may by regulations amend the Schedule—
 
@@ -92,7 +92,7 @@ An Act of Senedd Cymru to prohibit supply of certain single-use plastic products
 - (d) such persons as the Welsh Ministers consider represent the interests of people who have a protected characteristic within the meaning given in section 4 of the [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), and on whom the regulations may have a particular impact for that reason;
 - (e) such other persons as the Welsh Ministers consider appropriate.
 
-### 4. Power to amend: duties relating to sustainable development and reporting[^key-5a8291b0a897268dd093649ffd99a925]
+### 4. Power to amend: duties relating to sustainable development and reporting[^c-5a8291b0a897268dd093649ffd99a925]
 
 (1) In considering whether to exercise the power in section 3, the Welsh Ministers must take into account their duty—
 
@@ -106,7 +106,7 @@ An Act of Senedd Cymru to prohibit supply of certain single-use plastic products
 
 ## Offence
 
-### 5. Offence of supplying prohibited single-use plastic product[^key-5f49bbb06a2d2e0896243c7d46e16873][^key-bc992572dbec1df7734b8ce91d22ce21]
+### 5. Offence of supplying prohibited single-use plastic product[^c-5f49bbb06a2d2e0896243c7d46e16873][^c-bc992572dbec1df7734b8ce91d22ce21]
 
 (1) A person of a description referred to in subsection (2) (“**P**”) commits an offence if that person—
 
@@ -161,13 +161,13 @@ An Act of Senedd Cymru to prohibit supply of certain single-use plastic products
 
 (11) In this‍ section, “**consumer**” means an individual acting for purposes that are wholly or mainly outside that individual’s trade, business or profession (whether or not the individual purchased the product).
 
-### 6. Offence: mode of trial and penalty[^key-2fb36b7a96ffc4c2fd82ea5d03e3ff17][^key-45556e70d526e92fc50ed9941c13cc3d]
+### 6. Offence: mode of trial and penalty[^c-2fb36b7a96ffc4c2fd82ea5d03e3ff17][^c-45556e70d526e92fc50ed9941c13cc3d]
 
 A person guilty of an offence under section 5 is liable on summary conviction to a fine.
 
 ## Enforcement
 
-### 7. Enforcement action by local authorities[^key-deb053a194a1c30d692e9f218cbaf193][^key-d1db38d38782d19b5a5d429256c0dd41]
+### 7. Enforcement action by local authorities[^c-deb053a194a1c30d692e9f218cbaf193][^c-d1db38d38782d19b5a5d429256c0dd41]
 
 (1) A local authority may—
 
@@ -177,11 +177,11 @@ A person guilty of an offence under section 5 is liable on summary conviction to
 
 (2) References in this Act to an authorised officer of a local authority are to any person authorised by a local authority for the purposes of this Act.
 
-### 8. Power to make test purchases[^key-515c0439e044345ce26a3aff18984f9e][^key-dca503b37a1cdfab33a8be381e9f4f24]
+### 8. Power to make test purchases[^c-515c0439e044345ce26a3aff18984f9e][^c-dca503b37a1cdfab33a8be381e9f4f24]
 
 An authorised officer of a local authority may make such purchases and arrangements, and secure the provision of such services, as the officer considers necessary for the purpose of the exercise of the local authority’s functions under this Act.
 
-### 9. Power of entry[^key-ac649df7b6de3fb70060d28a98a65c58][^key-286516318dc7608efc3375a33e8466bc]
+### 9. Power of entry[^c-ac649df7b6de3fb70060d28a98a65c58][^c-286516318dc7608efc3375a33e8466bc]
 
 (1) An authorised officer of a local authority may enter premises at any reasonable time if the officer—
 
@@ -196,7 +196,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (5) For the purposes of this section and sections 10 and 11, “**residential premises**” means premises, or any part of premises, used wholly or mainly as a dwelling.
 
-### 10. Power of entry: residential premises[^key-23d0c35e2f8ce39cafa7ba01a3976fb2][^key-2dce78d0705aa7d4992129fc89157675]
+### 10. Power of entry: residential premises[^c-23d0c35e2f8ce39cafa7ba01a3976fb2][^c-2dce78d0705aa7d4992129fc89157675]
 
 (1) A justice of the peace may issue a warrant authorising an authorised officer of a local authority to enter‍ residential premises, by force if necessary, if satisfied on sworn information in writing—
 
@@ -205,7 +205,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (2) The warrant continues in force until the end of the period of 28 days beginning with the date it was issued.
 
-### 11. Power of entry: other circumstances requiring warrant[^key-0b89b39b679b3296cb7cb3fbe289dda4][^key-77fcfa5126a6a239e01b4f920613e950]
+### 11. Power of entry: other circumstances requiring warrant[^c-0b89b39b679b3296cb7cb3fbe289dda4][^c-77fcfa5126a6a239e01b4f920613e950]
 
 (1) A justice of the peace may issue a warrant authorising an authorised officer of a local authority to enter premises, other than‍ residential premises, by force if necessary, if satisfied on sworn information in writing that—
 
@@ -222,7 +222,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (4) The warrant continues in force until the end of the period of 28 days beginning with the date on which it was issued.
 
-### 12. Powers of entry: supplementary[^key-fe0a45f9eca098b4c9eb2027c833c9c1][^key-641559e55f82d2b515842104f9742906]
+### 12. Powers of entry: supplementary[^c-fe0a45f9eca098b4c9eb2027c833c9c1][^c-641559e55f82d2b515842104f9742906]
 
 (1) An authorised officer of a local authority entering premises under or by virtue of section 9, 10 or 11 may take such other persons and such equipment as the officer considers appropriate.
 
@@ -236,7 +236,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (4) If premises that an authorised officer is authorised to enter by a warrant under section 10 or 11 are unoccupied, or if the occupier is temporarily absent, then on leaving the premises the officer must leave them as effectively secured against unauthorised entry as when the officer found them.
 
-### 13. Power of inspection[^key-bd96373a25c764466e48593a89f75c47][^key-4383ccfbb6abb39ba7d9cbbdbf7d6a80]
+### 13. Power of inspection[^c-bd96373a25c764466e48593a89f75c47][^c-4383ccfbb6abb39ba7d9cbbdbf7d6a80]
 
 (1) An authorised officer of a local authority entering premises under or by virtue of section 9, 10 or 11 may do any of the following if the officer considers it necessary for the purpose of ascertaining whether an offence under section 5 has been committed⁠—
 
@@ -266,7 +266,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (7) This section applies to a vehicle as if it were premises.
 
-### 14. Offence of obstruction etc. of officers[^key-90a94954a31997cd176396b356d56ba1][^key-c6a72890325df1d8954b399de72f33d7]
+### 14. Offence of obstruction etc. of officers[^c-90a94954a31997cd176396b356d56ba1][^c-c6a72890325df1d8954b399de72f33d7]
 
 (1) A person who intentionally obstructs an authorised officer of a local authority exercising functions under sections 9 to 13 commits an offence.
 
@@ -276,7 +276,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (4) Where a person does not answer any question or produce any document that the person would be entitled to refuse to answer or produce in or for the purposes of proceedings in a court in Wales or in England (see section 13(6)), this does not amount to obstruction under this section.
 
-### 15. Retained property: appeals[^key-5da3c874482a39319acb3e15143e7a21][^key-d36eee3fad00f7aafb22ef21f6c4a28d]
+### 15. Retained property: appeals[^c-5da3c874482a39319acb3e15143e7a21][^c-d36eee3fad00f7aafb22ef21f6c4a28d]
 
 (1) A person (“**A**”) with an interest in anything taken away under section 13(1)(c) (“retained property”) may apply by way of complaint to any magistrates’ court for an order requiring the retained property to be released, either to A or to another person.
 
@@ -288,7 +288,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (5) Nothing in this section affects any other power of the court to make an order in respect of the retained property, including any power to make an order under section 1 of the [Police (Property) Act 1897 (c. 30)](https://www.legislation.gov.uk/ukpga/1897/30) (power to make order with respect to property in possession of police).
 
-### 16. Appropriated property: compensation[^key-5cadba733fb7907063c0edca81241a51][^key-3656a4f98e6e138eae2d810ee880014a]
+### 16. Appropriated property: compensation[^c-5cadba733fb7907063c0edca81241a51][^c-3656a4f98e6e138eae2d810ee880014a]
 
 (1) A person (“**A**”) with an interest in anything of which an authorised officer of a local authority has taken possession under section 13(1)(c) (“appropriated property”) may apply by way of complaint to any magistrates’ court for compensation.
 
@@ -299,7 +299,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (3) The court may order the local authority to pay compensation to A.
 
-### 17. Civil sanctions[^key-84878f0576a8635866410e14820d326b]
+### 17. Civil sanctions[^c-84878f0576a8635866410e14820d326b]
 
 (1) In this section, “**the 2008 Act**” means the [Regulatory Enforcement and Sanctions Act 2008 (c. 13)](https://www.legislation.gov.uk/ukpga/2008/13).
 
@@ -314,7 +314,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (5) For the purposes of subsections (3) and (4), references to a regulator in sections 60 and 63 to 70 of the 2008 Act are to be read as references to a local authority.
 
-### 18. Offences committed by partnerships and other unincorporated associations[^key-d995235b5b501a1d023ad43f8435457d][^key-ce3686fb948d9c33aeacdfe85bbb33db]
+### 18. Offences committed by partnerships and other unincorporated associations[^c-d995235b5b501a1d023ad43f8435457d][^c-ce3686fb948d9c33aeacdfe85bbb33db]
 
 (1) Proceedings for an offence under this Act alleged to have been committed by a partnership are to be brought in the name of the partnership (and not in that of any of the partners).
 
@@ -328,7 +328,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (6) A fine imposed on an unincorporated association other than a partnership on its conviction for an offence under this Act is to be paid out of the funds of the association.
 
-### 19. Criminal liability of senior officers etc.[^key-80bbbc56a616f9ed6355db57b832ad63][^key-29230eea46db40faf012f0db6231dd76]
+### 19. Criminal liability of senior officers etc.[^c-80bbbc56a616f9ed6355db57b832ad63][^c-29230eea46db40faf012f0db6231dd76]
 
 (1) This section applies where an offence under this Act is committed by—
 
@@ -353,7 +353,7 @@ that senior officer or person (as well as the body corporate, partnership or ass
 
 ## General
 
-### 20. Interpretation[^key-b1527d6742b133148aea3c657ba85370][^key-fe6b57cd8352e2e79458e16b98511b94]
+### 20. Interpretation[^c-b1527d6742b133148aea3c657ba85370][^c-fe6b57cd8352e2e79458e16b98511b94]
 
 In this Act–
 
@@ -369,7 +369,7 @@ In this Act–
 - “prohibited single-use plastic product” *(“cynnyrch plastig untro gwaharddedig”)* has the meaning given in section 2(2);
 - “single-use” *(“untro”)*, in relation to a plastic product, has the meaning given in section 1(3).
 
-### 21. Regulations[^key-538ede10a63172fa825081588f902866]
+### 21. Regulations[^c-538ede10a63172fa825081588f902866]
 
 (1) A power to make regulations under this Act is exercisable by statutory instrument.
 
@@ -380,7 +380,7 @@ In this Act–
 
 (3) A statutory instrument made under this Act may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
 
-### 22. Coming into force[^key-8b7a4b5e3fcce3a0cbce81210ed43159]
+### 22. Coming into force[^c-8b7a4b5e3fcce3a0cbce81210ed43159]
 
 (1) This section and sections 3, 4, 17, 21 and 23 come into force on the day after the day on which this Act receives Royal Assent.
 
@@ -391,7 +391,7 @@ In this Act–
 - (a) may make transitional, transitory or saving provision;
 - (b) may appoint different days for different purposes.
 
-### 23. Short title[^key-7c06811653b0f2ed00b4302d1a313ba4]
+### 23. Short title[^c-7c06811653b0f2ed00b4302d1a313ba4]
 
 The short title of this Act is the Environmental Protection (Single-use Plastic Products) (Wales) Act 2023.
 
@@ -399,7 +399,7 @@ The short title of this Act is the Environmental Protection (Single-use Plastic 
 
 Introduced by section 2
 
-**1.**[^key-006e9092fa763299b0f6555693233299][^key-5a1e32000feb1bffb24c1fac88077fbd] This is the Table referred to in section 2.
+**1.**[^c-006e9092fa763299b0f6555693233299][^c-5a1e32000feb1bffb24c1fac88077fbd] This is the Table referred to in section 2.
 
 TABLE
 
@@ -425,7 +425,7 @@ TABLE
 </tbody>
 </table>
 
-**2.**[^key-3f6b63ceb0729821f566479a3ccd8103][^key-66b8057283525d6e0d43d7637b075cc2] For the purposes of the Table—
+**2.**[^c-3f6b63ceb0729821f566479a3ccd8103][^c-66b8057283525d6e0d43d7637b075cc2] For the purposes of the Table—
 
 - “balloon stick” *(“ffon balŵn”)* means a stick, including any attached mechanisms, designed to be attached to a balloon so that it may be carried or supported;
 - “**carrier bag**” (“***bag siopa***”) means a bag, with or without handles, supplied for the purpose of carrying items sold or provided with the bag (and see also section 1(6));
@@ -448,90 +448,90 @@ TABLE
 
 ## Annotations
 
-[^key-66a6ed16c57a5a19171a2bbcfd82889e]: Commencement: S. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-66a6ed16c57a5a19171a2bbcfd82889e]: Commencement: S. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-78c636cebaf5660d6f5408d66dde34bd]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2023/2/section/1) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/a)
+[^c-78c636cebaf5660d6f5408d66dde34bd]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2023/2/section/1) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/a)
 
-[^key-fb526a8e2fd45102a6243e62baad9a4f]: Commencement: S. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-fb526a8e2fd45102a6243e62baad9a4f]: Commencement: S. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-a226576d3f039c0fee3cac1e179b0029]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/2/section/2) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/b)
+[^c-a226576d3f039c0fee3cac1e179b0029]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/2/section/2) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/b)
 
-[^key-05b085597eb19f4b2050755b159c4063]: Commencement: S. 3 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
+[^c-05b085597eb19f4b2050755b159c4063]: Commencement: S. 3 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
 
-[^key-5a8291b0a897268dd093649ffd99a925]: Commencement: S. 4 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
+[^c-5a8291b0a897268dd093649ffd99a925]: Commencement: S. 4 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
 
-[^key-5f49bbb06a2d2e0896243c7d46e16873]: Commencement: S. 5 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-5f49bbb06a2d2e0896243c7d46e16873]: Commencement: S. 5 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-bc992572dbec1df7734b8ce91d22ce21]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/2/section/5) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/c)
+[^c-bc992572dbec1df7734b8ce91d22ce21]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/2/section/5) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/c)
 
-[^key-2fb36b7a96ffc4c2fd82ea5d03e3ff17]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-2fb36b7a96ffc4c2fd82ea5d03e3ff17]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-45556e70d526e92fc50ed9941c13cc3d]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/2/section/6) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/d)
+[^c-45556e70d526e92fc50ed9941c13cc3d]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/2/section/6) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/d)
 
-[^key-deb053a194a1c30d692e9f218cbaf193]: Commencement: S. 7 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-deb053a194a1c30d692e9f218cbaf193]: Commencement: S. 7 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-d1db38d38782d19b5a5d429256c0dd41]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/2/section/7) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/e)
+[^c-d1db38d38782d19b5a5d429256c0dd41]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/2/section/7) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/e)
 
-[^key-515c0439e044345ce26a3aff18984f9e]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-515c0439e044345ce26a3aff18984f9e]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-dca503b37a1cdfab33a8be381e9f4f24]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/2/section/8) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(f)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/f)
+[^c-dca503b37a1cdfab33a8be381e9f4f24]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/2/section/8) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(f)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/f)
 
-[^key-ac649df7b6de3fb70060d28a98a65c58]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-ac649df7b6de3fb70060d28a98a65c58]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-286516318dc7608efc3375a33e8466bc]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2023/2/section/9) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/g)
+[^c-286516318dc7608efc3375a33e8466bc]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2023/2/section/9) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/g)
 
-[^key-23d0c35e2f8ce39cafa7ba01a3976fb2]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-23d0c35e2f8ce39cafa7ba01a3976fb2]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-2dce78d0705aa7d4992129fc89157675]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/2/section/10) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(h)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/h)
+[^c-2dce78d0705aa7d4992129fc89157675]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/2/section/10) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(h)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/h)
 
-[^key-0b89b39b679b3296cb7cb3fbe289dda4]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-0b89b39b679b3296cb7cb3fbe289dda4]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-77fcfa5126a6a239e01b4f920613e950]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2023/2/section/11) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(i)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/i)
+[^c-77fcfa5126a6a239e01b4f920613e950]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2023/2/section/11) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(i)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/i)
 
-[^key-fe0a45f9eca098b4c9eb2027c833c9c1]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-fe0a45f9eca098b4c9eb2027c833c9c1]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-641559e55f82d2b515842104f9742906]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/2/section/12) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(j)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/j)
+[^c-641559e55f82d2b515842104f9742906]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/2/section/12) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(j)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/j)
 
-[^key-bd96373a25c764466e48593a89f75c47]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-bd96373a25c764466e48593a89f75c47]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-4383ccfbb6abb39ba7d9cbbdbf7d6a80]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/2/section/13) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(k)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/k)
+[^c-4383ccfbb6abb39ba7d9cbbdbf7d6a80]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/2/section/13) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(k)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/k)
 
-[^key-90a94954a31997cd176396b356d56ba1]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-90a94954a31997cd176396b356d56ba1]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-c6a72890325df1d8954b399de72f33d7]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2023/2/section/14) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(l)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/l)
+[^c-c6a72890325df1d8954b399de72f33d7]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2023/2/section/14) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(l)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/l)
 
-[^key-5da3c874482a39319acb3e15143e7a21]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-5da3c874482a39319acb3e15143e7a21]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-d36eee3fad00f7aafb22ef21f6c4a28d]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/2/section/15) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(m)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/m)
+[^c-d36eee3fad00f7aafb22ef21f6c4a28d]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/2/section/15) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(m)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/m)
 
-[^key-5cadba733fb7907063c0edca81241a51]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-5cadba733fb7907063c0edca81241a51]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-3656a4f98e6e138eae2d810ee880014a]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/2/section/16) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(n)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/n)
+[^c-3656a4f98e6e138eae2d810ee880014a]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/2/section/16) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(n)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/n)
 
-[^key-84878f0576a8635866410e14820d326b]: Commencement: S. 17 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
+[^c-84878f0576a8635866410e14820d326b]: Commencement: S. 17 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
 
-[^key-d995235b5b501a1d023ad43f8435457d]: Commencement: S. 18 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-d995235b5b501a1d023ad43f8435457d]: Commencement: S. 18 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-ce3686fb948d9c33aeacdfe85bbb33db]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2023/2/section/18) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(o)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/o)
+[^c-ce3686fb948d9c33aeacdfe85bbb33db]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2023/2/section/18) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(o)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/o)
 
-[^key-80bbbc56a616f9ed6355db57b832ad63]: Commencement: S. 19 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-80bbbc56a616f9ed6355db57b832ad63]: Commencement: S. 19 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-29230eea46db40faf012f0db6231dd76]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/2/section/19) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(p)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/p)
+[^c-29230eea46db40faf012f0db6231dd76]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/2/section/19) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(p)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/p)
 
-[^key-b1527d6742b133148aea3c657ba85370]: Commencement: S. 20 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-b1527d6742b133148aea3c657ba85370]: Commencement: S. 20 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-fe6b57cd8352e2e79458e16b98511b94]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2023/2/section/20) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(q)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/q)
+[^c-fe6b57cd8352e2e79458e16b98511b94]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2023/2/section/20) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(q)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/q)
 
-[^key-538ede10a63172fa825081588f902866]: Commencement: S. 21 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
+[^c-538ede10a63172fa825081588f902866]: Commencement: S. 21 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
 
-[^key-8b7a4b5e3fcce3a0cbce81210ed43159]: Commencement: S. 22 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
+[^c-8b7a4b5e3fcce3a0cbce81210ed43159]: Commencement: S. 22 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
 
-[^key-7c06811653b0f2ed00b4302d1a313ba4]: Commencement: S. 23 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
+[^c-7c06811653b0f2ed00b4302d1a313ba4]: Commencement: S. 23 in force at 7.6.2023, see [s. 22(1)](https://www.legislation.gov.uk/asc/2023/2/section/22/1)
 
-[^key-006e9092fa763299b0f6555693233299]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-006e9092fa763299b0f6555693233299]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-5a1e32000feb1bffb24c1fac88077fbd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asc/2023/2/schedule/paragraph/1) in force at 30.10.2023 for specified purposes by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(r)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/r)
+[^c-5a1e32000feb1bffb24c1fac88077fbd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asc/2023/2/schedule/paragraph/1) in force at 30.10.2023 for specified purposes by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(r)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/r)
 
-[^key-3f6b63ceb0729821f566479a3ccd8103]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
+[^c-3f6b63ceb0729821f566479a3ccd8103]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asc/2023/2/section/22/2)
 
-[^key-66b8057283525d6e0d43d7637b075cc2]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asc/2023/2/schedule/paragraph/2) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(s)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/s)
+[^c-66b8057283525d6e0d43d7637b075cc2]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asc/2023/2/schedule/paragraph/2) in force at 30.10.2023 by [S.I. 2023/1149](https://www.legislation.gov.uk/wsi/2023/1149), [art. 2(s)](https://www.legislation.gov.uk/wsi/2023/1149/article/2/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Copyright etc where broadcast retransmitted by cable[^key-f3ceda27d37595d9f9a343d289410d8e]
+## 34. Copyright etc where broadcast retransmitted by cable[^c-f3ceda27d37595d9f9a343d289410d8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ceda27d37595d9f9a343d289410d8e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/30/section/34) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
+[^c-f3ceda27d37595d9f9a343d289410d8e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/30/section/34) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)

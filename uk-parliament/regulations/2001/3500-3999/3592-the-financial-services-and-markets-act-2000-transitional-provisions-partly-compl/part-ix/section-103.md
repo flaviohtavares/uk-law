@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Request for reference: further consideration by the Authority[^key-a6e63e9845dbfd46fd0137790adf4800]
+## 103. Request for reference: further consideration by the Authority[^c-a6e63e9845dbfd46fd0137790adf4800]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a6e63e9845dbfd46fd0137790adf4800]: Commencement: Art. 103 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a6e63e9845dbfd46fd0137790adf4800]: Commencement: Art. 103 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00036]: Footnote: The reference in section 97 to a notice served under section 29 of the Financial Services Act includes a reference to a notice served under Schedule 4, paragraph 1 to the 2BCD Regulations or to the ISD Regulations (imposing a prohibition under regulation 15) (see Schedule 4 paragraph 2 of the ISD Regulations and the 2BCD Regulations); the reference in section 97 to a notice served under section 59(4) includes a reference to a notice of objection served by the Authority under regulation 42 of the ISD Regulations (see regulation 42(10) of the ISD Regulations).
 

@@ -24,7 +24,7 @@ Regulation 61
 
 ### PART 1 — Amendment of subordinate legislation made under the Competition Act 1998
 
-#### 1. Competition Act 1998 (Small Agreements and Conduct of Minor Significance) Regulations 2000[^key-1a12cc73282427ee3156bf20922c6f92]
+#### 1. Competition Act 1998 (Small Agreements and Conduct of Minor Significance) Regulations 2000[^c-1a12cc73282427ee3156bf20922c6f92]
 
 (1) The Schedule to the Competition Act 1998 (Small Agreements and Conduct of Minor Significance) Regulations 2000 [^c23883461] is amended as follows.
 
@@ -52,11 +52,11 @@ Regulation 61
   > “**third-country reinsurance undertaking**” means an undertaking which, if its head office were in the United Kingdom—
   >
   > - (a) would require permission under Part 4A of the Financial Services and Markets Act 2000 to carry out regulated activities relating to reinsurance; and
-  > - (b) immediately before IP completion day[^key-ec68444f0c07344722901aa06041924c], would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138); and
+  > - (b) immediately before IP completion day[^c-ec68444f0c07344722901aa06041924c], would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138); and
 
   .
 
-#### 2. Competition Act 1998 (Determination of Turnover for Penalties) Order 2000[^key-03cde23400180e85cef22176f62a0963]
+#### 2. Competition Act 1998 (Determination of Turnover for Penalties) Order 2000[^c-03cde23400180e85cef22176f62a0963]
 
 (1) The Schedule to the Competition Act 1998 (Determination of Turnover for Penalties) Order 2000 [^c23883491] is amended as follows.
 
@@ -84,17 +84,17 @@ Regulation 61
   > “**third-country reinsurance undertaking**” means an undertaking which, if its head office were in the United Kingdom—
   >
   > - (a) would require permission under Part 4A of the Financial Services and Markets Act 2000 to carry out regulated activities relating to reinsurance; and
-  > - (b) immediately before IP completion day[^key-aa433d2a679f294fa0212e0bb13b9a7d], would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138); and
+  > - (b) immediately before IP completion day[^c-aa433d2a679f294fa0212e0bb13b9a7d], would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138); and
 
   .
 
-#### 3. Competition Act 1998 (Appealable Decisions and Revocation of Notification of Excluded Agreements) Regulations 2004[^key-79e98e166effe93a47f4d2ead4998381]
+#### 3. Competition Act 1998 (Appealable Decisions and Revocation of Notification of Excluded Agreements) Regulations 2004[^c-79e98e166effe93a47f4d2ead4998381]
 
 (1) The Competition Act 1998 (Appealable Decisions and Revocation of Notification of Excluded Agreements) Regulations 2004 [^c23883501] are amended as follows.
 
 (2) In regulation 2, for “parallel exemption” in both places it occurs substitute “ retained exemption ”.
 
-#### 4. Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014[^key-2934e2a5f8087c92c56c5be919ed15c0]
+#### 4. Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014[^c-2934e2a5f8087c92c56c5be919ed15c0]
 
 (1) The Schedule to the Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014 [^c23883511] is amended as follows.
 
@@ -154,11 +154,11 @@ Regulation 61
 - (a) in paragraph (1)(a) omit “, 16(1) 16(3)(a)”;
 - (b) in paragraph (1)(b) omit “, 16(1), 16(3)(a)”.
 
-#### 5. Competition Act 1998 (Concurrency) Regulations 2014[^key-01482b7c6af252842e5a13865c82fc48]
+#### 5. Competition Act 1998 (Concurrency) Regulations 2014[^c-01482b7c6af252842e5a13865c82fc48]
 
 (1) The Competition Act 1998 (Concurrency) Regulations 2014 [^c23883521] are amended as follows.
 
-(1A)[^key-bbfaff96a71c79a2cea9c23f1c3f4c1f] In regulation 2, in the definition of “prescribed functions”, after sub-paragraph (i) insert—
+(1A)[^c-bbfaff96a71c79a2cea9c23f1c3f4c1f] In regulation 2, in the definition of “prescribed functions”, after sub-paragraph (i) insert—
 
 > - (ia) any of the functions of the CMA under section 40ZB, 40ZC or 40ZD of the Act;
 
@@ -178,13 +178,13 @@ Regulation 61
 
 ### PART 2 — Amendment of subordinate legislation made under the Enterprise Act 2002
 
-#### 6. Enterprise Act 2002 (Anticipated Mergers) Order 2003[^key-de6cdd05be256a9bb46cd04a87112505]
+#### 6. Enterprise Act 2002 (Anticipated Mergers) Order 2003[^c-de6cdd05be256a9bb46cd04a87112505]
 
 (1) The Enterprise Act 2002 (Anticipated Mergers) Order 2003 [^c23883531] is amended as follows.
 
 (2) In article 2, in the definition of “notice”, for “, 59(2) or 67(2)” substitute “ or 59(2) ”.
 
-#### 7. Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014[^key-1ff446c808e65cc781c9c5901e25f49c]
+#### 7. Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014[^c-1ff446c808e65cc781c9c5901e25f49c]
 
 (1) The Schedule to the Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014 [^c23883541] is amended as follows.
 
@@ -216,11 +216,11 @@ Regulation 61
 > “**third-country reinsurance undertaking**” means an undertaking which, if its head office were in the United Kingdom—
 >
 > - (a) would require permission under Part 4A of the Financial Services and Markets Act 2000 to carry out regulated activities relating to reinsurance; and
-> - (b) immediately before IP completion day[^key-f912e4418334c000177c83085b2395e2], would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138).
+> - (b) immediately before IP completion day[^c-f912e4418334c000177c83085b2395e2], would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138).
 
 .
 
-#### 8. Competition Appeal Tribunal Rules 2015[^key-88d96cf9c45fbdda4e70811719d13841]
+#### 8. Competition Appeal Tribunal Rules 2015[^c-88d96cf9c45fbdda4e70811719d13841]
 
 (1) The Competition Appeal Tribunal Rules 2015 [^c23883551] are amended as follows.
 
@@ -236,11 +236,11 @@ Regulation 61
 
 ### PART 3 — Amendment of other subordinate legislation
 
-#### 9. EEC Merger Control (Distinct Market Investigations) Regulations 1990[^key-b3e320e6aaceab7145b8048c67912ea2]
+#### 9. EEC Merger Control (Distinct Market Investigations) Regulations 1990[^c-b3e320e6aaceab7145b8048c67912ea2]
 
 The EEC Merger Control (Distinct Market Investigations) Regulations 1990 [^c23883561] are revoked.
 
-#### 10. Restriction on Agreements and Conduct (Specified Domestic Electrical Goods) Order 1998[^key-3eaef4e25cada16f7d61a5820ed99b79]
+#### 10. Restriction on Agreements and Conduct (Specified Domestic Electrical Goods) Order 1998[^c-3eaef4e25cada16f7d61a5820ed99b79]
 
 (1) Article 12 of the Restriction on Agreements and Conduct (Specified Domestic Electrical Goods) Order 1998 [^c23883571] is amended as follows.
 
@@ -271,7 +271,7 @@ The EEC Merger Control (Distinct Market Investigations) Regulations 1990 [^c2388
 
 (5) For the heading substitute “ Part 1 of the Competition Act 1998 ”.
 
-#### 11. Competition Act 1998 and other Enactments (Amendment) Regulations 2004[^key-e5c4e2648bbb515196086b08cb73fcb9]
+#### 11. Competition Act 1998 and other Enactments (Amendment) Regulations 2004[^c-e5c4e2648bbb515196086b08cb73fcb9]
 
 (1) The Competition Act 1998 and other Enactments (Amendment) Regulations 2004 [^c23883581] are amended as follows.
 
@@ -279,7 +279,7 @@ The EEC Merger Control (Distinct Market Investigations) Regulations 1990 [^c2388
 
 (3) Omit regulation 3.
 
-#### 12. Water Mergers (Modification of Enactments) Regulations 2004[^key-5dc4f0bcdfb9d09646c40755f3c4e43f]
+#### 12. Water Mergers (Modification of Enactments) Regulations 2004[^c-5dc4f0bcdfb9d09646c40755f3c4e43f]
 
 (1) The Water Mergers (Modification of Enactments) Regulations 2004 [^c23883591] are amended as follows.
 
@@ -308,7 +308,7 @@ The EEC Merger Control (Distinct Market Investigations) Regulations 1990 [^c2388
   - (ii) omit sub-paragraph (iii) and the “and” before it;
 - (b) in paragraph (b), omit sub-paragraph (ii) (together with the final “and”).
 
-(8A)[^key-ef7fee404c67b85f54cb837148451586] In regulation 32—
+(8A)[^c-ef7fee404c67b85f54cb837148451586] In regulation 32—
 
 - (a) omit the “and” at the end of paragraph (a);
 - (b) after paragraph (a) insert—
@@ -319,13 +319,13 @@ The EEC Merger Control (Distinct Market Investigations) Regulations 1990 [^c2388
 
 (9) Omit regulation 33.
 
-#### 13. Designation of the Competition and Markets Authority as a National Competition Authority Regulations 2014[^key-fd65cad3bbed6ab6bd35f0b40785c7e4]
+#### 13. Designation of the Competition and Markets Authority as a National Competition Authority Regulations 2014[^c-fd65cad3bbed6ab6bd35f0b40785c7e4]
 
 The Designation of the Competition and Markets Authority as a National Competition Authority Regulations 2014 [^c23883601] are revoked.
 
 ## Annotations
 
-[^key-1a12cc73282427ee3156bf20922c6f92]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1a12cc73282427ee3156bf20922c6f92]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883461]: Marginal citation: [S.I. 2000/262](https://www.legislation.gov.uk/uksi/2000/262); relevant amending instruments are [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and 2015/575.
 
@@ -333,60 +333,60 @@ The Designation of the Competition and Markets Authority as a National Competiti
 
 [^c23883481]: Marginal citation: Part 4A of the Financial Services and Markets Act 2008 ((sections 55A–55Z, 55Z1–55Z4) was substituted for Part IV (sections 40–55) by section 11(2) of the Financial Services Act 2012; there are amendments to Part 4A but none is relevant to these Regulations.
 
-[^key-ec68444f0c07344722901aa06041924c]: Textual amendment: Words in Sch. 2 para. 1(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2020/1343/regulation/29)
+[^c-ec68444f0c07344722901aa06041924c]: Textual amendment: Words in Sch. 2 para. 1(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2020/1343/regulation/29)
 
-[^key-03cde23400180e85cef22176f62a0963]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-03cde23400180e85cef22176f62a0963]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883491]: Marginal citation: [S.I. 2000/309](https://www.legislation.gov.uk/uksi/2000/309); relevant amending instruments are [S.I. 2004/1259](https://www.legislation.gov.uk/uksi/2004/1259), 2013/3115 and 2015/575.
 
-[^key-aa433d2a679f294fa0212e0bb13b9a7d]: Textual amendment: Words in Sch. 2 para. 2(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2020/1343/regulation/30)
+[^c-aa433d2a679f294fa0212e0bb13b9a7d]: Textual amendment: Words in Sch. 2 para. 2(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2020/1343/regulation/30)
 
-[^key-79e98e166effe93a47f4d2ead4998381]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-79e98e166effe93a47f4d2ead4998381]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883501]: Marginal citation: [S.I. 2004/1078](https://www.legislation.gov.uk/uksi/2004/1078); amended by [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
 
-[^key-2934e2a5f8087c92c56c5be919ed15c0]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-2934e2a5f8087c92c56c5be919ed15c0]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883511]: Marginal citation: [S.I. 2014/458](https://www.legislation.gov.uk/uksi/2014/458).
 
-[^key-01482b7c6af252842e5a13865c82fc48]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-01482b7c6af252842e5a13865c82fc48]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883521]: Marginal citation: [S.I. 2014/536](https://www.legislation.gov.uk/uksi/2014/536).
 
-[^key-bbfaff96a71c79a2cea9c23f1c3f4c1f]: Textual amendment: Sch. 2 para. 5(1A) inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2020/1343/regulation/31)
+[^c-bbfaff96a71c79a2cea9c23f1c3f4c1f]: Textual amendment: Sch. 2 para. 5(1A) inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2020/1343/regulation/31)
 
-[^key-de6cdd05be256a9bb46cd04a87112505]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-de6cdd05be256a9bb46cd04a87112505]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883531]: Marginal citation: [S.I. 2003/1595](https://www.legislation.gov.uk/uksi/2003/1595), to which there is an amendment not relevant to these Regulations.
 
-[^key-1ff446c808e65cc781c9c5901e25f49c]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1ff446c808e65cc781c9c5901e25f49c]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883541]: Marginal citation: [S.I. 2014/533](https://www.legislation.gov.uk/uksi/2014/533), as amended by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
 
-[^key-f912e4418334c000177c83085b2395e2]: Textual amendment: Words in Sch. 2 para. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1343/regulation/32)
+[^c-f912e4418334c000177c83085b2395e2]: Textual amendment: Words in Sch. 2 para. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1343/regulation/32)
 
-[^key-88d96cf9c45fbdda4e70811719d13841]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-88d96cf9c45fbdda4e70811719d13841]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883551]: Marginal citation: [S.I. 2015/1648](https://www.legislation.gov.uk/uksi/2015/1648).
 
-[^key-b3e320e6aaceab7145b8048c67912ea2]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-b3e320e6aaceab7145b8048c67912ea2]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883561]: Marginal citation: [S.I. 1990/1715](https://www.legislation.gov.uk/uksi/1990/1715), as amended by [S.I. 2003/1398](https://www.legislation.gov.uk/uksi/2003/1398), [S.I](https://www.legislation.gov.uk/uksi/2003/1398/section/I). 2004/1079 and [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
 
-[^key-3eaef4e25cada16f7d61a5820ed99b79]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-3eaef4e25cada16f7d61a5820ed99b79]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883571]: Marginal citation: [S.I. 1998/1271](https://www.legislation.gov.uk/uksi/1998/1271); there are amending instruments, but none is relevant to these Regulations.
 
-[^key-e5c4e2648bbb515196086b08cb73fcb9]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-e5c4e2648bbb515196086b08cb73fcb9]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883581]: Marginal citation: [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261); relevant amending instruments are [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809) and [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
 
-[^key-5dc4f0bcdfb9d09646c40755f3c4e43f]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5dc4f0bcdfb9d09646c40755f3c4e43f]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883591]: Marginal citation: [S.I. 2004/3202](https://www.legislation.gov.uk/uksi/2004/3202), relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2014/549 and [S.I. 2015/1936](https://www.legislation.gov.uk/uksi/2015/1936).
 
-[^key-ef7fee404c67b85f54cb837148451586]: Textual amendment: Sch. 2 para. 12(8A) inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2020/1343/regulation/33)
+[^c-ef7fee404c67b85f54cb837148451586]: Textual amendment: Sch. 2 para. 12(8A) inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2020/1343/regulation/33)
 
-[^key-fd65cad3bbed6ab6bd35f0b40785c7e4]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-fd65cad3bbed6ab6bd35f0b40785c7e4]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23883601]: Marginal citation: [S.I. 2014/537](https://www.legislation.gov.uk/uksi/2014/537).

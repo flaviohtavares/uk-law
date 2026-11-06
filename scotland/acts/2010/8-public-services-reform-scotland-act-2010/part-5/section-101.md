@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Giving of notice[^key-2a211a7b1e55f5176907088d1438c6d2]
+## 101. Giving of notice[^c-2a211a7b1e55f5176907088d1438c6d2]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
   - (ii) by a postal service which provides for the delivery of the document to be recorded, or
 - (c) transmitted to the person electronically.
 
-(2)[^key-5e3ee0564e96d4e4a22838f3cbc4c134] In subsection (1)(a)(ii), “manager”, in relation to a care service provided by a body corporate, means the manager whose name is entered in the register maintained under regulation 5 of the Social Care and Social Work Improvement Scotland (Registration) Regulations 2011 ([S.S.I. 2011/28](https://www.legislation.gov.uk/ssi/2011/28)) in relation to the care service.
+(2)[^c-5e3ee0564e96d4e4a22838f3cbc4c134] In subsection (1)(a)(ii), “manager”, in relation to a care service provided by a body corporate, means the manager whose name is entered in the register maintained under regulation 5 of the Social Care and Social Work Improvement Scotland (Registration) Regulations 2011 ([S.S.I. 2011/28](https://www.legislation.gov.uk/ssi/2011/28)) in relation to the care service.
 
 (3) For the purpose of subsection (1)(b)—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a211a7b1e55f5176907088d1438c6d2]: Textual amendment: [S. 101](https://www.legislation.gov.uk/asp/2010/8/section/101) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 38(2)](https://www.legislation.gov.uk/asp/2022/8/section/38/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-2a211a7b1e55f5176907088d1438c6d2]: Textual amendment: [S. 101](https://www.legislation.gov.uk/asp/2010/8/section/101) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 38(2)](https://www.legislation.gov.uk/asp/2022/8/section/38/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-5e3ee0564e96d4e4a22838f3cbc4c134]: Modification: [S. 101(2)](https://www.legislation.gov.uk/asp/2010/8/section/101/2) excluded (temp.) (19.11.2025 and 20.11.2025 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
+[^c-5e3ee0564e96d4e4a22838f3cbc4c134]: Modification: [S. 101(2)](https://www.legislation.gov.uk/asp/2010/8/section/101/2) excluded (temp.) (19.11.2025 and 20.11.2025 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)

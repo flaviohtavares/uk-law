@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298. Meaning of “authorised insurer”[^key-31b732fda746d4f83feb259f0e5e3d19]
+## 298. Meaning of “authorised insurer”[^c-31b732fda746d4f83feb259f0e5e3d19]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ For section 21(5)[^f00223] of the Administration of Justice Act 1985 (profession
 
 ## Annotations
 
-[^key-31b732fda746d4f83feb259f0e5e3d19]: Commencement: Art. 298 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-31b732fda746d4f83feb259f0e5e3d19]: Commencement: Art. 298 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00223]: Footnote: Section 21(5) was substituted by [S.I. 1992/2890](https://www.legislation.gov.uk/uksi/1992/2890), regulation 12(4).

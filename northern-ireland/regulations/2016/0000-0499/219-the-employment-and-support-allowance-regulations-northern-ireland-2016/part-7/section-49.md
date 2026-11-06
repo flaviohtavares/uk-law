@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Victims of domestic violence[^key-232b535b41cc2d734ff2aed4090523dc]
+## 49. Victims of domestic violence[^c-232b535b41cc2d734ff2aed4090523dc]
 
 *Extent: N.I.*
 
@@ -57,16 +57,16 @@ summary: ''
 - “person acting in an official capacity” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00058], a police officer, a registered social worker, the claimant’s employer, a representative of the claimant’s trade union or any public, voluntary or charitable body which has had direct contact with the claimant in connection with domestic violence;
 - “registered social worker” means a person registered as a social worker in a register maintained by—
   - (a) the Health and Care Professions Council;
-  - (b) Social Care Wales;[^key-21af9670442eac61cc201bfc8f43ef00]
+  - (b) Social Care Wales;[^c-21af9670442eac61cc201bfc8f43ef00]
   - (c) the Scottish Social Services Council; or
   - (d) the Northern Ireland Social Care Council.
 
 ## Annotations
 
-[^key-232b535b41cc2d734ff2aed4090523dc]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2016/219/regulation/49) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-232b535b41cc2d734ff2aed4090523dc]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2016/219/regulation/49) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00057]: Footnote: Sections 11to 11G were inserted by Article 63(2) of the Welfare Reform (Northern Ireland) Order 2015
 
 [^f00058]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17) Section 25(3) was amended by paragraph 17 of Schedule 10 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and paragraph 56 of Schedule 15 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231)
 
-[^key-21af9670442eac61cc201bfc8f43ef00]: Textual amendment: Words in [reg. 49(5)](https://www.legislation.gov.uk/nisr/2016/219/regulation/49/5) substituted (coming into operation in accordance with reg. 1(8) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/8), [11(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/11/2)
+[^c-21af9670442eac61cc201bfc8f43ef00]: Textual amendment: Words in [reg. 49(5)](https://www.legislation.gov.uk/nisr/2016/219/regulation/49/5) substituted (coming into operation in accordance with reg. 1(8) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/8), [11(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/11/2)

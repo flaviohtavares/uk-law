@@ -44,11 +44,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with sections 3A(3) and 44(3) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-0093e583197de0e8cbc7456b998ebbc6]
+## 1. Citation and commencement[^c-0093e583197de0e8cbc7456b998ebbc6]
 
 This Order may be cited as the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 and comes into force on 1 March 2022.
 
-## 2. Interpretation[^key-bba44b49f7f3f5e5f036830bd761c5c8]
+## 2. Interpretation[^c-bba44b49f7f3f5e5f036830bd761c5c8]
 
 (1) In this Order—
 
@@ -56,10 +56,10 @@ This Order may be cited as the Civic Government (Scotland) Act 1982 (Licensing o
 - “**accommodation**” includes the whole or any part of a premises,
 - “**commercial consideration**” includes—
   - (a) money,
-  - (b) a benefit in kind (such as the[^key-2d587e41be403e45debc9b33b9eab898] reciprocal use of accommodation),
+  - (b) a benefit in kind (such as the[^c-2d587e41be403e45debc9b33b9eab898] reciprocal use of accommodation),
 - “**excluded accommodation**” means accommodation described in paragraph 1 of schedule 1,
 - “**excluded tenancy**” means a tenancy described in paragraph 2 of schedule 1,
-- “[^key-680765a13377749bf4eb4829a3e4f176]**foster child**” has the same meaning as in section 1 of the Foster Children (Scotland) Act 1984 as read with section 2 of that Act,
+- “[^c-680765a13377749bf4eb4829a3e4f176]**foster child**” has the same meaning as in section 1 of the Foster Children (Scotland) Act 1984 as read with section 2 of that Act,
 - “**guest**” means a person who occupies accommodation under a short-term let,
 - “**host**” means a person who is the owner, tenant, or person who otherwise exercises control over occupation and use, of the accommodation which is the subject of a short-term let,
 - “**unique licence number**” means a unique number which—
@@ -85,12 +85,12 @@ This Order may be cited as the Civic Government (Scotland) Act 1982 (Licensing o
   - (iii) living together as though they were married,
 - (b) a “**qualifying relative**” means a parent, grandparent, child, grandchild or sibling,
 - (c) two people are to be regarded as siblings if they have at least one parent in common,
-- (d) a person’s stepchild or foster child[^key-45877c6f93becdf0cb8b5701267209f6] is to be regarded as the person’s child,
+- (d) a person’s stepchild or foster child[^c-45877c6f93becdf0cb8b5701267209f6] is to be regarded as the person’s child,
 - (e) a person (“**C**”) is to be regarded as the child of another person (“**D**”), if C is being or has been treated by D as D’s child.
 
 (5) Schedule 1 has effect.
 
-## 3. Definition of short-term let and short-term let licence[^key-08c5454666138b3abe31d27fee374b13]
+## 3. Definition of short-term let and short-term let licence[^c-08c5454666138b3abe31d27fee374b13]
 
 In this Order—
 
@@ -106,7 +106,7 @@ In this Order—
   - (f) the short-term let does not constitute an excluded tenancy (see schedule 1),
 - “**short-term let licence**” means a licence granted for the activity designated in article 4.
 
-## 4. Designation of activity[^key-791d566363165ed600cc76d447181a84]
+## 4. Designation of activity[^c-791d566363165ed600cc76d447181a84]
 
 (1) The activity specified in paragraph (2) is designated as an activity for which a licence under Part 1 of the 1982 Act is required.
 
@@ -114,27 +114,27 @@ In this Order—
 
 (3) Accommodation that is on a single premises requires only one short-term let licence.
 
-(4)[^key-4aff581fa420968a9f10f277477ef381] Where a short-term let licence application is submitted in respect of multiple accommodation on a single premises, the licensing authority may grant the licence in respect of some or all of that accommodation.
+(4)[^c-4aff581fa420968a9f10f277477ef381] Where a short-term let licence application is submitted in respect of multiple accommodation on a single premises, the licensing authority may grant the licence in respect of some or all of that accommodation.
 
-## 5. Application of Part 1 of the 1982 Act[^key-7c1f9198a18b038ed47e91c30113d6e1]
+## 5. Application of Part 1 of the 1982 Act[^c-7c1f9198a18b038ed47e91c30113d6e1]
 
 For the purposes of the licensing of the activity designated by article 4, the following have effect subject to the modifications in schedule 2—
 
 - (a) Part 1 of the 1982 Act, and
 - (b) Schedule 1 of the 1982 Act.
 
-## 6. Mandatory licence conditions[^key-a4ab518a7e0cb61cb6ba5216382dea88]
+## 6. Mandatory licence conditions[^c-a4ab518a7e0cb61cb6ba5216382dea88]
 
 A short-term let licence granted by a licensing authority is subject to the conditions specified in schedule 3.
 
-## 7. Transitional provision[^key-5911ccd2082169eed4da1a7e7759aba7]
+## 7. Transitional provision[^c-5911ccd2082169eed4da1a7e7759aba7]
 
 (1) A relevant person does not commit an offence under section 7(1) of the 1982 Act[^f00003] if—
 
-- (a) before 1 October 2023[^key-920cb3953f2b5dc8fbd385377f214b25], that person makes an application to the licensing authority for the grant of a licence under Part I of that Act in respect of the activity being carried on by the person, and
+- (a) before 1 October 2023[^c-920cb3953f2b5dc8fbd385377f214b25], that person makes an application to the licensing authority for the grant of a licence under Part I of that Act in respect of the activity being carried on by the person, and
 - (b) that application has not yet been finally determined.
 
-(2) For applications received by a licensing authority prior to 1 October 2023[^key-4d94858396bb51c0c7c8aa765d5024fa] from a relevant person, section 3 of the 1982 Act[^f00004] is to be read as if—
+(2) For applications received by a licensing authority prior to 1 October 2023[^c-4d94858396bb51c0c7c8aa765d5024fa] from a relevant person, section 3 of the 1982 Act[^f00004] is to be read as if—
 
 - (a) for subsection (1), there were substituted—
 
@@ -152,7 +152,7 @@ A short-term let licence granted by a licensing authority is subject to the cond
 
   .
 
-(3) Paragraphs (4) to (7) apply to applications received by a licensing authority prior to 1 October 2023[^key-df6947f85a38315b370f4f0891330b6c] from a relevant person where the licensing authority considers that use of the premises for a short-term let would constitute a breach of planning control for the purposes of the Town and Country Planning (Scotland) Act 1997[^f00005] by virtue of section 123(1)(a) or (b) of that Act.
+(3) Paragraphs (4) to (7) apply to applications received by a licensing authority prior to 1 October 2023[^c-df6947f85a38315b370f4f0891330b6c] from a relevant person where the licensing authority considers that use of the premises for a short-term let would constitute a breach of planning control for the purposes of the Town and Country Planning (Scotland) Act 1997[^f00005] by virtue of section 123(1)(a) or (b) of that Act.
 
 (4) The licensing authority may, as soon as reasonably practicable after receipt of the application, notify the relevant person that—
 
@@ -170,7 +170,7 @@ A short-term let licence granted by a licensing authority is subject to the cond
 (7) Where the licensing authority notifies the relevant person under paragraph (4), section 3(1) of the 1982 Act applies to the application as if the 12 month period begins on the earlier of—
 
 - (a) the date on which the relevant person notifies the licensing authority in accordance with paragraph (4)(c), or
-- (b) 1 January 2024[^key-15159380f7592d1350a76e8477f47564].
+- (b) 1 January 2024[^c-15159380f7592d1350a76e8477f47564].
 
 (8) For the purpose of paragraph (1)(b), an application is finally determined when—
 
@@ -193,7 +193,7 @@ A short-term let licence granted by a licensing authority is subject to the cond
   - (b) carried on the activity before 1 October 2022,
 - “**a certificate of lawfulness of use or development**” means a certificate under section 150 or 151 of the Town and Country Planning (Scotland) Act 1997.
 
-## 8. Consequential amendments[^key-7d3ccb10cccb1fdc12e4902043da22d6]
+## 8. Consequential amendments[^c-7d3ccb10cccb1fdc12e4902043da22d6]
 
 Schedule 4 has effect.
 
@@ -211,7 +211,7 @@ Edinburgh
 
 Article 2
 
-### 1. Excluded accommodation[^key-4655a913fc37339f65ee0c41f0891c4b]
+### 1. Excluded accommodation[^c-4655a913fc37339f65ee0c41f0891c4b]
 
 Excluded accommodation means accommodation which is, or is part of—
 
@@ -219,8 +219,8 @@ Excluded accommodation means accommodation which is, or is part of—
 - (b) premises in respect of which a premises licence within the meaning of section 17 of the Licensing (Scotland) Act 2005[^f00006] has effect and where the provision of accommodation is an activity listed in the operating plan as defined in section 20(4) of that Act,
 - (c) a hotel which has planning permission granted for use as a hotel,
 - (d) a hostel,
-- (e)[^key-9a2b7ae4a7f9cff0645409b4ea7b25ff] residential accommodation where personal care is provided to residents, including guest rooms provided at that accommodation for the purposes of visiting residents,
-- (f)[^key-47af608bab0e2fd77c97d6f5fb2432e2] a hospital or nursing home, including guest rooms provided at the hospital or nursing home for the purposes of visiting residents of the hospital or nursing home,
+- (e)[^c-9a2b7ae4a7f9cff0645409b4ea7b25ff] residential accommodation where personal care is provided to residents, including guest rooms provided at that accommodation for the purposes of visiting residents,
+- (f)[^c-47af608bab0e2fd77c97d6f5fb2432e2] a hospital or nursing home, including guest rooms provided at the hospital or nursing home for the purposes of visiting residents of the hospital or nursing home,
 - (g) a residential school, college or training centre,
 - (h) secure residential accommodation (including a prison, young offenders institution, detention centre, secure training centre, custody centre, short-term holding centre, secure hospital, secure local authority accommodation, or accommodation used as military barracks),
 - (i) a refuge,
@@ -228,11 +228,11 @@ Excluded accommodation means accommodation which is, or is part of—
 - (k) accommodation which otherwise requires a licence for use for hire for overnight stays,
 - (l) accommodation which is provided by the guest,
 - (m) accommodation which is capable, without modification, of transporting guests to another location,
-- (n) a bothy, [^key-baa81674f3cbb8ff0aa4ce8f52f1efbd]...
-- (o) accommodation owned by an employer and provided to an employee in terms of a contract of employment or for the better performance of the employee’s duties or,[^key-357cbfce4f52afad25a2509089e01322]
+- (n) a bothy, [^c-baa81674f3cbb8ff0aa4ce8f52f1efbd]...
+- (o) accommodation owned by an employer and provided to an employee in terms of a contract of employment or for the better performance of the employee’s duties or,[^c-357cbfce4f52afad25a2509089e01322]
 - (p) guest rooms in sheltered housing which are provided for the purposes of visiting residents of that housing.
 
-### 2. Excluded tenancies[^key-c7919368a3545822437e4513fb8c1ecc]
+### 2. Excluded tenancies[^c-c7919368a3545822437e4513fb8c1ecc]
 
 An excluded tenancy means a tenancy which falls within any of the following definitions—
 
@@ -251,7 +251,7 @@ An excluded tenancy means a tenancy which falls within any of the following defi
 - (m) a private residential tenancy (within the meaning of section 1 of the 2016 Act), or
 - (n) a student residential tenancy.
 
-### 3. Interpretation[^key-abefb083206b3ceefbff8acae6f40521]
+### 3. Interpretation[^c-abefb083206b3ceefbff8acae6f40521]
 
 (1) In this schedule—
 
@@ -287,7 +287,7 @@ An excluded tenancy means a tenancy which falls within any of the following defi
   - (a) services are provided to guests (such as housekeeping, a telephone desk, reception, or laundry),
   - (b) each flat or unit contains its own washing, cooking and dining facilities separate from each of the other flats or units, and
   - (c) there is a management system in place to prevent anti-social behaviour and to impose limits in respect of the maximum occupancy of the flats or units,
-- “[^key-58095581efef6caa069940c5b3645184]**sheltered housing**” means accommodation—
+- “[^c-58095581efef6caa069940c5b3645184]**sheltered housing**” means accommodation—
   - (a) which is purpose built or designed to accommodate vulnerable adults,
   - (b) which enables those vulnerable adults to live independently, and
   - (c) where assistance or support is provided for those vulnerable adults,
@@ -295,7 +295,7 @@ An excluded tenancy means a tenancy which falls within any of the following defi
   - (a) the purpose of which is to confer on the tenant the right to occupy the let property while the tenant is a student, and
   - (b) to which sub-paragraph (2) or (3) of paragraph 5 of schedule 1 (tenancies which cannot be private residential tenancies) of the 2016 Act applies,
 - “**student accommodation**” means residential accommodation which has been built or converted predominantly for the purpose of being provided to students.
-- “[^key-c6b93dca75aa872b52ffdb21bb7cc02d]**vulnerable adult**” has the same meaning as in section 25 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+- “[^c-c6b93dca75aa872b52ffdb21bb7cc02d]**vulnerable adult**” has the same meaning as in section 25 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
 
 (2) In paragraph 1(k), “**licence**” does not include an HMO licence granted under section 129 of the Housing (Scotland) Act 2006[^f00016].
 
@@ -305,11 +305,11 @@ Article 5
 
 ### PART 1 — Modification of Part 1 of the 1982 Act
 
-#### 1. Modification of Part I of the 1982 Act[^key-0172b24ff42279219e2e5b9a92aee0c5]
+#### 1. Modification of Part I of the 1982 Act[^c-0172b24ff42279219e2e5b9a92aee0c5]
 
 Part I of the 1982 Act is to be read as if modified in accordance with paragraphs 2 and 3.
 
-#### 2. Standard licence conditions[^key-870ec24cf22306e3168f60f41397bdcf]
+#### 2. Standard licence conditions[^c-870ec24cf22306e3168f60f41397bdcf]
 
 After subsection (5) of section 3B (Mandatory licence conditions), insert—
 
@@ -317,7 +317,7 @@ After subsection (5) of section 3B (Mandatory licence conditions), insert—
 
 .
 
-#### 3. Warrants authorising entry and inspection[^key-64a54029fe963b16c958b088bb790a87]
+#### 3. Warrants authorising entry and inspection[^c-64a54029fe963b16c958b088bb790a87]
 
 After section 5 (Rights of entry and inspection), insert—
 
@@ -343,11 +343,11 @@ After section 5 (Rights of entry and inspection), insert—
 
 ### PART 2 — Modification of Schedule 1 of the 1982 Act
 
-#### 4. Modification of schedule 1 of the 1982 Act[^key-611863ffac24bb74c81e02fa3a215ccd]
+#### 4. Modification of schedule 1 of the 1982 Act[^c-611863ffac24bb74c81e02fa3a215ccd]
 
 Schedule 1 of the 1982 Act is to be read as if modified in accordance with paragraphs 5 to 17.
 
-#### 5. Applications[^key-a71a7e35f719d9e9c0b32417220cd6ee]
+#### 5. Applications[^c-a71a7e35f719d9e9c0b32417220cd6ee]
 
 In paragraph 1 (Applications for the grant and renewal of licences)—
 
@@ -375,11 +375,11 @@ In paragraph 1 (Applications for the grant and renewal of licences)—
   .
 - (d) Omit sub-paragraph (3).
 
-#### 6. Temporary exemption from the requirement to have a licence[^key-320ef595952175b8b72faf30c4526b59]
+#### 6. Temporary exemption from the requirement to have a licence[^c-320ef595952175b8b72faf30c4526b59]
 
 After paragraph 1 (applications for the grant and renewal of licences) insert—
 
-> **1A.** (1)[^key-28b0ef33709ca1babde4e64e71d91155] Subject to sub-paragraph (1A), a licensing authority may, on application made to it, grant a temporary exemption from the requirement to obtain a short-term let licence in relation to a specified property or properties.
+> **1A.** (1)[^c-28b0ef33709ca1babde4e64e71d91155] Subject to sub-paragraph (1A), a licensing authority may, on application made to it, grant a temporary exemption from the requirement to obtain a short-term let licence in relation to a specified property or properties.
 >
 > (1A) A temporary exemption from the requirement to obtain a short-term let licence may only be granted in relation to a specified property or properties if, in one calendar year—
 >
@@ -413,7 +413,7 @@ After paragraph 1 (applications for the grant and renewal of licences) insert—
 
 .
 
-#### 7. Publicity[^key-ce4fc1c722d44eb44e0c6f9cd25d1319]
+#### 7. Publicity[^c-ce4fc1c722d44eb44e0c6f9cd25d1319]
 
 In paragraph 2—
 
@@ -446,7 +446,7 @@ In paragraph 2—
 
   .
 
-#### 8. Preliminary refusal[^key-057ee309952c70c6aa12cfe5d7c812b4]
+#### 8. Preliminary refusal[^c-057ee309952c70c6aa12cfe5d7c812b4]
 
 After paragraph 2, insert—
 
@@ -476,7 +476,7 @@ After paragraph 2, insert—
 
 .
 
-#### 9. Grant and renewal of licences[^key-e39f64962577e3619c7f5bc7ca027f18]
+#### 9. Grant and renewal of licences[^c-e39f64962577e3619c7f5bc7ca027f18]
 
 In paragraph 5 (disposal of applications for the grant and renewal of licences)[^f00018]—
 
@@ -494,7 +494,7 @@ In paragraph 5 (disposal of applications for the grant and renewal of licences)[
 
   .
 
-#### 9A. Provisional licences[^key-334434b31cd28b001ca3eaa188b791df]
+#### 9A. Provisional licences[^c-334434b31cd28b001ca3eaa188b791df]
 
 After paragraph 7, insert—
 
@@ -562,7 +562,7 @@ After paragraph 7, insert—
 >   - (a) in relation to a planning certificate or provisional planning certificate, the planning authority (within the meaning of the Town and Country Planning (Scotland) Act 1997) for the area in which the subject premises are situated,
 >   - (b) in relation to a building standards certificate, the local authority for that area.
 
-#### 10. Duration of licences[^key-6e06b2c65e788c75e743afda76784133]
+#### 10. Duration of licences[^c-6e06b2c65e788c75e743afda76784133]
 
 In paragraph 8 (duration of licences)—
 
@@ -585,7 +585,7 @@ In paragraph 8 (duration of licences)—
 
   .
 
-#### 10A. Transfer of short-term let licence[^key-f2e656829528b27e01dde2c980044c64]
+#### 10A. Transfer of short-term let licence[^c-f2e656829528b27e01dde2c980044c64]
 
 After paragraph 9, insert—
 
@@ -639,7 +639,7 @@ After paragraph 9, insert—
 > - (g) in paragraph 5(7) for “granted” there were substituted “transferred”, and
 > - (h) paragraph 5(8) were repealed.
 
-#### 11. Enforcement[^key-907993e8bb0ba79faa847feb3005c633]
+#### 11. Enforcement[^c-907993e8bb0ba79faa847feb3005c633]
 
 After paragraph 10 (variation of licences), insert—
 
@@ -661,7 +661,7 @@ After paragraph 10 (variation of licences), insert—
 
 .
 
-#### 12. Simplified process following surrender[^key-4d5992ec2f38833c1ac658936d931629]
+#### 12. Simplified process following surrender[^c-4d5992ec2f38833c1ac658936d931629]
 
 In paragraph 13 (surrender of licence), after sub-paragraph (4)[^f00019] insert—
 
@@ -674,7 +674,7 @@ In paragraph 13 (surrender of licence), after sub-paragraph (4)[^f00019] insert�
 
 .
 
-#### 13. Public register[^key-b2d7a5fde4451821a4fe868c4cc856e9]
+#### 13. Public register[^c-b2d7a5fde4451821a4fe868c4cc856e9]
 
 In paragraph 14 (register of applications)—
 
@@ -716,7 +716,7 @@ In paragraph 14 (register of applications)—
 
   .
 
-#### 14. Sharing of information[^key-42bee18d0f426b38b3d1d9cf79d7d9bf]
+#### 14. Sharing of information[^c-42bee18d0f426b38b3d1d9cf79d7d9bf]
 
 After paragraph 14, insert—
 
@@ -740,7 +740,7 @@ After paragraph 14, insert—
 
 .
 
-#### 15. Fees[^key-1735cdc944a9ea6c46d4b137c3c89992]
+#### 15. Fees[^c-1735cdc944a9ea6c46d4b137c3c89992]
 
 For paragraph 15 (fees), substitute—
 
@@ -775,7 +775,7 @@ For paragraph 15 (fees), substitute—
 
 .
 
-#### 16. Giving of reasons[^key-33f1660a04ff255bb10de5fd0bc5a8dd]
+#### 16. Giving of reasons[^c-33f1660a04ff255bb10de5fd0bc5a8dd]
 
 In paragraph 17 (notification of the decisions and giving of reasons)—
 
@@ -786,7 +786,7 @@ In paragraph 17 (notification of the decisions and giving of reasons)—
 
   .
 
-#### 17. Interpretation[^key-2d2602ce6332e8b09cde4e6e19f8c714]
+#### 17. Interpretation[^c-2d2602ce6332e8b09cde4e6e19f8c714]
 
 After paragraph 19 (interpretation), insert—
 
@@ -816,31 +816,31 @@ After paragraph 19 (interpretation), insert—
 
 Article 6
 
-### 1. Agents[^key-43c129ffee8f105f31f3a798689ca9a2]
+### 1. Agents[^c-43c129ffee8f105f31f3a798689ca9a2]
 
 Only those named as a holder of the licence can carry out the day to day management of the short-term let of the premises.
 
-### 2. Type of licence[^key-3ac8df6da2727dd9efb703691f315a4c]
+### 2. Type of licence[^c-3ac8df6da2727dd9efb703691f315a4c]
 
 The holder of the licence may only offer the type of short-term let for which the licence has been granted.
 
-### 3. Fire safety[^key-3bf405ffd7bb25f92d82580db519b94d]
+### 3. Fire safety[^c-3bf405ffd7bb25f92d82580db519b94d]
 
 The holder of the licence must ensure the premises has satisfactory equipment installed for detecting, and for giving warning of—
 
 - (a) fire or suspected fire, and
 - (b) the presence of carbon monoxide in a concentration that is hazardous to health.
 
-**4.**[^key-74f610174a62d72319eb4f9e44ca2fe3] The holder of the licence must keep records showing that all upholstered furnishings and mattresses within the parts of the premises which are for guest use, or to which the guests are otherwise permitted to have access, comply with the Furniture and Furnishings (Fire Safety) Regulations 1988[^f00021].
+**4.**[^c-74f610174a62d72319eb4f9e44ca2fe3] The holder of the licence must keep records showing that all upholstered furnishings and mattresses within the parts of the premises which are for guest use, or to which the guests are otherwise permitted to have access, comply with the Furniture and Furnishings (Fire Safety) Regulations 1988[^f00021].
 
-### 5. Gas safety[^key-067be5b93b45ae094b7232004318032a]
+### 5. Gas safety[^c-067be5b93b45ae094b7232004318032a]
 
 Where the premises has a gas supply—
 
 - (a) the holder of the licence must arrange for an annual gas safety inspection of all gas pipes, flues and appliances in the premises,
 - (b) if, after an annual inspection, any appliance does not meet the required safety standard, the holder of the licence must not allow a short-term let of the premises until the works necessary to bring the appliance to the required safety standard have been carried out.
 
-### 6. Electrical safety[^key-27cce4879b181308d3b909faca0f134d]
+### 6. Electrical safety[^c-27cce4879b181308d3b909faca0f134d]
 
 Where there are electrical fittings or items within the parts of the premises which are for guest use, or to which the guests are permitted to have access, the holder of the licence must—
 
@@ -853,27 +853,27 @@ Where there are electrical fittings or items within the parts of the premises wh
   - (i) produce a Portable Appliance Testing Report on moveable appliances to which a guest has access, and
   - (ii) date label and sign all moveable appliances which have been inspected.
 
-**7.**[^key-880bef59b71cab6f37c21be10834e8ee] In determining who is competent, the holder of the licence must have regard to guidance issued by the Scottish Ministers under section 19B(4) of the Housing (Scotland) Act 2006[^f00022].
+**7.**[^c-880bef59b71cab6f37c21be10834e8ee] In determining who is competent, the holder of the licence must have regard to guidance issued by the Scottish Ministers under section 19B(4) of the Housing (Scotland) Act 2006[^f00022].
 
-### 8. Water safety: private water supplies[^key-c60e185d8086452b2f5618b57cdcfd05]
+### 8. Water safety: private water supplies[^c-c60e185d8086452b2f5618b57cdcfd05]
 
 Where the premises are served by a private water supply, the licence holder must comply with the requirements on the owners of private dwellings set out in the Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017[^f00023].
 
-### 9. Water safety: legionella[^key-721fabf66722ce7fb94238dda141bd05]
+### 9. Water safety: legionella[^c-721fabf66722ce7fb94238dda141bd05]
 
 The holder of the licence must assess the risk from exposure to legionella within the premises, whether or not the premises are served by a private water supply.
 
-### 10. Safety & repair standards[^key-1b3bdaa23fce631ee545dc88af8cccb8]
+### 10. Safety & repair standards[^c-1b3bdaa23fce631ee545dc88af8cccb8]
 
 (1) The holder of the licence must take all reasonable steps to ensure the premises are safe for residential use.
 
 (2) Where the premises are subject to the requirements of Chapter 4 of Part 1 of the Housing (Scotland) Act 2006, the holder of the licence must ensure that the premises meet the repairing standard.
 
-### 11. Maximum Occupancy[^key-6b1aa0ef87debf086cc420264803efbb]
+### 11. Maximum Occupancy[^c-6b1aa0ef87debf086cc420264803efbb]
 
 The licence holder must ensure that the number of guests residing on the premises does not exceed the number specified in the licence.
 
-### 12. Information to be displayed[^key-60eab010514e1eb368596e046043788f]
+### 12. Information to be displayed[^c-60eab010514e1eb368596e046043788f]
 
 The holder of the licence must make the following information available within the premises in a place where it is accessible to all guests—
 
@@ -883,17 +883,17 @@ The holder of the licence must make the following information available within t
 - (d) a copy of the gas safety report,
 - (e) a copy of the Electrical Installation Condition Report, and
 - (f) a copy of the Portable Appliance Testing Report.
-- (g)[^key-b63cf1674f412d3a1f85ba8f2fb37b16] instructions as to what guests should do in the event that the carbon monoxide alarm sounds,
+- (g)[^c-b63cf1674f412d3a1f85ba8f2fb37b16] instructions as to what guests should do in the event that the carbon monoxide alarm sounds,
 - (h) if there is a mobile gas cabinet heater in the premises, safety instructions as to the operation and movement of that mobile heater.
 
-### 13. Planning Permission[^key-3d568295f8478794c22c94ddcdb2e0a4]
+### 13. Planning Permission[^c-3d568295f8478794c22c94ddcdb2e0a4]
 
 Where the premises is in a short-term let control area for the purposes of section 26B of the Town and Country Planning (Scotland) Act 1997[^f00024] (“**the 1997 Act**”), the holder of the licence must, where the use of the premises for a short-term let requires planning permission under the 1997 Act, ensure that either—
 
 - (a) an application has been made for planning permission under the 1997 Act and has not yet been determined, or
 - (b) planning permission under the 1997 Act is in force.
 
-### 14. Listings[^key-de8c9f0c9b188c80d95d77912f724f3e]
+### 14. Listings[^c-de8c9f0c9b188c80d95d77912f724f3e]
 
 (1) The holder of the licence must ensure that any listing or advert (whether electronic or otherwise) for the short-term let of the premises includes—
 
@@ -902,22 +902,22 @@ Where the premises is in a short-term let control area for the purposes of secti
 
 (2) The holder of the licence must ensure that any listing or advert (whether electronic or otherwise) for the short-term let of the premises is consistent with the terms of the short-term let licence.
 
-### 15. Insurance[^key-5e6b3a2c7d6870f872d1ecaea399da15]
+### 15. Insurance[^c-5e6b3a2c7d6870f872d1ecaea399da15]
 
 The holder of the licence must ensure that there is in place for the premises—
 
 - (a) valid buildings insurance for the duration of the licence, and
 - (b) valid public liability insurance for the duration of each short-term let agreement.
 
-### 16. Payment of fees[^key-f3afb1a2666f4aeba1f516941ee7b087]
+### 16. Payment of fees[^c-f3afb1a2666f4aeba1f516941ee7b087]
 
 The holder of the licence must pay any fees due to the licensing authority in respect of the licence on demand.
 
-### 17. False or misleading information[^key-c824d4f3ae2e06e9b6084989676fda79]
+### 17. False or misleading information[^c-c824d4f3ae2e06e9b6084989676fda79]
 
 The holder of the licence must not provide any false or misleading information to the licensing authority.
 
-### 18. Interpretation[^key-a3c2007288963467c8c259bfb1179a68]
+### 18. Interpretation[^c-a3c2007288963467c8c259bfb1179a68]
 
 In this schedule—
 
@@ -961,7 +961,7 @@ In this schedule—
 
 Article 8
 
-### 1. Antisocial Behaviour etc. (Scotland) Act 2004[^key-46585afdd3fc7ab28192a46ff5790e49]
+### 1. Antisocial Behaviour etc. (Scotland) Act 2004[^c-46585afdd3fc7ab28192a46ff5790e49]
 
 (1) Section 83 (application for registration) of the Antisocial Behaviour etc. (Scotland) Act 2004[^f00029] is amended in accordance with this paragraph.
 
@@ -975,7 +975,7 @@ Article 8
 
   .
 
-### 2. Housing (Scotland) Act 2006[^key-18d542f8d8133ae36401f1a959aa8deb]
+### 2. Housing (Scotland) Act 2006[^c-18d542f8d8133ae36401f1a959aa8deb]
 
 (1) Section 12 (tenancies to which repairing standard duty applies) of the Housing (Scotland) Act 2006[^f00030] is amended in accordance with this paragraph.
 
@@ -989,7 +989,7 @@ Article 8
 
 .
 
-### 3. Private Housing (Tenancies) (Scotland) Act 2016[^key-37a9a5423144afbc1d7d9cc351e254f1]
+### 3. Private Housing (Tenancies) (Scotland) Act 2016[^c-37a9a5423144afbc1d7d9cc351e254f1]
 
 (1) Schedule 1 (tenancies which cannot be private residential tenancies) of the Private Housing (Tenancies) (Scotland) Act 2016[^f00031] is amended in accordance with this paragraph.
 
@@ -1057,63 +1057,63 @@ A regulatory impact assessment has been prepared in respect of this Order. A cop
 
 [^f00002]: Footnote: Section 44(3) has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-0093e583197de0e8cbc7456b998ebbc6]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-0093e583197de0e8cbc7456b998ebbc6]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-bba44b49f7f3f5e5f036830bd761c5c8]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2022/32/article/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-bba44b49f7f3f5e5f036830bd761c5c8]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2022/32/article/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-2d587e41be403e45debc9b33b9eab898]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2022/32/article/2/1) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/a/i)
+[^c-2d587e41be403e45debc9b33b9eab898]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2022/32/article/2/1) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/a/i)
 
-[^key-680765a13377749bf4eb4829a3e4f176]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2022/32/article/2/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/a/ii)
+[^c-680765a13377749bf4eb4829a3e4f176]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2022/32/article/2/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/a/ii)
 
-[^key-45877c6f93becdf0cb8b5701267209f6]: Textual amendment: Words in [art. 2(4)(d)](https://www.legislation.gov.uk/ssi/2022/32/article/2/4/d) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/b)
+[^c-45877c6f93becdf0cb8b5701267209f6]: Textual amendment: Words in [art. 2(4)(d)](https://www.legislation.gov.uk/ssi/2022/32/article/2/4/d) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/b)
 
-[^key-08c5454666138b3abe31d27fee374b13]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2022/32/article/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-08c5454666138b3abe31d27fee374b13]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2022/32/article/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-791d566363165ed600cc76d447181a84]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2022/32/article/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-791d566363165ed600cc76d447181a84]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2022/32/article/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-4aff581fa420968a9f10f277477ef381]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/ssi/2022/32/article/4/4) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/227/article/2/3) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2024/227/article/4/1))
+[^c-4aff581fa420968a9f10f277477ef381]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/ssi/2022/32/article/4/4) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/227/article/2/3) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2024/227/article/4/1))
 
-[^key-7c1f9198a18b038ed47e91c30113d6e1]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2022/32/article/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-7c1f9198a18b038ed47e91c30113d6e1]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2022/32/article/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-a4ab518a7e0cb61cb6ba5216382dea88]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2022/32/article/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-a4ab518a7e0cb61cb6ba5216382dea88]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2022/32/article/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-5911ccd2082169eed4da1a7e7759aba7]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2022/32/article/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-5911ccd2082169eed4da1a7e7759aba7]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2022/32/article/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00003]: Footnote: Section 7(1) was relevantly amended by section 59 of the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17) and section 289G of the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21).
 
-[^key-920cb3953f2b5dc8fbd385377f214b25]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/ssi/2022/32/article/7/1/a) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/a)
+[^c-920cb3953f2b5dc8fbd385377f214b25]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/ssi/2022/32/article/7/1/a) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/a)
 
-[^key-4d94858396bb51c0c7c8aa765d5024fa]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/ssi/2022/32/article/7/2) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/b)
+[^c-4d94858396bb51c0c7c8aa765d5024fa]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/ssi/2022/32/article/7/2) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/b)
 
 [^f00004]: Footnote: Section 3 was relevantly amended by section 172(2) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) and section 77(2) of the Air Weapons and Licensing (Scotland) Act [2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10).
 
-[^key-df6947f85a38315b370f4f0891330b6c]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/ssi/2022/32/article/7/3) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/c)
+[^c-df6947f85a38315b370f4f0891330b6c]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/ssi/2022/32/article/7/3) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/c)
 
 [^f00005]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 123(1) was relevantly amended by section 6(2) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
 
-[^key-15159380f7592d1350a76e8477f47564]: Textual amendment: Words in [art. 7(7)(b)](https://www.legislation.gov.uk/ssi/2022/32/article/7/7/b) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/d)
+[^c-15159380f7592d1350a76e8477f47564]: Textual amendment: Words in [art. 7(7)(b)](https://www.legislation.gov.uk/ssi/2022/32/article/7/7/b) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/d)
 
-[^key-7d3ccb10cccb1fdc12e4902043da22d6]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2022/32/article/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-7d3ccb10cccb1fdc12e4902043da22d6]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2022/32/article/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-4655a913fc37339f65ee0c41f0891c4b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-4655a913fc37339f65ee0c41f0891c4b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00006]: Footnote: [2005 asp 16](https://www.legislation.gov.uk/asp/2005/16).
 
-[^key-9a2b7ae4a7f9cff0645409b4ea7b25ff]: Textual amendment: [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/e) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/a)
+[^c-9a2b7ae4a7f9cff0645409b4ea7b25ff]: Textual amendment: [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/e) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/a)
 
-[^key-47af608bab0e2fd77c97d6f5fb2432e2]: Textual amendment: [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/f) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/b)
+[^c-47af608bab0e2fd77c97d6f5fb2432e2]: Textual amendment: [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/f) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/b)
 
-[^key-baa81674f3cbb8ff0aa4ce8f52f1efbd]: Textual amendment: Word in [sch. 1 para. 1(n)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/n) revoked (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/c)
+[^c-baa81674f3cbb8ff0aa4ce8f52f1efbd]: Textual amendment: Word in [sch. 1 para. 1(n)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/n) revoked (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/c)
 
-[^key-357cbfce4f52afad25a2509089e01322]: Textual amendment: [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/p) and word inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/d)
+[^c-357cbfce4f52afad25a2509089e01322]: Textual amendment: [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/p) and word inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/d)
 
-[^key-c7919368a3545822437e4513fb8c1ecc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-c7919368a3545822437e4513fb8c1ecc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00007]: Footnote: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58).
 
 [^f00008]: Footnote: [1931 c. 44](https://www.legislation.gov.uk/ukpga/1931/44). See section 26 of the Small Landholders and Agricultural Holdings (Scotland) Act 1931. Section 26(2) was substituted by the Agricultural Holdings (Scotland) Act [1949 (c. 75)](https://www.legislation.gov.uk/ukpga/1949/75), Schedule 7.
 
-[^key-abefb083206b3ceefbff8acae6f40521]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-abefb083206b3ceefbff8acae6f40521]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00009]: Footnote: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43).
 
@@ -1129,107 +1129,107 @@ A regulatory impact assessment has been prepared in respect of this Order. A cop
 
 [^f00015]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-58095581efef6caa069940c5b3645184]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2024/227/article/2/5/a)
+[^c-58095581efef6caa069940c5b3645184]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2024/227/article/2/5/a)
 
-[^key-c6b93dca75aa872b52ffdb21bb7cc02d]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/5/b)
+[^c-c6b93dca75aa872b52ffdb21bb7cc02d]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/5/b)
 
 [^f00016]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-0172b24ff42279219e2e5b9a92aee0c5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-0172b24ff42279219e2e5b9a92aee0c5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-870ec24cf22306e3168f60f41397bdcf]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-870ec24cf22306e3168f60f41397bdcf]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-64a54029fe963b16c958b088bb790a87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-64a54029fe963b16c958b088bb790a87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-611863ffac24bb74c81e02fa3a215ccd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-611863ffac24bb74c81e02fa3a215ccd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-a71a7e35f719d9e9c0b32417220cd6ee]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-a71a7e35f719d9e9c0b32417220cd6ee]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-320ef595952175b8b72faf30c4526b59]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-320ef595952175b8b72faf30c4526b59]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-28b0ef33709ca1babde4e64e71d91155]: Textual amendment: Words in [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/6) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/227/article/2/6) (with [art. 4(2)(3)](https://www.legislation.gov.uk/ssi/2024/227/article/4/2/3))
+[^c-28b0ef33709ca1babde4e64e71d91155]: Textual amendment: Words in [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/6) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/227/article/2/6) (with [art. 4(2)(3)](https://www.legislation.gov.uk/ssi/2024/227/article/4/2/3))
 
-[^key-ce4fc1c722d44eb44e0c6f9cd25d1319]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-ce4fc1c722d44eb44e0c6f9cd25d1319]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-057ee309952c70c6aa12cfe5d7c812b4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-057ee309952c70c6aa12cfe5d7c812b4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00017]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 123(1) was relevantly amended by section 6(2) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
 
-[^key-e39f64962577e3619c7f5bc7ca027f18]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/9) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-e39f64962577e3619c7f5bc7ca027f18]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/9) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00018]: Footnote: Paragraph 5 was relevantly amended by [S.S.I. 2006/475](https://www.legislation.gov.uk/ssi/2006/475).
 
-[^key-334434b31cd28b001ca3eaa188b791df]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/9A) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/227/article/2/7)
+[^c-334434b31cd28b001ca3eaa188b791df]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/9A) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/227/article/2/7)
 
-[^key-6e06b2c65e788c75e743afda76784133]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/10) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-6e06b2c65e788c75e743afda76784133]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/10) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-f2e656829528b27e01dde2c980044c64]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/10A) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2024/227/article/2/8)
+[^c-f2e656829528b27e01dde2c980044c64]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/10A) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2024/227/article/2/8)
 
-[^key-907993e8bb0ba79faa847feb3005c633]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/11) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-907993e8bb0ba79faa847feb3005c633]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/11) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-4d5992ec2f38833c1ac658936d931629]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/12) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-4d5992ec2f38833c1ac658936d931629]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/12) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00019]: Footnote: Paragraphs 13 and 14 were relevantly amended by section 78(3) of the Air Weapons and Licensing (Scotland) Act 2015.
 
-[^key-b2d7a5fde4451821a4fe868c4cc856e9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/13) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-b2d7a5fde4451821a4fe868c4cc856e9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/13) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-42bee18d0f426b38b3d1d9cf79d7d9bf]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/14) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-42bee18d0f426b38b3d1d9cf79d7d9bf]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/14) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-1735cdc944a9ea6c46d4b137c3c89992]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/15) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-1735cdc944a9ea6c46d4b137c3c89992]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/15) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-33f1660a04ff255bb10de5fd0bc5a8dd]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/16) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-33f1660a04ff255bb10de5fd0bc5a8dd]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/16) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-2d2602ce6332e8b09cde4e6e19f8c714]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/17) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-2d2602ce6332e8b09cde4e6e19f8c714]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/17) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00020]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309). Regulation 6 is amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208) and [S.S.I. 2013/12](https://www.legislation.gov.uk/ssi/2013/12).
 
-[^key-43c129ffee8f105f31f3a798689ca9a2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-43c129ffee8f105f31f3a798689ca9a2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-3ac8df6da2727dd9efb703691f315a4c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-3ac8df6da2727dd9efb703691f315a4c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-3bf405ffd7bb25f92d82580db519b94d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-3bf405ffd7bb25f92d82580db519b94d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-74f610174a62d72319eb4f9e44ca2fe3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-74f610174a62d72319eb4f9e44ca2fe3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00021]: Footnote: [S.I. 1988/1324](https://www.legislation.gov.uk/uksi/1988/1324).
 
-[^key-067be5b93b45ae094b7232004318032a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-067be5b93b45ae094b7232004318032a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-27cce4879b181308d3b909faca0f134d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-27cce4879b181308d3b909faca0f134d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-880bef59b71cab6f37c21be10834e8ee]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-880bef59b71cab6f37c21be10834e8ee]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00022]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). Section 19B was inserted by section 23(2) of the Housing (Scotland) Act [2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14).
 
-[^key-c60e185d8086452b2f5618b57cdcfd05]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-c60e185d8086452b2f5618b57cdcfd05]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00023]: Footnote: [S.S.I. 2017/282](https://www.legislation.gov.uk/ssi/2017/282).
 
-[^key-721fabf66722ce7fb94238dda141bd05]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/9) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-721fabf66722ce7fb94238dda141bd05]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/9) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-1b3bdaa23fce631ee545dc88af8cccb8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/10) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-1b3bdaa23fce631ee545dc88af8cccb8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/10) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-6b1aa0ef87debf086cc420264803efbb]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/11) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-6b1aa0ef87debf086cc420264803efbb]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/11) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-60eab010514e1eb368596e046043788f]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-60eab010514e1eb368596e046043788f]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-b63cf1674f412d3a1f85ba8f2fb37b16]: Textual amendment: [Sch. 3 para. 12(g)](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12/g)[(h)](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12/h) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/227/article/2/9)
+[^c-b63cf1674f412d3a1f85ba8f2fb37b16]: Textual amendment: [Sch. 3 para. 12(g)](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12/g)[(h)](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12/h) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/227/article/2/9)
 
-[^key-3d568295f8478794c22c94ddcdb2e0a4]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/13) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-3d568295f8478794c22c94ddcdb2e0a4]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/13) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00024]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 26B was inserted by section 17 of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13).
 
-[^key-de8c9f0c9b188c80d95d77912f724f3e]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/14) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-de8c9f0c9b188c80d95d77912f724f3e]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/14) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00025]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309).
 
-[^key-5e6b3a2c7d6870f872d1ecaea399da15]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/15) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-5e6b3a2c7d6870f872d1ecaea399da15]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/15) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-f3afb1a2666f4aeba1f516941ee7b087]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/16) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-f3afb1a2666f4aeba1f516941ee7b087]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/16) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-c824d4f3ae2e06e9b6084989676fda79]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/17) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-c824d4f3ae2e06e9b6084989676fda79]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/17) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
-[^key-a3c2007288963467c8c259bfb1179a68]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/18) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-a3c2007288963467c8c259bfb1179a68]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/18) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00026]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309). Regulation 6 is amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208) and [S.S.I. 2013/12](https://www.legislation.gov.uk/ssi/2013/12).
 
@@ -1237,14 +1237,14 @@ A regulatory impact assessment has been prepared in respect of this Order. A cop
 
 [^f00028]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-46585afdd3fc7ab28192a46ff5790e49]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-46585afdd3fc7ab28192a46ff5790e49]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00029]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8). Section 83 was relevantly amended by [S.I. 2009/33](https://www.legislation.gov.uk/uksi/2009/33).
 
-[^key-18d542f8d8133ae36401f1a959aa8deb]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-18d542f8d8133ae36401f1a959aa8deb]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00030]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-37a9a5423144afbc1d7d9cc351e254f1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+[^c-37a9a5423144afbc1d7d9cc351e254f1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
 
 [^f00031]: Footnote: [2016 asp 19](https://www.legislation.gov.uk/asp/2016/19).

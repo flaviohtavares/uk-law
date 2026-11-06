@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Enforcement powers[^key-ff5b4834005223fb773d51025e252177]
+## 23. Enforcement powers[^c-ff5b4834005223fb773d51025e252177]
 
 *Extent: E+W*
 
@@ -190,4 +190,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff5b4834005223fb773d51025e252177]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/21/section/23) in force at 1.5.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)
+[^c-ff5b4834005223fb773d51025e252177]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/21/section/23) in force at 1.5.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)

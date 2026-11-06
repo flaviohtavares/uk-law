@@ -43,7 +43,7 @@ Coming into operation
 
 The Department of the Environment, being a department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the regulation and supervision of qualifications of persons engaged in road transport, in exercise of the powers conferred by that section, and by section 45 of the Transport Act (Northern Ireland) 1967[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8ca611cb3257bb169ed8a129c5a53036]
+## 1. Citation, commencement and interpretation[^c-8ca611cb3257bb169ed8a129c5a53036]
 
 (1) These Regulations may be cited as the Road Transport (Qualifications of Operators) (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation on 21st May 2003.
 
@@ -51,15 +51,15 @@ The Department of the Environment, being a department designated[^f00001] for th
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment of the Act of 1967[^key-356121d9e30d777f19b20725d7e13bdb]
+## 2. Amendment of the Act of 1967[^c-356121d9e30d777f19b20725d7e13bdb]
 
 The Act of 1967 shall have effect subject to the following provisions of these Regulations.
 
-## 3. Amendment of section 6A of the Act of 1967[^key-38b7e5379c05644b170e45632167068a]
+## 3. Amendment of section 6A of the Act of 1967[^c-38b7e5379c05644b170e45632167068a]
 
 In subsections (2) and (3) of section 6A[^f00005] of the Act of 1967 (refusal of road service licence in certain cases), the words “full-time” shall be omitted.
 
-## 4. Conditions as to matters required to be notified[^key-de97b3b5b08c0a9da563335b28e0fbc0]
+## 4. Conditions as to matters required to be notified[^c-de97b3b5b08c0a9da563335b28e0fbc0]
 
 After section 7 of the Act of 1967 there shall be inserted –
 
@@ -76,11 +76,11 @@ After section 7 of the Act of 1967 there shall be inserted –
 
 .
 
-## 5. Amendment of section 28A of the Act of 1967[^key-5daebf73ba7020334d7a8d79fca2b9f5]
+## 5. Amendment of section 28A of the Act of 1967[^c-5daebf73ba7020334d7a8d79fca2b9f5]
 
 In subsections (2) and (3) of section 28A[^f00006] of the Act of 1967 (refusal of operators' licences in certain cases) the words “full-time” shall be omitted.
 
-## 6. Amendment of section 46A of the Act of 1967[^key-bb216b2c44e6e220304cf63af667c882]
+## 6. Amendment of section 46A of the Act of 1967[^c-bb216b2c44e6e220304cf63af667c882]
 
 For section 46A[^f00007] of the Act of 1967 (interpretation of certain expressions) there shall be substituted –
 
@@ -195,7 +195,7 @@ For section 46A[^f00007] of the Act of 1967 (interpretation of certain expressio
 
 .
 
-## 7. Consequential amendments of enactments[^key-cac7df1830aa2abfa05055b279eabb32]
+## 7. Consequential amendments of enactments[^c-cac7df1830aa2abfa05055b279eabb32]
 
 (1) In section 34(a)[^f00016] of the Act of 1967 (forgery), for the words “section 46A(5) or (6)” there shall be substituted “section 46D(1) or 46E(1)”.
 
@@ -208,7 +208,7 @@ For section 46A[^f00007] of the Act of 1967 (interpretation of certain expressio
 
   .
 
-## 8. Revocation[^key-8f2d1bcdbf479eca98258ec83793638e]
+## 8. Revocation[^c-8f2d1bcdbf479eca98258ec83793638e]
 
 The following are hereby revoked –
 
@@ -259,23 +259,23 @@ Copies of the EC Directives referred to in these Regulations may be obtained fro
 
 [^f00003]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
 
-[^key-8ca611cb3257bb169ed8a129c5a53036]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/217/regulation/1) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-8ca611cb3257bb169ed8a129c5a53036]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/217/regulation/1) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-356121d9e30d777f19b20725d7e13bdb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/217/regulation/2) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-356121d9e30d777f19b20725d7e13bdb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/217/regulation/2) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
-[^key-38b7e5379c05644b170e45632167068a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/217/regulation/3) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-38b7e5379c05644b170e45632167068a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/217/regulation/3) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
 [^f00005]: Footnote: Section 6A was inserted by [S.R. 1977 No. 327](https://www.legislation.gov.uk/nisr/1977/327), regulation 3(3) and amended by [S.R. 1981 No. 2](https://www.legislation.gov.uk/nisr/1981/2), regulation 3(2)
 
-[^key-de97b3b5b08c0a9da563335b28e0fbc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/217/regulation/4) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-de97b3b5b08c0a9da563335b28e0fbc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/217/regulation/4) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
-[^key-5daebf73ba7020334d7a8d79fca2b9f5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/217/regulation/5) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-5daebf73ba7020334d7a8d79fca2b9f5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/217/regulation/5) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
 [^f00006]: Footnote: Section 28A was inserted by [S.R. 1977 No. 327](https://www.legislation.gov.uk/nisr/1977/327), regulation 4(5) and amended by [S.R. 1981 No. 2](https://www.legislation.gov.uk/nisr/1981/2), regulation 3(2)
 
-[^key-bb216b2c44e6e220304cf63af667c882]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/217/regulation/6) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-bb216b2c44e6e220304cf63af667c882]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/217/regulation/6) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
 [^f00007]: Footnote: Section 46A was inserted by [S.R. 1977 No. 327](https://www.legislation.gov.uk/nisr/1977/327), regulation 5 and amended by [S.R. 1981 No. 2](https://www.legislation.gov.uk/nisr/1981/2), regulation 3 and [S.R. 1991 No. 257](https://www.legislation.gov.uk/nisr/1991/257), regulation 5
 
@@ -295,13 +295,13 @@ Copies of the EC Directives referred to in these Regulations may be obtained fro
 
 [^f00015]: Footnote: [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23)
 
-[^key-cac7df1830aa2abfa05055b279eabb32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/217/regulation/7) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-cac7df1830aa2abfa05055b279eabb32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/217/regulation/7) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
 [^f00016]: Footnote: Section 34 was amended by [S.R. 1977 No. 327](https://www.legislation.gov.uk/nisr/1977/327), regulation 6(3)
 
 [^f00017]: Footnote: [S.R. 1981 No. 2](https://www.legislation.gov.uk/nisr/1981/2); regulation 4 was amended by [S.R.1991 No. 257](https://www.legislation.gov.uk/nisr/1991/257), regulation 6
 
-[^key-8f2d1bcdbf479eca98258ec83793638e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/217/regulation/8) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
+[^c-8f2d1bcdbf479eca98258ec83793638e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/217/regulation/8) in operation at 21.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/217/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1977 No. 327](https://www.legislation.gov.uk/nisr/1977/327)
 

@@ -36,7 +36,7 @@ An Act to make provision about interference with wireless telegraphy in prisons 
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Interference with wireless telegraphy in prisons etc.[^key-3145cb8d218427931b1adc425ad65174][^key-f86f64b32101254c9ab3441bb316a1b4][^key-bd828a1c2c85517f5a930e0e85241b53]
+## 1. Interference with wireless telegraphy in prisons etc.[^c-3145cb8d218427931b1adc425ad65174][^c-f86f64b32101254c9ab3441bb316a1b4][^c-bd828a1c2c85517f5a930e0e85241b53]
 
 (1) The appropriate national authority may authorise the person in charge of a relevant institution to interfere with wireless telegraphy.
 
@@ -66,7 +66,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) An authorisation under this section must be in writing.
 
-## 2. Safeguards[^key-b97e255ca9d8197f18d90c62695bec97][^key-512a47179cd777f5577711f95128180d][^key-07decf0b8363afc47825ab9592593e91]
+## 2. Safeguards[^c-b97e255ca9d8197f18d90c62695bec97][^c-512a47179cd777f5577711f95128180d][^c-07decf0b8363afc47825ab9592593e91]
 
 (1) Before the appropriate national authority authorises an interference with wireless telegraphy under section 1 it must be satisfied any equipment that will be used as a result of the authorisation is fit for the purpose.
 
@@ -84,7 +84,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) A direction under this section must be in writing.
 
-## 3. Retention and disclosure of information obtained under section 1[^key-b2eaf66543c23e64256deaf6bc9ffec7][^key-f823985579bd2d09a099b09467160d06][^key-ab9f282cb678e7cd7fab2489d3bdd634]
+## 3. Retention and disclosure of information obtained under section 1[^c-b2eaf66543c23e64256deaf6bc9ffec7][^c-f823985579bd2d09a099b09467160d06][^c-ab9f282cb678e7cd7fab2489d3bdd634]
 
 (1) Information obtained by virtue of section 1 must be destroyed no later than 3 months after it was obtained unless the person in charge of the relevant institution has authorised its retention.
 
@@ -121,7 +121,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) An authorisation under this section must be in writing.
 
-## 4. Interpretation[^key-38125ffc96fcdb551b2170c5d478162d][^key-fb4eaa4840eb4ae9dd3955fef1080544][^key-bbe22e6a233b2db64546c06084969897]
+## 4. Interpretation[^c-38125ffc96fcdb551b2170c5d478162d][^c-fb4eaa4840eb4ae9dd3955fef1080544][^c-bbe22e6a233b2db64546c06084969897]
 
 (1) In this Act—
 
@@ -133,14 +133,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (b) a young offender institution in England or Wales;
   - (c) a young offenders institution in Scotland;
   - (d) a secure training centre in England or Wales;
-  - (e) a secure college in England or Wales;[^key-4a39734d4c71444d06af3dbf7b95e717]
+  - (e) a secure college in England or Wales;[^c-4a39734d4c71444d06af3dbf7b95e717]
 - “**wireless telegraphy**” has the same meaning as in the Wireless Telegraphy Act 2006 and, in relation to wireless telegraphy, “**interfere**” has the same meaning as in that Act.
 
 (2) In this Act reference to the person in charge of a relevant institution is—
 
 - (a) in relation to a prison, its governor or, in the case of a contracted-out institution in England, Wales or Scotland, its director;
 - (b) in the case of a young offender institution or a secure training centre in England or Wales, its governor or, in the case of a contracted-out institution, its director;
-- (ba)[^key-984941e279bc6042559264325275f1fc] in the case of a secure college in England or Wales, its principal;
+- (ba)[^c-984941e279bc6042559264325275f1fc] in the case of a secure college in England or Wales, its principal;
 - (c) in the case of a young offenders institution in Scotland, its governor or, in the case of a contracted-out institution, its director.
 
 (3) For the purposes of subsection (2) an institution is “contracted-out” if—
@@ -163,7 +163,7 @@ The references in this subsection to a telecommunication system by means of whic
 
 (5) Data identifying a computer file or computer program access to which is obtained, or which is run, by means of the communication is not “traffic data” except to the extent that the file or program is identified by reference to the apparatus in which it is stored.
 
-(6) In this section “**telecommunication system**” has the same meaning as it has for the purposes of the Investigatory Powers Act 2016 (see section 261(13) of that Act)[^key-cf80210c5bfecf16b67f0d517fd0fb9c] .
+(6) In this section “**telecommunication system**” has the same meaning as it has for the purposes of the Investigatory Powers Act 2016 (see section 261(13) of that Act)[^c-cf80210c5bfecf16b67f0d517fd0fb9c] .
 
 ## 5. Final provisions
 
@@ -184,32 +184,32 @@ The references in this subsection to a telecommunication system by means of whic
 
 ## Annotations
 
-[^key-3145cb8d218427931b1adc425ad65174]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/20/section/1) in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
+[^c-3145cb8d218427931b1adc425ad65174]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/20/section/1) in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
 
-[^key-f86f64b32101254c9ab3441bb316a1b4]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/20/section/1) in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
+[^c-f86f64b32101254c9ab3441bb316a1b4]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/20/section/1) in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
 
-[^key-bd828a1c2c85517f5a930e0e85241b53]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2012/20/section/1) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
+[^c-bd828a1c2c85517f5a930e0e85241b53]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2012/20/section/1) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
 
-[^key-b97e255ca9d8197f18d90c62695bec97]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/20/section/2) in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
+[^c-b97e255ca9d8197f18d90c62695bec97]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/20/section/2) in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
 
-[^key-512a47179cd777f5577711f95128180d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/20/section/2) in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
+[^c-512a47179cd777f5577711f95128180d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/20/section/2) in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
 
-[^key-07decf0b8363afc47825ab9592593e91]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2012/20/section/2) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
+[^c-07decf0b8363afc47825ab9592593e91]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2012/20/section/2) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
 
-[^key-b2eaf66543c23e64256deaf6bc9ffec7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/20/section/3) in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
+[^c-b2eaf66543c23e64256deaf6bc9ffec7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/20/section/3) in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
 
-[^key-f823985579bd2d09a099b09467160d06]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/20/section/3) in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
+[^c-f823985579bd2d09a099b09467160d06]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/20/section/3) in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
 
-[^key-ab9f282cb678e7cd7fab2489d3bdd634]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/2012/20/section/3) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
+[^c-ab9f282cb678e7cd7fab2489d3bdd634]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/2012/20/section/3) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
 
-[^key-38125ffc96fcdb551b2170c5d478162d]: Commencement: S. 4 in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
+[^c-38125ffc96fcdb551b2170c5d478162d]: Commencement: S. 4 in force at 21.10.2013 for E.W. by [S.I. 2013/2460](https://www.legislation.gov.uk/uksi/2013/2460), [art. 3](https://www.legislation.gov.uk/uksi/2013/2460/article/3)
 
-[^key-fb4eaa4840eb4ae9dd3955fef1080544]: Commencement: S. 4 in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
+[^c-fb4eaa4840eb4ae9dd3955fef1080544]: Commencement: S. 4 in force at 3.3.2014 for S. by [S.S.I. 2014/34](https://www.legislation.gov.uk/ssi/2014/34), [art. 2](https://www.legislation.gov.uk/ssi/2014/34/article/2)
 
-[^key-bbe22e6a233b2db64546c06084969897]: Modification: S. 4 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
+[^c-bbe22e6a233b2db64546c06084969897]: Modification: S. 4 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Prisons (Interference with Wireless Telegraphy) (Guernsey) Order 2018 (S.I. 2018/545)](https://www.legislation.gov.uk/uksi/2018/545), [art. 2](https://www.legislation.gov.uk/uksi/2018/545/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/545/schedule)
 
-[^key-4a39734d4c71444d06af3dbf7b95e717]: Textual amendment: Words in s. 4(1) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 31(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/31/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-4a39734d4c71444d06af3dbf7b95e717]: Textual amendment: Words in s. 4(1) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 31(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/31/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-984941e279bc6042559264325275f1fc]: Textual amendment: S. 4(2)(ba) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 31(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/31/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-984941e279bc6042559264325275f1fc]: Textual amendment: S. 4(2)(ba) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 31(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/31/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-cf80210c5bfecf16b67f0d517fd0fb9c]: Textual amendment: Words in s. 4(6) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/28) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-cf80210c5bfecf16b67f0d517fd0fb9c]: Textual amendment: Words in s. 4(6) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/28) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)

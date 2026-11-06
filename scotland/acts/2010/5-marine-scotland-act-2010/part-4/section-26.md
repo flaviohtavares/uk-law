@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Notice of applications[^key-4ed291470fe73437c8dc49018eb86708]
+## 26. Notice of applications[^c-4ed291470fe73437c8dc49018eb86708]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed291470fe73437c8dc49018eb86708]: Commencement: S. 26 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-4ed291470fe73437c8dc49018eb86708]: Commencement: S. 26 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

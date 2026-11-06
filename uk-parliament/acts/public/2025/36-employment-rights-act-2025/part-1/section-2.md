@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Shifts: rights to reasonable notice[^key-049e59906a84d9d4d020688e880b6fe7][^key-aa314a3a5552447496e4bf33c6d34bcf]
+## 2. Shifts: rights to reasonable notice[^c-049e59906a84d9d4d020688e880b6fe7][^c-aa314a3a5552447496e4bf33c6d34bcf]
 
 *Extent: E+W+S*
 
@@ -156,6 +156,6 @@ After section 27BI of the Employment Rights Act 1996 (inserted by section 1) ins
 
 ## Annotations
 
-[^key-049e59906a84d9d4d020688e880b6fe7]: Commencement: S. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-049e59906a84d9d4d020688e880b6fe7]: Commencement: S. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-aa314a3a5552447496e4bf33c6d34bcf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/36/section/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/b)
+[^c-aa314a3a5552447496e4bf33c6d34bcf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/36/section/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/b)

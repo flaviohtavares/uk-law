@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Education[^f00001] makes the following Regulations in exercise of the powers conferred by section 2(1), (2)(b), (7)(a) and (b) and (13) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00002] and after consultation in accordance with section 2(8)(a) of that Act.
 
-## 1. Citation and commencement[^key-8aa45d4fde87e53fb1c0054aaa58105c]
+## 1. Citation and commencement[^c-8aa45d4fde87e53fb1c0054aaa58105c]
 
 These Regulations may be cited as the Period Products (Department of Education Specified Public Service Bodies) Regulations (Northern Ireland) 2024 and shall come into operation on the 16 April 2024.
 
-## 2. Interpretation[^key-99032b908e523ea6ba786cab67d59dab]
+## 2. Interpretation[^c-99032b908e523ea6ba786cab67d59dab]
 
 (1) In these Regulations—
 
@@ -93,7 +93,7 @@ These Regulations may be cited as the Period Products (Department of Education S
 - (b) in relation to a voluntary or grant-maintained integrated school, the Board of Governors of the school; and
 - (c) in relation to an independent school, the proprietor of the school.
 
-## 3. Specified public service bodies[^key-e0b3404ec86699ee4dbcc5dffa66ce0a]
+## 3. Specified public service bodies[^c-e0b3404ec86699ee4dbcc5dffa66ce0a]
 
 (1) The Department specifies the bodies listed at paragraph (2) for the purposes of section 2(1) of the Act (specified public service bodies).
 
@@ -111,7 +111,7 @@ These Regulations may be cited as the Period Products (Department of Education S
 - (f) GTCNI, in respect of its administrative accommodation; and
 - (g) NICCEA, in respect of its administrative accommodation.
 
-## 4. Descriptions of persons and premises[^key-91ef1cd50e7d6fc00fa5428945f51c96]
+## 4. Descriptions of persons and premises[^c-91ef1cd50e7d6fc00fa5428945f51c96]
 
 For the purposes of section 2(3) of the Act—
 
@@ -155,9 +155,9 @@ This Statutory Rule is made under section 2(1) of the Period Products (Free Prov
 
 [^f00002]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-8aa45d4fde87e53fb1c0054aaa58105c]: Commencement: Reg. 1 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
+[^c-8aa45d4fde87e53fb1c0054aaa58105c]: Commencement: Reg. 1 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
 
-[^key-99032b908e523ea6ba786cab67d59dab]: Commencement: Reg. 2 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
+[^c-99032b908e523ea6ba786cab67d59dab]: Commencement: Reg. 2 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
@@ -167,8 +167,8 @@ This Statutory Rule is made under section 2(1) of the Period Products (Free Prov
 
 [^f00006]: Footnote: The body established by s.1(1) of the Education Act (Northern Ireland) 2014
 
-[^key-e0b3404ec86699ee4dbcc5dffa66ce0a]: Commencement: Reg. 3 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
+[^c-e0b3404ec86699ee4dbcc5dffa66ce0a]: Commencement: Reg. 3 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
 
-[^key-91ef1cd50e7d6fc00fa5428945f51c96]: Commencement: Reg. 4 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
+[^c-91ef1cd50e7d6fc00fa5428945f51c96]: Commencement: Reg. 4 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/94/regulation/1)
 
 [^f00007]: Footnote: [2022 c. 25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)

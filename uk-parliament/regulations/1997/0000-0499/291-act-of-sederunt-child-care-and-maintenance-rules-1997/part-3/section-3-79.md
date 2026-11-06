@@ -20,7 +20,7 @@ summary: ''
 
 **3.79.** (1) On receipt of an admission application, a sheriff may–
 
-- (a)[^key-fe60769bb3acaa6078b84bc4788c6683] grant the admission application in whole or in part;
+- (a)[^c-fe60769bb3acaa6078b84bc4788c6683] grant the admission application in whole or in part;
 - (b) require of any of the parties further information before making any further order;
 - (c) fix a date for a hearing of the admission application and grant warrant to cite witnesses and havers.
 
@@ -35,4 +35,4 @@ to all parties to the proceedings and such other persons as are named in the ord
 
 ## Annotations
 
-[^key-fe60769bb3acaa6078b84bc4788c6683]: Textual amendment: Rule 3.79(1)(a) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(65)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/65/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-fe60769bb3acaa6078b84bc4788c6683]: Textual amendment: Rule 3.79(1)(a) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(65)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/65/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

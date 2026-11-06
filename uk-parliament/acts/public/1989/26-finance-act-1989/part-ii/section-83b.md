@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83B. Changes in recognised accounts: attribution of amounts carried forward under s.432F of Taxes Act 1988[^key-a5d049733386d98d897028f6a42be7da]
+## 83B. Changes in recognised accounts: attribution of amounts carried forward under s.432F of Taxes Act 1988[^c-a5d049733386d98d897028f6a42be7da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5d049733386d98d897028f6a42be7da]: Textual amendment: S. 83B omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 58](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/58)
+[^c-a5d049733386d98d897028f6a42be7da]: Textual amendment: S. 83B omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 58](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Designated qualifying regulators[^key-46c42a2cc84244c28d48435bc7bdd46c]
+## 86A. Designated qualifying regulators[^c-46c42a2cc84244c28d48435bc7bdd46c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ ought to be designated, the Secretary of State may, by order, amend the list in 
 
 ## Annotations
 
-[^key-46c42a2cc84244c28d48435bc7bdd46c]: Textual amendment: [S. 86A](https://www.legislation.gov.uk/ukpga/1999/33/section/86A) inserted (1.4.2011) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/14) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)
+[^c-46c42a2cc84244c28d48435bc7bdd46c]: Textual amendment: [S. 86A](https://www.legislation.gov.uk/ukpga/1999/33/section/86A) inserted (1.4.2011) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/18/paragraph/14) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/720/article/2/c)

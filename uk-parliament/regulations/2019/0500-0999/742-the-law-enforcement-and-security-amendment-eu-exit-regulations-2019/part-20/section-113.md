@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Saving provision[^key-229ed2e310bc9132a4dd7e629864b5cb]
+## 113. Saving provision[^c-229ed2e310bc9132a4dd7e629864b5cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-229ed2e310bc9132a4dd7e629864b5cb]: Textual amendment: Reg. 113 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/32/2)
+[^c-229ed2e310bc9132a4dd7e629864b5cb]: Textual amendment: Reg. 113 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/32/2)

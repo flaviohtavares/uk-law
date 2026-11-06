@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Working Time (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-8be9afb3f186417e12ffac23d8c9cff6]
+Working Time (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-8be9afb3f186417e12ffac23d8c9cff6]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 14th April 2002
 
-[^key-8be9afb3f186417e12ffac23d8c9cff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8be9afb3f186417e12ffac23d8c9cff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8be9afb3f186417e12ffac23d8c9cff6]
+## 1. Citation and commencement[^c-8be9afb3f186417e12ffac23d8c9cff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8be9afb3f186417e12ffac23d8c9cff6]
+## 2. Interpretation[^c-8be9afb3f186417e12ffac23d8c9cff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Principal Regulations[^key-8be9afb3f186417e12ffac23d8c9cff6]
+## 3. Amendment of the Principal Regulations[^c-8be9afb3f186417e12ffac23d8c9cff6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8be9afb3f186417e12ffac23d8c9cff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8be9afb3f186417e12ffac23d8c9cff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8be9afb3f186417e12ffac23d8c9cff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8be9afb3f186417e12ffac23d8c9cff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8be9afb3f186417e12ffac23d8c9cff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8be9afb3f186417e12ffac23d8c9cff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8be9afb3f186417e12ffac23d8c9cff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8be9afb3f186417e12ffac23d8c9cff6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8be9afb3f186417e12ffac23d8c9cff6]: Textual amendment: Regulations revoked (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [54(1)(e)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/e) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2))
+[^c-8be9afb3f186417e12ffac23d8c9cff6]: Textual amendment: Regulations revoked (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [54(1)(e)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/e) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2))

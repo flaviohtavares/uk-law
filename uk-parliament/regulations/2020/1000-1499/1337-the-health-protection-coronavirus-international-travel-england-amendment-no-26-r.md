@@ -50,11 +50,11 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 [^c24344691].
 
-## 1. Citation and commencement[^key-676fea15bea3a27e532b0c1fd6a4606f]
+## 1. Citation and commencement[^c-676fea15bea3a27e532b0c1fd6a4606f]
 
 These Regulations may be cited as the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 26) Regulations 2020 and come into force on 15th December 2020.
 
-## 2. Amendment of the Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^key-d34a061ce6f1b4f6033b539d695ed121]
+## 2. Amendment of the Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^c-d34a061ce6f1b4f6033b539d695ed121]
 
 (1) The Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^c24344701] are amended as follows.
 
@@ -151,7 +151,7 @@ These Regulations may be cited as the Health Protection (Coronavirus, Internatio
 >   - (i) can be put into service in accordance with Part 4 of the Medical Devices Regulations 2002[^c24344721], other than solely by virtue of regulation 39(2) of those Regulations,
 >   - (ii) has been validated no more than 18 months before the test is administered or provided to P,
 >   - (iii) is suitable to be used to administer or provide a test to a person of P's age,
-> - (d) it is not a test provided or administered under the National Health Service Act 2006[^key-74950fe19529b825f24be19ca71bbbd2][^c24344731], the National Health Services (Wales) Act 2006[^c24344741], the National Health Service (Scotland) Act 1978 [^c24344751], or the Health and Personal Social Services (Northern Ireland) Order 1972[^c24344761], and
+> - (d) it is not a test provided or administered under the National Health Service Act 2006[^c-74950fe19529b825f24be19ca71bbbd2][^c24344731], the National Health Services (Wales) Act 2006[^c24344741], the National Health Service (Scotland) Act 1978 [^c24344751], or the Health and Personal Social Services (Northern Ireland) Order 1972[^c24344761], and
 > - (e) the test provider complies with paragraph 3.
 >
 > (2) For the purposes of sub-paragraph (1)—
@@ -162,7 +162,7 @@ These Regulations may be cited as the Health Protection (Coronavirus, Internatio
 > - (d) “**validated**”, in relation to a device, means confirmed as having a sensitivity of at least 97% and a specificity of at least 99% for at least 150 positive samples and 250 negative samples, by—
 >   - (i) the Secretary of State,
 >   - (ii) the National Institute for Health and Care Excellence[^c24344771], or
->   - (iii) a laboratory which is accredited by the United Kingdom Accreditation Service[^c24344781] (“UKAS”) to ISO standard 15189 or ISO/IEC standard 17025[^key-89743c34aff92ca5cceec4be9949edfd], other than a laboratory which processes tests provided by the test provider for the purposes of this Schedule or is owned by the test provider.
+>   - (iii) a laboratory which is accredited by the United Kingdom Accreditation Service[^c24344781] (“UKAS”) to ISO standard 15189 or ISO/IEC standard 17025[^c-89743c34aff92ca5cceec4be9949edfd], other than a laboratory which processes tests provided by the test provider for the purposes of this Schedule or is owned by the test provider.
 >
 > **3. Test providers**
 >
@@ -173,7 +173,7 @@ These Regulations may be cited as the Health Protection (Coronavirus, Internatio
 > - (c) in relation to a test which requires laboratory processing—
 >   - (i) the person responsible for the taking of samples meets the relevant requirements for accreditation to ISO standard 15189[^c24344801] or ISO/IEC standard 17025[^c24344811], in respect of the taking of samples, and
 >   - (ii) the laboratory used by the test provider for the processing of samples meets the relevant requirements for accreditation to ISO standard 15189 or ISO/IEC standard 17025, in respect of the processing of samples,
-> - (d) in relation to a point of care test, they meet the relevant requirements for accreditation to ISO standard 15189 and[^key-b16f4fbb9c16edbb50e08cadb96335b6] ISO standard 22870[^c24344821],
+> - (d) in relation to a point of care test, they meet the relevant requirements for accreditation to ISO standard 15189 and[^c-b16f4fbb9c16edbb50e08cadb96335b6] ISO standard 22870[^c24344821],
 > - (e) a registered medical practitioner has oversight and approval of medical practices undertaken by the test provider, and responsibility for reporting medical issues,
 > - (f) they have an effective system of clinical governance in place which includes appropriate standard operating procedures in relation to the carrying out of appropriate tests,
 > - (g) a registered clinical scientist has oversight of clinical practices undertaken by the test provider, and responsibility for reporting clinical issues,
@@ -256,7 +256,7 @@ These Regulations may be cited as the Health Protection (Coronavirus, Internatio
 >
 > |  |
 > | --- |
-> | Your coronavirus test result is positive. You had the virus when the test was done.<br>If you have not had symptoms of coronavirus, you must self-isolate for 10 days from your test date. If you have symptoms of coronavirus, you must self-isolate for 10 days from the day your symptoms started, if earlier than when you took your test.<br>People you live with or are travelling with should also self-isolate for 10[^key-740c8e8a3c305913fca4d7565df9d31d] days from the day you took the test.<br>You may be contacted for contact tracing and to check that you, and those who you live or are travelling with, are self-isolating.<br>You must not travel, including to leave the UK, during self-isolation.<br>Contact 111 if you need medical help. In an emergency dial 999. |
+> | Your coronavirus test result is positive. You had the virus when the test was done.<br>If you have not had symptoms of coronavirus, you must self-isolate for 10 days from your test date. If you have symptoms of coronavirus, you must self-isolate for 10 days from the day your symptoms started, if earlier than when you took your test.<br>People you live with or are travelling with should also self-isolate for 10[^c-740c8e8a3c305913fca4d7565df9d31d] days from the day you took the test.<br>You may be contacted for contact tracing and to check that you, and those who you live or are travelling with, are self-isolating.<br>You must not travel, including to leave the UK, during self-isolation.<br>Contact 111 if you need medical help. In an emergency dial 999. |
 >
 > Form C: unclear test result
 >
@@ -287,7 +287,7 @@ These Regulations may be cited as the Health Protection (Coronavirus, Internatio
 
 .
 
-## 3. Amendment of the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 and saving provision[^key-ba00301fe5c437cbe682d5e5c7908595]
+## 3. Amendment of the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 and saving provision[^c-ba00301fe5c437cbe682d5e5c7908595]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -315,9 +315,9 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24344691]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-676fea15bea3a27e532b0c1fd6a4606f]: Commencement: Reg. 1 in force at 15.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1337/regulation/1)
+[^c-676fea15bea3a27e532b0c1fd6a4606f]: Commencement: Reg. 1 in force at 15.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1337/regulation/1)
 
-[^key-d34a061ce6f1b4f6033b539d695ed121]: Commencement: Reg. 2 in force at 15.12.2020, see reg. 1
+[^c-d34a061ce6f1b4f6033b539d695ed121]: Commencement: Reg. 2 in force at 15.12.2020, see reg. 1
 
 [^c24344701]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), as amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), 813, 913, 959, 1039, 1070, 1238, 1277 and 1292. There are other amending instruments not relevant to these Regulations.
 
@@ -325,7 +325,7 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24344721]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), as amended by [S.I. 2003/1697](https://www.legislation.gov.uk/uksi/2003/1697). There are other amending instruments not relevant to these Regulations.
 
-[^key-74950fe19529b825f24be19ca71bbbd2]: Textual amendment: Words in reg. 2(7) substituted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/a)
+[^c-74950fe19529b825f24be19ca71bbbd2]: Textual amendment: Words in reg. 2(7) substituted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/a)
 
 [^c24344731]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -339,7 +339,7 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24344781]: Marginal citation: The United Kingdom Accreditation Service is a company limited by guarantee incorporated in England and Wales under number 3076190.
 
-[^key-89743c34aff92ca5cceec4be9949edfd]: Textual amendment: Words in reg. 2(7) substituted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/b)
+[^c-89743c34aff92ca5cceec4be9949edfd]: Textual amendment: Words in reg. 2(7) substituted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/b)
 
 [^c24344791]: Marginal citation: This information is not available in hard copy.
 
@@ -347,7 +347,7 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24344811]: Marginal citation: ISO 17025 General requirements for the competence of testing and calibration laboratories was published in November 2017.
 
-[^key-b16f4fbb9c16edbb50e08cadb96335b6]: Textual amendment: Words in reg. 2(7) inserted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/c)
+[^c-b16f4fbb9c16edbb50e08cadb96335b6]: Textual amendment: Words in reg. 2(7) inserted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/c)
 
 [^c24344821]: Marginal citation: ISO 22870 Point-of-care testing (POCT) requirements for quality and competence was published in November 2016.
 
@@ -355,8 +355,8 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24344841]: Marginal citation: This information is not available in hard copy.
 
-[^key-740c8e8a3c305913fca4d7565df9d31d]: Textual amendment: Word in reg. 2(7) substituted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/d)
+[^c-740c8e8a3c305913fca4d7565df9d31d]: Textual amendment: Word in reg. 2(7) substituted (14.12.2020) by [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/2/d)
 
 [^c24344851]: Marginal citation: [S.I. 2010/659](https://www.legislation.gov.uk/uksi/2010/659), as amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235), 2020/237 and 1175. There are other amendments not relevant to these Regulations. Regulations 4(1) and 4A(3) require, respectively, the operator of a diagnostic laboratory and a test provider carrying out a point of care test for the detection of SARS-CoV-2, to notify Public Health England of information including the test result.
 
-[^key-ba00301fe5c437cbe682d5e5c7908595]: Textual amendment: Reg. 3 omitted (14.12.2020) by virtue of [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/3)
+[^c-ba00301fe5c437cbe682d5e5c7908595]: Textual amendment: Reg. 3 omitted (14.12.2020) by virtue of [The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1517)](https://www.legislation.gov.uk/uksi/2020/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1517/regulation/5/3)

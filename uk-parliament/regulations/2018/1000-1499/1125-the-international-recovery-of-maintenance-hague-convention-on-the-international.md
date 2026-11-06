@@ -58,43 +58,43 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 These Regulations may be cited as the International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 and come into force on exit day.
 
-### 2. Interpretation[^key-9a28b1eb1ab26d9aaae825ad63d7a403]
+### 2. Interpretation[^c-9a28b1eb1ab26d9aaae825ad63d7a403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — The rights etc deriving from the 2007 Hague Convention[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]
+## PART 2 — The rights etc deriving from the 2007 Hague Convention[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]
 
 **No longer in force.**
 
-### 3. Rights etc deriving from the 2007 Hague Convention[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]
+### 3. Rights etc deriving from the 2007 Hague Convention[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Payments falling due under maintenance obligations towards a person under 21 years of age before the 2007 Hague Convention again enters into force for the United Kingdom[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]
+### 4. Payments falling due under maintenance obligations towards a person under 21 years of age before the 2007 Hague Convention again enters into force for the United Kingdom[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Maintenance obligations and requests before exit day[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]
+### 5. Maintenance obligations and requests before exit day[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Maintenance obligations and requests before the 2007 Hague Convention again enters into force for the United Kingdom[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]
+### 6. Maintenance obligations and requests before the 2007 Hague Convention again enters into force for the United Kingdom[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Requests and maintenance obligations after the 2007 Hague Convention again enters into force for the United Kingdom[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]
+### 7. Requests and maintenance obligations after the 2007 Hague Convention again enters into force for the United Kingdom[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Modification and amendment of primary and secondary legislation[^key-0798db091df470dcc5897f8111bbe942]
+## PART 3 — Modification and amendment of primary and secondary legislation[^c-0798db091df470dcc5897f8111bbe942]
 
 **No longer in force.**
 
-### 8. Primary and subordinate legislation giving effect to the 2007 Hague Convention[^key-0798db091df470dcc5897f8111bbe942]
+### 8. Primary and subordinate legislation giving effect to the 2007 Hague Convention[^c-0798db091df470dcc5897f8111bbe942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012[^key-0798db091df470dcc5897f8111bbe942]
+### 9. The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012[^c-0798db091df470dcc5897f8111bbe942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,11 +136,11 @@ An impact assessment on the effect that this instrument will have on the costs o
 
 [^c23426261]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9a28b1eb1ab26d9aaae825ad63d7a403]: Textual amendment: Reg. 2 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/4/2)
+[^c-9a28b1eb1ab26d9aaae825ad63d7a403]: Textual amendment: Reg. 2 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/4/2)
 
-[^key-46dce1eb7089ec9d6f8fc80c48f83ebb]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2018/1125/part/2) omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/4/3)
+[^c-46dce1eb7089ec9d6f8fc80c48f83ebb]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2018/1125/part/2) omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/4/3)
 
-[^key-0798db091df470dcc5897f8111bbe942]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1125/part/3) omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/4/4)
+[^c-0798db091df470dcc5897f8111bbe942]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1125/part/3) omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/4/4)
 
 [^c23426351]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/1125/regulation/10) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 

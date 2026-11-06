@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Crown employees: entity to be treated as an employer[^key-12250fb19863bcc3ca2740366b02c828]
+## 3. Crown employees: entity to be treated as an employer[^c-12250fb19863bcc3ca2740366b02c828]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of section 116B of the 1992 Act, a public authority that is an 
 
 ## Annotations
 
-[^key-12250fb19863bcc3ca2740366b02c828]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/143/regulation/3) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)
+[^c-12250fb19863bcc3ca2740366b02c828]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/143/regulation/3) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)

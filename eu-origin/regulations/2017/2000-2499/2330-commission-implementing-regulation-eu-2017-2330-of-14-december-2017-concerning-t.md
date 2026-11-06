@@ -37,42 +37,42 @@ concerning the authorisation of Iron(II) carbonate, Iron(III) chloride hexahydra
 
 (Text with EEA relevance) (revoked)
 
-[^key-f1f1491374bc93876f609e18af1662aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1f1491374bc93876f609e18af1662aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-f1f1491374bc93876f609e18af1662aa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Special conditions of use[^key-f1f1491374bc93876f609e18af1662aa]
+## Article 1. Authorisation[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Denial[^key-f1f1491374bc93876f609e18af1662aa]
+## Article 2. Special conditions of use[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Regulation (EC) No 1334/2003[^key-f1f1491374bc93876f609e18af1662aa]
+## Article 3. Denial[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendment to Regulation (EC) No 479/2006[^key-f1f1491374bc93876f609e18af1662aa]
+## Article 4. Amendment to Regulation (EC) No 1334/2003[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transitional measures[^key-f1f1491374bc93876f609e18af1662aa]
+## Article 5. Amendment to Regulation (EC) No 479/2006[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-f1f1491374bc93876f609e18af1662aa]
+## Article 6. Transitional measures[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1f1491374bc93876f609e18af1662aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Entry into force[^c-f1f1491374bc93876f609e18af1662aa]
 
-## ANNEX[^key-f1f1491374bc93876f609e18af1662aa]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f1f1491374bc93876f609e18af1662aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-f1f1491374bc93876f609e18af1662aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1f1491374bc93876f609e18af1662aa]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 266](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/266) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-f1f1491374bc93876f609e18af1662aa]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 266](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/266) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

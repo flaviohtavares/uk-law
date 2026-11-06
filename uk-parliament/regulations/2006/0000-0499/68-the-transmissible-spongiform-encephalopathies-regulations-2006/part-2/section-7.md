@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Control and eradication of TSE in sheep and goats[^key-a978f4a2025d2046b5bf8c00fe3f4def]
+## 7. Control and eradication of TSE in sheep and goats[^c-a978f4a2025d2046b5bf8c00fe3f4def]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 4 (control and eradication of TSE in sheep and goats) has effect.
 
 ## Annotations
 
-[^key-a978f4a2025d2046b5bf8c00fe3f4def]: Commencement: Reg. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-a978f4a2025d2046b5bf8c00fe3f4def]: Commencement: Reg. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Technical assistance relating to restricted goods and restricted technology[^key-a0acacefc13f1d19ffe87ab7f65c6986][^key-32d855685e09d2faef9cb8fced8d0bc6][^key-500ffa2bd16db717f100ecb73b9e1801]
+## 27. Technical assistance relating to restricted goods and restricted technology[^c-a0acacefc13f1d19ffe87ab7f65c6986][^c-32d855685e09d2faef9cb8fced8d0bc6][^c-500ffa2bd16db717f100ecb73b9e1801]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a0acacefc13f1d19ffe87ab7f65c6986]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-a0acacefc13f1d19ffe87ab7f65c6986]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-32d855685e09d2faef9cb8fced8d0bc6]: Textual amendment: Words in [regs. 27-29](https://www.legislation.gov.uk/uksi/2019/855/regulation/27) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2022/195/regulation/4/2/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
+[^c-32d855685e09d2faef9cb8fced8d0bc6]: Textual amendment: Words in [regs. 27-29](https://www.legislation.gov.uk/uksi/2019/855/regulation/27) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2022/195/regulation/4/2/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
 
-[^key-500ffa2bd16db717f100ecb73b9e1801]: Textual amendment: Words in [regs. 27-29](https://www.legislation.gov.uk/uksi/2019/855/regulation/27) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/195/regulation/4/3/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
+[^c-500ffa2bd16db717f100ecb73b9e1801]: Textual amendment: Words in [regs. 27-29](https://www.legislation.gov.uk/uksi/2019/855/regulation/27) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/195/regulation/4/3/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))

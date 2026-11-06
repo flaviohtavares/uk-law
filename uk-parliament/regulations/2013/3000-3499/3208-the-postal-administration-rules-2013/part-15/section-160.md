@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Application[^key-c28d43c85861ef1e1c19e6a9209249df]
+## 160. Application[^c-c28d43c85861ef1e1c19e6a9209249df]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c28d43c85861ef1e1c19e6a9209249df]: Commencement: [Rule 160](https://www.legislation.gov.uk/uksi/2013/3208/rule/160) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-c28d43c85861ef1e1c19e6a9209249df]: Commencement: [Rule 160](https://www.legislation.gov.uk/uksi/2013/3208/rule/160) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

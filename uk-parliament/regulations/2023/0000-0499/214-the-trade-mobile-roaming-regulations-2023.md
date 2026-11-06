@@ -48,18 +48,18 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ## PART 1 — Preliminary provisions
 
-### 1. Citation and commencement[^key-2d5ebfd4a05531ccc237951dcdc7f585]
+### 1. Citation and commencement[^c-2d5ebfd4a05531ccc237951dcdc7f585]
 
 These Regulations—
 
 - (a) may be cited as the Trade (Mobile Roaming) Regulations 2023, and
 - (b) come into force on 6th April 2023.
 
-### 2. Extent[^key-d9636aa87fe1c5120f37a79d6b258673]
+### 2. Extent[^c-d9636aa87fe1c5120f37a79d6b258673]
 
 These Regulations extend to England and Wales, Northern Ireland and Scotland.
 
-### 3. Definitions[^key-94642008ab4ecd7c2d2944c99e2faa5e]
+### 3. Definitions[^c-94642008ab4ecd7c2d2944c99e2faa5e]
 
 In these Regulations—
 
@@ -75,20 +75,20 @@ In these Regulations—
 
 ## PART 2 — Maximum rates chargeable to overseas providers
 
-### 4. Limitation of Part 2[^key-c51321598f405e751a8f95cc77050f09]
+### 4. Limitation of Part 2[^c-c51321598f405e751a8f95cc77050f09]
 
 Nothing in this Part—
 
 - (a) provides a right to the customers of an overseas provider to use a mobile phone service in the United Kingdom, or
 - (b) restricts a British provider from imposing conditions on the use of its mobile phone service to prevent abusive or anomalous usage by the customers of an overseas provider.
 
-### 5. Iceland[^key-f9f894c2d681245fac0ea1951c8a6b76]
+### 5. Iceland[^c-f9f894c2d681245fac0ea1951c8a6b76]
 
 (1) This regulation applies to a British provider who has a roaming agreement with an overseas provider in Iceland.
 
 (2) The British provider must not charge the overseas provider more than the maximum rate for the use of a mobile phone service in the United Kingdom by its customers.
 
-### 6. Norway[^key-94cb13832ea4f918fb7ae7e4ee8b9a69]
+### 6. Norway[^c-94cb13832ea4f918fb7ae7e4ee8b9a69]
 
 (1) This regulation applies to a British provider who has a roaming agreement with an overseas provider in Norway.
 
@@ -98,7 +98,7 @@ Nothing in this Part—
 
 ### Enforcement
 
-#### 7. Power of Ofcom to enforce maximum rates[^key-180ad8e2aca9930af768cfe611f759df]
+#### 7. Power of Ofcom to enforce maximum rates[^c-180ad8e2aca9930af768cfe611f759df]
 
 (1) Ofcom may enforce a requirement under Part 2.
 
@@ -106,7 +106,7 @@ Nothing in this Part—
 
 ### Information
 
-#### 8. Power of Ofcom to require information for enforcement purposes[^key-e0a5782208e62345782edbc9a20b237b]
+#### 8. Power of Ofcom to require information for enforcement purposes[^c-e0a5782208e62345782edbc9a20b237b]
 
 (1) Ofcom may require information for the purpose of ascertaining whether a contravention of a requirement under Part 2 has occurred or is occurring.
 
@@ -118,7 +118,7 @@ Nothing in this Part—
 
 ### Dispute resolution
 
-#### 9. Power of Ofcom to resolve disputes[^key-7c92994552650dfce1df97567b2827d1]
+#### 9. Power of Ofcom to resolve disputes[^c-7c92994552650dfce1df97567b2827d1]
 
 (1) Ofcom may resolve a dispute relating to a requirement under Part 2.
 
@@ -128,7 +128,7 @@ Nothing in this Part—
 
 ### Appeals
 
-#### 10. Right of appeal to the Competition Appeal Tribunal[^key-988afe0602da2dee443effeca3bde11f]
+#### 10. Right of appeal to the Competition Appeal Tribunal[^c-988afe0602da2dee443effeca3bde11f]
 
 (1) A person affected by a decision by Ofcom under the 2003 Act as applied by these Regulations may appeal against it to the Competition Appeal Tribunal.
 
@@ -138,18 +138,18 @@ Nothing in this Part—
 
 ## PART 5 — Miscellaneous provisions
 
-### 11. Service of notification and other documents[^key-58d90afc0f9d19d548e90796865aca4b]
+### 11. Service of notification and other documents[^c-58d90afc0f9d19d548e90796865aca4b]
 
 Sections 394(3) to (10) of the 2003 Act apply in relation to any provision of that Act as applied by these Regulations that authorises or requires—
 
 - (a) a notification to be given to any person, or
 - (b) a document of any other description (including a copy of a document) to be sent to any person.
 
-### 12. Consolidated Fund[^key-9d119e7d426da18ae7fe83fb939f6256]
+### 12. Consolidated Fund[^c-9d119e7d426da18ae7fe83fb939f6256]
 
 An amount paid to Ofcom in respect of a penalty imposed by it under the 2003 Act as applied by these Regulations must be paid into the Consolidated Fund.
 
-### 13. Periodic review of regulatory provision[^key-672d05570492d72b1dccb99e24726f76]
+### 13. Periodic review of regulatory provision[^c-672d05570492d72b1dccb99e24726f76]
 
 (1) The Secretary of State must from time to time—
 
@@ -174,7 +174,7 @@ An amount paid to Ofcom in respect of a penalty imposed by it under the 2003 Act
 - “**the 2015 Act**” means the Small Business, Enterprise and Employment Act 2015[^f00012];
 - “**regulatory provision**” has the meaning given in section 32 of the 2015 Act.
 
-### 14. Revocations[^key-d224f8bba72c79b8a9875be47f689f8f]
+### 14. Revocations[^c-d224f8bba72c79b8a9875be47f689f8f]
 
 The enactments cited in the table are revoked[^f00013].
 
@@ -198,7 +198,7 @@ Department for Culture, Media and Sport
 
 24th February 2023
 
-## SCHEDULE — Maximum rates[^key-1734a252b47a9c9f401e14fa0b54189b]
+## SCHEDULE — Maximum rates[^c-1734a252b47a9c9f401e14fa0b54189b]
 
 Regulation 3
 
@@ -217,7 +217,7 @@ Regulation 3
 </tbody>
 </table>
 
-[^key-568196bc0319e3b719e3299bcc77c3c4][^f01000][^key-221d787371ac624b6a7edd5b935bd786][^key-5d7ce416a9c4cb7ecead78a86aefd58a]
+[^c-568196bc0319e3b719e3299bcc77c3c4][^f01000][^c-221d787371ac624b6a7edd5b935bd786][^c-5d7ce416a9c4cb7ecead78a86aefd58a]
 
 EXPLANATORY NOTE
 
@@ -261,11 +261,11 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00001]: Footnote: [2021 c. 10](https://www.legislation.gov.uk/ukpga/2021/10). The Secretary of State for Culture, Media and Sport is, as a Minister of the Crown, an “appropriate authority” within the meaning given in section 5(1).
 
-[^key-2d5ebfd4a05531ccc237951dcdc7f585]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/214/regulation/1) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-2d5ebfd4a05531ccc237951dcdc7f585]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/214/regulation/1) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-d9636aa87fe1c5120f37a79d6b258673]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/214/regulation/2) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-d9636aa87fe1c5120f37a79d6b258673]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/214/regulation/2) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-94642008ab4ecd7c2d2944c99e2faa5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/214/regulation/3) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-94642008ab4ecd7c2d2944c99e2faa5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/214/regulation/3) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -273,54 +273,54 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00004]: Footnote: [2002 c. 11](https://www.legislation.gov.uk/ukpga/2002/11).
 
-[^key-c51321598f405e751a8f95cc77050f09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/214/regulation/4) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-c51321598f405e751a8f95cc77050f09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/214/regulation/4) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-f9f894c2d681245fac0ea1951c8a6b76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/214/regulation/5) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-f9f894c2d681245fac0ea1951c8a6b76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/214/regulation/5) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-94cb13832ea4f918fb7ae7e4ee8b9a69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/214/regulation/6) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-94cb13832ea4f918fb7ae7e4ee8b9a69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/214/regulation/6) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-180ad8e2aca9930af768cfe611f759df]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/214/regulation/7) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-180ad8e2aca9930af768cfe611f759df]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/214/regulation/7) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00005]: Footnote: Sections 96A to 96C were inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 96A was amended by paragraph 18 of Schedule 14 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419). Section 96C was amended by [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419). Sections 97 and 104 were amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
 
-[^key-e0a5782208e62345782edbc9a20b237b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/214/regulation/8) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-e0a5782208e62345782edbc9a20b237b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/214/regulation/8) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00006]: Footnote: Section 135 was amended by section 1(2) and 16(2) of the Digital Economy Act [2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), sections 1(8), 82(4) and 85 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), section 18(3) of the Telecommunications (Security) Act [2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
 
 [^f00007]: Footnote: Section 138 was amended by section 86(3) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 139 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [1773](https://www.legislation.gov.uk/uksi/2011/1773). Section 139A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-7c92994552650dfce1df97567b2827d1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/214/regulation/9) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-7c92994552650dfce1df97567b2827d1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/214/regulation/9) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00008]: Footnote: Section 185 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 185A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 186 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [2020/1419](https://www.legislation.gov.uk/uksi/2020/1419). Section 189 was omitted by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246). Section 190 was amended by paragraph 27 of Schedule 7 to the Wireless Telegraphy Act [2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 191(1) was amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-988afe0602da2dee443effeca3bde11f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/214/regulation/10) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-988afe0602da2dee443effeca3bde11f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/214/regulation/10) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00009]: Footnote: Section 192 was amended by paragraph 28 of Schedule 7 to the Wireless Telegraphy Act [2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36) and paragraph 43 of Schedule 15 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24). Section 194A was inserted by section 87(4) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
 [^f00010]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-58d90afc0f9d19d548e90796865aca4b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/214/regulation/11) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-58d90afc0f9d19d548e90796865aca4b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/214/regulation/11) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-9d119e7d426da18ae7fe83fb939f6256]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/214/regulation/12) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-9d119e7d426da18ae7fe83fb939f6256]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/214/regulation/12) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-672d05570492d72b1dccb99e24726f76]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/214/regulation/13) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-672d05570492d72b1dccb99e24726f76]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/214/regulation/13) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00011]: Footnote: Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
 [^f00012]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-d224f8bba72c79b8a9875be47f689f8f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-d224f8bba72c79b8a9875be47f689f8f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
 [^f00013]: Footnote: Regulation (EU) No 531/2012 of the European Parliament and of the Council of 13 June 2012 on roaming on public mobile communications networks within the Union expired on 30th June 2022 (see Article 22 of that Regulation). All other enactments cited in the table are spent following its expiry.
 
-[^key-1734a252b47a9c9f401e14fa0b54189b]: Commencement: Sch. in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+[^c-1734a252b47a9c9f401e14fa0b54189b]: Commencement: Sch. in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
 
-[^key-568196bc0319e3b719e3299bcc77c3c4]: Textual amendment: Sum in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/a)
+[^c-568196bc0319e3b719e3299bcc77c3c4]: Textual amendment: Sum in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/a)
 
 [^f01000]: Footnote: (1)
 
     An “SMS message” is a Short Message Service text message.
 
-[^key-221d787371ac624b6a7edd5b935bd786]: Textual amendment: Sum in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/b)
+[^c-221d787371ac624b6a7edd5b935bd786]: Textual amendment: Sum in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/b)
 
-[^key-5d7ce416a9c4cb7ecead78a86aefd58a]: Textual amendment: Words in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/c)
+[^c-5d7ce416a9c4cb7ecead78a86aefd58a]: Textual amendment: Words in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/c)

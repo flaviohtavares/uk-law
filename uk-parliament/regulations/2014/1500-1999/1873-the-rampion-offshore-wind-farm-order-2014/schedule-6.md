@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Temporary suspension of public access to access land[^key-c181eca842af4735ebb2602defc308b0]
+## SCHEDULE 6 — Temporary suspension of public access to access land[^c-c181eca842af4735ebb2602defc308b0]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ Article 22
 
 ## Annotations
 
-[^key-c181eca842af4735ebb2602defc308b0]: Commencement: Sch. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-c181eca842af4735ebb2602defc308b0]: Commencement: Sch. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

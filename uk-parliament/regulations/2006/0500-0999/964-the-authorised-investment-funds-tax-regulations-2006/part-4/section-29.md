@@ -28,13 +28,13 @@ summary: ''
 
 (4) Condition C is that the deduction obligation would apply but for the reputable intermediary condition being met.
 
-(5) Condition D is that (contrary to the belief of the legal owner) the participant is in fact [^key-9da179af6532762e55559076e8380ab2]... resident in the United Kingdom.
+(5) Condition D is that (contrary to the belief of the legal owner) the participant is in fact [^c-9da179af6532762e55559076e8380ab2]... resident in the United Kingdom.
 
 (6) Section 350 of ICTA [^c15459021] (charge to tax where payments made under section 349) and Schedule 16 to that Act [^c15459031] (collection of income tax on company payments which are not distributions) have effect as if the deduction obligation applied.
 
 ## Annotations
 
-[^key-9da179af6532762e55559076e8380ab2]: Textual amendment: Word in reg. 29(5) omitted (with effect in accordance with reg. 1(2)(c) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2994/regulation/8)
+[^c-9da179af6532762e55559076e8380ab2]: Textual amendment: Word in reg. 29(5) omitted (with effect in accordance with reg. 1(2)(c) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2994/regulation/8)
 
 [^c15459021]: Marginal citation: Section 350 was amended by paragraph 8 of Schedule 6 to the Finance Act 1996 and section 96(2) of the Finance Act 2002.
 

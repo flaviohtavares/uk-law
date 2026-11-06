@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. General and supplementary[^key-484abd374a582f6b8a8319f8d635259a]
+## 138. General and supplementary[^c-484abd374a582f6b8a8319f8d635259a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-484abd374a582f6b8a8319f8d635259a]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2008/14/section/138) in force at 1.1.2009 by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-484abd374a582f6b8a8319f8d635259a]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2008/14/section/138) in force at 1.1.2009 by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

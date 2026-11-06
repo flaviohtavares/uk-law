@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Tenant’s right to withhold rent[^key-211bb669c0e8433b8b9676845718708f]
+## 15A. Tenant’s right to withhold rent[^c-211bb669c0e8433b8b9676845718708f]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ shall be unenforceable if the non-payment is in consequence of an authorisation 
 
 ## Annotations
 
-[^key-211bb669c0e8433b8b9676845718708f]: Textual amendment: S. 15A and cross-heading inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 64](https://www.legislation.gov.uk/asp/2003/11/section/64), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-211bb669c0e8433b8b9676845718708f]: Textual amendment: S. 15A and cross-heading inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 64](https://www.legislation.gov.uk/asp/2003/11/section/64), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

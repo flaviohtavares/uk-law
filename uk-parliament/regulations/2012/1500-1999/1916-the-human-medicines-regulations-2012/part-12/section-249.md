@@ -24,8 +24,8 @@ summary: ''
 
 (2) Those authorisations are—
 
-- (a) a UK[^key-c625884acfdd28bb9a4c8ff008cd1bb5] marketing authorisation;
-- (aa)[^key-ced5b93115bcb54841dcfa1e6215126a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a UK[^c-c625884acfdd28bb9a4c8ff008cd1bb5] marketing authorisation;
+- (aa)[^c-ced5b93115bcb54841dcfa1e6215126a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a certificate of registration;
 - (c) a traditional herbal registration; and
 - (d) an Article 126a authorisation.
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c625884acfdd28bb9a4c8ff008cd1bb5]: Textual amendment: Word in [reg. 249(2)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/249/2/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [194(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/194/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c625884acfdd28bb9a4c8ff008cd1bb5]: Textual amendment: Word in [reg. 249(2)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/249/2/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [194(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/194/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ced5b93115bcb54841dcfa1e6215126a]: Textual amendment: [Reg. 249(2)(aa)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/249/2/aa) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [107](https://www.legislation.gov.uk/uksi/2024/832/regulation/107)
+[^c-ced5b93115bcb54841dcfa1e6215126a]: Textual amendment: [Reg. 249(2)(aa)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/249/2/aa) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [107](https://www.legislation.gov.uk/uksi/2024/832/regulation/107)

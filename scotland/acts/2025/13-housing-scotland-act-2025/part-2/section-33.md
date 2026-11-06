@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Review of eviction grounds[^key-cb209a7dc809e283b730155d830350ae][^key-be83f7e4fd3dd4d42403c7408d60b143]
+## 33. Review of eviction grounds[^c-cb209a7dc809e283b730155d830350ae][^c-be83f7e4fd3dd4d42403c7408d60b143]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb209a7dc809e283b730155d830350ae]: Commencement: S. 33 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-cb209a7dc809e283b730155d830350ae]: Commencement: S. 33 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-be83f7e4fd3dd4d42403c7408d60b143]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/13/section/33) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-be83f7e4fd3dd4d42403c7408d60b143]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/13/section/33) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

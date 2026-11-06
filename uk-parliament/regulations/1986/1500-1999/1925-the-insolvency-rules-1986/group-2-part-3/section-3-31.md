@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.31. Disposal of charged property[^key-44dc57e51850ca5ec6bb9a86f9baf6ae]
+## 3.31. Disposal of charged property[^c-44dc57e51850ca5ec6bb9a86f9baf6ae]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44dc57e51850ca5ec6bb9a86f9baf6ae]: Commencement: [Rule 3.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-44dc57e51850ca5ec6bb9a86f9baf6ae]: Commencement: [Rule 3.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

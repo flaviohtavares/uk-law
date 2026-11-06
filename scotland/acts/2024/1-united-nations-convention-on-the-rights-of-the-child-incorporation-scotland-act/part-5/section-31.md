@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Meaning of “compatibility question”[^key-5a534ae84cda2986b65e1bb64baf3382]
+## 31. Meaning of “compatibility question”[^c-5a534ae84cda2986b65e1bb64baf3382]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a534ae84cda2986b65e1bb64baf3382]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/1/section/31) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-5a534ae84cda2986b65e1bb64baf3382]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/1/section/31) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

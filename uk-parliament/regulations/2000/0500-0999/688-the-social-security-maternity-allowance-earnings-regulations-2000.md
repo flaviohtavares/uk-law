@@ -52,8 +52,8 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 
 (2) In these Regulations–
 
-- [^key-8a860f4137da785205a9f816096c12ea]...
-- “the Contributions Regulations” means the Social Security (Contributions) Regulations 2001;[^key-e22df10e228b211256ce10852ac9b45b]
+- [^c-8a860f4137da785205a9f816096c12ea]...
+- “the Contributions Regulations” means the Social Security (Contributions) Regulations 2001;[^c-e22df10e228b211256ce10852ac9b45b]
 - “the Contributions and Benefits Act" means the Social Security Contributions and Benefits Act 1992;
 - “test period" means the period of 66 weeks specified in section 35(1)(b) of the Contributions and Benefits Act.
 
@@ -61,34 +61,34 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 
 (1) Subject to paragraph (2), for the purposes of section 35A(4)(a) of the Contributions and Benefits Act, the payments specified for a woman who is an employed earner in any week falling within the test period shall be all payments made to her or for her benefit as an employed earner including–
 
-- (za)[^key-51e25033556fe0aa9abace4bfe37f3d6] any amount retrospectively treated as earnings by regulations made by virtue of section 4B(2) of the Contributions and Benefits Act,
+- (za)[^c-51e25033556fe0aa9abace4bfe37f3d6] any amount retrospectively treated as earnings by regulations made by virtue of section 4B(2) of the Contributions and Benefits Act,
 - (a) any sum payable in respect of arrears of pay in pursuance of an order for reinstatement under section 114 or re-engagement under section 115 of the Employment Rights Act 1996 (orders for reinstatement and re-engagement) [^c1619497];
 - (b) any sum payable by way of pay in pursuance of an order made under section 129 of the Employment Rights Act 1996 (procedure on hearing of application and making of order) for the continuation of a contract of employment;
 - (c) any sum payable by way of remuneration in pursuance of a protective award under section 189 of the Trade Union and Labour Relations (Consolidation) Act 1992 (complaint.................... and protective award) [^c1619498];
 - (d) any sum payable by way of statutory sick pay, including sums payable in accordance with regulations made under section 151(6) of the Contributions and Benefits Act (employers’ liability) [^c1619499];
 - (e) any sum payable by way of statutory maternity pay, including sums payable in accordance with regulations made under section 164(9)(b) of the Contributions and Benefits Act [^c1619500].
 - (f)[^M_F_5ba84357-21f8-4164-e24f-35b0cfc87f81] any sum payable by way of statutory paternity pay, including any sums payable in accordance with regulations made under section 171ZD(3) of the Contributions and Benefits Act;
-- (g) any sum payable by way of statutory adoption pay, including any sums payable in accordance with regulations made under section 171ZM(3) of the Contributions and Benefits Act;[^key-9a96adb3e46f3ad09151eb434157b1ca]
-- (h)[^key-4b73d1c53bb6641afbfc10efda188035] any sum payable by way of statutory shared parental pay, including any sums payable in accordance with regulations made under section 171ZX(3) of the Contributions and Benefits Act;
-- (i)[^key-5a205a54ea6f1de10b66f02819f438f6] any sum payable by way of statutory parental bereavement pay, including any sums payable in accordance with regulations made under section 171ZZ8(3) of the Contributions and Benefits Act;[^key-8029f1545750cfee03e0d0a7308b9763]
+- (g) any sum payable by way of statutory adoption pay, including any sums payable in accordance with regulations made under section 171ZM(3) of the Contributions and Benefits Act;[^c-9a96adb3e46f3ad09151eb434157b1ca]
+- (h)[^c-4b73d1c53bb6641afbfc10efda188035] any sum payable by way of statutory shared parental pay, including any sums payable in accordance with regulations made under section 171ZX(3) of the Contributions and Benefits Act;
+- (i)[^c-5a205a54ea6f1de10b66f02819f438f6] any sum payable by way of statutory parental bereavement pay, including any sums payable in accordance with regulations made under section 171ZZ8(3) of the Contributions and Benefits Act;[^c-8029f1545750cfee03e0d0a7308b9763]
 - (j) any sum payable by way of statutory neonatal care pay, including any sums payable in accordance with regulations made under section 171ZZ18(3) of the Contributions and Benefits Act.
 
-(2) The payments specified shall not include any sum excluded from the computation of a person’s earnings under regulation 25, 27 or 123 of, or Schedule 3 to,[^key-bce0c2e290518072c9afead30ff3c177] the Contributions Regulations (payments to be disregarded).
+(2) The payments specified shall not include any sum excluded from the computation of a person’s earnings under regulation 25, 27 or 123 of, or Schedule 3 to,[^c-bce0c2e290518072c9afead30ff3c177] the Contributions Regulations (payments to be disregarded).
 
 ## 3. Specified payments for self-employed earners
 
 For the purposes of section 35A(4)(b) of the Contributions and Benefits Act, where a woman is a self-employed earner in any week falling within the test period, the payments treated as made to her or for her benefit shall be–
 
-- (a) a payment equal to an amount 90 per cent. of which is equal to the weekly rate prescribed under section 166(1)(b) of the Contributions and Benefits Act that is in force[^key-c495e84d8d597c595fcfd22c185395f2] on the last day of that week where she has paid a Class 2 contribution [^key-2f0a12edbc835a5ef4e002c8aaeded40]...; or
-- (b) a payment equal to the maternity allowance threshold in force on the last day of that week if she could have paid but has not paid such a contribution[^key-5bb42e0c17d1641d860cf4bd2e802ead] in respect of that week.
+- (a) a payment equal to an amount 90 per cent. of which is equal to the weekly rate prescribed under section 166(1)(b) of the Contributions and Benefits Act that is in force[^c-c495e84d8d597c595fcfd22c185395f2] on the last day of that week where she has paid a Class 2 contribution [^c-2f0a12edbc835a5ef4e002c8aaeded40]...; or
+- (b) a payment equal to the maternity allowance threshold in force on the last day of that week if she could have paid but has not paid such a contribution[^c-5bb42e0c17d1641d860cf4bd2e802ead] in respect of that week.
 
 ## 4. Aggregation of specified payments
 
-(1) In a case [^key-90dd8fa830d4fe2095344ca99da9c13f]... where a woman, either in the same week or in different weeks falling within the test period, is engaged in two or more employments (whether, in each case, as an employed earner or a self-employed earner), any payments which are made, or treated in accordance with these Regulations as made to her or for her benefit shall be aggregated for the purpose of determining the average weekly amount of specified payments applicable in her case.
+(1) In a case [^c-90dd8fa830d4fe2095344ca99da9c13f]... where a woman, either in the same week or in different weeks falling within the test period, is engaged in two or more employments (whether, in each case, as an employed earner or a self-employed earner), any payments which are made, or treated in accordance with these Regulations as made to her or for her benefit shall be aggregated for the purpose of determining the average weekly amount of specified payments applicable in her case.
 
-(2)[^key-3b0c9da14a825b00e03c85050c35c24e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3b0c9da14a825b00e03c85050c35c24e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The specified period[^key-a9c7e95206cc43f435a507031b25a396]
+## 5. The specified period[^c-a9c7e95206cc43f435a507031b25a396]
 
 (1) Subject to paragraph (2) below, for the purposes of section 35A(4) and (5) of the Contributions and Benefits Act, the specified period shall be the test period.
 
@@ -96,16 +96,16 @@ For the purposes of section 35A(4)(b) of the Contributions and Benefits Act, whe
 
 ## 6. Determination of average weekly amount of specified payments
 
-(1)[^key-a28049878039d784d87e8c532fc53b2e] For the purposes of section 35A(4) of the Contributions and Benefits Act a woman’s average weekly amount of specified payments shall, subject to paragraph (2), be determined by dividing by 13 the payments made, or treated in accordance with these Regulations as made, to her or for her benefit—
+(1)[^c-a28049878039d784d87e8c532fc53b2e] For the purposes of section 35A(4) of the Contributions and Benefits Act a woman’s average weekly amount of specified payments shall, subject to paragraph (2), be determined by dividing by 13 the payments made, or treated in accordance with these Regulations as made, to her or for her benefit—
 
 - (a) in the case of a woman to whom paragraph (2) of regulation 5 applies, in the 13 weeks referred to in that paragraph;
 - (b) in any other case, in the 13 weeks (whether consecutive or not) falling within the specified period in which such payments are greatest.
 
 (2) In any case where a woman receives a back-dated pay increase after the end of the period specified in regulation 5 above which includes a sum in respect of any week falling within that period, her average weekly amount of specified payments shall be determined as if such sum had been paid in that week.
 
-(3)[^key-2dd1f61ff4614aef771c2e3650c4c365] Where a woman is normally paid other than weekly, the payments made or treated as made to her or for her benefit for the purposes of paragraph (1) shall be calculated by dividing the payments made to her in any week by the nearest whole number of weeks in the period in respect of which she is paid.
+(3)[^c-2dd1f61ff4614aef771c2e3650c4c365] Where a woman is normally paid other than weekly, the payments made or treated as made to her or for her benefit for the purposes of paragraph (1) shall be calculated by dividing the payments made to her in any week by the nearest whole number of weeks in the period in respect of which she is paid.
 
-(4)[^key-4b88739626d9197397f800c9a2c9f108] Paragraph (5) applies in respect of a week where–
+(4)[^c-4b88739626d9197397f800c9a2c9f108] Paragraph (5) applies in respect of a week where–
 
 - (a) a woman is a furloughed employee;
 - (b) the woman’s employer has claimed and is in receipt of financial support in respect of the woman’s earnings under the Coronavirus Job Retention Scheme; and
@@ -149,11 +149,11 @@ These Regulations do not impose any costs on business.
 
 [^c1619495]: Marginal citation: *See* section 173(5) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-8a860f4137da785205a9f816096c12ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/688/regulation/1/2) omitted (6.4.2015) by virtue of [The Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2015 (S.I. 2015/342)](https://www.legislation.gov.uk/uksi/2015/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/342/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/342/regulation/2/a)
+[^c-8a860f4137da785205a9f816096c12ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/688/regulation/1/2) omitted (6.4.2015) by virtue of [The Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2015 (S.I. 2015/342)](https://www.legislation.gov.uk/uksi/2015/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/342/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/342/regulation/2/a)
 
-[^key-e22df10e228b211256ce10852ac9b45b]: Textual amendment: Words in reg. 1(2) substituted (6.4.2007) by [Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/7/2)
+[^c-e22df10e228b211256ce10852ac9b45b]: Textual amendment: Words in reg. 1(2) substituted (6.4.2007) by [Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/7/2)
 
-[^key-51e25033556fe0aa9abace4bfe37f3d6]: Textual amendment: Reg. 2(1)(za) inserted (6.4.2007) by [Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/7/3/a)
+[^c-51e25033556fe0aa9abace4bfe37f3d6]: Textual amendment: Reg. 2(1)(za) inserted (6.4.2007) by [Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/7/3/a)
 
 [^c1619497]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -165,30 +165,30 @@ These Regulations do not impose any costs on business.
 
 [^M_F_5ba84357-21f8-4164-e24f-35b0cfc87f81]: Textual amendment: Regs. 2(1)(f) & (g) inserted (8.12.02) by [S.I. 2002/2690](https://www.legislation.gov.uk/uksi/2002/2690), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/c), [16](https://www.legislation.gov.uk/uksi/2002/2690/regulation/16)
 
-[^key-9a96adb3e46f3ad09151eb434157b1ca]: Textual amendment: Word in reg. 2(1)(g) substituted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/8/a)
+[^c-9a96adb3e46f3ad09151eb434157b1ca]: Textual amendment: Word in reg. 2(1)(g) substituted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/8/a)
 
-[^key-4b73d1c53bb6641afbfc10efda188035]: Textual amendment: Reg. 2(1)(h) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/8/b)
+[^c-4b73d1c53bb6641afbfc10efda188035]: Textual amendment: Reg. 2(1)(h) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/8/b)
 
-[^key-5a205a54ea6f1de10b66f02819f438f6]: Textual amendment: [Reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2000/688/regulation/2/1/i) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/354/regulation/9)
+[^c-5a205a54ea6f1de10b66f02819f438f6]: Textual amendment: [Reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2000/688/regulation/2/1/i) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/354/regulation/9)
 
-[^key-8029f1545750cfee03e0d0a7308b9763]: Textual amendment: [Reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2000/688/regulation/2/1/j) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/9/2)
+[^c-8029f1545750cfee03e0d0a7308b9763]: Textual amendment: [Reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2000/688/regulation/2/1/j) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/9/2)
 
-[^key-bce0c2e290518072c9afead30ff3c177]: Textual amendment: Words in reg. 2(2) substituted (6.4.2007) by [Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/7/3/b)
+[^c-bce0c2e290518072c9afead30ff3c177]: Textual amendment: Words in reg. 2(2) substituted (6.4.2007) by [Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/7/3/b)
 
-[^key-c495e84d8d597c595fcfd22c185395f2]: Textual amendment: Words in reg. 3(a) substituted (24.11.2002) by [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [17](https://www.legislation.gov.uk/uksi/2002/2690/regulation/17)
+[^c-c495e84d8d597c595fcfd22c185395f2]: Textual amendment: Words in reg. 3(a) substituted (24.11.2002) by [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [17](https://www.legislation.gov.uk/uksi/2002/2690/regulation/17)
 
-[^key-2f0a12edbc835a5ef4e002c8aaeded40]: Textual amendment: Words in reg. 3(a) omitted (6.4.2015) by virtue of [The Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2015 (S.I. 2015/342)](https://www.legislation.gov.uk/uksi/2015/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/342/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2015/342/regulation/2/b/i)
+[^c-2f0a12edbc835a5ef4e002c8aaeded40]: Textual amendment: Words in reg. 3(a) omitted (6.4.2015) by virtue of [The Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2015 (S.I. 2015/342)](https://www.legislation.gov.uk/uksi/2015/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/342/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2015/342/regulation/2/b/i)
 
-[^key-5bb42e0c17d1641d860cf4bd2e802ead]: Textual amendment: Words in reg. 3(b) substituted (6.4.2015) by [The Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2015 (S.I. 2015/342)](https://www.legislation.gov.uk/uksi/2015/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/342/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2015/342/regulation/2/b/ii)
+[^c-5bb42e0c17d1641d860cf4bd2e802ead]: Textual amendment: Words in reg. 3(b) substituted (6.4.2015) by [The Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2015 (S.I. 2015/342)](https://www.legislation.gov.uk/uksi/2015/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/342/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2015/342/regulation/2/b/ii)
 
-[^key-90dd8fa830d4fe2095344ca99da9c13f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/688/regulation/4/1) omitted (24.11.2002) by virtue of [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [18(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/18/2)
+[^c-90dd8fa830d4fe2095344ca99da9c13f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/688/regulation/4/1) omitted (24.11.2002) by virtue of [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [18(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/18/2)
 
-[^key-3b0c9da14a825b00e03c85050c35c24e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/688/regulation/4/2) omitted (24.11.2002) by virtue of [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [18(3)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/18/3)
+[^c-3b0c9da14a825b00e03c85050c35c24e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/688/regulation/4/2) omitted (24.11.2002) by virtue of [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [18(3)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/18/3)
 
-[^key-a9c7e95206cc43f435a507031b25a396]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/688/regulation/5) substituted (6.4.2003) by [Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2003 (S.I. 2003/659)](https://www.legislation.gov.uk/uksi/2003/659), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/659/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2003/659/regulation/2)
+[^c-a9c7e95206cc43f435a507031b25a396]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/688/regulation/5) substituted (6.4.2003) by [Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2003 (S.I. 2003/659)](https://www.legislation.gov.uk/uksi/2003/659), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/659/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2003/659/regulation/2)
 
-[^key-a28049878039d784d87e8c532fc53b2e]: Textual amendment: Reg. 6(1) substituted (6.4.2003) by [Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2003 (S.I. 2003/659)](https://www.legislation.gov.uk/uksi/2003/659), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/659/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/659/regulation/3)
+[^c-a28049878039d784d87e8c532fc53b2e]: Textual amendment: Reg. 6(1) substituted (6.4.2003) by [Social Security (Maternity Allowance) (Earnings) (Amendment) Regulations 2003 (S.I. 2003/659)](https://www.legislation.gov.uk/uksi/2003/659), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/659/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/659/regulation/3)
 
-[^key-2dd1f61ff4614aef771c2e3650c4c365]: Textual amendment: Reg. 6(3) added (24.11.2002) by [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [20(3)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/20/3)
+[^c-2dd1f61ff4614aef771c2e3650c4c365]: Textual amendment: Reg. 6(3) added (24.11.2002) by [Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [20(3)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/20/3)
 
-[^key-4b88739626d9197397f800c9a2c9f108]: Textual amendment: [Reg. 6(4)-(6)](https://www.legislation.gov.uk/uksi/2000/688/regulation/6/4) inserted (with application in accordance with reg. 2(3) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/450/regulation/4)
+[^c-4b88739626d9197397f800c9a2c9f108]: Textual amendment: [Reg. 6(4)-(6)](https://www.legislation.gov.uk/uksi/2000/688/regulation/6/4) inserted (with application in accordance with reg. 2(3) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/450/regulation/4)

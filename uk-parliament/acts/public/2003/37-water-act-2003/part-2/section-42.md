@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Standards of performance in relation to sewerage services[^key-b793d56cf671f7a8c443cd49bc4c8b71]
+## 42. Standards of performance in relation to sewerage services[^c-b793d56cf671f7a8c443cd49bc4c8b71]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b793d56cf671f7a8c443cd49bc4c8b71]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2003/37/section/42) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/968/article/2/h)
+[^c-b793d56cf671f7a8c443cd49bc4c8b71]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2003/37/section/42) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/968/article/2/h)

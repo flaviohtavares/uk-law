@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Carrying on a regulated claims management activity in Great Britain[^key-f2f75ed8c73b9a4bae94fa55e25514bc][^key-10ca04353a16d5f83117dbab5c61ba1c]
+## 2. Carrying on a regulated claims management activity in Great Britain[^c-f2f75ed8c73b9a4bae94fa55e25514bc][^c-10ca04353a16d5f83117dbab5c61ba1c]
 
 *Extent: E+W+S*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f2f75ed8c73b9a4bae94fa55e25514bc]: Commencement: Art. 2 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-f2f75ed8c73b9a4bae94fa55e25514bc]: Commencement: Art. 2 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-10ca04353a16d5f83117dbab5c61ba1c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2018/1253/article/2) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-10ca04353a16d5f83117dbab5c61ba1c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2018/1253/article/2) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00006]: Footnote: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).

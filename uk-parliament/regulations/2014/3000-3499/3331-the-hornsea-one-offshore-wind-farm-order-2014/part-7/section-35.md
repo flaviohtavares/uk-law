@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Deemed marine licences under the Marine and Coastal Access Act 2009[^key-475e055459894ca8401b0962d996d1c5]
+## 35. Deemed marine licences under the Marine and Coastal Access Act 2009[^c-475e055459894ca8401b0962d996d1c5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The person who is the licence-holder for the purpose of each of Schedules 8 to 1
 
 ## Annotations
 
-[^key-475e055459894ca8401b0962d996d1c5]: Commencement: Art. 35 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-475e055459894ca8401b0962d996d1c5]: Commencement: Art. 35 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

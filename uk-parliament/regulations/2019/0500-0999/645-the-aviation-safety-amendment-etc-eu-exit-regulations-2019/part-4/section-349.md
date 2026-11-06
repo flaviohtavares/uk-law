@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349. Amendment of Article 10 of [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^key-4ee85d270507e89b0f2352500cf95629]
+## 349. Amendment of Article 10 of [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^c-4ee85d270507e89b0f2352500cf95629]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ee85d270507e89b0f2352500cf95629]: Textual amendment: Reg. 349 omitted (31.12.2020 immediately before exit day) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/1098/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ee85d270507e89b0f2352500cf95629]: Textual amendment: Reg. 349 omitted (31.12.2020 immediately before exit day) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/1098/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

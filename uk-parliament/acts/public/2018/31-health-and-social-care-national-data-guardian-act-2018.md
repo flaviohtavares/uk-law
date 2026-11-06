@@ -36,7 +36,7 @@ An Act to establish, and make provision about, the National Data Guardian for He
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. National Data Guardian for Health and Social Care[^key-6658f52233daf3e2b0b85376a9c8a747]
+## 1. National Data Guardian for Health and Social Care[^c-6658f52233daf3e2b0b85376a9c8a747]
 
 (1) The Secretary of State must appoint an individual to hold office as the National Data Guardian for Health and Social Care (in this Act, “the Data Guardian”).
 
@@ -69,7 +69,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (10) Schedule 1 makes further provision about the Data Guardian.
 
-## 2. Interpretation[^key-3eae42c16ae90dfaec9b0463e9ba3c33]
+## 2. Interpretation[^c-3eae42c16ae90dfaec9b0463e9ba3c33]
 
 (1) This section applies for the purposes of section 1 and this section.
 
@@ -106,21 +106,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 but in the case of paragraph (b), the body or person is a public body to the extent only of those functions.
 
-## 3. Consequential amendments[^key-75e88754dbf0d9e07bd9ca1aba55e26f]
+## 3. Consequential amendments[^c-75e88754dbf0d9e07bd9ca1aba55e26f]
 
 Schedule 2 contains amendments that are consequential on this Act.
 
-## 4. Extent[^key-7dcfb72a7afc706e3eeeb1e0f642f187]
+## 4. Extent[^c-7dcfb72a7afc706e3eeeb1e0f642f187]
 
 This Act extends to England and Wales only.
 
-## 5. Commencement[^key-4215d0457af23dbd485f8bdb8d96c0e9]
+## 5. Commencement[^c-4215d0457af23dbd485f8bdb8d96c0e9]
 
 (1) This Act comes into force on such day as the Secretary of State may by regulations appoint.
 
 (2) Regulations made under this section are to be made by statutory instrument.
 
-## 6. Short title[^key-931400b005169c70e0cc72a1dbee2900]
+## 6. Short title[^c-931400b005169c70e0cc72a1dbee2900]
 
 This Act may be cited as the Health and Social Care (National Data Guardian) Act 2018.
 
@@ -132,62 +132,62 @@ Section 1
 
 ### Appointment
 
-**1.**[^key-cf7d74f806e659a3796bc243e0b82919] Subject to paragraphs 2 to 6, a person holds and vacates the office of Data Guardian in accordance with the terms of his or her appointment.
+**1.**[^c-cf7d74f806e659a3796bc243e0b82919] Subject to paragraphs 2 to 6, a person holds and vacates the office of Data Guardian in accordance with the terms of his or her appointment.
 
-**2.**[^key-406aa28a0a0363dec4234b1bf966eb2c] The period for which a person is appointed as the Data Guardian must not exceed three years.
+**2.**[^c-406aa28a0a0363dec4234b1bf966eb2c] The period for which a person is appointed as the Data Guardian must not exceed three years.
 
-**3.**[^key-4aa8195a7807c9301a04eef010b6422e] A person who has held office as the Data Guardian may be re-appointed once only.
+**3.**[^c-4aa8195a7807c9301a04eef010b6422e] A person who has held office as the Data Guardian may be re-appointed once only.
 
-**4.**[^key-024e9bb98b2ac3060ae5073f86907ff6] The Data Guardian may at any time resign the office by giving notice in writing to the Secretary of State.
+**4.**[^c-024e9bb98b2ac3060ae5073f86907ff6] The Data Guardian may at any time resign the office by giving notice in writing to the Secretary of State.
 
-**5.**[^key-6c69eca56e6030916f627977afc4abb4] The Secretary of State may remove the Data Guardian from office if satisfied that he or she is unable, unwilling or unfit to perform the functions of the Data Guardian.
+**5.**[^c-6c69eca56e6030916f627977afc4abb4] The Secretary of State may remove the Data Guardian from office if satisfied that he or she is unable, unwilling or unfit to perform the functions of the Data Guardian.
 
-**6.**[^key-80014939bbf6ac82e980c2efdfe61c19] Service as the Data Guardian is not service in the civil service of the State.
+**6.**[^c-80014939bbf6ac82e980c2efdfe61c19] Service as the Data Guardian is not service in the civil service of the State.
 
 ### Remuneration, expenses and allowances, etc.
 
-**7.**[^key-20de85c04a65b3aad75c40adb5e8e51e] The Secretary of State may pay to or in respect of the Data Guardian such remuneration, expenses, pensions, allowances or compensation for loss of office as the Secretary of State may determine.
+**7.**[^c-20de85c04a65b3aad75c40adb5e8e51e] The Secretary of State may pay to or in respect of the Data Guardian such remuneration, expenses, pensions, allowances or compensation for loss of office as the Secretary of State may determine.
 
 ### Staff and advisors
 
-**8.**[^key-fdf57e0513f3f638650acbc48f270e15] The Data Guardian may appoint staff and advisors as the Data Guardian may determine.
+**8.**[^c-fdf57e0513f3f638650acbc48f270e15] The Data Guardian may appoint staff and advisors as the Data Guardian may determine.
 
-**9.**[^key-de653716dabca13f92e1c01370b8fcc5] The Data Guardian may pay—
+**9.**[^c-de653716dabca13f92e1c01370b8fcc5] The Data Guardian may pay—
 
 - (a) any remuneration, expenses, allowances and sums by way or in respect of pensions to or in respect of staff;
 - (b) any expenses and allowances to advisors.
 
-**10.**[^key-378059b5facd3f20adb2aba4580d66d8] Service as a member of staff of or advisor to the Data Guardian is not service in the civil service of the State.
+**10.**[^c-378059b5facd3f20adb2aba4580d66d8] Service as a member of staff of or advisor to the Data Guardian is not service in the civil service of the State.
 
-**11.**[^key-43ae3311668e3a6a72cdb93bb70764ce] The Data Guardian may authorise a member of his or her staff to do anything required or authorised to be done by the Data Guardian.
+**11.**[^c-43ae3311668e3a6a72cdb93bb70764ce] The Data Guardian may authorise a member of his or her staff to do anything required or authorised to be done by the Data Guardian.
 
 ### Secondments
 
-**12.**[^key-4bb82440a8e7c8233f904e17c6fb89bb] The Data Guardian may make arrangements for persons to be seconded to serve as members of his or her staff.
+**12.**[^c-4bb82440a8e7c8233f904e17c6fb89bb] The Data Guardian may make arrangements for persons to be seconded to serve as members of his or her staff.
 
-**13.**[^key-794cfabb8e3d19e5dad0c62faed2b4b5] The arrangements may include provision for payments by the Data Guardian to the person with whom the arrangements are made or directly to seconded staff (or both).
+**13.**[^c-794cfabb8e3d19e5dad0c62faed2b4b5] The arrangements may include provision for payments by the Data Guardian to the person with whom the arrangements are made or directly to seconded staff (or both).
 
-**14.**[^key-427a80a3b36c57df2a929c0d75cdde66] A period of secondment does not affect the continuity of a person's employment with the employer from whose service he or she is seconded and, in particular, does not affect such a person's continuity of service in the civil service of the State.
+**14.**[^c-427a80a3b36c57df2a929c0d75cdde66] A period of secondment does not affect the continuity of a person's employment with the employer from whose service he or she is seconded and, in particular, does not affect such a person's continuity of service in the civil service of the State.
 
 ### Financing
 
-**15.**[^key-843a277f9111f1fd6276adb5c4f4d4b7] The Secretary of State must pay to the Data Guardian such sums as the Secretary of State considers appropriate for the purpose of enabling the Data Guardian to perform his or her functions.
+**15.**[^c-843a277f9111f1fd6276adb5c4f4d4b7] The Secretary of State must pay to the Data Guardian such sums as the Secretary of State considers appropriate for the purpose of enabling the Data Guardian to perform his or her functions.
 
 ### Report and accounts
 
-**16.**[^key-5f9ce04e3df8ffeeeb8af2ccd5c87321] The Data Guardian must keep proper accounts and proper records in relation to accounts.
+**16.**[^c-5f9ce04e3df8ffeeeb8af2ccd5c87321] The Data Guardian must keep proper accounts and proper records in relation to accounts.
 
-**17.**[^key-5cc117336e626b025c621a80a4782602] As soon as reasonably practical after the end of each financial year, the Data Guardian must produce an annual report which includes—
+**17.**[^c-5cc117336e626b025c621a80a4782602] As soon as reasonably practical after the end of each financial year, the Data Guardian must produce an annual report which includes—
 
 - (a) a statement of accounts for that financial year in such form as the Secretary of State may direct;
 - (b) a general description of any guidance published and advice, assistance and information given by the Data Guardian in that financial year;
 - (c) a general description of the Data Guardian's priorities for the current financial year.
 
-**18.**[^key-c67bff140d130586d7a60afd72b18d4b] The Data Guardian must send a copy of the annual report to the Secretary of State before the end of June next following the financial year to which the statement of accounts relates.
+**18.**[^c-c67bff140d130586d7a60afd72b18d4b] The Data Guardian must send a copy of the annual report to the Secretary of State before the end of June next following the financial year to which the statement of accounts relates.
 
-**19.**[^key-60a583d7b06d1c754efa47cce23be4eb] The Secretary of State must lay a copy of the annual report before Parliament.
+**19.**[^c-60a583d7b06d1c754efa47cce23be4eb] The Secretary of State must lay a copy of the annual report before Parliament.
 
-**20.**[^key-8b839721ced6a87520da76fd55fa6300] “**Financial year**” means—
+**20.**[^c-8b839721ced6a87520da76fd55fa6300] “**Financial year**” means—
 
 - (a) the period beginning with the day on which the first person is appointed under section 1 and ending with the following 31 March, and
 - (b) each successive period of 12 months.
@@ -198,84 +198,84 @@ Section 3
 
 ### Public Records Act 1958 (c. 51)
 
-**1.**[^key-98af40e594956cd3e6e8ebd269a0c268] In Part 2 of the table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records) insert at the appropriate place— “ The National Data Guardian for Health and Social Care. ”
+**1.**[^c-98af40e594956cd3e6e8ebd269a0c268] In Part 2 of the table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records) insert at the appropriate place— “ The National Data Guardian for Health and Social Care. ”
 
 ### Parliamentary Commissioner Act 1967 (c. 13)
 
-**2.**[^key-8cc86988ee2e885e561e8adf000b9088] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) insert at the appropriate place— “ The National Data Guardian for Health and Social Care. ”
+**2.**[^c-8cc86988ee2e885e561e8adf000b9088] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) insert at the appropriate place— “ The National Data Guardian for Health and Social Care. ”
 
 ### House of Commons Disqualification Act 1975 (c. 24)
 
-**3.**[^key-1645d7e8f9566fddc537340d98962628] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices) insert at the appropriate place— “ National Data Guardian for Health and Social Care. ”
+**3.**[^c-1645d7e8f9566fddc537340d98962628] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices) insert at the appropriate place— “ National Data Guardian for Health and Social Care. ”
 
 ### Freedom of Information Act 2000 (c. 36)
 
-**4.**[^key-d202afdc8195e507e80ac9d55f165b22] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies) insert at the appropriate place— “ The National Data Guardian for Health and Social Care. ”
+**4.**[^c-d202afdc8195e507e80ac9d55f165b22] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies) insert at the appropriate place— “ The National Data Guardian for Health and Social Care. ”
 
 ### Equality Act 2010 (c. 15)
 
-**5.**[^key-878c650762a13bdbc743b9ed1808447b] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities to which the public sector equality duty applies), under the heading “Health, social care and social security”, after the entry relating to the Health and Social Care Information Centre insert— “ The National Data Guardian for Health and Social Care. ”
+**5.**[^c-878c650762a13bdbc743b9ed1808447b] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities to which the public sector equality duty applies), under the heading “Health, social care and social security”, after the entry relating to the Health and Social Care Information Centre insert— “ The National Data Guardian for Health and Social Care. ”
 
 ## Annotations
 
-[^key-6658f52233daf3e2b0b85376a9c8a747]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/31/section/1) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-6658f52233daf3e2b0b85376a9c8a747]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/31/section/1) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-3eae42c16ae90dfaec9b0463e9ba3c33]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/31/section/2) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-3eae42c16ae90dfaec9b0463e9ba3c33]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/31/section/2) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-75e88754dbf0d9e07bd9ca1aba55e26f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/31/section/3) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-75e88754dbf0d9e07bd9ca1aba55e26f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/31/section/3) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-7dcfb72a7afc706e3eeeb1e0f642f187]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/31/section/4) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-7dcfb72a7afc706e3eeeb1e0f642f187]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/31/section/4) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-4215d0457af23dbd485f8bdb8d96c0e9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/31/section/5) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-4215d0457af23dbd485f8bdb8d96c0e9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/31/section/5) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-931400b005169c70e0cc72a1dbee2900]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/31/section/6) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-931400b005169c70e0cc72a1dbee2900]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/31/section/6) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-cf7d74f806e659a3796bc243e0b82919]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/1) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-cf7d74f806e659a3796bc243e0b82919]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/1) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-406aa28a0a0363dec4234b1bf966eb2c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/2) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-406aa28a0a0363dec4234b1bf966eb2c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/2) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-4aa8195a7807c9301a04eef010b6422e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/3) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-4aa8195a7807c9301a04eef010b6422e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/3) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-024e9bb98b2ac3060ae5073f86907ff6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/4) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-024e9bb98b2ac3060ae5073f86907ff6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/4) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-6c69eca56e6030916f627977afc4abb4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/5) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-6c69eca56e6030916f627977afc4abb4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/5) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-80014939bbf6ac82e980c2efdfe61c19]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/6) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-80014939bbf6ac82e980c2efdfe61c19]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/6) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-20de85c04a65b3aad75c40adb5e8e51e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/7) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-20de85c04a65b3aad75c40adb5e8e51e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/7) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-fdf57e0513f3f638650acbc48f270e15]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/8) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-fdf57e0513f3f638650acbc48f270e15]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/8) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-de653716dabca13f92e1c01370b8fcc5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/9) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-de653716dabca13f92e1c01370b8fcc5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/9) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-378059b5facd3f20adb2aba4580d66d8]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/10) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-378059b5facd3f20adb2aba4580d66d8]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/10) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-43ae3311668e3a6a72cdb93bb70764ce]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/11) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-43ae3311668e3a6a72cdb93bb70764ce]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/11) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-4bb82440a8e7c8233f904e17c6fb89bb]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/12) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-4bb82440a8e7c8233f904e17c6fb89bb]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/12) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-794cfabb8e3d19e5dad0c62faed2b4b5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/13) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-794cfabb8e3d19e5dad0c62faed2b4b5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/13) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-427a80a3b36c57df2a929c0d75cdde66]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/14) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-427a80a3b36c57df2a929c0d75cdde66]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/14) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-843a277f9111f1fd6276adb5c4f4d4b7]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/15) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-843a277f9111f1fd6276adb5c4f4d4b7]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/15) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-5f9ce04e3df8ffeeeb8af2ccd5c87321]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/16) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-5f9ce04e3df8ffeeeb8af2ccd5c87321]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/16) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-5cc117336e626b025c621a80a4782602]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/17) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-5cc117336e626b025c621a80a4782602]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/17) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-c67bff140d130586d7a60afd72b18d4b]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/18) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-c67bff140d130586d7a60afd72b18d4b]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/18) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-60a583d7b06d1c754efa47cce23be4eb]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/19) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-60a583d7b06d1c754efa47cce23be4eb]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/19) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-8b839721ced6a87520da76fd55fa6300]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/20) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-8b839721ced6a87520da76fd55fa6300]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2018/31/schedule/1/paragraph/20) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-98af40e594956cd3e6e8ebd269a0c268]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/1) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-98af40e594956cd3e6e8ebd269a0c268]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/1) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-8cc86988ee2e885e561e8adf000b9088]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/2) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-8cc86988ee2e885e561e8adf000b9088]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/2) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-1645d7e8f9566fddc537340d98962628]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/3) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-1645d7e8f9566fddc537340d98962628]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/3) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-d202afdc8195e507e80ac9d55f165b22]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/4) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-d202afdc8195e507e80ac9d55f165b22]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/4) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
 
-[^key-878c650762a13bdbc743b9ed1808447b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/5) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+[^c-878c650762a13bdbc743b9ed1808447b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/5) in force at 1.4.2019 by [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-14ec9e62bf6871bd621dc0bd66d6f3ee]
+## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-14ec9e62bf6871bd621dc0bd66d6f3ee]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ Article 31
 
 ## Annotations
 
-[^key-14ec9e62bf6871bd621dc0bd66d6f3ee]: Commencement: Sch. 7 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-14ec9e62bf6871bd621dc0bd66d6f3ee]: Commencement: Sch. 7 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

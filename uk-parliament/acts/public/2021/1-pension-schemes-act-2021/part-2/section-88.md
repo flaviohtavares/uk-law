@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Continuity option 2: resolving triggering event[^c24481131][^key-077cce7dbd2936461e6c5f40a9c5d7e9]
+## 88. Continuity option 2: resolving triggering event[^c24481131][^c-077cce7dbd2936461e6c5f40a9c5d7e9]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c24481131]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2021/1/section/88) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-077cce7dbd2936461e6c5f40a9c5d7e9]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2021/1/section/88) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-077cce7dbd2936461e6c5f40a9c5d7e9]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2021/1/section/88) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) A producer holder, previous holder, consignor, carrier or consignee of hazardous waste shall supply to the Agency on request such information as it may reasonably require for the purposes of performing its functions in connection with these Regulations and for the purposes of monitoring the production, movement, storage, treatment, recovery and disposal of hazardous waste.
 
-(3) An establishment or undertaking to which hazardous waste is delivered for recovery or disposal, as the case may be, has the duty to supply to the Agency on request documentary evidence that the disposal or recovery operation concerned has been carried out, indicating where applicable, the relevant entry listed in Annex I or Annex[^key-c32002e42aa03e9b75f7a6a92f43f419] II, as the case may be, of the Waste Directive.
+(3) An establishment or undertaking to which hazardous waste is delivered for recovery or disposal, as the case may be, has the duty to supply to the Agency on request documentary evidence that the disposal or recovery operation concerned has been carried out, indicating where applicable, the relevant entry listed in Annex I or Annex[^c-c32002e42aa03e9b75f7a6a92f43f419] II, as the case may be, of the Waste Directive.
 
 (4) A person who is required to supply information to the Agency pursuant to this regulation shall supply that information in such form as the Agency may reasonably request.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c32002e42aa03e9b75f7a6a92f43f419]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2005/894/regulation/55/3) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/22) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-c32002e42aa03e9b75f7a6a92f43f419]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2005/894/regulation/55/3) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/22) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

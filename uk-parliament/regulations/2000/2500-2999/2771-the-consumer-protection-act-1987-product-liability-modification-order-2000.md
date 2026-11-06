@@ -49,13 +49,13 @@ Whereas a draft of this Order has been laid before Parliament and approved by re
 
 Now, therefore, Her Majesty, in exercise of the powers conferred on Her by section 8 of the Consumer Protection Act 1987[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows—
 
-## 1. Title, commencement and extent[^key-3ed25704a30d18c46f7d357909e8b453]
+## 1. Title, commencement and extent[^c-3ed25704a30d18c46f7d357909e8b453]
 
 (1) This Order may be cited as the Consumer Protection Act 1987 (Product Liability) (Modification) Order 2000 and shall come into force on 4th December 2000.
 
 (2) This Order extends to England and Wales only[^f00002].
 
-## 2. Modification of Part I of the Consumer Protection Act 1987[^key-9e29e67758e147a52b630eb18c5f06e3]
+## 2. Modification of Part I of the Consumer Protection Act 1987[^c-9e29e67758e147a52b630eb18c5f06e3]
 
 (1) The following modifications shall be made of Part I of the Consumer Protection Act 1987.
 
@@ -79,8 +79,8 @@ A Regulatory Impact Assessment is available, copies of which have been placed in
 
 [^f00001]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
 
-[^key-3ed25704a30d18c46f7d357909e8b453]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2000/2771/article/1) in force at 4.12.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/2771/article/1/1)
+[^c-3ed25704a30d18c46f7d357909e8b453]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2000/2771/article/1) in force at 4.12.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/2771/article/1/1)
 
 [^f00002]: Footnote: In the case of Scotland power has been devolved by section 53 of the Scotland Act 1998. In the case of Wales consumer protection is not a function of a Minister of the Crown which has been transferred to the Assembly under an enactment specified in Schedule 1 to [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). Section 49 of the Consumer Protection Act 1987 provides that Part I of the said Act does not extend to Northern Ireland.
 
-[^key-9e29e67758e147a52b630eb18c5f06e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2000/2771/article/2) in force at 4.12.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/2771/article/1/1)
+[^c-9e29e67758e147a52b630eb18c5f06e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2000/2771/article/2) in force at 4.12.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/2771/article/1/1)

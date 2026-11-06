@@ -154,7 +154,7 @@ For Buffalo or Bison compensation is the market value of the animal.
 
 (2) Assessment of market value must not take account of any sum to which the owner might have become entitled in respect of the animal under any other statutory provision or any retained EU law.
 
-(3) In this paragraph assimilated[^key-64859c2d4045c168a5907670b5acdf03] has the same meaning as in section 6(7) of the European Union (Withdrawal) Act 2018 [^c23700521].
+(3) In this paragraph assimilated[^c-64859c2d4045c168a5907670b5acdf03] has the same meaning as in section 6(7) of the European Union (Withdrawal) Act 2018 [^c23700521].
 
 ### 15. Definitions
 
@@ -178,6 +178,6 @@ Saintfield.
 
 ## Annotations
 
-[^key-64859c2d4045c168a5907670b5acdf03]: Textual amendment: Word in [Sch. 3 para. 14(3)](https://www.legislation.gov.uk/nisr/2018/213/schedule/3/paragraph/14/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 31](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/31)
+[^c-64859c2d4045c168a5907670b5acdf03]: Textual amendment: Word in [Sch. 3 para. 14(3)](https://www.legislation.gov.uk/nisr/2018/213/schedule/3/paragraph/14/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 31](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/31)
 
 [^c23700521]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16)

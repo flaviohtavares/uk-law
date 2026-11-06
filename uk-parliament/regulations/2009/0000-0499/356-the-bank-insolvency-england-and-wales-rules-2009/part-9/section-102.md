@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Recourse of bank liquidator to meeting of creditors[^key-c8f7e28a3b225ea53e4bbb1287f1072b]
+## 102. Recourse of bank liquidator to meeting of creditors[^c-c8f7e28a3b225ea53e4bbb1287f1072b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.129 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c8f7e28a3b225ea53e4bbb1287f1072b]: Commencement: Rule 102 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c8f7e28a3b225ea53e4bbb1287f1072b]: Commencement: Rule 102 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

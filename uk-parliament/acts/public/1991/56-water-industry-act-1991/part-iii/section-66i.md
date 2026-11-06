@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c19907371] Subject to subsections (2) and (3) and section 66K below, no person shall use a water undertaker’s supply system for the purpose of supplying water to any premises of—[^key-24c6e75fe1ce61d33d3015cb857ec4bd]
+(1)[^c19907371] Subject to subsections (2) and (3) and section 66K below, no person shall use a water undertaker’s supply system for the purpose of supplying water to any premises of—[^c-24c6e75fe1ce61d33d3015cb857ec4bd]
 
 - (a) a customer,
 - (b) the person so using that system, or
@@ -29,7 +29,7 @@ summary: ''
 (2) Subsection (1) above shall not apply where the supply is made—
 
 - (a) by the water undertaker, or
-- (b) by a water supply licensee[^key-37bc00efa5288d6b39f4fc064c8320d3] in pursuance of the licensee's licence[^key-9e6b7aaadfc5aa1ed78e8ee4149ffad8].
+- (b) by a water supply licensee[^c-37bc00efa5288d6b39f4fc064c8320d3] in pursuance of the licensee's licence[^c-9e6b7aaadfc5aa1ed78e8ee4149ffad8].
 
 (3) The Secretary of State may by regulations specify further circumstances in which subsection (1) above shall not apply.
 
@@ -54,9 +54,9 @@ summary: ''
 
 are exercisable by the Assembly (and not by the Secretary of State) in relation to any supply system of a water undertaker whose area is wholly or mainly in Wales.
 
-(8A)[^key-3031a52d2b0b96d9bc2ab4847fcb48d9] For the purposes of this section, a person (A) is associated with another person (B) if they would be associated with each other for the purposes of Schedule 2A if A were a water supply licensee.
+(8A)[^c-3031a52d2b0b96d9bc2ab4847fcb48d9] For the purposes of this section, a person (A) is associated with another person (B) if they would be associated with each other for the purposes of Schedule 2A if A were a water supply licensee.
 
-(9) In this section and sections 66J and 66L below, references to the supply system of a water undertaker shall be construed in accordance with section 17B[^key-20185a6b248fe9fcc0f8547e7fb20c5e].
+(9) In this section and sections 66J and 66L below, references to the supply system of a water undertaker shall be construed in accordance with section 17B[^c-20185a6b248fe9fcc0f8547e7fb20c5e].
 
 ## Annotations
 
@@ -64,12 +64,12 @@ are exercisable by the Assembly (and not by the Secretary of State) in relation 
 
 [^c19907371]: Modification: S. 66I(1) restricted (1.12.2005) by [The Water Supply (Exceptions from Supply System Prohibitions) Regulations 2005 (S.I. 2005/3075)](https://www.legislation.gov.uk/uksi/2005/3075), [reg. 3](https://www.legislation.gov.uk/uksi/2005/3075/regulation/3)
 
-[^key-24c6e75fe1ce61d33d3015cb857ec4bd]: Textual amendment: Words in s. 66I(1) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/2); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-24c6e75fe1ce61d33d3015cb857ec4bd]: Textual amendment: Words in s. 66I(1) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/2); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-37bc00efa5288d6b39f4fc064c8320d3]: Textual amendment: Words in s. 66I(2)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/3/a); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-37bc00efa5288d6b39f4fc064c8320d3]: Textual amendment: Words in s. 66I(2)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/3/a); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-9e6b7aaadfc5aa1ed78e8ee4149ffad8]: Textual amendment: Words in s. 66I(2)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/3/b); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-9e6b7aaadfc5aa1ed78e8ee4149ffad8]: Textual amendment: Words in s. 66I(2)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/3/b); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-3031a52d2b0b96d9bc2ab4847fcb48d9]: Textual amendment: S. 66I(8A) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/4); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)
+[^c-3031a52d2b0b96d9bc2ab4847fcb48d9]: Textual amendment: S. 66I(8A) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/4); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)
 
-[^key-20185a6b248fe9fcc0f8547e7fb20c5e]: Textual amendment: Words in s. 66I(9) substituted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/5); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)
+[^c-20185a6b248fe9fcc0f8547e7fb20c5e]: Textual amendment: Words in s. 66I(9) substituted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/5); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)

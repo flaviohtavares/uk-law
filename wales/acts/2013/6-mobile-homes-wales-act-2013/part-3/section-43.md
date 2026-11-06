@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Offences under section 42: supplementary[^key-7f1460611e14f172265051ff11700a74]
+## 43. Offences under section 42: supplementary[^c-7f1460611e14f172265051ff11700a74]
 
 *Extent: E+W*
 
@@ -26,11 +26,11 @@ summary: ''
 
 (3) A person guilty of an offence under section 42 is liable—
 
-- (a) on summary conviction, to a fine or to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-e7925275a417cd946b277d8b32276288], or to both, or
+- (a) on summary conviction, to a fine or to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-e7925275a417cd946b277d8b32276288], or to both, or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years, or to both.
 
 ## Annotations
 
-[^key-7f1460611e14f172265051ff11700a74]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2013/6/section/43) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-7f1460611e14f172265051ff11700a74]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2013/6/section/43) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-e7925275a417cd946b277d8b32276288]: Textual amendment: Words in [s. 43(3)(a)](https://www.legislation.gov.uk/anaw/2013/6/section/43/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-e7925275a417cd946b277d8b32276288]: Textual amendment: Words in [s. 43(3)(a)](https://www.legislation.gov.uk/anaw/2013/6/section/43/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table

@@ -22,10 +22,10 @@ summary: ''
 
 This Part provides for—
 
-- (a)[^key-b1760ccc2c76f1206e8fb93e69297998] the charging of relevant foreign income of a person to whom section 809B, 809D or 809E of ITA 2007 applies (remittance basis),
+- (a)[^c-b1760ccc2c76f1206e8fb93e69297998] the charging of relevant foreign income of a person to whom section 809B, 809D or 809E of ITA 2007 applies (remittance basis),
 - (b) certain deductions in calculating relevant foreign income where that basis does not apply (see Chapter 3), and
 - (c) relief where a person is prevented from transferring income to the United Kingdom (see Chapter 4).
 
 ## Annotations
 
-[^key-b1760ccc2c76f1206e8fb93e69297998]: Textual amendment: [S. 829(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/829/a) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/50)
+[^c-b1760ccc2c76f1206e8fb93e69297998]: Textual amendment: [S. 829(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/829/a) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/50)

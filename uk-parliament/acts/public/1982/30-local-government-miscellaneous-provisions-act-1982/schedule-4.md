@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Street Trading[^c5207091][^key-c08cb74abbcba119f2cc56a83540ed35][^key-2355759da0bb9e990288ecb8b67d9972][^key-a69d772586b44c086bf246ed8b9997d5][^key-5d8f7bb7e714708b4287689c18370e80][^key-b2fa1b0d6ecc7b0d38580bdc0c99fe64][^key-fbf22563d7fa0f2a5d447993c7fbee22][^key-7343d807eea9c7dda11f2422ba85560b][^key-b3b257a9595437a71daf6b7ee6fc99c3][^key-8cb8ed7290b818e606118c7cb68e5f8f][^key-5784d906e3c930bc8f6b9401d47729e2]
+## SCHEDULE 4 — Street Trading[^c5207091][^c-c08cb74abbcba119f2cc56a83540ed35][^c-2355759da0bb9e990288ecb8b67d9972][^c-a69d772586b44c086bf246ed8b9997d5][^c-5d8f7bb7e714708b4287689c18370e80][^c-b2fa1b0d6ecc7b0d38580bdc0c99fe64][^c-fbf22563d7fa0f2a5d447993c7fbee22][^c-7343d807eea9c7dda11f2422ba85560b][^c-b3b257a9595437a71daf6b7ee6fc99c3][^c-8cb8ed7290b818e606118c7cb68e5f8f][^c-5784d906e3c930bc8f6b9401d47729e2]
 
 *Extent: E+W*
 
@@ -90,15 +90,15 @@ and in sub-paragraph (3) above “**necessary consent**” means—
 (5) The following are relevant corporations for the purposes of this paragraph—
 
 - (a) the British Railways Board;
-- (b) the new towns residuary body[^key-e5a314e86944a9bd7281cfedac0ad0a7];
-- (ba)[^key-0c0077f44f87c5108dbc07a528a761ad] a Mayoral development corporation;
+- (b) the new towns residuary body[^c-e5a314e86944a9bd7281cfedac0ad0a7];
+- (ba)[^c-0c0077f44f87c5108dbc07a528a761ad] a Mayoral development corporation;
 - (c) a development corporation for a new town; and[^c2553981]
 - (d) an urban development corporation established under the [^c2553991]Local Government, Planning and Land Act 1980;. . .
 - (e)[^c2554001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-98b38c12663ecbbf4d53465a9ef47a18] In sub-paragraph (5)(b) above “**new towns residuary body**” means—
+(5A)[^c-98b38c12663ecbbf4d53465a9ef47a18] In sub-paragraph (5)(b) above “**new towns residuary body**” means—
 
-- (a) in relation to England, the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008 or the Greater London Authority so far as exercising its new towns and urban development functions[^key-682fd86760432b14a22a0f8fc600066e] ; and
+- (a) in relation to England, the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008 or the Greater London Authority so far as exercising its new towns and urban development functions[^c-682fd86760432b14a22a0f8fc600066e] ; and
 - (b) in relation to Wales, the Welsh Ministers so far as exercising functions in relation to anything transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) to (iii) of the New Towns Act 1981.
 
 (6) The notice referred to in sub-paragraph (3) above—
@@ -387,29 +387,29 @@ without first having been granted permission to do so under paragraph 7(8) above
 
     Sch. 4 applied (with modifications) (21.12.2000) by [City of Newcastle uponTyne Act 2000 (c. viii)](https://www.legislation.gov.uk/ukla/2000/8), [ss. 3](https://www.legislation.gov.uk/ukla/2000/8/section/3), [4](https://www.legislation.gov.uk/ukla/2000/8/section/4)
 
-[^key-c08cb74abbcba119f2cc56a83540ed35]: Modification: Sch. 4 applied (with modifications) (28.10.2004) by [Medway Council Act 2004 (c. v)](https://www.legislation.gov.uk/ukla/2004/5), [s. 4](https://www.legislation.gov.uk/ukla/2004/5/section/4)
+[^c-c08cb74abbcba119f2cc56a83540ed35]: Modification: Sch. 4 applied (with modifications) (28.10.2004) by [Medway Council Act 2004 (c. v)](https://www.legislation.gov.uk/ukla/2004/5), [s. 4](https://www.legislation.gov.uk/ukla/2004/5/section/4)
 
-[^key-2355759da0bb9e990288ecb8b67d9972]: Modification: Sch. 4 applied (with modifications) (11.7.2006) by [Leicester City Council Act 2006 (c. ii)](https://www.legislation.gov.uk/ukla/2006/2), [ss. 3](https://www.legislation.gov.uk/uksi/2000/2853/section/3), [4](https://www.legislation.gov.uk/uksi/2000/2853/section/4)
+[^c-2355759da0bb9e990288ecb8b67d9972]: Modification: Sch. 4 applied (with modifications) (11.7.2006) by [Leicester City Council Act 2006 (c. ii)](https://www.legislation.gov.uk/ukla/2006/2), [ss. 3](https://www.legislation.gov.uk/uksi/2000/2853/section/3), [4](https://www.legislation.gov.uk/uksi/2000/2853/section/4)
 
     Sch. 4 applied (with modifications) (11.7.2006) by [Liverpool City Council Act 2006 (c. iii)](https://www.legislation.gov.uk/ukla/2006/3), [ss. 3](https://www.legislation.gov.uk/ukla/2006/3/section/3), [4](https://www.legislation.gov.uk/ukla/2006/3/section/4)
 
     Sch. 4 applied (with modifications) (11.7.2006) by [Maidstone Borough Council Act 2006 (c. iv)](https://www.legislation.gov.uk/ukla/2006/4), [ss. 3](https://www.legislation.gov.uk/ukla/2006/4/section/3), [4](https://www.legislation.gov.uk/ukla/2006/4/section/4)
 
-[^key-a69d772586b44c086bf246ed8b9997d5]: Modification: Sch. 4 modified (28.12.2009) by [The Provision of Services Regulations 2009 (S.I. 2009/2999)](https://www.legislation.gov.uk/uksi/2009/2999), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/45/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/45/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2), [5](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5))
+[^c-a69d772586b44c086bf246ed8b9997d5]: Modification: Sch. 4 modified (28.12.2009) by [The Provision of Services Regulations 2009 (S.I. 2009/2999)](https://www.legislation.gov.uk/uksi/2009/2999), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/45/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/45/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2), [5](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5))
 
-[^key-5d8f7bb7e714708b4287689c18370e80]: Modification: Sch. 4 applied (with modifications) (8.4.2010) by [Bournemouth Borough Council Act 2010 (c. ii)](https://www.legislation.gov.uk/ukla/2010/2), [s. 4](https://www.legislation.gov.uk/ukla/2010/2/section/4)
+[^c-5d8f7bb7e714708b4287689c18370e80]: Modification: Sch. 4 applied (with modifications) (8.4.2010) by [Bournemouth Borough Council Act 2010 (c. ii)](https://www.legislation.gov.uk/ukla/2010/2), [s. 4](https://www.legislation.gov.uk/ukla/2010/2/section/4)
 
-[^key-b2fa1b0d6ecc7b0d38580bdc0c99fe64]: Modification: Sch. 4 applied (with modifications) (8.4.2010) by [Manchester City Council Act 2010 (c. iii)](https://www.legislation.gov.uk/ukla/2010/3), [ss. 4](https://www.legislation.gov.uk/ukla/2010/3/section/4), [5](https://www.legislation.gov.uk/ukla/2010/3/section/5)
+[^c-b2fa1b0d6ecc7b0d38580bdc0c99fe64]: Modification: Sch. 4 applied (with modifications) (8.4.2010) by [Manchester City Council Act 2010 (c. iii)](https://www.legislation.gov.uk/ukla/2010/3), [ss. 4](https://www.legislation.gov.uk/ukla/2010/3/section/4), [5](https://www.legislation.gov.uk/ukla/2010/3/section/5)
 
-[^key-fbf22563d7fa0f2a5d447993c7fbee22]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Canterbury City Council Act 2013 (c. i)](https://www.legislation.gov.uk/ukla/2013/1), [s. 4](https://www.legislation.gov.uk/ukla/2013/1/section/4) (with [s. 3](https://www.legislation.gov.uk/ukla/2013/1/section/3))
+[^c-fbf22563d7fa0f2a5d447993c7fbee22]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Canterbury City Council Act 2013 (c. i)](https://www.legislation.gov.uk/ukla/2013/1), [s. 4](https://www.legislation.gov.uk/ukla/2013/1/section/4) (with [s. 3](https://www.legislation.gov.uk/ukla/2013/1/section/3))
 
-[^key-7343d807eea9c7dda11f2422ba85560b]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Leeds City Council Act 2013 (c. ii)](https://www.legislation.gov.uk/ukla/2013/2), [s. 4](https://www.legislation.gov.uk/ukla/2013/2/section/4) (with [s. 3](https://www.legislation.gov.uk/ukla/2013/2/section/3))
+[^c-7343d807eea9c7dda11f2422ba85560b]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Leeds City Council Act 2013 (c. ii)](https://www.legislation.gov.uk/ukla/2013/2), [s. 4](https://www.legislation.gov.uk/ukla/2013/2/section/4) (with [s. 3](https://www.legislation.gov.uk/ukla/2013/2/section/3))
 
-[^key-b3b257a9595437a71daf6b7ee6fc99c3]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Nottingham City Council Act 2013 (c. iii)](https://www.legislation.gov.uk/ukla/2013/3), [ss. 4](https://www.legislation.gov.uk/ukla/2013/3/section/4), [5](https://www.legislation.gov.uk/ukla/2013/3/section/5)
+[^c-b3b257a9595437a71daf6b7ee6fc99c3]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Nottingham City Council Act 2013 (c. iii)](https://www.legislation.gov.uk/ukla/2013/3), [ss. 4](https://www.legislation.gov.uk/ukla/2013/3/section/4), [5](https://www.legislation.gov.uk/ukla/2013/3/section/5)
 
-[^key-8cb8ed7290b818e606118c7cb68e5f8f]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Reading Borough Council Act 2013 (c. iv)](https://www.legislation.gov.uk/ukla/2013/4), [ss. 4](https://www.legislation.gov.uk/ukla/2013/4/section/4), [5](https://www.legislation.gov.uk/ukla/2013/4/section/5)
+[^c-8cb8ed7290b818e606118c7cb68e5f8f]: Modification: Sch. 4 applied (with modifications) (28.2.2013) by [Reading Borough Council Act 2013 (c. iv)](https://www.legislation.gov.uk/ukla/2013/4), [ss. 4](https://www.legislation.gov.uk/ukla/2013/4/section/4), [5](https://www.legislation.gov.uk/ukla/2013/4/section/5)
 
-[^key-5784d906e3c930bc8f6b9401d47729e2]: Modification: Sch. 4 restricted (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/3/a), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
+[^c-5784d906e3c930bc8f6b9401d47729e2]: Modification: Sch. 4 restricted (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/3/a), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
 
 [^c2553891]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -419,9 +419,9 @@ without first having been granted permission to do so under paragraph 7(8) above
 
 [^c2553921]: Marginal citation: [1916 c. 31](https://www.legislation.gov.uk/ukpga/1916/31).
 
-[^key-e5a314e86944a9bd7281cfedac0ad0a7]: Textual amendment: Words in Sch. 4 para. 2(5)(b) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 34(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/34/2); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-e5a314e86944a9bd7281cfedac0ad0a7]: Textual amendment: Words in Sch. 4 para. 2(5)(b) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 34(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/34/2); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-0c0077f44f87c5108dbc07a528a761ad]: Textual amendment: Sch. 4 para. 2(5)(ba) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/8)
+[^c-0c0077f44f87c5108dbc07a528a761ad]: Textual amendment: Sch. 4 para. 2(5)(ba) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/8)
 
 [^c2553981]: Textual amendment: Word in Sch. 4 para. 2(5)(c) inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 29](https://www.legislation.gov.uk/ukpga/1998/38/section/29), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/1998/38/schedule/15/paragraph/5) (with [ss. 131(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/131/1), [137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
@@ -429,9 +429,9 @@ without first having been granted permission to do so under paragraph 7(8) above
 
 [^c2554001]: Textual amendment: Sch. 4 para. 2(5)(e) and word “and” immediately preceding repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-98b38c12663ecbbf4d53465a9ef47a18]: Textual amendment: Sch. 4 para. 2(5A) inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 34(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/34/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-98b38c12663ecbbf4d53465a9ef47a18]: Textual amendment: Sch. 4 para. 2(5A) inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 34(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/34/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-682fd86760432b14a22a0f8fc600066e]: Textual amendment: Words in Sch. 4 para. 2(5A)(a) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/9); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-682fd86760432b14a22a0f8fc600066e]: Textual amendment: Words in Sch. 4 para. 2(5A)(a) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/9); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c2554011]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 

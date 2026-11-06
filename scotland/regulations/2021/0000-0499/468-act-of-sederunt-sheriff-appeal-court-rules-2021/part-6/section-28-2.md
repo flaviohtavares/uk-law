@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28.2. Interim orders[^key-8bd237f67f9d1ffc3e23fc464527d732]
+## 28.2. Interim orders[^c-8bd237f67f9d1ffc3e23fc464527d732]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd237f67f9d1ffc3e23fc464527d732]: Commencement: Para. 28.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-8bd237f67f9d1ffc3e23fc464527d732]: Commencement: Para. 28.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

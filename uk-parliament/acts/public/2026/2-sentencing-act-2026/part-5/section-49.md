@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Commencement[^key-d1bae79b6f0d6575c93ddb48b98d1bb6]
+## 49. Commencement[^c-d1bae79b6f0d6575c93ddb48b98d1bb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1bae79b6f0d6575c93ddb48b98d1bb6]: Commencement: S. 49 in force at Royal Assent, see [s. 49(3)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/b)
+[^c-d1bae79b6f0d6575c93ddb48b98d1bb6]: Commencement: S. 49 in force at Royal Assent, see [s. 49(3)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/b)

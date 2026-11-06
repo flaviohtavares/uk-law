@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Credited periods for transferring members with mis-sold pension rights[^key-0d3e5450908a8abe737d9bcd1b6fbb1b]
+## 126. Credited periods for transferring members with mis-sold pension rights[^c-0d3e5450908a8abe737d9bcd1b6fbb1b]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (c) that it is paid on an application made to the Committee before the expiry of the period of 12 months beginning with the date the transferring person becomes an active member (or such longer period as it may allow); and
 - (d) that in the opinion of the Committee it is not less than the restitution amount.
 
-(3) Where paragraph (1) applies, the credited period is the period of membership the transferring person could have counted if he had been an active member throughout the personal pension period (and[^key-6c4c2264e09bb62a639e394ad2e774d4] regulation 125(6B)[^key-005326ce5a4b497ecb95b68408894782] does not apply to a transfer value credited under this regulation).
+(3) Where paragraph (1) applies, the credited period is the period of membership the transferring person could have counted if he had been an active member throughout the personal pension period (and[^c-6c4c2264e09bb62a639e394ad2e774d4] regulation 125(6B)[^c-005326ce5a4b497ecb95b68408894782] does not apply to a transfer value credited under this regulation).
 
 (4) The restitution amount is the aggregate –
 
@@ -50,11 +50,11 @@ summary: ''
 
 ## Annotations
 
-[^key-0d3e5450908a8abe737d9bcd1b6fbb1b]: Commencement: [Reg. 126](https://www.legislation.gov.uk/nisr/2002/352/regulation/126) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
+[^c-0d3e5450908a8abe737d9bcd1b6fbb1b]: Commencement: [Reg. 126](https://www.legislation.gov.uk/nisr/2002/352/regulation/126) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
 
-[^key-6c4c2264e09bb62a639e394ad2e774d4]: Textual amendment: Words in [reg. 126(3)](https://www.legislation.gov.uk/nisr/2002/352/regulation/126/3) inserted (1.10.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [55](https://www.legislation.gov.uk/nisr/2007/152/regulation/55)
+[^c-6c4c2264e09bb62a639e394ad2e774d4]: Textual amendment: Words in [reg. 126(3)](https://www.legislation.gov.uk/nisr/2002/352/regulation/126/3) inserted (1.10.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [55](https://www.legislation.gov.uk/nisr/2007/152/regulation/55)
 
-[^key-005326ce5a4b497ecb95b68408894782]: Textual amendment: Words in [reg. 126(3)](https://www.legislation.gov.uk/nisr/2002/352/regulation/126/3) substituted (retrospective to 1.10.2006) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/2/e), [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2009/34/schedule/3/paragraph/6)
+[^c-005326ce5a4b497ecb95b68408894782]: Textual amendment: Words in [reg. 126(3)](https://www.legislation.gov.uk/nisr/2002/352/regulation/126/3) substituted (retrospective to 1.10.2006) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/2/e), [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2009/34/schedule/3/paragraph/6)
 
 [^f00041]: Footnote: [1971 c. 35](https://www.legislation.gov.uk/apni/1971/35)
 

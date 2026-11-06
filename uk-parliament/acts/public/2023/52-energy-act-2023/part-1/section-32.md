@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Enforcement of obligations of licence holders[^key-cb6291dbca4776accd3563099b22c871]
+## 32. Enforcement of obligations of licence holders[^c-cb6291dbca4776accd3563099b22c871]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 makes provision for the enforcement of conditions of licences and of 
 
 ## Annotations
 
-[^key-cb6291dbca4776accd3563099b22c871]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/52/section/32) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-cb6291dbca4776accd3563099b22c871]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/52/section/32) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

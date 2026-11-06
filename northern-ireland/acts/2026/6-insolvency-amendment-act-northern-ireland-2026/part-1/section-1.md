@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Introductory[^key-783c021f914a4d3397f46292f443851f]
+## 1. Introductory[^c-783c021f914a4d3397f46292f443851f]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-783c021f914a4d3397f46292f443851f]: Commencement: S. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-783c021f914a4d3397f46292f443851f]: Commencement: S. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

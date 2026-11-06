@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Nuclear safety purposes[^key-e90b25ba12d850e827d11ee989054cd8]
+## 68. Nuclear safety purposes[^c-e90b25ba12d850e827d11ee989054cd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,10 +41,10 @@ and an escape or release of ionising radiations from a GB nuclear site includes 
 - “**nuclear matter**” has the same meaning as in that Act (see section 26 of that Act);
 - “**relevant nuclear installation**” means a nuclear installation on a site (its “associated site”) in England, Wales or Scotland for which a nuclear site licence is required by virtue of the installation (and includes a proposed or former nuclear installation in respect of which such a licence would be or has ever been so required).
 
-(4)[^key-901accf3ab12592f3942e1ba8b43625a] In the definition of “relevant nuclear installation” in subsection (3), the reference to a site in England, Wales or Scotland includes a site situated wholly or partly in or under the territorial sea adjacent to them.
+(4)[^c-901accf3ab12592f3942e1ba8b43625a] In the definition of “relevant nuclear installation” in subsection (3), the reference to a site in England, Wales or Scotland includes a site situated wholly or partly in or under the territorial sea adjacent to them.
 
 ## Annotations
 
-[^key-e90b25ba12d850e827d11ee989054cd8]: Commencement: S. 68 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-e90b25ba12d850e827d11ee989054cd8]: Commencement: S. 68 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-901accf3ab12592f3942e1ba8b43625a]: Textual amendment: [S. 68(4)](https://www.legislation.gov.uk/ukpga/2013/32/section/68/4) inserted (10.9.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 302(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/302/4), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/d)
+[^c-901accf3ab12592f3942e1ba8b43625a]: Textual amendment: [S. 68(4)](https://www.legislation.gov.uk/ukpga/2013/32/section/68/4) inserted (10.9.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 302(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/302/4), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/d)

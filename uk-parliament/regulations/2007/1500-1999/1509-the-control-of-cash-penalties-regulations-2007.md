@@ -58,32 +58,32 @@ In these Regulations -
 
 - “**Community Regulation**” means European Parliament and Council Regulation [(EC) No 1889/2005](https://www.legislation.gov.uk/eur/2005/1889) on controls of cash entering or leaving the Community [^c18675201]
 - “**The Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs.
-- “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.[^key-20f534d5a97930bde37babaa8d2eed94]
+- “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.[^c-20f534d5a97930bde37babaa8d2eed94]
 
 ## 3. Power to impose penalties
 
 (1) The Commissioners may impose a penalty of such amount as they consider appropriate, not exceeding £5000, on a person failing to comply with article 3 of the Community Regulation (obligation to declare cash of a value of 10,000 euros or more).
 
-(2)[^key-1f0dd5f9551ee6c398484ba40f344963] Where the Commissioners decide to impose a penalty under this regulation, they must forthwith—
+(2)[^c-1f0dd5f9551ee6c398484ba40f344963] Where the Commissioners decide to impose a penalty under this regulation, they must forthwith—
 
 - (a) inform the person in writing of their decision to impose the penalty and its amount, of their reasons for imposing the penalty and of the right to appeal to the tribunal; and at the same time
 - (b) offer the person a review under regulation 4A.
 
 (3) Where a person is liable to a penalty under this regulation, the Commissioners may reduce the penalty to such amount (including nil) as they think proper.
 
-## 4. Appeals[^key-65a4c534b47a19e9cba593aaac06ea50]
+## 4. Appeals[^c-65a4c534b47a19e9cba593aaac06ea50]
 
-(1) Any person who is the subject of a decision to impose a penalty under regulation 3 may make an appeal to the tribunal in respect of[^key-9d90b9e33a78f7545524d5e671ce4a35] that decision.
+(1) Any person who is the subject of a decision to impose a penalty under regulation 3 may make an appeal to the tribunal in respect of[^c-9d90b9e33a78f7545524d5e671ce4a35] that decision.
 
-(2)[^key-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-544bd19951c22957753a9678e87d6ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Offer of review[^key-ae91ed41926a1141888058d463fa2b14]
+## 4A. Offer of review[^c-ae91ed41926a1141888058d463fa2b14]
 
 (1) The Commissioners must offer a person (P) a review of a decision that has been notified to P if an appeal lies under regulation 4 in respect of the decision.
 
@@ -178,7 +178,7 @@ In these Regulations -
 - (a) an appeal may not be made until the conclusion date, and
 - (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
 
-(4)[^key-bfc4f97926d3500db65db403dd1f0a72] In a case where the Commissioners are requested to undertake a review in accordance with regulation 4D—
+(4)[^c-bfc4f97926d3500db65db403dd1f0a72] In a case where the Commissioners are requested to undertake a review in accordance with regulation 4D—
 
 - (a) an appeal may not be made—
   - (i) unless the Commissioners have notified P as to whether or not a review will be undertaken, and
@@ -192,18 +192,18 @@ In these Regulations -
 
 (7) In this regulation “conclusion date” means the date of the document notifying the conclusions of the review.
 
-## 5. Settling of appeals by agreement[^key-386024693c281fe10880a9c3c8a37674]
+## 5. Settling of appeals by agreement[^c-386024693c281fe10880a9c3c8a37674]
 
 Section 85 of the Value Added Tax Act 1994 (settling of appeals by agreement) shall have effect as if the reference to section 83 of that Act included a reference to regulation 4 above.
 
 ## 6.
 
-On an appeal under regulation 4[^key-687affc218a743ee8e203f3930165b6f], the tribunal has the power to —
+On an appeal under regulation 4[^c-687affc218a743ee8e203f3930165b6f], the tribunal has the power to —
 
 - (a) quash or vary any decision of the Commissioners, including the power to reduce any penalty to such amount (including nil) as it thinks proper; and
 - (b) substitute its own decision for any decision quashed on appeal.
 
-## 7.[^key-1473f5a57de003802dd407c928911bb4]
+## 7.[^c-1473f5a57de003802dd407c928911bb4]
 
 (1) An appeal shall not be entertained unless—
 
@@ -244,22 +244,22 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c18675201]: Marginal citation: O.J. L309 p.9, 25.11.2005.
 
-[^key-20f534d5a97930bde37babaa8d2eed94]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1509/regulation/2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 161](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/161)
+[^c-20f534d5a97930bde37babaa8d2eed94]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1509/regulation/2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 161](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/161)
 
-[^key-1f0dd5f9551ee6c398484ba40f344963]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/3/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 162(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/162/2)
+[^c-1f0dd5f9551ee6c398484ba40f344963]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/3/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 162(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/162/2)
 
-[^key-65a4c534b47a19e9cba593aaac06ea50]: Textual amendment: Reg. 4 heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 163(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163/2) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-65a4c534b47a19e9cba593aaac06ea50]: Textual amendment: Reg. 4 heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 163(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163/2) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-9d90b9e33a78f7545524d5e671ce4a35]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/4/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 163(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163/3) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-9d90b9e33a78f7545524d5e671ce4a35]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/4/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 163(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163/3) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-544bd19951c22957753a9678e87d6ff0]: Textual amendment: [Reg. 4(2)-(5)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/4/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 163(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163/4) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-544bd19951c22957753a9678e87d6ff0]: Textual amendment: [Reg. 4(2)-(5)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/4/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 163(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163/4) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-ae91ed41926a1141888058d463fa2b14]: Textual amendment: Regs. 4A-4F inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/164) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-ae91ed41926a1141888058d463fa2b14]: Textual amendment: Regs. 4A-4F inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/164) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-bfc4f97926d3500db65db403dd1f0a72]: Textual amendment: [Reg. 4F(4)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/4F/4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [10](https://www.legislation.gov.uk/uksi/2014/1264/article/10) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
+[^c-bfc4f97926d3500db65db403dd1f0a72]: Textual amendment: [Reg. 4F(4)](https://www.legislation.gov.uk/uksi/2007/1509/regulation/4F/4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [10](https://www.legislation.gov.uk/uksi/2014/1264/article/10) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
 
-[^key-386024693c281fe10880a9c3c8a37674]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1509/regulation/5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 165](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/165) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-386024693c281fe10880a9c3c8a37674]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1509/regulation/5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 165](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/165) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-687affc218a743ee8e203f3930165b6f]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2007/1509/regulation/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/166) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-687affc218a743ee8e203f3930165b6f]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2007/1509/regulation/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/166) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-1473f5a57de003802dd407c928911bb4]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/1509/regulation/7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 167](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/167) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-1473f5a57de003802dd407c928911bb4]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/1509/regulation/7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 167](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/167) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))

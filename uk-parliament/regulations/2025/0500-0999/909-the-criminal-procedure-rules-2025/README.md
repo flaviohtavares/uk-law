@@ -2468,7 +2468,7 @@ These Rules may be cited as the Criminal Procedure Rules 2025 and shall come int
 | under the Regulation of Investigatory Powers Act 2000 |  |
 | When this Section applies | rule 47.51 |
 | Exercise of court’s powers | rule 47.52 |
-| Application for approval for authorisation [^key-3b2bdf1073f2711b7373fec6a9822f53]... | rule 47.53 |
+| Application for approval for authorisation [^c-3b2bdf1073f2711b7373fec6a9822f53]... | rule 47.53 |
 |  |  |
 | Section 8: orders for access to documents, etc. |  |
 | under the Criminal Appeal Act 1995 |  |
@@ -2784,7 +2784,7 @@ These Rules come into force on 6th October 2025.
 
 [^f00039]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-3b2bdf1073f2711b7373fec6a9822f53]: Textual amendment: Words in Pt. 47 Table of Contents omitted (6.4.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/i)
+[^c-3b2bdf1073f2711b7373fec6a9822f53]: Textual amendment: Words in Pt. 47 Table of Contents omitted (6.4.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/i)
 
 [^f01355]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); sections 26 and 28 were amended by section 160 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 

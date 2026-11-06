@@ -41,7 +41,7 @@ Coming into force
 
 The Secretary of State, with the consent of the Treasury, makes these Regulations in exercise of the powers conferred by section 21(1) and (3) of, and paragraph 3(1) and (2) of Schedule 1 to, the Recall of MPs Act 2015[^f00001].
 
-## 1. Citation, commencement, extent and interpretation[^key-7591ec1c2c68849922c227e4e02d7bb4]
+## 1. Citation, commencement, extent and interpretation[^c-7591ec1c2c68849922c227e4e02d7bb4]
 
 (1) These Regulations may be cited as the Recall Petition (Petition Officers’ Charges) Regulations 2024 and come into force on the day after the day on which they are made.
 
@@ -57,7 +57,7 @@ The Secretary of State, with the consent of the Treasury, makes these Regulation
 - “**petition signing sheet**” means a signing sheet which is to be made available for signing the recall petition in accordance with section 9 of the Act (recall petition to be made available for signing), other than a postal signing sheet;
 - “**postal signing sheet**” means a signing sheet issued to a postal signer in accordance with Part 5 of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016.
 
-## 2. Petition officers: maximum recoverable amount for specified services[^key-7c2376ef9d9d0580ae2a69e38b496398]
+## 2. Petition officers: maximum recoverable amount for specified services[^c-7c2376ef9d9d0580ae2a69e38b496398]
 
 (1) The maximum recoverable amount (for the purposes of paragraph 3 of Schedule 1 to the Act) in relation to a recall petition for a service specified in column 1 of the table in Schedule 1 is to be determined in accordance with this regulation.
 
@@ -67,7 +67,7 @@ The Secretary of State, with the consent of the Treasury, makes these Regulation
 
 (4) Where the constituency to which a recall petition relates is not wholly or partly within the Greater London area but borders a constituency that is, the maximum recoverable amount in relation to a specified service listed in column 1 is the amount listed in the corresponding entry in column 4 of that table.
 
-## 3. Petition officers: maximum recoverable amount for specified expenses[^key-9c1c53bd8b7e31aa6184ce9a66618885]
+## 3. Petition officers: maximum recoverable amount for specified expenses[^c-9c1c53bd8b7e31aa6184ce9a66618885]
 
 (1) The maximum recoverable amount (for the purposes of paragraph 3 of Schedule 1 to the Act) in relation to a recall petition for an expense specified in column 1 of the table in Schedule 2 is to be determined in accordance with this regulation.
 
@@ -77,7 +77,7 @@ The Secretary of State, with the consent of the Treasury, makes these Regulation
 
 (4) Where the constituency to which a recall petition relates is not wholly or partly within the Greater London area but borders a constituency that is, the maximum recoverable amount in relation to a specified expense listed in column 1 is the amount listed in the corresponding entry in column 4 of that table.
 
-## 4. Overall maximum recoverable amount[^key-a006bb406df0801fa0489fc1fb079f94]
+## 4. Overall maximum recoverable amount[^c-a006bb406df0801fa0489fc1fb079f94]
 
 (1) The overall maximum recoverable amount (within the meaning of paragraph 3(1)(b) of Schedule 1 to the Act) in relation to a recall petition is to be determined in accordance with this regulation.
 
@@ -96,7 +96,7 @@ The Secretary of State, with the consent of the Treasury, makes these Regulation
 - (a) regulation 2(4) (specified services), and
 - (b) regulation 3(4) (specified expenses).
 
-## 5. Revocation and saving[^key-bca4a0344a89f690fe4c414683e211b0]
+## 5. Revocation and saving[^c-bca4a0344a89f690fe4c414683e211b0]
 
 (1) Subject to paragraph (2), the Recall Petition (Petition Officers’ Charges) Regulations 2016[^f00003] are revoked.
 
@@ -122,7 +122,7 @@ Two of the Lord Commissioners of His Majesty’s Treasury
 
 5th March 2024
 
-## SCHEDULE 1 — Maximum recoverable amount for specified services[^key-d604fdb0a0f77ec0d499719cd163f23b]
+## SCHEDULE 1 — Maximum recoverable amount for specified services[^c-d604fdb0a0f77ec0d499719cd163f23b]
 
 Regulation 2
 
@@ -136,7 +136,7 @@ Regulation 2
 | Persons employed as petition clerks to preside at designated signing places | £18.38 per hour between the hours of 9am and 5pm on a Monday to Friday and £27.58 per hour at any other time | £22.98 per hour between the hours of 9am and 5pm on a Monday to Friday and £34.48 per hour at any other time | £22.06 per hour between the hours of 9am and 5pm on a Monday to Friday and £33.10 per hour at any other time |
 | Petition clerks’ assistants’ services | £14.18 per hour between the hours of 9am and 5pm on a Monday to Friday and £21.27 per hour at any other time | £17.73 per hour between the hours of 9am and 5pm on a Monday to Friday and £26.59 per hour at any other time | £17.02 per hour between the hours of 9am and 5pm on a Monday to Friday and £25.52 per hour at any other time |
 
-## SCHEDULE 2 — Maximum recoverable amount for specified expenses[^key-9bbf7c64245ecbba43a22ae1349cde99]
+## SCHEDULE 2 — Maximum recoverable amount for specified expenses[^c-9bbf7c64245ecbba43a22ae1349cde99]
 
 Regulation 3
 
@@ -146,7 +146,7 @@ Regulation 3
 | Printing and producing the official petition notices and costs associated with their issue | £50,417.81 | £63,022.27 | £60, 501.38 |
 | Printing / producing the postal signing sheets and costs associated with their issue and return | £38,342.06 | £47,927.57 | £46,010.47 |
 | Office equipment and software in relation to the count and verification | £300.00 | £375.00 | £360.00 |
-| Renting, heating, lighting and cleaning any building or room[^key-58acbafb9eda7c2d793ff20ffef750a6] | £9,932.50 per designated signing place | £12,415.62 per designated signing place | £11,918.99 per designated signing place |
+| Renting, heating, lighting and cleaning any building or room[^c-58acbafb9eda7c2d793ff20ffef750a6] | £9,932.50 per designated signing place | £12,415.62 per designated signing place | £11,918.99 per designated signing place |
 | Delivery of training and associated costs | £400.00 | £500.00 | £480.00 |
 | The payment of persons employed as petition clerks, or assistants of such clerks, or persons employed in relation to the count, who attend training for those purposes | £30.00 per petition clerk / assistant whose primary duties are in connection with a petition signing place | £37.50 per petition clerk / assistant whose primary duties are in connection with a petition signing place | £36.00 per petition clerk / assistant whose primary duties are in connection with a petition signing place |
 | Taken together–<br>(a) printing or otherwise producing and, where appropriate, publishing notices and any other documents required by or under any enactment for or in connection with the recall petition;<br>(b) providing and transporting ballot boxes, petition signing sheets and other materials and equipment needed for administration of the recall petition;<br>(c) providing security, including secure storage of ballot boxes, petition signing sheets and other materials and equipment needed for the administration of the recall petition;<br>(d) providing stationery and meeting postage, telephone, printing, translation and banking costs and the costs of other miscellaneous items;<br>(e) adapting or restoring to normal use any room or building designated as a petition signing place, including transportation costs for temporary adaptations that cannot be securely stored in the building or room overnight;<br>(f) travel and overnight subsistence for the petition officer and any person appointed to assist the petition officer. | £1,333.50 | £1,666.88 | £1,600.20 |
@@ -171,22 +171,22 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2015 c. 25](https://www.legislation.gov.uk/ukpga/2015/25). See section 22(1) for the definition of “the Minister”.
 
-[^key-7591ec1c2c68849922c227e4e02d7bb4]: Commencement: Reg. 1 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-7591ec1c2c68849922c227e4e02d7bb4]: Commencement: Reg. 1 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
 [^f00002]: Footnote: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 
-[^key-7c2376ef9d9d0580ae2a69e38b496398]: Commencement: Reg. 2 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-7c2376ef9d9d0580ae2a69e38b496398]: Commencement: Reg. 2 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
-[^key-9c1c53bd8b7e31aa6184ce9a66618885]: Commencement: Reg. 3 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-9c1c53bd8b7e31aa6184ce9a66618885]: Commencement: Reg. 3 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
-[^key-a006bb406df0801fa0489fc1fb079f94]: Commencement: Reg. 4 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-a006bb406df0801fa0489fc1fb079f94]: Commencement: Reg. 4 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
-[^key-bca4a0344a89f690fe4c414683e211b0]: Commencement: Reg. 5 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-bca4a0344a89f690fe4c414683e211b0]: Commencement: Reg. 5 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2016/637](https://www.legislation.gov.uk/uksi/2016/637).
 
-[^key-d604fdb0a0f77ec0d499719cd163f23b]: Commencement: Sch. 1 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-d604fdb0a0f77ec0d499719cd163f23b]: Commencement: Sch. 1 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
-[^key-9bbf7c64245ecbba43a22ae1349cde99]: Commencement: Sch. 2 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
+[^c-9bbf7c64245ecbba43a22ae1349cde99]: Commencement: Sch. 2 in force at 6.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/298/regulation/1/1)
 
-[^key-58acbafb9eda7c2d793ff20ffef750a6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2024/298/schedule/2) Table substituted (18.4.2024) by [The Recall Petition (Petition Officers’ Charges) (Amendment) Regulations 2024 (S.I. 2024/525)](https://www.legislation.gov.uk/uksi/2024/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/525/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/525/regulation/2/2)
+[^c-58acbafb9eda7c2d793ff20ffef750a6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2024/298/schedule/2) Table substituted (18.4.2024) by [The Recall Petition (Petition Officers’ Charges) (Amendment) Regulations 2024 (S.I. 2024/525)](https://www.legislation.gov.uk/uksi/2024/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/525/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/525/regulation/2/2)

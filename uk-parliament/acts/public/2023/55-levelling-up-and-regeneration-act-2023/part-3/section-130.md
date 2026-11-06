@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Regulations and orders under the Planning Acts[^key-2f4556979d059aa40207d9b050975386]
+## 130. Regulations and orders under the Planning Acts[^c-2f4556979d059aa40207d9b050975386]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f4556979d059aa40207d9b050975386]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2023/55/section/130) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-2f4556979d059aa40207d9b050975386]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2023/55/section/130) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

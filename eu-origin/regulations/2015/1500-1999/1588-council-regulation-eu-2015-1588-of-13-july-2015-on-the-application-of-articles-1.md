@@ -36,58 +36,58 @@ on the application of Articles 107 and 108 of the Treaty on the Functioning of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-acccd4e160e1d234c770196c1ce1e267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acccd4e160e1d234c770196c1ce1e267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Block exemptions[^key-acccd4e160e1d234c770196c1ce1e267]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. De minimis[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 1. Block exemptions[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transparency and monitoring[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 2. De minimis[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Period of validity and amendment of regulations[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 3. Transparency and monitoring[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Evaluation report[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 4. Period of validity and amendment of regulations[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Hearing of interested parties[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 5. Evaluation report[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Advisory Committee on State aid[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 6. Hearing of interested parties[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Consultation of the Committee[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 7. Advisory Committee on State aid[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Repeal[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 8. Consultation of the Committee[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 9. Repeal[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-acccd4e160e1d234c770196c1ce1e267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — REPEALED REGULATION WITH ITS AMENDMENT[^key-acccd4e160e1d234c770196c1ce1e267]
+## Article 10. Entry into force[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — CORRELATION TABLE[^key-acccd4e160e1d234c770196c1ce1e267]
+[^c-acccd4e160e1d234c770196c1ce1e267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — REPEALED REGULATION WITH ITS AMENDMENT[^c-acccd4e160e1d234c770196c1ce1e267]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — CORRELATION TABLE[^c-acccd4e160e1d234c770196c1ce1e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-acccd4e160e1d234c770196c1ce1e267]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(p)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/p) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-acccd4e160e1d234c770196c1ce1e267]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(p)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/p) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

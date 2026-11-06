@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Information supplied by worker and employer[^key-c2d8f4be62f55511f2fd9080646de5d2]
+## 44. Information supplied by worker and employer[^c-c2d8f4be62f55511f2fd9080646de5d2]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ After section 16 of the National Minimum Wage Act 1998 (c. 39) insert—
 
 ## Annotations
 
-[^key-c2d8f4be62f55511f2fd9080646de5d2]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2004/24/section/44) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 14](https://www.legislation.gov.uk/uksi/2005/872/article/14))
+[^c-c2d8f4be62f55511f2fd9080646de5d2]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2004/24/section/44) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 14](https://www.legislation.gov.uk/uksi/2005/872/article/14))

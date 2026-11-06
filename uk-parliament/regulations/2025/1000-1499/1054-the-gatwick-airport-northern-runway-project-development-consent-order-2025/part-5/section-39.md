@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Special category land[^key-7493ac94226b3f6b8e8e2dbef7ded31e]
+## 39. Special category land[^c-7493ac94226b3f6b8e8e2dbef7ded31e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7493ac94226b3f6b8e8e2dbef7ded31e]: Commencement: Art. 39 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-7493ac94226b3f6b8e8e2dbef7ded31e]: Commencement: Art. 39 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

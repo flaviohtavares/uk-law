@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 573B. Notice under section 572: further condition relating to shares not met[^key-3a1a0d52fe0fcea84a9e202940bf0d63]
+## 573B. Notice under section 572: further condition relating to shares not met[^c-3a1a0d52fe0fcea84a9e202940bf0d63]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ In paragraph (a) the reference to a business includes a part of a business.
 
 ## Annotations
 
-[^key-3a1a0d52fe0fcea84a9e202940bf0d63]: Textual amendment: S. 573B inserted (with effect in accordance with Sch. 4 para. 21 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/20)
+[^c-3a1a0d52fe0fcea84a9e202940bf0d63]: Textual amendment: S. 573B inserted (with effect in accordance with Sch. 4 para. 21 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 450. Approval and signing of abbreviated accounts[^key-05bfb9f0db1fa981c2598fe544b7e6a7]
+## 450. Approval and signing of abbreviated accounts[^c-05bfb9f0db1fa981c2598fe544b7e6a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05bfb9f0db1fa981c2598fe544b7e6a7]: Textual amendment: S. 450 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [8(9)](https://www.legislation.gov.uk/uksi/2015/980/regulation/8/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-05bfb9f0db1fa981c2598fe544b7e6a7]: Textual amendment: S. 450 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [8(9)](https://www.legislation.gov.uk/uksi/2015/980/regulation/8/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

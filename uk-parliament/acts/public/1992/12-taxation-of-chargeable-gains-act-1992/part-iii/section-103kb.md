@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103KB. Carried interest: consideration on disposal etc of right[^key-a15faf347060a1bdcf8e965269e80318][^key-e022a4fc97529bd5149a58dc34a88cad]
+## 103KB. Carried interest: consideration on disposal etc of right[^c-a15faf347060a1bdcf8e965269e80318][^c-e022a4fc97529bd5149a58dc34a88cad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a15faf347060a1bdcf8e965269e80318]: Textual amendment: Ss. 103KB-103KE omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(9)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/9)
+[^c-a15faf347060a1bdcf8e965269e80318]: Textual amendment: Ss. 103KB-103KE omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(9)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/9)
 
-[^key-e022a4fc97529bd5149a58dc34a88cad]: Textual amendment: Pt. 3 Ch. 5 inserted (with effect in accordance with s. 43(2)-(4) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/1)
+[^c-e022a4fc97529bd5149a58dc34a88cad]: Textual amendment: Pt. 3 Ch. 5 inserted (with effect in accordance with s. 43(2)-(4) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/1)

@@ -20,28 +20,28 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-1764fd74d2724d7b1206b8828b2c682a] The appropriate authority may by regulations make provision—
+(1)[^c-1764fd74d2724d7b1206b8828b2c682a] The appropriate authority may by regulations make provision—
 
 - (a) with a view to preventing, or reducing the likelihood of, contraventions of section 95(1);
 - (b) as to the consequences applicable in the event of contraventions of section 95(1).
 
-(2)[^key-1764fd74d2724d7b1206b8828b2c682a] The provision that may be made under subsection (1) includes (in particular)—
+(2)[^c-1764fd74d2724d7b1206b8828b2c682a] The provision that may be made under subsection (1) includes (in particular)—
 
 - (a) provision for transactions entered into in breach of section 95(1) to be set aside or to be ineffective;
 - (b) provision about entries on registers relating to land.
 
-(3)[^key-1764fd74d2724d7b1206b8828b2c682a] The provision that may be made under subsection (1) includes provision amending—
+(3)[^c-1764fd74d2724d7b1206b8828b2c682a] The provision that may be made under subsection (1) includes provision amending—
 
 - (a) legislation, or
 - (b) an instrument made under legislation.
 
 (4) In subsection (3) “**legislation**” means—
 
-- (a)[^key-1764fd74d2724d7b1206b8828b2c682a] an Act, or
+- (a)[^c-1764fd74d2724d7b1206b8828b2c682a] an Act, or
 - (b) a Measure or Act of the National Assembly for Wales.
 
 ## Annotations
 
 [^c2116513]: Commencement: S. 101 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-1764fd74d2724d7b1206b8828b2c682a]: Commencement: S. 101(1)-(3) (4)(a) in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-1764fd74d2724d7b1206b8828b2c682a]: Commencement: S. 101(1)-(3) (4)(a) in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

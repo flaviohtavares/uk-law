@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 407. Postponement until redemption of debits for connected companies' deeply discounted securities[^key-7621173b200ca799c480a0f276d5f482][^key-8db2cb32ebc99b685b210d989805e24a]
+## 407. Postponement until redemption of debits for connected companies' deeply discounted securities[^c-7621173b200ca799c480a0f276d5f482][^c-8db2cb32ebc99b685b210d989805e24a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7621173b200ca799c480a0f276d5f482]: Textual amendment: S. 407 omitted (with effect in accordance with s. 25(6)-(14) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(2)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/2/c)
+[^c-7621173b200ca799c480a0f276d5f482]: Textual amendment: S. 407 omitted (with effect in accordance with s. 25(6)-(14) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(2)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/2/c)
 
-[^key-8db2cb32ebc99b685b210d989805e24a]: Modification: Ss. 406-412 excluded by [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296), [reg. 19(3)](https://www.legislation.gov.uk/uksi/2006/3296/regulation/19) (as substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Securitisation Companies (Amendment) Regulations 2018 (S.I. 2018/143)](https://www.legislation.gov.uk/uksi/2018/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/143/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/143/regulation/10/3))
+[^c-8db2cb32ebc99b685b210d989805e24a]: Modification: Ss. 406-412 excluded by [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296), [reg. 19(3)](https://www.legislation.gov.uk/uksi/2006/3296/regulation/19) (as substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Securitisation Companies (Amendment) Regulations 2018 (S.I. 2018/143)](https://www.legislation.gov.uk/uksi/2018/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/143/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/143/regulation/10/3))

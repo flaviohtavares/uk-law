@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Meaning of “disciplinary penalty”[^key-a3ea7c17055fb9b55ec79c8551e78b07][^key-815c6be100412ac1b4c2634d8bbb4a82]
+## 90. Meaning of “disciplinary penalty”[^c-a3ea7c17055fb9b55ec79c8551e78b07][^c-815c6be100412ac1b4c2634d8bbb4a82]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ea7c17055fb9b55ec79c8551e78b07]: Commencement: S. 90 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
+[^c-a3ea7c17055fb9b55ec79c8551e78b07]: Commencement: S. 90 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
 
-[^key-815c6be100412ac1b4c2634d8bbb4a82]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2006/40/section/90) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/c)
+[^c-815c6be100412ac1b4c2634d8bbb4a82]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2006/40/section/90) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/c)

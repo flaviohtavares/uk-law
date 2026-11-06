@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of the Animal Health, Alien Species in Aquaculture and Invasive Non-native Species (Amendment) (EU Exit) Regulations 2019[^key-8c9ec4d720e9f272c9ed3621e9d2194b]
+## 37. Amendment of the Animal Health, Alien Species in Aquaculture and Invasive Non-native Species (Amendment) (EU Exit) Regulations 2019[^c-8c9ec4d720e9f272c9ed3621e9d2194b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Animal Health, Alien Species in Aquaculture and Invasive Non-native Speci
 
 ## Annotations
 
-[^key-8c9ec4d720e9f272c9ed3621e9d2194b]: Commencement: Reg. 37 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
+[^c-8c9ec4d720e9f272c9ed3621e9d2194b]: Commencement: Reg. 37 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
 
 [^c24364501]: Marginal citation: [S.I. 2019/813](https://www.legislation.gov.uk/uksi/2019/813).

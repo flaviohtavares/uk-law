@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Expenses incurred by traders on food and drink[^key-2a2b551805458086bb8229337abec15a]
+## 57A. Expenses incurred by traders on food and drink[^c-2a2b551805458086bb8229337abec15a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a2b551805458086bb8229337abec15a]: Textual amendment: S. 57A and cross-heading inserted (with effect in accordance with art. 3(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [3](https://www.legislation.gov.uk/uksi/2009/730/article/3)
+[^c-2a2b551805458086bb8229337abec15a]: Textual amendment: S. 57A and cross-heading inserted (with effect in accordance with art. 3(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [3](https://www.legislation.gov.uk/uksi/2009/730/article/3)

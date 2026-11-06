@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Training the school workforce: powers of Secretary of State and Welsh Ministers[^key-8344b839f6dc47e91535b2e1186ea175]
+## 15. Training the school workforce: powers of Secretary of State and Welsh Ministers[^c-8344b839f6dc47e91535b2e1186ea175]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8344b839f6dc47e91535b2e1186ea175]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/21/section/15) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8344b839f6dc47e91535b2e1186ea175]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/21/section/15) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -50,7 +50,7 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and effect[^key-09157ac183f969468458d78ef126a713]
+### 1. Citation, commencement and effect[^c-09157ac183f969468458d78ef126a713]
 
 (1) These Regulations may be cited as the National Health Service (Superannuation Scheme, Pension Scheme, Injury Benefits and Additional Voluntary Contributions) (Scotland) Amendment (No. 2) Regulations 2010.
 
@@ -73,11 +73,11 @@ In accordance with section 10(4) of that Act, the Scottish Ministers have consu
 
 ## PART 2 — Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 1995
 
-### 2. Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 1995[^key-1983bc4dcf999c04a20081a96b901dac]
+### 2. Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 1995[^c-1983bc4dcf999c04a20081a96b901dac]
 
 The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f00006] are amended as follows.
 
-### 3. Amendment of regulation A2[^key-30b4b8dbf1faef4ae58a17065c2fbe2c]
+### 3. Amendment of regulation A2[^c-30b4b8dbf1faef4ae58a17065c2fbe2c]
 
 (1) Regulation A2 (interpretation) is amended as follows.
 
@@ -100,7 +100,7 @@ The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f
 
 .
 
-### 4. Amendment of regulation B2[^key-a050f4d31d0b278a1736d9ab3eefe63b]
+### 4. Amendment of regulation B2[^c-a050f4d31d0b278a1736d9ab3eefe63b]
 
 (1) Regulation B2 (age limits and restrictions on membership) is amended as follows.
 
@@ -158,7 +158,7 @@ The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f
 
 (3) In paragraph (2)(b), for “regulations E6, E9” substitute “regulations E2, E2A, E6, E9, L1,”.
 
-### 5. Amendment of regulation D1[^key-df9540c122b610efdbb421382127487c]
+### 5. Amendment of regulation D1[^c-df9540c122b610efdbb421382127487c]
 
 (1) Regulation D1 (contributions by members) is amended as follows.
 
@@ -214,7 +214,7 @@ The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f
 
 (6) In paragraphs (2E) to (2R) and (2V) for “the table in paragraph (1A)” substitute “the relevant table”.
 
-### 6. Amendment of regulation D2[^key-7b16181c216e11effd7acc7eb5020526]
+### 6. Amendment of regulation D2[^c-7b16181c216e11effd7acc7eb5020526]
 
 For paragraphs (1) and (2) of regulation D2 (contributions and other payments by employing authorities), substitute—
 
@@ -228,7 +228,7 @@ For paragraphs (1) and (2) of regulation D2 (contributions and other payments by
 
 .
 
-### 7. Amendment of regulation E2B[^key-47e9319769980f79cbc7a2cc1812fdc0]
+### 7. Amendment of regulation E2B[^c-47e9319769980f79cbc7a2cc1812fdc0]
 
 For paragraph (2)(e) of regulation E2B (re-assessment of ill-health condition determined under regulation E2A), substitute—
 
@@ -240,15 +240,15 @@ For paragraph (2)(e) of regulation E2B (re-assessment of ill-health condition de
 
 .
 
-### 8. Amendment of regulation E5[^key-97cdfc74c672a1c70bc5bfec08d0d573]
+### 8. Amendment of regulation E5[^c-97cdfc74c672a1c70bc5bfec08d0d573]
 
 In paragraph (2) of regulation E5 (early retirement pension (with actuarial reduction)), for “but” substitute “, and except for any pension in respect of service calculated as a result of exercising the right to buy additional service under regulation Q1 or the right to buy an unreduced retirement lump sum under regulation Q2,”.
 
-### 9. Amendment of regulation E8[^key-81a9bd6e6f6397a9c88e21b3c6a44ef3]
+### 9. Amendment of regulation E8[^c-81a9bd6e6f6397a9c88e21b3c6a44ef3]
 
 In paragraph (7)(b) of regulation E8 (deductions from lump sum), after “will” insert “, except for any lump sum in respect of service calculated as a result of exercising the right to buy additional service under regulation Q1 or the right to buy an unreduced retirement lump sum under regulation Q2,”.
 
-### 10. Amendment of regulation F5[^key-5313c15cfa988bd91811b3e2e335fc2b]
+### 10. Amendment of regulation F5[^c-5313c15cfa988bd91811b3e2e335fc2b]
 
 After paragraph (12) of regulation F5 (payment of lump sum), insert—
 
@@ -256,7 +256,7 @@ After paragraph (12) of regulation F5 (payment of lump sum), insert—
 
 .
 
-### 11. Amendment of regulation G3[^key-dd8783b057239a923f40d54ff5cd50be]
+### 11. Amendment of regulation G3[^c-dd8783b057239a923f40d54ff5cd50be]
 
 For paragraph (3)(a) of regulation G3 (widow’s pension when member dies after pension becomes payable), substitute—
 
@@ -266,7 +266,7 @@ For paragraph (3)(a) of regulation G3 (widow’s pension when member dies after 
 
 .
 
-### 12. Amendment of regulation G14[^key-eb58792e985cd73bb4a2f18300225fd9]
+### 12. Amendment of regulation G14[^c-eb58792e985cd73bb4a2f18300225fd9]
 
 After paragraph (9) of regulation G14 (surviving nominated partner’s pension), insert—
 
@@ -274,14 +274,14 @@ After paragraph (9) of regulation G14 (surviving nominated partner’s pension),
 
 .
 
-### 13. Amendment of regulation H4[^key-c52e2555deebd828f72055ac0bf3bb6d]
+### 13. Amendment of regulation H4[^c-c52e2555deebd828f72055ac0bf3bb6d]
 
 In paragraph (2) of regulation H4 (child allowance when member dies after pension becomes payable)—
 
 - (a) in sub-paragraph (b)(i), after “regulation 3.K.1 (application of chapter 3.K)” insert “or a Waiting Period Joiner within the meaning of regulation 2.L.1 or 3.L.1”;
 - (b) in sub-paragraph (b)(ii), after “2008 Section Optant” insert “or Waiting Period Joiner”.
 
-### 14. Amendment of Part K[^key-7e249dad4269a79dc355eaaed4ccad58]
+### 14. Amendment of Part K[^c-7e249dad4269a79dc355eaaed4ccad58]
 
 (1) Part K (contracting-out and guaranteed minimum pensions) is amended as follows.
 
@@ -298,11 +298,11 @@ In paragraph (2) of regulation H4 (child allowance when member dies after pensio
 - (c) paragraph (1) of regulation K4 (early leavers) where it occurs three times; and
 - (d) paragraphs (1), (2) and (3) of regulation K5 (guaranteed minimum pensions transferred to this Section of the scheme).
 
-### 15. Amendment of regulation M6A[^key-7908fb37c08fc6a95f12b041b9373f51]
+### 15. Amendment of regulation M6A[^c-7908fb37c08fc6a95f12b041b9373f51]
 
 In paragraph (3)(b) of regulation M6A (member’s right to transfer a preserved pension to the 2008 section), for “B2(1)(i)” substitute “B2(1)(i), (k) or (l)”.
 
-### 16. Amendment of regulation Q7[^key-807d99caae28f779d138ce09b8e0b5bd]
+### 16. Amendment of regulation Q7[^c-807d99caae28f779d138ce09b8e0b5bd]
 
 For paragraph (6) of regulation Q7 (part payment for additional service or unreduced retirement lump sum), substitute—
 
@@ -313,7 +313,7 @@ For paragraph (6) of regulation Q7 (part payment for additional service or unred
 
 .
 
-### 17. Substitution of regulation Q17[^key-f2e585d4b1ebd367d0a6638ada048687]
+### 17. Substitution of regulation Q17[^c-f2e585d4b1ebd367d0a6638ada048687]
 
 For regulation Q17 (revaluation of increases bought under options: members’ pensions), substitute—
 
@@ -350,7 +350,7 @@ For regulation Q17 (revaluation of increases bought under options: members’ pe
 
 .
 
-### 18. Amendment of regulation U3[^key-6d22ae0c41906000ac44e0aeb898dde7]
+### 18. Amendment of regulation U3[^c-6d22ae0c41906000ac44e0aeb898dde7]
 
 (1) Regulation U3 (accounts and actuarial reports) is amended as follows.
 
@@ -367,7 +367,7 @@ For regulation Q17 (revaluation of increases bought under options: members’ pe
 
 .
 
-### 19. Amendment of Part W[^key-224a7349fe2f7c4e5e33a1473f40ffea]
+### 19. Amendment of Part W[^c-224a7349fe2f7c4e5e33a1473f40ffea]
 
 Part W (pension sharing on divorce or nullity of marriage or on dissolution or nullity of a civil partnership) is amended as follows—
 
@@ -412,7 +412,7 @@ Part W (pension sharing on divorce or nullity of marriage or on dissolution or 
   ; and
 - (d) in regulation W16 (commutation: exceptional ill-health), in paragraph (3), after “regulation W11(7)”, insert “, (8) and (9)”.
 
-### 20. Amendment of Schedule 1[^key-a96ec8b75d7f2d4891195f0f10742581]
+### 20. Amendment of Schedule 1[^c-a96ec8b75d7f2d4891195f0f10742581]
 
 (1) Paragraph 10 (contributions to this Section of the scheme) of Schedule 1 (medical and dental practitioners) is amended as follows.
 
@@ -479,241 +479,241 @@ Part W (pension sharing on divorce or nullity of marriage or on dissolution or 
 
 .
 
-### 21. Amendment of references to “2008 scheme” to “2008 section”[^key-17da2cb1c3cc409c1371b3b12db1dd83]
+### 21. Amendment of references to “2008 scheme” to “2008 section”[^c-17da2cb1c3cc409c1371b3b12db1dd83]
 
 The amendments specified in the Schedule to these Regulations have effect.
 
 ## PART 3 — Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2008
 
-### 22. Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2008[^key-0cbec29211c41772fa44430121909a15]
+### 22. Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2008[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Amendment of regulation 1.B.1[^key-0cbec29211c41772fa44430121909a15]
+### 23. Amendment of regulation 1.B.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendment of regulation 2.A.1[^key-0cbec29211c41772fa44430121909a15]
+### 24. Amendment of regulation 2.A.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Amendment of regulation 2.A.10[^key-0cbec29211c41772fa44430121909a15]
+### 25. Amendment of regulation 2.A.10[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Amendment of regulation 2.B.1[^key-0cbec29211c41772fa44430121909a15]
+### 26. Amendment of regulation 2.B.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Substitution of regulation 2.B.1A[^key-0cbec29211c41772fa44430121909a15]
+### 27. Substitution of regulation 2.B.1A[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Amendment of regulation 2.B.2[^key-0cbec29211c41772fa44430121909a15]
+### 28. Amendment of regulation 2.B.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Substitution of regulation 2.C.1[^key-0cbec29211c41772fa44430121909a15]
+### 29. Substitution of regulation 2.C.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Substitution of regulation 2.C.2[^key-0cbec29211c41772fa44430121909a15]
+### 30. Substitution of regulation 2.C.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Amendment of regulation 2.C.3[^key-0cbec29211c41772fa44430121909a15]
+### 31. Amendment of regulation 2.C.3[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Substitution of regulation 2.C.4[^key-0cbec29211c41772fa44430121909a15]
+### 32. Substitution of regulation 2.C.4[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Substitution of regulation 2.C.5[^key-0cbec29211c41772fa44430121909a15]
+### 33. Substitution of regulation 2.C.5[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Amendment of regulation 2.C.6[^key-0cbec29211c41772fa44430121909a15]
+### 34. Amendment of regulation 2.C.6[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Substitution of regulation 2.C.17[^key-0cbec29211c41772fa44430121909a15]
+### 35. Substitution of regulation 2.C.17[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Amendment of regulation 2.D.2[^key-0cbec29211c41772fa44430121909a15]
+### 36. Amendment of regulation 2.D.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Amendment of regulation 2.D.8[^key-0cbec29211c41772fa44430121909a15]
+### 37. Amendment of regulation 2.D.8[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Amendment of regulation 2.D.14[^key-0cbec29211c41772fa44430121909a15]
+### 38. Amendment of regulation 2.D.14[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Amendment of regulation 2.D.15[^key-0cbec29211c41772fa44430121909a15]
+### 39. Amendment of regulation 2.D.15[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Omission of regulation 2.D.17[^key-0cbec29211c41772fa44430121909a15]
+### 40. Omission of regulation 2.D.17[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Amendment of regulation 2.E.2[^key-0cbec29211c41772fa44430121909a15]
+### 41. Amendment of regulation 2.E.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Amendment of regulation 2.E.3[^key-0cbec29211c41772fa44430121909a15]
+### 42. Amendment of regulation 2.E.3[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Amendment of regulation 2.E.10[^key-0cbec29211c41772fa44430121909a15]
+### 43. Amendment of regulation 2.E.10[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Amendment of regulation 2.E.11[^key-0cbec29211c41772fa44430121909a15]
+### 44. Amendment of regulation 2.E.11[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Amendment of regulation 2.E.12[^key-0cbec29211c41772fa44430121909a15]
+### 45. Amendment of regulation 2.E.12[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Amendment of regulation 2.E.17[^key-0cbec29211c41772fa44430121909a15]
+### 46. Amendment of regulation 2.E.17[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Amendment of regulation 2.E.21[^key-0cbec29211c41772fa44430121909a15]
+### 47. Amendment of regulation 2.E.21[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Amendment of regulation 2.H.4[^key-0cbec29211c41772fa44430121909a15]
+### 48. Amendment of regulation 2.H.4[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 49. Amendment of regulation 2.K.1[^key-0cbec29211c41772fa44430121909a15]
+### 49. Amendment of regulation 2.K.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Amendment of regulation 2.K.2[^key-0cbec29211c41772fa44430121909a15]
+### 50. Amendment of regulation 2.K.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 51. Amendment of regulation 2.K.12[^key-0cbec29211c41772fa44430121909a15]
+### 51. Amendment of regulation 2.K.12[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 52. New Chapter 2.L[^key-0cbec29211c41772fa44430121909a15]
+### 52. New Chapter 2.L[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 53. Amendment of regulation 3.A.1[^key-0cbec29211c41772fa44430121909a15]
+### 53. Amendment of regulation 3.A.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 54. Amendment of regulation 3.B.1[^key-0cbec29211c41772fa44430121909a15]
+### 54. Amendment of regulation 3.B.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 55. Substitution of regulation 3.B.1A[^key-0cbec29211c41772fa44430121909a15]
+### 55. Substitution of regulation 3.B.1A[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 56. Amendment of regulation 3.B.2[^key-0cbec29211c41772fa44430121909a15]
+### 56. Amendment of regulation 3.B.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 57. Amendment of regulation 3.C.1[^key-0cbec29211c41772fa44430121909a15]
+### 57. Amendment of regulation 3.C.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 58. Amendment of regulation 3.C.2[^key-0cbec29211c41772fa44430121909a15]
+### 58. Amendment of regulation 3.C.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 59. Amendment of regulation 3.C.3[^key-0cbec29211c41772fa44430121909a15]
+### 59. Amendment of regulation 3.C.3[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 60. Substitution of regulation 3.C.15[^key-0cbec29211c41772fa44430121909a15]
+### 60. Substitution of regulation 3.C.15[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 61. Amendment of regulation 3.D.2[^key-0cbec29211c41772fa44430121909a15]
+### 61. Amendment of regulation 3.D.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 62. Amendment of regulation 3.D.7[^key-0cbec29211c41772fa44430121909a15]
+### 62. Amendment of regulation 3.D.7[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 63. Amendment of regulation 3.D.10[^key-0cbec29211c41772fa44430121909a15]
+### 63. Amendment of regulation 3.D.10[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 64. Amendment of regulation 3.D.11[^key-0cbec29211c41772fa44430121909a15]
+### 64. Amendment of regulation 3.D.11[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 65. Omission of regulation 3.D.13[^key-0cbec29211c41772fa44430121909a15]
+### 65. Omission of regulation 3.D.13[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 66. Amendment of regulation 3.E.2[^key-0cbec29211c41772fa44430121909a15]
+### 66. Amendment of regulation 3.E.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 67. Amendment of regulation 3.E.10[^key-0cbec29211c41772fa44430121909a15]
+### 67. Amendment of regulation 3.E.10[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 68. Amendment of regulation 3.E.11[^key-0cbec29211c41772fa44430121909a15]
+### 68. Amendment of regulation 3.E.11[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 69. Amendment of regulation 3.E.12[^key-0cbec29211c41772fa44430121909a15]
+### 69. Amendment of regulation 3.E.12[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 70. Amendment of regulation 3.E.17[^key-0cbec29211c41772fa44430121909a15]
+### 70. Amendment of regulation 3.E.17[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 71. Amendment of regulation 3.E.21[^key-0cbec29211c41772fa44430121909a15]
+### 71. Amendment of regulation 3.E.21[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 72. Amendment of regulation 3.H.4[^key-0cbec29211c41772fa44430121909a15]
+### 72. Amendment of regulation 3.H.4[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 73. Amendment of regulation 3.K.1[^key-0cbec29211c41772fa44430121909a15]
+### 73. Amendment of regulation 3.K.1[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 74. Amendment of regulation 3.K.2[^key-0cbec29211c41772fa44430121909a15]
+### 74. Amendment of regulation 3.K.2[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 75. Amendment of regulation 3.K.8[^key-0cbec29211c41772fa44430121909a15]
+### 75. Amendment of regulation 3.K.8[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 76. New Chapter 3.L[^key-0cbec29211c41772fa44430121909a15]
+### 76. New Chapter 3.L[^c-0cbec29211c41772fa44430121909a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendment of the National Health Service (Superannuation Scheme, Pension Scheme, Inquiry Benefits and Additional Voluntary Contributions) (Scotland) Amendment Regulations 2010
 
-### 77. Amendment of Schedule 1[^key-742fdc84f7889314d325b846e5d25c14]
+### 77. Amendment of Schedule 1[^c-742fdc84f7889314d325b846e5d25c14]
 
 In the National Health Service (Superannuation Scheme, Pension Scheme, Injury Benefits and Additional Voluntary Contributions) (Scotland) Amendment Regulations 2010[^f00014], Part 2 of Schedule 1 is omitted.
 
 ## PART 5 — Amendment of the National Health Service (Scotland) (Injury Benefits) Regulations 1998
 
-### 78. Amendment of Regulation 2[^key-b78f5586715846e1bfbe28f78252ff31]
+### 78. Amendment of Regulation 2[^c-b78f5586715846e1bfbe28f78252ff31]
 
 (1) The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f00015] are amended as follows.
 
@@ -743,7 +743,7 @@ In the National Health Service (Superannuation Scheme, Pension Scheme, Injury Be
 
 ## PART 6 — Amendment of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998
 
-### 79. Amendment of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^key-89a44ff58872b9ae6edce7680371f90c]
+### 79. Amendment of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^c-89a44ff58872b9ae6edce7680371f90c]
 
 (1) The National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^f00016] are amended as follows.
 
@@ -799,7 +799,7 @@ In the National Health Service (Superannuation Scheme, Pension Scheme, Injury Be
 
 ## PART 7 — Miscellaneous
 
-### 80. Option to persons detrimentally affected by these Regulations[^key-cff6af526bc224ffa29c30ec1d9b2e3d]
+### 80. Option to persons detrimentally affected by these Regulations[^c-cff6af526bc224ffa29c30ec1d9b2e3d]
 
 (1) This regulation applies in relation to any benefit which is being paid or may become payable under the regulations amended by these Regulations to or in respect of a person who, having served in an employment or office, service in which qualified the person to participate in the benefits provided under the regulations amended by these Regulations, ceased to serve therein before these Regulations came into force.
 
@@ -829,11 +829,11 @@ Two of the Lord’s Commissioners of Her Majesty’s Treasury
 
 19th October 2010
 
-## SCHEDULE — AMENDMENTS[^key-cb2e1418dcc534b719912795793f0bf4]
+## SCHEDULE — AMENDMENTS[^c-cb2e1418dcc534b719912795793f0bf4]
 
 Regulation 21
 
-[^key-cb2e1418dcc534b719912795793f0bf4]
+[^c-cb2e1418dcc534b719912795793f0bf4]
 
 In the following provisions of the National Health Service Superannuation Scheme (Scotland) Regulations 1995, for “2008 scheme” substitute “2008 Section”—
 
@@ -901,7 +901,7 @@ Part 7 provides that deferred members, or members in receipt of a relevant bene
 
 [^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
 
-[^key-09157ac183f969468458d78ef126a713]: Commencement: Reg. 1 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-09157ac183f969468458d78ef126a713]: Commencement: Reg. 1 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00003]: Footnote: Section 12(1) of the Superannuation Act 1972 provides that Regulations may be framed so as to have effect from a date earlier than that of their making.
 
@@ -909,70 +909,70 @@ Part 7 provides that deferred members, or members in receipt of a relevant bene
 
 [^f00005]: Footnote: [S.S.I. 2008/224](https://www.legislation.gov.uk/ssi/2008/224).
 
-[^key-1983bc4dcf999c04a20081a96b901dac]: Commencement: Reg. 2 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-1983bc4dcf999c04a20081a96b901dac]: Commencement: Reg. 2 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 1995/365](https://www.legislation.gov.uk/uksi/1995/365) amended by [S.I. 1997/1434](https://www.legislation.gov.uk/uksi/1997/1434) and [1916](https://www.legislation.gov.uk/uksi/1997/1916), [1998/1593](https://www.legislation.gov.uk/uksi/1998/1593), [1999/443](https://www.legislation.gov.uk/uksi/1999/443), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437) and [465](https://www.legislation.gov.uk/ssi/2001/465), [2003/55](https://www.legislation.gov.uk/ssi/2003/55), [270](https://www.legislation.gov.uk/ssi/2003/270) and [517](https://www.legislation.gov.uk/ssi/2003/517), [2005/512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544), [2006/307](https://www.legislation.gov.uk/ssi/2006/307) and [561](https://www.legislation.gov.uk/ssi/2006/561), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [226](https://www.legislation.gov.uk/ssi/2008/226), [2009/19](https://www.legislation.gov.uk/ssi/2009/19) and [208](https://www.legislation.gov.uk/ssi/2009/208) and [2010/22](https://www.legislation.gov.uk/ssi/2010/22).
 
-[^key-30b4b8dbf1faef4ae58a17065c2fbe2c]: Commencement: Reg. 3 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-30b4b8dbf1faef4ae58a17065c2fbe2c]: Commencement: Reg. 3 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-a050f4d31d0b278a1736d9ab3eefe63b]: Commencement: Reg. 4 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-a050f4d31d0b278a1736d9ab3eefe63b]: Commencement: Reg. 4 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-df9540c122b610efdbb421382127487c]: Commencement: Reg. 5 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-df9540c122b610efdbb421382127487c]: Commencement: Reg. 5 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-7b16181c216e11effd7acc7eb5020526]: Commencement: Reg. 6 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-7b16181c216e11effd7acc7eb5020526]: Commencement: Reg. 6 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00007]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56) (”the 1971 Act”). Section 2 has been replaced by section 59 of the Social Security Pensions Act [1975 (c.60)](https://www.legislation.gov.uk/ukpga/1975/60) (“the 1975 Act”) but the 1975 Act provides that section 59 is to have effect as if contained in the 1971 Act.
 
-[^key-47e9319769980f79cbc7a2cc1812fdc0]: Commencement: Reg. 7 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-47e9319769980f79cbc7a2cc1812fdc0]: Commencement: Reg. 7 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-97cdfc74c672a1c70bc5bfec08d0d573]: Commencement: Reg. 8 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-97cdfc74c672a1c70bc5bfec08d0d573]: Commencement: Reg. 8 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-81a9bd6e6f6397a9c88e21b3c6a44ef3]: Commencement: Reg. 9 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-81a9bd6e6f6397a9c88e21b3c6a44ef3]: Commencement: Reg. 9 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-5313c15cfa988bd91811b3e2e335fc2b]: Commencement: Reg. 10 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-5313c15cfa988bd91811b3e2e335fc2b]: Commencement: Reg. 10 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-dd8783b057239a923f40d54ff5cd50be]: Commencement: Reg. 11 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-dd8783b057239a923f40d54ff5cd50be]: Commencement: Reg. 11 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-eb58792e985cd73bb4a2f18300225fd9]: Commencement: Reg. 12 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-eb58792e985cd73bb4a2f18300225fd9]: Commencement: Reg. 12 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-c52e2555deebd828f72055ac0bf3bb6d]: Commencement: Reg. 13 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-c52e2555deebd828f72055ac0bf3bb6d]: Commencement: Reg. 13 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-7e249dad4269a79dc355eaaed4ccad58]: Commencement: Reg. 14 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-7e249dad4269a79dc355eaaed4ccad58]: Commencement: Reg. 14 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-7908fb37c08fc6a95f12b041b9373f51]: Commencement: Reg. 15 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-7908fb37c08fc6a95f12b041b9373f51]: Commencement: Reg. 15 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-807d99caae28f779d138ce09b8e0b5bd]: Commencement: Reg. 16 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-807d99caae28f779d138ce09b8e0b5bd]: Commencement: Reg. 16 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-f2e585d4b1ebd367d0a6638ada048687]: Commencement: Reg. 17 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-f2e585d4b1ebd367d0a6638ada048687]: Commencement: Reg. 17 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00008]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
 [^f00009]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-6d22ae0c41906000ac44e0aeb898dde7]: Commencement: Reg. 18 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-6d22ae0c41906000ac44e0aeb898dde7]: Commencement: Reg. 18 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-224a7349fe2f7c4e5e33a1473f40ffea]: Commencement: Reg. 19 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-224a7349fe2f7c4e5e33a1473f40ffea]: Commencement: Reg. 19 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-a96ec8b75d7f2d4891195f0f10742581]: Commencement: Reg. 20 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-a96ec8b75d7f2d4891195f0f10742581]: Commencement: Reg. 20 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-17da2cb1c3cc409c1371b3b12db1dd83]: Commencement: Reg. 21 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-17da2cb1c3cc409c1371b3b12db1dd83]: Commencement: Reg. 21 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-0cbec29211c41772fa44430121909a15]: Textual amendment: Regs. 22-76 revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))
+[^c-0cbec29211c41772fa44430121909a15]: Textual amendment: Regs. 22-76 revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))
 
-[^key-742fdc84f7889314d325b846e5d25c14]: Commencement: Reg. 77 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-742fdc84f7889314d325b846e5d25c14]: Commencement: Reg. 77 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00014]: Footnote: [S.S.I. 2010/22](https://www.legislation.gov.uk/ssi/2010/22). Schedule 1, Part 2 erroneously referred to the National Health Service Pension Scheme (Scotland) Regulations 2008. The Schedule to these Regulations correctly refers to the National Health Service Superannuation Scheme (Scotland) Regulations 1995.
 
-[^key-b78f5586715846e1bfbe28f78252ff31]: Commencement: Reg. 78 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-b78f5586715846e1bfbe28f78252ff31]: Commencement: Reg. 78 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 1998/1594](https://www.legislation.gov.uk/uksi/1998/1594), as amended by [S.I. 1999/444](https://www.legislation.gov.uk/uksi/1999/444), [S.S.I. 1999/195](https://www.legislation.gov.uk/ssi/1999/195), [2001/437](https://www.legislation.gov.uk/ssi/2001/437), [2004/212](https://www.legislation.gov.uk/ssi/2004/212), [2005/445](https://www.legislation.gov.uk/ssi/2005/445), [512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [225](https://www.legislation.gov.uk/ssi/2008/225), [2009/19](https://www.legislation.gov.uk/ssi/2009/19) and [208](https://www.legislation.gov.uk/ssi/2009/208) and [2010/22](https://www.legislation.gov.uk/ssi/2010/22).
 
-[^key-89a44ff58872b9ae6edce7680371f90c]: Commencement: Reg. 79 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-89a44ff58872b9ae6edce7680371f90c]: Commencement: Reg. 79 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 1998/1451](https://www.legislation.gov.uk/uksi/1998/1451), as amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [S.S.I. 2001/465](https://www.legislation.gov.uk/ssi/2001/465), [2004/62](https://www.legislation.gov.uk/ssi/2004/62), [2005/544](https://www.legislation.gov.uk/ssi/2005/544), [2006/307](https://www.legislation.gov.uk/ssi/2006/307), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [225](https://www.legislation.gov.uk/ssi/2008/225) and [2010/22](https://www.legislation.gov.uk/ssi/2010/22).
 
 [^f00017]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).
 
-[^key-cff6af526bc224ffa29c30ec1d9b2e3d]: Commencement: Reg. 80 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-cff6af526bc224ffa29c30ec1d9b2e3d]: Commencement: Reg. 80 in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
 
-[^key-cb2e1418dcc534b719912795793f0bf4]: Commencement: Sch. in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)
+[^c-cb2e1418dcc534b719912795793f0bf4]: Commencement: Sch. in force at 17.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2)

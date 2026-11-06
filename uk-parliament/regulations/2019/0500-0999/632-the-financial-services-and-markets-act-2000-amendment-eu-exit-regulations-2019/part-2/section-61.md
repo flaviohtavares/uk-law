@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Section 204A (meaning of “relevant requirement” etc.)[^key-c910128ee487cd1757c9a0fb24f1943c]
+## 61. Section 204A (meaning of “relevant requirement” etc.)[^c-c910128ee487cd1757c9a0fb24f1943c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In section 204A [^c23658001] (meaning of “relevant requirement” etc.), in su
 
 ## Annotations
 
-[^key-c910128ee487cd1757c9a0fb24f1943c]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c910128ee487cd1757c9a0fb24f1943c]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658001]: Marginal citation: Section 204A was inserted by section 37(1) of, and paragraph 1 of Part 1 and paragraph 10 of Part 4 of Schedule 9 to, the Financial Services Act 2012.
 

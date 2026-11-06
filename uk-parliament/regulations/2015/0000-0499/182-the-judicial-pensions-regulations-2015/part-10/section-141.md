@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Transfer payment requests[^key-ce007abf2af0e89212e607e215d8ec9b]
+## 141. Transfer payment requests[^c-ce007abf2af0e89212e607e215d8ec9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce007abf2af0e89212e607e215d8ec9b]: Commencement: [Reg. 141](https://www.legislation.gov.uk/uksi/2015/182/regulation/141) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-ce007abf2af0e89212e607e215d8ec9b]: Commencement: [Reg. 141](https://www.legislation.gov.uk/uksi/2015/182/regulation/141) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

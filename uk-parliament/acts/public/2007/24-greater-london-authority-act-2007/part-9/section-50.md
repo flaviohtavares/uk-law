@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. The Mayor's culture strategy: consultation[^key-006b1aea3d3c4893e6ecc315634d351b]
+## 50. The Mayor's culture strategy: consultation[^c-006b1aea3d3c4893e6ecc315634d351b]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-006b1aea3d3c4893e6ecc315634d351b]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2007/24/section/50) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)
+[^c-006b1aea3d3c4893e6ecc315634d351b]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2007/24/section/50) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/113/article/2/j)

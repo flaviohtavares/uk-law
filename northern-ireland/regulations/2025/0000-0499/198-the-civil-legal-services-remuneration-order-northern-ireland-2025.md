@@ -46,11 +46,11 @@ In accordance with Article 47(2)(a) of the 2003 Order, the Department has consul
 
 In accordance with Article 47(1) of the 2003 Order, the Department has had regard to the matters specified in that provision.
 
-## 1. Citation and commencement[^key-3254e37fe70a3cd1afd8ba07ce12f037]
+## 1. Citation and commencement[^c-3254e37fe70a3cd1afd8ba07ce12f037]
 
 This Order may be cited as the Civil Legal Services (Remuneration) Order (Northern Ireland) 2025 and shall come into operation on 7th January 2026.
 
-## 2. Interpretation[^key-c385b648196da2a9aeebc9961ab4101a]
+## 2. Interpretation[^c-c385b648196da2a9aeebc9961ab4101a]
 
 In this Order, unless the context otherwise requires—
 
@@ -70,7 +70,7 @@ In this Order, unless the context otherwise requires—
 - “representation (higher courts)” and “representation (lower courts)” have the respective meanings given by regulation 2 of the General Regulations; and
 - “**representative**” means a solicitor or counsel.
 
-## 3. Application of this Order[^key-15d64efaa9f67edc344bbcdd99636a54]
+## 3. Application of this Order[^c-15d64efaa9f67edc344bbcdd99636a54]
 
 (1) Subject to paragraphs (2) to (6) and Article 4 this Order shall apply for the determination of the remuneration payable to representatives in respect of providing civil legal services—
 
@@ -89,11 +89,11 @@ In this Order, unless the context otherwise requires—
 
 (7) The rates set out in Schedule 3, Part 6, shall apply for the determination of remuneration payable to representatives for providing civil legal services where the certificate for civil legal services under the General Regulations is granted on or after 8 April 2025.
 
-## 4. Application of the 2015 Order[^key-1d03024b436558b77907582241c5f265]
+## 4. Application of the 2015 Order[^c-1d03024b436558b77907582241c5f265]
 
 The 2015 Order shall continue to apply for the determination of remuneration payable to representatives for providing civil legal services as set out in Article 3 of that Order.
 
-## 5. Amendment of the 2015 Order[^key-c395bd9673f6d6fba4259ab8f072ca85]
+## 5. Amendment of the 2015 Order[^c-c395bd9673f6d6fba4259ab8f072ca85]
 
 For Article 3 of the 2015 Order substitute –
 
@@ -106,7 +106,7 @@ For Article 3 of the 2015 Order substitute –
 >
 > (2) This Order shall not apply to the determination of remuneration payable to representatives in respect of providing civil legal services to which the Civil Legal Services (Remuneration) Order (Northern Ireland) 2025 applies (see Articles 3, 20 and 21 of that Order).
 
-## 6. General[^key-de6c03bc8205e581bb28e15ee13ff203]
+## 6. General[^c-de6c03bc8205e581bb28e15ee13ff203]
 
 (1) Subject to paragraph (2), the remuneration payable to representatives in respect of work done providing civil legal services to which this Order applies shall be determined by the Department in accordance with this Order and having regard to such directions and guidance as may be issued by the Department.
 
@@ -116,7 +116,7 @@ For Article 3 of the 2015 Order substitute –
 - (b) proceedings in the High Court or Court of Appeal, where the costs payable to the representative have been taxed by the taxing master;
 - (c) proceedings in the Supreme Court, where the costs payable to the representative have been assessed by the Registrar to the Supreme Court.
 
-## 7. Interim payments[^key-6f2f224699e9540a0f978a97e0c00a46]
+## 7. Interim payments[^c-6f2f224699e9540a0f978a97e0c00a46]
 
 (1) Paragraphs (2) to (9) of this Article apply only to—
 
@@ -151,13 +151,13 @@ For Article 3 of the 2015 Order substitute –
 
 (13) Articles 14 to 16 (redetermination etc.) shall not apply to a payment under this Article.
 
-## 8. Interim disbursements and final determination of costs[^key-92d3a15d2c66931f6f141e26b5fd0392]
+## 8. Interim disbursements and final determination of costs[^c-92d3a15d2c66931f6f141e26b5fd0392]
 
 (1) On a final determination of costs, Articles 9(2) and (5)(e) and 11 shall apply notwithstanding that a payment has been made under Article 7.
 
 (2) Where the amount found to be due under Article 11 in respect of a disbursement is less than the amount paid under Article 7 (“**the interim disbursement**”), the Department shall deduct the difference from the sum otherwise payable to the solicitor on the determination of costs, and where the amount due under Article 11 exceeds the interim disbursement, the Department shall add the difference to the amount otherwise payable to the solicitor.
 
-## 9. Claims for costs by representatives[^key-513da6a22a28cfe74bbb6fad13faf98a]
+## 9. Claims for costs by representatives[^c-513da6a22a28cfe74bbb6fad13faf98a]
 
 (1) Subject to Article 6(2), claims for remuneration by representatives shall be made and determined in accordance with the provisions of this Article and Schedules 1 to 4 to this Order, as applicable.
 
@@ -179,13 +179,13 @@ For Article 3 of the 2015 Order substitute –
 
 (7) The representative shall supply such further particulars, information and documents as the Department may require.
 
-## 10. Determination of representatives’ remuneration[^key-435425f03bc67bdefde1796d3aa6f340]
+## 10. Determination of representatives’ remuneration[^c-435425f03bc67bdefde1796d3aa6f340]
 
 (1) The Department shall consider the claim, any further particulars, information or documents submitted by the representative under Article 9 and any other relevant information and shall allow such work as appears to it to have been reasonably undertaken and properly done.
 
 (2) The Department shall allow remuneration for work allowed by it under this Article in accordance with the provisions of Schedules 1 to 4 to this Order, as applicable.
 
-## 11. Determination of solicitors’ disbursements[^key-e046a755b9d15aceb79d37564fda9063]
+## 11. Determination of solicitors’ disbursements[^c-e046a755b9d15aceb79d37564fda9063]
 
 (1) Subject to the provisions of this Article, the Department shall allow such disbursements claimed under Article 9 as appear to it to have been actually and reasonably incurred.
 
@@ -195,7 +195,7 @@ For Article 3 of the 2015 Order substitute –
 
 (4) Where costs are incurred in taking any steps or doing any act for which authority may be given under this Order, without such authority having been given or in excess of any fee so authorised, payment in respect of those costs may nevertheless be allowed on a determination of costs.
 
-## 12. Payment of remuneration[^key-303f5b407938896fd7247a0a9a305ce0]
+## 12. Payment of remuneration[^c-303f5b407938896fd7247a0a9a305ce0]
 
 (1) Having determined the remuneration payable to a representative in accordance with this Order, the Department shall notify the representative of the costs payable and, subject to paragraph (2), authorise payment accordingly.
 
@@ -207,7 +207,7 @@ For Article 3 of the 2015 Order substitute –
 - (b) where the costs are decreased, the representative shall repay the amount of such decrease; and
 - (c) where the payment of any costs to the representative is ordered under Article 15(15) or 16(9), the Department shall authorise such payment.
 
-## 13. Reasons for Department’s decisions[^key-a7a402a0e5c990c0a665a6eaace0ad54]
+## 13. Reasons for Department’s decisions[^c-a7a402a0e5c990c0a665a6eaace0ad54]
 
 (1) Where a representative is dissatisfied with the calculation of the remuneration payable under Schedules 1 to 4, as applicable, the representative may request the Department to give reasons in writing for its decision and the Department shall comply with any such request.
 
@@ -218,7 +218,7 @@ For Article 3 of the 2015 Order substitute –
 
 (3) Clerical mistakes or errors arising from any accidental slip or omission, in the calculation of the remuneration under Article 10 or the determination of disbursements under Article 11 may be corrected by the Department without a redetermination under Article 14 or an appeal under Article 15, where applicable.
 
-## 14. Redetermination of costs by Department[^key-9dd8dfcc8703f52c7f0d6aec015edc3b]
+## 14. Redetermination of costs by Department[^c-9dd8dfcc8703f52c7f0d6aec015edc3b]
 
 (1) Where a representative is dissatisfied with the calculation of the remuneration payable under Schedules 1 to 4, as applicable, the representative may apply to the Department to redetermine those costs.
 
@@ -236,7 +236,7 @@ For Article 3 of the 2015 Order substitute –
 
 (8) Subject to Article 18, any request under paragraph (7) shall be made within 21 days of receiving notification of the decision.
 
-## 15. Appeals to the taxing master[^key-200fcbbc500c9296ea8c9cff8f6bd17c]
+## 15. Appeals to the taxing master[^c-200fcbbc500c9296ea8c9cff8f6bd17c]
 
 (1) This Article applies only to claims in respect of proceedings to which Schedule 3 applies and the remuneration payable has been determined by the Department under Article 6(1).
 
@@ -276,7 +276,7 @@ For Article 3 of the 2015 Order substitute –
 
 (15) Except where the taxing master confirms or decreases the sums redetermined under Article 14, the taxing master may allow the appellant a sum in respect of part or all of any reasonable costs (including any fee payable in respect of an appeal) incurred by the appellant in connection with the appeal.
 
-## 16. Appeals to the High Court[^key-8a74b87ab6856d8f964de50042358540]
+## 16. Appeals to the High Court[^c-8a74b87ab6856d8f964de50042358540]
 
 (1) This Article applies only to claims in respect of proceedings to which Schedule 3 applies and the remuneration payable has been determined by the Department under Article 6(1).
 
@@ -296,14 +296,14 @@ For Article 3 of the 2015 Order substitute –
 
 (9) The judge shall have the same powers as the Department and the taxing master under this Order and may reverse, affirm or amend the decision appealed against or make such other order as the judge thinks fit.
 
-## 17. Restriction on payment[^key-05356905ed8668fbda3f5c9cf900d8c3]
+## 17. Restriction on payment[^c-05356905ed8668fbda3f5c9cf900d8c3]
 
 Where a certificate has been granted in respect of any proceedings to which this Order applies, a representative shall not receive or be a party to the making of any payment for work done in connection with those proceedings except such payments as may be made—
 
 - (a) by the Department; or
 - (b) in respect of any expenses or fees incurred in preparing, obtaining or considering any report, opinion or further evidence, whether provided by an expert witness or otherwise, where an application under the General Regulations for an authority to incur such expenses or fees has been refused by the Director.
 
-## 18. Time limits[^key-0e8ee45276e18ad806b720b36ef3d046]
+## 18. Time limits[^c-0e8ee45276e18ad806b720b36ef3d046]
 
 (1) Subject to paragraph (2), the time limit within which any act is required or authorised to be done under this Order may, for good reason, be extended—
 
@@ -316,7 +316,7 @@ Where a certificate has been granted in respect of any proceedings to which this
 
 (4) A representative may appeal to the taxing master against a decision made under this Article by the Department and such an appeal shall be instituted within 21 days of receiving notification of the decision by giving notice in writing to the taxing master specifying the grounds of appeal.
 
-## 19. Interim fees[^key-5b276be6a031ce91762271313c1fa044]
+## 19. Interim fees[^c-5b276be6a031ce91762271313c1fa044]
 
 (1) This Article applies where it appears to the Department that a certificate has been granted, or may be granted, under the General Regulations for certain proceedings falling within civil legal services and the provisions of this Order do not include an appropriate fee for the work done, or any part of the work done, under that certificate.
 
@@ -330,7 +330,7 @@ Where a certificate has been granted in respect of any proceedings to which this
 
 Where, before the coming into operation of this Order, a representative has submitted a claim for payment under the 2015 Order for work done under a certificate to which this Order applies, the Department shall determine the remuneration payable for that work under this Order even though the claim was submitted under the 2015 Order.
 
-**21.**[^key-79d52edc4afcae873887419eee49f7a0] Where before the coming into operation of this Order, the Department has determined the remuneration payable to a representative for work done under a legal aid certificate to which this Order applies, the Department shall redetermine the remuneration payable to the representative as if the application had been made under this Order and shall make a supplementary payment of such amount, or, as the case may be, recover from the representative a payment of such amount that the total amount of remuneration paid to the representative is the amount due under the provisions of this Order.
+**21.**[^c-79d52edc4afcae873887419eee49f7a0] Where before the coming into operation of this Order, the Department has determined the remuneration payable to a representative for work done under a legal aid certificate to which this Order applies, the Department shall redetermine the remuneration payable to the representative as if the application had been made under this Order and shall make a supplementary payment of such amount, or, as the case may be, recover from the representative a payment of such amount that the total amount of remuneration paid to the representative is the amount due under the provisions of this Order.
 
 Sealed with the Official Seal of the Department of Justice on 12th<sup></sup>December 2025
 
@@ -344,11 +344,11 @@ Article 10
 
 ### PART 1 — General
 
-**1.**[^key-e20a6329efe428739382c2f045c69ead] This Schedule applies to the determination of the remuneration payable to solicitors for providing advice and assistance, including those matters in which the Director has granted an extension under regulation 32 of the General Regulations.
+**1.**[^c-e20a6329efe428739382c2f045c69ead] This Schedule applies to the determination of the remuneration payable to solicitors for providing advice and assistance, including those matters in which the Director has granted an extension under regulation 32 of the General Regulations.
 
-**2.**[^key-b337755a6b664fc2ed90167b5b0c3fde] Where the remuneration or fees properly chargeable for the advice and assistance including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the solicitor shall submit a claim to the Department requesting payment of the deficiency.
+**2.**[^c-b337755a6b664fc2ed90167b5b0c3fde] Where the remuneration or fees properly chargeable for the advice and assistance including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the solicitor shall submit a claim to the Department requesting payment of the deficiency.
 
-**3.**[^key-07bcca3d846d5dfe1be2fce6bf2c0f64] (1) The Department shall determine the claim submitted under Article 9 in accordance with the rates or fees set out in Part 2, 3 or 4 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the solicitor.
+**3.**[^c-07bcca3d846d5dfe1be2fce6bf2c0f64] (1) The Department shall determine the claim submitted under Article 9 in accordance with the rates or fees set out in Part 2, 3 or 4 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the solicitor.
 
 (2) In this paragraph “**assessed deficiency**” means the amount by which the sum allowed to the solicitor by the Department in assessing the claim under sub-paragraph (1) exceeds any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order.
 
@@ -356,7 +356,7 @@ Article 10
 
 (4) Unless otherwise prescribed by this Schedule, travel and waiting time may be claimed at the rate of £60 per hour and mileage may be claimed at the rate of 45p per mile for matters falling within this Schedule.
 
-### PART 2 — Matters other than those relating to PACE, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019, and immigration and asylum\*[^key-a70df79a4e6ab4fd0256316b2688ae56]
+### PART 2 — Matters other than those relating to PACE, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019, and immigration and asylum\*[^c-a70df79a4e6ab4fd0256316b2688ae56]
 
 \*For the purposes of this Part and Part 4, advice and assistance on immigration and asylum includes any advice and assistance provided to a person on the law as it applies to their situation as an immigrant, as a person seeking asylum, as a victim of human trafficking, slavery or servitude or compulsory labour and on related matters, including advice as to the steps that they might take and assistance to take those steps.
 
@@ -386,7 +386,7 @@ Table 3 - Solicitor – Standard Fees
 | Prisoner serving an Extended Custodial sentence (ECS) | £875 |
 | Prisoner serving an Indeterminate Custodial Sentence (ICS) | £1225 |
 
-### PART 3 — Police and Criminal Evidence (PACE) matters, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-d03ab8baa82f2182c35e42592064d079]
+### PART 3 — Police and Criminal Evidence (PACE) matters, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-d03ab8baa82f2182c35e42592064d079]
 
 Table 1 - Solicitor – Hourly Rates
 
@@ -448,7 +448,7 @@ Where the date of initial advice for an application for advice and assistance un
 
 [^f01002][^f01003]
 
-### PART 4 — Immigration and Asylum\*[^key-b6dcfcc73a4a15c11459db73b1246b63]
+### PART 4 — Immigration and Asylum\*[^c-b6dcfcc73a4a15c11459db73b1246b63]
 
 \*For the purposes of this Part and Part 2, advice and assistance on immigration and asylum includes all advice and assistance provided to a person on the law as it applies to their situation as an immigrant, as a person seeking asylum, as a victim of human trafficking, slavery or servitude or compulsory labour and on related matters, including advice as to the steps that they might take and assistance to take those steps.
 
@@ -476,37 +476,37 @@ Article 10
 
 ### PART 1 — General
 
-**1.**[^key-d884916911ad9b7f9c2630ee755d6cf1] This Schedule applies to the determination of the remuneration payable to representatives for providing representation (lower courts).
+**1.**[^c-d884916911ad9b7f9c2630ee755d6cf1] This Schedule applies to the determination of the remuneration payable to representatives for providing representation (lower courts).
 
-**2.**[^key-9e08036c288f2fb8a2a0afbdbc79005f] Where the remuneration or fees properly chargeable for the representation including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the representative shall submit a claim to the Department requesting payment of the deficiency.
+**2.**[^c-9e08036c288f2fb8a2a0afbdbc79005f] Where the remuneration or fees properly chargeable for the representation including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the representative shall submit a claim to the Department requesting payment of the deficiency.
 
-**3.**[^key-86e0f181ca3c8c563be85fff1acbca05] (1) The Department shall determine the claim submitted under Article 9 in accordance with the rates or fees set out in the relevant Table in Part 2 or 3 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the representative.
+**3.**[^c-86e0f181ca3c8c563be85fff1acbca05] (1) The Department shall determine the claim submitted under Article 9 in accordance with the rates or fees set out in the relevant Table in Part 2 or 3 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the representative.
 
 (2) In this paragraph “**assessed deficiency**” means the amount by which the sum allowed to the representative by the Department in assessing the claim under sub-paragraph (1) exceeds any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order.
 
-**4.**[^key-88e1598d9dbeeb2c62f31d04750e7273] In this Schedule, any reference to “letter” or “letters” shall be taken to include reference to emails.
+**4.**[^c-88e1598d9dbeeb2c62f31d04750e7273] In this Schedule, any reference to “letter” or “letters” shall be taken to include reference to emails.
 
-**5.**[^key-462c76392982a5d3a949afc86de88a85] In respect of claims for costs made under Table 2 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 45p per mile. No claim shall be entertained for travel and waiting time.
+**5.**[^c-462c76392982a5d3a949afc86de88a85] In respect of claims for costs made under Table 2 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 45p per mile. No claim shall be entertained for travel and waiting time.
 
-**6.**[^key-9923db61f418433cfddc06edb34b71cc] In respect of claims for costs made under Table 5 of Part 2 of this Schedule, no claim shall be entertained for waiting time.
+**6.**[^c-9923db61f418433cfddc06edb34b71cc] In respect of claims for costs made under Table 5 of Part 2 of this Schedule, no claim shall be entertained for waiting time.
 
-**7.**[^key-e6996a3494c2cf9d53f26a0ecd0d566f] In respect of claims for costs made under Tables 7 and 8 of Part 2 of this Schedule, travel time may be claimed by solicitors at the rate of £60 per hour and no claim shall be entertained for waiting time.
+**7.**[^c-e6996a3494c2cf9d53f26a0ecd0d566f] In respect of claims for costs made under Tables 7 and 8 of Part 2 of this Schedule, travel time may be claimed by solicitors at the rate of £60 per hour and no claim shall be entertained for waiting time.
 
-**8.**[^key-a98f63dbacac70cc9dd1c7038a28e853] In respect of claims for costs made under Tables 1, 2, 3, 5, 9 and 11 in Part 3 of this Schedule, travel time may be claimed by solicitors at the rate of £60 per hour.
+**8.**[^c-a98f63dbacac70cc9dd1c7038a28e853] In respect of claims for costs made under Tables 1, 2, 3, 5, 9 and 11 in Part 3 of this Schedule, travel time may be claimed by solicitors at the rate of £60 per hour.
 
-**9.**[^key-f1403da01a160bb7df89d09a3bb145a2] In respect of claims for costs made under Tables 3 and 5 only in Part 3 of this Schedule, waiting time may be claimed by solicitors at the rate of £60 per hour. No other claims for waiting time by solicitors shall be entertained for proceedings in Part 3 of this Schedule.
+**9.**[^c-f1403da01a160bb7df89d09a3bb145a2] In respect of claims for costs made under Tables 3 and 5 only in Part 3 of this Schedule, waiting time may be claimed by solicitors at the rate of £60 per hour. No other claims for waiting time by solicitors shall be entertained for proceedings in Part 3 of this Schedule.
 
-**10.**[^key-1f100d3de2a3e4066cbaa225a30f355f] In respect of claims for costs made under Tables 7 and 8 in Part 3 of this Schedule, a solicitor may claim for mileage only at the rate of 45p per mile. No claim shall be entertained for travel and waiting time.
+**10.**[^c-1f100d3de2a3e4066cbaa225a30f355f] In respect of claims for costs made under Tables 7 and 8 in Part 3 of this Schedule, a solicitor may claim for mileage only at the rate of 45p per mile. No claim shall be entertained for travel and waiting time.
 
-**11.**[^key-dc156bc6873a6d2696ea998601dbef00] Unless otherwise prescribed by this Schedule, travel and waiting time, where payable may be claimed by solicitors at the rate of £60 per hour and mileage, where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
+**11.**[^c-dc156bc6873a6d2696ea998601dbef00] Unless otherwise prescribed by this Schedule, travel and waiting time, where payable may be claimed by solicitors at the rate of £60 per hour and mileage, where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
 
-**12.**[^key-ba61ddd52c1df871988f78be3b819aa8] Unless otherwise prescribed by this Schedule, travel time, where payable may be claimed by authorised counsel at the rate of £60 per hour and mileage, where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
+**12.**[^c-ba61ddd52c1df871988f78be3b819aa8] Unless otherwise prescribed by this Schedule, travel time, where payable may be claimed by authorised counsel at the rate of £60 per hour and mileage, where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
 
-**13.**[^key-f20e2a733c948a7b17a8f25df35ae46a] For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+**13.**[^c-f20e2a733c948a7b17a8f25df35ae46a] For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
 
-**14.**[^key-159c32e7f74fae8b117a1bb063953e0b] For the proceedings listed in Part 3 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court, Tribunal or hearing venue as applicable shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court, Tribunal or hearing venue shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+**14.**[^c-159c32e7f74fae8b117a1bb063953e0b] For the proceedings listed in Part 3 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court, Tribunal or hearing venue as applicable shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court, Tribunal or hearing venue shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
 
-### PART 2 — Family and Children Order Proceedings[^key-6e6995017b9936b723e194f862893520]
+### PART 2 — Family and Children Order Proceedings[^c-6e6995017b9936b723e194f862893520]
 
 #### Children (Northern Ireland) Order 1995 or Article 31B of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989
 
@@ -639,7 +639,7 @@ Table 8 - Counsel – Composite Fees
 | Complex items of work (opinion, affidavits) | £96 per item |
 | All other written work | £59 per item |
 
-### PART 3 — Other Proceedings[^key-5487229f98d1102fbacde446cc88c4d0]
+### PART 3 — Other Proceedings[^c-5487229f98d1102fbacde446cc88c4d0]
 
 Police and Criminal Evidence (Northern Ireland) Order 1989 and Terrorism Act 2000
 
@@ -784,27 +784,27 @@ Article 10
 
 ### PART 1 — General
 
-**1.**[^key-ad9774bded4e889a448beb6b43515ea1] This Schedule applies to the determination of the remuneration payable to representatives for providing representation (higher courts).
+**1.**[^c-ad9774bded4e889a448beb6b43515ea1] This Schedule applies to the determination of the remuneration payable to representatives for providing representation (higher courts).
 
-**2.**[^key-04ccd2e3134cfc1e1978d4ebe911a4e8] The Department shall determine the claim submitted under Article 9 in accordance with the rates or fees set out in the relevant Table in Parts 2 to 6 of this Schedule, as applicable, and pay the assessed remuneration to the representative.
+**2.**[^c-04ccd2e3134cfc1e1978d4ebe911a4e8] The Department shall determine the claim submitted under Article 9 in accordance with the rates or fees set out in the relevant Table in Parts 2 to 6 of this Schedule, as applicable, and pay the assessed remuneration to the representative.
 
-**3.**[^key-c7eb04c3c0242ec81b2cc90bc9ca0a5d] For proceedings listed within Part 2 of this Schedule, where a representative considers that the sum allowable under Table 1 or Table 2, as applicable, would not provide reasonable remuneration according to the work reasonably undertaken and properly done, the representative may apply to the judge before whom the proceedings took place for a certificate that for any reason including the exceptional length, difficulty or complexity of the proceedings the limitation on the sums allowable under Table 1 or Table 2, as applicable, shall not apply and where such certificate is granted the Department shall allow remuneration under Table 3 to 19, as applicable.
+**3.**[^c-c7eb04c3c0242ec81b2cc90bc9ca0a5d] For proceedings listed within Part 2 of this Schedule, where a representative considers that the sum allowable under Table 1 or Table 2, as applicable, would not provide reasonable remuneration according to the work reasonably undertaken and properly done, the representative may apply to the judge before whom the proceedings took place for a certificate that for any reason including the exceptional length, difficulty or complexity of the proceedings the limitation on the sums allowable under Table 1 or Table 2, as applicable, shall not apply and where such certificate is granted the Department shall allow remuneration under Table 3 to 19, as applicable.
 
-**4.**[^key-18fabc680f9e45fa4635f884c7921398] Where a judge has granted a certificate under paragraph 3, and there is a combination of proceedings heard together, the highest applicable composite fee will be payable with an additional payment of 30% of the composite fee in respect of the first related proceedings and an additional payment of 20% of the composite fee in respect of the second related proceedings.
+**4.**[^c-18fabc680f9e45fa4635f884c7921398] Where a judge has granted a certificate under paragraph 3, and there is a combination of proceedings heard together, the highest applicable composite fee will be payable with an additional payment of 30% of the composite fee in respect of the first related proceedings and an additional payment of 20% of the composite fee in respect of the second related proceedings.
 
-**5.**[^key-5d858dd874a50c8170445c95e6d7d625] For proceedings listed within Part 3 of this Schedule, where the costs have been taxed by a district judge, the Department will pay remuneration to the solicitor on foot of the taxed bill. If the proceedings are withdrawn, abandoned or discontinued the representative’s claim will be assessed by the Department in accordance with Tables 1 to 4, as applicable.
+**5.**[^c-5d858dd874a50c8170445c95e6d7d625] For proceedings listed within Part 3 of this Schedule, where the costs have been taxed by a district judge, the Department will pay remuneration to the solicitor on foot of the taxed bill. If the proceedings are withdrawn, abandoned or discontinued the representative’s claim will be assessed by the Department in accordance with Tables 1 to 4, as applicable.
 
-**6.**[^key-c4888f4279bf1ce2b117b612e3454466] For proceedings listed within Parts 4, 5 and 6 of this Schedule, the sums allowed to representatives in any proceedings shall, subject to Article 6(2)(a) and (b), be assessed by the Department in accordance with the Tables set out in the relevant Part, as applicable to the nature of the proceedings and the items of work in question.
+**6.**[^c-c4888f4279bf1ce2b117b612e3454466] For proceedings listed within Parts 4, 5 and 6 of this Schedule, the sums allowed to representatives in any proceedings shall, subject to Article 6(2)(a) and (b), be assessed by the Department in accordance with the Tables set out in the relevant Part, as applicable to the nature of the proceedings and the items of work in question.
 
-**7.**[^key-6261fa70a21cd88e912b5705aaf86cca] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
+**7.**[^c-6261fa70a21cd88e912b5705aaf86cca] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
 
-**8.**[^key-b50f664037e736de96ebb17c04ad10fd] For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+**8.**[^c-b50f664037e736de96ebb17c04ad10fd] For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
 
-**9.**[^key-fcf24f7a4659dba8874f3c0a7c0fc1c1] For proceedings falling to be remunerated under Tables 3 to 11 of Part 2 of this Schedule, no claims for waiting time shall be entertained.
+**9.**[^c-fcf24f7a4659dba8874f3c0a7c0fc1c1] For proceedings falling to be remunerated under Tables 3 to 11 of Part 2 of this Schedule, no claims for waiting time shall be entertained.
 
-**10.**[^key-a2f0b38159c4c10b91ea5d8397c7d09b] For proceedings falling within Table 1 of Part 3, no claim for mileage shall be entertained. Any claim by a solicitor for travelling to attend Court shall be from the solicitor’s office to which the certificate relates.
+**10.**[^c-a2f0b38159c4c10b91ea5d8397c7d09b] For proceedings falling within Table 1 of Part 3, no claim for mileage shall be entertained. Any claim by a solicitor for travelling to attend Court shall be from the solicitor’s office to which the certificate relates.
 
-**11.**[^key-6cb1d5cc96dd6fbe51553cd2bfc6d302] (1) For proceedings listed within Tables 2, 3 and 4 of Part 3 of this Schedule and proceedings listed within Part 4 of this Schedule, travel may be claimed as follows and claims shall not be entertained for mileage or waiting—
+**11.**[^c-6cb1d5cc96dd6fbe51553cd2bfc6d302] (1) For proceedings listed within Tables 2, 3 and 4 of Part 3 of this Schedule and proceedings listed within Part 4 of this Schedule, travel may be claimed as follows and claims shall not be entertained for mileage or waiting—
 
 - (a) Counsel travelling to attend a court—
   - (i) 20 to 50 miles from the Head Post Office, Belfast, is entitled to an additional sum of £60;
@@ -815,21 +815,21 @@ Article 10
 
 (2) Where a solicitor or counsel has conducted more than one case in the same day at the same venue, the fee set out in sub-paragraph (1) may be claimed once only and the fee shall be divided proportionately over the number of cases conducted by the solicitor or counsel.
 
-**12.**[^key-4721e56856d152c4ec1efdf5f181479b] In any proceedings listed in Part 5 of this Schedule to which travel and mileage are payable, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates and any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+**12.**[^c-4721e56856d152c4ec1efdf5f181479b] In any proceedings listed in Part 5 of this Schedule to which travel and mileage are payable, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates and any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
 
-**13.**[^key-94893e7a17a6fe3c80f00786888a3202] In respect of claims for costs made under Table 1 of Part 5 of this Schedule, travel may be claimed by solicitor only from the solicitor’s office to which the certificate relates at the rate of £60 per hour and mileage at the rate of 45p per mile. No claim shall be entertained for waiting time.
+**13.**[^c-94893e7a17a6fe3c80f00786888a3202] In respect of claims for costs made under Table 1 of Part 5 of this Schedule, travel may be claimed by solicitor only from the solicitor’s office to which the certificate relates at the rate of £60 per hour and mileage at the rate of 45p per mile. No claim shall be entertained for waiting time.
 
-**14.**[^key-207b9a8086e9b4e471fc7a39d39d0b3c] In respect of any claim for costs made under Table 2 of Part 5 of this Schedule, no claim for travelling or waiting time or mileage shall be entertained.
+**14.**[^c-207b9a8086e9b4e471fc7a39d39d0b3c] In respect of any claim for costs made under Table 2 of Part 5 of this Schedule, no claim for travelling or waiting time or mileage shall be entertained.
 
-**15.**[^key-fade038b2905387598f4008c07125122] In respect of any claim for costs made under Table 3 of Part 5 of this Schedule, no claim for mileage shall be entertained.
+**15.**[^c-fade038b2905387598f4008c07125122] In respect of any claim for costs made under Table 3 of Part 5 of this Schedule, no claim for mileage shall be entertained.
 
-**16.**[^key-2ed322464e5d701c6cabfe7aff338d1d] For the proceedings listed in Part 6 of this Schedule, a solicitor may claim for mileage only from the solicitor’s office to which the certificate relates at the rate of 45p per mile. No claim shall be entertained for travel and waiting time.
+**16.**[^c-2ed322464e5d701c6cabfe7aff338d1d] For the proceedings listed in Part 6 of this Schedule, a solicitor may claim for mileage only from the solicitor’s office to which the certificate relates at the rate of 45p per mile. No claim shall be entertained for travel and waiting time.
 
-**17.**[^key-4cf8234ec54143fdff475e5922f2a673] Unless otherwise prescribed by this Schedule, travel and waiting time where payable, may be claimed by solicitors at the rate of £60 per hour and mileage where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
+**17.**[^c-4cf8234ec54143fdff475e5922f2a673] Unless otherwise prescribed by this Schedule, travel and waiting time where payable, may be claimed by solicitors at the rate of £60 per hour and mileage where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
 
-**18.**[^key-d594db5959c1ebaea7711800dfef1129] Unless otherwise prescribed by this Schedule, travel time where payable may be claimed by authorised counsel at the rate of £60 per hour and mileage where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
+**18.**[^c-d594db5959c1ebaea7711800dfef1129] Unless otherwise prescribed by this Schedule, travel time where payable may be claimed by authorised counsel at the rate of £60 per hour and mileage where payable may be claimed at the rate of 45p per mile for proceedings falling within this Schedule.
 
-### PART 2 — Family and Children Order Proceedings – Family Care Centre[^key-002649eb7cdd81ef448687a846ce2588]
+### PART 2 — Family and Children Order Proceedings – Family Care Centre[^c-002649eb7cdd81ef448687a846ce2588]
 
 All proceedings including appeals from the Family Proceedings Court and Domestic Proceedings Court
 
@@ -1057,7 +1057,7 @@ Table 19 - Counsel Composite Fees – Proceedings under the Family Homes and Dom
 | 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £609 | £913 |
 | 20% Brief Fee ─ Case Withdrawn or Transferred (at first directions hearing) | £348 | £522 |
 
-### PART 3 — Divorce and other Family Proceedings in the County Court[^key-7db88828afe96e318529a7f32132106d]
+### PART 3 — Divorce and other Family Proceedings in the County Court[^c-7db88828afe96e318529a7f32132106d]
 
 Table 1
 
@@ -1120,7 +1120,7 @@ Solicitor and Counsel Standard Fee - Appeals from the Family Proceedings Court
 | Case withdrawn prior to hearing | £245 | £64 |
 | Adjournments | £60 | £40 |
 
-### PART 4 — Other proceedings in the County Court[^key-599a168f7e53b5fb48465a4bf2c64b35]
+### PART 4 — Other proceedings in the County Court[^c-599a168f7e53b5fb48465a4bf2c64b35]
 
 Table 1
 
@@ -1248,7 +1248,7 @@ Proceedings which have been withdrawn, abandoned or discontinued – full certif
 | Letters and telephone calls | £3.35 per item |
 | Non-standard telephone calls | £30 per hour |
 
-### PART 5 — High Court Proceedings[^key-b497c706b5cd8566e24d7a3a78025c4f]
+### PART 5 — High Court Proceedings[^c-b497c706b5cd8566e24d7a3a78025c4f]
 
 Table 1
 
@@ -1444,7 +1444,7 @@ General
 
 [^f01013][^f01013][^f01013][^f01013][^f01013][^f01013][^f01013][^f01013][^f01013][^f01013]
 
-### PART 6 — Other Proceedings[^key-c930fd3f3ec1085ff83b9e29a3e7ac97]
+### PART 6 — Other Proceedings[^c-c930fd3f3ec1085ff83b9e29a3e7ac97]
 
 Asylum and Immigration Proceedings Before the First-Tier Tribunal and the Upper Tribunal under Schedule 10 to the Immigration Act 2016; section 40A of the British Nationality Act 1981; Part 5 of the Nationality, Immigration and Asylum Act 2002; or regulation 26 of the Immigration (European Economic Area) Regulations 2006
 
@@ -1464,11 +1464,11 @@ Article 10
 
 ### PART 1 — General
 
-**1.**[^key-f8656f97c7b427a79887d03b2666fc38] This Schedule applies to the determination of the remuneration payable to representatives for providing civil legal services in relation to inquests funded under Article 12A of the 2003 Order.
+**1.**[^c-f8656f97c7b427a79887d03b2666fc38] This Schedule applies to the determination of the remuneration payable to representatives for providing civil legal services in relation to inquests funded under Article 12A of the 2003 Order.
 
-**2.**[^key-33388cc317019a489c99c4b73e5e8a71] The Department shall determine the claim submitted under Article 9 in accordance with the rates set out in the relevant Table in Part 2 of this Schedule and pay the assessed remuneration to the representative.
+**2.**[^c-33388cc317019a489c99c4b73e5e8a71] The Department shall determine the claim submitted under Article 9 in accordance with the rates set out in the relevant Table in Part 2 of this Schedule and pay the assessed remuneration to the representative.
 
-### PART 2 — Remuneration payable in Inquest cases[^key-7ded45298c5f8b82f9289b54fb4ef7dd]
+### PART 2 — Remuneration payable in Inquest cases[^c-7ded45298c5f8b82f9289b54fb4ef7dd]
 
 Table 1
 
@@ -1535,9 +1535,9 @@ This Order comes into operation on \[Date\].
 
 [^f00002]: Footnote: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
 
-[^key-3254e37fe70a3cd1afd8ba07ce12f037]: Commencement: Art. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-3254e37fe70a3cd1afd8ba07ce12f037]: Commencement: Art. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-c385b648196da2a9aeebc9961ab4101a]: Commencement: Art. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-c385b648196da2a9aeebc9961ab4101a]: Commencement: Art. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 201](https://www.legislation.gov.uk/nisr/2015/201)
 
@@ -1547,51 +1547,51 @@ This Order comes into operation on \[Date\].
 
 [^f00006]: Footnote: [2015 S.R. No. 195](https://www.legislation.gov.uk/nisr/2015/195)
 
-[^key-15d64efaa9f67edc344bbcdd99636a54]: Commencement: Art. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-15d64efaa9f67edc344bbcdd99636a54]: Commencement: Art. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-1d03024b436558b77907582241c5f265]: Commencement: Art. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-1d03024b436558b77907582241c5f265]: Commencement: Art. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-c395bd9673f6d6fba4259ab8f072ca85]: Commencement: Art. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-c395bd9673f6d6fba4259ab8f072ca85]: Commencement: Art. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-de6c03bc8205e581bb28e15ee13ff203]: Commencement: Art. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-de6c03bc8205e581bb28e15ee13ff203]: Commencement: Art. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-6f2f224699e9540a0f978a97e0c00a46]: Commencement: Art. 7 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-6f2f224699e9540a0f978a97e0c00a46]: Commencement: Art. 7 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-92d3a15d2c66931f6f141e26b5fd0392]: Commencement: Art. 8 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-92d3a15d2c66931f6f141e26b5fd0392]: Commencement: Art. 8 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-513da6a22a28cfe74bbb6fad13faf98a]: Commencement: Art. 9 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-513da6a22a28cfe74bbb6fad13faf98a]: Commencement: Art. 9 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-435425f03bc67bdefde1796d3aa6f340]: Commencement: Art. 10 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-435425f03bc67bdefde1796d3aa6f340]: Commencement: Art. 10 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-e046a755b9d15aceb79d37564fda9063]: Commencement: Art. 11 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-e046a755b9d15aceb79d37564fda9063]: Commencement: Art. 11 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-303f5b407938896fd7247a0a9a305ce0]: Commencement: Art. 12 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-303f5b407938896fd7247a0a9a305ce0]: Commencement: Art. 12 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-a7a402a0e5c990c0a665a6eaace0ad54]: Commencement: Art. 13 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-a7a402a0e5c990c0a665a6eaace0ad54]: Commencement: Art. 13 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-9dd8dfcc8703f52c7f0d6aec015edc3b]: Commencement: Art. 14 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-9dd8dfcc8703f52c7f0d6aec015edc3b]: Commencement: Art. 14 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-200fcbbc500c9296ea8c9cff8f6bd17c]: Commencement: Art. 15 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-200fcbbc500c9296ea8c9cff8f6bd17c]: Commencement: Art. 15 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-8a74b87ab6856d8f964de50042358540]: Commencement: Art. 16 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-8a74b87ab6856d8f964de50042358540]: Commencement: Art. 16 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-05356905ed8668fbda3f5c9cf900d8c3]: Commencement: Art. 17 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-05356905ed8668fbda3f5c9cf900d8c3]: Commencement: Art. 17 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-0e8ee45276e18ad806b720b36ef3d046]: Commencement: Art. 18 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-0e8ee45276e18ad806b720b36ef3d046]: Commencement: Art. 18 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-5b276be6a031ce91762271313c1fa044]: Commencement: Art. 19 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-5b276be6a031ce91762271313c1fa044]: Commencement: Art. 19 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-79d52edc4afcae873887419eee49f7a0]: Commencement: Art. 21 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-79d52edc4afcae873887419eee49f7a0]: Commencement: Art. 21 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-e20a6329efe428739382c2f045c69ead]: Commencement: Sch. 1 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-e20a6329efe428739382c2f045c69ead]: Commencement: Sch. 1 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-b337755a6b664fc2ed90167b5b0c3fde]: Commencement: Sch. 1 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-b337755a6b664fc2ed90167b5b0c3fde]: Commencement: Sch. 1 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-07bcca3d846d5dfe1be2fce6bf2c0f64]: Commencement: Sch. 1 para. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-07bcca3d846d5dfe1be2fce6bf2c0f64]: Commencement: Sch. 1 para. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-a70df79a4e6ab4fd0256316b2688ae56]: Commencement: Sch. 1 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-a70df79a4e6ab4fd0256316b2688ae56]: Commencement: Sch. 1 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-d03ab8baa82f2182c35e42592064d079]: Commencement: Sch. 1 Pt. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-d03ab8baa82f2182c35e42592064d079]: Commencement: Sch. 1 Pt. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
 [^f01000]: Footnote: (1)
 
@@ -1609,39 +1609,39 @@ This Order comes into operation on \[Date\].
 
     Unsocial hours are defined as between 7.00pm and 9.00am on any weekday, or any time on a Saturday, Sunday or Public Holiday
 
-[^key-b6dcfcc73a4a15c11459db73b1246b63]: Commencement: Sch. 1 Pt. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-b6dcfcc73a4a15c11459db73b1246b63]: Commencement: Sch. 1 Pt. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-d884916911ad9b7f9c2630ee755d6cf1]: Commencement: Sch. 2 Pt. 1 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-d884916911ad9b7f9c2630ee755d6cf1]: Commencement: Sch. 2 Pt. 1 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-9e08036c288f2fb8a2a0afbdbc79005f]: Commencement: Sch. 2 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-9e08036c288f2fb8a2a0afbdbc79005f]: Commencement: Sch. 2 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-86e0f181ca3c8c563be85fff1acbca05]: Commencement: Sch. 2 para. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-86e0f181ca3c8c563be85fff1acbca05]: Commencement: Sch. 2 para. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-88e1598d9dbeeb2c62f31d04750e7273]: Commencement: Sch. 2 para. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-88e1598d9dbeeb2c62f31d04750e7273]: Commencement: Sch. 2 para. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-462c76392982a5d3a949afc86de88a85]: Commencement: Sch. 2 para. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-462c76392982a5d3a949afc86de88a85]: Commencement: Sch. 2 para. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-9923db61f418433cfddc06edb34b71cc]: Commencement: Sch. 2 para. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-9923db61f418433cfddc06edb34b71cc]: Commencement: Sch. 2 para. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-e6996a3494c2cf9d53f26a0ecd0d566f]: Commencement: Sch. 2 para. 7 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-e6996a3494c2cf9d53f26a0ecd0d566f]: Commencement: Sch. 2 para. 7 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-a98f63dbacac70cc9dd1c7038a28e853]: Commencement: Sch. 2 para. 8 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-a98f63dbacac70cc9dd1c7038a28e853]: Commencement: Sch. 2 para. 8 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-f1403da01a160bb7df89d09a3bb145a2]: Commencement: Sch. 2 para. 9 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-f1403da01a160bb7df89d09a3bb145a2]: Commencement: Sch. 2 para. 9 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-1f100d3de2a3e4066cbaa225a30f355f]: Commencement: Sch. 2 para. 10 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-1f100d3de2a3e4066cbaa225a30f355f]: Commencement: Sch. 2 para. 10 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-dc156bc6873a6d2696ea998601dbef00]: Commencement: Sch. 2 para. 11 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-dc156bc6873a6d2696ea998601dbef00]: Commencement: Sch. 2 para. 11 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-ba61ddd52c1df871988f78be3b819aa8]: Commencement: Sch. 2 para. 12 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-ba61ddd52c1df871988f78be3b819aa8]: Commencement: Sch. 2 para. 12 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-f20e2a733c948a7b17a8f25df35ae46a]: Commencement: Sch. 2 para. 13 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-f20e2a733c948a7b17a8f25df35ae46a]: Commencement: Sch. 2 para. 13 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-159c32e7f74fae8b117a1bb063953e0b]: Commencement: Sch. 2 para. 14 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-159c32e7f74fae8b117a1bb063953e0b]: Commencement: Sch. 2 para. 14 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-6e6995017b9936b723e194f862893520]: Commencement: Sch. 2 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-6e6995017b9936b723e194f862893520]: Commencement: Sch. 2 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-5487229f98d1102fbacde446cc88c4d0]: Commencement: Sch. 2 Pt. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-5487229f98d1102fbacde446cc88c4d0]: Commencement: Sch. 2 Pt. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
 [^f01020]: Footnote: (1)
 
@@ -1655,45 +1655,45 @@ This Order comes into operation on \[Date\].
 
     The Composite Fee will remunerate a solicitor for all work associated with the particular case, excluding disbursements and VAT. The fee is taken to include up to the first 7 letters and telephone calls under 5 minutes. Any further letters or telephone calls can be claimed in addition to the composite fee provided that they are itemised.
 
-[^key-ad9774bded4e889a448beb6b43515ea1]: Commencement: Sch. 3 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-ad9774bded4e889a448beb6b43515ea1]: Commencement: Sch. 3 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-04ccd2e3134cfc1e1978d4ebe911a4e8]: Commencement: Sch. 3 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-04ccd2e3134cfc1e1978d4ebe911a4e8]: Commencement: Sch. 3 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-c7eb04c3c0242ec81b2cc90bc9ca0a5d]: Commencement: Sch. 3 para. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-c7eb04c3c0242ec81b2cc90bc9ca0a5d]: Commencement: Sch. 3 para. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-18fabc680f9e45fa4635f884c7921398]: Commencement: Sch. 3 para. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-18fabc680f9e45fa4635f884c7921398]: Commencement: Sch. 3 para. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-5d858dd874a50c8170445c95e6d7d625]: Commencement: Sch. 3 para. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-5d858dd874a50c8170445c95e6d7d625]: Commencement: Sch. 3 para. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-c4888f4279bf1ce2b117b612e3454466]: Commencement: Sch. 3 para. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-c4888f4279bf1ce2b117b612e3454466]: Commencement: Sch. 3 para. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-6261fa70a21cd88e912b5705aaf86cca]: Commencement: Sch. 3 para. 7 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-6261fa70a21cd88e912b5705aaf86cca]: Commencement: Sch. 3 para. 7 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-b50f664037e736de96ebb17c04ad10fd]: Commencement: Sch. 3 para. 8 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-b50f664037e736de96ebb17c04ad10fd]: Commencement: Sch. 3 para. 8 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-fcf24f7a4659dba8874f3c0a7c0fc1c1]: Commencement: Sch. 3 para. 9 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-fcf24f7a4659dba8874f3c0a7c0fc1c1]: Commencement: Sch. 3 para. 9 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-a2f0b38159c4c10b91ea5d8397c7d09b]: Commencement: Sch. 3 para. 10 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-a2f0b38159c4c10b91ea5d8397c7d09b]: Commencement: Sch. 3 para. 10 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-6cb1d5cc96dd6fbe51553cd2bfc6d302]: Commencement: Sch. 3 para. 11 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-6cb1d5cc96dd6fbe51553cd2bfc6d302]: Commencement: Sch. 3 para. 11 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-4721e56856d152c4ec1efdf5f181479b]: Commencement: Sch. 3 para. 12 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-4721e56856d152c4ec1efdf5f181479b]: Commencement: Sch. 3 para. 12 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-94893e7a17a6fe3c80f00786888a3202]: Commencement: Sch. 3 para. 13 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-94893e7a17a6fe3c80f00786888a3202]: Commencement: Sch. 3 para. 13 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-207b9a8086e9b4e471fc7a39d39d0b3c]: Commencement: Sch. 3 para. 14 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-207b9a8086e9b4e471fc7a39d39d0b3c]: Commencement: Sch. 3 para. 14 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-fade038b2905387598f4008c07125122]: Commencement: Sch. 3 para. 15 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-fade038b2905387598f4008c07125122]: Commencement: Sch. 3 para. 15 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-2ed322464e5d701c6cabfe7aff338d1d]: Commencement: Sch. 3 para. 16 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-2ed322464e5d701c6cabfe7aff338d1d]: Commencement: Sch. 3 para. 16 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-4cf8234ec54143fdff475e5922f2a673]: Commencement: Sch. 3 para. 17 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-4cf8234ec54143fdff475e5922f2a673]: Commencement: Sch. 3 para. 17 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-d594db5959c1ebaea7711800dfef1129]: Commencement: Sch. 3 para. 18 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-d594db5959c1ebaea7711800dfef1129]: Commencement: Sch. 3 para. 18 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-002649eb7cdd81ef448687a846ce2588]: Commencement: Sch. 3 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-002649eb7cdd81ef448687a846ce2588]: Commencement: Sch. 3 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-7db88828afe96e318529a7f32132106d]: Commencement: Sch. 3 Pt. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-7db88828afe96e318529a7f32132106d]: Commencement: Sch. 3 Pt. 3 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
 [^f01010]: Footnote: (1)
 
@@ -1707,21 +1707,21 @@ This Order comes into operation on \[Date\].
 
     An uplift of 50% on the basic fee will be payable to both solicitor and counsel for each additional child involved with the same proceedings.
 
-[^key-599a168f7e53b5fb48465a4bf2c64b35]: Commencement: Sch. 3 Pt. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-599a168f7e53b5fb48465a4bf2c64b35]: Commencement: Sch. 3 Pt. 4 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-b497c706b5cd8566e24d7a3a78025c4f]: Commencement: Sch. 3 Pt. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-b497c706b5cd8566e24d7a3a78025c4f]: Commencement: Sch. 3 Pt. 5 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
 [^f01013]: Footnote: (1)
 
     to include consultation (if any)
 
-[^key-c930fd3f3ec1085ff83b9e29a3e7ac97]: Commencement: Sch. 3 Pt. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-c930fd3f3ec1085ff83b9e29a3e7ac97]: Commencement: Sch. 3 Pt. 6 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-f8656f97c7b427a79887d03b2666fc38]: Commencement: Sch. 4 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-f8656f97c7b427a79887d03b2666fc38]: Commencement: Sch. 4 para. 1 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-33388cc317019a489c99c4b73e5e8a71]: Commencement: Sch. 4 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-33388cc317019a489c99c4b73e5e8a71]: Commencement: Sch. 4 para. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
-[^key-7ded45298c5f8b82f9289b54fb4ef7dd]: Commencement: Sch. 4 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
+[^c-7ded45298c5f8b82f9289b54fb4ef7dd]: Commencement: Sch. 4 Pt. 2 in operation at 7.1.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1)
 
 [^f01014]: Footnote: (1)
 

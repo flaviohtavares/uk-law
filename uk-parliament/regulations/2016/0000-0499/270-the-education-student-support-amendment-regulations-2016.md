@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 22 and 42(6) of the Teaching and Higher Education Act 1998[^f00001]:
 
-## 1. Citation, commencement, interpretation and application[^key-66e6c341197aa9b7797cd9e857e6626f]
+## 1. Citation, commencement, interpretation and application[^c-66e6c341197aa9b7797cd9e857e6626f]
 
 (1) These Regulations may be cited as the Education (Student Support) (Amendment) Regulations 2016 and come into force on 25th March 2016.
 
@@ -62,19 +62,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (b) who—
   - (i) before the date on which these Regulations come into force has been determined by the Secretary of State to be an eligible student falling within paragraph 10 of Part 2 of Schedule 1 to the 2011 Regulations; and
   - (ii) on or after that date makes an application for support under the 2011 Regulations on the basis of that determination in relation to an academic year which begins on or after 1st August 2016;
-- (c)[^key-408033abafbc6c8ca9ae9c6d1d9e2bea] who would have fallen to be determined as eligible within paragraph 10 of Part 2 of Schedule 1 to the 2011 Regulations had they made an application for support before the coming into force of these Regulations in relation to an academic year beginning before 1st August 2016.
+- (c)[^c-408033abafbc6c8ca9ae9c6d1d9e2bea] who would have fallen to be determined as eligible within paragraph 10 of Part 2 of Schedule 1 to the 2011 Regulations had they made an application for support before the coming into force of these Regulations in relation to an academic year beginning before 1st August 2016.
 
-## 2. Amendment of the 2011 Regulations[^key-c75b3554f043ca028394560cb6a406fa]
+## 2. Amendment of the 2011 Regulations[^c-c75b3554f043ca028394560cb6a406fa]
 
 The 2011 Regulations are amended in accordance with regulations 3 to 7.
 
-**3.**[^key-d71932c95af846a83bc9d041ab214182] In regulation 38(3) (General qualifying conditions for grants for living and other costs), after “paragraph 9” insert “or paragraph 10”.
+**3.**[^c-d71932c95af846a83bc9d041ab214182] In regulation 38(3) (General qualifying conditions for grants for living and other costs), after “paragraph 9” insert “or paragraph 10”.
 
-**4.**[^key-588a3adca2efabcd846900c3a2a92323] In regulation 69(3)(a) (Qualifying conditions for the loan for living costs – current system students), after “paragraph 9” insert “or paragraph 10”.
+**4.**[^c-588a3adca2efabcd846900c3a2a92323] In regulation 69(3)(a) (Qualifying conditions for the loan for living costs – current system students), after “paragraph 9” insert “or paragraph 10”.
 
-**5.**[^key-f3d1b1d09e7cdfdf731a049ff98fb0d8] In regulation 147(2)(a) (Disabled part-time students’ allowance), after “paragraph 9” insert “or paragraph 10”.
+**5.**[^c-f3d1b1d09e7cdfdf731a049ff98fb0d8] In regulation 147(2)(a) (Disabled part-time students’ allowance), after “paragraph 9” insert “or paragraph 10”.
 
-**6.**[^key-1a320d1f7af8732c20ff8821bdad0a65] In Schedule 1, Part 2 (Eligible Students – Categories) after paragraph 10, insert—
+**6.**[^c-1a320d1f7af8732c20ff8821bdad0a65] In Schedule 1, Part 2 (Eligible Students – Categories) after paragraph 10, insert—
 
 > **10A.** (1) A person who—
 >
@@ -117,18 +117,18 @@ The Explanatory Memorandum is published alongside the Regulations on www.legisla
 
 [^f00001]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21) section 146 and Schedule 11, the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1) Schedule 6, the Finance Act [2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14) section 147, the Higher Education Act [2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8) sections 42 and 43 and Schedule 7, the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22) section 257, the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21) section 76 and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). See section 43(1) of the Teaching and Higher Education Act 1998 for the definition of “prescribed” and “regulations”.
 
-[^key-66e6c341197aa9b7797cd9e857e6626f]: Commencement: Reg. 1 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
+[^c-66e6c341197aa9b7797cd9e857e6626f]: Commencement: Reg. 1 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986); amended by [S.I. 2012/1653](https://www.legislation.gov.uk/uksi/2012/1653), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2013/630](https://www.legislation.gov.uk/uksi/2013/630), [2013/1728](https://www.legislation.gov.uk/uksi/2013/1728), [2013/3106](https://www.legislation.gov.uk/uksi/2013/3106), [2014/1766](https://www.legislation.gov.uk/uksi/2014/1766), [2014/2103](https://www.legislation.gov.uk/uksi/2014/2103), [2014/2765](https://www.legislation.gov.uk/uksi/2014/2765) and [2015/1951](https://www.legislation.gov.uk/uksi/2015/1951).
 
-[^key-408033abafbc6c8ca9ae9c6d1d9e2bea]: Textual amendment: [Reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/4/c) inserted (with application in accordance with reg. 2(1) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2016 (S.I. 2016/584)](https://www.legislation.gov.uk/uksi/2016/584), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/584/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2016/584/regulation/7/2)
+[^c-408033abafbc6c8ca9ae9c6d1d9e2bea]: Textual amendment: [Reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/4/c) inserted (with application in accordance with reg. 2(1) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2016 (S.I. 2016/584)](https://www.legislation.gov.uk/uksi/2016/584), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/584/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2016/584/regulation/7/2)
 
-[^key-c75b3554f043ca028394560cb6a406fa]: Commencement: Reg. 2 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
+[^c-c75b3554f043ca028394560cb6a406fa]: Commencement: Reg. 2 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
 
-[^key-d71932c95af846a83bc9d041ab214182]: Commencement: Reg. 3 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
+[^c-d71932c95af846a83bc9d041ab214182]: Commencement: Reg. 3 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
 
-[^key-588a3adca2efabcd846900c3a2a92323]: Commencement: Reg. 4 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
+[^c-588a3adca2efabcd846900c3a2a92323]: Commencement: Reg. 4 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
 
-[^key-f3d1b1d09e7cdfdf731a049ff98fb0d8]: Commencement: Reg. 5 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
+[^c-f3d1b1d09e7cdfdf731a049ff98fb0d8]: Commencement: Reg. 5 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
 
-[^key-1a320d1f7af8732c20ff8821bdad0a65]: Commencement: Reg. 6 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)
+[^c-1a320d1f7af8732c20ff8821bdad0a65]: Commencement: Reg. 6 in force at 25.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/270/regulation/1/1)

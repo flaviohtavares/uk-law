@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Separate part of a register for each parliamentary polling district[^key-cc63371b90f0201b965e255dcdcae9bd]
+## 38. Separate part of a register for each parliamentary polling district[^c-cc63371b90f0201b965e255dcdcae9bd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc63371b90f0201b965e255dcdcae9bd]: Commencement: Reg. 38 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-cc63371b90f0201b965e255dcdcae9bd]: Commencement: Reg. 38 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Agency arrangements and provision of services[^key-2cd50b7a2eade7eff15af9f774009c2e][^c16527191]
+## 83. Agency arrangements and provision of services[^c-2cd50b7a2eade7eff15af9f774009c2e][^c16527191]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any functions of one of them to be exercised by the other,
 - (b) any functions of the Welsh Ministers to be exercised by members of staff of the relevant authority,
-- (c) any functions of the relevant authority to be exercised by members of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, or
+- (c) any functions of the relevant authority to be exercised by members of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, or
 - (d) the provision of administrative, professional or technical services by one of them for the other.
 
 (2) Any arrangements under paragraph (a), (b) or (c) of subsection (1) for the exercise of functions of the Welsh Ministers do not affect the responsibility of the Welsh Ministers; and such arrangements for the exercise of any functions of a relevant authority do not affect the responsibility of the relevant authority.
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2cd50b7a2eade7eff15af9f774009c2e]: Modification: S. 83 modified by 2005 c. 11, s. 15(3) (as inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/3), [29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b), [(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/3))
+[^c-2cd50b7a2eade7eff15af9f774009c2e]: Modification: S. 83 modified by 2005 c. 11, s. 15(3) (as inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/3), [29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b), [(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/3))
 
 [^c16527191]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred by Articles 24(1) to (3) and (5) and 43(5) of the Education (Northern Ireland) Order 2006[^f00001], and after consulting as required by Article 24(4) of that Order, makes the following Regulations:
 
-## 1. Citation and commencement[^key-ed3ca6684e02cbca2c7f143ad0b37cbb]
+## 1. Citation and commencement[^c-ed3ca6684e02cbca2c7f143ad0b37cbb]
 
 These Regulations may be cited as the Education (Pupil Reporting) Regulations (Northern Ireland) 2009 and shall come into operation on 1st October 2009.
 
-## 2. Interpretation[^key-2328162956e90a4f93fcc588fd385c5b]
+## 2. Interpretation[^c-2328162956e90a4f93fcc588fd385c5b]
 
 In these Regulations—
 
@@ -57,17 +57,17 @@ In these Regulations—
 - “sixth form” means the period of full-time secondary education coming immediately after the end of key stage 4; and
 - “summative record of achievement” means the information specified in regulation 9.
 
-## 3. Revocation[^key-f007382bfb077d195a0da353fee150f7]
+## 3. Revocation[^c-f007382bfb077d195a0da353fee150f7]
 
 Regulations 5 to 8 of the Education (Pupil Records and Reporting) (Transitional) Regulations (Northern Ireland) 2007[^f00002] are revoked.
 
-## 4. Application[^key-02fcb10d082b133937011387e6ed4db6]
+## 4. Application[^c-02fcb10d082b133937011387e6ed4db6]
 
 (1) Subject to paragraph (2), these Regulations apply to all grant-aided schools.
 
 (2) These Regulations shall not apply to nursery schools, or in respect of pupils in primary schools or special schools who have not attained the lower limit of compulsory school age.
 
-## 5. General duties of the principal – annual reporting[^key-602f2123b7545d54a0adcb4ff7dfe7e1]
+## 5. General duties of the principal – annual reporting[^c-602f2123b7545d54a0adcb4ff7dfe7e1]
 
 (1) The principal of each grant-aided school shall make available to the parents of each pupil registered at the school the information relating to that pupil’s educational and other achievements specified in regulation 6.
 
@@ -77,7 +77,7 @@ Regulations 5 to 8 of the Education (Pupil Records and Reporting) (Transitional)
 - (b) be signed by the principal; and
 - (c) provide the name of the school.
 
-**6.**[^key-0efa5c39cc3f850c8038b1d19c9e6554] (1) Subject to paragraphs (2) to (4), the information required by regulation 5(1) to be made available in relation to a pupil in:
+**6.**[^c-0efa5c39cc3f850c8038b1d19c9e6554] (1) Subject to paragraphs (2) to (4), the information required by regulation 5(1) to be made available in relation to a pupil in:
 
 - (a) foundation stage is specified in Part 1 of Schedule 1;
 - (b) key stages 1 and 2 is specified in Part 2 of that Schedule;
@@ -91,15 +91,15 @@ Regulations 5 to 8 of the Education (Pupil Records and Reporting) (Transitional)
 
 (4) The information required by this regulation shall include any qualification, award or certificate gained by the pupil, including any credit awarded towards a qualification where the pupil did not obtain the full qualification, that the school, any other school (including an independent school), any institution of further education, or any other person or body approved by the Department and appearing to the Board of Governors to be qualified and equipped to provide that education, has prepared him for in the school year to which the information relates, whether in connection with his studies or otherwise.
 
-## 7. Additional information in respect of pupils in the final years of key stages 1, 2 and 3[^key-d6c8279273d5ba0a95baf06c18b46dd6]
+## 7. Additional information in respect of pupils in the final years of key stages 1, 2 and 3[^c-d6c8279273d5ba0a95baf06c18b46dd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c15ace13cbfb405a402d0cef820fc4c7] In the case of each pupil registered at the school who is in the final year of key stage 1, 2 or 3 it shall be the duty of the principal to send notification to NICCEA, in such form and by such date as it may require, of the results of assessments in relation to any cross-curricular skills in which the pupil was assessed in that school year with reference to levels of progression specified by an order made by the Department under Article 8(3) of the 2006 Order.
+**8.**[^c-c15ace13cbfb405a402d0cef820fc4c7] In the case of each pupil registered at the school who is in the final year of key stage 1, 2 or 3 it shall be the duty of the principal to send notification to NICCEA, in such form and by such date as it may require, of the results of assessments in relation to any cross-curricular skills in which the pupil was assessed in that school year with reference to levels of progression specified by an order made by the Department under Article 8(3) of the 2006 Order.
 
-## 9. Summative record of achievement for pupils in the final years of key stage 2, key stage 4 and sixth form[^key-95a0a638546d28f03abc6fff41462c0e]
+## 9. Summative record of achievement for pupils in the final years of key stage 2, key stage 4 and sixth form[^c-95a0a638546d28f03abc6fff41462c0e]
 
-(1) In addition to the requirements set out in regulations 5 and 6[^key-ce8645a424691c76e2ac74acc7b63b11] , the principal of each grant-aided school shall make available a summative record of achievement at the end of key stages 2 and 4, and sixth form.
+(1) In addition to the requirements set out in regulations 5 and 6[^c-ce8645a424691c76e2ac74acc7b63b11] , the principal of each grant-aided school shall make available a summative record of achievement at the end of key stages 2 and 4, and sixth form.
 
 (2) The summative record of achievement shall be made available to the parent of a pupil in the final year of key stage 2, or to the pupil or his parent where the pupil is in the final year of key stage 4 or sixth form.
 
@@ -109,9 +109,9 @@ Regulations 5 to 8 of the Education (Pupil Records and Reporting) (Transitional)
 - (b) brief particulars of any school societies, clubs or activities in which the pupil was involved in the course of his attendance at the school or at any other school (including an independent school), whether in connection with his studies or otherwise; and
 - (c) particulars of any position of responsibility held by the pupil in the school or in any other school (including an independent school) attended by him or in any societies, clubs or activities mentioned in sub-paragraph (b).
 
-## 10. Time and manner of provision of information to parents[^key-5b067e939ddf60013d1417aa7db033c2]
+## 10. Time and manner of provision of information to parents[^c-5b067e939ddf60013d1417aa7db033c2]
 
-(1) Subject to paragraph (2) the principal shall send the information required by regulations 5(1) and 9[^key-fab2e9b8ebbdc4751efaaeb27ddd986a] (whether by post or otherwise) to the pupil’s parent not later than 30<sup>th</sup> June in the school year to which the information relates.
+(1) Subject to paragraph (2) the principal shall send the information required by regulations 5(1) and 9[^c-fab2e9b8ebbdc4751efaaeb27ddd986a] (whether by post or otherwise) to the pupil’s parent not later than 30<sup>th</sup> June in the school year to which the information relates.
 
 (2) Where the principal receives information after 30<sup>th</sup> June in any school year consisting of results of public examinations taken by, or assessments in respect of, a pupil at the school during the school year, he shall send that information (whether by post or otherwise) to the pupil’s parent as soon as reasonably practicable.
 
@@ -127,7 +127,7 @@ Department of Education
 
 Regulation 6(1)
 
-### PART 1 — Information to be provided annually to the parents of each pupil in the foundation stage in relation to his educational and other achievements[^key-1eda0b8bad15aaf30cd1ab91b14fb55b]
+### PART 1 — Information to be provided annually to the parents of each pupil in the foundation stage in relation to his educational and other achievements[^c-1eda0b8bad15aaf30cd1ab91b14fb55b]
 
 The assessment of the pupil’s progress in relation to Communication (taking account of his achievement in the Language and Literacy area of learning) and Using Mathematics (taking account of his achievement in the Mathematics and Numeracy area of learning).
 
@@ -149,7 +149,7 @@ Brief particulars of the pupil’s achievement in any other area of learning or 
 - Focus for Development
 - Any further Optional Content.
 
-### PART 2 — Information to be provided annually to the parents of each pupil in key stages 1 and 2 in relation to his educational and other achievements[^key-1a794dedfaab729ccf7ba6c97e78a495]
+### PART 2 — Information to be provided annually to the parents of each pupil in key stages 1 and 2 in relation to his educational and other achievements[^c-1a794dedfaab729ccf7ba6c97e78a495]
 
 The assessment of the pupil’s progress in relation to Communication (taking account of his achievement in the Language and Literacy area of learning) and Using Mathematics (taking account of his achievement in the Mathematics and Numeracy area of learning).
 
@@ -171,7 +171,7 @@ Brief particulars of the pupil’s achievement in any other area of learning or 
 - Focus for Development
 - Any further Optional Content.
 
-### PART 3 — Information to be provided annually to the parents of each pupil in key stage 3 in relation to his educational and other achievements[^key-0f2cc96ff228e9676de7257361889f9e]
+### PART 3 — Information to be provided annually to the parents of each pupil in key stage 3 in relation to his educational and other achievements[^c-0f2cc96ff228e9676de7257361889f9e]
 
 The assessment of the pupil’s progress in relation to Communication (taking account of his achievement in the Language and Literacy area of learning) and Using Mathematics (taking account of his achievement in the Mathematics and Numeracy area of learning).
 
@@ -195,7 +195,7 @@ Brief particulars of the pupil’s achievement in any other area of learning or 
 - Focus for Development
 - Any further Optional Content.
 
-### PART 4 — Information to be provided annually to the parents of each pupil in key stage 4 in relation to his educational and other achievements[^key-32db8487c32d71accf0d0abc9eff0816]
+### PART 4 — Information to be provided annually to the parents of each pupil in key stage 4 in relation to his educational and other achievements[^c-32db8487c32d71accf0d0abc9eff0816]
 
 The assessment of the pupil’s progress in relation to Communication (taking account of his achievement in the Language and Literacy area of learning) and Using Mathematics (taking account of his achievement in the Mathematics and Numeracy area of learning).
 
@@ -213,7 +213,7 @@ Brief particulars of the pupil’s achievement in any other area of learning or 
 - Focus for Development
 - Any further Optional Content.
 
-### PART 5 — Information to be provided annually to the parents of each pupil in the sixth form in relation to his educational and other achievements[^key-bc9ed5f404eb5edf7375f2895c143df1]
+### PART 5 — Information to be provided annually to the parents of each pupil in the sixth form in relation to his educational and other achievements[^c-bc9ed5f404eb5edf7375f2895c143df1]
 
 Any qualification, award or certificate gained by the pupil, including any credit awarded towards a qualification where the pupil did not obtain the full qualification, that the school, any other school (including an independent school), any institution of further education, or any other person or body approved by the Department and appearing to the Board of Governors to be qualified and equipped to provide that education, has prepared him for, whether in connection with his studies or otherwise, and detail the name, highest result achieved and the year the qualification, award or certificate was achieved.
 
@@ -223,7 +223,7 @@ Brief particulars of the pupil’s achievement in any area of learning or activi
 
 Regulation 7
 
-[^key-592c7b8e2d01583df2f4059a58a4115f]...
+[^c-592c7b8e2d01583df2f4059a58a4115f]...
 
 -
 -
@@ -257,40 +257,40 @@ Under regulation 10, the principal must make available the above information bef
 
 [^f00001]: Footnote: [S.I. 2006/1915 (N.I. 11)](https://www.legislation.gov.uk/nisi/2006/1915)
 
-[^key-ed3ca6684e02cbca2c7f143ad0b37cbb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-ed3ca6684e02cbca2c7f143ad0b37cbb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-2328162956e90a4f93fcc588fd385c5b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/231/regulation/2) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-2328162956e90a4f93fcc588fd385c5b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/231/regulation/2) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-f007382bfb077d195a0da353fee150f7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/231/regulation/3) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-f007382bfb077d195a0da353fee150f7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/231/regulation/3) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2007 No.43](https://www.legislation.gov.uk/nisr/2007/43)
 
-[^key-02fcb10d082b133937011387e6ed4db6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/231/regulation/4) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-02fcb10d082b133937011387e6ed4db6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/231/regulation/4) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-602f2123b7545d54a0adcb4ff7dfe7e1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/231/regulation/5) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-602f2123b7545d54a0adcb4ff7dfe7e1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/231/regulation/5) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-0efa5c39cc3f850c8038b1d19c9e6554]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/231/regulation/6) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-0efa5c39cc3f850c8038b1d19c9e6554]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/231/regulation/6) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-d6c8279273d5ba0a95baf06c18b46dd6]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/231/regulation/7) revoked (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/2)
+[^c-d6c8279273d5ba0a95baf06c18b46dd6]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/231/regulation/7) revoked (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/2)
 
-[^key-c15ace13cbfb405a402d0cef820fc4c7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/231/regulation/8) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-c15ace13cbfb405a402d0cef820fc4c7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/231/regulation/8) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-95a0a638546d28f03abc6fff41462c0e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/231/regulation/9) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-95a0a638546d28f03abc6fff41462c0e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/231/regulation/9) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-ce8645a424691c76e2ac74acc7b63b11]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2009/231/regulation/9/1) substituted (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/3)
+[^c-ce8645a424691c76e2ac74acc7b63b11]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2009/231/regulation/9/1) substituted (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/3)
 
-[^key-5b067e939ddf60013d1417aa7db033c2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/231/regulation/10) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-5b067e939ddf60013d1417aa7db033c2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/231/regulation/10) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-fab2e9b8ebbdc4751efaaeb27ddd986a]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2009/231/regulation/10/1) substituted (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/4)
+[^c-fab2e9b8ebbdc4751efaaeb27ddd986a]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2009/231/regulation/10/1) substituted (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/4)
 
-[^key-1eda0b8bad15aaf30cd1ab91b14fb55b]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/1) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-1eda0b8bad15aaf30cd1ab91b14fb55b]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/1) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-1a794dedfaab729ccf7ba6c97e78a495]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/2) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-1a794dedfaab729ccf7ba6c97e78a495]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/2) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-0f2cc96ff228e9676de7257361889f9e]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/3) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-0f2cc96ff228e9676de7257361889f9e]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/3) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-32db8487c32d71accf0d0abc9eff0816]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/4) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-32db8487c32d71accf0d0abc9eff0816]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/4) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-bc9ed5f404eb5edf7375f2895c143df1]: Commencement: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/5) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
+[^c-bc9ed5f404eb5edf7375f2895c143df1]: Commencement: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2009/231/schedule/1/part/5) in operation at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/231/regulation/1)
 
-[^key-592c7b8e2d01583df2f4059a58a4115f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/231/schedule/2) revoked (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/2)
+[^c-592c7b8e2d01583df2f4059a58a4115f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/231/schedule/2) revoked (30.3.2026) by [The Education (Pupil Reporting) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/53)](https://www.legislation.gov.uk/nisr/2026/53), [regs. 1](https://www.legislation.gov.uk/nisr/2026/53/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/53/regulation/3/2)

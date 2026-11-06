@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401. Accommodation for Authority and functional bodies.[^c12808321][^key-b6dfa9b69617a01168c1df0b6ce5df33]
+## 401. Accommodation for Authority and functional bodies.[^c12808321][^c-b6dfa9b69617a01168c1df0b6ce5df33]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ he may by order make provision substituting for that period (whether or not it h
 
 [^c12808321]: Commencement: S. 401 wholly in force at 12.1.2000; by virtue of s. 425(2) it is provided that this Act comes into force at Royal Assent in regard to any power of a Minister of the Crown to make regulations or an order; s. 401 in force at 12.1.2000 by [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 2](https://www.legislation.gov.uk/uksi/1999/3434/article/2)
 
-[^key-b6dfa9b69617a01168c1df0b6ce5df33]: Textual amendment: S. 401 cross-heading substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/52/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/113/article/2/k)
+[^c-b6dfa9b69617a01168c1df0b6ce5df33]: Textual amendment: S. 401 cross-heading substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/52/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/113/article/2/k)

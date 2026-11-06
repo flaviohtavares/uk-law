@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.175. Procedure at hearing[^key-b1738e868c19c907229b039cf4dbad56]
+## 6.175. Procedure at hearing[^c-b1738e868c19c907229b039cf4dbad56]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1738e868c19c907229b039cf4dbad56]: Commencement: [Rule 6.175](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.175) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b1738e868c19c907229b039cf4dbad56]: Commencement: [Rule 6.175](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.175) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00182]: Marginal citation: \[FORM 6.58\]

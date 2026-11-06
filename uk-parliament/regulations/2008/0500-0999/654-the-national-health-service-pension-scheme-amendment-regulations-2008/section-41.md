@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Substitution of Part M[^key-372633f6f97dc4c06a1539696ff4ab21]
+## 41. Substitution of Part M[^c-372633f6f97dc4c06a1539696ff4ab21]
 
 *Extent: E+W*
 
@@ -166,4 +166,4 @@ For Part M substitute—
 
 ## Annotations
 
-[^key-372633f6f97dc4c06a1539696ff4ab21]: Commencement: Reg. 41 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-372633f6f97dc4c06a1539696ff4ab21]: Commencement: Reg. 41 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Notice period for active members[^key-eecc2641dee491a368625d484cbe606d]
+## 83. Notice period for active members[^c-eecc2641dee491a368625d484cbe606d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eecc2641dee491a368625d484cbe606d]: Commencement: Reg. 83 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-eecc2641dee491a368625d484cbe606d]: Commencement: Reg. 83 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

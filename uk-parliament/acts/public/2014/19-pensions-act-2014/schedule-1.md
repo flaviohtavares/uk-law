@@ -24,7 +24,7 @@ Section 5
 
 ### Part 1 — Introduction
 
-**1.**[^key-e9806bb02ba16244aa63092fa049adc3] (1) This Schedule sets out how to calculate the amounts used to work out the transitional rate of a person's state pension.
+**1.**[^c-e9806bb02ba16244aa63092fa049adc3] (1) This Schedule sets out how to calculate the amounts used to work out the transitional rate of a person's state pension.
 
 (2) Part 2 of the Schedule sets out how to calculate the amount for a person's pre-commencement qualifying years.
 
@@ -34,7 +34,7 @@ Section 5
 
 #### How to calculate the amount for pre-commencement qualifying years
 
-**2.**[^key-aaee1a2aae25ce429ce7ead18e5a2fcf] A person's amount for pre-commencement qualifying years is calculated as follows.
+**2.**[^c-aaee1a2aae25ce429ce7ead18e5a2fcf] A person's amount for pre-commencement qualifying years is calculated as follows.
 
 - *Step 1 - calculate the person's pension under the old system* Calculate the weekly rate based on the old state pension and graduated retirement benefit (see paragraph 3 for more about this).
 - *Step 2 - calculate a pension based on the new system* Calculate the weekly rate based on the new state pension (see paragraph 4 for more about this).
@@ -45,7 +45,7 @@ The amount for the person's pre-commencement qualifying years is the amount as r
 
 #### Step 1: calculation of the person's pension under the old system
 
-**3.**[^key-326a1af218ecab64d85bf7f5ac1c84e9] (1) For the purposes of Step 1 of the calculation in paragraph 2, the weekly rate based on the old state pension and graduated retirement benefit is—
+**3.**[^c-326a1af218ecab64d85bf7f5ac1c84e9] (1) For the purposes of Step 1 of the calculation in paragraph 2, the weekly rate based on the old state pension and graduated retirement benefit is—
 
 - (a) the rate of any Category A retirement pension and graduated retirement benefit to which the person would have been entitled if the person had reached pensionable age on 6 April 2016, or
 - (b) the rate of any graduated retirement benefit to which the person would have been entitled under section 36(7) of the National Insurance Act 1965 (persons not entitled to retirement pension) if the person had reached pensionable age on that date.
@@ -75,7 +75,7 @@ The amount for the person's pre-commencement qualifying years is the amount as r
 
 #### Step 2: calculation of a pension based on the new system
 
-**4.**[^key-4e59c13ef9664f11792018b39f1ea6ab] (1) For the purposes of Step 2 of the calculation in paragraph 2, the weekly rate based on the new state pension is as follows.
+**4.**[^c-4e59c13ef9664f11792018b39f1ea6ab] (1) For the purposes of Step 2 of the calculation in paragraph 2, the weekly rate based on the new state pension is as follows.
 
 (2) If the person has 35 or more pre-commencement qualifying years, the rate is equal to—
 
@@ -91,7 +91,7 @@ The amount for the person's pre-commencement qualifying years is the amount as r
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2014/19)
 
-**5.**[^key-7e4fefce65bd50c33b04d73fa79e9f60] (1) In paragraph 4(2) and (3) references to an “amount to reflect contracting out under the old system” are to an amount equal to any difference between—
+**5.**[^c-7e4fefce65bd50c33b04d73fa79e9f60] (1) In paragraph 4(2) and (3) references to an “amount to reflect contracting out under the old system” are to an amount equal to any difference between—
 
 - (a) the amount of any additional pension included in the Category A retirement pension calculated for the purposes of Step 1 of the calculation in paragraph 2, and
 - (b) the amount of any additional pension that would have been included if—
@@ -102,7 +102,7 @@ The amount for the person's pre-commencement qualifying years is the amount as r
 
 #### Step 4: revaluation
 
-**6.**[^key-522e657008c8bd832ee24815d826a289] (1) This paragraph determines how the amount mentioned in Step 4 of the calculation in paragraph 2 is to be revalued for the purposes of that Step.
+**6.**[^c-522e657008c8bd832ee24815d826a289] (1) This paragraph determines how the amount mentioned in Step 4 of the calculation in paragraph 2 is to be revalued for the purposes of that Step.
 
 (2) If the amount is equal to or less than the full rate of the state pension on 6 April 2016, the amount is to be revalued in accordance with increases in the full rate of the state pension (see sub-paragraph (4)).
 
@@ -123,7 +123,7 @@ The amount for the person's pre-commencement qualifying years is the amount as r
 
 ### Part 3 — Amount for post-commencement qualifying years
 
-**7.**[^key-c235044af0f729e81b3398e1a927d4ef] (1) A person's amount for post-commencement qualifying years (if any) is calculated as follows.
+**7.**[^c-c235044af0f729e81b3398e1a927d4ef] (1) A person's amount for post-commencement qualifying years (if any) is calculated as follows.
 
 (2) If the person has 35 or more post-commencement qualifying years, the amount is equal to the full rate of the state pension on the day on which the person reached pensionable age.
 
@@ -133,16 +133,16 @@ The amount for the person's pre-commencement qualifying years is the amount as r
 
 ## Annotations
 
-[^key-e9806bb02ba16244aa63092fa049adc3]: Commencement: Sch. 1 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e9806bb02ba16244aa63092fa049adc3]: Commencement: Sch. 1 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-aaee1a2aae25ce429ce7ead18e5a2fcf]: Commencement: Sch. 1 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-aaee1a2aae25ce429ce7ead18e5a2fcf]: Commencement: Sch. 1 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-326a1af218ecab64d85bf7f5ac1c84e9]: Commencement: Sch. 1 para. 3 in force at 6.4.216, see s. 56(1)(4)
+[^c-326a1af218ecab64d85bf7f5ac1c84e9]: Commencement: Sch. 1 para. 3 in force at 6.4.216, see s. 56(1)(4)
 
-[^key-4e59c13ef9664f11792018b39f1ea6ab]: Commencement: Sch. 1 para. 4 in force at 6.4.216, see s. 56(1)(4)
+[^c-4e59c13ef9664f11792018b39f1ea6ab]: Commencement: Sch. 1 para. 4 in force at 6.4.216, see s. 56(1)(4)
 
-[^key-7e4fefce65bd50c33b04d73fa79e9f60]: Commencement: Sch. 1 para. 5 in force at 6.4.216, see s. 56(1)(4)
+[^c-7e4fefce65bd50c33b04d73fa79e9f60]: Commencement: Sch. 1 para. 5 in force at 6.4.216, see s. 56(1)(4)
 
-[^key-522e657008c8bd832ee24815d826a289]: Commencement: Sch. 1 para. 6 in force at 6.4.216, see s. 56(1)(4)
+[^c-522e657008c8bd832ee24815d826a289]: Commencement: Sch. 1 para. 6 in force at 6.4.216, see s. 56(1)(4)
 
-[^key-c235044af0f729e81b3398e1a927d4ef]: Commencement: Sch. 1 para. 7 in force at 6.4.216, see s. 56(1)(4)
+[^c-c235044af0f729e81b3398e1a927d4ef]: Commencement: Sch. 1 para. 7 in force at 6.4.216, see s. 56(1)(4)

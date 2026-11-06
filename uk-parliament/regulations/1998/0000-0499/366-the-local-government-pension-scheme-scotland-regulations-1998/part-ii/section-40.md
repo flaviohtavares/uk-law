@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Surviving spouse’s long-term pension[^key-a83b85e57ec946194a78861f1f1b914f]
+## 40. Surviving spouse’s long-term pension[^c-a83b85e57ec946194a78861f1f1b914f]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a83b85e57ec946194a78861f1f1b914f]: Commencement: Reg. 40 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-a83b85e57ec946194a78861f1f1b914f]: Commencement: Reg. 40 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

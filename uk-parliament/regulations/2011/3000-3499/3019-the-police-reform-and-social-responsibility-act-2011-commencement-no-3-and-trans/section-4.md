@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transitional provisions in relation to the accounts of the Metropolitan Police Authority[^key-f1ce3b447eb54748fa6fc20f21e992c6]
+## 4. Transitional provisions in relation to the accounts of the Metropolitan Police Authority[^c-f1ce3b447eb54748fa6fc20f21e992c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Regulations 7 and 8 of the Accounts and Audit (England) Regulations 2011[^f00003
 
 ## Annotations
 
-[^key-f1ce3b447eb54748fa6fc20f21e992c6]: Commencement: Art. 4 in force at made date
+[^c-f1ce3b447eb54748fa6fc20f21e992c6]: Commencement: Art. 4 in force at made date
 
 [^f00003]: Footnote: [S.I. 2011/817](https://www.legislation.gov.uk/uksi/2011/817).

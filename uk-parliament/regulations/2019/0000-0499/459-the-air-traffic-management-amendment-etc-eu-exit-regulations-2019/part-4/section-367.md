@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 367. Council Decision [2004/636/EC](https://www.legislation.gov.uk/eud/2004/636)[^key-bcb3c59283fc0b4b07ff1540a488303b]
+## 367. Council Decision [2004/636/EC](https://www.legislation.gov.uk/eud/2004/636)[^c-bcb3c59283fc0b4b07ff1540a488303b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Decision of 29 April 2004 on the conclusion by the European Community of
 
 ## Annotations
 
-[^key-bcb3c59283fc0b4b07ff1540a488303b]: Commencement: Reg. 367 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-bcb3c59283fc0b4b07ff1540a488303b]: Commencement: Reg. 367 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

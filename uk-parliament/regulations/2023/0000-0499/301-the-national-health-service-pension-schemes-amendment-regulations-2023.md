@@ -54,7 +54,7 @@ In accordance with section 10(1) of the 1972 Act[^f00003] and section 3(5) of th
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-ff20b0a0e0561fb14afddb5552ac72a9]
+### 1. Citation, commencement and extent[^c-ff20b0a0e0561fb14afddb5552ac72a9]
 
 (1) These Regulations may be cited as the National Health Service Pension Schemes (Amendment) Regulations 2023.
 
@@ -64,23 +64,23 @@ In accordance with section 10(1) of the 1972 Act[^f00003] and section 3(5) of th
 
 ## PART 2 — Amendment of the National Health Service Pension Scheme Regulations 1995
 
-### 2. General[^key-55361b4ac62d27b47aeb2076eac0310d]
+### 2. General[^c-55361b4ac62d27b47aeb2076eac0310d]
 
 The National Health Service Pension Scheme Regulations 1995[^f00004] are amended in accordance with this Part.
 
-### 3. Amendment of regulation K2[^key-1a19956a7164045c98790fa627d21788]
+### 3. Amendment of regulation K2[^c-1a19956a7164045c98790fa627d21788]
 
 In regulation K2 (guaranteed minimum pensions)[^f00005], in paragraph (2)(b), for “reduced or suspended under regulation S1 or S2 (members who return to NHS employment after becoming entitled to a pension)” substitute “reduced under regulation S2 (reduction of pension on return to NHS employment)”.
 
-### 4. Amendment of regulation R4[^key-898e2effd464094abe53da1cabed38ca]
+### 4. Amendment of regulation R4[^c-898e2effd464094abe53da1cabed38ca]
 
 In regulation R4 (members doing more than one job), omit paragraph (8).
 
-### 5. Omission of regulation S1[^key-bc670bc81fbaa396dd709bbd9a4349f7]
+### 5. Omission of regulation S1[^c-bc670bc81fbaa396dd709bbd9a4349f7]
 
 Omit regulation S1 (suspension of pension on return to NHS employment)[^f00006].
 
-### 6. Amendment of regulation S2[^key-6dbfc7afa8cae233f75a3e291649c4d5]
+### 6. Amendment of regulation S2[^c-6dbfc7afa8cae233f75a3e291649c4d5]
 
 In regulation S2 (reduction of pension on return to NHS employment), in paragraph (14), for the definition of “NHS employment” substitute—
 
@@ -90,15 +90,15 @@ In regulation S2 (reduction of pension on return to NHS employment), in paragrap
 
 ## PART 3 — Amendment of the National Health Service Pension Scheme Regulations 2015
 
-### 7. General[^key-c7dce7d6fd8b5e474d0548a8013e5e1d]
+### 7. General[^c-c7dce7d6fd8b5e474d0548a8013e5e1d]
 
 The National Health Service Pension Scheme Regulations 2015[^f00007] are amended in accordance with this Part.
 
-### 8. Amendment of regulation 19[^key-cc9ff6ee65718f9f2461dd517dd48779]
+### 8. Amendment of regulation 19[^c-cc9ff6ee65718f9f2461dd517dd48779]
 
 In regulation 19 (restrictions on membership)[^f00008], in sub-paragraph (1)(g), insert “(iv) a primary care network management company” and after “APMS contract” insert “or primary care network standard sub-contract”.
 
-### 9. Amendment of regulation 30[^key-3108a59b5392a77ad9f3197b65681f6e]
+### 9. Amendment of regulation 30[^c-3108a59b5392a77ad9f3197b65681f6e]
 
 (1) Regulation 30 (members’ contributions: employees)[^f00009] is amended as follows.
 
@@ -106,7 +106,7 @@ In regulation 19 (restrictions on membership)[^f00008], in sub-paragraph (1)(g),
 
 (3) In paragraph (3A), for “2022/23”, in both places it occurs, substitute “2023/24”.
 
-### 10. Amendment of regulation 31[^key-0cdeeed91a57b97e231771761596fed9]
+### 10. Amendment of regulation 31[^c-0cdeeed91a57b97e231771761596fed9]
 
 (1) Regulation 31 (members’ contributions: practitioners and non-GP providers)[^f00010] is amended as follows.
 
@@ -137,27 +137,27 @@ In regulation 19 (restrictions on membership)[^f00008], in sub-paragraph (1)(g),
   ;
 - (e) in the heading for Table 2, for “2022/23” substitute “2023/24”.
 
-### 11. Amendment of regulation 33[^key-b7db3e3641e0eada6ae14ef4d6642096]
+### 11. Amendment of regulation 33[^c-b7db3e3641e0eada6ae14ef4d6642096]
 
 In regulation 33 (contributions by employing authorities), in the table following paragraph (6), after both occurrences of “OOH provider”, and after “non-GP provider”, insert “or a primary care network management company”.
 
-### 12. Amendment of regulation 38[^key-0e2c6bf49fe94a4b357dd5146b4ce7c5]
+### 12. Amendment of regulation 38[^c-0e2c6bf49fe94a4b357dd5146b4ce7c5]
 
 In regulation 38 (members’ contributions: supplementary: medical practitioners and non-GP providers)[^f00011], in paragraph (2)(a), after “in accordance” insert “with”.
 
-### 13. Amendment of regulation 86[^key-7064c8b482314d46d087b6e0cc3f4e33]
+### 13. Amendment of regulation 86[^c-7064c8b482314d46d087b6e0cc3f4e33]
 
 In regulation 86 (terms of employment improve after election), in paragraph (3), after “regulation 85(2)” insert “(a) and (b)”.
 
-### 14. Amendment of regulation 105[^key-bb238ac505b75f87de9f144ac76a5d5e]
+### 14. Amendment of regulation 105[^c-bb238ac505b75f87de9f144ac76a5d5e]
 
 In regulation 105 (previous earnings: general), in paragraph (7), in the definition of “re-valued pensionable earnings”, after “by order” insert “(in respect of the NHS Pension Scheme 2015)”.
 
-### 15. Amendment of regulation 150[^key-88335c644673cb12304d7e3cd81ef2b9]
+### 15. Amendment of regulation 150[^c-88335c644673cb12304d7e3cd81ef2b9]
 
 In regulation 150 (interpretation), in paragraph (3)[^f00012] insert “(e) a primary care network standard sub-contract[^f00013].”.
 
-### 16. Amendment of regulation 166[^key-2b5dfa0117276ace78cab75ad0f1462d]
+### 16. Amendment of regulation 166[^c-2b5dfa0117276ace78cab75ad0f1462d]
 
 (1) Regulation 166 (medical practitioner)[^f00014] is amended as follows.
 
@@ -165,7 +165,7 @@ In regulation 150 (interpretation), in paragraph (3)[^f00012] insert “(e) a pr
 
 (3) In paragraph (7), after the first occurrence of “a Local Health Board” insert “or a primary care network management company” and after the second occurrence insert “or as a party to a primary care network standard sub-contract”.
 
-### 17. Amendment of Schedule 9[^key-ea7e684f2d25fd95a262019caf7a53a7]
+### 17. Amendment of Schedule 9[^c-ea7e684f2d25fd95a262019caf7a53a7]
 
 (1) Schedule 9 (pension accounts) is amended as follows.
 
@@ -194,11 +194,11 @@ In regulation 150 (interpretation), in paragraph (3)[^f00012] insert “(e) a pr
 
 (4) In paragraph 4 (meaning of “**leaver AP index adjustment**”), in sub-paragraph (2)(b), after “in an order”, insert “(in respect of the NHS Pension Scheme 2015)”.
 
-### 18. Amendment of Schedule 10[^key-890c4a98489a709af9b78460fb4738cf]
+### 18. Amendment of Schedule 10[^c-890c4a98489a709af9b78460fb4738cf]
 
 In Schedule 10 (practitioner income)[^f00015], in sub-paragraph (2) of paragraph (2) (medical practitioner), under “CASE 1” after “(c) an APMS contract;” insert “(ca) a primary care network standard sub-contract;”.
 
-### 19. Amendment of Schedule 15[^key-fb9abc82383727809934029d3f9941f7]
+### 19. Amendment of Schedule 15[^c-fb9abc82383727809934029d3f9941f7]
 
 (1) Schedule 15 (definitions) is amended as follows.
 
@@ -210,15 +210,15 @@ In Schedule 10 (practitioner income)[^f00015], in sub-paragraph (2) of paragraph
 
 ## PART 4 — Amendment of the National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015
 
-### 20. General[^key-636f880c29645a8a34a943a7cb1c0a15]
+### 20. General[^c-636f880c29645a8a34a943a7cb1c0a15]
 
 The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015[^f00018] are amended in accordance with this Part.
 
-### 21. Amendment of regulation 37[^key-7b98ae8c6e2470ee833b1b55f32c5dab]
+### 21. Amendment of regulation 37[^c-7b98ae8c6e2470ee833b1b55f32c5dab]
 
 In regulation 37(1) (variations to lump sums for 1995 and 2008 pensioners joining new scheme)[^f00019], for “and 7”, in the first place it occurs, substitute “, 7, 9 and 10”.
 
-### 22. Amendment of Schedule 1[^key-dfeea1303855fb45e02d6b7d9f016e87]
+### 22. Amendment of Schedule 1[^c-dfeea1303855fb45e02d6b7d9f016e87]
 
 In paragraph 1 of Schedule 1 (eligibility of 1995 Section pensioners to join new scheme)[^f00020], at the end of the table insert—
 
@@ -229,18 +229,18 @@ In paragraph 1 of Schedule 1 (eligibility of 1995 Section pensioners to join new
 
 ## PART 5 — Modifications of member contribution provisions in the National Health Service Pension Scheme Regulations 2015
 
-### 23. General[^key-1a733e8f2494007a8c4c610d8bead1fc]
+### 23. General[^c-1a733e8f2494007a8c4c610d8bead1fc]
 
 The National Health Service Pension Scheme Regulations 2015[^f00021] are modified in accordance with this Part.
 
-### 24. Application and expiry of modifications in this Part[^key-b644d318d40b4974697f0ed3aeb64494]
+### 24. Application and expiry of modifications in this Part[^c-b644d318d40b4974697f0ed3aeb64494]
 
 The modifications in this Part apply only—
 
 - (a) for the purposes of members’ contributions payable under the National Health Service Pension Scheme Regulations 2015 in respect of the scheme year 2022/23; and
-- (b) until the end of 31st March 2026[^key-e4671b730996669460cadc809c208d91].
+- (b) until the end of 31st March 2026[^c-e4671b730996669460cadc809c208d91].
 
-### 25. Modification of regulation 31[^key-b57b17bccb2519c649c720ebb2bf3d00]
+### 25. Modification of regulation 31[^c-b57b17bccb2519c649c720ebb2bf3d00]
 
 Regulation 31 (members’ contributions: practitioners and non-GP providers)[^f00022] is to be read as if—
 
@@ -255,7 +255,7 @@ Regulation 31 (members’ contributions: practitioners and non-GP providers)[^f0
   ;
 - (c) in paragraph (10), at the end, there were inserted “and references to the relevant period of the scheme year 2022/23 in regulations 38 and 39 must be construed in accordance with paragraph (9A)”.
 
-### 26. Modification of regulation 38[^key-048339f692b8d1dfd80739e855164fad]
+### 26. Modification of regulation 38[^c-048339f692b8d1dfd80739e855164fad]
 
 Regulation 38 (members’ contributions: supplementary: medical practitioners and non-GP providers)[^f00023] is to be read as if—
 
@@ -285,11 +285,11 @@ Regulation 38 (members’ contributions: supplementary: medical practitioners an
 
     ;
   - (iii) in sub-paragraph (b)—
-    - (aa) after “received” there were inserted “for the period beginning with 1st April 2022 and ending with 30th September 2022[^key-91d1b0d2689a44d5ad464b0b14e1a667]”;
-    - (bb)[^key-6083ae0a747f8c137cb79395e77df09a] for “28.” there were substituted “28; and”
+    - (aa) after “received” there were inserted “for the period beginning with 1st April 2022 and ending with 30th September 2022[^c-91d1b0d2689a44d5ad464b0b14e1a667]”;
+    - (bb)[^c-6083ae0a747f8c137cb79395e77df09a] for “28.” there were substituted “28; and”
 
       .
-  - (iv)[^key-9af425e5e229b7c1e0360cde304f4057] after sub-paragraph (b), there were inserted—
+  - (iv)[^c-9af425e5e229b7c1e0360cde304f4057] after sub-paragraph (b), there were inserted—
 
     > - (c) any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
     >
@@ -316,8 +316,8 @@ Regulation 38 (members’ contributions: supplementary: medical practitioners an
   >
   >   - PE is M’s pensionable earnings from all group D sources for each relevant period of the scheme year 2022/23 determined in accordance with this paragraph;
   >   - NDRP is the number of days of M’s group D service in each relevant period of the scheme year 2022/23; and
-  > - (b) any additional pensionable earnings M is treated as having received for the period beginning with 1st April 2022 and ending with 30th September 2022[^key-2d804a83f6561ca938f827c7a3e85652] during an absence from work in accordance with regulation 28; and[^key-7f971b079f0055f9605e2a5fad285eee]
-  > - (c)[^key-d2eab79e1a5e31a438e63006a8d64d11] any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
+  > - (b) any additional pensionable earnings M is treated as having received for the period beginning with 1st April 2022 and ending with 30th September 2022[^c-2d804a83f6561ca938f827c7a3e85652] during an absence from work in accordance with regulation 28; and[^c-7f971b079f0055f9605e2a5fad285eee]
+  > - (c)[^c-d2eab79e1a5e31a438e63006a8d64d11] any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
   >
   > and the pensionable earnings to which the contribution rate is applied for each relevant period of the scheme year 2022/23 are determined by applying the formula:
   >
@@ -336,7 +336,7 @@ Regulation 38 (members’ contributions: supplementary: medical practitioners an
   - (ii) after “rate” there were inserted “or rates”;
   - (iii) for “paragraph (3)” there were substituted “paragraphs (3) or (3A)”.
 
-### 27. Modification of regulation 39[^key-a154e062e7bdd03d0f5810f181447461]
+### 27. Modification of regulation 39[^c-a154e062e7bdd03d0f5810f181447461]
 
 Regulation 39 (members’ contributions: supplementary: dental practitioners)[^f00024] is to be read as if—
 
@@ -366,11 +366,11 @@ Regulation 39 (members’ contributions: supplementary: dental practitioners)[^f
 
     ;
   - (iii) in sub-paragraph (b)—
-    - (aa) after “received” there were inserted “for the period beginning with 1st April 2022 and ending with 30th September 2022[^key-078317332eb556df04526b8077ab4de5]”;
-    - (bb)[^key-79a7d45f672ad97c5eede4aac5ff4bae] for “28.” there were substituted “28; and”
+    - (aa) after “received” there were inserted “for the period beginning with 1st April 2022 and ending with 30th September 2022[^c-078317332eb556df04526b8077ab4de5]”;
+    - (bb)[^c-79a7d45f672ad97c5eede4aac5ff4bae] for “28.” there were substituted “28; and”
 
       .
-  - (iv)[^key-90c978f99f95ac02d081ce24aa0f7446] after sub-paragraph (b), there were inserted—
+  - (iv)[^c-90c978f99f95ac02d081ce24aa0f7446] after sub-paragraph (b), there were inserted—
 
     > - (c) any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
     >
@@ -397,8 +397,8 @@ Regulation 39 (members’ contributions: supplementary: dental practitioners)[^f
   >
   >   - PE is M’s pensionable earnings from all group D sources for each relevant period of the scheme year 2022/23 determined in accordance with this paragraph;
   >   - NDRP is the number of days of dental practitioner service in each relevant period of the scheme year 2022/23; and
-  > - (b) any additional pensionable earnings M is treated as having received for the period beginning with 1st April 2022 and ending with 30th September 2022[^key-f805ca430925f0e80a19009e529216cf] during an absence from work in accordance with regulation 28; and[^key-6bcf17f061b4512e8ab9d58a26188017]
-  > - (c)[^key-aeb38de11bd11211e79be57044151f5e] any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
+  > - (b) any additional pensionable earnings M is treated as having received for the period beginning with 1st April 2022 and ending with 30th September 2022[^c-f805ca430925f0e80a19009e529216cf] during an absence from work in accordance with regulation 28; and[^c-6bcf17f061b4512e8ab9d58a26188017]
+  > - (c)[^c-aeb38de11bd11211e79be57044151f5e] any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
   >
   > and the pensionable earnings to which the contribution rate is applied for each relevant period of the scheme year 2022/23 are determined by applying the formula:
   >
@@ -467,124 +467,124 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The functions of the Minister for the Civil Service under section 10 of the 1972 Act were transferred to the Treasury by article 2 of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-ff20b0a0e0561fb14afddb5552ac72a9]: Commencement: Reg. 1 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-ff20b0a0e0561fb14afddb5552ac72a9]: Commencement: Reg. 1 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-55361b4ac62d27b47aeb2076eac0310d]: Commencement: Reg. 2 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-55361b4ac62d27b47aeb2076eac0310d]: Commencement: Reg. 2 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1995/300](https://www.legislation.gov.uk/uksi/1995/300).
 
-[^key-1a19956a7164045c98790fa627d21788]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-1a19956a7164045c98790fa627d21788]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00005]: Footnote: Regulation K2 was amended by [S.I. 2010/1634](https://www.legislation.gov.uk/uksi/2010/1634).
 
-[^key-898e2effd464094abe53da1cabed38ca]: Commencement: Reg. 4 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-898e2effd464094abe53da1cabed38ca]: Commencement: Reg. 4 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-bc670bc81fbaa396dd709bbd9a4349f7]: Commencement: Reg. 5 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-bc670bc81fbaa396dd709bbd9a4349f7]: Commencement: Reg. 5 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00006]: Footnote: Section 45 of the Coronavirus Act 2020 made a temporary modification to regulation S1; this temporary modification was made again by [S.I. 2022/273](https://www.legislation.gov.uk/uksi/2022/273) as amended by [S.I. 2022/1028](https://www.legislation.gov.uk/uksi/2022/1028), the effect of which was that the temporary modification to regulation S1 applied until the end of 31st March 2023.
 
-[^key-6dbfc7afa8cae233f75a3e291649c4d5]: Commencement: Reg. 6 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-6dbfc7afa8cae233f75a3e291649c4d5]: Commencement: Reg. 6 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-c7dce7d6fd8b5e474d0548a8013e5e1d]: Commencement: Reg. 7 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-c7dce7d6fd8b5e474d0548a8013e5e1d]: Commencement: Reg. 7 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94).
 
-[^key-cc9ff6ee65718f9f2461dd517dd48779]: Commencement: Reg. 8 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-cc9ff6ee65718f9f2461dd517dd48779]: Commencement: Reg. 8 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00008]: Footnote: Regulation 19 was amended by [S.I. 2022/327](https://www.legislation.gov.uk/uksi/2022/327).
 
-[^key-3108a59b5392a77ad9f3197b65681f6e]: Commencement: Reg. 9 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-3108a59b5392a77ad9f3197b65681f6e]: Commencement: Reg. 9 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00009]: Footnote: Regulation 30 was amended by [S.I. 2022/273](https://www.legislation.gov.uk/uksi/2022/273), which was amended by [S.I. 2022/991](https://www.legislation.gov.uk/uksi/2022/991).
 
-[^key-0cdeeed91a57b97e231771761596fed9]: Commencement: Reg. 10 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-0cdeeed91a57b97e231771761596fed9]: Commencement: Reg. 10 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 31 was amended by [S.I. 2022/273](https://www.legislation.gov.uk/uksi/2022/273), which was amended by [S.I. 2022/991](https://www.legislation.gov.uk/uksi/2022/991).
 
-[^key-b7db3e3641e0eada6ae14ef4d6642096]: Commencement: Reg. 11 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-b7db3e3641e0eada6ae14ef4d6642096]: Commencement: Reg. 11 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-0e2c6bf49fe94a4b357dd5146b4ce7c5]: Commencement: Reg. 12 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-0e2c6bf49fe94a4b357dd5146b4ce7c5]: Commencement: Reg. 12 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00011]: Footnote: Regulation 38 was amended by [S.I. 2019/418](https://www.legislation.gov.uk/uksi/2019/418) and [2022/273](https://www.legislation.gov.uk/uksi/2022/273).
 
-[^key-7064c8b482314d46d087b6e0cc3f4e33]: Commencement: Reg. 13 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-7064c8b482314d46d087b6e0cc3f4e33]: Commencement: Reg. 13 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-bb238ac505b75f87de9f144ac76a5d5e]: Commencement: Reg. 14 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-bb238ac505b75f87de9f144ac76a5d5e]: Commencement: Reg. 14 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-88335c644673cb12304d7e3cd81ef2b9]: Commencement: Reg. 15 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-88335c644673cb12304d7e3cd81ef2b9]: Commencement: Reg. 15 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00012]: Footnote: Paragraph (3) was substituted by regulation 42(2) of [S.I. 2017/275](https://www.legislation.gov.uk/uksi/2017/275).
 
 [^f00013]: Footnote: The subcontract for the provision of services related to the Network Contract Directed Enhanced Service 2022/23 published on 31 August 2022 is available at https://www.england.nhs.uk/publication/subcontract-for-the-provision-of-services-related-to-the-network-contract-directed-enhanced-service-2022-23/ or hard copies are available from the Primary Care Strategy and NHS Contracts team, NHS England, Area 2D, Skipton House, 80 London Road, London, SE1 6LH.
 
-[^key-2b5dfa0117276ace78cab75ad0f1462d]: Commencement: Reg. 16 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-2b5dfa0117276ace78cab75ad0f1462d]: Commencement: Reg. 16 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00014]: Footnote: Regulation 166 was amended by [S.I. 1996/705](https://www.legislation.gov.uk/uksi/1996/705), [2000/3041](https://www.legislation.gov.uk/uksi/2000/3041), [2002/1883](https://www.legislation.gov.uk/uksi/2002/1883), [2006/181](https://www.legislation.gov.uk/uksi/2006/181), [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774) and [2017/275](https://www.legislation.gov.uk/uksi/2017/275).
 
-[^key-ea7e684f2d25fd95a262019caf7a53a7]: Commencement: Reg. 17 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-ea7e684f2d25fd95a262019caf7a53a7]: Commencement: Reg. 17 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
-[^key-890c4a98489a709af9b78460fb4738cf]: Commencement: Reg. 18 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-890c4a98489a709af9b78460fb4738cf]: Commencement: Reg. 18 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00015]: Footnote: Schedule 10 was amended by [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245), [2017/275](https://www.legislation.gov.uk/uksi/2017/275), [2019/418](https://www.legislation.gov.uk/uksi/2019/418), [2021/631](https://www.legislation.gov.uk/uksi/2021/631), and [2022/634](https://www.legislation.gov.uk/uksi/2022/634).
 
-[^key-fb9abc82383727809934029d3f9941f7]: Commencement: Reg. 19 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-fb9abc82383727809934029d3f9941f7]: Commencement: Reg. 19 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00016]: Footnote: The Network Contract Directed Enhanced Service Contract Specification published on 31 March 2021, covering primary care networks is available at https://www.england.nhs.uk/publication/network-contract-des-specification-2021-22 or hard copies are available from the Primary Care Strategy and NHS Contracts team, NHS England, Area 2D, Skipton House, 80 London Road, London, SE1 6LH.
 
 [^f00017]: Footnote: The subcontract for the provision of services related to the Network Contract Directed Enhanced Service 2022/23 published on 31 August 2022 is available at https://www.england.nhs.uk/publication/subcontract-for-the-provision-of-services-related-to-the-network-contract-directed-enhanced-service-2022-23/ or hard copies are available from the Primary Care Strategy and NHS Contracts team, NHS England, Area 2D, Skipton House, 80 London Road, London, SE1 6LH.
 
-[^key-636f880c29645a8a34a943a7cb1c0a15]: Commencement: Reg. 20 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-636f880c29645a8a34a943a7cb1c0a15]: Commencement: Reg. 20 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2015/95](https://www.legislation.gov.uk/uksi/2015/95).
 
-[^key-7b98ae8c6e2470ee833b1b55f32c5dab]: Commencement: Reg. 21 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-7b98ae8c6e2470ee833b1b55f32c5dab]: Commencement: Reg. 21 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00019]: Footnote: Regulation 37 was amended by [S.I. 2022/327](https://www.legislation.gov.uk/uksi/2022/327).
 
-[^key-dfeea1303855fb45e02d6b7d9f016e87]: Commencement: Reg. 22 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-dfeea1303855fb45e02d6b7d9f016e87]: Commencement: Reg. 22 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00020]: Footnote: The table in paragraph 1 of Schedule 1 was amended by [S.I. 2022/327](https://www.legislation.gov.uk/uksi/2022/327) and [2022/991](https://www.legislation.gov.uk/uksi/2022/991).
 
-[^key-1a733e8f2494007a8c4c610d8bead1fc]: Commencement: Reg. 23 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-1a733e8f2494007a8c4c610d8bead1fc]: Commencement: Reg. 23 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94).
 
-[^key-b644d318d40b4974697f0ed3aeb64494]: Textual amendment: Reg. 24 substituted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2024/281/regulation/36)
+[^c-b644d318d40b4974697f0ed3aeb64494]: Textual amendment: Reg. 24 substituted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2024/281/regulation/36)
 
-[^key-e4671b730996669460cadc809c208d91]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/uksi/2023/301/regulation/24) substituted (1.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2025/316/regulation/38)
+[^c-e4671b730996669460cadc809c208d91]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/uksi/2023/301/regulation/24) substituted (1.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2025/316/regulation/38)
 
-[^key-b57b17bccb2519c649c720ebb2bf3d00]: Commencement: Reg. 25 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-b57b17bccb2519c649c720ebb2bf3d00]: Commencement: Reg. 25 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00022]: Footnote: Regulation 31 was amended by [S.I. 2022/273](https://www.legislation.gov.uk/uksi/2022/273), which was amended by [S.I. 2022/991](https://www.legislation.gov.uk/uksi/2022/991).
 
-[^key-048339f692b8d1dfd80739e855164fad]: Commencement: Reg. 26 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-048339f692b8d1dfd80739e855164fad]: Commencement: Reg. 26 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00023]: Footnote: Regulation 38 was amended by [S.I. 2019/418](https://www.legislation.gov.uk/uksi/2019/418) and [2022/273](https://www.legislation.gov.uk/uksi/2022/273).
 
-[^key-91d1b0d2689a44d5ad464b0b14e1a667]: Textual amendment: Words in [reg. 26(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/c/iii/aa) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(2)(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/2/a)
+[^c-91d1b0d2689a44d5ad464b0b14e1a667]: Textual amendment: Words in [reg. 26(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/c/iii/aa) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(2)(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/2/a)
 
-[^key-6083ae0a747f8c137cb79395e77df09a]: Textual amendment: [Reg. 26(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/c/iii/bb) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(2)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/2/b)
+[^c-6083ae0a747f8c137cb79395e77df09a]: Textual amendment: [Reg. 26(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/c/iii/bb) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(2)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/2/b)
 
-[^key-9af425e5e229b7c1e0360cde304f4057]: Textual amendment: [Reg. 26(c)(iv)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/c/iv) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/3)
+[^c-9af425e5e229b7c1e0360cde304f4057]: Textual amendment: [Reg. 26(c)(iv)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/c/iv) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/3)
 
-[^key-2d804a83f6561ca938f827c7a3e85652]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/4/a/i)
+[^c-2d804a83f6561ca938f827c7a3e85652]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/4/a/i)
 
-[^key-7f971b079f0055f9605e2a5fad285eee]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/4/a/ii)
+[^c-7f971b079f0055f9605e2a5fad285eee]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/4/a/ii)
 
-[^key-d2eab79e1a5e31a438e63006a8d64d11]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/d) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(4)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/4/b)
+[^c-d2eab79e1a5e31a438e63006a8d64d11]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/26/d) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/8), [39(4)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/39/4/b)
 
-[^key-a154e062e7bdd03d0f5810f181447461]: Commencement: Reg. 27 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
+[^c-a154e062e7bdd03d0f5810f181447461]: Commencement: Reg. 27 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2)
 
 [^f00024]: Footnote: Regulation 39 was amended by [S.I. 2019/418](https://www.legislation.gov.uk/uksi/2019/418) and [2022/273](https://www.legislation.gov.uk/uksi/2022/273).
 
-[^key-078317332eb556df04526b8077ab4de5]: Textual amendment: Words in [reg. 27(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/c/iii/aa) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(2)(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/2/a)
+[^c-078317332eb556df04526b8077ab4de5]: Textual amendment: Words in [reg. 27(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/c/iii/aa) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(2)(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/2/a)
 
-[^key-79a7d45f672ad97c5eede4aac5ff4bae]: Textual amendment: [Reg. 27(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/c/iii/bb) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(2)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/2/b)
+[^c-79a7d45f672ad97c5eede4aac5ff4bae]: Textual amendment: [Reg. 27(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/c/iii/bb) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(2)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/2/b)
 
-[^key-90c978f99f95ac02d081ce24aa0f7446]: Textual amendment: [Reg. 27(c)(iv)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/c/iv) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/3)
+[^c-90c978f99f95ac02d081ce24aa0f7446]: Textual amendment: [Reg. 27(c)(iv)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/c/iv) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/3)
 
-[^key-f805ca430925f0e80a19009e529216cf]: Textual amendment: Words in [reg. 27(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/4/a/i)
+[^c-f805ca430925f0e80a19009e529216cf]: Textual amendment: Words in [reg. 27(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/4/a/i)
 
-[^key-6bcf17f061b4512e8ab9d58a26188017]: Textual amendment: Words in [reg. 27(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/4/a/ii)
+[^c-6bcf17f061b4512e8ab9d58a26188017]: Textual amendment: Words in [reg. 27(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/d) substituted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/4/a/ii)
 
-[^key-aeb38de11bd11211e79be57044151f5e]: Textual amendment: Words in [reg. 27(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/d) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(4)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/4/b)
+[^c-aeb38de11bd11211e79be57044151f5e]: Textual amendment: Words in [reg. 27(d)](https://www.legislation.gov.uk/uksi/2023/301/regulation/27/d) inserted (with effect from 1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(8)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/8), [40(4)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/40/4/b)

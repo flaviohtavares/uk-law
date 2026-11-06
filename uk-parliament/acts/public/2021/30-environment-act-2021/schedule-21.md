@@ -22,7 +22,7 @@ summary: ''
 
 Section 140
 
-### 1. Amendment of the REACH Regulation[^key-1ab287db43f2b87af31218cc5eb4b0c4][^key-8e7f62b4a9d3c720e400d76e6e8802d6]
+### 1. Amendment of the REACH Regulation[^c-1ab287db43f2b87af31218cc5eb4b0c4][^c-8e7f62b4a9d3c720e400d76e6e8802d6]
 
 (1) The Secretary of State may by regulations amend the REACH Regulation.
 
@@ -41,7 +41,7 @@ Section 140
 
 (7) Regulations under this paragraph are subject to the affirmative procedure.
 
-### 2. Amendment of the REACH Enforcement Regulations 2008[^key-7617b3212750e8c8ee8643b02ae52747][^key-627a7e92086ee9210c79f09b0b3e9d66]
+### 2. Amendment of the REACH Enforcement Regulations 2008[^c-7617b3212750e8c8ee8643b02ae52747][^c-627a7e92086ee9210c79f09b0b3e9d66]
 
 (1) The Secretary of State or a relevant devolved authority may by regulations amend the REACH Enforcement Regulations 2008 ([S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852)).
 
@@ -79,7 +79,7 @@ Section 140
 (6) But, in the definition of “prescribed term for England and Wales” in sub-paragraph (5)—
 
 - (a) the reference to 51 weeks is to be read, until the commencement of section 281(5) of the Criminal Justice Act 2003, as a reference to 3 months;
-- (b) the reference to 12 months is to be read, until 2 May 2022[^key-75405960026ea3c5cb3d859ab0ace84c], as a reference to 3 months.
+- (b) the reference to 12 months is to be read, until 2 May 2022[^c-75405960026ea3c5cb3d859ab0ace84c], as a reference to 3 months.
 
 (7) Regulations under this paragraph—
 
@@ -89,17 +89,17 @@ Section 140
 
 (8) Regulations under this paragraph are subject to the affirmative procedure.
 
-### 3. Consent of the devolved administrations[^key-4c0b9896f749d9a31beb7527e766b153][^key-99dfd8acbe797ceb919205e2f690c0c7]
+### 3. Consent of the devolved administrations[^c-4c0b9896f749d9a31beb7527e766b153][^c-99dfd8acbe797ceb919205e2f690c0c7]
 
 (1) The power of the Secretary of State to make regulations under this Schedule is subject to the consent requirement in Article 4A of the REACH Regulation.
 
 (2) Accordingly, in Article 4A(1) of the REACH Regulation, the reference to the REACH Regulation is to be read as including a reference to this Schedule.
 
-### 4. Requests by devolved administrations for exercise of powers under this Schedule[^key-4c5a546ecbab7719cf064b1d0cbb48f9][^key-9906427e7a35da32d084866c2cc798f5]
+### 4. Requests by devolved administrations for exercise of powers under this Schedule[^c-4c5a546ecbab7719cf064b1d0cbb48f9][^c-9906427e7a35da32d084866c2cc798f5]
 
 The Secretary of State must consider any request made by a relevant devolved authority for the Secretary of State to make regulations under this Schedule.
 
-### 5. Consultation[^key-b72c04019486a62108fe6bdd5e0d6e30][^key-ff7d0b4d4bc69b70f69c438a07b33970]
+### 5. Consultation[^c-b72c04019486a62108fe6bdd5e0d6e30][^c-ff7d0b4d4bc69b70f69c438a07b33970]
 
 (1) Before making regulations under this Schedule the Secretary of State must consult—
 
@@ -114,7 +114,7 @@ The Secretary of State must consider any request made by a relevant devolved aut
 - (a) the Agency, and
 - (b) such other persons that authority considers appropriate.
 
-### 6. The protected provisions[^key-1d3698c6e05847adf2e5f2f8e0ad4b01][^key-f0efc82a1eec3a3f1f923eed67067027]
+### 6. The protected provisions[^c-1d3698c6e05847adf2e5f2f8e0ad4b01][^c-f0efc82a1eec3a3f1f923eed67067027]
 
 In paragraph 1 “**protected provision of the REACH Regulation**” means any of the provisions of the REACH Regulation set out in the following Table—
 
@@ -147,7 +147,7 @@ In paragraph 1 “**protected provision of the REACH Regulation**” means any o
 | ***Annexes*** |
 | The Annexes |
 
-### 7. Other interpretation[^key-7aea57e983d206e81309d51d35dc0d74][^key-f0124fce190d003e6c90b684a9a90054]
+### 7. Other interpretation[^c-7aea57e983d206e81309d51d35dc0d74][^c-f0124fce190d003e6c90b684a9a90054]
 
 In this Schedule—
 
@@ -160,32 +160,32 @@ In this Schedule—
 
 ## Annotations
 
-[^key-1ab287db43f2b87af31218cc5eb4b0c4]: Commencement: Sch. 21 para. 1 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-1ab287db43f2b87af31218cc5eb4b0c4]: Commencement: Sch. 21 para. 1 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-8e7f62b4a9d3c720e400d76e6e8802d6]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/1) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-8e7f62b4a9d3c720e400d76e6e8802d6]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/1) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-7617b3212750e8c8ee8643b02ae52747]: Commencement: Sch. 21 para. 2 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-7617b3212750e8c8ee8643b02ae52747]: Commencement: Sch. 21 para. 2 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-627a7e92086ee9210c79f09b0b3e9d66]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/2) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-627a7e92086ee9210c79f09b0b3e9d66]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/2) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-75405960026ea3c5cb3d859ab0ace84c]: Textual amendment: Words in [Sch. 21 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/2/6/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-75405960026ea3c5cb3d859ab0ace84c]: Textual amendment: Words in [Sch. 21 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/2/6/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-4c0b9896f749d9a31beb7527e766b153]: Commencement: Sch. 21 para. 3 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-4c0b9896f749d9a31beb7527e766b153]: Commencement: Sch. 21 para. 3 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-99dfd8acbe797ceb919205e2f690c0c7]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/3) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-99dfd8acbe797ceb919205e2f690c0c7]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/3) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-4c5a546ecbab7719cf064b1d0cbb48f9]: Commencement: Sch. 21 para. 4 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-4c5a546ecbab7719cf064b1d0cbb48f9]: Commencement: Sch. 21 para. 4 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-9906427e7a35da32d084866c2cc798f5]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/4) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-9906427e7a35da32d084866c2cc798f5]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/4) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-b72c04019486a62108fe6bdd5e0d6e30]: Commencement: Sch. 21 para. 5 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-b72c04019486a62108fe6bdd5e0d6e30]: Commencement: Sch. 21 para. 5 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-ff7d0b4d4bc69b70f69c438a07b33970]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/5) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-ff7d0b4d4bc69b70f69c438a07b33970]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/5) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-1d3698c6e05847adf2e5f2f8e0ad4b01]: Commencement: Sch. 21 para. 6 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-1d3698c6e05847adf2e5f2f8e0ad4b01]: Commencement: Sch. 21 para. 6 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-f0efc82a1eec3a3f1f923eed67067027]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/6) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-f0efc82a1eec3a3f1f923eed67067027]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/6) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-7aea57e983d206e81309d51d35dc0d74]: Commencement: Sch. 21 para. 7 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-7aea57e983d206e81309d51d35dc0d74]: Commencement: Sch. 21 para. 7 in force at Royal Assent for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-f0124fce190d003e6c90b684a9a90054]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/7) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-f0124fce190d003e6c90b684a9a90054]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/7) in force at 28.2.2022 in so far as not already in force by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)

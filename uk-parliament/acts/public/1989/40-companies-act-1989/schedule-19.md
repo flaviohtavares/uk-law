@@ -24,29 +24,29 @@ Section 145.
 
 ### Correction of cross-reference
 
-**1.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Particulars to be given of directors and secretaries
 
-**2.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transactions with directors not requiring authorisation
 
-**8.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Time limit for holding extraordinary general meeting convened on members’ requisition
 
-**9.**[^key-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1e9f4f2b4681eb6e295fc6a1f5114d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Removal of restriction on transfer of shares
 
@@ -61,27 +61,27 @@ Section 145.
 
 **Not yet in force.**
 
-**11.**[^key-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Requirements for registration by joint stock companies
 
-**12.**[^key-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Delivery of documents by oversea companies
 
 **Not yet in force.**
 
-**13.**[^key-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Companies’ registered numbers
 
-**14.**[^key-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exemptions from limit of 20 on members of partnership
 
-**15.**[^key-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-53b8c6efff2d620172c43eeb0cf3768d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Meaning of “officer who is in default”
 
@@ -93,24 +93,24 @@ Section 145.
 
 ### Meaning of “office copy” in Scotland
 
-**19.**[^key-8bdf5afa597d102adcea4ff58f09f1d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-8bdf5afa597d102adcea4ff58f09f1d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Index of defined expressions
 
-**20.**[^key-8bdf5afa597d102adcea4ff58f09f1d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-8bdf5afa597d102adcea4ff58f09f1d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Fraudulent trading by unregistered companies
 
-**21.**[^key-8bdf5afa597d102adcea4ff58f09f1d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-8bdf5afa597d102adcea4ff58f09f1d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e9f4f2b4681eb6e295fc6a1f5114d74]: Textual amendment: Sch. 19 paras. 1-9 repealed (1.10.2007 for the repeal of Sch. 19 paras. 8, 9, 1.10.2009 in so far as not already in force) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7), [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-1e9f4f2b4681eb6e295fc6a1f5114d74]: Textual amendment: Sch. 19 paras. 1-9 repealed (1.10.2007 for the repeal of Sch. 19 paras. 8, 9, 1.10.2009 in so far as not already in force) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7), [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
-[^key-53b8c6efff2d620172c43eeb0cf3768d]: Textual amendment: Sch. 19 paras. 11-16 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-53b8c6efff2d620172c43eeb0cf3768d]: Textual amendment: Sch. 19 paras. 11-16 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c18771361]: Textual amendment: Sch. 19 para. 17 repealed (1.10.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194). {art. 8}, Sch. 2 Pt. 1 (with art. 12, Sch. 3 (as amended by [S.I. 2007/2607](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4](https://www.legislation.gov.uk/uksi/2007/2607/article/4) and [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [arts. 2(6)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6), [11](https://www.legislation.gov.uk/uksi/2007/3495/article/11), [Sch. 5 para. 2(3)-(7)](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/2/3)) and subject to Sch. 1)
 
 [^c18771371]: Textual amendment: Sch. 19 para. 18 repealed (6.4.2008) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-8bdf5afa597d102adcea4ff58f09f1d1]: Textual amendment: Sch. 19 paras. 19-21 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-8bdf5afa597d102adcea4ff58f09f1d1]: Textual amendment: Sch. 19 paras. 19-21 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)

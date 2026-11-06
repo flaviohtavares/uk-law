@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24.[^key-71f5cf964d14966be501c4968a67b8d3]
+## 24.[^c-71f5cf964d14966be501c4968a67b8d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 11 (the TRA's acceptance or rejection of an application for reconside
 
 ## Annotations
 
-[^key-71f5cf964d14966be501c4968a67b8d3]: Commencement: Reg. 24 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-71f5cf964d14966be501c4968a67b8d3]: Commencement: Reg. 24 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

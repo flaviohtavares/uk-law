@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Exceptions to section 41[^key-bb8c0dc422bb033e1d1fe760a531cbb7][^key-1455ca396b43e0bb0dd6f1090ba2606e]
+## 47. Exceptions to section 41[^c-bb8c0dc422bb033e1d1fe760a531cbb7][^c-1455ca396b43e0bb0dd6f1090ba2606e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ as a result of which its previous publication complied with section 41.
 
 ## Annotations
 
-[^key-bb8c0dc422bb033e1d1fe760a531cbb7]: Commencement: S. 47 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-bb8c0dc422bb033e1d1fe760a531cbb7]: Commencement: S. 47 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-1455ca396b43e0bb0dd6f1090ba2606e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/37/section/47) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-1455ca396b43e0bb0dd6f1090ba2606e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/37/section/47) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

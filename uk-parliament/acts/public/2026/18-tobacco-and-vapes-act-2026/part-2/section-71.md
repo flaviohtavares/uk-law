@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Power to extend 2010 Act to other products[^key-955f19dc4bd7dfa2c017769396fa4963][^key-8c0d954ceb15c7fa707d5a29681fee66]
+## 71. Power to extend 2010 Act to other products[^c-955f19dc4bd7dfa2c017769396fa4963][^c-8c0d954ceb15c7fa707d5a29681fee66]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-955f19dc4bd7dfa2c017769396fa4963]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-955f19dc4bd7dfa2c017769396fa4963]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-8c0d954ceb15c7fa707d5a29681fee66]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2026/18/section/71) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-8c0d954ceb15c7fa707d5a29681fee66]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2026/18/section/71) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

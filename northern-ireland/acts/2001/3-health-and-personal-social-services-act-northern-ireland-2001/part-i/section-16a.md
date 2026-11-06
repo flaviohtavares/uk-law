@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16A. Publication etc of information about fitness to practise[^key-1cc8b2f7742b97891bed6acb0312d1c4]
+## 16A. Publication etc of information about fitness to practise[^c-1cc8b2f7742b97891bed6acb0312d1c4]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cc8b2f7742b97891bed6acb0312d1c4]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/nia/2001/3/section/16A) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 2(3)](https://www.legislation.gov.uk/nia/2016/23/section/2/3), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-1cc8b2f7742b97891bed6acb0312d1c4]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/nia/2001/3/section/16A) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 2(3)](https://www.legislation.gov.uk/nia/2016/23/section/2/3), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)

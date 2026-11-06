@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Inquiry by the Privy Council[^key-c8ccebd342c8d7ea682f718e554853b1][^key-a53e5b3007141679818d94d3aa04fc5b]
+## 47. Inquiry by the Privy Council[^c-c8ccebd342c8d7ea682f718e554853b1][^c-a53e5b3007141679818d94d3aa04fc5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,33 +37,33 @@ summary: ''
 
 (7) Where the Privy Council causes an inquiry to be held under this article—
 
-- (a) the costs or expenses[^key-5eae4dc0228750d82690ca4150a00a71] incurred by it in relation to the inquiry (including such reasonable sum as it may determine for the services of any officer engaged in the inquiry) shall be paid by such party to the inquiry as it may direct; and
-- (b) it may cause the amount of the costs or expenses so incurred to be certified, and any amount so certified and directed to be paid by any person shall be recoverable from that person by the Privy Council in Scotland as a debt and in England, Wales and Northern Ireland[^key-8440b558409a21c5de7ffe849aaf606d] summarily as a civil debt.
+- (a) the costs or expenses[^c-5eae4dc0228750d82690ca4150a00a71] incurred by it in relation to the inquiry (including such reasonable sum as it may determine for the services of any officer engaged in the inquiry) shall be paid by such party to the inquiry as it may direct; and
+- (b) it may cause the amount of the costs or expenses so incurred to be certified, and any amount so certified and directed to be paid by any person shall be recoverable from that person by the Privy Council in Scotland as a debt and in England, Wales and Northern Ireland[^c-8440b558409a21c5de7ffe849aaf606d] summarily as a civil debt.
 
 (8) Where the Privy Council causes an inquiry to be held under this article it may make orders—
 
-- (a) as to the costs or expenses[^key-132ee9513702bd44b2780db73a7e21a7] of the parties at the inquiry; and
+- (a) as to the costs or expenses[^c-132ee9513702bd44b2780db73a7e21a7] of the parties at the inquiry; and
 - (b) as to the parties by whom costs or expenses are to be paid,
 
-[^key-b901a1cd7483262cf4168317955da962]....
+[^c-b901a1cd7483262cf4168317955da962]....
 
-(9)[^key-186f261a34627e5f7c99b520b6d54076] For the purposes of paragraph (8), orders—
+(9)[^c-186f261a34627e5f7c99b520b6d54076] For the purposes of paragraph (8), orders—
 
 - (a) as to costs in England and Wales or Northern Ireland may by leave of the High Court be enforced in the same manner as orders of the High Court to the same effect; and
 - (b) as to expenses in Scotland may by leave of the Court of Session be enforced in the same manner as decrees of the Court of Session to the same effect.
 
 ## Annotations
 
-[^key-c8ccebd342c8d7ea682f718e554853b1]: Commencement: Art. 47 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-c8ccebd342c8d7ea682f718e554853b1]: Commencement: Art. 47 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-a53e5b3007141679818d94d3aa04fc5b]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2002/254/article/47) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-a53e5b3007141679818d94d3aa04fc5b]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2002/254/article/47) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-5eae4dc0228750d82690ca4150a00a71]: Textual amendment: Words in [art. 47(7)](https://www.legislation.gov.uk/uksi/2002/254/article/47/7) inserted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(a)(i)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/a/i)
+[^c-5eae4dc0228750d82690ca4150a00a71]: Textual amendment: Words in [art. 47(7)](https://www.legislation.gov.uk/uksi/2002/254/article/47/7) inserted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(a)(i)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/a/i)
 
-[^key-8440b558409a21c5de7ffe849aaf606d]: Textual amendment: Words in [art. 47(7)(b)](https://www.legislation.gov.uk/uksi/2002/254/article/47/7/b) inserted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/a/ii)
+[^c-8440b558409a21c5de7ffe849aaf606d]: Textual amendment: Words in [art. 47(7)(b)](https://www.legislation.gov.uk/uksi/2002/254/article/47/7/b) inserted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/a/ii)
 
-[^key-132ee9513702bd44b2780db73a7e21a7]: Textual amendment: Words in [art. 47(8)](https://www.legislation.gov.uk/uksi/2002/254/article/47/8) inserted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(b)(i)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/b/i)
+[^c-132ee9513702bd44b2780db73a7e21a7]: Textual amendment: Words in [art. 47(8)](https://www.legislation.gov.uk/uksi/2002/254/article/47/8) inserted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(b)(i)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/b/i)
 
-[^key-b901a1cd7483262cf4168317955da962]: Textual amendment: Words in [art. 47(8)](https://www.legislation.gov.uk/uksi/2002/254/article/47/8) omitted (27.7.2004) by virtue of [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/b/ii)
+[^c-b901a1cd7483262cf4168317955da962]: Textual amendment: Words in [art. 47(8)](https://www.legislation.gov.uk/uksi/2002/254/article/47/8) omitted (27.7.2004) by virtue of [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/b/ii)
 
-[^key-186f261a34627e5f7c99b520b6d54076]: Textual amendment: [Art. 47(9)](https://www.legislation.gov.uk/uksi/2002/254/article/47/9) substituted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(c)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/c)
+[^c-186f261a34627e5f7c99b520b6d54076]: Textual amendment: [Art. 47(9)](https://www.legislation.gov.uk/uksi/2002/254/article/47/9) substituted (27.7.2004) by [The Health Professions (Operating Department Practitioners and Miscellaneous Amendments) Order 2004 (S.I. 2004/2033)](https://www.legislation.gov.uk/uksi/2004/2033), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2033/article/1/2), [10(4)(c)](https://www.legislation.gov.uk/uksi/2004/2033/article/10/4/c)

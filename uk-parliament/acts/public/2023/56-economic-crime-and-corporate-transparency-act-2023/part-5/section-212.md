@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Reports on payments to governments regulations: false statement offences etc[^key-13842c8489d3ebd77e6593066dd1c0bb][^key-9df7c9e51800a69e98d9cb5532d8333e]
+## 212. Reports on payments to governments regulations: false statement offences etc[^c-13842c8489d3ebd77e6593066dd1c0bb][^c-9df7c9e51800a69e98d9cb5532d8333e]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ For regulation 16 of the Reports on Payments to Governments Regulations 2014 ([S
 
 ## Annotations
 
-[^key-13842c8489d3ebd77e6593066dd1c0bb]: Commencement: S. 212 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-13842c8489d3ebd77e6593066dd1c0bb]: Commencement: S. 212 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-9df7c9e51800a69e98d9cb5532d8333e]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2023/56/section/212) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z65)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z65)
+[^c-9df7c9e51800a69e98d9cb5532d8333e]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2023/56/section/212) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z65)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z65)

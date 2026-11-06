@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Interpretation of Part 4[^key-7bf986e628c3ca51ac9e94e95308bbb5]
+## 45. Interpretation of Part 4[^c-7bf986e628c3ca51ac9e94e95308bbb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bf986e628c3ca51ac9e94e95308bbb5]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2020/27/section/45) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/k)
+[^c-7bf986e628c3ca51ac9e94e95308bbb5]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2020/27/section/45) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/k)

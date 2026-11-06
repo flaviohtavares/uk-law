@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Implementation of children's services plan[^key-60ae3bc9632bbc2f77652550d6f87476]
+## 12. Implementation of children's services plan[^c-60ae3bc9632bbc2f77652550d6f87476]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60ae3bc9632bbc2f77652550d6f87476]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/8/section/12) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-60ae3bc9632bbc2f77652550d6f87476]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/8/section/12) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

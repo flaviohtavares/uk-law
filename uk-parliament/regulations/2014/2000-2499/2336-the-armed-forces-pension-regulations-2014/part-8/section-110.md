@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Club transfer value statement[^key-62b83c958e9316b991d3c769a5abea8a]
+## 110. Club transfer value statement[^c-62b83c958e9316b991d3c769a5abea8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62b83c958e9316b991d3c769a5abea8a]: Commencement: [Reg. 110](https://www.legislation.gov.uk/uksi/2014/2336/regulation/110) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-62b83c958e9316b991d3c769a5abea8a]: Commencement: [Reg. 110](https://www.legislation.gov.uk/uksi/2014/2336/regulation/110) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Crown application of Scottish planning Acts[^key-89af07ed857a5119b9f591c9e192582a]
+## 90. Crown application of Scottish planning Acts[^c-89af07ed857a5119b9f591c9e192582a]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89af07ed857a5119b9f591c9e192582a]: Commencement: S. 90 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/268/article/3/a)
+[^c-89af07ed857a5119b9f591c9e192582a]: Commencement: S. 90 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/268/article/3/a)

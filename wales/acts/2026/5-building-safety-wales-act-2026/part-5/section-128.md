@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Co-operation between building safety authorities and fire safety authorities[^key-13630ea4311478fbb5c728d33753a77c]
+## 128. Co-operation between building safety authorities and fire safety authorities[^c-13630ea4311478fbb5c728d33753a77c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13630ea4311478fbb5c728d33753a77c]: Commencement: S. 128 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-13630ea4311478fbb5c728d33753a77c]: Commencement: S. 128 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

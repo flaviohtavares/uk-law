@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Dissolution of the Senedd[^key-fb0bbf9ca840bb43098cb5163f858ec3]
+## 145. Dissolution of the Senedd[^c-fb0bbf9ca840bb43098cb5163f858ec3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The “minimum period” for the purpose of section 3(2)(a) of the 2006 Act is a
 
 ## Annotations
 
-[^key-fb0bbf9ca840bb43098cb5163f858ec3]: Commencement: Art. 145 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-fb0bbf9ca840bb43098cb5163f858ec3]: Commencement: Art. 145 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

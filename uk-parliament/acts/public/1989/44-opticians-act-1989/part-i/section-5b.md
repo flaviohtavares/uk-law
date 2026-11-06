@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. The Standards Committee[^key-a7f98773279ad122a751ed3b1d72675e]
+## 5B. The Standards Committee[^c-a7f98773279ad122a751ed3b1d72675e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f98773279ad122a751ed3b1d72675e]: Textual amendment: Ss. 3-5C substituted for ss. 3-5 (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/848/article/4/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-a7f98773279ad122a751ed3b1d72675e]: Textual amendment: Ss. 3-5C substituted for ss. 3-5 (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/848/article/4/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

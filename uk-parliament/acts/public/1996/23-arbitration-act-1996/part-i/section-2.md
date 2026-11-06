@@ -24,7 +24,7 @@ summary: ''
 
 (2) The following sections apply even if the seat of the arbitration is outside England and Wales or Northern Ireland or no seat has been designated or determined—
 
-- (za)[^key-00854de8901e5f4a402c4835831002bb] section 6A (law applicable to arbitration agreement),
+- (za)[^c-00854de8901e5f4a402c4835831002bb] section 6A (law applicable to arbitration agreement),
 - (a) sections 9 to 11 (stay of legal proceedings, &c.), and
 - (b) section 66 (enforcement of arbitral awards).
 
@@ -44,4 +44,4 @@ but the court may refuse to exercise any such power if, in the opinion of the co
 
 ## Annotations
 
-[^key-00854de8901e5f4a402c4835831002bb]: Textual amendment: S. 2(2)(za) inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/1/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-00854de8901e5f4a402c4835831002bb]: Textual amendment: S. 2(2)(za) inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/1/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

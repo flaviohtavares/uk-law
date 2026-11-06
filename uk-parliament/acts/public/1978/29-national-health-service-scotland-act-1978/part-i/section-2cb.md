@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2CB. Functions of Health Boards outside Scotland[^key-c81b0df212a00562b108e20056004b44][^c20967571]
+## 2CB. Functions of Health Boards outside Scotland[^c-c81b0df212a00562b108e20056004b44][^c20967571]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c81b0df212a00562b108e20056004b44]: Textual amendment: S. 2CB: s. 2CA renumbered as s. 2CB (25.10.2013) by [The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013 (S.S.I. 2013/292)](https://www.legislation.gov.uk/ssi/2013/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/292/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2013/292/regulation/8/2)
+[^c-c81b0df212a00562b108e20056004b44]: Textual amendment: S. 2CB: s. 2CA renumbered as s. 2CB (25.10.2013) by [The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013 (S.S.I. 2013/292)](https://www.legislation.gov.uk/ssi/2013/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/292/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2013/292/regulation/8/2)
 
 [^c20967571]: Textual amendment: S. 2CA inserted (7.7.2010) by [The National Health Service (Reimbursement of the Cost of EEA Treatment) (Scotland) Regulations 2010 (S.S.I. 2010/283)](https://www.legislation.gov.uk/ssi/2010/283), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/283/regulation/3/2)

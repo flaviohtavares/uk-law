@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Commission Decision 2010/472/EU on imports of semen, ova and embryos of animals of the ovine and caprine species[^key-5677579e53d3f7a4fe1adccf25e25c27]
+## 57. Commission Decision 2010/472/EU on imports of semen, ova and embryos of animals of the ovine and caprine species[^c-5677579e53d3f7a4fe1adccf25e25c27]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,4 +125,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5677579e53d3f7a4fe1adccf25e25c27]: Commencement: Reg. 57 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-5677579e53d3f7a4fe1adccf25e25c27]: Commencement: Reg. 57 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

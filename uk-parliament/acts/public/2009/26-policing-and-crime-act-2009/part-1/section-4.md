@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Metropolitan police force appointments[^key-a16812701a9adabf0833e71c3423e725]
+## 4. Metropolitan police force appointments[^c-a16812701a9adabf0833e71c3423e725]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a16812701a9adabf0833e71c3423e725]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2009/26/section/4) in force at 19.4.2010 by [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/999/article/2/b)
+[^c-a16812701a9adabf0833e71c3423e725]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2009/26/section/4) in force at 19.4.2010 by [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/999/article/2/b)

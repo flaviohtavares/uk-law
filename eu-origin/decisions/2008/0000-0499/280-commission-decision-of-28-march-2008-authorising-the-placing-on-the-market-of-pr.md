@@ -125,11 +125,11 @@ The following products are authorised for the purposes of Articles 4(2) and 16(2
 
 1. The authorisation holder shall ensure that the monitoring plan for environmental effects, as set out in the point (h) of the Annex, is put in place and implemented.
 
-2. The authorisation holder shall submit to the Food Safety Authority[^key-5d53823cd72c1fc267321c1fae159afe] annual reports on the implementation and the results of the activities set out in the monitoring plan.
+2. The authorisation holder shall submit to the Food Safety Authority[^c-5d53823cd72c1fc267321c1fae159afe] annual reports on the implementation and the results of the activities set out in the monitoring plan.
 
-## Article 5. Register[^key-ecef55a49349bb862a7cb7abf286517f]
+## Article 5. Register[^c-ecef55a49349bb862a7cb7abf286517f]
 
-The information set out in the Annex to this Decision shall be entered in the [^key-25a902874b96548ddbd577c22141509d]... register of genetically modified food and feed, as provided for in Article 28 of Regulation (EC) No 1829/2003.
+The information set out in the Annex to this Decision shall be entered in the [^c-25a902874b96548ddbd577c22141509d]... register of genetically modified food and feed, as provided for in Article 28 of Regulation (EC) No 1829/2003.
 
 ## Article 6. Authorisation holder
 
@@ -229,7 +229,7 @@ Post-market monitoring requirements for the use of the food for human consumptio
 
 Not required.
 
-*Note:* links to relevant documents may need to be modified overtime. Those modifications will be made available to the public via the updating of the [^key-f439828732a73fc93d48b35d06484a98]... register of genetically modified food and feed.
+*Note:* links to relevant documents may need to be modified overtime. Those modifications will be made available to the public via the updating of the [^c-f439828732a73fc93d48b35d06484a98]... register of genetically modified food and feed.
 
 ## Annotations
 
@@ -245,10 +245,10 @@ Not required.
 
 [^f00006]: Footnote: [OJ L 287, 5.11.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.287.01.0001.01.ENG).
 
-[^key-5d53823cd72c1fc267321c1fae159afe]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eudn/2008/280/article/4/2) substituted (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [91](https://www.legislation.gov.uk/uksi/2019/705/regulation/91); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d53823cd72c1fc267321c1fae159afe]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eudn/2008/280/article/4/2) substituted (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [91](https://www.legislation.gov.uk/uksi/2019/705/regulation/91); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ecef55a49349bb862a7cb7abf286517f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2008/280/article/5) heading substituted (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [92](https://www.legislation.gov.uk/uksi/2019/705/regulation/92); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecef55a49349bb862a7cb7abf286517f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2008/280/article/5) heading substituted (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [92](https://www.legislation.gov.uk/uksi/2019/705/regulation/92); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25a902874b96548ddbd577c22141509d]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eudn/2008/280/article/5) omitted (31.12.2020) by virtue of [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [93](https://www.legislation.gov.uk/uksi/2019/705/regulation/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25a902874b96548ddbd577c22141509d]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eudn/2008/280/article/5) omitted (31.12.2020) by virtue of [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [93](https://www.legislation.gov.uk/uksi/2019/705/regulation/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f439828732a73fc93d48b35d06484a98]: Textual amendment: Word in Annex Note omitted (31.12.2020) by virtue of [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [94](https://www.legislation.gov.uk/uksi/2019/705/regulation/94); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f439828732a73fc93d48b35d06484a98]: Textual amendment: Word in Annex Note omitted (31.12.2020) by virtue of [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [94](https://www.legislation.gov.uk/uksi/2019/705/regulation/94); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

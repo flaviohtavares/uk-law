@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Navigation etc. in vicinity of barrier[^key-864166167b12bf67cdaa4cb4bf5f3d91]
+## 36. Navigation etc. in vicinity of barrier[^c-864166167b12bf67cdaa4cb4bf5f3d91]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-864166167b12bf67cdaa4cb4bf5f3d91]: Commencement: Art. 36 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-864166167b12bf67cdaa4cb4bf5f3d91]: Commencement: Art. 36 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

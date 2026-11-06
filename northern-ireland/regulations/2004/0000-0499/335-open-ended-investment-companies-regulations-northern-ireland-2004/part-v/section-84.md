@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Revocation etc.[^key-338965763761c6e7d8e442253768839f]
+## 84. Revocation etc.[^c-338965763761c6e7d8e442253768839f]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-338965763761c6e7d8e442253768839f]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2004/335/regulation/84) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-338965763761c6e7d8e442253768839f]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2004/335/regulation/84) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
 [^f00010]: Footnote: [S.R. 1997 No. 251](https://www.legislation.gov.uk/nisr/1997/251)

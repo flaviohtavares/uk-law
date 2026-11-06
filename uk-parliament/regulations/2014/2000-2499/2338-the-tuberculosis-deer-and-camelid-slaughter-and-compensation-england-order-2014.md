@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Tuberculosis (Deer and Camelid) Slaughter and Compensation (England) Order 2014 (revoked)[^key-14f61667fbe4ff385f866e17499a3a94]
+The Tuberculosis (Deer and Camelid) Slaughter and Compensation (England) Order 2014 (revoked)[^c-14f61667fbe4ff385f866e17499a3a94]
 
 Made
 
@@ -48,44 +48,44 @@ Coming into force
 
 1st October 2014
 
-[^key-14f61667fbe4ff385f866e17499a3a94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14f61667fbe4ff385f866e17499a3a94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and expiry[^key-14f61667fbe4ff385f866e17499a3a94]
+## 1. Title, commencement, application and expiry[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-14f61667fbe4ff385f866e17499a3a94]
+## 2. Interpretation[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Power to slaughter animals affected with tuberculosis[^key-14f61667fbe4ff385f866e17499a3a94]
+## 3. Power to slaughter animals affected with tuberculosis[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Compensation payable for a slaughtered deer[^key-14f61667fbe4ff385f866e17499a3a94]
+## 4. Compensation payable for a slaughtered deer[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Compensation payable for a slaughtered camelid[^key-14f61667fbe4ff385f866e17499a3a94]
+## 5. Compensation payable for a slaughtered camelid[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-14f61667fbe4ff385f866e17499a3a94]
+## 6. Revocation[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Review[^key-14f61667fbe4ff385f866e17499a3a94]
+## 7. Review[^c-14f61667fbe4ff385f866e17499a3a94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14f61667fbe4ff385f866e17499a3a94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14f61667fbe4ff385f866e17499a3a94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-14f61667fbe4ff385f866e17499a3a94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14f61667fbe4ff385f866e17499a3a94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-14f61667fbe4ff385f866e17499a3a94]: Textual amendment: Order revoked (2.1.2018) by [The Tuberculosis (Non-bovine animals) Slaughter and Compensation (England) Order 2017 (S.I. 2017/1254)](https://www.legislation.gov.uk/uksi/2017/1254), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/5/1)
+[^c-14f61667fbe4ff385f866e17499a3a94]: Textual amendment: Order revoked (2.1.2018) by [The Tuberculosis (Non-bovine animals) Slaughter and Compensation (England) Order 2017 (S.I. 2017/1254)](https://www.legislation.gov.uk/uksi/2017/1254), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/5/1)

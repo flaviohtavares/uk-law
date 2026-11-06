@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Power for majority of owners to dismiss and appoint manager[^key-d2c903e2cd92f4a0d32545230666c5c4][^key-57c8826cd7997a64f52b9d0b2f1ee43e]
+## 70. Power for majority of owners to dismiss and appoint manager[^c-d2c903e2cd92f4a0d32545230666c5c4][^c-57c8826cd7997a64f52b9d0b2f1ee43e]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2c903e2cd92f4a0d32545230666c5c4]: Commencement: S. 70 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-d2c903e2cd92f4a0d32545230666c5c4]: Commencement: S. 70 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-57c8826cd7997a64f52b9d0b2f1ee43e]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2025/13/section/70) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-57c8826cd7997a64f52b9d0b2f1ee43e]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2025/13/section/70) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

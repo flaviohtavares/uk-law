@@ -100,7 +100,7 @@ and sections 567 to 570[^c13521791] of that Act shall not apply in relation to t
 >
 > - (j) paragraph 5(3) of Schedule 17 to the Finance (No. 2) Act 1992.
 
-(9)[^key-cad7656a9dc80c3518cbe6a72896cc56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-cad7656a9dc80c3518cbe6a72896cc56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction of losses by reference to capital allowances
 
@@ -147,13 +147,13 @@ in respect of expenditure incurred on the provision of the fixture comprised in 
 
 **8.** (1) This paragraph applies where any apportionment or other matter arising under the preceding provisions of this Schedule appears to be material as respects the liability to tax (for whatever period) of two or more successor companies.
 
-(2) Any question which arises as to the manner in which the apportionment is to be made or the matter is to be dealt with shall be determined, for the purposes of the tax of the successor companies concerned as if it were an appeal, and each of the successor companies shall be entitled to be a party to any proceedings[^key-ea208b7bd4a70b245eb78aaad2c2eae6] —
+(2) Any question which arises as to the manner in which the apportionment is to be made or the matter is to be dealt with shall be determined, for the purposes of the tax of the successor companies concerned as if it were an appeal, and each of the successor companies shall be entitled to be a party to any proceedings[^c-ea208b7bd4a70b245eb78aaad2c2eae6] —
 
-- (a)[^key-cb0f098c4cc06b7e4d041e129b2968a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-cb0f098c4cc06b7e4d041e129b2968a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-cb0f098c4cc06b7e4d041e129b2968a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-cb0f098c4cc06b7e4d041e129b2968a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cb0f098c4cc06b7e4d041e129b2968a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cb0f098c4cc06b7e4d041e129b2968a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9251679bb8c0d65127b7e84231238c68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9251679bb8c0d65127b7e84231238c68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Securities of successor companies
 
@@ -212,7 +212,7 @@ in respect of expenditure incurred on the provision of the fixture comprised in 
 
 [^c13521881]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-cad7656a9dc80c3518cbe6a72896cc56]: Textual amendment: Sch. 17 para. 5(9) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(a)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/a/iii)
+[^c-cad7656a9dc80c3518cbe6a72896cc56]: Textual amendment: Sch. 17 para. 5(9) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(a)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/a/iii)
 
 [^c13521931]: Textual amendment: Words in [Sch. 17 para. 6(1)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/6/1) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1), [Sch. 2 para. 87(3)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/87/3)
 
@@ -224,8 +224,8 @@ in respect of expenditure incurred on the provision of the fixture comprised in 
 
 [^c13521971]: Textual amendment: Words in [Sch. 17 para. 6(4)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/6/4) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1), [Sch. 2 para. 87(4)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/87/4)
 
-[^key-ea208b7bd4a70b245eb78aaad2c2eae6]: Textual amendment: Words in [Sch. 17 para. 8(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 187(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/187/2/a)
+[^c-ea208b7bd4a70b245eb78aaad2c2eae6]: Textual amendment: Words in [Sch. 17 para. 8(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 187(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/187/2/a)
 
-[^key-cb0f098c4cc06b7e4d041e129b2968a2]: Textual amendment: [Sch. 17 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2/a)[(b)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2/b)[(c)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2/c) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 187(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/187/2/b)
+[^c-cb0f098c4cc06b7e4d041e129b2968a2]: Textual amendment: [Sch. 17 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2/a)[(b)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2/b)[(c)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/2/c) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 187(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/187/2/b)
 
-[^key-9251679bb8c0d65127b7e84231238c68]: Textual amendment: [Sch. 17 para. 8(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 187(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/187/3)
+[^c-9251679bb8c0d65127b7e84231238c68]: Textual amendment: [Sch. 17 para. 8(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/17/paragraph/8/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 187(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/187/3)

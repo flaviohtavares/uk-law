@@ -22,39 +22,39 @@ summary: ''
 
 Section 52
 
-**1.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-bafbc0b900ac18121b4ded8d8b6aaddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** In section 531 of ITA 2007 (charities: exemptions)—
 
@@ -67,4 +67,4 @@ Section 52
 
 ## Annotations
 
-[^key-bafbc0b900ac18121b4ded8d8b6aaddf]: Textual amendment: Sch. 17 paras. 1-17 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bafbc0b900ac18121b4ded8d8b6aaddf]: Textual amendment: Sch. 17 paras. 1-17 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Consequential amendments and repeals[^key-3a6ea634b67c30d1d8dc930a80c6a871][^key-a7f586473797a95c5d08a3140152b2ba]
+## 36. Consequential amendments and repeals[^c-3a6ea634b67c30d1d8dc930a80c6a871][^c-a7f586473797a95c5d08a3140152b2ba]
 
 *Extent: S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6ea634b67c30d1d8dc930a80c6a871]: Commencement: S. 36 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-3a6ea634b67c30d1d8dc930a80c6a871]: Commencement: S. 36 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a7f586473797a95c5d08a3140152b2ba]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2025/8/section/36) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-a7f586473797a95c5d08a3140152b2ba]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2025/8/section/36) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

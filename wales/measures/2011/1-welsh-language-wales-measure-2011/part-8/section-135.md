@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Publication of registers of interests[^key-85c3ab433665363e0e9a2b9ec2d8b04a]
+## 135. Publication of registers of interests[^c-85c3ab433665363e0e9a2b9ec2d8b04a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ as the Commissioner may require to enable him or her to comply with the duty und
 
 ## Annotations
 
-[^key-85c3ab433665363e0e9a2b9ec2d8b04a]: Commencement: [S. 135](https://www.legislation.gov.uk/mwa/2011/1/section/135) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(m)](https://www.legislation.gov.uk/wsi/2012/969/article/2/m)
+[^c-85c3ab433665363e0e9a2b9ec2d8b04a]: Commencement: [S. 135](https://www.legislation.gov.uk/mwa/2011/1/section/135) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(m)](https://www.legislation.gov.uk/wsi/2012/969/article/2/m)

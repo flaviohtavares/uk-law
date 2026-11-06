@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Dissolution of the Learning and Skills Council: transfer schemes[^key-1507ff0220297e6d66273c8ca67ee0dc]
+## 124. Dissolution of the Learning and Skills Council: transfer schemes[^c-1507ff0220297e6d66273c8ca67ee0dc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 contains provision about schemes for the transfer of staff, property,
 
 ## Annotations
 
-[^key-1507ff0220297e6d66273c8ca67ee0dc]: Commencement: S. 124 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1507ff0220297e6d66273c8ca67ee0dc]: Commencement: S. 124 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))

@@ -26,7 +26,7 @@ summary: ''
 
 - “**chargeable amount**” means the amount of employment income which would be charged to tax in respect of the award apart from subsection (1),
 - “**long service award**” means an award made to an employee to mark not less than 20 years' service with the same employer, and
-- “**permitted maximum**” means £50[^key-52d633878c9261dea96ea6a9530d57e3] for each year of service in respect of which the award is made.
+- “**permitted maximum**” means £50[^c-52d633878c9261dea96ea6a9530d57e3] for each year of service in respect of which the award is made.
 
 (3) The condition is that the award must take the form of—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52d633878c9261dea96ea6a9530d57e3]: Textual amendment: Word in s. 323(2) substituted (13.6.2003) by [The Income Tax (Exemption of Minor Benefits) (Increase in Sums of Money) Order 2003 (S.I. 2003/1361)](https://www.legislation.gov.uk/uksi/2003/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1361/article/1/1), [3](https://www.legislation.gov.uk/uksi/2003/1361/article/3)
+[^c-52d633878c9261dea96ea6a9530d57e3]: Textual amendment: Word in s. 323(2) substituted (13.6.2003) by [The Income Tax (Exemption of Minor Benefits) (Increase in Sums of Money) Order 2003 (S.I. 2003/1361)](https://www.legislation.gov.uk/uksi/2003/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1361/article/1/1), [3](https://www.legislation.gov.uk/uksi/2003/1361/article/3)

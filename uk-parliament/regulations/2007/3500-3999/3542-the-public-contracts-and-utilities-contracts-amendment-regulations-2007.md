@@ -33,7 +33,7 @@ PUBLIC PROCUREMENT, ENGLAND AND WALES
 
 PUBLIC PROCUREMENT, NORTHERN IRELAND
 
-The Public Contracts and Utilities Contracts (Amendment) Regulations 2007 (revoked)[^key-24dbf1b67dd2651e313fe3601aa2debf]
+The Public Contracts and Utilities Contracts (Amendment) Regulations 2007 (revoked)[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 Made
 
@@ -53,54 +53,54 @@ For all other purposes
 
 8th January 2008
 
-[^key-24dbf1b67dd2651e313fe3601aa2debf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24dbf1b67dd2651e313fe3601aa2debf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 1. Citation, commencement and interpretation[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Thresholds—Amendments to the Public Contracts Regulations[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 2. Thresholds—Amendments to the Public Contracts Regulations[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Thresholds – Amendments to the Utilities Contracts Regulations[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 3. Thresholds – Amendments to the Utilities Contracts Regulations[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Professional and trade registers—Amendments to the Public Contracts Regulations[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 4. Professional and trade registers—Amendments to the Public Contracts Regulations[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Professional and trade registers—Amendments to the Utilities Contracts Regulations[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 5. Professional and trade registers—Amendments to the Utilities Contracts Regulations[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Miscellaneous amendments to the Public Contracts Regulations[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 6. Miscellaneous amendments to the Public Contracts Regulations[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Miscellaneous Amendments to the Utilities Contracts Regulations[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## 7. Miscellaneous Amendments to the Utilities Contracts Regulations[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-24dbf1b67dd2651e313fe3601aa2debf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24dbf1b67dd2651e313fe3601aa2debf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 6 TO THE PUBLIC CONTRACTS REGULATIONS[^key-24dbf1b67dd2651e313fe3601aa2debf]
+## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 6 TO THE PUBLIC CONTRACTS REGULATIONS[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 Regulation 4(4)
 
-[^key-24dbf1b67dd2651e313fe3601aa2debf]
+[^c-24dbf1b67dd2651e313fe3601aa2debf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-24dbf1b67dd2651e313fe3601aa2debf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24dbf1b67dd2651e313fe3601aa2debf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-24dbf1b67dd2651e313fe3601aa2debf]: Textual amendment: Regulations revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-24dbf1b67dd2651e313fe3601aa2debf]: Textual amendment: Regulations revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))

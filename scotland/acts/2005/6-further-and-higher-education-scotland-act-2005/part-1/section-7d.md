@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7D. Orders under sections 7A to 7C: supplemental[^key-d5020e38c6e1b40e1b9c5b02e89e9153]
+## 7D. Orders under sections 7A to 7C: supplemental[^c-d5020e38c6e1b40e1b9c5b02e89e9153]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5020e38c6e1b40e1b9c5b02e89e9153]: Textual amendment: [S. 7D](https://www.legislation.gov.uk/asp/2005/6/section/7D) inserted (3.3.2014 for specified purposes, 31.3.2015 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(6)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/6); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1); [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)
+[^c-d5020e38c6e1b40e1b9c5b02e89e9153]: Textual amendment: [S. 7D](https://www.legislation.gov.uk/asp/2005/6/section/7D) inserted (3.3.2014 for specified purposes, 31.3.2015 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(6)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/6); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1); [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Disregard of certain convictions or cautions[^key-c96ff05b712145a11bc69265628a5331][^key-bd06b986731e950d2d1d131909e67eca]
+## 194. Disregard of certain convictions or cautions[^c-c96ff05b712145a11bc69265628a5331][^c-bd06b986731e950d2d1d131909e67eca]
 
 *Extent: E+W*
 
@@ -146,6 +146,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c96ff05b712145a11bc69265628a5331]: Commencement: S. 194 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-c96ff05b712145a11bc69265628a5331]: Commencement: S. 194 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-bd06b986731e950d2d1d131909e67eca]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2022/32/section/194) in force at 13.6.2023 by [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))
+[^c-bd06b986731e950d2d1d131909e67eca]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2022/32/section/194) in force at 13.6.2023 by [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))

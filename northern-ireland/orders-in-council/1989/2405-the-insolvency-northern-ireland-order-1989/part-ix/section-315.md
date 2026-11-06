@@ -54,7 +54,7 @@ then, unless the contrary is shown, it shall be presumed for the purposes of sub
 - (a) of the fact that the petition on which the individual in question is adjudged bankrupt has been presented; or
 - (b) of the fact that the individual in question has been adjudged bankrupt.
 
-(6) Article 7 shall apply for the purposes of paragraph (2A)(b) as it applies for the purposes of Parts 1A to 7[^key-95afa84cc50694a4e39676e0507f13c4].
+(6) Article 7 shall apply for the purposes of paragraph (2A)(b) as it applies for the purposes of Parts 1A to 7[^c-95afa84cc50694a4e39676e0507f13c4].
 
 ## Annotations
 
@@ -64,4 +64,4 @@ then, unless the contrary is shown, it shall be presumed for the purposes of sub
 
 [^c17602161]: Textual amendment: [1994 c. 12](https://www.legislation.gov.uk/ukpga/1994/12)
 
-[^key-95afa84cc50694a4e39676e0507f13c4]: Textual amendment: Words in [art. 315(6)](https://www.legislation.gov.uk/nisi/1989/2405/article/315/6) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-95afa84cc50694a4e39676e0507f13c4]: Textual amendment: Words in [art. 315(6)](https://www.legislation.gov.uk/nisi/1989/2405/article/315/6) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

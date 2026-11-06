@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Sections 154 and 155: specified articles and supplementary provision[^key-d541e574f5aff39a09419c8ef4d10b05][^key-32f29b50c27cbc5474fb727146ef1865]
+## 156. Sections 154 and 155: specified articles and supplementary provision[^c-d541e574f5aff39a09419c8ef4d10b05][^c-32f29b50c27cbc5474fb727146ef1865]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d541e574f5aff39a09419c8ef4d10b05]: Commencement: S. 156 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d541e574f5aff39a09419c8ef4d10b05]: Commencement: S. 156 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-32f29b50c27cbc5474fb727146ef1865]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2026/20/section/156) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/b)
+[^c-32f29b50c27cbc5474fb727146ef1865]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2026/20/section/156) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/b)

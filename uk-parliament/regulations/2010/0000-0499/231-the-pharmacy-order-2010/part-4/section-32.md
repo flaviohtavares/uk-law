@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Indemnity arrangements[^key-f4a2c1b1a13e274d8ca96c60561bf8a4]
+## 32. Indemnity arrangements[^c-f4a2c1b1a13e274d8ca96c60561bf8a4]
 
 *Extent: E+W+S*
 
@@ -58,10 +58,10 @@ summary: ''
 
 the Registrar must send to the person at the person's last known address a statement in writing giving the person notice of the decision and the reasons for it and the right of appeal to the Appeals Committee under article 40.
 
-(11)[^key-fbb22ef1ba98634ddf10ae08142735de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-fbb22ef1ba98634ddf10ae08142735de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4a2c1b1a13e274d8ca96c60561bf8a4]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/uksi/2010/231/article/32) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/35) (with [Sch. 3 paras. 20-23](https://www.legislation.gov.uk/uksi/2014/1887/schedule/3/paragraph/20))
+[^c-f4a2c1b1a13e274d8ca96c60561bf8a4]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/uksi/2010/231/article/32) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/35) (with [Sch. 3 paras. 20-23](https://www.legislation.gov.uk/uksi/2014/1887/schedule/3/paragraph/20))
 
-[^key-fbb22ef1ba98634ddf10ae08142735de]: Textual amendment: [Art. 32(11)](https://www.legislation.gov.uk/uksi/2010/231/article/32/11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbb22ef1ba98634ddf10ae08142735de]: Textual amendment: [Art. 32(11)](https://www.legislation.gov.uk/uksi/2010/231/article/32/11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

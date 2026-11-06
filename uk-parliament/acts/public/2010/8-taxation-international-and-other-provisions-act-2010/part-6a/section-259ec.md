@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259EC. Counteraction where the hybrid payer is within the charge to corporation tax for the payment period[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259EC. Counteraction where the hybrid payer is within the charge to corporation tax for the payment period[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) is carried forward to subsequent accounting periods of the payer, and
 - (b) for corporation tax purposes, may be deducted from dual inclusion income for any such period (and not from any other income), so far as it cannot be deducted under this paragraph for an earlier period.
 
-(4) In this section “dual inclusion income” of the payer for an accounting period means an amount that [^key-560cc79ad79537bb49eccf39167153ac]... is both—
+(4) In this section “dual inclusion income” of the payer for an accounting period means an amount that [^c-560cc79ad79537bb49eccf39167153ac]... is both—
 
 - (a) ordinary income of the payer for that period for corporation tax purposes, and
 - (b) ordinary income of an investor in the payer for a permitted taxable period for the purposes of any tax charged under the law of an investor jurisdiction.
@@ -41,7 +41,7 @@ summary: ''
   - (i) a claim has been made for the period to be a permitted period in relation to the amount of ordinary income, and
   - (ii) it is just and reasonable for the amount of ordinary income to arise for that taxable period rather than an earlier period.
 
-(6)[^key-d14541eb45fb360d1f0f54ad74daf590] For the purposes of subsection (4)(b) the reference to ordinary income of an investor in the payer for a permitted taxable period for the purposes of any tax charged under the law of an investor jurisdiction is taken to include a reference to an amount that meets the following requirements.
+(6)[^c-d14541eb45fb360d1f0f54ad74daf590] For the purposes of subsection (4)(b) the reference to ordinary income of an investor in the payer for a permitted taxable period for the purposes of any tax charged under the law of an investor jurisdiction is taken to include a reference to an amount that meets the following requirements.
 
 (7) The requirements are that—
 
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-560cc79ad79537bb49eccf39167153ac]: Textual amendment: Words in [s. 259EC(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259EC/4) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/10/2)
+[^c-560cc79ad79537bb49eccf39167153ac]: Textual amendment: Words in [s. 259EC(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259EC/4) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/10/2)
 
-[^key-d14541eb45fb360d1f0f54ad74daf590]: Textual amendment: [S. 259EC(6)-(11)](https://www.legislation.gov.uk/ukpga/2010/8/section/259EC/6) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 10(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/10/3)
+[^c-d14541eb45fb360d1f0f54ad74daf590]: Textual amendment: [S. 259EC(6)-(11)](https://www.legislation.gov.uk/ukpga/2010/8/section/259EC/6) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 10(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/10/3)

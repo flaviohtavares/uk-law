@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the regulation and supervision of working conditions of persons engaged in road transport, in exercise of the powers conferred by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b41e09ccd7a0fb91b9c15d652ace1c66]
+## 1. Citation and commencement[^c-b41e09ccd7a0fb91b9c15d652ace1c66]
 
 These Regulations may be cited as the Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) Regulations (Northern Ireland) 2001 and shall come into operation on 9th April 2001.
 
-## 2. Interpretation[^key-423cef93be0ceb4604c891e7ec2ddcc7]
+## 2. Interpretation[^c-423cef93be0ceb4604c891e7ec2ddcc7]
 
 (1) In these Regulations—
 
@@ -79,14 +79,14 @@ These Regulations may be cited as the Community Drivers' Hours (Foot-and-Mouth D
   - (v) agricultural equipment;
   - (vi) self-propelled agricultural vehicles including tractors; and
   - (vii) fork-lift trucks.
-- “prescribed period” means the[^key-305a0cb2a9e33d7d11a900b4ac3b44a1] period of 30 days beginning on 4th October 2001[^key-58f4a860bc6d87c6a69d898e60b652ff] ;
+- “prescribed period” means the[^c-305a0cb2a9e33d7d11a900b4ac3b44a1] period of 30 days beginning on 4th October 2001[^c-58f4a860bc6d87c6a69d898e60b652ff] ;
 - “vehicle”, whether laden or not, has the same meaning as “vehicles” in the Council Regulation.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Temporary exceptions[^key-a424b61cab28647f9ac27fde57cab923]
+## 3. Temporary exceptions[^c-a424b61cab28647f9ac27fde57cab923]
 
-(1) Pursuant to Article 13(2) of the Council Regulation [^key-a1198e3ec240da75a57a7f2859a9d126]..., and in order to meet the exceptional circumstances occasioned by the outbreak of foot-and-mouth disease in Northern Ireland, or the effects or consequences of such exceptional circumstances, any time spent driving a vehicle in the prescribed period[^key-6a736cac23fad1a6ee5049ee95f68c07] for the purpose of—
+(1) Pursuant to Article 13(2) of the Council Regulation [^c-a1198e3ec240da75a57a7f2859a9d126]..., and in order to meet the exceptional circumstances occasioned by the outbreak of foot-and-mouth disease in Northern Ireland, or the effects or consequences of such exceptional circumstances, any time spent driving a vehicle in the prescribed period[^c-6a736cac23fad1a6ee5049ee95f68c07] for the purpose of—
 
 - (a) the collection or delivery to or from a farm of agricultural products, machinery, fertiliser, fuel, disinfectants, herbicides and pesticides; or
 - (b) the movement of livestock; or
@@ -128,20 +128,20 @@ These Regulations also provide that in relation to the driving of such vehicles 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-b41e09ccd7a0fb91b9c15d652ace1c66]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/154/regulation/1)
+[^c-b41e09ccd7a0fb91b9c15d652ace1c66]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/154/regulation/1)
 
-[^key-423cef93be0ceb4604c891e7ec2ddcc7]: Commencement: Reg. 2 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/154/regulation/1)
+[^c-423cef93be0ceb4604c891e7ec2ddcc7]: Commencement: Reg. 2 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/154/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L370, 31.12.85, p. 1
 
-[^key-305a0cb2a9e33d7d11a900b4ac3b44a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/2/1) added (7.7.2001) by [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2001 (S.R. 2001/268)](https://www.legislation.gov.uk/nisr/2001/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/268/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2001/268/regulation/2/a)
+[^c-305a0cb2a9e33d7d11a900b4ac3b44a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/2/1) added (7.7.2001) by [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2001 (S.R. 2001/268)](https://www.legislation.gov.uk/nisr/2001/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/268/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2001/268/regulation/2/a)
 
-[^key-58f4a860bc6d87c6a69d898e60b652ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/2/1) substituted (5.10.2001) by [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 5) Regulations (Northern Ireland) 2001 (S.R. 2001/340)](https://www.legislation.gov.uk/nisr/2001/340), [regs. 1](https://www.legislation.gov.uk/nisr/2001/340/regulation/1), [2](https://www.legislation.gov.uk/nisr/2001/340/regulation/2)
+[^c-58f4a860bc6d87c6a69d898e60b652ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/2/1) substituted (5.10.2001) by [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 5) Regulations (Northern Ireland) 2001 (S.R. 2001/340)](https://www.legislation.gov.uk/nisr/2001/340), [regs. 1](https://www.legislation.gov.uk/nisr/2001/340/regulation/1), [2](https://www.legislation.gov.uk/nisr/2001/340/regulation/2)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a424b61cab28647f9ac27fde57cab923]: Commencement: Reg. 3 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/154/regulation/1)
+[^c-a424b61cab28647f9ac27fde57cab923]: Commencement: Reg. 3 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/154/regulation/1)
 
-[^key-a1198e3ec240da75a57a7f2859a9d126]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/3/1) omitted (7.7.2001) by virtue of [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2001 (S.R. 2001/268)](https://www.legislation.gov.uk/nisr/2001/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/268/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2001/268/regulation/2/b)
+[^c-a1198e3ec240da75a57a7f2859a9d126]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/3/1) omitted (7.7.2001) by virtue of [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2001 (S.R. 2001/268)](https://www.legislation.gov.uk/nisr/2001/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/268/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2001/268/regulation/2/b)
 
-[^key-6a736cac23fad1a6ee5049ee95f68c07]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/3/1) inserted (7.7.2001) by [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2001 (S.R. 2001/268)](https://www.legislation.gov.uk/nisr/2001/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/268/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2001/268/regulation/2/b)
+[^c-6a736cac23fad1a6ee5049ee95f68c07]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/154/regulation/3/1) inserted (7.7.2001) by [The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2001 (S.R. 2001/268)](https://www.legislation.gov.uk/nisr/2001/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/268/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2001/268/regulation/2/b)

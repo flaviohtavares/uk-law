@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Offences of unlawful disclosure[^key-e53ae64fbee5c59677827f70ea820a43][^key-67dc1b6871f77c8d315fa5984abe8e23]
+## 124. Offences of unlawful disclosure[^c-e53ae64fbee5c59677827f70ea820a43][^c-67dc1b6871f77c8d315fa5984abe8e23]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e53ae64fbee5c59677827f70ea820a43]: Commencement: S. 124 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e53ae64fbee5c59677827f70ea820a43]: Commencement: S. 124 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-67dc1b6871f77c8d315fa5984abe8e23]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2022/31/section/124) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-67dc1b6871f77c8d315fa5984abe8e23]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2022/31/section/124) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Compliance with regulations[^key-9be08d7bd35ff81929ed0e398f63c87e]
+## 15. Compliance with regulations[^c-9be08d7bd35ff81929ed0e398f63c87e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there is more than one registered person in respect of the supported accom
 
 ## Annotations
 
-[^key-9be08d7bd35ff81929ed0e398f63c87e]: Commencement: Reg. 15 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-9be08d7bd35ff81929ed0e398f63c87e]: Commencement: Reg. 15 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

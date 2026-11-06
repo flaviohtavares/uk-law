@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. General aims[^key-2e823d39e038381ecf3fc8a6a352ec57]
+## 4. General aims[^c-2e823d39e038381ecf3fc8a6a352ec57]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In exercising their functions the Rail Accident Investigation Branch shall, wher
 
 ## Annotations
 
-[^key-2e823d39e038381ecf3fc8a6a352ec57]: Commencement: S. 4 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(iv)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/iv)
+[^c-2e823d39e038381ecf3fc8a6a352ec57]: Commencement: S. 4 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(iv)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/iv)

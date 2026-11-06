@@ -25,9 +25,9 @@ summary: ''
 - (a) for inclusion in a pharmaceutical list as an NHS pharmacist; or
 - (b) from an NHS pharmacist included in such a list—
   - (i) to relocate to different pharmacy premises in the area of the relevant HWB, or
-  - (ii) to open, within the area of the relevant HWB, additional pharmacy premises at or[^key-7c39f3638375b42a74bd514b0a8ce4e1] from which to provide pharmaceutical services.
+  - (ii) to open, within the area of the relevant HWB, additional pharmacy premises at or[^c-7c39f3638375b42a74bd514b0a8ce4e1] from which to provide pharmaceutical services.
 
-(2) As regards any application to which paragraph (1) applies, NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must have regard to whether or not the applicant is seeking the listing of pharmacy premises which are in a part of a controlled locality that is not a reserved location.
+(2) As regards any application to which paragraph (1) applies, NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must have regard to whether or not the applicant is seeking the listing of pharmacy premises which are in a part of a controlled locality that is not a reserved location.
 
 (3) If the applicant is seeking the listing of pharmacy premises which are in a part of a controlled locality that is not in a reserved location, NHS England must refuse the application if granting it would, in the opinion of NHS England, prejudice the proper provision of relevant NHS services in the area of—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c39f3638375b42a74bd514b0a8ce4e1]: Textual amendment: Words in [reg. 44(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/44/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/989/regulation/27)
+[^c-7c39f3638375b42a74bd514b0a8ce4e1]: Textual amendment: Words in [reg. 44(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/44/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/989/regulation/27)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

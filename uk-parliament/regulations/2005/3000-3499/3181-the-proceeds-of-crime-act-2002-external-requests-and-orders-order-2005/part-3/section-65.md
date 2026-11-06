@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Restraint orders: restrictions on proceedings and remedies[^key-33132cb0240e8dd8c58e7d88782e6559]
+## 65. Restraint orders: restrictions on proceedings and remedies[^c-33132cb0240e8dd8c58e7d88782e6559]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33132cb0240e8dd8c58e7d88782e6559]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2005/3181/article/65) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-33132cb0240e8dd8c58e7d88782e6559]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2005/3181/article/65) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

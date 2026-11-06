@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A person who is over the age of 80 and entitled to a retirement pension of any category under this Act[^key-1cee86c1159e2f49f01d9a332f12dfcb] shall be entitled to an increase of the pension, to be known as “**age addition**”.
+(1) A person who is over the age of 80 and entitled to a retirement pension of any category under this Act[^c-1cee86c1159e2f49f01d9a332f12dfcb] shall be entitled to an increase of the pension, to be known as “**age addition**”.
 
 (2) Where a person is in receipt of a pension or allowance payable by virtue of any prescribed enactment or instrument (whether passed or made before or after this Act) and—
 
@@ -33,4 +33,4 @@ he shall be entitled to an increase of that pension or allowance, also known as 
 
 ## Annotations
 
-[^key-1cee86c1159e2f49f01d9a332f12dfcb]: Textual amendment: Words in [s. 79(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/79/1) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 70](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/70)
+[^c-1cee86c1159e2f49f01d9a332f12dfcb]: Textual amendment: Words in [s. 79(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/79/1) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 70](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/70)

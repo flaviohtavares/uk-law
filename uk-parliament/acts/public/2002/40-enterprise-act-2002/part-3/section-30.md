@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Relevant customer benefits[^key-ad6b0db3c5654cced4da8eef2c4c3aeb][^key-a1ca3fb6bab80dc78ce3a2acc2f2da29][^key-35f70455b1b4affc8dd9ba46b9d90d9e][^c18987681]
+## 30. Relevant customer benefits[^c-ad6b0db3c5654cced4da8eef2c4c3aeb][^c-a1ca3fb6bab80dc78ce3a2acc2f2da29][^c-35f70455b1b4affc8dd9ba46b9d90d9e][^c18987681]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,10 +49,10 @@ and in this subsection “**customers**” includes future customers.
 
 ## Annotations
 
-[^key-ad6b0db3c5654cced4da8eef2c4c3aeb]: Modification: [Ss. 23-32](https://www.legislation.gov.uk/ukpga/2002/40/section/23) amendment to earlier affecting provision [S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1592/schedule/1) (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16](https://www.legislation.gov.uk/uksi/2014/891/article/16) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ad6b0db3c5654cced4da8eef2c4c3aeb]: Modification: [Ss. 23-32](https://www.legislation.gov.uk/ukpga/2002/40/section/23) amendment to earlier affecting provision [S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1592/schedule/1) (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16](https://www.legislation.gov.uk/uksi/2014/891/article/16) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-35f70455b1b4affc8dd9ba46b9d90d9e]: Modification: Pt. 3 modified (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 paras. 28-33](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35f70455b1b4affc8dd9ba46b9d90d9e]: Modification: Pt. 3 modified (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 paras. 28-33](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18987681]: Modification: Ss. 23-32 applied (with modifications) (20.6.2003) by [The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 (S.I. 2003/1592)](https://www.legislation.gov.uk/uksi/2003/1592), [art. 2](https://www.legislation.gov.uk/uksi/2003/1592/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1592/schedule/1)

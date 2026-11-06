@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Consent to prosecution under section 46[^key-a32d93fe2b7b27ccd0a3d6b574cb47e9][^c22725501]
+## 49. Consent to prosecution under section 46[^c-a32d93fe2b7b27ccd0a3d6b574cb47e9][^c22725501]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a32d93fe2b7b27ccd0a3d6b574cb47e9]: Commencement: S. 49 in force at 30.9.2017 in so far as not already in force by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
+[^c-a32d93fe2b7b27ccd0a3d6b574cb47e9]: Commencement: S. 49 in force at 30.9.2017 in so far as not already in force by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
 
 [^c22725501]: Commencement: S. 49 in force at Royal Assent for specified purposes, see s. 58

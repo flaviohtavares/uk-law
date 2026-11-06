@@ -36,35 +36,35 @@ concerning questionnaires for Member States reports on the implementation of cer
 
 (97/622/EC) (revoked)
 
-[^key-74d34e298854d0b9adbc782f39cd2860]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74d34e298854d0b9adbc782f39cd2860]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-74d34e298854d0b9adbc782f39cd2860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-74d34e298854d0b9adbc782f39cd2860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-74d34e298854d0b9adbc782f39cd2860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-74d34e298854d0b9adbc782f39cd2860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-74d34e298854d0b9adbc782f39cd2860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-74d34e298854d0b9adbc782f39cd2860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — LIST OF QUESTIONNAIRES[^key-74d34e298854d0b9adbc782f39cd2860]
+## ANNEX — LIST OF QUESTIONNAIRES[^c-74d34e298854d0b9adbc782f39cd2860]
 
-[^key-74d34e298854d0b9adbc782f39cd2860]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-74d34e298854d0b9adbc782f39cd2860]2.
+[^c-74d34e298854d0b9adbc782f39cd2860]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74d34e298854d0b9adbc782f39cd2860]QUESTIONNAIRE
+[^c-74d34e298854d0b9adbc782f39cd2860]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-74d34e298854d0b9adbc782f39cd2860]QUESTIONNAIRE
 
 for the report of the Member States on the transposition and implementation of Directive 91/689/EEC on hazardous waste, as last amended by Directive 94/31/EC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74d34e298854d0b9adbc782f39cd2860]QUESTIONNAIRE
+[^c-74d34e298854d0b9adbc782f39cd2860]QUESTIONNAIRE
 
 for the drafting of reports by Member States on the implementation and application of Directive 94/62/EC on packaging and packaging waste
 
@@ -72,4 +72,4 @@ for the drafting of reports by Member States on the implementation and applicati
 
 ## Annotations
 
-[^key-74d34e298854d0b9adbc782f39cd2860]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74d34e298854d0b9adbc782f39cd2860]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

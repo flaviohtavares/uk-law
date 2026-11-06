@@ -22,7 +22,7 @@ summary: ''
 
 (1) If—
 
-- (a) an internal drainage board is aggrieved by a resolution of the appropriate agency[^key-21423ce0d47eaa650fb851bfceea3f8e] under section 139 above determining the amount of any contribution; or
+- (a) an internal drainage board is aggrieved by a resolution of the appropriate agency[^c-21423ce0d47eaa650fb851bfceea3f8e] under section 139 above determining the amount of any contribution; or
 - (b) the council of any county , county borough[^c18736201] or London borough is aggrieved by any such resolution on the ground that the amount of the contribution required to be made by an internal drainage board is inadequate,
 
 the board or council may, within six weeks after the date on which notice of the resolution is given by the appropriate agency to the internal drainage board in question, appeal to the relevant Minister against the resolution.
@@ -50,6 +50,6 @@ make such an order in the matter as he thinks just.
 
 [^c18736181]: Modification: S. 140 extended (1.12.1991) by [Land Drainage Act 1991 (c. 59, SIF 73:1)](https://www.legislation.gov.uk/ukpga/1991/59), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1991/59/section/58/7), [76(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/76/2).
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18736201]: Textual amendment: Words in s. 140(1)(b) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11 Pt. I para. 3(3)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11/part/I/paragraph/3/3) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5) [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)

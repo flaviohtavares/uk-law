@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Tax is charged under this Chapter on all income, capital sums and benefits[^key-fed3cb9b1719f28097221187b5487cd8] to which section 619(1) applies.
+Tax is charged under this Chapter on all income, capital sums and benefits[^c-fed3cb9b1719f28097221187b5487cd8] to which section 619(1) applies.
 
 ## Annotations
 
-[^key-fed3cb9b1719f28097221187b5487cd8]: Textual amendment: Words in s. 621 substituted (with effect in accordance with Sch. 10 para. 21 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/5)
+[^c-fed3cb9b1719f28097221187b5487cd8]: Textual amendment: Words in s. 621 substituted (with effect in accordance with Sch. 10 para. 21 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/5)

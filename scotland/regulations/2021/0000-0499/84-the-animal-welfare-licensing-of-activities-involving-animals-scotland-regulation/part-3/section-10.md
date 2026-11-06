@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Duty to assist in the taking of samples from animals[^key-f2b7f15860ff96b90ae4bb3587d0a3f4]
+## 10. Duty to assist in the taking of samples from animals[^c-f2b7f15860ff96b90ae4bb3587d0a3f4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An operator must comply with any reasonable request of an inspector to facilitat
 
 ## Annotations
 
-[^key-f2b7f15860ff96b90ae4bb3587d0a3f4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/84/regulation/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-f2b7f15860ff96b90ae4bb3587d0a3f4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/84/regulation/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

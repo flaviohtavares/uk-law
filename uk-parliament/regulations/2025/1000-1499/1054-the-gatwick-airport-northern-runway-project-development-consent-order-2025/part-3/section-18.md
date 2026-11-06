@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Traffic regulations[^key-6cd2ee738f0d3c9535f8f653c9eba5c1]
+## 18. Traffic regulations[^c-6cd2ee738f0d3c9535f8f653c9eba5c1]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ and the undertaker must take into consideration any representations made to it b
 
 (9) Any prohibition, restriction or other provision made under this article may be suspended, varied or revoked by the undertaker from time to time by subsequent exercise of the powers of paragraphs (1), (2) or (3) at any time.
 
-(10) Provision made in respect of the roundabout circulatory carriageway at junction 9 of the M23 or accesses onto that junction pursuant to paragraph (3)[^key-4367e5c4a5dd05191709f426411753c1] can include prohibitions on its access and use by pedestrians and other forms of non-motorised users as well as vehicles.
+(10) Provision made in respect of the roundabout circulatory carriageway at junction 9 of the M23 or accesses onto that junction pursuant to paragraph (3)[^c-4367e5c4a5dd05191709f426411753c1] can include prohibitions on its access and use by pedestrians and other forms of non-motorised users as well as vehicles.
 
 (11) From the date determined by the undertaker, being not before the date on which Work No. 35 (South Terminal Junction improvements) is completed and open for traffic, a speed restriction of 50mph is to be imposed on the roundabout circulatory carriageway at junction 9 of the M23 as if effected pursuant to paragraph (2).
 
@@ -78,10 +78,10 @@ and the undertaker must take into consideration any representations made to it b
 
 ## Annotations
 
-[^key-6cd2ee738f0d3c9535f8f653c9eba5c1]: Commencement: Art. 18 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-6cd2ee738f0d3c9535f8f653c9eba5c1]: Commencement: Art. 18 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00056]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
 [^f00057]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-4367e5c4a5dd05191709f426411753c1]: Textual amendment: Words in [art. 18(10)](https://www.legislation.gov.uk/uksi/2025/1054/article/18/10) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-4367e5c4a5dd05191709f426411753c1]: Textual amendment: Words in [art. 18(10)](https://www.legislation.gov.uk/uksi/2025/1054/article/18/10) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)

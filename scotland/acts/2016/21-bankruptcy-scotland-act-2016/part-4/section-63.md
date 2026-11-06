@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Termination of original trustee's functions[^key-6a526b9e9a755e88ac4334dc926413dc]
+## 63. Termination of original trustee's functions[^c-6a526b9e9a755e88ac4334dc926413dc]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a526b9e9a755e88ac4334dc926413dc]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2016/21/section/63) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-6a526b9e9a755e88ac4334dc926413dc]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2016/21/section/63) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

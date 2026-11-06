@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Exclusion of leases from section 49(2)[^key-13377230cc5b0c7ca339283df13463e7]
+## 26. Exclusion of leases from section 49(2)[^c-13377230cc5b0c7ca339283df13463e7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13377230cc5b0c7ca339283df13463e7]: Commencement: Reg. 26 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-13377230cc5b0c7ca339283df13463e7]: Commencement: Reg. 26 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

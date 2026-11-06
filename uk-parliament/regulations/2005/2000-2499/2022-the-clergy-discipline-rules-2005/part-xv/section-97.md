@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 97. Removal of prohibition for life and deposition: priests and deacons[^key-b06143ab23364d5d653d747bd8d93794]
+## 97. Removal of prohibition for life and deposition: priests and deacons[^c-b06143ab23364d5d653d747bd8d93794]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b06143ab23364d5d653d747bd8d93794]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2005/2022/rule/97) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-b06143ab23364d5d653d747bd8d93794]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2005/2022/rule/97) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

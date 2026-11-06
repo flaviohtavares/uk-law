@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Further provisions[^key-6e80dee12fb7bed70c7d0b0999b3783f]
+## 43. Further provisions[^c-6e80dee12fb7bed70c7d0b0999b3783f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ it may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-6e80dee12fb7bed70c7d0b0999b3783f]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2013/2605/article/43) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-6e80dee12fb7bed70c7d0b0999b3783f]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2013/2605/article/43) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

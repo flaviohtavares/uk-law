@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181D. Disqualification orders: variation and revocation[^key-a9947b1d637c24a3ecb82a83ba702716]
+## 181D. Disqualification orders: variation and revocation[^c-a9947b1d637c24a3ecb82a83ba702716]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person in respect of whom an order under section 181A is in force may at any t
 
 ## Annotations
 
-[^key-a9947b1d637c24a3ecb82a83ba702716]: Textual amendment: Ss. 181A-181D inserted (1.10.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/10/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/a)
+[^c-a9947b1d637c24a3ecb82a83ba702716]: Textual amendment: Ss. 181A-181D inserted (1.10.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/10/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 229. Use of proxies at meetings[^key-b07dd5184201b2f3a09d8fd880386f3a]
+## 229. Use of proxies at meetings[^c-b07dd5184201b2f3a09d8fd880386f3a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.3 of the 1986 Rules. Ignore paragraph (2).
 
 ## Annotations
 
-[^key-b07dd5184201b2f3a09d8fd880386f3a]: Commencement: Rule 229 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b07dd5184201b2f3a09d8fd880386f3a]: Commencement: Rule 229 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

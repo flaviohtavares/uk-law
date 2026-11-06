@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Boarding of vessels[^key-1a94dd41d59e364df457bb023afb846a]
+## 55. Boarding of vessels[^c-1a94dd41d59e364df457bb023afb846a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a94dd41d59e364df457bb023afb846a]: Commencement: Art. 55 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-1a94dd41d59e364df457bb023afb846a]: Commencement: Art. 55 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

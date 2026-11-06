@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — PERMANENT STOPPING UP OF HIGHWAYS AND PRIVATE MEANS OF ACCESS AND PROVISION OF NEW HIGHWAYS AND PRIVATE MEANS OF ACCESS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+## SCHEDULE 3 — PERMANENT STOPPING UP OF HIGHWAYS AND PRIVATE MEANS OF ACCESS AND PROVISION OF NEW HIGHWAYS AND PRIVATE MEANS OF ACCESS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Article 10
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 **Note:** In relating this Schedule 3 to its corresponding rights of way and access plans, the provisions described in Schedule 3 are shown on the rights of way and access plans in the following manner—
 
-- (a)[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-ba60b02d70f93ffc3c65fe727c1611a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-ba60b02d70f93ffc3c65fe727c1611a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Model clauses for petroleum exploration and development licences granted by the Scottish Ministers[^key-959c34ea4510be79cab8fc22b506a31a]
+## SCHEDULE 2A — Model clauses for petroleum exploration and development licences granted by the Scottish Ministers[^c-959c34ea4510be79cab8fc22b506a31a]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ The Licensee must at all times keep the Secretary of State and the OGA effectual
 
 ## Annotations
 
-[^key-959c34ea4510be79cab8fc22b506a31a]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2014/1686/schedule/2A) inserted (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/56/schedule/1) (with [regs. 9](https://www.legislation.gov.uk/uksi/2018/56/regulation/9), [11](https://www.legislation.gov.uk/uksi/2018/56/regulation/11))
+[^c-959c34ea4510be79cab8fc22b506a31a]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2014/1686/schedule/2A) inserted (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/56/schedule/1) (with [regs. 9](https://www.legislation.gov.uk/uksi/2018/56/regulation/9), [11](https://www.legislation.gov.uk/uksi/2018/56/regulation/11))

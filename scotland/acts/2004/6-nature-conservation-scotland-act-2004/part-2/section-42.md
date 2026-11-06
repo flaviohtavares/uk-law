@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Change of owner or occupier[^key-89d2934b93fc914ad3d515887251a065]
+## 42. Change of owner or occupier[^c-89d2934b93fc914ad3d515887251a065]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89d2934b93fc914ad3d515887251a065]: Commencement: S. 42 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-89d2934b93fc914ad3d515887251a065]: Commencement: S. 42 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

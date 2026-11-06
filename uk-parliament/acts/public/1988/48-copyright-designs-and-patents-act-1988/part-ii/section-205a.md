@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205A. Licensing of performers’ ... rights.[^c20314191][^c20312331][^key-cf7ecbe7da1c71d12b1f7798de9085ce]
+## 205A. Licensing of performers’ ... rights.[^c20314191][^c20312331][^c-cf7ecbe7da1c71d12b1f7798de9085ce]
 
 *Extent: E+W+S+N.I.*
 
-The provisions of Schedule 2A have effect with respect to the licensing of performers’ [^key-cf7ecbe7da1c71d12b1f7798de9085ce]... rights.
+The provisions of Schedule 2A have effect with respect to the licensing of performers’ [^c-cf7ecbe7da1c71d12b1f7798de9085ce]... rights.
 
 ## Annotations
 
@@ -28,4 +28,4 @@ The provisions of Schedule 2A have effect with respect to the licensing of perfo
 
 [^c20312331]: Textual amendment: S. 205A inserted (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [reg. 22(1)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/22/1) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III))
 
-[^key-cf7ecbe7da1c71d12b1f7798de9085ce]: Textual amendment: Word in s. 205A omitted (25.4.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/22/paragraph/6)
+[^c-cf7ecbe7da1c71d12b1f7798de9085ce]: Textual amendment: Word in s. 205A omitted (25.4.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/22/paragraph/6)

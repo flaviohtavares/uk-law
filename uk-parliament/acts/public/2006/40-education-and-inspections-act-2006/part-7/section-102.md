@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Reintegration interviews[^key-e6a0723bf84492cc27a83b3241b07a2c][^key-72f64caf954e315b7337807c9410c81a][^key-3e6b563cb5d5c77f89bcc56bd959b9dc]
+## 102. Reintegration interviews[^c-e6a0723bf84492cc27a83b3241b07a2c][^c-72f64caf954e315b7337807c9410c81a][^c-3e6b563cb5d5c77f89bcc56bd959b9dc]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6a0723bf84492cc27a83b3241b07a2c]: Commencement: S. 102 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/d)
+[^c-e6a0723bf84492cc27a83b3241b07a2c]: Commencement: S. 102 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/d)
 
-[^key-72f64caf954e315b7337807c9410c81a]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2006/40/section/102) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(i)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/i)
+[^c-72f64caf954e315b7337807c9410c81a]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2006/40/section/102) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(i)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/i)
 
-[^key-3e6b563cb5d5c77f89bcc56bd959b9dc]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2006/40/section/102) in force at 5.1.2011 for W. in so far as not already in force by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 3(b)](https://www.legislation.gov.uk/wsi/2010/2543/article/3/b)
+[^c-3e6b563cb5d5c77f89bcc56bd959b9dc]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2006/40/section/102) in force at 5.1.2011 for W. in so far as not already in force by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 3(b)](https://www.legislation.gov.uk/wsi/2010/2543/article/3/b)

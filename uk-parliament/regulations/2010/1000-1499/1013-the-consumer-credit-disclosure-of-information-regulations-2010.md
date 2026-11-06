@@ -46,7 +46,7 @@ Coming into force
 
 [^c20239571][^c20239581]The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to consumer credit.
 
-The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 10(5), 10(7), 10(9) and 12(2)(c) in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and all other provisions in these Regulations in exercise of the powers conferred by sections 55(1), 182(2) and 189(1) of the Consumer Credit Act 1974 [^c20239591].[^key-068de02f1957cf9201681de1c641ae9e][^key-0019ec661906b17715440d61b625fcdd][^key-328a44eed058cc6677b22450bbd9b193][^key-073cb35a0946314c3f59fcdd92821810]
+The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 10(5), 10(7), 10(9) and 12(2)(c) in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and all other provisions in these Regulations in exercise of the powers conferred by sections 55(1), 182(2) and 189(1) of the Consumer Credit Act 1974 [^c20239591].[^c-068de02f1957cf9201681de1c641ae9e][^c-0019ec661906b17715440d61b625fcdd][^c-328a44eed058cc6677b22450bbd9b193][^c-073cb35a0946314c3f59fcdd92821810]
 
 ## 1. Citation, commencement and interpretation
 
@@ -55,14 +55,14 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 (2) In these Regulations—
 
 - “**the Act**” means the Consumer Credit Act 1974;
-- “**advance payment**” includes any deposit and in relation to a regulated consumer credit agreement includes also any part-exchange allowance in respect of any goods agreed in antecedent negotiations [^key-ee0e47ad7bd85bc293f3827982ee5d6f]... to be taken by the creditor in part exchange but does not include a repayment of credit or any insurance premium or any amount entering into the total charge for credit;
+- “**advance payment**” includes any deposit and in relation to a regulated consumer credit agreement includes also any part-exchange allowance in respect of any goods agreed in antecedent negotiations [^c-ee0e47ad7bd85bc293f3827982ee5d6f]... to be taken by the creditor in part exchange but does not include a repayment of credit or any insurance premium or any amount entering into the total charge for credit;
 - “**ancillary service**” means a service that relates to the provision of credit under the agreement and includes in particular an insurance or payment protection policy;
 - “**the APR**” means the annual percentage rate of charge for credit determined in accordance with Schedule 2 to these Regulations and the total charge for credit rules[^M_F_e8e263eb-c08d-4343-8be5-2d5de6087cf7];
 - “**cash price**” in relation to any goods, services, land or other things means the price or charge at which the goods, services, land or other things may be purchased by, or supplied to, the debtor for cash account being taken of any discount generally available from the dealer or supplier in question;
 - “**credit intermediary**” has the same meaning as in section 61A[^M_F_35e76c25-03a9-4066-f6c0-70c450f6fad5] of the Act;
 - “**distance contract**” means any regulated agreement made under an organised distance sales or service-provision scheme run by or on behalf of the creditor who, in any such case, for the purpose of that agreement makes exclusive use of one or more means of distance communication up to and including the time at which the agreement is made. For this purpose, “**means of distance communication**” means any means which, without the simultaneous physical presence of the creditor or a person acting on behalf of the creditor and of the debtor, may be used for the making of a regulated agreement between the parties to that agreement;
 - “**excluded pawn agreement**” means a pawn agreement—
-  - (a) where the debtor is not a new customer of the creditor (see paragraph (6)[^key-57176647bd973f26ac5ea38c77074dba]), and
+  - (a) where the debtor is not a new customer of the creditor (see paragraph (6)[^c-57176647bd973f26ac5ea38c77074dba]), and
   - (b) where, before the agreement is made, the creditor has not received a request from the debtor for the pre-contract credit information (see regulation 9);
 - “**linked credit agreement**” means a regulated consumer credit agreement which—
   - (a) serves exclusively to finance an agreement for the supply of specific goods or the provision of a specific service or land, and
@@ -88,7 +88,7 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 
 (6) For the purposes of the definition of “excluded pawn agreement” and regulation 8 the debtor is a new customer if the debtor has not entered into a pawn agreement with the creditor in the three years preceding the start of the negotiations antecedent to the agreement.
 
-(7)[^key-4f00a9348c0ae0d324e62537a00efc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4f00a9348c0ae0d324e62537a00efc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Agreements to which these Regulations apply
 
@@ -98,12 +98,12 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 
 (3) These Regulations do not apply to an authorised non-business overdraft agreement which is—
 
-- (a) for credit which exceeds £60,260 unless it is a residential renovation agreement[^key-36b602f38f87efe7c9544537ada7ad12], or
+- (a) for credit which exceeds £60,260 unless it is a residential renovation agreement[^c-36b602f38f87efe7c9544537ada7ad12], or
 - (b) secured on land.
 
 (4) Except as provided for in paragraph (5) these Regulations do not apply to an agreement—
 
-- (a) under which the creditor provides the debtor with credit exceeding £60,260 unless it is a residential renovation agreement[^key-e4028f8c26d9b8a5ef84790ea41def20],
+- (a) under which the creditor provides the debtor with credit exceeding £60,260 unless it is a residential renovation agreement[^c-e4028f8c26d9b8a5ef84790ea41def20],
 - (b) secured on land,
 - (c) entered into by the debtor wholly or predominantly for the purposes of a business also carried on, or intended to be carried on, by him, or
 - (d) made before 1st February 2011.
@@ -116,7 +116,7 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 
 (1) This regulation applies to an agreement other than—
 
-- (a)[^key-79e7b21f85e48e495822e0caa924a692] an agreement made by voice telephone communication where it is a distance contract and the debtor consents to the disclosure of the information referred to in regulation 4(2);
+- (a)[^c-79e7b21f85e48e495822e0caa924a692] an agreement made by voice telephone communication where it is a distance contract and the debtor consents to the disclosure of the information referred to in regulation 4(2);
 - (aa) an agreement made by voice telephone communication where it is not a distance contract (see regulation 4(3));
 - (b) an agreement made using a means of distance communication other than a voice telephone communication, which does not enable the provision of the pre-contract credit information before the agreement is made (see regulation 5);
 - (c) an excluded pawn agreement;
@@ -154,9 +154,9 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 - (t) the requirement for a creditor to inform a debtor in accordance with section 157(A1) of the Act that a decision not to proceed with a prospective regulated consumer credit agreement has been reached on the basis of information from a credit reference agency and of the particulars of that agency,
 - (u) the debtor's right to be supplied under section 55C of the Act on request and free of charge, with a copy of the draft agreement except where—
   - (i) the creditor is at the time of the request unwilling to proceed to the making of the agreement, or
-  - (ii) the agreement is an agreement referred to in regulation 2(4)(a) to (c) or a pawn agreement, [^key-5821b7a8bfa201de7efe3ed14bee5dd5]...
-- (v) if applicable, the period of time during which the creditor is bound by the pre-contract credit information , and[^key-d77cf52378ac7e71de45bc8cc41831b1]
-- (w)[^key-d9659976e21536064dcb7ba3b57fbd6d] where the agreement references a benchmark, as defined in point 3 of Article 3(1) of Regulation EU 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives [2008/48/EC](https://www.legislation.gov.uk/eudr/2008/48) and 2014/17/EU and Regulation (EU) No 596/2014, the name of the benchmark and of its administrator and the potential implications on the debtor.
+  - (ii) the agreement is an agreement referred to in regulation 2(4)(a) to (c) or a pawn agreement, [^c-5821b7a8bfa201de7efe3ed14bee5dd5]...
+- (v) if applicable, the period of time during which the creditor is bound by the pre-contract credit information , and[^c-d77cf52378ac7e71de45bc8cc41831b1]
+- (w)[^c-d9659976e21536064dcb7ba3b57fbd6d] where the agreement references a benchmark, as defined in point 3 of Article 3(1) of Regulation EU 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives [2008/48/EC](https://www.legislation.gov.uk/eudr/2008/48) and 2014/17/EU and Regulation (EU) No 596/2014, the name of the benchmark and of its administrator and the potential implications on the debtor.
 
 (5) For the purpose of the representative example referred to in paragraph (4)(h)—
 
@@ -177,7 +177,7 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 (2) Where the agreement is a distance contract and where the debtor explicitly consents, the creditor must disclose the following information before the agreement is made—
 
 - (a) the identity of the person in contact with the debtor and that person's link with the creditor,
-- (b) a description of the main characteristics of the credit agreement which includes the information set out in regulation 3(4)(c), (d), (e), (f), (g), (h), (i) , (j) and (w)[^key-eefc5cd4380f121dae3a1beae6d0c28a],
+- (b) a description of the main characteristics of the credit agreement which includes the information set out in regulation 3(4)(c), (d), (e), (f), (g), (h), (i) , (j) and (w)[^c-eefc5cd4380f121dae3a1beae6d0c28a],
 - (c) the total price to be paid by the debtor to the creditor for the credit including all taxes paid via the creditor or, if an exact price cannot be indicated, the basis for the calculation of the price enabling the debtor to verify it,
 - (d) notice of the possibility that other taxes or costs may exist that are not paid via the creditor or imposed by the creditor,
 - (e) whether or not there is—
@@ -202,20 +202,20 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 
 (1) This regulation applies to an agreement that is a distance contract entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on by him.
 
-(2) Where the agreement is an agreement to which regulations 3, 4 or 5[^key-d9dfb74ed140346085278eba0e0dc457] would otherwise apply the creditor may comply with those regulations by disclosing the pre-contract credit information immediately after the agreement is entered into.
+(2) Where the agreement is an agreement to which regulations 3, 4 or 5[^c-d9dfb74ed140346085278eba0e0dc457] would otherwise apply the creditor may comply with those regulations by disclosing the pre-contract credit information immediately after the agreement is entered into.
 
 (3)[^M_F_0c821972-871b-4bc0-b788-2aa388fa80e2] Article 60C(5) and (6) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies for the purposes of paragraph (1).
 
-## 7. Information about contractual terms and conditions: regulations 3, 4 and 5[^key-4c6ed8a7234a9d619611277678a56a4b]
+## 7. Information about contractual terms and conditions: regulations 3, 4 and 5[^c-4c6ed8a7234a9d619611277678a56a4b]
 
 (1) This regulation applies to an agreement which is—
 
-- (a) a distance contract to which regulation 3, 4 or 5[^key-a7577029d8fd1745f1a6215404a143aa] applies, and
+- (a) a distance contract to which regulation 3, 4 or 5[^c-a7577029d8fd1745f1a6215404a143aa] applies, and
 - (b) which is not entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by him.
 
 (2) The creditor must ensure that—
 
-- (a) the information provided to the debtor pursuant to regulation 3, 4 or 5[^key-15185865d2c1d4aae4856e6e3eed7ec9] includes the contractual terms and conditions, and
+- (a) the information provided to the debtor pursuant to regulation 3, 4 or 5[^c-15185865d2c1d4aae4856e6e3eed7ec9] includes the contractual terms and conditions, and
 - (b) the information provided to the debtor in relation to the contractual obligations which would arise if the distance contract were made accurately reflects the contractual obligations which would arise under the law presumed to be applicable to that contract.
 
 (3)[^M_F_27bc1ac4-2cb2-4fb3-b415-c55251ff506c] Article 60C(5) and (6) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies for the purposes of paragraph (1).
@@ -244,7 +244,7 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 - (a) information that is not common to each part of the agreement is disclosed separately within the relevant section of the form, and
 - (b) it is clear which information relates to which part.
 
-(6)[^key-6cac8069dd73a53c83abcefa7af52839] Where a consumer credit agreement references a benchmark, the name of the benchmark and of its administrator and the potential implications for the debtor shall be provided by the creditor, or where applicable, by the credit intermediary, to the debtor in a separate document, which may be annexed to the form in Schedule 1.
+(6)[^c-6cac8069dd73a53c83abcefa7af52839] Where a consumer credit agreement references a benchmark, the name of the benchmark and of its administrator and the potential implications for the debtor shall be provided by the creditor, or where applicable, by the credit intermediary, to the debtor in a separate document, which may be annexed to the form in Schedule 1.
 
 ## 9. Information to be disclosed: pawn agreements
 
@@ -288,7 +288,7 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 - (e) whether or not there is a right to cancel under regulation 9 of the Financial Services (Distance Marketing) Regulations 2004 [^c20239651] and where there is such a right, its duration and the conditions for exercising it including information on the amount which the consumer may be required to pay in accordance with regulation 13 of those regulations, as well as the consequences of not exercising that right, and
 - (f) that other information is available on request and the nature of that information.
 
-(5A)[^key-89d4d7995c7d0303551357d352957447] In the case of an agreement that falls within paragraph (4)(a) that is also a distance contract, where the debtor does not explicitly consent to the disclosure of the information in paragraph (5), the creditor must disclose the information in paragraph (3) to the debtor before the agreement[^key-4b021e8cd9db907af536d1ceeb129e3f] is made.
+(5A)[^c-89d4d7995c7d0303551357d352957447] In the case of an agreement that falls within paragraph (4)(a) that is also a distance contract, where the debtor does not explicitly consent to the disclosure of the information in paragraph (5), the creditor must disclose the information in paragraph (3) to the debtor before the agreement[^c-4b021e8cd9db907af536d1ceeb129e3f] is made.
 
 (6) In the case of an agreement that falls within paragraph (4)(a) that is not a distance contract the creditor must disclose the information in paragraph (5)(b) before the agreement is made.
 
@@ -296,13 +296,13 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 
 (8) In the case of an agreement that falls within paragraph (4)(c), the creditor must disclose the information in paragraph (3)(c), (e), (f), (h), and (k) to the debtor before the agreement is made in the manner set out in regulation 11.
 
-(9) Where a current account is an agreement for two or more debtors jointly the creditor may comply with paragraphs (5), (5A),[^key-f35943646f5dd7eb18fcd3a90c09d336] (6) or (8) by disclosing the information to one debtor provided that each of the debtors have given the creditor their consent that the creditor may not comply in each debtor's case with the relevant paragraph.
+(9) Where a current account is an agreement for two or more debtors jointly the creditor may comply with paragraphs (5), (5A),[^c-f35943646f5dd7eb18fcd3a90c09d336] (6) or (8) by disclosing the information to one debtor provided that each of the debtors have given the creditor their consent that the creditor may not comply in each debtor's case with the relevant paragraph.
 
 ## 11.
 
 (1) Where regulation 10(2) applies, the creditor must comply with that regulation by—
 
-- (a) disclosing the information by means of the [^key-68dfce42807f3ce6bba787d5dd4b9500]... form set out in Schedule 3 to these Regulations and as specified in paragraph (2), or
+- (a) disclosing the information by means of the [^c-68dfce42807f3ce6bba787d5dd4b9500]... form set out in Schedule 3 to these Regulations and as specified in paragraph (2), or
 - (b) disclosing the information in writing so that all information is equally prominent.
 
 (2) The specifications referred to in paragraph (1)(a) are that—
@@ -319,14 +319,14 @@ The Secretary of State makes regulations 4(2), 4(4), 5(2), 7, 10(4)(a) and (b), 
 
 (1) Subject to paragraphs (2) to (4), these Regulations apply to a modifying agreement which varies or supplements an earlier agreement and which is, or is treated under section 82(3) of the Act as, a regulated agreement.
 
-(2)[^key-52daadf141a95473608cbdce8fa85565] Where a modifying agreement modifies an earlier consumer credit agreement, the requirements of regulations 3, 4 and 10 will be deemed to be satisfied if—
+(2)[^c-52daadf141a95473608cbdce8fa85565] Where a modifying agreement modifies an earlier consumer credit agreement, the requirements of regulations 3, 4 and 10 will be deemed to be satisfied if—
 
 - (a) in good time before the modifying agreement is made—
   - (i) the information specified by regulations 3(4) and 10(3) is disclosed to the debtor in respect of any provision of the earlier agreement which is varied or supplemented, and
   - (ii) the creditor informs the debtor in writing that the other information in the earlier agreement remains unchanged, and
 - (b) where the Financial Services (Distance Marketing) Regulations 2004 apply, the creditor complies with regulations 7 and 8 of those Regulations.
 
-(3) Where a modifying agreement is made in a manner that does not allow the creditor to comply with the requirement in paragraph (2)(a)(ii)[^key-61931ec9e25b7122320242850b4c1c0b], the creditor is deemed to have complied with that requirement if—
+(3) Where a modifying agreement is made in a manner that does not allow the creditor to comply with the requirement in paragraph (2)(a)(ii)[^c-61931ec9e25b7122320242850b4c1c0b], the creditor is deemed to have complied with that requirement if—
 
 - (a) before the agreement is made the creditor informs the debtor orally that the other information in the earlier agreement remains unchanged, and
 - (b) this is confirmed to the debtor in writing immediately after the agreement is made.
@@ -343,7 +343,7 @@ Department for Business, Innovation and Skills
 
 Regulation 8(1)
 
-#### ...[^key-fe325e8c83fb64b35ea543e841e10a1f]
+#### ...[^c-fe325e8c83fb64b35ea543e841e10a1f]
 
 1\. Contact details
 
@@ -406,7 +406,7 @@ Indications between square brackets provide explanations for the creditor and mu
 </tbody>
 </table>
 
-[^key-16dd60ff9a69068ed425bf25fb1a10fc]
+[^c-16dd60ff9a69068ed425bf25fb1a10fc]
 
 4\. Other important legal aspects
 
@@ -426,8 +426,8 @@ If applicable
 
 | (a) concerning the creditor |  |
 | --- | --- |
-| If applicable<br>The creditor's representative in the United Kingdom[^key-edf180e4eb7dd39e930a954408c132fb].<br>Address.<br>Telephone number(s).<br>E-mail address.\*<br>Fax number.\*<br>Web address.\* | \[i.e. where different from section 1.\]<br>\[Identity.\]<br>\[Geographical address to be used by the debtor.\] |
-| If applicable<br>Registration number. | \[The Firm Reference Number (FRN) (if any) or Interim Permission Number (if any), and any other relevant registration number of the creditor. (For 90 days, starting on the day that a creditor is given an FRN, either the FRN or any Interim Permission Number valid immediately before the start of this 90 day period may be provided.)[^key-6dda41e6b7e488b29ac4b67edf5fcc73]\] |
+| If applicable<br>The creditor's representative in the United Kingdom[^c-edf180e4eb7dd39e930a954408c132fb].<br>Address.<br>Telephone number(s).<br>E-mail address.\*<br>Fax number.\*<br>Web address.\* | \[i.e. where different from section 1.\]<br>\[Identity.\]<br>\[Geographical address to be used by the debtor.\] |
+| If applicable<br>Registration number. | \[The Firm Reference Number (FRN) (if any) or Interim Permission Number (if any), and any other relevant registration number of the creditor. (For 90 days, starting on the day that a creditor is given an FRN, either the FRN or any Interim Permission Number valid immediately before the start of this 90 day period may be provided.)[^c-6dda41e6b7e488b29ac4b67edf5fcc73]\] |
 | If applicable<br>The supervisory authority. | \[The Financial Conduct Authority[^M_F_ddabea59-337b-4b4e-b3fd-5c4a4d2d9d40] or any other relevant supervisory authority or both.\] |
 | (b) concerning the credit agreement |  |
 | If applicable [^c20239711] |  |
@@ -473,7 +473,7 @@ In the case of an agreement under which—
 
 there may be included in the pre-contract credit information a rate found under the total charge for credit rules[^M_F_3ce40f39-3616-47f0-b924-33946ea7c2cf] as if the interval between the relevant date and the first repayment were shortened so as to be equal to the interval between repayments.
 
-## SCHEDULE 3 — Pre-contract Consumer Credit Information (Overdrafts)[^key-da6a07d8506cbf262d2df44418d2ffc9]
+## SCHEDULE 3 — Pre-contract Consumer Credit Information (Overdrafts)[^c-da6a07d8506cbf262d2df44418d2ffc9]
 
 Regulation 11(1)
 
@@ -531,8 +531,8 @@ If applicable
 
 | (a) concerning the creditor |  |
 | --- | --- |
-| If applicable<br>The creditor's representative in the UK[^key-fdac425c2b5c1226969f2fcf763489c3]<br>Address.<br>Telephone number.\*<br>E-mail address.\*<br>Fax number.\*<br>Web address.\* | \[i.e. where different from section 1.\]<br>\[Identity.\]<br>\[Geographical address to be used by the debtor.\] |
-| If applicable<br>Registration number. | \[The Firm Reference Number (FRN) (if any) or Interim Permission Number (if any), and any other relevant registration number of the creditor. (For 90 days, starting on the day that a creditor is given an FRN, either the FRN or any Interim Permission Number valid immediately before the start of this 90 day period may be provided.)[^key-433fbfb5d0f60798cc3d6e0039924ea8]\] |
+| If applicable<br>The creditor's representative in the UK[^c-fdac425c2b5c1226969f2fcf763489c3]<br>Address.<br>Telephone number.\*<br>E-mail address.\*<br>Fax number.\*<br>Web address.\* | \[i.e. where different from section 1.\]<br>\[Identity.\]<br>\[Geographical address to be used by the debtor.\] |
+| If applicable<br>Registration number. | \[The Firm Reference Number (FRN) (if any) or Interim Permission Number (if any), and any other relevant registration number of the creditor. (For 90 days, starting on the day that a creditor is given an FRN, either the FRN or any Interim Permission Number valid immediately before the start of this 90 day period may be provided.)[^c-433fbfb5d0f60798cc3d6e0039924ea8]\] |
 | If applicable<br>The supervisory authority. | \[The Financial Conduct Authority[^M_F_626def44-6282-4bec-8b25-07414fdaf016] or any other relevant supervisory authority or both.\] |
 | (b) concerning the credit agreement |  |
 | If applicable<br>The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract. | \[English/other law.\] |
@@ -579,29 +579,29 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^c20239591]: Marginal citation: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39). Section 182(2) has been amended but the amendment is not relevant here. Section 189(1) is cited for the definition of “prescribed”.
 
-[^key-068de02f1957cf9201681de1c641ae9e]: Modification: Regulations modified (temp. to 14.7.2014) (14.2.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 15](https://www.legislation.gov.uk/uksi/2014/366/article/15)
+[^c-068de02f1957cf9201681de1c641ae9e]: Modification: Regulations modified (temp. to 14.7.2014) (14.2.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 15](https://www.legislation.gov.uk/uksi/2014/366/article/15)
 
-[^key-0019ec661906b17715440d61b625fcdd]: Modification: Regulations modified (26.2.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 6](https://www.legislation.gov.uk/uksi/2014/208/article/6)
+[^c-0019ec661906b17715440d61b625fcdd]: Modification: Regulations modified (26.2.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 6](https://www.legislation.gov.uk/uksi/2014/208/article/6)
 
-[^key-328a44eed058cc6677b22450bbd9b193]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 26(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/2)
+[^c-328a44eed058cc6677b22450bbd9b193]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 26(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/2)
 
-[^key-073cb35a0946314c3f59fcdd92821810]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/1013): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-073cb35a0946314c3f59fcdd92821810]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/1013): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-ee0e47ad7bd85bc293f3827982ee5d6f]: Textual amendment: Word in reg. 1(2) omitted (26.8.2010) by virtue of [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [32(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/32/a)
+[^c-ee0e47ad7bd85bc293f3827982ee5d6f]: Textual amendment: Word in reg. 1(2) omitted (26.8.2010) by virtue of [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [32(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/32/a)
 
 [^M_F_e8e263eb-c08d-4343-8be5-2d5de6087cf7]: Textual amendment: Words in Instrument substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 26(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/2)
 
 [^M_F_35e76c25-03a9-4066-f6c0-70c450f6fad5]: Textual amendment: Words in reg. 1(2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(3)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/3/a)
 
-[^key-57176647bd973f26ac5ea38c77074dba]: Textual amendment: Words in reg. 1(2) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [32(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/32/b)
+[^c-57176647bd973f26ac5ea38c77074dba]: Textual amendment: Words in reg. 1(2) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [32(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/32/b)
 
 [^M_F_96b4740a-b728-4a0e-b55f-ed81a40fe43e]: Textual amendment: Words in reg. 1(2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/3/b)
 
-[^key-4f00a9348c0ae0d324e62537a00efc69]: Textual amendment: Reg. 1(7) omitted (26.7.2013 for specified purposes) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(3)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/3/c)
+[^c-4f00a9348c0ae0d324e62537a00efc69]: Textual amendment: Reg. 1(7) omitted (26.7.2013 for specified purposes) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(3)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/3/c)
 
-[^key-36b602f38f87efe7c9544537ada7ad12]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/1013/regulation/2/3/a) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/13) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-36b602f38f87efe7c9544537ada7ad12]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/1013/regulation/2/3/a) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/13) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-e4028f8c26d9b8a5ef84790ea41def20]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2010/1013/regulation/2/4/a) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/13) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-e4028f8c26d9b8a5ef84790ea41def20]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2010/1013/regulation/2/4/a) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/13) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
 [^c20239621]: Marginal citation: [S.I. 2004/1481](https://www.legislation.gov.uk/uksi/2004/1481).
 
@@ -609,55 +609,55 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^M_F_edb14b75-5b39-4896-fb3f-30d75cf5df87]: Textual amendment: Reg. 2(6) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/4)
 
-[^key-79e7b21f85e48e495822e0caa924a692]: Textual amendment: Reg. 3(1)(a)(aa) substituted for reg. 3(1)(a) (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [34](https://www.legislation.gov.uk/uksi/2010/1969/regulation/34)
+[^c-79e7b21f85e48e495822e0caa924a692]: Textual amendment: Reg. 3(1)(a)(aa) substituted for reg. 3(1)(a) (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [34](https://www.legislation.gov.uk/uksi/2010/1969/regulation/34)
 
-[^key-5821b7a8bfa201de7efe3ed14bee5dd5]: Textual amendment: Word in reg. 3(4)(u)(ii) omitted (1.7.2018) by virtue of [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/2/a)
+[^c-5821b7a8bfa201de7efe3ed14bee5dd5]: Textual amendment: Word in reg. 3(4)(u)(ii) omitted (1.7.2018) by virtue of [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/2/a)
 
-[^key-d77cf52378ac7e71de45bc8cc41831b1]: Textual amendment: Word in reg. 3(4)(v) substituted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/2/b)
+[^c-d77cf52378ac7e71de45bc8cc41831b1]: Textual amendment: Word in reg. 3(4)(v) substituted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/2/b)
 
-[^key-d9659976e21536064dcb7ba3b57fbd6d]: Textual amendment: Reg. 3(4)(w) inserted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(2)(c)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/2/c)
+[^c-d9659976e21536064dcb7ba3b57fbd6d]: Textual amendment: Reg. 3(4)(w) inserted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(2)(c)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/2/c)
 
 [^M_F_87ecea5f-89f6-4880-b39b-9f0fbf601c33]: Textual amendment: Words in reg. 3(5)(b) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/5)
 
-[^key-eefc5cd4380f121dae3a1beae6d0c28a]: Textual amendment: Words in reg. 4(2)(b) substituted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/3)
+[^c-eefc5cd4380f121dae3a1beae6d0c28a]: Textual amendment: Words in reg. 4(2)(b) substituted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/3)
 
 [^c20239641]: Marginal citation: [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095), as amended by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209); there are other amending instruments but none is relevant.
 
-[^key-d9dfb74ed140346085278eba0e0dc457]: Textual amendment: Words in reg. 6(2) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [35](https://www.legislation.gov.uk/uksi/2010/1969/regulation/35)
+[^c-d9dfb74ed140346085278eba0e0dc457]: Textual amendment: Words in reg. 6(2) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [35](https://www.legislation.gov.uk/uksi/2010/1969/regulation/35)
 
 [^M_F_0c821972-871b-4bc0-b788-2aa388fa80e2]: Textual amendment: Reg. 6(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/6)
 
-[^key-4c6ed8a7234a9d619611277678a56a4b]: Textual amendment: Words in reg. 7 heading substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [36(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/36/a)
+[^c-4c6ed8a7234a9d619611277678a56a4b]: Textual amendment: Words in reg. 7 heading substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [36(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/36/a)
 
-[^key-a7577029d8fd1745f1a6215404a143aa]: Textual amendment: Words in reg. 7(1)(a) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [36(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/36/b)
+[^c-a7577029d8fd1745f1a6215404a143aa]: Textual amendment: Words in reg. 7(1)(a) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [36(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/36/b)
 
-[^key-15185865d2c1d4aae4856e6e3eed7ec9]: Textual amendment: Words in reg. 7(2)(a) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [36(c)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/36/c)
+[^c-15185865d2c1d4aae4856e6e3eed7ec9]: Textual amendment: Words in reg. 7(2)(a) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [36(c)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/36/c)
 
 [^M_F_27bc1ac4-2cb2-4fb3-b415-c55251ff506c]: Textual amendment: Reg. 7(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(7)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/7)
 
-[^key-6cac8069dd73a53c83abcefa7af52839]: Textual amendment: Reg. 8(6) inserted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(4)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/4)
+[^c-6cac8069dd73a53c83abcefa7af52839]: Textual amendment: Reg. 8(6) inserted (1.7.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a), [57(4)](https://www.legislation.gov.uk/uksi/2018/135/regulation/57/4)
 
 [^c20239651]: Marginal citation: [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095), as amended by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209); there are other amending instruments but none is relevant.
 
-[^key-89d4d7995c7d0303551357d352957447]: Textual amendment: Reg. 10(5A) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [37(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/37/a)
+[^c-89d4d7995c7d0303551357d352957447]: Textual amendment: Reg. 10(5A) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [37(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/37/a)
 
-[^key-4b021e8cd9db907af536d1ceeb129e3f]: Textual amendment: Word in reg. 10(5A) substituted (31.1.2011) by [The Consumer Credit (Amendment) Regulations 2011 (S.I. 2011/11)](https://www.legislation.gov.uk/uksi/2011/11), [regs. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/11/regulation/8/2)
+[^c-4b021e8cd9db907af536d1ceeb129e3f]: Textual amendment: Word in reg. 10(5A) substituted (31.1.2011) by [The Consumer Credit (Amendment) Regulations 2011 (S.I. 2011/11)](https://www.legislation.gov.uk/uksi/2011/11), [regs. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/11/regulation/8/2)
 
-[^key-f35943646f5dd7eb18fcd3a90c09d336]: Textual amendment: Word in reg. 10(9) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [37(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/37/b)
+[^c-f35943646f5dd7eb18fcd3a90c09d336]: Textual amendment: Word in reg. 10(9) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [37(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/37/b)
 
-[^key-68dfce42807f3ce6bba787d5dd4b9500]: Textual amendment: Words in reg. 11(1)(a) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/2) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68dfce42807f3ce6bba787d5dd4b9500]: Textual amendment: Words in reg. 11(1)(a) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/2) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52daadf141a95473608cbdce8fa85565]: Textual amendment: Reg. 12(2) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [38(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/38/a)
+[^c-52daadf141a95473608cbdce8fa85565]: Textual amendment: Reg. 12(2) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [38(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/38/a)
 
-[^key-61931ec9e25b7122320242850b4c1c0b]: Textual amendment: Words in reg. 12(3) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [38(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/38/b)
+[^c-61931ec9e25b7122320242850b4c1c0b]: Textual amendment: Words in reg. 12(3) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [38(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/38/b)
 
-[^key-fe325e8c83fb64b35ea543e841e10a1f]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/3/a) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe325e8c83fb64b35ea543e841e10a1f]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/3/a) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_97a64544-5a8d-4585-9070-c79665fdefa3]: Textual amendment: Words in Instrument substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 26(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/2)
 
 [^M_F_95543a60-0b5c-48d3-dbf3-ed0061dc5420]: Textual amendment: Words in Sch. 1 para. 2 substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [39](https://www.legislation.gov.uk/uksi/2010/1969/regulation/39)
 
-[^key-16dd60ff9a69068ed425bf25fb1a10fc]: Textual amendment: Words in Sch. 1 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(8)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/8/a)
+[^c-16dd60ff9a69068ed425bf25fb1a10fc]: Textual amendment: Words in Sch. 1 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [26(8)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/26/8/a)
 
 [^c20239671]: Marginal citation: i.e. if there is a cancellation right in respect of an agreement involving credit in excess of £60,260.
 
@@ -669,9 +669,9 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^c20239701]: Marginal citation: this requirement does not apply in the case of agreements secured on land, agreements for credit agreements exceeding £60,260, pawn agreements and business purpose agreements.
 
-[^key-edf180e4eb7dd39e930a954408c132fb]: Textual amendment: Words in Sch. 1 substituted (31.12.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/3/b) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edf180e4eb7dd39e930a954408c132fb]: Textual amendment: Words in Sch. 1 substituted (31.12.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/3/b) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6dda41e6b7e488b29ac4b67edf5fcc73]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1013/schedule/1) inserted (17.5.2016) by [The Consumer Credit (Disclosure of Information) (Amendment) Regulations 2016 (S.I. 2016/530)](https://www.legislation.gov.uk/uksi/2016/530), [regs. 1](https://www.legislation.gov.uk/uksi/2016/530/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/530/regulation/2/a)
+[^c-6dda41e6b7e488b29ac4b67edf5fcc73]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1013/schedule/1) inserted (17.5.2016) by [The Consumer Credit (Disclosure of Information) (Amendment) Regulations 2016 (S.I. 2016/530)](https://www.legislation.gov.uk/uksi/2016/530), [regs. 1](https://www.legislation.gov.uk/uksi/2016/530/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/530/regulation/2/a)
 
 [^M_F_ddabea59-337b-4b4e-b3fd-5c4a4d2d9d40]: Textual amendment: Words in Sch. 1 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), art. 1(2)(6), 26(8)(b)
 
@@ -683,12 +683,12 @@ A transposition note and an impact assessment of the effect this instrument will
 
 [^M_F_3ce40f39-3616-47f0-b924-33946ea7c2cf]: Textual amendment: Words in Sch. 2 para. 4 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), arts. 1(2)(6), 26(9)(b)
 
-[^key-da6a07d8506cbf262d2df44418d2ffc9]: Textual amendment: Sch. 3 heading substituted (31.12.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/4/a) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da6a07d8506cbf262d2df44418d2ffc9]: Textual amendment: Sch. 3 heading substituted (31.12.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/4/a) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_909186fd-e2b0-4982-d30e-37a42c4f9c98]: Textual amendment: Words in Sch. 3 para. 2 substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [40](https://www.legislation.gov.uk/uksi/2010/1969/regulation/40)
 
-[^key-fdac425c2b5c1226969f2fcf763489c3]: Textual amendment: Words in Sch. 3 substituted (31.12.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/4/b) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdac425c2b5c1226969f2fcf763489c3]: Textual amendment: Words in Sch. 3 substituted (31.12.2020) by [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/3/4/b) (with transitional provisions in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1038/regulation/6) as inserted by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-433fbfb5d0f60798cc3d6e0039924ea8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1013/schedule/3) inserted (17.5.2016) by [The Consumer Credit (Disclosure of Information) (Amendment) Regulations 2016 (S.I. 2016/530)](https://www.legislation.gov.uk/uksi/2016/530), [regs. 1](https://www.legislation.gov.uk/uksi/2016/530/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/530/regulation/2/b)
+[^c-433fbfb5d0f60798cc3d6e0039924ea8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1013/schedule/3) inserted (17.5.2016) by [The Consumer Credit (Disclosure of Information) (Amendment) Regulations 2016 (S.I. 2016/530)](https://www.legislation.gov.uk/uksi/2016/530), [regs. 1](https://www.legislation.gov.uk/uksi/2016/530/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/530/regulation/2/b)
 
 [^M_F_626def44-6282-4bec-8b25-07414fdaf016]: Textual amendment: Words in Sch. 3 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), art. 1(2)(6), 26(10)

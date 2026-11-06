@@ -22,7 +22,7 @@ summary: ''
 
 Article 8
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-b14497e6d4e990dca2ee65fec3a9e5b1]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-b14497e6d4e990dca2ee65fec3a9e5b1]
 
 Table 5
 
@@ -38,7 +38,7 @@ Table 5
 | City and County of Swansea | Private access road (unnamed) from B4489 to Swansea North substation and Felindre gas compressor station | Modification and widening of existing access (comprising part of numbered work 2) including widening of existing road surface and drainage works **between the points marked W and T** on the rights of way, streets and access plan. |
 | City and County of Swansea | B4489/Private access road (unnamed) from B4489 to Swansea North substation and Felindre gas compressor station | Widening of existing junction visibility splay at B4489 (comprising part of work numbered 2) **between the points marked X and Y** on the rights of way, streets and access plan. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-b2038bec389789e981c119618e006970]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-b2038bec389789e981c119618e006970]
 
 Table 6
 
@@ -55,6 +55,6 @@ Table 6
 
 ## Annotations
 
-[^key-b14497e6d4e990dca2ee65fec3a9e5b1]: Commencement: Sch. 3 Pt. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-b14497e6d4e990dca2ee65fec3a9e5b1]: Commencement: Sch. 3 Pt. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-b2038bec389789e981c119618e006970]: Commencement: Sch. 3 Pt. 2 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-b2038bec389789e981c119618e006970]: Commencement: Sch. 3 Pt. 2 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Time and manner of granting community charge benefit in respect of personal community charges in Scotland[^key-1e9b48c0801137ff080d5ba60fd28f1b][^key-f368955d95f83d4131f52715863447b9]
+## 76. Time and manner of granting community charge benefit in respect of personal community charges in Scotland[^c-1e9b48c0801137ff080d5ba60fd28f1b][^c-f368955d95f83d4131f52715863447b9]
 
 *Extent: E+W+S*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (5) The appropriate authority, in any case to which this regulation applies, shall notify the person to whom community charge benefit is due of the amount of that benefit and the amount of any reduction made in his liability for a personal community charge or in the liability of any partner of his.
 
-(6)[^key-9503d25411cb5a4c0993e319e7848674] Where a personal community charge is reduced solely in consequence of the Community Charges (General Reduction) Act 1991 a notice to the claimant in respect of that reduction need not be given.
+(6)[^c-9503d25411cb5a4c0993e319e7848674] Where a personal community charge is reduced solely in consequence of the Community Charges (General Reduction) Act 1991 a notice to the claimant in respect of that reduction need not be given.
 
 ## Annotations
 
-[^key-1e9b48c0801137ff080d5ba60fd28f1b]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-1e9b48c0801137ff080d5ba60fd28f1b]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-f368955d95f83d4131f52715863447b9]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76) substituted (1.4.1991) by [The Community Charge Benefits (General) Amendment Regulations 1991 (S.I. 1991/234)](https://www.legislation.gov.uk/uksi/1991/234), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/234/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/1991/234/regulation/7)
+[^c-f368955d95f83d4131f52715863447b9]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76) substituted (1.4.1991) by [The Community Charge Benefits (General) Amendment Regulations 1991 (S.I. 1991/234)](https://www.legislation.gov.uk/uksi/1991/234), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/234/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/1991/234/regulation/7)
 
-[^key-9503d25411cb5a4c0993e319e7848674]: Textual amendment: [Reg. 76(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76/6) added (1.4.1991) by [The Community Charge Benefits (General) Amendment (No. 2) Regulations 1991 (S.I. 1991/849)](https://www.legislation.gov.uk/uksi/1991/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/849/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1991/849/regulation/6)
+[^c-9503d25411cb5a4c0993e319e7848674]: Textual amendment: [Reg. 76(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76/6) added (1.4.1991) by [The Community Charge Benefits (General) Amendment (No. 2) Regulations 1991 (S.I. 1991/849)](https://www.legislation.gov.uk/uksi/1991/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/849/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1991/849/regulation/6)

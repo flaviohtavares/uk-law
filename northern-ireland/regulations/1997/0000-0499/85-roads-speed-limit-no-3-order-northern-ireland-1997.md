@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 50(4)(*c*) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-7f86c7aaa4eaaf1ea3345366147f41b8]
+## 1. Citation and commencement[^c-7f86c7aaa4eaaf1ea3345366147f41b8]
 
 This Order may be cited as the Roads (Speed Limit) (No. 3) Order (Northern Ireland) 1997 and shall come into operation on 7th April 1997.
 
-## 2. Speed restrictions on certain roads[^key-a4435f48bd3b53fd2db58fdde7c1aefc]
+## 2. Speed restrictions on certain roads[^c-a4435f48bd3b53fd2db58fdde7c1aefc]
 
 The Department hereby directs that the road and each of the lengths of road specified in the Schedule shall be a restricted road for the purposes of Article 50 of the Road Traffic (Northern Ireland) Order 1981.
 
-## 3. Revocation[^key-8155aae919dc017531533f871867af44]
+## 3. Revocation[^c-8155aae919dc017531533f871867af44]
 
 Item 9 of Schedule 2 to the Roads (Speed Limit) Order (Northern Ireland) 1979[^f00002] is hereby revoked.
 
@@ -66,31 +66,31 @@ Assistant Secretary
 
 Article 2
 
-### 1. Restricted Roads[^key-be31face2bda8ed514ea2b9694bb5bd8]
+### 1. Restricted Roads[^c-be31face2bda8ed514ea2b9694bb5bd8]
 
 Cromkill Road, Route C47, Ballymena, from its junction with Toome Road, Route B18, to a point approximately 380 metres south-east of that junction.
 
-**2.**[^key-3c501b8ed6d4f0bccc0b9716c2f0d0ef] Toome Road, Route B18, Ballymena, from a point approximately 130 metres south-west of its junction with Camphill Park, to its junction with Old Tullygarley Road, Unclassified No. 2076.
+**2.**[^c-3c501b8ed6d4f0bccc0b9716c2f0d0ef] Toome Road, Route B18, Ballymena, from a point approximately 130 metres south-west of its junction with Camphill Park, to its junction with Old Tullygarley Road, Unclassified No. 2076.
 
-**3.**[^key-12805a9c225081f1c881881e77a51f4e] Tullygarley Road, Route C47, Ballymena, from its junction with Sourhill Road, Route C47, to its junction with Toome Road, Route B18.
+**3.**[^c-12805a9c225081f1c881881e77a51f4e] Tullygarley Road, Route C47, Ballymena, from its junction with Sourhill Road, Route C47, to its junction with Toome Road, Route B18.
 
-**4.**[^key-801ac618794cd0f3ac8079a06c96cf0b] Blackrock Road, Route C546, Bovedy, from a point approximately 60 metres south-west of its junction with Edenbane Road, Route B64, to its junction with Dullaghy Road, Route C546.
+**4.**[^c-801ac618794cd0f3ac8079a06c96cf0b] Blackrock Road, Route C546, Bovedy, from a point approximately 60 metres south-west of its junction with Edenbane Road, Route B64, to its junction with Dullaghy Road, Route C546.
 
-**5.**[^key-68f78739f6560ffe79d0f5f12844c186] Blackrock Road, Unclassified No. 377, Bovedy, from its junction with Dullaghy Road, Route C546, to a point approximately 170 metres south-east of that junction.
+**5.**[^c-68f78739f6560ffe79d0f5f12844c186] Blackrock Road, Unclassified No. 377, Bovedy, from its junction with Dullaghy Road, Route C546, to a point approximately 170 metres south-east of that junction.
 
-**6.**[^key-8fd47bc968fff3b8eefe169acad3dfdf] Bovedy Road, Route C546, Bovedy, from its junction with Dullaghy Road, Route C546, to a point approximately 100 metres south of that junction.
+**6.**[^c-8fd47bc968fff3b8eefe169acad3dfdf] Bovedy Road, Route C546, Bovedy, from its junction with Dullaghy Road, Route C546, to a point approximately 100 metres south of that junction.
 
-**7.**[^key-b99381ef5f2ccaca708d40adaccf57f6] Dullaghy Road, Route C546, Bovedy, from its junction with Blackrock Road, Route C546, to its junction with Bovedy Road, Route C546.
+**7.**[^c-b99381ef5f2ccaca708d40adaccf57f6] Dullaghy Road, Route C546, Bovedy, from its junction with Blackrock Road, Route C546, to its junction with Bovedy Road, Route C546.
 
-**8.**[^key-aeadaded060ac7a0164e0486676e6f8d] Dullaghy Road, Unclassified No. 378, Bovedy, from its junction with Bovedy Road, Route C546, to a point approximately 50 metres west of that junction.
+**8.**[^c-aeadaded060ac7a0164e0486676e6f8d] Dullaghy Road, Unclassified No. 378, Bovedy, from its junction with Bovedy Road, Route C546, to a point approximately 50 metres west of that junction.
 
-**9.**[^key-00a9049dae09c6e0847f4bcfd9d52e14] Ballymena Road, Route B62, Cullybackey, from a point approximately 230 metres south-east of its junction with Old Cullybackey Road, to a point approximately 730 metres south-east of that junction.
+**9.**[^c-00a9049dae09c6e0847f4bcfd9d52e14] Ballymena Road, Route B62, Cullybackey, from a point approximately 230 metres south-east of its junction with Old Cullybackey Road, to a point approximately 730 metres south-east of that junction.
 
-**10.**[^key-c81b317c12ee9f28fd8810e7b25d1d35] Moneynick Road, Route A6, Toome, from a point approximately 110 metres south-east of its junction with Shore Road, Unclassified No. 1024, to a point approximately 100 metres east of its junction with Staffordstown Road, Route C52.
+**10.**[^c-c81b317c12ee9f28fd8810e7b25d1d35] Moneynick Road, Route A6, Toome, from a point approximately 110 metres south-east of its junction with Shore Road, Unclassified No. 1024, to a point approximately 100 metres east of its junction with Staffordstown Road, Route C52.
 
-**11.**[^key-32d735669f2b1678ec812ab920672edc] Larne Road, Route A2, Whitehead, from a point approximately 100 metres north-west of its junction with Slaughterford Road, to a point approximately 870 metres south-east of that junction.
+**11.**[^c-32d735669f2b1678ec812ab920672edc] Larne Road, Route A2, Whitehead, from a point approximately 100 metres north-west of its junction with Slaughterford Road, to a point approximately 870 metres south-east of that junction.
 
-**12.**[^key-e35aba85e4abdaf407c5bdffd79b4b9b] Rawbrae Road, Unclassified No. 14, Whitehead.
+**12.**[^c-e35aba85e4abdaf407c5bdffd79b4b9b] Rawbrae Road, Unclassified No. 14, Whitehead.
 
 (This note is not part of the Order.)
 
@@ -102,34 +102,34 @@ The length of road to which the item revoked in Article 3 relates is now compris
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-7f86c7aaa4eaaf1ea3345366147f41b8]: Commencement: Art. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-7f86c7aaa4eaaf1ea3345366147f41b8]: Commencement: Art. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-a4435f48bd3b53fd2db58fdde7c1aefc]: Commencement: Art. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-a4435f48bd3b53fd2db58fdde7c1aefc]: Commencement: Art. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-8155aae919dc017531533f871867af44]: Commencement: Art. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-8155aae919dc017531533f871867af44]: Commencement: Art. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
 [^f00002]: Footnote: [S.R. 1979 No. 61](https://www.legislation.gov.uk/nisr/1979/61)
 
-[^key-be31face2bda8ed514ea2b9694bb5bd8]: Commencement: Sch. para. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-be31face2bda8ed514ea2b9694bb5bd8]: Commencement: Sch. para. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-3c501b8ed6d4f0bccc0b9716c2f0d0ef]: Commencement: Sch. para. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-3c501b8ed6d4f0bccc0b9716c2f0d0ef]: Commencement: Sch. para. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-12805a9c225081f1c881881e77a51f4e]: Commencement: Sch. para. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-12805a9c225081f1c881881e77a51f4e]: Commencement: Sch. para. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-801ac618794cd0f3ac8079a06c96cf0b]: Commencement: Sch. para. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-801ac618794cd0f3ac8079a06c96cf0b]: Commencement: Sch. para. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-68f78739f6560ffe79d0f5f12844c186]: Commencement: Sch. para. 5 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-68f78739f6560ffe79d0f5f12844c186]: Commencement: Sch. para. 5 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-8fd47bc968fff3b8eefe169acad3dfdf]: Commencement: Sch. para. 6 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-8fd47bc968fff3b8eefe169acad3dfdf]: Commencement: Sch. para. 6 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-b99381ef5f2ccaca708d40adaccf57f6]: Commencement: Sch. para. 7 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-b99381ef5f2ccaca708d40adaccf57f6]: Commencement: Sch. para. 7 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-aeadaded060ac7a0164e0486676e6f8d]: Commencement: Sch. para. 8 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-aeadaded060ac7a0164e0486676e6f8d]: Commencement: Sch. para. 8 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-00a9049dae09c6e0847f4bcfd9d52e14]: Commencement: Sch. para. 9 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-00a9049dae09c6e0847f4bcfd9d52e14]: Commencement: Sch. para. 9 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-c81b317c12ee9f28fd8810e7b25d1d35]: Commencement: Sch. para. 10 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-c81b317c12ee9f28fd8810e7b25d1d35]: Commencement: Sch. para. 10 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-32d735669f2b1678ec812ab920672edc]: Commencement: Sch. para. 11 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-32d735669f2b1678ec812ab920672edc]: Commencement: Sch. para. 11 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
 
-[^key-e35aba85e4abdaf407c5bdffd79b4b9b]: Commencement: Sch. para. 12 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)
+[^c-e35aba85e4abdaf407c5bdffd79b4b9b]: Commencement: Sch. para. 12 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/85/article/1)

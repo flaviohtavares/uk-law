@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Admission and rejection of claims[^key-fd207701e97e04619af5cb25d7997e77]
+## 25. Admission and rejection of claims[^c-fd207701e97e04619af5cb25d7997e77]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd207701e97e04619af5cb25d7997e77]: Commencement: Rule 25 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-fd207701e97e04619af5cb25d7997e77]: Commencement: Rule 25 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

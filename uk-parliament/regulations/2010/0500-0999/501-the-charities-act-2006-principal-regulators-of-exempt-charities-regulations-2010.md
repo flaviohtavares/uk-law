@@ -44,7 +44,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 Accordingly, the Minister for the Cabinet Office makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ce1bf4c7e890f1a350dd9888e3ff09d5]
+## 1. Citation, commencement and interpretation[^c-ce1bf4c7e890f1a350dd9888e3ff09d5]
 
 *Extent: E+W*
 
@@ -52,16 +52,16 @@ Accordingly, the Minister for the Cabinet Office makes the following Regulations
 
 (2) In these Regulations—
 
-- “Culture Secretary” means the Secretary of State for Culture, Media and Sport[^key-123f1b43376eb476fdc04b7a95412486];
+- “Culture Secretary” means the Secretary of State for Culture, Media and Sport[^c-123f1b43376eb476fdc04b7a95412486];
 - “Environment Secretary” means the Secretary of State for Environment, Food and Rural Affairs;
-- [^key-17a12ee61534bf5024740a46c5820658]...
-- “OfS” means the Office for Students which was established as a body corporate by section 1 of the Higher Education and Research Act 2017.[^key-9bdf0011d71969873b14c440ef82caf8]
+- [^c-17a12ee61534bf5024740a46c5820658]...
+- “OfS” means the Office for Students which was established as a body corporate by section 1 of the Higher Education and Research Act 2017.[^c-9bdf0011d71969873b14c440ef82caf8]
 
-## 2. Appointment of principal regulators of exempt charities: higher education institutions, Kew institutions and museum and gallery institutions[^key-ee4fb00c81502ca5208a907bfa597cfb]
+## 2. Appointment of principal regulators of exempt charities: higher education institutions, Kew institutions and museum and gallery institutions[^c-ee4fb00c81502ca5208a907bfa597cfb]
 
 *Extent: E+W*
 
-(1) OfS[^key-cee350c0ac94d7fbcd078e8355c49b30] is prescribed as the principal regulator of any exempt charity—
+(1) OfS[^c-cee350c0ac94d7fbcd078e8355c49b30] is prescribed as the principal regulator of any exempt charity—
 
 - (a) which is included in paragraph (a), (b), (c), (h) or (i) of Schedule 2 to the 1993 Act; or
 - (b) which—
@@ -83,7 +83,7 @@ Accordingly, the Minister for the Cabinet Office makes the following Regulations
   - (ii) falls within paragraph (w) of that Schedule; or
 - (c) which is included in paragraph (za) of that Schedule.
 
-## 3. Transitional provision[^key-c65ae2f0b88bced2d02eed81ae562bb4]
+## 3. Transitional provision[^c-c65ae2f0b88bced2d02eed81ae562bb4]
 
 *Extent: E+W*
 
@@ -96,11 +96,11 @@ Accordingly, the Minister for the Cabinet Office makes the following Regulations
   - (i) an Investment Fund or Deposit Fund within the meaning of the Church Funds Investment Measure 1958[^f00005]; or
   - (ii) an investment fund or deposit fund within the meaning of the Methodist Church Funds Act 1960[^f00006].
 
-## 4. Definition of “responsible person”[^key-bcc3b1bdc16583d93afe8ef44330336c]
+## 4. Definition of “responsible person”[^c-bcc3b1bdc16583d93afe8ef44330336c]
 
 (1) The definition of “responsible person” to be substituted, in accordance with section 10B(4) of the 1993 Act, for the definition in section 10A(7) of that Act is specified—
 
-- (a) in relation to the OfS[^key-d532fc7e57fabeaab7337e69aa1945ff], in paragraph (2);
+- (a) in relation to the OfS[^c-d532fc7e57fabeaab7337e69aa1945ff], in paragraph (2);
 - (b) in relation to the Environment Secretary, in paragraph (3);
 - (c) in relation to the Culture Secretary, in paragraph (4).
 
@@ -123,7 +123,7 @@ Accordingly, the Minister for the Cabinet Office makes the following Regulations
 - (b) acting on behalf of the Culture Secretary; or
 - (c) a member of a committee established by the Culture Secretary.
 
-## 5. Amendments[^key-c3f016f70d03a732c4c74f38bb41c876]
+## 5. Amendments[^c-c3f016f70d03a732c4c74f38bb41c876]
 
 *Extent: E+W*
 
@@ -145,7 +145,7 @@ Regulation 5
 
 ### PART 1 — AMENDMENTS TO DISCLOSURE PROVISIONS
 
-#### 1. Further and Higher Education Act 1992[^key-e457de3ebcfd5e21d05be57aefc385ce]
+#### 1. Further and Higher Education Act 1992[^c-e457de3ebcfd5e21d05be57aefc385ce]
 
 (1) The Further and Higher Education Act 1992[^f00007] is amended as follows.
 
@@ -157,7 +157,7 @@ Regulation 5
 
 .
 
-#### 2. Education Act 1996[^key-56a25cecb3847e7218f3afc2b39bccab]
+#### 2. Education Act 1996[^c-56a25cecb3847e7218f3afc2b39bccab]
 
 (1) The Education Act 1996[^f00008] is amended as follows.
 
@@ -174,7 +174,7 @@ Regulation 5
 
 .
 
-#### 3. Higher Education Act 2004[^key-6377ea782b6a57bae31768d49bd995b8]
+#### 3. Higher Education Act 2004[^c-6377ea782b6a57bae31768d49bd995b8]
 
 (1) Section 40 of the Higher Education Act 2004[^f00009] (provision of information) is amended as follows.
 
@@ -194,7 +194,7 @@ Regulation 5
 
 ### PART 2 — CONSEQUENTIAL AMENDMENTS
 
-#### 4. Further and Higher Education Act 1992[^key-25cbc8e7d07de76f34a1bd92bd9d1486]
+#### 4. Further and Higher Education Act 1992[^c-25cbc8e7d07de76f34a1bd92bd9d1486]
 
 After section 79 of the Further and Higher Education Act 1992 insert—
 
@@ -204,7 +204,7 @@ After section 79 of the Further and Higher Education Act 1992 insert—
 
 .
 
-#### 5. Education Act 2005[^key-4124cfbbcd26a7812c2979d96fa9263f]
+#### 5. Education Act 2005[^c-4124cfbbcd26a7812c2979d96fa9263f]
 
 In section 92 of the Education Act 2005[^f00010] (joint exercise of functions) at the end insert—
 
@@ -212,7 +212,7 @@ In section 92 of the Education Act 2005[^f00010] (joint exercise of functions) a
 
 .
 
-#### 6. Natural Environment and Rural Communities Act 2006[^key-af68f30cee5f9cd1878fe0cb358bffb6]
+#### 6. Natural Environment and Rural Communities Act 2006[^c-af68f30cee5f9cd1878fe0cb358bffb6]
 
 In section 81(2) of the Natural Environment and Rural Communities Act 2006 (reserved functions)[^f00011], after paragraph (g) insert—
 
@@ -244,19 +244,19 @@ or from Khaled Moyeed at the Office of the Third Sector, Admiralty Arch, Room 2.
 
 [^f00003]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50).
 
-[^key-ce1bf4c7e890f1a350dd9888e3ff09d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-ce1bf4c7e890f1a350dd9888e3ff09d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
-[^key-123f1b43376eb476fdc04b7a95412486]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/53) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-123f1b43376eb476fdc04b7a95412486]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/53) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-17a12ee61534bf5024740a46c5820658]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) omitted (1.4.2018) by virtue of [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(a)(i)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/a/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+[^c-17a12ee61534bf5024740a46c5820658]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) omitted (1.4.2018) by virtue of [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(a)(i)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/a/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
 
-[^key-9bdf0011d71969873b14c440ef82caf8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) inserted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+[^c-9bdf0011d71969873b14c440ef82caf8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) inserted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
 
-[^key-ee4fb00c81502ca5208a907bfa597cfb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/501/regulation/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-ee4fb00c81502ca5208a907bfa597cfb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/501/regulation/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
-[^key-cee350c0ac94d7fbcd078e8355c49b30]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/2/1) substituted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+[^c-cee350c0ac94d7fbcd078e8355c49b30]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/2/1) substituted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
 
-[^key-c65ae2f0b88bced2d02eed81ae562bb4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/501/regulation/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-c65ae2f0b88bced2d02eed81ae562bb4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/501/regulation/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
 [^f00004]: Footnote: Note 1 to Schedule 2 to the Charities Act 1993 was inserted by section 11(9) of the Charities Act 2006.
 
@@ -264,30 +264,30 @@ or from Khaled Moyeed at the Office of the Third Sector, Admiralty Arch, Room 2.
 
 [^f00006]: Footnote: [1960 c.xxiii](https://www.legislation.gov.uk/ukla/1960/23).
 
-[^key-bcc3b1bdc16583d93afe8ef44330336c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/501/regulation/4) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-bcc3b1bdc16583d93afe8ef44330336c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/501/regulation/4) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
-[^key-d532fc7e57fabeaab7337e69aa1945ff]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/501/regulation/4) substituted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+[^c-d532fc7e57fabeaab7337e69aa1945ff]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/501/regulation/4) substituted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
 
-[^key-c3f016f70d03a732c4c74f38bb41c876]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/501/regulation/5) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-c3f016f70d03a732c4c74f38bb41c876]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/501/regulation/5) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
-[^key-e457de3ebcfd5e21d05be57aefc385ce]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-e457de3ebcfd5e21d05be57aefc385ce]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
 [^f00007]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). There are amendments to the 1992 Act not relevant to these Regulations.
 
-[^key-56a25cecb3847e7218f3afc2b39bccab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-56a25cecb3847e7218f3afc2b39bccab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
 [^f00008]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 537 was amended by the Education Act [1994 (c.44)](https://www.legislation.gov.uk/ukpga/1994/44), Schedule 7, paragraph 37; by the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 152, and Schedule 31; by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 60, and by the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 7, paragraph 6, and Schedule 22. Section 537A was inserted by the Education Act 1997, section 20, and substituted by the School Standards and Framework Act 1998, Schedule 30, paragraph 15. Section 537AA was inserted by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), Schedule 1, paragraph 8 (paragraph 8 of Schedule 1 to the 2008 Act is not yet in force). Section 537B was inserted by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), section 164.
 
-[^key-6377ea782b6a57bae31768d49bd995b8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-6377ea782b6a57bae31768d49bd995b8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
 [^f00009]: Footnote: [2004 c.8](https://www.legislation.gov.uk/ukpga/2004/8). There are amendments to section 40 which are not relevant to these Regulations.
 
-[^key-25cbc8e7d07de76f34a1bd92bd9d1486]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/4) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-25cbc8e7d07de76f34a1bd92bd9d1486]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/4) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
-[^key-4124cfbbcd26a7812c2979d96fa9263f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/5) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-4124cfbbcd26a7812c2979d96fa9263f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/5) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
 [^f00010]: Footnote: [2005 c.18](https://www.legislation.gov.uk/ukpga/2005/18). There are amendments to section 92 not relevant to these Regulations.
 
-[^key-af68f30cee5f9cd1878fe0cb358bffb6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/6) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+[^c-af68f30cee5f9cd1878fe0cb358bffb6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/6) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
 
 [^f00011]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16). There are amendments to the Act not relevant to these Regulations.

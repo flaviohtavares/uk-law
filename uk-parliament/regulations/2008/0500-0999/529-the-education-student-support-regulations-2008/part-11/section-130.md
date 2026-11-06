@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Payment of grants for books, travel and other expenditure and disabled distance learning students’ allowance[^key-0795adfd07e0685b3a983c7d17ec4106]
+## 130. Payment of grants for books, travel and other expenditure and disabled distance learning students’ allowance[^c-0795adfd07e0685b3a983c7d17ec4106]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0795adfd07e0685b3a983c7d17ec4106]: Commencement: Reg. 130 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-0795adfd07e0685b3a983c7d17ec4106]: Commencement: Reg. 130 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

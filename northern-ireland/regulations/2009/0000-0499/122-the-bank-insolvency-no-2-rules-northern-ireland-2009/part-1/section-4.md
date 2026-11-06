@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Overview[^key-aadef7757fbf953e2b6203f1f10705e0]
+## 4. Overview[^c-aadef7757fbf953e2b6203f1f10705e0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The purpose of these Rules is to provide a procedure for the appointment of a ba
 
 ## Annotations
 
-[^key-aadef7757fbf953e2b6203f1f10705e0]: Commencement: Rule 4 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-aadef7757fbf953e2b6203f1f10705e0]: Commencement: Rule 4 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

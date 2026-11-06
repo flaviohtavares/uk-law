@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 254. Goods which on export benefited from measures laid down under the common agricultural policy(Article 203(6) of the Code)[^key-54d15b77b42425cb0cbc853f1da9a3f0]
+## Article 254. Goods which on export benefited from measures laid down under the common agricultural policy(Article 203(6) of the Code)[^c-54d15b77b42425cb0cbc853f1da9a3f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Where the customs authorities at the customs office where the goods are declared
 
 ## Annotations
 
-[^key-54d15b77b42425cb0cbc853f1da9a3f0]: Modification: [Arts. 253-256](https://www.legislation.gov.uk/eur/2015/2447/article/253) modified (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AJ](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AJ) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-54d15b77b42425cb0cbc853f1da9a3f0]: Modification: [Arts. 253-256](https://www.legislation.gov.uk/eur/2015/2447/article/253) modified (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AJ](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AJ) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

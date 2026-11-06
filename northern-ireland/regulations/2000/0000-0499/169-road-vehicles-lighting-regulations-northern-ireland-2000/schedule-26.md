@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 26 — Revocations[^key-ef178f41d4810e1be4ed7a1bde400184]
+## SCHEDULE 26 — Revocations[^c-ef178f41d4810e1be4ed7a1bde400184]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Regulation 31
 
 ## Annotations
 
-[^key-ef178f41d4810e1be4ed7a1bde400184]: Commencement: [Sch. 26](https://www.legislation.gov.uk/nisr/2000/169/schedule/26) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-ef178f41d4810e1be4ed7a1bde400184]: Commencement: [Sch. 26](https://www.legislation.gov.uk/nisr/2000/169/schedule/26) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

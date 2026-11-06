@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. As to the expences of weighing or measuring goods.[^c559533][^c559534][^c559535][^c559536][^c559537][^key-313f6a4784ac07890b5cceeb2ee4838b][^c559532]
+## 41. As to the expences of weighing or measuring goods.[^c559533][^c559534][^c559535][^c559536][^c559537][^c-313f6a4784ac07890b5cceeb2ee4838b][^c559532]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ If the weight or quantity of such goods be greater than that shown by the manife
 
     Ss. 27-41 applied (with modifications) (1.7.1994) by [S.I. 1994/1647](https://www.legislation.gov.uk/uksi/1994/1647), [art. 16(4)](https://www.legislation.gov.uk/uksi/1994/1647/article/16/4)
 
-[^key-313f6a4784ac07890b5cceeb2ee4838b]: Modification: [Ss. 32-41](https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/32) incorporated (with modifications) (S.) (18.3.2016) by [The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016 (S.S.I. 2016/156)](https://www.legislation.gov.uk/ssi/2016/156), [arts. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1), [3](https://www.legislation.gov.uk/ssi/2016/156/article/3) (with [arts. 31](https://www.legislation.gov.uk/ssi/2016/156/article/31), [32](https://www.legislation.gov.uk/ssi/2016/156/article/32))
+[^c-313f6a4784ac07890b5cceeb2ee4838b]: Modification: [Ss. 32-41](https://www.legislation.gov.uk/ukpga/Vict/10-11/27/section/32) incorporated (with modifications) (S.) (18.3.2016) by [The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016 (S.S.I. 2016/156)](https://www.legislation.gov.uk/ssi/2016/156), [arts. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1), [3](https://www.legislation.gov.uk/ssi/2016/156/article/3) (with [arts. 31](https://www.legislation.gov.uk/ssi/2016/156/article/31), [32](https://www.legislation.gov.uk/ssi/2016/156/article/32))
 
 [^c559532]: Modification: Ss. 34-46, 48 extended by [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/1962/46/schedule/9/paragraph/6/2)

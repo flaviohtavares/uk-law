@@ -29,11 +29,11 @@ summary: ''
 
 (3) See sections 815 and 816 in the case of a non-UK resident company which is liable otherwise than as a trustee.
 
-(4)[^key-4b1bf6bfec94971661a789b3de1749d6] In relation to an individual—
+(4)[^c-4b1bf6bfec94971661a789b3de1749d6] In relation to an individual—
 
 - (a) a reference in this Chapter to a non-UK resident's liability to income tax is a reference to the liability of someone who is non-UK resident for the tax year for which the liability arises, and
 - (b) accordingly, enactments under which income arising to a UK resident in the overseas part of a split year is treated as arising to a non-UK resident are of no relevance to this Chapter.
 
 ## Annotations
 
-[^key-4b1bf6bfec94971661a789b3de1749d6]: Textual amendment: S. 810(4) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 152(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/152/5)
+[^c-4b1bf6bfec94971661a789b3de1749d6]: Textual amendment: S. 810(4) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 152(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/152/5)

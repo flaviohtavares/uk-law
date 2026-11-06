@@ -29,7 +29,7 @@ summary: ''
 
 (3) In any case where the lead assessor appointed under regulation 21(1) is independent of the participant, one responsible officer must be nominated, and in any other case, two responsible officers must be nominated.
 
-(3A)[^key-f5b1ff443b80508bc4bbdd34eca95d17] In any case where a lead assessor is not required to be appointed by virtue of regulation 21(3), two responsible officers must be nominated.
+(3A)[^c-f5b1ff443b80508bc4bbdd34eca95d17] In any case where a lead assessor is not required to be appointed by virtue of regulation 21(3), two responsible officers must be nominated.
 
 (4) For the purposes of this regulation a person appointed by a responsible undertaking as lead assessor is independent of the participant if they are not—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c22147181]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-f5b1ff443b80508bc4bbdd34eca95d17]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/30/3A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2023/1182/regulation/22)
+[^c-f5b1ff443b80508bc4bbdd34eca95d17]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/30/3A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2023/1182/regulation/22)

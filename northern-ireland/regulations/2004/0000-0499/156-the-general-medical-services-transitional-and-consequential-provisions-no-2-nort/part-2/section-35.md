@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Determination of question whether a substance is a drug[^key-174e0a7d46cb817d5f14942fcf0f713c]
+## 35. Determination of question whether a substance is a drug[^c-174e0a7d46cb817d5f14942fcf0f713c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ that appeal shall continue to be dealt with as if regulation 40 of the 1997 Regu
 
 ## Annotations
 
-[^key-174e0a7d46cb817d5f14942fcf0f713c]: Commencement: Art. 35 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-174e0a7d46cb817d5f14942fcf0f713c]: Commencement: Art. 35 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

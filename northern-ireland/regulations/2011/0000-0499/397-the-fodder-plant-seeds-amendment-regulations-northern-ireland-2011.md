@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-c590d66e398c9c39254b04945078a851]
+The Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-c590d66e398c9c39254b04945078a851]
 
 Made
 
@@ -42,56 +42,56 @@ Coming into operation
 
 19th December 2011
 
-[^key-c590d66e398c9c39254b04945078a851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c590d66e398c9c39254b04945078a851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part 1 — General[^key-c590d66e398c9c39254b04945078a851]
+## Part 1 — General[^c-c590d66e398c9c39254b04945078a851]
 
-### 1. Citation and Commencement[^key-c590d66e398c9c39254b04945078a851]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Control of Fodder Plant Seeds[^key-c590d66e398c9c39254b04945078a851]
-
-### 2. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 2009[^key-c590d66e398c9c39254b04945078a851]
+### 1. Citation and Commencement[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to Regulation 2[^key-c590d66e398c9c39254b04945078a851]
+## PART 2 — Control of Fodder Plant Seeds[^c-c590d66e398c9c39254b04945078a851]
+
+### 2. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 2009[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment to Regulation 19[^key-c590d66e398c9c39254b04945078a851]
+### 3. Amendment to Regulation 2[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment to regulation 19[^key-c590d66e398c9c39254b04945078a851]
+### 4. Amendment to Regulation 19[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment to regulation 26[^key-c590d66e398c9c39254b04945078a851]
+### 5. Amendment to regulation 19[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c590d66e398c9c39254b04945078a851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Amendment to regulation 28[^key-c590d66e398c9c39254b04945078a851]
+### 6. Amendment to regulation 26[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment to Schedule 4[^key-c590d66e398c9c39254b04945078a851]
+**7.**[^c-c590d66e398c9c39254b04945078a851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Amendment to regulation 28[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment to Schedule 8[^key-c590d66e398c9c39254b04945078a851]
+### 9. Amendment to Schedule 4[^c-c590d66e398c9c39254b04945078a851]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c590d66e398c9c39254b04945078a851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 10. Amendment to Schedule 8[^c-c590d66e398c9c39254b04945078a851]
 
-[^key-c590d66e398c9c39254b04945078a851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c590d66e398c9c39254b04945078a851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c590d66e398c9c39254b04945078a851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c590d66e398c9c39254b04945078a851]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/397) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(h)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/h)
+[^c-c590d66e398c9c39254b04945078a851]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/397) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(h)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/h)

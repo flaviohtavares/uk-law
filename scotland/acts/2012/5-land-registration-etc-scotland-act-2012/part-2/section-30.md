@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Completion of registration of plot[^key-c98f9d30c3980c7d6d9e54a7419d7d32]
+## 30. Completion of registration of plot[^c-c98f9d30c3980c7d6d9e54a7419d7d32]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ the Keeper may, in place of or as part of that entry, enter a statement that the
 
 ## Annotations
 
-[^key-c98f9d30c3980c7d6d9e54a7419d7d32]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2012/5/section/30) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c98f9d30c3980c7d6d9e54a7419d7d32]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2012/5/section/30) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Specification of requirements in relation to approved Welsh apprenticeship[^key-82a2ac2b54fc5ad8efb923fc119ccdd6][^key-710237b552ccf67943c6c29b741f2e7a]
+## 115. Specification of requirements in relation to approved Welsh apprenticeship[^c-82a2ac2b54fc5ad8efb923fc119ccdd6][^c-710237b552ccf67943c6c29b741f2e7a]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82a2ac2b54fc5ad8efb923fc119ccdd6]: Commencement: S. 115 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-82a2ac2b54fc5ad8efb923fc119ccdd6]: Commencement: S. 115 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-710237b552ccf67943c6c29b741f2e7a]: Commencement: [S. 115](https://www.legislation.gov.uk/asc/2022/1/section/115) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2026/62/article/2/jj)
+[^c-710237b552ccf67943c6c29b741f2e7a]: Commencement: [S. 115](https://www.legislation.gov.uk/asc/2022/1/section/115) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2026/62/article/2/jj)

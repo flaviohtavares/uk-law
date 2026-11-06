@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Use of information by collecting authority[^key-d7c020f60ea27359aa2d3726e69eedb5]
+## 79. Use of information by collecting authority[^c-d7c020f60ea27359aa2d3726e69eedb5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7c020f60ea27359aa2d3726e69eedb5]: Commencement: Reg. 79 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-d7c020f60ea27359aa2d3726e69eedb5]: Commencement: Reg. 79 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

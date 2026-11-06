@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-8261c900a49002b4820713cf722504c8]
+## 2. Interpretation[^c-8261c900a49002b4820713cf722504c8]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
   - (b) by other means but while in electronic form;
 - “**environmental statement**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the environmental statement for the purposes of this Order;
 - “**footpath**” and “**footway**” have the same meaning as in the 1980 Act;
-- **the Gate Burton Energy Park Order[^key-4dabfe5145e98e072d8ad46ecc37a484]**” means the Gate Burton Energy Park Order 2024;
+- **the Gate Burton Energy Park Order[^c-4dabfe5145e98e072d8ad46ecc37a484]**” means the Gate Burton Energy Park Order 2024;
 - “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act[^f00024];
 - “**holding company**” has the same meaning as in section 1159 of the Companies Act 2006[^f00025];
 - “**important hedgerows plan**” means the plan of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the important hedgerows plan for the purposes of this Order;
@@ -95,7 +95,7 @@ summary: ''
 - “**undertaker**” means Cottam Solar Project Limited (company number 12711231) and any other person who for the time being has the benefit of this Order in accordance with article 34 (benefit of the Order) or article 35 (consent to transfer the benefit of the Order);
 - “**Upper Tribunal**” means the Lands Chamber of the Upper Tribunal;
 - “**watercourse**” includes every river, stream, creek, ditch, drain, canal, cut, culvert, dyke, sluice, sewer and passage through which water flows except a public sewer or drain;
-- “**West Burton Solar Project Order**” means any development consent order for the project known as the West Burton Solar Project and given reference number EN010132 by the Planning Inspectorate, if development consent is[^key-fbd1d32419ee23ed020ba53dba8c0507] granted by the Secretary of State;
+- “**West Burton Solar Project Order**” means any development consent order for the project known as the West Burton Solar Project and given reference number EN010132 by the Planning Inspectorate, if development consent is[^c-fbd1d32419ee23ed020ba53dba8c0507] granted by the Secretary of State;
 - “**working day**” means any day other than a Saturday, Sunday or English bank or public holiday
 - “**works plan**” means the plan of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the works plan for the purposes of this Order; and
 - “**Written Scheme of Investigation**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the Written Scheme of Investigation for the purposes of this Order.
@@ -114,7 +114,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8261c900a49002b4820713cf722504c8]: Commencement: Art. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-8261c900a49002b4820713cf722504c8]: Commencement: Art. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -138,7 +138,7 @@ summary: ''
 
 [^f00022]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-4dabfe5145e98e072d8ad46ecc37a484]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/943/article/2) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-4dabfe5145e98e072d8ad46ecc37a484]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/943/article/2) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
 
 [^f00024]: Footnote: “highway” is defined in section 328(1). For “highway authority” see section 1.
 
@@ -154,4 +154,4 @@ summary: ''
 
 [^f00030]: Footnote: Section 121A was inserted by paragraph 70 of Schedule 8 to the 1991 Act, and subsequently amended by section 271 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29); section 1(6) of, and paragraphs 70 and 95 of Schedule 1 to the Infrastructure Act 2015; and [S.I. 1999/1920](https://www.legislation.gov.uk/uksi/1999/1920) and [S.I. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400).
 
-[^key-fbd1d32419ee23ed020ba53dba8c0507]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2024/943/article/2) inserted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-fbd1d32419ee23ed020ba53dba8c0507]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2024/943/article/2) inserted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)

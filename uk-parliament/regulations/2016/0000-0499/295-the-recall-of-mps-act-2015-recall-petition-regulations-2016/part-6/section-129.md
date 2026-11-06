@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. False statements as to MP or accredited campaigner[^key-f3190a64cd747288ec587b382f3bdc52]
+## 129. False statements as to MP or accredited campaigner[^c-f3190a64cd747288ec587b382f3bdc52]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ makes or publishes any false statement of fact in relation to the personal chara
 
 ## Annotations
 
-[^key-f3190a64cd747288ec587b382f3bdc52]: Commencement: Reg. 129 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-f3190a64cd747288ec587b382f3bdc52]: Commencement: Reg. 129 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00043]: Footnote: [N.I.S.I 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397).

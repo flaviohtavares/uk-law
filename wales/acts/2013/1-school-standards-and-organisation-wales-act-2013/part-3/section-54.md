@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Referral to the Welsh Ministers[^key-5b14ed8e8fa96f609a5ee5633cbf5949]
+## 54. Referral to the Welsh Ministers[^c-5b14ed8e8fa96f609a5ee5633cbf5949]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b14ed8e8fa96f609a5ee5633cbf5949]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2013/1/section/54) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-5b14ed8e8fa96f609a5ee5633cbf5949]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2013/1/section/54) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

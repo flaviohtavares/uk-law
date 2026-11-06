@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Financial penalties[^key-535e5f993bbbb88ed69343b0398f2eb5]
+## 7. Financial penalties[^c-535e5f993bbbb88ed69343b0398f2eb5]
 
 *Extent: E+W+S+N.I.*
 
-(1) If the FCA considers that a person[^key-031bf19607e4b518a77b4b61eb684d0c] has contravened a requirement imposed by or under these Regulations, or by or under the CRA Regulation, it may impose a penalty on the person of such amount as it considers appropriate.
+(1) If the FCA considers that a person[^c-031bf19607e4b518a77b4b61eb684d0c] has contravened a requirement imposed by or under these Regulations, or by or under the CRA Regulation, it may impose a penalty on the person of such amount as it considers appropriate.
 
 (2) A penalty imposed under this regulation—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-535e5f993bbbb88ed69343b0398f2eb5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-535e5f993bbbb88ed69343b0398f2eb5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-031bf19607e4b518a77b4b61eb684d0c]: Textual amendment: Word in reg. 7(1) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [50(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/2/a)
+[^c-031bf19607e4b518a77b4b61eb684d0c]: Textual amendment: Word in reg. 7(1) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [50(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/2/a)

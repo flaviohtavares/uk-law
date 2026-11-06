@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Inspection of practice bank accounts etc.[^key-7d5f6de195e181d50fa4f2de86f1f82c][^c20564151][^c20564131][^c13348182][^c13348171]
+## 33A. Inspection of practice bank accounts etc.[^c-7d5f6de195e181d50fa4f2de86f1f82c][^c20564151][^c20564131][^c13348182][^c13348171]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ for inspection by a person appointed by the Society pursuant to the rules.
 
 ## Annotations
 
-[^key-7d5f6de195e181d50fa4f2de86f1f82c]: Modification: [S. 33A](https://www.legislation.gov.uk/ukpga/1974/47/section/33A) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-7d5f6de195e181d50fa4f2de86f1f82c]: Modification: [S. 33A](https://www.legislation.gov.uk/ukpga/1974/47/section/33A) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c20564151]: Modification: [S. 33A](https://www.legislation.gov.uk/ukpga/1974/47/section/33A) extended (with modifications) (1.7.2009) by [The Registered Foreign Lawyers Order 2009 (S.I. 2009/1589)](https://www.legislation.gov.uk/uksi/2009/1589), [art. 3(2)(g)](https://www.legislation.gov.uk/uksi/2009/1589/article/3/2/g), [Sch.](https://www.legislation.gov.uk/uksi/2009/1589/schedule)
 

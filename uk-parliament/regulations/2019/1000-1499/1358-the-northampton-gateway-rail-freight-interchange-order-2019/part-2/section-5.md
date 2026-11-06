@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Authorisation of use[^key-b503442576c7b1d922dc55fa8918964e]
+## 5. Authorisation of use[^c-b503442576c7b1d922dc55fa8918964e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Order and to the requirements, the undertaker 
 
 ## Annotations
 
-[^key-b503442576c7b1d922dc55fa8918964e]: Commencement: Art. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-b503442576c7b1d922dc55fa8918964e]: Commencement: Art. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

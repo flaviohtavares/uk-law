@@ -40,7 +40,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### CHAPTER 1 — Criminal conduct
 
-#### 1. Voyeurism: additional offences[^key-75e064bb8eaa59da506d6bd5e34883ca][^key-840eeb8d0beae01996506f83f8db4af1]
+#### 1. Voyeurism: additional offences[^c-75e064bb8eaa59da506d6bd5e34883ca][^c-840eeb8d0beae01996506f83f8db4af1]
 
 (1) The Sexual Offences (Northern Ireland) Order 2008 is amended in accordance with subsections (2) and (3).
 
@@ -198,7 +198,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-#### 2. Sending etc an unwanted sexual image[^key-c4758de18578a57ef2271ecd89548de8][^key-5e55cf25bcf528d47944a7e1537996df]
+#### 2. Sending etc an unwanted sexual image[^c-c4758de18578a57ef2271ecd89548de8][^c-5e55cf25bcf528d47944a7e1537996df]
 
 After Article 72 of the Sexual Offences (Northern Ireland) Order 2008 insert—
 
@@ -248,11 +248,11 @@ After Article 72 of the Sexual Offences (Northern Ireland) Order 2008 insert—
 
 .
 
-#### 3. Amendments consequential on sections 1 and 2[^key-df2ebf7f616384a19a5a5b3fa653ed64][^key-2035dd724f16778be19d84c86c47f2cd]
+#### 3. Amendments consequential on sections 1 and 2[^c-df2ebf7f616384a19a5a5b3fa653ed64][^c-2035dd724f16778be19d84c86c47f2cd]
 
 Schedule 1 contains amendments consequential on the insertions made by sections 1(2) and 2.
 
-#### 4. Sexual grooming: pretending to be a child[^key-4ea83fa78ef527e99e7ed72608b35ee4][^key-ff6f39fabd21a33bd2ef6a42c110c703]
+#### 4. Sexual grooming: pretending to be a child[^c-4ea83fa78ef527e99e7ed72608b35ee4][^c-ff6f39fabd21a33bd2ef6a42c110c703]
 
 (1) After Article 22A of the Sexual Offences (Northern Ireland) Order 2008 insert—
 
@@ -346,7 +346,7 @@ Schedule 1 contains amendments consequential on the insertions made by sections 
 
 .
 
-#### 5. Abuse of position of trust: relevant positions[^key-1d5e37aff86eb54e6d3cdda1faf385b4][^key-25f41ddd25c3d06c9dc975f83043ef06]
+#### 5. Abuse of position of trust: relevant positions[^c-1d5e37aff86eb54e6d3cdda1faf385b4][^c-25f41ddd25c3d06c9dc975f83043ef06]
 
 (1) The Sexual Offences (Northern Ireland) Order 2008 is amended as follows.
 
@@ -395,7 +395,7 @@ Schedule 1 contains amendments consequential on the insertions made by sections 
 
 (6) The Department of Justice must annually review Article 29A(1) and (2) of the Sexual Offences (Northern Ireland) Order 2008 so as to inform the Department on whether the power in Article 29A(4) of that Order should be exercised.
 
-#### 6. Private sexual images: threatening to disclose[^key-68f6478fa16718f86ae537622f617eb1][^key-2a902a1e464a03eec86f367b09a37bce]
+#### 6. Private sexual images: threatening to disclose[^c-68f6478fa16718f86ae537622f617eb1][^c-2a902a1e464a03eec86f367b09a37bce]
 
 (1) The Justice Act (Northern Ireland) 2016 is amended as follows.
 
@@ -458,7 +458,7 @@ Schedule 1 contains amendments consequential on the insertions made by sections 
 
   .
 
-#### 7. Miscellaneous amendments as to sexual offences[^key-c76204f36cf7753e5c6962ed6ff51640][^key-810e5d54f1679d6a95ee3d7704dcf656]
+#### 7. Miscellaneous amendments as to sexual offences[^c-c76204f36cf7753e5c6962ed6ff51640][^c-810e5d54f1679d6a95ee3d7704dcf656]
 
 In Schedule 2—
 
@@ -472,7 +472,7 @@ In Schedule 2—
 
 #### Anonymity of victims
 
-##### 8. Extended anonymity of victims[^key-d0c99739001cf2868f06ae4815cc0d81][^key-a55955af92d67874afdefb2b1ee4edd9]
+##### 8. Extended anonymity of victims[^c-d0c99739001cf2868f06ae4815cc0d81][^c-a55955af92d67874afdefb2b1ee4edd9]
 
 (1) Section 1 of the Sexual Offences (Amendment) Act 1992 (anonymity of victims of certain offences) is amended as follows.
 
@@ -494,7 +494,7 @@ In Schedule 2—
 
 .
 
-##### 9. Disapplication of anonymity of victim after death[^key-0eb59f7804e01a17cdb9145f78e170cc][^key-795fe0b1554f3b68e2acf40cd3761b3d]
+##### 9. Disapplication of anonymity of victim after death[^c-0eb59f7804e01a17cdb9145f78e170cc][^c-795fe0b1554f3b68e2acf40cd3761b3d]
 
 (1) The Sexual Offences (Amendment) Act 1992 is amended as follows.
 
@@ -576,7 +576,7 @@ In Schedule 2—
 
 .
 
-##### 10. Increase in penalty for breach of anonymity[^key-cfc4de6a9e7a42c48f460962fb032449][^key-01195ed5bafbb9f15bedaf1160ec34e3]
+##### 10. Increase in penalty for breach of anonymity[^c-cfc4de6a9e7a42c48f460962fb032449][^c-01195ed5bafbb9f15bedaf1160ec34e3]
 
 (1) Section 5 of the Sexual Offences (Amendment) Act 1992 (offences) is amended as follows.
 
@@ -588,7 +588,7 @@ In Schedule 2—
 
 .
 
-##### 11. Special rules for providers of information society services[^key-62e102ab44b151e1f0af358f5284b7a2][^key-e3500b6b3d4d55d08dc33b6a12fb3a70]
+##### 11. Special rules for providers of information society services[^c-62e102ab44b151e1f0af358f5284b7a2][^c-e3500b6b3d4d55d08dc33b6a12fb3a70]
 
 (1) In section 5 of the Sexual Offences (Amendment) Act 1992 (offences), at the end insert—
 
@@ -667,7 +667,7 @@ In Schedule 2—
 
 #### Anonymity of suspects
 
-##### 12. Restriction on reports as to suspects of sexual offences[^key-70532414a9ff5841d298e597a2a70c85][^key-bb1082ad81d2dc87489562191532a14d]
+##### 12. Restriction on reports as to suspects of sexual offences[^c-70532414a9ff5841d298e597a2a70c85][^c-bb1082ad81d2dc87489562191532a14d]
 
 (1) Subsection (2) applies where—
 
@@ -697,7 +697,7 @@ and references in this section and sections 14 and 16 to “the suspect” are t
 
 (6) For the avoidance of doubt, for the purposes of subsection (1) it does not matter whether the allegation is made, or the step is taken, before or after this section comes into operation.
 
-##### 13. Meaning of sexual offence in section 12[^key-97515d60c63c91c9d9ecd87f65f66708][^key-13d2bcc94e9750d12bb015a940308b15]
+##### 13. Meaning of sexual offence in section 12[^c-97515d60c63c91c9d9ecd87f65f66708][^c-13d2bcc94e9750d12bb015a940308b15]
 
 (1) In section 12, “**sexual offence**” means any of the following offences against the law of Northern Ireland—
 
@@ -719,7 +719,7 @@ and references in this section and sections 14 and 16 to “the suspect” are t
 
 (3) Regulations under subsection (2) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-##### 14. Power to disapply reporting restriction[^key-bc0d86fa22126ea5f94ba79b0c28c965][^key-b5806dd89f1a5ec65fa5318b6949dc6c]
+##### 14. Power to disapply reporting restriction[^c-bc0d86fa22126ea5f94ba79b0c28c965][^c-b5806dd89f1a5ec65fa5318b6949dc6c]
 
 (1) Subsection (2) applies where matters relating to a suspect are prohibited from publication by virtue of section 12(2).
 
@@ -779,7 +779,7 @@ to make such a variation or revocation.
 
 (11) In subsections (1) and (4)(b)(iii), a reference to matters being prohibited from publication includes matters being partially prohibited from publication following the making of an order under this section modifying the application of section 12(2) in relation to the suspect.
 
-##### 15. Magistrates’ courts rules[^key-affd80f2361aa39bc9e266e565e405cf][^key-fac9bc16051fe8fc825b57527b812a7c]
+##### 15. Magistrates’ courts rules[^c-affd80f2361aa39bc9e266e565e405cf][^c-fac9bc16051fe8fc825b57527b812a7c]
 
 (1) Magistrates’ courts rules may make such provision relating to orders under section 14 as appears to the authority making them to be necessary or expedient for the purposes of that section.
 
@@ -791,7 +791,7 @@ to make such a variation or revocation.
 
 (3) Nothing in subsections (1) and (2) is be taken to affect the generality of any statutory provision conferring power to make magistrates’ courts rules; and no particular provision of those subsections prejudices any general provision of them.
 
-##### 16. Offence relating to reporting[^key-9d12ab890e727a6e5ad412b6aa380e90][^key-10219082833a9ab1e00c2e87363ba53c]
+##### 16. Offence relating to reporting[^c-9d12ab890e727a6e5ad412b6aa380e90][^c-10219082833a9ab1e00c2e87363ba53c]
 
 (1) If any matter is included in a publication in contravention of section 12(2), the following persons are guilty of an offence—
 
@@ -836,7 +836,7 @@ that person (as well as the body corporate) commits the offence and is liable to
 
 (11) Schedule 3 contains special rules relating to providers of information society services.
 
-##### 17. Interpretation of sections 12 to 16[^key-3e51f4fe981b29e54c29c577793b5652][^key-9ab5c6a39eb9c5942fd63dfdccea3fa4]
+##### 17. Interpretation of sections 12 to 16[^c-3e51f4fe981b29e54c29c577793b5652][^c-9ab5c6a39eb9c5942fd63dfdccea3fa4]
 
 (1) In this section and sections 12 to 16—
 
@@ -848,13 +848,13 @@ that person (as well as the body corporate) commits the offence and is liable to
 
 (2) Nothing in section 12, 14 or 16 or Schedule 3 affects any prohibition or restriction imposed by virtue of any other statutory provision upon a publication or upon matter included in a relevant programme.
 
-##### 18. Consequential amendment[^key-feee625f518e040634d691769ac425a6][^key-058c0f68f456b6cada5c1629b39af5ab]
+##### 18. Consequential amendment[^c-feee625f518e040634d691769ac425a6][^c-058c0f68f456b6cada5c1629b39af5ab]
 
 In section 44(4)(a) of the Youth Justice and Criminal Evidence Act 1999 (restrictions on reporting alleged offences involving persons under 18), after “committed” insert “except a person in relation to whom section 12(2) of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 applies in connection with the offence”.
 
 #### Exclusion from proceedings
 
-##### 19. Serious sexual offences: exclusion of public from court[^key-1c1b2d7041cac2ba107d2256f94ecd48][^key-99220dd643d78973a6bd4a6d5bde364f]
+##### 19. Serious sexual offences: exclusion of public from court[^c-1c1b2d7041cac2ba107d2256f94ecd48][^c-99220dd643d78973a6bd4a6d5bde364f]
 
 (1) The Criminal Evidence (Northern Ireland) Order 1999 is amended as follows.
 
@@ -1042,7 +1042,7 @@ In section 44(4)(a) of the Youth Justice and Criminal Evidence Act 1999 (restric
 
 ### CHAPTER 3 — Guidance on this part
 
-#### 20. Guidance about this Part[^key-775bb27168eb655f9f3879cc57737402][^key-88365aa5c8a967ebde39ab8b2991f5a8]
+#### 20. Guidance about this Part[^c-775bb27168eb655f9f3879cc57737402][^c-88365aa5c8a967ebde39ab8b2991f5a8]
 
 (1) The Department of Justice must issue guidance about—
 
@@ -1066,7 +1066,7 @@ In section 44(4)(a) of the Youth Justice and Criminal Evidence Act 1999 (restric
 
 ## PART 2 — Trafficking and exploitation
 
-### 21. Support for victims of trafficking etc[^key-2ff07c0b4ee45f4b9e0447257b0248ad]
+### 21. Support for victims of trafficking etc[^c-2ff07c0b4ee45f4b9e0447257b0248ad]
 
 (1) The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 is amended as follows.
 
@@ -1109,18 +1109,18 @@ In section 44(4)(a) of the Youth Justice and Criminal Evidence Act 1999 (restric
 
   .
 
-### 22. Defence for slavery and trafficking victims[^key-2e2e6abff1038817a7684072b11098e7]
+### 22. Defence for slavery and trafficking victims[^c-2e2e6abff1038817a7684072b11098e7]
 
 In section 22 (defence for slavery and trafficking victims in relation to certain offences) of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015—
 
 - (a) in subsection (9)(a)(i), after “of a” insert “Class A,”;
 - (b) in subsection (9)(a)(ii), after “of a” insert “Class A or”.
 
-### 23. Strategies on slavery and trafficking offences[^key-15f708f38f0b72cfb4953c5bd4c95842]
+### 23. Strategies on slavery and trafficking offences[^c-15f708f38f0b72cfb4953c5bd4c95842]
 
 In section 12 (strategy on offences under sections 1 and 2) of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015, in subsection (1), for “in every year” substitute “every 3 years”.
 
-### 24. Protective measures for victims of slavery or trafficking[^key-26697a507af7208716720f2d9a9ff9d6]
+### 24. Protective measures for victims of slavery or trafficking[^c-26697a507af7208716720f2d9a9ff9d6]
 
 (1) The Department of Justice may by regulations make provision—
 
@@ -1139,7 +1139,7 @@ In section 12 (strategy on offences under sections 1 and 2) of the Human Traffic
 
 ### CHAPTER 1 — Prevention orders
 
-#### 25. Qualifying offences for sexual offences prevention orders[^key-b7a8aa034a87e611f57fdf4751ee4092]
+#### 25. Qualifying offences for sexual offences prevention orders[^c-b7a8aa034a87e611f57fdf4751ee4092]
 
 (1) In Schedule 5 to the Sexual Offences Act 2003, after paragraph 163 insert—
 
@@ -1149,7 +1149,7 @@ In section 12 (strategy on offences under sections 1 and 2) of the Human Traffic
 
 (2) Section 130(3) (as read with (4)(a)) of that Act (so far as relating to section 106 of that Act) applies to the amendment made by this section.
 
-#### 26. Time limit for making violent offences prevention orders[^key-2d6ffb47bfeef84e92944298e194656a]
+#### 26. Time limit for making violent offences prevention orders[^c-2d6ffb47bfeef84e92944298e194656a]
 
 (1) In section 57 of the Justice Act (Northern Ireland) 2015, after subsection (5) insert—
 
@@ -1161,7 +1161,7 @@ In section 12 (strategy on offences under sections 1 and 2) of the Human Traffic
 
 ### CHAPTER 2 — Causing or risking serious harm
 
-#### 27. Consent to harm for sexual gratification is no defence[^key-37c3fb8e6ddadd0232a1d7aeed5b044a]
+#### 27. Consent to harm for sexual gratification is no defence[^c-37c3fb8e6ddadd0232a1d7aeed5b044a]
 
 (1) For the purpose of determining whether a person (A) who inflicts serious harm on another person (B) is guilty of a relevant offence, it is not a defence that B consented to the infliction of the serious harm for the purpose of obtaining sexual gratification.
 
@@ -1186,7 +1186,7 @@ In section 12 (strategy on offences under sections 1 and 2) of the Human Traffic
 
 (5) Nothing in this section affects the operation of any rule of law, or any statutory provision (as defined by section 1(f) of the Interpretation Act (Northern Ireland) 1954), relating to other circumstances in which a person’s consent to the infliction of serious harm may, or may not, be a defence to a relevant offence.
 
-#### 28. Offence of non-fatal strangulation or asphyxiation[^key-caad4e63e5b9d1b7f6b0f4ad607ee94d][^key-a314310910c2a46b63ed9dc7dd6899cd]
+#### 28. Offence of non-fatal strangulation or asphyxiation[^c-caad4e63e5b9d1b7f6b0f4ad607ee94d][^c-a314310910c2a46b63ed9dc7dd6899cd]
 
 (1) A person (A) commits an offence if the first and the second conditions are met.
 
@@ -1247,7 +1247,7 @@ the person commits an offence under this section as if the act is done in Northe
 
 ## PART 4 — Final provisions
 
-### 29. Ancillary regulations[^key-56e2ae87208e73f804c63808e2f2da53]
+### 29. Ancillary regulations[^c-56e2ae87208e73f804c63808e2f2da53]
 
 (1) The Department of Justice may by regulations make such supplementary, incidental, consequential, transitional, transitory or saving provision as the Department considers appropriate for the purposes of, in connection with or for giving full effect to the provisions of this Act.
 
@@ -1261,7 +1261,7 @@ the person commits an offence under this section as if the act is done in Northe
 - (a) any Northern Ireland legislation, or
 - (b) any Act of Parliament.
 
-### 30. Commencement[^key-c9a6be0ca2e4250b43a0722b4491f07e]
+### 30. Commencement[^c-c9a6be0ca2e4250b43a0722b4491f07e]
 
 (1) The following provisions come into operation on the day after the day on which this Act receives Royal Assent—
 
@@ -1272,7 +1272,7 @@ the person commits an offence under this section as if the act is done in Northe
 
 (3) An order under this section may contain such transitional, transitory or saving provision as the Department of Justice considers appropriate.
 
-### 31. Short title[^key-81a1ee14a41b6293d9af18b2b25727cd]
+### 31. Short title[^c-81a1ee14a41b6293d9af18b2b25727cd]
 
 This Act may be cited as the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022.
 
@@ -1284,19 +1284,19 @@ Section 3.
 
 ### [Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
-**1.**[^key-3366c7e154c4df17028b34b95b668252][^key-520e670aaddea117c6ad0473240a680c] In Article 53A(2) (questioning and treatment of persons by police: meaning of “qualifying offence”), in sub-paragraph (s), for “to 71” substitute “to 71B, 72A”.
+**1.**[^c-3366c7e154c4df17028b34b95b668252][^c-520e670aaddea117c6ad0473240a680c] In Article 53A(2) (questioning and treatment of persons by police: meaning of “qualifying offence”), in sub-paragraph (s), for “to 71” substitute “to 71B, 72A”.
 
 ### [Sexual Offences (Amendment) Act 1992 (c. 34)](https://www.legislation.gov.uk/ukpga/1992/34)
 
-**2.**[^key-34df223a054a622f30806462abb06238][^key-ff8b1e567668de2144e4bb00e0e8054c] In section 2(3) (offences under law of Northern Ireland to which the Act applies), in paragraph (hb)(ii), after “71,” insert “71A, 71B, 72A”.
+**2.**[^c-34df223a054a622f30806462abb06238][^c-ff8b1e567668de2144e4bb00e0e8054c] In section 2(3) (offences under law of Northern Ireland to which the Act applies), in paragraph (hb)(ii), after “71,” insert “71A, 71B, 72A”.
 
 ### [Industrial Tribunals (Northern Ireland) Order 1996 (NI 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-**3.**[^key-27706874623c5d3035836f13dfdad194][^key-a9c9eb9596373459cd5649f80f14495d] In Article 13(4) (power to provide for restriction of publicity in certain cases), in paragraph (b)(viii) of the definition of “sexual offence”, after “71” insert “, 71A, 71B, 72A”.
+**3.**[^c-27706874623c5d3035836f13dfdad194][^c-a9c9eb9596373459cd5649f80f14495d] In Article 13(4) (power to provide for restriction of publicity in certain cases), in paragraph (b)(viii) of the definition of “sexual offence”, after “71” insert “, 71A, 71B, 72A”.
 
 ### [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)
 
-**4.**[^key-09e2295b89acff86468656677b1740cc][^key-69d59504292948b3520591b8ef8f3ebe] In Schedule 3 (sexual offences for purposes of notification requirements), after paragraph 92V insert—
+**4.**[^c-09e2295b89acff86468656677b1740cc][^c-69d59504292948b3520591b8ef8f3ebe] In Schedule 3 (sexual offences for purposes of notification requirements), after paragraph 92V insert—
 
 > **92VA.** (1) An offence under Article 71A or 71B of that Order (voyeurism: additional offences) if—
 >
@@ -1332,7 +1332,7 @@ Section 3.
 
 ### [Criminal Justice (Northern Ireland) Order 2008 (NI 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-**5.**[^key-a477a948437c7c98efe10e6d2fefbb7a][^key-ca4dddc9faeca6585c28c20a3f0331ab] In Part 2 of Schedule 2 (specified sexual offences), in paragraph 14A, for the words from “Article 71 (exposure),” to the end of the paragraph substitute—
+**5.**[^c-a477a948437c7c98efe10e6d2fefbb7a][^c-ca4dddc9faeca6585c28c20a3f0331ab] In Part 2 of Schedule 2 (specified sexual offences), in paragraph 14A, for the words from “Article 71 (exposure),” to the end of the paragraph substitute—
 
 > - Article 70 (exposure),
 > - Article 71 (voyeurism),
@@ -1350,11 +1350,11 @@ Section 7.
 
 ### PART 1 — Amendments of references to certain forms of child sexual abuse
 
-**1.**[^key-0dffdad30b5b003b56d11e8cbef745aa][^key-40c398b146eaed360cc5c74c0e330f4f] The Sexual Offences (Northern Ireland) Order 2008 is amended as follows.
+**1.**[^c-0dffdad30b5b003b56d11e8cbef745aa][^c-40c398b146eaed360cc5c74c0e330f4f] The Sexual Offences (Northern Ireland) Order 2008 is amended as follows.
 
-**2.**[^key-dd9a2a92d1217569b7bd8f560057e888][^key-d94fc7d39803c647fe157f6cf6eb8608] For the italic heading preceding Article 37 substitute “*Abuse of children under 18: payment for sexual services and involvement in indecent images*”.
+**2.**[^c-dd9a2a92d1217569b7bd8f560057e888][^c-d94fc7d39803c647fe157f6cf6eb8608] For the italic heading preceding Article 37 substitute “*Abuse of children under 18: payment for sexual services and involvement in indecent images*”.
 
-**3.**[^key-0360daa8bdf79bff2d5ce462add9655d][^key-42ce2a62d8df568aa0d5b107d0512a0d] (1) Article 38 is amended as follows.
+**3.**[^c-0360daa8bdf79bff2d5ce462add9655d][^c-42ce2a62d8df568aa0d5b107d0512a0d] (1) Article 38 is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -1376,7 +1376,7 @@ Section 7.
 
 (3) For the title substitute “Causing or inciting abuse: payment for sexual services and involvement in indecent images”.
 
-**4.**[^key-a7161e87c4d75b538c8dbd24615bcfb0][^key-7882cf33e246473e3c6430ddaa00986a] (1) Article 39 is amended as follows.
+**4.**[^c-a7161e87c4d75b538c8dbd24615bcfb0][^c-7882cf33e246473e3c6430ddaa00986a] (1) Article 39 is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -1398,7 +1398,7 @@ Section 7.
 
 (3) For the title substitute “Controlling a child: payment for sexual services and involvement in indecent images”.
 
-**5.**[^key-7d50f9a3f00ae150af91404689783e21][^key-367ccf560997dc9f663c13eb67f11ba5] (1) Article 40 is amended as follows.
+**5.**[^c-7d50f9a3f00ae150af91404689783e21][^c-367ccf560997dc9f663c13eb67f11ba5] (1) Article 40 is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -1420,7 +1420,7 @@ Section 7.
 
 (3) For the title substitute “Arranging or facilitating abuse: payment for sexual services and involvement in indecent images”.
 
-**6.**[^key-96593827f8a9a218a0b63cc9d9f263fc][^key-6e5c512af2741ee27d4d01e8ca5543cf] For Article 41 substitute—
+**6.**[^c-96593827f8a9a218a0b63cc9d9f263fc][^c-6e5c512af2741ee27d4d01e8ca5543cf] For Article 41 substitute—
 
 > **41.** (1) This Article applies for the purposes of Articles 38 to 40.
 >
@@ -1447,9 +1447,9 @@ Section 7.
 
 ### PART 2 — Amendments relating to the offence of engaging in sexual communication with a child
 
-**7.**[^key-54f3ffa0d23fa962fb005b097fc40784][^key-e1e9e6ede7f647dc2c24cae505c73694] In Article 76(10)(a) of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom), omit “except Article 22A”.
+**7.**[^c-54f3ffa0d23fa962fb005b097fc40784][^c-e1e9e6ede7f647dc2c24cae505c73694] In Article 76(10)(a) of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom), omit “except Article 22A”.
 
-**8.**[^key-ef131ba903463bd015c1ea8d913e7cc5][^key-3b476c11d81a62035afec7de8b2d10f0] In Schedule 3 to the Sexual Offences Act 2003 (sexual offences for purposes of notification requirements)—
+**8.**[^c-ef131ba903463bd015c1ea8d913e7cc5][^c-3b476c11d81a62035afec7de8b2d10f0] In Schedule 3 to the Sexual Offences Act 2003 (sexual offences for purposes of notification requirements)—
 
 - (a) omit paragraph 92HA;
 - (b) after paragraph 92I insert—
@@ -1458,11 +1458,11 @@ Section 7.
 
   .
 
-**9.**[^key-23e9faeff0620a3d6ab479dfa13872ed][^key-173442ffd95199ecbd06332aa53ce015] In section 90 of the Justice Act (Northern Ireland) 2015, omit subsections (3) and (4).
+**9.**[^c-23e9faeff0620a3d6ab479dfa13872ed][^c-173442ffd95199ecbd06332aa53ce015] In section 90 of the Justice Act (Northern Ireland) 2015, omit subsections (3) and (4).
 
 ### PART 3 — Amendment relating to the offence of paying for the sexual services of a person
 
-**10.**[^key-fa2b04b73bc80d2a1e2c3ada2f644b44][^key-97bb3416993422061811e6f77bf953c7] In Article 64A of the Sexual Offences (Northern Ireland) Order 2008 (offence of paying for sexual services of a person), for paragraph (4) substitute—
+**10.**[^c-fa2b04b73bc80d2a1e2c3ada2f644b44][^c-97bb3416993422061811e6f77bf953c7] In Article 64A of the Sexual Offences (Northern Ireland) Order 2008 (offence of paying for sexual services of a person), for paragraph (4) substitute—
 
 > (4) No offence is committed under this Article unless the sexual services that are provided or are to be provided by B to A fall within paragraph (4A) or (4B).
 >
@@ -1485,7 +1485,7 @@ Section 16.
 
 ### Exceptions for mere conduits
 
-**1.**[^key-01d63cd4db4884e450197e937cd677e8][^key-623de11b7897c255a19a513f321a208b] (1) A service provider does not commit an offence under section 16 by providing access to a communication network or by transmitting, in a communication network, information provided by a recipient of the service, if the service provider does not—
+**1.**[^c-01d63cd4db4884e450197e937cd677e8][^c-623de11b7897c255a19a513f321a208b] (1) A service provider does not commit an offence under section 16 by providing access to a communication network or by transmitting, in a communication network, information provided by a recipient of the service, if the service provider does not—
 
 - (a) initiate the transmission,
 - (b) select the recipient of the transmission, or
@@ -1502,7 +1502,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Exception for caching
 
-**2.**[^key-e5574434c3bf06042d5092e45b18d128][^key-222d6a09c531d0567719a33ceef1e426] (1) A service provider does not commit an offence under section 16 by storing information provided by a recipient of the service for transmission in a communication network if the first and second conditions are met.
+**2.**[^c-e5574434c3bf06042d5092e45b18d128][^c-222d6a09c531d0567719a33ceef1e426] (1) A service provider does not commit an offence under section 16 by storing information provided by a recipient of the service for transmission in a communication network if the first and second conditions are met.
 
 (2) The first condition is that the storage of the information—
 
@@ -1523,7 +1523,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Exception for hosting
 
-**3.**[^key-2f46aae39af03a9751bc6845e23e41e7][^key-403a7400cd0bee610ecdd7c88bcf5a19] (1) A service provider does not commit an offence under section 16 by storing information provided by a recipient of the service if—
+**3.**[^c-2f46aae39af03a9751bc6845e23e41e7][^c-403a7400cd0bee610ecdd7c88bcf5a19] (1) A service provider does not commit an offence under section 16 by storing information provided by a recipient of the service if—
 
 - (a) the service provider had no actual knowledge when the information was provided that its provision constituted an offence under section 16, or
 - (b) on obtaining actual knowledge that the information constituted such an offence, the service provider promptly removed the information or disabled access to it.
@@ -1532,7 +1532,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Interpretation
 
-**4.**[^key-0b90a2b121bc31983cebee0e2e942b6d][^key-2aa4920203843cf6842de392474466aa] In this Schedule—
+**4.**[^c-0b90a2b121bc31983cebee0e2e942b6d][^c-2aa4920203843cf6842de392474466aa] In this Schedule—
 
 - “**information society service**” means any service normally provided—
   - (a) for remuneration,
@@ -1550,10 +1550,10 @@ Section 28.
 
 ### [Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
-**1.**[^key-df676838e928a6a335f49715434eeb8f] In Article 53A (qualifying offences for particular investigative purposes), in paragraph (2)—
+**1.**[^c-df676838e928a6a335f49715434eeb8f] In Article 53A (qualifying offences for particular investigative purposes), in paragraph (2)—
 
 - (a) the second of the two sub-paragraphs numbered as (t) is renumbered as (u),
-- (b)[^key-ffba6f02aee5040908a15a6f8bac8fc2] after the second of those two sub-paragraphs insert—
+- (b)[^c-ffba6f02aee5040908a15a6f8bac8fc2] after the second of those two sub-paragraphs insert—
 
   > - (v) an offence under section 28 of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).
 
@@ -1561,7 +1561,7 @@ Section 28.
 
 ### [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)
 
-**2.**[^key-604f844836f2f07dabd536d80de61148][^key-b42b1217331269021a7bb1ca15b416d9] In Schedule 5 (lists of offences for making particular orders), after paragraph 171G insert—
+**2.**[^c-604f844836f2f07dabd536d80de61148][^c-b42b1217331269021a7bb1ca15b416d9] In Schedule 5 (lists of offences for making particular orders), after paragraph 171G insert—
 
 > **171H.** An offence under section 28 of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).
 
@@ -1569,10 +1569,10 @@ Section 28.
 
 ### [Criminal Justice (Northern Ireland) Order 2008 (NI 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-**3.**[^key-47f2aa11ab6c212876ccb0f7f6027b00] In Schedule 2 (lists of offences for sentencing matters), in Part 1—
+**3.**[^c-47f2aa11ab6c212876ccb0f7f6027b00] In Schedule 2 (lists of offences for sentencing matters), in Part 1—
 
 - (a) the second of the two paragraphs numbered as 31A is renumbered as 31B,
-- (b)[^key-8c425ded9c2e257059a6e8da1a5ac1ab] after the second of those two paragraphs insert—
+- (b)[^c-8c425ded9c2e257059a6e8da1a5ac1ab] after the second of those two paragraphs insert—
 
   > **The Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022**
   >
@@ -1582,7 +1582,7 @@ Section 28.
 
 ### [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28)
 
-**4.**[^key-df18a90dadefeba4c0bcceae72325eb1][^key-e717803096adce21d2765939d102b0e0] In section 7A (certain rules of evidence and procedure), after paragraph (b) of subsection (2) insert—
+**4.**[^c-df18a90dadefeba4c0bcceae72325eb1][^c-e717803096adce21d2765939d102b0e0] In section 7A (certain rules of evidence and procedure), after paragraph (b) of subsection (2) insert—
 
 > - (c) an offence under section 28 of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).
 
@@ -1590,7 +1590,7 @@ Section 28.
 
 ### [Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2006 (NI 14)](https://www.legislation.gov.uk/nisi/2006/1945)
 
-**5.**[^key-c1a7deff15f00bffa44fd7789dc9b5dc][^key-31bb3d7fad7906b63f11e20a2f540c0e] In Article 2 (unjustifiable punishment of children), in paragraph (2)—
+**5.**[^c-c1a7deff15f00bffa44fd7789dc9b5dc][^c-31bb3d7fad7906b63f11e20a2f540c0e] In Article 2 (unjustifiable punishment of children), in paragraph (2)—
 
 - (a) omit the “and” preceding sub-paragraph (e),
 - (b) after sub-paragraph (e) insert—
@@ -1601,202 +1601,202 @@ Section 28.
 
 ## Annotations
 
-[^key-75e064bb8eaa59da506d6bd5e34883ca]: Commencement: S. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-75e064bb8eaa59da506d6bd5e34883ca]: Commencement: S. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-840eeb8d0beae01996506f83f8db4af1]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/19/section/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-840eeb8d0beae01996506f83f8db4af1]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/19/section/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-c4758de18578a57ef2271ecd89548de8]: Commencement: S. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-c4758de18578a57ef2271ecd89548de8]: Commencement: S. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-5e55cf25bcf528d47944a7e1537996df]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/19/section/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-5e55cf25bcf528d47944a7e1537996df]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/19/section/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-df2ebf7f616384a19a5a5b3fa653ed64]: Commencement: S. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-df2ebf7f616384a19a5a5b3fa653ed64]: Commencement: S. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-2035dd724f16778be19d84c86c47f2cd]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/19/section/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-2035dd724f16778be19d84c86c47f2cd]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/19/section/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-4ea83fa78ef527e99e7ed72608b35ee4]: Commencement: S. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-4ea83fa78ef527e99e7ed72608b35ee4]: Commencement: S. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-ff6f39fabd21a33bd2ef6a42c110c703]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/19/section/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-ff6f39fabd21a33bd2ef6a42c110c703]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/19/section/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-1d5e37aff86eb54e6d3cdda1faf385b4]: Commencement: S. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-1d5e37aff86eb54e6d3cdda1faf385b4]: Commencement: S. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-25f41ddd25c3d06c9dc975f83043ef06]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/19/section/5) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-25f41ddd25c3d06c9dc975f83043ef06]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/19/section/5) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-68f6478fa16718f86ae537622f617eb1]: Commencement: S. 6 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-68f6478fa16718f86ae537622f617eb1]: Commencement: S. 6 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-2a902a1e464a03eec86f367b09a37bce]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/19/section/6) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-2a902a1e464a03eec86f367b09a37bce]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/19/section/6) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-c76204f36cf7753e5c6962ed6ff51640]: Commencement: S. 7 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-c76204f36cf7753e5c6962ed6ff51640]: Commencement: S. 7 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-810e5d54f1679d6a95ee3d7704dcf656]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/19/section/7) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-810e5d54f1679d6a95ee3d7704dcf656]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/19/section/7) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-d0c99739001cf2868f06ae4815cc0d81]: Commencement: S. 8 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-d0c99739001cf2868f06ae4815cc0d81]: Commencement: S. 8 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-a55955af92d67874afdefb2b1ee4edd9]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/19/section/8) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-a55955af92d67874afdefb2b1ee4edd9]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/19/section/8) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-0eb59f7804e01a17cdb9145f78e170cc]: Commencement: S. 9 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-0eb59f7804e01a17cdb9145f78e170cc]: Commencement: S. 9 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-795fe0b1554f3b68e2acf40cd3761b3d]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2022/19/section/9) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-795fe0b1554f3b68e2acf40cd3761b3d]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2022/19/section/9) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-cfc4de6a9e7a42c48f460962fb032449]: Commencement: S. 10 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-cfc4de6a9e7a42c48f460962fb032449]: Commencement: S. 10 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-01195ed5bafbb9f15bedaf1160ec34e3]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2022/19/section/10) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-01195ed5bafbb9f15bedaf1160ec34e3]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2022/19/section/10) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-62e102ab44b151e1f0af358f5284b7a2]: Commencement: S. 11 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-62e102ab44b151e1f0af358f5284b7a2]: Commencement: S. 11 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-e3500b6b3d4d55d08dc33b6a12fb3a70]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2022/19/section/11) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-e3500b6b3d4d55d08dc33b6a12fb3a70]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2022/19/section/11) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-70532414a9ff5841d298e597a2a70c85]: Commencement: S. 12 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-70532414a9ff5841d298e597a2a70c85]: Commencement: S. 12 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-bb1082ad81d2dc87489562191532a14d]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2022/19/section/12) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-bb1082ad81d2dc87489562191532a14d]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2022/19/section/12) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-97515d60c63c91c9d9ecd87f65f66708]: Commencement: S. 13 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-97515d60c63c91c9d9ecd87f65f66708]: Commencement: S. 13 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-13d2bcc94e9750d12bb015a940308b15]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/19/section/13) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-13d2bcc94e9750d12bb015a940308b15]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/19/section/13) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-bc0d86fa22126ea5f94ba79b0c28c965]: Commencement: S. 14 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-bc0d86fa22126ea5f94ba79b0c28c965]: Commencement: S. 14 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-b5806dd89f1a5ec65fa5318b6949dc6c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2022/19/section/14) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-b5806dd89f1a5ec65fa5318b6949dc6c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2022/19/section/14) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-affd80f2361aa39bc9e266e565e405cf]: Commencement: S. 15 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-affd80f2361aa39bc9e266e565e405cf]: Commencement: S. 15 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-fac9bc16051fe8fc825b57527b812a7c]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2022/19/section/15) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-fac9bc16051fe8fc825b57527b812a7c]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2022/19/section/15) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-9d12ab890e727a6e5ad412b6aa380e90]: Commencement: S. 16 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-9d12ab890e727a6e5ad412b6aa380e90]: Commencement: S. 16 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-10219082833a9ab1e00c2e87363ba53c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/19/section/16) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-10219082833a9ab1e00c2e87363ba53c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/19/section/16) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-3e51f4fe981b29e54c29c577793b5652]: Commencement: S. 17 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-3e51f4fe981b29e54c29c577793b5652]: Commencement: S. 17 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-9ab5c6a39eb9c5942fd63dfdccea3fa4]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2022/19/section/17) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-9ab5c6a39eb9c5942fd63dfdccea3fa4]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2022/19/section/17) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-feee625f518e040634d691769ac425a6]: Commencement: S. 18 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-feee625f518e040634d691769ac425a6]: Commencement: S. 18 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-058c0f68f456b6cada5c1629b39af5ab]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2022/19/section/18) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-058c0f68f456b6cada5c1629b39af5ab]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2022/19/section/18) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-1c1b2d7041cac2ba107d2256f94ecd48]: Commencement: S. 19 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-1c1b2d7041cac2ba107d2256f94ecd48]: Commencement: S. 19 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-99220dd643d78973a6bd4a6d5bde364f]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2022/19/section/19) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2023/142/article/4), [5](https://www.legislation.gov.uk/nisr/2023/142/article/5))
+[^c-99220dd643d78973a6bd4a6d5bde364f]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2022/19/section/19) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2023/142/article/4), [5](https://www.legislation.gov.uk/nisr/2023/142/article/5))
 
-[^key-775bb27168eb655f9f3879cc57737402]: Commencement: S. 20 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-775bb27168eb655f9f3879cc57737402]: Commencement: S. 20 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-88365aa5c8a967ebde39ab8b2991f5a8]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2022/19/section/20) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
+[^c-88365aa5c8a967ebde39ab8b2991f5a8]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2022/19/section/20) in operation at 28.9.2023 by [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3)
 
-[^key-2ff07c0b4ee45f4b9e0447257b0248ad]: Commencement: S. 21 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-2ff07c0b4ee45f4b9e0447257b0248ad]: Commencement: S. 21 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-2e2e6abff1038817a7684072b11098e7]: Commencement: S. 22 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-2e2e6abff1038817a7684072b11098e7]: Commencement: S. 22 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-15f708f38f0b72cfb4953c5bd4c95842]: Commencement: S. 23 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-15f708f38f0b72cfb4953c5bd4c95842]: Commencement: S. 23 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-26697a507af7208716720f2d9a9ff9d6]: Commencement: S. 24 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-26697a507af7208716720f2d9a9ff9d6]: Commencement: S. 24 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-b7a8aa034a87e611f57fdf4751ee4092]: Commencement: S. 25 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-b7a8aa034a87e611f57fdf4751ee4092]: Commencement: S. 25 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-2d6ffb47bfeef84e92944298e194656a]: Commencement: S. 26 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-2d6ffb47bfeef84e92944298e194656a]: Commencement: S. 26 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-37c3fb8e6ddadd0232a1d7aeed5b044a]: Commencement: S. 27 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-37c3fb8e6ddadd0232a1d7aeed5b044a]: Commencement: S. 27 in operation at 28.4.2022, see [s. 30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
 
-[^key-caad4e63e5b9d1b7f6b0f4ad607ee94d]: Commencement: S. 28 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-caad4e63e5b9d1b7f6b0f4ad607ee94d]: Commencement: S. 28 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-a314310910c2a46b63ed9dc7dd6899cd]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2022/19/section/28) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(a)](https://www.legislation.gov.uk/nisr/2023/87/article/2/a)
+[^c-a314310910c2a46b63ed9dc7dd6899cd]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2022/19/section/28) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(a)](https://www.legislation.gov.uk/nisr/2023/87/article/2/a)
 
-[^key-56e2ae87208e73f804c63808e2f2da53]: Commencement: S. 29 in operation at 28.4.2022, see [s. 30(1)(b)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/b)
+[^c-56e2ae87208e73f804c63808e2f2da53]: Commencement: S. 29 in operation at 28.4.2022, see [s. 30(1)(b)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/b)
 
-[^key-c9a6be0ca2e4250b43a0722b4491f07e]: Commencement: S. 30 in operation at 28.4.2022, see [s. 30(1)(b)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/b)
+[^c-c9a6be0ca2e4250b43a0722b4491f07e]: Commencement: S. 30 in operation at 28.4.2022, see [s. 30(1)(b)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/b)
 
-[^key-81a1ee14a41b6293d9af18b2b25727cd]: Commencement: S. 31 in operation at 28.4.2022, see [s. 30(1)(b)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/b)
+[^c-81a1ee14a41b6293d9af18b2b25727cd]: Commencement: S. 31 in operation at 28.4.2022, see [s. 30(1)(b)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/b)
 
-[^key-3366c7e154c4df17028b34b95b668252]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-3366c7e154c4df17028b34b95b668252]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-520e670aaddea117c6ad0473240a680c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-520e670aaddea117c6ad0473240a680c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-34df223a054a622f30806462abb06238]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-34df223a054a622f30806462abb06238]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-ff8b1e567668de2144e4bb00e0e8054c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-ff8b1e567668de2144e4bb00e0e8054c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-27706874623c5d3035836f13dfdad194]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-27706874623c5d3035836f13dfdad194]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-a9c9eb9596373459cd5649f80f14495d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-a9c9eb9596373459cd5649f80f14495d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-09e2295b89acff86468656677b1740cc]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-09e2295b89acff86468656677b1740cc]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-69d59504292948b3520591b8ef8f3ebe]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-69d59504292948b3520591b8ef8f3ebe]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-a477a948437c7c98efe10e6d2fefbb7a]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-a477a948437c7c98efe10e6d2fefbb7a]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-ca4dddc9faeca6585c28c20a3f0331ab]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/5) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-ca4dddc9faeca6585c28c20a3f0331ab]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/5) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-0dffdad30b5b003b56d11e8cbef745aa]: Commencement: Sch. 2 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-0dffdad30b5b003b56d11e8cbef745aa]: Commencement: Sch. 2 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-40c398b146eaed360cc5c74c0e330f4f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-40c398b146eaed360cc5c74c0e330f4f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-dd9a2a92d1217569b7bd8f560057e888]: Commencement: Sch. 2 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-dd9a2a92d1217569b7bd8f560057e888]: Commencement: Sch. 2 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-d94fc7d39803c647fe157f6cf6eb8608]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-d94fc7d39803c647fe157f6cf6eb8608]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-0360daa8bdf79bff2d5ce462add9655d]: Commencement: Sch. 2 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-0360daa8bdf79bff2d5ce462add9655d]: Commencement: Sch. 2 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-42ce2a62d8df568aa0d5b107d0512a0d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-42ce2a62d8df568aa0d5b107d0512a0d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-a7161e87c4d75b538c8dbd24615bcfb0]: Commencement: Sch. 2 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-a7161e87c4d75b538c8dbd24615bcfb0]: Commencement: Sch. 2 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-7882cf33e246473e3c6430ddaa00986a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-7882cf33e246473e3c6430ddaa00986a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-7d50f9a3f00ae150af91404689783e21]: Commencement: Sch. 2 para. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-7d50f9a3f00ae150af91404689783e21]: Commencement: Sch. 2 para. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-367ccf560997dc9f663c13eb67f11ba5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/5) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-367ccf560997dc9f663c13eb67f11ba5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/5) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-96593827f8a9a218a0b63cc9d9f263fc]: Commencement: Sch. 2 para. 6 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-96593827f8a9a218a0b63cc9d9f263fc]: Commencement: Sch. 2 para. 6 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-6e5c512af2741ee27d4d01e8ca5543cf]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/6) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-6e5c512af2741ee27d4d01e8ca5543cf]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/6) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-54f3ffa0d23fa962fb005b097fc40784]: Commencement: Sch. 2 para. 7 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-54f3ffa0d23fa962fb005b097fc40784]: Commencement: Sch. 2 para. 7 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-e1e9e6ede7f647dc2c24cae505c73694]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/7) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-e1e9e6ede7f647dc2c24cae505c73694]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/7) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-ef131ba903463bd015c1ea8d913e7cc5]: Commencement: Sch. 2 para. 8 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-ef131ba903463bd015c1ea8d913e7cc5]: Commencement: Sch. 2 para. 8 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-3b476c11d81a62035afec7de8b2d10f0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/8) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-3b476c11d81a62035afec7de8b2d10f0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/8) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-23e9faeff0620a3d6ab479dfa13872ed]: Commencement: Sch. 2 para. 9 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-23e9faeff0620a3d6ab479dfa13872ed]: Commencement: Sch. 2 para. 9 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-173442ffd95199ecbd06332aa53ce015]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/9) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-173442ffd95199ecbd06332aa53ce015]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/9) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-fa2b04b73bc80d2a1e2c3ada2f644b44]: Commencement: Sch. 2 para. 10 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-fa2b04b73bc80d2a1e2c3ada2f644b44]: Commencement: Sch. 2 para. 10 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-97bb3416993422061811e6f77bf953c7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/10) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-97bb3416993422061811e6f77bf953c7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/10) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-01d63cd4db4884e450197e937cd677e8]: Commencement: Sch. 3 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-01d63cd4db4884e450197e937cd677e8]: Commencement: Sch. 3 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-623de11b7897c255a19a513f321a208b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
+[^c-623de11b7897c255a19a513f321a208b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/1) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
 
-[^key-e5574434c3bf06042d5092e45b18d128]: Commencement: Sch. 3 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-e5574434c3bf06042d5092e45b18d128]: Commencement: Sch. 3 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-222d6a09c531d0567719a33ceef1e426]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
+[^c-222d6a09c531d0567719a33ceef1e426]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/2) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
 
-[^key-2f46aae39af03a9751bc6845e23e41e7]: Commencement: Sch. 3 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-2f46aae39af03a9751bc6845e23e41e7]: Commencement: Sch. 3 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-403a7400cd0bee610ecdd7c88bcf5a19]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
+[^c-403a7400cd0bee610ecdd7c88bcf5a19]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/3) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
 
-[^key-0b90a2b121bc31983cebee0e2e942b6d]: Commencement: Sch. 3 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-0b90a2b121bc31983cebee0e2e942b6d]: Commencement: Sch. 3 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-2aa4920203843cf6842de392474466aa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
+[^c-2aa4920203843cf6842de392474466aa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/3/paragraph/4) in operation at 27.11.2023 by [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2023/188/article/4))
 
-[^key-df676838e928a6a335f49715434eeb8f]: Commencement: Sch. 4 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-df676838e928a6a335f49715434eeb8f]: Commencement: Sch. 4 para. 1 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-ffba6f02aee5040908a15a6f8bac8fc2]: Commencement: [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/1/b) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-ffba6f02aee5040908a15a6f8bac8fc2]: Commencement: [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/1/b) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
 
-[^key-604f844836f2f07dabd536d80de61148]: Commencement: Sch. 4 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-604f844836f2f07dabd536d80de61148]: Commencement: Sch. 4 para. 2 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-b42b1217331269021a7bb1ca15b416d9]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/2) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-b42b1217331269021a7bb1ca15b416d9]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/2) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
 
-[^key-47f2aa11ab6c212876ccb0f7f6027b00]: Commencement: Sch. 4 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-47f2aa11ab6c212876ccb0f7f6027b00]: Commencement: Sch. 4 para. 3 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-8c425ded9c2e257059a6e8da1a5ac1ab]: Commencement: [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/3/b) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-8c425ded9c2e257059a6e8da1a5ac1ab]: Commencement: [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/3/b) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
 
-[^key-df18a90dadefeba4c0bcceae72325eb1]: Commencement: Sch. 4 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-df18a90dadefeba4c0bcceae72325eb1]: Commencement: Sch. 4 para. 4 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-e717803096adce21d2765939d102b0e0]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/4) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-e717803096adce21d2765939d102b0e0]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/4) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
 
-[^key-c1a7deff15f00bffa44fd7789dc9b5dc]: Commencement: Sch. 4 para. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
+[^c-c1a7deff15f00bffa44fd7789dc9b5dc]: Commencement: Sch. 4 para. 5 not in operation at Royal Assent, see [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2)
 
-[^key-31bb3d7fad7906b63f11e20a2f540c0e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/5) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-31bb3d7fad7906b63f11e20a2f540c0e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/5) in operation at 26.6.2023 by [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)

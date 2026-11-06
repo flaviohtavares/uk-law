@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amount of financial penalties: qualifying revenue[^key-0a309553e91ea3c3dca51c15afab52f0][^key-912c29b8d64845d5eba6edbba152107e][^key-5b2d9eec17194f172dad69375f3da19b]
+## 19. Amount of financial penalties: qualifying revenue[^c-0a309553e91ea3c3dca51c15afab52f0][^c-912c29b8d64845d5eba6edbba152107e][^c-5b2d9eec17194f172dad69375f3da19b]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0a309553e91ea3c3dca51c15afab52f0]: Commencement: S. 19 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-0a309553e91ea3c3dca51c15afab52f0]: Commencement: S. 19 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-912c29b8d64845d5eba6edbba152107e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/15/section/19) in force at 17.10.2024 for specified purposes by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1033/regulation/2)
+[^c-912c29b8d64845d5eba6edbba152107e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/15/section/19) in force at 17.10.2024 for specified purposes by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1033/regulation/2)
 
-[^key-5b2d9eec17194f172dad69375f3da19b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/15/section/19) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/q)
+[^c-5b2d9eec17194f172dad69375f3da19b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/15/section/19) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/q)

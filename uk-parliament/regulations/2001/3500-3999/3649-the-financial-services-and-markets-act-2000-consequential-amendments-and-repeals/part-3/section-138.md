@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Consultation on regulations concerning pension business of friendly societies[^key-226cb76a311a40d58fe1f0b4fe510b3c]
+## 138. Consultation on regulations concerning pension business of friendly societies[^c-226cb76a311a40d58fe1f0b4fe510b3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 180(1) of the Pension Schemes (Northern Ireland) Act 1993 (consultati
 
 ## Annotations
 
-[^key-226cb76a311a40d58fe1f0b4fe510b3c]: Commencement: Art. 138 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-226cb76a311a40d58fe1f0b4fe510b3c]: Commencement: Art. 138 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

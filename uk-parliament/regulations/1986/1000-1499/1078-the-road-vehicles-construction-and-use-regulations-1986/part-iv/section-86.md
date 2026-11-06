@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Distance between motor vehicles and trailers[^key-79132da533d6d69f24cfa07c4980fccb]
+## 86. Distance between motor vehicles and trailers[^c-79132da533d6d69f24cfa07c4980fccb]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79132da533d6d69f24cfa07c4980fccb]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-79132da533d6d69f24cfa07c4980fccb]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

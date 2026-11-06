@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Heated tobacco-free places in Northern Ireland[^key-05003afd95ccb2684258143162468573]
+## 162. Heated tobacco-free places in Northern Ireland[^c-05003afd95ccb2684258143162468573]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05003afd95ccb2684258143162468573]: Commencement: S. 162 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-05003afd95ccb2684258143162468573]: Commencement: S. 162 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)

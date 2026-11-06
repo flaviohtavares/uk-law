@@ -52,7 +52,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) Before Schedule 4 to that Act there shall be inserted new Schedule 3A set out in Schedule 1 to this Act.
 
-## 2. Fire authorities: power to charge[^key-c80dfdaef6d7552b64dd752252b436d6]
+## 2. Fire authorities: power to charge[^c-c80dfdaef6d7552b64dd752252b436d6]
 
 *Extent: E+W*
 
@@ -431,4 +431,4 @@ Section 3
 
 ## Annotations
 
-[^key-c80dfdaef6d7552b64dd752252b436d6]: Textual amendment: S. 2 repealed (7.9.2004 for E. for specified purposes, 1.10.2004 otherwise and 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-c80dfdaef6d7552b64dd752252b436d6]: Textual amendment: S. 2 repealed (7.9.2004 for E. for specified purposes, 1.10.2004 otherwise and 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

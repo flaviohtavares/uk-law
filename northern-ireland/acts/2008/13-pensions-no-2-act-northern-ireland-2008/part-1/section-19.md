@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Personal pension schemes[^key-27e4e26f86b44819588c73cb8babc1ed]
+## 19. Personal pension schemes[^c-27e4e26f86b44819588c73cb8babc1ed]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, a personal pension scheme is a pension scheme tha
 
 ## Annotations
 
-[^key-27e4e26f86b44819588c73cb8babc1ed]: Commencement: S. 19 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-27e4e26f86b44819588c73cb8babc1ed]: Commencement: S. 19 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

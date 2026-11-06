@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 21A. Electricity in respect of which a CFD or investment contract applies[^key-bd336b4c05c1b7948389e7106b4c2fe0]
+## 21A. Electricity in respect of which a CFD or investment contract applies[^c-bd336b4c05c1b7948389e7106b4c2fe0]
 
 SROCs are not to be issued in respect of any electricity in respect of which a CFD or investment contract applies.
 
 ## Annotations
 
-[^key-bd336b4c05c1b7948389e7106b4c2fe0]: Textual amendment: Arts. 21A, 21B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [6](https://www.legislation.gov.uk/ssi/2014/94/article/6) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-bd336b4c05c1b7948389e7106b4c2fe0]: Textual amendment: Arts. 21A, 21B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [6](https://www.legislation.gov.uk/ssi/2014/94/article/6) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

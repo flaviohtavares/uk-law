@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Powers of entry: England[^key-4e771a29d52fe1508d10a4c8ab32e6f8]
+## 25A. Powers of entry: England[^c-4e771a29d52fe1508d10a4c8ab32e6f8]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e771a29d52fe1508d10a4c8ab32e6f8]: Textual amendment: S. 25A inserted (1.10.2015) by [The Council Tax and Non-Domestic Rating (Powers of Entry: Safeguards) (England) Order 2015 (S.I. 2015/982)](https://www.legislation.gov.uk/uksi/2015/982), [arts. 1](https://www.legislation.gov.uk/uksi/2015/982/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/982/article/3/2)
+[^c-4e771a29d52fe1508d10a4c8ab32e6f8]: Textual amendment: S. 25A inserted (1.10.2015) by [The Council Tax and Non-Domestic Rating (Powers of Entry: Safeguards) (England) Order 2015 (S.I. 2015/982)](https://www.legislation.gov.uk/uksi/2015/982), [arts. 1](https://www.legislation.gov.uk/uksi/2015/982/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/982/article/3/2)

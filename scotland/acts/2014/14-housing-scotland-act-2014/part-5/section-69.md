@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Appeals relating to a Part 1A site licence[^key-dd5ab5049e8e73a7adc76148381953cf]
+## 69. Appeals relating to a Part 1A site licence[^c-dd5ab5049e8e73a7adc76148381953cf]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ After section 32L of the 1960 Act (inserted by section 68), insert—
 
 ## Annotations
 
-[^key-dd5ab5049e8e73a7adc76148381953cf]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/14/section/69) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-dd5ab5049e8e73a7adc76148381953cf]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/14/section/69) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

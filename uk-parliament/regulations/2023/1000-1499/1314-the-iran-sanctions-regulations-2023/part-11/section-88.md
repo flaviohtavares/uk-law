@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Exercise of maritime enforcement powers[^key-9b177818d0106d4cdbf67e18d373335a]
+## 88. Exercise of maritime enforcement powers[^c-9b177818d0106d4cdbf67e18d373335a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 (2) The maritime enforcement powers may be exercised for the purpose of enforcing any of the followingâ€”
 
 - (a) a prohibition in any of regulations 28 to 31 (trade prohibitions relating to restricted goods and restricted technology);
-- (b) a prohibition in any of regulations 37 to 40 (trade prohibitions relating to goods of strategic concern and technology of strategic concern[^key-098c7922e320984ac82eb304a2d34d31]);
+- (b) a prohibition in any of regulations 37 to 40 (trade prohibitions relating to goods of strategic concern and technology of strategic concern[^c-098c7922e320984ac82eb304a2d34d31]);
 - (c) a prohibition imposed by a condition of a trade licence in relation to a prohibition mentioned in sub-paragraph (a) or (b).
 
 (3) The maritime enforcement powers may also be exercised in relation to a relevant ship for the purpose ofâ€”
@@ -45,6 +45,6 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 ## Annotations
 
-[^key-9b177818d0106d4cdbf67e18d373335a]: Commencement: Reg. 88 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-9b177818d0106d4cdbf67e18d373335a]: Commencement: Reg. 88 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-098c7922e320984ac82eb304a2d34d31]: Textual amendment: Words in [reg. 88(2)(b)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/88/2/b) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/944/regulation/6)
+[^c-098c7922e320984ac82eb304a2d34d31]: Textual amendment: Words in [reg. 88(2)(b)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/88/2/b) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/944/regulation/6)

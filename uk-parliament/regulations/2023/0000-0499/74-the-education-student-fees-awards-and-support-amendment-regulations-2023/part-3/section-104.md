@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Amendments relating to the ordinary residence requirements for existing protected categories[^key-4557e093413710db61ae218c39af1fd3]
+## 104. Amendments relating to the ordinary residence requirements for existing protected categories[^c-4557e093413710db61ae218c39af1fd3]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4557e093413710db61ae218c39af1fd3]: Commencement: Reg. 104 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-4557e093413710db61ae218c39af1fd3]: Commencement: Reg. 104 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00082]: Footnote: Paragraph 5A was substituted by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5B was inserted by [S.I. 2019/142](https://www.legislation.gov.uk/uksi/2019/142) and amended by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5C was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48). Paragraph 5D was substituted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5E was inserted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5G was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534). Paragraph 6 was amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203).

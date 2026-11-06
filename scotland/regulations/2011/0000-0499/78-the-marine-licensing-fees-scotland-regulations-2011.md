@@ -48,7 +48,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 67(2) and (3)(b) and 316(1)(b) of the Marine and Coastal Access Act 2009[^f00001] and sections 25(1)(b) and (2) and 165(1)(b) of the Marine (Scotland) Act 2010[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-75bf06287c216f1c710f766d6ccc3f2a]
+## 1. Citation, commencement and interpretation[^c-75bf06287c216f1c710f766d6ccc3f2a]
 
 (1) These Regulations may be cited as the Marine Licensing (Fees) (Scotland) Regulations 2011 and come into force on 6th April 2011.
 
@@ -62,17 +62,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (b) in an area or down to a level not previously dredged during the preceding 7 years;
 - “renewable energy structure” means a structure in the Scottish marine area (within the meaning of section 1 of the 2010 Act) or in the Scottish offshore region (within the meaning of section 322(1) of the 2009 Act) constructed for the purposes of generating electricity.
 
-## 2. Determination of fees[^key-165dcb3a6b785decdefc77c5765ae743]
+## 2. Determination of fees[^c-165dcb3a6b785decdefc77c5765ae743]
 
 The fee to accompany an application is to be determined—
 
-- (a) in accordance with regulations 3, 4 and 5 (excluding regulation 5(5))[^key-d967658d54a9dfbc9f7abf09787c4794] in the case of an application made before 1st April 2012;
-- (aa)[^key-0cf012b9d7f724de104b82c83190e4db] in accordance with regulation 3A or 5(5) in the case of an application made before 1st April 2013;
-- (b) in accordance with regulation 6 in the case of an application made on or after 1st April 2012 or, in the case of applications to which regulations 3A or 5(5) apply 1st April 2013[^key-340424349f2ac07c37b335d19eafc554].
+- (a) in accordance with regulations 3, 4 and 5 (excluding regulation 5(5))[^c-d967658d54a9dfbc9f7abf09787c4794] in the case of an application made before 1st April 2012;
+- (aa)[^c-0cf012b9d7f724de104b82c83190e4db] in accordance with regulation 3A or 5(5) in the case of an application made before 1st April 2013;
+- (b) in accordance with regulation 6 in the case of an application made on or after 1st April 2012 or, in the case of applications to which regulations 3A or 5(5) apply 1st April 2013[^c-340424349f2ac07c37b335d19eafc554].
 
-## 3. Applications - general[^key-9dde0db98f3f2d99c8d687e198649809]
+## 3. Applications - general[^c-9dde0db98f3f2d99c8d687e198649809]
 
-(1) This regulation applies to any application, other than one to which regulation 3A,[^key-8076222e1a3e785d40c34f701b5d43a8] 4 or 5 applies.
+(1) This regulation applies to any application, other than one to which regulation 3A,[^c-8076222e1a3e785d40c34f701b5d43a8] 4 or 5 applies.
 
 (2) Where in the opinion of the Scottish Ministers the activity for which a licence is sought forms part of a larger project, the fee is to be determined by reference to what the Scottish Ministers consider to be the likely cost of carrying out that project.
 
@@ -89,7 +89,7 @@ The fee to accompany an application is to be determined—
 - (g) is greater than £20 million but no greater than £50 million, the fee is £20,000;
 - (h) is greater than £50 million, the fee is £30,000.
 
-## 3A. Applications – generating stations[^key-4d4dce4c3269ca15af9f2400a9685023]
+## 3A. Applications – generating stations[^c-4d4dce4c3269ca15af9f2400a9685023]
 
 (1) This regulation applies to an application for a licence in respect of any of the following actions required in relation to a renewable energy structure:—
 
@@ -112,7 +112,7 @@ The fee to accompany an application is to be determined—
 - (g) is greater than £20 million but no greater than £50 million, the fee is £27,575;
 - (h) is greater than £50 million, the fee is £41,360.
 
-## 4. Applications – maintenance dredging[^key-fac8c13cb435b5b7dfddf23195737fce]
+## 4. Applications – maintenance dredging[^c-fac8c13cb435b5b7dfddf23195737fce]
 
 (1) This regulation applies to an application for a licence in respect of the disposal of materials dredged from the seabed in connection with maintenance works.
 
@@ -140,7 +140,7 @@ The fee to accompany an application is to be determined—
 - (b) of more than 1 year but no more than 2 years, the fee is £16,450;
 - (c) of more than 2 years but no more than 3 years, the fee is £23,500.
 
-## 5. Applications – capital dredging[^key-89414256906af0735a38c0eef03e66f3]
+## 5. Applications – capital dredging[^c-89414256906af0735a38c0eef03e66f3]
 
 (1) This regulation applies to an application for a licence in respect of the disposal of materials dredged from the seabed in the course of capital dredging.
 
@@ -162,7 +162,7 @@ The fee to accompany an application is to be determined—
 - (b) of more than 1 year but no more than 2 years, the fee is £12,250;
 - (c) of more than 2 years but no more than 3 years, the fee is £17,500.
 
-(5) Where the application seeks a licence to dispose of more than 300,000 tons in connection with the construction of a renewable energy structure, the fee payable is £34,475[^key-5ec01034b21924ebe3e831dac846593f].
+(5) Where the application seeks a licence to dispose of more than 300,000 tons in connection with the construction of a renewable energy structure, the fee payable is £34,475[^c-5ec01034b21924ebe3e831dac846593f].
 
 (6) In a case not falling within paragraph (5), where the application seeks a licence to dispose of more than 300,000 tons over a period—
 
@@ -170,9 +170,9 @@ The fee to accompany an application is to be determined—
 - (b) of more than 1 year but no more than 2 years, the fee is £20,562;
 - (c) of more than 2 years but no more than 3 years, the fee is £29,374.
 
-## 6. Applications made on or after 1st April 2012[^key-2c15b091dc91b8125cfaaa72810d0790]
+## 6. Applications made on or after 1st April 2012[^c-2c15b091dc91b8125cfaaa72810d0790]
 
-(1) Subject to paragraph (4), the[^key-bcb254ad5a2f3259c604bb29ec2e8966] fees payable in respect of applications are to be varied with effect from 1st April each year and the fee to accompany an application made on or after 1st April 2012 is to be determined in accordance with paragraph (2).
+(1) Subject to paragraph (4), the[^c-bcb254ad5a2f3259c604bb29ec2e8966] fees payable in respect of applications are to be varied with effect from 1st April each year and the fee to accompany an application made on or after 1st April 2012 is to be determined in accordance with paragraph (2).
 
 (2) The fee payable in respect of an application is to be determined in accordance with the formula—
 
@@ -186,9 +186,9 @@ Where—
 
 (3) In paragraph (2), “licensing year” means a period of 12 months starting on 1st April.
 
-(4)[^key-2d12f0395c0cd1d0359f1d432599d704] In respect of applications made before 1st April 2013 and to which regulation 3A or 5(5) applies, paragraphs (1) and (2) apply with the modification that in paragraph (1) “1st April 2012” is to be read as “1st April 2013”.
+(4)[^c-2d12f0395c0cd1d0359f1d432599d704] In respect of applications made before 1st April 2013 and to which regulation 3A or 5(5) applies, paragraphs (1) and (2) apply with the modification that in paragraph (1) “1st April 2012” is to be read as “1st April 2013”.
 
-## 7. Reduced fee[^key-a77d7c1a1fdc8220ae66e6a3673943f0]
+## 7. Reduced fee[^c-a77d7c1a1fdc8220ae66e6a3673943f0]
 
 (1) The Scottish Ministers may decide that a reduced fee is payable in respect of an application in the circumstances specified in paragraph (2).
 
@@ -221,34 +221,34 @@ Regulation 3 makes provision as to fees for all applications, other than applica
 
 [^f00002]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5).
 
-[^key-75bf06287c216f1c710f766d6ccc3f2a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/78/regulation/1) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-75bf06287c216f1c710f766d6ccc3f2a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/78/regulation/1) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
 
-[^key-165dcb3a6b785decdefc77c5765ae743]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/78/regulation/2) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-165dcb3a6b785decdefc77c5765ae743]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/78/regulation/2) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
 
-[^key-d967658d54a9dfbc9f7abf09787c4794]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/ssi/2011/78/regulation/2/a) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2012/183/regulation/3/a)
+[^c-d967658d54a9dfbc9f7abf09787c4794]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/ssi/2011/78/regulation/2/a) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2012/183/regulation/3/a)
 
-[^key-0cf012b9d7f724de104b82c83190e4db]: Textual amendment: [Reg. 2(aa)](https://www.legislation.gov.uk/ssi/2011/78/regulation/2/aa) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/183/regulation/3/b)
+[^c-0cf012b9d7f724de104b82c83190e4db]: Textual amendment: [Reg. 2(aa)](https://www.legislation.gov.uk/ssi/2011/78/regulation/2/aa) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/183/regulation/3/b)
 
-[^key-340424349f2ac07c37b335d19eafc554]: Textual amendment: Words in [reg. 2(b)](https://www.legislation.gov.uk/ssi/2011/78/regulation/2/b) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2012/183/regulation/3/c)
+[^c-340424349f2ac07c37b335d19eafc554]: Textual amendment: Words in [reg. 2(b)](https://www.legislation.gov.uk/ssi/2011/78/regulation/2/b) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2012/183/regulation/3/c)
 
-[^key-9dde0db98f3f2d99c8d687e198649809]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/78/regulation/3) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-9dde0db98f3f2d99c8d687e198649809]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/78/regulation/3) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
 
-[^key-8076222e1a3e785d40c34f701b5d43a8]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/3/1) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [4](https://www.legislation.gov.uk/ssi/2012/183/regulation/4)
+[^c-8076222e1a3e785d40c34f701b5d43a8]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/3/1) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [4](https://www.legislation.gov.uk/ssi/2012/183/regulation/4)
 
-[^key-4d4dce4c3269ca15af9f2400a9685023]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2011/78/regulation/3A) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/183/regulation/5)
+[^c-4d4dce4c3269ca15af9f2400a9685023]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2011/78/regulation/3A) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/183/regulation/5)
 
-[^key-fac8c13cb435b5b7dfddf23195737fce]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/78/regulation/4) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-fac8c13cb435b5b7dfddf23195737fce]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/78/regulation/4) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
 
-[^key-89414256906af0735a38c0eef03e66f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/78/regulation/5) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-89414256906af0735a38c0eef03e66f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/78/regulation/5) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
 
-[^key-5ec01034b21924ebe3e831dac846593f]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/ssi/2011/78/regulation/5/5) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [6](https://www.legislation.gov.uk/ssi/2012/183/regulation/6)
+[^c-5ec01034b21924ebe3e831dac846593f]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/ssi/2011/78/regulation/5/5) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [6](https://www.legislation.gov.uk/ssi/2012/183/regulation/6)
 
-[^key-2c15b091dc91b8125cfaaa72810d0790]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/78/regulation/6) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-2c15b091dc91b8125cfaaa72810d0790]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/78/regulation/6) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
 
-[^key-bcb254ad5a2f3259c604bb29ec2e8966]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/6/1) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2012/183/regulation/7/a)
+[^c-bcb254ad5a2f3259c604bb29ec2e8966]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/6/1) substituted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2012/183/regulation/7/a)
 
 [^f00003]: Footnote: Consumer Prices Index figures can be obtained from the website of the Office for National Statistics (www.ons.gov.uk).
 
-[^key-2d12f0395c0cd1d0359f1d432599d704]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2011/78/regulation/6/4) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2012/183/regulation/7/b)
+[^c-2d12f0395c0cd1d0359f1d432599d704]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2011/78/regulation/6/4) inserted (29.6.2012) by [The Marine Licensing (Fees) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/183)](https://www.legislation.gov.uk/ssi/2012/183), [regs. 1](https://www.legislation.gov.uk/ssi/2012/183/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2012/183/regulation/7/b)
 
-[^key-a77d7c1a1fdc8220ae66e6a3673943f0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/78/regulation/7) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)
+[^c-a77d7c1a1fdc8220ae66e6a3673943f0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/78/regulation/7) in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/78/regulation/1/1)

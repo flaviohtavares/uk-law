@@ -22,7 +22,7 @@ summary: ''
 
 (1) The cash equivalent of an employment-related benefit is to be treated as earnings from the employment for the tax year in which it is provided.
 
-(2) The cash equivalent of an employment-related benefit is the cost of the benefit less any part of that cost made good by the employee , to the persons providing the benefit, on or before 6 July following the tax year in which it is provided[^key-f1bed8c3bfe681e8da2ad4c2c2426590].
+(2) The cash equivalent of an employment-related benefit is the cost of the benefit less any part of that cost made good by the employee , to the persons providing the benefit, on or before 6 July following the tax year in which it is provided[^c-f1bed8c3bfe681e8da2ad4c2c2426590].
 
 (3) The cost of an employment-related benefit is determined in accordance with section 204 unless—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1bed8c3bfe681e8da2ad4c2c2426590]: Textual amendment: Words in s. 203(2) substituted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/13)
+[^c-f1bed8c3bfe681e8da2ad4c2c2426590]: Textual amendment: Words in s. 203(2) substituted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Extension of investigatory powers of Revenue and Customs[^key-5224165b5b2be67ce51e38ac91a74059]
+## 88. Extension of investigatory powers of Revenue and Customs[^c-5224165b5b2be67ce51e38ac91a74059]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 12 (which makes provision about the regulation of investigatory powers 
 
 ## Annotations
 
-[^key-5224165b5b2be67ce51e38ac91a74059]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2007/27/section/88) in force at 15.2.2008 by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/219/article/2/b)
+[^c-5224165b5b2be67ce51e38ac91a74059]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2007/27/section/88) in force at 15.2.2008 by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/219/article/2/b)

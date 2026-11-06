@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Commencement and extent of Part XVII.[^key-dd741a60955f2368b9570ba0c8a8aa18]
+## 178. Commencement and extent of Part XVII.[^c-dd741a60955f2368b9570ba0c8a8aa18]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd741a60955f2368b9570ba0c8a8aa18]: Textual amendment: [S. 178](https://www.legislation.gov.uk/ukpga/1980/65/section/178) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-dd741a60955f2368b9570ba0c8a8aa18]: Textual amendment: [S. 178](https://www.legislation.gov.uk/ukpga/1980/65/section/178) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

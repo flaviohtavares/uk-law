@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Regulations: public health declarations[^key-9bd5722b3d663c03784f33efc2a8aa24]
+## 13. Regulations: public health declarations[^c-9bd5722b3d663c03784f33efc2a8aa24]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd5722b3d663c03784f33efc2a8aa24]: Commencement: S. 13 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-9bd5722b3d663c03784f33efc2a8aa24]: Commencement: S. 13 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

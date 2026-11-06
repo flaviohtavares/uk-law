@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Documents to be supplied[^key-8a97b33d4226a95b9bb315f3716c601a]
+## 56. Documents to be supplied[^c-8a97b33d4226a95b9bb315f3716c601a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a97b33d4226a95b9bb315f3716c601a]: Commencement: Reg. 56 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-8a97b33d4226a95b9bb315f3716c601a]: Commencement: Reg. 56 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

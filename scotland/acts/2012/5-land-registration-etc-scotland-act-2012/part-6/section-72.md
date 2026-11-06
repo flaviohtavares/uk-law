@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Discharge of caveat[^key-9f96e774ea26158d0750f18b6b813012]
+## 72. Discharge of caveat[^c-9f96e774ea26158d0750f18b6b813012]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ may at any time discharge the caveat.
 
 ## Annotations
 
-[^key-9f96e774ea26158d0750f18b6b813012]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2012/5/section/72) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9f96e774ea26158d0750f18b6b813012]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2012/5/section/72) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

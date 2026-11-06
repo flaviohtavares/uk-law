@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Duties to applicant whose case is considered for referral or referred[^key-c3f422f57e496370064a554a49ad74aa]
+## 82. Duties to applicant whose case is considered for referral or referred[^c-c3f422f57e496370064a554a49ad74aa]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ but it must secure that suitable accommodation is available for occupation by th
 
 ## Annotations
 
-[^key-c3f422f57e496370064a554a49ad74aa]: Commencement: [S. 82](https://www.legislation.gov.uk/anaw/2014/7/section/82) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 33](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/33)
+[^c-c3f422f57e496370064a554a49ad74aa]: Commencement: [S. 82](https://www.legislation.gov.uk/anaw/2014/7/section/82) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 33](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/33)

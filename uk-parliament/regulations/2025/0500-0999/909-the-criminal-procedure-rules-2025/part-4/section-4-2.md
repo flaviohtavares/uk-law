@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.2. Methods of service[^key-2ef3404c01d1eac158542630ffc17695]
+## 4.2. Methods of service[^c-2ef3404c01d1eac158542630ffc17695]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ef3404c01d1eac158542630ffc17695]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/uksi/2025/909/rule/4.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2ef3404c01d1eac158542630ffc17695]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/uksi/2025/909/rule/4.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

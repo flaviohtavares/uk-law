@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Landlord redress schemes: no Crown status[^key-97d8334180b6349ffb6dff0b9a00cae8]
+## 69. Landlord redress schemes: no Crown status[^c-97d8334180b6349ffb6dff0b9a00cae8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A person exercising functions under a landlord redress scheme (other than the Se
 
 ## Annotations
 
-[^key-97d8334180b6349ffb6dff0b9a00cae8]: Commencement: S. 69 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-97d8334180b6349ffb6dff0b9a00cae8]: Commencement: S. 69 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

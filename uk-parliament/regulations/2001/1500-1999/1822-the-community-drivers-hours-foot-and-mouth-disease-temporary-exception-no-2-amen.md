@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment) Regulations 2001 (revoked)[^key-2e1b2f0b1bb9171b5b101c279f1212d9]
+The Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) (Amendment) Regulations 2001 (revoked)[^c-2e1b2f0b1bb9171b5b101c279f1212d9]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 2nd June 2001
 
-[^key-2e1b2f0b1bb9171b5b101c279f1212d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e1b2f0b1bb9171b5b101c279f1212d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2e1b2f0b1bb9171b5b101c279f1212d9]
+## 1. Citation and commencement[^c-2e1b2f0b1bb9171b5b101c279f1212d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) Regulations 2001[^key-2e1b2f0b1bb9171b5b101c279f1212d9]
+## 2. Amendment of the Community Drivers' Hours (Foot-and-Mouth Disease) (Temporary Exception) (No. 2) Regulations 2001[^c-2e1b2f0b1bb9171b5b101c279f1212d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e1b2f0b1bb9171b5b101c279f1212d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e1b2f0b1bb9171b5b101c279f1212d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2e1b2f0b1bb9171b5b101c279f1212d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e1b2f0b1bb9171b5b101c279f1212d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e1b2f0b1bb9171b5b101c279f1212d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1822) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2e1b2f0b1bb9171b5b101c279f1212d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1822) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

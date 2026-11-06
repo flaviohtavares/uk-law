@@ -40,7 +40,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### Dissolution of Northern Ireland Legal Services Commission
 
-#### 1. Dissolution of Northern Ireland Legal Services Commission[^key-827f1bf65df1a3ca9186f26404de9f56]
+#### 1. Dissolution of Northern Ireland Legal Services Commission[^c-827f1bf65df1a3ca9186f26404de9f56]
 
 (1) On the dissolution date, the Commission is dissolved.
 
@@ -71,17 +71,17 @@ are transferred to the Department.
 
 #### 2. Designation of Director of Legal Aid Casework
 
-(1)[^key-c927c7b3b810d50c1551de1cf67037d2] The Department must designate a civil servant in the Department as the Director of Legal Aid Casework (“**the Director**”).
+(1)[^c-c927c7b3b810d50c1551de1cf67037d2] The Department must designate a civil servant in the Department as the Director of Legal Aid Casework (“**the Director**”).
 
-(2)[^key-80bd80756ab25b168764488917eb136f] The selection of the person to be so designated must be on the basis of merit through fair and open public competition.
+(2)[^c-80bd80756ab25b168764488917eb136f] The selection of the person to be so designated must be on the basis of merit through fair and open public competition.
 
-(3)[^key-7e7f1aa3aee8db7bba203692507856c9] The Director is to carry out the functions of the office on behalf of the Crown.
+(3)[^c-7e7f1aa3aee8db7bba203692507856c9] The Director is to carry out the functions of the office on behalf of the Crown.
 
-(4)[^key-7e7f1aa3aee8db7bba203692507856c9] Service as the Director is service in the Northern Ireland civil service.
+(4)[^c-7e7f1aa3aee8db7bba203692507856c9] Service as the Director is service in the Northern Ireland civil service.
 
-(5)[^key-7e7f1aa3aee8db7bba203692507856c9] The Department must make arrangements for the provision to the Director by civil servants or other persons (or both) of such assistance as the Department considers appropriate.
+(5)[^c-7e7f1aa3aee8db7bba203692507856c9] The Department must make arrangements for the provision to the Director by civil servants or other persons (or both) of such assistance as the Department considers appropriate.
 
-#### 3. Exercise of functions by Director[^key-f890604bfb46324bcbc1298d3a0ab300]
+#### 3. Exercise of functions by Director[^c-f890604bfb46324bcbc1298d3a0ab300]
 
 (1) The Director must—
 
@@ -97,7 +97,7 @@ are transferred to the Department.
 
 (4) Directions and guidance under this section may be revised or withdrawn from time to time.
 
-#### 4. Delegation of functions of Director[^key-75cb44fd085c57085ba37ce664b8f767]
+#### 4. Delegation of functions of Director[^c-75cb44fd085c57085ba37ce664b8f767]
 
 (1) The functions conferred on the Director by any statutory provision may be exercised by, or by employees of, a person authorised by the Director for that purpose.
 
@@ -138,7 +138,7 @@ the authorised person is entitled to treat the contract as repudiated by the Dep
 
 (8) In this section “**authorised person**” means a person authorised for the purposes of this section.
 
-#### 5. Annual report of Director[^key-28f41a61457a756c0b43813c2f99169f]
+#### 5. Annual report of Director[^c-28f41a61457a756c0b43813c2f99169f]
 
 (1) As soon as reasonably practicable after the end of each financial year, the Director must prepare an annual report for the financial year.
 
@@ -158,7 +158,7 @@ the authorised person is entitled to treat the contract as repudiated by the Dep
 
 ### Amendment of law relating to legal aid, civil legal services and criminal defence services
 
-#### 6. Amendment of law relating to legal aid, civil legal services and criminal defence services[^c2227706][^key-a5d00076e397a1fe244b4d0a1b6b5710]
+#### 6. Amendment of law relating to legal aid, civil legal services and criminal defence services[^c2227706][^c-a5d00076e397a1fe244b4d0a1b6b5710]
 
 Schedule2 contains amendments which—
 
@@ -168,11 +168,11 @@ Schedule2 contains amendments which—
 
 ## PART 2 — CORONERS' COURTS
 
-### 7. Lord Chief Justice to be president of the coroners' courts[^key-649ff227b6745a7e464c83dd636c2a9b]
+### 7. Lord Chief Justice to be president of the coroners' courts[^c-649ff227b6745a7e464c83dd636c2a9b]
 
 In section 12(1D) of the Justice (Northern Ireland) Act 2002 (which lists the courts of which the Lord Chief Justice is president) at the end add— “ the coroners' courts ”.
 
-### 8. Presiding coroner[^key-dd3c67c422f47f367f3d0090affe2bab]
+### 8. Presiding coroner[^c-dd3c67c422f47f367f3d0090affe2bab]
 
 (1) The Coroners Act (Northern Ireland) 1959 is amended as follows.
 
@@ -213,7 +213,7 @@ This Act binds the Crown to the full extent authorised or permitted by the const
 
 (4) Any other order under this section is subject to negative resolution.
 
-### 11. Repeals[^key-507e2f5156902673d520901973e534a9][^key-aa03368264148ca240c46e7c7936d37f]
+### 11. Repeals[^c-507e2f5156902673d520901973e534a9][^c-aa03368264148ca240c46e7c7936d37f]
 
 Schedule3 contains repeals.
 
@@ -246,7 +246,7 @@ This Act may be cited as the Legal Aid and Coroners' Courts Act (Northern Irelan
 
 SCHEDULES
 
-## SCHEDULE 1 — TRANSFER OF ASSETS, LIABILITIES AND STAFF OF COMMISSION[^key-9e9b72c256d4350ab73cf48031e33574]
+## SCHEDULE 1 — TRANSFER OF ASSETS, LIABILITIES AND STAFF OF COMMISSION[^c-9e9b72c256d4350ab73cf48031e33574]
 
 Section 1
 
@@ -324,7 +324,7 @@ Section 6
 
 ### The Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (NI 8)
 
-**1.**[^key-5f0d2fd1a703023b3cd628c244b4756e] (1) In Article 2 after paragraph (3) insert—
+**1.**[^c-5f0d2fd1a703023b3cd628c244b4756e] (1) In Article 2 after paragraph (3) insert—
 
 > (4) In this Order—
 >
@@ -437,19 +437,19 @@ Section 6
 
 ### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
 
-**2.**[^key-80f1913354d64f8524a247d172406ce8] In section 103(7) for “the Northern Ireland Legal Services Commission” substitute “ the Department of Justice ”.
+**2.**[^c-80f1913354d64f8524a247d172406ce8] In section 103(7) for “the Northern Ireland Legal Services Commission” substitute “ the Department of Justice ”.
 
 ### The Freedom of Information Act 2000 (c. 36)
 
-**3.**[^key-2cf1716c774bfdbdf95996690a461518] In Part 7 of Schedule 1 omit the entry relating to the Northern Ireland Legal Services Commission.
+**3.**[^c-2cf1716c774bfdbdf95996690a461518] In Part 7 of Schedule 1 omit the entry relating to the Northern Ireland Legal Services Commission.
 
 ### The Proceeds of Crime Act 2002 (c. 29)
 
-**4.**[^key-40027fdec57d6657b7e27e7b927523db] In sections 245C(6)(b) and 252(4A)(b) for “the Northern Ireland Legal Services Commission” substitute “ the Department of Justice ”.
+**4.**[^c-40027fdec57d6657b7e27e7b927523db] In sections 245C(6)(b) and 252(4A)(b) for “the Northern Ireland Legal Services Commission” substitute “ the Department of Justice ”.
 
 ### The Justice (Northern Ireland) Act 2002 (c. 26)
 
-**5.**[^key-11d78e243e74570f9458f50af3fdac3d] In section 46(1) for paragraph (hb) substitute—
+**5.**[^c-11d78e243e74570f9458f50af3fdac3d] In section 46(1) for paragraph (hb) substitute—
 
 > - (hb) the Legal Services Agency Northern Ireland,
 
@@ -465,9 +465,9 @@ Section 6
 
 .
 
-(2)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 2(2) omit the definition of “the Commission”.
+(2)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 2(2) omit the definition of “the Commission”.
 
-(3)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] For Article 3 and the heading to Part 2 immediately before it substitute—
+(3)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] For Article 3 and the heading to Part 2 immediately before it substitute—
 
 > **PART 2 — CIVIL LEGAL SERVICES AND CRIMINAL DEFENCE SERVICES**
 >
@@ -482,9 +482,9 @@ Section 6
 
 .
 
-(4)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] Omit Articles 4 and 5.
+(4)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] Omit Articles 4 and 5.
 
-(5)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 6—
+(5)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 6—
 
 - (a) in paragraph (1) for “Commission” substitute “ Department ”;
 - (b) in paragraph (2) for “The Commission” substitute “ The Department ” and for “the Commission of its functions” substitute “ the Department and the Director of their relevant functions ”;
@@ -499,7 +499,7 @@ Section 6
   .
 - (e) omit paragraphs (4) and (5).
 
-(6)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 7—
+(6)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 7—
 
 - (a) in paragraph (1) for “Commission” substitute “ Department ”, in sub-paragraph (a) for “functions” substitute substitute “ relevant functions ” and in sub-paragraph (b) for “its” substitute “ those ”;
 - (b) in paragraph (2) for “Commission shall have power” substitute “ Department shall have power under paragraph (1) ”, in sub-paragraphs (e) and (f) for “its functions” substitute “ relevant functions ” and omit sub-paragraph (g);
@@ -508,9 +508,9 @@ Section 6
 - (e) in paragraph (6) for “Commission” substitute “ Department or the Director ”;
 - (f) in paragraph (7) for “Commission” substitute “ Department ”.
 
-(7)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] Omit Article 8.
+(7)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] Omit Article 8.
 
-(8)[^key-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 9(1) and (2) for “Commission” substitute “ Department ”.
+(8)[^c-1d986ac96b2f7ee788d9be8c6289b9dc] In Article 9(1) and (2) for “Commission” substitute “ Department ”.
 
 (9) In Article 10 for paragraph (1) substitute—
 
@@ -735,11 +735,11 @@ Section 6
 
 (31) In Article 32 for “Commission” (wherever occurring) substitute “ Department ”.
 
-(32)[^key-6023dd56331e8603308a74f97955ddec] In Article 33(6) for “Commission” substitute “ Department ”.
+(32)[^c-6023dd56331e8603308a74f97955ddec] In Article 33(6) for “Commission” substitute “ Department ”.
 
-(33)[^key-6023dd56331e8603308a74f97955ddec] In Article 34 for “Commission” (wherever occurring) substitute “ Department ”.
+(33)[^c-6023dd56331e8603308a74f97955ddec] In Article 34 for “Commission” (wherever occurring) substitute “ Department ”.
 
-(34)[^key-6023dd56331e8603308a74f97955ddec] In Article 35 for “Commission” (wherever occurring) substitute “ Department ”.
+(34)[^c-6023dd56331e8603308a74f97955ddec] In Article 35 for “Commission” (wherever occurring) substitute “ Department ”.
 
 (35) In Article 36—
 
@@ -750,22 +750,22 @@ Section 6
 
 (37) In Article 46—
 
-- (a)[^key-36ce2636c80bc74cc169473eb11b0291] omit paragraphs (1) to (3);
-- (b)[^key-36ce2636c80bc74cc169473eb11b0291] in paragraph (5) for “4(4), 5, 10(2), 11(9)(b), 15(7)” substitute “10(2)” and after “20(2)(b) or (d),” insert “ 20A, ”;
+- (a)[^c-36ce2636c80bc74cc169473eb11b0291] omit paragraphs (1) to (3);
+- (b)[^c-36ce2636c80bc74cc169473eb11b0291] in paragraph (5) for “4(4), 5, 10(2), 11(9)(b), 15(7)” substitute “10(2)” and after “20(2)(b) or (d),” insert “ 20A, ”;
 - (c) in paragraph (6) after “regulations” insert “ made by the Department ” and omit “or paragraph 2(6) of Schedule 3”.
 
 (38) In Article 47(4) for “Commission” substitute “ Department ”.
 
-(39)[^key-991e9f6f6cd6ce835dcad99bfe55b1d7] In Article 48 omit paragraphs (2) and (3).
+(39)[^c-991e9f6f6cd6ce835dcad99bfe55b1d7] In Article 48 omit paragraphs (2) and (3).
 
-(40)[^key-991e9f6f6cd6ce835dcad99bfe55b1d7] Omit Schedule 1.
+(40)[^c-991e9f6f6cd6ce835dcad99bfe55b1d7] Omit Schedule 1.
 
-(41)[^key-991e9f6f6cd6ce835dcad99bfe55b1d7] In Schedule 2—
+(41)[^c-991e9f6f6cd6ce835dcad99bfe55b1d7] In Schedule 2—
 
 - (a) in paragraphs 1 and 2 for “The Commission” substitute “ The Department ”;
 - (b) in paragraph 4 for “Commission” substitute “ Department ”.
 
-(42)[^key-8f24f6d1b21fa09a5536c40441911b88] Omit Schedule 3.
+(42)[^c-8f24f6d1b21fa09a5536c40441911b88] Omit Schedule 3.
 
 (43) In Schedule 4 in the following provisions (which amend other enactments)—
 
@@ -804,10 +804,10 @@ The provisions are—
   ;
 - (b) in paragraph 2(5) after “Article 31(2) of that Order” insert “ or under Part 3 of the Order of 1981 ” and for the words from “(register” to the end substitute “ or Article 36B of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 ”;
 - (c) in paragraph 4 for “for” substitute “ after ” and for “substitute” substitute “ insert ”;
-- (d)[^key-972904c985d1998211efdd1f8536175e] omit paragraphs 10(a) and 15;
+- (d)[^c-972904c985d1998211efdd1f8536175e] omit paragraphs 10(a) and 15;
 - (e) in paragraph 18 for “for” substitute “ after ” and for “substitute” substitute “ insert ”.
 
-(45)[^key-2e80449767309c96760badb007f01636] In Schedule 5 at the end insert—
+(45)[^c-2e80449767309c96760badb007f01636] In Schedule 5 at the end insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -817,19 +817,19 @@ The provisions are—
 
 ### The Commissioner for Children and Young People (Northern Ireland) Order 2003 (NI 11)
 
-**7.**[^key-b213e2ac993978675a75a5062b674efc] In Schedule 1 omit paragraph 16.
+**7.**[^c-b213e2ac993978675a75a5062b674efc] In Schedule 1 omit paragraph 16.
 
 ### The Criminal Justice (Northern Ireland) Order 2004 (NI 9)
 
-**8.**[^key-72db414a3383432b494f0ef8d868082d] In Article 30(8)(g) for “the Northern Ireland Legal Services Commission” substitute “ the Department of Justice ” and for “the Commission” substitute “ that Department ”.
+**8.**[^c-72db414a3383432b494f0ef8d868082d] In Article 30(8)(g) for “the Northern Ireland Legal Services Commission” substitute “ the Department of Justice ” and for “the Commission” substitute “ that Department ”.
 
 ### The Terrorist Asset-Freezing etc. Act 2010 (c. 38)
 
-**9.**[^key-ed0b4be2127ebaca67efe1f021ced62e] In section 23(1)(d) omit “or the Northern Ireland Legal Services Commission”.
+**9.**[^c-ed0b4be2127ebaca67efe1f021ced62e] In section 23(1)(d) omit “or the Northern Ireland Legal Services Commission”.
 
 ### The Justice Act (Northern Ireland) 2011 (c. 24)
 
-**10.**[^key-0be12ca39409a8316c00020d9cef95fc] In section 84 for subsection (4) substitute—
+**10.**[^c-0be12ca39409a8316c00020d9cef95fc] In section 84 for subsection (4) substitute—
 
 > (4) In Article 46(5) after “20A,” insert “27A,
 
@@ -837,13 +837,13 @@ The provisions are—
 
 ### The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
 
-**11.**[^key-8c32d2005c18179a16f49e2ffb50fa28] In Schedule 6, in paragraph 1(8), in the definition of “relevant authority” for “the chief executive of the Northern Ireland Legal Services Commission” substitute “the Director of Legal Aid Casework designated under section 2 of the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014”.
+**11.**[^c-8c32d2005c18179a16f49e2ffb50fa28] In Schedule 6, in paragraph 1(8), in the definition of “relevant authority” for “the chief executive of the Northern Ireland Legal Services Commission” substitute “the Director of Legal Aid Casework designated under section 2 of the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014”.
 
 ## SCHEDULE 3 — REPEALS
 
 Section 11
 
-### PART 1 — LEGAL AID[^key-71164e6e5994f65914f02625eda6f524]
+### PART 1 — LEGAL AID[^c-71164e6e5994f65914f02625eda6f524]
 
 <table>
 <tbody>
@@ -876,7 +876,7 @@ Section 11
 </tbody>
 </table>
 
-### PART 2 — CORONERS' COURTS[^key-d3a06da7992312e6f3e868f9c491e475]
+### PART 2 — CORONERS' COURTS[^c-d3a06da7992312e6f3e868f9c491e475]
 
 <table>
 <tbody>
@@ -890,70 +890,70 @@ Section 11
 
 ## Annotations
 
-[^key-827f1bf65df1a3ca9186f26404de9f56]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/11/section/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/193/article/2/a)
+[^c-827f1bf65df1a3ca9186f26404de9f56]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/11/section/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/193/article/2/a)
 
-[^key-c927c7b3b810d50c1551de1cf67037d2]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/nia/2014/11/section/2/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
+[^c-c927c7b3b810d50c1551de1cf67037d2]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/nia/2014/11/section/2/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
 
-[^key-80bd80756ab25b168764488917eb136f]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/nia/2014/11/section/2/2) in operation at 2.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 3](https://www.legislation.gov.uk/nisr/2015/193/article/3)
+[^c-80bd80756ab25b168764488917eb136f]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/nia/2014/11/section/2/2) in operation at 2.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 3](https://www.legislation.gov.uk/nisr/2015/193/article/3)
 
-[^key-7e7f1aa3aee8db7bba203692507856c9]: Commencement: [S. 2(3)-(5)](https://www.legislation.gov.uk/nia/2014/11/section/2/3) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
+[^c-7e7f1aa3aee8db7bba203692507856c9]: Commencement: [S. 2(3)-(5)](https://www.legislation.gov.uk/nia/2014/11/section/2/3) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
 
-[^key-f890604bfb46324bcbc1298d3a0ab300]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/11/section/3) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
+[^c-f890604bfb46324bcbc1298d3a0ab300]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/11/section/3) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
 
-[^key-75cb44fd085c57085ba37ce664b8f767]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/11/section/4) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
+[^c-75cb44fd085c57085ba37ce664b8f767]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/11/section/4) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
 
-[^key-28f41a61457a756c0b43813c2f99169f]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/11/section/5) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
+[^c-28f41a61457a756c0b43813c2f99169f]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/11/section/5) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/193/article/2/b)
 
 [^c2227706]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/11/section/6) partly in operation; [s. 6](https://www.legislation.gov.uk/nia/2014/11/section/6) in operation for specified purposes at 18.11.2014 see [s. 12(2)(d)](https://www.legislation.gov.uk/nia/2014/11/section/12/2/d)
 
-[^key-a5d00076e397a1fe244b4d0a1b6b5710]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/11/section/6) in operation at 1.4.2015 for specified purposes by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-a5d00076e397a1fe244b4d0a1b6b5710]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/11/section/6) in operation at 1.4.2015 for specified purposes by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
-[^key-649ff227b6745a7e464c83dd636c2a9b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/11/section/7) in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/359/article/2/a)
+[^c-649ff227b6745a7e464c83dd636c2a9b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/11/section/7) in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/359/article/2/a)
 
-[^key-dd3c67c422f47f367f3d0090affe2bab]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/11/section/8) in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b)
+[^c-dd3c67c422f47f367f3d0090affe2bab]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/11/section/8) in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/359/article/2/b)
 
-[^key-507e2f5156902673d520901973e534a9]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/11/section/11) in operation at 1.4.2015 for specified purposes by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/193/article/2/c)
+[^c-507e2f5156902673d520901973e534a9]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/11/section/11) in operation at 1.4.2015 for specified purposes by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/193/article/2/c)
 
-[^key-aa03368264148ca240c46e7c7936d37f]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/11/section/11) in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/359/article/2/c)
+[^c-aa03368264148ca240c46e7c7936d37f]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/11/section/11) in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/359/article/2/c)
 
-[^key-9e9b72c256d4350ab73cf48031e33574]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/193/article/2/d)
+[^c-9e9b72c256d4350ab73cf48031e33574]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/193/article/2/d)
 
-[^key-5f0d2fd1a703023b3cd628c244b4756e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
+[^c-5f0d2fd1a703023b3cd628c244b4756e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
 
-[^key-80f1913354d64f8524a247d172406ce8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/2) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
+[^c-80f1913354d64f8524a247d172406ce8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/2) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
 
-[^key-2cf1716c774bfdbdf95996690a461518]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/3) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
+[^c-2cf1716c774bfdbdf95996690a461518]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/3) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
 
-[^key-40027fdec57d6657b7e27e7b927523db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/4) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
+[^c-40027fdec57d6657b7e27e7b927523db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/4) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
 
-[^key-11d78e243e74570f9458f50af3fdac3d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/5) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
+[^c-11d78e243e74570f9458f50af3fdac3d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/5) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(i)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/i)
 
 [^c2227709]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6) partly in operation; [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6) in operation for specified purposes at 18.11.2014 see [s. 12(2)(d)](https://www.legislation.gov.uk/nia/2014/11/section/12/2/d)
 
-[^key-1d986ac96b2f7ee788d9be8c6289b9dc]: Commencement: [Sch. 2 para. 6(2)-(8)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/2) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ii)
+[^c-1d986ac96b2f7ee788d9be8c6289b9dc]: Commencement: [Sch. 2 para. 6(2)-(8)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/2) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ii)
 
-[^key-6023dd56331e8603308a74f97955ddec]: Commencement: [Sch. 2 para. 6(32)-(34)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/32) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(iii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/iii)
+[^c-6023dd56331e8603308a74f97955ddec]: Commencement: [Sch. 2 para. 6(32)-(34)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/32) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(iii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/iii)
 
-[^key-36ce2636c80bc74cc169473eb11b0291]: Commencement: [Sch. 2 para. 6(37)(a)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/37/a)[(b)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/37/b) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(iv)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/iv)
+[^c-36ce2636c80bc74cc169473eb11b0291]: Commencement: [Sch. 2 para. 6(37)(a)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/37/a)[(b)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/37/b) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(iv)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/iv)
 
-[^key-991e9f6f6cd6ce835dcad99bfe55b1d7]: Commencement: [Sch. 2 para. 6(39)-(41)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/39) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(v)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/v)
+[^c-991e9f6f6cd6ce835dcad99bfe55b1d7]: Commencement: [Sch. 2 para. 6(39)-(41)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/39) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(v)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/v)
 
-[^key-8f24f6d1b21fa09a5536c40441911b88]: Commencement: [Sch. 2 para. 6(42)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/42) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(vi)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/vi)
+[^c-8f24f6d1b21fa09a5536c40441911b88]: Commencement: [Sch. 2 para. 6(42)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/42) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(vi)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/vi)
 
-[^key-972904c985d1998211efdd1f8536175e]: Commencement: [Sch. 2 para. 6(44)(d)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/44/d) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(vii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/vii)
+[^c-972904c985d1998211efdd1f8536175e]: Commencement: [Sch. 2 para. 6(44)(d)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/44/d) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(vii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/vii)
 
-[^key-2e80449767309c96760badb007f01636]: Commencement: [Sch. 2 para. 6(45)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/45) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(viii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/viii)
+[^c-2e80449767309c96760badb007f01636]: Commencement: [Sch. 2 para. 6(45)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/6/45) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(viii)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/viii)
 
-[^key-b213e2ac993978675a75a5062b674efc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/7) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
+[^c-b213e2ac993978675a75a5062b674efc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/7) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
 
-[^key-72db414a3383432b494f0ef8d868082d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/8) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
+[^c-72db414a3383432b494f0ef8d868082d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/8) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
 
-[^key-ed0b4be2127ebaca67efe1f021ced62e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/9) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
+[^c-ed0b4be2127ebaca67efe1f021ced62e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/9) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
 
-[^key-0be12ca39409a8316c00020d9cef95fc]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/10) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
+[^c-0be12ca39409a8316c00020d9cef95fc]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/10) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
 
-[^key-8c32d2005c18179a16f49e2ffb50fa28]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/11) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
+[^c-8c32d2005c18179a16f49e2ffb50fa28]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/11) in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(ix)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/ix)
 
-[^key-71164e6e5994f65914f02625eda6f524]: Commencement: Sch. 3 Pt. 1 in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
+[^c-71164e6e5994f65914f02625eda6f524]: Commencement: Sch. 3 Pt. 1 in operation at 1.4.2015 by [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
 
-[^key-d3a06da7992312e6f3e868f9c491e475]: Commencement: Sch. 3 Pt. 2 in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/d)
+[^c-d3a06da7992312e6f3e868f9c491e475]: Commencement: Sch. 3 Pt. 2 in operation at 1.11.2015 by [S.R. 2015/359](https://www.legislation.gov.uk/nisr/2015/359), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/359/article/2/d)

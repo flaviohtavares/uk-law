@@ -23,14 +23,14 @@ summary: ''
 (1) This regulation applies to—
 
 - (a) the Member of Parliament for any constituency in Northern Ireland;
-- (b)[^key-ac621f9f839ff95d2d8773b053fb8f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ac621f9f839ff95d2d8773b053fb8f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) each Member of the Northern Ireland Assembly; and
 - (d) each councillor for a district electoral area in Northern Ireland.
 
 (2) For the purposes of regulation 101(1) the relevant part of the documents listed in that provision—
 
 - (a) in the case of a Member of Parliament or of the Northern Ireland Assembly, is so much of them as relate to the constituency which he represents;
-- (b)[^key-6239c7cd9a8b74139da1b05d12bd4a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6239c7cd9a8b74139da1b05d12bd4a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the case of a councillor for a district electoral area, is so much of them as relate to that area.
 
 (3) No person to whom this regulation applies who has been supplied with a copy of the register may—
@@ -45,6 +45,6 @@ otherwise than for purposes in connection with the office by virtue of which he 
 
 ## Annotations
 
-[^key-ac621f9f839ff95d2d8773b053fb8f06]: Textual amendment: [Reg. 102(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/102/1/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-ac621f9f839ff95d2d8773b053fb8f06]: Textual amendment: [Reg. 102(1)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/102/1/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-6239c7cd9a8b74139da1b05d12bd4a71]: Textual amendment: [Reg. 102(2)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/102/2/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-6239c7cd9a8b74139da1b05d12bd4a71]: Textual amendment: [Reg. 102(2)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/102/2/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

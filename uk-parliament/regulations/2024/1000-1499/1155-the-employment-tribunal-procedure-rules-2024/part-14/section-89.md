@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. Irregular sending of documents[^key-863b8b68d3cea1177845d67c770d9796]
+## 89. Irregular sending of documents[^c-863b8b68d3cea1177845d67c770d9796]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Tribunal may treat any document as having been received by a person, notwith
 
 ## Annotations
 
-[^key-863b8b68d3cea1177845d67c770d9796]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2024/1155/rule/89) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-863b8b68d3cea1177845d67c770d9796]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2024/1155/rule/89) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

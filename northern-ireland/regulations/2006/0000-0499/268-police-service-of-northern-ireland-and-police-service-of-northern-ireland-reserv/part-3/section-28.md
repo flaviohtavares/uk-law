@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Increase of awards by reference to the Pensions (Increase) Acts[^key-848d2723fffada8bf4dcd533c37179ce]
+## 28. Increase of awards by reference to the Pensions (Increase) Acts[^c-848d2723fffada8bf4dcd533c37179ce]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-848d2723fffada8bf4dcd533c37179ce]: Commencement: Reg. 28 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-848d2723fffada8bf4dcd533c37179ce]: Commencement: Reg. 28 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00012]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56)
 

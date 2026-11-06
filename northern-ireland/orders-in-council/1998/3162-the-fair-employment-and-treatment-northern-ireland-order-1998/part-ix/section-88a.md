@@ -23,7 +23,7 @@ summary: ''
 (1) Paragraphs (3) to (6) apply if—
 
 - (a) the Agency—
-  - (i) has taken action under any of Articles 88ZA to 88ZC[^key-2839ddbbd5676159c74ddcdb5a40830c] in a case, and
+  - (i) has taken action under any of Articles 88ZA to 88ZC[^c-2839ddbbd5676159c74ddcdb5a40830c] in a case, and
   - (ii) issues a certificate in writing stating that a compromise has been reached in the case, and
 - (b) all of the terms of the compromise are set out—
   - (i) in a single relevant document, or
@@ -67,4 +67,4 @@ summary: ''
 
 [^c22332991]: Textual amendment: [Art. 88A](https://www.legislation.gov.uk/nisi/1998/3162/article/88A) inserted (3.4.2011) by [Employment Act (Northern Ireland) 2011 (c. 13)](https://www.legislation.gov.uk/nia/2011/13), [ss. 14](https://www.legislation.gov.uk/nia/2011/13/section/14), [17(1)](https://www.legislation.gov.uk/nia/2011/13/section/17/1); [S.R. 2011/159](https://www.legislation.gov.uk/nisr/2011/159), [art. 2](https://www.legislation.gov.uk/nisr/2011/159/article/2)
 
-[^key-2839ddbbd5676159c74ddcdb5a40830c]: Textual amendment: Words in [art. 88A(1)(a)(i)](https://www.legislation.gov.uk/nisi/1998/3162/article/88A/1/a/i) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(3)(c)](https://www.legislation.gov.uk/nia/2016/15/section/5/3/c), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
+[^c-2839ddbbd5676159c74ddcdb5a40830c]: Textual amendment: Words in [art. 88A(1)(a)(i)](https://www.legislation.gov.uk/nisi/1998/3162/article/88A/1/a/i) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(3)(c)](https://www.legislation.gov.uk/nia/2016/15/section/5/3/c), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)

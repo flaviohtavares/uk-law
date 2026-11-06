@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Condition relating to youth – claimants aged 20 or over but under 25[^key-5b294c3e490c431fb5356217fd9d9fca]
+## 10. Condition relating to youth – claimants aged 20 or over but under 25[^c-5b294c3e490c431fb5356217fd9d9fca]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b294c3e490c431fb5356217fd9d9fca]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/219/regulation/10) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-5b294c3e490c431fb5356217fd9d9fca]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/219/regulation/10) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

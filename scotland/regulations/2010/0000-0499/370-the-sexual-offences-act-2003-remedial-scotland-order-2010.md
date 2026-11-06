@@ -34,7 +34,7 @@ Order made by the Scottish Ministers, laid before the Scottish Parliament under 
 
 Criminal Law
 
-The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2010 (revoked)[^key-d30c01f77317d7414b102b6905b57d9d]
+The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2010 (revoked)[^c-d30c01f77317d7414b102b6905b57d9d]
 
 Made
 
@@ -46,30 +46,30 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1(1)
 
-[^key-d30c01f77317d7414b102b6905b57d9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d30c01f77317d7414b102b6905b57d9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-d30c01f77317d7414b102b6905b57d9d]
+## 1. Citation, commencement, extent and interpretation[^c-d30c01f77317d7414b102b6905b57d9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2003 Act[^key-d30c01f77317d7414b102b6905b57d9d]
+## 2. Amendment of the 2003 Act[^c-d30c01f77317d7414b102b6905b57d9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d30c01f77317d7414b102b6905b57d9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d30c01f77317d7414b102b6905b57d9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendments to the 2003 Act[^key-d30c01f77317d7414b102b6905b57d9d]
+## 4. Consequential amendments to the 2003 Act[^c-d30c01f77317d7414b102b6905b57d9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d30c01f77317d7414b102b6905b57d9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d30c01f77317d7414b102b6905b57d9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d30c01f77317d7414b102b6905b57d9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d30c01f77317d7414b102b6905b57d9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d30c01f77317d7414b102b6905b57d9d]: Textual amendment: Order revoked (28.1.2011) by [The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45)](https://www.legislation.gov.uk/ssi/2011/45), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1), [5](https://www.legislation.gov.uk/ssi/2011/45/article/5)
+[^c-d30c01f77317d7414b102b6905b57d9d]: Textual amendment: Order revoked (28.1.2011) by [The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45)](https://www.legislation.gov.uk/ssi/2011/45), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1), [5](https://www.legislation.gov.uk/ssi/2011/45/article/5)

@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Transfers out (affected by repeal, see note)[^key-55e6f94c332b09284fac03067ecf9b2d][^key-de9b827c01ebc2a042a04f509abadd56][^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+## 94. Transfers out (affected by repeal, see note)[^c-55e6f94c332b09284fac03067ecf9b2d][^c-de9b827c01ebc2a042a04f509abadd56][^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
-[^key-de9b827c01ebc2a042a04f509abadd56]
+[^c-de9b827c01ebc2a042a04f509abadd56]
 
-For the purposes of Chapter 2 of Part 4A *(affected by repeal, see note)*[^key-f4ff113e077177dfd69afa0039c815dc][^f00051] (requirements relating to pension credit benefits) of the 1993 Act, the managers of the Scheme in relation to a pension credit member is the Committee. *(affected by repeal, see note)*[^key-f4ff113e077177dfd69afa0039c815dc]
+For the purposes of Chapter 2 of Part 4A *(affected by repeal, see note)*[^c-f4ff113e077177dfd69afa0039c815dc][^f00051] (requirements relating to pension credit benefits) of the 1993 Act, the managers of the Scheme in relation to a pension credit member is the Committee. *(affected by repeal, see note)*[^c-f4ff113e077177dfd69afa0039c815dc]
 
 ## Annotations
 
-[^key-55e6f94c332b09284fac03067ecf9b2d]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2009/33/regulation/94) in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/33/regulation/1)
+[^c-55e6f94c332b09284fac03067ecf9b2d]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2009/33/regulation/94) in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/33/regulation/1)
 
-[^key-de9b827c01ebc2a042a04f509abadd56]: Modification: [Pt. 10](https://www.legislation.gov.uk/nisr/2009/33/part/10) applied (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2009/34/regulation/13)
+[^c-de9b827c01ebc2a042a04f509abadd56]: Modification: [Pt. 10](https://www.legislation.gov.uk/nisr/2009/33/part/10) applied (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2009/34/regulation/13)
 
-[^key-f4ff113e077177dfd69afa0039c815dc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/33) revoked (except reg. 4 for specified purposes, reg. 6 for specified purposes and reg. 11) (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/2/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [13](https://www.legislation.gov.uk/nisr/2014/189/regulation/13), [14(1)(d)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/d), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
+[^c-f4ff113e077177dfd69afa0039c815dc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/33) revoked (except reg. 4 for specified purposes, reg. 6 for specified purposes and reg. 11) (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/2/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [13](https://www.legislation.gov.uk/nisr/2014/189/regulation/13), [14(1)(d)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/d), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
 
 [^f00051]: Footnote: Part 4A of the Pension Schemes (Northern Ireland) Act 1993 was inserted by the Welfare Reform and Pensions (Northern Ireland) Order 1999, Article 34.

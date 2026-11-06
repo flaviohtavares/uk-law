@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Electoral Commission’s annual report: spoilt ballot papers[^key-095f2896d153047be7414d5e3d40bf22][^key-f79b9468c8257fa46fb6037bfa5a0f07]
+## 65. Electoral Commission’s annual report: spoilt ballot papers[^c-095f2896d153047be7414d5e3d40bf22][^c-f79b9468c8257fa46fb6037bfa5a0f07]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-095f2896d153047be7414d5e3d40bf22]: Commencement: S. 65 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-095f2896d153047be7414d5e3d40bf22]: Commencement: S. 65 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-f79b9468c8257fa46fb6037bfa5a0f07]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2025/4/section/65) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-f79b9468c8257fa46fb6037bfa5a0f07]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2025/4/section/65) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

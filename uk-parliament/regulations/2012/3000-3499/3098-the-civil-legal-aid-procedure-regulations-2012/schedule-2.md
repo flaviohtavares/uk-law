@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Supporting documents: protection of children[^key-c07132728c40d802d8e53eeb383e737f]
+## SCHEDULE 2 — Supporting documents: protection of children[^c-c07132728c40d802d8e53eeb383e737f]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ Regulation 34 (2)
 
 ## Annotations
 
-[^key-c07132728c40d802d8e53eeb383e737f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3098/schedule/2) inserted (8.1.2018) by [The Civil Legal Aid (Procedure) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/1237)](https://www.legislation.gov.uk/uksi/2017/1237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2017/1237/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1237/regulation/3))
+[^c-c07132728c40d802d8e53eeb383e737f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3098/schedule/2) inserted (8.1.2018) by [The Civil Legal Aid (Procedure) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/1237)](https://www.legislation.gov.uk/uksi/2017/1237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2017/1237/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1237/regulation/3))

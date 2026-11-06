@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Zootechnical Standards (Amendment) (Wales) Regulations 2008 (revoked)[^key-36fdcbf3b536f548fe17c6a68a4a0661]
+The Zootechnical Standards (Amendment) (Wales) Regulations 2008 (revoked)[^c-36fdcbf3b536f548fe17c6a68a4a0661]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 2 May 2008
 
-[^key-36fdcbf3b536f548fe17c6a68a4a0661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36fdcbf3b536f548fe17c6a68a4a0661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-36fdcbf3b536f548fe17c6a68a4a0661]
+## 1. Title, application and commencement[^c-36fdcbf3b536f548fe17c6a68a4a0661]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-36fdcbf3b536f548fe17c6a68a4a0661]
+## 2. Amendments[^c-36fdcbf3b536f548fe17c6a68a4a0661]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36fdcbf3b536f548fe17c6a68a4a0661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36fdcbf3b536f548fe17c6a68a4a0661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-36fdcbf3b536f548fe17c6a68a4a0661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36fdcbf3b536f548fe17c6a68a4a0661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36fdcbf3b536f548fe17c6a68a4a0661]: Textual amendment: Regulations revoked (9.10.2015) by [The Zootechnical Standards (Wales) Regulations 2015 (S.I. 2015/1686)](https://www.legislation.gov.uk/wsi/2015/1686), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2015/1686/regulation/1/3), [13(b)](https://www.legislation.gov.uk/wsi/2015/1686/regulation/13/b)
+[^c-36fdcbf3b536f548fe17c6a68a4a0661]: Textual amendment: Regulations revoked (9.10.2015) by [The Zootechnical Standards (Wales) Regulations 2015 (S.I. 2015/1686)](https://www.legislation.gov.uk/wsi/2015/1686), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2015/1686/regulation/1/3), [13(b)](https://www.legislation.gov.uk/wsi/2015/1686/regulation/13/b)

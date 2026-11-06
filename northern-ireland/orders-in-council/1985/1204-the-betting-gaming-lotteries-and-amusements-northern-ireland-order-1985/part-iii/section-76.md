@@ -46,7 +46,7 @@ and, if the regulations so provide, those particulars comprise such matters as t
   - (ii) in respect of any losses incurred by any person in that bingo; or
 - (b) accept a cheque and give in exchange for it cash or tokens for enabling any person to take part in that bingo.
 
-(7) Bingo shall not take place on any bingo club premises on any Christmas Day[^key-50feeb49547fd3f41bff3265ec1cad02].
+(7) Bingo shall not take place on any bingo club premises on any Christmas Day[^c-50feeb49547fd3f41bff3265ec1cad02].
 
 (8) Regulations may—
 
@@ -66,4 +66,4 @@ and, if the regulations so provide, those particulars comprise such matters as t
 
 [^c17001321]: Textual amendment: SR 2001/414
 
-[^key-50feeb49547fd3f41bff3265ec1cad02]: Textual amendment: Words in [art. 76(7)](https://www.legislation.gov.uk/nisi/1985/1204/article/76/7) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 6(1)](https://www.legislation.gov.uk/nia/2022/14/section/6/1), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-50feeb49547fd3f41bff3265ec1cad02]: Textual amendment: Words in [art. 76(7)](https://www.legislation.gov.uk/nisi/1985/1204/article/76/7) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 6(1)](https://www.legislation.gov.uk/nia/2022/14/section/6/1), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

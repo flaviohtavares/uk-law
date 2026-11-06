@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Termination of registration[^key-035294b098b4785b33a57030d1199c15][^key-a4e79178ab2368d8e812c42b9c6308c2]
+## 100. Termination of registration[^c-035294b098b4785b33a57030d1199c15][^c-a4e79178ab2368d8e812c42b9c6308c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ the registration of the ship shall terminate.
 
 ## Annotations
 
-[^key-035294b098b4785b33a57030d1199c15]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/1993/3138/regulation/100) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-035294b098b4785b33a57030d1199c15]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/1993/3138/regulation/100) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-a4e79178ab2368d8e812c42b9c6308c2]: Modification: [Reg. 100](https://www.legislation.gov.uk/uksi/1993/3138/regulation/100) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)
+[^c-a4e79178ab2368d8e812c42b9c6308c2]: Modification: [Reg. 100](https://www.legislation.gov.uk/uksi/1993/3138/regulation/100) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.193A. Approval of income payments agreements[^key-6b4bdc321feca16cded57229ab349ada]
+## 6.193A. Approval of income payments agreements[^c-6b4bdc321feca16cded57229ab349ada]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b4bdc321feca16cded57229ab349ada]: Textual amendment: [Pt. 6 Ch. 16A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/16A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/39)
+[^c-6b4bdc321feca16cded57229ab349ada]: Textual amendment: [Pt. 6 Ch. 16A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/16A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/39)

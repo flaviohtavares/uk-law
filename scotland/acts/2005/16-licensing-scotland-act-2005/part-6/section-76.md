@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Issue of licence[^key-2a20dec1579909deef55764cb1107047]
+## 76. Issue of licence[^c-2a20dec1579909deef55764cb1107047]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) A personal licence is void if, at the time it is issued under subsection (1), the individual to whom it is issued already holds a personal licence.
 
-(4)[^key-4c61fc19a0bb311ff9f2ef3200b5ba3a] A person who holds a void personal licence must surrender it to the Licensing Board.
+(4)[^c-4c61fc19a0bb311ff9f2ef3200b5ba3a] A person who holds a void personal licence must surrender it to the Licensing Board.
 
 (5) A person who, without reasonable excuse, fails to comply with subsection (4) commits an offence.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a20dec1579909deef55764cb1107047]: Commencement: S. 76 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-2a20dec1579909deef55764cb1107047]: Commencement: S. 76 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-4c61fc19a0bb311ff9f2ef3200b5ba3a]: Textual amendment: S. 76(4)-(7) added (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 192(3)](https://www.legislation.gov.uk/asp/2010/13/section/192/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-4c61fc19a0bb311ff9f2ef3200b5ba3a]: Textual amendment: S. 76(4)-(7) added (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 192(3)](https://www.legislation.gov.uk/asp/2010/13/section/192/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

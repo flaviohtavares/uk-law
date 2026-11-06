@@ -54,7 +54,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-ab2543cd51aa1af312ee7cfd4c13a8f7][^key-ab2543cd51aa1af312ee7cfd4c13a8f7]
+### 1. Citation and commencement[^c-ab2543cd51aa1af312ee7cfd4c13a8f7][^c-ab2543cd51aa1af312ee7cfd4c13a8f7]
 
 (1) These Regulations may be cited as the Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019.
 
@@ -65,7 +65,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 - (c) regulations 5 to 8 and Schedules 1 and 2 come into force immediately before exit day;
 - (d) the remaining provisions come into force on exit day.
 
-### 2. Extent[^key-71fea7bf97953ff9dc984962558b9e0e][^key-71fea7bf97953ff9dc984962558b9e0e]
+### 2. Extent[^c-71fea7bf97953ff9dc984962558b9e0e][^c-71fea7bf97953ff9dc984962558b9e0e]
 
 (1) These Regulations extend as follows.
 
@@ -77,7 +77,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 2 — Amendments to subordinate legislation
 
-### 3. Amendments to the Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016[^key-360df7a7dc393384b51e490a0b613f51]
+### 3. Amendments to the Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016[^c-360df7a7dc393384b51e490a0b613f51]
 
 *Extent: E+W+S*
 
@@ -87,7 +87,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 > (14) Commission Implementing Regulation (EU) 2017/2177 of 22 November 2017 [^c23937461] on access to service facilities and rail-related services sets out details of the procedure and criteria to be followed for access to the services and service facilities referred to in paragraphs 2, 3 and 4 of Schedule 2.
 
-### 4. Amendments to the Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) Regulations (Northern Ireland) 2016[^key-5a86f9ff8f59b84d8c86c7f64c657004]
+### 4. Amendments to the Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) Regulations (Northern Ireland) 2016[^c-5a86f9ff8f59b84d8c86c7f64c657004]
 
 *Extent: N.I.*
 
@@ -99,7 +99,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 .
 
-### 5. Amendments to the Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019[^key-f73bfa52a5c7e3cb67a25d6ba4952415]
+### 5. Amendments to the Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019[^c-f73bfa52a5c7e3cb67a25d6ba4952415]
 
 (1) The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 [^c23937491] are amended as follows.
 
@@ -117,18 +117,18 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 .”
 
-### 6. Amendments to the Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019[^key-7cbf828316c8f70f48fdf4c6b19c5010]
+### 6. Amendments to the Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019[^c-7cbf828316c8f70f48fdf4c6b19c5010]
 
 (1) The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 [^c23937501] are amended as follows.
 
 (2) In regulation 2 (amendments to the Railways (Interoperability) Regulations 2011)—
 
 - (a) in paragraph (13)(c), in the new paragraph 9(b), for “after” substitute “ on or after ”;
-- (b) in paragraph (27), in the new regulation 23— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891]
-  - (i (Extent: E+W+S) (affected by repeal, see note))[^key-13d58183ad2447843209012072a30891] in paragraph (2)(a), after “before” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891] “ , on ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891]
-  - (ii (Extent: E+W+S) (affected by repeal, see note))[^key-13d58183ad2447843209012072a30891] in paragraph (4), for “after exit day” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891] “ on or after exit day ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-13d58183ad2447843209012072a30891]
+- (b) in paragraph (27), in the new regulation 23— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891]
+  - (i (Extent: E+W+S) (affected by repeal, see note))[^c-13d58183ad2447843209012072a30891] in paragraph (2)(a), after “before” insert *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891] “ , on ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891]
+  - (ii (Extent: E+W+S) (affected by repeal, see note))[^c-13d58183ad2447843209012072a30891] in paragraph (4), for “after exit day” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891] “ on or after exit day ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-13d58183ad2447843209012072a30891]
 
-### 7. Amendments to the Rail Safety (Amendment etc.) (EU Exit) Regulations 2019[^key-165d566f227f991ad2ec24c9cde05fdf]
+### 7. Amendments to the Rail Safety (Amendment etc.) (EU Exit) Regulations 2019[^c-165d566f227f991ad2ec24c9cde05fdf]
 
 *Extent: E+W+S*
 
@@ -144,7 +144,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
   > - (ii) after paragraph (2), insert—
   >
   >   > (2A) Where in accordance with paragraphs (1) and (2) of this regulation, the applicant has at any time before, on or after exit day submitted a copy of the certificate referred to in paragraph 1(b)(i)(bb) of Schedule 2, that certificate shall cease to be deemed to be Part A of the safety certificate after the second anniversary of exit day and no such certificate submitted after that anniversary shall be deemed to be Part A of the safety certificate.
-  > - (b)[^key-a15890c2970522c9e89647c321aff5e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (b)[^c-a15890c2970522c9e89647c321aff5e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit regulation 14 (amendments to Commission Regulation (EU) No 1077/2012 on a common safety method for supervision by national safety authorities after issuing a safety certificate or safety authorisation).
 
@@ -389,7 +389,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 - (a) in the new Schedule 10 (system of certification of entities in charge of maintenance in respect of Great Britain) to the Railways and Other Guided Transport Systems (Safety) Regulations 2006, in paragraph 31, for “TSIs”, in each place it occurs, substitute “ NTSNs ”;
 - (b) the new Schedule 11 (common safety targets) to the Railways and Other Guided Transport Systems (Safety) Regulations 2006 is amended in the manner set out in Schedule 1 to these Regulations.
 
-### 8. Amendments to the Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019[^key-cb759ee1e96967eddae8009446d98659]
+### 8. Amendments to the Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019[^c-cb759ee1e96967eddae8009446d98659]
 
 *Extent: N.I.*
 
@@ -399,11 +399,11 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 3 — Amendments to retained direct EU legislation
 
-### 9. Amendments to Commission Implementing Regulation (EU) No 869/2014 on new rail passenger services[^key-df3973ae2d4a4feb26f6f47ad78e10c6]
+### 9. Amendments to Commission Implementing Regulation (EU) No 869/2014 on new rail passenger services[^c-df3973ae2d4a4feb26f6f47ad78e10c6]
 
 In Commission Implementing Regulation (EU) No 869/2014 of 11 August 2014 on new rail passenger services, in Article 18 (fees), for “Member States or, where appropriate, regulatory bodies” substitute “ The Office of Rail and Road ”[^c23937571] .
 
-### 10. Amendment to Commission Implementing Regulation (EU) 2017/2177 on access to service facilities and rail-related services[^key-ef64d7ef5674216f6d41ec1b152b709d]
+### 10. Amendment to Commission Implementing Regulation (EU) 2017/2177 on access to service facilities and rail-related services[^c-ef64d7ef5674216f6d41ec1b152b709d]
 
 (1) Commission Implementing Regulation (EU) 2017/2177 of 22 November 2017 on access to service facilities and rail-related services is amended as follows.
 
@@ -532,7 +532,7 @@ In Commission Implementing Regulation (EU) No 869/2014 of 11 August 2014 on new 
 
 (15) After Article 17 (entry into force), omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 11. Amendments to Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012 in respect of Great Britain[^key-6311f85b3297444167efcf5bbd39c85e]
+### 11. Amendments to Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012 in respect of Great Britain[^c-6311f85b3297444167efcf5bbd39c85e]
 
 *Extent: E+W+S*
 
@@ -557,7 +557,7 @@ In Commission Implementing Regulation (EU) No 869/2014 of 11 August 2014 on new 
 
 > **3.**
 >
-> For the purposes of supervision, the national safety authorities shall accept the authorisations, recognitions or certificates of products or services provided by railway undertakings and infrastructure managers, or their contractors, partners or suppliers, if granted or recognised in accordance with relevant legislation applying in any part of the United Kingdom on or after IP completion day[^key-f9d9d6958f779089088a0ea588d14adc], as proof of the ability of railway undertakings and infrastructure managers to fulfil any corresponding safety management system requirements set out in regulations 3(1)(a) and 5(1) to (3) of the Railways and Other Guided Transport Systems (Safety) Regulations 2006.
+> For the purposes of supervision, the national safety authorities shall accept the authorisations, recognitions or certificates of products or services provided by railway undertakings and infrastructure managers, or their contractors, partners or suppliers, if granted or recognised in accordance with relevant legislation applying in any part of the United Kingdom on or after IP completion day[^c-f9d9d6958f779089088a0ea588d14adc], as proof of the ability of railway undertakings and infrastructure managers to fulfil any corresponding safety management system requirements set out in regulations 3(1)(a) and 5(1) to (3) of the Railways and Other Guided Transport Systems (Safety) Regulations 2006.
 
 .
 
@@ -581,7 +581,7 @@ In Commission Implementing Regulation (EU) No 869/2014 of 11 August 2014 on new 
 
 (7) Schedule 3 has effect.
 
-### 12. Amendments to Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012 in respect of Northern Ireland[^key-09cb1aee9f9e701833cace6179b6b9c9]
+### 12. Amendments to Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012 in respect of Northern Ireland[^c-09cb1aee9f9e701833cace6179b6b9c9]
 
 *Extent: N.I.*
 
@@ -626,7 +626,7 @@ In Commission Implementing Regulation (EU) No 869/2014 of 11 August 2014 on new 
 
 (7) Schedule 3 has effect.
 
-### 13. Amendment to Commission Implementing Regulation 2018/1795 laying down procedure and criteria for the application of the economic equilibrium test pursuant to Article 11 of Directive 2012/34/EU of the European Parliament and of the Council[^key-0dd17e07ceb6e80e7eda9b836ccd980d]
+### 13. Amendment to Commission Implementing Regulation 2018/1795 laying down procedure and criteria for the application of the economic equilibrium test pursuant to Article 11 of Directive 2012/34/EU of the European Parliament and of the Council[^c-0dd17e07ceb6e80e7eda9b836ccd980d]
 
 In Commission Implementing Regulation (EU) 2018/1795 of 20 November 2018 laying down procedure and criteria for the application of the economic equilibrium test pursuant to Article 11 of Directive 2012/34/EU of the European Parliament and of the Council, in Article 13 (fees), omit the words “A Member State or”.
 
@@ -644,9 +644,9 @@ Department for Transport
 
 Regulation 7(8)(b)
 
-**1.**[^key-d3e0f257d0c7ca7ac5a8d4f9480b69be] In the Schedule to the Rail Safety (Amendment etc.) (EU Exit) Regulations 2006, the new Schedule 11 (common safety targets) to be inserted into the Railways and Other Guided Transport Systems (Safety) Regulations 2006 is amended as follows.
+**1.**[^c-d3e0f257d0c7ca7ac5a8d4f9480b69be] In the Schedule to the Rail Safety (Amendment etc.) (EU Exit) Regulations 2006, the new Schedule 11 (common safety targets) to be inserted into the Railways and Other Guided Transport Systems (Safety) Regulations 2006 is amended as follows.
 
-**2.**[^key-c818a5c5586afaedcc6607152a0dcc87] In paragraph 14, in the first column of the table—
+**2.**[^c-c818a5c5586afaedcc6607152a0dcc87] In paragraph 14, in the first column of the table—
 
 - (a) for “Passengers” substitute “ Risks to passengers ”;
 - (b) for “Employees” substitute “ Risks to staff or employees, including the staff of contractors ”;
@@ -655,13 +655,13 @@ Regulation 7(8)(b)
 - (e) for “Unauthorised persons on railway premises” substitute “ Risks to unauthorised persons on railway premises ”;
 - (f) for “Whole society” substitute “ Risk to society as a whole ”.
 
-**3.**[^key-a1c6cdf4070df85bd1a86058382209d4] In paragraph 16, in the second column of the table—
+**3.**[^c-a1c6cdf4070df85bd1a86058382209d4] In paragraph 16, in the second column of the table—
 
 - (a) for “Risk to employees” substitute “ Risks to staff or employees, including the staff of contractors ”;
 - (b) for “Risk to persons classified as others” substitute “ Risks to others ”;
 - (c) for “Societal risk” substitute “ Risk to society as a whole ”.
 
-**4.**[^key-2af57458c2844d7e0562b05c057a43ab] In paragraph 17, for the words “Risk to employees” in the first column of the table, substitute “ Risks to staff or employees, including the staff of contractors ”.
+**4.**[^c-2af57458c2844d7e0562b05c057a43ab] In paragraph 17, for the words “Risk to employees” in the first column of the table, substitute “ Risks to staff or employees, including the staff of contractors ”.
 
 ## SCHEDULE 2 — Amendments to Schedule to the Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019
 
@@ -669,15 +669,15 @@ Regulation 7(8)(b)
 
 Regulation 8(2)
 
-**1.**[^key-1e65858044579e4112585d9f90aeef60] In the Schedule to the Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019, the new Schedule 7 (common safety targets) to be inserted into the Railways (Safety Management) Regulations (Northern Ireland) 2006 is amended as follows.
+**1.**[^c-1e65858044579e4112585d9f90aeef60] In the Schedule to the Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019, the new Schedule 7 (common safety targets) to be inserted into the Railways (Safety Management) Regulations (Northern Ireland) 2006 is amended as follows.
 
-**2.**[^key-f9ae7f74a5dd103ad05ca28c70ae94e4] In paragraph 2, for the definition of “risk to whole”, substitute—
+**2.**[^c-f9ae7f74a5dd103ad05ca28c70ae94e4] In paragraph 2, for the definition of “risk to whole”, substitute—
 
 > “**risk to society as a whole**” means the collective risk to all categories of persons listed in Article 7(4)(a) of the Directive;
 
 .
 
-**3.**[^key-88610eb71f03bd65aa1cf16f2bd9b10e] In paragraph 14, in the first column of the table—
+**3.**[^c-88610eb71f03bd65aa1cf16f2bd9b10e] In paragraph 14, in the first column of the table—
 
 - (a) for “Passengers” substitute “ Risks to passengers ”;
 - (b) for “Employees” substitute “ Risks to staff or employees, including the staff of contractors ”;
@@ -686,19 +686,19 @@ Regulation 8(2)
 - (e) for “Unauthorised persons on railway premises” substitute “ Risks to unauthorised persons on railway premises ”;
 - (f) for “Whole society” substitute “ Risk to society as a whole ”.
 
-**4.**[^key-d6cbbdfd512ad6807435ffd76ec528f8] In paragraph 16, in the second column of the table—
+**4.**[^c-d6cbbdfd512ad6807435ffd76ec528f8] In paragraph 16, in the second column of the table—
 
 - (a) for “Risks to employees” substitute “ Risks to staff or employees, including the staff of contractors ”;
 - (b) for “Risks to persons classified as others” substitute “ Risks to others ”;
 - (c) for “Societal risk” substitute “ Risk to society as a whole ”.
 
-**5.**[^key-d026274874e8a2e8309efec37b29fdd5] In paragraph 17, for the words “Risk to employees” in the first column of the table, substitute “ Risks to staff or employees, including the staff of contractors ”.
+**5.**[^c-d026274874e8a2e8309efec37b29fdd5] In paragraph 17, for the words “Risk to employees” in the first column of the table, substitute “ Risks to staff or employees, including the staff of contractors ”.
 
-## SCHEDULE 3 — Flowchart to be inserted into Commission Delegated Regulation (EU) 2018/761[^key-04a1df72e3266d1f250fdbac7625394b]
+## SCHEDULE 3 — Flowchart to be inserted into Commission Delegated Regulation (EU) 2018/761[^c-04a1df72e3266d1f250fdbac7625394b]
 
 Regulations 11(7), 12(7)
 
-[^key-04a1df72e3266d1f250fdbac7625394b]
+[^c-04a1df72e3266d1f250fdbac7625394b]
 
 For the flowchart in the Appendix to Annex I of Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012, substitute the following flowchart.
 
@@ -720,39 +720,39 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937441]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
 
-[^key-ab2543cd51aa1af312ee7cfd4c13a8f7]: Commencement: Reg. 1 in force at 8.10.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/a)
+[^c-ab2543cd51aa1af312ee7cfd4c13a8f7]: Commencement: Reg. 1 in force at 8.10.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/a)
 
-[^key-71fea7bf97953ff9dc984962558b9e0e]: Commencement: Reg. 2 in force at 8.10.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/a)
+[^c-71fea7bf97953ff9dc984962558b9e0e]: Commencement: Reg. 2 in force at 8.10.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/a)
 
-[^key-360df7a7dc393384b51e490a0b613f51]: Commencement: Reg. 3 in force at 28.10.2019, see reg. 1(2)(b)
+[^c-360df7a7dc393384b51e490a0b613f51]: Commencement: Reg. 3 in force at 28.10.2019, see reg. 1(2)(b)
 
 [^c23937451]: Marginal citation: [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), amended by [S.I. 2019/82](https://www.legislation.gov.uk/uksi/2019/82) and S.I 2019/518; SI 2019/518, with the exception of regulations 9(a), 13(b) and (c) and 21(b), which implement permitted derogations under European legislation, is not yet in force.
 
 [^c23937461]: Marginal citation: OJ No. L 307, 23.11.2017, p. 1.
 
-[^key-5a86f9ff8f59b84d8c86c7f64c657004]: Commencement: Reg. 4 in force at 28.10.2019, see reg. 1(2)(b)
+[^c-5a86f9ff8f59b84d8c86c7f64c657004]: Commencement: Reg. 4 in force at 28.10.2019, see reg. 1(2)(b)
 
 [^c23937471]: Marginal citation: S.R. [2016 No. 420](https://www.legislation.gov.uk/ukcm/2016/420), amended by S. R. [2019 No. 15](https://www.legislation.gov.uk/ukcm/2019/15); prospectively amended by [S.I. 2019/826](https://www.legislation.gov.uk/uksi/2019/826).
 
 [^c23937481]: Marginal citation: OJ L 307, 23.11.2017, p. 1.
 
-[^key-f73bfa52a5c7e3cb67a25d6ba4952415]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-f73bfa52a5c7e3cb67a25d6ba4952415]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
 [^c23937491]: Marginal citation: [S.I. 2019/518](https://www.legislation.gov.uk/uksi/2019/518).
 
-[^key-7cbf828316c8f70f48fdf4c6b19c5010]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-7cbf828316c8f70f48fdf4c6b19c5010]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
 [^c23937501]: Marginal citation: [S.I. 2019/345](https://www.legislation.gov.uk/uksi/2019/345).
 
-[^key-13d58183ad2447843209012072a30891]: Textual amendment: Reg. 6(2)(b) omitted (E.W.S.) (31.12.2020 immediately before S.I. 2019/1310, regs. 6, 7 come into force) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/ii), [8(2)](https://www.legislation.gov.uk/uksi/2020/786/regulation/8/2)
+[^c-13d58183ad2447843209012072a30891]: Textual amendment: Reg. 6(2)(b) omitted (E.W.S.) (31.12.2020 immediately before S.I. 2019/1310, regs. 6, 7 come into force) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/ii), [8(2)](https://www.legislation.gov.uk/uksi/2020/786/regulation/8/2)
 
-[^key-165d566f227f991ad2ec24c9cde05fdf]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-165d566f227f991ad2ec24c9cde05fdf]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
 [^c23937511]: Marginal citation: [S.I. 2019/837](https://www.legislation.gov.uk/uksi/2019/837).
 
 [^c23937521]: Marginal citation: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599); relevant amendments are made by [S.I. 2007/3531](https://www.legislation.gov.uk/uksi/2007/3531), 2013/950 and 2015/1682 and prospective amendments by [S.I. 2019/837](https://www.legislation.gov.uk/uksi/2019/837).
 
-[^key-a15890c2970522c9e89647c321aff5e9]: Textual amendment: Reg. 7(2)(b) omitted (31.12.2020 immediately before S.I. 2019/1310, regs. 6, 7 come into force) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/ii), [8(3)](https://www.legislation.gov.uk/uksi/2020/786/regulation/8/3)
+[^c-a15890c2970522c9e89647c321aff5e9]: Textual amendment: Reg. 7(2)(b) omitted (31.12.2020 immediately before S.I. 2019/1310, regs. 6, 7 come into force) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/ii), [8(3)](https://www.legislation.gov.uk/uksi/2020/786/regulation/8/3)
 
 [^c23937531]: Marginal citation: [S.I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066); prospectively amended by [S.I. 2019/345](https://www.legislation.gov.uk/uksi/2019/345); there are other amending instruments but none is relevant.
 
@@ -760,48 +760,48 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937551]: Marginal citation: S.R. [2006 No. 237](https://www.legislation.gov.uk/ukcm/2006/237), prospectively amended by [S.I. 2019/825](https://www.legislation.gov.uk/uksi/2019/825); there are other amending instruments but none is relevant.
 
-[^key-cb759ee1e96967eddae8009446d98659]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-cb759ee1e96967eddae8009446d98659]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
 [^c23937561]: Marginal citation: [S.I. 2019/825](https://www.legislation.gov.uk/uksi/2019/825).
 
-[^key-df3973ae2d4a4feb26f6f47ad78e10c6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-df3973ae2d4a4feb26f6f47ad78e10c6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
 
 [^c23937571]: Marginal citation: The Office of Rail and Road was established by section 15 of the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20) as the Office of Rail Regulation and subsequently renamed by the Office of Rail Regulation (Change of Name) Regulations (S.I 2015/1682).
 
-[^key-ef64d7ef5674216f6d41ec1b152b709d]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-ef64d7ef5674216f6d41ec1b152b709d]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
 
 [^c23937581]: Marginal citation: [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), amended by [S.I. 2019/82](https://www.legislation.gov.uk/uksi/2019/82) and prospectively amended by [S.I. 2019/518](https://www.legislation.gov.uk/uksi/2019/518).
 
 [^c23937591]: Marginal citation: S.R [2016 No. 429](https://www.legislation.gov.uk/ukcm/2016/429), amended by SR [2016 No. 15](https://www.legislation.gov.uk/ukcm/2016/15) and prospectively amended by [S.I. 2019/826](https://www.legislation.gov.uk/uksi/2019/826).
 
-[^key-6311f85b3297444167efcf5bbd39c85e]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-6311f85b3297444167efcf5bbd39c85e]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
 
-[^key-f9d9d6958f779089088a0ea588d14adc]: Textual amendment: Words in reg. 11(4) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [8(4)](https://www.legislation.gov.uk/uksi/2020/786/regulation/8/4)
+[^c-f9d9d6958f779089088a0ea588d14adc]: Textual amendment: Words in reg. 11(4) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [8(4)](https://www.legislation.gov.uk/uksi/2020/786/regulation/8/4)
 
 [^c23937601]: Marginal citation: The European Union Agency for Railways is established under Article 1 of Regulation (EU) 2016/796 of the European Union and of the Parliament of 11 May 2016 on the European Union Agency for Railways and repealing Regulation (EC) No 881/2004 (O.J. No. L138, 26.5.2016, p1).
 
 [^c23937611]: Marginal citation: O.J. No. L138, 26.5.2016, p.102.
 
-[^key-09cb1aee9f9e701833cace6179b6b9c9]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-09cb1aee9f9e701833cace6179b6b9c9]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
 
-[^key-0dd17e07ceb6e80e7eda9b836ccd980d]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-0dd17e07ceb6e80e7eda9b836ccd980d]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
 
-[^key-d3e0f257d0c7ca7ac5a8d4f9480b69be]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-d3e0f257d0c7ca7ac5a8d4f9480b69be]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-c818a5c5586afaedcc6607152a0dcc87]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-c818a5c5586afaedcc6607152a0dcc87]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-a1c6cdf4070df85bd1a86058382209d4]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-a1c6cdf4070df85bd1a86058382209d4]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-2af57458c2844d7e0562b05c057a43ab]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-2af57458c2844d7e0562b05c057a43ab]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-1e65858044579e4112585d9f90aeef60]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-1e65858044579e4112585d9f90aeef60]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-f9ae7f74a5dd103ad05ca28c70ae94e4]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-f9ae7f74a5dd103ad05ca28c70ae94e4]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-88610eb71f03bd65aa1cf16f2bd9b10e]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-88610eb71f03bd65aa1cf16f2bd9b10e]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-d6cbbdfd512ad6807435ffd76ec528f8]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-d6cbbdfd512ad6807435ffd76ec528f8]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-d026274874e8a2e8309efec37b29fdd5]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-d026274874e8a2e8309efec37b29fdd5]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
-[^key-04a1df72e3266d1f250fdbac7625394b]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-04a1df72e3266d1f250fdbac7625394b]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)

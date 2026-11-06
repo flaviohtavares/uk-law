@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Other alterations to maintained schools by governing bodies[^key-2d05737115d8eb194aa2b5a0a38f093f]
+## 4. Other alterations to maintained schools by governing bodies[^c-2d05737115d8eb194aa2b5a0a38f093f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d05737115d8eb194aa2b5a0a38f093f]: Commencement: Reg. 4 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-2d05737115d8eb194aa2b5a0a38f093f]: Commencement: Reg. 4 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

@@ -22,11 +22,11 @@ summary: ''
 
 Article 29
 
-### 1. Compensation enactments[^key-3feccba40b5f8eab1e4568a82ba4f0d3]
+### 1. Compensation enactments[^c-3feccba40b5f8eab1e4568a82ba4f0d3]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply in respect of compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-3e636657a4e9679114bce5259afe527a] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**2.**[^c-3e636657a4e9679114bce5259afe527a] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -40,25 +40,25 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-**3.**[^key-821170ee2d91a5736e21fc6f18e50f53] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00108] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-821170ee2d91a5736e21fc6f18e50f53] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00108] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection) of the Land Compensation Act 1973, as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-### 4. Application of the 1965 Act[^key-d04c8cbf297f80fe54ff55d28288d1f6]
+### 4. Application of the 1965 Act[^c-d04c8cbf297f80fe54ff55d28288d1f6]
 
-Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 34 (modification of Part 1 of the 1965 Act)[^key-ed9f74e62883d74c2a2602a4f0a7b09b]... of this Order) to the acquisition of land under article 26 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 29 (compulsory acquisition of rights and imposition of restrictive covenants)—
+Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 34 (modification of Part 1 of the 1965 Act)[^c-ed9f74e62883d74c2a2602a4f0a7b09b]... of this Order) to the acquisition of land under article 26 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 29 (compulsory acquisition of rights and imposition of restrictive covenants)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-dd9ab551a45780ae58b95e5ff7b9d602] (1) The modification referred to in paragraph 4(a) are as follows.
+**5.**[^c-dd9ab551a45780ae58b95e5ff7b9d602] (1) The modification referred to in paragraph 4(a) are as follows.
 
-(2) References in the 1965[^key-61f7cb5c23c20e6cf010b5db44e1168d] Act to land are, in the appropriate contexts, to be read (according to the requirements of the context) as referring to, or as including references to—
+(2) References in the 1965[^c-61f7cb5c23c20e6cf010b5db44e1168d] Act to land are, in the appropriate contexts, to be read (according to the requirements of the context) as referring to, or as including references to—
 
-- (a) the right acquired or to be acquired, or the restrictive covenant imposed , or[^key-2816fa719e462bf469204cc69d127b74] to be imposed; or
+- (a) the right acquired or to be acquired, or the restrictive covenant imposed , or[^c-2816fa719e462bf469204cc69d127b74] to be imposed; or
 - (b) the land over which the right is or is to be exercisable, or the restrictive covenant is or is to be enforceable.
 
 (3) For section 7 (measure of compensation) of the 1965 Act substitute—
@@ -92,7 +92,7 @@ are modified so as to secure that, as against persons with interests in the land
 >
 > (1) This Schedule applies where an acquiring authority serves a notice to treat in respect of a right over, or restrictive covenant affecting, the whole or part of a house, building or factory and has not executed a general vesting declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 as applied by article 35 (application of the 1981 Act) of the A46 Coventry Junctions (Walsgrave) Development Consent Order 2026 in respect of the land to which the notice to treat relates.
 >
-> (2) But see article 36(3) (acquisition of subsoil and airspace only) of the A46 Coventry Junctions (Walsgrave) [^key-ae212d8db4ecaf1d17e448c84c66e3d8]... Development Consent Order 2026 which excludes the acquisition of subsoil or airspace only from this Schedule.
+> (2) But see article 36(3) (acquisition of subsoil and airspace only) of the A46 Coventry Junctions (Walsgrave) [^c-ae212d8db4ecaf1d17e448c84c66e3d8]... Development Consent Order 2026 which excludes the acquisition of subsoil or airspace only from this Schedule.
 >
 > **2.** In this Schedule, “**house**” includes any park or garden belonging to a house.
 >
@@ -145,23 +145,23 @@ are modified so as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-3feccba40b5f8eab1e4568a82ba4f0d3]: Commencement: Sch. 7 para. 1 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-3feccba40b5f8eab1e4568a82ba4f0d3]: Commencement: Sch. 7 para. 1 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-3e636657a4e9679114bce5259afe527a]: Commencement: Sch. 7 para. 2 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-3e636657a4e9679114bce5259afe527a]: Commencement: Sch. 7 para. 2 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-821170ee2d91a5736e21fc6f18e50f53]: Commencement: Sch. 7 para. 3 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-821170ee2d91a5736e21fc6f18e50f53]: Commencement: Sch. 7 para. 3 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00108]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-d04c8cbf297f80fe54ff55d28288d1f6]: Commencement: Sch. 7 para. 4 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-d04c8cbf297f80fe54ff55d28288d1f6]: Commencement: Sch. 7 para. 4 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-ed9f74e62883d74c2a2602a4f0a7b09b]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/4) bracket omitted (27.5.2026) by virtue of The A46 [Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-ed9f74e62883d74c2a2602a4f0a7b09b]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/4) bracket omitted (27.5.2026) by virtue of The A46 [Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
-[^key-dd9ab551a45780ae58b95e5ff7b9d602]: Commencement: Sch. 7 para. 5 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-dd9ab551a45780ae58b95e5ff7b9d602]: Commencement: Sch. 7 para. 5 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-61f7cb5c23c20e6cf010b5db44e1168d]: Textual amendment: Word in [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/5/2) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-61f7cb5c23c20e6cf010b5db44e1168d]: Textual amendment: Word in [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/5/2) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
-[^key-2816fa719e462bf469204cc69d127b74]: Textual amendment: Word in [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/5/2/a) inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-2816fa719e462bf469204cc69d127b74]: Textual amendment: Word in [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/5/2/a) inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
 [^f00109]: Footnote: Section 11 was amended by paragraph 14(3) of Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), paragraph 12(1) of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), paragraph 64 of Schedule 1 to the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)), sections 186(2), 187(2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -175,4 +175,4 @@ are modified so as to secure that, as against persons with interests in the land
 
 [^f00114]: Footnote: Section 20 was amended by paragraph 4 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-ae212d8db4ecaf1d17e448c84c66e3d8]: Textual amendment: Word in [Sch. 7 para. 5(8)](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/5/8) omitted (27.5.2026) by virtue of [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-ae212d8db4ecaf1d17e448c84c66e3d8]: Textual amendment: Word in [Sch. 7 para. 5(8)](https://www.legislation.gov.uk/uksi/2026/537/schedule/7/paragraph/5/8) omitted (27.5.2026) by virtue of [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

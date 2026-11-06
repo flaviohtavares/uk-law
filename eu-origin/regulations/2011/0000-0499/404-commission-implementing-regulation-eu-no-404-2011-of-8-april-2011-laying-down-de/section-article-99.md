@@ -25,8 +25,8 @@ During the pre-inspection phase officials shall, where possible, collect all app
 - ((a)) fishing licences and fishing authorisations;
 - ((b)) VMS information corresponding to the current fishing trip;
 - ((c)) aerial surveillance, and other sightings;
-- ((d)) [^key-ed61a4a5339359f55fa8f67cc52e121a]...
+- ((d)) [^c-ed61a4a5339359f55fa8f67cc52e121a]...
 
 ## Annotations
 
-[^key-ed61a4a5339359f55fa8f67cc52e121a]: Textual amendment: [Art. 99(d)](https://www.legislation.gov.uk/eur/2011/404/article/99/d) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(76)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed61a4a5339359f55fa8f67cc52e121a]: Textual amendment: [Art. 99(d)](https://www.legislation.gov.uk/eur/2011/404/article/99/d) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(76)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

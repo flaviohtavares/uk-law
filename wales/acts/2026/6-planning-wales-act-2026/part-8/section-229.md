@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 229. Deemed planning permission for advertisements displayed in accordance with regulations[^key-ab5b2f7437a48426ff6402315195d410]
+## 229. Deemed planning permission for advertisements displayed in accordance with regulations[^c-ab5b2f7437a48426ff6402315195d410]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ planning permission is to be treated as having been granted for the development.
 
 ## Annotations
 
-[^key-ab5b2f7437a48426ff6402315195d410]: Commencement: S. 229 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ab5b2f7437a48426ff6402315195d410]: Commencement: S. 229 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

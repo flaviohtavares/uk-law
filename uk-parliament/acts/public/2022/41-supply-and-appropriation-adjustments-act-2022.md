@@ -37,7 +37,7 @@ Whereas the Commons of the United Kingdom in Parliament assembled have resolved 
 
 Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Authorisation of supplementary provision for 2022-23[^key-1abf5469ce11e4b68aff3de8fd4f462f]
+## 1. Authorisation of supplementary provision for 2022-23[^c-1abf5469ce11e4b68aff3de8fd4f462f]
 
 (1) The amount up to which the authorisation was conferred for the use of resources for the year ending with 31 March 2023 is to be treated as further increased by £71,351,000,000.
 
@@ -55,7 +55,7 @@ is to be treated as further increased by £71,351,000,000.
 
 (4) The increases for which this section provides are to be treated as having had effect from the beginning of 1 April 2022.
 
-## 2. Appropriation of supplementary provision for 2022-23[^key-edacafe64a1514b2bdeddab96387cade]
+## 2. Appropriation of supplementary provision for 2022-23[^c-edacafe64a1514b2bdeddab96387cade]
 
 (1) For the purposes of—
 
@@ -74,7 +74,7 @@ the Main Estimates Act 2022 is to be treated as having effect with the adjustmen
 
 (6) The adjustments made by virtue of this section are to be treated as having had effect from the beginning of 1 April 2022.
 
-## 3. Short title[^key-ecbc3d2df4c7304be783025a7e481386]
+## 3. Short title[^c-ecbc3d2df4c7304be783025a7e481386]
 
 This Act may be cited as the Supply and Appropriation (Adjustments) Act 2022.
 
@@ -82,7 +82,7 @@ This Act may be cited as the Supply and Appropriation (Adjustments) Act 2022.
 
 Section 2
 
-**1.**[^key-c4596a45c3445cf05369ad718eaebaeb] (1) In this Schedule, where an asterisk (\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2022 as originally enacted.
+**1.**[^c-c4596a45c3445cf05369ad718eaebaeb] (1) In this Schedule, where an asterisk (\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2022 as originally enacted.
 
 (2) Text which follows an asterisk (\*) is added by this Schedule.
 
@@ -128,10 +128,10 @@ HM Treasury
 
 ## Annotations
 
-[^key-1abf5469ce11e4b68aff3de8fd4f462f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/41/section/1) in force at Royal Assent with effect in accordance with s. 1(4)
+[^c-1abf5469ce11e4b68aff3de8fd4f462f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/41/section/1) in force at Royal Assent with effect in accordance with s. 1(4)
 
-[^key-edacafe64a1514b2bdeddab96387cade]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/41/section/2) in force at Royal Assent with effect in accordance with s. 2(6)
+[^c-edacafe64a1514b2bdeddab96387cade]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/41/section/2) in force at Royal Assent with effect in accordance with s. 2(6)
 
-[^key-ecbc3d2df4c7304be783025a7e481386]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/41/section/3) in force at Royal Assent
+[^c-ecbc3d2df4c7304be783025a7e481386]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/41/section/3) in force at Royal Assent
 
-[^key-c4596a45c3445cf05369ad718eaebaeb]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/41/schedule/paragraph/1) in force at Royal Assent with effect in accordance with s. 2(6)
+[^c-c4596a45c3445cf05369ad718eaebaeb]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/41/schedule/paragraph/1) in force at Royal Assent with effect in accordance with s. 2(6)

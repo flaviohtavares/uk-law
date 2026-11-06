@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 571. Assets of UNITA or persons connected with UNITA: definition of “investments”[^key-f2409318759a49ef54e022fe711b2249]
+## 571. Assets of UNITA or persons connected with UNITA: definition of “investments”[^c-f2409318759a49ef54e022fe711b2249]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In paragraph (4) of article 7 of the Angola (United Nations Sanctions) Order 199
 
 ## Annotations
 
-[^key-f2409318759a49ef54e022fe711b2249]: Commencement: Art. 571 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f2409318759a49ef54e022fe711b2249]: Commencement: Art. 571 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00359]: Footnote: Amended by [S.I. 2000/1106](https://www.legislation.gov.uk/uksi/2000/1106).

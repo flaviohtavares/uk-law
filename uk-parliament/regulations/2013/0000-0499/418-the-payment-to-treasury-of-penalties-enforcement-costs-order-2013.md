@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by paragraph 20(4)(d) and (5)(e) of Schedule 1ZA to the Financial Services and Markets Act 2000[^f00001], paragraph 28(4)(d) and (5)(c) of Schedule 1ZB to that Act and sections 109(4)(b), (6)(d), 110(4)(b), (c), (d) and 115(2) of the Financial Services Act 2012[^f00002], make the following Order.
 
-## 1. Citation, commencement and interpretation[^key-73e5de9540b0fa37e33a259465f6e7d1]
+## 1. Citation, commencement and interpretation[^c-73e5de9540b0fa37e33a259465f6e7d1]
 
 (1) This Order may be cited as the Payment to Treasury of Penalties (Enforcement Costs) Order 2013 and comes into force on 1st April 2013.
 
@@ -55,29 +55,29 @@ The Treasury, in exercise of the powers conferred by paragraph 20(4)(d) and (5)(
 - “the 2012 Act” means the Financial Services Act 2012;
 - “FSMA 2000” means the Financial Services and Markets Act 2000.
 
-## 2. Enforcement powers[^key-8440ed3361ad46c0657f580801499786]
+## 2. Enforcement powers[^c-8440ed3361ad46c0657f580801499786]
 
 (1) The following enactments are specified for the purposes of paragraph 20(4)(d) of Schedule 1ZA to FSMA 2000 (payment to the Treasury of penalties received by Financial Conduct Authority) and section 109(4)(b) of the 2012 Act (payment to Treasury of penalties received by Financial Services Authority)—
 
 - (a) section 359(1)(c) of FSMA 2000 (administration order in relation to a company or insolvent partnership carrying on a regulated activity in contravention of the general prohibition)[^f00003],
 - (b) section 367(1)(c) of FSMA 2000 (winding-up petitions in relation to a body carrying on a regulated activity in contravention of the general prohibition)[^f00004],
 - (c) section 372(1) of FSMA 2000 (bankruptcy petitions)[^f00005] in relation to a individual falling within section 372(7)(b) (individual who is carrying on, or has carried on, a regulated activity in contravention of the general prohibition),
-- (d) regulation 76 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-b1882173bcb60541187efc2a31c79c65],
+- (d) regulation 76 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-b1882173bcb60541187efc2a31c79c65],
 - (e) regulation 11 of the Transfer of Funds (Information on Payer) Regulations 2007[^f00007],
 - (f) regulations 30, 31(1)(c), 33 and 34 of the Regulated Covered Bonds Regulations 2008[^f00008],
-- (g)[^key-de97a1d2e6c355ec5bd1e040c346950e] regulations 110, 111, 113, 114 and 116 of the Payment Services Regulations 2017,
+- (g)[^c-de97a1d2e6c355ec5bd1e040c346950e] regulations 110, 111, 113, 114 and 116 of the Payment Services Regulations 2017,
 - (h) regulations 50, 51, 52, 54, 55 and 57 of the Electronic Money Regulations 2011[^f00010],
-- (i)[^key-6d35b96166912dfb2b7d935df3bb37d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-6d35b96166912dfb2b7d935df3bb37d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) regulations 5, 6, 8 or 9 of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012[^f00012].
-- (k)[^key-f78bae2428531383ff69dbd9d446d894] regulation 9 of the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013.
-- (l)[^key-bffaa1408f20aa8972a1fa6b3c0a6542] regulation 4 of the Central Securities Depositories Regulations 2014.
-- (m)[^key-f1357e93d73ad157071c51bb3613ca7f] regulation 15 of the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016.
-- (n)[^key-075520da4a5f14c3ce261b78ba725e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (o)[^key-538bafd4ac391efc47d9f7e669fe845c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-f78bae2428531383ff69dbd9d446d894] regulation 9 of the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013.
+- (l)[^c-bffaa1408f20aa8972a1fa6b3c0a6542] regulation 4 of the Central Securities Depositories Regulations 2014.
+- (m)[^c-f1357e93d73ad157071c51bb3613ca7f] regulation 15 of the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016.
+- (n)[^c-075520da4a5f14c3ce261b78ba725e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-538bafd4ac391efc47d9f7e669fe845c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations 8 and 9 of the Uncertificated Securities Regulations 2001[^f00013] are specified for the purposes of section 110(4)(b) of the 2012 Act (payment to Treasury of penalties received by Bank of England).
 
-## 3. Relevant offences[^key-cf76b3b8192f30a8b74b01d51a6e9075]
+## 3. Relevant offences[^c-cf76b3b8192f30a8b74b01d51a6e9075]
 
 (1) The offences specified in paragraph (2) are specified for the purposes of—
 
@@ -119,9 +119,9 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00002]: Footnote: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-73e5de9540b0fa37e33a259465f6e7d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/418/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/418/article/1/1)
+[^c-73e5de9540b0fa37e33a259465f6e7d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/418/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/418/article/1/1)
 
-[^key-8440ed3361ad46c0657f580801499786]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/418/article/1/1)
+[^c-8440ed3361ad46c0657f580801499786]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/418/article/1/1)
 
 [^f00003]: Footnote: Substituted by Schedule 17 to the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40). Amended by Schedule 14 to the Financial Services Act 2012.
 
@@ -129,32 +129,32 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00005]: Footnote: Amended by Schedule 14 to the Financial Services Act 2012.
 
-[^key-b1882173bcb60541187efc2a31c79c65]: Textual amendment: Words in art. 2(1)(d) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 30](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/30) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-b1882173bcb60541187efc2a31c79c65]: Textual amendment: Words in art. 2(1)(d) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 30](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/30) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
 [^f00007]: Footnote: [SI 2007/3298](https://www.legislation.gov.uk/uksi/2007/3298).
 
 [^f00008]: Footnote: [SI 2008/346](https://www.legislation.gov.uk/uksi/2008/346).
 
-[^key-de97a1d2e6c355ec5bd1e040c346950e]: Textual amendment: Art. 2(1)(g) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-de97a1d2e6c355ec5bd1e040c346950e]: Textual amendment: Art. 2(1)(g) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00010]: Footnote: [SI 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 
-[^key-6d35b96166912dfb2b7d935df3bb37d4]: Textual amendment: Art. 2(1)(i) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [10(1)](https://www.legislation.gov.uk/uksi/2019/710/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/10/2)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d35b96166912dfb2b7d935df3bb37d4]: Textual amendment: Art. 2(1)(i) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [10(1)](https://www.legislation.gov.uk/uksi/2019/710/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/10/2)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: [SI 2012/3122](https://www.legislation.gov.uk/uksi/2012/3122).
 
-[^key-f78bae2428531383ff69dbd9d446d894]: Textual amendment: Art. 2(1)(k) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/49/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-f78bae2428531383ff69dbd9d446d894]: Textual amendment: Art. 2(1)(k) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/49/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 
-[^key-bffaa1408f20aa8972a1fa6b3c0a6542]: Textual amendment: Art. 2(1)(l) inserted (21.11.2014) by [The Central Securities Depositories Regulations 2014 (S.I. 2014/2879)](https://www.legislation.gov.uk/uksi/2014/2879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2014/2879/regulation/8)
+[^c-bffaa1408f20aa8972a1fa6b3c0a6542]: Textual amendment: Art. 2(1)(l) inserted (21.11.2014) by [The Central Securities Depositories Regulations 2014 (S.I. 2014/2879)](https://www.legislation.gov.uk/uksi/2014/2879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2014/2879/regulation/8)
 
-[^key-f1357e93d73ad157071c51bb3613ca7f]: Textual amendment: Art. 2(1)(m) inserted (13.7.2016) by [The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 (S.I. 2016/715)](https://www.legislation.gov.uk/uksi/2016/715), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/715/schedule/2/paragraph/3/2)
+[^c-f1357e93d73ad157071c51bb3613ca7f]: Textual amendment: Art. 2(1)(m) inserted (13.7.2016) by [The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 (S.I. 2016/715)](https://www.legislation.gov.uk/uksi/2016/715), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/715/schedule/2/paragraph/3/2)
 
-[^key-075520da4a5f14c3ce261b78ba725e8a]: Textual amendment: Art. 2(1)(n) omitted (22.11.2024 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/3); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/b)
+[^c-075520da4a5f14c3ce261b78ba725e8a]: Textual amendment: Art. 2(1)(n) omitted (22.11.2024 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/3); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/b)
 
-[^key-538bafd4ac391efc47d9f7e669fe845c]: Textual amendment: Art. 2(1)(o) omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/4)
+[^c-538bafd4ac391efc47d9f7e669fe845c]: Textual amendment: Art. 2(1)(o) omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/4)
 
 [^f00013]: Footnote: [SI 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).
 
-[^key-cf76b3b8192f30a8b74b01d51a6e9075]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/418/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/418/article/1/1)
+[^c-cf76b3b8192f30a8b74b01d51a6e9075]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/418/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/418/article/1/1)
 
 [^f00014]: Footnote: Amended by Schedule 9 to the 2012 Act.

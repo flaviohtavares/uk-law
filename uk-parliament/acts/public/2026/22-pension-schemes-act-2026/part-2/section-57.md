@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Interpretation of Chapter[^key-763e45a03fdf0b04fd37ea554a8d20e9]
+## 57. Interpretation of Chapter[^c-763e45a03fdf0b04fd37ea554a8d20e9]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-763e45a03fdf0b04fd37ea554a8d20e9]: Commencement: S. 57 not in force at Royal Assent, see [s. 133(4)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/f)
+[^c-763e45a03fdf0b04fd37ea554a8d20e9]: Commencement: S. 57 not in force at Royal Assent, see [s. 133(4)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Persons acting in a representative capacity[^key-dfec420b49f70137164c0624eab5d014]
+## 43. Persons acting in a representative capacity[^c-dfec420b49f70137164c0624eab5d014]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfec420b49f70137164c0624eab5d014]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2017/1/section/43) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-dfec420b49f70137164c0624eab5d014]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2017/1/section/43) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

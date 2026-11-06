@@ -36,9 +36,9 @@ the court to be so specified shall be the sheriff court.
 
 (3) Where an order is made under this section with respect to any sum, any functions under this Part of this Act relating to that sum which, if no such order had been made, would have been exercisable by a magistrates' court in England and Wales or by the designated officer for that court, or by a fines officer[^c19407971] shall cease to be so exercisable.
 
-(3A)[^c18253361] The functions of the court under this Part of this Act[^c19408011] which shall cease to be exercisable by virtue of subsection (3) above shall be deemed to include the court’s power to apply to the Secretary of State under regulations made by him under section 24(1)(a) of the Criminal Justice Act 1991 (power to deduct fines from universal credit and[^key-6cde608f258287c2b67f5bd54c30a40f] income support).
+(3A)[^c18253361] The functions of the court under this Part of this Act[^c19408011] which shall cease to be exercisable by virtue of subsection (3) above shall be deemed to include the court’s power to apply to the Secretary of State under regulations made by him under section 24(1)(a) of the Criminal Justice Act 1991 (power to deduct fines from universal credit and[^c-6cde608f258287c2b67f5bd54c30a40f] income support).
 
-(4)[^key-5d9bacc369b875cd0dd9cb34227a0786] When this section applies to a sum payable by virtue of a conviction under section 16H—
+(4)[^c-5d9bacc369b875cd0dd9cb34227a0786] When this section applies to a sum payable by virtue of a conviction under section 16H—
 
 - (a) a reference to a sum that is the subject of a collection order has effect as a reference to a sum set out in the notice of conviction and penalty (within the meaning of section 16L), and
 - (b) the power in subsection (1) may be exercised by any fines officer.
@@ -59,6 +59,6 @@ the court to be so specified shall be the sheriff court.
 
 [^c19408011]: Textual amendment: Words in s. 90(3A) inserted (3.7.2006) by [The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [art. 50(b)](https://www.legislation.gov.uk/uksi/2006/1737/article/50/b)
 
-[^key-6cde608f258287c2b67f5bd54c30a40f]: Textual amendment: Words in s. 90(3A) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/4/3)
+[^c-6cde608f258287c2b67f5bd54c30a40f]: Textual amendment: Words in s. 90(3A) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/4/3)
 
-[^key-5d9bacc369b875cd0dd9cb34227a0786]: Textual amendment: S. 90(4) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/1/4); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-5d9bacc369b875cd0dd9cb34227a0786]: Textual amendment: S. 90(4) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/1/4); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)

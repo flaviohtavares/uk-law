@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Notice of operation of licensed premises[^key-642a8d20fb97d09c0e9dcee70ea9a805]
+## 11. Notice of operation of licensed premises[^c-642a8d20fb97d09c0e9dcee70ea9a805]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ unless the Department has agreed with the person required to give the notice tha
 
 ## Annotations
 
-[^key-642a8d20fb97d09c0e9dcee70ea9a805]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-642a8d20fb97d09c0e9dcee70ea9a805]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

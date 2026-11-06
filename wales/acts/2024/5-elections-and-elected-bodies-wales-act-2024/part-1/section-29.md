@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Excluded persons[^key-22f7164e5dea4c5ecdc69d1ec6dbf0f4][^key-b1839255c6e68a58bc41f6153563879c]
+## 29. Excluded persons[^c-22f7164e5dea4c5ecdc69d1ec6dbf0f4][^c-b1839255c6e68a58bc41f6153563879c]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ The excluded persons for the purposes of section 28 are—
 
 ## Annotations
 
-[^key-22f7164e5dea4c5ecdc69d1ec6dbf0f4]: Commencement: S. 29 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-22f7164e5dea4c5ecdc69d1ec6dbf0f4]: Commencement: S. 29 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-b1839255c6e68a58bc41f6153563879c]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2024/5/section/29) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/e)
+[^c-b1839255c6e68a58bc41f6153563879c]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2024/5/section/29) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/e)

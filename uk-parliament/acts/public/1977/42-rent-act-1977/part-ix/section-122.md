@@ -22,8 +22,8 @@ summary: ''
 
 (1) This section applies in relation to any premises if—
 
-- (a) under Part V of this Act, a rent is registered for those premises in the register kept in pursuance of section 79 or 79A[^key-e2a6af19d2c6e7aa8bf8f14dddf2b2d6] of this Act; and
-- (b) in a case where the approval, reduction or increase of the rent by the appropriate tribunal[^key-37ead59e5bc0b6ea507b6b0371a90d86] is limited to rent payable in respect of a particular period, that period has not expired.
+- (a) under Part V of this Act, a rent is registered for those premises in the register kept in pursuance of section 79 or 79A[^c-e2a6af19d2c6e7aa8bf8f14dddf2b2d6] of this Act; and
+- (b) in a case where the approval, reduction or increase of the rent by the appropriate tribunal[^c-37ead59e5bc0b6ea507b6b0371a90d86] is limited to rent payable in respect of a particular period, that period has not expired.
 
 (2) Any person who, as a condition of the grant, renewal, continuance or assignment of rights under a restricted contract, requires the payment of any premium shall be guilty of an offence.
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a6af19d2c6e7aa8bf8f14dddf2b2d6]: Textual amendment: Words in [s. 122(1)(a)](https://www.legislation.gov.uk/ukpga/1977/42/section/122/1/a) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/32/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e2a6af19d2c6e7aa8bf8f14dddf2b2d6]: Textual amendment: Words in [s. 122(1)(a)](https://www.legislation.gov.uk/ukpga/1977/42/section/122/1/a) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/32/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-37ead59e5bc0b6ea507b6b0371a90d86]: Textual amendment: Words in [s. 122(1)(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/122/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/32/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-37ead59e5bc0b6ea507b6b0371a90d86]: Textual amendment: Words in [s. 122(1)(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/122/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/32/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16041031]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)

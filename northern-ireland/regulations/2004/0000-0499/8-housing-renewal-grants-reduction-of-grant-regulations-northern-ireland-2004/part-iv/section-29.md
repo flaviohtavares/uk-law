@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Deduction of tax and contributions for self-employed earners[^key-76af4e2639ccaf4dc73c3d31c9bda03a]
+## 29. Deduction of tax and contributions for self-employed earners[^c-76af4e2639ccaf4dc73c3d31c9bda03a]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76af4e2639ccaf4dc73c3d31c9bda03a]: Commencement: Reg. 29 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-76af4e2639ccaf4dc73c3d31c9bda03a]: Commencement: Reg. 29 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00074]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 257 was substituted by section 33 of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39) and section 259 was amended by sections 30 and 35 of, and paragraphs 1 and 5 of Schedule 3 to, [1988 c. 39](https://www.legislation.gov.uk/ukpga/1988/39)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26B. Opt-in to marriage of same sex couples: other religious ceremonies[^key-7ff9f00309261f188e84b9bd7a23061c]
+## 26B. Opt-in to marriage of same sex couples: other religious ceremonies[^c-7ff9f00309261f188e84b9bd7a23061c]
 
 *Extent: E+W+S+N.I.*
 
-(1) A marriage may, in any of the following cases, be solemnized on the authority of a marriage schedule[^key-07e4e395c409f542cac2a065ab01eaf2].
+(1) A marriage may, in any of the following cases, be solemnized on the authority of a marriage schedule[^c-07e4e395c409f542cac2a065ab01eaf2].
 
 (2) Case A is where—
 
@@ -64,6 +64,6 @@ In that table—
 
 ## Annotations
 
-[^key-7ff9f00309261f188e84b9bd7a23061c]: Textual amendment: S. 26B inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 5](https://www.legislation.gov.uk/ukpga/2013/30/section/5), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/93/article/3/c)
+[^c-7ff9f00309261f188e84b9bd7a23061c]: Textual amendment: S. 26B inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 5](https://www.legislation.gov.uk/ukpga/2013/30/section/5), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/93/article/3/c)
 
-[^key-07e4e395c409f542cac2a065ab01eaf2]: Textual amendment: Words in s. 26B(1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 11(c)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/11/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-07e4e395c409f542cac2a065ab01eaf2]: Textual amendment: Words in s. 26B(1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 11(c)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/11/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

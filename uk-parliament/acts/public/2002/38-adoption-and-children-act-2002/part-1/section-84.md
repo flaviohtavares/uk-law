@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Giving parental responsibility prior to adoption abroad[^key-e8763d4ae0b807b14f06568c68bd940c][^key-3f662ad3212b6300749e4ea034b844c3]
+## 84. Giving parental responsibility prior to adoption abroad[^c-e8763d4ae0b807b14f06568c68bd940c][^c-3f662ad3212b6300749e4ea034b844c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8763d4ae0b807b14f06568c68bd940c]: Commencement: S. 84 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vii)
+[^c-e8763d4ae0b807b14f06568c68bd940c]: Commencement: S. 84 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vii)
 
-[^key-3f662ad3212b6300749e4ea034b844c3]: Commencement: S. 84 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-3f662ad3212b6300749e4ea034b844c3]: Commencement: S. 84 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

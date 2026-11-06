@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159.[^key-fb983f87e93d3511c5fca16de9f89d81]
+## 159.[^c-fb983f87e93d3511c5fca16de9f89d81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 633 (voluntary annual payments), in subsection (2)(b), after “widow
 
 ## Annotations
 
-[^key-fb983f87e93d3511c5fca16de9f89d81]: Commencement: Reg. 159 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-fb983f87e93d3511c5fca16de9f89d81]: Commencement: Reg. 159 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Calculation of earnings[^key-5a89e08203e08b4e53e929150fe96a3a]
+## 45. Calculation of earnings[^c-5a89e08203e08b4e53e929150fe96a3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a89e08203e08b4e53e929150fe96a3a]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2009/470/regulation/45) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-5a89e08203e08b4e53e929150fe96a3a]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2009/470/regulation/45) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

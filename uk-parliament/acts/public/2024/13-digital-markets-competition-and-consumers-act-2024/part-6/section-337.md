@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 337. Regulations[^key-1f555e1b855064fb0e1f9ac3dd52158b]
+## 337. Regulations[^c-1f555e1b855064fb0e1f9ac3dd52158b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f555e1b855064fb0e1f9ac3dd52158b]: Commencement: S. 337 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-1f555e1b855064fb0e1f9ac3dd52158b]: Commencement: S. 337 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

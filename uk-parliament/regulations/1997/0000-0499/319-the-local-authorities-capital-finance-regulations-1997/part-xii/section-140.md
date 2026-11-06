@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Housing and non-housing amounts for financial year beginning 1st April 1997[^key-cb2e90d09470dab1b81335ad8c4bb782]
+## 140. Housing and non-housing amounts for financial year beginning 1st April 1997[^c-cb2e90d09470dab1b81335ad8c4bb782]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb2e90d09470dab1b81335ad8c4bb782]: Commencement: Reg. 140 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-cb2e90d09470dab1b81335ad8c4bb782]: Commencement: Reg. 140 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

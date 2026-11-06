@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Restrictions on the introduction into and movement within Wales of relevant material[^key-beb16187072957edd1166bcde92be6a9]
+## SCHEDULE 4 — Restrictions on the introduction into and movement within Wales of relevant material[^c-beb16187072957edd1166bcde92be6a9]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Articles 3, 5(1), 12(1), 15(2), 18(1), 18(3) and 20(1)
 
-### PART A — Relevant material, originating in third countries, which may only be landed if special requirements are complied with[^key-beb16187072957edd1166bcde92be6a9]
+### PART A — Relevant material, originating in third countries, which may only be landed if special requirements are complied with[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Relevant material, from the European Union, which may only be introduced into or moved within Wales if special requirements are complied with[^key-beb16187072957edd1166bcde92be6a9]
+### PART B — Relevant material, from the European Union, which may only be introduced into or moved within Wales if special requirements are complied with[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Relevant material which may only be landed in or moved within Wales (as a protected zone) if special requirements are complied with[^key-beb16187072957edd1166bcde92be6a9]
+### PART C — Relevant material which may only be landed in or moved within Wales (as a protected zone) if special requirements are complied with[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))
+[^c-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))

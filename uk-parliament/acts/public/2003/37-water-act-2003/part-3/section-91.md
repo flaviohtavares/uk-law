@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Water main requisitions: calculation of payments[^key-655a4cbe0ea696d19bbbeaa92605c11d]
+## 91. Water main requisitions: calculation of payments[^c-655a4cbe0ea696d19bbbeaa92605c11d]
 
 *Extent: E+W*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-655a4cbe0ea696d19bbbeaa92605c11d]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2003/37/section/91) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-655a4cbe0ea696d19bbbeaa92605c11d]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2003/37/section/91) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Guidance on funeral costs[^key-43c8f2fdf8c9dc81e70a96af1f09ae09]
+## 98. Guidance on funeral costs[^c-43c8f2fdf8c9dc81e70a96af1f09ae09]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) burial authorities,
 - (b) cremation authorities,
-- (ba)[^key-53fff35206ab8aed1264ff9a0c02316f] hydrolysis authorities,
+- (ba)[^c-53fff35206ab8aed1264ff9a0c02316f] hydrolysis authorities,
 - (c) funeral directors,
 - (d) any other persons they consider appropriate.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43c8f2fdf8c9dc81e70a96af1f09ae09]: Commencement: S. 98 in force at 1.6.2018 by [S.S.I. 2018/157](https://www.legislation.gov.uk/ssi/2018/157), [reg. 2](https://www.legislation.gov.uk/ssi/2018/157/regulation/2)
+[^c-43c8f2fdf8c9dc81e70a96af1f09ae09]: Commencement: S. 98 in force at 1.6.2018 by [S.S.I. 2018/157](https://www.legislation.gov.uk/ssi/2018/157), [reg. 2](https://www.legislation.gov.uk/ssi/2018/157/regulation/2)
 
-[^key-53fff35206ab8aed1264ff9a0c02316f]: Textual amendment: [S. 98(3)(ba)](https://www.legislation.gov.uk/asp/2016/20/section/98/3/ba) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(29)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/29)
+[^c-53fff35206ab8aed1264ff9a0c02316f]: Textual amendment: [S. 98(3)(ba)](https://www.legislation.gov.uk/asp/2016/20/section/98/3/ba) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(29)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/29)

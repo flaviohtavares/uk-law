@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Interpretation[^key-6c724162fef68fd20b360ab88443ad95]
+## 137. Interpretation[^c-6c724162fef68fd20b360ab88443ad95]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In this Act—
 
 ## Annotations
 
-[^key-6c724162fef68fd20b360ab88443ad95]: Commencement: S. 137 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-6c724162fef68fd20b360ab88443ad95]: Commencement: S. 137 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

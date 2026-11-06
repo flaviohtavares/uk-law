@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Supplementary provisions relating to the Council.[^key-77c6253b33a36f0b28d6edf06545db6c]
+## 118. Supplementary provisions relating to the Council.[^c-77c6253b33a36f0b28d6edf06545db6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77c6253b33a36f0b28d6edf06545db6c]: Textual amendment: [S. 118](https://www.legislation.gov.uk/ukpga/2000/26/section/118) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 44](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/44); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-77c6253b33a36f0b28d6edf06545db6c]: Textual amendment: [S. 118](https://www.legislation.gov.uk/ukpga/2000/26/section/118) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 44](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/44); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

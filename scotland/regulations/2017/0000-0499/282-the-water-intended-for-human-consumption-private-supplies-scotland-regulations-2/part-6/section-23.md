@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Remedial action to restore water quality: notification of risk, etc.[^key-7793374376d143c8a66a637539cb31ae]
+## 23. Remedial action to restore water quality: notification of risk, etc.[^c-7793374376d143c8a66a637539cb31ae]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7793374376d143c8a66a637539cb31ae]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2017/282/regulation/23) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-7793374376d143c8a66a637539cb31ae]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2017/282/regulation/23) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

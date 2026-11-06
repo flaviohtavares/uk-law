@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3E — Declarations made by the United Kingdom in relation to the 1996 Hague Convention[^key-5c89ac8b4140f4bd933cfb0335940f3b]
+## SCHEDULE 3E — Declarations made by the United Kingdom in relation to the 1996 Hague Convention[^c-5c89ac8b4140f4bd933cfb0335940f3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In accordance with Article 54, paragraph 2, of the Convention, the Government of
 
 ## Annotations
 
-[^key-5c89ac8b4140f4bd933cfb0335940f3b]: Textual amendment: [Sch. 3E](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3E) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2020/24/schedule/2) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1))
+[^c-5c89ac8b4140f4bd933cfb0335940f3b]: Textual amendment: [Sch. 3E](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3E) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2020/24/schedule/2) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1))

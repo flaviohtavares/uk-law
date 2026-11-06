@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Recognised Bodies) (Wales) (Amendment) Order 2009 (revoked)[^key-2309a26df46a652fdf20787d22fe6f1e]
+The Education (Recognised Bodies) (Wales) (Amendment) Order 2009 (revoked)[^c-2309a26df46a652fdf20787d22fe6f1e]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 6 April 2009
 
-[^key-2309a26df46a652fdf20787d22fe6f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2309a26df46a652fdf20787d22fe6f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-2309a26df46a652fdf20787d22fe6f1e]
+## 1. Title, commencement and application[^c-2309a26df46a652fdf20787d22fe6f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Education (Recognised Bodies) (Wales) Order 2007[^key-2309a26df46a652fdf20787d22fe6f1e]
+## 2. Amendment to the Education (Recognised Bodies) (Wales) Order 2007[^c-2309a26df46a652fdf20787d22fe6f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2309a26df46a652fdf20787d22fe6f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2309a26df46a652fdf20787d22fe6f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2309a26df46a652fdf20787d22fe6f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2309a26df46a652fdf20787d22fe6f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2309a26df46a652fdf20787d22fe6f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2309a26df46a652fdf20787d22fe6f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2309a26df46a652fdf20787d22fe6f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2309a26df46a652fdf20787d22fe6f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2309a26df46a652fdf20787d22fe6f1e]: Textual amendment: Order revoked (4.6.2012) by [The Education (Recognised Bodies) (Wales) Order 2012 (S.I. 2012/1260)](https://www.legislation.gov.uk/uksi/2012/1260), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1260/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1260/article/3/b)
+[^c-2309a26df46a652fdf20787d22fe6f1e]: Textual amendment: Order revoked (4.6.2012) by [The Education (Recognised Bodies) (Wales) Order 2012 (S.I. 2012/1260)](https://www.legislation.gov.uk/uksi/2012/1260), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1260/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1260/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Restriction of information.[^c12800711][^key-bc1c7333140056211fe8aadb12b97209]
+## 63. Restriction of information.[^c12800711][^c-bc1c7333140056211fe8aadb12b97209]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ The Secretary of State may by order—
 
 [^c12800711]: Commencement: S.63 partly in force: s.63 in force at Royal Assent (11.11.1999) for certain purposes, see [s.425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2)
 
-[^key-bc1c7333140056211fe8aadb12b97209]: Modification: S. 63 applied (with modifications) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 33(9)(c)](https://www.legislation.gov.uk/ukpga/2011/13/section/33/9/c), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-bc1c7333140056211fe8aadb12b97209]: Modification: S. 63 applied (with modifications) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 33(9)(c)](https://www.legislation.gov.uk/ukpga/2011/13/section/33/9/c), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

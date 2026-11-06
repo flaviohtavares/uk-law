@@ -40,19 +40,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. Child trust funds
 
-(1)[^key-ffca22fd0671c2da4e159a19c70a4a44] This Act makes provision about child trust funds and related matters.
+(1)[^c-ffca22fd0671c2da4e159a19c70a4a44] This Act makes provision about child trust funds and related matters.
 
-(2)[^key-ffca22fd0671c2da4e159a19c70a4a44] In this Act “**child trust fund**” means an account which—
+(2)[^c-ffca22fd0671c2da4e159a19c70a4a44] In this Act “**child trust fund**” means an account which—
 
 - (a) is held by a child who is or has been an eligible child (see section 2),
 - (b) satisfies the requirements imposed by and by virtue of this Act (see section 3), and
 - (c) has been opened in accordance with this Act (see sections 5 and 6).
 
-(3)[^key-f62604169696382d9ebd3576153bbfa2] The matters dealt with by and under this Act are to be under the care and management of the Inland Revenue.
+(3)[^c-f62604169696382d9ebd3576153bbfa2] The matters dealt with by and under this Act are to be under the care and management of the Inland Revenue.
 
-### 2. Eligible children[^key-afa67955fe7fb3a31dd6b09467d1369a]
+### 2. Eligible children[^c-afa67955fe7fb3a31dd6b09467d1369a]
 
-(1) For the purposes of this Act a child is an “**eligible child**” if the child was born after 31st August 2002 and before 3rd January 2011[^key-e05c0880d8450575504548cbd3778470] and either—
+(1) For the purposes of this Act a child is an “**eligible child**” if the child was born after 31st August 2002 and before 3rd January 2011[^c-e05c0880d8450575504548cbd3778470] and either—
 
 - (a) a person is entitled to child benefit in respect of the child, or
 - (b) entitlement to child benefit in respect of the child is excluded by the provisions specified in subsection (2)(a) or (b) (children in care of authority),
@@ -64,19 +64,19 @@ but subject as follows.
 - (a) paragraph 1(c) of Schedule 9 to the Social Security Contributions and Benefits Act 1992 (c. 4) and regulations made under it, and
 - (b) paragraph 1(1)(f) of Schedule 9 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) and regulations made under it.
 
-(3) Where entitlement to child benefit in respect of a child is excluded because of a directly applicable EU[^key-bff716be7ef38c4f0d52a40dae63bf37] provision or an international agreement, subsection (1) applies as if that exclusion did not apply.
+(3) Where entitlement to child benefit in respect of a child is excluded because of a directly applicable EU[^c-bff716be7ef38c4f0d52a40dae63bf37] provision or an international agreement, subsection (1) applies as if that exclusion did not apply.
 
 (4) Where a person is entitled to child benefit in respect of a child only because of a directly applicable EU provision or an international agreement, subsection (1) applies as if the person were not so entitled.
 
 (5) A child who—
 
 - (a) does not have the right of abode in the United Kingdom within the meaning given by section 2 of the Immigration Act 1971 (c. 77),
-- (b)[^key-4a9b6b44cc627ab1ff8b8f0dcf5e1f82] is not entitled to enter or remain in the United Kingdom by virtue of an enforceable Community right or any provision made under section 2(2) of the European Communities Act 1972, and
+- (b)[^c-4a9b6b44cc627ab1ff8b8f0dcf5e1f82] is not entitled to enter or remain in the United Kingdom by virtue of an enforceable Community right or any provision made under section 2(2) of the European Communities Act 1972, and
 - (c) is not settled in the United Kingdom within the meaning given by section 33(2A) of the Immigration Act 1971,
 
 is not an eligible child.
 
-(5A)[^key-522e8a6c717d09f3d92c8c8bd9ba767f] A child born before 3rd January 2011 who would otherwise have become an eligible child on or after that date is not an eligible child unless subsection (5B) or (5C) applies to the child.
+(5A)[^c-522e8a6c717d09f3d92c8c8bd9ba767f] A child born before 3rd January 2011 who would otherwise have become an eligible child on or after that date is not an eligible child unless subsection (5B) or (5C) applies to the child.
 
 (5B) This subsection applies to a child (who accordingly is an eligible child by virtue of subsection (1)(a)) if—
 
@@ -90,7 +90,7 @@ is not an eligible child.
 - (b) the provisions specified in subsection (2)(a) or (b) apply in relation to the child before 3rd April 2011, and
 - (c) either subsection (5) does not apply to the child at the beginning of 3rd January 2011, or that subsection applies to the child at that time but ceases to apply to the child before 3rd April 2011.
 
-(6) A person is not to be regarded for the purposes of subsection (1)(a)or (5B)(a)[^key-a0e19c8d6d1e6884a223d7d9fce47e21] as entitled to child benefit in respect of a child (otherwise than by virtue of subsection (3)) unless it has been decided in accordance with—
+(6) A person is not to be regarded for the purposes of subsection (1)(a)or (5B)(a)[^c-a0e19c8d6d1e6884a223d7d9fce47e21] as entitled to child benefit in respect of a child (otherwise than by virtue of subsection (3)) unless it has been decided in accordance with—
 
 - (a) Chapter 2 of Part 1 of the Social Security Act 1998 (c. 14), or
 - (b) Chapter 2 of Part 2 of the Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10)),
@@ -101,55 +101,55 @@ that the person is so entitled (and that decision has not been overturned).
 
 ### 3. Requirements to be satisfied
 
-(1)[^key-8ffc23a226ec4ac90ce73bf54b31f8ff][^key-74050ca376abce74bb9cc9622c07a2a4] A child trust fund may be held only with a person (referred to in this Act as an “account provider”) who has been approved by the Inland Revenue in accordance with regulations.
+(1)[^c-8ffc23a226ec4ac90ce73bf54b31f8ff][^c-74050ca376abce74bb9cc9622c07a2a4] A child trust fund may be held only with a person (referred to in this Act as an “account provider”) who has been approved by the Inland Revenue in accordance with regulations.
 
-(2)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] An account is not a child trust fund unless it is an account of one of the descriptions prescribed by regulations.
+(2)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] An account is not a child trust fund unless it is an account of one of the descriptions prescribed by regulations.
 
-(3)[^key-8ffc23a226ec4ac90ce73bf54b31f8ff][^key-74050ca376abce74bb9cc9622c07a2a4] The provision which may be made by regulations under subsection (1) includes making approval of an account provider dependent on the person undertaking to provide accounts of such of the descriptions for which provision is made by regulations under subsection (2) as is prescribed by the regulations.
+(3)[^c-8ffc23a226ec4ac90ce73bf54b31f8ff][^c-74050ca376abce74bb9cc9622c07a2a4] The provision which may be made by regulations under subsection (1) includes making approval of an account provider dependent on the person undertaking to provide accounts of such of the descriptions for which provision is made by regulations under subsection (2) as is prescribed by the regulations.
 
-(4)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] The terms of a child trust fund must—
+(4)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] The terms of a child trust fund must—
 
 - (a) secure that it is held in the name of a child,
 - (b) secure that the child is beneficially entitled to the investments under it,
 - (c) secure that all income and gains arising on investments under it constitute investments under it,
-- (d) prevent withdrawals from it except as permitted by regulations under this section or any other provision of this Act[^key-ec58b361e83e1b45548fd3fb42bbf973], and
+- (d) prevent withdrawals from it except as permitted by regulations under this section or any other provision of this Act[^c-ec58b361e83e1b45548fd3fb42bbf973], and
 - (e) provide that instructions may be given to the account provider with respect to its management only by the person who has the authority to manage it.
 
-(5)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] Regulations may impose other requirements which must be satisfied in relation to child trust funds.
+(5)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] Regulations may impose other requirements which must be satisfied in relation to child trust funds.
 
-(6)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] The person who has the authority to manage a child trust fund held by a child—
+(6)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] The person who has the authority to manage a child trust fund held by a child—
 
-- (a)[^key-33a5a42d649d3eeb68cd842666663729] if the child is 16 or over and has elected to manage the child trust fund, is the child;
+- (a)[^c-33a5a42d649d3eeb68cd842666663729] if the child is 16 or over and has elected to manage the child trust fund, is the child;
 - (b) in any other case, is the person who has that authority by virtue of subsection (7) (but subject to subsection (10)).
 
-(7)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] If there is one person who is a responsible person in relation to the child, that person has that authority; and if there is more than one person who is such a person, which of them has that authority is to be determined in accordance with regulations.
+(7)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] If there is one person who is a responsible person in relation to the child, that person has that authority; and if there is more than one person who is such a person, which of them has that authority is to be determined in accordance with regulations.
 
-(8)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] For the purposes of this Act a person is a responsible person in relation to a child [^key-10260e4a8515bf6865317c2aec26af94]... if the person has parental responsibility in relation to the child and is not—
+(8)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] For the purposes of this Act a person is a responsible person in relation to a child [^c-10260e4a8515bf6865317c2aec26af94]... if the person has parental responsibility in relation to the child and is not—
 
 - (a) a local authority or, in Northern Ireland, an authority within the meaning of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)), or
 - (b) a person under 16.
 
-(9)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] “**Parental responsibility**” means—
+(9)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] “**Parental responsibility**” means—
 
 - (a) parental responsibility within the meaning of the Children Act 1989 (c. 41) or the Children (Northern Ireland) Order 1995, or
 - (b) parental responsibilities within the meaning of the Children (Scotland) Act 1995 (c. 36).
 
-(10)[^key-9af2c823adc9f3c1b25a5341f9f10c9a] Regulations may provide that, in circumstances prescribed by the regulations, the person who has the authority to manage a child trust fund held by a child [^key-b80e3e47dabf644f9483fceca783b838]... is to be a person appointed by the Treasury or by the Secretary of State.[^key-4968a2957a5282e4e7464b01299f39ae]
+(10)[^c-9af2c823adc9f3c1b25a5341f9f10c9a] Regulations may provide that, in circumstances prescribed by the regulations, the person who has the authority to manage a child trust fund held by a child [^c-b80e3e47dabf644f9483fceca783b838]... is to be a person appointed by the Treasury or by the Secretary of State.[^c-4968a2957a5282e4e7464b01299f39ae]
 
-(11)[^key-9af2c823adc9f3c1b25a5341f9f10c9a] A person who has the authority to manage a child trust fund by virtue of subsection (10) is entitled to give any instructions to the account provider with respect to its management which appear to the person who has that authority to be for the benefit of the child.
+(11)[^c-9af2c823adc9f3c1b25a5341f9f10c9a] A person who has the authority to manage a child trust fund by virtue of subsection (10) is entitled to give any instructions to the account provider with respect to its management which appear to the person who has that authority to be for the benefit of the child.
 
-(11A)[^key-0b8b196718a47debd4bfd1f175ab1ef3] Regulations under subsection (10) may provide that, where the terms on which a person is appointed by the Treasury or by the Secretary of State include provision for payment to the person, the payment must be made by a government department specified in the regulations (instead of by the person making the appointment).
+(11A)[^c-0b8b196718a47debd4bfd1f175ab1ef3] Regulations under subsection (10) may provide that, where the terms on which a person is appointed by the Treasury or by the Secretary of State include provision for payment to the person, the payment must be made by a government department specified in the regulations (instead of by the person making the appointment).
 
 (11B) Regulations may provide that, where a person authorised to manage a child trust fund by virtue of subsection (10) ceases to be so authorised, the person must provide any information held by that person in connection with the management of the fund to the person (if any) who becomes authorised by virtue of that subsection to manage the trust fund instead.
 
-(12)[^key-8114b0f58ca66d0672a3d6b24ca8aae0][^key-74050ca376abce74bb9cc9622c07a2a4] Where a contract is entered into by or on behalf of a child who is 16 or over in connection with a child trust fund—
+(12)[^c-8114b0f58ca66d0672a3d6b24ca8aae0][^c-74050ca376abce74bb9cc9622c07a2a4] Where a contract is entered into by or on behalf of a child who is 16 or over in connection with a child trust fund—
 
 - (a) held by the child, or
 - (b) held by another child in relation to whom the child has parental responsibility,
 
 the contract has effect as if the child had been 18 or over when it was entered into.
 
-### 4. Inalienability[^key-0567ed646cacb3b840064147da135566]
+### 4. Inalienability[^c-0567ed646cacb3b840064147da135566]
 
 (1) Any assignment of, or agreement to assign, investments under a child trust fund, and any charge on or agreement to charge any such investments, is void.
 
@@ -163,30 +163,30 @@ the contract has effect as if the child had been 18 or over when it was entered 
 
 ## Opening and transfers
 
-### 5. Opening by responsible person or child[^key-4e7b2d2ce1c45b230cc1f016621c3480]
+### 5. Opening by responsible person or child[^c-4e7b2d2ce1c45b230cc1f016621c3480]
 
-(1)[^key-a4c63f664a316bc8c0e391c148f78e74] In the case of each child who is first an eligible child by virtue of section 2(1)(a) the Inland Revenue must issue, in a manner prescribed by regulations, a voucher in such form as is so prescribed.
+(1)[^c-a4c63f664a316bc8c0e391c148f78e74] In the case of each child who is first an eligible child by virtue of section 2(1)(a) the Inland Revenue must issue, in a manner prescribed by regulations, a voucher in such form as is so prescribed.
 
-(2)[^key-a4c63f664a316bc8c0e391c148f78e74] The voucher must be issued to the person who is entitled to child benefit in respect of the child (or, in the case of a child who is such an eligible child because of section 2(3), to a responsible person).
+(2)[^c-a4c63f664a316bc8c0e391c148f78e74] The voucher must be issued to the person who is entitled to child benefit in respect of the child (or, in the case of a child who is such an eligible child because of section 2(3), to a responsible person).
 
-(3)[^key-885cfb72919bc34cc0f40827aca2d893] An application may be made—
+(3)[^c-885cfb72919bc34cc0f40827aca2d893] An application may be made—
 
 - (a) if the child is 16 or over, by the child, or
 - (b) otherwise, by a responsible person,
 
 to open for the child with an account provider a child trust fund of any description provided by the account provider.
 
-(4)[^key-885cfb72919bc34cc0f40827aca2d893] The application is to be made—
+(4)[^c-885cfb72919bc34cc0f40827aca2d893] The application is to be made—
 
 - (a) within such period beginning with the day on which the voucher is issued as is prescribed by regulations, and
 - (b) in accordance with regulations.
 
-(5)[^key-885cfb72919bc34cc0f40827aca2d893] When the application has been made the account provider must—
+(5)[^c-885cfb72919bc34cc0f40827aca2d893] When the application has been made the account provider must—
 
 - (a) open, in accordance with regulations, a child trust fund of that description for the child, and
 - (b) inform the Inland Revenue in accordance with regulations.
 
-### 6. Opening by Inland Revenue[^key-4458dfe4860254df721a8f4fcb11c9c9]
+### 6. Opening by Inland Revenue[^c-4458dfe4860254df721a8f4fcb11c9c9]
 
 (1) In the case of each child to whom this section applies, the Inland Revenue must apply to open for the child with an account provider selected in accordance with regulations a child trust fund of a description so selected.
 
@@ -209,14 +209,14 @@ to open for the child with an account provider a child trust fund of any descrip
 
 (6) No liability is to arise in respect of the selection of an account provider, or a description of child trust fund, in accordance with regulations under this section.
 
-### 7. Transfers[^key-45e65750f257a6f7515ce924a7f6c7bc]
+### 7. Transfers[^c-45e65750f257a6f7515ce924a7f6c7bc]
 
 Regulations may make provision about the circumstances in which—
 
 - (a) a child trust fund which is an account of one of the descriptions prescribed by regulations may become an account of another of those descriptions, and
 - (b) a child trust fund held with one account provider may be transferred to another.
 
-### 7A. Transfers to other accounts for children[^key-7b260588304fbbc4154f01e7e2210fc8]
+### 7A. Transfers to other accounts for children[^c-7b260588304fbbc4154f01e7e2210fc8]
 
 (1) Regulations may make provision requiring an account provider, at the request of a person who has the authority to manage a child trust fund, to—
 
@@ -229,7 +229,7 @@ Regulations may make provision about the circumstances in which—
 - (b) it may be held only by a child, and
 - (c) it satisfies any other conditions prescribed in regulations under this section.
 
-### 7B. Transfers on child reaching 18[^key-c3a43e74118c52a448d91031b8a064e7]
+### 7B. Transfers on child reaching 18[^c-c3a43e74118c52a448d91031b8a064e7]
 
 (1) Regulations may make provision requiring an account provider to transfer all the investments under a child trust fund held by a person immediately before his or her 18th birthday to a protected account of a description prescribed in the regulations.
 
@@ -240,7 +240,7 @@ Regulations may make provision about the circumstances in which—
 - (a) there is relief from income tax and capital gains tax in respect of investments under it, and
 - (b) it satisfies any other conditions prescribed in regulations under this section.
 
-## Powers to safeguard interests of children[^key-86b3352718111ac275abd53089415727]
+## Powers to safeguard interests of children[^c-86b3352718111ac275abd53089415727]
 
 ### 7C. Powers to safeguard interests of children
 
@@ -279,7 +279,7 @@ Regulations may make provision about the circumstances in which—
 
 ## Contributions and subscriptions
 
-### 8. Initial contribution by Inland Revenue[^key-a7274d34f6209b9235cbcb1702cd80a0]
+### 8. Initial contribution by Inland Revenue[^c-a7274d34f6209b9235cbcb1702cd80a0]
 
 (1) The Inland Revenue must pay to an account provider such amount as is prescribed by regulations if the account provider has—
 
@@ -288,7 +288,7 @@ Regulations may make provision about the circumstances in which—
 
 (2) On receipt of the payment the account provider must credit the child trust fund with the amount of the payment.
 
-### 9. Supplementary contribution by Inland Revenue[^key-a6538662f8c0b419f980bad8c67c4def]
+### 9. Supplementary contribution by Inland Revenue[^c-a6538662f8c0b419f980bad8c67c4def]
 
 (1) If this section applies to a child the Inland Revenue must inform the account provider with whom a child trust fund is held by the child that this section applies to the child.
 
@@ -334,7 +334,7 @@ and that determination has not been overturned.
 - (a) the first day for which child benefit was paid in respect of the child (otherwise than because of a directly applicable EU provision or an international agreement), or
 - (b) in the case of a child to whom section 2(3) applies or section 2(5) has applied, such day as is prescribed by regulations.
 
-### 10. Further contributions by Inland Revenue[^key-d4c59afc1d02170d3aae9f41ae0cee4b]
+### 10. Further contributions by Inland Revenue[^c-d4c59afc1d02170d3aae9f41ae0cee4b]
 
 (1) Regulations may make provision for the making by the Inland Revenue in the circumstances mentioned in subsection (2) of payments to account providers of child trust funds held by—
 
@@ -359,13 +359,13 @@ of amounts prescribed by, or determined in accordance with, regulations.
 - (a) paragraph 1(a) of Schedule 9 to the Social Security Contributions and Benefits Act 1992 (c. 4) (children in custody), or
 - (b) paragraph 1(1)(a) to (d) of Schedule 9 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) (corresponding provision for Northern Ireland).
 
-### 11. Recouping Inland Revenue contributions[^key-43e87c8638c3046609ec5932efc2d370]
+### 11. Recouping Inland Revenue contributions[^c-43e87c8638c3046609ec5932efc2d370]
 
 (1) Regulations may make provision requiring that, in circumstances prescribed by the regulations, a person of a description so prescribed is to account to the Inland Revenue for amounts credited to a child trust fund in respect of Inland Revenue contributions (together with any income and gains arising in consequence of the crediting of those amounts).
 
 (2) “**Inland Revenue contributions**” means payments made by the Inland Revenue which were required to be made under or by virtue of sections 8 to 10 or which the Inland Revenue considered were required to be so made.
 
-### 12. Subscription limits[^key-b1ffd3b43d2e2e10375099c43b23cc94]
+### 12. Subscription limits[^c-b1ffd3b43d2e2e10375099c43b23cc94]
 
 (1) No subscription may be made to a child trust fund otherwise than by way of a monetary payment.
 
@@ -378,7 +378,7 @@ of amounts prescribed by, or determined in accordance with, regulations.
 
 ## Tax
 
-### 13. Relief from income tax and capital gains tax[^key-50a3d46a846873328ea33266f132d96f]
+### 13. Relief from income tax and capital gains tax[^c-50a3d46a846873328ea33266f132d96f]
 
 (1) Regulations may make provision for and in connection with giving relief from—
 
@@ -403,7 +403,7 @@ or for an amount determined in accordance with the regulations in respect of suc
 
 (5) Provision made by virtue of this section may disapply, or modify the effect of, any enactment relating to income tax or capital gains tax.
 
-### 14. Insurance companies and friendly societies[^key-55eabceba856fdadce9afe2b66287e35][^key-2b362cf2a97f4eaf2afb3749664bd3bf]
+### 14. Insurance companies and friendly societies[^c-55eabceba856fdadce9afe2b66287e35][^c-2b362cf2a97f4eaf2afb3749664bd3bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -411,30 +411,30 @@ or for an amount determined in accordance with the regulations in respect of suc
 
 ### 15. Information from account providers etc.
 
-(1)[^key-03e9729dacd1f3c9e30c1ccadc5764f5][^key-3cbab785e2e26b3332008d85baf45797] Regulations may require[^key-2b828680a96e2c1dc191afbfe938a746]... any person who is or has been the account provider in relation to[^key-ac057d2ea42dd444bb72ffc84dc03b36] the child trust fund[^key-72529060f9de127841f981a7f02f5145]—
+(1)[^c-03e9729dacd1f3c9e30c1ccadc5764f5][^c-3cbab785e2e26b3332008d85baf45797] Regulations may require[^c-2b828680a96e2c1dc191afbfe938a746]... any person who is or has been the account provider in relation to[^c-ac057d2ea42dd444bb72ffc84dc03b36] the child trust fund[^c-72529060f9de127841f981a7f02f5145]—
 
 - (a) to make documents available for inspection on behalf of the Inland Revenue, or
 - (b) to provide to the Inland Revenue any information,
 
 relating to, or to investments which are or have been held under, a child trust fund.
 
-(2)[^key-235c1939065ffe0216c31173b671237c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-235c1939065ffe0216c31173b671237c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-03e9729dacd1f3c9e30c1ccadc5764f5][^key-3cbab785e2e26b3332008d85baf45797] The regulations may include provision requiring documents to be made available or information to be provided—
+(3)[^c-03e9729dacd1f3c9e30c1ccadc5764f5][^c-3cbab785e2e26b3332008d85baf45797] The regulations may include provision requiring documents to be made available or information to be provided—
 
 - (a) in the manner and form, and
 - (b) by the time and at the place,
 
 prescribed by or under the regulations.
 
-### 16. Information about children in care of authority[^key-18a9b9716fb188ce827d81b09a986f58]
+### 16. Information about children in care of authority[^c-18a9b9716fb188ce827d81b09a986f58]
 
 (1) Regulations may require, or authorise officers of the Inland Revenue to require, an authority—
 
-- (a) to make documents available for inspection on behalf of the Inland Revenue or by a person appointed under regulations under section 3(10)[^key-9173c2557a78a2837e714c36a74eaa14], or
-- (b) to provide to the Inland Revenue or to such a person[^key-be9e488fcb8f218634975f19557f4c1c] any information,
+- (a) to make documents available for inspection on behalf of the Inland Revenue or by a person appointed under regulations under section 3(10)[^c-9173c2557a78a2837e714c36a74eaa14], or
+- (b) to provide to the Inland Revenue or to such a person[^c-be9e488fcb8f218634975f19557f4c1c] any information,
 
-which the Inland Revenue or (as the case may be) the person[^key-250aff2a5864dec26be0ae67b9bf4fe1] may require for the discharge of any function relating to child trust funds and which is information to which subsection (2) applies.
+which the Inland Revenue or (as the case may be) the person[^c-250aff2a5864dec26be0ae67b9bf4fe1] may require for the discharge of any function relating to child trust funds and which is information to which subsection (2) applies.
 
 (2) This subsection applies to information relating to a child who falls or has fallen within—
 
@@ -450,7 +450,7 @@ by reason of being, or having been, in the care of the authority in circumstance
 
 prescribed by or under the regulations.
 
-### 17. Use of information[^key-6874969bfabe0e4484af6628ac962171]
+### 17. Use of information[^c-6874969bfabe0e4484af6628ac962171]
 
 (1) Information held for the purposes of any function relating to child trust funds—
 
@@ -480,7 +480,7 @@ may be used, or supplied to any person providing services to the Inland Revenue,
 
 for use for the purposes of, or for any purposes connected with, the exercise of any function of the Inland Revenue relating to child trust funds.
 
-### 18. Disclosure of information[^key-cb33eb4c5b5463d603d48a21521e5ade]
+### 18. Disclosure of information[^c-cb33eb4c5b5463d603d48a21521e5ade]
 
 (1) Section 182 of the Finance Act 1989 (c. 26) (disclosure of information by officials) is amended as follows.
 
@@ -520,7 +520,7 @@ for use for the purposes of, or for any purposes connected with, the exercise of
 
 ## Payments after death
 
-### 19. Payments after death of child[^key-8c02cc50007c741337039678c97c9be7]
+### 19. Payments after death of child[^c-8c02cc50007c741337039678c97c9be7]
 
 (1) Where a relevant child dies, the Inland Revenue may make a payment to the personal representatives of the child if any one or more of the conditions specified in subsection (3) is satisfied.
 
@@ -540,28 +540,28 @@ for use for the purposes of, or for any purposes connected with, the exercise of
 
 (1) A penalty of £300 may be imposed on any person who fraudulently—
 
-- (a)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] applies to open a child trust fund,
-- (b)[^key-c0b96131774167ca2c8c7e9c7c4a305a] makes a withdrawal from a child trust fund otherwise than as permitted by regulations under section 3(4)(d), or
-- (c)[^key-c0b96131774167ca2c8c7e9c7c4a305a] secures the opening of a child trust fund by the Inland Revenue.
+- (a)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] applies to open a child trust fund,
+- (b)[^c-c0b96131774167ca2c8c7e9c7c4a305a] makes a withdrawal from a child trust fund otherwise than as permitted by regulations under section 3(4)(d), or
+- (c)[^c-c0b96131774167ca2c8c7e9c7c4a305a] secures the opening of a child trust fund by the Inland Revenue.
 
-(2)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] A penalty not exceeding £3,000 may be imposed on—
+(2)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] A penalty not exceeding £3,000 may be imposed on—
 
 - (a) an account provider who fraudulently or negligently makes an incorrect statement or declaration in connection with a claim under section 8 or 9 or regulations under section 10 or 13, and
 - (b) any person who fraudulently or negligently provides incorrect information in response to a requirement imposed by or under regulations under section 15.
 
-(3)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] Penalties may be imposed on—
+(3)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] Penalties may be imposed on—
 
 - (a) an account provider who fails to make a claim under section 8 or 9 or regulations under section 10 by the time required by regulations under the section concerned, and
 - (b) any person who fails to make a document available, or provide information, in accordance with regulations under section 15.
 
-(4)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] The penalties which may be imposed under subsection (3) are—
+(4)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] The penalties which may be imposed under subsection (3) are—
 
 - (a) a penalty not exceeding £300, and
 - (b) if the failure continues after a penalty under paragraph (a) is imposed, a further penalty or penalties not exceeding £60 for each day on which the failure continues after the day on which the penalty under that paragraph was imposed (but excluding any day for which a penalty under this paragraph has already been imposed).
 
-(5)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] No penalty under subsection (3) may be imposed on a person in respect of a failure after the failure has been remedied.
+(5)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] No penalty under subsection (3) may be imposed on a person in respect of a failure after the failure has been remedied.
 
-(6)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] For the purposes of subsection (3) a person is to be taken not to have failed to make a claim, make available a document or provide information which must be made, made available or provided by a particular time—
+(6)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] For the purposes of subsection (3) a person is to be taken not to have failed to make a claim, make available a document or provide information which must be made, made available or provided by a particular time—
 
 - (a) if the person made it, made it available or provided it within such further time (if any) as the Inland Revenue may have allowed,
 - (b) if the person had a reasonable excuse for not making it, making it available or providing it by that time, or
@@ -569,24 +569,24 @@ for use for the purposes of, or for any purposes connected with, the exercise of
 
 (7) A penalty may be imposed on an account provider in respect of—
 
-- (a)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] the provision by the account provider, as a child trust fund, of an account which does not meet the condition in subsection (8),
-- (b)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] a failure by the account provider to comply with section 8(2) or 9(3) or with a requirement imposed on the account provider by regulations under section 5(5), 6(3), 7, 7A, 7B[^key-4ff77b355b3efc77348c8179b1dc0ba0] or 10(3), or
-- (c)[^key-c0b96131774167ca2c8c7e9c7c4a305a] a breach of section 12(1), or regulations under section 12(2), in relation to a child trust fund held with the account provider.
+- (a)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] the provision by the account provider, as a child trust fund, of an account which does not meet the condition in subsection (8),
+- (b)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] a failure by the account provider to comply with section 8(2) or 9(3) or with a requirement imposed on the account provider by regulations under section 5(5), 6(3), 7, 7A, 7B[^c-4ff77b355b3efc77348c8179b1dc0ba0] or 10(3), or
+- (c)[^c-c0b96131774167ca2c8c7e9c7c4a305a] a breach of section 12(1), or regulations under section 12(2), in relation to a child trust fund held with the account provider.
 
-(8)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] An account meets the condition referred to in subsection (7)(a) if—
+(8)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] An account meets the condition referred to in subsection (7)(a) if—
 
 - (a) it is of one of the descriptions prescribed by regulations under section 3(2),
 - (b) section 3(4) is complied with in relation to it, and
 - (c) the requirements imposed by regulations under section 3(5) are satisfied in relation to it.
 
-(9)[^key-390beca8f796d8f1846d69709b72ca18][^key-3864379a78f9fda13e6bab30a3c2d128] The penalty which may be imposed under subsection (7) on the account provider is a penalty not exceeding—
+(9)[^c-390beca8f796d8f1846d69709b72ca18][^c-3864379a78f9fda13e6bab30a3c2d128] The penalty which may be imposed under subsection (7) on the account provider is a penalty not exceeding—
 
 - (a) £300, or
 - (b) £1 in respect of each account affected by the matter, or any of the matters, in respect of which the penalty is imposed,
 
 whichever is greater.
 
-### 21. Decisions, appeals, mitigation and recovery[^key-73fe9e7ddb426a5cd74c0023f82270be][^key-df28cae91b486af949b6406a0b6a125a]
+### 21. Decisions, appeals, mitigation and recovery[^c-73fe9e7ddb426a5cd74c0023f82270be][^c-df28cae91b486af949b6406a0b6a125a]
 
 (1) It is for the Inland Revenue to impose a penalty under section 20.
 
@@ -604,14 +604,14 @@ whichever is greater.
 
 (8) A penalty under section 20 becomes payable at the end of the period of 30 days beginning with the date on which notice of the decision is given.
 
-(9) On an appeal under section 22 against a decision under this section, the appropriate tribunal[^key-1cf15b760556f0af579554808be3a472] may—
+(9) On an appeal under section 22 against a decision under this section, the appropriate tribunal[^c-1cf15b760556f0af579554808be3a472] may—
 
 - (a) if it appears that no penalty has been incurred, set the decision aside,
 - (b) if the amount set appears to be appropriate, confirm the decision,
-- (c) if the amount set appears to be excessive, reduce it to such other amount (including nil) as the tribunal considers[^key-1d46f5fe593f7c8c2634bf5e5382bc38] appropriate, or
+- (c) if the amount set appears to be excessive, reduce it to such other amount (including nil) as the tribunal considers[^c-1d46f5fe593f7c8c2634bf5e5382bc38] appropriate, or
 - (d) if the amount set appears to be insufficient, increase it to such amount not exceeding the permitted maximum as the tribunal considers appropriate.
 
-(10)[^key-9daf712a7b6f5767996640e5302464c9] In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of a penalty which has been determined under subsection (9), but not against any decision which falls under section 11(5)(d) and (e) of that Act and was made in connection with the determination of the amount of the penalty.
+(10)[^c-9daf712a7b6f5767996640e5302464c9] In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of a penalty which has been determined under subsection (9), but not against any decision which falls under section 11(5)(d) and (e) of that Act and was made in connection with the determination of the amount of the penalty.
 
 (10A) Section 11(3) and (4) of the Tribunals, Courts and Enforcement Act 2007 applies to the right of appeal under subsection (10) as it applies to the right of appeal under section 11(2) of that Act.
 
@@ -625,43 +625,43 @@ whichever is greater.
 
 ### 22. Rights of appeal
 
-(1)[^key-16f18f0811b0af1371d34400205fdd93] A person may appeal against—
+(1)[^c-16f18f0811b0af1371d34400205fdd93] A person may appeal against—
 
 - (a) a decision by the Inland Revenue not to approve the person as an account provider, or
 - (b) a decision by the Inland Revenue to withdraw the person’s approval as an account provider.
 
-(2)[^key-d6f69f2694db86ddd80867fdf400d16a] A person who is a relevant person in relation to a child may appeal against a decision by the Inland Revenue—
+(2)[^c-d6f69f2694db86ddd80867fdf400d16a] A person who is a relevant person in relation to a child may appeal against a decision by the Inland Revenue—
 
 - (a) not to issue a voucher under section 5 in relation to the child,
 - (b) not to open a child trust fund for the child under section 6,
 - (c) not to make a payment under section 8 or 9 in respect of the child, or
 - (d) not to make a payment under regulations under section 10 in respect of the child.
 
-(3)[^key-d6f69f2694db86ddd80867fdf400d16a] “**Relevant person**”, in relation to a child, means—
+(3)[^c-d6f69f2694db86ddd80867fdf400d16a] “**Relevant person**”, in relation to a child, means—
 
 - (a) the person (if any) entitled to child benefit in respect of the child,
 - (b) anyone who applied to open a child trust fund for the child, and
 - (c) anyone who has, at any time, given instructions with respect to the management of the child trust fund held by the child.
 
-(4)[^key-d6f69f2694db86ddd80867fdf400d16a] A person who is required by the Inland Revenue to account for an amount under regulations under section 11 or 13 may appeal against the decision to impose the requirement.
+(4)[^c-d6f69f2694db86ddd80867fdf400d16a] A person who is required by the Inland Revenue to account for an amount under regulations under section 11 or 13 may appeal against the decision to impose the requirement.
 
-(5)[^key-d6f69f2694db86ddd80867fdf400d16a] The personal representatives of a child who has died may appeal against a decision by the Inland Revenue not to make a payment to them under section 19.
+(5)[^c-d6f69f2694db86ddd80867fdf400d16a] The personal representatives of a child who has died may appeal against a decision by the Inland Revenue not to make a payment to them under section 19.
 
-(6)[^key-16f18f0811b0af1371d34400205fdd93] A person on whom a penalty under section 20 is imposed may appeal against the decision to impose the penalty or its amount.
+(6)[^c-16f18f0811b0af1371d34400205fdd93] A person on whom a penalty under section 20 is imposed may appeal against the decision to impose the penalty or its amount.
 
 ### 23. Exercise of rights of appeal
 
-(1)[^key-178a61ee1463b9203411c54ebec90250][^key-419f08cff5372e0c77e2a7dacee8dc59] Notice of an appeal under section 22 against a decision must be given to the Inland Revenue in the manner prescribed by regulations within the period of thirty days after the date on which notice of the decision was given.
+(1)[^c-178a61ee1463b9203411c54ebec90250][^c-419f08cff5372e0c77e2a7dacee8dc59] Notice of an appeal under section 22 against a decision must be given to the Inland Revenue in the manner prescribed by regulations within the period of thirty days after the date on which notice of the decision was given.
 
-(2)[^key-419f08cff5372e0c77e2a7dacee8dc59][^key-9cbbf1c9b46783b91abb1b584f34e4de] Notice of such an appeal must specify the grounds of appeal.
+(2)[^c-419f08cff5372e0c77e2a7dacee8dc59][^c-9cbbf1c9b46783b91abb1b584f34e4de] Notice of such an appeal must specify the grounds of appeal.
 
-(3)[^key-a88280f1de4e478d540b924122fb4dea] An appeal under section 22 is to the appropriate tribunal.
+(3)[^c-a88280f1de4e478d540b924122fb4dea] An appeal under section 22 is to the appropriate tribunal.
 
-(4)[^key-5c93ffa6766d30da067dea2d1855d66d][^key-3362eed7ecece5a45baef548d830a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5c93ffa6766d30da067dea2d1855d66d][^c-3362eed7ecece5a45baef548d830a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5c93ffa6766d30da067dea2d1855d66d][^key-3362eed7ecece5a45baef548d830a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5c93ffa6766d30da067dea2d1855d66d][^c-3362eed7ecece5a45baef548d830a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-79eee01e11ab199ac9298a936ab7b1be] Regulations may apply (with or without modifications) any provision contained in—
+(6)[^c-79eee01e11ab199ac9298a936ab7b1be] Regulations may apply (with or without modifications) any provision contained in—
 
 - (a) the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) (social security appeals: Great Britain),
 - (b) the Social Security (Northern Ireland) Order 1998 ( [SI 1998/1506 ( NI 10)](https://www.legislation.gov.uk/nisi/1998/1506) )(social security appeals: Northern Ireland), or
@@ -669,9 +669,9 @@ whichever is greater.
 
 in relation to appeals which by virtue of this section are to the appropriate tribunal or in relation to appeals under this Act which lie to a Social Security Commissioner.
 
-(7)[^key-374c1002d261a0b6ecfa51500be04c07][^key-3362eed7ecece5a45baef548d830a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-374c1002d261a0b6ecfa51500be04c07][^c-3362eed7ecece5a45baef548d830a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Temporary modifications[^key-6b25305bd867fc9772194adfb887d006]
+### 24. Temporary modifications[^c-6b25305bd867fc9772194adfb887d006]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -727,7 +727,7 @@ This Act (apart from sections 25 and 26, this section and sections 28 to 31) com
 In this Act—
 
 - “**account provider**” is to be construed in accordance with section 3(1),
-- “appropriate tribunal” means[^key-12a04a2833a2ea9edb6f0b5de749f736]
+- “appropriate tribunal” means[^c-12a04a2833a2ea9edb6f0b5de749f736]
 
   (a) the First-tier Tribunal, or
 
@@ -735,11 +735,11 @@ In this Act—
 - “**child**” means a person under the age of 18,
 - “**child trust fund**” has the meaning given by section 1(2),
 - “**eligible child**” is to be construed in accordance with section 2,
-- [^key-adb7c8fca6458c73db2deda8191bb331]...
+- [^c-adb7c8fca6458c73db2deda8191bb331]...
 - “**the Inland Revenue**” means the Commissioners of Inland Revenue,
-- “Northern Ireland Social Security Commissioner” means the Chief Social Security Commissioner or any other Social Security Commissioner appointed under the Social Security Administration (Northern Ireland) Act[^key-8762b442071c5eb85435e4953cc5b543] [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) or a tribunal of two or more Commissioners constituted under article 16(7) of the Social Security (Northern Ireland) Order 1998, and
+- “Northern Ireland Social Security Commissioner” means the Chief Social Security Commissioner or any other Social Security Commissioner appointed under the Social Security Administration (Northern Ireland) Act[^c-8762b442071c5eb85435e4953cc5b543] [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) or a tribunal of two or more Commissioners constituted under article 16(7) of the Social Security (Northern Ireland) Order 1998, and
 - “**responsible person**” has the meaning given by section 3(8), and
-- [^key-adb7c8fca6458c73db2deda8191bb331]...
+- [^c-adb7c8fca6458c73db2deda8191bb331]...
 
 ### 30. Extent
 
@@ -751,144 +751,144 @@ This Act may be cited as the Child Trust Funds Act 2004.
 
 ## Annotations
 
-[^key-ffca22fd0671c2da4e159a19c70a4a44]: Commencement: S. 1(1)(2) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-ffca22fd0671c2da4e159a19c70a4a44]: Commencement: S. 1(1)(2) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-f62604169696382d9ebd3576153bbfa2]: Commencement: S. 1(3) in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-f62604169696382d9ebd3576153bbfa2]: Commencement: S. 1(3) in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-afa67955fe7fb3a31dd6b09467d1369a]: Commencement: S. 2 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-afa67955fe7fb3a31dd6b09467d1369a]: Commencement: S. 2 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-e05c0880d8450575504548cbd3778470]: Textual amendment: Words in s. 2(1) inserted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2010/36/section/1/2), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
+[^c-e05c0880d8450575504548cbd3778470]: Textual amendment: Words in s. 2(1) inserted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2010/36/section/1/2), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
 
-[^key-bff716be7ef38c4f0d52a40dae63bf37]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-bff716be7ef38c4f0d52a40dae63bf37]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-4a9b6b44cc627ab1ff8b8f0dcf5e1f82]: Textual amendment: S. 2(5)(b) substituted (1.6.2009) by [Immigration (European Economic Area) (Amendment) Regulations 2009 (S.I. 2009/1117)](https://www.legislation.gov.uk/uksi/2009/1117), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1117/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1117/schedule/2/paragraph/1)
+[^c-4a9b6b44cc627ab1ff8b8f0dcf5e1f82]: Textual amendment: S. 2(5)(b) substituted (1.6.2009) by [Immigration (European Economic Area) (Amendment) Regulations 2009 (S.I. 2009/1117)](https://www.legislation.gov.uk/uksi/2009/1117), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1117/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1117/schedule/2/paragraph/1)
 
-[^key-522e8a6c717d09f3d92c8c8bd9ba767f]: Textual amendment: S. 2(5A)-(5C) inserted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/1/3), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
+[^c-522e8a6c717d09f3d92c8c8bd9ba767f]: Textual amendment: S. 2(5A)-(5C) inserted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/1/3), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
 
-[^key-a0e19c8d6d1e6884a223d7d9fce47e21]: Textual amendment: Words in s. 2(6) inserted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2010/36/section/1/4), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
+[^c-a0e19c8d6d1e6884a223d7d9fce47e21]: Textual amendment: Words in s. 2(6) inserted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2010/36/section/1/4), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
 
-[^key-8ffc23a226ec4ac90ce73bf54b31f8ff]: Commencement: S. 3(1)(3) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-8ffc23a226ec4ac90ce73bf54b31f8ff]: Commencement: S. 3(1)(3) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-74050ca376abce74bb9cc9622c07a2a4]: Commencement: S. 3(1)-(9) (12) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
+[^c-74050ca376abce74bb9cc9622c07a2a4]: Commencement: S. 3(1)-(9) (12) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
 
-[^key-8114b0f58ca66d0672a3d6b24ca8aae0]: Commencement: S. 3(2) s. 3(4)-(9) (12) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-8114b0f58ca66d0672a3d6b24ca8aae0]: Commencement: S. 3(2) s. 3(4)-(9) (12) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-ec58b361e83e1b45548fd3fb42bbf973]: Textual amendment: Words in s. 3(4)(d) inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/4), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
+[^c-ec58b361e83e1b45548fd3fb42bbf973]: Textual amendment: Words in s. 3(4)(d) inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/4), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
 
-[^key-33a5a42d649d3eeb68cd842666663729]: Textual amendment: [S. 3(6)(a)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/6/a)[(b)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/6/b) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/61/2), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-33a5a42d649d3eeb68cd842666663729]: Textual amendment: [S. 3(6)(a)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/6/a)[(b)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/6/b) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/61/2), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-10260e4a8515bf6865317c2aec26af94]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/8) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/61/3), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-10260e4a8515bf6865317c2aec26af94]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/8) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/61/3), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-9af2c823adc9f3c1b25a5341f9f10c9a]: Commencement: S. 3(10)(11) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-9af2c823adc9f3c1b25a5341f9f10c9a]: Commencement: S. 3(10)(11) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-b80e3e47dabf644f9483fceca783b838]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/10) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 61(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/61/4), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-b80e3e47dabf644f9483fceca783b838]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/10) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 61(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/61/4), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-4968a2957a5282e4e7464b01299f39ae]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/10) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/2), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-4968a2957a5282e4e7464b01299f39ae]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/10) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/2), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-0b8b196718a47debd4bfd1f175ab1ef3]: Textual amendment: [S. 3(11A)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/11A)[(11B)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/11B) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/3), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-0b8b196718a47debd4bfd1f175ab1ef3]: Textual amendment: [S. 3(11A)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/11A)[(11B)](https://www.legislation.gov.uk/ukpga/2004/6/section/3/11B) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/3), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-0567ed646cacb3b840064147da135566]: Commencement: S. 4 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-0567ed646cacb3b840064147da135566]: Commencement: S. 4 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-4e7b2d2ce1c45b230cc1f016621c3480]: Commencement: S. 5 in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
+[^c-4e7b2d2ce1c45b230cc1f016621c3480]: Commencement: S. 5 in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
 
-[^key-a4c63f664a316bc8c0e391c148f78e74]: Commencement: S. 5(1)(2) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-a4c63f664a316bc8c0e391c148f78e74]: Commencement: S. 5(1)(2) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-885cfb72919bc34cc0f40827aca2d893]: Commencement: S. 5(3)-(5) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-885cfb72919bc34cc0f40827aca2d893]: Commencement: S. 5(3)-(5) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-4458dfe4860254df721a8f4fcb11c9c9]: Commencement: S. 6 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-4458dfe4860254df721a8f4fcb11c9c9]: Commencement: S. 6 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-45e65750f257a6f7515ce924a7f6c7bc]: Commencement: S. 7 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-45e65750f257a6f7515ce924a7f6c7bc]: Commencement: S. 7 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-7b260588304fbbc4154f01e7e2210fc8]: Textual amendment: S. 7A inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/2), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
+[^c-7b260588304fbbc4154f01e7e2210fc8]: Textual amendment: S. 7A inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/2), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
 
-[^key-c3a43e74118c52a448d91031b8a064e7]: Textual amendment: S. 7B inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/3), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
+[^c-c3a43e74118c52a448d91031b8a064e7]: Textual amendment: S. 7B inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/3), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
 
-[^key-86b3352718111ac275abd53089415727]: Textual amendment: S. 7C and cross-heading inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 63](https://www.legislation.gov.uk/ukpga/2015/20/section/63), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
+[^c-86b3352718111ac275abd53089415727]: Textual amendment: S. 7C and cross-heading inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 63](https://www.legislation.gov.uk/ukpga/2015/20/section/63), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
 
-[^key-a7274d34f6209b9235cbcb1702cd80a0]: Commencement: S. 8 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-a7274d34f6209b9235cbcb1702cd80a0]: Commencement: S. 8 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-a6538662f8c0b419f980bad8c67c4def]: Commencement: S. 9 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-a6538662f8c0b419f980bad8c67c4def]: Commencement: S. 9 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-d4c59afc1d02170d3aae9f41ae0cee4b]: Commencement: S. 10 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-d4c59afc1d02170d3aae9f41ae0cee4b]: Commencement: S. 10 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-43e87c8638c3046609ec5932efc2d370]: Commencement: S. 11 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-43e87c8638c3046609ec5932efc2d370]: Commencement: S. 11 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-b1ffd3b43d2e2e10375099c43b23cc94]: Commencement: S. 12 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-b1ffd3b43d2e2e10375099c43b23cc94]: Commencement: S. 12 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-50a3d46a846873328ea33266f132d96f]: Commencement: S. 13 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-50a3d46a846873328ea33266f132d96f]: Commencement: S. 13 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-55eabceba856fdadce9afe2b66287e35]: Textual amendment: S. 14 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-55eabceba856fdadce9afe2b66287e35]: Textual amendment: S. 14 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-2b362cf2a97f4eaf2afb3749664bd3bf]: Commencement: S. 14 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-2b362cf2a97f4eaf2afb3749664bd3bf]: Commencement: S. 14 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-03e9729dacd1f3c9e30c1ccadc5764f5]: Commencement: S. 15(1)(2)(a)(3) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-03e9729dacd1f3c9e30c1ccadc5764f5]: Commencement: S. 15(1)(2)(a)(3) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-3cbab785e2e26b3332008d85baf45797]: Commencement: S. 15(1)(2)(a)(3) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
+[^c-3cbab785e2e26b3332008d85baf45797]: Commencement: S. 15(1)(2)(a)(3) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
 
-[^key-2b828680a96e2c1dc191afbfe938a746]: Textual amendment: Words in s. 15(1) omitted (1.4.2010) by virtue of [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/2/a)
+[^c-2b828680a96e2c1dc191afbfe938a746]: Textual amendment: Words in s. 15(1) omitted (1.4.2010) by virtue of [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/2/a)
 
-[^key-ac057d2ea42dd444bb72ffc84dc03b36]: Textual amendment: Words in s. 15(1) substituted (1.4.2010) by [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/2/b)
+[^c-ac057d2ea42dd444bb72ffc84dc03b36]: Textual amendment: Words in s. 15(1) substituted (1.4.2010) by [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/2/b)
 
-[^key-72529060f9de127841f981a7f02f5145]: Textual amendment: Words in s. 15(1) substituted (1.4.2010) by [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/2/c)
+[^c-72529060f9de127841f981a7f02f5145]: Textual amendment: Words in s. 15(1) substituted (1.4.2010) by [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/2/c)
 
-[^key-235c1939065ffe0216c31173b671237c]: Textual amendment: S. 15(2) omitted (1.4.2010) by virtue of [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/3)
+[^c-235c1939065ffe0216c31173b671237c]: Textual amendment: S. 15(2) omitted (1.4.2010) by virtue of [Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/12/3)
 
-[^key-18a9b9716fb188ce827d81b09a986f58]: Commencement: S. 16 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-18a9b9716fb188ce827d81b09a986f58]: Commencement: S. 16 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-9173c2557a78a2837e714c36a74eaa14]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/ukpga/2004/6/section/16/1/a) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/4/a), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-9173c2557a78a2837e714c36a74eaa14]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/ukpga/2004/6/section/16/1/a) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/4/a), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-be9e488fcb8f218634975f19557f4c1c]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2004/6/section/16/1/b) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(4)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/4/b), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-be9e488fcb8f218634975f19557f4c1c]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2004/6/section/16/1/b) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(4)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/4/b), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-250aff2a5864dec26be0ae67b9bf4fe1]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2004/6/section/16/1) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(4)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/4/c), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
+[^c-250aff2a5864dec26be0ae67b9bf4fe1]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2004/6/section/16/1) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 60(4)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/60/4/c), [115(3)(f)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/f)
 
-[^key-6874969bfabe0e4484af6628ac962171]: Commencement: S. 17 in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-6874969bfabe0e4484af6628ac962171]: Commencement: S. 17 in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-cb33eb4c5b5463d603d48a21521e5ade]: Commencement: S. 18 in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-cb33eb4c5b5463d603d48a21521e5ade]: Commencement: S. 18 in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-8c02cc50007c741337039678c97c9be7]: Commencement: S. 19 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-8c02cc50007c741337039678c97c9be7]: Commencement: S. 19 in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-390beca8f796d8f1846d69709b72ca18]: Commencement: S. 20(1)(a) s. 20(2)-(6) (7)(a) (7)(b) (8) (9) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-390beca8f796d8f1846d69709b72ca18]: Commencement: S. 20(1)(a) s. 20(2)-(6) (7)(a) (7)(b) (8) (9) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-3864379a78f9fda13e6bab30a3c2d128]: Commencement: S. 20(1)(a) s. 20(2)-(6) (7)(a) (7)(b) (8) (9) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
+[^c-3864379a78f9fda13e6bab30a3c2d128]: Commencement: S. 20(1)(a) s. 20(2)-(6) (7)(a) (7)(b) (8) (9) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
 
-[^key-c0b96131774167ca2c8c7e9c7c4a305a]: Commencement: S. 20(1)(b)(c)(7)(c) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-c0b96131774167ca2c8c7e9c7c4a305a]: Commencement: S. 20(1)(b)(c)(7)(c) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-4ff77b355b3efc77348c8179b1dc0ba0]: Textual amendment: Words in [s. 20(7)(b)](https://www.legislation.gov.uk/ukpga/2004/6/section/20/7/b) inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/5), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
+[^c-4ff77b355b3efc77348c8179b1dc0ba0]: Textual amendment: Words in [s. 20(7)(b)](https://www.legislation.gov.uk/ukpga/2004/6/section/20/7/b) inserted (26.3.2015 for specified purposes) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 62(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/62/5), [115(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/d)
 
-[^key-73fe9e7ddb426a5cd74c0023f82270be]: Commencement: S. 21 in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-73fe9e7ddb426a5cd74c0023f82270be]: Commencement: S. 21 in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-df28cae91b486af949b6406a0b6a125a]: Commencement: S. 21 in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
+[^c-df28cae91b486af949b6406a0b6a125a]: Commencement: S. 21 in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
 
-[^key-1cf15b760556f0af579554808be3a472]: Textual amendment: Words in s. 21(9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 415(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/415/2/a)
+[^c-1cf15b760556f0af579554808be3a472]: Textual amendment: Words in s. 21(9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 415(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/415/2/a)
 
-[^key-1d46f5fe593f7c8c2634bf5e5382bc38]: Textual amendment: Words in s. 21(9)(c)(d) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 415(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/415/2/b)
+[^c-1d46f5fe593f7c8c2634bf5e5382bc38]: Textual amendment: Words in s. 21(9)(c)(d) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 415(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/415/2/b)
 
-[^key-9daf712a7b6f5767996640e5302464c9]: Textual amendment: S. 21(10)-(10C) substituted for 21(10) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 415(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/415/3)
+[^c-9daf712a7b6f5767996640e5302464c9]: Textual amendment: S. 21(10)-(10C) substituted for 21(10) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 415(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/415/3)
 
-[^key-16f18f0811b0af1371d34400205fdd93]: Commencement: S. 22(1)(6) in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-16f18f0811b0af1371d34400205fdd93]: Commencement: S. 22(1)(6) in force at 1.1.2005 by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-d6f69f2694db86ddd80867fdf400d16a]: Commencement: S. 22(2)-(5) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-d6f69f2694db86ddd80867fdf400d16a]: Commencement: S. 22(2)-(5) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-178a61ee1463b9203411c54ebec90250]: Commencement: S. 23(1) in force at 1.1.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/3)
+[^c-178a61ee1463b9203411c54ebec90250]: Commencement: S. 23(1) in force at 1.1.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/3)
 
-[^key-419f08cff5372e0c77e2a7dacee8dc59]: Commencement: S. 23(1)-(3) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
+[^c-419f08cff5372e0c77e2a7dacee8dc59]: Commencement: S. 23(1)-(3) in force at 1.1.2005 for specified purposes by [S.I. 2004/2422](https://www.legislation.gov.uk/uksi/2004/2422), [art. 2](https://www.legislation.gov.uk/uksi/2004/2422/article/2)
 
-[^key-9cbbf1c9b46783b91abb1b584f34e4de]: Commencement: S. 23(2)(3) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
+[^c-9cbbf1c9b46783b91abb1b584f34e4de]: Commencement: S. 23(2)(3) in force at 6.4.2005 in so far as not already in force by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/4)
 
-[^key-a88280f1de4e478d540b924122fb4dea]: Textual amendment: S. 23(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/2)
+[^c-a88280f1de4e478d540b924122fb4dea]: Textual amendment: S. 23(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/2)
 
-[^key-5c93ffa6766d30da067dea2d1855d66d]: Textual amendment: S. 23(4)(5) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/3)
+[^c-5c93ffa6766d30da067dea2d1855d66d]: Textual amendment: S. 23(4)(5) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/3)
 
-[^key-3362eed7ecece5a45baef548d830a702]: Commencement: S. 23(4)-(7) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
+[^c-3362eed7ecece5a45baef548d830a702]: Commencement: S. 23(4)-(7) in force at 6.4.2005 by [S.I. 2004/3369](https://www.legislation.gov.uk/uksi/2004/3369), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3369/article/2/1)
 
-[^key-79eee01e11ab199ac9298a936ab7b1be]: Textual amendment: S. 23(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/4)
+[^c-79eee01e11ab199ac9298a936ab7b1be]: Textual amendment: S. 23(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/4)
 
-[^key-374c1002d261a0b6ecfa51500be04c07]: Textual amendment: S. 23(7) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/5)
+[^c-374c1002d261a0b6ecfa51500be04c07]: Textual amendment: S. 23(7) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 416(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/416/5)
 
-[^key-6b25305bd867fc9772194adfb887d006]: Textual amendment: S. 24 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 417](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/417)
+[^c-6b25305bd867fc9772194adfb887d006]: Textual amendment: S. 24 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 417](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/417)
 
-[^key-12a04a2833a2ea9edb6f0b5de749f736]: Textual amendment: Words in s. 29 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 418(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/418/2)
+[^c-12a04a2833a2ea9edb6f0b5de749f736]: Textual amendment: Words in s. 29 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 418(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/418/2)
 
-[^key-adb7c8fca6458c73db2deda8191bb331]: Textual amendment: Words in s. 29 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 418(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/418/3)
+[^c-adb7c8fca6458c73db2deda8191bb331]: Textual amendment: Words in s. 29 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 418(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/418/3)
 
-[^key-8762b442071c5eb85435e4953cc5b543]: Textual amendment: Words in s. 29 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 418(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/418/4)
+[^c-8762b442071c5eb85435e4953cc5b543]: Textual amendment: Words in s. 29 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 418(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/418/4)

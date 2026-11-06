@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred on it by Articles 15(1) and (3), 16(1), 17(1)(c), 18(1)(b), 25, 26(3) and 47(2) of, and paragraphs 1 and 4(b) of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002].
 
-In accordance with Article 47(3A) of that Order, it has had regard to relevant advice given by the Food Standards Agency.[^key-8a33df19a1292ad58c5e4e057624d383]
+In accordance with Article 47(3A) of that Order, it has had regard to relevant advice given by the Food Standards Agency.[^c-8a33df19a1292ad58c5e4e057624d383]
 
-As required by Article 9 of Regulation EC No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation of these Regulations.[^key-8a33df19a1292ad58c5e4e057624d383]
+As required by Article 9 of Regulation EC No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation of these Regulations.[^c-8a33df19a1292ad58c5e4e057624d383]
 
-## 1. Citation and commencement[^key-ec815aebd9ca2ee68b7e2606846f909f]
+## 1. Citation and commencement[^c-ec815aebd9ca2ee68b7e2606846f909f]
 
 These Regulations may be cited as the Food Irradiation Regulations (Northern Ireland) 2009 and come into operation on 31st July 2009.
 
-## 2. Scope[^key-8133d465a97cb009686c52dbce691856]
+## 2. Scope[^c-8133d465a97cb009686c52dbce691856]
 
 These Regulations do not apply to—
 
@@ -62,13 +62,13 @@ These Regulations do not apply to—
   where the dose of ionising radiation absorbed does not exceed 0.01Gy in the case of inspection devices which utilise neutrons and 0.5 Gy in other cases; or
 - (b) irradiation of food prepared under medical supervision for patients requiring sterile diets.
 
-## 3. Interpretation[^key-dbd17e2d5c27ed221744efe276082d76]
+## 3. Interpretation[^c-dbd17e2d5c27ed221744efe276082d76]
 
 (1) In these Regulations—
 
 - “the Agency” means the Food Standards Agency;
 - “approval” includes a licence;
-- “import” means to introduce from another member State or from a country outside the European Union[^key-47edd84944e6ad272e2afc6db94f5003];
+- “import” means to introduce from another member State or from a country outside the European Union[^c-47edd84944e6ad272e2afc6db94f5003];
 - “ionising radiation” means any gamma rays, X rays or corpuscular radiations which are capable of producing ions either directly or indirectly;
 - “irradiated” means treated by ionising radiation;
 - “licence” save in regulation 7(a)(ii)(bb) means a licence granted by the Agency in accordance with Schedule 2 to a person and a facility to irradiate food;
@@ -113,7 +113,7 @@ These Regulations do not apply to—
 - (a) more than three times the minimum dose absorbed by it; or
 - (b) more than 1.5 times the overall average dose specified for the food in paragraph (2)(e).
 
-## 4. Prohibition on treatment without a licence[^key-885eab33b705395fb35946df57beca6d]
+## 4. Prohibition on treatment without a licence[^c-885eab33b705395fb35946df57beca6d]
 
 (1) A person shall not in the preparation of any food irradiate it or any part of it unless—
 
@@ -123,7 +123,7 @@ These Regulations do not apply to—
 
 (2) Schedule 2 shall have effect in relation to licences.
 
-## 5. Restrictions on importation[^key-3bf22d0861062beaf2bfb5c51fc58596]
+## 5. Restrictions on importation[^c-3bf22d0861062beaf2bfb5c51fc58596]
 
 (1) A person shall not import into Northern Ireland for the purpose of sale any irradiated food unless—
 
@@ -152,7 +152,7 @@ These Regulations do not apply to—
 
 (5) In paragraph (3)(c) the expression “the conditions which apply to the food” is to be construed in accordance with the expression “the conditions which apply to those foodstuffs” in Article 9(1) of Directive [1999/2/EC](https://www.legislation.gov.uk/european/directive/1999/0002) of the European Parliament and of the Council on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation[^f00004] as amended.
 
-## 6. Restriction on storage or transport[^key-bfe8c441383059141214fd5805f25444]
+## 6. Restriction on storage or transport[^c-bfe8c441383059141214fd5805f25444]
 
 (1) A person shall not store or transport for the purpose of sale any irradiated food unless—
 
@@ -163,7 +163,7 @@ These Regulations do not apply to—
 
 (2) This regulation applies to food which has (as well as food which has not) become an ingredient of other food.
 
-## 7. Restriction on sale[^key-4283a9ef57002c1e23f20b71e4a6a8c3]
+## 7. Restriction on sale[^c-4283a9ef57002c1e23f20b71e4a6a8c3]
 
 A person shall not sell food which, or any part of which, has been irradiated unless—
 
@@ -178,7 +178,7 @@ A person shall not sell food which, or any part of which, has been irradiated un
   - (iii) the food was imported into Northern Ireland and regulation 5 was complied with; and
 - (b) where it was stored or transported, regulation 6 was complied with.
 
-## 8. Documentation for food not ready for a final sale[^key-d864268ed934d770405fa5a883bcd044]
+## 8. Documentation for food not ready for a final sale[^c-d864268ed934d770405fa5a883bcd044]
 
 (1) A person shall not import into Northern Ireland, store or transport for the purpose of sale or sell irradiated food, or food containing an irradiated ingredient, which is not ready for delivery to the ultimate consumer or catering establishments unless the documents which accompany the food—
 
@@ -193,7 +193,7 @@ A person shall not sell food which, or any part of which, has been irradiated un
   - (ii) for the purposes of a catering establishment; or
   - (iii) for the purposes of a manufacturing business.
 
-## 9. Enforcement[^key-f8ce430fd0c7297a5a85dec4c3e204b8]
+## 9. Enforcement[^c-f8ce430fd0c7297a5a85dec4c3e204b8]
 
 (1) The Agency shall enforce the provisions of these Regulations in so far as they fall to be observed by a licensee.
 
@@ -203,7 +203,7 @@ A person shall not sell food which, or any part of which, has been irradiated un
 
 (4) Each authority concerned in the administration of these Regulations shall give to each other authority so concerned such assistance and information as that other authority may reasonably require for the purposes of its duties under these Regulations.
 
-## 10. Offences and penalties[^key-be4020b40d49351fb69ed6b934a18153]
+## 10. Offences and penalties[^c-be4020b40d49351fb69ed6b934a18153]
 
 (1) Any person who contravenes any of the provisions of these Regulations or, for the purposes of these Regulations, makes any false statement or uses any document containing a false statement either recklessly or knowing it to be false, is guilty of an offence and is liable—
 
@@ -215,7 +215,7 @@ A person shall not sell food which, or any part of which, has been irradiated un
 - (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding six months or both; and
 - (b) on conviction on indictment to a fine or to imprisonment for a term not exceeding two years or both.
 
-## 11. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-178ed8a6ab5b22864aac6a41f7b5cd29]
+## 11. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-178ed8a6ab5b22864aac6a41f7b5cd29]
 
 (1) The following provisions of the Order shall apply for the purposes of these Regulations with the modification that any reference in them to the Order shall be construed as a reference to these Regulations—
 
@@ -232,7 +232,7 @@ A person shall not sell food which, or any part of which, has been irradiated un
 
 (3) Article 35 of the Order (which relates to time limits for the beginning of prosecutions) shall apply in relation to offences under these Regulations as it applies to offences punishable under Article 36(2) of the Order.
 
-## 12. Revocation of existing Regulations[^key-b8e91ba9fcb9fffb8027cfc03b956d9a]
+## 12. Revocation of existing Regulations[^c-b8e91ba9fcb9fffb8027cfc03b956d9a]
 
 (1) The Food (Control of Irradiation) Regulations (Northern Ireland) 1992[^f00005] are revoked.
 
@@ -250,7 +250,7 @@ Regulation 3(2)(e) and (3) and Schedule2 Part 1 paragraphs 1(g) and 2(l)
 
 *(This Schedule sets out (with a correction*[^f00007] *in paragraph 1(5)) the provisions of Annex III to Directive [1999/2/EC](https://www.legislation.gov.uk/european/directive/1999/0002) of the European Parliament and of the Council on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation*[^f00008] *as amended)*
 
-### 1. Dosimetry: overall average absorbed dose[^key-173d036c86ccf5d9c81d4e933697c962]
+### 1. Dosimetry: overall average absorbed dose[^c-173d036c86ccf5d9c81d4e933697c962]
 
 (1) It can be assumed for the purpose of the determination of the wholesomeness of foodstuffs treated with an overall average dose of 10kGy or less that all radiation chemical effects in that particular dose range are proportional to that dose.
 
@@ -273,7 +273,7 @@ where:-
 
 [formula: Equation2](https://www.legislation.gov.uk/nisr/2009/258)[formula: Equation3](https://www.legislation.gov.uk/nisr/2009/258)
 
-### 2. Procedures[^key-2c0028fa7c4dc934b8d546b99278e78d]
+### 2. Procedures[^c-2c0028fa7c4dc934b8d546b99278e78d]
 
 (1) Before routine irradiation of a given category of foodstuffs begins at a radiation facility, the locations of the minimum and maximum doses are determined by making dose measurements throughout the product volume. These validation measurements must be carried out a suitable number of times (e.g. 3-5) in order to make allowance for variations in product density or geometry.
 
@@ -295,7 +295,7 @@ Regulations 4(2), 5(2)(b) and (3)(a), 6(1)(b) and7(a)(i) and (ii)(aa)
 
 ### Part 1 — Grant of Licences
 
-#### 1. Application for licence[^key-74a71d9bdfc09fcdcad42fdcc8639cb6]
+#### 1. Application for licence[^c-74a71d9bdfc09fcdcad42fdcc8639cb6]
 
 A person seeking a licence to irradiate food (“the applicant”) shall apply by sending to the Agency an application in writing containing—
 
@@ -320,7 +320,7 @@ A person seeking a licence to irradiate food (“the applicant”) shall apply b
 - (j) the date from which the applicant wishes the licence to run; and
 - (k) any other particulars which the applicant wishes the Agency to consider in deciding whether to grant the licence.
 
-#### 2. Consideration of the application[^key-1b3ae722eb09613a1377b219958453b5]
+#### 2. Consideration of the application[^c-1b3ae722eb09613a1377b219958453b5]
 
 The Agency may grant a licence where it is satisfied that—
 
@@ -345,14 +345,14 @@ The Agency may grant a licence where it is satisfied that—
 - (m) the factors specified under paragraph 1(f) eliminate any significant risk that food, irradiated in any packaging specified under paragraph 1(f)(v), and at any temperature specified under paragraph 1(f)(vi), will fail to comply with food safety requirements; and
 - (n) the practices and qualifications specified in the statement under paragraph 1(h) are adequate for ensuring that the requirements of these Regulations and any conditions of the licence will not be breached.
 
-**3.**[^key-04c85e1bbce3930b3137c8b09ee55202] Where the Agency believes that—
+**3.**[^c-04c85e1bbce3930b3137c8b09ee55202] Where the Agency believes that—
 
 - (a) it ought to take account of the practical operation of the facility before it finally determines the application; and
 - (b) it would not prejudice safety if food was irradiated at the facility for the time being,
 
 it may grant a licence for a period, or further period, not exceeding 6 months in total to enable it to take such account.
 
-#### 4. Refusal of application[^key-e260e8c158c952989d20ba115ca31678]
+#### 4. Refusal of application[^c-e260e8c158c952989d20ba115ca31678]
 
 (1) Where the Agency refuses to grant a licence, it shall give to the applicant a statement in writing of its reasons for doing so and shall invite the applicant to make representations to it in writing within 28 days after the statement is sent.
 
@@ -361,7 +361,7 @@ it may grant a licence for a period, or further period, not exceeding 6 months i
 - (a) may if satisfied as to the matters specified in paragraph 2 grant a licence; or
 - (b) shall give to the applicant a statement in writing of its reasons for continuing to refuse a licence.
 
-#### 5. Duration[^key-3959838c0d1ba7635b0f8ff6dedb74f3]
+#### 5. Duration[^c-3959838c0d1ba7635b0f8ff6dedb74f3]
 
 (1) Subject to sub-paragraph (2), a licence shall continue in effect unless cancelled or suspended in accordance with the provisions of Part 5 or surrendered by the licensee to the Agency.
 
@@ -374,7 +374,7 @@ unless cancelled or suspended in accordance with the provisions of Part 5 or sur
 
 ### Part 2 — Contents of Licence
 
-#### 1. Contents of licence[^key-3cc4a49be4fd18ace1f9bb3480234e56]
+#### 1. Contents of licence[^c-3cc4a49be4fd18ace1f9bb3480234e56]
 
 Every licence shall contain—
 
@@ -389,7 +389,7 @@ and may contain conditions.
 
 ### Part 3 — Requirements and prohibitions to be observed by a licensee
 
-**1.**[^key-ec5b7bdd58d8dea826a132572cca2a2e] (1) A licensee shall only irradiate food—
+**1.**[^c-ec5b7bdd58d8dea826a132572cca2a2e] (1) A licensee shall only irradiate food—
 
 - (a) to which the licence applies; and
 - (b) at the licensed facility.
@@ -403,31 +403,31 @@ and may contain conditions.
   - (ii) the reason why its owner wants it to be irradiated; and
 - (d) a statement as to whether the food or any part of it has been irradiated.
 
-**2.**[^key-5ac477afc398e2ccccf8b83e7d696c53] Every licensee shall keep—
+**2.**[^c-5ac477afc398e2ccccf8b83e7d696c53] Every licensee shall keep—
 
 - (a) food which awaits irradiation at the licensed facility on a part of the facility which is separated by a wall or barrier from any part of the facility where food which has been irradiated is kept; and
 - (b) all food which is either awaiting irradiation or has been irradiated on parts of the facility which are separated by a wall or barrier from any part of the facility on which other food is kept in the course of the business.
 
-**3.**[^key-abe22bf71424394466c543ae4eaf0d8d] (1) A licensee shall not irradiate food in combination with any chemical treatment having the same purpose as irradiating it.
+**3.**[^c-abe22bf71424394466c543ae4eaf0d8d] (1) A licensee shall not irradiate food in combination with any chemical treatment having the same purpose as irradiating it.
 
 (2) Subject to sub-paragraph (3), a licensee shall not irradiate food which, or any part of which, has previously been irradiated.
 
 (3) The removal of food from, and its return to, the facility where irradiation takes place shall not constitute a breach of sub-paragraph (2) where they form part of a continuous process required by the design and construction of that facility.
 
-**4.**[^key-19f55d07a1e00964d0078b616ba31bbd] Every licensee shall number each batch of food irradiated by the licensee and, where any of the food has been received from another person, do so in such a way that the number can be linked to the reference specified in paragraph 1(2)(b).
+**4.**[^c-19f55d07a1e00964d0078b616ba31bbd] Every licensee shall number each batch of food irradiated by the licensee and, where any of the food has been received from another person, do so in such a way that the number can be linked to the reference specified in paragraph 1(2)(b).
 
-**5.**[^key-8d08d41a761ff9e5f356fba1c87e9344] A licensee shall not irradiate food save with—
+**5.**[^c-8d08d41a761ff9e5f356fba1c87e9344] A licensee shall not irradiate food save with—
 
 - (a) gamma rays from the radionuclide <sup>60</sup>Co;
 - (b) gamma rays from the radionuclide <sup>137</sup>Cs;
 - (c) X-rays generated from machine sources operated at or below an energy level of 5 MeV; or
 - (d) electrons generated from machine sources operated at or below an energy level of 10MeV.
 
-**6.**[^key-8c3dbc0245d96044a73dbe31af96d2df] A licensee shall not irradiate food save by proper irradiation.
+**6.**[^c-8c3dbc0245d96044a73dbe31af96d2df] A licensee shall not irradiate food save by proper irradiation.
 
-**7.**[^key-f0a6cb0800775290c0e9784c0c14214c] Every licensee shall maintain such controls as shall at all times ensure that irradiation is consistent with the method of measurement specified under paragraph 1(f)(iv) of Part 1.
+**7.**[^c-f0a6cb0800775290c0e9784c0c14214c] Every licensee shall maintain such controls as shall at all times ensure that irradiation is consistent with the method of measurement specified under paragraph 1(f)(iv) of Part 1.
 
-**8.**[^key-7cd3a18b77c5416be205cabe37e3a850] Every licensee shall record, in relation to each batch of food irradiated by the licensee, the following information—
+**8.**[^c-7cd3a18b77c5416be205cabe37e3a850] Every licensee shall record, in relation to each batch of food irradiated by the licensee, the following information—
 
 - (a) in the case of a radionuclide facility—
   - (i) in relation to each source configuration of ionising radiation available for use in the facility, such information as to its position as shows whether and if so when the batch of food was exposed to it;
@@ -440,10 +440,10 @@ and may contain conditions.
   - (v) unless it has a scattering device, the frequency with which its beam scans the batch; and
   - (vi) the speed at which the batch travels through the facility.
 
-**9.**[^key-7f99eb0b78c2cec906f5d5d36a67a44a] (1) Every licensee shall record for each batch of food irradiated by the licensee—
+**9.**[^c-7f99eb0b78c2cec906f5d5d36a67a44a] (1) Every licensee shall record for each batch of food irradiated by the licensee—
 
 - (a) the nature and quantity of food in the batch;
-- (b)[^key-839bd6aa44e7c593d6c55c5f49c78d6e] its batch number;
+- (b)[^c-839bd6aa44e7c593d6c55c5f49c78d6e] its batch number;
 - (c) the name and address of each consignor and consignee of food within the batch;
 - (d) the date on which the batch was irradiated;
 - (e) any microbiological information relating to food within the batch;
@@ -463,9 +463,9 @@ and may contain conditions.
 - (c) the information specified in sub-paragraph (1)(a) to (d); and
 - (d) the overall average dose required to be recorded by sub-paragraph (1)(h).
 
-**10.**[^key-ddd33ce2b56be1db4f177105f6e37309] Every licensee shall keep for 5 years the information required to be recorded by paragraphs 8 and 9(1), even if the licensee ceases meanwhile to be licensed.
+**10.**[^c-ddd33ce2b56be1db4f177105f6e37309] Every licensee shall keep for 5 years the information required to be recorded by paragraphs 8 and 9(1), even if the licensee ceases meanwhile to be licensed.
 
-**11.**[^key-f1b1364ee3da66d8e46b331ec6ead560] Every licensee shall send to the Agency by the last day of February each year a return in writing in respect of the previous calendar year containing—
+**11.**[^c-f1b1364ee3da66d8e46b331ec6ead560] Every licensee shall send to the Agency by the last day of February each year a return in writing in respect of the previous calendar year containing—
 
 - (a) the licensee’s name;
 - (b) the licensee’s licence number;
@@ -475,24 +475,24 @@ and may contain conditions.
 
 ### Part 4 — Variation of Licence
 
-**1.**[^key-abdebf141490992069b14d671c5fc107] (1) Subject to paragraph 2, the Agency may at the request or with the consent of the licensee vary any condition of the licence.
+**1.**[^c-abdebf141490992069b14d671c5fc107] (1) Subject to paragraph 2, the Agency may at the request or with the consent of the licensee vary any condition of the licence.
 
-**2.**[^key-56917e575c03881883dac5c0f105f4c4] (1) Subject to sub-paragraph (2), the Agency shall not agree a variation which permits any act or omission a proposal for which would, had it been made in the application for a licence, have caused the Agency to refuse to grant a licence under paragraph 2 of Part 1.
+**2.**[^c-56917e575c03881883dac5c0f105f4c4] (1) Subject to sub-paragraph (2), the Agency shall not agree a variation which permits any act or omission a proposal for which would, had it been made in the application for a licence, have caused the Agency to refuse to grant a licence under paragraph 2 of Part 1.
 
 (2) For the purposes of sub-paragraph (1) the Agency, in considering whether to vary a licence, shall treat all scientific knowledge which it has at that time as if it had had it at the time it granted the licence.
 
 ### Part 5 — Cancellation and Suspension of Licence
 
-**1.**[^key-238949216cb6c0c2d44ef8e0a4aa1904] If the Agency considers that circumstances exist which, had it foreseen them (and possessed the same scientific knowledge it does now) at the time, it would have refused under paragraph 2 of Part 1 to grant the licence, it may give notice to the licensee —
+**1.**[^c-238949216cb6c0c2d44ef8e0a4aa1904] If the Agency considers that circumstances exist which, had it foreseen them (and possessed the same scientific knowledge it does now) at the time, it would have refused under paragraph 2 of Part 1 to grant the licence, it may give notice to the licensee —
 
 - (a) explaining why it would have refused to grant the licence; and
 - (b) informing the licensee that, unless the licensee persuades it in writing not to do so within a period of 28 days after the sending of the notice, or such longer period as it may allow, it will cancel the licence.
 
-**2.**[^key-d7c3a2bb53a8ea0a0f46b899ec1ddbd4] If by the expiration of the 28 day period or of any longer period allowed under paragraph 1(b) the Agency is not persuaded to the contrary, it shall give notice in writing to the licensee that the licence is cancelled from a date specified in the notice and shall state in the notice why it is not so persuaded; but if so persuaded it shall notify the licensee accordingly.
+**2.**[^c-d7c3a2bb53a8ea0a0f46b899ec1ddbd4] If by the expiration of the 28 day period or of any longer period allowed under paragraph 1(b) the Agency is not persuaded to the contrary, it shall give notice in writing to the licensee that the licence is cancelled from a date specified in the notice and shall state in the notice why it is not so persuaded; but if so persuaded it shall notify the licensee accordingly.
 
-**3.**[^key-71638829e85e9283eec2d7134abe6804] If cancelled, the licence shall cease to have effect on the date specified in the notice.
+**3.**[^c-71638829e85e9283eec2d7134abe6804] If cancelled, the licence shall cease to have effect on the date specified in the notice.
 
-**4.**[^key-6e82c1b41d8488902d3594368b2afc8c] (1) If the Agency considers that unless the licence is suspended there will or may be a risk of injury to health it may give notice in writing to the licensee suspending the licence from a date specified in the notice and, subject to sub-paragraphs (2) and (3), the licence shall have no effect for the purpose of these Regulations during that period.
+**4.**[^c-6e82c1b41d8488902d3594368b2afc8c] (1) If the Agency considers that unless the licence is suspended there will or may be a risk of injury to health it may give notice in writing to the licensee suspending the licence from a date specified in the notice and, subject to sub-paragraphs (2) and (3), the licence shall have no effect for the purpose of these Regulations during that period.
 
 (2) Subject to sub-paragraph (3), where notice is given suspending the licence—
 
@@ -505,14 +505,14 @@ and may contain conditions.
 
 ### Part 6 — Other Provisions Concerning Licence
 
-**1.**[^key-6e0ea91b904da9f9695151e2fc0f43da] The Agency shall publish in the Belfast Gazette notice of—
+**1.**[^c-6e0ea91b904da9f9695151e2fc0f43da] The Agency shall publish in the Belfast Gazette notice of—
 
 - (a) each licence granted;
 - (b) each suspension of a licence;
 - (c) each cancellation of a licence; and
 - (d) each agreed variation of the terms of a licence.
 
-**2.**[^key-8249a7b8bf72914f4f65739a9be5093d] Any notice so published shall specify—
+**2.**[^c-8249a7b8bf72914f4f65739a9be5093d] Any notice so published shall specify—
 
 - (a) the name of the licensee or former licensee;
 - (b) the licensed or formerly licensed facility; and
@@ -520,9 +520,9 @@ and may contain conditions.
 
 and shall state in outline the effect of the matter to which it relates.
 
-**3.**[^key-78047c4c9f78e7e11c3c6da52da0674e] Save as provided by Article 42 of the Order (continuance on death), a licence is not transferable.
+**3.**[^c-78047c4c9f78e7e11c3c6da52da0674e] Save as provided by Article 42 of the Order (continuance on death), a licence is not transferable.
 
-## SCHEDULE 3 — LIST OF APPROVED FACILITIES IN MEMBER STATES[^key-4f8dbb8912cb27879c58e4fdd581482c]
+## SCHEDULE 3 — LIST OF APPROVED FACILITIES IN MEMBER STATES[^c-4f8dbb8912cb27879c58e4fdd581482c]
 
 Regulations 3(1) and 5(1)(b)(i)
 
@@ -555,7 +555,7 @@ Regulations 3(1) and 5(1)(b)(i)
 | RG016/2008 | Multipurpose Irradiation Facility<br>IRASM Technological Irradiations Department<br>Horia Hulubei<br>National Institute for Research and Development of Physics and Nuclear Engineering<br>Atomiştilor Str. No. 407<br>PO Box MG-6<br>Măgurele. Ilfov County<br>Romania |
 | EW/04 | Synergy Health<br>Moray Road<br>Elgin Industrial Estate<br>Swindon<br>Wiltshire<br>SN2 8XS<br>United Kingdom |
 
-## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^key-b3f7957f5f35ebbe12f0610184e1bd55]
+## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^c-b3f7957f5f35ebbe12f0610184e1bd55]
 
 Regulation 5(1) and 5(1)(b)(i)
 
@@ -609,37 +609,37 @@ EXPLANATORY NOTE
 
 [^f00002]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and [S.R. 2004 Nos. 482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
 
-[^key-8a33df19a1292ad58c5e4e057624d383]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-8a33df19a1292ad58c5e4e057624d383]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended as by [Commission Regulation (EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17)
 
-[^key-ec815aebd9ca2ee68b7e2606846f909f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-ec815aebd9ca2ee68b7e2606846f909f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-8133d465a97cb009686c52dbce691856]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/258/regulation/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-8133d465a97cb009686c52dbce691856]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/258/regulation/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-dbd17e2d5c27ed221744efe276082d76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/258/regulation/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-dbd17e2d5c27ed221744efe276082d76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/258/regulation/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-47edd84944e6ad272e2afc6db94f5003]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-47edd84944e6ad272e2afc6db94f5003]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-885eab33b705395fb35946df57beca6d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/258/regulation/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-885eab33b705395fb35946df57beca6d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/258/regulation/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-3bf22d0861062beaf2bfb5c51fc58596]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/258/regulation/5) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-3bf22d0861062beaf2bfb5c51fc58596]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/258/regulation/5) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
 [^f00004]: Footnote: OJ No. L66, 13.3.1999, p.16 as amended by Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (OJ No. L284, 31.10.2003, p.1) and Regulation [(EC) No. 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) (OJ No. L311, 21.11.2008, p.1)
 
-[^key-bfe8c441383059141214fd5805f25444]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/258/regulation/6) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-bfe8c441383059141214fd5805f25444]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/258/regulation/6) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-4283a9ef57002c1e23f20b71e4a6a8c3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/258/regulation/7) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-4283a9ef57002c1e23f20b71e4a6a8c3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/258/regulation/7) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-d864268ed934d770405fa5a883bcd044]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/258/regulation/8) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-d864268ed934d770405fa5a883bcd044]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/258/regulation/8) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-f8ce430fd0c7297a5a85dec4c3e204b8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/258/regulation/9) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-f8ce430fd0c7297a5a85dec4c3e204b8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/258/regulation/9) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-be4020b40d49351fb69ed6b934a18153]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/258/regulation/10) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-be4020b40d49351fb69ed6b934a18153]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/258/regulation/10) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-178ed8a6ab5b22864aac6a41f7b5cd29]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/258/regulation/11) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-178ed8a6ab5b22864aac6a41f7b5cd29]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/258/regulation/11) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-b8e91ba9fcb9fffb8027cfc03b956d9a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/258/regulation/12) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-b8e91ba9fcb9fffb8027cfc03b956d9a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/258/regulation/12) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1992 No.172](https://www.legislation.gov.uk/nisr/1992/172)
 
@@ -649,68 +649,68 @@ EXPLANATORY NOTE
 
 [^f00008]: Footnote: OJ No. L66, 13.3.1999, p.16, as amended by Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (OJ No. L284, 31.10.2003, p.1) and Regulation [(EC) No. 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) (OJ No. L311, 21.11.2008, p.1)
 
-[^key-173d036c86ccf5d9c81d4e933697c962]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/1/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-173d036c86ccf5d9c81d4e933697c962]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/1/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-2c0028fa7c4dc934b8d546b99278e78d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/1/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-2c0028fa7c4dc934b8d546b99278e78d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/1/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-74a71d9bdfc09fcdcad42fdcc8639cb6]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-74a71d9bdfc09fcdcad42fdcc8639cb6]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
 [^f00009]: Footnote: A copy of the Code of Practice may be obtained from the Codex Alimentarius Commission, Food and Agriculture Organisation of the United Nations, Vialle della Terme di Caracalla, 0010, Rome
 
-[^key-1b3ae722eb09613a1377b219958453b5]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-1b3ae722eb09613a1377b219958453b5]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-04c85e1bbce3930b3137c8b09ee55202]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-04c85e1bbce3930b3137c8b09ee55202]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-e260e8c158c952989d20ba115ca31678]: Commencement: [Sch. 2 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-e260e8c158c952989d20ba115ca31678]: Commencement: [Sch. 2 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-3959838c0d1ba7635b0f8ff6dedb74f3]: Commencement: [Sch. 2 Pt. 1 para. 5](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/5) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-3959838c0d1ba7635b0f8ff6dedb74f3]: Commencement: [Sch. 2 Pt. 1 para. 5](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/1/paragraph/5) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-3cc4a49be4fd18ace1f9bb3480234e56]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/2/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-3cc4a49be4fd18ace1f9bb3480234e56]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/2/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-ec5b7bdd58d8dea826a132572cca2a2e]: Commencement: [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-ec5b7bdd58d8dea826a132572cca2a2e]: Commencement: [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-5ac477afc398e2ccccf8b83e7d696c53]: Commencement: [Sch. 2 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-5ac477afc398e2ccccf8b83e7d696c53]: Commencement: [Sch. 2 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-abe22bf71424394466c543ae4eaf0d8d]: Commencement: [Sch. 2 Pt. 3 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-abe22bf71424394466c543ae4eaf0d8d]: Commencement: [Sch. 2 Pt. 3 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-19f55d07a1e00964d0078b616ba31bbd]: Commencement: [Sch. 2 Pt. 3 para. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-19f55d07a1e00964d0078b616ba31bbd]: Commencement: [Sch. 2 Pt. 3 para. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-8d08d41a761ff9e5f356fba1c87e9344]: Commencement: [Sch. 2 Pt. 3 para. 5](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/5) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-8d08d41a761ff9e5f356fba1c87e9344]: Commencement: [Sch. 2 Pt. 3 para. 5](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/5) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-8c3dbc0245d96044a73dbe31af96d2df]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/6) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-8c3dbc0245d96044a73dbe31af96d2df]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/6) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-f0a6cb0800775290c0e9784c0c14214c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/7) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-f0a6cb0800775290c0e9784c0c14214c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/7) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-7cd3a18b77c5416be205cabe37e3a850]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/8) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-7cd3a18b77c5416be205cabe37e3a850]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/8) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-7f99eb0b78c2cec906f5d5d36a67a44a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/9) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-7f99eb0b78c2cec906f5d5d36a67a44a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/9) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-839bd6aa44e7c593d6c55c5f49c78d6e]: Textual amendment: [Sch. 2 Pt. 3 para. 9(1)(b)](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/9/1/b) substituted (20.10.2010) by [The Food Irradiation (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/322)](https://www.legislation.gov.uk/nisr/2010/322), [regs. 1](https://www.legislation.gov.uk/nisr/2010/322/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/322/regulation/3)
+[^c-839bd6aa44e7c593d6c55c5f49c78d6e]: Textual amendment: [Sch. 2 Pt. 3 para. 9(1)(b)](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/3/paragraph/9/1/b) substituted (20.10.2010) by [The Food Irradiation (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/322)](https://www.legislation.gov.uk/nisr/2010/322), [regs. 1](https://www.legislation.gov.uk/nisr/2010/322/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/322/regulation/3)
 
-[^key-ddd33ce2b56be1db4f177105f6e37309]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/10) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-ddd33ce2b56be1db4f177105f6e37309]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/10) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-f1b1364ee3da66d8e46b331ec6ead560]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/11) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-f1b1364ee3da66d8e46b331ec6ead560]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/paragraph/11) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-abdebf141490992069b14d671c5fc107]: Commencement: [Sch. 2 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/4/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-abdebf141490992069b14d671c5fc107]: Commencement: [Sch. 2 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/4/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-56917e575c03881883dac5c0f105f4c4]: Commencement: [Sch. 2 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/4/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-56917e575c03881883dac5c0f105f4c4]: Commencement: [Sch. 2 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/4/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-238949216cb6c0c2d44ef8e0a4aa1904]: Commencement: [Sch. 2 Pt. 5 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-238949216cb6c0c2d44ef8e0a4aa1904]: Commencement: [Sch. 2 Pt. 5 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-d7c3a2bb53a8ea0a0f46b899ec1ddbd4]: Commencement: [Sch. 2 Pt. 5 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-d7c3a2bb53a8ea0a0f46b899ec1ddbd4]: Commencement: [Sch. 2 Pt. 5 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-71638829e85e9283eec2d7134abe6804]: Commencement: [Sch. 2 Pt. 5 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-71638829e85e9283eec2d7134abe6804]: Commencement: [Sch. 2 Pt. 5 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-6e82c1b41d8488902d3594368b2afc8c]: Commencement: [Sch. 2 Pt. 5 para. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-6e82c1b41d8488902d3594368b2afc8c]: Commencement: [Sch. 2 Pt. 5 para. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/5/paragraph/4) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-6e0ea91b904da9f9695151e2fc0f43da]: Commencement: [Sch. 2 Pt. 6 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/6/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-6e0ea91b904da9f9695151e2fc0f43da]: Commencement: [Sch. 2 Pt. 6 para. 1](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/6/paragraph/1) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-8249a7b8bf72914f4f65739a9be5093d]: Commencement: [Sch. 2 Pt. 6 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/6/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-8249a7b8bf72914f4f65739a9be5093d]: Commencement: [Sch. 2 Pt. 6 para. 2](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/6/paragraph/2) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-78047c4c9f78e7e11c3c6da52da0674e]: Commencement: [Sch. 2 Pt. 6 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/6/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
+[^c-78047c4c9f78e7e11c3c6da52da0674e]: Commencement: [Sch. 2 Pt. 6 para. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/2/part/6/paragraph/3) in operation at 31.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/258/regulation/1)
 
-[^key-4f8dbb8912cb27879c58e4fdd581482c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/3) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2019/5/schedule/4)
+[^c-4f8dbb8912cb27879c58e4fdd581482c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2009/258/schedule/3) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2019/5/schedule/4)
 
-[^key-b3f7957f5f35ebbe12f0610184e1bd55]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/4) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2019/5/schedule/5)
+[^c-b3f7957f5f35ebbe12f0610184e1bd55]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2009/258/schedule/4) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2019/5/schedule/5)
 
 [^f00010]: Footnote: Published on the Commission website via http://ec.europa.eu/food/food/biosafety/irradiation.comm\_legisl\_en.pdf. A hard copy may be obtained from the European Commission, Directorate General for Health and Consumers, B-1049 Brussels, Belgium

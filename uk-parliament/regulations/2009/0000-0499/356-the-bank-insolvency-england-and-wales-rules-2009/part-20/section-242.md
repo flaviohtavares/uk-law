@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 242. Form and contents of application[^key-d01a7c5f1e61770882f084cad31f03b3]
+## 242. Form and contents of application[^c-d01a7c5f1e61770882f084cad31f03b3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 9.2 of the 1986 Rules[^f00078].
 
 ## Annotations
 
-[^key-d01a7c5f1e61770882f084cad31f03b3]: Commencement: Rule 242 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-d01a7c5f1e61770882f084cad31f03b3]: Commencement: Rule 242 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00078]: Footnote: Paragraph (3)(b) was substituted by [S.I.1999/1022](https://www.legislation.gov.uk/uksi/1999/1022).

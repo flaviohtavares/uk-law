@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Social Security (Northern Ireland) Order 1998[^key-32d7602edd90b317603b4482794e5464]
+## 70. Social Security (Northern Ireland) Order 1998[^c-32d7602edd90b317603b4482794e5464]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In Article 68 of the Social Security (Northern Ireland) Order 1998[^f00129] (chi
 
 ## Annotations
 
-[^key-32d7602edd90b317603b4482794e5464]: Commencement: Reg. 70 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-32d7602edd90b317603b4482794e5464]: Commencement: Reg. 70 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00129]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506). Article 68(2) and (3) were amended by paragraph 139 of Schedule 24 to the Civil Partnership Act 2004.

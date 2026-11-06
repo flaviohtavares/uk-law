@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 607B. Exclusion of debit where relief allowed to another[^key-5a40dbc44bfcebe0f5ef2ffdc3921c8b]
+## 607B. Exclusion of debit where relief allowed to another[^c-5a40dbc44bfcebe0f5ef2ffdc3921c8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A company is not to bring into account as a debit for the purposes of this Part 
 
 ## Annotations
 
-[^key-5a40dbc44bfcebe0f5ef2ffdc3921c8b]: Textual amendment: Ss. 607A-607C inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/71)
+[^c-5a40dbc44bfcebe0f5ef2ffdc3921c8b]: Textual amendment: Ss. 607A-607C inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/71)

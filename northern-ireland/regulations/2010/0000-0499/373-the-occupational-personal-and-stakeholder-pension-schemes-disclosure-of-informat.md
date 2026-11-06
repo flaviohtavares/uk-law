@@ -42,21 +42,21 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 109, 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 41(1)(b) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and Articles 3(1)(b) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-e4168dd45db6432d3124a184bb92ff5e]
+## 1. Citation, commencement and interpretation[^c-e4168dd45db6432d3124a184bb92ff5e]
 
 (1) These Regulations may be cited as the Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 1st December 2010.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-59da7570284fabd61171ef11e9d9a748]
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-59da7570284fabd61171ef11e9d9a748]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-b85110bc4846ca50b1bc22111f609028][^key-ebf0818dd5ace89d7cd0ab4b1b6378c3]
+## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-b85110bc4846ca50b1bc22111f609028][^c-ebf0818dd5ace89d7cd0ab4b1b6378c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Stakeholder Pension Schemes Regulations[^key-5e9ff5583e8b21ab9dd3ca31040b5875]
+## 4. Amendment of the Stakeholder Pension Schemes Regulations[^c-5e9ff5583e8b21ab9dd3ca31040b5875]
 
 (1) The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00035] are amended in accordance with paragraphs (2) to (7).
 
@@ -316,7 +316,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (7) After Schedule 2 (regulations applying to schemes which are or have been registered under Article 4) add Schedule 3 as set out in Schedule 1 to these Regulations.
 
-## 5. Consequential revocations[^key-438c8d41c027ee0520cd6d2da17c303b]
+## 5. Consequential revocations[^c-438c8d41c027ee0520cd6d2da17c303b]
 
 The provisions specified in column (1) of Schedule 2 are revoked to the extent specified in column (3).
 
@@ -328,7 +328,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — Schedule to be added to the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^key-c96d3a0a27f31ad6573dc3d4a5472b07]
+## SCHEDULE 1 — Schedule to be added to the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^c-c96d3a0a27f31ad6573dc3d4a5472b07]
 
 Regulation 4(7)
 
@@ -411,7 +411,7 @@ Regulation 4(7)
 >
 > **8.** In this Schedule “annual percentage rate” means the daily percentage rate at which deductions were made under regulation 14(2), (3) or (4) (being no greater than 1/365 per cent. of the value of the fund, share or rights in the with-profits fund respectively from which they were made) multiplied by 365.
 
-## SCHEDULE 2 — Consequential revocations[^key-b787e653c0151a64b581e60fd25791d6]
+## SCHEDULE 2 — Consequential revocations[^c-b787e653c0151a64b581e60fd25791d6]
 
 Regulation 5
 
@@ -469,17 +469,17 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-e4168dd45db6432d3124a184bb92ff5e]: Commencement: Reg. 1 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+[^c-e4168dd45db6432d3124a184bb92ff5e]: Commencement: Reg. 1 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-59da7570284fabd61171ef11e9d9a748]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/373/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-59da7570284fabd61171ef11e9d9a748]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/373/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-b85110bc4846ca50b1bc22111f609028]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/373/regulation/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-b85110bc4846ca50b1bc22111f609028]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/373/regulation/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-ebf0818dd5ace89d7cd0ab4b1b6378c3]: Commencement: Reg. 3 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+[^c-ebf0818dd5ace89d7cd0ab4b1b6378c3]: Commencement: Reg. 3 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
 
-[^key-5e9ff5583e8b21ab9dd3ca31040b5875]: Commencement: Reg. 4 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+[^c-5e9ff5583e8b21ab9dd3ca31040b5875]: Commencement: Reg. 4 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
 
 [^f00035]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); relevant amending provisions are [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119), [S.R. 2002 Nos. 268](https://www.legislation.gov.uk/nisr/2002/268) and [410](https://www.legislation.gov.uk/nisr/2002/410), [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256), [S.R. 2005 Nos. 110](https://www.legislation.gov.uk/nisr/2005/110) and [536](https://www.legislation.gov.uk/nisr/2005/536), [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744), [S.R. 2007 Nos. 110](https://www.legislation.gov.uk/nisr/2007/110) and [185](https://www.legislation.gov.uk/nisr/2007/185) and [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365)
 
@@ -511,9 +511,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00049]: Footnote: Section 39 was amended by paragraph 34 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 54 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 43 of Schedule 1 to the National Insurance Contributions Act 2002
 
-[^key-438c8d41c027ee0520cd6d2da17c303b]: Commencement: Reg. 5 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+[^c-438c8d41c027ee0520cd6d2da17c303b]: Commencement: Reg. 5 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
 
-[^key-c96d3a0a27f31ad6573dc3d4a5472b07]: Commencement: Sch. 1 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+[^c-c96d3a0a27f31ad6573dc3d4a5472b07]: Commencement: Sch. 1 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
 
 [^f00050]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 and paragraph 5(1) of Schedule 5 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
 
@@ -523,4 +523,4 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00053]: Footnote: Regulation 13 was amended by regulation 9 of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and regulation 2(8) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110)
 
-[^key-b787e653c0151a64b581e60fd25791d6]: Commencement: Sch. 2 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+[^c-b787e653c0151a64b581e60fd25791d6]: Commencement: Sch. 2 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)

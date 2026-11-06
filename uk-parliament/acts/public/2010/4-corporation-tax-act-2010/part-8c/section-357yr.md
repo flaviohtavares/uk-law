@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If an amount deducted under section 357YO(2) in respect of an amount of interest exceeds the amount which should have been deducted, the Commissioners for Her Majesty’s Revenue and Customs[^key-92709326b55d71144830094c468ad7cc] are liable to pay interest on the excess from the material date until the date on which the excess is repaid.
+(1) If an amount deducted under section 357YO(2) in respect of an amount of interest exceeds the amount which should have been deducted, the Commissioners for Her Majesty’s Revenue and Customs[^c-92709326b55d71144830094c468ad7cc] are liable to pay interest on the excess from the material date until the date on which the excess is repaid.
 
 (2) The “material date” is the date on which tax was deducted from the interest.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92709326b55d71144830094c468ad7cc]: Textual amendment: Words in s. 357YR(1) inserted (with effect in accordance with reg. 3 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [17](https://www.legislation.gov.uk/uksi/2017/364/regulation/17)
+[^c-92709326b55d71144830094c468ad7cc]: Textual amendment: Words in s. 357YR(1) inserted (with effect in accordance with reg. 3 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [17](https://www.legislation.gov.uk/uksi/2017/364/regulation/17)

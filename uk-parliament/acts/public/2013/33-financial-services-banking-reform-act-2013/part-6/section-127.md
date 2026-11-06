@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Interpretation of Part[^key-b0e51e2ec2c2f38e7bcee7840d04da03]
+## 127. Interpretation of Part[^c-b0e51e2ec2c2f38e7bcee7840d04da03]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
   - (b) in Scotland, the Court of Session;
 - “FMI administration order” and “FMI administrator” are to be read in accordance with section 114;
 - “**infrastructure company**” has the meaning given by section 112;
-- “**operator**”, in relation to a recognised [^key-4d3a55f91fa2ade61c3dcdce46755454]... payment system, has the meaning given by section 113;
-- “**recognised [^key-4d3a55f91fa2ade61c3dcdce46755454]... payment system**” has the meaning given by section 113;
+- “**operator**”, in relation to a recognised [^c-4d3a55f91fa2ade61c3dcdce46755454]... payment system, has the meaning given by section 113;
+- “**recognised [^c-4d3a55f91fa2ade61c3dcdce46755454]... payment system**” has the meaning given by section 113;
 - “**regulated activity**” has the same meaning as in FSMA 2000;
 - “**the relevant system**” has the meaning given by section 113;
 - “**securities settlement system**” has the meaning given by section 113.
-- “wholesale cash distribution” and “wholesale cash distribution activities” have the meanings given by section 113.[^key-73d386ba1def5c75f138c0248d15a7b6]
+- “wholesale cash distribution” and “wholesale cash distribution activities” have the meanings given by section 113.[^c-73d386ba1def5c75f138c0248d15a7b6]
 
 (2) In this Part references to the FMI administrator of a company include a person appointed under paragraph 91 or 103 of Schedule B1 to the 1986 Act, as applied by Schedule 6 to this Act, to be the FMI administrator of a company.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e51e2ec2c2f38e7bcee7840d04da03]: Commencement: S. 127 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-b0e51e2ec2c2f38e7bcee7840d04da03]: Commencement: S. 127 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-4d3a55f91fa2ade61c3dcdce46755454]: Textual amendment: Word in s. 127(1) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2), [Sch. 9 para. 45](https://www.legislation.gov.uk/ukpga/2017/30/schedule/9/paragraph/45)
+[^c-4d3a55f91fa2ade61c3dcdce46755454]: Textual amendment: Word in s. 127(1) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2), [Sch. 9 para. 45](https://www.legislation.gov.uk/ukpga/2017/30/schedule/9/paragraph/45)
 
-[^key-73d386ba1def5c75f138c0248d15a7b6]: Textual amendment: Words in [s. 127(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/127/1) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/9)
+[^c-73d386ba1def5c75f138c0248d15a7b6]: Textual amendment: Words in [s. 127(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/127/1) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/9)

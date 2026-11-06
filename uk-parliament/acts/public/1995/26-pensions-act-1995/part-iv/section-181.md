@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Short title.[^key-10df0ac8191fc8486ff82f7e72141f79]
+## 181. Short title.[^c-10df0ac8191fc8486ff82f7e72141f79]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Pensions Act 1995.
 
 ## Annotations
 
-[^key-10df0ac8191fc8486ff82f7e72141f79]: Commencement: S. 181 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-10df0ac8191fc8486ff82f7e72141f79]: Commencement: S. 181 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)

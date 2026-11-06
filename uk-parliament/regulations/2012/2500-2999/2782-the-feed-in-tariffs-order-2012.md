@@ -63,14 +63,14 @@ This Order may be cited as the Feed-in Tariffs Order 2012 and comes into force o
 - “**anaerobic digestion**” means the bacterial fermentation of organic material in the absence of free oxygen (excluding anaerobic digestion of sewage and material in a landfill);
 - “**the Authority**” means the Gas and Electricity Markets Authority;
 - “**central FIT register**” means the register kept and maintained by the Authority in accordance with article 21;
-- “commissioning date”, in relation to an installation, means the date on which the installation is commissioned;[^key-5312876138844c5a3823b65f335dcfeb]
+- “commissioning date”, in relation to an installation, means the date on which the installation is commissioned;[^c-5312876138844c5a3823b65f335dcfeb]
 - “**community energy installation**” has the meaning given in article 11;
-- “community organisation” has the meaning given in article 11;[^key-276348a36c103b2298f0b50f3e2d5090]
+- “community organisation” has the meaning given in article 11;[^c-276348a36c103b2298f0b50f3e2d5090]
 - “**deemed export payment**” means the payment made to a FIT generator or nominated recipient by a FIT licensee in respect of a deemed export of electricity;
 - “**distribution system**” has the same meaning as in section 4(4) of the 1989 Act [^c21441201];
 - “**electricity supply licence**” means a licence granted by the Authority under section 6(1)(d) of the 1989 Act;
 - “**energy performance certificate**” has the same meaning as in—
-  - (a) the Energy Performance of Buildings (England and Wales) Regulations 2012;[^key-50cf2a93f98b8bdfabe82c96aac38752] in relation to a building in England or Wales; and
+  - (a) the Energy Performance of Buildings (England and Wales) Regulations 2012;[^c-50cf2a93f98b8bdfabe82c96aac38752] in relation to a building in England or Wales; and
   - (b) the Energy Performance of Buildings (Scotland) Regulations 2008 [^c21441221], in relation to a building in Scotland;
 - “**extension**” means an increase in the capacity of an installation to generate electricity;
 - “**FIT**” means feed-in tariff;
@@ -82,18 +82,18 @@ This Order may be cited as the Feed-in Tariffs Order 2012 and comes into force o
   - (c) where the hydrostatic head of the water has been increased by pumping;
 - “**levelisation fund**” means the fund maintained under article 25;
 - “**licensee**” means a person who is a holder of a licence under section 6(1)(d) of the 1989 Act;
-- “MCS”, except in Schedule A1, means the Microgeneration Certification Scheme or equivalent schemes accredited in accordance with EN 45011(2) or EN[^key-8f129a5b60662cd1918c9f022383e8cb] ISO/IEC 17065:2012(3) which certify microgeneration products and installers in accordance with consistent standards;
+- “MCS”, except in Schedule A1, means the Microgeneration Certification Scheme or equivalent schemes accredited in accordance with EN 45011(2) or EN[^c-8f129a5b60662cd1918c9f022383e8cb] ISO/IEC 17065:2012(3) which certify microgeneration products and installers in accordance with consistent standards;
 - “**MCS certificate**” means a certificate given under the MCS;
 - “MCS-certified installation” has the meaning set out in Schedule A1 to this Order;
-- “mutualisation distribution”, “mutualisation notice” and “mutualisation payment” have the meaning given by article 30A(3);[^key-bd21b4fc3fc701d7e9e07b92e1e83ebb]
+- “mutualisation distribution”, “mutualisation notice” and “mutualisation payment” have the meaning given by article 30A(3);[^c-bd21b4fc3fc701d7e9e07b92e1e83ebb]
 - “pause period” has the meaning given in article 8A;
 - “**ROO**” means the Renewables Obligation Order 2009 [^c21441251] in relation to an installation in England and Wales, and the Renewables Obligation (Scotland) Order 2009 [^c21441261] in relation to an installation in Scotland;
 - “**school installation**” has the meaning given in article 12;
 - “Standard Licence Condition 33” and “Standard Licence Condition 34” mean the conditions so numbered in the standard conditions of electricity supply licences [^c21441271];
 - “tariff code” has the meaning given in article 13;
-- [^key-bdd6e6e79139306c3de8ddde7226dd0d]...
+- [^c-bdd6e6e79139306c3de8ddde7226dd0d]...
 - “**transmission system**” has the same meaning as in section 4(4) of the 1989 Act [^c21441281].
-- “working day” means any day other than a Saturday or a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971.[^key-034fb13ce1f652b4604e247f8f1d01e9]
+- “working day” means any day other than a Saturday or a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971.[^c-034fb13ce1f652b4604e247f8f1d01e9]
 
 (2) In this Order the following expressions have the meanings given to them in Schedule A to Standard Licence Condition 33—
 
@@ -116,28 +116,28 @@ This Order may be cited as the Feed-in Tariffs Order 2012 and comes into force o
 - “FIT scheme”;
 - “FIT year”;
 - “generation meter”;
-- “generation meter reading”;[^key-0aecf253c562ec8de26ec68fc9fe161c]
+- “generation meter reading”;[^c-0aecf253c562ec8de26ec68fc9fe161c]
 - “generation payment”;
 - “generation tariff”;
-- “insolvency event”[^key-215504c938c24580eaea064cb0079c15]
+- “insolvency event”[^c-215504c938c24580eaea064cb0079c15]
 - “mandatory FIT licensee”
-- [^key-778ade6a771a2ede89047cf447482f73]...
+- [^c-778ade6a771a2ede89047cf447482f73]...
 - “MCS-certified registration”;
 - “MCS-FIT technology”;
 - “nominated recipient”;
-- “qualifies for accreditation;”[^key-682629701718f2281ca5b9f14142bc8d]
+- “qualifies for accreditation;”[^c-682629701718f2281ca5b9f14142bc8d]
 - “statement of FIT terms”;
 - “tariff date”;
-- “tariff period”;[^key-f46ecc58583e401642c129a667cfd9d3]
+- “tariff period”;[^c-f46ecc58583e401642c129a667cfd9d3]
 - “total installed capacity”.
 - “voluntary FIT licensee”
 
-(3)[^key-5d2d49134281b9e5ab51445956764df6] In this Order—
+(3)[^c-5d2d49134281b9e5ab51445956764df6] In this Order—
 
 - “last resort supply direction” has the meaning given to it in the standard conditions of electricity supply licences; and
 - “stand-alone solar photovoltaic” has the meaning given to it in Annex 3 to Schedule A to Standard Licence Condition 33 of the standard conditions of electricity supply licences.
 
-(4)[^key-6b32441eccf6609326f51735fdbf9764] In this Order, a reference to a particular description of eligible installations is a reference to eligible installations of one of the descriptions in the first column of the table in Schedule 1A.
+(4)[^c-6b32441eccf6609326f51735fdbf9764] In this Order, a reference to a particular description of eligible installations is a reference to eligible installations of one of the descriptions in the first column of the table in Schedule 1A.
 
 ## PART 2 — Specified maximum capacity
 
@@ -149,7 +149,7 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 
 ### CHAPTER 1 — Accreditation
 
-#### 4. Application of this Chapter[^key-4a60d42e6e0eeddd9339bbf1dfdb4bff]
+#### 4. Application of this Chapter[^c-4a60d42e6e0eeddd9339bbf1dfdb4bff]
 
 (1) This Chapter applies where an application has been made which meets the conditions in paragraph (2) or (3).
 
@@ -161,17 +161,17 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
   - (iii) uses any other eligible low-carbon energy source, and has a declared net capacity of more than 50 kilowatts; and
 - (b) at least one of the following applies—
   - (i) the installation was commissioned before the application was made;
-  - (ii) the installation has been granted preliminary accreditation, and the application for accreditation was made within the period of validity of that preliminary accreditation; [^key-46fa9d37020bd9ac59669ea4435ff2f8]...
-  - (iii) the application is within paragraph (1)(a) of article 8D (transitional installations) ; or[^key-c8da7776f4a64e3ed5f4b79c9d1cfa7e]
-- (iv)[^key-6f41959344c0a00689dd74f3efb2d886] article 7B applies to the installation.
+  - (ii) the installation has been granted preliminary accreditation, and the application for accreditation was made within the period of validity of that preliminary accreditation; [^c-46fa9d37020bd9ac59669ea4435ff2f8]...
+  - (iii) the application is within paragraph (1)(a) of article 8D (transitional installations) ; or[^c-c8da7776f4a64e3ed5f4b79c9d1cfa7e]
+- (iv)[^c-6f41959344c0a00689dd74f3efb2d886] article 7B applies to the installation.
 
 (3) The conditions in this paragraph are that—
 
-- (a) an application, other than an excluded transitional application,[^key-93b8b8de0e794730e80ddab60a7c0c0c] has been made to a FIT licensee for FIT payments for an eligible installation which uses an MCS-FIT technology;
+- (a) an application, other than an excluded transitional application,[^c-93b8b8de0e794730e80ddab60a7c0c0c] has been made to a FIT licensee for FIT payments for an eligible installation which uses an MCS-FIT technology;
 - (b) the FIT licensee has submitted details of the installation to the Authority for accreditation under the process for MCS-certified registration; and
 - (c) not less than two weeks have passed since the date on which the installation’s MCS certificate was issued.
 
-(4)[^key-499f976db5681bd2b40045097f5f180f] In paragraph (3)(a), “an excluded transitional application” means an application which—
+(4)[^c-499f976db5681bd2b40045097f5f180f] In paragraph (3)(a), “an excluded transitional application” means an application which—
 
 - (a) is made to a FIT licensee on or after 1st April 2016; and
 - (b) would have been within article 8D(1)(b) if it had been made to a FIT licensee between 15th January and 31st March 2016.
@@ -180,20 +180,20 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 
 (1) The Authority must carry out accreditation as provided by this article.
 
-(1A)[^key-3e5cfda1c68d59997abb60582bacb5ce] The Authority must, subject to paragraph (1B)—
+(1A)[^c-3e5cfda1c68d59997abb60582bacb5ce] The Authority must, subject to paragraph (1B)—
 
 - (a) determine whether to accredit eligible installations of a particular description which meet the conditions in article 4(2) in the order in which applications for accreditation of such installations are received by the Authority; and
 - (b) determine whether to accredit eligible installations of a particular description which meet the conditions in article 4(3) in the order in which the installations’ MCS certificates were issued.
 
 (1B) Paragraph (1A)(a) does not apply to eligible installations—
 
-- (a) that have been granted preliminary accreditation and in respect of which an application for accreditation is made within the period of validity of that preliminary accreditation; [^key-5f648c3ca025a96895aea0a1979a9495]...
-- (b) to which article 8D (transitional installations) applies. ; or[^key-5f6b9ecd3a426f1bf3a054023ea3f464]
-- (c)[^key-38c222e9e6eac19887d151d237fe074f] to which article 7B applies.
+- (a) that have been granted preliminary accreditation and in respect of which an application for accreditation is made within the period of validity of that preliminary accreditation; [^c-5f648c3ca025a96895aea0a1979a9495]...
+- (b) to which article 8D (transitional installations) applies. ; or[^c-5f6b9ecd3a426f1bf3a054023ea3f464]
+- (c)[^c-38c222e9e6eac19887d151d237fe074f] to which article 7B applies.
 
-(2) The Authority must accredit an eligible installation if article 6 is satisfied but must not do so—[^key-e2589ebde09c0b32127d1ea9e26edc50]
+(2) The Authority must accredit an eligible installation if article 6 is satisfied but must not do so—[^c-e2589ebde09c0b32127d1ea9e26edc50]
 
-- (a) if article 7 , 7A(1)[^key-c5520e21d6e0a60d67d9bde03f9abf9f] or 8 applies;
+- (a) if article 7 , 7A(1)[^c-c5520e21d6e0a60d67d9bde03f9abf9f] or 8 applies;
 - (b) during the pause period, if article 8A applies; or
 - (c) in a particular tariff period, if article 8B applies in relation to that tariff period and particular description of eligible installation.
 
@@ -202,19 +202,19 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 (4) Where the Authority accredits an eligible installation, it must—
 
 - (a) update the central FIT register;
-- (b) in the case of an eligible installation accredited further to an application mentioned in article 4(2)[^key-63f4a6747a7f599bacd4ee81c982ea08], give notice to the person who made that application of the accreditation and any conditions attached to it; and
-- (c) in the case of an eligible installation accredited further to an application mentioned in article 4(3)[^key-fdd7df5c95f5b83b3172ad643af629ee], give notice to the FIT licensee of the accreditation and any conditions attached to it.
+- (b) in the case of an eligible installation accredited further to an application mentioned in article 4(2)[^c-63f4a6747a7f599bacd4ee81c982ea08], give notice to the person who made that application of the accreditation and any conditions attached to it; and
+- (c) in the case of an eligible installation accredited further to an application mentioned in article 4(3)[^c-fdd7df5c95f5b83b3172ad643af629ee], give notice to the FIT licensee of the accreditation and any conditions attached to it.
 
 (5) Where the Authority determines that an installation is not entitled to accreditation, it must—
 
-- (a) in the case of an application mentioned in article 4(2)[^key-8cf804f21ff093760dabda30c4cdd4e2], give notice of its decision to the person who made that application; and
-- (b) in the case of an application mentioned in article 4(3)[^key-2c61070202ec9bf82a36719300f96425], give notice of its decision to the FIT licensee.
+- (a) in the case of an application mentioned in article 4(2)[^c-8cf804f21ff093760dabda30c4cdd4e2], give notice of its decision to the person who made that application; and
+- (b) in the case of an application mentioned in article 4(3)[^c-2c61070202ec9bf82a36719300f96425], give notice of its decision to the FIT licensee.
 
-(6) A notice given under paragraph (5) must include reasons why the installation was not accredited , and, where the reason for the non-accreditation is that article 8B applies, give notice of the date of the start of the next tariff period[^key-b1ef707fda78f450634b5e98e6793d8e] , if any,[^key-352b03e27ad55d94589e3290f51293db] within which the application will be considered by the Authority in accordance with this article.
+(6) A notice given under paragraph (5) must include reasons why the installation was not accredited , and, where the reason for the non-accreditation is that article 8B applies, give notice of the date of the start of the next tariff period[^c-b1ef707fda78f450634b5e98e6793d8e] , if any,[^c-352b03e27ad55d94589e3290f51293db] within which the application will be considered by the Authority in accordance with this article.
 
 #### 6. Accreditation of eligible installations not previously accredited under the ROO
 
-(1) Subject to articles 7[^key-ec7c776b62ce018f89b58226b84029d6] , 7A[^key-57f51fce463f69bf4d673a464d69d152], 8, 8A and 8B, the Authority must accredit an eligible installation as an accredited FIT installation if it is satisfied that—
+(1) Subject to articles 7[^c-ec7c776b62ce018f89b58226b84029d6] , 7A[^c-57f51fce463f69bf4d673a464d69d152], 8, 8A and 8B, the Authority must accredit an eligible installation as an accredited FIT installation if it is satisfied that—
 
 - (a) where it has a declared net capacity of more than 50 kilowatts, it would receive accreditation under the ROO were an application to be made for such accreditation; or
 - (b) where it has a declared net capacity of 50 kilowatts or less, the installation meets the criteria in paragraph (2) or the criteria in paragraph (3).
@@ -261,7 +261,7 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 - “**NFFO arrangement**” has the meaning given to it in the ROO; and
 - “**permitted grant**” means a grant made in respect of the reasonable additional costs of an installation to avoid or mitigate environmental harm, where the amount of the grant does not exceed the amount of those costs.
 
-#### 7A. Accreditation on or after 1st April 2019[^key-33e8f6b05dd098754da3fe51e9f69ad9]
+#### 7A. Accreditation on or after 1st April 2019[^c-33e8f6b05dd098754da3fe51e9f69ad9]
 
 (1) The Authority must not accredit an eligible installation in respect of which the application date is on or after 1st April 2019 as an accredited FIT installation.
 
@@ -272,9 +272,9 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
   - (ii) the application date is within the relevant period of validity;
 - (b) an eligible installation which is pre-registered in accordance with article 11(2)(a) or article 12(2)(a), and in respect of which—
   - (i) the application for pre-registration is received by the Authority on or before 31st March 2019; and
-  - (ii)[^key-7daf15f514107b4ff3f21d6039ba63c3] either—
+  - (ii)[^c-7daf15f514107b4ff3f21d6039ba63c3] either—
     - (aa) the application date is within the period of 1 year beginning with the date on which the Authority received the application for pre-registration; or
-    - (bb) where the date on which the Authority received the application for pre-registration was within the period beginning on 1st March 2019 and ending on 31st March 2019, the application date is within the period of 24 months beginning with the date on which the Authority received the application for pre-registration[^key-2b5e3e4a58b63323805eaa9fd0ba5d22];
+    - (bb) where the date on which the Authority received the application for pre-registration was within the period beginning on 1st March 2019 and ending on 31st March 2019, the application date is within the period of 24 months beginning with the date on which the Authority received the application for pre-registration[^c-2b5e3e4a58b63323805eaa9fd0ba5d22];
 - (c) an eligible installation which uses an MCS-FIT technology and which is not pre-registered in accordance with article 11(2)(a) or article 12(2)(a), and in respect of which—
   - (i) an MCS certificate is issued on or before 31st March 2019; and
   - (ii) the application date is on or before 31st March 2020; or
@@ -339,7 +339,7 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 
 (4) In this article, “**fossil fuel**” has the meaning given to it by section 100(3) of the Act.
 
-#### 8A. The pause period[^key-e7c6e8fb2a368bc7a638c8b413948956]
+#### 8A. The pause period[^c-e7c6e8fb2a368bc7a638c8b413948956]
 
 (1) Subject to paragraph (4), this article applies to an eligible installation for which the application date is within the pause period.
 
@@ -366,7 +366,7 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 
 #### 8B. The application limit
 
-(1) Paragraph (2) applies where, in any tariff period, the aggregate total installed capacity (measured in megawatts) of relevant installations of a particular description, in respect of which applications for accreditation or preliminary accreditation have been received, reaches the limit for such installations for that tariff period (“the application limit”) as set out in the tables[^key-5e2bcd0aac9727645f845dfddca83850] in Schedule 1A to this Order.
+(1) Paragraph (2) applies where, in any tariff period, the aggregate total installed capacity (measured in megawatts) of relevant installations of a particular description, in respect of which applications for accreditation or preliminary accreditation have been received, reaches the limit for such installations for that tariff period (“the application limit”) as set out in the tables[^c-5e2bcd0aac9727645f845dfddca83850] in Schedule 1A to this Order.
 
 (2) Where this paragraph applies, the Authority must not within that tariff period—
 
@@ -375,9 +375,9 @@ The specified maximum capacity of eligible installations is 5 megawatts of total
 
 and where the receipt of an application in respect of a relevant installation causes the application limit to be reached, the Authority must not accredit it or grant it preliminary accreditation within that tariff period, unless the total installed capacity of that installation is such that the limit is reached exactly and not exceeded.
 
-(3) Subject to paragraph (3A),[^key-1f009fb2c77583f0f3aaa8d5f0472b75] where by virtue of paragraph (2) an eligible installation is not granted accreditation or preliminary accreditation in a tariff period, and the Authority would have granted it accreditation or preliminary accreditation if paragraph (2) did not apply, the Authority must in the next tariff period determine whether to grant the installation accreditation or preliminary accreditation in that next tariff period.
+(3) Subject to paragraph (3A),[^c-1f009fb2c77583f0f3aaa8d5f0472b75] where by virtue of paragraph (2) an eligible installation is not granted accreditation or preliminary accreditation in a tariff period, and the Authority would have granted it accreditation or preliminary accreditation if paragraph (2) did not apply, the Authority must in the next tariff period determine whether to grant the installation accreditation or preliminary accreditation in that next tariff period.
 
-(3A)[^key-ff95bc52ba4cf2ddd385eb73f35b3ada] Where by virtue of the operation of paragraph (3) the Authority must determine whether to grant an eligible installation accreditation or preliminary accreditation in any tariff period beginning on or after 1st April 2019, the Authority must determine not to grant the installation accreditation or preliminary accreditation.
+(3A)[^c-ff95bc52ba4cf2ddd385eb73f35b3ada] Where by virtue of the operation of paragraph (3) the Authority must determine whether to grant an eligible installation accreditation or preliminary accreditation in any tariff period beginning on or after 1st April 2019, the Authority must determine not to grant the installation accreditation or preliminary accreditation.
 
 (3B) Where the Authority receives an application for accreditation in respect of a relevant community energy installation, the Authority must determine not to accredit the installation where the application limit for an installation of that particular description for the tariff period beginning on 1st January 2019—
 
@@ -388,14 +388,14 @@ and where the receipt of an application in respect of a relevant installation ca
 
 - (a) an application for accreditation or preliminary accreditation is to be treated as being received by the Authority—
   - (i) in relation to an application which meets the conditions in article 4(2), or for an application for preliminary accreditation, when the application is received by the Authority;
-  - (ii)[^key-845cc0e9a7b9d5f5d89bf44a9e86f2e9] in relation to any eligible installation which uses an MCS-FIT technology and for which an MCS certificate is issued, when the MCS certificate is issued, (whether or not an application for FIT payments for that installation is actually made);
-  - (iii) in relation to an application which the Authority is required to determine under paragraph (3), at the start of the tariff period in which it is to be determined;[^key-1ef1a3da7192c795f919d5c2898f5d12]...
-- (b)[^key-b6a806495f1a854ece162c0f31e74732] “relevant community energy installation” means an eligible installation—
+  - (ii)[^c-845cc0e9a7b9d5f5d89bf44a9e86f2e9] in relation to any eligible installation which uses an MCS-FIT technology and for which an MCS certificate is issued, when the MCS certificate is issued, (whether or not an application for FIT payments for that installation is actually made);
+  - (iii) in relation to an application which the Authority is required to determine under paragraph (3), at the start of the tariff period in which it is to be determined;[^c-1ef1a3da7192c795f919d5c2898f5d12]...
+- (b)[^c-b6a806495f1a854ece162c0f31e74732] “relevant community energy installation” means an eligible installation—
   - (i) which is pre-registered in accordance with article 11(2)(a);
   - (ii) in respect of which the MCS certificate is issued on or after 1st April 2019; and
-  - (iii)[^key-53e69dc7c11aef9bb8269614f91c2962] in respect of which either—
+  - (iii)[^c-53e69dc7c11aef9bb8269614f91c2962] in respect of which either—
     - (aa) the application date is within the period of 1 year beginning with the date on which the Authority received the application for pre-registration; or
-    - (bb) where the date on which the Authority received the application for pre-registration was within the period beginning on 1st March 2019 and ending on 31st March 2019, the application date is within the period of 24 months beginning with the date on which the Authority received the application for pre-registration[^key-c9389dbb01abf61d380082e6b5f1601d];
+    - (bb) where the date on which the Authority received the application for pre-registration was within the period beginning on 1st March 2019 and ending on 31st March 2019, the application date is within the period of 24 months beginning with the date on which the Authority received the application for pre-registration[^c-c9389dbb01abf61d380082e6b5f1601d];
 
   and despite sub-paragraph (a), for the purposes of paragraph (3B) an application for accreditation of a relevant community energy installation is to be treated as being received by the Authority during the tariff period beginning on 1st January 2019;
 - (c) “relevant installation” means any eligible installation other than an installation—
@@ -405,9 +405,9 @@ and where the receipt of an application in respect of a relevant installation ca
 
 #### 8C. The application limit: adjustments
 
-(1) Subject to paragraph (1A),[^key-cd8c09484a2f6a9ca63929f1df4f5ff6] this paragraph applies where, at the end of a tariff period (“Tariff Period A”), the aggregate total installed capacity (measured in megawatts) of eligible installations of a particular description, in respect of which applications have been received by the Authority, has not reached the limit for that period as set out in the Table in Schedule 1A for such installations.
+(1) Subject to paragraph (1A),[^c-cd8c09484a2f6a9ca63929f1df4f5ff6] this paragraph applies where, at the end of a tariff period (“Tariff Period A”), the aggregate total installed capacity (measured in megawatts) of eligible installations of a particular description, in respect of which applications have been received by the Authority, has not reached the limit for that period as set out in the Table in Schedule 1A for such installations.
 
-(1A)[^key-61b146e54d0833926c5639ef6fb5d166] Paragraph (1) does not apply in relation to any tariff period beginning on or after 1st April 2019.
+(1A)[^c-61b146e54d0833926c5639ef6fb5d166] Paragraph (1) does not apply in relation to any tariff period beginning on or after 1st April 2019.
 
 (2) If paragraph (1) applies, then in relation to the following tariff period (“Tariff Period B”), the application limit *NLB*, given by the formula below, is to be substituted for the application limit specified in the Table in Schedule 1A—
 
@@ -425,7 +425,7 @@ where—
 (1) This article applies where—
 
 - (a) an application has been made to the Authority before 15th January 2016 for accreditation of an eligible installation which is of a type mentioned in article 4(2)(a), whose commissioning date is on or after 15th January 2016; or
-- (b)[^key-4a7afd1d2a203ca8f7cd10b0a19a7120] an application is made to a FIT licensee between 15th January 2016 and 31st March 2016 for FIT payments for an eligible installation which uses a MSC-FIT technology and whose MCS certificate’s issue date is before 15th January 2016, but is not—
+- (b)[^c-4a7afd1d2a203ca8f7cd10b0a19a7120] an application is made to a FIT licensee between 15th January 2016 and 31st March 2016 for FIT payments for an eligible installation which uses a MSC-FIT technology and whose MCS certificate’s issue date is before 15th January 2016, but is not—
   - (i) a community energy installation which has been pre-registered in accordance with article 11(pre-registration of community energy installations); or
   - (ii) a school installation which has been pre-registered in accordance with article 12 (pre-registration of school installations).
 
@@ -442,18 +442,18 @@ where—
 
 #### 9. Preliminary accreditation
 
-(1)[^key-415fadd1866b526f0d677fe889d137b0] This article applies where a person (“the prospective FIT generator”)—
+(1)[^c-415fadd1866b526f0d677fe889d137b0] This article applies where a person (“the prospective FIT generator”)—
 
 - (a) proposes to construct or operate an eligible installation (other than an extension) which, when commissioned, will—
   - (i) use anaerobic digestion;
   - (ii) be a hydro generating station; or
   - (iii) be a wind or solar photovoltaic installation, and have a declared net capacity of more than 50 kilowatts; and
-- (b) makes an application in writing to the Authority for preliminary accreditation, which is received by the Authority on or before 30th September 2015 or on or after 8th February 2016[^key-09e5b19177327e3081c30086bec2b1e6] but on or before 31st March 2019[^key-e3c8c1917e8a21041756647b3bb3b1bc].
+- (b) makes an application in writing to the Authority for preliminary accreditation, which is received by the Authority on or before 30th September 2015 or on or after 8th February 2016[^c-09e5b19177327e3081c30086bec2b1e6] but on or before 31st March 2019[^c-e3c8c1917e8a21041756647b3bb3b1bc].
 
-(2) Subject to article 8B, the[^key-9060fd3a46ac44bf3fe065ef3ef85f5e] Authority must, upon receiving the application referred to in paragraph (1)(b),[^key-273fd2f3d038646e1b2ff6b666a5059f] grant preliminary accreditation in respect of that installation if the Authority is satisfied that—
+(2) Subject to article 8B, the[^c-9060fd3a46ac44bf3fe065ef3ef85f5e] Authority must, upon receiving the application referred to in paragraph (1)(b),[^c-273fd2f3d038646e1b2ff6b666a5059f] grant preliminary accreditation in respect of that installation if the Authority is satisfied that—
 
 - (a) the conditions in paragraphs (3) and (4) are met; and
-- (b) the installation would, if commissioned, receive accreditation under Chapter 1 of this Part were an application to be made for such accreditation and, for this purpose, applications for preliminary accreditation are to be considered under article 5(1A)(a) in the same way as applications for the accreditation of eligible installations mentioned in that sub-paragraph.[^key-0c2ad82b5fd3694832b45c8a86cd575d]
+- (b) the installation would, if commissioned, receive accreditation under Chapter 1 of this Part were an application to be made for such accreditation and, for this purpose, applications for preliminary accreditation are to be considered under article 5(1A)(a) in the same way as applications for the accreditation of eligible installations mentioned in that sub-paragraph.[^c-0c2ad82b5fd3694832b45c8a86cd575d]
 
 (3) The conditions in this paragraph are that the application for preliminary accreditation—
 
@@ -462,7 +462,7 @@ where—
   - (ii) the total installed capacity and declared net capacity of the installation;
   - (iii) the location of the installation;
   - (iv) whether the installation is to have a grid connection;
-  - (v)[^key-dafc80ded283967fdbd6c911831e06cb] where the installation will be a solar photovoltaic installation with a total installed capacity of 250kW or more, whether or not the installation will be stand-alone solar photovoltaic;
+  - (v)[^c-dafc80ded283967fdbd6c911831e06cb] where the installation will be a solar photovoltaic installation with a total installed capacity of 250kW or more, whether or not the installation will be stand-alone solar photovoltaic;
   - (vi) whether or not the installation will be owned by a community organisation;
 - (b) is accompanied by documentary evidence, issued on or before the date of the application, of the satisfaction of the conditions in paragraph (4); and
 - (c) includes such other information as may be required by the Authority.
@@ -477,11 +477,11 @@ where—
   - (ii) the Authority is satisfied that a grid connection agreement is not required for the grid connection of the installation;
 - (c) if the installation is a hydro generating station in England and Wales, the Authority is satisfied that each of the licences and consents mentioned in paragraph (5)—
   - (i) has been granted for the installation on or before the date of the application; or
-  - (ii) is not required for the installation; [^key-651630721d7c5ea1b3917c50fe2f3508]...
-- (d) if the installation is a hydro generating station in Scotland, the Authority is satisfied that an authorisation under the Environmental Authorisations (Scotland) Regulations 2018[^key-3025f95c98a5f5eae47c87bf010d8ad2] for each of the matters mentioned in paragraph (6)—
+  - (ii) is not required for the installation; [^c-651630721d7c5ea1b3917c50fe2f3508]...
+- (d) if the installation is a hydro generating station in Scotland, the Authority is satisfied that an authorisation under the Environmental Authorisations (Scotland) Regulations 2018[^c-3025f95c98a5f5eae47c87bf010d8ad2] for each of the matters mentioned in paragraph (6)—
   - (i) has been granted for the installation on or before the date of the application; or
-  - (ii) is not required for the installation; and[^key-7d0b6361fc2e87f459302081380189b2]
-- (e)[^key-3606a319b229c02d613c8d0ecd17596b] if the application for preliminary accreditation specifies that the installation will be owned by a community organisation, the installation will be so owned.
+  - (ii) is not required for the installation; and[^c-7d0b6361fc2e87f459302081380189b2]
+- (e)[^c-3606a319b229c02d613c8d0ecd17596b] if the application for preliminary accreditation specifies that the installation will be owned by a community organisation, the installation will be so owned.
 
 (5) The licences and consents referred to in paragraph (4)(c) are—
 
@@ -497,32 +497,32 @@ where—
 
 (7) The Authority may attach such conditions as it considers appropriate in granting preliminary accreditation.
 
-(8) Subject to[^key-deede0e468392c9853be06f8dc94f3ef] paragraphs (8ZA) and (8A)[^key-e54499e4ed2bc39f6a9f342f30d28f8d], preliminary accreditation shall be valid—
+(8) Subject to[^c-deede0e468392c9853be06f8dc94f3ef] paragraphs (8ZA) and (8A)[^c-e54499e4ed2bc39f6a9f342f30d28f8d], preliminary accreditation shall be valid—
 
-- (a) for solar photovoltaic installations, for 6 months beginning with the date on which the application for preliminary accreditation was treated as received[^key-72c4da521a43f9b25a36da9d116f5ad5] by the Authority;
+- (a) for solar photovoltaic installations, for 6 months beginning with the date on which the application for preliminary accreditation was treated as received[^c-72c4da521a43f9b25a36da9d116f5ad5] by the Authority;
 - (b) for wind and anaerobic digestion installations, for 1 year beginning with the date on which the application for preliminary accreditation was treated as received by the Authority; and
 - (c) for hydro generating stations, for 2 years beginning with the date on which the application for preliminary accreditation was treated as received by the Authority.
 
-(8ZA)[^key-ae75edd90d58ef53d4a3d374427a730d] Where under paragraph (8)(b) or (c) preliminary accreditation would otherwise cease to be valid on or after 1st March 2020, preliminary accreditation shall be valid—
+(8ZA)[^c-ae75edd90d58ef53d4a3d374427a730d] Where under paragraph (8)(b) or (c) preliminary accreditation would otherwise cease to be valid on or after 1st March 2020, preliminary accreditation shall be valid—
 
 - (a) for wind and anaerobic digestion installations, for 24 months beginning with the date on which the application for preliminary accreditation was treated as received by the Authority; and
 - (b) for hydro generating stations, for 36 months beginning with the date on which the application for preliminary accreditation was treated as received by the Authority.
 
-(8A)[^key-d01e51df7818cea290e04c821f7ad92f] Subject to paragraph (8AA), where[^key-2fd0947fa096fe5162e97b709a347ded] the installation will be owned by a community organisation, preliminary accreditation shall be valid—
+(8A)[^c-d01e51df7818cea290e04c821f7ad92f] Subject to paragraph (8AA), where[^c-2fd0947fa096fe5162e97b709a347ded] the installation will be owned by a community organisation, preliminary accreditation shall be valid—
 
 - (a) for solar photovoltaic installations, for 12 months;
 - (b) for wind and anaerobic digestion installations, for 18 months; and
 - (c) for hydro generating stations, for 30 months,
 
-beginning with the date on which the application for preliminary accreditation was treated as received[^key-054c36262c5ec5ceaa3b70069f71f168] by the Authority.
+beginning with the date on which the application for preliminary accreditation was treated as received[^c-054c36262c5ec5ceaa3b70069f71f168] by the Authority.
 
-(8AA)[^key-c1c73d3b57dacfca6a9b3fb2fa61071a] Where under paragraph (8A) preliminary accreditation would otherwise cease to be valid on or after 1st March 2020, preliminary accreditation shall be valid—
+(8AA)[^c-c1c73d3b57dacfca6a9b3fb2fa61071a] Where under paragraph (8A) preliminary accreditation would otherwise cease to be valid on or after 1st March 2020, preliminary accreditation shall be valid—
 
 - (a) for solar photovoltaic installations, for 24 months beginning with the date on which the application for preliminary accreditation was treated as received by the Authority;
 - (b) for wind and anaerobic digestion installations, for 30 months beginning with the date on which the application for preliminary accreditation was treated as received by the Authority; and
 - (c) for hydro generating stations, for 42 months beginning with the date on which the application for preliminary accreditation was treated as received by the Authority.
 
-(8B)[^key-882ee2add8a719f1fed8d8fc04572f48] For the purposes of paragraphs (8) , (8ZA), (8A) and (8AA)[^key-9c4ca0e191227a9d4d72fc762a57580b], an application for preliminary accreditation is treated as received by the Authority on the date on which it is treated as received under article 8B(4)(a).
+(8B)[^c-882ee2add8a719f1fed8d8fc04572f48] For the purposes of paragraphs (8) , (8ZA), (8A) and (8AA)[^c-9c4ca0e191227a9d4d72fc762a57580b], an application for preliminary accreditation is treated as received by the Authority on the date on which it is treated as received under article 8B(4)(a).
 
 (9) The Authority must give notice to the applicant of—
 
@@ -531,7 +531,7 @@ beginning with the date on which the application for preliminary accreditation w
   - (i) the dates on which the validity of the preliminary accreditation starts and ends;
   - (ii) the tariff date which will apply to the installation if it is accredited under article 10(2); and
   - (iii) any conditions attached to the preliminary accreditation, and the date on which they take effect; and
-- (c) where preliminary accreditation is refused, reasons for the refusal and, where the reason for not granting preliminary accreditation is that article 8B applies, the date of the start of the next tariff period within which the application will be determined by the Authority in accordance with this article.[^key-e950a84eba744cac192e38befcc3eae8]
+- (c) where preliminary accreditation is refused, reasons for the refusal and, where the reason for not granting preliminary accreditation is that article 8B applies, the date of the start of the next tariff period within which the application will be determined by the Authority in accordance with this article.[^c-e950a84eba744cac192e38befcc3eae8]
 
 (10) In this article—
 
@@ -545,7 +545,7 @@ beginning with the date on which the application for preliminary accreditation w
 (1) Paragraph (2) applies where—
 
 - (a) an installation has been granted preliminary accreditation; and
-- (b)[^key-0f2ff9ce39064f042ba1f795d9ecf228] either—
+- (b)[^c-0f2ff9ce39064f042ba1f795d9ecf228] either—
   - (i) during the period of validity of the preliminary accreditation—
     - (aa) the installation is commissioned; and
     - (bb) the Authority receives an application for accreditation of the installation; or
@@ -559,10 +559,10 @@ beginning with the date on which the application for preliminary accreditation w
 - (d) any condition attached to the preliminary accreditation has not been complied with;
 - (e) the information on which the decision to grant the preliminary accreditation was based was incorrect in a material particular such that, had the Authority known the true position when the application for preliminary accreditation was made, it would have been refused.
 
-(3)[^key-9cdf506259d96d34afa9bfd67ad68299] If the Authority grants the application for accreditation pursuant to paragraph (2), the installation’s tariff date is the later of the date on which—
+(3)[^c-9cdf506259d96d34afa9bfd67ad68299] If the Authority grants the application for accreditation pursuant to paragraph (2), the installation’s tariff date is the later of the date on which—
 
 - (a) the application for preliminary accreditation is received by the Authority; or
-- (b)[^key-deaa24ed7370328c52d2fe9a8aed5f9b] the tariff period within which the installation qualifies for accreditation commences.
+- (b)[^c-deaa24ed7370328c52d2fe9a8aed5f9b] the tariff period within which the installation qualifies for accreditation commences.
 
 (4) For the purposes of this article, a commissioned installation is materially different from an installation for which preliminary accreditation was granted if—
 
@@ -571,10 +571,10 @@ beginning with the date on which the application for preliminary accreditation w
 - (c) either—
   - (i) it does not have a grid connection, and the application for preliminary accreditation stated that it would have a grid connection; or
   - (ii) it has a grid connection, and the application for preliminary accreditation stated that it would not have a grid connection;
-- (d)[^key-bc4ac60f6b7e0d76f80b2991a485a6fb] its total installed capacity is greater;
+- (d)[^c-bc4ac60f6b7e0d76f80b2991a485a6fb] its total installed capacity is greater;
 - (da) its total installed capacity is less, such that electricity generated by the installation would be eligible for payment at a different generation tariff to that which would have been payable had the total installed capacity of the installation been as stated in the application for preliminary accreditation;
-- (e)[^key-3b60b46bf523d80129bd3b67c1644b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-e524ea0ae6a9d7256b8e1578334e33a7] the application for preliminary accreditation specified that the installation—
+- (e)[^c-3b60b46bf523d80129bd3b67c1644b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-e524ea0ae6a9d7256b8e1578334e33a7] the application for preliminary accreditation specified that the installation—
   - (i) would not be stand-alone solar photovoltaic and it is stand-alone solar photovoltaic; or
   - (ii) would be stand-alone solar photovoltaic and it is not stand-alone solar photovoltaic;
 - (g) the application for preliminary accreditation specified that the installation would be owned by a community organisation and the Authority is not satisfied that it is owned by a community organisation.
@@ -587,17 +587,17 @@ beginning with the date on which the application for preliminary accreditation w
 - (b) is not an extension; and
 - (c) has a declared net capacity not exceeding 50 kilowatts.
 
-(2) Subject to paragraph (2A),[^key-2a2960c4c0b2f3e6cdbdfa24f4c08531] the Authority must, upon receiving an application by a community organisation for pre-registration of a community energy installation referred to in paragraph (1), which the Authority is satisfied meets the conditions in paragraph (3)—
+(2) Subject to paragraph (2A),[^c-2a2960c4c0b2f3e6cdbdfa24f4c08531] the Authority must, upon receiving an application by a community organisation for pre-registration of a community energy installation referred to in paragraph (1), which the Authority is satisfied meets the conditions in paragraph (3)—
 
 - (a) pre-register the installation; and
 - (b) give notice to the applicant of the pre-registration, and the period for which it is valid.
 
-(2A)[^key-879edc19515128c80f58806d22af08f0] The Authority must not pre-register a community energy installation in respect of which an MCS certificate has not been issued where, at the time that the application for pre-registration is received by the Authority, the application limit for installations of that particular description for the tariff period beginning on 1st January 2019—
+(2A)[^c-879edc19515128c80f58806d22af08f0] The Authority must not pre-register a community energy installation in respect of which an MCS certificate has not been issued where, at the time that the application for pre-registration is received by the Authority, the application limit for installations of that particular description for the tariff period beginning on 1st January 2019—
 
 - (a) has been exceeded; or
 - (b) would be exceeded if an MCS certificate were to be issued for the installation during the tariff period beginning on 1st January 2019.
 
-(3) The conditions are that the application is received by the Authority on or before 31st March 2019, and[^key-8f32fced1c76268253fa81ee1400810a]—
+(3) The conditions are that the application is received by the Authority on or before 31st March 2019, and[^c-8f32fced1c76268253fa81ee1400810a]—
 
 - (a) specifies—
   - (i) the eligible low-carbon energy source used, or to be used, by the installation;
@@ -608,14 +608,14 @@ beginning with the date on which the application for preliminary accreditation w
   - (ii) an energy performance certificate for the building to which the installation is wired, or to be wired; and
 - (c) contains such other information as the Authority may require.
 
-(4)[^key-9726401c410a4dca9450c5291321d670] A pre-registration under this article is valid—
+(4)[^c-9726401c410a4dca9450c5291321d670] A pre-registration under this article is valid—
 
 - (a) for one year beginning with the date on which the Authority received the application for pre-registration; or
-- (b) where the date on which the Authority received the application for pre-registration was within the period beginning on 1st March 2019 and ending on 31st March 2019, for 24 months beginning with the date on which the Authority received the application for pre-registration[^key-020759f94fac177a319499452549a911].
+- (b) where the date on which the Authority received the application for pre-registration was within the period beginning on 1st March 2019 and ending on 31st March 2019, for 24 months beginning with the date on which the Authority received the application for pre-registration[^c-020759f94fac177a319499452549a911].
 
 (5) If an application for FIT payments for a pre-registered community energy installation is received by a FIT licensee during the period of validity of its pre-registration, and the community energy installation is accredited pursuant to that application—
 
-- (a)[^key-c3c526943b692fbf8b870847c62e1e16] where the application for pre-registration was received by the Authority before 1st October 2015—
+- (a)[^c-c3c526943b692fbf8b870847c62e1e16] where the application for pre-registration was received by the Authority before 1st October 2015—
   - (i) the eligibility date of the installation is the later of the—
     - (aa) date on which the Authority received the application for pre-registration; or
     - (bb) date on which the installation was commissioned; and
@@ -630,33 +630,33 @@ beginning with the date on which the application for preliminary accreditation w
     - (aa) the date on which the Authority received the application for pre-registration; or
     - (bb) the first date of the tariff period within which the installation qualifies for accreditation; and
   - (ii) the tariff date is the same as the eligibility date;
-- (d) where the installation is commissioned and its application for pre-registration is received by the Authority on or after 8th February 2016 , and its MCS certificate is issued on or before 31st March 2019[^key-1eaacfe9e884d44fdd366e1aad34c96f]—
+- (d) where the installation is commissioned and its application for pre-registration is received by the Authority on or after 8th February 2016 , and its MCS certificate is issued on or before 31st March 2019[^c-1eaacfe9e884d44fdd366e1aad34c96f]—
   - (i) the eligibility date is the later of—
     - (aa) the date on which the Authority received the application for pre-registration; or
     - (bb) the first date of the tariff period within which the installation qualifies for accreditation; and
-  - (ii) the tariff date is the first day of the tariff period within which the installation qualifies for accreditation; and[^key-94bf5e74831b411229732fee7a182e65]
-- (e)[^key-302ffe3766ed6ad3637e20790842254d] where the installation’s MCS certificate is issued on or after 1st April 2019—
+  - (ii) the tariff date is the first day of the tariff period within which the installation qualifies for accreditation; and[^c-94bf5e74831b411229732fee7a182e65]
+- (e)[^c-302ffe3766ed6ad3637e20790842254d] where the installation’s MCS certificate is issued on or after 1st April 2019—
   - (i) the eligibility date is the date on which the application for FIT payments is received by a FIT licensee; and
   - (ii) the tariff date is 1st January 2019.
 
 (6) In this article—
 
-- “charity” means a charity—[^key-39f3d6ddf9fbce4eb7c3be8f26c3c962]
+- “charity” means a charity—[^c-39f3d6ddf9fbce4eb7c3be8f26c3c962]
   - (a) registered in the register of charities kept by the Charity Commission in accordance with section 29 of the Charities Act 2011; or
   - (b) as defined by section 106 (interpretation) of the Charities and Trustee Investment (Scotland) Act 2005;
-- “community benefit or co-operative society” means a society registered under the Co-operative and Community Benefit Societies Act 2014 as a community benefit society or as a co-operative society;[^key-ff9374b81aa3f5cb9cd2cc22ef2e1bfd]
+- “community benefit or co-operative society” means a society registered under the Co-operative and Community Benefit Societies Act 2014 as a community benefit society or as a co-operative society;[^c-ff9374b81aa3f5cb9cd2cc22ef2e1bfd]
 - “**community energy installation**” means an eligible installation—
   - (a) which is wired to provide electricity to a building which is not a dwelling; and
   - (b) in relation to which the FIT generator is a community organisation;
 - “**community interest company**” means a company issued a certificate of incorporation under section 36B(1) or 38A(1) of the Companies (Audit, Investigations and Community Enterprise) Act 2004 [^c21441381];
-- “community organisation” means—[^key-5237ecf4d88d0264ab1c758a1a6d44d5]
+- “community organisation” means—[^c-5237ecf4d88d0264ab1c758a1a6d44d5]
   - (a) any of the following which has 50 or fewer employees—
     - (i) a charity;
     - (ii) a community benefit or co-operative society; or
     - (iii) a community interest company; or
   - (b) a subsidiary (as defined in section 1159 of the Companies Act 2006), wholly owned by a charity, where the subsidiary has 50 or fewer employees and the parent charity has 50 or fewer employees;
 - “**dwelling**” has the same meaning as in—
-  - (a) the Energy Performance of Buildings (England and Wales) Regulations 2012;[^key-fe584d73c57b00972d4d65e12e6f1603] in relation to a building in England or Wales; and
+  - (a) the Energy Performance of Buildings (England and Wales) Regulations 2012;[^c-fe584d73c57b00972d4d65e12e6f1603] in relation to a building in England or Wales; and
   - (b) the Energy Performance of Buildings (Scotland) Regulations 2008 [^c21441401], in relation to a building in Scotland; and
 - “**employee**” means an individual who has entered into or works under a contract of employment with the company or society.
 
@@ -673,7 +673,7 @@ beginning with the date on which the application for preliminary accreditation w
 - (a) pre-register the installation; and
 - (b) give notice to the applicant of the pre-registration, and the period for which it is valid.
 
-(3) The conditions are that the application is received by the Authority on or before 31st March 2019, and[^key-e63c80c05045e69ade13cecf01e3c205]—
+(3) The conditions are that the application is received by the Authority on or before 31st March 2019, and[^c-e63c80c05045e69ade13cecf01e3c205]—
 
 - (a) specifies—
   - (i) the eligible low-carbon energy source used by the installation;
@@ -688,7 +688,7 @@ beginning with the date on which the application for preliminary accreditation w
 
 (5) If an application for FIT payments for a pre-registered school installation is received by a FIT licensee during the period of validity of its pre-registration, and the school installation is accredited pursuant to that application—
 
-- (a)[^key-e336a89958fbe62ff5d9ad731a95a58f] where the application for pre-registration was received by the Authority before 15th January 2016—
+- (a)[^c-e336a89958fbe62ff5d9ad731a95a58f] where the application for pre-registration was received by the Authority before 15th January 2016—
   - (i) the eligibility date of the installation is the date on which the Authority received the application for pre-registration, and
   - (ii) the tariff date is the same as the eligibility date;
 - (b) where the application for pre-registration is received on or after 15th January 2016—
@@ -759,13 +759,13 @@ paragraph (2)(a) is not to be taken into account in determining the site of A or
 - (a) A and B are, or are to be, attached to separate self-contained private residential dwellings;
 - (b) A and B are, or are to be, hydro generating stations which are supplied with water by or from different civil works;
 - (c) A and B are, or are to be, hydro generating stations which are supplied with water by or from the same civil works, and A or B consists of one or more turbines (with their associated infrastructure) driven by a compensation flow supplied by or from those civil works in a natural water course where there is a statutory obligation to maintain that compensation flow in that water course.
-- (d)[^key-a48a5908d3722abb8f2ee49e441ea2c9] at least one of A or B is owned, or is to be owned, by a community organisation and the conditions in paragraph (7) are met.
+- (d)[^c-a48a5908d3722abb8f2ee49e441ea2c9] at least one of A or B is owned, or is to be owned, by a community organisation and the conditions in paragraph (7) are met.
 
-(5)[^key-d81136a7aace5ab3048bd3021de81d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d81136a7aace5ab3048bd3021de81d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this article, “**civil works**”, in relation to a hydro generating station, means all man-made structures or works for holding water which are located on the inlet side of a turbine (turbine A), other than any such structures or works which supply water to another turbine before water is supplied to the structures or works which supply turbine A.
 
-(7)[^key-2e0475b4b1b809603deeb1805ed38452] The conditions referred to in paragraph (4)(d) are that—
+(7)[^c-2e0475b4b1b809603deeb1805ed38452] The conditions referred to in paragraph (4)(d) are that—
 
 - (a) only A and B share, or are to share, the single grid connection referred to in paragraph (3)(a); and
 - (b) for both A and B—
@@ -774,15 +774,15 @@ paragraph (2)(a) is not to be taken into account in determining the site of A or
 
   are on or after 1st April 2015.
 
-#### 16. Calculating and publishing FIT payment rates[^key-0b890ae20a093d875087c85265753288]
+#### 16. Calculating and publishing FIT payment rates[^c-0b890ae20a093d875087c85265753288]
 
 (1) On or before 1st February 2016, the Authority must publish a table setting out, for FIT year 7, the generation tariffs and export tariffs which are to apply to all accredited FIT installations with a tariff date before 15th January 2016.
 
-(2) Subject to paragraph (2B),[^key-48540fc00715621dbc7de9443387a4f4] on or before 1st February in each subsequent year the Authority must publish a table setting out, for the following FIT year (“the relevant FIT year”) the generation tariffs and export tariffs which are to apply to all accredited FIT installations with a tariff date before the start of the relevant FIT year.
+(2) Subject to paragraph (2B),[^c-48540fc00715621dbc7de9443387a4f4] on or before 1st February in each subsequent year the Authority must publish a table setting out, for the following FIT year (“the relevant FIT year”) the generation tariffs and export tariffs which are to apply to all accredited FIT installations with a tariff date before the start of the relevant FIT year.
 
-(2A)[^key-7842cdd2d558c7022fcc27c716da13b0] On or before 1st April 2017, the Authority must publish a table setting out, for FIT year 8, the generation tariffs and export tariffs which are to apply to all accredited FIT installations with a tariff date before 1st April 2017 and, for the purposes of Standard Licence Condition 33, this table replaces any other table published under paragraph (2) with respect to FIT year 8.
+(2A)[^c-7842cdd2d558c7022fcc27c716da13b0] On or before 1st April 2017, the Authority must publish a table setting out, for FIT year 8, the generation tariffs and export tariffs which are to apply to all accredited FIT installations with a tariff date before 1st April 2017 and, for the purposes of Standard Licence Condition 33, this table replaces any other table published under paragraph (2) with respect to FIT year 8.
 
-(2B)[^key-a4e4e17abc74982161dad53d13a02ec9] On or before 1st April 2026, the Authority must publish a table setting out, for FIT year 17, the generation tariffs and export tariffs which are to apply to all accredited FIT installations.
+(2B)[^c-a4e4e17abc74982161dad53d13a02ec9] On or before 1st April 2026, the Authority must publish a table setting out, for FIT year 17, the generation tariffs and export tariffs which are to apply to all accredited FIT installations.
 
 (3) Within the first 5 working days of each tariff period, the Authority must publish a table (“the Quarterly Tariff Table”)—
 
@@ -792,7 +792,7 @@ paragraph (2)(a) is not to be taken into account in determining the site of A or
 (4) The Authority must determine the FIT payment rates under paragraphs (1), (2) and (3)—
 
 - (a) in accordance with Annexes 3, 4, 4A and 5 to Schedule A to Standard Licence Condition 33; and
-- (b) by reference to the data published by the Authority under article 35A[^key-8c893aad0edf446df5f438582ee65572] and Schedule 2.
+- (b) by reference to the data published by the Authority under article 35A[^c-8c893aad0edf446df5f438582ee65572] and Schedule 2.
 
 #### 17. Withdrawal of accreditation, etc.
 
@@ -827,7 +827,7 @@ paragraph (2)(a) is not to be taken into account in determining the site of A or
 
 (6) The Authority may revoke or vary any action taken under this article and, if it does so, paragraph (5) applies to the variation or revocation as it does to the taking of that action.
 
-#### 17A. Withdrawal of preliminary accreditation for certain hydro generating stations[^key-46f545a495d972965e1aaa9e86e64836]
+#### 17A. Withdrawal of preliminary accreditation for certain hydro generating stations[^c-46f545a495d972965e1aaa9e86e64836]
 
 (1) The Authority must withdraw any preliminary accreditation granted under article 9 in respect of a relevant hydro generating station if—
 
@@ -845,7 +845,7 @@ paragraph (2)(a) is not to be taken into account in determining the site of A or
 
 ### 18. Accreditation of extensions to accredited FIT installations
 
-(1) Paragraph (2) applies where the Authority receives notice that an accredited FIT installation has been extended and the commissioning date of the extension is before 15th January 2016[^key-54b9e378c328e012619190a1f4adf69a].
+(1) Paragraph (2) applies where the Authority receives notice that an accredited FIT installation has been extended and the commissioning date of the extension is before 15th January 2016[^c-54b9e378c328e012619190a1f4adf69a].
 
 (2) Where this paragraph applies, the Authority must—
 
@@ -860,7 +860,7 @@ paragraph (2)(a) is not to be taken into account in determining the site of A or
 - (a) the Authority receives notice that an installation which uses an eligible low-carbon energy source (“the existing installation”) has been extended; and
 - (b) either—
   - (i) a request for accreditation of the existing installation as an accredited FIT installation has been refused; or
-  - (ii) if a request were made for accreditation of the existing installation, the request would be refused; and[^key-97d6faca6dedefbd8e5cb11969e64409]
+  - (ii) if a request were made for accreditation of the existing installation, the request would be refused; and[^c-97d6faca6dedefbd8e5cb11969e64409]
 - (c) the commissioning date of the extension is before 15th January 2016.
 
 (2) Where this paragraph applies, the Authority must—
@@ -930,7 +930,7 @@ Where the Authority discovers that there is an error on the central FIT register
 - (a) update the central FIT register and include the date of the switch; and
 - (b) give notice of that update to A and B.
 
-## PART 5A — Treatment of FIT generators following licence revocation[^key-a073818bb060385d8e0f5cb26fdebe22]
+## PART 5A — Treatment of FIT generators following licence revocation[^c-a073818bb060385d8e0f5cb26fdebe22]
 
 ### 24A. Accredited FIT installations
 
@@ -967,7 +967,7 @@ Where the Authority discovers that there is an error on the central FIT register
 (2) Where this paragraph applies, the eligibility date for the installation referred to in paragraph (1)(a) is the later of—
 
 - (a) the date on which the written request for MCS-certified registration accompanied by an MCS certificate in respect of that installation was received by A; or
-- (b) the date on which the installation was commissioned; or[^key-f8ea8cff579cdb97f7fcf13beeffaa9a]
+- (b) the date on which the installation was commissioned; or[^c-f8ea8cff579cdb97f7fcf13beeffaa9a]
 - (c) where the date on which the written request was received by A on or after 15th January 2016, the first date of the tariff period within which the installation is accepted for accreditation by the Authority.
 
 (3) For the purposes of paragraph (1)(b), a specified event has happened in relation to A if an event in article 24A(3) has occurred.
@@ -976,9 +976,9 @@ Where the Authority discovers that there is an error on the central FIT register
 
 ### 25. Levelisation fund
 
-(1)[^key-56d5fc5f002db22d920bcf5aa6a585ed] The Authority must maintain a fund (the “**levelisation fund**”) into which payments by licensees and from which payments by the Authority under this Part are to be made.
+(1)[^c-56d5fc5f002db22d920bcf5aa6a585ed] The Authority must maintain a fund (the “**levelisation fund**”) into which payments by licensees and from which payments by the Authority under this Part are to be made.
 
-(2)[^key-11534af7c90dfa9ee2aed4602d554c2b] The Authority may use the interest accruing on the levelisation fund to pay for all or part of its reasonable costs.
+(2)[^c-11534af7c90dfa9ee2aed4602d554c2b] The Authority may use the interest accruing on the levelisation fund to pay for all or part of its reasonable costs.
 
 (3) In this article, “reasonable costs” means costs of the Authority incurred as the result of administering the FIT scheme, as determined by the Secretary of State under article 38(1)(e).
 
@@ -1001,60 +1001,60 @@ Where the Authority discovers that there is an error on the central FIT register
 
 of the licensee for the FIT Year.
 
-(2) The FIT contribution of a licensee (“A”) in respect of a FIT year is the sum of the following payments made and incurred[^key-4edf408e528e4d7e6cfe7069a8491731] by A during that FIT year—
+(2) The FIT contribution of a licensee (“A”) in respect of a FIT year is the sum of the following payments made and incurred[^c-4edf408e528e4d7e6cfe7069a8491731] by A during that FIT year—
 
 - (a) generation payments;
-- (b)[^key-a615b94a010d7a7d19828a4e504cad82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) net deemed export payments; [^key-0800c0b4279cdbbe051884beeb551b8f]...
-- (d) qualifying FIT costs ; and[^key-e14880c512d25935c243c3b2a1693b6b]
-- (e)[^key-a48594bb9a05bd14af203548eb951151] for FIT year 10 and each subsequent FIT year, net metered export payments.
+- (b)[^c-a615b94a010d7a7d19828a4e504cad82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) net deemed export payments; [^c-0800c0b4279cdbbe051884beeb551b8f]...
+- (d) qualifying FIT costs ; and[^c-e14880c512d25935c243c3b2a1693b6b]
+- (e)[^c-a48594bb9a05bd14af203548eb951151] for FIT year 10 and each subsequent FIT year, net metered export payments.
 
 (3) The adjusted FIT contribution of A in respect of a FIT year is A's FIT contribution (if any) adjusted by—
 
-- (a) adding the amounts of any periodic levelisation payments and mutualisation payments[^key-2a3bc55ad70f7447c7f020afa6264ad2] made by A in respect of that FIT year; and
-- (b) subtracting the amounts of any periodic levelisation payments and mutualisation distributions”; and[^key-f593db5c5637d7aa1c8fcabeb223086d] received by A in respect of that FIT year.
+- (a) adding the amounts of any periodic levelisation payments and mutualisation payments[^c-2a3bc55ad70f7447c7f020afa6264ad2] made by A in respect of that FIT year; and
+- (b) subtracting the amounts of any periodic levelisation payments and mutualisation distributions”; and[^c-f593db5c5637d7aa1c8fcabeb223086d] received by A in respect of that FIT year.
 
-(4) The market share of A in a FIT year means A’s relevant amount of electricity[^key-53373029b79a5728f23a9891c38309a7] in that FIT year, expressed as a percentage of the electricity supply market of Great Britain.
+(4) The market share of A in a FIT year means A’s relevant amount of electricity[^c-53373029b79a5728f23a9891c38309a7] in that FIT year, expressed as a percentage of the electricity supply market of Great Britain.
 
 (5) The market share FIT contribution of A in respect of a FIT year is the sum of the FIT contributions of all licensees for that FIT year multiplied by the market share of A in that FIT year.
 
 (6) In this article—
 
-- “the capped amount of qualifying renewable electricity” is calculated in accordance with article 27A;[^key-da68afafb53d29fc35ffcaf8fb0bee0c]
+- “the capped amount of qualifying renewable electricity” is calculated in accordance with article 27A;[^c-da68afafb53d29fc35ffcaf8fb0bee0c]
 - “**customer**” has the same meaning as in the standard conditions of electricity supply licences;
-- “EII excluded electricity” means electricity which—[^key-1c0d63358af647b7c0fc6f33315d5b05]
+- “EII excluded electricity” means electricity which—[^c-1c0d63358af647b7c0fc6f33315d5b05]
   - (a) constitutes EII excluded electricity within the meaning of regulation 6(1) of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015; and
   - (b) is supplied on or after—
     - (i) 1st April 2019, where the Secretary of State is satisfied on or before 31st March 2019 that its deduction as set out in the definition of “relevant amount of electricity” would not breach the law relating to state aid; or
     - (ii) where the Secretary of State is not so satisfied on or before 31st March 2019, the first day of the first month following the day on which the Secretary of State is so satisfied;
-- “the electricity supply market of Great Britain” means—[^key-6ca445187af7f22567fa9ffab261fdf5]
-  - (a) for all FIT years up to and including FIT year 6, the amount of electricity supplied by all licensees to customers in Great Britain less the amount of electricity so supplied that is sourced from renewable resources and generated outside the United Kingdom; [^key-20ff04050e35e905264eb6bb196433dd]...
-  - (b) for FIT years 7 to 9[^key-776150e0efc4744b5c5ee0794dd5dbc6], the amount of electricity supplied by all licensees to customers in Great Britain less any qualifying renewable electricity;
-  - (c) for FIT year 10 and each subsequent FIT year, the total of all licensees’ relevant amount of electricity;[^key-2e25baf9a32fc5807c63751793ec277c]
-- “net deemed export payments” means deemed export payments made by a FIT licensee, less the value of deemed exports to the licensee as determined by the Secretary of State under article 38(1)(a), apportioned to the licensee in accordance with the market share of the licensee;[^key-932b8567e135d0dc4c43d8a7dc5d5e67]
-- “net metered export payments” means payments made to a FIT generator or nominated recipient by a FIT licensee in respect of metered exported electricity from an accredited FIT installation, less the value of the export to the licensee as calculated in accordance with the determination of the Secretary of State under article 38(1)(f);[^key-a8bdd3712e4519118a900f87d819b487]
-- [^key-44c3aefd8acdccbcec20767afd678d75]...
+- “the electricity supply market of Great Britain” means—[^c-6ca445187af7f22567fa9ffab261fdf5]
+  - (a) for all FIT years up to and including FIT year 6, the amount of electricity supplied by all licensees to customers in Great Britain less the amount of electricity so supplied that is sourced from renewable resources and generated outside the United Kingdom; [^c-20ff04050e35e905264eb6bb196433dd]...
+  - (b) for FIT years 7 to 9[^c-776150e0efc4744b5c5ee0794dd5dbc6], the amount of electricity supplied by all licensees to customers in Great Britain less any qualifying renewable electricity;
+  - (c) for FIT year 10 and each subsequent FIT year, the total of all licensees’ relevant amount of electricity;[^c-2e25baf9a32fc5807c63751793ec277c]
+- “net deemed export payments” means deemed export payments made by a FIT licensee, less the value of deemed exports to the licensee as determined by the Secretary of State under article 38(1)(a), apportioned to the licensee in accordance with the market share of the licensee;[^c-932b8567e135d0dc4c43d8a7dc5d5e67]
+- “net metered export payments” means payments made to a FIT generator or nominated recipient by a FIT licensee in respect of metered exported electricity from an accredited FIT installation, less the value of the export to the licensee as calculated in accordance with the determination of the Secretary of State under article 38(1)(f);[^c-a8bdd3712e4519118a900f87d819b487]
+- [^c-44c3aefd8acdccbcec20767afd678d75]...
 - “**qualifying FIT costs**” means the reasonable costs of a licensee incurred as a result of the FIT scheme (excluding the cost of FIT payments), as determined by the Secretary of State under article 38(1)(c); and
-- “qualifying renewable electricity” is electricity which is—[^key-c15d0e15f45aa5d5e15528f66c752990]
+- “qualifying renewable electricity” is electricity which is—[^c-c15d0e15f45aa5d5e15528f66c752990]
   - (a) produced from renewable sources (as defined in regulation 2(1) of the Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations 2003);
-  - (b) generated in a member State of the European Union [^key-f606e0075e2421885feea0d96b9ab21d]...; and
+  - (b) generated in a member State of the European Union [^c-f606e0075e2421885feea0d96b9ab21d]...; and
   - (c) generated by a generating installation which—
     - (i) had a capacity equal to or less than the specified maximum capacity; and
     - (ii) became operational on or after 1st April 2010;
-- “relevant amount of electricity” in relation to A means—[^key-7c544bc1e7351a44322840b88df1dbd4]
+- “relevant amount of electricity” in relation to A means—[^c-7c544bc1e7351a44322840b88df1dbd4]
   - (a) for all FIT years up to and including FIT year 6, the amount of electricity supplied by A to customers in Great Britain, less the amount of any electricity so supplied that is sourced from renewable sources and generated outside the United Kingdom;
   - (b) for FIT years 7 to 9, the amount of electricity supplied by A to customers in Great Britain, less A’s capped amount of qualifying renewable electricity for that FIT year;
-  - (c) subject to paragraph (d), for FIT years 10 to 13[^key-813893ff8325ca657589ace08b9910e3], the amount of electricity supplied by A to customers in Great Britain, less—
+  - (c) subject to paragraph (d), for FIT years 10 to 13[^c-813893ff8325ca657589ace08b9910e3], the amount of electricity supplied by A to customers in Great Britain, less—
     - (i) the amount of electricity supplied by A that is EII excluded electricity for that FIT year; and
-    - (ii) A’s capped amount of qualifying renewable electricity for that FIT year; [^key-2b960261a44203e5b0f472b5ed700b86]...
-  - (d) for FIT years 10 to 13[^key-7a2ae298e751592c80b3ac3e2dcea89b], where the calculation in paragraph (c) results in an amount that is less than zero, nil electricity; and[^key-0a964484c194f8bcd52f90815b35ef84]
-  - (e) for FIT year 14 and each subsequent FIT year, the amount of electricity supplied by A to customers in Great Britain, less the amount of electricity supplied by A that is EII excluded electricity for that FIT year.[^key-144fa93359af9bd015f41f6244f2a963]
+    - (ii) A’s capped amount of qualifying renewable electricity for that FIT year; [^c-2b960261a44203e5b0f472b5ed700b86]...
+  - (d) for FIT years 10 to 13[^c-7a2ae298e751592c80b3ac3e2dcea89b], where the calculation in paragraph (c) results in an amount that is less than zero, nil electricity; and[^c-0a964484c194f8bcd52f90815b35ef84]
+  - (e) for FIT year 14 and each subsequent FIT year, the amount of electricity supplied by A to customers in Great Britain, less the amount of electricity supplied by A that is EII excluded electricity for that FIT year.[^c-144fa93359af9bd015f41f6244f2a963]
 
-### 27A. The capped amount of qualifying renewable electricity[^key-bb4b89046a8e50c6934f9014ca1a8553]
+### 27A. The capped amount of qualifying renewable electricity[^c-bb4b89046a8e50c6934f9014ca1a8553]
 
 (1) For the purposes of article 27(6), the capped amount of qualifying renewable electricity (“CQE”) for a licensee (A) in a FIT year is—
 
-- (a) except where sub-paragraph (b) applies, the amount of qualifying renewable electricity supplied by A to customers in[^key-4f5c26f244787c09433aea8ebceea41e] Great Britain in that FIT year; or
+- (a) except where sub-paragraph (b) applies, the amount of qualifying renewable electricity supplied by A to customers in[^c-4f5c26f244787c09433aea8ebceea41e] Great Britain in that FIT year; or
 - (b) where this sub-paragraph applies, the amount given by—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2012/2782)
@@ -1095,7 +1095,7 @@ of the licensee for the FIT Year.
 
 ### 29. Notice of levelisation payments
 
-After the Authority has calculated [^key-63e0a51e208c5794577a48151e74333c]... levelisation payments, it must give notice—
+After the Authority has calculated [^c-63e0a51e208c5794577a48151e74333c]... levelisation payments, it must give notice—
 
 - (a) to each licensee which is liable to make or entitled to receive a levelisation payment, of the amount of that payment; and
 - (b) to each licensee which is liable to make a levelisation payment, of the date by which the payment is to be made.
@@ -1106,14 +1106,14 @@ After the Authority has calculated [^key-63e0a51e208c5794577a48151e74333c]... le
 
 (2) If a licensee fails to make a levelisation payment to the Authority by the date on which it is due (a “late payment”), the Authority may suspend in whole or in part any levelisation payment due to that licensee until the late payment has been made.
 
-(2A)[^key-71258ba0b5ad530abef97b15c9c22b5f] Where the late payment is in respect of a periodic levelisation payment and article 30A does not apply, if the payment is received by the Authority—
+(2A)[^c-71258ba0b5ad530abef97b15c9c22b5f] Where the late payment is in respect of a periodic levelisation payment and article 30A does not apply, if the payment is received by the Authority—
 
 - (a) before the Authority makes an annual levelisation calculation for that FIT year under article 26, the payment shall be included in the Authority’s calculations under that article; or
 - (b) after the Authority makes an annual levelisation calculation for that FIT year under article 26, the payment shall be distributed in accordance with article 30D(2).
 
 (3) If the Authority believes that the amount in the levelisation fund will not be sufficient to enable it to make a levelisation payment out of the fund, the Authority may defer all or part of that payment until there is a sufficient amount in the levelisation fund.
 
-### 30A. Mutualisation[^key-f9b0782bd346a21b8405bf6c5921c1ce]
+### 30A. Mutualisation[^c-f9b0782bd346a21b8405bf6c5921c1ce]
 
 (1) This article applies—
 
@@ -1249,7 +1249,7 @@ On or before 31st December after the end of each FIT year the Authority must pro
 
 ### 35. Notices to reduce, withhold or recoup FIT payments
 
-(A1)[^key-cdbc8becd3c5322330448f3b3a9d78cf] This article does not apply where any loss of entitlement to FIT payments arises by virtue of Part 8A.
+(A1)[^c-cdbc8becd3c5322330448f3b3a9d78cf] This article does not apply where any loss of entitlement to FIT payments arises by virtue of Part 8A.
 
 (1) Where the Authority has good reason to believe that a FIT generator or nominated recipient may have received a FIT payment to which it was not entitled, the Authority may give notice to the FIT licensee which made the payment to—
 
@@ -1262,7 +1262,7 @@ On or before 31st December after the end of each FIT year the Authority must pro
 - (a) the amount of any FIT payment which was reduced, withheld or recouped should be paid to the FIT generator or nominated recipient as soon as possible; and
 - (b) where FIT payments have been withheld, FIT payments to the FIT generator or nominated recipient should recommence.
 
-### 35ZA. Notices to reduce, withhold or recoup generation payments for the purposes of Part 8A[^key-6558fa9a6725e5e423393497a974675d]
+### 35ZA. Notices to reduce, withhold or recoup generation payments for the purposes of Part 8A[^c-6558fa9a6725e5e423393497a974675d]
 
 (1) Where the Authority has good reason to believe that a FIT generator or nominated recipient may have received a generation payment to which it was not entitled by virtue of articles 38C or 38E, the Authority may give notice to the FIT licensee which made the payment to—
 
@@ -1288,13 +1288,13 @@ On or before 31st December after the end of each FIT year the Authority must pro
 - (a) the amount of any generation payment which was reduced, withheld or recouped should be paid to the FIT generator or nominated recipient as soon as possible; and
 - (b) where generation payments have been withheld, generation payments to the FIT generator or nominated recipient should recommence.
 
-### 35A. FIT applications data[^key-cb1c3f04494178989d0e1e781cb743b8]
+### 35A. FIT applications data[^c-cb1c3f04494178989d0e1e781cb743b8]
 
 The Authority must determine and publish data in accordance with Schedule 2.
 
 ## PART 8 — Functions of the Secretary of State
 
-### 36. FIT deployment data[^key-c38b79f567f55288bd95d35b8d2c2648]
+### 36. FIT deployment data[^c-c38b79f567f55288bd95d35b8d2c2648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1315,17 +1315,17 @@ The Authority must determine and publish data in accordance with Schedule 2.
 (1) The Secretary of State must determine in respect of each FIT year—
 
 - (a) the value to FIT licensees, in pence per kilowatt hour, of deemed exports for the purpose of calculating the net deemed export payments of FIT licensees;
-- (b)[^key-f2bcb2e525a8f53131043b4b5729bb3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the costs of licensees which constitute qualifying FIT costs [^key-9cc1fb7b9c781ca6166c44a40d137351]...
-- (d)[^key-af8db1dc01480b18dd9409d0aeba087e] a lower and a higher limit for the unpaid amounts (as referred to in article 30A(1)(b) and defined in article 30A(9)) that will trigger a mutualisation (“the mutualisation trigger range”).
-- (e)[^key-e2fce28e2fb60add833690e689414c68] the reasonable costs of the Authority incurred as the result of administering the FIT scheme for the purposes of article 25.; and[^key-b5c06e22f85bae1803600bce5e848976]
-- (f)[^key-9b11b107458c7bf796d23ec894ec3365] for FIT year 10 and each subsequent FIT year, the value to FIT licensees, in pence per kilowatt hour, of metered exported electricity for the purpose of calculating the net metered export payments of FIT licensees.
+- (b)[^c-f2bcb2e525a8f53131043b4b5729bb3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the costs of licensees which constitute qualifying FIT costs [^c-9cc1fb7b9c781ca6166c44a40d137351]...
+- (d)[^c-af8db1dc01480b18dd9409d0aeba087e] a lower and a higher limit for the unpaid amounts (as referred to in article 30A(1)(b) and defined in article 30A(9)) that will trigger a mutualisation (“the mutualisation trigger range”).
+- (e)[^c-e2fce28e2fb60add833690e689414c68] the reasonable costs of the Authority incurred as the result of administering the FIT scheme for the purposes of article 25.; and[^c-b5c06e22f85bae1803600bce5e848976]
+- (f)[^c-9b11b107458c7bf796d23ec894ec3365] for FIT year 10 and each subsequent FIT year, the value to FIT licensees, in pence per kilowatt hour, of metered exported electricity for the purpose of calculating the net metered export payments of FIT licensees.
 
 (2) The Secretary of State must publish a determination under paragraph (1) not less than one month before the beginning of the FIT year to which it relates.
 
-**38A.**[^key-1e48a8f657a59eab5c3a12130f9abf05] For the period commencing on 1st July 2013 until the end of the FIT year within which that date falls, the mutualisation trigger range (as defined in article 38(1)(d)) shall be £1,700,000 to £16,900,000.
+**38A.**[^c-1e48a8f657a59eab5c3a12130f9abf05] For the period commencing on 1st July 2013 until the end of the FIT year within which that date falls, the mutualisation trigger range (as defined in article 38(1)(d)) shall be £1,700,000 to £16,900,000.
 
-## PART 8A — Anaerobic digestion installations and entitlement to generation payments[^key-22b5954f52f1c692c39735e038dcb657]
+## PART 8A — Anaerobic digestion installations and entitlement to generation payments[^c-22b5954f52f1c692c39735e038dcb657]
 
 ### 38B. Application
 
@@ -1492,7 +1492,7 @@ Minister of State
 
 Department of Energy and Climate Change
 
-## SCHEDULE A1 — MCS-certified installations[^key-518ba4e8393c7ecb516b74ed166ae856]
+## SCHEDULE A1 — MCS-certified installations[^c-518ba4e8393c7ecb516b74ed166ae856]
 
 Article 2(1)
 
@@ -1547,7 +1547,7 @@ Article 21
 - (a) the FIT licensee responsible for making FIT payments;
 - (b) the FIT generator and any nominated recipient to which the FIT licensee makes FIT payments.
 
-## SCHEDULE 1A — Limit of aggregate capacity of eligible installations[^key-1e5fcde0a852ea1799832ea74b64e856]
+## SCHEDULE 1A — Limit of aggregate capacity of eligible installations[^c-1e5fcde0a852ea1799832ea74b64e856]
 
 Article 8B
 
@@ -1567,7 +1567,7 @@ Table 1: Limit of aggregate total installed capacity of eligible installations (
 | Wind with total installed capacity greater than 100 kW but not exceeding 1500 kW | 6.8 | 6.7 | 6.6 | 6.5 | 6.4 | 6.3 | 6.2 | 6.1 | 6.1 | 5.9 | 5.8 | 5.7 | 5.7 |
 | Wind with total installed capacity greater than 1500 kW | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 |
 
-Table 2[^key-d32349f40265914a76c71e29ad4efa4b]
+Table 2[^c-d32349f40265914a76c71e29ad4efa4b]
 
 Limit of aggregate installed capacity of eligible installations (in megawatts) applied for in respect of eligible combined heat and power installations for a particular tariff period
 
@@ -1575,7 +1575,7 @@ Limit of aggregate installed capacity of eligible installations (in megawatts) a
 | --- | --- | --- | --- | --- |
 | *Combined heat and power installation with total installed capacity of 2 kilowatts or less* | *5.0* | *5.0* | *5.0* | 5*.0* |
 
-## SCHEDULE 2 — FIT applications data[^key-47f0300efaf6d7c6aa58685047c0e511]
+## SCHEDULE 2 — FIT applications data[^c-47f0300efaf6d7c6aa58685047c0e511]
 
 Article 35A
 
@@ -1584,7 +1584,7 @@ Article 35A
 **2.** The data referred to in paragraph 1 are—
 
 - (a) the aggregate total installed capacities of anaerobic digestion installations applied for within the deployment period;
-- (aa)[^key-aceff4455f4ce3fad10ca2d537dfeee7] the aggregate total installed capacities of combined heat and power installations (each with total installed capacity of 2 kilowatts or less) applied for within the deployment period;
+- (aa)[^c-aceff4455f4ce3fad10ca2d537dfeee7] the aggregate total installed capacities of combined heat and power installations (each with total installed capacity of 2 kilowatts or less) applied for within the deployment period;
 - (b) the aggregate total installed capacities of hydro generating stations with total installed capacity of 100 kilowatts or less, applied for within the deployment period;
 - (c) the aggregate total installed capacity of hydro generating stations with total installed capacity greater than 100 kilowatts applied for within the deployment period;
 - (d) the aggregate total installed capacities of solar photovoltaic (other than stand-alone), with total installed capacity of 10 kilowatts or less, which were registered on the MCS database within the deployment period;
@@ -1603,7 +1603,7 @@ Article 35A
 - “MCS database” means the database maintained by the Microgeneration Certification Scheme that records the details of MCS-certified installations; and
 - “relevant installation” has the meaning given in article 8B(4)(b).
 
-## SCHEDULE 2A — Greenhouse gas criteria[^key-52c1821c1855485c424695bc37fc2ecf]
+## SCHEDULE 2A — Greenhouse gas criteria[^c-52c1821c1855485c424695bc37fc2ecf]
 
 Articles 38D and 38J
 
@@ -1713,19 +1713,19 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^c21441191]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-5312876138844c5a3823b65f335dcfeb]: Textual amendment: Words in art. 2 inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/a/ii) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-5312876138844c5a3823b65f335dcfeb]: Textual amendment: Words in art. 2 inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/a/ii) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-276348a36c103b2298f0b50f3e2d5090]: Textual amendment: Words in art. 2(1) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/35/article/3/a)
+[^c-276348a36c103b2298f0b50f3e2d5090]: Textual amendment: Words in art. 2(1) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/35/article/3/a)
 
 [^c21441201]: Marginal citation: The definition of “distribute” in section 4(4) of the 1989 Act (which explains the meaning of “distribution system”) was inserted by the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), section 28(3).
 
-[^key-50cf2a93f98b8bdfabe82c96aac38752]: Textual amendment: Words in art. 2(1) substituted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/2/a)
+[^c-50cf2a93f98b8bdfabe82c96aac38752]: Textual amendment: Words in art. 2(1) substituted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/2/a)
 
 [^c21441221]: Marginal citation: [S.S.I 2008/309](https://www.legislation.gov.uk/ssi/2008/309), amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208); there are other amending instruments but none is relevant.
 
-[^key-8f129a5b60662cd1918c9f022383e8cb]: Textual amendment: Words in art. 2(1) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/a/i) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-8f129a5b60662cd1918c9f022383e8cb]: Textual amendment: Words in art. 2(1) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/a/i) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-bd21b4fc3fc701d7e9e07b92e1e83ebb]: Textual amendment: Words in art. 2(1) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/2/b)
+[^c-bd21b4fc3fc701d7e9e07b92e1e83ebb]: Textual amendment: Words in art. 2(1) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/2/b)
 
 [^c21441251]: Marginal citation: [S.I. 2009/785](https://www.legislation.gov.uk/uksi/2009/785), amended by [S.I. 2010/1107](https://www.legislation.gov.uk/uksi/2010/1107), [S.I. 2011/984](https://www.legislation.gov.uk/uksi/2011/984) and [S.I 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
 
@@ -1733,117 +1733,117 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^c21441271]: Marginal citation: The standard conditions of electricity supply licences are at: www.ofgem.gov.uk. Standard Conditions 33 and 34 were inserted with effect from 1st April 2010, and the Schedule to Standard Condition 33 was substituted with effect from 1st December 2012, by modifications made under section 41 of the Act. Copies are available from the Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW.
 
-[^key-bdd6e6e79139306c3de8ddde7226dd0d]: Textual amendment: Words in art. 2(1) omitted (20.3.2017) by virtue of [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/131/article/3/a)
+[^c-bdd6e6e79139306c3de8ddde7226dd0d]: Textual amendment: Words in art. 2(1) omitted (20.3.2017) by virtue of [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/131/article/3/a)
 
 [^c21441281]: Marginal citation: The definition of “transmission system” was inserted by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), section 135(4).
 
-[^key-034fb13ce1f652b4604e247f8f1d01e9]: Textual amendment: Words in art. 2(1) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/2/c)
+[^c-034fb13ce1f652b4604e247f8f1d01e9]: Textual amendment: Words in art. 2(1) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/2/c)
 
-[^key-0aecf253c562ec8de26ec68fc9fe161c]: Textual amendment: Words in art. 2(2) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2017/131/article/3/b/i)
+[^c-0aecf253c562ec8de26ec68fc9fe161c]: Textual amendment: Words in art. 2(2) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2017/131/article/3/b/i)
 
-[^key-215504c938c24580eaea064cb0079c15]: Textual amendment: Words in art. 2(2) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/3)
+[^c-215504c938c24580eaea064cb0079c15]: Textual amendment: Words in art. 2(2) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1099/article/3/3)
 
-[^key-778ade6a771a2ede89047cf447482f73]: Textual amendment: Words in art. 2(2) omitted (15.1.2016) by virtue of [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-778ade6a771a2ede89047cf447482f73]: Textual amendment: Words in art. 2(2) omitted (15.1.2016) by virtue of [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-682629701718f2281ca5b9f14142bc8d]: Textual amendment: Words in art. 2(2) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [3](https://www.legislation.gov.uk/uksi/2016/319/article/3)
+[^c-682629701718f2281ca5b9f14142bc8d]: Textual amendment: Words in art. 2(2) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [3](https://www.legislation.gov.uk/uksi/2016/319/article/3)
 
-[^key-f46ecc58583e401642c129a667cfd9d3]: Textual amendment: Words in art. 2(2) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/131/article/3/b/ii)
+[^c-f46ecc58583e401642c129a667cfd9d3]: Textual amendment: Words in art. 2(2) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/131/article/3/b/ii)
 
-[^key-5d2d49134281b9e5ab51445956764df6]: Textual amendment: Art. 2(3) substituted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/35/article/3/b)
+[^c-5d2d49134281b9e5ab51445956764df6]: Textual amendment: Art. 2(3) substituted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/35/article/3/b)
 
-[^key-6b32441eccf6609326f51735fdbf9764]: Textual amendment: Art. 2(4) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-6b32441eccf6609326f51735fdbf9764]: Textual amendment: Art. 2(4) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/3/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-4a60d42e6e0eeddd9339bbf1dfdb4bff]: Textual amendment: Art. 4 substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [4](https://www.legislation.gov.uk/uksi/2015/2045/article/4) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-4a60d42e6e0eeddd9339bbf1dfdb4bff]: Textual amendment: Art. 4 substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [4](https://www.legislation.gov.uk/uksi/2015/2045/article/4) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-46fa9d37020bd9ac59669ea4435ff2f8]: Textual amendment: Word in art. 4(2)(b)(ii) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/3/2/a)
+[^c-46fa9d37020bd9ac59669ea4435ff2f8]: Textual amendment: Word in art. 4(2)(b)(ii) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/3/2/a)
 
-[^key-c8da7776f4a64e3ed5f4b79c9d1cfa7e]: Textual amendment: Word in art. 4(2)(b)(iii) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/3/2/b)
+[^c-c8da7776f4a64e3ed5f4b79c9d1cfa7e]: Textual amendment: Word in art. 4(2)(b)(iii) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/3/2/b)
 
-[^key-6f41959344c0a00689dd74f3efb2d886]: Textual amendment: Art. 4(2)(b)(iv) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/3/2/c)
+[^c-6f41959344c0a00689dd74f3efb2d886]: Textual amendment: Art. 4(2)(b)(iv) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/3/2/c)
 
-[^key-93b8b8de0e794730e80ddab60a7c0c0c]: Textual amendment: Words in art. 4(3)(a) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/a)
+[^c-93b8b8de0e794730e80ddab60a7c0c0c]: Textual amendment: Words in art. 4(3)(a) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/a)
 
-[^key-499f976db5681bd2b40045097f5f180f]: Textual amendment: Art. 4(4) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/319/article/4/b)
+[^c-499f976db5681bd2b40045097f5f180f]: Textual amendment: Art. 4(4) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/319/article/4/b)
 
-[^key-3e5cfda1c68d59997abb60582bacb5ce]: Textual amendment: Art. 5(1A)(1B) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-3e5cfda1c68d59997abb60582bacb5ce]: Textual amendment: Art. 5(1A)(1B) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-5f648c3ca025a96895aea0a1979a9495]: Textual amendment: Word in art. 5(1B)(a) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/2/a)
+[^c-5f648c3ca025a96895aea0a1979a9495]: Textual amendment: Word in art. 5(1B)(a) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/2/a)
 
-[^key-5f6b9ecd3a426f1bf3a054023ea3f464]: Textual amendment: Word in art. 5(1B)(b) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/2/b)
+[^c-5f6b9ecd3a426f1bf3a054023ea3f464]: Textual amendment: Word in art. 5(1B)(b) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/2/b)
 
-[^key-38c222e9e6eac19887d151d237fe074f]: Textual amendment: Art. 5(1B)(c) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/2/c)
+[^c-38c222e9e6eac19887d151d237fe074f]: Textual amendment: Art. 5(1B)(c) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/2/c)
 
-[^key-e2589ebde09c0b32127d1ea9e26edc50]: Textual amendment: Words in art. 5(2) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-e2589ebde09c0b32127d1ea9e26edc50]: Textual amendment: Words in art. 5(2) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-c5520e21d6e0a60d67d9bde03f9abf9f]: Textual amendment: Word in art. 5(2)(a) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/3)
+[^c-c5520e21d6e0a60d67d9bde03f9abf9f]: Textual amendment: Word in art. 5(2)(a) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/3)
 
-[^key-63f4a6747a7f599bacd4ee81c982ea08]: Textual amendment: Words in art. 5(4)(b) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-63f4a6747a7f599bacd4ee81c982ea08]: Textual amendment: Words in art. 5(4)(b) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-fdd7df5c95f5b83b3172ad643af629ee]: Textual amendment: Words in art. 5(4)(c) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/d) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-fdd7df5c95f5b83b3172ad643af629ee]: Textual amendment: Words in art. 5(4)(c) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/d) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-8cf804f21ff093760dabda30c4cdd4e2]: Textual amendment: Words in art. 5(5)(a) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-8cf804f21ff093760dabda30c4cdd4e2]: Textual amendment: Words in art. 5(5)(a) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-2c61070202ec9bf82a36719300f96425]: Textual amendment: Words in art. 5(5)(b) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/d) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-2c61070202ec9bf82a36719300f96425]: Textual amendment: Words in art. 5(5)(b) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/d) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-b1ef707fda78f450634b5e98e6793d8e]: Textual amendment: Words in art. 5(6) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(e)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/e) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-b1ef707fda78f450634b5e98e6793d8e]: Textual amendment: Words in art. 5(6) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [5(e)](https://www.legislation.gov.uk/uksi/2015/2045/article/5/e) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-352b03e27ad55d94589e3290f51293db]: Textual amendment: Words in art. 5(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/4)
+[^c-352b03e27ad55d94589e3290f51293db]: Textual amendment: Words in art. 5(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2018/1380/article/4/4)
 
-[^key-ec7c776b62ce018f89b58226b84029d6]: Textual amendment: Words in art. 6(1) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [6](https://www.legislation.gov.uk/uksi/2015/2045/article/6) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-ec7c776b62ce018f89b58226b84029d6]: Textual amendment: Words in art. 6(1) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [6](https://www.legislation.gov.uk/uksi/2015/2045/article/6) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-57f51fce463f69bf4d673a464d69d152]: Textual amendment: Word in art. 6(1) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/5/2)
+[^c-57f51fce463f69bf4d673a464d69d152]: Textual amendment: Word in art. 6(1) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/5/2)
 
-[^key-33e8f6b05dd098754da3fe51e9f69ad9]: Textual amendment: Arts. 7A, 7B inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [6](https://www.legislation.gov.uk/uksi/2018/1380/article/6)
+[^c-33e8f6b05dd098754da3fe51e9f69ad9]: Textual amendment: Arts. 7A, 7B inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [6](https://www.legislation.gov.uk/uksi/2018/1380/article/6)
 
-[^key-7daf15f514107b4ff3f21d6039ba63c3]: Textual amendment: Art. 7A(2)(b)(ii) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/375/article/3/2)
+[^c-7daf15f514107b4ff3f21d6039ba63c3]: Textual amendment: Art. 7A(2)(b)(ii) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/375/article/3/2)
 
-[^key-2b5e3e4a58b63323805eaa9fd0ba5d22]: Textual amendment: Words in art. 7A(2)(b)(ii)(bb) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/957/article/3/2)
+[^c-2b5e3e4a58b63323805eaa9fd0ba5d22]: Textual amendment: Words in art. 7A(2)(b)(ii)(bb) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/957/article/3/2)
 
-[^key-e7c6e8fb2a368bc7a638c8b413948956]: Textual amendment: Arts. 8A-8D inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [7](https://www.legislation.gov.uk/uksi/2015/2045/article/7) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-e7c6e8fb2a368bc7a638c8b413948956]: Textual amendment: Arts. 8A-8D inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [7](https://www.legislation.gov.uk/uksi/2015/2045/article/7) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-5e2bcd0aac9727645f845dfddca83850]: Textual amendment: Word in art. 8B(1) substituted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [4](https://www.legislation.gov.uk/uksi/2017/131/article/4)
+[^c-5e2bcd0aac9727645f845dfddca83850]: Textual amendment: Word in art. 8B(1) substituted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [4](https://www.legislation.gov.uk/uksi/2017/131/article/4)
 
-[^key-1f009fb2c77583f0f3aaa8d5f0472b75]: Textual amendment: Words in art. 8B(3) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/2)
+[^c-1f009fb2c77583f0f3aaa8d5f0472b75]: Textual amendment: Words in art. 8B(3) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/2)
 
-[^key-ff95bc52ba4cf2ddd385eb73f35b3ada]: Textual amendment: Art. 8B(3A)(3B) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/3)
+[^c-ff95bc52ba4cf2ddd385eb73f35b3ada]: Textual amendment: Art. 8B(3A)(3B) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/3)
 
-[^key-845cc0e9a7b9d5f5d89bf44a9e86f2e9]: Textual amendment: Art. 8B(4)(a)(ii) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/319/article/4/2)
+[^c-845cc0e9a7b9d5f5d89bf44a9e86f2e9]: Textual amendment: Art. 8B(4)(a)(ii) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/319/article/4/2)
 
-[^key-1ef1a3da7192c795f919d5c2898f5d12]: Textual amendment: Word in art. 8B(4)(a)(iii) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/4/a)
+[^c-1ef1a3da7192c795f919d5c2898f5d12]: Textual amendment: Word in art. 8B(4)(a)(iii) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/4/a)
 
-[^key-b6a806495f1a854ece162c0f31e74732]: Textual amendment: Art. 8B(4)(b)(c) substituted for art. 8B(4)(b) (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/4/b)
+[^c-b6a806495f1a854ece162c0f31e74732]: Textual amendment: Art. 8B(4)(b)(c) substituted for art. 8B(4)(b) (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/7/4/b)
 
-[^key-53e69dc7c11aef9bb8269614f91c2962]: Textual amendment: Art. 8B(4)(b)(iii) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/375/article/4/2)
+[^c-53e69dc7c11aef9bb8269614f91c2962]: Textual amendment: Art. 8B(4)(b)(iii) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/375/article/4/2)
 
-[^key-c9389dbb01abf61d380082e6b5f1601d]: Textual amendment: Words in art. 8B(4)(b)(iii)(bb) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/957/article/4/2)
+[^c-c9389dbb01abf61d380082e6b5f1601d]: Textual amendment: Words in art. 8B(4)(b)(iii)(bb) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/957/article/4/2)
 
-[^key-cd8c09484a2f6a9ca63929f1df4f5ff6]: Textual amendment: Words in art. 8C(1) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/8/2)
+[^c-cd8c09484a2f6a9ca63929f1df4f5ff6]: Textual amendment: Words in art. 8C(1) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/8/2)
 
-[^key-61b146e54d0833926c5639ef6fb5d166]: Textual amendment: Art. 8C(1A) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/8/3)
+[^c-61b146e54d0833926c5639ef6fb5d166]: Textual amendment: Art. 8C(1A) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/8/3)
 
-[^key-4a7afd1d2a203ca8f7cd10b0a19a7120]: Textual amendment: Art. 8D(1)(b) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/319/article/4/3)
+[^c-4a7afd1d2a203ca8f7cd10b0a19a7120]: Textual amendment: Art. 8D(1)(b) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/319/article/4/3)
 
-[^key-415fadd1866b526f0d677fe889d137b0]: Textual amendment: Art. 9(1) substituted (30.9.2015) by [The Feed-in Tariffs (Amendment) (No. 2) Order 2015 (S.I. 2015/1659)](https://www.legislation.gov.uk/uksi/2015/1659), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1659/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1659/article/3/a)
+[^c-415fadd1866b526f0d677fe889d137b0]: Textual amendment: Art. 9(1) substituted (30.9.2015) by [The Feed-in Tariffs (Amendment) (No. 2) Order 2015 (S.I. 2015/1659)](https://www.legislation.gov.uk/uksi/2015/1659), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1659/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1659/article/3/a)
 
-[^key-09e5b19177327e3081c30086bec2b1e6]: Textual amendment: Words in art. 9(1)(b) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-09e5b19177327e3081c30086bec2b1e6]: Textual amendment: Words in art. 9(1)(b) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-e3c8c1917e8a21041756647b3bb3b1bc]: Textual amendment: Words in art. 9(1)(b) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/9/2)
+[^c-e3c8c1917e8a21041756647b3bb3b1bc]: Textual amendment: Words in art. 9(1)(b) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/9/2)
 
-[^key-9060fd3a46ac44bf3fe065ef3ef85f5e]: Textual amendment: Words in art. 9(2) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-9060fd3a46ac44bf3fe065ef3ef85f5e]: Textual amendment: Words in art. 9(2) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-273fd2f3d038646e1b2ff6b666a5059f]: Textual amendment: Words in art. 9(2) substituted (30.9.2015) by [The Feed-in Tariffs (Amendment) (No. 2) Order 2015 (S.I. 2015/1659)](https://www.legislation.gov.uk/uksi/2015/1659), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1659/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1659/article/3/b)
+[^c-273fd2f3d038646e1b2ff6b666a5059f]: Textual amendment: Words in art. 9(2) substituted (30.9.2015) by [The Feed-in Tariffs (Amendment) (No. 2) Order 2015 (S.I. 2015/1659)](https://www.legislation.gov.uk/uksi/2015/1659), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1659/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1659/article/3/b)
 
-[^key-0c2ad82b5fd3694832b45c8a86cd575d]: Textual amendment: Words in art. 9(2)(b) added (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-0c2ad82b5fd3694832b45c8a86cd575d]: Textual amendment: Words in art. 9(2)(b) added (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-dafc80ded283967fdbd6c911831e06cb]: Textual amendment: Art. 9(3)(a)(v)(vi) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/35/article/4/a)
+[^c-dafc80ded283967fdbd6c911831e06cb]: Textual amendment: Art. 9(3)(a)(v)(vi) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/35/article/4/a)
 
-[^key-651630721d7c5ea1b3917c50fe2f3508]: Textual amendment: Word in art. 9(4)(c)(ii) omitted (1.4.2015) by virtue of [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/35/article/4/b)
+[^c-651630721d7c5ea1b3917c50fe2f3508]: Textual amendment: Word in art. 9(4)(c)(ii) omitted (1.4.2015) by virtue of [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/35/article/4/b)
 
-[^key-3025f95c98a5f5eae47c87bf010d8ad2]: Textual amendment: Words in [art. 9(4)(d)](https://www.legislation.gov.uk/uksi/2012/2782/article/9/4/d) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 22](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/22) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3025f95c98a5f5eae47c87bf010d8ad2]: Textual amendment: Words in [art. 9(4)(d)](https://www.legislation.gov.uk/uksi/2012/2782/article/9/4/d) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 22](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/22) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-7d0b6361fc2e87f459302081380189b2]: Textual amendment: Word in art. 9(4)(d) substituted (1.4.2015) by virtue of [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/35/article/4/c)
+[^c-7d0b6361fc2e87f459302081380189b2]: Textual amendment: Word in art. 9(4)(d) substituted (1.4.2015) by virtue of [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2015/35/article/4/c)
 
-[^key-3606a319b229c02d613c8d0ecd17596b]: Textual amendment: Art. 9(4)(e) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2015/35/article/4/d)
+[^c-3606a319b229c02d613c8d0ecd17596b]: Textual amendment: Art. 9(4)(e) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2015/35/article/4/d)
 
 [^c21441301]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). Section 24 was amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 128, the Water Act 2003, section 60(1), and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), Schedule 2, paragraph 8.
 
@@ -1851,27 +1851,27 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^c21441321]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). Section 109(1) was amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 128.
 
-[^key-deede0e468392c9853be06f8dc94f3ef]: Textual amendment: Words in art. 9(8) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(e)](https://www.legislation.gov.uk/uksi/2015/35/article/4/e)
+[^c-deede0e468392c9853be06f8dc94f3ef]: Textual amendment: Words in art. 9(8) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(e)](https://www.legislation.gov.uk/uksi/2015/35/article/4/e)
 
-[^key-e54499e4ed2bc39f6a9f342f30d28f8d]: Textual amendment: Words in art. 9(8) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/375/article/5/2)
+[^c-e54499e4ed2bc39f6a9f342f30d28f8d]: Textual amendment: Words in art. 9(8) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/375/article/5/2)
 
-[^key-72c4da521a43f9b25a36da9d116f5ad5]: Textual amendment: Words in art. 9(8) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/4/a)
+[^c-72c4da521a43f9b25a36da9d116f5ad5]: Textual amendment: Words in art. 9(8) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/4/a)
 
-[^key-ae75edd90d58ef53d4a3d374427a730d]: Textual amendment: Art. 9(8ZA) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/957/article/5/2)
+[^c-ae75edd90d58ef53d4a3d374427a730d]: Textual amendment: Art. 9(8ZA) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/957/article/5/2)
 
-[^key-d01e51df7818cea290e04c821f7ad92f]: Textual amendment: Art. 9(8A) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2015/35/article/4/f)
+[^c-d01e51df7818cea290e04c821f7ad92f]: Textual amendment: Art. 9(8A) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2015/35/article/4/f)
 
-[^key-2fd0947fa096fe5162e97b709a347ded]: Textual amendment: Words in art. 9(8A) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/375/article/5/4)
+[^c-2fd0947fa096fe5162e97b709a347ded]: Textual amendment: Words in art. 9(8A) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/375/article/5/4)
 
-[^key-054c36262c5ec5ceaa3b70069f71f168]: Textual amendment: Words in art. 9(8A) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/4/a)
+[^c-054c36262c5ec5ceaa3b70069f71f168]: Textual amendment: Words in art. 9(8A) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/4/a)
 
-[^key-c1c73d3b57dacfca6a9b3fb2fa61071a]: Textual amendment: Art. 9(8AA) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/957/article/5/3)
+[^c-c1c73d3b57dacfca6a9b3fb2fa61071a]: Textual amendment: Art. 9(8AA) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/957/article/5/3)
 
-[^key-882ee2add8a719f1fed8d8fc04572f48]: Textual amendment: Art. 9(8B) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2016/319/article/4/4/b)
+[^c-882ee2add8a719f1fed8d8fc04572f48]: Textual amendment: Art. 9(8B) inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2016/319/article/4/4/b)
 
-[^key-9c4ca0e191227a9d4d72fc762a57580b]: Textual amendment: Words in art. 9(8B) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2020/375/article/5/6)
+[^c-9c4ca0e191227a9d4d72fc762a57580b]: Textual amendment: Words in art. 9(8B) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2020/375/article/5/6)
 
-[^key-e950a84eba744cac192e38befcc3eae8]: Textual amendment: Words in art. 9(9)(c) added (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(d)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/d) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-e950a84eba744cac192e38befcc3eae8]: Textual amendment: Words in art. 9(9)(c) added (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [8(d)](https://www.legislation.gov.uk/uksi/2015/2045/article/8/d) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
 [^c21441331]: Marginal citation: Section 6(1)(b) of the 1989 Act was substituted by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), section 136(1). Section 6(1)(c) was substituted by the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), section 30, and amended by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), Schedule 23, Part 1.
 
@@ -1879,51 +1879,51 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^c21441351]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-0f2ff9ce39064f042ba1f795d9ecf228]: Textual amendment: Art. 10(1)(b) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/10/2)
+[^c-0f2ff9ce39064f042ba1f795d9ecf228]: Textual amendment: Art. 10(1)(b) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/10/2)
 
-[^key-9cdf506259d96d34afa9bfd67ad68299]: Textual amendment: Art. 10(3) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/2045/article/9/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-9cdf506259d96d34afa9bfd67ad68299]: Textual amendment: Art. 10(3) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/2045/article/9/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-deaa24ed7370328c52d2fe9a8aed5f9b]: Textual amendment: Art. 10(3)(b) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/5/a)
+[^c-deaa24ed7370328c52d2fe9a8aed5f9b]: Textual amendment: Art. 10(3)(b) substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2016/319/article/4/5/a)
 
-[^key-bc4ac60f6b7e0d76f80b2991a485a6fb]: Textual amendment: Art. 10(4)(d)(da) substituted for art. 10(4)(d) (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2016/319/article/4/5/b)
+[^c-bc4ac60f6b7e0d76f80b2991a485a6fb]: Textual amendment: Art. 10(4)(d)(da) substituted for art. 10(4)(d) (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2016/319/article/4/5/b)
 
-[^key-3b60b46bf523d80129bd3b67c1644b73]: Textual amendment: Art. 10(4)(e) omitted (15.1.2016) by virtue of [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/9/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-3b60b46bf523d80129bd3b67c1644b73]: Textual amendment: Art. 10(4)(e) omitted (15.1.2016) by virtue of [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/9/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-e524ea0ae6a9d7256b8e1578334e33a7]: Textual amendment: Art. 10(4)(f)(g) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/35/article/5/b)
+[^c-e524ea0ae6a9d7256b8e1578334e33a7]: Textual amendment: Art. 10(4)(f)(g) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/35/article/5/b)
 
-[^key-2a2960c4c0b2f3e6cdbdfa24f4c08531]: Textual amendment: Words in art. 11(2) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/2)
+[^c-2a2960c4c0b2f3e6cdbdfa24f4c08531]: Textual amendment: Words in art. 11(2) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/2)
 
-[^key-879edc19515128c80f58806d22af08f0]: Textual amendment: Art. 11(2A) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/3)
+[^c-879edc19515128c80f58806d22af08f0]: Textual amendment: Art. 11(2A) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/3)
 
-[^key-8f32fced1c76268253fa81ee1400810a]: Textual amendment: Words in art. 11(3) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(4)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/4)
+[^c-8f32fced1c76268253fa81ee1400810a]: Textual amendment: Words in art. 11(3) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(4)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/4)
 
-[^key-9726401c410a4dca9450c5291321d670]: Textual amendment: Art. 11(4) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/375/article/6/2)
+[^c-9726401c410a4dca9450c5291321d670]: Textual amendment: Art. 11(4) substituted (31.3.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) Order 2020 (S.I. 2020/375)](https://www.legislation.gov.uk/uksi/2020/375), [arts. 1](https://www.legislation.gov.uk/uksi/2020/375/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/375/article/6/2)
 
-[^key-020759f94fac177a319499452549a911]: Textual amendment: Words in art. 11(4)(b) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/957/article/6/2)
+[^c-020759f94fac177a319499452549a911]: Textual amendment: Words in art. 11(4)(b) substituted (30.9.2020) by [The Feed-in Tariffs (Amendment) (Coronavirus) (No. 2) Order 2020 (S.I. 2020/957)](https://www.legislation.gov.uk/uksi/2020/957), [arts. 1](https://www.legislation.gov.uk/uksi/2020/957/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/957/article/6/2)
 
-[^key-c3c526943b692fbf8b870847c62e1e16]: Textual amendment: Art. 11(5)(a)-(d) substituted for art. 11(5)(a)(b) (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [10](https://www.legislation.gov.uk/uksi/2015/2045/article/10) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-c3c526943b692fbf8b870847c62e1e16]: Textual amendment: Art. 11(5)(a)-(d) substituted for art. 11(5)(a)(b) (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [10](https://www.legislation.gov.uk/uksi/2015/2045/article/10) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-1eaacfe9e884d44fdd366e1aad34c96f]: Textual amendment: Words in art. 11(5)(d) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/5/a)
+[^c-1eaacfe9e884d44fdd366e1aad34c96f]: Textual amendment: Words in art. 11(5)(d) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/5/a)
 
-[^key-94bf5e74831b411229732fee7a182e65]: Textual amendment: Word in art. 11(5)(d)(ii) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/5/b)
+[^c-94bf5e74831b411229732fee7a182e65]: Textual amendment: Word in art. 11(5)(d)(ii) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/5/b)
 
-[^key-302ffe3766ed6ad3637e20790842254d]: Textual amendment: Art. 11(5)(e) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(5)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/5/c)
+[^c-302ffe3766ed6ad3637e20790842254d]: Textual amendment: Art. 11(5)(e) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [11(5)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/11/5/c)
 
-[^key-39f3d6ddf9fbce4eb7c3be8f26c3c962]: Textual amendment: Words in art. 11(6) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/35/article/6/a)
+[^c-39f3d6ddf9fbce4eb7c3be8f26c3c962]: Textual amendment: Words in art. 11(6) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/35/article/6/a)
 
-[^key-ff9374b81aa3f5cb9cd2cc22ef2e1bfd]: Textual amendment: Words in art. 11(6) substituted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/35/article/6/b)
+[^c-ff9374b81aa3f5cb9cd2cc22ef2e1bfd]: Textual amendment: Words in art. 11(6) substituted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/35/article/6/b)
 
 [^c21441381]: Marginal citation: [2004 c.27](https://www.legislation.gov.uk/ukpga/2004/27). Sections 36B and 38A were inserted by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-5237ecf4d88d0264ab1c758a1a6d44d5]: Textual amendment: Words in art. 11(6) substituted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2015/35/article/6/c)
+[^c-5237ecf4d88d0264ab1c758a1a6d44d5]: Textual amendment: Words in art. 11(6) substituted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2015/35/article/6/c)
 
-[^key-fe584d73c57b00972d4d65e12e6f1603]: Textual amendment: Words in art. 11(6) substituted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1099/article/4)
+[^c-fe584d73c57b00972d4d65e12e6f1603]: Textual amendment: Words in art. 11(6) substituted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1099/article/4)
 
 [^c21441401]: Marginal citation: [S.S.I 2008/309](https://www.legislation.gov.uk/ssi/2008/309), to which there are amendments which are not relevant.
 
-[^key-e63c80c05045e69ade13cecf01e3c205]: Textual amendment: Words in art. 12(3) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/12/2)
+[^c-e63c80c05045e69ade13cecf01e3c205]: Textual amendment: Words in art. 12(3) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/12/2)
 
-[^key-e336a89958fbe62ff5d9ad731a95a58f]: Textual amendment: Art. 12(5)(a)(b) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [11](https://www.legislation.gov.uk/uksi/2015/2045/article/11) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-e336a89958fbe62ff5d9ad731a95a58f]: Textual amendment: Art. 12(5)(a)(b) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [11](https://www.legislation.gov.uk/uksi/2015/2045/article/11) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
 [^c21441411]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 4 was amended by the [Education Act 1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), section 51 and Schedule 7, paragraph 10, the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 22, Part 3, the [Childcare Act 2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21) section 95, the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 13, paragraph 9, and [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), Schedule 1, Part 2, paragraph 97.
 
@@ -1935,119 +1935,119 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^c21441451]: Marginal citation: [1992 c.37](https://www.legislation.gov.uk/ukpga/1992/37).
 
-[^key-a48a5908d3722abb8f2ee49e441ea2c9]: Textual amendment: Art. 15(4)(d) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/35/article/7/a)
+[^c-a48a5908d3722abb8f2ee49e441ea2c9]: Textual amendment: Art. 15(4)(d) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/35/article/7/a)
 
-[^key-d81136a7aace5ab3048bd3021de81d72]: Textual amendment: Art. 15(5) omitted (15.1.2016) by virtue of [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [12](https://www.legislation.gov.uk/uksi/2015/2045/article/12) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-d81136a7aace5ab3048bd3021de81d72]: Textual amendment: Art. 15(5) omitted (15.1.2016) by virtue of [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [12](https://www.legislation.gov.uk/uksi/2015/2045/article/12) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-2e0475b4b1b809603deeb1805ed38452]: Textual amendment: Art. 15(7) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/35/article/7/b)
+[^c-2e0475b4b1b809603deeb1805ed38452]: Textual amendment: Art. 15(7) inserted (1.4.2015) by [The Feed-in Tariffs (Amendment) Order 2015 (S.I. 2015/35)](https://www.legislation.gov.uk/uksi/2015/35), [arts. 1](https://www.legislation.gov.uk/uksi/2015/35/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/35/article/7/b)
 
-[^key-0b890ae20a093d875087c85265753288]: Textual amendment: Art. 16 substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [13](https://www.legislation.gov.uk/uksi/2015/2045/article/13) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-0b890ae20a093d875087c85265753288]: Textual amendment: Art. 16 substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [13](https://www.legislation.gov.uk/uksi/2015/2045/article/13) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-48540fc00715621dbc7de9443387a4f4]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2012/2782/article/16/2) inserted (30.1.2026) by [The Feed-in Tariffs (Amendment) Order 2026 (S.I. 2026/2)](https://www.legislation.gov.uk/uksi/2026/2), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/2/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/2/article/2/a)
+[^c-48540fc00715621dbc7de9443387a4f4]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2012/2782/article/16/2) inserted (30.1.2026) by [The Feed-in Tariffs (Amendment) Order 2026 (S.I. 2026/2)](https://www.legislation.gov.uk/uksi/2026/2), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/2/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/2/article/2/a)
 
-[^key-7842cdd2d558c7022fcc27c716da13b0]: Textual amendment: Art. 16(2A) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/131/article/5/a)
+[^c-7842cdd2d558c7022fcc27c716da13b0]: Textual amendment: Art. 16(2A) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/131/article/5/a)
 
-[^key-a4e4e17abc74982161dad53d13a02ec9]: Textual amendment: [Art. 16(2B)](https://www.legislation.gov.uk/uksi/2012/2782/article/16/2B) inserted (30.1.2026) by [The Feed-in Tariffs (Amendment) Order 2026 (S.I. 2026/2)](https://www.legislation.gov.uk/uksi/2026/2), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/2/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/2/article/2/b)
+[^c-a4e4e17abc74982161dad53d13a02ec9]: Textual amendment: [Art. 16(2B)](https://www.legislation.gov.uk/uksi/2012/2782/article/16/2B) inserted (30.1.2026) by [The Feed-in Tariffs (Amendment) Order 2026 (S.I. 2026/2)](https://www.legislation.gov.uk/uksi/2026/2), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/2/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/2/article/2/b)
 
-[^key-8c893aad0edf446df5f438582ee65572]: Textual amendment: Word in art. 16(4)(b) substituted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/131/article/5/b)
+[^c-8c893aad0edf446df5f438582ee65572]: Textual amendment: Word in art. 16(4)(b) substituted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/131/article/5/b)
 
-[^key-46f545a495d972965e1aaa9e86e64836]: Textual amendment: Art. 17A inserted (14.7.2014) by [The Feed-in Tariffs (Amendment) Order 2014 (S.I. 2014/1601)](https://www.legislation.gov.uk/uksi/2014/1601), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1601/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1601/article/2)
+[^c-46f545a495d972965e1aaa9e86e64836]: Textual amendment: Art. 17A inserted (14.7.2014) by [The Feed-in Tariffs (Amendment) Order 2014 (S.I. 2014/1601)](https://www.legislation.gov.uk/uksi/2014/1601), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1601/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1601/article/2)
 
-[^key-54b9e378c328e012619190a1f4adf69a]: Textual amendment: Words in art. 18(1) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [14](https://www.legislation.gov.uk/uksi/2015/2045/article/14) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-54b9e378c328e012619190a1f4adf69a]: Textual amendment: Words in art. 18(1) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [14](https://www.legislation.gov.uk/uksi/2015/2045/article/14) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-97d6faca6dedefbd8e5cb11969e64409]: Textual amendment: Art. 19(1)(c) and word inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [15](https://www.legislation.gov.uk/uksi/2015/2045/article/15) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-97d6faca6dedefbd8e5cb11969e64409]: Textual amendment: Art. 19(1)(c) and word inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [15](https://www.legislation.gov.uk/uksi/2015/2045/article/15) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-a073818bb060385d8e0f5cb26fdebe22]: Textual amendment: Pt. 5A inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [5](https://www.legislation.gov.uk/uksi/2013/1099/article/5)
+[^c-a073818bb060385d8e0f5cb26fdebe22]: Textual amendment: Pt. 5A inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [5](https://www.legislation.gov.uk/uksi/2013/1099/article/5)
 
-[^key-f8ea8cff579cdb97f7fcf13beeffaa9a]: Textual amendment: Art. 24B(2)(c) and word inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [16](https://www.legislation.gov.uk/uksi/2015/2045/article/16) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-f8ea8cff579cdb97f7fcf13beeffaa9a]: Textual amendment: Art. 24B(2)(c) and word inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [16](https://www.legislation.gov.uk/uksi/2015/2045/article/16) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-56d5fc5f002db22d920bcf5aa6a585ed]: Textual amendment: Art. 25(1): art. 25 renumbered as art. 25(1) (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [17](https://www.legislation.gov.uk/uksi/2015/2045/article/17) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-56d5fc5f002db22d920bcf5aa6a585ed]: Textual amendment: Art. 25(1): art. 25 renumbered as art. 25(1) (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [17](https://www.legislation.gov.uk/uksi/2015/2045/article/17) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-11534af7c90dfa9ee2aed4602d554c2b]: Textual amendment: Art. 25(2)(3) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [17](https://www.legislation.gov.uk/uksi/2015/2045/article/17) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-11534af7c90dfa9ee2aed4602d554c2b]: Textual amendment: Art. 25(2)(3) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [17](https://www.legislation.gov.uk/uksi/2015/2045/article/17) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-4edf408e528e4d7e6cfe7069a8491731]: Textual amendment: Words in art. 27(2) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(2)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-4edf408e528e4d7e6cfe7069a8491731]: Textual amendment: Words in art. 27(2) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(2)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-a615b94a010d7a7d19828a4e504cad82]: Textual amendment: Art. 27(2)(b) omitted (1.7.2013) by virtue of [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/2)
+[^c-a615b94a010d7a7d19828a4e504cad82]: Textual amendment: Art. 27(2)(b) omitted (1.7.2013) by virtue of [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/2)
 
-[^key-0800c0b4279cdbbe051884beeb551b8f]: Textual amendment: Word in art. 27(2)(c) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/2/a)
+[^c-0800c0b4279cdbbe051884beeb551b8f]: Textual amendment: Word in art. 27(2)(c) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/2/a)
 
-[^key-e14880c512d25935c243c3b2a1693b6b]: Textual amendment: Word in art. 27(2)(d) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/2/b)
+[^c-e14880c512d25935c243c3b2a1693b6b]: Textual amendment: Word in art. 27(2)(d) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/2/b)
 
-[^key-a48594bb9a05bd14af203548eb951151]: Textual amendment: Art. 27(2)(e) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/2/c)
+[^c-a48594bb9a05bd14af203548eb951151]: Textual amendment: Art. 27(2)(e) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/2/c)
 
-[^key-2a3bc55ad70f7447c7f020afa6264ad2]: Textual amendment: Words in art. 27(3)(a) added (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/3/a)
+[^c-2a3bc55ad70f7447c7f020afa6264ad2]: Textual amendment: Words in art. 27(3)(a) added (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/3/a)
 
-[^key-f593db5c5637d7aa1c8fcabeb223086d]: Textual amendment: Words in art. 27(3)(b) added (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/3/b)
+[^c-f593db5c5637d7aa1c8fcabeb223086d]: Textual amendment: Words in art. 27(3)(b) added (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/3/b)
 
-[^key-53373029b79a5728f23a9891c38309a7]: Textual amendment: Words in art. 27(4) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/3)
+[^c-53373029b79a5728f23a9891c38309a7]: Textual amendment: Words in art. 27(4) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/3)
 
-[^key-da68afafb53d29fc35ffcaf8fb0bee0c]: Textual amendment: Words in art. 27(6) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(3)(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/3/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-da68afafb53d29fc35ffcaf8fb0bee0c]: Textual amendment: Words in art. 27(6) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(3)(b)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/3/b) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-1c0d63358af647b7c0fc6f33315d5b05]: Textual amendment: Words in art. 27(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/a)
+[^c-1c0d63358af647b7c0fc6f33315d5b05]: Textual amendment: Words in art. 27(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/a)
 
-[^key-6ca445187af7f22567fa9ffab261fdf5]: Textual amendment: Words in art. 27(6) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/3/a/i) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-6ca445187af7f22567fa9ffab261fdf5]: Textual amendment: Words in art. 27(6) substituted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/3/a/i) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-20ff04050e35e905264eb6bb196433dd]: Textual amendment: Word in art. 27(6) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/b/i)
+[^c-20ff04050e35e905264eb6bb196433dd]: Textual amendment: Word in art. 27(6) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/b/i)
 
-[^key-776150e0efc4744b5c5ee0794dd5dbc6]: Textual amendment: Words in art. 27(6) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/b/ii)
+[^c-776150e0efc4744b5c5ee0794dd5dbc6]: Textual amendment: Words in art. 27(6) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/b/ii)
 
-[^key-2e25baf9a32fc5807c63751793ec277c]: Textual amendment: Words in art. 27(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/b/iii)
+[^c-2e25baf9a32fc5807c63751793ec277c]: Textual amendment: Words in art. 27(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/b/iii)
 
-[^key-932b8567e135d0dc4c43d8a7dc5d5e67]: Textual amendment: Words in art. 27(6) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/c)
+[^c-932b8567e135d0dc4c43d8a7dc5d5e67]: Textual amendment: Words in art. 27(6) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/c)
 
-[^key-a8bdd3712e4519118a900f87d819b487]: Textual amendment: Words in art. 27(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(d)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/d)
+[^c-a8bdd3712e4519118a900f87d819b487]: Textual amendment: Words in art. 27(6) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(d)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/d)
 
-[^key-44c3aefd8acdccbcec20767afd678d75]: Textual amendment: Words in art. 27(6) omitted (1.7.2013) by virtue of [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/3/c)
+[^c-44c3aefd8acdccbcec20767afd678d75]: Textual amendment: Words in art. 27(6) omitted (1.7.2013) by virtue of [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/3/c)
 
-[^key-c15d0e15f45aa5d5e15528f66c752990]: Textual amendment: Words in art. 27(6) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(3)(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/3/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-c15d0e15f45aa5d5e15528f66c752990]: Textual amendment: Words in art. 27(6) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [18(3)(c)](https://www.legislation.gov.uk/uksi/2015/2045/article/18/3/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-f606e0075e2421885feea0d96b9ab21d]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) omitted (31.12.2020) by virtue of [The Feed-in Tariffs and Contracts for Difference (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1092)](https://www.legislation.gov.uk/uksi/2018/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1092/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/1092/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f606e0075e2421885feea0d96b9ab21d]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) omitted (31.12.2020) by virtue of [The Feed-in Tariffs and Contracts for Difference (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1092)](https://www.legislation.gov.uk/uksi/2018/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1092/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/1092/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c544bc1e7351a44322840b88df1dbd4]: Textual amendment: Words in art. 27(6) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(e)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/e)
+[^c-7c544bc1e7351a44322840b88df1dbd4]: Textual amendment: Words in art. 27(6) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [13(4)(e)](https://www.legislation.gov.uk/uksi/2018/1380/article/13/4/e)
 
-[^key-813893ff8325ca657589ace08b9910e3]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) substituted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/a/i)
+[^c-813893ff8325ca657589ace08b9910e3]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) substituted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/a/i)
 
-[^key-2b960261a44203e5b0f472b5ed700b86]: Textual amendment: Word in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) omitted (1.4.2023) by virtue of [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/a/ii)
+[^c-2b960261a44203e5b0f472b5ed700b86]: Textual amendment: Word in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) omitted (1.4.2023) by virtue of [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/a/ii)
 
-[^key-7a2ae298e751592c80b3ac3e2dcea89b]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) substituted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/b/i)
+[^c-7a2ae298e751592c80b3ac3e2dcea89b]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) substituted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/b/i)
 
-[^key-0a964484c194f8bcd52f90815b35ef84]: Textual amendment: Word in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) inserted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/b/ii)
+[^c-0a964484c194f8bcd52f90815b35ef84]: Textual amendment: Word in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) inserted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/b/ii)
 
-[^key-144fa93359af9bd015f41f6244f2a963]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) inserted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/c)
+[^c-144fa93359af9bd015f41f6244f2a963]: Textual amendment: Words in [art. 27(6)](https://www.legislation.gov.uk/uksi/2012/2782/article/27/6) inserted (1.4.2023) by [The Feed-in Tariffs (Amendment) Order 2023 (S.I. 2023/127)](https://www.legislation.gov.uk/uksi/2023/127), [arts. 1](https://www.legislation.gov.uk/uksi/2023/127/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/127/article/2/2/c)
 
-[^key-bb4b89046a8e50c6934f9014ca1a8553]: Textual amendment: Art. 27A inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [19](https://www.legislation.gov.uk/uksi/2015/2045/article/19) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-bb4b89046a8e50c6934f9014ca1a8553]: Textual amendment: Art. 27A inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [19](https://www.legislation.gov.uk/uksi/2015/2045/article/19) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-4f5c26f244787c09433aea8ebceea41e]: Textual amendment: Words in art. 27A(1) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/14/2)
+[^c-4f5c26f244787c09433aea8ebceea41e]: Textual amendment: Words in art. 27A(1) substituted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/1380/article/14/2)
 
-[^key-63e0a51e208c5794577a48151e74333c]: Textual amendment: Words in art. 29 deleted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/4)
+[^c-63e0a51e208c5794577a48151e74333c]: Textual amendment: Words in art. 29 deleted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/4)
 
-[^key-71258ba0b5ad530abef97b15c9c22b5f]: Textual amendment: Art. 30(2A) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(5)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/5)
+[^c-71258ba0b5ad530abef97b15c9c22b5f]: Textual amendment: Art. 30(2A) inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(5)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/5)
 
-[^key-f9b0782bd346a21b8405bf6c5921c1ce]: Textual amendment: Arts. 30A-30D inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/6)
+[^c-f9b0782bd346a21b8405bf6c5921c1ce]: Textual amendment: Arts. 30A-30D inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2013/1099/article/6/6)
 
-[^key-cdbc8becd3c5322330448f3b3a9d78cf]: Textual amendment: Art. 35(A1) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [6](https://www.legislation.gov.uk/uksi/2017/131/article/6)
+[^c-cdbc8becd3c5322330448f3b3a9d78cf]: Textual amendment: Art. 35(A1) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [6](https://www.legislation.gov.uk/uksi/2017/131/article/6)
 
-[^key-6558fa9a6725e5e423393497a974675d]: Textual amendment: Art. 35ZA inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [7](https://www.legislation.gov.uk/uksi/2017/131/article/7)
+[^c-6558fa9a6725e5e423393497a974675d]: Textual amendment: Art. 35ZA inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [7](https://www.legislation.gov.uk/uksi/2017/131/article/7)
 
-[^key-cb1c3f04494178989d0e1e781cb743b8]: Textual amendment: Art. 35A inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2016/319/article/5/1)
+[^c-cb1c3f04494178989d0e1e781cb743b8]: Textual amendment: Art. 35A inserted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2016/319/article/5/1)
 
-[^key-c38b79f567f55288bd95d35b8d2c2648]: Textual amendment: Art. 36 omitted (31.3.2016) by virtue of [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/319/article/5/2)
+[^c-c38b79f567f55288bd95d35b8d2c2648]: Textual amendment: Art. 36 omitted (31.3.2016) by virtue of [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/319/article/5/2)
 
-[^key-f2bcb2e525a8f53131043b4b5729bb3d]: Textual amendment: Art. 38(1)(b) omitted (1.7.2013) by virtue of [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2013/1099/article/7/2/a)
+[^c-f2bcb2e525a8f53131043b4b5729bb3d]: Textual amendment: Art. 38(1)(b) omitted (1.7.2013) by virtue of [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2013/1099/article/7/2/a)
 
-[^key-9cc1fb7b9c781ca6166c44a40d137351]: Textual amendment: Word in art. 38(1)(c) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/15/2/a)
+[^c-9cc1fb7b9c781ca6166c44a40d137351]: Textual amendment: Word in art. 38(1)(c) omitted (1.2.2019) by virtue of [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/15/2/a)
 
-[^key-af8db1dc01480b18dd9409d0aeba087e]: Textual amendment: Art. 38(1)(d) and word inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2013/1099/article/7/2/b)
+[^c-af8db1dc01480b18dd9409d0aeba087e]: Textual amendment: Art. 38(1)(d) and word inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2013/1099/article/7/2/b)
 
-[^key-e2fce28e2fb60add833690e689414c68]: Textual amendment: Art. 38(1)(e) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [20](https://www.legislation.gov.uk/uksi/2015/2045/article/20) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-e2fce28e2fb60add833690e689414c68]: Textual amendment: Art. 38(1)(e) inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [20](https://www.legislation.gov.uk/uksi/2015/2045/article/20) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-b5c06e22f85bae1803600bce5e848976]: Textual amendment: Word in art. 38(1)(e) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/15/2/b)
+[^c-b5c06e22f85bae1803600bce5e848976]: Textual amendment: Word in art. 38(1)(e) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2018/1380/article/15/2/b)
 
-[^key-9b11b107458c7bf796d23ec894ec3365]: Textual amendment: Art. 38(1)(f) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [15(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/15/2/c)
+[^c-9b11b107458c7bf796d23ec894ec3365]: Textual amendment: Art. 38(1)(f) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [15(2)(c)](https://www.legislation.gov.uk/uksi/2018/1380/article/15/2/c)
 
-[^key-1e48a8f657a59eab5c3a12130f9abf05]: Textual amendment: Art. 38A inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2013/1099/article/7/3)
+[^c-1e48a8f657a59eab5c3a12130f9abf05]: Textual amendment: Art. 38A inserted (1.7.2013) by [The Feed-in Tariffs (Amendment) Order 2013 (S.I. 2013/1099)](https://www.legislation.gov.uk/uksi/2013/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1099/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2013/1099/article/7/3)
 
-[^key-22b5954f52f1c692c39735e038dcb657]: Textual amendment: Pt. 8A inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2017/131/article/8/1)
+[^c-22b5954f52f1c692c39735e038dcb657]: Textual amendment: Pt. 8A inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2017/131/article/8/1)
 
 [^c21441461]: Marginal citation: [2010 c. 7](https://www.legislation.gov.uk/ukpga/2010/7).
 
@@ -2057,7 +2057,7 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^c21441491]: Marginal citation: [S.I. 2010/678](https://www.legislation.gov.uk/uksi/2010/678), amended by [S.I. 2011/1181](https://www.legislation.gov.uk/uksi/2011/1181), [S.I. 2011/1655](https://www.legislation.gov.uk/uksi/2011/1655), [S.I. 2011/2364](https://www.legislation.gov.uk/uksi/2011/2364), [S.I. 2012/671](https://www.legislation.gov.uk/uksi/2012/671), [S.I. 2012/1393](https://www.legislation.gov.uk/uksi/2012/1393) and [S.I. 2012/2268](https://www.legislation.gov.uk/uksi/2012/2268).
 
-[^key-518ba4e8393c7ecb516b74ed166ae856]: Textual amendment: Sch. A1 inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [21](https://www.legislation.gov.uk/uksi/2015/2045/article/21), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/2045/schedule/1) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-518ba4e8393c7ecb516b74ed166ae856]: Textual amendment: Sch. A1 inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [21](https://www.legislation.gov.uk/uksi/2015/2045/article/21), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/2045/schedule/1) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
 [^M_F_0db40c77-de77-418e-fa16-28a981aed560]: Textual amendment: Words in Sch. A1 para. 2(a)(i) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2018/1380/article/6)
 
@@ -2073,12 +2073,12 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^M_F_ec6b0b0e-75eb-4f12-8254-e0757a7ed97d]: Textual amendment: Sch. A1 para. 2(a)(iva) inserted (1.2.2019) by [The Feed-in Tariffs (Closure, etc.) Order 2018 (S.I. 2018/1380)](https://www.legislation.gov.uk/uksi/2018/1380), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1380/article/1), [16(2)(g)](https://www.legislation.gov.uk/uksi/2018/1380/article/6)
 
-[^key-1e5fcde0a852ea1799832ea74b64e856]: Textual amendment: Sch. 1A inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [22](https://www.legislation.gov.uk/uksi/2015/2045/article/22), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/2045/schedule/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
+[^c-1e5fcde0a852ea1799832ea74b64e856]: Textual amendment: Sch. 1A inserted (15.1.2016) by [The Feed-in Tariffs (Amendment) (No. 3) Order 2015 (S.I. 2015/2045)](https://www.legislation.gov.uk/uksi/2015/2045), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1), [22](https://www.legislation.gov.uk/uksi/2015/2045/article/22), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/2045/schedule/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2015/2045/article/24))
 
-[^key-d32349f40265914a76c71e29ad4efa4b]: Textual amendment: Sch. 1A Table 2 inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [9](https://www.legislation.gov.uk/uksi/2017/131/article/9)
+[^c-d32349f40265914a76c71e29ad4efa4b]: Textual amendment: Sch. 1A Table 2 inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [9](https://www.legislation.gov.uk/uksi/2017/131/article/9)
 
-[^key-47f0300efaf6d7c6aa58685047c0e511]: Textual amendment: Sch. 2 substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/319/article/5/3), [Sch.](https://www.legislation.gov.uk/uksi/2016/319/schedule)
+[^c-47f0300efaf6d7c6aa58685047c0e511]: Textual amendment: Sch. 2 substituted (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/319/article/5/3), [Sch.](https://www.legislation.gov.uk/uksi/2016/319/schedule)
 
-[^key-aceff4455f4ce3fad10ca2d537dfeee7]: Textual amendment: Sch. 2 para. 2(aa) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [10](https://www.legislation.gov.uk/uksi/2017/131/article/10)
+[^c-aceff4455f4ce3fad10ca2d537dfeee7]: Textual amendment: Sch. 2 para. 2(aa) inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [10](https://www.legislation.gov.uk/uksi/2017/131/article/10)
 
-[^key-52c1821c1855485c424695bc37fc2ecf]: Textual amendment: Sch. 2A inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [11](https://www.legislation.gov.uk/uksi/2017/131/article/11)
+[^c-52c1821c1855485c424695bc37fc2ecf]: Textual amendment: Sch. 2A inserted (20.3.2017) by [The Feed-in Tariffs (Amendment) Order 2017 (S.I. 2017/131)](https://www.legislation.gov.uk/uksi/2017/131), [arts. 1](https://www.legislation.gov.uk/uksi/2017/131/article/1), [11](https://www.legislation.gov.uk/uksi/2017/131/article/11)

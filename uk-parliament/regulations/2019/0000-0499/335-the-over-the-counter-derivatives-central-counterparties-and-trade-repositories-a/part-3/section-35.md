@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Organisational requirements: general provisions[^key-b9d3c0cc0adfccdca587921c6756d256]
+## 35. Organisational requirements: general provisions[^c-b9d3c0cc0adfccdca587921c6756d256]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 26, in paragraph 9—
 
 ## Annotations
 
-[^key-b9d3c0cc0adfccdca587921c6756d256]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b9d3c0cc0adfccdca587921c6756d256]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

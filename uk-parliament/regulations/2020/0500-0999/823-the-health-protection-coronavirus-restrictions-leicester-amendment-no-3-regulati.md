@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (Leicester) (Amendment) (No. 3) Regulations 2020 (revoked)[^key-6f4b9d9e87b2bc13380acdceaf3b1620]
+The Health Protection (Coronavirus, Restrictions) (Leicester) (Amendment) (No. 3) Regulations 2020 (revoked)[^c-6f4b9d9e87b2bc13380acdceaf3b1620]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2020
 
-[^key-6f4b9d9e87b2bc13380acdceaf3b1620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f4b9d9e87b2bc13380acdceaf3b1620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f4b9d9e87b2bc13380acdceaf3b1620]
+## 1. Citation and commencement[^c-6f4b9d9e87b2bc13380acdceaf3b1620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Health Protection (Coronavirus, Restrictions) (Leicester) Regulations 2020[^key-6f4b9d9e87b2bc13380acdceaf3b1620]
+## 2. The Health Protection (Coronavirus, Restrictions) (Leicester) Regulations 2020[^c-6f4b9d9e87b2bc13380acdceaf3b1620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f4b9d9e87b2bc13380acdceaf3b1620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f4b9d9e87b2bc13380acdceaf3b1620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f4b9d9e87b2bc13380acdceaf3b1620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f4b9d9e87b2bc13380acdceaf3b1620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f4b9d9e87b2bc13380acdceaf3b1620]: Textual amendment: Regulations revoked (3.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020 (S.I. 2020/824)](https://www.legislation.gov.uk/uksi/2020/824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/824/regulation/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2020/824/regulation/2)
+[^c-6f4b9d9e87b2bc13380acdceaf3b1620]: Textual amendment: Regulations revoked (3.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020 (S.I. 2020/824)](https://www.legislation.gov.uk/uksi/2020/824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/824/regulation/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2020/824/regulation/2)

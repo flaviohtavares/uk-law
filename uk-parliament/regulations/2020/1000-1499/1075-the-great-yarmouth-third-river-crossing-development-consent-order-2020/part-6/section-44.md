@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Extinguishment of right of navigation within the river Yare in connection with authorised development[^key-968dc8e623fef3b777fe0c14d4859268]
+## 44. Extinguishment of right of navigation within the river Yare in connection with authorised development[^c-968dc8e623fef3b777fe0c14d4859268]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-968dc8e623fef3b777fe0c14d4859268]: Commencement: Art. 44 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-968dc8e623fef3b777fe0c14d4859268]: Commencement: Art. 44 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

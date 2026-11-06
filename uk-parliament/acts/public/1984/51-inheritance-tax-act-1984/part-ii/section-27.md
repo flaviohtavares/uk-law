@@ -29,7 +29,7 @@ summary: ''
 
 (2) Subsections (2) and (3) of the section 23 and subsection (4) of section 24 above shall apply in relation to subsection (1) above as they apply in relation to section 24(1).
 
-(3)[^key-c869be0fa056289984b95a9f66eb651c] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
+(3)[^c-c869be0fa056289984b95a9f66eb651c] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
 
 - (a) the value transferred is treated for the purposes of this section as also attributable to any property—
   - (i) that on the death of the member is given under the scheme to a person and becomes comprised in a settlement, and
@@ -42,4 +42,4 @@ summary: ''
 
 [^c13607611]: Textual amendment: S. 27(1A) inserted (31.7.1998 with effect in relation to transfers of value made on or after 17.3.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 144(1)(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/144/1/2)
 
-[^key-c869be0fa056289984b95a9f66eb651c]: Textual amendment: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1984/51/section/27/3) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/8), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-c869be0fa056289984b95a9f66eb651c]: Textual amendment: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1984/51/section/27/3) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/8), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

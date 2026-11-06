@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**25.**[^key-9b27acef1d4e920d432da2703c048ca5] (1) Section 126 (children’s pension: rate and mode of payment) is amended as follows.
+**25.**[^c-9b27acef1d4e920d432da2703c048ca5] (1) Section 126 (children’s pension: rate and mode of payment) is amended as follows.
 
 (2) In subsection (2), for “or widower”, in both places, substitute “, widower or surviving civil partner”.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b27acef1d4e920d432da2703c048ca5]: Commencement: Art. 25 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-9b27acef1d4e920d432da2703c048ca5]: Commencement: Art. 25 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

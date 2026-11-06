@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Grants for transport facilities and services.[^c19483111][^key-b22ae4ca9f85f09e94a8ee980aaec982][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-f6d860022828ed22fa340cdf9233d94a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 106. Grants for transport facilities and services.[^c19483111][^c-b22ae4ca9f85f09e94a8ee980aaec982][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-f6d860022828ed22fa340cdf9233d94a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W+S*
 
@@ -38,12 +38,12 @@ In this subsection “**excepted services**” means services for the carriage o
 
 (4) This section applies to the following authorities—
 
-- (a) any Integrated Transport Authority, *(Extent: E+W)*[^key-c94035a592fa2224cb96bc189b0dd906] Passenger Transport Authority or Passenger Transport Executive;
-- (aa)[^key-08642a9d1fa2361d970374f1eb02a449] any combined authority;
+- (a) any Integrated Transport Authority, *(Extent: E+W)*[^c-c94035a592fa2224cb96bc189b0dd906] Passenger Transport Authority or Passenger Transport Executive;
+- (aa)[^c-08642a9d1fa2361d970374f1eb02a449] any combined authority;
 
 *Extent: E+W*
 
-- (ab)[^key-b9f21f581775f7a31c2e206232c86d1f] any combined county authority;
+- (ab)[^c-b9f21f581775f7a31c2e206232c86d1f] any combined county authority;
 - (b) the council of any county or district in England and Wales;
 - (c) the council of a London borough or the Common Council of the City of London; or
 - (d) any regional or islands[^c10882111] council in Scotland.
@@ -54,16 +54,16 @@ In this subsection “**excepted services**” means services for the carriage o
 
     S. 106: functions made exercisable concurrently (S.) (7.11.2006) by The Transfer of Functions to the South-[West of Scotland Transport Partnership Order 2006 (S.S.I. 2006/538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 4](https://www.legislation.gov.uk/ssi/2006/538/article/4), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/538/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
 
-[^key-b22ae4ca9f85f09e94a8ee980aaec982]: Modification: [Ss. 106](https://www.legislation.gov.uk/ukpga/1985/67/section/106), [106A](https://www.legislation.gov.uk/ukpga/1985/67/section/106A): functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
+[^c-b22ae4ca9f85f09e94a8ee980aaec982]: Modification: [Ss. 106](https://www.legislation.gov.uk/ukpga/1985/67/section/106), [106A](https://www.legislation.gov.uk/ukpga/1985/67/section/106A): functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-f6d860022828ed22fa340cdf9233d94a]: Modification: [S. 106](https://www.legislation.gov.uk/ukpga/1985/67/section/106): functions made exercisable concurrently (E.) (24.2.2026) by [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [8](https://www.legislation.gov.uk/uksi/2026/159/article/8)
+[^c-f6d860022828ed22fa340cdf9233d94a]: Modification: [S. 106](https://www.legislation.gov.uk/ukpga/1985/67/section/106): functions made exercisable concurrently (E.) (24.2.2026) by [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [8](https://www.legislation.gov.uk/uksi/2026/159/article/8)
 
-[^key-c94035a592fa2224cb96bc189b0dd906]: Textual amendment: Words in s. 106(4)(a) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/37); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-c94035a592fa2224cb96bc189b0dd906]: Textual amendment: Words in s. 106(4)(a) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/37); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-08642a9d1fa2361d970374f1eb02a449]: Textual amendment: S. 106(4)(aa) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 66](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/66); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-08642a9d1fa2361d970374f1eb02a449]: Textual amendment: S. 106(4)(aa) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 66](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/66); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-b9f21f581775f7a31c2e206232c86d1f]: Textual amendment: [S. 106(4)(ab)](https://www.legislation.gov.uk/ukpga/1985/67/section/106/4/ab) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 82](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/82) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b9f21f581775f7a31c2e206232c86d1f]: Textual amendment: [S. 106(4)(ab)](https://www.legislation.gov.uk/ukpga/1985/67/section/106/4/ab) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 82](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/82) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c10882111]: Textual amendment: Words in s. 106(4)(d) repealed (S.) (1.4.1996) by [S.I. 1996/974](https://www.legislation.gov.uk/uksi/1996/974), [art. 4](https://www.legislation.gov.uk/uksi/1996/974/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/974/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Positive action: recruitment and promotion[^c21162591][^key-a5ed692b2e03ad585f473338b352f70c][^key-fbec5a4aa64b91d87735a5d0236be87d]
+## 159. Positive action: recruitment and promotion[^c21162591][^c-a5ed692b2e03ad585f473338b352f70c][^c-fbec5a4aa64b91d87735a5d0236be87d]
 
 *Extent: E+W+S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c21162591]: Commencement: S. 159 wholly in force at 6.4.2011; s. 159 not in force at Royal Assent see s. 216; s. 159(3) in force for certain purposes at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(11)(b)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/11/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15)); s. 159 in force so far as not already in force at 6.4.2011 by [S.I. 2011/96](https://www.legislation.gov.uk/uksi/2011/96), [art. 3](https://www.legislation.gov.uk/uksi/2011/96/article/3)
 
-[^key-a5ed692b2e03ad585f473338b352f70c]: Modification: S. 159 excluded by 2005 c. 4, s. 27(5A)(a) (as inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/9); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g))
+[^c-a5ed692b2e03ad585f473338b352f70c]: Modification: S. 159 excluded by 2005 c. 4, s. 27(5A)(a) (as inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/9); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g))
 
-[^key-fbec5a4aa64b91d87735a5d0236be87d]: Modification: S. 159 excluded (S.) (29.5.2020) by [Gender Representation on Public Boards (Scotland) Act 2018 (asp 4)](https://www.legislation.gov.uk/asp/2018/4), [ss. 11(1)](https://www.legislation.gov.uk/asp/2018/4/section/11/1), [13](https://www.legislation.gov.uk/asp/2018/4/section/13); [S.S.I. 2020/119](https://www.legislation.gov.uk/ssi/2020/119), [reg. 2](https://www.legislation.gov.uk/ssi/2020/119/regulation/2)
+[^c-fbec5a4aa64b91d87735a5d0236be87d]: Modification: S. 159 excluded (S.) (29.5.2020) by [Gender Representation on Public Boards (Scotland) Act 2018 (asp 4)](https://www.legislation.gov.uk/asp/2018/4), [ss. 11(1)](https://www.legislation.gov.uk/asp/2018/4/section/11/1), [13](https://www.legislation.gov.uk/asp/2018/4/section/13); [S.S.I. 2020/119](https://www.legislation.gov.uk/ssi/2020/119), [reg. 2](https://www.legislation.gov.uk/ssi/2020/119/regulation/2)

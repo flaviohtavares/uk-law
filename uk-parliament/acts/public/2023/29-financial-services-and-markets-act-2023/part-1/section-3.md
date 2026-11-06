@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Power to make further transitional amendments[^key-a8e73c06ec444d209e64c272e1140fcf][^key-3d52c57c62abde5c3d81ffb9937f71e6]
+## 3. Power to make further transitional amendments[^c-a8e73c06ec444d209e64c272e1140fcf][^c-3d52c57c62abde5c3d81ffb9937f71e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e73c06ec444d209e64c272e1140fcf]: Commencement: S. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a8e73c06ec444d209e64c272e1140fcf]: Commencement: S. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3d52c57c62abde5c3d81ffb9937f71e6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3) in force at 11.7.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-3d52c57c62abde5c3d81ffb9937f71e6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3) in force at 11.7.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)

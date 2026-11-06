@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Power to override easements and other rights[^key-43596b3a016c0e0ac02414a7d50a4e77]
+## 26. Power to override easements and other rights[^c-43596b3a016c0e0ac02414a7d50a4e77]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-43596b3a016c0e0ac02414a7d50a4e77]: Commencement: Art. 26 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-43596b3a016c0e0ac02414a7d50a4e77]: Commencement: Art. 26 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00032]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). See section 106.

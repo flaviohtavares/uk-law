@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Power to enter and search vehicles[^key-8b44729ada74203e9ae3d395439293ad]
+## 37. Power to enter and search vehicles[^c-8b44729ada74203e9ae3d395439293ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ to afford such facilities and assistance with respect to matters under that pers
 
 ## Annotations
 
-[^key-8b44729ada74203e9ae3d395439293ad]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/2/section/37) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-8b44729ada74203e9ae3d395439293ad]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/2/section/37) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

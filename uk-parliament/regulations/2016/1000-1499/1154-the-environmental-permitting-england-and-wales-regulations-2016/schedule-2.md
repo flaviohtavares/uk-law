@@ -38,7 +38,7 @@ Regulation 4
 - “valid registration period”, for an exempt waste operation, means the period of validity of a registration referred to in paragraph 15(1), as read with paragraph 15(2);
 - “**WEEE operation**” means a waste operation falling within a description in paragraph T11.
 
-(2) In this Schedule, in relation to an exempt waste operation, a reference to any of paragraphs U1 to U16, T1 to T33[^key-0465a0650586718afa82a97cf80cb4d5], D1 to D8 or S1 to S3 has the meaning given in paragraph 1(8) of Chapter 1 of Part 1 of Schedule 3.
+(2) In this Schedule, in relation to an exempt waste operation, a reference to any of paragraphs U1 to U16, T1 to T33[^c-0465a0650586718afa82a97cf80cb4d5], D1 to D8 or S1 to S3 has the meaning given in paragraph 1(8) of Chapter 1 of Part 1 of Schedule 3.
 
 ### 2. Interpretation: exemption registration authority and exemption authority
 
@@ -297,25 +297,25 @@ An “exempt flood risk activity” is a flood risk activity that—
 - (a) is a WEEE operation, or
 - (b) falls within a description in—
   - (i) subject to sub-paragraph (2), paragraph U10 or U11;
-  - (ii) paragraph T9 , T12, T14, T15, T30, T33 or U8[^key-f2b97e2b227f9ebf0490ecf1820ac893];
-  - (iii) paragraph T3, T7 or T17[^key-54e0b681856d6667aa4cb74e9ef3863b] where the operation is carried on by waste mobile plant.
+  - (ii) paragraph T9 , T12, T14, T15, T30, T33 or U8[^c-f2b97e2b227f9ebf0490ecf1820ac893];
+  - (iii) paragraph T3, T7 or T17[^c-54e0b681856d6667aa4cb74e9ef3863b] where the operation is carried on by waste mobile plant.
 
 (2) But it does not apply in relation to an exempt waste operation where—
 
 - (a) the waste operation falls within a description in paragraph U10 or U11, and
-- (b) the establishment or undertaking is required to keep records in relation to the operation and the waste that is subject to that operation under the Nitrate Pollution Prevention Regulations 2015 [^c23192961] or the Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021[^key-e1a69572c65e99bf3709f947f5807e9e].
+- (b) the establishment or undertaking is required to keep records in relation to the operation and the waste that is subject to that operation under the Nitrate Pollution Prevention Regulations 2015 [^c23192961] or the Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021[^c-e1a69572c65e99bf3709f947f5807e9e].
 
 (3) An establishment or undertaking which carries on an exempt waste operation to which this paragraph applies must—
 
-- (a)[^key-fb05d606be2b4fffad29e54ef12a5065] keep chronological records of—
+- (a)[^c-fb05d606be2b4fffad29e54ef12a5065] keep chronological records of—
   - (i) the quantity, nature and origin of all waste disposed of or recovered in the course of that operation;
   - (ii) where the waste operation involves the treatment of hazardous waste, the quantity of products and materials resulting from preparing for re-use, recycling or other recovery operations in the course of that operation; and
   - (iii) where relevant, the destination, frequency of collection, mode of transport and treatment method of all waste disposed of or recovered in the course of that operation; and
-- (b) where the waste operation falls within a description in paragraph T3, T7 or T17[^key-7de28ca49eebb7edbe6047fc753aeefb] and is carried on by waste mobile plant, keep records of the places where the operation is carried on.
+- (b) where the waste operation falls within a description in paragraph T3, T7 or T17[^c-7de28ca49eebb7edbe6047fc753aeefb] and is carried on by waste mobile plant, keep records of the places where the operation is carried on.
 
 (4) An establishment or undertaking which carries on an exempt waste operation to which this paragraph applies must—
 
-- (a)[^key-9113f4b76f2df5f6c254ae0f5536a076] if the operation involves the treatment of hazardous waste—
+- (a)[^c-9113f4b76f2df5f6c254ae0f5536a076] if the operation involves the treatment of hazardous waste—
   - (i) retain any records that it is required to keep under sub-paragraph (3) for a period of 3 years; and
   - (ii) during that period, if the exemption registration authority so directs, send those records to the exemption registration authority in such form and manner as the exemption registration authority specifies,
 - (b) if the operation does not involve the treatment of hazardous waste—
@@ -328,20 +328,20 @@ Every exemption registration authority must carry out appropriate periodic inspe
 
 ## Annotations
 
-[^key-0465a0650586718afa82a97cf80cb4d5]: Textual amendment: Word in Sch. 2 para. 1(2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/a)
+[^c-0465a0650586718afa82a97cf80cb4d5]: Textual amendment: Word in Sch. 2 para. 1(2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/a)
 
 [^c23192951]: Marginal citation: Section 41 was amended by paragraph 39 of Schedule 4 to the [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and by [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), 1806 (W. 138), 2006/937, 2007/1711, 3106, 2008/3087, 2009/890, 3381, 2011/988, 1043, 2911, 2012/1659, 2788, 2013/755 (W. 90), 1821 and 2014/861.
 
-[^key-f2b97e2b227f9ebf0490ecf1820ac893]: Textual amendment: Words in Sch. 2 para. 17(1)(b)(ii) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/i/aa)
+[^c-f2b97e2b227f9ebf0490ecf1820ac893]: Textual amendment: Words in Sch. 2 para. 17(1)(b)(ii) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/i/aa)
 
-[^key-54e0b681856d6667aa4cb74e9ef3863b]: Textual amendment: Words in Sch. 2 para. 17(1)(b)(iii) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/i/bb)
+[^c-54e0b681856d6667aa4cb74e9ef3863b]: Textual amendment: Words in Sch. 2 para. 17(1)(b)(iii) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/i/bb)
 
 [^c23192961]: Marginal citation: [S.I. 2015/668](https://www.legislation.gov.uk/uksi/2015/668).
 
-[^key-e1a69572c65e99bf3709f947f5807e9e]: Textual amendment: Words in [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/2/paragraph/17/2/b) substituted (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3), [49(1)](https://www.legislation.gov.uk/wsi/2021/77/regulation/49/1)
+[^c-e1a69572c65e99bf3709f947f5807e9e]: Textual amendment: Words in [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/2/paragraph/17/2/b) substituted (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3), [49(1)](https://www.legislation.gov.uk/wsi/2021/77/regulation/49/1)
 
-[^key-fb05d606be2b4fffad29e54ef12a5065]: Textual amendment: Sch. 2 para. 17(3)(a) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/ii/aa)
+[^c-fb05d606be2b4fffad29e54ef12a5065]: Textual amendment: Sch. 2 para. 17(3)(a) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/ii/aa)
 
-[^key-7de28ca49eebb7edbe6047fc753aeefb]: Textual amendment: Words in Sch. 2 para. 17(3)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/ii/bb)
+[^c-7de28ca49eebb7edbe6047fc753aeefb]: Textual amendment: Words in Sch. 2 para. 17(3)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/ii/bb)
 
-[^key-9113f4b76f2df5f6c254ae0f5536a076]: Textual amendment: Sch. 2 para. 17(4)(a)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/iii)
+[^c-9113f4b76f2df5f6c254ae0f5536a076]: Textual amendment: Sch. 2 para. 17(4)(a)(b) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [21(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/21/3/b/iii)

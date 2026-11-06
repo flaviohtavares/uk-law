@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245ZA. Notice to local authority: Scotland[^key-8337f43bff69eb0f25be54e35ad7aa2f]
+## 245ZA. Notice to local authority: Scotland[^c-8337f43bff69eb0f25be54e35ad7aa2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8337f43bff69eb0f25be54e35ad7aa2f]: Textual amendment: [S. 245ZA](https://www.legislation.gov.uk/ukpga/2002/29/section/245ZA) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/2), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)
+[^c-8337f43bff69eb0f25be54e35ad7aa2f]: Textual amendment: [S. 245ZA](https://www.legislation.gov.uk/ukpga/2002/29/section/245ZA) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/2), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)

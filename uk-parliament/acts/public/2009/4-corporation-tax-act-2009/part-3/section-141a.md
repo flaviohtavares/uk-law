@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141A. Intermediaries providing worker's services to public authority or medium or large client[^key-9696bde31d5617e4f53e3c078c39dfe5][^key-ff5267bed5d31bb29a48f7c65ccc9ba3]
+## 141A. Intermediaries providing worker's services to public authority or medium or large client[^c-9696bde31d5617e4f53e3c078c39dfe5][^c-ff5267bed5d31bb29a48f7c65ccc9ba3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9696bde31d5617e4f53e3c078c39dfe5]: Textual amendment: S. 141A and cross-heading inserted (with effect in accordance with Sch. 1 paras. 16, 17 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/14)
+[^c-9696bde31d5617e4f53e3c078c39dfe5]: Textual amendment: S. 141A and cross-heading inserted (with effect in accordance with Sch. 1 paras. 16, 17 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/14)
 
-[^key-ff5267bed5d31bb29a48f7c65ccc9ba3]: Textual amendment: Words in s. 141A heading substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/22) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-ff5267bed5d31bb29a48f7c65ccc9ba3]: Textual amendment: Words in s. 141A heading substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/22) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

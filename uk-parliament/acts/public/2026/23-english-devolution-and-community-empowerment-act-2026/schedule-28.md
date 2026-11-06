@@ -22,7 +22,7 @@ summary: ''
 
 Section 59
 
-### 1. Merger of single tiers of local government etc[^key-2532c49612f801d78cfa163dbb5c431a][^key-9a46d03e22c18ebf9798629ff2f45fba]
+### 1. Merger of single tiers of local government etc[^c-2532c49612f801d78cfa163dbb5c431a][^c-9a46d03e22c18ebf9798629ff2f45fba]
 
 (1) LGPIHA 2007 is amended as follows.
 
@@ -169,6 +169,6 @@ Section 59
 
 ## Annotations
 
-[^key-2532c49612f801d78cfa163dbb5c431a]: Commencement: Sch. 28 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-2532c49612f801d78cfa163dbb5c431a]: Commencement: Sch. 28 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-9a46d03e22c18ebf9798629ff2f45fba]: Commencement: [Sch. 28 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/28/paragraph/1) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-9a46d03e22c18ebf9798629ff2f45fba]: Commencement: [Sch. 28 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/28/paragraph/1) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

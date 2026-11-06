@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. References: restricted patients subject to deprivation of liberty conditions[^key-71ed9450b7b791b931c5ecf0a56adcaa]
+## 32. References: restricted patients subject to deprivation of liberty conditions[^c-71ed9450b7b791b931c5ecf0a56adcaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71ed9450b7b791b931c5ecf0a56adcaa]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/33/section/32) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
+[^c-71ed9450b7b791b931c5ecf0a56adcaa]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/33/section/32) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)

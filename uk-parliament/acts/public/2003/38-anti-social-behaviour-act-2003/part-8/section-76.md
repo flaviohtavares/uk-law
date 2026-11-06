@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Power to require occupier to permit action to be taken by owner[^key-a4aa7cfe033e517c532542b92da09a89][^key-f20cdfcae82a1cc18610df0c1e76af71]
+## 76. Power to require occupier to permit action to be taken by owner[^c-a4aa7cfe033e517c532542b92da09a89][^c-f20cdfcae82a1cc18610df0c1e76af71]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Section 289 of the Public Health Act 1936 (c. 49) (power of court to require occ
 
 ## Annotations
 
-[^key-a4aa7cfe033e517c532542b92da09a89]: Commencement: S. 76 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-a4aa7cfe033e517c532542b92da09a89]: Commencement: S. 76 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-f20cdfcae82a1cc18610df0c1e76af71]: Commencement: S. 76 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-f20cdfcae82a1cc18610df0c1e76af71]: Commencement: S. 76 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

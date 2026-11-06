@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.20. Content of application for a disclosure order or information order under the Proceeds of Crime Act 2002[^key-24081005e9a44146692da4fa77e2ffe5]
+## 47.20. Content of application for a disclosure order or information order under the Proceeds of Crime Act 2002[^c-24081005e9a44146692da4fa77e2ffe5]
 
 *Extent: E+W*
 
@@ -85,7 +85,7 @@ summary: ''
 
 ## Annotations
 
-[^key-24081005e9a44146692da4fa77e2ffe5]: Commencement: Rule 47.20 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-24081005e9a44146692da4fa77e2ffe5]: Commencement: Rule 47.20 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01171]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); Part 1 of Schedule 9 was substituted by articles 2 and 3 of [S.I. 2007/3287](https://www.legislation.gov.uk/uksi/2007/3287) and amended by sections 183 and 237 of, and paragraph 2 of Schedule 18 and Part 29 of Schedule 25 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), regulation 79 of, and paragraph 3 of Schedule 4 to, [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99), article 3 of [S.I. 2011/2701](https://www.legislation.gov.uk/uksi/2011/2701), article 3 of [S.I. 2012/1534](https://www.legislation.gov.uk/uksi/2012/1534), article 3 of [S.I. 2012/2299](https://www.legislation.gov.uk/uksi/2012/2299), regulation 46 of, and paragraph 41 of Schedule 2 to, [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), section 151 of, and paragraph 81 of Schedule 4 to, the Co-operative and Community Benefit Societies Act [2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), regulation 59 of, and paragraph 23 of Schedule 1 to, [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575), regulation 14 of [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680), regulation 2 of, and paragraph 13 of the Schedule to, [S.I. 2017/80](https://www.legislation.gov.uk/uksi/2017/80), regulation 109 of, and paragraph 6 of Schedule 7 to, [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692) and regulation 50 of, and paragraph 7 of Schedule 4 to, [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 

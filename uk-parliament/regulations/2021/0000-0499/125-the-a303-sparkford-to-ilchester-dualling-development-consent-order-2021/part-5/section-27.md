@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Public rights of way[^key-7a302d901d82f4f69b40d5320e7feebd]
+## 27. Public rights of way[^c-7a302d901d82f4f69b40d5320e7feebd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a302d901d82f4f69b40d5320e7feebd]: Commencement: Art. 27 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-7a302d901d82f4f69b40d5320e7feebd]: Commencement: Art. 27 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

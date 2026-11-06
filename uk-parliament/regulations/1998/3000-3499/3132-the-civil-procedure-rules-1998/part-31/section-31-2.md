@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.2. Meaning of disclosure[^key-d87406d5b5ec28de3acf4f78cd4e980f]
+## 31.2. Meaning of disclosure[^c-d87406d5b5ec28de3acf4f78cd4e980f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A party discloses a document by stating that the document exists or has existed.
 
 ## Annotations
 
-[^key-d87406d5b5ec28de3acf4f78cd4e980f]: Commencement: Rule 31.2 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-d87406d5b5ec28de3acf4f78cd4e980f]: Commencement: Rule 31.2 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

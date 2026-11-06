@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Financial penalty for failure to pay sums ordered by employment tribunal etc[^key-2eab64439599f89a5a85e251a83db6a0]
+## 150. Financial penalty for failure to pay sums ordered by employment tribunal etc[^c-2eab64439599f89a5a85e251a83db6a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -423,7 +423,7 @@ summary: ''
 > - (a) in the case of provision that could be made under paragraph (a) or (b) of that subsection, be included in regulations under section 37N;
 > - (b) in the case of provision that could be made under paragraph (c) of that subsection, be included in regulations under section 37Q.
 
-(4)[^key-1d7365262a94531238bc4ea53c0f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1d7365262a94531238bc4ea53c0f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 41 (orders, regulations and rules), in subsection (2)—
 
@@ -435,7 +435,7 @@ and in subsection (3)(b) for “regulations” substitute “ any other regulati
 
 (6) In section 42(1) (interpretation), after “In this Act” insert “ (except where otherwise expressly provided) ”.
 
-(7)[^key-f8eb806e32048f5a847bc9d7a87c3459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f8eb806e32048f5a847bc9d7a87c3459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The amendments made by this section have effect only in relation to relevant sums where—
 
@@ -444,8 +444,8 @@ and in subsection (3)(b) for “regulations” substitute “ any other regulati
 
 ## Annotations
 
-[^key-2eab64439599f89a5a85e251a83db6a0]: Commencement: S. 150 in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-2eab64439599f89a5a85e251a83db6a0]: Commencement: S. 150 in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-1d7365262a94531238bc4ea53c0f5091]: Textual amendment: S. 150(4) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 85(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/85/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-1d7365262a94531238bc4ea53c0f5091]: Textual amendment: S. 150(4) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 85(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/85/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
 
-[^key-f8eb806e32048f5a847bc9d7a87c3459]: Textual amendment: S. 150(7) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 85(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/85/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-f8eb806e32048f5a847bc9d7a87c3459]: Textual amendment: S. 150(7) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 85(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/85/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)

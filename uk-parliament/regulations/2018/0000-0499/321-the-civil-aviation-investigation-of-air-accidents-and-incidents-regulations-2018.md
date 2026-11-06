@@ -44,17 +44,17 @@ Coming into force
 
 9th April 2018
 
-The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to air transport.[^key-0c60ef687e7900526bf28e237e1ce6d6]
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to air transport.[^c-0c60ef687e7900526bf28e237e1ce6d6]
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 75(1) to (3) and 102(2) of, and Part II and paragraphs 4 and 6 of Part III of Schedule 13 to, the Civil Aviation Act 1982[^f00003] and by section 2(2) of the European Communities Act 1972.[^key-0c60ef687e7900526bf28e237e1ce6d6]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 75(1) to (3) and 102(2) of, and Part II and paragraphs 4 and 6 of Part III of Schedule 13 to, the Civil Aviation Act 1982[^f00003] and by section 2(2) of the European Communities Act 1972.[^c-0c60ef687e7900526bf28e237e1ce6d6]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-ab4e22d7192ee82777dcdf620787ebed]
+### 1. Citation and commencement[^c-ab4e22d7192ee82777dcdf620787ebed]
 
 These Regulations may be cited as the Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 2018 and come into force on 9th April 2018.
 
-### 2. Interpretation[^key-0469afc78e5ae7c9769c622e20f77bb8]
+### 2. Interpretation[^c-0469afc78e5ae7c9769c622e20f77bb8]
 
 (1) In these Regulations—
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Civil Aviation (Investigation of Air Accid
 
 (3) In these Regulations “aircraft” has the same meaning as in Regulation 996/2010.
 
-### 3. Meaning of “act of unlawful interference” and “victim”[^key-30affdd97ddfe858bca0a0d83dfe33cc]
+### 3. Meaning of “act of unlawful interference” and “victim”[^c-30affdd97ddfe858bca0a0d83dfe33cc]
 
 (1) For the purposes of paragraph 2 of Article 12 of Regulation 996/2010, “an act of unlawful interference” means any act which constitutes an offence under—
 
@@ -88,7 +88,7 @@ These Regulations may be cited as the Civil Aviation (Investigation of Air Accid
 
 (3) In paragraph (2) “fatal injury” and “serious injury” have the meanings given by Article 2 of Regulation 996/2010.
 
-### 4. Service of notices and other documents[^key-444fd78e5a99bb3c4cea46379dd0eab9]
+### 4. Service of notices and other documents[^c-444fd78e5a99bb3c4cea46379dd0eab9]
 
 (1) Any notice or other document required or authorised by these Regulations to be served on any person may be served by—
 
@@ -105,7 +105,7 @@ These Regulations may be cited as the Civil Aviation (Investigation of Air Accid
   - (ii) the email address of the secretary or clerk of that body, the director or the authorised person;
 - (b) in any other case, a person’s last known address, which includes an email address.
 
-### 5. Revocations[^key-8c07c5521bf70ec00d719e5d5b6132f4]
+### 5. Revocations[^c-8c07c5521bf70ec00d719e5d5b6132f4]
 
 The following Regulations are revoked—
 
@@ -113,7 +113,7 @@ The following Regulations are revoked—
 - (b) the Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 1996[^f00009];
 - (c) the Civil Aviation (Investigation of Military Air Accidents at Civil Aerodromes) Regulations 2005[^f00010].
 
-### 6. Amendment of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^key-b62d9b13fa008179e20b33673112af6a]
+### 6. Amendment of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^c-b62d9b13fa008179e20b33673112af6a]
 
 (1) Regulation 14 of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^f00011] is amended as follows.
 
@@ -121,18 +121,18 @@ The following Regulations are revoked—
 
 > - (g) Article 9 of Regulation (EU) No 996/2010 of the European Parliament and of the Council on the investigation and prevention of accidents and incidents in civil aviation and repealing [Directive 94/56/EC](https://www.legislation.gov.uk/european/directive/1994/0056).
 
-### 7. Safety investigation authority and accident investigation authority[^key-9b82fbd8566f46f5013b23e6290a5b5e]
+### 7. Safety investigation authority and accident investigation authority[^c-9b82fbd8566f46f5013b23e6290a5b5e]
 
 The Air Accidents Investigation Branch continues to be designated as—
 
 - (a) the safety investigation authority for the United Kingdom for the purposes of Article 4 of Regulation 996/2010; and
 - (b) the accident investigation authority for the United Kingdom for the purposes of Annex 13.
 
-### 8. Objective of a safety investigation[^key-6754ab33d9d7464c90d7b9fa96bf7040]
+### 8. Objective of a safety investigation[^c-6754ab33d9d7464c90d7b9fa96bf7040]
 
 The sole objective of a safety investigation which is undertaken pursuant to Regulation 996/2010, Annex 13 or these Regulations is the prevention of accidents and incidents, without the apportionment of blame or liability.
 
-### 9. Inspectors of Air Accidents[^key-f3bd324d292462f6cf719c8f5f494c4a]
+### 9. Inspectors of Air Accidents[^c-f3bd324d292462f6cf719c8f5f494c4a]
 
 (1) For the purposes of carrying out safety investigations, the Secretary of State must appoint persons to work for the Air Accidents Investigation Branch as Inspectors of Air Accidents.
 
@@ -146,7 +146,7 @@ The sole objective of a safety investigation which is undertaken pursuant to Reg
 
 (6) The Chief Inspector may determine that the investigator-in-charge shall be assisted by one or more Inspectors.
 
-### 10. Power to investigate[^key-28636f2891b9988d66375a7c69bb0492]
+### 10. Power to investigate[^c-28636f2891b9988d66375a7c69bb0492]
 
 (1) Notwithstanding the obligations to investigate imposed by paragraphs 1 and 2 of Article 5 of Regulation 996/2010 and by Chapter 5 of Annex 13, the Chief Inspector may cause a safety investigation to be conducted in accordance with Regulation 996/2010, Annex 13 and these Regulations where—
 
@@ -158,7 +158,7 @@ The sole objective of a safety investigation which is undertaken pursuant to Reg
 
 (2) In this regulation “similar services” has the same meaning as in paragraph 3 of Article 3 of Regulation 996/2010.
 
-### 11. Obligation to investigate accidents and serious incidents occurring outside the United Kingdom[^key-86bcf6f2af8a07549001da792e197ac3]
+### 11. Obligation to investigate accidents and serious incidents occurring outside the United Kingdom[^c-86bcf6f2af8a07549001da792e197ac3]
 
 (1) Insofar as it is practicable to do so, the Chief Inspector must cause a safety investigation to be conducted in accordance with Annex 13 and these Regulations where—
 
@@ -176,7 +176,7 @@ The sole objective of a safety investigation which is undertaken pursuant to Reg
 - “investigation” (in sub-paragraph (c) of paragraph (1) only) means a process conducted, other than by the Air Accidents Investigation Branch, for the purposes of accident and incident prevention, which includes the gathering and analysis of information, the drawing of conclusions (including the determination of causes and contributing factors) and, when appropriate, the making of safety recommendations; and
 - “State of Registry”, “State of the Operator”, “State of Design” and “State of Manufacture” have the meanings given by Chapter 1 of Annex 13.
 
-### 12. Additional provisions – Inspectors’ powers[^key-628532ae8a27c3977d1d829ed1488543]
+### 12. Additional provisions – Inspectors’ powers[^c-628532ae8a27c3977d1d829ed1488543]
 
 (1) The power conferred by subparagraph (f) (power to call and examine witnesses) of paragraph 2 of Article 11 of Regulation 996/2010 must be exercised by the service of a summons signed by an Investigating Inspector and requiring any person (“witness”) to attend a witness interview at a time and place stated in the summons, in order to—
 
@@ -187,13 +187,13 @@ which is, in the opinion of that Inspector, relevant to the safety investigation
 
 (2) A witness must be allowed the expenses of attending a witness interview, payable by the Secretary of State.
 
-**13.**[^key-fdcfd625dd1ac327f72a813239c2f185] An Investigating Inspector has the power to—
+**13.**[^c-fdcfd625dd1ac327f72a813239c2f185] An Investigating Inspector has the power to—
 
 - (a) record a witness interview in any manner that the Investigating Inspector considers appropriate;
 - (b) take a statement from a witness and require the witness to make and sign a declaration of truth in relation to that statement; and
 - (c) retain any evidence which is produced by a witness or which the investigator-in-charge has access to or control over, by virtue of paragraph 2 of Article 11 of Regulation 996/2010, until the completion of the safety investigation.
 
-**14.**[^key-1c7a5d4b565331be21da321a14490bda] (1) Subject to paragraph (2), an Investigating Inspector may, on production of that Inspector’s authority to act as an Inspector, enter and inspect any land or premises (including any dwelling and any aircraft) where, in the opinion of the investigator-in-charge, such action is necessary for the purposes of the safety investigation.
+**14.**[^c-1c7a5d4b565331be21da321a14490bda] (1) Subject to paragraph (2), an Investigating Inspector may, on production of that Inspector’s authority to act as an Inspector, enter and inspect any land or premises (including any dwelling and any aircraft) where, in the opinion of the investigator-in-charge, such action is necessary for the purposes of the safety investigation.
 
 (2) An Investigating Inspector may not enter and inspect any dwelling unless one of the following conditions is met—
 
@@ -233,7 +233,7 @@ which is, in the opinion of that Inspector, relevant to the safety investigation
   - (b) in Scotland, a sheriff or a summary sheriff; and
   - (c) in Northern Ireland, a lay magistrate.
 
-### 15. Release of evidence to owner[^key-9e3ecea644ad1e1afdb3ae9151a7a768]
+### 15. Release of evidence to owner[^c-9e3ecea644ad1e1afdb3ae9151a7a768]
 
 (1) This regulation applies where an aircraft, its contents or wreckage (“property”) is held by the Air Accidents Investigation Branch in a hangar, or in any other facility which is being used by the Branch, for the purposes of a safety investigation.
 
@@ -256,7 +256,7 @@ which is, in the opinion of that Inspector, relevant to the safety investigation
 
 (6) In this regulation “owner”, in relation to an aircraft which is registered, means the registered owner of the aircraft.
 
-### 16. Notice of safety investigation report[^key-986f2a907b5094872d5ce3daadbd1921]
+### 16. Notice of safety investigation report[^c-986f2a907b5094872d5ce3daadbd1921]
 
 (1) Where the investigator-in-charge considers that a safety investigation report could adversely affect the reputation of any person (“the person concerned”), the final safety investigation report must not be published until the investigator-in-charge has—
 
@@ -268,11 +268,11 @@ which is, in the opinion of that Inspector, relevant to the safety investigation
 - (a) include particulars of any proposed analysis of facts and conclusions as to the circumstances and causes of the relevant accident or incident which could affect the person concerned; and
 - (b) inform the person on whom it is served that written representations regarding that proposed analysis may be made to the investigator-in-charge by or on behalf of that person within 28 days, beginning with the date on which the notice was served, or within such longer period as the Chief Inspector may allow.
 
-### 17. Pre-publication copies of the final safety investigation report[^key-a2bbb41af36a5bb6054e7ea7f4a2d030]
+### 17. Pre-publication copies of the final safety investigation report[^c-a2bbb41af36a5bb6054e7ea7f4a2d030]
 
 Before the publication of the final safety investigation report, the Chief Inspector must provide a copy of it to the Secretary of State and must also serve a copy of it on any person on whom a notice was served pursuant to paragraph (1)(a) of regulation 16.
 
-### 18. Reopening of safety investigation[^key-e1a4c84f885bbf7914ebc5a61363318b]
+### 18. Reopening of safety investigation[^c-e1a4c84f885bbf7914ebc5a61363318b]
 
 (1) Subject to paragraph (3), where, following publication of a final safety investigation report relating to an accident or serious incident, evidence has become available which, in the Chief Inspector’s opinion, is new and significant, the Chief Inspector must cause the safety investigation to be reopened.
 
@@ -280,13 +280,13 @@ Before the publication of the final safety investigation report, the Chief Inspe
 
 (3) The Chief Inspector must not reopen a safety investigation into an accident or serious incident in respect of which the task of conducting the safety investigation has been delegated to the Air Accidents Investigation Branch, pursuant to paragraph 2 of Article 6 of Regulation 996/2010 or paragraph 5.1, 5.1.1 or 5.1.2 of Annex 13, without first obtaining the consent of the head of the investigation authority which so delegated that task.
 
-### 19. Amendments to the Civil Aviation Act 1982[^key-3133485497b9859a526b1879976410fb]
+### 19. Amendments to the Civil Aviation Act 1982[^c-3133485497b9859a526b1879976410fb]
 
 In section 75 of the Civil Aviation Act 1982[^f00012] (investigation of accidents), omit subsection (1A) (power to make provision for the purpose of implementing Council [Directive 94/56/EC](https://www.legislation.gov.uk/european/directive/1994/0056)[^f00013]).
 
 ## PART 2 — Contraventions
 
-### 20. Failure to notify accident or serious incident[^key-ab468856aa4291b74b96b6b897a58573]
+### 20. Failure to notify accident or serious incident[^c-ab468856aa4291b74b96b6b897a58573]
 
 (1) Any person involved who—
 
@@ -301,23 +301,23 @@ contravenes these Regulations.
 - (b) the Police Service of Northern Ireland, or
 - (c) the Police Service of Northern Ireland Reserve.
 
-### 21. Obstruction[^key-8206b0c18e915a9b6ba8becb6ae0cc1f]
+### 21. Obstruction[^c-8206b0c18e915a9b6ba8becb6ae0cc1f]
 
 Any person who, without reasonable excuse, obstructs or impedes an Inspector in the exercise of any duties, powers or entitlements imposed or conferred by Regulation 996/2010, Annex 13 or by these Regulations, contravenes these Regulations.
 
-**22.**[^key-47471355d6c0f707eb9bc34d02e35e47] Any person who knowingly provides false or misleading information to an Inspector in connection with a safety investigation contravenes these Regulations.
+**22.**[^c-47471355d6c0f707eb9bc34d02e35e47] Any person who knowingly provides false or misleading information to an Inspector in connection with a safety investigation contravenes these Regulations.
 
-### 23. Failure to comply with witness summons[^key-f8bdd3474d75c9b0e574e73d64cd2e38]
+### 23. Failure to comply with witness summons[^c-f8bdd3474d75c9b0e574e73d64cd2e38]
 
 Any person who fails, without reasonable excuse, to comply with a witness summons served under paragraph (1) of regulation 12 contravenes these Regulations.
 
-### 24. Failure to preserve evidence[^key-26a3583b12c0d20120ad6a5c691e8ee7]
+### 24. Failure to preserve evidence[^c-26a3583b12c0d20120ad6a5c691e8ee7]
 
 (1) Any person who, without reasonable excuse, contravenes any of the prohibitions in paragraph 2 of Article 13 of Regulation 996/2010 also contravenes these Regulations.
 
 (2) Any person involved who fails, without reasonable excuse, to take the necessary steps described in paragraph 3 of Article 13 also contravenes these Regulations.
 
-### 25. Failure to protect sensitive safety information[^key-9eda53a9fd5343935df8d0cf523636a8]
+### 25. Failure to protect sensitive safety information[^c-9eda53a9fd5343935df8d0cf523636a8]
 
 (1) Subject to paragraphs (3) and (4), any relevant person who knowingly contravenes any of the prohibitions in paragraphs 1 or 2 of Article 14 of Regulation 996/2010 also contravenes these Regulations.
 
@@ -344,7 +344,7 @@ Any person who fails, without reasonable excuse, to comply with a witness summon
   - (b) in the case of judicial proceedings or an application for disclosure made in Scotland, the Court of Session; and
 - “relevant record” means any of the records specified in paragraphs 1 and 2 of Article 14 of Regulation 996/2010.
 
-### 26. Unauthorised disclosure of information relating to a safety investigation[^key-cd20c63a5296a63285ec1cf36dedc67e]
+### 26. Unauthorised disclosure of information relating to a safety investigation[^c-cd20c63a5296a63285ec1cf36dedc67e]
 
 (1) This regulation applies to a person who receives information from—
 
@@ -353,7 +353,7 @@ Any person who fails, without reasonable excuse, to comply with a witness summon
 
 (2) Any person to whom this regulation applies who, without the prior written consent of the Chief Inspector in the case of paragraph (1)(a), causes or permits that information or any part of it to be disclosed to any other person, body or organisation before it is made publicly available by the Chief Inspector (on publication of the final safety investigation report or otherwise) contravenes these Regulations.
 
-### 27. Failure to provide information on persons and dangerous goods on board an aircraft following an accident[^key-3ed1ef94835df68e7479cc5945031f4b]
+### 27. Failure to provide information on persons and dangerous goods on board an aircraft following an accident[^c-3ed1ef94835df68e7479cc5945031f4b]
 
 (1) This regulation applies where an accident has occurred in or over the United Kingdom.
 
@@ -364,7 +364,7 @@ Any person who fails, without reasonable excuse, to comply with a witness summon
 
 the operator contravenes these Regulations.
 
-### 28. Disclosure of information relating to persons on board an aircraft and persons to be contacted in the event of an accident[^key-adad451f69c47b7fa659463441225529]
+### 28. Disclosure of information relating to persons on board an aircraft and persons to be contacted in the event of an accident[^c-adad451f69c47b7fa659463441225529]
 
 Any person who causes or permits—
 
@@ -373,7 +373,7 @@ Any person who causes or permits—
 
 to be used or disclosed other than in accordance with paragraph 2, 3 or 4 of that Article contravenes these Regulations.
 
-### 29. Penalties[^key-aa4b89de49e99c31a9cb2ff716c70322]
+### 29. Penalties[^c-aa4b89de49e99c31a9cb2ff716c70322]
 
 Insofar as any provision in regulations 20 to 28 is not made under section 75 of the Civil Aviation Act 1982, subsection (5) of that section (penalties)[^f00014] nevertheless applies to that provision as if it had been so made.
 
@@ -433,13 +433,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 3 of, and Part I of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-0c60ef687e7900526bf28e237e1ce6d6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/321) extended (with modifications) (Guernsey) (5.7.2023) by [The Civil Aviation (Investigation of Air Accidents and Incidents) (Guernsey) Order 2023 (S.I. 2023/662)](https://www.legislation.gov.uk/uksi/2023/662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/662/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/662/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/662/schedule)
+[^c-0c60ef687e7900526bf28e237e1ce6d6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/321) extended (with modifications) (Guernsey) (5.7.2023) by [The Civil Aviation (Investigation of Air Accidents and Incidents) (Guernsey) Order 2023 (S.I. 2023/662)](https://www.legislation.gov.uk/uksi/2023/662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/662/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/662/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/662/schedule)
 
 [^f00003]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 75 applies to aircraft belonging to or exclusively employed in the service of Her Majesty by virtue of [S.I. 1959/1309](https://www.legislation.gov.uk/uksi/1959/1309).
 
-[^key-ab4e22d7192ee82777dcdf620787ebed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-ab4e22d7192ee82777dcdf620787ebed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-0469afc78e5ae7c9769c622e20f77bb8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/321/regulation/2) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-0469afc78e5ae7c9769c622e20f77bb8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/321/regulation/2) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
 [^f00004]: Footnote: See definition of “the Chicago Convention” in section 105 of the Civil Aviation Act 1982. The latest edition of Annex 13, which is published by the International Civil Aviation Organization, is the 11th edition, which applied from 10th November 2016 (ISBN 978-92-9249-968-6).
 
@@ -447,13 +447,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00006]: Footnote: OJ No L 319, 12.12.1994, p14.
 
-[^key-30affdd97ddfe858bca0a0d83dfe33cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/321/regulation/3) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-30affdd97ddfe858bca0a0d83dfe33cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/321/regulation/3) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
 [^f00007]: Footnote: [1982 c.36](https://www.legislation.gov.uk/ukpga/1982/36).
 
-[^key-444fd78e5a99bb3c4cea46379dd0eab9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/321/regulation/4) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-444fd78e5a99bb3c4cea46379dd0eab9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/321/regulation/4) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-8c07c5521bf70ec00d719e5d5b6132f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/321/regulation/5) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-8c07c5521bf70ec00d719e5d5b6132f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/321/regulation/5) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1996/76](https://www.legislation.gov.uk/uksi/1996/76).
 
@@ -461,58 +461,58 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00010]: Footnote: [S.I. 2005/2693](https://www.legislation.gov.uk/uksi/2005/2693).
 
-[^key-b62d9b13fa008179e20b33673112af6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/321/regulation/6) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-b62d9b13fa008179e20b33673112af6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/321/regulation/6) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2013/1471](https://www.legislation.gov.uk/uksi/2013/1471), to which there are amendments not relevant to these Regulations.
 
-[^key-9b82fbd8566f46f5013b23e6290a5b5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/321/regulation/7) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-9b82fbd8566f46f5013b23e6290a5b5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/321/regulation/7) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-6754ab33d9d7464c90d7b9fa96bf7040]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/321/regulation/8) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-6754ab33d9d7464c90d7b9fa96bf7040]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/321/regulation/8) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-f3bd324d292462f6cf719c8f5f494c4a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/321/regulation/9) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-f3bd324d292462f6cf719c8f5f494c4a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/321/regulation/9) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-28636f2891b9988d66375a7c69bb0492]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/321/regulation/10) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-28636f2891b9988d66375a7c69bb0492]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/321/regulation/10) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-86bcf6f2af8a07549001da792e197ac3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/321/regulation/11) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-86bcf6f2af8a07549001da792e197ac3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/321/regulation/11) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-628532ae8a27c3977d1d829ed1488543]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/321/regulation/12) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-628532ae8a27c3977d1d829ed1488543]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/321/regulation/12) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-fdcfd625dd1ac327f72a813239c2f185]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/321/regulation/13) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-fdcfd625dd1ac327f72a813239c2f185]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/321/regulation/13) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-1c7a5d4b565331be21da321a14490bda]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/321/regulation/14) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-1c7a5d4b565331be21da321a14490bda]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/321/regulation/14) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-9e3ecea644ad1e1afdb3ae9151a7a768]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/321/regulation/15) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-9e3ecea644ad1e1afdb3ae9151a7a768]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/321/regulation/15) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-986f2a907b5094872d5ce3daadbd1921]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/321/regulation/16) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-986f2a907b5094872d5ce3daadbd1921]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/321/regulation/16) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-a2bbb41af36a5bb6054e7ea7f4a2d030]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/321/regulation/17) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-a2bbb41af36a5bb6054e7ea7f4a2d030]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/321/regulation/17) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-e1a4c84f885bbf7914ebc5a61363318b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/321/regulation/18) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-e1a4c84f885bbf7914ebc5a61363318b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/321/regulation/18) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-3133485497b9859a526b1879976410fb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/321/regulation/19) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-3133485497b9859a526b1879976410fb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/321/regulation/19) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
 [^f00012]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Subsection (1A) was inserted by [S.I. 1996/76](https://www.legislation.gov.uk/uksi/1996/76), which is revoked by these regulations (see regulation 3).
 
 [^f00013]: Footnote: OJ No L 319, 12.12.1994, p14, repealed by Regulation 996/2010, Article 25.
 
-[^key-ab468856aa4291b74b96b6b897a58573]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/321/regulation/20) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-ab468856aa4291b74b96b6b897a58573]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/321/regulation/20) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-8206b0c18e915a9b6ba8becb6ae0cc1f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/321/regulation/21) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-8206b0c18e915a9b6ba8becb6ae0cc1f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/321/regulation/21) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-47471355d6c0f707eb9bc34d02e35e47]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/321/regulation/22) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-47471355d6c0f707eb9bc34d02e35e47]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/321/regulation/22) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-f8bdd3474d75c9b0e574e73d64cd2e38]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/321/regulation/23) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-f8bdd3474d75c9b0e574e73d64cd2e38]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/321/regulation/23) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-26a3583b12c0d20120ad6a5c691e8ee7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/321/regulation/24) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-26a3583b12c0d20120ad6a5c691e8ee7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/321/regulation/24) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-9eda53a9fd5343935df8d0cf523636a8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/321/regulation/25) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-9eda53a9fd5343935df8d0cf523636a8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/321/regulation/25) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-cd20c63a5296a63285ec1cf36dedc67e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/321/regulation/26) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-cd20c63a5296a63285ec1cf36dedc67e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/321/regulation/26) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-3ed1ef94835df68e7479cc5945031f4b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/321/regulation/27) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-3ed1ef94835df68e7479cc5945031f4b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/321/regulation/27) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-adad451f69c47b7fa659463441225529]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2018/321/regulation/28) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-adad451f69c47b7fa659463441225529]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2018/321/regulation/28) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
-[^key-aa4b89de49e99c31a9cb2ff716c70322]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2018/321/regulation/29) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
+[^c-aa4b89de49e99c31a9cb2ff716c70322]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2018/321/regulation/29) in force at 9.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1)
 
 [^f00014]: Footnote: Subsection (5) of section 75 was amended (in relation to England and Wales) by the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37 and 46, and by the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10), section 85, and has been prospectively amended (also in relation to England and Wales) by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 280 and Schedule 26.

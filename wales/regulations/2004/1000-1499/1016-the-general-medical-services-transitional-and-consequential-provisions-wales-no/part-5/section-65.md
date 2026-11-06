@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. References to the NHS dispute resolution procedure in general medical services contracts which follow default contracts[^key-f1aa4757c9cea02469c3235ef8644ccd]
+## 65. References to the NHS dispute resolution procedure in general medical services contracts which follow default contracts[^c-f1aa4757c9cea02469c3235ef8644ccd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the refusal or notice shall be treated, for the purposes of referring the matter
 
 ## Annotations
 
-[^key-f1aa4757c9cea02469c3235ef8644ccd]: Commencement: Art. 65 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-f1aa4757c9cea02469c3235ef8644ccd]: Commencement: Art. 65 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

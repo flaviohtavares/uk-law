@@ -26,17 +26,17 @@ Regulation 73
 
 ### PART I — GENERAL RULES
 
-**1.**[^key-1e95c00a92af172192c140bf998d0f34] The appropriate fund for a member is the fund specified in column 2 of the following Table for a member of his description.
+**1.**[^c-1e95c00a92af172192c140bf998d0f34] The appropriate fund for a member is the fund specified in column 2 of the following Table for a member of his description.
 
-**2.**[^key-0c960fb377d363cabb86d392e244e617] However, where a member falls into paragraph 5 of that Table, the Secretary of State may by direction substitute another fund (“the substituted fund”).
+**2.**[^c-0c960fb377d363cabb86d392e244e617] However, where a member falls into paragraph 5 of that Table, the Secretary of State may by direction substitute another fund (“the substituted fund”).
 
-**3.**[^key-816ea5b2ca67afebf5326499e615e3e5] Before doing so he must consult with any bodies appearing to him to be affected by the proposed direction.
+**3.**[^c-816ea5b2ca67afebf5326499e615e3e5] Before doing so he must consult with any bodies appearing to him to be affected by the proposed direction.
 
-**4.**[^key-d1fffb40ba80b80d12e77366eda29359] The direction may require the making of financial adjustments between the funds, whether by way of a payment to the substituted fund or of a transfer of assets or both.
+**4.**[^c-d1fffb40ba80b80d12e77366eda29359] The direction may require the making of financial adjustments between the funds, whether by way of a payment to the substituted fund or of a transfer of assets or both.
 
-**5.**[^key-7d703cabc36773e5942a5df23085faaf] It may also contain provision as to the transfer of liabilities to the substituted fund and any other consequential and incidental matters.
+**5.**[^c-7d703cabc36773e5942a5df23085faaf] It may also contain provision as to the transfer of liabilities to the substituted fund and any other consequential and incidental matters.
 
-**6.**[^key-c67c5675505c9daa9cf192cccfeb9f5b] Where an administering authority have established an admission agreement fund under regulation 74–
+**6.**[^c-c67c5675505c9daa9cf192cccfeb9f5b] Where an administering authority have established an admission agreement fund under regulation 74–
 
 - (a) references in this Schedule and in regulation 73 to the “fund” are to the fund maintained by that authority under regulation 72; and
 - (b) in relation to a member employed by a body specified in the notice required by regulation 74(3), the appropriate fund is the admission agreement fund.
@@ -51,7 +51,7 @@ Regulation 73
   | *Extent: E+W+S+N.I.*<br>**4.** An admission agreement employee. | Fund maintained by the administering authority with whom the admission agreement making him eligible for membership was made. |
   | *Extent: E+W+S+N.I.*<br>**5.** Members for whom no fund is specified by paragraphs 1 to 4. | Fund maintained by the administering authority within whose local government area all or most of his employing authority’s area lies. |
 
-### PART II — MISCELLANEOUS AUTHORITIES — TABLE[^key-9a7255a933cad452684f40783aee788a]
+### PART II — MISCELLANEOUS AUTHORITIES — TABLE[^c-9a7255a933cad452684f40783aee788a]
 
 | Member | Appropriate fund |
 | --- | --- |
@@ -66,16 +66,16 @@ Regulation 73
 
 ## Annotations
 
-[^key-1e95c00a92af172192c140bf998d0f34]: Commencement: Sch. 5 Pt. I para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-1e95c00a92af172192c140bf998d0f34]: Commencement: Sch. 5 Pt. I para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-0c960fb377d363cabb86d392e244e617]: Commencement: Sch. 5 Pt. I para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-0c960fb377d363cabb86d392e244e617]: Commencement: Sch. 5 Pt. I para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-816ea5b2ca67afebf5326499e615e3e5]: Commencement: Sch. 5 Pt. I para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-816ea5b2ca67afebf5326499e615e3e5]: Commencement: Sch. 5 Pt. I para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-d1fffb40ba80b80d12e77366eda29359]: Commencement: Sch. 5 Pt. I para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-d1fffb40ba80b80d12e77366eda29359]: Commencement: Sch. 5 Pt. I para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-7d703cabc36773e5942a5df23085faaf]: Commencement: Sch. 5 Pt. I para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-7d703cabc36773e5942a5df23085faaf]: Commencement: Sch. 5 Pt. I para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-c67c5675505c9daa9cf192cccfeb9f5b]: Commencement: Sch. 5 Pt. I para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c67c5675505c9daa9cf192cccfeb9f5b]: Commencement: Sch. 5 Pt. I para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
-[^key-9a7255a933cad452684f40783aee788a]: Commencement: Sch. 5 Pt. II in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-9a7255a933cad452684f40783aee788a]: Commencement: Sch. 5 Pt. II in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

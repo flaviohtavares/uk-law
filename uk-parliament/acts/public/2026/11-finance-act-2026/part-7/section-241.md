@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Assessment of financial penalties[^M_I_42af5c64-0d41-44c7-dcfd-2a6cfb26e399][^key-06a5f3d762d8f035c466ac34b5bb1349][^key-83f6b82cc439f1747db066b25a05d21d]
+## 241. Assessment of financial penalties[^M_I_42af5c64-0d41-44c7-dcfd-2a6cfb26e399][^c-06a5f3d762d8f035c466ac34b5bb1349][^c-83f6b82cc439f1747db066b25a05d21d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^M_I_42af5c64-0d41-44c7-dcfd-2a6cfb26e399]: Commencement: S. 241 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-06a5f3d762d8f035c466ac34b5bb1349]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-06a5f3d762d8f035c466ac34b5bb1349]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-83f6b82cc439f1747db066b25a05d21d]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-83f6b82cc439f1747db066b25a05d21d]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2026/11/section/241) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

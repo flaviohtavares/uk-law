@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Provision of information relating to being a victim of slavery or human trafficking[^key-b934190d7dcb6d9c25cc3f3d30bc58d0]
+## 58. Provision of information relating to being a victim of slavery or human trafficking[^c-b934190d7dcb6d9c25cc3f3d30bc58d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b934190d7dcb6d9c25cc3f3d30bc58d0]: Commencement: S. 58 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-b934190d7dcb6d9c25cc3f3d30bc58d0]: Commencement: S. 58 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

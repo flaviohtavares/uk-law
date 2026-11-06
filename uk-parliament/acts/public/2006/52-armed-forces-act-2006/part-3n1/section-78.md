@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Places in which powers under sections 75 and 76 may be exercised[^key-cb6640b021e79d0a03b4a5ba920ff413][^key-19b4baee18e23d8cff4e5a4530b49b14]
+## 78. Places in which powers under sections 75 and 76 may be exercised[^c-cb6640b021e79d0a03b4a5ba920ff413][^c-19b4baee18e23d8cff4e5a4530b49b14]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The powers conferred by sections 75 and 76 may be exercised only in—
 
 ## Annotations
 
-[^key-cb6640b021e79d0a03b4a5ba920ff413]: Commencement: S. 78 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-cb6640b021e79d0a03b4a5ba920ff413]: Commencement: S. 78 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-19b4baee18e23d8cff4e5a4530b49b14]: Commencement: S. 78 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-19b4baee18e23d8cff4e5a4530b49b14]: Commencement: S. 78 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

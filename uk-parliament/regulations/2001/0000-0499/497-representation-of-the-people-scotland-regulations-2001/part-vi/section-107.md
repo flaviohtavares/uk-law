@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Supply of full register etc, to certain candidates and restrictions on use[^key-479ea397546d3e87432d5dd7db76dcd8]
+## 107. Supply of full register etc, to certain candidates and restrictions on use[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
 (1) This regulation applies to a candidate at–
 
-- (a) a parliamentary [^key-142151b385e0940c08841a344180f491]... election, and
+- (a) a parliamentary [^c-142151b385e0940c08841a344180f491]... election, and
 - (b) a local government election,
 
 where any part of the area in respect of which the candidate stands for election includes the whole or part of a registration area.
 
-(2)[^key-8b5c9978f7af1174622a686853691382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8b5c9978f7af1174622a686853691382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8b5c9978f7af1174622a686853691382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8b5c9978f7af1174622a686853691382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of regulation 101(1) above, the relevant part of the documents listed in that provision is so much of them as relates to the area for which the candidate is standing.
 
@@ -43,8 +43,8 @@ except for electoral purposes.
 
 ## Annotations
 
-[^key-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
+[^c-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
 
-[^key-142151b385e0940c08841a344180f491]: Textual amendment: Words in [reg. 107(1)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/107/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-142151b385e0940c08841a344180f491]: Textual amendment: Words in [reg. 107(1)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/107/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-8b5c9978f7af1174622a686853691382]: Textual amendment: [Reg. 107(2)(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/107/2/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-8b5c9978f7af1174622a686853691382]: Textual amendment: [Reg. 107(2)(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/107/2/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

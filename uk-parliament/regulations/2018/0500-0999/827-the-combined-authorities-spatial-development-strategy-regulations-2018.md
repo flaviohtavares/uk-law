@@ -101,7 +101,7 @@ The title of the spatial development strategy shall include the words “spatial
 
 (5) The title of the spatial development strategy shall be set out on the key diagram and on any inset diagram contained in the spatial development strategy and the key diagram and any inset diagram shall include an explanation of any symbol or notation used in the diagram.
 
-(6) The spatial development strategy may include diagrams in addition to the key diagram and the inset diagram, which identify strategic allocations[^key-3b4c51fcf013b42bfb4efe0bd5a61cd4]; such diagrams may be on a map base.
+(6) The spatial development strategy may include diagrams in addition to the key diagram and the inset diagram, which identify strategic allocations[^c-3b4c51fcf013b42bfb4efe0bd5a61cd4]; such diagrams may be on a map base.
 
 ### 6. Regard to be had to certain matters and statement of regard
 
@@ -241,13 +241,13 @@ of the GLA Act.
 
 (2) The combined authority shall continue to make printed copies of the spatial development strategy available for public inspection and purchase under paragraph (1) until the spatial development strategy is altered or replaced.
 
-## PART 4 — CORONAVIRUS: TEMPORARY MODIFICATIONS[^key-6a47dd164c224cc62746f30b6cbd20d6]
+## PART 4 — CORONAVIRUS: TEMPORARY MODIFICATIONS[^c-6a47dd164c224cc62746f30b6cbd20d6]
 
 ### 13. Introduction and interpretation
 
 (1) During the relevant period, Parts 2 and 3 of these Regulations have effect subject to the modifications in regulations 14 to 16.
 
-(2) In this Part, “the relevant period” means the period beginning with 12th August 2020 and ending with 31st December 2021[^key-d4dcd221644fe5dc0c4158d53b531b74].
+(2) In this Part, “the relevant period” means the period beginning with 12th August 2020 and ending with 31st December 2021[^c-d4dcd221644fe5dc0c4158d53b531b74].
 
 ### 14. Modification of regulation 7
 
@@ -365,7 +365,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c23332061]: Marginal citation: The combined authority was established by the [West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126).
 
-[^key-3b4c51fcf013b42bfb4efe0bd5a61cd4]: Textual amendment: Word in reg. 5(6) substituted (30.8.2018) by [The Combined Authorities (Spatial Development Strategy) (Amendment) Regulations 2018 (S.I. 2018/924)](https://www.legislation.gov.uk/uksi/2018/924), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/924/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/924/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/924/regulation/1/2))
+[^c-3b4c51fcf013b42bfb4efe0bd5a61cd4]: Textual amendment: Word in reg. 5(6) substituted (30.8.2018) by [The Combined Authorities (Spatial Development Strategy) (Amendment) Regulations 2018 (S.I. 2018/924)](https://www.legislation.gov.uk/uksi/2018/924), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/924/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/924/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/924/regulation/1/2))
 
 [^c23332071]: Marginal citation: Section 342(1)(a) was substituted by the Planning and Compulsory Purchase Act 2004 section 118(2) and Schedule 7, paragraphs 22(1) and (3), and subsequently amended by the Local Democracy, Economic Development and Construction Act 2009, section 85(1) and Schedule 5, paragraphs 9 and 10. Section 342(1) is also modified by S.I 2016/1267, S.I 2017/430 and S.I 2017/126.
 
@@ -375,6 +375,6 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c23332101]: Marginal citation: Section 335(3) of the GLA Act was amended by the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s 228(2)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/c) and also modified by S.I 2016/1267, S.I 2017/430 and S.I 2017/126.
 
-[^key-6a47dd164c224cc62746f30b6cbd20d6]: Textual amendment: Pt. 4 inserted (12.8.2020) by [The Town and Country Planning (Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/765)](https://www.legislation.gov.uk/uksi/2020/765), [regs. 1](https://www.legislation.gov.uk/uksi/2020/765/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/765/regulation/3)
+[^c-6a47dd164c224cc62746f30b6cbd20d6]: Textual amendment: Pt. 4 inserted (12.8.2020) by [The Town and Country Planning (Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/765)](https://www.legislation.gov.uk/uksi/2020/765), [regs. 1](https://www.legislation.gov.uk/uksi/2020/765/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/765/regulation/3)
 
-[^key-d4dcd221644fe5dc0c4158d53b531b74]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2018/827/regulation/13/2) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1398/regulation/4)
+[^c-d4dcd221644fe5dc0c4158d53b531b74]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2018/827/regulation/13/2) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1398/regulation/4)

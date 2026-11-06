@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q12. Exercise of options under regulations Q8, Q10 and Q11[^key-aa2a412986ca69692abb9558e0be1fe9][^key-00430665ba18d864a911dfc27863655f][^key-4a5c18c82daf5105f62265fd45b35ebd]
+## Q12. Exercise of options under regulations Q8, Q10 and Q11[^c-aa2a412986ca69692abb9558e0be1fe9][^c-00430665ba18d864a911dfc27863655f][^c-4a5c18c82daf5105f62265fd45b35ebd]
 
 *Extent: E+W+S*
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]
+[^c-aa2a412986ca69692abb9558e0be1fe9]
 
 (1) A member exercising an option under regulation Q8 or Q10 must do so by giving notice in writing to the employing authority, giving such information as may be required.
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
+[^c-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
 
-[^key-00430665ba18d864a911dfc27863655f]: Modification: [Regs. Q8-Q15](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/a)
+[^c-00430665ba18d864a911dfc27863655f]: Modification: [Regs. Q8-Q15](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/a)
 
-[^key-4a5c18c82daf5105f62265fd45b35ebd]: Textual amendment: [Regs. Q8-Q17](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2008/654/regulation/51)
+[^c-4a5c18c82daf5105f62265fd45b35ebd]: Textual amendment: [Regs. Q8-Q17](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2008/654/regulation/51)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137A. Car with a CO<sub>2</sub> emissions figure: bi-fuel cars registered on or after IP completion day[^key-d7164c2b280ddfad67f449b9b9e31618]
+## 137A. Car with a CO<sub>2</sub> emissions figure: bi-fuel cars registered on or after IP completion day[^c-d7164c2b280ddfad67f449b9b9e31618]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7164c2b280ddfad67f449b9b9e31618]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/2003/1/section/137A) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 18 para. 5(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/18/paragraph/5/2)
+[^c-d7164c2b280ddfad67f449b9b9e31618]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/2003/1/section/137A) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 18 para. 5(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/18/paragraph/5/2)

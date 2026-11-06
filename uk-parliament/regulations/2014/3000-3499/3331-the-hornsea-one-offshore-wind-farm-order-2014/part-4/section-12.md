@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Discharge of water[^key-bb878c94ba1688b0d870463daffe2f28]
+## 12. Discharge of water[^c-bb878c94ba1688b0d870463daffe2f28]
 
 *Extent: E+W+S*
 
@@ -35,23 +35,23 @@ summary: ''
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-bedff95e98b42838dc23694df58ac6ae].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-bedff95e98b42838dc23694df58ac6ae].
 
 (8) If a person who receives an application for consent or approval fails to notify the undertaker of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under paragraph (4)(a) that person is deemed to have granted consent or given approval, as the case may be.
 
 (9) In this article—
 
 - (a) “public sewer or drain” means a sewer or drain which belongs to the Environment Agency, a harbour authority within the meaning of section 57 of the Harbours Act 1964[^f00016] (interpretation), an internal drainage board, a local authority, or a sewerage undertaker; and
-- (b) other expressions, excluding “watercourse”, used both in this article and in the Environmental Permitting (England and Wales) Regulations 2016[^key-67b4885c5b6eabf27bd4e7502acdfaa5] have the same meaning as in those regulations.
+- (b) other expressions, excluding “watercourse”, used both in this article and in the Environmental Permitting (England and Wales) Regulations 2016[^c-67b4885c5b6eabf27bd4e7502acdfaa5] have the same meaning as in those regulations.
 
 ## Annotations
 
-[^key-bb878c94ba1688b0d870463daffe2f28]: Commencement: Art. 12 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-bb878c94ba1688b0d870463daffe2f28]: Commencement: Art. 12 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
 [^f00014]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36(2) and 99 of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
 
-[^key-bedff95e98b42838dc23694df58ac6ae]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2014/3331/article/12/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 78(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/78/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-bedff95e98b42838dc23694df58ac6ae]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2014/3331/article/12/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 78(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/78/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00016]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40). Paragraph 9B was inserted into Schedule 2 by the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), section 63(1) and Schedule 3, paragraph 9(1) and (5). There are other amendments to the 1964 Act which are not relevant to this Order.
 
-[^key-67b4885c5b6eabf27bd4e7502acdfaa5]: Textual amendment: Words in [art. 12(9)(b)](https://www.legislation.gov.uk/uksi/2014/3331/article/12/9/b) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 78(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/78/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-67b4885c5b6eabf27bd4e7502acdfaa5]: Textual amendment: Words in [art. 12(9)(b)](https://www.legislation.gov.uk/uksi/2014/3331/article/12/9/b) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 78(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/78/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

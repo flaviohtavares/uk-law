@@ -24,45 +24,45 @@ Section 169
 
 ### Part 1 — Introductory
 
-**1.**[^key-56258c85d4cb60ed85cddbc0b15e5861] Part 6 of the Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) (assessment of plans and projects) is amended as set out in this Schedule.
+**1.**[^c-56258c85d4cb60ed85cddbc0b15e5861] Part 6 of the Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) (assessment of plans and projects) is amended as set out in this Schedule.
 
 ### Part 2 — Planning
 
-**2.**[^key-39fa12825e765cce4eb2e13b5798eb8d] Chapter 2 of Part 6 of those Regulations (assessment of plans and projects: planning) is amended as follows.
+**2.**[^c-39fa12825e765cce4eb2e13b5798eb8d] Chapter 2 of Part 6 of those Regulations (assessment of plans and projects: planning) is amended as follows.
 
-**3.**[^key-6702176a92cf25c80ec758022df2bae5] In regulation 70 (grant of planning permission), after paragraph (4) insert—
+**3.**[^c-6702176a92cf25c80ec758022df2bae5] In regulation 70 (grant of planning permission), after paragraph (4) insert—
 
 > (5) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**4.**[^key-49324c03ff2ddcd073687ed20ff812a8] In regulation 71 (planning permission: duty to review), after paragraph (9) insert—
+**4.**[^c-49324c03ff2ddcd073687ed20ff812a8] In regulation 71 (planning permission: duty to review), after paragraph (9) insert—
 
 > (10) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**5.**[^key-d6561cee69dc4675e8156f3cb3c3893d] In regulation 77 (general development orders: approval of local planning authority), after paragraph (7) insert—
+**5.**[^c-d6561cee69dc4675e8156f3cb3c3893d] In regulation 77 (general development orders: approval of local planning authority), after paragraph (7) insert—
 
 > (8) See regulation 85B for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**6.**[^key-36bd63a3e5bd245a0af9bfd3cd448386] In regulation 79 (special development orders), after paragraph (5) insert—
+**6.**[^c-36bd63a3e5bd245a0af9bfd3cd448386] In regulation 79 (special development orders), after paragraph (5) insert—
 
 > (6) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**7.**[^key-d3248bbf23dcc794e95a9e369e3525fa] In regulation 80 (local development orders), after paragraph (5) insert—
+**7.**[^c-d3248bbf23dcc794e95a9e369e3525fa] In regulation 80 (local development orders), after paragraph (5) insert—
 
 > (6) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**8.**[^key-cd6b75c5558492db68e181c618133c3a] In regulation 81 (neighbourhood development orders), after paragraph (5) insert—
+**8.**[^c-cd6b75c5558492db68e181c618133c3a] In regulation 81 (neighbourhood development orders), after paragraph (5) insert—
 
 > (5A) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**9.**[^key-46ba56c5ae2a6ebbdbb38e7aa1b990a1] In regulation 82 (simplified planning zones), after paragraph (6) insert—
+**9.**[^c-46ba56c5ae2a6ebbdbb38e7aa1b990a1] In regulation 82 (simplified planning zones), after paragraph (6) insert—
 
 > (7) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**10.**[^key-faec313f486193441ecb0542b23526b6] In regulation 83 (enterprise zones), after paragraph (6) insert—
+**10.**[^c-faec313f486193441ecb0542b23526b6] In regulation 83 (enterprise zones), after paragraph (6) insert—
 
 > (7) See regulation 85A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**11.**[^key-dd06e4db2fd4cdff9b67a36a81ceda16] After regulation 85 insert—
+**11.**[^c-dd06e4db2fd4cdff9b67a36a81ceda16] After regulation 85 insert—
 
 > **85A. Assumptions to be made about nutrient pollution standards: general**
 >
@@ -243,19 +243,19 @@ Section 169
 
 ### Part 3 — Land use plans
 
-**12.**[^key-6232ae438be5907cea18f4033605abcc] Chapter 8 of Part 6 (assessment of plans and projects: land use plans) is amended as follows.
+**12.**[^c-6232ae438be5907cea18f4033605abcc] Chapter 8 of Part 6 (assessment of plans and projects: land use plans) is amended as follows.
 
-**13.**[^key-ccf2d96e857bd75f043e763bdefcf678] In regulation 105 (assessment of implications for European sites and European offshore marine sites), after paragraph (6) insert—
+**13.**[^c-ccf2d96e857bd75f043e763bdefcf678] In regulation 105 (assessment of implications for European sites and European offshore marine sites), after paragraph (6) insert—
 
 > (7) See regulation 110A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**14.**[^key-ee18f73794181c8f5726486c1df971ad] In regulation 106 (assessment of implications for European site: neighbourhood development plans), after paragraph (3) insert—
+**14.**[^c-ee18f73794181c8f5726486c1df971ad] In regulation 106 (assessment of implications for European site: neighbourhood development plans), after paragraph (3) insert—
 
 > (3A) See regulation 110A for the assumptions about nutrient pollution standards to be made in certain circumstances.
 
-**15.**[^key-a05ba704bc67adea3739c35382551a4e] In regulation 110 (national policy statements), in paragraph (3)(a), for “and 108” substitute “, 108 and 110A”.
+**15.**[^c-a05ba704bc67adea3739c35382551a4e] In regulation 110 (national policy statements), in paragraph (3)(a), for “and 108” substitute “, 108 and 110A”.
 
-**16.**[^key-219d78748e5c966778bd50c7718b5599] After regulation 110 insert—
+**16.**[^c-219d78748e5c966778bd50c7718b5599] After regulation 110 insert—
 
 > **110A. Assessments under this Chapter: required assumptions**
 >
@@ -391,34 +391,34 @@ Section 169
 
 ## Annotations
 
-[^key-56258c85d4cb60ed85cddbc0b15e5861]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/1) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-56258c85d4cb60ed85cddbc0b15e5861]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/1) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-39fa12825e765cce4eb2e13b5798eb8d]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/2) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-39fa12825e765cce4eb2e13b5798eb8d]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/2) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-6702176a92cf25c80ec758022df2bae5]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/3) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-6702176a92cf25c80ec758022df2bae5]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/3) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-49324c03ff2ddcd073687ed20ff812a8]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/4) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-49324c03ff2ddcd073687ed20ff812a8]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/4) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-d6561cee69dc4675e8156f3cb3c3893d]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/5) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-d6561cee69dc4675e8156f3cb3c3893d]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/5) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-36bd63a3e5bd245a0af9bfd3cd448386]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/6) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-36bd63a3e5bd245a0af9bfd3cd448386]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/6) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-d3248bbf23dcc794e95a9e369e3525fa]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/7) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-d3248bbf23dcc794e95a9e369e3525fa]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/7) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-cd6b75c5558492db68e181c618133c3a]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/8) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-cd6b75c5558492db68e181c618133c3a]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/8) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-46ba56c5ae2a6ebbdbb38e7aa1b990a1]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/9) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-46ba56c5ae2a6ebbdbb38e7aa1b990a1]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/9) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-faec313f486193441ecb0542b23526b6]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/10) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-faec313f486193441ecb0542b23526b6]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/10) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-dd06e4db2fd4cdff9b67a36a81ceda16]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-dd06e4db2fd4cdff9b67a36a81ceda16]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-6232ae438be5907cea18f4033605abcc]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/12) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-6232ae438be5907cea18f4033605abcc]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/12) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-ccf2d96e857bd75f043e763bdefcf678]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/13) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-ccf2d96e857bd75f043e763bdefcf678]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/13) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-ee18f73794181c8f5726486c1df971ad]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/14) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-ee18f73794181c8f5726486c1df971ad]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/14) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-a05ba704bc67adea3739c35382551a4e]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/15) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-a05ba704bc67adea3739c35382551a4e]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/15) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
 
-[^key-219d78748e5c966778bd50c7718b5599]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/16) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-219d78748e5c966778bd50c7718b5599]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/16) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)

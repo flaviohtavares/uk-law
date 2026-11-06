@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Pension administration strategy[^key-72a684c10c0a347d481f2f82e79a8cee]
+## 65. Pension administration strategy[^c-72a684c10c0a347d481f2f82e79a8cee]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72a684c10c0a347d481f2f82e79a8cee]: Commencement: Reg. 65 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-72a684c10c0a347d481f2f82e79a8cee]: Commencement: Reg. 65 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

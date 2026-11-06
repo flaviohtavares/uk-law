@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Drivers’ Hours and Tachographs (Temporary Exceptions) (No. 4) Regulations 2021 (revoked)[^key-557af2f45523bc2d08b7163a17cca38f]
+The Drivers’ Hours and Tachographs (Temporary Exceptions) (No. 4) Regulations 2021 (revoked)[^c-557af2f45523bc2d08b7163a17cca38f]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st November 2021
 
-[^key-557af2f45523bc2d08b7163a17cca38f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-557af2f45523bc2d08b7163a17cca38f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-557af2f45523bc2d08b7163a17cca38f]
+## 1. Citation, commencement, extent and interpretation[^c-557af2f45523bc2d08b7163a17cca38f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of temporary exceptions[^key-557af2f45523bc2d08b7163a17cca38f]
+## 2. Application of temporary exceptions[^c-557af2f45523bc2d08b7163a17cca38f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Temporary exception to daily driving time[^key-557af2f45523bc2d08b7163a17cca38f]
+## 3. Temporary exception to daily driving time[^c-557af2f45523bc2d08b7163a17cca38f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Temporary exceptions to weekly driving time and rest periods[^key-557af2f45523bc2d08b7163a17cca38f]
+## 4. Temporary exceptions to weekly driving time and rest periods[^c-557af2f45523bc2d08b7163a17cca38f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Sunsetting of these Regulations[^key-557af2f45523bc2d08b7163a17cca38f]
+## 5. Sunsetting of these Regulations[^c-557af2f45523bc2d08b7163a17cca38f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-557af2f45523bc2d08b7163a17cca38f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-557af2f45523bc2d08b7163a17cca38f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-557af2f45523bc2d08b7163a17cca38f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-557af2f45523bc2d08b7163a17cca38f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-557af2f45523bc2d08b7163a17cca38f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1207) cease to have effect (10.1.2022) by virtue of [The Drivers’ Hours and Tachographs (Temporary Exceptions) (No. 4) Regulations 2021 (S.I. 2021/1207)](https://www.legislation.gov.uk/uksi/2021/1207), [reg. 5](https://www.legislation.gov.uk/uksi/2021/1207/regulation/5)
+[^c-557af2f45523bc2d08b7163a17cca38f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1207) cease to have effect (10.1.2022) by virtue of [The Drivers’ Hours and Tachographs (Temporary Exceptions) (No. 4) Regulations 2021 (S.I. 2021/1207)](https://www.legislation.gov.uk/uksi/2021/1207), [reg. 5](https://www.legislation.gov.uk/uksi/2021/1207/regulation/5)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subject to subsection (3) below, all liabilities of the Greater London Council or a metropolitan county council in respect of pensions payable by it otherwise than under such regulations as aforesaid shall on the abolition date become liabilities of the appropriate residuary body.
 
-(3) Subsection (2) above does not apply to liabilities which by virtue of any provisions made under this Act become liabilities of a police or fire and rescue authority[^key-8ad8f98a7b38f2d8ea15428364867b69] established by Part IV of this Act.
+(3) Subsection (2) above does not apply to liabilities which by virtue of any provisions made under this Act become liabilities of a police or fire and rescue authority[^c-8ad8f98a7b38f2d8ea15428364867b69] established by Part IV of this Act.
 
 (4) Any pension granted on or after the abolition date under paragraph 2 of Schedule 1 to the Coroners Act 1988[^c3164331] by a metropolitan district council shall be paid by the appropriate residuary body but the sums required for paying the pension shall be reimbursed to that body—
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c3164321]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-8ad8f98a7b38f2d8ea15428364867b69]: Textual amendment: Words in s. 60(3) substituted (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/60); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-8ad8f98a7b38f2d8ea15428364867b69]: Textual amendment: Words in s. 60(3) substituted (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/60); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
 [^c3164331]: Textual amendment: Words substituted by [Coroners Act 1988 (c.13, SIF 33)](https://www.legislation.gov.uk/ukpga/1988/13), [ss. 33](https://www.legislation.gov.uk/ukpga/1988/13/section/33), [36(1)](https://www.legislation.gov.uk/ukpga/1988/13/section/36/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1988/13/schedule/3/paragraph/18)
 

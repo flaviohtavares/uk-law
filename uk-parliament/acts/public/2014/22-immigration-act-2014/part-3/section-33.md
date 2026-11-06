@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Discrimination[^key-e404d68d330285942110e9d97cd2cb9a]
+## 33. Discrimination[^c-e404d68d330285942110e9d97cd2cb9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e404d68d330285942110e9d97cd2cb9a]: Commencement: S. 33 in force at 1.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/7/b)
+[^c-e404d68d330285942110e9d97cd2cb9a]: Commencement: S. 33 in force at 1.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/7/b)

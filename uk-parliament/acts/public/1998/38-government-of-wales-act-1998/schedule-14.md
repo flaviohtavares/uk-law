@@ -28,13 +28,13 @@ Section 128.
 
 **1.** The [^c12405571]Welsh Development Agency Act 1975 has effect subject to the following amendments.
 
-#### ...[^key-d6818dea187d1ddb31d3252b6ffa8bb8]
+#### ...[^c-d6818dea187d1ddb31d3252b6ffa8bb8]
 
-**2.**[^key-d6818dea187d1ddb31d3252b6ffa8bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d6818dea187d1ddb31d3252b6ffa8bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-d6818dea187d1ddb31d3252b6ffa8bb8]
+#### ...[^c-d6818dea187d1ddb31d3252b6ffa8bb8]
 
-**3.**[^key-d6818dea187d1ddb31d3252b6ffa8bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d6818dea187d1ddb31d3252b6ffa8bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Use of agents
 
@@ -45,21 +45,21 @@ Section 128.
 
 #### Functions relating to industry
 
-**5.**[^key-10d5bcb67a18ec6a8c2b704a3d6cb093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-10d5bcb67a18ec6a8c2b704a3d6cb093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In section 10 (power of Secretary of State to authorise Agency to provide services etc. for development of industry), for “industry” substitute “ businesses ”.
 
-#### ...[^key-dff3a9e0548574f2feaead19ae198351]
+#### ...[^c-dff3a9e0548574f2feaead19ae198351]
 
-**7.**[^key-dff3a9e0548574f2feaead19ae198351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-dff3a9e0548574f2feaead19ae198351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-dff3a9e0548574f2feaead19ae198351]
+#### ...[^c-dff3a9e0548574f2feaead19ae198351]
 
-**8.**[^key-dff3a9e0548574f2feaead19ae198351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-dff3a9e0548574f2feaead19ae198351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-dff3a9e0548574f2feaead19ae198351]
+#### ...[^c-dff3a9e0548574f2feaead19ae198351]
 
-**9.**[^key-dff3a9e0548574f2feaead19ae198351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-dff3a9e0548574f2feaead19ae198351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interpretation of the 1975 Act
 
@@ -94,7 +94,7 @@ Section 128.
 - (a) after “order” insert “ or regulations ”, and
 - (b) for “other than section 22,” substitute “ , other than a compulsory purchase order or an order under paragraph 11(5) or 13(6) of Schedule 4, ”.
 
-(3)[^key-e8b275f924c59bb9aeee232428be2502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e8b275f924c59bb9aeee232428be2502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After subsection (2) insert—
 
@@ -105,29 +105,29 @@ Section 128.
 
 (5) In the sidenote, after “Orders” insert “ and regulations ”.
 
-#### ...[^key-89b29ae5373b7175c3c4a689ca4212a9]
+#### ...[^c-89b29ae5373b7175c3c4a689ca4212a9]
 
-**12.**[^key-89b29ae5373b7175c3c4a689ca4212a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-89b29ae5373b7175c3c4a689ca4212a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Amendments of other enactments
 
-#### ...[^key-aa0d7a1d8e3455e9f6739df13bbd9cdc]
+#### ...[^c-aa0d7a1d8e3455e9f6739df13bbd9cdc]
 
-**13.**[^key-aa0d7a1d8e3455e9f6739df13bbd9cdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-aa0d7a1d8e3455e9f6739df13bbd9cdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-aa0d7a1d8e3455e9f6739df13bbd9cdc]
+#### ...[^c-aa0d7a1d8e3455e9f6739df13bbd9cdc]
 
-**14.**[^key-328cfd9757478128ae9e0e883c76c34e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-328cfd9757478128ae9e0e883c76c34e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-96187e78430bd22414e0ec23218f8a16]
+#### ...[^c-96187e78430bd22414e0ec23218f8a16]
 
-**15.**[^key-96187e78430bd22414e0ec23218f8a16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-96187e78430bd22414e0ec23218f8a16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Acquisition of Land Act 1981 (c.67)
 
 **16.** The Acquisition of Land Act 1981 has effect subject to the following amendments.
 
-**17.**[^key-5984c32d1d88cce2a6f6f188b8a28d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-5984c32d1d88cce2a6f6f188b8a28d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** In section 28 (provisions about the acquisition of rights by the creation of new rights to which Schedule 3 of the Act applies), before paragraph (b) insert—
 
@@ -143,7 +143,7 @@ Section 128.
 
 .
 
-**20.**[^key-9adc2da520f2146354a799055ff0d09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-9adc2da520f2146354a799055ff0d09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -151,28 +151,28 @@ Section 128.
 
 [^c12405571]: Marginal citation: [1975 c. 70](https://www.legislation.gov.uk/ukpga/1975/70).
 
-[^key-d6818dea187d1ddb31d3252b6ffa8bb8]: Textual amendment: [Sch. 14 paras. 2](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/2), [3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/3) and cross-headings omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/i)
+[^c-d6818dea187d1ddb31d3252b6ffa8bb8]: Textual amendment: [Sch. 14 paras. 2](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/2), [3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/3) and cross-headings omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/i)
 
-[^key-10d5bcb67a18ec6a8c2b704a3d6cb093]: Textual amendment: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/5) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/ii)
+[^c-10d5bcb67a18ec6a8c2b704a3d6cb093]: Textual amendment: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/5) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/ii)
 
-[^key-dff3a9e0548574f2feaead19ae198351]: Textual amendment: [Sch. 14 paras. 7, 9 and cross-headings](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/I/crossheading/service-of-documents) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(iii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/iii)
+[^c-dff3a9e0548574f2feaead19ae198351]: Textual amendment: [Sch. 14 paras. 7, 9 and cross-headings](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/I/crossheading/service-of-documents) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(iii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/iii)
 
 [^c12405591]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-e8b275f924c59bb9aeee232428be2502]: Textual amendment: [Sch. 14 para. 11(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/11/3) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(iv)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/iv)
+[^c-e8b275f924c59bb9aeee232428be2502]: Textual amendment: [Sch. 14 para. 11(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/11/3) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(iv)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/iv)
 
-[^key-89b29ae5373b7175c3c4a689ca4212a9]: Textual amendment: [Sch. 14 para. 12 and cross-heading](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/I/crossheading/agency-staff-and-transactions) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(v)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/v)
+[^c-89b29ae5373b7175c3c4a689ca4212a9]: Textual amendment: [Sch. 14 para. 12 and cross-heading](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/I/crossheading/agency-staff-and-transactions) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(a)(v)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/a/v)
 
-[^key-aa0d7a1d8e3455e9f6739df13bbd9cdc]: Textual amendment: [Sch. 14 para. 13 and cross-headings](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/II/crossheading/the-public-bodies-admission-to-meetings-act-1960-c67) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(b)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/b/i)
+[^c-aa0d7a1d8e3455e9f6739df13bbd9cdc]: Textual amendment: [Sch. 14 para. 13 and cross-headings](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/II/crossheading/the-public-bodies-admission-to-meetings-act-1960-c67) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(b)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/b/i)
 
-[^key-328cfd9757478128ae9e0e883c76c34e]: Textual amendment: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/14) repealed (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(d)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/d), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
+[^c-328cfd9757478128ae9e0e883c76c34e]: Textual amendment: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/14) repealed (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(d)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/d), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
 
-[^key-96187e78430bd22414e0ec23218f8a16]: Textual amendment: [Sch. 14 para. 15 and cross-heading](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/II/crossheading/the-development-of-rural-wales-act-1976-c75) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/4)
+[^c-96187e78430bd22414e0ec23218f8a16]: Textual amendment: [Sch. 14 para. 15 and cross-heading](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/II/crossheading/the-development-of-rural-wales-act-1976-c75) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/4)
 
-[^key-5984c32d1d88cce2a6f6f188b8a28d35]: Textual amendment: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/17) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(b)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/b/ii)
+[^c-5984c32d1d88cce2a6f6f188b8a28d35]: Textual amendment: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/17) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(b)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/b/ii)
 
 [^c12405631]: Marginal citation: [1975 c. 70](https://www.legislation.gov.uk/ukpga/1975/70).
 
 [^c12405641]: Marginal citation: [1975 c. 70](https://www.legislation.gov.uk/ukpga/1975/70).
 
-[^key-9adc2da520f2146354a799055ff0d09e]: Textual amendment: [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/20) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(b)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/b/ii)
+[^c-9adc2da520f2146354a799055ff0d09e]: Textual amendment: [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/paragraph/20) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 49(b)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/49/b/ii)

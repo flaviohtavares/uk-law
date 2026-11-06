@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Reference by councils or integration joint boards[^key-6e36ad5a66288b1a848a801a18366163]
+## 82. Reference by councils or integration joint boards[^c-6e36ad5a66288b1a848a801a18366163]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e36ad5a66288b1a848a801a18366163]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2020/13/section/82) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-6e36ad5a66288b1a848a801a18366163]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2020/13/section/82) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

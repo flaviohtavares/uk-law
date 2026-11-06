@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116A. Excess loss allocation to partners who are individuals[^key-7e15ea451344f62c1d260f5969125645]
+## 116A. Excess loss allocation to partners who are individuals[^c-7e15ea451344f62c1d260f5969125645]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e15ea451344f62c1d260f5969125645]: Textual amendment: S. 116A and cross-heading inserted (with effect in accordance with Sch. 17 para. 14 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/8/2)
+[^c-7e15ea451344f62c1d260f5969125645]: Textual amendment: S. 116A and cross-heading inserted (with effect in accordance with Sch. 17 para. 14 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/8/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107A. Information sharing between the Chief Inspector and independent inspectorates[^key-2f14fbffaf944d77351d687f0169cac6]
+## 107A. Information sharing between the Chief Inspector and independent inspectorates[^c-2f14fbffaf944d77351d687f0169cac6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f14fbffaf944d77351d687f0169cac6]: Textual amendment: S. 107A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 51(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/51/4), [78(2)(e)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/e)
+[^c-2f14fbffaf944d77351d687f0169cac6]: Textual amendment: S. 107A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 51(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/51/4), [78(2)(e)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/e)

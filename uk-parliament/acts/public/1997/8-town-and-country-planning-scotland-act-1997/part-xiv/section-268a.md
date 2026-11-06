@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 268A. Promotion and use of mediation etc.[^key-4c2fef0b681e26b41012c6588b5d0d65]
+## 268A. Promotion and use of mediation etc.[^c-4c2fef0b681e26b41012c6588b5d0d65]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c2fef0b681e26b41012c6588b5d0d65]: Textual amendment: [S. 268A](https://www.legislation.gov.uk/ukpga/1997/8/section/268A) and cross-heading inserted (17.7.2021) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 40(2)](https://www.legislation.gov.uk/asp/2019/13/section/40/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2021/244](https://www.legislation.gov.uk/ssi/2021/244), [reg. 2](https://www.legislation.gov.uk/ssi/2021/244/regulation/2)
+[^c-4c2fef0b681e26b41012c6588b5d0d65]: Textual amendment: [S. 268A](https://www.legislation.gov.uk/ukpga/1997/8/section/268A) and cross-heading inserted (17.7.2021) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 40(2)](https://www.legislation.gov.uk/asp/2019/13/section/40/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2021/244](https://www.legislation.gov.uk/ssi/2021/244), [reg. 2](https://www.legislation.gov.uk/ssi/2021/244/regulation/2)

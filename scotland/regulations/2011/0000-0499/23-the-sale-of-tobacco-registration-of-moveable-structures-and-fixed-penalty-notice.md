@@ -44,24 +44,24 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 40(4) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-9217ac361f657e0528d38cefa7ddac4d]
+## 1. Citation, commencement and interpretation[^c-9217ac361f657e0528d38cefa7ddac4d]
 
 (1) These Regulations may be cited as the Sale of Tobacco (Registration of Moveable Structures and Fixed Penalty Notices) (Scotland) Regulations 2011 and come into force on 1st April 2011.
 
 (2) In these Regulations—
 
 - “the Act” means the Tobacco and Primary Medical Services (Scotland) Act 2010;
-- “moveable premises” means premises consisting of a vehicle or other moveable structure from which the applicant proposes to carry on a tobacco or nicotine vapour product[^key-c3068ab8a7892e2f00dabe32d8e69822] business but excluding a vessel.
+- “moveable premises” means premises consisting of a vehicle or other moveable structure from which the applicant proposes to carry on a tobacco or nicotine vapour product[^c-c3068ab8a7892e2f00dabe32d8e69822] business but excluding a vessel.
 
-## 2. Application of Chapter 2 of the Act (Register of Tobacco Retailers) to vehicles and other moveable structures (excluding vessels)[^key-f192d9b18b64cbf9a0719e5a2775460e]
+## 2. Application of Chapter 2 of the Act (Register of Tobacco Retailers) to vehicles and other moveable structures (excluding vessels)[^c-f192d9b18b64cbf9a0719e5a2775460e]
 
 If premises are moveable premises, Chapter 2 of Part 1 of the Act applies subject to the modifications in regulations 3 and 4.
 
-## 3.[^key-28af37f45026d14ff7fdd5eb7ef450f8]
+## 3.[^c-28af37f45026d14ff7fdd5eb7ef450f8]
 
 (1) For—
 
-- (a) “the addresses of all premises at which the applicant proposes to carry on a tobacco or nicotine vapour product[^key-597046539226b2295878d83c15527950] business” in section 11(2)(b) of the Act; and
+- (a) “the addresses of all premises at which the applicant proposes to carry on a tobacco or nicotine vapour product[^c-597046539226b2295878d83c15527950] business” in section 11(2)(b) of the Act; and
 - (b) “the address of the further premises at which the applicant proposes to carry on a tobacco or nicotine vapour product business” in section 11(2)(c) of the Act,
 
 substitute in accordance with paragraph (2).
@@ -89,7 +89,7 @@ substitute in accordance with paragraph (2).
 
   .
 
-## 4.[^key-da00859cfe6d7347e7fd47aede729d21]
+## 4.[^c-da00859cfe6d7347e7fd47aede729d21]
 
 The references in the Act to—
 
@@ -98,18 +98,18 @@ The references in the Act to—
 
 are to be read in accordance with the substitutions in regulation 3.
 
-## 5. Time after which a fixed penalty notice may not be given[^key-5bfdb25e286a883b6e8110b5819b6e51]
+## 5. Time after which a fixed penalty notice may not be given[^c-5bfdb25e286a883b6e8110b5819b6e51]
 
 The time prescribed for the purpose of paragraph 3 of schedule 1 to the Act is 7 days after the day on which the offence took place.
 
-## 6. Amount of fixed penalty and discounted amount for offences under sections 5 and 7 of the Act[^key-159ebeb2e8b4eaddd02848e6608487d4]
+## 6. Amount of fixed penalty and discounted amount for offences under sections 5 and 7 of the Act[^c-159ebeb2e8b4eaddd02848e6608487d4]
 
 The amount prescribed for the purposes of paragraph 4(1)(a) and (b) of schedule 1 to the Act for offences under sections 5 and 7 of the Act are respectively—
 
 - (a) £50 (fixed penalty); and
 - (b) £30 (discounted amount).
 
-## 7. Amount of fixed penalty and discounted amount for all other offences under Chapters 1 and 2 of Part 1 of the Act[^key-2031af01e026bd83616b3259fb65eda5]
+## 7. Amount of fixed penalty and discounted amount for all other offences under Chapters 1 and 2 of Part 1 of the Act[^c-2031af01e026bd83616b3259fb65eda5]
 
 (1) Subject to paragraph (2), the amounts prescribed for the purposes of paragraph 4(1)(a) and (b) of schedule 1 to the Act for offences under Chapters 1 and 2 of Part 1 of the Act other than sections 5 and 7 are respectively—
 
@@ -132,7 +132,7 @@ Edinburgh
 
 18th January 2011
 
-## SCHEDULE[^key-efc72c4df97bf11348eb5c4385fe40a6]
+## SCHEDULE[^c-efc72c4df97bf11348eb5c4385fe40a6]
 
 Regulation 7(2)
 
@@ -194,22 +194,22 @@ If the person receiving the fixed penalty notice has already had a fixed penalty
 
 [^f00001]: Footnote: [2010 asp 3](https://www.legislation.gov.uk/asp/2010/3). Section 35 of the 2010 Act contains a definition of “prescribed” which is relevant to the making of these Regulations.
 
-[^key-9217ac361f657e0528d38cefa7ddac4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/23/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-9217ac361f657e0528d38cefa7ddac4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/23/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-c3068ab8a7892e2f00dabe32d8e69822]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/2) inserted (1.4.2017) by [The Sale of Tobacco (Registration of Moveable Structures and Fixed Penalty Notices) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/70)](https://www.legislation.gov.uk/ssi/2017/70), [regs. 1](https://www.legislation.gov.uk/ssi/2017/70/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/70/regulation/2/2)
+[^c-c3068ab8a7892e2f00dabe32d8e69822]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/2) inserted (1.4.2017) by [The Sale of Tobacco (Registration of Moveable Structures and Fixed Penalty Notices) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/70)](https://www.legislation.gov.uk/ssi/2017/70), [regs. 1](https://www.legislation.gov.uk/ssi/2017/70/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/70/regulation/2/2)
 
-[^key-f192d9b18b64cbf9a0719e5a2775460e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/23/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-f192d9b18b64cbf9a0719e5a2775460e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/23/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-28af37f45026d14ff7fdd5eb7ef450f8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/23/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-28af37f45026d14ff7fdd5eb7ef450f8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/23/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-597046539226b2295878d83c15527950]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/23/regulation/3) inserted (1.4.2017) by [The Sale of Tobacco (Registration of Moveable Structures and Fixed Penalty Notices) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/70)](https://www.legislation.gov.uk/ssi/2017/70), [regs. 1](https://www.legislation.gov.uk/ssi/2017/70/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/70/regulation/2/3)
+[^c-597046539226b2295878d83c15527950]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/23/regulation/3) inserted (1.4.2017) by [The Sale of Tobacco (Registration of Moveable Structures and Fixed Penalty Notices) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/70)](https://www.legislation.gov.uk/ssi/2017/70), [regs. 1](https://www.legislation.gov.uk/ssi/2017/70/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/70/regulation/2/3)
 
-[^key-da00859cfe6d7347e7fd47aede729d21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/23/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-da00859cfe6d7347e7fd47aede729d21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/23/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-5bfdb25e286a883b6e8110b5819b6e51]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/23/regulation/5) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-5bfdb25e286a883b6e8110b5819b6e51]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/23/regulation/5) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-159ebeb2e8b4eaddd02848e6608487d4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/23/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-159ebeb2e8b4eaddd02848e6608487d4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/23/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-2031af01e026bd83616b3259fb65eda5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/23/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-2031af01e026bd83616b3259fb65eda5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/23/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
 
-[^key-efc72c4df97bf11348eb5c4385fe40a6]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/23/schedule) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)
+[^c-efc72c4df97bf11348eb5c4385fe40a6]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/23/schedule) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1)

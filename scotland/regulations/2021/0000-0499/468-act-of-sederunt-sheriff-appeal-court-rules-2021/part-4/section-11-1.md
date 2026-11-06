@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11.1. Application to remit appeal to the Court of Session[^key-1c94f179a86b2c7aa3381688d791f864]
+## 11.1. Application to remit appeal to the Court of Session[^c-1c94f179a86b2c7aa3381688d791f864]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c94f179a86b2c7aa3381688d791f864]: Commencement: Para. 11.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-1c94f179a86b2c7aa3381688d791f864]: Commencement: Para. 11.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

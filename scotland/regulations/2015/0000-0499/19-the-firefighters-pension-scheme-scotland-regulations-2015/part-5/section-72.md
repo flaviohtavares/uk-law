@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Allocation election[^key-2254f01c021c1f892f0a0a31e7ee32ab]
+## 72. Allocation election[^c-2254f01c021c1f892f0a0a31e7ee32ab]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2254f01c021c1f892f0a0a31e7ee32ab]: Commencement: [Reg. 72](https://www.legislation.gov.uk/ssi/2015/19/regulation/72) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-2254f01c021c1f892f0a0a31e7ee32ab]: Commencement: [Reg. 72](https://www.legislation.gov.uk/ssi/2015/19/regulation/72) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

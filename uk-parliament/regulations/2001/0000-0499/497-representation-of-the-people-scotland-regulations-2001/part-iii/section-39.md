@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Different letter, number or combination of letter and number for each parliamentary polling district[^key-7b09100180e09211fcbd3b32c79a2dbc]
+## 39. Different letter, number or combination of letter and number for each parliamentary polling district[^c-7b09100180e09211fcbd3b32c79a2dbc]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ There shall be a different letter or letters, number or numbers, or combination 
 
 ## Annotations
 
-[^key-7b09100180e09211fcbd3b32c79a2dbc]: Commencement: Reg. 39 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-7b09100180e09211fcbd3b32c79a2dbc]: Commencement: Reg. 39 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

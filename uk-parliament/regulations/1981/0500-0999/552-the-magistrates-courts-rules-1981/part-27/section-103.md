@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Application for substitution of conditional discharge for probation[^key-8f81a0b8b2378afd36adbb0b4828260f]
+## 103. Application for substitution of conditional discharge for probation[^c-8f81a0b8b2378afd36adbb0b4828260f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f81a0b8b2378afd36adbb0b4828260f]: Textual amendment: [Rule 103](https://www.legislation.gov.uk/uksi/1981/552/rule/103) revoked (30.9.1998) by [The Magistrates' Courts (Miscellaneous Amendments) Rules 1998 (S.I. 1998/2167)](https://www.legislation.gov.uk/uksi/1998/2167), [rules 1(2)](https://www.legislation.gov.uk/uksi/1998/2167/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/1998/2167/article/4/3)
+[^c-8f81a0b8b2378afd36adbb0b4828260f]: Textual amendment: [Rule 103](https://www.legislation.gov.uk/uksi/1981/552/rule/103) revoked (30.9.1998) by [The Magistrates' Courts (Miscellaneous Amendments) Rules 1998 (S.I. 1998/2167)](https://www.legislation.gov.uk/uksi/1998/2167), [rules 1(2)](https://www.legislation.gov.uk/uksi/1998/2167/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/1998/2167/article/4/3)

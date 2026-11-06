@@ -40,7 +40,7 @@ the member’s underlying profits are to be adjusted to exclude that gain or los
 (4) Where—
 
 - (a) the member has a gain or a loss as a result of fluctuations in the exchange rate between its tax currency and a third currency, and
-- (b) the gain[^key-291e8fa8dd8372b7b419a95290c21820] or loss is not reflected, or is reflected to a different extent, in its underlying profits,
+- (b) the gain[^c-291e8fa8dd8372b7b419a95290c21820] or loss is not reflected, or is reflected to a different extent, in its underlying profits,
 
 the member’s underlying profits are to be adjusted so that the gain or loss is fully reflected in those profits (whether or not it is reflected in its taxable income).
 
@@ -53,4 +53,4 @@ the member’s underlying profits are to be adjusted so that the gain or loss is
 
 ## Annotations
 
-[^key-291e8fa8dd8372b7b419a95290c21820]: Textual amendment: Word in [s. 144(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/144/4/b) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 42](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/42), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-291e8fa8dd8372b7b419a95290c21820]: Textual amendment: Word in [s. 144(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/144/4/b) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 42](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/42), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

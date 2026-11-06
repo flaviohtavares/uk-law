@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 372. Making a parenting order[^key-a16d607bf338a4278373fec9846008d6]
+## 372. Making a parenting order[^c-a16d607bf338a4278373fec9846008d6]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a16d607bf338a4278373fec9846008d6]: Commencement: [S. 372](https://www.legislation.gov.uk/ukpga/2020/17/section/372) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a16d607bf338a4278373fec9846008d6]: Commencement: [S. 372](https://www.legislation.gov.uk/ukpga/2020/17/section/372) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

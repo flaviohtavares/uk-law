@@ -39,7 +39,7 @@ Coming into force in accordance with regulation 1(1)
 
 The National Assembly for Wales (“the National Assembly”), in exercise of the powers conferred on the Secretary of State by sections 53(1), (2), (4), (4A) and (5), 64(3), 65(4) and 143(1) and (2) of the Local Government Finance Act 1988[^f00001], and now exercisable by the National Assembly in relation to Wales, hereby make the following Regulations:
 
-## 1. Name, commencement and application[^key-7ce4f268915ff8093a1d50b2b0d452a3]
+## 1. Name, commencement and application[^c-7ce4f268915ff8093a1d50b2b0d452a3]
 
 (1) These Regulations are called the Central Rating (Wales) Regulations 2005 and come into force on —
 
@@ -48,7 +48,7 @@ The National Assembly for Wales (“the National Assembly”), in exercise of th
 
 (2) These Regulations apply only in relation to Wales.
 
-## 2. Interpretation[^key-bd078491bf96c70d92c26b0a29f97d26]
+## 2. Interpretation[^c-bd078491bf96c70d92c26b0a29f97d26]
 
 (1) In these Regulations, except in regulation 17 —
 
@@ -65,27 +65,27 @@ The National Assembly for Wales (“the National Assembly”), in exercise of th
 - (c) a designated person by name is , unless the context otherwise requires, a reference to the company or body registered by or bearing that name on 1 October 2004; and
 - (d) hereditaments used for any purpose includes a reference to hereditaments which are unused but in relation to which it appears that when next in use they will be used for such a purpose.
 
-## 3. Effect[^key-bcc661f3359f6dffcd6020f98932085e]
+## 3. Effect[^c-bcc661f3359f6dffcd6020f98932085e]
 
 Except for regulation 17, these Regulations will have effect in relation to a central list compiled on or after 1 April 2005.
 
-## 4. Designation of persons and description of hereditaments[^key-c08727458a78934f02b1039718228ddf]
+## 4. Designation of persons and description of hereditaments[^c-c08727458a78934f02b1039718228ddf]
 
 (1) For the purposes of section 53(1) of the Act—
 
 - (a) there are designated the persons named in the Schedule; and
 - (b) there is prescribed in relation to each such person the description of hereditament set out opposite the name of that person in the Schedule.
 
-(2) Regulation 4 of the Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017 (cross-boundary property in Wales)[^key-6b6ac4ecfb3c85045b67e9a536e609df] will not apply to any hereditament falling within any description in the Schedule.
+(2) Regulation 4 of the Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017 (cross-boundary property in Wales)[^c-6b6ac4ecfb3c85045b67e9a536e609df] will not apply to any hereditament falling within any description in the Schedule.
 
-## 5. Content of central rating lists-names and hereditaments[^key-f7baa963eacaf9f0f1813c1d68b619c2]
+## 5. Content of central rating lists-names and hereditaments[^c-f7baa963eacaf9f0f1813c1d68b619c2]
 
 A central list must show, for each day in each year for which that list is in force—
 
 - (a) the name of each person designated by regulation 4; and
 - (b) against each name, each hereditament situated in Wales which on the day concerned is occupied (or, if unoccupied, owned) by that person, and which falls within the description prescribed in relation to that person by that regulation.
 
-## 6. Content of central rating lists-other information[^key-7893586aed0e1bdc8405c38e9654cd99]
+## 6. Content of central rating lists-other information[^c-7893586aed0e1bdc8405c38e9654cd99]
 
 (1) A central list must also show, against the name of each designated person—
 
@@ -95,7 +95,7 @@ A central list must show, for each day in each year for which that list is in fo
 
 (2) A central list must also show, where the list has been altered in pursuance of a direction by a tribunal, the name of the tribunal which gave the direction.
 
-## 7. Railway hereditaments[^key-d29d280de1eaf961f3112e3ad9570df3]
+## 7. Railway hereditaments[^c-d29d280de1eaf961f3112e3ad9570df3]
 
 (1) Where Network Rail Infrastructure Limited, which is a designated person by virtue of being listed in Part 1 of the Schedule—
 
@@ -113,7 +113,7 @@ A central list must show, for each day in each year for which that list is in fo
 
 (3) In this regulation—
 
-- [^key-13c06272483aca47fe0c1c95ca34a17c]...
+- [^c-13c06272483aca47fe0c1c95ca34a17c]...
 - “excepted hereditament” means a hereditament consisting of or comprising—
   - (a) premises used as a shop, hotel, museum or place of public refreshment;
   - (b) premises used wholly or mainly as office premises, where those premises are not situated on the operational land of—
@@ -125,12 +125,12 @@ A central list must show, for each day in each year for which that list is in fo
     - (ii) harbours,
 
     or for purposes incidental to such purposes;
-- “licence exempt operator” and “licence holder” have the meanings given by sections 10(6) and 83(1) respectively of the Railways Act 1993[^key-1577288e418c1e8339a9193215f54d0c] except that licence holder also includes a holder of a railway undertaking licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005; and
+- “licence exempt operator” and “licence holder” have the meanings given by sections 10(6) and 83(1) respectively of the Railways Act 1993[^c-1577288e418c1e8339a9193215f54d0c] except that licence holder also includes a holder of a railway undertaking licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005; and
 - “railway purposes” means the purposes of providing railway services, within the meaning given by section 82(1) of the Railways Act 1993, or for purposes ancillary to those purposes (including the purposes of providing policing services or the exhibiting advertisements).
 
 (4) The hereditament described in paragraph (1) will be treated as occupied by the designated person.
 
-## 8. Communications hereditaments[^key-849868012b60a9360f3877d5f74863a2]
+## 8. Communications hereditaments[^c-849868012b60a9360f3877d5f74863a2]
 
 (1) Where—
 
@@ -152,7 +152,7 @@ and which would, apart from these Regulations, be more than one hereditament, th
 
 which British Telecommunications plc lets or licenses to any person.
 
-## 9. National and regional gas hereditaments[^key-704e8b1d458e0b10a576af6d0004ce74]
+## 9. National and regional gas hereditaments[^c-704e8b1d458e0b10a576af6d0004ce74]
 
 (1) Where Transco, which is a designated person by virtue of being listed in Part 3 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those separate hereditaments satisfies the conditions set out in paragraph (4), those hereditaments will be treated as one hereditament.
 
@@ -180,7 +180,7 @@ which British Telecommunications plc lets or licenses to any person.
 
 (6) The hereditament described in paragraph (1) and (2) will be treated as occupied by the designated person.
 
-## 10. Local gas transportation hereditaments[^key-c27d096925ec688d7d0a5713de345c12]
+## 10. Local gas transportation hereditaments[^c-c27d096925ec688d7d0a5713de345c12]
 
 (1) Where a company which is a designated person by virtue of being listed in Part 4 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those separate hereditaments satisfies the conditions set out in paragraph (2), those hereditaments will be treated as one hereditament.
 
@@ -196,7 +196,7 @@ which British Telecommunications plc lets or licenses to any person.
 
 (4) The hereditament described in paragraph (1) shall be treated as occupied by the designated person.
 
-## 11. Gas meter hereditaments[^key-77c430c531fc6afc253a3064dbf8b8f9]
+## 11. Gas meter hereditaments[^c-77c430c531fc6afc253a3064dbf8b8f9]
 
 (1) Where—
 
@@ -222,7 +222,7 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 
 (5) The hereditaments described in paragraphs (1) and (2) will be treated as occupied by the designated person.
 
-## 12. Electricity transmission hereditaments[^key-f67f5e58888d38feea35ab4a0b2f7fb1]
+## 12. Electricity transmission hereditaments[^c-f67f5e58888d38feea35ab4a0b2f7fb1]
 
 (1) Where a company which is a designated person by virtue of being listed in Part 6 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those separate hereditaments satisfies the conditions set out in paragraph (2), those hereditaments will be treated as one hereditament.
 
@@ -232,7 +232,7 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 
 (4) The hereditament described in paragraph (1) will be treated as occupied by the designated person.
 
-## 13. Electricity distribution hereditaments[^key-baf4c62490776ce1d024e5727a73ac3f]
+## 13. Electricity distribution hereditaments[^c-baf4c62490776ce1d024e5727a73ac3f]
 
 (1) Where a company which is a designated person by virtue of being listed in Part 7 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those separate hereditaments satisfies the conditions set out in paragraph (2), those hereditaments will be treated as one hereditament.
 
@@ -247,7 +247,7 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 
 (4) The hereditament described in paragraph (1) will be treated as occupied by the designated person.
 
-## 14. Electricity meter hereditaments[^key-35f23eff43034ea5364db65b481f6264]
+## 14. Electricity meter hereditaments[^c-35f23eff43034ea5364db65b481f6264]
 
 (1) Where—
 
@@ -260,7 +260,7 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 
 (3) The hereditament described in paragraph (1) will be treated as occupied by the designated person.
 
-## 15. Water supply hereditaments[^key-c872d9b74db80b351a91dbf579bc2b85]
+## 15. Water supply hereditaments[^c-c872d9b74db80b351a91dbf579bc2b85]
 
 (1) Where a company which is a designated person by virtue of being listed in Part 9 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those separate hereditaments satisfies the conditions set out in paragraph (2), those hereditaments will be treated as one hereditament.
 
@@ -276,7 +276,7 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 
 (4) The hereditament described in paragraph (1) will be treated as occupied by the designated person.
 
-## 16. Canal hereditaments[^key-7e32c8ef2d2052c659f833483dd99784]
+## 16. Canal hereditaments[^c-7e32c8ef2d2052c659f833483dd99784]
 
 (1) Where a company which is a designated person by virtue of being listed in Part 10 of the Schedule occupies or, if it is unoccupied, owns any hereditament which—
 
@@ -302,7 +302,7 @@ if, apart from these Regulations, those hereditaments would be more than one her
 
 (3) The hereditament described in paragraph (1) will be treated as occupied by the designated person.
 
-## 17. Revocations and savings[^key-28cc773f7e46028bca05aa300c8a7179]
+## 17. Revocations and savings[^c-28cc773f7e46028bca05aa300c8a7179]
 
 (1) Subject to paragraph (2), there are hereby revoked—
 
@@ -327,69 +327,69 @@ The Deputy Presiding Officer of the National Assembly
 
 Regulation 4
 
-### PART 1 — Railway hereditaments[^key-6e3ab1ea87c802c6d421b74819640b40]
+### PART 1 — Railway hereditaments[^c-6e3ab1ea87c802c6d421b74819640b40]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | Network Rail Infrastructure Limited | The hereditament described in regulation 7(1) |
 
-### PART 2 — Communication hereditaments[^key-d4d7c30b502eee4767b0d22d415f4e66]
+### PART 2 — Communication hereditaments[^c-d4d7c30b502eee4767b0d22d415f4e66]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | British Telecommunications plc<br>Cable and Wireless UK<br>Global Crossing (UK) Telecommunications Limited<br>Energis Communications Limited | } The hereditament described in regulation 8(1) |
 
-### PART 3 — National and Regional gas transportation hereditaments[^key-944417e0fe715b5cd8acd5b0bbb764ca]
+### PART 3 — National and Regional gas transportation hereditaments[^c-944417e0fe715b5cd8acd5b0bbb764ca]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | Transco | The hereditament described in regulation 9(1) |
 | Blackwater 2 Limited | The hereditament described in regulation 9(2) |
 
-### PART 4 — Local gas transportation hereditaments[^key-e22d4d292e4567557c1b07160f038a75]
+### PART 4 — Local gas transportation hereditaments[^c-e22d4d292e4567557c1b07160f038a75]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | British Gas Connections Limited<br>British Gas Pipelines Limited<br>Global Utility Connections Limited<br>Utility Grid Installations Limited<br>Independent Pipelines Limited<br>The Gas Transportation Company Limited<br>SSE Pipelines Limited<br>SP Gas Limited<br>Quadrant Pipelines Limited<br>GTC Pipelines Limited<br>ESP Networks Limited<br>ESP Pipelines Limited<br>E.S. Pipelines Limited | } The hereditament described in regulation 10(1) |
 
-### PART 5 — Gas meter hereditaments[^key-78e2f7d12d075f36f9f4371512aefaed]
+### PART 5 — Gas meter hereditaments[^c-78e2f7d12d075f36f9f4371512aefaed]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | Transco | The hereditament described in regulation 11(1) |
 | Blackwater 2 Limited | The hereditament described in regulation 11(2) |
 
-### PART 6 — Electricity transmission hereditaments[^key-2333d670699d791f2a78803b5974bc8c]
+### PART 6 — Electricity transmission hereditaments[^c-2333d670699d791f2a78803b5974bc8c]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | National Grid Company plc | The hereditament described in regulation 12(1) |
 
-### PART 7 — Electricity distribution hereditaments[^key-26d2fde64eeb16c8025de9ddf2c233cc]
+### PART 7 — Electricity distribution hereditaments[^c-26d2fde64eeb16c8025de9ddf2c233cc]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | Central Networks West plc<br>SP Manweb plc<br>United Utilities Electricity plc<br>Western Power Distribution (South Wales) plc | } The hereditament described in regulation 13(1) |
 
-### PART 8 — Electricity meter hereditaments[^key-63d7f1ca8b15866fb74464f19281cebb]
+### PART 8 — Electricity meter hereditaments[^c-63d7f1ca8b15866fb74464f19281cebb]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | Central Networks West plc<br>SP Manweb plc<br>United Utilities Electricity plc<br>Western Power Distribution (South Wales) plc | } The hereditament described in regulation 14(1) |
 
-### PART 9 — Water supply hereditaments[^key-e33a39db8163ae7feb7cc70139674fa0]
+### PART 9 — Water supply hereditaments[^c-e33a39db8163ae7feb7cc70139674fa0]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | Dee Valley Water plc<br>Dŵr Cymru Cyfyngedig<br>Severn Trent Water Limited<br>United Utilities Water plc | } The hereditament described in regulation 15(1) |
 
-### PART 10 — Canal hereditaments[^key-11d5a2825c87f54f229a7bfc402209b5]
+### PART 10 — Canal hereditaments[^c-11d5a2825c87f54f229a7bfc402209b5]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
 | The British Waterways Board | The hereditament described in regulation 16(1) |
 
-### PART 11 — Long-distance pipe-line hereditaments[^key-1ce1e2c3529d5ff9eccae3ab07a93893]
+### PART 11 — Long-distance pipe-line hereditaments[^c-1ce1e2c3529d5ff9eccae3ab07a93893]
 
 | Designated person | Relevant hereditaments |
 | --- | --- |
@@ -421,55 +421,55 @@ with effect from 1 April 2005 subject to certain savings.
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). The functions of the Secretary of State under section 53(1), (2), (4), (4A) and (5), 63(3), 65(4), 143(1) and (2) of the Local Government Finance Act 1988 are, so far as exercisisable in relation to Wales, transferred, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Funtions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-7ce4f268915ff8093a1d50b2b0d452a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/422/regulation/1) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-7ce4f268915ff8093a1d50b2b0d452a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/422/regulation/1) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-bd078491bf96c70d92c26b0a29f97d26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/422/regulation/2) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-bd078491bf96c70d92c26b0a29f97d26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/422/regulation/2) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
 [^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Relevant amendments made by section 76 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-bcc661f3359f6dffcd6020f98932085e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/422/regulation/3) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-bcc661f3359f6dffcd6020f98932085e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/422/regulation/3) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-c08727458a78934f02b1039718228ddf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/422/regulation/4) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-c08727458a78934f02b1039718228ddf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/422/regulation/4) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-6b6ac4ecfb3c85045b67e9a536e609df]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2005/422/regulation/4/2) substituted (1.4.2017) by [The Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017 (S.I. 2017/327)](https://www.legislation.gov.uk/wsi/2017/327), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2017/327/regulation/5/2)
+[^c-6b6ac4ecfb3c85045b67e9a536e609df]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2005/422/regulation/4/2) substituted (1.4.2017) by [The Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017 (S.I. 2017/327)](https://www.legislation.gov.uk/wsi/2017/327), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2017/327/regulation/5/2)
 
-[^key-f7baa963eacaf9f0f1813c1d68b619c2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/422/regulation/5) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-f7baa963eacaf9f0f1813c1d68b619c2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/422/regulation/5) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-7893586aed0e1bdc8405c38e9654cd99]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2005/422/regulation/6) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-7893586aed0e1bdc8405c38e9654cd99]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2005/422/regulation/6) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-d29d280de1eaf961f3112e3ad9570df3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2005/422/regulation/7) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-d29d280de1eaf961f3112e3ad9570df3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2005/422/regulation/7) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-13c06272483aca47fe0c1c95ca34a17c]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/422/regulation/7/3) omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2019/1281/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13c06272483aca47fe0c1c95ca34a17c]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/422/regulation/7/3) omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2019/1281/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1577288e418c1e8339a9193215f54d0c]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/422/regulation/7/3) substituted (31.12.2020) by [The Local Government Finance (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/436)](https://www.legislation.gov.uk/wsi/2019/436), [regs. 1](https://www.legislation.gov.uk/wsi/2019/436/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2019/436/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1577288e418c1e8339a9193215f54d0c]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/422/regulation/7/3) substituted (31.12.2020) by [The Local Government Finance (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/436)](https://www.legislation.gov.uk/wsi/2019/436), [regs. 1](https://www.legislation.gov.uk/wsi/2019/436/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2019/436/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-849868012b60a9360f3877d5f74863a2]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2005/422/regulation/8) substituted (with effect from 1.4.2005) by [The Central Rating List (Wales) (Amendment) Regulations 2008 (S.I. 2008/2672)](https://www.legislation.gov.uk/uksi/2008/2672), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/2672/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2008/2672/regulation/2/a)
+[^c-849868012b60a9360f3877d5f74863a2]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2005/422/regulation/8) substituted (with effect from 1.4.2005) by [The Central Rating List (Wales) (Amendment) Regulations 2008 (S.I. 2008/2672)](https://www.legislation.gov.uk/uksi/2008/2672), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/2672/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2008/2672/regulation/2/a)
 
-[^key-704e8b1d458e0b10a576af6d0004ce74]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2005/422/regulation/9) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-704e8b1d458e0b10a576af6d0004ce74]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2005/422/regulation/9) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
 [^f00005]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Relevant amendments made by section 76 of the Utilities Act [2000 (c. 27](https://www.legislation.gov.uk/ukpga/2000/27).).
 
 [^f00006]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Substituted, together with section 736A, for section 736 as originally enacted, by section 144(1) of the Companies Act [1989 (c. 40](https://www.legislation.gov.uk/ukpga/1989/40).)
 
-[^key-c27d096925ec688d7d0a5713de345c12]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2005/422/regulation/10) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-c27d096925ec688d7d0a5713de345c12]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2005/422/regulation/10) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-77c430c531fc6afc253a3064dbf8b8f9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2005/422/regulation/11) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-77c430c531fc6afc253a3064dbf8b8f9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2005/422/regulation/11) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-f67f5e58888d38feea35ab4a0b2f7fb1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2005/422/regulation/12) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-f67f5e58888d38feea35ab4a0b2f7fb1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2005/422/regulation/12) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-baf4c62490776ce1d024e5727a73ac3f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2005/422/regulation/13) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-baf4c62490776ce1d024e5727a73ac3f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2005/422/regulation/13) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
 [^f00007]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 substituted for section 6 as originally enacted by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). Section 31 further provides that references in any enactment after 1 October 2001 to public electricity suppliers will have effect as if it refers to electricity suppliers or distributors or both suppliers and distributors.
 
-[^key-35f23eff43034ea5364db65b481f6264]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2005/422/regulation/14) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-35f23eff43034ea5364db65b481f6264]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2005/422/regulation/14) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-c872d9b74db80b351a91dbf579bc2b85]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2005/422/regulation/15) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-c872d9b74db80b351a91dbf579bc2b85]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2005/422/regulation/15) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
 [^f00008]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-7e32c8ef2d2052c659f833483dd99784]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2005/422/regulation/16) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-7e32c8ef2d2052c659f833483dd99784]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2005/422/regulation/16) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-28cc773f7e46028bca05aa300c8a7179]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2005/422/regulation/17) in force at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/b)
+[^c-28cc773f7e46028bca05aa300c8a7179]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2005/422/regulation/17) in force at 1.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/b)
 
 [^f00009]: Footnote: S.I. [1991/475](https://www.legislation.gov.uk/uksi/1991/475).
 
@@ -483,26 +483,26 @@ with effect from 1 April 2005 subject to certain savings.
 
 [^f00014]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-6e3ab1ea87c802c6d421b74819640b40]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/1) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-6e3ab1ea87c802c6d421b74819640b40]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/1) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-d4d7c30b502eee4767b0d22d415f4e66]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/2) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-d4d7c30b502eee4767b0d22d415f4e66]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/2) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-944417e0fe715b5cd8acd5b0bbb764ca]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/3) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-944417e0fe715b5cd8acd5b0bbb764ca]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/3) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-e22d4d292e4567557c1b07160f038a75]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/4) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-e22d4d292e4567557c1b07160f038a75]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/4) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-78e2f7d12d075f36f9f4371512aefaed]: Commencement: [Sch. Pt. 5](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/5) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-78e2f7d12d075f36f9f4371512aefaed]: Commencement: [Sch. Pt. 5](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/5) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-2333d670699d791f2a78803b5974bc8c]: Commencement: [Sch. Pt. 6](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/6) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-2333d670699d791f2a78803b5974bc8c]: Commencement: [Sch. Pt. 6](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/6) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-26d2fde64eeb16c8025de9ddf2c233cc]: Commencement: [Sch. Pt. 7](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/7) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-26d2fde64eeb16c8025de9ddf2c233cc]: Commencement: [Sch. Pt. 7](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/7) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-63d7f1ca8b15866fb74464f19281cebb]: Commencement: [Sch. Pt. 8](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/8) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-63d7f1ca8b15866fb74464f19281cebb]: Commencement: [Sch. Pt. 8](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/8) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-e33a39db8163ae7feb7cc70139674fa0]: Commencement: [Sch. Pt. 9](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/9) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-e33a39db8163ae7feb7cc70139674fa0]: Commencement: [Sch. Pt. 9](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/9) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-11d5a2825c87f54f229a7bfc402209b5]: Commencement: [Sch. Pt. 10](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/10) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-11d5a2825c87f54f229a7bfc402209b5]: Commencement: [Sch. Pt. 10](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/10) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
-[^key-1ce1e2c3529d5ff9eccae3ab07a93893]: Commencement: [Sch. Pt. 11](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/11) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
+[^c-1ce1e2c3529d5ff9eccae3ab07a93893]: Commencement: [Sch. Pt. 11](https://www.legislation.gov.uk/wsi/2005/422/schedule/part/11) in force at 31.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/wsi/2005/422/regulation/1/1/a)
 
 [^f00015]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).

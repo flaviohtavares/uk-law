@@ -123,7 +123,7 @@ HAS ADOPTED THIS REGULATION:
 
 ### Article 1. Subject matter
 
-This Regulation lays down the amounts, and rules for payment, of the fees and charges levied by the Agency, within the meaning of[^key-19f86a7fcb5e13cae7f66d4a3d656446] Regulation (EC) No 1907/2006.
+This Regulation lays down the amounts, and rules for payment, of the fees and charges levied by the Agency, within the meaning of[^c-19f86a7fcb5e13cae7f66d4a3d656446] Regulation (EC) No 1907/2006.
 
 ### Article 2. Definitions
 
@@ -134,7 +134,7 @@ For the purposes of this Regulation:
 - 3.. ‘small enterprise’ means a small enterprise within the meaning of Recommendation 2003/361/EC;
 - 4.. ‘micro enterprise’ means a micro enterprise within the meaning of Recommendation 2003/361/EC.
 
-In the application of Recommendation 2003/361/EC for the purposes of this Regulation, the Annex to that Recommendation has effect with the following modifications:[^key-c21991c0153001fb7ae53083ea7ca93c]
+In the application of Recommendation 2003/361/EC for the purposes of this Regulation, the Annex to that Recommendation has effect with the following modifications:[^c-c21991c0153001fb7ae53083ea7ca93c]
 
 - (a) in Article 2(1)—
   - (i) the reference to EUR 50 million has effect as a reference to £43.650 million;
@@ -165,7 +165,7 @@ However, if a registrant submits separately part of the relevant information ref
 
 5. Fees due under paragraphs 1 to 4 shall be paid within 14 calendar days from the date on which the invoice is notified to the registrant by the Agency.
 
-[^key-54cb0772ecd7931dffabfb5d896b8e4b]...
+[^c-54cb0772ecd7931dffabfb5d896b8e4b]...
 
 6. Where the payment is not made before expiry of the deadline provided for in paragraph 5, the Agency shall set a second deadline for the payment. Where the payment is not made before expiry of the second deadline, the registration shall be rejected.
 
@@ -191,7 +191,7 @@ However, if a registrant submits separately part of the relevant information ref
 
 5. Fees due under paragraphs 1 to 4 shall be paid within 14 calendar days from the date on which the invoice is notified to the registrant by the Agency.
 
-[^key-f1c512d8e643de2d17d566bfa3cb68e7]...
+[^c-f1c512d8e643de2d17d566bfa3cb68e7]...
 
 6. Where the payment is not made before the expiry of the deadline provided for in paragraph 5, the Agency shall set a second deadline for the payment. Where the payment is not made before the expiry of the second deadline, the registration shall be rejected.
 
@@ -319,7 +319,7 @@ Where the application is submitted by one or more micro enterprises only, the Ag
 
 4. The date on which the charge levied for submission of the review report is received by the Agency shall be considered to be the date of receipt of the submission.
 
-### Article 10. Fees for appeals against a decision of the Agency under Article 92 of Regulation (EC) No 1907/2006[^key-6549b2da8c22b76d1794f5cd494fa7d1]
+### Article 10. Fees for appeals against a decision of the Agency under Article 92 of Regulation (EC) No 1907/2006[^c-6549b2da8c22b76d1794f5cd494fa7d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -327,9 +327,9 @@ Where the application is submitted by one or more micro enterprises only, the Ag
 
 1. A charge may be levied for administrative and technical services provided by the Agency at the request of a party which are not covered by another fee or charge provided for in this Regulation. The level of the charge shall take into account the workload involved.
 
-However, charges shall not be levied for the assistance provided by its Helpdesk [^key-945505588670005d35c4733adbb80b14]....
+However, charges shall not be levied for the assistance provided by its Helpdesk [^c-945505588670005d35c4733adbb80b14]....
 
-The [^key-d90355318d058166eb622bf41c134fd7]... Agency may decide not to levy a charge on international organisations or countries that request assistance from the Agency.
+The [^c-d90355318d058166eb622bf41c134fd7]... Agency may decide not to levy a charge on international organisations or countries that request assistance from the Agency.
 
 2. The charges for administrative services shall be paid within 30 calendar days from the date on which the invoice is notified by the Agency.
 
@@ -339,23 +339,23 @@ Where the payment is not made before expiry of the second deadline, the Agency s
 
 4. In the absence of contractual agreement to the contrary, the charges for technical services shall be paid before the service is provided.
 
-5. A classification of the services and charges shall be drawn up by [^key-71f1efd9b5bd35f649e5d4d9174fbc22]... the Agency and adopted after a favourable opinion by the Secretary of State[^key-5a5ac6efe12087ada096ab286b3175e8].
+5. A classification of the services and charges shall be drawn up by [^c-71f1efd9b5bd35f649e5d4d9174fbc22]... the Agency and adopted after a favourable opinion by the Secretary of State[^c-5a5ac6efe12087ada096ab286b3175e8].
 
-The function of the Secretary of State under this paragraph is subject to the consent requirement in Article 4A of Regulation[^key-8ecbabde0bcb69c97cf82464ca327917] [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907).
+The function of the Secretary of State under this paragraph is subject to the consent requirement in Article 4A of Regulation[^c-8ecbabde0bcb69c97cf82464ca327917] [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907).
 
 ### Article 12. Only representatives
 
-In the case of an only representative referred to in Article 8 of Regulation (EC) No 1907/2006, the assessment of whether the reduction for SMEs applies shall be determined by reference to the headcount, turnover and balance sheet information of the non-Great British[^key-8309f7ea05a9326ba28a3ca0caf7a4d3] manufacturer, formulator of a preparation, or producer of an article that is represented by that only representative in connection with the transaction concerned, including relevant information from linked and partner companies of the non-Great British manufacturer, formulator of a preparation, or producer of an article, in accordance with Recommendation 2003/361/EC.
+In the case of an only representative referred to in Article 8 of Regulation (EC) No 1907/2006, the assessment of whether the reduction for SMEs applies shall be determined by reference to the headcount, turnover and balance sheet information of the non-Great British[^c-8309f7ea05a9326ba28a3ca0caf7a4d3] manufacturer, formulator of a preparation, or producer of an article that is represented by that only representative in connection with the transaction concerned, including relevant information from linked and partner companies of the non-Great British manufacturer, formulator of a preparation, or producer of an article, in accordance with Recommendation 2003/361/EC.
 
 ### Article 13. Reductions and fee waiver
 
-1. A natural or legal person that claims to be entitled to a reduced fee or charge under Articles 3 to 9[^key-c502c777f47427fbce0d25ad6d546d57] shall inform the Agency thereof at the time of the submission of the registration, update of registration, request, notification, application, review report or appeal giving rise to the payment of the fee.
+1. A natural or legal person that claims to be entitled to a reduced fee or charge under Articles 3 to 9[^c-c502c777f47427fbce0d25ad6d546d57] shall inform the Agency thereof at the time of the submission of the registration, update of registration, request, notification, application, review report or appeal giving rise to the payment of the fee.
 
 2. A natural or legal person that claims to be entitled to the fee waiver under Article 74(2) of Regulation (EC) No 1907/2006 shall inform the Agency thereof at the time of the submission of the registration.
 
 3. The Agency may request, at any time, evidence that the conditions for a reduction of fees or charges or for a fee waiver apply.
 
-Where the evidence to be submitted to the Agency is not in English[^key-185753d7f9a356b1c61209c4149d04df], it shall be accompanied with a certified translation into English[^key-9645e2559c0feb5ac13d2b1387e71bdb].
+Where the evidence to be submitted to the Agency is not in English[^c-185753d7f9a356b1c61209c4149d04df], it shall be accompanied with a certified translation into English[^c-9645e2559c0feb5ac13d2b1387e71bdb].
 
 4. Where a natural or legal person that claims to be entitled to a reduction or a fee waiver cannot demonstrate that it is entitled to such a reduction or waiver, the Agency shall levy the full fee or charge as well as an administrative charge.
 
@@ -365,11 +365,11 @@ Paragraphs 2, 3 and 5 of Article 11 shall apply *mutatis mutandis*.
 
 ## CHAPTER III — PAYMENT OF REMUNERATION BY THE AGENCY
 
-### Article 14. Transfers of funds to Member States[^key-ab43e434eda8d17dd0fb42fe7e4b4566]
+### Article 14. Transfers of funds to Member States[^c-ab43e434eda8d17dd0fb42fe7e4b4566]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Other remuneration[^key-5a4a070500c66c052769c07a7392bf73]
+### Article 15. Other remuneration[^c-5a4a070500c66c052769c07a7392bf73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -377,17 +377,17 @@ Paragraphs 2, 3 and 5 of Article 11 shall apply *mutatis mutandis*.
 
 ### Article 16. Mode of payment
 
-1. The fees and charges shall be paid in sterling[^key-84f50404a46c9e4c8acc673ec6328b6e].
+1. The fees and charges shall be paid in sterling[^c-84f50404a46c9e4c8acc673ec6328b6e].
 
-2. Payments shall be made only after the Agency has issued an invoice [^key-5ff99c1af899d43a1c69c11029025282]....
+2. Payments shall be made only after the Agency has issued an invoice [^c-5ff99c1af899d43a1c69c11029025282]....
 
 3. Payments shall be made by means of a transfer to the bank account of the Agency.
 
 ### Article 17. Identification of the payment
 
-1. Every payment must indicate in the reference field the submission number assigned by the Agency under Article 20 of Regulation[^key-4297f662bbd527d86085071e31d31ad4] [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907).
+1. Every payment must indicate in the reference field the submission number assigned by the Agency under Article 20 of Regulation[^c-4297f662bbd527d86085071e31d31ad4] [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907).
 
-[^key-a2c7ee36d76b4121d5676b01f36a2001]...
+[^c-a2c7ee36d76b4121d5676b01f36a2001]...
 
 2. If the purpose of the payment cannot be established, the Agency shall set a deadline by which the payer must notify it in writing of the purpose of the payment. If the Agency does not receive a notification of the purpose of the payment before expiry of that deadline, the payment shall be considered invalid and the amount concerned shall be refunded to the payer.
 
@@ -403,23 +403,23 @@ A confirmation of the transfer order issued by a financial institution shall be 
 
 1. A deadline for payment shall be considered to have been observed only if the full amount of the fee or charge has been paid in due time.
 
-2. When an invoice relates to a group of transactions, the Agency may attribute any under-payment to any of the relevant transactions. The criteria for the attribution of payments shall be laid down by [^key-44a9bae36a71a820a9d660bded0ca6d9]... the Agency.
+2. When an invoice relates to a group of transactions, the Agency may attribute any under-payment to any of the relevant transactions. The criteria for the attribution of payments shall be laid down by [^c-44a9bae36a71a820a9d660bded0ca6d9]... the Agency.
 
 ### Article 20. Refund of amounts paid in excess
 
-1. The arrangements for the refund to the payer of amounts paid in excess of a fee or a charge shall be fixed by [^key-a586c4aa8dcf197103fd916e452891b4]... the Agency and published on the website of the Agency.
+1. The arrangements for the refund to the payer of amounts paid in excess of a fee or a charge shall be fixed by [^c-a586c4aa8dcf197103fd916e452891b4]... the Agency and published on the website of the Agency.
 
-However, where an amount paid in excess is under £87[^key-4edef8b71a4b095380997818bdb0dbf9] and the party concerned has not expressly requested a refund, the amount paid in excess shall not be refunded.
+However, where an amount paid in excess is under £87[^c-4edef8b71a4b095380997818bdb0dbf9] and the party concerned has not expressly requested a refund, the amount paid in excess shall not be refunded.
 
 2. It shall not be possible to count any amounts paid in excess towards future payments to the Agency.
 
 ## CHAPTER V — FINAL PROVISIONS
 
-### Article 21. Provisional estimate[^key-90fdd0177018f609e544fd47a2a47fae]
+### Article 21. Provisional estimate[^c-90fdd0177018f609e544fd47a2a47fae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Amendment of fees and charges[^key-2d9e0c0388f7cb71c969763e77042c3d]
+### Article 22. Amendment of fees and charges[^c-2d9e0c0388f7cb71c969763e77042c3d]
 
 1. The Secretary of State may, by regulations, amend this Regulation so as to alter the fees and charges provided for in it if the Secretary of State considers that the alterations are appropriate having regard to—
 
@@ -439,11 +439,11 @@ The Secretary of State must consult the other appropriate authorities before mak
   - (i) the all items consumer prices index published by the Statistics Board, or
   - (ii) if that index ceases to be available, such other similar general index of prices which the Secretary of State considers appropriate to use for the purposes of this Article.
 
-### Article 23. Entry into force[^key-f1aeff840f97f57c6e339ad49a838556]
+### Article 23. Entry into force[^c-f1aeff840f97f57c6e339ad49a838556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1aeff840f97f57c6e339ad49a838556]...
+[^c-f1aeff840f97f57c6e339ad49a838556]...
 
 ## ANNEX I — Fees for registrations submitted under Article 6, 7 or 11 of Regulation (EC) No 1907/2006[^c000004]
 
@@ -453,7 +453,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  | Individual submission | Joint submission |
 | --- | --- | --- |
-| Fee for substances in the range of 1 to 10 tonnes | £2,222[^key-278d1e0b63818f4e78aa526ea2dcfa0e] | £2,222 |
+| Fee for substances in the range of 1 to 10 tonnes | £2,222[^c-278d1e0b63818f4e78aa526ea2dcfa0e] | £2,222 |
 | Fee for substances in the range 10 to 100 tonnes | £2,222 | £2,222 |
 | Fee for substances in the range 100 to 1 000 tonnes | £2,222 | £2,222 |
 | Fee for substances above 1 000 tonnes | £2,222 | £2,222 |
@@ -464,7 +464,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fee for substances in the range of 1 to 10 tonnes | £740[^key-493c794745f61551b3ec9b328321eb58] | £740 | £399 | £399 | £57 | £57 |
+| Fee for substances in the range of 1 to 10 tonnes | £740[^c-493c794745f61551b3ec9b328321eb58] | £740 | £399 | £399 | £57 | £57 |
 | Fee for substances in the range 10 to 100 tonnes | £740 | £740 | £399 | £399 | £57 | £57 |
 | Fee for substances in the range 100 to 1 000 tonnes | £740 | £740 | £399 | £399 | £57 | £57 |
 | Fee for substances above 1 000  tonnes | £740 | £740 | £399 | £399 | £57 | £57 |
@@ -477,7 +477,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  | Individual submission | Joint submission |
 | --- | --- | --- |
-| Fee | £2,222[^key-dee447a81d5a22cab7c0019246a2406d] | £2,222 |
+| Fee | £2,222[^c-dee447a81d5a22cab7c0019246a2406d] | £2,222 |
 
 *Table 2*
 
@@ -485,7 +485,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fee | £740[^key-9c6cbbdf458d938496c545737e2ba03e] | £740 | £399 | £399 | £57 | £57 |
+| Fee | £740[^c-9c6cbbdf458d938496c545737e2ba03e] | £740 | £399 | £399 | £57 | £57 |
 
 ## ANNEX III — Fees for the update of registrations under Article 22 of Regulation (EC) No 1907/2006
 
@@ -495,7 +495,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  | Individual submission | Joint submission |
 | --- | --- | --- |
-| From 1-10 tonnes range to 10-100 tonnes range | £2,222[^key-e392b2433a357a3e78244272a746b592] | £2,222 |
+| From 1-10 tonnes range to 10-100 tonnes range | £2,222[^c-e392b2433a357a3e78244272a746b592] | £2,222 |
 | From 1-10 tonnes range to 100- 1 000 tonnes range | £2,222 | £2,222 |
 | From 1-10 tonnes range to over 1 000 tonnes range | £2,222 | £2,222 |
 | From 10-100 tonnes range to 100- 1 000 tonnes range | £2,222 | £2,222 |
@@ -508,7 +508,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
 | --- | --- | --- | --- | --- | --- | --- |
-| From 1-10 tonnes range to 10-100 tonnes range | £1,249[^key-7d194e87c4f97107cd0bbb067eab8eca] | £1,249 | £672 | £672 | £96 | £96 |
+| From 1-10 tonnes range to 10-100 tonnes range | £1,249[^c-7d194e87c4f97107cd0bbb067eab8eca] | £1,249 | £672 | £672 | £96 | £96 |
 | From 1-10 tonnes range to 100- 1 000 tonnes range | £1,249 | £1,249 | £672 | £672 | £96 | £96 |
 | From 1-10 tonnes range to over 1 000 tonnes range | £1,249 | £1,249 | £672 | £672 | £96 | £96 |
 | From 10-100 tonnes range to 100- 1 000 tonnes range | £1,249 | £1,249 | £672 | £672 | £96 | £96 |
@@ -534,7 +534,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 </tbody>
 </table>
 
-[^key-7d3290caecf51fd20094e37f98e7ad26][^key-330a30dc5484238f4bb9d5b772cd7ae1]
+[^c-7d3290caecf51fd20094e37f98e7ad26][^c-330a30dc5484238f4bb9d5b772cd7ae1]
 
 *Table 4*
 
@@ -555,7 +555,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 </tbody>
 </table>
 
-[^key-1e1301be84c3ac6b5e7966246bfa74a9][^key-45b184ac25eb76c26e90a2a1b65ebdb2]
+[^c-1e1301be84c3ac6b5e7966246bfa74a9][^c-45b184ac25eb76c26e90a2a1b65ebdb2]
 
 ## ANNEX IV — Fees for requests under point (xi) of Article 10(a) of Regulation (EC) No 1907/2006
 
@@ -565,7 +565,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 | Item for which confidentiality is requested | Individual submission | Joint submission |
 | --- | --- | --- |
-| Degree of purity and/or identity of impurities or additives | £4,271[^key-2c9ae6d9d9cdf8acaafe5c44a4bb942e] | £3,203 |
+| Degree of purity and/or identity of impurities or additives | £4,271[^c-2c9ae6d9d9cdf8acaafe5c44a4bb942e] | £3,203 |
 | Relevant tonnage band | £1,424 | £1,068 |
 | A study summary or a robust study summary | £4,271 | £3,203 |
 | Information in the safety data sheet | £2,847 | £2,135 |
@@ -579,7 +579,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 | Item for which confidentiality is requested | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Degree of purity and/or identity of impurities or additives | £2,776[^key-395a458a8f3c56c6f1d93245893c9953] | £2,082 | £1,495 | £1,121 | £214 | £160 |
+| Degree of purity and/or identity of impurities or additives | £2,776[^c-395a458a8f3c56c6f1d93245893c9953] | £2,082 | £1,495 | £1,121 | £214 | £160 |
 | Relevant tonnage band | £925 | £694 | £498 | £374 | £72 | £53 |
 | A study summary or a robust study summary | £2,776 | £2,082 | £1,495 | £1,121 | £214 | £160 |
 | Information in the safety data sheet | £1,851 | £1,388 | £996 | £747 | £142 | £107 |
@@ -595,7 +595,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Standard fee | £751[^key-c86690f41ba042c3e02768e5f65d6b16][^key-b197094827da3dbd19e7113c48377fce] |
+| Standard fee | £751[^c-c86690f41ba042c3e02768e5f65d6b16][^c-b197094827da3dbd19e7113c48377fce] |
 | Reduced fee for medium enterprise | £308 |
 | Reduced fee for small enterprise | £166 |
 | Reduced fee for micro enterprise | £24 |
@@ -606,7 +606,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Standard charge | £751[^key-88ef39605318eb5b2cf12639c6a5152e][^key-f6b0e0fdce07008a3766b86b916e993d] |
+| Standard charge | £751[^c-88ef39605318eb5b2cf12639c6a5152e][^c-f6b0e0fdce07008a3766b86b916e993d] |
 | Reduced charge for medium enterprise | £617 |
 | Reduced charge for small enterprise | £332 |
 | Reduced charge for micro enterprise | £47 |
@@ -619,7 +619,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base fee | £57,689[^key-35e99dfa60802cc2303fcfcb6a7e4514] |
+| Base fee | £57,689[^c-35e99dfa60802cc2303fcfcb6a7e4514] |
 | Additional fee per substance | £11,538 |
 | Additional fee per use | £51,920 |
 
@@ -629,7 +629,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base fee | £43,267[^key-f9a4b307f0898d0525021734c51bdea3] |
+| Base fee | £43,267[^c-f9a4b307f0898d0525021734c51bdea3] |
 | Additional fee per substance | £8,653 |
 | Additional fee per use | £38,940 |
 
@@ -639,7 +639,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base fee | £25,960[^key-c3698548a71b20654c61dc05b8dcb047] |
+| Base fee | £25,960[^c-c3698548a71b20654c61dc05b8dcb047] |
 | Additional fee per substance | £5,192 |
 | Additional fee per use | £23,364 |
 
@@ -649,7 +649,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base fee | £5,769[^key-0eff8c290d2de9ff042cab8418342c1e] |
+| Base fee | £5,769[^c-0eff8c290d2de9ff042cab8418342c1e] |
 | Additional fee per substance | £1,154 |
 | Additional fee per use | £5,192 |
 
@@ -661,7 +661,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base charge | £57,689[^key-1ca56dfa0bcb9ccb32270dcd48dd5c99] |
+| Base charge | £57,689[^c-1ca56dfa0bcb9ccb32270dcd48dd5c99] |
 | Additional charge per substance | £11,538 |
 | Additional charge per use | £51,920 |
 
@@ -671,7 +671,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base charge | £43,267[^key-0d2bc43c5af8ea477fe37e22a59f7f4d] |
+| Base charge | £43,267[^c-0d2bc43c5af8ea477fe37e22a59f7f4d] |
 | Additional charge per substance | £8,653 |
 | Additional charge per use | £38,940 |
 
@@ -681,7 +681,7 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base charge | £25,960[^key-bbc01e5c2dc4b682dc12de695faa3349] |
+| Base charge | £25,960[^c-bbc01e5c2dc4b682dc12de695faa3349] |
 | Additional charge per substance | £5,192 |
 | Additional charge per use | £23,364 |
 
@@ -691,11 +691,11 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 |  |  |
 | --- | --- |
-| Base charge | £5,769[^key-766e31e3624d8e6e0c2e1463a82b7fa0] |
+| Base charge | £5,769[^c-766e31e3624d8e6e0c2e1463a82b7fa0] |
 | Additional charge per substance | £1,154 |
 | Additional charge per use | £5,192 |
 
-## ANNEX VIII — Fees for appeals under Article 92 of Regulation (EC) NO 1907/2006[^key-61a48b060955df74c4e3cce8aef00950]
+## ANNEX VIII — Fees for appeals under Article 92 of Regulation (EC) NO 1907/2006[^c-61a48b060955df74c4e3cce8aef00950]
 
 **No longer in force.**
 
@@ -711,112 +711,112 @@ The Secretary of State must consult the other appropriate authorities before mak
 
 [^f00004]: Footnote: [OJ L 257, 27.10.1995, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.257.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council ([OJ L 284, 31.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.284.01.0001.01.ENG)).
 
-[^key-19f86a7fcb5e13cae7f66d4a3d656446]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2008/340/article/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19f86a7fcb5e13cae7f66d4a3d656446]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2008/340/article/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c21991c0153001fb7ae53083ea7ca93c]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2008/340/article/2) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c21991c0153001fb7ae53083ea7ca93c]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2008/340/article/2) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-54cb0772ecd7931dffabfb5d896b8e4b]: Textual amendment: Words in [Art. 3(5)](https://www.legislation.gov.uk/eur/2008/340/article/3/5) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54cb0772ecd7931dffabfb5d896b8e4b]: Textual amendment: Words in [Art. 3(5)](https://www.legislation.gov.uk/eur/2008/340/article/3/5) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) No 254/2013 of 20 March 2013 amending Regulation (EC) No 340/2008 on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/254).
 
-[^key-f1c512d8e643de2d17d566bfa3cb68e7]: Textual amendment: Words in [Art. 4(5)](https://www.legislation.gov.uk/eur/2008/340/article/4/5) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1c512d8e643de2d17d566bfa3cb68e7]: Textual amendment: Words in [Art. 4(5)](https://www.legislation.gov.uk/eur/2008/340/article/4/5) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) No 254/2013 of 20 March 2013 amending Regulation (EC) No 340/2008 on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/254).
 
 [^c000003]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2018/895 of 22 June 2018 amending Regulation (EC) No 340/2008 on the fees and charges payable to the European Chemicals Agency (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/895).
 
-[^key-6549b2da8c22b76d1794f5cd494fa7d1]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eur/2008/340/article/10) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6549b2da8c22b76d1794f5cd494fa7d1]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eur/2008/340/article/10) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-945505588670005d35c4733adbb80b14]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2008/340/article/11/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-945505588670005d35c4733adbb80b14]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2008/340/article/11/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d90355318d058166eb622bf41c134fd7]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2008/340/article/11/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d90355318d058166eb622bf41c134fd7]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2008/340/article/11/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-71f1efd9b5bd35f649e5d4d9174fbc22]: Textual amendment: Words in [Art. 11(5)](https://www.legislation.gov.uk/eur/2008/340/article/11/5) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71f1efd9b5bd35f649e5d4d9174fbc22]: Textual amendment: Words in [Art. 11(5)](https://www.legislation.gov.uk/eur/2008/340/article/11/5) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a5ac6efe12087ada096ab286b3175e8]: Textual amendment: Words in [Art. 11(5)](https://www.legislation.gov.uk/eur/2008/340/article/11/5) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a5ac6efe12087ada096ab286b3175e8]: Textual amendment: Words in [Art. 11(5)](https://www.legislation.gov.uk/eur/2008/340/article/11/5) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ecbabde0bcb69c97cf82464ca327917]: Textual amendment: Words in [Art. 11(5)](https://www.legislation.gov.uk/eur/2008/340/article/11/5) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ecbabde0bcb69c97cf82464ca327917]: Textual amendment: Words in [Art. 11(5)](https://www.legislation.gov.uk/eur/2008/340/article/11/5) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/7/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8309f7ea05a9326ba28a3ca0caf7a4d3]: Textual amendment: Words in [Art. 12](https://www.legislation.gov.uk/eur/2008/340/article/12) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/8) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/9/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8309f7ea05a9326ba28a3ca0caf7a4d3]: Textual amendment: Words in [Art. 12](https://www.legislation.gov.uk/eur/2008/340/article/12) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/8) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/9/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c502c777f47427fbce0d25ad6d546d57]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/340/article/13/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c502c777f47427fbce0d25ad6d546d57]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/340/article/13/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-185753d7f9a356b1c61209c4149d04df]: Textual amendment: Word in [Art. 13(3)](https://www.legislation.gov.uk/eur/2008/340/article/13/3) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-185753d7f9a356b1c61209c4149d04df]: Textual amendment: Word in [Art. 13(3)](https://www.legislation.gov.uk/eur/2008/340/article/13/3) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9645e2559c0feb5ac13d2b1387e71bdb]: Textual amendment: Word in [Art. 13(3)](https://www.legislation.gov.uk/eur/2008/340/article/13/3) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9645e2559c0feb5ac13d2b1387e71bdb]: Textual amendment: Word in [Art. 13(3)](https://www.legislation.gov.uk/eur/2008/340/article/13/3) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab43e434eda8d17dd0fb42fe7e4b4566]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2008/340/article/14) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab43e434eda8d17dd0fb42fe7e4b4566]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2008/340/article/14) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a4a070500c66c052769c07a7392bf73]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2008/340/article/15) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a4a070500c66c052769c07a7392bf73]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2008/340/article/15) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84f50404a46c9e4c8acc673ec6328b6e]: Textual amendment: Word in [Art. 16(1)](https://www.legislation.gov.uk/eur/2008/340/article/16/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84f50404a46c9e4c8acc673ec6328b6e]: Textual amendment: Word in [Art. 16(1)](https://www.legislation.gov.uk/eur/2008/340/article/16/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ff99c1af899d43a1c69c11029025282]: Textual amendment: Words in [Art. 16(2)](https://www.legislation.gov.uk/eur/2008/340/article/16/2) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ff99c1af899d43a1c69c11029025282]: Textual amendment: Words in [Art. 16(2)](https://www.legislation.gov.uk/eur/2008/340/article/16/2) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4297f662bbd527d86085071e31d31ad4]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2008/340/article/17/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4297f662bbd527d86085071e31d31ad4]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2008/340/article/17/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2c7ee36d76b4121d5676b01f36a2001]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2008/340/article/17/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2c7ee36d76b4121d5676b01f36a2001]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2008/340/article/17/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44a9bae36a71a820a9d660bded0ca6d9]: Textual amendment: Words in [Art. 19(2)](https://www.legislation.gov.uk/eur/2008/340/article/19/2) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44a9bae36a71a820a9d660bded0ca6d9]: Textual amendment: Words in [Art. 19(2)](https://www.legislation.gov.uk/eur/2008/340/article/19/2) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a586c4aa8dcf197103fd916e452891b4]: Textual amendment: Words in [Art. 20(1)](https://www.legislation.gov.uk/eur/2008/340/article/20/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a586c4aa8dcf197103fd916e452891b4]: Textual amendment: Words in [Art. 20(1)](https://www.legislation.gov.uk/eur/2008/340/article/20/1) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4edef8b71a4b095380997818bdb0dbf9]: Textual amendment: Sum in [Art. 20(1)](https://www.legislation.gov.uk/eur/2008/340/article/20/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 14(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4edef8b71a4b095380997818bdb0dbf9]: Textual amendment: Sum in [Art. 20(1)](https://www.legislation.gov.uk/eur/2008/340/article/20/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 14(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90fdd0177018f609e544fd47a2a47fae]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/eur/2008/340/article/21) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90fdd0177018f609e544fd47a2a47fae]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/eur/2008/340/article/21) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d9e0c0388f7cb71c969763e77042c3d]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2008/340/article/22) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d9e0c0388f7cb71c969763e77042c3d]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2008/340/article/22) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1aeff840f97f57c6e339ad49a838556]: Textual amendment: Art. 23 (including binding words) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 17](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1aeff840f97f57c6e339ad49a838556]: Textual amendment: Art. 23 (including binding words) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 17](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000004]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/864 of 4 June 2015 amending Regulation (EC) No 340/2008 on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/864).
 
-[^key-278d1e0b63818f4e78aa526ea2dcfa0e]: Textual amendment: Sums in [Annex 1](https://www.legislation.gov.uk/eur/2008/340/annex/I) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/3/2)
+[^c-278d1e0b63818f4e78aa526ea2dcfa0e]: Textual amendment: Sums in [Annex 1](https://www.legislation.gov.uk/eur/2008/340/annex/I) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/3/2)
 
-[^key-493c794745f61551b3ec9b328321eb58]: Textual amendment: Sums in [Annex 1](https://www.legislation.gov.uk/eur/2008/340/annex/I) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/3/3)
+[^c-493c794745f61551b3ec9b328321eb58]: Textual amendment: Sums in [Annex 1](https://www.legislation.gov.uk/eur/2008/340/annex/I) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/3/3)
 
-[^key-dee447a81d5a22cab7c0019246a2406d]: Textual amendment: Sums in [Annex 2](https://www.legislation.gov.uk/eur/2008/340/annex/II) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/4/2)
+[^c-dee447a81d5a22cab7c0019246a2406d]: Textual amendment: Sums in [Annex 2](https://www.legislation.gov.uk/eur/2008/340/annex/II) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/4/2)
 
-[^key-9c6cbbdf458d938496c545737e2ba03e]: Textual amendment: Sums in [Annex 2](https://www.legislation.gov.uk/eur/2008/340/annex/II) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/4/3)
+[^c-9c6cbbdf458d938496c545737e2ba03e]: Textual amendment: Sums in [Annex 2](https://www.legislation.gov.uk/eur/2008/340/annex/II) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/4/3)
 
-[^key-e392b2433a357a3e78244272a746b592]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/2)
+[^c-e392b2433a357a3e78244272a746b592]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/2)
 
-[^key-7d194e87c4f97107cd0bbb067eab8eca]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/3)
+[^c-7d194e87c4f97107cd0bbb067eab8eca]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/3)
 
-[^key-7d3290caecf51fd20094e37f98e7ad26]: Textual amendment: Sum in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 3 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/4)
+[^c-7d3290caecf51fd20094e37f98e7ad26]: Textual amendment: Sum in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 3 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/4)
 
-[^key-330a30dc5484238f4bb9d5b772cd7ae1]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 3 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 20(4)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/20/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-330a30dc5484238f4bb9d5b772cd7ae1]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 3 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 20(4)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/20/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e1301be84c3ac6b5e7966246bfa74a9]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 4 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/5)
+[^c-1e1301be84c3ac6b5e7966246bfa74a9]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 4 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2025/299/regulation/5/5)
 
-[^key-45b184ac25eb76c26e90a2a1b65ebdb2]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 4 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 20(5)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/20/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45b184ac25eb76c26e90a2a1b65ebdb2]: Textual amendment: Sums in [Annex 3](https://www.legislation.gov.uk/eur/2008/340/annex/III) Table 4 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 20(5)(b)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/20/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c9ae6d9d9cdf8acaafe5c44a4bb942e]: Textual amendment: Sums in [Annex 4](https://www.legislation.gov.uk/eur/2008/340/annex/IV) Table 1 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 21(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c9ae6d9d9cdf8acaafe5c44a4bb942e]: Textual amendment: Sums in [Annex 4](https://www.legislation.gov.uk/eur/2008/340/annex/IV) Table 1 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 21(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-395a458a8f3c56c6f1d93245893c9953]: Textual amendment: Sums in [Annex 4](https://www.legislation.gov.uk/eur/2008/340/annex/IV) Table 2 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-395a458a8f3c56c6f1d93245893c9953]: Textual amendment: Sums in [Annex 4](https://www.legislation.gov.uk/eur/2008/340/annex/IV) Table 2 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c86690f41ba042c3e02768e5f65d6b16]: Textual amendment: Sum in Annex 5 Table 1 substituted (1.4.2025) by The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 ([S.I. 2025/299](https://www.legislation.gov.uk/uksi/2025/299)), regs. 1(2), 6(2)
+[^c-c86690f41ba042c3e02768e5f65d6b16]: Textual amendment: Sum in Annex 5 Table 1 substituted (1.4.2025) by The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 ([S.I. 2025/299](https://www.legislation.gov.uk/uksi/2025/299)), regs. 1(2), 6(2)
 
-[^key-b197094827da3dbd19e7113c48377fce]: Textual amendment: Sums in [Annex 5](https://www.legislation.gov.uk/eur/2008/340/annex/V) Table 1 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b197094827da3dbd19e7113c48377fce]: Textual amendment: Sums in [Annex 5](https://www.legislation.gov.uk/eur/2008/340/annex/V) Table 1 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88ef39605318eb5b2cf12639c6a5152e]: Textual amendment: Sum in Annex 5 Table 2 substituted (1.4.2025) by The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 ([S.I. 2025/299](https://www.legislation.gov.uk/uksi/2025/299)), regs. 1(2), 6(3)
+[^c-88ef39605318eb5b2cf12639c6a5152e]: Textual amendment: Sum in Annex 5 Table 2 substituted (1.4.2025) by The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 ([S.I. 2025/299](https://www.legislation.gov.uk/uksi/2025/299)), regs. 1(2), 6(3)
 
-[^key-f6b0e0fdce07008a3766b86b916e993d]: Textual amendment: Sums in [Annex 5](https://www.legislation.gov.uk/eur/2008/340/annex/V) Table 2 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6b0e0fdce07008a3766b86b916e993d]: Textual amendment: Sums in [Annex 5](https://www.legislation.gov.uk/eur/2008/340/annex/V) Table 2 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35e99dfa60802cc2303fcfcb6a7e4514]: Textual amendment: Sums in Annex 6 Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/2)
+[^c-35e99dfa60802cc2303fcfcb6a7e4514]: Textual amendment: Sums in Annex 6 Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/2)
 
-[^key-f9a4b307f0898d0525021734c51bdea3]: Textual amendment: Sums in Annex 6 Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/3)
+[^c-f9a4b307f0898d0525021734c51bdea3]: Textual amendment: Sums in Annex 6 Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/3)
 
-[^key-c3698548a71b20654c61dc05b8dcb047]: Textual amendment: Sums in Annex 6 Table 3 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/4)
+[^c-c3698548a71b20654c61dc05b8dcb047]: Textual amendment: Sums in Annex 6 Table 3 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/4)
 
-[^key-0eff8c290d2de9ff042cab8418342c1e]: Textual amendment: Sums in Annex 6 Table 4 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/5)
+[^c-0eff8c290d2de9ff042cab8418342c1e]: Textual amendment: Sums in Annex 6 Table 4 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2025/299/regulation/7/5)
 
-[^key-1ca56dfa0bcb9ccb32270dcd48dd5c99]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/2)
+[^c-1ca56dfa0bcb9ccb32270dcd48dd5c99]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 1 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/2)
 
-[^key-0d2bc43c5af8ea477fe37e22a59f7f4d]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/3)
+[^c-0d2bc43c5af8ea477fe37e22a59f7f4d]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 2 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/3)
 
-[^key-bbc01e5c2dc4b682dc12de695faa3349]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 3 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/4)
+[^c-bbc01e5c2dc4b682dc12de695faa3349]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 3 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/4)
 
-[^key-766e31e3624d8e6e0c2e1463a82b7fa0]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 4 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/5)
+[^c-766e31e3624d8e6e0c2e1463a82b7fa0]: Textual amendment: Sums in [Annex 7](https://www.legislation.gov.uk/eur/2008/340/annex/VI) Table 4 substituted (1.4.2025) by [The REACH Fees and Charges (Amendment of Commission Regulation (EC) No 340/2008) Regulations 2025 (S.I. 2025/299)](https://www.legislation.gov.uk/uksi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/299/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/299/regulation/8/5)
 
-[^key-61a48b060955df74c4e3cce8aef00950]: Textual amendment: [Annex 8](https://www.legislation.gov.uk/eur/2008/340/annex/VIII) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 25](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61a48b060955df74c4e3cce8aef00950]: Textual amendment: [Annex 8](https://www.legislation.gov.uk/eur/2008/340/annex/VIII) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 6 para. 25](https://www.legislation.gov.uk/uksi/2019/758/schedule/6/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

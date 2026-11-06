@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246ZG. Power to amend sections 246ZE and 246ZF[^key-37256fa3481a9e7af7c88bd213b9ae82]
+## 246ZG. Power to amend sections 246ZE and 246ZF[^c-37256fa3481a9e7af7c88bd213b9ae82]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ and the definition may include alternative, cumulative or relative requirements.
 
 ## Annotations
 
-[^key-37256fa3481a9e7af7c88bd213b9ae82]: Textual amendment: Ss. 246ZE-246ZG and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 122(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/122/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/816/regulation/5))
+[^c-37256fa3481a9e7af7c88bd213b9ae82]: Textual amendment: Ss. 246ZE-246ZG and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 122(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/122/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/816/regulation/5))

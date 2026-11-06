@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Offences[^M_I_c8d2830a-ed6a-41e9-8a03-6b4b3f1a3ae3][^key-dce1bb3c82219606b154feb062057371]
+## 104. Offences[^M_I_c8d2830a-ed6a-41e9-8a03-6b4b3f1a3ae3][^c-dce1bb3c82219606b154feb062057371]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^M_I_c8d2830a-ed6a-41e9-8a03-6b4b3f1a3ae3]: Commencement: S. 104 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-dce1bb3c82219606b154feb062057371]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2023/30/section/104) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-dce1bb3c82219606b154feb062057371]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2023/30/section/104) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

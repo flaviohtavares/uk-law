@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Uprating of allowances[^key-bc40e94105c331a357911a9eb021c248]
+## 37. Uprating of allowances[^c-bc40e94105c331a357911a9eb021c248]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc40e94105c331a357911a9eb021c248]: Commencement: S. 37 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-bc40e94105c331a357911a9eb021c248]: Commencement: S. 37 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

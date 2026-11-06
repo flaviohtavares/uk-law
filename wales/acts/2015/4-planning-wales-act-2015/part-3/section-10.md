@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Land affected by National Development Framework or strategic development plan[^c22542661][^key-b7677c84a51bcfae3fb0908bb4cd471e]
+## 10. Land affected by National Development Framework or strategic development plan[^c22542661][^c-b7677c84a51bcfae3fb0908bb4cd471e]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 [^c22542661]: Commencement: S. 10 partly in force; s. 10 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-b7677c84a51bcfae3fb0908bb4cd471e]: Commencement: S. 10 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-b7677c84a51bcfae3fb0908bb4cd471e]: Commencement: S. 10 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

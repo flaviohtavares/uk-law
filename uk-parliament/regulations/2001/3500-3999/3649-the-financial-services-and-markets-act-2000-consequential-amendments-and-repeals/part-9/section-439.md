@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 439. Meaning of “relevant financial business”[^key-f6af1bcdae5b101afe6bc99076b081ea]
+## 439. Meaning of “relevant financial business”[^c-f6af1bcdae5b101afe6bc99076b081ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6af1bcdae5b101afe6bc99076b081ea]: Commencement: Art. 439 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f6af1bcdae5b101afe6bc99076b081ea]: Commencement: Art. 439 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

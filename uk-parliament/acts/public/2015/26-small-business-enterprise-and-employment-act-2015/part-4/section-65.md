@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Review of Adjudicator and guidance from Secretary of State[^key-12e97a0ae230af3180c00bd3514818db]
+## 65. Review of Adjudicator and guidance from Secretary of State[^c-12e97a0ae230af3180c00bd3514818db]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12e97a0ae230af3180c00bd3514818db]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2015/26/section/65) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/d)
+[^c-12e97a0ae230af3180c00bd3514818db]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2015/26/section/65) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/d)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Suspension of governors[^key-9af98339277e8db13f5943223a22bb5f][^key-8cfac9661aad4a73365ca5b43620390d]
+## 49. Suspension of governors[^c-9af98339277e8db13f5943223a22bb5f][^c-8cfac9661aad4a73365ca5b43620390d]
 
 *Extent: E+W*
 
-[^key-8cfac9661aad4a73365ca5b43620390d]
+[^c-8cfac9661aad4a73365ca5b43620390d]
 
 (1) Subject to paragraphs (2), (3) and (4), the governing body may by resolution suspend a governor for all or any meetings of the governing body, or of a committee, for a fixed period of up to 6 months on one or more of the following grounds—
 
@@ -46,6 +46,6 @@ during the period of his or her suspension.
 
 ## Annotations
 
-[^key-9af98339277e8db13f5943223a22bb5f]: Commencement: Reg. 49 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-9af98339277e8db13f5943223a22bb5f]: Commencement: Reg. 49 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))
+[^c-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))

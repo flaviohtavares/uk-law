@@ -62,7 +62,7 @@ The Department of the Environment makes the following Order in exercise of the p
 - “conservation area” has the same meaning given in section 104(12) (conservation areas) of the 2011 Act;
 - “**council**” means a district council;
 - “**the Department**” means the Department of the Environment;
-- “[^key-90dca894931a096dd6a6e6d1f696d25f]**EIA application**” has the meaning assigned to it by regulation 2 of the EIA Regulations
+- “[^c-90dca894931a096dd6a6e6d1f696d25f]**EIA application**” has the meaning assigned to it by regulation 2 of the EIA Regulations
 - “**EIA development**” has the meaning assigned to it by regulation 2 of the EIA Regulations;
 - “**EIA Regulations**” means the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015 [^c22403181];
 - “**Enterprise Order**” means the Enterprise Zones (Northern Ireland) Order 1981 [^c22403191];
@@ -75,13 +75,13 @@ The Department of the Environment makes the following Order in exercise of the p
   - (b) the altering, repairing, maintaining, ornamenting, finishing, cleaning, washing, packing, canning, adapting for sale, breaking up or demolition of any article; or
   - (c) the getting, dressing or treatment of minerals in the course of any trade or business other than agriculture, and other than a process carried out on land used as a mine or adjacent to and occupied together with a mine;
 - “**landscaping**” means the treatment of land (other than buildings) being a site or part of a site in respect of which an outline planning permission is granted, for the purpose of enhancing or protecting the amenities of the site and the area in which it is situated and includes screening by fences, walls or other means, the planting of trees, hedges, shrubs or grass, the formation of banks, terraces or other earthworks, the laying out of gardens or courts, and the provision of other amenity features;
-- “**licensed aerodrome**” has the same meaning as in the Air Navigation Order 2016[^key-2bb7cd4b1b7576adb1297389a7fe730b] ;
+- “**licensed aerodrome**” has the same meaning as in the Air Navigation Order 2016[^c-2bb7cd4b1b7576adb1297389a7fe730b] ;
 - “**major development**” has the meaning assigned to that term in Regulation 2 the Planning (Development Management) Regulations (Northern Ireland) 2015 [^c22403231];
 - “**National Park**” means an area so designated under Article 12(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
 - “**Natura 2000**” has the same meaning as in the Conservation (Natural Habitats etc) Regulations (Northern Ireland) 1995 [^c22403241];
 - “**nature reserve**” has the meaning assigned to it by Article 2(2) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
 - “**neighbouring land**” means land which directly adjoins the application site or which would adjoin it but for an entry or a road less than 20 metres in width;
-- “[^key-b23a188e8676cc7c7d7b2df9eff96477]**outline planning permission**” means planning permission granted in accordance with the provisions of a development order, conditional on the subsequent approval by the council or, as the case may be, the Department of the particulars of the proposed development (referred to in this Order as reserved matters)
+- “[^c-b23a188e8676cc7c7d7b2df9eff96477]**outline planning permission**” means planning permission granted in accordance with the provisions of a development order, conditional on the subsequent approval by the council or, as the case may be, the Department of the particulars of the proposed development (referred to in this Order as reserved matters)
 - “**pre-application community consultation report**” means a written report prepared in accordance with section 28 (pre-application community consultation report) of the 2011 Act;
 - “**reserved matters**” in relation to an outline planning permission or an application for such permission, means any of the following matters in respect of which details have not been given in the application, namely—
   - (a) siting;
@@ -136,9 +136,9 @@ The Department of the Environment makes the following Order in exercise of the p
 - (e) where the application relates to development belonging to the category of major development, by a pre-application community consultation report;
 - (f) where required under Article 6, by an access statement or a design and access statement as appropriate;
 - (g) by 3 additional copies of the application, plans and drawings submitted with it, except where the council or, as the case may be, the Department indicates that a lesser number is required;
-- (h) where the application relates to Crown land by a statement that the application is made in respect of Crown land; [^key-885bd3f0259d3f0ec656e0f7a9f8c11f]...
-- (i) by any fee payable under the Fees Regulations ;[^key-22d388f953de50bae9ae59ef6919d39b]
-- (j)[^key-218daed02a99bae0fd58523c927d2a2c] by such particulars and be verified by such evidence, as may be specified by a direction in writing given by a council made under this Order and published on its website.
+- (h) where the application relates to Crown land by a statement that the application is made in respect of Crown land; [^c-885bd3f0259d3f0ec656e0f7a9f8c11f]...
+- (i) by any fee payable under the Fees Regulations ;[^c-22d388f953de50bae9ae59ef6919d39b]
+- (j)[^c-218daed02a99bae0fd58523c927d2a2c] by such particulars and be verified by such evidence, as may be specified by a direction in writing given by a council made under this Order and published on its website.
 
 (4) In the case of an application for outline planning permission, details need not be given of any proposed reserved matters.
 
@@ -164,11 +164,11 @@ shall be made in writing and give sufficient information to identify the previou
 An application for approval of reserved matters—
 
 - (a) shall give sufficient information to enable the council or, as the case may be, the Department to identify the outline planning permission in respect of which it is made;
-- (b) shall include such particulars, and be accompanied by such plans and drawings as are necessary to deal with the matters reserved in the outline permission; [^key-16d80d8a11a389b36a6f12212a479c7f]...
-- (c) shall be accompanied by 3 additional copies of the application, plans and drawings submitted with it, except where the council or, as the case may be, the Department indicates that a lesser number is required ; and[^key-78871b86b946cc56a0728ea93594360b]
-- (d)[^key-88b0d1be0bddce78ee2059b20fb11ac6] shall be accompanied by such particulars and be verified by such evidence, as may be specified by a direction in writing given by a council made under this Order and published on its website.
+- (b) shall include such particulars, and be accompanied by such plans and drawings as are necessary to deal with the matters reserved in the outline permission; [^c-16d80d8a11a389b36a6f12212a479c7f]...
+- (c) shall be accompanied by 3 additional copies of the application, plans and drawings submitted with it, except where the council or, as the case may be, the Department indicates that a lesser number is required ; and[^c-78871b86b946cc56a0728ea93594360b]
+- (d)[^c-88b0d1be0bddce78ee2059b20fb11ac6] shall be accompanied by such particulars and be verified by such evidence, as may be specified by a direction in writing given by a council made under this Order and published on its website.
 
-## 5A. Validation particulars specified by direction[^key-3867feb3bff97ea40c112e197374746b]
+## 5A. Validation particulars specified by direction[^c-3867feb3bff97ea40c112e197374746b]
 
 (1) Subject to paragraph 2 the council may specify by direction published on its website what particulars or verifying evidence shall accompany any application—
 
@@ -324,7 +324,7 @@ Where the Department has given a direction under section 29 (call in of applicat
 
 Where an application has been made to the council or, as the case may be, the Department for any consent, agreement or approval required by a condition imposed on a grant of planning permission (other than an application for approval of reserved matters) the council or, as the case may be, the Department shall give notice to the applicant of its decision on the application within a period of 8 weeks from the date when the application was received by the council or, as the case may be, the Department or such longer period as may be agreed by the applicant and the council or, as the case may be, the Department in writing.
 
-## 12A. Notice confirming non-compliance with direction[^key-f7f3c32aa7955cf15b0d90ca4c3ee289]
+## 12A. Notice confirming non-compliance with direction[^c-f7f3c32aa7955cf15b0d90ca4c3ee289]
 
 (1) This Article applies where any application is made to the council—
 
@@ -385,7 +385,7 @@ the council shall give notice to the applicant if it considers the application h
 - (a) it shall give notice of the application together with information specified under Article 15(4) to the consultee; and
 - (b) notwithstanding Article 8(1)(d) subject to paragraph (5), the council or, as the case may be, the Department shall not determine the application—
   - (i) before 21 days after the date on which notice is given under sub-paragraph (a) and development is not EIA development,
-  - (ii) before 30[^key-d5c0e13c81fb008b7d137b6a838bd5d9] days where the development is EIA development, or
+  - (ii) before 30[^c-d5c0e13c81fb008b7d137b6a838bd5d9] days where the development is EIA development, or
   - (iii) any other date agreed in writing between the consultee and the council or, as the case may be, the Department in accordance with Article 15(2)(b),
 
 whichever is the latest.
@@ -406,7 +406,7 @@ whichever is the latest.
 
 (2) The period prescribed for the purposes of section 229(3)(a) of the 2011 Act, is—
 
-- (a) the period of 21 days , or 30 days in the case of an EIA application, in either case[^key-2771f030454b03e1fc247be3114fdc61] beginning with the day on which the council or, as the case may be, the Department is satisfied that it has supplied the statutory consultee with the information it believes necessary for the consultee to make a substantive response; or
+- (a) the period of 21 days , or 30 days in the case of an EIA application, in either case[^c-2771f030454b03e1fc247be3114fdc61] beginning with the day on which the council or, as the case may be, the Department is satisfied that it has supplied the statutory consultee with the information it believes necessary for the consultee to make a substantive response; or
 - (b) any other such period as may be agreed in writing between the consultee and the council or, as the case maybe, the Department.
 
 (3) The periods specified in paragraph (2) begin from the day on which such information pursuant to section 229(4)(b) of the 2011 Act is provided to the consultee and where such information is provided over more than one day, the last day on which such information is provided.
@@ -461,9 +461,9 @@ Pursuant to section 56(1)(b) (directions etc. as to method of dealing with appli
 (3) For the purposes of this Article, the date when the application was received shall be taken to be the date when each of the following events has occurred—
 
 - (a) the application in writing has been lodged with the council;
-- (b) any certificates or documents required by the 2011 Act have been lodged with the council; [^key-4dba21461e03869f53159a9c8648b397]...
-- (c) any fee required to be paid in respect of the application has been paid to the council ; and[^key-5d11251590f94deaf7a623d0a0ce87f3]
-- (d)[^key-39a40234bb61a31eb0c09ac33507225d] any direction made by the council under this Order specifying the validation particulars or verifying evidence which shall accompany the application has been complied with.
+- (b) any certificates or documents required by the 2011 Act have been lodged with the council; [^c-4dba21461e03869f53159a9c8648b397]...
+- (c) any fee required to be paid in respect of the application has been paid to the council ; and[^c-5d11251590f94deaf7a623d0a0ce87f3]
+- (d)[^c-39a40234bb61a31eb0c09ac33507225d] any direction made by the council under this Order specifying the validation particulars or verifying evidence which shall accompany the application has been complied with.
 
 (4) Where a request has been made to the Secretary of State for a certificate in respect of section 235(1) (national security) of the 2011 Act or the Department of Justice in respect of section 235(4) of the 2011 Act, the period specified in paragraph (2) of this Article shall begin on the date that the council is notified of that decision.
 
@@ -620,7 +620,7 @@ Article 11
 
 [image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_007)
 
-## SCHEDULE 3[^key-8c3832289d732fca7b1cf4f0029cb320]
+## SCHEDULE 3[^c-8c3832289d732fca7b1cf4f0029cb320]
 
 Article 13
 
@@ -664,7 +664,7 @@ Subject to Article 13, the council must before determining an application for pl
   or which is otherwise likely to result in a major increase in the number of persons working in or visiting the notified area; or
 - (b) where the development—
   - (i) involves the siting of new establishments,
-  - (ii) consists of the modification of existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-8b6214bdc0bbdf92f697ec26def8a462]
+  - (ii) consists of the modification of existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-8b6214bdc0bbdf92f697ec26def8a462]
   - (iii) involves new developments including transport routes, locations of public use and residential areas in the vicinity of establishments, where the siting or development may be the source of or increase the risk or consequences of a major accident.
 
 **4.** The Department for Infrastructure where a development proposal—
@@ -744,7 +744,7 @@ Subject to Article 13, the Department must before determining an application for
   or which is otherwise likely to result in a major increase in the number of persons working in or visiting the notified area; or
 - (b) where the development—
   - (i) involves the siting of new establishments,
-  - (ii) consists of the modification of existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-4580cb89647e9373b8e6543912b8acde]
+  - (ii) consists of the modification of existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-4580cb89647e9373b8e6543912b8acde]
   - (iii) involves new developments including transport routes, locations of public use and residential areas in the vicinity of establishments, where the siting or development may be the source of or increase the risk or consequences of a major accident.
 
 **5.** A water undertaker as defined under Article 13 of the Water and Sewerage Services (Northern Ireland) Order 2006, shall be consulted where a development proposal is likely to significantly impact upon the availability of suitable water and sewerage infrastructure to service development proposals.
@@ -811,7 +811,7 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22403171]: Marginal citation: [S.I. 2002/3153 (N.I.7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-90dca894931a096dd6a6e6d1f696d25f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/2/a)
+[^c-90dca894931a096dd6a6e6d1f696d25f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/2/a)
 
 [^c22403181]: Marginal citation: S.R. [2015 No.74](https://www.legislation.gov.uk/ukcm/2015/74)
 
@@ -821,48 +821,48 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22403211]: Marginal citation: S.R. [2015 No.61](https://www.legislation.gov.uk/ukcm/2015/61)
 
-[^key-2bb7cd4b1b7576adb1297389a7fe730b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 14](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/14) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-2bb7cd4b1b7576adb1297389a7fe730b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 14](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/14) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^c22403231]: Marginal citation: S.R. [2015 No.71](https://www.legislation.gov.uk/ukcm/2015/71)
 
 [^c22403241]: Marginal citation: S.R. [1995 No.380](https://www.legislation.gov.uk/ukcm/1995/380)
 
-[^key-b23a188e8676cc7c7d7b2df9eff96477]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) substituted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/2/b)
+[^c-b23a188e8676cc7c7d7b2df9eff96477]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) substituted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/2/b)
 
 [^c22403251]: Marginal citation: [1993 No. 3160](https://www.legislation.gov.uk/ukcm/1993/3160) (N.I. 15)
 
 [^c22403261]: Marginal citation: See Command Paper 9424
 
-[^key-885bd3f0259d3f0ec656e0f7a9f8c11f]: Textual amendment: Word in [art. 3(3)(h)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/h) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/a)
+[^c-885bd3f0259d3f0ec656e0f7a9f8c11f]: Textual amendment: Word in [art. 3(3)(h)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/h) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/a)
 
-[^key-22d388f953de50bae9ae59ef6919d39b]: Textual amendment: Words in [art. 3(3)(i)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/i) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/b)
+[^c-22d388f953de50bae9ae59ef6919d39b]: Textual amendment: Words in [art. 3(3)(i)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/i) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/b)
 
-[^key-218daed02a99bae0fd58523c927d2a2c]: Textual amendment: [Art. 3(3)(j)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/j) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/c)
+[^c-218daed02a99bae0fd58523c927d2a2c]: Textual amendment: [Art. 3(3)(j)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/j) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/c)
 
-[^key-16d80d8a11a389b36a6f12212a479c7f]: Textual amendment: Word in [art. 5(b)](https://www.legislation.gov.uk/nisr/2015/72/article/5/b) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/a)
+[^c-16d80d8a11a389b36a6f12212a479c7f]: Textual amendment: Word in [art. 5(b)](https://www.legislation.gov.uk/nisr/2015/72/article/5/b) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/a)
 
-[^key-78871b86b946cc56a0728ea93594360b]: Textual amendment: Words in [art. 5(c)](https://www.legislation.gov.uk/nisr/2015/72/article/5/c) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/b)
+[^c-78871b86b946cc56a0728ea93594360b]: Textual amendment: Words in [art. 5(c)](https://www.legislation.gov.uk/nisr/2015/72/article/5/c) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/b)
 
-[^key-88b0d1be0bddce78ee2059b20fb11ac6]: Textual amendment: [Art. 5(d)](https://www.legislation.gov.uk/nisr/2015/72/article/5/d) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/c)
+[^c-88b0d1be0bddce78ee2059b20fb11ac6]: Textual amendment: [Art. 5(d)](https://www.legislation.gov.uk/nisr/2015/72/article/5/d) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/c)
 
-[^key-3867feb3bff97ea40c112e197374746b]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisr/2015/72/article/5A) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2024/176/article/2/5)
+[^c-3867feb3bff97ea40c112e197374746b]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisr/2015/72/article/5A) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2024/176/article/2/5)
 
 [^c22403271]: Marginal citation: S.R. [2015 No.70](https://www.legislation.gov.uk/ukcm/2015/70)
 
-[^key-f7f3c32aa7955cf15b0d90ca4c3ee289]: Textual amendment: [Arts. 12A](https://www.legislation.gov.uk/nisr/2015/72/article/12A), [12B](https://www.legislation.gov.uk/nisr/2015/72/article/12B) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(6)](https://www.legislation.gov.uk/nisr/2024/176/article/2/6)
+[^c-f7f3c32aa7955cf15b0d90ca4c3ee289]: Textual amendment: [Arts. 12A](https://www.legislation.gov.uk/nisr/2015/72/article/12A), [12B](https://www.legislation.gov.uk/nisr/2015/72/article/12B) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(6)](https://www.legislation.gov.uk/nisr/2024/176/article/2/6)
 
-[^key-d5c0e13c81fb008b7d137b6a838bd5d9]: Textual amendment: Word in [art. 13(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/72/article/13/4/b/ii) substituted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(7)](https://www.legislation.gov.uk/nisr/2024/176/article/2/7)
+[^c-d5c0e13c81fb008b7d137b6a838bd5d9]: Textual amendment: Word in [art. 13(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/72/article/13/4/b/ii) substituted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(7)](https://www.legislation.gov.uk/nisr/2024/176/article/2/7)
 
-[^key-2771f030454b03e1fc247be3114fdc61]: Textual amendment: Words in [art. 15(2)(a)](https://www.legislation.gov.uk/nisr/2015/72/article/15/2/a) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(8)](https://www.legislation.gov.uk/nisr/2024/176/article/2/8)
+[^c-2771f030454b03e1fc247be3114fdc61]: Textual amendment: Words in [art. 15(2)(a)](https://www.legislation.gov.uk/nisr/2015/72/article/15/2/a) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(8)](https://www.legislation.gov.uk/nisr/2024/176/article/2/8)
 
-[^key-4dba21461e03869f53159a9c8648b397]: Textual amendment: Word in [art. 20(3)(b)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/b) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/a)
+[^c-4dba21461e03869f53159a9c8648b397]: Textual amendment: Word in [art. 20(3)(b)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/b) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/a)
 
-[^key-5d11251590f94deaf7a623d0a0ce87f3]: Textual amendment: Words in [art. 20(3)(c)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/c) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/b)
+[^c-5d11251590f94deaf7a623d0a0ce87f3]: Textual amendment: Words in [art. 20(3)(c)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/c) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/b)
 
-[^key-39a40234bb61a31eb0c09ac33507225d]: Textual amendment: [Art. 20(3)(d)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/d) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/c)
+[^c-39a40234bb61a31eb0c09ac33507225d]: Textual amendment: [Art. 20(3)(d)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/d) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/c)
 
-[^key-8c3832289d732fca7b1cf4f0029cb320]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2015/72/schedule/3) substituted (9.5.2016) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/115)](https://www.legislation.gov.uk/nisr/2016/115), [arts. 1](https://www.legislation.gov.uk/nisr/2016/115/article/1), [2](https://www.legislation.gov.uk/nisr/2016/115/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/115/schedule)
+[^c-8c3832289d732fca7b1cf4f0029cb320]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2015/72/schedule/3) substituted (9.5.2016) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/115)](https://www.legislation.gov.uk/nisr/2016/115), [arts. 1](https://www.legislation.gov.uk/nisr/2016/115/article/1), [2](https://www.legislation.gov.uk/nisr/2016/115/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/115/schedule)
 
-[^key-8b6214bdc0bbdf92f697ec26def8a462]: Textual amendment: Words in Sch. 3 Pt. 1 para. 3(b)(ii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b6214bdc0bbdf92f697ec26def8a462]: Textual amendment: Words in Sch. 3 Pt. 1 para. 3(b)(ii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4580cb89647e9373b8e6543912b8acde]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2015/72/schedule/3/paragraph/4/b/ii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4580cb89647e9373b8e6543912b8acde]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2015/72/schedule/3/paragraph/4/b/ii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

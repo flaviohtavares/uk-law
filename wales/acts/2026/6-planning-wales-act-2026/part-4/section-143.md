@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Continuing effect of enforcement notice in relation to later development[^key-c87c45177e2b3e58b32cee37d54611dd]
+## 143. Continuing effect of enforcement notice in relation to later development[^c-c87c45177e2b3e58b32cee37d54611dd]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c87c45177e2b3e58b32cee37d54611dd]: Commencement: S. 143 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c87c45177e2b3e58b32cee37d54611dd]: Commencement: S. 143 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -44,7 +44,7 @@ Coming into force
 
 1st October 2009
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1045, 1052, 1105 and 1292(1) of the Companies Act 2006 [^c19778811].[^key-6510f4f725acc44db357f4bcef2cb5f0]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1045, 1052, 1105 and 1292(1) of the Companies Act 2006 [^c19778811].[^c-6510f4f725acc44db357f4bcef2cb5f0]
 
 ## PART 1 — INTRODUCTION
 
@@ -176,67 +176,67 @@ The Foreign Companies (Execution of Documents) Regulations 1994 [^c19778831] and
 - (a) in England and Wales and Northern Ireland, includes a mortgage;
 - (b) in Scotland, includes any right in security.
 
-(5)[^key-f06b671501984b6291485f751a9642c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f06b671501984b6291485f751a9642c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Charges requiring registration
 
-#### 9. Charges requiring registration[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 9. Charges requiring registration[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Duty to deliver particulars of charge etc for registration[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 10. Duty to deliver particulars of charge etc for registration[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. The required particulars[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 11. The required particulars[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. The period allowed for registration[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 12. The period allowed for registration[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Charge by way of ex facie absolute disposition[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 13. Charge by way of ex facie absolute disposition[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Special rules for debentures
 
-#### 14. Special rules about debentures: charge in series of debentures[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 14. Special rules about debentures: charge in series of debentures[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Special rules about debentures: additional registration requirement for commission etc[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 15. Special rules about debentures: additional registration requirement for commission etc[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Special rules about debentures: period allowed for registration[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 16. Special rules about debentures: period allowed for registration[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Special rules about debentures: endorsement of certificate on debentures[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 17. Special rules about debentures: endorsement of certificate on debentures[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The register of charges
 
-#### 18. The register of charges[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 18. The register of charges[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Consequences of failure to register[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 19. Consequences of failure to register[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Registration of enforcement of security[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 20. Registration of enforcement of security[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Entries of satisfaction and release[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 21. Entries of satisfaction and release[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Rectification of register of charges[^key-8f6ada44b3d885700f398ffd782d986f]
+#### 22. Rectification of register of charges[^c-8f6ada44b3d885700f398ffd782d986f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -244,21 +244,21 @@ The Foreign Companies (Execution of Documents) Regulations 1994 [^c19778831] and
 
 #### 23. Companies to keep available for inspection copies of instruments creating charges
 
-(1) A company to which this Part applies must keep available for inspection a copy of every instrument creating a charge referred to in regulation 24(1)[^key-8d2d42f6d5c60e24db23a7ef3f8e7700].
+(1) A company to which this Part applies must keep available for inspection a copy of every instrument creating a charge referred to in regulation 24(1)[^c-8d2d42f6d5c60e24db23a7ef3f8e7700].
 
-(2)[^key-7e4a4200556060e94f1a88d9968b6993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7e4a4200556060e94f1a88d9968b6993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 24. Company's register of charges
 
-(1)[^key-bd7917e879a5e11414ed38dee4dbd6fe] Every company to which this Part applies must keep available for inspection a register of charges and must, as soon as practicable and in any event within 21 days of the creation of the charge, enter in it—
+(1)[^c-bd7917e879a5e11414ed38dee4dbd6fe] Every company to which this Part applies must keep available for inspection a register of charges and must, as soon as practicable and in any event within 21 days of the creation of the charge, enter in it—
 
 - (a) any charge on land situated in the United Kingdom or any interest in such land;
 - (b) any charge on ships, aircraft or intellectual property registered in the United Kingdom; and
 - (c) any floating charge on the whole or part of the company’s property or undertaking situated in the United Kingdom.
 
-(2) The entry must in each case give a short description of the property , land or undertaking[^key-ee13a7881820a58f085fb7e9ca70d75c] charged, the amount of the charge and, except in the cases of securities to bearer, the names of the persons entitled to it.
+(2) The entry must in each case give a short description of the property , land or undertaking[^c-ee13a7881820a58f085fb7e9ca70d75c] charged, the amount of the charge and, except in the cases of securities to bearer, the names of the persons entitled to it.
 
-(2A)[^key-4dd39fcc6e6a6fd451e358659aa4720d] Paragraph (1)(c) does not apply to a floating charge which expressly excludes all property or undertaking of the company situated in the United Kingdom or which purports to be a fixed charge.
+(2A)[^c-4dd39fcc6e6a6fd451e358659aa4720d] Paragraph (1)(c) does not apply to a floating charge which expressly excludes all property or undertaking of the company situated in the United Kingdom or which purports to be a fixed charge.
 
 (2B) A charge on land, for the purposes of this regulation, includes a charge created by a heritable security within the meaning of section 9(8) of the Conveyancing and Feudal Reform (Scotland) Act 1970.
 
@@ -282,7 +282,7 @@ The Foreign Companies (Execution of Documents) Regulations 1994 [^c19778831] and
 
 (3) The company must give notice to the registrar—
 
-- (a) of the place at which the documents and register are kept available for inspection, within 21[^key-a50fa3a35d5af87322168091336e8fd3] days of the first entry on the register[^key-f5fea09a68613b36640b1ae0d3a87b94] of a charge under regulation 24(1)[^key-9d16ff4a083533fa51de962e237d37fb], and
+- (a) of the place at which the documents and register are kept available for inspection, within 21[^c-a50fa3a35d5af87322168091336e8fd3] days of the first entry on the register[^c-f5fea09a68613b36640b1ae0d3a87b94] of a charge under regulation 24(1)[^c-9d16ff4a083533fa51de962e237d37fb], and
 - (b) of any change in that place, within 14 days of any such change.
 
 (4) The documents and register shall be open to the inspection—
@@ -308,17 +308,17 @@ The Foreign Companies (Execution of Documents) Regulations 1994 [^c19778831] and
 
 (2) The required notice is at least 10 working days' notice of the specified day.
 
-(3) When a person gives notice of the specified day he shall also give notice of the time on that day at which he wishes to start the inspection (which shall be any time between 9 am and 3 pm) and the company shall make its documents and register[^key-51e26b4dc62ee5b5a002e30e741df12e] available for inspection by that person for a period of at least 2 hours beginning with that time.
+(3) When a person gives notice of the specified day he shall also give notice of the time on that day at which he wishes to start the inspection (which shall be any time between 9 am and 3 pm) and the company shall make its documents and register[^c-51e26b4dc62ee5b5a002e30e741df12e] available for inspection by that person for a period of at least 2 hours beginning with that time.
 
 (4) A company that fails to comply with this regulation is treated as having refused inspection.
 
-#### 26A. Inspection by electronic means[^key-d96aa269c9222826c1b4d366eeddf20e]
+#### 26A. Inspection by electronic means[^c-d96aa269c9222826c1b4d366eeddf20e]
 
 Where the company and the person agree, the inspection referred to in regulation 26 may be carried out by electronic means.
 
 ### Supplementary provisions
 
-#### 27. Delivery of documents in language other than English[^key-84eba0401e79cb74de44afb8236b306f]
+#### 27. Delivery of documents in language other than English[^c-84eba0401e79cb74de44afb8236b306f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -401,7 +401,7 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^c19778811]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-6510f4f725acc44db357f4bcef2cb5f0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/1917) applied (with modifications) (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/12); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6510f4f725acc44db357f4bcef2cb5f0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/1917) applied (with modifications) (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/12); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19778821]: Marginal citation: OJ L395, 31.12.1989, p.36.
 
@@ -411,31 +411,31 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^c19778851]: Marginal citation: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-f06b671501984b6291485f751a9642c7]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/8/5) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/2)
+[^c-f06b671501984b6291485f751a9642c7]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/8/5) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/2)
 
-[^key-8f6ada44b3d885700f398ffd782d986f]: Textual amendment: [Regs. 9-22](https://www.legislation.gov.uk/uksi/2009/1917/regulation/9) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/3)
+[^c-8f6ada44b3d885700f398ffd782d986f]: Textual amendment: [Regs. 9-22](https://www.legislation.gov.uk/uksi/2009/1917/regulation/9) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/3)
 
-[^key-8d2d42f6d5c60e24db23a7ef3f8e7700]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/23/1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/4/a)
+[^c-8d2d42f6d5c60e24db23a7ef3f8e7700]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/23/1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/4/a)
 
-[^key-7e4a4200556060e94f1a88d9968b6993]: Textual amendment: [Reg. 23(2)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/23/2) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/4/b)
+[^c-7e4a4200556060e94f1a88d9968b6993]: Textual amendment: [Reg. 23(2)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/23/2) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/4/b)
 
-[^key-bd7917e879a5e11414ed38dee4dbd6fe]: Textual amendment: Reg. 24(1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/5/a)
+[^c-bd7917e879a5e11414ed38dee4dbd6fe]: Textual amendment: Reg. 24(1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/5/a)
 
-[^key-ee13a7881820a58f085fb7e9ca70d75c]: Textual amendment: Words in reg. 24(2) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/5/b)
+[^c-ee13a7881820a58f085fb7e9ca70d75c]: Textual amendment: Words in reg. 24(2) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/5/b)
 
-[^key-4dd39fcc6e6a6fd451e358659aa4720d]: Textual amendment: Reg. 24(2A)-(2C) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/5/c)
+[^c-4dd39fcc6e6a6fd451e358659aa4720d]: Textual amendment: Reg. 24(2A)-(2C) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/5/c)
 
-[^key-a50fa3a35d5af87322168091336e8fd3]: Textual amendment: Word in [reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/25/3/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/2194/regulation/3))
+[^c-a50fa3a35d5af87322168091336e8fd3]: Textual amendment: Word in [reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/25/3/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/2194/regulation/3))
 
-[^key-f5fea09a68613b36640b1ae0d3a87b94]: Textual amendment: Words in [reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/25/3/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/2194/regulation/3))
+[^c-f5fea09a68613b36640b1ae0d3a87b94]: Textual amendment: Words in [reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/25/3/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/2194/regulation/3))
 
-[^key-9d16ff4a083533fa51de962e237d37fb]: Textual amendment: Words in [reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/25/3/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/6/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/2194/regulation/3))
+[^c-9d16ff4a083533fa51de962e237d37fb]: Textual amendment: Words in [reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/25/3/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/6/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/2194/regulation/3))
 
-[^key-51e26b4dc62ee5b5a002e30e741df12e]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/26/3) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/7)
+[^c-51e26b4dc62ee5b5a002e30e741df12e]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2009/1917/regulation/26/3) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/7)
 
-[^key-d96aa269c9222826c1b4d366eeddf20e]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2009/1917/regulation/26A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/8)
+[^c-d96aa269c9222826c1b4d366eeddf20e]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2009/1917/regulation/26A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/8)
 
-[^key-84eba0401e79cb74de44afb8236b306f]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/1917/regulation/27) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/9)
+[^c-84eba0401e79cb74de44afb8236b306f]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/1917/regulation/27) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Overseas Companies (Execution of Documents and Registration of Charges) (Amendment) Regulations 2011 (S.I. 2011/2194)](https://www.legislation.gov.uk/uksi/2011/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2011/2194/regulation/2/9)
 
 [^c19778891]: Marginal citation: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 

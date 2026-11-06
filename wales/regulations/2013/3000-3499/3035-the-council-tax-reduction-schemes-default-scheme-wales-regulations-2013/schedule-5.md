@@ -28,7 +28,7 @@ summary: ''
 - (d) a guaranteed income payment and, if the amount of that payment has been abated to less than £10 by a pension or payment falling within Article 39(1)(a) or (b) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00260], so much of that pension or payment as would not, in aggregate with the amount of any guaranteed income payment disregarded, exceed £10;
 - (e) a payment made to compensate for the non-payment of such a pension or payment as is mentioned in any of the preceding sub-paragraphs;
 - (f) a pension paid by the government of a country outside Great Britain which is analogous to any of the pensions or payments mentioned in sub-paragraphs (a) to (d) above;
-- (g)[^key-1b1c45aebd2a21c783ee69338779c209] a pension paid by a government to victims of National Socialist persecution.
+- (g)[^c-1b1c45aebd2a21c783ee69338779c209] a pension paid by a government to victims of National Socialist persecution.
 
 **2.** The whole of any amount included in a pension to which paragraph 1 relates in respect of—
 
@@ -144,7 +144,7 @@ whichever is less.
 
 [^f00260]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517).
 
-[^key-1b1c45aebd2a21c783ee69338779c209]: Textual amendment: Sch. Scheme Sch. 5 para. 1(g) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2018/14/regulation/27)
+[^c-1b1c45aebd2a21c783ee69338779c209]: Textual amendment: Sch. Scheme Sch. 5 para. 1(g) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2018/14/regulation/27)
 
 [^f00261]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
 

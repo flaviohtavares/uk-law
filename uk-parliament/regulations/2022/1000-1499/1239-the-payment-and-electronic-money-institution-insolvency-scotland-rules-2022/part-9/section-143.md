@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Final progress reports[^key-33719a8e192d34809a78a10c78d7654e]
+## 143. Final progress reports[^c-33719a8e192d34809a78a10c78d7654e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The final progress report means a progress report which includes a summary of th
 
 ## Annotations
 
-[^key-33719a8e192d34809a78a10c78d7654e]: Commencement: Rule 143 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-33719a8e192d34809a78a10c78d7654e]: Commencement: Rule 143 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Ministers' power to request that sentencing guidelines be prepared or reviewed[^key-82de934f53503d21c8792f3ca2a784ca]
+## 7. Ministers' power to request that sentencing guidelines be prepared or reviewed[^c-82de934f53503d21c8792f3ca2a784ca]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82de934f53503d21c8792f3ca2a784ca]: Commencement: S. 7 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-82de934f53503d21c8792f3ca2a784ca]: Commencement: S. 7 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. The new employment condition[^key-bf00bce35f9eabc00db7e56c5a43384f]
+## 88. The new employment condition[^c-bf00bce35f9eabc00db7e56c5a43384f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf00bce35f9eabc00db7e56c5a43384f]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2014/292/regulation/88) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-bf00bce35f9eabc00db7e56c5a43384f]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2014/292/regulation/88) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

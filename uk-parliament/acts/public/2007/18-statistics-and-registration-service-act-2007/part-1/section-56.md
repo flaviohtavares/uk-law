@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Transfers etc from ONS to the Board[^key-bfdfb7dfbe4befff9eec4d7b52606b3d]
+## 56. Transfers etc from ONS to the Board[^c-bfdfb7dfbe4befff9eec4d7b52606b3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfdfb7dfbe4befff9eec4d7b52606b3d]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2007/18/section/56) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-bfdfb7dfbe4befff9eec4d7b52606b3d]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2007/18/section/56) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

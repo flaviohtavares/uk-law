@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Conversion to creditors’ voluntary winding up[^key-ef755ec379d0fb1790f99cb762da76d9]
+## 28. Conversion to creditors’ voluntary winding up[^c-ef755ec379d0fb1790f99cb762da76d9]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ For Article 82 (conversion to creditors’ voluntary winding up) substitute—
 
 ## Annotations
 
-[^key-ef755ec379d0fb1790f99cb762da76d9]: Commencement: S. 28 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-ef755ec379d0fb1790f99cb762da76d9]: Commencement: S. 28 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

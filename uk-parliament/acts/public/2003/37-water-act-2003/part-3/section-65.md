@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Procedure at local inquiries[^key-613448198432683c3c0f91d3f6cd1659]
+## 65. Procedure at local inquiries[^c-613448198432683c3c0f91d3f6cd1659]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In Schedule 8 to the WRA (proceedings on applications for drought orders), in pa
 
 ## Annotations
 
-[^key-613448198432683c3c0f91d3f6cd1659]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2003/37/section/65) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(p)](https://www.legislation.gov.uk/uksi/2004/641/article/3/p) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-613448198432683c3c0f91d3f6cd1659]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2003/37/section/65) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(p)](https://www.legislation.gov.uk/uksi/2004/641/article/3/p) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

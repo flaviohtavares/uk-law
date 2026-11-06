@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Supply of full register etc. to certain councils and restrictions on use[^key-479ea397546d3e87432d5dd7db76dcd8]
+## 106. Supply of full register etc. to certain councils and restrictions on use[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -30,9 +30,9 @@ summary: ''
 - (b) disclose any information contained in it that is not included in the edited register, or
 - (c) make use of any such information,
 
-except for the discharge of a statutory function of the council relating to security, law enforcement and crime prevention , or for the purposes of a local referendum being conducted by the returning officer or[^key-7eb015729fb77980b77917baa6756215] or for statistical purposes (in which case no information shall be disclosed which includes the name and address of any elector whether that name or address appears in the edited register or only in the full register).
+except for the discharge of a statutory function of the council relating to security, law enforcement and crime prevention , or for the purposes of a local referendum being conducted by the returning officer or[^c-7eb015729fb77980b77917baa6756215] or for statistical purposes (in which case no information shall be disclosed which includes the name and address of any elector whether that name or address appears in the edited register or only in the full register).
 
-(3A)[^key-b5be0bd3c563c045b433fc65c33fb388] In paragraph (3) “the returning officer” means the returning officer appointed for the council’s area under section 41 of the 1983 Act.
+(3A)[^c-b5be0bd3c563c045b433fc65c33fb388] In paragraph (3) “the returning officer” means the returning officer appointed for the council’s area under section 41 of the 1983 Act.
 
 (4) Paragraphs (5) and (6) of this regulation apply to community councils established under section 51 of the Local Government (Scotland) Act 1973[^f00027] for the area of the council by which the registration officer was appointed.
 
@@ -48,10 +48,10 @@ except for the purpose of establishing whether any person is entitled to attend 
 
 ## Annotations
 
-[^key-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
+[^c-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
 
-[^key-7eb015729fb77980b77917baa6756215]: Textual amendment: Words in [reg. 106(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/106/3) inserted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2006/834/regulation/17/2)
+[^c-7eb015729fb77980b77917baa6756215]: Textual amendment: Words in [reg. 106(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/106/3) inserted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2006/834/regulation/17/2)
 
-[^key-b5be0bd3c563c045b433fc65c33fb388]: Textual amendment: [Reg. 106(3A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/106/3A) inserted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2006/834/regulation/17/3)
+[^c-b5be0bd3c563c045b433fc65c33fb388]: Textual amendment: [Reg. 106(3A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/106/3A) inserted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2006/834/regulation/17/3)
 
 [^f00027]: Footnote: Section 9 was substituted by Schedule 1 to the 2000 Act.

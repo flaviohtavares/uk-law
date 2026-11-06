@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 194. Application of this Section[^key-3e4d74b1a586e1c0c053c83c7d61981c]
+## 194. Application of this Section[^c-3e4d74b1a586e1c0c053c83c7d61981c]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e4d74b1a586e1c0c053c83c7d61981c]: Commencement: [Reg. 194](https://www.legislation.gov.uk/ssi/2014/292/regulation/194) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3e4d74b1a586e1c0c053c83c7d61981c]: Commencement: [Reg. 194](https://www.legislation.gov.uk/ssi/2014/292/regulation/194) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

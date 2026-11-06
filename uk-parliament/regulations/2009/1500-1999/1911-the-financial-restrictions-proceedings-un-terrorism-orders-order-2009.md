@@ -32,7 +32,7 @@ summary: ''
 
 Prevention And Suppression Of Terrorism
 
-The Financial Restrictions Proceedings (UN Terrorism Orders) Order 2009 (revoked)[^key-3bb0e6aa42e512b322cf982bfa428387]
+The Financial Restrictions Proceedings (UN Terrorism Orders) Order 2009 (revoked)[^c-3bb0e6aa42e512b322cf982bfa428387]
 
 Made
 
@@ -44,24 +44,24 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-3bb0e6aa42e512b322cf982bfa428387]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb0e6aa42e512b322cf982bfa428387]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3bb0e6aa42e512b322cf982bfa428387]
+## 1. Citation and commencement[^c-3bb0e6aa42e512b322cf982bfa428387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Counter-Terrorism Act 2008[^key-3bb0e6aa42e512b322cf982bfa428387]
+## 2. Amendment to the Counter-Terrorism Act 2008[^c-3bb0e6aa42e512b322cf982bfa428387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bb0e6aa42e512b322cf982bfa428387]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb0e6aa42e512b322cf982bfa428387]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bb0e6aa42e512b322cf982bfa428387]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb0e6aa42e512b322cf982bfa428387]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bb0e6aa42e512b322cf982bfa428387]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1911) revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)
+[^c-3bb0e6aa42e512b322cf982bfa428387]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1911) revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)

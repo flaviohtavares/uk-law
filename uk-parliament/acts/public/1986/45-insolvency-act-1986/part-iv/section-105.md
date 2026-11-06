@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Meetings of company and creditors at each year’s end (Scotland).[^key-69308c5823863e8da09abd15279da5b1][^c21415041]
+## 105. Meetings of company and creditors at each year’s end (Scotland).[^c-69308c5823863e8da09abd15279da5b1][^c21415041]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69308c5823863e8da09abd15279da5b1]: Textual amendment: S. 105 repealed (S.) (1.4.2016 for specified purposes, 6.4.2019 in so far as not already in force) by [The Public Services Reform (Insolvency) (Scotland) Order 2016 (S.S.I. 2016/141)](https://www.legislation.gov.uk/ssi/2016/141), [arts. 1(3)(4)](https://www.legislation.gov.uk/ssi/2016/141/article/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/141/article/6/2) (with [arts. 14](https://www.legislation.gov.uk/ssi/2016/141/article/14), [15](https://www.legislation.gov.uk/ssi/2016/141/article/15)) (with savings by by S.S.I. 2016/141, art. 16 (as inserted (S.) (1.8.2017) by [The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017 (S.S.I. 2017/209)](https://www.legislation.gov.uk/ssi/2017/209), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2017/209/article/1/2), [8(3)](https://www.legislation.gov.uk/ssi/2017/209/article/8/3)) (see S.I. 2019/816, reg. 4(a))
+[^c-69308c5823863e8da09abd15279da5b1]: Textual amendment: S. 105 repealed (S.) (1.4.2016 for specified purposes, 6.4.2019 in so far as not already in force) by [The Public Services Reform (Insolvency) (Scotland) Order 2016 (S.S.I. 2016/141)](https://www.legislation.gov.uk/ssi/2016/141), [arts. 1(3)(4)](https://www.legislation.gov.uk/ssi/2016/141/article/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/141/article/6/2) (with [arts. 14](https://www.legislation.gov.uk/ssi/2016/141/article/14), [15](https://www.legislation.gov.uk/ssi/2016/141/article/15)) (with savings by by S.S.I. 2016/141, art. 16 (as inserted (S.) (1.8.2017) by [The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017 (S.S.I. 2017/209)](https://www.legislation.gov.uk/ssi/2017/209), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2017/209/article/1/2), [8(3)](https://www.legislation.gov.uk/ssi/2017/209/article/8/3)) (see S.I. 2019/816, reg. 4(a))
 
 [^c21415041]: Textual amendment: Word in s. 105 heading inserted (6.4.2010) by [The Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 (S.I. 2010/18)](https://www.legislation.gov.uk/uksi/2010/18), [art. 6(4)(a)](https://www.legislation.gov.uk/uksi/2010/18/article/6/4/a) (with [art. 12(2)](https://www.legislation.gov.uk/uksi/2010/18/article/12/2))

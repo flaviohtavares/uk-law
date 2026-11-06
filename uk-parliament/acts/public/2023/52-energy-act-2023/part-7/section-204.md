@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Mergers of energy network enterprises[^key-1b4fc3ab88a18d94f0636d37e1a2dc6d]
+## 204. Mergers of energy network enterprises[^c-1b4fc3ab88a18d94f0636d37e1a2dc6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b4fc3ab88a18d94f0636d37e1a2dc6d]: Commencement: S. 204 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-1b4fc3ab88a18d94f0636d37e1a2dc6d]: Commencement: S. 204 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156A. Contractual recognition of bail-in: technical standards[^key-52417a45ba13f9daaa609cedd32313c3]
+## 156A. Contractual recognition of bail-in: technical standards[^c-52417a45ba13f9daaa609cedd32313c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52417a45ba13f9daaa609cedd32313c3]: Textual amendment: [Pt. 11A](https://www.legislation.gov.uk/uksi/2014/3348/part/11A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 89](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52417a45ba13f9daaa609cedd32313c3]: Textual amendment: [Pt. 11A](https://www.legislation.gov.uk/uksi/2014/3348/part/11A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 89](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

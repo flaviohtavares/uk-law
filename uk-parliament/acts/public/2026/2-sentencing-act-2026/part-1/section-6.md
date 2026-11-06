@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Finding of domestic abuse[^key-62bb946db6741f4665a242d31a38b5cf]
+## 6. Finding of domestic abuse[^c-62bb946db6741f4665a242d31a38b5cf]
 
 *Extent: E+W*
 
-(1)[^key-a0e37203e69a37693384a22871eb07da] In Part 3 of the Sentencing Code (sentencing procedure), after Chapter 5 insert—
+(1)[^c-a0e37203e69a37693384a22871eb07da] In Part 3 of the Sentencing Code (sentencing procedure), after Chapter 5 insert—
 
 > **Chapter 6 — Finding of domestic abuse**
 >
@@ -37,7 +37,7 @@ summary: ''
 >
 > (4) In this section “**domestic abuse**” has the same meaning as in the Domestic Abuse Act 2021 (see sections 1 and 2 of that Act).
 
-(2)[^key-edaa93ad1a5db8b0613ce7ddadf28028] In the Armed Forces Act 2006, after section 253 insert—
+(2)[^c-edaa93ad1a5db8b0613ce7ddadf28028] In the Armed Forces Act 2006, after section 253 insert—
 
 > **Finding of domestic abuse**
 >
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-62bb946db6741f4665a242d31a38b5cf]: Commencement: S. 6 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-62bb946db6741f4665a242d31a38b5cf]: Commencement: S. 6 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-a0e37203e69a37693384a22871eb07da]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/1) in force at 5.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/a)
+[^c-a0e37203e69a37693384a22871eb07da]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/1) in force at 5.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/a)
 
-[^key-edaa93ad1a5db8b0613ce7ddadf28028]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/2) in force at 5.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/b)
+[^c-edaa93ad1a5db8b0613ce7ddadf28028]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/2) in force at 5.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/b)

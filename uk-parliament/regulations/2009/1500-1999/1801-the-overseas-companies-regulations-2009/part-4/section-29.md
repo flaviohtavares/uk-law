@@ -24,8 +24,8 @@ summary: ''
 (2) A person guilty of an offence under paragraph (1) is liable on summary conviction to—
 
 - (a) a fine not exceeding level 5 on the standard scale, and
-- (b) for continued contravention, a daily default fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-5edcf5fe25169d7f44250a195ee83376] one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
+- (b) for continued contravention, a daily default fine not exceeding one tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-5edcf5fe25169d7f44250a195ee83376] one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
 
 ## Annotations
 
-[^key-5edcf5fe25169d7f44250a195ee83376]: Textual amendment: Words in [reg. 29(2)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/29/2/b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/13/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-5edcf5fe25169d7f44250a195ee83376]: Textual amendment: Words in [reg. 29(2)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/29/2/b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/13/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

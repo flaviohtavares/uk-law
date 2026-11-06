@@ -80,7 +80,7 @@ A ranger shall obey such lawful commands as he may from time to time receive fro
 - (a) any right of access to or user of the Stormont Estate, or
 - (b) any right of way over, or other right whatever in relation to, the Stormont Estate.
 
-## 5. Provisions as to taking and disposal of land for the public services.[^key-6bff7df5f0a2b7003319c93b9e9c284d]
+## 5. Provisions as to taking and disposal of land for the public services.[^c-6bff7df5f0a2b7003319c93b9e9c284d]
 
 (1)[^c5434431] [^c5434441] The Ministry of Finance may purchase by agreement or take on lease any land, where the same is required for the purpose of any powers or duties of the said Ministry or for the administration of any public service in Northern Ireland.
 
@@ -145,7 +145,7 @@ SCHEDULE
 
 [^c19055441]: Modification: [Ss. 1-4](https://www.legislation.gov.uk/apni/1933/6/section/1) excluded (9.3.2006) by the [Stormont Estate (Northern Ireland) Order 2006 (S.I. 2006/612 (N.I. 5))](https://www.legislation.gov.uk/nisi/2006/612), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/612/article/1/2), [3(2)](https://www.legislation.gov.uk/nisi/2006/612/article/3/2)
 
-[^key-6bff7df5f0a2b7003319c93b9e9c284d]: Modification: [S. 5](https://www.legislation.gov.uk/apni/1933/6/section/5) excluded (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 39(2)](https://www.legislation.gov.uk/nia/2011/11/section/39/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(i)](https://www.legislation.gov.uk/nisr/2013/104/article/2/i)
+[^c-6bff7df5f0a2b7003319c93b9e9c284d]: Modification: [S. 5](https://www.legislation.gov.uk/apni/1933/6/section/5) excluded (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 39(2)](https://www.legislation.gov.uk/nia/2011/11/section/39/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(i)](https://www.legislation.gov.uk/nisr/2013/104/article/2/i)
 
 [^c5434431]: Textual amendment: [1948 c.25 (NI)](https://www.legislation.gov.uk/apni/1948/25); [1955 c.2 (NI)](https://www.legislation.gov.uk/apni/1955/2); [1964 c.28 (NI)](https://www.legislation.gov.uk/apni/1964/28); [1965 c.9 (NI)](https://www.legislation.gov.uk/apni/1965/9); [1965 c.13 (NI)](https://www.legislation.gov.uk/apni/1965/13); [1966 c.36 (NI)](https://www.legislation.gov.uk/apni/1966/36); [1970 c.9 (NI)](https://www.legislation.gov.uk/apni/1970/9); [1972 c.5 (NI)](https://www.legislation.gov.uk/apni/1972/5); [1972 NI 12](https://www.legislation.gov.uk/1972/ni12); [1972 NI 17](https://www.legislation.gov.uk/1972/ni17); [1972 NI 20](https://www.legislation.gov.uk/1972/ni20); [1973 NI 2](https://www.legislation.gov.uk/1973/ni2); [1980 NI 11](https://www.legislation.gov.uk/1980/ni11); [1981 NI 3](https://www.legislation.gov.uk/1981/ni3); [1975 c.77](https://www.legislation.gov.uk/ukpga/1975/77)
 

@@ -32,7 +32,7 @@ EUROPEAN COMMUNITIES
 
 WATER AND SEWERAGE
 
-The Protection of Water Against Agricultural Nitrate Pollution (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-fd57d6604c5e72915653aa5edba5f3e1]
+The Protection of Water Against Agricultural Nitrate Pollution (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-fd57d6604c5e72915653aa5edba5f3e1]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 28th July 1997
 
-[^key-fd57d6604c5e72915653aa5edba5f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd57d6604c5e72915653aa5edba5f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fd57d6604c5e72915653aa5edba5f3e1]
+## 1. Citation, commencement and interpretation[^c-fd57d6604c5e72915653aa5edba5f3e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-fd57d6604c5e72915653aa5edba5f3e1]
+## 2. Amendment[^c-fd57d6604c5e72915653aa5edba5f3e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd57d6604c5e72915653aa5edba5f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd57d6604c5e72915653aa5edba5f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fd57d6604c5e72915653aa5edba5f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd57d6604c5e72915653aa5edba5f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd57d6604c5e72915653aa5edba5f3e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/256) revoked (1.6.2003) by [The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/259)](https://www.legislation.gov.uk/nisr/2003/259), [regs. 1](https://www.legislation.gov.uk/nisr/2003/259/regulation/1), [11](https://www.legislation.gov.uk/nisr/2003/259/regulation/11)
+[^c-fd57d6604c5e72915653aa5edba5f3e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/256) revoked (1.6.2003) by [The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/259)](https://www.legislation.gov.uk/nisr/2003/259), [regs. 1](https://www.legislation.gov.uk/nisr/2003/259/regulation/1), [11](https://www.legislation.gov.uk/nisr/2003/259/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Cases involving sexual behaviour: taking of evidence by commissioner[^key-07b4b7a9ab2c8f4d96f16284b8c8b721]
+## 174. Cases involving sexual behaviour: taking of evidence by commissioner[^c-07b4b7a9ab2c8f4d96f16284b8c8b721]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07b4b7a9ab2c8f4d96f16284b8c8b721]: Commencement: S. 174 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-07b4b7a9ab2c8f4d96f16284b8c8b721]: Commencement: S. 174 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

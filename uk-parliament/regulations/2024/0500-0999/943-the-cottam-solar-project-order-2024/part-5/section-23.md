@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Private rights[^key-ab36c08758e29fade8d3e23cc7191ef3]
+## 23. Private rights[^c-ab36c08758e29fade8d3e23cc7191ef3]
 
 *Extent: E+W*
 
 (1) Subject to the provisions of this article, all private rights and restrictive covenants over land subject to compulsory acquisition under this Order are extinguished—
 
 - (a) from the date of acquisition of the land, or of the right, or of the benefit of the restrictive covenant by the undertaker, whether compulsorily or by agreement or through the grant of a lease of the land by agreement; or
-- (b) on the date of entry on the land by the undertaker under section 11(1) (power of entry) of the 1965 Act , whichever is earliest[^key-cd3ce99c4ca528ef1f7f16220083f388].
+- (b) on the date of entry on the land by the undertaker under section 11(1) (power of entry) of the 1965 Act , whichever is earliest[^c-cd3ce99c4ca528ef1f7f16220083f388].
 
 (2) Subject to the provisions of this article, all private rights or restrictive covenants over land subject to the compulsory acquisition of rights or the imposition of restrictive covenants under article 22 (compulsory acquisition of rights) cease to have effect in so far as their continuance would be inconsistent with the exercise of the right or compliance with the restrictive covenant—
 
@@ -60,6 +60,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-ab36c08758e29fade8d3e23cc7191ef3]: Commencement: Art. 23 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-ab36c08758e29fade8d3e23cc7191ef3]: Commencement: Art. 23 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-cd3ce99c4ca528ef1f7f16220083f388]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2024/943/article/23/1) inserted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-cd3ce99c4ca528ef1f7f16220083f388]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2024/943/article/23/1) inserted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)

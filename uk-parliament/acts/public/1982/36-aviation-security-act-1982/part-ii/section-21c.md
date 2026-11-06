@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21C. Unauthorised presence in security restricted area .[^c794668][^c794669][^c794667][^key-2f2ed2d49f223fc82c2f5cf872a05129]
+## 21C. Unauthorised presence in security restricted area .[^c794668][^c794669][^c794667][^c-2f2ed2d49f223fc82c2f5cf872a05129]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (2) Subsection (1)(a) above does not apply unless it is proved that, at the material time, notices stating that the area concerned was a security restricted area were posted so as to be readily seen and read by persons entering the security restricted area .
 
-(2A)[^key-da831edaccd627474f4e14583b8e3815] A notice stating that the area concerned was a restricted zone is, for the purposes of subsection (2), to be treated as a notice stating that the area concerned was a security restricted area.
+(2A)[^c-da831edaccd627474f4e14583b8e3815] A notice stating that the area concerned was a restricted zone is, for the purposes of subsection (2), to be treated as a notice stating that the area concerned was a security restricted area.
 
 (3) A person who contravenes subsection (1) above without lawful authority or reasonable excuse shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -47,8 +47,8 @@ summary: ''
 
 [^c794667]: Textual amendment: Ss. 21A–21G inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 5–7](https://www.legislation.gov.uk/ukpga/1990/31/section/5)
 
-[^key-2f2ed2d49f223fc82c2f5cf872a05129]: Textual amendment: Words in s. 21C substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(h)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/h)
+[^c-2f2ed2d49f223fc82c2f5cf872a05129]: Textual amendment: Words in s. 21C substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(h)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/h)
 
-[^key-da831edaccd627474f4e14583b8e3815]: Textual amendment: S. 21C(2A) inserted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2010/902/regulation/11)
+[^c-da831edaccd627474f4e14583b8e3815]: Textual amendment: S. 21C(2A) inserted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2010/902/regulation/11)
 
 [^c794670]: Textual amendment: S. 21C(4) added (14.2.2002) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24) , [ss. 84(1)](https://www.legislation.gov.uk/ukpga/2001/24/section/84/1) , [127(3)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/3)

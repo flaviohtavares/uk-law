@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Taxation[^key-c562a69e90ece90f5bc8742351c658a2]
+## 58. Taxation[^c-c562a69e90ece90f5bc8742351c658a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c562a69e90ece90f5bc8742351c658a2]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2006/41/section/58) repealed (with effect in accordance with s. 216(3)(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 216(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/216/2/b)
+[^c-c562a69e90ece90f5bc8742351c658a2]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2006/41/section/58) repealed (with effect in accordance with s. 216(3)(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 216(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/216/2/b)

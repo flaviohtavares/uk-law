@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Record of persons below ground[^key-de6334f39616ae293cee8737b98cdee1]
+## 16. Record of persons below ground[^c-de6334f39616ae293cee8737b98cdee1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The mine operator must ensure that a record is kept of every person below ground
 
 ## Annotations
 
-[^key-de6334f39616ae293cee8737b98cdee1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3248/regulation/16) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-de6334f39616ae293cee8737b98cdee1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3248/regulation/16) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

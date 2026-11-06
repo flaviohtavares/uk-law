@@ -31,7 +31,7 @@ summary: ''
 
 Ancient Monuments, Wales
 
-The Ancient Monuments (Applications for Scheduled Monument Consent) (Wales) Regulations 2017 (revoked)[^key-ade1fde914eaa9d2112d14d8b34058c1]
+The Ancient Monuments (Applications for Scheduled Monument Consent) (Wales) Regulations 2017 (revoked)[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 31 May 2017
 
-[^key-ade1fde914eaa9d2112d14d8b34058c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ade1fde914eaa9d2112d14d8b34058c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 1. Title, commencement and application[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 2. Interpretation[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 3. Applications[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons to be treated as the owners of monuments[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 4. Persons to be treated as the owners of monuments[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Scheduled monument consent[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 5. Scheduled monument consent[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendments to the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 6. Consequential amendments to the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential amendment to the Developments of National Significance (Wales) Regulations 2016[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 7. Consequential amendment to the Developments of National Significance (Wales) Regulations 2016[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations and saving provision[^key-ade1fde914eaa9d2112d14d8b34058c1]
+## 8. Revocations and saving provision[^c-ade1fde914eaa9d2112d14d8b34058c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ade1fde914eaa9d2112d14d8b34058c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ade1fde914eaa9d2112d14d8b34058c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ade1fde914eaa9d2112d14d8b34058c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ade1fde914eaa9d2112d14d8b34058c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ade1fde914eaa9d2112d14d8b34058c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/642) revoked (4.11.2024) by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/wsi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2024/932/regulation/5)
+[^c-ade1fde914eaa9d2112d14d8b34058c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/642) revoked (4.11.2024) by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/wsi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2024/932/regulation/5)

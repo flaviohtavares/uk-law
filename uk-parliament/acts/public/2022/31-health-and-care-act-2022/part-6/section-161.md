@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Pharmaceutical services: remuneration in respect of vaccines etc[^key-54764903fddf3f82b483507d364997b4]
+## 161. Pharmaceutical services: remuneration in respect of vaccines etc[^c-54764903fddf3f82b483507d364997b4]
 
 *Extent: E+W*
 
-(1)[^key-49e0c6e78ae89b63ba0cd38a351d309d] In section 164 of the National Health Service Act 2006 (remuneration for persons providing pharmaceutical services)—
+(1)[^c-49e0c6e78ae89b63ba0cd38a351d309d] In section 164 of the National Health Service Act 2006 (remuneration for persons providing pharmaceutical services)—
 
 - (a) in subsection (8A) for “special medicinal products” substitute
 
@@ -41,7 +41,7 @@ summary: ''
 
   > (8F) Where regulations include provision made in reliance on subsection (8A)(c) or (d) and the Secretary of State considers that the disease to which it relates is no longer a pandemic disease or at risk of becoming a pandemic disease, the Secretary of State must revoke that provision within such period as the Secretary of State considers reasonable (taking into account, in particular, the need for any transitional arrangements).
 
-(2)[^key-39fc9f0d134dd117fd323c82499bcf0f] In section 88 of the National Health Service (Wales) Act 2006 (remuneration for persons providing pharmaceutical services)—
+(2)[^c-39fc9f0d134dd117fd323c82499bcf0f] In section 88 of the National Health Service (Wales) Act 2006 (remuneration for persons providing pharmaceutical services)—
 
 - (a) in subsection (8A) for “special medicinal products” substitute
 
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-54764903fddf3f82b483507d364997b4]: Commencement: S. 161 not in force at Royal Assent, see [s. 186(2)(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2/6)
+[^c-54764903fddf3f82b483507d364997b4]: Commencement: S. 161 not in force at Royal Assent, see [s. 186(2)(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2/6)
 
-[^key-49e0c6e78ae89b63ba0cd38a351d309d]: Commencement: [S. 161(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/1) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-49e0c6e78ae89b63ba0cd38a351d309d]: Commencement: [S. 161(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/1) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-39fc9f0d134dd117fd323c82499bcf0f]: Commencement: [S. 161(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2) in force at 22.11.2022 by [S.I. 2022/1202](https://www.legislation.gov.uk/uksi/2022/1202), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1202/regulation/2)
+[^c-39fc9f0d134dd117fd323c82499bcf0f]: Commencement: [S. 161(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2) in force at 22.11.2022 by [S.I. 2022/1202](https://www.legislation.gov.uk/uksi/2022/1202), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1202/regulation/2)

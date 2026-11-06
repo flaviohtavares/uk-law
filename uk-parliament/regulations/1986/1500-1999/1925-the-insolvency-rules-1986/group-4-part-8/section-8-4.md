@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.4. Retention of proxies[^key-da3d011411f0482b6f1c530e855d0d24]
+## 8.4. Retention of proxies[^c-da3d011411f0482b6f1c530e855d0d24]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da3d011411f0482b6f1c530e855d0d24]: Commencement: [Rule 8.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/8.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-da3d011411f0482b6f1c530e855d0d24]: Commencement: [Rule 8.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/8.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

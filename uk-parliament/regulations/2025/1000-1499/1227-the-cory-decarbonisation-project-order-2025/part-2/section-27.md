@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power to dredge[^key-82d169b6ed3d51eec556bec4e5137ba0]
+## 27. Power to dredge[^c-82d169b6ed3d51eec556bec4e5137ba0]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82d169b6ed3d51eec556bec4e5137ba0]: Commencement: Art. 27 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-82d169b6ed3d51eec556bec4e5137ba0]: Commencement: Art. 27 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00050]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

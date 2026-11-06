@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Interpretation of Part[^key-8b34fcdfe70038b0deea733ef35e23a6]
+## 77. Interpretation of Part[^c-8b34fcdfe70038b0deea733ef35e23a6]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ In this Part—
 
 ## Annotations
 
-[^key-8b34fcdfe70038b0deea733ef35e23a6]: Commencement: Reg. 77 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-8b34fcdfe70038b0deea733ef35e23a6]: Commencement: Reg. 77 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00047]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48); Part 5 was inserted by the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35), section 264.
 

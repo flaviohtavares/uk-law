@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 482. Academies[^key-2851f81cfd574e89535c4b3df528d206]
+## 482. Academies[^c-2851f81cfd574e89535c4b3df528d206]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2851f81cfd574e89535c4b3df528d206]: Textual amendment: [S. 482](https://www.legislation.gov.uk/ukpga/1996/56/section/482) repealed (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/16); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-2851f81cfd574e89535c4b3df528d206]: Textual amendment: [S. 482](https://www.legislation.gov.uk/ukpga/1996/56/section/482) repealed (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/16); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))

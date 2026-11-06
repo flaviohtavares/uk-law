@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Court to which appeals and applications under the Order to be made[^key-984355ee68c70fbf292ced65e76f2572]
+## 8. Court to which appeals and applications under the Order to be made[^c-984355ee68c70fbf292ced65e76f2572]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984355ee68c70fbf292ced65e76f2572]: Textual amendment: Order 49 rule 8 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(18)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/18); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-984355ee68c70fbf292ced65e76f2572]: Textual amendment: Order 49 rule 8 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(18)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/18); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

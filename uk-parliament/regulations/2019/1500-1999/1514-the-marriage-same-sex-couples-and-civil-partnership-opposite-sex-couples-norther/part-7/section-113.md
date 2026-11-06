@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016[^key-6bba5f51071312b528e299c26c469063]
+## 113. Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016[^c-6bba5f51071312b528e299c26c469063]
 
 *Extent: N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6bba5f51071312b528e299c26c469063]: Commencement: Reg. 113 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-6bba5f51071312b528e299c26c469063]: Commencement: Reg. 113 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00178]: Footnote: [S.R. (N.I.) 2016/107](https://www.legislation.gov.uk/nisr/2016/107). Relevant amendments were made by [S.R. (N.I.) 2017/57](https://www.legislation.gov.uk/nisr/2017/57).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 925E. Cases where section 925D applies: non-standard repos[^key-7920ff4a5607779c7ac914e0c1fae59a]
+## 925E. Cases where section 925D applies: non-standard repos[^c-7920ff4a5607779c7ac914e0c1fae59a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7920ff4a5607779c7ac914e0c1fae59a]: Textual amendment: Ss. 925A-925F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/112) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-7920ff4a5607779c7ac914e0c1fae59a]: Textual amendment: Ss. 925A-925F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/112) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

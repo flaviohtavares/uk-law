@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Duty to ensure policies and procedures are up to date[^key-8fb5410b57e723eb570db51990f35fac]
+## 49. Duty to ensure policies and procedures are up to date[^c-8fb5410b57e723eb570db51990f35fac]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must put suitable arrangements in place to ensure tha
 
 ## Annotations
 
-[^key-8fb5410b57e723eb570db51990f35fac]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2019/165/regulation/49) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-8fb5410b57e723eb570db51990f35fac]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2019/165/regulation/49) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

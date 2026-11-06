@@ -33,7 +33,7 @@ he is guilty of an offence.
 
 Different days may be appointed under this subsection in relation to different classes of vehicles or vehicle parts.
 
-(1A)[^c13975451] For the purposes of subsection (1) above a vehicle shall be taken to comply with all relevant type approval requirements if an EU certificate of conformity[^key-3a8980b4abb19e2a5087f69295fa91e0] has effect with respect to the vehicle.
+(1A)[^c13975451] For the purposes of subsection (1) above a vehicle shall be taken to comply with all relevant type approval requirements if an EU certificate of conformity[^c-3a8980b4abb19e2a5087f69295fa91e0] has effect with respect to the vehicle.
 
 (2) If a plating certificate—
 
@@ -76,6 +76,6 @@ and an order under this subsection may be varied or revoked by a subsequent orde
 
 [^c13975451]: Textual amendment: S. 63(1A) inserted (1.1.1993) by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1992/3107/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/1992/3107/regulation/16), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/1992/3107/schedule/2/paragraph/1/1).
 
-[^key-3a8980b4abb19e2a5087f69295fa91e0]: Textual amendment: Words in [s. 63(1A)](https://www.legislation.gov.uk/ukpga/1988/52/section/63/1A) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/5/4)
+[^c-3a8980b4abb19e2a5087f69295fa91e0]: Textual amendment: Words in [s. 63(1A)](https://www.legislation.gov.uk/ukpga/1988/52/section/63/1A) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/5/4)
 
 [^c13975461]: Textual amendment: S. 63(5)-(7) substituted (1.2.2001) for s. 63(5) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 264](https://www.legislation.gov.uk/ukpga/2000/38/section/264); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (as amended (22.1.2001) by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 2(6)](https://www.legislation.gov.uk/uksi/2001/57/article/2/6))

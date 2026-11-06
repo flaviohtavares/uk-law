@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Penalty decision notices[^key-aa1b88ecdb960febf77d34593b5b193e][^key-ed22ad93665ef7aa3b5b0155ebb0a626]
+## 58. Penalty decision notices[^c-aa1b88ecdb960febf77d34593b5b193e][^c-ed22ad93665ef7aa3b5b0155ebb0a626]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa1b88ecdb960febf77d34593b5b193e]: Commencement: S. 58 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-aa1b88ecdb960febf77d34593b5b193e]: Commencement: S. 58 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ed22ad93665ef7aa3b5b0155ebb0a626]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2025/28/section/58) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-ed22ad93665ef7aa3b5b0155ebb0a626]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2025/28/section/58) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

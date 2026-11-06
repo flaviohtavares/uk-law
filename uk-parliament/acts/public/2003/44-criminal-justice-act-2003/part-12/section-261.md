@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Removal under section 260 and subsequent return to UK: effect on sentence[^key-1c08cdbcbdcbf06a05e6542051a5f953]
+## 261. Removal under section 260 and subsequent return to UK: effect on sentence[^c-1c08cdbcbdcbf06a05e6542051a5f953]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ this Chapter applies to the person with the modifications set out in Schedule 19
 
 ## Annotations
 
-[^key-1c08cdbcbdcbf06a05e6542051a5f953]: Textual amendment: [S. 261](https://www.legislation.gov.uk/ukpga/2003/44/section/261) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 47(9)](https://www.legislation.gov.uk/ukpga/2022/36/section/47/9), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))
+[^c-1c08cdbcbdcbf06a05e6542051a5f953]: Textual amendment: [S. 261](https://www.legislation.gov.uk/ukpga/2003/44/section/261) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 47(9)](https://www.legislation.gov.uk/ukpga/2022/36/section/47/9), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))

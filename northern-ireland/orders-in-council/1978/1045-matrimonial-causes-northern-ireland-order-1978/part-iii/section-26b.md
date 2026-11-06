@@ -22,8 +22,8 @@ summary: ''
 
 (1) No pension sharing order may be made so as to take effect before the end of such period after the making of the order as may be prescribed by regulations made by the Lord Chancellor.
 
-(2) Regulations under this Article shall be subject to negative resolution[^key-0b7b7fcb54c6bc0895fcad3927140c05].
+(2) Regulations under this Article shall be subject to negative resolution[^c-0b7b7fcb54c6bc0895fcad3927140c05].
 
 ## Annotations
 
-[^key-0b7b7fcb54c6bc0895fcad3927140c05]: Textual amendment: Words in art. 26B(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 114(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/114/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-0b7b7fcb54c6bc0895fcad3927140c05]: Textual amendment: Words in art. 26B(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 114(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/114/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

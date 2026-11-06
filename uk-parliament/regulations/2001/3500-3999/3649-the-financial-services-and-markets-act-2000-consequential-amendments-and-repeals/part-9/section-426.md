@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 426. Meaning of “the reference banks”[^key-2eab1ada10b1523cd3b3d1de3f4d89ce]
+## 426. Meaning of “the reference banks”[^c-2eab1ada10b1523cd3b3d1de3f4d89ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2eab1ada10b1523cd3b3d1de3f4d89ce]: Commencement: Art. 426 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2eab1ada10b1523cd3b3d1de3f4d89ce]: Commencement: Art. 426 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

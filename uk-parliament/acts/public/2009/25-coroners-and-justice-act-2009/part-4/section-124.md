@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Proposals by Lord Chancellor or Court of Appeal[^key-0707ad573386ceabe7d57b6de631ca2f]
+## 124. Proposals by Lord Chancellor or Court of Appeal[^c-0707ad573386ceabe7d57b6de631ca2f]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ and the appeal has not been abandoned or disposed of.
 
 ## Annotations
 
-[^key-0707ad573386ceabe7d57b6de631ca2f]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2009/25/section/124) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-0707ad573386ceabe7d57b6de631ca2f]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2009/25/section/124) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

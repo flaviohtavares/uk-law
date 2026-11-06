@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 6 — CATEGORIES OF SEED THAT MAY BE MARKETED[^key-c50edc14b7ccb21781759ba29dc7ab94]
+## SCHEDULE 6 — CATEGORIES OF SEED THAT MAY BE MARKETED[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 *Extent: E+W+S+NI*
 
@@ -24,74 +24,74 @@ summary: ''
 
 Regulation 14(1)
 
-### 1. Breeder’s seed[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### 1. Breeder’s seed[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Pre-basic seed of a listed variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### 2. Pre-basic seed of a listed variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3A.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Basic seed of a listed variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. CS seed of a listed variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### 5. Basic seed of a listed variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Early movement pre-basic seed of a listed variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 15. Early movement basic seed of a listed variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### 9. CS seed of a listed variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Early movement CS seed of a listed variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
+**11.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 19. Basic seed of a component of a listed hybrid variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### 13. Early movement pre-basic seed of a listed variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**22.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 23. Early movement basic seed of a component of a listed hybrid variety[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### 15. Early movement basic seed of a listed variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Early movement CS seed of a listed variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Basic seed of a component of a listed hybrid variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Early movement basic seed of a component of a listed hybrid variety[^c-c50edc14b7ccb21781759ba29dc7ab94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^c-c50edc14b7ccb21781759ba29dc7ab94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)
+[^c-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)

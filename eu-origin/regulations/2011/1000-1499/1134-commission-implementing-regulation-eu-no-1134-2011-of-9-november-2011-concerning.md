@@ -35,30 +35,30 @@ concerning the non-renewal of the approval of the active substance cinidon-ethyl
 
 (Text with EEA relevance) (revoked)
 
-[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Non-renewal of approval[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Grace periods[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]
+## Article 1. Non-renewal of approval[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Implementing Regulation (EU) No 540/2011[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]
+## Article 2. Grace periods[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]
+## Article 3. Amendments to Implementing Regulation (EU) No 540/2011[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]
 
-## ANNEX[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ecc09c1a0e9ff7201b44a06f0dd55ef]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ecc09c1a0e9ff7201b44a06f0dd55ef]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

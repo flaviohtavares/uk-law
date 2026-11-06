@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242D. Non-UK registered schemes: annual allowance charge[^key-c7c4db9a1da41b63505805db97a9a129][^key-f5ddc233ae75a5a85948b6e17a343094]
+## 242D. Non-UK registered schemes: annual allowance charge[^c-c7c4db9a1da41b63505805db97a9a129][^c-f5ddc233ae75a5a85948b6e17a343094]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7c4db9a1da41b63505805db97a9a129]: Textual amendment: Ss. 242C-242E inserted (with effect in accordance with Sch. 3 para. 1(2) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/1/1)
+[^c-c7c4db9a1da41b63505805db97a9a129]: Textual amendment: Ss. 242C-242E inserted (with effect in accordance with Sch. 3 para. 1(2) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/1/1)
 
-[^key-f5ddc233ae75a5a85948b6e17a343094]: Textual amendment: Pt. 4 Ch. 5A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/14)
+[^c-f5ddc233ae75a5a85948b6e17a343094]: Textual amendment: Pt. 4 Ch. 5A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/14)

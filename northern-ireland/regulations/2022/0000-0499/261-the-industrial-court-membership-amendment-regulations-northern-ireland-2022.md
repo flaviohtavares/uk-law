@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for the Economy makes the following Regulations in exercise of the powers conferred by Articles 91A(1), 91A(2) and 107(3) of the Industrial Relations (Northern Ireland) Order 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-e94ea9319808a2abc32bd6ed552e5e33]
+## 1. Citation and commencement[^c-e94ea9319808a2abc32bd6ed552e5e33]
 
 These Regulations may be cited as the Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 14th November 2022.
 
-## 2. Amendment of the Industrial Court (Membership) Regulations (Northern Ireland) 2011[^key-5de694995251186535775102eee19d66]
+## 2. Amendment of the Industrial Court (Membership) Regulations (Northern Ireland) 2011[^c-5de694995251186535775102eee19d66]
 
 (1) Regulation 3 of the Industrial Court (Membership) Regulations (Northern Ireland) 2011[^f00003] (terms of appointment of members of the Industrial Court) is amended as follows—
 
@@ -57,7 +57,7 @@ These Regulations may be cited as the Industrial Court (Membership) (Amendment) 
 
 (3) Omit paragraphs (2) to (7).
 
-## 3. Transitional provision[^key-91daf4c6102fdf7c06e8fa19373d0e69]
+## 3. Transitional provision[^c-91daf4c6102fdf7c06e8fa19373d0e69]
 
 (1) In this regulation—
 
@@ -94,10 +94,10 @@ An impact assessment has not been produced for this statutory rule as no impact 
 
 [^f00002]: Footnote: The functions of the Department of Economic Development under the Industrial Relations (Northern Ireland) Order 1992 were transferred to the Department of Higher and Further Education, Training and Employment by [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 4(b) and Schedule 2, Part II. The Department of Higher and Further Education, Training and Employment was renamed the Department for Employment and Learning by [2001 c. 15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15), section 1(1), and following the dissolution of that department by the [Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5), section 1(10), its functions under the Industrial Relations (Northern Ireland) Order 1992 were transferred to the Department for the Economy by [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), Article 6(1)(c).
 
-[^key-e94ea9319808a2abc32bd6ed552e5e33]: Commencement: Reg. 1 in operation at 14.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1)
+[^c-e94ea9319808a2abc32bd6ed552e5e33]: Commencement: Reg. 1 in operation at 14.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1)
 
-[^key-5de694995251186535775102eee19d66]: Commencement: Reg. 2 in operation at 14.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1)
+[^c-5de694995251186535775102eee19d66]: Commencement: Reg. 2 in operation at 14.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2011 No. 237](https://www.legislation.gov.uk/nisr/2011/237).
 
-[^key-91daf4c6102fdf7c06e8fa19373d0e69]: Commencement: Reg. 3 in operation at 14.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1)
+[^c-91daf4c6102fdf7c06e8fa19373d0e69]: Commencement: Reg. 3 in operation at 14.11.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1)

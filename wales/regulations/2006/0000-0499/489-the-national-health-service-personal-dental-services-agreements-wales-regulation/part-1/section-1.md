@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement and application[^key-3cc7ecfab4dd83dfd09fb6eb344486b6]
+## 1. Title, commencement and application[^c-3cc7ecfab4dd83dfd09fb6eb344486b6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cc7ecfab4dd83dfd09fb6eb344486b6]: Commencement: Reg. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-3cc7ecfab4dd83dfd09fb6eb344486b6]: Commencement: Reg. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

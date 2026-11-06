@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Power of lead authorities to obtain information, documents and assistance[^key-6026354e4507a47769c3554b6868897e]
+## 44. Power of lead authorities to obtain information, documents and assistance[^c-6026354e4507a47769c3554b6868897e]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ as it may reasonably require in connection with the exercise of any of the funct
 
 ## Annotations
 
-[^key-6026354e4507a47769c3554b6868897e]: Commencement: S. 44 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-6026354e4507a47769c3554b6868897e]: Commencement: S. 44 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

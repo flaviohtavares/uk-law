@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Authority to drive and duties of driver[^key-22b931fad0fc51b02cf5fb9089acd07e]
+## 7. Authority to drive and duties of driver[^c-22b931fad0fc51b02cf5fb9089acd07e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b931fad0fc51b02cf5fb9089acd07e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/1478/regulation/7) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-22b931fad0fc51b02cf5fb9089acd07e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/1478/regulation/7) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

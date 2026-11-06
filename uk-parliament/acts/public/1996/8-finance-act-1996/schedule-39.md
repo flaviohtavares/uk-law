@@ -49,7 +49,7 @@ Section 201.
 
 #### Contributions to overseas pension schemes
 
-**2.**[^key-72d1c1fb93c8f52d3362bf26d53d3f33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-72d1c1fb93c8f52d3362bf26d53d3f33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Chargeable Gains
 
@@ -218,7 +218,7 @@ Section 201.
 
 [^c14619371]: Textual amendment: Words in [Sch. 39 para. 1(4)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/39/paragraph/1/4) repealed (31.7.1998 with effect in accordance with [s. 38(2)(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/38/2/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(4)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/4), Note and Sch. 39 para. 1(4) repealed (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
-[^key-72d1c1fb93c8f52d3362bf26d53d3f33]: Textual amendment: [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/1996/8/schedule/39/paragraph/2) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-72d1c1fb93c8f52d3362bf26d53d3f33]: Textual amendment: [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/1996/8/schedule/39/paragraph/2) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c14619391]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 

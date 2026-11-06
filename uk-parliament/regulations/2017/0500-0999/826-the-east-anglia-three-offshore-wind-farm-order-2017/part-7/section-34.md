@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Requirements, appeals, etc.[^key-efff3e456d81608e5896c7499e41e8bb]
+## 34. Requirements, appeals, etc.[^c-efff3e456d81608e5896c7499e41e8bb]
 
 *Extent: E+W+S*
 
-(1) Sub-section (1) of section 78 of the 1990 Act applies to the development consent granted by this Order and to the requirements numbered 11 to 31 and 36 to 37[^key-5dbf6ae0b4454021b873bc337282d3e6] except that it is modified so as to read for the purposes of this Order only as if there were inserted after subsection (b) the following—
+(1) Sub-section (1) of section 78 of the 1990 Act applies to the development consent granted by this Order and to the requirements numbered 11 to 31 and 36 to 37[^c-5dbf6ae0b4454021b873bc337282d3e6] except that it is modified so as to read for the purposes of this Order only as if there were inserted after subsection (b) the following—
 
 > - (bb) refuse an application for any consent, agreement or approval of that authority required by a requirement imposed on a grant of development consent or contained in a development consent order, or grant it subject to conditions; or
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efff3e456d81608e5896c7499e41e8bb]: Commencement: Art. 34 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-efff3e456d81608e5896c7499e41e8bb]: Commencement: Art. 34 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-5dbf6ae0b4454021b873bc337282d3e6]: Textual amendment: Words in art. 34(1) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
+[^c-5dbf6ae0b4454021b873bc337282d3e6]: Textual amendment: Words in art. 34(1) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)

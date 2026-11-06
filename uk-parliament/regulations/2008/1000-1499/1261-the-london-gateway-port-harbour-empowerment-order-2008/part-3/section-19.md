@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Stopping up, diversion, provision and upgrading of footpaths and bridleways[^key-8326b6577a4fcc92b50783b86ebd2884]
+## 19. Stopping up, diversion, provision and upgrading of footpaths and bridleways[^c-8326b6577a4fcc92b50783b86ebd2884]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8326b6577a4fcc92b50783b86ebd2884]: Commencement: Art. 19 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-8326b6577a4fcc92b50783b86ebd2884]: Commencement: Art. 19 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Withdrawal or relaxation of requirements of remedial notices[^key-7466ded3691b89720648522c321389bd][^key-30231eb8a813d4bd2a48e6afa5a960d7]
+## 70. Withdrawal or relaxation of requirements of remedial notices[^c-7466ded3691b89720648522c321389bd][^c-30231eb8a813d4bd2a48e6afa5a960d7]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7466ded3691b89720648522c321389bd]: Commencement: S. 70 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-7466ded3691b89720648522c321389bd]: Commencement: S. 70 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-30231eb8a813d4bd2a48e6afa5a960d7]: Commencement: S. 70 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-30231eb8a813d4bd2a48e6afa5a960d7]: Commencement: S. 70 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

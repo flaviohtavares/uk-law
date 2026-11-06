@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 713. Recovery of unpaid corporation tax for accounting period ending on or after change[^key-0bd9a45e5ca26119ea12f94d3f7f8282]
+## 713. Recovery of unpaid corporation tax for accounting period ending on or after change[^c-0bd9a45e5ca26119ea12f94d3f7f8282]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bd9a45e5ca26119ea12f94d3f7f8282]: Modification: S. 713 excluded by S.I. 2006/3296, reg. 23 (as inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Securitisation Companies (Amendment) Regulations 2018 (S.I. 2018/143)](https://www.legislation.gov.uk/uksi/2018/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/143/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/143/regulation/9))
+[^c-0bd9a45e5ca26119ea12f94d3f7f8282]: Modification: S. 713 excluded by S.I. 2006/3296, reg. 23 (as inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Securitisation Companies (Amendment) Regulations 2018 (S.I. 2018/143)](https://www.legislation.gov.uk/uksi/2018/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/143/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/143/regulation/9))

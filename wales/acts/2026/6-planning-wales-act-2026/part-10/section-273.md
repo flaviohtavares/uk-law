@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 273. Ending of rights relating to land acquired compulsorily under this Part[^key-f5208b05171ee26852a59f5058ec93d0]
+## 273. Ending of rights relating to land acquired compulsorily under this Part[^c-f5208b05171ee26852a59f5058ec93d0]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5208b05171ee26852a59f5058ec93d0]: Commencement: S. 273 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f5208b05171ee26852a59f5058ec93d0]: Commencement: S. 273 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

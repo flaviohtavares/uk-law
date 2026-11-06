@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Unclean salmon[^key-4d3ca9662a5f07c71a0ecc1ef081aca8]
+## 18. Unclean salmon[^c-4d3ca9662a5f07c71a0ecc1ef081aca8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ any unclean or unseasonable salmon shall be guilty of an offence, and liable on 
 
 ## Annotations
 
-[^key-4d3ca9662a5f07c71a0ecc1ef081aca8]: Commencement: S. 18 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-4d3ca9662a5f07c71a0ecc1ef081aca8]: Commencement: S. 18 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

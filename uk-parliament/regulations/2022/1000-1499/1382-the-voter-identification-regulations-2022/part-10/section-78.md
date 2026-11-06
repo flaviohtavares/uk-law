@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Amendment of regulation 30 (tendered signing sheets)[^key-9839668ea83eef57ffd3a80ddce7fcd0]
+## 78. Amendment of regulation 30 (tendered signing sheets)[^c-9839668ea83eef57ffd3a80ddce7fcd0]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In regulation 30 (tendered signing sheets), after paragraph (7) insert—
 
 ## Annotations
 
-[^key-9839668ea83eef57ffd3a80ddce7fcd0]: Commencement: Reg. 78 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-9839668ea83eef57ffd3a80ddce7fcd0]: Commencement: Reg. 78 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

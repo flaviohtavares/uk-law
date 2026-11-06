@@ -36,7 +36,7 @@ An Act to amend the law relating to private tenancies.
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Tenant to be given notice regarding certain matters[^key-cca1c0a0b023b059f38dd1321650617a][^key-29759b217e5a45f70d009cc37c265e26]
+## 1. Tenant to be given notice regarding certain matters[^c-cca1c0a0b023b059f38dd1321650617a][^c-29759b217e5a45f70d009cc37c265e26]
 
 (1) The 2006 Order is amended in accordance with subsections (2) to (4).
 
@@ -98,14 +98,14 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Omit section 1 of the Housing (Amendment) Act (Northern Ireland) 2011.
 
-## 2. Tenant to be given notice regarding certain past matters[^key-4dfd0dc0f6bd16e6c2137003ad80013e][^key-4b4e79ef3f9a9f139d019da5b954a14a]
+## 2. Tenant to be given notice regarding certain past matters[^c-4dfd0dc0f6bd16e6c2137003ad80013e][^c-4b4e79ef3f9a9f139d019da5b954a14a]
 
 Schedule 1 provides for the giving of notice regarding certain matters to the tenants of dwelling-houses that are let under a private tenancy on the date on which section 1 comes into operation—
 
 - (a) where the tenancy was granted on or after 30 June 2011 but before the date on which section 1 comes into operation;
 - (b) where certain terms of the tenancy were varied on or after 30 June 2011 but before the date on which section 1 comes into operation.
 
-## 3. Tenant to be provided with a rent receipt for payment in cash[^key-d7d879fb23eb9d0827962e0b147b7567][^key-726d50b2ea74dc14876b5a1d823e5a21]
+## 3. Tenant to be provided with a rent receipt for payment in cash[^c-d7d879fb23eb9d0827962e0b147b7567][^c-726d50b2ea74dc14876b5a1d823e5a21]
 
 (1) The 2006 Order is amended as follows.
 
@@ -221,7 +221,7 @@ Schedule 1 provides for the giving of notice regarding certain matters to the te
   ;
 - (b) in paragraph (8), after “**4C(3),**” (as inserted by section 1) insert “5(7), 5ZA(3),”.
 
-## 4. Limit on tenancy deposit amount[^key-d8a91daa38cd4af938e854d0668de8b0][^key-9a57ab6695d89cfc750688588644f04b]
+## 4. Limit on tenancy deposit amount[^c-d8a91daa38cd4af938e854d0668de8b0][^c-9a57ab6695d89cfc750688588644f04b]
 
 (1) The 2006 Order is amended as follows.
 
@@ -309,14 +309,14 @@ Schedule 1 provides for the giving of notice regarding certain matters to the te
 
 (6) In subsection (5) “**commencement date**” means the date on which this section comes into operation.
 
-## 5. Increase in time limits for requirements relating to tenancy deposits[^key-32ab3e9160631a59e9bde684d7ca2974][^key-f3e8126ab460bab40bd9237fb9d0da71]
+## 5. Increase in time limits for requirements relating to tenancy deposits[^c-32ab3e9160631a59e9bde684d7ca2974][^c-f3e8126ab460bab40bd9237fb9d0da71]
 
 In Article 5B of the 2006 Order (requirements relating to tenancy deposits)—
 
 - (a) in paragraph (3), for “14 days” substitute “28 days”;
 - (b) in paragraph (6)(b), for “28 days” substitute “35 days”.
 
-## 6. Certain offences in connection with tenancy deposits to be continuing offences[^key-46a9d7901fd7a90548650b596bf590d3][^key-5309022c2858959777573f7eb10123db]
+## 6. Certain offences in connection with tenancy deposits to be continuing offences[^c-46a9d7901fd7a90548650b596bf590d3][^c-5309022c2858959777573f7eb10123db]
 
 In Article 5B of the 2006 Order (requirements relating to tenancy deposits), after paragraph (11) insert—
 
@@ -324,7 +324,7 @@ In Article 5B of the 2006 Order (requirements relating to tenancy deposits), aft
 
 .
 
-## 7. Regulation of rent[^key-a9e0cd21521f5f81dcd8c94a99ce6dc7][^key-990ec28c79f09dfd99c40bbae4062dad]
+## 7. Regulation of rent[^c-a9e0cd21521f5f81dcd8c94a99ce6dc7][^c-990ec28c79f09dfd99c40bbae4062dad]
 
 (1) The 2006 Order is amended as follows.
 
@@ -435,7 +435,7 @@ In Article 5B of the 2006 Order (requirements relating to tenancy deposits), aft
 
   .
 
-## 8. Fire, smoke and carbon monoxide alarms, etc.[^key-eb870114429b36172fafcbf1e5aa224f]
+## 8. Fire, smoke and carbon monoxide alarms, etc.[^c-eb870114429b36172fafcbf1e5aa224f]
 
 (1) The 2006 Order is amended as follows.
 
@@ -499,15 +499,15 @@ In Article 5B of the 2006 Order (requirements relating to tenancy deposits), aft
 
 (6) In paragraph (8), after “5B(10)” insert “, 11B(4)”.
 
-## 9. Energy efficiency regulations[^key-0a4106b2a74b1c500122403402542208]
+## 9. Energy efficiency regulations[^c-0a4106b2a74b1c500122403402542208]
 
 Schedule 2 contains amendments to the 2006 Order enabling the Department for Communities to make regulations concerning the energy efficiency of dwelling-houses let under a private tenancy.
 
-## 10. Electrical safety standards regulations[^key-93abcd75bddb3a2a9282d8cdecac5087]
+## 10. Electrical safety standards regulations[^c-93abcd75bddb3a2a9282d8cdecac5087]
 
 Schedule 3 contains amendments to the 2006 Order enabling the Department for Communities to make regulations concerning electrical safety standards in dwelling-houses let under a private tenancy.
 
-## 11. Validity requirements for notices to quit given by landlords and tenants[^key-79085c58f3c62426957f63f8c9be389a]
+## 11. Validity requirements for notices to quit given by landlords and tenants[^c-79085c58f3c62426957f63f8c9be389a]
 
 (1) The 2006 Order is amended in accordance with subsections (2) to (7).
 
@@ -624,7 +624,7 @@ Schedule 3 contains amendments to the 2006 Order enabling the Department for Com
 
 (11) The amendments made by this section do not apply in relation to a notice to quit given before the date on which this section comes into operation.
 
-## 12. Payment options for tenants: power to make provision and duty to consult[^key-cdf0ea3aba147d05f321d78fd013da19]
+## 12. Payment options for tenants: power to make provision and duty to consult[^c-cdf0ea3aba147d05f321d78fd013da19]
 
 (1) The Department for Communities may by regulations make provision for the purpose of ensuring that, when a private tenancy of a dwelling-house is granted, the tenant is given options as to the method of payment of rent and other sums due in respect of the tenancy.
 
@@ -662,16 +662,16 @@ Schedule 3 contains amendments to the 2006 Order enabling the Department for Com
 
 (8) The Department may not make regulations under subsection (1) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-## 13. Interpretation[^key-6c1938b45db5fe8e9dee406f26a141ea]
+## 13. Interpretation[^c-6c1938b45db5fe8e9dee406f26a141ea]
 
 In this Act “**the 2006 Order**” means the Private Tenancies (Northern Ireland) Order 2006.
 
-## 14. Commencement[^key-5356afbd5bc03346dbb9146446c20f5e]
+## 14. Commencement[^c-5356afbd5bc03346dbb9146446c20f5e]
 
 (1) The following provisions come into operation on the day after the day on which this Act receives Royal Assent—
 
 - (a) sections 12 and 13;
-- (b)[^key-5356afbd5bc03346dbb9146446c20f5e] this section; and
+- (b)[^c-5356afbd5bc03346dbb9146446c20f5e] this section; and
 - (c) section 15.
 
 (2) The following provisions come into operation on the day after the day on which this Act receives Royal Assent insofar as they confer power to make regulations—
@@ -690,7 +690,7 @@ In this Act “**the 2006 Order**” means the Private Tenancies (Northern Irela
 - (b) subsection (3) of that section in so far as it inserts sub-paragraph (a) into Article 14(1) of the 2006 Order, and
 - (c) subsection (4) of that section in so far as it substitutes paragraph (1A) of Article 14 of the 2006 Order and inserts paragraphs (3) and (4) into that Article.
 
-(4)[^key-5356afbd5bc03346dbb9146446c20f5e] The provisions to which this subsection applies come into operation on the day after the day on which this Act receives Royal Assent.
+(4)[^c-5356afbd5bc03346dbb9146446c20f5e] The provisions to which this subsection applies come into operation on the day after the day on which this Act receives Royal Assent.
 
 (5) But if (apart from this subsection) those provisions would come into operation before the end of the emergency period within the meaning of section 1(2) of the Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020 they come into operation at the end of that period.
 
@@ -700,7 +700,7 @@ In this Act “**the 2006 Order**” means the Private Tenancies (Northern Irela
 
 (8) An order under this section may make such transitory or transitional provision, or savings, as the Department for Communities considers appropriate.
 
-## 15. Short title[^key-1e64c48e25babb81909e53692c170fb9]
+## 15. Short title[^c-1e64c48e25babb81909e53692c170fb9]
 
 This Act may be cited as the Private Tenancies Act (Northern Ireland) 2022.
 
@@ -712,7 +712,7 @@ Section 2.
 
 ### Tenancies granted on or after 30 June 2011 but before the coming into operation of section 1
 
-**1.**[^key-5ebc75210834b81973fb12ed160106ba][^key-b2f6c34b6d6065d6237ef7808f960385] (1) This paragraph applies where—
+**1.**[^c-5ebc75210834b81973fb12ed160106ba][^c-b2f6c34b6d6065d6237ef7808f960385] (1) This paragraph applies where—
 
 - (a) a private tenancy of a dwelling-house was granted on or after 30 June 2011 but before the commencement date; and
 - (b) the dwelling-house is let under that tenancy on the commencement date.
@@ -730,7 +730,7 @@ Section 2.
 
 ### Variation of certain terms on or after 30 June 2011 but before the coming into operation of section 1
 
-**2.**[^key-f9535144429533a8efff8ea8eac832d4][^key-b053b93bf5921c8a1c66be385bf19f5c] (1) This paragraph applies where—
+**2.**[^c-f9535144429533a8efff8ea8eac832d4][^c-b053b93bf5921c8a1c66be385bf19f5c] (1) This paragraph applies where—
 
 - (a) on or after 30 June 2011 but before the commencement date, a prescribed term of a private tenancy of a dwelling-house was varied; and
 - (b) the dwelling-house is let under that tenancy on the commencement date; and it applies regardless of the date on which the tenancy was granted.
@@ -750,7 +750,7 @@ Section 2.
 
 ### Continued failure by landlord to provide notice under paragraph 1 or 2 after conviction or fixed penalty
 
-**3.**[^key-37297e4fb13e0d1e5fd8d07f58023fc8][^key-a4a47e04cb159232d38a45bf10e706ed] (1) If a landlord is convicted of an offence under paragraph 1(5) or 2(6), and the failure continues for more than 14 days after the conviction, the landlord is deemed to have committed a further offence under that sub-paragraph in respect of that failure.
+**3.**[^c-37297e4fb13e0d1e5fd8d07f58023fc8][^c-a4a47e04cb159232d38a45bf10e706ed] (1) If a landlord is convicted of an offence under paragraph 1(5) or 2(6), and the failure continues for more than 14 days after the conviction, the landlord is deemed to have committed a further offence under that sub-paragraph in respect of that failure.
 
 (2) Sub-paragraph (3) applies where—
 
@@ -762,13 +762,13 @@ Section 2.
 
 ### Punishment and prosecution of offences under this Schedule
 
-**4.**[^key-aaf1a96681a5c75e680d76d3415e1de7][^key-118372c9d1268195d7164af71d86b1d9] A person who is guilty of an offence under paragraph 1(5), 2(6) or 3(3) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+**4.**[^c-aaf1a96681a5c75e680d76d3415e1de7][^c-118372c9d1268195d7164af71d86b1d9] A person who is guilty of an offence under paragraph 1(5), 2(6) or 3(3) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-**5.**[^key-f7d1c06409e852a92cdad4d9c5b146c8][^key-429d69595d79a099b90a469c74671259] Proceedings for an offence under paragraph 1(5), 2(6) or 3(3) may be instituted by the appropriate district council.
+**5.**[^c-f7d1c06409e852a92cdad4d9c5b146c8][^c-429d69595d79a099b90a469c74671259] Proceedings for an offence under paragraph 1(5), 2(6) or 3(3) may be instituted by the appropriate district council.
 
 ### Fixed penalty notices
 
-**6.**[^key-64017ff98316553c4a66e999f72a423a][^key-42748ce9c0fc12bf93151a941ff26756] (1) This paragraph applies where on any occasion an authorised officer of a district council has reason to believe that a person (“**P**”) has committed—
+**6.**[^c-64017ff98316553c4a66e999f72a423a][^c-42748ce9c0fc12bf93151a941ff26756] (1) This paragraph applies where on any occasion an authorised officer of a district council has reason to believe that a person (“**P**”) has committed—
 
 - (a) an offence under paragraph 1(5) or 2(6), except one deemed to have been committed by virtue of paragraph 3(1), or
 - (b) an offence under paragraph 3(3).
@@ -805,19 +805,19 @@ is evidence of the facts stated.
 
 ### Supplementary and interpretation
 
-**7.**[^key-ec2f88073314d0b46d086701e0d0892f][^key-a9a7e482c03e84fbd4876d3da2e02c5b] Regulations under paragraph 1, 2 or 6 are subject to negative resolution.
+**7.**[^c-ec2f88073314d0b46d086701e0d0892f][^c-a9a7e482c03e84fbd4876d3da2e02c5b] Regulations under paragraph 1, 2 or 6 are subject to negative resolution.
 
-**8.**[^key-84d91fe5c24d082b1fe03e5751628ede][^key-959e145b111d3d91d62f3bcb4d48e1ba] In paragraphs 1 and 2 “**the commencement date**” means the date on which section 1 comes into operation.
+**8.**[^c-84d91fe5c24d082b1fe03e5751628ede][^c-959e145b111d3d91d62f3bcb4d48e1ba] In paragraphs 1 and 2 “**the commencement date**” means the date on which section 1 comes into operation.
 
-**9.**[^key-447d5e494806f31092352e62790d357d][^key-f7ee43cb5fb340eb20be0658a9e5ae88] Any expression that is used in both this Schedule and the 2006 Order has the same meaning in this Schedule as in that Order.
+**9.**[^c-447d5e494806f31092352e62790d357d][^c-f7ee43cb5fb340eb20be0658a9e5ae88] Any expression that is used in both this Schedule and the 2006 Order has the same meaning in this Schedule as in that Order.
 
 ## SCHEDULE 2 — Energy efficiency regulations
 
 Section 9.
 
-**1.**[^key-0a2e8be9a6094193c0c4628ae3b794e3] The 2006 Order is amended as follows.
+**1.**[^c-0a2e8be9a6094193c0c4628ae3b794e3] The 2006 Order is amended as follows.
 
-**2.**[^key-0fd3a6997f4c5fe262941802d44dfd0c] After Article 11F (as inserted by section 8) insert—
+**2.**[^c-0fd3a6997f4c5fe262941802d44dfd0c] After Article 11F (as inserted by section 8) insert—
 
 > **Energy efficiency**
 >
@@ -921,9 +921,9 @@ Section 9.
 
 .
 
-**3.**[^key-2e34e69042d1319e0e87739e95291aec] In Article 68(3) (prosecution by appropriate district council), after “this Order” insert “(including any offence created by regulations under Article 11G)”.
+**3.**[^c-2e34e69042d1319e0e87739e95291aec] In Article 68(3) (prosecution by appropriate district council), after “this Order” insert “(including any offence created by regulations under Article 11G)”.
 
-**4.**[^key-86c212e7779eb247929549acf523c1b8] In Article 68A (fixed penalty for certain offences)—
+**4.**[^c-86c212e7779eb247929549acf523c1b8] In Article 68A (fixed penalty for certain offences)—
 
 - (a) in paragraph (1), after sub-paragraph (aa) (as inserted by section 8) insert—
 
@@ -955,7 +955,7 @@ Section 9.
 
   .
 
-**5.**[^key-ce0448aaab7f8d6ba6acf347ac9744bb] In Article 72 (provisions concerning regulations)—
+**5.**[^c-ce0448aaab7f8d6ba6acf347ac9744bb] In Article 72 (provisions concerning regulations)—
 
 - (a) in paragraph (3), before “**14**” (as inserted by section 11) insert “11G,”;
 - (b) after paragraph (5) (as inserted by section 7) insert—
@@ -974,9 +974,9 @@ Section 9.
 
 Section 10.
 
-**1.**[^key-a74b45e4afd5af7d38299c962e891afc] The 2006 Order is amended as follows.
+**1.**[^c-a74b45e4afd5af7d38299c962e891afc] The 2006 Order is amended as follows.
 
-**2.**[^key-189e447dae888453f439177f7a6cdc91] After Article 11H (as inserted by Schedule 2) insert—
+**2.**[^c-189e447dae888453f439177f7a6cdc91] After Article 11H (as inserted by Schedule 2) insert—
 
 > **Electrical safety standards**
 >
@@ -1037,9 +1037,9 @@ Section 10.
 
 .
 
-**3.**[^key-c122685c20c6710b8748b0aacec29faa] In Article 68(3) (prosecution by appropriate district council), after “**11G**” (as inserted by Schedule 2) insert “or 11I”.
+**3.**[^c-c122685c20c6710b8748b0aacec29faa] In Article 68(3) (prosecution by appropriate district council), after “**11G**” (as inserted by Schedule 2) insert “or 11I”.
 
-**4.**[^key-a0038ef22df5ce57779392173e7cc846] In Article 68A (fixed penalty for certain offences)—
+**4.**[^c-a0038ef22df5ce57779392173e7cc846] In Article 68A (fixed penalty for certain offences)—
 
 - (a) after paragraph (1)(ab) (as inserted by Schedule 2) insert—
 
@@ -1048,7 +1048,7 @@ Section 10.
   ;
 - (b) in paragraph (8), after “or 65A(4)” insert “or an offence created by regulations under Article 11I”.
 
-**5.**[^key-f0ac52989015b8a415f0130e3105fcf1] In Article 72 (provisions concerning regulations)—
+**5.**[^c-f0ac52989015b8a415f0130e3105fcf1] In Article 72 (provisions concerning regulations)—
 
 - (a) in paragraph (2), for “paragraph (3)” substitute “paragraphs (3) and (3A)”;
 - (b) after paragraph (3) insert—
@@ -1071,102 +1071,102 @@ Section 10.
 
 ## Annotations
 
-[^key-cca1c0a0b023b059f38dd1321650617a]: Commencement: S. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/a)
+[^c-cca1c0a0b023b059f38dd1321650617a]: Commencement: S. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/a)
 
-[^key-29759b217e5a45f70d009cc37c265e26]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/20/section/1) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-29759b217e5a45f70d009cc37c265e26]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/20/section/1) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-4dfd0dc0f6bd16e6c2137003ad80013e]: Commencement: S. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-4dfd0dc0f6bd16e6c2137003ad80013e]: Commencement: S. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-4b4e79ef3f9a9f139d019da5b954a14a]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/20/section/2) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-4b4e79ef3f9a9f139d019da5b954a14a]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/20/section/2) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-d7d879fb23eb9d0827962e0b147b7567]: Commencement: S. 3 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
+[^c-d7d879fb23eb9d0827962e0b147b7567]: Commencement: S. 3 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
 
-[^key-726d50b2ea74dc14876b5a1d823e5a21]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/20/section/3) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-726d50b2ea74dc14876b5a1d823e5a21]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/20/section/3) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-d8a91daa38cd4af938e854d0668de8b0]: Commencement: S. 4 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
+[^c-d8a91daa38cd4af938e854d0668de8b0]: Commencement: S. 4 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
 
-[^key-9a57ab6695d89cfc750688588644f04b]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/20/section/4) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-9a57ab6695d89cfc750688588644f04b]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/20/section/4) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-32ab3e9160631a59e9bde684d7ca2974]: Commencement: S. 5 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
+[^c-32ab3e9160631a59e9bde684d7ca2974]: Commencement: S. 5 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
 
-[^key-f3e8126ab460bab40bd9237fb9d0da71]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/20/section/5) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-f3e8126ab460bab40bd9237fb9d0da71]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/20/section/5) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-46a9d7901fd7a90548650b596bf590d3]: Commencement: S. 6 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
+[^c-46a9d7901fd7a90548650b596bf590d3]: Commencement: S. 6 not in operation at Royal Assent, see [s. 14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7)
 
-[^key-5309022c2858959777573f7eb10123db]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/20/section/6) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-5309022c2858959777573f7eb10123db]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/20/section/6) in operation at 1.4.2023 by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-a9e0cd21521f5f81dcd8c94a99ce6dc7]: Commencement: S. 7 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(c)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/c)
+[^c-a9e0cd21521f5f81dcd8c94a99ce6dc7]: Commencement: S. 7 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(c)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/c)
 
-[^key-990ec28c79f09dfd99c40bbae4062dad]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/20/section/7) in operation at 1.4.2025 for specified purposes by [S.R. 2025/39](https://www.legislation.gov.uk/nisr/2025/39), [art. 2](https://www.legislation.gov.uk/nisr/2025/39/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/39/schedule)
+[^c-990ec28c79f09dfd99c40bbae4062dad]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/20/section/7) in operation at 1.4.2025 for specified purposes by [S.R. 2025/39](https://www.legislation.gov.uk/nisr/2025/39), [art. 2](https://www.legislation.gov.uk/nisr/2025/39/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/39/schedule)
 
-[^key-eb870114429b36172fafcbf1e5aa224f]: Commencement: S. 8 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(d)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/d)
+[^c-eb870114429b36172fafcbf1e5aa224f]: Commencement: S. 8 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(d)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/d)
 
-[^key-0a4106b2a74b1c500122403402542208]: Commencement: S. 9 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
+[^c-0a4106b2a74b1c500122403402542208]: Commencement: S. 9 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
 
-[^key-93abcd75bddb3a2a9282d8cdecac5087]: Commencement: S. 10 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
+[^c-93abcd75bddb3a2a9282d8cdecac5087]: Commencement: S. 10 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
 
-[^key-79085c58f3c62426957f63f8c9be389a]: Commencement: S. 11 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(g)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g)
+[^c-79085c58f3c62426957f63f8c9be389a]: Commencement: S. 11 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(g)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g)
 
-[^key-cdf0ea3aba147d05f321d78fd013da19]: Commencement: S. 12 in operation at 28.4.2022 for specified purposes, see [s. 14(1)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/1/a)
+[^c-cdf0ea3aba147d05f321d78fd013da19]: Commencement: S. 12 in operation at 28.4.2022 for specified purposes, see [s. 14(1)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/1/a)
 
-[^key-6c1938b45db5fe8e9dee406f26a141ea]: Commencement: S. 13 in operation at 28.4.2022 for specified purposes, see [s. 14(1)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/1/a)
+[^c-6c1938b45db5fe8e9dee406f26a141ea]: Commencement: S. 13 in operation at 28.4.2022 for specified purposes, see [s. 14(1)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/1/a)
 
-[^key-5356afbd5bc03346dbb9146446c20f5e]: Commencement: S. 14(1)(b)(4) in operation at 28.4.2022 for specified purposes, see [s. 14(1)](https://www.legislation.gov.uk/nia/2022/20/section/14/1)
+[^c-5356afbd5bc03346dbb9146446c20f5e]: Commencement: S. 14(1)(b)(4) in operation at 28.4.2022 for specified purposes, see [s. 14(1)](https://www.legislation.gov.uk/nia/2022/20/section/14/1)
 
-[^key-1e64c48e25babb81909e53692c170fb9]: Commencement: S. 15 in operation at 28.4.2022 for specified purposes, see [s. 14(1)(c)](https://www.legislation.gov.uk/nia/2022/20/section/14/1/c)
+[^c-1e64c48e25babb81909e53692c170fb9]: Commencement: S. 15 in operation at 28.4.2022 for specified purposes, see [s. 14(1)(c)](https://www.legislation.gov.uk/nia/2022/20/section/14/1/c)
 
-[^key-5ebc75210834b81973fb12ed160106ba]: Commencement: Sch. 1 para. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-5ebc75210834b81973fb12ed160106ba]: Commencement: Sch. 1 para. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-b2f6c34b6d6065d6237ef7808f960385]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/1) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-b2f6c34b6d6065d6237ef7808f960385]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/1) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-f9535144429533a8efff8ea8eac832d4]: Commencement: Sch. 1 para. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-f9535144429533a8efff8ea8eac832d4]: Commencement: Sch. 1 para. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-b053b93bf5921c8a1c66be385bf19f5c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/2) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-b053b93bf5921c8a1c66be385bf19f5c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/2) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-37297e4fb13e0d1e5fd8d07f58023fc8]: Commencement: Sch. 1 para. 3 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-37297e4fb13e0d1e5fd8d07f58023fc8]: Commencement: Sch. 1 para. 3 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-a4a47e04cb159232d38a45bf10e706ed]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/3) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-a4a47e04cb159232d38a45bf10e706ed]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/3) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-aaf1a96681a5c75e680d76d3415e1de7]: Commencement: Sch. 1 para. 4 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-aaf1a96681a5c75e680d76d3415e1de7]: Commencement: Sch. 1 para. 4 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-118372c9d1268195d7164af71d86b1d9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/4) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-118372c9d1268195d7164af71d86b1d9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/4) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-f7d1c06409e852a92cdad4d9c5b146c8]: Commencement: Sch. 1 para. 5 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-f7d1c06409e852a92cdad4d9c5b146c8]: Commencement: Sch. 1 para. 5 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-429d69595d79a099b90a469c74671259]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/5) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-429d69595d79a099b90a469c74671259]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/5) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-64017ff98316553c4a66e999f72a423a]: Commencement: Sch. 1 para. 6 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-64017ff98316553c4a66e999f72a423a]: Commencement: Sch. 1 para. 6 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-42748ce9c0fc12bf93151a941ff26756]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/6) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-42748ce9c0fc12bf93151a941ff26756]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/6) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-ec2f88073314d0b46d086701e0d0892f]: Commencement: Sch. 1 para. 7 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-ec2f88073314d0b46d086701e0d0892f]: Commencement: Sch. 1 para. 7 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-a9a7e482c03e84fbd4876d3da2e02c5b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/7) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-a9a7e482c03e84fbd4876d3da2e02c5b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/7) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-84d91fe5c24d082b1fe03e5751628ede]: Commencement: Sch. 1 para. 8 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-84d91fe5c24d082b1fe03e5751628ede]: Commencement: Sch. 1 para. 8 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-959e145b111d3d91d62f3bcb4d48e1ba]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/8) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-959e145b111d3d91d62f3bcb4d48e1ba]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/8) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-447d5e494806f31092352e62790d357d]: Commencement: Sch. 1 para. 9 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
+[^c-447d5e494806f31092352e62790d357d]: Commencement: Sch. 1 para. 9 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(b)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/b)
 
-[^key-f7ee43cb5fb340eb20be0658a9e5ae88]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/9) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-f7ee43cb5fb340eb20be0658a9e5ae88]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2022/20/schedule/1/paragraph/9) in operation at 1.4.2023 in so far as not already in operation by [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-0a2e8be9a6094193c0c4628ae3b794e3]: Commencement: Sch. 2 para. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
+[^c-0a2e8be9a6094193c0c4628ae3b794e3]: Commencement: Sch. 2 para. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
 
-[^key-0fd3a6997f4c5fe262941802d44dfd0c]: Commencement: Sch. 2 para. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
+[^c-0fd3a6997f4c5fe262941802d44dfd0c]: Commencement: Sch. 2 para. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
 
-[^key-2e34e69042d1319e0e87739e95291aec]: Commencement: Sch. 2 para. 3 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
+[^c-2e34e69042d1319e0e87739e95291aec]: Commencement: Sch. 2 para. 3 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
 
-[^key-86c212e7779eb247929549acf523c1b8]: Commencement: Sch. 2 para. 4 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
+[^c-86c212e7779eb247929549acf523c1b8]: Commencement: Sch. 2 para. 4 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
 
-[^key-ce0448aaab7f8d6ba6acf347ac9744bb]: Commencement: Sch. 2 para. 5 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
+[^c-ce0448aaab7f8d6ba6acf347ac9744bb]: Commencement: Sch. 2 para. 5 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e)
 
-[^key-a74b45e4afd5af7d38299c962e891afc]: Commencement: Sch. 3 para. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
+[^c-a74b45e4afd5af7d38299c962e891afc]: Commencement: Sch. 3 para. 1 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
 
-[^key-189e447dae888453f439177f7a6cdc91]: Commencement: Sch. 3 para. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
+[^c-189e447dae888453f439177f7a6cdc91]: Commencement: Sch. 3 para. 2 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
 
-[^key-c122685c20c6710b8748b0aacec29faa]: Commencement: Sch. 3 para. 3 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
+[^c-c122685c20c6710b8748b0aacec29faa]: Commencement: Sch. 3 para. 3 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
 
-[^key-a0038ef22df5ce57779392173e7cc846]: Commencement: Sch. 3 para. 4 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
+[^c-a0038ef22df5ce57779392173e7cc846]: Commencement: Sch. 3 para. 4 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
 
-[^key-f0ac52989015b8a415f0130e3105fcf1]: Commencement: Sch. 3 para. 5 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)
+[^c-f0ac52989015b8a415f0130e3105fcf1]: Commencement: Sch. 3 para. 5 in operation at 28.4.2022 for specified purposes, see [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f)

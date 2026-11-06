@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by sections 66(1), 74A(1), 84 and 86(1), (2), (3) and (9) of the Agriculture Act 1970[^f00001] and of every other power enabling it in that behalf and after consultation with such persons or organisations as appear to it to represent the interests concerned, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8f66bfa8069fe99925bc18dd93f6f2e2]
+## 1. Citation and commencement[^c-8f66bfa8069fe99925bc18dd93f6f2e2]
 
 These Regulations may be cited as the Fertilisers (Mammalian Meat and Bone Meal) Regulations (Northern Ireland) 1996 and shall come into operation on 20th April 1996.
 
-## 2. Interpretation[^key-13045fc9636cc1b9b8ddbca0ee3ebd8a]
+## 2. Interpretation[^c-13045fc9636cc1b9b8ddbca0ee3ebd8a]
 
 (1) In these Regulations—
 
@@ -54,7 +54,7 @@ These Regulations may be cited as the Fertilisers (Mammalian Meat and Bone Meal)
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Prohibition of mammalian meat and bone meal as or in fertiliser on agricultural land[^key-689144e4cba82cfad5c8bad52a8bb52c]
+## 3. Prohibition of mammalian meat and bone meal as or in fertiliser on agricultural land[^c-689144e4cba82cfad5c8bad52a8bb52c]
 
 (1) A person shall not sell, or have in possession with a view to sale, for use as a fertiliser on agricultural land, any mammalian meat and bone meal or material derived from or containing mammalian meat and bone meal.
 
@@ -80,10 +80,10 @@ Under section 74A(3) of the Agriculture Act 1970 any person who contravenes the 
 
 [^f00001]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40); section 74A was inserted by the European Communities Act [1972, c. 68](https://www.legislation.gov.uk/ukpga/1972/68), Schedule 4, paragraph 6, and there are other amendments to the Act not relevant to these Regulations
 
-[^key-8f66bfa8069fe99925bc18dd93f6f2e2]: Commencement: Reg. 1 in operation at 20.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/165/regulation/1)
+[^c-8f66bfa8069fe99925bc18dd93f6f2e2]: Commencement: Reg. 1 in operation at 20.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/165/regulation/1)
 
-[^key-13045fc9636cc1b9b8ddbca0ee3ebd8a]: Commencement: Reg. 2 in operation at 20.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/165/regulation/1)
+[^c-13045fc9636cc1b9b8ddbca0ee3ebd8a]: Commencement: Reg. 2 in operation at 20.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/165/regulation/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-689144e4cba82cfad5c8bad52a8bb52c]: Commencement: Reg. 3 in operation at 20.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/165/regulation/1)
+[^c-689144e4cba82cfad5c8bad52a8bb52c]: Commencement: Reg. 3 in operation at 20.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/165/regulation/1)

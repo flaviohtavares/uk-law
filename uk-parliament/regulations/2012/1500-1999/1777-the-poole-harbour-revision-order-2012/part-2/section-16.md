@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Enforcement of special directions[^key-d31de915b5b44fbd68989754786126fb]
+## 16. Enforcement of special directions[^c-d31de915b5b44fbd68989754786126fb]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d31de915b5b44fbd68989754786126fb]: Commencement: Art. 16 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-d31de915b5b44fbd68989754786126fb]: Commencement: Art. 16 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

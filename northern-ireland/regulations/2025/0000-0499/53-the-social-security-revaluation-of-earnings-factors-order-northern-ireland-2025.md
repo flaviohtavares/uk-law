@@ -46,11 +46,11 @@ The Secretary of State for Work and Pension has made an Order[^f00003] under sec
 
 Accordingly the Department for Communities makes the following Order:
 
-## 1. Citation and commencement[^key-b5be047a62c556ed6fa546d177016a77]
+## 1. Citation and commencement[^c-b5be047a62c556ed6fa546d177016a77]
 
 This Order may be cited as the Social Security Revaluation of Earnings Factors Order (Northern Ireland) 2025 and shall come into operation on 6th April 2025.
 
-## 2. Revaluation of earnings factors[^key-abe7d973ca2b2bd1319e2e49c3b8203d]
+## 2. Revaluation of earnings factors[^c-abe7d973ca2b2bd1319e2e49c3b8203d]
 
 Earnings factors[^f00005] for the tax years specified in the Schedule to this Order in so far as they are relevant—
 
@@ -61,7 +61,7 @@ Earnings factors[^f00005] for the tax years specified in the Schedule to this Or
 
 are directed to be increased by the percentage of their amount shown opposite those tax years in that Schedule.
 
-## 3. Rounding of fractional amounts[^key-646688de6b3ebceb5a60055733c62d21]
+## 3. Rounding of fractional amounts[^c-646688de6b3ebceb5a60055733c62d21]
 
 Where any earnings factor relevant to the calculation specified in Article 2(a)(i) as increased in accordance with this Order, would not but for this Article be expressed as a whole number of pounds, it shall be so expressed by rounding down any fraction of a pound less than one half and rounding up any other fraction of a pound.
 
@@ -73,7 +73,7 @@ David Tarr
 
 A senior officer of the Department for Communities
 
-## SCHEDULE 1 — Percentage increase of earnings factors for specified tax years[^key-023d80eb0dc48bcd0a8a7ec28e29f960]
+## SCHEDULE 1 — Percentage increase of earnings factors for specified tax years[^c-023d80eb0dc48bcd0a8a7ec28e29f960]
 
 Article 2
 
@@ -147,9 +147,9 @@ This Order also provides for the rounding of fractional amounts for earnings fac
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-b5be047a62c556ed6fa546d177016a77]: Commencement: Art. 1 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
+[^c-b5be047a62c556ed6fa546d177016a77]: Commencement: Art. 1 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
 
-[^key-abe7d973ca2b2bd1319e2e49c3b8203d]: Commencement: Art. 2 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
+[^c-abe7d973ca2b2bd1319e2e49c3b8203d]: Commencement: Art. 2 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
 
 [^f00005]: Footnote: *See* sections 22 and 23 of the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7) (“**the 1992 Act**”). Section 22 was amended by paragraph 5 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15))](https://www.legislation.gov.uk/nisi/1995/2705), paragraph 43 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)), section 29(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4), paragraph 26 of Schedule 1 to the National Insurance Contributions Act [2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), subject to section 8(2) of that Act, paragraph 3(3) and (4) of Schedule 3 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2), section 10(1) of, and paragraphs 9 and 30 of Schedule 1 to, the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1), section 102(2) of, and paragraph 2 of Schedule 7 to, the Pensions (No. 2) Act (Northern Ireland) [2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13), and paragraph 6 of Schedule 12, and paragraph 5 of Schedule 16, to the Pensions Act (Northern Ireland) [2015 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2015/5). Section 23 was amended by paragraph 31 of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993, Article 131(1) of the Pensions (Northern Ireland) Order 1995, paragraph 27 of Schedule 1 to the National Insurance Contributions Act 2002, subject to section 8(2) of that Act, and paragraph 3 of Schedule 7 to the Pensions (No. 2) Act (Northern Ireland) 2008. *See also* paragraphs 4(2), 8(4) and 9(4) of Schedule 4B to the 1992 Act under which flat rate accrual amounts of additional state pension are to be increased by reference to the percentage figure specified for 2015-16 in orders under section 130 of the Social Security Administration (Northern Ireland) Act 1992. Schedule 4B was inserted by paragraph 1 of Schedule 2 to the Pensions Act (Northern Ireland) 2008, relevant amendments were made by [S.R. 2016 No. 78](https://www.legislation.gov.uk/nisr/2016/78). *See also* paragraphs 2(6) of Schedule 8 and 2(6) of Schedule 10 to the Pensions Act (Northern Ireland) 2015, under which old state scheme pension debits and credits are to be increased by reference to percentage figures specified in orders under section 130 of the Social Security Administration (Northern Ireland) Act 1992
 
@@ -157,6 +157,6 @@ This Order also provides for the rounding of fractional amounts for earnings fac
 
 [^f00007]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-646688de6b3ebceb5a60055733c62d21]: Commencement: Art. 3 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
+[^c-646688de6b3ebceb5a60055733c62d21]: Commencement: Art. 3 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
 
-[^key-023d80eb0dc48bcd0a8a7ec28e29f960]: Commencement: Sch. 1 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)
+[^c-023d80eb0dc48bcd0a8a7ec28e29f960]: Commencement: Sch. 1 in operation at 6.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/53/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Appointment of inspectors[^key-144b657994def9480fd832868637798f]
+## 16. Appointment of inspectors[^c-144b657994def9480fd832868637798f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ and any person so appointed shall, for the purpose of conducting the investigati
 
 ## Annotations
 
-[^key-144b657994def9480fd832868637798f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/3138/regulation/16) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-144b657994def9480fd832868637798f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/3138/regulation/16) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
 [^f00009]: Footnote: [1979 c. 39](https://www.legislation.gov.uk/ukpga/1979/39).

@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**6.**[^key-9805fcde13e7b0a8cd5a9a83820350be][^key-70d24c0f86d89f16bb73f7d3146e4ffe] Schedule 3 makes provision for the transfer to the RMSPS of obligations and liabilities under the RMPP relating to pension sharing orders, pension attachment orders, attachment of earnings orders, deductions from earnings orders, earnings arrestment schedules and voluntary deduction from earnings arrangements.
+**6.**[^c-9805fcde13e7b0a8cd5a9a83820350be][^c-70d24c0f86d89f16bb73f7d3146e4ffe] Schedule 3 makes provision for the transfer to the RMSPS of obligations and liabilities under the RMPP relating to pension sharing orders, pension attachment orders, attachment of earnings orders, deductions from earnings orders, earnings arrestment schedules and voluntary deduction from earnings arrangements.
 
 ## Annotations
 
-[^key-9805fcde13e7b0a8cd5a9a83820350be]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-9805fcde13e7b0a8cd5a9a83820350be]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-70d24c0f86d89f16bb73f7d3146e4ffe]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/687/article/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-70d24c0f86d89f16bb73f7d3146e4ffe]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/687/article/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

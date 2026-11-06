@@ -48,11 +48,11 @@ In accordance with Article 32(3) of that Order, the Department has published a n
 
 **Not yet in force.**
 
-## 1. Citation and commencement[^key-669b7b8f7b5b8a96c59cfaf60e214b13]
+## 1. Citation and commencement[^c-669b7b8f7b5b8a96c59cfaf60e214b13]
 
 These Regulations may be cited as the Environmental Protection (Wet Wipes Containing Plastic) Regulations (Northern Ireland) 2025 and come into operation on 18<sup>th</sup> May 2027.
 
-## 2. Interpretation[^key-a09dcecc823d73173c14fc71e86fae6a]
+## 2. Interpretation[^c-a09dcecc823d73173c14fc71e86fae6a]
 
 In these Regulations—
 
@@ -77,7 +77,7 @@ In these Regulations—
 - “**supply**” means supply, whether by way of sale or otherwise;
 - “**wet wipe**” means a non-woven piece of fabric which has been pre-wetted and which is not designed or intended to be re-used.
 
-## 3. Offences and Penalties[^key-91ee56d5006461777eba0412c4113f96]
+## 3. Offences and Penalties[^c-91ee56d5006461777eba0412c4113f96]
 
 (1) A person who, in the course of a business, supplies or offers to supply to an end user wet wipes containing plastic is guilty of an offence.
 
@@ -85,7 +85,7 @@ In these Regulations—
 
 (3) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 4. Exemption: retail pharmacy business[^key-b924124b6550e3f543ccd7056838e22c]
+## 4. Exemption: retail pharmacy business[^c-b924124b6550e3f543ccd7056838e22c]
 
 (1) Regulation 3(1) does not apply to a person who in the course of a retail pharmacy business supplies wet wipes containing plastic in the cases in paragraph (2), provided that the conditions in paragraph (3) are complied with.
 
@@ -105,7 +105,7 @@ In these Regulations—
 
 (5) In this regulation, “registered pharmacy” and “retail pharmacy business” have the meanings given in regulation 8(1) (General interpretation) of the Human Medicines Regulations 2012[^f00008].
 
-## 5. Exemption: medical purposes[^key-b085457c6309059db7fededfba272b81]
+## 5. Exemption: medical purposes[^c-b085457c6309059db7fededfba272b81]
 
 (1) Regulation 3(1) does not apply to—
 
@@ -120,17 +120,17 @@ In these Regulations—
 - (c) “**medical purposes**” means the purposes of preventative medicine, medical diagnosis, medical research and the provision of medical care and treatment;
 - (d) “**registered**” in relation to a regulatory body, means registered in a register that the body maintains by virtue of any enactment.
 
-## 6. Exemption: business supply[^key-ba818a5918eb228eba58c85e9f9758bc]
+## 6. Exemption: business supply[^c-ba818a5918eb228eba58c85e9f9758bc]
 
 Regulation 3(1) does not apply to a person that supplies wet wipes containing plastic to a person who carries on a business where the supply is for the purposes of that business.
 
-## 7. Defence of due diligence for suppliers[^key-02194ce55d69e0c466d867de5c006d76]
+## 7. Defence of due diligence for suppliers[^c-02194ce55d69e0c466d867de5c006d76]
 
 (1) Where a person is charged with an offence under these Regulations, it is a defence for that person to show that the person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
 
 (2) Where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or omission of another person, the person charged must not, without leave of the court, be entitled to rely on the defence unless, within the period of 7 days before the hearing the person charged has provided for the court a notice giving such information identifying or assisting in the identification of the other person as was then in the possession of the person charged.
 
-## 8. Enforcement[^key-cc05bc3b7679e5953259fa2d369998bd]
+## 8. Enforcement[^c-cc05bc3b7679e5953259fa2d369998bd]
 
 (1) The enforcing authority for the purpose of compliance with these Regulations is the Department.
 
@@ -162,9 +162,9 @@ An impact assessment of the effect that these Regulations would have upon the co
 
 [^f00001]: Footnote: [S.I. 1997/2778 (N.I.19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-669b7b8f7b5b8a96c59cfaf60e214b13]: Commencement: Reg. 1 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-669b7b8f7b5b8a96c59cfaf60e214b13]: Commencement: Reg. 1 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
-[^key-a09dcecc823d73173c14fc71e86fae6a]: Commencement: Reg. 2 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-a09dcecc823d73173c14fc71e86fae6a]: Commencement: Reg. 2 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I.14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -178,20 +178,20 @@ An impact assessment of the effect that these Regulations would have upon the co
 
 [^f00007]: Footnote: OJ L 396, 30/12/2006, p. 1-849, as last amended by [Regulation EC No. 2020/1149](https://www.legislation.gov.uk/european/regulation/2020/1149) (OJ L 252, 4.8.2020, p. 24-27)
 
-[^key-91ee56d5006461777eba0412c4113f96]: Commencement: Reg. 3 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-91ee56d5006461777eba0412c4113f96]: Commencement: Reg. 3 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
-[^key-b924124b6550e3f543ccd7056838e22c]: Commencement: Reg. 4 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-b924124b6550e3f543ccd7056838e22c]: Commencement: Reg. 4 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), to which there are amendments not relevant to these Regulations
 
-[^key-b085457c6309059db7fededfba272b81]: Commencement: Reg. 5 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-b085457c6309059db7fededfba272b81]: Commencement: Reg. 5 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1997/381](https://www.legislation.gov.uk/uksi/1997/381)
 
 [^f00010]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25(3) has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244)
 
-[^key-ba818a5918eb228eba58c85e9f9758bc]: Commencement: Reg. 6 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-ba818a5918eb228eba58c85e9f9758bc]: Commencement: Reg. 6 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
-[^key-02194ce55d69e0c466d867de5c006d76]: Commencement: Reg. 7 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-02194ce55d69e0c466d867de5c006d76]: Commencement: Reg. 7 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
 
-[^key-cc05bc3b7679e5953259fa2d369998bd]: Commencement: Reg. 8 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)
+[^c-cc05bc3b7679e5953259fa2d369998bd]: Commencement: Reg. 8 in operation at 18.5.2027, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/178/regulation/1)

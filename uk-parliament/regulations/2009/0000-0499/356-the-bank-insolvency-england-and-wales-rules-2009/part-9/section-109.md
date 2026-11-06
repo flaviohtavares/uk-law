@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Resignation of the bank liquidator[^key-edcb8589456531ea5fe30acb8e4c2292]
+## 109. Resignation of the bank liquidator[^c-edcb8589456531ea5fe30acb8e4c2292]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edcb8589456531ea5fe30acb8e4c2292]: Commencement: Rule 109 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-edcb8589456531ea5fe30acb8e4c2292]: Commencement: Rule 109 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

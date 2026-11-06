@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Risk notices[^key-0919e410e63950b272ce5967f79e73c6]
+## 47. Risk notices[^c-0919e410e63950b272ce5967f79e73c6]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0919e410e63950b272ce5967f79e73c6]: Commencement: Reg. 47 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-0919e410e63950b272ce5967f79e73c6]: Commencement: Reg. 47 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00047]: Footnote: Section 80(4) is amended by regulation 15 of these Regulations
 

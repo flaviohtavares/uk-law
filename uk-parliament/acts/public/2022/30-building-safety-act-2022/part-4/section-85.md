@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Safety case report[^key-76114e0c1d86f50ff2c502768ac9076b][^key-26328a22106a6ecfed520275846a9e5d]
+## 85. Safety case report[^c-76114e0c1d86f50ff2c502768ac9076b][^c-26328a22106a6ecfed520275846a9e5d]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76114e0c1d86f50ff2c502768ac9076b]: Commencement: S. 85 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-76114e0c1d86f50ff2c502768ac9076b]: Commencement: S. 85 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-26328a22106a6ecfed520275846a9e5d]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/30/section/85) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/g)
+[^c-26328a22106a6ecfed520275846a9e5d]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/30/section/85) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/g)

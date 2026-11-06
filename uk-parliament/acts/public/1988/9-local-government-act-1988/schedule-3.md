@@ -57,9 +57,9 @@ Section 29.
 
 **5.** (1) Section 26 (matters subject to investigation) shall be amended as follows.
 
-(2)[^key-41ca11bf468a351a9c424a4cb9abe235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-41ca11bf468a351a9c424a4cb9abe235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-08aa5abfd02c61bcd67593c1569510dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-08aa5abfd02c61bcd67593c1569510dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (7) for “area of the authority concerned” there shall be substituted
 
@@ -71,9 +71,9 @@ Section 29.
 
 (5) In subsection (9) (power to exclude from matters not subject to investigation) for “exclude from the provisions of that Schedule” there shall be substituted “add to or exclude from the provisions of that Schedule (as it has effect for the time being)”.
 
-(6)[^key-6f8914ec887f5ef2f2f6a5a4993e5192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6f8914ec887f5ef2f2f6a5a4993e5192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-619f2cac8094425672d7662da0cfdeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-619f2cac8094425672d7662da0cfdeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Section 30 (reports on investigations) shall be amended as follows.
 
@@ -137,13 +137,13 @@ Section 29.
 
 ## Annotations
 
-[^key-41ca11bf468a351a9c424a4cb9abe235]: Textual amendment: [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/2) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-41ca11bf468a351a9c424a4cb9abe235]: Textual amendment: [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/2) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
-[^key-08aa5abfd02c61bcd67593c1569510dc]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/3) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-08aa5abfd02c61bcd67593c1569510dc]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/3) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
-[^key-6f8914ec887f5ef2f2f6a5a4993e5192]: Textual amendment: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/6) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-6f8914ec887f5ef2f2f6a5a4993e5192]: Textual amendment: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/6) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
-[^key-619f2cac8094425672d7662da0cfdeda]: Textual amendment: [Sch. 3 para. 5(7)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/7) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-619f2cac8094425672d7662da0cfdeda]: Textual amendment: [Sch. 3 para. 5(7)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/5/7) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
 [^c13398671]: Textual amendment: [Sch. 3 paras. 7(2)(3)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/7/2/3), [15(a)](https://www.legislation.gov.uk/ukpga/1988/9/schedule/3/paragraph/15/a) repealed by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II) Note 3
 

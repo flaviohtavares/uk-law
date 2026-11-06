@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Disqualification of justices.[^key-1d080df2ee2b79a202ae10d9f451d23e]
+## 99. Disqualification of justices.[^c-1d080df2ee2b79a202ae10d9f451d23e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d080df2ee2b79a202ae10d9f451d23e]: Textual amendment: [S. 99](https://www.legislation.gov.uk/ukpga/1985/51/section/99) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 291](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/291), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-1d080df2ee2b79a202ae10d9f451d23e]: Textual amendment: [S. 99](https://www.legislation.gov.uk/ukpga/1985/51/section/99) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 291](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/291), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)

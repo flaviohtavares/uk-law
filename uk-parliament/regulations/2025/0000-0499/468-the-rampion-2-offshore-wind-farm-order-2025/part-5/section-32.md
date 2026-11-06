@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Temporary use of land for maintaining the authorised project[^key-090a12c196fd95642db63ec17bef4a21]
+## 32. Temporary use of land for maintaining the authorised project[^c-090a12c196fd95642db63ec17bef4a21]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ and in such circumstances, the undertaker may enter the land under sub-paragraph
 
 ## Annotations
 
-[^key-090a12c196fd95642db63ec17bef4a21]: Commencement: Art. 32 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-090a12c196fd95642db63ec17bef4a21]: Commencement: Art. 32 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

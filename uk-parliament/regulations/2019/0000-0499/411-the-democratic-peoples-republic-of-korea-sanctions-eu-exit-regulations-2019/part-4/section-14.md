@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Making funds available to designated person[^key-f7f2f2bf320a036e4713e639681dd2d4][^key-8f46c96a63cdb2d37393767d177bc13e]
+## 14. Making funds available to designated person[^c-f7f2f2bf320a036e4713e639681dd2d4][^c-8f46c96a63cdb2d37393767d177bc13e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7f2f2bf320a036e4713e639681dd2d4]: Commencement: Reg. 14 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-f7f2f2bf320a036e4713e639681dd2d4]: Commencement: Reg. 14 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-8f46c96a63cdb2d37393767d177bc13e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/411/regulation/14) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f46c96a63cdb2d37393767d177bc13e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/411/regulation/14) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

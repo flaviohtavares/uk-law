@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Statement of principles for licensing and regulation[^key-6bef621c01ab07435ffe3fe62096efcc]
+## 23. Statement of principles for licensing and regulation[^c-6bef621c01ab07435ffe3fe62096efcc]
 
 *Extent: E+W+S*
 
@@ -40,13 +40,13 @@ summary: ''
 - (b) Her Majesty's Commissioners of Customs and Excise,
 - (c) one or more persons who appear to the Commission to represent local authorities (including, in Scotland, licensing boards),
 - (d) one or more persons who appear to the Commission to represent chief constables of police forces,
-- (da)[^key-1115856d1889e94ba6355457b13e119d] the chief constable of the Police Service of Scotland,
+- (da)[^c-1115856d1889e94ba6355457b13e119d] the chief constable of the Police Service of Scotland,
 - (e) one or more persons who appear to the Commission to represent the interests of persons carrying on gambling businesses,
 - (f) one or more persons who appear to the Commission to have knowledge about social problems relating to gambling, and
 - (g) to such extent and in such manner as the Commission thinks appropriate, members of the public.
 
 ## Annotations
 
-[^key-6bef621c01ab07435ffe3fe62096efcc]: Commencement: S. 23 in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-6bef621c01ab07435ffe3fe62096efcc]: Commencement: S. 23 in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
 
-[^key-1115856d1889e94ba6355457b13e119d]: Textual amendment: [S. 23(5)(da)](https://www.legislation.gov.uk/ukpga/2005/19/section/23/5/da) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 49(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/49/2)
+[^c-1115856d1889e94ba6355457b13e119d]: Textual amendment: [S. 23(5)(da)](https://www.legislation.gov.uk/ukpga/2005/19/section/23/5/da) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 49(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/49/2)

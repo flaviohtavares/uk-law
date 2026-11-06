@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Committee’s functions vested in the Secretary of State[^key-5c3a6ac9acbbff8182cd264d2cab3a0f]
+## 134. Committee’s functions vested in the Secretary of State[^c-5c3a6ac9acbbff8182cd264d2cab3a0f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.172 of the 1986 Rules. Ignore paragraph (2).
 
 ## Annotations
 
-[^key-5c3a6ac9acbbff8182cd264d2cab3a0f]: Commencement: Rule 134 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-5c3a6ac9acbbff8182cd264d2cab3a0f]: Commencement: Rule 134 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

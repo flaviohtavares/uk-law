@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The measures in article 31A and Schedules 5 and 8[^key-9067ac44fcc5356bda4787566534c7e5] apply in respect of a surveillance zone, subject to paragraph (3) and articles 33 and 35.
+(1) The measures in article 31A and Schedules 5 and 8[^c-9067ac44fcc5356bda4787566534c7e5] apply in respect of a surveillance zone, subject to paragraph (3) and articles 33 and 35.
 
 (2) Paragraph (3) applies if the Secretary of State has carried out a risk assessment and does not believe that the disapplication of any measure under that paragraph would endanger disease control.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9067ac44fcc5356bda4787566534c7e5]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/31/1) substituted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/6)
+[^c-9067ac44fcc5356bda4787566534c7e5]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/31/1) substituted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/6)

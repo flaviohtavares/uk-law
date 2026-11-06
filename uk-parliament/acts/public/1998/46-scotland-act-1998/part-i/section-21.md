@@ -25,7 +25,7 @@ summary: ''
 (2) The members of the corporation shall be—
 
 - (a) the Presiding Officer, and
-- (b) at least[^key-43db55c4c53a06c1b5d051ce86555e8a] four members of the Parliament appointed in accordance with standing orders.
+- (b) at least[^c-43db55c4c53a06c1b5d051ce86555e8a] four members of the Parliament appointed in accordance with standing orders.
 
 (3) The corporation shall provide the Parliament, or ensure that the Parliament is provided, with the property, staff and services required for the Parliament’s purposes.
 
@@ -43,7 +43,7 @@ summary: ''
 
 [^c12394081]: Commencement: S. 21 wholly in force at 6.5.1999: S. 21 not in force at Royal Assent, see s. 130; S. 21(1)-(7) in force at 6.5.1999 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2); s. 21(8) in force for certain purposes at 25.1.1999 and for all remaining purposes at 6.5.1998 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2)
 
-[^key-43db55c4c53a06c1b5d051ce86555e8a]: Textual amendment: Words in s. 21(2)(b) inserted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 5](https://www.legislation.gov.uk/ukpga/2012/11/section/5), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/b)
+[^c-43db55c4c53a06c1b5d051ce86555e8a]: Textual amendment: Words in s. 21(2)(b) inserted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 5](https://www.legislation.gov.uk/ukpga/2012/11/section/5), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/b)
 
 [^c12394091]: Modification: S. 21(6) restricted (6.5.1999) by [S.I. 1999/1082](https://www.legislation.gov.uk/uksi/1999/1082), [art. B2](https://www.legislation.gov.uk/uksi/1999/1082/article/B2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/1082/schedule/1/paragraph/8)
 

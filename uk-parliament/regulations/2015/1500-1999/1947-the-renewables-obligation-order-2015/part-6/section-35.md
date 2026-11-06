@@ -33,7 +33,7 @@ summary: ''
 - (a) in respect of the qualifying proportion of that electricity, the amount of electricity in the second column of Part 5 of Schedule 5 which corresponds to the description of the way in which the electricity is generated in the first column of that Part of that Schedule; and
 - (b) in respect of the remainder of that electricity, the amount of electricity in the third column of Part 5 of Schedule 5 which corresponds to the description of the way in which the electricity is generated in the first column of that Part of that Schedule.
 
-(3A)[^key-0451cd254092edc6493f7204cebecb8c] But paragraph (3) does not apply in the case of relevant electricity generated using pre-2013 capacity by a relevant qualifying CHP station unless a declaration has been made in accordance with paragraph (7) in respect of the pre-2013 capacity of the station.
+(3A)[^c-0451cd254092edc6493f7204cebecb8c] But paragraph (3) does not apply in the case of relevant electricity generated using pre-2013 capacity by a relevant qualifying CHP station unless a declaration has been made in accordance with paragraph (7) in respect of the pre-2013 capacity of the station.
 
 (3B) In paragraph (3A), “relevant qualifying CHP station” means a qualifying CHP station that—
 
@@ -58,8 +58,8 @@ summary: ''
 (7) A declaration is made in accordance with this paragraph if it meets the following conditions—
 
 - (a) it is made by the operator of the generating station to the Authority in writing;
-- (b) it is made in respect of the pre-2013 capacity,[^key-2281455e2c184a384a0d7596e5847125] 2013/15 capacity, 2015/16 capacity or post-2016 capacity of the station;
-- (ba)[^key-0c71649136ea4785eb9ea9af49ade221] in the case of a declaration made in respect of the pre-2013 capacity of the station, it confirms that—
+- (b) it is made in respect of the pre-2013 capacity,[^c-2281455e2c184a384a0d7596e5847125] 2013/15 capacity, 2015/16 capacity or post-2016 capacity of the station;
+- (ba)[^c-0c71649136ea4785eb9ea9af49ade221] in the case of a declaration made in respect of the pre-2013 capacity of the station, it confirms that—
   - (i) pre-2013 capacity forms part of the total installed capacity of the station, and
   - (ii) support has not been given under any relevant scheme for heat produced by the use of that generating capacity;
 - (c) in the case of a declaration made in respect of the 2013/15 capacity of the station, it confirms that—
@@ -85,10 +85,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0451cd254092edc6493f7204cebecb8c]: Textual amendment: [Art. 35(3A)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/3A)[(3B)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/3B) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/896/article/4/2)
+[^c-0451cd254092edc6493f7204cebecb8c]: Textual amendment: [Art. 35(3A)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/3A)[(3B)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/3B) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/896/article/4/2)
 
-[^key-2281455e2c184a384a0d7596e5847125]: Textual amendment: Words in [art. 35(7)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/7/b) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/896/article/4/3/a)
+[^c-2281455e2c184a384a0d7596e5847125]: Textual amendment: Words in [art. 35(7)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/7/b) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/896/article/4/3/a)
 
-[^key-0c71649136ea4785eb9ea9af49ade221]: Textual amendment: [Art. 35(7)(ba)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/7/ba) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/896/article/4/3/b)
+[^c-0c71649136ea4785eb9ea9af49ade221]: Textual amendment: [Art. 35(7)(ba)](https://www.legislation.gov.uk/uksi/2015/1947/article/35/7/ba) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/896/article/4/3/b)
 
 [^c22695901]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).

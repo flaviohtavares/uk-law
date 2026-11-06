@@ -31,7 +31,7 @@ summary: ''
 
 IMMIGRATION
 
-The Immigration (European Economic Area) (Amendment) Regulations 2001 (revoked)[^key-6fdc447d3e27e93de400ac51392ca27d]
+The Immigration (European Economic Area) (Amendment) Regulations 2001 (revoked)[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 2nd April 2001
 
-[^key-6fdc447d3e27e93de400ac51392ca27d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fdc447d3e27e93de400ac51392ca27d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-6fdc447d3e27e93de400ac51392ca27d]
+## 1.[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-6fdc447d3e27e93de400ac51392ca27d]
+## 2.[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-6fdc447d3e27e93de400ac51392ca27d]
+## 3.[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6fdc447d3e27e93de400ac51392ca27d]
+## 4.[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-6fdc447d3e27e93de400ac51392ca27d]
+## 5.[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-6fdc447d3e27e93de400ac51392ca27d]
+## 6.[^c-6fdc447d3e27e93de400ac51392ca27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6fdc447d3e27e93de400ac51392ca27d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fdc447d3e27e93de400ac51392ca27d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6fdc447d3e27e93de400ac51392ca27d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fdc447d3e27e93de400ac51392ca27d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6fdc447d3e27e93de400ac51392ca27d]: Textual amendment: Regulations revoked (30.4.2006) by [The Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003)](https://www.legislation.gov.uk/uksi/2006/1003), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1003/regulation/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/1003/schedule/3/part/1) (with [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2006/1003/schedule/3/paragraph/1/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1003/schedule/4))
+[^c-6fdc447d3e27e93de400ac51392ca27d]: Textual amendment: Regulations revoked (30.4.2006) by [The Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003)](https://www.legislation.gov.uk/uksi/2006/1003), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1003/regulation/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/1003/schedule/3/part/1) (with [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2006/1003/schedule/3/paragraph/1/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1003/schedule/4))

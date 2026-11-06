@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Repeal of power to require additional statements[^key-becedc97a53cfe6f215538b1bd7bf9de][^key-a6ab7c8577f785b997557af518c74f9c]
+## 42. Repeal of power to require additional statements[^c-becedc97a53cfe6f215538b1bd7bf9de][^c-a6ab7c8577f785b997557af518c74f9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In the Companies Act 2006—
 
 ## Annotations
 
-[^key-becedc97a53cfe6f215538b1bd7bf9de]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-becedc97a53cfe6f215538b1bd7bf9de]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a6ab7c8577f785b997557af518c74f9c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/56/section/42) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z6)
+[^c-a6ab7c8577f785b997557af518c74f9c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/56/section/42) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z6)

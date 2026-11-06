@@ -24,9 +24,9 @@ summary: ''
 
 ### Overview
 
-**1.**[^key-5ec07f626eded0fd8e1294ec4eab25b7] This Schedule makes provision about relief available for acquisitions involving multiple dwellings.
+**1.**[^c-5ec07f626eded0fd8e1294ec4eab25b7] This Schedule makes provision about relief available for acquisitions involving multiple dwellings.
 
-**2.**[^key-6036701968b002533b219cb96d57da9e] This Schedule is arranged as follows—
+**2.**[^c-6036701968b002533b219cb96d57da9e] This Schedule is arranged as follows—
 
 - (a) paragraph 3 identifies the transactions to which this Schedule applies,
 - (b) paragraph 4 defines key terms,
@@ -36,7 +36,7 @@ summary: ''
 
 ### Transactions to which this Schedule applies
 
-**3.**[^key-531c8a744edb63c6127f2fc8a7d84282] (1) This Schedule applies to a relevant transaction.
+**3.**[^c-531c8a744edb63c6127f2fc8a7d84282] (1) This Schedule applies to a relevant transaction.
 
 (2) A ““relevant transaction”” is a chargeable transaction that is—
 
@@ -76,7 +76,7 @@ summary: ''
 
 ### Key terms
 
-**4.**[^key-98e7a8b2efe2e83516663f3cab77913f] (1) ““The consideration attributable to dwellings”” is—
+**4.**[^c-98e7a8b2efe2e83516663f3cab77913f] (1) ““The consideration attributable to dwellings”” is—
 
 - (a) for a single dwelling transaction, so much of the chargeable consideration for the transaction as is attributable to the dwelling;
 - (b) for a multiple dwelling transaction, so much of the chargeable consideration for the transaction as is attributable to the dwellings in total.
@@ -97,7 +97,7 @@ summary: ''
 
 ### The amount of tax chargeable
 
-**5.**[^key-290f5a35881c4e754aa16c4357636f28] (1) If relief under this Schedule is claimed for a relevant transaction, the amount of tax chargeable in respect of the transaction is the sum of—
+**5.**[^c-290f5a35881c4e754aa16c4357636f28] (1) If relief under this Schedule is claimed for a relevant transaction, the amount of tax chargeable in respect of the transaction is the sum of—
 
 - (a) the tax related to the consideration attributable to dwellings, and
 - (b) the tax related to the remaining consideration (if any).
@@ -106,7 +106,7 @@ summary: ''
 
 ### Determining the tax related to the consideration attributable to dwellings
 
-**6.**[^key-812ebebc96ca9868ed002f81b040d7b3] (1) For the purposes of paragraph 5(1)(a), ““the tax related to the consideration attributable to dwellings”” is determined as follows—
+**6.**[^c-812ebebc96ca9868ed002f81b040d7b3] (1) For the purposes of paragraph 5(1)(a), ““the tax related to the consideration attributable to dwellings”” is determined as follows—
 
 - *Step 1* Determine the amount of tax that would be chargeable under section 27 on the assumption that—
   - (a) the chargeable transaction is a residential property transaction, and
@@ -123,7 +123,7 @@ summary: ''
 
   ““TDC”” is total dwellings consideration.
 
-(2) But if the amount found at Step 2 of sub-paragraph (1) is less than 3%[^key-be420de7e8fc996fa3c9e327555ae628] of total dwellings consideration, for the purposes of paragraph 5(1)(a) ““the tax related to the consideration attributable to dwellings”” is an amount equal to 3% of the consideration attributable to dwellings.
+(2) But if the amount found at Step 2 of sub-paragraph (1) is less than 3%[^c-be420de7e8fc996fa3c9e327555ae628] of total dwellings consideration, for the purposes of paragraph 5(1)(a) ““the tax related to the consideration attributable to dwellings”” is an amount equal to 3% of the consideration attributable to dwellings.
 
 (3) ”Total dwellings consideration” means—
 
@@ -145,7 +145,7 @@ summary: ''
 
 ### Determining the tax related to the remaining consideration
 
-**7.**[^key-9518d334fd4a5a36e4b90041fa9226e2] (1) For the purposes of paragraph 5(1)(b), ““the tax related to the remaining consideration”” is the appropriate fraction of the amount of tax which (but for this Schedule) would be due in respect of the relevant transaction.
+**7.**[^c-9518d334fd4a5a36e4b90041fa9226e2] (1) For the purposes of paragraph 5(1)(b), ““the tax related to the remaining consideration”” is the appropriate fraction of the amount of tax which (but for this Schedule) would be due in respect of the relevant transaction.
 
 (2) In sub-paragraph (1), “**"the appropriate fraction”**” means—
 
@@ -166,7 +166,7 @@ Figure 13 where—
   - (i) the total of the chargeable consideration for all those transactions, less
   - (ii) total dwellings consideration.
 
-### Circumstances in which subsidiary dwellings do not count as separate dwellings[^key-3721e3ffd773c96b384921d138263d91]
+### Circumstances in which subsidiary dwellings do not count as separate dwellings[^c-3721e3ffd773c96b384921d138263d91]
 
 **7A.** (1) Sub-paragraph (3) applies in relation to a chargeable transaction—
 
@@ -189,7 +189,7 @@ Figure 13 where—
 
 ### Certain buildings not yet constructed or adapted to count as a dwelling
 
-**8.**[^key-cc17e69ed1948908fe42e8592fb862e1] (1) For the purposes of this Schedule, the main subject-matter of a transaction is to be taken to consist of or include an interest in a dwelling if—
+**8.**[^c-cc17e69ed1948908fe42e8592fb862e1] (1) For the purposes of this Schedule, the main subject-matter of a transaction is to be taken to consist of or include an interest in a dwelling if—
 
 - (a) substantial performance of a contract constitutes the effective date of that transaction by virtue of a relevant deeming provision,
 - (b) the main subject-matter of the transaction consists of or includes an interest in a building, or a part of a building, that is to be constructed or adapted under the contract for use as a dwelling, and
@@ -209,22 +209,22 @@ Figure 13 where—
 
 ## Annotations
 
-[^key-5ec07f626eded0fd8e1294ec4eab25b7]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5ec07f626eded0fd8e1294ec4eab25b7]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6036701968b002533b219cb96d57da9e]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6036701968b002533b219cb96d57da9e]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-531c8a744edb63c6127f2fc8a7d84282]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-531c8a744edb63c6127f2fc8a7d84282]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-98e7a8b2efe2e83516663f3cab77913f]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-98e7a8b2efe2e83516663f3cab77913f]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-290f5a35881c4e754aa16c4357636f28]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-290f5a35881c4e754aa16c4357636f28]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-812ebebc96ca9868ed002f81b040d7b3]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-812ebebc96ca9868ed002f81b040d7b3]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-be420de7e8fc996fa3c9e327555ae628]: Textual amendment: Word in Sch. 13 para. 6(2) substituted (13.2.2026) by [The Land Transaction Tax (Modification of Relief for Acquisitions Involving Multiple Dwellings) (Wales) Regulations 2026 (W.S.I. 2026/40)](https://www.legislation.gov.uk/wsi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/40/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/40/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2026/40/regulation/3))
+[^c-be420de7e8fc996fa3c9e327555ae628]: Textual amendment: Word in Sch. 13 para. 6(2) substituted (13.2.2026) by [The Land Transaction Tax (Modification of Relief for Acquisitions Involving Multiple Dwellings) (Wales) Regulations 2026 (W.S.I. 2026/40)](https://www.legislation.gov.uk/wsi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/40/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/40/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2026/40/regulation/3))
 
-[^key-9518d334fd4a5a36e4b90041fa9226e2]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9518d334fd4a5a36e4b90041fa9226e2]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3721e3ffd773c96b384921d138263d91]: Textual amendment: [Sch. 13 para. 7A](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/17A) inserted (7.2.2025) by [The Land Transaction Tax (Modification of Relief for Acquisitions Involving Multiple Dwellings) (Wales) Regulations 2025 (S.I. 2025/119)](https://www.legislation.gov.uk/wsi/2025/119), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/119/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2025/119/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2025/119/regulation/4))
+[^c-3721e3ffd773c96b384921d138263d91]: Textual amendment: [Sch. 13 para. 7A](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/17A) inserted (7.2.2025) by [The Land Transaction Tax (Modification of Relief for Acquisitions Involving Multiple Dwellings) (Wales) Regulations 2025 (S.I. 2025/119)](https://www.legislation.gov.uk/wsi/2025/119), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/119/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2025/119/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2025/119/regulation/4))
 
-[^key-cc17e69ed1948908fe42e8592fb862e1]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-cc17e69ed1948908fe42e8592fb862e1]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/13/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

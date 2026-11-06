@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Power to commission reports[^key-6a1781079a6b683f61ed3f2bca3e8c1c]
+## 83. Power to commission reports[^c-6a1781079a6b683f61ed3f2bca3e8c1c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a1781079a6b683f61ed3f2bca3e8c1c]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2021/15/section/83) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-6a1781079a6b683f61ed3f2bca3e8c1c]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2021/15/section/83) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

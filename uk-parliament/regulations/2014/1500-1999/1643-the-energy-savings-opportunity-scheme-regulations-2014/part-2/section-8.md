@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The scheme administrator must ensure the establishment of[^key-f2d4f70b9af8b49292f0ecf8297b5e44] a system (the “Notification System”) which enables responsible undertakings to—
+(1) The scheme administrator must ensure the establishment of[^c-f2d4f70b9af8b49292f0ecf8297b5e44] a system (the “Notification System”) which enables responsible undertakings to—
 
 - (a) notify information as required by these Regulations, and
 - (b) voluntarily notify such additional information as the scheme administrator considers appropriate.
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d4f70b9af8b49292f0ecf8297b5e44]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/8/1) substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1182/regulation/5)
+[^c-f2d4f70b9af8b49292f0ecf8297b5e44]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/8/1) substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1182/regulation/5)

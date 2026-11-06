@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-b86600ee620f6f9b74a550a60ddcc7f7]
+## 1. Citation, commencement and extent[^c-b86600ee620f6f9b74a550a60ddcc7f7]
 
 (1) These Regulations may be cited as the Pig Carcase (Grading) Amendment (Scotland) Regulations 2003 and shall come into force on 17th December 2003.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Pig Carcase (Grading) Regulations 1994[^key-3d4303700e3dd78d6f932ac2683283f3]
+## 2. Amendment of the Pig Carcase (Grading) Regulations 1994[^c-3d4303700e3dd78d6f932ac2683283f3]
 
 Regulation 2(1) of the Pig Carcase (Grading) Regulations 1994[^f00002] is amended by substituting for the definition of “the Commission Decision” the following–
 
@@ -79,9 +79,9 @@ No Regulatory Impact Assessment has been produced for these Regulations.
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The function conferred upon the Ministers of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-b86600ee620f6f9b74a550a60ddcc7f7]: Commencement: Reg. 1 in force at 17.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/565/regulation/1/1)
+[^c-b86600ee620f6f9b74a550a60ddcc7f7]: Commencement: Reg. 1 in force at 17.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/565/regulation/1/1)
 
-[^key-3d4303700e3dd78d6f932ac2683283f3]: Commencement: Reg. 2 in force at 17.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/565/regulation/1/1)
+[^c-3d4303700e3dd78d6f932ac2683283f3]: Commencement: Reg. 2 in force at 17.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/565/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1994/2155](https://www.legislation.gov.uk/uksi/1994/2155).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Permission to appeal from Upper Tribunal to Court of Session[^key-f582f7c855ba140662c720a90e9ecb23]
+## 23. Permission to appeal from Upper Tribunal to Court of Session[^c-f582f7c855ba140662c720a90e9ecb23]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 13 of the Tribunals, Courts and Enforcement Act 2007 (right to appeal
 
 ## Annotations
 
-[^key-f582f7c855ba140662c720a90e9ecb23]: Commencement: S. 23 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/b)
+[^c-f582f7c855ba140662c720a90e9ecb23]: Commencement: S. 23 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/b)

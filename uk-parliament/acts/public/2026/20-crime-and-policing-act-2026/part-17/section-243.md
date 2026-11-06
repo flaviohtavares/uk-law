@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Implementation of international law enforcement information-sharing agreements[^key-7321aa8ccde2ea44596c11af58860862]
+## 243. Implementation of international law enforcement information-sharing agreements[^c-7321aa8ccde2ea44596c11af58860862]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7321aa8ccde2ea44596c11af58860862]: Commencement: S. 243 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-7321aa8ccde2ea44596c11af58860862]: Commencement: S. 243 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

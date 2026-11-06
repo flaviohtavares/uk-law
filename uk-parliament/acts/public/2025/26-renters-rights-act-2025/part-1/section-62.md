@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Student accommodation that is not an HMO[^key-f3ae78c857cd5b2932344e2eb95a8397][^key-0e15f8e478937ce19a4aeeacbf0a68b5]
+## 62. Student accommodation that is not an HMO[^c-f3ae78c857cd5b2932344e2eb95a8397][^c-0e15f8e478937ce19a4aeeacbf0a68b5]
 
 *Extent: E+W*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ae78c857cd5b2932344e2eb95a8397]: Commencement: S. 62 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f3ae78c857cd5b2932344e2eb95a8397]: Commencement: S. 62 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-0e15f8e478937ce19a4aeeacbf0a68b5]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2025/26/section/62) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/e)
+[^c-0e15f8e478937ce19a4aeeacbf0a68b5]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2025/26/section/62) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/e)

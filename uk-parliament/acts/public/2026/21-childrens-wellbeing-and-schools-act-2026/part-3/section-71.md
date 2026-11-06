@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Progress statement[^key-0725ff537078deca2d92cc2b5a3cabaa]
+## 71. Progress statement[^c-0725ff537078deca2d92cc2b5a3cabaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0725ff537078deca2d92cc2b5a3cabaa]: Commencement: S. 71 in force at Royal Assent, see [s. 78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)
+[^c-0725ff537078deca2d92cc2b5a3cabaa]: Commencement: S. 71 in force at Royal Assent, see [s. 78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)

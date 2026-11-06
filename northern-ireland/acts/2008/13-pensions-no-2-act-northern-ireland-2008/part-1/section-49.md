@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Monitoring of employers' payments to personal pension schemes[^key-827e87d120ecee8d026f568103e91808][^key-6a7ff0d5a1219ed5a0c7b8411a9a0f7e]
+## 49. Monitoring of employers' payments to personal pension schemes[^c-827e87d120ecee8d026f568103e91808][^c-6a7ff0d5a1219ed5a0c7b8411a9a0f7e]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In section 107A of the Pension Schemes Act, at the end add—
 
 ## Annotations
 
-[^key-827e87d120ecee8d026f568103e91808]: Commencement: S. 49 in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(a)](https://www.legislation.gov.uk/nisr/2011/441/article/2/a)
+[^c-827e87d120ecee8d026f568103e91808]: Commencement: S. 49 in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(a)](https://www.legislation.gov.uk/nisr/2011/441/article/2/a)
 
-[^key-6a7ff0d5a1219ed5a0c7b8411a9a0f7e]: Commencement: S. 49 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-6a7ff0d5a1219ed5a0c7b8411a9a0f7e]: Commencement: S. 49 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

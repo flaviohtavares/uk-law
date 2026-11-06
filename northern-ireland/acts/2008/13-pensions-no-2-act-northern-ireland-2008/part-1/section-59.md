@@ -24,7 +24,7 @@ summary: ''
 
 - (a) to keep, in such form and manner as may be prescribed, such records as may be prescribed;
 - (b) to preserve those records for such period, not exceeding 6 years, as may be prescribed;
-- (c) to provide those records to the Regulator on receiving a notification requesting them[^key-f93ff3c3ae7259961430540b4963c781] .
+- (c) to provide those records to the Regulator on receiving a notification requesting them[^c-f93ff3c3ae7259961430540b4963c781] .
 
 (2) Regulations under subsection (1) may provide that Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with those requirements.
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c19558331]: Commencement: S. 59 partly in force; s. 59 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-f93ff3c3ae7259961430540b4963c781]: Textual amendment: Words in s. 59(1)(c) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 33(2)](https://www.legislation.gov.uk/nia/2012/3/section/33/2), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(i)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/i)
+[^c-f93ff3c3ae7259961430540b4963c781]: Textual amendment: Words in s. 59(1)(c) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 33(2)](https://www.legislation.gov.uk/nia/2012/3/section/33/2), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(i)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Applications and appeals[^key-36d0135d42a4cf69f9de3e1d06b4422a]
+## 71. Applications and appeals[^c-36d0135d42a4cf69f9de3e1d06b4422a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36d0135d42a4cf69f9de3e1d06b4422a]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2008/5/section/71) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-36d0135d42a4cf69f9de3e1d06b4422a]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2008/5/section/71) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

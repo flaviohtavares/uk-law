@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Conduct of administration, transfer schemes etc[^key-2fa6152e9e882bda3aaf4821fcb743ed]
+## 45. Conduct of administration, transfer schemes etc[^c-2fa6152e9e882bda3aaf4821fcb743ed]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 
 ## Annotations
 
-[^key-2fa6152e9e882bda3aaf4821fcb743ed]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/52/section/45) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-2fa6152e9e882bda3aaf4821fcb743ed]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/52/section/45) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (Wales) (Amendment) Regulations 2006 (revoked)[^key-50129ea58a21fdc59e3bed69578752e6]
+The Animals and Animal Products (Import and Export) (Wales) (Amendment) Regulations 2006 (revoked)[^c-50129ea58a21fdc59e3bed69578752e6]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 1 August 2006
 
-[^key-50129ea58a21fdc59e3bed69578752e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50129ea58a21fdc59e3bed69578752e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-50129ea58a21fdc59e3bed69578752e6]
+## 1. Title, application and commencement[^c-50129ea58a21fdc59e3bed69578752e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Animal and Animal Products (Import and Export) (Wales) Regulations 2006[^key-50129ea58a21fdc59e3bed69578752e6]
+## 2. Amendment to the Animal and Animal Products (Import and Export) (Wales) Regulations 2006[^c-50129ea58a21fdc59e3bed69578752e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50129ea58a21fdc59e3bed69578752e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50129ea58a21fdc59e3bed69578752e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-50129ea58a21fdc59e3bed69578752e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50129ea58a21fdc59e3bed69578752e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50129ea58a21fdc59e3bed69578752e6]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/uksi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/806/schedule/3)
+[^c-50129ea58a21fdc59e3bed69578752e6]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/uksi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/806/schedule/3)

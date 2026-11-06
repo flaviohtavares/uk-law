@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-81600370ae7f5a83199e8b64792f40ee] No person may move meat from the premises to which it has been traced under article 23, except in accordance with paragraph (1A) (including that paragraph as applied in the circumstances set out in paragraph (1B) or (1D)).
+(1)[^c-81600370ae7f5a83199e8b64792f40ee] No person may move meat from the premises to which it has been traced under article 23, except in accordance with paragraph (1A) (including that paragraph as applied in the circumstances set out in paragraph (1B) or (1D)).
 
-(1A)[^key-8f114300021098f492693c13d7d2b70a] The Secretary of State may—
+(1A)[^c-8f114300021098f492693c13d7d2b70a] The Secretary of State may—
 
 - (a) dispose of meat traced from infected premises under article 23;
 - (b) require disposal of the meat, by notice to the person in possession of it;
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81600370ae7f5a83199e8b64792f40ee]: Textual amendment: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/24/1) substituted (22.4.2026) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (Amendment) Order 2026 (S.I. 2026/440)](https://www.legislation.gov.uk/uksi/2026/440), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/440/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/440/article/2/a)
+[^c-81600370ae7f5a83199e8b64792f40ee]: Textual amendment: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/24/1) substituted (22.4.2026) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (Amendment) Order 2026 (S.I. 2026/440)](https://www.legislation.gov.uk/uksi/2026/440), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/440/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/440/article/2/a)
 
-[^key-8f114300021098f492693c13d7d2b70a]: Textual amendment: [Art. 24(1A)-(1D)](https://www.legislation.gov.uk/uksi/2006/2702/article/24/1A) substituted for [art. 24(1A)](https://www.legislation.gov.uk/uksi/2006/2702/article/24/1A) (22.4.2026) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (Amendment) Order 2026 (S.I. 2026/440)](https://www.legislation.gov.uk/uksi/2026/440), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/440/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/440/article/2/b)
+[^c-8f114300021098f492693c13d7d2b70a]: Textual amendment: [Art. 24(1A)-(1D)](https://www.legislation.gov.uk/uksi/2006/2702/article/24/1A) substituted for [art. 24(1A)](https://www.legislation.gov.uk/uksi/2006/2702/article/24/1A) (22.4.2026) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (Amendment) Order 2026 (S.I. 2026/440)](https://www.legislation.gov.uk/uksi/2026/440), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/440/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/440/article/2/b)

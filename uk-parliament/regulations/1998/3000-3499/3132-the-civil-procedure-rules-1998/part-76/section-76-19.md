@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.19. Applications for anonymity[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+## 76.19. Applications for anonymity[^c-aff08cb562443cad7c83cb0da0e8e7a6]
 
 *Extent: E+W*
 
@@ -26,13 +26,13 @@ summary: ''
 
 (3) An application may be made without notice to the other party.
 
-(4)[^key-11ebd993bedaa622b0dda7cc41cd9073] References in this rule—
+(4)[^c-11ebd993bedaa622b0dda7cc41cd9073] References in this rule—
 
 - (a) to an order requiring anonymity for the controlled person are to be construed in accordance with paragraph 5(3) of the Schedule to the Act; and
 - (b) to the controlled person, in relation to a time before the control order has been made, are to be construed in accordance with paragraph 5(4) of the Schedule to the Act.
 
 ## Annotations
 
-[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+[^c-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
 
-[^key-11ebd993bedaa622b0dda7cc41cd9073]: Textual amendment: [Rule 76.19(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.19/4) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2009/2092/rule/16/b)
+[^c-11ebd993bedaa622b0dda7cc41cd9073]: Textual amendment: [Rule 76.19(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.19/4) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2009/2092/rule/16/b)

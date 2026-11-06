@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336A. Power of court to extend the moratorium period[^key-0a3b2c6aed90d722a2dd1eefc58bbfa6]
+## 336A. Power of court to extend the moratorium period[^c-0a3b2c6aed90d722a2dd1eefc58bbfa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a3b2c6aed90d722a2dd1eefc58bbfa6]: Textual amendment: Ss. 336A-336D inserted (27.4.2017 for specified purposes, 31.10.2017 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/10/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/1)); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/c)
+[^c-0a3b2c6aed90d722a2dd1eefc58bbfa6]: Textual amendment: Ss. 336A-336D inserted (27.4.2017 for specified purposes, 31.10.2017 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/10/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/1)); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/c)

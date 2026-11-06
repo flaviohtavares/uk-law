@@ -32,7 +32,7 @@ summary: ''
 
 SOCIAL CARE
 
-The Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) Regulations 2009 (revoked)[^key-ec48963b1b2a5f2271a40ecf543b133b]
+The Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) Regulations 2009 (revoked)[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 Made
 
@@ -46,67 +46,67 @@ Coming into force
 
 31st March 2009
 
-[^key-ec48963b1b2a5f2271a40ecf543b133b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec48963b1b2a5f2271a40ecf543b133b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-ec48963b1b2a5f2271a40ecf543b133b]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Fitness of Social Workers[^key-ec48963b1b2a5f2271a40ecf543b133b]
+## 1. Citation, commencement and interpretation[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fitness of Social Service Workers[^key-ec48963b1b2a5f2271a40ecf543b133b]
+## 2. Fitness of Social Workers[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. First Employment as a Social Worker[^key-ec48963b1b2a5f2271a40ecf543b133b]
+## 3. Fitness of Social Service Workers[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Registration in a Relevant Register for Social Workers[^key-ec48963b1b2a5f2271a40ecf543b133b]
+## 4. First Employment as a Social Worker[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. New Employment as a Social Service Worker[^key-ec48963b1b2a5f2271a40ecf543b133b]
+## 5. Registration in a Relevant Register for Social Workers[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Registration Requirement Commencement Dates for Descriptions of Social Service Workers[^key-ec48963b1b2a5f2271a40ecf543b133b]
+## 6. New Employment as a Social Service Worker[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Registration Requirement Commencement Dates for Descriptions of Social Service Workers[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
-**9.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Not yet in force.**
 
-**10.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Offences[^key-ec48963b1b2a5f2271a40ecf543b133b]
+**13.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-ec48963b1b2a5f2271a40ecf543b133b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. Offences[^c-ec48963b1b2a5f2271a40ecf543b133b]
 
 **Not yet in force.**
 
@@ -114,12 +114,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-ec48963b1b2a5f2271a40ecf543b133b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec48963b1b2a5f2271a40ecf543b133b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ec48963b1b2a5f2271a40ecf543b133b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec48963b1b2a5f2271a40ecf543b133b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec48963b1b2a5f2271a40ecf543b133b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/91) revoked (30.3.2009) by [The Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) (No. 2) Regulations 2009 (S.S.I. 2009/118)](https://www.legislation.gov.uk/ssi/2009/118), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2009/118/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2009/118/regulation/17)
+[^c-ec48963b1b2a5f2271a40ecf543b133b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/91) revoked (30.3.2009) by [The Regulation of Care (Fitness of Employees in Relation to Care Services) (Scotland) (No. 2) Regulations 2009 (S.S.I. 2009/118)](https://www.legislation.gov.uk/ssi/2009/118), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2009/118/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2009/118/regulation/17)

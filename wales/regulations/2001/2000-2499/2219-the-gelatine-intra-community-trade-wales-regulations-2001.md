@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Gelatine (Intra-Community Trade) (Wales) Regulations 2001 (revoked)[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+The Gelatine (Intra-Community Trade) (Wales) Regulations 2001 (revoked)[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into force
 
 1st August 2001
 
-[^key-0f69fc087c78e475fbab833dbb5ad0fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f69fc087c78e475fbab833dbb5ad0fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 1. Citation, commencement and application[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 2. Interpretation[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Products of Animal Origin (Import and Export) Regulations 1996[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 3. Amendment of the Products of Animal Origin (Import and Export) Regulations 1996[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Authorisation of collection centres and tanneries[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 4. Authorisation of collection centres and tanneries[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Suspension and withdrawal of authorisations[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 5. Suspension and withdrawal of authorisations[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Right of appeal[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 6. Right of appeal[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cancellation of authorisation[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 7. Cancellation of authorisation[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Registration[^key-0f69fc087c78e475fbab833dbb5ad0fc]
+## 8. Registration[^c-0f69fc087c78e475fbab833dbb5ad0fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f69fc087c78e475fbab833dbb5ad0fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f69fc087c78e475fbab833dbb5ad0fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0f69fc087c78e475fbab833dbb5ad0fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f69fc087c78e475fbab833dbb5ad0fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f69fc087c78e475fbab833dbb5ad0fc]: Textual amendment: Regulations revoked (1.1.2006) by [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/uksi/2005/3292), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/3292/schedule/7)
+[^c-0f69fc087c78e475fbab833dbb5ad0fc]: Textual amendment: Regulations revoked (1.1.2006) by [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/uksi/2005/3292), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/3292/schedule/7)

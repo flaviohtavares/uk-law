@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Notification of a serious event[^key-c8911f750fc5eeda8378030772c46376]
+## 27. Notification of a serious event[^c-c8911f750fc5eeda8378030772c46376]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c8911f750fc5eeda8378030772c46376]: Commencement: Reg. 27 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-c8911f750fc5eeda8378030772c46376]: Commencement: Reg. 27 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00019]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); Chapter A3 of Part 2 was inserted by the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), sections 19(2), 20(2) and 25(2).
 

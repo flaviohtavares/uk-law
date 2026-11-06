@@ -38,12 +38,12 @@ summary: ''
 - (a) starting on the date of the injury or the first day of the sickness; and
 - (b) ending on the date on which the duty to repatriate the seafarer under regulation 19 ends under regulation 21 (or, if such a duty does not arise, the date on which the seafarer leaves the ship).
 
-(4) [^key-d56dca26aa08e4f3f6caa848c27a3875]... If a seafarer falling within paragraph (1) is incapable of work after the date on which the duty to repatriate the seafarer under regulation 19 ends under regulation 21 (or if such a duty does not arise, the date on which the seafarer leaves the ship), and the seafarer does not receive the basic wages payable under the seafarer employment agreement for the period starting on that date and ending on the date on which the seafarer is again fit for work, the shipowner must pay to the seafarer a sum equal to the difference between—
+(4) [^c-d56dca26aa08e4f3f6caa848c27a3875]... If a seafarer falling within paragraph (1) is incapable of work after the date on which the duty to repatriate the seafarer under regulation 19 ends under regulation 21 (or if such a duty does not arise, the date on which the seafarer leaves the ship), and the seafarer does not receive the basic wages payable under the seafarer employment agreement for the period starting on that date and ending on the date on which the seafarer is again fit for work, the shipowner must pay to the seafarer a sum equal to the difference between—
 
-- (a) any sums received by the seafarer in respect of basic wages for the period of incapacity[^key-762274d7c44eb444f3213a63afaab7c6] under that agreement; and
-- (b) the basic wages which would have been payable to the seafarer under that agreement if the seafarer had remained fit for work throughout the period of incapacity[^key-5a782741eb9c55b020ee82189d7859bb].
+- (a) any sums received by the seafarer in respect of basic wages for the period of incapacity[^c-762274d7c44eb444f3213a63afaab7c6] under that agreement; and
+- (b) the basic wages which would have been payable to the seafarer under that agreement if the seafarer had remained fit for work throughout the period of incapacity[^c-5a782741eb9c55b020ee82189d7859bb].
 
-(5)[^key-e620a089f58eb903ac0cfc5ae505a1d1] “Period of incapacity” means—
+(5)[^c-e620a089f58eb903ac0cfc5ae505a1d1] “Period of incapacity” means—
 
 - (a) where the seafarer’s seafarer employment agreement does not specify a date on which the agreement is to terminate, the shorter of the following—
   - (i) the period of 16 weeks beginning with the day (“the start day”) after the date of injury or the first day of sickness referred to in paragraph (1);
@@ -62,24 +62,24 @@ summary: ''
 
 under the laws of the United Kingdom or the laws or arrangements in the country to which the seafarer is repatriated.
 
-(7) If the seafarer receives social security benefits of the kind described in paragraph (6) in respect of the period of incapacity[^key-281a26dcd558d4d17fc0a1c270920ee0] or any part of that period—
+(7) If the seafarer receives social security benefits of the kind described in paragraph (6) in respect of the period of incapacity[^c-281a26dcd558d4d17fc0a1c270920ee0] or any part of that period—
 
 - (a) the amount which the shipowner must pay to the seafarer under paragraph (4) is to be reduced by that amount; and
 - (b) the shipowner may recover as a civil debt any payments already made to the seafarer to the extent that they exceed such reduced amounts.
 
-(8) The seafarer must on request provide information to the shipowner as to the amounts received by the seafarer in social security benefits during the period of incapacity[^key-1bae0fa3b7191f27126632f1b923cf92].
+(8) The seafarer must on request provide information to the shipowner as to the amounts received by the seafarer in social security benefits during the period of incapacity[^c-1bae0fa3b7191f27126632f1b923cf92].
 
 (9) The sums payable to the seafarer under paragraphs (2) and (4) must be paid in the same manner and at the same frequency as wages are (or, as the case may be, were) payable under the seafarer employment agreement.
 
 (10) The seafarer may recover any sum due from the shipowner under paragraph (2) or (4) as a civil debt.
 
-(11) Paragraphs (1) to (10) of this regulation do[^key-fb2bb4c34b20cd9275edaf28be640047] not apply to a seafarer where—
+(11) Paragraphs (1) to (10) of this regulation do[^c-fb2bb4c34b20cd9275edaf28be640047] not apply to a seafarer where—
 
 - (a) the injury referred to in paragraph (1) was sustained while the seafarer was not at work;
 - (b) the injury or sickness referred to in paragraph (1) was sustained or arose due to the seafarer's wilful misconduct; or
 - (c) the sickness or incapacity for work existed at the time when the seafarer entered the seafarer employment agreement, and the seafarer deliberately concealed the sickness or incapacity from the shipowner.
 
-(12)[^key-6cd3b14534e5ca590fafdb70f6f80a43] A collective bargaining agreement may exclude or limit the operation of paragraphs (4) to (9) if it complies with paragraph (13).
+(12)[^c-6cd3b14534e5ca590fafdb70f6f80a43] A collective bargaining agreement may exclude or limit the operation of paragraphs (4) to (9) if it complies with paragraph (13).
 
 (13) A collective bargaining agreement complies with this paragraph if it requires the person responsible under the agreement for paying seafarers to pay incapacitated seafarers the relevant amount for the period of incapacity.
 
@@ -94,18 +94,18 @@ under the laws of the United Kingdom or the laws or arrangements in the country 
 
 ## Annotations
 
-[^key-d56dca26aa08e4f3f6caa848c27a3875]: Textual amendment: Words in reg. 50(4) omitted (6.4.2018) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/a/i)
+[^c-d56dca26aa08e4f3f6caa848c27a3875]: Textual amendment: Words in reg. 50(4) omitted (6.4.2018) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/a/i)
 
-[^key-762274d7c44eb444f3213a63afaab7c6]: Textual amendment: Words in reg. 50(4)(a) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/a/ii)
+[^c-762274d7c44eb444f3213a63afaab7c6]: Textual amendment: Words in reg. 50(4)(a) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/a/ii)
 
-[^key-5a782741eb9c55b020ee82189d7859bb]: Textual amendment: Words in reg. 50(4)(b) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/a/iii)
+[^c-5a782741eb9c55b020ee82189d7859bb]: Textual amendment: Words in reg. 50(4)(b) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/a/iii)
 
-[^key-e620a089f58eb903ac0cfc5ae505a1d1]: Textual amendment: Reg. 50(5) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/b)
+[^c-e620a089f58eb903ac0cfc5ae505a1d1]: Textual amendment: Reg. 50(5) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/b)
 
-[^key-281a26dcd558d4d17fc0a1c270920ee0]: Textual amendment: Words in reg. 50(7) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/c)
+[^c-281a26dcd558d4d17fc0a1c270920ee0]: Textual amendment: Words in reg. 50(7) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/c)
 
-[^key-1bae0fa3b7191f27126632f1b923cf92]: Textual amendment: Words in reg. 50(8) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/c)
+[^c-1bae0fa3b7191f27126632f1b923cf92]: Textual amendment: Words in reg. 50(8) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/c)
 
-[^key-fb2bb4c34b20cd9275edaf28be640047]: Textual amendment: Words in reg. 50(11) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/d)
+[^c-fb2bb4c34b20cd9275edaf28be640047]: Textual amendment: Words in reg. 50(11) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/d)
 
-[^key-6cd3b14534e5ca590fafdb70f6f80a43]: Textual amendment: Reg. 50(12)-(15) inserted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(e)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/e)
+[^c-6cd3b14534e5ca590fafdb70f6f80a43]: Textual amendment: Reg. 50(12)-(15) inserted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [5(4)(e)](https://www.legislation.gov.uk/uksi/2018/242/regulation/5/4/e)

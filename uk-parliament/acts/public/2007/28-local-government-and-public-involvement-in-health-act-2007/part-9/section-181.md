@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Delegation[^key-7dd0f5a60a278d4d86c45db43379220c]
+## 181. Delegation[^c-7dd0f5a60a278d4d86c45db43379220c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In Schedule 4 to the Local Government Act 1974 (c. 7) (the Commission) at the en
 
 ## Annotations
 
-[^key-7dd0f5a60a278d4d86c45db43379220c]: Commencement: S. 181 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/m) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-7dd0f5a60a278d4d86c45db43379220c]: Commencement: S. 181 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/m) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

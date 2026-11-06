@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3C. Power to release early[^key-117a8bc800e4f3116ac6c47d5fc6a4dd]
+## 3C. Power to release early[^c-117a8bc800e4f3116ac6c47d5fc6a4dd]
 
 *Extent: E+W+S*
 
@@ -51,8 +51,8 @@ summary: ''
 - (a) a life prisoner,
 - (b) an untried prisoner,
 - (c) a terrorist prisoner within the meaning of section 1AB,
-- (ca)[^key-da9c9450b4c8bf0b431e5acb1f06454d] serving a sentence of imprisonment imposed under section 205ZC of the 1995 Act in respect of an offence listed in Part 2 of Schedule 5ZB to that Act (offences involving or connected with a threat to national security);
-- (d) due to serve a terrorism or national security-related[^key-16c64ddad06b7919276a045d24cd650a] sentence within the meaning of section 1B but, by virtue of that section, is not yet serving it,
+- (ca)[^c-da9c9450b4c8bf0b431e5acb1f06454d] serving a sentence of imprisonment imposed under section 205ZC of the 1995 Act in respect of an offence listed in Part 2 of Schedule 5ZB to that Act (offences involving or connected with a threat to national security);
+- (d) due to serve a terrorism or national security-related[^c-16c64ddad06b7919276a045d24cd650a] sentence within the meaning of section 1B but, by virtue of that section, is not yet serving it,
 - (e) liable to removal from the United Kingdom for the purposes of section 9,
 - (f) subject to a supervised release order under section 209 of the Criminal Procedure (Scotland) Act 1995,
 - (g) serving a sentence passed under section 210A of that Act (extended sentences for sex, violent and terrorist offenders),
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-117a8bc800e4f3116ac6c47d5fc6a4dd]: Textual amendment: [Ss. 3C-3E](https://www.legislation.gov.uk/ukpga/1993/9/section/3C) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 11(2)](https://www.legislation.gov.uk/asp/2023/4/section/11/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-117a8bc800e4f3116ac6c47d5fc6a4dd]: Textual amendment: [Ss. 3C-3E](https://www.legislation.gov.uk/ukpga/1993/9/section/3C) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 11(2)](https://www.legislation.gov.uk/asp/2023/4/section/11/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
 
-[^key-da9c9450b4c8bf0b431e5acb1f06454d]: Textual amendment: [S. 3C(6)(ca)](https://www.legislation.gov.uk/ukpga/1993/9/section/3C/6/ca) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/7/a)
+[^c-da9c9450b4c8bf0b431e5acb1f06454d]: Textual amendment: [S. 3C(6)(ca)](https://www.legislation.gov.uk/ukpga/1993/9/section/3C/6/ca) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/7/a)
 
-[^key-16c64ddad06b7919276a045d24cd650a]: Textual amendment: Words in [s. 3C(6)(d)](https://www.legislation.gov.uk/ukpga/1993/9/section/3C/6/d) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/7/b)
+[^c-16c64ddad06b7919276a045d24cd650a]: Textual amendment: Words in [s. 3C(6)(d)](https://www.legislation.gov.uk/ukpga/1993/9/section/3C/6/d) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/7/b)

@@ -31,34 +31,34 @@ summary: ''
 
 Tax Credits
 
-The Tax Credits Act 2002 (Further Commencement and Transitional Provisions) Order 2011 (revoked)[^key-ffc84e4c368b13673984d5e6f4fa5b7c]
+The Tax Credits Act 2002 (Further Commencement and Transitional Provisions) Order 2011 (revoked)[^c-ffc84e4c368b13673984d5e6f4fa5b7c]
 
 Made
 
 5th December 2011
 
-[^key-ffc84e4c368b13673984d5e6f4fa5b7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc84e4c368b13673984d5e6f4fa5b7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-ffc84e4c368b13673984d5e6f4fa5b7c]
+## 1. Citation[^c-ffc84e4c368b13673984d5e6f4fa5b7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003[^key-ffc84e4c368b13673984d5e6f4fa5b7c]
+## 2. Amendment to the Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003[^c-ffc84e4c368b13673984d5e6f4fa5b7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Tax Credits Act 2002 (Transitional Provisions) Order 2010[^key-ffc84e4c368b13673984d5e6f4fa5b7c]
+## 3. Amendment to the Tax Credits Act 2002 (Transitional Provisions) Order 2010[^c-ffc84e4c368b13673984d5e6f4fa5b7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffc84e4c368b13673984d5e6f4fa5b7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc84e4c368b13673984d5e6f4fa5b7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ffc84e4c368b13673984d5e6f4fa5b7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc84e4c368b13673984d5e6f4fa5b7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffc84e4c368b13673984d5e6f4fa5b7c]: Textual amendment: Order revoked (14.7.2014) by [The Tax Credits Act 2002 (Commencement and Transitional Provisions) (Partial Revocation) Order 2014 (S.I. 2014/1848)](https://www.legislation.gov.uk/uksi/2014/1848), [art. 4](https://www.legislation.gov.uk/uksi/2014/1848/article/4)
+[^c-ffc84e4c368b13673984d5e6f4fa5b7c]: Textual amendment: Order revoked (14.7.2014) by [The Tax Credits Act 2002 (Commencement and Transitional Provisions) (Partial Revocation) Order 2014 (S.I. 2014/1848)](https://www.legislation.gov.uk/uksi/2014/1848), [art. 4](https://www.legislation.gov.uk/uksi/2014/1848/article/4)

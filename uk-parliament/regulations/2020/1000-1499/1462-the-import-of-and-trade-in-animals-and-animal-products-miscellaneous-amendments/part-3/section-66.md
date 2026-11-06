@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Commission Implementing Decision (EU) 2015/1901 laying down certification rules and a model health certificate for importation into the Union of consignments of live animals and of animal products from New Zealand[^key-cc748ab171923c9f40b1460f2b54d5c9]
+## 66. Commission Implementing Decision (EU) 2015/1901 laying down certification rules and a model health certificate for importation into the Union of consignments of live animals and of animal products from New Zealand[^c-cc748ab171923c9f40b1460f2b54d5c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc748ab171923c9f40b1460f2b54d5c9]: Commencement: Reg. 66 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-cc748ab171923c9f40b1460f2b54d5c9]: Commencement: Reg. 66 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
 
 [^c24364521]: Marginal citation: A copy of the Agreement can be viewed online at:https://www.gov.uk/government/publications/cs-new-zealand-no12019-uknew-zealand-agreement-on-sanitary-measures-applicable-to-trade-in-live-animals-and-animal-product

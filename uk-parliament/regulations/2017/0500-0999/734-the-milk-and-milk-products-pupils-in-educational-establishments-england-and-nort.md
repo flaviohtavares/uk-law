@@ -72,15 +72,15 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - “**the Delegated Regulation**” means Commission Delegated Regulation (EU) 2017/40 of 3rd November 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014 [^c23016111];
 - “**the Department**” means the Department of Agriculture, Environment and Rural Affairs;
 - “**the Implementing Regulation**” means Commission Implementing Regulation (EU) 2017/39 of 3rd November 2016 on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments [^c23016121];
-- “Aid[^key-c22d1bb3ae16c437b63feeff553b6199]” means aid granted pursuant to Article 23(1) of the Council Regulation (whether before or after exit)[^key-340f63326be83755ae509c4aef96444e].
+- “Aid[^c-c22d1bb3ae16c437b63feeff553b6199]” means aid granted pursuant to Article 23(1) of the Council Regulation (whether before or after exit)[^c-340f63326be83755ae509c4aef96444e].
 
-## 3. Additional payment under Articles 23a(6) and 217 of the Council Regulation[^key-ad81f613672e755d42e6bcba6e73bcc8]
+## 3. Additional payment under Articles 23a(6) and 217 of the Council Regulation[^c-ad81f613672e755d42e6bcba6e73bcc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Withholding or recovery
 
-(1) Where an applicant has received Aid[^key-5ad8079f015d1f5ebf5963a31f5b300e] or an additional payment under Articles 23a(6) and 217 of the Council Regulation (as it had effect immediately before exit day)[^key-bce565777c59b46ef950fa49c81fc883] to which the applicant was not entitled, or where the applicant is in breach of any commitment given by that applicant as a condition of receiving such Aid or payment, the Secretary of State or the Department (as the case may be) may—
+(1) Where an applicant has received Aid[^c-5ad8079f015d1f5ebf5963a31f5b300e] or an additional payment under Articles 23a(6) and 217 of the Council Regulation (as it had effect immediately before exit day)[^c-bce565777c59b46ef950fa49c81fc883] to which the applicant was not entitled, or where the applicant is in breach of any commitment given by that applicant as a condition of receiving such Aid or payment, the Secretary of State or the Department (as the case may be) may—
 
 - (a) withhold the whole or any part of such Aid or payment that might otherwise have been made to that applicant; or
 - (b) recover on demand the whole or any part of any such Aid or payment already made to that applicant.
@@ -144,14 +144,14 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## 7. Revocation of secondary legislation
 
-(1) [^key-315a4757884107621c87d02ac22c6845]... The following are revoked—
+(1) [^c-315a4757884107621c87d02ac22c6845]... The following are revoked—
 
 - (a) the Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008 [^c23016201];
 - (b) regulation 9 of the Single Common Market Organisational (Consequential Amendments) Regulations 2013 [^c23016211];
 - (c) the Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008 [^c23016221]; and
 - (d) regulation 8 of the Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 [^c23016231].
 
-(2)[^key-40045bb277b4d35c9a1250c7fd17e970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40045bb277b4d35c9a1250c7fd17e970] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 George Eustice
 
@@ -189,15 +189,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23016121]: Marginal citation: O.J. L5, 10.1.2017, p. 1.
 
-[^key-c22d1bb3ae16c437b63feeff553b6199]: Textual amendment: Word in reg. 2 substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/2/a) (as substituted by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812), [regs. 1](https://www.legislation.gov.uk/uksi/2019/812/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/812/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-c22d1bb3ae16c437b63feeff553b6199]: Textual amendment: Word in reg. 2 substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/2/a) (as substituted by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812), [regs. 1](https://www.legislation.gov.uk/uksi/2019/812/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/812/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-340f63326be83755ae509c4aef96444e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/734/regulation/2) inserted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-340f63326be83755ae509c4aef96444e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/734/regulation/2) inserted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad81f613672e755d42e6bcba6e73bcc8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/734/regulation/3) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad81f613672e755d42e6bcba6e73bcc8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/734/regulation/3) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ad8079f015d1f5ebf5963a31f5b300e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/4/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ad8079f015d1f5ebf5963a31f5b300e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/4/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bce565777c59b46ef950fa49c81fc883]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/4/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bce565777c59b46ef950fa49c81fc883]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/4/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23016131]: Marginal citation: O.J. L227, 31.7.2014, p.69.
 
@@ -213,7 +213,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23016191]: Marginal citation: S.R. [2015 No. 408](https://www.legislation.gov.uk/ukcm/2015/408) as amended by [S.I. 2017/599](https://www.legislation.gov.uk/uksi/2017/599).
 
-[^key-315a4757884107621c87d02ac22c6845]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-315a4757884107621c87d02ac22c6845]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23016201]: Marginal citation: [S.I. 2008/2072](https://www.legislation.gov.uk/uksi/2008/2072) as amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
 
@@ -223,4 +223,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23016231]: Marginal citation: S R. [2014 No. 92](https://www.legislation.gov.uk/ukcm/2014/92).
 
-[^key-40045bb277b4d35c9a1250c7fd17e970]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40045bb277b4d35c9a1250c7fd17e970]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/824/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

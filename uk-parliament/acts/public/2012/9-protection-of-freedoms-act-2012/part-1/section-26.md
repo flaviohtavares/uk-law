@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Requirement to notify and obtain consent before processing biometric information[^key-4285c5f70b5cdb9367514e2db297aebd][^key-2ddb47259ff02c92da2c64503f95381e]
+## 26. Requirement to notify and obtain consent before processing biometric information[^c-4285c5f70b5cdb9367514e2db297aebd][^c-2ddb47259ff02c92da2c64503f95381e]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ the relevant authority must ensure that the information is not processed, irresp
 
 ## Annotations
 
-[^key-4285c5f70b5cdb9367514e2db297aebd]: Commencement: S. 26 in force at 1.9.2013 for E. by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2104/article/2/a)
+[^c-4285c5f70b5cdb9367514e2db297aebd]: Commencement: S. 26 in force at 1.9.2013 for E. by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2104/article/2/a)
 
-[^key-2ddb47259ff02c92da2c64503f95381e]: Commencement: S. 26 in force at 1.9.2013 for specified purposes for W. by [S.I. 2013/1566](https://www.legislation.gov.uk/wsi/2013/1566), [art. 2](https://www.legislation.gov.uk/wsi/2013/1566/article/2)
+[^c-2ddb47259ff02c92da2c64503f95381e]: Commencement: S. 26 in force at 1.9.2013 for specified purposes for W. by [S.I. 2013/1566](https://www.legislation.gov.uk/wsi/2013/1566), [art. 2](https://www.legislation.gov.uk/wsi/2013/1566/article/2)

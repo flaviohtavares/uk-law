@@ -24,7 +24,7 @@ summary: ''
 
 ### Staff transfer schemes
 
-**1.**[^key-c61bde9c0a4fe11698f8a09cdf7faa31] (1) The Scottish Ministers may make a staff transfer scheme.
+**1.**[^c-c61bde9c0a4fe11698f8a09cdf7faa31] (1) The Scottish Ministers may make a staff transfer scheme.
 
 (2) A staff transfer scheme is a scheme making provision for or in connection with the transfer to Historic Environment Scotland of persons who are—
 
@@ -44,7 +44,7 @@ summary: ''
 
 ### Staff transfer schemes: general
 
-**2.**[^key-0bd2944c4a617a0b0636143679e2549d] (1) This paragraph applies in relation to a staff transfer scheme under paragraph 1.
+**2.**[^c-0bd2944c4a617a0b0636143679e2549d] (1) This paragraph applies in relation to a staff transfer scheme under paragraph 1.
 
 (2) The scheme must specify a date (the “transfer date”) on which the transfer is to take effect.
 
@@ -55,7 +55,7 @@ summary: ''
 
 ### Transfers under paragraph 1: effect on contract of employment
 
-**3.**[^key-d2ef79845f4875121784effe66e4ecec] (1) This paragraph applies where—
+**3.**[^c-d2ef79845f4875121784effe66e4ecec] (1) This paragraph applies where—
 
 - (a) a person is to be transferred by virtue of a staff transfer scheme, and
 - (b) immediately before the transfer date the person has a contract of employment with—
@@ -81,7 +81,7 @@ summary: ''
 
 ### Property transfer schemes
 
-**4.**[^key-5c2cfe370b88abbbb6e1997399392d18] (1) The Scottish Ministers may make a property transfer scheme.
+**4.**[^c-5c2cfe370b88abbbb6e1997399392d18] (1) The Scottish Ministers may make a property transfer scheme.
 
 (2) A property transfer scheme is a scheme making provision for or in connection with the transfer to Historic Environment Scotland of property, rights, liabilities and obligations of—
 
@@ -101,7 +101,7 @@ summary: ''
 
 ### Property transfer schemes: general
 
-**5.**[^key-09096c77fb8d1ede541c4e22afd4f157] (1) This paragraph applies in relation to a property transfer scheme under paragraph 4.
+**5.**[^c-09096c77fb8d1ede541c4e22afd4f157] (1) This paragraph applies in relation to a property transfer scheme under paragraph 4.
 
 (2) The scheme must specify a date (the “transfer date”) on which the transfer is to take effect.
 
@@ -120,18 +120,18 @@ summary: ''
 
 ### Transfer schemes: additional provision
 
-**6.**[^key-4f05bfec905af679d3c1d18f69ec410c] A staff transfer scheme under paragraph 1 or a property transfer scheme under paragraph 4 may include such incidental, consequential, supplementary, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
+**6.**[^c-4f05bfec905af679d3c1d18f69ec410c] A staff transfer scheme under paragraph 1 or a property transfer scheme under paragraph 4 may include such incidental, consequential, supplementary, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
 
 ## Annotations
 
-[^key-c61bde9c0a4fe11698f8a09cdf7faa31]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/1) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-c61bde9c0a4fe11698f8a09cdf7faa31]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/1) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-0bd2944c4a617a0b0636143679e2549d]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/2) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-0bd2944c4a617a0b0636143679e2549d]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/2) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-d2ef79845f4875121784effe66e4ecec]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/3) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-d2ef79845f4875121784effe66e4ecec]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/3) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-5c2cfe370b88abbbb6e1997399392d18]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/4) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-5c2cfe370b88abbbb6e1997399392d18]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/4) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-09096c77fb8d1ede541c4e22afd4f157]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/5) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-09096c77fb8d1ede541c4e22afd4f157]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/5) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4f05bfec905af679d3c1d18f69ec410c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/6) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-4f05bfec905af679d3c1d18f69ec410c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2014/19/schedule/5/paragraph/6) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)

@@ -27,14 +27,14 @@ summary: ''
 
 (2) In subsection (1)(a), “**suitable licensing rules**” means licensing rules which constitute suitable regulatory arrangements (within the meaning of Schedule 12) in respect of licensable bodies entitled by virtue of a decision under that Schedule to make an application to the Board for a licence.
 
-(3)[^key-87b5c759bf251d233b3df862040a5f76] Licensing rules made by an approved regulator have effect only at a time when the approved regulator is a licensing authority (subject to any provision made by an order under section 25).
+(3)[^c-87b5c759bf251d233b3df862040a5f76] Licensing rules made by an approved regulator have effect only at a time when the approved regulator is a licensing authority (subject to any provision made by an order under section 25).
 
-(4)[^key-87b5c759bf251d233b3df862040a5f76] Licensing rules of a licensing authority are rules as to—
+(4)[^c-87b5c759bf251d233b3df862040a5f76] Licensing rules of a licensing authority are rules as to—
 
 - (a) the licensing by the authority of licensable bodies, and
 - (b) the regulation by the licensing authority of licensable bodies licensed by it, and their managers and employees.
 
-(5)[^key-87b5c759bf251d233b3df862040a5f76] Licensing rules of a licensing authority must contain—
+(5)[^c-87b5c759bf251d233b3df862040a5f76] Licensing rules of a licensing authority must contain—
 
 - (a) appropriate qualification regulations in respect of licensable bodies to which the licensing authority proposes to issue licences under this Part,
 - (b) provision as to how the licensing authority, when considering the regulatory objectives (in compliance with its duties under section 3(2) or 28(2)) in connection with an application for a licence, should take account of the objective of improving access to justice,
@@ -45,9 +45,9 @@ summary: ''
 - (g) the provision required by sections 112 and 145 (requirements imposed in relation to the handling of complaints), and
 - (h) any other provision required to be contained in licensing rules by this Act.
 
-(6)[^key-87b5c759bf251d233b3df862040a5f76] Without prejudice to the generality of subsection (4), licensing rules of a licensing authority may contain any provision authorised by this Act.
+(6)[^c-87b5c759bf251d233b3df862040a5f76] Without prejudice to the generality of subsection (4), licensing rules of a licensing authority may contain any provision authorised by this Act.
 
-(7)[^key-87b5c759bf251d233b3df862040a5f76] Schedule 11 makes further provision as to the contents of licensing rules.
+(7)[^c-87b5c759bf251d233b3df862040a5f76] Schedule 11 makes further provision as to the contents of licensing rules.
 
 (8) Subsections (5) to (7) are subject to—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87b5c759bf251d233b3df862040a5f76]: Commencement: S. 83(3)-(7) in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-87b5c759bf251d233b3df862040a5f76]: Commencement: S. 83(3)-(7) in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)

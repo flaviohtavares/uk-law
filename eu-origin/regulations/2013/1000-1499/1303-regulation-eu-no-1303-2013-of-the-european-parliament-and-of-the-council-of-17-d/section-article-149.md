@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 149. Regulations[^key-51af66cbcaaeef8d1c54dd7ada356b4f]
+## Article 149. Regulations[^c-51af66cbcaaeef8d1c54dd7ada356b4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51af66cbcaaeef8d1c54dd7ada356b4f]: Textual amendment: Art. 149 substituted for Arts. 149, 150 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [86](https://www.legislation.gov.uk/uksi/2019/748/regulation/86); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51af66cbcaaeef8d1c54dd7ada356b4f]: Textual amendment: Art. 149 substituted for Arts. 149, 150 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [86](https://www.legislation.gov.uk/uksi/2019/748/regulation/86); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

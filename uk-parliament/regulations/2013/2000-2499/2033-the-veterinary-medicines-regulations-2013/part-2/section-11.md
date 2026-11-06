@@ -34,7 +34,7 @@ summary: ''
 - (c) pharmacists; or
 - (d) professional keepers of animals.
 
-(4) No person may advertise antimicrobials[^key-4de75d4619ad6800f4e16660f0a6d09e] to professional keepers of animals.
+(4) No person may advertise antimicrobials[^c-4de75d4619ad6800f4e16660f0a6d09e] to professional keepers of animals.
 
 (5) In the case of POM-VPS medicines, paragraph (1) does not apply to price lists, or to advertisements aimed at—
 
@@ -44,13 +44,13 @@ summary: ''
 - (d) other veterinary health care professionals; or
 - (e) professional keepers of animals.
 
-(6)[^key-86f269f55084b2fdcd45a414b6ddb801] A person advertising a veterinary medicinal product must—
+(6)[^c-86f269f55084b2fdcd45a414b6ddb801] A person advertising a veterinary medicinal product must—
 
 - (a) include in that advertisement the statement “prescription decisions are for the person issuing the prescription alone”;
 - (b) ensure that all factual statements concerning the characteristics of the product in the advertisement are consistent with the summary of product characteristics submitted in respect of the product under Schedule 1, as amended.
 
 ## Annotations
 
-[^key-4de75d4619ad6800f4e16660f0a6d09e]: Textual amendment: Word in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/11/4) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/9/a) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
+[^c-4de75d4619ad6800f4e16660f0a6d09e]: Textual amendment: Word in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/11/4) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/9/a) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
 
-[^key-86f269f55084b2fdcd45a414b6ddb801]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/11/6) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/9/b) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
+[^c-86f269f55084b2fdcd45a414b6ddb801]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/11/6) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/9/b) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))

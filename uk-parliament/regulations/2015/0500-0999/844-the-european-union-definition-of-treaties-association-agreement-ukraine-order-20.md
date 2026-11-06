@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Association Agreement) (Ukraine) Order 2015 (revoked)[^key-cd95f6aebc733075bf6b06ef7cc78e69]
+The European Union (Definition of Treaties) (Association Agreement) (Ukraine) Order 2015 (revoked)[^c-cd95f6aebc733075bf6b06ef7cc78e69]
 
 Made
 
@@ -46,20 +46,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-cd95f6aebc733075bf6b06ef7cc78e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd95f6aebc733075bf6b06ef7cc78e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-cd95f6aebc733075bf6b06ef7cc78e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cd95f6aebc733075bf6b06ef7cc78e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cd95f6aebc733075bf6b06ef7cc78e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cd95f6aebc733075bf6b06ef7cc78e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cd95f6aebc733075bf6b06ef7cc78e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cd95f6aebc733075bf6b06ef7cc78e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd95f6aebc733075bf6b06ef7cc78e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd95f6aebc733075bf6b06ef7cc78e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd95f6aebc733075bf6b06ef7cc78e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd95f6aebc733075bf6b06ef7cc78e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd95f6aebc733075bf6b06ef7cc78e69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/844) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd95f6aebc733075bf6b06ef7cc78e69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/844) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

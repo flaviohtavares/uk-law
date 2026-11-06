@@ -40,246 +40,246 @@ on waste statistics
 
 (Text with EEA relevance) (revoked)
 
-[^key-1ead2107b2ebb9a9a87818840893eea7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ead2107b2ebb9a9a87818840893eea7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective[^key-1ead2107b2ebb9a9a87818840893eea7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 1. Objective[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Collection of data[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 2. Definitions[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional period[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 3. Collection of data[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Import and export of waste[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 4. Transitional period[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Implementing measures[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 5. Import and export of waste[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee procedure[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 6. Implementing measures[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Report[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 7. Committee procedure[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-1ead2107b2ebb9a9a87818840893eea7]
+## Article 8. Report[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-1ead2107b2ebb9a9a87818840893eea7]
 
-## ANNEX I — GENERATION OF WASTE[^key-1ead2107b2ebb9a9a87818840893eea7]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 1
+[^c-1ead2107b2ebb9a9a87818840893eea7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — GENERATION OF WASTE[^c-1ead2107b2ebb9a9a87818840893eea7]
+
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 1
 
 **Coverage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 The statistics shall be compiled for all activities classified within the coverage of Sections A to U of NACE Rev. 2. These Sections cover all economic activities.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 2
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 2
 
 **Waste categories**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 3
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 3
 
 **Characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 4
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 4
 
 **Reporting unit**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 5
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 5
 
 **First reference year and periodicity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 3.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 6
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 6
 
 **Transmission of results to Eurostat**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 7
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 7
 
 **Report on the coverage and quality of statistics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 3.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 8
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 8
 
 **Production of results**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 The results for the characteristics listed in Section 3(1) are to be compiled for:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 For economic activities, statistical units are local units or kind-of-activity units, as defined in Council Regulation (EEC) No 696/93 , according to each Member State's statistical system.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — RECOVERY AND DISPOSAL OF WASTE[^key-1ead2107b2ebb9a9a87818840893eea7]
+## ANNEX II — RECOVERY AND DISPOSAL OF WASTE[^c-1ead2107b2ebb9a9a87818840893eea7]
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 1
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 1
 
 **Coverage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 2
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 2
 
 **Waste categories**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 3
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 3
 
 **Characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 4
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 4
 
 **Reporting unit**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 5
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 5
 
 **First reference year and periodicity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 3.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 6
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 6
 
 **Transmission of results to Eurostat**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 7
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 7
 
 **Report on the coverage and quality of statistics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 3.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] SECTION 8
+[^c-1ead2107b2ebb9a9a87818840893eea7] SECTION 8
 
 **Waste recovery and disposal operations**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 1.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ead2107b2ebb9a9a87818840893eea7] 2.
+[^c-1ead2107b2ebb9a9a87818840893eea7] 2.
 
 List of Recovery and Disposal Operations; the codes refer to the codes in Annexes I and II to Directive 2008/98/EC :
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — TABLE OF EQUIVALENCE — as referred to in Article 1(5) of Regulation (EC) No 2150/2002, between EWC-Stat Rev 4 (substance oriented waste statistical nomenclature) and the European list of waste (LoW) established by Commission Decision 2000/532/EC[^key-1ead2107b2ebb9a9a87818840893eea7]
+## ANNEX III — TABLE OF EQUIVALENCE — as referred to in Article 1(5) of Regulation (EC) No 2150/2002, between EWC-Stat Rev 4 (substance oriented waste statistical nomenclature) and the European list of waste (LoW) established by Commission Decision 2000/532/EC[^c-1ead2107b2ebb9a9a87818840893eea7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ead2107b2ebb9a9a87818840893eea7]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ead2107b2ebb9a9a87818840893eea7]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

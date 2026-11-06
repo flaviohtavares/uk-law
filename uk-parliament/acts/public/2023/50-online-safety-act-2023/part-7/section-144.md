@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Service restriction orders[^key-5d59d58d35490c34c3e768312314cf39][^key-2053dd9960b5e3c90c4eec8d48f3e317]
+## 144. Service restriction orders[^c-5d59d58d35490c34c3e768312314cf39][^c-2053dd9960b5e3c90c4eec8d48f3e317]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,6 +98,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d59d58d35490c34c3e768312314cf39]: Commencement: S. 144 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5d59d58d35490c34c3e768312314cf39]: Commencement: S. 144 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2053dd9960b5e3c90c4eec8d48f3e317]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2023/50/section/144) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-2053dd9960b5e3c90c4eec8d48f3e317]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2023/50/section/144) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

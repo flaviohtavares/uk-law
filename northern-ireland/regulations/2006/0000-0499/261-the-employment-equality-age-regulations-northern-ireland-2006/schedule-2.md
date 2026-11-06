@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Questionnaire of person aggrieved[^key-2e6cb7d39f41444bb3e28179c6dd58a6]
+## SCHEDULE 2 — Questionnaire of person aggrieved[^c-2e6cb7d39f41444bb3e28179c6dd58a6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulation 46(1)
 
 ## Annotations
 
-[^key-2e6cb7d39f41444bb3e28179c6dd58a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-2e6cb7d39f41444bb3e28179c6dd58a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

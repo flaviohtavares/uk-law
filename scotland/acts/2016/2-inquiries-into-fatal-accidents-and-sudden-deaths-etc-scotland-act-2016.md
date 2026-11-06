@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Inquiries into certain deaths
 
-### 1. Inquiries under this Act[^key-6836f317ef0a8d2bd9bf0b6ee183ce9b]
+### 1. Inquiries under this Act[^c-6836f317ef0a8d2bd9bf0b6ee183ce9b]
 
 (1) Where an inquiry is to be held into the death of a person in accordance with sections 2 to 7, the procurator fiscal must—
 
@@ -59,7 +59,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Inquiries into deaths occurring in Scotland
 
-### 2. Mandatory inquiries[^key-23bc6d82348e3154014b852734c5df68]
+### 2. Mandatory inquiries[^c-23bc6d82348e3154014b852734c5df68]
 
 (1) An inquiry is to be held into the death of a person which—
 
@@ -81,7 +81,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 (5) For the purposes of subsection (4)(a), a person is in legal custody if the person is—
 
 - (a) required to be imprisoned or detained in a penal institution,
-- (b) in police custody, within the meaning of section 64 of the Criminal Justice (Scotland) Act 2016 , or otherwise in custody at a police station[^key-0106a21d3ec4757aa3e16942abf4438c],
+- (b) in police custody, within the meaning of section 64 of the Criminal Justice (Scotland) Act 2016 , or otherwise in custody at a police station[^c-0106a21d3ec4757aa3e16942abf4438c],
 - (c) otherwise held in custody on court premises,
 - (d) required to be detained in service custody premises.
 
@@ -91,14 +91,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - “**penal institution**” means any—
   - (a) prison (including a legalised police cell within the meaning of section 14(1) of the Prisons (Scotland) Act 1989), other than a naval, military or air force prison,
-  - (b) [^key-b678f4178b5ef529346d815bc9b94a7e]...
+  - (b) [^c-b678f4178b5ef529346d815bc9b94a7e]...
   - (c) young offenders institution, within the meaning of section 19(1)(b) of that Act,
 - “**secure accommodation**” means accommodation provided in a residential establishment, approved in accordance with regulations made under section 78(2) of the Public Services Reform (Scotland) Act 2010, for the purpose of restricting the liberty of children,
 - “**service custody premises**” has the meaning given by section 300(7) of the Armed Forces Act 2006.
 
-### 3. Mandatory inquiries: exceptions[^key-b669e26e56118097f85958ba3e75489d]
+### 3. Mandatory inquiries: exceptions[^c-b669e26e56118097f85958ba3e75489d]
 
-(1)[^key-10c124370a2575b8a183f1359a82b3e2] The Lord Advocate may decide that an inquiry is not to be held into the death of a person within section 2(3) or (4) if satisfied that the circumstances of the death have been sufficiently established during the course of proceedings of a kind mentioned in subsection (2).
+(1)[^c-10c124370a2575b8a183f1359a82b3e2] The Lord Advocate may decide that an inquiry is not to be held into the death of a person within section 2(3) or (4) if satisfied that the circumstances of the death have been sufficiently established during the course of proceedings of a kind mentioned in subsection (2).
 
 (2) The proceedings referred to in subsection (1) are—
 
@@ -108,9 +108,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (d) an inquiry under section 1 of the Inquiries Act 2005 (power to establish inquiry),
 - (e) an inquiry under section 85(1) of the Energy Act 2013 (inquiries).
 
-(3)[^key-80bf2d450a1308a38c7f46a099e4ed6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-80bf2d450a1308a38c7f46a099e4ed6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Discretionary inquiries[^key-b6b88ebb56c45281e5702dbbee9323a9]
+### 4. Discretionary inquiries[^c-b6b88ebb56c45281e5702dbbee9323a9]
 
 (1) An inquiry is to be held into the death of a person which occurred in Scotland if the Lord Advocate—
 
@@ -121,7 +121,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Subsection (1) does not apply to a death within section 2(3) or (4).
 
-### 5. Certain deaths and accidents to be treated as occurring in Scotland[^key-372dffb11a566af706187aae7113248a]
+### 5. Certain deaths and accidents to be treated as occurring in Scotland[^c-372dffb11a566af706187aae7113248a]
 
 (1) For the purposes of sections 2 and 4, the death of a person, or an accident, is to be treated as having occurred in Scotland if it occurred—
 
@@ -132,7 +132,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Inquiries into deaths occurring abroad
 
-### 6. Inquiries into deaths occurring abroad: general[^key-718ca07bcd16ee397f082ac773d1dca2]
+### 6. Inquiries into deaths occurring abroad: general[^c-718ca07bcd16ee397f082ac773d1dca2]
 
 (1) Subsection (3) applies to the death of a person if—
 
@@ -150,7 +150,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (c) considers that there is a real prospect that those circumstances would be sufficiently established in an inquiry, and
 - (d) decides that it is in the public interest for an inquiry to be held into the circumstances of the death.
 
-### 7. Inquiries into deaths occurring abroad: service personnel[^key-ea50516e1593f9f9d2da7ca4694f7c32]
+### 7. Inquiries into deaths occurring abroad: service personnel[^c-ea50516e1593f9f9d2da7ca4694f7c32]
 
 (1) An inquiry is to be held into the death of a person if—
 
@@ -169,7 +169,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) But this section does not apply to a death within subsection (2) if the Lord Advocate is satisfied that the circumstances of the death have been sufficiently established in the course of any criminal proceedings against any person in respect of the death.
 
-## Deaths related to the Northern Ireland Troubles[^key-44e53ca2db3e78f54ed861be96ccc27b]
+## Deaths related to the Northern Ireland Troubles[^c-44e53ca2db3e78f54ed861be96ccc27b]
 
 ### 7A. Inquiries and investigations into Troubles-related deaths
 
@@ -177,7 +177,7 @@ Schedule A1 makes provision about inquiries and investigations into Troubles-rel
 
 ## Family liaison charter
 
-### 8. Family liaison charter[^key-89bbf27fa143c8fefc6b33bc63c860d4]
+### 8. Family liaison charter[^c-89bbf27fa143c8fefc6b33bc63c860d4]
 
 (1) The Lord Advocate must prepare a family liaison charter.
 
@@ -198,7 +198,7 @@ Schedule A1 makes provision about inquiries and investigations into Troubles-rel
 
 ## Reasons where inquiry not held
 
-### 9. Reasons for decision not to hold an inquiry[^key-79b99345801c8a783241a916bfe2da17]
+### 9. Reasons for decision not to hold an inquiry[^c-79b99345801c8a783241a916bfe2da17]
 
 Where it is decided that an inquiry is not to be held into the death of a person (“A”), the Lord Advocate must give reasons in writing if requested to do so by—
 
@@ -210,7 +210,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ## Procurator fiscal's investigation
 
-### 10. Citation of witnesses for precognition[^key-172669fe6f650a1b18df74796af3824c]
+### 10. Citation of witnesses for precognition[^c-172669fe6f650a1b18df74796af3824c]
 
 (1) The procurator fiscal may cite a person to attend for precognition in connection with an investigation under section 1(1)(a).
 
@@ -231,7 +231,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ## Participants
 
-### 11. Persons who may participate in the inquiry[^key-9b73a6b951be860f79c3c284859ab8ef]
+### 11. Persons who may participate in the inquiry[^c-9b73a6b951be860f79c3c284859ab8ef]
 
 (1) The following persons may participate in inquiry proceedings in relation to the death of a person (“A”)—
 
@@ -253,7 +253,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ## Location
 
-### 12. Places at which inquiries may be held[^key-fe6ca3047d1f460af5b3fd5d5a8f9f6f]
+### 12. Places at which inquiries may be held[^c-fe6ca3047d1f460af5b3fd5d5a8f9f6f]
 
 (1) The Scottish Ministers may by regulations designate places at which a sheriff court may be held for the purposes of this Act (in addition to the places designated by virtue of the Courts Reform (Scotland) Act 2014 for the holding of sheriff courts).
 
@@ -275,7 +275,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 - (a) may make transitional, transitory or saving provision,
 - (b) are subject to the affirmative procedure.
 
-### 13. Jurisdiction in relation to inquiries[^key-aeca229fe552b661d69fa91eb4049d45]
+### 13. Jurisdiction in relation to inquiries[^c-aeca229fe552b661d69fa91eb4049d45]
 
 (1) Inquiry proceedings may be held in a sheriffdom whether or not there is a connection between the death, or any accident resulting in the death, to which the inquiry relates and the sheriffdom, and a sheriff of the sheriffdom accordingly has jurisdiction in relation to the proceedings.
 
@@ -297,7 +297,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ## Inquiries into multiple deaths
 
-### 14. Inquiry into more than one death[^key-e0214a606282b10a8c4f8a3f3844d18d]
+### 14. Inquiry into more than one death[^c-e0214a606282b10a8c4f8a3f3844d18d]
 
 (1) A single inquiry may be held into the deaths of more than one person if it appears to the Lord Advocate that the deaths occurred—
 
@@ -308,7 +308,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ## Pre-inquiry procedure
 
-### 15. Initiating the inquiry[^key-c4a37e3413cd01a31525ef4889b35136]
+### 15. Initiating the inquiry[^c-c4a37e3413cd01a31525ef4889b35136]
 
 (1) Where an inquiry is to be held into the death of a person, the procurator fiscal must give the sheriff notice that the inquiry is to be held.
 
@@ -335,21 +335,21 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ### 16. Preliminary hearings
 
-(1)[^key-8e30d123771fa9cb89fefb2d0e44631d] At least one preliminary hearing is to be held before the start of an inquiry unless the sheriff dispenses with that requirement in accordance with provision made in an act of sederunt under section 36(1).
+(1)[^c-8e30d123771fa9cb89fefb2d0e44631d] At least one preliminary hearing is to be held before the start of an inquiry unless the sheriff dispenses with that requirement in accordance with provision made in an act of sederunt under section 36(1).
 
-(2)[^key-8e30d123771fa9cb89fefb2d0e44631d] Subsection (3) applies where the sheriff dispenses with the requirement to hold a preliminary hearing.
+(2)[^c-8e30d123771fa9cb89fefb2d0e44631d] Subsection (3) applies where the sheriff dispenses with the requirement to hold a preliminary hearing.
 
-(3)[^key-8e30d123771fa9cb89fefb2d0e44631d] The sheriff may subsequently make an order—
+(3)[^c-8e30d123771fa9cb89fefb2d0e44631d] The sheriff may subsequently make an order—
 
 - (a) for the holding of such a hearing, and
 - (b) fixing the date and place for it to be held.
 
-(4)[^key-3ac33ab297e1840d508b6817f6ff08d4] Provision is to be made in an act of sederunt under section 36(1) about—
+(4)[^c-3ac33ab297e1840d508b6817f6ff08d4] Provision is to be made in an act of sederunt under section 36(1) about—
 
 - (a) matters to be dealt with at a preliminary hearing under this Act,
 - (b) things that the procurator fiscal and the participants in the inquiry must do before such a hearing.
 
-### 17. Notice of the inquiry[^key-647595079de0013a90f2b8df4aa2d085]
+### 17. Notice of the inquiry[^c-647595079de0013a90f2b8df4aa2d085]
 
 (1) After the sheriff makes an order under section 15(3) in relation to an inquiry, the procurator fiscal must give notice to the persons mentioned in subsection (2) of the following matters—
 
@@ -381,7 +381,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
   - (ii) the date and place fixed for the holding of the hearing, and
 - (b) give public notice of those matters.
 
-### 18. Agreement of facts before an inquiry[^key-0842687a7e1b15a77670075ad96dfffb]
+### 18. Agreement of facts before an inquiry[^c-0842687a7e1b15a77670075ad96dfffb]
 
 (1) Provision is to be made in an act of sederunt under section 36(1) about the agreement, by the procurator fiscal and the participants in an inquiry, of any facts of a kind mentioned in subsection (2) before the start of the inquiry.
 
@@ -392,7 +392,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 ## The inquiry
 
-### 19. The powers of the sheriff[^key-fda7daff4b4bf3bd3fc7cc2859dcb29a]
+### 19. The powers of the sheriff[^c-fda7daff4b4bf3bd3fc7cc2859dcb29a]
 
 (1) The sheriff has all such powers in relation to inquiry proceedings as a sheriff, under the law of Scotland, inherently possesses for the purposes of the discharge of the sheriff's jurisdiction and competence and giving full effect to the sheriff's decisions in civil proceedings.
 
@@ -401,7 +401,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 - (a) the other provisions of this Act,
 - (b) provision made in an act of sederunt under section 36(1).
 
-### 20. Evidence and witnesses[^key-ba002fc00cd56e15259d9e80440e3754]
+### 20. Evidence and witnesses[^c-ba002fc00cd56e15259d9e80440e3754]
 
 (1) At an inquiry—
 
@@ -420,7 +420,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 
 (7) In subsection (3), “**simple procedure case**” has the same meaning as in section 72(9) of the Courts Reform (Scotland) Act 2014.
 
-### 21. Inquiry to be conducted in public[^key-24d2b3953bebe6632c6f08619d467553]
+### 21. Inquiry to be conducted in public[^c-24d2b3953bebe6632c6f08619d467553]
 
 (1) Inquiry proceedings are to be conducted in public.
 
@@ -431,7 +431,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 - (a) on the sheriff's own initiative, or
 - (b) on the application of the procurator fiscal or a participant in the inquiry.
 
-### 22. Publishing restrictions in relation to children[^key-50d647b33d48f88914764f49d1bdd333]
+### 22. Publishing restrictions in relation to children[^c-50d647b33d48f88914764f49d1bdd333]
 
 (1) Subsection (2) applies where a child is involved in an inquiry.
 
@@ -461,7 +461,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
   - (a) to publish in a programme service, as defined by section 201 of the Broadcasting Act 1990,
   - (b) to cause to be published.
 
-### 23. Offences by bodies corporate etc.[^key-95173ab91b94d5297a854bc5376ae17b]
+### 23. Offences by bodies corporate etc.[^c-95173ab91b94d5297a854bc5376ae17b]
 
 (1) Subsection (2) applies where—
 
@@ -484,7 +484,7 @@ Where it is decided that an inquiry is not to be held into the death of a person
 - (c) in relation to a Scottish partnership, a partner,
 - (d) in relation to an unincorporated association other than a Scottish partnership, an individual who is concerned in the management or control of the association.
 
-### 24. Assessors[^key-84c98f3b0a89832e2b69b99e3b0d31b0]
+### 24. Assessors[^c-84c98f3b0a89832e2b69b99e3b0d31b0]
 
 (1) The sheriff may appoint a person (an “assessor”) to assist the sheriff in an inquiry.
 
@@ -495,13 +495,13 @@ Where it is decided that an inquiry is not to be held into the death of a person
 - (a) on the sheriff's own initiative, or
 - (b) on the application of the procurator fiscal or a participant in the inquiry.
 
-### 25. Expenses[^key-c19e9438fa9b50bfc0e87cf141463d14]
+### 25. Expenses[^c-c19e9438fa9b50bfc0e87cf141463d14]
 
 The sheriff may not make any award of expenses in relation to inquiry proceedings.
 
 ## Findings and recommendations
 
-### 26. The sheriff's determination[^key-29ad240937680cd80a306ecad238c5a8]
+### 26. The sheriff's determination[^c-29ad240937680cd80a306ecad238c5a8]
 
 (1) As soon as possible after the conclusion of the evidence and submissions in an inquiry, the sheriff must make a determination setting out—
 
@@ -543,7 +543,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 ### 27. Dissemination of the sheriff's determination
 
-(1)[^key-195ef3f9be8c7804786f6a51aa9061d2] The Scottish Courts and Tribunals Service (“the SCTS”) must—
+(1)[^c-195ef3f9be8c7804786f6a51aa9061d2] The Scottish Courts and Tribunals Service (“the SCTS”) must—
 
 - (a) publish, in such manner as it considers appropriate, each determination made under section 26(1),
 - (b) give a copy of each such determination to—
@@ -552,31 +552,31 @@ which might realistically prevent other deaths in similar circumstances.
   - (iii) each person to whom a recommendation made in the determination is addressed, and
   - (iv) any other person who the sheriff considers has an interest in a recommendation made in the determination.
 
-(2)[^key-195ef3f9be8c7804786f6a51aa9061d2] The SCTS must, on request, give an office-holder in the Scottish administration, a Minister of the Crown, a department of the Government of the United Kingdom or the Health and Safety Executive a copy of—
+(2)[^c-195ef3f9be8c7804786f6a51aa9061d2] The SCTS must, on request, give an office-holder in the Scottish administration, a Minister of the Crown, a department of the Government of the United Kingdom or the Health and Safety Executive a copy of—
 
 - (a) a determination made under section 26(1),
 - (b) the notice given under section 15(1) in relation to the inquiry to which the determination relates,
 - (c) any transcript of the evidence at the inquiry,
 - (d) any report or documentary production used in the inquiry.
 
-(3)[^key-195ef3f9be8c7804786f6a51aa9061d2] The SCTS must, on payment of the specified fee, give any other person a copy of any transcript of the evidence at an inquiry, if the person—
+(3)[^c-195ef3f9be8c7804786f6a51aa9061d2] The SCTS must, on payment of the specified fee, give any other person a copy of any transcript of the evidence at an inquiry, if the person—
 
 - (a) makes a request for it within the specified period, and
 - (b) has an interest in the inquiry.
 
-(4)[^key-fc081191ad9688cab1afe7d8f704c89e] In subsection (3), “**specified**” means specified in an act of sederunt under section 36(1).
+(4)[^c-fc081191ad9688cab1afe7d8f704c89e] In subsection (3), “**specified**” means specified in an act of sederunt under section 36(1).
 
-(5)[^key-195ef3f9be8c7804786f6a51aa9061d2] The sheriff may decide that part of a determination—
+(5)[^c-195ef3f9be8c7804786f6a51aa9061d2] The sheriff may decide that part of a determination—
 
 - (a) is not to be given to a person under subsection (1)(b)(iii) or (iv),
 - (b) is to be withheld from publication under this section.
 
-(6)[^key-195ef3f9be8c7804786f6a51aa9061d2] After the sheriff has made a determination under section 26(1), the procurator fiscal must give the following information to the Registrar General of Births, Deaths and Marriages for Scotland—
+(6)[^c-195ef3f9be8c7804786f6a51aa9061d2] After the sheriff has made a determination under section 26(1), the procurator fiscal must give the following information to the Registrar General of Births, Deaths and Marriages for Scotland—
 
 - (a) the name and last known address of the person to whose death the determination relates, and
 - (b) the date, place and cause of the death.
 
-### 28. Compliance with sheriff's recommendations[^key-1581bac72b503a4cb1b1df882510d199]
+### 28. Compliance with sheriff's recommendations[^c-1581bac72b503a4cb1b1df882510d199]
 
 (1) A person to whom a recommendation under section 26(1)(b) is addressed—
 
@@ -606,7 +606,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 (9) A response under subsection (1) is not admissible in evidence, and may not be founded on, in any judicial proceedings of any nature.
 
-### 29. Reports[^key-bcbd26e5a231e1d0d0d371d18e419ad6]
+### 29. Reports[^c-bcbd26e5a231e1d0d0d371d18e419ad6]
 
 (1) The Scottish Ministers must, as soon as practicable after the end of each financial year, prepare a report setting out—
 
@@ -626,7 +626,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 ## Further inquiry proceedings
 
-### 30. Circumstances in which there may be further proceedings[^key-04413e0dd31de035ed0231d8ddb15b96]
+### 30. Circumstances in which there may be further proceedings[^c-04413e0dd31de035ed0231d8ddb15b96]
 
 (1) Where an inquiry into the death of a person has ended, further inquiry proceedings may be held in relation to the death only in accordance with subsection (2).
 
@@ -646,7 +646,7 @@ which might realistically prevent other deaths in similar circumstances.
 - (a) the re-opening and continuation of an inquiry into the death, or
 - (b) the holding of a fresh inquiry into the death.
 
-### 31. Precognition of witnesses[^key-ee45633f27dcf9125c906883e05ad55f]
+### 31. Precognition of witnesses[^c-ee45633f27dcf9125c906883e05ad55f]
 
 (1) Subsection (2) applies where the Lord Advocate is considering whether further inquiry proceedings should be held in relation to the death of a person.
 
@@ -669,7 +669,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 (8) In this section and section 32, references to the sheriff are references to a sheriff of the sheriffdom in which the inquiry into the person's death was held.
 
-### 32. Initiating further proceedings[^key-866eb3905261eba4ed28ae86240cf66f]
+### 32. Initiating further proceedings[^c-866eb3905261eba4ed28ae86240cf66f]
 
 (1) Where further inquiry proceedings are to be held in relation to the death of a person in accordance with section 30(2), the procurator fiscal must give the sheriff—
 
@@ -704,7 +704,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 (8) Where the sheriff makes an order under subsection (6)(a), the Scottish Courts and Tribunals Service must publish, in such manner as it considers appropriate, a notice stating that the original determination has been set aside.
 
-### 33. Re-opened inquiries[^key-275a5c4b02b54b18198c248a03caff11]
+### 33. Re-opened inquiries[^c-275a5c4b02b54b18198c248a03caff11]
 
 (1) Sections 15 to 18 apply in relation to a re-opened inquiry into the death of a person as they apply in relation to any other inquiry, subject to subsections (2) to (4).
 
@@ -733,7 +733,7 @@ which might realistically prevent other deaths in similar circumstances.
 - “**original inquiry proceedings**” means the part of an inquiry held before it is re-opened under section 32(6),
 - “**re-opened inquiry**” means the part of an inquiry held after it is so re-opened.
 
-### 34. Fresh inquiries[^key-81affb726e6b0e20e79afb548517bc6e]
+### 34. Fresh inquiries[^c-81affb726e6b0e20e79afb548517bc6e]
 
 (1) This section applies where the sheriff makes an order under section 32(6) setting aside the determination in an inquiry (“the original inquiry”) and requiring a fresh inquiry to be held.
 
@@ -748,7 +748,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 (5) Subsection (4) is subject to section 13(3).
 
-### 35. Further inquiry proceedings: compliance with recommendations[^key-f585c696c1b9f3b832ac51dce11c92c8]
+### 35. Further inquiry proceedings: compliance with recommendations[^c-f585c696c1b9f3b832ac51dce11c92c8]
 
 (1) This section applies where—
 
@@ -771,16 +771,16 @@ which might realistically prevent other deaths in similar circumstances.
 
 ### 36. Power to regulate procedure etc.
 
-(1)[^key-03b27da2faa19f3344fe9f7846d5341a] The Court of Session may by act of sederunt make provision for or about—
+(1)[^c-03b27da2faa19f3344fe9f7846d5341a] The Court of Session may by act of sederunt make provision for or about—
 
 - (a) the practice and procedure to be followed in inquiry proceedings,
 - (b) any matter incidental or ancillary to an inquiry.
 
-(2)[^key-03b27da2faa19f3344fe9f7846d5341a] Without limiting the generality of subsection (1), the power in that subsection includes power to make provision for or about—
+(2)[^c-03b27da2faa19f3344fe9f7846d5341a] Without limiting the generality of subsection (1), the power in that subsection includes power to make provision for or about—
 
 - (a) the giving of notice under section 17,
 - (b) the conduct and management of inquiry proceedings, including the use of technology,
-- (ba)[^key-410365ecace962093c3e94475bc76c15] ensuring inquiry proceedings are conducted in a way that accords with trauma-informed practice,
+- (ba)[^c-410365ecace962093c3e94475bc76c15] ensuring inquiry proceedings are conducted in a way that accords with trauma-informed practice,
 - (c) the form of any document to be used in, or in connection with, inquiry proceedings,
 - (d) the process by which a person becomes a participant in an inquiry,
 - (e) the representation of the procurator fiscal and participants in inquiry proceedings, including representation of participants by persons who—
@@ -794,26 +794,26 @@ which might realistically prevent other deaths in similar circumstances.
 - (k) the giving and publication of responses under section 28,
 - (l) such other matters as the Court thinks necessary or appropriate for the purposes of carrying out or giving effect to the provisions of any enactment (including this Act) relating to inquiry proceedings or matters incidental or ancillary to such proceedings.
 
-(3)[^key-03b27da2faa19f3344fe9f7846d5341a] An act of sederunt under subsection (1) may make—
+(3)[^c-03b27da2faa19f3344fe9f7846d5341a] An act of sederunt under subsection (1) may make—
 
 - (a) incidental, supplemental, consequential, transitional, transitory or saving provision,
 - (b) provision amending, repealing, or revoking any enactment (including any provision of this Act) relating to matters with respect to which an act of sederunt may be made,
 - (c) different provision for different purposes.
 
-(4)[^key-03b27da2faa19f3344fe9f7846d5341a] Before making an act of sederunt under subsection (1) with respect to any matter, the Court of Session must—
+(4)[^c-03b27da2faa19f3344fe9f7846d5341a] Before making an act of sederunt under subsection (1) with respect to any matter, the Court of Session must—
 
 - (a) consult the Scottish Civil Justice Council, and
 - (b) take into consideration any views expressed by the Council with respect to that matter.
 
-(5)[^key-03b27da2faa19f3344fe9f7846d5341a] Subsection (4) does not apply in relation to an act of sederunt that embodies, with or without modifications, draft rules submitted by the Scottish Civil Justice Council to the Court of Session.
+(5)[^c-03b27da2faa19f3344fe9f7846d5341a] Subsection (4) does not apply in relation to an act of sederunt that embodies, with or without modifications, draft rules submitted by the Scottish Civil Justice Council to the Court of Session.
 
-(5A)[^key-b18c6a0af0d84136f791f0c03a2aa8b4] For the purposes of this section, “**trauma-informed practice**” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+(5A)[^c-b18c6a0af0d84136f791f0c03a2aa8b4] For the purposes of this section, “**trauma-informed practice**” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
 
 (6)[^c22562141] Schedule 1 makes further provision in relation to the regulation of the practice and procedure to be followed in inquiry proceedings.
 
 ## Specialist sheriffs and summary sheriffs
 
-### 37. Judicial specialisation in inquiries[^key-0c14af00a9b3b728af774a3bc40e8d16]
+### 37. Judicial specialisation in inquiries[^c-0c14af00a9b3b728af774a3bc40e8d16]
 
 (1) The sheriff principal of a sheriffdom may designate one or more sheriffs or summary sheriffs of that sheriffdom as specialists in inquiries for the purposes of this Act.
 
@@ -831,7 +831,7 @@ which might realistically prevent other deaths in similar circumstances.
 
 (8) In subsection (5), the reference to a member of the judiciary of the sheriffdom is to be construed in accordance with section 136(2) of the Courts Reform (Scotland) Act 2014.
 
-### 38. Summary sheriff: competence to conduct inquiries[^key-93ad60db6ae3aa52cb838bd3eb3dc2a9]
+### 38. Summary sheriff: competence to conduct inquiries[^c-93ad60db6ae3aa52cb838bd3eb3dc2a9]
 
 A summary sheriff may, in relation to inquiry proceedings, exercise the jurisdiction and powers that attach to the office of sheriff.
 
@@ -839,9 +839,9 @@ A summary sheriff may, in relation to inquiry proceedings, exercise the jurisdic
 
 ### 39. Repeal and modification of enactments
 
-(1)[^key-28bbec5a4fe12aaaa34320ea56547290] The Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 is repealed.
+(1)[^c-28bbec5a4fe12aaaa34320ea56547290] The Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 is repealed.
 
-(2)[^key-22ca498571aa0d7740fc2e0efaab1814][^key-1ddb852530427ee4bd58be1af51b8cfd] Schedule 2 modifies other enactments.
+(2)[^c-22ca498571aa0d7740fc2e0efaab1814][^c-1ddb852530427ee4bd58be1af51b8cfd] Schedule 2 modifies other enactments.
 
 ### 40. Interpretation
 
@@ -884,7 +884,7 @@ In this Act, unless the context requires otherwise—
 
 The short title of this Act is the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.
 
-## SCHEDULE A1 — Inquiries and investigations into Troubles-related deaths[^key-2f57d2e87ded12253b1712eca9b038ff]
+## SCHEDULE A1 — Inquiries and investigations into Troubles-related deaths[^c-2f57d2e87ded12253b1712eca9b038ff]
 
 ### 1. Obligatory discontinuance of existing inquiries and investigations
 
@@ -969,11 +969,11 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ### Gas Act 1965
 
-**1.**[^key-44a2cb016424d1a74e642c408993bdc0] In the Gas Act 1965, section 17(4) (accidents) is repealed.
+**1.**[^c-44a2cb016424d1a74e642c408993bdc0] In the Gas Act 1965, section 17(4) (accidents) is repealed.
 
 ### Health and Safety at Work etc. Act 1974
 
-**2.**[^key-dd65d95bde5fc6a54f0797a3614a64a9] (1) The Health and Safety at Work etc. Act 1974 is amended in accordance with this paragraph.
+**2.**[^c-dd65d95bde5fc6a54f0797a3614a64a9] (1) The Health and Safety at Work etc. Act 1974 is amended in accordance with this paragraph.
 
 (2) Section 14(7) (power of the Health and Safety Executive to direct investigations and inquiries) is repealed.
 
@@ -985,15 +985,15 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ### Oil and Gas (Enterprise) Act 1982
 
-**3.**[^key-e780ca1ac54eedaec5c2df86a0f88528] In schedule 3 of the Oil and Gas (Enterprise) Act 1982, paragraph 34 is repealed.
+**3.**[^c-e780ca1ac54eedaec5c2df86a0f88528] In schedule 3 of the Oil and Gas (Enterprise) Act 1982, paragraph 34 is repealed.
 
 ### Anatomy Act 1984
 
-**4.**[^key-8ab1d407c7b51f4a8a9c4c81b458f4d5] In section 4(6) of the Anatomy Act 1984 (lawful examinations), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
+**4.**[^c-8ab1d407c7b51f4a8a9c4c81b458f4d5] In section 4(6) of the Anatomy Act 1984 (lawful examinations), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
 ### Merchant Shipping Act 1995
 
-**5.**[^key-159cef41b3852809562cc1d8ae4e955a] (1) The Merchant Shipping Act 1995 is amended in accordance with this paragraph.
+**5.**[^c-159cef41b3852809562cc1d8ae4e955a] (1) The Merchant Shipping Act 1995 is amended in accordance with this paragraph.
 
 (2) In section 108(6)(a)(iii) (returns of births and deaths in ships, etc.), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
@@ -1001,23 +1001,23 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ### Criminal Procedure (Consequential Provisions) (Scotland) Act 1995
 
-**6.**[^key-1a21d77315cb1357ee91d9039e245c67] In schedule 4 of the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995, paragraph 10 is repealed.
+**6.**[^c-1a21d77315cb1357ee91d9039e245c67] In schedule 4 of the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995, paragraph 10 is repealed.
 
 ### Petroleum Act 1998
 
-**7.**[^key-4013cf7ac72366263c2b360411862eae] In schedule 4 of the Petroleum Act 1998, paragraph 9 is repealed.
+**7.**[^c-4013cf7ac72366263c2b360411862eae] In schedule 4 of the Petroleum Act 1998, paragraph 9 is repealed.
 
 ### Freedom of Information Act 2000
 
-**8.**[^key-3c7c585124939f8e63e206e20ad6b324] In section 31(1)(i) of the Freedom of Information Act 2000 (law enforcement), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
+**8.**[^c-3c7c585124939f8e63e206e20ad6b324] In section 31(1)(i) of the Freedom of Information Act 2000 (law enforcement), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
 ### Scottish Public Services Ombudsman Act 2002
 
-**9.**[^key-6831a369587e2802ff1e0450af9ad942] In schedule 4 of the Scottish Public Services Ombudsman Act 2002, in paragraph 2(2), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c.14)” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
+**9.**[^c-6831a369587e2802ff1e0450af9ad942] In schedule 4 of the Scottish Public Services Ombudsman Act 2002, in paragraph 2(2), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c.14)” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**10.**[^key-a1986da53c4dafc403106995b8269c6e] (1) The Freedom of Information (Scotland) Act 2002 is amended in accordance with this paragraph.
+**10.**[^c-a1986da53c4dafc403106995b8269c6e] (1) The Freedom of Information (Scotland) Act 2002 is amended in accordance with this paragraph.
 
 (2) In section 34(2)(a) (investigations by Scottish public authorities and proceedings arising out of such investigations), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c.14)” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
@@ -1025,7 +1025,7 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ### Police, Public Order and Criminal Justice (Scotland) Act 2006
 
-**11.**[^key-444b44578f647fe23e46a182d9e2f29f] (1) The Police, Public Order and Criminal Justice (Scotland) Act 2006 is amended in accordance with this paragraph.
+**11.**[^c-444b44578f647fe23e46a182d9e2f29f] (1) The Police, Public Order and Criminal Justice (Scotland) Act 2006 is amended in accordance with this paragraph.
 
 (2) In section 33A(b)(ii) (general functions of the Police and Investigations Review Commissioner), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c.14)” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
@@ -1035,19 +1035,19 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ### Scottish Commission for Human Rights Act 2006
 
-**12.**[^key-86e4838c779a7f6df360f6d8b6a6a47e] In section 14(9) of the Scottish Commission for Human Rights Act 2006 (power to intervene), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c.14)” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
+**12.**[^c-86e4838c779a7f6df360f6d8b6a6a47e] In section 14(9) of the Scottish Commission for Human Rights Act 2006 (power to intervene), for “Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c.14)” substitute “ Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 ”.
 
 ### Armed Forces Act 2006
 
-**13.**[^key-d5a074e9acbc3e792e7e85f0602a540d] In schedule 16 of the Armed Forces Act 2006, paragraph 72 is repealed.
+**13.**[^c-d5a074e9acbc3e792e7e85f0602a540d] In schedule 16 of the Armed Forces Act 2006, paragraph 72 is repealed.
 
 ### Coroners and Justice Act 2009
 
-**14.**[^key-750fd74550883ab0e54215c3fb197635] In the Coroners and Justice Act 2009, section 50 (amendments to the Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976) is repealed.
+**14.**[^c-750fd74550883ab0e54215c3fb197635] In the Coroners and Justice Act 2009, section 50 (amendments to the Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976) is repealed.
 
 ### Energy Act 2013
 
-**15.**[^key-cc15044b405936fbf8dbf05a47c89884] (1) The Energy Act 2013 is amended in accordance with this paragraph.
+**15.**[^c-cc15044b405936fbf8dbf05a47c89884] (1) The Energy Act 2013 is amended in accordance with this paragraph.
 
 (2) In section 85 (inquiries), subsections (7) and (8) are repealed.
 
@@ -1055,7 +1055,7 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ### Tribunals (Scotland) Act 2014
 
-**16.**[^key-05445107c01c62e778a045cf4b15e62c] (1) Paragraph 13 of schedule 9 of the Tribunals (Scotland) Act 2014 (transitional and consequential) is amended in accordance with this paragraph.
+**16.**[^c-05445107c01c62e778a045cf4b15e62c] (1) Paragraph 13 of schedule 9 of the Tribunals (Scotland) Act 2014 (transitional and consequential) is amended in accordance with this paragraph.
 
 (2) In sub-paragraph (2)(b)(ii), in the inserted text, for “(ii)” substitute “ (iza) ”.
 
@@ -1067,138 +1067,138 @@ On and after the day the day on which paragraph 3 of Schedule 11 to the Northern
 
 ## Annotations
 
-[^key-6836f317ef0a8d2bd9bf0b6ee183ce9b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/2/section/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-6836f317ef0a8d2bd9bf0b6ee183ce9b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/2/section/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-23bc6d82348e3154014b852734c5df68]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/2/section/2) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-23bc6d82348e3154014b852734c5df68]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/2/section/2) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-0106a21d3ec4757aa3e16942abf4438c]: Textual amendment: Words in [s. 2(5)(b)](https://www.legislation.gov.uk/asp/2016/2/section/2/5/b) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(8)](https://www.legislation.gov.uk/asp/2022/8/section/40/8), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-0106a21d3ec4757aa3e16942abf4438c]: Textual amendment: Words in [s. 2(5)(b)](https://www.legislation.gov.uk/asp/2016/2/section/2/5/b) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(8)](https://www.legislation.gov.uk/asp/2022/8/section/40/8), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-b678f4178b5ef529346d815bc9b94a7e]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/asp/2016/2/section/2/7) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 21(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/21/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-b678f4178b5ef529346d815bc9b94a7e]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/asp/2016/2/section/2/7) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 21(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/21/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
-[^key-b669e26e56118097f85958ba3e75489d]: Commencement: S. 3 in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-b669e26e56118097f85958ba3e75489d]: Commencement: S. 3 in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-10c124370a2575b8a183f1359a82b3e2]: Modification: S. 3(1) applied (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2016/1142/article/2/1); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
+[^c-10c124370a2575b8a183f1359a82b3e2]: Modification: S. 3(1) applied (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2016/1142/article/2/1); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
 
-[^key-80bf2d450a1308a38c7f46a099e4ed6f]: Textual amendment: S. 3(3) repealed (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/2/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
+[^c-80bf2d450a1308a38c7f46a099e4ed6f]: Textual amendment: S. 3(3) repealed (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/2/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
 
-[^key-b6b88ebb56c45281e5702dbbee9323a9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/2/section/4) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-b6b88ebb56c45281e5702dbbee9323a9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/2/section/4) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-372dffb11a566af706187aae7113248a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/2/section/5) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-372dffb11a566af706187aae7113248a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/2/section/5) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-718ca07bcd16ee397f082ac773d1dca2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/2/section/6) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-718ca07bcd16ee397f082ac773d1dca2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/2/section/6) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-ea50516e1593f9f9d2da7ca4694f7c32]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/2/section/7) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-ea50516e1593f9f9d2da7ca4694f7c32]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/2/section/7) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-44e53ca2db3e78f54ed861be96ccc27b]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/asp/2016/2/section/7A) and cross-heading inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/3/1) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-44e53ca2db3e78f54ed861be96ccc27b]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/asp/2016/2/section/7A) and cross-heading inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/3/1) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
-[^key-89bbf27fa143c8fefc6b33bc63c860d4]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/2/section/8) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/196/regulation/3))
+[^c-89bbf27fa143c8fefc6b33bc63c860d4]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/2/section/8) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/196/regulation/3))
 
-[^key-79b99345801c8a783241a916bfe2da17]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/2/section/9) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-79b99345801c8a783241a916bfe2da17]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/2/section/9) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-172669fe6f650a1b18df74796af3824c]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/2/section/10) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-172669fe6f650a1b18df74796af3824c]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/2/section/10) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-9b73a6b951be860f79c3c284859ab8ef]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/2/section/11) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-9b73a6b951be860f79c3c284859ab8ef]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/2/section/11) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-fe6ca3047d1f460af5b3fd5d5a8f9f6f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/2/section/12) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/b)
+[^c-fe6ca3047d1f460af5b3fd5d5a8f9f6f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/2/section/12) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/b)
 
-[^key-aeca229fe552b661d69fa91eb4049d45]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/2/section/13) in force at 1.12.2016 by [S.S.I. 2016/370](https://www.legislation.gov.uk/ssi/2016/370), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/370/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/370/regulation/3))
+[^c-aeca229fe552b661d69fa91eb4049d45]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/2/section/13) in force at 1.12.2016 by [S.S.I. 2016/370](https://www.legislation.gov.uk/ssi/2016/370), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/370/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/370/regulation/3))
 
-[^key-e0214a606282b10a8c4f8a3f3844d18d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/2/section/14) in force at 1.12.2016 by [S.S.I. 2016/370](https://www.legislation.gov.uk/ssi/2016/370), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2016/370/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/370/regulation/3))
+[^c-e0214a606282b10a8c4f8a3f3844d18d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/2/section/14) in force at 1.12.2016 by [S.S.I. 2016/370](https://www.legislation.gov.uk/ssi/2016/370), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2016/370/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/370/regulation/3))
 
-[^key-c4a37e3413cd01a31525ef4889b35136]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/2/section/15) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-c4a37e3413cd01a31525ef4889b35136]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/2/section/15) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-8e30d123771fa9cb89fefb2d0e44631d]: Commencement: [S. 16(1)-(3)](https://www.legislation.gov.uk/asp/2016/2/section/16/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-8e30d123771fa9cb89fefb2d0e44631d]: Commencement: [S. 16(1)-(3)](https://www.legislation.gov.uk/asp/2016/2/section/16/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-3ac33ab297e1840d508b6817f6ff08d4]: Commencement: [S. 16(4)](https://www.legislation.gov.uk/asp/2016/2/section/16/4) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/c)
+[^c-3ac33ab297e1840d508b6817f6ff08d4]: Commencement: [S. 16(4)](https://www.legislation.gov.uk/asp/2016/2/section/16/4) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/c)
 
-[^key-647595079de0013a90f2b8df4aa2d085]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/2/section/17) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-647595079de0013a90f2b8df4aa2d085]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/2/section/17) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-0842687a7e1b15a77670075ad96dfffb]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/2/section/18) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/d)
+[^c-0842687a7e1b15a77670075ad96dfffb]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/2/section/18) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/d)
 
-[^key-fda7daff4b4bf3bd3fc7cc2859dcb29a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/2/section/19) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-fda7daff4b4bf3bd3fc7cc2859dcb29a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/2/section/19) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-ba002fc00cd56e15259d9e80440e3754]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/2/section/20) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-ba002fc00cd56e15259d9e80440e3754]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/2/section/20) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-24d2b3953bebe6632c6f08619d467553]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/2/section/21) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-24d2b3953bebe6632c6f08619d467553]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/2/section/21) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-50d647b33d48f88914764f49d1bdd333]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/2/section/22) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-50d647b33d48f88914764f49d1bdd333]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/2/section/22) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-95173ab91b94d5297a854bc5376ae17b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/2/section/23) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-95173ab91b94d5297a854bc5376ae17b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/2/section/23) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-84c98f3b0a89832e2b69b99e3b0d31b0]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/2/section/24) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-84c98f3b0a89832e2b69b99e3b0d31b0]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/2/section/24) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-c19e9438fa9b50bfc0e87cf141463d14]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/2/section/25) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-c19e9438fa9b50bfc0e87cf141463d14]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/2/section/25) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-29ad240937680cd80a306ecad238c5a8]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/2/section/26) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-29ad240937680cd80a306ecad238c5a8]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/2/section/26) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-195ef3f9be8c7804786f6a51aa9061d2]: Commencement: S. 27(1)-(3)(5)(6) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-195ef3f9be8c7804786f6a51aa9061d2]: Commencement: S. 27(1)-(3)(5)(6) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-fc081191ad9688cab1afe7d8f704c89e]: Commencement: S. 27(4) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/e)
+[^c-fc081191ad9688cab1afe7d8f704c89e]: Commencement: S. 27(4) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/e)
 
-[^key-1581bac72b503a4cb1b1df882510d199]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/2/section/28) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-1581bac72b503a4cb1b1df882510d199]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/2/section/28) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-bcbd26e5a231e1d0d0d371d18e419ad6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/2/section/29) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-bcbd26e5a231e1d0d0d371d18e419ad6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/2/section/29) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-04413e0dd31de035ed0231d8ddb15b96]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/2/section/30) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-04413e0dd31de035ed0231d8ddb15b96]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/2/section/30) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-ee45633f27dcf9125c906883e05ad55f]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/2/section/31) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-ee45633f27dcf9125c906883e05ad55f]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/2/section/31) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-866eb3905261eba4ed28ae86240cf66f]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/2/section/32) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-866eb3905261eba4ed28ae86240cf66f]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/2/section/32) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-275a5c4b02b54b18198c248a03caff11]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/2/section/33) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-275a5c4b02b54b18198c248a03caff11]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/2/section/33) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-81affb726e6b0e20e79afb548517bc6e]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/2/section/34) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-81affb726e6b0e20e79afb548517bc6e]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/2/section/34) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-f585c696c1b9f3b832ac51dce11c92c8]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/2/section/35) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-f585c696c1b9f3b832ac51dce11c92c8]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/2/section/35) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/155/regulation/3), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-03b27da2faa19f3344fe9f7846d5341a]: Commencement: S. 36(1)-(5) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/f)
+[^c-03b27da2faa19f3344fe9f7846d5341a]: Commencement: S. 36(1)-(5) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/f)
 
-[^key-410365ecace962093c3e94475bc76c15]: Textual amendment: S. 36(2)(ba) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 29(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/29/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-410365ecace962093c3e94475bc76c15]: Textual amendment: S. 36(2)(ba) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 29(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/29/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
-[^key-b18c6a0af0d84136f791f0c03a2aa8b4]: Textual amendment: S. 36(5A) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 29(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/29/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-b18c6a0af0d84136f791f0c03a2aa8b4]: Textual amendment: S. 36(5A) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 29(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/29/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^c22562141]: Commencement: S. 36(6) in force 15.1.2016 by s. 42(1)
 
-[^key-0c14af00a9b3b728af774a3bc40e8d16]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/2/section/37) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-0c14af00a9b3b728af774a3bc40e8d16]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/2/section/37) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-93ad60db6ae3aa52cb838bd3eb3dc2a9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/2/section/38) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-93ad60db6ae3aa52cb838bd3eb3dc2a9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/2/section/38) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-28bbec5a4fe12aaaa34320ea56547290]: Commencement: [S. 39(1)](https://www.legislation.gov.uk/asp/2016/2/section/39/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(1)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/1), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-28bbec5a4fe12aaaa34320ea56547290]: Commencement: [S. 39(1)](https://www.legislation.gov.uk/asp/2016/2/section/39/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(1)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/1), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-22ca498571aa0d7740fc2e0efaab1814]: Commencement: [S. 39(2)](https://www.legislation.gov.uk/asp/2016/2/section/39/2) in force at 1.9.2016 for specified purposes by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/g)
+[^c-22ca498571aa0d7740fc2e0efaab1814]: Commencement: [S. 39(2)](https://www.legislation.gov.uk/asp/2016/2/section/39/2) in force at 1.9.2016 for specified purposes by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/g)
 
-[^key-1ddb852530427ee4bd58be1af51b8cfd]: Commencement: [S. 39(2)](https://www.legislation.gov.uk/asp/2016/2/section/39/2) in force at 15.6.2017 in so far as not already in force by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-1ddb852530427ee4bd58be1af51b8cfd]: Commencement: [S. 39(2)](https://www.legislation.gov.uk/asp/2016/2/section/39/2) in force at 15.6.2017 in so far as not already in force by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-2f57d2e87ded12253b1712eca9b038ff]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/asp/2016/2/schedule/A1) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/3/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-2f57d2e87ded12253b1712eca9b038ff]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/asp/2016/2/schedule/A1) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/3/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
-[^key-44a2cb016424d1a74e642c408993bdc0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-44a2cb016424d1a74e642c408993bdc0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/1) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-dd65d95bde5fc6a54f0797a3614a64a9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/2) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-dd65d95bde5fc6a54f0797a3614a64a9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/2) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-e780ca1ac54eedaec5c2df86a0f88528]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/3) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-e780ca1ac54eedaec5c2df86a0f88528]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/3) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-8ab1d407c7b51f4a8a9c4c81b458f4d5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/4) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-8ab1d407c7b51f4a8a9c4c81b458f4d5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/4) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-159cef41b3852809562cc1d8ae4e955a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/5) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-159cef41b3852809562cc1d8ae4e955a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/5) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-1a21d77315cb1357ee91d9039e245c67]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/6) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-1a21d77315cb1357ee91d9039e245c67]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/6) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-4013cf7ac72366263c2b360411862eae]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/7) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-4013cf7ac72366263c2b360411862eae]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/7) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-3c7c585124939f8e63e206e20ad6b324]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/8) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-3c7c585124939f8e63e206e20ad6b324]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/8) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-6831a369587e2802ff1e0450af9ad942]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/9) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-6831a369587e2802ff1e0450af9ad942]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/9) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-a1986da53c4dafc403106995b8269c6e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/10) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-a1986da53c4dafc403106995b8269c6e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/10) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-444b44578f647fe23e46a182d9e2f29f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/11) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-444b44578f647fe23e46a182d9e2f29f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/11) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-86e4838c779a7f6df360f6d8b6a6a47e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/12) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-86e4838c779a7f6df360f6d8b6a6a47e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/12) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-d5a074e9acbc3e792e7e85f0602a540d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/13) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-d5a074e9acbc3e792e7e85f0602a540d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/13) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-750fd74550883ab0e54215c3fb197635]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/14) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-750fd74550883ab0e54215c3fb197635]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/14) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-cc15044b405936fbf8dbf05a47c89884]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/15) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-cc15044b405936fbf8dbf05a47c89884]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/15) in force at 15.6.2017 by [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
-[^key-05445107c01c62e778a045cf4b15e62c]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/16) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/h)
+[^c-05445107c01c62e778a045cf4b15e62c]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/16) in force at 1.9.2016 by [S.S.I. 2016/196](https://www.legislation.gov.uk/ssi/2016/196), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2016/196/regulation/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Meaning of “relevant activity”[^key-0628beff33688326f9015d390f7f3fa1][^key-c804b3fa52f42983b6d37240609c322d]
+## 28. Meaning of “relevant activity”[^c-0628beff33688326f9015d390f7f3fa1][^c-c804b3fa52f42983b6d37240609c322d]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In this Chapter, “**relevant activity**” means—
 
 ## Annotations
 
-[^key-0628beff33688326f9015d390f7f3fa1]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-0628beff33688326f9015d390f7f3fa1]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-c804b3fa52f42983b6d37240609c322d]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2023/4/section/28) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-c804b3fa52f42983b6d37240609c322d]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2023/4/section/28) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

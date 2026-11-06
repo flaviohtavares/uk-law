@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2da063caed224e76cebc69314e026ab0] A person may appeal to the tribunal in accordance with regulation 100 if the person is the subject of a decision by the Commissioners under—
+(1)[^c-2da063caed224e76cebc69314e026ab0] A person may appeal to the tribunal in accordance with regulation 100 if the person is the subject of a decision by the Commissioners under—
 
 - (a) regulation 25(2), to issue a direction;
 - (b) regulation 58, to the effect that a person is not a fit and proper person (unless the decision is required by virtue of paragraph (3) of that regulation);
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2da063caed224e76cebc69314e026ab0]: Textual amendment: Reg. 99(1) substituted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/4/2)
+[^c-2da063caed224e76cebc69314e026ab0]: Textual amendment: Reg. 99(1) substituted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/4/2)
 
 [^c23048821]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
 

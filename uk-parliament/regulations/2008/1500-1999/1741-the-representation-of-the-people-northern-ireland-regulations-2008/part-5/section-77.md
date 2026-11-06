@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Refusal to issue postal ballot paper[^key-60d49a2954167972aca555f3e9abd7c1]
+## 77. Refusal to issue postal ballot paper[^c-60d49a2954167972aca555f3e9abd7c1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a returning officer is satisfied that two or more entries in the absent vo
 
 ## Annotations
 
-[^key-60d49a2954167972aca555f3e9abd7c1]: Modification: [Reg. 77](https://www.legislation.gov.uk/uksi/2008/1741/regulation/77) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 88](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/88)
+[^c-60d49a2954167972aca555f3e9abd7c1]: Modification: [Reg. 77](https://www.legislation.gov.uk/uksi/2008/1741/regulation/77) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 88](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/88)

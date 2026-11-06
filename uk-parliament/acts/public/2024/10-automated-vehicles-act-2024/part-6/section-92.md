@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Application of roadside testing powers etc[^key-f85bc38ff3997163a16ecf7ac783c7d0]
+## 92. Application of roadside testing powers etc[^c-f85bc38ff3997163a16ecf7ac783c7d0]
 
 *Extent: E+W+S*
 
@@ -98,4 +98,4 @@ and in the italic heading preceding that section, for “and goods vehicles” s
 
 ## Annotations
 
-[^key-f85bc38ff3997163a16ecf7ac783c7d0]: Commencement: S. 92 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-f85bc38ff3997163a16ecf7ac783c7d0]: Commencement: S. 92 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. New bus grants.[^key-1d2b95908acdee1f523f5cc4e2f2e8bd]
+## 32. New bus grants.[^c-1d2b95908acdee1f523f5cc4e2f2e8bd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2b95908acdee1f523f5cc4e2f2e8bd]: Textual amendment: S. 32 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-1d2b95908acdee1f523f5cc4e2f2e8bd]: Textual amendment: S. 32 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

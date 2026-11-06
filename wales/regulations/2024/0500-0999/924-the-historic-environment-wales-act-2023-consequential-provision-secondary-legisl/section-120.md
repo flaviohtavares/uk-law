@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**120.**[^key-89d75c4e82dc9819a8892bb6b4125a19] In regulation 9—
+**120.**[^c-89d75c4e82dc9819a8892bb6b4125a19] In regulation 9—
 
 - (a) in paragraph (1), in the words before sub-paragraph (a), for “section 1AE(5)(c) of the 1979 Act” substitute “section 10(2)(c) of the 2023 Act”;
 - (b) in paragraph (1)(c), for “section 1AE of the 1979 Act” substitute “section 5 of the 2023 Act”;
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89d75c4e82dc9819a8892bb6b4125a19]: Commencement: [Reg. 120](https://www.legislation.gov.uk/wsi/2024/924/regulation/120) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-89d75c4e82dc9819a8892bb6b4125a19]: Commencement: [Reg. 120](https://www.legislation.gov.uk/wsi/2024/924/regulation/120) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65B. Amount of Class 3 contributions payable after issue of a full gender recognition certificate[^key-a7c4d80252a03c8b95d4691cdecb594b]
+## 65B. Amount of Class 3 contributions payable after issue of a full gender recognition certificate[^c-a7c4d80252a03c8b95d4691cdecb594b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The amount of a contribution payable by virtue of regulation 49(2B) (Class 3 con
 
 ## Annotations
 
-[^key-a7c4d80252a03c8b95d4691cdecb594b]: Textual amendment: Reg. 65B inserted (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/778/regulation/7)
+[^c-a7c4d80252a03c8b95d4691cdecb594b]: Textual amendment: Reg. 65B inserted (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/778/regulation/7)

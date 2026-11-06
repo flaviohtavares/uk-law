@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where compensation is payable by virtue of section 76 in respect of expenditure incurred in carrying out any work on land, any compensation payable in respect of the acquisition of an interest in the land in pursuance of a purchase notice shall be reduced by an amount equal to the value of those works.
 
-(2)[^key-4b543e4b280a36e4d885ab5fabc7453d] Where—
+(2)[^c-4b543e4b280a36e4d885ab5fabc7453d] Where—
 
 - (a) the Secretary of State directs under section 92(3) that, if an application for it is made, planning permission must be granted for the development of any land, and
 - (b) on a claim made to the planning authority within the prescribed time and in the prescribed manner, it is shown that the permitted development value of the interest in that land in respect of which the purchase notice was served is less than its Schedule 11 value,
@@ -51,4 +51,4 @@ no compensation shall be payable in respect of that order under section 83.
 
 ## Annotations
 
-[^key-4b543e4b280a36e4d885ab5fabc7453d]: Modification: [S. 95(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/95/2) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-4b543e4b280a36e4d885ab5fabc7453d]: Modification: [S. 95(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/95/2) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

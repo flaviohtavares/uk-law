@@ -34,7 +34,7 @@ Exiting The European Union
 
 Financial Services
 
-The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-e998759a34bca70c7bc4727672b7bdc8]
+The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 Made
 
@@ -42,140 +42,140 @@ Made
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-e998759a34bca70c7bc4727672b7bdc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e998759a34bca70c7bc4727672b7bdc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-e998759a34bca70c7bc4727672b7bdc8]
+## PART 1 — Introduction[^c-e998759a34bca70c7bc4727672b7bdc8]
 
-### 1. Citation, commencement and interpretation[^key-e998759a34bca70c7bc4727672b7bdc8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendments coming into force before IP completion day[^key-e998759a34bca70c7bc4727672b7bdc8]
-
-### 2. Amendments of Parts 18 and 18A of the 2000 Act[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 1. Citation, commencement and interpretation[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments of the Schedule to the principal Regulations[^key-e998759a34bca70c7bc4727672b7bdc8]
+## PART 2 — Amendments coming into force before IP completion day[^c-e998759a34bca70c7bc4727672b7bdc8]
+
+### 2. Amendments of Parts 18 and 18A of the 2000 Act[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendments of the 2000 Act coming into force on IP completion day[^key-e998759a34bca70c7bc4727672b7bdc8]
-
-### 4. Amendments of Part 18 of the 2000 Act[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 3. Amendments of the Schedule to the principal Regulations[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendments of Part 18, Chapter 1: Exemption[^key-e998759a34bca70c7bc4727672b7bdc8]
+## PART 3 — Amendments of the 2000 Act coming into force on IP completion day[^c-e998759a34bca70c7bc4727672b7bdc8]
+
+### 4. Amendments of Part 18 of the 2000 Act[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendments of Part 18, Chapter 1A: Control over recognised investment exchange[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 5. Amendments of Part 18, Chapter 1: Exemption[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of Part 18, Chapter 3A: Passport Rights[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 6. Amendments of Part 18, Chapter 1A: Control over recognised investment exchange[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments of Part 18, Chapter 3B: disciplinary measures[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 7. Amendment of Part 18, Chapter 3A: Passport Rights[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of Part 18, Chapter 4: Interpretation[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 8. Amendments of Part 18, Chapter 3B: disciplinary measures[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendments of Part 18A of the 2000 Act[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 9. Amendment of Part 18, Chapter 4: Interpretation[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendments of Schedule 17A to the 2000 Act[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 10. Amendments of Part 18A of the 2000 Act[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of Schedule 17A: rules[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 11. Amendments of Schedule 17A to the 2000 Act[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendments of Schedule 17A: information gathering and investigations[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 12. Amendment of Schedule 17A: rules[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendment of Schedule 17A: co-operation[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 13. Amendments of Schedule 17A: information gathering and investigations[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments of Schedule 17A: injunctions and restitution[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 14. Amendment of Schedule 17A: co-operation[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of Schedule 17A: records[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 15. Amendments of Schedule 17A: injunctions and restitution[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendment of Schedule 17A: annual report[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 16. Amendment of Schedule 17A: records[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Amendments of the principal Regulations coming into force on IP completion day[^key-e998759a34bca70c7bc4727672b7bdc8]
-
-### 18. Amendments of the principal Regulations[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 17. Amendment of Schedule 17A: annual report[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendments of regulation 3[^key-e998759a34bca70c7bc4727672b7bdc8]
+## PART 4 — Amendments of the principal Regulations coming into force on IP completion day[^c-e998759a34bca70c7bc4727672b7bdc8]
+
+### 18. Amendments of the principal Regulations[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendments to the Schedule[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 19. Amendments of regulation 3[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Consequential amendments[^key-e998759a34bca70c7bc4727672b7bdc8]
-
-### 21. Finance Act 1986[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 20. Amendments to the Schedule[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Finance Act 1991[^key-e998759a34bca70c7bc4727672b7bdc8]
+## PART 5 — Consequential amendments[^c-e998759a34bca70c7bc4727672b7bdc8]
+
+### 21. Finance Act 1986[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Income Tax (Manufactured Overseas Dividends) Regulations 1993[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 22. Finance Act 1991[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Investment Bank Special Administration Regulations 2011[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 23. Income Tax (Manufactured Overseas Dividends) Regulations 1993[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Stamp Duty and Stamp Duty Reserve Tax (Eurex Clearing AG) Regulations 2011[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 24. Investment Bank Special Administration Regulations 2011[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Stamp Duty and Stamp Duty Reserve Tax (LCH.Clearnet Limited) Regulations 2011[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 25. Stamp Duty and Stamp Duty Reserve Tax (Eurex Clearing AG) Regulations 2011[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Stamp Duty and Stamp Duty Reserve Tax (SIX X-CLEAR AG) Regulations 2011[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 26. Stamp Duty and Stamp Duty Reserve Tax (LCH.Clearnet Limited) Regulations 2011[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Stamp Duty and Stamp Duty Reserve Tax (Cassa Di Compensazione E Garanzia S.p.A) Regulations 2011[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 27. Stamp Duty and Stamp Duty Reserve Tax (SIX X-CLEAR AG) Regulations 2011[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty N.V.) Regulations 2014[^key-e998759a34bca70c7bc4727672b7bdc8]
+### 28. Stamp Duty and Stamp Duty Reserve Tax (Cassa Di Compensazione E Garanzia S.p.A) Regulations 2011[^c-e998759a34bca70c7bc4727672b7bdc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e998759a34bca70c7bc4727672b7bdc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 29. Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty N.V.) Regulations 2014[^c-e998759a34bca70c7bc4727672b7bdc8]
 
-[^key-e998759a34bca70c7bc4727672b7bdc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e998759a34bca70c7bc4727672b7bdc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e998759a34bca70c7bc4727672b7bdc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e998759a34bca70c7bc4727672b7bdc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/662) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-e998759a34bca70c7bc4727672b7bdc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/662) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

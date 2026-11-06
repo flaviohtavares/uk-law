@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Legislative registration criteria[^key-ae8c9f8e49a7b53915bf15e49d1895e5][^key-4702b62c6d8d10fe564132500ac9e0d7]
+## 24. Legislative registration criteria[^c-ae8c9f8e49a7b53915bf15e49d1895e5][^c-4702b62c6d8d10fe564132500ac9e0d7]
 
 *Extent: S*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae8c9f8e49a7b53915bf15e49d1895e5]: Commencement: S. 24 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-ae8c9f8e49a7b53915bf15e49d1895e5]: Commencement: S. 24 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-4702b62c6d8d10fe564132500ac9e0d7]: Commencement: S. 24 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-4702b62c6d8d10fe564132500ac9e0d7]: Commencement: S. 24 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

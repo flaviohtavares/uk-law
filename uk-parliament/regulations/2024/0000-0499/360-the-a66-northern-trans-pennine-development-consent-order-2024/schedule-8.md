@@ -24,9 +24,9 @@ Articles 41 and 42
 
 Note 1: Where roads are to become subject to the national speed limit as indicated in the tables headed “speed limits” in this Schedule and as shown on the plans relating to this Schedule (the traffic regulation measures (speed limits) plans), speed limits are to apply in accordance with the applicable national speed limit for such roads in accordance with the provisions of the 1984 Act and which are indicated in parenthesis for information only and such speed limits are not effected by article 42(1)(a) of this Order.
 
-Note 2: Where existing speed limits (to be retained) are shown on the traffic regulation measures (speed limits) plans which relate to this Schedule, this is for information only and such speed limits are not subject to the power contained in article 42(1) of this Order.[^key-873c65d1c8d30275b738d94d0f6c7449] .
+Note 2: Where existing speed limits (to be retained) are shown on the traffic regulation measures (speed limits) plans which relate to this Schedule, this is for information only and such speed limits are not subject to the power contained in article 42(1) of this Order.[^c-873c65d1c8d30275b738d94d0f6c7449] .
 
-### PART 1 — SCHEME 0102 – M6 J40 TO KEMPLAY BANK[^key-7a2f7c964969a7a80b59ec2c580249e6]
+### PART 1 — SCHEME 0102 – M6 J40 TO KEMPLAY BANK[^c-7a2f7c964969a7a80b59ec2c580249e6]
 
 SPEED LIMITS
 
@@ -92,7 +92,7 @@ TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)
 </tbody>
 </table>
 
-### PART 2 — SCHEME 03 – PENRITH TO TEMPLE SOWERBY[^key-078e412264cf76606feea47e5c21fb06]
+### PART 2 — SCHEME 03 – PENRITH TO TEMPLE SOWERBY[^c-078e412264cf76606feea47e5c21fb06]
 
 SPEED LIMITS
 
@@ -130,7 +130,7 @@ TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)
 </tbody>
 </table>
 
-### PART 3 — SCHEME 0405 – TEMPLE SOWERBY TO APPLEBY[^key-c9d9bdf2a83841ba3dbeb1d0707206a5]
+### PART 3 — SCHEME 0405 – TEMPLE SOWERBY TO APPLEBY[^c-c9d9bdf2a83841ba3dbeb1d0707206a5]
 
 SPEED LIMITS
 
@@ -173,7 +173,7 @@ SPEED LIMITS
 </tbody>
 </table>
 
-[^key-e018ae42a75b7df87d44ddefa046642c][^key-526103cb54c8d7a3598b9b46a760a9d3]
+[^c-e018ae42a75b7df87d44ddefa046642c][^c-526103cb54c8d7a3598b9b46a760a9d3]
 
 TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)
 
@@ -210,7 +210,7 @@ REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS
 </tbody>
 </table>
 
-### PART 4 — SCHEME 06 – APPLEBY TO BROUGH[^key-83fd2a8dfebb2e08fc4a90da4bc653db]
+### PART 4 — SCHEME 06 – APPLEBY TO BROUGH[^c-83fd2a8dfebb2e08fc4a90da4bc653db]
 
 SPEED LIMITS
 
@@ -271,7 +271,7 @@ REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS
 </tbody>
 </table>
 
-### PART 5 — SCHEME 07 – BOWES BYPASS[^key-0cedc5c09c83e00af31b655c8d8b8c1f]
+### PART 5 — SCHEME 07 – BOWES BYPASS[^c-0cedc5c09c83e00af31b655c8d8b8c1f]
 
 SPEED LIMITS
 
@@ -312,7 +312,7 @@ TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)
 </tbody>
 </table>
 
-### PART 6 — SCHEME 08 – CROSS LANES TO ROKEBY[^key-ddcc932c2bf09826140fa2145428af4e]
+### PART 6 — SCHEME 08 – CROSS LANES TO ROKEBY[^c-ddcc932c2bf09826140fa2145428af4e]
 
 SPEED LIMITS
 
@@ -360,7 +360,7 @@ TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)
 </tbody>
 </table>
 
-### PART 7 — SCHEME 09 – STEPHEN BANK TO CARKIN MOOR[^key-2829649041146ca783a84b9c90c19f4d]
+### PART 7 — SCHEME 09 – STEPHEN BANK TO CARKIN MOOR[^c-2829649041146ca783a84b9c90c19f4d]
 
 SPEED LIMITS
 
@@ -419,22 +419,22 @@ REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS
 
 ## Annotations
 
-[^key-873c65d1c8d30275b738d94d0f6c7449]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2024/360/schedule/8) substituted (15.10.2025) by [The A66 Northern Trans-Pennine Development Consent (Correction) Order 2025 (S.I. 2025/1084)](https://www.legislation.gov.uk/uksi/2025/1084), [art. 1](https://www.legislation.gov.uk/uksi/2025/1084/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/1084/schedule/paragraph/1)
+[^c-873c65d1c8d30275b738d94d0f6c7449]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2024/360/schedule/8) substituted (15.10.2025) by [The A66 Northern Trans-Pennine Development Consent (Correction) Order 2025 (S.I. 2025/1084)](https://www.legislation.gov.uk/uksi/2025/1084), [art. 1](https://www.legislation.gov.uk/uksi/2025/1084/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/1084/schedule/paragraph/1)
 
-[^key-7a2f7c964969a7a80b59ec2c580249e6]: Commencement: Sch. 8 Pt. 1 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-7a2f7c964969a7a80b59ec2c580249e6]: Commencement: Sch. 8 Pt. 1 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-078e412264cf76606feea47e5c21fb06]: Commencement: Sch. 8 Pt. 2 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-078e412264cf76606feea47e5c21fb06]: Commencement: Sch. 8 Pt. 2 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-c9d9bdf2a83841ba3dbeb1d0707206a5]: Commencement: Sch. 8 Pt. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-c9d9bdf2a83841ba3dbeb1d0707206a5]: Commencement: Sch. 8 Pt. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-e018ae42a75b7df87d44ddefa046642c]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/8/part/3) table substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2026/422/article/15/a)
+[^c-e018ae42a75b7df87d44ddefa046642c]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/8/part/3) table substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2026/422/article/15/a)
 
-[^key-526103cb54c8d7a3598b9b46a760a9d3]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/8/part/3) table substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2026/422/article/15/b)
+[^c-526103cb54c8d7a3598b9b46a760a9d3]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/8/part/3) table substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2026/422/article/15/b)
 
-[^key-83fd2a8dfebb2e08fc4a90da4bc653db]: Commencement: Sch. 8 Pt. 4 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-83fd2a8dfebb2e08fc4a90da4bc653db]: Commencement: Sch. 8 Pt. 4 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-0cedc5c09c83e00af31b655c8d8b8c1f]: Commencement: Sch. 8 Pt. 5 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-0cedc5c09c83e00af31b655c8d8b8c1f]: Commencement: Sch. 8 Pt. 5 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-ddcc932c2bf09826140fa2145428af4e]: Commencement: Sch. 8 Pt. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-ddcc932c2bf09826140fa2145428af4e]: Commencement: Sch. 8 Pt. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-2829649041146ca783a84b9c90c19f4d]: Commencement: Sch. 8 Pt. 7 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-2829649041146ca783a84b9c90c19f4d]: Commencement: Sch. 8 Pt. 7 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

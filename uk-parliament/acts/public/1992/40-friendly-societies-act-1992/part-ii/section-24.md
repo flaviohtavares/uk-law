@@ -30,7 +30,7 @@ summary: ''
 
 (5) The court may, if it thinks fit and subject to such conditions (if any) as it may determine, reduce the amount of the contracts made by the society in the course of carrying on its long term business.
 
-(6) The court may, on the application of the liquidator, a special manager appointed under subsection (3) above or the FCA or the PRA[^key-8c5b2f0a63265fd8b9f8997a2355210d] appoint an independent actuary to investigate the long term business of the society and to report to the liquidator, the special manager or the FCA or the PRA, as the case may be, on the desirability or otherwise of that business being continued and on any reduction in the contracts made in the course of carrying on that business that may be necessary for its successful continuation.
+(6) The court may, on the application of the liquidator, a special manager appointed under subsection (3) above or the FCA or the PRA[^c-8c5b2f0a63265fd8b9f8997a2355210d] appoint an independent actuary to investigate the long term business of the society and to report to the liquidator, the special manager or the FCA or the PRA, as the case may be, on the desirability or otherwise of that business being continued and on any reduction in the contracts made in the course of carrying on that business that may be necessary for its successful continuation.
 
 ## Annotations
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c15377881]: Marginal citation: [S.I.1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-8c5b2f0a63265fd8b9f8997a2355210d]: Textual amendment: Words in [s. 24(6)](https://www.legislation.gov.uk/ukpga/1992/40/section/24/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/11) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-8c5b2f0a63265fd8b9f8997a2355210d]: Textual amendment: Words in [s. 24(6)](https://www.legislation.gov.uk/ukpga/1992/40/section/24/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/11) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

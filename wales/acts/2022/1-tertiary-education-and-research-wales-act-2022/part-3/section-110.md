@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Financial support directions[^key-72d400e3714397f50cafe149e4be5bf5][^key-d8cfbdc14d26d33b8a48d1a06dfc08cc]
+## 110. Financial support directions[^c-72d400e3714397f50cafe149e4be5bf5][^c-d8cfbdc14d26d33b8a48d1a06dfc08cc]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72d400e3714397f50cafe149e4be5bf5]: Commencement: S. 110 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-72d400e3714397f50cafe149e4be5bf5]: Commencement: S. 110 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-d8cfbdc14d26d33b8a48d1a06dfc08cc]: Commencement: [S. 110](https://www.legislation.gov.uk/asc/2022/1/section/110) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 5(1)](https://www.legislation.gov.uk/wsi/2026/62/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/wsi/2026/62/article/5/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/5/3))
+[^c-d8cfbdc14d26d33b8a48d1a06dfc08cc]: Commencement: [S. 110](https://www.legislation.gov.uk/asc/2022/1/section/110) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 5(1)](https://www.legislation.gov.uk/wsi/2026/62/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/wsi/2026/62/article/5/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/5/3))

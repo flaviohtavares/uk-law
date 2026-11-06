@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Interpretation[^key-a8398a22e71ec086b87e8dd9e2abd122]
+## 114. Interpretation[^c-a8398a22e71ec086b87e8dd9e2abd122]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In this Act—
 
 ## Annotations
 
-[^key-a8398a22e71ec086b87e8dd9e2abd122]: Commencement: S. 114 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)
+[^c-a8398a22e71ec086b87e8dd9e2abd122]: Commencement: S. 114 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — The Registered Designs Act 1949 as amended Arrangement of Sections[^c13762701][^key-94245ccca2fba25e5e12de719d4039a7]
+## SCHEDULE 4 — The Registered Designs Act 1949 as amended Arrangement of Sections[^c13762701][^c-94245ccca2fba25e5e12de719d4039a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -1045,6 +1045,6 @@ and any reference in this Schedule to the services of the Crown shall be constru
 
 [^c13762701]: Modification: Sch. 4 extended (with modifications) (Isle of Man) (9.12.2001) by [S.I. 2001/3678](https://www.legislation.gov.uk/uksi/2001/3678), [art. 3](https://www.legislation.gov.uk/uksi/2001/3678/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/3678/schedule/3)
 
-[^key-94245ccca2fba25e5e12de719d4039a7]: Modification: Sch. 4 extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/2)
+[^c-94245ccca2fba25e5e12de719d4039a7]: Modification: Sch. 4 extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/2)
 
 [^c19431021]: Textual amendment: Sch. 4 para. 31(b): words substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)

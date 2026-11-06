@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Information about applications[^key-d3b8f205dc7d75c1073853dc67a31432]
+## 47. Information about applications[^c-d3b8f205dc7d75c1073853dc67a31432]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A licensing authority must publish information about its requirements relating t
 
 ## Annotations
 
-[^key-d3b8f205dc7d75c1073853dc67a31432]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2014/7/section/47) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(w)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/w)
+[^c-d3b8f205dc7d75c1073853dc67a31432]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2014/7/section/47) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(w)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/w)

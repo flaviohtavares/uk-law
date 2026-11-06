@@ -35,7 +35,7 @@ shall be due six months after the end of the month in which the death occurs.
 
 (3B) So much (if any) of the tax chargeable on the value transferred by a chargeable transfer made under Chapter III of Part III of this Act within the period of seven years ending with the settlor’s death as exceeds what it would have been had the settlor died more than seven years after the date of the transfer shall be due six months after the end of the month in which the death occurs.
 
-(3C)[^key-3d99fa6f9868e9d11657b0e4eebcc798] Tax chargeable under Chapter 3 of Part 3 of this Act on the value transferred by a chargeable transfer, other than any for which the due date is given by subsection (3B) above, is due six months after the end of the month in which the chargeable transfer is made.
+(3C)[^c-3d99fa6f9868e9d11657b0e4eebcc798] Tax chargeable under Chapter 3 of Part 3 of this Act on the value transferred by a chargeable transfer, other than any for which the due date is given by subsection (3B) above, is due six months after the end of the month in which the chargeable transfer is made.
 
 (4) Tax chargeable under section 32, 32A[^c13613661], 79 or 126[^c21418821] above or under Schedule 5 to this Act [^c21418841]. . . shall be due six months after the end of the month in which the event by reason of which it is chargeable occurs.
 
@@ -53,7 +53,7 @@ shall be due six months after the end of the month in which the death occurs.
 
 [^c13613651]: Textual amendment: Finance Act 1986 Sch. 19, para. 30(2),*with effect from* 18*March* 1986.
 
-[^key-3d99fa6f9868e9d11657b0e4eebcc798]: Textual amendment: [S. 226(3C)](https://www.legislation.gov.uk/ukpga/1984/51/section/226/3C) inserted (with effect in accordance with Sch. 25 para. 5(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 25 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/25/paragraph/5/2)
+[^c-3d99fa6f9868e9d11657b0e4eebcc798]: Textual amendment: [S. 226(3C)](https://www.legislation.gov.uk/ukpga/1984/51/section/226/3C) inserted (with effect in accordance with Sch. 25 para. 5(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 25 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/25/paragraph/5/2)
 
 [^c13613661]: Textual amendment: Finance Act 1985 Sch. 26, para. 11,*in relation to events occurring after* 18*March* 1985.
 

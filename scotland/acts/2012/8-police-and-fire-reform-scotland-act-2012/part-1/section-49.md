@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Appointments, promotions etc.[^key-5ed6d142d3746e3559b1af8600749b3b]
+## 49. Appointments, promotions etc.[^c-5ed6d142d3746e3559b1af8600749b3b]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ed6d142d3746e3559b1af8600749b3b]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2012/8/section/49) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-5ed6d142d3746e3559b1af8600749b3b]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2012/8/section/49) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

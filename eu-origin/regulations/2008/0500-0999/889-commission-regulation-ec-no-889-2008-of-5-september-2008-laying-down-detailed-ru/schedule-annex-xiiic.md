@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XIIIc — Templates for the organic data referred to under Article 92f[^key-6ebd81f56037e16526057d7ffddce80b]
+## ANNEX XIIIc — Templates for the organic data referred to under Article 92f[^c-6ebd81f56037e16526057d7ffddce80b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-6ebd81f56037e16526057d7ffddce80b]
+[^c-6ebd81f56037e16526057d7ffddce80b]
 
-[^key-6ebd81f56037e16526057d7ffddce80b] 1)
+[^c-6ebd81f56037e16526057d7ffddce80b] 1)
 
 Information on controls of operators:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ebd81f56037e16526057d7ffddce80b] 2)
+[^c-6ebd81f56037e16526057d7ffddce80b] 2)
 
 Information on supervision and audits:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ebd81f56037e16526057d7ffddce80b] 3)
+[^c-6ebd81f56037e16526057d7ffddce80b] 3)
 
 Conclusions on the control system for the organic production:
 
@@ -44,4 +44,4 @@ Conclusions on the control system for the organic production:
 
 ## Annotations
 
-[^key-6ebd81f56037e16526057d7ffddce80b]: Textual amendment: [Annex 13c](https://www.legislation.gov.uk/eur/2008/889/annex/13c) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(61)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/61); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ebd81f56037e16526057d7ffddce80b]: Textual amendment: [Annex 13c](https://www.legislation.gov.uk/eur/2008/889/annex/13c) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(61)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/61); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

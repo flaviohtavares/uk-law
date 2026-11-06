@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 2006[^key-1f83cc8900acb06fd362b9e3e9eee89f]
+## 105. Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 2006[^c-1f83cc8900acb06fd362b9e3e9eee89f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In Schedule 6 to the Naval, Military and Air Forces etc (Disablement and Death) 
 
 ## Annotations
 
-[^key-1f83cc8900acb06fd362b9e3e9eee89f]: Commencement: Reg. 105 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-1f83cc8900acb06fd362b9e3e9eee89f]: Commencement: Reg. 105 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00168]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606). Item 26 in Schedule 6 was amended by [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) (in relation to England and Wales), [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229) (in relation to Scotland), and [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).

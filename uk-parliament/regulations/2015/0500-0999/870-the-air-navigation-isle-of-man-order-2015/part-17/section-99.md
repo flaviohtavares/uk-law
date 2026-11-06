@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Rockets[^key-3eb953d0f770d63902541890427f1c9a]
+## 99. Rockets[^c-3eb953d0f770d63902541890427f1c9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3eb953d0f770d63902541890427f1c9a]: Commencement: [Art. 99](https://www.legislation.gov.uk/uksi/2015/870/article/99) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-3eb953d0f770d63902541890427f1c9a]: Commencement: [Art. 99](https://www.legislation.gov.uk/uksi/2015/870/article/99) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
 [^f00010]: Footnote: [1986 c.38](https://www.legislation.gov.uk/ukpga/1986/38).

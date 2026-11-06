@@ -28,7 +28,7 @@ Section 34
 
 > (4) This Act applies to a service offence (wherever committed) if the corresponding civil offence is mentioned in subsection (1).
 
-**2.**[^key-d36dbb14c2b4e727030d50ea9bc7baee][^c1420067] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d36dbb14c2b4e727030d50ea9bc7baee][^c1420067] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c1420068] (1) Section 6 of that Act (interpretation etc.) is amended as follows.
 
@@ -104,45 +104,45 @@ In section 125 of that Act (absence for voting), in paragraph (a), after “Memb
 
 ### Part 4 — Amendments consequential on section 21(5) of Human Rights Act 1998
 
-#### 14. Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)[^key-19f7f4c46016a5f829e9c245133876a3]
+#### 14. Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)[^c-19f7f4c46016a5f829e9c245133876a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Naval Discipline Act 1957 (c. 53)[^key-19f7f4c46016a5f829e9c245133876a3]
+#### 19. Naval Discipline Act 1957 (c. 53)[^c-19f7f4c46016a5f829e9c245133876a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 5 — Queen Alexandra’s Royal Naval Nursing Service and former Women’s Royal Naval Service
 
-#### 23. Naval Discipline Act 1957 (c. 53)[^key-19f7f4c46016a5f829e9c245133876a3]
+#### 23. Naval Discipline Act 1957 (c. 53)[^c-19f7f4c46016a5f829e9c245133876a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-19f7f4c46016a5f829e9c245133876a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Armed Forces Act 1976 (c. 52)[^key-19f7f4c46016a5f829e9c245133876a3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 26. House of Commons Disqualification Act 1975 (c. 24)[^key-19f7f4c46016a5f829e9c245133876a3]
+#### 25. Armed Forces Act 1976 (c. 52)[^c-19f7f4c46016a5f829e9c245133876a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Northern Ireland Assembly Disqualification Act 1975 (c. 25)[^key-19f7f4c46016a5f829e9c245133876a3]
+#### 26. House of Commons Disqualification Act 1975 (c. 24)[^c-19f7f4c46016a5f829e9c245133876a3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27. Northern Ireland Assembly Disqualification Act 1975 (c. 25)[^c-19f7f4c46016a5f829e9c245133876a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -154,7 +154,7 @@ Section 20(2) of, and Part 3 of Schedule 3 to, the Armed Forces Act 1981 (which 
 
 In section 622 of the Housing Act 1985, in the definition of “regular armed forces of the Crown”, for the words from “, the regular air force” to the end there is substituted “ or the regular air force as defined by section 223 of the Air Force Act 1955 ”.
 
-#### 30. Housing Act 1996 (c. 52)[^key-79f18fd8318d26212a2736e2cda54648]
+#### 30. Housing Act 1996 (c. 52)[^c-79f18fd8318d26212a2736e2cda54648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,75 +173,75 @@ In section 68 of the Marriage Act 1949 (c. 76) (solemnization of marriages in na
 
 (2) The amendment made by sub-paragraph (1) applies in relation to any such officer as is mentioned in section 30(1) of that Act (assistants to Judge Advocate General) whether appointed before or after the commencement of sub-paragraph (1).
 
-#### 33. Sentence where penalty for civil offence fixed by law as life imprisonment[^key-884ee742881d9526623affddd1e56387]
+#### 33. Sentence where penalty for civil offence fixed by law as life imprisonment[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Qualification for appointment as judicial officer[^key-884ee742881d9526623affddd1e56387]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**36.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 37. Evidence given before boards of inquiry[^key-884ee742881d9526623affddd1e56387]
+#### 35. Qualification for appointment as judicial officer[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 39. Compensation for loss[^key-884ee742881d9526623affddd1e56387]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**40.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 41. Redress of complaints[^key-884ee742881d9526623affddd1e56387]
+#### 37. Evidence given before boards of inquiry[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 44. Civilian contractors attached to or accompanying armed forces[^key-884ee742881d9526623affddd1e56387]
+#### 39. Compensation for loss[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Interpretation of references to “Royal Air Force Police”[^key-884ee742881d9526623affddd1e56387]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**47.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**48.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 49. Interpretation of references to a “constable”[^key-884ee742881d9526623affddd1e56387]
+#### 41. Redress of complaints[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 50. Application to civilians[^key-884ee742881d9526623affddd1e56387]
+**42.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**43.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 44. Civilian contractors attached to or accompanying armed forces[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**53.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 54. Arrest of civilian whose sentence is deferred[^key-884ee742881d9526623affddd1e56387]
+#### 46. Interpretation of references to “Royal Air Force Police”[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 55. Right of appeal to Courts-Martial Appeal Court[^key-884ee742881d9526623affddd1e56387]
+**47.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**48.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 49. Interpretation of references to a “constable”[^c-884ee742881d9526623affddd1e56387]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 50. Application to civilians[^c-884ee742881d9526623affddd1e56387]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**51.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**53.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 54. Arrest of civilian whose sentence is deferred[^c-884ee742881d9526623affddd1e56387]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 55. Right of appeal to Courts-Martial Appeal Court[^c-884ee742881d9526623affddd1e56387]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**56.**[^c-884ee742881d9526623affddd1e56387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 57. Children in respect of whom protective orders may be made[^c1420101]
 
@@ -263,7 +263,7 @@ In section 17 of the Armed Forces Act 1991 (c. 62) (power to make service family
 >
 > (2) In the following provisions of this Part, any reference to a person with whom a child was at any time residing includes a reference to a person with whom a child was staying.
 
-#### 59. Amendment relating to abolition of naval disciplinary courts[^key-0d75a6632753ff809cb88bb023ca5fd7]
+#### 59. Amendment relating to abolition of naval disciplinary courts[^c-0d75a6632753ff809cb88bb023ca5fd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -271,7 +271,7 @@ In section 17 of the Armed Forces Act 1991 (c. 62) (power to make service family
 
 [^c1420066]: Commencement: Sch. 6 Pt. 1 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
-[^key-d36dbb14c2b4e727030d50ea9bc7baee]: Textual amendment: Sch. 6 para. 2 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-d36dbb14c2b4e727030d50ea9bc7baee]: Textual amendment: Sch. 6 para. 2 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c1420067]: Commencement: Sch. 6 Pt. 1 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
@@ -297,18 +297,18 @@ In section 17 of the Armed Forces Act 1991 (c. 62) (power to make service family
 
 [^c1420078]: Commencement: Sch. 6 Pt. 3 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
-[^key-19f7f4c46016a5f829e9c245133876a3]: Textual amendment: [Sch. 6 paras. 14-27](https://www.legislation.gov.uk/ukpga/2001/19/schedule/6/paragraph/14) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-19f7f4c46016a5f829e9c245133876a3]: Textual amendment: [Sch. 6 paras. 14-27](https://www.legislation.gov.uk/ukpga/2001/19/schedule/6/paragraph/14) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-79f18fd8318d26212a2736e2cda54648]: Textual amendment: Sch. 6 para. 30 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts.](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-79f18fd8318d26212a2736e2cda54648]: Textual amendment: Sch. 6 para. 30 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts.](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c1420079]: Commencement: Sch. 6 para. 31 wholly in force; Sch. 6 para. 31 not in force at Royal Assent see s. 39; Sch. 6 para. 31 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
 [^c1420080]: Commencement: Sch. 6 para. 32 wholly in force; Sch. 6 para. 32 not in force at Royal Assent see s. 39; Sch. 6 para. 32 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
-[^key-884ee742881d9526623affddd1e56387]: Textual amendment: [Sch. 6 paras. 33-56](https://www.legislation.gov.uk/ukpga/2001/19/schedule/6/paragraph/33) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-884ee742881d9526623affddd1e56387]: Textual amendment: [Sch. 6 paras. 33-56](https://www.legislation.gov.uk/ukpga/2001/19/schedule/6/paragraph/33) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1420101]: Commencement: Sch. 6 para. 57 wholly in force; Sch. 6 para. 57 not in force at Royal Assent see s. 39; Sch. 6 para. 57 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
 [^c1420102]: Commencement: Sch. 6 para. 58 wholly in force; Sch. 6 para. 58 not in force at Royal Assent see s. 39; Sch. 6 para. 58 in force at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
-[^key-0d75a6632753ff809cb88bb023ca5fd7]: Textual amendment: Sch. 6 para. 59 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-0d75a6632753ff809cb88bb023ca5fd7]: Textual amendment: Sch. 6 para. 59 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)

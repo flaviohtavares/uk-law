@@ -50,7 +50,7 @@ The variation to the Hampshire Fire Services Combination Scheme has been propose
 
 The variation to the Dorset and Wiltshire Fire and Rescue Authority Combination Scheme has been proposed by the Dorset and Wiltshire Fire and Rescue Authority[^f00004].
 
-## 1. Citation and commencement[^key-0d8d33bf29c42a98be54b2777cac4eea]
+## 1. Citation and commencement[^c-0d8d33bf29c42a98be54b2777cac4eea]
 
 (1) This Order may be cited as the Fire and Rescue Authority (Membership) Order 2017.
 
@@ -60,7 +60,7 @@ The variation to the Dorset and Wiltshire Fire and Rescue Authority Combination 
 
 (4) Article 4 comes into force on 6th June 2018.
 
-## 2. Amendment to the Local Government Act 1985[^key-f4a22d3de23308266190cb4613c3f2a7]
+## 2. Amendment to the Local Government Act 1985[^c-f4a22d3de23308266190cb4613c3f2a7]
 
 (1) The Local Government Act 1985 is amended as follows.
 
@@ -74,11 +74,11 @@ The variation to the Dorset and Wiltshire Fire and Rescue Authority Combination 
 - (f) in the entry for Walsall for “3” substitute “2”;
 - (g) in the entry for Wolverhampton for “3” substitute “2”.
 
-## 3. Variation of the Hampshire Fire Services Combination Scheme[^key-722724f91c0e60321aebee25c60970a7]
+## 3. Variation of the Hampshire Fire Services Combination Scheme[^c-722724f91c0e60321aebee25c60970a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Variation of the Dorset and Wiltshire Fire and Rescue Authority Combination Scheme[^key-8596796c994d24eac7e200e71b6b6e80]
+## 4. Variation of the Dorset and Wiltshire Fire and Rescue Authority Combination Scheme[^c-8596796c994d24eac7e200e71b6b6e80]
 
 The Dorset and Wiltshire Fire and Rescue Authority Combination Scheme set out in the Schedule to the Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015[^f00007] is varied in accordance with Schedule 2 to this Order.
 
@@ -90,41 +90,41 @@ Home Office
 
 28th November 2017
 
-## SCHEDULE 1[^key-473b7a5e4513a6245dff939b03255b65]
+## SCHEDULE 1[^c-473b7a5e4513a6245dff939b03255b65]
 
 **No longer in force.**
 
 Article 3
 
-**1.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Variation of Part 1 of the Scheme[^key-473b7a5e4513a6245dff939b03255b65]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Variation of Part 3 of the Scheme[^key-473b7a5e4513a6245dff939b03255b65]
+### 2. Variation of Part 1 of the Scheme[^c-473b7a5e4513a6245dff939b03255b65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 3. Variation of Part 3 of the Scheme[^c-473b7a5e4513a6245dff939b03255b65]
 
-**5.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-473b7a5e4513a6245dff939b03255b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2
 
 Article 4
 
-**1.**[^key-a8f223094706827b99116f60db540602] In this Schedule “the Scheme” means the Dorset and Wiltshire Fire and Rescue Authority Combination Scheme set out in the Schedule to the Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015.
+**1.**[^c-a8f223094706827b99116f60db540602] In this Schedule “the Scheme” means the Dorset and Wiltshire Fire and Rescue Authority Combination Scheme set out in the Schedule to the Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015.
 
-### 2. Variation of Part 3 of the Scheme[^key-98789b9c786942745291cb928050e575]
+### 2. Variation of Part 3 of the Scheme[^c-98789b9c786942745291cb928050e575]
 
 In paragraph 6(1) for “30 members” substitute—
 
@@ -132,7 +132,7 @@ In paragraph 6(1) for “30 members” substitute—
 
 .
 
-**3.**[^key-819e5b7bba9f2eb88b9fa85848355c7d] For paragraph 7 substitute—
+**3.**[^c-819e5b7bba9f2eb88b9fa85848355c7d] For paragraph 7 substitute—
 
 > **7.** (1) Each constituent authority shall appoint 2 representatives to be members of the Authority.
 >
@@ -164,22 +164,22 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00004]: Footnote: In accordance with section 2(6A) of the Fire and Rescue Services Act 2004 inserted by paragraphs 16(1) and (2) of Schedule 22 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20),the duty on the Secretary of State in section 2(6) of the 2004 Act in relation to consultation does not apply.
 
-[^key-0d8d33bf29c42a98be54b2777cac4eea]: Commencement: Art. 1 in force at 22.12.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/2)
+[^c-0d8d33bf29c42a98be54b2777cac4eea]: Commencement: Art. 1 in force at 22.12.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/2)
 
-[^key-f4a22d3de23308266190cb4613c3f2a7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/1165/article/2) in force at 25.6.2018, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/3)
+[^c-f4a22d3de23308266190cb4613c3f2a7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/1165/article/2) in force at 25.6.2018, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/3)
 
 [^f00005]: Footnote: Paragraph 10 of Part 1 of Schedule 2 to the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36) provides that a reference to “metropolitan fire and civil defence authority” is treated as a reference to a “metropolitan county fire and rescue authority”.
 
-[^key-722724f91c0e60321aebee25c60970a7]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/1165/article/3) omitted (1.4.2021) by virtue of [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 4(1)](https://www.legislation.gov.uk/uksi/2020/186/article/4/1), [para. 1(3)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/3) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2020/186/article/4/3))
+[^c-722724f91c0e60321aebee25c60970a7]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/1165/article/3) omitted (1.4.2021) by virtue of [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 4(1)](https://www.legislation.gov.uk/uksi/2020/186/article/4/1), [para. 1(3)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/3) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2020/186/article/4/3))
 
-[^key-8596796c994d24eac7e200e71b6b6e80]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/1165/article/4) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
+[^c-8596796c994d24eac7e200e71b6b6e80]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/1165/article/4) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
 
 [^f00007]: Footnote: [S.I. 2015/435](https://www.legislation.gov.uk/uksi/2015/435).
 
-[^key-473b7a5e4513a6245dff939b03255b65]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/1165/schedule/1) omitted (1.4.2021) by virtue of [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 4(1)](https://www.legislation.gov.uk/uksi/2020/186/article/4/1), [para. 1(3)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/3) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2020/186/article/4/3))
+[^c-473b7a5e4513a6245dff939b03255b65]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/1165/schedule/1) omitted (1.4.2021) by virtue of [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 4(1)](https://www.legislation.gov.uk/uksi/2020/186/article/4/1), [para. 1(3)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/3) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2020/186/article/4/3))
 
-[^key-a8f223094706827b99116f60db540602]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/1165/schedule/2/paragraph/1) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
+[^c-a8f223094706827b99116f60db540602]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/1165/schedule/2/paragraph/1) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
 
-[^key-98789b9c786942745291cb928050e575]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2017/1165/schedule/2/paragraph/2) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
+[^c-98789b9c786942745291cb928050e575]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2017/1165/schedule/2/paragraph/2) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
 
-[^key-819e5b7bba9f2eb88b9fa85848355c7d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1165/schedule/2/paragraph/3) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)
+[^c-819e5b7bba9f2eb88b9fa85848355c7d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1165/schedule/2/paragraph/3) in force at 6.6.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/1165/article/1/4)

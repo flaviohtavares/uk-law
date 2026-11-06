@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 55(1), (2)(a) and (6) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-4b0b7989bc60bca2792e752127f068cd]
+## 1. Citation and commencement[^c-4b0b7989bc60bca2792e752127f068cd]
 
 These Regulations may be cited as the Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 13th November 2023.
 
-## 2. Amendment of the Construction and Use Regulations[^key-b83938a079171c106ac808a95b469c14]
+## 2. Amendment of the Construction and Use Regulations[^c-b83938a079171c106ac808a95b469c14]
 
 (1) The Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00004] are amended in accordance with paragraphs (2) to (5).
 
@@ -136,9 +136,9 @@ A Regulatory Impact Assessment and Explanatory Memorandum have been produced and
 
 [^f00003]: Footnote: *See* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-4b0b7989bc60bca2792e752127f068cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/168/regulation/1) in operation at 13.11.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/168/regulation/1)
+[^c-4b0b7989bc60bca2792e752127f068cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/168/regulation/1) in operation at 13.11.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/168/regulation/1)
 
-[^key-b83938a079171c106ac808a95b469c14]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/168/regulation/2) in operation at 13.11.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/168/regulation/1)
+[^c-b83938a079171c106ac808a95b469c14]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/168/regulation/2) in operation at 13.11.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/168/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1999 No. 454](https://www.legislation.gov.uk/nisr/1999/454); relevant amending Regulations are [S.R. 2011 No. 20](https://www.legislation.gov.uk/nisr/2011/20), [S.R. 2011 No. 303](https://www.legislation.gov.uk/nisr/2011/303) and [S.R. 2016 No. 160](https://www.legislation.gov.uk/nisr/2016/160)
 

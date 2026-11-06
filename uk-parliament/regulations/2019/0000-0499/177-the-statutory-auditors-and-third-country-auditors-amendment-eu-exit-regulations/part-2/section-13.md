@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13.[^key-891d07128c0f2b101b4d83baa31a8ea5]
+## 13.[^c-891d07128c0f2b101b4d83baa31a8ea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 1224A (restrictions on disclosure) [^c23586291], omit subsection (5).
 
 ## Annotations
 
-[^key-891d07128c0f2b101b4d83baa31a8ea5]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-891d07128c0f2b101b4d83baa31a8ea5]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586291]: Marginal citation: Section 1224A was inserted by regulation 8(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).

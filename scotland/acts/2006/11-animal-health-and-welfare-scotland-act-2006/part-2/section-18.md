@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Responsibility for animals[^key-a54b79efbbc920a671c99b4b852aae4b]
+## 18. Responsibility for animals[^c-a54b79efbbc920a671c99b4b852aae4b]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a54b79efbbc920a671c99b4b852aae4b]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2006/11/section/18) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-a54b79efbbc920a671c99b4b852aae4b]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2006/11/section/18) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Required assignment stage deposit[^key-8dad307d0272d76df8e9b76c544910c8]
+## 81. Required assignment stage deposit[^c-8dad307d0272d76df8e9b76c544910c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dad307d0272d76df8e9b76c544910c8]: Commencement: Reg. 81 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-8dad307d0272d76df8e9b76c544910c8]: Commencement: Reg. 81 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

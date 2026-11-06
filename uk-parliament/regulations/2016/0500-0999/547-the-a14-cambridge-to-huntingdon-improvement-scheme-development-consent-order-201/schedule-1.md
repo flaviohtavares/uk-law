@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-645118d993e4480363f361793d862106]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-645118d993e4480363f361793d862106]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 2
 
 ### In the administrative areas of Cambridgeshire County Council, Huntingdonshire District Council and South Cambridgeshire District Council.
 
-[^key-645118d993e4480363f361793d862106]
+[^c-645118d993e4480363f361793d862106]
 
 The authorised development is situated as follows—
 
@@ -585,4 +585,4 @@ And for the purposes of or in connection with the construction of any of the wor
 
 ## Annotations
 
-[^key-645118d993e4480363f361793d862106]: Commencement: Sch. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-645118d993e4480363f361793d862106]: Commencement: Sch. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

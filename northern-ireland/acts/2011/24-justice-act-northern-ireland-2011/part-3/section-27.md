@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Reports by PCSP to joint committee[^key-07cec4aba5d609c6b4047c153cf667a6]
+## 27. Reports by PCSP to joint committee[^c-07cec4aba5d609c6b4047c153cf667a6]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07cec4aba5d609c6b4047c153cf667a6]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2011/24/section/27) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-07cec4aba5d609c6b4047c153cf667a6]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2011/24/section/27) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

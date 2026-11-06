@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Enforcement of duties[^key-8879ce00cac848552066e36b9f9195f5]
+## 20. Enforcement of duties[^c-8879ce00cac848552066e36b9f9195f5]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8879ce00cac848552066e36b9f9195f5]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/16/section/20) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-8879ce00cac848552066e36b9f9195f5]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/16/section/20) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

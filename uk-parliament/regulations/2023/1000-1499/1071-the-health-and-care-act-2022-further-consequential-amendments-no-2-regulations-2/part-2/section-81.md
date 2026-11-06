@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^key-7c7986d40d7a95565e14235b6dfbc470]
+## 81. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^c-7c7986d40d7a95565e14235b6dfbc470]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c7986d40d7a95565e14235b6dfbc470]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2023/1071/regulation/81) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-7c7986d40d7a95565e14235b6dfbc470]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2023/1071/regulation/81) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00067]: Footnote: [S.I. 2015/570](https://www.legislation.gov.uk/uksi/2015/570), to which there are amendments not relevant to these Regulations.

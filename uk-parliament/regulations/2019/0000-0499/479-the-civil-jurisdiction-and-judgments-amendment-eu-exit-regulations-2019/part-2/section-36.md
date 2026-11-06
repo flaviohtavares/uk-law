@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36.[^key-b4a59c84a91b2d422dd93524d3005296]
+## 36.[^c-b4a59c84a91b2d422dd93524d3005296]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 30 (proceedings in England and Wales or Northern Ireland for torts to
 
 ## Annotations
 
-[^key-b4a59c84a91b2d422dd93524d3005296]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-b4a59c84a91b2d422dd93524d3005296]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

@@ -75,7 +75,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (2) The following provisions of the 1981 Act shall apply for the purposes of this Act as they apply for the purposes of that Act, namely—
 
 - (a) section 41 (regulations and Orders in Council), so far as it relates to the making of regulations;
-- (b)[^key-fe828c121ba658b545a255e4b0a2da52] sections 42, 42A and 42B (registration and naturalisation: formalities, fee and timing), so far as they relate to registration;
+- (b)[^c-fe828c121ba658b545a255e4b0a2da52] sections 42, 42A and 42B (registration and naturalisation: formalities, fee and timing), so far as they relate to registration;
 - (c) section 44 (decisions involving exercise of discretion);
 - (d) section 45 (evidence);
 - (e) section 46 (offences and proceedings);
@@ -85,7 +85,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (3) In the following provisions of the 1981 Act, namely—
 
 - (a) section 37(1)(a) (by virtue of which a person who is a British citizen under that Act has the status of a Commonwealth citizen);
-- (b)[^key-e9b4c4ff2bb5f28fbff95eda2ca4175e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e9b4c4ff2bb5f28fbff95eda2ca4175e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 51(3)(a)(ii) (meaning of “citizen of United Kingdom and Colonies” in certain contexts),
 
 for the words “this Act” there shall be substituted the words “the British Nationality Acts 1981 and 1983”.
@@ -113,9 +113,9 @@ for the words “this Act” there shall be substituted the words “the British
 
 [^c7566761]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-fe828c121ba658b545a255e4b0a2da52]: Textual amendment: [S. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1983/6/section/4/2/b) substituted (1.1.2004) by [The Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/3)
+[^c-fe828c121ba658b545a255e4b0a2da52]: Textual amendment: [S. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1983/6/section/4/2/b) substituted (1.1.2004) by [The Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/3)
 
-[^key-e9b4c4ff2bb5f28fbff95eda2ca4175e]: Textual amendment: S. 4(3)(b) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1)
+[^c-e9b4c4ff2bb5f28fbff95eda2ca4175e]: Textual amendment: S. 4(3)(b) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1)
 
 [^c7566811]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 

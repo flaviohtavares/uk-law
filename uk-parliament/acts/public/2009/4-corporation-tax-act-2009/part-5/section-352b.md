@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352B. Eliminating tax mismatch for loan relationships with qualifying link[^key-84b65b3ff0d6a6d97c51a07a20dca555][^key-956abecae7a2897662a3a4f9d255729a]
+## 352B. Eliminating tax mismatch for loan relationships with qualifying link[^c-84b65b3ff0d6a6d97c51a07a20dca555][^c-956abecae7a2897662a3a4f9d255729a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ it is to be assumed in applying the amortised cost basis of accounting for the p
 
 ## Annotations
 
-[^key-84b65b3ff0d6a6d97c51a07a20dca555]: Modification: S. 352B: power to amend conferred (with effect in accordance with Sch. 12 paras. 3, 4 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/12/paragraph/5)
+[^c-84b65b3ff0d6a6d97c51a07a20dca555]: Modification: S. 352B: power to amend conferred (with effect in accordance with Sch. 12 paras. 3, 4 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/12/paragraph/5)
 
-[^key-956abecae7a2897662a3a4f9d255729a]: Textual amendment: S. 352B inserted (with effect in accordance with Sch. 12 paras. 3, 4 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2019/1/schedule/12/paragraph/1)
+[^c-956abecae7a2897662a3a4f9d255729a]: Textual amendment: S. 352B inserted (with effect in accordance with Sch. 12 paras. 3, 4 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2019/1/schedule/12/paragraph/1)

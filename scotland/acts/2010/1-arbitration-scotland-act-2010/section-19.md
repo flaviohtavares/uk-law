@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Recognition and enforcement of New York Convention awards[^key-878cdc3f5ecff510a8d1273ede36b33a]
+## 19. Recognition and enforcement of New York Convention awards[^c-878cdc3f5ecff510a8d1273ede36b33a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-878cdc3f5ecff510a8d1273ede36b33a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2010/1/section/19) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-878cdc3f5ecff510a8d1273ede36b33a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2010/1/section/19) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

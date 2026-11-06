@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.1. Part not to apply where claimant uses Part 8 procedure[^key-a0c026b05ceb6edf957d3e1ef6fc9787]
+## 15.1. Part not to apply where claimant uses Part 8 procedure[^c-a0c026b05ceb6edf957d3e1ef6fc9787]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part does not apply where the claimant uses the procedure set out in Part 8
 
 ## Annotations
 
-[^key-a0c026b05ceb6edf957d3e1ef6fc9787]: Textual amendment: Pt. 15 substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/783/schedule/1)
+[^c-a0c026b05ceb6edf957d3e1ef6fc9787]: Textual amendment: Pt. 15 substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/783/schedule/1)

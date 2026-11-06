@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 204. Warrants (general provisions)[^key-082c2c293c175f1567e6badeace4ce7f]
+## 204. Warrants (general provisions)[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-082c2c293c175f1567e6badeace4ce7f]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2009/64) revoked (1.4.2009) by [The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009 (S.R. 2009/122)](https://www.legislation.gov.uk/nisr/2009/122), [art. 1(1)](https://www.legislation.gov.uk/nisr/2009/122/article/1/1)[(2)](https://www.legislation.gov.uk/nisr/2009/122/article/1/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2009/122/article/3))
+[^c-082c2c293c175f1567e6badeace4ce7f]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2009/64) revoked (1.4.2009) by [The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009 (S.R. 2009/122)](https://www.legislation.gov.uk/nisr/2009/122), [art. 1(1)](https://www.legislation.gov.uk/nisr/2009/122/article/1/1)[(2)](https://www.legislation.gov.uk/nisr/2009/122/article/1/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2009/122/article/3))

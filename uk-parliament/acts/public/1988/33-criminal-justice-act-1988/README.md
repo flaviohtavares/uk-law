@@ -76,7 +76,7 @@ An Act to make fresh provision for extradition; to amend the rules of evidence i
 - [Section 34 — Abolition of requirement of corroboration for unsworn evidence of children.](part-iii/section-34.md)
 - [Section 34A — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-34a.md)
 
-### Part IV — Reviews of Sentencing[^c12786531][^c12786541][^c19022251][^key-3ff3d83bd043c3bf3e445634331ba12c][^key-53aa14393d6c72527f7336d359ce97c0][^key-5dad9d09df2712ad75b136875b1a6b18][^key-b814ddfc99e8341297427a6a2cbf1c82]
+### Part IV — Reviews of Sentencing[^c12786531][^c12786541][^c19022251][^c-3ff3d83bd043c3bf3e445634331ba12c][^c-53aa14393d6c72527f7336d359ce97c0][^c-5dad9d09df2712ad75b136875b1a6b18][^c-b814ddfc99e8341297427a6a2cbf1c82]
 
 *Extent: E+W+N.I.*
 
@@ -477,13 +477,13 @@ SCHEDULES
 
     Pt IV (ss. 35-36) applied (16.5.2006) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order 2006 (S.I. 2006/1116)](https://www.legislation.gov.uk/uksi/2006/1116), [art. 2](https://www.legislation.gov.uk/uksi/2006/1116/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1116/schedule/1) (as amended (29.1.2018) by [The Criminal Justice Act 1988 (Reviews of Sentencing) (Amendment No. 2) Order 2017 (S.I. 2017/1328)](https://www.legislation.gov.uk/uksi/2017/1328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1328/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1328/article/2))
 
-[^key-3ff3d83bd043c3bf3e445634331ba12c]: Modification: Pt. IV applied (N.I.) (1.2.2012) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2011 (S.R. 2011/428)](https://www.legislation.gov.uk/nisr/2011/428), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/428/article/1/1), [2](https://www.legislation.gov.uk/nisr/2011/428/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/428/schedule)
+[^c-3ff3d83bd043c3bf3e445634331ba12c]: Modification: Pt. IV applied (N.I.) (1.2.2012) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2011 (S.R. 2011/428)](https://www.legislation.gov.uk/nisr/2011/428), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/428/article/1/1), [2](https://www.legislation.gov.uk/nisr/2011/428/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/428/schedule)
 
-[^key-53aa14393d6c72527f7336d359ce97c0]: Modification: Pt. IV applied (N.I.) (9.12.2013) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2013 (S.R. 2013/249)](https://www.legislation.gov.uk/nisr/2013/249), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/249/article/1/1), [2](https://www.legislation.gov.uk/nisr/2013/249/article/2)
+[^c-53aa14393d6c72527f7336d359ce97c0]: Modification: Pt. IV applied (N.I.) (9.12.2013) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2013 (S.R. 2013/249)](https://www.legislation.gov.uk/nisr/2013/249), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/249/article/1/1), [2](https://www.legislation.gov.uk/nisr/2013/249/article/2)
 
-[^key-5dad9d09df2712ad75b136875b1a6b18]: Modification: Pt. IV applied (N.I.) (1.4.2016) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2016 (S.R. 2016/58)](https://www.legislation.gov.uk/nisr/2016/58), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/58/article/1/1), [2](https://www.legislation.gov.uk/nisr/2016/58/article/2)
+[^c-5dad9d09df2712ad75b136875b1a6b18]: Modification: Pt. IV applied (N.I.) (1.4.2016) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2016 (S.R. 2016/58)](https://www.legislation.gov.uk/nisr/2016/58), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/58/article/1/1), [2](https://www.legislation.gov.uk/nisr/2016/58/article/2)
 
-[^key-b814ddfc99e8341297427a6a2cbf1c82]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1988/33/part/IV) applied (1.8.2019) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2019 (S.R. 2019/131)](https://www.legislation.gov.uk/nisr/2019/131), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/131/article/1/1), [2](https://www.legislation.gov.uk/nisr/2019/131/article/2)
+[^c-b814ddfc99e8341297427a6a2cbf1c82]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1988/33/part/IV) applied (1.8.2019) by [The Criminal Justice Act 1988 (Reviews of Sentencing) Order (Northern Ireland) 2019 (S.R. 2019/131)](https://www.legislation.gov.uk/nisr/2019/131), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/131/article/1/1), [2](https://www.legislation.gov.uk/nisr/2019/131/article/2)
 
 [^c12788031]: Modification: Part VI (ss. 71 to 103) modified: (29.12.1991) by [S.I. 1991/2873](https://www.legislation.gov.uk/uksi/1991/2873), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/2873/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2873/schedule/2); and (1.9.1995) by [S.I. 1995/1968](https://www.legislation.gov.uk/uksi/1995/1968), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1968/article/2/1)
 

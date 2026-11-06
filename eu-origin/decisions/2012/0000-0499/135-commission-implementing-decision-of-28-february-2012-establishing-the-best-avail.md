@@ -95,7 +95,7 @@ HAS ADOPTED THIS DECISION:
 
 The BAT conclusions for iron and steel production are set out in the Annex to this Decision.
 
-## Article 2. Application and Interpretation[^key-27e82c9d40b917275228bb7dac4edde6]
+## Article 2. Application and Interpretation[^c-27e82c9d40b917275228bb7dac4edde6]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -1715,7 +1715,7 @@ BAT is to reduce noise emissions from electric arc furnace (EAF) installations a
 
 [^f00003]: Footnote: http://circa.europa.eu/Public/irc/env/ied/library?l=/ied\_art\_13\_forum/opinions\_article
 
-[^key-27e82c9d40b917275228bb7dac4edde6]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2012/135/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27e82c9d40b917275228bb7dac4edde6]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2012/135/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: In some cases, TOC is measured instead of COD (in order to avoid HgCl<sub>2</sub> used in the analysis for COD). The correlation between COD and TOC should be elaborated for each sinter plant case by case. The COD/TOC ratio may vary approximately between two and four.
 

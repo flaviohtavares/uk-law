@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Claimants receiving certain treatment[^key-a009985a1c328af540ef7a216579e568]
+## 22. Claimants receiving certain treatment[^c-a009985a1c328af540ef7a216579e568]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ but the days of treatment or recovery from that treatment or both need not be co
 
 ## Annotations
 
-[^key-a009985a1c328af540ef7a216579e568]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/219/regulation/22) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-a009985a1c328af540ef7a216579e568]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/219/regulation/22) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

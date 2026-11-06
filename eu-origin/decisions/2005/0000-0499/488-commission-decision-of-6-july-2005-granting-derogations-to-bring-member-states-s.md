@@ -39,22 +39,22 @@ granting derogations to bring Member States' statistical systems into conformity
 
 (2005/488/EC) (revoked)
 
-[^key-d1be9eb00f1d12472773e67605d9b578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1be9eb00f1d12472773e67605d9b578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d1be9eb00f1d12472773e67605d9b578] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d1be9eb00f1d12472773e67605d9b578] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d1be9eb00f1d12472773e67605d9b578] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d1be9eb00f1d12472773e67605d9b578] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1be9eb00f1d12472773e67605d9b578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1be9eb00f1d12472773e67605d9b578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d1be9eb00f1d12472773e67605d9b578]
+## ANNEX[^c-d1be9eb00f1d12472773e67605d9b578]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1be9eb00f1d12472773e67605d9b578]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/50)
+[^c-d1be9eb00f1d12472773e67605d9b578]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/50)

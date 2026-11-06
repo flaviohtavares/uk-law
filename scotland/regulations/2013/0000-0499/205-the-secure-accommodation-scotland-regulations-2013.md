@@ -87,11 +87,11 @@ Where a child is in secure accommodation the managers, in consultation with the 
 
 ## 5. Maximum period in secure accommodation
 
-(1)[^key-eeb8b3a84cdf6bf5686fc077c7d2f87d] Subject to regulation 10(6) the maximum period during which a child may be kept in secure accommodation without the authority of the children's hearing or the sheriff is an aggregate of 72 hours (whether or not consecutive) in any period of 28 consecutive days.
+(1)[^c-eeb8b3a84cdf6bf5686fc077c7d2f87d] Subject to regulation 10(6) the maximum period during which a child may be kept in secure accommodation without the authority of the children's hearing or the sheriff is an aggregate of 72 hours (whether or not consecutive) in any period of 28 consecutive days.
 
 (2) Any time accrued, prior to the relevant date, for the purposes of regulation 5 of the 1996 Regulations is deemed to be time accrued for the purposes of this regulation.
 
-(3)[^key-53aa4813645c0735b7efd9353cce9fc2] This regulation does not apply in relation to a child placed in secure accommodation in Scotland under section 25 of the Children Act 1989 (which allows accommodation in Scotland to be used for restricting the liberty of children looked after by English and Welsh local authorities).
+(3)[^c-53aa4813645c0735b7efd9353cce9fc2] This regulation does not apply in relation to a child placed in secure accommodation in Scotland under section 25 of the Children Act 1989 (which allows accommodation in Scotland to be used for restricting the liberty of children looked after by English and Welsh local authorities).
 
 ## 6. Information to be supplied to children's hearing by a local authority recommending the inclusion of a secure accommodation authorisation
 
@@ -154,11 +154,11 @@ A local authority may only submit a report to the children's hearing which recom
 - (a) each relevant person in respect of the child;
 - (b) the Principal Reporter.
 
-(6)[^key-f8bd875fdd58d5bfb1abb459708be9ae] Where a child has been placed in secure accommodation in accordance with paragraph (1), the Principal Reporter must—
+(6)[^c-f8bd875fdd58d5bfb1abb459708be9ae] Where a child has been placed in secure accommodation in accordance with paragraph (1), the Principal Reporter must—
 
 - (a) where an interim compulsory supervision order was made by a children's hearing under section 92 or 120 of the 2011 Act, arrange a children's hearing to take place under section 119 of the 2011 Act before the expiry of the period of 72 hours of the child being placed in secure accommodation;
 - (b) where an interim compulsory supervision order was made by a children's hearing under section 93 or 96 of the 2011 Act, arrange a children's hearing to take place under section 96(2) of the 2011 Act before the expiry of the period of 72 hours of the child being placed in secure accommodation;
-- (ba)[^key-33b6ed0f764a69f2f78ef5734eac25cb] where an interim compulsory supervision order was made by a children’s hearing under section 95(4) of the 2011 Act, arrange for the children’s hearing which the grounds hearing has required the Reporter to arrange under section 95(2) of the 2011 Act to take place before the expiry of the period of 72 hours of the child being placed in secure accommodation;
+- (ba)[^c-33b6ed0f764a69f2f78ef5734eac25cb] where an interim compulsory supervision order was made by a children’s hearing under section 95(4) of the 2011 Act, arrange for the children’s hearing which the grounds hearing has required the Reporter to arrange under section 95(2) of the 2011 Act to take place before the expiry of the period of 72 hours of the child being placed in secure accommodation;
 - (c) where an interim compulsory supervision order was made by a children's hearing under section 96 of the 2011 Act and the children's hearing would be prevented from making a further interim compulsory supervision order by virtue of section 96(4) of the 2011 Act, make an application for an extension or variation of the interim compulsory supervision order under section 98 of the 2011 Act;
 - (d) where an interim compulsory supervision order was made by the sheriff under section 98, 99 or 100 of the 2011 Act, apply before the expiry of the period of 72 hours of the child being placed in secure accommodation to the sheriff for a further extension of the interim compulsory supervision order under section 99 of the 2011 Act;
 - (e) where the interim compulsory supervision order was made by the sheriff under section 109, 115 or 117 of the 2011 Act, arrange a children's hearing to take place under section 119 of the 2011 Act before the expiry of the period of 72 hours of the child being placed in secure accommodation; or
@@ -245,7 +245,7 @@ A local authority may only submit a report to the children's hearing which recom
 
 (6) Paragraph (5) is subject to regulation 13.
 
-## 11A. Appeal against decision to detain a child in secure accommodation[^key-2086bc5028aa066acd600270b231ebe0]
+## 11A. Appeal against decision to detain a child in secure accommodation[^c-2086bc5028aa066acd600270b231ebe0]
 
 (1) This regulation applies where an appeal under section 44A (appeal against detention in secure accommodation) of the Criminal Procedure Act is made.
 
@@ -278,7 +278,7 @@ A local authority may only submit a report to the children's hearing which recom
 (1) Except where paragraph (2) applies, where a child—
 
 - (a) is committed to a local authority under section 51(1)(a)(ii) of the Criminal Procedure Act to be detained in a place of safety chosen by the authority, the child may not be placed or detained in secure accommodation as a place of safety under the section;
-- (b) is to be kept in a place of safety under section 22 or 53 of the Criminal Justice (Scotland) Act 2016[^key-b37a638934dd41dae47e51fea343c3c9] which is a residential establishment provided by a local authority, the child may not be placed or kept in secure accommodation provided in that establishment;
+- (b) is to be kept in a place of safety under section 22 or 53 of the Criminal Justice (Scotland) Act 2016[^c-b37a638934dd41dae47e51fea343c3c9] which is a residential establishment provided by a local authority, the child may not be placed or kept in secure accommodation provided in that establishment;
 - (c) is to be detained under section 216(7) of the Criminal Procedure Act, in a place chosen by a local authority, the child may not be placed or kept in secure accommodation.
 
 (2) This paragraph applies where the chief social work officer of the local authority is satisfied that the requirements mentioned in regulation 11(3)(a) and (b) are met.
@@ -334,7 +334,7 @@ A local authority may only submit a report to the children's hearing which recom
 
 (2) The managers must continue to keep the records with respect to the placement of children in secure accommodation kept in accordance with the 1996 Regulations.
 
-(3)[^key-2bb1b34d086e63777a4f63cf65dcef6d] The managers must provide the Secretary of State or Welsh Ministers, on request, with copies of any records kept under this regulation that relate to a child placed in secure accommodation under section 25 of the Children Act 1989 (which allows local authorities in England or Wales to place children in secure accommodation in Scotland).
+(3)[^c-2bb1b34d086e63777a4f63cf65dcef6d] The managers must provide the Secretary of State or Welsh Ministers, on request, with copies of any records kept under this regulation that relate to a child placed in secure accommodation under section 25 of the Children Act 1989 (which allows local authorities in England or Wales to place children in secure accommodation in Scotland).
 
 ## 16. Revocation
 
@@ -372,20 +372,20 @@ Regulation 3 makes provision about the approval of secure accommodation. Regulat
 
 [^c21822721]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
 
-[^key-eeb8b3a84cdf6bf5686fc077c7d2f87d]: Modification: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2013/205/regulation/5/1) expiry of earlier affecting provision 2020 asp 7, sch. 3 para. 6(2) (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(1)](https://www.legislation.gov.uk/asp/2021/19/section/2/1)[(3)](https://www.legislation.gov.uk/asp/2021/19/section/2/3), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2)
+[^c-eeb8b3a84cdf6bf5686fc077c7d2f87d]: Modification: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2013/205/regulation/5/1) expiry of earlier affecting provision 2020 asp 7, sch. 3 para. 6(2) (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(1)](https://www.legislation.gov.uk/asp/2021/19/section/2/1)[(3)](https://www.legislation.gov.uk/asp/2021/19/section/2/3), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2)
 
-[^key-53aa4813645c0735b7efd9353cce9fc2]: Textual amendment: Reg. 5(3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/10) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
+[^c-53aa4813645c0735b7efd9353cce9fc2]: Textual amendment: Reg. 5(3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/10) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
 
-[^key-f8bd875fdd58d5bfb1abb459708be9ae]: Modification: [Reg. 8(6)](https://www.legislation.gov.uk/ssi/2013/205/regulation/8/6) expiry of earlier affecting provision 2020 asp 7, sch. 3 para. 6(4)(a) (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(1)](https://www.legislation.gov.uk/asp/2021/19/section/2/1)[(3)](https://www.legislation.gov.uk/asp/2021/19/section/2/3), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2)
+[^c-f8bd875fdd58d5bfb1abb459708be9ae]: Modification: [Reg. 8(6)](https://www.legislation.gov.uk/ssi/2013/205/regulation/8/6) expiry of earlier affecting provision 2020 asp 7, sch. 3 para. 6(4)(a) (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(1)](https://www.legislation.gov.uk/asp/2021/19/section/2/1)[(3)](https://www.legislation.gov.uk/asp/2021/19/section/2/3), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2)
 
-[^key-33b6ed0f764a69f2f78ef5734eac25cb]: Textual amendment: Reg. 8(6)(ba) inserted (26.1.2015) by [The Secure Accommodation (Scotland) Amendment Regulations 2015 (S.S.I. 2015/20)](https://www.legislation.gov.uk/ssi/2015/20), [regs. 1](https://www.legislation.gov.uk/ssi/2015/20/regulation/1), [2](https://www.legislation.gov.uk/ssi/2015/20/regulation/2)
+[^c-33b6ed0f764a69f2f78ef5734eac25cb]: Textual amendment: Reg. 8(6)(ba) inserted (26.1.2015) by [The Secure Accommodation (Scotland) Amendment Regulations 2015 (S.S.I. 2015/20)](https://www.legislation.gov.uk/ssi/2015/20), [regs. 1](https://www.legislation.gov.uk/ssi/2015/20/regulation/1), [2](https://www.legislation.gov.uk/ssi/2015/20/regulation/2)
 
 [^c21822731]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-2086bc5028aa066acd600270b231ebe0]: Textual amendment: Reg. 11A inserted (1.2.2016) by [The Secure Accommodation (Scotland) Amendment Regulations 2016 (S.S.I. 2016/45)](https://www.legislation.gov.uk/ssi/2016/45), [regs. 1](https://www.legislation.gov.uk/ssi/2016/45/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/45/regulation/3)
+[^c-2086bc5028aa066acd600270b231ebe0]: Textual amendment: Reg. 11A inserted (1.2.2016) by [The Secure Accommodation (Scotland) Amendment Regulations 2016 (S.S.I. 2016/45)](https://www.legislation.gov.uk/ssi/2016/45), [regs. 1](https://www.legislation.gov.uk/ssi/2016/45/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/45/regulation/3)
 
-[^key-b37a638934dd41dae47e51fea343c3c9]: Textual amendment: Words in reg. 12(1)(b) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 16](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/16) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2))
+[^c-b37a638934dd41dae47e51fea343c3c9]: Textual amendment: Words in reg. 12(1)(b) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 16](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/16) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2))
 
-[^key-2bb1b34d086e63777a4f63cf65dcef6d]: Textual amendment: Reg. 15(3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/11) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
+[^c-2bb1b34d086e63777a4f63cf65dcef6d]: Textual amendment: Reg. 15(3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/11) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
 
 [^c21822741]: Marginal citation: [S.I. 1996/3255](https://www.legislation.gov.uk/uksi/1996/3255).

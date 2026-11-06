@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Seizure of substances without search and seizure warrant[^key-c06c99a85a90dade7cc4f58f3986465b]
+## 56. Seizure of substances without search and seizure warrant[^c-c06c99a85a90dade7cc4f58f3986465b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the officer may seize the substance.
 
 ## Annotations
 
-[^key-c06c99a85a90dade7cc4f58f3986465b]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/9/section/56) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-c06c99a85a90dade7cc4f58f3986465b]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/9/section/56) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

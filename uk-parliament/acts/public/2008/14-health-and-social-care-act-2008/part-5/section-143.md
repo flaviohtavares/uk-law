@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Weighing and measuring of children: England[^c1942120][^key-60a84df990b7bb72d99905e83cc5ec72]
+## 143. Weighing and measuring of children: England[^c1942120][^c-60a84df990b7bb72d99905e83cc5ec72]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c1942120]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2008/14/section/143) partly in force; [s. 143](https://www.legislation.gov.uk/ukpga/2008/14/section/143) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-60a84df990b7bb72d99905e83cc5ec72]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2008/14/section/143) in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 6](https://www.legislation.gov.uk/uksi/2008/2497/article/6)
+[^c-60a84df990b7bb72d99905e83cc5ec72]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2008/14/section/143) in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 6](https://www.legislation.gov.uk/uksi/2008/2497/article/6)

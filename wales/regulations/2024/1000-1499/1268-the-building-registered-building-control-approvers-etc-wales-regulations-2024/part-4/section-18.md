@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Periods within which information on work to which an initial notice relates must be provided[^key-4e9670323cf40cb2f790cf2980209328]
+## 18. Periods within which information on work to which an initial notice relates must be provided[^c-4e9670323cf40cb2f790cf2980209328]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e9670323cf40cb2f790cf2980209328]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/1268/regulation/18) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-4e9670323cf40cb2f790cf2980209328]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/1268/regulation/18) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Lane rental schemes[^key-e065ef981e309f45d0115fc15332b4fa]
+## 21. Lane rental schemes[^c-e065ef981e309f45d0115fc15332b4fa]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e065ef981e309f45d0115fc15332b4fa]: Commencement: Art. 21 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-e065ef981e309f45d0115fc15332b4fa]: Commencement: Art. 21 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00078]: Footnote: [S.I. 2012/425](https://www.legislation.gov.uk/uksi/2012/425).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Combination of polls[^key-41c1e4cd67974d9bb10cb15a0dd4ba09]
+## 13. Combination of polls[^c-41c1e4cd67974d9bb10cb15a0dd4ba09]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41c1e4cd67974d9bb10cb15a0dd4ba09]: Commencement: Art. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-41c1e4cd67974d9bb10cb15a0dd4ba09]: Commencement: Art. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

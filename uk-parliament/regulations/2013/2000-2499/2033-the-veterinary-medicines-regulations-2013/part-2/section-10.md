@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-6ecdc17025407e22c6a7dbada0e6902d] No person may issue an advertisement relating to a relevant substance unless that advertisement—
+(1)[^c-6ecdc17025407e22c6a7dbada0e6902d] No person may issue an advertisement relating to a relevant substance unless that advertisement—
 
 - (a) is set out in such a way that it is clear that the message is an advertisement for the purpose of promoting the supply, sale, prescription, distribution or use of the substance;
 - (b) encourages responsible use of the substance while presenting its characteristics in an objective manner;
@@ -42,7 +42,7 @@ summary: ''
 - (a) the list is sent following a request from the veterinary surgeon to whom it is sent; and
 - (b) the list states clearly that the product does not have a marketing authorisation as a veterinary medicinal product, and may only be prescribed and administered under the cascade.
 
-(4)[^key-677b13b084950761a317abbff104022e] In this regulation, subject to paragraph (5), “**relevant substance**” means—
+(4)[^c-677b13b084950761a317abbff104022e] In this regulation, subject to paragraph (5), “**relevant substance**” means—
 
 - (a) a veterinary medicinal product;
 - (b) a medicinal premix;
@@ -68,8 +68,8 @@ summary: ''
 
 [^M_E_214ad608-0656-460e-ada8-36cc6216e153]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-6ecdc17025407e22c6a7dbada0e6902d]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/1)[(1A)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/1A) substituted for [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/7/a) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
+[^c-6ecdc17025407e22c6a7dbada0e6902d]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/1)[(1A)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/1A) substituted for [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/7/a) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
 
-[^key-677b13b084950761a317abbff104022e]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/4)[(5)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/5) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/7/b) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
+[^c-677b13b084950761a317abbff104022e]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/4)[(5)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/10/5) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/7/b) (with [reg. 201](https://www.legislation.gov.uk/uksi/2024/567/regulation/201))
 
 [^M_E_dc0821c1-c241-4b72-ab85-7c081836d770]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — Aggravation of offences by prejudice
 
-### 1. Aggravation of offences by prejudice[^key-01b6a8b10b8100f85f9444c98ab12a8b]
+### 1. Aggravation of offences by prejudice[^c-01b6a8b10b8100f85f9444c98ab12a8b]
 
 (1) An offence is aggravated by prejudice if—
 
@@ -64,7 +64,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**membership**”, in relation to a group, includes association with members of that group,
 - “**presumed**” means presumed by the offender.
 
-### 2. Consequences of aggravation by prejudice[^key-afac140dbfa6e39a88530e099f384467]
+### 2. Consequences of aggravation by prejudice[^c-afac140dbfa6e39a88530e099f384467]
 
 (1) Subsection (2) applies where it is—
 
@@ -86,7 +86,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 2 — Offence of racially aggravated harassment
 
-### 3. Racially aggravated harassment[^key-f48d3c3bc409cc1f0e50340a39e530b3]
+### 3. Racially aggravated harassment[^c-f48d3c3bc409cc1f0e50340a39e530b3]
 
 (1) A person commits an offence if the person—
 
@@ -122,7 +122,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Offences of stirring up hatred
 
-#### 4. Offences of stirring up hatred[^key-8db6cc729c761fbca254a26b22c768d5]
+#### 4. Offences of stirring up hatred[^c-8db6cc729c761fbca254a26b22c768d5]
 
 (1) A person commits an offence if—
 
@@ -178,7 +178,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Further provision relating to the offences
 
-#### 5. Powers of entry etc. with warrant[^key-e236d79ffc81c79052c4e49ed402ad84]
+#### 5. Powers of entry etc. with warrant[^c-e236d79ffc81c79052c4e49ed402ad84]
 
 (1) A sheriff or justice of the peace may grant a warrant under this section authorising a constable to enter premises if the sheriff or justice of the peace is satisfied, by evidence on oath, that there are reasonable grounds for suspecting—
 
@@ -206,7 +206,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) vehicle, vessel, trailer, aircraft or hovercraft,
   - (iii) tent or moveable structure.
 
-#### 6. Recording conviction for offence under section 4[^key-d545806ff702580a122aebe58bd7cb73]
+#### 6. Recording conviction for offence under section 4[^c-d545806ff702580a122aebe58bd7cb73]
 
 Where a person is convicted of an offence under section 4, the court must—
 
@@ -215,7 +215,7 @@ Where a person is convicted of an offence under section 4, the court must—
 
 the characteristic (or characteristics) to which the offence relates (by reference to it being an offence under section 4(1) or by reference to one or more of the characteristics mentioned in section 4(3)).
 
-#### 7. Forfeiture and disposal of material to which offence relates[^key-696d9681c432365743631870a5184270]
+#### 7. Forfeiture and disposal of material to which offence relates[^c-696d9681c432365743631870a5184270]
 
 (1) Where a person is convicted of an offence under section 4—
 
@@ -229,7 +229,7 @@ the characteristic (or characteristics) to which the offence relates (by referen
 
 (3) For the purposes of subsection (2), the lodging of an application for a stated case or note of appeal against sentence is to be treated as the bringing of an appeal.
 
-#### 8. Individual culpability where organisation commits offence[^key-20c9231101fc1fd082c12d79dab4533a]
+#### 8. Individual culpability where organisation commits offence[^c-20c9231101fc1fd082c12d79dab4533a]
 
 (1) This section applies where—
 
@@ -258,7 +258,7 @@ the characteristic (or characteristics) to which the offence relates (by referen
 </tbody>
 </table>
 
-#### 9. Protection of freedom of expression[^key-d8e70b7a6948eaaad4d61fa24fa325a3]
+#### 9. Protection of freedom of expression[^c-d8e70b7a6948eaaad4d61fa24fa325a3]
 
 For the purposes of section 4(2), behaviour or material is not to be taken to be threatening or abusive solely on the basis that it involves or includes—
 
@@ -275,7 +275,7 @@ For the purposes of section 4(2), behaviour or material is not to be taken to be
 - (c) proselytising, or
 - (d) urging of persons to cease practising their religions.
 
-#### 10. Interpretation of Part 3[^key-470f6258c30bae8070234ed356788192]
+#### 10. Interpretation of Part 3[^c-470f6258c30bae8070234ed356788192]
 
 (1) This section applies for the interpretation of this Part.
 
@@ -293,7 +293,7 @@ For the purposes of section 4(2), behaviour or material is not to be taken to be
 
 ### The characteristics
 
-#### 11. Meaning of the characteristics[^key-ed2153b4a6c344ba9bcb1d4b047c88d6]
+#### 11. Meaning of the characteristics[^c-ed2153b4a6c344ba9bcb1d4b047c88d6]
 
 (1) This section applies for the interpretation of sections 1, 4 and 9.
 
@@ -332,7 +332,7 @@ and references to transgender identity are to be construed accordingly.
 
 and references to variations in sex characteristics are to be construed accordingly.
 
-#### 12. Power to add the characteristic of sex[^key-62fc2a5a488fc2ecd92f133aff8c497c]
+#### 12. Power to add the characteristic of sex[^c-62fc2a5a488fc2ecd92f133aff8c497c]
 
 (1) The Scottish Ministers may by regulations add the characteristic of sex to the list of characteristics in one or more of the following provisions—
 
@@ -359,13 +359,13 @@ and references to variations in sex characteristics are to be construed accordin
 
 ### Providers of information society services
 
-#### 13. Provision in relation to providers of information society services[^key-7a4752c5842f91c6bd433523bc1e3869]
+#### 13. Provision in relation to providers of information society services[^c-7a4752c5842f91c6bd433523bc1e3869]
 
 Schedule 1 makes further provision about offences under sections 3 and 4 in relation to persons providing information society services (as defined in paragraph 4 of that schedule).
 
 ### Reports relating to hate crime
 
-#### 14. Publication of reports on hate crime convictions[^key-7c7c6c5e039c62b01b1d0c4cab058ade]
+#### 14. Publication of reports on hate crime convictions[^c-7c7c6c5e039c62b01b1d0c4cab058ade]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of each reporting year, publish a report on convictions during that reporting year for—
 
@@ -398,7 +398,7 @@ Schedule 1 makes further provision about offences under sections 3 and 4 in rela
 
 (6) In this section, “**reporting year**” means a period of one year ending on 31 March.
 
-#### 15. Publication of reports on hate crime recorded by police[^key-b46f7e9662803c7c8b6fa8cd758d0439]
+#### 15. Publication of reports on hate crime recorded by police[^c-b46f7e9662803c7c8b6fa8cd758d0439]
 
 (1) The chief constable of the Police Service must, as soon as reasonably practicable after the end of each reporting year, provide the information that the Scottish Ministers require in order to publish a report in accordance with this section.
 
@@ -438,7 +438,7 @@ Schedule 1 makes further provision about offences under sections 3 and 4 in rela
 
 ## PART 5 — Abolition of the offence of blasphemy
 
-### 16. Abolition of the offence of blasphemy[^key-a64160ddc8bde50845347348bbf0f70f]
+### 16. Abolition of the offence of blasphemy[^c-a64160ddc8bde50845347348bbf0f70f]
 
 The common law offence of blasphemy is abolished.
 
@@ -458,11 +458,11 @@ The common law offence of blasphemy is abolished.
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of this or any other Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 18. Modifications of enactments[^key-fc3af620de137bb0da7a0c52da4413ec]
+### 18. Modifications of enactments[^c-fc3af620de137bb0da7a0c52da4413ec]
 
 Schedule 2 contains modifications of enactments.
 
-### 19. Crown application: criminal offences[^key-29daa233ec58389a25847b0df0f7f640]
+### 19. Crown application: criminal offences[^c-29daa233ec58389a25847b0df0f7f640]
 
 (1) Nothing in this Act makes the Crown criminally liable.
 
@@ -470,7 +470,7 @@ Schedule 2 contains modifications of enactments.
 
 (3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
 
-### 20. Crown application: powers of entry[^key-1fcc14f62fa3939cbe1e2d1e241cc2f0]
+### 20. Crown application: powers of entry[^c-1fcc14f62fa3939cbe1e2d1e241cc2f0]
 
 (1) A warrant granted under section 5 is exercisable in relation to Crown land specified in column 1 of the following table only with the consent of the person specified in the corresponding entry in column 2 of the table (the “appropriate authority”).
 
@@ -514,7 +514,7 @@ The short title of this Act is the Hate Crime and Public Order (Scotland) Act 20
 
 ### Exceptions for mere conduits
 
-**1.**[^key-fd477243c9b1ddcdceb68a4717a9331f] (1) A service provider does not commit an offence under section 3 or 4 in respect of the information transmitted in the course of providing so much of an information society service as consists in—
+**1.**[^c-fd477243c9b1ddcdceb68a4717a9331f] (1) A service provider does not commit an offence under section 3 or 4 in respect of the information transmitted in the course of providing so much of an information society service as consists in—
 
 - (a) the provision of access to a communication network, or
 - (b) the transmission in a communication network of information provided by a recipient of the service,
@@ -538,7 +538,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Exception for caching
 
-**2.**[^key-2b14c3fece63209da0d6b082c8904843] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
+**2.**[^c-2b14c3fece63209da0d6b082c8904843] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
 
 (2) The service provider does not commit an offence under section 3 or 4 in respect of the automatic, intermediate and temporary storage of information so provided, if—
 
@@ -559,7 +559,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Exception for hosting
 
-**3.**[^key-26d02bb25f258f28a389290acd63a07d] (1) A service provider does not commit an offence under section 3 or 4 in respect of information stored in the course of providing so much of an information society service as consists of the storage of information provided by a recipient of the service, if sub-paragraph (2) or (3) is satisfied.
+**3.**[^c-26d02bb25f258f28a389290acd63a07d] (1) A service provider does not commit an offence under section 3 or 4 in respect of information stored in the course of providing so much of an information society service as consists of the storage of information provided by a recipient of the service, if sub-paragraph (2) or (3) is satisfied.
 
 (2) This sub-paragraph is satisfied if the service provider had no actual knowledge when the information was provided that the storage of the information by the service provider constituted an offence under section 3 or 4 (as the case may be).
 
@@ -569,7 +569,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Interpretation
 
-**4.**[^key-5826ef766c634f414604ed93579c4f7d] In this schedule—
+**4.**[^c-5826ef766c634f414604ed93579c4f7d] In this schedule—
 
 - “**information society services**” has the meaning given in Article 2(a) of Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce),
 - “**recipient**”, in relation to a service, means a person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible,
@@ -581,7 +581,7 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Public Order Act 1986
 
-**1.**[^key-e91d5341e798a1c4dfdddc784bbe4129] (1) The Public Order Act 1986 is amended in accordance with this paragraph.
+**1.**[^c-e91d5341e798a1c4dfdddc784bbe4129] (1) The Public Order Act 1986 is amended in accordance with this paragraph.
 
 (2) Sections 18 to 21 (stirring up racial hatred) are repealed.
 
@@ -604,74 +604,74 @@ include the automatic, intermediate and transient storage of the information tra
 
 ### Criminal Law (Consolidation) (Scotland) Act 1995
 
-**2.**[^key-c057f6ea54984db8a2e9c35d73f23835] Section 50A (racially-aggravated harassment) of the Criminal Law (Consolidation) (Scotland) Act 1995 is repealed.
+**2.**[^c-c057f6ea54984db8a2e9c35d73f23835] Section 50A (racially-aggravated harassment) of the Criminal Law (Consolidation) (Scotland) Act 1995 is repealed.
 
 ### Crime and Disorder Act 1998
 
-**3.**[^key-fb939e05cbf4f0d8501976386b5b765d] Section 96 (offences racially aggravated) of the Crime and Disorder Act 1998 is repealed.
+**3.**[^c-fb939e05cbf4f0d8501976386b5b765d] Section 96 (offences racially aggravated) of the Crime and Disorder Act 1998 is repealed.
 
 ### Criminal Justice (Scotland) Act 2003
 
-**4.**[^key-a4e04873aa2a3c68739b7f025be05ae5] Section 74 (offences aggravated by religious prejudice) of the Criminal Justice (Scotland) Act 2003 is repealed.
+**4.**[^c-a4e04873aa2a3c68739b7f025be05ae5] Section 74 (offences aggravated by religious prejudice) of the Criminal Justice (Scotland) Act 2003 is repealed.
 
 ### Offences (Aggravation by Prejudice) (Scotland) Act 2009
 
-**5.**[^key-216087eddbb140a9bf1ecf452a26be04] The Offences (Aggravation by Prejudice) (Scotland) Act 2009 is repealed.
+**5.**[^c-216087eddbb140a9bf1ecf452a26be04] The Offences (Aggravation by Prejudice) (Scotland) Act 2009 is repealed.
 
 ## Annotations
 
-[^key-01b6a8b10b8100f85f9444c98ab12a8b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/14/section/1) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-01b6a8b10b8100f85f9444c98ab12a8b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/14/section/1) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-afac140dbfa6e39a88530e099f384467]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/14/section/2) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-afac140dbfa6e39a88530e099f384467]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/14/section/2) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-f48d3c3bc409cc1f0e50340a39e530b3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/14/section/3) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-f48d3c3bc409cc1f0e50340a39e530b3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/14/section/3) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-8db6cc729c761fbca254a26b22c768d5]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/14/section/4) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-8db6cc729c761fbca254a26b22c768d5]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/14/section/4) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-e236d79ffc81c79052c4e49ed402ad84]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/14/section/5) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-e236d79ffc81c79052c4e49ed402ad84]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/14/section/5) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-d545806ff702580a122aebe58bd7cb73]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/14/section/6) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-d545806ff702580a122aebe58bd7cb73]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/14/section/6) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-696d9681c432365743631870a5184270]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/14/section/7) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-696d9681c432365743631870a5184270]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/14/section/7) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-20c9231101fc1fd082c12d79dab4533a]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/14/section/8) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-20c9231101fc1fd082c12d79dab4533a]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/14/section/8) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-d8e70b7a6948eaaad4d61fa24fa325a3]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/14/section/9) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-d8e70b7a6948eaaad4d61fa24fa325a3]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/14/section/9) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-470f6258c30bae8070234ed356788192]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/14/section/10) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-470f6258c30bae8070234ed356788192]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/14/section/10) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-ed2153b4a6c344ba9bcb1d4b047c88d6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/14/section/11) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-ed2153b4a6c344ba9bcb1d4b047c88d6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/14/section/11) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-62fc2a5a488fc2ecd92f133aff8c497c]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/14/section/12) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-62fc2a5a488fc2ecd92f133aff8c497c]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/14/section/12) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-7a4752c5842f91c6bd433523bc1e3869]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/14/section/13) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-7a4752c5842f91c6bd433523bc1e3869]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/14/section/13) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-7c7c6c5e039c62b01b1d0c4cab058ade]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/14/section/14) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-7c7c6c5e039c62b01b1d0c4cab058ade]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/14/section/14) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-b46f7e9662803c7c8b6fa8cd758d0439]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/14/section/15) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-b46f7e9662803c7c8b6fa8cd758d0439]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/14/section/15) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-a64160ddc8bde50845347348bbf0f70f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/14/section/16) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-a64160ddc8bde50845347348bbf0f70f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/14/section/16) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-fc3af620de137bb0da7a0c52da4413ec]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/14/section/18) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-fc3af620de137bb0da7a0c52da4413ec]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/14/section/18) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-29daa233ec58389a25847b0df0f7f640]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/14/section/19) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-29daa233ec58389a25847b0df0f7f640]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/14/section/19) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-1fcc14f62fa3939cbe1e2d1e241cc2f0]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/14/section/20) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-1fcc14f62fa3939cbe1e2d1e241cc2f0]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/14/section/20) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-fd477243c9b1ddcdceb68a4717a9331f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/1) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-fd477243c9b1ddcdceb68a4717a9331f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/1) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-2b14c3fece63209da0d6b082c8904843]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/2) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-2b14c3fece63209da0d6b082c8904843]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/2) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-26d02bb25f258f28a389290acd63a07d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/3) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-26d02bb25f258f28a389290acd63a07d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/3) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-5826ef766c634f414604ed93579c4f7d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/4) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-5826ef766c634f414604ed93579c4f7d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/14/schedule/1/paragraph/4) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-e91d5341e798a1c4dfdddc784bbe4129]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-e91d5341e798a1c4dfdddc784bbe4129]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-c057f6ea54984db8a2e9c35d73f23835]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/2) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-c057f6ea54984db8a2e9c35d73f23835]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/2) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-fb939e05cbf4f0d8501976386b5b765d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/3) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-fb939e05cbf4f0d8501976386b5b765d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/3) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-a4e04873aa2a3c68739b7f025be05ae5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/4) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-a4e04873aa2a3c68739b7f025be05ae5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/4) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
-[^key-216087eddbb140a9bf1ecf452a26be04]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/5) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-216087eddbb140a9bf1ecf452a26be04]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/5) in force at 1.4.2024 by [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))

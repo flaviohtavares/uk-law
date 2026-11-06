@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Council Regulation (EU) No 721/2014[^key-92dafdb1a3a9e8a41742ad20738c3ff1]
+## 82. Council Regulation (EU) No 721/2014[^c-92dafdb1a3a9e8a41742ad20738c3ff1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Regulation (EU) No 721/2014 of 16 June 2014 amending Regulation [(EC) No
 
 ## Annotations
 
-[^key-92dafdb1a3a9e8a41742ad20738c3ff1]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-92dafdb1a3a9e8a41742ad20738c3ff1]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

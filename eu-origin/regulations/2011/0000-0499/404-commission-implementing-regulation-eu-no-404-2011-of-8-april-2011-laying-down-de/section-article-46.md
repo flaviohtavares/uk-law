@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 46. Single authority[^key-af758f754351bb4f67f1cfd930a311ef]
+## Article 46. Single authority[^c-af758f754351bb4f67f1cfd930a311ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af758f754351bb4f67f1cfd930a311ef]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/eur/2011/404/article/46) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(42)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af758f754351bb4f67f1cfd930a311ef]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/eur/2011/404/article/46) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(42)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

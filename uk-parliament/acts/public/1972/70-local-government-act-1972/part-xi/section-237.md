@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 237. Offences against byelaws.[^c15125261][^c15125271][^c15125281][^c15125291][^c15125301][^c15125311][^c18867641][^c22561641][^key-0fe5e87c8489a76081a3d89d700d3091][^key-f6dcb37cea839681f0458be1344651f9]
+## 237. Offences against byelaws.[^c15125261][^c15125271][^c15125281][^c15125291][^c15125301][^c15125311][^c18867641][^c22561641][^c-0fe5e87c8489a76081a3d89d700d3091][^c-f6dcb37cea839681f0458be1344651f9]
 
 *Extent: E+W*
 
@@ -62,8 +62,8 @@ Byelaws to which section 236 above applies and byelaws of a class prescribed by 
 
 [^c22561641]: Modification: Ss. 236-238 applied (with modifications) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/31/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-0fe5e87c8489a76081a3d89d700d3091]: Modification: S. 237 applied (10.8.2010) by [The Ryde Pier Harbour Revision Order 2010 (S.I. 2010/1900)](https://www.legislation.gov.uk/uksi/2010/1900), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1900/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/1900/article/3/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2010/1900/article/4))
+[^c-0fe5e87c8489a76081a3d89d700d3091]: Modification: S. 237 applied (10.8.2010) by [The Ryde Pier Harbour Revision Order 2010 (S.I. 2010/1900)](https://www.legislation.gov.uk/uksi/2010/1900), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1900/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/1900/article/3/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2010/1900/article/4))
 
-[^key-f6dcb37cea839681f0458be1344651f9]: Modification: Ss. 236-237 applied (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/33/2)
+[^c-f6dcb37cea839681f0458be1344651f9]: Modification: Ss. 236-237 applied (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/33/2)
 
 [^c19657521]: Textual amendment: Words in s. 237 inserted (27.1.2010) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 129(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/129/4), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/112/article/2/a)

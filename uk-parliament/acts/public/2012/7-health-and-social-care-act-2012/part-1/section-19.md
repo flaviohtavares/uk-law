@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Regulations relating to EU obligations[^key-14a88f66b1dbb731fb7bbce5c6177573][^c2191275]
+## 19. Regulations relating to EU obligations[^c-14a88f66b1dbb731fb7bbce5c6177573][^c2191275]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ After section 6C of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-14a88f66b1dbb731fb7bbce5c6177573]: Commencement: S. 19 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-14a88f66b1dbb731fb7bbce5c6177573]: Commencement: S. 19 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191275]: Commencement: S. 19 partly in force; s. 19 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

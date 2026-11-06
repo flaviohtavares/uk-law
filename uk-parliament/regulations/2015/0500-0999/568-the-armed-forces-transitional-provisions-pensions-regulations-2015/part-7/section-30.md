@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of the Reserve Forces Pension Scheme 2005[^key-f5c3d0797625526e9010b75aacf1b30e]
+## 30. Amendment of the Reserve Forces Pension Scheme 2005[^c-f5c3d0797625526e9010b75aacf1b30e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Reserve Forces Pension Scheme 2005[^f00025] is amended according to the prov
 
 ## Annotations
 
-[^key-f5c3d0797625526e9010b75aacf1b30e]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-f5c3d0797625526e9010b75aacf1b30e]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00025]: Footnote: This pension scheme is established in the Reserve Forces Pension Scheme Regulations 2005.

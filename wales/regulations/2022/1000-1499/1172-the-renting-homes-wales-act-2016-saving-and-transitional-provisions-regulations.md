@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the power conferred on them by section 255(1)(b) of the Renting Homes (Wales) Act 2016[^f00001].
 
-## 1. Title, commencement and interpretation[^key-8957f424d08e2fa4d20fd8748a7d0348]
+## 1. Title, commencement and interpretation[^c-8957f424d08e2fa4d20fd8748a7d0348]
 
 (1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022.
 
@@ -77,7 +77,7 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 ## PART 1 — Possession Proceedings
 
-### 2. Secure tenancies[^key-a07c964e5bd206b94e9747f5777b01d5]
+### 2. Secure tenancies[^c-a07c964e5bd206b94e9747f5777b01d5]
 
 (1) Despite the amendments made by the 2022 Consequential Regulations, the following provisions of the 1985 Act continue to have effect, as they did immediately before the appointed day, in relation to the specified matters—
 
@@ -118,7 +118,7 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 (8) Any savings in this regulation which relate to proceedings commenced before the appointed day and to which section 83(1)(b) of the 1985 Act applies, have effect whether the court dispensed with the requirement to serve a notice before or after the appointed day.
 
-### 3. Assured tenancies[^key-f82539dfd7f25855de9a3050275ba785]
+### 3. Assured tenancies[^c-f82539dfd7f25855de9a3050275ba785]
 
 (1) Despite the amendments made by the 2022 Consequential Regulations, the following provisions of the 1988 Act continue to have effect, as they did immediately before the appointed day, in relation to the specified matters—
 
@@ -159,7 +159,7 @@ whichever is the later.
 
 (8) Any savings in this regulation which relate to proceedings commenced before the appointed day and to which section 8(1)(b) of the 1988 Act applies, have effect whether the court dispensed with the requirement to serve a notice before or after the appointed day.
 
-### 4. Introductory tenancies[^key-907d50be87caf34b6fbc9a3f833f0485]
+### 4. Introductory tenancies[^c-907d50be87caf34b6fbc9a3f833f0485]
 
 (1) Despite the amendments made by the 2022 Consequential Regulations, the following provisions of the 1996 Act continue to have effect, as they did immediately before the appointed day, in relation to the specified matters—
 
@@ -184,7 +184,7 @@ whichever is the earlier.
 
 (6) Any savings in this regulation which relate to a notice served on the tenant in accordance with section 128 of the 1996 Act before the appointed day, have effect whether proceedings were commenced before or after that day.
 
-### 5. Demoted tenancies[^key-6fddd9889129c3a401d1eac13c159e4e]
+### 5. Demoted tenancies[^c-6fddd9889129c3a401d1eac13c159e4e]
 
 (1) Despite the amendments made by the 2022 Consequential Regulations, the following provisions of the 1996 Act continue to have effect, as they did immediately before the appointed day, in relation to the specified matters—
 
@@ -211,7 +211,7 @@ whichever is the earlier.
 
 ## PART 2 — Extension of introductory period
 
-### 6. Review of decision to extend introductory period[^key-19e76da6fa244fd37325959fd3702088]
+### 6. Review of decision to extend introductory period[^c-19e76da6fa244fd37325959fd3702088]
 
 (1) A request for a review made in compliance with section 125B[^f00057] of the 1996 Act (review of decision to extend trial period) before the appointed day has effect as if it were made under paragraph 4 of Schedule 4 to the 2016 Act (landlord’s review of decision to extend introductory tenancy).
 
@@ -219,7 +219,7 @@ whichever is the earlier.
 
 (3) A notification given by the landlord under section 125B(5) of the 1996 Act before the appointed day is to have effect as if it were given under paragraph 4(5) of Schedule 4 to the 2016 Act (and paragraph 5 of Schedule 4 (county court review of decision to extend) applies to a notice under section 125B(5) of the 1996 Act confirming the original decision, or to a failure to give notice in accordance with that section).
 
-### 7. Procedure for reviews of decision to extend introductory period[^key-b63d5479cc53a4d0c987ea08dc53082b]
+### 7. Procedure for reviews of decision to extend introductory period[^c-b63d5479cc53a4d0c987ea08dc53082b]
 
 (1) This regulation applies to a review commenced under section 125B of the 1996 Act before the appointed day (whether it was concluded before or after that day).
 
@@ -229,7 +229,7 @@ whichever is the earlier.
 
 ## PART 3 — Tenancy deposits
 
-### 8. Transitional provisions: deposit schemes[^key-8dcd4282e52cf222767cc0af46140796]
+### 8. Transitional provisions: deposit schemes[^c-8dcd4282e52cf222767cc0af46140796]
 
 The following provisions of the 2016 Act have effect in relation to a tenancy deposit paid in accordance with Chapter 4 of Part 6[^f00059] of the 2004 Act (tenancy deposit schemes) before the appointed day in relation to a tenancy which became an occupation contract on that day, as they apply to a deposit paid by, or on behalf of, the contract-holder under an occupation contract—
 
@@ -237,13 +237,13 @@ The following provisions of the 2016 Act have effect in relation to a tenancy de
 - (b) Schedule 5 (deposit schemes: further provision);
 - (c) paragraph 4 of Schedule 9A[^f00061] (standard contracts: restrictions on giving notice under section 173, under section 186, and under a landlord’s break clause).
 
-### 9. Proceedings relating to tenancy deposits[^key-505a05344dd18700797a89725fb325e7]
+### 9. Proceedings relating to tenancy deposits[^c-505a05344dd18700797a89725fb325e7]
 
 Despite the amendments made by the 2022 Consequential Regulations, section 214(2), (2A), (3), (3A), (4) and (5)[^f00062] of the 2004 Act (proceedings relating to tenancy deposits) continues to have effect, as it did immediately before the appointed day, in relation to applications made to the county court under that section before the appointed day.
 
 ## PART 4 — Rent Determination
 
-### 10. Rent Determination[^key-3add62042f1d8f358d160e8eaa430cca]
+### 10. Rent Determination[^c-3add62042f1d8f358d160e8eaa430cca]
 
 (1) Despite the amendments made by the 2022 Consequential Regulations, the following provisions of the 1988 Act continue to have effect, as they did immediately before the appointed day, in relation to the specified matters—
 
@@ -266,13 +266,13 @@ Despite the amendments made by the 2022 Consequential Regulations, section 214(2
 
 ## PART 5 — Improvements
 
-### 11. Saving provisions: secure tenant’s improvements[^key-1bc63c803ceb3c6ab4ee3ac7d2b5199c]
+### 11. Saving provisions: secure tenant’s improvements[^c-1bc63c803ceb3c6ab4ee3ac7d2b5199c]
 
 (1) The provisions in this regulation have effect despite the amendments made by the 2022 Consequential Regulations and the 2022 Secondary Consequential Regulations.
 
 (2) Sections 97(1) and (3)[^f00072] (tenant’s improvements require consent), 98 (provisions as to consents required by s97), 99 (conditional consent to improvements) and 100[^f00073] (power to reimburse cost of tenant’s improvements) of the 1985 Act continue to have effect after the appointed day in relation to a converted secure contract, as they had effect immediately before that day in relation to a secure tenancy, but only where a request for consent to improvement was made by the tenant before the appointed day (whether such consent is given before or after that day).
 
-### 12. Saving and transitional provisions: compensation for improvements[^key-82365924f9a4d5882772c2e914a694bf]
+### 12. Saving and transitional provisions: compensation for improvements[^c-82365924f9a4d5882772c2e914a694bf]
 
 (1) Section 99B[^f00074] of the 1985 Act (persons qualifying for compensation) and the 1994 Regulations continue to have effect, as they had effect immediately before the appointed day, in relation to improvements carried out by a tenant under a secure tenancy under section 99A of the 1985 Act that came to an end before the appointed day (whether a request for compensation was made before or after the appointed day).
 
@@ -287,7 +287,7 @@ Despite the amendments made by the 2022 Consequential Regulations, section 214(2
 - (a) the Court makes an order for possession on one or more of the grounds in section 157 (breach of contract) or 160 (estate management grounds) of the 2016 Act, or
 - (b) the contract ceases to be a secure contract by virtue of section 116 of the 2016 Act (order imposing periodic standard contract because of prohibited conduct).
 
-### 13. Transitional provisions: right to repair scheme[^key-21e3e77681c7a4112016c08c01122c10]
+### 13. Transitional provisions: right to repair scheme[^c-21e3e77681c7a4112016c08c01122c10]
 
 (1) Where, before the appointed day, the tenant has served a notice claiming the right to repair under paragraph 3 of the Schedule to the 1985 Regulations (tenant’s notice claiming the right to repair), the 1985 Regulations continue to have effect after the appointed day, as they had effect immediately before that day subject to paragraph (2).
 
@@ -295,7 +295,7 @@ Despite the amendments made by the 2022 Consequential Regulations, section 214(2
 
 ## PART 6 — Rent Act 1977
 
-### 14. Saving provisions: protected shorthold tenancies and restricted contracts[^key-961157bdd33e80862de9ec009d721424]
+### 14. Saving provisions: protected shorthold tenancies and restricted contracts[^c-961157bdd33e80862de9ec009d721424]
 
 The following provisions of the 1977 Act continue to have effect, as they did immediately before the appointed day, in relation to the specified matters—
 
@@ -304,13 +304,13 @@ The following provisions of the 1977 Act continue to have effect, as they did im
 
 ## PART 7 — Bankrupt’s estate
 
-### 15. Saving provisions: definition of bankrupt’s estate: assured agricultural occupancies[^key-a0fc216fe3b7ec9d951d18edf414aeb2]
+### 15. Saving provisions: definition of bankrupt’s estate: assured agricultural occupancies[^c-a0fc216fe3b7ec9d951d18edf414aeb2]
 
 Despite the amendments made by the 2022 Consequential Regulations, section 283[^f00077] of the 1986 Act (definition of bankrupt’s estate) continues to have effect, as it did immediately before the appointed day, in relation to an occupation contract which immediately before the appointed day was an assured agricultural occupancy within the meaning of Part 1[^f00078] of the 1988 Act (rented accommodation).
 
 ## PART 8 — Homelessness
 
-### 16. Transitional provision: tenancies and licences to which special rules apply: homelessness[^key-cd013c338b47bde91c6b7cf309b30fc2]
+### 16. Transitional provision: tenancies and licences to which special rules apply: homelessness[^c-cd013c338b47bde91c6b7cf309b30fc2]
 
 (1) This regulation applies where, before the appointed day—
 
@@ -323,13 +323,13 @@ Despite the amendments made by the 2022 Consequential Regulations, section 283[^
 
 ## PART 9 — Housing Benefit and Universal Credit Functions
 
-### 17. Transitional provision: housing benefit functions: local housing allowance determinations[^key-4ef0bd5cbedcdf1d951e0c6463802864]
+### 17. Transitional provision: housing benefit functions: local housing allowance determinations[^c-4ef0bd5cbedcdf1d951e0c6463802864]
 
 (1) For the purpose of determining a local housing allowance under article 4B[^f00079] of and Schedule 3B[^f00080] to the 1997 Order (broad rental market area determinations and local housing allowance determinations), for so long as it is necessary to refer to rents payable before the day on which section 239 of the 2016 Act comes into force, the value of rent which, in the rent officer’s opinion, would have been payable for a category of dwelling, specified in paragraph 1 of Schedule 3B to the 1997 Order, in Wales let under an assured tenancy, is to be deemed to be the rent that would have been payable in relation to the relevant category of dwelling let under a relevant secure or standard contract.
 
 (2) In this regulation “**relevant secure or standard contract**” means a secure or standard contract in relation to which the landlord does not meet the landlord condition in section 80[^f00081] of the 1985 Act.
 
-### 18. Transitional provision: universal credit functions: local housing allowance determinations[^key-d3a3eb907f600bdf3292d0188dae9aeb]
+### 18. Transitional provision: universal credit functions: local housing allowance determinations[^c-d3a3eb907f600bdf3292d0188dae9aeb]
 
 (1) For the purpose of determining a local housing allowance under article 4[^f00082] of and Schedule 1[^f00083] to the 2013 Order (local housing allowance determinations), for so long as it is necessary to refer to rents payable before the day on which section 239 of the 2016 Act comes into force, the value of rent which, in the rent officer’s opinion, would have been payable for a category of dwelling, specified in paragraph 1 of Schedule 1 to the 2013 Order, in Wales let under an assured tenancy, is to be deemed to be the rent that would have been payable in relation to the relevant category of dwelling let under a relevant secure or standard contract.
 
@@ -337,7 +337,7 @@ Despite the amendments made by the 2022 Consequential Regulations, section 283[^
 
 ## PART 10 — General
 
-### 19. General saving provision[^key-cce8ac48c42420aa517f2cb38c437bb0]
+### 19. General saving provision[^c-cce8ac48c42420aa517f2cb38c437bb0]
 
 Any saving of a provision made by these Regulations includes, so far as is required for the operation of the saved provision, the saving of any other provision relating to that provision.
 
@@ -381,7 +381,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1).
 
-[^key-8957f424d08e2fa4d20fd8748a7d0348]: Commencement: Reg. 1 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-8957f424d08e2fa4d20fd8748a7d0348]: Commencement: Reg. 1 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00002]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
@@ -413,7 +413,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: [S.I. 2022/907 (W. 198)](https://www.legislation.gov.uk/wsi/2022/907).
 
-[^key-a07c964e5bd206b94e9747f5777b01d5]: Commencement: Reg. 2 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-a07c964e5bd206b94e9747f5777b01d5]: Commencement: Reg. 2 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00017]: Footnote: Section 83 was substituted by section 147(1) of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), the heading and subsection (1) was amended by section 181 of and paragraph 7(1), (2) and (4) of Part 1 of Schedule 11 to the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). There are other amendments to section 83 of the 1985 Act, none of which is relevant to these Regulations.
 
@@ -453,7 +453,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00035]: Footnote: Section 82(2) was substituted by section 299 of and paragraphs 1 and 2 of Part 1 of Schedule 11 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17) and amended by section 119 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). Subsection (A1) was inserted by section 119 of the Housing and Planning Act 2016 and subsection (1A) was inserted by section 299 of and paragraphs 1 and 2 of Part 1 of Schedule 11 to the Housing and Regeneration Act 2008.
 
-[^key-f82539dfd7f25855de9a3050275ba785]: Commencement: Reg. 3 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-f82539dfd7f25855de9a3050275ba785]: Commencement: Reg. 3 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00036]: Footnote: Section 7 was amended by section 194 of and paragraph 101 of Schedule 11 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), section 41 of the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), section 181 of and paragraph 18 of Part 1 of Schedule 11 to the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), section 162(4) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 299 of and paragraphs 5 and 7 of Part 1 of Schedule 11 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
@@ -481,7 +481,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00048]: Footnote: Section 5(1A) was substituted by section 299 of and paragraphs 5 and 6 of Part 1 of Schedule 11 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-907d50be87caf34b6fbc9a3f833f0485]: Commencement: Reg. 4 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-907d50be87caf34b6fbc9a3f833f0485]: Commencement: Reg. 4 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00049]: Footnote: Section 127 was amended by sections 299 and 321 of and paragraphs 10 and 11 of Part 1 of Schedule 11 and Schedule 16 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
@@ -489,7 +489,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00051]: Footnote: [S.I. 1997/72](https://www.legislation.gov.uk/uksi/1997/72).
 
-[^key-6fddd9889129c3a401d1eac13c159e4e]: Commencement: Reg. 5 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-6fddd9889129c3a401d1eac13c159e4e]: Commencement: Reg. 5 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00052]: Footnote: Section 143D was inserted by section 14(5) of and paragraph 1 of Schedule 1 to the Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38) and amended by sections 299 and 321 of and paragraphs 10 and 13 of Part 1 of Schedule 11 and Schedule 16 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
@@ -501,15 +501,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00056]: Footnote: [S.I. 2005/1228 (W. 86)](https://www.legislation.gov.uk/wsi/2005/1228).
 
-[^key-19e76da6fa244fd37325959fd3702088]: Commencement: Reg. 6 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-19e76da6fa244fd37325959fd3702088]: Commencement: Reg. 6 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00057]: Footnote: Section 125B was inserted by section 179 of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34).
 
-[^key-b63d5479cc53a4d0c987ea08dc53082b]: Commencement: Reg. 7 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-b63d5479cc53a4d0c987ea08dc53082b]: Commencement: Reg. 7 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00058]: Footnote: [S.I. 2006/2983 (W. 274)](https://www.legislation.gov.uk/wsi/2006/2983).
 
-[^key-8dcd4282e52cf222767cc0af46140796]: Commencement: Reg. 8 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-8dcd4282e52cf222767cc0af46140796]: Commencement: Reg. 8 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00059]: Footnote: Chapter 4 of Part 6 was amended by section 128 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), sections 184 and 237 of and Part 30 of Schedule 25 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), sections 31 and 32 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) and section 17 of and paragraph 52 of Part 3 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
@@ -517,11 +517,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00061]: Footnote: Schedule 9A was inserted by section 6 of and Schedule 2 to the Renting Homes (Amendment) (Wales) Act [2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3) and amended by regulations 3, 4 and 5 of the Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 ([S.I. 2022/143 (W. 46)](https://www.legislation.gov.uk/wsi/2022/143)).
 
-[^key-505a05344dd18700797a89725fb325e7]: Commencement: Reg. 9 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-505a05344dd18700797a89725fb325e7]: Commencement: Reg. 9 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00062]: Footnote: Section 214 was amended by sections 184 and 237 of and Part 30 of Schedule 25 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 31 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) and section 17(5) of and paragraph 52 of Part 3 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-3add62042f1d8f358d160e8eaa430cca]: Commencement: Reg. 10 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-3add62042f1d8f358d160e8eaa430cca]: Commencement: Reg. 10 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00063]: Footnote: Section 13(4) was amended by article 6(1) of and paragraphs 80 and 82 of Part 1 of Schedule 1 to the Transfer of Tribunal Functions Order 2013 ([S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036)).
 
@@ -543,33 +543,33 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_F_0951fd50-e803-4de0-a91f-d57979a04336]: Textual amendment: Reg. 10(6) substituted (30.11.2022 at 11 p.m.) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 12 and Consequential Amendment) Regulations 2022 (S.I. 2022/1258)](https://www.legislation.gov.uk/uksi/2022/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1258/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/1258/regulation/6)
 
-[^key-1bc63c803ceb3c6ab4ee3ac7d2b5199c]: Commencement: Reg. 11 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-1bc63c803ceb3c6ab4ee3ac7d2b5199c]: Commencement: Reg. 11 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00072]: Footnote: Section 97 was amended by section 118 of and paragraphs 2 and 12 of Schedule 7 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and section 155 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
 [^f00073]: Footnote: Section 100 was amended by section 194 of and paragraph 66 of Schedule 11 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), sections 103 and 147 of and paragraph 4(2) of Schedule 1 and Part 1 of Schedule 3 to the Housing Grants, Constructions and Regeneration Act [1996 (c. 53)](https://www.legislation.gov.uk/ukpga/1996/53) and articles 12 and 15 of and paragraph 2 of Schedule 4 and Schedule 6 to the Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 ([S.I. 2002/1860](https://www.legislation.gov.uk/uksi/2002/1860)).
 
-[^key-82365924f9a4d5882772c2e914a694bf]: Commencement: Reg. 12 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-82365924f9a4d5882772c2e914a694bf]: Commencement: Reg. 12 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00074]: Footnote: Section 99B was inserted by section 122 of the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28) and amended by sections 81 and 222 of and paragraph 13 of Schedule 18 to the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), sections 81 and 261 of and paragraph 25 of Schedule 8, paragraph 19 of Part 2 of Schedule 9 and Schedule 30 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 66 of and paragraph 54 of Schedule 8 to the Family Law Act [1996 (c. 27)](https://www.legislation.gov.uk/ukpga/1996/27).
 
-[^key-21e3e77681c7a4112016c08c01122c10]: Commencement: Reg. 13 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-21e3e77681c7a4112016c08c01122c10]: Commencement: Reg. 13 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
-[^key-961157bdd33e80862de9ec009d721424]: Commencement: Reg. 14 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-961157bdd33e80862de9ec009d721424]: Commencement: Reg. 14 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00075]: Footnote: Part 3 of the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42) was amended by sections 60(4), 61(4), 63, 68(1) to (3) and 152 of and paragraphs 37, 38 and 64 of Schedule 25 and Schedule 26 to the Housing Act [1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), sections 37, 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and article 2(3) of and Schedule 1 to the Rent (Relief from Phasing) Order 1987 ([S.I. 1987/264](https://www.legislation.gov.uk/uksi/1987/264)).
 
 [^f00076]: Footnote: Part 5 of the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42) was amended by sections 70, 71, 72(1), 140 and 152 of and Part 1 of Schedule 17, Schedule 18, paragraphs 42 to 44 of Schedule 25 and Schedule 26 to the Housing Act [1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), sections 36(4) and 140 of and Part 1 of Schedule 17 and Schedule 18 to the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), sections 35, 37, 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 4 of and paragraph 35 of Schedule 2 to the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 22(2) of and paragraph 3(3) of Schedule 8 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), regulation 5 of Local Government Changes (Rent Act) Regulations 1995 ([S.I. 1995/2451](https://www.legislation.gov.uk/uksi/1995/2451)), article 2(1) of and paragraphs 8 to 10 of Schedule 1 and paragraph 5 of Schedule 2 to the Local Government Finance (Housing) (Consequential Amendments) Order 1993 ([S.I. 1993/651](https://www.legislation.gov.uk/uksi/1993/651)) and article 6(1) of and paragraphs 12 and 19 to 27 of Part 1 of Schedule 1 to the Transfer of Tribunal Functions Order 2013 ([S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036)).
 
-[^key-a0fc216fe3b7ec9d951d18edf414aeb2]: Commencement: Reg. 15 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-a0fc216fe3b7ec9d951d18edf414aeb2]: Commencement: Reg. 15 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00077]: Footnote: Section 283 was amended by section 117(1) of the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), section 71(3) of and paragraphs 1 and 14 of Schedule 19 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and section 126 of and paragraphs 60 and 74 of Part 2 of Schedule 9 to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
 [^f00078]: Footnote: Part 1 was amended by section 2(1) of the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42), section 194 of and paragraphs 101 to 106 and 194 of Schedule 11 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), section 125 of and Schedule 20 to the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), section 4 of and paragraph 79 of Schedule 2 to the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), section 4 of and paragraph 103 of Schedule 2 to the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), section 187 of and Schedule 22 to the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), sections 96 to 100, 103, 104, 150, 151 and 227 of and paragraph 2 of Schedule 8 and Parts 4 and 8 of Schedule 19 to the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), section 66(1) of and paragraph 59(3) of Schedule 8 to the Family Law Act [1996 (c. 27)](https://www.legislation.gov.uk/ukpga/1996/27), sections 129 and 152 of and paragraph 15 of Schedule 15 and Part 4 of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), sections 14, 15 and 16 of the Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), section 222 of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), section 81 of and paragraph 41 of Schedule 8 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), sections 86 and 146 of and paragraph 45 of Schedule 14 and Part 4 of Schedule 23 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), sections 299 and 321(1) of and paragraphs 5 to 9 of Part 1 of Schedule 11 and Schedule 16 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), sections 161 to 164, 195, 222 and 237 of and paragraphs 25 to 27 of Schedule 19, paragraphs 25 to 27 of Schedule 22 and Part 23 of Schedule 25 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 17(5) of and paragraph 52 of Part 3 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), regulation 6 of the Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 ([S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)), sections 6 and 10 of and paragraph 4 of the Schedule to the Prevention of Social Housing Fraud Act [2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), sections 97 and 181(1) of and paragraphs 17 to 19 of Part 1 of Schedule 11 to the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), sections 35 to 40 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), sections 40(6) and 41 of the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), section 63(b) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), regulation 2 of and paragraphs 27 and 28 of the Schedule to the References to Rating (Housing) Regulations 1990 ([S.I. 1990/434](https://www.legislation.gov.uk/uksi/1990/434)), article 2 of and Part 1 of the Schedule to the High Court and County Courts Jurisdiction Order 1991 ([S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724)), article 2(2) of and paragraphs 17 and 18 of Schedule 1 and paragraph 8 of Schedule 2 to the Local Government Finance (Housing) (Consequential Amendments) Order 1993 ([S.I. 1993/651](https://www.legislation.gov.uk/uksi/1993/651)), article 5 of and paragraph 18 of Schedule 2 to the Housing Act 1996 (Consequential Provisions) Order 1996 ([S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325)), article 2 of and paragraph 3 of the Schedule to the Government of Wales Act 1998 (Housing) (Amendments) Order 1999 ([S.I. 1999/61](https://www.legislation.gov.uk/uksi/1999/61)), articles 1 and 2 of the Regulatory Reform (Assured Periodic Tenancies) (Rent Increases) Order 2003 ([S.I. 2003/259](https://www.legislation.gov.uk/uksi/2003/259)), article 5 of and paragraphs 63 to 67 of Schedule 2 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 ([S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866)), article 4 of and paragraphs 36 to 39 of Schedule 1 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 ([S.I. 2008/3002](https://www.legislation.gov.uk/uksi/2008/3002)), article 6(1) of and paragraphs 80 to 94 of Part 1 of Schedule 1 to the Transfer of Tribunal Functions Order 2013 ([S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036)), article 2 of and paragraph 20 of Schedule 1 to the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 ([S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560)) and regulation 41(a) of and paragraph 12 of Part 1 of Schedule 3 to the Civil Partnership (Opposite-sex Couples) Regulations 2019 ([S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458)).
 
-[^key-cd013c338b47bde91c6b7cf309b30fc2]: Commencement: Reg. 16 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-cd013c338b47bde91c6b7cf309b30fc2]: Commencement: Reg. 16 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
-[^key-4ef0bd5cbedcdf1d951e0c6463802864]: Commencement: Reg. 17 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-4ef0bd5cbedcdf1d951e0c6463802864]: Commencement: Reg. 17 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00079]: Footnote: Article 4B was inserted by article 2 of the Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2003 ([S.I. 2003/2398](https://www.legislation.gov.uk/uksi/2003/2398)), regulation 5 of and paragraph 11 of Schedule 2 to the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 ([S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217)), articles 3 to 6 of the Rent Officers (Housing Benefit Functions) Amendment Order 2007 ([S.I. 2007/2871](https://www.legislation.gov.uk/uksi/2007/2871)), article 2 of the Rent Officers (Housing Benefit Functions) Amendment Order 2008 ([S.I. 2008/587](https://www.legislation.gov.uk/uksi/2008/587)), article 2 of Rent Officers (Housing Benefit Functions) Amendment Order 2010 ([S.I. 2010/2836](https://www.legislation.gov.uk/uksi/2010/2836)), article 2 of the Rent Officers (Housing Benefit Functions) (Amendment) Order 2012 ([S.I. 2012/646](https://www.legislation.gov.uk/uksi/2012/646)), article 2 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2013 ([S.I. 2013/1544](https://www.legislation.gov.uk/uksi/2013/1544)), article 2 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 ([S.I. 2016/1179](https://www.legislation.gov.uk/uksi/2016/1179)), article 2 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 ([S.I. 2020/27](https://www.legislation.gov.uk/uksi/2020/27)), regulation 4 of the Social Security (Coronavirus) (Further Measures) Regulations 2020 ([S.I. 2020/371](https://www.legislation.gov.uk/uksi/2020/371)) and article 2 of the Rent Officers (Housing Benefit and Universal Credit Functions (Amendment and Modification) Order 2021 ([S.I. 2021/1380](https://www.legislation.gov.uk/uksi/2021/1380)).
 
@@ -577,7 +577,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00081]: Footnote: Section 80 was amended by section 24(2) of and paragraph 26 of Part 2 of Schedule 5 to the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), sections 83(2) and 140 of and Schedule 18 to the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), sections 140 and 152 of and paragraph 5 of Schedule 16 and Part 4 of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), sections 195 and 222 of and paragraphs 10 and 13 of Schedule 19 and paragraphs 9 and 11 of Schedule 22 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), article 5 of and paragraph 14 of Schedule 2 to the Housing Act 1996 (Consequential Provisions) Order 1996 ([S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325)), article 4 of and paragraphs 2 and 10 of Schedule 1 to Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 ([S.I. 2008/3002](https://www.legislation.gov.uk/uksi/2008/3002)) and article 5 of and paragraphs 15 and 19 of Schedule 2 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 ([S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866)).
 
-[^key-d3a3eb907f600bdf3292d0188dae9aeb]: Commencement: Reg. 18 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-d3a3eb907f600bdf3292d0188dae9aeb]: Commencement: Reg. 18 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
 
 [^f00082]: Footnote: Article 4 was amended by article 4 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2013 ([S.I. 2013/1544](https://www.legislation.gov.uk/uksi/2013/1544)), article 4 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2014 ([S.I. 2014/3126](https://www.legislation.gov.uk/uksi/2014/3126)), article 4 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 ([S.I. 2015/1753](https://www.legislation.gov.uk/uksi/2015/1753)) and regulation 4 of the Social Security (Coronavirus) (Further Measures) Regulations 2020 ([S.I. 2020/371](https://www.legislation.gov.uk/uksi/2020/371)).
 
@@ -585,4 +585,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00084]: Footnote: Section 80 was amended by section 24(2) of and paragraph 26 of Part 2 of Schedule 5 to the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), sections 83(2) and 140 of and Schedule 18 to the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), sections 140 and 152 of and paragraph 5 of Schedule 16 and Part 4 of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), sections 195 and 222 of and paragraphs 10 and 13 of Schedule 19 and paragraphs 9 and 11 of Schedule 22 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), article 5 of and paragraph 14 of Schedule 2 to the Housing Act 1996 (Consequential Provisions) Order 1996 ([S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325)), article 4 of and paragraphs 2 and 10 of Schedule 1 to Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 ([S.I. 2008/3002](https://www.legislation.gov.uk/uksi/2008/3002)) and article 5 of and paragraphs 15 and 19 of Schedule 2 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 ([S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866)).
 
-[^key-cce8ac48c42420aa517f2cb38c437bb0]: Commencement: Reg. 19 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)
+[^c-cce8ac48c42420aa517f2cb38c437bb0]: Commencement: Reg. 19 in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2)

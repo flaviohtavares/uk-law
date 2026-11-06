@@ -54,8 +54,8 @@ the service provider must justify, in writing, any decision to refuse such a req
 
 (13) Without prejudice to the generality of regulation 32, if a railway undertaking is denied the entitlements conferred on it by this regulation, that railway undertaking has a right of appeal to the Office of Rail and Road in accordance with regulation 32.
 
-(14)[^key-4218e59cb2cc5e91643d40e7502791dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-4218e59cb2cc5e91643d40e7502791dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4218e59cb2cc5e91643d40e7502791dd]: Textual amendment: [Reg. 6(14)](https://www.legislation.gov.uk/uksi/2016/645/regulation/6/14) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/4/2)
+[^c-4218e59cb2cc5e91643d40e7502791dd]: Textual amendment: [Reg. 6(14)](https://www.legislation.gov.uk/uksi/2016/645/regulation/6/14) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/4/2)

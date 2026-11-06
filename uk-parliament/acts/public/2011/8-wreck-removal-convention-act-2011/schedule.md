@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — Wreck Removal Convention[^key-519bfe5504c03254126dbf7ecb84df4f][^key-1dcc1569bbf266830382de694a84a3f2]
+## SCHEDULE — Wreck Removal Convention[^c-519bfe5504c03254126dbf7ecb84df4f][^c-1dcc1569bbf266830382de694a84a3f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -349,6 +349,6 @@ The Schedule referred to in section 1(4) is—
 
 ## Annotations
 
-[^key-519bfe5504c03254126dbf7ecb84df4f]: Commencement: Sch. in force at 5.2.2015 for specified purposes by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2)
+[^c-519bfe5504c03254126dbf7ecb84df4f]: Commencement: Sch. in force at 5.2.2015 for specified purposes by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2)
 
-[^key-1dcc1569bbf266830382de694a84a3f2]: Commencement: Sch. in force at 14.4.2015 in so far as not already in force by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
+[^c-1dcc1569bbf266830382de694a84a3f2]: Commencement: Sch. in force at 14.4.2015 in so far as not already in force by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)

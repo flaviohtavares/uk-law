@@ -37,11 +37,11 @@ Made
 
 The Executive Office, in exercise of the powers conferred by section 10(2) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00001] makes the following Order:
 
-## 1. Citation[^key-a13f73439b152b45247efb9455cdcdc5]
+## 1. Citation[^c-a13f73439b152b45247efb9455cdcdc5]
 
 This Order may be cited as the Period Products (Free Provision) (2022 Act) (Commencement No.1) Order (Northern Ireland) 2023.
 
-## 2. Appointed Day[^key-5e9440c58ad0aa28d3470e5984d816e9]
+## 2. Appointed Day[^c-5e9440c58ad0aa28d3470e5984d816e9]
 
 The day appointed for the coming into operation of section 1(4) and (9) of the Period Products (Free Provision) Act (Northern Ireland) 2022 is 26th June 2023.
 
@@ -63,6 +63,6 @@ This Order appoints 26th June 2023 as the day for the coming into operation of s
 
 [^f00001]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-a13f73439b152b45247efb9455cdcdc5]: Commencement: Art. 1 in operation at made date
+[^c-a13f73439b152b45247efb9455cdcdc5]: Commencement: Art. 1 in operation at made date
 
-[^key-5e9440c58ad0aa28d3470e5984d816e9]: Commencement: Art. 2 in operation at made date
+[^c-5e9440c58ad0aa28d3470e5984d816e9]: Commencement: Art. 2 in operation at made date

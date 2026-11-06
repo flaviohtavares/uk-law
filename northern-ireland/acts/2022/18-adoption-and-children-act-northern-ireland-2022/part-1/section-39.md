@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Child to live with adopters before application[^key-c169eacf67ecbd606c42bffd2ffa314b]
+## 39. Child to live with adopters before application[^c-c169eacf67ecbd606c42bffd2ffa314b]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ the condition is that the child’s home must have been with the applicant or, i
 
 ## Annotations
 
-[^key-c169eacf67ecbd606c42bffd2ffa314b]: Commencement: S. 39 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c169eacf67ecbd606c42bffd2ffa314b]: Commencement: S. 39 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

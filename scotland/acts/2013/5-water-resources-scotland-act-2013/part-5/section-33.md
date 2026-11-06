@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Notification of occupancy[^key-0419e3cb78d198830bd8eec7ed98f7ef][^key-f891361690e4ff1820fa1ec1d80201eb]
+## 33. Notification of occupancy[^c-0419e3cb78d198830bd8eec7ed98f7ef][^c-f891361690e4ff1820fa1ec1d80201eb]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0419e3cb78d198830bd8eec7ed98f7ef]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/5/section/33) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-0419e3cb78d198830bd8eec7ed98f7ef]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/5/section/33) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-f891361690e4ff1820fa1ec1d80201eb]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/5/section/33) in force at 1.1.2017 in so far as not already in force by [S.S.I. 2016/327](https://www.legislation.gov.uk/ssi/2016/327), [art. 2](https://www.legislation.gov.uk/ssi/2016/327/article/2)
+[^c-f891361690e4ff1820fa1ec1d80201eb]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/5/section/33) in force at 1.1.2017 in so far as not already in force by [S.S.I. 2016/327](https://www.legislation.gov.uk/ssi/2016/327), [art. 2](https://www.legislation.gov.uk/ssi/2016/327/article/2)

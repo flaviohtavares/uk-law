@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-1d4234ebfc17a18e67db52a0db117ad7]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 *Extent: E+W*
 
 Article 4
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 In the London Borough of Bexley a project of national significance for which development consent is required by direction under sections 35(1) and 35ZA of the 2008 Act, and associated development under section 115(1)(b) of that Act, comprising—
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 1 – a carbon capture facility, including—**
 
@@ -72,7 +72,7 @@ In the London Borough of Bexley a project of national significance for which dev
   - (xvii) drainage infrastructure; and
   - (xviii) retaining walls and sheet pile walls.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 2 – modification to, and interconnection with, existing generation stations, including—**
 
@@ -90,7 +90,7 @@ In the London Borough of Bexley a project of national significance for which dev
   - (i) internal and external modification to existing plant, equipment and apparatus; and
   - (ii) modification and diversion of watercourses.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 3 – utilities connections and site access works, including—**
 
@@ -102,7 +102,7 @@ In the London Borough of Bexley a project of national significance for which dev
 - (f) electrical, data, optical fibre and telecommunications cables; and
 - (g) modification and diversion of watercourses.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 4 – maritime works, including—**
 
@@ -122,7 +122,7 @@ In the London Borough of Bexley a project of national significance for which dev
   - (xii) internal and external modifications to existing generating station.
 - (c) Work No. 4C – related dredging works within the river Thames for Works No. 4A and 4B including a retaining sheet pile wall and the creation of slopes.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 5 – above ground LCO₂ Pipelines to Work No. 4****, including—**
 
@@ -130,7 +130,7 @@ In the London Borough of Bexley a project of national significance for which dev
 - (b) pipe racks and pipe bridges; and
 - (c) vapour return arm.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 6 – temporary construction compounds and laydown areas including contractor facilities, including—**
 
@@ -162,7 +162,7 @@ In the London Borough of Bexley a project of national significance for which dev
   - (vi) fabrication facilities including site compound and working spaces; and
   - (vii) electrical connections.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 7 – mitigation and enhancement area and improvements to the existing crossness local nature reserve including—**
 
@@ -179,17 +179,17 @@ In the London Borough of Bexley a project of national significance for which dev
 - (k) amenity and education facilities; and
 - (l) stable blocks.
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 8 – rerouting of Thames water access road including any associated apparatus or services.**
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 **Work No. 9 – protective works to land if required as a result of the authorised development.**
 
 ### Ancillary Works
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]
+[^c-1d4234ebfc17a18e67db52a0db117ad7]
 
 For the purposes of or in connection with the construction of any of the works and other development mentioned above, ancillary or related development which does not give rise to any materially new or materially different effects to those assessed in the environmental statement, consisting of—
 
@@ -243,4 +243,4 @@ and further ancillary or related development comprising such other works or oper
 
 ## Annotations
 
-[^key-1d4234ebfc17a18e67db52a0db117ad7]: Commencement: Sch. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-1d4234ebfc17a18e67db52a0db117ad7]: Commencement: Sch. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

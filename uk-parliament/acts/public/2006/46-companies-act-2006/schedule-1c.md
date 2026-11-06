@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1C — Rules of the Takeover Panel: general principles and other provision[^key-43adb60bf5dc9be4cda5d676c6deae8d][^key-a965b5e16dbe7839cbc6b521e156f67a]
+## SCHEDULE 1C — Rules of the Takeover Panel: general principles and other provision[^c-43adb60bf5dc9be4cda5d676c6deae8d][^c-a965b5e16dbe7839cbc6b521e156f67a]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,6 +239,6 @@ in particular in order to prevent the publication or dissemination of false or m
 
 ## Annotations
 
-[^key-43adb60bf5dc9be4cda5d676c6deae8d]: Modification: Sch. 1C applied (31.12.2020) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [Sch. 1 para 14(A1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/A1) (as inserted by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/217/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-43adb60bf5dc9be4cda5d676c6deae8d]: Modification: Sch. 1C applied (31.12.2020) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [Sch. 1 para 14(A1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/A1) (as inserted by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/217/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-a965b5e16dbe7839cbc6b521e156f67a]: Textual amendment: Sch. 1C inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [reg. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/217/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a965b5e16dbe7839cbc6b521e156f67a]: Textual amendment: Sch. 1C inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [reg. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/217/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Urgent safety restrictions: parallel import licences[^key-213cf7cbb184c42266332611aac8c437]
+## 80A. Urgent safety restrictions: parallel import licences[^c-213cf7cbb184c42266332611aac8c437]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The holder of a parallel import licence is guilty of an offence if the holder—
 
 ## Annotations
 
-[^key-213cf7cbb184c42266332611aac8c437]: Textual amendment: Reg. 80A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/1878/regulation/15) and reg. 80A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2014/324/regulation/15)
+[^c-213cf7cbb184c42266332611aac8c437]: Textual amendment: Reg. 80A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/1878/regulation/15) and reg. 80A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2014/324/regulation/15)

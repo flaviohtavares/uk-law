@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115A. Information requirements[^key-9a13f7ae33500b5a7b15d2bbb5ffc419]
+## 115A. Information requirements[^c-9a13f7ae33500b5a7b15d2bbb5ffc419]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a13f7ae33500b5a7b15d2bbb5ffc419]: Textual amendment: [Reg. 115A](https://www.legislation.gov.uk/nisr/2009/373/regulation/115A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2017/7/regulation/15)
+[^c-9a13f7ae33500b5a7b15d2bbb5ffc419]: Textual amendment: [Reg. 115A](https://www.legislation.gov.uk/nisr/2009/373/regulation/115A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2017/7/regulation/15)

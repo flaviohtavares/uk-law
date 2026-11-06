@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Aggressive practices[^key-9a17b49259bfcbdf397ec5b143f4423d][^key-23f49473ce2eea05ed4bbab8dc6cc92d]
+## 228. Aggressive practices[^c-9a17b49259bfcbdf397ec5b143f4423d][^c-23f49473ce2eea05ed4bbab8dc6cc92d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a17b49259bfcbdf397ec5b143f4423d]: Commencement: S. 228 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9a17b49259bfcbdf397ec5b143f4423d]: Commencement: S. 228 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-23f49473ce2eea05ed4bbab8dc6cc92d]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2024/13/section/228) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-23f49473ce2eea05ed4bbab8dc6cc92d]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2024/13/section/228) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendment of article 39A[^key-9ec6943e952aec0c9be4834cb6e69a70]
+## 65. Amendment of article 39A[^c-9ec6943e952aec0c9be4834cb6e69a70]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec6943e952aec0c9be4834cb6e69a70]: Commencement: Reg. 65 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9ec6943e952aec0c9be4834cb6e69a70]: Commencement: Reg. 65 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00049]: Footnote: Article 39A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

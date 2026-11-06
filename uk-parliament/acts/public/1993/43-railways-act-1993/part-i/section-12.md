@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to the following provisions of this section, the Office of Rail and Road[^key-980e4ea8a7f43a835b2f52ba19383db2] may modify the conditions of a licence if the holder of the licence consents to the modifications.
+(1) Subject to the following provisions of this section, the Office of Rail and Road[^c-980e4ea8a7f43a835b2f52ba19383db2] may modify the conditions of a licence if the holder of the licence consents to the modifications.
 
 (1A)[^c18897421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,7 +45,7 @@ and shall, before making the modifications,[^c14097931] consider any representat
 
 ## Annotations
 
-[^key-980e4ea8a7f43a835b2f52ba19383db2]: Textual amendment: Words in s. 12 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/g)
+[^c-980e4ea8a7f43a835b2f52ba19383db2]: Textual amendment: Words in s. 12 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/g)
 
 [^c18897421]: Textual amendment: S. 12 (1A)-(1C) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/5/1) {Sch. 13 Pt. I} (with s. 14(4)(5), Sch. 11 para. 11(2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909) {art. 2}, Sch.
 

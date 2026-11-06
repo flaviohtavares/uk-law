@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Expenses and accounts of Commission.[^c9676591][^key-8d9d8ed73a454973c3145f4094b55f8e]
+## 98. Expenses and accounts of Commission.[^c9676591][^c-8d9d8ed73a454973c3145f4094b55f8e]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 [^c9676591]: Modification: [S. 98(1)(3)-(6)](https://www.legislation.gov.uk/ukpga/1973/65/section/98/1/3) continued (for specified purposes) (1.4.2000) by [S.S.I. 2000/46](https://www.legislation.gov.uk/ssi/2000/46) art. 4
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9676601]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/98/1) substituted for s. 98(1)(a)-(c) (1.4.2000) by [2000 asp 1](https://www.legislation.gov.uk/asp/2000/1), [s. 26](https://www.legislation.gov.uk/asp/2000/1/section/26), [Sch 4 para. 3(5)](https://www.legislation.gov.uk/asp/2000/1/schedule/4/paragraph/3/5); [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 

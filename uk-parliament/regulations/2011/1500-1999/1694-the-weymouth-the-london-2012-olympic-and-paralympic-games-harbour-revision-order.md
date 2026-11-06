@@ -32,7 +32,7 @@ summary: ''
 
 Harbours, Docks, Piers And Ferries
 
-The Weymouth (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (revoked)[^key-7377e43189cb3066d2c5236216e028a7]
+The Weymouth (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (revoked)[^c-7377e43189cb3066d2c5236216e028a7]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 5th August 2011
 
-[^key-7377e43189cb3066d2c5236216e028a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7377e43189cb3066d2c5236216e028a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — PRELIMINARY[^key-7377e43189cb3066d2c5236216e028a7]
+## PART 1 — PRELIMINARY[^c-7377e43189cb3066d2c5236216e028a7]
 
-### 1. Citation, commencement and duration[^key-7377e43189cb3066d2c5236216e028a7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-7377e43189cb3066d2c5236216e028a7]
+### 1. Citation, commencement and duration[^c-7377e43189cb3066d2c5236216e028a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — HARBOUR REGULATION[^key-7377e43189cb3066d2c5236216e028a7]
-
-### 3. Jurisdiction[^key-7377e43189cb3066d2c5236216e028a7]
+### 2. Interpretation[^c-7377e43189cb3066d2c5236216e028a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — MISCELLANEOUS AND GENERAL[^key-7377e43189cb3066d2c5236216e028a7]
+## PART 2 — HARBOUR REGULATION[^c-7377e43189cb3066d2c5236216e028a7]
 
-### 4. Saving[^key-7377e43189cb3066d2c5236216e028a7]
+### 3. Jurisdiction[^c-7377e43189cb3066d2c5236216e028a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7377e43189cb3066d2c5236216e028a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — MISCELLANEOUS AND GENERAL[^c-7377e43189cb3066d2c5236216e028a7]
+
+### 4. Saving[^c-7377e43189cb3066d2c5236216e028a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7377e43189cb3066d2c5236216e028a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7377e43189cb3066d2c5236216e028a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7377e43189cb3066d2c5236216e028a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7377e43189cb3066d2c5236216e028a7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1694) ceases to have effect (9.9.2012) by virtue of [The Weymouth (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (S.I. 2011/1694)](https://www.legislation.gov.uk/uksi/2011/1694), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1694/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2011/1694/article/2/1)
+[^c-7377e43189cb3066d2c5236216e028a7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1694) ceases to have effect (9.9.2012) by virtue of [The Weymouth (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (S.I. 2011/1694)](https://www.legislation.gov.uk/uksi/2011/1694), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1694/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2011/1694/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Residence: merchant seamen.[^c14478581][^c14478591][^c14478601][^c14478611][^key-2d66bb802ddc5608be0dd6839206a0f4]
+## 6. Residence: merchant seamen.[^c14478581][^c14478591][^c14478601][^c14478611][^c-2d66bb802ddc5608be0dd6839206a0f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ For this purpose “**merchant seaman**” means any person not having a service
 
 [^c14478611]: Modification: S. 6 applied (with modifications) (9.4.2001) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1184/schedule/part/I) (as substituted (17.3.2009) by [S.I. 2009/726](https://www.legislation.gov.uk/uksi/2009/726), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/726/regulation/1/1), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/726/regulation/2/3/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/726/schedule))
 
-[^key-2d66bb802ddc5608be0dd6839206a0f4]: Modification: S. 6 applied (with modifications) (S.) (8.8.2013) by [Scottish Independence Referendum (Franchise) Act 2013 (asp 13)](https://www.legislation.gov.uk/asp/2013/13), [ss. 6](https://www.legislation.gov.uk/asp/2013/13/section/6), [13(1)](https://www.legislation.gov.uk/asp/2013/13/section/13/1), [sch. 1 Pts. 1](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/1), [2](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/2) (with [s. 13(2)](https://www.legislation.gov.uk/asp/2013/13/section/13/2))
+[^c-2d66bb802ddc5608be0dd6839206a0f4]: Modification: S. 6 applied (with modifications) (S.) (8.8.2013) by [Scottish Independence Referendum (Franchise) Act 2013 (asp 13)](https://www.legislation.gov.uk/asp/2013/13), [ss. 6](https://www.legislation.gov.uk/asp/2013/13/section/6), [13(1)](https://www.legislation.gov.uk/asp/2013/13/section/13/1), [sch. 1 Pts. 1](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/1), [2](https://www.legislation.gov.uk/asp/2013/13/schedule/1/part/2) (with [s. 13(2)](https://www.legislation.gov.uk/asp/2013/13/section/13/2))
 
 [^c14478621]: Textual amendment: Words in s. 6 substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/2); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

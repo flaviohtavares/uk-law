@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72A. Register entries arising in respect of leases within section 27(2)(b) of the Act granted on or after 19 June 2006[^key-e5cc90217dcf8fed6ac879cbf60cc8d1]
+## 72A. Register entries arising in respect of leases within section 27(2)(b) of the Act granted on or after 19 June 2006[^c-e5cc90217dcf8fed6ac879cbf60cc8d1]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ unless separate application is made in respect of the interests or restriction.
 
 ## Annotations
 
-[^key-e5cc90217dcf8fed6ac879cbf60cc8d1]: Textual amendment: Rule 72A inserted (9.1.2006) by [The Land Registration (Amendment) (No 2) Rules 2005 (S.I. 2005/1982)](https://www.legislation.gov.uk/uksi/2005/1982), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/1982/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2005/1982/rule/6)
+[^c-e5cc90217dcf8fed6ac879cbf60cc8d1]: Textual amendment: Rule 72A inserted (9.1.2006) by [The Land Registration (Amendment) (No 2) Rules 2005 (S.I. 2005/1982)](https://www.legislation.gov.uk/uksi/2005/1982), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/1982/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2005/1982/rule/6)

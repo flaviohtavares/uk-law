@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63A. Code of practice[^key-1b6cc9b71a24e4b9fa3f6457e011dcf2]
+## 63A. Code of practice[^c-1b6cc9b71a24e4b9fa3f6457e011dcf2]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6cc9b71a24e4b9fa3f6457e011dcf2]: Textual amendment: S. 63A inserted (1.4.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 16](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/16); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/30/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2011/30/schedule/2)
+[^c-1b6cc9b71a24e4b9fa3f6457e011dcf2]: Textual amendment: S. 63A inserted (1.4.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 16](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/16); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/30/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2011/30/schedule/2)

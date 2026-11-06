@@ -32,7 +32,7 @@ Housing (Scotland) Act 2006
 
 An Act of the Scottish Parliament to make provision about housing standards; to confer a right to adapt rented houses to meet the needs of disabled occupants; to provide for the giving of assistance by local authorities in connection with work carried out in relation to houses; to require certain information to be made available on the sale of houses; to regulate the multiple occupation of houses and certain other types of living accommodation; to make provision about mobile homes; to make provision about matters to be considered by local authorities when assessing suitability of persons to act as a landlord; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 24th November 2005 and received Royal Assent on 5th January 2006[^key-ffe2114c3c53afa90284bb7e62855f30]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 24th November 2005 and received Royal Assent on 5th January 2006[^c-ffe2114c3c53afa90284bb7e62855f30]
 
 ## Contents
 
@@ -432,4 +432,4 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-ffe2114c3c53afa90284bb7e62855f30]: Modification: [Act](https://www.legislation.gov.uk/asp/2006/1) power to amend conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-ffe2114c3c53afa90284bb7e62855f30]: Modification: [Act](https://www.legislation.gov.uk/asp/2006/1) power to amend conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

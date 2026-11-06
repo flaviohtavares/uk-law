@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Pavement parking prohibition[^key-9ace7386309a1b857df5f8070615744d]
+## 50. Pavement parking prohibition[^c-9ace7386309a1b857df5f8070615744d]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ace7386309a1b857df5f8070615744d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2019/17/section/50) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-9ace7386309a1b857df5f8070615744d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2019/17/section/50) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

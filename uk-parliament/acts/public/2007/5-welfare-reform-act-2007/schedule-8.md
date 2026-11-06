@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Repeals[^c1868545][^key-342fe861c8f25bad8ec15ef18384b4eb][^key-72a2fc531a7d3bfda53044f079ec8148][^key-bfd844c41180e6efbca5cc9ffd29632e][^key-bc3b4d99cd6fd493ecd674e4a0de09f2][^key-fe9645287b381c6664e8acaedcbaa1ba][^key-28a16ac68fe1b45eb4d69f0b88498ebe]
+## SCHEDULE 8 — Repeals[^c1868545][^c-342fe861c8f25bad8ec15ef18384b4eb][^c-72a2fc531a7d3bfda53044f079ec8148][^c-bfd844c41180e6efbca5cc9ffd29632e][^c-bc3b4d99cd6fd493ecd674e4a0de09f2][^c-fe9645287b381c6664e8acaedcbaa1ba][^c-28a16ac68fe1b45eb4d69f0b88498ebe]
 
 *Extent: E+W+S*
 
@@ -57,14 +57,14 @@ Section 67
 
 [^c1868545]: Commencement: Sch. 8 partly in force; Sch. 8 in force at 3.7.2007 for specified purposes see s. 70
 
-[^key-342fe861c8f25bad8ec15ef18384b4eb]: Commencement: Sch. 8 in force at 1.10.2007 for specified purposes by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/e)
+[^c-342fe861c8f25bad8ec15ef18384b4eb]: Commencement: Sch. 8 in force at 1.10.2007 for specified purposes by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/e)
 
-[^key-72a2fc531a7d3bfda53044f079ec8148]: Commencement: Sch. 8 in force at 7.4.2008 for specified purposes by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
+[^c-72a2fc531a7d3bfda53044f079ec8148]: Commencement: Sch. 8 in force at 7.4.2008 for specified purposes by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
 
-[^key-bfd844c41180e6efbca5cc9ffd29632e]: Commencement: Sch. 8 in force at 1.9.2008 for specified purposes by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/2))
+[^c-bfd844c41180e6efbca5cc9ffd29632e]: Commencement: Sch. 8 in force at 1.9.2008 for specified purposes by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/2))
 
-[^key-bc3b4d99cd6fd493ecd674e4a0de09f2]: Commencement: Sch. 8 in force at 7.10.2008 for specified purposes by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/c) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/3))
+[^c-bc3b4d99cd6fd493ecd674e4a0de09f2]: Commencement: Sch. 8 in force at 7.10.2008 for specified purposes by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/c) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/3))
 
-[^key-fe9645287b381c6664e8acaedcbaa1ba]: Commencement: Sch. 8 in force at 27.10.2008 for specified purposes by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(g)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/g)
+[^c-fe9645287b381c6664e8acaedcbaa1ba]: Commencement: Sch. 8 in force at 27.10.2008 for specified purposes by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(g)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/g)
 
-[^key-28a16ac68fe1b45eb4d69f0b88498ebe]: Commencement: Sch. 8 in force at 27.3.2009 for specified purposes by [S.I. 2009/775](https://www.legislation.gov.uk/uksi/2009/775), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/775/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/775/article/3))
+[^c-28a16ac68fe1b45eb4d69f0b88498ebe]: Commencement: Sch. 8 in force at 27.3.2009 for specified purposes by [S.I. 2009/775](https://www.legislation.gov.uk/uksi/2009/775), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/775/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/775/article/3))

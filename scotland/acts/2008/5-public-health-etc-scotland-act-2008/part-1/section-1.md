@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Duty of Scottish Ministers to protect public health[^key-013dbec782cdf48c413681556b2397f5]
+## 1. Duty of Scottish Ministers to protect public health[^c-013dbec782cdf48c413681556b2397f5]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-013dbec782cdf48c413681556b2397f5]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2008/5/section/1) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-013dbec782cdf48c413681556b2397f5]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2008/5/section/1) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

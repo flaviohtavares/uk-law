@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Ancillary powers[^key-669d960c42a24df0a73c359a41df528d]
+## 5. Ancillary powers[^c-669d960c42a24df0a73c359a41df528d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-669d960c42a24df0a73c359a41df528d]: Commencement: S. 5 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-669d960c42a24df0a73c359a41df528d]: Commencement: S. 5 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Applications not decided on 1st April 2004[^key-86b245703c01c3b58638524f1cfc7a4d]
+## 57. Applications not decided on 1st April 2004[^c-86b245703c01c3b58638524f1cfc7a4d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In any case where there was any application, including an application which the 
 
 ## Annotations
 
-[^key-86b245703c01c3b58638524f1cfc7a4d]: Commencement: Art. 57 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-86b245703c01c3b58638524f1cfc7a4d]: Commencement: Art. 57 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

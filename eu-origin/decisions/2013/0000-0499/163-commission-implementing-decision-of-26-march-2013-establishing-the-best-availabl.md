@@ -93,7 +93,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The BAT conclusions for the production of cement, lime and magnesium oxide are set out in the Annex to this Decision.
 
-**Article 2.**[^key-40c03ba63206aaa69fee5a71cad1d7ba] Application and Interpretation
+**Article 2.**[^c-40c03ba63206aaa69fee5a71cad1d7ba] Application and Interpretation
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -2036,7 +2036,7 @@ DESCRIPTION OF TECHNIQUES
 
 [^f00003]: Footnote: http://circa.europa.eu/Public/irc/env/ied/library?l=/ied\_art\_13\_forum/opinions\_article
 
-[^key-40c03ba63206aaa69fee5a71cad1d7ba]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2013/163/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40c03ba63206aaa69fee5a71cad1d7ba]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2013/163/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [OJ L 315, 14.11.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.315.01.0001.01.ENG).
 

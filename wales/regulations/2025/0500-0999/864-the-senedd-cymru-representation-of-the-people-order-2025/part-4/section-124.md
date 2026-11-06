@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Incapacities on conviction of corrupt or illegal practice at a Senedd election[^key-97539538703850355faf139e92c7917b]
+## 124. Incapacities on conviction of corrupt or illegal practice at a Senedd election[^c-97539538703850355faf139e92c7917b]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97539538703850355faf139e92c7917b]: Commencement: Art. 124 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-97539538703850355faf139e92c7917b]: Commencement: Art. 124 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

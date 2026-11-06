@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Rates (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-782eedd811a551e52b04e4a90af1789a]
+Rates (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-782eedd811a551e52b04e4a90af1789a]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 31st December 2005
 
-[^key-782eedd811a551e52b04e4a90af1789a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-782eedd811a551e52b04e4a90af1789a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-782eedd811a551e52b04e4a90af1789a]
+## 1. Citation and commencement[^c-782eedd811a551e52b04e4a90af1789a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rates Regulations (Northern Ireland) 2000[^key-782eedd811a551e52b04e4a90af1789a]
+## 2. Amendment of the Rates Regulations (Northern Ireland) 2000[^c-782eedd811a551e52b04e4a90af1789a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-782eedd811a551e52b04e4a90af1789a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-782eedd811a551e52b04e4a90af1789a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-782eedd811a551e52b04e4a90af1789a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-782eedd811a551e52b04e4a90af1789a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-782eedd811a551e52b04e4a90af1789a]: Textual amendment: Regulations revoked (27.2.2007) by [The Rates Regulations (Northern Ireland) 2007 (S.R. 2007/61)](https://www.legislation.gov.uk/nisr/2007/61), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2007/61/regulation/8/2))
+[^c-782eedd811a551e52b04e4a90af1789a]: Textual amendment: Regulations revoked (27.2.2007) by [The Rates Regulations (Northern Ireland) 2007 (S.R. 2007/61)](https://www.legislation.gov.uk/nisr/2007/61), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2007/61/regulation/8/2))

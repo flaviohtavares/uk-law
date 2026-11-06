@@ -63,8 +63,8 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
 - “**core deposit**” has the meaning given in article 2(2);
 - “**declaration of eligibility**” has the meaning given in article 9(1);
 - “**deposit**” has the meaning given in article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c22188381];
-- [^key-af2d4999f3f99395fd39afbcdf2c0482]...
-- [^key-af2d4999f3f99395fd39afbcdf2c0482]...
+- [^c-af2d4999f3f99395fd39afbcdf2c0482]...
+- [^c-af2d4999f3f99395fd39afbcdf2c0482]...
 - “**eligible individual**” has the meaning given in article 9(1);
 - “**excluded activities and prohibitions order**” means the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014 [^c22188391];
 - “financial year”—
@@ -88,12 +88,12 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
 - “**limited liability partnership**” means a body incorporated under the Limited Liability Partnerships Act 2000 [^c22188471];
 - “**Northern Ireland credit union**” means a credit union as defined in Article 2(2) of the Credit Unions (Northern Ireland) Order 1985;
 - “**Northern Ireland industrial and provident society**” means a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
-- “[^key-201b834a225e388ca37c193d85773210]**the prudential requirements regulation**” means [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms;
+- “[^c-201b834a225e388ca37c193d85773210]**the prudential requirements regulation**” means [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms;
 - “**public body**” means any person certain of whose functions are functions of a public nature;
 - “**qualifying organisation**” has the meaning given in article 3(1);
-- [^key-a9bcedd2008e5c31a2aa9fd8141730b4]...
+- [^c-a9bcedd2008e5c31a2aa9fd8141730b4]...
 - “**qualifying group member**” has the meaning given in article 8(1);
-- [^key-a9bcedd2008e5c31a2aa9fd8141730b4]...
+- [^c-a9bcedd2008e5c31a2aa9fd8141730b4]...
 - “**quarter**” means a period of three months;
 - “**recognised accountant**” means an accountant who is a member of—
   - (a) the Institute of Chartered Accountants in England and Wales,
@@ -104,14 +104,14 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
   - (f) the Chartered Institute of Public Finance and Accountancy, or
   - (g) a professional body for accountants established in a jurisdiction outside the United Kingdom;
 - “**registered society**” has the meaning given in section 1 of the Co-operative and Community Benefit Societies Act 2014;
-- “relevant financial year” in relation to an organisation means—[^key-3a771c35c1e82a7ccf72b0a4ea1a00fd]
+- “relevant financial year” in relation to an organisation means—[^c-3a771c35c1e82a7ccf72b0a4ea1a00fd]
   - ((a)) the last completed financial year for which accounting records are available, or
   - ((b)) where the organisation has existed for less than one financial year, its first financial year;
 - “**securities**” has the meaning given in section 14 of the Banking Act 2009 [^c22188481];
-- “[^key-98429bccfeca0d8ab48320def7660560]**SME**” has the meaning given in article 1(4) of the excluded activities and prohibitions order;
-- “[^key-4d52fa8943560015cc2c6ba4313432c7]**UK account**” has the meaning given in article 2(3)(ba);
+- “[^c-98429bccfeca0d8ab48320def7660560]**SME**” has the meaning given in article 1(4) of the excluded activities and prohibitions order;
+- “[^c-4d52fa8943560015cc2c6ba4313432c7]**UK account**” has the meaning given in article 2(3)(ba);
 - “**UK account holder**” means the holder of a UK account;
-- “**UK deposit-taker**” means a body corporate incorporated in the United Kingdom[^key-a88e6dda5a4794ff403eafe7953f22e0] which carries on the regulated activity of accepting deposits in relation to which it has a permission under Part 4A of the 2000 Act ;[^key-b8649250712388b5a73066a54680002d]
+- “**UK deposit-taker**” means a body corporate incorporated in the United Kingdom[^c-a88e6dda5a4794ff403eafe7953f22e0] which carries on the regulated activity of accepting deposits in relation to which it has a permission under Part 4A of the 2000 Act ;[^c-b8649250712388b5a73066a54680002d]
 - “**undertaking**” includes a company, body corporate, partnership or unincorporated association.
 
 ## PART 2 — Circumstances in which accepting a deposit is not a core activity
@@ -120,10 +120,10 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
 
 (1) In relation to a UK deposit-taker, accepting a deposit is not a core activity unless the deposit is a core deposit.
 
-(2) A deposit is a core deposit if it is held with the UK deposit-taker in a UK account[^key-4a6feab54fe88f3680d5dcbac3c43014] [^key-5fa92b73548455630f50bbdfef033a87]... except where one or more of the account holders is—
+(2) A deposit is a core deposit if it is held with the UK deposit-taker in a UK account[^c-4a6feab54fe88f3680d5dcbac3c43014] [^c-5fa92b73548455630f50bbdfef033a87]... except where one or more of the account holders is—
 
 - (a) a relevant financial institution;
-- (aa)[^key-2fefe8feecfd6cb710cbb6a3887bee21] an SME which is—
+- (aa)[^c-2fefe8feecfd6cb710cbb6a3887bee21] an SME which is—
   - (i) an investment firm,
   - (ii) a UCITS or an alternative investment fund,
   - (iii) a management company or an alternative investment fund manager, or
@@ -131,10 +131,10 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
 
   and for these purposes, “UCITS”, “alternative investment fund”, “management company”, “**alternative investment fund manager**”, “**financial holding company**” and “**mixed financial holding company**” have the meanings given in article 1(4) of the excluded activities and prohibitions order;
 - (b) a qualifying organisation;
-- (c) a qualifying group member; [^key-d6754612191b3b81c91d2ea84598c51e]...
-- (d) an eligible individual; [^key-23a9e50b5084ced50181977f0bdf5331]...[^key-ec76aa74584905d0f616e3206ee218a3]
+- (c) a qualifying group member; [^c-d6754612191b3b81c91d2ea84598c51e]...
+- (d) an eligible individual; [^c-23a9e50b5084ced50181977f0bdf5331]...[^c-ec76aa74584905d0f616e3206ee218a3]
 - (e) a person who is, or at any time within the previous six months has been, subject to financial sanctions;
-- (f)[^key-213489c916f92fe06735bfce4d0d5a81] the central bank of a state or territory other than the United Kingdom;
+- (f)[^c-213489c916f92fe06735bfce4d0d5a81] the central bank of a state or territory other than the United Kingdom;
 - (g) the European Central Bank;
 - (h) the European Union;
 - (i) the European Atomic Energy Community;
@@ -146,18 +146,18 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
 (3) In this article—
 
 - (a) a reference to an account held with a UK deposit-taker is to an account provided by the institution as part of its activity of accepting deposits;
-- (b)[^key-fc97e5f4bab8dd5aaef339dfe28a3352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ba)[^key-da44be8329faa363adfa2cd06bdc2c65] an account is a UK account if it was opened at a branch of the UK deposit-taker located in the United Kingdom;
+- (b)[^c-fc97e5f4bab8dd5aaef339dfe28a3352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-da44be8329faa363adfa2cd06bdc2c65] an account is a UK account if it was opened at a branch of the UK deposit-taker located in the United Kingdom;
 - (c) “**branch**” means a place of business that forms a legally dependent part of the UK deposit-taker and conducts directly all or some of the operations inherent in its business;
 - (d) “**relevant financial institution**” has the meaning given in the excluded activities and prohibitions order;
-- (e)[^key-de0a6a04fb210be8a5a6fb1c2a38442f] “financial sanctions” means any prohibition or obligation imposed under financial sanctions legislation as defined in section 143(4) of the Policing and Crime Act 2017.
+- (e)[^c-de0a6a04fb210be8a5a6fb1c2a38442f] “financial sanctions” means any prohibition or obligation imposed under financial sanctions legislation as defined in section 143(4) of the Policing and Crime Act 2017.
 
-(4)[^key-c5314e1e660429e67f44bf4674e8ffc1] A UK deposit-taker may continue to treat an account holder of that UK deposit-taker as a relevant financial institution for the purposes of this article—
+(4)[^c-c5314e1e660429e67f44bf4674e8ffc1] A UK deposit-taker may continue to treat an account holder of that UK deposit-taker as a relevant financial institution for the purposes of this article—
 
 - (a) for a period of twelve months beginning with the day after the day on which the account holder ceases to satisfy the definition of a relevant financial institution (“the twelve-month period”), or
 - (b) until the date on which the account holder ceases to be an account holder of that UK deposit-taker, where this happens before the end of the twelve-month period.
 
-### 3. Meaning of qualifying organisation[^key-ea5b9cfa68bacff61667ce8d8fd495df]
+### 3. Meaning of qualifying organisation[^c-ea5b9cfa68bacff61667ce8d8fd495df]
 
 (1) An organisation is a qualifying organisation in relation to a UK deposit-taker if that deposit-taker, having made reasonable inquiries, determines that the organisation meets the relevant qualifying condition for the relevant financial year.
 
@@ -166,7 +166,7 @@ In accordance with section 142Z of the Financial Services and Markets Act 2000, 
 - (a) in the case of a body corporate or a partnership, in article 4;
 - (b) in the case of an organisation which is not a body corporate or a partnership, in article 5.
 
-(3)[^key-d0369894211c6e72e65e74e42fc02d6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d0369894211c6e72e65e74e42fc02d6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Qualifying condition for a body corporate or a partnership
 
@@ -185,7 +185,7 @@ Table 1
 (3) The balance sheet total means—
 
 - (a) the aggregate of the amounts shown as assets in the organisation's balance sheet for the relevant financial year; or
-- (b)[^key-334f3c214c5f753f212d2ccfd46f8a39] where the UK deposit-taker—
+- (b)[^c-334f3c214c5f753f212d2ccfd46f8a39] where the UK deposit-taker—
   - (i) makes a determination as to whether the organisation meets the qualifying condition during the organisation’s first financial year; and
   - (ii) at the time the determination is made, the organisation has not yet prepared a balance sheet;
 
@@ -222,21 +222,21 @@ Table 1
 
   includes the gross income of any of those subsidiary undertakings which are charities or CIOs.
 
-### 6. Qualifying organisation declaration accompanied by a confirming statement: requirements for confirming statement[^key-d1289f84dee3824d928ffe072168061a]
+### 6. Qualifying organisation declaration accompanied by a confirming statement: requirements for confirming statement[^c-d1289f84dee3824d928ffe072168061a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Requirements concerning currency when qualifying organisation declaration accompanied by annual accounts[^key-d1289f84dee3824d928ffe072168061a]
+### 7. Requirements concerning currency when qualifying organisation declaration accompanied by annual accounts[^c-d1289f84dee3824d928ffe072168061a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Meaning of qualifying group member[^key-e42c856db8ee94f98d700b62a1ea24e4]
+### 8. Meaning of qualifying group member[^c-e42c856db8ee94f98d700b62a1ea24e4]
 
 (1) An organisation is a qualifying group member in relation to a UK deposit-taker if that deposit-taker determines that the organisation is a member of the same group as a qualifying organisation.
 
-(2)[^key-fa141b893087813dbd0a73374f0484f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fa141b893087813dbd0a73374f0484f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e23b6580f76f1165cdf160de83ee6a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e23b6580f76f1165cdf160de83ee6a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Meaning of eligible individual
 
@@ -294,7 +294,7 @@ and that nothing has come to the recognised accountant's attention which suggest
 (5) The kinds of asset referred to in paragraph (3) are—
 
 - (a) money, including money held on deposit; or
-- (b) transferable securities as defined in Article 2.1(24) of the markets in financial instruments regulation[^key-77edce0e9cfacc8cdda880b2b7e37294].
+- (b) transferable securities as defined in Article 2.1(24) of the markets in financial instruments regulation[^c-77edce0e9cfacc8cdda880b2b7e37294].
 
 (6) In this article “**joint bank account**” means an account—
 
@@ -305,17 +305,17 @@ and that nothing has come to the recognised accountant's attention which suggest
 
 ## PART 3 — Circumstances in which UK deposit-takers are not ring-fenced bodies
 
-### 11. Circumstances in which UK deposit-takers are not ring-fenced bodies[^key-d754343b90361554a6274494ce07586d]
+### 11. Circumstances in which UK deposit-takers are not ring-fenced bodies[^c-d754343b90361554a6274494ce07586d]
 
 (1) A UK deposit-taker is not a ring-fenced body if—
 
 - (a) it carries out the regulated activity of effecting or carrying out contracts of insurance as principal in accordance with a permission under Part 4A of the 2000 Act;
 - (b) it is a registered society, a Northern Ireland industrial and provident society or a Northern Ireland credit union;
-- (c) it complies with the condition set out in paragraph (2) (the “relevant event condition”); [^key-c1a9c15eb5287c0976c38aa2ebfe28d8]...
-- (d) it complies with the condition set out in article 12 (the “core deposit level condition”) ; or[^key-937861726981bbcdca6ae2eef395ca1d]
+- (c) it complies with the condition set out in paragraph (2) (the “relevant event condition”); [^c-c1a9c15eb5287c0976c38aa2ebfe28d8]...
+- (d) it complies with the condition set out in article 12 (the “core deposit level condition”) ; or[^c-937861726981bbcdca6ae2eef395ca1d]
 - (e) it complies with the condition set out in article 13A (the “trading assets condition”).
 
-(1A)[^key-f078e5745e39ac7c0ed29742510e19c0] Subject to paragraph (1B), paragraph (1)(e) does not apply to a UK deposit-taker which is included, or is a member of a group which is included, on the list of global systemically important banks published by the Financial Stability Board on 21st November 2022, as that list is updated by the Financial Stability Board from time to time (“the GSIB list”).
+(1A)[^c-f078e5745e39ac7c0ed29742510e19c0] Subject to paragraph (1B), paragraph (1)(e) does not apply to a UK deposit-taker which is included, or is a member of a group which is included, on the list of global systemically important banks published by the Financial Stability Board on 21st November 2022, as that list is updated by the Financial Stability Board from time to time (“the GSIB list”).
 
 (1B) When a UK deposit-taker, or the group of which it is a member, is included on the GSIB list by the Financial Stability Board after paragraph (1)(e) has come into force, paragraph (1)(e) continues to apply to that UK deposit-taker for a period of four years starting with the date on which it is first added to the GSIB list.
 
@@ -330,7 +330,7 @@ and that nothing has come to the recognised accountant's attention which suggest
   - (i) acquires property, rights or liabilities from another institution, or
   - (ii) acquires securities issued by another institution;
 - (b) any other power conferred by or as a result of Part 1 of the Banking Act 2009 is exercised in relation to the UK deposit-taker;
-- (c)[^key-ff44c643dd12adfc5724f7f5fc99b063] a ring-fenced body or a member of its group acquires securities issued by—
+- (c)[^c-ff44c643dd12adfc5724f7f5fc99b063] a ring-fenced body or a member of its group acquires securities issued by—
   - (i) the UK deposit-taker, or
   - (ii) the parent undertaking of the UK deposit-taker;
 - (d) as a result of one of the following transactions, the UK deposit-taker no longer satisfies the trading assets condition in article 13A—
@@ -342,8 +342,8 @@ and that nothing has come to the recognised accountant's attention which suggest
 
 (1) The core deposit level condition is that at any particular time (‘T’)—
 
-- (a) in the case of a UK deposit-taker which is not a member of a group, its average core deposit total is equal to or less than £35 billion[^key-b68596ade4dfe07e48a7fd2e8199a053];
-- (b) in the case of a UK deposit-taker which is a member of a group, the sum of the average core deposit totals for each member of the group that is a relevant group member is equal to or less than £35 billion[^key-ce089d553339a1871dfe30db7280f54f].
+- (a) in the case of a UK deposit-taker which is not a member of a group, its average core deposit total is equal to or less than £35 billion[^c-b68596ade4dfe07e48a7fd2e8199a053];
+- (b) in the case of a UK deposit-taker which is a member of a group, the sum of the average core deposit totals for each member of the group that is a relevant group member is equal to or less than £35 billion[^c-ce089d553339a1871dfe30db7280f54f].
 
 (2) For the purpose of paragraph (1)(b) a group member is a relevant group member if—
 
@@ -385,7 +385,7 @@ and that nothing has come to the recognised accountant's attention which suggest
 - (a) by way of a ring-fencing transfer scheme; or
 - (b) to a UK deposit-taker from an institution which is a member of the same group as the UK deposit-taker as at the date of the transfer.
 
-### 13A. Trading assets condition[^key-2f020f45d7fab32d30c30594861e520b]
+### 13A. Trading assets condition[^c-2f020f45d7fab32d30c30594861e520b]
 
 (1) The trading assets condition is that at any particular time (“**T**”)—
 
@@ -465,8 +465,8 @@ and that nothing has come to the recognised accountant's attention which suggest
 
 (1) The FCA must make rules specifying the information a non ring-fenced body must provide at any specified time (“specified information”) to—
 
-- (a) individuals who have applied to open a UK account[^key-405a14dd3aaf3ab890da80eaf4112c51] [^key-6e72490f042beb91f14a71087facbe1e]... for the purpose of making one or more deposits[^key-36eb80394c29d4715049a86f979d9342] with that non ring-fenced body (including a joint account); and
-- (b) UK account holders[^key-71ca5139752bd2e9f265f7717b289135] [^key-62111fdac9143db5ebcdee2f4195c370]... of that non ring-fenced body who are individuals who use the account for the purpose of making one or more deposits[^key-fce5ffb29f3d28a16a9bbf6f1a9d1cac].
+- (a) individuals who have applied to open a UK account[^c-405a14dd3aaf3ab890da80eaf4112c51] [^c-6e72490f042beb91f14a71087facbe1e]... for the purpose of making one or more deposits[^c-36eb80394c29d4715049a86f979d9342] with that non ring-fenced body (including a joint account); and
+- (b) UK account holders[^c-71ca5139752bd2e9f265f7717b289135] [^c-62111fdac9143db5ebcdee2f4195c370]... of that non ring-fenced body who are individuals who use the account for the purpose of making one or more deposits[^c-fce5ffb29f3d28a16a9bbf6f1a9d1cac].
 
 (2) The specified information must include a description of—
 
@@ -534,7 +534,7 @@ An Impact Assessment of the effect of the Financial Services (Banking Reform) Ac
 
 [^c22188381]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).This article was amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
 
-[^key-af2d4999f3f99395fd39afbcdf2c0482]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/30/article/3/a)
+[^c-af2d4999f3f99395fd39afbcdf2c0482]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/30/article/3/a)
 
 [^c22188391]: Marginal citation: S.I. 2014/\[ \].
 
@@ -554,49 +554,49 @@ An Impact Assessment of the effect of the Financial Services (Banking Reform) Ac
 
 [^c22188471]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12). There are amendments to the Act, but none are relevant to this Order.
 
-[^key-201b834a225e388ca37c193d85773210]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/30/article/3/b)
+[^c-201b834a225e388ca37c193d85773210]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/30/article/3/b)
 
-[^key-a9bcedd2008e5c31a2aa9fd8141730b4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) omitted (1.12.2016) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/b)
+[^c-a9bcedd2008e5c31a2aa9fd8141730b4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) omitted (1.12.2016) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/b)
 
-[^key-3a771c35c1e82a7ccf72b0a4ea1a00fd]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) inserted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/c)
+[^c-3a771c35c1e82a7ccf72b0a4ea1a00fd]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) inserted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/c)
 
 [^c22188481]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 14 was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-98429bccfeca0d8ab48320def7660560]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2025/30/article/3/c)
+[^c-98429bccfeca0d8ab48320def7660560]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2025/30/article/3/c)
 
-[^key-4d52fa8943560015cc2c6ba4313432c7]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d52fa8943560015cc2c6ba4313432c7]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a88e6dda5a4794ff403eafe7953f22e0]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/d)
+[^c-a88e6dda5a4794ff403eafe7953f22e0]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/d)
 
-[^key-b8649250712388b5a73066a54680002d]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2025/30/article/3/d)
+[^c-b8649250712388b5a73066a54680002d]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2025/30/article/3/d)
 
-[^key-4a6feab54fe88f3680d5dcbac3c43014]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(3)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a6feab54fe88f3680d5dcbac3c43014]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(3)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5fa92b73548455630f50bbdfef033a87]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/i)
+[^c-5fa92b73548455630f50bbdfef033a87]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/i)
 
-[^key-2fefe8feecfd6cb710cbb6a3887bee21]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/aa) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/ii)
+[^c-2fefe8feecfd6cb710cbb6a3887bee21]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/aa) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/ii)
 
-[^key-d6754612191b3b81c91d2ea84598c51e]: Textual amendment: Word in art. 2(2) omitted (31.10.2018) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/a/i)
+[^c-d6754612191b3b81c91d2ea84598c51e]: Textual amendment: Word in art. 2(2) omitted (31.10.2018) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/a/i)
 
-[^key-23a9e50b5084ced50181977f0bdf5331]: Textual amendment: Word in [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/d) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/iii)
+[^c-23a9e50b5084ced50181977f0bdf5331]: Textual amendment: Word in [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/d) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/iii)
 
-[^key-ec76aa74584905d0f616e3206ee218a3]: Textual amendment: Art. 2(2)(e) and word inserted (31.10.2018) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/a/ii)
+[^c-ec76aa74584905d0f616e3206ee218a3]: Textual amendment: Art. 2(2)(e) and word inserted (31.10.2018) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/a/ii)
 
-[^key-213489c916f92fe06735bfce4d0d5a81]: Textual amendment: [Art. 2(2)(f)-(m)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/f) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/iv)
+[^c-213489c916f92fe06735bfce4d0d5a81]: Textual amendment: [Art. 2(2)(f)-(m)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/f) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/iv)
 
-[^key-fc97e5f4bab8dd5aaef339dfe28a3352]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/3/b) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/b)
+[^c-fc97e5f4bab8dd5aaef339dfe28a3352]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/3/b) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/b)
 
-[^key-da44be8329faa363adfa2cd06bdc2c65]: Textual amendment: [Art. 2(3)(ba)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/3/ba) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(3)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da44be8329faa363adfa2cd06bdc2c65]: Textual amendment: [Art. 2(3)(ba)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/3/ba) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(3)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de0a6a04fb210be8a5a6fb1c2a38442f]: Textual amendment: Art. 2(3)(e) inserted (31.10.2018) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/b)
+[^c-de0a6a04fb210be8a5a6fb1c2a38442f]: Textual amendment: Art. 2(3)(e) inserted (31.10.2018) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/b)
 
-[^key-c5314e1e660429e67f44bf4674e8ffc1]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/4) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(c)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/c)
+[^c-c5314e1e660429e67f44bf4674e8ffc1]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/4) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(c)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/c)
 
-[^key-ea5b9cfa68bacff61667ce8d8fd495df]: Textual amendment: Art. 3 substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/3)
+[^c-ea5b9cfa68bacff61667ce8d8fd495df]: Textual amendment: Art. 3 substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/3)
 
-[^key-d0369894211c6e72e65e74e42fc02d6f]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/3/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/30/article/4/2)
+[^c-d0369894211c6e72e65e74e42fc02d6f]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/3/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/30/article/4/2)
 
-[^key-334f3c214c5f753f212d2ccfd46f8a39]: Textual amendment: [Art. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/4/3/b) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/4)
+[^c-334f3c214c5f753f212d2ccfd46f8a39]: Textual amendment: [Art. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/4/3/b) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/4)
 
 [^c22188501]: Marginal citation: 2005 (asp 10).
 
@@ -604,44 +604,44 @@ An Impact Assessment of the effect of the Financial Services (Banking Reform) Ac
 
 [^c22188521]: Marginal citation: [S.S.I. 2006/218](https://www.legislation.gov.uk/ssi/2006/218). There are amendments to regulation 1, but they are not relevant to this Order.
 
-[^key-d1289f84dee3824d928ffe072168061a]: Textual amendment: Arts. 6, 7 omitted (1.12.2016) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/5)
+[^c-d1289f84dee3824d928ffe072168061a]: Textual amendment: Arts. 6, 7 omitted (1.12.2016) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/5)
 
-[^key-e42c856db8ee94f98d700b62a1ea24e4]: Textual amendment: Art. 8 substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/6)
+[^c-e42c856db8ee94f98d700b62a1ea24e4]: Textual amendment: Art. 8 substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/6)
 
-[^key-fa141b893087813dbd0a73374f0484f0]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/8/2) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/30/article/4/3)
+[^c-fa141b893087813dbd0a73374f0484f0]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/8/2) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/30/article/4/3)
 
-[^key-e23b6580f76f1165cdf160de83ee6a10]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/8/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/30/article/4/3)
+[^c-e23b6580f76f1165cdf160de83ee6a10]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/8/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/30/article/4/3)
 
-[^key-77edce0e9cfacc8cdda880b2b7e37294]: Textual amendment: Words in [art. 10(5)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/10/5/b) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(4)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77edce0e9cfacc8cdda880b2b7e37294]: Textual amendment: Words in [art. 10(5)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/10/5/b) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(4)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d754343b90361554a6274494ce07586d]: Modification: [Art. 11](https://www.legislation.gov.uk/uksi/2014/1960/article/11) modified (23.6.2023) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) (No. 2) Order 2023 (S.I. 2023/694)](https://www.legislation.gov.uk/uksi/2023/694), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/694/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/694/article/2/2)
+[^c-d754343b90361554a6274494ce07586d]: Modification: [Art. 11](https://www.legislation.gov.uk/uksi/2014/1960/article/11) modified (23.6.2023) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) (No. 2) Order 2023 (S.I. 2023/694)](https://www.legislation.gov.uk/uksi/2023/694), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/694/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/694/article/2/2)
 
-[^key-c1a9c15eb5287c0976c38aa2ebfe28d8]: Textual amendment: Word in [art. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1/c) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/a/i)
+[^c-c1a9c15eb5287c0976c38aa2ebfe28d8]: Textual amendment: Word in [art. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1/c) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/a/i)
 
-[^key-937861726981bbcdca6ae2eef395ca1d]: Textual amendment: [Art. 11(1)(e)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1/e) and word inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/a/ii)
+[^c-937861726981bbcdca6ae2eef395ca1d]: Textual amendment: [Art. 11(1)(e)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1/e) and word inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/a/ii)
 
-[^key-f078e5745e39ac7c0ed29742510e19c0]: Textual amendment: [Art. 11(1A)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1B) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/b)
+[^c-f078e5745e39ac7c0ed29742510e19c0]: Textual amendment: [Art. 11(1A)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1B) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/b)
 
 [^c22188551]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-ff44c643dd12adfc5724f7f5fc99b063]: Textual amendment: [Art. 11(3)(c)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/3/c)[(d)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/3/d) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(c)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/c)
+[^c-ff44c643dd12adfc5724f7f5fc99b063]: Textual amendment: [Art. 11(3)(c)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/3/c)[(d)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/3/d) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(c)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/c)
 
-[^key-b68596ade4dfe07e48a7fd2e8199a053]: Textual amendment: Sum in [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/12/1/a) substituted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/30/article/5/2)
+[^c-b68596ade4dfe07e48a7fd2e8199a053]: Textual amendment: Sum in [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/12/1/a) substituted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/30/article/5/2)
 
-[^key-ce089d553339a1871dfe30db7280f54f]: Textual amendment: Sum in [art. 12(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/12/1/b) substituted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/30/article/5/2)
+[^c-ce089d553339a1871dfe30db7280f54f]: Textual amendment: Sum in [art. 12(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/12/1/b) substituted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/30/article/5/2)
 
-[^key-2f020f45d7fab32d30c30594861e520b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2014/1960/article/13A) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/30/article/5/3)
+[^c-2f020f45d7fab32d30c30594861e520b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2014/1960/article/13A) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/30/article/5/3)
 
-[^key-405a14dd3aaf3ab890da80eaf4112c51]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(5)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-405a14dd3aaf3ab890da80eaf4112c51]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(5)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e72490f042beb91f14a71087facbe1e]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/30/article/6/a)
+[^c-6e72490f042beb91f14a71087facbe1e]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/30/article/6/a)
 
-[^key-36eb80394c29d4715049a86f979d9342]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/7/a)
+[^c-36eb80394c29d4715049a86f979d9342]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/7/a)
 
-[^key-71ca5139752bd2e9f265f7717b289135]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(5)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71ca5139752bd2e9f265f7717b289135]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(5)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-62111fdac9143db5ebcdee2f4195c370]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/30/article/6/b)
+[^c-62111fdac9143db5ebcdee2f4195c370]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/30/article/6/b)
 
-[^key-fce5ffb29f3d28a16a9bbf6f1a9d1cac]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) inserted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/7/b/ii)
+[^c-fce5ffb29f3d28a16a9bbf6f1a9d1cac]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) inserted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/7/b/ii)
 
 [^c22188561]: Marginal citation: “Excluded activity” is defined in section 142D of the Act. Section 142D was inserted into the Act by the Financial Services (Banking Reform) Act 2013 (c 33), section 4.

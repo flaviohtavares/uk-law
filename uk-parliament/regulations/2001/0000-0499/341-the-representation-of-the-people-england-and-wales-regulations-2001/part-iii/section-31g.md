@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31G. Anonymous registration: applications and declarations[^key-4f386e42518a3c33fa422ff80893f7eb]
+## 31G. Anonymous registration: applications and declarations[^c-4f386e42518a3c33fa422ff80893f7eb]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (6) The application may give an address to which the registration officer must send correspondence, other than the address given in accordance with paragraph (1)(b).
 
-(7)[^key-f6f0d682f854b3d4da5f2b78799e8070] Where an application for an anonymous entry is made by a person who is, or who has applied to be, registered as an elector in pursuance of an overseas elector’s declaration, this regulation applies as if—
+(7)[^c-f6f0d682f854b3d4da5f2b78799e8070] Where an application for an anonymous entry is made by a person who is, or who has applied to be, registered as an elector in pursuance of an overseas elector’s declaration, this regulation applies as if—
 
 - (a) in paragraph (1)—
   - (i) the reference in sub-paragraph (b) to regulation 26(1)(b) were a reference to section 1C(2)(a)(i), (3)(a)(i) or (4) of the 1985 Act;
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f386e42518a3c33fa422ff80893f7eb]: Textual amendment: Regs. 31G-31J inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2006/2910/regulation/12)
+[^c-4f386e42518a3c33fa422ff80893f7eb]: Textual amendment: Regs. 31G-31J inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2006/2910/regulation/12)
 
-[^key-f6f0d682f854b3d4da5f2b78799e8070]: Textual amendment: Reg. 31G(7) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(16)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/16) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))
+[^c-f6f0d682f854b3d4da5f2b78799e8070]: Textual amendment: Reg. 31G(7) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(16)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/16) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))

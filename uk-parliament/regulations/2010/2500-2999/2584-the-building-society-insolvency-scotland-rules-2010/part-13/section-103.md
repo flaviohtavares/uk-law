@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Application under section 176A(5) to disapply section 176A[^key-6d28461fe899d9c884ba285bd0ffa943]
+## 103. Application under section 176A(5) to disapply section 176A[^c-6d28461fe899d9c884ba285bd0ffa943]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.13A of the 1986 Rules.
 
 ## Annotations
 
-[^key-6d28461fe899d9c884ba285bd0ffa943]: Commencement: Rule 103 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-6d28461fe899d9c884ba285bd0ffa943]: Commencement: Rule 103 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

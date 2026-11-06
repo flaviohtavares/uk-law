@@ -22,7 +22,7 @@ summary: ''
 
 Article 24(2)
 
-### 1. Interpretation[^key-fd673fbfd63d3ae65a01c47e514c7eb5]
+### 1. Interpretation[^c-fd673fbfd63d3ae65a01c47e514c7eb5]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “business day” means a day other than a Saturday, a Sunday or a public holiday in Wales;
 - “requirement consultee” means a body named in a Requirement as a body to be consulted by the relevant planning authority in discharging the Requirement.
 
-### 2. Applications made under Requirements[^key-0e75476720ba4ab60a58ff85b7405dcd]
+### 2. Applications made under Requirements[^c-0e75476720ba4ab60a58ff85b7405dcd]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a Requirement (including consent, agreement or approval in respect of part of a Requirement), the relevant planning authority must give notice to the undertaker of its decision on the application before the end of the decision period.
 
@@ -45,7 +45,7 @@ In this Schedule—
   - (ii) where further information is requested under paragraph 3, 8 weeks from the day following the day on which the further information is received by the relevant planning authority; or
   - (iii) such longer period as may be agreed by the undertaker and the relevant planning authority in writing before the end of the period referred to in sub-paragraph (i) or (ii).
 
-### 3. Further information[^key-4ac61ca2e8f759c0df4c8d995653e71d]
+### 3. Further information[^c-4ac61ca2e8f759c0df4c8d995653e71d]
 
 (1) In relation to any application referred to in paragraph 2(1), the relevant planning authority may request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -56,7 +56,7 @@ In this Schedule—
 - (a) issue the consultation to the requirement consultee within 2 business days of receipt of the application; and
 - (b) notify the undertaker in writing specifying any further information requested by the requirement consultee within 2 business days of receipt of such a request and in any event within 21 business days of receipt of the application.
 
-### 4. Appeals[^key-279ecfad4f1c8f00e61cec195919014e]
+### 4. Appeals[^c-279ecfad4f1c8f00e61cec195919014e]
 
 (1) The undertaker may appeal if—
 
@@ -115,13 +115,13 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-fd673fbfd63d3ae65a01c47e514c7eb5]: Commencement: Sch. 5 para. 1 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-fd673fbfd63d3ae65a01c47e514c7eb5]: Commencement: Sch. 5 para. 1 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-0e75476720ba4ab60a58ff85b7405dcd]: Commencement: Sch. 5 para. 2 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-0e75476720ba4ab60a58ff85b7405dcd]: Commencement: Sch. 5 para. 2 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-4ac61ca2e8f759c0df4c8d995653e71d]: Commencement: Sch. 5 para. 3 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-4ac61ca2e8f759c0df4c8d995653e71d]: Commencement: Sch. 5 para. 3 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-279ecfad4f1c8f00e61cec195919014e]: Commencement: Sch. 5 para. 4 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-279ecfad4f1c8f00e61cec195919014e]: Commencement: Sch. 5 para. 4 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
 [^f00049]: Footnote: Paragraph 1 was amended by paragraph 44 of Schedule 22 to the Environment Act 1995, section 198 of the Planning Act 2008 and paragraph 9 of Schedule 2 to the Growth and Infrastructure Act 2013.
 

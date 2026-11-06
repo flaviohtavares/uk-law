@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 121A. Supply of benefit administration information between authorities[^key-8b478ee656ad9c932c7f57c5d4c0c451]
+## 121A. Supply of benefit administration information between authorities[^c-8b478ee656ad9c932c7f57c5d4c0c451]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b478ee656ad9c932c7f57c5d4c0c451]: Textual amendment: Reg. 121A and words inserted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/2/10)
+[^c-8b478ee656ad9c932c7f57c5d4c0c451]: Textual amendment: Reg. 121A and words inserted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/2/10)

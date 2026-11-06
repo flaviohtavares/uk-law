@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Notice of non-compliance penalty[^key-143be847c7c31090b0addd42446bbf09]
+## 32. Notice of non-compliance penalty[^c-143be847c7c31090b0addd42446bbf09]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-143be847c7c31090b0addd42446bbf09]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/18/section/32) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-143be847c7c31090b0addd42446bbf09]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/18/section/32) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

@@ -33,7 +33,7 @@ CIVIL PARTNERSHIP CAUSES
 
 COUNTY COURTS
 
-Civil Partnership Proceedings County Courts Order (Northern Ireland) 2005 (revoked)[^key-63d33ebee3487c90a91a464205cac97b]
+Civil Partnership Proceedings County Courts Order (Northern Ireland) 2005 (revoked)[^c-63d33ebee3487c90a91a464205cac97b]
 
 Made
 
@@ -43,20 +43,20 @@ Coming into operation
 
 5th December 2005
 
-[^key-63d33ebee3487c90a91a464205cac97b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d33ebee3487c90a91a464205cac97b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-63d33ebee3487c90a91a464205cac97b]
+## 1. Citation and commencement[^c-63d33ebee3487c90a91a464205cac97b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-63d33ebee3487c90a91a464205cac97b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-63d33ebee3487c90a91a464205cac97b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63d33ebee3487c90a91a464205cac97b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d33ebee3487c90a91a464205cac97b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63d33ebee3487c90a91a464205cac97b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d33ebee3487c90a91a464205cac97b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63d33ebee3487c90a91a464205cac97b]: Textual amendment: Order revoked (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [36(c)](https://www.legislation.gov.uk/nisr/2016/317/article/36/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-63d33ebee3487c90a91a464205cac97b]: Textual amendment: Order revoked (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [36(c)](https://www.legislation.gov.uk/nisr/2016/317/article/36/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

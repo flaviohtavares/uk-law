@@ -27,7 +27,7 @@ summary: ''
 - (a) shall make a declaration to that effect, and
 - (b) shall make an award to be paid by the employer to the complainant in respect of the offer complained of.
 
-(3) The amount of the award shall be £6,290[^key-9be1da6ce591415186d130260a5c77cd] (subject to any adjustment of the award that may fall to be made under Part IV of the Employment (Northern Ireland) Order 2003).
+(3) The amount of the award shall be £6,290[^c-9be1da6ce591415186d130260a5c77cd] (subject to any adjustment of the award that may fall to be made under Part IV of the Employment (Northern Ireland) Order 2003).
 
 (4) Where an offer made in contravention of Article 77A or 77B is accepted—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c22340071]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-9be1da6ce591415186d130260a5c77cd]: Textual amendment: Sum in [art. 77E(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/77E/3) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
+[^c-9be1da6ce591415186d130260a5c77cd]: Textual amendment: Sum in [art. 77E(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/77E/3) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))

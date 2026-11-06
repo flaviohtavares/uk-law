@@ -52,13 +52,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### CHAPTER 1 — Preliminary
 
-#### 1. Citation, commencement and extent[^key-a311296d14b89933b27237a59a997cd5]
+#### 1. Citation, commencement and extent[^c-a311296d14b89933b27237a59a997cd5]
 
 (1) These Regulations may be cited as the Energy Bills Discount Scheme (Northern Ireland) Regulations 2023 and come into force on 26th April 2023.
 
 (2) These Regulations extend to Northern Ireland.
 
-#### 2. Interpretation[^key-0acb181b0460f85254ac387e51cc4268]
+#### 2. Interpretation[^c-0acb181b0460f85254ac387e51cc4268]
 
 (1) In these Regulations—
 
@@ -188,7 +188,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### CHAPTER 2 — Energy Bills Discount Scheme
 
-#### 3. Application[^key-923b3ac4101dbf1cf7f949b2580bf961]
+#### 3. Application[^c-923b3ac4101dbf1cf7f949b2580bf961]
 
 (1) Unless these Regulations provide otherwise, they apply separately for the purposes of the following schemes which they establish—
 
@@ -197,7 +197,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) The electricity scheme and the gas scheme are referred to collectively as the Energy Bills Discount Scheme for Non-Domestic Customers in Northern Ireland) (the “scheme”).
 
-#### 4. Energy in scope of the scheme[^key-c9e62fb22285b60cf99299cd5e323148]
+#### 4. Energy in scope of the scheme[^c-c9e62fb22285b60cf99299cd5e323148]
 
 (1) These Regulations apply to all energy supplied under a supply contract in a scheme period, other than—
 
@@ -216,7 +216,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) takes a supply of electricity that is NI non-domestic electricity supply within paragraph (a) of the definition of that term, but
 - (b) is eligible for a reduction in charges for supply under a domestic electricity price reduction scheme for Northern Ireland established by the Secretary of State under section 5 of the Act.
 
-#### 5. Making of rules[^key-864a063128cd9ed09c3dc2776fe64446]
+#### 5. Making of rules[^c-864a063128cd9ed09c3dc2776fe64446]
 
 (1) Rules made under these Regulations—
 
@@ -229,13 +229,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### CHAPTER 3 — Basic terms of the scheme
 
-#### 6. Scheme periods[^key-1840e647225218fd6fa28eccfb1c4299]
+#### 6. Scheme periods[^c-1840e647225218fd6fa28eccfb1c4299]
 
 (1) The first scheme period is the period which begins with 1st April 2023 and ends with 30th September 2023.
 
 (2) The second scheme period is the period which begins with 1st October 2023 and ends with 31st March 2024.
 
-#### 7. Government supported price and maximum discount[^key-c04da3ee9a43692ab1e95efc3e28af86]
+#### 7. Government supported price and maximum discount[^c-c04da3ee9a43692ab1e95efc3e28af86]
 
 (1) The Secretary of State must, no later than the scheme introduction date, determine and publish, in respect of each scheme period, the scheme parameters for the electricity scheme and for the gas scheme.
 
@@ -272,7 +272,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### CHAPTER 1 — Determination of prices
 
-#### 8. Supply price[^key-a71718b9590c39d362491eebbbfcf726]
+#### 8. Supply price[^c-a71718b9590c39d362491eebbbfcf726]
 
 (1) In these Regulations “**supply price**” in relation to a supply contract means—
 
@@ -286,7 +286,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) value added tax;
 - (b) climate change levy, as defined in section 30 of, and Schedule 6 to, the Finance Act 2000[^f00013].
 
-#### 9. Reference wholesale price – fixed price, variable price and DAI price contracts[^key-315001acd8fa448b8cf867149be9691b]
+#### 9. Reference wholesale price – fixed price, variable price and DAI price contracts[^c-315001acd8fa448b8cf867149be9691b]
 
 (1) The Secretary of State must establish and publish a methodology for determining reference wholesale prices applicable to fixed price contracts, variable price contracts and DAI price contracts.
 
@@ -318,7 +318,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (i) applies in respect of variable price contracts entered into on or after the effective date;
   - (ii) where so determined by the Secretary of State, applies in respect of energy supplied on and after the effective date under variable price contracts entered into before that date.
 
-#### 10. Reference wholesale price – flexible price contracts[^key-b2ee95d8132e10ccd735dd118430c7b2]
+#### 10. Reference wholesale price – flexible price contracts[^c-b2ee95d8132e10ccd735dd118430c7b2]
 
 (1) In relation to a flexible price contract, the reference wholesale price for any period in which energy is supplied (a “relevant period”) is the volume-weighted average contracted wholesale price for the relevant period.
 
@@ -349,7 +349,7 @@ each so far as attributable to energy supplied under the contract in the relevan
 
 ### CHAPTER 2 — Categorisation of supply contracts
 
-#### 11. Duty of supplier to categorise contracts[^key-d6cfa4b818d93b67a6b3c78d078293a9]
+#### 11. Duty of supplier to categorise contracts[^c-d6cfa4b818d93b67a6b3c78d078293a9]
 
 (1) A supplier must, in respect of each of its supply contracts—
 
@@ -373,7 +373,7 @@ each so far as attributable to energy supplied under the contract in the relevan
 - (b) about the basis on which the price-fix date of a fixed price contract is to be determined;
 - (c) specifying circumstances in which a supply contract must be treated for the purposes of the scheme as comprising, as to different portions of the energy supplied under it, more than one contract, and, for these purposes, the two or more contracts which it is to be treated as comprising may be of the same or different categories referred to in paragraph 1(a).
 
-#### 12. Methodology for contract categorisation[^key-abbb02efd29f81f50252421026c50e12]
+#### 12. Methodology for contract categorisation[^c-abbb02efd29f81f50252421026c50e12]
 
 A supplier must—
 
@@ -384,7 +384,7 @@ A supplier must—
 - (c) maintain, in respect of each supply contract, the data necessary to make the determinations under regulation 11(1) in accordance with the methodology;
 - (d) ensure that it has in place reliable systems and procedures to apply the methodology.
 
-#### 13. Treatment of supply contracts[^key-8c0e948608472343258a1ab9549d574b]
+#### 13. Treatment of supply contracts[^c-8c0e948608472343258a1ab9549d574b]
 
 (1) A supply contract is to be treated for all purposes of the scheme as a fixed price contract, flexible price contract, variable price contract or DAI price contract, according to the category that the supplier (or the Secretary of State, under regulation 74) has determined that it falls into.
 
@@ -392,7 +392,7 @@ A supplier must—
 
 (3) If a contract between a supplier and customer provides for the supply of both electricity and gas, it must be treated for the purposes of these Regulations as comprising separate supply contracts for electricity and gas respectively.
 
-#### 14. Treatment of fixed price contracts at end of term[^key-ff3301775a7592223746d302eb2c3f06]
+#### 14. Treatment of fixed price contracts at end of term[^c-ff3301775a7592223746d302eb2c3f06]
 
 (1) Paragraph (2) applies where, as a result of a relevant amendment of a fixed price contract, the contracted wholesale price is fixed under the new contract for any period starting at or after the end of the original fixed term.
 
@@ -418,7 +418,7 @@ the contract is to be treated as a variable price contract entered into at the t
 
 ### CHAPTER 3 — Energy and Trade Intensive Industries and Domestic Heat Consumers
 
-#### 15. Interpretation of this Chapter[^key-b67f974bbdbe2676f35b033747ee4d7b]
+#### 15. Interpretation of this Chapter[^c-b67f974bbdbe2676f35b033747ee4d7b]
 
 (1) In this Chapter—
 
@@ -474,7 +474,7 @@ the contract is to be treated as a variable price contract entered into at the t
 - (a) to scheme benefit being required to be passed on is to a provider being required to pass on that benefit, as an intermediary (within the meaning of section 19(1) of the Act), under any pass-through regulations;
 - (b) to a provider being notified by a higher-tier provider of scheme benefit is to the provider being so notified, by a higher-tier provider as such an intermediary, under pass-through regulations.
 
-#### 16. Energy and trade intensive industries: applications for certificates[^key-47b7c727161d80a6dc84d1976744da03]
+#### 16. Energy and trade intensive industries: applications for certificates[^c-47b7c727161d80a6dc84d1976744da03]
 
 (1) Where the Secretary of State receives an ETII application, the Secretary of State may issue a certificate to the ETII applicant, stating that the conditions in paragraphs (2) to (4) (the “ETII certification criteria”) are satisfied in respect of the ETII applicant, if—
 
@@ -519,7 +519,7 @@ the contract is to be treated as a variable price contract entered into at the t
   - (ii) any of the ETII certification criteria is no longer satisfied in respect of that person, or
 - (b) the Secretary of State is no longer satisfied that the consequences of a person holding an ETII certificate are in accordance with Article 10 of the Windsor Framework.
 
-#### 17. Qualifying heat suppliers: applications for certificates[^key-024817913446c4b431ca5163ae4c783f]
+#### 17. Qualifying heat suppliers: applications for certificates[^c-024817913446c4b431ca5163ae4c783f]
 
 (1) Where the Secretary of State receives a QHS application, the Secretary of State must issue a QHS certificate in respect of the QHS applicant, stating that conditions in paragraphs (2) and (3) (the “QHS certification criteria”) are satisfied in respect of the QHS applicant and a heat network, if—
 
@@ -538,7 +538,7 @@ the contract is to be treated as a variable price contract entered into at the t
   - (i) another person makes available to the QHS applicant, and
   - (ii) is so made available by that person using energy supplied or otherwise made available to it by a person other than itself or the QHS applicant.
 
-(4) A qualifying heat supplier that makes qualifying heat supply in respect of which the condition in paragraph (3) is satisfied must , on or before the application end date,[^key-bd62bd5f21ab73b47325f3f12e261a85] apply for a QHS certificate in respect of the relevant heat network.
+(4) A qualifying heat supplier that makes qualifying heat supply in respect of which the condition in paragraph (3) is satisfied must , on or before the application end date,[^c-bd62bd5f21ab73b47325f3f12e261a85] apply for a QHS certificate in respect of the relevant heat network.
 
 (5) A qualifying heat supplier is not under the duty in paragraph (4) if and for so long as it is not aware, and could not reasonably be expected to be aware, that any heat consumer that it supplies through the relevant heat network is a domestic heat consumer.
 
@@ -558,9 +558,9 @@ the contract is to be treated as a variable price contract entered into at the t
 
 (9) A QHS applicant that makes a QHS application in accordance with Chapter 3 rules is not required to submit a notification under regulation 3 of the Heat Network Metering and Billing Regulations 2014[^f00016] before 25th July 2023.
 
-(10)[^key-feb55ed2e68a942f0c446d24059c8910] For the purposes of paragraph (4), “**application end date**” means a day specified in Chapter 3 rules as the last day on which a qualifying heat supplier may apply for a QHS certificate.
+(10)[^c-feb55ed2e68a942f0c446d24059c8910] For the purposes of paragraph (4), “**application end date**” means a day specified in Chapter 3 rules as the last day on which a qualifying heat supplier may apply for a QHS certificate.
 
-#### 18. ETII customers[^key-a19daaeaacb1b1045f2fc72ab4ea5082]
+#### 18. ETII customers[^c-a19daaeaacb1b1045f2fc72ab4ea5082]
 
 (1) The customer under a supply contract is an ETII customer if—
 
@@ -595,7 +595,7 @@ the contract is to be treated as a variable price contract entered into at the t
 - (a) unless it received the ETII certificate from the Secretary of State, to the Secretary of State, identifying the ETII customer as such;
 - (b) to the ETII customer, informing or confirming to it that it is an ETII customer.
 
-#### 19. QHS customers[^key-2f34bf9ae6788d293cc7125e79960f50]
+#### 19. QHS customers[^c-2f34bf9ae6788d293cc7125e79960f50]
 
 (1) The customer under a supply contract is a QHS customer if—
 
@@ -630,7 +630,7 @@ the contract is to be treated as a variable price contract entered into at the t
 - (a) unless it received the QHS certificate from the Secretary of State, to the Secretary of State, identifying the QHS customer as such;
 - (b) to the QHS customer, informing or confirming to it that it is a QHS customer.
 
-#### 20. Benefit Calculation Periods[^key-7f04868dde1a243cdda406844d20232a]
+#### 20. Benefit Calculation Periods[^c-7f04868dde1a243cdda406844d20232a]
 
 (1) This paragraph applies to a relevant supply contract if the billing periods are prescribed in the supply contract.
 
@@ -640,7 +640,7 @@ the contract is to be treated as a variable price contract entered into at the t
 
 (4) Each provider which is notified by a higher-tier provider of a benefit calculation period must, as soon as reasonably practicable, notify each lower-tier provider of that period.
 
-#### 21. Determination and redetermination of ETII and QHS proportions[^key-1e4c17f5fcaee9282e29c23c2855ca5c]
+#### 21. Determination and redetermination of ETII and QHS proportions[^c-1e4c17f5fcaee9282e29c23c2855ca5c]
 
 (1) Subject to paragraphs (2) and (3), a main scheme provider that is an immediate ETII provider or certified heat supplier must, as soon as reasonably practicable—
 
@@ -676,7 +676,7 @@ the ETII proportion and the QHS proportion for that period.
 - (d) the Secretary of State determines such ETII proportion or QHS proportion under regulation 74;
 - (e) the provider is notified by a lower-tier provider of any redetermination of an ETII proportion or QHS proportion in respect of that benefit calculation period.
 
-#### 22. ETII and QHS proportions[^key-07e750c6c2792ca1e0ae6fd53e8a72f8]
+#### 22. ETII and QHS proportions[^c-07e750c6c2792ca1e0ae6fd53e8a72f8]
 
 (1) The ETII proportion and the QHS proportion applying for any period in respect of a customer or main scheme provider are determined as follows—
 
@@ -705,7 +705,7 @@ the ETII proportion and the QHS proportion for that period.
 - (a) where P is the customer, by way of discount under the supply contract;
 - (b) where P is not the customer, from a higher-tier provider required to pass on such benefit to P.
 
-#### 23. Separate supply contracts[^key-ad5946fedd6c73a87693d2f8512127cd]
+#### 23. Separate supply contracts[^c-ad5946fedd6c73a87693d2f8512127cd]
 
 (1) A supplier must treat a relevant supply contract as comprising up to three contracts, as follows—
 
@@ -754,7 +754,7 @@ the ETII proportion and the QHS proportion for that period.
   - (b) specifies in rules;
 - “**supplied energy**” means the energy supplied under a relevant supply contract in a period.
 
-#### 24. Supply redetermination event[^key-edb9de30e932be46de2f3c6d4ddb6fd4]
+#### 24. Supply redetermination event[^c-edb9de30e932be46de2f3c6d4ddb6fd4]
 
 (1) For the purposes of this regulation there is a “**supply redetermination event**” in relation to a billing period under a supply contract where, after the supplier has issued an invoice or statement of account in respect of that billing period—
 
@@ -778,7 +778,7 @@ the ETII proportion and the QHS proportion for that period.
 
 (4) The condition is that the change in ETII proportion or QHS proportion, or the revision in the charges, under any of the deemed supply contracts, meets a test specified in Chapter 3 rules.
 
-#### 25. Duties of providers[^key-457d53e995d0c1205a78903334be2783]
+#### 25. Duties of providers[^c-457d53e995d0c1205a78903334be2783]
 
 (1) This regulation applies in respect of the duties that apply to—
 
@@ -792,7 +792,7 @@ the ETII proportion and the QHS proportion for that period.
   - (i) for an injunction, or
   - (ii) for any other appropriate remedy or relief.
 
-#### 26. Chapter 3 default[^key-f0c42f538e9a24727e0f05b6ab96be88]
+#### 26. Chapter 3 default[^c-f0c42f538e9a24727e0f05b6ab96be88]
 
 (1) For the purposes of these Regulations a person (the “defaulting person”) is in default of this Chapter (“Chapter 3 default”) if—
 
@@ -814,7 +814,7 @@ the ETII proportion and the QHS proportion for that period.
 
 (6) An amount payable to the Secretary of State by a defaulting person in respect of a default benefit amount is recoverable as a civil debt by the Secretary of State.
 
-#### 27. Chapter 3 rules[^key-564cb934ec9a563d8496b59fd1c4b68a]
+#### 27. Chapter 3 rules[^c-564cb934ec9a563d8496b59fd1c4b68a]
 
 (1) The Secretary of State must in rules specify SIC codes which identify categories of activities which the Secretary of State considers to be activities with high energy intensity and trade intensity.
 
@@ -861,7 +861,7 @@ the ETII proportion and the QHS proportion for that period.
 
 ### CHAPTER 4 — Discounting supply price under supply contracts
 
-#### 28. Calculation of base discount[^key-47f96e2b1fe0d5f71ced2ad30d020106]
+#### 28. Calculation of base discount[^c-47f96e2b1fe0d5f71ced2ad30d020106]
 
 Subject to paragraph (3)—
 
@@ -884,7 +884,7 @@ Subject to paragraph (3)—
 
 (4) Where paragraph (1) of regulation 49 applies, the reference wholesale price is determined under sub-paragraph (c) of that paragraph.
 
-#### 29. Calculation of discount[^key-b3385bc3a167596c4fe29f5a043e89b7]
+#### 29. Calculation of discount[^c-b3385bc3a167596c4fe29f5a043e89b7]
 
 (1) For the purposes of these Regulations, “**the discount**” means the reduction (in p/kWh) in the supply price under a supply contract to be applied pursuant to the scheme in respect of that contract for any period.
 
@@ -913,7 +913,7 @@ Where—
 - IMD is the maximum discount applicable to an ETII supply contract plus the MD increment;
 - RMP is the minimum supply price applicable to an ETII supply contract less the GSP decrement.
 
-#### 30. Duty of suppliers to provide the discount[^key-641c3bd069babb89fe5821a7a6bc944c]
+#### 30. Duty of suppliers to provide the discount[^c-641c3bd069babb89fe5821a7a6bc944c]
 
 (1) A supplier must, in respect of each supply contract—
 
@@ -929,7 +929,7 @@ Where—
 
 (3) Where a supplier adjusts its charges to a customer in consequence of energy reconciliation in respect of any period, the adjustment must be made on the basis of the discounted supply price applicable to such period.
 
-(3A)[^key-be66d53577febf9d9b8dd1cda092d1b7] Subject to the exceptions in paragraph (3B), the duties in paragraphs (1) and (3) (the “discount duties”) do not apply to a supplier on and after the date (the “discount duties end date”) which is the later of—
+(3A)[^c-be66d53577febf9d9b8dd1cda092d1b7] Subject to the exceptions in paragraph (3B), the duties in paragraphs (1) and (3) (the “discount duties”) do not apply to a supplier on and after the date (the “discount duties end date”) which is the later of—
 
 - (a) the reconciliation run-off date in respect of that supplier, or
 - (b) the date the Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 come into force.
@@ -953,7 +953,7 @@ Where—
 
 (6) Arrangements and requirements referred to in paragraph (5)(a) include (without limitation) arrangements or requirements for advance payment, payment by direct debit, payment by instalments, security or credit cover for payment.
 
-#### 31. Consequences of change in contract categorisation[^key-7c8d19125caf50cbd255dfd03d75a534]
+#### 31. Consequences of change in contract categorisation[^c-7c8d19125caf50cbd255dfd03d75a534]
 
 Where the categorisation of a supply contract under regulation 11 is revised, either by agreement of the contract parties or by determination of the Secretary of State under these Regulations, the supplier must—
 
@@ -966,7 +966,7 @@ Where the categorisation of a supply contract under regulation 11 is revised, ei
 
 ### CHAPTER 1 — Entitlements in respect of discount recovery
 
-#### 32. Entitlements in respect of discount recovery[^key-f7c66b1b72d047242ad1e22aeabd8353]
+#### 32. Entitlements in respect of discount recovery[^c-f7c66b1b72d047242ad1e22aeabd8353]
 
 (1) A supplier is entitled to recover from the Secretary of State, as provided in this Part, the amount by which, in any period, its charges to customers under supply contracts are reduced by the application of discounts in accordance with Part 2 and Part 4.
 
@@ -976,7 +976,7 @@ Where the categorisation of a supply contract under regulation 11 is revised, ei
 
 (4) The Secretary of State is entitled to recover from a supplier any amount paid to the supplier under this Part that exceeds what the supplier is entitled to recover under this Part.
 
-#### 33. Determination of amounts subject to discount recovery[^key-a70d08cdf43ee2ee7ce9ddb3501038c3]
+#### 33. Determination of amounts subject to discount recovery[^c-a70d08cdf43ee2ee7ce9ddb3501038c3]
 
 (1) For each supply contract, the “supply contract recovery amount” is the amount that is payable to or by the supplier in respect of a discount recovery claim, and is calculated as the sum of—
 
@@ -1014,7 +1014,7 @@ Where the categorisation of a supply contract under regulation 11 is revised, ei
 
 (9) Where a customer gives an opt-out notice in respect of a supply contract, this Part continues to apply in relation to the amounts referred to in paragraph (1)(b) for any period of supply under the supply contract before the day from which the opt-out notice was effective.
 
-#### 34. Payment of amounts in respect of discount recovery[^key-ac69eacdba5e0cc986043887d4be0273]
+#### 34. Payment of amounts in respect of discount recovery[^c-ac69eacdba5e0cc986043887d4be0273]
 
 (1) The amount payable in respect of a supplier’s discount recovery claim as a whole (“the recovery claim amount”) is, subject to the application of regulation 41, the sum of—
 
@@ -1043,17 +1043,17 @@ no later than the 10th business day after the last day of the claim window in wh
 
 (8) An amount payable to a supplier or the Secretary of State under this regulation is recoverable as a civil debt by the person to which it is payable.
 
-#### 35. Assignment of rights in respect of payment[^key-3c43a25da9d81b7693e89fef033877a5]
+#### 35. Assignment of rights in respect of payment[^c-3c43a25da9d81b7693e89fef033877a5]
 
 A supplier may not assign, transfer or otherwise deal with its right to receive payment of amounts in respect of discount recovery under this Part except with the consent of the Secretary of State.
 
-#### 36. Absolute right of Secretary of State to recover[^key-bae83df15bb1ef21aa62c13e777f5db7]
+#### 36. Absolute right of Secretary of State to recover[^c-bae83df15bb1ef21aa62c13e777f5db7]
 
 The Secretary of State may at any time (including after the reconciliation cut-off date) require a supplier to pay any amount which has been paid to the supplier in excess of what the supplier is entitled to be paid under the scheme.
 
 ### CHAPTER 2 — Withholding of payments in respect of discount recovery
 
-#### 37. Rights of Secretary of State to withhold payment[^key-94f8635596d13ca66928c4514eee8935]
+#### 37. Rights of Secretary of State to withhold payment[^c-94f8635596d13ca66928c4514eee8935]
 
 (1) The Secretary of State may withhold payment of all or part of the amount payable to a supplier in respect of a recovery claim amount in the following circumstances—
 
@@ -1092,7 +1092,7 @@ The Secretary of State may at any time (including after the reconciliation cut-o
 - (j) its shareholders, directors or other officers request the appointment of, or give notice of their intention to appoint, a liquidator, trustee in bankruptcy, judicial custodian, compulsory manager, receiver, administrative receiver, administrator or similar officer in respect of it or any of its assets;
 - (k) any other analogous step or procedure is taken in any jurisdiction (whether Northern Ireland, Scotland, England and Wales or elsewhere).
 
-#### 38. Release of amounts withheld[^key-6765ca4e70582ff82e38d4341c7b74f2]
+#### 38. Release of amounts withheld[^c-6765ca4e70582ff82e38d4341c7b74f2]
 
 (1) Paragraph (2) applies if—
 
@@ -1131,7 +1131,7 @@ the Secretary of State must, within a reasonable time, release the amount withhe
 
 ### CHAPTER 3 — Reconciliation run-off
 
-#### 39. Reconciliation run-off[^key-57045cf8fe5b3736dcde854ad01a4b93]
+#### 39. Reconciliation run-off[^c-57045cf8fe5b3736dcde854ad01a4b93]
 
 (1) This regulation provides for reconciliation and adjustment to continue, after the scheme end date, in respect of claims for discount recovery in respect of periods of supply within either scheme period.
 
@@ -1152,7 +1152,7 @@ the Secretary of State must, within a reasonable time, release the amount withhe
 
 ### CHAPTER 4 — Procedure for discount recovery
 
-#### 40. Submission of a valid discount recovery claim[^key-e2a20e9612c4439e351b84a381408e8e]
+#### 40. Submission of a valid discount recovery claim[^c-e2a20e9612c4439e351b84a381408e8e]
 
 (1) A supplier may apply for discount recovery by submitting a discount recovery claim to the Secretary of State, setting out—
 
@@ -1177,7 +1177,7 @@ the Secretary of State must, within a reasonable time, release the amount withhe
 - (a) the requirements in this regulation, and
 - (b) the further requirements for a valid discount recovery claim set out in the discount recovery rules.
 
-#### 41. Invalid, erroneous or absent discount recovery claims[^key-8155de503b0627ac653e3d25b56ba8b3]
+#### 41. Invalid, erroneous or absent discount recovery claims[^c-8155de503b0627ac653e3d25b56ba8b3]
 
 (1) Where the Secretary of State considers that a claim submitted by a supplier is not a valid discount recovery claim, the Secretary of State may—
 
@@ -1196,7 +1196,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (a) the Secretary of State may give notice to the supplier setting out that recovery claim amount and details of how it was calculated;
 - (b) the notice is to be treated as a valid discount recovery claim for the purposes of this Chapter.
 
-#### 42. Reporting details of Part 4 arrangements[^key-d4e20c46c11b2d557b45112904c8b403]
+#### 42. Reporting details of Part 4 arrangements[^c-d4e20c46c11b2d557b45112904c8b403]
 
 (1) A supplier must include, in each discount recovery claim that it submits—
 
@@ -1208,7 +1208,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (a) in relation to any supply contract in respect of which Chapter 1, 2 or 4 of Part 4 applies, details of each declaration submitted by the customer, and each calculation or determination made by the supplier, under regulation 49(2), 54(3) or 63(2);
 - (b) in relation to any supply contract in respect of which Chapter 3 of Part 4 applies, details of each notice given or received by the supplier under regulation 58(1)(b)(ii) and confirmation that the requirements in regulation 58(1)(c) are being complied with.
 
-#### 43. Discount recovery rules[^key-53238980707e4e70e98437c732ea999e]
+#### 43. Discount recovery rules[^c-53238980707e4e70e98437c732ea999e]
 
 (1) The Secretary of State must make rules about discount recovery.
 
@@ -1227,7 +1227,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 
 (4) The rules may provide, in respect of claim windows starting after the end of the second scheme period, that such windows, instead of being set out in the rules, are to be determined and published by the Secretary of State at intervals decided by the Secretary of State.
 
-#### 44. Claim windows[^key-38572c96e9297020b4a97a5da74e15e3]
+#### 44. Claim windows[^c-38572c96e9297020b4a97a5da74e15e3]
 
 (1) Regardless of whether claim windows are specified under regulation 43(3) or published under regulation 43(4)—
 
@@ -1241,7 +1241,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 
 (3) Where claim windows are published under regulation 43(4), after the Secretary of State has determined and published the last reconciliation run-off date in respect of any supplier, the Secretary of State need not determine and publish any claim window that starts after that date.
 
-#### 45. Delegation of functions related to discount recovery[^key-d5c1bdd0991655a5fd19dc03ffa96a7d]
+#### 45. Delegation of functions related to discount recovery[^c-d5c1bdd0991655a5fd19dc03ffa96a7d]
 
 (1) The Secretary of State may delegate to any person the performance of any of the Secretary of State’s functions under the discount recovery rules.
 
@@ -1255,7 +1255,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 
 ### CHAPTER 1 — Arrangements in respect of customer’s financial exposure to wholesale price
 
-#### 46. Interpretation of this Chapter[^key-b802f96d847d5ed07f286999ea76193e]
+#### 46. Interpretation of this Chapter[^c-b802f96d847d5ed07f286999ea76193e]
 
 (1) For the purposes of this Chapter—
 
@@ -1279,7 +1279,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - “gas transporter” and “pipe-line system” have the meanings given to them in the Gas (Northern Ireland) Order1996[^f00018];
 - “transmission licence” and “transmission system” have the meanings given to them in the Electricity Act (Northern Ireland) Order 1992[^f00019].
 
-#### 47. Application of this Chapter[^key-4ee36927895459c9971ac1c96f546c62]
+#### 47. Application of this Chapter[^c-4ee36927895459c9971ac1c96f546c62]
 
 (1) This Chapter applies in respect of a supply contract where—
 
@@ -1294,7 +1294,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (b) arrangements under which the customer obtains a benefit from the provision of balancing services;
 - (c) in connection with the electricity scheme, arrangements under which the customer obtains a benefit by exporting electricity to an electricity system.
 
-#### 48. Customer declaration where this Chapter applies[^key-0ad69af536a5757f3be43aa62d3570a4]
+#### 48. Customer declaration where this Chapter applies[^c-0ad69af536a5757f3be43aa62d3570a4]
 
 (1) A customer must, as soon as practicable and in any event within the period of 21 days beginning with the initial declaration date—
 
@@ -1311,7 +1311,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (a) when it enters into a supply contract, or
 - (b) in the case of a supply contract entered into before the scheme introduction date, within the period of 45 days beginning with the scheme introduction date.
 
-#### 49. Adjustment of discount[^key-e60e8c50de375aab0b71b748fb86a644]
+#### 49. Adjustment of discount[^c-e60e8c50de375aab0b71b748fb86a644]
 
 (1) In respect of any period and supply contract in respect of which Chapter 1 arrangements apply—
 
@@ -1333,7 +1333,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
   - RWP’ is the price that would otherwise be determined (under regulation 9 or in accordance with regulation 10) as the reference wholesale price;
   - UAB is the unit arrangement benefit;
 - (d) in relation to a variable price contract, if the term {CFE – EFE} in paragraph (a) is negative, the arrangement benefit in respect of that period is zero.
-- (e)[^key-9eae57b35e4ea04eacc115326d778336] on and after the discount duties end date for a supplier, sub-paragraph (d) is to be read in relation to that supplier as though the words “in relation to a variable price contract” were omitted;
+- (e)[^c-9eae57b35e4ea04eacc115326d778336] on and after the discount duties end date for a supplier, sub-paragraph (d) is to be read in relation to that supplier as though the words “in relation to a variable price contract” were omitted;
 - (f) sub-paragraph (e) does not apply to a supplier in relation to energy—
   - (i) in respect of which the supplier has billed the customer before the discount duties end date,
   - (ii) supplied in a billing period in respect of which the supplier has not billed the customer before the discount duties end date, or
@@ -1357,7 +1357,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (a) an estimate of the arrangement benefit will be used in determining charges for a billing period before the steps in paragraph (2) are completed, and
 - (b) a subsequent reconciliation will be made when those steps are completed.
 
-#### 50. Rules in relation to this Chapter[^key-c64d0449fe68b03bfd031dd2eb4c5e33]
+#### 50. Rules in relation to this Chapter[^c-c64d0449fe68b03bfd031dd2eb4c5e33]
 
 (1) The Secretary of State may make rules about Chapter 1 arrangements.
 
@@ -1370,7 +1370,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 
 ### CHAPTER 2 — Arrangements for customer to deliver electricity to the grid
 
-#### 51. Interpretation of this Chapter[^key-95b3bbdd1fae40c1bcb3149a5de3a36b]
+#### 51. Interpretation of this Chapter[^c-95b3bbdd1fae40c1bcb3149a5de3a36b]
 
 (1) For the purposes of this Chapter—
 
@@ -1384,7 +1384,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (d) “periodic declaration dates” are dates chosen by the supplier, falling at intervals of not more than one month, of which the first must be not more than 31 days after the initial declaration date and the last must be the last day of the second scheme period;
 - (e) references to the storage of electricity include the use of electricity to create potential energy which is used at a different time to generate electricity.
 
-#### 52. Application of this Chapter[^key-5865cf3bd65d04cd004e60c30058deac]
+#### 52. Application of this Chapter[^c-5865cf3bd65d04cd004e60c30058deac]
 
 (1) Subject to paragraph (2), this Chapter applies in respect of a supply contract where—
 
@@ -1403,7 +1403,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (b) the quantities in which that electricity is or may be delivered to an electricity system are not material;
 - (c) the application of this Chapter would be disproportionate, having regard to the complexity of determining ineligible quantities and to the capacity or quantities referred to in sub-paragraphs (a) or (b).
 
-#### 53. Customer declaration where this Chapter applies[^key-93c4736015243473fe4f67fd0f2e474c]
+#### 53. Customer declaration where this Chapter applies[^c-93c4736015243473fe4f67fd0f2e474c]
 
 (1) A customer must, as soon as practicable and in any event within the period of 21 days beginning with the initial declaration date—
 
@@ -1420,7 +1420,7 @@ until the invalidity is corrected or the claim is replaced by a valid discount r
 - (a) when it enters into a supply contract, or
 - (b) in the case of a supply contract entered into before the scheme introduction date, within the period of 45 days beginning with the scheme introduction date.
 
-#### 54. Determination of ineligible quantity[^key-79d3af25fbb39bfadcf85037e76b0f32]
+#### 54. Determination of ineligible quantity[^c-79d3af25fbb39bfadcf85037e76b0f32]
 
 (1) Where this Chapter applies in respect of a supply contract, that part of—
 
@@ -1444,7 +1444,7 @@ is an “**ineligible quantity**” for the purposes of the scheme.
 - (a) an estimate of the ineligible quantity will be used in determining charges for a billing period before the steps in paragraph (3) are completed, and
 - (b) a subsequent reconciliation will be performed when those steps are completed.
 
-#### 55. Rules in relation to this Chapter[^key-919d8c994c6d88f5343df2d5b5cad72c]
+#### 55. Rules in relation to this Chapter[^c-919d8c994c6d88f5343df2d5b5cad72c]
 
 (1) The Secretary of State may make rules about Chapter 2 arrangements.
 
@@ -1458,14 +1458,14 @@ is an “**ineligible quantity**” for the purposes of the scheme.
 
 ### CHAPTER 3 — Abuse of scheme
 
-#### 56. Interpretation of this Chapter[^key-8fcda178a0a9af0931319775b2bad14b]
+#### 56. Interpretation of this Chapter[^c-8fcda178a0a9af0931319775b2bad14b]
 
 In this Chapter—
 
 - “**abusive arrangement**” means an arrangement of the kind described in regulation 57(1);
 - “**benefit of the scheme**” means the amount by which the charges to a customer for energy supplied under a supply contract are reduced under the scheme.
 
-#### 57. Application of this Chapter and declaration of abusive arrangement[^key-2a19a84a4b3accbd1c6ea5ef60da1b87]
+#### 57. Application of this Chapter and declaration of abusive arrangement[^c-2a19a84a4b3accbd1c6ea5ef60da1b87]
 
 (1) This Chapter applies in respect of a supply contract if either or both of the customer or the supplier is party to an arrangement the purpose or main purpose of which is to achieve an increase in the benefit of the scheme (an “abusive arrangement”).
 
@@ -1476,7 +1476,7 @@ In this Chapter—
 - (a) the date on which the abusive arrangement is made, or
 - (b) if the abusive arrangement was made before the scheme introduction date, the scheme introduction date.
 
-#### 58. Reduction of discount[^key-ab1c0d9c7843de6cee74b53be4203526]
+#### 58. Reduction of discount[^c-ab1c0d9c7843de6cee74b53be4203526]
 
 (1) If in relation to a supply contract either the customer or the supplier is party to an abusive arrangement—
 
@@ -1493,7 +1493,7 @@ In this Chapter—
 - (a) the supplier, if it is party to the abusive arrangement;
 - (b) otherwise, the customer.
 
-#### 59. Rules in relation to this Chapter[^key-d1958ff45bfd100251c580a588e95608]
+#### 59. Rules in relation to this Chapter[^c-d1958ff45bfd100251c580a588e95608]
 
 The Secretary of State may make rules about—
 
@@ -1503,7 +1503,7 @@ The Secretary of State may make rules about—
 
 ### CHAPTER 4 — Declarations to be made where customer is making energy available to end users outside Northern Ireland
 
-#### 60. Interpretation of this Chapter[^key-9e3e1bd348af9087be67c3ba1389b975]
+#### 60. Interpretation of this Chapter[^c-9e3e1bd348af9087be67c3ba1389b975]
 
 For the purposes of this Chapter—
 
@@ -1514,7 +1514,7 @@ For the purposes of this Chapter—
 - (c) “periodic declaration dates” are dates chosen by the supplier, falling at intervals of not more than one month, of which the first shall be not more than 31 days after the initial declaration date and the last shall be the last day of the second scheme period;
 - (d) “**relevant arrangement**” has the meaning given in regulation 61(3).
 
-#### 61. Application of this Chapter[^key-ac3541ca74cd2a1e0193c81c67c3f0c5]
+#### 61. Application of this Chapter[^c-ac3541ca74cd2a1e0193c81c67c3f0c5]
 
 (1) This Chapter applies in respect of a supply contract, subject to paragraph (2), where —
 
@@ -1534,7 +1534,7 @@ For the purposes of this Chapter—
 
 (3) Any arrangement of the kind described in paragraph (1)(b) is a “**relevant arrangement**” for the purposes of this Chapter.
 
-#### 62. Customer declaration where this Chapter applies[^key-01dfb283147ff1e1b1701cba52783bd3]
+#### 62. Customer declaration where this Chapter applies[^c-01dfb283147ff1e1b1701cba52783bd3]
 
 (1) A customer must, as soon as practicable and in any event within 21 days after the initial declaration date—
 
@@ -1547,7 +1547,7 @@ For the purposes of this Chapter—
 - (b) if either circumstance applies, give the customer notice of that determination, and
 - (c) draw this Chapter to the attention of the customer, unless the customer has already sent a declaration under paragraph (1)(b).
 
-#### 63. Determination of non-qualifying quantity[^key-d322645c86c8acc773a3872e229a5713]
+#### 63. Determination of non-qualifying quantity[^c-d322645c86c8acc773a3872e229a5713]
 
 (1) Where this Chapter applies in respect of a supply contract, that part of the quantity of electricity or gas supplied (in any period)—
 
@@ -1566,7 +1566,7 @@ is a “**non-qualifying quantity**” for the purposes of the scheme.
 
 (3) The contract parties may agree a basis on which an estimate of the non-qualifying quantity will be used in determining charges for a billing period before (and with a subsequent reconciliation when) the steps in paragraph (2) are completed.
 
-#### 64. Rules in relation to this Chapter[^key-cc42d10e8756bdc0536cc4635fac6175]
+#### 64. Rules in relation to this Chapter[^c-cc42d10e8756bdc0536cc4635fac6175]
 
 The Secretary of State may make rules about—
 
@@ -1578,7 +1578,7 @@ The Secretary of State may make rules about—
 
 ### CHAPTER 1 — Duties of suppliers in connection with the scheme
 
-#### 65. Increases in charges and other changes in relation to supply contracts[^key-8d4c11f2189c72303abfd57dfecf8a5e]
+#### 65. Increases in charges and other changes in relation to supply contracts[^c-8d4c11f2189c72303abfd57dfecf8a5e]
 
 (1) A supplier must not, in respect of energy supplied under a supply contract, unreasonably—
 
@@ -1599,7 +1599,7 @@ The Secretary of State may make rules about—
 
 ### CHAPTER 2 — Deemed terms of supply contracts
 
-#### 66. Deemed terms of supply contracts[^key-2968a44f0c4db1f0faef3b0996edaa60]
+#### 66. Deemed terms of supply contracts[^c-2968a44f0c4db1f0faef3b0996edaa60]
 
 (1) Subject to paragraphs (3) and (4), terms to the following effect are implied into a supply contract—
 
@@ -1631,7 +1631,7 @@ The Secretary of State may make rules about—
 
 ### CHAPTER 3 — Reporting, information requests and audit
 
-#### 67. Regular reporting by suppliers[^key-c7612378e6bf17df8efe4bf5a4579176]
+#### 67. Regular reporting by suppliers[^c-c7612378e6bf17df8efe4bf5a4579176]
 
 (1) The Secretary of State may by notice require suppliers to provide to the Secretary of State at specified intervals a report about the operation of the scheme as respects the supplier and its customers.
 
@@ -1644,7 +1644,7 @@ The Secretary of State may make rules about—
 
 (4) A supplier must provide reports as required by the notice.
 
-#### 68. Information requests[^key-b35e8b1594a9163bcb3680c2928cc812]
+#### 68. Information requests[^c-b35e8b1594a9163bcb3680c2928cc812]
 
 (1) Where the Secretary of State considers it necessary or expedient to do so for any of the purposes set out in regulation 70, the Secretary of State may give notice to any supplier, customer, provider or certified ETII operator requiring it, by a time specified in the notice—
 
@@ -1662,7 +1662,7 @@ The Secretary of State may make rules about—
 
 (5) No person is to be compelled under this regulation to produce any document which they could not be compelled to produce in civil proceedings in the court or to provide any information which they could not be compelled to give in evidence in any such proceedings.
 
-#### 69. Audit[^key-6cbceca5c797b76a920a9cc964ef0cd9]
+#### 69. Audit[^c-6cbceca5c797b76a920a9cc964ef0cd9]
 
 (1) Where the Secretary of State considers it appropriate to do so for the purposes set out in regulation 70(a), (b) or (d), the Secretary of State may by notice to a supplier require that an audit of the books, records, systems, processes and methodologies of the supplier is performed by a suitably qualified person appointed by the Secretary of State.
 
@@ -1672,7 +1672,7 @@ The Secretary of State may make rules about—
 - (b) the audit must be performed so far as practicable without causing disruption to the supplier in carrying on its business;
 - (c) the costs of the person appointed by the Secretary of State are to be borne by the Secretary of State.
 
-#### 70. Purposes for which powers under this Chapter may be exercised[^key-efc1aec5a72de6aea332a4b89273f32d]
+#### 70. Purposes for which powers under this Chapter may be exercised[^c-efc1aec5a72de6aea332a4b89273f32d]
 
 The purposes are—
 
@@ -1687,7 +1687,7 @@ The purposes are—
 - (e) obtaining information in connection with any review, including a review under section 11(5) of the Act, by the Secretary of State of the operation and effects of the scheme;
 - (f) otherwise obtaining information in connection with the exercise of any of the functions of the Secretary of State in or under these Regulations.
 
-#### 71. Application of data protection legislation[^key-2ba08b1f767d4c0873aa8d691f8eec2d]
+#### 71. Application of data protection legislation[^c-2ba08b1f767d4c0873aa8d691f8eec2d]
 
 (1) Nothing in these Regulations authorises or requires a disclosure of information if the disclosure would contravene the data protection legislation, as defined in section 3 of the Data Protection Act 2018[^f00020].
 
@@ -1695,7 +1695,7 @@ The purposes are—
 
 ### CHAPTER 4 — Certain determinations made under the Regulations
 
-#### 72. Interpretation of this Chapter[^key-137f8215eb168883358eb47705fc8257]
+#### 72. Interpretation of this Chapter[^c-137f8215eb168883358eb47705fc8257]
 
 (1) In this Chapter—
 
@@ -1731,7 +1731,7 @@ The purposes are—
   - (i) the customer was notified or otherwise informed of the supplier’s determination referred to in regulation 73(1)(a), or
   - (ii) the relevant decision was made.
 
-#### 73. Referrals in respect of disagreement between contract parties[^key-31313c4e41f0ecfd92b76cb3dc08ecca]
+#### 73. Referrals in respect of disagreement between contract parties[^c-31313c4e41f0ecfd92b76cb3dc08ecca]
 
 (1) Where, in relation to a supply contract, the customer disagrees with a determination made by the supplier in respect of a Part 2 or Part 4 matter—
 
@@ -1740,21 +1740,21 @@ The purposes are—
 
 (2) If the disagreement is resolved, the supplier must, if such resolution so requires, redetermine the matter in question and give a revised notice to or otherwise inform the customer of such redetermination accordingly.
 
-(3) Subject to the exception in paragraph(3A),[^key-8ed1ac1aaff37eac2f9ff88d910b15df] if the disagreement is not resolved within a reasonable time after the notice was given—
+(3) Subject to the exception in paragraph(3A),[^c-8ed1ac1aaff37eac2f9ff88d910b15df] if the disagreement is not resolved within a reasonable time after the notice was given—
 
 - (a) the supplier’s determination remains effective, and the relevant matter is determined on the basis of what is said in the notice, pending any determination pursuant to a reference under sub-paragraph (b);
 - (b) the supplier or the customer may refer the matter for determination by the Secretary of State;
 - (c) subject to paragraph (4), the Secretary of State must determine the matter and give notice of the determination to the contract parties;
 - (d) the Regulations apply in relation to the supply contract on the basis of the determination made by the Secretary of State and the contract parties must comply with that determination.
 
-(3A)[^key-f04e947b4f518467ed854e8861d7deee] Where the disagreement is not resolved and the matter concerns a determination made by the supplier under or by virtue of regulations 30(3A) and (3B) or 49(1)(e) and (f)—
+(3A)[^c-f04e947b4f518467ed854e8861d7deee] Where the disagreement is not resolved and the matter concerns a determination made by the supplier under or by virtue of regulations 30(3A) and (3B) or 49(1)(e) and (f)—
 
 - (a) paragraph (3) does not apply, and
 - (b) the supplier’s determination remains effective.
 
 (4) The Secretary of State may decline to determine a matter referred under this regulation where the Secretary of State considers that the referral does not meet the applicable threshold, by giving notice to that effect to the contract parties setting out the reasons for so considering.
 
-#### 74. Power of the Secretary of State to make determinations[^key-00acf83618a8eb636ed8050f76ef0caf]
+#### 74. Power of the Secretary of State to make determinations[^c-00acf83618a8eb636ed8050f76ef0caf]
 
 (1) This regulation applies if the Secretary of State considers that, in relation to a supply contract—
 
@@ -1778,7 +1778,7 @@ The purposes are—
 
 (4) The Regulations apply, in relation to the supply contract, on the basis of the determination made by the Secretary of State and the contract parties or (as the case may be) the provider must comply with that determination.
 
-#### 75. Review of decisions of the Secretary of State[^key-124e75c447d1a1fbce424261a14a97ca]
+#### 75. Review of decisions of the Secretary of State[^c-124e75c447d1a1fbce424261a14a97ca]
 
 (1) A supplier or a customer may request the Secretary of State to review a determination made by the Secretary of State under regulation 73 or 74 in respect of a Part 2 or Part 4 matter.
 
@@ -1807,7 +1807,7 @@ The purposes are—
 
 (8) The Regulations apply, in relation to the supply contract, on the basis of the reconsidered decision and each affected person must comply with it.
 
-#### 76. Rules in relation to this Chapter[^key-9da3a6c7374fe1b069280e061cc704fa]
+#### 76. Rules in relation to this Chapter[^c-9da3a6c7374fe1b069280e061cc704fa]
 
 (1) The Secretary of State must, no later than the scheme introduction date, make rules setting out procedures for—
 
@@ -1827,7 +1827,7 @@ The purposes are—
 
 ### CHAPTER 5 — Enforcement
 
-#### 77. Supplier obligations enforceable as relevant requirements[^key-d348b3c2f14e91a2b10c435c46af1547]
+#### 77. Supplier obligations enforceable as relevant requirements[^c-d348b3c2f14e91a2b10c435c46af1547]
 
 (1) The obligations of suppliers under the following provisions are enforceable by the Northern Ireland Regulator as if they were relevant requirements on a regulated person for the purposes of Articles 41A and 41B of the Energy (Northern Ireland) Order 2003[^f00021]—
 
@@ -1848,7 +1848,7 @@ The purposes are—
 
 (6) The Northern Ireland Regulator must keep the Secretary of State informed of the number of matters that it is currently considering in respect of its enforcement obligations under these Regulations.
 
-#### 78. Requirement to apply for a QHS certificate[^key-bc5e1d9ac9afc90a148b12a87c24984c]
+#### 78. Requirement to apply for a QHS certificate[^c-bc5e1d9ac9afc90a148b12a87c24984c]
 
 (1) A qualifying heat supplier is subject to civil enforcement action—
 
@@ -1857,7 +1857,7 @@ The purposes are—
 
 (2) For the purposes of paragraph (1), that Schedule applies with the modifications set out in Schedule 1.
 
-#### 79. Civil penalties for customers[^key-36056f9a8abf52eb02cc2e79afa28dd5]
+#### 79. Civil penalties for customers[^c-36056f9a8abf52eb02cc2e79afa28dd5]
 
 (1) A customer is liable to the civil penalty referred to in paragraph (4) where the customer fails to make a relevant declaration by the required time.
 
@@ -1922,7 +1922,7 @@ The purposes are—
   - (a) begins at the required time or (as the case may be) when a defective declaration is made, and
   - (b) ends at the time when the declaration was made or (as the case may be) a declaration which is not defective was made, or (if earlier) the end of the second scheme period.
 
-#### 80. Civil penalties for defaulting persons[^key-51d4bf66f2a8aed7b94fb8ab42987e80]
+#### 80. Civil penalties for defaulting persons[^c-51d4bf66f2a8aed7b94fb8ab42987e80]
 
 (1) A defaulting person is liable to the civil penalty referred to in paragraph (3) in respect of the Chapter 3 default.
 
@@ -1967,17 +1967,17 @@ The purposes are—
 
 ### CHAPTER 6 — Notices, EBRS actions, amendment of EBRS Regulations
 
-#### 81. Notices[^key-a033d480fc8fd2fe80d20ca2c342c381]
+#### 81. Notices[^c-a033d480fc8fd2fe80d20ca2c342c381]
 
 (1) Any notice or other communication to be given by the Secretary of State, a supplier or a customer under these Regulations must be given in writing.
 
 (2) Any notice to be given by the Secretary of State under the Regulations (unless it is to be given to a particular supplier or customer) may be given by the Secretary of State publishing the notice in such manner as the Secretary of State considers appropriate.
 
-#### 82. EBRS actions[^key-c3233e42962ffb9d1812d01171f68efe]
+#### 82. EBRS actions[^c-c3233e42962ffb9d1812d01171f68efe]
 
 Any decision, communication or other action made, given or taken, before the scheme start date, for the purposes of EBRS, by the Secretary of State, a supplier or a customer, under any of the provisions of the EBRS Regulations set out in the first column of the table in the Schedule 2 shall be treated as if it had been made, given or taken for the purposes of the scheme under the corresponding provision of these Regulations set out in the second column.
 
-#### 83. Amendment of EBRS Regulations[^key-3b911d38deb92e3a5d9aa78434a9aaf2]
+#### 83. Amendment of EBRS Regulations[^c-3b911d38deb92e3a5d9aa78434a9aaf2]
 
 In regulation 34 of the EBRS Regulations, for paragraphs (2) and (3) substitute—
 
@@ -2005,9 +2005,9 @@ Department for Energy Security and Net Zero
 
 Regulation 78
 
-**1.**[^key-5827edbb56803c09c8e16ba99b140493] In paragraph 1, omit the words “, an enforcement undertaking”.
+**1.**[^c-5827edbb56803c09c8e16ba99b140493] In paragraph 1, omit the words “, an enforcement undertaking”.
 
-**2.**[^key-b3305a525453aeee2e64b3e318489f8e] After paragraph 1, insert—
+**2.**[^c-b3305a525453aeee2e64b3e318489f8e] After paragraph 1, insert—
 
 > **1A. Interpretation**
 >
@@ -2064,7 +2064,7 @@ Regulation 78
 
 .
 
-**3.**[^key-f6be516f9bb1cee852aedec91dc22ff9] In paragraph 2—
+**3.**[^c-f6be516f9bb1cee852aedec91dc22ff9] In paragraph 2—
 
 - (a) for sub-paragraph (1) substitute—
 
@@ -2074,9 +2074,9 @@ Regulation 78
 - (b) in sub-paragraph (2), for “offence does not continue or recur” substitute “intermediary complies with that duty”;
 - (c) omit sub-paragraph (3).
 
-**4.**[^key-1dabea8f9c9e88ef1dd143f7925e699f] Omit paragraphs 8 to 13.
+**4.**[^c-1dabea8f9c9e88ef1dd143f7925e699f] Omit paragraphs 8 to 13.
 
-**5.**[^key-db0c17d44db166f49963d4169724ec23] In paragraph 14—
+**5.**[^c-db0c17d44db166f49963d4169724ec23] In paragraph 14—
 
 - (a) for sub-paragraph (1) substitute—
 
@@ -2095,16 +2095,16 @@ Regulation 78
 
   .
 
-**6.**[^key-91179b56576089c492f7bc76152c9f20] In paragraph 17 omit sub-paragraph (5).
+**6.**[^c-91179b56576089c492f7bc76152c9f20] In paragraph 17 omit sub-paragraph (5).
 
-**7.**[^key-eddb212d6c04c4151f685a6f202fe43e] The requirement in paragraph 18 (consultation on guidance) does not apply to any guidance that an authorised person intends to publish under paragraph 17 about the use of civil sanctions in connection with these Regulations.
+**7.**[^c-eddb212d6c04c4151f685a6f202fe43e] The requirement in paragraph 18 (consultation on guidance) does not apply to any guidance that an authorised person intends to publish under paragraph 17 about the use of civil sanctions in connection with these Regulations.
 
-**8.**[^key-7482bfab62d5ed6c9ab86034be02df6d] In paragraph 19—
+**8.**[^c-7482bfab62d5ed6c9ab86034be02df6d] In paragraph 19—
 
 - (a) in sub-paragraph 1(a) omit “; and”;
 - (b) omit sub-paragraph (1)(b).
 
-## SCHEDULE 2 — Actions under EBRS which are treated as done under the scheme[^key-d2a10bc8b4fdeafc67fe1444e706a4cf]
+## SCHEDULE 2 — Actions under EBRS which are treated as done under the scheme[^c-d2a10bc8b4fdeafc67fe1444e706a4cf]
 
 Regulation 82
 
@@ -2156,9 +2156,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2022 c. 44](https://www.legislation.gov.uk/ukpga/2022/44).
 
-[^key-a311296d14b89933b27237a59a997cd5]: Commencement: Reg. 1 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-a311296d14b89933b27237a59a997cd5]: Commencement: Reg. 1 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-0acb181b0460f85254ac387e51cc4268]: Commencement: Reg. 2 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-0acb181b0460f85254ac387e51cc4268]: Commencement: Reg. 2 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00002]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
@@ -2182,217 +2182,217 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: Defined in section 12(2) and 12(5) of the Energy Prices Act 2022.
 
-[^key-923b3ac4101dbf1cf7f949b2580bf961]: Commencement: Reg. 3 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-923b3ac4101dbf1cf7f949b2580bf961]: Commencement: Reg. 3 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-c9e62fb22285b60cf99299cd5e323148]: Commencement: Reg. 4 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-c9e62fb22285b60cf99299cd5e323148]: Commencement: Reg. 4 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-864a063128cd9ed09c3dc2776fe64446]: Commencement: Reg. 5 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-864a063128cd9ed09c3dc2776fe64446]: Commencement: Reg. 5 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-1840e647225218fd6fa28eccfb1c4299]: Commencement: Reg. 6 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-1840e647225218fd6fa28eccfb1c4299]: Commencement: Reg. 6 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-c04da3ee9a43692ab1e95efc3e28af86]: Commencement: Reg. 7 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-c04da3ee9a43692ab1e95efc3e28af86]: Commencement: Reg. 7 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-a71718b9590c39d362491eebbbfcf726]: Commencement: Reg. 8 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-a71718b9590c39d362491eebbbfcf726]: Commencement: Reg. 8 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00013]: Footnote: [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17).
 
-[^key-315001acd8fa448b8cf867149be9691b]: Commencement: Reg. 9 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-315001acd8fa448b8cf867149be9691b]: Commencement: Reg. 9 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-b2ee95d8132e10ccd735dd118430c7b2]: Commencement: Reg. 10 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-b2ee95d8132e10ccd735dd118430c7b2]: Commencement: Reg. 10 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d6cfa4b818d93b67a6b3c78d078293a9]: Commencement: Reg. 11 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d6cfa4b818d93b67a6b3c78d078293a9]: Commencement: Reg. 11 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-abbb02efd29f81f50252421026c50e12]: Commencement: Reg. 12 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-abbb02efd29f81f50252421026c50e12]: Commencement: Reg. 12 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-8c0e948608472343258a1ab9549d574b]: Commencement: Reg. 13 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-8c0e948608472343258a1ab9549d574b]: Commencement: Reg. 13 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-ff3301775a7592223746d302eb2c3f06]: Commencement: Reg. 14 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-ff3301775a7592223746d302eb2c3f06]: Commencement: Reg. 14 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-b67f974bbdbe2676f35b033747ee4d7b]: Commencement: Reg. 15 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-b67f974bbdbe2676f35b033747ee4d7b]: Commencement: Reg. 15 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00014]: Footnote: [1972, c. 9](https://www.legislation.gov.uk/ukpga/1972/9). The Act was amended by the Local Government (Boundaries) Act (Northern Ireland) [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), sections 3(1), 5(3); [S.R. 2013 No. 238](https://www.legislation.gov.uk/nisr/2013/238), articles 2, 3(1), 4(1), 5(1) (with articles 3(2), 4(2), 5(2)-(4) (as amended (31.3.2015) by [S.R. 2015 No. 210](https://www.legislation.gov.uk/nisr/2015/210), article 2)).
 
 [^f00015]: Footnote: (SIC 2007) published by the Office for National Statistics in December 2009 with ISBN number 978-0-230-21012-7.
 
-[^key-47b7c727161d80a6dc84d1976744da03]: Commencement: Reg. 16 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-47b7c727161d80a6dc84d1976744da03]: Commencement: Reg. 16 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-024817913446c4b431ca5163ae4c783f]: Commencement: Reg. 17 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-024817913446c4b431ca5163ae4c783f]: Commencement: Reg. 17 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-bd62bd5f21ab73b47325f3f12e261a85]: Textual amendment: Words in reg. 17(4) inserted (27.3.2024) by [The Energy Bills Discount Scheme (Amendment) Regulations 2024 (S.I. 2024/442)](https://www.legislation.gov.uk/uksi/2024/442), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/442/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/442/regulation/3/a)
+[^c-bd62bd5f21ab73b47325f3f12e261a85]: Textual amendment: Words in reg. 17(4) inserted (27.3.2024) by [The Energy Bills Discount Scheme (Amendment) Regulations 2024 (S.I. 2024/442)](https://www.legislation.gov.uk/uksi/2024/442), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/442/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/442/regulation/3/a)
 
 [^f00016]: Footnote: [S.I. 2014/3120](https://www.legislation.gov.uk/uksi/2014/3120), amended by [S.I. 2015/855](https://www.legislation.gov.uk/uksi/2015/855) and [2020/1221](https://www.legislation.gov.uk/uksi/2020/1221).
 
-[^key-feb55ed2e68a942f0c446d24059c8910]: Textual amendment: Reg. 17(10) inserted (27.3.2024) by [The Energy Bills Discount Scheme (Amendment) Regulations 2024 (S.I. 2024/442)](https://www.legislation.gov.uk/uksi/2024/442), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/442/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/442/regulation/3/b)
+[^c-feb55ed2e68a942f0c446d24059c8910]: Textual amendment: Reg. 17(10) inserted (27.3.2024) by [The Energy Bills Discount Scheme (Amendment) Regulations 2024 (S.I. 2024/442)](https://www.legislation.gov.uk/uksi/2024/442), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/442/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/442/regulation/3/b)
 
-[^key-a19daaeaacb1b1045f2fc72ab4ea5082]: Commencement: Reg. 18 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-a19daaeaacb1b1045f2fc72ab4ea5082]: Commencement: Reg. 18 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-2f34bf9ae6788d293cc7125e79960f50]: Commencement: Reg. 19 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-2f34bf9ae6788d293cc7125e79960f50]: Commencement: Reg. 19 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-7f04868dde1a243cdda406844d20232a]: Commencement: Reg. 20 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-7f04868dde1a243cdda406844d20232a]: Commencement: Reg. 20 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-1e4c17f5fcaee9282e29c23c2855ca5c]: Commencement: Reg. 21 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-1e4c17f5fcaee9282e29c23c2855ca5c]: Commencement: Reg. 21 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-07e750c6c2792ca1e0ae6fd53e8a72f8]: Commencement: Reg. 22 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-07e750c6c2792ca1e0ae6fd53e8a72f8]: Commencement: Reg. 22 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-ad5946fedd6c73a87693d2f8512127cd]: Commencement: Reg. 23 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-ad5946fedd6c73a87693d2f8512127cd]: Commencement: Reg. 23 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-edb9de30e932be46de2f3c6d4ddb6fd4]: Commencement: Reg. 24 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-edb9de30e932be46de2f3c6d4ddb6fd4]: Commencement: Reg. 24 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-457d53e995d0c1205a78903334be2783]: Commencement: Reg. 25 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-457d53e995d0c1205a78903334be2783]: Commencement: Reg. 25 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-f0c42f538e9a24727e0f05b6ab96be88]: Commencement: Reg. 26 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-f0c42f538e9a24727e0f05b6ab96be88]: Commencement: Reg. 26 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-564cb934ec9a563d8496b59fd1c4b68a]: Commencement: Reg. 27 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-564cb934ec9a563d8496b59fd1c4b68a]: Commencement: Reg. 27 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-47f96e2b1fe0d5f71ced2ad30d020106]: Commencement: Reg. 28 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-47f96e2b1fe0d5f71ced2ad30d020106]: Commencement: Reg. 28 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-b3385bc3a167596c4fe29f5a043e89b7]: Commencement: Reg. 29 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-b3385bc3a167596c4fe29f5a043e89b7]: Commencement: Reg. 29 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-641c3bd069babb89fe5821a7a6bc944c]: Commencement: Reg. 30 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-641c3bd069babb89fe5821a7a6bc944c]: Commencement: Reg. 30 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-be66d53577febf9d9b8dd1cda092d1b7]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/uksi/2023/454/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/uksi/2023/454/regulation/30/3B) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/23/regulation/7)
+[^c-be66d53577febf9d9b8dd1cda092d1b7]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/uksi/2023/454/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/uksi/2023/454/regulation/30/3B) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/23/regulation/7)
 
-[^key-7c8d19125caf50cbd255dfd03d75a534]: Commencement: Reg. 31 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-7c8d19125caf50cbd255dfd03d75a534]: Commencement: Reg. 31 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-f7c66b1b72d047242ad1e22aeabd8353]: Commencement: Reg. 32 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-f7c66b1b72d047242ad1e22aeabd8353]: Commencement: Reg. 32 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-a70d08cdf43ee2ee7ce9ddb3501038c3]: Commencement: Reg. 33 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-a70d08cdf43ee2ee7ce9ddb3501038c3]: Commencement: Reg. 33 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-ac69eacdba5e0cc986043887d4be0273]: Commencement: Reg. 34 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-ac69eacdba5e0cc986043887d4be0273]: Commencement: Reg. 34 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-3c43a25da9d81b7693e89fef033877a5]: Commencement: Reg. 35 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-3c43a25da9d81b7693e89fef033877a5]: Commencement: Reg. 35 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-bae83df15bb1ef21aa62c13e777f5db7]: Commencement: Reg. 36 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-bae83df15bb1ef21aa62c13e777f5db7]: Commencement: Reg. 36 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-94f8635596d13ca66928c4514eee8935]: Commencement: Reg. 37 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-94f8635596d13ca66928c4514eee8935]: Commencement: Reg. 37 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-6765ca4e70582ff82e38d4341c7b74f2]: Commencement: Reg. 38 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-6765ca4e70582ff82e38d4341c7b74f2]: Commencement: Reg. 38 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-57045cf8fe5b3736dcde854ad01a4b93]: Commencement: Reg. 39 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-57045cf8fe5b3736dcde854ad01a4b93]: Commencement: Reg. 39 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-e2a20e9612c4439e351b84a381408e8e]: Commencement: Reg. 40 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-e2a20e9612c4439e351b84a381408e8e]: Commencement: Reg. 40 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-8155de503b0627ac653e3d25b56ba8b3]: Commencement: Reg. 41 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-8155de503b0627ac653e3d25b56ba8b3]: Commencement: Reg. 41 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d4e20c46c11b2d557b45112904c8b403]: Commencement: Reg. 42 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d4e20c46c11b2d557b45112904c8b403]: Commencement: Reg. 42 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-53238980707e4e70e98437c732ea999e]: Commencement: Reg. 43 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-53238980707e4e70e98437c732ea999e]: Commencement: Reg. 43 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-38572c96e9297020b4a97a5da74e15e3]: Commencement: Reg. 44 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-38572c96e9297020b4a97a5da74e15e3]: Commencement: Reg. 44 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d5c1bdd0991655a5fd19dc03ffa96a7d]: Commencement: Reg. 45 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d5c1bdd0991655a5fd19dc03ffa96a7d]: Commencement: Reg. 45 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-b802f96d847d5ed07f286999ea76193e]: Commencement: Reg. 46 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-b802f96d847d5ed07f286999ea76193e]: Commencement: Reg. 46 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275).
 
 [^f00019]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231).
 
-[^key-4ee36927895459c9971ac1c96f546c62]: Commencement: Reg. 47 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-4ee36927895459c9971ac1c96f546c62]: Commencement: Reg. 47 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-0ad69af536a5757f3be43aa62d3570a4]: Commencement: Reg. 48 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-0ad69af536a5757f3be43aa62d3570a4]: Commencement: Reg. 48 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-e60e8c50de375aab0b71b748fb86a644]: Commencement: Reg. 49 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-e60e8c50de375aab0b71b748fb86a644]: Commencement: Reg. 49 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-9eae57b35e4ea04eacc115326d778336]: Textual amendment: [Reg. 49(1)(e)-(g)](https://www.legislation.gov.uk/uksi/2023/454/regulation/49/1/e) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2026/23/regulation/8)
+[^c-9eae57b35e4ea04eacc115326d778336]: Textual amendment: [Reg. 49(1)(e)-(g)](https://www.legislation.gov.uk/uksi/2023/454/regulation/49/1/e) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2026/23/regulation/8)
 
-[^key-c64d0449fe68b03bfd031dd2eb4c5e33]: Commencement: Reg. 50 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-c64d0449fe68b03bfd031dd2eb4c5e33]: Commencement: Reg. 50 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-95b3bbdd1fae40c1bcb3149a5de3a36b]: Commencement: Reg. 51 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-95b3bbdd1fae40c1bcb3149a5de3a36b]: Commencement: Reg. 51 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-5865cf3bd65d04cd004e60c30058deac]: Commencement: Reg. 52 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-5865cf3bd65d04cd004e60c30058deac]: Commencement: Reg. 52 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-93c4736015243473fe4f67fd0f2e474c]: Commencement: Reg. 53 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-93c4736015243473fe4f67fd0f2e474c]: Commencement: Reg. 53 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-79d3af25fbb39bfadcf85037e76b0f32]: Commencement: Reg. 54 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-79d3af25fbb39bfadcf85037e76b0f32]: Commencement: Reg. 54 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-919d8c994c6d88f5343df2d5b5cad72c]: Commencement: Reg. 55 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-919d8c994c6d88f5343df2d5b5cad72c]: Commencement: Reg. 55 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-8fcda178a0a9af0931319775b2bad14b]: Commencement: Reg. 56 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-8fcda178a0a9af0931319775b2bad14b]: Commencement: Reg. 56 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-2a19a84a4b3accbd1c6ea5ef60da1b87]: Commencement: Reg. 57 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-2a19a84a4b3accbd1c6ea5ef60da1b87]: Commencement: Reg. 57 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-ab1c0d9c7843de6cee74b53be4203526]: Commencement: Reg. 58 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-ab1c0d9c7843de6cee74b53be4203526]: Commencement: Reg. 58 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d1958ff45bfd100251c580a588e95608]: Commencement: Reg. 59 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d1958ff45bfd100251c580a588e95608]: Commencement: Reg. 59 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-9e3e1bd348af9087be67c3ba1389b975]: Commencement: Reg. 60 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-9e3e1bd348af9087be67c3ba1389b975]: Commencement: Reg. 60 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-ac3541ca74cd2a1e0193c81c67c3f0c5]: Commencement: Reg. 61 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-ac3541ca74cd2a1e0193c81c67c3f0c5]: Commencement: Reg. 61 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-01dfb283147ff1e1b1701cba52783bd3]: Commencement: Reg. 62 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-01dfb283147ff1e1b1701cba52783bd3]: Commencement: Reg. 62 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d322645c86c8acc773a3872e229a5713]: Commencement: Reg. 63 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d322645c86c8acc773a3872e229a5713]: Commencement: Reg. 63 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-cc42d10e8756bdc0536cc4635fac6175]: Commencement: Reg. 64 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-cc42d10e8756bdc0536cc4635fac6175]: Commencement: Reg. 64 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-8d4c11f2189c72303abfd57dfecf8a5e]: Commencement: Reg. 65 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-8d4c11f2189c72303abfd57dfecf8a5e]: Commencement: Reg. 65 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-2968a44f0c4db1f0faef3b0996edaa60]: Commencement: Reg. 66 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-2968a44f0c4db1f0faef3b0996edaa60]: Commencement: Reg. 66 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-c7612378e6bf17df8efe4bf5a4579176]: Commencement: Reg. 67 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-c7612378e6bf17df8efe4bf5a4579176]: Commencement: Reg. 67 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-b35e8b1594a9163bcb3680c2928cc812]: Commencement: Reg. 68 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-b35e8b1594a9163bcb3680c2928cc812]: Commencement: Reg. 68 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-6cbceca5c797b76a920a9cc964ef0cd9]: Commencement: Reg. 69 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-6cbceca5c797b76a920a9cc964ef0cd9]: Commencement: Reg. 69 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-efc1aec5a72de6aea332a4b89273f32d]: Commencement: Reg. 70 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-efc1aec5a72de6aea332a4b89273f32d]: Commencement: Reg. 70 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-2ba08b1f767d4c0873aa8d691f8eec2d]: Commencement: Reg. 71 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-2ba08b1f767d4c0873aa8d691f8eec2d]: Commencement: Reg. 71 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00020]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12); relevant provisions of section 3 were amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-137f8215eb168883358eb47705fc8257]: Commencement: Reg. 72 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-137f8215eb168883358eb47705fc8257]: Commencement: Reg. 72 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-31313c4e41f0ecfd92b76cb3dc08ecca]: Commencement: Reg. 73 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-31313c4e41f0ecfd92b76cb3dc08ecca]: Commencement: Reg. 73 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-8ed1ac1aaff37eac2f9ff88d910b15df]: Textual amendment: Words in [reg. 73(3)](https://www.legislation.gov.uk/uksi/2023/454/regulation/73/3) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [9(a)](https://www.legislation.gov.uk/nisr/2026/23/regulation/9/a)
+[^c-8ed1ac1aaff37eac2f9ff88d910b15df]: Textual amendment: Words in [reg. 73(3)](https://www.legislation.gov.uk/uksi/2023/454/regulation/73/3) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [9(a)](https://www.legislation.gov.uk/nisr/2026/23/regulation/9/a)
 
-[^key-f04e947b4f518467ed854e8861d7deee]: Textual amendment: [Reg. 73(3A)](https://www.legislation.gov.uk/uksi/2023/454/regulation/73/3A) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [9(b)](https://www.legislation.gov.uk/nisr/2026/23/regulation/9/b)
+[^c-f04e947b4f518467ed854e8861d7deee]: Textual amendment: [Reg. 73(3A)](https://www.legislation.gov.uk/uksi/2023/454/regulation/73/3A) inserted (9.3.2026) by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/23)](https://www.legislation.gov.uk/nisr/2026/23), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/23/regulation/1/2), [9(b)](https://www.legislation.gov.uk/nisr/2026/23/regulation/9/b)
 
-[^key-00acf83618a8eb636ed8050f76ef0caf]: Commencement: Reg. 74 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-00acf83618a8eb636ed8050f76ef0caf]: Commencement: Reg. 74 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-124e75c447d1a1fbce424261a14a97ca]: Commencement: Reg. 75 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-124e75c447d1a1fbce424261a14a97ca]: Commencement: Reg. 75 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-9da3a6c7374fe1b069280e061cc704fa]: Commencement: Reg. 76 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-9da3a6c7374fe1b069280e061cc704fa]: Commencement: Reg. 76 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d348b3c2f14e91a2b10c435c46af1547]: Commencement: Reg. 77 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d348b3c2f14e91a2b10c435c46af1547]: Commencement: Reg. 77 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00021]: Footnote: Articles 41A and 41B were inserted by regulation 76 of the Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 ([S.R. 2011 No. 155](https://www.legislation.gov.uk/nisr/2011/155)).
 
-[^key-bc5e1d9ac9afc90a148b12a87c24984c]: Commencement: Reg. 78 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-bc5e1d9ac9afc90a148b12a87c24984c]: Commencement: Reg. 78 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00022]: Footnote: [S.I. 2014/3120](https://www.legislation.gov.uk/uksi/2014/3120), amended by [S.I. 2015/855](https://www.legislation.gov.uk/uksi/2015/855) and [2020/1221](https://www.legislation.gov.uk/uksi/2020/1221).
 
-[^key-36056f9a8abf52eb02cc2e79afa28dd5]: Commencement: Reg. 79 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-36056f9a8abf52eb02cc2e79afa28dd5]: Commencement: Reg. 79 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-51d4bf66f2a8aed7b94fb8ab42987e80]: Commencement: Reg. 80 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-51d4bf66f2a8aed7b94fb8ab42987e80]: Commencement: Reg. 80 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-a033d480fc8fd2fe80d20ca2c342c381]: Commencement: Reg. 81 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-a033d480fc8fd2fe80d20ca2c342c381]: Commencement: Reg. 81 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-c3233e42962ffb9d1812d01171f68efe]: Commencement: Reg. 82 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-c3233e42962ffb9d1812d01171f68efe]: Commencement: Reg. 82 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-3b911d38deb92e3a5d9aa78434a9aaf2]: Commencement: Reg. 83 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-3b911d38deb92e3a5d9aa78434a9aaf2]: Commencement: Reg. 83 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-5827edbb56803c09c8e16ba99b140493]: Commencement: Sch. 1 para. 1 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-5827edbb56803c09c8e16ba99b140493]: Commencement: Sch. 1 para. 1 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-b3305a525453aeee2e64b3e318489f8e]: Commencement: Sch. 1 para. 2 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-b3305a525453aeee2e64b3e318489f8e]: Commencement: Sch. 1 para. 2 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-f6be516f9bb1cee852aedec91dc22ff9]: Commencement: Sch. 1 para. 3 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-f6be516f9bb1cee852aedec91dc22ff9]: Commencement: Sch. 1 para. 3 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-1dabea8f9c9e88ef1dd143f7925e699f]: Commencement: Sch. 1 para. 4 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-1dabea8f9c9e88ef1dd143f7925e699f]: Commencement: Sch. 1 para. 4 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-db0c17d44db166f49963d4169724ec23]: Commencement: Sch. 1 para. 5 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-db0c17d44db166f49963d4169724ec23]: Commencement: Sch. 1 para. 5 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-91179b56576089c492f7bc76152c9f20]: Commencement: Sch. 1 para. 6 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-91179b56576089c492f7bc76152c9f20]: Commencement: Sch. 1 para. 6 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-eddb212d6c04c4151f685a6f202fe43e]: Commencement: Sch. 1 para. 7 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-eddb212d6c04c4151f685a6f202fe43e]: Commencement: Sch. 1 para. 7 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-7482bfab62d5ed6c9ab86034be02df6d]: Commencement: Sch. 1 para. 8 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-7482bfab62d5ed6c9ab86034be02df6d]: Commencement: Sch. 1 para. 8 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
-[^key-d2a10bc8b4fdeafc67fe1444e706a4cf]: Commencement: Sch. 2 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
+[^c-d2a10bc8b4fdeafc67fe1444e706a4cf]: Commencement: Sch. 2 in force at 26.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1)
 
 [^f00023]: Footnote: [1992, No. 231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231), Part 2, Article 10(1)(c), Article 10(1)(c) was substituted by the Electricity Regulations (Northern Ireland) 2007 ([S.R. 2007 No. 321](https://www.legislation.gov.uk/nisr/2007/321)), regulations 1(2) 6(1).
 

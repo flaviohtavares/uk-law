@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Application of proceeds of office-holder claims[^key-b2a10829b3f33bf7a4baffffc82e78fa]
+## 4. Application of proceeds of office-holder claims[^c-b2a10829b3f33bf7a4baffffc82e78fa]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ After Article 150ZA insert—
 
 ## Annotations
 
-[^key-b2a10829b3f33bf7a4baffffc82e78fa]: Commencement: S. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b2a10829b3f33bf7a4baffffc82e78fa]: Commencement: S. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Disregard of changes occurring during summer vacation[^key-8f867b41588ea803ce7abd046660b132]
+## 139. Disregard of changes occurring during summer vacation[^c-8f867b41588ea803ce7abd046660b132]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In calculating a student’s income an adjudication officer shall disregard any 
 
 ## Annotations
 
-[^key-8f867b41588ea803ce7abd046660b132]: Commencement: Reg. 139 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8f867b41588ea803ce7abd046660b132]: Commencement: Reg. 139 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

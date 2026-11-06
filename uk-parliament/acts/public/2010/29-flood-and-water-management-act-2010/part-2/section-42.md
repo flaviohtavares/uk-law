@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Agreements on new drainage systems[^key-89faba439fbc54bd34523dc71cf29622][^key-c5a21e3c1c715a35ede5dc887b64a1c9]
+## 42. Agreements on new drainage systems[^c-89faba439fbc54bd34523dc71cf29622][^c-c5a21e3c1c715a35ede5dc887b64a1c9]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89faba439fbc54bd34523dc71cf29622]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2010/29/section/42) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-89faba439fbc54bd34523dc71cf29622]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2010/29/section/42) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-c5a21e3c1c715a35ede5dc887b64a1c9]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2010/29/section/42) in force at 1.10.2012 for specified purposes by [S.I. 2012/2048](https://www.legislation.gov.uk/wsi/2012/2048), [art. 2](https://www.legislation.gov.uk/wsi/2012/2048/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/2048/article/3))
+[^c-c5a21e3c1c715a35ede5dc887b64a1c9]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2010/29/section/42) in force at 1.10.2012 for specified purposes by [S.I. 2012/2048](https://www.legislation.gov.uk/wsi/2012/2048), [art. 2](https://www.legislation.gov.uk/wsi/2012/2048/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/2048/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Payments - interpretation[^key-75b1b46e8baf402b7d5ec467823f96d0]
+## 63. Payments - interpretation[^c-75b1b46e8baf402b7d5ec467823f96d0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ In this Part—
 
 ## Annotations
 
-[^key-75b1b46e8baf402b7d5ec467823f96d0]: Commencement: Reg. 63 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-75b1b46e8baf402b7d5ec467823f96d0]: Commencement: Reg. 63 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

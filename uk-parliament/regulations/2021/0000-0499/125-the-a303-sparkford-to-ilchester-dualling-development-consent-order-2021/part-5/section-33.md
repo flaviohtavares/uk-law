@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Temporary use of land for carrying out the authorised development[^key-42b81051a387a029edfb1f396a3dd05f]
+## 33. Temporary use of land for carrying out the authorised development[^c-42b81051a387a029edfb1f396a3dd05f]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-42b81051a387a029edfb1f396a3dd05f]: Commencement: Art. 33 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-42b81051a387a029edfb1f396a3dd05f]: Commencement: Art. 33 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442601]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2021/125/section/11) was amended by section 34(1) of, and paragraph 14 of Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 14](https://www.legislation.gov.uk/ukpga/1981/67/section/14) of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [sections 186(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/186/2), [187(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/187/2) and 188 of, paragraph 6 of Schedule 14 to and paragraph 3 of Schedule 16, to the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22), and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

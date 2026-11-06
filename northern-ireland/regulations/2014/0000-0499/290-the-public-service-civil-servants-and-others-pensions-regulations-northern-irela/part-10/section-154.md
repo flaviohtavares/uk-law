@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 154. Amount of club transfer earned pension[^key-26096579c70db8bb2fbd230d639abec5]
+## 154. Amount of club transfer earned pension[^c-26096579c70db8bb2fbd230d639abec5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26096579c70db8bb2fbd230d639abec5]: Commencement: [Reg. 154](https://www.legislation.gov.uk/nisr/2014/290/regulation/154) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-26096579c70db8bb2fbd230d639abec5]: Commencement: [Reg. 154](https://www.legislation.gov.uk/nisr/2014/290/regulation/154) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

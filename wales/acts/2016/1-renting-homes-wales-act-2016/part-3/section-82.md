@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Notice of rights under section 80[^key-fb94ea5c91fa36b03c1d1490255b7bc3]
+## 82. Notice of rights under section 80[^c-fb94ea5c91fa36b03c1d1490255b7bc3]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ in the circumstances mentioned in section 80(1)(a) and (b).
 
 ## Annotations
 
-[^key-fb94ea5c91fa36b03c1d1490255b7bc3]: Commencement: [S. 82](https://www.legislation.gov.uk/anaw/2016/1/section/82) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-fb94ea5c91fa36b03c1d1490255b7bc3]: Commencement: [S. 82](https://www.legislation.gov.uk/anaw/2016/1/section/82) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

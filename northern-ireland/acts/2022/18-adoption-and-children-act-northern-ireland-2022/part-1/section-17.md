@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Advance consent to adoption[^key-1b845dc87609a551c97da28652e50c8f]
+## 17. Advance consent to adoption[^c-1b845dc87609a551c97da28652e50c8f]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b845dc87609a551c97da28652e50c8f]: Commencement: S. 17 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1b845dc87609a551c97da28652e50c8f]: Commencement: S. 17 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

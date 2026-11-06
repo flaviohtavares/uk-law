@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Motor Vehicles (Approval) (Amendment) Regulations 2009 (revoked)[^key-5a7145c2596e71e2c23cb45a4f999163]
+The Motor Vehicles (Approval) (Amendment) Regulations 2009 (revoked)[^c-5a7145c2596e71e2c23cb45a4f999163]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 29th April 2009
 
-[^key-5a7145c2596e71e2c23cb45a4f999163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a7145c2596e71e2c23cb45a4f999163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5a7145c2596e71e2c23cb45a4f999163]
+## 1. Citation and commencement[^c-5a7145c2596e71e2c23cb45a4f999163]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-5a7145c2596e71e2c23cb45a4f999163]
+## 2. Amendment of the principal Regulations[^c-5a7145c2596e71e2c23cb45a4f999163]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a7145c2596e71e2c23cb45a4f999163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a7145c2596e71e2c23cb45a4f999163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a7145c2596e71e2c23cb45a4f999163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a7145c2596e71e2c23cb45a4f999163]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a7145c2596e71e2c23cb45a4f999163]: Textual amendment: Regulations revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-5a7145c2596e71e2c23cb45a4f999163]: Textual amendment: Regulations revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))

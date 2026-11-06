@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Offences connected with riot[^key-49732742d6112ac3151f89b363154caa]
+## 99. Offences connected with riot[^c-49732742d6112ac3151f89b363154caa]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49732742d6112ac3151f89b363154caa]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2014/12/section/99) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/1) (with [art. 7](https://www.legislation.gov.uk/uksi/2014/949/article/7))
+[^c-49732742d6112ac3151f89b363154caa]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2014/12/section/99) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/1) (with [art. 7](https://www.legislation.gov.uk/uksi/2014/949/article/7))

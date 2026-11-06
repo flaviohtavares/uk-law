@@ -243,7 +243,7 @@ shall cease to be a member.
 
 #### Superannuation
 
-**23.** The Council may with the approval of the Ministry[^c5441871] give or award pensions, annuities, gratuities and superannuation or other allowances or benefits, or charitable aid to any persons who are or have been employed by or who are serving or have served the Council, and to the spouses, surviving spouses, civil partners, surviving civil partners[^key-34474b68982f6c152b805661b38ab451], children, and other relatives and dependants of such persons; and may make payments towards insurance for the provision of any such benefits; and may either alone or jointly with any other body or bodies set up, establish, support and maintain superannuation and other funds and schemes (whether contributory or non-contributory) for the benefit of any of such persons, and of their spouses, surviving spouses, civil partners, surviving civil partners, children, and other relatives and dependants.
+**23.** The Council may with the approval of the Ministry[^c5441871] give or award pensions, annuities, gratuities and superannuation or other allowances or benefits, or charitable aid to any persons who are or have been employed by or who are serving or have served the Council, and to the spouses, surviving spouses, civil partners, surviving civil partners[^c-34474b68982f6c152b805661b38ab451], children, and other relatives and dependants of such persons; and may make payments towards insurance for the provision of any such benefits; and may either alone or jointly with any other body or bodies set up, establish, support and maintain superannuation and other funds and schemes (whether contributory or non-contributory) for the benefit of any of such persons, and of their spouses, surviving spouses, civil partners, surviving civil partners, children, and other relatives and dependants.
 
 #### Investment
 
@@ -265,7 +265,7 @@ shall cease to be a member.
 
 [^c5441871]: Textual amendment: SR 1976/281
 
-[^key-34474b68982f6c152b805661b38ab451]: Textual amendment: Words in [Sch. 1 para. 23](https://www.legislation.gov.uk/apni/1957/23/schedule/FIRST/paragraph/23) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [127(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/127/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-34474b68982f6c152b805661b38ab451]: Textual amendment: Words in [Sch. 1 para. 23](https://www.legislation.gov.uk/apni/1957/23/schedule/FIRST/paragraph/23) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [127(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/127/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c5441881]: Textual amendment: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62)
 

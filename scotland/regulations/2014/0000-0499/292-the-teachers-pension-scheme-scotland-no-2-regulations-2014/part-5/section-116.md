@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Application for payment of grant[^key-2cc2201d909427b51607041256fe4fab]
+## 116. Application for payment of grant[^c-2cc2201d909427b51607041256fe4fab]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cc2201d909427b51607041256fe4fab]: Commencement: [Reg. 116](https://www.legislation.gov.uk/ssi/2014/292/regulation/116) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-2cc2201d909427b51607041256fe4fab]: Commencement: [Reg. 116](https://www.legislation.gov.uk/ssi/2014/292/regulation/116) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

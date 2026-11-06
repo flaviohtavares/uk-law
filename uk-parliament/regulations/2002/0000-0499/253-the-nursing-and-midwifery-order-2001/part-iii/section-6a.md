@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Temporary annotations with regard to emergencies involving loss of human life or human illness etc.[^key-f0e121c742273b82ea5bfa90894e5135]
+## 6A. Temporary annotations with regard to emergencies involving loss of human life or human illness etc.[^c-f0e121c742273b82ea5bfa90894e5135]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-be663b8cc68a6eea9c7baa03969fa9dc] The Registrar may not exercise the powers conferred by this article in relation to a registrant who is entered in the nursing associates’ part of the register.
+(A1)[^c-be663b8cc68a6eea9c7baa03969fa9dc] The Registrar may not exercise the powers conferred by this article in relation to a registrant who is entered in the nursing associates’ part of the register.
 
 (1) If the Secretary of State advises the Registrar that an emergency has occurred, is occurring or is about to occur and that action should be considered under this article, the Registrar may make—
 
@@ -36,12 +36,12 @@ summary: ''
 
 (4) A registrant against whose name in the register an annotation is made by virtue of paragraph (1)(b) as one of a specified group may have that annotation removed without the Registrar removing the equivalent annotations against the names of the other members of the group or by virtue of a decision to remove the annotations made by virtue of paragraph (1)(b) against the names of all the members of the group.
 
-(5) For the purposes of this article, “emergency” means an emergency of the type described in section 19(1)(a) of the Civil Contingencies Act 2004 (meaning of “emergency”), read with subsection (2)(a) and (b)[^key-41c4664448ddf72935219668f5c9316d] of that section.
+(5) For the purposes of this article, “emergency” means an emergency of the type described in section 19(1)(a) of the Civil Contingencies Act 2004 (meaning of “emergency”), read with subsection (2)(a) and (b)[^c-41c4664448ddf72935219668f5c9316d] of that section.
 
 ## Annotations
 
-[^key-f0e121c742273b82ea5bfa90894e5135]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2002/253/article/6A) inserted (12.6.2008) by [The Nursing and Midwifery (Amendment) Order 2008 (S.I. 2008/1485)](https://www.legislation.gov.uk/uksi/2008/1485), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1485/article/1/2/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2008/1485/schedule/1/paragraph/2)
+[^c-f0e121c742273b82ea5bfa90894e5135]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2002/253/article/6A) inserted (12.6.2008) by [The Nursing and Midwifery (Amendment) Order 2008 (S.I. 2008/1485)](https://www.legislation.gov.uk/uksi/2008/1485), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1485/article/1/2/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2008/1485/schedule/1/paragraph/2)
 
-[^key-be663b8cc68a6eea9c7baa03969fa9dc]: Textual amendment: [Art. 6A(A1)](https://www.legislation.gov.uk/uksi/2002/253/article/6A/A1) inserted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/6)
+[^c-be663b8cc68a6eea9c7baa03969fa9dc]: Textual amendment: [Art. 6A(A1)](https://www.legislation.gov.uk/uksi/2002/253/article/6A/A1) inserted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/6)
 
-[^key-41c4664448ddf72935219668f5c9316d]: Textual amendment: Words in [art. 6A(5)](https://www.legislation.gov.uk/uksi/2002/253/article/6A/5) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 38(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/38/b)
+[^c-41c4664448ddf72935219668f5c9316d]: Textual amendment: Words in [art. 6A(5)](https://www.legislation.gov.uk/uksi/2002/253/article/6A/5) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 38(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/38/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Suspension of private rights[^key-e0a3a65c2b3fbc6ad9373a5d2d383a81]
+## 23. Suspension of private rights[^c-e0a3a65c2b3fbc6ad9373a5d2d383a81]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-e0a3a65c2b3fbc6ad9373a5d2d383a81]: Commencement: Art. 23 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-e0a3a65c2b3fbc6ad9373a5d2d383a81]: Commencement: Art. 23 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

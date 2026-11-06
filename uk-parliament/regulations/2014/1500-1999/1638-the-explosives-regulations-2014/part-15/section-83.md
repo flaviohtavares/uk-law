@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Repeals, revocations and amendments[^key-84e91f6504f599bcd7be579cdda502c2]
+## 83. Repeals, revocations and amendments[^c-84e91f6504f599bcd7be579cdda502c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84e91f6504f599bcd7be579cdda502c2]: Textual amendment: Pt. 15 reg. 48 renumbered as Pt. 15 reg. 83 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/9/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-84e91f6504f599bcd7be579cdda502c2]: Textual amendment: Pt. 15 reg. 48 renumbered as Pt. 15 reg. 83 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/9/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

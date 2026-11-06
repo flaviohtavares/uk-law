@@ -26,17 +26,17 @@ Section 52
 
 #### Introduction
 
-**1.**[^key-a1f14feb1e65ab00ae853f2cde544300][^key-cfaf16990e9933ab67822e9d1c15caa1] The Marriage Act 1949 is amended in accordance with this Part of this Schedule.
+**1.**[^c-a1f14feb1e65ab00ae853f2cde544300][^c-cfaf16990e9933ab67822e9d1c15caa1] The Marriage Act 1949 is amended in accordance with this Part of this Schedule.
 
 #### Supply of additional information and evidence
 
-**2.**[^key-4f80095a0b2968678237002db1133d9a] (1) Section 27 (notice of marriage) is amended in accordance with this paragraph.
+**2.**[^c-4f80095a0b2968678237002db1133d9a] (1) Section 27 (notice of marriage) is amended in accordance with this paragraph.
 
 (2) In subsection (3), after “surname,” insert “ the date of birth, ”.
 
 (3) In subsection (4), for “27A” substitute “ 27ZA ”.
 
-**3.**[^key-b4ac07eb2f8c332c7abee98fa110270e] (1) After section 27 insert—
+**3.**[^c-b4ac07eb2f8c332c7abee98fa110270e] (1) After section 27 insert—
 
 > **27ZA. Entry of particulars in notice book: compliance with requirements**
 >
@@ -56,7 +56,7 @@ Section 52
 
 (2) Omit section 27A(5).
 
-**4.**[^key-60e2e82dadf729156695857d7c59223c][^key-d0b7df1a47ff8b8ef7b419798fe274b0] After section 27D insert—
+**4.**[^c-60e2e82dadf729156695857d7c59223c][^c-d0b7df1a47ff8b8ef7b419798fe274b0] After section 27D insert—
 
 > **27E. Additional information if party not relevant national**
 >
@@ -105,13 +105,13 @@ Section 52
 
 .
 
-**5.**[^key-e2be1cedf8821ba4adf7414662793075] In section 28 (declaration to accompany notice of marriage), in subsection (1), after paragraph (c) insert—
+**5.**[^c-e2be1cedf8821ba4adf7414662793075] In section 28 (declaration to accompany notice of marriage), in subsection (1), after paragraph (c) insert—
 
 > - (d) that he or she believes all of the information stated in the notice, and all information and evidence supplied with the notice, is true.
 
 .
 
-**6.**[^key-00a6af8b541fae4650c7162a40cba2e0] (1) Section 28A (power to require evidence) is amended in accordance with this paragraph.
+**6.**[^c-00a6af8b541fae4650c7162a40cba2e0] (1) Section 28A (power to require evidence) is amended in accordance with this paragraph.
 
 (2) For the title substitute “ **Power to require evidence of consent to marriages of same sex couples** ”.
 
@@ -121,7 +121,7 @@ Section 52
 
 (5) Omit subsection (3).
 
-**7.**[^key-dfd92dc83f096701fdf32edb6efad4cd][^key-8682998ab7e78ec48a75d7dcb04eed4e] After section 28A insert—
+**7.**[^c-dfd92dc83f096701fdf32edb6efad4cd][^c-8682998ab7e78ec48a75d7dcb04eed4e] After section 28A insert—
 
 > **28B. Provision of evidence**
 >
@@ -245,7 +245,7 @@ Section 52
 
 #### Referral to Secretary of State
 
-**8.**[^key-b87a97bb22f7ee6fec367bb5dc820e95][^key-94ea67bbdbba455522c799b51928e873] After section 28G insert—
+**8.**[^c-b87a97bb22f7ee6fec367bb5dc820e95][^c-94ea67bbdbba455522c799b51928e873] After section 28G insert—
 
 > **28H. Referral of proposed marriage to Secretary of State**
 >
@@ -289,7 +289,7 @@ Section 52
 
 .
 
-**9.**[^key-f458330af7671fc8fca19d13b627a832] Before Schedule 4 insert—
+**9.**[^c-f458330af7671fc8fca19d13b627a832] Before Schedule 4 insert—
 
 > **SCHEDULE 3A — Modifications if proposed marriage referred under section 28H**
 >
@@ -388,7 +388,7 @@ Section 52
 
 #### Notice period
 
-**10.**[^key-5d6b2ae4ecda04488ce61258cbe2ce74][^key-32431132d6fa2c0535fd9d8ef8c9cb9f] (1) Section 31 (marriage under certificate without licence) is amended in accordance with this paragraph.
+**10.**[^c-5d6b2ae4ecda04488ce61258cbe2ce74][^c-32431132d6fa2c0535fd9d8ef8c9cb9f] (1) Section 31 (marriage under certificate without licence) is amended in accordance with this paragraph.
 
 (2) In section 31—
 
@@ -419,7 +419,7 @@ Section 52
 
 #### Marriage referred to Secretary of State: issue of certificates
 
-**11.**[^key-cc3882583e52aa51cae1e75650619a9d] (1) In section 31 (marriage under certificate without licence), at the end insert—
+**11.**[^c-cc3882583e52aa51cae1e75650619a9d] (1) In section 31 (marriage under certificate without licence), at the end insert—
 
 > (7) This section has effect subject to section 31ZA.
 
@@ -476,7 +476,7 @@ Section 52
 
 #### Certificates
 
-**12.**[^key-6b395c871b96a302e11f28db1a219fb1] (1) Section 35 (marriage in registration district in which neither party resides) is amended in accordance with sub-paragraphs (2) and (3).
+**12.**[^c-6b395c871b96a302e11f28db1a219fb1] (1) Section 35 (marriage in registration district in which neither party resides) is amended in accordance with sub-paragraphs (2) and (3).
 
 (2) After subsection (3) insert—
 
@@ -499,11 +499,11 @@ Section 52
 
 #### One party resident in Scotland
 
-**13.**[^key-c5d4e8317644ce9d45c7cd3ecbb884ce] In section 37 (one party resident in Scotland), in subsection (1)(b), for the words from “with” to “Act” (in the first place) substitute “ with section 27 and the other provisions of this Act ”.
+**13.**[^c-c5d4e8317644ce9d45c7cd3ecbb884ce] In section 37 (one party resident in Scotland), in subsection (1)(b), for the words from “with” to “Act” (in the first place) substitute “ with section 27 and the other provisions of this Act ”.
 
 #### Proof of certain matters not necessary to validity of marriages
 
-**14.**[^key-c5e24a225bce8bcdb38f1933cdc24609] In section 48 (proof of certain matters not necessary to validity of marriages), in subsection (1)—
+**14.**[^c-c5e24a225bce8bcdb38f1933cdc24609] In section 48 (proof of certain matters not necessary to validity of marriages), in subsection (1)—
 
 - (a) omit the word “or” at the end of paragraph (e) (inserted by paragraph 14(c) of Schedule 7 to the Marriage (Same Sex Couples) Act 2013);
 - (b) at the end of paragraph (ea) (inserted by that provision of the Marriage (Same Sex Couples) Act 2013) insert
@@ -516,7 +516,7 @@ Section 52
 
 #### Regulations etc
 
-**15.**[^key-068d8007541d51127c41f1b348b15626][^key-99a41737db0793a1d75b8d377f96f552] In section 74 (regulations), after subsection (2) insert—
+**15.**[^c-068d8007541d51127c41f1b348b15626][^c-99a41737db0793a1d75b8d377f96f552] In section 74 (regulations), after subsection (2) insert—
 
 > (3) Any order or regulations made under this Act may make different provision for different cases.
 
@@ -524,11 +524,11 @@ Section 52
 
 #### Offences
 
-**16.**[^key-4244200a3362c80b0ccac565b3eea3b2] In section 75 (offences relating to solemnization of marriages), in subsection (3)(a), for “15 days” substitute “ 28 days ”.
+**16.**[^c-4244200a3362c80b0ccac565b3eea3b2] In section 75 (offences relating to solemnization of marriages), in subsection (3)(a), for “15 days” substitute “ 28 days ”.
 
 #### Relevant nationals
 
-**17.**[^key-95aca7071566a347cbb9eecafc0cf0b8][^key-55a30391bf0b3f986ededd4ca4aebe43] In section 78 (interpretation of the 1949 Act), in subsection (1), after the definition of “registration district” insert—
+**17.**[^c-95aca7071566a347cbb9eecafc0cf0b8][^c-55a30391bf0b3f986ededd4ca4aebe43] In section 78 (interpretation of the 1949 Act), in subsection (1), after the definition of “registration district” insert—
 
 > “**relevant national**” means—
 >
@@ -542,11 +542,11 @@ Section 52
 
 #### Introduction
 
-**18.**[^key-5d74b2f09c4abcb196893ca5dfa01c13][^key-5490532631afe5a137a80f09c95166db] The Civil Partnership Act 2004 is amended in accordance with this Part of this Schedule.
+**18.**[^c-5d74b2f09c4abcb196893ca5dfa01c13][^c-5490532631afe5a137a80f09c95166db] The Civil Partnership Act 2004 is amended in accordance with this Part of this Schedule.
 
 #### Supply of additional information and evidence
 
-**19.**[^key-82d95b64830270468c663b2b6fcc0a1f] (1) Section 8 (notice of proposed civil partnership and declaration) is amended in accordance with this paragraph.
+**19.**[^c-82d95b64830270468c663b2b6fcc0a1f] (1) Section 8 (notice of proposed civil partnership and declaration) is amended in accordance with this paragraph.
 
 (2) In subsection (4), after paragraph (b) insert—
 
@@ -560,7 +560,7 @@ Section 52
 
 .
 
-**20.**[^key-433924824dfda071b86a1a8ec7a6851a][^key-b03c7b7ff67df13fcedb3bab106d414b] After section 8 insert—
+**20.**[^c-433924824dfda071b86a1a8ec7a6851a][^c-b03c7b7ff67df13fcedb3bab106d414b] After section 8 insert—
 
 > **8A. Additional information if party not relevant national**
 >
@@ -609,7 +609,7 @@ Section 52
 
 .
 
-**21.**[^key-a4bae1906a6a14859809c6cc9e4e7eae][^key-d30173b01788dafd9a9dbff5d4e326e7] For section 9 substitute—
+**21.**[^c-a4bae1906a6a14859809c6cc9e4e7eae][^c-d30173b01788dafd9a9dbff5d4e326e7] For section 9 substitute—
 
 > **9. Evidence**
 >
@@ -738,9 +738,9 @@ Section 52
 
 #### Notice period
 
-**22.**[^key-dde74d3ee3b9a3299c9b7d2b46329a15] In section 11 (meaning of “the waiting period”), for “15” substitute “ 28 ”.
+**22.**[^c-dde74d3ee3b9a3299c9b7d2b46329a15] In section 11 (meaning of “the waiting period”), for “15” substitute “ 28 ”.
 
-**23.**[^key-0cad5e08a9d387c7a7bd2b106e476126][^key-8e25449b1f3c8ba19f381d5bbd0b6959] (1) Section 12 (power to shorten the waiting period) is amended in accordance with this paragraph.
+**23.**[^c-0cad5e08a9d387c7a7bd2b106e476126][^c-8e25449b1f3c8ba19f381d5bbd0b6959] (1) Section 12 (power to shorten the waiting period) is amended in accordance with this paragraph.
 
 (2) In subsection (1), for “15” substitute “ 28 ”.
 
@@ -767,7 +767,7 @@ Section 52
 
 #### Referral to Secretary of State
 
-**24.**[^key-27ace0d66cf283c1622d08b0b80f7817][^key-901ecf293805bd0dfdd6a5aedbbdb690] After section 12 insert—
+**24.**[^c-27ace0d66cf283c1622d08b0b80f7817][^c-901ecf293805bd0dfdd6a5aedbbdb690] After section 12 insert—
 
 > **12A. Referral of proposed civil partnership to Secretary of State**
 >
@@ -809,7 +809,7 @@ Section 52
 
 .
 
-**25.**[^key-d577ad8c06bb047e9ebbe5096ab1985d] After Schedule 3 insert—
+**25.**[^c-d577ad8c06bb047e9ebbe5096ab1985d] After Schedule 3 insert—
 
 > **SCHEDULE 3A — Modifications if proposed civil partnership referred under section 12A**
 >
@@ -902,7 +902,7 @@ Section 52
 
 #### Civil partnership referred to Secretary of State: issue of civil partnership schedule
 
-**26.**[^key-9efa8c47b3a452b0c1f492312cc5864d] (1) In section 14 (issue of civil partnership schedule), at the end insert—
+**26.**[^c-9efa8c47b3a452b0c1f492312cc5864d] (1) In section 14 (issue of civil partnership schedule), at the end insert—
 
 > (6) This section has effect subject to section 14A.
 
@@ -960,7 +960,7 @@ Section 52
 
 #### Relevant nationals
 
-**27.**[^key-8535e5a976200ceaab007693dec1c27a][^key-3460d48289d650f148c64bf95a54aa94] After section 30 insert—
+**27.**[^c-8535e5a976200ceaab007693dec1c27a][^c-3460d48289d650f148c64bf95a54aa94] After section 30 insert—
 
 > **30A. Relevant nationals**
 >
@@ -974,7 +974,7 @@ Section 52
 
 #### Regulations and orders
 
-**28.**[^key-b7a8c40803447d3b553480d4f2ffe3cf][^key-a3a95e87bac70a5398ea61ced7717b59] (1) Section 36 (regulations and orders) is amended in accordance with this paragraph.
+**28.**[^c-b7a8c40803447d3b553480d4f2ffe3cf][^c-a3a95e87bac70a5398ea61ced7717b59] (1) Section 36 (regulations and orders) is amended in accordance with this paragraph.
 
 (2) In subsection (3), after “6A” insert “ 9B, 9E(2), 12(7) or 12A ”.
 
@@ -984,7 +984,7 @@ Section 52
 
 #### Proof of certain matters not necessary to validity of civil partnership
 
-**29.**[^key-abf240c6421390a5d3a7f6fd80e819f8] In section 52 (proof of certain matters not necessary to validity of civil partnership), in subsection (1)—
+**29.**[^c-abf240c6421390a5d3a7f6fd80e819f8] In section 52 (proof of certain matters not necessary to validity of civil partnership), in subsection (1)—
 
 - (a) omit the word “or” at the end of paragraph (a);
 - (b) at the end of paragraph (aa) insert
@@ -997,88 +997,88 @@ Section 52
 
 ## Annotations
 
-[^key-a1f14feb1e65ab00ae853f2cde544300]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/1) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-a1f14feb1e65ab00ae853f2cde544300]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/1) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-cfaf16990e9933ab67822e9d1c15caa1]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/1) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-cfaf16990e9933ab67822e9d1c15caa1]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/1) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-4f80095a0b2968678237002db1133d9a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/2) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-4f80095a0b2968678237002db1133d9a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/2) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-b4ac07eb2f8c332c7abee98fa110270e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/3) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-b4ac07eb2f8c332c7abee98fa110270e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/3) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-60e2e82dadf729156695857d7c59223c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/4) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-60e2e82dadf729156695857d7c59223c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/4) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-d0b7df1a47ff8b8ef7b419798fe274b0]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/4) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-d0b7df1a47ff8b8ef7b419798fe274b0]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/4) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-e2be1cedf8821ba4adf7414662793075]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/5) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-e2be1cedf8821ba4adf7414662793075]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/5) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-00a6af8b541fae4650c7162a40cba2e0]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/6) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-00a6af8b541fae4650c7162a40cba2e0]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/6) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-dfd92dc83f096701fdf32edb6efad4cd]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/7) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-dfd92dc83f096701fdf32edb6efad4cd]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/7) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-8682998ab7e78ec48a75d7dcb04eed4e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/7) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-8682998ab7e78ec48a75d7dcb04eed4e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/7) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-b87a97bb22f7ee6fec367bb5dc820e95]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/8) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-b87a97bb22f7ee6fec367bb5dc820e95]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/8) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-94ea67bbdbba455522c799b51928e873]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/8) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-94ea67bbdbba455522c799b51928e873]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/8) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-f458330af7671fc8fca19d13b627a832]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/9) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-f458330af7671fc8fca19d13b627a832]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/9) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-5d6b2ae4ecda04488ce61258cbe2ce74]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/10) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-5d6b2ae4ecda04488ce61258cbe2ce74]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/10) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-32431132d6fa2c0535fd9d8ef8c9cb9f]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/10) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-32431132d6fa2c0535fd9d8ef8c9cb9f]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/10) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-cc3882583e52aa51cae1e75650619a9d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/11) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-cc3882583e52aa51cae1e75650619a9d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/11) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-6b395c871b96a302e11f28db1a219fb1]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/12) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-6b395c871b96a302e11f28db1a219fb1]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/12) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-c5d4e8317644ce9d45c7cd3ecbb884ce]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/13) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-c5d4e8317644ce9d45c7cd3ecbb884ce]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/13) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-c5e24a225bce8bcdb38f1933cdc24609]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/14) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-c5e24a225bce8bcdb38f1933cdc24609]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/14) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-068d8007541d51127c41f1b348b15626]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/15) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-068d8007541d51127c41f1b348b15626]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/15) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-99a41737db0793a1d75b8d377f96f552]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/15) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-99a41737db0793a1d75b8d377f96f552]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/15) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-4244200a3362c80b0ccac565b3eea3b2]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/16) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-4244200a3362c80b0ccac565b3eea3b2]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/16) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-95aca7071566a347cbb9eecafc0cf0b8]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/17) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-95aca7071566a347cbb9eecafc0cf0b8]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/17) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-55a30391bf0b3f986ededd4ca4aebe43]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/17) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-55a30391bf0b3f986ededd4ca4aebe43]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/17) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-5d74b2f09c4abcb196893ca5dfa01c13]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/18) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-5d74b2f09c4abcb196893ca5dfa01c13]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/18) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-5490532631afe5a137a80f09c95166db]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/18) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-5490532631afe5a137a80f09c95166db]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/18) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-82d95b64830270468c663b2b6fcc0a1f]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/19) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-82d95b64830270468c663b2b6fcc0a1f]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/19) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-433924824dfda071b86a1a8ec7a6851a]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/20) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-433924824dfda071b86a1a8ec7a6851a]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/20) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-b03c7b7ff67df13fcedb3bab106d414b]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/20) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-b03c7b7ff67df13fcedb3bab106d414b]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/20) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-a4bae1906a6a14859809c6cc9e4e7eae]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/21) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-a4bae1906a6a14859809c6cc9e4e7eae]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/21) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-d30173b01788dafd9a9dbff5d4e326e7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/21) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-d30173b01788dafd9a9dbff5d4e326e7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/21) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-dde74d3ee3b9a3299c9b7d2b46329a15]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/22) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-dde74d3ee3b9a3299c9b7d2b46329a15]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/22) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-0cad5e08a9d387c7a7bd2b106e476126]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/23) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-0cad5e08a9d387c7a7bd2b106e476126]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/23) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-8e25449b1f3c8ba19f381d5bbd0b6959]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/23) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-8e25449b1f3c8ba19f381d5bbd0b6959]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/23) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-27ace0d66cf283c1622d08b0b80f7817]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/24) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-27ace0d66cf283c1622d08b0b80f7817]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/24) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-901ecf293805bd0dfdd6a5aedbbdb690]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/24) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-901ecf293805bd0dfdd6a5aedbbdb690]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/24) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-d577ad8c06bb047e9ebbe5096ab1985d]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/25) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-d577ad8c06bb047e9ebbe5096ab1985d]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/25) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-9efa8c47b3a452b0c1f492312cc5864d]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-9efa8c47b3a452b0c1f492312cc5864d]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-8535e5a976200ceaab007693dec1c27a]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/27) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-8535e5a976200ceaab007693dec1c27a]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/27) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-3460d48289d650f148c64bf95a54aa94]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/27) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-3460d48289d650f148c64bf95a54aa94]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/27) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-b7a8c40803447d3b553480d4f2ffe3cf]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/28) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
+[^c-b7a8c40803447d3b553480d4f2ffe3cf]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/28) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e)
 
-[^key-a3a95e87bac70a5398ea61ced7717b59]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/28) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-a3a95e87bac70a5398ea61ced7717b59]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/28) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-abf240c6421390a5d3a7f6fd80e819f8]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/29) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-abf240c6421390a5d3a7f6fd80e819f8]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/29) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

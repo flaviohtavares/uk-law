@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61A. Overseas entities[^key-b8c13cf24b00d63b586e3471adc3f021]
+## 61A. Overseas entities[^c-b8c13cf24b00d63b586e3471adc3f021]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8A is about the ownership of registered land by overseas entities and a
 
 ## Annotations
 
-[^key-b8c13cf24b00d63b586e3471adc3f021]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/apni/1970/18/section/61A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/2); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-b8c13cf24b00d63b586e3471adc3f021]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/apni/1970/18/section/61A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/2); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

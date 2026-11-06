@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Footbridges over highways.[^key-7988254b4edf0e1491161267bfc790ed]
+## 70. Footbridges over highways.[^c-7988254b4edf0e1491161267bfc790ed]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7988254b4edf0e1491161267bfc790ed]: Modification: S. 70 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(h)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/h)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-7988254b4edf0e1491161267bfc790ed]: Modification: S. 70 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(h)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/h)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

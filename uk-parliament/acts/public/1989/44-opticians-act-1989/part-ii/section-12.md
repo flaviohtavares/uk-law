@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Education and training[^key-ce25db56e22ab06b90dc0da2e027f011]
+## 12. Education and training[^c-ce25db56e22ab06b90dc0da2e027f011]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ needed to achieve the competencies referred to in subsection (1)(a) above.
 
 ## Annotations
 
-[^key-ce25db56e22ab06b90dc0da2e027f011]: Textual amendment: S. 12 substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 15](https://www.legislation.gov.uk/uksi/2005/848/article/15) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-ce25db56e22ab06b90dc0da2e027f011]: Textual amendment: S. 12 substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 15](https://www.legislation.gov.uk/uksi/2005/848/article/15) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

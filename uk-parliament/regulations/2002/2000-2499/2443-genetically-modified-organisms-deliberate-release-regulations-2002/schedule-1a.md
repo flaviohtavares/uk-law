@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-11-13.
 
-## SCHEDULE 1A — Information to be included in applications for consent to market genetically modified higher plants[^key-e9d120395369a1fac7540afd662d83ea]
+## SCHEDULE 1A — Information to be included in applications for consent to market genetically modified higher plants[^c-e9d120395369a1fac7540afd662d83ea]
 
 Regulation 16
 
@@ -173,4 +173,4 @@ except where the applicant considers it is not relevant in view of the intended 
 
 ## Annotations
 
-[^key-e9d120395369a1fac7540afd662d83ea]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2002/2443/schedule/1A) inserted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/1252/regulation/7)
+[^c-e9d120395369a1fac7540afd662d83ea]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2002/2443/schedule/1A) inserted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/1252/regulation/7)

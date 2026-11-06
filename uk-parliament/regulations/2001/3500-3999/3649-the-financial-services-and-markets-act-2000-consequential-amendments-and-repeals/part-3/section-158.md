@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Repeal of spent amendments by Pensions (Northern Ireland) Order 1995 to other legislation[^key-552ddbc57b0560cb27685887efdc7171]
+## 158. Repeal of spent amendments by Pensions (Northern Ireland) Order 1995 to other legislation[^c-552ddbc57b0560cb27685887efdc7171]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Paragraph 7 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 (which i
 
 ## Annotations
 
-[^key-552ddbc57b0560cb27685887efdc7171]: Commencement: Art. 158 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-552ddbc57b0560cb27685887efdc7171]: Commencement: Art. 158 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Hazard notice[^key-eab181f17c9e3142b916008f634a950b]
+## 55. Hazard notice[^c-eab181f17c9e3142b916008f634a950b]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eab181f17c9e3142b916008f634a950b]: Commencement: [S. 55](https://www.legislation.gov.uk/nia/2016/22/section/55) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-eab181f17c9e3142b916008f634a950b]: Commencement: [S. 55](https://www.legislation.gov.uk/nia/2016/22/section/55) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

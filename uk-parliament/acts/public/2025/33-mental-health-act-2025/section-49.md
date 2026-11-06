@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Remand for a person’s own protection etc[^key-64cf17264269b48da08f9a5266ae6950]
+## 49. Remand for a person’s own protection etc[^c-64cf17264269b48da08f9a5266ae6950]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64cf17264269b48da08f9a5266ae6950]: Commencement: S. 49 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-64cf17264269b48da08f9a5266ae6950]: Commencement: S. 49 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Administrator’s proposals[^key-37c7493fc0e51458d5530f57ca8d0f73]
+## 26. Administrator’s proposals[^c-37c7493fc0e51458d5530f57ca8d0f73]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
   - (ii) the remaining details required under sub-paragraph (l) in relation to such customers must be set out in a separate schedule,
 - (n) if no statement of affairs is submitted, details of the financial position of the institution at the latest practicable date (which must, unless the court otherwise orders, be a date not earlier than that on which the institution entered special administration), and an explanation as to why there is no statement of affairs,
 - (o) the basis upon which it is proposed that the administrator’s remuneration should be fixed under rule 163, and, if this basis has already been set, details as to what has been set and any proposals for this to be changed,
-- (p) a statement complying with paragraph (6)[^key-ab0a32ba64d73ef6462573a7e5be71d5],
+- (p) a statement complying with paragraph (6)[^c-ab0a32ba64d73ef6462573a7e5be71d5],
 - (q) details of whether (and why) the administrator proposes to apply to the court under section 176A(5) of the IA 1986 (unless the administrator intends to propose a company voluntary arrangement),
 - (r) an estimate of the value of the prescribed part for the purposes of section 176A of the IA 1986 (unless the institution intends to propose a company voluntary arrangement) certified as being made to the best of the administrator’s knowledge and belief,
 - (s) an estimate of the value of the institution’s net property (unless the administrator intends to propose a company voluntary arrangement) certified as being made to the best of the administrator’s knowledge and belief,
@@ -151,6 +151,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37c7493fc0e51458d5530f57ca8d0f73]: Commencement: Rule 26 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-37c7493fc0e51458d5530f57ca8d0f73]: Commencement: Rule 26 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-ab0a32ba64d73ef6462573a7e5be71d5]: Textual amendment: Words in [rule 26(2)(p)](https://www.legislation.gov.uk/uksi/2021/1178/rule/26/2/p) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/3)
+[^c-ab0a32ba64d73ef6462573a7e5be71d5]: Textual amendment: Words in [rule 26(2)(p)](https://www.legislation.gov.uk/uksi/2021/1178/rule/26/2/p) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/3)

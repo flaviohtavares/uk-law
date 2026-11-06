@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Amendment of regulation 37 (procedure on close of petition)[^key-57a32f9149d5060d5edbdf7b80fbec35]
+## 81. Amendment of regulation 37 (procedure on close of petition)[^c-57a32f9149d5060d5edbdf7b80fbec35]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In regulation 37 (procedure on close of petition), in paragraph (1) after sub-pa
 
 ## Annotations
 
-[^key-57a32f9149d5060d5edbdf7b80fbec35]: Commencement: Reg. 81 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-57a32f9149d5060d5edbdf7b80fbec35]: Commencement: Reg. 81 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

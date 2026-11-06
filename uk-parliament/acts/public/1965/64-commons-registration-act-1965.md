@@ -29,7 +29,7 @@ Commons Registration Act 1965
 
 1965 c.64
 
-[^key-867198b8747a7e690cdb8ea0097a172c]An Act to provide for the registration of common land and of town or village greens; to amend the law as to prescriptive claims to rights of common; and for purposes connected therewith.
+[^c-867198b8747a7e690cdb8ea0097a172c]An Act to provide for the registration of common land and of town or village greens; to amend the law as to prescriptive claims to rights of common; and for purposes connected therewith.
 
 \[5th August 1965\][^c122901][^c122911]
 
@@ -41,7 +41,7 @@ Commons Registration Act 1965
 - (b) rights of common over such land; and
 - (c) persons claiming to be or found to be owners of such land or becoming the owners thereof by virtue of this Act;
 
-and no rights of common over land which is capable of being registered under this Act shall be registered in the register of title[^key-63c5a74842ff1b26a913edc90c4bee12].
+and no rights of common over land which is capable of being registered under this Act shall be registered in the register of title[^c-63c5a74842ff1b26a913edc90c4bee12].
 
 (2) After the end of such period, not being less than three years from the commencement of this Act, as the Minister may by order determine—
 
@@ -75,27 +75,27 @@ and regulations under this Act may require or authorise a registration authority
 
 (2) Any register maintained under this Act shall be open to inspection by the public at all reasonable times.
 
-## 4. Provisional registration.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 4. Provisional registration.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notification of, and objections to, registration.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 5. Notification of, and objections to, registration.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Disposal of disputed claims.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 6. Disposal of disputed claims.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Finality of undisputed registrations.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 7. Finality of undisputed registrations.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Vesting of unclaimed land.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 8. Vesting of unclaimed land.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Protection of unclaimed common land.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 9. Protection of unclaimed common land.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -120,7 +120,7 @@ The registration under this Act of any land as common land or as a town or villa
 
 ## 12. Subsequent registration under Land Registration Act 1925 and 1936.
 
-The following provisions shall have effect with respect to the registration in the register of title[^key-7c4d98113ad4c5a6df811d533ae964c6] of any land after the ownership of the land has been registered under this Act, that is to say—
+The following provisions shall have effect with respect to the registration in the register of title[^c-7c4d98113ad4c5a6df811d533ae964c6] of any land after the ownership of the land has been registered under this Act, that is to say—
 
 - (a)[^c123061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) if the registration authority is notified by the Chief Land Registrar that the land has been registered in the register of title the authority shall delete the registration of the ownership under this Act and indicate in the register in the prescribed manner that it has been registered under those Acts.
@@ -129,8 +129,8 @@ The following provisions shall have effect with respect to the registration in t
 
 Regulations under this Act shall provide for the amendment of the registers maintained under this Act where—
 
-- (a)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any rights registered under this Act are apportioned, extinguished or released, or are varied or transferred in such circumstances as may be prescribed;
 
 [^c123071]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -173,11 +173,11 @@ that period or part shall be left out of account, both—
 - (a) that the movement of the animals to that land was prohibited or restricted by or under the [^c123111]Diseases of Animals Act 1950 or any enactment repealed by that Act; or
 - (b) that the land was not, but some other land was, approved for grazing under any scheme in force under that Act or any such enactment and the animals were registered, or were undergoing tests with a view to registration, under the scheme.
 
-## 17. Commons Commissioners and assessors.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 17. Commons Commissioners and assessors.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Appeals from Commons Commissioners.[^key-867198b8747a7e690cdb8ea0097a172c]
+## 18. Appeals from Commons Commissioners.[^c-867198b8747a7e690cdb8ea0097a172c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,13 +187,13 @@ that period or part shall be left out of account, both—
 
 - (a) for prescribing the form of the registers to be maintained under this Act and of any applications and objections to be made and notices and certificates to be given thereunder;
 - (b) for regulating the procedure of registration authorities in dealing with applications for registration and with objections;
-- (c)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) for requiring registration authorities to supply by post, on payment of such fee as may be prescribed, such information relating to the entries in the registers kept by them as may be prescribed;
-- (e)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g) for enabling the Diocesan Board of Finance for the diocese in which the land is situated[^key-7ea00f4aa4c9147be919a82c550531b3] to act with respect to any land or rights belonging to an ecclesiastical benefice of the Church of England which is vacant;
-- (h)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) for enabling the Diocesan Board of Finance for the diocese in which the land is situated[^c-7ea00f4aa4c9147be919a82c550531b3] to act with respect to any land or rights belonging to an ecclesiastical benefice of the Church of England which is vacant;
+- (h)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-867198b8747a7e690cdb8ea0097a172c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) for the correction of errors and omissions in the registers;
 - (k) for prescribing anything required or authorised to be prescribed by this Act.
 
@@ -232,7 +232,7 @@ but does not include a town or village green or any land which forms part of a h
 - “**local authority**” means [^c123291]... the council of a county, [^c123301]..., London borough or county district, the council of a parish [^c123301]...;
 - “**the Minister**” means the Secretary of State[^c123321];
 - “**prescribed**” means prescribed by regulations under this Act;
-- “[^key-b9fb74a5f045c7579d4af44dffc38885]**register of title**” means the register kept under section 1 of the Land Registration Act 2002;
+- “[^c-b9fb74a5f045c7579d4af44dffc38885]**register of title**” means the register kept under section 1 of the Land Registration Act 2002;
 - “**registration**” includes an entry in the register made in pursuance of section 13 of this Act;
 - “**rights of common**” includes cattlegates or beastgates (by whatever name known) and rights of sole or several vesture or herbage or of sole or several pasture, but does not include rights held for a term of years or from year to year;
 - “**town or village green**” means land which has been allotted by or under any Act for the exercise or recreation of the inhabitants of any locality or on which the inhabitants of any locality have a customary right to indulge in lawful sports and pastimes or which falls within subsection (1A) of this section[^c123331].
@@ -244,7 +244,7 @@ but does not include a town or village green or any land which forms part of a h
 
 (1B) If regulations made for the purposes of paragraph (b) of subsection (1A) of this section provide for the period mentioned in that paragraph to come to an end unless prescribed steps are taken, the regulations may also require registration authorities to make available in accordance with the regulations, on payment of any prescribed fee, information relating to the taking of any such steps.
 
-(2) References in this Act to the ownership and the owner of any land are references to the ownership of a legal estate in fee simple in any land and to the person holding that estate, and references to land registered in the register of title[^key-069d4843f052e196796bd70962b7f551] are references to land the fee simple of which is so registered.
+(2) References in this Act to the ownership and the owner of any land are references to the ownership of a legal estate in fee simple in any land and to the person holding that estate, and references to land registered in the register of title[^c-069d4843f052e196796bd70962b7f551] are references to land the fee simple of which is so registered.
 
 ## 23. Application to Crown.
 
@@ -266,13 +266,13 @@ There shall be defrayed out of moneys provided by Parliament any expenses of the
 
 ## Annotations
 
-[^key-867198b8747a7e690cdb8ea0097a172c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1965/64) repealed (1.10.2006 for E. for the repeal of ss. 8, 9, 13(a), 6.4.2007 for E. for the repeal of s. 13(b), 6.9.2007 for W. for the repeal of ss. 8, 9, 13(a)(b), 1.10.2008 in relation to the pilot areas in E. for the repeal of ss. 1-7, 10-12, 13 in so far as not already in force, 14-16, 19, 1.12.2010 for the repeal of ss. 4-7 (in so far as not already in force), 17, 18, 19(1)(c)(e)(f)(h)(i) and 19(1)(k) (for specified purposes), 12.11.2014 in relation to the pilot areas in E. for specified purposes in relation to the repeal of ss. 1-3, 10-12, 13 (so far as not already in force), 14-16, 19 (so far as not already in force), 15.12.2014 in relation to the pilot areas in E. for the remaining purposes of the repeal of ss. 1-3, 10-12, 13 (so far as not already in force), 14-16, 19 (so far as not already in force)) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/h) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2504/article/3)); [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/456/article/3/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/456/article/4)); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(p)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/p) (with [art. 4](https://www.legislation.gov.uk/wsi/2007/2386/article/4)); [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/h) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3)); [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2356/article/4)); [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-867198b8747a7e690cdb8ea0097a172c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1965/64) repealed (1.10.2006 for E. for the repeal of ss. 8, 9, 13(a), 6.4.2007 for E. for the repeal of s. 13(b), 6.9.2007 for W. for the repeal of ss. 8, 9, 13(a)(b), 1.10.2008 in relation to the pilot areas in E. for the repeal of ss. 1-7, 10-12, 13 in so far as not already in force, 14-16, 19, 1.12.2010 for the repeal of ss. 4-7 (in so far as not already in force), 17, 18, 19(1)(c)(e)(f)(h)(i) and 19(1)(k) (for specified purposes), 12.11.2014 in relation to the pilot areas in E. for specified purposes in relation to the repeal of ss. 1-3, 10-12, 13 (so far as not already in force), 14-16, 19 (so far as not already in force), 15.12.2014 in relation to the pilot areas in E. for the remaining purposes of the repeal of ss. 1-3, 10-12, 13 (so far as not already in force), 14-16, 19 (so far as not already in force)) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/h) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2504/article/3)); [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/456/article/3/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/456/article/4)); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(p)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/p) (with [art. 4](https://www.legislation.gov.uk/wsi/2007/2386/article/4)); [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/h) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3)); [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2356/article/4)); [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
 
 [^c122901]: Commencement: Act not in force at Royal Assent. Act wholly in force at 1.1.1970.
 
 [^c122911]: Modification: Act: powers transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-63c5a74842ff1b26a913edc90c4bee12]: Textual amendment: Words in s. 1(1)(2)(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-63c5a74842ff1b26a913edc90c4bee12]: Textual amendment: Words in s. 1(1)(2)(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c122921]: Textual amendment: Words repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -284,7 +284,7 @@ There shall be defrayed out of moneys provided by Parliament any expenses of the
 
 [^c123041]: Marginal citation: [1876 c. 56](https://www.legislation.gov.uk/ukpga/1876/56).
 
-[^key-7c4d98113ad4c5a6df811d533ae964c6]: Textual amendment: Words in s. 12 substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(4)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/4) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-7c4d98113ad4c5a6df811d533ae964c6]: Textual amendment: Words in s. 12 substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(4)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/4) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c123061]: Textual amendment: S. 12(a) repealed (1.4.1998) by [1997 c. 2](https://www.legislation.gov.uk/ukpga/1997/2), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1997/2/section/4/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1997/2/schedule/2/part/I); [S.I. 1997/3036](https://www.legislation.gov.uk/uksi/1997/3036), [art. 2(c)](https://www.legislation.gov.uk/uksi/1997/3036/article/2/c)
 
@@ -302,7 +302,7 @@ There shall be defrayed out of moneys provided by Parliament any expenses of the
 
 [^c123211]: Modification: S. 19(1)(4)(5) amended by [Common Land (Rectification of Registers) Act 1989 (c. 18, SIF 25)](https://www.legislation.gov.uk/ukpga/1989/18), [s. 2](https://www.legislation.gov.uk/ukpga/1989/18/section/2)
 
-[^key-7ea00f4aa4c9147be919a82c550531b3]: Textual amendment: Words in s. 19(1)(g) substituted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/13); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-7ea00f4aa4c9147be919a82c550531b3]: Textual amendment: Words in s. 19(1)(g) substituted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/13); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c123241]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -312,12 +312,12 @@ There shall be defrayed out of moneys provided by Parliament any expenses of the
 
 [^c123321]: Textual amendment: Words substituted by virtue of [S.I. 1967/156](https://www.legislation.gov.uk/uksi/1967/156) and 1970/1681
 
-[^key-b9fb74a5f045c7579d4af44dffc38885]: Textual amendment: Words in s. 22(1) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(5)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/5) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-b9fb74a5f045c7579d4af44dffc38885]: Textual amendment: Words in s. 22(1) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(5)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/5) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c123331]: Textual amendment: S. 22(1): Words in definition substituted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/98/2), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2)
 
 [^c123341]: Textual amendment: S. 22(1A)(1B) inserted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/98/3), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2)
 
-[^key-069d4843f052e196796bd70962b7f551]: Textual amendment: Words in s. 22(2) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(6)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/6) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-069d4843f052e196796bd70962b7f551]: Textual amendment: Words in s. 22(2) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 7(6)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/7/6) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c123351]: Modification: Power of appointment conferred by s. 25(2) fully exercised: S.I., 1965/2000 and 1966/971

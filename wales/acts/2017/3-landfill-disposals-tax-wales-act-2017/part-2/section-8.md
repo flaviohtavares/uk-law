@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9444684fc9bc3e07281e6e429e7875f4] The carrying out of a specified landfill site activity in Wales is to be treated as a taxable disposal of the material in relation to which the activity is carried out (whether or not the conditions in section 3 are met).
+(1)[^c-9444684fc9bc3e07281e6e429e7875f4] The carrying out of a specified landfill site activity in Wales is to be treated as a taxable disposal of the material in relation to which the activity is carried out (whether or not the conditions in section 3 are met).
 
-(2)[^key-9444684fc9bc3e07281e6e429e7875f4] The taxable disposal is to be treated as being made when the specified landfill site activity is first carried out in relation to the material.
+(2)[^c-9444684fc9bc3e07281e6e429e7875f4] The taxable disposal is to be treated as being made when the specified landfill site activity is first carried out in relation to the material.
 
-(3)[^key-9444684fc9bc3e07281e6e429e7875f4] The following are specified landfill site activities when carried out at an authorised landfill site—
+(3)[^c-9444684fc9bc3e07281e6e429e7875f4] The following are specified landfill site activities when carried out at an authorised landfill site—
 
 - (a) using material to create or maintain a temporary road giving access to a landfill disposal area;
 - (b) using material to create or maintain a temporary hard standing;
@@ -36,25 +36,25 @@ summary: ''
 - (h) storing ashes (for example, fly ash and bottom ash);
 - (i) using material in restoration work.
 
-(4)[^key-1f87ed4fc2669596f84c016f0702efd9] In subsection (3)—
+(4)[^c-1f87ed4fc2669596f84c016f0702efd9] In subsection (3)—
 
 - “**cell bund**” (“***bwnd cell***”) means a structure within a landfill disposal area which separates quantities of material deposited in that area;
 - “**hard standing**” (“***arwyneb solet***”) means a base on which a landfill site activity is carried out;
-- “**restoration work**” (“***gwaith adfer***”) means work carried out to restore an authorised landfill site (or any part of the site) to a use other than making landfill disposals; but where a landfill disposal area is capped, work carried out to restore that area[^key-4361c92b972fc82f6b1ee89949d5eb7b] is restoration work only if it is carried out after the area has been capped;
+- “**restoration work**” (“***gwaith adfer***”) means work carried out to restore an authorised landfill site (or any part of the site) to a use other than making landfill disposals; but where a landfill disposal area is capped, work carried out to restore that area[^c-4361c92b972fc82f6b1ee89949d5eb7b] is restoration work only if it is carried out after the area has been capped;
 - “**screening bund**” (“***bwnd sgrinio***”) means a structure, whether above or below ground, for protecting or concealing a landfill site activity or reducing noise.
 
-(5)[^key-9444684fc9bc3e07281e6e429e7875f4] Regulations may—
+(5)[^c-9444684fc9bc3e07281e6e429e7875f4] Regulations may—
 
 - (a) provide that a landfill site activity is to be a specified landfill site activity,
 - (b) modify the description of a specified landfill site activity, or
 - (c) provide that an activity is to cease to be a specified landfill site activity.
 
-(6)[^key-9444684fc9bc3e07281e6e429e7875f4] The regulations may amend this section or any other enactment relating to the tax.
+(6)[^c-9444684fc9bc3e07281e6e429e7875f4] The regulations may amend this section or any other enactment relating to the tax.
 
 ## Annotations
 
-[^key-9444684fc9bc3e07281e6e429e7875f4]: Commencement: S. 8(1)-(3) (5)(6) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-9444684fc9bc3e07281e6e429e7875f4]: Commencement: S. 8(1)-(3) (5)(6) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
 
-[^key-1f87ed4fc2669596f84c016f0702efd9]: Commencement: S. 8(4) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/35/article/2/a)
+[^c-1f87ed4fc2669596f84c016f0702efd9]: Commencement: S. 8(4) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/35/article/2/a)
 
-[^key-4361c92b972fc82f6b1ee89949d5eb7b]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/anaw/2017/3/section/8/4) substituted (19.7.2019) by [The Landfill Disposals Tax (Wales) Act 2017 (Reliefs) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1143)](https://www.legislation.gov.uk/wsi/2019/1143), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1143/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1143/regulation/2)
+[^c-4361c92b972fc82f6b1ee89949d5eb7b]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/anaw/2017/3/section/8/4) substituted (19.7.2019) by [The Landfill Disposals Tax (Wales) Act 2017 (Reliefs) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1143)](https://www.legislation.gov.uk/wsi/2019/1143), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1143/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1143/regulation/2)

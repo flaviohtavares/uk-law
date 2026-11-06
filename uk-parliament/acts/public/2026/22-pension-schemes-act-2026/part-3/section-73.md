@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Capital buffer: compulsory release to trustees[^key-8445f192cc97d07692ea8adf7dd9df88]
+## 73. Capital buffer: compulsory release to trustees[^c-8445f192cc97d07692ea8adf7dd9df88]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8445f192cc97d07692ea8adf7dd9df88]: Commencement: S. 73 in force at 29.4.2026 for specified purposes, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-8445f192cc97d07692ea8adf7dd9df88]: Commencement: S. 73 in force at 29.4.2026 for specified purposes, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Rights to abstract for drainage purposes, etc[^key-dd3a6e28228254011071fc14c746e78a]
+## 7. Rights to abstract for drainage purposes, etc[^c-dd3a6e28228254011071fc14c746e78a]
 
 *Extent: E+W*
 
@@ -40,12 +40,12 @@ summary: ''
 > - (b) of serious damage to works resulting from any such operations; or
 > - (c) of serious damage to the environment.
 >
-> (2B) In the case of any emergency abstraction, the person abstracting the water shall before the end of the period of five days beginning with the date on which the abstraction started give notice to the appropriate agency[^key-72ed3a0fc9ccb175d1cf7ede989e37a2] of—
+> (2B) In the case of any emergency abstraction, the person abstracting the water shall before the end of the period of five days beginning with the date on which the abstraction started give notice to the appropriate agency[^c-72ed3a0fc9ccb175d1cf7ede989e37a2] of—
 >
 > - (a) the abstraction and of the source of supply in question; and
 > - (b) the reasons for the abstractor’s opinion that an emergency had arisen and that the abstraction was necessary.
 >
-> (2C) The appropriate agency may give notice to the person referred to in subsection (2B) above that in the appropriate agency's[^key-62be53061988f08e5ec9d6787bd6bfb0] opinion an emergency had not arisen, or that the abstraction is not, or is no longer, necessary for any of the reasons set out in subsection (2A) above; and, if the appropriate agency does so, the restriction on abstraction shall apply to the abstraction from the time when the notice is served (and, if applicable, the restriction imposed by section 24(2) above shall apply accordingly).
+> (2C) The appropriate agency may give notice to the person referred to in subsection (2B) above that in the appropriate agency's[^c-62be53061988f08e5ec9d6787bd6bfb0] opinion an emergency had not arisen, or that the abstraction is not, or is no longer, necessary for any of the reasons set out in subsection (2A) above; and, if the appropriate agency does so, the restriction on abstraction shall apply to the abstraction from the time when the notice is served (and, if applicable, the restriction imposed by section 24(2) above shall apply accordingly).
 
 (4) Subsection (3) is omitted.
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dd3a6e28228254011071fc14c746e78a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2003/37/section/7) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/b)
+[^c-dd3a6e28228254011071fc14c746e78a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2003/37/section/7) in force at 1.1.2018 by [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/b)
 
-[^key-72ed3a0fc9ccb175d1cf7ede989e37a2]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/7/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 417(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/417/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-72ed3a0fc9ccb175d1cf7ede989e37a2]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/7/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 417(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/417/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-62be53061988f08e5ec9d6787bd6bfb0]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/7/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 417(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/417/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-62be53061988f08e5ec9d6787bd6bfb0]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/7/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 417(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/417/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

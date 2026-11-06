@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Licensing of fishing boats.[^key-2111c0076125eedd7646b8548bb6c927]
+## 20. Licensing of fishing boats.[^c-2111c0076125eedd7646b8548bb6c927]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2111c0076125eedd7646b8548bb6c927]: Textual amendment: S. 20 omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/8) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-2111c0076125eedd7646b8548bb6c927]: Textual amendment: S. 20 omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/8) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

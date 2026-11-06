@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of the Contaminants in Food (Amendment) (EU Exit) Regulations 2019[^key-c52c120ed9560422be075cc8fd148246]
+## 8. Amendment of the Contaminants in Food (Amendment) (EU Exit) Regulations 2019[^c-c52c120ed9560422be075cc8fd148246]
 
 *Extent: E+W+S*
 
@@ -124,6 +124,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c52c120ed9560422be075cc8fd148246]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-c52c120ed9560422be075cc8fd148246]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375421]: Marginal citation: [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639).

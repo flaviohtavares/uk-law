@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Jury citation[^key-eb082f726d2b1b154b1deab32cd58881]
+## 29. Jury citation[^c-eb082f726d2b1b154b1deab32cd58881]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ In section 85 (juries: citation and attendance of jurors) of the 1995 Act, after
 
 ## Annotations
 
-[^key-eb082f726d2b1b154b1deab32cd58881]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2007/6/section/29) in force at 1.11.2012 by [S.S.I. 2012/274](https://www.legislation.gov.uk/ssi/2012/274), [art. 2](https://www.legislation.gov.uk/ssi/2012/274/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/274/schedule)
+[^c-eb082f726d2b1b154b1deab32cd58881]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2007/6/section/29) in force at 1.11.2012 by [S.S.I. 2012/274](https://www.legislation.gov.uk/ssi/2012/274), [art. 2](https://www.legislation.gov.uk/ssi/2012/274/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/274/schedule)

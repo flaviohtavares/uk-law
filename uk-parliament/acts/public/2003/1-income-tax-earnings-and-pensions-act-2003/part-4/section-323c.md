@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 323C. Power to amend sections 323A and 323B[^key-004c4d5452f88936fd7270e618f7f4dc]
+## 323C. Power to amend sections 323A and 323B[^c-004c4d5452f88936fd7270e618f7f4dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-004c4d5452f88936fd7270e618f7f4dc]: Textual amendment: [Ss. 323A-323C](https://www.legislation.gov.uk/ukpga/2003/1/section/323A) inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/13/2)
+[^c-004c4d5452f88936fd7270e618f7f4dc]: Textual amendment: [Ss. 323A-323C](https://www.legislation.gov.uk/ukpga/2003/1/section/323A) inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/13/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Setting of punishment part[^key-0379800ecd70b5af7761dc6bac34b985]
+## 20. Setting of punishment part[^c-0379800ecd70b5af7761dc6bac34b985]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) in the case of a mandatory life sentence, the matters mentioned in subsection (4),
 - (b) in the case of a discretionary life sentence or an order for lifelong restriction under section 210F of the 1995 Act, the matters mentioned in subsection (5),
 
-the court considers appropriate to satisfy the requirements for retribution and deterrence [^key-c8273db0b4b6e588d1ec64716f7233a0]....
+the court considers appropriate to satisfy the requirements for retribution and deterrence [^c-c8273db0b4b6e588d1ec64716f7233a0]....
 
 (4) Those matters are—
 
@@ -39,15 +39,15 @@ the court considers appropriate to satisfy the requirements for retribution and 
 - (b) any previous conviction of the person, and
 - (c) where appropriate, the matters mentioned in paragraphs (a) and (b) of section 196(1) of the 1995 Act.
 
-(4A)[^key-ff699e6c04af50296cc6a933b62d3e6b] As respects the punishment part in the case to which subsection (4) relates, the court is to ignore any period of confinement which may be necessary for the protection of the public.
+(4A)[^c-ff699e6c04af50296cc6a933b62d3e6b] As respects the punishment part in the case to which subsection (4) relates, the court is to ignore any period of confinement which may be necessary for the protection of the public.
 
 (5) Those matters are—
 
-- (a) any period of imprisonment which the court considers would have been appropriate for the offence had the court not imposed a sentence, or made an order, such as is mentioned in subsection (3)(b) for the offence, [^key-173d7e7aec3cfb7f2b35d609037d5ad1]...
-- (b) the part of that period of imprisonment which would represent an appropriate period to satisfy the requirements of retribution and deterrence,[^key-9553215e432ae88ee78f7f23c4906785] and[^key-cab6007b40a5651c203f4194fb6671d6]
+- (a) any period of imprisonment which the court considers would have been appropriate for the offence had the court not imposed a sentence, or made an order, such as is mentioned in subsection (3)(b) for the offence, [^c-173d7e7aec3cfb7f2b35d609037d5ad1]...
+- (b) the part of that period of imprisonment which would represent an appropriate period to satisfy the requirements of retribution and deterrence,[^c-9553215e432ae88ee78f7f23c4906785] and[^c-cab6007b40a5651c203f4194fb6671d6]
 - (c) where appropriate, the ones mentioned in paragraphs (a) and (b) of section 196(1) of the 1995 Act.
 
-(5A)[^key-d8ff5b7c21cb5a09f9eb98ace018259c] But—
+(5A)[^c-d8ff5b7c21cb5a09f9eb98ace018259c] But—
 
 - (a) in the application of subsection (5)(a), the court is to ignore any period of confinement which may be necessary for the protection of the public,
 - (b) subsection (5)(b) is subject to section 20A,
@@ -61,16 +61,16 @@ the court considers appropriate to satisfy the requirements for retribution and 
 
 ## Annotations
 
-[^key-0379800ecd70b5af7761dc6bac34b985]: Modification: Pt. 2 power to modify conferred (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-0379800ecd70b5af7761dc6bac34b985]: Modification: Pt. 2 power to modify conferred (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-c8273db0b4b6e588d1ec64716f7233a0]: Textual amendment: Words in [s. 20(3)](https://www.legislation.gov.uk/asp/2007/17/section/20/3) repealed (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(a)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/a), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-c8273db0b4b6e588d1ec64716f7233a0]: Textual amendment: Words in [s. 20(3)](https://www.legislation.gov.uk/asp/2007/17/section/20/3) repealed (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(a)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/a), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-ff699e6c04af50296cc6a933b62d3e6b]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/asp/2007/17/section/20/4A) inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(b)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/b), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-ff699e6c04af50296cc6a933b62d3e6b]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/asp/2007/17/section/20/4A) inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(b)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/b), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-173d7e7aec3cfb7f2b35d609037d5ad1]: Textual amendment: Word in [s. 20(5)(a)](https://www.legislation.gov.uk/asp/2007/17/section/20/5) repealed (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(c)(i)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/c/i), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-173d7e7aec3cfb7f2b35d609037d5ad1]: Textual amendment: Word in [s. 20(5)(a)](https://www.legislation.gov.uk/asp/2007/17/section/20/5) repealed (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(c)(i)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/c/i), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-9553215e432ae88ee78f7f23c4906785]: Textual amendment: Words in [s. 20(5)(b)](https://www.legislation.gov.uk/asp/2007/17/section/20/5/b) substituted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(c)(ii)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/c/ii), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-9553215e432ae88ee78f7f23c4906785]: Textual amendment: Words in [s. 20(5)(b)](https://www.legislation.gov.uk/asp/2007/17/section/20/5/b) substituted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(c)(ii)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/c/ii), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-cab6007b40a5651c203f4194fb6671d6]: Textual amendment: [S. 20(5)(c)](https://www.legislation.gov.uk/asp/2007/17/section/20/5/c) and word preceding it inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(c)(iii)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/c/iii), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-cab6007b40a5651c203f4194fb6671d6]: Textual amendment: [S. 20(5)(c)](https://www.legislation.gov.uk/asp/2007/17/section/20/5/c) and word preceding it inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(c)(iii)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/c/iii), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-d8ff5b7c21cb5a09f9eb98ace018259c]: Textual amendment: [S. 20(5A)](https://www.legislation.gov.uk/asp/2007/17/section/20/5A) inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(d)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/d), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-d8ff5b7c21cb5a09f9eb98ace018259c]: Textual amendment: [S. 20(5A)](https://www.legislation.gov.uk/asp/2007/17/section/20/5A) inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(5)(d)](https://www.legislation.gov.uk/asp/2012/7/section/1/5/d), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)

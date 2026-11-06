@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Individual culpability where offending by an organisation[^key-96d24dc21941863942b14166d4ad6fd9]
+## 125. Individual culpability where offending by an organisation[^c-96d24dc21941863942b14166d4ad6fd9]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96d24dc21941863942b14166d4ad6fd9]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2019/17/section/125) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-96d24dc21941863942b14166d4ad6fd9]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2019/17/section/125) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Entitlement to pension credit member’s pension[^key-28ef54c6c4d36eb452a4c6137c1ff8c2]
+## 116. Entitlement to pension credit member’s pension[^c-28ef54c6c4d36eb452a4c6137c1ff8c2]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ A pension credit member (P) of this scheme who has reached normal minimum pensio
 
 ## Annotations
 
-[^key-28ef54c6c4d36eb452a4c6137c1ff8c2]: Commencement: Reg. 116 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-28ef54c6c4d36eb452a4c6137c1ff8c2]: Commencement: Reg. 116 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00057]: Footnote: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).

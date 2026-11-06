@@ -32,7 +32,7 @@ summary: ''
 
 POLICE
 
-The Police Act 1997 (Criminal Records) (Scotland) Amendment (No. 2) Regulations 2009 (revoked)[^key-850e46510701043dd11f76e128a665a9]
+The Police Act 1997 (Criminal Records) (Scotland) Amendment (No. 2) Regulations 2009 (revoked)[^c-850e46510701043dd11f76e128a665a9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2009
 
-[^key-850e46510701043dd11f76e128a665a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-850e46510701043dd11f76e128a665a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-850e46510701043dd11f76e128a665a9]
+## 1. Citation and commencement[^c-850e46510701043dd11f76e128a665a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^key-850e46510701043dd11f76e128a665a9]
+## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^c-850e46510701043dd11f76e128a665a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-850e46510701043dd11f76e128a665a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-850e46510701043dd11f76e128a665a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-850e46510701043dd11f76e128a665a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-850e46510701043dd11f76e128a665a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-850e46510701043dd11f76e128a665a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/216) revoked (28.2.2011) by [The Police Act 1997 (Criminal Records) (Scotland) Regulations 2010 (S.S.I. 2010/168)](https://www.legislation.gov.uk/ssi/2010/168), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/168/regulation/1), [17(e)](https://www.legislation.gov.uk/ssi/2010/168/regulation/17)
+[^c-850e46510701043dd11f76e128a665a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/216) revoked (28.2.2011) by [The Police Act 1997 (Criminal Records) (Scotland) Regulations 2010 (S.S.I. 2010/168)](https://www.legislation.gov.uk/ssi/2010/168), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/168/regulation/1), [17(e)](https://www.legislation.gov.uk/ssi/2010/168/regulation/17)

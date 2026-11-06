@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Amount of college fee loan[^key-a97a17ca8a564f8aed85aeb9ab1d0783]
+## 91. Amount of college fee loan[^c-a97a17ca8a564f8aed85aeb9ab1d0783]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a97a17ca8a564f8aed85aeb9ab1d0783]: Commencement: Reg. 91 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a97a17ca8a564f8aed85aeb9ab1d0783]: Commencement: Reg. 91 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

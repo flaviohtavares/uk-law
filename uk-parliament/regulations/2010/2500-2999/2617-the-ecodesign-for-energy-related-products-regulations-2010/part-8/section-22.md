@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Power of the Secretary of State to make implementing measures[^key-936ae8eda00877277291a5e54cac6d07]
+## 22. Power of the Secretary of State to make implementing measures[^c-936ae8eda00877277291a5e54cac6d07]
 
 *Extent: E+W+S*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936ae8eda00877277291a5e54cac6d07]: Textual amendment: Pt. 8 (regs. 22-24) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/12) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(1)(2)(a)(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-936ae8eda00877277291a5e54cac6d07]: Textual amendment: Pt. 8 (regs. 22-24) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/12) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(1)(2)(a)(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

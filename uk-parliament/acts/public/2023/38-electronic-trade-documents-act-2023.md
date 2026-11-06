@@ -36,7 +36,7 @@ An Act to make provision about electronic trade documents; and for connected pur
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Definition of “paper trade document”[^key-86786b0e0bdda46efd20bf0b695db1f9]
+## 1. Definition of “paper trade document”[^c-86786b0e0bdda46efd20bf0b695db1f9]
 
 (1) A document is a “**paper trade document**” for the purposes of this Act if—
 
@@ -57,7 +57,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (g) a marine insurance policy;
 - (h) a cargo insurance certificate.
 
-## 2. Definition of “electronic trade document”[^key-98a95637fbb21182ecdda714107e0dab]
+## 2. Definition of “electronic trade document”[^c-98a95637fbb21182ecdda714107e0dab]
 
 (1) This section applies where information in electronic form is information that, if contained in a document in paper form, would lead to the document being a paper trade document.
 
@@ -86,7 +86,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (f) any assessment of the reliability of the system made by a body with supervisory or regulatory functions;
 - (g) the provisions of any voluntary scheme or industry standard that apply in relation to the system.
 
-## 3. Possession, indorsement and effect of electronic trade documents[^key-923531c3414920bd7d577cfeeb57f4d0]
+## 3. Possession, indorsement and effect of electronic trade documents[^c-923531c3414920bd7d577cfeeb57f4d0]
 
 (1) A person may possess, indorse and part with possession of an electronic trade document.
 
@@ -96,7 +96,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) An electronic trade document is to be treated as corporeal moveable property for the purposes of any Act of the Scottish Parliament relating to the creation of a security in the form of a pledge over moveable property.
 
-## 4. Change of form[^key-480ba3aa56580653eb404bae70d21380]
+## 4. Change of form[^c-480ba3aa56580653eb404bae70d21380]
 
 (1) A paper trade document may be converted into an electronic trade document, and an electronic trade document may be converted into a paper trade document, if (and only if)—
 
@@ -108,7 +108,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) the document in its old form ceases to have effect, and
 - (b) all rights and liabilities relating to the document continue to have effect in relation to the document in its new form.
 
-## 5. Exceptions[^key-2c3698dc9f4868c94043045590385ea3]
+## 5. Exceptions[^c-2c3698dc9f4868c94043045590385ea3]
 
 (1) If an intention that section 3 should not apply in relation to an electronic trade document appears in, or can reasonably be inferred from, the document or terms that have effect in relation to the document—
 
@@ -135,7 +135,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) Provision is within Scottish devolved competence if it is provision which would be within the legislative competence of the Scottish Parliament if contained in an Act of that Parliament.
 
-## 6. Regulations under section 5[^key-4f0afb94030e456f6c669b9056385fa8]
+## 6. Regulations under section 5[^c-4f0afb94030e456f6c669b9056385fa8]
 
 (1) Any power to make regulations under section 5, so far as exercisable by the Secretary of State acting alone or by the Secretary of State and the Scottish Ministers acting jointly, is exercisable by statutory instrument.
 
@@ -152,13 +152,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (6) In this section “**the 2010 Act**” means the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-## 7. Consequential provision[^key-fb4e6001c61b2689f55ce9df990a9d42]
+## 7. Consequential provision[^c-fb4e6001c61b2689f55ce9df990a9d42]
 
 (1) In section 89B(2) of the Bills of Exchange Act 1882 (instruments to which section 89A applies), at the end insert “or to anything that is an electronic trade document for the purposes of the Electronic Trade Documents Act 2023 (see section 2 of that Act).”
 
 (2) In section 1 of the Carriage of Goods by Sea Act 1992 (shipping documents etc), omit subsections (5) and (6).
 
-## 8. Extent, commencement and short title[^key-7ea701d3b0ed13ad5ffc326c06278ec7]
+## 8. Extent, commencement and short title[^c-7ea701d3b0ed13ad5ffc326c06278ec7]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland, except that section 3(4) extends only to Scotland.
 
@@ -170,18 +170,18 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-86786b0e0bdda46efd20bf0b695db1f9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/38/section/1) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-86786b0e0bdda46efd20bf0b695db1f9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/38/section/1) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-98a95637fbb21182ecdda714107e0dab]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/38/section/2) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-98a95637fbb21182ecdda714107e0dab]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/38/section/2) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-923531c3414920bd7d577cfeeb57f4d0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/38/section/3) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-923531c3414920bd7d577cfeeb57f4d0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/38/section/3) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-480ba3aa56580653eb404bae70d21380]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/38/section/4) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-480ba3aa56580653eb404bae70d21380]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/38/section/4) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-2c3698dc9f4868c94043045590385ea3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/38/section/5) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-2c3698dc9f4868c94043045590385ea3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/38/section/5) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-4f0afb94030e456f6c669b9056385fa8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/38/section/6) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-4f0afb94030e456f6c669b9056385fa8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/38/section/6) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-fb4e6001c61b2689f55ce9df990a9d42]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/38/section/7) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-fb4e6001c61b2689f55ce9df990a9d42]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/38/section/7) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-7ea701d3b0ed13ad5ffc326c06278ec7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/38/section/8) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-7ea701d3b0ed13ad5ffc326c06278ec7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/38/section/8) in force at 20.9.2023, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)

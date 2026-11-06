@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.1. Interpretation[^key-0fcf3baf93618beb4d4c3e352a40230e]
+## 6.1. Interpretation[^c-0fcf3baf93618beb4d4c3e352a40230e]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ In this Chapter “the Act” means the Social Security Administration Act 1992[
 
 ## Annotations
 
-[^key-0fcf3baf93618beb4d4c3e352a40230e]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/uksi/1997/291/rule/6.1) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-0fcf3baf93618beb4d4c3e352a40230e]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/uksi/1997/291/rule/6.1) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00052]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Research and development services[^key-18e1e09053760e98ecc2681d7d064a50]
+## 31. Research and development services[^c-18e1e09053760e98ecc2681d7d064a50]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ These Regulations only apply to procurement for the award of service contracts f
 
 ## Annotations
 
-[^key-18e1e09053760e98ecc2681d7d064a50]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2016/49/regulation/31) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-18e1e09053760e98ecc2681d7d064a50]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2016/49/regulation/31) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

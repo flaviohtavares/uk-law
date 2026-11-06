@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Review of advocacy plan[^key-7d95731e97627da5f2d84f41a2763764]
+## 13. Review of advocacy plan[^c-7d95731e97627da5f2d84f41a2763764]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d95731e97627da5f2d84f41a2763764]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2019/165/regulation/13) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-7d95731e97627da5f2d84f41a2763764]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2019/165/regulation/13) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

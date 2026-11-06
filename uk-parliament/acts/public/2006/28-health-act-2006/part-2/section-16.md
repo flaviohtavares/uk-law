@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Code of practice: improvement notices[^key-5aa28cb7463ccf02b436744acc0c4399]
+## 16. Code of practice: improvement notices[^c-5aa28cb7463ccf02b436744acc0c4399]
 
 *Extent: E+W*
 
@@ -120,4 +120,4 @@ After section 53 of the 2003 Act insert—
 
 ## Annotations
 
-[^key-5aa28cb7463ccf02b436744acc0c4399]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/28/section/16) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 2](https://www.legislation.gov.uk/uksi/2006/2603/article/2)
+[^c-5aa28cb7463ccf02b436744acc0c4399]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/28/section/16) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 2](https://www.legislation.gov.uk/uksi/2006/2603/article/2)

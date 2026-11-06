@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Amendment of local legislation[^key-5525c04bf42a722842b0f41b5f36c8ea]
+## 51. Amendment of local legislation[^c-5525c04bf42a722842b0f41b5f36c8ea]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ action taken in pursuance of a power or duty under the provisions would or might
 
 ## Annotations
 
-[^key-5525c04bf42a722842b0f41b5f36c8ea]: Commencement: Art. 51 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-5525c04bf42a722842b0f41b5f36c8ea]: Commencement: Art. 51 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

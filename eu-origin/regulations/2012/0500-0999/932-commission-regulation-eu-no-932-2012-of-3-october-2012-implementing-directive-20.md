@@ -36,77 +36,77 @@ implementing Directive 2009/125/EC of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-6868433a030ce38c254981e3913e3451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6868433a030ce38c254981e3913e3451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-6868433a030ce38c254981e3913e3451]
+## Article 1. Subject matter and scope[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-6868433a030ce38c254981e3913e3451]
+## Article 2. Definitions[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Ecodesign requirements[^key-6868433a030ce38c254981e3913e3451]
+## Article 3. Ecodesign requirements[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conformity assessment[^key-6868433a030ce38c254981e3913e3451]
+## Article 4. Conformity assessment[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Verification procedure for market surveillance purposes[^key-6868433a030ce38c254981e3913e3451]
+## Article 5. Verification procedure for market surveillance purposes[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Benchmarks[^key-6868433a030ce38c254981e3913e3451]
+## Article 6. Benchmarks[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Revision[^key-6868433a030ce38c254981e3913e3451]
+## Article 7. Revision[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and application[^key-6868433a030ce38c254981e3913e3451]
+## Article 8. Entry into force and application[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6868433a030ce38c254981e3913e3451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6868433a030ce38c254981e3913e3451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Ecodesign requirements[^key-6868433a030ce38c254981e3913e3451]
+## ANNEX I — Ecodesign requirements[^c-6868433a030ce38c254981e3913e3451]
 
-[^key-6868433a030ce38c254981e3913e3451]1.
+[^c-6868433a030ce38c254981e3913e3451]1.
 
 **Generic ecodesign requirements**
 
-[^key-6868433a030ce38c254981e3913e3451]1.1.
+[^c-6868433a030ce38c254981e3913e3451]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6868433a030ce38c254981e3913e3451]1.2.
+[^c-6868433a030ce38c254981e3913e3451]1.2.
 
 The booklet of instructions provided by the manufacturer shall provide:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6868433a030ce38c254981e3913e3451]2.
+[^c-6868433a030ce38c254981e3913e3451]2.
 
 **Specific ecodesign requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Method for calculating the energy efficiency index and weighted condensation efficiency[^key-6868433a030ce38c254981e3913e3451]
+## ANNEX II — Method for calculating the energy efficiency index and weighted condensation efficiency[^c-6868433a030ce38c254981e3913e3451]
 
-[^key-6868433a030ce38c254981e3913e3451]1.
+[^c-6868433a030ce38c254981e3913e3451]1.
 
 CALCULATION OF THE ENERGY EFFICIENCY INDEX
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6868433a030ce38c254981e3913e3451]2.
+[^c-6868433a030ce38c254981e3913e3451]2.
 
 CALCULATION OF THE WEIGHTED CONDENSATION EFFICIENCY
 
@@ -138,14 +138,14 @@ where:
 - *W<sub>i</sub>* is the mass of the wet test load before drying,
 - *W<sub>f</sub>* is the mass of the test load after drying.
 
-## ANNEX III — Product compliance verification by market surveillance authorities[^key-6868433a030ce38c254981e3913e3451]
+## ANNEX III — Product compliance verification by market surveillance authorities[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Benchmarks[^key-6868433a030ce38c254981e3913e3451]
+## ANNEX IV — Benchmarks[^c-6868433a030ce38c254981e3913e3451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6868433a030ce38c254981e3913e3451]: Textual amendment: Regulation revoked (10.4.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026 (S.I. 2026/318)](https://www.legislation.gov.uk/uksi/2026/318), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/e), [19(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/318/regulation/4))
+[^c-6868433a030ce38c254981e3913e3451]: Textual amendment: Regulation revoked (10.4.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026 (S.I. 2026/318)](https://www.legislation.gov.uk/uksi/2026/318), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/e), [19(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/318/regulation/4))

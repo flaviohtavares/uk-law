@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Realisation of security by creditor[^key-04c4ee054260019ba5e6f0071bc95dfd]
+## 83. Realisation of security by creditor[^c-04c4ee054260019ba5e6f0071bc95dfd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.99 of the 1986 Rules.
 
 ## Annotations
 
-[^key-04c4ee054260019ba5e6f0071bc95dfd]: Commencement: Rule 83 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-04c4ee054260019ba5e6f0071bc95dfd]: Commencement: Rule 83 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

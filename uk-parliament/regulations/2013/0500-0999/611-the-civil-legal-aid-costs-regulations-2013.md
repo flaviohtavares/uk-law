@@ -42,15 +42,15 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations[^f00001] in exercise of the powers conferred by sections 5(2) and 26(3) to (5), (6)(a) to (g), (7) and (9) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00002](“the Act”).
 
-In accordance with section 41(6) of the Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.[^key-7f22ccca2f0540a5d31b38920c09b45a]
+In accordance with section 41(6) of the Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.[^c-7f22ccca2f0540a5d31b38920c09b45a]
 
 ## PART 1 — INTERPRETATION AND GENERAL
 
-### 1. Citation and commencement[^key-6d50232f96f7c509202812e375523c45]
+### 1. Citation and commencement[^c-6d50232f96f7c509202812e375523c45]
 
 These Regulations may be cited as the Civil Legal Aid (Costs) Regulations 2013 and come into force on 1st April 2013.
 
-### 2. Interpretation[^key-d68811f909302a3fdadc030f3efea7cc]
+### 2. Interpretation[^c-d68811f909302a3fdadc030f3efea7cc]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Civil Legal Aid (Costs) Regulations 2013 a
 - “family enactment” has the same meaning as in paragraph 12(9) of Part 1 of Schedule 1 to the Act;
 - “family relationship” and “matter arising out of a family relationship” have the same meaning as in paragraphs 12(7) and (8) of Part 1 of Schedule 1 to the Act[^f00005];
 - “family proceedings” means—
-  - (a) a matter described in paragraph 12 (victims of domestic abuse[^key-5dc3730185f97788a615521bf88c4680] and family matters) or paragraph 13 (protection of children and family matters) of Part 1 of Schedule 1 to the Act; or
+  - (a) a matter described in paragraph 12 (victims of domestic abuse[^c-5dc3730185f97788a615521bf88c4680] and family matters) or paragraph 13 (protection of children and family matters) of Part 1 of Schedule 1 to the Act; or
   - (b) a matter arising out of a family relationship in respect of which the Director has made an exceptional case determination under section 10 of the Act and which is under—
     - (i) a family enactment; or
     - (ii) the Trusts of Land and Appointment of Trustees Act 1996[^f00006];
@@ -88,24 +88,24 @@ These Regulations may be cited as the Civil Legal Aid (Costs) Regulations 2013 a
 
 (2) A reference in these Regulations to a form of civil legal services has the same meaning as set out in Part 2 of the Civil Legal Aid (Merits Criteria) Regulations 2013[^f00008].
 
-### 3. Effect of these Regulations[^key-4c48f053bbc64385811f04cad17bf25a]
+### 3. Effect of these Regulations[^c-4c48f053bbc64385811f04cad17bf25a]
 
 Where one or more parties are receiving, or have received, civil legal services in relation to proceedings, nothing in these Regulations is to be construed as—
 
 - (a) requiring a court to make a costs order where it would not otherwise have made a costs order; or
 - (b) affecting the court’s power to make a wasted costs order against a legal representative.
 
-### 4. Delegation[^key-2d6f9b3999be9830d95bc130499a5546]
+### 4. Delegation[^c-2d6f9b3999be9830d95bc130499a5546]
 
 A function of the Lord Chancellor under these Regulations may be exercised by a person authorised for that purpose by the Lord Chancellor, or by an employee of that person[^f00009].
 
 ## PART 2 — COST PROTECTION
 
-### 5. Costs to which cost protection applies[^key-39ddabc6ba702fb60032630afd28a56e]
+### 5. Costs to which cost protection applies[^c-39ddabc6ba702fb60032630afd28a56e]
 
 Except as provided by this Part, cost protection only applies to costs incurred by the receiving party in relation to proceedings which are, as regards the legally aided party, relevant proceedings.
 
-### 6. Parts of proceedings to which cost protection does not apply[^key-9dbb98eb13048a41d00c31e620cedaa3]
+### 6. Parts of proceedings to which cost protection does not apply[^c-9dbb98eb13048a41d00c31e620cedaa3]
 
 Cost protection does not apply in relation to—
 
@@ -116,14 +116,14 @@ Cost protection does not apply in relation to—
   - (i) family help (higher);
   - (ii) legal representation.
 
-### 7. Cost protection in relation to legal help, help with family mediation or family help (lower)[^key-2e2f5a854e79cdaddbf7971193053b84]
+### 7. Cost protection in relation to legal help, help with family mediation or family help (lower)[^c-2e2f5a854e79cdaddbf7971193053b84]
 
 Cost protection applies where a legally aided party receives legal help, help with family mediation or family help (lower) in relation to proceedings (other than family proceedings) and later receives, in respect of the same proceedings—
 
 - (a) family help (higher); or
 - (b) legal representation.
 
-### 8. Periods during which cost protection applies[^key-d47007fcd6a017042f3858264c86cf36]
+### 8. Periods during which cost protection applies[^c-d47007fcd6a017042f3858264c86cf36]
 
 (1) Subject to paragraphs (2) and (3), cost protection applies in respect of costs incurred by the receiving party during the period in which civil legal services are being provided, whether before or after the commencement of proceedings.
 
@@ -140,13 +140,13 @@ Cost protection applies where a legally aided party receives legal help, help wi
 
 ## PART 3 — COSTS ORDERS AGAINST A LEGALLY AIDED PARTY AND THE LORD CHANCELLOR
 
-### 9. Effect of this Part[^key-330438b35cde7090dde062649c571e59]
+### 9. Effect of this Part[^c-330438b35cde7090dde062649c571e59]
 
 (1) This Part applies where cost protection applies.
 
 (2) The court may not, except in accordance with this Part, make an order requiring the Lord Chancellor to pay the whole or part of any costs incurred by a non-legally aided party because the proceedings are relevant proceedings as regards another party.
 
-### 10. Costs order against the Lord Chancellor[^key-6dc23f8f9bc6eecaaff365706e810fd3]
+### 10. Costs order against the Lord Chancellor[^c-6dc23f8f9bc6eecaaff365706e810fd3]
 
 (1) This regulation applies where relevant proceedings are finally decided in favour of a non-legally aided party.
 
@@ -178,14 +178,14 @@ Cost protection applies where a legally aided party receives legal help, help wi
 
 (8) Where the non-legally aided party is acting in a representative, fiduciary or official capacity and is entitled to be indemnified in respect of costs from any property, estate or fund, the court must, for the purposes of determining whether the conditions in paragraph (3)(c)(iii) and (d) are satisfied, have regard to the value of the property, estate or fund and the resources of any person who has a beneficial interest in that property, estate or fund.
 
-### 11. Enforcement of costs order against a legally aided party[^key-d5c2743571083c6d531bbc0a7cdfd3ad]
+### 11. Enforcement of costs order against a legally aided party[^c-d5c2743571083c6d531bbc0a7cdfd3ad]
 
 Where, for the purpose of enforcing a costs order against a legally aided party who is not a legal person, a charging order is made under section 1 of the Charging Orders Act 1979[^f00010] (alone or together with any other judgment or order) in respect of that party’s interest in the main or only dwelling in which that party resides—
 
 - (a) that charging order must operate to secure the amount payable under the costs order (including, without limitation, any interest) only to the extent of the amount (if any) by which the proceeds of sale of the legally aided party’s interest in the dwelling (having deducted any mortgage debts) exceed £100,000; and
 - (b) an order for the sale of the dwelling must not be made in favour of the person in whose favour the charging order is made.
 
-### 12. Security for costs[^key-07bb8b75bfe9f60f3f6dd48259744a24]
+### 12. Security for costs[^c-07bb8b75bfe9f60f3f6dd48259744a24]
 
 (1) Where in any proceedings a legally aided party is required to give security for costs, the amount of that security must not exceed the amount (if any) which is reasonable having regard to all the circumstances, including—
 
@@ -194,7 +194,7 @@ Where, for the purpose of enforcing a costs order against a legally aided party 
 
 (2) For the purposes of this regulation, the resources of the legally aided party’s partner are not to be treated as the resources of the legally aided party.
 
-### 13. Assessment of resources[^key-dbf6003116ba281c7e271d1a81f7675b]
+### 13. Assessment of resources[^c-dbf6003116ba281c7e271d1a81f7675b]
 
 (1) The first £100,000 of the value of the legally aided party’s interest in the main or only dwelling in which the legally aided party resides must not be taken into account in having regard to that party’s resources for the purposes of section 26(1) of the Act.
 
@@ -214,7 +214,7 @@ Where, for the purpose of enforcing a costs order against a legally aided party 
 
 (7) This regulation does not apply in respect of a legally aided party who is a legal person.
 
-### 14. Statements of resources[^key-0468160419f21e4af08ea60fdc94210a]
+### 14. Statements of resources[^c-0468160419f21e4af08ea60fdc94210a]
 
 (1) For the purposes of this Part, a statement of resources is a statement, verified by a statement of truth—
 
@@ -234,7 +234,7 @@ Where, for the purpose of enforcing a costs order against a legally aided party 
 
 (4) If the copy of a statement of resources served under paragraph (3) has been served not less than seven days before the date fixed for a hearing at which the amount to be paid under a section 26(1) costs order falls, or may fall, to be decided, the legally aided party must also make a statement of resources, and must produce it at that hearing.
 
-### 15. Determination of costs[^key-aa08cfb6ced75e3f2a281b659abdf209]
+### 15. Determination of costs[^c-aa08cfb6ced75e3f2a281b659abdf209]
 
 (1) Where the court is considering whether to make a section 26(1) costs order, it must consider whether—
 
@@ -264,7 +264,7 @@ Where, for the purpose of enforcing a costs order against a legally aided party 
 
 (7) Where the court makes a section 26(1) costs order that does not specify the amount which the legally aided party is to pay under it, it may also make findings of fact (as to the parties’ conduct in connection with the dispute to which the proceedings relate or otherwise) relevant to the determination of that amount, and those findings must be taken into consideration in that determination.
 
-### 16. Determination of costs where no amount specified[^key-ad8b7b127e096bff126c124d92b5a2ec]
+### 16. Determination of costs where no amount specified[^c-ad8b7b127e096bff126c124d92b5a2ec]
 
 (1) Paragraphs (2) to (12) apply where the amount to be paid under a section 26(1) costs order, or an application for a costs order against the Lord Chancellor, is to be determined under this regulation in accordance with regulation 15(5).
 
@@ -315,7 +315,7 @@ Where, for the purpose of enforcing a costs order against a legally aided party 
 
 (12) The amount of costs to be determined under this regulation may include the costs incurred in relation to a request under paragraph (2).
 
-### 17. Payment on account of costs[^key-b39acd67f3c3659c9e1e79ea4188f53e]
+### 17. Payment on account of costs[^c-b39acd67f3c3659c9e1e79ea4188f53e]
 
 (1) Where the court—
 
@@ -339,7 +339,7 @@ the court may order the legally aided party to pay an amount on account of the c
 - (b) if the receiving party fails to request such a hearing within the time permitted by regulation 16(2), the payment on account must be repaid to the legally aided party;
 - (c) if upon the hearing under regulation 16 the amount of costs which it is determined that the legally aided party should pay is less than the amount of the payment on account, the difference must be repaid to the legally aided party.
 
-### 18. Appeals, etc.[^key-87cae43a5ef1c11e2191b5d7121bfade]
+### 18. Appeals, etc.[^c-87cae43a5ef1c11e2191b5d7121bfade]
 
 (1) Subject to this regulation and regulation 19, any determination under regulation 15 or regulation 16 is final.
 
@@ -351,7 +351,7 @@ the court may order the legally aided party to pay an amount on account of the c
 
 (5) The receiving party or the Lord Chancellor may appeal, on a point of law, against the making of a costs order against the Lord Chancellor (including the amount of costs which the Lord Chancellor is required to pay under the order), or, in the case of the receiving party, against the court’s refusal to make such an order.
 
-### 19. Variation and late determination of amount of costs[^key-341f96b77422e0774dce34530db99685]
+### 19. Variation and late determination of amount of costs[^c-341f96b77422e0774dce34530db99685]
 
 (1) This regulation applies where the court makes a section 26(1) costs order.
 
@@ -384,7 +384,7 @@ the court may order the legally aided party to pay an amount on account of the c
 
 (9) The amount of costs to be determined under this regulation may include the costs incurred in relation to an application made under this regulation.
 
-### 20. Rights to appear[^key-765157672f6f6715d5134894963ee0a9]
+### 20. Rights to appear[^c-765157672f6f6715d5134894963ee0a9]
 
 (1) The Lord Chancellor and the receiving party may appear at—
 
@@ -398,7 +398,7 @@ the court may order the legally aided party to pay an amount on account of the c
 
 ## PART 4 — COSTS IN FAVOUR OF A LEGALLY AIDED PARTY
 
-### 21. Amount of costs under a legally aided party’s costs order or costs agreement[^key-1f192e7f2a529a748d424bbc6aac863f]
+### 21. Amount of costs under a legally aided party’s costs order or costs agreement[^c-1f192e7f2a529a748d424bbc6aac863f]
 
 (1) Subject to paragraphs (2) to (4), the amount of costs to be paid under a legally aided party’s costs order or costs agreement must be determined as if that party were not legally aided.
 
@@ -436,11 +436,11 @@ Part 4 of the Regulations sets out the principles to be applied when a costs ord
 
 [^f00002]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-7f22ccca2f0540a5d31b38920c09b45a]: Modification: Regulations applied (with modifications) (1.4.2013) by [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), [reg. 9A](https://www.legislation.gov.uk/uksi/2013/534/regulation/9A) (as inserted by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/621/regulation/3))
+[^c-7f22ccca2f0540a5d31b38920c09b45a]: Modification: Regulations applied (with modifications) (1.4.2013) by [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), [reg. 9A](https://www.legislation.gov.uk/uksi/2013/534/regulation/9A) (as inserted by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/621/regulation/3))
 
-[^key-6d50232f96f7c509202812e375523c45]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-6d50232f96f7c509202812e375523c45]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-d68811f909302a3fdadc030f3efea7cc]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-d68811f909302a3fdadc030f3efea7cc]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
 [^f00003]: Footnote: The Civil Legal Aid (Procedure) Regulations 2012 ([SI 2012/3098](https://www.legislation.gov.uk/uksi/2012/3098)).
 
@@ -448,7 +448,7 @@ Part 4 of the Regulations sets out the principles to be applied when a costs ord
 
 [^f00005]: Footnote: The Civil Legal Aid (Family Relationship) Regulations 2012 ([SI 2012/2684](https://www.legislation.gov.uk/uksi/2012/2684)), made under paragraph 12(8)(b) of Part 1 of Schedule 1 to the Act, make provision about when matters arise out of a family relationship for the purpose of paragraph 12.
 
-[^key-5dc3730185f97788a615521bf88c4680]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/611/regulation/2/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [8](https://www.legislation.gov.uk/uksi/2025/611/article/8)
+[^c-5dc3730185f97788a615521bf88c4680]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/611/regulation/2/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [8](https://www.legislation.gov.uk/uksi/2025/611/article/8)
 
 [^f00006]: Footnote: [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47).
 
@@ -456,44 +456,44 @@ Part 4 of the Regulations sets out the principles to be applied when a costs ord
 
 [^f00008]: Footnote: [SI 2013/104](https://www.legislation.gov.uk/uksi/2013/104).
 
-[^key-4c48f053bbc64385811f04cad17bf25a]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-4c48f053bbc64385811f04cad17bf25a]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-2d6f9b3999be9830d95bc130499a5546]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-2d6f9b3999be9830d95bc130499a5546]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
 [^f00009]: Footnote: Section 6 of the Act (authorisations) makes provision for authorisations given for the purpose of section 5 of the Act (delegation) or regulations under that section.
 
-[^key-39ddabc6ba702fb60032630afd28a56e]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-39ddabc6ba702fb60032630afd28a56e]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-9dbb98eb13048a41d00c31e620cedaa3]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-9dbb98eb13048a41d00c31e620cedaa3]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-2e2f5a854e79cdaddbf7971193053b84]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-2e2f5a854e79cdaddbf7971193053b84]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-d47007fcd6a017042f3858264c86cf36]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-d47007fcd6a017042f3858264c86cf36]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-330438b35cde7090dde062649c571e59]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-330438b35cde7090dde062649c571e59]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-6dc23f8f9bc6eecaaff365706e810fd3]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-6dc23f8f9bc6eecaaff365706e810fd3]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-d5c2743571083c6d531bbc0a7cdfd3ad]: Commencement: Reg. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-d5c2743571083c6d531bbc0a7cdfd3ad]: Commencement: Reg. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
 [^f00010]: Footnote: [1979 c. 53](https://www.legislation.gov.uk/ukpga/1979/53).
 
-[^key-07bb8b75bfe9f60f3f6dd48259744a24]: Commencement: Reg. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-07bb8b75bfe9f60f3f6dd48259744a24]: Commencement: Reg. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-dbf6003116ba281c7e271d1a81f7675b]: Commencement: Reg. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-dbf6003116ba281c7e271d1a81f7675b]: Commencement: Reg. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-0468160419f21e4af08ea60fdc94210a]: Commencement: Reg. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-0468160419f21e4af08ea60fdc94210a]: Commencement: Reg. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-aa08cfb6ced75e3f2a281b659abdf209]: Commencement: Reg. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-aa08cfb6ced75e3f2a281b659abdf209]: Commencement: Reg. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-ad8b7b127e096bff126c124d92b5a2ec]: Commencement: Reg. 16 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-ad8b7b127e096bff126c124d92b5a2ec]: Commencement: Reg. 16 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-b39acd67f3c3659c9e1e79ea4188f53e]: Commencement: Reg. 17 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-b39acd67f3c3659c9e1e79ea4188f53e]: Commencement: Reg. 17 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-87cae43a5ef1c11e2191b5d7121bfade]: Commencement: Reg. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-87cae43a5ef1c11e2191b5d7121bfade]: Commencement: Reg. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-341f96b77422e0774dce34530db99685]: Commencement: Reg. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-341f96b77422e0774dce34530db99685]: Commencement: Reg. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-765157672f6f6715d5134894963ee0a9]: Commencement: Reg. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-765157672f6f6715d5134894963ee0a9]: Commencement: Reg. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
 
-[^key-1f192e7f2a529a748d424bbc6aac863f]: Commencement: Reg. 21 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)
+[^c-1f192e7f2a529a748d424bbc6aac863f]: Commencement: Reg. 21 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/611/regulation/1)

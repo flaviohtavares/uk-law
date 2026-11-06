@@ -52,7 +52,7 @@ The Secretary of State considers that the restrictions and requirements imposed 
 
 In accordance with section 45R of that Act the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation and commencement[^key-11b9f3710e5ba88db40601d9038e3839]
+## 1. Citation and commencement[^c-11b9f3710e5ba88db40601d9038e3839]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (No. 2) (England) (Amendment) (No. 5) Regulations 2020.
 
@@ -62,9 +62,9 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 
 ## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020
 
-(1)[^key-3986f43c84928695fed7463161faeb6d] The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 are amended as follows—
+(1)[^c-3986f43c84928695fed7463161faeb6d] The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 are amended as follows—
 
-(2)[^key-3986f43c84928695fed7463161faeb6d] In regulation 1—
+(2)[^c-3986f43c84928695fed7463161faeb6d] In regulation 1—
 
 - (a) for paragraph (4), substitute—
 
@@ -73,7 +73,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
   ;
 - (b) in paragraph (4ZA), in each of sub-paragraphs (a), (b), (c) and (d), for “Public Health” substitute “ Health Protection ”.
 
-(3)[^key-3986f43c84928695fed7463161faeb6d] After regulation 4 insert—
+(3)[^c-3986f43c84928695fed7463161faeb6d] After regulation 4 insert—
 
 > **4A. Restrictions on opening hours of businesses and services**
 >
@@ -115,8 +115,8 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 (4) In regulation 5—
 
 - (a) in paragraph (3)—
-  - (i)[^key-92046a84cfd0072fa69588264c46470d] in sub-paragraph (e), after “group”, insert “ which consists of no more than 15 persons and takes place at premises other than a private dwelling ”;
-  - (ii)[^key-7af39403c38bdad438e540a6256edc35] in sub-paragraph (f)—
+  - (i)[^c-92046a84cfd0072fa69588264c46470d] in sub-paragraph (e), after “group”, insert “ which consists of no more than 15 persons and takes place at premises other than a private dwelling ”;
+  - (ii)[^c-7af39403c38bdad438e540a6256edc35] in sub-paragraph (f)—
     - (aa) in the words before paragraph (i), for “30” substitute “ 15 ”;
     - (bb) in paragraph (i), at the end, insert “ in accordance with the Marriage Act 1949 [^c24287911], the Marriage (Registrar General's Licence) Act 1970 [^c24287921] or the Civil Partnership Act 2004 [^c24287931], and ”;
     - (cc) omit paragraph (ii), and the “and” at the end;
@@ -155,15 +155,15 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 - (h) in paragraph (6)(c), in the words before paragraph (i), for “and and” substitute “ and ”;
 - (i) in paragraph (9), in each of sub-paragraphs (a), (b), (c) and (d), for “Public Health”, substitute “ Health Protection ”.
 
-(5)[^key-3986f43c84928695fed7463161faeb6d] In regulation 7—
+(5)[^c-3986f43c84928695fed7463161faeb6d] In regulation 7—
 
 - (a) in paragraph (1), after “regulation 4”, insert “ , 4A, 4B ”;
 - (b) in paragraph (2)(a), after “regulation 4”, insert “ , 4A or 4B ”;
 - (c) in paragraph (11), after “regulation 4”, insert “ , 4A or 4B ”.
 
-(6)[^key-3986f43c84928695fed7463161faeb6d] In regulation 8(1), after “regulation 4”, insert “ , 4A, 4B ”.
+(6)[^c-3986f43c84928695fed7463161faeb6d] In regulation 8(1), after “regulation 4”, insert “ , 4A, 4B ”.
 
-(7)[^key-3986f43c84928695fed7463161faeb6d] In regulation 9—
+(7)[^c-3986f43c84928695fed7463161faeb6d] In regulation 9—
 
 - (a) in paragraph (6)—
   - (i) after the opening words, insert—
@@ -187,7 +187,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 - (e) in paragraph (9), in the opening words, after “determining”, insert “ , for the purposes of paragraph (8), ”;
 - (f) in paragraph (14), after “regulation 4”, insert “ , 4A or 4B ”.
 
-(8)[^key-3986f43c84928695fed7463161faeb6d] After Schedule 2, insert—
+(8)[^c-3986f43c84928695fed7463161faeb6d] After Schedule 2, insert—
 
 > **SCHEDULE 3 — Businesses and services subject to restrictions**
 >
@@ -240,7 +240,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 
 .
 
-## 3. Amendment of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020[^key-fbfdd38f29136c1c0d5456bf8326c46e]
+## 3. Amendment of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020[^c-fbfdd38f29136c1c0d5456bf8326c46e]
 
 (1) The Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020 [^c24287951] are amended as follows.
 
@@ -288,7 +288,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 
 (8) Omit the Schedule.
 
-## 4. Amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020[^key-0f094b6d0f1e9840b880b3705da10619]
+## 4. Amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020[^c-0f094b6d0f1e9840b880b3705da10619]
 
 (1) The Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020 [^c24287961] are amended as follows.
 
@@ -339,7 +339,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 
 (9) Omit the Schedule.
 
-## 5. Amendment of the Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020[^key-5154c7b87cfbc7bee35225e71e67387b]
+## 5. Amendment of the Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020[^c-5154c7b87cfbc7bee35225e71e67387b]
 
 (1) The Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020 are amended as follows.
 
@@ -376,7 +376,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
   - (v) in paragraph (v), for £3,200” substitute “£6,400”;
 - (d) in paragraph (10), for “regulation 5A or 5B”, substitute “ regulation 4A, 4B, 5A or 5B ”.
 
-## 6. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) (Amendment) (No. 4) Regulations 2020[^key-58341e4cbc5ddd261cfa831e0911bdd8]
+## 6. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) (Amendment) (No. 4) Regulations 2020[^c-58341e4cbc5ddd261cfa831e0911bdd8]
 
 (1) The Health Protection (Coronavirus, Restrictions) (No. 2) (England) (Amendment) (No. 4) Regulations 2020 [^c24287971] are amended as follows.
 
@@ -387,7 +387,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 - (a) in the definition of “the local Regulations”, in each of paragraphs (a), (b), (c) and (d), for “Public Health” substitute “ Health Protection ”;
 - (b) in the definition of “a large gatherings offence”, in each of paragraphs (a), (b), (c) and (d), for “Public Health” substitute “ Health Protection ”.
 
-## 7. Amendment of the Health Protection (Coronavirus, Restrictions) (Birmingham, Sandwell and Solihull) Regulations 2020[^key-a81b2bdb9bb3b7fdb5aa6265c40fdaf5]
+## 7. Amendment of the Health Protection (Coronavirus, Restrictions) (Birmingham, Sandwell and Solihull) Regulations 2020[^c-a81b2bdb9bb3b7fdb5aa6265c40fdaf5]
 
 (1) The Health Protection (Coronavirus, Restrictions) (Birmingham, Sandwell and Solihull) Regulations 2020 [^c24287981] are amended as follows.
 
@@ -403,7 +403,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
   - (v) in paragraph (v), for £3,200” substitute “£6,400”;
 - (d) in paragraph (10), for “regulation 5A or 5B”, substitute “ regulation 4A, 4B, 5A or 5B ”.
 
-## 8. Amendment of the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020[^key-0c31b0ad359548d91564b631a98a7e30]
+## 8. Amendment of the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020[^c-0c31b0ad359548d91564b631a98a7e30]
 
 (1) The Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020 [^c24287991] are amended as follows.
 
@@ -453,7 +453,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
 
 (9) Omit the Schedule.
 
-## 9. Transitional and savings provisions[^key-1e23096a38e58f43c5e65822b44775b6]
+## 9. Transitional and savings provisions[^c-1e23096a38e58f43c5e65822b44775b6]
 
 (1) Despite the amendments made by these Regulations, the local Regulations continue in force as they had effect immediately before these Regulations came into force in relation to a business closure offence committed under the relevant local Regulations before these Regulations came into force.
 
@@ -468,7 +468,7 @@ In accordance with section 45R of that Act the Secretary of State is of the opin
   - (a) regulation 4 of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020;
   - (b) regulation 3 of the Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020;
   - (c) regulation 7A of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020;
-  - (d) regulation 3,[^key-c9615c3399350ab9156b9cc96f00fdfa] 4 or 5 of the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020.
+  - (d) regulation 3,[^c-c9615c3399350ab9156b9cc96f00fdfa] 4 or 5 of the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020.
 
 Bethell
 
@@ -494,17 +494,17 @@ No impact assessment has been carried out for these Regulations.
 
 [^c24287881]: Marginal citation: [S.I. 2020/684](https://www.legislation.gov.uk/uksi/2020/684), as amended by [S.I. 2020/719](https://www.legislation.gov.uk/uksi/2020/719), 750, 788, 800, 822, 824, 828, 863, 865, 907, 974, 986, 988 and 1010.
 
-[^key-11b9f3710e5ba88db40601d9038e3839]: Commencement: Reg. 1 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-11b9f3710e5ba88db40601d9038e3839]: Commencement: Reg. 1 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
-[^key-3986f43c84928695fed7463161faeb6d]: Commencement: Reg. 2(1)-(3)(5)-(8) in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-3986f43c84928695fed7463161faeb6d]: Commencement: Reg. 2(1)-(3)(5)-(8) in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
 [^c24287891]: Marginal citation: [S.I. 2020/974](https://www.legislation.gov.uk/uksi/2020/974), as amended by [S.I. 2020/986](https://www.legislation.gov.uk/uksi/2020/986), 1010 and 1019.
 
 [^c24287901]: Marginal citation: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17). Section 191 was amended by the Policing and Crime Act 2017, section 135, and by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
 
-[^key-92046a84cfd0072fa69588264c46470d]: Commencement: Reg. 2(4)(a)(i)(v)(c)-(i) in force at 24.9.2020 at 05.00 a.m., see reg. 1(2)
+[^c-92046a84cfd0072fa69588264c46470d]: Commencement: Reg. 2(4)(a)(i)(v)(c)-(i) in force at 24.9.2020 at 05.00 a.m., see reg. 1(2)
 
-[^key-7af39403c38bdad438e540a6256edc35]: Commencement: Reg. 2(4)(a)(ii)-(iv)(b) in force at 28.9.2020, see reg. 1(3)
+[^c-7af39403c38bdad438e540a6256edc35]: Commencement: Reg. 2(4)(a)(ii)-(iv)(b) in force at 28.9.2020, see reg. 1(3)
 
 [^c24287911]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
@@ -514,28 +514,28 @@ No impact assessment has been carried out for these Regulations.
 
 [^c24287941]: Marginal citation: [S.I. 2010/2128](https://www.legislation.gov.uk/uksi/2010/2128).
 
-[^key-fbfdd38f29136c1c0d5456bf8326c46e]: Commencement: Reg. 3 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-fbfdd38f29136c1c0d5456bf8326c46e]: Commencement: Reg. 3 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
 [^c24287951]: Marginal citation: [S.I. 2020/824](https://www.legislation.gov.uk/uksi/2020/824), as amended by [S.I. 2020/828](https://www.legislation.gov.uk/uksi/2020/828), 865, 875, 907, 954, 974, 986, 1010 and 1019.
 
-[^key-0f094b6d0f1e9840b880b3705da10619]: Commencement: Reg. 4 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-0f094b6d0f1e9840b880b3705da10619]: Commencement: Reg. 4 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
 [^c24287961]: Marginal citation: [S.I. 2020/828](https://www.legislation.gov.uk/uksi/2020/828), as amended by [S.I. 2020/846](https://www.legislation.gov.uk/uksi/2020/846), 865>, 931, 954, 974, 986, 1010 and 1019. The title of the Regulations was changed by [S.I. 2020/865](https://www.legislation.gov.uk/uksi/2020/865).
 
-[^key-5154c7b87cfbc7bee35225e71e67387b]: Commencement: Reg. 5 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-5154c7b87cfbc7bee35225e71e67387b]: Commencement: Reg. 5 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
-[^key-58341e4cbc5ddd261cfa831e0911bdd8]: Commencement: Reg. 6 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-58341e4cbc5ddd261cfa831e0911bdd8]: Commencement: Reg. 6 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
 [^c24287971]: Marginal citation: [S.I. 2020/986](https://www.legislation.gov.uk/uksi/2020/986).
 
-[^key-a81b2bdb9bb3b7fdb5aa6265c40fdaf5]: Commencement: Reg. 7 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-a81b2bdb9bb3b7fdb5aa6265c40fdaf5]: Commencement: Reg. 7 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
 [^c24287981]: Marginal citation: [S.I. 2020/988](https://www.legislation.gov.uk/uksi/2020/988), as amended by [S.I. 2020/1010](https://www.legislation.gov.uk/uksi/2020/1010) and 1019.
 
-[^key-0c31b0ad359548d91564b631a98a7e30]: Commencement: Reg. 8 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-0c31b0ad359548d91564b631a98a7e30]: Commencement: Reg. 8 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
 [^c24287991]: Marginal citation: [S.I. 2020/1010](https://www.legislation.gov.uk/uksi/2020/1010), as amended by S.I 2020/1012 and 1019. The title of this SI was changed by [S.I. 2020/1019](https://www.legislation.gov.uk/uksi/2020/1019).
 
-[^key-1e23096a38e58f43c5e65822b44775b6]: Commencement: Reg. 9 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
+[^c-1e23096a38e58f43c5e65822b44775b6]: Commencement: Reg. 9 in force at 24.9.2020 at 5.00 a.m., see reg. 1(2)
 
-[^key-c9615c3399350ab9156b9cc96f00fdfa]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1029/regulation/9/2) inserted (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103)](https://www.legislation.gov.uk/uksi/2020/1103), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1103/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2020/1103/schedule/3/paragraph/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1103/regulation/9))
+[^c-c9615c3399350ab9156b9cc96f00fdfa]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1029/regulation/9/2) inserted (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103)](https://www.legislation.gov.uk/uksi/2020/1103), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1103/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2020/1103/schedule/3/paragraph/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1103/regulation/9))

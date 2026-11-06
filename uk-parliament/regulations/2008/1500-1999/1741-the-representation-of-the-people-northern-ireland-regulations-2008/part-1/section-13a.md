@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13A. Notification of determination of application for electoral identity card[^key-4f8c97e4e22484f08e9b7a62ba98bb4c]
+## 13A. Notification of determination of application for electoral identity card[^c-4f8c97e4e22484f08e9b7a62ba98bb4c]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f8c97e4e22484f08e9b7a62ba98bb4c]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/13B) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1116/regulation/3)
+[^c-4f8c97e4e22484f08e9b7a62ba98bb4c]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/13B) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1116/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Amendment to section 9(4) of the Act[^key-70d2ed3a5c81071b1336561895233bb9]
+## 149. Amendment to section 9(4) of the Act[^c-70d2ed3a5c81071b1336561895233bb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Section 9(4) of the Act (recall petition to be made available for signing) is su
 
 ## Annotations
 
-[^key-70d2ed3a5c81071b1336561895233bb9]: Commencement: Reg. 149 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-70d2ed3a5c81071b1336561895233bb9]: Commencement: Reg. 149 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

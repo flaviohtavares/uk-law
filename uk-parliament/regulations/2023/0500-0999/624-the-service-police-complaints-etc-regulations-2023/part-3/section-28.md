@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Duty to preserve evidence relating to DSI matters[^key-0649f853131c3d81da70a5b119b6fc40]
+## 28. Duty to preserve evidence relating to DSI matters[^c-0649f853131c3d81da70a5b119b6fc40]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Provost Marshal must take all such steps as appear to be appropriate for the
 
 ## Annotations
 
-[^key-0649f853131c3d81da70a5b119b6fc40]: Commencement: Reg. 28 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-0649f853131c3d81da70a5b119b6fc40]: Commencement: Reg. 28 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

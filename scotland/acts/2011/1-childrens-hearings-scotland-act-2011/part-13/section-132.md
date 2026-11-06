@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Right to require review: child, relevant person and person afforded opportunity to participate[^key-2a9599e15ed9d9b557e265942a4ce09b][^key-089604e484ecf8a7138a9e41d4ce9bb0]
+## 132. Right to require review: child, relevant person and person afforded opportunity to participate[^c-2a9599e15ed9d9b557e265942a4ce09b][^c-089604e484ecf8a7138a9e41d4ce9bb0]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A relevant person in relation to the child may by giving notice to the Principal Reporter require a review of the order.
 
-(3A)[^key-6ffd140c55b4df87ebf5f2a8f70036bf] An individual who is entitled to do so by subsection (6) may by giving notice to the Principal Reporter require a review of the order.
+(3A)[^c-6ffd140c55b4df87ebf5f2a8f70036bf] An individual who is entitled to do so by subsection (6) may by giving notice to the Principal Reporter require a review of the order.
 
 (4) The order may not be reviewed—
 
@@ -35,7 +35,7 @@ summary: ''
 
 (5) The Scottish Ministers may by regulations provide that, despite subsection (4), where the order includes a secure accommodation authorisation, the order may be reviewed during a period specified in the regulations.
 
-(6)[^key-25718f1e852058c0bb4bbb2198b9f6e0] An individual is entitled to require a review under subsection (3A) if—
+(6)[^c-25718f1e852058c0bb4bbb2198b9f6e0] An individual is entitled to require a review under subsection (3A) if—
 
 - (a) the Principal Reporter was satisfied at the relevant time, or
 - (b) a pre-hearing panel or children's hearing determined,
@@ -54,10 +54,10 @@ that the individual met the criteria to be afforded an opportunity to participat
 
 ## Annotations
 
-[^key-2a9599e15ed9d9b557e265942a4ce09b]: Commencement: S. 132 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2a9599e15ed9d9b557e265942a4ce09b]: Commencement: S. 132 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-089604e484ecf8a7138a9e41d4ce9bb0]: Textual amendment: S. 132 heading substituted (26.7.2021) by virtue of [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(4)(c)](https://www.legislation.gov.uk/asp/2020/16/section/25/4/c), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
+[^c-089604e484ecf8a7138a9e41d4ce9bb0]: Textual amendment: S. 132 heading substituted (26.7.2021) by virtue of [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(4)(c)](https://www.legislation.gov.uk/asp/2020/16/section/25/4/c), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
 
-[^key-6ffd140c55b4df87ebf5f2a8f70036bf]: Textual amendment: S. 132(3A) inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(4)(a)](https://www.legislation.gov.uk/asp/2020/16/section/25/4/a), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
+[^c-6ffd140c55b4df87ebf5f2a8f70036bf]: Textual amendment: S. 132(3A) inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(4)(a)](https://www.legislation.gov.uk/asp/2020/16/section/25/4/a), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
 
-[^key-25718f1e852058c0bb4bbb2198b9f6e0]: Textual amendment: S. 132(6)-(8) inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(4)(b)](https://www.legislation.gov.uk/asp/2020/16/section/25/4/b), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
+[^c-25718f1e852058c0bb4bbb2198b9f6e0]: Textual amendment: S. 132(6)-(8) inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(4)(b)](https://www.legislation.gov.uk/asp/2020/16/section/25/4/b), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)

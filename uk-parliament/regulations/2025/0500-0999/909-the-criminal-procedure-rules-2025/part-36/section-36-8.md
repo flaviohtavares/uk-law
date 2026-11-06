@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.8. Duty of Crown Court officer[^key-99b588bd8d4cd6c8b2c1864e92ecb2c1]
+## 36.8. Duty of Crown Court officer[^c-99b588bd8d4cd6c8b2c1864e92ecb2c1]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ unless the court, the Registrar or the Crown Court otherwise directs.
 
 ## Annotations
 
-[^key-99b588bd8d4cd6c8b2c1864e92ecb2c1]: Commencement: [Rule 36.8](https://www.legislation.gov.uk/uksi/2025/909/rule/36.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-99b588bd8d4cd6c8b2c1864e92ecb2c1]: Commencement: [Rule 36.8](https://www.legislation.gov.uk/uksi/2025/909/rule/36.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00919]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 87(4) was amended by articles 2 and 3 of, and paragraphs 11 and 17 of the Schedule to, [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035).

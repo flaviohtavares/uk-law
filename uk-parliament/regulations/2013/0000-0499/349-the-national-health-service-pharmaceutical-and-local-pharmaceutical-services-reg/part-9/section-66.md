@@ -22,13 +22,13 @@ summary: ''
 
 (1) Where, immediately before these Regulations came into force, the inclusion in the pharmaceutical list of an NHS chemist (C1) was subject to a condition imposed in relation to listed chemist premises by virtue of regulation 13(3)(b) of the 2005 Regulations (exemption from the necessary or expedient test), including such a condition as varied in accordance with regulation 14 of the 2005 Regulations [^c21646931] (variation of directed services in respect of exempted premises) or regulation 66(2) and (3) of the 2012 Regulations (conditions relating to providing directed services), it is a condition of the inclusion in the pharmaceutical list of the person listed in relation to those premises—
 
-- (a) if, before these Regulations came into force, C1 had not been requested by a Primary Care Trust to provide the directed services specified as regards C1 for the purposes of that condition, that they must provide those directed services at or from[^key-3af2e6a85a232696f9193b8645b88293] those premises, where requested to do so by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] unless thereafter NHS England ceases to commission those services; or
-- (b) if, before these Regulations came into force, C1 was providing, or had been requested by a Primary Care Trust to provide, the directed services specified as regards C1 for purposes of that condition, that they must provide those directed services at or from[^key-e358e4778f038a95c19731c7836a9146] those premises unless NHS England does not continue to commission those services.
+- (a) if, before these Regulations came into force, C1 had not been requested by a Primary Care Trust to provide the directed services specified as regards C1 for the purposes of that condition, that they must provide those directed services at or from[^c-3af2e6a85a232696f9193b8645b88293] those premises, where requested to do so by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] unless thereafter NHS England ceases to commission those services; or
+- (b) if, before these Regulations came into force, C1 was providing, or had been requested by a Primary Care Trust to provide, the directed services specified as regards C1 for purposes of that condition, that they must provide those directed services at or from[^c-e358e4778f038a95c19731c7836a9146] those premises unless NHS England does not continue to commission those services.
 
 (2) The person listed in relation to the premises may apply to NHS England to vary the directed services specified for the purposes of the condition imposed by virtue of paragraph (1), or to remove the condition, but only if at least 3 years have elapsed—
 
 - (a) since the condition was imposed by virtue of the 2005 Regulations; and
-- (b) during that period neither a Primary Care Trust nor NHS England has requested that the services be provided at or from[^key-a2a520092a7cf096cbff50026a572ec8] the premises in respect of which the condition was imposed,
+- (b) during that period neither a Primary Care Trust nor NHS England has requested that the services be provided at or from[^c-a2a520092a7cf096cbff50026a572ec8] the premises in respect of which the condition was imposed,
 
 but otherwise NHS England may not vary or remove the condition imposed by virtue of paragraph (1).
 
@@ -47,7 +47,7 @@ but otherwise NHS England may not vary or remove the condition imposed by virtue
 
 the inclusion in the pharmaceutical list of the person (C2) listed in relation to the premises that were listed as a consequence of that application is subject to the condition set out in paragraph (5).
 
-(5) The condition is that, at or from[^key-bf7f09040c229a6e43ab1413f980f14c] those premises, C2 must—
+(5) The condition is that, at or from[^c-bf7f09040c229a6e43ab1413f980f14c] those premises, C2 must—
 
 - (a) provide the directed services mentioned in the application (whether or not C2 was the applicant); and
 - (b) not withhold agreement to a service specification for those services unreasonably,
@@ -67,12 +67,12 @@ whichever is the sooner.
 
 [^c21646931]: Marginal citation: Prior to its revocation, regulation 14 was amended by [S.I. 2006/3373](https://www.legislation.gov.uk/uksi/2006/3373).
 
-[^key-3af2e6a85a232696f9193b8645b88293]: Textual amendment: Words in reg. 66(1)(a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/2/a)
+[^c-3af2e6a85a232696f9193b8645b88293]: Textual amendment: Words in reg. 66(1)(a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/2/a)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-e358e4778f038a95c19731c7836a9146]: Textual amendment: Words in reg. 66(1)(b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/2/b)
+[^c-e358e4778f038a95c19731c7836a9146]: Textual amendment: Words in reg. 66(1)(b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/2/b)
 
-[^key-a2a520092a7cf096cbff50026a572ec8]: Textual amendment: Words in reg. 66(2)(b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/3)
+[^c-a2a520092a7cf096cbff50026a572ec8]: Textual amendment: Words in reg. 66(2)(b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/3)
 
-[^key-bf7f09040c229a6e43ab1413f980f14c]: Textual amendment: Words in reg. 66(5) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(4)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/4)
+[^c-bf7f09040c229a6e43ab1413f980f14c]: Textual amendment: Words in reg. 66(5) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [43(4)](https://www.legislation.gov.uk/uksi/2025/989/regulation/43/4)

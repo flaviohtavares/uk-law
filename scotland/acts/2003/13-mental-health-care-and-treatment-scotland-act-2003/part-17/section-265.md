@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 265. Order under section 264: further provision[^c535652][^key-a3cc83188f04a95428b02ff49f716254]
+## 265. Order under section 264: further provision[^c535652][^c-a3cc83188f04a95428b02ff49f716254]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ and whether or not a certificate under section 127(1) (either as enacted or as a
 
 [^c535652]: Commencement: Part 17 Chapter 3 (ss. 264 - 273) in force 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
 
-[^key-a3cc83188f04a95428b02ff49f716254]: Commencement: S. 265 in force at 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
+[^c-a3cc83188f04a95428b02ff49f716254]: Commencement: S. 265 in force at 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)

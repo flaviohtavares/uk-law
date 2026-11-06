@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Welsh elections information platform[^key-cc688890ebbac4985d5a4ca67f471815][^key-266ea07515e1e7c886814c4bfd9e7fff]
+## 26. Welsh elections information platform[^c-cc688890ebbac4985d5a4ca67f471815][^c-266ea07515e1e7c886814c4bfd9e7fff]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc688890ebbac4985d5a4ca67f471815]: Commencement: S. 26 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-cc688890ebbac4985d5a4ca67f471815]: Commencement: S. 26 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-266ea07515e1e7c886814c4bfd9e7fff]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2024/5/section/26) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/c)
+[^c-266ea07515e1e7c886814c4bfd9e7fff]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2024/5/section/26) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/c)

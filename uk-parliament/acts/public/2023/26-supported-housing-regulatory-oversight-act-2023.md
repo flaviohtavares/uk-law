@@ -37,7 +37,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Advice, strategy and standards
 
-### 1. Supported Housing Advisory Panel[^key-57ff4a5a563e313fd9ee2f888ae7ef92]
+### 1. Supported Housing Advisory Panel[^c-57ff4a5a563e313fd9ee2f888ae7ef92]
 
 (1) The Secretary of State must appoint a panel of persons, to be known as “**the Supported Housing Advisory Panel**”, to provide information and advice about or in connection with supported exempt accommodation to—
 
@@ -76,7 +76,7 @@ but the Secretary of State is not required to appoint different persons under ea
 
 (8) In this section “**information and advice about or in connection with supported exempt accommodation**” includes information and advice about anything which, in the view of the panel, could have a significant impact on the provision or regulation of supported exempt accommodation.
 
-### 2. Local supported housing strategies[^key-943bcf04950d13a34879766698f01bce]
+### 2. Local supported housing strategies[^c-943bcf04950d13a34879766698f01bce]
 
 (1) A local housing authority in England must—
 
@@ -115,7 +115,7 @@ in relation to the exercise of their functions under this section.
 
 (9) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 3. National Supported Housing Standards[^key-47f9a90559020ca6171d8947fedb554f]
+### 3. National Supported Housing Standards[^c-47f9a90559020ca6171d8947fedb554f]
 
 (1) The Secretary of State may prepare and publish national standards for England, to be known as “**National Supported Housing Standards**”, in relation to any aspect of the provision of supported exempt accommodation.
 
@@ -133,7 +133,7 @@ in relation to the exercise of their functions under this section.
 
 ## Licensing
 
-### 4. Licensing regulations[^key-62ffd9666ce51a0ce6cc3a1f1d47200e]
+### 4. Licensing regulations[^c-62ffd9666ce51a0ce6cc3a1f1d47200e]
 
 (1) The Secretary of State may by regulations make provision under which a person having control of, or managing, supported exempt accommodation—
 
@@ -168,7 +168,7 @@ must obtain and comply with a licence granted by the local housing authority for
 - “**the licensing authority**” means the local housing authority for a district designated for the purposes of licensing regulations;
 - “**licensing regulations**” means regulations under subsection (1) or (3).
 
-### 5. Further provision about licensing regulations[^key-503c54d6c99d63a6fc4eb67f9b1a9b89]
+### 5. Further provision about licensing regulations[^c-503c54d6c99d63a6fc4eb67f9b1a9b89]
 
 (1) Licensing regulations may include—
 
@@ -216,7 +216,7 @@ must obtain and comply with a licence granted by the local housing authority for
 - (b) make different provision for different purposes or different areas;
 - (c) make supplementary, incidental, consequential, transitional or saving provision.
 
-### 6. Consultation[^key-342916fff325a7b994773fd3555f13ff]
+### 6. Consultation[^c-342916fff325a7b994773fd3555f13ff]
 
 (1) The Secretary of State must consult the statutory consultees—
 
@@ -240,7 +240,7 @@ must obtain and comply with a licence granted by the local housing authority for
 - (c) the National Housing Federation, and
 - (d) the Regulator of Social Housing.
 
-### 7. Local housing authority functions[^key-bd20422a868428b0340bc6d43fc66c44]
+### 7. Local housing authority functions[^c-bd20422a868428b0340bc6d43fc66c44]
 
 A local housing authority must, in the exercise of its functions under licensing regulations, have regard to—
 
@@ -249,7 +249,7 @@ A local housing authority must, in the exercise of its functions under licensing
 
 ## Planning and homelessness
 
-### 8. Planning[^key-3032bba1ae657d6411c44e85e0f1ad43]
+### 8. Planning[^c-3032bba1ae657d6411c44e85e0f1ad43]
 
 The Secretary of State must, before the end of the period of three years beginning with the date on which the first licensing regulations under section 4(1) are made—
 
@@ -258,7 +258,7 @@ The Secretary of State must, before the end of the period of three years beginni
   - (ii) the provision of care, support and supervision at such accommodation, and
 - (b) in the light of that review, consider whether to exercise the power in section 55(2)(f) of the Town and Country Planning Act 1990 (power to specify use-class) to specify such accommodation as a class.
 
-### 9. Homelessness[^key-90da38b343f9df965d7c7e7c9bbcfb90]
+### 9. Homelessness[^c-90da38b343f9df965d7c7e7c9bbcfb90]
 
 In section 191 of the Housing Act 1996 (becoming homeless intentionally), after subsection (1) insert—
 
@@ -272,7 +272,7 @@ In section 191 of the Housing Act 1996 (becoming homeless intentionally), after 
 
 ## Information
 
-### 10. Sharing of information relating to supported exempt accommodation[^key-29e6d49a12a9ffeed26105dfae601c60]
+### 10. Sharing of information relating to supported exempt accommodation[^c-29e6d49a12a9ffeed26105dfae601c60]
 
 (1) The Secretary of State may by regulations make provision about the sharing of information relating to supported exempt accommodation.
 
@@ -293,7 +293,7 @@ In section 191 of the Housing Act 1996 (becoming homeless intentionally), after 
 
 (7) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 11. Use of information obtained for certain statutory purposes[^key-0bbcdb2efcc72206b3ad345152749969]
+### 11. Use of information obtained for certain statutory purposes[^c-0bbcdb2efcc72206b3ad345152749969]
 
 (1) A local housing authority in England may use any information to which this section applies—
 
@@ -309,7 +309,7 @@ In section 191 of the Housing Act 1996 (becoming homeless intentionally), after 
 
 ## Interpretation and final provisions
 
-### 12. Meaning of “supported exempt accommodation”[^key-0827107c730e0758b39377e639e4a0f6]
+### 12. Meaning of “supported exempt accommodation”[^c-0827107c730e0758b39377e639e4a0f6]
 
 (1) In this Act “**supported exempt accommodation**” means—
 
@@ -358,7 +358,7 @@ In section 191 of the Housing Act 1996 (becoming homeless intentionally), after 
   - (d) a voluntary organisation;
 - “**resettlement place**” has the meaning given by section 30 of the Jobseekers Act 1995.
 
-### 13. Other interpretation etc[^key-0622652cb99aeb5ea79fbf9327b3d839]
+### 13. Other interpretation etc[^c-0622652cb99aeb5ea79fbf9327b3d839]
 
 (1) In this Act—
 
@@ -375,7 +375,7 @@ In section 191 of the Housing Act 1996 (becoming homeless intentionally), after 
 
 (2) Regulations under this Act are to be made by statutory instrument.
 
-### 14. Commencement, extent and short title[^key-ba4642021fecc44a60c3db9d40fafaaf]
+### 14. Commencement, extent and short title[^c-ba4642021fecc44a60c3db9d40fafaaf]
 
 (1) This Act extends to England and Wales.
 
@@ -389,30 +389,30 @@ In section 191 of the Housing Act 1996 (becoming homeless intentionally), after 
 
 ## Annotations
 
-[^key-57ff4a5a563e313fd9ee2f888ae7ef92]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/26/section/1) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-57ff4a5a563e313fd9ee2f888ae7ef92]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/26/section/1) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-943bcf04950d13a34879766698f01bce]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/26/section/2) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-943bcf04950d13a34879766698f01bce]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/26/section/2) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-47f9a90559020ca6171d8947fedb554f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/26/section/3) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-47f9a90559020ca6171d8947fedb554f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/26/section/3) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-62ffd9666ce51a0ce6cc3a1f1d47200e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/26/section/4) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-62ffd9666ce51a0ce6cc3a1f1d47200e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/26/section/4) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-503c54d6c99d63a6fc4eb67f9b1a9b89]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/26/section/5) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-503c54d6c99d63a6fc4eb67f9b1a9b89]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/26/section/5) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-342916fff325a7b994773fd3555f13ff]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/26/section/6) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-342916fff325a7b994773fd3555f13ff]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/26/section/6) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-bd20422a868428b0340bc6d43fc66c44]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/26/section/7) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-bd20422a868428b0340bc6d43fc66c44]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/26/section/7) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-3032bba1ae657d6411c44e85e0f1ad43]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/26/section/8) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-3032bba1ae657d6411c44e85e0f1ad43]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/26/section/8) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-90da38b343f9df965d7c7e7c9bbcfb90]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/26/section/9) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-90da38b343f9df965d7c7e7c9bbcfb90]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/26/section/9) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-29e6d49a12a9ffeed26105dfae601c60]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/26/section/10) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-29e6d49a12a9ffeed26105dfae601c60]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/26/section/10) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-0bbcdb2efcc72206b3ad345152749969]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/26/section/11) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-0bbcdb2efcc72206b3ad345152749969]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/26/section/11) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-0827107c730e0758b39377e639e4a0f6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/26/section/12) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-0827107c730e0758b39377e639e4a0f6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/26/section/12) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-0622652cb99aeb5ea79fbf9327b3d839]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/26/section/13) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-0622652cb99aeb5ea79fbf9327b3d839]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/26/section/13) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
 
-[^key-ba4642021fecc44a60c3db9d40fafaaf]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/26/section/14) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)
+[^c-ba4642021fecc44a60c3db9d40fafaaf]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/26/section/14) in force at 29.8.2023, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/26/section/14/2)

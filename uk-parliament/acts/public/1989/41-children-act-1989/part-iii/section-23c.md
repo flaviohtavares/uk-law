@@ -47,7 +47,7 @@ and in this section such a person is referred to as a “ **former relevant chil
 
 (5A)[^c19937342] It is the duty of the local authority to pay the relevant amount to a former relevant child who pursues higher education in accordance with a pathway plan prepared for that person.
 
-(5B) The Secretary of State[^key-b9b10baa69b1516f68a7b92440840893] may by regulations—
+(5B) The Secretary of State[^c-b9b10baa69b1516f68a7b92440840893] may by regulations—
 
 - (a) prescribe the relevant amount for the purposes of subsection (5A);
 - (b) prescribe the meaning of “higher education” for those purposes;
@@ -77,6 +77,6 @@ and in this section such a person is referred to as a “ **former relevant chil
 
 [^c19937342]: Textual amendment: S. 23C(5A)-(5C) inserted (12.2.2009 for certain purposes for E. , 22.8.2009 otherwise for E., 26.4.2010 for certain purposes for W., 18.3.2011 otherwise for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/21/2), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/d); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/1); [S.I. 2010/1329](https://www.legislation.gov.uk/uksi/2010/1329), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/1329/article/2/g); [S.I. 2011/824](https://www.legislation.gov.uk/uksi/2011/824), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/824/article/2/b)
 
-[^key-b9b10baa69b1516f68a7b92440840893]: Textual amendment: Words in s. 23C(5B) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [76](https://www.legislation.gov.uk/wsi/2016/413/regulation/76)
+[^c-b9b10baa69b1516f68a7b92440840893]: Textual amendment: Words in s. 23C(5B) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [76](https://www.legislation.gov.uk/wsi/2016/413/regulation/76)
 
 [^c19937381]: Textual amendment: Words in s. 23C(9) inserted (22.8.2009 for E., 18.3.2011 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/21/3), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/1); [S.I. 2011/824](https://www.legislation.gov.uk/uksi/2011/824), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/824/article/2/a)

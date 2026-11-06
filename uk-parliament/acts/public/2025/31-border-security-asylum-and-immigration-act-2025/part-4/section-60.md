@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Validation of fees charged in relation to qualifications[^key-9a1f9c5d2a7456c0b2560cce527a15df]
+## 60. Validation of fees charged in relation to qualifications[^c-9a1f9c5d2a7456c0b2560cce527a15df]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a1f9c5d2a7456c0b2560cce527a15df]: Commencement: S. 60 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+[^c-9a1f9c5d2a7456c0b2560cce527a15df]: Commencement: S. 60 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)

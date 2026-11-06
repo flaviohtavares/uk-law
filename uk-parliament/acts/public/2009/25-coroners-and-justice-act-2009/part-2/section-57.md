@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Infanticide (England and Wales)[^key-fca13ef6ce328b8dfd6888aa689feed3]
+## 57. Infanticide (England and Wales)[^c-fca13ef6ce328b8dfd6888aa689feed3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fca13ef6ce328b8dfd6888aa689feed3]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2009/25/section/57) in force at 4.10.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/816/article/5/c)
+[^c-fca13ef6ce328b8dfd6888aa689feed3]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2009/25/section/57) in force at 4.10.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/816/article/5/c)

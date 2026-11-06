@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Old system students[^key-d535efe65d8b66cda2c8d5633be154c1]
+## 12. Old system students[^c-d535efe65d8b66cda2c8d5633be154c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d535efe65d8b66cda2c8d5633be154c1]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-d535efe65d8b66cda2c8d5633be154c1]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

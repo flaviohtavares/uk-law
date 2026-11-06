@@ -34,7 +34,7 @@ An Act to confer further functions on the Auditor General for Wales; to make pro
 
 \[16th September 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b07706cecb09e4bcc9fbc41c4334a705]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b07706cecb09e4bcc9fbc41c4334a705]
 
 ## Contents
 
@@ -93,7 +93,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27 — Additional publicity for immediate reports](part-2/section-27.md)
 - [Section 28 — Additional publicity for non-immediate reports](part-2/section-28.md)
 
-##### Public inspection etc and action by the Auditor General for Wales[^key-9befefc2057461447bcbcc0d853a08c2]
+##### Public inspection etc and action by the Auditor General for Wales[^c-9befefc2057461447bcbcc0d853a08c2]
 
 *Extent: E+W*
 
@@ -209,8 +209,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-b07706cecb09e4bcc9fbc41c4334a705]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/23) applied (with modifications) (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2/3) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-b07706cecb09e4bcc9fbc41c4334a705]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/23) applied (with modifications) (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2/3) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-9befefc2057461447bcbcc0d853a08c2]: Textual amendment: [S. 29 crossheading](https://www.legislation.gov.uk/ukpga/2004/23/section/29) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 34(4)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/34/4) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-9befefc2057461447bcbcc0d853a08c2]: Textual amendment: [S. 29 crossheading](https://www.legislation.gov.uk/ukpga/2004/23/section/29) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 34(4)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/34/4) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
 [^c20975311]: Textual amendment: Pt. 3A inserted (1.3.2008 for s. 64G(1)(3)(4) and 6.4.2008 otherwise) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2007/27/schedule/7/paragraph/4); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(i)](https://www.legislation.gov.uk/uksi/2008/219/article/3/i); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16](https://www.legislation.gov.uk/uksi/2008/755/article/16)

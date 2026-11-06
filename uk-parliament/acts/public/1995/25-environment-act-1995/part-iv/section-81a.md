@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81A. Functions of relevant public authorities etc[^key-2388a7b367f982e084a694822551ff92]
+## 81A. Functions of relevant public authorities etc[^c-2388a7b367f982e084a694822551ff92]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2388a7b367f982e084a694822551ff92]: Textual amendment: [S. 81A](https://www.legislation.gov.uk/ukpga/1995/25/section/81A) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-2388a7b367f982e084a694822551ff92]: Textual amendment: [S. 81A](https://www.legislation.gov.uk/ukpga/1995/25/section/81A) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)

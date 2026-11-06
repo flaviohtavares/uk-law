@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Contingency ceases or consideration is ascertained: duty to make return[^key-a03be8ad57dac9bdba96ebaddf8bd0fe]
+## 47. Contingency ceases or consideration is ascertained: duty to make return[^c-a03be8ad57dac9bdba96ebaddf8bd0fe]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ is the day after the end of the period of 30 days beginning with the day after t
 
 ## Annotations
 
-[^key-a03be8ad57dac9bdba96ebaddf8bd0fe]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2017/1/section/47) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a03be8ad57dac9bdba96ebaddf8bd0fe]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2017/1/section/47) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

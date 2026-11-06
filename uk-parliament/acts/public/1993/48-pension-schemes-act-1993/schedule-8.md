@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Consequential Amendments[^c21361961][^key-e56839b42bfac751fdbe86755e8303c8]
+## SCHEDULE 8 — Consequential Amendments[^c21361961][^c-e56839b42bfac751fdbe86755e8303c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ Section 190.
 
 *Extent: E+W+S*
 
-**3.**[^key-184629632f7d99517d2857c3c8d4833b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-184629632f7d99517d2857c3c8d4833b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Attachment of Earnings Act 1971 (c. 32)
 
@@ -89,7 +89,7 @@ Section 190.
 
 *Extent: E+W+S*
 
-**11.**[^key-f10ddd429176d218fce9321b2071ae8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f10ddd429176d218fce9321b2071ae8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Justices of the Peace Act 1979 (c. 55)
 
@@ -122,13 +122,13 @@ Section 190.
 
 *Extent: E+W+S*
 
-**16.**[^key-8a03d26dd43f0cc385e18bedf71a9613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8a03d26dd43f0cc385e18bedf71a9613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Bankruptcy (Scotland) Act 1985 (c. 66)
 
 *Extent: S*
 
-**17.**[^key-a8ef04e588dd6fbecc35b511aa28821a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a8ef04e588dd6fbecc35b511aa28821a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Insolvency Act 1986 (c. 45)
 
@@ -140,11 +140,11 @@ Section 190.
 
 *Extent: E+W+S*
 
-**19.**[^key-e9cea09a0b172f4335edc7ef23d13eaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-e9cea09a0b172f4335edc7ef23d13eaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Income and Corporation Taxes Act 1988 (c. 1)
 
-**20.**[^key-e2aeffecc9b2539b20aab4dc83320871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e2aeffecc9b2539b20aab4dc83320871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Official Secrets Act 1989 (c. 6)
 
@@ -164,17 +164,17 @@ Section 190.
 
 *Extent: E+W+S*
 
-**24.**[^key-322f1ed3b5a84e2b20c25398724ab27f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-322f1ed3b5a84e2b20c25398724ab27f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.** At the end of section 70(3) of that Act there shall be inserted the words *(affected by repeal, see note)*[^key-8f9c20142364dd1a951d8c07cf688178]
+**25.** At the end of section 70(3) of that Act there shall be inserted the words *(affected by repeal, see note)*[^c-8f9c20142364dd1a951d8c07cf688178]
 
-> or *(affected by repeal, see note)*[^key-8f9c20142364dd1a951d8c07cf688178]
+> or *(affected by repeal, see note)*[^c-8f9c20142364dd1a951d8c07cf688178]
 >
-> - (k) the Pensions Act *(affected by repeal, see note)*[^key-8f9c20142364dd1a951d8c07cf688178]
+> - (k) the Pensions Act *(affected by repeal, see note)*[^c-8f9c20142364dd1a951d8c07cf688178]
 
 .
 
-**26.**[^key-626400e4e0e7f009b6ba3738c425da04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-626400e4e0e7f009b6ba3738c425da04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** In section 148(7) of that Act for the words “section 21 of the Pensions Act” there shall be substituted the words “ section 21 of the Social Security Pensions Act 1975 ”.
 
@@ -219,9 +219,9 @@ Section 190.
 
 **32.** In section 1(3) of the Social Security Contributions and Benefits Act 1992 for the words from “Part III” to “contributions)” there shall be substituted the words “ Chapter II of Part III of the Pensions Act (reduction in state scheme contributions and benefits for members of certified schemes) ”.
 
-**33.** In section 8(1) of that Act for the words “section 27 of the Pensions Act (contracted-out rates)” there shall be substituted the words *(affected by repeal, see note)*[^key-e74cff6c9b009c08209c00e4d292825d]“ section 41 of the Pensions Act (reduced rates of Class 1 contributions for earners in contracted-out employment) ” *(affected by repeal, see note)*[^key-e74cff6c9b009c08209c00e4d292825d].
+**33.** In section 8(1) of that Act for the words “section 27 of the Pensions Act (contracted-out rates)” there shall be substituted the words *(affected by repeal, see note)*[^c-e74cff6c9b009c08209c00e4d292825d]“ section 41 of the Pensions Act (reduced rates of Class 1 contributions for earners in contracted-out employment) ” *(affected by repeal, see note)*[^c-e74cff6c9b009c08209c00e4d292825d].
 
-**34.** In section 9(4) of that Act for the words “section 27” there shall be substituted the words *(affected by repeal, see note)*[^key-b87b34e681c26b2787cdc3beaedb4f4f]“ section 41 ” *(affected by repeal, see note)*[^key-b87b34e681c26b2787cdc3beaedb4f4f].
+**34.** In section 9(4) of that Act for the words “section 27” there shall be substituted the words *(affected by repeal, see note)*[^c-b87b34e681c26b2787cdc3beaedb4f4f]“ section 41 ” *(affected by repeal, see note)*[^c-b87b34e681c26b2787cdc3beaedb4f4f].
 
 **35.** In section 20(3) of that Act for the words from “Part III” to “benefit)” there shall be substituted the words “ Chapter II of Part III of the Pensions Act (reduction in state scheme contributions and benefits for members of certified schemes) ”.
 
@@ -252,9 +252,9 @@ Section 190.
 
 **44.** In the Tribunals and Inquiries Act 1992—
 
-- (a)[^key-8e8faf9ab2820b55c5391bb81caeabbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8e8faf9ab2820b55c5391bb81caeabbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 35 of Schedule 1—
-  - (i)[^key-8e8faf9ab2820b55c5391bb81caeabbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-8e8faf9ab2820b55c5391bb81caeabbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in paragraph (e) for the words “Part IVA of the Social Security Pensions Act 1975 (c. 60)” and “section 59C(2)” there shall be substituted respectively the words “ Part X of the Pension Schemes Act 1993 ” and “ section 146(2) ” .
 
 ### The Social Security Act 1993 (c.3)
@@ -263,7 +263,7 @@ Section 190.
 
 **45.** In section 2(4)(b) of the Social Security Act 1993—
 
-- (a)[^key-20406b6bed888728aed9ad07e05c2e60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-20406b6bed888728aed9ad07e05c2e60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) at the end there shall be inserted the words—
 
   > and
@@ -304,30 +304,30 @@ Section 190.
 
 [^c21361961]: Extent: Sch. 8: amending provisions are co-extensive with the enactments they affect, see s. 192(1)
 
-[^key-e56839b42bfac751fdbe86755e8303c8]: Commencement: Sch. 9 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-e56839b42bfac751fdbe86755e8303c8]: Commencement: Sch. 9 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-184629632f7d99517d2857c3c8d4833b]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/3) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-184629632f7d99517d2857c3c8d4833b]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/3) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
-[^key-f10ddd429176d218fce9321b2071ae8c]: Textual amendment: Sch. 8 para. 11(1) repealed (22.8.1996) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-201](https://www.legislation.gov.uk/ukpga/1996/18/section/191))
+[^c-f10ddd429176d218fce9321b2071ae8c]: Textual amendment: Sch. 8 para. 11(1) repealed (22.8.1996) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-201](https://www.legislation.gov.uk/ukpga/1996/18/section/191))
 
-[^key-8a03d26dd43f0cc385e18bedf71a9613]: Textual amendment: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/16) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/article/1/3), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/2476/article/2/3/4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1802/article/1), [18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule))
+[^c-8a03d26dd43f0cc385e18bedf71a9613]: Textual amendment: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/16) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/article/1/3), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/2476/article/2/3/4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1802/article/1), [18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule))
 
-[^key-a8ef04e588dd6fbecc35b511aa28821a]: Textual amendment: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/17) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-a8ef04e588dd6fbecc35b511aa28821a]: Textual amendment: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/17) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
-[^key-e9cea09a0b172f4335edc7ef23d13eaa]: Textual amendment: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/19) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
+[^c-e9cea09a0b172f4335edc7ef23d13eaa]: Textual amendment: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/19) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
 
-[^key-e2aeffecc9b2539b20aab4dc83320871]: Textual amendment: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/20) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-e2aeffecc9b2539b20aab4dc83320871]: Textual amendment: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/20) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-322f1ed3b5a84e2b20c25398724ab27f]: Textual amendment: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/24) repealed (6.4.2002) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 13 Pt. V](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/V); [S.I. 2001/4049](https://www.legislation.gov.uk/uksi/2001/4049), [art. 2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2001/4049/article/2/3/d/i)
+[^c-322f1ed3b5a84e2b20c25398724ab27f]: Textual amendment: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/24) repealed (6.4.2002) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 13 Pt. V](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/V); [S.I. 2001/4049](https://www.legislation.gov.uk/uksi/2001/4049), [art. 2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2001/4049/article/2/3/d/i)
 
-[^key-8f9c20142364dd1a951d8c07cf688178]: Textual amendment: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/25) repealed (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-8f9c20142364dd1a951d8c07cf688178]: Textual amendment: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/25) repealed (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-626400e4e0e7f009b6ba3738c425da04]: Textual amendment: [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/26) repealed (2.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/e)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 9 Pt. VI](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/VI) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/1/e)
+[^c-626400e4e0e7f009b6ba3738c425da04]: Textual amendment: [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/26) repealed (2.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/e)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 9 Pt. VI](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/VI) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/1/e)
 
-[^key-e74cff6c9b009c08209c00e4d292825d]: Textual amendment: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/33) repealed (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-e74cff6c9b009c08209c00e4d292825d]: Textual amendment: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/33) repealed (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-b87b34e681c26b2787cdc3beaedb4f4f]: Textual amendment: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/34) repealed (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-b87b34e681c26b2787cdc3beaedb4f4f]: Textual amendment: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/34) repealed (29.11.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-8e8faf9ab2820b55c5391bb81caeabbc]: Textual amendment: [Sch. 8 para. 44(a)(b)(i)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/44/a/b/i) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-8e8faf9ab2820b55c5391bb81caeabbc]: Textual amendment: [Sch. 8 para. 44(a)(b)(i)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/44/a/b/i) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
-[^key-20406b6bed888728aed9ad07e05c2e60]: Textual amendment: [Sch. 8 para. 45(a)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/45/a) repealed (22.8.1996) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-201](https://www.legislation.gov.uk/ukpga/1996/18/section/191))
+[^c-20406b6bed888728aed9ad07e05c2e60]: Textual amendment: [Sch. 8 para. 45(a)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/45/a) repealed (22.8.1996) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-201](https://www.legislation.gov.uk/ukpga/1996/18/section/191))

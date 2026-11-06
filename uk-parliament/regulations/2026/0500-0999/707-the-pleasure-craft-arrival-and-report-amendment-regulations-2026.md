@@ -32,7 +32,7 @@ summary: ''
 
 CUSTOMS
 
-The Pleasure Craft (Arrival and Report) (Amendment) Regulations 2026 (revoked)[^key-aca8964ff51bbdeb1e7b605746e6f8d7]
+The Pleasure Craft (Arrival and Report) (Amendment) Regulations 2026 (revoked)[^c-aca8964ff51bbdeb1e7b605746e6f8d7]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 22nd July 2026
 
-[^key-aca8964ff51bbdeb1e7b605746e6f8d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca8964ff51bbdeb1e7b605746e6f8d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-aca8964ff51bbdeb1e7b605746e6f8d7]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Pleasure Craft (Arrival and Report) Regulations 1996[^key-aca8964ff51bbdeb1e7b605746e6f8d7]
+## 1. Citation and commencement[^c-aca8964ff51bbdeb1e7b605746e6f8d7]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Ship’s Report, Importation and Exportation by Sea Regulations 1981[^key-aca8964ff51bbdeb1e7b605746e6f8d7]
+## 2. Amendment of the Pleasure Craft (Arrival and Report) Regulations 1996[^c-aca8964ff51bbdeb1e7b605746e6f8d7]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Ship’s Report, Importation and Exportation by Sea Regulations 1981[^c-aca8964ff51bbdeb1e7b605746e6f8d7]
 
 **Not yet in force.**
 
@@ -68,12 +68,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-aca8964ff51bbdeb1e7b605746e6f8d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca8964ff51bbdeb1e7b605746e6f8d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aca8964ff51bbdeb1e7b605746e6f8d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca8964ff51bbdeb1e7b605746e6f8d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aca8964ff51bbdeb1e7b605746e6f8d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2026/707) revoked (6.8.2026) by [The Pleasure Craft (Arrival and Report) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/819)](https://www.legislation.gov.uk/uksi/2026/819), [regs. 1](https://www.legislation.gov.uk/uksi/2026/819/regulation/1), [2](https://www.legislation.gov.uk/uksi/2026/819/regulation/2)
+[^c-aca8964ff51bbdeb1e7b605746e6f8d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2026/707) revoked (6.8.2026) by [The Pleasure Craft (Arrival and Report) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/819)](https://www.legislation.gov.uk/uksi/2026/819), [regs. 1](https://www.legislation.gov.uk/uksi/2026/819/regulation/1), [2](https://www.legislation.gov.uk/uksi/2026/819/regulation/2)

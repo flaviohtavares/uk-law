@@ -45,10 +45,10 @@ summary: ''
 
 - “**contract**”, “**contract notice**”, “**dynamic purchasing system**”, “**economic operator**”, “**framework agreement**” and “**periodic indicative notice**” have the same meanings as in the UCR;
 - “**the UCR**” means the Utilities Contracts (Scotland) Regulations 2012 [^c22606691]; and
-- “**the Utilities amendments**” means the amendments made to the UCR by paragraph 8 of Schedule 6[^key-f22e828810c506350620c04b1ebfdefe].
+- “**the Utilities amendments**” means the amendments made to the UCR by paragraph 8 of Schedule 6[^c-f22e828810c506350620c04b1ebfdefe].
 
 ## Annotations
 
 [^c22606691]: Marginal citation: [S.S.I. 2012/89](https://www.legislation.gov.uk/ssi/2012/89) was amended by the [Public Contracts and Utilities Contracts (Scotland) Amendment Regulations 2012 (S.S.I. 2012/108)](https://www.legislation.gov.uk/ssi/2012/108).
 
-[^key-f22e828810c506350620c04b1ebfdefe]: Textual amendment: Words in [reg. 99(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/99/5) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/9)
+[^c-f22e828810c506350620c04b1ebfdefe]: Textual amendment: Words in [reg. 99(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/99/5) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/9)

@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 1. Guiding principles for health and care staffing
 
-(1)[^key-f97dda44e8d6872db758938ebbad13f5] The guiding principles for health and care staffing are—
+(1)[^c-f97dda44e8d6872db758938ebbad13f5] The guiding principles for health and care staffing are—
 
 - (a) that the main purposes of staffing for health care and care services are—
   - (i) to provide safe and high-quality services, and
@@ -53,7 +53,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (vii) allocating staff efficiently and effectively, and
   - (viii) promoting multi-disciplinary services as appropriate.
 
-(2)[^key-00feea64774a472db239a9af70c9a7a3][^key-3c5feac796d567773479ff5417784dad] In this Part—
+(2)[^c-00feea64774a472db239a9af70c9a7a3][^c-3c5feac796d567773479ff5417784dad] In this Part—
 
 - “**care service**” means a service mentioned in section 47(1) of the Public Services Reform (Scotland) Act 2010,
 - “**health care**” means a service for or in connection with the prevention, diagnosis or treatment of illness,
@@ -63,7 +63,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (a) in relation to health care, the standards and outcomes published by the Scottish Ministers under section 10H(1) of the National Health Service (Scotland) Act 1978, and
   - (b) in relation to care services, the standards and outcomes published by the Scottish Ministers under section 50 of the Public Services Reform (Scotland) Act 2010.
 
-### 2. Guiding principles etc. in health care staffing and planning[^key-bb1f8ec0b29edae51f253b6d1f604f87][^key-5abaad7ec55bf972f61423b02054479f][^key-8297e268e5ed85db43337a4244c6ce40][^key-b75b504bc7b4427f10ee3b2ca3bb874f][^key-a4e510cc59a45f90c2e00172251eb56a]
+### 2. Guiding principles etc. in health care staffing and planning[^c-bb1f8ec0b29edae51f253b6d1f604f87][^c-5abaad7ec55bf972f61423b02054479f][^c-8297e268e5ed85db43337a4244c6ce40][^c-b75b504bc7b4427f10ee3b2ca3bb874f][^c-a4e510cc59a45f90c2e00172251eb56a]
 
 (1) In carrying out the duty relating to staffing imposed by section 12IA of the National Health Service (Scotland) Act 1978, every Health Board and the Common Services Agency for the Scottish Health Service must have regard to the guiding principles for health and care staffing.
 
@@ -72,7 +72,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the guiding principles for health and care staffing, and
 - (b) the need for the person from whom the provision of health care is to be secured to have appropriate staffing arrangements in place.
 
-(3) As soon as reasonably practicable after the end of each financial year, every Health Board and the Common Services Agency for the Scottish Health Service must provide information to the Scottish Ministers and the Patient Safety Commissioner for Scotland[^key-6f3f6c9c610119805cf20b07b81ff6cd] on the steps they have taken to comply with subsections (1) and (2).
+(3) As soon as reasonably practicable after the end of each financial year, every Health Board and the Common Services Agency for the Scottish Health Service must provide information to the Scottish Ministers and the Patient Safety Commissioner for Scotland[^c-6f3f6c9c610119805cf20b07b81ff6cd] on the steps they have taken to comply with subsections (1) and (2).
 
 (4) Information provided under subsection (3) must set out how the steps taken by the Health Board or (as the case may be) Common Services Agency for the Scottish Health Service to comply with subsections (1) and (2) have improved outcomes for service users.
 
@@ -85,18 +85,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 3. Guiding principles etc. in care service staffing and planning
 
-(1)[^key-645836a22c5421988d88c8a554fe9c34] In carrying out the duty relating to staffing imposed by section 7, any person who provides a care service must have regard to the guiding principles for health and care staffing.
+(1)[^c-645836a22c5421988d88c8a554fe9c34] In carrying out the duty relating to staffing imposed by section 7, any person who provides a care service must have regard to the guiding principles for health and care staffing.
 
-(2)[^key-645836a22c5421988d88c8a554fe9c34] In planning or securing the provision of a care service from another person under a contract, agreement or other arrangements, every local authority and every integration authority (within the meaning of section 59 of the Public Bodies (Joint Working) (Scotland) Act 2014) must have regard to—
+(2)[^c-645836a22c5421988d88c8a554fe9c34] In planning or securing the provision of a care service from another person under a contract, agreement or other arrangements, every local authority and every integration authority (within the meaning of section 59 of the Public Bodies (Joint Working) (Scotland) Act 2014) must have regard to—
 
 - (a) the guiding principles for health and care staffing, and
 - (b) the duties relating to staffing imposed on persons who provide care services—
   - (i) by virtue of subsection (1) and sections 7 to 10, and
   - (ii) by virtue of Chapters 3 and 3A of Part 5 of the Public Services Reform (Scotland) Act 2010.
 
-(3)[^key-0360882cc9b1cfdc4d46ad5aefe5bcd5][^key-7e22902faa226c50c27d40bf0643b5e3] Every local authority and every integration authority must have regard to any guidance issued by the Scottish Ministers about the operation of subsection (2).
+(3)[^c-0360882cc9b1cfdc4d46ad5aefe5bcd5][^c-7e22902faa226c50c27d40bf0643b5e3] Every local authority and every integration authority must have regard to any guidance issued by the Scottish Ministers about the operation of subsection (2).
 
-(4)[^key-0360882cc9b1cfdc4d46ad5aefe5bcd5][^key-7e22902faa226c50c27d40bf0643b5e3] Before issuing such guidance, the Scottish Ministers must consult—
+(4)[^c-0360882cc9b1cfdc4d46ad5aefe5bcd5][^c-7e22902faa226c50c27d40bf0643b5e3] Before issuing such guidance, the Scottish Ministers must consult—
 
 - (a) Social Care and Social Work Improvement Scotland,
 - (b) such persons as they consider to be representative of the providers, commissioners and users of care services,
@@ -104,9 +104,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (d) such persons as they consider to be representative of carers (within the meaning of section 1 of the Carers (Scotland) Act 2016), and
 - (e) such other persons as they consider appropriate.
 
-(5)[^key-645836a22c5421988d88c8a554fe9c34] The Scottish Ministers must publish any guidance issued under subsection (3).
+(5)[^c-645836a22c5421988d88c8a554fe9c34] The Scottish Ministers must publish any guidance issued under subsection (3).
 
-(6)[^key-645836a22c5421988d88c8a554fe9c34] As soon as reasonably practicable after the end of each financial year, every local authority and every integration authority (within the meaning of section 59 of the Public Bodies (Joint Working) (Scotland) Act 2014) must publish information on—
+(6)[^c-645836a22c5421988d88c8a554fe9c34] As soon as reasonably practicable after the end of each financial year, every local authority and every integration authority (within the meaning of section 59 of the Public Bodies (Joint Working) (Scotland) Act 2014) must publish information on—
 
 - (a) the steps they have taken, and
 - (b) any ongoing risk that may affect their ability,
@@ -117,9 +117,9 @@ to comply with subsection (2).
 
 ### 4. NHS duties in relation to staffing
 
-(1)[^key-1bdb788231036972d902a5d9c2a5d076][^key-0973a93277f15789db3569048b077f21][^key-6b5fd8eeb8c560bde8c3bc8d913be412] The National Health Service (Scotland) Act 1978 is amended as follows.
+(1)[^c-1bdb788231036972d902a5d9c2a5d076][^c-0973a93277f15789db3569048b077f21][^c-6b5fd8eeb8c560bde8c3bc8d913be412] The National Health Service (Scotland) Act 1978 is amended as follows.
 
-(2)[^key-1bdb788231036972d902a5d9c2a5d076][^key-0973a93277f15789db3569048b077f21][^key-6b5fd8eeb8c560bde8c3bc8d913be412] After section 12I insert—
+(2)[^c-1bdb788231036972d902a5d9c2a5d076][^c-0973a93277f15789db3569048b077f21][^c-6b5fd8eeb8c560bde8c3bc8d913be412] After section 12I insert—
 
 > **Staffing**
 >
@@ -173,7 +173,7 @@ to comply with subsection (2).
 >   - (iii) in so far as it affects either of those matters, the wellbeing of staff,
 > - (b) a procedure for the notification of any such risk to an individual with lead professional responsibility (whether clinical or non-clinical) in the area where the risk was identified,
 > - (c) a procedure for the mitigation of any such risks, so far as possible, by such an individual, and a requirement for that individual to seek and have regard to appropriate clinical advice, as necessary, in carrying out such mitigation,
-> - (d) raising awareness among staff about the procedures described in paragraphs (a) , (b)[^key-7963b9155ec6eaca7f712145ed8299a6] and (c),
+> - (d) raising awareness among staff about the procedures described in paragraphs (a) , (b)[^c-7963b9155ec6eaca7f712145ed8299a6] and (c),
 > - (e) encouraging and enabling staff to use the procedures described in paragraphs (a) and (b),
 > - (f) training individuals with lead professional responsibility (whether clinical or non-clinical) for particular types of health care in how to implement the arrangements put in place under paragraphs (a) to (e), and
 > - (g) ensuring that such individuals receive adequate time and resources to implement those arrangements.
@@ -198,7 +198,7 @@ to comply with subsection (2).
 >   - (iv) any individual who gave clinical advice in accordance with the arrangements put in place under section 12IC(2)(c), or under paragraph (b), (c) or (d) of this subsection,
 > - (f) a procedure for those individuals to record any disagreement with any decision made following the initial report,
 > - (g) a procedure for those individuals to be able to request a review of the final decision on a risk (other than a final decision made by the members of the Health Board or the Agency) made in accordance with the arrangements put in place under section 12IC(2)(c) or, as the case may be, paragraphs (b), (c) or (d) of this subsection,
-> - (h) raising awareness among staff about the procedures described in paragraphs (a) to (g)[^key-c4195dbc16ba4b6505ff1db61045778b],
+> - (h) raising awareness among staff about the procedures described in paragraphs (a) to (g)[^c-c4195dbc16ba4b6505ff1db61045778b],
 > - (i) training individuals with lead professional responsibility (whether clinical or non-clinical) for particular types of health care, and other senior decision-makers, in how to implement the arrangements put in place under paragraphs (a) to (h), and
 > - (j) ensuring that such individuals receive adequate time and resources to implement those arrangements.
 >
@@ -362,7 +362,7 @@ to comply with subsection (2).
 > - (d) ensure that those employees receive adequate time to use the common staffing method, and
 > - (e) provide information to employees engaged in the types of health care described in section 12IK about its use of the common staffing method, including about—
 >   - (i) the results from using the staffing level tool and the professional judgement tool under paragraph (a) of section 12IJ(2),
->   - (ii) the steps taken under paragraphs (b), (c) and (d)[^key-921c13080cfa8d84bfe0bb6cc424caac] of that subsection, and
+>   - (ii) the steps taken under paragraphs (b), (c) and (d)[^c-921c13080cfa8d84bfe0bb6cc424caac] of that subsection, and
 >   - (iii) the results of its decision under paragraph (e) of that subsection.
 >
 > **12IM. Reporting on staffing**
@@ -448,27 +448,27 @@ to comply with subsection (2).
 
 .
 
-(3)[^key-080f4a0b4b18fbe6c92ba4f220b878b3] Section 12H(3) is repealed.
+(3)[^c-080f4a0b4b18fbe6c92ba4f220b878b3] Section 12H(3) is repealed.
 
-(4)[^key-080f4a0b4b18fbe6c92ba4f220b878b3] In section 105(3) (orders, regulations and directions), after “section 10Z7” insert “ , section 12IJ(5), section 12IK(4) ”.
+(4)[^c-080f4a0b4b18fbe6c92ba4f220b878b3] In section 105(3) (orders, regulations and directions), after “section 10Z7” insert “ , section 12IJ(5), section 12IK(4) ”.
 
 ### 5. Application of duties to certain Special Health Boards
 
-(1)[^key-7065349b1efe7ed31fcf80a64ded89a7][^key-8d7afa2623c1083c9f8670a38123641e] The State Hospitals Board for Scotland Order 1995 (S.I. 1995/574) is amended in accordance with subsections (2) and (3).
+(1)[^c-7065349b1efe7ed31fcf80a64ded89a7][^c-8d7afa2623c1083c9f8670a38123641e] The State Hospitals Board for Scotland Order 1995 (S.I. 1995/574) is amended in accordance with subsections (2) and (3).
 
 (2) In Part I of the schedule—
 
 - (a) in column 1—
-  - (i)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry relating to section 10(4) of the National Health Service (Scotland) Act 1978, insert “ Section 12IA ”,
-  - (ii)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (i), insert “ Section 12IC ”,
-  - (iii)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (ii), insert “ Section 12ID ”,
-  - (iv)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (iii), insert “ Section 12IE ”,
-  - (v)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (iv), insert “ Section 12IF ”,
-  - (vi)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (v), insert “ Section 12IH ”,
-  - (vii)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (vi), insert “ Section 12II ”,
-  - (viii)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (vii), insert “ Section 12IJ ”,
-  - (ix)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (viii) , insert “ Section 12IL ”,
-  - (x)[^key-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (ix), insert “ Section 12IM ”, and
+  - (i)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry relating to section 10(4) of the National Health Service (Scotland) Act 1978, insert “ Section 12IA ”,
+  - (ii)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (i), insert “ Section 12IC ”,
+  - (iii)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (ii), insert “ Section 12ID ”,
+  - (iv)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (iii), insert “ Section 12IE ”,
+  - (v)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (iv), insert “ Section 12IF ”,
+  - (vi)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (v), insert “ Section 12IH ”,
+  - (vii)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (vi), insert “ Section 12II ”,
+  - (viii)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (vii), insert “ Section 12IJ ”,
+  - (ix)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (viii) , insert “ Section 12IL ”,
+  - (x)[^c-e0761b83766ba80137096c8c6cac3d0a] after the entry inserted by sub-paragraph (ix), insert “ Section 12IM ”, and
   - (xi) after the entry inserted by sub-paragraph (x), insert “ Section 12IN ”, and
 - (b) in column 2—
   - (i) in the place corresponding to the entry inserted by paragraph (a)(i), insert “ Duty to ensure appropriate staffing ”,
@@ -483,12 +483,12 @@ to comply with subsection (2).
   - (x) in the place corresponding to the entry inserted by paragraph (a)(x), insert “ Duty of reporting on staffing ”, and
   - (xi) in the place corresponding to the entry inserted by paragraph (a)(xi), insert “ Duty to have regard to Ministerial guidance on staffing ”.
 
-(3)[^key-aec24d5757e9787e623c0de1fa810552] In Part II of the schedule—
+(3)[^c-aec24d5757e9787e623c0de1fa810552] In Part II of the schedule—
 
 - (a) in column 1, at the end, insert “ Section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”, and
 - (b) in column 2, in the place corresponding to the entry inserted by paragraph (a), insert “ Duties to have regard to guiding principles etc. in health care staffing and planning ”.
 
-(4)[^key-75235fc23be89bd61956974bb4af1b37][^key-6bc454515bf49c9d8516e7f45ade58ea] The Scottish Ambulance Service Board Order 1999 (S.I. 1999/686) is amended in accordance with subsections (5) and (6).
+(4)[^c-75235fc23be89bd61956974bb4af1b37][^c-6bc454515bf49c9d8516e7f45ade58ea] The Scottish Ambulance Service Board Order 1999 (S.I. 1999/686) is amended in accordance with subsections (5) and (6).
 
 (5) In Part I of the schedule—
 
@@ -513,29 +513,29 @@ to comply with subsection (2).
   - (viii) in the place corresponding to the entry inserted by paragraph (a)(viii), insert “ Duty of reporting on staffing ”, and
   - (ix) in the place corresponding to the entry inserted by paragraph (a)(ix), insert “ Duty to have regard to Ministerial guidance on staffing ”, and
 - (c) in column 3—
-  - (i) in the place corresponding to the entry inserted by paragraph (a)(viii), insert “ Applied in so far as it relates to sections 12IA, 12IC, 12ID, 12IE, 12IF, 12IH and 12II[^key-ec5f41d6f96bad406889891535d329e1] of the Act and section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”, and
+  - (i) in the place corresponding to the entry inserted by paragraph (a)(viii), insert “ Applied in so far as it relates to sections 12IA, 12IC, 12ID, 12IE, 12IF, 12IH and 12II[^c-ec5f41d6f96bad406889891535d329e1] of the Act and section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”, and
   - (ii) in the place corresponding to the entry inserted by paragraph (a)(ix), insert “ Applied in so far as it relates to sections 12IA, 12IC, 12ID, 12IE, 12IF, 12IH and 12II of the Act and section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”.
 
-(6)[^key-ec3f780ac5a2aa990c07d08118c9a48b] In Part II of the schedule—
+(6)[^c-ec3f780ac5a2aa990c07d08118c9a48b] In Part II of the schedule—
 
 - (a) in column 1, at the end, insert “ Section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”, and
 - (b) in column 2, in the place corresponding to the entry inserted by paragraph (a), insert “ Duties to have regard to guiding principles etc. in health care staffing and planning ”.
 
-(7)[^key-93cf6529e1af8c837afcf112ac98a33e][^key-54788a7203e940d8e13eee2e87be5e32] The NHS 24 (Scotland) Order 2001 (S.S.I. 2001/137) is amended in accordance with subsections (8) and (9).
+(7)[^c-93cf6529e1af8c837afcf112ac98a33e][^c-54788a7203e940d8e13eee2e87be5e32] The NHS 24 (Scotland) Order 2001 (S.S.I. 2001/137) is amended in accordance with subsections (8) and (9).
 
 (8) In Part I of the schedule—
 
 - (a) in column 1—
-  - (i)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry relating to section 10(4) of the National Health Service (Scotland) Act 1978, insert “ Section 12IA ”,
-  - (ii)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (i), insert “ Section 12IC ”,
-  - (iii)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (ii), insert “ Section 12ID ”,
-  - (iv)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (iii), insert “ Section 12IE ”,
-  - (v)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (iv), insert “ Section 12IF ”,
-  - (vi)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (v), insert “ Section 12IH ”,
-  - (vii)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (vi), insert “ Section 12II ”,
-  - (viii)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (vii), insert “ Section 12IJ ”,
-  - (ix)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (viii), insert “ Section 12IL ”,
-  - (x)[^key-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (ix), insert “ Section 12IM ”, and
+  - (i)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry relating to section 10(4) of the National Health Service (Scotland) Act 1978, insert “ Section 12IA ”,
+  - (ii)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (i), insert “ Section 12IC ”,
+  - (iii)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (ii), insert “ Section 12ID ”,
+  - (iv)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (iii), insert “ Section 12IE ”,
+  - (v)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (iv), insert “ Section 12IF ”,
+  - (vi)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (v), insert “ Section 12IH ”,
+  - (vii)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (vi), insert “ Section 12II ”,
+  - (viii)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (vii), insert “ Section 12IJ ”,
+  - (ix)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (viii), insert “ Section 12IL ”,
+  - (x)[^c-190ad35280f5dcab90e2da8c27e34572] after the entry inserted by sub-paragraph (ix), insert “ Section 12IM ”, and
   - (xi) after the entry inserted by sub-paragraph (x), insert “ Section 12IN ”, and
 - (b) in column 2—
   - (i) in the place corresponding to the entry inserted by paragraph (a)(i), insert “ Duty to ensure appropriate staffing ”,
@@ -550,26 +550,26 @@ to comply with subsection (2).
   - (x) in the place corresponding to the entry inserted by paragraph (a)(x), insert “ Duty of reporting on staffing ”, and
   - (xi) in the place corresponding to the entry inserted by paragraph (a)(xi), insert “ Duty to have regard to Ministerial guidance on staffing ”.
 
-(9)[^key-fb6e54079ca7e236a07b886886753ec7] In Part II of the schedule—
+(9)[^c-fb6e54079ca7e236a07b886886753ec7] In Part II of the schedule—
 
 - (a) in column 1, at the end, insert “ Section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”, and
 - (b) in column 2, in the place corresponding to the entry inserted by paragraph (a), insert “ Duties to have regard to guiding principles etc. in health care staffing and planning ”.
 
-(10)[^key-93778111d1d4c392f1e44f5ea477865d][^key-1bb1a476e1c6759216ec12f9addfb1d5] The National Waiting Times Centre Board (Scotland) Order 2002 (S.S.I. 2002/305) is amended in accordance with subsections (11) and (12).
+(10)[^c-93778111d1d4c392f1e44f5ea477865d][^c-1bb1a476e1c6759216ec12f9addfb1d5] The National Waiting Times Centre Board (Scotland) Order 2002 (S.S.I. 2002/305) is amended in accordance with subsections (11) and (12).
 
 (11) In Part I of the schedule—
 
 - (a) in column 1—
-  - (i)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry relating to section 10(4) of the National Health Service (Scotland) Act 1978, insert “ Section 12IA ”,
-  - (ii)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (i), insert “ Section 12IC ”,
-  - (iii)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (ii), insert “ Section 12ID ”,
-  - (iv)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (iii), insert “ Section 12IE ”,
-  - (v)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (iv), insert “ Section 12IF ”,
-  - (vi)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (v), insert “ Section 12IH ”,
-  - (vii)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (vi), insert “ Section 12II ”,
-  - (viii)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (vii), insert “ Section 12IJ ”,
-  - (ix)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (viii), insert “ Section 12IL ”,
-  - (x)[^key-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (ix), insert “ Section 12IM ”, and
+  - (i)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry relating to section 10(4) of the National Health Service (Scotland) Act 1978, insert “ Section 12IA ”,
+  - (ii)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (i), insert “ Section 12IC ”,
+  - (iii)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (ii), insert “ Section 12ID ”,
+  - (iv)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (iii), insert “ Section 12IE ”,
+  - (v)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (iv), insert “ Section 12IF ”,
+  - (vi)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (v), insert “ Section 12IH ”,
+  - (vii)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (vi), insert “ Section 12II ”,
+  - (viii)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (vii), insert “ Section 12IJ ”,
+  - (ix)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (viii), insert “ Section 12IL ”,
+  - (x)[^c-7a4247dd7f93ea649374c5123e9fd631] after the entry inserted by sub-paragraph (ix), insert “ Section 12IM ”, and
   - (xi) after the entry inserted by sub-paragraph (x), insert “ Section 12IN ”, and
 - (b) in column 2—
   - (i) in the place corresponding to the entry inserted by paragraph (a)(i), insert “ Duty to ensure appropriate staffing ”,
@@ -584,16 +584,16 @@ to comply with subsection (2).
   - (x) in the place corresponding to the entry inserted by paragraph (a)(x), insert “ Duty of reporting on staffing ”, and
   - (xi) in the place corresponding to the entry inserted by paragraph (a)(xi), insert “ Duty to have regard to Ministerial guidance on staffing ”.
 
-(12)[^key-22588f29dc3b7f14974d0d36199a2b5a] In Part II of the schedule—
+(12)[^c-22588f29dc3b7f14974d0d36199a2b5a] In Part II of the schedule—
 
 - (a) in column 1, at the end, insert “ Section 2 of the Health and Care (Staffing) (Scotland) Act 2019 ”, and
 - (b) in column 2, in the place corresponding to the entry inserted by paragraph (a), insert “ Duties to have regard to guiding principles etc. in health care staffing and planning ”.
 
 ### 6. Role of Healthcare Improvement Scotland in relation to staffing
 
-(1)[^key-f990c5676e0235dbe394bb3acd71e827][^key-19b63d5a6ba910c479c145173b4b9a5f] The National Health Service (Scotland) Act 1978 is amended as follows.
+(1)[^c-f990c5676e0235dbe394bb3acd71e827][^c-19b63d5a6ba910c479c145173b4b9a5f] The National Health Service (Scotland) Act 1978 is amended as follows.
 
-(2)[^key-f990c5676e0235dbe394bb3acd71e827][^key-19b63d5a6ba910c479c145173b4b9a5f] After section 12IO (as inserted by section 4) insert—
+(2)[^c-f990c5676e0235dbe394bb3acd71e827][^c-19b63d5a6ba910c479c145173b4b9a5f] After section 12IO (as inserted by section 4) insert—
 
 > **HIS functions in relation to staffing**
 >
@@ -727,7 +727,7 @@ to comply with subsection (2).
 
 .
 
-(3)[^key-a7bfe0dd79a7cf3968df2f6177b2bdf4] In section 10C (health service functions)—
+(3)[^c-a7bfe0dd79a7cf3968df2f6177b2bdf4] In section 10C (health service functions)—
 
 - (a) after subsection (3), insert—
 
@@ -738,7 +738,7 @@ to comply with subsection (2).
 - (c) in subsection (6), for “and section 10D” insert “ , section 10D, sections 12IP to 12IS and section 12IU, ”,
 - (d) in subsection (7), for “and section 10D” insert “ , section 10D, sections 12IP to 12IS and section 12IU, ”.
 
-(4)[^key-a7bfe0dd79a7cf3968df2f6177b2bdf4] In section 10I(1) (inspections of services provided under the health service)—
+(4)[^c-a7bfe0dd79a7cf3968df2f6177b2bdf4] In section 10I(1) (inspections of services provided under the health service)—
 
 - (a) the word “or” at the end of paragraph (a) is repealed,
 - (b) at the end of paragraph (b), insert
@@ -751,7 +751,7 @@ to comply with subsection (2).
 
 ## PART 3 — Staffing in care services
 
-### 7. Duty on care service providers to ensure appropriate staffing[^key-680cca24ba459a262e6e5d9e2ea32697]
+### 7. Duty on care service providers to ensure appropriate staffing[^c-680cca24ba459a262e6e5d9e2ea32697]
 
 (1) Any person who provides a care service must ensure that at all times suitably qualified and competent individuals are working in the care service in such numbers as are appropriate for—
 
@@ -763,11 +763,11 @@ to comply with subsection (2).
 
 - (a) the nature of the care service,
 - (b) the size of the care service,
-- (c)[^key-8d9570ba986a37e1fca3b0a9883882a3] the aims and objectives of the care service,
+- (c)[^c-8d9570ba986a37e1fca3b0a9883882a3] the aims and objectives of the care service,
 - (d) the number of service users, and
 - (e) the needs of service users.
 
-### 8. Training of staff[^key-0f3bff2dad312aeef90c0a5c455f0df3]
+### 8. Training of staff[^c-0f3bff2dad312aeef90c0a5c455f0df3]
 
 (1) Any person who provides a care service must ensure that individuals working in the care service receive—
 
@@ -776,7 +776,7 @@ to comply with subsection (2).
 
 (2) In subsection (1)(a), “**appropriate training**” includes training in how to use any method for staffing required in regulations by the Scottish Ministers under section 82B(1) of the Public Services Reform (Scotland) Act 2010.
 
-### 9. Annual report on staffing in care services[^key-e5a9eec67d31618a18d66d0802299136]
+### 9. Annual report on staffing in care services[^c-e5a9eec67d31618a18d66d0802299136]
 
 (1) As soon as reasonably practicable after the end of each financial year, the Scottish Ministers must publish, and lay before the Scottish Parliament, a report setting out—
 
@@ -810,11 +810,11 @@ to comply with subsection (2).
 
 ### 10. Ministerial guidance on staffing
 
-(1)[^key-d098ceb3b9a48aafaaee095d6cd49487][^key-8fd8e1c52ea00a3dcac9e1b914096763] Any person who provides a care service must have regard to any guidance issued by the Scottish Ministers about the carrying out of its duties under sections 7 and 8.
+(1)[^c-d098ceb3b9a48aafaaee095d6cd49487][^c-8fd8e1c52ea00a3dcac9e1b914096763] Any person who provides a care service must have regard to any guidance issued by the Scottish Ministers about the carrying out of its duties under sections 7 and 8.
 
-(2)[^key-d098ceb3b9a48aafaaee095d6cd49487][^key-8fd8e1c52ea00a3dcac9e1b914096763] Such guidance may, in particular, include provision about the related duty under section 3(1) to have regard to the guiding principles for health and care staffing.
+(2)[^c-d098ceb3b9a48aafaaee095d6cd49487][^c-8fd8e1c52ea00a3dcac9e1b914096763] Such guidance may, in particular, include provision about the related duty under section 3(1) to have regard to the guiding principles for health and care staffing.
 
-(3)[^key-d098ceb3b9a48aafaaee095d6cd49487][^key-8fd8e1c52ea00a3dcac9e1b914096763] Before issuing such guidance, the Scottish Ministers must consult—
+(3)[^c-d098ceb3b9a48aafaaee095d6cd49487][^c-8fd8e1c52ea00a3dcac9e1b914096763] Before issuing such guidance, the Scottish Ministers must consult—
 
 - (a) SCSWIS,
 - (b) the Scottish Social Services Council,
@@ -823,9 +823,9 @@ to comply with subsection (2).
 - (e) such persons as they consider to be representative of carers (within the meaning of section 1 of the Carers (Scotland) Act 2016), and
 - (f) such other persons as they consider appropriate.
 
-(4)[^key-d6aa74063841d1381175dfb5f2915902] The Scottish Ministers must publish any guidance issued under this section.
+(4)[^c-d6aa74063841d1381175dfb5f2915902] The Scottish Ministers must publish any guidance issued under this section.
 
-### 11. Interpretation of sections 7 to 10[^key-ecbcba9fd8df663584b906e5c7389c09][^key-93133ab6b47a68bc44f0c2d8b1dfaf14]
+### 11. Interpretation of sections 7 to 10[^c-ecbcba9fd8df663584b906e5c7389c09][^c-93133ab6b47a68bc44f0c2d8b1dfaf14]
 
 In sections 7 to 10—
 
@@ -836,7 +836,7 @@ In sections 7 to 10—
   - (a) working for payment or as a volunteer, and
   - (b) working under a contract of service or apprenticeship, a contract for services or otherwise than under a contract.
 
-### 12. Functions of SCSWIS in relation to staffing methods[^key-9efa58a7a4feddf502864df5690cdb18]
+### 12. Functions of SCSWIS in relation to staffing methods[^c-9efa58a7a4feddf502864df5690cdb18]
 
 (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
 
@@ -913,7 +913,7 @@ In sections 7 to 10—
 >
 > (2) SCSWIS may develop and recommend to the Scottish Ministers revised staffing methods for use by persons who provide care services.
 >
-> (3) Subsections (2), (3), (5) , (6)[^key-886d2e8f9baff0fff68b0cee368bf6cf] and (7) of section 82A apply to the redevelopment of staffing methods under this section as they apply to their development under that section.
+> (3) Subsections (2), (3), (5) , (6)[^c-886d2e8f9baff0fff68b0cee368bf6cf] and (7) of section 82A apply to the redevelopment of staffing methods under this section as they apply to their development under that section.
 >
 > (4) The Scottish Ministers may direct SCSWIS to develop a revised staffing method for use in relation to a particular kind of care service specified in the direction.
 >
@@ -944,7 +944,7 @@ In sections 7 to 10—
 
 .
 
-### 13. Care services: consequential amendments[^key-25ea4036a6d47bb2b71cb7a21e8136a5]
+### 13. Care services: consequential amendments[^c-25ea4036a6d47bb2b71cb7a21e8136a5]
 
 (1) In the Public Services Reform (Scotland) Act 2010—
 
@@ -986,102 +986,102 @@ The short title of this Act is the Health and Care (Staffing) (Scotland) Act 201
 
 ## Annotations
 
-[^key-f97dda44e8d6872db758938ebbad13f5]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2019/6/section/1/1) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-f97dda44e8d6872db758938ebbad13f5]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2019/6/section/1/1) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-00feea64774a472db239a9af70c9a7a3]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asp/2019/6/section/1/2) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-00feea64774a472db239a9af70c9a7a3]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asp/2019/6/section/1/2) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-3c5feac796d567773479ff5417784dad]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asp/2019/6/section/1/2) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-3c5feac796d567773479ff5417784dad]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asp/2019/6/section/1/2) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-bb1f8ec0b29edae51f253b6d1f604f87]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-bb1f8ec0b29edae51f253b6d1f604f87]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-5abaad7ec55bf972f61423b02054479f]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.I. 1999/686](https://www.legislation.gov.uk/uksi/1999/686), [art. 5](https://www.legislation.gov.uk/uksi/1999/686/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1999/686/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
+[^c-5abaad7ec55bf972f61423b02054479f]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.I. 1999/686](https://www.legislation.gov.uk/uksi/1999/686), [art. 5](https://www.legislation.gov.uk/uksi/1999/686/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1999/686/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
 
-[^key-8297e268e5ed85db43337a4244c6ce40]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.S.I. 2001/137](https://www.legislation.gov.uk/ssi/2001/137), [art. 5](https://www.legislation.gov.uk/ssi/2001/137/article/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2001/137/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
+[^c-8297e268e5ed85db43337a4244c6ce40]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.S.I. 2001/137](https://www.legislation.gov.uk/ssi/2001/137), [art. 5](https://www.legislation.gov.uk/ssi/2001/137/article/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2001/137/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
 
-[^key-b75b504bc7b4427f10ee3b2ca3bb874f]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.I. 1995/574](https://www.legislation.gov.uk/uksi/1995/574), [art. 5](https://www.legislation.gov.uk/uksi/1995/574/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1995/574/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
+[^c-b75b504bc7b4427f10ee3b2ca3bb874f]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.I. 1995/574](https://www.legislation.gov.uk/uksi/1995/574), [art. 5](https://www.legislation.gov.uk/uksi/1995/574/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1995/574/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
 
-[^key-a4e510cc59a45f90c2e00172251eb56a]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.S.I. 2002/305](https://www.legislation.gov.uk/ssi/2002/305), [art. 5](https://www.legislation.gov.uk/ssi/2002/305/article/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2002/305/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(12)](https://www.legislation.gov.uk/asp/2019/6/section/5/12), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
+[^c-a4e510cc59a45f90c2e00172251eb56a]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2019/6/section/2) applied (1.4.2024) by [S.S.I. 2002/305](https://www.legislation.gov.uk/ssi/2002/305), [art. 5](https://www.legislation.gov.uk/ssi/2002/305/article/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2002/305/schedule/part/2) (as amended by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 5(12)](https://www.legislation.gov.uk/asp/2019/6/section/5/12), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2))
 
-[^key-6f3f6c9c610119805cf20b07b81ff6cd]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/asp/2019/6/section/2/3) inserted (1.5.2024) by [Patient Safety Commissioner for Scotland Act 2023 (asp 6)](https://www.legislation.gov.uk/asp/2023/6), [s. 24(2)](https://www.legislation.gov.uk/asp/2023/6/section/24/2), [sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2023/6/schedule/2/paragraph/6/2); [S.S.I. 2024/110](https://www.legislation.gov.uk/ssi/2024/110), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/110/regulation/2/1)
+[^c-6f3f6c9c610119805cf20b07b81ff6cd]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/asp/2019/6/section/2/3) inserted (1.5.2024) by [Patient Safety Commissioner for Scotland Act 2023 (asp 6)](https://www.legislation.gov.uk/asp/2023/6), [s. 24(2)](https://www.legislation.gov.uk/asp/2023/6/section/24/2), [sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2023/6/schedule/2/paragraph/6/2); [S.S.I. 2024/110](https://www.legislation.gov.uk/ssi/2024/110), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/110/regulation/2/1)
 
-[^key-645836a22c5421988d88c8a554fe9c34]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2019/6/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/3/2)[(5)](https://www.legislation.gov.uk/asp/2019/6/section/3/5)[(6)](https://www.legislation.gov.uk/asp/2019/6/section/3/6) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-645836a22c5421988d88c8a554fe9c34]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2019/6/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/3/2)[(5)](https://www.legislation.gov.uk/asp/2019/6/section/3/5)[(6)](https://www.legislation.gov.uk/asp/2019/6/section/3/6) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-0360882cc9b1cfdc4d46ad5aefe5bcd5]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2019/6/section/3/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/3/4) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-0360882cc9b1cfdc4d46ad5aefe5bcd5]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2019/6/section/3/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/3/4) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-7e22902faa226c50c27d40bf0643b5e3]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2019/6/section/3/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/3/4) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-7e22902faa226c50c27d40bf0643b5e3]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2019/6/section/3/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/3/4) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-1bdb788231036972d902a5d9c2a5d076]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2019/6/section/4/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-1bdb788231036972d902a5d9c2a5d076]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2019/6/section/4/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-0973a93277f15789db3569048b077f21]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2019/6/section/4/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) in force at 6.2.2024 for specified purposes by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/1)
+[^c-0973a93277f15789db3569048b077f21]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2019/6/section/4/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) in force at 6.2.2024 for specified purposes by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/1)
 
-[^key-6b5fd8eeb8c560bde8c3bc8d913be412]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2019/6/section/4/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-6b5fd8eeb8c560bde8c3bc8d913be412]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2019/6/section/4/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-7963b9155ec6eaca7f712145ed8299a6]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) inserted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/2/a)
+[^c-7963b9155ec6eaca7f712145ed8299a6]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) inserted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/2/a)
 
-[^key-c4195dbc16ba4b6505ff1db61045778b]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) substituted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/2/b)
+[^c-c4195dbc16ba4b6505ff1db61045778b]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) substituted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/2/b)
 
-[^key-921c13080cfa8d84bfe0bb6cc424caac]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) substituted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/2/c)
+[^c-921c13080cfa8d84bfe0bb6cc424caac]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2) substituted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/2/c)
 
-[^key-080f4a0b4b18fbe6c92ba4f220b878b3]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/asp/2019/6/section/4/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/4/4) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-080f4a0b4b18fbe6c92ba4f220b878b3]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/asp/2019/6/section/4/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/4/4) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-7065349b1efe7ed31fcf80a64ded89a7]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2019/6/section/5/1)[(2)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/2/a/xi/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-7065349b1efe7ed31fcf80a64ded89a7]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2019/6/section/5/1)[(2)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/2/a/xi/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-8d7afa2623c1083c9f8670a38123641e]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2019/6/section/5/1)[(2)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/2/a/xi/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-8d7afa2623c1083c9f8670a38123641e]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2019/6/section/5/1)[(2)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/2/a/xi/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-e0761b83766ba80137096c8c6cac3d0a]: Commencement: [S. 5(2)(a)(i)-(x)](https://www.legislation.gov.uk/asp/2019/6/section/5/2/a/i) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-e0761b83766ba80137096c8c6cac3d0a]: Commencement: [S. 5(2)(a)(i)-(x)](https://www.legislation.gov.uk/asp/2019/6/section/5/2/a/i) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-aec24d5757e9787e623c0de1fa810552]: Commencement: [S. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-aec24d5757e9787e623c0de1fa810552]: Commencement: [S. 5(3)](https://www.legislation.gov.uk/asp/2019/6/section/5/3) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-75235fc23be89bd61956974bb4af1b37]: Commencement: [S. 5(4)](https://www.legislation.gov.uk/asp/2019/6/section/5/4)[(5)(a)(ix)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/5/a/ix/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-75235fc23be89bd61956974bb4af1b37]: Commencement: [S. 5(4)](https://www.legislation.gov.uk/asp/2019/6/section/5/4)[(5)(a)(ix)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/5/a/ix/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-6bc454515bf49c9d8516e7f45ade58ea]: Commencement: [S. 5(4)](https://www.legislation.gov.uk/asp/2019/6/section/5/4)[(5)(a)(ix)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/5/a/ix/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-6bc454515bf49c9d8516e7f45ade58ea]: Commencement: [S. 5(4)](https://www.legislation.gov.uk/asp/2019/6/section/5/4)[(5)(a)(ix)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/5/a/ix/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-ec5f41d6f96bad406889891535d329e1]: Textual amendment: Words in [s. 5(5)(c)](https://www.legislation.gov.uk/asp/2019/6/section/5/5/c) substituted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/3)
+[^c-ec5f41d6f96bad406889891535d329e1]: Textual amendment: Words in [s. 5(5)(c)](https://www.legislation.gov.uk/asp/2019/6/section/5/5/c) substituted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/3)
 
-[^key-ec3f780ac5a2aa990c07d08118c9a48b]: Commencement: [S. 5(6)](https://www.legislation.gov.uk/asp/2019/6/section/5/6) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-ec3f780ac5a2aa990c07d08118c9a48b]: Commencement: [S. 5(6)](https://www.legislation.gov.uk/asp/2019/6/section/5/6) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-93cf6529e1af8c837afcf112ac98a33e]: Commencement: [S. 5(7)](https://www.legislation.gov.uk/asp/2019/6/section/5/7)[(8)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/8/a/xi/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-93cf6529e1af8c837afcf112ac98a33e]: Commencement: [S. 5(7)](https://www.legislation.gov.uk/asp/2019/6/section/5/7)[(8)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/8/a/xi/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-54788a7203e940d8e13eee2e87be5e32]: Commencement: [S. 5(7)](https://www.legislation.gov.uk/asp/2019/6/section/5/7)[(8)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/8/a/xi/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-54788a7203e940d8e13eee2e87be5e32]: Commencement: [S. 5(7)](https://www.legislation.gov.uk/asp/2019/6/section/5/7)[(8)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/8/a/xi/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-190ad35280f5dcab90e2da8c27e34572]: Commencement: [S. 5(8)(a)(i)-(x)](https://www.legislation.gov.uk/asp/2019/6/section/5/8/a/i) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-190ad35280f5dcab90e2da8c27e34572]: Commencement: [S. 5(8)(a)(i)-(x)](https://www.legislation.gov.uk/asp/2019/6/section/5/8/a/i) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-fb6e54079ca7e236a07b886886753ec7]: Commencement: [S. 5(9)](https://www.legislation.gov.uk/asp/2019/6/section/5/9) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-fb6e54079ca7e236a07b886886753ec7]: Commencement: [S. 5(9)](https://www.legislation.gov.uk/asp/2019/6/section/5/9) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-93778111d1d4c392f1e44f5ea477865d]: Commencement: [S. 5(10)](https://www.legislation.gov.uk/asp/2019/6/section/5/10)[(11)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/11/a/xi/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-93778111d1d4c392f1e44f5ea477865d]: Commencement: [S. 5(10)](https://www.legislation.gov.uk/asp/2019/6/section/5/10)[(11)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/11/a/xi/b) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-1bb1a476e1c6759216ec12f9addfb1d5]: Commencement: [S. 5(10)](https://www.legislation.gov.uk/asp/2019/6/section/5/10)[(11)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/11/a/xi/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-1bb1a476e1c6759216ec12f9addfb1d5]: Commencement: [S. 5(10)](https://www.legislation.gov.uk/asp/2019/6/section/5/10)[(11)(a)(xi)(b)](https://www.legislation.gov.uk/asp/2019/6/section/5/11/a/xi/b) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-7a4247dd7f93ea649374c5123e9fd631]: Commencement: [S. 5(11)(a)(i)-(x)](https://www.legislation.gov.uk/asp/2019/6/section/5/11/a/i) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-7a4247dd7f93ea649374c5123e9fd631]: Commencement: [S. 5(11)(a)(i)-(x)](https://www.legislation.gov.uk/asp/2019/6/section/5/11/a/i) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-22588f29dc3b7f14974d0d36199a2b5a]: Commencement: [S. 5(12)](https://www.legislation.gov.uk/asp/2019/6/section/5/12) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-22588f29dc3b7f14974d0d36199a2b5a]: Commencement: [S. 5(12)](https://www.legislation.gov.uk/asp/2019/6/section/5/12) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-f990c5676e0235dbe394bb3acd71e827]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2019/6/section/6/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/6/2) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-f990c5676e0235dbe394bb3acd71e827]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2019/6/section/6/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/6/2) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-19b63d5a6ba910c479c145173b4b9a5f]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2019/6/section/6/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/6/2) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-19b63d5a6ba910c479c145173b4b9a5f]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2019/6/section/6/1)[(2)](https://www.legislation.gov.uk/asp/2019/6/section/6/2) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-a7bfe0dd79a7cf3968df2f6177b2bdf4]: Commencement: [S. 6(3)](https://www.legislation.gov.uk/asp/2019/6/section/6/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/6/4) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-a7bfe0dd79a7cf3968df2f6177b2bdf4]: Commencement: [S. 6(3)](https://www.legislation.gov.uk/asp/2019/6/section/6/3)[(4)](https://www.legislation.gov.uk/asp/2019/6/section/6/4) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-680cca24ba459a262e6e5d9e2ea32697]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/6/section/7) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-680cca24ba459a262e6e5d9e2ea32697]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/6/section/7) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-8d9570ba986a37e1fca3b0a9883882a3]: Modification: [S. 7(2)(c)](https://www.legislation.gov.uk/asp/2019/6/section/7/2/c) excluded (temp.) (19.11.2025 and 20.11.2025 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
+[^c-8d9570ba986a37e1fca3b0a9883882a3]: Modification: [S. 7(2)(c)](https://www.legislation.gov.uk/asp/2019/6/section/7/2/c) excluded (temp.) (19.11.2025 and 20.11.2025 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
 
-[^key-0f3bff2dad312aeef90c0a5c455f0df3]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/6/section/8) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-0f3bff2dad312aeef90c0a5c455f0df3]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/6/section/8) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-e5a9eec67d31618a18d66d0802299136]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/6/section/9) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-e5a9eec67d31618a18d66d0802299136]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/6/section/9) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-d098ceb3b9a48aafaaee095d6cd49487]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/asp/2019/6/section/10/1) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-d098ceb3b9a48aafaaee095d6cd49487]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/asp/2019/6/section/10/1) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-8fd8e1c52ea00a3dcac9e1b914096763]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/asp/2019/6/section/10/1) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-8fd8e1c52ea00a3dcac9e1b914096763]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/asp/2019/6/section/10/1) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-d6aa74063841d1381175dfb5f2915902]: Commencement: [S. 10(4)](https://www.legislation.gov.uk/asp/2019/6/section/10/4) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-d6aa74063841d1381175dfb5f2915902]: Commencement: [S. 10(4)](https://www.legislation.gov.uk/asp/2019/6/section/10/4) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-ecbcba9fd8df663584b906e5c7389c09]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/6/section/11) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
+[^c-ecbcba9fd8df663584b906e5c7389c09]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/6/section/11) in force at 15.5.2023 for specified purposes by [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule)
 
-[^key-93133ab6b47a68bc44f0c2d8b1dfaf14]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/6/section/11) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-93133ab6b47a68bc44f0c2d8b1dfaf14]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/6/section/11) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-9efa58a7a4feddf502864df5690cdb18]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/6/section/12) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-9efa58a7a4feddf502864df5690cdb18]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/6/section/12) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
-[^key-886d2e8f9baff0fff68b0cee368bf6cf]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2) inserted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4)
+[^c-886d2e8f9baff0fff68b0cee368bf6cf]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2) inserted (12.5.2023) by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4)
 
-[^key-25ea4036a6d47bb2b71cb7a21e8136a5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/6/section/13) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-25ea4036a6d47bb2b71cb7a21e8136a5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/6/section/13) in force at 1.4.2024 by [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)

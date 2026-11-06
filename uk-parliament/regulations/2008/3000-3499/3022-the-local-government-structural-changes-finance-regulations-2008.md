@@ -52,13 +52,13 @@ The Secretary of State, in exercise of the powers conferred by sections 14 and 2
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-a0e629f6ca462325793d5337eb063fbe]
+### 1. Citation and commencement[^c-a0e629f6ca462325793d5337eb063fbe]
 
 (1) These Regulations may be cited as the Local Government (Structural Changes) (Finance) Regulations 2008.
 
 (2) These Regulations shall come into force on 24th December 2008.
 
-### 2. Interpretation[^key-4a329927c1ad8445d7c7798ab09ddd33]
+### 2. Interpretation[^c-4a329927c1ad8445d7c7798ab09ddd33]
 
 In these Regulations—
 
@@ -89,7 +89,7 @@ In these Regulations—
 
 ## PART 2 — RESPONSIBILITY FOR FUNCTIONS
 
-### 3. Responsibility for functions exercised by a shadow council[^key-b64e3eb20b9830d6469bcac697ee47dc]
+### 3. Responsibility for functions exercised by a shadow council[^c-b64e3eb20b9830d6469bcac697ee47dc]
 
 (1) Any function under the 1988 Act which is exercised by a shadow council by virtue of these Regulations shall be the responsibility of the shadow executive.
 
@@ -112,7 +112,7 @@ the actions specified in paragraph (4) shall be the responsibility of the shadow
 - (b) the reconsideration of those estimates in accordance with the authority’s requirements; and
 - (c) the submission for the authority’s consideration of revised estimates.
 
-### 4. Responsibility for functions exercised by a preparing council[^key-aaacd879bcfbbf5d61071f4f24a7a5f7]
+### 4. Responsibility for functions exercised by a preparing council[^c-aaacd879bcfbbf5d61071f4f24a7a5f7]
 
 (1) Any function under the 1988 Act which is exercised by a preparing council by virtue of these Regulations shall be the responsibility of the relevant executive.
 
@@ -142,13 +142,13 @@ the actions specified in paragraph (4) shall be the responsibility of the releva
   - (i) the Implementation Executive during the first transitional period, and
   - (ii) the executive of the preparing council during the second transitional period.
 
-### 5. Procedure for exercise by preparing councils of certain functions relating to council tax[^key-c9a052093e868535a70dc45d57a79f76]
+### 5. Procedure for exercise by preparing councils of certain functions relating to council tax[^c-c9a052093e868535a70dc45d57a79f76]
 
 Schedule 1 (which specifies a procedure for the exercise of certain functions relating to council tax where regulation 4(3) applies) has effect.
 
 ## PART 3 — EXERCISE OF FUNCTIONS UNDER THE LOCAL GOVERNMENT FINANCE ACTS 1988 AND 1992
 
-### 6. Interpretation[^key-52ca18ee265d78d17d489711f1ae428b]
+### 6. Interpretation[^c-52ca18ee265d78d17d489711f1ae428b]
 
 In this Part—
 
@@ -160,7 +160,7 @@ In this Part—
   - (a) in relation to a local rating list, the valuation officer appointed for the authority under section 61(1)(a) of the 1988 Act[^f00009]; and
   - (b) in relation to a valuation list, the listing officer appointed for the authority under section 20(1) of the 1992 Act.
 
-### 7. Certain county councils to be billing authorities[^key-6b50d6dc023294fa445b9a5c59f1700e]
+### 7. Certain county councils to be billing authorities[^c-6b50d6dc023294fa445b9a5c59f1700e]
 
 (1) Paragraph (2) applies where the functions of district councils in relation to any area are transferred to a council for a county consisting of that area otherwise than by way of an order under Chapter 1 of Part 1 of the 2007 Act.
 
@@ -169,7 +169,7 @@ In this Part—
 - (a) shall, for any financial year beginning at the same time as or after that transfer, be a billing authority for the purposes of Part 1 of the 1992 Act in relation to the area;
 - (b) shall not, for any such year, be a major precepting authority[^f00010] for those purposes.
 
-### 8. Exercise of functions[^key-158df1e771fff79f86bd9eca1af7f396]
+### 8. Exercise of functions[^c-158df1e771fff79f86bd9eca1af7f396]
 
 In relation to a reorganised area—
 
@@ -180,7 +180,7 @@ In relation to a reorganised area—
   shall apply in relation to the first year as if the relevant authority were the billing authority for the reorganised area; and
 - (b) on and after the reorganisation date those Parts shall apply in relation to any financial year before the first year as if the single-tier council were the billing authority for that area.
 
-### 9. Continuity of functions[^key-2905457e6f67f658234811d2c3364b7c]
+### 9. Continuity of functions[^c-2905457e6f67f658234811d2c3364b7c]
 
 In relation to a reorganised area, anything done before the reorganisation date—
 
@@ -189,7 +189,7 @@ In relation to a reorganised area, anything done before the reorganisation date�
 
 by or in relation to a billing authority shall on and after that date be treated as if it had been done by or in relation to the single-tier council.
 
-### 10. Relevant lists[^key-2b6ffea1e5a1e09799fe0cfe3bfb7484]
+### 10. Relevant lists[^c-2b6ffea1e5a1e09799fe0cfe3bfb7484]
 
 (1) Subject to regulation 11, on and after the reorganisation date the appropriate lists taken as a whole shall constitute (as the case may be)—
 
@@ -201,7 +201,7 @@ by or in relation to a billing authority shall on and after that date be treated
 - (a) in relation to the single-tier council’s local rating list, is a local rating list insofar as the list shows hereditaments situated in the reorganised area; and
 - (b) in relation to the single-tier council’s valuation list, is a valuation list insofar as the list shows dwellings situated in the reorganised area.
 
-### 11. Amalgamation of relevant lists[^key-e275d62ebbd652505c08c24e3a553eff]
+### 11. Amalgamation of relevant lists[^c-e275d62ebbd652505c08c24e3a553eff]
 
 (1) At any time after the reorganisation date a single-tier council’s relevant officer may amalgamate a relevant list into a single document.
 
@@ -223,7 +223,7 @@ by or in relation to a billing authority shall on and after that date be treated
 
 ### CHAPTER 1 — INTERPRETATION
 
-#### 12. Interpretation[^key-b3f81137ff5d793228cd2611af34cae4]
+#### 12. Interpretation[^c-b3f81137ff5d793228cd2611af34cae4]
 
 (1) In this Part—
 
@@ -252,7 +252,7 @@ by or in relation to a billing authority shall on and after that date be treated
 
 (3) Any calculation of a council tax base by an appropriate authority under this Part for any part of its area must be made in accordance with the Council Tax Base Regulations as modified by paragraphs 11 to 13 of Schedule 2 to these Regulations.
 
-#### 13. Definition of “higher amount”[^key-dd83f9dce823ed1576d0b80cc8743502]
+#### 13. Definition of “higher amount”[^c-dd83f9dce823ed1576d0b80cc8743502]
 
 (1) In this Part, “higher amount”, in relation to a reorganised area and a financial year, means—
 
@@ -279,7 +279,7 @@ where—
 - D is the basic amount of council tax calculated by the authority under regulation 18 for each part of the principal area; and
 - E is the amount calculated by the authority as its council tax base for that part.
 
-#### 14. Definition of “lower amount”[^key-59ffdda06168a589b7f69053d0963a75]
+#### 14. Definition of “lower amount”[^c-59ffdda06168a589b7f69053d0963a75]
 
 (1) In this Part, “lower amount”, in relation to a predecessor area other than the principal area or a part of that area and a financial year (“the relevant year”), means the amount calculated by applying the formula—
 
@@ -313,7 +313,7 @@ where—
 
 ### CHAPTER 2 — EQUALISATION OF COUNCIL TAX: GENERAL
 
-#### 15. Different basic amounts of council tax for the predecessor areas[^key-094783984f350843e2401171fd9ee76f]
+#### 15. Different basic amounts of council tax for the predecessor areas[^c-094783984f350843e2401171fd9ee76f]
 
 (1) In order to equalise more equitably the amounts of council tax payable in respect of dwellings situated in the predecessor areas of a reorganised area—
 
@@ -341,7 +341,7 @@ where—
 - (b) the Council Tax Base Regulations, and
 - (c) the Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992[^f00013].
 
-#### 16. Limitation on council tax requirement[^key-a72654939df851d6e8fdd13cdeaa8950]
+#### 16. Limitation on council tax requirement[^c-a72654939df851d6e8fdd13cdeaa8950]
 
 (1) In relation to a financial year referred to in regulation 15(4), the aggregate of the amounts calculated by applying the formula in paragraph (2) must not be greater than the amount calculated by applying the formula—
 
@@ -363,7 +363,7 @@ where—
 
 ### CHAPTER 3 — CALCULATION OF BASIC AMOUNT OF COUNCIL TAX: PRINCIPAL AREA
 
-#### 17. Calculation of basic amount of council tax for principal area: no special items or special items relating to the whole of the principal area[^key-2b733fcad3529aaca948280773e08eaf]
+#### 17. Calculation of basic amount of council tax for principal area: no special items or special items relating to the whole of the principal area[^c-2b733fcad3529aaca948280773e08eaf]
 
 (1) This regulation applies in relation to the principal area if—
 
@@ -372,7 +372,7 @@ where—
 
 (2) The basic amount of council tax for the area must be more than the uniform amount of council tax.
 
-#### 18. Calculation of basic amount of council tax for principal area: special items relating to part only of the principal area[^key-3b8e946dbf64950525f33e83ac8ca0d1]
+#### 18. Calculation of basic amount of council tax for principal area: special items relating to part only of the principal area[^c-3b8e946dbf64950525f33e83ac8ca0d1]
 
 (1) This regulation applies in relation to the principal area if one or more special items relate to a part only of that area.
 
@@ -385,7 +385,7 @@ where—
 
 ### CHAPTER 4 — CALCULATION OF BASIC AMOUNT OF COUNCIL TAX: PREDECESSOR AREAS OTHER THAN THE PRINCIPAL AREA
 
-#### 19. Calculation of basic amounts of council tax: calculation for predecessor area other than principal area[^key-efc80f9ccf337fcea5532de527a5b7c5]
+#### 19. Calculation of basic amounts of council tax: calculation for predecessor area other than principal area[^c-efc80f9ccf337fcea5532de527a5b7c5]
 
 (1) The appropriate authority’s basic amount of council tax for a predecessor area other than the principal area must be calculated in accordance with—
 
@@ -399,7 +399,7 @@ where—
 - (b) under regulation 21 in such a way that the basic amount of council tax for the area is not more than the higher amount by an amount equal to the aggregate of the special items that relate to the area; or
 - (c) under regulation 22 in such a way that the amount calculated by applying the formula in paragraph (6) of that regulation is less than the higher amount.
 
-#### 20. Calculation for predecessor area other than principal area: no special items relating to the area[^key-54d95d9e1d1931be9a6cf0bcd5424c7e]
+#### 20. Calculation for predecessor area other than principal area: no special items relating to the area[^c-54d95d9e1d1931be9a6cf0bcd5424c7e]
 
 (1) This regulation applies in relation to a predecessor area other than the principal area if no special items relate to any part of that area.
 
@@ -410,7 +410,7 @@ where—
   - (i) less than the higher amount, and
   - (ii) more than the lower amount for the area.
 
-#### 21. Calculation for predecessor area other than principal area: special items relating to the whole of the area[^key-a078b1cc6e57d4491487d27e0c4ac717]
+#### 21. Calculation for predecessor area other than principal area: special items relating to the whole of the area[^c-a078b1cc6e57d4491487d27e0c4ac717]
 
 (1) This regulation applies in relation to a predecessor area other than the principal area if one or more special items relate to the whole of that area.
 
@@ -428,7 +428,7 @@ where—
 - LA is the lower amount for the predecessor area; and
 - M is the aggregate of the special items that relate to that area.
 
-#### 22. Calculation for predecessor area other than principal area: special items relating to part only of the area[^key-d4530287dcbbea6c3c3d9225f0a7f8f1]
+#### 22. Calculation for predecessor area other than principal area: special items relating to part only of the area[^c-d4530287dcbbea6c3c3d9225f0a7f8f1]
 
 (1) This regulation applies in relation to a predecessor area other than the principal area if one or more special items relate to a part only of that area.
 
@@ -483,7 +483,7 @@ Department for Communities and Local Government
 
 Regulation 5
 
-### 1. Application of this Schedule[^key-8bdd48c327f5ba2b952f77aa6ee1e669]
+### 1. Application of this Schedule[^c-8bdd48c327f5ba2b952f77aa6ee1e669]
 
 (1) This Schedule applies where by virtue of regulation 4(3) actions are the responsibility of an Implementation Executive.
 
@@ -491,7 +491,7 @@ Regulation 5
 
 (3) Paragraphs 3 to 7 do not apply in relation to any calculations (whether originally or by way of substitute) made under sections 52I and 52T of the 1992 Act[^f00015].
 
-### 2. Interpretation[^key-d9c6d5ffcb0741c912f61f539b352df7]
+### 2. Interpretation[^c-d9c6d5ffcb0741c912f61f539b352df7]
 
 In this Schedule—
 
@@ -501,7 +501,7 @@ In this Schedule—
   - (c) any of regulations 13, 14, 16 to 18, and 20 to 22 of these Regulations; and
 - “specified period” means the period specified by the authority under paragraph 3(2)(b)(ii).
 
-### 3. Authority’s objections to estimates submitted by the Implementation Executive[^key-272d1ef57aeab2853851870f0ed386bf]
+### 3. Authority’s objections to estimates submitted by the Implementation Executive[^c-272d1ef57aeab2853851870f0ed386bf]
 
 (1) This paragraph applies where—
 
@@ -518,7 +518,7 @@ In this Schedule—
   - (i) in accordance with the authority’s requirements, and
   - (ii) within such period as is specified by the authority, being a period of at least five working days beginning on the day on which the Implementation Executive receives the notification under paragraph (a).
 
-### 4. Reconsideration of estimates by the Implementation Executive[^key-5fda1e900c6794771a45b6d251bd8a54]
+### 4. Reconsideration of estimates by the Implementation Executive[^c-5fda1e900c6794771a45b6d251bd8a54]
 
 Where an Implementation Executive receives a notification under paragraph 3(2), within the specified period it must—
 
@@ -529,14 +529,14 @@ Where an Implementation Executive receives a notification under paragraph 3(2), 
   - (i) any disagreement that the Executive has with any of the authority’s objections, and
   - (ii) the Executive’s reasons for the disagreement.
 
-### 5. Duty of authority to take the Implementation Executive’s response into account[^key-f4ccfc33c1b227c2c54e3a5a1a3d50ac]
+### 5. Duty of authority to take the Implementation Executive’s response into account[^c-f4ccfc33c1b227c2c54e3a5a1a3d50ac]
 
 When making calculations (whether originally or by way of substitute) in accordance with any of the relevant provisions, the authority must take into account—
 
 - (a) any revised estimates submitted in accordance with paragraph 4(a) and the Implementation Executive’s explanation of those estimates; or
 - (b) any disagreement notified in accordance with paragraph 4(b) and the Executive’s reasons for the disagreement.
 
-### 6. Authority’s decision not to use the Implementation Executive’s estimates[^key-dca0ab572144738a4bd03733c83ef32b]
+### 6. Authority’s decision not to use the Implementation Executive’s estimates[^c-dca0ab572144738a4bd03733c83ef32b]
 
 (1) The authority may not use estimates which differ from those submitted by the Implementation Executive unless at least two-thirds of the members of the authority present at a meeting of the authority of which notice has been given as mentioned in sub-paragraph (2) vote in favour of the motion that different estimates be used for the purposes of making a calculation (whether originally or by way of substitute) in accordance with any of the relevant provisions.
 
@@ -548,7 +548,7 @@ Regulation 15(5) and (6)
 
 ### The Local Government Finance Act 1992
 
-#### 1. Section 30 of the Local Government Finance Act 1992[^key-ca4ce3d1bd35ac45932bfb129adbc24a]
+#### 1. Section 30 of the Local Government Finance Act 1992[^c-ca4ce3d1bd35ac45932bfb129adbc24a]
 
 In section 30 (amounts for different categories of dwelling)—
 
@@ -556,15 +556,15 @@ In section 30 (amounts for different categories of dwelling)—
 - (b) in subsection (4), for “32 to 36 below” substitute “32 and 36 below and Part 4 of the 2008 Regulations”; and
 - (c) in subsection (8), at the end insert “and Part 4 of the 2008 Regulations”.
 
-#### 2. Section 33 of the Local Government Finance Act 1992[^key-bb467207c2aa50090dacff22fc8f2647]
+#### 2. Section 33 of the Local Government Finance Act 1992[^c-bb467207c2aa50090dacff22fc8f2647]
 
 In the heading to section 33 (calculation of basic amount of tax) and in subsection (1)[^f00016], for each occurrence of “basic” substitute “uniform”.
 
-#### 3. Section 34 of the Local Government Finance Act 1992[^key-8ecac4f573772919f073289668367e60]
+#### 3. Section 34 of the Local Government Finance Act 1992[^c-8ecac4f573772919f073289668367e60]
 
 Omit section 34 (additional calculations where special items relate to part only of area).
 
-#### 4. Section 36 of the Local Government Finance Act 1992[^key-413aced6871e1ecd34a7337f013e0b55]
+#### 4. Section 36 of the Local Government Finance Act 1992[^c-413aced6871e1ecd34a7337f013e0b55]
 
 In section 36 (calculation of tax for different valuation bands)—
 
@@ -575,7 +575,7 @@ In section 36 (calculation of tax for different valuation bands)—
   ; and
 - (b) in subsection (2), for “section 34 above” substitute “Part 4 of the 2008 Regulations”.
 
-#### 5. Section 37 of the Local Government Finance Act 1992[^key-6b736e3a088629ee4c2f42fda47a6519]
+#### 5. Section 37 of the Local Government Finance Act 1992[^c-6b736e3a088629ee4c2f42fda47a6519]
 
 In section 37 (substitute calculations)—
 
@@ -593,7 +593,7 @@ In section 37 (substitute calculations)—
   ; and
 - (d) in subsection (6), for “32 to 36 above” substitute “32 or 36 above, or Part 4 of the 2008 Regulations”.
 
-#### 6. Section 52I of the Local Government Finance Act 1992[^key-e9a6868c9934b988321c799b778bca7f]
+#### 6. Section 52I of the Local Government Finance Act 1992[^c-e9a6868c9934b988321c799b778bca7f]
 
 In section 52I (duty of a designated billing authority)—
 
@@ -608,7 +608,7 @@ In section 52I (duty of a designated billing authority)—
 
   .
 
-#### 7. Section 52T of the Local Government Finance Act 1992[^key-c131c25cf20ebb7884f906f4389bc7c9]
+#### 7. Section 52T of the Local Government Finance Act 1992[^c-c131c25cf20ebb7884f906f4389bc7c9]
 
 In section 52T (duty of a designated billing authority)—
 
@@ -623,18 +623,18 @@ In section 52T (duty of a designated billing authority)—
 
   .
 
-#### 8. Section 66 of the Local Government Finance Act 1992[^key-a76a21dab09daf8431da50b8df200e2d]
+#### 8. Section 66 of the Local Government Finance Act 1992[^c-a76a21dab09daf8431da50b8df200e2d]
 
 In section 66 (judicial review)—
 
 - (a) in subsection (2)(c)[^f00017], after “above” insert “, or Part 4 of the 2008 Regulations”; and
 - (b) in subsection (2)(d), after “Part” insert “and under Part 4 of the 2008 Regulations”.
 
-#### 9. Section 67 of the Local Government Finance Act 1992[^key-ca7234d3f7d67be882ffc7805c6a9554]
+#### 9. Section 67 of the Local Government Finance Act 1992[^c-ca7234d3f7d67be882ffc7805c6a9554]
 
 In section 67 (functions to be discharged only by authority), omit paragraph (b) of subsection (2A)[^f00018].
 
-#### 10. Section 69 of the Local Government Finance Act 1992[^key-c61af7aba7b1f37e8af8875113f31543]
+#### 10. Section 69 of the Local Government Finance Act 1992[^c-c61af7aba7b1f37e8af8875113f31543]
 
 In section 69 (interpretation), in subsection (1), before the definition of “additional grant” insert—
 
@@ -644,7 +644,7 @@ In section 69 (interpretation), in subsection (1), before the definition of “a
 
 ### The Local Authorities (Calculation of Council Tax Base) Regulations 1992
 
-#### 11. Regulation 1 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^key-25769a3ef7003bc58e9db7088f545761]
+#### 11. Regulation 1 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^c-25769a3ef7003bc58e9db7088f545761]
 
 In regulation 1 (citation, commencement and interpretation), in paragraph (3), before the definition of “a relevant percentage” insert—
 
@@ -653,7 +653,7 @@ In regulation 1 (citation, commencement and interpretation), in paragraph (3), b
 
 .
 
-#### 12. Regulation 6 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^key-14b0d697b19abe0ccdc19f4ac578671c]
+#### 12. Regulation 6 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^c-14b0d697b19abe0ccdc19f4ac578671c]
 
 In regulation 6 (calculation of billing authority’s council tax base for a part of its area)—
 
@@ -663,7 +663,7 @@ In regulation 6 (calculation of billing authority’s council tax base for a par
 - (b) in paragraph 2(d)(ii)(aa), for “amount of item TP in section 34(3)” substitute “tax base for a part of its area”; and
 - (c) in paragraph 2(d)(ii)(bb), for the words from “relevant” to the end substitute “tax base for the part of its area for the year”.
 
-#### 13. Regulation 7 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^key-3ebcbd4b41794bb05ff84e80c4e61e6a]
+#### 13. Regulation 7 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^c-3ebcbd4b41794bb05ff84e80c4e61e6a]
 
 In regulation 7 (calculation of council tax base for the purposes of a major precepting authority), in paragraph (2)—
 
@@ -672,7 +672,7 @@ In regulation 7 (calculation of council tax base for the purposes of a major pre
 
 ### The Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992
 
-#### 14. Regulation 4 of the Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992[^key-4c62dfb617161151044ad5bb2b8de920]
+#### 14. Regulation 4 of the Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992[^c-4c62dfb617161151044ad5bb2b8de920]
 
 In regulation 4 (supply of information to local precepting authorities), in paragraph (2)(a), for “for item TP in section 34(3) of the Act” substitute “as its council tax base”.
 
@@ -712,9 +712,9 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 14(2) provides for subsection (1) to be read with section 15.
 
-[^key-a0e629f6ca462325793d5337eb063fbe]: Commencement: Reg. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-a0e629f6ca462325793d5337eb063fbe]: Commencement: Reg. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-4a329927c1ad8445d7c7798ab09ddd33]: Commencement: Reg. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-4a329927c1ad8445d7c7798ab09ddd33]: Commencement: Reg. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00002]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41).
 
@@ -724,108 +724,108 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00005]: Footnote: The term “billing authority” is defined in section 1(2) of the 1992 Act.
 
-[^key-b64e3eb20b9830d6469bcac697ee47dc]: Commencement: Reg. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-b64e3eb20b9830d6469bcac697ee47dc]: Commencement: Reg. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00006]: Footnote: Sections 52I and 52T were inserted into the 1992 Act by paragraph 1 of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27).
 
-[^key-aaacd879bcfbbf5d61071f4f24a7a5f7]: Commencement: Reg. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-aaacd879bcfbbf5d61071f4f24a7a5f7]: Commencement: Reg. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), to which there are amendments not relevant to these Regulations.
 
-[^key-c9a052093e868535a70dc45d57a79f76]: Commencement: Reg. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-c9a052093e868535a70dc45d57a79f76]: Commencement: Reg. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-52ca18ee265d78d17d489711f1ae428b]: Commencement: Reg. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-52ca18ee265d78d17d489711f1ae428b]: Commencement: Reg. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00008]: Footnote: The term “billing authority” is defined in section 144(2) of the 1988 Act, which section was substituted by paragraph 81 of Schedule 13 to the 1992 Act.
 
 [^f00009]: Footnote: Section 61(1)(a) was amended by paragraph 69 of Schedule 13 to the 1992 Act.
 
-[^key-6b50d6dc023294fa445b9a5c59f1700e]: Commencement: Reg. 7 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-6b50d6dc023294fa445b9a5c59f1700e]: Commencement: Reg. 7 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00010]: Footnote: The term “major precepting authority” is defined in section 39(1) of the 1992 Act.
 
-[^key-158df1e771fff79f86bd9eca1af7f396]: Commencement: Reg. 8 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-158df1e771fff79f86bd9eca1af7f396]: Commencement: Reg. 8 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-2905457e6f67f658234811d2c3364b7c]: Commencement: Reg. 9 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-2905457e6f67f658234811d2c3364b7c]: Commencement: Reg. 9 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-2b6ffea1e5a1e09799fe0cfe3bfb7484]: Commencement: Reg. 10 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-2b6ffea1e5a1e09799fe0cfe3bfb7484]: Commencement: Reg. 10 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-e275d62ebbd652505c08c24e3a553eff]: Commencement: Reg. 11 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-e275d62ebbd652505c08c24e3a553eff]: Commencement: Reg. 11 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-b3f81137ff5d793228cd2611af34cae4]: Commencement: Reg. 12 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-b3f81137ff5d793228cd2611af34cae4]: Commencement: Reg. 12 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 1992/612](https://www.legislation.gov.uk/uksi/1992/612); relevant amending instruments are [S.I. 1992/2943](https://www.legislation.gov.uk/uksi/1992/2943), [1999/3437](https://www.legislation.gov.uk/uksi/1999/3437) and [2003/3012](https://www.legislation.gov.uk/uksi/2003/3012).
 
 [^f00012]: Footnote: Section 33(1) was amended by paragraph 5 of Schedule 12 to the Local Government (Wales) Act 1994, [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2008 by [S.I. 2008/227](https://www.legislation.gov.uk/uksi/2008/227).
 
-[^key-dd83f9dce823ed1576d0b80cc8743502]: Commencement: Reg. 13 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-dd83f9dce823ed1576d0b80cc8743502]: Commencement: Reg. 13 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-59ffdda06168a589b7f69053d0963a75]: Commencement: Reg. 14 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-59ffdda06168a589b7f69053d0963a75]: Commencement: Reg. 14 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-094783984f350843e2401171fd9ee76f]: Commencement: Reg. 15 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-094783984f350843e2401171fd9ee76f]: Commencement: Reg. 15 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 1992/2904](https://www.legislation.gov.uk/uksi/1992/2904), to which there are amendments not relevant to these Regulations.
 
-[^key-a72654939df851d6e8fdd13cdeaa8950]: Commencement: Reg. 16 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-a72654939df851d6e8fdd13cdeaa8950]: Commencement: Reg. 16 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-2b733fcad3529aaca948280773e08eaf]: Commencement: Reg. 17 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-2b733fcad3529aaca948280773e08eaf]: Commencement: Reg. 17 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-3b8e946dbf64950525f33e83ac8ca0d1]: Commencement: Reg. 18 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-3b8e946dbf64950525f33e83ac8ca0d1]: Commencement: Reg. 18 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-efc80f9ccf337fcea5532de527a5b7c5]: Commencement: Reg. 19 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-efc80f9ccf337fcea5532de527a5b7c5]: Commencement: Reg. 19 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-54d95d9e1d1931be9a6cf0bcd5424c7e]: Commencement: Reg. 20 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-54d95d9e1d1931be9a6cf0bcd5424c7e]: Commencement: Reg. 20 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-a078b1cc6e57d4491487d27e0c4ac717]: Commencement: Reg. 21 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-a078b1cc6e57d4491487d27e0c4ac717]: Commencement: Reg. 21 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-d4530287dcbbea6c3c3d9225f0a7f8f1]: Commencement: Reg. 22 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-d4530287dcbbea6c3c3d9225f0a7f8f1]: Commencement: Reg. 22 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-8bdd48c327f5ba2b952f77aa6ee1e669]: Commencement: Sch. 1 para. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-8bdd48c327f5ba2b952f77aa6ee1e669]: Commencement: Sch. 1 para. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), to which there are amendments not relevant to these Regulations.
 
 [^f00015]: Footnote: Sections 52I and 52T were inserted into the 1992 Act by paragraph 1 of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27).
 
-[^key-d9c6d5ffcb0741c912f61f539b352df7]: Commencement: Sch. 1 para. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-d9c6d5ffcb0741c912f61f539b352df7]: Commencement: Sch. 1 para. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-272d1ef57aeab2853851870f0ed386bf]: Commencement: Sch. 1 para. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-272d1ef57aeab2853851870f0ed386bf]: Commencement: Sch. 1 para. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-5fda1e900c6794771a45b6d251bd8a54]: Commencement: Sch. 1 para. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-5fda1e900c6794771a45b6d251bd8a54]: Commencement: Sch. 1 para. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-f4ccfc33c1b227c2c54e3a5a1a3d50ac]: Commencement: Sch. 1 para. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-f4ccfc33c1b227c2c54e3a5a1a3d50ac]: Commencement: Sch. 1 para. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-dca0ab572144738a4bd03733c83ef32b]: Commencement: Sch. 1 para. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-dca0ab572144738a4bd03733c83ef32b]: Commencement: Sch. 1 para. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-ca4ce3d1bd35ac45932bfb129adbc24a]: Commencement: Sch. 2 para. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-ca4ce3d1bd35ac45932bfb129adbc24a]: Commencement: Sch. 2 para. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-bb467207c2aa50090dacff22fc8f2647]: Commencement: Sch. 2 para. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-bb467207c2aa50090dacff22fc8f2647]: Commencement: Sch. 2 para. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00016]: Footnote: Section 33(1) was amended by paragraph 5 of Schedule 12 to the Local Government (Wales) Act 1994, [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2008 by [S.I. 2008/227](https://www.legislation.gov.uk/uksi/2008/227).
 
-[^key-8ecac4f573772919f073289668367e60]: Commencement: Sch. 2 para. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-8ecac4f573772919f073289668367e60]: Commencement: Sch. 2 para. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-413aced6871e1ecd34a7337f013e0b55]: Commencement: Sch. 2 para. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-413aced6871e1ecd34a7337f013e0b55]: Commencement: Sch. 2 para. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-6b736e3a088629ee4c2f42fda47a6519]: Commencement: Sch. 2 para. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-6b736e3a088629ee4c2f42fda47a6519]: Commencement: Sch. 2 para. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-e9a6868c9934b988321c799b778bca7f]: Commencement: Sch. 2 para. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-e9a6868c9934b988321c799b778bca7f]: Commencement: Sch. 2 para. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-c131c25cf20ebb7884f906f4389bc7c9]: Commencement: Sch. 2 para. 7 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-c131c25cf20ebb7884f906f4389bc7c9]: Commencement: Sch. 2 para. 7 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-a76a21dab09daf8431da50b8df200e2d]: Commencement: Sch. 2 para. 8 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-a76a21dab09daf8431da50b8df200e2d]: Commencement: Sch. 2 para. 8 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00017]: Footnote: Section 66(2)(c) was amended by paragraph 6 of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27).
 
-[^key-ca7234d3f7d67be882ffc7805c6a9554]: Commencement: Sch. 2 para. 9 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-ca7234d3f7d67be882ffc7805c6a9554]: Commencement: Sch. 2 para. 9 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00018]: Footnote: Section 67(2A) was inserted by section 84 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-c61af7aba7b1f37e8af8875113f31543]: Commencement: Sch. 2 para. 10 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-c61af7aba7b1f37e8af8875113f31543]: Commencement: Sch. 2 para. 10 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-25769a3ef7003bc58e9db7088f545761]: Commencement: Sch. 2 para. 11 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-25769a3ef7003bc58e9db7088f545761]: Commencement: Sch. 2 para. 11 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-14b0d697b19abe0ccdc19f4ac578671c]: Commencement: Sch. 2 para. 12 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-14b0d697b19abe0ccdc19f4ac578671c]: Commencement: Sch. 2 para. 12 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-3ebcbd4b41794bb05ff84e80c4e61e6a]: Commencement: Sch. 2 para. 13 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-3ebcbd4b41794bb05ff84e80c4e61e6a]: Commencement: Sch. 2 para. 13 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^key-4c62dfb617161151044ad5bb2b8de920]: Commencement: Sch. 2 para. 14 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-4c62dfb617161151044ad5bb2b8de920]: Commencement: Sch. 2 para. 14 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)

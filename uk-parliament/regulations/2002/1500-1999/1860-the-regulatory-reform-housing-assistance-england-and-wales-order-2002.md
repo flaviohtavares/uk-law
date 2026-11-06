@@ -59,9 +59,9 @@ Whereas:
 - (g) the Secretaries of State have laid with a draft of this Order a statement giving details of the matters specified in section 8(5) of the Regulatory Reform Act 2001; and
 - (h) the Secretaries of State have secured the agreement of the National Assembly for Wales to the making of this Order (which includes provision removing or modifying functions of the Assembly):
 
-Now, therefore, the Secretary of State for Transport, Local Government and the Regions, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred by section 1 of the Regulatory Reform Act 2001, with the agreement of the National Assembly for Wales, hereby make the following Order, of which a draft has been laid before, and approved by resolution of, each House of Parliament:[^key-2bce72584777488c8778fcc3fa4a6952]
+Now, therefore, the Secretary of State for Transport, Local Government and the Regions, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred by section 1 of the Regulatory Reform Act 2001, with the agreement of the National Assembly for Wales, hereby make the following Order, of which a draft has been laid before, and approved by resolution of, each House of Parliament:[^c-2bce72584777488c8778fcc3fa4a6952]
 
-## 1. Citation and commencement[^key-bcac1d8becc60c646c988ca2574f25a3]
+## 1. Citation and commencement[^c-bcac1d8becc60c646c988ca2574f25a3]
 
 (1) This Order may be cited as the Regulatory Reform (Housing Assistance) (England and Wales) Order 2002.
 
@@ -87,7 +87,7 @@ Now, therefore, the Secretary of State for Transport, Local Government and the R
 
 shall come into force on the day that falls 12 months after the day on which this Order is made.
 
-## 2. Interpretation[^key-1ab18e608c7f916c9c738e8c1a1c328c]
+## 2. Interpretation[^c-1ab18e608c7f916c9c738e8c1a1c328c]
 
 In this Order, unless the context otherwise requires—
 
@@ -107,7 +107,7 @@ In this Order, unless the context otherwise requires—
   occupied or available for occupation for residential purposes (whether, in the case of a building or part of a building, in single or multiple units); and includes any yard, garden, outhouses and appurtenances belonging to the building or, as the case may be, the caravan, or the boat or similar structure, or usually enjoyed with it;
 - “local housing authority” means a district council, a London borough council, the Common Council of the City of London, a Welsh county council or county borough council, or the Council of the Isles of Scilly.
 
-## 3. Power of local housing authorities to provide assistance[^key-680ad903e23cbd0509c137a075b84c5c]
+## 3. Power of local housing authorities to provide assistance[^c-680ad903e23cbd0509c137a075b84c5c]
 
 (1) For the purpose of improving living conditions in their area, a local housing authority may provide, directly or indirectly, assistance to any person for the purpose of enabling him—
 
@@ -139,7 +139,7 @@ In this Order, unless the context otherwise requires—
 
 (9) Nothing in this article affects any power of a local housing authority under Part 14 of the 1985 Act (loans for acquisition or improvement of housing).
 
-## 4. Provision of assistance: supplementary[^key-305ba7064b1e436f496fc705cab559a2]
+## 4. Provision of assistance: supplementary[^c-305ba7064b1e436f496fc705cab559a2]
 
 A local housing authority may not exercise the power conferred by article 3 in any case unless—
 
@@ -150,7 +150,7 @@ A local housing authority may not exercise the power conferred by article 3 in a
   - (ii) copies of a document containing a summary of the policy may be obtained by post (on payment, where a reasonable charge is made, of the amount of the charge); and
 - (d) the power is exercised in that case in accordance with that policy.
 
-## 5. Protective provisions[^key-2964bf83a1f06a50ecd1e8cd0724b421]
+## 5. Protective provisions[^c-2964bf83a1f06a50ecd1e8cd0724b421]
 
 (1) A local housing authority may not provide assistance for a purpose specified in article 3(1)(b), (c) or (d) unless they are satisfied that the owner of the living accommodation concerned has consented to the carrying out of the assisted work.
 
@@ -171,7 +171,7 @@ A local housing authority may not exercise the power conferred by article 3 in a
 
 (7) A local housing authority shall not vary or revoke any condition to which assistance is subject except on the application or with the consent of the person to whom the assistance was provided.
 
-## 6. Provision of information and evidence[^key-06eff81346a554639eb92ef9782f0a23]
+## 6. Provision of information and evidence[^c-06eff81346a554639eb92ef9782f0a23]
 
 A local housing authority may require a person—
 
@@ -180,7 +180,7 @@ A local housing authority may require a person—
 
 to give to them, within such period as they may reasonably specify, such information or evidence (including information or evidence relating to his financial circumstances) as the authority may reasonably require for the purposes of, or purposes connected with, the exercise of their powers under article 3.
 
-## 7. Contributions towards expenditure of local housing authorities[^key-c6646b7fe0dafd191f167f1ecee2af2b]
+## 7. Contributions towards expenditure of local housing authorities[^c-c6646b7fe0dafd191f167f1ecee2af2b]
 
 (1) Contributions towards expenditure incurred by a local housing authority in providing assistance may be paid by the appropriate Minister.
 
@@ -195,7 +195,7 @@ to give to them, within such period as they may reasonably specify, such informa
 
 (5) Where the appropriate Minister is the Secretary of State, the consent of the Treasury is required before any determination is made under paragraph (2) or any conditions are imposed under paragraph (4).
 
-## 8. Recovery of contributions[^key-3e1d343ed7f8f3c5d80b167f62141bc9]
+## 8. Recovery of contributions[^c-3e1d343ed7f8f3c5d80b167f62141bc9]
 
 (1) Where the appropriate Minister has paid contributions under article 7 to a local housing authority, he may recover from the authority such amount as he determines to be appropriate in respect of repayments of assistance.
 
@@ -208,11 +208,11 @@ together with an appropriate percentage of any interest received by the authorit
 
 (3) The question what steps it would have been reasonable for the authority to take shall be determined by the appropriate Minister.
 
-## 9. Amendments consequential on article 3[^key-1a8d4318e5b0ed6c7b7b323fa7d88679]
+## 9. Amendments consequential on article 3[^c-1a8d4318e5b0ed6c7b7b323fa7d88679]
 
 Schedule 1, which makes amendments consequential on article 3, shall have effect.
 
-## 10. Amendment of section 435 of the 1985 Act and consequential provision[^key-4be8b02b8ca8f3793948297d047724a9]
+## 10. Amendment of section 435 of the 1985 Act and consequential provision[^c-4be8b02b8ca8f3793948297d047724a9]
 
 (1) Section 435 of the 1985 Act (power of local authorities to advance money) is amended in accordance with Part 1 of Schedule 2.
 
@@ -220,7 +220,7 @@ Schedule 1, which makes amendments consequential on article 3, shall have effect
 
 (3) Nothing in paragraph (1) or (2) affects advances made by a local authority under section 435(1)(d) of the 1985 Act (advances for altering, enlarging, repairing or improving houses or for facilitating repayment of previous loans) before the date on which this article comes into force.
 
-## 11. Amendment of the 1996 Act[^key-bbff4895040450461743be909a91ff56]
+## 11. Amendment of the 1996 Act[^c-bbff4895040450461743be909a91ff56]
 
 (1) The 1996 Act is amended in accordance with Schedule 3.
 
@@ -229,11 +229,11 @@ Schedule 1, which makes amendments consequential on article 3, shall have effect
 - (a) applications approved under Chapter 1 of Part 1 of the 1996 Act (the main grants) or Chapter 3 of that Part (home repair assistance) before the date on which this article comes into force; or
 - (b) schemes under Chapter 2 of that Part (group repair schemes) in respect of which the date of approval[^f00012] is before the date on which this article comes into force.
 
-## 12. Other consequential amendments[^key-1d8bbb02eece329154f7094e248c43fc]
+## 12. Other consequential amendments[^c-1d8bbb02eece329154f7094e248c43fc]
 
 Schedule 4, which amends enactments in consequence of article 11, has effect.
 
-## 13. Amendment of section 93 of the 1989 Act[^key-8985e347a8271c8454e02df0137574c7]
+## 13. Amendment of section 93 of the 1989 Act[^c-8985e347a8271c8454e02df0137574c7]
 
 (1) Section 93 of the 1989 Act (general powers of local housing authority) is amended as follows.
 
@@ -243,13 +243,13 @@ Schedule 4, which amends enactments in consequence of article 11, has effect.
 
 (4) Nothing in paragraph (1) affects the provision of assistance under section 93 of the 1989 Act in a case in which an agreement to provide that assistance was entered into before the date on which this article comes into force.
 
-## 14. Amendment of Part 7 of the 1989 Act[^key-926def70ac4452576377de17994da80b]
+## 14. Amendment of Part 7 of the 1989 Act[^c-926def70ac4452576377de17994da80b]
 
 (1) Part 7 of the 1989 Act (renewal areas) is amended in accordance with Schedule 5.
 
 (2) Paragraph (1) does not apply in relation to renewal areas declared before the date on which this article comes into force.
 
-## 15. Repeals[^key-857e393235636446b8b103bbddec3278][^key-92ed78ed6744e32867e7f1ea557a9831]
+## 15. Repeals[^c-857e393235636446b8b103bbddec3278][^c-92ed78ed6744e32867e7f1ea557a9831]
 
 (1) The enactments specified in Schedule 6 are repealed to the extent specified.
 
@@ -282,7 +282,7 @@ Secretary of State for Wales
 
 article 9
 
-### 1. Rent Act 1977[^key-4fc716d9480782db00242b59efe1c13d]
+### 1. Rent Act 1977[^c-4fc716d9480782db00242b59efe1c13d]
 
 (1) Section 116 of the Rent Act 1977 (consent of tenant)[^f00013], is amended in accordance with sub-paragraphs (2) to (4) below.
 
@@ -296,11 +296,11 @@ article 9
 
 .
 
-### 2. Landlord and Tenant Act 1985[^key-cd9670d914d021693d02a2bbef8872b4]
+### 2. Landlord and Tenant Act 1985[^c-cd9670d914d021693d02a2bbef8872b4]
 
 In section 20A of the Landlord and Tenant Act 1985 (limitation of service charges: grant-aided works)[^f00014], in subsection (1), after “earlier enactment”, insert “or article 3 of the Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (power of local housing authorities to provide assistance)”.
 
-### 3. Local Government Act 1988[^key-76e325fdd856ab159b1fcffb7f98132c]
+### 3. Local Government Act 1988[^c-76e325fdd856ab159b1fcffb7f98132c]
 
 In section 25 of the Local Government Act 1988 (consent required for provision of financial assistance etc)[^f00015], in subsection (2)(f), at the end of sub-paragraph (iii) insert—
 
@@ -316,11 +316,11 @@ article 10
 
 ### PART 1 — AMENDMENT OF SECTION 435 OF THE HOUSING ACT 1985
 
-**1.**[^key-c670af04cf349d113a7a63cf4ff1669f] Section 435 of the Housing Act 1985 (power of local authorities to advance money) is amended in accordance with paragraphs 2 and 3 below.
+**1.**[^c-c670af04cf349d113a7a63cf4ff1669f] Section 435 of the Housing Act 1985 (power of local authorities to advance money) is amended in accordance with paragraphs 2 and 3 below.
 
-**2.**[^key-1a3b458d3665f4df05cd8b67030588b2] In subsection (1), omit paragraph (d) and the word “or” immediately preceding that paragraph.
+**2.**[^c-1a3b458d3665f4df05cd8b67030588b2] In subsection (1), omit paragraph (d) and the word “or” immediately preceding that paragraph.
 
-**3.**[^key-a49e16431200fd4f1ac4b27d11e5683e] After subsection (1), insert the following subsection—
+**3.**[^c-a49e16431200fd4f1ac4b27d11e5683e] After subsection (1), insert the following subsection—
 
 > (1A) A local authority which is not a local housing authority may advance money to a person—
 >
@@ -331,7 +331,7 @@ article 10
 
 ### PART 2 — AMENDMENT OF SECTION 435: CONSEQUENTIAL AMENDMENTS TO 1985 ACT
 
-**4.**[^key-9eb3f7393d790e9e45261004f77ce403] (1) The 1985 Act is amended in accordance with sub-paragraphs (2) to (4) below.
+**4.**[^c-9eb3f7393d790e9e45261004f77ce403] (1) The 1985 Act is amended in accordance with sub-paragraphs (2) to (4) below.
 
 (2) In section 436 (terms of advance), in subsection (4), for “section 435(1)(b) to (d)” substitute “section 435(1)(b) and (c) and (1A)”.
 
@@ -356,9 +356,9 @@ article 10
 
 article 11
 
-**1.**[^key-736843d411c1d628f2e38ce05c863b6f] In Part 1 of the 1996 Act, Chapter 1 (the main grants) is amended in accordance with paragraphs 2 to 26 below.
+**1.**[^c-736843d411c1d628f2e38ce05c863b6f] In Part 1 of the 1996 Act, Chapter 1 (the main grants) is amended in accordance with paragraphs 2 to 26 below.
 
-**2.**[^key-f46e0b33f1d398e06cbf3ba373e4e370] In section 1 (grants for improvements and repairs, &c.)—
+**2.**[^c-f46e0b33f1d398e06cbf3ba373e4e370] In section 1 (grants for improvements and repairs, &c.)—
 
 - (a) in subsection (1)—
   - (i) omit paragraphs (a) and (b) (and the word “and” at the end of paragraph (b)); and
@@ -371,9 +371,9 @@ article 11
 - (b) omit subsections (2) to (5); and
 - (c) in subsection (6), for the words from “, without more” to the end, substitute “means a grant under subsection (1) above”.
 
-**3.**[^key-0c76dfdebd21b463cae5ede19642466d] Sections 4 to 18 shall cease to have effect.
+**3.**[^c-0c76dfdebd21b463cae5ede19642466d] Sections 4 to 18 shall cease to have effect.
 
-**4.**[^key-cf357a2dd964ffbd792bc9f81c1ce87b] (1) Section 19 (disabled facilities grants: owner’s and tenant’s applications) is amended in accordance with sub-paragraphs (2) to (4) below.
+**4.**[^c-cf357a2dd964ffbd792bc9f81c1ce87b] (1) Section 19 (disabled facilities grants: owner’s and tenant’s applications) is amended in accordance with sub-paragraphs (2) to (4) below.
 
 (2) In subsection (1)—
 
@@ -393,7 +393,7 @@ article 11
 
 (4) In subsections (4) and (5), omit “disabled facilities” (in each place where those words appear).
 
-**5.**[^key-611b60e7a8d1ea8c36edf49eb2b5c85a] In the following provisions—
+**5.**[^c-611b60e7a8d1ea8c36edf49eb2b5c85a] In the following provisions—
 
 - (a) section 20 (disabled facilities grants: the disabled occupant),
 - (b) section 21 (disabled facilities grants: certificate required in case of owner’s application),
@@ -401,7 +401,7 @@ article 11
 
 omit “disabled facilities” (in each place where those words appear).
 
-**6.**[^key-b1c7e90b9b106af181f6f81dca42f513] After section 22 insert the following section—
+**6.**[^c-b1c7e90b9b106af181f6f81dca42f513] After section 22 insert the following section—
 
 > **Certificates required in case of occupier’s application**
 >
@@ -421,7 +421,7 @@ omit “disabled facilities” (in each place where those words appear).
 
 .
 
-**7.**[^key-fd2849f3d1d2b958ee674dfe7bf281db] In section 23 (disabled facilities grants: purposes for which grant must or may be given)—
+**7.**[^c-fd2849f3d1d2b958ee674dfe7bf281db] In section 23 (disabled facilities grants: purposes for which grant must or may be given)—
 
 - (a) in subsection (1)—
   - (i) omit “disabled facilities”;
@@ -443,7 +443,7 @@ omit “disabled facilities” (in each place where those words appear).
 - (b) omit subsection (2); and
 - (c) in subsection (3), omit “or the purpose mentioned in subsection (2)”.
 
-**8.**[^key-cd255eea6f8eb2a4e4b13a91dac4b98a] In section 24 (disabled facilities grants: approval of application)—
+**8.**[^c-cd255eea6f8eb2a4e4b13a91dac4b98a] In section 24 (disabled facilities grants: approval of application)—
 
 - (a) for subsection (1), substitute the following subsection—
 
@@ -458,9 +458,9 @@ omit “disabled facilities” (in each place where those words appear).
   ; and
 - (c) omit “disabled facilities” (in each place where those words appear).
 
-**9.**[^key-31f3827a4472681e3cea8e8189264d3b] Sections 25 to 28 shall cease to have effect.
+**9.**[^c-31f3827a4472681e3cea8e8189264d3b] Sections 25 to 28 shall cease to have effect.
 
-**10.**[^key-f53f1b83abcfd8d5e74a49998d73557d] In section 29 (restriction on grants for works already begun)—
+**10.**[^c-f53f1b83abcfd8d5e74a49998d73557d] In section 29 (restriction on grants for works already begun)—
 
 - (a) in subsection (3)—
   - (i) after “dwelling”, insert “, qualifying houseboat, qualifying park home or”; and
@@ -468,13 +468,13 @@ omit “disabled facilities” (in each place where those words appear).
 - (b) in subsection (4), omit “Subject as follows,”; and
 - (c) omit subsections (5) and (6).
 
-**11.**[^key-c73ae9cca90af32901b6dd9db281c52f] In section 30 (means testing in case of application by owner-occupier or tenant)—
+**11.**[^c-c73ae9cca90af32901b6dd9db281c52f] In section 30 (means testing in case of application by owner-occupier or tenant)—
 
 - (a) omit subsections (1) to (3);
 - (b) in subsection (4), omit “disabled facilities”; and
 - (c) in subsection (5), omit “(3) or”.
 
-**12.**[^key-9c41863f4eff8378bed43fdba028e283] In section 31 (determination of amount of grant in case of landlord’s application)—
+**12.**[^c-9c41863f4eff8378bed43fdba028e283] In section 31 (determination of amount of grant in case of landlord’s application)—
 
 - (a) for subsection (1), substitute the following subsection—
 
@@ -483,17 +483,17 @@ omit “disabled facilities” (in each place where those words appear).
   ; and
 - (b) omit subsection (2).
 
-**13.**[^key-5179e1a26a84d09f7807d96bffb4be7b] Section 32 shall cease to have effect.
+**13.**[^c-5179e1a26a84d09f7807d96bffb4be7b] Section 32 shall cease to have effect.
 
-**14.**[^key-8243458b241af9c471a61573d3741d8b] In section 33 (power to specify maximum amount of grant)—
+**14.**[^c-8243458b241af9c471a61573d3741d8b] In section 33 (power to specify maximum amount of grant)—
 
 - (a) in subsection (2) omit “different types of grant, or for the same type of grant in”;
 - (b) omit subsection (3); and
 - (c) in subsection (4) omit “, except as mentioned in subsection (3),”.
 
-**15.**[^key-4a68c141176bc6a7637ee31b3c491251] In section 36 (delayed payment of mandatory grant), in subsection (1), for the words from the beginning to “do so”, substitute “The local housing authority may approve an application for a grant”.
+**15.**[^c-4a68c141176bc6a7637ee31b3c491251] In section 36 (delayed payment of mandatory grant), in subsection (1), for the words from the beginning to “do so”, substitute “The local housing authority may approve an application for a grant”.
 
-**16.**[^key-4743af30311c772f56a2f776d3302385] In section 40 (applicant ceasing to be entitled before payment of grant)—
+**16.**[^c-4743af30311c772f56a2f776d3302385] In section 40 (applicant ceasing to be entitled before payment of grant)—
 
 - (a) in subsection (1), omit “of that description”;
 - (b) in subsection (2), for paragraphs (a) and (b) and the word “and” immediately following paragraph (b), substitute—
@@ -506,12 +506,12 @@ omit “disabled facilities” (in each place where those words appear).
 - (d) in subsection (4), omit “disabled facilities”; and
 - (e) omit subsections (5) and (6).
 
-**17.**[^key-02add6fb636ca9d45d58703a7e2ab5f6] In section 41 (change of circumstances affecting disabled occupant), in subsection (1)—
+**17.**[^c-02add6fb636ca9d45d58703a7e2ab5f6] In section 41 (change of circumstances affecting disabled occupant), in subsection (1)—
 
 - (a) omit “disabled facilities”; and
 - (b) in paragraph (b), after “dwelling” insert “, qualifying houseboat, qualifying park home”.
 
-**18.**[^key-6a9fe4ab817261f04f1da87539e9241f] In section 43 (repayment where applicant not entitled to grant)—
+**18.**[^c-6a9fe4ab817261f04f1da87539e9241f] In section 43 (repayment where applicant not entitled to grant)—
 
 - (a) in subsection (1), omit “of that description”;
 - (b) in subsection (2), for paragraphs (a) and (b) and the word “and” immediately following paragraph (b), substitute—
@@ -532,7 +532,7 @@ omit “disabled facilities” (in each place where those words appear).
     ; and
 - (e) omit subsections (5) and (6).
 
-**19.**[^key-56eead7cb2feb5f0bb85f252032bec23] In section 44 (grant conditions: introductory)—
+**19.**[^c-56eead7cb2feb5f0bb85f252032bec23] In section 44 (grant conditions: introductory)—
 
 - (a) in subsection (1)—
   - (i) for “The following sections”, substitute “Sections 51 and 52”; and
@@ -540,22 +540,22 @@ omit “disabled facilities” (in each place where those words appear).
 - (b) in subsection (2), omit paragraphs (a) and (b) and the word “and” at the end of paragraph (b); and
 - (c) in subsection (4), for “the following sections”, substitute “sections 51 and 52”.
 
-**20.**[^key-98d55465fb552871dcc8e502cd63da1e] Sections 45 to 50 shall cease to have effect.
+**20.**[^c-98d55465fb552871dcc8e502cd63da1e] Sections 45 to 50 shall cease to have effect.
 
-**21.**[^key-67678ffd85734e90036ee5b35061b37e] In section 52 (power to impose other conditions with consent of Secretary of State)—
+**21.**[^c-67678ffd85734e90036ee5b35061b37e] In section 52 (power to impose other conditions with consent of Secretary of State)—
 
 - (a) in subsection (2), in paragraph (a), omit “, house”;
 - (b) omit subsection (3); and
 - (c) in subsection (5), for “sections 45 to 51”, substitute “section 51”.
 
-**22.**[^key-a008995e75395787eac1fc9fbf9f2b4e] Sections 53 and 54 shall cease to have effect.
+**22.**[^c-a008995e75395787eac1fc9fbf9f2b4e] Sections 53 and 54 shall cease to have effect.
 
-**23.**[^key-a0e958ad08d1b9170360289af04aadb1] In section 55 (cessation of conditions on repayment of grant, &c.)—
+**23.**[^c-a0e958ad08d1b9170360289af04aadb1] In section 55 (cessation of conditions on repayment of grant, &c.)—
 
 - (a) in subsection (1), omit “, house” (in each place where that word appears); and
 - (b) omit subsection (2).
 
-**24.**[^key-70228aff8c43a88de56527e95a451df7] In section 57 (power of local housing authority to carry out works which would attract grant)—
+**24.**[^c-70228aff8c43a88de56527e95a451df7] In section 57 (power of local housing authority to carry out works which would attract grant)—
 
 - (a) for subsection (2), substitute the following subsection—
 
@@ -569,7 +569,7 @@ omit “disabled facilities” (in each place where those words appear).
   ; and
 - (b) omit subsection (3).
 
-**25.**[^key-9d0fffe2c3c6396b8ca1a3054ab81231] In section 58 (minor definitions: Chapter 1)—
+**25.**[^c-9d0fffe2c3c6396b8ca1a3054ab81231] In section 58 (minor definitions: Chapter 1)—
 
 - (a) in the definition of “common parts application”, omit “disabled facilities”;
 - (b) omit the definition of “conversion application”; and
@@ -593,7 +593,7 @@ omit “disabled facilities” (in each place where those words appear).
 
   [^f00017].
 
-**26.**[^key-b2b1c2a1c1f4919ac1cf85732e49cf81] In section 59 (index of defined expressions: Chapter 1)—
+**26.**[^c-b2b1c2a1c1f4919ac1cf85732e49cf81] In section 59 (index of defined expressions: Chapter 1)—
 
 - (a) omit the entries (both columns) relating to the following expressions—
   - “certificate of future occupation (in relation to an application for an HMO grant)”
@@ -674,24 +674,24 @@ omit “disabled facilities” (in each place where those words appear).
   | “qualifying houseboat | section 58” |
   | “qualifying park home | section 58”. |
 
-**27.**[^key-0ae0c733e08e5fb9b52fb9a1451d62d6] In Part 1 of the 1996 Act, omit Chapters 2 (group repair schemes) and 3 (home repair assistance).
+**27.**[^c-0ae0c733e08e5fb9b52fb9a1451d62d6] In Part 1 of the 1996 Act, omit Chapters 2 (group repair schemes) and 3 (home repair assistance).
 
-**28.**[^key-ec680e6b682dbe3b306b4700fcf3f92e] In Part 1 of the 1996 Act, Chapter 5 (supplementary provisions) is amended in accordance with paragraphs 29 to 35 below.
+**28.**[^c-ec680e6b682dbe3b306b4700fcf3f92e] In Part 1 of the 1996 Act, Chapter 5 (supplementary provisions) is amended in accordance with paragraphs 29 to 35 below.
 
-**29.**[^key-f7981c0d08ab4269beaa6c1aacf71c2c] In section 93 (recovery of contributions), omit subsection (2).
+**29.**[^c-f7981c0d08ab4269beaa6c1aacf71c2c] In section 93 (recovery of contributions), omit subsection (2).
 
-**30.**[^key-87ce521436f9c82339d9f0d578d335ac] In section 94 (consent of the Secretary of State), omit paragraph (a) and the word “or” at the end of that paragraph.
+**30.**[^c-87ce521436f9c82339d9f0d578d335ac] In section 94 (consent of the Secretary of State), omit paragraph (a) and the word “or” at the end of that paragraph.
 
-**31.**[^key-aa695001cd435b26c8d1fc7bbd0473bd] In section 95 (parsonages, charities, &c.)—
+**31.**[^c-aa695001cd435b26c8d1fc7bbd0473bd] In section 95 (parsonages, charities, &c.)—
 
 - (a) in subsection (1), for the words from the beginning to “below”, substitute “Sections 19 and 21 to 22A (conditions for application for grant)”; and
 - (b) omit subsections (2), (4) and (5).
 
-**32.**[^key-0cf0e71f54ca2c97c10c6725498fb034] Section 96 shall cease to have effect.
+**32.**[^c-0cf0e71f54ca2c97c10c6725498fb034] Section 96 shall cease to have effect.
 
-**33.**[^key-53daaeec9be081434e6744fdfb216604] In section 98 (member of a person’s family and connected persons), omit subsection (2).
+**33.**[^c-53daaeec9be081434e6744fdfb216604] In section 98 (member of a person’s family and connected persons), omit subsection (2).
 
-**34.**[^key-95f9c5fc9c217eed4d05e5eef50cc961] In section 101 (minor definitions: Part 1)—
+**34.**[^c-95f9c5fc9c217eed4d05e5eef50cc961] In section 101 (minor definitions: Part 1)—
 
 - (a) omit the definitions of—
   - “elderly”
@@ -703,19 +703,19 @@ omit “disabled facilities” (in each place where those words appear).
 - (c) in the definition of “secure tenancy” and “secure tenant”, for the words from the beginning to “have”, substitute ““secure tenant has””; and
 - (d) in the definition of “statutory tenancy” and “statutory tenant”, for the words from the beginning to “tenancy or”, substitute ““statutory tenant” means a”.
 
-**35.**[^key-57460a404ce6673166c215f7a00cafda] In section 102 (transitional and consequential provisions), in subsection (1), for “Chapters I to III”, substitute “Chapter 1”.
+**35.**[^c-57460a404ce6673166c215f7a00cafda] In section 102 (transitional and consequential provisions), in subsection (1), for “Chapters I to III”, substitute “Chapter 1”.
 
-**36.**[^key-d725ec5a821fbb25fd6aadf781ca3a59] In Part 4, sections 131 to 140 (relocation grants in clearance areas) shall cease to have effect.
+**36.**[^c-d725ec5a821fbb25fd6aadf781ca3a59] In Part 4, sections 131 to 140 (relocation grants in clearance areas) shall cease to have effect.
 
 ## SCHEDULE 4 — OTHER CONSEQUENTIAL AMENDMENTS
 
 article 12
 
-### 1. Rent Act 1977[^key-7fd0ae4dc396c207d8166d30d34321e0]
+### 1. Rent Act 1977[^c-7fd0ae4dc396c207d8166d30d34321e0]
 
 In section 116 of the Rent Act 1977 (consent of tenant), in subsection (3), omit the words from “renovation grant” to “an HMO”.
 
-### 2. Housing Act 1985[^key-7916a81cbda498daee61bf70013784e3]
+### 2. Housing Act 1985[^c-7916a81cbda498daee61bf70013784e3]
 
 (1) The 1985 Act is amended in accordance with sub-paragraphs (2) to (4) below.
 
@@ -725,7 +725,7 @@ In section 116 of the Rent Act 1977 (consent of tenant), in subsection (3), omit
 
 (4) In section 255 (general powers of local housing authority), in subsection (2), omit paragraph (b), and the word “or” immediately preceding that paragraph.
 
-### 3. Local Government and Housing Act 1989[^key-37eeb109db7ef6669cf6d5a0384ef6bf]
+### 3. Local Government and Housing Act 1989[^c-37eeb109db7ef6669cf6d5a0384ef6bf]
 
 In section 169 of the 1989 Act (powers of local authorities and Secretary of State as respects services etc. for owners and occupiers of houses for work on them), in subsection (2), omit paragraphs (c) and (d).
 
@@ -733,9 +733,9 @@ In section 169 of the 1989 Act (powers of local authorities and Secretary of Sta
 
 article 14
 
-**1.**[^key-488e3684cd673e721e192002174fc7be] Part 7 of the 1989 Act (renewal areas) is amended in accordance with paragraphs 2 to 7 below.
+**1.**[^c-488e3684cd673e721e192002174fc7be] Part 7 of the 1989 Act (renewal areas) is amended in accordance with paragraphs 2 to 7 below.
 
-**2.**[^key-685d54637882fe3c1376f62bd5d2e021] (1) Section 89 (declaration of renewal area) is amended as follows.
+**2.**[^c-685d54637882fe3c1376f62bd5d2e021] (1) Section 89 (declaration of renewal area) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -786,9 +786,9 @@ article 14
 
 .
 
-**3.**[^key-38fe581b8ec3a16bab3977d599d8efaa] Section 90 shall cease to have effect.
+**3.**[^c-38fe581b8ec3a16bab3977d599d8efaa] Section 90 shall cease to have effect.
 
-**4.**[^key-7a7d44960905ef23f3617afa1f59b4a7] For section 91 (steps to be taken after declaration of renewal area), substitute the following section—
+**4.**[^c-7a7d44960905ef23f3617afa1f59b4a7] For section 91 (steps to be taken after declaration of renewal area), substitute the following section—
 
 > **91. Renewal area: steps to be taken after declaration or extension**
 >
@@ -806,9 +806,9 @@ article 14
 
 .
 
-**5.**[^key-a6a05bdbca033ae2f4be6e8ac8f8a7e5] In section 92 (duty to publish information), omit subsection (2).
+**5.**[^c-a6a05bdbca033ae2f4be6e8ac8f8a7e5] In section 92 (duty to publish information), omit subsection (2).
 
-**6.**[^key-57fd01b6a50dedfe317ed7f0fd3d64c9] (1) Section 95 (exclusion of land from, or termination of, renewal area) is amended as follows.
+**6.**[^c-57fd01b6a50dedfe317ed7f0fd3d64c9] (1) Section 95 (exclusion of land from, or termination of, renewal area) is amended as follows.
 
 (2) In subsection (1), for “subsections (3) to (5)” substitute “subsection (5)”.
 
@@ -825,11 +825,11 @@ article 14
 
 (5) In subsection (5), omit “further”.
 
-**7.**[^key-d722657ed7ccb58bff14dbf88bd86cc0] In section 99 (directions and guidance), omit “directions or”.
+**7.**[^c-d722657ed7ccb58bff14dbf88bd86cc0] In section 99 (directions and guidance), omit “directions or”.
 
-**8.**[^key-f81620fe9071aa7aed6c0e525524a42e] The reference to the 1989 Act in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999[^f00018] is to be treated as a reference to that Act as amended by virtue of this Schedule.
+**8.**[^c-f81620fe9071aa7aed6c0e525524a42e] The reference to the 1989 Act in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999[^f00018] is to be treated as a reference to that Act as amended by virtue of this Schedule.
 
-## SCHEDULE 6 — REPEALS[^key-be910f307763cefaa5bdaf4fb9f07086][^key-dcabe574678a810ee6bf892e13b1765c]
+## SCHEDULE 6 — REPEALS[^c-be910f307763cefaa5bdaf4fb9f07086][^c-dcabe574678a810ee6bf892e13b1765c]
 
 article 15
 
@@ -888,15 +888,15 @@ Article 15 and Schedule 6 provide for the repeal of provisions.
 
 [^f00004]: Footnote: By virtue of section 5(4) of the Regulatory Reform Act [2001 (c. 6)](https://www.legislation.gov.uk/ukpga/2001/6), consultation undertaken before 10th April 2001 (the day on which the Act was passed) is treated as satisfying the consultation requirements of section 5(1) of that Act to the extent that, if it had been undertaken after that day, it would have satisfied those requirements. A consultation paper “Private sector housing renewal: Reform of the Housing Grants, Construction and Regeneration Act 1996, Local Government and Housing Act 1989 and Housing Act 1985” was published by the Department of the Environment, Transport and the Regions in March 2001. Copies may be obtained from the Department for Transport, Local Government and the Regions Free Literature, PO Box 236, Wetherby, West Yorkshire, LS23 7NB (tel: 0870 1226 236).
 
-[^key-2bce72584777488c8778fcc3fa4a6952]: Modification: [Order](https://www.legislation.gov.uk/uksi/2002/1860) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-2bce72584777488c8778fcc3fa4a6952]: Modification: [Order](https://www.legislation.gov.uk/uksi/2002/1860) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-bcac1d8becc60c646c988ca2574f25a3]: Commencement: Art. 1 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-bcac1d8becc60c646c988ca2574f25a3]: Commencement: Art. 1 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
 [^f00005]: Footnote: [1988 c. 9](https://www.legislation.gov.uk/ukpga/1988/9).
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-1ab18e608c7f916c9c738e8c1a1c328c]: Commencement: Art. 2 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-1ab18e608c7f916c9c738e8c1a1c328c]: Commencement: Art. 2 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
 [^f00007]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53).
 
@@ -908,156 +908,156 @@ Article 15 and Schedule 6 provide for the repeal of provisions.
 
 [^f00011]: Footnote: [1968 c. 52](https://www.legislation.gov.uk/ukpga/1968/52).
 
-[^key-680ad903e23cbd0509c137a075b84c5c]: Commencement: Art. 3 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-680ad903e23cbd0509c137a075b84c5c]: Commencement: Art. 3 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-305ba7064b1e436f496fc705cab559a2]: Commencement: Art. 4 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-305ba7064b1e436f496fc705cab559a2]: Commencement: Art. 4 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-2964bf83a1f06a50ecd1e8cd0724b421]: Commencement: Art. 5 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-2964bf83a1f06a50ecd1e8cd0724b421]: Commencement: Art. 5 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-06eff81346a554639eb92ef9782f0a23]: Commencement: Art. 6 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-06eff81346a554639eb92ef9782f0a23]: Commencement: Art. 6 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-c6646b7fe0dafd191f167f1ecee2af2b]: Commencement: Art. 7 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-c6646b7fe0dafd191f167f1ecee2af2b]: Commencement: Art. 7 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-3e1d343ed7f8f3c5d80b167f62141bc9]: Commencement: Art. 8 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-3e1d343ed7f8f3c5d80b167f62141bc9]: Commencement: Art. 8 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-1a8d4318e5b0ed6c7b7b323fa7d88679]: Commencement: Art. 9 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-1a8d4318e5b0ed6c7b7b323fa7d88679]: Commencement: Art. 9 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
-[^key-4be8b02b8ca8f3793948297d047724a9]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2002/1860/article/10) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
+[^c-4be8b02b8ca8f3793948297d047724a9]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2002/1860/article/10) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
 
-[^key-bbff4895040450461743be909a91ff56]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2002/1860/article/11) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-bbff4895040450461743be909a91ff56]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2002/1860/article/11) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
 [^f00012]: Footnote: For the date of approval in the case of group repair schemes not submitted for specific approval *see* section 64(1) of the Housing Grants, Construction and Regeneration Act 1996.
 
-[^key-1d8bbb02eece329154f7094e248c43fc]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2002/1860/article/12) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
+[^c-1d8bbb02eece329154f7094e248c43fc]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2002/1860/article/12) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
 
-[^key-8985e347a8271c8454e02df0137574c7]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2002/1860/article/13) in force at 19.7.2003, see [art. 1(3)(d)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/d)
+[^c-8985e347a8271c8454e02df0137574c7]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2002/1860/article/13) in force at 19.7.2003, see [art. 1(3)(d)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/d)
 
-[^key-926def70ac4452576377de17994da80b]: Commencement: Art. 14 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-926def70ac4452576377de17994da80b]: Commencement: Art. 14 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-857e393235636446b8b103bbddec3278]: Commencement: Art. 15 in force at 19.7.2002 for specified purposes, see [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/d)
+[^c-857e393235636446b8b103bbddec3278]: Commencement: Art. 15 in force at 19.7.2002 for specified purposes, see [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/d)
 
-[^key-92ed78ed6744e32867e7f1ea557a9831]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2002/1860/article/15) in force at 19.7.2003 in so far as not already in force, see [art. 1(3)(e)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/e)
+[^c-92ed78ed6744e32867e7f1ea557a9831]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2002/1860/article/15) in force at 19.7.2003 in so far as not already in force, see [art. 1(3)(e)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/e)
 
-[^key-4fc716d9480782db00242b59efe1c13d]: Commencement: Sch. 1 para. 1 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-4fc716d9480782db00242b59efe1c13d]: Commencement: Sch. 1 para. 1 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
 [^f00013]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42). Subsection (3) was substituted by the Housing Grants, Construction and Regeneration Act 1996, Schedule 1, paragraph 1.
 
-[^key-cd9670d914d021693d02a2bbef8872b4]: Commencement: Sch. 1 para. 2 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-cd9670d914d021693d02a2bbef8872b4]: Commencement: Sch. 1 para. 2 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
 [^f00014]: Footnote: [1985 c.70](https://www.legislation.gov.uk/ukpga/1985/70). Section 20A was inserted by the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), Schedule 5, Part 1, paragraph 9(1). Subsection (1) was numbered as such by virtue of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 11, paragraph 90, and amended by the Housing Grants, Construction and Regeneration Act 1996, Schedule 1, paragraph 11(1).
 
-[^key-76e325fdd856ab159b1fcffb7f98132c]: Commencement: Sch. 1 para. 3 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
+[^c-76e325fdd856ab159b1fcffb7f98132c]: Commencement: Sch. 1 para. 3 in force at 19.7.2002, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/b)
 
 [^f00015]: Footnote: [1988 c. 9](https://www.legislation.gov.uk/ukpga/1988/9).
 
-[^key-c670af04cf349d113a7a63cf4ff1669f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/1) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
+[^c-c670af04cf349d113a7a63cf4ff1669f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/1) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
 
-[^key-1a3b458d3665f4df05cd8b67030588b2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/2) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
+[^c-1a3b458d3665f4df05cd8b67030588b2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/2) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
 
-[^key-a49e16431200fd4f1ac4b27d11e5683e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/3) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
+[^c-a49e16431200fd4f1ac4b27d11e5683e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/3) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
 
-[^key-9eb3f7393d790e9e45261004f77ce403]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/4) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
+[^c-9eb3f7393d790e9e45261004f77ce403]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2002/1860/schedule/2/paragraph/4) in force at 19.7.2003, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/a)
 
 [^f00016]: Footnote: Subsection (1A) was inserted by the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 18, paragraph 27.
 
-[^key-736843d411c1d628f2e38ce05c863b6f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/1) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-736843d411c1d628f2e38ce05c863b6f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/1) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-f46e0b33f1d398e06cbf3ba373e4e370]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/2) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-f46e0b33f1d398e06cbf3ba373e4e370]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/2) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-0c76dfdebd21b463cae5ede19642466d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/3) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-0c76dfdebd21b463cae5ede19642466d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/3) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-cf357a2dd964ffbd792bc9f81c1ce87b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/4) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-cf357a2dd964ffbd792bc9f81c1ce87b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/4) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-611b60e7a8d1ea8c36edf49eb2b5c85a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/5) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-611b60e7a8d1ea8c36edf49eb2b5c85a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/5) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-b1c7e90b9b106af181f6f81dca42f513]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/6) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-b1c7e90b9b106af181f6f81dca42f513]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/6) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-fd2849f3d1d2b958ee674dfe7bf281db]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/7) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-fd2849f3d1d2b958ee674dfe7bf281db]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/7) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-cd255eea6f8eb2a4e4b13a91dac4b98a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/8) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-cd255eea6f8eb2a4e4b13a91dac4b98a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/8) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-31f3827a4472681e3cea8e8189264d3b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/9) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-31f3827a4472681e3cea8e8189264d3b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/9) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-f53f1b83abcfd8d5e74a49998d73557d]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/10) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-f53f1b83abcfd8d5e74a49998d73557d]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/10) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-c73ae9cca90af32901b6dd9db281c52f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/11) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-c73ae9cca90af32901b6dd9db281c52f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/11) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-9c41863f4eff8378bed43fdba028e283]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/12) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-9c41863f4eff8378bed43fdba028e283]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/12) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-5179e1a26a84d09f7807d96bffb4be7b]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/13) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-5179e1a26a84d09f7807d96bffb4be7b]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/13) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-8243458b241af9c471a61573d3741d8b]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/14) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-8243458b241af9c471a61573d3741d8b]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/14) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-4a68c141176bc6a7637ee31b3c491251]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/15) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-4a68c141176bc6a7637ee31b3c491251]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/15) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-4743af30311c772f56a2f776d3302385]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/16) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-4743af30311c772f56a2f776d3302385]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/16) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-02add6fb636ca9d45d58703a7e2ab5f6]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/17) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-02add6fb636ca9d45d58703a7e2ab5f6]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/17) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-6a9fe4ab817261f04f1da87539e9241f]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/18) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-6a9fe4ab817261f04f1da87539e9241f]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/18) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-56eead7cb2feb5f0bb85f252032bec23]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/19) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-56eead7cb2feb5f0bb85f252032bec23]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/19) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-98d55465fb552871dcc8e502cd63da1e]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/20) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-98d55465fb552871dcc8e502cd63da1e]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/20) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-67678ffd85734e90036ee5b35061b37e]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/21) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-67678ffd85734e90036ee5b35061b37e]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/21) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-a008995e75395787eac1fc9fbf9f2b4e]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/22) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-a008995e75395787eac1fc9fbf9f2b4e]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/22) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-a0e958ad08d1b9170360289af04aadb1]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/23) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-a0e958ad08d1b9170360289af04aadb1]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/23) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-70228aff8c43a88de56527e95a451df7]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/24) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-70228aff8c43a88de56527e95a451df7]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/24) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-9d0fffe2c3c6396b8ca1a3054ab81231]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/25) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-9d0fffe2c3c6396b8ca1a3054ab81231]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/25) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
 [^f00017]: Footnote: *See* the Local Government Finance Act [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); the Caravan Sites and Control of Development Act [1960 (c. 62)](https://www.legislation.gov.uk/ukpga/1960/62); the Caravan Sites Act [1968 (c. 52)](https://www.legislation.gov.uk/ukpga/1968/52); and the Mobile Homes Act [1983 (c. 34)](https://www.legislation.gov.uk/ukpga/1983/34).
 
-[^key-b2b1c2a1c1f4919ac1cf85732e49cf81]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/26) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-b2b1c2a1c1f4919ac1cf85732e49cf81]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/26) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-0ae0c733e08e5fb9b52fb9a1451d62d6]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/27) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-0ae0c733e08e5fb9b52fb9a1451d62d6]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/27) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-ec680e6b682dbe3b306b4700fcf3f92e]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/28) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-ec680e6b682dbe3b306b4700fcf3f92e]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/28) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-f7981c0d08ab4269beaa6c1aacf71c2c]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/29) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-f7981c0d08ab4269beaa6c1aacf71c2c]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/29) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-87ce521436f9c82339d9f0d578d335ac]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/30) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-87ce521436f9c82339d9f0d578d335ac]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/30) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-aa695001cd435b26c8d1fc7bbd0473bd]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/31) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-aa695001cd435b26c8d1fc7bbd0473bd]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/31) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-0cf0e71f54ca2c97c10c6725498fb034]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/32) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-0cf0e71f54ca2c97c10c6725498fb034]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/32) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-53daaeec9be081434e6744fdfb216604]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/33) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-53daaeec9be081434e6744fdfb216604]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/33) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-95f9c5fc9c217eed4d05e5eef50cc961]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/34) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-95f9c5fc9c217eed4d05e5eef50cc961]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/34) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-57460a404ce6673166c215f7a00cafda]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/35) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-57460a404ce6673166c215f7a00cafda]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/35) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-d725ec5a821fbb25fd6aadf781ca3a59]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/36) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
+[^c-d725ec5a821fbb25fd6aadf781ca3a59]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/36) in force at 19.7.2003, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/b)
 
-[^key-7fd0ae4dc396c207d8166d30d34321e0]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/1) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
+[^c-7fd0ae4dc396c207d8166d30d34321e0]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/1) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
 
-[^key-7916a81cbda498daee61bf70013784e3]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/2) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
+[^c-7916a81cbda498daee61bf70013784e3]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/2) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
 
-[^key-37eeb109db7ef6669cf6d5a0384ef6bf]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/3) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
+[^c-37eeb109db7ef6669cf6d5a0384ef6bf]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/3) in force at 19.7.2003, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/c)
 
-[^key-488e3684cd673e721e192002174fc7be]: Commencement: Sch. 5 para. 1 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-488e3684cd673e721e192002174fc7be]: Commencement: Sch. 5 para. 1 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-685d54637882fe3c1376f62bd5d2e021]: Commencement: Sch. 5 para. 2 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-685d54637882fe3c1376f62bd5d2e021]: Commencement: Sch. 5 para. 2 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-38fe581b8ec3a16bab3977d599d8efaa]: Commencement: Sch. 5 para. 3 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-38fe581b8ec3a16bab3977d599d8efaa]: Commencement: Sch. 5 para. 3 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-7a7d44960905ef23f3617afa1f59b4a7]: Commencement: Sch. 5 para. 4 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-7a7d44960905ef23f3617afa1f59b4a7]: Commencement: Sch. 5 para. 4 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-a6a05bdbca033ae2f4be6e8ac8f8a7e5]: Commencement: Sch. 5 para. 5 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-a6a05bdbca033ae2f4be6e8ac8f8a7e5]: Commencement: Sch. 5 para. 5 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-57fd01b6a50dedfe317ed7f0fd3d64c9]: Commencement: Sch. 5 para. 6 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-57fd01b6a50dedfe317ed7f0fd3d64c9]: Commencement: Sch. 5 para. 6 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-d722657ed7ccb58bff14dbf88bd86cc0]: Commencement: Sch. 5 para. 7 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-d722657ed7ccb58bff14dbf88bd86cc0]: Commencement: Sch. 5 para. 7 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
-[^key-f81620fe9071aa7aed6c0e525524a42e]: Commencement: Sch. 5 para. 8 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
+[^c-f81620fe9071aa7aed6c0e525524a42e]: Commencement: Sch. 5 para. 8 in force at 19.7.2002, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/c)
 
 [^f00018]: Footnote: S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672), to which there are amendments not relevant to this Order.
 
-[^key-be910f307763cefaa5bdaf4fb9f07086]: Commencement: Sch. 6 in force at 19.7.2002 for specified purposes, see [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/d)
+[^c-be910f307763cefaa5bdaf4fb9f07086]: Commencement: Sch. 6 in force at 19.7.2002 for specified purposes, see [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/2/d)
 
-[^key-dcabe574678a810ee6bf892e13b1765c]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) in force at 19.7.2003 in so far as not already in force, see [art. 1(3)(e)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/e)
+[^c-dcabe574678a810ee6bf892e13b1765c]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) in force at 19.7.2003 in so far as not already in force, see [art. 1(3)(e)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3/e)

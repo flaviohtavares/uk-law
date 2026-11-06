@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Sub-committees[^key-35426df962f0a7f4a2afb76c5a359ce1]
+## 13. Sub-committees[^c-35426df962f0a7f4a2afb76c5a359ce1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35426df962f0a7f4a2afb76c5a359ce1]: Commencement: S. 13 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-35426df962f0a7f4a2afb76c5a359ce1]: Commencement: S. 13 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

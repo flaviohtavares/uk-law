@@ -50,24 +50,24 @@ summary: ''
   - (a) a matrimonial cause under the Order of 1978, or
   - (b) a civil partnership cause under the Act of 2004; [^f00052]\]
 - “**certificate of readiness**” means a certificate under rule 2.28;
-- [^key-c76803d1116c8a9e1dbeef315f66dc12]...
+- [^c-c76803d1116c8a9e1dbeef315f66dc12]...
 - \[“child”, except in Part IV or Part IVB, in relation to one or both of the parties to a marriage or civil partnership, includes an illegitimate child of that party or, as the case may be, of both parties;
 - “child of the family” has, except in Part IV or Part IVB, the meaning assigned to it by Article 2(2) of the Order of 1995;[^f00052]\]
 - \[“**civil partnership cause**” has the meaning assigned to it by section 190(3) of the Act of 2004;
 - “**civil partnership order**” means one of the orders mentioned in section 161 of the Act of 2004;
 - “**civil partnership proceedings**” means any proceedings under the Act of 2004;
-- [^key-a9088e07e92441f860f06a9b5c217c64]...
+- [^c-a9088e07e92441f860f06a9b5c217c64]...
 - \[“**consent order**” means—
   - (a) in matrimonial proceedings, an order under Article 35A of the Order of 1978, and
   - (b) in civil partnership proceedings, an order under paragraph 59 of Schedule 15 to the Act of 2004;[^f00056]\]
-- \[[^key-240290e664fd6620620b003b0544ea74]...\]
-- [^key-5a0fa136d3ef515c4af9b187bde5395b]...
-- “**county court office**” means the office of the chief clerk [^key-3b87ff0b4db83480d74bebbc8d3f9f32]...;
+- \[[^c-240290e664fd6620620b003b0544ea74]...\]
+- [^c-5a0fa136d3ef515c4af9b187bde5395b]...
+- “**county court office**” means the office of the chief clerk [^c-3b87ff0b4db83480d74bebbc8d3f9f32]...;
 - “**court**” means the judge or the Master;
 - “**defended cause**” means a cause not being an undefended cause;
 - “**Department**” means the Department of Health and Social Services;
-- [^key-3d8ebae5bf07cf3ecd098849e470b396]...
-- [^key-556f649ee42186e98706e096b74e4cf4]...
+- [^c-3d8ebae5bf07cf3ecd098849e470b396]...
+- [^c-556f649ee42186e98706e096b74e4cf4]...
 - “**document exchange**” means any document exchange for the time being approved by the Lord Chancellor;
 - “**family proceedings**” means any proceedings with respect to which rules may be made under Article 12 of the Family Law (Northern Ireland) Order 1993;
 - \[“**financial provision order**” means—
@@ -76,7 +76,7 @@ summary: ''
 - \[“financial relief” has—
   - (a) in matrimonial proceedings, the meaning assigned to it by Article 39 of the Order of 1978, and
   - (b) in civil partnership proceedings, the meaning assigned to it by paragraph 67 of Schedule 15 to the Act of 2004;[^f00059]\]
-- \[[^key-bc0e0594774f2391d1092b43a3187c56]“**the 1996 Hague Convention**” means the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996;\]
+- \[[^c-bc0e0594774f2391d1092b43a3187c56]“**the 1996 Hague Convention**” means the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996;\]
 - “**judge**” means—
   - (a) in relation to proceedings in the High Court, a judge of the High Court; and
   - (b) in relation to proceedings in a county court, a county court judge;
@@ -86,7 +86,7 @@ summary: ''
 - \[“**Matrimonial cause**” has the meaning assigned to it by Article 48(11) of the Order of 1978;[^f00062]\]
 - “**Matrimonial Office**” means the Probate and Matrimonial Office of the Supreme Court of Judicature of Northern Ireland;
 - “**matrimonial proceedings**” means subject to rule 2.4 any proceedings under the Order of 1978;
-- [^key-5a0fa136d3ef515c4af9b187bde5395b]...
+- [^c-5a0fa136d3ef515c4af9b187bde5395b]...
 - “**notice of intention to defend**” has the meaning assigned to it by rule 2.11;
 - “**Office of Care and Protection**” means the Office of Care and Protection of the Supreme Court of Judicature of Northern Ireland;
 - \[“**order for maintenance pending outcome of proceedings**” means an order under paragraph 33 of Schedule 15 to the Act of 2004; [^f00062]\]
@@ -123,7 +123,7 @@ summary: ''
 
 (5) Unless the context otherwise requires, any reference in these Rules to any rule or statutory provision shall be construed as a reference to that rule or statutory provision as amended, extended or applied by any other rule or statutory provision.
 
-(6)[^key-7cfb595a3ded8dc2e1fc4e91da74fbf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7cfb595a3ded8dc2e1fc4e91da74fbf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [(7) In these Rules—
 
@@ -174,25 +174,25 @@ summary: ''
 
 [^f00054]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-c76803d1116c8a9e1dbeef315f66dc12]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(i)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c76803d1116c8a9e1dbeef315f66dc12]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(i)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-a9088e07e92441f860f06a9b5c217c64]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a9088e07e92441f860f06a9b5c217c64]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00056]: Footnote: Definitions substituted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 
-[^key-240290e664fd6620620b003b0544ea74]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2011/64/article/2/2/a)
+[^c-240290e664fd6620620b003b0544ea74]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2011/64/article/2/2/a)
 
-[^key-5a0fa136d3ef515c4af9b187bde5395b]: Textual amendment: Words in [rule 1.03(1)](https://www.legislation.gov.uk/nisr/1996/322/rule/1.03/1) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/235/article/2/2) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a0fa136d3ef515c4af9b187bde5395b]: Textual amendment: Words in [rule 1.03(1)](https://www.legislation.gov.uk/nisr/1996/322/rule/1.03/1) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/235/article/2/2) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b87ff0b4db83480d74bebbc8d3f9f32]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3b87ff0b4db83480d74bebbc8d3f9f32]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-3d8ebae5bf07cf3ecd098849e470b396]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/iv); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3d8ebae5bf07cf3ecd098849e470b396]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/iv); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-556f649ee42186e98706e096b74e4cf4]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(v)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/v); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-556f649ee42186e98706e096b74e4cf4]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(a)(v)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/a/v); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00059]: Footnote: Definition substituted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 
-[^key-bc0e0594774f2391d1092b43a3187c56]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) inserted (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2011/64/article/2/2/b)
+[^c-bc0e0594774f2391d1092b43a3187c56]: Textual amendment: Words in [rule 1.3(1)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/1) inserted (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2011/64/article/2/2/b)
 
 [^f00061]: Footnote: Definition substituted by [S.R. 2005 No. 144](https://www.legislation.gov.uk/nisr/2005/144) with effect from 18.04.05
 
@@ -210,7 +210,7 @@ summary: ''
 
 [^f00068]: Footnote: [S.R. 1981 No. 225](https://www.legislation.gov.uk/nisr/1981/225)
 
-[^key-7cfb595a3ded8dc2e1fc4e91da74fbf2]: Textual amendment: [Rule 1.3(6)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/6) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7cfb595a3ded8dc2e1fc4e91da74fbf2]: Textual amendment: [Rule 1.3(6)](https://www.legislation.gov.uk/nisr/1996/322/article/1.3/6) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2016/301/article/2/1/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00070]: Footnote: Words substituted by [S.R. 2010 No. 379](https://www.legislation.gov.uk/nisr/2010/379) with effect from 20.12.10
 

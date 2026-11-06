@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Descriptions of accrued pension[^key-5b4866ba5c576e32e505ba5a88f9aa03]
+## 26. Descriptions of accrued pension[^c-5b4866ba5c576e32e505ba5a88f9aa03]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purpose of these Regulations, the descriptions of accrued pension are—
 
 ## Annotations
 
-[^key-5b4866ba5c576e32e505ba5a88f9aa03]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/182/regulation/26) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-5b4866ba5c576e32e505ba5a88f9aa03]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/182/regulation/26) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Minimum age limits for persons engaged in the carriage of explosives[^key-e5d5e954e39921532ca00a03de935bcc]
+## 28. Minimum age limits for persons engaged in the carriage of explosives[^c-e5d5e954e39921532ca00a03de935bcc]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d5e954e39921532ca00a03de935bcc]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/1997/474/regulation/28) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-e5d5e954e39921532ca00a03de935bcc]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/1997/474/regulation/28) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Bribery[^key-7d8e8e4050fe0fe1e879acd381329ec5]
+## 77. Bribery[^c-7d8e8e4050fe0fe1e879acd381329ec5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ or if upon or in consequence of any such gift or procurement as mentioned above 
 
 ## Annotations
 
-[^key-7d8e8e4050fe0fe1e879acd381329ec5]: Commencement: Art. 77 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7d8e8e4050fe0fe1e879acd381329ec5]: Commencement: Art. 77 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

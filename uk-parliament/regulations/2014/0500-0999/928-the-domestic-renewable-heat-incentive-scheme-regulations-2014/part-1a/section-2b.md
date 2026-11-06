@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2B. Approval of documents published after scheme closure[^key-4d09d389b685accd0a141ea51899057a]
+## 2B. Approval of documents published after scheme closure[^c-4d09d389b685accd0a141ea51899057a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d09d389b685accd0a141ea51899057a]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2014/928/part/1A) inserted (15.3.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/2/d), [4](https://www.legislation.gov.uk/uksi/2022/159/regulation/4)
+[^c-4d09d389b685accd0a141ea51899057a]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2014/928/part/1A) inserted (15.3.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/2/d), [4](https://www.legislation.gov.uk/uksi/2022/159/regulation/4)

@@ -40,9 +40,9 @@ Section 10.
 
 **7A.**[^c14176871] Regulations or directions under paragraph 7 may provide for approvals, authorisations or determinations to have effect from a date (which may be before or after the date of giving or making them but may not be before if to the detriment of such officers and servants) specified in them.
 
-**7B.**[^c14176911][^c14176921][^c14176931][^key-4ab7d163659981ce7506aa45b8eba84f][^c14176901] Regulations may provide for the transfer of officers and servants from the Agency to a Health Board or state hospital, and for arrangements under which the services of an officer or servant of the Agency are placed at the disposal of a Health Board or state hospital.
+**7B.**[^c14176911][^c14176921][^c14176931][^c-4ab7d163659981ce7506aa45b8eba84f][^c14176901] Regulations may provide for the transfer of officers and servants from the Agency to a Health Board or state hospital, and for arrangements under which the services of an officer or servant of the Agency are placed at the disposal of a Health Board or state hospital.
 
-**7C.**[^c14176941][^c14176951][^key-a01a9c571c48b9dcd12debff87f71d1d] Directions may be given by the Secretary of State—
+**7C.**[^c14176941][^c14176951][^c-a01a9c571c48b9dcd12debff87f71d1d] Directions may be given by the Secretary of State—
 
 - (a) to the Agency to place services of any of its officers or servants at the disposal of a Health Board or state hospital; and
 - (b) to a Health Board or state hospital to employ as an officer or servant any person who is or was employed by the Agency and is specified in the direction,
@@ -57,7 +57,7 @@ and it shall be the duty of the Agency, a Health Board or a state hospital to co
 - (d) the procedure of the management committee; and
 - (e) the method of appointment of officers or servants of the Agency and the qualifications, remuneration and conditions of service of those persons.
 
-**8A.**[^c14176971] In connection with arrangements relating to community care services [^key-9fb9de3d62db4ec55d297a920578dd44]..., regulations may make provision with respect to—
+**8A.**[^c14176971] In connection with arrangements relating to community care services [^c-9fb9de3d62db4ec55d297a920578dd44]..., regulations may make provision with respect to—
 
 - (a) the transfer to employment by a local authority of officers or servants employed by the Agency; and
 - (b) the transfer to employment by a National Health Service body of officers and servants transferred to employment by a local authority by virtue of this paragraph.
@@ -108,7 +108,7 @@ and for the purposes of this paragraph “ **National Health Service body** ” 
 
 [^c14176931]: Modification: Sch. 5 para. 7B applied (1.4.1999) by [S.I. 1999/726](https://www.legislation.gov.uk/uksi/1999/726), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/1999/726/article/5/1/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1999/726/schedule/part/I)
 
-[^key-4ab7d163659981ce7506aa45b8eba84f]: Modification: Sch. 5 para. 7B applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-4ab7d163659981ce7506aa45b8eba84f]: Modification: Sch. 5 para. 7B applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c14176901]: Textual amendment: Sch. 5 para. 7B, 7C inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 27(3)](https://www.legislation.gov.uk/ukpga/1990/19/section/27/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/1990/19/schedule/5/paragraph/11)
 
@@ -130,11 +130,11 @@ and for the purposes of this paragraph “ **National Health Service body** ” 
 
     Sch. 5 para. 7C applied (27.6.2002) by [S.S.I. 2002/503](https://www.legislation.gov.uk/ssi/2002/503), [art. 5(1)](https://www.legislation.gov.uk/ssi/2002/503/article/5/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2002/503/schedule/part/I) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2002/503/article/4/4))
 
-[^key-a01a9c571c48b9dcd12debff87f71d1d]: Modification: Sch. 5 para. 7C applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-a01a9c571c48b9dcd12debff87f71d1d]: Modification: Sch. 5 para. 7C applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c14176971]: Textual amendment: Sch. 5 paras. 8A, 8B inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 27(3)](https://www.legislation.gov.uk/ukpga/1990/19/section/27/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1990/19/schedule/5/paragraph/12)
 
-[^key-9fb9de3d62db4ec55d297a920578dd44]: Textual amendment: Words in Sch. 5 para. 8A repealed (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/2/6)
+[^c-9fb9de3d62db4ec55d297a920578dd44]: Textual amendment: Words in Sch. 5 para. 8A repealed (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/2/6)
 
 [^c14176981]: Textual amendment: Words inserted by [Health Services Act 1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), [Sch. 6 para. 8(4)](https://www.legislation.gov.uk/ukpga/1980/53/schedule/6/paragraph/8/4)
 

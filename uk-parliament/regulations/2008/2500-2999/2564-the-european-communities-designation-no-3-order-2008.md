@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Communities (Designation) (No. 3) Order 2008 (revoked)[^key-f391962e8dd18476988891e60c5546f1]
+The European Communities (Designation) (No. 3) Order 2008 (revoked)[^c-f391962e8dd18476988891e60c5546f1]
 
 Made
 
@@ -52,26 +52,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f391962e8dd18476988891e60c5546f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f391962e8dd18476988891e60c5546f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f391962e8dd18476988891e60c5546f1]
+## 1. Citation, commencement and interpretation[^c-f391962e8dd18476988891e60c5546f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to mutual assistance for the recovery of claims[^key-f391962e8dd18476988891e60c5546f1]
+## 2. Designation in relation to mutual assistance for the recovery of claims[^c-f391962e8dd18476988891e60c5546f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Relationship with other designations[^key-f391962e8dd18476988891e60c5546f1]
+## 3. Relationship with other designations[^c-f391962e8dd18476988891e60c5546f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f391962e8dd18476988891e60c5546f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f391962e8dd18476988891e60c5546f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f391962e8dd18476988891e60c5546f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f391962e8dd18476988891e60c5546f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f391962e8dd18476988891e60c5546f1]: Textual amendment: Order revoked (18.3.2010) by [The European Communities (Designation) Order 2010 (S.I. 2010/761)](https://www.legislation.gov.uk/uksi/2010/761), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2010/761/article/2/1), [10](https://www.legislation.gov.uk/uksi/2010/761/article/10)
+[^c-f391962e8dd18476988891e60c5546f1]: Textual amendment: Order revoked (18.3.2010) by [The European Communities (Designation) Order 2010 (S.I. 2010/761)](https://www.legislation.gov.uk/uksi/2010/761), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2010/761/article/2/1), [10](https://www.legislation.gov.uk/uksi/2010/761/article/10)

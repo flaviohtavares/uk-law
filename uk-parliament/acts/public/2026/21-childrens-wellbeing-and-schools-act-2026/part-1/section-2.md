@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Inclusion of childcare and education agencies in safeguarding arrangements[^key-4a5588e00b840d1e7275389556eef23a]
+## 2. Inclusion of childcare and education agencies in safeguarding arrangements[^c-4a5588e00b840d1e7275389556eef23a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a5588e00b840d1e7275389556eef23a]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-4a5588e00b840d1e7275389556eef23a]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — INDUSTRIAL TRIBUNALS (NATIONAL SECURITY) COMPLEMENTARY RULES OF PROCEDURE[^key-2a5468f6af0b2384dff9dd1b131b476c]
+## SCHEDULE 2 — INDUSTRIAL TRIBUNALS (NATIONAL SECURITY) COMPLEMENTARY RULES OF PROCEDURE[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *Extent: N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Regulations 2(3) and (6), 9, 10(2) and 11(2)
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]
+[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *For use only in cases in which a power conferred on a Minister of the Crown or the tribunal by rule 8(1), (2) or (3) of Schedule 1 is exercised*
 
-### 1. Modification of rule 3 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 1. Modification of rule 3 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Modification of rule 4 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 2. Modification of rule 4 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Modification of rule 7 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 3. Modification of rule 7 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Insertion of rules 7A and 7B into Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 4. Insertion of rules 7A and 7B into Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Modification of rule 10 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 5. Modification of rule 10 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Modification of rule 11 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 6. Modification of rule 11 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Modification of rule 12 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 7. Modification of rule 12 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Modification of rule 13 of Schedule 1[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 8. Modification of rule 13 of Schedule 1[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

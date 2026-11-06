@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Disclosure of information[^key-76f42105d80c05490fb90d08a3575fb4]
+## 69. Disclosure of information[^c-76f42105d80c05490fb90d08a3575fb4]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 - (e) for the purposes of a statement or report made in relation to a complaint or investigation;
 - (f) for the purposes of any provision of section 65, 66, 67 or 68;
 - (g) for the purposes of proceedings for—
-  - (i) an offence under the Official Secrets Acts 1911 (c.28) to 1989 (c.6) , or under sections 1 to 4 or 18 of the National Security Act[^key-cfb265fd81bbf12b5a347ae5ab66b989] [2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32) alleged to have been committed by the Ombudsman, a member of the Ombudsman's staff or other person acting on the Ombudsman's behalf or assisting the Ombudsman in the discharge of any of the Ombudsman's functions;
+  - (i) an offence under the Official Secrets Acts 1911 (c.28) to 1989 (c.6) , or under sections 1 to 4 or 18 of the National Security Act[^c-cfb265fd81bbf12b5a347ae5ab66b989] [2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32) alleged to have been committed by the Ombudsman, a member of the Ombudsman's staff or other person acting on the Ombudsman's behalf or assisting the Ombudsman in the discharge of any of the Ombudsman's functions;
   - (ii) an offence of perjury alleged to have been committed in the course of an investigation;
 - (h) for the purposes of an inquiry with a view to the taking of proceedings mentioned in paragraph (g);
 - (i) for the purpose of proceedings under section 20 or 54;
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76f42105d80c05490fb90d08a3575fb4]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2019/3/section/69) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-76f42105d80c05490fb90d08a3575fb4]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2019/3/section/69) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-cfb265fd81bbf12b5a347ae5ab66b989]: Textual amendment: Words in [s. 69(2)(g)](https://www.legislation.gov.uk/anaw/2019/3/section/69/2/g) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/32)
+[^c-cfb265fd81bbf12b5a347ae5ab66b989]: Textual amendment: Words in [s. 69(2)(g)](https://www.legislation.gov.uk/anaw/2019/3/section/69/2/g) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/32)

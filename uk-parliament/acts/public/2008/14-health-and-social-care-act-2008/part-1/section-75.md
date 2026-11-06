@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Inquiries[^key-cdc2e030cfc3d25147aef511e949d2d9]
+## 75. Inquiries[^c-cdc2e030cfc3d25147aef511e949d2d9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdc2e030cfc3d25147aef511e949d2d9]: Commencement: S. 75 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/26)
+[^c-cdc2e030cfc3d25147aef511e949d2d9]: Commencement: S. 75 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/26)

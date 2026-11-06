@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 402. Representation of Crown and Duchy interests in land[^key-4788dadd1b5c65573d8cea6d139adbdf]
+## 402. Representation of Crown and Duchy interests in land[^c-4788dadd1b5c65573d8cea6d139adbdf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4788dadd1b5c65573d8cea6d139adbdf]: Commencement: S. 402 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4788dadd1b5c65573d8cea6d139adbdf]: Commencement: S. 402 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

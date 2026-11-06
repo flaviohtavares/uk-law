@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Apprenticeships: information sharing[^key-d5d2ee8879879f7ec2ec7d98fb2c9eb3]
+## 26. Apprenticeships: information sharing[^c-d5d2ee8879879f7ec2ec7d98fb2c9eb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,4 +135,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5d2ee8879879f7ec2ec7d98fb2c9eb3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/12/section/26) in force at 4.7.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/695/article/2/a)
+[^c-d5d2ee8879879f7ec2ec7d98fb2c9eb3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/12/section/26) in force at 4.7.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/695/article/2/a)

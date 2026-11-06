@@ -34,11 +34,11 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any person who is aggrieved by an improvement notice may appeal to a magistrates’ court [^key-916de85b9c8496f5fbc68432ddd9e703]....
+(1) Any person who is aggrieved by an improvement notice may appeal to a magistrates’ court [^c-916de85b9c8496f5fbc68432ddd9e703]....
 
 (2) The procedure on an appeal to a magistrates’ court under paragraph (1) is by way of complaint, and the Magistrates’ Courts Act 1980[^f00016] applies to the proceedings.
 
-(3)[^key-9c795ccaac388bdc2b13e178ce7e3509] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9c795ccaac388bdc2b13e178ce7e3509] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The period within which an appeal may be brought is 28 days or the period specified in the improvement notice, whichever ends the earlier.
 
@@ -52,6 +52,6 @@ summary: ''
 
 [^M_E_31093615-2d22-4745-8e75-071bdf36cfd1]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-916de85b9c8496f5fbc68432ddd9e703]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/39/1) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(9)(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/9/a)
+[^c-916de85b9c8496f5fbc68432ddd9e703]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/39/1) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(9)(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/9/a)
 
-[^key-9c795ccaac388bdc2b13e178ce7e3509]: Textual amendment: [Reg. 39(3)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/39/3) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(9)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/9/b)
+[^c-9c795ccaac388bdc2b13e178ce7e3509]: Textual amendment: [Reg. 39(3)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/39/3) omitted (N.I.) (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(9)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/9/b)

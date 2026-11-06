@@ -33,7 +33,7 @@ summary: ''
 - “**final judgment**” means a decision which, by itself, or taken along with previous decisions, disposes of the subject matter of proceedings, even though judgment may not have been pronounced on every question raised or expenses found due may not have been modified, taxed or decerned for,
 - “**sheriff clerk**” includes sheriff clerk depute,
 - “**solicitor**” means a solicitor enrolled in the roll of solicitors kept under section 7 of the Solicitors (Scotland) Act 1980,
-- “[^key-e8e64277fbefb90f8b15d5a4dc71a402]**trauma-informed practice**” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+- “[^c-e8e64277fbefb90f8b15d5a4dc71a402]**trauma-informed practice**” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
 
 (2) In this Act, references to the judiciary of a sheriffdom are, in relation to a sheriffdom, references to the following—
 
@@ -51,4 +51,4 @@ and references to a “member” of the judiciary of a sheriffdom are to be cons
 
 ## Annotations
 
-[^key-e8e64277fbefb90f8b15d5a4dc71a402]: Textual amendment: Words in [s. 136](https://www.legislation.gov.uk/asp/2014/18/section/136) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 28(4)](https://www.legislation.gov.uk/asp/2025/12/section/28/4), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-e8e64277fbefb90f8b15d5a4dc71a402]: Textual amendment: Words in [s. 136](https://www.legislation.gov.uk/asp/2014/18/section/136) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 28(4)](https://www.legislation.gov.uk/asp/2025/12/section/28/4), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Evidence notes[^key-9cd41e42d9bc40dba0a525e0e9f57bcd]
+## 73. Evidence notes[^c-9cd41e42d9bc40dba0a525e0e9f57bcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ It will be the duty of the Secretary of State to approve the format of evidence 
 
 ## Annotations
 
-[^key-9cd41e42d9bc40dba0a525e0e9f57bcd]: Commencement: Reg. 73 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-9cd41e42d9bc40dba0a525e0e9f57bcd]: Commencement: Reg. 73 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

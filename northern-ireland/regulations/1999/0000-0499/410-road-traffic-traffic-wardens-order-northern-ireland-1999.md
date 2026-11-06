@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Road Traffic (Traffic Wardens) Order (Northern Ireland) 1999 (revoked)[^key-2176c33e94a3b85f7d886dc39e7cab7e]
+Road Traffic (Traffic Wardens) Order (Northern Ireland) 1999 (revoked)[^c-2176c33e94a3b85f7d886dc39e7cab7e]
 
 To be laid before Parliament under paragraph 3(3) of Schedule 1 to the Northern Ireland Act 1974
 
@@ -42,40 +42,40 @@ Coming into operation
 
 15th November 1999
 
-[^key-2176c33e94a3b85f7d886dc39e7cab7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2176c33e94a3b85f7d886dc39e7cab7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2176c33e94a3b85f7d886dc39e7cab7e]
+## 1. Citation, commencement and interpretation[^c-2176c33e94a3b85f7d886dc39e7cab7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Functions of traffic wardens[^key-2176c33e94a3b85f7d886dc39e7cab7e]
+## 2. Functions of traffic wardens[^c-2176c33e94a3b85f7d886dc39e7cab7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2176c33e94a3b85f7d886dc39e7cab7e]
+## 3. Revocation[^c-2176c33e94a3b85f7d886dc39e7cab7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2176c33e94a3b85f7d886dc39e7cab7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2176c33e94a3b85f7d886dc39e7cab7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Schedule — Functions of Traffic Wardens[^key-2176c33e94a3b85f7d886dc39e7cab7e]
+## Schedule — Functions of Traffic Wardens[^c-2176c33e94a3b85f7d886dc39e7cab7e]
 
 Article 2
 
-**1.**[^key-2176c33e94a3b85f7d886dc39e7cab7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2176c33e94a3b85f7d886dc39e7cab7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2176c33e94a3b85f7d886dc39e7cab7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2176c33e94a3b85f7d886dc39e7cab7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2176c33e94a3b85f7d886dc39e7cab7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2176c33e94a3b85f7d886dc39e7cab7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2176c33e94a3b85f7d886dc39e7cab7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2176c33e94a3b85f7d886dc39e7cab7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2176c33e94a3b85f7d886dc39e7cab7e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/410) revoked (22.10.2008) by [The Road Traffic (Traffic Wardens) (Revocation) Order (Northern Ireland) 2008 (S.R. 2008/341)](https://www.legislation.gov.uk/nisr/2008/341), [arts. 1](https://www.legislation.gov.uk/nisr/2008/341/article/1), [2](https://www.legislation.gov.uk/nisr/2008/341/article/2)
+[^c-2176c33e94a3b85f7d886dc39e7cab7e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/410) revoked (22.10.2008) by [The Road Traffic (Traffic Wardens) (Revocation) Order (Northern Ireland) 2008 (S.R. 2008/341)](https://www.legislation.gov.uk/nisr/2008/341), [arts. 1](https://www.legislation.gov.uk/nisr/2008/341/article/1), [2](https://www.legislation.gov.uk/nisr/2008/341/article/2)

@@ -114,7 +114,7 @@ An Act to amend the Matrimonial Causes Act 1973 so far as it restricts the time 
 - [Section 30 — Interpretation of Part IV.](part-iv/section-30.md)
 - [Section 31 — Extension of s. 31 of Maintenance Orders (Reciprocal Enforcement) Act 1972.](part-iv/section-31.md)
 
-### Part 4A — The Family Court[^key-f0fc05867cc975af184c7c4b3f194060]
+### Part 4A — The Family Court[^c-f0fc05867cc975af184c7c4b3f194060]
 
 *Extent: E+W*
 
@@ -135,7 +135,7 @@ An Act to amend the Matrimonial Causes Act 1973 so far as it restricts the time 
 - [Section 31O — Function of giving legal advice to judges](part-4a/section-31o.md)
 - [Section 31P — Orders, regulations and rules under Part 4A](part-4a/section-31p.md)
 
-### PART 4B — Family proceedings: prohibition of cross-examination in person[^key-dee58ceba3289d5b49035bca98a2b2ba]
+### PART 4B — Family proceedings: prohibition of cross-examination in person[^c-dee58ceba3289d5b49035bca98a2b2ba]
 
 - [Section 31Q — Prohibition of cross-examination in person: introductory](part-4b/section-31q.md)
 - [Section 31R — Prohibition of cross-examination in person: victims of offences](part-4b/section-31r.md)
@@ -220,6 +220,6 @@ SCHEDULES
 
 [^c4594611]: Extent: For extent of Act, see [s. 48(2)(3)](https://www.legislation.gov.uk/ukpga/1984/42/section/48/2)
 
-[^key-f0fc05867cc975af184c7c4b3f194060]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/1984/42/section/31A) and Pt. 4A heading inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/3), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-f0fc05867cc975af184c7c4b3f194060]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/1984/42/section/31A) and Pt. 4A heading inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/3), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
-[^key-dee58ceba3289d5b49035bca98a2b2ba]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/1984/42/part/4B) inserted (21.7.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))
+[^c-dee58ceba3289d5b49035bca98a2b2ba]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/1984/42/part/4B) inserted (21.7.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))

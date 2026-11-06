@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Exception from regulations with respect to the construction of dams, lades and water wheels[^key-91cc769e25facbc96b2d2f42eb7cd0fc]
+## 32. Exception from regulations with respect to the construction of dams, lades and water wheels[^c-91cc769e25facbc96b2d2f42eb7cd0fc]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91cc769e25facbc96b2d2f42eb7cd0fc]: Commencement: S. 32 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-91cc769e25facbc96b2d2f42eb7cd0fc]: Commencement: S. 32 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

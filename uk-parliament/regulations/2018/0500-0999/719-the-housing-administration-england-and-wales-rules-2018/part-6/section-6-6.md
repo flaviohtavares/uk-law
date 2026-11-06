@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.6. Deceased housing administrator[^key-dac92c3dbd811ccf8ce7c7553cfa2931]
+## 6.6. Deceased housing administrator[^c-dac92c3dbd811ccf8ce7c7553cfa2931]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac92c3dbd811ccf8ce7c7553cfa2931]: Commencement: Rule 6.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-dac92c3dbd811ccf8ce7c7553cfa2931]: Commencement: Rule 6.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

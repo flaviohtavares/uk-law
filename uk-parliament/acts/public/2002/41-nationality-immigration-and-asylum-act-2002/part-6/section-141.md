@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by order make provision for the purpose of giving effect to an international agreement which concerns immigration control at a United Kingdom port or[^key-05791bee643f8393b8d47488b3c28a38] an EEA port (whether or not it also concerns other aspects of frontier control at the port).
+(1) The Secretary of State may by order make provision for the purpose of giving effect to an international agreement which concerns immigration control at a United Kingdom port or[^c-05791bee643f8393b8d47488b3c28a38] an EEA port (whether or not it also concerns other aspects of frontier control at the port).
 
 (2) An order under this section may make any provision which appears to the Secretary of State—
 
@@ -63,18 +63,18 @@ summary: ''
 
 (6) In this section—
 
-- “**EEA port**” means a port in an EEA State from which passengers are commonly carried by sea to [^key-9c7111471a1f3600a8b63cf83dfac5b8]... the United Kingdom,
+- “**EEA port**” means a port in an EEA State from which passengers are commonly carried by sea to [^c-9c7111471a1f3600a8b63cf83dfac5b8]... the United Kingdom,
 - “**EEA State**” means a State which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (as it has effect from time to time),
 - “**frontier control**” means the enforcement of law which relates to, or in so far as it relates to, the movement of persons or goods into or out of the United Kingdom or another State,
 - “**immigration control**” means arrangements made in connection with the movement of persons into or out of the United Kingdom or another State,
 - “**international agreement**” means an agreement made between Her Majesty’s Government and the government of another State, and
 - “**specified area**” means an area (whether of the United Kingdom or of another State) specified in an international agreement.
-- “[^key-94b9337e98d4fd6cb95f87748907ee0f]**United Kingdom port**” means a port in the United Kingdom from which passengers are commonly carried by sea to an EEA State.
+- “[^c-94b9337e98d4fd6cb95f87748907ee0f]**United Kingdom port**” means a port in the United Kingdom from which passengers are commonly carried by sea to an EEA State.
 
 ## Annotations
 
-[^key-05791bee643f8393b8d47488b3c28a38]: Textual amendment: Words in [s. 141(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/141/1) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05791bee643f8393b8d47488b3c28a38]: Textual amendment: Words in [s. 141(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/141/1) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c7111471a1f3600a8b63cf83dfac5b8]: Textual amendment: Words in [s. 141(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/141/6) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c7111471a1f3600a8b63cf83dfac5b8]: Textual amendment: Words in [s. 141(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/141/6) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94b9337e98d4fd6cb95f87748907ee0f]: Textual amendment: Words in [s. 141(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/141/6) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94b9337e98d4fd6cb95f87748907ee0f]: Textual amendment: Words in [s. 141(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/141/6) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

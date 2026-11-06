@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Requirement to give Commission notice of change of ownership[^key-033b355f5658e6987ebb612151795f99]
+## 30. Requirement to give Commission notice of change of ownership[^c-033b355f5658e6987ebb612151795f99]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-033b355f5658e6987ebb612151795f99]: Commencement: S. 30 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-033b355f5658e6987ebb612151795f99]: Commencement: S. 30 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

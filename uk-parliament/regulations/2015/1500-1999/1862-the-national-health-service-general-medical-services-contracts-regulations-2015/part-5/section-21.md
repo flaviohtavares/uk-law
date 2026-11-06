@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Membership of a CCG[^key-0cc0fae6ea03fd1c8e61bca878bde2ea]
+## 21. Membership of a CCG[^c-0cc0fae6ea03fd1c8e61bca878bde2ea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc0fae6ea03fd1c8e61bca878bde2ea]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1862/regulation/21) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [86(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/86/3)
+[^c-0cc0fae6ea03fd1c8e61bca878bde2ea]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1862/regulation/21) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [86(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/86/3)

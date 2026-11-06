@@ -22,7 +22,7 @@ summary: ''
 
 Article 10
 
-### PART 1 — Scenario 1[^key-93abf442ee341092b8e459a55ba13148]
+### PART 1 — Scenario 1[^c-93abf442ee341092b8e459a55ba13148]
 
 | (1) Area | (2) Public rights of way to be temporarily stopped up | (3) Extent of temporary stopping up |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ Article 10
 | District of Breckland | Footpath reference 30 Hoe FP6 | Approximately 570 metres of footpath reference 30 Hoe FP6 shown in orange between points 34a and 34b on Sheet 34 of the public rights of way to be temporarily stopped up plan |
 | District of Breckland | Footpath reference 31 Dereham FP20 | Approximately 280 metres of footpath reference 31 Dereham FP20 shown in orange between points 34c and 34d on Sheet 34 of the public rights of way to be temporarily stopped up plan |
 
-### PART 2 — Scenario 2[^key-45ab0d510a1311229e528b8b3630e92c]
+### PART 2 — Scenario 2[^c-45ab0d510a1311229e528b8b3630e92c]
 
 | (1) Area | (2) Public rights of way to be temporarily stopped up | (3) Extent of temporary stopping up |
 | --- | --- | --- |
@@ -96,6 +96,6 @@ Article 10
 
 ## Annotations
 
-[^key-93abf442ee341092b8e459a55ba13148]: Commencement: Sch. 3 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-93abf442ee341092b8e459a55ba13148]: Commencement: Sch. 3 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-45ab0d510a1311229e528b8b3630e92c]: Commencement: Sch. 3 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-45ab0d510a1311229e528b8b3630e92c]: Commencement: Sch. 3 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

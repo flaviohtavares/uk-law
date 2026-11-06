@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Extension of civil partnership to opposite-sex couples[^key-26b21b52e6f5f1e63579121d351971bd]
+## 16. Extension of civil partnership to opposite-sex couples[^c-26b21b52e6f5f1e63579121d351971bd]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26b21b52e6f5f1e63579121d351971bd]: Commencement: Reg. 16 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-26b21b52e6f5f1e63579121d351971bd]: Commencement: Reg. 16 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

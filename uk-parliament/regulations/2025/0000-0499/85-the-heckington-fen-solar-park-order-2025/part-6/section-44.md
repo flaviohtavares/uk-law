@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. NGET extension works[^key-d8c1e73e204b050f7d89899b20b50964]
+## 44. NGET extension works[^c-d8c1e73e204b050f7d89899b20b50964]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c1e73e204b050f7d89899b20b50964]: Commencement: Art. 44 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-d8c1e73e204b050f7d89899b20b50964]: Commencement: Art. 44 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

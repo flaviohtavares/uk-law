@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about increasing the amount 
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 7th October 2021 and received Royal Assent on 15th November 2021
 
-## 1. Increased amount of carer’s allowance supplement in respect of the period of 1 October 2021 to 31 March 2022[^key-f4017eccf8585998f1de14f9d341b85e]
+## 1. Increased amount of carer’s allowance supplement in respect of the period of 1 October 2021 to 31 March 2022[^c-f4017eccf8585998f1de14f9d341b85e]
 
 In section 81 (carer’s allowance supplement) of the Social Security (Scotland) Act 2018—
 
@@ -45,7 +45,7 @@ In section 81 (carer’s allowance supplement) of the Social Security (Scotland)
 
   .
 
-## 2. Power to increase amount of carer’s allowance supplement[^key-91404930e4717b0918b5b853baf566e7]
+## 2. Power to increase amount of carer’s allowance supplement[^c-91404930e4717b0918b5b853baf566e7]
 
 **Not yet in force.**
 
@@ -58,7 +58,7 @@ The Social Security (Scotland) Act 2018 is amended as follows—
   ,
 - (b) in section 96 (regulation-making powers), in subsection (2), for “81(8)” substitute “81(4C) and (8)”.
 
-## 3. Commencement[^key-351e66a862eed5d7e913f1314de0f935]
+## 3. Commencement[^c-351e66a862eed5d7e913f1314de0f935]
 
 (1) This section and sections 1 and 4 come into force on the day after Royal Assent.
 
@@ -66,16 +66,16 @@ The Social Security (Scotland) Act 2018 is amended as follows—
 
 (3) The power conferred by subsection (2) includes the power to make transitional, transitory or saving provision.
 
-## 4. Short title[^key-3b5745d5153522a16e0fc5a260fed3dd]
+## 4. Short title[^c-3b5745d5153522a16e0fc5a260fed3dd]
 
 The short title of this Act is the Carer’s Allowance Supplement (Scotland) Act 2021.
 
 ## Annotations
 
-[^key-f4017eccf8585998f1de14f9d341b85e]: Commencement: S. 1 in force at 16.11.2021, see [s. 3(1)](https://www.legislation.gov.uk/asp/2021/20/section/3/1)
+[^c-f4017eccf8585998f1de14f9d341b85e]: Commencement: S. 1 in force at 16.11.2021, see [s. 3(1)](https://www.legislation.gov.uk/asp/2021/20/section/3/1)
 
-[^key-91404930e4717b0918b5b853baf566e7]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/asp/2021/20/section/3/2)
+[^c-91404930e4717b0918b5b853baf566e7]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/asp/2021/20/section/3/2)
 
-[^key-351e66a862eed5d7e913f1314de0f935]: Commencement: S. 3 in force at 16.11.2021, see [s. 3(1)](https://www.legislation.gov.uk/asp/2021/20/section/3/1)
+[^c-351e66a862eed5d7e913f1314de0f935]: Commencement: S. 3 in force at 16.11.2021, see [s. 3(1)](https://www.legislation.gov.uk/asp/2021/20/section/3/1)
 
-[^key-3b5745d5153522a16e0fc5a260fed3dd]: Commencement: S. 4 in force at 16.11.2021, see [s. 3(1)](https://www.legislation.gov.uk/asp/2021/20/section/3/1)
+[^c-3b5745d5153522a16e0fc5a260fed3dd]: Commencement: S. 4 in force at 16.11.2021, see [s. 3(1)](https://www.legislation.gov.uk/asp/2021/20/section/3/1)

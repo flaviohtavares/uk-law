@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Amendment of rule 5[^key-9c47c0e6c4b26650a1ebc2092f8c35b5]
+## 83. Amendment of rule 5[^c-9c47c0e6c4b26650a1ebc2092f8c35b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c47c0e6c4b26650a1ebc2092f8c35b5]: Commencement: Reg. 83 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9c47c0e6c4b26650a1ebc2092f8c35b5]: Commencement: Reg. 83 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00064]: Footnote: Rule 5 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2014/1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2015/1923](https://www.legislation.gov.uk/uksi/2015/1923).

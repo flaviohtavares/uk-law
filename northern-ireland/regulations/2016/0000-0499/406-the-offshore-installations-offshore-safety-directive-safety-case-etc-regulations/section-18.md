@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Safety case for non-production installation[^key-92ad60208b6935d42800495709eeb59c]
+## 18. Safety case for non-production installation[^c-92ad60208b6935d42800495709eeb59c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92ad60208b6935d42800495709eeb59c]: Commencement: Reg. 18 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-92ad60208b6935d42800495709eeb59c]: Commencement: Reg. 18 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

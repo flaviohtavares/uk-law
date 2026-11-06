@@ -22,7 +22,7 @@ summary: ''
 
 Article 26
 
-### PART 1 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^key-e194e51497ef01a56b6cf640d5360f6e]
+### PART 1 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^c-e194e51497ef01a56b6cf640d5360f6e]
 
 <table>
 <tbody>
@@ -47,7 +47,7 @@ Article 26
 </tbody>
 </table>
 
-### PART 2 — RIGHTS FOR THE BENEFIT OF CADENT[^key-1d50356ef86d78717b397671f31972e8]
+### PART 2 — RIGHTS FOR THE BENEFIT OF CADENT[^c-1d50356ef86d78717b397671f31972e8]
 
 | *(1)* *Area* | *(2)* *Plot Reference Number(s) shown on land plans* | *(3)* *Purpose(s) for which rights over land may be acquired* |
 | --- | --- | --- |
@@ -55,6 +55,6 @@ Article 26
 
 ## Annotations
 
-[^key-e194e51497ef01a56b6cf640d5360f6e]: Commencement: Sch. 6 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e194e51497ef01a56b6cf640d5360f6e]: Commencement: Sch. 6 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-1d50356ef86d78717b397671f31972e8]: Commencement: Sch. 6 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-1d50356ef86d78717b397671f31972e8]: Commencement: Sch. 6 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

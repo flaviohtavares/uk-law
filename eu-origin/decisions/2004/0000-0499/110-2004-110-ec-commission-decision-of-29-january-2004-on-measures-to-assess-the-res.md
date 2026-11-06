@@ -31,10 +31,10 @@ summary: ''
 
 of 29 January 2004 on measures to assess the residual BSE risk in products derived from bovine animals/on a Community financial contribution for measures to assess the residual BSE risk in products derived from bovine animals (notified under document number C(2004) 132) (revoked)
 
-[^key-314f2052ca07aaf147ecaa0f26688e7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-314f2052ca07aaf147ecaa0f26688e7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-314f2052ca07aaf147ecaa0f26688e7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-314f2052ca07aaf147ecaa0f26688e7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-314f2052ca07aaf147ecaa0f26688e7a]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-314f2052ca07aaf147ecaa0f26688e7a]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

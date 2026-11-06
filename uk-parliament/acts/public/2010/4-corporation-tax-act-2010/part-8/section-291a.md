@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291A. Meaning of “tariff receipt”[^key-a611cf7a12a7c8c589aacc77bf9966d0]
+## 291A. Meaning of “tariff receipt”[^c-a611cf7a12a7c8c589aacc77bf9966d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a611cf7a12a7c8c589aacc77bf9966d0]: Textual amendment: Ss. 291A, 291B inserted (with effect in accordance with s. 22(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/section/22/3)
+[^c-a611cf7a12a7c8c589aacc77bf9966d0]: Textual amendment: Ss. 291A, 291B inserted (with effect in accordance with s. 22(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/section/22/3)

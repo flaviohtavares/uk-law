@@ -24,8 +24,8 @@ summary: ''
 
 (2) Any reference in this Act to an offence punishable with imprisonment shall be construed without regard to any prohibition or restriction imposed by or under this or any Act on the imprisonment of young offenders.
 
-(3)[^key-af3cc5053ab82c099fed867a9018bb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-af3cc5053ab82c099fed867a9018bb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af3cc5053ab82c099fed867a9018bb0d]: Textual amendment: [S. 164(3)](https://www.legislation.gov.uk/ukpga/2000/6/section/164/3) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 169](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/169) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-af3cc5053ab82c099fed867a9018bb0d]: Textual amendment: [S. 164(3)](https://www.legislation.gov.uk/ukpga/2000/6/section/164/3) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 169](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/169) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117D. Interpretation of this Part[^key-c676280bde9f131c35ca8c3c12468619]
+## 117D. Interpretation of this Part[^c-c676280bde9f131c35ca8c3c12468619]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ has not been convicted of an offence.
 
 (4) In this Part, references to a person who has been sentenced to a period of imprisonment of a certain length of time—
 
-- (a)[^key-295058214e8b2cfeefa136553285fdbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-295058214e8b2cfeefa136553285fdbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) do not include a person who has been sentenced to a period of imprisonment of that length of time only by virtue of being sentenced to consecutive sentences amounting in aggregate to that length of time;
 - (c) include a person who is sentenced to detention, or ordered or directed to be detained, in an institution other than a prison (including, in particular, a hospital or an institution for young offenders) for that length of time; and
 - (d) include a person who is sentenced to imprisonment or detention, or ordered or directed to be detained, for an indeterminate period, provided that it may last for at least that length of time.
@@ -58,6 +58,6 @@ has not been convicted of an offence.
 
 ## Annotations
 
-[^key-c676280bde9f131c35ca8c3c12468619]: Textual amendment: Pt. 5A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 19](https://www.legislation.gov.uk/ukpga/2014/22/section/19), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(o)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/o)
+[^c-c676280bde9f131c35ca8c3c12468619]: Textual amendment: Pt. 5A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 19](https://www.legislation.gov.uk/ukpga/2014/22/section/19), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(o)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/o)
 
-[^key-295058214e8b2cfeefa136553285fdbe]: Textual amendment: [S. 117D(4)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/117D/4/a) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/45/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/217](https://www.legislation.gov.uk/uksi/2026/217), [reg. 2](https://www.legislation.gov.uk/uksi/2026/217/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/217/regulation/3))
+[^c-295058214e8b2cfeefa136553285fdbe]: Textual amendment: [S. 117D(4)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/117D/4/a) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/45/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/217](https://www.legislation.gov.uk/uksi/2026/217), [reg. 2](https://www.legislation.gov.uk/uksi/2026/217/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/217/regulation/3))

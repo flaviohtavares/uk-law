@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Offences by bodies corporate etc.[^key-76cad1742c815ad8c480e4146caf71a4]
+## 46. Offences by bodies corporate etc.[^c-76cad1742c815ad8c480e4146caf71a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ that officer (as well as the association) is guilty of the offence and is liable
 
 ## Annotations
 
-[^key-76cad1742c815ad8c480e4146caf71a4]: Modification: [Reg. 46](https://www.legislation.gov.uk/uksi/2017/1200/regulation/46) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-76cad1742c815ad8c480e4146caf71a4]: Modification: [Reg. 46](https://www.legislation.gov.uk/uksi/2017/1200/regulation/46) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

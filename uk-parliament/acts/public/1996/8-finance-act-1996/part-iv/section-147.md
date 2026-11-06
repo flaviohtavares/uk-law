@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f7b3388b3e2411049cf3f3caa43e030f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f7b3388b3e2411049cf3f3caa43e030f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In consequence of the provision made by subsection (1) above, in paragraph 3(2) of Schedule 2 to—
 
@@ -33,7 +33,7 @@ the words “ (e) section 617(5) (relief for Class 4 contributions); ” shall b
 
 ## Annotations
 
-[^key-f7b3388b3e2411049cf3f3caa43e030f]: Textual amendment: [S. 147(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/147/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f7b3388b3e2411049cf3f3caa43e030f]: Textual amendment: [S. 147(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/147/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14612391]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

@@ -48,13 +48,13 @@ Section 241.
 
 (3) Where the purpose of an enactment repealed by this Act was to secure that the substitution of the provisions of the Act containing that enactment for provisions repealed by that Act did not affect the continuity of the law, the enactment repealed by this Act continues to have effect in so far as it is capable of doing so.
 
-#### Employment particulars for pre-TURERA employees[^key-332e24915024ef73a2af76acc505a1b1]
+#### Employment particulars for pre-TURERA employees[^c-332e24915024ef73a2af76acc505a1b1]
 
 **7.** (1) In this paragraph “**pre-TURERA employee**” means an employee whose employment with his employer began before 30th November 1993 (the day on which section 26 of the [^c16337691]Trade Union Reform and Employment Rights Act 1993 came into force), whether or not the provisions of sections 1 to 6 of the [^c16337701]Employment Protection (Consolidation) Act 1978, as they had effect before the substitution made by that section, applied to him before that date.
 
-(2) Subject to the following provisions of this paragraph and paragraph 7B[^key-ec102f81b81d2659cd718d9fffe8d0a4], sections 1 to 7 of this Act do not apply to a pre-TURERA employee (but the provisions of sections 1 to 6 of the Employment Protection (Consolidation) Act 1978, as they had effect before the substitution made by section 26 of the Trade Union Reform and Employment Rights Act 1993, continue in force in his case).
+(2) Subject to the following provisions of this paragraph and paragraph 7B[^c-ec102f81b81d2659cd718d9fffe8d0a4], sections 1 to 7 of this Act do not apply to a pre-TURERA employee (but the provisions of sections 1 to 6 of the Employment Protection (Consolidation) Act 1978, as they had effect before the substitution made by section 26 of the Trade Union Reform and Employment Rights Act 1993, continue in force in his case).
 
-(3) Where a pre-TURERA employee, at any time before 6 April 2020[^key-bc9cccd52c92eccbdc22195bd5b67d0a]—
+(3) Where a pre-TURERA employee, at any time before 6 April 2020[^c-bc9cccd52c92eccbdc22195bd5b67d0a]—
 
 - (a) on or after the day on which this Act comes into force, and
 - (b) either before the end of his employment or within the period of three months beginning with the day on which his employment ends,
@@ -73,7 +73,7 @@ requests from his employer a statement under section 1 of this Act, the employer
 
 subsections (1) and (6) of section 4 of this Act shall be treated (subject to section 5 and any other provision disapplying or having the effect of disapplying section 4) as requiring his employer to give him a written statement containing particulars of the change at the time specified in subsection (3) of section 4; and the other provisions of section 4 apply accordingly.
 
-#### Employment particulars for pre-6 April 2020 employees[^key-d7b395b93cadcb01231278468e871c40]
+#### Employment particulars for pre-6 April 2020 employees[^c-d7b395b93cadcb01231278468e871c40]
 
 **7A.** (1) In this paragraph an “existing employee” means an employee whose employment with his employer began on or after 30th November 1993 and before 6th April 2020.
 
@@ -117,7 +117,7 @@ subsection (1) of section 4 of this Act shall be treated (subject to section 5 a
 
 #### Validity of provisions deriving from certain regulations
 
-**10.** Any question as to the validity of any of sections 47, 61, 62, 63 and 103, which derive from the [^c16337781]Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 1995 made under subsection (2) of section 2 of the [^c16337791]European Communities Act 1972, shall be determined as if those provisions were contained in regulations made under that subsection before the repeal of that subsection by section 1 of the European Union (Withdrawal) Act 2018[^key-c90e54caf1332b1cde89e49c002293ee].
+**10.** Any question as to the validity of any of sections 47, 61, 62, 63 and 103, which derive from the [^c16337781]Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 1995 made under subsection (2) of section 2 of the [^c16337791]European Communities Act 1972, shall be determined as if those provisions were contained in regulations made under that subsection before the repeal of that subsection by section 1 of the European Union (Withdrawal) Act 2018[^c-c90e54caf1332b1cde89e49c002293ee].
 
 #### Unfair dismissal
 
@@ -197,15 +197,15 @@ the week counts as a period of employment.
 
 [^c16337681]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-332e24915024ef73a2af76acc505a1b1]: Textual amendment: Words in [Sch. 2 para. 7 heading](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/part/I/crossheading/employment-particulars) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/2/a)
+[^c-332e24915024ef73a2af76acc505a1b1]: Textual amendment: Words in [Sch. 2 para. 7 heading](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/part/I/crossheading/employment-particulars) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/2/a)
 
 [^c16337691]: Marginal citation: [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19).
 
 [^c16337701]: Marginal citation: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44).
 
-[^key-ec102f81b81d2659cd718d9fffe8d0a4]: Textual amendment: Words in Sch. 2 para. 7(2) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/2/b)
+[^c-ec102f81b81d2659cd718d9fffe8d0a4]: Textual amendment: Words in Sch. 2 para. 7(2) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/2/b)
 
-[^key-bc9cccd52c92eccbdc22195bd5b67d0a]: Textual amendment: Words in Sch. 2 para. 7(3) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/2/c)
+[^c-bc9cccd52c92eccbdc22195bd5b67d0a]: Textual amendment: Words in Sch. 2 para. 7(3) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/2/c)
 
 [^c16337711]: Marginal citation: [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19).
 
@@ -213,7 +213,7 @@ the week counts as a period of employment.
 
 [^c16337731]: Marginal citation: [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19).
 
-[^key-d7b395b93cadcb01231278468e871c40]: Textual amendment: [Sch. 2 paras. 7A](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/paragraph/7A), [7B](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/paragraph/7B) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/3)
+[^c-d7b395b93cadcb01231278468e871c40]: Textual amendment: [Sch. 2 paras. 7A](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/paragraph/7A), [7B](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/paragraph/7B) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/9/3)
 
 [^c16337741]: Marginal citation: [S.I. 1995/1953](https://www.legislation.gov.uk/uksi/1995/1953).
 
@@ -229,7 +229,7 @@ the week counts as a period of employment.
 
 [^c16337791]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-c90e54caf1332b1cde89e49c002293ee]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/paragraph/10) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/3) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c90e54caf1332b1cde89e49c002293ee]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/paragraph/10) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/3) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16337801]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

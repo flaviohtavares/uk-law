@@ -36,8 +36,8 @@ the expenses of management are referable to that accounting period.
 
 the expenses of management are apportioned between any accounting periods that fall within the period of account (and are referable to accounting periods so far as they are apportioned to them).
 
-(3) An apportionment under subsection (2) must be made in accordance with section 1172 of CTA 2010[^key-4e93e15cb12ddf98d46a92e0cf66e878] (time basis) or, if it appears that that method would work unreasonably or unjustly, on a just and reasonable basis.
+(3) An apportionment under subsection (2) must be made in accordance with section 1172 of CTA 2010[^c-4e93e15cb12ddf98d46a92e0cf66e878] (time basis) or, if it appears that that method would work unreasonably or unjustly, on a just and reasonable basis.
 
 ## Annotations
 
-[^key-4e93e15cb12ddf98d46a92e0cf66e878]: Textual amendment: Words in s. 1225(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 687](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/687) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4e93e15cb12ddf98d46a92e0cf66e878]: Textual amendment: Words in s. 1225(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 687](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/687) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

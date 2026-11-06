@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of regulation 105[^key-80080d32891257d00c4a71afc13a8164]
+## 48. Amendment of regulation 105[^c-80080d32891257d00c4a71afc13a8164]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 105—
 
 ## Annotations
 
-[^key-80080d32891257d00c4a71afc13a8164]: Commencement: Reg. 48 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-80080d32891257d00c4a71afc13a8164]: Commencement: Reg. 48 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

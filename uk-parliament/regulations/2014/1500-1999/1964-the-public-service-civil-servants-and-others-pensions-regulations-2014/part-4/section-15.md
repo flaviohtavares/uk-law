@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Service in 2 or more scheme employments[^key-e4c17f0a24a5d1a4c227eaab91b0f229]
+## 15. Service in 2 or more scheme employments[^c-e4c17f0a24a5d1a4c227eaab91b0f229]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a person is in service in 2 or more scheme employments, regulation 14 applies
 
 ## Annotations
 
-[^key-e4c17f0a24a5d1a4c227eaab91b0f229]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/1964/regulation/15) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-e4c17f0a24a5d1a4c227eaab91b0f229]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/1964/regulation/15) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

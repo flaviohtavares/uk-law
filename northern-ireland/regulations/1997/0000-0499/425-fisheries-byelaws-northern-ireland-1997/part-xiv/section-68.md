@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**68.**[^key-01493d78df726c93b61a12ef0f12ebe5] Any person who foul-hooks any salmon or freshwater fish whether accidentally or otherwise shall, without avoidable injury, cause it to be returned immediately to the water from which it was taken.
+**68.**[^c-01493d78df726c93b61a12ef0f12ebe5] Any person who foul-hooks any salmon or freshwater fish whether accidentally or otherwise shall, without avoidable injury, cause it to be returned immediately to the water from which it was taken.
 
 ## Annotations
 
-[^key-01493d78df726c93b61a12ef0f12ebe5]: Commencement: S. 68 in operation at 1.11.1997, see byelaw 1
+[^c-01493d78df726c93b61a12ef0f12ebe5]: Commencement: S. 68 in operation at 1.11.1997, see byelaw 1

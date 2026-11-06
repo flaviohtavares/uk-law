@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Means tests[^key-b7a6620088c0ff4eb969ad3a96218320][^key-b183ed56734b3d73caa984d240bb434d]
+## 100. Means tests[^c-b7a6620088c0ff4eb969ad3a96218320][^c-b183ed56734b3d73caa984d240bb434d]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7a6620088c0ff4eb969ad3a96218320]: Commencement: S. 100 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b7a6620088c0ff4eb969ad3a96218320]: Commencement: S. 100 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-b183ed56734b3d73caa984d240bb434d]: Commencement: [S. 100](https://www.legislation.gov.uk/asc/2022/1/section/100) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(z)](https://www.legislation.gov.uk/wsi/2026/62/article/2/z)
+[^c-b183ed56734b3d73caa984d240bb434d]: Commencement: [S. 100](https://www.legislation.gov.uk/asc/2022/1/section/100) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(z)](https://www.legislation.gov.uk/wsi/2026/62/article/2/z)

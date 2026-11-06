@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Appeal against veto[^key-bf797e69da14bd4c7ff13cc5c1b4ed18][^key-069500f9646c57463118c392dc42c44d]
+## 43. Appeal against veto[^c-bf797e69da14bd4c7ff13cc5c1b4ed18][^c-069500f9646c57463118c392dc42c44d]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf797e69da14bd4c7ff13cc5c1b4ed18]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2006/17/section/43) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-bf797e69da14bd4c7ff13cc5c1b4ed18]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2006/17/section/43) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-069500f9646c57463118c392dc42c44d]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2006/17/section/43) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-069500f9646c57463118c392dc42c44d]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2006/17/section/43) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

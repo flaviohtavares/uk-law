@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Article 4 (leak checks)[^key-2b49b1f63729a22e765281f8c808f9aa]
+## 39. Article 4 (leak checks)[^c-2b49b1f63729a22e765281f8c808f9aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 4, paragraph 5—
 
 ## Annotations
 
-[^key-2b49b1f63729a22e765281f8c808f9aa]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-2b49b1f63729a22e765281f8c808f9aa]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

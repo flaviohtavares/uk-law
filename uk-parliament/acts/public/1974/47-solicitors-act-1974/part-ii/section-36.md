@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Compensation grants.[^key-25ddd0429a94dfbfce323cb2e3f1d54e][^key-302206b5c841b3ed15564745b13693ec][^c13348432][^c13348442][^c19660461][^c19660321]
+## 36. Compensation grants.[^c-25ddd0429a94dfbfce323cb2e3f1d54e][^c-302206b5c841b3ed15564745b13693ec][^c13348432][^c13348442][^c19660461][^c19660321]
 
 *Extent: E+W*
 
@@ -62,9 +62,9 @@ it must give reasons for its decision.
 
 ## Annotations
 
-[^key-25ddd0429a94dfbfce323cb2e3f1d54e]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1974/47/section/36) modified (13.7.2011) by [Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1716/schedule/paragraph/3)
+[^c-25ddd0429a94dfbfce323cb2e3f1d54e]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1974/47/section/36) modified (13.7.2011) by [Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1716/schedule/paragraph/3)
 
-[^key-302206b5c841b3ed15564745b13693ec]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1974/47/section/36) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-302206b5c841b3ed15564745b13693ec]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1974/47/section/36) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c13348432]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1974/47/section/36) extended (14.10.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 89(3)(a)(iv)(4)](https://www.legislation.gov.uk/ukpga/1990/41/section/89/3/a/iv/4); [S.I. 1991/1883](https://www.legislation.gov.uk/uksi/1991/1883), [art. 3](https://www.legislation.gov.uk/uksi/1991/1883/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1883/schedule)
 

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**297.**[^key-3fb1a3847f18ddafc73305b0aceee82e] In section 53 (direct payments: further provision)—
+**297.**[^c-3fb1a3847f18ddafc73305b0aceee82e] In section 53 (direct payments: further provision)—
 
 - (a) omit subsection (11) from the English text[^f00207];
 - (b) after subsection (10) insert the following—
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fb1a3847f18ddafc73305b0aceee82e]: Commencement: Reg. 297 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-3fb1a3847f18ddafc73305b0aceee82e]: Commencement: Reg. 297 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00207]: Footnote: Section 53(11) is inserted by section 75(8) of the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23) and was only enacted in English.

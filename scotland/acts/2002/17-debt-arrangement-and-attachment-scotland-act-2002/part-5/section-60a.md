@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60A. Electronic signatures[^key-1bdc94a3616b4298ddefe53d05bf77c0]
+## 60A. Electronic signatures[^c-1bdc94a3616b4298ddefe53d05bf77c0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bdc94a3616b4298ddefe53d05bf77c0]: Textual amendment: S. 60A inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(15)](https://www.legislation.gov.uk/asp/2007/3/section/212/15), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-1bdc94a3616b4298ddefe53d05bf77c0]: Textual amendment: S. 60A inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(15)](https://www.legislation.gov.uk/asp/2007/3/section/212/15), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

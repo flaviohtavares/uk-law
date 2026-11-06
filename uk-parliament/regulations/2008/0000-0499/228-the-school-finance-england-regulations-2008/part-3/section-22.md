@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. New, reorganised and closing schools[^key-77b95173192839c3ebfc4354792ce0dc]
+## 22. New, reorganised and closing schools[^c-77b95173192839c3ebfc4354792ce0dc]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-77b95173192839c3ebfc4354792ce0dc]: Commencement: Reg. 22 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-77b95173192839c3ebfc4354792ce0dc]: Commencement: Reg. 22 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00032]: Footnote: Proposals for the establishment of a school may be published under sections 7, 10 or 11 of the 2006 Act.
 

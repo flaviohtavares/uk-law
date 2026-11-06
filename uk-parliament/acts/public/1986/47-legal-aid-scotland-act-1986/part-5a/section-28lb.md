@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28LB. Power of Scottish Ministers to provide for children's legal aid to be available in relation to proceedings under the Age of Criminal Responsibility (Scotland) Act 2019[^key-630323b9dc200efb1ae967a510eb8daf]
+## 28LB. Power of Scottish Ministers to provide for children's legal aid to be available in relation to proceedings under the Age of Criminal Responsibility (Scotland) Act 2019[^c-630323b9dc200efb1ae967a510eb8daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-630323b9dc200efb1ae967a510eb8daf]: Textual amendment: S. 28LB inserted (31.3.2020) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 73(3)](https://www.legislation.gov.uk/asp/2019/7/section/73/3), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2020/74](https://www.legislation.gov.uk/ssi/2020/74), [reg. 2](https://www.legislation.gov.uk/ssi/2020/74/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/74/schedule)
+[^c-630323b9dc200efb1ae967a510eb8daf]: Textual amendment: S. 28LB inserted (31.3.2020) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 73(3)](https://www.legislation.gov.uk/asp/2019/7/section/73/3), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2020/74](https://www.legislation.gov.uk/ssi/2020/74), [reg. 2](https://www.legislation.gov.uk/ssi/2020/74/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/74/schedule)

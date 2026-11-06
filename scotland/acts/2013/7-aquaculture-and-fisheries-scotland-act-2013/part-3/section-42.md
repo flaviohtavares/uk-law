@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Disposal of objects seized under section 39[^key-f671c635d51e678e42b498eede50bb6a]
+## 42. Disposal of objects seized under section 39[^c-f671c635d51e678e42b498eede50bb6a]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f671c635d51e678e42b498eede50bb6a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2013/7/section/42) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f671c635d51e678e42b498eede50bb6a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2013/7/section/42) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

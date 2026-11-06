@@ -274,7 +274,7 @@ Section 1(9) of the [^c879273]Overseas Development and Co-operation Act 1980 (no
 
 ### 15. Limit on government assistance.
 
-(1) The Secretary of State shall exercise his powers under or by virtue of this Act so as to ensure that the Crown’s assistance to the Corporation and its associated companies does not at any time exceed £9,500 million[^key-2209f8202b2bb3e6c759a8be186c9076].
+(1) The Secretary of State shall exercise his powers under or by virtue of this Act so as to ensure that the Crown’s assistance to the Corporation and its associated companies does not at any time exceed £9,500 million[^c-2209f8202b2bb3e6c759a8be186c9076].
 
 (2) For the purposes of subsection (1) the Crown’s assistance to the Corporation and its associated companies is the aggregate of—
 
@@ -286,7 +286,7 @@ Section 1(9) of the [^c879273]Overseas Development and Co-operation Act 1980 (no
 
 (3) For the purposes of this section equivalents in sterling shall be calculated as determined by the Secretary of State.
 
-(4)[^key-784995cf13da154ab2a3151e7d820e3f] The Secretary of State may by regulations substitute for the amount for the time being specified in subsection (1) a larger amount not exceeding £12,000 million.
+(4)[^c-784995cf13da154ab2a3151e7d820e3f] The Secretary of State may by regulations substitute for the amount for the time being specified in subsection (1) a larger amount not exceeding £12,000 million.
 
 (5) Regulations made by the Secretary of State under this section are to be made by statutory instrument.
 
@@ -308,7 +308,7 @@ Section 1(9) of the [^c879273]Overseas Development and Co-operation Act 1980 (no
 (4) A direction under subsection (2) requiring the issue of shares shall specify the nominal value of the shares to be issued; and the shares—
 
 - (a) shall be issued as fully paid,
-- (b) shall be treated for the purposes of the the Companies Act 2006[^key-356b6391aa59bb8d6c04f55475e7be92] as having been paid up by virtue of payment of their nominal value in cash, and
+- (b) shall be treated for the purposes of the the Companies Act 2006[^c-356b6391aa59bb8d6c04f55475e7be92] as having been paid up by virtue of payment of their nominal value in cash, and
 - (c) shall be treated for the purposes of the Corporation Tax Acts as if they had been issued wholly in consideration of a subscription of an amount equal to their nominal value.
 
 (5) A debenture issued in accordance with a direction under subsection (2) shall be treated for the purposes of the Corporation Tax Acts as if it had been issued wholly in consideration of a loan of an amount equal to the principal sum payable under the debenture.
@@ -438,15 +438,15 @@ Schedule 3 shall have effect.
 - (c) a reference to a nominee of a Minister of the Crown includes a reference to a person to whom section 19(2) applies, and
 - (d) a reference to a provision of the [^c879281]Commonwealth Development Corporation Act 1978 includes a reference to any relevant earlier enactment.
 
-(2) An expression listed in the Table has the same meaning in this Act as in the specified provision of the [^c879282]Companies Act 1985 or the Companies Act 2006[^key-1e32c2d6ff94db033886fa455114daaa].
+(2) An expression listed in the Table has the same meaning in this Act as in the specified provision of the [^c879282]Companies Act 1985 or the Companies Act 2006[^c-1e32c2d6ff94db033886fa455114daaa].
 
 | Expression | Defining provision |
 | --- | --- |
-| Allotment[^key-c3b679e7a78ef482a5763ef9cff82020] | Section 738 of the Companies Act 1985 |
+| Allotment[^c-c3b679e7a78ef482a5763ef9cff82020] | Section 738 of the Companies Act 1985 |
 | Called-up share capital | Section 737(1) of the Companies Act 1985 |
 | Net assets | Section 831(2) of the Companies Act 2006 |
-| Paid up | Section 583 of the Companies Act 2006[^key-f52525ec3c1a25a9bc7c42c153181f1a] |
-| Registrar of companies | Section 1060 of the Companies Act 2006[^key-6350fd740ece1f06f18ca1fced851ae2] |
+| Paid up | Section 583 of the Companies Act 2006[^c-f52525ec3c1a25a9bc7c42c153181f1a] |
+| Registrar of companies | Section 1060 of the Companies Act 2006[^c-6350fd740ece1f06f18ca1fced851ae2] |
 | Shadow director | Section 251 of the Companies Act 2006 |
 | Undistributable reserves | Section 831(4) of the Companies Act 2006 |
 
@@ -527,7 +527,7 @@ Sections 2(5) and 5(1).
 
 (2) Sub-paragraph (1) shall not apply to any provision relating to taxation.
 
-**3.** (1) A reference to the statement under section 12 of the Companies Act 2006[^key-173876c4fc2f0a01ac0c546d236c38dc] shall be construed as a reference to the statement under paragraph 3 of Schedule 1 to this Act.
+**3.** (1) A reference to the statement under section 12 of the Companies Act 2006[^c-173876c4fc2f0a01ac0c546d236c38dc] shall be construed as a reference to the statement under paragraph 3 of Schedule 1 to this Act.
 
 (2) A reference to documents delivered under the Companies Acts shall be taken to include a reference to documents delivered under section 2(1) of this Act.
 
@@ -538,26 +538,26 @@ Sections 2(5) and 5(1).
 - (a) be construed as a requirement to issue a certificate of registration similar to the certificate under section 4(3), and
 - (b) apply with such other modifications as the registrar considers necessary in consequence of paragraph (a).
 
-**5.** In section 1(1) of the Companies Act 2006[^key-e502ef321bf41f5e03766397f7793f15] (definition of company), and in other legislation relating to companies, any reference to a company formed and registered under that Act shall have effect as if the reference to formation were omitted.
+**5.** In section 1(1) of the Companies Act 2006[^c-e502ef321bf41f5e03766397f7793f15] (definition of company), and in other legislation relating to companies, any reference to a company formed and registered under that Act shall have effect as if the reference to formation were omitted.
 
 #### Effect of registration
 
-**6.** Section 16 of the Companies Act 2006[^key-35cbfb58e915e8594424e11b2d8276b5] (effect of registration) shall not apply.
+**6.** Section 16 of the Companies Act 2006[^c-35cbfb58e915e8594424e11b2d8276b5] (effect of registration) shall not apply.
 
-**7.** (1) This paragraph applies in place of section 112(1) of the Companies Act 2006[^key-b80f7095b42581c2684025bea7e266c9] (members).
+**7.** (1) This paragraph applies in place of section 112(1) of the Companies Act 2006[^c-b80f7095b42581c2684025bea7e266c9] (members).
 
 (2) The persons to whom shares are allotted by virtue of section 6 of this Act are deemed to have agreed to become members of the Corporation, and shall be entered as such in its register of members on registration.
 
 #### Use of “limited”
 
-**8.**[^key-8d83bd151d3161e17883b75942fd8afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8d83bd151d3161e17883b75942fd8afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Certificate as to share capital
 
 **9.** The following provisions shall not apply—
 
-- (a) section 761 of the Companies Act 2006[^key-04adc469bc1b426125d3d8f6e96161fe] (public company share capital requirements), and
-- (b) section 122(1)(b) of the [^c879287]Insolvency Act 1986 (winding up by the court: lack of certificate under section 761 of 2006 Act[^key-d9efb2916f4ffc452ce94dea986cd34a]).
+- (a) section 761 of the Companies Act 2006[^c-04adc469bc1b426125d3d8f6e96161fe] (public company share capital requirements), and
+- (b) section 122(1)(b) of the [^c879287]Insolvency Act 1986 (winding up by the court: lack of certificate under section 761 of 2006 Act[^c-d9efb2916f4ffc452ce94dea986cd34a]).
 
 #### Financial year
 
@@ -570,7 +570,7 @@ Sections 2(5) and 5(1).
 
 #### Accounting reference periods
 
-**11.** (1) This paragraph applies in place of section 391(2) to (7) of the Companies Act 2006[^key-436148e7186b510d2291444f136a5056] (accounting reference periods, &c.).
+**11.** (1) This paragraph applies in place of section 391(2) to (7) of the Companies Act 2006[^c-436148e7186b510d2291444f136a5056] (accounting reference periods, &c.).
 
 (2) The Corporation’s accounting reference date shall be the date specified by the Secretary of State under section 1(3)(a) of this Act.
 
@@ -584,16 +584,16 @@ Sections 2(5) and 5(1).
 - (a) beginning immediately after the end of the previous accounting reference period, and
 - (b) ending with the accounting reference date.
 
-(5) This paragraph is subject to the provisions of section 392 of the Companies Act 2006[^key-96ecf2b44127f459ec14af96eeb00f79] relating to the alteration of accounting reference dates and the consequences of such alteration.
+(5) This paragraph is subject to the provisions of section 392 of the Companies Act 2006[^c-96ecf2b44127f459ec14af96eeb00f79] relating to the alteration of accounting reference dates and the consequences of such alteration.
 
 #### Status as investment company
 
-**12.** (1) Section 833 of the Companies Act 2006[^key-da89539f95898b941f74d86c39a441e9] (investment company) shall have effect with the omission of subsection (2)(d) in relation to any accounting reference period which—
+**12.** (1) Section 833 of the Companies Act 2006[^c-da89539f95898b941f74d86c39a441e9] (investment company) shall have effect with the omission of subsection (2)(d) in relation to any accounting reference period which—
 
 - (a) falls within the exempt period, or
 - (b) begins before and ends within the exempt period.
 
-(2) Section 834(2)(a) of the Companies Act 2006[^key-cac5bb310768a683c934b3b079e72768] (holdings in groups) shall not apply for the purposes of determining whether the Corporation complies with the requirement in section 833(2)(b) of that Act[^key-2db7961eaaa26c18a485ba4db181c186] at any time during the exempt period.
+(2) Section 834(2)(a) of the Companies Act 2006[^c-cac5bb310768a683c934b3b079e72768] (holdings in groups) shall not apply for the purposes of determining whether the Corporation complies with the requirement in section 833(2)(b) of that Act[^c-2db7961eaaa26c18a485ba4db181c186] at any time during the exempt period.
 
 (3) Paragraph 73(a) of Schedule 4 to the Companies Act 1985 (company accounts: investment company) shall be taken to be satisfied in relation to the financial year of the Corporation during which it first becomes an investment company.
 
@@ -607,7 +607,7 @@ the prohibition shall be ignored for the purposes of paragraph 73(b) of Schedule
 (5) In this paragraph—
 
 - “**the exempt period**” means the exempt period for the purposes of Schedule 3 to this Act, and
-- “**investment company**” has the meaning assigned by section 833(1) of the Companies Act 2006[^key-5f93b8645d66bb0f618d50bfe24b7905].
+- “**investment company**” has the meaning assigned by section 833(1) of the Companies Act 2006[^c-5f93b8645d66bb0f618d50bfe24b7905].
 
 #### Registration of charges
 
@@ -627,18 +627,18 @@ the prohibition shall be ignored for the purposes of paragraph 73(b) of Schedule
 
 #### Fees
 
-**14.** (1)[^key-257e039ccf8c5556d6978a1fc3007d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.** (1)[^c-257e039ccf8c5556d6978a1fc3007d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In any regulations made under [^key-e1f64d8dcd375cd55db4a503e238aa07]... section 1063 of the Companies Act 2006 (fees payable to registrar)[^key-ffc4aef414004b0da43b924f0bf48ab1] a reference to a certificate of incorporation shall be construed as including a reference to—
+(2) In any regulations made under [^c-e1f64d8dcd375cd55db4a503e238aa07]... section 1063 of the Companies Act 2006 (fees payable to registrar)[^c-ffc4aef414004b0da43b924f0bf48ab1] a reference to a certificate of incorporation shall be construed as including a reference to—
 
 - (a) a certificate under section 4(3), and
 - (b) a certificate issued in accordance with paragraph 4(2).
 
 #### Shadow directors
 
-**15.** (1) For the purposes of the provisions of the Companies Act 2006[^key-925719ae228bb8e00d4d6f9c5eaecc57] listed in sub-paragraph (2), neither the Secretary of State nor the Treasury shall be regarded as a shadow director of the Corporation or of a company associated with the Corporation at any time while the Crown continues to hold any special share provided for under the Corporation’s articles of association.
+**15.** (1) For the purposes of the provisions of the Companies Act 2006[^c-925719ae228bb8e00d4d6f9c5eaecc57] listed in sub-paragraph (2), neither the Secretary of State nor the Treasury shall be regarded as a shadow director of the Corporation or of a company associated with the Corporation at any time while the Crown continues to hold any special share provided for under the Corporation’s articles of association.
 
-(2)[^key-e693be7f3fd123094b330236936ec250] The provisions are—
+(2)[^c-e693be7f3fd123094b330236936ec250] The provisions are—
 
 - (a) section 162 (register of directors);
 - (b) Chapter 3 of Part 10 (declaration of interest in existing transaction or arrangement);
@@ -651,7 +651,7 @@ Section 20.
 
 ### The exempt period
 
-**1.** (1)[^key-3de5f4f40bdca1b64bdd33cd8a2f9965] The exempt period for the purposes of this Schedule shall begin with a day appointed by the Secretary of State by order made by statutory instrument.
+**1.** (1)[^c-3de5f4f40bdca1b64bdd33cd8a2f9965] The exempt period for the purposes of this Schedule shall begin with a day appointed by the Secretary of State by order made by statutory instrument.
 
 (2) If—
 
@@ -703,14 +703,14 @@ the exempt period for the purposes of this Schedule shall end with that day.
 
 (2) The following provisions shall not apply in relation to the distribution—
 
-- (a) section 1285 of the Corporation Tax Act 2009[^key-ba8fc97fb0d107669d8a15f250338788] (exemption from corporation tax);
-- (b)[^key-685a3d4a1d6de241d600adc08248ef43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 1285 of the Corporation Tax Act 2009[^c-ba8fc97fb0d107669d8a15f250338788] (exemption from corporation tax);
+- (b)[^c-685a3d4a1d6de241d600adc08248ef43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The distribution shall be treated for the purposes of income tax as dividends of a non-UK resident company chargeable under Chapter 4 of Part 4 of the Income Tax (Trading and Other Income) Act 2005 (and accordingly as relevant foreign income for the purposes of that Act), and for the purposes of corporation tax[^key-55c92b3393a32136b35ec11477e4460d] as dividends of a non-UK resident company chargeable under Chapter 2 of Part 10 of the Corporation Tax Act 2009.[^key-de0d8a9b4a2817a0ba0a33014fa4c626]
+(3) The distribution shall be treated for the purposes of income tax as dividends of a non-UK resident company chargeable under Chapter 4 of Part 4 of the Income Tax (Trading and Other Income) Act 2005 (and accordingly as relevant foreign income for the purposes of that Act), and for the purposes of corporation tax[^c-55c92b3393a32136b35ec11477e4460d] as dividends of a non-UK resident company chargeable under Chapter 2 of Part 10 of the Corporation Tax Act 2009.[^c-de0d8a9b4a2817a0ba0a33014fa4c626]
 
-(4)[^key-bccf8b2ed9c59aca72b4ad397a90d02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bccf8b2ed9c59aca72b4ad397a90d02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In this paragraph “**distribution**” has the same meaning as it has in the Corporation Taxes Acts by virtue of Chapter 2 of Part 23 of the Corporation Tax Act 2010[^key-2bbd5b3c5ea91d355784f8fde4459da1] (company distributions).
+(5) In this paragraph “**distribution**” has the same meaning as it has in the Corporation Taxes Acts by virtue of Chapter 2 of Part 23 of the Corporation Tax Act 2010[^c-2bbd5b3c5ea91d355784f8fde4459da1] (company distributions).
 
 ## SCHEDULE 4 — Repeals
 
@@ -746,11 +746,11 @@ Section 27.
 
 [^c879274]: Marginal citation: [1978 c. 2](https://www.legislation.gov.uk/ukpga/1978/2).
 
-[^key-2209f8202b2bb3e6c759a8be186c9076]: Textual amendment: Sum in [s. 15(1)](https://www.legislation.gov.uk/ukpga/1999/20/section/15/1) substituted (20.7.2023) by [The Commonwealth Development Corporation (Limit on Government Assistance) Regulations 2023 (S.I. 2023/853)](https://www.legislation.gov.uk/uksi/2023/853), [regs. 1](https://www.legislation.gov.uk/uksi/2023/853/regulation/1), [2](https://www.legislation.gov.uk/uksi/2023/853/regulation/2)
+[^c-2209f8202b2bb3e6c759a8be186c9076]: Textual amendment: Sum in [s. 15(1)](https://www.legislation.gov.uk/ukpga/1999/20/section/15/1) substituted (20.7.2023) by [The Commonwealth Development Corporation (Limit on Government Assistance) Regulations 2023 (S.I. 2023/853)](https://www.legislation.gov.uk/uksi/2023/853), [regs. 1](https://www.legislation.gov.uk/uksi/2023/853/regulation/1), [2](https://www.legislation.gov.uk/uksi/2023/853/regulation/2)
 
-[^key-784995cf13da154ab2a3151e7d820e3f]: Textual amendment: [S. 15(4)-(6)](https://www.legislation.gov.uk/ukpga/1999/20/section/15/4) inserted (23.2.2017) by [Commonwealth Development Corporation Act 2017 (c. 5)](https://www.legislation.gov.uk/ukpga/2017/5), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/5/section/1/3), [2(3)](https://www.legislation.gov.uk/ukpga/2017/5/section/2/3)
+[^c-784995cf13da154ab2a3151e7d820e3f]: Textual amendment: [S. 15(4)-(6)](https://www.legislation.gov.uk/ukpga/1999/20/section/15/4) inserted (23.2.2017) by [Commonwealth Development Corporation Act 2017 (c. 5)](https://www.legislation.gov.uk/ukpga/2017/5), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/5/section/1/3), [2(3)](https://www.legislation.gov.uk/ukpga/2017/5/section/2/3)
 
-[^key-356b6391aa59bb8d6c04f55475e7be92]: Textual amendment: Words in s. 16(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-356b6391aa59bb8d6c04f55475e7be92]: Textual amendment: Words in s. 16(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c879276]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/1999/20/section/23) wholly in force; [s. 23(1)(3)](https://www.legislation.gov.uk/ukpga/1999/20/section/23/1/3) in force at Royal Assent and s. 23(2) in force on registration (8.12.1999) see [s. 23(3)](https://www.legislation.gov.uk/ukpga/1999/20/section/23/3); [S.I.1999/3258](https://www.legislation.gov.uk/uksi/1999/3258), [art. 2](https://www.legislation.gov.uk/uksi/1999/3258/article/2)
 
@@ -764,13 +764,13 @@ Section 27.
 
 [^c879282]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-1e32c2d6ff94db033886fa455114daaa]: Textual amendment: Words in s. 26(2) inserted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 208(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/208/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-1e32c2d6ff94db033886fa455114daaa]: Textual amendment: Words in s. 26(2) inserted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 208(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/208/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-c3b679e7a78ef482a5763ef9cff82020]: Textual amendment: S. 26(2) table substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 208(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/208/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-c3b679e7a78ef482a5763ef9cff82020]: Textual amendment: S. 26(2) table substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 208(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/208/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-f52525ec3c1a25a9bc7c42c153181f1a]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/1999/20/section/26/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f52525ec3c1a25a9bc7c42c153181f1a]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/1999/20/section/26/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6350fd740ece1f06f18ca1fced851ae2]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/1999/20/section/26/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-6350fd740ece1f06f18ca1fced851ae2]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/1999/20/section/26/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c879283]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
@@ -778,45 +778,45 @@ Section 27.
 
 [^c879285]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-173876c4fc2f0a01ac0c546d236c38dc]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/3/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-173876c4fc2f0a01ac0c546d236c38dc]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/3/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-e502ef321bf41f5e03766397f7793f15]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e502ef321bf41f5e03766397f7793f15]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-35cbfb58e915e8594424e11b2d8276b5]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/6) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-35cbfb58e915e8594424e11b2d8276b5]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/6) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-b80f7095b42581c2684025bea7e266c9]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(d)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b80f7095b42581c2684025bea7e266c9]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(d)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-8d83bd151d3161e17883b75942fd8afe]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/8) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(e)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/e) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8d83bd151d3161e17883b75942fd8afe]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/8) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(e)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/e) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-04adc469bc1b426125d3d8f6e96161fe]: Textual amendment: Words in Sch. 2 para. 9(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-04adc469bc1b426125d3d8f6e96161fe]: Textual amendment: Words in Sch. 2 para. 9(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c879287]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-d9efb2916f4ffc452ce94dea986cd34a]: Textual amendment: Words in Sch. 2 para. 9(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(f)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/f) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-d9efb2916f4ffc452ce94dea986cd34a]: Textual amendment: Words in Sch. 2 para. 9(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(f)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/f) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-436148e7186b510d2291444f136a5056]: Textual amendment: Words in [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/11/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(3)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/3/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-436148e7186b510d2291444f136a5056]: Textual amendment: Words in [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/11/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(3)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/3/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-96ecf2b44127f459ec14af96eeb00f79]: Textual amendment: Words in [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/11/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(3)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/3/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-96ecf2b44127f459ec14af96eeb00f79]: Textual amendment: Words in [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/11/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(3)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/3/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-da89539f95898b941f74d86c39a441e9]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-da89539f95898b941f74d86c39a441e9]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-cac5bb310768a683c934b3b079e72768]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(b)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/b/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-cac5bb310768a683c934b3b079e72768]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(b)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/b/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-2db7961eaaa26c18a485ba4db181c186]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/b/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-2db7961eaaa26c18a485ba4db181c186]: Textual amendment: Words in [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/b/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-5f93b8645d66bb0f618d50bfe24b7905]: Textual amendment: Words in [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(c)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-5f93b8645d66bb0f618d50bfe24b7905]: Textual amendment: Words in [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/12/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(4)(c)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/4/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-257e039ccf8c5556d6978a1fc3007d7e]: Textual amendment: [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/14/1) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(g)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/g/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-257e039ccf8c5556d6978a1fc3007d7e]: Textual amendment: [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/14/1) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(g)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/g/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-e1f64d8dcd375cd55db4a503e238aa07]: Textual amendment: Words in [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/14/2) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(g)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/g/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e1f64d8dcd375cd55db4a503e238aa07]: Textual amendment: Words in [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/2/paragraph/14/2) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(g)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/g/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-ffc4aef414004b0da43b924f0bf48ab1]: Textual amendment: Words in Sch. 2 para. 14(2) inserted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(5)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/5) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-ffc4aef414004b0da43b924f0bf48ab1]: Textual amendment: Words in Sch. 2 para. 14(2) inserted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 209(5)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/209/5) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-925719ae228bb8e00d4d6f9c5eaecc57]: Textual amendment: Words in Sch. 2 para. 15(1) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(h)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/h/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-925719ae228bb8e00d4d6f9c5eaecc57]: Textual amendment: Words in Sch. 2 para. 15(1) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(h)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/h/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-e693be7f3fd123094b330236936ec250]: Textual amendment: Sch. 2 para. 15(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(h)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/h/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e693be7f3fd123094b330236936ec250]: Textual amendment: Sch. 2 para. 15(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 177(4)(h)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/177/4/h/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-3de5f4f40bdca1b64bdd33cd8a2f9965]: Modification: Sch. 3 para. 1(1): 1.5.2003 appointed for beginning of exempt period by S.I. 2003/1282, art. 2
+[^c-3de5f4f40bdca1b64bdd33cd8a2f9965]: Modification: Sch. 3 para. 1(1): 1.5.2003 appointed for beginning of exempt period by S.I. 2003/1282, art. 2
 
 [^c879290]: Marginal citation: [1988 c. 39](https://www.legislation.gov.uk/ukpga/1988/39).
 
@@ -826,14 +826,14 @@ Section 27.
 
 [^c879293]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-ba8fc97fb0d107669d8a15f250338788]: Textual amendment: Words in Sch. 3 para. 6(2)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 461(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/461/2/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ba8fc97fb0d107669d8a15f250338788]: Textual amendment: Words in Sch. 3 para. 6(2)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 461(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/461/2/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-685a3d4a1d6de241d600adc08248ef43]: Textual amendment: [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/6/2/b) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/59)
+[^c-685a3d4a1d6de241d600adc08248ef43]: Textual amendment: [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/6/2/b) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/59)
 
-[^key-55c92b3393a32136b35ec11477e4460d]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 510(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/510/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-55c92b3393a32136b35ec11477e4460d]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 510(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/510/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-de0d8a9b4a2817a0ba0a33014fa4c626]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 461(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/461/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-de0d8a9b4a2817a0ba0a33014fa4c626]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 461(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/461/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-bccf8b2ed9c59aca72b4ad397a90d02a]: Textual amendment: Sch. 3 para. 6(4) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 510(4)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/510/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-bccf8b2ed9c59aca72b4ad397a90d02a]: Textual amendment: Sch. 3 para. 6(4) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 510(4)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/510/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-2bbd5b3c5ea91d355784f8fde4459da1]: Textual amendment: Words in Sch. 3 para. 6(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 303(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/303/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2bbd5b3c5ea91d355784f8fde4459da1]: Textual amendment: Words in Sch. 3 para. 6(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 303(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/303/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

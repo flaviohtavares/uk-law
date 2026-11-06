@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Gifts to merged charity[^key-2d5d050755e54bf9142e67871fdef374][^key-34804c55ca9202f912b1f1cd3ea637f5]
+## 33. Gifts to merged charity[^c-2d5d050755e54bf9142e67871fdef374][^c-34804c55ca9202f912b1f1cd3ea637f5]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5d050755e54bf9142e67871fdef374]: Commencement: S. 33 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-2d5d050755e54bf9142e67871fdef374]: Commencement: S. 33 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-34804c55ca9202f912b1f1cd3ea637f5]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/6/section/33) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/8)
+[^c-34804c55ca9202f912b1f1cd3ea637f5]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/6/section/33) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/8)

@@ -57,7 +57,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c842953]
 
-### 3. Bingo duty.[^key-75f23e1a128c0c4a88956e8aa76ae7af]
+### 3. Bingo duty.[^c-75f23e1a128c0c4a88956e8aa76ae7af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -75,7 +75,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 (1)—(4) . . . [^c842962]
 
-(5)[^key-ed545fa99e2243ae4b8c8b89c93204c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ed545fa99e2243ae4b8c8b89c93204c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) . . . [^c842962]
 
@@ -393,20 +393,20 @@ Provided that the said paragraphs 10A and 10B shall not apply except where they 
 
 ### 58. Disclosure of information for statistical purposes by Board of Inland Revenue.
 
-(1) For the purpose of any statistical survey conducted or to be conducted by the Department of Employment and Productivity the Department of Trade and Industry or the[^c843260] Statistics Board[^key-c9f92b9073222cc33bfe7fcacc39d0c5], the Board of Inland Revenue may disclose to an authorised officer of that Department or Board[^key-5bcb6e8ac84794bc16e2f3e5469b0b59]—
+(1) For the purpose of any statistical survey conducted or to be conducted by the Department of Employment and Productivity the Department of Trade and Industry or the[^c843260] Statistics Board[^c-c9f92b9073222cc33bfe7fcacc39d0c5], the Board of Inland Revenue may disclose to an authorised officer of that Department or Board[^c-5bcb6e8ac84794bc16e2f3e5469b0b59]—
 
-- (a) the names and addresses of persons (in this section referred to as “**employers**”) required under PAYE[^key-c477a09bffafbdec65065706a451371f] regulations to make deductions of tax from payments of, or on account of, earnings or amounts treated as earnings from an employment[^key-e477146d7855c09c5a14783b5d86c4c1]; and
-- (b) information concerning the number of persons (in this section referred to as “ **employees** ”) in receipt of earnings or amounts treated as earnings[^key-c9e34dd5f9ec6cb3fa58a8105ac7d44f] paid by an employer.
+- (a) the names and addresses of persons (in this section referred to as “**employers**”) required under PAYE[^c-c477a09bffafbdec65065706a451371f] regulations to make deductions of tax from payments of, or on account of, earnings or amounts treated as earnings from an employment[^c-e477146d7855c09c5a14783b5d86c4c1]; and
+- (b) information concerning the number of persons (in this section referred to as “ **employees** ”) in receipt of earnings or amounts treated as earnings[^c-c9e34dd5f9ec6cb3fa58a8105ac7d44f] paid by an employer.
 
-(1A)[^key-da4910c0902b6b65f626127a4df4dbb0] In subsection (1) “ **earnings or amounts treated as earnings** ” means earnings or amounts treated as earnings which constitute employment income (see section 7(2)(a) or (b) of the Income Tax (Earnings and Pensions) Act 2003).
+(1A)[^c-da4910c0902b6b65f626127a4df4dbb0] In subsection (1) “ **earnings or amounts treated as earnings** ” means earnings or amounts treated as earnings which constitute employment income (see section 7(2)(a) or (b) of the Income Tax (Earnings and Pensions) Act 2003).
 
-(2) For the purpose of any statistical survey relating to earnings conducted or to be conducted by the Statistics Board[^key-727f48c31b523bc22627c56b3b3ce2dd] and Productivity, the Board of Inland Revenue may disclose to an authorised officer of the Statistics Board[^key-dee929e46f3b52a1381017be17a19e9f] the name and address of the employer of any person who is one of a number of employees selected (as a statistical sample) for the purpose of that survey.
+(2) For the purpose of any statistical survey relating to earnings conducted or to be conducted by the Statistics Board[^c-727f48c31b523bc22627c56b3b3ce2dd] and Productivity, the Board of Inland Revenue may disclose to an authorised officer of the Statistics Board[^c-dee929e46f3b52a1381017be17a19e9f] the name and address of the employer of any person who is one of a number of employees selected (as a statistical sample) for the purpose of that survey.
 
 (3) Subsections (1) and (2) above shall have effect notwithstanding any obligation as to secrecy imposed on the Board or any officer of the Board under the [^c843267] Income Tax Management Act 1964 or otherwise.
 
-(4)[^key-6f0d4e85a557b8cb67dcd433e62a0bce][^key-c22c1f26d322c3da79f500c00b6d3cb7] Subject to subsection (5) below, no information obtained by virtue of this section by an officer of the Department of Employment and Productivity or of the Department of Trade and Industry or of the[^c843268] Statistics Board[^key-d774e8fdb00e9d1487ff779f788a66f1] may be disclosed except—
+(4)[^c-6f0d4e85a557b8cb67dcd433e62a0bce][^c-c22c1f26d322c3da79f500c00b6d3cb7] Subject to subsection (5) below, no information obtained by virtue of this section by an officer of the Department of Employment and Productivity or of the Department of Trade and Industry or of the[^c843268] Statistics Board[^c-d774e8fdb00e9d1487ff779f788a66f1] may be disclosed except—
 
-- (a) to another officer of that Department or Board[^key-447a33fb1c55ec98ac2213bf3f7672f8] for the purpose of the statistical survey concerned, or
+- (a) to another officer of that Department or Board[^c-447a33fb1c55ec98ac2213bf3f7672f8] for the purpose of the statistical survey concerned, or
 - (b) to another department (including a department of the Government of Northern Ireland) for the purpose of a statistical survey conducted or to be conducted by that department. or[^c843270]
 - (c) to an authorised officer of any body specified in the first column of the following Table for the purposes of functions of that body under any enactment specified in relation to it in the second column of the Table.
 
@@ -419,7 +419,7 @@ Provided that the said paragraphs 10A and 10B shall not apply except where they 
   | The Northern Ireland Training Authority. | The [^c843276] Industrial Training (Northern Ireland) Order 1984. |
   | A local planning authority within the meaning of Part 2 or 6 of the Planning and Compulsory Purchase Act 2004 and any board which exercises for any area the functions of such an authority. | Part 2 or 6 of the Planning and Compulsory Purchase Act 2004 |
   | A planning authority as defined in section 1 of the Town and Country Planning (Scotland) Act 1997[^c843280]. | Part II of the [^c843281] Town and Country Planning (Scotland) Act 1997[^c843282] . |
-  | The National Assembly for Wales[^key-fd24eafafedb31e6fad74902b8ceff16]. | The [^c843283] Welsh Development Agency Act 1975. |
+  | The National Assembly for Wales[^c-fd24eafafedb31e6fad74902b8ceff16]. | The [^c843283] Welsh Development Agency Act 1975. |
   | The Scottish Development Agency[^c843284] Scottish Enterprise. | The [^c843287] Scottish Development Agency Act 1975. Part I of the [^c843289] Enterprise and New Towns (Scotland) Act 1990. |
   | [^c843290] . . . | [^c843290] . . . |
   | The Highlands and Islands Development Board[^c843292] Highlands and Islands Enterprise. | The [^c843295] [^c843296] Highlands and Islands Development (Scotland) Acts 1965 and 1968. Part I of the [^c843298] Enterprise and New Towns (Scotland) Act 1990. |
@@ -434,13 +434,13 @@ Provided that the said paragraphs 10A and 10B shall not apply except where they 
 
 (6) If any person who has obtained any information by virtue of any provision of this section discloses that information otherwise than in accordance with paragraph ( *a* ) paragraph (b) or paragraph (c) of subsection (4) above[^c843305] or subsection (5) above, he shall be liable on summary conviction to a fine not exceeding £400, or on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or to both.
 
-(7) References in this section to the Department of Employment and Productivity the Department of Trade and Industry or the[^c843306] Statistics Board[^key-399eb90c1a061e79ae7fa2fa15613072] include references to any department of the Government of Northern Ireland carrying out similar functions.
+(7) References in this section to the Department of Employment and Productivity the Department of Trade and Industry or the[^c843306] Statistics Board[^c-399eb90c1a061e79ae7fa2fa15613072] include references to any department of the Government of Northern Ireland carrying out similar functions.
 
 ### 59. Disclosure of information by Commissioners of Customs and Excise.
 
 If the Horserace Betting Levy Board so request at any time with respect to a specified person and a specified period, and the Commissioners of Customs and Excise are satisfied that the Board require the information for the purpose of determining whether or not that person falls to be assessed by the Board to pay in respect of that period such a contribution as is mentioned in section 24(1) of the [^c843308]Betting, Gaming and Lotteries Act 1963 and that the Board will not use the information for any other purpose, the Commissioners may inform the Board whether that person has or has not made a payment to the Commissioners during or in respect of that period on account of the general betting duty.
 
-### 60. Amendments for purposes of tax consolidation.[^key-4a32d507f0dca6f8b3d892f54a7c015f]
+### 60. Amendments for purposes of tax consolidation.[^c-4a32d507f0dca6f8b3d892f54a7c015f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -499,25 +499,25 @@ Section 1(5).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c843328]
 
-## SCHEDULE 9 — Provisions Relating to Bingo Duty[^key-e2b88df94d6d7e34e37fa9e77c4819a2]
+## SCHEDULE 9 — Provisions Relating to Bingo Duty[^c-e2b88df94d6d7e34e37fa9e77c4819a2]
 
 **No longer in force.**
 
 Section 3.
 
-### Part I — Exemptions from Duty[^key-e2b88df94d6d7e34e37fa9e77c4819a2]
+### Part I — Exemptions from Duty[^c-e2b88df94d6d7e34e37fa9e77c4819a2]
 
-**1—6.**[^key-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1—6.**[^c-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Administration and Enforcement[^key-e2b88df94d6d7e34e37fa9e77c4819a2]
+### Part II — Administration and Enforcement[^c-e2b88df94d6d7e34e37fa9e77c4819a2]
 
-**7—21.**[^key-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7—21.**[^c-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-e2b88df94d6d7e34e37fa9e77c4819a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c843337]
 
@@ -539,7 +539,7 @@ Section 60
 
 ### Discharge of functions of Commissioners of Inland Revenue
 
-**11.**[^key-caaa4fb97a80726c6f509ff1c3c8ff2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-caaa4fb97a80726c6f509ff1c3c8ff2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12—25.** . . . [^c843346]
 
@@ -599,7 +599,7 @@ Section 61.
 
 [^c842953]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1969/32/section/2) repealed except as respects any period before 27.4.1970, by [Finance Act 1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), [Sch. 8 Pt. II](https://www.legislation.gov.uk/ukpga/1970/24/schedule/8/part/II)
 
-[^key-75f23e1a128c0c4a88956e8aa76ae7af]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1969/32/section/3) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/1) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-75f23e1a128c0c4a88956e8aa76ae7af]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1969/32/section/3) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/1) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
 [^c842958]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1969/32/section/4) repealed, except as regards any gaming before 1.10.1970, by [Finance Act 1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1970/24/schedule/8/part/I)
 
@@ -611,7 +611,7 @@ Section 61.
 
 [^c842962]: Textual amendment: Ss. 7–11(4), 11(6), 12–15 repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [ss. 537(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/537/1), [538(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/538/1), [539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1970/10/schedule/14/paragraph/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-ed545fa99e2243ae4b8c8b89c93204c9]: Textual amendment: [S. 11(5)](https://www.legislation.gov.uk/ukpga/1969/32/section/11/5) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-ed545fa99e2243ae4b8c8b89c93204c9]: Textual amendment: [S. 11(5)](https://www.legislation.gov.uk/ukpga/1969/32/section/11/5) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c842965]: Textual amendment: [Ss. 7–11(4)](https://www.legislation.gov.uk/ukpga/1969/32/section/7), [11(6)](https://www.legislation.gov.uk/ukpga/1969/32/section/11/6), [12–15](https://www.legislation.gov.uk/ukpga/1969/32/section/12) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [ss. 537(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/537/1), [538(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/538/1), [539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1970/10/schedule/14/paragraph/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
@@ -673,33 +673,33 @@ Section 61.
 
 [^c843260]: Textual amendment: Words substituted by [S.I. 1989/992](https://www.legislation.gov.uk/uksi/1989/992) , [art. 6(4)](https://www.legislation.gov.uk/uksi/1989/992/article/6/4) , [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/992/schedule/2/paragraph/1/1/a)
 
-[^key-c9f92b9073222cc33bfe7fcacc39d0c5]: Textual amendment: Words in s. 58(1) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/2/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-c9f92b9073222cc33bfe7fcacc39d0c5]: Textual amendment: Words in s. 58(1) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/2/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-5bcb6e8ac84794bc16e2f3e5469b0b59]: Textual amendment: Words in s. 58(1) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/2/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-5bcb6e8ac84794bc16e2f3e5469b0b59]: Textual amendment: Words in s. 58(1) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/2/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-c477a09bffafbdec65065706a451371f]: Textual amendment: Words in s. 58(1)(a) substituted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/2/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
+[^c-c477a09bffafbdec65065706a451371f]: Textual amendment: Words in s. 58(1)(a) substituted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/2/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
 
-[^key-e477146d7855c09c5a14783b5d86c4c1]: Textual amendment: Words in s. 58(1)(a) substituted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/2/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
+[^c-e477146d7855c09c5a14783b5d86c4c1]: Textual amendment: Words in s. 58(1)(a) substituted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/2/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
 
-[^key-c9e34dd5f9ec6cb3fa58a8105ac7d44f]: Textual amendment: Words in s. 58(1)(b) substituted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
+[^c-c9e34dd5f9ec6cb3fa58a8105ac7d44f]: Textual amendment: Words in s. 58(1)(b) substituted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
 
-[^key-da4910c0902b6b65f626127a4df4dbb0]: Textual amendment: S. 58(1A) inserted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/4) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
+[^c-da4910c0902b6b65f626127a4df4dbb0]: Textual amendment: S. 58(1A) inserted (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) , [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) , [Sch. 6 para. 122(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/122/4) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7) )
 
-[^key-727f48c31b523bc22627c56b3b3ce2dd]: Textual amendment: Words in s. 58(2) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/3/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-727f48c31b523bc22627c56b3b3ce2dd]: Textual amendment: Words in s. 58(2) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/3/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-dee929e46f3b52a1381017be17a19e9f]: Textual amendment: Words in s. 58(2) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/3/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-dee929e46f3b52a1381017be17a19e9f]: Textual amendment: Words in s. 58(2) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/3/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c843267]: Marginal citation: [1964 c. 37](https://www.legislation.gov.uk/ukpga/1964/37) .
 
-[^key-6f0d4e85a557b8cb67dcd433e62a0bce]: Textual amendment: Words in s. 58(4) substituted (28.9.2004 for E. and 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/2/a) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i); S.I. 2005/2847, art. 2(f)
+[^c-6f0d4e85a557b8cb67dcd433e62a0bce]: Textual amendment: Words in s. 58(4) substituted (28.9.2004 for E. and 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/2/a) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i); S.I. 2005/2847, art. 2(f)
 
-[^key-c22c1f26d322c3da79f500c00b6d3cb7]: Textual amendment: Words in s. 58(4) substituted (28.9.2004 for E. and 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/2/b) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i); S.I. 2005/2847, art. 2(f)
+[^c-c22c1f26d322c3da79f500c00b6d3cb7]: Textual amendment: Words in s. 58(4) substituted (28.9.2004 for E. and 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/2/b) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i); S.I. 2005/2847, art. 2(f)
 
 [^c843268]: Textual amendment: Words substituted by [S.I. 1989/992](https://www.legislation.gov.uk/uksi/1989/992) , [art. 6(4)](https://www.legislation.gov.uk/uksi/1989/992/article/6/4) , [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/992/schedule/2/paragraph/1/1/b)
 
-[^key-d774e8fdb00e9d1487ff779f788a66f1]: Textual amendment: Words in s. 58(4) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/4/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-d774e8fdb00e9d1487ff779f788a66f1]: Textual amendment: Words in s. 58(4) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/4/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-447a33fb1c55ec98ac2213bf3f7672f8]: Textual amendment: Words in s. 58(4) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/4/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-447a33fb1c55ec98ac2213bf3f7672f8]: Textual amendment: Words in s. 58(4) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/4/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c843270]: Textual amendment: Words added by [Finance (No. 2) Act 1987 (c. 51, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1987/51) , [s. 69(1)(2)](https://www.legislation.gov.uk/ukpga/1987/51/section/69/1/2)
 
@@ -713,7 +713,7 @@ Section 61.
 
 [^c843282]: Textual amendment: Words in s. 58(4)(c) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11) , [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4) , [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2) , [Sch. 2 para. 18(b)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/18/b)
 
-[^key-fd24eafafedb31e6fad74902b8ceff16]: Textual amendment: Words in s. 58(4) substituted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/2), [7](https://www.legislation.gov.uk/uksi/2005/3226/article/7), [Sch. 2 paras. 4](https://www.legislation.gov.uk/uksi/2005/3226/schedule/2/paragraph/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
+[^c-fd24eafafedb31e6fad74902b8ceff16]: Textual amendment: Words in s. 58(4) substituted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/2), [7](https://www.legislation.gov.uk/uksi/2005/3226/article/7), [Sch. 2 paras. 4](https://www.legislation.gov.uk/uksi/2005/3226/schedule/2/paragraph/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
 
 [^c843283]: Marginal citation: [1975 c.70](https://www.legislation.gov.uk/ukpga/1975/70)**(64)**
 
@@ -749,11 +749,11 @@ Section 61.
 
 [^c843306]: Textual amendment: Words substituted by [S.I. 1989/992](https://www.legislation.gov.uk/uksi/1989/992) , [art. 6(4)](https://www.legislation.gov.uk/uksi/1989/992/article/6/4) , [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/uksi/1989/992/schedule/2/paragraph/1/1/c)
 
-[^key-399eb90c1a061e79ae7fa2fa15613072]: Textual amendment: Words in s. 58(7) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/5); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-399eb90c1a061e79ae7fa2fa15613072]: Textual amendment: Words in s. 58(7) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/3/5); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c843308]: Marginal citation: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
 
-[^key-4a32d507f0dca6f8b3d892f54a7c015f]: Textual amendment: [S. 60](https://www.legislation.gov.uk/ukpga/1969/32/section/60) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-4a32d507f0dca6f8b3d892f54a7c015f]: Textual amendment: [S. 60](https://www.legislation.gov.uk/ukpga/1969/32/section/60) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c843309]: Textual amendment: [S. 61(3)](https://www.legislation.gov.uk/ukpga/1969/32/section/61/3)(*a*): Words substituted by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1979/2/schedule/4/paragraph/12) Table Pt. I
 
@@ -795,7 +795,7 @@ Section 61.
 
 [^c843328]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1969/32/schedule/8) repealed by [Finance Act 1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), [s. 36(8)](https://www.legislation.gov.uk/ukpga/1970/24/section/36/8), [Sch. 8 Pt. II](https://www.legislation.gov.uk/ukpga/1970/24/schedule/8/part/II)
 
-[^key-e2b88df94d6d7e34e37fa9e77c4819a2]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1969/32/schedule/9) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/1) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-e2b88df94d6d7e34e37fa9e77c4819a2]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1969/32/schedule/9) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/1) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
 [^c843337]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/1969/32/schedule/10) repealed except as respects any gaming before 1.10.1970, by [Finance Act 1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1970/24/schedule/8/part/I)
 
@@ -813,7 +813,7 @@ Section 61.
 
 [^c843344]: Textual amendment: [Sch. 20 paras. 1–10](https://www.legislation.gov.uk/ukpga/1969/32/schedule/20/paragraph/1), [12–25](https://www.legislation.gov.uk/ukpga/1969/32/schedule/20/paragraph/12) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-caaa4fb97a80726c6f509ff1c3c8ff2a]: Textual amendment: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/1969/32/schedule/20/paragraph/11) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-caaa4fb97a80726c6f509ff1c3c8ff2a]: Textual amendment: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/1969/32/schedule/20/paragraph/11) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c843346]: Textual amendment: [Sch. 20 paras. 1–10](https://www.legislation.gov.uk/ukpga/1969/32/schedule/20/paragraph/1), [12–25](https://www.legislation.gov.uk/ukpga/1969/32/schedule/20/paragraph/12) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 

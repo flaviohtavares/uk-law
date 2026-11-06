@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Research by the Commission or the Welsh Ministers[^key-0817580ee07ba5b57b1156bf1fb9291f][^key-6b4bf8779722e1a3474101f6a6a40043]
+## 136. Research by the Commission or the Welsh Ministers[^c-0817580ee07ba5b57b1156bf1fb9291f][^c-6b4bf8779722e1a3474101f6a6a40043]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0817580ee07ba5b57b1156bf1fb9291f]: Commencement: S. 136 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-0817580ee07ba5b57b1156bf1fb9291f]: Commencement: S. 136 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-6b4bf8779722e1a3474101f6a6a40043]: Commencement: [S. 136](https://www.legislation.gov.uk/asc/2022/1/section/136) in force at 1.8.2024 by [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(g)](https://www.legislation.gov.uk/wsi/2024/806/article/2/g) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-6b4bf8779722e1a3474101f6a6a40043]: Commencement: [S. 136](https://www.legislation.gov.uk/asc/2022/1/section/136) in force at 1.8.2024 by [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(g)](https://www.legislation.gov.uk/wsi/2024/806/article/2/g) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))

@@ -31,90 +31,90 @@ Conspiracy, and Protection of Property Act 1875 (repealed)
 
 1875 c.86
 
-[^key-4438eb4227d5e5703e02b0818928a715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4438eb4227d5e5703e02b0818928a715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Short title.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+## 1. Short title.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-## Conspiracy, and Protection of Property[^key-4438eb4227d5e5703e02b0818928a715]
+## Conspiracy, and Protection of Property[^c-4438eb4227d5e5703e02b0818928a715]
 
-### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 5. Breach of contract involving injury to persons or property.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 5. Breach of contract involving injury to persons or property.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Miscellaneous[^key-4438eb4227d5e5703e02b0818928a715]
+## Miscellaneous[^c-4438eb4227d5e5703e02b0818928a715]
 
-### 6. Penalty for neglect by master to provide food, clothing, &c., for servant or apprentice.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 6. Penalty for neglect by master to provide food, clothing, &c., for servant or apprentice.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Penalty for intimidation or annoyance by violence or otherwise.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 7. Penalty for intimidation or annoyance by violence or otherwise.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-## Legal Proceedings[^key-4438eb4227d5e5703e02b0818928a715]
+## Legal Proceedings[^c-4438eb4227d5e5703e02b0818928a715]
 
-### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 10, 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 10, 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-## Definitions[^key-4438eb4227d5e5703e02b0818928a715]
+## Definitions[^c-4438eb4227d5e5703e02b0818928a715]
 
-### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 15. “Maliciously” in this Act construed as in Malicious Injuries to Property Act.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
-
-*Extent: N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Saving Clause[^key-4438eb4227d5e5703e02b0818928a715]
-
-### 16. Saving as to sea service.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 15. “Maliciously” in this Act construed as in Malicious Injuries to Property Act.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Repeal[^key-4438eb4227d5e5703e02b0818928a715]
+## Saving Clause[^c-4438eb4227d5e5703e02b0818928a715]
 
-### 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+### 16. Saving as to sea service.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-## Application of Act to Scotland[^key-4438eb4227d5e5703e02b0818928a715]
-
-### 18. Application to Scotland.[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+*Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19, 20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+## Repeal[^c-4438eb4227d5e5703e02b0818928a715]
 
-## Application of Act to Ireland[^key-4438eb4227d5e5703e02b0818928a715]
+### 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
-### 21. Application to Ireland[^key-4438eb4227d5e5703e02b0818928a715][^key-4438eb4227d5e5703e02b0818928a715]
+## Application of Act to Scotland[^c-4438eb4227d5e5703e02b0818928a715]
+
+### 18. Application to Scotland.[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19, 20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
+
+## Application of Act to Ireland[^c-4438eb4227d5e5703e02b0818928a715]
+
+### 21. Application to Ireland[^c-4438eb4227d5e5703e02b0818928a715][^c-4438eb4227d5e5703e02b0818928a715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4438eb4227d5e5703e02b0818928a715]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/38-39/86) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-4438eb4227d5e5703e02b0818928a715]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/38-39/86) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

@@ -148,7 +148,7 @@ Food for special medical purposes other than that developed to satisfy the nutri
 
 ## Article 3. Requirements on pesticides in food for special medical purposes developed to satisfy the nutritional requirements of infants and young children
 
-1.[^key-c1c37b9f5961493527fca7bacac77d54] For the purposes of this Article, ‘residue’ means pesticide residue as referred to in sub-paragraph (c) of Article 3(2) of Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396).
+1.[^c-c1c37b9f5961493527fca7bacac77d54] For the purposes of this Article, ‘residue’ means pesticide residue as referred to in sub-paragraph (c) of Article 3(2) of Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396).
 
 2. Food for special medical purposes developed to satisfy the nutritional requirements of infants and young children shall not contain residues at levels exceeding 0,01 mg/kg per active substance.
 
@@ -217,7 +217,7 @@ Nutrition and health claims shall not be made on food for special medical purpos
 
 ## Article 8. Specific requirements for food for special medical purposes developed to satisfy the nutritional requirements of infants
 
-1. All mandatory particulars for food for special medical purposes developed to satisfy the nutritional requirements of infants shall appear in English[^key-c709fd43b9cdb6144b90bf5f2439d592].
+1. All mandatory particulars for food for special medical purposes developed to satisfy the nutritional requirements of infants shall appear in English[^c-c709fd43b9cdb6144b90bf5f2439d592].
 
 2. The labelling, presentation and advertising of food for special medical purposes developed to satisfy the nutritional requirements of infants shall not include pictures of infants, or other pictures or text which may idealise the use of the product.
 
@@ -227,7 +227,7 @@ However, graphic representations for easy identification of the product and for 
 
 4. Advertising of food for special medical purposes developed to satisfy the nutritional requirements of infants shall be restricted to publications specialising in baby care and scientific publications.
 
-The appropriate authority[^key-37667be0b6bd34f162b0c99b0d722e37] may further restrict or prohibit such advertising. Such advertising shall contain only information of a scientific and factual nature.
+The appropriate authority[^c-37667be0b6bd34f162b0c99b0d722e37] may further restrict or prohibit such advertising. Such advertising shall contain only information of a scientific and factual nature.
 
 The first and second subparagraphs shall not prevent the dissemination of information exclusively intended for health care professionals.
 
@@ -235,7 +235,7 @@ The first and second subparagraphs shall not prevent the dissemination of inform
 
 6. Manufacturers and distributors of food for special medical purposes developed to satisfy the nutritional requirements of infants shall not directly provide, to the general public or to pregnant women, mothers or members of their families, free or low-priced products, samples or any other promotional gifts.
 
-7. In this Article “[^key-788f39067ab1103f34a51b003cab48c4]**appropriate authority**” means—
+7. In this Article “[^c-788f39067ab1103f34a51b003cab48c4]**appropriate authority**” means—
 
 - (a) in respect of food developed in England, the Secretary of State;
 - (b) in respect of food developed in Wales, the Welsh Ministers;
@@ -424,7 +424,7 @@ Chemical name of the substance (residue definition)
 
 ## ANNEX IV — NAME REFERRED TO IN ARTICLE 4
 
-The name of food for special medical purposes shall be “Food for special medical purposes”[^key-0ec876faf0e2b450bd5c5e3ea792fca9].
+The name of food for special medical purposes shall be “Food for special medical purposes”[^c-0ec876faf0e2b450bd5c5e3ea792fca9].
 
 ## Annotations
 
@@ -450,13 +450,13 @@ The name of food for special medical purposes shall be “Food for special medic
 
 [^f00011]: Footnote: Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ([OJ L 31, 1.2.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.031.01.0001.01.ENG)).
 
-[^key-c1c37b9f5961493527fca7bacac77d54]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/eur/2016/128/article/3/1) substituted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/5/2) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-c1c37b9f5961493527fca7bacac77d54]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/eur/2016/128/article/3/1) substituted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/5/2) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-c709fd43b9cdb6144b90bf5f2439d592]: Textual amendment: Word in [Art. 8(1)](https://www.legislation.gov.uk/eur/2016/128/article/8/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(5)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/5/a) (as substituted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c709fd43b9cdb6144b90bf5f2439d592]: Textual amendment: Word in [Art. 8(1)](https://www.legislation.gov.uk/eur/2016/128/article/8/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(5)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/5/a) (as substituted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37667be0b6bd34f162b0c99b0d722e37]: Textual amendment: Words in [Art. 8(4)](https://www.legislation.gov.uk/eur/2016/128/article/8/4) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(5)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/5/b) (as substituted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37667be0b6bd34f162b0c99b0d722e37]: Textual amendment: Words in [Art. 8(4)](https://www.legislation.gov.uk/eur/2016/128/article/8/4) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(5)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/5/b) (as substituted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-788f39067ab1103f34a51b003cab48c4]: Textual amendment: [Art. 8(7)](https://www.legislation.gov.uk/eur/2016/128/article/8/7) inserted by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(5)(c)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/5/c) (as substituted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-788f39067ab1103f34a51b003cab48c4]: Textual amendment: [Art. 8(7)](https://www.legislation.gov.uk/eur/2016/128/article/8/7) inserted by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(5)(c)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/5/c) (as substituted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_a875c34c-9f5f-48eb-87b8-5be248d23153]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2016/128/article/9) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(6)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/6) (as amended by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -480,4 +480,4 @@ The name of food for special medical purposes shall be “Food for special medic
 
 [^f00019]: Footnote: For products intended for children of 1 to 10 years of age.
 
-[^key-0ec876faf0e2b450bd5c5e3ea792fca9]: Textual amendment: Words in Annex 4 substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(8)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/8) (as inserted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(d)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ec876faf0e2b450bd5c5e3ea792fca9]: Textual amendment: Words in Annex 4 substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [72(8)](https://www.legislation.gov.uk/uksi/2019/651/regulation/72/8) (as inserted by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(7)(d)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/7/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

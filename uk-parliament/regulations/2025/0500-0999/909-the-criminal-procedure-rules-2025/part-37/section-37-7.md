@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37.7. Renewing applications[^key-c5be31d521af7c42d66fa1be281ff204]
+## 37.7. Renewing applications[^c-c5be31d521af7c42d66fa1be281ff204]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 36.5 (Renewing an application refused by a judge or the Registrar) applies 
 
 ## Annotations
 
-[^key-c5be31d521af7c42d66fa1be281ff204]: Commencement: [Rule 37.7](https://www.legislation.gov.uk/uksi/2025/909/rule/37.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c5be31d521af7c42d66fa1be281ff204]: Commencement: [Rule 37.7](https://www.legislation.gov.uk/uksi/2025/909/rule/37.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

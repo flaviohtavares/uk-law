@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**167A.**[^key-8aeb86d65db8fa03ad0c1108143ac7a8] Consultation in relation to works affecting flood and coastal erosion risks
+**167A.**[^c-8aeb86d65db8fa03ad0c1108143ac7a8] Consultation in relation to works affecting flood and coastal erosion risks
 
 (1) Before exercising a function to which this section applies in a manner which may affect a flood or coastal erosion risk (within the meaning of the Flood and Water Management Act 2010) in Wales, the Agency must consult the NRBW.
 
@@ -26,12 +26,12 @@ summary: ''
 
 (3) This section applies to any function under—
 
-- (a)[^key-154528d392fca258975bd97b69246294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-154528d392fca258975bd97b69246294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the flood risk management work provisions;
 - (c) byelaws made under paragraph 5 of Schedule 25.
 
 ## Annotations
 
-[^key-8aeb86d65db8fa03ad0c1108143ac7a8]: Textual amendment: S. 167A inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 287](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/287) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8aeb86d65db8fa03ad0c1108143ac7a8]: Textual amendment: S. 167A inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 287](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/287) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-154528d392fca258975bd97b69246294]: Textual amendment: [S. 167A(3)(a)](https://www.legislation.gov.uk/ukpga/1991/57/section/167A/3/a) repealed (6.4.2016) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/475)](https://www.legislation.gov.uk/uksi/2016/475), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/475/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2016/475/regulation/30) (with [regs. 31-33](https://www.legislation.gov.uk/uksi/2016/475/regulation/31))
+[^c-154528d392fca258975bd97b69246294]: Textual amendment: [S. 167A(3)(a)](https://www.legislation.gov.uk/ukpga/1991/57/section/167A/3/a) repealed (6.4.2016) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/475)](https://www.legislation.gov.uk/uksi/2016/475), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/475/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2016/475/regulation/30) (with [regs. 31-33](https://www.legislation.gov.uk/uksi/2016/475/regulation/31))

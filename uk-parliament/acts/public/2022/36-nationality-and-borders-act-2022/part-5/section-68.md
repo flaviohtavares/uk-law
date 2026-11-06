@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Disapplication of retained EU law deriving from Trafficking Directive[^key-b477b96e4a463ab7839a3d6142fd3b5f]
+## 68. Disapplication of retained EU law deriving from Trafficking Directive[^c-b477b96e4a463ab7839a3d6142fd3b5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b477b96e4a463ab7839a3d6142fd3b5f]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukpga/2022/36/section/68) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 106](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/106)
+[^c-b477b96e4a463ab7839a3d6142fd3b5f]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukpga/2022/36/section/68) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 106](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/106)

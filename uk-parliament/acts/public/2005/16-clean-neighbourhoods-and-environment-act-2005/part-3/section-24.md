@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Fixed penalty notices: common provision[^key-e67ff61068f3a52dd55a8ff3ab332031][^key-55df4dae538b16de3dbb67f9fd12b8c9][^key-45a30c19948f7397b05668da6f9f5173]
+## 24. Fixed penalty notices: common provision[^c-e67ff61068f3a52dd55a8ff3ab332031][^c-55df4dae538b16de3dbb67f9fd12b8c9][^c-45a30c19948f7397b05668da6f9f5173]
 
 *Extent: E+W*
 
@@ -41,8 +41,8 @@ After section 97 of the Environmental Protection Act 1990 (c. 43) insert—
 
 ## Annotations
 
-[^key-e67ff61068f3a52dd55a8ff3ab332031]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2005/16/section/24) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-e67ff61068f3a52dd55a8ff3ab332031]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2005/16/section/24) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-55df4dae538b16de3dbb67f9fd12b8c9]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2005/16/section/24) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-55df4dae538b16de3dbb67f9fd12b8c9]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2005/16/section/24) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-45a30c19948f7397b05668da6f9f5173]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2005/16/section/24) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(k)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/k)
+[^c-45a30c19948f7397b05668da6f9f5173]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2005/16/section/24) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(k)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/k)

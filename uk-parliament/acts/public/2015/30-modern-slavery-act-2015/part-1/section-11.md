@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Forfeiture of land vehicle, ship or aircraft[^key-5af92503681da37f083b95cc5ee20b5e]
+## 11. Forfeiture of land vehicle, ship or aircraft[^c-5af92503681da37f083b95cc5ee20b5e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ knew or ought to have known of the intention to use it in the course of the comm
 
 ## Annotations
 
-[^key-5af92503681da37f083b95cc5ee20b5e]: Commencement: S. 11 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)
+[^c-5af92503681da37f083b95cc5ee20b5e]: Commencement: S. 11 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)

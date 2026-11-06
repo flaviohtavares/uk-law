@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-8ed43873a2caecc4d0829859be6b30b8]
+## 2. Interpretation[^c-8ed43873a2caecc4d0829859be6b30b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Order—
 
 ## Annotations
 
-[^key-8ed43873a2caecc4d0829859be6b30b8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2533/article/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-8ed43873a2caecc4d0829859be6b30b8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2533/article/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)

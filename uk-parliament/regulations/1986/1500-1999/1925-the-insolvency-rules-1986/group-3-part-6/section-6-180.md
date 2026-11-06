@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.180. Additional notices[^key-d83a54c89fbb4e47d874a5f8a7a8c892]
+## 6.180. Additional notices[^c-d83a54c89fbb4e47d874a5f8a7a8c892]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The trustee disclaiming property may, without prejudice to his obligations under
 
 ## Annotations
 
-[^key-d83a54c89fbb4e47d874a5f8a7a8c892]: Commencement: [Rule 6.180](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.180) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d83a54c89fbb4e47d874a5f8a7a8c892]: Commencement: [Rule 6.180](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.180) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

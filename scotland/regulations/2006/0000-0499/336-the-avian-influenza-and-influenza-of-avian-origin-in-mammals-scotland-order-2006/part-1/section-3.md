@@ -28,8 +28,8 @@ summary: ''
 
 (4) In the application of the Act to avian influenza and influenza virus of avian origin, the definition of “animals” in section 87(1) of the Act is extended to include all mammals, except man.
 
-(5) This Order does not apply to anything done on any premises in accordance with a licence under the Specified Animal Pathogens (Scotland) Order 2009[^key-860e3795298663f19fde5263c208c0fd].
+(5) This Order does not apply to anything done on any premises in accordance with a licence under the Specified Animal Pathogens (Scotland) Order 2009[^c-860e3795298663f19fde5263c208c0fd].
 
 ## Annotations
 
-[^key-860e3795298663f19fde5263c208c0fd]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/ssi/2006/336/article/3/5) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/3)
+[^c-860e3795298663f19fde5263c208c0fd]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/ssi/2006/336/article/3/5) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [27(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/27/3)

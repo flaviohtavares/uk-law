@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**60.**[^key-515da0c5b9ddccbee88423c395f6b665] For section 28 (effect of certain nullity decrees) substitute—
+**60.**[^c-515da0c5b9ddccbee88423c395f6b665] For section 28 (effect of certain nullity decrees) substitute—
 
 > **28. Effect of certain nullity decrees**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515da0c5b9ddccbee88423c395f6b665]: Commencement: Art. 60 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-515da0c5b9ddccbee88423c395f6b665]: Commencement: Art. 60 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

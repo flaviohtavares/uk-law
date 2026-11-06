@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Open Space on Wigg Island[^key-22a6d6e9fabded2fbefcce428de7758c]
+## 27. Open Space on Wigg Island[^c-22a6d6e9fabded2fbefcce428de7758c]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22a6d6e9fabded2fbefcce428de7758c]: Commencement: Art. 27 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-22a6d6e9fabded2fbefcce428de7758c]: Commencement: Art. 27 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (National Curriculum) (Modern Foreign Languages) (Wales) Order 2008 (revoked)[^key-a70287c560c5b014d8ac805c251d2c72]
+The Education (National Curriculum) (Modern Foreign Languages) (Wales) Order 2008 (revoked)[^c-a70287c560c5b014d8ac805c251d2c72]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1 August 2008
 
-[^key-a70287c560c5b014d8ac805c251d2c72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a70287c560c5b014d8ac805c251d2c72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a70287c560c5b014d8ac805c251d2c72]
+## 1. Title, commencement and application[^c-a70287c560c5b014d8ac805c251d2c72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-a70287c560c5b014d8ac805c251d2c72]
+## 2. Revocation[^c-a70287c560c5b014d8ac805c251d2c72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of modern foreign language[^key-a70287c560c5b014d8ac805c251d2c72]
+## 3. Meaning of modern foreign language[^c-a70287c560c5b014d8ac805c251d2c72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Determination by the Welsh Ministers[^key-a70287c560c5b014d8ac805c251d2c72]
+## 4. Determination by the Welsh Ministers[^c-a70287c560c5b014d8ac805c251d2c72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a70287c560c5b014d8ac805c251d2c72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a70287c560c5b014d8ac805c251d2c72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a70287c560c5b014d8ac805c251d2c72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a70287c560c5b014d8ac805c251d2c72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a70287c560c5b014d8ac805c251d2c72]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2008/1408) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [5(4)](https://www.legislation.gov.uk/wsi/2022/679/regulation/5/4)
+[^c-a70287c560c5b014d8ac805c251d2c72]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2008/1408) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [5(4)](https://www.legislation.gov.uk/wsi/2022/679/regulation/5/4)

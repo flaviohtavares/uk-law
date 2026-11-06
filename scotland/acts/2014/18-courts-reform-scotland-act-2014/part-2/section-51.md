@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Re-employment of former Appeal Sheriffs[^key-d21b33a9cce9a520df05bfbcad37c21a]
+## 51. Re-employment of former Appeal Sheriffs[^c-d21b33a9cce9a520df05bfbcad37c21a]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d21b33a9cce9a520df05bfbcad37c21a]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/18/section/51) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/77/article/5))
+[^c-d21b33a9cce9a520df05bfbcad37c21a]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/18/section/51) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/77/article/5))

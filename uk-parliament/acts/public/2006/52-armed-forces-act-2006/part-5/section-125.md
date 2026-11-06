@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Powers of DSP in respect of charge allocated for Court Martial trial[^key-cc77b429ae61de1a5b4907de9898d637][^key-a515dac895455894c8c9cc39d0de0a1e]
+## 125. Powers of DSP in respect of charge allocated for Court Martial trial[^c-cc77b429ae61de1a5b4907de9898d637][^c-a515dac895455894c8c9cc39d0de0a1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,11 +34,11 @@ summary: ''
 
 (3) Court Martial rules may restrict the exercise of powers under subsection (2)—
 
-- (a) after arraignment by the Court Martial; or[^key-bf8b2bc894826d64c891277a21959015]
-- (b) after referral of the charge to the Court Martial under section 279(4) or 280(3) (referral by SCC); [^key-0a624190be76083f1f7e7fe2319e9a29]...
-- (c)[^key-0a624190be76083f1f7e7fe2319e9a29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) after arraignment by the Court Martial; or[^c-bf8b2bc894826d64c891277a21959015]
+- (b) after referral of the charge to the Court Martial under section 279(4) or 280(3) (referral by SCC); [^c-0a624190be76083f1f7e7fe2319e9a29]...
+- (c)[^c-0a624190be76083f1f7e7fe2319e9a29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-891271de671998b946f3f3faabc39128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-891271de671998b946f3f3faabc39128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any additional charge brought under subsection (2)(c) must be in respect of the case as respects which the charge mentioned in subsection (1) was brought.
 
@@ -50,12 +50,12 @@ summary: ''
 
 ## Annotations
 
-[^key-cc77b429ae61de1a5b4907de9898d637]: Commencement: S. 125 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-cc77b429ae61de1a5b4907de9898d637]: Commencement: S. 125 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a515dac895455894c8c9cc39d0de0a1e]: Commencement: S. 125 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a515dac895455894c8c9cc39d0de0a1e]: Commencement: S. 125 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-bf8b2bc894826d64c891277a21959015]: Textual amendment: Word in s. 125(3) inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6/2/a); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-bf8b2bc894826d64c891277a21959015]: Textual amendment: Word in s. 125(3) inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6/2/a); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-0a624190be76083f1f7e7fe2319e9a29]: Textual amendment: S. 125(3)(c) and preceding word repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6/2/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d/f/i)
+[^c-0a624190be76083f1f7e7fe2319e9a29]: Textual amendment: S. 125(3)(c) and preceding word repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6/2/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d/f/i)
 
-[^key-891271de671998b946f3f3faabc39128]: Textual amendment: S. 125(4) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d/f/i)
+[^c-891271de671998b946f3f3faabc39128]: Textual amendment: S. 125(4) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d/f/i)

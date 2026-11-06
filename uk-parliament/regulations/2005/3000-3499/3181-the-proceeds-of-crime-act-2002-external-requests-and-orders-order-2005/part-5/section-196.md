@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Effect on diligence of recovery order (Scotland)[^key-737204000ab591e2f1ae03fc3e90fd14]
+## 196. Effect on diligence of recovery order (Scotland)[^c-737204000ab591e2f1ae03fc3e90fd14]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ as they apply in relation to an arrestment or poinding.
 
 ## Annotations
 
-[^key-737204000ab591e2f1ae03fc3e90fd14]: Commencement: [Art. 196](https://www.legislation.gov.uk/uksi/2005/3181/article/196) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-737204000ab591e2f1ae03fc3e90fd14]: Commencement: [Art. 196](https://www.legislation.gov.uk/uksi/2005/3181/article/196) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

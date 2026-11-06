@@ -24,10 +24,10 @@ summary: ''
 
 - (a) makes a false statement or representation; or[^c24146181]
 - (b) produces or furnishes, or causes or allows to be produced or furnished, any document or information which is false in a material particular;
-- (c)[^key-27a4221d7619d06f1ec12d96cf613b74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-27a4221d7619d06f1ec12d96cf613b74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-27a4221d7619d06f1ec12d96cf613b74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-27a4221d7619d06f1ec12d96cf613b74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-with the view to obtaining any benefit or other payment or advantage under the relevant[^c24146221] social security legislation or a non-benefit payment[^key-883c54dd1a53ca839f43de6850d7ab44] (whether for himself or for some other person), he shall be guilty of an offence.
+with the view to obtaining any benefit or other payment or advantage under the relevant[^c24146221] social security legislation or a non-benefit payment[^c-883c54dd1a53ca839f43de6850d7ab44] (whether for himself or for some other person), he shall be guilty of an offence.
 
 (1A)[^M_F_273be018-1411-4620-88b9-4d99031df685] A person shall be guilty of an offence if—
 
@@ -70,7 +70,7 @@ with the view to obtaining any benefit or other payment or advantage under the r
 
 (1G) For the purposes of subsections (1A) to (1E) above a notification of a change is prompt if, and only if, it is given as soon as reasonably practicable after the change occurs.
 
-(1H)[^key-7c25d7e8f5e51f81e87fe33ec820b35e] For the purposes of subsections (1A) to (1G), references to—
+(1H)[^c-7c25d7e8f5e51f81e87fe33ec820b35e] For the purposes of subsections (1A) to (1G), references to—
 
 - (a) a person being entitled to, or having a right to receive, a payment under a provision of the relevant social security legislation include references to a person being entitled to, or having a right to receive, or qualifying for, a non-benefit payment, and
 - (b) a person’s entitlement to a payment under a provision of the relevant social security legislation include references to a person’s entitlement to, or qualification for, a non-benefit payment.
@@ -90,15 +90,15 @@ with the view to obtaining any benefit or other payment or advantage under the r
 
 [^c24146181]: Textual amendment: Word in s. 111A(1)(a) inserted (26.9.2001 for specified purposes, 18.10.2001 in so far as not already in force) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 16(1)(a)](https://www.legislation.gov.uk/ukpga/2001/11/section/16/1/a), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2001/3251](https://www.legislation.gov.uk/uksi/2001/3251), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3251/article/2/1)
 
-[^key-27a4221d7619d06f1ec12d96cf613b74]: Textual amendment: S. 111A(1)(c)(d) repealed (26.9.2001 for specified purposes, 18.10.2001 in so far as not already in force) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 16(1)(a)](https://www.legislation.gov.uk/ukpga/2001/11/section/16/1/a), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1), [Sch.](https://www.legislation.gov.uk/ukpga/2001/11/schedule); [S.I. 2001/3251](https://www.legislation.gov.uk/uksi/2001/3251), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3251/article/2/1)
+[^c-27a4221d7619d06f1ec12d96cf613b74]: Textual amendment: S. 111A(1)(c)(d) repealed (26.9.2001 for specified purposes, 18.10.2001 in so far as not already in force) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 16(1)(a)](https://www.legislation.gov.uk/ukpga/2001/11/section/16/1/a), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1), [Sch.](https://www.legislation.gov.uk/ukpga/2001/11/schedule); [S.I. 2001/3251](https://www.legislation.gov.uk/uksi/2001/3251), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3251/article/2/1)
 
 [^c24146221]: Textual amendment: Word in s. 111A(1) inserted (2.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86](https://www.legislation.gov.uk/ukpga/2000/19/section/86), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/19/schedule/6/paragraph/5); [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/1/a)
 
-[^key-883c54dd1a53ca839f43de6850d7ab44]: Textual amendment: Words in [s. 111A(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/111A/1) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/2/a), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
+[^c-883c54dd1a53ca839f43de6850d7ab44]: Textual amendment: Words in [s. 111A(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/111A/1) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/2/a), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
 
 [^M_F_273be018-1411-4620-88b9-4d99031df685]: Textual amendment: S. 111A(1A)-(1G) inserted (26.9.2001 for specified purposes, 18.10.2001 in so far as not already in force) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2001/11/section/16/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2001/11/section/16/2), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2001/3251](https://www.legislation.gov.uk/uksi/2001/3251), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3251/article/2/1)
 
-[^key-7c25d7e8f5e51f81e87fe33ec820b35e]: Textual amendment: [S. 111A(1H)](https://www.legislation.gov.uk/ukpga/1992/5/section/111A/1H) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/2/b), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
+[^c-7c25d7e8f5e51f81e87fe33ec820b35e]: Textual amendment: [S. 111A(1H)](https://www.legislation.gov.uk/ukpga/1992/5/section/111A/1H) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/2/b), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
 
 [^c24146261]: Textual amendment: S. 111A(2) repealed (2.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86](https://www.legislation.gov.uk/ukpga/2000/19/section/86), [Sch. 9 Pt. VI](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/VI); [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/1/e)
 

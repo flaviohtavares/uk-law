@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Welsh Ministers' exercise of powers and duties under this Act[^key-607d9639ebe9f5949c28f0cb5abad77e]
+## 91. Welsh Ministers' exercise of powers and duties under this Act[^c-607d9639ebe9f5949c28f0cb5abad77e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-607d9639ebe9f5949c28f0cb5abad77e]: Commencement: [S. 91](https://www.legislation.gov.uk/anaw/2017/3/section/91) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/955/article/2/h)
+[^c-607d9639ebe9f5949c28f0cb5abad77e]: Commencement: [S. 91](https://www.legislation.gov.uk/anaw/2017/3/section/91) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/955/article/2/h)

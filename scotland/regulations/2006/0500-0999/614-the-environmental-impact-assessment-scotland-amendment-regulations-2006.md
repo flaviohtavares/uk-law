@@ -58,17 +58,17 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 ## PART I — INTRODUCTORY
 
-### 1. Citation and commencement[^key-c93b354a83c70a836ca37c05c8006b7b]
+### 1. Citation and commencement[^c-c93b354a83c70a836ca37c05c8006b7b]
 
 These Regulations may be cited as the Environmental Impact Assessment (Scotland) Amendment Regulations 2006 and shall come into force on 1st February 2007.
 
 ## PART II — PLANNING AND DRAINAGE WORKS
 
-### 2. Amendment to the Environmental Impact Assessment (Scotland) Regulations 1999[^key-e7f468f38bbbb9c623046774f8e3af1e]
+### 2. Amendment to the Environmental Impact Assessment (Scotland) Regulations 1999[^c-e7f468f38bbbb9c623046774f8e3af1e]
 
 The Environmental Impact Assessment (Scotland) Regulations 1999[^f00003] are amended in accordance with this Part.
 
-### 3. Town and Country Planning[^key-2b9c8a019ba04ea78f1f38f559f353f1]
+### 3. Town and Country Planning[^c-2b9c8a019ba04ea78f1f38f559f353f1]
 
 (1) In regulation 2(1) (interpretation)–
 
@@ -228,7 +228,7 @@ The Environmental Impact Assessment (Scotland) Regulations 1999[^f00003] are ame
   - (ii) in the second paragraph after “application” insert “and other documents submitted with the application”; and
 - (b) in paragraph (g) of the Notes after “address” insert “and, where available, website address.”.
 
-### 4. Drainage Works[^key-2ccdabe764d9f05c0aa87026d8fc07ca]
+### 4. Drainage Works[^c-2ccdabe764d9f05c0aa87026d8fc07ca]
 
 (1) In regulation 55(a) (interpretation)–
 
@@ -371,11 +371,11 @@ The Environmental Impact Assessment (Scotland) Regulations 1999[^f00003] are ame
 
 ## PART III — ROADS AND BRIDGES
 
-### 5. Amendment to Roads (Scotland) Act 1984[^key-ec6e1416325eeb6f9841142a8d093742]
+### 5. Amendment to Roads (Scotland) Act 1984[^c-ec6e1416325eeb6f9841142a8d093742]
 
 The Roads (Scotland) Act 1984[^f00020] is amended in accordance with this Part.
 
-**6.**[^key-9c3a4b1fbd12b0d3719a9eff2f73d9f5] (1) In section 20A (environmental assessment of certain road construction projects)[^f00021]–
+**6.**[^c-9c3a4b1fbd12b0d3719a9eff2f73d9f5] (1) In section 20A (environmental assessment of certain road construction projects)[^f00021]–
 
 - (a) in subsection (2) for “publish an environmental statement” substitute “prepare an environmental statement and publish notice of it in accordance with subsections (5) and (5A) and paragraph 7(1C) or 13(1C) as the case may be of Schedule 1 to this Act”;
 - (b) omit subsection (4);
@@ -503,7 +503,7 @@ The Roads (Scotland) Act 1984[^f00020] is amended in accordance with this Part.
 
   .
 
-### 7. Transitional provisions[^key-ab0993079b9dfa78eb94eb70ca7495f3]
+### 7. Transitional provisions[^c-ab0993079b9dfa78eb94eb70ca7495f3]
 
 (1) This Part of the Regulations shall not apply to a project–
 
@@ -518,11 +518,11 @@ The Roads (Scotland) Act 1984[^f00020] is amended in accordance with this Part.
 
 ## PART IV — MARINE FISH FARMS
 
-### 8. Amendment to the Environmental Impact Assessment (Fish Farming in Marine Waters) Regulations 1999[^key-758619ecbb44d1f8ccf56f51cf07b447]
+### 8. Amendment to the Environmental Impact Assessment (Fish Farming in Marine Waters) Regulations 1999[^c-758619ecbb44d1f8ccf56f51cf07b447]
 
 The Environmental Impact Assessment (Fish Farming in Marine Waters) Regulations 1999[^f00026] are amended in accordance with this Part.
 
-**9.**[^key-93fb4858269a8d4e82141775aaf0f263] (1) In regulation 2(1) (interpretation)–
+**9.**[^c-93fb4858269a8d4e82141775aaf0f263] (1) In regulation 2(1) (interpretation)–
 
 - (a) at the end of the definition of “the Directive” insert “and Council Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035)”[^f00027]; and
 - (b) in the definition of “sensitive area”–
@@ -639,11 +639,11 @@ The Environmental Impact Assessment (Fish Farming in Marine Waters) Regulations 
 
 ## PART V — FORESTRY
 
-### 10. Amendment to the Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999[^key-ff75156c3419c2f4bd633965e08f222a]
+### 10. Amendment to the Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999[^c-ff75156c3419c2f4bd633965e08f222a]
 
 The Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999[^f00028] are amended in accordance with this Part.
 
-**11.**[^key-5dc01a4758d1599712e128eed254c747] (1) In regulation 2(1) (interpretation)–
+**11.**[^c-5dc01a4758d1599712e128eed254c747] (1) In regulation 2(1) (interpretation)–
 
 - (a) in the definition of “countryside body”, after “1995” insert “and any other body designated by statutory provision as having specific environmental responsibilities”; and
 - (b) at the end of the definition of “the Directive” add “and Council Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035)[^f00029]”.
@@ -714,11 +714,11 @@ The Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999[^f000
 
 ## PART VI — AGRICULTURE
 
-### 12. Amendment to the Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006[^key-7d3a4386dbfc0a6b40410b286f7b6d6e]
+### 12. Amendment to the Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006[^c-7d3a4386dbfc0a6b40410b286f7b6d6e]
 
 The Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006[^f00034] are amended in accordance with this Part.
 
-**13.**[^key-f317848df494c2c13d053810153d472e] (1) In regulation 14(5) for “the Environmental Impact Assessment (Agriculture) (England) Regulations 2006”, substitute “the Environmental Impact Assessment (Agriculture) (England) (No. 2) Regulations 2006[^f00035]”.
+**13.**[^c-f317848df494c2c13d053810153d472e] (1) In regulation 14(5) for “the Environmental Impact Assessment (Agriculture) (England) Regulations 2006”, substitute “the Environmental Impact Assessment (Agriculture) (England) (No. 2) Regulations 2006[^f00035]”.
 
 (2) In regulation 28(3)(a) after “relates” insert “and take the measures”.
 
@@ -833,13 +833,13 @@ Regulation 13(2) corrects an omission in regulation 28(3)(a) of the 2006 Regulat
 
 [^f00002]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c93b354a83c70a836ca37c05c8006b7b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-c93b354a83c70a836ca37c05c8006b7b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
-[^key-e7f468f38bbbb9c623046774f8e3af1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/614/regulation/2) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-e7f468f38bbbb9c623046774f8e3af1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/614/regulation/2) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1).
 
-[^key-2b9c8a019ba04ea78f1f38f559f353f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2006/614/regulation/3) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-2b9c8a019ba04ea78f1f38f559f353f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2006/614/regulation/3) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00004]: Footnote: O.J. L 156, 25.6.03, p.17.
 
@@ -861,7 +861,7 @@ Regulation 13(2) corrects an omission in regulation 28(3)(a) of the 2006 Regulat
 
 [^f00013]: Footnote: Regulation 28B was inserted by article 20(2) of [S.S.I. 2006/270](https://www.legislation.gov.uk/ssi/2006/270).
 
-[^key-2ccdabe764d9f05c0aa87026d8fc07ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2006/614/regulation/4) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-2ccdabe764d9f05c0aa87026d8fc07ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2006/614/regulation/4) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00014]: Footnote: [2004 asp 6](https://www.legislation.gov.uk/asp/2004/6).
 
@@ -875,11 +875,11 @@ Regulation 13(2) corrects an omission in regulation 28(3)(a) of the 2006 Regulat
 
 [^f00019]: Footnote: S.I. [2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
 
-[^key-ec6e1416325eeb6f9841142a8d093742]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2006/614/regulation/5) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-ec6e1416325eeb6f9841142a8d093742]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2006/614/regulation/5) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00020]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-9c3a4b1fbd12b0d3719a9eff2f73d9f5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2006/614/regulation/6) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-9c3a4b1fbd12b0d3719a9eff2f73d9f5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2006/614/regulation/6) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00021]: Footnote: Section 20A was inserted by [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1).
 
@@ -891,21 +891,21 @@ Regulation 13(2) corrects an omission in regulation 28(3)(a) of the 2006 Regulat
 
 [^f00025]: Footnote: Relevant amendments were made by [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1).
 
-[^key-ab0993079b9dfa78eb94eb70ca7495f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2006/614/regulation/7) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-ab0993079b9dfa78eb94eb70ca7495f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2006/614/regulation/7) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
-[^key-758619ecbb44d1f8ccf56f51cf07b447]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2006/614/regulation/8) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-758619ecbb44d1f8ccf56f51cf07b447]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2006/614/regulation/8) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00026]: Footnote: S.I. [1999/367](https://www.legislation.gov.uk/uksi/1999/367).
 
-[^key-93fb4858269a8d4e82141775aaf0f263]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2006/614/regulation/9) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-93fb4858269a8d4e82141775aaf0f263]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2006/614/regulation/9) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00027]: Footnote: O.J. No. L 156, 25.6.2003, p17.
 
-[^key-ff75156c3419c2f4bd633965e08f222a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2006/614/regulation/10) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-ff75156c3419c2f4bd633965e08f222a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2006/614/regulation/10) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00028]: Footnote: [S.S.I. 1999/43](https://www.legislation.gov.uk/ssi/1999/43).
 
-[^key-5dc01a4758d1599712e128eed254c747]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2006/614/regulation/11) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-5dc01a4758d1599712e128eed254c747]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2006/614/regulation/11) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00029]: Footnote: O.J. No. L 156, 25.6.2003, p.21.
 
@@ -917,10 +917,10 @@ Regulation 13(2) corrects an omission in regulation 28(3)(a) of the 2006 Regulat
 
 [^f00033]: Footnote: [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10).
 
-[^key-7d3a4386dbfc0a6b40410b286f7b6d6e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2006/614/regulation/12) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-7d3a4386dbfc0a6b40410b286f7b6d6e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2006/614/regulation/12) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00034]: Footnote: [S.S.I. 2006/582](https://www.legislation.gov.uk/ssi/2006/582).
 
-[^key-f317848df494c2c13d053810153d472e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2006/614/regulation/13) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
+[^c-f317848df494c2c13d053810153d472e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2006/614/regulation/13) in force at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/614/regulation/1)
 
 [^f00035]: Footnote: S.I. [2006/2522](https://www.legislation.gov.uk/uksi/2006/2522).

@@ -24,12 +24,12 @@ Articles 2 and 6
 
 ### PART 1 — Authorised development
 
-**1.**[^key-a41973d1154a6651457a0a17f6489706] The authorised development includes—
+**1.**[^c-a41973d1154a6651457a0a17f6489706] The authorised development includes—
 
 - (a) the nationally significant infrastructure project (as defined in sections 14 and 15 of the 2008 Act) described in paragraph 2; and
 - (b) the associated development (within the meaning of section 115(2) of the 2008 Act) described in paragraphs 3 and 4.
 
-**2.**[^key-2f5ce92f7cf6018a514b37067c85f79f] (1) The nationally significant infrastructure project comprises up to 2 offshore wind generating stations with a combined gross electrical output capacity of up to 1,800 megawatts as follows—
+**2.**[^c-2f5ce92f7cf6018a514b37067c85f79f] (1) The nationally significant infrastructure project comprises up to 2 offshore wind generating stations with a combined gross electrical output capacity of up to 1,800 megawatts as follows—
 
 *Work No. 1A* — An offshore wind generating station within the wind farm area comprising—
 
@@ -82,9 +82,9 @@ Co-ordinates for wind farm area (limits of deviation for Work Nos. 1A, 1B, 2A an
 
 (3) The combined total of accommodation platforms constructed within Work Nos. 1A and 1B must not exceed 2.
 
-**3.**[^key-7d77f945cd65c2f680350c9b1c8ac35a] (1) The associated development includes the following Works—
+**3.**[^c-7d77f945cd65c2f680350c9b1c8ac35a] (1) The associated development includes the following Works—
 
-*Work No. 2A* — Subject to sub-paragraph (2), up to 3 offshore HVAC collector substations[^key-1b28ea71fb9918dbadc3e4203452a7bf] and, in the event that the mode of transmission is HVDC, up to 2 offshore HVDC converter substations together with a network of electrical circuits connecting the structures within Work Nos. 2A and 2B;
+*Work No. 2A* — Subject to sub-paragraph (2), up to 3 offshore HVAC collector substations[^c-1b28ea71fb9918dbadc3e4203452a7bf] and, in the event that the mode of transmission is HVDC, up to 2 offshore HVDC converter substations together with a network of electrical circuits connecting the structures within Work Nos. 2A and 2B;
 
 *Work No. 2B* — Subject to sub-paragraph (2), up to 3 offshore HVAC collector substations and, in the event that the mode of transmission is HVDC, up to 2 offshore HVDC converter substations together with a network of electrical circuits connecting the structures within Work Nos. 2A and 2B;
 
@@ -292,7 +292,7 @@ If the electrical circuits comprised in Work Nos. 4B, 5B and 7B are HVDC, the el
 
 *Work No. 10* — Improvements to the verge, highway and private access road running north from Chase Hill Road between the junction with Haven Road in the east and Eastfield Road in the west.
 
-(2) The combined total of offshore HVAC collector substations constructed in whole or in part within Work Nos. 2A and 2B must not exceed 3[^key-447f0252b7f0cb1b1c3baefb5995d770], and the combined total of offshore HVDC converter substations constructed in whole or in part within Work Nos. 2A and 2B must not exceed 2.
+(2) The combined total of offshore HVAC collector substations constructed in whole or in part within Work Nos. 2A and 2B must not exceed 3[^c-447f0252b7f0cb1b1c3baefb5995d770], and the combined total of offshore HVDC converter substations constructed in whole or in part within Work Nos. 2A and 2B must not exceed 2.
 
 (3) The combined total of offshore reactive compensation substations constructed in whole or in part within Work Nos. 3A and 3B must not exceed 2.
 
@@ -312,7 +312,7 @@ If the electrical circuits comprised in Work Nos. 4B, 5B and 7B are HVDC, the el
 
 (8) The combined total of electrical circuits constructed in whole or in part within Work Nos. 9A and 9B must not exceed 2.
 
-**4.**[^key-776927f1e8a7a30949671fa799fac338] The associated development includes such further development as may be necessary or expedient in connection with each of the Works within the Order limits and is within the scope of the environmental impact assessment recorded in the environmental statement including—
+**4.**[^c-776927f1e8a7a30949671fa799fac338] The associated development includes such further development as may be necessary or expedient in connection with each of the Works within the Order limits and is within the scope of the environmental impact assessment recorded in the environmental statement including—
 
 - (a) scour protection around the foundations of the offshore structures;
 - (b) dredging;
@@ -320,9 +320,9 @@ If the electrical circuits comprised in Work Nos. 4B, 5B and 7B are HVDC, the el
 - (d) the disposal of seabed sediments produced during construction drilling and seabed preparation for the installation of the foundations of the offshore structures or during seabed preparation for cable laying;
 - (e) works to alter the position of apparatus, including mains, sewers, drains and cables;
 - (f) works to alter the course of, or otherwise interfere with, non-navigable rivers, streams or watercourses;
-- (g) landscaping and other works to mitigate any adverse effects of the construction, maintenance or operation of the authorised project[^key-9dc70fc944f52c229557e0d4dcf1683d];
-- (h) works for the benefit or protection of land affected by the authorised project[^key-c4341737700160a5bf4b448d7ef3e83d];
-- (i) working sites in connection with the construction of the authorised project[^key-49a200fd10a1bebe08ccd3c6c8810113];
+- (g) landscaping and other works to mitigate any adverse effects of the construction, maintenance or operation of the authorised project[^c-9dc70fc944f52c229557e0d4dcf1683d];
+- (h) works for the benefit or protection of land affected by the authorised project[^c-c4341737700160a5bf4b448d7ef3e83d];
+- (i) working sites in connection with the construction of the authorised project[^c-49a200fd10a1bebe08ccd3c6c8810113];
 - (j) compensation compounds;
 - (k) works to secure means of access;
 - (l) works to construct surface water drainage systems;
@@ -331,9 +331,9 @@ If the electrical circuits comprised in Work Nos. 4B, 5B and 7B are HVDC, the el
 - (o) jointing pits (including link or earthing boxes) associated with Work Nos. 7A and 7B;
 - (p) a temporary haul road and temporary access track, both alongside and used for the purpose of constructing Work Nos. 7A and 7B;
 - (q) works to enable utility services to be run from Chase Hill Road to Work Nos. 8A and 8B; and
-- (r) such other works and apparatus, plant and machinery of whatever nature as may be necessary or expedient for the purposes of or in connection with the construction of the authorised project[^key-7434b0f8fba7f20993ad3edf4a1a9c50].
+- (r) such other works and apparatus, plant and machinery of whatever nature as may be necessary or expedient for the purposes of or in connection with the construction of the authorised project[^c-7434b0f8fba7f20993ad3edf4a1a9c50].
 
-### PART 2 — Ancillary works[^key-8b0435b7824153d6f7ffb9fbafcd487a]
+### PART 2 — Ancillary works[^c-8b0435b7824153d6f7ffb9fbafcd487a]
 
 Works and operations within the Order limits comprising—
 
@@ -342,11 +342,11 @@ Works and operations within the Order limits comprising—
 
 ### PART 3 — Requirements
 
-#### 1. Time limits[^key-33aedc2ee05131e61cf2622e7609e469]
+#### 1. Time limits[^c-33aedc2ee05131e61cf2622e7609e469]
 
 The authorised development must be commenced on or before 6th September 2021.
 
-#### 2. Detailed design parameters[^key-ce1e30a1d4b1b290be15277112d96e22]
+#### 2. Detailed design parameters[^c-ce1e30a1d4b1b290be15277112d96e22]
 
 (1) No wind turbine generator forming part of Work No. 1A or 1B may—
 
@@ -366,7 +366,7 @@ The authorised development must be commenced on or before 6th September 2021.
 (4) No offshore HVAC collector substation forming part of Work No. 2A or 2B may—
 
 - (a) exceed 64 metres in height above LAT;
-- (b) have a platform that at its greatest extent exceeds 6,300 square metres in area or 90 metres in width[^key-c38dbddd4b3e91e5590c1740c92f4561].
+- (b) have a platform that at its greatest extent exceeds 6,300 square metres in area or 90 metres in width[^c-c38dbddd4b3e91e5590c1740c92f4561].
 
 (5) No offshore HVDC converter substation forming part of Work No. 2A or 2B may—
 
@@ -427,17 +427,17 @@ The authorised development must be commenced on or before 6th September 2021.
   - (ii) 18.5 metres in width;
   - (iii) 82.5 metres in length.
 
-(24) The combined total area of the site of Work Nos. 8A and 8B must not exceed 49,326[^key-056acdbae3633b0e010613d6b6c2a50b] square metres, excluding any area of land required for landscaping and mitigation.
+(24) The combined total area of the site of Work Nos. 8A and 8B must not exceed 49,326[^c-056acdbae3633b0e010613d6b6c2a50b] square metres, excluding any area of land required for landscaping and mitigation.
 
 (25) The electrical circuits comprised in Work Nos. 7A and 7B must be installed by use of a trenchless technique where crossing under a main river.
 
 (26) The width of the corridor occupied by the connection comprised in Work Nos. 7A and 7B following completion of construction of those works must not exceed 30 metres, except where those works overlap with Work No. 5A, 5B, 6A or 6B in which case the width of the corridor occupied by the connection comprising Work Nos. 7A and 7B must not exceed 150 metres.
 
-#### 3. Colour and lighting[^key-01ea6aeacca36bedf2160826b08c4d79]
+#### 3. Colour and lighting[^c-01ea6aeacca36bedf2160826b08c4d79]
 
 Except as otherwise required by Trinity House under Condition 4 of each of the deemed marine licences, the undertaker must exhibit such lights, with such shape, colour and character as required by the Air Navigation Order 2009[^f00043] or as otherwise directed by the Civil Aviation Authority or the Secretary of State for Defence.
 
-#### 4. Foundation methods[^key-0955f419683a5f7e951ad9ba1b026338]
+#### 4. Foundation methods[^c-0955f419683a5f7e951ad9ba1b026338]
 
 (1) The undertaker must in fixing to the seabed any structures comprised in Work Nos. 1A, 1B, 2A, 2B, 3A and 3B use one of the following methods—
 
@@ -540,7 +540,7 @@ Except as otherwise required by Trinity House under Condition 4 of each of the d
 
 (8) The combined total volume of scour protection for the wind turbine generators and the offshore accommodation platforms forming part of the authorised development must not exceed 4,761,555 cubic metres.
 
-#### 5. Archaeology landward of mean low water springs[^key-4555b11c42468efe3306cbc9e44ade89]
+#### 5. Archaeology landward of mean low water springs[^c-4555b11c42468efe3306cbc9e44ade89]
 
 (1) No part of the authorised development landward of MLWS may be commenced within the area of a local planning authority until a written scheme for the investigation of areas of archaeological interest landward of MLWS has been submitted to and approved by the local planning authority.
 
@@ -553,15 +553,15 @@ Except as otherwise required by Trinity House under Condition 4 of each of the d
 
 (4) Staged reports of the measures taken to evaluate, protect, record or preserve any significant archaeological remains that are found must be submitted to and approved by the local planning authority before the commencement of any works that would affect those remains.
 
-#### 6. Ecological management plan landward of mean low water springs[^key-5d825722d1a40a10521898355bf021f6]
+#### 6. Ecological management plan landward of mean low water springs[^c-5d825722d1a40a10521898355bf021f6]
 
-(1) No part of the authorised development landward of MLWS may be commenced within the area of a local planning authority until an ecological management plan[^key-089d8bb5f3511ae0242ba9a2e2b103ed] relating to the land landward of MLWS based on the outline ecological management plan and reflecting the survey results and ecological mitigation measures included in the environmental statement has been submitted to and approved by the local planning authority in consultation with Natural England, the Environment Agency and, to the extent that the plan relates to the intertidal area, the MMO.
+(1) No part of the authorised development landward of MLWS may be commenced within the area of a local planning authority until an ecological management plan[^c-089d8bb5f3511ae0242ba9a2e2b103ed] relating to the land landward of MLWS based on the outline ecological management plan and reflecting the survey results and ecological mitigation measures included in the environmental statement has been submitted to and approved by the local planning authority in consultation with Natural England, the Environment Agency and, to the extent that the plan relates to the intertidal area, the MMO.
 
 (2) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
 (3) The ecological management plan must be submitted for approval at least 4 months before the intended start of construction unless otherwise agreed by the local planning authority in consultation with Natural England.
 
-#### 7. Code of construction practice[^key-7073b44dccf47582ff6f27d6612b4e63]
+#### 7. Code of construction practice[^c-7073b44dccf47582ff6f27d6612b4e63]
 
 (1) No part of the authorised development landward of MLWS may be commenced within the area of a local planning authority until a code of construction practice relating to the Works landward of MLWS based on the outline code of construction practice has been submitted to and approved by the local planning authority.
 
@@ -592,7 +592,7 @@ Except as otherwise required by Trinity House under Condition 4 of each of the d
 
 (4) All construction works must be undertaken in accordance with the approved code.
 
-#### 8. Landscape scheme[^key-3afc50b47f684641587b989b81da6851]
+#### 8. Landscape scheme[^c-3afc50b47f684641587b989b81da6851]
 
 (1) No part of the authorised development landward of MLWS may be commenced within the area of a local planning authority until a landscape scheme has been submitted to and approved by the local planning authority.
 
@@ -603,23 +603,23 @@ Except as otherwise required by Trinity House under Condition 4 of each of the d
 - (c) hard surfacing materials; and
 - (d) minor structures, refuse or other storage units, signs and lighting.
 
-#### 9. Implementation and maintenance of landscaping[^key-312da4f81e1e2e17d1d38be7f9c9add5]
+#### 9. Implementation and maintenance of landscaping[^c-312da4f81e1e2e17d1d38be7f9c9add5]
 
 (1) Landscape works must be carried out in accordance with the relevant landscape scheme approved under Requirement 8.
 
 (2) Any tree or shrub planted as part of an approved landscape scheme that within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the local planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless alternative timing or a different specimen is otherwise approved by the local planning authority.
 
-#### 10. Offshore decommissioning[^key-489e3ac3daf278ed09acc6a5feee240e]
+#### 10. Offshore decommissioning[^c-489e3ac3daf278ed09acc6a5feee240e]
 
 No part of the authorised development seaward of MLWS may be commenced until a decommissioning programme in compliance with any notice served on the undertaker by the Secretary of State under section 105(2) of the 2004 Act has been submitted to the Secretary of State for approval in relation to that part.
 
-#### 11. Highway accesses[^key-f034f0539ade0a73196818cd620bf132]
+#### 11. Highway accesses[^c-f034f0539ade0a73196818cd620bf132]
 
 (1) No permanent or temporary means of access to a highway to be used by vehicular traffic or any alteration to an existing means of access to a highway used by vehicular traffic may be commenced until details of the design and layout of such works have been submitted to and approved by the local planning authority in consultation with the highway authority.
 
 (2) The highway accesses must be constructed in accordance with the approved details.
 
-#### 12. Contaminated land and groundwater scheme[^key-b09ab7924f1e2446bb6b9cd66eaa0d5f]
+#### 12. Contaminated land and groundwater scheme[^c-b09ab7924f1e2446bb6b9cd66eaa0d5f]
 
 (1) No part of the authorised development within the area of a local planning authority may be commenced until a scheme to deal with the contamination of any land (including groundwater) within the Order limits that is likely to cause significant harm to persons or pollution of controlled waters or the environment has been submitted to, and approved by, the local planning authority in consultation with the Environment Agency and, to the extent that the plan relates to the intertidal area, the MMO.
 
@@ -633,13 +633,13 @@ No part of the authorised development seaward of MLWS may be commenced until a d
 
 (6) In this Requirement, “controlled waters” has the meaning given in Part 3 of the Water Resources Act 1991[^f00044].
 
-#### 13. Surface water drainage scheme[^key-22ce8ab9483ea2f62ba87b278aa7a2e7]
+#### 13. Surface water drainage scheme[^c-22ce8ab9483ea2f62ba87b278aa7a2e7]
 
 (1) No part of any electrical transmission station may be commenced until a detailed surface water drainage scheme based on sustainable drainage principles and an assessment of the hydrological and hydrogeological context of the electrical transmission station has been submitted to and approved by the local planning authority, in consultation with the drainage board concerned within the meaning of section 23 of the Land Drainage Act 1991.
 
 (2) Construction of the electrical transmission station must be carried out in accordance with the approved scheme.
 
-#### 14. Colour and detailed design approval: electrical transmission stations[^key-36b16ff070403caf6eac5fe6bba13ff1]
+#### 14. Colour and detailed design approval: electrical transmission stations[^c-36b16ff070403caf6eac5fe6bba13ff1]
 
 (1) Unless otherwise agreed by the local planning authority, the electrical transmission stations must be coloured using one or more of the following colours—
 
@@ -656,7 +656,7 @@ No part of the authorised development seaward of MLWS may be commenced until a d
 
 (4) The construction of Work Nos. 8A and 8B must be carried out in accordance with the approved details.
 
-#### 15. Access road within plots 45 to 49[^key-2d29a3a9abea7966b4464f793ecdd511]
+#### 15. Access road within plots 45 to 49[^c-2d29a3a9abea7966b4464f793ecdd511]
 
 (1) The undertaker must not use the access road along the crest of the sea defences within the plots numbered 45 to 49 on the land plans during the construction of Work Nos. 4A, 4B, 5A, 5B, 6A and 6B.
 
@@ -666,7 +666,7 @@ No part of the authorised development seaward of MLWS may be commenced until a d
 
 (4) The use of the access road must be in accordance with the approved scheme.
 
-#### 16. Port traffic management plan[^key-34419f5a4d23b9084528eafa82bfb182]
+#### 16. Port traffic management plan[^c-34419f5a4d23b9084528eafa82bfb182]
 
 (1) No part of the authorised development seaward of MLWS (excluding ducting and related works which are an integral part of works landward of MLWS) may be commenced until—
 
@@ -681,7 +681,7 @@ No part of the authorised development seaward of MLWS may be commenced until a d
 - “relevant planning authority” means the local planning authority in whose area the selected base port is located;
 - “selected base port” means a port situated in England and/or Wales and used by management personnel for the construction or ongoing operational management of the authorised development (or both).
 
-#### 17. Employment and skills plan[^key-8d393b05beee12166d50236bf7e8c0dd]
+#### 17. Employment and skills plan[^c-8d393b05beee12166d50236bf7e8c0dd]
 
 (1) No part of the authorised development may be commenced until an employment and skills plan based on the outline employment and skills plan has been submitted to and approved by North Lincolnshire Council in consultation with North East Lincolnshire Council, East Lindsey District Council and the Humber Local Enterprise Partnership.
 
@@ -696,7 +696,7 @@ No part of the authorised development seaward of MLWS may be commenced until a d
 
 (4) In this Requirement, “Humber Local Enterprise Partnership” means the local enterprise partnership established in June 2011 with the objective of promoting and developing the natural economic area surrounding the Humber estuary.
 
-#### 18. Offshore co-operation[^key-82f5b895560b2e971e6b47042127ed0b]
+#### 18. Offshore co-operation[^c-82f5b895560b2e971e6b47042127ed0b]
 
 (1) Before submitting the pre-construction plans and documentation required to be submitted to the MMO for approval under Condition 8 of each of the deemed marine licences, the undertaker in respect of the relevant licence must provide a copy of the plans and documentation to the other undertaker under this Order.
 
@@ -704,7 +704,7 @@ No part of the authorised development seaward of MLWS may be commenced until a d
 
 (3) Each undertaker must participate in liaison meetings with the other undertaker as requested from time to time by the MMO in writing in advance; and the meetings must be chaired by the MMO and must consider such matters as are determined by the MMO relating to the efficient operation of a deemed marine licence where it has an impact on the efficient operation of any other deemed marine licence.
 
-#### 19. Compensation compounds[^key-fc02fd48e630e3f8ba7bc7adcb2a839c]
+#### 19. Compensation compounds[^c-fc02fd48e630e3f8ba7bc7adcb2a839c]
 
 (1) The undertaker may exercise the powers conferred by this Order in relation to the compensation compounds shown coloured green on the compensation compounds plan only where—
 
@@ -725,23 +725,23 @@ those powers may be exercised only for the benefit of the Hornsea Project One un
 - (a) the carrying out of works authorised by this Order in the Order land shown hatched green on the compensation compounds plan would overlap temporally with the carrying out of works authorised by the Hornsea One Offshore Wind Farm Order 2014 in that land; or
 - (b) works authorised by this Order in the Order land shown hatched green on the compensation compounds plan are carried out and completed before the works authorised by the Hornsea One Offshore Wind Farm Order 2014 in that land commence.
 
-#### 20. Onshore decommissioning plan[^key-96b20e9c4fd6c8db536e50c71794fa38]
+#### 20. Onshore decommissioning plan[^c-96b20e9c4fd6c8db536e50c71794fa38]
 
 (1) Within 3 months of the cessation of commercial operation of the connection works, an onshore decommissioning plan must be submitted to the local planning authority for its approval.
 
 (2) The decommissioning plan must be implemented as approved.
 
-#### 21. North Coates airfield[^key-554bf9979ee182fc6a2f08f937de1a63]
+#### 21. North Coates airfield[^c-554bf9979ee182fc6a2f08f937de1a63]
 
 No part of the authorised development may be commenced within half a mile of the perimeter of the North Coates airfield until a plan to secure its safe operation during the construction and operation of the authorised development has been submitted to and approved by the Secretary of State following consultation with the operator of North Coates airfield and the Civil Aviation Authority.
 
-#### 22. Control of noise during operational phase[^key-5f8e86f04008d8a3cb53e723d8107c3e]
+#### 22. Control of noise during operational phase[^c-5f8e86f04008d8a3cb53e723d8107c3e]
 
 (1) The combined rating level (LAr,Tr) of the noise emitted during normal operation from the electrical transmission station, converter and associated plant, must not exceed 35 decibels at any residential property that has planning permission on 1st December 2014.
 
 (2) The assessment must be carried out in accordance with BS 4142:2014 “Methods for rating and assessing industrial and commercial sound”[^f00045].
 
-#### 23. Onshore co-operation[^key-c21c0e317cbfdd9c6b093176525617c2]
+#### 23. Onshore co-operation[^c-c21c0e317cbfdd9c6b093176525617c2]
 
 (1) Before submitting any plan or document required to be submitted for approval under the Requirements, the undertaker in respect of the works to which the plan or document relates must provide a copy of the plan or document to the other undertaker under this Order.
 
@@ -751,7 +751,7 @@ No part of the authorised development may be commenced within half a mile of the
 
 (4) Each undertaker must participate in liaison meetings with the other undertaker as requested from time to time by the local planning authority in writing in advance; and the meetings must be chaired by the local planning authority and must consider such matters as are determined by the local planning authority relating to the efficient construction and operation of the Project A works and the shared works above MLWS where they have an impact on the efficient construction and operation of the Project B works and the shared works above MLWS (and vice versa).
 
-#### 24. Intertidal access management plan[^key-9b4bb11c41d5ab3a5723b9ea7f1968ee]
+#### 24. Intertidal access management plan[^c-9b4bb11c41d5ab3a5723b9ea7f1968ee]
 
 (1) No part of the authorised development within the intertidal area may be commenced until an intertidal access management plan setting out details of the access routes to the intertidal area, the methods for accessing the intertidal area, the expected number of vehicles that will be accessing the intertidal area and the expected number of vehicle trips to the intertidal area required in relation to that part of the authorised development has been submitted to and approved by the local planning authority in consultation with Natural England.
 
@@ -761,7 +761,7 @@ No part of the authorised development may be commenced within half a mile of the
 
 (4) The intertidal access management plan must be implemented as approved, unless otherwise agreed by the local planning authority.
 
-#### 25. Navigational safety at Saturn, Mimas and Tethys offshore platforms[^key-cbc2a917117b1e0594e20a5cf2376215]
+#### 25. Navigational safety at Saturn, Mimas and Tethys offshore platforms[^c-cbc2a917117b1e0594e20a5cf2376215]
 
 (1) No construction of any wind turbine generator forming part of the authorised development may commence until the Secretary of State, having consulted with the operator, is satisfied that appropriate mitigation will be implemented and maintained for the life of the authorised development.
 
@@ -773,11 +773,11 @@ No part of the authorised development may be commenced within half a mile of the
 
 (3) The undertaker must comply with all obligations contained within the appropriate mitigation for the life of the authorised development.
 
-#### 26. Requirement for written approval[^key-8a465c85cb4e745557d6c7f5eaef3f6b]
+#### 26. Requirement for written approval[^c-8a465c85cb4e745557d6c7f5eaef3f6b]
 
 Where the approval, agreement or confirmation of the Secretary of State, the local planning authority or another person is required under a Requirement, that approval, agreement or confirmation must be given in writing.
 
-#### 27. Amendments to approved plans, etc.[^key-24545abb6e43a8b7d783092375e376bf]
+#### 27. Amendments to approved plans, etc.[^c-24545abb6e43a8b7d783092375e376bf]
 
 (1) Where a Requirement requires the authorised development to be carried out in accordance with a plan, scheme, code or details approved by the local planning authority or any other person (the “approved plan”), the approved plan must be taken to include any amendments that may subsequently be approved by the local planning authority or other person.
 
@@ -787,90 +787,90 @@ Where the approval, agreement or confirmation of the Secretary of State, the loc
 
 ## Annotations
 
-[^key-a41973d1154a6651457a0a17f6489706]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-a41973d1154a6651457a0a17f6489706]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-2f5ce92f7cf6018a514b37067c85f79f]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-2f5ce92f7cf6018a514b37067c85f79f]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-7d77f945cd65c2f680350c9b1c8ac35a]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-7d77f945cd65c2f680350c9b1c8ac35a]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-1b28ea71fb9918dbadc3e4203452a7bf]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/3/1) substituted (8.5.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) (No. 2) Order 2018 (S.I. 2018/570)](https://www.legislation.gov.uk/uksi/2018/570), [arts. 1](https://www.legislation.gov.uk/uksi/2018/570/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/570/article/2/2)
+[^c-1b28ea71fb9918dbadc3e4203452a7bf]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/3/1) substituted (8.5.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) (No. 2) Order 2018 (S.I. 2018/570)](https://www.legislation.gov.uk/uksi/2018/570), [arts. 1](https://www.legislation.gov.uk/uksi/2018/570/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/570/article/2/2)
 
-[^key-447f0252b7f0cb1b1c3baefb5995d770]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/3/2) substituted (8.5.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) (No. 2) Order 2018 (S.I. 2018/570)](https://www.legislation.gov.uk/uksi/2018/570), [arts. 1](https://www.legislation.gov.uk/uksi/2018/570/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/570/article/2/3)
+[^c-447f0252b7f0cb1b1c3baefb5995d770]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/3/2) substituted (8.5.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) (No. 2) Order 2018 (S.I. 2018/570)](https://www.legislation.gov.uk/uksi/2018/570), [arts. 1](https://www.legislation.gov.uk/uksi/2018/570/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/570/article/2/3)
 
-[^key-776927f1e8a7a30949671fa799fac338]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-776927f1e8a7a30949671fa799fac338]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-9dc70fc944f52c229557e0d4dcf1683d]: Textual amendment: Words in [Sch. 1 para. 4(g)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/g) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-9dc70fc944f52c229557e0d4dcf1683d]: Textual amendment: Words in [Sch. 1 para. 4(g)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/g) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
 
-[^key-c4341737700160a5bf4b448d7ef3e83d]: Textual amendment: Words in [Sch. 1 para. 4(h)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/h) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-c4341737700160a5bf4b448d7ef3e83d]: Textual amendment: Words in [Sch. 1 para. 4(h)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/h) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
 
-[^key-49a200fd10a1bebe08ccd3c6c8810113]: Textual amendment: Words in [Sch. 1 para. 4(i)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/i) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-49a200fd10a1bebe08ccd3c6c8810113]: Textual amendment: Words in [Sch. 1 para. 4(i)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/i) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
 
-[^key-7434b0f8fba7f20993ad3edf4a1a9c50]: Textual amendment: Words in [Sch. 1 para. 4(r)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/r) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-7434b0f8fba7f20993ad3edf4a1a9c50]: Textual amendment: Words in [Sch. 1 para. 4(r)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/4/r) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
 
-[^key-8b0435b7824153d6f7ffb9fbafcd487a]: Commencement: Sch. 1 Pt. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-8b0435b7824153d6f7ffb9fbafcd487a]: Commencement: Sch. 1 Pt. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-33aedc2ee05131e61cf2622e7609e469]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-33aedc2ee05131e61cf2622e7609e469]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-ce1e30a1d4b1b290be15277112d96e22]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-ce1e30a1d4b1b290be15277112d96e22]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-c38dbddd4b3e91e5590c1740c92f4561]: Textual amendment: Words in [Sch. 1 para. 2(4)(b)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/2/4/b) substituted (8.5.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) (No. 2) Order 2018 (S.I. 2018/570)](https://www.legislation.gov.uk/uksi/2018/570), [arts. 1](https://www.legislation.gov.uk/uksi/2018/570/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/570/article/2/4)
+[^c-c38dbddd4b3e91e5590c1740c92f4561]: Textual amendment: Words in [Sch. 1 para. 2(4)(b)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/2/4/b) substituted (8.5.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) (No. 2) Order 2018 (S.I. 2018/570)](https://www.legislation.gov.uk/uksi/2018/570), [arts. 1](https://www.legislation.gov.uk/uksi/2018/570/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/570/article/2/4)
 
-[^key-056acdbae3633b0e010613d6b6c2a50b]: Textual amendment: Word in [Sch. 1 para. 2(24)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/2/24) substituted (15.3.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/370)](https://www.legislation.gov.uk/uksi/2018/370), [arts. 1](https://www.legislation.gov.uk/uksi/2018/370/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2018/370/article/2/1)
+[^c-056acdbae3633b0e010613d6b6c2a50b]: Textual amendment: Word in [Sch. 1 para. 2(24)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/paragraph/2/24) substituted (15.3.2018) by [The Hornsea Two Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/370)](https://www.legislation.gov.uk/uksi/2018/370), [arts. 1](https://www.legislation.gov.uk/uksi/2018/370/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2018/370/article/2/1)
 
-[^key-01ea6aeacca36bedf2160826b08c4d79]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-01ea6aeacca36bedf2160826b08c4d79]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00043]: Footnote: [S.I. 2009/3015](https://www.legislation.gov.uk/uksi/2009/3015).
 
-[^key-0955f419683a5f7e951ad9ba1b026338]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-0955f419683a5f7e951ad9ba1b026338]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-4555b11c42468efe3306cbc9e44ade89]: Commencement: Sch. 1 para. 5 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-4555b11c42468efe3306cbc9e44ade89]: Commencement: Sch. 1 para. 5 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-5d825722d1a40a10521898355bf021f6]: Commencement: Sch. 1 para. 6 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-5d825722d1a40a10521898355bf021f6]: Commencement: Sch. 1 para. 6 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-089d8bb5f3511ae0242ba9a2e2b103ed]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/part/3/paragraph/6/1) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-089d8bb5f3511ae0242ba9a2e2b103ed]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2016/844/schedule/1/part/3/paragraph/6/1) substituted (17.11.2016) by [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
 
-[^key-7073b44dccf47582ff6f27d6612b4e63]: Commencement: Sch. 1 para. 7 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-7073b44dccf47582ff6f27d6612b4e63]: Commencement: Sch. 1 para. 7 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-3afc50b47f684641587b989b81da6851]: Commencement: Sch. 1 para. 8 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-3afc50b47f684641587b989b81da6851]: Commencement: Sch. 1 para. 8 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-312da4f81e1e2e17d1d38be7f9c9add5]: Commencement: Sch. 1 para. 9 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-312da4f81e1e2e17d1d38be7f9c9add5]: Commencement: Sch. 1 para. 9 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-489e3ac3daf278ed09acc6a5feee240e]: Commencement: Sch. 1 para. 10 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-489e3ac3daf278ed09acc6a5feee240e]: Commencement: Sch. 1 para. 10 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-f034f0539ade0a73196818cd620bf132]: Commencement: Sch. 1 para. 11 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-f034f0539ade0a73196818cd620bf132]: Commencement: Sch. 1 para. 11 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-b09ab7924f1e2446bb6b9cd66eaa0d5f]: Commencement: Sch. 1 para. 12 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-b09ab7924f1e2446bb6b9cd66eaa0d5f]: Commencement: Sch. 1 para. 12 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00044]: Footnote: See section 104(1).
 
-[^key-22ce8ab9483ea2f62ba87b278aa7a2e7]: Commencement: Sch. 1 para. 13 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-22ce8ab9483ea2f62ba87b278aa7a2e7]: Commencement: Sch. 1 para. 13 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-36b16ff070403caf6eac5fe6bba13ff1]: Commencement: Sch. 1 para. 14 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-36b16ff070403caf6eac5fe6bba13ff1]: Commencement: Sch. 1 para. 14 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-2d29a3a9abea7966b4464f793ecdd511]: Commencement: Sch. 1 para. 15 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-2d29a3a9abea7966b4464f793ecdd511]: Commencement: Sch. 1 para. 15 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-34419f5a4d23b9084528eafa82bfb182]: Commencement: Sch. 1 para. 16 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-34419f5a4d23b9084528eafa82bfb182]: Commencement: Sch. 1 para. 16 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-8d393b05beee12166d50236bf7e8c0dd]: Commencement: Sch. 1 para. 17 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-8d393b05beee12166d50236bf7e8c0dd]: Commencement: Sch. 1 para. 17 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-82f5b895560b2e971e6b47042127ed0b]: Commencement: Sch. 1 para. 18 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-82f5b895560b2e971e6b47042127ed0b]: Commencement: Sch. 1 para. 18 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-fc02fd48e630e3f8ba7bc7adcb2a839c]: Commencement: Sch. 1 para. 19 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-fc02fd48e630e3f8ba7bc7adcb2a839c]: Commencement: Sch. 1 para. 19 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-96b20e9c4fd6c8db536e50c71794fa38]: Commencement: Sch. 1 para. 20 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-96b20e9c4fd6c8db536e50c71794fa38]: Commencement: Sch. 1 para. 20 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-554bf9979ee182fc6a2f08f937de1a63]: Commencement: Sch. 1 para. 21 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-554bf9979ee182fc6a2f08f937de1a63]: Commencement: Sch. 1 para. 21 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-5f8e86f04008d8a3cb53e723d8107c3e]: Commencement: Sch. 1 para. 22 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-5f8e86f04008d8a3cb53e723d8107c3e]: Commencement: Sch. 1 para. 22 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00045]: Footnote: The document is available from:
 
-[^key-c21c0e317cbfdd9c6b093176525617c2]: Commencement: Sch. 1 para. 23 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-c21c0e317cbfdd9c6b093176525617c2]: Commencement: Sch. 1 para. 23 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-9b4bb11c41d5ab3a5723b9ea7f1968ee]: Commencement: Sch. 1 para. 24 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-9b4bb11c41d5ab3a5723b9ea7f1968ee]: Commencement: Sch. 1 para. 24 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-cbc2a917117b1e0594e20a5cf2376215]: Commencement: Sch. 1 para. 25 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-cbc2a917117b1e0594e20a5cf2376215]: Commencement: Sch. 1 para. 25 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-8a465c85cb4e745557d6c7f5eaef3f6b]: Commencement: Sch. 1 para. 26 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-8a465c85cb4e745557d6c7f5eaef3f6b]: Commencement: Sch. 1 para. 26 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-24545abb6e43a8b7d783092375e376bf]: Commencement: Sch. 1 para. 27 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-24545abb6e43a8b7d783092375e376bf]: Commencement: Sch. 1 para. 27 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

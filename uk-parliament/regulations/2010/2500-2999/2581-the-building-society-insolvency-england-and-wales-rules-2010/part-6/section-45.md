@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Requisitioned meetings: general[^key-101eeb485f0d7015487692a125bb583f]
+## 45. Requisitioned meetings: general[^c-101eeb485f0d7015487692a125bb583f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.57 of the 1986 Rules. In rule 4.57(4)(a) for “the amount for whic
 
 ## Annotations
 
-[^key-101eeb485f0d7015487692a125bb583f]: Commencement: Rule 45 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-101eeb485f0d7015487692a125bb583f]: Commencement: Rule 45 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

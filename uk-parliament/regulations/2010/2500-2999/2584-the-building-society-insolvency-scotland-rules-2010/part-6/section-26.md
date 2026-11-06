@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Other meetings[^key-3d5a7522db845bbe2e3bd4635ca6bd47]
+## 26. Other meetings[^c-3d5a7522db845bbe2e3bd4635ca6bd47]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.13 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3d5a7522db845bbe2e3bd4635ca6bd47]: Commencement: Rule 26 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-3d5a7522db845bbe2e3bd4635ca6bd47]: Commencement: Rule 26 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

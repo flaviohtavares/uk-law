@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37B. Automatic fire suppression systems[^key-d7c56cb9f947d9324deb43c7d2aa03be]
+## 37B. Automatic fire suppression systems[^c-d7c56cb9f947d9324deb43c7d2aa03be]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7c56cb9f947d9324deb43c7d2aa03be]: Textual amendment: [Regs. 37A](https://www.legislation.gov.uk/nisr/2012/192/regulation/37A), [37B](https://www.legislation.gov.uk/nisr/2012/192/regulation/37B) inserted (6.5.2025) by [The Building (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/191)](https://www.legislation.gov.uk/nisr/2024/191), [regs. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2024/191/regulation/6/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3))
+[^c-d7c56cb9f947d9324deb43c7d2aa03be]: Textual amendment: [Regs. 37A](https://www.legislation.gov.uk/nisr/2012/192/regulation/37A), [37B](https://www.legislation.gov.uk/nisr/2012/192/regulation/37B) inserted (6.5.2025) by [The Building (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/191)](https://www.legislation.gov.uk/nisr/2024/191), [regs. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2024/191/regulation/6/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3))

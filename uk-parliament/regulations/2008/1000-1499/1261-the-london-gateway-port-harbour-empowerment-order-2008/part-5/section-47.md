@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Conservation[^key-5686cbc882d8154a0a8a677b11725d18]
+## 47. Conservation[^c-5686cbc882d8154a0a8a677b11725d18]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5686cbc882d8154a0a8a677b11725d18]: Commencement: Art. 47 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-5686cbc882d8154a0a8a677b11725d18]: Commencement: Art. 47 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State under sections 1 and 2 of the Education (Fees and Awards) Act 1983[^f00001] and sections 22 and 42(6) of the Teaching and Higher Education Act 1998[^f00002] and now exercisable by them[^f00003] and powers conferred on them under section 5(5)(b) of the Higher Education (Wales) Act 2015[^f00004] make the following Regulations:
 
-## 1. Title and commencement[^key-bf7674127cb4dd21815395e45f09f4d4]
+## 1. Title and commencement[^c-bf7674127cb4dd21815395e45f09f4d4]
 
 (1) The title of these Regulations is the Education (Student Finance) (Amendments to Student Eligibility) (Wales) Regulations 2019.
 
 (2) These Regulations come into force on 9 September 2019.
 
-## 2. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^key-7bfb5992f83a0f0adeb5bc4f787bd823]
+## 2. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^c-7bfb5992f83a0f0adeb5bc4f787bd823]
 
 (1) The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this regulation.
 
@@ -64,11 +64,11 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
   ;
 - (b) in paragraph (a)(iv), after “private” insert “or family”.
 
-## 3. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-c1a37976ec804660f01a3d5296877dab]
+## 3. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-c1a37976ec804660f01a3d5296877dab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^key-1f3ef368a5fe923f960270de099076fb]
+## 4. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^c-1f3ef368a5fe923f960270de099076fb]
 
 (1) The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007] are amended in accordance with this regulation.
 
@@ -81,7 +81,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
   ;
 - (b) in paragraph (a)(iv), after “private” insert “or family”.
 
-## 5. Amendments to the Education (Student Support) (Wales) Regulations 2017[^key-6dfa2670d407e88791f050a3c784f0c2]
+## 5. Amendments to the Education (Student Support) (Wales) Regulations 2017[^c-6dfa2670d407e88791f050a3c784f0c2]
 
 (1) The Education (Student Support) (Wales) Regulations 2017[^f00008] are amended in accordance with this regulation.
 
@@ -94,7 +94,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
   ;
 - (b) in paragraph (a)(iv), after “private” insert “or family”.
 
-## 6. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^key-0cb87161758c7cad67cb6fa97152a709]
+## 6. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^c-0cb87161758c7cad67cb6fa97152a709]
 
 (1) The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f00009] are amended in accordance with this regulation.
 
@@ -107,7 +107,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
   ;
 - (b) in paragraph (a)(iv), after “private” insert “or family”.
 
-## 7. Amendments to the Education (Student Support) (Wales) Regulations 2018[^key-13463e79bce1e20200f6f742044fcf30]
+## 7. Amendments to the Education (Student Support) (Wales) Regulations 2018[^c-13463e79bce1e20200f6f742044fcf30]
 
 (1) The Education (Student Support) (Wales) Regulations 2018[^f00010] are amended in accordance with this regulation.
 
@@ -120,7 +120,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
   ;
 - (b) in paragraph (a)(iv), after “private” insert “or family”.
 
-## 8. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^key-3b8a57348deb9e6d3404d5485f39f8b6]
+## 8. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^c-3b8a57348deb9e6d3404d5485f39f8b6]
 
 (1) The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00011] are amended in accordance with this regulation.
 
@@ -133,7 +133,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
   ;
 - (b) in paragraph (a)(iv), after “private” insert “or family”.
 
-## 9. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^key-7c53527289952ade6998058d0aecc095]
+## 9. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^c-7c53527289952ade6998058d0aecc095]
 
 (1) The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00012] are amended in accordance with this regulation.
 
@@ -181,34 +181,34 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1) .
 
-[^key-bf7674127cb4dd21815395e45f09f4d4]: Commencement: Reg. 1 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-bf7674127cb4dd21815395e45f09f4d4]: Commencement: Reg. 1 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
-[^key-7bfb5992f83a0f0adeb5bc4f787bd823]: Commencement: Reg. 2 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-7bfb5992f83a0f0adeb5bc4f787bd823]: Commencement: Reg. 2 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2011/1978 (W. 218)](https://www.legislation.gov.uk/wsi/2011/1978), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814) and [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from exit day, as defined by the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), section 20(1) to (5)); there are other amending instruments but none is relevant.
 
-[^key-c1a37976ec804660f01a3d5296877dab]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2019/1192/regulation/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(d)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/d)
+[^c-c1a37976ec804660f01a3d5296877dab]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2019/1192/regulation/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(d)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/d)
 
-[^key-1f3ef368a5fe923f960270de099076fb]: Commencement: Reg. 4 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-1f3ef368a5fe923f960270de099076fb]: Commencement: Reg. 4 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), amended by [S.I. 2016/276 (W. 100)](https://www.legislation.gov.uk/wsi/2016/276), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814) and [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from exit day, as defined by the European Union (Withdrawal) Act 2018, section 20(1) to (5)).
 
-[^key-6dfa2670d407e88791f050a3c784f0c2]: Commencement: Reg. 5 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-6dfa2670d407e88791f050a3c784f0c2]: Commencement: Reg. 5 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814) and [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/uksi/2019/424) (as from exit day, as defined by the European Union (Withdrawal) Act 2018, section 20(1) to (5)).
 
-[^key-0cb87161758c7cad67cb6fa97152a709]: Commencement: Reg. 6 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-0cb87161758c7cad67cb6fa97152a709]: Commencement: Reg. 6 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2017/523 (W. 109)](https://www.legislation.gov.uk/wsi/2017/523), amended by [S.I. 2017/712 (W. 169)](https://www.legislation.gov.uk/wsi/2017/712), [S.I. 2018/277 (W. 53)](https://www.legislation.gov.uk/wsi/2018/277), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from exit day, as defined by the European Union (Withdrawal) Act 2018, section 20(1) to (5)) and [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895).
 
-[^key-13463e79bce1e20200f6f742044fcf30]: Commencement: Reg. 7 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-13463e79bce1e20200f6f742044fcf30]: Commencement: Reg. 7 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2018/813 (W. 164)](https://www.legislation.gov.uk/wsi/2018/813), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235) and [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from exit day, as defined by the European Union (Withdrawal) Act 2018, section 20(1) to (5)).
 
-[^key-3b8a57348deb9e6d3404d5485f39f8b6]: Commencement: Reg. 8 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-3b8a57348deb9e6d3404d5485f39f8b6]: Commencement: Reg. 8 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), amended by [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235) and [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from exit day, as defined by the European Union (Withdrawal) Act 2018, section 20(1) to (5)).
 
-[^key-7c53527289952ade6998058d0aecc095]: Commencement: Reg. 9 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
+[^c-7c53527289952ade6998058d0aecc095]: Commencement: Reg. 9 in force at 9.9.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), amended by [S.I. 2019/1039 (W. 182)](https://www.legislation.gov.uk/wsi/2019/1039) (as from exit day, as defined by the European Union (Withdrawal) Act 2018, section 20(1) to (5)).

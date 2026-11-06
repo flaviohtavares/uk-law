@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Abolition of monitoring[^key-74782d820095d0828d0b43862dba8041]
+## 69. Abolition of monitoring[^c-74782d820095d0828d0b43862dba8041]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Omit sections 24 to 27 of the Safeguarding Vulnerable Groups Act 2006 (monitorin
 
 ## Annotations
 
-[^key-74782d820095d0828d0b43862dba8041]: Commencement: S. 69 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/f)
+[^c-74782d820095d0828d0b43862dba8041]: Commencement: S. 69 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/f)

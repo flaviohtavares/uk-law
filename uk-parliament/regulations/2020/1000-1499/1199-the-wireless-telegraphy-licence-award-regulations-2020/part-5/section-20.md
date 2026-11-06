@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Principal stage rounds[^key-bc039cd1f2ea9ca5559acd3abb1b59b2]
+## 20. Principal stage rounds[^c-bc039cd1f2ea9ca5559acd3abb1b59b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc039cd1f2ea9ca5559acd3abb1b59b2]: Commencement: Reg. 20 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-bc039cd1f2ea9ca5559acd3abb1b59b2]: Commencement: Reg. 20 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

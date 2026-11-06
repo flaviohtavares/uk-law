@@ -29,16 +29,16 @@ Regulation 3(1)
 **1.** (1) Subject to the following provisions of this Schedule—
 
 - (a) every balance sheet of a company must show the items listed in either of the balance sheet formats in Section B of this Part, and
-- (b) every profit and loss account must show the items listed in either[^key-3ba854a78f9c9920064be072611c51cb] of the profit and loss account formats in Section B.
+- (b) every profit and loss account must show the items listed in either[^c-3ba854a78f9c9920064be072611c51cb] of the profit and loss account formats in Section B.
 
 (2) References in this Schedule to the items listed in any of the formats in Section B are to those items read together with any of the notes following the formats which apply to those items.
 
-(3) Subject to paragraph 1A,[^key-c281b89c821f7fc7bdf14640617df94c] the items must be shown in the order and under the headings and sub-headings given in the particular format used, but—
+(3) Subject to paragraph 1A,[^c-c281b89c821f7fc7bdf14640617df94c] the items must be shown in the order and under the headings and sub-headings given in the particular format used, but—
 
 - (a) the notes to the formats may permit alternative positions for any particular items, and
 - (b) the heading or sub-heading for any item does not have to be distinguished by any letter or number assigned to that item in the format used.
 
-**1A.**[^key-9137dc14501033394126543f2f956b38] (1) The company's directors may adapt one of the balance sheet formats in Section B so to distinguish between current and non-current items in a different way, provided that—
+**1A.**[^c-9137dc14501033394126543f2f956b38] (1) The company's directors may adapt one of the balance sheet formats in Section B so to distinguish between current and non-current items in a different way, provided that—
 
 - (a) the information given is at least equivalent to that which would have been required by the use of such format had it not been thus adapted, and
 - (b) the presentation of those items is in accordance with generally accepted accounting principles or practice.
@@ -75,7 +75,7 @@ Regulation 3(1)
 
 (2) Where an amount can be shown for the item in question for the immediately preceding financial year that amount must be shown under the heading or sub-heading required by the format for that item.
 
-**6.** Every profit and loss account must show the amount of a company's profit or loss [^key-a1702fb7bab8cd06cfee8f2a5b341997]...before taxation.
+**6.** Every profit and loss account must show the amount of a company's profit or loss [^c-a1702fb7bab8cd06cfee8f2a5b341997]...before taxation.
 
 **7.** (1) For every item shown in the balance sheet or profit and loss account the corresponding amount for the immediately preceding financial year must also be shown.
 
@@ -85,7 +85,7 @@ Regulation 3(1)
 
 **9.** The company's directors must, in determining how amounts are presented within items in the profit and loss account and balance sheet, have regard to the substance of the reported transaction or arrangement, in accordance with generally accepted accounting principles or practice.
 
-**9A.**[^key-fea3b2700c201ab4a14ed7abc648bc5a] Where an asset or liability relates to more than one item in the balance sheet, the relationship of such asset or liability to the relevant items must be disclosed either under those items or in the notes to the accounts.
+**9A.**[^c-fea3b2700c201ab4a14ed7abc648bc5a] Where an asset or liability relates to more than one item in the balance sheet, the relationship of such asset or liability to the relevant items must be disclosed either under those items or in the notes to the accounts.
 
 #### SECTION B — THE REQUIRED FORMATS FOR ACCOUNTS[^c19249841]
 
@@ -165,7 +165,7 @@ Regulation 3(1)
     - 1. Capital redemption reserve
     - 2. Reserve for own shares
     - 3. Reserves provided for by the articles of association
-    - 4. Other reserves, including the fair value reserve[^key-7484eab2ead5512cc0c9234c9e67a5dd]
+    - 4. Other reserves, including the fair value reserve[^c-7484eab2ead5512cc0c9234c9e67a5dd]
   - V. Profit and loss account
 
 ##### Balance sheet formats — Format 2
@@ -212,7 +212,7 @@ Regulation 3(1)
   - 4. Cash at bank and in hand
 - 4. Prepayments and accrued income *(6)*
 
-**CAPITAL, RESERVES AND LIABILITIES[^key-0b5fa18219270d9c8047716de331070a]**
+**CAPITAL, RESERVES AND LIABILITIES[^c-0b5fa18219270d9c8047716de331070a]**
 
 - 1. Capital and reserves
   - 1. Called up share capital *(12)*
@@ -222,7 +222,7 @@ Regulation 3(1)
     - 1. Capital redemption reserve
     - 2. Reserve for own shares
     - 3. Reserves provided for by the articles of association
-    - 4. Other reserves, including the fair value reserve[^key-5228c3305864a41fd9c2be5ffdb4fc13]
+    - 4. Other reserves, including the fair value reserve[^c-5228c3305864a41fd9c2be5ffdb4fc13]
   - 5. Profit and loss account
 - 2. Provisions for liabilities
   - 1. Pensions and similar obligations
@@ -326,13 +326,13 @@ Regulation 3(1)
 - 9. Income from other fixed asset investments *(15)*
 - 10. Other interest receivable and similar income *(15)*
 - 11. Amounts written off investments
-- 12. Interest payable and similar expenses[^key-a1c4b7df2ad64dbf981ab2fded15fcdb] *(16)*
-- 13. Tax on profit or loss [^key-ba5dfcc8ae387c0fcc02477bdd46da8d]...
-- 14. Profit or loss [^key-66d3567e8978d48a6005bc6de225aa0d]... after taxation
-- 15. [^key-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 16. [^key-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 17. [^key-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 18. [^key-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 12. Interest payable and similar expenses[^c-a1c4b7df2ad64dbf981ab2fded15fcdb] *(16)*
+- 13. Tax on profit or loss [^c-ba5dfcc8ae387c0fcc02477bdd46da8d]...
+- 14. Profit or loss [^c-66d3567e8978d48a6005bc6de225aa0d]... after taxation
+- 15. [^c-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 16. [^c-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 17. [^c-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 18. [^c-c8477a4f71b04ec9fc3e06b65b018c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - 19. Other taxes not shown under the above items
 - 20. Profit or loss for the financial year
 
@@ -344,61 +344,61 @@ Regulation 3(1)
 - 4. Other operating income
 - 5.
   - (a) Raw materials and consumables
-  - (b) Other external expenses[^key-5db1537b7c90b31ba3e0cb8387b18f70]
+  - (b) Other external expenses[^c-5db1537b7c90b31ba3e0cb8387b18f70]
 - 6. Staff costs
   - (a) wages and salaries
   - (b) social security costs
   - (c) other pension costs
 - 7.
   - (a) Depreciation and other amounts written off tangible and intangible fixed assets
-  - (b) Amounts written off current assets, to the extent that they exceed write-offs which are normal in the undertaking concerned[^key-a29395411d8fc9404f1b5588bae1e891]
-- 8. Other operating expenses[^key-50382cb7c825302ae99c82a705915eee]
+  - (b) Amounts written off current assets, to the extent that they exceed write-offs which are normal in the undertaking concerned[^c-a29395411d8fc9404f1b5588bae1e891]
+- 8. Other operating expenses[^c-50382cb7c825302ae99c82a705915eee]
 - 9. Income from shares in group undertakings
 - 10. Income from participating interests
 - 11. Income from other fixed asset investments *(15)*
 - 12. Other interest receivable and similar income (*15)*
 - 13. Amounts written off investments
-- 14. Interest payable and similar expenses[^key-dffaba91730154f8fe6e872141cf78da] *(16)*
-- 15. Tax on profit or loss [^key-24621d86b2890316c499f4ca7deedae7]...
-- 16. Profit or loss [^key-252edb8390624a11f9276376f483f343]... after taxation
-- 17. [^key-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 18. [^key-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 19. [^key-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 20. [^key-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 14. Interest payable and similar expenses[^c-dffaba91730154f8fe6e872141cf78da] *(16)*
+- 15. Tax on profit or loss [^c-24621d86b2890316c499f4ca7deedae7]...
+- 16. Profit or loss [^c-252edb8390624a11f9276376f483f343]... after taxation
+- 17. [^c-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 18. [^c-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 19. [^c-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 20. [^c-faa7e2a81d34e6e2c871c672b1001987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - 21. Other taxes not shown under the above items
 - 22. Profit or loss for the financial year
 
 ##### Profit and loss account formats — Format 3 (see note (17) below)
 
-[^key-3f991a16f654dc13d3419ce14954cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f991a16f654dc13d3419ce14954cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Profit and loss account formats — Format 4
 
-[^key-d55acb6e34bd8eb3fbc36a0de12bacee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d55acb6e34bd8eb3fbc36a0de12bacee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Notes on the profit and loss account formats
 
 - (14) *Cost of sales: distribution costs: administrative expenses*
 
-  (Format 1, items 2, 4 and 5 [^key-9ad5ad4993b93377afe8aa8578c90be5]...)
+  (Format 1, items 2, 4 and 5 [^c-9ad5ad4993b93377afe8aa8578c90be5]...)
 
   These items must be stated after taking into account any necessary provisions for depreciation or diminution in value of assets.
 
 - (15) *Income from other fixed asset investments: other interest receivable and similar income*
 
-  (Format 1, items 9 and 10; format 2, items 11 and 12; [^key-519e3b2baa96708375155c77a642135c]...)
+  (Format 1, items 9 and 10; format 2, items 11 and 12; [^c-519e3b2baa96708375155c77a642135c]...)
 
   Income and interest derived from group undertakings must be shown separately from income and interest derived from other sources.
 
-- (16) *Interest payable and similar expenses[^key-c9e7cd2e6a0ff0ada7809a3cfc75c714]*
+- (16) *Interest payable and similar expenses[^c-c9e7cd2e6a0ff0ada7809a3cfc75c714]*
 
-  (Format 1, item 12; format 2, item 14; [^key-375d273201fe48632b7e65d2158223ad]...)
+  (Format 1, item 12; format 2, item 14; [^c-375d273201fe48632b7e65d2158223ad]...)
 
   The amount payable to group undertakings must be shown separately.
 
-- (17) *Format 1[^key-10681299b073b4aed35b80fb198b2334]*
+- (17) *Format 1[^c-10681299b073b4aed35b80fb198b2334]*
 
-  The amount of any provisions for depreciation and diminution in value of tangible and intangible fixed assets falling to be shown under item 7(a) in format 2[^key-e203a66456f882f2c9bc0effb53edf01] must be disclosed in a note to the accounts in any case where the profit and loss account is prepared using format 1 [^key-8022251873e2edadf0b94b639826101a]...
+  The amount of any provisions for depreciation and diminution in value of tangible and intangible fixed assets falling to be shown under item 7(a) in format 2[^c-e203a66456f882f2c9bc0effb53edf01] must be disclosed in a note to the accounts in any case where the profit and loss account is prepared using format 1 [^c-8022251873e2edadf0b94b639826101a]...
 
 ### PART 2 — ACCOUNTING PRINCIPLES AND RULES
 
@@ -414,19 +414,19 @@ Regulation 3(1)
 
 The company is presumed to be carrying on business as a going concern.
 
-**12.** Accounting policies and measurement bases[^key-85019b193bc1997c67c31aaa39c1b6ba] must be applied consistently within the same accounts and from one financial year to the next.
+**12.** Accounting policies and measurement bases[^c-85019b193bc1997c67c31aaa39c1b6ba] must be applied consistently within the same accounts and from one financial year to the next.
 
 **13.** The amount of any item must be determined on a prudent basis, and in particular—
 
-- (a) only profits realised at the balance sheet date are to be included in the profit and loss account, [^key-65ddd3b9550a2e2a034a2b1bba236246]...
-- (b) all liabilities which have arisen in respect of the financial year to which the accounts relate or a previous financial year must be taken into account, including those which only become apparent between the balance sheet date and the date on which it is signed on behalf of the board of directors in accordance with section 414 of the 2006 Act (approval and signing of accounts), and[^key-f1777fde72d93c765047b87ad5f68448]
-- (c)[^key-96a4998086303b0be2df0a674f4d337d] all provisions for diminution of value must be recognised, whether the result of the financial year is a profit or a loss.
+- (a) only profits realised at the balance sheet date are to be included in the profit and loss account, [^c-65ddd3b9550a2e2a034a2b1bba236246]...
+- (b) all liabilities which have arisen in respect of the financial year to which the accounts relate or a previous financial year must be taken into account, including those which only become apparent between the balance sheet date and the date on which it is signed on behalf of the board of directors in accordance with section 414 of the 2006 Act (approval and signing of accounts), and[^c-f1777fde72d93c765047b87ad5f68448]
+- (c)[^c-96a4998086303b0be2df0a674f4d337d] all provisions for diminution of value must be recognised, whether the result of the financial year is a profit or a loss.
 
 **14.** All income and charges relating to the financial year to which the accounts relate must be taken into account, without regard to the date of receipt or payment.
 
 **15.** In determining the aggregate amount of any item, the amount of each individual asset or liability that falls to be taken into account must be determined separately.
 
-**15A.**[^key-8afadad78d4013d607edd30eca6928ec] The opening balance sheet for each financial year shall correspond to the closing balance sheet for the preceding financial year.
+**15A.**[^c-8afadad78d4013d607edd30eca6928ec] The opening balance sheet for each financial year shall correspond to the closing balance sheet for the preceding financial year.
 
 #### SECTION B — HISTORICAL COST ACCOUNTING RULES
 
@@ -455,15 +455,15 @@ must be reduced by provisions for depreciation calculated to write off that amou
 
 (2) Provisions for diminution in value must be made in respect of any fixed asset which has diminished in value if the reduction in its value is expected to be permanent (whether its useful economic life is limited or not), and the amount to be included in respect of it must be reduced accordingly.
 
-(3)[^key-cfa705fe28a33b8ed427f950cdbf7040] Provisions made under sub-paragraph (1) or (2) must be charged to the profit and loss account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
+(3)[^c-cfa705fe28a33b8ed427f950cdbf7040] Provisions made under sub-paragraph (1) or (2) must be charged to the profit and loss account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
 
 **20.** (1) Where the reasons for which any provision was made in accordance with paragraph 19 have ceased to apply to any extent, that provision must be written back to the extent that it is no longer necessary.
 
-(1A)[^key-3eaa670164b4286f4fb23260b451d493] But provision made in accordance with paragraph 19(2) in respect of goodwill must not be written back to any extent.
+(1A)[^c-3eaa670164b4286f4fb23260b451d493] But provision made in accordance with paragraph 19(2) in respect of goodwill must not be written back to any extent.
 
-(2)[^key-73d02072b201e6f520c30bd6d2520921] Any amounts written back under sub-paragraph (1) must be recognised in the profit and loss account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
+(2)[^c-73d02072b201e6f520c30bd6d2520921] Any amounts written back under sub-paragraph (1) must be recognised in the profit and loss account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
 
-###### 21. Intangible Assets[^key-8bc39711075914f36a373359d1633e39]
+###### 21. Intangible Assets[^c-8bc39711075914f36a373359d1633e39]
 
 (1) Where this is in accordance with generally accepted accounting principles or practice, development costs may be included in “other intangible assets” under “fixed assets” in the balance sheet formats set out in Section B of Part 1 of this Schedule.
 
@@ -515,7 +515,7 @@ may be included at a fixed quantity and value.
 
 ###### 27. Determination of purchase price or production cost
 
-(1) The purchase price of an asset is to be determined by adding to the actual price paid any expenses incidental to its acquisition and then subtracting any incidental reductions in the cost of acquisition[^key-82ff615ceb8469d05a572ce13859ba74].
+(1) The purchase price of an asset is to be determined by adding to the actual price paid any expenses incidental to its acquisition and then subtracting any incidental reductions in the cost of acquisition[^c-82ff615ceb8469d05a572ce13859ba74].
 
 (2) The production cost of an asset is to be determined by adding to the purchase price of the raw materials and consumables used the amount of the costs incurred by the company which are directly attributable to the production of that asset.
 
@@ -540,7 +540,7 @@ may be determined by the application of any of the methods mentioned in sub-para
 - (a) the method known as “first in, first out” (FIFO),
 - (b) the method known as “last in, first out” (LIFO),
 - (c) a weighted average price, and
-- (d) any other method reflecting generally accepted best practice[^key-08c5d680d26954c4b510b37c7d0d7b32].
+- (d) any other method reflecting generally accepted best practice[^c-08c5d680d26954c4b510b37c7d0d7b32].
 
 (3) Where in the case of any company—
 
@@ -562,7 +562,7 @@ the amount of that difference must be disclosed in a note to the accounts.
 
 (2) In such a case, the purchase price or production cost of the asset must be taken, for the purposes of paragraphs 17 to 24, to be the value ascribed to it in the earliest available record of its value made on or after its acquisition or production by the company.
 
-###### 29A. Equity method in respect of participating interests[^key-99aa17a5e0e730db5672068cf1c56765]
+###### 29A. Equity method in respect of participating interests[^c-99aa17a5e0e730db5672068cf1c56765]
 
 (1) Participating interests may be accounted for using the equity method.
 
@@ -596,9 +596,9 @@ the amount of that difference must be disclosed in a note to the accounts.
 
 But in the latter case particulars of the method of valuation adopted and of the reasons for adopting it must be disclosed in a note to the accounts.
 
-(4)[^key-e482a642c3ec64c02fa215c947c56b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e482a642c3ec64c02fa215c947c56b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e482a642c3ec64c02fa215c947c56b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e482a642c3ec64c02fa215c947c56b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 33. Application of the depreciation rules
 
@@ -617,9 +617,9 @@ may be the historical cost amount instead of the adjusted amount, provided that 
 
 (1) This paragraph applies where the amounts to be included in respect of assets covered by any items shown in a company's accounts have been determined on any basis mentioned in paragraph 32.
 
-(2) The items affected and the basis of valuation adopted in determining the amounts of the assets in question in the case of each such item must be disclosed in the note on accounting policies (see paragraph 44 of this Schedule)[^key-bbe409db6794f4411002d7a3b61ed52f].
+(2) The items affected and the basis of valuation adopted in determining the amounts of the assets in question in the case of each such item must be disclosed in the note on accounting policies (see paragraph 44 of this Schedule)[^c-bbe409db6794f4411002d7a3b61ed52f].
 
-(3)[^key-4a7641bc0e6c23f744827c181402453e] In the case of each balance sheet item affected, the comparable amounts determined according to the historical cost accounting rules must be shown in a note to the accounts.
+(3)[^c-4a7641bc0e6c23f744827c181402453e] In the case of each balance sheet item affected, the comparable amounts determined according to the historical cost accounting rules must be shown in a note to the accounts.
 
 (4) In sub-paragraph (3), references in relation to any item to the comparable amounts determined as there mentioned are references to—
 
@@ -630,7 +630,7 @@ may be the historical cost amount instead of the adjusted amount, provided that 
 
 (1) With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 32, the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any provisions for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such provisions made in the light of that determination) must be credited or (as the case may be) debited to a separate reserve (“**the revaluation reserve**”).
 
-(2) The amount of the revaluation reserve must be shown in the company's balance sheet under a separate sub-heading in the position given for the item “revaluation reserve” under “Capital and reserves”[^key-7abfb5ff8814f33a30c96f1c7ea0c4ea] in format 1 or 2 of the balance sheet formats set out in Part 1 of this Schedule[^key-8ba245008b5038645ffe13c5e0e11379]....
+(2) The amount of the revaluation reserve must be shown in the company's balance sheet under a separate sub-heading in the position given for the item “revaluation reserve” under “Capital and reserves”[^c-7abfb5ff8814f33a30c96f1c7ea0c4ea] in format 1 or 2 of the balance sheet formats set out in Part 1 of this Schedule[^c-8ba245008b5038645ffe13c5e0e11379]....
 
 (3) An amount may be transferred—
 
@@ -668,7 +668,7 @@ The revaluation reserve must be reduced to the extent that the amounts transferr
 - (e) contracts for contingent consideration in a business combination, or
 - (f) other financial instruments with such special characteristics that the instruments, according to generally accepted accounting principles or practice, should be accounted for differently from other financial instruments.
 
-(4)[^key-cbe65def42cdb10245bd29e389dc77d8] Financial instruments which under UK-adopted international accounting standards[^key-469c1edf3207837e9dcbfffba7c5141d] may be included in accounts at fair value, may be so included, provided that the disclosures required by such accounting standards are made.
+(4)[^c-cbe65def42cdb10245bd29e389dc77d8] Financial instruments which under UK-adopted international accounting standards[^c-469c1edf3207837e9dcbfffba7c5141d] may be included in accounts at fair value, may be so included, provided that the disclosures required by such accounting standards are made.
 
 (5) If the fair value of a financial instrument cannot be determined reliably in accordance with paragraph 37, sub-paragraph (1) does not apply to that financial instrument.
 
@@ -693,7 +693,7 @@ The revaluation reserve must be reduced to the extent that the amounts transferr
 
 A company may include any assets and liabilities, or identified portions of such assets or liabilities, that qualify as hedged items under a fair value hedge accounting system at the amount required under that system.
 
-##### 39. Other assets that may be included at fair value[^key-08095374fa0e8f498ec107be50eee008]
+##### 39. Other assets that may be included at fair value[^c-08095374fa0e8f498ec107be50eee008]
 
 (1) This paragraph applies to—
 
@@ -733,7 +733,7 @@ the change in value may be credited to or (as the case may be) debited from the 
 
 ### PART 3 — NOTES TO THE ACCOUNTS
 
-#### 42. Preliminary[^key-17abc4e4cc6652b258c57174534190a0]
+#### 42. Preliminary[^c-17abc4e4cc6652b258c57174534190a0]
 
 (1) Any information required in the case of a company by the following provisions of this Part of this Schedule must be given by way of a note to the accounts.
 
@@ -877,7 +877,7 @@ in respect of those assets, and
 
 ##### 58. Information where investment property and living animals and plants included at fair value
 
-(1) This paragraph applies where the amounts to be included in a company's accounts in respect of stocks,[^key-79f09d6418c1437e75351717cfba58b7] investment property or living animals and plants have been determined in accordance with paragraph 39.
+(1) This paragraph applies where the amounts to be included in a company's accounts in respect of stocks,[^c-79f09d6418c1437e75351717cfba58b7] investment property or living animals and plants have been determined in accordance with paragraph 39.
 
 (2) The balance sheet items affected and the basis of valuation adopted in determining the amounts of the assets in question in the case of each such item must be disclosed in a note to the accounts.
 
@@ -901,7 +901,7 @@ in respect of those assets, and
 
 and the reserves or provisions are or would but for paragraph 4(2)(b) be shown as separate items in the company's balance sheet.
 
-(2) The following information must be given in respect of the aggregate of reserves or provisions included in the same item in tabular form[^key-b8f1d0a5ed6f271b8f00b956fb636d1f]—
+(2) The following information must be given in respect of the aggregate of reserves or provisions included in the same item in tabular form[^c-b8f1d0a5ed6f271b8f00b956fb636d1f]—
 
 - (a) the amount of the reserves or provisions as at the date of the beginning of the financial year and as at the balance sheet date respectively,
 - (b) any amounts transferred to or from the reserves or provisions during that year, and
@@ -927,7 +927,7 @@ The amount of any provision for deferred taxation must be stated separately from
 (4) In respect of each item shown under “creditors” in the company's balance sheet there must be stated—
 
 - (a) the aggregate amount of any debts included under that item in respect of which any security has been given by the company, and
-- (b) an indication of the nature and form[^key-039c00a886521391a14a23dec4216d79] of the securities so given.
+- (b) an indication of the nature and form[^c-039c00a886521391a14a23dec4216d79] of the securities so given.
 
 (5) References above in this paragraph to an item shown under “creditors” in the company's balance sheet include references, where amounts falling due to creditors within one year and after more than one year are distinguished in the balance sheet—
 
@@ -941,7 +941,7 @@ References to items shown under “creditors” include references to items whic
 - (a) the amount of the arrears, and
 - (b) the period for which the dividends or, if there is more than one class, each class of them are in arrear.
 
-##### 63. Guarantees and other financial commitments[^key-d1eb62129ffc38644b6bd83f6a156cf2]
+##### 63. Guarantees and other financial commitments[^c-d1eb62129ffc38644b6bd83f6a156cf2]
 
 (1) Particulars must be given of any charge on the assets of the company to secure the liabilities of any other person including the amount secured.
 
@@ -990,7 +990,7 @@ must be separately stated and those within each of paragraphs (a), (b) and (c) m
 - (c) the amount of the charge for United Kingdom income tax, and
 - (d) the amount of the charge for taxation imposed outside the United Kingdom of profits, income and (so far as charged to revenue) capital gains.
 
-These amounts must be stated separately in respect of each of the amounts which is or would but for paragraph 4(2)(b) be shown under the item “tax on profit or loss” in the profit and loss account.[^key-ab659aaffd53b03fc4e75627e6c99370]
+These amounts must be stated separately in respect of each of the amounts which is or would but for paragraph 4(2)(b) be shown under the item “tax on profit or loss” in the profit and loss account.[^c-ab659aaffd53b03fc4e75627e6c99370]
 
 ##### 68. Particulars of turnover
 
@@ -1013,7 +1013,7 @@ and any amounts properly attributable to one class of business or (as the case m
 
 (1) Where any amount relating to any preceding financial year is included in any item in the profit and loss account, the effect must be stated.
 
-(2)[^key-8751bc02ff433e671112962ba27dbffc] The amount, nature and effect of any individual items of income or expenditure which are of exceptional size or incidence must be stated.
+(2)[^c-8751bc02ff433e671112962ba27dbffc] The amount, nature and effect of any individual items of income or expenditure which are of exceptional size or incidence must be stated.
 
 ##### 70. Sums denominated in foreign currencies
 
@@ -1025,7 +1025,7 @@ Where the directors of a company take advantage of the exemption conferred by se
 
 ##### 72. Related party transactions
 
-(1) Particulars may be given of transactions which the company has entered into with related parties, and must be given if such transactions are material and have not been concluded under normal market conditions (see regulation 4(2B) for a modification[^key-ed7b4af813fcef063ef38b603b36feac] for medium-sized companies).
+(1) Particulars may be given of transactions which the company has entered into with related parties, and must be given if such transactions are material and have not been concluded under normal market conditions (see regulation 4(2B) for a modification[^c-ed7b4af813fcef063ef38b603b36feac] for medium-sized companies).
 
 (2) The particulars of transactions required to be disclosed by sub-paragraph (1) must include—
 
@@ -1037,9 +1037,9 @@ Where the directors of a company take advantage of the exemption conferred by se
 
 (4) Particulars need not be given of transactions entered into between two or more members of a group, provided that any subsidiary undertaking which is a party to the transaction is wholly-owned by such a member.
 
-(5) In this paragraph, “**related party**” has the same meaning as in UK-adopted international accounting standards[^key-995e0f49804926f23dfddf562de0c9cc].
+(5) In this paragraph, “**related party**” has the same meaning as in UK-adopted international accounting standards[^c-995e0f49804926f23dfddf562de0c9cc].
 
-##### 72A. Post balance sheet events[^key-dedcc5f3944377f3e56d4b30229440e2]
+##### 72A. Post balance sheet events[^c-dedcc5f3944377f3e56d4b30229440e2]
 
 The nature and financial effect of material events arising after the balance sheet date which are not reflected in the profit and loss account or balance sheet must be stated.
 
@@ -1049,7 +1049,7 @@ Particulars must be given of the proposed appropriation of profit or treatment o
 
 ### PART 4 — SPECIAL PROVISION WHERE COMPANY IS A PARENT COMPANY OR SUBSIDIARY UNDERTAKING
 
-#### 73. Company's own accounts: guarantees and other financial commitments in favour of group undertakings[^key-d7befd75fb1eb044b28771457aa28163]
+#### 73. Company's own accounts: guarantees and other financial commitments in favour of group undertakings[^c-d7befd75fb1eb044b28771457aa28163]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1075,128 +1075,128 @@ Particulars must be given of the proposed appropriation of profit or treatment o
 
 ## Annotations
 
-[^key-3ba854a78f9c9920064be072611c51cb]: Textual amendment: Word in Sch. 1 para. 1(1)(b) substituted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-3ba854a78f9c9920064be072611c51cb]: Textual amendment: Word in Sch. 1 para. 1(1)(b) substituted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-c281b89c821f7fc7bdf14640617df94c]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-c281b89c821f7fc7bdf14640617df94c]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-9137dc14501033394126543f2f956b38]: Textual amendment: Sch. 1 para. 1A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-9137dc14501033394126543f2f956b38]: Textual amendment: Sch. 1 para. 1A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-a1702fb7bab8cd06cfee8f2a5b341997]: Textual amendment: Words in Sch. 1 para. 6 omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(d)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-a1702fb7bab8cd06cfee8f2a5b341997]: Textual amendment: Words in Sch. 1 para. 6 omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(d)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-fea3b2700c201ab4a14ed7abc648bc5a]: Textual amendment: Sch. 1 para. 9A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(e)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-fea3b2700c201ab4a14ed7abc648bc5a]: Textual amendment: Sch. 1 para. 9A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(2)(e)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
 [^c19249841]: Marginal citation: A number in brackets following any item is a reference to the note of that number in the notes following the formats.
 
-[^key-7484eab2ead5512cc0c9234c9e67a5dd]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-7484eab2ead5512cc0c9234c9e67a5dd]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-0b5fa18219270d9c8047716de331070a]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-0b5fa18219270d9c8047716de331070a]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-5228c3305864a41fd9c2be5ffdb4fc13]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-5228c3305864a41fd9c2be5ffdb4fc13]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
 [^c19249801]: Marginal citation: See regulation 4(3)(a) for exemption for medium-sized companies in accounts delivered to registrar of companies.
 
-[^key-a1c4b7df2ad64dbf981ab2fded15fcdb]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-a1c4b7df2ad64dbf981ab2fded15fcdb]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-ba5dfcc8ae387c0fcc02477bdd46da8d]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-ba5dfcc8ae387c0fcc02477bdd46da8d]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-66d3567e8978d48a6005bc6de225aa0d]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-66d3567e8978d48a6005bc6de225aa0d]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-c8477a4f71b04ec9fc3e06b65b018c38]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(iv)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-c8477a4f71b04ec9fc3e06b65b018c38]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(d)(iv)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/d/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
 [^c19249811]: Marginal citation: See regulation 4(3)(a) for exemption for medium-sized companies in accounts delivered to registrar of companies.
 
-[^key-5db1537b7c90b31ba3e0cb8387b18f70]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-5db1537b7c90b31ba3e0cb8387b18f70]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-a29395411d8fc9404f1b5588bae1e891]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-a29395411d8fc9404f1b5588bae1e891]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-50382cb7c825302ae99c82a705915eee]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-50382cb7c825302ae99c82a705915eee]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-dffaba91730154f8fe6e872141cf78da]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(iv)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-dffaba91730154f8fe6e872141cf78da]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(iv)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-24621d86b2890316c499f4ca7deedae7]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(v)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/v) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-24621d86b2890316c499f4ca7deedae7]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(v)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/v) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-252edb8390624a11f9276376f483f343]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(vi)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/vi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-252edb8390624a11f9276376f483f343]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(vi)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/vi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-faa7e2a81d34e6e2c871c672b1001987]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(vii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-faa7e2a81d34e6e2c871c672b1001987]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(e)(vii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/e/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-3f991a16f654dc13d3419ce14954cbb3]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(f)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-3f991a16f654dc13d3419ce14954cbb3]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(f)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-d55acb6e34bd8eb3fbc36a0de12bacee]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(g)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d55acb6e34bd8eb3fbc36a0de12bacee]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(g)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-9ad5ad4993b93377afe8aa8578c90be5]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(h)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-9ad5ad4993b93377afe8aa8578c90be5]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(h)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-519e3b2baa96708375155c77a642135c]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-519e3b2baa96708375155c77a642135c]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-c9e7cd2e6a0ff0ada7809a3cfc75c714]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(j)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/j) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-c9e7cd2e6a0ff0ada7809a3cfc75c714]: Textual amendment: Word in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(j)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/j) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-375d273201fe48632b7e65d2158223ad]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(j)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/j) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-375d273201fe48632b7e65d2158223ad]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(j)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/j) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-10681299b073b4aed35b80fb198b2334]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(k)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/k) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-10681299b073b4aed35b80fb198b2334]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(k)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/k) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-e203a66456f882f2c9bc0effb53edf01]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(k)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/k/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-e203a66456f882f2c9bc0effb53edf01]: Textual amendment: Words in Sch. 1 Pt. 1 Section B substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(k)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/k/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-8022251873e2edadf0b94b639826101a]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(k)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/k/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-8022251873e2edadf0b94b639826101a]: Textual amendment: Words in Sch. 1 Pt. 1 Section B omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [27(3)(k)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/27/3/k/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-85019b193bc1997c67c31aaa39c1b6ba]: Textual amendment: Words in Sch. 1 para. 12 inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-85019b193bc1997c67c31aaa39c1b6ba]: Textual amendment: Words in Sch. 1 para. 12 inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-65ddd3b9550a2e2a034a2b1bba236246]: Textual amendment: Word in Sch. 1 para. 13(a) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-65ddd3b9550a2e2a034a2b1bba236246]: Textual amendment: Word in Sch. 1 para. 13(a) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-f1777fde72d93c765047b87ad5f68448]: Textual amendment: Word in Sch. 1 para. 13(b) inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-f1777fde72d93c765047b87ad5f68448]: Textual amendment: Word in Sch. 1 para. 13(b) inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-96a4998086303b0be2df0a674f4d337d]: Textual amendment: Sch. 1 para. 13(c) inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-96a4998086303b0be2df0a674f4d337d]: Textual amendment: Sch. 1 para. 13(c) inserted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-8afadad78d4013d607edd30eca6928ec]: Textual amendment: Sch. 1 para. 15A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-8afadad78d4013d607edd30eca6928ec]: Textual amendment: Sch. 1 para. 15A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(2)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-cfa705fe28a33b8ed427f950cdbf7040]: Textual amendment: Sch. 1 para. 19(3) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-cfa705fe28a33b8ed427f950cdbf7040]: Textual amendment: Sch. 1 para. 19(3) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-3eaa670164b4286f4fb23260b451d493]: Textual amendment: Sch. 1 para. 20(1A) inserted (with effect in accordance with reg. 2(2)(3) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) (No. 2) Regulations 2015 (S.I. 2015/1672)](https://www.legislation.gov.uk/uksi/2015/1672), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/1672/regulation/2/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1672/regulation/4/2)
+[^c-3eaa670164b4286f4fb23260b451d493]: Textual amendment: Sch. 1 para. 20(1A) inserted (with effect in accordance with reg. 2(2)(3) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) (No. 2) Regulations 2015 (S.I. 2015/1672)](https://www.legislation.gov.uk/uksi/2015/1672), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/1672/regulation/2/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1672/regulation/4/2)
 
-[^key-73d02072b201e6f520c30bd6d2520921]: Textual amendment: Sch. 1 para. 20(2) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-73d02072b201e6f520c30bd6d2520921]: Textual amendment: Sch. 1 para. 20(2) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-8bc39711075914f36a373359d1633e39]: Textual amendment: Sch. 1 paras. 21, 22 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-8bc39711075914f36a373359d1633e39]: Textual amendment: Sch. 1 paras. 21, 22 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-82ff615ceb8469d05a572ce13859ba74]: Textual amendment: Words in Sch. 1 para. 27(1) added (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(d)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-82ff615ceb8469d05a572ce13859ba74]: Textual amendment: Words in Sch. 1 para. 27(1) added (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(d)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-08c5d680d26954c4b510b37c7d0d7b32]: Textual amendment: Words in Sch. 1 para. 28(2)(d) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(e)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-08c5d680d26954c4b510b37c7d0d7b32]: Textual amendment: Words in Sch. 1 para. 28(2)(d) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(e)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-99aa17a5e0e730db5672068cf1c56765]: Textual amendment: Sch. 1 para. 29A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(f)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-99aa17a5e0e730db5672068cf1c56765]: Textual amendment: Sch. 1 para. 29A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(3)(f)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-e482a642c3ec64c02fa215c947c56b39]: Textual amendment: Sch. 1 para. 32(4)-(5) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-e482a642c3ec64c02fa215c947c56b39]: Textual amendment: Sch. 1 para. 32(4)-(5) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-bbe409db6794f4411002d7a3b61ed52f]: Textual amendment: Words in Sch. 1 para. 34(2) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-bbe409db6794f4411002d7a3b61ed52f]: Textual amendment: Words in Sch. 1 para. 34(2) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-4a7641bc0e6c23f744827c181402453e]: Textual amendment: Sch. 1 para. 34(3) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-4a7641bc0e6c23f744827c181402453e]: Textual amendment: Sch. 1 para. 34(3) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-7abfb5ff8814f33a30c96f1c7ea0c4ea]: Textual amendment: Words in Sch. 1 para. 35(2) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(d)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-7abfb5ff8814f33a30c96f1c7ea0c4ea]: Textual amendment: Words in Sch. 1 para. 35(2) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(d)(i)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-8ba245008b5038645ffe13c5e0e11379]: Textual amendment: Words in Sch. 1 para. 35(2) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-8ba245008b5038645ffe13c5e0e11379]: Textual amendment: Words in Sch. 1 para. 35(2) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/4/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-cbe65def42cdb10245bd29e389dc77d8]: Textual amendment: Sch. 1 para. 36(4) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(5)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-cbe65def42cdb10245bd29e389dc77d8]: Textual amendment: Sch. 1 para. 36(4) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(5)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-469c1edf3207837e9dcbfffba7c5141d]: Textual amendment: Words in [Sch. 1 para. 36(4)](https://www.legislation.gov.uk/uksi/2008/410/schedule/1/paragraph/36/4) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 57(2)(a)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/57/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-469c1edf3207837e9dcbfffba7c5141d]: Textual amendment: Words in [Sch. 1 para. 36(4)](https://www.legislation.gov.uk/uksi/2008/410/schedule/1/paragraph/36/4) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 57(2)(a)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/57/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-08095374fa0e8f498ec107be50eee008]: Textual amendment: Sch. 1 para. 39 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(5)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-08095374fa0e8f498ec107be50eee008]: Textual amendment: Sch. 1 para. 39 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [28(5)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/28/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-17abc4e4cc6652b258c57174534190a0]: Textual amendment: Sch. 1 para. 42 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-17abc4e4cc6652b258c57174534190a0]: Textual amendment: Sch. 1 para. 42 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
 [^M_F_063bcb38-75f4-43ac-cb92-abd8701e0fe9]: Textual amendment: Words in Sch. 1 para. 55 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-79f09d6418c1437e75351717cfba58b7]: Textual amendment: Word in Sch. 1 para. 58(1) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-79f09d6418c1437e75351717cfba58b7]: Textual amendment: Word in Sch. 1 para. 58(1) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-b8f1d0a5ed6f271b8f00b956fb636d1f]: Textual amendment: Words in Sch. 1 para. 59(2) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-b8f1d0a5ed6f271b8f00b956fb636d1f]: Textual amendment: Words in Sch. 1 para. 59(2) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-039c00a886521391a14a23dec4216d79]: Textual amendment: Words in Sch. 1 para. 61(4)(b) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(6)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-039c00a886521391a14a23dec4216d79]: Textual amendment: Words in Sch. 1 para. 61(4)(b) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(6)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-d1eb62129ffc38644b6bd83f6a156cf2]: Textual amendment: Sch. 1 para. 63 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(7)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d1eb62129ffc38644b6bd83f6a156cf2]: Textual amendment: Sch. 1 para. 63 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(7)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-ab659aaffd53b03fc4e75627e6c99370]: Textual amendment: Words in Sch. 1 para. 67(2) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(8)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-ab659aaffd53b03fc4e75627e6c99370]: Textual amendment: Words in Sch. 1 para. 67(2) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(8)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-8751bc02ff433e671112962ba27dbffc]: Textual amendment: Sch. 1 para. 69(2) substituted for Sch. 1 para. 69(2)(3) (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(9)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-8751bc02ff433e671112962ba27dbffc]: Textual amendment: Sch. 1 para. 69(2) substituted for Sch. 1 para. 69(2)(3) (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(9)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-ed7b4af813fcef063ef38b603b36feac]: Textual amendment: Words in Sch. 1 para. 72(1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(10)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-ed7b4af813fcef063ef38b603b36feac]: Textual amendment: Words in Sch. 1 para. 72(1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(10)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-995e0f49804926f23dfddf562de0c9cc]: Textual amendment: Words in [Sch. 1 para. 72(5)](https://www.legislation.gov.uk/uksi/2008/410/schedule/1/paragraph/72/5) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/57/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-995e0f49804926f23dfddf562de0c9cc]: Textual amendment: Words in [Sch. 1 para. 72(5)](https://www.legislation.gov.uk/uksi/2008/410/schedule/1/paragraph/72/5) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/57/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dedcc5f3944377f3e56d4b30229440e2]: Textual amendment: Sch. 1 paras. 72A, 72B inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(11)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-dedcc5f3944377f3e56d4b30229440e2]: Textual amendment: Sch. 1 paras. 72A, 72B inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [29(11)](https://www.legislation.gov.uk/uksi/2015/980/regulation/29/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-d7befd75fb1eb044b28771457aa28163]: Textual amendment: Sch. 1 Pt. 4 para. 73 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/2015/980/regulation/30) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d7befd75fb1eb044b28771457aa28163]: Textual amendment: Sch. 1 Pt. 4 para. 73 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/2015/980/regulation/30) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

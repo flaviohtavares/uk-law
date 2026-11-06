@@ -35,19 +35,19 @@ An Act to make amendments of the Land Registration Act 1925 relating to the conv
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Conversion of title.[^key-4ecb5e0d59ab2f4481396f0093aadfb2]
+## 1. Conversion of title.[^c-4ecb5e0d59ab2f4481396f0093aadfb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Compulsory registration of certain leases.[^key-4ecb5e0d59ab2f4481396f0093aadfb2]
+## 2. Compulsory registration of certain leases.[^c-4ecb5e0d59ab2f4481396f0093aadfb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Inalienable leases: registration to be allowed.[^key-4ecb5e0d59ab2f4481396f0093aadfb2]
+## 3. Inalienable leases: registration to be allowed.[^c-4ecb5e0d59ab2f4481396f0093aadfb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Gratuitous leases and leases granted at a premium.[^key-4ecb5e0d59ab2f4481396f0093aadfb2]
+## 4. Gratuitous leases and leases granted at a premium.[^c-4ecb5e0d59ab2f4481396f0093aadfb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,7 +87,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-4ecb5e0d59ab2f4481396f0093aadfb2]: Textual amendment: [Ss. 1-4](https://www.legislation.gov.uk/ukpga/1986/26/section/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-4ecb5e0d59ab2f4481396f0093aadfb2]: Textual amendment: [Ss. 1-4](https://www.legislation.gov.uk/ukpga/1986/26/section/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c7871161]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 

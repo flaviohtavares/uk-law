@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Safeguarding works to buildings[^key-c5d954bca011594a176791bcc23cb0d2]
+## 14. Safeguarding works to buildings[^c-c5d954bca011594a176791bcc23cb0d2]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ the undertaker shall compensate the owners and occupiers for any damage sustaine
 
 ## Annotations
 
-[^key-c5d954bca011594a176791bcc23cb0d2]: Commencement: Art. 14 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-c5d954bca011594a176791bcc23cb0d2]: Commencement: Art. 14 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00016]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

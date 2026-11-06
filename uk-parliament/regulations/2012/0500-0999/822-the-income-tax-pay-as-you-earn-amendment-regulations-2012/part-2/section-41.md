@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Retention by employer of PAYE records[^key-43f477e8f1dbf53f0680d410f0364403]
+## 41. Retention by employer of PAYE records[^c-43f477e8f1dbf53f0680d410f0364403]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 97(3)(a) (retention by employer of PAYE records), after “46)” 
 
 ## Annotations
 
-[^key-43f477e8f1dbf53f0680d410f0364403]: Commencement: Reg. 41 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-43f477e8f1dbf53f0680d410f0364403]: Commencement: Reg. 41 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

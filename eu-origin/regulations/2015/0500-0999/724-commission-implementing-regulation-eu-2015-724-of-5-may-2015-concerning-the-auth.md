@@ -36,22 +36,22 @@ concerning the authorisation of retinyl acetate, retinyl palmitate and retinyl p
 
 (Text with EEA relevance) (revoked)
 
-[^key-f50fdd606af0f22d374a3ea87d91918a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f50fdd606af0f22d374a3ea87d91918a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-f50fdd606af0f22d374a3ea87d91918a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f50fdd606af0f22d374a3ea87d91918a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f50fdd606af0f22d374a3ea87d91918a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f50fdd606af0f22d374a3ea87d91918a]
+## ANNEX[^c-f50fdd606af0f22d374a3ea87d91918a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f50fdd606af0f22d374a3ea87d91918a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 170](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/170) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-f50fdd606af0f22d374a3ea87d91918a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 170](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/170) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

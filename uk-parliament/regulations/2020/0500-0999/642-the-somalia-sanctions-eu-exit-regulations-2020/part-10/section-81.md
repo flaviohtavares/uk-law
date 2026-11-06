@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Revocations[^key-8f8dc616338b775b1024690fece95bda]
+## 81. Revocations[^c-8f8dc616338b775b1024690fece95bda]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8f8dc616338b775b1024690fece95bda]: Commencement: Reg. 81 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-8f8dc616338b775b1024690fece95bda]: Commencement: Reg. 81 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
 [^c24171791]: Marginal citation: As prospectively amended by [S.I. 2019/380](https://www.legislation.gov.uk/uksi/2019/380).
 

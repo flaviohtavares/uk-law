@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Flexible working[^key-7a09c5381e1dcbe49100b12a188a0ba3]
+## 47. Flexible working[^c-7a09c5381e1dcbe49100b12a188a0ba3]
 
 *Extent: E+W+S*
 
@@ -172,4 +172,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a09c5381e1dcbe49100b12a188a0ba3]: Commencement: S. 47 in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))
+[^c-7a09c5381e1dcbe49100b12a188a0ba3]: Commencement: S. 47 in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))

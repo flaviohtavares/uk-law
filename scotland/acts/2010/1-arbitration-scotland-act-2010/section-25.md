@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Power of judge to act as arbitrator or umpire[^key-8f73e85e9522607a2ad43d7ce1a6733d]
+## 25. Power of judge to act as arbitrator or umpire[^c-8f73e85e9522607a2ad43d7ce1a6733d]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ is to be exercisable instead by the Inner House (and the Inner House's decision 
 
 ## Annotations
 
-[^key-8f73e85e9522607a2ad43d7ce1a6733d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/1/section/25) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-8f73e85e9522607a2ad43d7ce1a6733d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/1/section/25) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

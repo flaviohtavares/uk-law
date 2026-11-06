@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Qualified majority[^key-9b79cc4bd451206eb18e634c9812e7c5]
+## 40. Qualified majority[^c-9b79cc4bd451206eb18e634c9812e7c5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b79cc4bd451206eb18e634c9812e7c5]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2014/8/section/40) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-9b79cc4bd451206eb18e634c9812e7c5]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2014/8/section/40) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

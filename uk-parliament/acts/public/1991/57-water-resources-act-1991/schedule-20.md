@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 20 — Supplemental Provisions with respect to Powers of Entry[^key-a20c789ab30b0a305f068294145a9b87][^key-75a15e78250d0b19601c8fe3f2d02159][^key-2fd669b6f1647c52effd3272961a9f81][^key-e8ecda8a798eff2d9e1c2b8f0aa302b9][^key-d79acc2f866165ab1bad821e073c3bc6][^key-5b2e0c410a063466ef48884dd3bde8f0]
+## SCHEDULE 20 — Supplemental Provisions with respect to Powers of Entry[^c-a20c789ab30b0a305f068294145a9b87][^c-75a15e78250d0b19601c8fe3f2d02159][^c-2fd669b6f1647c52effd3272961a9f81][^c-e8ecda8a798eff2d9e1c2b8f0aa302b9][^c-d79acc2f866165ab1bad821e073c3bc6][^c-5b2e0c410a063466ef48884dd3bde8f0]
 
 *Extent: E+W*
 
@@ -91,8 +91,8 @@ the justice may by warrant authorise the relevant authority to designate a perso
 
 (3) Any dispute as to a person’s entitlement to compensation under this paragraph, or as to the amount of any such compensation, shall be referred to the arbitration of a single arbitrator appointed by agreement between the relevant authority and the person who claims to have sustained the loss or damage or, in default of agreement—
 
-- (a) by the Upper Tribunal[^key-ce0df9f491f0cbbc29078c2a31ed2c33] where the relevant authority is one of the Ministers; and
-- (b) by one of the Ministers, where the Agency or the[^key-ab45031a8685b72f2235f9c23b172d7c] NRBW is the relevant authority.
+- (a) by the Upper Tribunal[^c-ce0df9f491f0cbbc29078c2a31ed2c33] where the relevant authority is one of the Ministers; and
+- (b) by one of the Ministers, where the Agency or the[^c-ab45031a8685b72f2235f9c23b172d7c] NRBW is the relevant authority.
 
 ### Obstruction of person exercising power
 
@@ -105,7 +105,7 @@ the justice may by warrant authorise the relevant authority to designate a perso
 
 **8.** (1) In this Schedule—
 
-- “**relevant authority**”, in relation to a power to which this Schedule applies, means one of the Ministers, the Agency or the[^key-74374748fd8d98ab8d5a03b119bc3023] NRBW, according to who is entitled, by virtue of the provision by which the power is conferred or, as the case may be, the warrant, to designate the person by whom the power may be exercised; and
+- “**relevant authority**”, in relation to a power to which this Schedule applies, means one of the Ministers, the Agency or the[^c-74374748fd8d98ab8d5a03b119bc3023] NRBW, according to who is entitled, by virtue of the provision by which the power is conferred or, as the case may be, the warrant, to designate the person by whom the power may be exercised; and
 - “**sewerage services**” has the same meaning as in the [^c18747501]Water Industry Act 1991.
 
 (2) References in this Schedule to a power to which this Schedule applies are references to any power conferred by Chapter II of Part VI of this Act, including a power exercisable by virtue of a warrant under this Schedule.
@@ -117,28 +117,28 @@ the justice may by warrant authorise the relevant authority to designate a perso
 
 ## Annotations
 
-[^key-a20c789ab30b0a305f068294145a9b87]: Modification: Sch. 20 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 24(3)](https://www.legislation.gov.uk/ukla/2009/1/section/24/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [41(4)](https://www.legislation.gov.uk/ukla/2009/1/section/41/4), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
+[^c-a20c789ab30b0a305f068294145a9b87]: Modification: Sch. 20 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 24(3)](https://www.legislation.gov.uk/ukla/2009/1/section/24/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [41(4)](https://www.legislation.gov.uk/ukla/2009/1/section/41/4), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
 
-[^key-75a15e78250d0b19601c8fe3f2d02159]: Modification: Sch. 20 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 17(3)](https://www.legislation.gov.uk/ukla/2009/1/section/17/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
+[^c-75a15e78250d0b19601c8fe3f2d02159]: Modification: Sch. 20 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 17(3)](https://www.legislation.gov.uk/ukla/2009/1/section/17/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
 
-[^key-2fd669b6f1647c52effd3272961a9f81]: Modification: Sch. 20 applied (with modifications) (E.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (England) Order 2011 (S.I. 2011/2855)](https://www.legislation.gov.uk/uksi/2011/2855), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2011/2855/article/1/c), [6(3)](https://www.legislation.gov.uk/uksi/2011/2855/article/6/3)
+[^c-2fd669b6f1647c52effd3272961a9f81]: Modification: Sch. 20 applied (with modifications) (E.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (England) Order 2011 (S.I. 2011/2855)](https://www.legislation.gov.uk/uksi/2011/2855), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2011/2855/article/1/c), [6(3)](https://www.legislation.gov.uk/uksi/2011/2855/article/6/3)
 
-[^key-e8ecda8a798eff2d9e1c2b8f0aa302b9]: Modification: Sch. 20 applied (with modifications) (W.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (Wales) Order 2011 (S.I. 2011/2829)](https://www.legislation.gov.uk/wsi/2011/2829), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1), [5(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/5/3)
+[^c-e8ecda8a798eff2d9e1c2b8f0aa302b9]: Modification: Sch. 20 applied (with modifications) (W.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (Wales) Order 2011 (S.I. 2011/2829)](https://www.legislation.gov.uk/wsi/2011/2829), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1), [5(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/5/3)
 
-[^key-d79acc2f866165ab1bad821e073c3bc6]: Modification: Sch. 20 applied (with modifications) (W.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (Wales) Order 2011 (S.I. 2011/2829)](https://www.legislation.gov.uk/wsi/2011/2829), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1), [6(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3)
+[^c-d79acc2f866165ab1bad821e073c3bc6]: Modification: Sch. 20 applied (with modifications) (W.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (Wales) Order 2011 (S.I. 2011/2829)](https://www.legislation.gov.uk/wsi/2011/2829), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1), [6(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3)
 
-[^key-5b2e0c410a063466ef48884dd3bde8f0]: Modification: Sch. 20 applied (with modifications) (E.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (England) Order 2011 (S.I. 2011/2855)](https://www.legislation.gov.uk/uksi/2011/2855), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2011/2855/article/1/c), [5(3)](https://www.legislation.gov.uk/uksi/2011/2855/article/5/3)
+[^c-5b2e0c410a063466ef48884dd3bde8f0]: Modification: Sch. 20 applied (with modifications) (E.) (1.12.2011) by [The Incidental Flooding and Coastal Erosion (England) Order 2011 (S.I. 2011/2855)](https://www.legislation.gov.uk/uksi/2011/2855), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2011/2855/article/1/c), [5(3)](https://www.legislation.gov.uk/uksi/2011/2855/article/5/3)
 
 [^c18747441]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
 [^c18747451]: Marginal citation: [1950 c. 39](https://www.legislation.gov.uk/ukpga/1950/39).
 
-[^key-ce0df9f491f0cbbc29078c2a31ed2c33]: Textual amendment: Words in Sch. 20 para. 6(3)(a) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 234](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/234) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-ce0df9f491f0cbbc29078c2a31ed2c33]: Textual amendment: Words in Sch. 20 para. 6(3)(a) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 234](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/234) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-ab45031a8685b72f2235f9c23b172d7c]: Textual amendment: Words in Sch. 20 para. 6(3)(b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 312(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/312/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ab45031a8685b72f2235f9c23b172d7c]: Textual amendment: Words in Sch. 20 para. 6(3)(b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 312(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/312/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18747471]: Textual amendment: Sch. 20 para. 7(a)(b) and word substituted (1.4.1996) for words by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 188](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/188) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-74374748fd8d98ab8d5a03b119bc3023]: Textual amendment: Words in [Sch. 20 para. 8(1)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/20/paragraph/8/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 312(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/312/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-74374748fd8d98ab8d5a03b119bc3023]: Textual amendment: Words in [Sch. 20 para. 8(1)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/20/paragraph/8/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 312(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/312/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18747501]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).

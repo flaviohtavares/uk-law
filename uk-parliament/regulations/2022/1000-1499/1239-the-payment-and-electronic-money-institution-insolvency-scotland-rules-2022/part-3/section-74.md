@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Termination of membership[^key-daf256c920e1bb4802f328c855fa1d23]
+## 74. Termination of membership[^c-daf256c920e1bb4802f328c855fa1d23]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ but the administrator may require that person to resign if the administrator thi
 
 ## Annotations
 
-[^key-daf256c920e1bb4802f328c855fa1d23]: Commencement: Rule 74 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-daf256c920e1bb4802f328c855fa1d23]: Commencement: Rule 74 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

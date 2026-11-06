@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Enforcement undertakings[^key-97f585aa06b96b34ee8c3cabe6ff6e2a][^key-ac280822211cacc759f3c86af925546e]
+## 284. Enforcement undertakings[^c-97f585aa06b96b34ee8c3cabe6ff6e2a][^c-ac280822211cacc759f3c86af925546e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-97f585aa06b96b34ee8c3cabe6ff6e2a]: Commencement: S. 284 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-97f585aa06b96b34ee8c3cabe6ff6e2a]: Commencement: S. 284 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-ac280822211cacc759f3c86af925546e]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2023/52/section/284) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vii)
+[^c-ac280822211cacc759f3c86af925546e]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2023/52/section/284) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vii)

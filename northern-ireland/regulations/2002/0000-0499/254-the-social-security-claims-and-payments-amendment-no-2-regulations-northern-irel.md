@@ -37,9 +37,9 @@ Made
 
 Coming into operation in accordance with regulation 1(1) and (2)
 
-The Department for Social Development, in exercise of the powers conferred by Article 40(2) of the Child Support (Northern Ireland) Order 1991[^f00001] and sections 5(1)(m) and (q) and 165(1), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-a430cabf557067b1434291b567ac72d4]
+The Department for Social Development, in exercise of the powers conferred by Article 40(2) of the Child Support (Northern Ireland) Order 1991[^f00001] and sections 5(1)(m) and (q) and 165(1), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-a430cabf557067b1434291b567ac72d4]
 
-## 1. Citation, commencement and interpretation[^key-aa7e0a764aee041bec404249a5007cad]
+## 1. Citation, commencement and interpretation[^c-aa7e0a764aee041bec404249a5007cad]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2002 and, subject to paragraph (2), shall come into operation on 2nd September 2002.
 
@@ -47,11 +47,11 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-19ade038facf4a39d95b0a0097bc1cb4][^key-2e833009225d888627d8b3a422fc4241]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-19ade038facf4a39d95b0a0097bc1cb4][^c-2e833009225d888627d8b3a422fc4241]
 
-(1)[^key-19ade038facf4a39d95b0a0097bc1cb4] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) and (3).
+(1)[^c-19ade038facf4a39d95b0a0097bc1cb4] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-19ade038facf4a39d95b0a0097bc1cb4] Regulation 28 (fractional amounts of benefit) shall be renumbered paragraph (1) of regulation 28 and –
+(2)[^c-19ade038facf4a39d95b0a0097bc1cb4] Regulation 28 (fractional amounts of benefit) shall be renumbered paragraph (1) of regulation 28 and –
 
 - (a) at the beginning of that paragraph there shall be inserted “Subject to paragraph (2),”;
 - (b) in that paragraph for “regulation” there shall be substituted “paragraph”; and
@@ -61,7 +61,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
   .
 
-(3)[^key-2e833009225d888627d8b3a422fc4241] In Schedule 8C[^f00007] (deductions from benefit in respect of child support maintenance and payment to persons with care) –
+(3)[^c-2e833009225d888627d8b3a422fc4241] In Schedule 8C[^f00007] (deductions from benefit in respect of child support maintenance and payment to persons with care) –
 
 - (a) in paragraph 1 in the definition of “maintenance” before “means” there shall be inserted “, except in paragraph 3,”; and
 - (b) in paragraph 3, after sub-paragraph (2) there shall be added the following sub-paragraph –
@@ -106,17 +106,17 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-a430cabf557067b1434291b567ac72d4]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2002/254) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-a430cabf557067b1434291b567ac72d4]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2002/254) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-aa7e0a764aee041bec404249a5007cad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/254/regulation/1) in operation at 2.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/254/regulation/1/1)
+[^c-aa7e0a764aee041bec404249a5007cad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/254/regulation/1) in operation at 2.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/254/regulation/1/1)
 
 [^f00004]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-19ade038facf4a39d95b0a0097bc1cb4]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2002/254/regulation/2/1)[(2)](https://www.legislation.gov.uk/nisr/2002/254/regulation/2/2) in operation at 2.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/254/regulation/1/1)
+[^c-19ade038facf4a39d95b0a0097bc1cb4]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2002/254/regulation/2/1)[(2)](https://www.legislation.gov.uk/nisr/2002/254/regulation/2/2) in operation at 2.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/254/regulation/1/1)
 
-[^key-2e833009225d888627d8b3a422fc4241]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2002/254/regulation/2/3) in operation at 2.9.2002 coming into force in accordance with , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/254/regulation/1/2)
+[^c-2e833009225d888627d8b3a422fc4241]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2002/254/regulation/2/3) in operation at 2.9.2002 coming into force in accordance with , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/254/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 2001 No. 22](https://www.legislation.gov.uk/nisr/2001/22)
 

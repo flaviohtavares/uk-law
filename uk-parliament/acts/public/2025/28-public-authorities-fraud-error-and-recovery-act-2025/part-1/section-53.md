@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Amount of penalty relating to fraud[^key-461e1297584beecf7358c0d95ca3b11b][^key-f206c5aee263c88ee5b19b93e9e693f3]
+## 53. Amount of penalty relating to fraud[^c-461e1297584beecf7358c0d95ca3b11b][^c-f206c5aee263c88ee5b19b93e9e693f3]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ as a result of the fraud in question.
 
 ## Annotations
 
-[^key-461e1297584beecf7358c0d95ca3b11b]: Commencement: S. 53 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-461e1297584beecf7358c0d95ca3b11b]: Commencement: S. 53 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-f206c5aee263c88ee5b19b93e9e693f3]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2025/28/section/53) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-f206c5aee263c88ee5b19b93e9e693f3]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2025/28/section/53) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

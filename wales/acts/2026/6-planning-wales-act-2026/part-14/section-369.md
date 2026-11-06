@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 369. Power of person holding inquiry to require evidence[^key-7a3025835300a8b7cf9133eea573f095][^key-3e622851769e3492126e42c54ab95bda][^key-4b14fa341a6dcf4993e46620fb7e7fe6][^key-01c79c7871b22d182e981af7f6ee2732]
+## 369. Power of person holding inquiry to require evidence[^c-7a3025835300a8b7cf9133eea573f095][^c-3e622851769e3492126e42c54ab95bda][^c-4b14fa341a6dcf4993e46620fb7e7fe6][^c-01c79c7871b22d182e981af7f6ee2732]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7a3025835300a8b7cf9133eea573f095]: Commencement: S. 369 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7a3025835300a8b7cf9133eea573f095]: Commencement: S. 369 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-3e622851769e3492126e42c54ab95bda]: Modification: [S. 369](https://www.legislation.gov.uk/asc/2026/6/section/369) applied (28.4.2026) by [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), [s. 28L(13A)](https://www.legislation.gov.uk/ukpga/1981/69/section/28L/13A) (as inserted by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 2 para. 180(c)](https://www.legislation.gov.uk/asc/2026/7/schedule/2/paragraph/180/c) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1)))
+[^c-3e622851769e3492126e42c54ab95bda]: Modification: [S. 369](https://www.legislation.gov.uk/asc/2026/6/section/369) applied (28.4.2026) by [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), [s. 28L(13A)](https://www.legislation.gov.uk/ukpga/1981/69/section/28L/13A) (as inserted by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 2 para. 180(c)](https://www.legislation.gov.uk/asc/2026/7/schedule/2/paragraph/180/c) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1)))
 
-[^key-4b14fa341a6dcf4993e46620fb7e7fe6]: Modification: [S. 369](https://www.legislation.gov.uk/asc/2026/6/section/369) applied (28.4.2026) by [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), [Sch. 15 para. 10A(3A)](https://www.legislation.gov.uk/ukpga/1981/69/schedule/15/paragraph/10A/3A) (as inserted by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 2 para. 187(a)](https://www.legislation.gov.uk/asc/2026/7/schedule/2/paragraph/187/a) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1)))
+[^c-4b14fa341a6dcf4993e46620fb7e7fe6]: Modification: [S. 369](https://www.legislation.gov.uk/asc/2026/6/section/369) applied (28.4.2026) by [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), [Sch. 15 para. 10A(3A)](https://www.legislation.gov.uk/ukpga/1981/69/schedule/15/paragraph/10A/3A) (as inserted by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 2 para. 187(a)](https://www.legislation.gov.uk/asc/2026/7/schedule/2/paragraph/187/a) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1)))
 
-[^key-01c79c7871b22d182e981af7f6ee2732]: Modification: [S. 369](https://www.legislation.gov.uk/asc/2026/6/section/369) applied (28.4.2026) by [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), [s. 28F(11A)](https://www.legislation.gov.uk/ukpga/1981/69/section/28F/11A) (as inserted by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 2 para. 178(c)](https://www.legislation.gov.uk/asc/2026/7/schedule/2/paragraph/178/c) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1)))
+[^c-01c79c7871b22d182e981af7f6ee2732]: Modification: [S. 369](https://www.legislation.gov.uk/asc/2026/6/section/369) applied (28.4.2026) by [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), [s. 28F(11A)](https://www.legislation.gov.uk/ukpga/1981/69/section/28F/11A) (as inserted by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 2 para. 178(c)](https://www.legislation.gov.uk/asc/2026/7/schedule/2/paragraph/178/c) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1)))

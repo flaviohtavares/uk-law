@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162A. Duty of CMA to monitor effectiveness of undertakings and orders: Part 4[^key-e4cdfb13e516a7b9c9a848ab3e104666]
+## 162A. Duty of CMA to monitor effectiveness of undertakings and orders: Part 4[^c-e4cdfb13e516a7b9c9a848ab3e104666]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4cdfb13e516a7b9c9a848ab3e104666]: Textual amendment: [S. 162A](https://www.legislation.gov.uk/ukpga/2002/40/section/162A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 139(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/139/4), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/11), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-e4cdfb13e516a7b9c9a848ab3e104666]: Textual amendment: [S. 162A](https://www.legislation.gov.uk/ukpga/2002/40/section/162A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 139(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/139/4), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/11), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

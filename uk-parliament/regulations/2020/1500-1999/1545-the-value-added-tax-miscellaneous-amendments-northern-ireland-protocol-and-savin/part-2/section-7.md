@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-89bdaeac2682de9dd6c042234188f6a3]
+## 7.[^c-89bdaeac2682de9dd6c042234188f6a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In article 5, for “paragraph 5A of Schedule 2” substitute “ paragraph 30(1
 
 ## Annotations
 
-[^key-89bdaeac2682de9dd6c042234188f6a3]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-89bdaeac2682de9dd6c042234188f6a3]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

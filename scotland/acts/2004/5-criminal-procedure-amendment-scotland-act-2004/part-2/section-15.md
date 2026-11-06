@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Alteration of diets[^key-6718d7a9b37056c9de7af2a8ba834f0a]
+## 15. Alteration of diets[^c-6718d7a9b37056c9de7af2a8ba834f0a]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ After section 75 of the 1995 Act insert—
 
 ## Annotations
 
-[^key-6718d7a9b37056c9de7af2a8ba834f0a]: Commencement: S. 15 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-6718d7a9b37056c9de7af2a8ba834f0a]: Commencement: S. 15 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

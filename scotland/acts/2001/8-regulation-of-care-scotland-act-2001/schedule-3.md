@@ -51,7 +51,7 @@ In section 59 of the Sewerage (Scotland) Act 1968 (interpretation)—
 
 (1) The Social Work (Scotland) Act 1968 is amended as follows.
 
-(2)[^key-9d8339d4861c30e789d77851f896f9c1] In section 10(3A) (construction of the expression “voluntary organisation the sole or primary object of which is to promote social welfare"), for the words “an adoption society approved under Part I of the Adoption (Scotland) Act 1978" there is substituted “ a person providing, as mentioned in section 2(11)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8), an adoption service registered under Part 1 of that Act ”.
+(2)[^c-9d8339d4861c30e789d77851f896f9c1] In section 10(3A) (construction of the expression “voluntary organisation the sole or primary object of which is to promote social welfare"), for the words “an adoption society approved under Part I of the Adoption (Scotland) Act 1978" there is substituted “ a person providing, as mentioned in section 2(11)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8), an adoption service registered under Part 1 of that Act ”.
 
 (3) In section 13A, for subsection (2) there is substituted—
 
@@ -79,7 +79,7 @@ In section 10 of the Medicines Act 1968 (exemptions for pharmacists)—
 
 In section 13(8)(a) of the Employment Agencies Act 1973 (application of Act to Scotland), for the words from “any agency" to “1951" there is substituted “ a nurse agency as defined in section 2(6) of the Regulation of Care (Scotland) Act 2001 (asp 8) ”.
 
-### 7. Adoption (Scotland) Act 1978 (c.28)[^key-d17d55a6a27ce15e77d4a84714e2e144]
+### 7. Adoption (Scotland) Act 1978 (c.28)[^c-d17d55a6a27ce15e77d4a84714e2e144]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -127,17 +127,17 @@ In section 4(9) of the Anatomy Act 1984 (lawful examination of bodies after deat
 
 (1) The Mental Health (Scotland) Act 1984 is amended as follows.
 
-(2)[^key-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-65a3c36e7a4a0559740bd5d31d50e4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 126 (preservation of amendments), subsection (1)(a) is repealed.
 
@@ -171,8 +171,8 @@ In section 155A(6) of the Income and Corporation Taxes Act 1988 (care for childr
 - (a) in paragraph (a), the words “section 1 of the Nurseries and Child-Minders Regulation Act 1948 or" are repealed;
 - (b) the word “or" immediately following that paragraph is repealed;
 - (c) in paragraph (b), the words “section 71 or" are repealed;
-- (d)[^key-f926c122a3f48d5031245aff4f9bf0c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-f926c122a3f48d5031245aff4f9bf0c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-f926c122a3f48d5031245aff4f9bf0c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-f926c122a3f48d5031245aff4f9bf0c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Children Act 1989 (c.41)[^c1230051]
 
@@ -253,7 +253,7 @@ In paragraph 8 of Schedule 1 to the Local Government Finance Act 1992 (persons d
 
 In section 307(1) of the Criminal Procedure (Scotland) Act 1995 (interpretation), in the definition of “hospital", in paragraph (b), for the words “registered under Part IV" there is substituted “ as defined in section 12(2) ”.
 
-### 21. Police Act 1997 (c.50)[^key-ba7665ed6de60040abf6e142d9da38fa]
+### 21. Police Act 1997 (c.50)[^c-ba7665ed6de60040abf6e142d9da38fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -340,7 +340,7 @@ In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authoritie
 
 **24.**[^c1230063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Sexual Offences (Amendment) Act 2000 (c.44)[^key-2dc98efce6496b099033c054c9f5de7c]
+### 25. Sexual Offences (Amendment) Act 2000 (c.44)[^c-2dc98efce6496b099033c054c9f5de7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -354,13 +354,13 @@ In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authoritie
 
 [^c1230039]: Commencement: Sch. 3 para. 4 partly in force; Sch. 3 para. 4 not in force at Royal Assent see s. 81(2)-(4); Sch. 3 para. 4(1)(3) in force at 1.4.2002 by [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-9d8339d4861c30e789d77851f896f9c1]: Commencement: Sch. 3 para. 4(2) in force at 1.4.2004 by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
+[^c-9d8339d4861c30e789d77851f896f9c1]: Commencement: Sch. 3 para. 4(2) in force at 1.4.2004 by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
 
 [^c1230040]: Commencement: Sch. 3 para. 5 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
 [^c1230041]: Commencement: Sch. 3 para. 6 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-d17d55a6a27ce15e77d4a84714e2e144]: Textual amendment: Sch. 3 para. 7 repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-d17d55a6a27ce15e77d4a84714e2e144]: Textual amendment: Sch. 3 para. 7 repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
 [^c1230044]: Commencement: Sch. 3 para. 8 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
@@ -370,7 +370,7 @@ In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authoritie
 
 [^c1230047]: Commencement: Sch. 3 para. 11 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-65a3c36e7a4a0559740bd5d31d50e4f5]: Textual amendment: Sch. 3 para. 11(2)-(7) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-65a3c36e7a4a0559740bd5d31d50e4f5]: Textual amendment: Sch. 3 para. 11(2)-(7) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c1230048]: Commencement: Sch. 3 para. 12 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
@@ -378,7 +378,7 @@ In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authoritie
 
 [^c1230050]: Commencement: Sch. 3 para. 14 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-f926c122a3f48d5031245aff4f9bf0c9]: Textual amendment: Sch. 3 para. 14(d)(e) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f926c122a3f48d5031245aff4f9bf0c9]: Textual amendment: Sch. 3 para. 14(d)(e) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c1230051]: Commencement: Sch. 3 para. 15 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
@@ -390,7 +390,7 @@ In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authoritie
 
 [^c1230058]: Commencement: Sch. 3 para. 19 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-ba7665ed6de60040abf6e142d9da38fa]: Textual amendment: Sch. 3 para. 21 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/d)
+[^c-ba7665ed6de60040abf6e142d9da38fa]: Textual amendment: Sch. 3 para. 21 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/d)
 
 [^M_I_7b557093-0c4c-446e-deeb-978b41603f95]: Commencement: Sch. 3 para. 22(b)(c) in force at 1.4.2004 by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(e)](https://www.legislation.gov.uk/ssi/2004/100/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
 
@@ -398,4 +398,4 @@ In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authoritie
 
 [^c1230063]: Textual amendment: Sch. 3 para. 24 repealed (3.8.2001) by [S.I. 2001/2478](https://www.legislation.gov.uk/uksi/2001/2478), [art. 2](https://www.legislation.gov.uk/uksi/2001/2478/article/2)
 
-[^key-2dc98efce6496b099033c054c9f5de7c]: Textual amendment: Sch. 3 para. 25 repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+[^c-2dc98efce6496b099033c054c9f5de7c]: Textual amendment: Sch. 3 para. 25 repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)

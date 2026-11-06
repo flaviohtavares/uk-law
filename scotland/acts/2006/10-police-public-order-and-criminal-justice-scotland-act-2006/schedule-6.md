@@ -26,7 +26,7 @@ summary: ''
 
 #### The Police (Scotland) Act 1967 (c. 77)
 
-**1.**[^key-641a634a37e3c219bd40c331eb77eb77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-641a634a37e3c219bd40c331eb77eb77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Criminal Justice Act 1988 (c. 33)
 
@@ -77,9 +77,9 @@ summary: ''
 
 .
 
-(3)[^key-7c868863bc33c6e64ea2a30bb9b15116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7c868863bc33c6e64ea2a30bb9b15116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7c868863bc33c6e64ea2a30bb9b15116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7c868863bc33c6e64ea2a30bb9b15116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 63 (Police Advisory Boards for England and Wales and for Scotland), after subsection (1) there is inserted—
 
@@ -149,7 +149,7 @@ summary: ''
 
 #### The Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
 
-**7.**[^key-381669437368d53434d59053c149585d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-381669437368d53434d59053c149585d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Regulation of Investigatory Powers Act 2000 (c. 23)
 
@@ -291,11 +291,11 @@ summary: ''
 
 #### The Freedom of Information (Scotland) Act 2002 (asp 13)
 
-**11.**[^key-ec418fd5b84535b126280b9eb3f62776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ec418fd5b84535b126280b9eb3f62776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
 
-**12.**[^key-32ad9272d20d199b5d1f2fea62774136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-32ad9272d20d199b5d1f2fea62774136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Serious Organised Crime and Police Act 2005 (c. 15)
 
@@ -388,7 +388,7 @@ summary: ''
 
 ## Annotations
 
-[^key-641a634a37e3c219bd40c331eb77eb77]: Textual amendment: Sch. 6 para. 1 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
+[^c-641a634a37e3c219bd40c331eb77eb77]: Textual amendment: Sch. 6 para. 1 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
 
 [^c21043231]: Commencement: Sch. 6 para. 5 wholly in force at 1.4.2007; Sch. 6 para. 5 not in force at Royal Assent see s. 104; Sch. 6 para. 5(4)(5) in force at 1.1.2007 by [S.S.I. 2006/607](https://www.legislation.gov.uk/ssi/2006/607), [art. 3](https://www.legislation.gov.uk/ssi/2006/607/article/3), [Sch](https://www.legislation.gov.uk/ssi/2006/607/schedule); Sch. 6 para. 5 in force at 1.4.2007 insofar as not already in force by [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3)
 
@@ -396,10 +396,10 @@ summary: ''
 
 [^c21043401]: Textual amendment: Words in Sch. 6 para. 5(2) (in the inserted s. 60[A of the Police Act 1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16)) substituted (31.3.2007) by [The Police, Public Order and Criminal Justice (Scotland) Act 2006 (Modification of Agency's Powers and Incidental Provision) Order 2007 (S.S.I. 2007/260)](https://www.legislation.gov.uk/ssi/2007/260), [art. 2(3)(b)](https://www.legislation.gov.uk/ssi/2007/260/article/2/3/b)
 
-[^key-7c868863bc33c6e64ea2a30bb9b15116]: Textual amendment: [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/5/3)[(4)](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/5/4) repealed (17.8.2023) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/vi)
+[^c-7c868863bc33c6e64ea2a30bb9b15116]: Textual amendment: [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/5/3)[(4)](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/5/4) repealed (17.8.2023) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/vi)
 
-[^key-381669437368d53434d59053c149585d]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-381669437368d53434d59053c149585d]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-ec418fd5b84535b126280b9eb3f62776]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/11) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-ec418fd5b84535b126280b9eb3f62776]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/11) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-32ad9272d20d199b5d1f2fea62774136]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/12) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-32ad9272d20d199b5d1f2fea62774136]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/asp/2006/10/schedule/6/paragraph/12) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

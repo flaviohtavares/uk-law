@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Meaning of “local police area”[^key-55cd979923e9275052dbc63c6a93b459]
+## 51. Meaning of “local police area”[^c-55cd979923e9275052dbc63c6a93b459]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (3) This section and section 50(2) apply in relation to Northern Ireland as if Northern Ireland were a police area.
 
-(4)[^key-707cfa9ec71651ff5bcc75e0282a7a8f] This section and section 50(2) apply in relation to Scotland as if Scotland were a police area.
+(4)[^c-707cfa9ec71651ff5bcc75e0282a7a8f] This section and section 50(2) apply in relation to Scotland as if Scotland were a police area.
 
 ## Annotations
 
-[^key-55cd979923e9275052dbc63c6a93b459]: Commencement: S. 51 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-55cd979923e9275052dbc63c6a93b459]: Commencement: S. 51 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
 
-[^key-707cfa9ec71651ff5bcc75e0282a7a8f]: Textual amendment: S. 51(4) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/4)
+[^c-707cfa9ec71651ff5bcc75e0282a7a8f]: Textual amendment: S. 51(4) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/4)

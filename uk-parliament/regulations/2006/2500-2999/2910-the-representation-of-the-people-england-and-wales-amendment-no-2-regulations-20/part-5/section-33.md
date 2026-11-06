@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Signatures[^key-3a4eaf11702225362013a623e9f4b4e9]
+## 33. Signatures[^c-3a4eaf11702225362013a623e9f4b4e9]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ For regulation 51A[^f00052] substitute—
 
 ## Annotations
 
-[^key-3a4eaf11702225362013a623e9f4b4e9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2006/2910/regulation/33) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-3a4eaf11702225362013a623e9f4b4e9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2006/2910/regulation/33) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00052]: Footnote: Regulation 51A was inserted by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Refusal to grant private hire car licences on grounds of overprovision[^key-134f17ada027337a49cd7108410c0468]
+## 63. Refusal to grant private hire car licences on grounds of overprovision[^c-134f17ada027337a49cd7108410c0468]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 10 of the Civic Government (Scotland) Act 1982 (â€œ**the 1982 Act**â€
 
 ## Annotations
 
-[^key-134f17ada027337a49cd7108410c0468]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2015/10/section/63) in force at 1.5.2017 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-134f17ada027337a49cd7108410c0468]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2015/10/section/63) in force at 1.5.2017 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

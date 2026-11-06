@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 44. Baggage tag(Article 49 of the Code)[^key-139ab0d0f9bdc281877c0883e7d981a4]
+## Article 44. Baggage tag(Article 49 of the Code)[^c-139ab0d0f9bdc281877c0883e7d981a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139ab0d0f9bdc281877c0883e7d981a4]: Textual amendment: [Arts. 37-47](https://www.legislation.gov.uk/eur/2015/2447/article/37) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-139ab0d0f9bdc281877c0883e7d981a4]: Textual amendment: [Arts. 37-47](https://www.legislation.gov.uk/eur/2015/2447/article/37) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

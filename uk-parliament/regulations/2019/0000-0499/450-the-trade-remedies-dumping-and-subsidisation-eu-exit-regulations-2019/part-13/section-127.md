@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127.[^key-00486c5d55ddbe4c3b550540fbc1797a]
+## 127.[^c-00486c5d55ddbe4c3b550540fbc1797a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 82 (undertakings ceasing to apply) has effect as if, in paragraph (1)
 
 ## Annotations
 
-[^key-00486c5d55ddbe4c3b550540fbc1797a]: Commencement: Reg. 127 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-00486c5d55ddbe4c3b550540fbc1797a]: Commencement: Reg. 127 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

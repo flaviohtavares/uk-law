@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 245. Replacement of trees: tree preservation orders[^key-e9f2c43bc882d1d81baf8b21e489be6e]
+## 245. Replacement of trees: tree preservation orders[^c-e9f2c43bc882d1d81baf8b21e489be6e]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9f2c43bc882d1d81baf8b21e489be6e]: Commencement: S. 245 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e9f2c43bc882d1d81baf8b21e489be6e]: Commencement: S. 245 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

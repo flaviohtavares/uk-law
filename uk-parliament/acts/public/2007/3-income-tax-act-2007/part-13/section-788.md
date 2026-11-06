@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 788. Power to obtain information[^key-bae12fa63fc3ae3b5755c336f2fa3eb0]
+## 788. Power to obtain information[^c-bae12fa63fc3ae3b5755c336f2fa3eb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bae12fa63fc3ae3b5755c336f2fa3eb0]: Textual amendment: S. 788 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/50)
+[^c-bae12fa63fc3ae3b5755c336f2fa3eb0]: Textual amendment: S. 788 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/50)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18B. Conciliation before institution of proceedings: other ACAS duties[^key-3ebb6614875418ecdf1d7ddade71235b]
+## 18B. Conciliation before institution of proceedings: other ACAS duties[^c-3ebb6614875418ecdf1d7ddade71235b]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ the duty in subsection (3) ceases to apply at that time.
 
 ## Annotations
 
-[^key-3ebb6614875418ecdf1d7ddade71235b]: Textual amendment: Ss. 18A, 18B inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/253, art. 3(a)(b) (with arts. 4, 5)
+[^c-3ebb6614875418ecdf1d7ddade71235b]: Textual amendment: Ss. 18A, 18B inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/253, art. 3(a)(b) (with arts. 4, 5)

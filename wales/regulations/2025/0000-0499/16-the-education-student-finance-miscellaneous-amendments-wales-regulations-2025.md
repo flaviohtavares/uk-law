@@ -53,7 +53,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Title, coming into force and application
 
-### 1. Title and coming into force[^key-5212157bf986cd35962fed27e7568cf6]
+### 1. Title and coming into force[^c-5212157bf986cd35962fed27e7568cf6]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025.
 
@@ -61,7 +61,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) Regulations 9, 19, 20, 33 and 48 (amendments relating to non-domiciled status) come into force on 6 April 2025.
 
-### 2. Application[^key-329ebea221b93391d7adbd3468096e36]
+### 2. Application[^c-329ebea221b93391d7adbd3468096e36]
 
 (1) The following regulations apply in relation to the provision of support, and to fees and awards applicable, in relation to an academic year which begins on or after 1 August 2025, whether or not anything done under these Regulations is done before, on or after that date—
 
@@ -74,11 +74,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**3.**[^key-55a0edce5253d0d011908a717bb5037d] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
+**3.**[^c-55a0edce5253d0d011908a717bb5037d] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendment relating to Ukraine schemes
 
-**4.**[^key-c0bceef2b5a1f309e828de1f7ecb036e] In the Schedule, in paragraph 1, in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
+**4.**[^c-c0bceef2b5a1f309e828de1f7ecb036e] In the Schedule, in paragraph 1, in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
 
 > - (a) under Appendix Ukraine Scheme of the immigration rules, by virtue of any of the following schemes—
 >   - (i) the Ukraine Family Scheme[^f00006];
@@ -90,7 +90,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — British citizens of Chagossian descent
 
-**5.**[^key-ce705b13f5292149d11486bcad71b08c] In the Schedule, in paragraph 9C—
+**5.**[^c-ce705b13f5292149d11486bcad71b08c] In the Schedule, in paragraph 9C—
 
 - (a) in sub-paragraph (1)—
   - (i) at the beginning insert “Subject to sub-paragraphs (3) and (4), ”;
@@ -112,14 +112,14 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Students settled in the United Kingdom during the academic year
 
-**6.**[^key-845f6ef81e69107a10f1b3d6058071aa] In the Schedule—
+**6.**[^c-845f6ef81e69107a10f1b3d6058071aa] In the Schedule—
 
 - (a) in paragraph 2(1), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 2(1)(b), at the end insert “on the first day of the first academic year of the course”;
 - (c) in paragraph 2A(1)(a), omit “on the day on which the first term of the first academic year actually begins”;
 - (d) in paragraph 9C(1)(a)(i), omit “on the first day of the first academic year of the course”.
 
-## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-74ff3e28d0a5865d00ac523a50aefe5d]
+## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-74ff3e28d0a5865d00ac523a50aefe5d]
 
 **No longer in force.**
 
@@ -139,11 +139,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**10.**[^key-5f644fe8f01d5f5e641b5de3755b9ad3] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00015] are amended in accordance with this Part.
+**10.**[^c-5f644fe8f01d5f5e641b5de3755b9ad3] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00015] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendment relating to Ukraine schemes
 
-**11.**[^key-9e29be50c539aa753c30c88d04a54f4f] In the Schedule, in paragraph 1(1), in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
+**11.**[^c-9e29be50c539aa753c30c88d04a54f4f] In the Schedule, in paragraph 1(1), in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
 
 > - (a) under Appendix Ukraine Scheme of the immigration rules, by virtue of any of the following schemes—
 >   - (i) the Ukraine Family Scheme[^f00016];
@@ -155,7 +155,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — British citizens of Chagossian descent
 
-**12.**[^key-399e3c508a6efe8c4a01808c8aec3abd] In the Schedule, in paragraph 9C—
+**12.**[^c-399e3c508a6efe8c4a01808c8aec3abd] In the Schedule, in paragraph 9C—
 
 - (a) in sub-paragraph (1)—
   - (i) at the beginning insert “Subject to sub-paragraphs (3) and (4), ”;
@@ -177,7 +177,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Students settled in the United Kingdom during the academic year
 
-**13.**[^key-8764a0bc8f4ce3ceda9c154b98b46143] In the Schedule—
+**13.**[^c-8764a0bc8f4ce3ceda9c154b98b46143] In the Schedule—
 
 - (a) in paragraph 2(1), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 2(1)(b), at the end insert “on the first day of the first academic year of the course”;
@@ -188,11 +188,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**14.**[^key-2728113c0ba35e73b90788877d362ed7] The Education (Student Support) (Wales) Regulations 2017[^f00020] are amended in accordance with this Part.
+**14.**[^c-2728113c0ba35e73b90788877d362ed7] The Education (Student Support) (Wales) Regulations 2017[^f00020] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendment relating to Ukraine schemes
 
-**15.**[^key-ed0a404a750091a108905b80b6e156de] In regulation 2(1), in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
+**15.**[^c-ed0a404a750091a108905b80b6e156de] In regulation 2(1), in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
 
 > - (a) under Appendix Ukraine Scheme of the immigration rules, by virtue of any of the following schemes—
 >   - (i) the Ukraine Family Scheme[^f00021];
@@ -204,11 +204,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Students settled in the United Kingdom during the academic year
 
-**16.**[^key-b176576f9a45335ce77094a5550c2a2e] In each of regulations 15(e) and 82(4)(f), and paragraph 6(d) of Schedule 4, for “paragraph 3(1)(a)” substitute “paragraph 2(1)(a), 2A(1)(a) or 3(1)(a)”.
+**16.**[^c-b176576f9a45335ce77094a5550c2a2e] In each of regulations 15(e) and 82(4)(f), and paragraph 6(d) of Schedule 4, for “paragraph 3(1)(a)” substitute “paragraph 2(1)(a), 2A(1)(a) or 3(1)(a)”.
 
-**17.**[^key-1b268b6762c77674f27b304be1e60ce1] In each of regulations 23(12)(d), 49(2)(d) and 111(2)(d), for “paragraph 3(1)(a)” substitute “paragraph 2(1)(a) or 3(1)(a)”.
+**17.**[^c-1b268b6762c77674f27b304be1e60ce1] In each of regulations 23(12)(d), 49(2)(d) and 111(2)(d), for “paragraph 3(1)(a)” substitute “paragraph 2(1)(a) or 3(1)(a)”.
 
-**18.**[^key-2c71abf7da8e144bed776381271ce64f] In Schedule 1 (eligible students)—
+**18.**[^c-2c71abf7da8e144bed776381271ce64f] In Schedule 1 (eligible students)—
 
 - (a) in paragraph 2(1), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 2(1)(b), at the end insert “on the first day of the first academic year of the course”;
@@ -216,23 +216,23 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Amendments relating to non-domiciled status
 
-**19.**[^key-4d92565b29f579965af010fead144f8e] In Schedule 5 (financial assessment), in paragraph 5(6)(a), omit “or domiciled” in the first place it occurs.
+**19.**[^c-4d92565b29f579965af010fead144f8e] In Schedule 5 (financial assessment), in paragraph 5(6)(a), omit “or domiciled” in the first place it occurs.
 
-**20.**[^key-afef217086d354bb6301798ec294a25c] In Schedule 6 (financial assessment – part-time grants for dependants), in paragraph 4(6)(a), for “A is not resident, ordinarily resident or domiciled in the United Kingdom” substitute “A is not resident or ordinarily resident in the United Kingdom”.
+**20.**[^c-afef217086d354bb6301798ec294a25c] In Schedule 6 (financial assessment – part-time grants for dependants), in paragraph 4(6)(a), for “A is not resident, ordinarily resident or domiciled in the United Kingdom” substitute “A is not resident or ordinarily resident in the United Kingdom”.
 
 ### CHAPTER 5 — Corrections
 
-**21.**[^key-fcf8d3d9ac418587ee3d8a92eaf365fb] In each of regulations 4(10F)(b), 81(10F)(b) and 110(12F)(b), after “protected Ukrainian national” insert “is allowed to stay in the United Kingdom”.
+**21.**[^c-fcf8d3d9ac418587ee3d8a92eaf365fb] In each of regulations 4(10F)(b), 81(10F)(b) and 110(12F)(b), after “protected Ukrainian national” insert “is allowed to stay in the United Kingdom”.
 
 ## PART 6 — Amendments to the Education (Student Support) (Wales) Regulations 2018
 
 ### CHAPTER 1 — Introduction
 
-**22.**[^key-31ac9a335aa15ca78c590f939961305a] The Education (Student Support) (Wales) Regulations 2018[^f00025] are amended in accordance with this Part.
+**22.**[^c-31ac9a335aa15ca78c590f939961305a] The Education (Student Support) (Wales) Regulations 2018[^f00025] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendment relating to Ukraine schemes
 
-**23.**[^key-833227d1c8a936ad1b3ee296e4613840] In Schedule 2 (categories of eligible student), in paragraph 2ZC(2), for paragraph (a) (but not the “or” after it) substitute—
+**23.**[^c-833227d1c8a936ad1b3ee296e4613840] In Schedule 2 (categories of eligible student), in paragraph 2ZC(2), for paragraph (a) (but not the “or” after it) substitute—
 
 > - (a) under Appendix Ukraine Scheme of the immigration rules, by virtue of any of the following schemes—
 >   - (i) the Ukraine Family Scheme[^f00026];
@@ -244,7 +244,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — British citizens of Chagossian descent
 
-**24.**[^key-d27a30d1de4997b659cb0bef1c87edb8] In Schedule 2 (categories of eligible student), in paragraph 6BB—
+**24.**[^c-d27a30d1de4997b659cb0bef1c87edb8] In Schedule 2 (categories of eligible student), in paragraph 6BB—
 
 - (a) in sub-paragraph (1)—
   - (i) at the beginning insert “Subject to sub-paragraphs (3) and (4), ”;
@@ -266,24 +266,24 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Students settled in the United Kingdom during the academic year
 
-**25.**[^key-38cb66799f4f497e7774312e4221d004] In regulation 80(2)(b)(iv), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a), (2)(a) or (3)(a), or 6BB”.
+**25.**[^c-38cb66799f4f497e7774312e4221d004] In regulation 80(2)(b)(iv), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a), (2)(a) or (3)(a), or 6BB”.
 
-**26.**[^key-5130c18df7198ae3babae527a772fe02] In regulation 81(3)(b)(iii), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a) or (2)(a)”.
+**26.**[^c-5130c18df7198ae3babae527a772fe02] In regulation 81(3)(b)(iii), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a) or (2)(a)”.
 
-**27.**[^key-a9824e43c35b8b2552eb7327d8538246] In Schedule 2 (categories of eligible student)—
+**27.**[^c-a9824e43c35b8b2552eb7327d8538246] In Schedule 2 (categories of eligible student)—
 
 - (a) in paragraph 1(1)(a), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 1(1)(a)(ii), at the end insert “on the first day of the first academic year of the course”;
 - (c) in paragraph 1(3)(a), omit “on the day on which the first term of the first academic year actually begins”;
 - (d) in paragraph 6BB(1)(a)(i) (as renumbered by regulation 24(a)(ii) of these Regulations), omit “on the first day of the first academic year of the course”.
 
-**28.**[^key-47164dc3de84a0967334f5253689c468] In Schedule 4 (disabled postgraduate student’s grant), in paragraph 14(3)(b)(iii), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a) or (2)(a)”.
+**28.**[^c-47164dc3de84a0967334f5253689c468] In Schedule 4 (disabled postgraduate student’s grant), in paragraph 14(3)(b)(iii), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a) or (2)(a)”.
 
-**29.**[^key-ce65d3a501c0cb7eb7d8a1b30bdf5cf4] In Schedule 5 (Oxbridge college fee loans), in paragraph 4(2)(d), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a), (2)(a) or (3)(a), or 6BB”.
+**29.**[^c-ce65d3a501c0cb7eb7d8a1b30bdf5cf4] In Schedule 5 (Oxbridge college fee loans), in paragraph 4(2)(d), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a), (2)(a) or (3)(a), or 6BB”.
 
 ### CHAPTER 5 — Amendment to disabled student’s grant – sandwich years
 
-**30.**[^key-3fc05ccabd350664138e25af74d9fe34] In regulation 62 (qualifying conditions for disabled student’s grant), in paragraph (2), in Exception 6, at the end insert—
+**30.**[^c-3fc05ccabd350664138e25af74d9fe34] In regulation 62 (qualifying conditions for disabled student’s grant), in paragraph (2), in Exception 6, at the end insert—
 
 > But this exception does not apply in respect of a disabled student’s grant so far as it relates to the provision of technical support, repairs or replacement in respect of equipment belonging to the student, where—
 >
@@ -296,17 +296,17 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 6 — Amendments to grant for travel – care leavers
 
-**31.**[^key-607790facd01c702d79a6dbca04a8663] In regulation 65 (grant for travel for medical students), in paragraph (3), in Step 2, after “year”, in the first place it occurs, insert “or the eligible student is a care leaver within the meaning given by regulation 49”.
+**31.**[^c-607790facd01c702d79a6dbca04a8663] In regulation 65 (grant for travel for medical students), in paragraph (3), in Step 2, after “year”, in the first place it occurs, insert “or the eligible student is a care leaver within the meaning given by regulation 49”.
 
-**32.**[^key-d096d79376652eef0a243364100485e7] In regulation 66 (grant for travel for study or work overseas), in paragraph (2), in the definition of Y, in paragraph (a), at the end insert “or the eligible student is a care leaver within the meaning given by regulation 49”.
+**32.**[^c-d096d79376652eef0a243364100485e7] In regulation 66 (grant for travel for study or work overseas), in paragraph (2), in the definition of Y, in paragraph (a), at the end insert “or the eligible student is a care leaver within the meaning given by regulation 49”.
 
 ### CHAPTER 7 — Amendment relating to non-domiciled status
 
-**33.**[^key-9f5e8b38b515c99d131214ea227d5d5b] In Schedule 3 (calculation of income), in paragraph 18(2), in Reason 1, in paragraph (a), omit “or domiciled”.
+**33.**[^c-9f5e8b38b515c99d131214ea227d5d5b] In Schedule 3 (calculation of income), in paragraph 18(2), in Reason 1, in paragraph (a), omit “or domiciled”.
 
 ### CHAPTER 8 — Corrections to the Welsh language text
 
-**34.**[^key-a3399125922c6ddca82d44a869bd57d3] In the Welsh language text—
+**34.**[^c-a3399125922c6ddca82d44a869bd57d3] In the Welsh language text—
 
 - (a) in Schedule 2, in paragraph 3—
   - (i) in sub-paragraph (2)(b), for “ddyddiad y cais i gael caniatâd i aros” substitute “ddyddiad y cais i gael caniatâd i ddod i mewn neu i aros”;
@@ -318,11 +318,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**35.**[^key-1f8e3b77d342cc6863c467f74a643a2b] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00030] are amended in accordance with this Part.
+**35.**[^c-1f8e3b77d342cc6863c467f74a643a2b] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00030] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendment relating to Ukraine schemes
 
-**36.**[^key-9200430f204e8b453825bcf265e12d17] In regulation 2(1), in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
+**36.**[^c-9200430f204e8b453825bcf265e12d17] In regulation 2(1), in the definition of “protected Ukrainian national”, for paragraph (a) (but not the “or” after it) substitute—
 
 > - (a) under Appendix Ukraine Scheme of the immigration rules, by virtue of any of the following schemes—
 >   - (i) the Ukraine Family Scheme[^f00031];
@@ -334,7 +334,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — British citizens of Chagossian descent
 
-**37.**[^key-aedfac84431f9594ca6e1dc7b0eab908] In Schedule 1 (eligible students), in paragraph 10BB—
+**37.**[^c-aedfac84431f9594ca6e1dc7b0eab908] In Schedule 1 (eligible students), in paragraph 10BB—
 
 - (a) in sub-paragraph (1)—
   - (i) at the beginning insert “Subject to sub-paragraphs (3) and (4), ”;
@@ -356,9 +356,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Students settled in the United Kingdom during the academic year
 
-**38.**[^key-21b420dc90e9b42c1ba000799391e607] In regulation 8(e), for “paragraph 3(1)(a)” substitute “paragraph 2(1)(a), 2A(1)(a), 3(1)(a) or 10BB”.
+**38.**[^c-21b420dc90e9b42c1ba000799391e607] In regulation 8(e), for “paragraph 3(1)(a)” substitute “paragraph 2(1)(a), 2A(1)(a), 3(1)(a) or 10BB”.
 
-**39.**[^key-ebe9823378e6c93bab3713f359999231] In Schedule 1 (eligible students)—
+**39.**[^c-ebe9823378e6c93bab3713f359999231] In Schedule 1 (eligible students)—
 
 - (a) in paragraph 2(1), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 2(1)(b), at the end insert “on the first day of the first academic year of the course”;
@@ -367,14 +367,14 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 5 — Amendments relating to the KESS 2 Scheme
 
-**40.**[^key-435e19d92805fa0755a6323f0f85b4ce] In regulation 2(1), omit the definition of “KESS 2 Scheme”.
+**40.**[^c-435e19d92805fa0755a6323f0f85b4ce] In regulation 2(1), omit the definition of “KESS 2 Scheme”.
 
-**41.**[^key-f0460cb0f6da86b7f2f207c6e8c54a67] In regulation 3(3)—
+**41.**[^c-f0460cb0f6da86b7f2f207c6e8c54a67] In regulation 3(3)—
 
 - (a) after sub-paragraph (k) insert “or”;
 - (b) omit sub-paragraph (m) and the “or” before it.
 
-**42.**[^key-d44f8383be3a2b5d26bcee4f9a9f0d9d] In regulation 14—
+**42.**[^c-d44f8383be3a2b5d26bcee4f9a9f0d9d] In regulation 14—
 
 - (a) in paragraph (8), omit sub-paragraph (e);
 - (b) in paragraph (11), omit sub-paragraph (e) and the “and” before it.
@@ -383,11 +383,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**43.**[^key-9f112cd02f8287a94777079ccdb0719d] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00035] are amended in accordance with this Part.
+**43.**[^c-9f112cd02f8287a94777079ccdb0719d] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00035] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendment relating to Ukraine schemes
 
-**44.**[^key-88d328cb7dec6032b9655495b0f3f948] In Schedule 2 (categories of eligible students), in paragraph 2C(2), for paragraph (a) (but not the “or” after it) substitute—
+**44.**[^c-88d328cb7dec6032b9655495b0f3f948] In Schedule 2 (categories of eligible students), in paragraph 2C(2), for paragraph (a) (but not the “or” after it) substitute—
 
 > - (a) under Appendix Ukraine Scheme of the immigration rules, by virtue of any of the following schemes—
 >   - (i) the Ukraine Family Scheme[^f00036];
@@ -399,7 +399,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — British citizens of Chagossian descent
 
-**45.**[^key-3aa3bad9b8fedeede39aea0f6f6f32bc] In Schedule 2 (categories of eligible students), in paragraph 8BB—
+**45.**[^c-3aa3bad9b8fedeede39aea0f6f6f32bc] In Schedule 2 (categories of eligible students), in paragraph 8BB—
 
 - (a) in sub-paragraph (1)—
   - (i) at the beginning insert “Subject to sub-paragraphs (3) and (4), ”;
@@ -421,9 +421,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Students settled in the United Kingdom during the academic year
 
-**46.**[^key-3a7bceabdf327c657d3cb5ed0701af45] In regulation 16(1)(b)(iv), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a), (2)(a) or (3)(a), or 8BB”.
+**46.**[^c-3a7bceabdf327c657d3cb5ed0701af45] In regulation 16(1)(b)(iv), for “paragraph 1(2)(a)” substitute “paragraph 1(1)(a), (2)(a) or (3)(a), or 8BB”.
 
-**47.**[^key-9b772b13e6ce02938efe5c4e4816e1f4] In Schedule 2 (categories of eligible students)—
+**47.**[^c-9b772b13e6ce02938efe5c4e4816e1f4] In Schedule 2 (categories of eligible students)—
 
 - (a) in paragraph 1(1)(a), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 1(1)(a)(ii), at the end insert “on the first day of the first academic year of the course”;
@@ -432,15 +432,15 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 5 — Amendment relating to non-domiciled status
 
-**48.**[^key-ea5bb7733e3743e61da366197dfd3206] In Schedule 3 (calculation of income), in paragraph 18(2), in Reason 1, in paragraph (a), omit “or domiciled”.
+**48.**[^c-ea5bb7733e3743e61da366197dfd3206] In Schedule 3 (calculation of income), in paragraph 18(2), in Reason 1, in paragraph (a), omit “or domiciled”.
 
 ### CHAPTER 6 — Amendments relating to the KESS 2 Scheme
 
-**49.**[^key-49bc29ca19e1900f60790af56baca7c5] In regulation 10(1), in Exception 9, omit paragraph (e).
+**49.**[^c-49bc29ca19e1900f60790af56baca7c5] In regulation 10(1), in Exception 9, omit paragraph (e).
 
-**50.**[^key-a4decd22a8ea56faa41721af7a7c5cb1] In Schedule 1, in paragraph 3(1), omit the definition of “KESS 2 Scheme”.
+**50.**[^c-a4decd22a8ea56faa41721af7a7c5cb1] In Schedule 1, in paragraph 3(1), omit the definition of “KESS 2 Scheme”.
 
-**51.**[^key-0c79eb967b54840ce4d70b5142325174] In Schedule 4, in paragraph 1, in Table 3, omit the entry for “KESS 2 Scheme”.
+**51.**[^c-0c79eb967b54840ce4d70b5142325174] In Schedule 4, in paragraph 1, in Table 3, omit the entry for “KESS 2 Scheme”.
 
 Vikki Howells
 
@@ -489,15 +489,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). *See* section 57(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-5212157bf986cd35962fed27e7568cf6]: Commencement: Reg. 1 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-5212157bf986cd35962fed27e7568cf6]: Commencement: Reg. 1 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-329ebea221b93391d7adbd3468096e36]: Commencement: Reg. 2 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-329ebea221b93391d7adbd3468096e36]: Commencement: Reg. 2 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-55a0edce5253d0d011908a717bb5037d]: Commencement: Reg. 3 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-55a0edce5253d0d011908a717bb5037d]: Commencement: Reg. 3 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-c0bceef2b5a1f309e828de1f7ecb036e]: Commencement: Reg. 4 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-c0bceef2b5a1f309e828de1f7ecb036e]: Commencement: Reg. 4 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00006]: Footnote: The Ukraine Family Scheme closed to new applications at 15:00GMT on 19 February 2024. This scheme was set out under paragraphs UKR 1.1 to UKR 10.2 of Appendix Ukraine Scheme of the immigration rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa.
 
@@ -507,17 +507,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00009]: Footnote: The Ukraine Permission Extension Scheme was announced by the Home Office on 19 February 2024 and scheduled to open during the 2024/25 academic year. This scheme will enable individuals who have come to the United Kingdom through one of the other Ukraine schemes listed above to apply for an additional 18 months of permission to remain in the United Kingdom. Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-ce705b13f5292149d11486bcad71b08c]: Commencement: Reg. 5 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-ce705b13f5292149d11486bcad71b08c]: Commencement: Reg. 5 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-845f6ef81e69107a10f1b3d6058071aa]: Commencement: Reg. 6 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-845f6ef81e69107a10f1b3d6058071aa]: Commencement: Reg. 6 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-74ff3e28d0a5865d00ac523a50aefe5d]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2025/16/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(m)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/m)
+[^c-74ff3e28d0a5865d00ac523a50aefe5d]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2025/16/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(m)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/m)
 
-[^key-5f644fe8f01d5f5e641b5de3755b9ad3]: Commencement: Reg. 10 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-5f644fe8f01d5f5e641b5de3755b9ad3]: Commencement: Reg. 10 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-9e29be50c539aa753c30c88d04a54f4f]: Commencement: Reg. 11 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-9e29be50c539aa753c30c88d04a54f4f]: Commencement: Reg. 11 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00016]: Footnote: The Ukraine Family Scheme closed to new applications at 15:00GMT on 19 February 2024. This scheme was set out under paragraphs UKR 1.1 to UKR 10.2 of Appendix Ukraine Scheme of the immigration rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa.
 
@@ -527,15 +527,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: The Ukraine Permission Extension Scheme was announced by the Home Office on 19 February 2024 and scheduled to open during the 2024/25 academic year. This scheme will enable individuals who have come to the United Kingdom through one of the other Ukraine schemes listed above to apply for an additional 18 months of permission to remain in the United Kingdom. Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-399e3c508a6efe8c4a01808c8aec3abd]: Commencement: Reg. 12 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-399e3c508a6efe8c4a01808c8aec3abd]: Commencement: Reg. 12 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-8764a0bc8f4ce3ceda9c154b98b46143]: Commencement: Reg. 13 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-8764a0bc8f4ce3ceda9c154b98b46143]: Commencement: Reg. 13 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-2728113c0ba35e73b90788877d362ed7]: Commencement: Reg. 14 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-2728113c0ba35e73b90788877d362ed7]: Commencement: Reg. 14 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), relevant amendments are [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-ed0a404a750091a108905b80b6e156de]: Commencement: Reg. 15 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-ed0a404a750091a108905b80b6e156de]: Commencement: Reg. 15 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00021]: Footnote: The Ukraine Family Scheme closed to new applications at 15:00GMT on 19 February 2024. This scheme was set out under paragraphs UKR 1.1 to UKR 10.2 of Appendix Ukraine Scheme of the immigration rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa.
 
@@ -545,23 +545,23 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00024]: Footnote: The Ukraine Permission Extension Scheme was announced by the Home Office on 19 February 2024 and scheduled to open during the 2024/25 academic year. This scheme will enable individuals who have come to the United Kingdom through one of the other Ukraine schemes listed above to apply for an additional 18 months of permission to remain in the United Kingdom. Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-b176576f9a45335ce77094a5550c2a2e]: Commencement: Reg. 16 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-b176576f9a45335ce77094a5550c2a2e]: Commencement: Reg. 16 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-1b268b6762c77674f27b304be1e60ce1]: Commencement: Reg. 17 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-1b268b6762c77674f27b304be1e60ce1]: Commencement: Reg. 17 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-2c71abf7da8e144bed776381271ce64f]: Commencement: Reg. 18 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-2c71abf7da8e144bed776381271ce64f]: Commencement: Reg. 18 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-4d92565b29f579965af010fead144f8e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/16/regulation/19) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
+[^c-4d92565b29f579965af010fead144f8e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/16/regulation/19) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
 
-[^key-afef217086d354bb6301798ec294a25c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/16/regulation/20) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
+[^c-afef217086d354bb6301798ec294a25c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/16/regulation/20) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
 
-[^key-fcf8d3d9ac418587ee3d8a92eaf365fb]: Commencement: Reg. 21 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-fcf8d3d9ac418587ee3d8a92eaf365fb]: Commencement: Reg. 21 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-31ac9a335aa15ca78c590f939961305a]: Commencement: Reg. 22 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-31ac9a335aa15ca78c590f939961305a]: Commencement: Reg. 22 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), relevant amendments are [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-833227d1c8a936ad1b3ee296e4613840]: Commencement: Reg. 23 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-833227d1c8a936ad1b3ee296e4613840]: Commencement: Reg. 23 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00026]: Footnote: The Ukraine Family Scheme closed to new applications at 15:00GMT on 19 February 2024. This scheme was set out under paragraphs UKR 1.1 to UKR 10.2 of Appendix Ukraine Scheme of the immigration rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa.
 
@@ -571,33 +571,33 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00029]: Footnote: The Ukraine Permission Extension Scheme was announced by the Home Office on 19 February 2024 and scheduled to open during the 2024/25 academic year. This scheme will enable individuals who have come to the United Kingdom through one of the other Ukraine schemes listed above to apply for an additional 18 months of permission to remain in the United Kingdom. Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-d27a30d1de4997b659cb0bef1c87edb8]: Commencement: Reg. 24 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-d27a30d1de4997b659cb0bef1c87edb8]: Commencement: Reg. 24 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-38cb66799f4f497e7774312e4221d004]: Commencement: Reg. 25 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-38cb66799f4f497e7774312e4221d004]: Commencement: Reg. 25 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-5130c18df7198ae3babae527a772fe02]: Commencement: Reg. 26 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-5130c18df7198ae3babae527a772fe02]: Commencement: Reg. 26 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-a9824e43c35b8b2552eb7327d8538246]: Commencement: Reg. 27 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-a9824e43c35b8b2552eb7327d8538246]: Commencement: Reg. 27 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-47164dc3de84a0967334f5253689c468]: Commencement: Reg. 28 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-47164dc3de84a0967334f5253689c468]: Commencement: Reg. 28 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-ce65d3a501c0cb7eb7d8a1b30bdf5cf4]: Commencement: Reg. 29 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-ce65d3a501c0cb7eb7d8a1b30bdf5cf4]: Commencement: Reg. 29 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-3fc05ccabd350664138e25af74d9fe34]: Commencement: Reg. 30 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-3fc05ccabd350664138e25af74d9fe34]: Commencement: Reg. 30 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-607790facd01c702d79a6dbca04a8663]: Commencement: Reg. 31 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-607790facd01c702d79a6dbca04a8663]: Commencement: Reg. 31 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-d096d79376652eef0a243364100485e7]: Commencement: Reg. 32 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-d096d79376652eef0a243364100485e7]: Commencement: Reg. 32 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-9f5e8b38b515c99d131214ea227d5d5b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2025/16/regulation/33) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
+[^c-9f5e8b38b515c99d131214ea227d5d5b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2025/16/regulation/33) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
 
-[^key-a3399125922c6ddca82d44a869bd57d3]: Commencement: Reg. 34 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-a3399125922c6ddca82d44a869bd57d3]: Commencement: Reg. 34 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-1f8e3b77d342cc6863c467f74a643a2b]: Commencement: Reg. 35 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-1f8e3b77d342cc6863c467f74a643a2b]: Commencement: Reg. 35 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), relevant amendments are [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-9200430f204e8b453825bcf265e12d17]: Commencement: Reg. 36 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-9200430f204e8b453825bcf265e12d17]: Commencement: Reg. 36 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00031]: Footnote: The Ukraine Family Scheme closed to new applications at 15:00GMT on 19 February 2024. This scheme was set out under paragraphs UKR 1.1 to UKR 10.2 of Appendix Ukraine Scheme of the immigration rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa.
 
@@ -607,23 +607,23 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00034]: Footnote: The Ukraine Permission Extension Scheme was announced by the Home Office on 19 February 2024 and scheduled to open during the 2024/25 academic year. This scheme will enable individuals who have come to the United Kingdom through one of the other Ukraine schemes listed above to apply for an additional 18 months of permission to remain in the United Kingdom. Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-aedfac84431f9594ca6e1dc7b0eab908]: Commencement: Reg. 37 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-aedfac84431f9594ca6e1dc7b0eab908]: Commencement: Reg. 37 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-21b420dc90e9b42c1ba000799391e607]: Commencement: Reg. 38 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-21b420dc90e9b42c1ba000799391e607]: Commencement: Reg. 38 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-ebe9823378e6c93bab3713f359999231]: Commencement: Reg. 39 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-ebe9823378e6c93bab3713f359999231]: Commencement: Reg. 39 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-435e19d92805fa0755a6323f0f85b4ce]: Commencement: Reg. 40 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-435e19d92805fa0755a6323f0f85b4ce]: Commencement: Reg. 40 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-f0460cb0f6da86b7f2f207c6e8c54a67]: Commencement: Reg. 41 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-f0460cb0f6da86b7f2f207c6e8c54a67]: Commencement: Reg. 41 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-d44f8383be3a2b5d26bcee4f9a9f0d9d]: Commencement: Reg. 42 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-d44f8383be3a2b5d26bcee4f9a9f0d9d]: Commencement: Reg. 42 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-9f112cd02f8287a94777079ccdb0719d]: Commencement: Reg. 43 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-9f112cd02f8287a94777079ccdb0719d]: Commencement: Reg. 43 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00035]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), relevant amendments are [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-88d328cb7dec6032b9655495b0f3f948]: Commencement: Reg. 44 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-88d328cb7dec6032b9655495b0f3f948]: Commencement: Reg. 44 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
 [^f00036]: Footnote: The Ukraine Family Scheme closed to new applications at 15:00GMT on 19 February 2024. This scheme was set out under paragraphs UKR 1.1 to UKR 10.2 of Appendix Ukraine Scheme of the immigration rules (https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme). Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa.
 
@@ -633,16 +633,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00039]: Footnote: The Ukraine Permission Extension Scheme was announced by the Home Office on 19 February 2024 and scheduled to open during the 2024/25 academic year. This scheme will enable individuals who have come to the United Kingdom through one of the other Ukraine schemes listed above to apply for an additional 18 months of permission to remain in the United Kingdom. Home Office guidance in relation to this scheme is available here: https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme.
 
-[^key-3aa3bad9b8fedeede39aea0f6f6f32bc]: Commencement: Reg. 45 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-3aa3bad9b8fedeede39aea0f6f6f32bc]: Commencement: Reg. 45 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-3a7bceabdf327c657d3cb5ed0701af45]: Commencement: Reg. 46 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-3a7bceabdf327c657d3cb5ed0701af45]: Commencement: Reg. 46 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-9b772b13e6ce02938efe5c4e4816e1f4]: Commencement: Reg. 47 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-9b772b13e6ce02938efe5c4e4816e1f4]: Commencement: Reg. 47 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-ea5bb7733e3743e61da366197dfd3206]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2025/16/regulation/48) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
+[^c-ea5bb7733e3743e61da366197dfd3206]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2025/16/regulation/48) in force at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3)
 
-[^key-49bc29ca19e1900f60790af56baca7c5]: Commencement: Reg. 49 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-49bc29ca19e1900f60790af56baca7c5]: Commencement: Reg. 49 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-a4decd22a8ea56faa41721af7a7c5cb1]: Commencement: Reg. 50 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-a4decd22a8ea56faa41721af7a7c5cb1]: Commencement: Reg. 50 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
 
-[^key-0c79eb967b54840ce4d70b5142325174]: Commencement: Reg. 51 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)
+[^c-0c79eb967b54840ce4d70b5142325174]: Commencement: Reg. 51 in force at 3.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2)

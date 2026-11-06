@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Suspension of work notice[^key-113e2a77b0471b295dbb737e6966a24a]
+## 31. Suspension of work notice[^c-113e2a77b0471b295dbb737e6966a24a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ in accordance with section 62.
 
 ## Annotations
 
-[^key-113e2a77b0471b295dbb737e6966a24a]: Commencement: S. 31 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-113e2a77b0471b295dbb737e6966a24a]: Commencement: S. 31 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

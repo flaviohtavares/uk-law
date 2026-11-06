@@ -117,7 +117,7 @@ HAS ADOPTED THIS DECISION:
 
 2. The amendment shall not affect certifications performed in accordance with Article 11 of Implementing Regulation (EU) No 725/2011 prior to the entry into force of this Implementing Decision.
 
-**Article 3.**[^key-47ff0093c7b970173a3c5a7a5c3775a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-47ff0093c7b970173a3c5a7a5c3775a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 16 July 2014.
 
@@ -141,4 +141,4 @@ José Manuel Barroso
 
 [^f00006]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-47ff0093c7b970173a3c5a7a5c3775a1]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2014/465/article/3) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47ff0093c7b970173a3c5a7a5c3775a1]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2014/465/article/3) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

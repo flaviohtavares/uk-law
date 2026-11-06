@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Meaning of “designated person” in Chapter 1[^key-fcfde8ac476d4a6d0c4170f87d833279]
+## 11. Meaning of “designated person” in Chapter 1[^c-fcfde8ac476d4a6d0c4170f87d833279]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter a “**designated person**” means—
 
 ## Annotations
 
-[^key-fcfde8ac476d4a6d0c4170f87d833279]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-fcfde8ac476d4a6d0c4170f87d833279]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

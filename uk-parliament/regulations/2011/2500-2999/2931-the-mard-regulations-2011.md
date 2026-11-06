@@ -48,17 +48,17 @@ The Treasury make regulations 1 to 7 and 9 to 18 of these Regulations exercising
 
 The Commissioners for Her Majesty’s Revenue and Customs make regulations 1(1) and 8 of these Regulations exercising the powers in paragraph 9 of that Schedule[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-e9b273755ddb18f244277c8620893205]
+## 1. Citation, commencement and interpretation[^c-e9b273755ddb18f244277c8620893205]
 
 (1) These Regulations may be cited as the MARD Regulations 2011 and come into force on 1 January 2012.
 
-(2) The Articles mentioned in these Regulations are those of MARD[^f00003] , except where otherwise indicated[^key-3b93440863aebdd51c2032962a57f4a6].
+(2) The Articles mentioned in these Regulations are those of MARD[^f00003] , except where otherwise indicated[^c-3b93440863aebdd51c2032962a57f4a6].
 
 (3) Regulations 2(1), 4(1), 5(1), 6, 7(2), 7(4) and 13(2) each applies to any Article[^f00004] it mentions only where the relevant UK authority[^f00005] is the requested authority[^f00006] in that Article.
 
 (4) Regulations 9, 10(1), 11, 12 and 13(3) each applies to any Article it mentions only where an applicant authority of the United Kingdom is the applicant authority[^f00007] in that Article.
 
-(5)[^key-c5a63abfe5175aeb8412031a43f8457e] Obligations imposed by these Regulations on a relevant UK authority by virtue of a request for assistance relating to a claim in respect of which MARD is made applicable between member States and the United Kingdom by virtue of Article 100 of the withdrawal agreement expire at the end of the period for which MARD is made so applicable by Article 100 of the withdrawal agreement.
+(5)[^c-c5a63abfe5175aeb8412031a43f8457e] Obligations imposed by these Regulations on a relevant UK authority by virtue of a request for assistance relating to a claim in respect of which MARD is made applicable between member States and the United Kingdom by virtue of Article 100 of the withdrawal agreement expire at the end of the period for which MARD is made so applicable by Article 100 of the withdrawal agreement.
 
 (6) In these Regulations—
 
@@ -67,19 +67,19 @@ The Commissioners for Her Majesty’s Revenue and Customs make regulations 1(1) 
 
 ## Claims, etc to the United Kingdom (i.e. relevant UK authority is the requested authority in MARD)
 
-### 2. Exchange of information[^key-cc3b2ebb316833acbe286468b487c2f1]
+### 2. Exchange of information[^c-cc3b2ebb316833acbe286468b487c2f1]
 
 (1) The relevant UK authority must comply with the provision made by Article 5 in relation to the requested authority.
 
 (2) This is subject to Articles 5(2) and 5(3).
 
-**3.**[^key-4df37a22d8fd2ee6ba70d6c41cf2a947] A United Kingdom public authority[^f00008] that is to make a refund in Article 6 may follow that Article.
+**3.**[^c-4df37a22d8fd2ee6ba70d6c41cf2a947] A United Kingdom public authority[^f00008] that is to make a refund in Article 6 may follow that Article.
 
-**4.**[^key-75c47ae4e2c0d34d1287fff1b87ef2cd] (1) The relevant UK authority must make and carry out the agreement and arrangements for which Article 7(1) makes provision in relation to the requested authority, to the extent that this will promote the mutual assistance provided for in MARD.
+**4.**[^c-75c47ae4e2c0d34d1287fff1b87ef2cd] (1) The relevant UK authority must make and carry out the agreement and arrangements for which Article 7(1) makes provision in relation to the requested authority, to the extent that this will promote the mutual assistance provided for in MARD.
 
 (2) This is subject to Articles 7(3) and 21(2).
 
-### 5. Enforcement of foreign claims in the UK[^key-b8a1520b73557e73668d010c824dd351]
+### 5. Enforcement of foreign claims in the UK[^c-b8a1520b73557e73668d010c824dd351]
 
 (1) The relevant UK authority must comply with the provision made by Articles 8, 9(1), 13(2), 13(3), 13(5), 14(1), 16, 18(4) and 19(3) in relation to the requested authority.
 
@@ -87,11 +87,11 @@ The Commissioners for Her Majesty’s Revenue and Customs make regulations 1(1) 
 
 (3) For Article 16: paragraph (1) and regulation 7 apply in a way that gives effect to Article 17.
 
-**6.**[^key-4f80435d1ec7add95d9ab3e9991e7fa7] (1) The relevant UK authority may follow Article 13(4), first sentence.
+**6.**[^c-4f80435d1ec7add95d9ab3e9991e7fa7] (1) The relevant UK authority may follow Article 13(4), first sentence.
 
 (2) Where it does so, that authority must follow Article 13(4), second sentence.
 
-**7.**[^key-267d13c7df612272a5c34410a55e86ef] (1) Articles 12, 14(1), 14(2), 15(2) second and third sub-paragraphs, and 18 apply to a foreign claim[^f00009].
+**7.**[^c-267d13c7df612272a5c34410a55e86ef] (1) Articles 12, 14(1), 14(2), 15(2) second and third sub-paragraphs, and 18 apply to a foreign claim[^f00009].
 
 (2) The relevant UK authority must follow Article 15(2), first sub-paragraph, second sentence.
 
@@ -101,15 +101,15 @@ The Commissioners for Her Majesty’s Revenue and Customs make regulations 1(1) 
 
 (5) The relevant UK authority may follow Article 18(3) where the United Kingdom is the Member State in that Article.
 
-**8.**[^key-adbd135af680cb30b77a518dc3b22233] In the application of the Finance Act 2009[^f00010], Schedule 49 to any kind of foreign claim[^f00011] for which the relevant UK authority is the Commissioners[^f00012], the sum payable in paragraph 1(1) of that Schedule includes a foreign claim.
+**8.**[^c-adbd135af680cb30b77a518dc3b22233] In the application of the Finance Act 2009[^f00010], Schedule 49 to any kind of foreign claim[^f00011] for which the relevant UK authority is the Commissioners[^f00012], the sum payable in paragraph 1(1) of that Schedule includes a foreign claim.
 
 ## Claims, etc from the United Kingdom (i.e. a UK authority is the applicant authority in MARD)
 
-### 9. Request for notification of certain documents relating to claims[^key-bfa711383f58e605630a1a68ca658205]
+### 9. Request for notification of certain documents relating to claims[^c-bfa711383f58e605630a1a68ca658205]
 
 Any applicant authority of the United Kingdom must ensure compliance or comply with the provision made by Articles 8(1) and 8(2) in relation to the applicant authority.
 
-### 10. Requests for recovery, and conditions governing them[^key-331568cbbe7e08ff61ae82fdfc899eb3]
+### 10. Requests for recovery, and conditions governing them[^c-331568cbbe7e08ff61ae82fdfc899eb3]
 
 (1) Any applicant authority of the United Kingdom must comply with the provision made by Articles 10(2) and 11 in relation to the applicant authority.
 
@@ -117,17 +117,17 @@ Any applicant authority of the United Kingdom must ensure compliance or comply w
 
 The request may be accompanied by the other documents as mentioned in Article 12(2).
 
-### 11. Disputes[^key-95644606a4f8fdfd13ac6576169b414e]
+### 11. Disputes[^c-95644606a4f8fdfd13ac6576169b414e]
 
 Any applicant authority of the United Kingdom must comply with the provision made by Articles 14(3) and 14(4), third sub-paragraph, third sentence in relation to the applicant authority.
 
-### 12. Amendment or withdrawal of UK request for recovery assistance[^key-cb9289fa5b6d1fbf62bb6fcb5b6428ef]
+### 12. Amendment or withdrawal of UK request for recovery assistance[^c-cb9289fa5b6d1fbf62bb6fcb5b6428ef]
 
 Any applicant authority of the United Kingdom must comply with the provision made by Article 15 in relation to the applicant authority.
 
 ## Claims within MARD: general
 
-### 13. Questions on limitation[^key-769bf5e75f46646f69157169b0c6b53d]
+### 13. Questions on limitation[^c-769bf5e75f46646f69157169b0c6b53d]
 
 (1) Article 19 applies to a foreign claim[^f00014] and to a claim for which the applicant Member State is the United Kingdom, as appropriate.
 
@@ -135,19 +135,19 @@ Any applicant authority of the United Kingdom must comply with the provision mad
 
 (3) Any applicant authority of the United Kingdom must comply with the provision made by Article 19(3) in relation to the applicant authority.
 
-### 14. Costs[^key-2eb53f0ebdb4aaebc1fa497aa8082f31]
+### 14. Costs[^c-2eb53f0ebdb4aaebc1fa497aa8082f31]
 
 (1) The relevant UK authority and an applicant authority of the United Kingdom may follow respectively Article 20(2), second sub-paragraph in relation to the requested and applicant authorities, as appropriate to the circumstances.
 
 (2) United Kingdom public authorities must seek to ensure compliance with Article 20(2), first sub-paragraph and with Article 20(3).
 
-### 15. Standard forms and means of communication[^key-9b940e9560549ebccdb1add9cc295a43]
+### 15. Standard forms and means of communication[^c-9b940e9560549ebccdb1add9cc295a43]
 
 (1) Article 21(1) applies where the United Kingdom is the requested Member State or the applicant Member State in that Article, as appropriate.
 
 (2) This is subject to Article 21(3).
 
-### 16. Use of languages[^key-52c2a19dfdd7293a62b5325ee9951a3f]
+### 16. Use of languages[^c-52c2a19dfdd7293a62b5325ee9951a3f]
 
 (1) The documents mentioned in Article 22(1) sent from the United Kingdom must comply with that Article.
 
@@ -161,7 +161,7 @@ Either authority may enter the bilateral agreement in that Article.
 
 (4) English is the only official language in cases where the United Kingdom is the requested Member State in Articles 22(1) and 22(3), or is the applicant Member State in Article 22(2).
 
-### 17. Disclosure of information and documents[^key-0e6eaf1cc67f7e883e8ab6e11789fa5d]
+### 17. Disclosure of information and documents[^c-0e6eaf1cc67f7e883e8ab6e11789fa5d]
 
 (1) Articles 23(1) and 23(6) apply where the United Kingdom is the Member State receiving the information within those Articles.
 
@@ -175,7 +175,7 @@ Either authority may enter the bilateral agreement in that Article.
 
 ## Statutory instruments revoked
 
-### 18. Statutory instruments revoked[^key-851ed9d2e438724da6e65b068d2beee1]
+### 18. Statutory instruments revoked[^c-851ed9d2e438724da6e65b068d2beee1]
 
 The Regulations in the table in the Schedule are revoked.
 
@@ -191,7 +191,7 @@ Mike Eland
 
 Two of the Commissioners for Her Majesty’s Revenue and Customs
 
-## SCHEDULE — Table of statutory instruments revoked[^key-82fe6d2df91260b791857dee0cca092e]
+## SCHEDULE — Table of statutory instruments revoked[^c-82fe6d2df91260b791857dee0cca092e]
 
 Regulation 18
 
@@ -243,11 +243,11 @@ A Tax Information and Impact Note covering this instrument was published on 23 M
 
 [^f00002]: Footnote: The Finance Act 2011, Schedule 25, paragraph 9 is available to “the relevant UK authority” which is defined by paragraphs 7(1)(a) and 16 of that Schedule – read together — as the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-e9b273755ddb18f244277c8620893205]: Commencement: Reg. 1 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-e9b273755ddb18f244277c8620893205]: Commencement: Reg. 1 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00003]: Footnote: The Finance Act 2011, Schedule 25, paragraph 1 defines “MARD” as Council Directive 2010/24/EU (OJ No L 84, 31.3.10, p 1).
 
-[^key-3b93440863aebdd51c2032962a57f4a6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/2) inserted (31.12.2020) by [The MARD (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/996)](https://www.legislation.gov.uk/uksi/2020/996), [regs. 1](https://www.legislation.gov.uk/uksi/2020/996/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/996/regulation/3/2/a)
+[^c-3b93440863aebdd51c2032962a57f4a6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/2) inserted (31.12.2020) by [The MARD (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/996)](https://www.legislation.gov.uk/uksi/2020/996), [regs. 1](https://www.legislation.gov.uk/uksi/2020/996/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/996/regulation/3/2/a)
 
 [^f00004]: Footnote: The explanatory note at the end summarises the subject-matter of those Articles of MARD mentioned in this instrument.
 
@@ -257,25 +257,25 @@ A Tax Information and Impact Note covering this instrument was published on 23 M
 
 [^f00007]: Footnote: The Finance Act 2011, Schedule 25, paragraph 16 defines “applicant authority” as having the same meaning as in MARD (and it is defined there in Article 3(a)).
 
-[^key-c5a63abfe5175aeb8412031a43f8457e]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/6) inserted (31.12.2020) by [The MARD (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/996)](https://www.legislation.gov.uk/uksi/2020/996), [regs. 1](https://www.legislation.gov.uk/uksi/2020/996/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/996/regulation/3/2/b)
+[^c-c5a63abfe5175aeb8412031a43f8457e]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/6) inserted (31.12.2020) by [The MARD (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/996)](https://www.legislation.gov.uk/uksi/2020/996), [regs. 1](https://www.legislation.gov.uk/uksi/2020/996/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/996/regulation/3/2/b)
 
-[^key-cc3b2ebb316833acbe286468b487c2f1]: Commencement: Reg. 2 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-cc3b2ebb316833acbe286468b487c2f1]: Commencement: Reg. 2 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-4df37a22d8fd2ee6ba70d6c41cf2a947]: Commencement: Reg. 3 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-4df37a22d8fd2ee6ba70d6c41cf2a947]: Commencement: Reg. 3 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00008]: Footnote: The Finance Act 2011, Schedule 25, paragraph 16 defines “public authority” as a person with functions of a public nature.
 
-[^key-75c47ae4e2c0d34d1287fff1b87ef2cd]: Commencement: Reg. 4 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-75c47ae4e2c0d34d1287fff1b87ef2cd]: Commencement: Reg. 4 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-b8a1520b73557e73668d010c824dd351]: Commencement: Reg. 5 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-b8a1520b73557e73668d010c824dd351]: Commencement: Reg. 5 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-4f80435d1ec7add95d9ab3e9991e7fa7]: Commencement: Reg. 6 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-4f80435d1ec7add95d9ab3e9991e7fa7]: Commencement: Reg. 6 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-267d13c7df612272a5c34410a55e86ef]: Commencement: Reg. 7 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-267d13c7df612272a5c34410a55e86ef]: Commencement: Reg. 7 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00009]: Footnote: The Finance Act 2011, Schedule 25, paragraphs 6(2) and 6(1) define “the foreign claim” as a request in accordance with MARD for the recovery in the United Kingdom of a claim.
 
-[^key-adbd135af680cb30b77a518dc3b22233]: Commencement: Reg. 8 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-adbd135af680cb30b77a518dc3b22233]: Commencement: Reg. 8 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00010]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
 
@@ -283,31 +283,31 @@ A Tax Information and Impact Note covering this instrument was published on 23 M
 
 [^f00012]: Footnote: The Finance Act 2011, Schedule 25, paragraphs 7(1)(a) and 16 – read together – define the “relevant UK authority” as the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-bfa711383f58e605630a1a68ca658205]: Commencement: Reg. 9 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-bfa711383f58e605630a1a68ca658205]: Commencement: Reg. 9 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-331568cbbe7e08ff61ae82fdfc899eb3]: Commencement: Reg. 10 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-331568cbbe7e08ff61ae82fdfc899eb3]: Commencement: Reg. 10 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00013]: Footnote: MARD, Article 12(1), second sub-paragraph, from “and constitute” to the end of that sub-paragraph. This is about the sole legal basis for recovery and precautionary measures.
 
-[^key-95644606a4f8fdfd13ac6576169b414e]: Commencement: Reg. 11 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-95644606a4f8fdfd13ac6576169b414e]: Commencement: Reg. 11 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-cb9289fa5b6d1fbf62bb6fcb5b6428ef]: Commencement: Reg. 12 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-cb9289fa5b6d1fbf62bb6fcb5b6428ef]: Commencement: Reg. 12 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-769bf5e75f46646f69157169b0c6b53d]: Commencement: Reg. 13 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-769bf5e75f46646f69157169b0c6b53d]: Commencement: Reg. 13 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00014]: Footnote: See footnote (b) on page 2.
 
-[^key-2eb53f0ebdb4aaebc1fa497aa8082f31]: Commencement: Reg. 14 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-2eb53f0ebdb4aaebc1fa497aa8082f31]: Commencement: Reg. 14 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-9b940e9560549ebccdb1add9cc295a43]: Commencement: Reg. 15 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-9b940e9560549ebccdb1add9cc295a43]: Commencement: Reg. 15 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-52c2a19dfdd7293a62b5325ee9951a3f]: Commencement: Reg. 16 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-52c2a19dfdd7293a62b5325ee9951a3f]: Commencement: Reg. 16 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-0e6eaf1cc67f7e883e8ab6e11789fa5d]: Commencement: Reg. 17 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-0e6eaf1cc67f7e883e8ab6e11789fa5d]: Commencement: Reg. 17 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-851ed9d2e438724da6e65b068d2beee1]: Commencement: Reg. 18 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-851ed9d2e438724da6e65b068d2beee1]: Commencement: Reg. 18 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
-[^key-82fe6d2df91260b791857dee0cca092e]: Commencement: Sch. in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
+[^c-82fe6d2df91260b791857dee0cca092e]: Commencement: Sch. in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1)
 
 [^f00015]: Footnote: OJ No L 84, 31.3.10, p 1. In addition, Commission Regulation (EU) No 1189/2011 (OJ No L 302, 19.11.11, p 16) lays down detailed implementing rules in relation to certain provisions of MARD.
 

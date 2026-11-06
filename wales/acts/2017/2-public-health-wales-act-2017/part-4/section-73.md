@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Revocation of approval[^key-cf1bcd0d69cc4673cb9f4ef23703958b]
+## 73. Revocation of approval[^c-cf1bcd0d69cc4673cb9f4ef23703958b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1bcd0d69cc4673cb9f4ef23703958b]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2017/2/section/73) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(p)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/p) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-cf1bcd0d69cc4673cb9f4ef23703958b]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2017/2/section/73) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(p)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/p) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

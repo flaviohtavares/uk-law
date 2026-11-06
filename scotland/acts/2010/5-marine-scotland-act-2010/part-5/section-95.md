@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Offences relating to protected features of a Nature Conservation MPA[^key-3567875acdf5c0204c4a76f69ee7d4ab]
+## 95. Offences relating to protected features of a Nature Conservation MPA[^c-3567875acdf5c0204c4a76f69ee7d4ab]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3567875acdf5c0204c4a76f69ee7d4ab]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/5/section/95) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-3567875acdf5c0204c4a76f69ee7d4ab]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/5/section/95) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

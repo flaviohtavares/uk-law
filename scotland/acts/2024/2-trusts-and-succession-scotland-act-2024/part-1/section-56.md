@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Resignation of protector[^key-855065b6b5eba194ea5301ed7a624969]
+## 56. Resignation of protector[^c-855065b6b5eba194ea5301ed7a624969]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-855065b6b5eba194ea5301ed7a624969]: Commencement: S. 56 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-855065b6b5eba194ea5301ed7a624969]: Commencement: S. 56 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

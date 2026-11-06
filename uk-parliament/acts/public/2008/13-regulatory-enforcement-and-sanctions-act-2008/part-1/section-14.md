@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Ancillary powers[^key-1a9807d5aecd64d98bec03c206000c7b]
+## 14. Ancillary powers[^c-1a9807d5aecd64d98bec03c206000c7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a9807d5aecd64d98bec03c206000c7b]: Textual amendment: S. 14 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-1a9807d5aecd64d98bec03c206000c7b]: Textual amendment: S. 14 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

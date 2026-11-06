@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Determination of the total auction sum payable by winning bidders to OFCOM[^key-d785887b8953957d7adfa80a7c756b8c]
+## 114. Determination of the total auction sum payable by winning bidders to OFCOM[^c-d785887b8953957d7adfa80a7c756b8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d785887b8953957d7adfa80a7c756b8c]: Commencement: Reg. 114 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-d785887b8953957d7adfa80a7c756b8c]: Commencement: Reg. 114 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

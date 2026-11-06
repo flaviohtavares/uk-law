@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Guidance on community benefit requirements[^key-7f52ea90cdee2f1e2fce4ba94c453af9]
+## 26. Guidance on community benefit requirements[^c-7f52ea90cdee2f1e2fce4ba94c453af9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f52ea90cdee2f1e2fce4ba94c453af9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/12/section/26) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)
+[^c-7f52ea90cdee2f1e2fce4ba94c453af9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/12/section/26) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)

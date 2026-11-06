@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Use of airborne collision avoidance system[^key-d7451eb3949589f2845e98e9e3c0c7cb]
+## 83. Use of airborne collision avoidance system[^c-d7451eb3949589f2845e98e9e3c0c7cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ On any flight on which an airborne collision avoidance system is required to be 
 
 ## Annotations
 
-[^key-d7451eb3949589f2845e98e9e3c0c7cb]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2013/2870/article/83) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d7451eb3949589f2845e98e9e3c0c7cb]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2013/2870/article/83) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

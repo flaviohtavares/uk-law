@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 1 — General
 
-### 1. Title, commencement, application and revocation[^key-9be2d4b33e77fac2d2bc5aa3a4ff824f]
+### 1. Title, commencement, application and revocation[^c-9be2d4b33e77fac2d2bc5aa3a4ff824f]
 
 (1) The title of these Regulations is the School Performance Information (Wales) Regulations 2011 and they come into force on 1 September 2011.
 
@@ -55,26 +55,26 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 (3) The regulations in Schedule 1 are revoked.
 
-### 1A. Disapplication of certain duties for the 2019-2020 school year[^key-549b2d41c5d3c211506d6ea28e7fd82f]
+### 1A. Disapplication of certain duties for the 2019-2020 school year[^c-549b2d41c5d3c211506d6ea28e7fd82f]
 
 The information provided pursuant to regulations 5, 6 and 8 must not include any information relating to the 2019-2020 school year.
 
-### 1B. Disapplication of certain duties for the 2020-2021 school year[^key-cd09672ab8c03d5e78f1d9453cfb28cf]
+### 1B. Disapplication of certain duties for the 2020-2021 school year[^c-cd09672ab8c03d5e78f1d9453cfb28cf]
 
 The information provided pursuant to regulations 5 and 6 must not include any information relating to the 2020-2021 school year.
 
-### 2. Interpretation[^key-9163b11f4217907d88a46c332a8f74c5]
+### 2. Interpretation[^c-9163b11f4217907d88a46c332a8f74c5]
 
 (1) In these Regulations—
 
 - “the 1996 Act” (“*Deddf 1996*”) means the Education Act 1996;
-- [^key-774dd924e1c3eab0b6708585ea72d4f3]...
-- “approval number”(“[^key-1c4f50ca1e9e4784eb57860c4a1aca5a]*rhif cymeradwyo*”) is the number allocated to a qualification by Qualifications Wales under section 22(3) of the Qualifications Wales Act 2015;
-- “approved relevant qualification” (“[^key-c5ddb62ea23db2ff3347f6a8383ea73c]*cymhwyster perthnasol a gymeradwywyd*”) is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
+- [^c-774dd924e1c3eab0b6708585ea72d4f3]...
+- “approval number”(“[^c-1c4f50ca1e9e4784eb57860c4a1aca5a]*rhif cymeradwyo*”) is the number allocated to a qualification by Qualifications Wales under section 22(3) of the Qualifications Wales Act 2015;
+- “approved relevant qualification” (“[^c-c5ddb62ea23db2ff3347f6a8383ea73c]*cymhwyster perthnasol a gymeradwywyd*”) is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
 - “authority” (“*awdurdod*”) means—
   - (i) in relation to a school maintained by a local authority that authority; and
   - (ii) in relation to a non-maintained special school or an independent school, the local authority in whose area the school is situated;
-- [^key-774dd924e1c3eab0b6708585ea72d4f3]...
+- [^c-774dd924e1c3eab0b6708585ea72d4f3]...
 - “maintained school” (“*ysgol a gynhelir*”) means—
   - (i) any community, foundation or voluntary school, or
   - (ii) any community or foundation special school which is not established in a hospital;
@@ -85,7 +85,7 @@ The information provided pursuant to regulations 5 and 6 must not include any in
 - “the register” (“*y gofrestr*”) means the register maintained and published by the Office of Qualifications and Examinations Regulation pursuant to section 148 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00005];
 - “reporting school year” (“*blwyddyn adrodd yr ysgol*”) means the school year immediately preceding the school year in which information provided to the Welsh Ministers is to be published by the Welsh Ministers or, as the case may be, local authorities;
 - “school session” (“*sesiwn ysgol*”) is to be interpreted in accordance with regulation 4 of the Education (School Day and School Year) (Wales) Regulations 2003[^f00006];
-- “statutory assessments” (“[^key-469b9c5396f561e456cf528e1a8298de]*asesiadau statudol*”) means the assessment arrangements specified in—
+- “statutory assessments” (“[^c-469b9c5396f561e456cf528e1a8298de]*asesiadau statudol*”) means the assessment arrangements specified in—
   - (a) the National Curriculum (Key Stage 3 Assessment Arrangements) (Wales) Order 2005;
   - (b) the Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013;
   - (c) the National Curriculum (Assessment Arrangements for the Foundation Phase and the Second and Third Key Stages) (Wales) Order 2014; and
@@ -98,34 +98,34 @@ The information provided pursuant to regulations 5 and 6 must not include any in
 - (a) references to pupils of a particular age are to pupils who were registered pupils at the school on the third Thursday in January in the reporting school year and who attained that age during the period of twelve months ending on either—
   - (i) the 31 August preceding the commencement of the reporting school year, where the reporting school year begins after that date, or
   - (ii) the 31 August which falls within the reporting school year, where the reporting school year begins on or before that date;
-- (b) references to approved relevant qualifications for which pupils at the school were entered include approved relevant qualifications for which they were entered otherwise than in pursuance of section 402(1) of the 1996 Act[^f00009] .[^key-5004530e6def8c28368eaf74c5d74f1d]
-- (c)[^key-1db8a41aebbc74bbc0e8ee6cd4e36a81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) references to approved relevant qualifications for which pupils at the school were entered include approved relevant qualifications for which they were entered otherwise than in pursuance of section 402(1) of the 1996 Act[^f00009] .[^c-5004530e6def8c28368eaf74c5d74f1d]
+- (c)[^c-1db8a41aebbc74bbc0e8ee6cd4e36a81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where these Regulations require or permit information to be transferred in electronic or machine readable form, that requirement must be met by transferring the information through a secure internet website provided for that purpose by or on behalf of the Welsh Ministers.
 
 (4) For the purposes of these Regulations any approved relevant qualification for which a pupil was entered during a previous school year is to be treated as such an entry during the reporting school year.
 
-### 3. Qualification of duties[^key-c9599ee4f7696120603ad0cb4a5bab3f]
+### 3. Qualification of duties[^c-c9599ee4f7696120603ad0cb4a5bab3f]
 
 The duties of governing bodies, authorities and proprietors to make available, provide or publish information apply only to the extent that that information is available to them in time for it to be reasonably practicable for them to make available, provide or publish that information before the latest occasion on which that information is required to be made available, provided or published, as the case may be.
 
 ## PART 2 — Provision of information to the governing body
 
-### 4. Provision of information by the head teacher to the governing body[^key-5c3bb467e27309be6c7292da4dc3d9f6]
+### 4. Provision of information by the head teacher to the governing body[^c-5c3bb467e27309be6c7292da4dc3d9f6]
 
-The head teacher of every maintained school must, each school[^key-b9df0dc185fe66d5b366f317dd9cd617] year, make available to the governing body information about the matters mentioned in Schedule 3[^key-ed8c9615f71ebb564aa4fd7e458c3f3b] for the purpose of enabling the governing body to comply with their obligations in respect of those matters.
+The head teacher of every maintained school must, each school[^c-b9df0dc185fe66d5b366f317dd9cd617] year, make available to the governing body information about the matters mentioned in Schedule 3[^c-ed8c9615f71ebb564aa4fd7e458c3f3b] for the purpose of enabling the governing body to comply with their obligations in respect of those matters.
 
 ## PART 3 — Provision of information to the Welsh Ministers and local authorities
 
-### 5. Provision of foundation phase and key stage assessment results to local authorities[^key-32e09fd46cde8b5e51116b124ac01de4]
+### 5. Provision of foundation phase and key stage assessment results to local authorities[^c-32e09fd46cde8b5e51116b124ac01de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Provision of foundation phase and key stage assessment results to the Welsh Ministers[^key-79a05dc07b448ebf39b15301f39a46f8]
+### 6. Provision of foundation phase and key stage assessment results to the Welsh Ministers[^c-79a05dc07b448ebf39b15301f39a46f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Provision of results of approved relevant qualifications to the Welsh Ministers[^key-0bd250955788150fb413bfcf1a72dc09]
+### 7. Provision of results of approved relevant qualifications to the Welsh Ministers[^c-0bd250955788150fb413bfcf1a72dc09]
 
 The governing body of every maintained school and the proprietor of every non-maintained special school or independent school with pupils aged 15, 16, 17 or 18 must provide the Welsh Ministers with such particulars as they request relating to approved relevant qualifications for which registered pupils at the school were entered, and such other information as is referred to—
 
@@ -134,7 +134,7 @@ The governing body of every maintained school and the proprietor of every non-ma
 
 upon receiving a written request from the Welsh Ministers for such information within the period specified by them in such a request.
 
-### 8. Provision of information about authorised and unauthorised absence to the authority[^key-f719ef8bef45dca9f363292ba7adc79f]
+### 8. Provision of information about authorised and unauthorised absence to the authority[^c-f719ef8bef45dca9f363292ba7adc79f]
 
 The governing body of every maintained school and maintained nursery school and the proprietor of every non-maintained special school or independent school must provide the authority with the following information for the reporting school year upon receiving a written request from the authority for such information within the period specified by it in such a request:
 
@@ -148,11 +148,11 @@ Deputy Minister for Skills, one of the Welsh Ministers
 
 3 August 2011
 
-## SCHEDULE 1 — REGULATIONS REVOKED[^key-0b8d060d6d978ae2842d9842aacf20f8]
+## SCHEDULE 1 — REGULATIONS REVOKED[^c-0b8d060d6d978ae2842d9842aacf20f8]
 
 Regulation 1
 
-[^key-0b8d060d6d978ae2842d9842aacf20f8]
+[^c-0b8d060d6d978ae2842d9842aacf20f8]
 
 | Regulations revoked | References | Extent of revocation |
 | --- | --- | --- |
@@ -163,17 +163,17 @@ Regulation 1
 | The Education (School Performance Information) (Wales) (Amendment) Regulations 2007 | S.I. [2007/3564 (W.314)](https://www.legislation.gov.uk/wsi/2007/3564) | The whole regulations |
 | The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (Wales) Regulations 2010 | S.I. [2010/2431 (W.209)](https://www.legislation.gov.uk/wsi/2010/2431) | Regulation 6 |
 
-## SCHEDULE 2 — Provision of Information to Governing Bodies, Local Authorities and Welsh Ministers: Foundation Phase and Key Stage Results[^key-32584402a17210bbfa28c20cc483281c]
+## SCHEDULE 2 — Provision of Information to Governing Bodies, Local Authorities and Welsh Ministers: Foundation Phase and Key Stage Results[^c-32584402a17210bbfa28c20cc483281c]
 
 **No longer in force.**
 
 Regulations 4, 5 and 6
 
-**1.**[^key-32584402a17210bbfa28c20cc483281c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-32584402a17210bbfa28c20cc483281c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-32584402a17210bbfa28c20cc483281c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-32584402a17210bbfa28c20cc483281c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-32584402a17210bbfa28c20cc483281c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-32584402a17210bbfa28c20cc483281c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — PROVISION OF INFORMATION TO THE WELSH MINISTERS: APPROVED RELEVANT QUALIFICATIONS
 
@@ -181,33 +181,33 @@ Regulation 4
 
 ### PART 1 — Pupils aged 15
 
-**1.**[^key-d9a98d5f1447268301ab06eec363235d] The number of registered pupils aged 15.
+**1.**[^c-d9a98d5f1447268301ab06eec363235d] The number of registered pupils aged 15.
 
-**2.**[^key-3acec6a3f4548f1428a946580b81ab9d] In the case of each such pupil referred to in paragraph 1 who was entered for one or more approved relevant qualifications during the reporting school year or any of the school years preceding that year the pupil’s gender, date of birth and surname followed by the first name, middle name or middle names (if applicable), and where such information is provided in electronic or machine readable form, the pupil’s unique pupil number.
+**2.**[^c-3acec6a3f4548f1428a946580b81ab9d] In the case of each such pupil referred to in paragraph 1 who was entered for one or more approved relevant qualifications during the reporting school year or any of the school years preceding that year the pupil’s gender, date of birth and surname followed by the first name, middle name or middle names (if applicable), and where such information is provided in electronic or machine readable form, the pupil’s unique pupil number.
 
-**3.**[^key-f4bcc74090806cd398a40449f9f22040] In the case of each such pupil referred to in paragraph 2 who, during the reporting school year or any of the school years preceding that year, achieved any approved relevant qualification, the following details for each such qualification achieved—
+**3.**[^c-f4bcc74090806cd398a40449f9f22040] In the case of each such pupil referred to in paragraph 2 who, during the reporting school year or any of the school years preceding that year, achieved any approved relevant qualification, the following details for each such qualification achieved—
 
 - (a) the awarding body;
 - (b) the subject title;
 - (c) the type and level;
 - (d) the result;
-- (e)[^key-bc6b554cb4024262f5ba1937c720cd94] the date awarded;
+- (e)[^c-bc6b554cb4024262f5ba1937c720cd94] the date awarded;
 - (f) the qualification number (if any); and
 - (g) the approval number (if any).
 
 ### PART 2 — Pupils aged 16, 17 or 18
 
-**4.**[^key-2a6ae97fffb417e9c58aab3614b8d1bc] The number of registered pupils aged 16, 17 or 18.
+**4.**[^c-2a6ae97fffb417e9c58aab3614b8d1bc] The number of registered pupils aged 16, 17 or 18.
 
-**5.**[^key-ddf05c3b578525ef6b180d75f20611cc] In the case of each such pupil referred to in paragraph 4 the following information: the pupil’s gender, date of birth and surname followed by the first name, middle name or middle names (if applicable) and, where such information is provided in electronic or machine readable form, the pupil’s unique pupil number.
+**5.**[^c-ddf05c3b578525ef6b180d75f20611cc] In the case of each such pupil referred to in paragraph 4 the following information: the pupil’s gender, date of birth and surname followed by the first name, middle name or middle names (if applicable) and, where such information is provided in electronic or machine readable form, the pupil’s unique pupil number.
 
-**6.**[^key-3dc3f0a4cfc1771f6e33ce3114333c05] In the case of each such pupil referred to in paragraph 4 who, during the reporting school year or any of the school years preceding that year, achieved any approved relevant qualification, the following details for each such qualification achieved—
+**6.**[^c-3dc3f0a4cfc1771f6e33ce3114333c05] In the case of each such pupil referred to in paragraph 4 who, during the reporting school year or any of the school years preceding that year, achieved any approved relevant qualification, the following details for each such qualification achieved—
 
 - (a) the awarding body;
 - (b) the subject title;
 - (c) the type and level;
 - (d) the result;
-- (e)[^key-009087a4e4a7cfcc48053b5541c76bd1] the date awarded;
+- (e)[^c-009087a4e4a7cfcc48053b5541c76bd1] the date awarded;
 - (f) the qualification number (if any); and
 - (g) the approval number (if any).
 
@@ -235,66 +235,66 @@ Governing bodies of maintained schools and the proprietors of independent and no
 
 [^f00002]: Footnote: The functions of the Secretary of State under these sections were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-9be2d4b33e77fac2d2bc5aa3a4ff824f]: Commencement: Reg. 1 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-9be2d4b33e77fac2d2bc5aa3a4ff824f]: Commencement: Reg. 1 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-549b2d41c5d3c211506d6ea28e7fd82f]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1A) inserted (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/6/2)
+[^c-549b2d41c5d3c211506d6ea28e7fd82f]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1A) inserted (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/6/2)
 
-[^key-cd09672ab8c03d5e78f1d9453cfb28cf]: Textual amendment: [Reg. 1B](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1B) inserted (18.6.2021) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2021 (S.I. 2021/612)](https://www.legislation.gov.uk/wsi/2021/612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2021/612/regulation/5)
+[^c-cd09672ab8c03d5e78f1d9453cfb28cf]: Textual amendment: [Reg. 1B](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1B) inserted (18.6.2021) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2021 (S.I. 2021/612)](https://www.legislation.gov.uk/wsi/2021/612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2021/612/regulation/5)
 
-[^key-9163b11f4217907d88a46c332a8f74c5]: Commencement: Reg. 2 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-9163b11f4217907d88a46c332a8f74c5]: Commencement: Reg. 2 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-774dd924e1c3eab0b6708585ea72d4f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [15(3)(a)(i)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/a/i)
+[^c-774dd924e1c3eab0b6708585ea72d4f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [15(3)(a)(i)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/a/i)
 
-[^key-1c4f50ca1e9e4784eb57860c4a1aca5a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) inserted (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(2)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/2)
+[^c-1c4f50ca1e9e4784eb57860c4a1aca5a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) inserted (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(2)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/2)
 
-[^key-c5ddb62ea23db2ff3347f6a8383ea73c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) substituted (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(3)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/3)
+[^c-c5ddb62ea23db2ff3347f6a8383ea73c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) substituted (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(3)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/3)
 
 [^f00005]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
 [^f00006]: Footnote: S.I. [2003/3231 (W.311)](https://www.legislation.gov.uk/wsi/2003/3231).
 
-[^key-469b9c5396f561e456cf528e1a8298de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) substituted (30.5.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/10/2)
+[^c-469b9c5396f561e456cf528e1a8298de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/1) substituted (30.5.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/10/2)
 
 [^f00008]: Footnote: S.I. [2010/1154 (W.187)](https://www.legislation.gov.uk/wsi/2010/1154).
 
 [^f00009]: Footnote: Section 402 was amended by paragraphs 57 and 101 of Schedule 30 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), by paragraph 45 of Schedule 21 to the Education Act 2002 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-5004530e6def8c28368eaf74c5d74f1d]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/2/b): full stop substituted for word (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/a/ii)
+[^c-5004530e6def8c28368eaf74c5d74f1d]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/2/b): full stop substituted for word (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/a/ii)
 
-[^key-1db8a41aebbc74bbc0e8ee6cd4e36a81]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/2/c) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/a/iii)
+[^c-1db8a41aebbc74bbc0e8ee6cd4e36a81]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/2/2/c) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/a/iii)
 
-[^key-c9599ee4f7696120603ad0cb4a5bab3f]: Commencement: Reg. 3 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-c9599ee4f7696120603ad0cb4a5bab3f]: Commencement: Reg. 3 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-5c3bb467e27309be6c7292da4dc3d9f6]: Commencement: Reg. 4 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-5c3bb467e27309be6c7292da4dc3d9f6]: Commencement: Reg. 4 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-b9df0dc185fe66d5b366f317dd9cd617]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2011/1963/regulation/4) inserted (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2020/729/regulation/6/3)
+[^c-b9df0dc185fe66d5b366f317dd9cd617]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2011/1963/regulation/4) inserted (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2020/729/regulation/6/3)
 
-[^key-ed8c9615f71ebb564aa4fd7e458c3f3b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2011/1963/regulation/4) substituted (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/b)
+[^c-ed8c9615f71ebb564aa4fd7e458c3f3b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2011/1963/regulation/4) substituted (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/b)
 
-[^key-32e09fd46cde8b5e51116b124ac01de4]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2011/1963/regulation/5) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/c)
+[^c-32e09fd46cde8b5e51116b124ac01de4]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2011/1963/regulation/5) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/c)
 
-[^key-79a05dc07b448ebf39b15301f39a46f8]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/1963/regulation/6) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/c)
+[^c-79a05dc07b448ebf39b15301f39a46f8]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/1963/regulation/6) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/c)
 
-[^key-0bd250955788150fb413bfcf1a72dc09]: Commencement: Reg. 7 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-0bd250955788150fb413bfcf1a72dc09]: Commencement: Reg. 7 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-f719ef8bef45dca9f363292ba7adc79f]: Commencement: Reg. 8 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-f719ef8bef45dca9f363292ba7adc79f]: Commencement: Reg. 8 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-0b8d060d6d978ae2842d9842aacf20f8]: Commencement: Sch. 1 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-0b8d060d6d978ae2842d9842aacf20f8]: Commencement: Sch. 1 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-32584402a17210bbfa28c20cc483281c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2011/1963/schedule/2) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(d)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/d)
+[^c-32584402a17210bbfa28c20cc483281c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2011/1963/schedule/2) revoked (1.9.2024) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [15(3)(d)](https://www.legislation.gov.uk/wsi/2022/758/regulation/15/3/d)
 
-[^key-d9a98d5f1447268301ab06eec363235d]: Commencement: Sch. 3 para. 1 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-d9a98d5f1447268301ab06eec363235d]: Commencement: Sch. 3 para. 1 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-3acec6a3f4548f1428a946580b81ab9d]: Commencement: Sch. 3 para. 2 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-3acec6a3f4548f1428a946580b81ab9d]: Commencement: Sch. 3 para. 2 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-f4bcc74090806cd398a40449f9f22040]: Commencement: Sch. 3 para. 3 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-f4bcc74090806cd398a40449f9f22040]: Commencement: Sch. 3 para. 3 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-bc6b554cb4024262f5ba1937c720cd94]: Textual amendment: [Sch. 3 para. 3(e)-(g)](https://www.legislation.gov.uk/wsi/2011/1963/schedule/3/paragraph/3/e/g) substituted for Sch. 3 para. 3(e)(f) (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(4)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/4)
+[^c-bc6b554cb4024262f5ba1937c720cd94]: Textual amendment: [Sch. 3 para. 3(e)-(g)](https://www.legislation.gov.uk/wsi/2011/1963/schedule/3/paragraph/3/e/g) substituted for Sch. 3 para. 3(e)(f) (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(4)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/4)
 
-[^key-2a6ae97fffb417e9c58aab3614b8d1bc]: Commencement: Sch. 3 para. 4 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-2a6ae97fffb417e9c58aab3614b8d1bc]: Commencement: Sch. 3 para. 4 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-ddf05c3b578525ef6b180d75f20611cc]: Commencement: Sch. 3 para. 5 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-ddf05c3b578525ef6b180d75f20611cc]: Commencement: Sch. 3 para. 5 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-3dc3f0a4cfc1771f6e33ce3114333c05]: Commencement: Sch. 3 para. 6 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
+[^c-3dc3f0a4cfc1771f6e33ce3114333c05]: Commencement: Sch. 3 para. 6 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1)
 
-[^key-009087a4e4a7cfcc48053b5541c76bd1]: Textual amendment: [Sch. 3 para. 6(e)-(g)](https://www.legislation.gov.uk/wsi/2011/1963/schedule/3/paragraph/6/e/g) substituted for [Sch. 3 para. 6(e)(f)](https://www.legislation.gov.uk/wsi/2011/1963/schedule/3) (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(5)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/5)
+[^c-009087a4e4a7cfcc48053b5541c76bd1]: Textual amendment: [Sch. 3 para. 6(e)-(g)](https://www.legislation.gov.uk/wsi/2011/1963/schedule/3/paragraph/6/e/g) substituted for [Sch. 3 para. 6(e)(f)](https://www.legislation.gov.uk/wsi/2011/1963/schedule/3) (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [14(5)](https://www.legislation.gov.uk/wsi/2016/236/regulation/14/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Eligible bodies[^c2007810][^key-b08a89bf640bda943cbcc943328020fc]
+## 16. Eligible bodies[^c2007810][^c-b08a89bf640bda943cbcc943328020fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) any inshore fisheries and conservation authority;
 - (d) any local fisheries committee constituted by an order made, or having effect as if made, under section 1 of the Sea Fisheries Regulation Act 1966 (c. 38);
 - (e) any harbour authority.
-- (f)[^key-fcf2f5ef5de13bb7608f9126e7b0c178] the Natural Resources Body for Wales.
+- (f)[^c-fcf2f5ef5de13bb7608f9126e7b0c178] the Natural Resources Body for Wales.
 
 (2) The Secretary of State may by order amend subsection (1) so as to—
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c2007810]: Commencement: S. 16 partly in force; s. 16 in force for specified purposes at Royal Assent see s. 324(1)(c)
 
-[^key-b08a89bf640bda943cbcc943328020fc]: Commencement: S. 16 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-b08a89bf640bda943cbcc943328020fc]: Commencement: S. 16 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
 
-[^key-fcf2f5ef5de13bb7608f9126e7b0c178]: Textual amendment: [S. 16(1)(f)](https://www.legislation.gov.uk/ukpga/2009/23/section/16/1/f) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 442](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/442) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-fcf2f5ef5de13bb7608f9126e7b0c178]: Textual amendment: [S. 16(1)(f)](https://www.legislation.gov.uk/ukpga/2009/23/section/16/1/f) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 442](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/442) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 97. Power of Commissioners to determine questions relating to patronage[^key-bb5db87b1481ad6b46753453100a0f3c]
+## 97. Power of Commissioners to determine questions relating to patronage[^c-bb5db87b1481ad6b46753453100a0f3c]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb5db87b1481ad6b46753453100a0f3c]: Commencement: S. 97 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-bb5db87b1481ad6b46753453100a0f3c]: Commencement: S. 97 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

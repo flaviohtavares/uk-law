@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 43(1) and (2)(a) of the Wildlife and Natural Environment (Scotland) Act 2011[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-3fbbf0a17892b02efbf855e28483ae73]
+## 1. Citation, commencement and interpretation[^c-3fbbf0a17892b02efbf855e28483ae73]
 
 (1) This Order may be cited as the Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011 and comes into force on 29th June 2011.
 
@@ -54,7 +54,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the 1981 Act” means the Wildlife and Countryside Act 1981[^f00002]; and
 - “the 2011 Act” means the Wildlife and Natural Environment (Scotland) Act 2011.
 
-## 2. Appointed days[^key-9e2896df79faa709aaa9b1d7b848ac3f]
+## 2. Appointed days[^c-9e2896df79faa709aaa9b1d7b848ac3f]
 
 (1) 29th June 2011 is the day appointed for the following provisions of the Wildlife and Natural Environment (Scotland) Act 2011 to come into force:—
 
@@ -71,7 +71,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (k) section 19 (amendments to Schedule 6 to the 1981 Act);
 - (l) section 25 (modifications and repeals relating to Part 2 and game licensing) and the schedule, but only in respect of—
   - (i) Part 1 of the schedule; and
-  - (ii)[^key-39d9cac3da5d7f74ad02c9b15d55ce00] the first to the thirteenth, the fifteenth to the eighteenth, and the last entry of Part 2 of the schedule;
+  - (ii)[^c-39d9cac3da5d7f74ad02c9b15d55ce00] the first to the thirteenth, the fifteenth to the eighteenth, and the last entry of Part 2 of the schedule;
 - (m) section 33 (protection of badgers);
 - (n) section 37 (combining sites of special scientific interest);
 - (o) section 38 (denotification of SSSIs: damage caused by authorised operations);
@@ -132,10 +132,10 @@ Sections 1, 42 and 43 of the Act came into force on Royal Assent (7th April 2011
 
 [^f00001]: Footnote: [2011 asp 6](https://www.legislation.gov.uk/asp/2011/6).
 
-[^key-3fbbf0a17892b02efbf855e28483ae73]: Commencement: Art. 1 in force at 29.6.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/279/article/1/1)
+[^c-3fbbf0a17892b02efbf855e28483ae73]: Commencement: Art. 1 in force at 29.6.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/279/article/1/1)
 
 [^f00002]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-9e2896df79faa709aaa9b1d7b848ac3f]: Commencement: Art. 2 in force at 29.6.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/279/article/1/1)
+[^c-9e2896df79faa709aaa9b1d7b848ac3f]: Commencement: Art. 2 in force at 29.6.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/279/article/1/1)
 
-[^key-39d9cac3da5d7f74ad02c9b15d55ce00]: Textual amendment: [Art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) substituted (29.6.2011) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Amendment Order 2011 (S.S.I. 2011/287)](https://www.legislation.gov.uk/ssi/2011/287), [arts. 1](https://www.legislation.gov.uk/ssi/2011/287/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/287/article/2/2)
+[^c-39d9cac3da5d7f74ad02c9b15d55ce00]: Textual amendment: [Art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) substituted (29.6.2011) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Amendment Order 2011 (S.S.I. 2011/287)](https://www.legislation.gov.uk/ssi/2011/287), [arts. 1](https://www.legislation.gov.uk/ssi/2011/287/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/287/article/2/2)

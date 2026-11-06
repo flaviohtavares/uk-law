@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Power to take remedial action[^key-b8f3ce51d9139a542e8400f60229d2cb]
+## 106. Power to take remedial action[^c-b8f3ce51d9139a542e8400f60229d2cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f3ce51d9139a542e8400f60229d2cb]: Commencement: S. 106 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-b8f3ce51d9139a542e8400f60229d2cb]: Commencement: S. 106 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

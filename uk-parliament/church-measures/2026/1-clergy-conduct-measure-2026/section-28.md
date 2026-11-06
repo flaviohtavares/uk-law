@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 28. Safeguarding issues arising during investigation[^key-f208ab3a25d2eb62ad019efebe66ded8]
+## 28. Safeguarding issues arising during investigation[^c-f208ab3a25d2eb62ad019efebe66ded8]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f208ab3a25d2eb62ad019efebe66ded8]: Commencement: S. 28 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-f208ab3a25d2eb62ad019efebe66ded8]: Commencement: S. 28 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

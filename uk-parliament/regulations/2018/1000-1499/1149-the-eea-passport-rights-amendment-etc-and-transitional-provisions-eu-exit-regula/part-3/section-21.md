@@ -23,7 +23,7 @@ summary: ''
 (1) In this Part—
 
 - “**the FCA**” means the Financial Conduct Authority;
-- “**home state regulator**” means the competent authority of an EEA state in relation to the person concerned; and “competent authority” is construed in accordance with the EU instrument by virtue of which, immediately before IP completion day[^key-6d5370a41db09fdef111925b1155f709], the person derived authorisation to carry on a regulated activity in the United Kingdom;
+- “**home state regulator**” means the competent authority of an EEA state in relation to the person concerned; and “competent authority” is construed in accordance with the EU instrument by virtue of which, immediately before IP completion day[^c-6d5370a41db09fdef111925b1155f709], the person derived authorisation to carry on a regulated activity in the United Kingdom;
 - “**the PRA**” means the Prudential Regulation Authority;
 - “**regulated activity**” has the same meaning as in section 22 of the 2000 Act [^c23428851].
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6d5370a41db09fdef111925b1155f709]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2018/1149/regulation/21) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(m)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/m)
+[^c-6d5370a41db09fdef111925b1155f709]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2018/1149/regulation/21) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(m)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/m)
 
 [^c23428851]: Marginal citation: Section 22 is amended by section 7(1) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
 

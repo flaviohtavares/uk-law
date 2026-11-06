@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Area support teams: administrative support by local authorities[^key-bec03085473670b3d50e682157599c02]
+## 89. Area support teams: administrative support by local authorities[^c-bec03085473670b3d50e682157599c02]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bec03085473670b3d50e682157599c02]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2014/8/section/89) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-bec03085473670b3d50e682157599c02]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2014/8/section/89) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

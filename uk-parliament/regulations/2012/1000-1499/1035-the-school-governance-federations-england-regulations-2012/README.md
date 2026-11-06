@@ -83,7 +83,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 19 — Co-opted governors](part-3/section-19.md)
 - [Section 20 — Associate members](part-3/section-20.md)
 
-### Part 3A[^key-97cc6e43dd78d3866e8f0e2a0e49b560]
+### Part 3A[^c-97cc6e43dd78d3866e8f0e2a0e49b560]
 
 - [Section 20A — Roles of the governing body and head teacher](part-3a/section-20a.md)
 
@@ -217,4 +217,4 @@ Part 9 sets out the proportion of governors and other requirements regarding an 
 
 [^f00002]: Footnote: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32)
 
-[^key-97cc6e43dd78d3866e8f0e2a0e49b560]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2012/1035/part/3A) inserted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))
+[^c-97cc6e43dd78d3866e8f0e2a0e49b560]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2012/1035/part/3A) inserted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))

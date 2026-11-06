@@ -32,7 +32,7 @@ summary: ''
 
 Infrastructure Planning
 
-The Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2012 (revoked)[^key-86575f649127e85645b197bd472ca2ae]
+The Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2012 (revoked)[^c-86575f649127e85645b197bd472ca2ae]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 13th April 2012
 
-[^key-86575f649127e85645b197bd472ca2ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86575f649127e85645b197bd472ca2ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-86575f649127e85645b197bd472ca2ae]
+## 1. Citation and commencement[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009[^key-86575f649127e85645b197bd472ca2ae]
+## 2. Amendment of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 3 – prohibition on granting consent without consideration of environmental information[^key-86575f649127e85645b197bd472ca2ae]
+## 3. Amendment to regulation 3 – prohibition on granting consent without consideration of environmental information[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 5 – when development is EIA development: directions by the Secretary of State[^key-86575f649127e85645b197bd472ca2ae]
+## 4. Amendment to regulation 5 – when development is EIA development: directions by the Secretary of State[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 6 – procedure for establishing whether environmental impact assessment is required[^key-86575f649127e85645b197bd472ca2ae]
+## 5. Amendment to regulation 6 – procedure for establishing whether environmental impact assessment is required[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 8 – application for a scoping opinion[^key-86575f649127e85645b197bd472ca2ae]
+## 6. Amendment to regulation 8 – application for a scoping opinion[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to regulation 14 –certifying compliance with regulation 13[^key-86575f649127e85645b197bd472ca2ae]
+## 7. Amendment to regulation 14 –certifying compliance with regulation 13[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to regulation 16 – accepted application – effect of screening opinion not taking account of all relevant information[^key-86575f649127e85645b197bd472ca2ae]
+## 8. Amendment to regulation 16 – accepted application – effect of screening opinion not taking account of all relevant information[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to regulation 17 – accepted application – effect of environmental statement being inadequate[^key-86575f649127e85645b197bd472ca2ae]
+## 9. Amendment to regulation 17 – accepted application – effect of environmental statement being inadequate[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment to regulation 18 – subsequent application for EIA development[^key-86575f649127e85645b197bd472ca2ae]
+## 10. Amendment to regulation 18 – subsequent application for EIA development[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Substitution of regulation 19 – subsequent application not complying with EIA requirements[^key-86575f649127e85645b197bd472ca2ae]
+## 11. Substitution of regulation 19 – subsequent application not complying with EIA requirements[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Substitution of regulation 20 – availability of copies of environmental statements[^key-86575f649127e85645b197bd472ca2ae]
+## 12. Substitution of regulation 20 – availability of copies of environmental statements[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment to Schedule 5 – certificates[^key-86575f649127e85645b197bd472ca2ae]
+## 13. Amendment to Schedule 5 – certificates[^c-86575f649127e85645b197bd472ca2ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86575f649127e85645b197bd472ca2ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86575f649127e85645b197bd472ca2ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-86575f649127e85645b197bd472ca2ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86575f649127e85645b197bd472ca2ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86575f649127e85645b197bd472ca2ae]: Textual amendment: Regulations revoked (16.5.2017) by [The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)](https://www.legislation.gov.uk/uksi/2017/572), regs. 1, [37(1)(c)](https://www.legislation.gov.uk/uksi/2017/572/regulation/37/1/c)
+[^c-86575f649127e85645b197bd472ca2ae]: Textual amendment: Regulations revoked (16.5.2017) by [The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)](https://www.legislation.gov.uk/uksi/2017/572), regs. 1, [37(1)(c)](https://www.legislation.gov.uk/uksi/2017/572/regulation/37/1/c)

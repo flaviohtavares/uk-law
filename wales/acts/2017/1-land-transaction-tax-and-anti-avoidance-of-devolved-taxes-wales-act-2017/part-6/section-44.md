@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Duty to make a return[^key-afd2f3f7a4dcea3c9c33819ae2b0fc7e]
+## 44. Duty to make a return[^c-afd2f3f7a4dcea3c9c33819ae2b0fc7e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afd2f3f7a4dcea3c9c33819ae2b0fc7e]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2017/1/section/44) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-afd2f3f7a4dcea3c9c33819ae2b0fc7e]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2017/1/section/44) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

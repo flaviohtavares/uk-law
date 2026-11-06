@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91B. Cooperation and the sharing of information: Wales[^key-9342633a21973f4e7202bdf0640b6ef8]
+## 91B. Cooperation and the sharing of information: Wales[^c-9342633a21973f4e7202bdf0640b6ef8]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9342633a21973f4e7202bdf0640b6ef8]: Textual amendment: S. 91B inserted (6.4.2024) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4), [Sch. 5 para. 56](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/56); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-9342633a21973f4e7202bdf0640b6ef8]: Textual amendment: S. 91B inserted (6.4.2024) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4), [Sch. 5 para. 56](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/56); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

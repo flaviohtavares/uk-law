@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Ways in which provision conferring rights on individuals may be made[^key-e6fb43490d5a9da4a311c5629708f403]
+## 39. Ways in which provision conferring rights on individuals may be made[^c-e6fb43490d5a9da4a311c5629708f403]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6fb43490d5a9da4a311c5629708f403]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2004/24/section/39) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)
+[^c-e6fb43490d5a9da4a311c5629708f403]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2004/24/section/39) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)

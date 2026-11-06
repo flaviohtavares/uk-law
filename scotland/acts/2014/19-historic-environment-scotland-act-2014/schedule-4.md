@@ -22,9 +22,9 @@ summary: ''
 
 (introduced by section 17)
 
-**1.**[^key-332eab52a7cc040890318615506dec33] The Marine (Scotland) Act 2010 (asp 5) is amended as follows.
+**1.**[^c-332eab52a7cc040890318615506dec33] The Marine (Scotland) Act 2010 (asp 5) is amended as follows.
 
-**2.**[^key-fd7cb21bde8307ce76df6c2c47eb8f4d] After section 80 (advice etc. by Scottish Natural Heritage) insert—
+**2.**[^c-fd7cb21bde8307ce76df6c2c47eb8f4d] After section 80 (advice etc. by Scottish Natural Heritage) insert—
 
 > **80A. Advice etc. by Historic Environment Scotland as regards Historic MPAs**
 >
@@ -43,7 +43,7 @@ summary: ''
 
 .
 
-**3.**[^key-93862a992836cfe6ea200d4cde03786b] In section 82 (duties of public authorities in relation to marine protected areas etc.)—
+**3.**[^c-93862a992836cfe6ea200d4cde03786b] In section 82 (duties of public authorities in relation to marine protected areas etc.)—
 
 - (a) in subsection (3) after “Heritage” insert “ or Historic Environment Scotland ”,
 - (b) in subsection (5) after “Heritage” insert “ or Historic Environment Scotland ”,
@@ -63,7 +63,7 @@ summary: ''
 
     .
 
-**4.**[^key-8f1ac7fe8ab4e80e030cc3eed3f3bb35] In section 83 (duties of public authorities in relation to certain decisions)—
+**4.**[^c-8f1ac7fe8ab4e80e030cc3eed3f3bb35] In section 83 (duties of public authorities in relation to certain decisions)—
 
 - (a) in subsection (2) after “Heritage” insert “ or Historic Environment Scotland ”,
 - (b) in subsection (8) after “80” insert “ , by Historic Environment Scotland under section 80A ”,
@@ -75,7 +75,7 @@ summary: ''
 
     .
 
-**5.**[^key-ac8ffc24b2499b454e481b57eb5de20a] In section 84 (failure to comply with duties) after subsection (3) insert—
+**5.**[^c-ac8ffc24b2499b454e481b57eb5de20a] In section 84 (failure to comply with duties) after subsection (3) insert—
 
 > (3A) In relation to a Historic MPA if, in the opinion of Historic Environment Scotland, a public authority has failed—
 >
@@ -95,12 +95,12 @@ summary: ''
 
 ## Annotations
 
-[^key-332eab52a7cc040890318615506dec33]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/1) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-332eab52a7cc040890318615506dec33]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/1) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-fd7cb21bde8307ce76df6c2c47eb8f4d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/2) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-fd7cb21bde8307ce76df6c2c47eb8f4d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/2) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-93862a992836cfe6ea200d4cde03786b]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/3) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-93862a992836cfe6ea200d4cde03786b]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/3) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-8f1ac7fe8ab4e80e030cc3eed3f3bb35]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/4) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-8f1ac7fe8ab4e80e030cc3eed3f3bb35]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/4) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-ac8ffc24b2499b454e481b57eb5de20a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/5) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-ac8ffc24b2499b454e481b57eb5de20a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/5) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

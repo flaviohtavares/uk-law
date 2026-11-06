@@ -36,13 +36,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Scottish landfill tax
 
-### 1. The tax[^key-9a9235a5cf0e85d678540738b7ed8f5f]
+### 1. The tax[^c-9a9235a5cf0e85d678540738b7ed8f5f]
 
 (1) A tax (to be known as Scottish landfill tax) is to be charged in accordance with this Act.
 
 (2) The Tax Authority is to be responsible for the collection and management of the tax.
 
-### 2. Overview[^key-cfe97623c72d86848c47b44bfc0ab72b]
+### 2. Overview[^c-cfe97623c72d86848c47b44bfc0ab72b]
 
 This Act is arranged as follows—
 
@@ -60,7 +60,7 @@ This Act is arranged as follows—
 
 ### Taxable disposals
 
-#### 3. Charge to tax[^key-582e8de292391e21a9fa255f38832fe1]
+#### 3. Charge to tax[^c-582e8de292391e21a9fa255f38832fe1]
 
 (1) Tax is to be charged on a taxable disposal made in Scotland.
 
@@ -72,7 +72,7 @@ This Act is arranged as follows—
 
 (3) For the purposes of subsection (2)(c), a disposal is made at a landfill site if the land on or under which it is made constitutes or falls within land which is a landfill site at the time of the disposal.
 
-#### 4. Disposal of material as waste[^key-4600468d57bcc2efb16ec89928bc9928]
+#### 4. Disposal of material as waste[^c-4600468d57bcc2efb16ec89928bc9928]
 
 (1) A disposal of material is a disposal of it as waste if the person making the disposal does so with the intention of discarding the material.
 
@@ -85,7 +85,7 @@ This Act is arranged as follows—
 - (a) at the request of another person,
 - (b) in pursuance of a contract with another person.
 
-#### 5. Disposal by way of landfill[^key-824f73ace0bac2f96b4bdd1289da59a2][^key-58a290253c7d8c023dcb7eb69a03ee19]
+#### 5. Disposal by way of landfill[^c-824f73ace0bac2f96b4bdd1289da59a2][^c-58a290253c7d8c023dcb7eb69a03ee19]
 
 (1) A disposal of material is a disposal of it by way of landfill if—
 
@@ -109,7 +109,7 @@ This Act is arranged as follows—
 
 (8) In this section, “**earth**” includes similar matter (such as sand or rocks).
 
-#### 6. Prescribed landfill site activities to be treated as disposals[^key-8262bb94cf5fabe0ebf82af7df9e77cf][^key-f651f455b2539b85117e59af6fde25f7]
+#### 6. Prescribed landfill site activities to be treated as disposals[^c-8262bb94cf5fabe0ebf82af7df9e77cf][^c-f651f455b2539b85117e59af6fde25f7]
 
 (1) The Scottish Ministers may, by order, prescribe a landfill site activity for the purposes of this section.
 
@@ -144,7 +144,7 @@ This Act is arranged as follows—
 
 ### Exemptions
 
-#### 7. Material removed from water[^key-b6574c1e25d3158e183973bebc18052f]
+#### 7. Material removed from water[^c-b6574c1e25d3158e183973bebc18052f]
 
 (1) A disposal is not a taxable disposal for the purposes of this Act if it is shown to the satisfaction of the Tax Authority that the disposal is of material all of which—
 
@@ -169,7 +169,7 @@ This Act is arranged as follows—
 
 (5) A disposal is not a taxable disposal for the purposes of this Act if it is shown to the satisfaction of the Tax Authority that the disposal is of material all of which comprises material falling within subsection (1) or (3) and other material which has been added to that material for the purpose of securing that it is not liquid waste.
 
-#### 8. Material resulting from mining and quarrying[^key-6c576f342d78f70a247059fe32a6c8cc]
+#### 8. Material resulting from mining and quarrying[^c-6c576f342d78f70a247059fe32a6c8cc]
 
 (1) A disposal is not a taxable disposal for the purposes of this Act if it is shown to the satisfaction of the Tax Authority that the disposal is of material all of which fulfils each of the conditions set out in subsection (2).
 
@@ -184,7 +184,7 @@ This Act is arranged as follows—
 - (a) a process separate from the mining or quarrying operations, or
 - (b) a process forming part of those operations and permanently altering the material's chemical composition.
 
-#### 9. Disposal of qualifying material at former quarries[^key-31af10adf81625cfb537ba8ab646914d]
+#### 9. Disposal of qualifying material at former quarries[^c-31af10adf81625cfb537ba8ab646914d]
 
 (1) A disposal is not a taxable disposal for the purposes of this Act if it is—
 
@@ -217,7 +217,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 - (d) a time limit for appeal against refusal expires without an appeal having been commenced, or
 - (e) an appeal against refusal is dismissed or withdrawn and there is no further right of appeal.
 
-#### 10. Pet cemeteries[^key-83fb1ee0441b768201c1f47ee953e232]
+#### 10. Pet cemeteries[^c-83fb1ee0441b768201c1f47ee953e232]
 
 (1) A disposal is not a taxable disposal for the purposes of this Act if—
 
@@ -236,7 +236,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 
 ### Power to vary what is a taxable disposal
 
-#### 11. Taxable disposals: power to vary[^key-9e37a8aec9b65a606d87b08e95ff2293]
+#### 11. Taxable disposals: power to vary[^c-9e37a8aec9b65a606d87b08e95ff2293]
 
 (1) The Scottish Ministers may, by order, make provision to produce the result that—
 
@@ -252,7 +252,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 
 ### Landfill sites and operators of landfill sites
 
-#### 12. Landfill sites and operators of landfill sites[^key-6b8cc75b6303df16b665e9d0595e74c8]
+#### 12. Landfill sites and operators of landfill sites[^c-6b8cc75b6303df16b665e9d0595e74c8]
 
 (1) Land is a landfill site at a given time if at that time an authorisation is in force in relation to the land and authorises disposals on or under the land.
 
@@ -268,7 +268,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 
 ### Calculation of tax
 
-#### 13. Amount of tax[^key-3401c6d441482783dc1311b5292ada3b][^key-07582a14a4e6f10da0c186e9a27766a4]
+#### 13. Amount of tax[^c-3401c6d441482783dc1311b5292ada3b][^c-07582a14a4e6f10da0c186e9a27766a4]
 
 (1) The amount of tax charged on a taxable disposal is to be found by multiplying the standard rate by the weight in tonnes of the material disposed of.
 
@@ -294,7 +294,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 - (a) the criteria (or revised criteria) published under subsection (7)(d), and
 - (b) any other factors they consider relevant.
 
-#### 14. Qualifying material: special provisions[^key-c1ac5d50c8c2dd0a43d955543d875fe9][^key-54c501ac9fecead85977b370e5604246]
+#### 14. Qualifying material: special provisions[^c-c1ac5d50c8c2dd0a43d955543d875fe9][^c-54c501ac9fecead85977b370e5604246]
 
 (1) This section applies for the purposes of section 13.
 
@@ -318,7 +318,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 
 (8) A condition specified under subsection (7) may relate to any matter the Scottish Ministers think fit (such as the production of a document which includes a statement of the nature of the material).
 
-#### 15. Weight of material disposed of[^key-ca2e002a990b6456e76b74664a91d41d][^key-4c00c04bcc1b429ed91cdec73de3e440]
+#### 15. Weight of material disposed of[^c-ca2e002a990b6456e76b74664a91d41d][^c-4c00c04bcc1b429ed91cdec73de3e440]
 
 (1) The weight of material disposed of on a taxable disposal is to be determined in accordance with regulations made by the Scottish Ministers.
 
@@ -326,7 +326,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 
 - (a) specify rules for determining the weight,
 - (b) authorise rules for determining the weight to be specified by the Tax Authority in a manner set out in the regulations,
-- (c) authorise rules for determining the weight to be agreed by the person liable to pay the tax and a designated officer[^key-29c64895a4a3f6dd631bf964d0fc7687].
+- (c) authorise rules for determining the weight to be agreed by the person liable to pay the tax and a designated officer[^c-29c64895a4a3f6dd631bf964d0fc7687].
 
 (3) The regulations may, in particular, specify, or authorise the specification or agreement of, rules about—
 
@@ -339,7 +339,7 @@ the requirement referred to in subsection (2)(b) must have been imposed on or be
 - (a) that it is to have effect only in relation to disposals of such descriptions as may be set out in the specification,
 - (b) that it is not to have effect in relation to particular disposals unless the Tax Authority is satisfied that such conditions as may be set out in the specification are met in relation to the disposals,
 
-and the conditions may be framed by reference to such factors as the Tax Authority thinks fit (such as the consent of a designated officer[^key-16aae26a31189ad9c8a9b7d97620cc3d] to the specification having effect in relation to disposals).
+and the conditions may be framed by reference to such factors as the Tax Authority thinks fit (such as the consent of a designated officer[^c-16aae26a31189ad9c8a9b7d97620cc3d] to the specification having effect in relation to disposals).
 
 (5) The regulations may include provision that—
 
@@ -355,11 +355,11 @@ the Tax Authority may direct that the agreed rules are no longer to have effect.
 
 the weight is to be determined in accordance with rules specified in the regulations.
 
-(7)[^key-6b0a11f8cfad88f963dc70877c992a78] The regulations may include provision for penalties where a person fails to comply with a requirement imposed by or under the regulations.
+(7)[^c-6b0a11f8cfad88f963dc70877c992a78] The regulations may include provision for penalties where a person fails to comply with a requirement imposed by or under the regulations.
 
 ### Persons liable to pay tax
 
-#### 16. Liability to pay tax[^key-34a1216018bad68dfd484d8b7e691b01]
+#### 16. Liability to pay tax[^c-34a1216018bad68dfd484d8b7e691b01]
 
 (1) The person liable to pay the tax charged on a taxable disposal made at an authorised landfill site is the landfill site operator.
 
@@ -377,7 +377,7 @@ the weight is to be determined in accordance with rules specified in the regulat
 - (a) an “authorised landfill site” is land referred to in section 12(1),
 - (b) an “unauthorised landfill site” is land referred to in section 12(3).
 
-#### 17. Liability of controllers of landfill sites[^key-e42963c079aec93907645a5b2b585ce7][^key-d5a251408b95af9e6e1b9547b3e459b7]
+#### 17. Liability of controllers of landfill sites[^c-e42963c079aec93907645a5b2b585ce7][^c-d5a251408b95af9e6e1b9547b3e459b7]
 
 (1) The Scottish Ministers may, by regulations, make provision about the liability of controllers of landfill sites to pay the tax.
 
@@ -402,7 +402,7 @@ the weight is to be determined in accordance with rules specified in the regulat
 
 ### Credit
 
-#### 18. Credit: general[^key-b89909e2bc4f043e7a33bc09c9347e33]
+#### 18. Credit: general[^c-b89909e2bc4f043e7a33bc09c9347e33]
 
 (1) The Scottish Ministers may, by regulations, provide that where—
 
@@ -432,11 +432,11 @@ the person is to be entitled to credit of such an amount as is found in accordan
 
 (6) The regulations may require a claim by a person to be made in a return required by provision made under section 25.
 
-(6A)[^key-9e3add5c583d306cc8859349dd19b7c7] The regulations may provide for section 107 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) to apply (with or without modifications) to a claim under this section by a person who has ceased to be registrable as it applies to a claim under that section.
+(6A)[^c-9e3add5c583d306cc8859349dd19b7c7] The regulations may provide for section 107 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) to apply (with or without modifications) to a claim under this section by a person who has ceased to be registrable as it applies to a claim under that section.
 
 (7) Nothing in section 19 or 20 is to be taken to derogate from the power to make regulations under this section (whether with regard to bad debts, the environment or any other matter).
 
-#### 19. Credit: bad debts[^key-540e32211deca1422b95fd24d1756083]
+#### 19. Credit: bad debts[^c-540e32211deca1422b95fd24d1756083]
 
 (1) Regulations may be made under section 18 with a view to securing that a person is entitled to credit if—
 
@@ -447,7 +447,7 @@ the person is to be entitled to credit of such an amount as is found in accordan
 
 (3) The regulations may include provision for determining whether, and to what extent, a debt is to be taken to be bad.
 
-#### 20. Credit: bodies concerned with the environment[^key-91e73e41a1836406e0ba19aaf4f505cd]
+#### 20. Credit: bodies concerned with the environment[^c-91e73e41a1836406e0ba19aaf4f505cd]
 
 (1) Regulations may be made under section 18 with a view to securing that a person is entitled to credit if—
 
@@ -479,7 +479,7 @@ the person is to be entitled to credit of such an amount as is found in accordan
 
 ### Taxable activities
 
-#### 21. Taxable activities[^key-2e336faa8c12bfd0ca197c79bab5b916]
+#### 21. Taxable activities[^c-2e336faa8c12bfd0ca197c79bab5b916]
 
 (1) A person (P) carries out a taxable activity if—
 
@@ -495,7 +495,7 @@ the person is, for the purposes of this section, to be taken to permit the dispo
 
 ### Registration
 
-#### 22. Registration[^key-96383ad5dbd4c3f92765c6e21bd52c4e]
+#### 22. Registration[^c-96383ad5dbd4c3f92765c6e21bd52c4e]
 
 (1) The Tax Authority must keep a register containing such information as the Tax Authority thinks is required for the purposes of the collection and management of the tax.
 
@@ -539,7 +539,7 @@ the Tax Authority must cancel the person's registration with effect from the tim
 (9) For the purposes of this section, the Scottish Ministers may, by regulations, make provision—
 
 - (a) as to the time within which a notification is to be made,
-- (b)[^key-4dab498b884807786a99243628ee7c75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4dab498b884807786a99243628ee7c75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) requiring a person who has made a notification to notify the Tax Authority if any information contained in or provided in connection with the notification is or becomes inaccurate,
 - (d) as to the correction of entries in the register.
 
@@ -548,7 +548,7 @@ the Tax Authority must cancel the person's registration with effect from the tim
 - (a) is registered under this section, or
 - (b) is liable to be registered under this section.
 
-#### 23. Information required to keep register up to date[^key-d6f7732a13fa426653f78c254a5af391]
+#### 23. Information required to keep register up to date[^c-d6f7732a13fa426653f78c254a5af391]
 
 (1) The Scottish Ministers may, by regulations, make provision requiring a registrable person to notify the Tax Authority of particulars of changes in circumstances relating to the registrable person (or any business carried on by the registrable person) which—
 
@@ -558,10 +558,10 @@ the Tax Authority must cancel the person's registration with effect from the tim
 (2) The regulations may, in particular, make provision—
 
 - (a) as to the time within which a notification is to be made,
-- (b)[^key-2c39efc5d9a6d8fbe1226ba378a19515] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2c39efc5d9a6d8fbe1226ba378a19515] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) requiring a person who has made a notification to notify the Tax Authority if any information contained in or provided in connection with the notification is or becomes inaccurate.
 
-#### 24. Publication of the register[^key-5d469887395c2960690617cc23ff7fcb]
+#### 24. Publication of the register[^c-5d469887395c2960690617cc23ff7fcb]
 
 (1) The Tax Authority may publish, by such means as it thinks fit, information which—
 
@@ -581,15 +581,15 @@ the Tax Authority must cancel the person's registration with effect from the tim
 
 ### Accounting for tax
 
-#### 25. Accounting for tax and time for payment[^key-5ad22b5fa1d4e2330ec0762760282141]
+#### 25. Accounting for tax and time for payment[^c-5ad22b5fa1d4e2330ec0762760282141]
 
 The Scottish Ministers may, by regulations, provide that a registrable person must—
 
 - (a) account for tax by reference to such periods (“accounting periods”) as may be determined by or under the regulations,
-- (b)[^key-8e555b424b32e2f01e452a70d5ea65a2] make returns in relation to such accounting periods,
+- (b)[^c-8e555b424b32e2f01e452a70d5ea65a2] make returns in relation to such accounting periods,
 - (c) pay tax at such times and in such manner as may be so determined.
 
-#### 25A. Form and content of returns[^key-75668630ce2d95f546799eb985520122]
+#### 25A. Form and content of returns[^c-75668630ce2d95f546799eb985520122]
 
 (1) A return under this Act must—
 
@@ -615,13 +615,13 @@ The Scottish Ministers may, by regulations, provide that a registrable person mu
 
 ### Time of disposal where invoice issued
 
-#### 26. Time of disposal where invoice issued[^key-05f61e5355fc03957236b543dda3dc86][^key-3bf177ec5d9a2d32925023439c542e98]
+#### 26. Time of disposal where invoice issued[^c-05f61e5355fc03957236b543dda3dc86][^c-3bf177ec5d9a2d32925023439c542e98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adjustment of contracts
 
-#### 27. Adjustment of contracts[^key-7422d9379b64bc2f776d74d42e83eb48]
+#### 27. Adjustment of contracts[^c-7422d9379b64bc2f776d74d42e83eb48]
 
 (1) This section applies where—
 
@@ -644,19 +644,19 @@ The Scottish Ministers may, by regulations, provide that a registrable person mu
 
 ### Evidence about tax status
 
-#### 28. Evidence about tax status[^key-d6f6a0f1333c60bf21398d66bea60a79][^key-d2fdcfb624da3f84cf273f26811308a7]
+#### 28. Evidence about tax status[^c-d6f6a0f1333c60bf21398d66bea60a79][^c-d2fdcfb624da3f84cf273f26811308a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Recovery of overpaid tax
 
-#### 29. Recovery of overpaid tax[^key-1ed18a8d552c3a412760869926d95cf3][^key-0a2f5bf8a85190fa6d20c01d054641e8]
+#### 29. Recovery of overpaid tax[^c-1ed18a8d552c3a412760869926d95cf3][^c-0a2f5bf8a85190fa6d20c01d054641e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Information
 
-#### 30. Information: material at landfill sites[^key-45860a47a20f8486d2ce31d1034b5ee1]
+#### 30. Information: material at landfill sites[^c-45860a47a20f8486d2ce31d1034b5ee1]
 
 (1) The Scottish Ministers may, by regulations, make provision about giving the Tax Authority information relating to material at a landfill site or part of a landfill site.
 
@@ -664,19 +664,19 @@ The Scottish Ministers may, by regulations, provide that a registrable person mu
 
 (3) The regulations may—
 
-- (a) require a person, or authorise a designated officer[^key-717bf97461c8f2c9214877cc10948522] to require a person, to designate a part of a landfill site (a “non-disposal area”), and
+- (a) require a person, or authorise a designated officer[^c-717bf97461c8f2c9214877cc10948522] to require a person, to designate a part of a landfill site (a “non-disposal area”), and
 - (b) require material, or descriptions of material specified in the regulations, to be deposited in a non-disposal area.
 
 (4) The regulations may make provision about information relating to what is done with material.
 
 (5) Subsections (2) to (4) do not prejudice the generality of subsection (1).
 
-#### 31. Information: site restoration[^key-0f46ad3fd43629bf9eb61cf4d8fae051]
+#### 31. Information: site restoration[^c-0f46ad3fd43629bf9eb61cf4d8fae051]
 
 (1) Before commencing restoration of all or part of a landfill site, the operator of the site must—
 
-- (a) notify the Tax Authority [^key-4e56a86b6a74c07114ffcf1cdd748c6a]... that the restoration is to commence, and
-- (b) provide such other [^key-7d0a340db3e3928844ac57dbdcf6860c]... information as the Tax Authority may require.
+- (a) notify the Tax Authority [^c-4e56a86b6a74c07114ffcf1cdd748c6a]... that the restoration is to commence, and
+- (b) provide such other [^c-7d0a340db3e3928844ac57dbdcf6860c]... information as the Tax Authority may require.
 
 (2) In this section “**restoration**” means work, other than capping waste, which is required by a relevant instrument to be carried out to restore a landfill site to use on completion of waste disposal operations.
 
@@ -687,11 +687,11 @@ The Scottish Ministers may, by regulations, provide that a registrable person mu
 
 ### Record keeping
 
-#### 32. Records: registrable persons[^key-979bee2ec63356bad560225e2105e246][^key-34e9b1ab984286502ee5a721cc1b4460]
+#### 32. Records: registrable persons[^c-979bee2ec63356bad560225e2105e246][^c-34e9b1ab984286502ee5a721cc1b4460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Records: material at landfill sites[^key-9f027e6d10470b3f43b6cf75255eb3fe][^key-e1093371d45a30a2c7eb409ff20bac8d]
+#### 33. Records: material at landfill sites[^c-9f027e6d10470b3f43b6cf75255eb3fe][^c-e1093371d45a30a2c7eb409ff20bac8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -701,21 +701,21 @@ The Scottish Ministers may, by regulations, provide that a registrable person mu
 
 #### 34. The Tax Authority
 
-(1) For the purposes of this Act, the Tax Authority is Revenue Scotland[^key-de6badfe5cab0da09ae9ecd57db6312f].
+(1) For the purposes of this Act, the Tax Authority is Revenue Scotland[^c-de6badfe5cab0da09ae9ecd57db6312f].
 
-(2)[^key-1ff79c91b2ca8326c336628571b6d266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ff79c91b2ca8326c336628571b6d266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Delegation of functions to SEPA[^key-7c22e9fba31772788a629fefeb5d65d6]
+#### 35. Delegation of functions to SEPA[^c-7c22e9fba31772788a629fefeb5d65d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 36. Review and appeal[^key-f9e82c27e4445a1820d5e0fcc0dda683][^key-dcedb060d6be324aafcaf1cd8538ad63]
+#### 36. Review and appeal[^c-f9e82c27e4445a1820d5e0fcc0dda683][^c-dcedb060d6be324aafcaf1cd8538ad63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Application of Act to partnerships, groups of companies etc.
 
-#### 37. Partnership, bankruptcy, transfer of business etc.[^key-32743f4e86e3c44cbb5adb922347a9b6][^key-67c8fcc20a78d467532dd20e4bb7059c]
+#### 37. Partnership, bankruptcy, transfer of business etc.[^c-32743f4e86e3c44cbb5adb922347a9b6][^c-67c8fcc20a78d467532dd20e4bb7059c]
 
 (1) As regards any case where a business is carried on in partnership or by an unincorporated body, the Scottish Ministers may, by regulations, make provision for determining by what persons anything required by this Act to be done by a person is to be done.
 
@@ -739,7 +739,7 @@ The Scottish Ministers may, by regulations, provide that a registrable person mu
 
 (7) Regulations under subsection (5) may, in particular, provide that no such provision as is mentioned in subsection (6)(b) or (c) is to have effect in relation to any transferor and transferee unless an application to that effect has been made by them under the regulations.
 
-#### 38. Groups of companies[^key-9489587404c7b870c301f5123cb9c0ab]
+#### 38. Groups of companies[^c-9489587404c7b870c301f5123cb9c0ab]
 
 (1) Where any bodies corporate are treated as members of a group by virtue of this section, for the purposes of this Act—
 
@@ -801,13 +801,13 @@ the Tax Authority must, by notice given to that person, terminate that treatment
 
 ### Interpretation
 
-#### 39. Interpretation[^key-d8637c5e04305bd049933bbc86d4a8e3]
+#### 39. Interpretation[^c-d8637c5e04305bd049933bbc86d4a8e3]
 
 In this Act—
 
 - “**accounting period**” is to be construed in accordance with section 25,
 - “**authorisation**” means an authorisation under regulations under section 18 of the Regulatory Reform (Scotland) Act 2014,
-- “[^key-302759b7feac5c0976afcff4c5f0a3b4]**material**” means material of all kinds, including objects, substances and products of all kinds,
+- “[^c-302759b7feac5c0976afcff4c5f0a3b4]**material**” means material of all kinds, including objects, substances and products of all kinds,
 - “**operator**” has the meaning given by section 12(2),
 - “**planning permission**” has the meaning given by section 277 of the Town and Country Planning (Scotland) Act 1997,
 - “**registrable person**” has the meaning given by section 22(10),
@@ -840,9 +840,9 @@ In this Act—
 
 - (a) section 11(1),
 - (b) the first order under section 13(2) or (5),
-- (ba)[^key-126a72b6817d270a00483ae7900dd270] regulations under section 15 which make provision of the type mentioned in section 15(7),
+- (ba)[^c-126a72b6817d270a00483ae7900dd270] regulations under section 15 which make provision of the type mentioned in section 15(7),
 - (c) section 17(1),
-- (d)[^key-e532e5f072c7b7fc30fcf6839203bc92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e532e5f072c7b7fc30fcf6839203bc92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An order mentioned in subsection (4)—
 
@@ -871,7 +871,7 @@ In this Act—
 
 - (a) section 5(5) (except an order mentioned in subsection (4)(a)),
 - (b) section 6(1) (except an order mentioned in subsection (4)(b)),
-- (c)[^key-31eed7983abe509af4aa29b74dd833b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-31eed7983abe509af4aa29b74dd833b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   , and
 - (d) section 40(1).
@@ -890,7 +890,7 @@ Nothing in this Act affects Her Majesty in Her private capacity.
 
 #### 43. Commencement
 
-(1) This section and sections 34, [^key-27efcb471b01f4a984d4ee7a7858c867]... 40, 41, 42 and 44 come into force on the day of Royal Assent.
+(1) This section and sections 34, [^c-27efcb471b01f4a984d4ee7a7858c867]... 40, 41, 42 and 44 come into force on the day of Royal Assent.
 
 (2) The other provisions of this Act come into force on such day as the Scottish Ministers may, by order, appoint.
 
@@ -902,140 +902,140 @@ The short title of this Act is the Landfill Tax (Scotland) Act 2014.
 
 ## Annotations
 
-[^key-9a9235a5cf0e85d678540738b7ed8f5f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/2/section/1) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-9a9235a5cf0e85d678540738b7ed8f5f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/2/section/1) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-cfe97623c72d86848c47b44bfc0ab72b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/2/section/2) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-cfe97623c72d86848c47b44bfc0ab72b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/2/section/2) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-582e8de292391e21a9fa255f38832fe1]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/2/section/3) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-582e8de292391e21a9fa255f38832fe1]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/2/section/3) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-4600468d57bcc2efb16ec89928bc9928]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/2/section/4) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-4600468d57bcc2efb16ec89928bc9928]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/2/section/4) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-824f73ace0bac2f96b4bdd1289da59a2]: Commencement: S. 5 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-824f73ace0bac2f96b4bdd1289da59a2]: Commencement: S. 5 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-58a290253c7d8c023dcb7eb69a03ee19]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/2/section/5) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-58a290253c7d8c023dcb7eb69a03ee19]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/2/section/5) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-8262bb94cf5fabe0ebf82af7df9e77cf]: Commencement: S. 6 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-8262bb94cf5fabe0ebf82af7df9e77cf]: Commencement: S. 6 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-f651f455b2539b85117e59af6fde25f7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/2/section/6) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-f651f455b2539b85117e59af6fde25f7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/2/section/6) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-b6574c1e25d3158e183973bebc18052f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/2/section/7) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-b6574c1e25d3158e183973bebc18052f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/2/section/7) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-6c576f342d78f70a247059fe32a6c8cc]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/2/section/8) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-6c576f342d78f70a247059fe32a6c8cc]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/2/section/8) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-31af10adf81625cfb537ba8ab646914d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/2/section/9) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-31af10adf81625cfb537ba8ab646914d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/2/section/9) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-83fb1ee0441b768201c1f47ee953e232]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/2/section/10) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-83fb1ee0441b768201c1f47ee953e232]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/2/section/10) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-9e37a8aec9b65a606d87b08e95ff2293]: Commencement: S. 11 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-9e37a8aec9b65a606d87b08e95ff2293]: Commencement: S. 11 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-6b8cc75b6303df16b665e9d0595e74c8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/2/section/12) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/109/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2015/109/article/3/2))
+[^c-6b8cc75b6303df16b665e9d0595e74c8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/2/section/12) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/109/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2015/109/article/3/2))
 
-[^key-3401c6d441482783dc1311b5292ada3b]: Commencement: S. 13 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-3401c6d441482783dc1311b5292ada3b]: Commencement: S. 13 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-07582a14a4e6f10da0c186e9a27766a4]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/2/section/13) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-07582a14a4e6f10da0c186e9a27766a4]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/2/section/13) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-c1ac5d50c8c2dd0a43d955543d875fe9]: Commencement: S. 14 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-c1ac5d50c8c2dd0a43d955543d875fe9]: Commencement: S. 14 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-54c501ac9fecead85977b370e5604246]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/2/section/14) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-54c501ac9fecead85977b370e5604246]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/2/section/14) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-ca2e002a990b6456e76b74664a91d41d]: Commencement: S. 15 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-ca2e002a990b6456e76b74664a91d41d]: Commencement: S. 15 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-4c00c04bcc1b429ed91cdec73de3e440]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/2/section/15) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-4c00c04bcc1b429ed91cdec73de3e440]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/2/section/15) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-29c64895a4a3f6dd631bf964d0fc7687]: Textual amendment: Words in [s. 15(2)(c)](https://www.legislation.gov.uk/asp/2014/2/section/15/2/c) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(2)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/2/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-29c64895a4a3f6dd631bf964d0fc7687]: Textual amendment: Words in [s. 15(2)(c)](https://www.legislation.gov.uk/asp/2014/2/section/15/2/c) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(2)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/2/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-16aae26a31189ad9c8a9b7d97620cc3d]: Textual amendment: Words in [s. 15(4)](https://www.legislation.gov.uk/asp/2014/2/section/15/4) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(2)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/2/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-16aae26a31189ad9c8a9b7d97620cc3d]: Textual amendment: Words in [s. 15(4)](https://www.legislation.gov.uk/asp/2014/2/section/15/4) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(2)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/2/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-6b0a11f8cfad88f963dc70877c992a78]: Textual amendment: [S. 15(7)](https://www.legislation.gov.uk/asp/2014/2/section/15/7) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(2)(c)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/2/c) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-6b0a11f8cfad88f963dc70877c992a78]: Textual amendment: [S. 15(7)](https://www.legislation.gov.uk/asp/2014/2/section/15/7) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(2)(c)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/2/c) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-34a1216018bad68dfd484d8b7e691b01]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/2/section/16) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-34a1216018bad68dfd484d8b7e691b01]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/2/section/16) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-e42963c079aec93907645a5b2b585ce7]: Commencement: S. 17 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-e42963c079aec93907645a5b2b585ce7]: Commencement: S. 17 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-d5a251408b95af9e6e1b9547b3e459b7]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/2/section/17) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-d5a251408b95af9e6e1b9547b3e459b7]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/2/section/17) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-b89909e2bc4f043e7a33bc09c9347e33]: Commencement: S. 18 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-b89909e2bc4f043e7a33bc09c9347e33]: Commencement: S. 18 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-9e3add5c583d306cc8859349dd19b7c7]: Textual amendment: [S. 18(6A)](https://www.legislation.gov.uk/asp/2014/2/section/18/6A) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/3) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-9e3add5c583d306cc8859349dd19b7c7]: Textual amendment: [S. 18(6A)](https://www.legislation.gov.uk/asp/2014/2/section/18/6A) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/3) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-540e32211deca1422b95fd24d1756083]: Commencement: S. 19 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-540e32211deca1422b95fd24d1756083]: Commencement: S. 19 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-91e73e41a1836406e0ba19aaf4f505cd]: Commencement: S. 20 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-91e73e41a1836406e0ba19aaf4f505cd]: Commencement: S. 20 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-2e336faa8c12bfd0ca197c79bab5b916]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/2/section/21) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-2e336faa8c12bfd0ca197c79bab5b916]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/2/section/21) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-96383ad5dbd4c3f92765c6e21bd52c4e]: Commencement: S. 22 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-96383ad5dbd4c3f92765c6e21bd52c4e]: Commencement: S. 22 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-4dab498b884807786a99243628ee7c75]: Textual amendment: [S. 22(9)(b)](https://www.legislation.gov.uk/asp/2014/2/section/22/9/b) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/4) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-4dab498b884807786a99243628ee7c75]: Textual amendment: [S. 22(9)(b)](https://www.legislation.gov.uk/asp/2014/2/section/22/9/b) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/4) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-d6f7732a13fa426653f78c254a5af391]: Commencement: S. 23 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-d6f7732a13fa426653f78c254a5af391]: Commencement: S. 23 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-2c39efc5d9a6d8fbe1226ba378a19515]: Textual amendment: [S. 23(2)(b)](https://www.legislation.gov.uk/asp/2014/2/section/23/2/b) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(5)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/5) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-2c39efc5d9a6d8fbe1226ba378a19515]: Textual amendment: [S. 23(2)(b)](https://www.legislation.gov.uk/asp/2014/2/section/23/2/b) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(5)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/5) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-5d469887395c2960690617cc23ff7fcb]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/2/section/24) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-5d469887395c2960690617cc23ff7fcb]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/2/section/24) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-5ad22b5fa1d4e2330ec0762760282141]: Commencement: S. 25 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-5ad22b5fa1d4e2330ec0762760282141]: Commencement: S. 25 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-8e555b424b32e2f01e452a70d5ea65a2]: Textual amendment: [S. 25(b)](https://www.legislation.gov.uk/asp/2014/2/section/25/b) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(6)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/6) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-8e555b424b32e2f01e452a70d5ea65a2]: Textual amendment: [S. 25(b)](https://www.legislation.gov.uk/asp/2014/2/section/25/b) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(6)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/6) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-75668630ce2d95f546799eb985520122]: Textual amendment: Ss. 25A, 25B inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(7)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/7) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-75668630ce2d95f546799eb985520122]: Textual amendment: Ss. 25A, 25B inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(7)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/7) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-05f61e5355fc03957236b543dda3dc86]: Textual amendment: [S. 26](https://www.legislation.gov.uk/asp/2014/2/section/26) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(8)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/8) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-05f61e5355fc03957236b543dda3dc86]: Textual amendment: [S. 26](https://www.legislation.gov.uk/asp/2014/2/section/26) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(8)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/8) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-3bf177ec5d9a2d32925023439c542e98]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/2/section/26) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-3bf177ec5d9a2d32925023439c542e98]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/2/section/26) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-7422d9379b64bc2f776d74d42e83eb48]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/2/section/27) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-7422d9379b64bc2f776d74d42e83eb48]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/2/section/27) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-d6f6a0f1333c60bf21398d66bea60a79]: Textual amendment: [S. 28](https://www.legislation.gov.uk/asp/2014/2/section/28) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(9)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/9) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d6f6a0f1333c60bf21398d66bea60a79]: Textual amendment: [S. 28](https://www.legislation.gov.uk/asp/2014/2/section/28) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(9)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/9) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-d2fdcfb624da3f84cf273f26811308a7]: Commencement: S. 28 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-d2fdcfb624da3f84cf273f26811308a7]: Commencement: S. 28 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-1ed18a8d552c3a412760869926d95cf3]: Textual amendment: [S. 29](https://www.legislation.gov.uk/asp/2014/2/section/29) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(10)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/10) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-1ed18a8d552c3a412760869926d95cf3]: Textual amendment: [S. 29](https://www.legislation.gov.uk/asp/2014/2/section/29) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(10)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/10) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-0a2f5bf8a85190fa6d20c01d054641e8]: Commencement: S. 29 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-0a2f5bf8a85190fa6d20c01d054641e8]: Commencement: S. 29 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-45860a47a20f8486d2ce31d1034b5ee1]: Commencement: S. 30 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-45860a47a20f8486d2ce31d1034b5ee1]: Commencement: S. 30 in force at 7.11.2014 by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-717bf97461c8f2c9214877cc10948522]: Textual amendment: Words in [s. 30(3)(a)](https://www.legislation.gov.uk/asp/2014/2/section/30/3/a) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(11)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/11) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-717bf97461c8f2c9214877cc10948522]: Textual amendment: Words in [s. 30(3)(a)](https://www.legislation.gov.uk/asp/2014/2/section/30/3/a) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(11)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/11) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-0f46ad3fd43629bf9eb61cf4d8fae051]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/2/section/31) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-0f46ad3fd43629bf9eb61cf4d8fae051]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/2/section/31) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-4e56a86b6a74c07114ffcf1cdd748c6a]: Textual amendment: Words in [s. 31(1)(a)](https://www.legislation.gov.uk/asp/2014/2/section/31/1/a) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(12)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/12/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-4e56a86b6a74c07114ffcf1cdd748c6a]: Textual amendment: Words in [s. 31(1)(a)](https://www.legislation.gov.uk/asp/2014/2/section/31/1/a) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(12)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/12/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-7d0a340db3e3928844ac57dbdcf6860c]: Textual amendment: Word in [s. 31(1)(b)](https://www.legislation.gov.uk/asp/2014/2/section/31/1/b) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(12)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/12/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-7d0a340db3e3928844ac57dbdcf6860c]: Textual amendment: Word in [s. 31(1)(b)](https://www.legislation.gov.uk/asp/2014/2/section/31/1/b) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(12)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/12/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-979bee2ec63356bad560225e2105e246]: Textual amendment: [S. 32](https://www.legislation.gov.uk/asp/2014/2/section/32) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(13)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/13) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-979bee2ec63356bad560225e2105e246]: Textual amendment: [S. 32](https://www.legislation.gov.uk/asp/2014/2/section/32) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(13)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/13) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-34e9b1ab984286502ee5a721cc1b4460]: Commencement: S. 32 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-34e9b1ab984286502ee5a721cc1b4460]: Commencement: S. 32 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-9f027e6d10470b3f43b6cf75255eb3fe]: Textual amendment: [S. 33](https://www.legislation.gov.uk/asp/2014/2/section/33) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(13)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/13) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9f027e6d10470b3f43b6cf75255eb3fe]: Textual amendment: [S. 33](https://www.legislation.gov.uk/asp/2014/2/section/33) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(13)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/13) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-e1093371d45a30a2c7eb409ff20bac8d]: Commencement: S. 33 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-e1093371d45a30a2c7eb409ff20bac8d]: Commencement: S. 33 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-de6badfe5cab0da09ae9ecd57db6312f]: Textual amendment: Words in s. 34(1) substituted (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 10(14)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/14/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
+[^c-de6badfe5cab0da09ae9ecd57db6312f]: Textual amendment: Words in s. 34(1) substituted (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 10(14)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/14/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
 
-[^key-1ff79c91b2ca8326c336628571b6d266]: Textual amendment: S. 34(2) repealed (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 10(14)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/14/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
+[^c-1ff79c91b2ca8326c336628571b6d266]: Textual amendment: S. 34(2) repealed (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 10(14)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/14/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
 
-[^key-7c22e9fba31772788a629fefeb5d65d6]: Textual amendment: [S. 35](https://www.legislation.gov.uk/asp/2014/2/section/35) repealed (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(15)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/15) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-7c22e9fba31772788a629fefeb5d65d6]: Textual amendment: [S. 35](https://www.legislation.gov.uk/asp/2014/2/section/35) repealed (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(15)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/15) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-f9e82c27e4445a1820d5e0fcc0dda683]: Textual amendment: [S. 36](https://www.legislation.gov.uk/asp/2014/2/section/36) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(16)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/16) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f9e82c27e4445a1820d5e0fcc0dda683]: Textual amendment: [S. 36](https://www.legislation.gov.uk/asp/2014/2/section/36) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(16)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/16) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-dcedb060d6be324aafcaf1cd8538ad63]: Commencement: S. 36 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
+[^c-dcedb060d6be324aafcaf1cd8538ad63]: Commencement: S. 36 in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2)
 
-[^key-32743f4e86e3c44cbb5adb922347a9b6]: Commencement: S. 37 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
+[^c-32743f4e86e3c44cbb5adb922347a9b6]: Commencement: S. 37 in force at 7.11.2014 for specified purposes by [S.S.I. 2014/277](https://www.legislation.gov.uk/ssi/2014/277), [art. 2](https://www.legislation.gov.uk/ssi/2014/277/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/277/schedule)
 
-[^key-67c8fcc20a78d467532dd20e4bb7059c]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/2/section/37) in force at 16.2.2015 in so far as not already in force by [S.S.I. 2015/17](https://www.legislation.gov.uk/ssi/2015/17), [art. 2](https://www.legislation.gov.uk/ssi/2015/17/article/2)
+[^c-67c8fcc20a78d467532dd20e4bb7059c]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/2/section/37) in force at 16.2.2015 in so far as not already in force by [S.S.I. 2015/17](https://www.legislation.gov.uk/ssi/2015/17), [art. 2](https://www.legislation.gov.uk/ssi/2015/17/article/2)
 
-[^key-9489587404c7b870c301f5123cb9c0ab]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/2/section/38) in force at 16.2.2015 by [S.S.I. 2015/17](https://www.legislation.gov.uk/ssi/2015/17), [art. 2](https://www.legislation.gov.uk/ssi/2015/17/article/2)
+[^c-9489587404c7b870c301f5123cb9c0ab]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/2/section/38) in force at 16.2.2015 by [S.S.I. 2015/17](https://www.legislation.gov.uk/ssi/2015/17), [art. 2](https://www.legislation.gov.uk/ssi/2015/17/article/2)
 
-[^key-d8637c5e04305bd049933bbc86d4a8e3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2014/2/section/39) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/109/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2015/109/article/3/3))
+[^c-d8637c5e04305bd049933bbc86d4a8e3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2014/2/section/39) in force at 1.4.2015 by [S.S.I. 2015/109](https://www.legislation.gov.uk/ssi/2015/109), [art. 2](https://www.legislation.gov.uk/ssi/2015/109/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/109/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2015/109/article/3/3))
 
-[^key-302759b7feac5c0976afcff4c5f0a3b4]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/asp/2014/2/section/39) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(17)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/17) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-302759b7feac5c0976afcff4c5f0a3b4]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/asp/2014/2/section/39) substituted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(17)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/17) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-126a72b6817d270a00483ae7900dd270]: Textual amendment: S. 41(2)(ba) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(18)(a)(i)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/18/a/i) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-126a72b6817d270a00483ae7900dd270]: Textual amendment: S. 41(2)(ba) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(18)(a)(i)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/18/a/i) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-e532e5f072c7b7fc30fcf6839203bc92]: Textual amendment: S. 41(2)(d) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(18)(a)(ii)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/18/a/ii) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-e532e5f072c7b7fc30fcf6839203bc92]: Textual amendment: S. 41(2)(d) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(18)(a)(ii)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/18/a/ii) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-31eed7983abe509af4aa29b74dd833b4]: Textual amendment: S. 41(7)(c) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(18)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/18/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-31eed7983abe509af4aa29b74dd833b4]: Textual amendment: S. 41(7)(c) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(18)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/18/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-27efcb471b01f4a984d4ee7a7858c867]: Textual amendment: Word in [s. 43](https://www.legislation.gov.uk/asp/2014/2/section/43) repealed (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(19)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/19) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-27efcb471b01f4a984d4ee7a7858c867]: Textual amendment: Word in [s. 43](https://www.legislation.gov.uk/asp/2014/2/section/43) repealed (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 10(19)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/10/19) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

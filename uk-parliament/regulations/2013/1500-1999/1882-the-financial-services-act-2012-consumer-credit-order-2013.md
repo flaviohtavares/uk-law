@@ -71,7 +71,7 @@ References in FSMA 2000 [^c21870581] to the FCA's functions under FSMA 2000 are 
 - (a) in subsection (1) the reference to “supervising authorised persons” included a reference to determining whether authorised persons are complying with relevant requirements;
 - (b) in subsection (2), the reference to requirements imposed by or under FSMA 2000 in a case where the FCA is the appropriate regulator for the purposes of Part 14 of FSMA 2000 (disciplinary measures) [^c21870601] included a reference to relevant requirements.
 
-(3)[^key-27e38a5e5c0d5a4d7bdd5003475cc73b] In Part 5—
+(3)[^c-27e38a5e5c0d5a4d7bdd5003475cc73b] In Part 5—
 
 - (a) sections 66 (disciplinary powers), 67 (disciplinary measures: procedure and right to refer to Tribunal) and 68 (publication) apply; and
 - (b) section 66A (misconduct: action by the FCA) applies as if the reference in subsection (4)(a) to a requirement imposed by or under FSMA 2000 included a reference to a relevant requirement.
@@ -89,7 +89,7 @@ References in FSMA 2000 [^c21870581] to the FCA's functions under FSMA 2000 are 
   - (i) subsection (1) included a reference to an offence under the 1974 Act;
   - (ii) subsection (4) included a reference to circumstances suggesting that a person may have failed to comply with a relevant requirement (excluding circumstances suggesting that an offence under the 1974 Act may have been committed).
 
-(6)[^key-eabf9e8d5f48267def0e6d72ad8719b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-eabf9e8d5f48267def0e6d72ad8719b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Part 14 (disciplinary measures) applies (with the exception of sections 210 (statements of policy) [^c21870721] and 211 (statements of policy: procedure) [^c21870731]) as if in section 204A (meaning of “**relevant requirement**” and “**appropriate regulator**”) [^c21870741]—
 
@@ -116,11 +116,11 @@ References in FSMA 2000 [^c21870581] to the FCA's functions under FSMA 2000 are 
 
 (1) The FCA must prepare and issue a statement of its policy with respect to—
 
-- (a) the imposition of penalties, suspensions , conditions, limitations[^key-284af53e291703b2504e912c7a595d93] or restrictions imposed under sections 66 (disciplinary powers), 205 (public censure), 206 (financial penalties) and 206A (suspending permission to carry on regulated activities etc.) of FSMA 2000 as applied by article 3;
+- (a) the imposition of penalties, suspensions , conditions, limitations[^c-284af53e291703b2504e912c7a595d93] or restrictions imposed under sections 66 (disciplinary powers), 205 (public censure), 206 (financial penalties) and 206A (suspending permission to carry on regulated activities etc.) of FSMA 2000 as applied by article 3;
 - (b) the amount of penalties imposed under sections 66 and 206 of FSMA 2000 as so applied;
-- (c) the period for which suspensions , conditions, limitations[^key-85ebf8e7e69a9774c942ef0814092208] or restrictions imposed under sections 66 and 206A of FSMA 2000 as so applied are to have effect.
+- (c) the period for which suspensions , conditions, limitations[^c-85ebf8e7e69a9774c942ef0814092208] or restrictions imposed under sections 66 and 206A of FSMA 2000 as so applied are to have effect.
 
-(2) The FCA's policy in determining what the amount of a penalty should be, or what the period for which a suspension , condition, limitation[^key-029d5426d68eabebbe2ef5c1922a355a] or restriction is to have effect should be, must include having regard to—
+(2) The FCA's policy in determining what the amount of a penalty should be, or what the period for which a suspension , condition, limitation[^c-029d5426d68eabebbe2ef5c1922a355a] or restriction is to have effect should be, must include having regard to—
 
 - (a) the seriousness of the failure in question in relation to the nature of the requirement concerned;
 - (b) the extent to which that failure was deliberate or reckless; and
@@ -336,7 +336,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c21870601]: Marginal citation: Part 14 was amended by the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), [sections 9](https://www.legislation.gov.uk/ukpga/2010/28/section/9), [10](https://www.legislation.gov.uk/ukpga/2010/28/section/10) and Schedule 2, paragraphs 1, 13, 18, 19 and 20 and the Financial Services Act 2012, Schedule 9, paragraphs 1, and 10 to 18.
 
-[^key-27e38a5e5c0d5a4d7bdd5003475cc73b]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/3) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/163/article/7/2)
+[^c-27e38a5e5c0d5a4d7bdd5003475cc73b]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/3) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/163/article/7/2)
 
 [^c21870641]: Marginal citation: Part 9 was amended by the Financial Services Act 2012, section 23, and [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
@@ -352,7 +352,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c21870701]: Marginal citation: Amended by the Financial Services Act 2012 Schedule 12, paragraph 9.
 
-[^key-eabf9e8d5f48267def0e6d72ad8719b3]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/1038/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eabf9e8d5f48267def0e6d72ad8719b3]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/1038/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21870721]: Marginal citation: Section 210 was amended by the Financial Services Act 2010, Schedule 2, paragraphs 1 and 20, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 17.
 
@@ -382,11 +382,11 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c21870851]: Marginal citation: Section 401 was amended by the Enterprise Act 2002, Schedule 25, paragraph 40, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 38.
 
-[^key-284af53e291703b2504e912c7a595d93]: Textual amendment: Words in art. 4(1)(a) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/a/i)
+[^c-284af53e291703b2504e912c7a595d93]: Textual amendment: Words in art. 4(1)(a) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/a/i)
 
-[^key-85ebf8e7e69a9774c942ef0814092208]: Textual amendment: Words in art. 4(1)(c) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/a/ii)
+[^c-85ebf8e7e69a9774c942ef0814092208]: Textual amendment: Words in art. 4(1)(c) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/a/ii)
 
-[^key-029d5426d68eabebbe2ef5c1922a355a]: Textual amendment: Words in art. 4(2) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/b)
+[^c-029d5426d68eabebbe2ef5c1922a355a]: Textual amendment: Words in art. 4(2) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/b)
 
 [^c21870861]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (22).
 

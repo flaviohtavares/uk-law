@@ -47,9 +47,9 @@ the order shall take effect at the expiry of the period referred to in subsectio
 
 (8) This section does not apply to—
 
-- (a) an order revoking or modifying a planning permission granted or deemed to have been granted by the Secretary of State under this Part, section 242A[^key-d19ebce87c45689d8f7c20fd16250139] or Part VI, or
+- (a) an order revoking or modifying a planning permission granted or deemed to have been granted by the Secretary of State under this Part, section 242A[^c-d19ebce87c45689d8f7c20fd16250139] or Part VI, or
 - (b) an order modifying any conditions to which a planning permission is subject by virtue of section 58 or 59.
 
 ## Annotations
 
-[^key-d19ebce87c45689d8f7c20fd16250139]: Textual amendment: Words in s. 67(8)(a) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2006/243/article/4/4)
+[^c-d19ebce87c45689d8f7c20fd16250139]: Textual amendment: Words in s. 67(8)(a) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2006/243/article/4/4)

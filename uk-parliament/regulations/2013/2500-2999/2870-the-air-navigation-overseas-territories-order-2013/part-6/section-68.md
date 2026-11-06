@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Power to prohibit or restrict flying[^key-d48c654e68fd459e301622fd5eb8a270]
+## 68. Power to prohibit or restrict flying[^c-d48c654e68fd459e301622fd5eb8a270]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the Governor may issue directions prohibiting, restricting or imposing condition
 
 ## Annotations
 
-[^key-d48c654e68fd459e301622fd5eb8a270]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2013/2870/article/68) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d48c654e68fd459e301622fd5eb8a270]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2013/2870/article/68) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

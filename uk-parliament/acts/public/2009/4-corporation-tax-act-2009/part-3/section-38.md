@@ -32,8 +32,8 @@ summary: ''
 - (a) to farming or market gardening (which is dealt with by section 36),
 - (b) if the land is being prepared for forestry purposes,
 - (c) if the land comprises woodlands (which is dealt with by section 37), or
-- (d) to the occupation by an insurance company of land which is an asset held by the company for the purposes of its long-term business[^key-e2f790b2d0f4056198cb3e7274641e6b].
+- (d) to the occupation by an insurance company of land which is an asset held by the company for the purposes of its long-term business[^c-e2f790b2d0f4056198cb3e7274641e6b].
 
 ## Annotations
 
-[^key-e2f790b2d0f4056198cb3e7274641e6b]: Textual amendment: Words in s. 38(3)(d) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 140](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/140)
+[^c-e2f790b2d0f4056198cb3e7274641e6b]: Textual amendment: Words in s. 38(3)(d) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 140](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/140)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1148. Interpretation of company communications provisions[^c18921751][^key-0b49f93a4dd9ed1e71426c86c56a7840]
+## 1148. Interpretation of company communications provisions[^c18921751][^c-0b49f93a4dd9ed1e71426c86c56a7840]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c18921751]: Commencement: S. 1148 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-0b49f93a4dd9ed1e71426c86c56a7840]: Modification: Ss. 1143-1148 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/14/4)
+[^c-0b49f93a4dd9ed1e71426c86c56a7840]: Modification: Ss. 1143-1148 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/14/4)

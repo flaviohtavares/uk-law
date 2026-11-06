@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 349. Grounds of objection to blight notice served by mortgagee[^key-bb5913c784001a1a78baa373d0a01cfd]
+## 349. Grounds of objection to blight notice served by mortgagee[^c-bb5913c784001a1a78baa373d0a01cfd]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb5913c784001a1a78baa373d0a01cfd]: Commencement: S. 349 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-bb5913c784001a1a78baa373d0a01cfd]: Commencement: S. 349 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 28(3), 33(2), 55A, 59(1)(a)(ii) and (b) and (2) and 165(4), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made by virtue of, or consequential upon, Article 17 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b023c6a8ca7e21caeb43a95eeafb633b]
+## 1. Citation, commencement and interpretation[^c-b023c6a8ca7e21caeb43a95eeafb633b]
 
 (1) These Regulations may be cited as the Social Security (Attendance Allowance and Disability Living Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and shall come into operation on 25th August 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Attendance Allowance) Regulations[^key-aca523bcfd21b801de10c3a17e956380]
+## 2. Amendment of the Social Security (Attendance Allowance) Regulations[^c-aca523bcfd21b801de10c3a17e956380]
 
 (1) The Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00004] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -101,7 +101,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 3. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-0c5ee7bbc89f01a8b4c8f34e18ecf22b]
+## 3. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-0c5ee7bbc89f01a8b4c8f34e18ecf22b]
 
 After regulation 5 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 (late claim by a person previously entitled to benefit)[^f00007] there shall be inserted the following regulations—
 
@@ -148,7 +148,7 @@ After regulation 5 of the Social Security (Disability Living Allowance) Regulati
 
 .
 
-## 4. Amendment of the Social Security (Adjudication) Regulations[^key-7cd7ea899eddadfef81abd6b1929745d]
+## 4. Amendment of the Social Security (Adjudication) Regulations[^c-7cd7ea899eddadfef81abd6b1929745d]
 
 After regulation 67 of the Social Security (Adjudication) Regulations (Northern Ireland) 1995 (review in social fund maternity or funeral expenses cases)[^f00008] there shall be inserted the following regulation—
 
@@ -184,11 +184,11 @@ Section 55A of the Social Security Administration (Northern Ireland) Act [1992 (
 
 [^f00002]: Footnote: [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)
 
-[^key-b023c6a8ca7e21caeb43a95eeafb633b]: Commencement: Reg. 1 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
+[^c-b023c6a8ca7e21caeb43a95eeafb633b]: Commencement: Reg. 1 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-aca523bcfd21b801de10c3a17e956380]: Commencement: Reg. 2 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
+[^c-aca523bcfd21b801de10c3a17e956380]: Commencement: Reg. 2 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); relevant amending regulations are [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
 
@@ -196,11 +196,11 @@ Section 55A of the Social Security Administration (Northern Ireland) Act [1992 (
 
 [^f00006]: Footnote: Subsection (7A) was inserted by Article 16(1) of the Social Security Administration (Fraud) (Northern Ireland) Order 1997
 
-[^key-0c5ee7bbc89f01a8b4c8f34e18ecf22b]: Commencement: Reg. 3 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
+[^c-0c5ee7bbc89f01a8b4c8f34e18ecf22b]: Commencement: Reg. 3 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32), to which there are amendments not relevant to these regulations
 
-[^key-7cd7ea899eddadfef81abd6b1929745d]: Commencement: Reg. 4 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
+[^c-7cd7ea899eddadfef81abd6b1929745d]: Commencement: Reg. 4 in operation at 25.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/355/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293); regulation 67 was substituted by regulation 4(11) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 

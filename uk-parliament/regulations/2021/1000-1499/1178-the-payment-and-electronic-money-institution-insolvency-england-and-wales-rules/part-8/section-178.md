@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Notification and advertisement of appointment of replacement administrator[^key-62113ba2d6c1652b3ca6bdafe65096b4]
+## 178. Notification and advertisement of appointment of replacement administrator[^c-62113ba2d6c1652b3ca6bdafe65096b4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62113ba2d6c1652b3ca6bdafe65096b4]: Commencement: Rule 178 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-62113ba2d6c1652b3ca6bdafe65096b4]: Commencement: Rule 178 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

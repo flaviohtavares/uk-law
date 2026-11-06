@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299. Responsible officer[^key-b46cffbf9aa57d5bf053cd7e6df46b97]
+## 299. Responsible officer[^c-b46cffbf9aa57d5bf053cd7e6df46b97]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b46cffbf9aa57d5bf053cd7e6df46b97]: Commencement: S. 299 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b46cffbf9aa57d5bf053cd7e6df46b97]: Commencement: S. 299 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

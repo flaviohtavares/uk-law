@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment to regulation 59[^key-650fa55b59985b8cdafb51326b124866]
+## 47. Amendment to regulation 59[^c-650fa55b59985b8cdafb51326b124866]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 59 (conditions of UK marketing authorisation or parallel import li
 
 ## Annotations
 
-[^key-650fa55b59985b8cdafb51326b124866]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2024/832/regulation/47) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-650fa55b59985b8cdafb51326b124866]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2024/832/regulation/47) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00058]: Footnote: Paragraphs (3) and (5) were amended by, and paragraphs (3A) and (3B) were inserted by, [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

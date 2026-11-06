@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 156. Additional notices[^key-16e2ce95ea6264f1da6c0e881e82026a]
+## 156. Additional notices[^c-16e2ce95ea6264f1da6c0e881e82026a]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16e2ce95ea6264f1da6c0e881e82026a]: Commencement: [Rule 156](https://www.legislation.gov.uk/nisr/2026/11/rule/156) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-16e2ce95ea6264f1da6c0e881e82026a]: Commencement: [Rule 156](https://www.legislation.gov.uk/nisr/2026/11/rule/156) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00016]: Footnote: Articles 152 to 154 were amended by Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1) and [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Direction to a principal council to provide support and assistance[^key-a7b44df9b181a1e1e7095b30a222d3a6]
+## 103. Direction to a principal council to provide support and assistance[^c-a7b44df9b181a1e1e7095b30a222d3a6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b44df9b181a1e1e7095b30a222d3a6]: Commencement: S. 103 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-a7b44df9b181a1e1e7095b30a222d3a6]: Commencement: S. 103 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Public rights of way[^key-ef11b6b98ef9c251c8dc1495ea8aa49e]
+## 28. Public rights of way[^c-ef11b6b98ef9c251c8dc1495ea8aa49e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef11b6b98ef9c251c8dc1495ea8aa49e]: Commencement: Art. 28 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-ef11b6b98ef9c251c8dc1495ea8aa49e]: Commencement: Art. 28 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

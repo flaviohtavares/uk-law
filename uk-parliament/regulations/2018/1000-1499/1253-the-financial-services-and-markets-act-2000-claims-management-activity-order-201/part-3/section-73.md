@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Determination of relevant new complaints[^key-b194b19dda324fe9b2e4e092c3002a38][^key-bccb86b714c24789b247f5c4ae9764b6]
+## 73. Determination of relevant new complaints[^c-b194b19dda324fe9b2e4e092c3002a38][^c-bccb86b714c24789b247f5c4ae9764b6]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b194b19dda324fe9b2e4e092c3002a38]: Commencement: Art. 73 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-b194b19dda324fe9b2e4e092c3002a38]: Commencement: Art. 73 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-bccb86b714c24789b247f5c4ae9764b6]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2018/1253/article/73) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-bccb86b714c24789b247f5c4ae9764b6]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2018/1253/article/73) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

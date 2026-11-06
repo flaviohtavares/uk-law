@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Other definitions for Part[^key-20ffdf17107c19c2ec601eff41f8b29b]
+## 22. Other definitions for Part[^c-20ffdf17107c19c2ec601eff41f8b29b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-20ffdf17107c19c2ec601eff41f8b29b]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/5/section/22) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-20ffdf17107c19c2ec601eff41f8b29b]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/5/section/22) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

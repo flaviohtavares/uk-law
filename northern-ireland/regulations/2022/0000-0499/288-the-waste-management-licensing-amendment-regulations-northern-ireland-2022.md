@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, in exercise of the powers conferred by Article 3(5) of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00001], makes the following Regulations.
 
-## 1. Citation and commencement[^key-8b0673d7a4435908d5e8a9dd3615321a]
+## 1. Citation and commencement[^c-8b0673d7a4435908d5e8a9dd3615321a]
 
 These Regulations may be cited as the Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 5th December 2022.
 
-## 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-0bf83f79d527b308ae44e1b3c724651c]
+## 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^c-0bf83f79d527b308ae44e1b3c724651c]
 
 The Waste Management Licensing Regulations (Northern Ireland) 2003[^f00002] are amended in accordance with regulations 3 to 6.
 
-## 3. Amendment of regulation 1 (Citation, commencement and interpretation)[^key-8ab064869d4a16845df0f8b5230ed263]
+## 3. Amendment of regulation 1 (Citation, commencement and interpretation)[^c-8ab064869d4a16845df0f8b5230ed263]
 
 In regulation 1(3) (Citation, commencement and interpretation) insert the following definitions at the appropriate place–
 
@@ -59,7 +59,7 @@ In regulation 1(3) (Citation, commencement and interpretation) insert the follow
 
 .
 
-## 4. Amendment of regulation 3[^key-40c8fd2b8e6e7a90e68b1aab91849909]
+## 4. Amendment of regulation 3[^c-40c8fd2b8e6e7a90e68b1aab91849909]
 
 For regulation 3 substitute–
 
@@ -76,7 +76,7 @@ For regulation 3 substitute–
 >
 > (5) Where a person carries out activities without the qualifications specified in paragraph (1)(a) or (b) or an assessment of technical competence by the Department, that person will not be deemed to be a fit and proper person which may result in that person’s application being refused or their licence being revoked except where that activity is being carried out by way of an exemption from waste management licensing.
 
-## 5. Amendment of regulation 5 (Pre-qualification technical competence)[^key-0aea9f9a6056877f30d976dc50f59564]
+## 5. Amendment of regulation 5 (Pre-qualification technical competence)[^c-0aea9f9a6056877f30d976dc50f59564]
 
 (1) For regulation 5 (Pre-qualification technical competence) substitute—
 
@@ -93,7 +93,7 @@ For regulation 3 substitute–
 >
 > (2) Paragraph 1 does not include activities carried out at any type of landfill site.
 
-## 6. Revocation of Schedule 1[^key-91bd7e809084785a78269d40ff65361c]
+## 6. Revocation of Schedule 1[^c-91bd7e809084785a78269d40ff65361c]
 
 Schedule 1 is revoked.
 
@@ -117,18 +117,18 @@ Regulation 3(1)(b) introduces EU Skills as a provider of assurance of technical 
 
 [^f00001]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778) to which there are amendments not relevant to these Regulations
 
-[^key-8b0673d7a4435908d5e8a9dd3615321a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
+[^c-8b0673d7a4435908d5e8a9dd3615321a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
 
-[^key-0bf83f79d527b308ae44e1b3c724651c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/288/regulation/2) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
+[^c-0bf83f79d527b308ae44e1b3c724651c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/288/regulation/2) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493); relevant amending Regulations are [S.R. 2003 No. 496](https://www.legislation.gov.uk/nisr/2003/496), [S.R. 2006 No. 280](https://www.legislation.gov.uk/nisr/2006/280), [S.R. 2007 No. 258](https://www.legislation.gov.uk/nisr/2007/258), [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [S.R. 2015 No. 301](https://www.legislation.gov.uk/nisr/2015/301)
 
-[^key-8ab064869d4a16845df0f8b5230ed263]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/288/regulation/3) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
+[^c-8ab064869d4a16845df0f8b5230ed263]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/288/regulation/3) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
 
-[^key-40c8fd2b8e6e7a90e68b1aab91849909]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/288/regulation/4) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
+[^c-40c8fd2b8e6e7a90e68b1aab91849909]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/288/regulation/4) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059), as amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696), [S.I. 2016/1094](https://www.legislation.gov.uk/uksi/2016/1094), [S.I. 2016/1032](https://www.legislation.gov.uk/uksi/2016/1032), [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12), [S.I. 2018/166](https://www.legislation.gov.uk/uksi/2018/166), [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838), [S.I. 2018/893](https://www.legislation.gov.uk/uksi/2018/893), [S.I. 2018/1101](https://www.legislation.gov.uk/uksi/2018/1101), [S.I. 2019/89](https://www.legislation.gov.uk/uksi/2019/89), [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312), [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), and [S.I. 2021/574](https://www.legislation.gov.uk/uksi/2021/574)
 
-[^key-0aea9f9a6056877f30d976dc50f59564]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/288/regulation/5) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
+[^c-0aea9f9a6056877f30d976dc50f59564]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/288/regulation/5) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
 
-[^key-91bd7e809084785a78269d40ff65361c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2022/288/regulation/6) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)
+[^c-91bd7e809084785a78269d40ff65361c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2022/288/regulation/6) in operation at 5.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1)

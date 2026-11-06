@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0faf1428ed7e90febdba26fb7b74f9f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0faf1428ed7e90febdba26fb7b74f9f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0faf1428ed7e90febdba26fb7b74f9f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0faf1428ed7e90febdba26fb7b74f9f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 16 to FA 2011 (benefits under pension schemes)—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0faf1428ed7e90febdba26fb7b74f9f9]: Textual amendment: [S. 50(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/2) omitted (with effect in accordance with s. 41(6) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 41(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/41/5)
+[^c-0faf1428ed7e90febdba26fb7b74f9f9]: Textual amendment: [S. 50(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/2) omitted (with effect in accordance with s. 41(6) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 41(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/41/5)

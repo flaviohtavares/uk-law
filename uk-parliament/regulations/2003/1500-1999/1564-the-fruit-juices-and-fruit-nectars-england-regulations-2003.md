@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Fruit Juices and Fruit Nectars (England) Regulations 2003 (revoked)[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+The Fruit Juices and Fruit Nectars (England) Regulations 2003 (revoked)[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Made
 
@@ -45,141 +45,141 @@ Coming into force
 
 12th July 2003
 
-[^key-d38d2f17b70628d38ff953ba6a43bc6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d38d2f17b70628d38ff953ba6a43bc6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 1. Title, commencement and application[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 2. Interpretation[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope of Regulations[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 3. Scope of Regulations[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reserved descriptions[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 4. Reserved descriptions[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling and description of designated products[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 5. Labelling and description of designated products[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of marking or labelling[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 6. Manner of marking or labelling[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties and enforcement[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 7. Penalties and enforcement[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence in relation to exports[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 8. Defence in relation to exports[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of various provisions of the Food Safety Act 1990[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 9. Application of various provisions of the Food Safety Act 1990[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments and revocations[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 10. Amendments and revocations[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provision[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 11. Transitional provision[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Review of these Regulations[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## 12. Review of these Regulations[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d38d2f17b70628d38ff953ba6a43bc6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d38d2f17b70628d38ff953ba6a43bc6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — RESERVED DESCRIPTIONS FOR DESIGNATED PRODUCTS[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## SCHEDULE 1 — RESERVED DESCRIPTIONS FOR DESIGNATED PRODUCTS[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PERMITTED RAW MATERIALS IN PREPARATION OF DESIGNATED PRODUCTS[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## SCHEDULE 2 — PERMITTED RAW MATERIALS IN PREPARATION OF DESIGNATED PRODUCTS[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Regulation 2(2)(a)
 
-**1.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — ADDITIONAL INGREDIENTS PERMITTED IN PARTICULAR DESIGNATED PRODUCTS[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## SCHEDULE 3 — ADDITIONAL INGREDIENTS PERMITTED IN PARTICULAR DESIGNATED PRODUCTS[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Regulation 2(2)(b)
 
-**1.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — PERMITTED TREATMENTS AND ADDITIONAL SUBSTANCES[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## SCHEDULE 4 — PERMITTED TREATMENTS AND ADDITIONAL SUBSTANCES[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Regulation 2(2)(d)
 
-### 1. Treatments[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+### 1. Treatments[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Additional substances[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+### 4. Additional substances[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d38d2f17b70628d38ff953ba6a43bc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — MINIMUM JUICE AND PURÉE CONTENT OF FRUIT NECTARS[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## SCHEDULE 5 — MINIMUM JUICE AND PURÉE CONTENT OF FRUIT NECTARS[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Regulation 2(2)(e)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — MINIMUM BRIX LEVELS FOR FRUIT JUICES FROM CONCENTRATE[^key-d38d2f17b70628d38ff953ba6a43bc6d]
+## SCHEDULE 6 — MINIMUM BRIX LEVELS FOR FRUIT JUICES FROM CONCENTRATE[^c-d38d2f17b70628d38ff953ba6a43bc6d]
 
 Regulation 2 and Schedule 1
 
@@ -187,8 +187,8 @@ Regulation 2 and Schedule 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-d38d2f17b70628d38ff953ba6a43bc6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d38d2f17b70628d38ff953ba6a43bc6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d38d2f17b70628d38ff953ba6a43bc6d]: Textual amendment: Regulations revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (England) Regulations 2013 (S.I. 2013/2775)](https://www.legislation.gov.uk/uksi/2013/2775), regs. 1(2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/20/1/a)
+[^c-d38d2f17b70628d38ff953ba6a43bc6d]: Textual amendment: Regulations revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (England) Regulations 2013 (S.I. 2013/2775)](https://www.legislation.gov.uk/uksi/2013/2775), regs. 1(2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/20/1/a)

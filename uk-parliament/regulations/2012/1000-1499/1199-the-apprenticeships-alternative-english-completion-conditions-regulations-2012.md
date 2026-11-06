@@ -50,7 +50,7 @@ These Regulations may be cited as the Apprenticeships (Alternative English Compl
 
 ## 2. The alternative English completion conditions
 
-The alternative English completion conditions are the conditions specified in regulation 3, 4 , 4A[^key-0879441599c796d9cce2f3c72ab7945a] or 5.
+The alternative English completion conditions are the conditions specified in regulation 3, 4 , 4A[^c-0879441599c796d9cce2f3c72ab7945a] or 5.
 
 ## 3.
 
@@ -79,7 +79,7 @@ The conditions are that—
 - (a) the reference to the first phase of the course is to the period beginning on the day on which the course of training referred to in paragraph (1)(a) was begun and ending on the date of dismissal;
 - (b) the reference to the second phase of the course is to the period beginning on the day following the date of dismissal and ending on the day on which the course of training was completed.
 
-**4A.**[^key-fdce951105ae93315968f2433cd70d7a] (1) The conditions are that—
+**4A.**[^c-fdce951105ae93315968f2433cd70d7a] (1) The conditions are that—
 
 - (a) a person (“P”) working under an apprenticeship agreement (“the agreement”) was dismissed by reason of redundancy on or after the day on which the Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 came into force;
 - (b) P had entered into the agreement in connection with a recognised English apprenticeship framework (“the framework”);
@@ -128,7 +128,7 @@ Regulation 3
 | Lighting Technician | Technical Theatre (Advanced) |
 | Lighting Technician Assistant | Technical Theatre (Intermediate) |
 | Deckhand within the sea fishing industry<br>Share fisherman within the sea fishing industry | Maritime Occupations (Intermediate) |
-| Merchant Navy (deck)[^key-e6f1e134fe9dc00e616d65dd569e188f]<br>Merchant Navy (engineering)<br>Officer of the watch on merchant vessels of less than 500 gross tonnage (near coastal) including tugs<br>Officer of the watch on merchant vessels of less than 3,000 gross tonnage (near coastal) including tugs | Maritime Occupations (Advanced) |
+| Merchant Navy (deck)[^c-e6f1e134fe9dc00e616d65dd569e188f]<br>Merchant Navy (engineering)<br>Officer of the watch on merchant vessels of less than 500 gross tonnage (near coastal) including tugs<br>Officer of the watch on merchant vessels of less than 3,000 gross tonnage (near coastal) including tugs | Maritime Occupations (Advanced) |
 
 ## SCHEDULE 2
 
@@ -204,8 +204,8 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c21251301]: Marginal citation: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22). See section 264(1) for the definition of “regulations”.
 
-[^key-0879441599c796d9cce2f3c72ab7945a]: Textual amendment: Word in reg. 2 inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/2/2)
+[^c-0879441599c796d9cce2f3c72ab7945a]: Textual amendment: Word in reg. 2 inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/2/2)
 
-[^key-fdce951105ae93315968f2433cd70d7a]: Textual amendment: Reg. 4A inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/2/3)
+[^c-fdce951105ae93315968f2433cd70d7a]: Textual amendment: Reg. 4A inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/2/3)
 
-[^key-e6f1e134fe9dc00e616d65dd569e188f]: Textual amendment: Words in Sch. 1 Table inserted (30.7.2013) by [The Apprenticeships (Alternative English Completion Conditions) (Amendment) Regulations 2013 (S.I. 2013/1968)](https://www.legislation.gov.uk/uksi/2013/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1968/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1968/regulation/2)
+[^c-e6f1e134fe9dc00e616d65dd569e188f]: Textual amendment: Words in Sch. 1 Table inserted (30.7.2013) by [The Apprenticeships (Alternative English Completion Conditions) (Amendment) Regulations 2013 (S.I. 2013/1968)](https://www.legislation.gov.uk/uksi/2013/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1968/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1968/regulation/2)

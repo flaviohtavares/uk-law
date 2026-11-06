@@ -22,13 +22,13 @@ summary: ''
 
 Article 16
 
-### PART 1 — Footpath to be diverted[^key-aaa0d4eb1b44ea032b381afce7d10e4d]
+### PART 1 — Footpath to be diverted[^c-aaa0d4eb1b44ea032b381afce7d10e4d]
 
 | *(1)*<br>*Area* | *(2)*<br>*Footpath to be stopped up* | *(3)*<br>*Extent of Stopping up* | *(4)*<br>*New Footpath to be substituted* |
 | --- | --- | --- | --- |
 | City and County of Bristol, Ashton | Part of footpath BCC/422/10 known as Barons Close Level Crossing or Ashton Containers Crossing, Ashton, Bristol | Between the points marked S31 and S32 on sheet 16 of the permanent and temporary stopping up and diversion plan | 507.50 metres of footpath BCC/422/10 shown on sheet 16 of the permanent and temporary stopping up and diversion plan |
 
-### PART 2 — New public rights of way to be created[^key-c5d138841f8371a7492125be74d70c0d]
+### PART 2 — New public rights of way to be created[^c-c5d138841f8371a7492125be74d70c0d]
 
 | (1) | (2) |
 | --- | --- |
@@ -40,6 +40,6 @@ Article 16
 
 ## Annotations
 
-[^key-aaa0d4eb1b44ea032b381afce7d10e4d]: Commencement: Sch. 6 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-aaa0d4eb1b44ea032b381afce7d10e4d]: Commencement: Sch. 6 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
-[^key-c5d138841f8371a7492125be74d70c0d]: Commencement: Sch. 6 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-c5d138841f8371a7492125be74d70c0d]: Commencement: Sch. 6 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

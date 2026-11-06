@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Relief in respect of mineral royalties[^key-22b5e4f2988ec00f7801ab8cfe038158]
+## 157. Relief in respect of mineral royalties[^c-22b5e4f2988ec00f7801ab8cfe038158]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b5e4f2988ec00f7801ab8cfe038158]: Textual amendment: S. 157 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/a)
+[^c-22b5e4f2988ec00f7801ab8cfe038158]: Textual amendment: S. 157 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/a)

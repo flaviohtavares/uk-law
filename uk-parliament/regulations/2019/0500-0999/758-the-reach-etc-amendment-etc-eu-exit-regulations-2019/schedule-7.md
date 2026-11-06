@@ -22,12 +22,12 @@ summary: ''
 
 Regulation 9
 
-**1.**[^key-39435e56193adbe3dd77ce000d9ff5df] Commission Implementing Decision C(2017) 3439 granting an authorisation for a use of chromium trioxide under REACH (Rimex Metals (UK) Ltd) is amended in accordance with this Schedule.
+**1.**[^c-39435e56193adbe3dd77ce000d9ff5df] Commission Implementing Decision C(2017) 3439 granting an authorisation for a use of chromium trioxide under REACH (Rimex Metals (UK) Ltd) is amended in accordance with this Schedule.
 
-**2.**[^key-75edc11c21acabed2af7ad11527ce7e9] In Article 3(d), for “competent authority of the Member State where the authorised use takes place” substitute “ Agency (as defined in that Regulation) ”.
+**2.**[^c-75edc11c21acabed2af7ad11527ce7e9] In Article 3(d), for “competent authority of the Member State where the authorised use takes place” substitute “ Agency (as defined in that Regulation) ”.
 
 ## Annotations
 
-[^key-39435e56193adbe3dd77ce000d9ff5df]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-39435e56193adbe3dd77ce000d9ff5df]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-75edc11c21acabed2af7ad11527ce7e9]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-75edc11c21acabed2af7ad11527ce7e9]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

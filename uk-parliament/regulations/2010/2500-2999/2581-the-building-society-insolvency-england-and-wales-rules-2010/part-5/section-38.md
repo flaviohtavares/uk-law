@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. General rule as to reporting[^key-f733866e53cd2c41ba3c3e3a9cb9b145]
+## 38. General rule as to reporting[^c-f733866e53cd2c41ba3c3e3a9cb9b145]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.47 of the 1986 Rules. For “official receiver”, substitute “bu
 
 ## Annotations
 
-[^key-f733866e53cd2c41ba3c3e3a9cb9b145]: Commencement: Rule 38 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-f733866e53cd2c41ba3c3e3a9cb9b145]: Commencement: Rule 38 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

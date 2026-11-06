@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Designation of persons named by or under UN Security Council Resolutions[^key-991a7e3fe1f71e09ff5542ca2862e098]
+## 10. Designation of persons named by or under UN Security Council Resolutions[^c-991a7e3fe1f71e09ff5542ca2862e098]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-991a7e3fe1f71e09ff5542ca2862e098]: Commencement: Reg. 10 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/1)
+[^c-991a7e3fe1f71e09ff5542ca2862e098]: Commencement: Reg. 10 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/1)
 
 [^c24171351]: Marginal citation: Section 13 of the Sanctions and Anti-Money Laundering Act 2018 requires that where the purposes of a provision of regulations under section 1 include compliance with a UN obligation to take particular measures in relation to UN-named persons (which is the case with the regulations mentioned in regulation 10), the regulations must provide for those persons to be designated persons for the purposes of that provision.

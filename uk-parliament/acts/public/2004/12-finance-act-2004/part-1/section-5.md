@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Rates[^key-6adcd9c950fe86cda5185aa0f4372167]
+## 5. Rates[^c-6adcd9c950fe86cda5185aa0f4372167]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6adcd9c950fe86cda5185aa0f4372167]: Commencement: S. 5 in force at 1.9.2004, see s. 5(6)
+[^c-6adcd9c950fe86cda5185aa0f4372167]: Commencement: S. 5 in force at 1.9.2004, see s. 5(6)

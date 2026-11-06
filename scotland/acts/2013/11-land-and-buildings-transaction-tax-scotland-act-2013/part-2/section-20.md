@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Contingent, uncertain or unascertained consideration: further provision[^key-fff731591aa5d97a76ef1ca3fa82301f]
+## 20. Contingent, uncertain or unascertained consideration: further provision[^c-fff731591aa5d97a76ef1ca3fa82301f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Sections 18 and 19 have effect subject to—
 
 ## Annotations
 
-[^key-fff731591aa5d97a76ef1ca3fa82301f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/11/section/20) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-fff731591aa5d97a76ef1ca3fa82301f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/11/section/20) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 175. Litigation expenses and property subject to a floating charge–application to court by the bank liquidator[^key-38b9b62609c8a36dff9ad856e0d07023]
+## 175. Litigation expenses and property subject to a floating charge–application to court by the bank liquidator[^c-38b9b62609c8a36dff9ad856e0d07023]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.218E of the 1986 Rules.
 
 ## Annotations
 
-[^key-38b9b62609c8a36dff9ad856e0d07023]: Commencement: Rule 175 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-38b9b62609c8a36dff9ad856e0d07023]: Commencement: Rule 175 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

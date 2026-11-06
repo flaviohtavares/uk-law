@@ -28,7 +28,7 @@ summary: ''
 - (d) who is aggrieved by the conditions attached to the person's permit (including the specification of standard conditions, but not the standard conditions themselves)—
   - (i) following an application for a permit under regulation 21;
   - (ii) by variation, either following an application under regulation 25 or otherwise;
-- (e) who has been granted a form of authorisation or has been treated as having notified an activity[^key-599a2795d722139225004dcce6e80f60] under regulation 60 or 61 which is different from the form of authorisation which that person believes ought to have been granted;
+- (e) who has been granted a form of authorisation or has been treated as having notified an activity[^c-599a2795d722139225004dcce6e80f60] under regulation 60 or 61 which is different from the form of authorisation which that person believes ought to have been granted;
 - (f) whose application for variation of an authorisation under regulation 25 has been refused (in whole or in part) or deemed refused;
 - (g) on whom a notice requiring the provision of information under regulation 37 has been served;
 - (h) whose application for transfer of an authorisation under regulation 27 has been refused or deemed refused, or who is aggrieved by the conditions attached to the person's authorisation to take account of a transfer;
@@ -42,7 +42,7 @@ summary: ''
   - (ii) the person believes that some or all of the costs were not incurred or were unnecessarily incurred;
 - (o) who has applied under regulation 41(1) to have information excluded from the register on the ground that it is commercially confidential and SEPA has decided the information is not commercially confidential;
 - (p) who is aggrieved by a decision by SEPA under regulation 42(4) that information is no longer commercially confidential;
-- (q) whose consent is required for the authorised person to comply with an off-site condition which has been included in an authorisation; or[^key-2b0bb753df8bc8fed4010a8bb335d065]
+- (q) whose consent is required for the authorised person to comply with an off-site condition which has been included in an authorisation; or[^c-2b0bb753df8bc8fed4010a8bb335d065]
 - (r) whose authorisation or authorisations have been consolidated by a SEPA initiated consolidation under regulation 64(2),
 
 may appeal to the Scottish Ministers against the decision or determination.
@@ -57,6 +57,6 @@ may appeal to the Scottish Ministers against the decision or determination.
 
 ## Annotations
 
-[^key-599a2795d722139225004dcce6e80f60]: Textual amendment: Words in [reg. 55(1)(e)](https://www.legislation.gov.uk/ssi/2018/219/regulation/55/1/e) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [26(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/26/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-599a2795d722139225004dcce6e80f60]: Textual amendment: Words in [reg. 55(1)(e)](https://www.legislation.gov.uk/ssi/2018/219/regulation/55/1/e) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [26(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/26/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-2b0bb753df8bc8fed4010a8bb335d065]: Textual amendment: Word in [reg. 55(1)(q)](https://www.legislation.gov.uk/ssi/2018/219/regulation/55/1/q) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [26(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/26/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2b0bb753df8bc8fed4010a8bb335d065]: Textual amendment: Word in [reg. 55(1)(q)](https://www.legislation.gov.uk/ssi/2018/219/regulation/55/1/q) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [26(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/26/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Labelling[^key-cb5fed7f434193d871d9e16d50b05a56]
+## 8. Labelling[^c-cb5fed7f434193d871d9e16d50b05a56]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb5fed7f434193d871d9e16d50b05a56]: Commencement: Reg. 8 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-cb5fed7f434193d871d9e16d50b05a56]: Commencement: Reg. 8 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

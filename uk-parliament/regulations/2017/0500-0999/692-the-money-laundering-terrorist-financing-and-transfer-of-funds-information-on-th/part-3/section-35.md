@@ -39,7 +39,7 @@ and to manage the enhanced risks arising from the relevant person's business rel
 - (a) the level of risk associated with that customer, and
 - (b) the extent of the enhanced customer due diligence measures to be applied in relation to that customer.
 
-(3A)[^key-3014736fa228b8030fe40c0a9cadf341] For the purpose of the relevant person’s assessment under paragraph (3), where a customer or potential customer is a domestic PEP, or a family member or a known close associate of a domestic PEP—
+(3A)[^c-3014736fa228b8030fe40c0a9cadf341] For the purpose of the relevant person’s assessment under paragraph (3), where a customer or potential customer is a domestic PEP, or a family member or a known close associate of a domestic PEP—
 
 - (a) the starting point for the assessment is that the customer or potential customer presents a lower level of risk than a non-domestic PEP, and
 - (b) if no enhanced risk factors are present, the extent of enhanced customer due diligence measures to be applied in relation to that customer or potential customer is less than the extent to be applied in the case of a non-domestic PEP.
@@ -94,13 +94,13 @@ and to manage the enhanced risks arising from the relevant person's business rel
 - (c) “known close associate” of a PEP means—
   - (i) an individual known to have joint beneficial ownership of a legal entity or a legal arrangement or any other close business relations with a PEP;
   - (ii) an individual who has sole beneficial ownership of a legal entity or a legal arrangement which is known to have been set up for the benefit of a PEP;
-- (d)[^key-274755a04f66a6d622f5093acabbe29e] “**domestic PEP**” means a politically exposed person entrusted with prominent public functions by the United Kingdom;
+- (d)[^c-274755a04f66a6d622f5093acabbe29e] “**domestic PEP**” means a politically exposed person entrusted with prominent public functions by the United Kingdom;
 - (e) “**non-domestic PEP**” means a politically exposed person who is not a domestic PEP;
 - (f) “**enhanced risk factors**”, in relation to a customer or potential customer who is a domestic PEP or a family member or a known close associate of that domestic PEP, mean risk factors other than the customer’s or potential customer’s position as a domestic PEP or as a family member or a known close associate of that domestic PEP.
 
 (13) For the purposes of paragraph (5), a reference to a business relationship with an individual includes a reference to a business relationship with a person of which the individual is a beneficial owner.
 
-(14) For the purposes of paragraphs (9), (11) and (12)[^key-956bfd8c1d79ef8a6f1a94e92c1f93c7], individuals entrusted with prominent public functions include—
+(14) For the purposes of paragraphs (9), (11) and (12)[^c-956bfd8c1d79ef8a6f1a94e92c1f93c7], individuals entrusted with prominent public functions include—
 
 - (a) heads of state, heads of government, ministers and deputy or assistant ministers;
 - (b) members of parliament or of similar legislative bodies;
@@ -115,10 +115,10 @@ and to manage the enhanced risks arising from the relevant person's business rel
 
 ## Annotations
 
-[^key-3014736fa228b8030fe40c0a9cadf341]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/35/3A) inserted (10.1.2024) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2023 (S.I. 2023/1371)](https://www.legislation.gov.uk/uksi/2023/1371), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/2/a)
+[^c-3014736fa228b8030fe40c0a9cadf341]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/35/3A) inserted (10.1.2024) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2023 (S.I. 2023/1371)](https://www.legislation.gov.uk/uksi/2023/1371), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/2/a)
 
 [^c23048211]: Marginal citation: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-274755a04f66a6d622f5093acabbe29e]: Textual amendment: [Reg. 35(12)(d)-(f)](https://www.legislation.gov.uk/uksi/2017/692/regulation/35/12/d) inserted (10.1.2024) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2023 (S.I. 2023/1371)](https://www.legislation.gov.uk/uksi/2023/1371), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/2/b)
+[^c-274755a04f66a6d622f5093acabbe29e]: Textual amendment: [Reg. 35(12)(d)-(f)](https://www.legislation.gov.uk/uksi/2017/692/regulation/35/12/d) inserted (10.1.2024) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2023 (S.I. 2023/1371)](https://www.legislation.gov.uk/uksi/2023/1371), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/2/b)
 
-[^key-956bfd8c1d79ef8a6f1a94e92c1f93c7]: Textual amendment: Word in [reg. 35(14)](https://www.legislation.gov.uk/uksi/2017/692/regulation/35/14) substituted (10.1.2024) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2023 (S.I. 2023/1371)](https://www.legislation.gov.uk/uksi/2023/1371), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/2/c)
+[^c-956bfd8c1d79ef8a6f1a94e92c1f93c7]: Textual amendment: Word in [reg. 35(14)](https://www.legislation.gov.uk/uksi/2017/692/regulation/35/14) substituted (10.1.2024) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2023 (S.I. 2023/1371)](https://www.legislation.gov.uk/uksi/2023/1371), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2023/1371/regulation/2/c)

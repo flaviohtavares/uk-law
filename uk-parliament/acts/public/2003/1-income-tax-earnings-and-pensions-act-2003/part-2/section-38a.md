@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Earnings relating to duties not performed[^key-777976599972305f850e5452f67b038b]
+## 38A. Earnings relating to duties not performed[^c-777976599972305f850e5452f67b038b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-777976599972305f850e5452f67b038b]: Textual amendment: [S. 38A](https://www.legislation.gov.uk/ukpga/2003/1/section/38A) inserted (with effect in accordance with s. 23(7) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 23(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/4)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/7)
+[^c-777976599972305f850e5452f67b038b]: Textual amendment: [S. 38A](https://www.legislation.gov.uk/ukpga/2003/1/section/38A) inserted (with effect in accordance with s. 23(7) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 23(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/4)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/7)

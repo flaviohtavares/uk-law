@@ -43,7 +43,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 164(1) and (4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 21(1)(*a*), (*b*)(i) and (*c*)(i) and (2), 31(1)(*b*)(ii), 42(1) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-188aff9ee5ac6fd31cd778c51eef3b61]
+## 1. Citation, commencement and interpretation[^c-188aff9ee5ac6fd31cd778c51eef3b61]
 
 (1) These Regulations may be cited as the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000 and shall come into operation on 1st December 2000.
 
@@ -58,16 +58,16 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “the Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00009];
 - “the Valuation Regulations” means the Pension Sharing (Valuation) Regulations (Northern Ireland) 2000[^f00010];
 - “active member” has the meaning given by Article 121(1) of the 1995 Order;
-- [^key-b076243a12260e1847458d94983f4c0a]...
+- [^c-b076243a12260e1847458d94983f4c0a]...
 - “day” means any day other than a public holiday;
 - “deferred member” has the meaning given by Article 121(1) of the 1995 Order;
 - “implementation period” has the meaning given by Article 31(1);
 - “member” means a person who has rights to future benefits, or has rights to benefits payable, under a pension arrangement;
 - “money purchase benefits” has the meaning given by section 176(1);
 - “normal benefit age” has the meaning given by section 97B[^f00011];
-- “normal pension age” has the meaning given by section 175;[^key-eeaae1682913d891793c301a625e1f59]
-- “notice of discharge of liability” means a notice issued to the member and his former spouse or former civil partner[^key-9de0cf3e7a50a507a67bb267e4cf2a38] by the person responsible for a pension arrangement when that person has discharged his liability in respect of a pension credit in accordance with Schedule 5;
-- “notice of implementation” means a notice issued by the person responsible for a pension arrangement to the member and his former spouse or former civil partner[^key-61bab5ec2da57624e7fa0a8b7f8f065a] at the beginning of the implementation period notifying them of the day on which the implementation period for the pension credit begins;
+- “normal pension age” has the meaning given by section 175;[^c-eeaae1682913d891793c301a625e1f59]
+- “notice of discharge of liability” means a notice issued to the member and his former spouse or former civil partner[^c-9de0cf3e7a50a507a67bb267e4cf2a38] by the person responsible for a pension arrangement when that person has discharged his liability in respect of a pension credit in accordance with Schedule 5;
+- “notice of implementation” means a notice issued by the person responsible for a pension arrangement to the member and his former spouse or former civil partner[^c-61bab5ec2da57624e7fa0a8b7f8f065a] at the beginning of the implementation period notifying them of the day on which the implementation period for the pension credit begins;
 - “occupational pension scheme” has the meaning given by section 1;
 - “the party with pension rights” and “the other party” have the meanings given by Article 27D(4) of the Matrimonial Causes Order[^f00012];
 - “pension arrangement” has the meaning given by Article 43(1);
@@ -76,11 +76,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “pension credit rights” means rights to future benefits under a pension arrangement or a qualifying arrangement which are attributable (directly or indirectly) to a pension credit;
 - “pension sharing order or provision” means an order or provision which is mentioned in Article 25(1);
 - “pensionable service” has the meaning given by Article 121(1) of the 1995 Order;
-- “pensioner member” has the meaning given by Article 121(1) of the 1995 Order;[^key-fa9cafd6f17d9833f67bc58f39919fb9]
+- “pensioner member” has the meaning given by Article 121(1) of the 1995 Order;[^c-fa9cafd6f17d9833f67bc58f39919fb9]
 - “person responsible for a pension arrangement” has the meaning given by Article 43(2);
 - “personal pension scheme” has the meaning given by section 1[^f00013];
 - “qualifying arrangement” has the meaning given by paragraph 6 of Schedule 5;
-- “retirement annuity contract” means a contract or scheme which is to be treated as becoming a registered pension scheme under section 153(9) of the Finance Act 2004 in accordance with paragraph 1(1)(f) of Schedule 36 to that Act (deemed registration of existing schemes);[^key-5cdf7e58d51af9468a1885622d0f6307]
+- “retirement annuity contract” means a contract or scheme which is to be treated as becoming a registered pension scheme under section 153(9) of the Finance Act 2004 in accordance with paragraph 1(1)(f) of Schedule 36 to that Act (deemed registration of existing schemes);[^c-5cdf7e58d51af9468a1885622d0f6307]
 - “salary related occupational pension scheme” has the meaning given by regulation 1A of the Transfer Values Regulations[^f00015];
 - “transfer day” has the meaning given by Article 26(8);
 - “transferee” has the meaning given by Article 26(8);
@@ -96,12 +96,12 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) any reference to a numbered section is a reference to the section of the Act bearing that number, and
 - (b) any reference to a numbered Article or Schedule is a reference to the Article of, or Schedule to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00017] bearing that number.
 
-## 2. Basic information about pensions on divorce or dissolution of a civil partnership[^key-79ff8c387e28ed50d14bc0931242efe5][^key-b622bd1fc5644ead18836ca79ed9e6bc]
+## 2. Basic information about pensions on divorce or dissolution of a civil partnership[^c-79ff8c387e28ed50d14bc0931242efe5][^c-b622bd1fc5644ead18836ca79ed9e6bc]
 
 (1) The requirements imposed on a person responsible for a pension arrangement for the purposes of Article 21(1)(*a*) (supply of pension information in connection with divorce etc.) are that he shall furnish—
 
 - (a) on request from a member, the information referred to in paragraphs (2) and (3)(*b*) to (*f*);
-- (b) on request from the spouse or civil partner[^key-3f5ca4a8dc29c8632e914d8e5035b3bb] of a member, the information referred to in paragraph (3), or
+- (b) on request from the spouse or civil partner[^c-3f5ca4a8dc29c8632e914d8e5035b3bb] of a member, the information referred to in paragraph (3), or
 - (c) pursuant to an order of the court, the information referred to in paragraph (2), (3) or (4),
 
 to the member, the spouse or civil partner of the member or, as the case may be, to the court.
@@ -117,7 +117,7 @@ to the member, the spouse or civil partner of the member or, as the case may be,
 - (e) whether the person responsible for the pension arrangement intends to discharge his liability for a pension credit other than by offering membership to a person entitled to a pension credit, and
 - (f) the schedule of charges which the person responsible for the pension arrangement will levy in accordance with regulation 2(2) of the Charging Regulations (general requirements as to charges).
 
-(4)[^key-5a67f49cb2f4d9ecafb8532996780c45] The information in this paragraph is any other information relevant to any power with respect to the matters specified in Article 21(1)(a) and which is not specified in Schedules 2 to 5 (basic information, information to be given on request, summary funding statements and statements of benefits: non money purchase benefits) and Schedule 6 (statements of benefits: money purchase benefits and cash balance benefits) or 7 (information to be given by schemes that relates to accessing benefits) (whichever is relevant) to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014, in a case where those Regulations apply.
+(4)[^c-5a67f49cb2f4d9ecafb8532996780c45] The information in this paragraph is any other information relevant to any power with respect to the matters specified in Article 21(1)(a) and which is not specified in Schedules 2 to 5 (basic information, information to be given on request, summary funding statements and statements of benefits: non money purchase benefits) and Schedule 6 (statements of benefits: money purchase benefits and cash balance benefits) or 7 (information to be given by schemes that relates to accessing benefits) (whichever is relevant) to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014, in a case where those Regulations apply.
 
 (5) Where the member’s request for, or the court order for the provision of, information includes a request for, or an order for the provision of, a valuation, under paragraph (2), the person responsible for the pension arrangement shall furnish all the information requested, or ordered, to the member—
 
@@ -128,43 +128,43 @@ to the member, the spouse or civil partner of the member or, as the case may be,
 (6) Where—
 
 - (a) the member’s request for, or the court order for the provision of, information does not include a request or an order for a valuation under paragraph (2), or
-- (b) the member’s spouse or civil partner[^key-516f9d8368e529a0e07aa4aab8ec6584] requests the information specified in paragraph (3),
+- (b) the member’s spouse or civil partner[^c-516f9d8368e529a0e07aa4aab8ec6584] requests the information specified in paragraph (3),
 
-the person responsible for the pension arrangement shall furnish that information to the member, his spouse, civil partner,[^key-911f593c1068998d0c1c4244531754fb] or the court, as the case may be, within one month beginning with the date that person receives the request for, or the court order for the provision of, the information.
+the person responsible for the pension arrangement shall furnish that information to the member, his spouse, civil partner,[^c-911f593c1068998d0c1c4244531754fb] or the court, as the case may be, within one month beginning with the date that person receives the request for, or the court order for the provision of, the information.
 
 (7) At the same time as furnishing the information referred to in paragraph (1), the person responsible for a pension arrangement may furnish the information specified in regulation 4(2) (provision of information in response to a notification that a pension sharing order or provision may be made).
 
-## 3. Information about pensions on divorce and dissolution of a civil partnership: valuation of pension benefits[^key-30f08f250b9660b47b45a6368b8b66df][^M_C_d7d9fb01-3582-42e6-fe60-2cd9a5ab688c][^key-52838fb5518d31d92b6966a689ac9ebc]
+## 3. Information about pensions on divorce and dissolution of a civil partnership: valuation of pension benefits[^c-30f08f250b9660b47b45a6368b8b66df][^M_C_d7d9fb01-3582-42e6-fe60-2cd9a5ab688c][^c-52838fb5518d31d92b6966a689ac9ebc]
 
-(1) Where an application for financial relief under any of the provisions referred to in Article 21(1)(a)(i), (ia) or (ii)[^key-9c4f18146a01c36061217797bd3c0aee] (supply of pension information in connection with domestic and overseas divorce etc. in Northern Ireland and corresponding England and Wales powers) has been made or is in contemplation, the valuation of benefits under a pension arrangement shall be calculated and verified for the purposes of regulation 2 in accordance with—
+(1) Where an application for financial relief under any of the provisions referred to in Article 21(1)(a)(i), (ia) or (ii)[^c-9c4f18146a01c36061217797bd3c0aee] (supply of pension information in connection with domestic and overseas divorce etc. in Northern Ireland and corresponding England and Wales powers) has been made or is in contemplation, the valuation of benefits under a pension arrangement shall be calculated and verified for the purposes of regulation 2 in accordance with—
 
-- (a)[^key-7c1f72428d58b992bb0ce92e8ce33cb0] paragraphs (3) and (4), if the person with pension rights is an active member, a deferred member or a pensioner member of an occupational pension scheme;
-- (b)[^key-0a0ae995ebefcdc570c92b8916aad92f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7c1f72428d58b992bb0ce92e8ce33cb0] paragraphs (3) and (4), if the person with pension rights is an active member, a deferred member or a pensioner member of an occupational pension scheme;
+- (b)[^c-0a0ae995ebefcdc570c92b8916aad92f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) paragraphs (5) and (6), if—
   - (i) the person with pension rights is a member of a personal pension scheme, or
   - (ii) those pension rights are contained in a retirement annuity contract, or
-- (d) paragraphs (7) and (8)[^key-8ceea442d76e9709ccbffffe4b3ec78c], if—
+- (d) paragraphs (7) and (8)[^c-8ceea442d76e9709ccbffffe4b3ec78c], if—
   - (i) the pension of the person with pension rights is in payment;
-  - (ii)[^key-1e39fb750b81c75f6150cfbbb342285b] the rights of the person with pension rights are contained in an insurance policy or annuity contract other than a retirement annuity contract;
-  - (iii) the rights of the person with pension rights are contained in a deferred annuity contract other than a retirement annuity contract, or[^key-24593a6f0db5722e35a511f1bb23a559]
+  - (ii)[^c-1e39fb750b81c75f6150cfbbb342285b] the rights of the person with pension rights are contained in an insurance policy or annuity contract other than a retirement annuity contract;
+  - (iii) the rights of the person with pension rights are contained in a deferred annuity contract other than a retirement annuity contract, or[^c-24593a6f0db5722e35a511f1bb23a559]
   - (iv) the pension of the person with pension rights is not in payment and the person has attained normal pension age.
 
 (2) Where an application for financial provision under any of the provisions referred to in Article 21(1)(*a*)(iii) (corresponding Scottish powers) has been made, or is in contemplation, the valuation of benefits under a pension arrangement shall be calculated and verified for the purposes of regulation 2 in accordance with regulation 3 of the Divorce etc. (Pensions) (Scotland) Regulations 2000[^f00020] (valuation).
 
-(3)[^key-2a1c0bdeb2fc9b63cc49bff29847eb15] Where a person with pension rights is an active member, a deferred member or a pensioner member of an occupational pension scheme, the value of those rights in relation to a category of benefits referred to in section 89(6) (scope of Chapter 1) must be calculated and verified in accordance with regulations 7 to 7C and 7E(1) to (3) of the Transfer Values Regulations (manner of calculation of cash equivalents, initial cash equivalents etc), as if—
+(3)[^c-2a1c0bdeb2fc9b63cc49bff29847eb15] Where a person with pension rights is an active member, a deferred member or a pensioner member of an occupational pension scheme, the value of those rights in relation to a category of benefits referred to in section 89(6) (scope of Chapter 1) must be calculated and verified in accordance with regulations 7 to 7C and 7E(1) to (3) of the Transfer Values Regulations (manner of calculation of cash equivalents, initial cash equivalents etc), as if—
 
 - (a) in the case of benefits other than money purchase benefits, the member has made an application for a statement of entitlement under section 89A on the date that the request for the valuation was received, or
 - (b) in the case of money purchase benefits, the member has made a valid application under section 91 to take the cash equivalent of those benefits on the date that the request for the valuation was received.
 
 (4) Where the person with pension rights is continuing to accrue rights to benefits in the category of benefits to be valued, paragraph (3) applies as if the person had ceased to accrue rights in that category of benefits on the date that the request for the valuation was received.
 
-(5) Where the person with pension rights is a member of a personal pension scheme, or those rights are contained in a retirement annuity contract, the value of the benefits which he has under that scheme or contract shall be taken to be the cash equivalent to which he would have acquired a right under section 90 (right to cash equivalent)[^key-2eec1dccf838f307812e4f1f5d5862f3], if he had made an application under section 91(1) on the date on which the request for the valuation was received.
+(5) Where the person with pension rights is a member of a personal pension scheme, or those rights are contained in a retirement annuity contract, the value of the benefits which he has under that scheme or contract shall be taken to be the cash equivalent to which he would have acquired a right under section 90 (right to cash equivalent)[^c-2eec1dccf838f307812e4f1f5d5862f3], if he had made an application under section 91(1) on the date on which the request for the valuation was received.
 
-(6) In relation to a personal pension scheme which is comprised in a retirement annuity contract made before 4th January 1988, paragraph (5) shall apply as if such a scheme were not excluded from the scope of Chapter 1 of Part 4ZA of the Act (transfers and contribution refunds) by section 89(5)(b)[^key-9e8fd6e7f2dccfdce014df5cd6601853].
+(6) In relation to a personal pension scheme which is comprised in a retirement annuity contract made before 4th January 1988, paragraph (5) shall apply as if such a scheme were not excluded from the scope of Chapter 1 of Part 4ZA of the Act (transfers and contribution refunds) by section 89(5)(b)[^c-9e8fd6e7f2dccfdce014df5cd6601853].
 
-(7)[^key-1f677011d5ed535a9cf783a302bc1b13] Cash equivalents are to be calculated and verified in accordance with regulations 7 to 7C and 7E(1) to (3) of the Transfer Values Regulations as appropriate.
+(7)[^c-1f677011d5ed535a9cf783a302bc1b13] Cash equivalents are to be calculated and verified in accordance with regulations 7 to 7C and 7E(1) to (3) of the Transfer Values Regulations as appropriate.
 
-(8)[^key-7256aca16dc966900fdf1114193918d4] When calculating and verifying a cash equivalent, regulations 7 to 7C and 7E(1) to (3) of the Transfer Values Regulations are to be read as if—
+(8)[^c-7256aca16dc966900fdf1114193918d4] When calculating and verifying a cash equivalent, regulations 7 to 7C and 7E(1) to (3) of the Transfer Values Regulations are to be read as if—
 
 - (a) in regulation 7—
   - (i) in paragraph (1)(a) the words “and then making any reductions in accordance with regulation 7D” were omitted;
@@ -179,7 +179,7 @@ the person responsible for the pension arrangement shall furnish that informatio
   - (i) in paragraph (1) for “trustees have” there were substituted “person responsible for the pension arrangement has”;
   - (ii) in paragraph (2) for “trustees” there were substituted “person responsible for the pension arrangement”.
 
-## 4. Provision of information in response to a notification that a pension sharing order or provision may be made[^key-ab9a0d66651c259c2272165f2ae589f3]
+## 4. Provision of information in response to a notification that a pension sharing order or provision may be made[^c-ab9a0d66651c259c2272165f2ae589f3]
 
 (1) A person responsible for a pension arrangement shall furnish the information specified in paragraph (2) to the member or to the court, as the case may be—
 
@@ -190,10 +190,10 @@ the person responsible for the pension arrangement shall furnish that informatio
 
 - (a) the full name of the pension arrangement and address to which any order or provision referred to in Article 25(1) (activation of pension sharing) should be sent;
 - (b) in the case of an occupational pension scheme, whether the scheme is winding up, and, if so,
-  - (i) the date on which the winding up commenced;[^key-773a52b266a399d4e526ef4fc252384a]
-  - (ii) the name and address of the trustees who are dealing with the winding up, and[^key-276687273a557eaf4a1e687cf6968b63]
-  - (iii)[^key-3ba69d55f42ed2889d5bfd39a9414309] whether the member’s rights to benefit are to be or are likely to be reduced in accordance with Articles 73 to 74 of the 1995 Order (winding up);
-- (c) in the case of an occupational pension scheme, whether a cash equivalent of the member’s pension rights, if calculated on the date the notification referred to in paragraph (1)(*a*) was received by the trustees or managers of that scheme, would be reduced in accordance with the provisions of paragraphs 2, 3 and 12 of Schedule 1A to the Transfer Values Regulations (reductions in initial cash equivalents)[^key-8d41e466369883048d6a1e390381c274] if the member were to transfer the cash equivalent of those rights out of the scheme[^key-f58e97ae1dea02cc5d90add9c530ef1b];
+  - (i) the date on which the winding up commenced;[^c-773a52b266a399d4e526ef4fc252384a]
+  - (ii) the name and address of the trustees who are dealing with the winding up, and[^c-276687273a557eaf4a1e687cf6968b63]
+  - (iii)[^c-3ba69d55f42ed2889d5bfd39a9414309] whether the member’s rights to benefit are to be or are likely to be reduced in accordance with Articles 73 to 74 of the 1995 Order (winding up);
+- (c) in the case of an occupational pension scheme, whether a cash equivalent of the member’s pension rights, if calculated on the date the notification referred to in paragraph (1)(*a*) was received by the trustees or managers of that scheme, would be reduced in accordance with the provisions of paragraphs 2, 3 and 12 of Schedule 1A to the Transfer Values Regulations (reductions in initial cash equivalents)[^c-8d41e466369883048d6a1e390381c274] if the member were to transfer the cash equivalent of those rights out of the scheme[^c-f58e97ae1dea02cc5d90add9c530ef1b];
 - (d) whether the person responsible for the pension arrangement is aware that the member’s rights under the pension arrangement are subject to any, and if so, to specify which, of the following—
   - (i) any order or provision specified in Article 25(1);
   - (ii) an order under Article 25 of the Matrimonial Causes Order (financial provision in connection with divorce proceedings, etc.) so far as it includes provision made by virtue of Article 27B or 27C of that Order[^f00027] (powers to include provisions about pensions);
@@ -209,10 +209,10 @@ the person responsible for the pension arrangement shall furnish that informatio
 - (g) whether the person responsible for the pension arrangement may levy additional charges specified in regulation 6 of the Charging Regulations, and if so, the scale of the additional charges which are likely to be made;
 - (h) whether the member is a trustee of the pension arrangement;
 - (i) whether the person responsible for the pension arrangement may request information about the member’s state of health from the member if a pension sharing order or provision were to be made;
-- (j)[^key-2de14e1c47711a828a39dd44288c4de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-2de14e1c47711a828a39dd44288c4de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) whether the person responsible for the pension arrangement requires information additional to that specified in regulation 5 (information required by the person responsible for the pension arrangement before the implementation period may begin) in order to implement the pension sharing order or provision.
 
-## 5. Information required by the person responsible for the pension arrangement before the implementation period may begin[^key-84321ad46a08b4dc16375a9b97359d47]
+## 5. Information required by the person responsible for the pension arrangement before the implementation period may begin[^c-84321ad46a08b4dc16375a9b97359d47]
 
 The information prescribed for the purposes of Article 31(1)(*b*) (information relating to the transferor and the transferee which the person responsible for the pension arrangement must receive) is—
 
@@ -237,9 +237,9 @@ The information prescribed for the purposes of Article 31(1)(*b*) (information r
 - (d) where the rights from which the pension credit is derived are held in an occupational pension scheme which is being wound up, whether the transferee has given an indication whether he wishes to transfer his pension credit rights which may have been reduced in accordance with the provisions of regulation 16(1) of the Implementation and Discharge of Liability Regulations (adjustments to the amount of pension credit — occupational pension schemes which are underfunded on the valuation day) to a qualifying arrangement, and
 - (e) any information requested by the person responsible for the pension arrangement in accordance with regulation 4(2)(*i*) or (*k*).
 
-## 6. Provision of information after the death of the person entitled to the pension credit before liability in respect of the pension credit has been discharged[^key-40166759be4ce1ece17d57646a5b9f33]
+## 6. Provision of information after the death of the person entitled to the pension credit before liability in respect of the pension credit has been discharged[^c-40166759be4ce1ece17d57646a5b9f33]
 
-(1)[^key-9f85cd90c88fc749594ce299ebcf4e05] Where the person entitled to the pension credit dies before the person responsible for the pension arrangement has discharged his liability in respect of the pension credit, the person responsible for the pension arrangement shall, within 21 days of the date of receipt of the notification of the death of the person entitled to the pension credit, notify in writing any person whom the person responsible for the pension arrangement considers should be notified of the matters specified in paragraph (2).
+(1)[^c-9f85cd90c88fc749594ce299ebcf4e05] Where the person entitled to the pension credit dies before the person responsible for the pension arrangement has discharged his liability in respect of the pension credit, the person responsible for the pension arrangement shall, within 21 days of the date of receipt of the notification of the death of the person entitled to the pension credit, notify in writing any person whom the person responsible for the pension arrangement considers should be notified of the matters specified in paragraph (2).
 
 (2) The matters specified in this paragraph are—
 
@@ -247,7 +247,7 @@ The information prescribed for the purposes of Article 31(1)(*b*) (information r
 - (b) whether the person responsible for the pension arrangement intends to recover charges from the person nominated to receive pension credit benefits, in accordance with regulations 2 to 9 of the Charging Regulations, and if so, a copy of the schedule of charges issued to the parties to pension sharing in accordance with regulation 2(2)(*b*) of the Charging Regulations (general requirements as to charges), and
 - (c) a list of any further information which the person responsible for the pension arrangement requires in order to discharge his liability in respect of the pension credit.
 
-## 7. Provision of information after receiving a pension sharing order or provision[^key-ce36b348009c82c272805a3fa290ce5d]
+## 7. Provision of information after receiving a pension sharing order or provision[^c-ce36b348009c82c272805a3fa290ce5d]
 
 (1) A person responsible for a pension arrangement who is in receipt of a pension sharing order or provision relating to that arrangement shall provide in writing to the transferor and transferee, or, where regulation 6(1) applies, to the person other than the person entitled to the pension credit referred to in regulation 6 of the Implementation and Discharge of Liability Regulations (discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit), as the case may be,—
 
@@ -264,7 +264,7 @@ The information prescribed for the purposes of Article 31(1)(*b*) (information r
 - (a) in the case of sub-paragraph (*a*), (*b*) or (*d*) of that paragraph, the day on which the person responsible for the pension arrangement receives the pension sharing order or provision, or
 - (b) in the case of sub-paragraph (*c*) of that paragraph, the later of the days specified in Article 31(1)(*a*) and (*b*) (implementation period).
 
-## 8. Provision of information after the implementation of a pension sharing order or provision[^key-4a3980e1d255344223fe511167e84382]
+## 8. Provision of information after the implementation of a pension sharing order or provision[^c-4a3980e1d255344223fe511167e84382]
 
 (1) The person responsible for the pension arrangement shall issue a notice of discharge of liability to the transferor and the transferee, or, as the case may be, the person entitled to the pension credit by virtue of regulation 6 of the Implementation and Discharge of Liability Regulations, no later than the end of the period of 21 days beginning with the day on which the discharge of liability in respect of the pension credit is completed.
 
@@ -334,14 +334,14 @@ the notice of discharge of liability to the transferee shall include the followi
 - (d) the transfer day, and
 - (e) any periodical charges the person responsible for the pension arrangement intends to make, including how and when those charges would be recovered from the payments made to the person entitled to the pension credit by virtue of regulation 6 of the Implementation and Discharge of Liability Regulations.
 
-## 9. Penalties[^key-065114e858520a2e0452092723791cdb]
+## 9. Penalties[^c-065114e858520a2e0452092723791cdb]
 
-Where any trustee or manager of an occupational pension scheme fails, without reasonable excuse, to comply with any requirement imposed under regulation 6, 7 or 8, the Pensions Regulator may by notice in writing[^key-d6cfdcec22d7daa34d7b37de1f58c658] require that trustee or manager to pay within 28 days from the date of its imposition a penalty which shall not exceed—
+Where any trustee or manager of an occupational pension scheme fails, without reasonable excuse, to comply with any requirement imposed under regulation 6, 7 or 8, the Pensions Regulator may by notice in writing[^c-d6cfdcec22d7daa34d7b37de1f58c658] require that trustee or manager to pay within 28 days from the date of its imposition a penalty which shall not exceed—
 
 - (a) £200 in the case of an individual, and
 - (b) £1000 in any other case.
 
-## 10. Provision of information after receipt of an earmarking order[^key-71df4b68a25198270ca277720d65c56a]
+## 10. Provision of information after receipt of an earmarking order[^c-71df4b68a25198270ca277720d65c56a]
 
 (1) The person responsible for the pension arrangement shall, within 21 days beginning with the day that he receives—
 
@@ -371,13 +371,13 @@ issue to the party with pension rights and the other party a notice which includ
   - (i) the party with pension rights, or
   - (ii) the other party,
 
-  in respect of the provision by the person responsible for the pension arrangement of information about pensions on divorce or dissolution of a civil partnership[^key-8af8d0898594188954c677766036ccbe] etc. pursuant to regulation 3 of the Charging Regulations, and in respect of complying with an order referred to in paragraph (1)(*a*), (*b*) or (*c*), and
+  in respect of the provision by the person responsible for the pension arrangement of information about pensions on divorce or dissolution of a civil partnership[^c-8af8d0898594188954c677766036ccbe] etc. pursuant to regulation 3 of the Charging Regulations, and in respect of complying with an order referred to in paragraph (1)(*a*), (*b*) or (*c*), and
 - (b) information as to the manner in which the person responsible for the pension arrangement will recover the charges referred to in sub-paragraph (*a*), including—
   - (i) the date when payment of those charges in whole or in part is required;
   - (ii) the sum which will be payable by the party with pension rights and the other party, as the case may be, and
   - (iii) whether the sum will be deducted from payments of pension to the party with pension rights, or, as the case may be, from payments to be made to the other party pursuant to an order referred to in paragraph (1)(*a*), (*b*) or (*c*).
 
-## 11. Provision of information – general[^key-ad05cd72869ae8bc16234d2da036e9ed]
+## 11. Provision of information – general[^c-ad05cd72869ae8bc16234d2da036e9ed]
 
 (1) Subject to paragraph (2), a person required to provide information under regulation 2, 4, 6, 7, 8 or 10 must provide that information in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
@@ -429,7 +429,7 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Norther
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-188aff9ee5ac6fd31cd778c51eef3b61]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/142/regulation/1) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-188aff9ee5ac6fd31cd778c51eef3b61]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/142/regulation/1) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
@@ -445,23 +445,23 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Norther
 
 [^f00010]: Footnote: [S.R. 2000 No. 144](https://www.legislation.gov.uk/nisr/2000/144)
 
-[^key-b076243a12260e1847458d94983f4c0a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/2/a)
+[^c-b076243a12260e1847458d94983f4c0a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/2/a)
 
 [^f00011]: Footnote: Section 97B is inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-eeaae1682913d891793c301a625e1f59]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/2/b)
+[^c-eeaae1682913d891793c301a625e1f59]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/2/b)
 
-[^key-9de0cf3e7a50a507a67bb267e4cf2a38]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-9de0cf3e7a50a507a67bb267e4cf2a38]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-61bab5ec2da57624e7fa0a8b7f8f065a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-61bab5ec2da57624e7fa0a8b7f8f065a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
 [^f00012]: Footnote: Article 27D was inserted by Article 162(1) of the Pensions (Northern Ireland) Order 1995 and is amended by paragraph 3 of Schedule 4 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-fa9cafd6f17d9833f67bc58f39919fb9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/2)
+[^c-fa9cafd6f17d9833f67bc58f39919fb9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/2)
 
 [^f00013]: Footnote: The definition of “personal pension scheme” is amended by paragraph 2(1)(*a*) of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-5cdf7e58d51af9468a1885622d0f6307]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [35(2)](https://www.legislation.gov.uk/uksi/2006/744/article/35/2)
+[^c-5cdf7e58d51af9468a1885622d0f6307]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/2) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [35(2)](https://www.legislation.gov.uk/uksi/2006/744/article/35/2)
 
 [^f00015]: Footnote: Regulation 1A was inserted by paragraph 11(3) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
@@ -469,59 +469,59 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Norther
 
 [^f00017]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
 
-[^key-79ff8c387e28ed50d14bc0931242efe5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/142/regulation/2) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-79ff8c387e28ed50d14bc0931242efe5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/142/regulation/2) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-b622bd1fc5644ead18836ca79ed9e6bc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2000/142/regulation/2) heading added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-b622bd1fc5644ead18836ca79ed9e6bc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2000/142/regulation/2) heading added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-3f5ca4a8dc29c8632e914d8e5035b3bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/1) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-3f5ca4a8dc29c8632e914d8e5035b3bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/1) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-5a67f49cb2f4d9ecafb8532996780c45]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/4) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/3)
+[^c-5a67f49cb2f4d9ecafb8532996780c45]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/4) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/3)
 
-[^key-516f9d8368e529a0e07aa4aab8ec6584]: Textual amendment: Words in [reg. 2(6)(b)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/6/b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(c)(i)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/c/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-516f9d8368e529a0e07aa4aab8ec6584]: Textual amendment: Words in [reg. 2(6)(b)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/6/b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(c)(i)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/c/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-911f593c1068998d0c1c4244531754fb]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/6) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/c/ii) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-911f593c1068998d0c1c4244531754fb]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/nisr/2000/142/regulation/2/6) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/3/c/ii) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-30f08f250b9660b47b45a6368b8b66df]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/142/regulation/3) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-30f08f250b9660b47b45a6368b8b66df]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/142/regulation/3) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
 [^M_C_d7d9fb01-3582-42e6-fe60-2cd9a5ab688c]: Modification: Reg. 3 applied (with modifications) (6.4.2002) by [The Occupational and Personal Pension Schemes (Bankruptcy) Regulations (Northern Ireland) 2002 (S.R. 2002/127)](https://www.legislation.gov.uk/nisr/2002/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/127/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2002/127/regulation/7/2)
 
-[^key-52838fb5518d31d92b6966a689ac9ebc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/142/regulation/3) heading inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/4/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-52838fb5518d31d92b6966a689ac9ebc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/142/regulation/3) heading inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/4/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-9c4f18146a01c36061217797bd3c0aee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/4/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-9c4f18146a01c36061217797bd3c0aee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/4/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-7c1f72428d58b992bb0ce92e8ce33cb0]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/a) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/a/i)
+[^c-7c1f72428d58b992bb0ce92e8ce33cb0]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/a) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/a/i)
 
-[^key-0a0ae995ebefcdc570c92b8916aad92f]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/b) omitted (6.4.2016) by virtue of [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/a/ii)
+[^c-0a0ae995ebefcdc570c92b8916aad92f]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/b) omitted (6.4.2016) by virtue of [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/a/ii)
 
-[^key-8ceea442d76e9709ccbffffe4b3ec78c]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/d) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/3/a/i)
+[^c-8ceea442d76e9709ccbffffe4b3ec78c]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/d) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/3/a/i)
 
-[^key-1e39fb750b81c75f6150cfbbb342285b]: Textual amendment: [Reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/d/ii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/a/iii)
+[^c-1e39fb750b81c75f6150cfbbb342285b]: Textual amendment: [Reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/d/ii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/a/iii)
 
-[^key-24593a6f0db5722e35a511f1bb23a559]: Textual amendment: [Reg. 3(1)(d)(iv)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/d/iv) and word added (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/3/a/iii)
+[^c-24593a6f0db5722e35a511f1bb23a559]: Textual amendment: [Reg. 3(1)(d)(iv)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/1/d/iv) and word added (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/3/a/iii)
 
 [^f00020]: Footnote: [S.S.I. 2000/112](https://www.legislation.gov.uk/ssi/2000/112)
 
-[^key-2a1c0bdeb2fc9b63cc49bff29847eb15]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/4) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/b)
+[^c-2a1c0bdeb2fc9b63cc49bff29847eb15]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/4) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/b)
 
-[^key-2eec1dccf838f307812e4f1f5d5862f3]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/5) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/c)
+[^c-2eec1dccf838f307812e4f1f5d5862f3]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/5) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/c)
 
-[^key-9e8fd6e7f2dccfdce014df5cd6601853]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/6) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/d)
+[^c-9e8fd6e7f2dccfdce014df5cd6601853]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/6) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/d)
 
-[^key-1f677011d5ed535a9cf783a302bc1b13]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/7)[(8)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/8) substituted for reg. 3(7)-(9) (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/3/b)
+[^c-1f677011d5ed535a9cf783a302bc1b13]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/7)[(8)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/8) substituted for reg. 3(7)-(9) (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/3/b)
 
-[^key-7256aca16dc966900fdf1114193918d4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/8) substituted for reg. 3(8)(10) (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/e)
+[^c-7256aca16dc966900fdf1114193918d4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/nisr/2000/142/regulation/3/8) substituted for reg. 3(8)(10) (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/4/e)
 
-[^key-ab9a0d66651c259c2272165f2ae589f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/142/regulation/4) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-ab9a0d66651c259c2272165f2ae589f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/142/regulation/4) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-773a52b266a399d4e526ef4fc252384a]: Textual amendment: Word in [reg. 4(2)(b)(i)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/b/i) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(a)(i)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/a/i)
+[^c-773a52b266a399d4e526ef4fc252384a]: Textual amendment: Word in [reg. 4(2)(b)(i)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/b/i) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(a)(i)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/a/i)
 
-[^key-276687273a557eaf4a1e687cf6968b63]: Textual amendment: Words in [reg. 4(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/b/ii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/a/ii)
+[^c-276687273a557eaf4a1e687cf6968b63]: Textual amendment: Words in [reg. 4(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/b/ii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/a/ii)
 
-[^key-3ba69d55f42ed2889d5bfd39a9414309]: Textual amendment: [Reg. 4(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/b/iii) added (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/a/iii)
+[^c-3ba69d55f42ed2889d5bfd39a9414309]: Textual amendment: [Reg. 4(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/b/iii) added (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/a/iii)
 
-[^key-8d41e466369883048d6a1e390381c274]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/c) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/4)
+[^c-8d41e466369883048d6a1e390381c274]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/c) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/3/4)
 
-[^key-f58e97ae1dea02cc5d90add9c530ef1b]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/c) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/b)
+[^c-f58e97ae1dea02cc5d90add9c530ef1b]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/c) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/2/5/b)
 
 [^f00027]: Footnote: Articles 27B and 27C were inserted by Article 162(1) of the Pensions (Northern Ireland) Order 1995 and are amended by paragraphs 1 and 2 respectively of Schedule 4 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
@@ -531,24 +531,24 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Norther
 
 [^f00030]: Footnote: [1980 c. 46](https://www.legislation.gov.uk/ukpga/1980/46)
 
-[^key-2de14e1c47711a828a39dd44288c4de5]: Textual amendment: [Reg. 4(2)(j)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/j) omitted (1.12.2000) by virtue of [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000 (S.R. 2000/335)](https://www.legislation.gov.uk/nisr/2000/335), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2000/335/regulation/8/2)
+[^c-2de14e1c47711a828a39dd44288c4de5]: Textual amendment: [Reg. 4(2)(j)](https://www.legislation.gov.uk/nisr/2000/142/regulation/4/2/j) omitted (1.12.2000) by virtue of [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000 (S.R. 2000/335)](https://www.legislation.gov.uk/nisr/2000/335), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2000/335/regulation/8/2)
 
-[^key-84321ad46a08b4dc16375a9b97359d47]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/142/regulation/5) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-84321ad46a08b4dc16375a9b97359d47]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/142/regulation/5) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-40166759be4ce1ece17d57646a5b9f33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/142/regulation/6) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-40166759be4ce1ece17d57646a5b9f33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/142/regulation/6) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-9f85cd90c88fc749594ce299ebcf4e05]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/6/1) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000 (S.R. 2000/335)](https://www.legislation.gov.uk/nisr/2000/335), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2000/335/regulation/8/3)
+[^c-9f85cd90c88fc749594ce299ebcf4e05]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/6/1) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000 (S.R. 2000/335)](https://www.legislation.gov.uk/nisr/2000/335), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2000/335/regulation/8/3)
 
-[^key-ce36b348009c82c272805a3fa290ce5d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/142/regulation/7) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-ce36b348009c82c272805a3fa290ce5d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/142/regulation/7) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-4a3980e1d255344223fe511167e84382]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/142/regulation/8) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-4a3980e1d255344223fe511167e84382]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/142/regulation/8) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-065114e858520a2e0452092723791cdb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/142/regulation/9) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-065114e858520a2e0452092723791cdb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/142/regulation/9) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-d6cfdcec22d7daa34d7b37de1f58c658]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2000/142/regulation/9) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [11](https://www.legislation.gov.uk/nisr/2009/115/regulation/11)
+[^c-d6cfdcec22d7daa34d7b37de1f58c658]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2000/142/regulation/9) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [11](https://www.legislation.gov.uk/nisr/2009/115/regulation/11)
 
-[^key-71df4b68a25198270ca277720d65c56a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/142/regulation/10) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
+[^c-71df4b68a25198270ca277720d65c56a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/142/regulation/10) in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/142/regulation/1/1)
 
-[^key-8af8d0898594188954c677766036ccbe]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/nisr/2000/142/regulation/10/5/a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/5) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+[^c-8af8d0898594188954c677766036ccbe]: Textual amendment: Words in [reg. 10(5)(a)](https://www.legislation.gov.uk/nisr/2000/142/regulation/10/5/a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/1/5) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
 
-[^key-ad05cd72869ae8bc16234d2da036e9ed]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/142/regulation/11) added (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/7)
+[^c-ad05cd72869ae8bc16234d2da036e9ed]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/142/regulation/11) added (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/7)

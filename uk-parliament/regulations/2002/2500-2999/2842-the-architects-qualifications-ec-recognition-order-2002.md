@@ -51,15 +51,15 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 2(2) of the European Communities Act 1972[^f00001] is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation and commencement[^key-357b202595d9af808a49969c3a0d2aaa]
+## 1. Citation and commencement[^c-357b202595d9af808a49969c3a0d2aaa]
 
 This Order may be cited as the Architects' Qualifications (EC Recognition) Order 2002 and shall come into force on 23rd December 2002.
 
-## 2. Amendment of Act[^key-60237a87a6beb8f8247bc89c1adf8d3b]
+## 2. Amendment of Act[^c-60237a87a6beb8f8247bc89c1adf8d3b]
 
 The Architects Act 1997[^f00002] is amended in accordance with Articles 3 to 6 below.
 
-## 3. Registration: general[^key-a850e432de03127efabfdef5485ce7f1]
+## 3. Registration: general[^c-a850e432de03127efabfdef5485ce7f1]
 
 (1) Section 4 (registration: general) is amended as follows.
 
@@ -75,7 +75,7 @@ The Architects Act 1997[^f00002] is amended in accordance with Articles 3 to 6 b
 > - (a) shall take into account the qualification, training or experience; and
 > - (b) may not require the applicant to pass a prescribed examination in architecture unless the Board considers it appropriate in the circumstances of the applicant’s case.
 
-## 4. Registration: further procedural requirements[^key-50c878eaaab7bfae8609a9295c7ad2b3]
+## 4. Registration: further procedural requirements[^c-50c878eaaab7bfae8609a9295c7ad2b3]
 
 (1) Section 6 (registration: further procedural requirements) is amended as follows.
 
@@ -90,7 +90,7 @@ The Architects Act 1997[^f00002] is amended in accordance with Articles 3 to 6 b
 >
 > (4B) Notice of a refusal in the case of an application under section 5 or to which section 4(2B) applies, shall state reasons for the refusal.
 
-## 5. Appeals[^key-8adb729cc12fe12a353c30aea122b001]
+## 5. Appeals[^c-8adb729cc12fe12a353c30aea122b001]
 
 After section 22 (appeals) add:
 
@@ -107,7 +107,7 @@ After section 22 (appeals) add:
 >
 > (5) No appeal shall lie from a decision of the Court on an appeal under this section.
 
-## 6. Interpretation[^key-253dae4d0c05628ad4684d3c50e794aa]
+## 6. Interpretation[^c-253dae4d0c05628ad4684d3c50e794aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,16 +133,16 @@ Clerk of the Privy Council
 
 [^f00001]: Footnote: [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) of the 1972 Act includes power to make provision in relation to the European Economic Area by virtue of section 2(5) of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-357b202595d9af808a49969c3a0d2aaa]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
+[^c-357b202595d9af808a49969c3a0d2aaa]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
 
-[^key-60237a87a6beb8f8247bc89c1adf8d3b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/2842/article/2) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
+[^c-60237a87a6beb8f8247bc89c1adf8d3b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/2842/article/2) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
 
 [^f00002]: Footnote: [1997 (c. 22)](https://www.legislation.gov.uk/ukpga/1997/22).
 
-[^key-a850e432de03127efabfdef5485ce7f1]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2842/article/3) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
+[^c-a850e432de03127efabfdef5485ce7f1]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2842/article/3) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
 
-[^key-50c878eaaab7bfae8609a9295c7ad2b3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2002/2842/article/4) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
+[^c-50c878eaaab7bfae8609a9295c7ad2b3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2002/2842/article/4) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
 
-[^key-8adb729cc12fe12a353c30aea122b001]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2002/2842/article/5) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
+[^c-8adb729cc12fe12a353c30aea122b001]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2002/2842/article/5) in force at 23.12.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2842/article/1)
 
-[^key-253dae4d0c05628ad4684d3c50e794aa]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2002/2842/article/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-253dae4d0c05628ad4684d3c50e794aa]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2002/2842/article/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

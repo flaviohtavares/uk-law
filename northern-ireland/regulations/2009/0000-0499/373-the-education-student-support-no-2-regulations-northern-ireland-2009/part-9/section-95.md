@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Payment of grants for living and other costs[^key-9725998f42190a588c8ff1f0e1e9ee58]
+## 95. Payment of grants for living and other costs[^c-9725998f42190a588c8ff1f0e1e9ee58]
 
 *Extent: N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9725998f42190a588c8ff1f0e1e9ee58]: Commencement: Reg. 95 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-9725998f42190a588c8ff1f0e1e9ee58]: Commencement: Reg. 95 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

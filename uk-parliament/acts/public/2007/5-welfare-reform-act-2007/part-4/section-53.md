@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Mobility component of disability living allowance: persons under the age of 16[^key-a6d63a57b64e1e5731b7216f6a9ac481]
+## 53. Mobility component of disability living allowance: persons under the age of 16[^c-a6d63a57b64e1e5731b7216f6a9ac481]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6d63a57b64e1e5731b7216f6a9ac481]: Commencement: S. 53 in force at 1.10.2007 by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/b)
+[^c-a6d63a57b64e1e5731b7216f6a9ac481]: Commencement: S. 53 in force at 1.10.2007 by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/b)

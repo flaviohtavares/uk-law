@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Terms of general medical services contracts and default contracts[^key-b1dfbd3e85c7e4474be537352a8adc97]
+## 57. Terms of general medical services contracts and default contracts[^c-b1dfbd3e85c7e4474be537352a8adc97]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the contract or agreement is of a type or nature to which a particular ar
 
 ## Annotations
 
-[^key-b1dfbd3e85c7e4474be537352a8adc97]: Commencement: Art. 57 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b1dfbd3e85c7e4474be537352a8adc97]: Commencement: Art. 57 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

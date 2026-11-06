@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Acquisition of subsoil only[^key-f53344881b2761af7ad933c91f764c87]
+## 20. Acquisition of subsoil only[^c-f53344881b2761af7ad933c91f764c87]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f53344881b2761af7ad933c91f764c87]: Commencement: Art. 20 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-f53344881b2761af7ad933c91f764c87]: Commencement: Art. 20 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

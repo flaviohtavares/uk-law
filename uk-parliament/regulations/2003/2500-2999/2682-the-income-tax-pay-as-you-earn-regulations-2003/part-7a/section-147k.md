@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147K. Liability to pay and duty to make a return of apprenticeship levy: Continental shelf workers certificate holders[^key-937f54e360ea7aaf085cc7de2b061d0b]
+## 147K. Liability to pay and duty to make a return of apprenticeship levy: Continental shelf workers certificate holders[^c-937f54e360ea7aaf085cc7de2b061d0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-937f54e360ea7aaf085cc7de2b061d0b]: Textual amendment: Pt. 7A inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/414/regulation/3)
+[^c-937f54e360ea7aaf085cc7de2b061d0b]: Textual amendment: Pt. 7A inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/414/regulation/3)

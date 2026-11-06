@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Hazardous substances consent: connected applications to the Secretary of State[^key-d00ab6d2f6dc1a0f592fc330b56fc1d9][^key-f3e4a3cfe53bff3acae8d2af0388e93f]
+## 129. Hazardous substances consent: connected applications to the Secretary of State[^c-d00ab6d2f6dc1a0f592fc330b56fc1d9][^c-f3e4a3cfe53bff3acae8d2af0388e93f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In section 62A of TCPA 1990 (when application may be made directly to the Secret
 
 ## Annotations
 
-[^key-d00ab6d2f6dc1a0f592fc330b56fc1d9]: Commencement: S. 129 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-d00ab6d2f6dc1a0f592fc330b56fc1d9]: Commencement: S. 129 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-f3e4a3cfe53bff3acae8d2af0388e93f]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2023/55/section/129) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/g)
+[^c-f3e4a3cfe53bff3acae8d2af0388e93f]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2023/55/section/129) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/g)

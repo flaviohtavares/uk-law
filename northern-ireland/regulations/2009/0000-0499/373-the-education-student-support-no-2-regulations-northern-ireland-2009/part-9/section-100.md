@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Payment of college fee loans[^key-182f0fb24a52439c6f57651a4c030309]
+## 100. Payment of college fee loans[^c-182f0fb24a52439c6f57651a4c030309]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-182f0fb24a52439c6f57651a4c030309]: Textual amendment: [Pt. 9 reg. 100](https://www.legislation.gov.uk/nisr/2009/373/part/9/regulation/100) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2022/75/regulation/11/c)
+[^c-182f0fb24a52439c6f57651a4c030309]: Textual amendment: [Pt. 9 reg. 100](https://www.legislation.gov.uk/nisr/2009/373/part/9/regulation/100) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2022/75/regulation/11/c)

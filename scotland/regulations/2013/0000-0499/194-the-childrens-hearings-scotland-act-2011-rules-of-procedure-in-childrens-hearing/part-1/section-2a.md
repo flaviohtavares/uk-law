@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Individuals to be afforded opportunity to participate[^key-a4e2d5253e345c9c1cc09c8e3ca5edec]
+## 2A. Individuals to be afforded opportunity to participate[^c-a4e2d5253e345c9c1cc09c8e3ca5edec]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e2d5253e345c9c1cc09c8e3ca5edec]: Textual amendment: Rule 2A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/2)
+[^c-a4e2d5253e345c9c1cc09c8e3ca5edec]: Textual amendment: Rule 2A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/2)

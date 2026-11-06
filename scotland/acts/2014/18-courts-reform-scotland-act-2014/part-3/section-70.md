@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Restrictions on granting a new trial[^key-48785cb14e6f0feca1b35e456c398e74][^key-b7f4f3ab11ede99476be93576002d820]
+## 70. Restrictions on granting a new trial[^c-48785cb14e6f0feca1b35e456c398e74][^c-b7f4f3ab11ede99476be93576002d820]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48785cb14e6f0feca1b35e456c398e74]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/18/section/70) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2015/247/article/8))
+[^c-48785cb14e6f0feca1b35e456c398e74]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/18/section/70) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2015/247/article/8))
 
-[^key-b7f4f3ab11ede99476be93576002d820]: Modification: [S. 70](https://www.legislation.gov.uk/asp/2014/18/section/70) amendment to earlier commencing S.S.I. 2015/247, art. 8(1) (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Commencement No. 5, Transitional and Saving Provisions) Order 2015 (S.S.I. 2015/378)](https://www.legislation.gov.uk/ssi/2015/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/378/article/1/1), [5](https://www.legislation.gov.uk/ssi/2015/378/article/5)
+[^c-b7f4f3ab11ede99476be93576002d820]: Modification: [S. 70](https://www.legislation.gov.uk/asp/2014/18/section/70) amendment to earlier commencing S.S.I. 2015/247, art. 8(1) (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Commencement No. 5, Transitional and Saving Provisions) Order 2015 (S.S.I. 2015/378)](https://www.legislation.gov.uk/ssi/2015/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/378/article/1/1), [5](https://www.legislation.gov.uk/ssi/2015/378/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.215. Procedure at hearing[^key-9a7275668303e2ec7795928c5a3935e9]
+## 4.215. Procedure at hearing[^c-9a7275668303e2ec7795928c5a3935e9]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a7275668303e2ec7795928c5a3935e9]: Commencement: [Rule 4.215](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.215) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9a7275668303e2ec7795928c5a3935e9]: Commencement: [Rule 4.215](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.215) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00115]: Marginal citation: \[FORM 4.65\]

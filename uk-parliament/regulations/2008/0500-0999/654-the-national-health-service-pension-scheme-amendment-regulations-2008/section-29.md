@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Insertion of new regulations G14-G17[^key-92e102dbdea6d2747e940dcb856221e5]
+## 29. Insertion of new regulations G14-G17[^c-92e102dbdea6d2747e940dcb856221e5]
 
 *Extent: E+W*
 
@@ -113,4 +113,4 @@ After regulation G13 insert—
 
 ## Annotations
 
-[^key-92e102dbdea6d2747e940dcb856221e5]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-92e102dbdea6d2747e940dcb856221e5]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

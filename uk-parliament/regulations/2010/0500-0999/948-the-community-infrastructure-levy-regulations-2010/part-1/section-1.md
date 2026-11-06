@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-80fbacd4acc3854c644cc06eec610c65]
+## 1. Citation and commencement[^c-80fbacd4acc3854c644cc06eec610c65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Community Infrastructure Levy Regulations 
 
 ## Annotations
 
-[^key-80fbacd4acc3854c644cc06eec610c65]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-80fbacd4acc3854c644cc06eec610c65]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

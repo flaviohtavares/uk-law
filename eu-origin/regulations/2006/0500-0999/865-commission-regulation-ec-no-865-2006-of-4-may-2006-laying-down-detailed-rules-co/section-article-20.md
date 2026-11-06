@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The applicant for an import permit shall, where appropriate, complete boxes 1, 3 to 6 and 8 to 23 of the application form and boxes 1, 3, 4, 5 and 8 to 22 of the original and all copies. The management authority[^key-b87e679185c5501c51e19181e8932e7d] may, however, provide that only an application form is to be completed, in which case such an application may relate to more than one shipment.
+1. The applicant for an import permit shall, where appropriate, complete boxes 1, 3 to 6 and 8 to 23 of the application form and boxes 1, 3, 4, 5 and 8 to 22 of the original and all copies. The management authority[^c-b87e679185c5501c51e19181e8932e7d] may, however, provide that only an application form is to be completed, in which case such an application may relate to more than one shipment.
 
-2. The duly completed form shall be submitted to the management authority [^key-55e28cb0f1ccd615b29940019455d0ed]... and shall contain the information and be accompanied by the documentary evidence that the authority deems necessary in order to enable it to determine whether, on the basis of Article 4 of Regulation (EC) No 338/97, a permit should be issued.
+2. The duly completed form shall be submitted to the management authority [^c-55e28cb0f1ccd615b29940019455d0ed]... and shall contain the information and be accompanied by the documentary evidence that the authority deems necessary in order to enable it to determine whether, on the basis of Article 4 of Regulation (EC) No 338/97, a permit should be issued.
 
 The omission of information from the application must be justified.
 
@@ -32,6 +32,6 @@ The omission of information from the application must be justified.
 
 ## Annotations
 
-[^key-b87e679185c5501c51e19181e8932e7d]: Textual amendment: Words in [Art. 20(1)](https://www.legislation.gov.uk/eur/2006/865/article/20/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(15)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/15/a)
+[^c-b87e679185c5501c51e19181e8932e7d]: Textual amendment: Words in [Art. 20(1)](https://www.legislation.gov.uk/eur/2006/865/article/20/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(15)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/15/a)
 
-[^key-55e28cb0f1ccd615b29940019455d0ed]: Textual amendment: Words in [Art. 20(2)](https://www.legislation.gov.uk/eur/2006/865/article/20/2) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(15)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/15/b)
+[^c-55e28cb0f1ccd615b29940019455d0ed]: Textual amendment: Words in [Art. 20(2)](https://www.legislation.gov.uk/eur/2006/865/article/20/2) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(15)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/15/b)

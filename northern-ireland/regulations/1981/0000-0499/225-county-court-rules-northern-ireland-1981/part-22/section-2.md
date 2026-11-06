@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Where Judge has interest in subject-matter[^key-d9aaa8c397d8933f1da071a1829b16e3]
+## 2. Where Judge has interest in subject-matter[^c-d9aaa8c397d8933f1da071a1829b16e3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9aaa8c397d8933f1da071a1829b16e3]: Textual amendment: Order 22 Pt. 1 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/5/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-d9aaa8c397d8933f1da071a1829b16e3]: Textual amendment: Order 22 Pt. 1 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/5/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

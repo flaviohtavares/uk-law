@@ -46,7 +46,7 @@ Coming into force
 
 23rd December 2007
 
-[^key-544829c14e951c6473e40367a5f6d52b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-544829c14e951c6473e40367a5f6d52b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-544829c14e951c6473e40367a5f6d52b]: Textual amendment: Regualtions revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2008 (S.S.I. 2008/180)](https://www.legislation.gov.uk/ssi/2008/180), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/180/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2008/180/regulation/3/2/b)
+[^c-544829c14e951c6473e40367a5f6d52b]: Textual amendment: Regualtions revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2008 (S.S.I. 2008/180)](https://www.legislation.gov.uk/ssi/2008/180), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/180/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2008/180/regulation/3/2/b)

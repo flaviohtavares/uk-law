@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Cessation of health service body status[^key-33ff8230cc99eb331833648782ece62e]
+## 12. Cessation of health service body status[^c-33ff8230cc99eb331833648782ece62e]
 
 *Extent: E+W*
 
@@ -33,10 +33,10 @@ summary: ''
 
 the contractor is to continue to be regarded as a health service body (and accordingly the contract is to continue to be regarded as an NHS contract) for the purposes of the consideration and determination of the dispute.
 
-(4) Where a contractor continues to be regarded as a health service body by virtue of paragraph (3)[^key-d0ec8eed708ff745529ade87e294b49e] for the purposes of the NHS dispute resolution procedure, the contractor ceases to be regarded as a health service body for those purposes on the conclusion of that procedure.
+(4) Where a contractor continues to be regarded as a health service body by virtue of paragraph (3)[^c-d0ec8eed708ff745529ade87e294b49e] for the purposes of the NHS dispute resolution procedure, the contractor ceases to be regarded as a health service body for those purposes on the conclusion of that procedure.
 
 ## Annotations
 
-[^key-33ff8230cc99eb331833648782ece62e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2023/953/regulation/12) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-33ff8230cc99eb331833648782ece62e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2023/953/regulation/12) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-d0ec8eed708ff745529ade87e294b49e]: Textual amendment: Words in reg. 12(4) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [10](https://www.legislation.gov.uk/wsi/2023/1421/regulation/10)
+[^c-d0ec8eed708ff745529ade87e294b49e]: Textual amendment: Words in reg. 12(4) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [10](https://www.legislation.gov.uk/wsi/2023/1421/regulation/10)

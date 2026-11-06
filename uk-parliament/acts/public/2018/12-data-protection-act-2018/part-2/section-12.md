@@ -22,8 +22,8 @@ summary: ''
 
 (1) The Secretary of State may by regulations specify limits on the fees that a controller may charge in reliance on—
 
-- (a) Article 12(5) of the UK GDPR[^key-e0073adcf48ad8394f78eb971946c0b3] (reasonable fees when responding to manifestly unfounded or excessive requests), or
-- (b) Article 15(3) of the UK GDPR[^key-6b4626506e6293d1de08b9da8fc15ff8] (reasonable fees for provision of further copies).
+- (a) Article 12(5) of the UK GDPR[^c-e0073adcf48ad8394f78eb971946c0b3] (reasonable fees when responding to manifestly unfounded or excessive requests), or
+- (b) Article 15(3) of the UK GDPR[^c-6b4626506e6293d1de08b9da8fc15ff8] (reasonable fees for provision of further copies).
 
 (2) The Secretary of State may by regulations—
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^M_I_6001f914-95f9-4acb-9746-21a3beccdfac]: Commencement: S. 12 in force at 25.5.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/b)
 
-[^key-e0073adcf48ad8394f78eb971946c0b3]: Textual amendment: Words in s. 12(1)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0073adcf48ad8394f78eb971946c0b3]: Textual amendment: Words in s. 12(1)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b4626506e6293d1de08b9da8fc15ff8]: Textual amendment: Words in s. 12(1)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b4626506e6293d1de08b9da8fc15ff8]: Textual amendment: Words in s. 12(1)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

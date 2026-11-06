@@ -66,11 +66,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 - “**the 1990 Act**” means the Human Fertilisation and Embryology Act 1990 [^c18680031],
 
-and other words and expressions have the same meaning as in the 1990 Act as amended by these Regulations and the Human Fertilisation and Embryology Act 2008[^key-6f34765b6aaae96d2152a3c673563bf5].
+and other words and expressions have the same meaning as in the 1990 Act as amended by these Regulations and the Human Fertilisation and Embryology Act 2008[^c-6f34765b6aaae96d2152a3c673563bf5].
 
-### 2. Designation of the competent authority: Northern Ireland[^key-5fc3bb94de2410d7398778aaeaf48bbd]
+### 2. Designation of the competent authority: Northern Ireland[^c-5fc3bb94de2410d7398778aaeaf48bbd]
 
-In relation to Northern Ireland, the Human Fertilisation and Embryology Authority[^key-efc56ceb5f363bd0fd30bc0c48dbba3f] (in these Regulations referred to as “**the Authority**”) is designated the competent authority for the purpose of the first, second and third Directives so far as they relate to gametes and embryos.
+In relation to Northern Ireland, the Human Fertilisation and Embryology Authority[^c-efc56ceb5f363bd0fd30bc0c48dbba3f] (in these Regulations referred to as “**the Authority**”) is designated the competent authority for the purpose of the first, second and third Directives so far as they relate to gametes and embryos.
 
 ## PART 2 — AMENDMENTS TO THE 1990 ACT
 
@@ -860,11 +860,11 @@ A Regulatory Impact Assessment and a Transposition Note have been prepared for t
 
 [^c18680031]: Marginal citation: [1990 c.37](https://www.legislation.gov.uk/ukpga/1990/37).
 
-[^key-6f34765b6aaae96d2152a3c673563bf5]: Textual amendment: Words in reg. 1(4) inserted (1.10.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/b), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/1892/schedule/3/paragraph/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+[^c-6f34765b6aaae96d2152a3c673563bf5]: Textual amendment: Words in reg. 1(4) inserted (1.10.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/b), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/1892/schedule/3/paragraph/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
 
-[^key-5fc3bb94de2410d7398778aaeaf48bbd]: Textual amendment: [Reg. 2 heading](https://www.legislation.gov.uk/uksi/2007/1522/regulation/2) substituted (31.12.2020) by S.I. 2019/482 reg. 3(a) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1307/regulation/19))
+[^c-5fc3bb94de2410d7398778aaeaf48bbd]: Textual amendment: [Reg. 2 heading](https://www.legislation.gov.uk/uksi/2007/1522/regulation/2) substituted (31.12.2020) by S.I. 2019/482 reg. 3(a) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1307/regulation/19))
 
-[^key-efc56ceb5f363bd0fd30bc0c48dbba3f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1522/regulation/2) substituted (31.12.2020) by S.I. 2019/482 reg. 3(b) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1307/regulation/19))
+[^c-efc56ceb5f363bd0fd30bc0c48dbba3f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1522/regulation/2) substituted (31.12.2020) by S.I. 2019/482 reg. 3(b) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1307/regulation/19))
 
 [^c18680041]: Marginal citation: OJ L102, 7.4.2004, p.48, OJ L38, 9.2.2006, p.40 and OJ L294, 25.10.2006, p.32.
 

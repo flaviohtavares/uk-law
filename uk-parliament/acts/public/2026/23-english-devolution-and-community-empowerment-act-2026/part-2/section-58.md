@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Prohibition of secondary legislation removing functions[^key-b0aee9d74bd4716cc34c2674eb66e9a6][^key-dd2180b1a54ef63b6a19902eec31ebeb]
+## 58. Prohibition of secondary legislation removing functions[^c-b0aee9d74bd4716cc34c2674eb66e9a6][^c-dd2180b1a54ef63b6a19902eec31ebeb]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0aee9d74bd4716cc34c2674eb66e9a6]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-b0aee9d74bd4716cc34c2674eb66e9a6]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-dd2180b1a54ef63b6a19902eec31ebeb]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2026/23/section/58) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-dd2180b1a54ef63b6a19902eec31ebeb]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2026/23/section/58) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

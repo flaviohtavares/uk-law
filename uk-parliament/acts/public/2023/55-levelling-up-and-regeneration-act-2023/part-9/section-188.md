@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. ‘No-scheme’ principle: minor amendments[^key-4f4b2d244718759c02beb32bfb544994][^key-fcd2ee1aa5f9949a553a8110ac619afe]
+## 188. ‘No-scheme’ principle: minor amendments[^c-4f4b2d244718759c02beb32bfb544994][^c-fcd2ee1aa5f9949a553a8110ac619afe]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f4b2d244718759c02beb32bfb544994]: Commencement: S. 188 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-4f4b2d244718759c02beb32bfb544994]: Commencement: S. 188 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-fcd2ee1aa5f9949a553a8110ac619afe]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2023/55/section/188) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/o)
+[^c-fcd2ee1aa5f9949a553a8110ac619afe]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2023/55/section/188) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/o)

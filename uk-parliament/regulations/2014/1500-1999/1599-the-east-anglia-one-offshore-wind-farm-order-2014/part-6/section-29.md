@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Deemed marine licences under the Marine and Coastal Access Act 2009[^key-6ebcc30421cb262ed540d5c1d61bd7a8]
+## 29. Deemed marine licences under the Marine and Coastal Access Act 2009[^c-6ebcc30421cb262ed540d5c1d61bd7a8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertakers is granted the deemed licences under Part 4 Chapter 1 of the 200
 
 ## Annotations
 
-[^key-6ebcc30421cb262ed540d5c1d61bd7a8]: Commencement: Art. 29 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-6ebcc30421cb262ed540d5c1d61bd7a8]: Commencement: Art. 29 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

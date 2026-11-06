@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Content of notices of sums in arrears under fixed-sum credit agreements etc.[^key-6f15be89fdc91bfb4b500b61f5d1c06b]
+## 19. Content of notices of sums in arrears under fixed-sum credit agreements etc.[^c-6f15be89fdc91bfb4b500b61f5d1c06b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 (5) Subject to regulation 20(3)(c), the reference to the account in paragraphs 8 and 10 of Schedule 3 shall be construed as a reference to all accounts maintained by the creditor or owner which relate to the agreement with the debtor or hirer.
 
-**20.**[^key-bbfdc606779da6ff0e5e7059449055db] (1) Where the creditor and the debtor have entered into an agreement to aggregate and an arrears notice is required to be given in relation to two or more of the agreements to which the agreement to aggregate relates—
+**20.**[^c-bbfdc606779da6ff0e5e7059449055db] (1) Where the creditor and the debtor have entered into an agreement to aggregate and an arrears notice is required to be given in relation to two or more of the agreements to which the agreement to aggregate relates—
 
 - (a) the information required under paragraphs 1 and 2 of Schedule 3 need only be shown once where the information which would otherwise have to be included for the agreements to which the agreement to aggregate relates is the same for each agreement;
 - (b) where any of the forms of wording set out in paragraphs 4, 5 and 13 of that Schedule do not apply to all the agreements to which the agreement to aggregate relates the creditor shall identify for each such form of wording which does not so apply the regulated agreement or agreements to which it relates.
@@ -63,9 +63,9 @@ summary: ''
 - (b) the reference to interest or other charges in paragraph 9 of that Schedule may be construed as a reference to the aggregated interest or other charges which became due during the period to which the notice relates; and
 - (c) the reference to movements in paragraph 10 of that Schedule may be construed as a reference to the aggregated movements in all the accounts maintained by the creditor in relation to the agreements to which the agreement to aggregate relates.
 
-**21.**[^key-6b450c5833ac5de7f0e55610a77539fc] Subject to regulation 22(c), where not all the sums permitted to be shown in the notice as an aggregated figure under regulation 20(3) are so shown, the creditor shall indicate where each figure for a sum paid[^M_F_85ad13d7-8f7e-46f4-909b-5bffe9fc2ca7] or interest or charges which became due or the movement in the account which occurred is an aggregated figure.
+**21.**[^c-6b450c5833ac5de7f0e55610a77539fc] Subject to regulation 22(c), where not all the sums permitted to be shown in the notice as an aggregated figure under regulation 20(3) are so shown, the creditor shall indicate where each figure for a sum paid[^M_F_85ad13d7-8f7e-46f4-909b-5bffe9fc2ca7] or interest or charges which became due or the movement in the account which occurred is an aggregated figure.
 
-**22.**[^key-39dd3cc0a51da242d06f3d5e53053652] Where the agreement to aggregate concerns agreements to which regulation 2(8) of the Consumer Credit (Agreements) Regulations 1983 applies and the notice is required to be given under section section 86B(2)[^M_F_de971fc8-b6c2-43e9-efed-06d34c5a1b3d] of the 1974 Act—
+**22.**[^c-39dd3cc0a51da242d06f3d5e53053652] Where the agreement to aggregate concerns agreements to which regulation 2(8) of the Consumer Credit (Agreements) Regulations 1983 applies and the notice is required to be given under section section 86B(2)[^M_F_de971fc8-b6c2-43e9-efed-06d34c5a1b3d] of the 1974 Act—
 
 - (a) the references to—
   - (i) the opening balance in paragraph 3(b) of Schedule 3; [^M_F_51bfcb3f-4885-4589-ad80-7c6e8363e4dd]...
@@ -76,7 +76,7 @@ summary: ''
 - (b) the reference to the balance under the agreement at the end of the period to which the notice relates may be construed as a reference to the aggregated balance under the agreements to which the agreement to aggregate relates at the end of that period; and
 - (c) the creditor shall not be required to comply with regulation 21.
 
-**23.**[^key-6ed3524ba3fd9cdb08b98644569e536e] Where all the sums payable under two or more agreements made between the creditor and the debtor at least one of which is a regulated fixed-sum credit agreement have become due and the creditor aggregates the sums due under those agreements for the purpose of recovering those sums—
+**23.**[^c-6ed3524ba3fd9cdb08b98644569e536e] Where all the sums payable under two or more agreements made between the creditor and the debtor at least one of which is a regulated fixed-sum credit agreement have become due and the creditor aggregates the sums due under those agreements for the purpose of recovering those sums—
 
 - (a) the reference to the opening balance in paragraph 3(b) of Schedule 3 may be construed as a reference to the aggregated opening balance under those agreements;
 - (b) the reference to opening balance in paragraph 7 of that Schedule may be construed as a reference to a sum equal to the aggregated parts of the opening balance under those agreements which the debtor has failed to pay in full when they became due;
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6f15be89fdc91bfb4b500b61f5d1c06b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/1167/regulation/19) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-6f15be89fdc91bfb4b500b61f5d1c06b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/1167/regulation/19) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^M_F_cdf8cdb4-baee-4813-ca0d-08b27bb2db11]: Textual amendment: Words in reg. 19(1)(a) substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(j)(i)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/j/i)
 
@@ -100,15 +100,15 @@ summary: ''
 
 [^M_F_9b35ab20-bb6a-4d6b-d3ef-aaadab7f8684]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/19/3A) inserted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(j)(iv)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/j/iv)
 
-[^key-bbfdc606779da6ff0e5e7059449055db]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/1167/regulation/20) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-bbfdc606779da6ff0e5e7059449055db]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/1167/regulation/20) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^M_F_827a02c5-cf18-4456-c34c-d9aab3a30bf1]: Textual amendment: [Reg. 20(3)(a)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/20/3/a) substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(k)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/k)
 
-[^key-6b450c5833ac5de7f0e55610a77539fc]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/1167/regulation/21) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-6b450c5833ac5de7f0e55610a77539fc]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/1167/regulation/21) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^M_F_85ad13d7-8f7e-46f4-909b-5bffe9fc2ca7]: Textual amendment: Words in reg. 21 substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(l)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/l)
 
-[^key-39dd3cc0a51da242d06f3d5e53053652]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/1167/regulation/22) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-39dd3cc0a51da242d06f3d5e53053652]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/1167/regulation/22) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^M_F_de971fc8-b6c2-43e9-efed-06d34c5a1b3d]: Textual amendment: Words in reg. 22 substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(m)(i)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/m/i)
 
@@ -118,6 +118,6 @@ summary: ''
 
 [^M_F_5a7d5304-63b0-4e95-9900-d51b4ce1f7ee]: Textual amendment: Words in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/22/a) inserted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(m)(ii)(cc)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/m/ii/cc)
 
-[^key-6ed3524ba3fd9cdb08b98644569e536e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/1167/regulation/23) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-6ed3524ba3fd9cdb08b98644569e536e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/1167/regulation/23) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^M_F_1987b73e-0ca8-4d54-a6e9-43b575b92484]: Textual amendment: [Reg. 23(c)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/23/c) substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(n)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/n)

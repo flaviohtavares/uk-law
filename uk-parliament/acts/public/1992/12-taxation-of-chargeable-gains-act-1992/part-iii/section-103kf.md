@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103KF. Relief for external investors on disposal of partnership asset[^key-e022a4fc97529bd5149a58dc34a88cad]
+## 103KF. Relief for external investors on disposal of partnership asset[^c-e022a4fc97529bd5149a58dc34a88cad]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ where—
 - (a) I is an amount equal to such part of the sum invested in the fund by the external investor which on a just and reasonable basis is referable to the asset or assets disposed of, and
 - (b) C is the amount deducted under section 38(1)(a) in respect of consideration given wholly and exclusively for the acquisition of the asset or assets.
 
-(3)[^key-29b010e3382a2448a4807c7cd4534f84] In this section, “**external investor**” and “**investment scheme**” have the same meaning as in section 23I of ITTOIA 2005 (see section 23R of that Act).
+(3)[^c-29b010e3382a2448a4807c7cd4534f84] In this section, “**external investor**” and “**investment scheme**” have the same meaning as in section 23I of ITTOIA 2005 (see section 23R of that Act).
 
 ## Annotations
 
-[^key-e022a4fc97529bd5149a58dc34a88cad]: Textual amendment: Pt. 3 Ch. 5 inserted (with effect in accordance with s. 43(2)-(4) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/1)
+[^c-e022a4fc97529bd5149a58dc34a88cad]: Textual amendment: Pt. 3 Ch. 5 inserted (with effect in accordance with s. 43(2)-(4) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/1)
 
-[^key-29b010e3382a2448a4807c7cd4534f84]: Textual amendment: S. 103KF(3) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(10)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/10)
+[^c-29b010e3382a2448a4807c7cd4534f84]: Textual amendment: S. 103KF(3) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(10)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Northern Ireland Civil Service Pension Board: membership[^key-2a8d6982d654e0a045433f7a5c4c29a3]
+## 7. Northern Ireland Civil Service Pension Board: membership[^c-2a8d6982d654e0a045433f7a5c4c29a3]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2a8d6982d654e0a045433f7a5c4c29a3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/290/regulation/7) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-2a8d6982d654e0a045433f7a5c4c29a3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/290/regulation/7) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00041]: Footnote: ()See section 5(7) of the Act for the meaning of “employer representatives” and “member representatives”
 

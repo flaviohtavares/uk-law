@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Display of advertisements in contravention of regulations[^key-fffbb9c9dbdf827801970c32a11bda5e]
+## 53. Display of advertisements in contravention of regulations[^c-fffbb9c9dbdf827801970c32a11bda5e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 224(3) of the Town and Country Planning Act 1990 (c. 8) (offence of d
 
 ## Annotations
 
-[^key-fffbb9c9dbdf827801970c32a11bda5e]: Commencement: S. 53 in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/d)
+[^c-fffbb9c9dbdf827801970c32a11bda5e]: Commencement: S. 53 in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/d)

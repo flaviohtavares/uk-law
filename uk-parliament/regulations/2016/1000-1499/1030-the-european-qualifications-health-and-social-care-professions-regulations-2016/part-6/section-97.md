@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Amendment of section 29A[^key-cfd515849f81d45b8eb63d1581d0d7d3]
+## 97. Amendment of section 29A[^c-cfd515849f81d45b8eb63d1581d0d7d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfd515849f81d45b8eb63d1581d0d7d3]: Commencement: Reg. 97 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-cfd515849f81d45b8eb63d1581d0d7d3]: Commencement: Reg. 97 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00078]: Footnote: Section 29A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

@@ -50,9 +50,9 @@ These Regulations are made in exercise of the powers conferred by sections 149(3
 
 The power in section 149(3) of the Banking Act 2009 is being exercised for the first time and the Treasury are satisfied, in accordance with section 259(4) of that Act, that it is necessary to exercise it without laying a draft for approval.
 
-Accordingly, the Treasury make the following Regulations:[^key-74cac688ea0064a71ff2a025399b5bda]
+Accordingly, the Treasury make the following Regulations:[^c-74cac688ea0064a71ff2a025399b5bda]
 
-## 1. Citation, commencement and interpretation[^key-0163dd6b15620f4f79325ed575206627]
+## 1. Citation, commencement and interpretation[^c-0163dd6b15620f4f79325ed575206627]
 
 (1) These Regulations may be cited as the Banking Act 2009 (Bank Administration) (Modification for Application to Multiple Transfers) Regulations 2009 and come into force on 21st February 2009.
 
@@ -67,14 +67,14 @@ Accordingly, the Treasury make the following Regulations:[^key-74cac688ea0064a71
 - “private sector transferee” means a transferee under a property transfer order by virtue of section 45(2) of the Act who is not an onward public sector transferee;
 - “property transfer instrument” has the meaning given by section 149(2) of the Act[^f00002].
 
-## 2. Modification of Part 3 where more than one property transfer instrument is made (other than in respect of a bank in temporary public ownership)[^key-d24286e11a7c78e72bf1c50621224bde]
+## 2. Modification of Part 3 where more than one property transfer instrument is made (other than in respect of a bank in temporary public ownership)[^c-d24286e11a7c78e72bf1c50621224bde]
 
 The modifications of Part 3 of the Act listed in the Table to the Schedule apply where—
 
 - (a) the Bank of England makes more than one property transfer instrument in respect of a bank, and
 - (b) Part 3 applies to the bank by virtue of section 149 of the Act.
 
-## 3. Modification of Part 3 where more than one property transfer instrument is made in respect of a bank in temporary public ownership[^key-d2bc56c789f7492078e9ef7c95756724]
+## 3. Modification of Part 3 where more than one property transfer instrument is made in respect of a bank in temporary public ownership[^c-d2bc56c789f7492078e9ef7c95756724]
 
 (1) The modifications of Part 3 of the Act listed in the Table to the Schedule apply with the general modifications specified in paragraph (2) where—
 
@@ -96,7 +96,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 19th February 2009
 
-## SCHEDULE 1 — MODIFICATIONS[^key-4dc2f34cec992cfe7c870e0dc5e501f6]
+## SCHEDULE 1 — MODIFICATIONS[^c-4dc2f34cec992cfe7c870e0dc5e501f6]
 
 Regulations 2 and 3
 
@@ -127,18 +127,18 @@ Regulation 3, therefore, applies Part 3 of the Act where the Treasury make more 
 
 [^f00001]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-74cac688ea0064a71ff2a025399b5bda]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/313) applied (with modifications) (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 18](https://www.legislation.gov.uk/uksi/2009/805/article/18), [Sch. 2 paras. 1(c)](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/1/c), [2](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/2), [4](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/4)
+[^c-74cac688ea0064a71ff2a025399b5bda]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/313) applied (with modifications) (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 18](https://www.legislation.gov.uk/uksi/2009/805/article/18), [Sch. 2 paras. 1(c)](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/1/c), [2](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/2), [4](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/4)
 
-[^key-0163dd6b15620f4f79325ed575206627]: Commencement: Reg. 1 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
+[^c-0163dd6b15620f4f79325ed575206627]: Commencement: Reg. 1 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
 
 [^f00002]: Footnote: Section 149(2) defines “property transfer instrument” for the purposes of regulations made under section 149(3). For those purposes a reference to a property transfer instrument includes a reference to supplemental instruments under section 42 of the Act (supplemental instruments), onward property transfer instruments under section 43 of the Act (onward transfer), and property transfer orders under section 45 of the Act (temporary public ownership: property transfer).
 
-[^key-d24286e11a7c78e72bf1c50621224bde]: Commencement: Reg. 2 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
+[^c-d24286e11a7c78e72bf1c50621224bde]: Commencement: Reg. 2 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
 
-[^key-d2bc56c789f7492078e9ef7c95756724]: Commencement: Reg. 3 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
+[^c-d2bc56c789f7492078e9ef7c95756724]: Commencement: Reg. 3 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
 
 [^f00003]: Footnote: In accordance with section 149(2), a reference to a “property transfer instrument” made by the Treasury is a reference to a property transfer order under section 45(2) or a supplemental property transfer order under section 42 (supplemental instrument) as applied by section 45(7) of the Act.
 
 [^f00004]: Footnote: Section 152(3) confers a power on the Treasury to make regulations applying Part 3 where the Treasury make a share transfer order in respect of the securities issued by a bank (or a bank’s holding company), in accordance with section 13(2) (temporary public ownership) and later make a property transfer order in respect of the bank (or from another bank which is in the same group as the bank) under section 45(2) of the Act (property transfer from temporary public ownership). The Treasury has made regulations in exercise of that power and the regulations are entitled the Banking Act 2009 (Bank Administration) (Modification for Application to Banks in Temporary Public Ownership) Regulations 2009 ([S.I. 2009/312](https://www.legislation.gov.uk/uksi/2009/312)).
 
-[^key-4dc2f34cec992cfe7c870e0dc5e501f6]: Commencement: Sch. 1 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)
+[^c-4dc2f34cec992cfe7c870e0dc5e501f6]: Commencement: Sch. 1 in force at 21.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1)

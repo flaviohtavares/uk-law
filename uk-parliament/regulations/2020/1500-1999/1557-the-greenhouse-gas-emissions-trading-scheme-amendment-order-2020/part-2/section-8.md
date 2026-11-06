@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Article 9 amended (meaning of regulator)[^key-665f3c4b47170cf2ca6a055f8a12ede4]
+## 8. Article 9 amended (meaning of regulator)[^c-665f3c4b47170cf2ca6a055f8a12ede4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-665f3c4b47170cf2ca6a055f8a12ede4]: Commencement: Art. 8 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-665f3c4b47170cf2ca6a055f8a12ede4]: Commencement: Art. 8 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

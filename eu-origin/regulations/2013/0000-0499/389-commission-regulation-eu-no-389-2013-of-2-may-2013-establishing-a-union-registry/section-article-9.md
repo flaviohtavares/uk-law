@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 9. Accounts[^key-69f0a0f819ce36b65d7fc3808ff9c085]
+## Article 9. Accounts[^c-69f0a0f819ce36b65d7fc3808ff9c085]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69f0a0f819ce36b65d7fc3808ff9c085]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2013/389/article/9) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/5)
+[^c-69f0a0f819ce36b65d7fc3808ff9c085]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2013/389/article/9) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/5)

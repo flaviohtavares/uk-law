@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Recovery of Minister’s costs in connection with inquiries.[^c11872471][^c11872481][^key-174d2cb0ae87da0bca6634856a324a08][^key-ad94298891f07cf8fdfa5b859d622d76]
+## 42. Recovery of Minister’s costs in connection with inquiries.[^c11872471][^c11872481][^c-174d2cb0ae87da0bca6634856a324a08][^c-ad94298891f07cf8fdfa5b859d622d76]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11872521]
 - (e) any other statutory provision to which this section is applied by order of the Minister.
 
-(2)[^key-ce374a532665c0bde092865214588843] What may be recovered by the Minister is the entire administrative cost of the inquiry, so that, in particular—
+(2)[^c-ce374a532665c0bde092865214588843] What may be recovered by the Minister is the entire administrative cost of the inquiry, so that, in particular—
 
 - (a) there shall be treated as costs incurred in relation to the inquiry such reasonable sum as the Minister may determine in respect of the general staff costs and overheads of his department, and
 - (b) there shall be treated as costs incurred by the Minister holding the inquiry any costs incurred in relation to the inquiry by any other Minister or government department and, where appropriate, such reasonable sum as that Minister or department may determine in respect of general staff costs and overheads.
@@ -54,9 +54,9 @@ summary: ''
 
     S. 42: functions shall be exercisable by the Assembly concurrently with any Minister of the Crown (16.2.2000) by [S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253), [art. 2](https://www.legislation.gov.uk/uksi/2000/253/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1)
 
-[^key-174d2cb0ae87da0bca6634856a324a08]: Modification: S. 42 applied by 1990 c. 8, s. 322(1D) (as inserted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/b))
+[^c-174d2cb0ae87da0bca6634856a324a08]: Modification: S. 42 applied by 1990 c. 8, s. 322(1D) (as inserted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/b))
 
-[^key-ad94298891f07cf8fdfa5b859d622d76]: Modification: S. 42 applied by 1990 c. 8, s. 322A(5) (as inserted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/b))
+[^c-ad94298891f07cf8fdfa5b859d622d76]: Modification: S. 42 applied by 1990 c. 8, s. 322A(5) (as inserted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/b))
 
 [^c11872491]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^c11872521]: Textual amendment: S. 42(1)(d) repealed by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-ce374a532665c0bde092865214588843]: Modification: S. 42(2) applied by 1981 c. 67, s. 13B(6) (as inserted (6.8.2004 for specified purposes, 31.10.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/6) (with [s. 100(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/8)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a))
+[^c-ce374a532665c0bde092865214588843]: Modification: S. 42(2) applied by 1981 c. 67, s. 13B(6) (as inserted (6.8.2004 for specified purposes, 31.10.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/6) (with [s. 100(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/8)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a))

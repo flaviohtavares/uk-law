@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Stopping up of streets and private access[^key-74fee8509e1c8edda0828ec5f251509c]
+## 12. Stopping up of streets and private access[^c-74fee8509e1c8edda0828ec5f251509c]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74fee8509e1c8edda0828ec5f251509c]: Commencement: Art. 12 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-74fee8509e1c8edda0828ec5f251509c]: Commencement: Art. 12 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

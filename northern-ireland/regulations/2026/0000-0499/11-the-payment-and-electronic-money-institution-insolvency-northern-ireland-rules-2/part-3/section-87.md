@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Delivering a progress report[^key-e957420edc8e54131ee20b49a02f4010]
+## 87. Delivering a progress report[^c-e957420edc8e54131ee20b49a02f4010]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ but this paragraph does not apply when the period covered by the report is that 
 
 ## Annotations
 
-[^key-e957420edc8e54131ee20b49a02f4010]: Commencement: [Rule 87](https://www.legislation.gov.uk/nisr/2026/11/rule/87) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e957420edc8e54131ee20b49a02f4010]: Commencement: [Rule 87](https://www.legislation.gov.uk/nisr/2026/11/rule/87) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

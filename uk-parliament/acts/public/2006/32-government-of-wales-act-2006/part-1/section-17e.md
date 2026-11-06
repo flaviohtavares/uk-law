@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17E. Exception from disqualification by virtue of being a councillor: ordinary election of councillors within 372 days[^key-e68ad2a3a4655d3c4b35937a533e4ef8]
+## 17E. Exception from disqualification by virtue of being a councillor: ordinary election of councillors within 372 days[^c-e68ad2a3a4655d3c4b35937a533e4ef8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e68ad2a3a4655d3c4b35937a533e4ef8]: Textual amendment: [S. 17E](https://www.legislation.gov.uk/ukpga/2006/32/section/17E) omitted (with effect in accordance with [s. 61(7)](https://www.legislation.gov.uk/asc/2024/5/section/61/7) of the amending Act) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 61(5)](https://www.legislation.gov.uk/asc/2024/5/section/61/5), [72(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/b)
+[^c-e68ad2a3a4655d3c4b35937a533e4ef8]: Textual amendment: [S. 17E](https://www.legislation.gov.uk/ukpga/2006/32/section/17E) omitted (with effect in accordance with [s. 61(7)](https://www.legislation.gov.uk/asc/2024/5/section/61/7) of the amending Act) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 61(5)](https://www.legislation.gov.uk/asc/2024/5/section/61/5), [72(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/b)

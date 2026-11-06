@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Provision of Level 2 disclosure to accredited bodies[^key-bf96dda5b15d5f53025725baee996e04][^key-ecf70307e4380a21ce375c388438989c]
+## 18. Provision of Level 2 disclosure to accredited bodies[^c-bf96dda5b15d5f53025725baee996e04][^c-ecf70307e4380a21ce375c388438989c]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf96dda5b15d5f53025725baee996e04]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/13/section/18) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-bf96dda5b15d5f53025725baee996e04]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/13/section/18) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-ecf70307e4380a21ce375c388438989c]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/13/section/18) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-ecf70307e4380a21ce375c388438989c]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/13/section/18) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

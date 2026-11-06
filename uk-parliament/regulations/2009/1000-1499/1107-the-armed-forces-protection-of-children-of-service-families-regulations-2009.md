@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General Provisions
 
-### 1. Citation, commencement and interpretation[^key-05daece7726afcc693b32e9b900270e3]
+### 1. Citation, commencement and interpretation[^c-05daece7726afcc693b32e9b900270e3]
 
 (1) These Regulations may be cited as the Armed Forces (Protection of Children of Service Families) Regulations 2009 and shall come into force on 31st October 2009.
 
@@ -59,11 +59,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “the Act” means the Armed Forces Act 1991, and all references to sections are references to sections of the Act unless otherwise stated;
 - “the 1996 Regulations” means the Armed Forces (Protection of Children of Service Families) Regulations 1996[^f00003].
 
-### 2. Revocation of regulations[^key-add282c22e3030279807fddf10ab3be2]
+### 2. Revocation of regulations[^c-add282c22e3030279807fddf10ab3be2]
 
 The 1996 Regulations are revoked.
 
-### 3. Persons authorised to apply for an assessment order and designated for the purposes of section 19[^key-e70360ece8fe00b58e38052f2f4ceaa4]
+### 3. Persons authorised to apply for an assessment order and designated for the purposes of section 19[^c-e70360ece8fe00b58e38052f2f4ceaa4]
 
 (1) The following persons shall be authorised to make an application for an assessment order under section 17(3) and shall be designated persons for the purposes of section 19—
 
@@ -72,7 +72,7 @@ The 1996 Regulations are revoked.
 
 (2) In paragraph (1) “registered social worker” has the meaning given by section 257(3) of the Armed Forces Act 2006, and “registered medical practitioner” means a person registered as a medical practitioner under the Medical Act 1983[^f00004].
 
-### 4. Making assessment orders[^key-806a4962a8824e4697ef792f408f527c]
+### 4. Making assessment orders[^c-806a4962a8824e4697ef792f408f527c]
 
 (1) An application for an assessment order shall be made in writing and shall specify the grounds on which it is made, the name of the child with respect to whom the application is made and the address at which the child is residing or staying for the purposes of section 17(1).
 
@@ -99,7 +99,7 @@ allowing reasonable time for the applicant to comply with the requirements of pa
 
 (7) In calculating seven clear days’ notice under this regulation, the day of receipt of the notice and the day of the hearing shall be excluded from the calculation.
 
-### 5. Variation and discharge of assessment orders[^key-a2da37a5c50f225e7131e9f2d5c04bb2]
+### 5. Variation and discharge of assessment orders[^c-a2da37a5c50f225e7131e9f2d5c04bb2]
 
 (1) An application for the variation or discharge of an assessment order shall be made in writing and shall specify the grounds on which it is made.
 
@@ -112,14 +112,14 @@ allowing reasonable time for the applicant to comply with the requirements of pa
 - (c) his parents;
 - (d) any other person who has parental responsibility for him;
 - (e) any other person caring for the child or with whom the child was residing immediately before the making of the application;
-- (f) any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact[^key-41451cdfb989f22eb7e27470239ef42c]; and
+- (f) any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact[^c-41451cdfb989f22eb7e27470239ef42c]; and
 - (g) any person who is allowed to have contact with the child by virtue of an order—
   - (i) under section 34 of the Children Act 1989[^f00005] or article 53 of the Children (Northern Ireland) Order 1995[^f00006]; or
   - (ii) under section 88 of the Children (Scotland) Act 1995[^f00007].
 
 (4) Where a judge advocate varies or discharges an assessment order, he shall ensure that notice is given in writing of his decision, and the reasons for it, and a copy of the assessment order if he has amended it, to the applicant and to those persons to whom he afforded an opportunity to make representations under paragraph (2).
 
-### 6. Making protection orders[^key-b547550bad03441c694bdd990ea821f1]
+### 6. Making protection orders[^c-b547550bad03441c694bdd990ea821f1]
 
 (1) An application for a protection order shall be made in writing and shall specify the grounds on which it is made, the address at which the child with respect to whom the application is made is residing or staying for the purposes of section 17(1), and sufficient information to enable the child to be identified.
 
@@ -128,7 +128,7 @@ allowing reasonable time for the applicant to comply with the requirements of pa
 - (a) a written record is made of the substance of the oral representations (if any) made at any hearing before him by each person listed in section 19(4) ; and
 - (b) notice is given in writing of his decision, and the reasons for it, and a copy of the protection order if he has made one, to the applicant and to the persons listed in section 19(4).
 
-### 7. Further provision as to protection orders[^key-0e2b35f89f8f5fc828d7f5293a030784]
+### 7. Further provision as to protection orders[^c-0e2b35f89f8f5fc828d7f5293a030784]
 
 (1) This regulation applies to—
 
@@ -164,7 +164,7 @@ are sent to the persons listed in paragraph (4).
 
 are sent to the persons listed in paragraph (4) and to the person to whom the exclusion order relates.
 
-### 8. Review of protection orders[^key-06fee561792b0cad7b918e20ba866e2d]
+### 8. Review of protection orders[^c-06fee561792b0cad7b918e20ba866e2d]
 
 (1) Before conducting a review under section 22 of a protection order, the judge advocate—
 
@@ -175,7 +175,7 @@ are sent to the persons listed in paragraph (4) and to the person to whom the ex
 
 (3) Where the judge advocate carrying out a review gives a direction under section 20(4), or varies or revokes any direction previously given under that subsection, he shall make a record on the original order accordingly, and he shall ensure that a copy of the order as so amended is sent to the persons listed in regulation 7(4).
 
-### 9. Discharge of protection orders[^key-8db2c9f056842464a626e181a20263b9]
+### 9. Discharge of protection orders[^c-8db2c9f056842464a626e181a20263b9]
 
 (1) A protection order may not be discharged under section 22(5) until the expiry of the period of seventy-two hours beginning with—
 
@@ -196,7 +196,7 @@ except that the judge advocate shall always afford the responsible person such a
 
 (5) Where a judge advocate discharges a protection order, he shall ensure that notice is given in writing of that decision, and the reasons for it, to the persons listed in regulation 7(4).
 
-### 10. Live television link[^key-7386ffbef706b8ca8edd49f3a5137c94]
+### 10. Live television link[^c-7386ffbef706b8ca8edd49f3a5137c94]
 
 (1) Any hearing of an application under Part 3 of the Act, or any review of a protection order under section 22, may be conducted by live television link if the judge advocate who is to hear the application or conduct the review so directs.
 
@@ -205,7 +205,7 @@ except that the judge advocate shall always afford the responsible person such a
 - (a) that it is desirable to do so in the interests of the child; or
 - (b) that without a live television link, his consideration of the application or conduct of the review will be delayed or made impracticable.
 
-### 11. Retention of records[^key-c2094504c7b0edeec5e937e90b56947b]
+### 11. Retention of records[^c-c2094504c7b0edeec5e937e90b56947b]
 
 (1) The Judge Advocate General shall retain assessment orders and protection orders made after the coming into force of these Regulations for the period for which they have effect.
 
@@ -213,7 +213,7 @@ except that the judge advocate shall always afford the responsible person such a
 
 (3) In paragraph (2), “records” includes notes of any decisions made on a review of a protection order, notes of reasons, and any directions given by a judge advocate under section 20(4).
 
-### 12. Removal and accommodation of children by service police in an emergency[^key-d94c418bdf6750ddbde9fc887c3d24fb]
+### 12. Removal and accommodation of children by service police in an emergency[^c-d94c418bdf6750ddbde9fc887c3d24fb]
 
 (1) Subject to paragraphs (2) and (3) below, for the purposes of section 22A(8), “an authorising service police officer” means a service policeman of or above the rank of naval lieutenant, military or marine captain or flight lieutenant who is superior by at least one rank to the relevant service policeman.
 
@@ -239,7 +239,7 @@ except that the judge advocate shall always afford the responsible person such a
 
 ## PART 2 — Applications and reviews before the coming into force of these Regulations
 
-### 13. Applications for assessment orders[^key-42bffe247e772546ff4bdef37d0b9a13]
+### 13. Applications for assessment orders[^c-42bffe247e772546ff4bdef37d0b9a13]
 
 (1) Where, before the coming into force of these Regulations—
 
@@ -273,7 +273,7 @@ the application is to be treated, subject to paragraphs (2) to (5), as if it wer
 
 he shall ensure that notice is given in writing of his decision and the reasons for it, and a copy of the assessment order if he has made one, to the applicant and to the persons who have been given notice of the application in accordance with section 17(4).
 
-### 14. Applications to vary or discharge assessment orders[^key-677b1cd7d4e9c2963217d87b307a525b]
+### 14. Applications to vary or discharge assessment orders[^c-677b1cd7d4e9c2963217d87b307a525b]
 
 (1) Where, before the coming into force of these Regulations—
 
@@ -284,7 +284,7 @@ subject to paragraph (2), the application is to be treated as an application mad
 
 (2) The applicant shall provide the court administration officer with a copy of the application.
 
-### 15. Applications for protection orders[^key-73bac0c0688f9327563146bfd58ddee4]
+### 15. Applications for protection orders[^c-73bac0c0688f9327563146bfd58ddee4]
 
 (1) Where, before the coming into force of these Regulations—
 
@@ -325,7 +325,7 @@ an opportunity to make representations to him.
 
 he shall ensure that notice is given in writing of his decision and the reasons for it to the applicant and to the persons mentioned in section 19(4).
 
-### 16. Applications for the variation or revocation of directions in protection orders[^key-1554884ed30ed3f87a3f6943eea5b786]
+### 16. Applications for the variation or revocation of directions in protection orders[^c-1554884ed30ed3f87a3f6943eea5b786]
 
 (1) Where, before the coming into force of these Regulations—
 
@@ -349,7 +349,7 @@ subject to paragraphs (2) and (3), the application is to be treated as an applic
 
 he shall, as soon as is reasonably practicable, give notice in writing of the revocation or, as the case may be, the variation to the persons mentioned in regulation 15(4).
 
-### 17. Review of protection orders[^key-8358c3f5a259a628fb3cec9cd9efe215]
+### 17. Review of protection orders[^c-8358c3f5a259a628fb3cec9cd9efe215]
 
 (1) Where —
 
@@ -401,23 +401,23 @@ Regulations 13 to 17 make transitional provision.
 
 [^f00001]: Footnote: [1991 c. 62](https://www.legislation.gov.uk/ukpga/1991/62); Part 3 was amended by the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), section 353 and Schedule 13; section 23 of the 1991 Act defines ‘regulations’.
 
-[^key-05daece7726afcc693b32e9b900270e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-05daece7726afcc693b32e9b900270e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
 [^f00002]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52)
 
 [^f00003]: Footnote: [S.I. 1996/1174](https://www.legislation.gov.uk/uksi/1996/1174)
 
-[^key-add282c22e3030279807fddf10ab3be2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1107/regulation/2) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-add282c22e3030279807fddf10ab3be2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1107/regulation/2) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-e70360ece8fe00b58e38052f2f4ceaa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1107/regulation/3) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-e70360ece8fe00b58e38052f2f4ceaa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1107/regulation/3) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
 [^f00004]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-806a4962a8824e4697ef792f408f527c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1107/regulation/4) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-806a4962a8824e4697ef792f408f527c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1107/regulation/4) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-a2da37a5c50f225e7131e9f2d5c04bb2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1107/regulation/5) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-a2da37a5c50f225e7131e9f2d5c04bb2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1107/regulation/5) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-41451cdfb989f22eb7e27470239ef42c]: Textual amendment: Words in [reg. 5(3)(f)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/5/3/f) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [17](https://www.legislation.gov.uk/uksi/2014/852/article/17)
+[^c-41451cdfb989f22eb7e27470239ef42c]: Textual amendment: Words in [reg. 5(3)(f)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/5/3/f) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [17](https://www.legislation.gov.uk/uksi/2014/852/article/17)
 
 [^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41)
 
@@ -425,26 +425,26 @@ Regulations 13 to 17 make transitional provision.
 
 [^f00007]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36)
 
-[^key-b547550bad03441c694bdd990ea821f1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1107/regulation/6) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-b547550bad03441c694bdd990ea821f1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1107/regulation/6) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-0e2b35f89f8f5fc828d7f5293a030784]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1107/regulation/7) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-0e2b35f89f8f5fc828d7f5293a030784]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1107/regulation/7) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-06fee561792b0cad7b918e20ba866e2d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1107/regulation/8) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-06fee561792b0cad7b918e20ba866e2d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1107/regulation/8) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-8db2c9f056842464a626e181a20263b9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1107/regulation/9) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-8db2c9f056842464a626e181a20263b9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1107/regulation/9) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-7386ffbef706b8ca8edd49f3a5137c94]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1107/regulation/10) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-7386ffbef706b8ca8edd49f3a5137c94]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1107/regulation/10) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-c2094504c7b0edeec5e937e90b56947b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1107/regulation/11) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-c2094504c7b0edeec5e937e90b56947b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1107/regulation/11) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-d94c418bdf6750ddbde9fc887c3d24fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/1107/regulation/12) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-d94c418bdf6750ddbde9fc887c3d24fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/1107/regulation/12) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-42bffe247e772546ff4bdef37d0b9a13]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/1107/regulation/13) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-42bffe247e772546ff4bdef37d0b9a13]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/1107/regulation/13) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-677b1cd7d4e9c2963217d87b307a525b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/1107/regulation/14) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-677b1cd7d4e9c2963217d87b307a525b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/1107/regulation/14) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-73bac0c0688f9327563146bfd58ddee4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/1107/regulation/15) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-73bac0c0688f9327563146bfd58ddee4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/1107/regulation/15) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-1554884ed30ed3f87a3f6943eea5b786]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/1107/regulation/16) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-1554884ed30ed3f87a3f6943eea5b786]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/1107/regulation/16) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
 
-[^key-8358c3f5a259a628fb3cec9cd9efe215]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/1107/regulation/17) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)
+[^c-8358c3f5a259a628fb3cec9cd9efe215]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/1107/regulation/17) in force at 31.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1107/regulation/1/1)

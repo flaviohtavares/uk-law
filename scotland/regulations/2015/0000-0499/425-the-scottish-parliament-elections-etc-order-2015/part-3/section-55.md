@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Duty of appropriate returning officer to forward returns and declarations to Electoral Commission[^key-b3f19198977fb8efaedf5b4f5244e6b8]
+## 55. Duty of appropriate returning officer to forward returns and declarations to Electoral Commission[^c-b3f19198977fb8efaedf5b4f5244e6b8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the appropriate returning officer receives any return or declaration under
 
 ## Annotations
 
-[^key-b3f19198977fb8efaedf5b4f5244e6b8]: Commencement: Art. 55 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-b3f19198977fb8efaedf5b4f5244e6b8]: Commencement: Art. 55 in force at 16.12.2015 in accordance with art. 1(1)

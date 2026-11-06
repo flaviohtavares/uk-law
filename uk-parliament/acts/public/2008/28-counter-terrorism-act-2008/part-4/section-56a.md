@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Power to enter and search home address[^key-27bed587d38a0468dbb7a000869778a4]
+## 56A. Power to enter and search home address[^c-27bed587d38a0468dbb7a000869778a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27bed587d38a0468dbb7a000869778a4]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/2008/28/section/56A) and cross-heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 13](https://www.legislation.gov.uk/ukpga/2019/3/section/13), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-27bed587d38a0468dbb7a000869778a4]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/2008/28/section/56A) and cross-heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 13](https://www.legislation.gov.uk/ukpga/2019/3/section/13), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))

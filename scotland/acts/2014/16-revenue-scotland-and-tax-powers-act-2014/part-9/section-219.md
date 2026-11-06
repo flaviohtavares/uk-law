@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 219. Interest on repayment of tax overpaid etc.[^key-d5a09c3f8772a356acb4b23dcd90e855]
+## 219. Interest on repayment of tax overpaid etc.[^c-d5a09c3f8772a356acb4b23dcd90e855]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5a09c3f8772a356acb4b23dcd90e855]: Commencement: [S. 219](https://www.legislation.gov.uk/asp/2014/16/section/219) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d5a09c3f8772a356acb4b23dcd90e855]: Commencement: [S. 219](https://www.legislation.gov.uk/asp/2014/16/section/219) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

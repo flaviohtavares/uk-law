@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 572A. Temporary non-residents[^key-42f6a64c32008a09ce46d9c6c3a7f06e]
+## 572A. Temporary non-residents[^c-42f6a64c32008a09ce46d9c6c3a7f06e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42f6a64c32008a09ce46d9c6c3a7f06e]: Textual amendment: [S. 572A](https://www.legislation.gov.uk/ukpga/2003/1/section/572A) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 129](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/129)
+[^c-42f6a64c32008a09ce46d9c6c3a7f06e]: Textual amendment: [S. 572A](https://www.legislation.gov.uk/ukpga/2003/1/section/572A) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 129](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/129)

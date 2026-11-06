@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Payment of tax[^key-137670ad7867a76eb3b45bf9f893c5f3]
+## 163. Payment of tax[^c-137670ad7867a76eb3b45bf9f893c5f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-137670ad7867a76eb3b45bf9f893c5f3]: Modification: S. 163 modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 109(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/5)[(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/7)
+[^c-137670ad7867a76eb3b45bf9f893c5f3]: Modification: S. 163 modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 109(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/5)[(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/7)

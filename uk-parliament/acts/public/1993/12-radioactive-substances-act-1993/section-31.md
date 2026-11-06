@@ -33,7 +33,7 @@ summary: ''
 - (b) to any premises in respect of which a person is exempted from such registration by section 8(1), and
 - (c) to any premises in respect of which an authorisation granted under section 13(1) or 14 is for the time being in force.
 
-(3) In relation to premises belonging to or used for the purposes of the United Kingdom Atomic Energy Authority, subsection (1) shall have effect subject to section 6(3) of the [^c426979]Atomic Energy Authority Act 1954 (which restricts entry to such premises where they are prohibited places within the meaning of Part 1 of the National Security Act 2023).[^key-f7dc0e48cd061655f77fe86719c96ad1]
+(3) In relation to premises belonging to or used for the purposes of the United Kingdom Atomic Energy Authority, subsection (1) shall have effect subject to section 6(3) of the [^c426979]Atomic Energy Authority Act 1954 (which restricts entry to such premises where they are prohibited places within the meaning of Part 1 of the National Security Act 2023).[^c-f7dc0e48cd061655f77fe86719c96ad1]
 
 (4) Where an inspector has reasonable grounds for believing—
 
@@ -79,6 +79,6 @@ the inspector may exercise, in relation to those premises, any of the powers whi
 
 [^c426979]: Marginal citation: [1954 c. 32](https://www.legislation.gov.uk/ukpga/1954/32).
 
-[^key-f7dc0e48cd061655f77fe86719c96ad1]: Textual amendment: Words in [s. 31(3)](https://www.legislation.gov.uk/ukpga/1993/12/section/31/3) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/10)
+[^c-f7dc0e48cd061655f77fe86719c96ad1]: Textual amendment: Words in [s. 31(3)](https://www.legislation.gov.uk/ukpga/1993/12/section/31/3) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/10)
 
 [^c426981]: Marginal citation: [1954 c. 32](https://www.legislation.gov.uk/ukpga/1954/32).

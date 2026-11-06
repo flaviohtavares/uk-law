@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Provision of resources for Auditor General's functions[^key-091180a6717251f0c87fa998b50d7b9a]
+## 21. Provision of resources for Auditor General's functions[^c-091180a6717251f0c87fa998b50d7b9a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-091180a6717251f0c87fa998b50d7b9a]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/3/section/21) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-091180a6717251f0c87fa998b50d7b9a]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/3/section/21) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

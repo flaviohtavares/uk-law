@@ -28,11 +28,11 @@ Section 83.
 
 ### Transitional rules for transitional accounting periods
 
-**2.**[^key-e5e315ffc15660ee958a178c4c2ea201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e5e315ffc15660ee958a178c4c2ea201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Opening valuations as at 1st April 1996
 
-**3.**[^key-42320b7491ec90343008ae6814dc167d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-42320b7491ec90343008ae6814dc167d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adjustments in the case of pre-commencement trading relationships
 
@@ -94,8 +94,8 @@ Section 83.
 
 [^c14710851]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-e5e315ffc15660ee958a178c4c2ea201]: Textual amendment: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/1997/16/schedule/13/paragraph/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e5e315ffc15660ee958a178c4c2ea201]: Textual amendment: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/1997/16/schedule/13/paragraph/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-42320b7491ec90343008ae6814dc167d]: Textual amendment: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1997/16/schedule/13/paragraph/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-42320b7491ec90343008ae6814dc167d]: Textual amendment: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1997/16/schedule/13/paragraph/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14710861]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).

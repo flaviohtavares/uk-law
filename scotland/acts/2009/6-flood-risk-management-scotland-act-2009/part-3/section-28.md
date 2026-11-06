@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Flood risk management plans: objectives and measures[^key-a8f0874d8c95991e89f7df9b277deef3]
+## 28. Flood risk management plans: objectives and measures[^c-a8f0874d8c95991e89f7df9b277deef3]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8f0874d8c95991e89f7df9b277deef3]: Commencement: S. 28 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-a8f0874d8c95991e89f7df9b277deef3]: Commencement: S. 28 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

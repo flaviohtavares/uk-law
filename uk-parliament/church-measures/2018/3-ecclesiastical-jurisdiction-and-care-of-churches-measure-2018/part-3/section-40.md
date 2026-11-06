@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 40. Application: who may apply[^key-c22ce831f872bf2996475fb09b46e184]
+## 40. Application: who may apply[^c-c22ce831f872bf2996475fb09b46e184]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c22ce831f872bf2996475fb09b46e184]: Commencement: [S. 40](https://www.legislation.gov.uk/ukcm/2018/3/section/40) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c22ce831f872bf2996475fb09b46e184]: Commencement: [S. 40](https://www.legislation.gov.uk/ukcm/2018/3/section/40) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

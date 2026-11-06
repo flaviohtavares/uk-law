@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where it is necessary to appoint staff to which this paragraph applies for[^c17009111] a controlled school or a maintained school, the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] [^key-8a48d19092ee86d998240cb480a5d7c4]... shall furnish to the Board of Governors of the school the names of all applicants for appointment whom the Authority considers to be qualified and the Board of Governors may select from the names so furnished to it the person or, where more than one person is to be appointed, the requisite number of persons whom it recommends for appointment and shall inform the Authority of the name or names of the person or persons so selected.
+(1) Where it is necessary to appoint staff to which this paragraph applies for[^c17009111] a controlled school or a maintained school, the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] [^c-8a48d19092ee86d998240cb480a5d7c4]... shall furnish to the Board of Governors of the school the names of all applicants for appointment whom the Authority considers to be qualified and the Board of Governors may select from the names so furnished to it the person or, where more than one person is to be appointed, the requisite number of persons whom it recommends for appointment and shall inform the Authority of the name or names of the person or persons so selected.
 
 (1A) Paragraph (1) applies to all staff required by[^c17009141] the Authority in or about a controlled or maintained school, except—
 
@@ -52,9 +52,9 @@ summary: ''
 
 [^c17009111]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-8a48d19092ee86d998240cb480a5d7c4]: Textual amendment: Words in art. 88(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-8a48d19092ee86d998240cb480a5d7c4]: Textual amendment: Words in art. 88(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17009141]: Textual amendment: [1997 NI 5](https://www.legislation.gov.uk/nisi/1997)
 

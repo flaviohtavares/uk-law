@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Agreements with street authorities[^key-77df4dd12672fe73daf25a8f034f592b]
+## 14. Agreements with street authorities[^c-77df4dd12672fe73daf25a8f034f592b]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the strengthening, improvement, repair or reconstruction of any street under the powers conferred by this Order;
 - (b) any prohibition, restriction, alteration or diversion of a street authorised by this Order;
-- (c) the undertaking in the street of any of the works referred to in article 8 (street works) and article 10[^key-f41c77751f90617dc335dbb9878f825c] (construction and maintenance of altered streets); or
+- (c) the undertaking in the street of any of the works referred to in article 8 (street works) and article 10[^c-f41c77751f90617dc335dbb9878f825c] (construction and maintenance of altered streets); or
 - (d) the adoption by a street authority which is the highway authority of works—
   - (i) undertaken on a street which is existing public maintainable highway; or
   - (ii) which the undertaker and highway authority agree to be adopted as public maintainable highway.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77df4dd12672fe73daf25a8f034f592b]: Commencement: Art. 14 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-77df4dd12672fe73daf25a8f034f592b]: Commencement: Art. 14 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-f41c77751f90617dc335dbb9878f825c]: Textual amendment: Words in [art. 14(1)(c)](https://www.legislation.gov.uk/uksi/2024/943/article/14/1/c) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-f41c77751f90617dc335dbb9878f825c]: Textual amendment: Words in [art. 14(1)(c)](https://www.legislation.gov.uk/uksi/2024/943/article/14/1/c) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)

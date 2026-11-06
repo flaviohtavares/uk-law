@@ -103,17 +103,17 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 46. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5985551]
 
-### 47. Unclaimed dividends account.[^key-9e8cec03e34e40bf7bdb35cd9a1138ce]
+### 47. Unclaimed dividends account.[^c-9e8cec03e34e40bf7bdb35cd9a1138ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 48. Transfer of Government stock on production of Isle of Man or Channel Islands probates, etc.
 
-(1) Upon the death of anyone who is the holder of any Government stock, the production of probate or letters of administration granted to any person by a court in the Isle of Man or in any of the Channel Islands having authority to make the grant, or of a certified copy of probate or letters of administration so granted, shall be of the same effect to authorise the Registrar of Government Stock[^key-1b357dd149cf2d094791ac5790ba9f7c] or the Operator of any relevant system[^c5985621] to transfer the stock as production of probate or letters of administration granted to that person in England:
+(1) Upon the death of anyone who is the holder of any Government stock, the production of probate or letters of administration granted to any person by a court in the Isle of Man or in any of the Channel Islands having authority to make the grant, or of a certified copy of probate or letters of administration so granted, shall be of the same effect to authorise the Registrar of Government Stock[^c-1b357dd149cf2d094791ac5790ba9f7c] or the Operator of any relevant system[^c5985621] to transfer the stock as production of probate or letters of administration granted to that person in England:
 
 Provided that the neither the[^c5985631] Registrar of Government Stock nor any such Operator shall transfer any Government stock in pursuance of this section except on production to the bank or to that Operator as the case may be[^c5985641] of a certificate from the Commissioners of Inland Revenue showing either that all death duties payable in Great Britain in respect of the stock have been paid or that no duty is payable in Great Britain in respect thereof.
 
-(2) Where any stock is transferred in pursuance of this section, the Bank of England, the Registrar of Government Stock, any previous Registrar of Government Stock[^key-583e8ff730f4cd8bf5cab4ae30835d39] or the Operator , as the case may be[^c5985651] shall be indemnified and protected notwithstanding any defect or circumstance whatsoever affecting the validity of the probate or letters of administration in question.
+(2) Where any stock is transferred in pursuance of this section, the Bank of England, the Registrar of Government Stock, any previous Registrar of Government Stock[^c-583e8ff730f4cd8bf5cab4ae30835d39] or the Operator , as the case may be[^c5985651] shall be indemnified and protected notwithstanding any defect or circumstance whatsoever affecting the validity of the probate or letters of administration in question.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5985661]
 
@@ -123,7 +123,7 @@ Provided that the neither the[^c5985631] Registrar of Government Stock nor any s
 
 ## Part VII — Miscellaneous
 
-### 49. Extension of special contribution to Northern Ireland.[^key-9589a41ca796b1dc3f7380c081ccea18][^c5985681]
+### 49. Extension of special contribution to Northern Ireland.[^c-9589a41ca796b1dc3f7380c081ccea18][^c5985681]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,9 +131,9 @@ Provided that the neither the[^c5985631] Registrar of Government Stock nor any s
 
 ### 51. Settling of appeals etc., by agreement.[^c5985711]
 
-(1) Subject to the provisions of this section, where, whether before or after the passing of this Act, a person gives notice of appeal to the General Commissioners, the Special Commissioners or the Board of Referees against an assessment to, or a decision of any kind with respect to, income tax other than surtax, surtax, the profits tax, [^key-527b038d62bebaae6e5818d9be5f03a6]... and, before the appeal is determined by the Commissioners or Board, the surveyor or other proper officer of the Crown and the appellant come to an agreement, whether in writing or otherwise, that the assessment or decision should be treated as upheld without variation, or as varied in a particular manner or as discharged or cancelled, the like consequences shall ensue for all purposes as would have ensued if at the time when the agreement was come to, the Commissioners or Board had determined the appeal and had upheld the assessment or decision without variation, had varied it in that manner or had discharged or cancelled it, as the case may be.
+(1) Subject to the provisions of this section, where, whether before or after the passing of this Act, a person gives notice of appeal to the General Commissioners, the Special Commissioners or the Board of Referees against an assessment to, or a decision of any kind with respect to, income tax other than surtax, surtax, the profits tax, [^c-527b038d62bebaae6e5818d9be5f03a6]... and, before the appeal is determined by the Commissioners or Board, the surveyor or other proper officer of the Crown and the appellant come to an agreement, whether in writing or otherwise, that the assessment or decision should be treated as upheld without variation, or as varied in a particular manner or as discharged or cancelled, the like consequences shall ensue for all purposes as would have ensued if at the time when the agreement was come to, the Commissioners or Board had determined the appeal and had upheld the assessment or decision without variation, had varied it in that manner or had discharged or cancelled it, as the case may be.
 
-(2)[^key-46bcf95b47a641f5dc00f99122db8837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-46bcf95b47a641f5dc00f99122db8837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The preceding provisions of this section shall not apply where, within twenty-one days from the date when the agreement was come to, the appellant or claimant gives notice in writing to the surveyor or other proper officer of the Crown that he desires to repudiate or resile from the agreement.
 
@@ -430,9 +430,9 @@ The repeal of any enactment by this Part of this Schedule shall not affect its o
 
 [^c5985551]: Textual amendment: [Ss. 46](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/46), [47(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/47/1) repealed by [Statute Law Revision Act 1959 (c. 68)](https://www.legislation.gov.uk/ukpga/1959/68)
 
-[^key-9e8cec03e34e40bf7bdb35cd9a1138ce]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
+[^c-9e8cec03e34e40bf7bdb35cd9a1138ce]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
 
-[^key-1b357dd149cf2d094791ac5790ba9f7c]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/48/1) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/13/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-1b357dd149cf2d094791ac5790ba9f7c]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/48/1) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/13/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5985621]: Textual amendment: Words in s. 48(1) inserted (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 5(a)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/5/a) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 
@@ -440,7 +440,7 @@ The repeal of any enactment by this Part of this Schedule shall not affect its o
 
 [^c5985641]: Textual amendment: Words in s. 48(1) substituted (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/5/b/ii) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 
-[^key-583e8ff730f4cd8bf5cab4ae30835d39]: Textual amendment: Words in s. 48(2) inserted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/13/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-583e8ff730f4cd8bf5cab4ae30835d39]: Textual amendment: Words in s. 48(2) inserted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/13/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5985651]: Textual amendment: Words in s. 48(2) inserted (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 5(c)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/5/c) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 
@@ -448,7 +448,7 @@ The repeal of any enactment by this Part of this Schedule shall not affect its o
 
 [^c5985671]: Textual amendment: S. 48(5) added (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 5(d)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/5/d) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 
-[^key-9589a41ca796b1dc3f7380c081ccea18]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-9589a41ca796b1dc3f7380c081ccea18]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c5985681]: Modification: The text of s. 49 relates to obsolete Taxes and is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -456,9 +456,9 @@ The repeal of any enactment by this Part of this Schedule shall not affect its o
 
 [^c5985711]: Modification: The text of s. 51 relates to obsolete Taxes and is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-527b038d62bebaae6e5818d9be5f03a6]: Textual amendment: Words in [s. 51(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/51/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-527b038d62bebaae6e5818d9be5f03a6]: Textual amendment: Words in [s. 51(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/51/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
-[^key-46bcf95b47a641f5dc00f99122db8837]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/51/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-46bcf95b47a641f5dc00f99122db8837]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/47/section/51/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c5985721]: Modification: The text of s. 52(2), which is spent, is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 1. The Scottish building safety levy[^key-6f233dfcdd531ec44b162313405ca720]
+### 1. The Scottish building safety levy[^c-6f233dfcdd531ec44b162313405ca720]
 
 (1) A tax is to be charged on certain building control events in accordance with this Act (see section 10(1) for which building control events are taxable building control events).
 
@@ -46,7 +46,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Revenue Scotland is responsible for the collection and management of the levy.
 
-### 2. Overview[^key-ff699ab511f13a9c09ca4c78bc913e0c]
+### 2. Overview[^c-ff699ab511f13a9c09ca4c78bc913e0c]
 
 (1) The Act is arranged as follows.
 
@@ -77,7 +77,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Building control events
 
-#### 3. Meaning of “building control event”[^key-0ffdeaa19ac1c95a882bd4366735389c]
+#### 3. Meaning of “building control event”[^c-0ffdeaa19ac1c95a882bd4366735389c]
 
 (1) A “building control event” occurs on the building completion date in respect of the construction of, or conversion works creating, a new residential unit.
 
@@ -95,7 +95,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Types of new buildings which may be taxable
 
-#### 4. Meaning of “new residential unit”[^key-92b3cc4da9fbd037741235691b82b208]
+#### 4. Meaning of “new residential unit”[^c-92b3cc4da9fbd037741235691b82b208]
 
 (1) A “**new residential unit**” means a unit—
 
@@ -131,7 +131,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) the most suitable use, if a building is intended to be (or is) suitable for more than one purpose, and
 - (c) any other relevant information on the intended use (or use) of the building.
 
-#### 5. Exempt new residential units[^key-aec403c5c47191748a8776da34fc0901]
+#### 5. Exempt new residential units[^c-aec403c5c47191748a8776da34fc0901]
 
 An “exempt new residential unit” is a building or part of a building which, on the building completion date, is—
 
@@ -146,7 +146,7 @@ An “exempt new residential unit” is a building or part of a building which, 
   - (ii) section 92 of the Housing (Scotland) Act 2001 (local authority assistance for housing purposes),
 - (d) situated on an island (within the meaning given by section 1 of the Islands (Scotland) Act 2018).
 
-#### 6. Power to modify types of buildings which may be taxable[^key-3a0ea15a31813c844a8ac1743bebf4d1]
+#### 6. Power to modify types of buildings which may be taxable[^c-3a0ea15a31813c844a8ac1743bebf4d1]
 
 (1) The Scottish Ministers may by regulations modify—
 
@@ -171,7 +171,7 @@ An “exempt new residential unit” is a building or part of a building which, 
 - (b) persons whom the Scottish Ministers consider represent the interests of the residential property development sector, and
 - (c) such other persons as the Scottish Ministers consider appropriate.
 
-#### 7. Amendment of the Building (Scotland) Act 2003[^key-45016a827d7f5614c7121dc0cd4a238f]
+#### 7. Amendment of the Building (Scotland) Act 2003[^c-45016a827d7f5614c7121dc0cd4a238f]
 
 In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) insert—
 
@@ -181,7 +181,7 @@ In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) 
 
 ### Liability to pay levy
 
-#### 8. Person liable to pay levy[^key-7863502cebb104c1fca13237fd22ed77]
+#### 8. Person liable to pay levy[^c-7863502cebb104c1fca13237fd22ed77]
 
 (1) The person liable to pay the levy is the owner of the new residential unit on the date of—
 
@@ -198,7 +198,7 @@ In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) 
 
 ### Amount of levy
 
-#### 9. Charging and rate of levy[^key-5d2c409499008ba013fe9d88f25aed77]
+#### 9. Charging and rate of levy[^c-5d2c409499008ba013fe9d88f25aed77]
 
 (1) The levy is to be charged only on a taxable building control event (see Step 4 of section 10(1)).
 
@@ -225,7 +225,7 @@ In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) 
 
 ### Calculation of levy payable
 
-#### 10. Calculation of total levy payable by a person in an accounting period[^key-989671eb60f0f6c4d3276e4572549439]
+#### 10. Calculation of total levy payable by a person in an accounting period[^c-989671eb60f0f6c4d3276e4572549439]
 
 (1) The amount of levy payable in respect of a taxable building control event and the corresponding liability of a person (“the taxpayer”) for the levy for an accounting period is to be determined as follows.
 
@@ -272,7 +272,7 @@ In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) 
 
 ### Reliefs and allowances
 
-#### 11. Reliefs[^key-d07a0779688add2919fd2a5b67dc9900]
+#### 11. Reliefs[^c-d07a0779688add2919fd2a5b67dc9900]
 
 (1) The Scottish Ministers may, by regulations, make provision for and in connection with reliefs from the levy in relation to certain building control events, which may be deducted under Step 2 of section 10(1).
 
@@ -294,7 +294,7 @@ In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) 
 
 (7) For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014.
 
-#### 12. Levy-free allowance[^key-5fec232781526f6a6f845c223d324a73]
+#### 12. Levy-free allowance[^c-5fec232781526f6a6f845c223d324a73]
 
 (1) In each financial year, a taxpayer is entitled to deduct 29 building control events (a “levy-free allowance”) under Step 3 of section 10(1).
 
@@ -320,7 +320,7 @@ In section 36 of the Building (Scotland) Act 2003 (forms), after subsection (2) 
 
 ### Proceeds of levy
 
-#### 13. Use of proceeds of levy[^key-12c811cf2cd94a73e1ee170035ab37d3]
+#### 13. Use of proceeds of levy[^c-12c811cf2cd94a73e1ee170035ab37d3]
 
 The proceeds of the levy must be used by the Scottish Ministers for the purposes of improving the safety of persons in or about buildings in Scotland by reimbursing, defraying or otherwise paying the costs of remediation, mitigation, or prevention works (and any work associated with or ancillary to those works) in buildings with an external wall cladding system, including work to produce surveys, assessments or reports.
 
@@ -330,7 +330,7 @@ The proceeds of the levy must be used by the Scottish Ministers for the purposes
 
 ### Registration
 
-#### 14. Scottish building safety levy register[^key-304bf3eb36862ead639e740a895ff51b]
+#### 14. Scottish building safety levy register[^c-304bf3eb36862ead639e740a895ff51b]
 
 (1) Revenue Scotland must keep a register (to be known as the Scottish building safety levy register) containing such information as Revenue Scotland considers is required for the purposes of the collection and management of the levy.
 
@@ -361,7 +361,7 @@ The proceeds of the levy must be used by the Scottish Ministers for the purposes
 - (b) an instrument made under an Act of the Scottish Parliament, or
 - (c) any other enactment which, if contained in an Act of the Scottish Parliament, would be within the legislative competence of the Parliament.
 
-#### 15. Duty to register for levy[^key-273dbfef1e5ce53b0c4e09aed97c9b62]
+#### 15. Duty to register for levy[^c-273dbfef1e5ce53b0c4e09aed97c9b62]
 
 (1) A person is liable to be registered if that person—
 
@@ -397,14 +397,14 @@ if, in either case, any subsequent building control event for that unit would be
 - (a) is registered under this section or section 16, or
 - (b) is liable to be registered under this section.
 
-#### 16. Voluntary registration for levy[^key-c070866555413cf61f2de939efec5014]
+#### 16. Voluntary registration for levy[^c-c070866555413cf61f2de939efec5014]
 
 Where a person intends to or is carrying out the construction or conversion of a new residential unit which may result in a registrable event—
 
 - (a) the person may notify Revenue Scotland of those activities, and
 - (b) Revenue Scotland may register the person with effect from the time of the notification.
 
-#### 17. Cancellation of registration for levy[^key-26755fd871c5c1f71de285ffcd14ddfa]
+#### 17. Cancellation of registration for levy[^c-26755fd871c5c1f71de285ffcd14ddfa]
 
 (1) A registered person who ceases to carry out any activities that will result in a registrable event must notify Revenue Scotland.
 
@@ -429,7 +429,7 @@ Where a person intends to or is carrying out the construction or conversion of a
 - (a) a person notifies Revenue Scotland under subsection (1), and
 - (b) Revenue Scotland is satisfied that the person has not carried out, is not carrying out, and will not carry out, any activities that will result in a registrable event.
 
-#### 18. Registration: notification and compliance[^key-bf62a225605347e82b4a80ac9be96844]
+#### 18. Registration: notification and compliance[^c-bf62a225605347e82b4a80ac9be96844]
 
 The Scottish Ministers may by regulations make provision for and in connection with—
 
@@ -442,7 +442,7 @@ The Scottish Ministers may by regulations make provision for and in connection w
 
 ### Accounting for levy and record-keeping
 
-#### 19. Accounting for levy by return and time for payment[^key-5a20f2e4dbb5902b3a247af8e87fb603]
+#### 19. Accounting for levy by return and time for payment[^c-5a20f2e4dbb5902b3a247af8e87fb603]
 
 The Scottish Ministers may, by regulations—
 
@@ -452,7 +452,7 @@ The Scottish Ministers may, by regulations—
   - (iii) pay the levy at such times and in such manner as may be so determined,
 - (b) specify the circumstances in which a registrable person is not required to make returns.
 
-#### 20. Form and content of returns[^key-4e015fe096aa0b622e67d98bf4dc148b]
+#### 20. Form and content of returns[^c-4e015fe096aa0b622e67d98bf4dc148b]
 
 (1) A return under this Act must—
 
@@ -464,7 +464,7 @@ The Scottish Ministers may, by regulations—
 
 (3) A return is treated as containing any accompanying information provided by the person making the return for the purpose of completing the return.
 
-#### 21. Communications from taxpayers to Revenue Scotland[^key-7a4fd72a7338c289b5848721d920d023]
+#### 21. Communications from taxpayers to Revenue Scotland[^c-7a4fd72a7338c289b5848721d920d023]
 
 (1) Any notice, application or other thing that a person is required or permitted by provision made in or under this Act to give to Revenue Scotland must comply with the requirements set out in subsection (2).
 
@@ -478,7 +478,7 @@ The Scottish Ministers may, by regulations—
 
 ### Information sharing
 
-#### 22. Information sharing[^key-36617f385ce31c7aca740a58c4d11381]
+#### 22. Information sharing[^c-36617f385ce31c7aca740a58c4d11381]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with a requirement for information relating to the levy to be disclosed between a relevant entity and Revenue Scotland for the purposes of administering the levy.
 
@@ -511,7 +511,7 @@ The Scottish Ministers may, by regulations—
 
 ### Non-resident taxpayers
 
-#### 23. Appointment of tax representatives[^key-6898bfef27fcfe6e965c3ebc0ec25d91]
+#### 23. Appointment of tax representatives[^c-6898bfef27fcfe6e965c3ebc0ec25d91]
 
 (1) The Scottish Ministers may by regulations make provision for securing that every non-resident taxpayer, for the purposes of paying the levy, appoints a person resident in the United Kingdom to act as the taxpayer’s tax representative.
 
@@ -533,7 +533,7 @@ The Scottish Ministers may, by regulations—
 - (i) for the purposes of any provision made by virtue of paragraphs (a) to (h) regulating the procedure to be followed in any case and imposing requirements as to the information and other particulars to be provided to Revenue Scotland,
 - (j) as to the time at which things done under or for the purposes of the regulations are to take effect.
 
-#### 24. Effect of appointment of tax representatives[^key-9caf6d91e83e835e00e68f46ebdd2092]
+#### 24. Effect of appointment of tax representatives[^c-9caf6d91e83e835e00e68f46ebdd2092]
 
 (1) The tax representative of a non-resident taxpayer is entitled to act on the non-resident taxpayer’s behalf for the purposes of any provision made by or under this Act.
 
@@ -551,7 +551,7 @@ The Scottish Ministers may, by regulations—
 
 (5) A non-resident taxpayer is personally liable in respect of any levy due as a consequence of fraud or error by the non-resident taxpayer’s tax representative.
 
-#### 25. Definition of “business premises” to exclude premises of tax representatives[^key-e3ba87737025890b60b614e57f0f6fdf]
+#### 25. Definition of “business premises” to exclude premises of tax representatives[^c-e3ba87737025890b60b614e57f0f6fdf]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -562,7 +562,7 @@ The Scottish Ministers may, by regulations—
 
 ### Special cases
 
-#### 26. Groups of companies[^key-439eade75782e04f23e45ae3b97a8f59]
+#### 26. Groups of companies[^c-439eade75782e04f23e45ae3b97a8f59]
 
 (1) Where any bodies corporate are treated as members of a group by virtue of this section, for the purposes of this Act—
 
@@ -615,13 +615,13 @@ The Scottish Ministers may, by regulations—
   - (ii) it is that body’s holding company within the meaning of [section 1159](https://www.legislation.gov.uk/ukpga/2006/46/section/1159) and schedule 6 of the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46/contents) (meaning of “subsidiary” etc),
 - (b) an individual is or individuals are to be taken to control a body corporate if the individual or individuals would be that body’s holding company within the meaning of the provisions mentioned in paragraph (a)(ii), were the individual or individuals a company.
 
-#### 27. Notification of cessation of eligibility for group treatment or of having a place of business in UK[^key-0b967abf245877e01abd2fb6239a0293]
+#### 27. Notification of cessation of eligibility for group treatment or of having a place of business in UK[^c-0b967abf245877e01abd2fb6239a0293]
 
 (1) A body corporate which is treated as a member of a group for the purposes of this Act and ceases to be eligible to be treated as a member of a group must notify Revenue Scotland immediately of that fact.
 
 (2) A body corporate which is designated as representative member in relation to any other bodies corporate must not cease to have an established place of business in the United Kingdom without first notifying Revenue Scotland of that fact.
 
-#### 28. Group treatment: change to application or notification[^key-3d1e2e0449e74da78ac91b1dcd1dad26]
+#### 28. Group treatment: change to application or notification[^c-3d1e2e0449e74da78ac91b1dcd1dad26]
 
 A body corporate which has made—
 
@@ -630,7 +630,7 @@ A body corporate which has made—
 
 must notify Revenue Scotland immediately if any information contained in or provided in connection with that application or notification becomes inaccurate.
 
-#### 29. Group treatment: substitution and termination[^key-02b49b7834f0c26b6efd464ee13a811a]
+#### 29. Group treatment: substitution and termination[^c-02b49b7834f0c26b6efd464ee13a811a]
 
 (1) Subsection (2) applies where—
 
@@ -652,7 +652,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (5) The time specified in a notice under subsection (4) must not be a time before the day on which the notice is given to the representative member.
 
-#### 30. Partnerships and unincorporated bodies etc.[^key-a8a9bd202d937d1e5774a3fbb224e7cb]
+#### 30. Partnerships and unincorporated bodies etc.[^c-a8a9bd202d937d1e5774a3fbb224e7cb]
 
 (1) The Scottish Ministers may by regulations make provision applying the requirements of this Act to cases where a business is carried on—
 
@@ -668,7 +668,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 - (a) the body corporate requests it, and
 - (b) Revenue Scotland considers it appropriate.
 
-#### 31. Bankruptcy etc.[^key-e1cf936f5c4428d170faac1a892da521]
+#### 31. Bankruptcy etc.[^c-e1cf936f5c4428d170faac1a892da521]
 
 (1) The Scottish Ministers may by regulations, in relation to a person carrying on a business of a registrable person in a manner described in subsection (2), make provision—
 
@@ -685,7 +685,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 - (b) a person carrying on the business of a registrable person whose estate has been sequestrated,
 - (c) a person carrying on the business of a registrable person which is in liquidation, receivership or administration.
 
-#### 32. Transfer of business as a going concern[^key-92c7732ff607ba193a9012eb1ab67a0d]
+#### 32. Transfer of business as a going concern[^c-92c7732ff607ba193a9012eb1ab67a0d]
 
 (1) The Scottish Ministers may by regulations make provision for securing continuity in the application of this Act in cases where a business carried on by a person is transferred to another person as a going concern.
 
@@ -698,7 +698,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 ### Provision of security
 
-#### 33. Security required by individual direction[^key-d77d0cec8e02158aa41b5ef192a34f6a]
+#### 33. Security required by individual direction[^c-d77d0cec8e02158aa41b5ef192a34f6a]
 
 (1) Revenue Scotland may, if it appears to it necessary to do so for the protection of the revenue, issue a direction—
 
@@ -724,7 +724,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (6) In this Act, “**security**” means security for the payment of any amount of the levy which is or may become due from a person liable to pay the levy (including any penalty or interest that is recoverable as if it were an amount of the levy).
 
-#### 34. Security required by general direction[^key-a5201e991609fefdef8a07af6386130e]
+#### 34. Security required by general direction[^c-a5201e991609fefdef8a07af6386130e]
 
 (1) Revenue Scotland may, if it appears to it necessary to do so for the protection of the revenue, issue a direction specifying the amount of security, or a method for determining the amount of security, that persons liable to pay the levy must provide to Revenue Scotland to secure the approval of the appointment of a tax representative (see section 23).
 
@@ -744,7 +744,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 ### Delegation of functions
 
-#### 35. Delegation of functions by Revenue Scotland[^key-26463470505b20a4353add2c4f542c66]
+#### 35. Delegation of functions by Revenue Scotland[^c-26463470505b20a4353add2c4f542c66]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -772,7 +772,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 **Not yet in force.**
 
-### 36. Failure to make return[^key-cb22b7363f4e3e08776eb1ed2c8c0269]
+### 36. Failure to make return[^c-cb22b7363f4e3e08776eb1ed2c8c0269]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -799,7 +799,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (8) The section title of section 167 becomes **“Scottish landfill tax, Scottish aggregates tax and Scottish building safety levy: 12 month penalty for failure to make return**”.
 
-### 37. Failure to pay levy[^key-f1b3c1fa3cc96f512917a8cde1f8baec]
+### 37. Failure to pay levy[^c-f1b3c1fa3cc96f512917a8cde1f8baec]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -826,7 +826,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (8) The section title of section 173 becomes “**Scottish landfill tax, Scottish aggregates tax and Scottish building safety levy: 12 month penalty for failure to pay tax**”.
 
-### 38. Inaccuracies in taxpayer documents[^key-ad6d4b91d6ae52596a3373509470efd3]
+### 38. Inaccuracies in taxpayer documents[^c-ad6d4b91d6ae52596a3373509470efd3]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -838,7 +838,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 .
 
-### 39. Failure to register for levy etc.[^key-69ec89a011f086224e07800570a25d33]
+### 39. Failure to register for levy etc.[^c-69ec89a011f086224e07800570a25d33]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -851,7 +851,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (3) In section 210(4) (amount of penalty for failure to register for tax etc.), for “Scottish landfill tax or Scottish aggregates tax” insert “Scottish landfill tax, Scottish aggregates tax or the Scottish building safety levy”.
 
-### 40. Failure to request approval of tax representative appointment[^key-17fddc83ec292b0eeab14cf2707e01de]
+### 40. Failure to request approval of tax representative appointment[^c-17fddc83ec292b0eeab14cf2707e01de]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -870,7 +870,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 .
 
-### 41. Failure to notify cessation of eligibility for group treatment or of having a place of business in UK[^key-f3bca544eab2102c3967179575043abc]
+### 41. Failure to notify cessation of eligibility for group treatment or of having a place of business in UK[^c-f3bca544eab2102c3967179575043abc]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -887,7 +887,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 .
 
-### 42. Failure to notify change to group treatment application or notification[^key-3cd4cc4cde01a5956e3f352b764f56bf]
+### 42. Failure to notify change to group treatment application or notification[^c-3cd4cc4cde01a5956e3f352b764f56bf]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -901,7 +901,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 .
 
-### 43. Failure to provide security[^key-8cc3d6257b6f5ac02945f8ad4043b494]
+### 43. Failure to provide security[^c-8cc3d6257b6f5ac02945f8ad4043b494]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -915,7 +915,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 .
 
-### 44. General provisions for penalties relating to the Scottish building safety levy[^key-4fe2df0cd2ca8b61c3c6e4777c792259]
+### 44. General provisions for penalties relating to the Scottish building safety levy[^c-4fe2df0cd2ca8b61c3c6e4777c792259]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -980,7 +980,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 **Not yet in force.**
 
-### 45. Reviews and appeals of decisions of Revenue Scotland[^key-22c674c5359db1877fe15cc1fa36b145]
+### 45. Reviews and appeals of decisions of Revenue Scotland[^c-22c674c5359db1877fe15cc1fa36b145]
 
 (1) The Revenue Scotland and Tax Powers Act 2014 is modified as follows.
 
@@ -998,7 +998,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 ## Part 7 — Final provisions
 
-### 46. Report on operation of Act[^key-275a9ffe1b7cea7e1e76f51a119989e5]
+### 46. Report on operation of Act[^c-275a9ffe1b7cea7e1e76f51a119989e5]
 
 **Not yet in force.**
 
@@ -1016,7 +1016,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (5) The first report under this section must be published within 3 years of the day on which this section comes into force.
 
-### 47. Interpretation of this Act[^key-fa82adfdd18f797f12e096685ff2f1e9]
+### 47. Interpretation of this Act[^c-fa82adfdd18f797f12e096685ff2f1e9]
 
 **Not yet in force.**
 
@@ -1049,7 +1049,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 - (b) that person has a usual place of residence in the United Kingdom, or
 - (c) that person is a firm or unincorporated body which (without being resident in the United Kingdom by virtue of paragraph (a)) has amongst its partners or members at least one individual with a usual place of residence in the United Kingdom.
 
-### 48. Interpretation of the Revenue Scotland and Tax Powers Act 2014[^key-9932f630c6fba061ccc12ee29d120d44]
+### 48. Interpretation of the Revenue Scotland and Tax Powers Act 2014[^c-9932f630c6fba061ccc12ee29d120d44]
 
 **Not yet in force.**
 
@@ -1087,7 +1087,7 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
   .
 
-### 49. Regulation-making powers[^key-4e91dc4011f59ac7f089b2fbbf69ef0f]
+### 49. Regulation-making powers[^c-4e91dc4011f59ac7f089b2fbbf69ef0f]
 
 (1) Regulations under the following provisions are subject to the affirmative procedure: sections 6(1), 9(2), 9(5), 11(1), 12(2), 15(6), 22(1) and 53(2).
 
@@ -1105,17 +1105,17 @@ Revenue Scotland must, by notice given to that person, terminate that treatment 
 
 (5) This section does not apply to regulations under section 52.
 
-### 50. Ancillary provision[^key-52c60ae27066eba9714cd0f12a9339ea]
+### 50. Ancillary provision[^c-52c60ae27066eba9714cd0f12a9339ea]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, or in connection with, or for giving full effect to this Act or any provision made under it.
 
 (2) Regulations under subsection (1) may modify any enactment (including this Act).
 
-### 51. Crown application[^key-6a42ef55b4d854c9017156113752d5b8]
+### 51. Crown application[^c-6a42ef55b4d854c9017156113752d5b8]
 
 Nothing in this Act affects His Majesty in His personal capacity.
 
-### 52. Commencement[^key-7da3eebf6997a871360e06cb6e654aa4]
+### 52. Commencement[^c-7da3eebf6997a871360e06cb6e654aa4]
 
 (1) This section and sections 49, 50, 51 and 54 come into force on the day after Royal Assent.
 
@@ -1126,7 +1126,7 @@ Nothing in this Act affects His Majesty in His personal capacity.
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 53. Expiry[^key-c06a0db14806e9432a5f91c789a41a32]
+### 53. Expiry[^c-c06a0db14806e9432a5f91c789a41a32]
 
 **Not yet in force.**
 
@@ -1138,116 +1138,116 @@ Nothing in this Act affects His Majesty in His personal capacity.
 
 (4) Regulations under subsection (2) may modify any enactment (including this Act).
 
-### 54. Short title[^key-5fefcb6044ae1ccd1679a2f28775bfe3]
+### 54. Short title[^c-5fefcb6044ae1ccd1679a2f28775bfe3]
 
 The short title of this Act is the Building Safety Levy (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-6f233dfcdd531ec44b162313405ca720]: Commencement: S. 1 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-6f233dfcdd531ec44b162313405ca720]: Commencement: S. 1 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-ff699ab511f13a9c09ca4c78bc913e0c]: Commencement: S. 2 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-ff699ab511f13a9c09ca4c78bc913e0c]: Commencement: S. 2 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-0ffdeaa19ac1c95a882bd4366735389c]: Commencement: S. 3 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-0ffdeaa19ac1c95a882bd4366735389c]: Commencement: S. 3 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-92b3cc4da9fbd037741235691b82b208]: Commencement: S. 4 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-92b3cc4da9fbd037741235691b82b208]: Commencement: S. 4 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-aec403c5c47191748a8776da34fc0901]: Commencement: S. 5 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-aec403c5c47191748a8776da34fc0901]: Commencement: S. 5 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-3a0ea15a31813c844a8ac1743bebf4d1]: Commencement: S. 6 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-3a0ea15a31813c844a8ac1743bebf4d1]: Commencement: S. 6 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-45016a827d7f5614c7121dc0cd4a238f]: Commencement: S. 7 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-45016a827d7f5614c7121dc0cd4a238f]: Commencement: S. 7 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-7863502cebb104c1fca13237fd22ed77]: Commencement: S. 8 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-7863502cebb104c1fca13237fd22ed77]: Commencement: S. 8 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-5d2c409499008ba013fe9d88f25aed77]: Commencement: S. 9 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-5d2c409499008ba013fe9d88f25aed77]: Commencement: S. 9 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-989671eb60f0f6c4d3276e4572549439]: Commencement: S. 10 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-989671eb60f0f6c4d3276e4572549439]: Commencement: S. 10 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-d07a0779688add2919fd2a5b67dc9900]: Commencement: S. 11 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-d07a0779688add2919fd2a5b67dc9900]: Commencement: S. 11 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-5fec232781526f6a6f845c223d324a73]: Commencement: S. 12 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-5fec232781526f6a6f845c223d324a73]: Commencement: S. 12 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-12c811cf2cd94a73e1ee170035ab37d3]: Commencement: S. 13 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-12c811cf2cd94a73e1ee170035ab37d3]: Commencement: S. 13 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-304bf3eb36862ead639e740a895ff51b]: Commencement: S. 14 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-304bf3eb36862ead639e740a895ff51b]: Commencement: S. 14 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-273dbfef1e5ce53b0c4e09aed97c9b62]: Commencement: S. 15 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-273dbfef1e5ce53b0c4e09aed97c9b62]: Commencement: S. 15 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-c070866555413cf61f2de939efec5014]: Commencement: S. 16 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-c070866555413cf61f2de939efec5014]: Commencement: S. 16 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-26755fd871c5c1f71de285ffcd14ddfa]: Commencement: S. 17 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-26755fd871c5c1f71de285ffcd14ddfa]: Commencement: S. 17 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-bf62a225605347e82b4a80ac9be96844]: Commencement: S. 18 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-bf62a225605347e82b4a80ac9be96844]: Commencement: S. 18 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-5a20f2e4dbb5902b3a247af8e87fb603]: Commencement: S. 19 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-5a20f2e4dbb5902b3a247af8e87fb603]: Commencement: S. 19 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-4e015fe096aa0b622e67d98bf4dc148b]: Commencement: S. 20 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-4e015fe096aa0b622e67d98bf4dc148b]: Commencement: S. 20 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-7a4fd72a7338c289b5848721d920d023]: Commencement: S. 21 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-7a4fd72a7338c289b5848721d920d023]: Commencement: S. 21 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-36617f385ce31c7aca740a58c4d11381]: Commencement: S. 22 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-36617f385ce31c7aca740a58c4d11381]: Commencement: S. 22 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-6898bfef27fcfe6e965c3ebc0ec25d91]: Commencement: S. 23 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-6898bfef27fcfe6e965c3ebc0ec25d91]: Commencement: S. 23 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-9caf6d91e83e835e00e68f46ebdd2092]: Commencement: S. 24 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-9caf6d91e83e835e00e68f46ebdd2092]: Commencement: S. 24 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-e3ba87737025890b60b614e57f0f6fdf]: Commencement: S. 25 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-e3ba87737025890b60b614e57f0f6fdf]: Commencement: S. 25 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-439eade75782e04f23e45ae3b97a8f59]: Commencement: S. 26 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-439eade75782e04f23e45ae3b97a8f59]: Commencement: S. 26 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-0b967abf245877e01abd2fb6239a0293]: Commencement: S. 27 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-0b967abf245877e01abd2fb6239a0293]: Commencement: S. 27 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-3d1e2e0449e74da78ac91b1dcd1dad26]: Commencement: S. 28 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-3d1e2e0449e74da78ac91b1dcd1dad26]: Commencement: S. 28 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-02b49b7834f0c26b6efd464ee13a811a]: Commencement: S. 29 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-02b49b7834f0c26b6efd464ee13a811a]: Commencement: S. 29 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-a8a9bd202d937d1e5774a3fbb224e7cb]: Commencement: S. 30 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-a8a9bd202d937d1e5774a3fbb224e7cb]: Commencement: S. 30 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-e1cf936f5c4428d170faac1a892da521]: Commencement: S. 31 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-e1cf936f5c4428d170faac1a892da521]: Commencement: S. 31 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-92c7732ff607ba193a9012eb1ab67a0d]: Commencement: S. 32 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-92c7732ff607ba193a9012eb1ab67a0d]: Commencement: S. 32 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-d77d0cec8e02158aa41b5ef192a34f6a]: Commencement: S. 33 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-d77d0cec8e02158aa41b5ef192a34f6a]: Commencement: S. 33 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-a5201e991609fefdef8a07af6386130e]: Commencement: S. 34 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-a5201e991609fefdef8a07af6386130e]: Commencement: S. 34 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-26463470505b20a4353add2c4f542c66]: Commencement: S. 35 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-26463470505b20a4353add2c4f542c66]: Commencement: S. 35 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-cb22b7363f4e3e08776eb1ed2c8c0269]: Commencement: S. 36 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-cb22b7363f4e3e08776eb1ed2c8c0269]: Commencement: S. 36 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-f1b3c1fa3cc96f512917a8cde1f8baec]: Commencement: S. 37 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-f1b3c1fa3cc96f512917a8cde1f8baec]: Commencement: S. 37 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-ad6d4b91d6ae52596a3373509470efd3]: Commencement: S. 38 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-ad6d4b91d6ae52596a3373509470efd3]: Commencement: S. 38 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-69ec89a011f086224e07800570a25d33]: Commencement: S. 39 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-69ec89a011f086224e07800570a25d33]: Commencement: S. 39 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-17fddc83ec292b0eeab14cf2707e01de]: Commencement: S. 40 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-17fddc83ec292b0eeab14cf2707e01de]: Commencement: S. 40 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-f3bca544eab2102c3967179575043abc]: Commencement: S. 41 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-f3bca544eab2102c3967179575043abc]: Commencement: S. 41 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-3cd4cc4cde01a5956e3f352b764f56bf]: Commencement: S. 42 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-3cd4cc4cde01a5956e3f352b764f56bf]: Commencement: S. 42 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-8cc3d6257b6f5ac02945f8ad4043b494]: Commencement: S. 43 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-8cc3d6257b6f5ac02945f8ad4043b494]: Commencement: S. 43 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-4fe2df0cd2ca8b61c3c6e4777c792259]: Commencement: S. 44 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-4fe2df0cd2ca8b61c3c6e4777c792259]: Commencement: S. 44 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-22c674c5359db1877fe15cc1fa36b145]: Commencement: S. 45 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-22c674c5359db1877fe15cc1fa36b145]: Commencement: S. 45 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-275a9ffe1b7cea7e1e76f51a119989e5]: Commencement: S. 46 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-275a9ffe1b7cea7e1e76f51a119989e5]: Commencement: S. 46 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-fa82adfdd18f797f12e096685ff2f1e9]: Commencement: S. 47 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-fa82adfdd18f797f12e096685ff2f1e9]: Commencement: S. 47 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-9932f630c6fba061ccc12ee29d120d44]: Commencement: S. 48 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-9932f630c6fba061ccc12ee29d120d44]: Commencement: S. 48 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-4e91dc4011f59ac7f089b2fbbf69ef0f]: Commencement: S. 49 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
+[^c-4e91dc4011f59ac7f089b2fbbf69ef0f]: Commencement: S. 49 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
 
-[^key-52c60ae27066eba9714cd0f12a9339ea]: Commencement: S. 50 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
+[^c-52c60ae27066eba9714cd0f12a9339ea]: Commencement: S. 50 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
 
-[^key-6a42ef55b4d854c9017156113752d5b8]: Commencement: S. 51 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
+[^c-6a42ef55b4d854c9017156113752d5b8]: Commencement: S. 51 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
 
-[^key-7da3eebf6997a871360e06cb6e654aa4]: Commencement: S. 52 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
+[^c-7da3eebf6997a871360e06cb6e654aa4]: Commencement: S. 52 in force at 14.5.2026, see [s. 52(1)](https://www.legislation.gov.uk/asp/2026/14/section/52/1)
 
-[^key-c06a0db14806e9432a5f91c789a41a32]: Commencement: S. 53 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
+[^c-c06a0db14806e9432a5f91c789a41a32]: Commencement: S. 53 not in force at Royal Assent, see [s. 52(2)](https://www.legislation.gov.uk/asp/2026/14/section/52/2)
 
-[^key-5fefcb6044ae1ccd1679a2f28775bfe3]: Commencement: S. 54 in force at 14.5.2026, see [s. 52](https://www.legislation.gov.uk/asp/2026/14/section/52)
+[^c-5fefcb6044ae1ccd1679a2f28775bfe3]: Commencement: S. 54 in force at 14.5.2026, see [s. 52](https://www.legislation.gov.uk/asp/2026/14/section/52)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134D. Comparative overviews of quality and prices[^key-06a370bd67f3e2b58e406604450ebc20]
+## 134D. Comparative overviews of quality and prices[^c-06a370bd67f3e2b58e406604450ebc20]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a370bd67f3e2b58e406604450ebc20]: Textual amendment: S. 134D and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/83/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-06a370bd67f3e2b58e406604450ebc20]: Textual amendment: S. 134D and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/83/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

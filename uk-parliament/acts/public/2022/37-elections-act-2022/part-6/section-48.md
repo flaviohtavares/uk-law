@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Offence of breaching section 41[^key-ad01acbb67d7d884f3af0a2afaf3e788][^key-6be26f50f5a794df52234ebe3951ac61]
+## 48. Offence of breaching section 41[^c-ad01acbb67d7d884f3af0a2afaf3e788][^c-6be26f50f5a794df52234ebe3951ac61]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ as a result of which the person reasonably believed its previous publication com
 
 ## Annotations
 
-[^key-ad01acbb67d7d884f3af0a2afaf3e788]: Commencement: S. 48 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ad01acbb67d7d884f3af0a2afaf3e788]: Commencement: S. 48 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-6be26f50f5a794df52234ebe3951ac61]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/37/section/48) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-6be26f50f5a794df52234ebe3951ac61]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/37/section/48) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

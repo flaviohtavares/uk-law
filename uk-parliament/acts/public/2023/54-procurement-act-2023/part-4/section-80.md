@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Contract termination notices[^key-b37dd53fd8045ebe18444134123bc012][^key-d9cbbacab0f5fa21718d9ec5e43d6df3]
+## 80. Contract termination notices[^c-b37dd53fd8045ebe18444134123bc012][^c-d9cbbacab0f5fa21718d9ec5e43d6df3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b37dd53fd8045ebe18444134123bc012]: Commencement: S. 80 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-b37dd53fd8045ebe18444134123bc012]: Commencement: S. 80 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-d9cbbacab0f5fa21718d9ec5e43d6df3]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/54/section/80) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-d9cbbacab0f5fa21718d9ec5e43d6df3]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/54/section/80) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

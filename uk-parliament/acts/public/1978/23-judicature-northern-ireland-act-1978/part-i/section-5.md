@@ -26,7 +26,7 @@ summary: ''
 - (b) the Queen’s Bench Division; and
 - (c) the Family Division.
 
-(2) The Department of Justice may by order[^key-769a8f40fa2a35bbbfdca545604bbb23] from time to time create additional divisions of the High Court or provide that any division be abolished and any such order[^key-a54e2252401d8da9de8641d8b54ef704] may contain such provision as may be necessary or proper for that purpose.
+(2) The Department of Justice may by order[^c-769a8f40fa2a35bbbfdca545604bbb23] from time to time create additional divisions of the High Court or provide that any division be abolished and any such order[^c-a54e2252401d8da9de8641d8b54ef704] may contain such provision as may be necessary or proper for that purpose.
 
 (3) A judge of the High Court may sit in any division.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-769a8f40fa2a35bbbfdca545604bbb23]: Textual amendment: Words in s. 5(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/12/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-769a8f40fa2a35bbbfdca545604bbb23]: Textual amendment: Words in s. 5(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/12/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-a54e2252401d8da9de8641d8b54ef704]: Textual amendment: Words in s. 5(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 12(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/12/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a54e2252401d8da9de8641d8b54ef704]: Textual amendment: Words in s. 5(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 12(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/12/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

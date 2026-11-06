@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Meaning of “associate” for the purposes of section 82[^key-0a140e635ab11b7892ac4fb3555a9f82][^key-dca47ffd6e587003f00b21adb35d5923]
+## 91. Meaning of “associate” for the purposes of section 82[^c-0a140e635ab11b7892ac4fb3555a9f82][^c-dca47ffd6e587003f00b21adb35d5923]
 
 *Extent: E+W+S*
 
@@ -51,6 +51,6 @@ and subsections (2) to (6) set out the circumstances in which one person (“A�
 
 ## Annotations
 
-[^key-0a140e635ab11b7892ac4fb3555a9f82]: Commencement: S. 91 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-0a140e635ab11b7892ac4fb3555a9f82]: Commencement: S. 91 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-dca47ffd6e587003f00b21adb35d5923]: Modification: S. 91 applied by 1995 c. 45, s. 12(7) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(12)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/12), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
+[^c-dca47ffd6e587003f00b21adb35d5923]: Modification: S. 91 applied by 1995 c. 45, s. 12(7) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(12)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/12), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Calculation of initial tariffs: calculation of B[^key-6ce0f6e938cd9cc3db9005b5890ccc0c]
+## 36. Calculation of initial tariffs: calculation of B[^c-6ce0f6e938cd9cc3db9005b5890ccc0c]
 
 *Extent: E+W+S*
 
 (1) This regulation provides for the calculation of B for the purposes of regulation 34(3)(b).
 
-(2)[^key-d8479021688ba71b8345e04636fecc07] Save where paragraphs (3) or (4) apply, B is 1.
+(2)[^c-d8479021688ba71b8345e04636fecc07] Save where paragraphs (3) or (4) apply, B is 1.
 
 (3) B is 0.9 if, on the relevant assessment date—
 
@@ -40,7 +40,7 @@ summary: ''
 - (b) the growth threshold is exceeded on an assessment date if the increase in expenditure forecast for the relevant tariff category in relation to that date exceeds the figure specified in relation to that tariff category and date in the third column of the table in the relevant Part of Schedule 6;
 - (c) the super expenditure threshold is exceeded on an assessment date if the forecast for expenditure for the relevant tariff category in relation to that date exceeds the figure specified in relation to that date in the fourth column of the table in the relevant Part of Schedule 6;
 - (d) the super growth threshold is exceeded on an assessment date if the increase in expenditure forecast for the relevant tariff category in relation to that date exceeds the figure specified in relation to that tariff category and date in the fifth column of the table in the relevant Part of Schedule 6;
-- (e)[^key-85f6700db4c901c0070797e137a6c4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-85f6700db4c901c0070797e137a6c4f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of this regulation—
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6ce0f6e938cd9cc3db9005b5890ccc0c]: Commencement: Reg. 36 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-6ce0f6e938cd9cc3db9005b5890ccc0c]: Commencement: Reg. 36 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-d8479021688ba71b8345e04636fecc07]: Textual amendment: [Reg. 36(2)-(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/36/2) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [13(1)](https://www.legislation.gov.uk/uksi/2018/610/regulation/13/1)
+[^c-d8479021688ba71b8345e04636fecc07]: Textual amendment: [Reg. 36(2)-(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/36/2) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [13(1)](https://www.legislation.gov.uk/uksi/2018/610/regulation/13/1)
 
-[^key-85f6700db4c901c0070797e137a6c4f5]: Textual amendment: [Reg. 36(5)(e)](https://www.legislation.gov.uk/uksi/2014/928/regulation/36/5/e) omitted (22.5.2018) by virtue of [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/610/regulation/13/2)
+[^c-85f6700db4c901c0070797e137a6c4f5]: Textual amendment: [Reg. 36(5)(e)](https://www.legislation.gov.uk/uksi/2014/928/regulation/36/5/e) omitted (22.5.2018) by virtue of [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/610/regulation/13/2)

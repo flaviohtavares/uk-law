@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Local Education and Training Boards[^key-36430d1475f9e3e5dc86e9dfc30467e5]
+## SCHEDULE 6 — Local Education and Training Boards[^c-36430d1475f9e3e5dc86e9dfc30467e5]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Section 104
 
 ## Annotations
 
-[^key-36430d1475f9e3e5dc86e9dfc30467e5]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/2014/23/schedule/6) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 90(8)](https://www.legislation.gov.uk/ukpga/2022/31/section/90/8), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-36430d1475f9e3e5dc86e9dfc30467e5]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/2014/23/schedule/6) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 90(8)](https://www.legislation.gov.uk/ukpga/2022/31/section/90/8), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

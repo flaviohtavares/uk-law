@@ -32,7 +32,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The BSE Offspring Slaughter Regulations 1998 (revoked)[^key-fd1afddd369ea059238d626df3b3152d]
+The BSE Offspring Slaughter Regulations 1998 (revoked)[^c-fd1afddd369ea059238d626df3b3152d]
 
 Made
 
@@ -46,81 +46,81 @@ Coming into force
 
 4th January 1999
 
-[^key-fd1afddd369ea059238d626df3b3152d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd1afddd369ea059238d626df3b3152d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-fd1afddd369ea059238d626df3b3152d]
+## 1. Title, commencement and extent[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fd1afddd369ea059238d626df3b3152d]
+## 2. Interpretation[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirements relating to offspring animals[^key-fd1afddd369ea059238d626df3b3152d]
+## 3. Requirements relating to offspring animals[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of intended slaughter[^key-fd1afddd369ea059238d626df3b3152d]
+## 4. Notice of intended slaughter[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Compensation for slaughtered offspring animals[^key-fd1afddd369ea059238d626df3b3152d]
+## 5. Compensation for slaughtered offspring animals[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of entry, examination, search and sampling etc.[^key-fd1afddd369ea059238d626df3b3152d]
+## 6. Powers of entry, examination, search and sampling etc.[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Obstruction[^key-fd1afddd369ea059238d626df3b3152d]
+## 7. Obstruction[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences and penalties[^key-fd1afddd369ea059238d626df3b3152d]
+## 8. Offences and penalties[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences by bodies corporate[^key-fd1afddd369ea059238d626df3b3152d]
+## 9. Offences by bodies corporate[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Enforcement[^key-fd1afddd369ea059238d626df3b3152d]
+## 10. Enforcement[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd1afddd369ea059238d626df3b3152d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd1afddd369ea059238d626df3b3152d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FORMS[^key-fd1afddd369ea059238d626df3b3152d]
+## SCHEDULE 1 — FORMS[^c-fd1afddd369ea059238d626df3b3152d]
 
 regulations 3 and 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-fd1afddd369ea059238d626df3b3152d]
+## SCHEDULE 2[^c-fd1afddd369ea059238d626df3b3152d]
 
 regulations 2(1) and 5(3) and (4)
 
-### PART I — Ascertainment of amount of compensation for dairy offspring animals, beef breeding offspring animals and beef offspring animals by reference to the indicative market price for the month of slaughter[^key-fd1afddd369ea059238d626df3b3152d]
+### PART I — Ascertainment of amount of compensation for dairy offspring animals, beef breeding offspring animals and beef offspring animals by reference to the indicative market price for the month of slaughter[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Example of amounts of compensation for dairy offspring animals, beef breeding offspring animals and beef offspring animals ascertained by reference to the indicative market price for these animals for December 1998[^key-fd1afddd369ea059238d626df3b3152d]
+### PART II — Example of amounts of compensation for dairy offspring animals, beef breeding offspring animals and beef offspring animals ascertained by reference to the indicative market price for these animals for December 1998[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — CALCULATION OF INDICATIVE MARKET PRICE[^key-fd1afddd369ea059238d626df3b3152d]
+### PART III — CALCULATION OF INDICATIVE MARKET PRICE[^c-fd1afddd369ea059238d626df3b3152d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd1afddd369ea059238d626df3b3152d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd1afddd369ea059238d626df3b3152d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd1afddd369ea059238d626df3b3152d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/3070) revoked (S.) (19.6.2002) by [The TSE (Scotland) Regulations 2002 (S.S.I. 2002/255)](https://www.legislation.gov.uk/ssi/2002/255), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/255/regulation/1/1), [sch. 9 Pt. I](https://www.legislation.gov.uk/ssi/2002/255/schedule/9/part/I) (with [reg. 2](https://www.legislation.gov.uk/ssi/2002/255/regulation/2))
+[^c-fd1afddd369ea059238d626df3b3152d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/3070) revoked (S.) (19.6.2002) by [The TSE (Scotland) Regulations 2002 (S.S.I. 2002/255)](https://www.legislation.gov.uk/ssi/2002/255), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/255/regulation/1/1), [sch. 9 Pt. I](https://www.legislation.gov.uk/ssi/2002/255/schedule/9/part/I) (with [reg. 2](https://www.legislation.gov.uk/ssi/2002/255/regulation/2))
 
     [Regulations](https://www.legislation.gov.uk/uksi/1998/3070) revoked (W.) (27.5.2002) by [The TSE (Wales) Regulations 2002 (S.I. 2002/1416)](https://www.legislation.gov.uk/wsi/2002/1416), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2002/1416/regulation/1/3), [104(1)](https://www.legislation.gov.uk/wsi/2002/1416/regulation/104/1), [Sch. 9 Pt. I](https://www.legislation.gov.uk/wsi/2002/1416/schedule/9/part/I)
 

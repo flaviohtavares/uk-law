@@ -34,7 +34,7 @@ Order made by the Secretary of State under section 6(1) of the Export Control Ac
 
 Customs
 
-The Export Control (Amendment) (No. 3) Order 2011 (revoked)[^key-1de86934481ec7b32cb31d659ddb0cf3]
+The Export Control (Amendment) (No. 3) Order 2011 (revoked)[^c-1de86934481ec7b32cb31d659ddb0cf3]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 16th April 2011
 
-[^key-1de86934481ec7b32cb31d659ddb0cf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1de86934481ec7b32cb31d659ddb0cf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-1de86934481ec7b32cb31d659ddb0cf3]
+## 1. Citation, commencement and expiry[^c-1de86934481ec7b32cb31d659ddb0cf3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-1de86934481ec7b32cb31d659ddb0cf3]
+## 2. Revocation[^c-1de86934481ec7b32cb31d659ddb0cf3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Export Control Order 2008[^key-1de86934481ec7b32cb31d659ddb0cf3]
+## 3. Amendments to the Export Control Order 2008[^c-1de86934481ec7b32cb31d659ddb0cf3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de86934481ec7b32cb31d659ddb0cf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1de86934481ec7b32cb31d659ddb0cf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1de86934481ec7b32cb31d659ddb0cf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1de86934481ec7b32cb31d659ddb0cf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1de86934481ec7b32cb31d659ddb0cf3]: Textual amendment: Order revoked (16.4.2012) by [The Export Control (Amendment) Order 2012 (S.I. 2012/929)](https://www.legislation.gov.uk/uksi/2012/929), [arts. 1](https://www.legislation.gov.uk/uksi/2012/929/article/1), [2](https://www.legislation.gov.uk/uksi/2012/929/article/2)
+[^c-1de86934481ec7b32cb31d659ddb0cf3]: Textual amendment: Order revoked (16.4.2012) by [The Export Control (Amendment) Order 2012 (S.I. 2012/929)](https://www.legislation.gov.uk/uksi/2012/929), [arts. 1](https://www.legislation.gov.uk/uksi/2012/929/article/1), [2](https://www.legislation.gov.uk/uksi/2012/929/article/2)

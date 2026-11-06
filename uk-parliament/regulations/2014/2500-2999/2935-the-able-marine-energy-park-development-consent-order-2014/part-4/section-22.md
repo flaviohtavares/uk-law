@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Authority to survey and investigate the land[^key-7d639a35d1369cf4875d8628e10e1cf2]
+## 22. Authority to survey and investigate the land[^c-7d639a35d1369cf4875d8628e10e1cf2]
 
 *Extent: E+W+S*
 
@@ -43,12 +43,12 @@ but such consent must not be unreasonably withheld.
 
 (5) The undertaker must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the authority conferred by this article, such compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-(6) Nothing in this article overrides any requirement to obtain permits or consents under the Conservation of Habitats and Species Regulations 2017[^key-6cdd0c44e50ed9461ddddf4d901e6226] or the Wildlife and Countryside Act 1981[^f00025].
+(6) Nothing in this article overrides any requirement to obtain permits or consents under the Conservation of Habitats and Species Regulations 2017[^c-6cdd0c44e50ed9461ddddf4d901e6226] or the Wildlife and Countryside Act 1981[^f00025].
 
 ## Annotations
 
-[^key-7d639a35d1369cf4875d8628e10e1cf2]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2014/2935/article/22) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-7d639a35d1369cf4875d8628e10e1cf2]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2014/2935/article/22) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
-[^key-6cdd0c44e50ed9461ddddf4d901e6226]: Textual amendment: Words in [art. 22(6)](https://www.legislation.gov.uk/uksi/2014/2935/article/22/6) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 41(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/41/2)
+[^c-6cdd0c44e50ed9461ddddf4d901e6226]: Textual amendment: Words in [art. 22(6)](https://www.legislation.gov.uk/uksi/2014/2935/article/22/6) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 41(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/41/2)
 
 [^f00025]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).

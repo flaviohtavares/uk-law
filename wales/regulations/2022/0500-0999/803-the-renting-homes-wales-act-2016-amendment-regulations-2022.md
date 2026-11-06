@@ -41,13 +41,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 256(3), (4)(h), (i), (la)[^f00007], (m), (mb)[^f00008], (mc)[^f00009] and (5) of that Act, a draft of these Regulations has been laid before and approved by a resolution of Senedd Cymru[^f00010].
 
-## 1. Title, commencement and interpretation[^key-5342bd3891dde71b3916f72c1a22e932]
+## 1. Title, commencement and interpretation[^c-5342bd3891dde71b3916f72c1a22e932]
 
-(1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Amendment) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016 comes into force)[^key-e8153ce043f364071feaf734b8eeed82] [^f00011].
+(1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Amendment) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016 comes into force)[^c-e8153ce043f364071feaf734b8eeed82] [^f00011].
 
 (2) In these Regulations “**the Act**” means the Renting Homes (Wales) Act 2016.
 
-## 2. Amendment to Schedule 2[^key-11daa97bb8d88d984a22b90593b14008]
+## 2. Amendment to Schedule 2[^c-11daa97bb8d88d984a22b90593b14008]
 
 In Schedule 2 to the Act (exceptions to section 7), in paragraph 7(3)[^f00012] after paragraph (i) insert—
 
@@ -58,27 +58,27 @@ In Schedule 2 to the Act (exceptions to section 7), in paragraph 7(3)[^f00012] a
 >   - (i) accommodation provided under section 4 (accommodation)[^f00017] or Part 6 (support for asylum-seekers, etc.) of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33)[^f00018], or
 >   - (ii) facilities provided under paragraph 9 of Schedule 10 to the Immigration Act 2016 (c. 19) (immigration bail)[^f00019] for the accommodation of a person at an address specified in an immigration bail condition.
 
-## 3. Amendment to Schedule 3[^key-553487af4cae995ffd9affbfc7f2a31c]
+## 3. Amendment to Schedule 3[^c-553487af4cae995ffd9affbfc7f2a31c]
 
 In Schedule 3 to the Act (occupation contracts made with or adopted by community landlords which may be standard contracts), omit paragraph 4[^f00020] and the italic heading before that paragraph.
 
-## 4. Amendment to Schedule 8A[^key-5742dad848948be3484dc4635ae16558]
+## 4. Amendment to Schedule 8A[^c-5742dad848948be3484dc4635ae16558]
 
 In Schedule 8A to the Act (standard contracts which can be terminated on two months’ notice under section 173 or a landlord’s break clause), omit paragraph 5 and the italic heading before that paragraph.
 
-## 5. Amendment to Schedule 9[^key-3ae650cc603e6489aa6a33255b302b8a]
+## 5. Amendment to Schedule 9[^c-3ae650cc603e6489aa6a33255b302b8a]
 
 In Schedule 9 to the Act (standard contracts to which limits in sections 175 and 196 (when landlord’s notice may be given) do not apply), omit paragraph 4[^f00021] and the italic heading before that paragraph.
 
-## 6. Amendment to Schedule 9B[^key-734637276e79c29fa72024768b20fc41]
+## 6. Amendment to Schedule 9B[^c-734637276e79c29fa72024768b20fc41]
 
 In Schedule 9B to the Act (fixed term standard contracts which can be terminated by giving notice under section 186), omit paragraph 3 and the italic heading before that paragraph.
 
-## 7. Amendment to Schedule 9C[^key-83f931861e0bd68aa2662bc216564226]
+## 7. Amendment to Schedule 9C[^c-83f931861e0bd68aa2662bc216564226]
 
 In Schedule 9C to the Act (fixed term standard contracts which may contain a landlord’s break clause even if made for a term of less than two years), omit paragraph 3 and the italic heading before that paragraph.
 
-## 8. Consequential amendments[^key-3d40e2312670ae7354053ebbf8f199b4]
+## 8. Consequential amendments[^c-3d40e2312670ae7354053ebbf8f199b4]
 
 In the Immigration Act 2016, in paragraph 2 of Schedule 11, after paragraph (m), insert—
 
@@ -86,7 +86,7 @@ In the Immigration Act 2016, in paragraph 2 of Schedule 11, after paragraph (m),
 
 .
 
-**9.**[^key-637d4c92499aea39745cf1788efb9167] In the Renting Homes (Amendment) (Wales) Act 2021[^f00022], in Schedule 6 (minor and consequential amendments)—
+**9.**[^c-637d4c92499aea39745cf1788efb9167] In the Renting Homes (Amendment) (Wales) Act 2021[^f00022], in Schedule 6 (minor and consequential amendments)—
 
 - (a) omit paragraph 23;
 - (b) omit paragraph 26(3).
@@ -148,13 +148,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00010]: Footnote: The references in section 256(3) and (5) of the Renting Homes (Wales) Act 2016 to the National Assembly for Wales now have effect as references to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5342bd3891dde71b3916f72c1a22e932]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-5342bd3891dde71b3916f72c1a22e932]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-e8153ce043f364071feaf734b8eeed82]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/wsi/2022/803/regulation/1/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/wsi/2022/906/article/15)
+[^c-e8153ce043f364071feaf734b8eeed82]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/wsi/2022/803/regulation/1/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/wsi/2022/906/article/15)
 
 [^f00011]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 comes into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-11daa97bb8d88d984a22b90593b14008]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/803/regulation/2) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-11daa97bb8d88d984a22b90593b14008]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/803/regulation/2) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
 [^f00012]: Footnote: Paragraph 7(3) of Schedule 2 to the Act was amended by section 14 of and paragraph 5(2) of Schedule 5 to the Renting Homes (Amendment) (Wales) Act 2021.
 
@@ -172,22 +172,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-553487af4cae995ffd9affbfc7f2a31c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/803/regulation/3) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-553487af4cae995ffd9affbfc7f2a31c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/803/regulation/3) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
 [^f00020]: Footnote: Paragraph 4 of Schedule 3 to the Act was amended by section 18 of and paragraphs 1 and 23 of Schedule 6 to the Renting Homes (Amendment) (Wales) Act 2021.
 
-[^key-5742dad848948be3484dc4635ae16558]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/803/regulation/4) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-5742dad848948be3484dc4635ae16558]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/803/regulation/4) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-3ae650cc603e6489aa6a33255b302b8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/803/regulation/5) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-3ae650cc603e6489aa6a33255b302b8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/803/regulation/5) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
 [^f00021]: Footnote: Paragraph 4 of Schedule 9 to the Act was amended by section 18 of and paragraphs 1 and 26(1) and (3) of Schedule 6 to the Renting Homes (Amendment) (Wales) Act 2021.
 
-[^key-734637276e79c29fa72024768b20fc41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/803/regulation/6) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-734637276e79c29fa72024768b20fc41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/803/regulation/6) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-83f931861e0bd68aa2662bc216564226]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/803/regulation/7) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-83f931861e0bd68aa2662bc216564226]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/803/regulation/7) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-3d40e2312670ae7354053ebbf8f199b4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/803/regulation/8) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-3d40e2312670ae7354053ebbf8f199b4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/803/regulation/8) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-637d4c92499aea39745cf1788efb9167]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/803/regulation/9) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-637d4c92499aea39745cf1788efb9167]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/803/regulation/9) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/803/regulation/1) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
 [^f00022]: Footnote: [2021 asc 3](https://www.legislation.gov.uk/asc/2021/3).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809AAZB. Relevant amount to be treated as income[^key-59c43eb6e9e125e3627c2cfc454f3c4e]
+## 809AAZB. Relevant amount to be treated as income[^c-59c43eb6e9e125e3627c2cfc454f3c4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ this Chapter is not to apply in relation to the disposal.
 
 ## Annotations
 
-[^key-59c43eb6e9e125e3627c2cfc454f3c4e]: Textual amendment: Pt. 13 Ch. 5AA inserted (with effect in accordance with Sch. 17 para. 24(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/24/1)
+[^c-59c43eb6e9e125e3627c2cfc454f3c4e]: Textual amendment: Pt. 13 Ch. 5AA inserted (with effect in accordance with Sch. 17 para. 24(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/24/1)

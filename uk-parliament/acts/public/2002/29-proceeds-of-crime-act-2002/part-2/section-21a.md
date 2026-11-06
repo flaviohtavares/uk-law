@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Order made: reconsideration of benefit on decrease in value and sale etc[^key-be63ef65ceecf8950d7a0ddca22526c5]
+## 21A. Order made: reconsideration of benefit on decrease in value and sale etc[^c-be63ef65ceecf8950d7a0ddca22526c5]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be63ef65ceecf8950d7a0ddca22526c5]: Textual amendment: S. 21A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 16(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/16/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-be63ef65ceecf8950d7a0ddca22526c5]: Textual amendment: S. 21A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 16(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/16/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

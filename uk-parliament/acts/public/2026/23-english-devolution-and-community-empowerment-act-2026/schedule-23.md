@@ -22,21 +22,21 @@ summary: ''
 
 Section 44
 
-### 1. Placing of staff of local authorities at disposal of other local authorities[^key-1f0974768fb2e858422106520092e322]
+### 1. Placing of staff of local authorities at disposal of other local authorities[^c-1f0974768fb2e858422106520092e322]
 
 In section 113 of LGA 1972, after subsection (4) insert—
 
 > (5) In this section “**local authority**” includes the Greater London Authority.
 
-### 2. Provision of information, etc, relating to matters affecting local government[^key-48ca3ca473ad8ad780c3fd63dbabfa71]
+### 2. Provision of information, etc, relating to matters affecting local government[^c-48ca3ca473ad8ad780c3fd63dbabfa71]
 
 In section 142 of LGA 1972, in subsection (2), in the words before paragraph (a), after “local authority” insert “or a combined authority or combined county authority”.
 
-### 3. Power of local authorities to prosecute or defend legal proceedings[^key-66062afef8890047c557f7b1faf163ac]
+### 3. Power of local authorities to prosecute or defend legal proceedings[^c-66062afef8890047c557f7b1faf163ac]
 
 In section 222 of LGA 1972, in subsection (1), in the words before paragraph (a), after “local authority” insert “or a combined authority or combined county authority”.
 
-### 4. Research and collection of information[^key-001d2f0b1ad3b8c358e6724b06ad5e52]
+### 4. Research and collection of information[^c-001d2f0b1ad3b8c358e6724b06ad5e52]
 
 (1) Section 88 of LGA 1985 is amended in accordance with this paragraph.
 
@@ -48,7 +48,7 @@ In section 222 of LGA 1972, in subsection (1), in the words before paragraph (a)
 
 (3) In subsection (14), after “subsection (13) above” insert “, or a combined authority or CCA,”.
 
-**5.**[^key-76f3c14f21ea4215f267b9f8d9345890] In section 105 of LGA 1985 (interpretation), in subsection (1), at the appropriate place insert—
+**5.**[^c-76f3c14f21ea4215f267b9f8d9345890] In section 105 of LGA 1985 (interpretation), in subsection (1), at the appropriate place insert—
 
 > - “**CCA**” means a combined county authority established under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
 > - “**combined authority**” means a combined authority established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
@@ -57,12 +57,12 @@ In section 222 of LGA 1972, in subsection (1), in the words before paragraph (a)
 
 ## Annotations
 
-[^key-1f0974768fb2e858422106520092e322]: Commencement: Sch. 23 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-1f0974768fb2e858422106520092e322]: Commencement: Sch. 23 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-48ca3ca473ad8ad780c3fd63dbabfa71]: Commencement: Sch. 23 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-48ca3ca473ad8ad780c3fd63dbabfa71]: Commencement: Sch. 23 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-66062afef8890047c557f7b1faf163ac]: Commencement: Sch. 23 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-66062afef8890047c557f7b1faf163ac]: Commencement: Sch. 23 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-001d2f0b1ad3b8c358e6724b06ad5e52]: Commencement: Sch. 23 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-001d2f0b1ad3b8c358e6724b06ad5e52]: Commencement: Sch. 23 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-76f3c14f21ea4215f267b9f8d9345890]: Commencement: Sch. 23 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-76f3c14f21ea4215f267b9f8d9345890]: Commencement: Sch. 23 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

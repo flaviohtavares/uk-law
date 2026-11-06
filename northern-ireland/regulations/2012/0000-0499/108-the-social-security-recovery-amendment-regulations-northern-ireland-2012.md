@@ -50,11 +50,11 @@ These Regulations may be cited as the Social Security (Recovery) (Amendment) Reg
 
 (1) The Social Security (Payments on Account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 [^c21203671] are amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-7fca9e88a89be7f5c3adf26d4ace774f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7fca9e88a89be7f5c3adf26d4ace774f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 16(5) [^c21203691] (limitations on deductions from prescribed benefits)—
 
-- (a)[^key-386700c029c260dde85bfe6c298e553d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-386700c029c260dde85bfe6c298e553d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the words from “where it is not a multiple of 10 pence” to the end substitute “ where it is not a multiple of 5 pence, rounded to the next higher such multiple. ”.
 
 ## 3. Amendment of the Housing Benefit Regulations
@@ -108,11 +108,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^c21203671]: Marginal citation: S.R. [1988 No. 142](https://www.legislation.gov.uk/ukcm/1988/142); relevant amending Regulations are S.R. [2000 No. 266](https://www.legislation.gov.uk/ukcm/2000/266), S.R. [2003 No. 191](https://www.legislation.gov.uk/ukcm/2003/191) and S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286)
 
-[^key-7fca9e88a89be7f5c3adf26d4ace774f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2012/108/regulation/2/2) revoked (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3), [34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34)
+[^c-7fca9e88a89be7f5c3adf26d4ace774f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2012/108/regulation/2/2) revoked (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3), [34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34)
 
 [^c21203691]: Marginal citation: Paragraph (5) was substituted by regulation 2(a) of S.R. [2000 No. 266](https://www.legislation.gov.uk/ukcm/2000/266)
 
-[^key-386700c029c260dde85bfe6c298e553d]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2012/108/regulation/2/3/a) revoked (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3), [34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34)
+[^c-386700c029c260dde85bfe6c298e553d]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2012/108/regulation/2/3/a) revoked (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3), [34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34)
 
 [^c21203701]: Marginal citation: S.R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405); relevant amending Regulations are S.R. [2008 No. 504](https://www.legislation.gov.uk/ukcm/2008/504)
 

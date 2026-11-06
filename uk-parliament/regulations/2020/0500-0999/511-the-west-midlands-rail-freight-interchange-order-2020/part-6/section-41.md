@@ -29,7 +29,7 @@ summary: ''
 
 (3) Any dispute as to a person's entitlement to compensation under paragraph (2), or as to the amount of compensation, must be determined under Part 1 of the 1961 Act.
 
-(4) The provisions of this article do not apply without the agreement of the local planning authority to any tree or hedgerow identified to be retained in the landscaping scheme approved under requirement 12 (ecological mitigation and management plan[^key-a51af8cb6531a7ae0e8869461505e96f]).
+(4) The provisions of this article do not apply without the agreement of the local planning authority to any tree or hedgerow identified to be retained in the landscaping scheme approved under requirement 12 (ecological mitigation and management plan[^c-a51af8cb6531a7ae0e8869461505e96f]).
 
 (5) The provisions of this article do not apply without the agreement of the relevant highway authority to any tree or hedgerow within a highway.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a51af8cb6531a7ae0e8869461505e96f]: Textual amendment: Words in art. 41(4) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/9)
+[^c-a51af8cb6531a7ae0e8869461505e96f]: Textual amendment: Words in art. 41(4) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Guidance on children not in school and school attendance orders[^key-244b21bdd1ef7f15bea205409a1a307c]
+## 41. Guidance on children not in school and school attendance orders[^c-244b21bdd1ef7f15bea205409a1a307c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 436T of the Education Act 1996 (as inserted by section 40) insertâ
 
 ## Annotations
 
-[^key-244b21bdd1ef7f15bea205409a1a307c]: Commencement: S. 41 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3/5)
+[^c-244b21bdd1ef7f15bea205409a1a307c]: Commencement: S. 41 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3/5)

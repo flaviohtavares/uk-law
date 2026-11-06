@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Amendment Regulations 2014 (revoked)[^key-699dc3374ac92378a065ef43ab7f63fb]
+The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Amendment Regulations 2014 (revoked)[^c-699dc3374ac92378a065ef43ab7f63fb]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 21st February 2014
 
-[^key-699dc3374ac92378a065ef43ab7f63fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-699dc3374ac92378a065ef43ab7f63fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-699dc3374ac92378a065ef43ab7f63fb]
+## 1. Citation, commencement and interpretation[^c-699dc3374ac92378a065ef43ab7f63fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-699dc3374ac92378a065ef43ab7f63fb]
+## 2. Amendment of the principal Regulations[^c-699dc3374ac92378a065ef43ab7f63fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-699dc3374ac92378a065ef43ab7f63fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-699dc3374ac92378a065ef43ab7f63fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-699dc3374ac92378a065ef43ab7f63fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-699dc3374ac92378a065ef43ab7f63fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-699dc3374ac92378a065ef43ab7f63fb]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014 (S.S.I. 2014/325)](https://www.legislation.gov.uk/ssi/2014/325), [reg. 10(1)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/1)
+[^c-699dc3374ac92378a065ef43ab7f63fb]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014 (S.S.I. 2014/325)](https://www.legislation.gov.uk/ssi/2014/325), [reg. 10(1)](https://www.legislation.gov.uk/ssi/2014/325/regulation/10/1)

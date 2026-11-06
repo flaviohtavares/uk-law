@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24B. Variation of contractual terms in respect of election to enter into a Capitation and Quality Scheme 2 Agreement[^key-c339fde52108cbb84a6c833d5a17c391]
+## 24B. Variation of contractual terms in respect of election to enter into a Capitation and Quality Scheme 2 Agreement[^c-c339fde52108cbb84a6c833d5a17c391]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c339fde52108cbb84a6c833d5a17c391]: Textual amendment: Reg. 24B revoked (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2016/298/regulation/10)
+[^c-c339fde52108cbb84a6c833d5a17c391]: Textual amendment: Reg. 24B revoked (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2016/298/regulation/10)

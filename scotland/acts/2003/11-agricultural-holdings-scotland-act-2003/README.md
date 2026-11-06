@@ -68,7 +68,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-##### New types of tenancy: general provision[^key-3e2d141a8f7f3dcba35b99a2839671ca]
+##### New types of tenancy: general provision[^c-3e2d141a8f7f3dcba35b99a2839671ca]
 
 *Extent: S*
 
@@ -112,7 +112,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 22 — Right of landlord to object to acquirer of tenancy](part-1/section-22.md)
 - [Section 23 — Effect of termination of tenancy where tenant deceased](part-1/section-23.md)
 
-### Part 2 — Tenant’s right to buy land[^key-17c74ef8f31cb3200e7ae0016dfbd611][^key-f77bc8eee15b6c27ce9dd9ec59796c82]
+### Part 2 — Tenant’s right to buy land[^c-17c74ef8f31cb3200e7ae0016dfbd611][^c-f77bc8eee15b6c27ce9dd9ec59796c82]
 
 #### Registration of interest and the right to buy
 
@@ -135,9 +135,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 37 — Appeal to Lands Tribunal against valuation](part-2/section-37.md)
 - [Section 38 — Referral of certain matters by Lands Tribunal to Land Court](part-2/section-38.md)
 
-### PART 2A — Sale where landlord in breach[^key-2523e7bef0ebb2d09cd2ebeb80b18917]
+### PART 2A — Sale where landlord in breach[^c-2523e7bef0ebb2d09cd2ebeb80b18917]
 
-#### Application to Land Court for order for sale[^key-2523e7bef0ebb2d09cd2ebeb80b18917]
+#### Application to Land Court for order for sale[^c-2523e7bef0ebb2d09cd2ebeb80b18917]
 
 - [Section 38A — Application to Land Court for order for sale](part-2a/section-38a.md)
 - [Section 38B — Order for sale](part-2a/section-38b.md)
@@ -145,7 +145,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 38D — Effect of order for sale: suspension of rights](part-2a/section-38d.md)
 - [Section 38E — Tenant's right to buy](part-2a/section-38e.md)
 
-#### Procedure for buying and valuation[^key-2523e7bef0ebb2d09cd2ebeb80b18917]
+#### Procedure for buying and valuation[^c-2523e7bef0ebb2d09cd2ebeb80b18917]
 
 - [Section 38F — Procedure for buying](part-2a/section-38f.md)
 - [Section 38G — Appointment of valuer and valuation of the land](part-2a/section-38g.md)
@@ -154,12 +154,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 38J — Completion of sale to tenant](part-2a/section-38j.md)
 - [Section 38K — Effect of extinguishing of right to buy](part-2a/section-38k.md)
 
-#### Sale to third party[^key-2523e7bef0ebb2d09cd2ebeb80b18917]
+#### Sale to third party[^c-2523e7bef0ebb2d09cd2ebeb80b18917]
 
 - [Section 38L — Sale to third party](part-2a/section-38l.md)
 - [Section 38M — Procedure for sale to third party](part-2a/section-38m.md)
 
-#### Post-sale obligations[^key-2523e7bef0ebb2d09cd2ebeb80b18917]
+#### Post-sale obligations[^c-2523e7bef0ebb2d09cd2ebeb80b18917]
 
 - [Section 38N — Restriction on notice to quit etc. where sale to third party](part-2a/section-38n.md)
 - [Section 38O — Payment to former landlord where early resale](part-2a/section-38o.md)
@@ -182,7 +182,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43 — Agreements as to compensation for improvements](part-4/section-43.md)
 - [Section 44 — Amount of compensation where grant made to tenant](part-4/section-44.md)
 
-##### New types of tenancy[^key-1c32dcb1e51bf7ddd765ee5759415b75]
+##### New types of tenancy[^c-1c32dcb1e51bf7ddd765ee5759415b75]
 
 *Extent: S*
 
@@ -200,7 +200,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 50 — Compensation for disturbance and for damage by game](part-4/section-50.md)
 - [Section 51 — Compensation arising as a result of diversification etc.](part-4/section-51.md)
 
-##### New types of tenancy[^key-743d3236c1a7c0ad7e75cda421f562fd]
+##### New types of tenancy[^c-743d3236c1a7c0ad7e75cda421f562fd]
 
 *Extent: S*
 
@@ -282,14 +282,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-3e2d141a8f7f3dcba35b99a2839671ca]: Textual amendment: S. 6 cross-heading substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-3e2d141a8f7f3dcba35b99a2839671ca]: Textual amendment: S. 6 cross-heading substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
 
-[^key-17c74ef8f31cb3200e7ae0016dfbd611]: Modification: Pt. 2 applied (with modifications) (23.12.2004) by [Agricultural Holdings (Right to Buy Modifications) (Scotland) Regulations 2004 (S.S.I. 2004/557)](https://www.legislation.gov.uk/ssi/2004/557), [regs. 1](https://www.legislation.gov.uk/ssi/2004/557/regulation/1), [4](https://www.legislation.gov.uk/ssi/2004/557/regulation/4)
+[^c-17c74ef8f31cb3200e7ae0016dfbd611]: Modification: Pt. 2 applied (with modifications) (23.12.2004) by [Agricultural Holdings (Right to Buy Modifications) (Scotland) Regulations 2004 (S.S.I. 2004/557)](https://www.legislation.gov.uk/ssi/2004/557), [regs. 1](https://www.legislation.gov.uk/ssi/2004/557/regulation/1), [4](https://www.legislation.gov.uk/ssi/2004/557/regulation/4)
 
-[^key-f77bc8eee15b6c27ce9dd9ec59796c82]: Modification: Pt. 2 modified (23.12.2004) by [Agricultural Holdings (Right to Buy Modifications) (Scotland) Regulations 2004 (S.S.I. 2004/557)](https://www.legislation.gov.uk/ssi/2004/557), [regs. 1](https://www.legislation.gov.uk/ssi/2004/557/regulation/1), [3](https://www.legislation.gov.uk/ssi/2004/557/regulation/3)
+[^c-f77bc8eee15b6c27ce9dd9ec59796c82]: Modification: Pt. 2 modified (23.12.2004) by [Agricultural Holdings (Right to Buy Modifications) (Scotland) Regulations 2004 (S.S.I. 2004/557)](https://www.legislation.gov.uk/ssi/2004/557), [regs. 1](https://www.legislation.gov.uk/ssi/2004/557/regulation/1), [3](https://www.legislation.gov.uk/ssi/2004/557/regulation/3)
 
-[^key-2523e7bef0ebb2d09cd2ebeb80b18917]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/asp/2003/11/part/2A) inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 100(2)](https://www.legislation.gov.uk/asp/2016/18/section/100/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)
+[^c-2523e7bef0ebb2d09cd2ebeb80b18917]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/asp/2003/11/part/2A) inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 100(2)](https://www.legislation.gov.uk/asp/2016/18/section/100/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)
 
-[^key-1c32dcb1e51bf7ddd765ee5759415b75]: Textual amendment: [S. 45 cross-heading](https://www.legislation.gov.uk/asp/2003/11/part/4/chapter/1/crossheading/short-limited-duration-tenancies-and-limited-duration-tenancies) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(15)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/15) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-1c32dcb1e51bf7ddd765ee5759415b75]: Textual amendment: [S. 45 cross-heading](https://www.legislation.gov.uk/asp/2003/11/part/4/chapter/1/crossheading/short-limited-duration-tenancies-and-limited-duration-tenancies) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(15)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/15) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
 
-[^key-743d3236c1a7c0ad7e75cda421f562fd]: Textual amendment: S. 52 cross-heading substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(18)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/18) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-743d3236c1a7c0ad7e75cda421f562fd]: Textual amendment: S. 52 cross-heading substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(18)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/18) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Monitoring and reporting on environmental improvement plans and targets[^key-1dac0162b42f9a1844f59b70854056fe][^key-86f5404927270ac200c64ee22736a096]
+## 28. Monitoring and reporting on environmental improvement plans and targets[^c-1dac0162b42f9a1844f59b70854056fe][^c-86f5404927270ac200c64ee22736a096]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dac0162b42f9a1844f59b70854056fe]: Commencement: S. 28 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-1dac0162b42f9a1844f59b70854056fe]: Commencement: S. 28 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-86f5404927270ac200c64ee22736a096]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/30/section/28) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/f)
+[^c-86f5404927270ac200c64ee22736a096]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/30/section/28) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/f)

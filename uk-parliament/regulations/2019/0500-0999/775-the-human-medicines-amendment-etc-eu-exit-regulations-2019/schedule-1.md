@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 3
 
-### 1ZA. Insertion of new regulation 10A (waiver for advice given to small and medium companies)[^M_I_a1ed52ca-3348-4d49-fe78-292eaba79d6f][^key-692f54308821f5ee98916b7350f53905]
+### 1ZA. Insertion of new regulation 10A (waiver for advice given to small and medium companies)[^M_I_a1ed52ca-3348-4d49-fe78-292eaba79d6f][^c-692f54308821f5ee98916b7350f53905]
 
 After regulation 10 insert—
 
@@ -37,7 +37,7 @@ After regulation 10 insert—
 
 .
 
-### 1. Amendment of regulation 19 (capital fees for applications for variations of authorisations)[^key-feffc30c14637dda5d28215a403e54c6]
+### 1. Amendment of regulation 19 (capital fees for applications for variations of authorisations)[^c-feffc30c14637dda5d28215a403e54c6]
 
 In regulation 19—
 
@@ -46,7 +46,7 @@ In regulation 19—
   > - (ii) 65C (variation of a UK marketing authorisation)
 
   ; and
-- (aa)[^key-dfc9f43400b121b95ef394584218074c] after paragraph (1)(d), insert—
+- (aa)[^c-dfc9f43400b121b95ef394584218074c] after paragraph (1)(d), insert—
 
   > - (e) under [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) for the variation of a UKMA(UK) or UKMA(NI).
 
@@ -57,7 +57,7 @@ In regulation 19—
 
   .
 
-### 2. Insertion of regulations 19A-19F (fees for plasma master files, vaccine antigen master files, post-authorisation safety studies, major safety reviews, periodic safety update reports and batch testing)[^key-ed090aa8240f7ce9b0a44052c1d0aacf]
+### 2. Insertion of regulations 19A-19F (fees for plasma master files, vaccine antigen master files, post-authorisation safety studies, major safety reviews, periodic safety update reports and batch testing)[^c-ed090aa8240f7ce9b0a44052c1d0aacf]
 
 After regulation 19, insert—
 
@@ -78,7 +78,7 @@ After regulation 19, insert—
 >
 > (1) This regulation applies to post-authorisation safety studies initiated, managed or financed by the holder of a marketing authorisation in compliance with obligations imposed under regulation 59 or 61 of the Human Medicines Regulations.
 >
-> (2)[^key-28d345b9aef06551dec1a6846b92e491] The fee payable by the holder of a marketing authorisation upon submission of the draft protocol for a post-authorisation safety study in accordance with regulation 199(2) of the Human Medicines Regulations—
+> (2)[^c-28d345b9aef06551dec1a6846b92e491] The fee payable by the holder of a marketing authorisation upon submission of the draft protocol for a post-authorisation safety study in accordance with regulation 199(2) of the Human Medicines Regulations—
 >
 > - (a) where the authorisation for the medicinal product concerned is a UKMA(GB) granted under the unfettered access route or a UKMA(GB) granted where the medicinal product concerned has already been granted a European Union marketing authorisation under Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/0726) (an automatic recognition application), and provided a corresponding draft protocol has been submitted in respect of the related European Union marketing authorisation or UKMA(NI) for the same product, is £734;
 > - (b) where sub-paragraph (a) does not apply and—
@@ -88,7 +88,7 @@ After regulation 19, insert—
 >   is £8,309; and
 > - (c) in any other case, is £734.
 >
-> (3)[^key-2716bfef33b37cfa15410ae572b26ac9] The fee payable by the holder of a marketing authorisation upon submission of the final study report for a post-authorisation safety study in accordance with regulation 201(2) of the Human Medicines Regulations—
+> (3)[^c-2716bfef33b37cfa15410ae572b26ac9] The fee payable by the holder of a marketing authorisation upon submission of the final study report for a post-authorisation safety study in accordance with regulation 201(2) of the Human Medicines Regulations—
 >
 > - (a) where the authorisation for the medicinal product concerned is a UKMA(GB) granted under the unfettered access route or a UKMA(GB) granted where the medicinal product concerned has already been granted a European Union marketing authorisation under Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/0726) (an automatic recognition application), and provided a corresponding final study report has been submitted in respect of the related European Union marketing authorisation or UKMA(NI) for the same product, is £734;
 > - (b) where sub-paragraph (a) does not apply and—
@@ -100,7 +100,7 @@ After regulation 19, insert—
 >
 > **19D. Fee for carrying out a major safety review**
 >
-> (1) Where the licensing authority conducts a major safety review of a United Kingdom[^key-1ac432924efd0b63b6ddcdd0c38f772d] marketing authorisation or traditional herbal registration, or a set of such[^key-5c246ad423fccdd087198076d5bdfc2e] marketing authorisations or traditional herbal registrations, under regulation 196 of the Human Medicines Regulations, a fee is payable in accordance with Part 6A of Schedule 2.
+> (1) Where the licensing authority conducts a major safety review of a United Kingdom[^c-1ac432924efd0b63b6ddcdd0c38f772d] marketing authorisation or traditional herbal registration, or a set of such[^c-5c246ad423fccdd087198076d5bdfc2e] marketing authorisations or traditional herbal registrations, under regulation 196 of the Human Medicines Regulations, a fee is payable in accordance with Part 6A of Schedule 2.
 >
 > (2) Unless paragraph (3) applies, the fee referred to in paragraph (1) is payable by the holder of the marketing authorisation or registration to which the review relates.
 >
@@ -132,11 +132,11 @@ After regulation 19, insert—
 
 .
 
-### 3. Amendment of regulation 23 (applications for multiple variations)[^key-90dcb442961ddf4e6d26c30223d6ce1b]
+### 3. Amendment of regulation 23 (applications for multiple variations)[^c-90dcb442961ddf4e6d26c30223d6ce1b]
 
 (1) Regulation 23 is amended as follows.
 
-(2)[^key-91d6fe281bfa5cd70f72dbfdffc8d816] For paragraph (3)(b)(i) substitute—
+(2)[^c-91d6fe281bfa5cd70f72dbfdffc8d816] For paragraph (3)(b)(i) substitute—
 
 > - (i) have agreed—
 >   - (aa) in the case of a UKMA(NI) or UKMA(UK), in consultation with member States concerned and in accordance with Article 7(2)(c) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234), should be subject to the procedure for grouping of variations within the meaning of that Article;
@@ -240,13 +240,13 @@ After regulation 19, insert—
   ;
 - (h) in the definition of “work sharing”, after “means” insert “, in the case of a UKMA(NI) or UKMA(UK),”.
 
-### 4. Insertion of regulation 27A (fee for renewals of a marketing authorisation)[^key-d97da7391e324657e70329441981eedb]
+### 4. Insertion of regulation 27A (fee for renewals of a marketing authorisation)[^c-d97da7391e324657e70329441981eedb]
 
 After regulation 27, insert—
 
 > **27A. Fee for renewals of a marketing authorisation**
 >
-> Where an application is made to the licensing authority for the renewal of a marketing authorisation in the case of a product for sale or supply in Great Britain[^key-c97c0b20038dda7126a96f632a0f2a19] and the application for renewal—
+> Where an application is made to the licensing authority for the renewal of a marketing authorisation in the case of a product for sale or supply in Great Britain[^c-c97c0b20038dda7126a96f632a0f2a19] and the application for renewal—
 >
 > - (a) relates to a medicinal product which, at the time the marketing authorisation was granted, contained a new active ingredient; and
 > - (b) is the first renewal in relation to that product,
@@ -255,16 +255,16 @@ After regulation 27, insert—
 
 .
 
-### 5. Omission of Part 8 (Capital Fees for Regulatory Assistance Given by the United Kingdom Acting as Reference Member State Relating to the Assessment of Applications for the Renewal of Specified Marketing Authorisations)[^key-227ec5160e7fc62651fc050720150df8]
+### 5. Omission of Part 8 (Capital Fees for Regulatory Assistance Given by the United Kingdom Acting as Reference Member State Relating to the Assessment of Applications for the Renewal of Specified Marketing Authorisations)[^c-227ec5160e7fc62651fc050720150df8]
 
 Omit Part 8.
 
-### 6. Amendment of Schedule 1 (general interpretation provisions)[^key-1210d621a9d4941865ca523cdd192693]
+### 6. Amendment of Schedule 1 (general interpretation provisions)[^c-1210d621a9d4941865ca523cdd192693]
 
 In Schedule 1—
 
 - (a) in paragraph 1—
-  - (ai)[^key-8e3d198892599ad17b101ed596c85074] in the definition of “marketing authorisation”, in paragraph (a) after “Human Medicines Regulations” insert “(and a reference to a UKMA(GB), UKMA(NI) or UKMA(UK) should be construed in accordance with those Regulations)”;
+  - (ai)[^c-8e3d198892599ad17b101ed596c85074] in the definition of “marketing authorisation”, in paragraph (a) after “Human Medicines Regulations” insert “(and a reference to a UKMA(GB), UKMA(NI) or UKMA(UK) should be construed in accordance with those Regulations)”;
   - (i) in the definition of “medicinal product”, for “includes any medicinal product for human use to which the 2001 Directive applies and” substitute “ has the meaning given by regulation 2 of the Human Medicines Regulations and includes ”,
   - (ii) for the definition of “orphan medicinal product” substitute—
 
@@ -288,7 +288,7 @@ In Schedule 1—
 
     > “**the EMA**” means the European Medicines Agency established by Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/726);
 
-    > “under the unfettered access route” has the meaning given by regulation 8(1) of the Human Medicines Regulations;[^key-51596c424598a455c7e3676b4399331c]
+    > “under the unfettered access route” has the meaning given by regulation 8(1) of the Human Medicines Regulations;[^c-51596c424598a455c7e3676b4399331c]
 
     ; and
 - (b) after paragraph 4 insert—
@@ -304,11 +304,11 @@ In Schedule 1—
 
   .
 
-### 7. Amendment of Schedule 2 (capital fees for applications for, and variations to, marketing authorisations, licences, registrations and certificates)[^key-7883beb5ff056aeee6300cf1e7986e8d]
+### 7. Amendment of Schedule 2 (capital fees for applications for, and variations to, marketing authorisations, licences, registrations and certificates)[^c-7883beb5ff056aeee6300cf1e7986e8d]
 
 (1) Schedule 2 is amended as follows.
 
-(2)[^key-273ff2c171e5313c86fbac94a425102d] For paragraph 4(a) substitute—
+(2)[^c-273ff2c171e5313c86fbac94a425102d] For paragraph 4(a) substitute—
 
 > - (a) for an extension of a marketing authorisation—
 >   - (i) in the case of a UKMA(NI) or UKMA(UK), within the meaning of Article 2(4) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234); or
@@ -319,27 +319,27 @@ In Schedule 1—
 (3) In paragraph 22—
 
 - (a) in sub-paragraph (1), for “Article 2(5) of Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute
-  - (a)[^key-2f1f9c7e874a9bc4041c552a9ef0576f] in the case of a UKMA(NI) or UKMA(UK), Article 2(5) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234);
+  - (a)[^c-2f1f9c7e874a9bc4041c552a9ef0576f] in the case of a UKMA(NI) or UKMA(UK), Article 2(5) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234);
   - (b) in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations;
 - (b) in sub-paragraph (2)(f), for “Article 2(4) of Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute
-  - (i)[^key-71ddd39244580baf93bfe316c520c846] in the case of a UKMA(NI) or UKMA(UK), Article 2(4) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234);
+  - (i)[^c-71ddd39244580baf93bfe316c520c846] in the case of a UKMA(NI) or UKMA(UK), Article 2(4) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234);
   - (ii) in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations
 
 ; and
 
 - (c) in sub-paragraph (3), for “Article 2(2) of Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute
-  - (a)[^key-800d83c6e05a33dfbd7001351fa69c9c] in the case of a UKMA(NI) or UKMA(UK), Article 2(2) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234);
+  - (a)[^c-800d83c6e05a33dfbd7001351fa69c9c] in the case of a UKMA(NI) or UKMA(UK), Article 2(2) of [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234);
   - (b) in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations
 
 (4) In paragraph 23—
 
-- (a) in sub-paragraph (a), for “paragraph 1 (changes to active substances) or paragraph 2 (changes to strength, pharmaceutical form and route of administration) of Annex I to Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) applies” substitute in the case of a UKMA(NI) or UKMA(UK), paragraph 1 (changes to active substances) or paragraph 2 (changes to strength, pharmaceutical form and route of administration) of Annex I to Commission Regulation (EC) No 1234/2008 applies or, in the case of a UKMA(GB), sub-paragraph (a) (changes to active substances) or sub-paragraph (b) (changes to strength, pharmaceutical form and route of administration) of the definition of “extension of a UK marketing authorisation” in paragraph 1 of Schedule 10A to the Human Medicines Regulations applies[^key-00149a9c17ef6f381ca64f7abf225559];
-- (b) in sub-paragraph (b), for “Article 2(3) of Commission Regulation Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute in the case of a UKMA(NI) or UKMA(UK), Article 2(3) of[^key-c5e55a429dc6f27a6c8a1f770acfc17d] [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) or, in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations; and
-- (c) in sub-paragraph (c), for “Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute in the case of a UKMA(NI) or UKMA(UK),[^key-020b4aaf8ed392cf138da8251c979666] [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) or, in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations.
+- (a) in sub-paragraph (a), for “paragraph 1 (changes to active substances) or paragraph 2 (changes to strength, pharmaceutical form and route of administration) of Annex I to Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) applies” substitute in the case of a UKMA(NI) or UKMA(UK), paragraph 1 (changes to active substances) or paragraph 2 (changes to strength, pharmaceutical form and route of administration) of Annex I to Commission Regulation (EC) No 1234/2008 applies or, in the case of a UKMA(GB), sub-paragraph (a) (changes to active substances) or sub-paragraph (b) (changes to strength, pharmaceutical form and route of administration) of the definition of “extension of a UK marketing authorisation” in paragraph 1 of Schedule 10A to the Human Medicines Regulations applies[^c-00149a9c17ef6f381ca64f7abf225559];
+- (b) in sub-paragraph (b), for “Article 2(3) of Commission Regulation Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute in the case of a UKMA(NI) or UKMA(UK), Article 2(3) of[^c-c5e55a429dc6f27a6c8a1f770acfc17d] [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) or, in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations; and
+- (c) in sub-paragraph (c), for “Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” substitute in the case of a UKMA(NI) or UKMA(UK),[^c-020b4aaf8ed392cf138da8251c979666] [Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) or, in the case of a UKMA(GB), paragraph 1 of Schedule 10A to the Human Medicines Regulations.
 
 (5) For the table in paragraph 24, substitute—
 
-> Fees for marketing authorisation applications[^key-fa073468b379e4bbdfbcbb0a896483be]
+> Fees for marketing authorisation applications[^c-fa073468b379e4bbdfbcbb0a896483be]
 >
 > <table>
 > <thead>
@@ -390,9 +390,9 @@ In Schedule 1—
 
 (6) After paragraph 24, insert—
 
-> **24A. Fees where an application for a European Union marketing authorisation had been made before IP completion day[^key-93c354dd52255f283b602e0b6f7f9b3d]**
+> **24A. Fees where an application for a European Union marketing authorisation had been made before IP completion day[^c-93c354dd52255f283b602e0b6f7f9b3d]**
 >
-> (1) This paragraph applies where, before IP completion day[^key-8258018e2b061a55736698cb356c9c01] —
+> (1) This paragraph applies where, before IP completion day[^c-8258018e2b061a55736698cb356c9c01] —
 >
 > - (a) an application has been made to the EMA for a European Union marketing authorisation;
 > - (b) day 120 has passed; and
@@ -456,7 +456,7 @@ In Schedule 1—
 
   .
 
-(8A)[^key-0e30c9083c62481989eb91254ec32bc9] After paragraph 28 (application for multiple authorisations) insert—
+(8A)[^c-0e30c9083c62481989eb91254ec32bc9] After paragraph 28 (application for multiple authorisations) insert—
 
 > **28A. Application by pre-assessment of modules**
 >
@@ -478,7 +478,7 @@ In Schedule 1—
 
 .
 
-(9)[^key-968931078a2e45cc8777fa01275c3891] In paragraph 38—
+(9)[^c-968931078a2e45cc8777fa01275c3891] In paragraph 38—
 
 - (a) in sub-paragraph (4)(b), after “Commission Regulation [(EC) 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)” insert “and of marketing authorisations in force in Great Britain”;
 - (b) after sub-paragraph (6)—
@@ -538,9 +538,9 @@ In Schedule 1—
 
 (12) After paragraph 40, insert—
 
-> **40A. Fees where an application for a variation or an extension of a European Union marketing authorisation had been made before IP completion day[^key-4dd94647d9bd2489ad03b71cd8a68f75]**
+> **40A. Fees where an application for a variation or an extension of a European Union marketing authorisation had been made before IP completion day[^c-4dd94647d9bd2489ad03b71cd8a68f75]**
 >
-> (1) Paragraph (2) applies where, before IP completion day[^key-d205414feb4cb45b24a022bfb9a2458f] —
+> (1) Paragraph (2) applies where, before IP completion day[^c-d205414feb4cb45b24a022bfb9a2458f] —
 >
 > - (a) an application for a variation to which paragraph 11(7) of Schedule 33A to the Human Medicines Regulations applies, has been made to the EMA; and
 > - (b) the Committee for Medicinal Products for Human Use has adopted a request for supplementary information to be sent to the applicant, or, in the case of an extension, day 120 has passed.
@@ -559,7 +559,7 @@ In Schedule 1—
 
 > **PART 6 — Capital Fee for the Renewal of a Marketing Authorisation**
 >
-> **56. Renewal of a marketing authorisation[^key-c0420a24f153312a7fc969486510b6b2]**
+> **56. Renewal of a marketing authorisation[^c-c0420a24f153312a7fc969486510b6b2]**
 >
 > Unless paragraph 57 applies, the fee payable under regulation 27A in connection with an application for the renewal of a United Kingdom marketing authorisation is—
 >
@@ -571,7 +571,7 @@ In Schedule 1—
 >
 > (1) This sub-paragraph applies if more than one application falling within regulation 27A is made by the same applicant at the same time, each of which relates to medicinal products which have the same active ingredient or combination of ingredients, dosage form and therapeutic indications, and the marketing authorisations for those products have the same date for renewal.
 >
-> (2)[^key-f3cb389ce632a3a8ac8b27a6835c317e] The fee payable under regulation 27A for applications to which sub-paragraph (1) applies is—
+> (2)[^c-f3cb389ce632a3a8ac8b27a6835c317e] The fee payable under regulation 27A for applications to which sub-paragraph (1) applies is—
 >
 > - (a) in respect of applications for renewal of more than one UKMA(GB) granted under the unfettered access route or UKMA(GB) where the medicinal product concerned has already been granted a European Union marketing authorisation under Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/0726) (an automatic recognition application), and provided a corresponding renewal application has been made to the related European Union marketing authorisation or UKMA(NI) for the same product—
 >   - (i) £747 for the first application considered by the licensing authority; and
@@ -635,15 +635,15 @@ In Schedule 1—
 > - “**Multi-component product**” means a product containing two or more analytes that require testing; and
 > - “**Single component product**” means a product containing a single analyte that requires testing.
 
-### 8. Amendment of Schedule 4 (periodic fees for licences)[^key-916f585221ed683dde92f0bddef5f637]
+### 8. Amendment of Schedule 4 (periodic fees for licences)[^c-916f585221ed683dde92f0bddef5f637]
 
 In Schedule 4, in paragraph 1, in the definition of “limited use drug” for “which is in respect of an orphan medicinal product” substitute “ in respect of which an orphan marketing authorisation has been granted ”.
 
-### 8A. Amendment of Schedule 6 (time for payment of capital fees: small companies)[^M_I_1fa70f84-dd80-45a7-e5d9-55a42c0b2729][^key-49270e018551692401755129584a7139]
+### 8A. Amendment of Schedule 6 (time for payment of capital fees: small companies)[^M_I_1fa70f84-dd80-45a7-e5d9-55a42c0b2729][^c-49270e018551692401755129584a7139]
 
 In Schedule 6, in paragraph 2, for “entry 1(f)” substitute “entry 1(h)”.
 
-### 9. Amendment of Schedule 7 (waiver, reduction or refund of capital fees)[^key-5026188a46f2e9584c0b0334fdf563fa]
+### 9. Amendment of Schedule 7 (waiver, reduction or refund of capital fees)[^c-5026188a46f2e9584c0b0334fdf563fa]
 
 In Schedule 7, after paragraph 7, insert—
 
@@ -657,7 +657,7 @@ In Schedule 7, after paragraph 7, insert—
 
 .
 
-### 10. Amendment of Schedule 8 (Adjustment, reduction or refund of periodic fees)[^key-5a5edfd4dff73044f16c4e2625b45909]
+### 10. Amendment of Schedule 8 (Adjustment, reduction or refund of periodic fees)[^c-5a5edfd4dff73044f16c4e2625b45909]
 
 (1) Schedule 8 is amended as follows.
 
@@ -671,7 +671,7 @@ In Schedule 7, after paragraph 7, insert—
 >
 > (2) In this paragraph, “**converted EU marketing authorisation**” has the meaning given in paragraph 6(1) and (2) of Schedule 33A to the 2012 Regulations.
 
-### 11. Savings[^key-1f79cf7a90e5e42a9459abe88f6bad0f]
+### 11. Savings[^c-1f79cf7a90e5e42a9459abe88f6bad0f]
 
 (1) The provisions of the Medicines (Products for Human Use) (Fees) Regulations 2016 (“**the 2016 Regulations**”) omitted, substituted or amended by this Schedule shall continue to apply as if they had not been omitted, substituted or amended in relation to—
 
@@ -684,84 +684,84 @@ In Schedule 7, after paragraph 7, insert—
 
 [^M_I_a1ed52ca-3348-4d49-fe78-292eaba79d6f]: Commencement: Sch. 1 para. 1ZA in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-692f54308821f5ee98916b7350f53905]: Textual amendment: Sch. 1 para. 1ZA inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/a)
+[^c-692f54308821f5ee98916b7350f53905]: Textual amendment: Sch. 1 para. 1ZA inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/a)
 
-[^key-feffc30c14637dda5d28215a403e54c6]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-feffc30c14637dda5d28215a403e54c6]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dfc9f43400b121b95ef394584218074c]: Textual amendment: Sch. 1 para. 1(aa) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/b)
+[^c-dfc9f43400b121b95ef394584218074c]: Textual amendment: Sch. 1 para. 1(aa) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/b)
 
-[^key-ed090aa8240f7ce9b0a44052c1d0aacf]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ed090aa8240f7ce9b0a44052c1d0aacf]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-28d345b9aef06551dec1a6846b92e491]: Textual amendment: Words in Sch. 1 para. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/i/aa)
+[^c-28d345b9aef06551dec1a6846b92e491]: Textual amendment: Words in Sch. 1 para. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/i/aa)
 
-[^key-2716bfef33b37cfa15410ae572b26ac9]: Textual amendment: Words in Sch. 1 para. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/i/bb)
+[^c-2716bfef33b37cfa15410ae572b26ac9]: Textual amendment: Words in Sch. 1 para. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/i/bb)
 
-[^key-1ac432924efd0b63b6ddcdd0c38f772d]: Textual amendment: Words in Sch. 1 para. 2 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/ii/aa)
+[^c-1ac432924efd0b63b6ddcdd0c38f772d]: Textual amendment: Words in Sch. 1 para. 2 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/ii/aa)
 
-[^key-5c246ad423fccdd087198076d5bdfc2e]: Textual amendment: Word in Sch. 1 para. 2 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/ii/bb)
+[^c-5c246ad423fccdd087198076d5bdfc2e]: Textual amendment: Word in Sch. 1 para. 2 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/c/ii/bb)
 
-[^key-90dcb442961ddf4e6d26c30223d6ce1b]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-90dcb442961ddf4e6d26c30223d6ce1b]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-91d6fe281bfa5cd70f72dbfdffc8d816]: Textual amendment: Sch. 1 para. 3(2)-(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/d)
+[^c-91d6fe281bfa5cd70f72dbfdffc8d816]: Textual amendment: Sch. 1 para. 3(2)-(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/d)
 
-[^key-d97da7391e324657e70329441981eedb]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d97da7391e324657e70329441981eedb]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c97c0b20038dda7126a96f632a0f2a19]: Textual amendment: Words in Sch. 1 para. 4 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/e)
+[^c-c97c0b20038dda7126a96f632a0f2a19]: Textual amendment: Words in Sch. 1 para. 4 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/e)
 
-[^key-227ec5160e7fc62651fc050720150df8]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-227ec5160e7fc62651fc050720150df8]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1210d621a9d4941865ca523cdd192693]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1210d621a9d4941865ca523cdd192693]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8e3d198892599ad17b101ed596c85074]: Textual amendment: Sch. 1 para. 6(ai) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(f)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/f/i)
+[^c-8e3d198892599ad17b101ed596c85074]: Textual amendment: Sch. 1 para. 6(ai) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(f)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/f/i)
 
-[^key-51596c424598a455c7e3676b4399331c]: Textual amendment: Words in Sch. 1 para. 6(a)(iv) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/f/ii)
+[^c-51596c424598a455c7e3676b4399331c]: Textual amendment: Words in Sch. 1 para. 6(a)(iv) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/f/ii)
 
 [^c23885471]: Marginal citation: Section 465 was amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980)
 
-[^key-7883beb5ff056aeee6300cf1e7986e8d]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7883beb5ff056aeee6300cf1e7986e8d]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-273ff2c171e5313c86fbac94a425102d]: Textual amendment: Sch. 1 para. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/i)
+[^c-273ff2c171e5313c86fbac94a425102d]: Textual amendment: Sch. 1 para. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/i)
 
-[^key-2f1f9c7e874a9bc4041c552a9ef0576f]: Textual amendment: Words in Sch. 1 para. 7(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ii/aa)
+[^c-2f1f9c7e874a9bc4041c552a9ef0576f]: Textual amendment: Words in Sch. 1 para. 7(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ii/aa)
 
-[^key-71ddd39244580baf93bfe316c520c846]: Textual amendment: Words in Sch. 1 para. 7(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ii/bb)
+[^c-71ddd39244580baf93bfe316c520c846]: Textual amendment: Words in Sch. 1 para. 7(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ii/bb)
 
-[^key-800d83c6e05a33dfbd7001351fa69c9c]: Textual amendment: Words in Sch. 1 para. 7(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ii/cc)
+[^c-800d83c6e05a33dfbd7001351fa69c9c]: Textual amendment: Words in Sch. 1 para. 7(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ii/cc)
 
-[^key-00149a9c17ef6f381ca64f7abf225559]: Textual amendment: Words in Sch. 1 para. 7(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iii/aa)
+[^c-00149a9c17ef6f381ca64f7abf225559]: Textual amendment: Words in Sch. 1 para. 7(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iii/aa)
 
-[^key-c5e55a429dc6f27a6c8a1f770acfc17d]: Textual amendment: Words in Sch. 1 para. 7(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iii/bb)
+[^c-c5e55a429dc6f27a6c8a1f770acfc17d]: Textual amendment: Words in Sch. 1 para. 7(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iii/bb)
 
-[^key-020b4aaf8ed392cf138da8251c979666]: Textual amendment: Words in Sch. 1 para. 7(4)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iii)(cc)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iii/cc)
+[^c-020b4aaf8ed392cf138da8251c979666]: Textual amendment: Words in Sch. 1 para. 7(4)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iii)(cc)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iii/cc)
 
-[^key-fa073468b379e4bbdfbcbb0a896483be]: Textual amendment: Sch. 1 para. 7(5) Table substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iv)
+[^c-fa073468b379e4bbdfbcbb0a896483be]: Textual amendment: Sch. 1 para. 7(5) Table substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/iv)
 
-[^key-93c354dd52255f283b602e0b6f7f9b3d]: Textual amendment: Words in Sch. 1 para. 7(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/v/aa)
+[^c-93c354dd52255f283b602e0b6f7f9b3d]: Textual amendment: Words in Sch. 1 para. 7(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/v/aa)
 
-[^key-8258018e2b061a55736698cb356c9c01]: Textual amendment: Words in Sch. 1 para. 7(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/v/bb)
+[^c-8258018e2b061a55736698cb356c9c01]: Textual amendment: Words in Sch. 1 para. 7(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/v/bb)
 
-[^key-0e30c9083c62481989eb91254ec32bc9]: Textual amendment: Sch. 1 para. 7(8A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(vi)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/vi)
+[^c-0e30c9083c62481989eb91254ec32bc9]: Textual amendment: Sch. 1 para. 7(8A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(vi)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/vi)
 
-[^key-968931078a2e45cc8777fa01275c3891]: Textual amendment: Sch. 1 para. 7(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(vii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/vii)
+[^c-968931078a2e45cc8777fa01275c3891]: Textual amendment: Sch. 1 para. 7(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(vii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/vii)
 
-[^key-4dd94647d9bd2489ad03b71cd8a68f75]: Textual amendment: Words in Sch. 1 para. 7(12) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(viii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/viii/aa)
+[^c-4dd94647d9bd2489ad03b71cd8a68f75]: Textual amendment: Words in Sch. 1 para. 7(12) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(viii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/viii/aa)
 
-[^key-d205414feb4cb45b24a022bfb9a2458f]: Textual amendment: Words in Sch. 1 para. 7(12) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(viii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/viii/bb)
+[^c-d205414feb4cb45b24a022bfb9a2458f]: Textual amendment: Words in Sch. 1 para. 7(12) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(viii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/viii/bb)
 
-[^key-c0420a24f153312a7fc969486510b6b2]: Textual amendment: Words in Sch. 1 para. 7(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ix)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ix/aa)
+[^c-c0420a24f153312a7fc969486510b6b2]: Textual amendment: Words in Sch. 1 para. 7(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ix)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ix/aa)
 
-[^key-f3cb389ce632a3a8ac8b27a6835c317e]: Textual amendment: Words in Sch. 1 para. 7(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ix)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ix/bb)
+[^c-f3cb389ce632a3a8ac8b27a6835c317e]: Textual amendment: Words in Sch. 1 para. 7(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(g)(ix)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/g/ix/bb)
 
 [^c23885481]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677)
 
-[^key-916f585221ed683dde92f0bddef5f637]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-916f585221ed683dde92f0bddef5f637]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^M_I_1fa70f84-dd80-45a7-e5d9-55a42c0b2729]: Commencement: Sch. 1 para. 8A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-49270e018551692401755129584a7139]: Textual amendment: Sch. 1 para. 8A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(h)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/h)
+[^c-49270e018551692401755129584a7139]: Textual amendment: Sch. 1 para. 8A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(h)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/h)
 
-[^key-5026188a46f2e9584c0b0334fdf563fa]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5026188a46f2e9584c0b0334fdf563fa]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5a5edfd4dff73044f16c4e2625b45909]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5a5edfd4dff73044f16c4e2625b45909]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1f79cf7a90e5e42a9459abe88f6bad0f]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1f79cf7a90e5e42a9459abe88f6bad0f]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

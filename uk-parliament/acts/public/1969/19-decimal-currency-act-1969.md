@@ -138,7 +138,7 @@ An Act to make further provision in connection with the introduction of a decima
 
 (4) Where at the time of his death a member of a registered friendly society is entitled from the funds thereof to a sum which exceeds five hundred pounds but would not exceed that amount if any such increase as is mentioned in subsection (1) of this section were disregarded, the power of distribution on death conferred on the society by subsection (1) of section 58 of the [^c841783]Friendly Societies Act 1896 shall apply to the whole of that sum, and for the purposes of subsection (2) of that section the whole of that sum shall be taken to be the sum which he might have nominated.
 
-(5)[^c841784] The general rule-making power under[^c841785] sections 137A and 137G[^key-73b4e2e963b11c0f308f2fb991202101] of the Financial Services and Markets Act 2000, as applied by section 8 of the Industrial Assurance and Friendly Societies Act 1948 as that section has effect by virtue of the Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001, includes power—
+(5)[^c841784] The general rule-making power under[^c841785] sections 137A and 137G[^c-73b4e2e963b11c0f308f2fb991202101] of the Financial Services and Markets Act 2000, as applied by section 8 of the Industrial Assurance and Friendly Societies Act 1948 as that section has effect by virtue of the Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001, includes power—
 
 - (a) to provide for the insertion in premium receipt books provided under that section of statements approved by him explaining the effect of any regulations made under the last foregoing section;
 - (b) to prescribe the information to be entered in such books for the purpose of explaining the effect of the adoption by a collecting society or industrial assurance company of a scheme prescribed or approved in pursuance of subsection (3) of the last foregoing section.
@@ -383,7 +383,7 @@ n1922 c. 51.
 
 ### The Betting, Gaming and Lotteries Act 1963[^c841833]
 
-**17.**[^key-701d923d44e7b648b8083a5331be00e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-701d923d44e7b648b8083a5331be00e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government (Financial Provisions) (Scotland) Act 1963[^c841835]
 
@@ -407,13 +407,13 @@ n1922 c. 51.
 
 ### The Trading Stamps Act 1964[^c841841]
 
-**22.**[^c841842] In section 3(3) of the Trading Stamps Act 1964, for the word “penny”, on both places where it occurs, there shall be substituted the words “new penny”. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b4a846a0ee002b0e99a17a1c0d1eefda]
+**22.**[^c841842] In section 3(3) of the Trading Stamps Act 1964, for the word “penny”, on both places where it occurs, there shall be substituted the words “new penny”. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b4a846a0ee002b0e99a17a1c0d1eefda]
 
 **23.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c841843]
 
 ### The Trading Stamps (Northern Ireland) Act 1964[^c841844]
 
-**24.**[^key-a06db2062ddeb6be365b0d91df3afe7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a06db2062ddeb6be365b0d91df3afe7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Rating Act 1966[^c841846]
 
@@ -540,7 +540,7 @@ Section 17.
 
 [^c841785]: Textual amendment: Words in s. 7(5) substituted (1.12.2001) by [S.I. 2001/3647](https://www.legislation.gov.uk/uksi/2001/3647), [art. 5](https://www.legislation.gov.uk/uksi/2001/3647/article/5), [Sch. 3 para. 10(4)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/10/4)
 
-[^key-73b4e2e963b11c0f308f2fb991202101]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1969/19/section/7/5) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 33](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/33) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-73b4e2e963b11c0f308f2fb991202101]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1969/19/section/7/5) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 33](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/33) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c841786]: Marginal citation: [1948 c. 39](https://www.legislation.gov.uk/ukpga/1948/39).
 
@@ -634,7 +634,7 @@ Section 17.
 
 [^c841833]: Marginal citation: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
 
-[^key-701d923d44e7b648b8083a5331be00e2]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/17) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12,](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-701d923d44e7b648b8083a5331be00e2]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/17) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12,](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
 [^c841835]: Marginal citation: [1963 c. 12](https://www.legislation.gov.uk/ukpga/1963/12).
 
@@ -652,13 +652,13 @@ Section 17.
 
 [^c841842]: Modification: The text of s. 17(1)(2), Sch. 2 paras. 1, 3, 4, 11, 13–15, 17–19, 22, 24–28, 29, 31, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not, except as specified, reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-b4a846a0ee002b0e99a17a1c0d1eefda]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/22) repealed (E.W.S.) (6.4.2005) by [Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 1](https://www.legislation.gov.uk/uksi/2005/871/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/871/schedule)
+[^c-b4a846a0ee002b0e99a17a1c0d1eefda]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/22) repealed (E.W.S.) (6.4.2005) by [Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 1](https://www.legislation.gov.uk/uksi/2005/871/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/871/schedule)
 
 [^c841843]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/23) repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
 [^c841844]: Marginal citation: [1965 c. 6](https://www.legislation.gov.uk/ukpga/1965/6) (N.I.
 
-[^key-a06db2062ddeb6be365b0d91df3afe7e]: Textual amendment: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/24) repealed (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1452/schedule/2); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/d)
+[^c-a06db2062ddeb6be365b0d91df3afe7e]: Textual amendment: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/1969/19/schedule/2/paragraph/24) repealed (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1452/schedule/2); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/d)
 
 [^c841846]: Marginal citation: [1966 c. 9](https://www.legislation.gov.uk/ukpga/1966/9).
 

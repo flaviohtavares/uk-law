@@ -45,17 +45,17 @@ The Secretary of State has before making these Regulations—
 
 In accordance with section 40(5) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-Accordingly, the Secretary of State, in exercise of the powers conferred by sections 27, 28, 30 to 33, 36 and 40(1) of the Energy Act 2013, makes the following Regulations:[^key-b17afb72174e7178e74a092b0403ff67]
+Accordingly, the Secretary of State, in exercise of the powers conferred by sections 27, 28, 30 to 33, 36 and 40(1) of the Energy Act 2013, makes the following Regulations:[^c-b17afb72174e7178e74a092b0403ff67]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-e1e34edc8add402931566e6f0b4ad1c9]
+### 1. Citation and commencement[^c-e1e34edc8add402931566e6f0b4ad1c9]
 
 (1) These Regulations may be cited as the Electricity Capacity (Supplier Payment etc.) Regulations 2014.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-bbf1c60fe89a672a5464bc16fcc90d40]
+### 2. Interpretation[^c-bbf1c60fe89a672a5464bc16fcc90d40]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “the Principal Regulations” means the Electricity Capacity Regulations 2014[^f00003];
 - “capacity market stage 2 credit default” has the meaning given by paragraph (2);
 - “capacity market supplier charge” means the charge payable by electricity suppliers to the Settlement Body under regulation 6(1);
-- “[^key-e15ba585a8522cb5846376f25b20aa5c]**CM EII excluded electricity**” means any amount of electricity determined as such in accordance with regulation 3 of the CM Excluded Electricity Regulations;
+- “[^c-e15ba585a8522cb5846376f25b20aa5c]**CM EII excluded electricity**” means any amount of electricity determined as such in accordance with regulation 3 of the CM Excluded Electricity Regulations;
 - “**CM Excluded Electricity Regulations**” means the Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024;
 - “credit cover” has the meaning given in regulation 53(3) of the Principal Regulations;
 - “credit default register” means the register maintained by the Settlement Body under regulation 30;
@@ -74,12 +74,12 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
   - (a) a person supplying electricity to premises in Great Britain under a supply licence; or
   - (b) a person who has supplied electricity to premises in Great Britain under a supply licence and who, by virtue of regulation 16, is liable to make or entitled to receive a payment following the termination of that supply licence;
 - “financial year” means a period of one year commencing with 1st April;
-- [^key-99e22d4aad5071d7a9413f9b149d54c5]...
+- [^c-99e22d4aad5071d7a9413f9b149d54c5]...
 - “invoiced amount” means the total amount payable by a payer as stated in an invoice issued to that payer under regulation 6, 9, 20 or 21;
-- “late payment interest”[^key-0334676b7a84a556520d30a8a1eb5b32]... has the meaning given in regulation 11(3);
+- “late payment interest”[^c-0334676b7a84a556520d30a8a1eb5b32]... has the meaning given in regulation 11(3);
 - “monthly capacity market supplier charge” means the charge payable by electricity suppliers to the Settlement Body under regulation 6(3) or (4);
 - “mutualisation credit” has the meaning given in regulation 7(6);
-- [^key-bc21d6a8abfb9644101ccde78cab0155]...
+- [^c-bc21d6a8abfb9644101ccde78cab0155]...
 - “payer” means an electricity supplier to whom an invoice is issued under regulation 6, 9, 20 or 21;
 - “payment due date”, in relation to an invoiced amount, means the day specified in the invoice in accordance with regulation 5(2) as the day by which it is to be paid;
 - “penalty residual supplier amount” has the meaning given in regulation 8(1);
@@ -97,29 +97,29 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (2) For the purposes of these Regulations an electricity supplier is in capacity market stage 2 credit default, in relation to a month of a delivery year, if an entry in respect of that electricity supplier and that month has been made on the credit default register under regulation 29(2).
 
-(3)[^key-0da6926adee8abc3cf9463e56f1f5bd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0da6926adee8abc3cf9463e56f1f5bd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0da6926adee8abc3cf9463e56f1f5bd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0da6926adee8abc3cf9463e56f1f5bd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In these Regulations, the following expressions have the meanings given in regulation 2(1) of the Principal Regulations—
 
-- [^key-fc3b66739472ebe3d4f9ba856b0d3a67]...
+- [^c-fc3b66739472ebe3d4f9ba856b0d3a67]...
 - “capacity agreement”;
 - “capacity committed CMU”;
 - “capacity payment”;
 - “capacity provider penalty charge”;
 - “capacity year”;
 - “delivery year”;
-- [^key-fc3b66739472ebe3d4f9ba856b0d3a67]...
+- [^c-fc3b66739472ebe3d4f9ba856b0d3a67]...
 - “MWh”;
 - “Settlement Body”;
 - “working day”.
 
 (6) Any reference in these Regulations to an amount to be paid or provided is a reference to an amount in pounds sterling and rounded to the nearest whole penny with any half of a penny being rounded upwards.
 
-(7) For the purposes of these Regulations, an invoice, credit note or other document is issued or given when it is given or treated as given[^key-0db7f396db04728bcd88ac8c2435ca08] in accordance with the provisions of Schedule 2 to the Principal Regulations.
+(7) For the purposes of these Regulations, an invoice, credit note or other document is issued or given when it is given or treated as given[^c-0db7f396db04728bcd88ac8c2435ca08] in accordance with the provisions of Schedule 2 to the Principal Regulations.
 
-(8) Where anything is required or permitted by these Regulations to be done on or by a working day , unless specified otherwise[^key-461be75434e75cb9a42f0d9dd5d5b029]—
+(8) Where anything is required or permitted by these Regulations to be done on or by a working day , unless specified otherwise[^c-461be75434e75cb9a42f0d9dd5d5b029]—
 
 - (a) such thing must be done by 5.00 p.m. on that day; and
 - (b) if the thing is done—
@@ -130,7 +130,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 2 — General
 
-### 3. The supplier settlement calculations[^key-c76eda261a775dbdeea69e763eee67e2]
+### 3. The supplier settlement calculations[^c-c76eda261a775dbdeea69e763eee67e2]
 
 (1) The Settlement Body must make the calculations set out in Parts 3 and 5 and Schedule 1 (“the supplier settlement calculations”)—
 
@@ -139,19 +139,19 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (2) Where, by the time a supplier settlement calculation is to be made, the Settlement Body has not been provided with any required data which is necessary for that calculation, the calculation must be made using the best data available to the Settlement Body.
 
-(3) In this regulation, “required data” means data which is required to be provided to the Settlement Body under these Regulations, the Principal Regulations or capacity market rules or is provided to the Settlement Body pursuant to the relevant arrangements[^key-e82f825b065593518901baefc7c77da0].
+(3) In this regulation, “required data” means data which is required to be provided to the Settlement Body under these Regulations, the Principal Regulations or capacity market rules or is provided to the Settlement Body pursuant to the relevant arrangements[^c-e82f825b065593518901baefc7c77da0].
 
-### 4. Forecast of relevant demand and CM EII excluded electricity[^key-a239cb29c258f91c276ff6b9eba8a5a0][^key-a0da83d21670788a33090370dec90bb2]
+### 4. Forecast of relevant demand and CM EII excluded electricity[^c-a239cb29c258f91c276ff6b9eba8a5a0][^c-a0da83d21670788a33090370dec90bb2]
 
 (1) Paragraph (2) applies to a person (“S”) who, on the 1st June before the start of a capacity year (“year X”), is an electricity supplier.
 
 (2) S must, by no later than the 1st June before the start of year X—
 
-- (a) forecast its total relevant demand[^key-6159693e1e3c411d4b2f5b9b38ed0289] during periods of high demand in year X; [^key-0fb66b354128b983c445c81f308c2d32]...
-- (aa)[^key-3c31eec567c29b0368857afd6e738be3] forecast the amount of CM EII excluded electricity that it will supply through meters in respect of which an EII certificate is in force during periods of high demand in year X; and
-- (b) provide the forecasts[^key-774e01820b438fb241ace4116c027584] to the Settlement Body.
+- (a) forecast its total relevant demand[^c-6159693e1e3c411d4b2f5b9b38ed0289] during periods of high demand in year X; [^c-0fb66b354128b983c445c81f308c2d32]...
+- (aa)[^c-3c31eec567c29b0368857afd6e738be3] forecast the amount of CM EII excluded electricity that it will supply through meters in respect of which an EII certificate is in force during periods of high demand in year X; and
+- (b) provide the forecasts[^c-774e01820b438fb241ace4116c027584] to the Settlement Body.
 
-### 5. Invoices and credit notes etc: general[^key-a5bd9d925272bae08ef7a2c7ba643aa3]
+### 5. Invoices and credit notes etc: general[^c-a5bd9d925272bae08ef7a2c7ba643aa3]
 
 (1) An invoice or credit note issued by the Settlement Body must set out the determination of the amount which the recipient is liable to pay, or is entitled to receive, in such detail as will readily show the recipient how the determination has been made.
 
@@ -163,13 +163,13 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 3 — Calculations, determinations and invoicing
 
-### 6. Capacity market supplier charge[^key-87d774460a44acfbff75ed55423fd2a0]
+### 6. Capacity market supplier charge[^c-87d774460a44acfbff75ed55423fd2a0]
 
 (1) An electricity supplier (“S”) must pay a capacity market supplier charge to the Settlement Body in respect of a delivery year (“year X”), if S supplies electricity to premises in Great Britain in the period commencing with 1st November and ending with the last day of February in year X, or any part of that period.
 
 (2) The capacity market supplier charge is a charge to meet the cost of making capacity payments to capacity providers under the Principal Regulations, calculated in accordance with paragraphs 2 and 3 of Schedule 1.
 
-(3)[^key-d8c1c470ed6b1f96c62880ab53b803ca] Where, under regulation 4, S provided to the Settlement Body forecasts for year X of—
+(3)[^c-d8c1c470ed6b1f96c62880ab53b803ca] Where, under regulation 4, S provided to the Settlement Body forecasts for year X of—
 
 - (a) relevant demand (other than a forecast of zero relevant demand), and
 - (b) CM EII excluded electricity,
@@ -194,7 +194,7 @@ S must pay a monthly capacity market supplier charge to the Settlement Body in e
 
 (8) In paragraph (4), “actual supplier shares” means shares calculated under paragraph 3 of Schedule 1.
 
-### 7. Capacity market supplier charge: mutualisation[^key-3742000165b09c5cdce58df453099df8]
+### 7. Capacity market supplier charge: mutualisation[^c-3742000165b09c5cdce58df453099df8]
 
 (1) Paragraphs (2) to (4) apply in relation to a month of a delivery year (“month M”) in respect of which an electricity supplier is in capacity market stage 2 credit default (a “defaulting supplier”).
 
@@ -228,9 +228,9 @@ must make an additional payment (a “mutualisation payment”) to the Settlemen
 
 (7) The Settlement Body must calculate the amount of mutualisation credits to be credited to electricity suppliers under paragraph (6), and credit them with those amounts, as part of the next reconciliation run for month M or for the delivery year which includes month M.
 
-(8)[^key-f59dba0207a3bae2c66abb8b2cdd5d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f59dba0207a3bae2c66abb8b2cdd5d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Penalty residual supplier amount[^key-54af69b4f9ef8ca1a033473a58f41a26]
+### 8. Penalty residual supplier amount[^c-54af69b4f9ef8ca1a033473a58f41a26]
 
 (1) An electricity supplier (“S”) who has paid capacity market supplier charges in respect of a delivery year (“year X”) is, subject to paragraph (2), entitled to receive from the Settlement Body following the end of year X payment of a share of the capacity provider penalty charges collected from capacity providers under regulation 41 of the Principal Regulations in respect of year X (a “penalty residual supplier amount”).
 
@@ -239,7 +239,7 @@ must make an additional payment (a “mutualisation payment”) to the Settlemen
 - (a) no capacity provider penalty charges are collected from capacity providers; or
 - (b) the total amount of over-delivery payments paid to capacity providers under regulation 42 of the Principal Regulations equals the total amount of capacity provider penalty charges collected from capacity providers.
 
-(3) The Settlement Body must, by no later than the 28th[^key-cfb4f3f1c9f2f192759c3dd4641e6e75] working day after the end of each delivery year—
+(3) The Settlement Body must, by no later than the 28th[^c-cfb4f3f1c9f2f192759c3dd4641e6e75] working day after the end of each delivery year—
 
 - (a) determine the penalty residual supplier amount, if any, payable to each electricity supplier in respect of that delivery year; and
 - (b) issue to each electricity supplier—
@@ -250,13 +250,13 @@ must make an additional payment (a “mutualisation payment”) to the Settlemen
 
 (5) The amounts determined under paragraph (3)(a) are subject to reconciliation under Part 5.
 
-### 9. Settlement costs levy[^key-d3c276c75075eb0bcbda65d9f1fcc067]
+### 9. Settlement costs levy[^c-d3c276c75075eb0bcbda65d9f1fcc067]
 
 (1) An electricity supplier (“S”) must pay a settlement costs levy to the Settlement Body in respect of a relevant financial year (“year Y”), if S supplies electricity to premises in Great Britain in periods of high demand in year Y.
 
-(2) The total amount to be charged to all electricity suppliers in respect of the settlement costs levy for year Y is as follows—[^key-80a57e6da86835cfe3915042ea2a99c8]
+(2) The total amount to be charged to all electricity suppliers in respect of the settlement costs levy for year Y is as follows—[^c-80a57e6da86835cfe3915042ea2a99c8]
 
-- (a)[^key-59b0ce50fafbce66723222424253e0a2] £9,112,000 where year Y is the relevant financial year commencing in 2026;
+- (a)[^c-59b0ce50fafbce66723222424253e0a2] £9,112,000 where year Y is the relevant financial year commencing in 2026;
 - (b) £10,346,000 where year Y is the relevant financial year commencing in 2027;
 - (c) £11,474,000 where year Y is the relevant financial year commencing in 2028 or any subsequent financial year.
 
@@ -291,7 +291,7 @@ must make an additional payment (a “mutualisation payment”) to the Settlemen
 
 (9) A credit note under paragraph (6)(b) or (8)(b) must be issued as soon as reasonably practicable after the calculation or recalculation has been made under paragraph (5)(b) or (8)(a).
 
-### 10. Settlement costs levy refund[^key-adcfd87363ae51cdb4947f7a9fb5720c]
+### 10. Settlement costs levy refund[^c-adcfd87363ae51cdb4947f7a9fb5720c]
 
 (1) The Settlement Body must, after the end of each relevant financial year—
 
@@ -311,11 +311,11 @@ must make an additional payment (a “mutualisation payment”) to the Settlemen
 
 ## PART 4 — Payment of invoices and credit notes
 
-### 11. Payment of invoices and accruing interest[^key-4e6345aee7a77f3fb55002c7411c5f53]
+### 11. Payment of invoices and accruing interest[^c-4e6345aee7a77f3fb55002c7411c5f53]
 
-(1) A payer must pay an invoiced amount to the Settlement Body by no later than the end of[^key-a6b68709a00cd20b5de231000e4103cc] the payment due date.
+(1) A payer must pay an invoiced amount to the Settlement Body by no later than the end of[^c-a6b68709a00cd20b5de231000e4103cc] the payment due date.
 
-(2)[^key-c51d8ab77d0cccd07c03cf2ab475fb2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c51d8ab77d0cccd07c03cf2ab475fb2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a payer has not paid the invoiced amount to the Settlement Body in full as required by paragraph (1), the payer must pay the Settlement Body simple interest at the rate specified in paragraph (5) (“late payment interest”) on the outstanding balance of the invoiced amount from and including the payment due date until (but not including) the date of payment.
 
@@ -331,27 +331,27 @@ must make an additional payment (a “mutualisation payment”) to the Settlemen
 - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
 - (b) where an order under section 19 of the Bank of England Act 1998[^f00006] is in force, any equivalent rate determined by the Treasury under that section.
 
-### 12. Non-payment of invoices: draw down of credit cover[^key-d960eb8378897b701b2dbe3f19bf8713]
+### 12. Non-payment of invoices: draw down of credit cover[^c-d960eb8378897b701b2dbe3f19bf8713]
 
 (1) Paragraph (2) applies where an electricity supplier (“S”) is in default in respect of an invoiced monthly capacity market supplier charge.
 
 (2) Where this paragraph applies the Settlement Body must—
 
-- (a) give a notice (a “credit default notice”) to S which states that the Settlement Body intends to draw down on S’s supplier credit cover to pay the outstanding invoiced amount and the accruing interest which applies to that amount (“the debt plus interest”) if S does not pay the debt plus interest in full by no later than the end of[^key-5e14cedae65570b29d36fe7a90603aa4] the 9th working day of the month to which the invoice relates; and
+- (a) give a notice (a “credit default notice”) to S which states that the Settlement Body intends to draw down on S’s supplier credit cover to pay the outstanding invoiced amount and the accruing interest which applies to that amount (“the debt plus interest”) if S does not pay the debt plus interest in full by no later than the end of[^c-5e14cedae65570b29d36fe7a90603aa4] the 9th working day of the month to which the invoice relates; and
 - (b) give the credit default notice by no later than the 7th working day of the month to which the invoice relates.
 
 (3) Where S does not pay the debt plus interest in accordance with the credit default notice, the Settlement Body must draw down on S’s credit cover for the debt plus interest (or so much of it as is covered by the credit cover) by no later than the 11th working day of the month to which the invoice relates.
 
 (4) Where supplier credit cover is drawn down under this regulation, the Settlement Body must treat the amount drawn down as a payment, or part payment, of the debt plus interest.
 
-### 13. Payment of credit notes[^key-02c707ed57fdd1919dba5809a48aa855]
+### 13. Payment of credit notes[^c-02c707ed57fdd1919dba5809a48aa855]
 
 Subject to regulation 14, the Settlement Body must pay the amount due to—
 
-- (a) each electricity supplier issued with a credit note for a penalty residual supplier amount, by no later than the end of[^key-4ccf5de6fd1e37e8630e1a03109ed265] the 33rd[^key-69a93d9bcb50bf848d0ebfca108f4f67] working day after the end of the delivery year to which the payment relates; and
+- (a) each electricity supplier issued with a credit note for a penalty residual supplier amount, by no later than the end of[^c-4ccf5de6fd1e37e8630e1a03109ed265] the 33rd[^c-69a93d9bcb50bf848d0ebfca108f4f67] working day after the end of the delivery year to which the payment relates; and
 - (b) each electricity supplier issued with a credit note under regulation 9 (settlement costs levy) or regulation 10 (settlement costs levy refund), as soon as reasonably practicable after the credit note is issued.
 
-### 14. Withholding credit payments to suppliers[^key-2c8b2dac9f553f3aeadaa70ade3a0564]
+### 14. Withholding credit payments to suppliers[^c-2c8b2dac9f553f3aeadaa70ade3a0564]
 
 (1) This regulation applies where, at the time when a credit note is issued to an electricity supplier (“S”) under Part 3 or 5, S is in capacity market stage 2 credit default.
 
@@ -360,7 +360,7 @@ Subject to regulation 14, the Settlement Body must pay the amount due to—
 - (a) the credit is withheld; and
 - (b) the credit note states that the payment is to be withheld and states the reason why.
 
-### 15. Payment of withheld credit[^key-6deeb0e3c20685c710fac937b6b9ff42]
+### 15. Payment of withheld credit[^c-6deeb0e3c20685c710fac937b6b9ff42]
 
 (1) Paragraphs (2) and (3) apply where a credit is withheld from an electricity supplier (“S”) under regulation 14.
 
@@ -371,7 +371,7 @@ Subject to regulation 14, the Settlement Body must pay the amount due to—
 - (a) credit payments are made under these Regulations; and
 - (b) S is not in capacity market stage 2 credit default.
 
-### 16. Consequences of termination of licence[^key-d7b85417ca9d1d3f280ad7e8ffb04969]
+### 16. Consequences of termination of licence[^c-d7b85417ca9d1d3f280ad7e8ffb04969]
 
 (1) This regulation applies if the supply licence of an electricity supplier (“S”) is terminated.
 
@@ -397,7 +397,7 @@ Subject to regulation 14, the Settlement Body must pay the amount due to—
 
 ## PART 5 — Reconciliation
 
-### 17. General[^key-93858d6f5f354bcb1b3c15b45e46fc75]
+### 17. General[^c-93858d6f5f354bcb1b3c15b45e46fc75]
 
 In this Part—
 
@@ -407,9 +407,9 @@ In this Part—
 - “T” has the meaning given in regulation 18(5);
 - “T-n” means the nth working day before T, where “n” is a whole number.
 
-### 18. Reconciliation runs[^key-633101dbb600f3cd146205d9db933292]
+### 18. Reconciliation runs[^c-633101dbb600f3cd146205d9db933292]
 
-(1) The Settlement Body must, subject to paragraphs (1A),[^key-50c908e31a81c8deac9f4046b803b1ef] (6) and (7), carry out—
+(1) The Settlement Body must, subject to paragraphs (1A),[^c-50c908e31a81c8deac9f4046b803b1ef] (6) and (7), carry out—
 
 - (a) at least 3 monthly reconciliation runs (“scheduled monthly reconciliation runs”) in respect of each month of a delivery year (“month M”), which must be commenced no later than—
   - (i) 90 working days;
@@ -424,7 +424,7 @@ In this Part—
 
   after the last day of year X.
 
-(1A)[^key-317630c60167b429afadfad2d290abb9] The Authority may, where it considers that the periods specified in paragraph (1) should not be applied, direct the Settlement Body to carry out—
+(1A)[^c-317630c60167b429afadfad2d290abb9] The Authority may, where it considers that the periods specified in paragraph (1) should not be applied, direct the Settlement Body to carry out—
 
 - (a) scheduled monthly reconciliation runs to commence during each period which begins with the day after the last day of month M and ends with the day which is 7 working days, 30 working days and 84 working days after the last day of month M; and
 - (b) scheduled annual reconciliation runs to commence during each period which begins with the day after the last day of year X and ends with the day which is 7 working days, 30 working days and 84 working days after the last day of year X.
@@ -441,7 +441,7 @@ In this Part—
   - (ii) the scheduled annual reconciliation runs for year X; and
 - (b) publish the timetable.
 
-(3A)[^key-bb4f4fdde6cdcf5e9cc2d5848f0d4f98] If the Authority makes a direction under paragraph (1A) after the Settlement Body publishes a timetable under paragraph (3), the Settlement Body must, in accordance with that direction, reschedule the monthly reconciliation runs or annual reconciliation runs, and as soon as possible—
+(3A)[^c-bb4f4fdde6cdcf5e9cc2d5848f0d4f98] If the Authority makes a direction under paragraph (1A) after the Settlement Body publishes a timetable under paragraph (3), the Settlement Body must, in accordance with that direction, reschedule the monthly reconciliation runs or annual reconciliation runs, and as soon as possible—
 
 - (a) set a timetable for—
   - (i) the rescheduled monthly reconciliation runs for each remaining month of the delivery year containing month M; and
@@ -453,7 +453,7 @@ In this Part—
 - (a) set a timetable for the reconciliation run; and
 - (b) publish the timetable.
 
-(5) A timetable under paragraph (3) , (3A)[^key-14223622cc3815e079f7dedb6ae23ae0] or (4) must, in particular, specify in respect of each reconciliation run a date (“T”) by which reconciliation payments due from the Settlement Body to an electricity supplier are to be made.
+(5) A timetable under paragraph (3) , (3A)[^c-14223622cc3815e079f7dedb6ae23ae0] or (4) must, in particular, specify in respect of each reconciliation run a date (“T”) by which reconciliation payments due from the Settlement Body to an electricity supplier are to be made.
 
 (6) The Settlement Body is not required—
 
@@ -462,12 +462,12 @@ In this Part—
 
 (7) The Settlement Body is not required to carry out any monthly reconciliation runs in respect of month M after it has carried out the first annual reconciliation run in respect of the delivery year which includes month M.
 
-### 19. Recalculation of payments: general[^key-b0b564838da30ba0d81afbf936a11ab5]
+### 19. Recalculation of payments: general[^c-b0b564838da30ba0d81afbf936a11ab5]
 
 The redeterminations and recalculations required by regulations 20 and 21 must—
 
-- (a) make use of any revised or additional data provided to the Settlement Body under capacity market rules, in place of the data previously used or estimates made to make a calculation or determination; [^key-bdb733a3491f07793f6b10b581dac2df]...
-- (aa)[^key-0175cbd655e4431dadff79f25fdff456] make use of any revised or additional data provided to the Settlement Body pursuant to the relevant arrangements in respect of CM EII excluded electricity, in place of the data previously used or estimates made to make a calculation or determination;
+- (a) make use of any revised or additional data provided to the Settlement Body under capacity market rules, in place of the data previously used or estimates made to make a calculation or determination; [^c-bdb733a3491f07793f6b10b581dac2df]...
+- (aa)[^c-0175cbd655e4431dadff79f25fdff456] make use of any revised or additional data provided to the Settlement Body pursuant to the relevant arrangements in respect of CM EII excluded electricity, in place of the data previously used or estimates made to make a calculation or determination;
 - (b) take account of—
   - (i) any decision under Part 10 of the Principal Regulations (dispute resolution and appeals) which affects a calculation or determination previously made by the Settlement Body;
   - (ii) any entitlements to mutualisation credits which have arisen under regulation 7(6) and (7);
@@ -475,7 +475,7 @@ The redeterminations and recalculations required by regulations 20 and 21 must�
   - (iv) any payments made in previous reconciliation runs; and
   - (v) any adjustment to the total amount of capacity payments payable in respect of the delivery year, as a result of a capacity agreement being terminated, or capacity payments being reduced or forfeited, under the Principal Regulations or capacity market rules.
 
-### 20. Monthly reconciliation runs: recalculation of payments[^key-dd2bcd954c2b5941afb8893acc677bbe]
+### 20. Monthly reconciliation runs: recalculation of payments[^c-dd2bcd954c2b5941afb8893acc677bbe]
 
 (1) By no later than T-21 the Settlement Body must make a redetermination of the amount of the monthly capacity market supplier charge payable by each electricity supplier in respect of month M.
 
@@ -498,7 +498,7 @@ The redeterminations and recalculations required by regulations 20 and 21 must�
 
 (7) If S is entitled to a mutualisation credit under regulation 7(6) and (7), the Settlement Body must adjust the amount of the invoice or credit note to be issued under paragraph (6) by the amount of that credit.
 
-### 21. Annual reconciliation runs: recalculation of payments[^key-1ad9a03d186594c3fd401673801f59cc]
+### 21. Annual reconciliation runs: recalculation of payments[^c-1ad9a03d186594c3fd401673801f59cc]
 
 (1) By no later than T-21 the Settlement Body must make a redetermination in respect of year X of—
 
@@ -535,21 +535,21 @@ The redeterminations and recalculations required by regulations 20 and 21 must�
 
 (9) If S is entitled to a mutualisation credit under regulation 7(6) and (7), the Settlement Body must adjust the amount of the invoice or credit note to be issued under paragraph (7) by the amount of that credit.
 
-### 22. Reconciliation invoices and payment[^key-0749d53f7845a438c8d9980a6614d3be]
+### 22. Reconciliation invoices and payment[^c-0749d53f7845a438c8d9980a6614d3be]
 
 (1) The Settlement Body must issue each invoice under regulation 20(6)(a) or 21(8)(a) to the payer by no later than T-19.
 
-(2) A payer must pay the amount invoiced by no later than the end of T‒14[^key-2891c02247840fa1665a9ab90874eaef].
+(2) A payer must pay the amount invoiced by no later than the end of T‒14[^c-2891c02247840fa1665a9ab90874eaef].
 
-### 23. Draw down of credit cover[^key-c230b1304bd3917a4cd11152102b118f]
+### 23. Draw down of credit cover[^c-c230b1304bd3917a4cd11152102b118f]
 
-(1) Paragraph (2) applies where an electricity supplier (“S”) does not pay an invoiced amount in accordance with[^key-73c9b143ed33f104287b742c98f8957a] regulation 22(2).
+(1) Paragraph (2) applies where an electricity supplier (“S”) does not pay an invoiced amount in accordance with[^c-73c9b143ed33f104287b742c98f8957a] regulation 22(2).
 
 (2) Where this paragraph applies, the Settlement Body must by T-9 draw down on any existing credit cover of S for the amount due.
 
 (3) In paragraph (2), “existing credit cover” means the supplier credit cover (if any) of S which applies at the time the draw down is made.
 
-### 24. Recalculation of credit amounts[^key-792d53de47c0a4d62a798140fe41273a]
+### 24. Recalculation of credit amounts[^c-792d53de47c0a4d62a798140fe41273a]
 
 (1) Paragraph (2) applies where by T-7 the total amount received (“TAR”) by the Settlement Body from payers (including by draw down of supplier credit cover) in respect of invoices issued under regulation 22 for a reconciliation run is less than TAP as calculated under regulation 20(5) or 21(7) (as appropriate to the reconciliation run being carried out).
 
@@ -560,19 +560,19 @@ The redeterminations and recalculations required by regulations 20 and 21 must�
 
 (3) The Settlement Body must issue to each creditor a credit note for the amount recalculated under paragraph (2).
 
-### 25. Reconciliation credit notes and payment[^key-4b84b8dc3a1b26fa5c74cde359c640e0]
+### 25. Reconciliation credit notes and payment[^c-4b84b8dc3a1b26fa5c74cde359c640e0]
 
-The Settlement Body must, subject to regulation 14, pay the amount shown in a credit note issued to an electricity supplier under regulation 20, 21 or 24 by no later than the end of[^key-27cd57e37229e5fcc8e6a536b2c47ccd] T.
+The Settlement Body must, subject to regulation 14, pay the amount shown in a credit note issued to an electricity supplier under regulation 20, 21 or 24 by no later than the end of[^c-27cd57e37229e5fcc8e6a536b2c47ccd] T.
 
 ## PART 6 — Supplier credit cover
 
-### 26. Application of Principal Regulations and interpretation[^key-74984326c70cac26b9c895263ee1d390]
+### 26. Application of Principal Regulations and interpretation[^c-74984326c70cac26b9c895263ee1d390]
 
 (1) Chapter 1 of Part 7 of the Principal Regulations (credit cover: general) applies in relation to the provision of supplier credit cover under this Part, except that—
 
 - (a) in regulation 53(3)—
   - (i) the definition of “credit obligation period” has effect as if the words “, under regulation 60,” were omitted;
-  - (ii) the definition of “the required amount” has effect as if, for the words “in accordance with regulations 59(1), (4) or (5A)[^key-fabb70ea8b60cf61d9d0deccd1638053] or, if applicable, regulation 60(2)”, there was substituted “in accordance with Part 6 of the Supplier Payment Regulations”;
+  - (ii) the definition of “the required amount” has effect as if, for the words “in accordance with regulations 59(1), (4) or (5A)[^c-fabb70ea8b60cf61d9d0deccd1638053] or, if applicable, regulation 60(2)”, there was substituted “in accordance with Part 6 of the Supplier Payment Regulations”;
 - (b) regulations 55(3) and 56(2) do not apply; and
 - (c) regulation 58(1)(a) applies as if the words “, under regulation 60,” were omitted.
 
@@ -581,7 +581,7 @@ The Settlement Body must, subject to regulation 14, pay the amount shown in a cr
 - “month M” means a month of a delivery year; and
 - “S” means an electricity supplier who is required to provide supplier credit cover.
 
-### 27. Calculation of supplier credit cover[^key-59a926247885c53779c9b4c3bb585a19]
+### 27. Calculation of supplier credit cover[^c-59a926247885c53779c9b4c3bb585a19]
 
 (1) The Settlement Body must, by no later than 2 months before the commencement of a delivery year—
 
@@ -597,7 +597,7 @@ The Settlement Body must, subject to regulation 14, pay the amount shown in a cr
 
 (3) The amount of credit cover to be determined under paragraph (1)(a) or (2)(a) for S in respect of month M is 110% of the monthly capacity market supplier charge which the Settlement Body estimates will be payable by S in respect of month M.
 
-### 28. Requirement to provide supplier credit cover[^key-05b7907c98ddc23b4f7f959d49506e45]
+### 28. Requirement to provide supplier credit cover[^c-05b7907c98ddc23b4f7f959d49506e45]
 
 (1) By no later than 12 working days before the commencement of month M, each electricity supplier who has been given notice of a schedule of monthly credit cover must provide to the Settlement Body credit cover—
 
@@ -621,7 +621,7 @@ The Settlement Body must, subject to regulation 14, pay the amount shown in a cr
 - (a) determine in accordance with regulation 55(1)(a) of the Principal Regulations whether the credit cover is approved; and
 - (b) give S the notice required by regulation 55(1)(b) of the Principal Regulations.
 
-### 29. Effect of non-compliance[^key-b7ec978309be5be530b623a412f43bfd]
+### 29. Effect of non-compliance[^c-b7ec978309be5be530b623a412f43bfd]
 
 (1) Paragraph (2) applies where—
 
@@ -632,9 +632,9 @@ The Settlement Body must, subject to regulation 14, pay the amount shown in a cr
 
 (2) Where this paragraph applies, S must be entered by the Settlement Body on the credit default register as being in “capacity market stage 2 credit default” in respect of month M.
 
-### 30. The credit default register[^key-92f0e55afee58378c7ab6048965050d1]
+### 30. The credit default register[^c-92f0e55afee58378c7ab6048965050d1]
 
-(1)[^key-2c2a7884a4c3130e6802d0d38143938d] The Settlement Body must maintain a register (“the credit default register”) which includes the entries on the register required by regulations 28(3)(a) and 29(2), including—
+(1)[^c-2c2a7884a4c3130e6802d0d38143938d] The Settlement Body must maintain a register (“the credit default register”) which includes the entries on the register required by regulations 28(3)(a) and 29(2), including—
 
 - (a) the month to which an entry on the register relates; and
 - (b) whether or not the electricity supplier disputes that entry.
@@ -646,23 +646,23 @@ The Settlement Body must, subject to regulation 14, pay the amount shown in a cr
 - (a) if the Settlement Body makes a decision under Chapter 2 of Part 10 of the Principal Regulations that the entry on the register should not have been made;
 - (b) if capacity market stage 1 credit default is entered against S pursuant to regulation 28(3)(a) and supplier credit cover is subsequently approved under regulation 28(4), after that credit cover is approved;
 - (c) if capacity market stage 2 credit default is entered against S pursuant to regulation 29(2) in relation to month M, after the Settlement Body has received payment of the monthly capacity market supplier charge and any late payment interest due from S for month M; or
-- (d) if no previous sub-paragraph applies, after the last annual reconciliation run under Part 5 for the delivery year in respect of which the entry was made[^key-a3f2060f91f286068a1078f96c01d1ff].
+- (d) if no previous sub-paragraph applies, after the last annual reconciliation run under Part 5 for the delivery year in respect of which the entry was made[^c-a3f2060f91f286068a1078f96c01d1ff].
 
 (4) The Settlement Body must publish the information contained in the credit default register on a website.
 
-### 31. Interest[^key-aa75ffb3f89afbe0769d4a6a6a3286d5]
+### 31. Interest[^c-aa75ffb3f89afbe0769d4a6a6a3286d5]
 
 The Settlement Body must pay to S any interest received by the Settlement Body on supplier credit cover provided by S and held by the Settlement Body as a cash deposit in a bank account.
 
 ## PART 7 — Miscellaneous
 
-### 32. Disputes[^key-0d172a8478cb16e34c2efac1d3c5cd75]
+### 32. Disputes[^c-0d172a8478cb16e34c2efac1d3c5cd75]
 
 (1) Subject to paragraph (2), an electricity supplier may use the procedure in Chapter 2 of Part 10 of the Principal Regulations to dispute any calculation or determination made by the Settlement Body under these Regulations.
 
 (2) The procedure in that Chapter may not be used to dispute the correctness of any data used in making a calculation or determination, which has been provided to the Settlement Body by another person under these Regulations, the Principal Regulations or capacity market rules.
 
-### 33. Duties of the Settlement Body to enforce and notify[^key-0f1066ac1a32d38a563f1fa5255f402f]
+### 33. Duties of the Settlement Body to enforce and notify[^c-0f1066ac1a32d38a563f1fa5255f402f]
 
 (1) The Settlement Body must exercise its functions in the manner best calculated to ensure the collection of all amounts which are required to be paid by electricity suppliers under these Regulations.
 
@@ -673,11 +673,11 @@ The Settlement Body must pay to S any interest received by the Settlement Body o
 
 (3) If the Settlement Body writes off any debt owed to it by an electricity supplier, it must give a notice of that fact to any electricity supplier who was required to make a mutualisation payment in relation to that debt.
 
-### 34. Documents[^key-7f529a75b6eea823a16b13ae402107fe]
+### 34. Documents[^c-7f529a75b6eea823a16b13ae402107fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Amendments to the Principal Regulations[^key-79af8c20c627c9728c4f833c8f70dceb]
+### 35. Amendments to the Principal Regulations[^c-79af8c20c627c9728c4f833c8f70dceb]
 
 Schedule 2 (amendments to the Principal Regulations) has effect.
 
@@ -693,14 +693,14 @@ Department of Energy and Climate Change
 
 Regulations 3, 6 to 10, 20 and 21
 
-### 1. Interpretation[^key-fa0ebf49e92077b47bceb0fbc48f5590]
+### 1. Interpretation[^c-fa0ebf49e92077b47bceb0fbc48f5590]
 
 In this Schedule—
 
 - (a) “WF<sub>mx</sub>”, in relation to a month of a delivery year, means the weighting factor calculated for that month under paragraph 2 of Schedule 1 to the Principal Regulations; and
 - (b) a term preceded by “∑<sub>s</sub>” means the sum of the amounts represented by that term for all electricity suppliers.
 
-### 2. Capacity market supplier charge: provisional annual calculations[^key-b015ac768150e59d88e3d0de26232db9]
+### 2. Capacity market supplier charge: provisional annual calculations[^c-b015ac768150e59d88e3d0de26232db9]
 
 (1) The Settlement Body must, by no later than three months before the start of a delivery year (“year X”), for each electricity supplier (“S”) calculate—
 
@@ -723,11 +723,11 @@ In this Schedule—
 (5) In this paragraph—
 
 - “∑<sub>i</sub>ACP<sub>ix</sub>” means the sum of ACP<sub>ix </sub>(the total amount of capacity payments payable in respect of a capacity committed CMU), as calculated under paragraph 3 of Schedule 1 to the Principal Regulations, for all capacity committed CMUs in respect of year X; and
-- “[^key-4c1431815c9153fba39bbebf11789379][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_001.gif)” means the amount of the relevant demand forecast by S for year X under regulation 4(2)(a) and given to the Settlement Body under regulation 4(2)(b) less the CM EII excluded electricity forecast by S for year X under regulation 4(2)(aa) and given to the Settlement Body under regulation 4(2)(b).
+- “[^c-4c1431815c9153fba39bbebf11789379][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_001.gif)” means the amount of the relevant demand forecast by S for year X under regulation 4(2)(a) and given to the Settlement Body under regulation 4(2)(b) less the CM EII excluded electricity forecast by S for year X under regulation 4(2)(aa) and given to the Settlement Body under regulation 4(2)(b).
 
-### 3. Capacity market supplier charge: revised annual calculations[^key-fb84e9eb2bc4df3edcdfcf94ea591ae7]
+### 3. Capacity market supplier charge: revised annual calculations[^c-fb84e9eb2bc4df3edcdfcf94ea591ae7]
 
-(1) The Settlement Body must, as soon as reasonably practicable after relevant demand and CM EII excluded electricity[^key-0ac869eb6cefe87fd3ff7f725db3d53a] data for all periods of high demand in year X is available, calculate for each electricity supplier (“S”)—
+(1) The Settlement Body must, as soon as reasonably practicable after relevant demand and CM EII excluded electricity[^c-0ac869eb6cefe87fd3ff7f725db3d53a] data for all periods of high demand in year X is available, calculate for each electricity supplier (“S”)—
 
 - (a) S’s revised share of capacity market supplier charges in respect of year X (“RSC<sub>sx</sub>”);
 - (b) S’s revised capacity market supplier charge in respect of year X (“RACMSC<sub>sx</sub>”);
@@ -750,9 +750,9 @@ In this Schedule—
 - “∑<sub>i</sub>AACP<sub>ix</sub>” means ∑<sub>i</sub>ACP<sub>ix</sub>, within the meaning given in paragraph 2(5), minus any reductions in the total amount of capacity payments payable to capacity providers in respect of year X as a result of—
   - (a) a capacity agreement being terminated; or
   - (b) a capacity payment being reduced or forfeited under the Principal Regulations;
-- “[^key-bb3498c8f63fd6232b0de01dfc0fff6b][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_002.gif)” means the actual relevant demand of S during periods of high demand in year X less the actual CM EII excluded electricity supplied by S during periods of high demand in year X.
+- “[^c-bb3498c8f63fd6232b0de01dfc0fff6b][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_002.gif)” means the actual relevant demand of S during periods of high demand in year X less the actual CM EII excluded electricity supplied by S during periods of high demand in year X.
 
-### 4. Capacity market supplier charge: monthly calculations[^key-8ea300274d587cc17a93f844d88730c2]
+### 4. Capacity market supplier charge: monthly calculations[^c-8ea300274d587cc17a93f844d88730c2]
 
 (1) The Settlement Body must, by no later than the first day of each month (“month M”) of a delivery year calculate for each electricity supplier (“S”) the monthly capacity market supplier charge (“MCMSC<sub>sm</sub>”) payable by S in respect of month M.
 
@@ -765,7 +765,7 @@ In this Schedule—
 - “PMCMSC<sub>sm</sub>” means the amount calculated under paragraph 2(1)(c) for electricity supplier S and month M;
 - “RMCMSC<sub>sm</sub>” means the amount calculated under paragraph 3(1)(c) for electricity supplier S and month M.
 
-### 5. Capacity market supplier charge: mutualisation payments[^key-d3e7bbaac8e170c7e4d46273831cf7d6]
+### 5. Capacity market supplier charge: mutualisation payments[^c-d3e7bbaac8e170c7e4d46273831cf7d6]
 
 (1) If, in respect of a month of a delivery year (“month M”), one or more electricity suppliers is in capacity market stage 2 credit default, the Settlement Body must calculate in accordance with sub-paragraphs (2) and (3) the mutualisation payment to be made by each electricity supplier (“S”) who is not in such default (“MP<sub>sm</sub>”).
 
@@ -787,7 +787,7 @@ In this Schedule—
 - “∑<sub>n</sub>RSC<sub>nx</sub>” means the sum of the amounts calculated under paragraph 3(1)(a) for year X for every electricity supplier who is not in capacity market stage 2 credit default in respect of month M; and
 - “year X” means the delivery year in which month M falls.
 
-### 6. Penalty residual supplier amount[^key-b81bf6ccb6875543af41cfe36b493626]
+### 6. Penalty residual supplier amount[^c-b81bf6ccb6875543af41cfe36b493626]
 
 (1) The Settlement Body must, as soon as reasonably practicable after the end of a delivery year (“year X”), calculate for each electricity supplier (“S”) the penalty residual supplier amount (“PRSA<sub>sx</sub>”) which is due to S in respect of year X.
 
@@ -801,7 +801,7 @@ In this Schedule—
 - “∑<sub>i</sub>ODP<sub>ix</sub>” means the sum of the amounts calculated under paragraph 7(1)(c) of Schedule 1 to the Principal Regulations for all relevant CMUs (within the meaning given in that paragraph) for year X;
 - “TPR<sub>x</sub>” means the total amount of capacity market penalty charge payments received by the Settlement Body under the Principal Regulations in respect of year X.
 
-### 7. Settlement costs levy: provisional calculations[^key-174380284cbe682b870c93853120480d]
+### 7. Settlement costs levy: provisional calculations[^c-174380284cbe682b870c93853120480d]
 
 (1) The Settlement Body must, by no later than the start of a relevant financial year (“year Y”), for each electricity supplier (“S”) calculate—
 
@@ -819,12 +819,12 @@ In this Schedule—
 (4) In this paragraph—
 
 - “ASCL<sub>y</sub>” is the amount specified in regulation 9(2) as the total amount which may be charged to all electricity suppliers in respect of the settlement costs levy for year Y;
-- “[^key-8e88e2fa60dcde7bb2f97f244480b822][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_003.gif)” means—
+- “[^c-8e88e2fa60dcde7bb2f97f244480b822][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_003.gif)” means—
   - (a) subject to paragraph (b), the actual relevant demand of S during periods of high demand (“**AD**”) in the relevant months less the actual CM EII excluded electricity supplied by S during periods of high demand (“**AEE**”); or
   - (b) if, at the date on which the calculation in sub-paragraph (2) is to be made, the Settlement Body does not have the data necessary to calculate AD or AEE for all suppliers for one or more of the relevant months, AD in the relevant months for which data is available to the Settlement Body less AEE in the same relevant months.
 - “the relevant months” means November to February of the financial year preceding year Y.
 
-### 8. Settlement costs levy: revised calculations[^key-8c8d4fbb0cc8158475c8d62008414058]
+### 8. Settlement costs levy: revised calculations[^c-8c8d4fbb0cc8158475c8d62008414058]
 
 (1) The Settlement Body must, as soon as reasonably practicable after 16th March in a relevant financial year (“year Y”), calculate for each electricity supplier (“S”)—
 
@@ -842,10 +842,10 @@ In this Schedule—
 (4) In this paragraph—
 
 - “ASCL<sub>y</sub>” has the same meaning as in paragraph 7;
-- “[^key-a62a702e9913cb9e49304748b8608b2a][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_004.gif)” means the actual relevant demand of S during periods of high demand in year Y less the actual CM EII excluded electricity supplied by S during periods of high demand in year Y;
+- “[^c-a62a702e9913cb9e49304748b8608b2a][image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_004.gif)” means the actual relevant demand of S during periods of high demand in year Y less the actual CM EII excluded electricity supplied by S during periods of high demand in year Y;
 - “[image: see source](https://www.legislation.gov.uk/uksi/2014/3354/images/uksi_20143354_en_epp_005.gif)” means the sum of the actual relevant demand of every electricity supplier who is liable to pay the settlement costs levy in the relevant month less the sum of the actual CM EII excluded electricity supplied by every electricity supplier who is liable to pay the settlement costs levy in the relevant month.
 
-### 9. Settlement costs levy refund[^key-ea5d8748b895b3e692ba255a7c7a9d23]
+### 9. Settlement costs levy refund[^c-ea5d8748b895b3e692ba255a7c7a9d23]
 
 (1) The Settlement Body must calculate the amount (“SCLR<sub>sy</sub>”) of the refund payable to each electricity supplier (“S”) who has paid a settlement costs levy payment in a relevant financial year (“year Y”) in accordance with the formula—
 
@@ -860,26 +860,26 @@ In this Schedule—
 
 Regulation 35
 
-### 1. Amendments to the Principal Regulations[^key-a2e27621fff5ad073a0f178df8ffaab7]
+### 1. Amendments to the Principal Regulations[^c-a2e27621fff5ad073a0f178df8ffaab7]
 
 The Principal Regulations are amended in accordance with paragraphs 2 to 14.
 
-**2.**[^key-20d0370cd4bda84f7f27d8e4e4d72280] In regulation 2(1), after the definition of “the Rules” insert—
+**2.**[^c-20d0370cd4bda84f7f27d8e4e4d72280] In regulation 2(1), after the definition of “the Rules” insert—
 
 > - “the Supplier Payment Regulations” means the Electricity Capacity (Supplier Payment etc.) Regulations 2014;
 
 .
 
-**3.**[^key-274e2938457961c7770290251302b00c] In regulation 3—
+**3.**[^c-274e2938457961c7770290251302b00c] In regulation 3—
 
 - (a) in paragraph (1)(a), after “electrical output by a generating unit” insert “or through an electricity interconnector”; and
 - (b) in paragraph (2)—
   - (i) omit “section 28(3) of the Act and”; and
   - (ii) for “customers” substitute “premises”.
 
-**4.**[^key-594eadad39297f7bfeffbca98a8fee05] In regulation 4(9), for “1st April 2014” substitute “8th September 2014”.
+**4.**[^c-594eadad39297f7bfeffbca98a8fee05] In regulation 4(9), for “1st April 2014” substitute “8th September 2014”.
 
-**5.**[^key-15ef36aaf85af7095e86d45f3c8f9908] In regulation 41, after paragraph (3) insert—
+**5.**[^c-15ef36aaf85af7095e86d45f3c8f9908] In regulation 41, after paragraph (3) insert—
 
 > (3A) The percentages to be included in the capacity market register under regulation 31(2)(f) are—
 >
@@ -888,25 +888,25 @@ The Principal Regulations are amended in accordance with paragraphs 2 to 14.
 
 .
 
-**6.**[^key-ec5b073da2ea38e366de9b4578f274b1] In regulation 44(6), in the definition of “liable electricity supplier”, for “customers” substitute “premises”.
+**6.**[^c-ec5b073da2ea38e366de9b4578f274b1] In regulation 44(6), in the definition of “liable electricity supplier”, for “customers” substitute “premises”.
 
-**7.**[^key-f25acaab337d5e933fadfd6f93a8839e] In regulation 45(1), in the definition of “payer”, before “means” insert “, subject to regulation 47(7),”.
+**7.**[^c-f25acaab337d5e933fadfd6f93a8839e] In regulation 45(1), in the definition of “payer”, before “means” insert “, subject to regulation 47(7),”.
 
-**8.**[^key-1c931353ac281f42dbeb22092b1e821f] In regulation 47, at the end insert—
+**8.**[^c-1c931353ac281f42dbeb22092b1e821f] In regulation 47, at the end insert—
 
 > (7) In this regulation, “payer” means a person to whom an invoice is issued under these Regulations or the Supplier Payment Regulations.
 
 .
 
-**9.**[^key-8050b1006cfc5a2d5c495f02647b620d] In regulation 67, in paragraph (1)(b), after “these Regulations” insert “, the Supplier Payment Regulations”.
+**9.**[^c-8050b1006cfc5a2d5c495f02647b620d] In regulation 67, in paragraph (1)(b), after “these Regulations” insert “, the Supplier Payment Regulations”.
 
-**10.**[^key-96502b16c447873085afd25218faf06a] In regulations 77(3)(a) and 80(3)(b), after “these Regulations” insert “or the Supplier Payment Regulations”.
+**10.**[^c-96502b16c447873085afd25218faf06a] In regulations 77(3)(a) and 80(3)(b), after “these Regulations” insert “or the Supplier Payment Regulations”.
 
-**11.**[^key-23e3cd470e121607bfc8fdd0d1f766f4] In regulation 81, in paragraphs (1)(a)(i) and (2)(a), after “these Regulations” insert “and the Supplier Payment Regulations”.
+**11.**[^c-23e3cd470e121607bfc8fdd0d1f766f4] In regulation 81, in paragraphs (1)(a)(i) and (2)(a), after “these Regulations” insert “and the Supplier Payment Regulations”.
 
-**12.**[^key-39356dccd46e89bc85f19b5aa9e49366] In paragraph 2(2) of Schedule 1, for “3 decimal” substitute “10 decimal”.
+**12.**[^c-39356dccd46e89bc85f19b5aa9e49366] In paragraph 2(2) of Schedule 1, for “3 decimal” substitute “10 decimal”.
 
-**13.**[^key-e41523b694932fbbbad3b667f7547413] In paragraph 6 of Schedule 1—
+**13.**[^c-e41523b694932fbbbad3b667f7547413] In paragraph 6 of Schedule 1—
 
 - (a) in sub-paragraph (4), for the formula substitute—
 
@@ -926,7 +926,7 @@ The Principal Regulations are amended in accordance with paragraphs 2 to 14.
 
     .
 
-**14.**[^key-5d786c57f71ccc71587396dc646142d9] In paragraph 1(b) of Schedule 2, after “Regulations” insert “, the Supplier Payment Regulations”.
+**14.**[^c-5d786c57f71ccc71587396dc646142d9] In paragraph 1(b) of Schedule 2, after “Regulations” insert “, the Supplier Payment Regulations”.
 
 EXPLANATORY NOTE
 
@@ -960,214 +960,214 @@ A full impact assessment of the effect that this instrument and the Principal Re
 
 [^f00001]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-b17afb72174e7178e74a092b0403ff67]: Modification: Regulations applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 54-63](https://www.legislation.gov.uk/uksi/2019/862/regulation/54) (with [reg. 53](https://www.legislation.gov.uk/uksi/2019/862/regulation/53))
+[^c-b17afb72174e7178e74a092b0403ff67]: Modification: Regulations applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 54-63](https://www.legislation.gov.uk/uksi/2019/862/regulation/54) (with [reg. 53](https://www.legislation.gov.uk/uksi/2019/862/regulation/53))
 
-[^key-e1e34edc8add402931566e6f0b4ad1c9]: Commencement: Reg. 1 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-e1e34edc8add402931566e6f0b4ad1c9]: Commencement: Reg. 1 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-bbf1c60fe89a672a5464bc16fcc90d40]: Commencement: Reg. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-bbf1c60fe89a672a5464bc16fcc90d40]: Commencement: Reg. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
 [^f00002]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^f00003]: Footnote: [S.I. 2014/2043](https://www.legislation.gov.uk/uksi/2014/2043).
 
-[^key-e15ba585a8522cb5846376f25b20aa5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/7/a)
+[^c-e15ba585a8522cb5846376f25b20aa5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/7/a)
 
-[^key-99e22d4aad5071d7a9413f9b149d54c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/434/regulation/7/b)
+[^c-99e22d4aad5071d7a9413f9b149d54c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/434/regulation/7/b)
 
-[^key-0334676b7a84a556520d30a8a1eb5b32]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/1/a)
+[^c-0334676b7a84a556520d30a8a1eb5b32]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/1/a)
 
-[^key-bc21d6a8abfb9644101ccde78cab0155]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
+[^c-bc21d6a8abfb9644101ccde78cab0155]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/1) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
 
 [^f00004]: Footnote: The definition of “supply” in section 4(4) of EA 1989 was substituted by section 179(1) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). Other amendments have been made to section 4 which are not relevant.
 
 [^f00005]: Footnote: Section 6(1)(d) of EA 1989 was substituted by section 30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). Other amendments have been made to section 6 which are not relevant.
 
-[^key-0da6926adee8abc3cf9463e56f1f5bd0]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/4) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
+[^c-0da6926adee8abc3cf9463e56f1f5bd0]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/4) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
 
-[^key-fc3b66739472ebe3d4f9ba856b0d3a67]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/5) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
+[^c-fc3b66739472ebe3d4f9ba856b0d3a67]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/5) omitted (1.1.2018) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/3), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/2/paragraph/1/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1053/regulation/4))
 
-[^key-0db7f396db04728bcd88ac8c2435ca08]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/7) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/875/schedule/2/paragraph/1)
+[^c-0db7f396db04728bcd88ac8c2435ca08]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/7) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/875/schedule/2/paragraph/1)
 
-[^key-461be75434e75cb9a42f0d9dd5d5b029]: Textual amendment: Words in [reg. 2(8)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/8) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/1/b)
+[^c-461be75434e75cb9a42f0d9dd5d5b029]: Textual amendment: Words in [reg. 2(8)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/2/8) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/1/b)
 
-[^key-c76eda261a775dbdeea69e763eee67e2]: Commencement: Reg. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-c76eda261a775dbdeea69e763eee67e2]: Commencement: Reg. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-e82f825b065593518901baefc7c77da0]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/3/3) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/434/regulation/8)
+[^c-e82f825b065593518901baefc7c77da0]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/3/3) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/434/regulation/8)
 
-[^key-a239cb29c258f91c276ff6b9eba8a5a0]: Commencement: Reg. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-a239cb29c258f91c276ff6b9eba8a5a0]: Commencement: Reg. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-a0da83d21670788a33090370dec90bb2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4) heading substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/a)
+[^c-a0da83d21670788a33090370dec90bb2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4) heading substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/a)
 
-[^key-6159693e1e3c411d4b2f5b9b38ed0289]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/a) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/i)
+[^c-6159693e1e3c411d4b2f5b9b38ed0289]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/a) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/i)
 
-[^key-0fb66b354128b983c445c81f308c2d32]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/ii)
+[^c-0fb66b354128b983c445c81f308c2d32]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/ii)
 
-[^key-3c31eec567c29b0368857afd6e738be3]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/aa) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/iii)
+[^c-3c31eec567c29b0368857afd6e738be3]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/2/aa) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/b/iii)
 
-[^key-774e01820b438fb241ace4116c027584]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/b) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/c)
+[^c-774e01820b438fb241ace4116c027584]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/4/b) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/434/regulation/9/c)
 
-[^key-a5bd9d925272bae08ef7a2c7ba643aa3]: Commencement: Reg. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-a5bd9d925272bae08ef7a2c7ba643aa3]: Commencement: Reg. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-87d774460a44acfbff75ed55423fd2a0]: Commencement: Reg. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-87d774460a44acfbff75ed55423fd2a0]: Commencement: Reg. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-d8c1c470ed6b1f96c62880ab53b803ca]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/6/3) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/434/regulation/10)
+[^c-d8c1c470ed6b1f96c62880ab53b803ca]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/6/3) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/434/regulation/10)
 
-[^key-3742000165b09c5cdce58df453099df8]: Commencement: Reg. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-3742000165b09c5cdce58df453099df8]: Commencement: Reg. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-f59dba0207a3bae2c66abb8b2cdd5d75]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/7/8) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/2)
+[^c-f59dba0207a3bae2c66abb8b2cdd5d75]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/7/8) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/2)
 
-[^key-54af69b4f9ef8ca1a033473a58f41a26]: Commencement: Reg. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-54af69b4f9ef8ca1a033473a58f41a26]: Commencement: Reg. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-cfb4f3f1c9f2f192759c3dd4641e6e75]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/8/3) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/3)
+[^c-cfb4f3f1c9f2f192759c3dd4641e6e75]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/8/3) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/3)
 
-[^key-d3c276c75075eb0bcbda65d9f1fcc067]: Commencement: Reg. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-d3c276c75075eb0bcbda65d9f1fcc067]: Commencement: Reg. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-80a57e6da86835cfe3915042ea2a99c8]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/9/2) substituted (30.3.2022) by [The Electricity Supplier Payments (Amendment) Regulations 2022 (S.I. 2022/401)](https://www.legislation.gov.uk/uksi/2022/401), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/401/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2022/401/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/401/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2022/401/regulation/3/3))
+[^c-80a57e6da86835cfe3915042ea2a99c8]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/9/2) substituted (30.3.2022) by [The Electricity Supplier Payments (Amendment) Regulations 2022 (S.I. 2022/401)](https://www.legislation.gov.uk/uksi/2022/401), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/401/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2022/401/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/401/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2022/401/regulation/3/3))
 
-[^key-59b0ce50fafbce66723222424253e0a2]: Textual amendment: [Reg. 9(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/9/2/a) substituted (26.3.2026) by [The Electricity Supplier Payments (Amendment) Regulations 2026 (S.I. 2026/359)](https://www.legislation.gov.uk/uksi/2026/359), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/359/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2026/359/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/359/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2026/359/regulation/3/3))
+[^c-59b0ce50fafbce66723222424253e0a2]: Textual amendment: [Reg. 9(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/9/2/a) substituted (26.3.2026) by [The Electricity Supplier Payments (Amendment) Regulations 2026 (S.I. 2026/359)](https://www.legislation.gov.uk/uksi/2026/359), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/359/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2026/359/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/359/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2026/359/regulation/3/3))
 
-[^key-adcfd87363ae51cdb4947f7a9fb5720c]: Commencement: Reg. 10 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-adcfd87363ae51cdb4947f7a9fb5720c]: Commencement: Reg. 10 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-4e6345aee7a77f3fb55002c7411c5f53]: Commencement: Reg. 11 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-4e6345aee7a77f3fb55002c7411c5f53]: Commencement: Reg. 11 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-a6b68709a00cd20b5de231000e4103cc]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/11/1) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/4/a)
+[^c-a6b68709a00cd20b5de231000e4103cc]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/11/1) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/4/a)
 
-[^key-c51d8ab77d0cccd07c03cf2ab475fb2c]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/11/2) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/4/b)
+[^c-c51d8ab77d0cccd07c03cf2ab475fb2c]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/11/2) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/4/b)
 
 [^f00006]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-d960eb8378897b701b2dbe3f19bf8713]: Commencement: Reg. 12 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-d960eb8378897b701b2dbe3f19bf8713]: Commencement: Reg. 12 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-5e14cedae65570b29d36fe7a90603aa4]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/12/2/a) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/5)
+[^c-5e14cedae65570b29d36fe7a90603aa4]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/12/2/a) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/5)
 
-[^key-02c707ed57fdd1919dba5809a48aa855]: Commencement: Reg. 13 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-02c707ed57fdd1919dba5809a48aa855]: Commencement: Reg. 13 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-4ccf5de6fd1e37e8630e1a03109ed265]: Textual amendment: Words in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/13/a) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/6/a)
+[^c-4ccf5de6fd1e37e8630e1a03109ed265]: Textual amendment: Words in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/13/a) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/6/a)
 
-[^key-69a93d9bcb50bf848d0ebfca108f4f67]: Textual amendment: Word in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/13/a) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/6/b)
+[^c-69a93d9bcb50bf848d0ebfca108f4f67]: Textual amendment: Word in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/13/a) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/6/b)
 
-[^key-2c8b2dac9f553f3aeadaa70ade3a0564]: Commencement: Reg. 14 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-2c8b2dac9f553f3aeadaa70ade3a0564]: Commencement: Reg. 14 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-6deeb0e3c20685c710fac937b6b9ff42]: Commencement: Reg. 15 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-6deeb0e3c20685c710fac937b6b9ff42]: Commencement: Reg. 15 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-d7b85417ca9d1d3f280ad7e8ffb04969]: Commencement: Reg. 16 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-d7b85417ca9d1d3f280ad7e8ffb04969]: Commencement: Reg. 16 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-93858d6f5f354bcb1b3c15b45e46fc75]: Commencement: Reg. 17 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-93858d6f5f354bcb1b3c15b45e46fc75]: Commencement: Reg. 17 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-633101dbb600f3cd146205d9db933292]: Commencement: Reg. 18 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-633101dbb600f3cd146205d9db933292]: Commencement: Reg. 18 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-50c908e31a81c8deac9f4046b803b1ef]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/1) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/a)
+[^c-50c908e31a81c8deac9f4046b803b1ef]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/1) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/a)
 
-[^key-317630c60167b429afadfad2d290abb9]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/1A) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/b)
+[^c-317630c60167b429afadfad2d290abb9]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/1A) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/b)
 
-[^key-bb4f4fdde6cdcf5e9cc2d5848f0d4f98]: Textual amendment: [Reg. 18(3A)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/3A) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/c)
+[^c-bb4f4fdde6cdcf5e9cc2d5848f0d4f98]: Textual amendment: [Reg. 18(3A)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/3A) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/c)
 
-[^key-14223622cc3815e079f7dedb6ae23ae0]: Textual amendment: Word in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/5) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(d)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/d)
+[^c-14223622cc3815e079f7dedb6ae23ae0]: Textual amendment: Word in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/18/5) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 1(d)](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/1/d)
 
-[^key-b0b564838da30ba0d81afbf936a11ab5]: Commencement: Reg. 19 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-b0b564838da30ba0d81afbf936a11ab5]: Commencement: Reg. 19 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-bdb733a3491f07793f6b10b581dac2df]: Textual amendment: Word in [reg. 19(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/11/a)
+[^c-bdb733a3491f07793f6b10b581dac2df]: Textual amendment: Word in [reg. 19(a)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19) omitted (1.4.2024) by virtue of [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/11/a)
 
-[^key-0175cbd655e4431dadff79f25fdff456]: Textual amendment: [Reg. 19(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19/aa) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/434/regulation/11/b)
+[^c-0175cbd655e4431dadff79f25fdff456]: Textual amendment: [Reg. 19(aa)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/19/aa) inserted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/434/regulation/11/b)
 
-[^key-dd2bcd954c2b5941afb8893acc677bbe]: Commencement: Reg. 20 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-dd2bcd954c2b5941afb8893acc677bbe]: Commencement: Reg. 20 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-1ad9a03d186594c3fd401673801f59cc]: Commencement: Reg. 21 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-1ad9a03d186594c3fd401673801f59cc]: Commencement: Reg. 21 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-0749d53f7845a438c8d9980a6614d3be]: Commencement: Reg. 22 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-0749d53f7845a438c8d9980a6614d3be]: Commencement: Reg. 22 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-2891c02247840fa1665a9ab90874eaef]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/22/2) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/7)
+[^c-2891c02247840fa1665a9ab90874eaef]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/22/2) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/7)
 
-[^key-c230b1304bd3917a4cd11152102b118f]: Commencement: Reg. 23 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-c230b1304bd3917a4cd11152102b118f]: Commencement: Reg. 23 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-73c9b143ed33f104287b742c98f8957a]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/23/1) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/8)
+[^c-73c9b143ed33f104287b742c98f8957a]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/23/1) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/8)
 
-[^key-792d53de47c0a4d62a798140fe41273a]: Commencement: Reg. 24 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-792d53de47c0a4d62a798140fe41273a]: Commencement: Reg. 24 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-4b84b8dc3a1b26fa5c74cde359c640e0]: Commencement: Reg. 25 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-4b84b8dc3a1b26fa5c74cde359c640e0]: Commencement: Reg. 25 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-27cd57e37229e5fcc8e6a536b2c47ccd]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2014/3354/regulation/25) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/9)
+[^c-27cd57e37229e5fcc8e6a536b2c47ccd]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2014/3354/regulation/25) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/9)
 
-[^key-74984326c70cac26b9c895263ee1d390]: Commencement: Reg. 26 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-74984326c70cac26b9c895263ee1d390]: Commencement: Reg. 26 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-fabb70ea8b60cf61d9d0deccd1638053]: Textual amendment: Words in [reg. 26(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/26/1/a/ii) substituted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/2)
+[^c-fabb70ea8b60cf61d9d0deccd1638053]: Textual amendment: Words in [reg. 26(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/26/1/a/ii) substituted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2026/850/schedule/2/paragraph/2)
 
-[^key-59a926247885c53779c9b4c3bb585a19]: Commencement: Reg. 27 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-59a926247885c53779c9b4c3bb585a19]: Commencement: Reg. 27 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-05b7907c98ddc23b4f7f959d49506e45]: Commencement: Reg. 28 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-05b7907c98ddc23b4f7f959d49506e45]: Commencement: Reg. 28 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-b7ec978309be5be530b623a412f43bfd]: Commencement: Reg. 29 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-b7ec978309be5be530b623a412f43bfd]: Commencement: Reg. 29 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-92f0e55afee58378c7ab6048965050d1]: Commencement: Reg. 30 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-92f0e55afee58378c7ab6048965050d1]: Commencement: Reg. 30 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-2c2a7884a4c3130e6802d0d38143938d]: Textual amendment: [Reg. 30(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/30/1) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/10/1)
+[^c-2c2a7884a4c3130e6802d0d38143938d]: Textual amendment: [Reg. 30(1)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/30/1) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/10/1)
 
-[^key-a3f2060f91f286068a1078f96c01d1ff]: Textual amendment: Words in [reg. 30(3)(d)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/30/3/d) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/10/2)
+[^c-a3f2060f91f286068a1078f96c01d1ff]: Textual amendment: Words in [reg. 30(3)(d)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/30/3/d) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2016/742/schedule/2/paragraph/10/2)
 
-[^key-aa75ffb3f89afbe0769d4a6a6a3286d5]: Commencement: Reg. 31 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-aa75ffb3f89afbe0769d4a6a6a3286d5]: Commencement: Reg. 31 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-0d172a8478cb16e34c2efac1d3c5cd75]: Commencement: Reg. 32 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-0d172a8478cb16e34c2efac1d3c5cd75]: Commencement: Reg. 32 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-0f1066ac1a32d38a563f1fa5255f402f]: Commencement: Reg. 33 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-0f1066ac1a32d38a563f1fa5255f402f]: Commencement: Reg. 33 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-7f529a75b6eea823a16b13ae402107fe]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/3354/regulation/34) revoked (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2015/875/schedule/2/paragraph/3)
+[^c-7f529a75b6eea823a16b13ae402107fe]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/3354/regulation/34) revoked (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2015/875/schedule/2/paragraph/3)
 
-[^key-79af8c20c627c9728c4f833c8f70dceb]: Commencement: Reg. 35 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-79af8c20c627c9728c4f833c8f70dceb]: Commencement: Reg. 35 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-fa0ebf49e92077b47bceb0fbc48f5590]: Commencement: Sch. 1 para. 1 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-fa0ebf49e92077b47bceb0fbc48f5590]: Commencement: Sch. 1 para. 1 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-b015ac768150e59d88e3d0de26232db9]: Commencement: Sch. 1 para. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-b015ac768150e59d88e3d0de26232db9]: Commencement: Sch. 1 para. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-4c1431815c9153fba39bbebf11789379]: Textual amendment: Words in [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/2/5) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/a)
+[^c-4c1431815c9153fba39bbebf11789379]: Textual amendment: Words in [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/2/5) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/a)
 
-[^key-fb84e9eb2bc4df3edcdfcf94ea591ae7]: Commencement: Sch. 1 para. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-fb84e9eb2bc4df3edcdfcf94ea591ae7]: Commencement: Sch. 1 para. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-0ac869eb6cefe87fd3ff7f725db3d53a]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/1) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(b)(i)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/b/i)
+[^c-0ac869eb6cefe87fd3ff7f725db3d53a]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/1) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(b)(i)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/b/i)
 
-[^key-bb3498c8f63fd6232b0de01dfc0fff6b]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/5) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/b/ii)
+[^c-bb3498c8f63fd6232b0de01dfc0fff6b]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/3/5) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/b/ii)
 
-[^key-8ea300274d587cc17a93f844d88730c2]: Commencement: Sch. 1 para. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-8ea300274d587cc17a93f844d88730c2]: Commencement: Sch. 1 para. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-d3e7bbaac8e170c7e4d46273831cf7d6]: Commencement: Sch. 1 para. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-d3e7bbaac8e170c7e4d46273831cf7d6]: Commencement: Sch. 1 para. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-b81bf6ccb6875543af41cfe36b493626]: Commencement: Sch. 1 para. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-b81bf6ccb6875543af41cfe36b493626]: Commencement: Sch. 1 para. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-174380284cbe682b870c93853120480d]: Commencement: Sch. 1 para. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-174380284cbe682b870c93853120480d]: Commencement: Sch. 1 para. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-8e88e2fa60dcde7bb2f97f244480b822]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/7/4) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/c)
+[^c-8e88e2fa60dcde7bb2f97f244480b822]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/7/4) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/c)
 
-[^key-8c8d4fbb0cc8158475c8d62008414058]: Commencement: Sch. 1 para. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-8c8d4fbb0cc8158475c8d62008414058]: Commencement: Sch. 1 para. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-a62a702e9913cb9e49304748b8608b2a]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/8/4) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/d)
+[^c-a62a702e9913cb9e49304748b8608b2a]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2014/3354/schedule/1/paragraph/8/4) substituted (1.4.2024) by [The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024 (S.I. 2024/434)](https://www.legislation.gov.uk/uksi/2024/434), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2024/434/regulation/12/d)
 
-[^key-ea5d8748b895b3e692ba255a7c7a9d23]: Commencement: Sch. 1 para. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-ea5d8748b895b3e692ba255a7c7a9d23]: Commencement: Sch. 1 para. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-a2e27621fff5ad073a0f178df8ffaab7]: Commencement: Sch. 2 para. 1 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-a2e27621fff5ad073a0f178df8ffaab7]: Commencement: Sch. 2 para. 1 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-20d0370cd4bda84f7f27d8e4e4d72280]: Commencement: Sch. 2 para. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-20d0370cd4bda84f7f27d8e4e4d72280]: Commencement: Sch. 2 para. 2 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-274e2938457961c7770290251302b00c]: Commencement: Sch. 2 para. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-274e2938457961c7770290251302b00c]: Commencement: Sch. 2 para. 3 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-594eadad39297f7bfeffbca98a8fee05]: Commencement: Sch. 2 para. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-594eadad39297f7bfeffbca98a8fee05]: Commencement: Sch. 2 para. 4 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-15ef36aaf85af7095e86d45f3c8f9908]: Commencement: Sch. 2 para. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-15ef36aaf85af7095e86d45f3c8f9908]: Commencement: Sch. 2 para. 5 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-ec5b073da2ea38e366de9b4578f274b1]: Commencement: Sch. 2 para. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-ec5b073da2ea38e366de9b4578f274b1]: Commencement: Sch. 2 para. 6 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-f25acaab337d5e933fadfd6f93a8839e]: Commencement: Sch. 2 para. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-f25acaab337d5e933fadfd6f93a8839e]: Commencement: Sch. 2 para. 7 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-1c931353ac281f42dbeb22092b1e821f]: Commencement: Sch. 2 para. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-1c931353ac281f42dbeb22092b1e821f]: Commencement: Sch. 2 para. 8 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-8050b1006cfc5a2d5c495f02647b620d]: Commencement: Sch. 2 para. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-8050b1006cfc5a2d5c495f02647b620d]: Commencement: Sch. 2 para. 9 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-96502b16c447873085afd25218faf06a]: Commencement: Sch. 2 para. 10 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-96502b16c447873085afd25218faf06a]: Commencement: Sch. 2 para. 10 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-23e3cd470e121607bfc8fdd0d1f766f4]: Commencement: Sch. 2 para. 11 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-23e3cd470e121607bfc8fdd0d1f766f4]: Commencement: Sch. 2 para. 11 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-39356dccd46e89bc85f19b5aa9e49366]: Commencement: Sch. 2 para. 12 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-39356dccd46e89bc85f19b5aa9e49366]: Commencement: Sch. 2 para. 12 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-e41523b694932fbbbad3b667f7547413]: Commencement: Sch. 2 para. 13 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-e41523b694932fbbbad3b667f7547413]: Commencement: Sch. 2 para. 13 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
-[^key-5d786c57f71ccc71587396dc646142d9]: Commencement: Sch. 2 para. 14 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
+[^c-5d786c57f71ccc71587396dc646142d9]: Commencement: Sch. 2 para. 14 in force at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2)
 
 [^f00007]: Footnote: See the Capacity Market Rules 2014,the Capacity Market (Amendment) Rules 2014 and the Capacity Market (Amendment) (No. 2) Rules 2014: https://www.gov.uk/government/publications/capacity-market-rules.

@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 67(6))
 
-### 1. Power to grant permission subject to aftercare conditions[^key-cc2413db4f635573a7a3ce5d7262cb96]
+### 1. Power to grant permission subject to aftercare conditions[^c-cc2413db4f635573a7a3ce5d7262cb96]
 
 (1) If planning permission for development that consists of mining operations or includes the depositing of waste is granted subject to one or more restoration conditions that are to have effect after the operations have been completed or the depositing has ceased, it may also be granted subject to one or more aftercare conditions.
 
@@ -50,7 +50,7 @@ summary: ''
 
 (9) Regulations may specify a different period, beginning with the day after the day the requirements of the restoration condition are complied with, for the purposes of sub-paragraph (8) (including by amending that sub-paragraph).
 
-### 2. Meaning of “required standard” for use specified in aftercare condition[^key-31b36b22f9095caf1e227f3682ace63a]
+### 2. Meaning of “required standard” for use specified in aftercare condition[^c-31b36b22f9095caf1e227f3682ace63a]
 
 (1) Sub-paragraph (2) applies where all of the following conditions are met—
 
@@ -68,7 +68,7 @@ summary: ''
 
 (5) Where an aftercare condition specifies a use of land for amenity, the land is brought to the required standard when it is suitable for sustaining trees, shrubs or other plants.
 
-### 3. Consultation on aftercare condition that specifies use for agriculture or for growing timber[^key-4d7acf7338d563aad956baa9b4c8c493]
+### 3. Consultation on aftercare condition that specifies use for agriculture or for growing timber[^c-4d7acf7338d563aad956baa9b4c8c493]
 
 (1) Before imposing an aftercare condition that specifies a use of land for agriculture or for growing timber, a planning authority must consult the appropriate authority about whether it is appropriate to specify that use.
 
@@ -86,11 +86,11 @@ summary: ''
 - (a) the Welsh Ministers, in relation to a use for agriculture;
 - (b) Natural Resources Wales, in relation to a use for growing timber.
 
-### 4. Certificate of compliance with aftercare condition[^key-dd3dfc42c5d8c0f63ce0e1126ddb671d]
+### 4. Certificate of compliance with aftercare condition[^c-dd3dfc42c5d8c0f63ce0e1126ddb671d]
 
 If, on the application of any person with an interest in land in relation to which an aftercare condition has been imposed, the planning authority is satisfied that the condition has been complied with, it must issue a certificate to that effect.
 
-### 5. Recovery of costs of compliance[^key-2a33e4b0cb096d1209486d5ce57afb69]
+### 5. Recovery of costs of compliance[^c-2a33e4b0cb096d1209486d5ce57afb69]
 
 (1) This paragraph applies where—
 
@@ -101,12 +101,12 @@ If, on the application of any person with an interest in land in relation to whi
 
 ## Annotations
 
-[^key-cc2413db4f635573a7a3ce5d7262cb96]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-cc2413db4f635573a7a3ce5d7262cb96]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-31b36b22f9095caf1e227f3682ace63a]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-31b36b22f9095caf1e227f3682ace63a]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4d7acf7338d563aad956baa9b4c8c493]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4d7acf7338d563aad956baa9b4c8c493]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-dd3dfc42c5d8c0f63ce0e1126ddb671d]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-dd3dfc42c5d8c0f63ce0e1126ddb671d]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-2a33e4b0cb096d1209486d5ce57afb69]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2a33e4b0cb096d1209486d5ce57afb69]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

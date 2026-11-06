@@ -31,7 +31,7 @@ Patents Act 1977
 
 An Act to establish a new law of patents applicable to future patents and applications for patents; to amend the law of patents applicable to existing patents and applications for patents; to give effect to certain international conventions on patents; and for connected purposes.
 
-\[29th July 1977\] [^c8019921][^c8019931][^key-c25c6afbbfccdda7568822cf0f59c123][^key-57eb5f5f7af28d0911643fb8f8c27cb5][^key-71b7c7d183c63b5d6cebb3c9a62f6117]
+\[29th July 1977\] [^c8019921][^c8019931][^c-c25c6afbbfccdda7568822cf0f59c123][^c-57eb5f5f7af28d0911643fb8f8c27cb5][^c-71b7c7d183c63b5d6cebb3c9a62f6117]
 
 ## Contents
 
@@ -170,7 +170,7 @@ An Act to establish a new law of patents applicable to future patents and applic
 - [Section 70E — Supplementary: pending registration](part-i/section-70e.md)
 - [Section 70F — Supplementary: proceedings for delivery up etc.](part-i/section-70f.md)
 
-#### Declaration or declarator as to non-infringement[^key-fcd141455cb6b8ea8dbf104a85d3f6a3]
+#### Declaration or declarator as to non-infringement[^c-fcd141455cb6b8ea8dbf104a85d3f6a3]
 
 - [Section 71 — Declaration or declarator as to non-infringement](part-i/section-71.md)
 
@@ -183,7 +183,7 @@ An Act to establish a new law of patents applicable to future patents and applic
 
 - [Section 74 — Proceedings in which validity of patent may be put in issue.](part-i/section-74.md)
 
-#### Opinions by Patent Office[^key-dcc51560830b68cfa9119af20874d2c7]
+#### Opinions by Patent Office[^c-dcc51560830b68cfa9119af20874d2c7]
 
 - [Section 74A — Opinions on matters prescribed in the rules](part-i/section-74a.md)
 - [Section 74B — Reviews of opinions under section 74A](part-i/section-74b.md)
@@ -219,7 +219,7 @@ An Act to establish a new law of patents applicable to future patents and applic
 - [Section 87 — Decisions on Community Patent Convention.](part-ii/section-87.md)
 - [Section 88 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-88.md)
 
-#### Unified Patent Court[^key-14c5e18ca18861999382548beaa87546]
+#### Unified Patent Court[^c-14c5e18ca18861999382548beaa87546]
 
 - [Section 88A — Implementation of Agreement on a Unified Patent Court](part-ii/section-88a.md)
 - [Section 88B — Designation as international organisation of which UK is member](part-ii/section-88b.md)
@@ -341,14 +341,14 @@ SCHEDULES
 
 [^c8019931]: Extent: This Act does not extend to the Channel Islands or the Colonies for extent provision see s. 132(2)
 
-[^key-c25c6afbbfccdda7568822cf0f59c123]: Modification: Act modified (10.6.2003) by [Patents Act 1977 (Isle of Man) Order 2003 (S.I. 2003/1249)](https://www.legislation.gov.uk/uksi/2003/1249), [arts. 2](https://www.legislation.gov.uk/uksi/2003/1249/article/2), [3](https://www.legislation.gov.uk/uksi/2003/1249/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/1249/schedule)
+[^c-c25c6afbbfccdda7568822cf0f59c123]: Modification: Act modified (10.6.2003) by [Patents Act 1977 (Isle of Man) Order 2003 (S.I. 2003/1249)](https://www.legislation.gov.uk/uksi/2003/1249), [arts. 2](https://www.legislation.gov.uk/uksi/2003/1249/article/2), [3](https://www.legislation.gov.uk/uksi/2003/1249/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/1249/schedule)
 
-[^key-57eb5f5f7af28d0911643fb8f8c27cb5]: Modification: Act modified (Isle of Man) (11.11.2013) by [The Patents (Isle of Man) Order 2013 (S.I. 2013/2602)](https://www.legislation.gov.uk/uksi/2013/2602), [art. 2](https://www.legislation.gov.uk/uksi/2013/2602/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2602/schedule) (as amended (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [Sch.](https://www.legislation.gov.uk/uksi/2016/559/schedule) and as further amended (15.2.2017) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [arts. 1(2), 2](https://www.legislation.gov.uk/uksi/2017/162/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/162/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3)) and as further amended (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [art. 2](https://www.legislation.gov.uk/uksi/2019/1327/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-57eb5f5f7af28d0911643fb8f8c27cb5]: Modification: Act modified (Isle of Man) (11.11.2013) by [The Patents (Isle of Man) Order 2013 (S.I. 2013/2602)](https://www.legislation.gov.uk/uksi/2013/2602), [art. 2](https://www.legislation.gov.uk/uksi/2013/2602/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2602/schedule) (as amended (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [Sch.](https://www.legislation.gov.uk/uksi/2016/559/schedule) and as further amended (15.2.2017) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [arts. 1(2), 2](https://www.legislation.gov.uk/uksi/2017/162/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/162/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3)) and as further amended (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [art. 2](https://www.legislation.gov.uk/uksi/2019/1327/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-71b7c7d183c63b5d6cebb3c9a62f6117]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-71b7c7d183c63b5d6cebb3c9a62f6117]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-fcd141455cb6b8ea8dbf104a85d3f6a3]: Textual amendment: S. 71 crossheading inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-fcd141455cb6b8ea8dbf104a85d3f6a3]: Textual amendment: S. 71 crossheading inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-dcc51560830b68cfa9119af20874d2c7]: Textual amendment: Ss. 74A, 74B and cross-heading inserted (1.10.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/13/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/c)
+[^c-dcc51560830b68cfa9119af20874d2c7]: Textual amendment: Ss. 74A, 74B and cross-heading inserted (1.10.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/13/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/c)
 
-[^key-14c5e18ca18861999382548beaa87546]: Textual amendment: Ss. 88A, 88B and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 17](https://www.legislation.gov.uk/ukpga/2014/18/section/17), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-14c5e18ca18861999382548beaa87546]: Textual amendment: Ss. 88A, 88B and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 17](https://www.legislation.gov.uk/ukpga/2014/18/section/17), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

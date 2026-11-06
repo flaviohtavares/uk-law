@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Provisions about consumer protection and competition[^key-cea7474091f98161ab9c6bc810c10434][^key-4467acd9b8f5258402b28a742394ebef][^key-3229f218d7d051e806308016a1c1e0c9]
+## 43. Provisions about consumer protection and competition[^c-cea7474091f98161ab9c6bc810c10434][^c-4467acd9b8f5258402b28a742394ebef][^c-3229f218d7d051e806308016a1c1e0c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -146,8 +146,8 @@ After section 234B of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-cea7474091f98161ab9c6bc810c10434]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-cea7474091f98161ab9c6bc810c10434]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-4467acd9b8f5258402b28a742394ebef]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-4467acd9b8f5258402b28a742394ebef]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-3229f218d7d051e806308016a1c1e0c9]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3229f218d7d051e806308016a1c1e0c9]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

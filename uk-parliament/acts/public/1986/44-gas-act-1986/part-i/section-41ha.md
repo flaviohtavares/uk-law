@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41HA. New licensable activities: smart meters[^key-56bbd0ced321afc8feb5d978f9725505]
+## 41HA. New licensable activities: smart meters[^c-56bbd0ced321afc8feb5d978f9725505]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56bbd0ced321afc8feb5d978f9725505]: Textual amendment: Ss. 41HA-41HC inserted (26.11.2008) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2008/32/schedule/4/paragraph/1)
+[^c-56bbd0ced321afc8feb5d978f9725505]: Textual amendment: Ss. 41HA-41HC inserted (26.11.2008) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2008/32/schedule/4/paragraph/1)

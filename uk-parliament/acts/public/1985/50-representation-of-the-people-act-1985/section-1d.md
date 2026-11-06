@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1D. Duration of entitlement to be registered[^key-b84f7ab215f48154d78316df6aada694]
+## 1D. Duration of entitlement to be registered[^c-b84f7ab215f48154d78316df6aada694]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,12 +25,12 @@ summary: ''
 - (a) the third 1 November following the date when the person’s entry on the register first takes effect (subject to any extension under subsections (2) and (3)), or
 - (b) if sooner, the occurrence of an event mentioned in subsection (4).
 
-(2)[^key-ec53202c5c3e394b16ee0b0d2868f2a8] Subsection (3) applies if—
+(2)[^c-ec53202c5c3e394b16ee0b0d2868f2a8] Subsection (3) applies if—
 
 - (a) at any time during the 6 months ending with the last day of the initial registration period or of any further registration period, the registration officer concerned receives a declaration made by the person under and in accordance with section 1E (a “renewal declaration”), and
 - (b) the registration officer is satisfied that, on the date on which the person makes the renewal declaration, the person is entitled to remain registered in the register in pursuance of the overseas elector’s declaration.
 
-(3)[^key-ec53202c5c3e394b16ee0b0d2868f2a8] The person is entitled to remain registered in the register in pursuance of the overseas elector’s declaration until—
+(3)[^c-ec53202c5c3e394b16ee0b0d2868f2a8] The person is entitled to remain registered in the register in pursuance of the overseas elector’s declaration until—
 
 - (a) the third 1 November following the day after the last day of the initial registration period or of the further registration period in question (subject to any further extension), or
 - (b) if sooner, the occurrence of an event specified in subsection (4).
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b84f7ab215f48154d78316df6aada694]: Textual amendment: [Ss. 1-1E](https://www.legislation.gov.uk/ukpga/1985/50/section/1) substituted for ss. 1, 2 (6.2.2023 for specified purposes) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/i)
+[^c-b84f7ab215f48154d78316df6aada694]: Textual amendment: [Ss. 1-1E](https://www.legislation.gov.uk/ukpga/1985/50/section/1) substituted for ss. 1, 2 (6.2.2023 for specified purposes) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/i)
 
-[^key-ec53202c5c3e394b16ee0b0d2868f2a8]: Modification: [S. 1D(2)](https://www.legislation.gov.uk/ukpga/1985/50/section/1D/2)[(3)](https://www.legislation.gov.uk/ukpga/1985/50/section/1D/3) applied (with modifications) (16.1.2024) by [The Elections Act 2022 (Commencement No. 11, Transitional Provisions and Specified Day) and Levelling-up and Regeneration Act 2023 (Commencement No. 1) Regulations 2023 (S.I. 2023/1405)](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1405/regulation/4)
+[^c-ec53202c5c3e394b16ee0b0d2868f2a8]: Modification: [S. 1D(2)](https://www.legislation.gov.uk/ukpga/1985/50/section/1D/2)[(3)](https://www.legislation.gov.uk/ukpga/1985/50/section/1D/3) applied (with modifications) (16.1.2024) by [The Elections Act 2022 (Commencement No. 11, Transitional Provisions and Specified Day) and Levelling-up and Regeneration Act 2023 (Commencement No. 1) Regulations 2023 (S.I. 2023/1405)](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1405/regulation/4)

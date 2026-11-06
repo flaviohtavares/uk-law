@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Segregation and portability[^key-3350099cb66d1193e10f1ef654af7bfc][^key-965a2eef6bf0c41c6799774d208b3a19]
+## 42. Segregation and portability[^c-3350099cb66d1193e10f1ef654af7bfc][^c-965a2eef6bf0c41c6799774d208b3a19]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In Article 39—
 
 ## Annotations
 
-[^key-3350099cb66d1193e10f1ef654af7bfc]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3350099cb66d1193e10f1ef654af7bfc]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-965a2eef6bf0c41c6799774d208b3a19]: Textual amendment: Reg. 42 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/4)
+[^c-965a2eef6bf0c41c6799774d208b3a19]: Textual amendment: Reg. 42 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/4)

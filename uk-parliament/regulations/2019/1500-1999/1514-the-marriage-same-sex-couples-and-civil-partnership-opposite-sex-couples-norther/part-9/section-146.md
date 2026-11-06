@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Charities Act (Northern Ireland) 2008[^key-36c5ac161f21018186a320d34fbdc51a]
+## 146. Charities Act (Northern Ireland) 2008[^c-36c5ac161f21018186a320d34fbdc51a]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36c5ac161f21018186a320d34fbdc51a]: Commencement: Reg. 146 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-36c5ac161f21018186a320d34fbdc51a]: Commencement: Reg. 146 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00234]: Footnote: [2008 c.12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12).

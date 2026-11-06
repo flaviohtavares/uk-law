@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Claims in foreign currency[^key-eae8b3f4038f97449a4dd2ca45cc3e9b]
+## 30. Claims in foreign currency[^c-eae8b3f4038f97449a4dd2ca45cc3e9b]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eae8b3f4038f97449a4dd2ca45cc3e9b]: Commencement: Rule 30 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-eae8b3f4038f97449a4dd2ca45cc3e9b]: Commencement: Rule 30 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00019]: Footnote: Rule 4.17 was amended by rule 4 of [S.S.I. 2008/393](https://www.legislation.gov.uk/ssi/2008/393).

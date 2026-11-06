@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fd507d223d0fc05ef0fb3cec016882a2][^key-4a2e2a36bc90522f6a581f35cd880b02] After section 115B of the Social Security Administration Act 1992 there is inserted—
+(1)[^c-fd507d223d0fc05ef0fb3cec016882a2][^c-4a2e2a36bc90522f6a581f35cd880b02] After section 115B of the Social Security Administration Act 1992 there is inserted—
 
 > **Civil penalties**
 >
@@ -76,7 +76,7 @@ summary: ''
 >
 > (6) In this section “**relevant change of circumstances**”, in relation to a person, means a change of circumstances which affects any entitlement of the person to any benefit or other payment or advantage under any provision of the relevant social security legislation.
 
-(2)[^key-c9ca773a30028551122a4e1311bac640] In section 190 of that Act (parliamentary control of orders and regulations), in subsection (1), before paragraph (za) there is inserted—
+(2)[^c-c9ca773a30028551122a4e1311bac640] In section 190 of that Act (parliamentary control of orders and regulations), in subsection (1), before paragraph (za) there is inserted—
 
 > - (zzb) regulations under section 115C(2) or 115D(1) or (2);
 
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fd507d223d0fc05ef0fb3cec016882a2]: Commencement: S. 116(1) in force at 10.5.2012 for specified purposes by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/1/a)
+[^c-fd507d223d0fc05ef0fb3cec016882a2]: Commencement: S. 116(1) in force at 10.5.2012 for specified purposes by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/1/a)
 
-[^key-4a2e2a36bc90522f6a581f35cd880b02]: Commencement: S. 116(1) in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/c)
+[^c-4a2e2a36bc90522f6a581f35cd880b02]: Commencement: S. 116(1) in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/c)
 
-[^key-c9ca773a30028551122a4e1311bac640]: Commencement: S. 116(2) in force at 10.5.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/1/b)
+[^c-c9ca773a30028551122a4e1311bac640]: Commencement: S. 116(2) in force at 10.5.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/1/b)

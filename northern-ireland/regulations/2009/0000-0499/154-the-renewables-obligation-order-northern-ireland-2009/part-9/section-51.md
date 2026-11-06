@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. NIROC Register[^key-8934e2f457b399fb6cedf5ca1629fb5e]
+## 51. NIROC Register[^c-8934e2f457b399fb6cedf5ca1629fb5e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8934e2f457b399fb6cedf5ca1629fb5e]: Commencement: Art. 51 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-8934e2f457b399fb6cedf5ca1629fb5e]: Commencement: Art. 51 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

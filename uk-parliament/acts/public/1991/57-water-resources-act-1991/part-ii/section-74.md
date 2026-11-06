@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) An ordinary drought order made on the application of the appropriate agency[^key-5f20d3c6a5d5803adb2a387ea41b9a81] may contain any of the following provisions, that is to say—
+(1) An ordinary drought order made on the application of the appropriate agency[^c-5f20d3c6a5d5803adb2a387ea41b9a81] may contain any of the following provisions, that is to say—
 
 - (a) provision authorising the appropriate agency (or persons authorised to do so by the appropriate agency) to take water from any source specified in the order subject to any conditions or restrictions so specified;
 - (b) provision authorising the appropriate agency (or persons authorised to do so by the appropriate agency) to discharge water to any place specified in the order subject to any conditions or restrictions so specified;
@@ -30,7 +30,7 @@ summary: ''
   - (ii) the discharge of water;
   - (iii) the supply of water (whether in point of quantity, pressure, quality, means of supply or otherwise); or
   - (iv) the filtration or other treatment of water;
-- (e) provision authorising the appropriate agency to suspend or vary, or attach conditions to, any environmental permit[^key-d9daf3f88f150dc1f1bd2d961f1f9205] specified in the order for the discharge of any effluent by any person, including any sewerage undertaker or water undertaker.
+- (e) provision authorising the appropriate agency to suspend or vary, or attach conditions to, any environmental permit[^c-d9daf3f88f150dc1f1bd2d961f1f9205] specified in the order for the discharge of any effluent by any person, including any sewerage undertaker or water undertaker.
 
 (2) An ordinary drought order made on the application of a water undertaker may contain any of the following provisions, that is to say—
 
@@ -44,7 +44,7 @@ summary: ''
   - (ii) the discharge of water;
   - (iii) the supply of water (whether in point of quantity, pressure, quality, means of supply or otherwise); or
   - (iv) the filtration or other treatment of water;
-- (g) provision authorising the appropriate agency to suspend or vary, or attach conditions to, any environmental permit[^key-0332968ebf13750a69302206d1cbac2a] specified in the order for the discharge of any effluent by any person, including the company which applied for the order (whether in the capacity in which it made the application, in its capacity as a sewerage undertaker or in any other capacity).
+- (g) provision authorising the appropriate agency to suspend or vary, or attach conditions to, any environmental permit[^c-0332968ebf13750a69302206d1cbac2a] specified in the order for the discharge of any effluent by any person, including the company which applied for the order (whether in the capacity in which it made the application, in its capacity as a sewerage undertaker or in any other capacity).
 
 (3) The period for which—
 
@@ -63,8 +63,8 @@ has effect shall expire before the end of the period of six months beginning wit
 
 ## Annotations
 
-[^key-5f20d3c6a5d5803adb2a387ea41b9a81]: Textual amendment: Words in ss. 73-75 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(n)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/n) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5f20d3c6a5d5803adb2a387ea41b9a81]: Textual amendment: Words in ss. 73-75 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(n)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/n) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d9daf3f88f150dc1f1bd2d961f1f9205]: Textual amendment: Words in s. 74(1)(e) substituted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-d9daf3f88f150dc1f1bd2d961f1f9205]: Textual amendment: Words in s. 74(1)(e) substituted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
-[^key-0332968ebf13750a69302206d1cbac2a]: Textual amendment: Words in s. 74(2)(g) substituted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-0332968ebf13750a69302206d1cbac2a]: Textual amendment: Words in s. 74(2)(g) substituted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Dissolution of the community wards of Denny, Mill, Salisbury and The Elms[^key-f6dafeb781c1d01a504dbb3c99628f76][^key-e47a23e548dd3bc2457ca40ea489b93c]
+## 170. Dissolution of the community wards of Denny, Mill, Salisbury and The Elms[^c-f6dafeb781c1d01a504dbb3c99628f76][^c-e47a23e548dd3bc2457ca40ea489b93c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The existing Denny ward of the community of Magor with Undy as changed by this O
 
 ## Annotations
 
-[^key-f6dafeb781c1d01a504dbb3c99628f76]: Commencement: Art. 170 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-f6dafeb781c1d01a504dbb3c99628f76]: Commencement: Art. 170 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-e47a23e548dd3bc2457ca40ea489b93c]: Commencement: [Art. 170](https://www.legislation.gov.uk/wsi/2021/1227/article/170) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-e47a23e548dd3bc2457ca40ea489b93c]: Commencement: [Art. 170](https://www.legislation.gov.uk/wsi/2021/1227/article/170) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

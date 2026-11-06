@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Mawr, and Pontarddulais — changes in community and community ward boundaries and consequential changes to electoral arrangements[^key-3bdfe6a90bcd4153383a0f4404d0cc51]
+## 10. Mawr, and Pontarddulais — changes in community and community ward boundaries and consequential changes to electoral arrangements[^c-3bdfe6a90bcd4153383a0f4404d0cc51]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The community of Pontardulais as changed by this Order is to be known as Pontard
 
 ## Annotations
 
-[^key-3bdfe6a90bcd4153383a0f4404d0cc51]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2026/95/article/10) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-3bdfe6a90bcd4153383a0f4404d0cc51]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2026/95/article/10) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

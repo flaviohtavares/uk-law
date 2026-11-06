@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Regulated buildings: fire safety duties of residents etc.[^key-840bbde11f298669fa7200f319316f8d]
+## 54. Regulated buildings: fire safety duties of residents etc.[^c-840bbde11f298669fa7200f319316f8d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-840bbde11f298669fa7200f319316f8d]: Commencement: S. 54 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-840bbde11f298669fa7200f319316f8d]: Commencement: S. 54 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

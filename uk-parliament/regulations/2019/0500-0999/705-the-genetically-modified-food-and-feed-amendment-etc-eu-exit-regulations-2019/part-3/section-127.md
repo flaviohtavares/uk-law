@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Amendment of Commission Decision [2009/866/EC](https://www.legislation.gov.uk/eud/2009/866)[^key-876fcc26b40b81ab925aa84e6689328e]
+## 127. Amendment of Commission Decision [2009/866/EC](https://www.legislation.gov.uk/eud/2009/866)[^c-876fcc26b40b81ab925aa84e6689328e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision [2009/866/EC](https://www.legislation.gov.uk/eud/2009/866) a
 
 ## Annotations
 
-[^key-876fcc26b40b81ab925aa84e6689328e]: Commencement: Reg. 127 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-876fcc26b40b81ab925aa84e6689328e]: Commencement: Reg. 127 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

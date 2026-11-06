@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Voluntary winding up[^key-b23e58082828e8562a1d402f2ee42b32]
+## 105. Voluntary winding up[^c-b23e58082828e8562a1d402f2ee42b32]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to a private registered provider that is—
 
 - (a) a company,
-- (aa)[^key-c1ae84a87f28e2476303d1e7e3511126] a limited liability partnership,
+- (aa)[^c-c1ae84a87f28e2476303d1e7e3511126] a limited liability partnership,
 - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
 - (c) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) notice of the application has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since that notice was given, or
 - (b) the Regulator of Social Housing has waived the notice requirement in paragraph (a).
 
-(4A)[^key-a9c5a7923370ec9eeba0b1fb62335253] A notice under subsection (4) must—
+(4A)[^c-a9c5a7923370ec9eeba0b1fb62335253] A notice under subsection (4) must—
 
 - (a) be given in writing,
 - (b) be signed by, or on behalf of, the registered provider,
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b23e58082828e8562a1d402f2ee42b32]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2016/22/section/105) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-b23e58082828e8562a1d402f2ee42b32]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2016/22/section/105) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
 
-[^key-c1ae84a87f28e2476303d1e7e3511126]: Textual amendment: [S. 105(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/105/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/6); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
+[^c-c1ae84a87f28e2476303d1e7e3511126]: Textual amendment: [S. 105(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/105/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/6); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
 
-[^key-a9c5a7923370ec9eeba0b1fb62335253]: Textual amendment: [S. 105(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2016/22/section/105/4A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)
+[^c-a9c5a7923370ec9eeba0b1fb62335253]: Textual amendment: [S. 105(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2016/22/section/105/4A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)

@@ -14,13 +14,13 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 3 — EXCLUDED POPULATIONS OF CERTAIN SPECIES[^key-c419866c8af4d0adc705da59164950e2]
+## SCHEDULE 3 — EXCLUDED POPULATIONS OF CERTAIN SPECIES[^c-c419866c8af4d0adc705da59164950e2]
 
 **No longer in force.**
 
 Regulation 42(8)(a)
 
-[^key-c419866c8af4d0adc705da59164950e2]
+[^c-c419866c8af4d0adc705da59164950e2]
 
 | *(1)Common name* | *(2)Scientific name* | *(3) Excluded countries and areas* |
 | --- | --- | --- |
@@ -34,4 +34,4 @@ Regulation 42(8)(a)
 
 ## Annotations
 
-[^key-c419866c8af4d0adc705da59164950e2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/490/schedule/3) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-c419866c8af4d0adc705da59164950e2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/490/schedule/3) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

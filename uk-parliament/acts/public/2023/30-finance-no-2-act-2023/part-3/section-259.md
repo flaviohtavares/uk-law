@@ -23,15 +23,15 @@ summary: ''
 (1) In this Part—
 
 - “**company**” means a body corporate;
-- “[^key-85e0a37aa92eb52c8b1d915705e36f01]**deemed distribution**” has the meaning given by section 215(4)(c);
+- “[^c-85e0a37aa92eb52c8b1d915705e36f01]**deemed distribution**” has the meaning given by section 215(4)(c);
 - “**for accounting purposes**” means for the purposes of accounts drawn up in accordance with acceptable accounting standards;
 - “**held for sale**” has the meaning given by international accounting standards;
 - “**HMRC**” means His Majesty’s Revenue and Customs;
 - “**international financial reporting standards**” or “**international accounting standards**” means those standards as issued or adopted, from time to time, by the International Accounting Standards Board;
 - “**OECD tax model**” means the Model Tax Convention on Income and on Capital published (from time to time) by the Organisation for Economic Co-operation and Development;
 - “**overseas REIT equivalent**” means an entity resident in a territory outside the United Kingdom that is the equivalent of a UK REIT;
-- “[^key-7e56e41a2515a31fff6ba5e4f6a31220]**partnership**” does not include anything that is a body corporate;
-- “**tax treaty**” means an international agreement for, or provision of an international agreement concerned with,[^key-b18136ed1a4573eaadb2aa42493f020f] the avoidance of double taxation with respect to taxes on income and on capital;
+- “[^c-7e56e41a2515a31fff6ba5e4f6a31220]**partnership**” does not include anything that is a body corporate;
+- “**tax treaty**” means an international agreement for, or provision of an international agreement concerned with,[^c-b18136ed1a4573eaadb2aa42493f020f] the avoidance of double taxation with respect to taxes on income and on capital;
 - “**UK REIT**” means—
   - (a) a company UK REIT within the meaning of Part 12 of CTA 2010 (see section 524 of that Act), or
   - (b) a company that is a member of a group UK REIT within the meaning of that Part (see sections 523 and 606 of that Act);
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-85e0a37aa92eb52c8b1d915705e36f01]: Textual amendment: Words in [s. 259(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/259/1) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(11)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/11/a)
+[^c-85e0a37aa92eb52c8b1d915705e36f01]: Textual amendment: Words in [s. 259(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/259/1) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(11)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/11/a)
 
-[^key-7e56e41a2515a31fff6ba5e4f6a31220]: Textual amendment: Words in [s. 259(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/259/1) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/3)
+[^c-7e56e41a2515a31fff6ba5e4f6a31220]: Textual amendment: Words in [s. 259(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/259/1) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/3)
 
-[^key-b18136ed1a4573eaadb2aa42493f020f]: Textual amendment: Words in [s. 259(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/259/1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(11)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/11/b)
+[^c-b18136ed1a4573eaadb2aa42493f020f]: Textual amendment: Words in [s. 259(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/259/1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(11)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/11/b)

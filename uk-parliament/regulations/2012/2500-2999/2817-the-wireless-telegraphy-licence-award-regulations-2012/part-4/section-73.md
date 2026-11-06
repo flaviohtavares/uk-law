@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Assignment of frequencies in respect of the 800 MHz coverage obligation lot[^key-e65c1acc20fdb7e7db6896bd72e57a88]
+## 73. Assignment of frequencies in respect of the 800 MHz coverage obligation lot[^c-e65c1acc20fdb7e7db6896bd72e57a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the 800 MHz coverage obligation lot was included in a winning principal st
 
 ## Annotations
 
-[^key-e65c1acc20fdb7e7db6896bd72e57a88]: Commencement: Reg. 73 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e65c1acc20fdb7e7db6896bd72e57a88]: Commencement: Reg. 73 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

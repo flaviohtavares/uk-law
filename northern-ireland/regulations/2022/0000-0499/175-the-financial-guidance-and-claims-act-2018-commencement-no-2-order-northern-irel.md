@@ -37,11 +37,11 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 37(2) and (3)(c) of the Financial Guidance and Claims Act 2018[^f00001].
 
-## 1. Citation[^key-8ef4d01af1338df70eb679f5a8cd5df8]
+## 1. Citation[^c-8ef4d01af1338df70eb679f5a8cd5df8]
 
 This Order may be cited as the Financial Guidance and Claims Act 2018 (Commencement No. 2) Order (Northern Ireland) 2022.
 
-## 2. Appointed day[^key-ac628582e5a6c05bf585f12c9f804fb2]
+## 2. Appointed day[^c-ac628582e5a6c05bf585f12c9f804fb2]
 
 The day appointed for the coming into operation of section 19(6) to (8) of the Financial Guidance and Claims Act 2018 (occupational pension schemes: requirements to refer members to guidance etc) for all remaining purposes is 1st June 2022.
 
@@ -85,6 +85,6 @@ The following provisions of the Financial Guidance and Claims Act 2018 have been
 
 [^f00001]: Footnote: [2018 c. 10](https://www.legislation.gov.uk/ukpga/2018/10)
 
-[^key-8ef4d01af1338df70eb679f5a8cd5df8]: Commencement: Art. 1 in operation at made date
+[^c-8ef4d01af1338df70eb679f5a8cd5df8]: Commencement: Art. 1 in operation at made date
 
-[^key-ac628582e5a6c05bf585f12c9f804fb2]: Commencement: Art. 2 in operation at made date
+[^c-ac628582e5a6c05bf585f12c9f804fb2]: Commencement: Art. 2 in operation at made date

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9K. Committee system: change to leader and cabinet executive[^key-0a27418dbbfbcb83cdfa768ae38803be]
+## 9K. Committee system: change to leader and cabinet executive[^c-0a27418dbbfbcb83cdfa768ae38803be]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,4 +128,4 @@ Interpretation
 
 ## Annotations
 
-[^key-0a27418dbbfbcb83cdfa768ae38803be]: Textual amendment: [S. 9K](https://www.legislation.gov.uk/ukpga/2000/22/section/9K) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 2(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/2/2) (with [Sch. 29 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/3))
+[^c-0a27418dbbfbcb83cdfa768ae38803be]: Textual amendment: [S. 9K](https://www.legislation.gov.uk/ukpga/2000/22/section/9K) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 2(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/2/2) (with [Sch. 29 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/3))

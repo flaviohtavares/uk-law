@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5D. Granting a project licence[^key-f384459c14b6ded10dae88821049a40e]
+## 5D. Granting a project licence[^c-f384459c14b6ded10dae88821049a40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) The project licence must state what determination the Secretary of State made as to whether and, if so, when the programme of work should be retrospectively assessed under section 5F (see section 5B(3)(h)).
 
-(6) The Secretary of State must publish a copy of the project summary that accompanied the application for the project licence before the end of the period of six months beginning with the day on which the project licence was granted[^key-f6ad9b7596f9c1de6ee329a0c3cdeed4].
+(6) The Secretary of State must publish a copy of the project summary that accompanied the application for the project licence before the end of the period of six months beginning with the day on which the project licence was granted[^c-f6ad9b7596f9c1de6ee329a0c3cdeed4].
 
 (7) But before doing so the Secretary of State must alter the copy so that—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-f6ad9b7596f9c1de6ee329a0c3cdeed4]: Textual amendment: Words in s. 5D(6) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/663/regulation/7)
+[^c-f6ad9b7596f9c1de6ee329a0c3cdeed4]: Textual amendment: Words in s. 5D(6) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/663/regulation/7)

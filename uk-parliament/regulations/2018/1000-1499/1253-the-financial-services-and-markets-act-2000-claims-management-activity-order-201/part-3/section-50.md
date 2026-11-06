@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Compliance with information requirement imposed by the Regulator[^key-ca3ba9fa574da2c04a09f35fc4ef59b3][^key-126b323104898e09b4bb42deceb518cd]
+## 50. Compliance with information requirement imposed by the Regulator[^c-ca3ba9fa574da2c04a09f35fc4ef59b3][^c-126b323104898e09b4bb42deceb518cd]
 
 *Extent: E+W+S*
 
@@ -38,9 +38,9 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3ba9fa574da2c04a09f35fc4ef59b3]: Commencement: Art. 50 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-ca3ba9fa574da2c04a09f35fc4ef59b3]: Commencement: Art. 50 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-126b323104898e09b4bb42deceb518cd]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2018/1253/article/50) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-126b323104898e09b4bb42deceb518cd]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2018/1253/article/50) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00084]: Footnote: The Conduct of Authorised Persons Rules 2018 (https://www.gov.uk/government/publications/claims-management-regulation-conduct-of-authorised-person-rules-2018) are made by the Regulator under regulation 22 of the 2006 Regulations (Rules and Codes of Practice).
 

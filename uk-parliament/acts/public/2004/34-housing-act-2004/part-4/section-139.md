@@ -47,7 +47,7 @@ summary: ''
 - (a) a person having an estate or interest in the HMO concerned, or
 - (b) a person managing or having control of it.
 
-(10)[^key-6be84c30d0ff898d32db8f99833e7678] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+(10)[^c-6be84c30d0ff898d32db8f99833e7678] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 
 (11) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c2057423]: Modification: S. 139 modified (W.) (5.12.2007) by The Houses in [Multiple Occupation (Certain Blocks of Flats) (Modifications to the Housing Act 2004 and Transitional Provisions for section 257 HMOs) (Wales) Regulations 2007 (S.I. 2007/3231)](https://www.legislation.gov.uk/uksi/2007/3231), [reg. 11](https://www.legislation.gov.uk/uksi/2007/3231/regulation/11)
 
-[^key-6be84c30d0ff898d32db8f99833e7678]: Textual amendment: [S. 139(10)](https://www.legislation.gov.uk/ukpga/2004/34/section/139/10)[(11)](https://www.legislation.gov.uk/ukpga/2004/34/section/139/11) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/5); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-6be84c30d0ff898d32db8f99833e7678]: Textual amendment: [S. 139(10)](https://www.legislation.gov.uk/ukpga/2004/34/section/139/10)[(11)](https://www.legislation.gov.uk/ukpga/2004/34/section/139/11) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/5); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)

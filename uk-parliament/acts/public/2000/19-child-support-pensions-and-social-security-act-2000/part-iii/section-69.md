@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may by regulations make provision conferring a power on relevant authorities to make payments by way of financial assistance (“**discretionary housing payments**”) to persons who—
 
-- (a) are entitled to housing benefit or council tax benefit, or to both , universal credit[^key-a81d4041147d3f2e91d1c888570bce68] ; and
+- (a) are entitled to housing benefit or council tax benefit, or to both , universal credit[^c-a81d4041147d3f2e91d1c888570bce68] ; and
 - (b) appear to such an authority to require some further financial assistance (in addition to the benefit or benefits to which they are entitled) in order to meet housing costs.
 
 (2) Regulations under this section may include any of the following—
@@ -59,6 +59,6 @@ summary: ''
 
 [^c18758671]: Commencement: S. 69 wholly in force at 2.7.2001; s. 69 not in force at Royal Assent see. s. 86(2)(3)(a); s. 69 in force for certain purposes at 1.11.2000 by [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 3(a)](https://www.legislation.gov.uk/uksi/2000/2950/article/3/a); s. 69 in force at 2.7.2001 by [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/2/b)
 
-[^key-a81d4041147d3f2e91d1c888570bce68]: Textual amendment: Words in [s. 69(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/69/1/a) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/55); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/21); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
+[^c-a81d4041147d3f2e91d1c888570bce68]: Textual amendment: Words in [s. 69(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/69/1/a) inserted (25.2.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/55); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/21); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
 
 [^c11421851]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).

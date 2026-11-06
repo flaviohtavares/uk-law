@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 250. Notice of declaration[^key-817b9b94c0e29a16a1f06557e8ebc029]
+## 250. Notice of declaration[^c-817b9b94c0e29a16a1f06557e8ebc029]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-817b9b94c0e29a16a1f06557e8ebc029]: Commencement: Rule 250 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-817b9b94c0e29a16a1f06557e8ebc029]: Commencement: Rule 250 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

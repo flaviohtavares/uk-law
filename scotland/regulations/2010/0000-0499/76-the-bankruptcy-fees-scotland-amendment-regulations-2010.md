@@ -34,7 +34,7 @@ Insolvency
 
 Bankruptcy
 
-The Bankruptcy Fees (Scotland) Amendment Regulations 2010 (revoked)[^key-e95721daec4a2b4eebb16442aa3b258c]
+The Bankruptcy Fees (Scotland) Amendment Regulations 2010 (revoked)[^c-e95721daec4a2b4eebb16442aa3b258c]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st April 2010
 
-[^key-e95721daec4a2b4eebb16442aa3b258c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95721daec4a2b4eebb16442aa3b258c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e95721daec4a2b4eebb16442aa3b258c]
+## 1. Citation and commencement[^c-e95721daec4a2b4eebb16442aa3b258c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Bankruptcy Fees (Scotland) Regulations 1993[^key-e95721daec4a2b4eebb16442aa3b258c]
+## 2. Amendment of the Bankruptcy Fees (Scotland) Regulations 1993[^c-e95721daec4a2b4eebb16442aa3b258c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings provision[^key-e95721daec4a2b4eebb16442aa3b258c]
+## 3. Savings provision[^c-e95721daec4a2b4eebb16442aa3b258c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e95721daec4a2b4eebb16442aa3b258c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95721daec4a2b4eebb16442aa3b258c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e95721daec4a2b4eebb16442aa3b258c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95721daec4a2b4eebb16442aa3b258c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e95721daec4a2b4eebb16442aa3b258c]: Textual amendment: Regulations revoked (1.7.2012) by [The Bankruptcy Fees etc. (Scotland) Regulations 2012 (S.S.I. 2012/118)](https://www.legislation.gov.uk/ssi/2012/118), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/118/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/118/schedule/2)
+[^c-e95721daec4a2b4eebb16442aa3b258c]: Textual amendment: Regulations revoked (1.7.2012) by [The Bankruptcy Fees etc. (Scotland) Regulations 2012 (S.S.I. 2012/118)](https://www.legislation.gov.uk/ssi/2012/118), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/118/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/118/schedule/2)

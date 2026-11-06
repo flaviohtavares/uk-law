@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3C. Measures to help a witness to give evidence[^key-94fb76bb47e28bbae501c428f4cab76f][^key-ff68cb7896fcd4e33acdc3bc6ae2e3b6]
+## 3C. Measures to help a witness to give evidence[^c-94fb76bb47e28bbae501c428f4cab76f][^c-ff68cb7896fcd4e33acdc3bc6ae2e3b6]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ summary: ''
   - (iii) any interpreter or other person appointed to assist the witness;
 - (b) by means of a device allowing questions and answers to be communicated to or by the witness despite any disability, disorder or other impairment;
 - (c) allowing the witness to be accompanied, with directions about seating arrangements for the companion; and
-- (d) any other arrangement that the applicant thinks would be desirable to facilitate the giving of evidence by the witness and which the court has power to direct including any special measure that the court can direct by reason of section 49 of the Domestic Abuse Act 2021[^key-bd9b9759dba73c8c45c5359535efed37].
+- (d) any other arrangement that the applicant thinks would be desirable to facilitate the giving of evidence by the witness and which the court has power to direct including any special measure that the court can direct by reason of section 49 of the Domestic Abuse Act 2021[^c-bd9b9759dba73c8c45c5359535efed37].
 
 ## Annotations
 
-[^key-94fb76bb47e28bbae501c428f4cab76f]: Textual amendment: [Rule 3C](https://www.legislation.gov.uk/uksi/1981/552/rule/3C) inserted (7.6.2022) by [The Magistrates’ Courts (Amendment) Rules 2022 (S.I. 2022/523)](https://www.legislation.gov.uk/uksi/2022/523), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/523/rule/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/523/rule/2/2)
+[^c-94fb76bb47e28bbae501c428f4cab76f]: Textual amendment: [Rule 3C](https://www.legislation.gov.uk/uksi/1981/552/rule/3C) inserted (7.6.2022) by [The Magistrates’ Courts (Amendment) Rules 2022 (S.I. 2022/523)](https://www.legislation.gov.uk/uksi/2022/523), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/523/rule/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/523/rule/2/2)
 
-[^key-ff68cb7896fcd4e33acdc3bc6ae2e3b6]: Textual amendment: [Rule 3C](https://www.legislation.gov.uk/uksi/1981/552/rule/3C) heading substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/4/a)
+[^c-ff68cb7896fcd4e33acdc3bc6ae2e3b6]: Textual amendment: [Rule 3C](https://www.legislation.gov.uk/uksi/1981/552/rule/3C) heading substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/4/a)
 
-[^key-bd9b9759dba73c8c45c5359535efed37]: Textual amendment: Words in [rule 3C(2)(d)](https://www.legislation.gov.uk/uksi/1981/552/rule/3C/2/d) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/4/b)
+[^c-bd9b9759dba73c8c45c5359535efed37]: Textual amendment: Words in [rule 3C(2)(d)](https://www.legislation.gov.uk/uksi/1981/552/rule/3C/2/d) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/4/b)

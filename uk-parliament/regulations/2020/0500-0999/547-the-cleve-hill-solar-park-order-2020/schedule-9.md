@@ -22,13 +22,13 @@ summary: ''
 
 Article 35
 
-### 1. Primary objective[^key-e8ef23d6c1c0d12ac14fce2f87207a93]
+### 1. Primary objective[^c-e8ef23d6c1c0d12ac14fce2f87207a93]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the arbitrator is appointed pursuant to article 35 of this Order.
 
 (2) The arbitration will be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-c22058ec393798680697d53338c5025d]
+### 2. Time periods[^c-c22058ec393798680697d53338c5025d]
 
 (1) All time periods in these arbitration rules will be measured in days and this will include weekends, but not bank or public holidays.
 
@@ -37,7 +37,7 @@ Article 35
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-bbab624b7827ccb401448e411465c6e9]
+### 3. Timetable[^c-bbab624b7827ccb401448e411465c6e9]
 
 (1) The timetable for the arbitration will be that set out in sub-paragraphs to below unless amended in accordance with paragraph .
 
@@ -60,7 +60,7 @@ Article 35
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent;
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-36a80c8c2a964acf63734f8243055794]
+### 4. Procedure[^c-36a80c8c2a964acf63734f8243055794]
 
 (1) The parties' pleadings, witness statements and expert reports (if any) will be concise. No single pleading will exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -88,7 +88,7 @@ Article 35
 
 (11) The arbitrator's award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator's powers[^key-982c21ca82550d77340c8c694aba2fe3]
+### 5. Arbitrator's powers[^c-982c21ca82550d77340c8c694aba2fe3]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, including the non-mandatory sections, save where modified by these Rules in this Schedule.
 
@@ -101,7 +101,7 @@ Article 35
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator's fees and expenses.
 
-### 6. Costs[^key-435e0d16a2ecd4f68ab458fd113be277]
+### 6. Costs[^c-435e0d16a2ecd4f68ab458fd113be277]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -111,7 +111,7 @@ Article 35
 
 (4) The arbitrator will award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-ad4af5ff2a146b908b287aeb5a08c9c4]
+### 7. Confidentiality[^c-ad4af5ff2a146b908b287aeb5a08c9c4]
 
 (1) The parties agree that any hearings in this arbitration are to take place in private.
 
@@ -119,16 +119,16 @@ Article 35
 
 ## Annotations
 
-[^key-e8ef23d6c1c0d12ac14fce2f87207a93]: Commencement: Sch. 9 para. 1 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-e8ef23d6c1c0d12ac14fce2f87207a93]: Commencement: Sch. 9 para. 1 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-c22058ec393798680697d53338c5025d]: Commencement: Sch. 9 para. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-c22058ec393798680697d53338c5025d]: Commencement: Sch. 9 para. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-bbab624b7827ccb401448e411465c6e9]: Commencement: Sch. 9 para. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-bbab624b7827ccb401448e411465c6e9]: Commencement: Sch. 9 para. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-36a80c8c2a964acf63734f8243055794]: Commencement: Sch. 9 para. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-36a80c8c2a964acf63734f8243055794]: Commencement: Sch. 9 para. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-982c21ca82550d77340c8c694aba2fe3]: Commencement: Sch. 9 para. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-982c21ca82550d77340c8c694aba2fe3]: Commencement: Sch. 9 para. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-435e0d16a2ecd4f68ab458fd113be277]: Commencement: Sch. 9 para. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-435e0d16a2ecd4f68ab458fd113be277]: Commencement: Sch. 9 para. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-ad4af5ff2a146b908b287aeb5a08c9c4]: Commencement: Sch. 9 para. 7 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-ad4af5ff2a146b908b287aeb5a08c9c4]: Commencement: Sch. 9 para. 7 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

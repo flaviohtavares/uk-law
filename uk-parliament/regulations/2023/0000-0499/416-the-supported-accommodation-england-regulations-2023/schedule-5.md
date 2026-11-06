@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 43(2)
 
-### 1. Modification of section 11 (requirement to register)[^key-13a1e947ecb677ed7a9444eb996e9399]
+### 1. Modification of section 11 (requirement to register)[^c-13a1e947ecb677ed7a9444eb996e9399]
 
 In section 11—
 
@@ -30,7 +30,7 @@ In section 11—
 - (b) in subsection (1), the reference to “an establishment or, as the case may be, agency” is to be read as a reference to a supported accommodation undertaking;
 - (c) in subsection (6)(a), the reference to “the establishment or agency” is to be read as a reference to the supported accommodation undertaking.
 
-### 2. Modification of section 26 (false descriptions of establishments and agencies)[^key-3d068c7d6d04096394b9aa909331f757]
+### 2. Modification of section 26 (false descriptions of establishments and agencies)[^c-3d068c7d6d04096394b9aa909331f757]
 
 In section 26—
 
@@ -44,6 +44,6 @@ In section 26—
 
 ## Annotations
 
-[^key-13a1e947ecb677ed7a9444eb996e9399]: Commencement: Sch. 5 para. 1 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-13a1e947ecb677ed7a9444eb996e9399]: Commencement: Sch. 5 para. 1 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
-[^key-3d068c7d6d04096394b9aa909331f757]: Commencement: Sch. 5 para. 2 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-3d068c7d6d04096394b9aa909331f757]: Commencement: Sch. 5 para. 2 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

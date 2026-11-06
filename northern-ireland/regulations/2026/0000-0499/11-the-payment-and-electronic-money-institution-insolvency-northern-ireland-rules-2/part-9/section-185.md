@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 185. Moving from special administration to dissolution[^key-6f65622565923b304a497d84561e583f]
+## 185. Moving from special administration to dissolution[^c-6f65622565923b304a497d84561e583f]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f65622565923b304a497d84561e583f]: Commencement: [Rule 185](https://www.legislation.gov.uk/nisr/2026/11/rule/185) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6f65622565923b304a497d84561e583f]: Commencement: [Rule 185](https://www.legislation.gov.uk/nisr/2026/11/rule/185) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

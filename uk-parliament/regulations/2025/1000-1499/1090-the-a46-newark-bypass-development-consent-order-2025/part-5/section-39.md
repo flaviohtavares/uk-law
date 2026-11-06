@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Temporary use of land for carrying out the authorised development[^key-bedd7970ca845babab11188c607dbeb9]
+## 39. Temporary use of land for carrying out the authorised development[^c-bedd7970ca845babab11188c607dbeb9]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bedd7970ca845babab11188c607dbeb9]: Commencement: Art. 39 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-bedd7970ca845babab11188c607dbeb9]: Commencement: Art. 39 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00090]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

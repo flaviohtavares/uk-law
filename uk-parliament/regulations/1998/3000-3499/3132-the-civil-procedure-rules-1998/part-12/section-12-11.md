@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.11. Default judgment obtained by making an application[^key-58025b33063689ed195a3510379debea]
+## 12.11. Default judgment obtained by making an application[^c-58025b33063689ed195a3510379debea]
 
 *Extent: E+W*
 
 The claimant must make an application in accordance with Part 23 where—
 
 - (a) the claim is—
-  - (i) a claim[^key-5da812ce7debe2b57eb8213a7cac7f21] against a child or protected party; or
-  - (ii) a claim[^key-dbde76377ba670439e72b35d85bbf5e2] in tort by one spouse or civil partner against the other;
+  - (i) a claim[^c-5da812ce7debe2b57eb8213a7cac7f21] against a child or protected party; or
+  - (ii) a claim[^c-dbde76377ba670439e72b35d85bbf5e2] in tort by one spouse or civil partner against the other;
 - (b) the claimant wishes to obtain a default judgment where the defendant has failed to file an acknowledgment of service—
   - (i) against a defendant who has been served with the claim out of the jurisdiction under rule 6.32(1) or 6.33(2B); (service where permission of the court is not required under the Civil Jurisdiction and Judgments Act 1982);
   - (ii) against a defendant domiciled in Scotland or Northern Ireland;
@@ -34,8 +34,8 @@ The claimant must make an application in accordance with Part 23 where—
 
 ## Annotations
 
-[^key-58025b33063689ed195a3510379debea]: Textual amendment: Pt. 12 substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/101/schedule/2)
+[^c-58025b33063689ed195a3510379debea]: Textual amendment: Pt. 12 substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/101/schedule/2)
 
-[^key-5da812ce7debe2b57eb8213a7cac7f21]: Textual amendment: Words in [rule 12.11(a)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/12.11/a/i) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/10/3)
+[^c-5da812ce7debe2b57eb8213a7cac7f21]: Textual amendment: Words in [rule 12.11(a)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/12.11/a/i) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/10/3)
 
-[^key-dbde76377ba670439e72b35d85bbf5e2]: Textual amendment: Words in [rule 12.11(a)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/12.11/a/ii) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/10/3)
+[^c-dbde76377ba670439e72b35d85bbf5e2]: Textual amendment: Words in [rule 12.11(a)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/12.11/a/ii) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/10/3)

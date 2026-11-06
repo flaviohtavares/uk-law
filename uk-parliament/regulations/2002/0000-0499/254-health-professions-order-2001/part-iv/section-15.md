@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Education and Training[^key-4ebf467930ce3bc018c5838bafd6a671][^key-8b9814fce58156eaf3ea375acbcfd4e2]
+## 15. Education and Training[^c-4ebf467930ce3bc018c5838bafd6a671][^c-8b9814fce58156eaf3ea375acbcfd4e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The standards mentioned in paragraph (1)(a) shall include such matters as the outcomes to be achieved by that education and training.
 
-(3)[^key-702741294a218d2348a785bd5046ac32] Before establishing the standards or requirements referred to in paragraph (1) the Council shall consult such of those persons mentioned in article 3(14) as it considers appropriate and the Education and Training Committee.
+(3)[^c-702741294a218d2348a785bd5046ac32] Before establishing the standards or requirements referred to in paragraph (1) the Council shall consult such of those persons mentioned in article 3(14) as it considers appropriate and the Education and Training Committee.
 
 (4) The Education and Training Committee shall—
 
@@ -41,7 +41,7 @@ summary: ''
 - (c) institutions which the Committee considers to be properly organised and equipped for conducting the whole or part of an approved course of education or training;
 - (d) such tests of competence or knowledge of English as it may require.
 
-(5A)[^key-e5174912084436cc3e036ef3c1061a21] If the Council requires a specified state professional to undergo a test of competence or knowledge of English, the test must be proportionate to the level required to satisfy the standards under this article.
+(5A)[^c-e5174912084436cc3e036ef3c1061a21] If the Council requires a specified state professional to undergo a test of competence or knowledge of English, the test must be proportionate to the level required to satisfy the standards under this article.
 
 (6) In connection with paragraph (5), the Committee may approve or arrange with others to approve a course of education or training run outside the United Kingdom by an institution to which paragraph 5(c) applies.
 
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4ebf467930ce3bc018c5838bafd6a671]: Commencement: Art. 15 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-4ebf467930ce3bc018c5838bafd6a671]: Commencement: Art. 15 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-8b9814fce58156eaf3ea375acbcfd4e2]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2002/254/article/15) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-8b9814fce58156eaf3ea375acbcfd4e2]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2002/254/article/15) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-702741294a218d2348a785bd5046ac32]: Commencement: [Art. 15(3)](https://www.legislation.gov.uk/uksi/2002/254/article/15/3) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-702741294a218d2348a785bd5046ac32]: Commencement: [Art. 15(3)](https://www.legislation.gov.uk/uksi/2002/254/article/15/3) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-e5174912084436cc3e036ef3c1061a21]: Textual amendment: [Art. 15(5A)](https://www.legislation.gov.uk/uksi/2002/254/article/15/5A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 74](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/74)
+[^c-e5174912084436cc3e036ef3c1061a21]: Textual amendment: [Art. 15(5A)](https://www.legislation.gov.uk/uksi/2002/254/article/15/5A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 74](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/74)

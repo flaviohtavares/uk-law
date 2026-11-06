@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Restrictions on disclosure of information[^key-ad57a0f6dc1f1a1a43f81d88e444d95f]
+## 285. Restrictions on disclosure of information[^c-ad57a0f6dc1f1a1a43f81d88e444d95f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad57a0f6dc1f1a1a43f81d88e444d95f]: Textual amendment: [Art. 285](https://www.legislation.gov.uk/uksi/2001/3649/article/285) revoked (20.6.2003) by [The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Amendment and Specification) Order 2003 (S.I. 2003/1400)](https://www.legislation.gov.uk/uksi/2003/1400), [art. 1](https://www.legislation.gov.uk/uksi/2003/1400/article/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1400/schedule/5)
+[^c-ad57a0f6dc1f1a1a43f81d88e444d95f]: Textual amendment: [Art. 285](https://www.legislation.gov.uk/uksi/2001/3649/article/285) revoked (20.6.2003) by [The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Amendment and Specification) Order 2003 (S.I. 2003/1400)](https://www.legislation.gov.uk/uksi/2003/1400), [art. 1](https://www.legislation.gov.uk/uksi/2003/1400/article/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1400/schedule/5)

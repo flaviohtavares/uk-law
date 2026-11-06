@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency, England And Wales
 
-The Insolvency (Amendment) (No. 2) Rules 2016 (revoked)[^key-8c45b521f70c3ce011b95cb1a0bc6024]
+The Insolvency (Amendment) (No. 2) Rules 2016 (revoked)[^c-8c45b521f70c3ce011b95cb1a0bc6024]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 3rd October 2016
 
-[^key-8c45b521f70c3ce011b95cb1a0bc6024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c45b521f70c3ce011b95cb1a0bc6024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8c45b521f70c3ce011b95cb1a0bc6024]
+## 1. Citation, commencement and interpretation[^c-8c45b521f70c3ce011b95cb1a0bc6024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 1986 Rules[^key-8c45b521f70c3ce011b95cb1a0bc6024]
+## 2. Amendments to the 1986 Rules[^c-8c45b521f70c3ce011b95cb1a0bc6024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8c45b521f70c3ce011b95cb1a0bc6024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8c45b521f70c3ce011b95cb1a0bc6024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8c45b521f70c3ce011b95cb1a0bc6024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8c45b521f70c3ce011b95cb1a0bc6024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8c45b521f70c3ce011b95cb1a0bc6024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8c45b521f70c3ce011b95cb1a0bc6024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional Provision[^key-8c45b521f70c3ce011b95cb1a0bc6024]
+## 6. Transitional Provision[^c-8c45b521f70c3ce011b95cb1a0bc6024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c45b521f70c3ce011b95cb1a0bc6024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c45b521f70c3ce011b95cb1a0bc6024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be inserted into the 1986 Rules[^key-8c45b521f70c3ce011b95cb1a0bc6024]
+## SCHEDULE — Schedule to be inserted into the 1986 Rules[^c-8c45b521f70c3ce011b95cb1a0bc6024]
 
 Rule 5
 
-> **SCHEDULE 2D — Destination of appeals from decisions of district judges in insolvency matters[^key-8c45b521f70c3ce011b95cb1a0bc6024]**
+> **SCHEDULE 2D — Destination of appeals from decisions of district judges in insolvency matters[^c-8c45b521f70c3ce011b95cb1a0bc6024]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8c45b521f70c3ce011b95cb1a0bc6024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c45b521f70c3ce011b95cb1a0bc6024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c45b521f70c3ce011b95cb1a0bc6024]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/903) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-8c45b521f70c3ce011b95cb1a0bc6024]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/903) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

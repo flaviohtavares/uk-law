@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269B. Meaning of “banking company”[^key-bb25037da6ed84a2d6df1957eda005ec]
+## 269B. Meaning of “banking company”[^c-bb25037da6ed84a2d6df1957eda005ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,19 +39,19 @@ In subsections (4) to (6) “**the relevant entity**” means the company or the
 
 (4) Condition C is that, at any time during the accounting period, the relevant entity is an authorised person for the purposes of FISMA 2000 (see section 31 of that Act).
 
-(5)[^key-5485836ea2d40ca8cd77bb431312796d] Condition D is that, at any time in the accounting period—
+(5)[^c-5485836ea2d40ca8cd77bb431312796d] Condition D is that, at any time in the accounting period—
 
 - (a) the relevant entity's activities include the relevant regulated activity described in the provision mentioned in section 269BB(a), or
 - (b) the relevant entity is an investment bank (see subsection (6A)) whose activities consist wholly or mainly of any of the relevant regulated activities described in the provisions mentioned in section 269BB(b) to (f).
 
 (6) Condition E is that the relevant entity carries on that relevant regulated activity, or those relevant regulated activities, wholly or mainly in the course of trade.
 
-(6A)[^key-ae7298cd60107f9096a1f181de1cd0ec] The relevant entity is an “investment bank” if—
+(6A)[^c-ae7298cd60107f9096a1f181de1cd0ec] The relevant entity is an “investment bank” if—
 
-- (a)[^key-bc12588ae4bb96b70a5fb492a820aa39] it is an FCA investment firm that meets the conditions in subsection (6B), or
+- (a)[^c-bc12588ae4bb96b70a5fb492a820aa39] it is an FCA investment firm that meets the conditions in subsection (6B), or
 - (b) it is designated by the Prudential Regulation Authority under article 3 of the Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013 (S.I. 2013/556) (dealing in investments as principal: designation by PRA).
 
-(6B)[^key-ba614a64355314def2d26d09a4efbfc5] An FCA investment firm meets the conditions in this subsection if it has a permanent minimum capital requirement of £750,000 and is not—
+(6B)[^c-ba614a64355314def2d26d09a4efbfc5] An FCA investment firm meets the conditions in this subsection if it has a permanent minimum capital requirement of £750,000 and is not—
 
 - (a) a limited activity firm,
 - (b) a limited licence firm,
@@ -84,12 +84,12 @@ In subsections (4) to (6) “**the relevant entity**” means the company or the
 
 ## Annotations
 
-[^key-bb25037da6ed84a2d6df1957eda005ec]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 para. 7-9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/1)
+[^c-bb25037da6ed84a2d6df1957eda005ec]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 para. 7-9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/1)
 
-[^key-5485836ea2d40ca8cd77bb431312796d]: Textual amendment: S. 269B(5) substituted (retrospective to 26.3.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(9)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/9)[(10)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/10/a)
+[^c-5485836ea2d40ca8cd77bb431312796d]: Textual amendment: S. 269B(5) substituted (retrospective to 26.3.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(9)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/9)[(10)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/10/a)
 
-[^key-ae7298cd60107f9096a1f181de1cd0ec]: Textual amendment: S. 269B(6A) inserted (retrospective to 26.3.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(9)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/9)[(10)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/10/b)
+[^c-ae7298cd60107f9096a1f181de1cd0ec]: Textual amendment: S. 269B(6A) inserted (retrospective to 26.3.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(9)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/9)[(10)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/10/b)
 
-[^key-bc12588ae4bb96b70a5fb492a820aa39]: Textual amendment: [S. 269B(6A)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/269B/6A/a) substituted (5.4.2022 with application in relation to any accounting period beginning on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/6), [7(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/7/2)
+[^c-bc12588ae4bb96b70a5fb492a820aa39]: Textual amendment: [S. 269B(6A)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/269B/6A/a) substituted (5.4.2022 with application in relation to any accounting period beginning on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/6), [7(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/7/2)
 
-[^key-ba614a64355314def2d26d09a4efbfc5]: Textual amendment: [S. 269B(6B)-(6D)](https://www.legislation.gov.uk/ukpga/2010/4/section/269B/6B) inserted (5.4.2022 with application in relation to any accounting period beginning on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/6), [7(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/7/3)
+[^c-ba614a64355314def2d26d09a4efbfc5]: Textual amendment: [S. 269B(6B)-(6D)](https://www.legislation.gov.uk/ukpga/2010/4/section/269B/6B) inserted (5.4.2022 with application in relation to any accounting period beginning on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/6), [7(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/7/3)

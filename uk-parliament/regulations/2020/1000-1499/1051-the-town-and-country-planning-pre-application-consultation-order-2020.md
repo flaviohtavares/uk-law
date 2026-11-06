@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Pre-application Consultation) Order 2020 (revoked)[^key-e750f035c77d5e0ca771518a8153ff89]
+The Town and Country Planning (Pre-application Consultation) Order 2020 (revoked)[^c-e750f035c77d5e0ca771518a8153ff89]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 21st October 2020
 
-[^key-e750f035c77d5e0ca771518a8153ff89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e750f035c77d5e0ca771518a8153ff89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e750f035c77d5e0ca771518a8153ff89]
+## 1. Citation and commencement[^c-e750f035c77d5e0ca771518a8153ff89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of the time during which the pre-application consultation provisions are to have effect[^key-e750f035c77d5e0ca771518a8153ff89]
+## 2. Extension of the time during which the pre-application consultation provisions are to have effect[^c-e750f035c77d5e0ca771518a8153ff89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e750f035c77d5e0ca771518a8153ff89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e750f035c77d5e0ca771518a8153ff89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e750f035c77d5e0ca771518a8153ff89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e750f035c77d5e0ca771518a8153ff89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e750f035c77d5e0ca771518a8153ff89]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/1051) revoked (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/453/regulation/5)
+[^c-e750f035c77d5e0ca771518a8153ff89]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/1051) revoked (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/453/regulation/5)

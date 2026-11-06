@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Saving for Trinity House[^key-0ff0f816312b5dc81e57b56a8006a5e0]
+## 40. Saving for Trinity House[^c-0ff0f816312b5dc81e57b56a8006a5e0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-0ff0f816312b5dc81e57b56a8006a5e0]: Commencement: Art. 40 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-0ff0f816312b5dc81e57b56a8006a5e0]: Commencement: Art. 40 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Amendment to regulation 186[^key-65dbddad6423e811eddd577b44813129]
+## 78. Amendment to regulation 186[^c-65dbddad6423e811eddd577b44813129]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ In regulation 186(1) (reporting obligations on the licensing authority)[^f00088]
 
 ## Annotations
 
-[^key-65dbddad6423e811eddd577b44813129]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2024/832/regulation/78) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-65dbddad6423e811eddd577b44813129]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2024/832/regulation/78) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00088]: Footnote: Paragraph (1) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Amendment of regulation G8[^key-e3f19abe50994d0100206db5337f30c0]
+## 24. Amendment of regulation G8[^c-e3f19abe50994d0100206db5337f30c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In paragraph (6) of regulation G8 (dependent widower’s pension) after “regul
 
 ## Annotations
 
-[^key-e3f19abe50994d0100206db5337f30c0]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-e3f19abe50994d0100206db5337f30c0]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

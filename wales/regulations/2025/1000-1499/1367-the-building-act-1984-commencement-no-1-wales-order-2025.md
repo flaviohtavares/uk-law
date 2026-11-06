@@ -37,11 +37,11 @@ Made
 
 The Welsh Ministers make the following Order in exercise of the powers conferred on them by sections 120(1) and 134(1)(b) of the Building Act 1984[^f00001].
 
-## 1. Title[^key-8f671cfa48e30d7750eae9e2f7a0bdda]
+## 1. Title[^c-8f671cfa48e30d7750eae9e2f7a0bdda]
 
 The title of this Order is the Building Act 1984 (Commencement No. 1) (Wales) Order 2025.
 
-## 2. Provision coming into force on 1 July 2026[^key-25103415e273518d1879cf1cfd7e9b2b]
+## 2. Provision coming into force on 1 July 2026[^c-25103415e273518d1879cf1cfd7e9b2b]
 
 Section 33 of the Building Act 1984[^f00002] (tests for conformity with building regulations) comes into force on 1 July 2026.
 
@@ -73,8 +73,8 @@ The following provisions of the Act have been brought into force in relation to 
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 120 is amended by paragraph 76 and section 134 is amended by paragraph 82 of Schedule 5 to the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30) (“**the 2022 Act**”). By virtue of section 134(1A) of the Building Act 1984 the reference to the Secretary of State in section 134(1) is to be read as a reference to the Welsh Ministers.
 
-[^key-8f671cfa48e30d7750eae9e2f7a0bdda]: Commencement: Art. 1 in force at made date
+[^c-8f671cfa48e30d7750eae9e2f7a0bdda]: Commencement: Art. 1 in force at made date
 
-[^key-25103415e273518d1879cf1cfd7e9b2b]: Commencement: Art. 2 in force at made date
+[^c-25103415e273518d1879cf1cfd7e9b2b]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: Section 33 is amended by paragraph 30 of Schedule 5 to the 2022 Act.

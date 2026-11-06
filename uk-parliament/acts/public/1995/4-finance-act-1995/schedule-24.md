@@ -78,7 +78,7 @@ Section 130.
 
 (2)[^c15675481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f47f2f77fac673bd824c6ac4321a1ab0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f47f2f77fac673bd824c6ac4321a1ab0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c15675481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,4 +110,4 @@ Section 130.
 
 [^c15675481]: Textual amendment: Sch. 24 para. 12(1)(2)(4)(5) repealed (31.7.1998 with effect as mentioned in [Sch. 3](https://www.legislation.gov.uk/ukpga/1998/36/schedule/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/2) Note
 
-[^key-f47f2f77fac673bd824c6ac4321a1ab0]: Textual amendment: [Sch. 24 para. 12(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/24/paragraph/12/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f47f2f77fac673bd824c6ac4321a1ab0]: Textual amendment: [Sch. 24 para. 12(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/24/paragraph/12/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

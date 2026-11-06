@@ -48,17 +48,17 @@ Coming into force
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997 [^c24453101] to make rules under section 1 of and Schedule 1 to that Act and after fulfilling the requirements of section 2(6) of that Act, makes the following Rules.
 
-## 1. Citation, commencement and interpretation[^key-104d8e38dee9df1a7657b15889c143e0]
+## 1. Citation, commencement and interpretation[^c-104d8e38dee9df1a7657b15889c143e0]
 
 (1) These Rules may be cited as the Civil Procedure (Amendment No. 2) Rules 2021 and come into force on 31st May 2021.
 
 (2) In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998 [^c24453111].
 
-## 2. Amendments to the Civil Procedure Rules 1998[^key-e22f480febd163dbf547a20669e49fa2]
+## 2. Amendments to the Civil Procedure Rules 1998[^c-e22f480febd163dbf547a20669e49fa2]
 
 The Civil Procedure Rules 1998 are amended in accordance with rules 3 to 9 of these Rules.
 
-## 3. Amendment of Part 14[^key-3a0ba18a2d07ad303e92c828cdb23253]
+## 3. Amendment of Part 14[^c-3a0ba18a2d07ad303e92c828cdb23253]
 
 (1) In the list of contents at the beginning of Part 14, for the entry in the first column for rule 14.1B, substitute— “ Admissions made under the RTA Protocol, the EL/PL Protocol or the RTA Small Claims Protocol ”.
 
@@ -74,7 +74,7 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 3 to 9 of th
 
   .
 
-## 4. Amendment of Part 16[^key-9e4f1289f52339e3468c5c782605e504]
+## 4. Amendment of Part 16[^c-9e4f1289f52339e3468c5c782605e504]
 
 In rule 16.3—
 
@@ -95,7 +95,7 @@ In rule 16.3—
 
   .
 
-## 5. Amendment of Part 26[^key-c5210d975df21e12fc232ecf30e25412]
+## 5. Amendment of Part 26[^c-c5210d975df21e12fc232ecf30e25412]
 
 (1) In the list of contents at the beginning of Part 26, after the entry for rule 26.6, insert—
 
@@ -187,21 +187,21 @@ In rule 16.3—
 
 (6) In rule 26.7, for “under rule 26.6”, substitute “ under rules 26.6, 26.6A or 26.6B ”.
 
-## 6. Amendment of Part 27[^key-f44358991dc8c750fc2fa6891c8b2001]
+## 6. Amendment of Part 27[^c-f44358991dc8c750fc2fa6891c8b2001]
 
-In rule 27.2[^key-1c17f347ad454d6bff77fb4ee31444e2]...—
+In rule 27.2[^c-1c17f347ad454d6bff77fb4ee31444e2]...—
 
 - (a) in paragraph (2), after “to the extent that a rule”, insert “ or a practice direction under this Part ”; and
 - (b) after paragraph (2), insert—
 
-  > (2A) A rule or practice direction may, in relation to a specified type of small claim[^key-3a4ce532a026c2df32dcdba5d344ed98] —
+  > (2A) A rule or practice direction may, in relation to a specified type of small claim[^c-3a4ce532a026c2df32dcdba5d344ed98] —
   >
   > - (a) require or permit the use of the procedure set out in this Part; and
-  > - (b) disapply or modify any of the rules set out in this Part [^key-8eeeeead75ae421bb0a495ae2c059e16]....
+  > - (b) disapply or modify any of the rules set out in this Part [^c-8eeeeead75ae421bb0a495ae2c059e16]....
 
   .
 
-## 7. Amendment of Part 35[^key-368ab1a2b6fd55e8066e9d8958217803]
+## 7. Amendment of Part 35[^c-368ab1a2b6fd55e8066e9d8958217803]
 
 In rule 35.4—
 
@@ -242,7 +242,7 @@ In rule 35.4—
 
   .
 
-## 8. Amendment of Part 45[^key-0ce54418c94c2879641a7b3f2cdae74d]
+## 8. Amendment of Part 45[^c-0ce54418c94c2879641a7b3f2cdae74d]
 
 (1) In the list of contents to this Part, after the entry for rule 45.29L, insert—
 
@@ -307,7 +307,7 @@ In rule 35.4—
 
 .
 
-## 9. Amendment of Part 46[^key-484ab9bc6850bdf33fb1b01631d15eb9]
+## 9. Amendment of Part 46[^c-484ab9bc6850bdf33fb1b01631d15eb9]
 
 In rule 46.14, after paragraph (1), insert—
 
@@ -390,32 +390,32 @@ These rules amend the Civil Procedure Rules by—
 
 [^c24453101]: Marginal citation: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15) and Schedule 4, Part 1. Section 1(3) was substituted by section 82(1) of the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005, sections 15 and 146 and Schedule 4, Part 1, paragraphs 261 and 262 and Schedule 18. Section 1(1) was amended by the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 17(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/5) and Schedule 9, Part 3, paragraph 67(a).
 
-[^key-104d8e38dee9df1a7657b15889c143e0]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2021/196/rule/1) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-104d8e38dee9df1a7657b15889c143e0]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2021/196/rule/1) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
 [^c24453111]: Marginal citation: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). There are relevant amendments in [S.I. 2008/3327](https://www.legislation.gov.uk/uksi/2008/3327), [S.I](https://www.legislation.gov.uk/uksi/2008/3327/section/I). 2010/621, [S.I. 2013/262](https://www.legislation.gov.uk/uksi/2013/262), [S.I](https://www.legislation.gov.uk/uksi/2013/262/section/I). 2014/2044 and [S.I. 2014/3299](https://www.legislation.gov.uk/uksi/2014/3299).
 
-[^key-e22f480febd163dbf547a20669e49fa2]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2021/196/rule/2) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-e22f480febd163dbf547a20669e49fa2]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2021/196/rule/2) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
-[^key-3a0ba18a2d07ad303e92c828cdb23253]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2021/196/rule/3) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-3a0ba18a2d07ad303e92c828cdb23253]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2021/196/rule/3) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
-[^key-9e4f1289f52339e3468c5c782605e504]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2021/196/rule/4) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-9e4f1289f52339e3468c5c782605e504]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2021/196/rule/4) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
-[^key-c5210d975df21e12fc232ecf30e25412]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2021/196/rule/5) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-c5210d975df21e12fc232ecf30e25412]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2021/196/rule/5) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
 [^c24453121]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Which has been amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [sections 116](https://www.legislation.gov.uk/ukpga/1975/71/section/116) and 125(3), Schedule 15, paragraph 18, the [Consumer Protection Act 1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43), [section 36](https://www.legislation.gov.uk/ukpga/1987/43/section/36), [Schedule 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/3), [S.I](https://www.legislation.gov.uk/ukpga/1987/43/section/I). 2008/960, articles 3 and 17(a) and (b), the [Police (Health And Safety) Act 1997 (c. 42)](https://www.legislation.gov.uk/ukpga/1997/42), [section 6(1)](https://www.legislation.gov.uk/ukpga/1997/42/section/6/1), the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [sections 22(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/3) and 66(8), Schedule 9, paragraph 9 and Schedule 18, the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [section 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Schedule 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17), the [Local Government etc (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [section 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Schedule 13 paragraph 93(3)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/93/3), the [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32) section 116, Schedule 12, Part 1, paragraphs 1 and 12(a), (b) and (c), and the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [section 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2), [Schedule 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/3), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/2005/14/paragraph/15/3).
 
 [^c24453131]: Marginal citation: As to the meaning of which, see references to “Class 1, 2 and 3 invalid carriages”, in regulation 3 of the Use of Invalid Carriages on [Highways Regulations 1988 (S.I. 1988/2268)](https://www.legislation.gov.uk/uksi/1988/2268).
 
-[^key-f44358991dc8c750fc2fa6891c8b2001]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2021/196/rule/6) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-f44358991dc8c750fc2fa6891c8b2001]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2021/196/rule/6) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
-[^key-1c17f347ad454d6bff77fb4ee31444e2]: Textual amendment: Words in [rule 6](https://www.legislation.gov.uk/uksi/2021/196/rule/6) omitted (27.5.2021) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/2), [4(a)](https://www.legislation.gov.uk/uksi/2021/553/rule/4/a)
+[^c-1c17f347ad454d6bff77fb4ee31444e2]: Textual amendment: Words in [rule 6](https://www.legislation.gov.uk/uksi/2021/196/rule/6) omitted (27.5.2021) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/2), [4(a)](https://www.legislation.gov.uk/uksi/2021/553/rule/4/a)
 
-[^key-3a4ce532a026c2df32dcdba5d344ed98]: Textual amendment: Words in [rule 6(b)](https://www.legislation.gov.uk/uksi/2021/196/rule/6/b) substituted (27.5.2021) by [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2021/553/rule/4/b/i)
+[^c-3a4ce532a026c2df32dcdba5d344ed98]: Textual amendment: Words in [rule 6(b)](https://www.legislation.gov.uk/uksi/2021/196/rule/6/b) substituted (27.5.2021) by [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2021/553/rule/4/b/i)
 
-[^key-8eeeeead75ae421bb0a495ae2c059e16]: Textual amendment: Words in [rule 6(b)](https://www.legislation.gov.uk/uksi/2021/196/rule/6/b) omitted (27.5.2021) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2021/553/rule/4/b/ii)
+[^c-8eeeeead75ae421bb0a495ae2c059e16]: Textual amendment: Words in [rule 6(b)](https://www.legislation.gov.uk/uksi/2021/196/rule/6/b) omitted (27.5.2021) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2021/553/rule/4/b/ii)
 
-[^key-368ab1a2b6fd55e8066e9d8958217803]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2021/196/rule/7) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-368ab1a2b6fd55e8066e9d8958217803]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2021/196/rule/7) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
-[^key-0ce54418c94c2879641a7b3f2cdae74d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2021/196/rule/8) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-0ce54418c94c2879641a7b3f2cdae74d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2021/196/rule/8) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
 
-[^key-484ab9bc6850bdf33fb1b01631d15eb9]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2021/196/rule/9) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)
+[^c-484ab9bc6850bdf33fb1b01631d15eb9]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2021/196/rule/9) in force at 31.5.2021, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1)

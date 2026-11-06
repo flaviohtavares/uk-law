@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 557. Revenue restrictions[^key-c0e9bd369bf83c2c550d366a6896f913]
+## 557. Revenue restrictions[^c-c0e9bd369bf83c2c550d366a6896f913]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 1(1) of Schedule 4 to the Local Government Pension Scheme Regulatio
 
 ## Annotations
 
-[^key-c0e9bd369bf83c2c550d366a6896f913]: Commencement: Art. 557 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c0e9bd369bf83c2c550d366a6896f913]: Commencement: Art. 557 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00354]: Footnote: The definition was amended by [S.I. 1997/954](https://www.legislation.gov.uk/uksi/1997/954) and [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613).

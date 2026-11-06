@@ -31,7 +31,7 @@ summary: ''
 
 WATER RESOURCES, ENGLAND AND WALES
 
-The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003 (revoked)[^key-c25596ec86880c37654bf58c8b2342ec]
+The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003 (revoked)[^c-c25596ec86880c37654bf58c8b2342ec]
 
 Made
 
@@ -45,178 +45,178 @@ Coming into force
 
 2nd January 2004
 
-[^key-c25596ec86880c37654bf58c8b2342ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c25596ec86880c37654bf58c8b2342ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, extent and application[^key-c25596ec86880c37654bf58c8b2342ec]
+## 1. Title, commencement, extent and application[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c25596ec86880c37654bf58c8b2342ec]
+## 2. Interpretation[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The general duties[^key-c25596ec86880c37654bf58c8b2342ec]
+## 3. The general duties[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. River basin districts[^key-c25596ec86880c37654bf58c8b2342ec]
+## 4. River basin districts[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Characterisation of river basin districts[^key-c25596ec86880c37654bf58c8b2342ec]
+## 5. Characterisation of river basin districts[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Economic analysis of water use in river basin districts[^key-c25596ec86880c37654bf58c8b2342ec]
+## 6. Economic analysis of water use in river basin districts[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Bodies of water used for the abstraction of drinking water[^key-c25596ec86880c37654bf58c8b2342ec]
+## 7. Bodies of water used for the abstraction of drinking water[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Designation of shellfish waters[^key-c25596ec86880c37654bf58c8b2342ec]
+## 7A. Designation of shellfish waters[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Register of protected areas[^key-c25596ec86880c37654bf58c8b2342ec]
+## 8. Register of protected areas[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Monitoring[^key-c25596ec86880c37654bf58c8b2342ec]
+## 9. Monitoring[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Environmental objectives and programmes of measures[^key-c25596ec86880c37654bf58c8b2342ec]
+## 10. Environmental objectives and programmes of measures[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10A. Further programmes of measures in relation to certain priority substances[^key-c25596ec86880c37654bf58c8b2342ec]
+## 10A. Further programmes of measures in relation to certain priority substances[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. River basin management plans[^key-c25596ec86880c37654bf58c8b2342ec]
+## 11. River basin management plans[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. River basin management plans: public participation[^key-c25596ec86880c37654bf58c8b2342ec]
+## 12. River basin management plans: public participation[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. River basin management plans: submission for approval[^key-c25596ec86880c37654bf58c8b2342ec]
+## 13. River basin management plans: submission for approval[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. River basin management plans: approval[^key-c25596ec86880c37654bf58c8b2342ec]
+## 14. River basin management plans: approval[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. River basin management plans: review[^key-c25596ec86880c37654bf58c8b2342ec]
+## 15. River basin management plans: review[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Supplementary plans[^key-c25596ec86880c37654bf58c8b2342ec]
+## 16. Supplementary plans[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Duty to have regard to river basin management plans and supplementary plans[^key-c25596ec86880c37654bf58c8b2342ec]
+## 17. Duty to have regard to river basin management plans and supplementary plans[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Publication of information[^key-c25596ec86880c37654bf58c8b2342ec]
+## 18. Publication of information[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18A. Coordination[^key-c25596ec86880c37654bf58c8b2342ec]
+## 18A. Coordination[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Provision of information and assistance[^key-c25596ec86880c37654bf58c8b2342ec]
+## 19. Provision of information and assistance[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Directions and guidance to public bodies[^key-c25596ec86880c37654bf58c8b2342ec]
+## 20. Directions and guidance to public bodies[^c-c25596ec86880c37654bf58c8b2342ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c25596ec86880c37654bf58c8b2342ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c25596ec86880c37654bf58c8b2342ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DIRECTIVE DEFINITIONS[^key-c25596ec86880c37654bf58c8b2342ec]
+## SCHEDULE 1 — DIRECTIVE DEFINITIONS[^c-c25596ec86880c37654bf58c8b2342ec]
 
 Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ENACTMENTS IN RELATION TO WHICH DUTIES IN REGULATION 3 APPLY[^key-c25596ec86880c37654bf58c8b2342ec]
+## SCHEDULE 2 — ENACTMENTS IN RELATION TO WHICH DUTIES IN REGULATION 3 APPLY[^c-c25596ec86880c37654bf58c8b2342ec]
 
 Regulation 3(3)
 
-### PART 1 — STATUTES[^key-c25596ec86880c37654bf58c8b2342ec]
+### PART 1 — STATUTES[^c-c25596ec86880c37654bf58c8b2342ec]
 
-**1.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Subordinate instruments[^key-c25596ec86880c37654bf58c8b2342ec]
+### PART 2 — Subordinate instruments[^c-c25596ec86880c37654bf58c8b2342ec]
 
-**10.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-c25596ec86880c37654bf58c8b2342ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c25596ec86880c37654bf58c8b2342ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c25596ec86880c37654bf58c8b2342ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c25596ec86880c37654bf58c8b2342ec]: Textual amendment: Regulations revoked (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), regs. 1(a), [37](https://www.legislation.gov.uk/uksi/2017/407/regulation/37) (with [regs. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c), [38](https://www.legislation.gov.uk/uksi/2017/407/regulation/38))
+[^c-c25596ec86880c37654bf58c8b2342ec]: Textual amendment: Regulations revoked (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), regs. 1(a), [37](https://www.legislation.gov.uk/uksi/2017/407/regulation/37) (with [regs. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c), [38](https://www.legislation.gov.uk/uksi/2017/407/regulation/38))

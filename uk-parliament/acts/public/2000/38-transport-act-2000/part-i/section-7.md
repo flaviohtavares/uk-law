@@ -41,11 +41,11 @@ and any of those persons may be the licence authority or some other person.
 - (a) of an amount or amounts specified in the licence or determined by or under it;
 - (b) to a person or persons specified in the licence or determined by or under it.
 
-(5)[^key-f696c60010a3e605a386956d222d2c28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f696c60010a3e605a386956d222d2c28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Such provisions as the licence authority thinks fit may be expressed as conditions.
 
-(6A)[^key-86d6cf71d289d15750e3e22fed000b3e] A licence condition may include provision for its modification only if it specifies or describes—
+(6A)[^c-86d6cf71d289d15750e3e22fed000b3e] A licence condition may include provision for its modification only if it specifies or describes—
 
 - (a) the circumstances in which it may be modified,
 - (b) the types of modification that may be made, and
@@ -61,6 +61,6 @@ and any of those persons may be the licence authority or some other person.
 
 [^c14878571]: Commencement: S. 7 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-f696c60010a3e605a386956d222d2c28]: Textual amendment: S. 7(5) omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/1/2); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-f696c60010a3e605a386956d222d2c28]: Textual amendment: S. 7(5) omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/1/2); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
-[^key-86d6cf71d289d15750e3e22fed000b3e]: Textual amendment: S. 7(6A)-(6C) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/1/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-86d6cf71d289d15750e3e22fed000b3e]: Textual amendment: S. 7(6A)-(6C) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/1/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Transitional[^key-0b3c335589d928a0fcfa59b57c9aae0b]
+## 98. Transitional[^c-0b3c335589d928a0fcfa59b57c9aae0b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3c335589d928a0fcfa59b57c9aae0b]: Commencement: [Art. 98](https://www.legislation.gov.uk/nisi/2015/2006/article/98) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(f)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/f)
+[^c-0b3c335589d928a0fcfa59b57c9aae0b]: Commencement: [Art. 98](https://www.legislation.gov.uk/nisi/2015/2006/article/98) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(f)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/f)

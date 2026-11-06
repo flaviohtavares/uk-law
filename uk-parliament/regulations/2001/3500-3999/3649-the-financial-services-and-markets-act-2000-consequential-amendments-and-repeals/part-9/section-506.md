@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 506. Exceptions[^key-a4092a754dc59f4f3227532a5a267656]
+## 506. Exceptions[^c-a4092a754dc59f4f3227532a5a267656]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 11 of the Public Offers of Securities Regulations 1995—
 
 ## Annotations
 
-[^key-a4092a754dc59f4f3227532a5a267656]: Commencement: Art. 506 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a4092a754dc59f4f3227532a5a267656]: Commencement: Art. 506 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

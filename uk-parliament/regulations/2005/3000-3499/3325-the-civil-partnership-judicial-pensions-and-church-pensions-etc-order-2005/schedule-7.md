@@ -22,15 +22,15 @@ summary: ''
 
 Article 98
 
-### 1. ...[^key-9f696ae318805d1b1686f8d1763f9225][^key-9f696ae318805d1b1686f8d1763f9225]
+### 1. ...[^c-9f696ae318805d1b1686f8d1763f9225][^c-9f696ae318805d1b1686f8d1763f9225]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Rules of the Church of England Funded Pensions Scheme[^key-45b47e6b57423f3cb51cb12c106a3c64]
+### 2. Rules of the Church of England Funded Pensions Scheme[^c-45b47e6b57423f3cb51cb12c106a3c64]
 
 The Rules of the Church of England Funded Pensions Scheme[^f00048] are amended as follows.
 
-**3.**[^key-218dd937a0dcde93470226f001a9aafa] (1) In the heading to rule 7 (pensions for spouses and children), after “spouses” insert “, civil partners”.
+**3.**[^c-218dd937a0dcde93470226f001a9aafa] (1) In the heading to rule 7 (pensions for spouses and children), after “spouses” insert “, civil partners”.
 
 (2) In rule 7.1 (spouse’s pension), after “remarries” insert “or forms a civil partnership”.
 
@@ -67,18 +67,18 @@ The Rules of the Church of England Funded Pensions Scheme[^f00048] are amended a
 
 .
 
-**4.**[^key-dc73af86c7e8d34bd20ac1d1b55f4e62] Paragraphs 2 and 3 do not affect any other power to amend any provision of the Rules (including any provision amended or inserted by those paragraphs).
+**4.**[^c-dc73af86c7e8d34bd20ac1d1b55f4e62] Paragraphs 2 and 3 do not affect any other power to amend any provision of the Rules (including any provision amended or inserted by those paragraphs).
 
 ## Annotations
 
-[^key-9f696ae318805d1b1686f8d1763f9225]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2005/3325/schedule/7/paragraph/1) and preceding heading revoked (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-9f696ae318805d1b1686f8d1763f9225]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2005/3325/schedule/7/paragraph/1) and preceding heading revoked (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-45b47e6b57423f3cb51cb12c106a3c64]: Commencement: Sch. 7 para. 2 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-45b47e6b57423f3cb51cb12c106a3c64]: Commencement: Sch. 7 para. 2 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00048]: Footnote: Scheduled to the Trust Deed made on 5th December 1997 by the Church of England Pensions Board under section 1(3) of the [Pensions Measure 1997 (1997 No. 1)](https://www.legislation.gov.uk/ukcm/1997/1). The Rules took effect on 1st January 1998. Rule 12.9 was inserted (and other amendments made which are not relevant to this Order) by a further Deed dated 22nd July 2002.
 
-[^key-218dd937a0dcde93470226f001a9aafa]: Commencement: Sch. 7 para. 3 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-218dd937a0dcde93470226f001a9aafa]: Commencement: Sch. 7 para. 3 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00049]: Footnote: [S.I. 2003/1661](https://www.legislation.gov.uk/uksi/2003/1661) as amended by [S.I. 2003/2827](https://www.legislation.gov.uk/uksi/2003/2827). Regulation 9A is subject to an exception in regulation 25, which is amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), Schedule 17, paragraph 7(3).
 
-[^key-dc73af86c7e8d34bd20ac1d1b55f4e62]: Commencement: Sch. 7 para. 4 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-dc73af86c7e8d34bd20ac1d1b55f4e62]: Commencement: Sch. 7 para. 4 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

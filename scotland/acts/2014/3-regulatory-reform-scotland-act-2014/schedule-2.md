@@ -26,7 +26,7 @@ summary: ''
 
 #### Environmental activities
 
-**1.**[^key-81e83951b1cb349fd2019399b0b2f4e8] (1) Further defining environmental activities.
+**1.**[^c-81e83951b1cb349fd2019399b0b2f4e8] (1) Further defining environmental activities.
 
 (2) Modifying the definition of any of those activities.
 
@@ -34,7 +34,7 @@ summary: ''
 
 #### Emissions
 
-**2.**[^key-ac281683085550c657825268ef7c3013] (1) Establishing standards, objectives or requirements in relation to emissions.
+**2.**[^c-ac281683085550c657825268ef7c3013] (1) Establishing standards, objectives or requirements in relation to emissions.
 
 (2) In relation to emissions, authorising the making of plans for—
 
@@ -46,24 +46,24 @@ summary: ''
 
 #### Regulators
 
-**3.**[^key-72fe3a431afab44559f4e14fcc1caff2] (1) Determining the authorities (whether SEPA or any other public or local authority or the Scottish Ministers) by whom functions conferred by the regulations for or in connection with regulating regulated activities are to be exercisable (such authorities being referred to in this schedule as “regulators”).
+**3.**[^c-72fe3a431afab44559f4e14fcc1caff2] (1) Determining the authorities (whether SEPA or any other public or local authority or the Scottish Ministers) by whom functions conferred by the regulations for or in connection with regulating regulated activities are to be exercisable (such authorities being referred to in this schedule as “regulators”).
 
 (2) Specifying any other purposes for which any such functions are to be exercisable.
 
 (3) Enabling the Scottish Ministers to give directions (whether general or specific) with which regulators are to comply, or guidance to which regulators are to have regard, in exercising functions under the regulations, including—
 
 - (a) directions providing for any functions exercisable by one regulator to be exercisable instead by another,
-- (b)[^key-7b09b9b0bebc93ae9cf277174dcdb126] directions given for the purpose of the implementation of—
+- (b)[^c-7b09b9b0bebc93ae9cf277174dcdb126] directions given for the purpose of the implementation of—
   - (i) the relevant EU instruments, or
   - (ii) any international obligations of the United Kingdom relating to protecting and improving the environment,
 - (c) directions relating to the exercise of any function in a particular case or description of case,
 - (d) directions providing for any matter to which the directions relate to be determined, in such manner (if any) as the directions may specify, by a person other than the Scottish Ministers.
 
-(4)[^key-da296140b9a54000c0ba2fd9206a9f0a] In sub-paragraph (3)(b) “the relevant EU instruments” has the same meaning as in paragraph 22(2) of this schedule.
+(4)[^c-da296140b9a54000c0ba2fd9206a9f0a] In sub-paragraph (3)(b) “the relevant EU instruments” has the same meaning as in paragraph 22(2) of this schedule.
 
 #### Regulation of activities
 
-**4.**[^key-d5ac136a888b041a1fab4134490d4e7c] (1) Prohibiting persons from carrying on, or from causing or permitting others to carry on, any regulated activity.
+**4.**[^c-d5ac136a888b041a1fab4134490d4e7c] (1) Prohibiting persons from carrying on, or from causing or permitting others to carry on, any regulated activity.
 
 (2) Prohibiting persons from carrying on any regulated activity except so far as it is—
 
@@ -87,7 +87,7 @@ summary: ''
 
 #### Permits
 
-**5.**[^key-58dea2a950583d56627a7dd40888947d] (1) Prescribing the form and content of applications for permits.
+**5.**[^c-58dea2a950583d56627a7dd40888947d] (1) Prescribing the form and content of applications for permits.
 
 (2) Regulating the procedure to be followed in connection with—
 
@@ -95,7 +95,7 @@ summary: ''
 - (b) the determination of such applications, and
 - (c) the grant of permits.
 
-**6.**[^key-e5ee26c14895d16cb631340f9dc5a56e] (1) Prescribing the form and content of permits.
+**6.**[^c-e5ee26c14895d16cb631340f9dc5a56e] (1) Prescribing the form and content of permits.
 
 (2) Authorising permits to be granted subject to conditions imposed by regulators.
 
@@ -103,13 +103,13 @@ summary: ''
 
 (4) Requiring persons carrying on regulated activities authorised by way of a permit to submit to regulators, in respect of specified periods and at specified intervals, such information as may be specified relating to the carrying on of the activities and compliance with any conditions subject to which the permit was granted.
 
-**7.**[^key-b173240ed8cdd7a6d2dea4d655923f5e] (1) Requiring permits, or the conditions to which permits are subject, to be reviewed by regulators (whether periodically or in specified circumstances).
+**7.**[^c-b173240ed8cdd7a6d2dea4d655923f5e] (1) Requiring permits, or the conditions to which permits are subject, to be reviewed by regulators (whether periodically or in specified circumstances).
 
 (2) Authorising or requiring the variation of permits or such conditions by regulators (whether on applications made by holders of permits or otherwise).
 
 (3) Regulating the making of changes in the carrying on of the activitiesto which permits relate.
 
-**8.**[^key-2f4c11306ccd9e53d1b51101a44d6d07] (1) Regulating the transfer and surrender of permits.
+**8.**[^c-2f4c11306ccd9e53d1b51101a44d6d07] (1) Regulating the transfer and surrender of permits.
 
 (2) Authorising the suspension of permits by regulators.
 
@@ -117,7 +117,7 @@ summary: ''
 
 (4) Authorising the imposition by regulators of requirements with respect to the taking of preventive or remedial action (by holders of permits or other persons) in connection with the surrender and revocation of permits.
 
-**9.**[^key-3646f50eceaad3a1e7a1db3dbc2e9095] (1) Authorising, or authorising the Scottish Ministers to make schemes for, the charging by the Scottish Ministers or public or local authorities of fees or other charges in respect of—
+**9.**[^c-3646f50eceaad3a1e7a1db3dbc2e9095] (1) Authorising, or authorising the Scottish Ministers to make schemes for, the charging by the Scottish Ministers or public or local authorities of fees or other charges in respect of—
 
 - (a) the testing or analysis of substances in cases mentioned in sub-paragraph (2),
 - (b) the validating of, or of the results of, any testing or analysis of substances in such cases, or
@@ -127,7 +127,7 @@ summary: ''
 
 #### Registration
 
-**10.**[^key-160aed4d63722fbda9e2b19b3541acd7] (1) Prescribing the form and content of—
+**10.**[^c-160aed4d63722fbda9e2b19b3541acd7] (1) Prescribing the form and content of—
 
 - (a) applications for registration,
 - (b) registration.
@@ -151,7 +151,7 @@ summary: ''
 
 #### Provisions common to permits and registration
 
-**11.**[^key-2b543cef724c8bb93b28759df8897d28] (1) Enabling the granting of permits, or the registration of activities, authorising the carrying on of—
+**11.**[^c-2b543cef724c8bb93b28759df8897d28] (1) Enabling the granting of permits, or the registration of activities, authorising the carrying on of—
 
 - (a) one or more regulated activities,
 - (b) a regulated activity at one or more than one place.
@@ -184,7 +184,7 @@ summary: ''
 
 #### Notification of regulated activities
 
-**12.**[^key-5170ee7c4be1547383b387f30268db47] (1) Prescribing the form and content of notifications and otherwise regulating the procedure for notifying the carrying on or proposed carrying on of regulated activities.
+**12.**[^c-5170ee7c4be1547383b387f30268db47] (1) Prescribing the form and content of notifications and otherwise regulating the procedure for notifying the carrying on or proposed carrying on of regulated activities.
 
 (2) Specifying restrictions or other requirements in connection with notifications, including—
 
@@ -193,7 +193,7 @@ summary: ''
 
 #### Charging schemes
 
-**13.**[^key-850c29b9b46e5082954787d774c225a8] (1) Authorising, or authorising regulators to make, vary and revoke schemes for the charging by regulators of fees or other charges—
+**13.**[^c-850c29b9b46e5082954787d774c225a8] (1) Authorising, or authorising regulators to make, vary and revoke schemes for the charging by regulators of fees or other charges—
 
 - (a) in respect of, or in respect of applications for—
   - (i) the grant of a permit,
@@ -210,7 +210,7 @@ summary: ''
 
 #### Information, publicity and consultation
 
-**14.**[^key-1ded4a6aa4f94e26adb790ed47fc2f5d] Enabling persons of any specified description (whether or not they are holders of permits or carrying on activities that are subject to registration, a requirement of notification or general binding rules) to be required—
+**14.**[^c-1ded4a6aa4f94e26adb790ed47fc2f5d] Enabling persons of any specified description (whether or not they are holders of permits or carrying on activities that are subject to registration, a requirement of notification or general binding rules) to be required—
 
 - (a) to provide such information in such manner as is specified in the regulations,
 - (b) to compile information—
@@ -218,20 +218,20 @@ summary: ''
   - (ii) on energy consumption and on the efficiency with which energy is used,
   - (iii) on waste and on the origins and destinations of waste.
 
-**14A.**[^key-5010b6224b99466d17c83bee0f048cc7] Imposing duties on persons of any specified description (whether or not they are holders of permits or carrying on activities that are subject to registration, a requirement of notification or general binding rules) to make publicly available in a specified manner, specified information about anything stored or disposed of by them or on their behalf, except in relation to their domestic activities.
+**14A.**[^c-5010b6224b99466d17c83bee0f048cc7] Imposing duties on persons of any specified description (whether or not they are holders of permits or carrying on activities that are subject to registration, a requirement of notification or general binding rules) to make publicly available in a specified manner, specified information about anything stored or disposed of by them or on their behalf, except in relation to their domestic activities.
 
-**15.**[^key-93f5119c87afccd642225a0c74933002] Securing that—
+**15.**[^c-93f5119c87afccd642225a0c74933002] Securing that—
 
 - (a) publicity is given to specified matters,
 - (b) regulators maintain registers of specified matters (but excepting information which under the regulations is, or is determined to be, commercially confidential and subject to any other exceptions specified in the regulations) which are open to public inspection,
 - (c) regulators publish, in a manner specified in the regulations, such registers,
 - (d) copies of entries in such registers, or of specified documents, may be obtained by members of the public.
 
-**16.**[^key-cc8e6d74bc23c882d75afbf873e0b605] Requiring or authorising regulators to carry out consultation in connection with the exercise of any of their functions (including consultation on any guidance they propose to issue in connection with the exercise of those functions), and providing for them to take into account representations made to them on consultation.
+**16.**[^c-cc8e6d74bc23c882d75afbf873e0b605] Requiring or authorising regulators to carry out consultation in connection with the exercise of any of their functions (including consultation on any guidance they propose to issue in connection with the exercise of those functions), and providing for them to take into account representations made to them on consultation.
 
 #### Enforcement and offences
 
-**17.**[^key-a3e91843019622aa599cd24f93941c0b] (1) Conferring functions on regulators with respect to compliance with, and enforcement of, the regulations.
+**17.**[^c-a3e91843019622aa599cd24f93941c0b] (1) Conferring functions on regulators with respect to compliance with, and enforcement of, the regulations.
 
 (2) Conferring power on regulators—
 
@@ -242,7 +242,7 @@ summary: ''
 
 (4) Regulating the procedure under which regulators may make arrangements, or impose requirements, such as are mentioned in sub-paragraph (2).
 
-**18.**[^key-7c0e7beb9e1078502af9fc8c3c02ed65] (1) Authorising regulators to serve on any persons carrying on regulated activities (whether or not the carrying on of those activities is authorised by or under the regulations) notices, including notices requiring such persons—
+**18.**[^c-7c0e7beb9e1078502af9fc8c3c02ed65] (1) Authorising regulators to serve on any persons carrying on regulated activities (whether or not the carrying on of those activities is authorised by or under the regulations) notices, including notices requiring such persons—
 
 - (a) to notify the regulated activities being carried on by them,
 - (b) to take preventative or remedial action at their own expense, including such action in respect of contraventions (actual or potential) of authorisations, or conditions of authorisations, relating to the regulated activities,
@@ -265,25 +265,25 @@ summary: ''
 
 (7) Providing for the enforcement of such notices by civil proceedings.
 
-**19.**[^key-a29170e18a312b62331bb578f37cb752] Creating offences and dealing with matters relating to such offences, including—
+**19.**[^c-a29170e18a312b62331bb578f37cb752] Creating offences and dealing with matters relating to such offences, including—
 
 - (a) the provision of defences, and
 - (b) evidentiary matters.
 
-**20.**[^key-9eab4e594d103bf00746dfee6dfcdba5] Enabling, where a person has been convicted of an offence under the regulations, a court dealing with that person for the offence to order the taking of remedial action (in addition to or instead of imposing any punishment).
+**20.**[^c-9eab4e594d103bf00746dfee6dfcdba5] Enabling, where a person has been convicted of an offence under the regulations, a court dealing with that person for the offence to order the taking of remedial action (in addition to or instead of imposing any punishment).
 
 #### Appeals
 
-**21.**[^key-721368d150ad3bbe715701c5c22086aa] (1) Conferring rights of appeal in respect of decisions made, notices served or other things done (or omitted to be done) under the regulations.
+**21.**[^c-721368d150ad3bbe715701c5c22086aa] (1) Conferring rights of appeal in respect of decisions made, notices served or other things done (or omitted to be done) under the regulations.
 
 (2) Making provision for (or for the determination of) matters relating to the making, considering and determination of such appeals (including provision for or in connection with the holding of inquiries or hearings).
 
 #### General
 
-**22.**[^key-dbbf712f30cfd6b231812c121e12acb3] (1) Making provision which, subject to any modifications that the Scottish Ministers consider appropriate, corresponds or is similar to—
+**22.**[^c-dbbf712f30cfd6b231812c121e12acb3] (1) Making provision which, subject to any modifications that the Scottish Ministers consider appropriate, corresponds or is similar to—
 
 - (a) any provision made by or under, or capable of being made under, Part 2 of the Environmental Protection Act 1990, or
-- (b)[^key-6cf592a6e1043363cef185837c8d614c] any provision (not being a provision within any of paragraphs 1 to 21 or paragraph (a)) that might be made by an Act of the Scottish Parliament in connection with the relevant EU instruments, other than provision—
+- (b)[^c-6cf592a6e1043363cef185837c8d614c] any provision (not being a provision within any of paragraphs 1 to 21 or paragraph (a)) that might be made by an Act of the Scottish Parliament in connection with the relevant EU instruments, other than provision—
   - (i) imposing or increasing taxation,
   - (ii) taking effect from a date earlier than that of the making of the instrument containing the provision,
   - (iii) conferring any power to legislate by means of order, rules, regulations or other subordinate instrument, other than rules of procedure for any court or tribunal.
@@ -327,7 +327,7 @@ summary: ''
 
 #### Particular types of regulated activity
 
-**23.**[^key-6f8ffce20796040d4072cb78d53bf48a] The regulations may provide for specified provisions of the regulations to have effect in relation only to—
+**23.**[^c-6f8ffce20796040d4072cb78d53bf48a] The regulations may provide for specified provisions of the regulations to have effect in relation only to—
 
 - (a) specified regulated activities,
 - (b) the carrying on of regulated activities in specified circumstances, or
@@ -335,7 +335,7 @@ summary: ''
 
 #### Emissions trading scheme
 
-**24.**[^key-90cb8c493bb91c530ab5eaf1980238d1] (1) The regulations may authorise the inclusion in a trading scheme of—
+**24.**[^c-90cb8c493bb91c530ab5eaf1980238d1] (1) The regulations may authorise the inclusion in a trading scheme of—
 
 - (a) provision for penalties in respect of contraventions of provisions of the scheme,
 - (b) provision for the amount of any penalty under the scheme to be such as may be set out in, or calculated in accordance with—
@@ -346,7 +346,7 @@ summary: ''
 
 #### General binding rules
 
-**25.**[^key-ed5051029769c6422a1c807aa7033ff7] (1) General binding rules may—
+**25.**[^c-ed5051029769c6422a1c807aa7033ff7] (1) General binding rules may—
 
 - (a) impose conditions or requirements,
 - (b) prescribe standards or objectives to be complied with or achieved, and
@@ -364,11 +364,11 @@ summary: ''
 
 #### Determination of matters by regulators
 
-**26.**[^key-22713a7954e0dac4c80c62e499dc119f] The regulations may make provision for anything which, by virtue of paragraphs 5 to 12, could be provided for by the regulations to be determined under the regulations by regulators.
+**26.**[^c-22713a7954e0dac4c80c62e499dc119f] The regulations may make provision for anything which, by virtue of paragraphs 5 to 12, could be provided for by the regulations to be determined under the regulations by regulators.
 
 #### Determination of rules and imposition of conditions
 
-**27.**[^key-6794962179bae52ff8a76d5d76e4791b] The regulations may provide—
+**27.**[^c-6794962179bae52ff8a76d5d76e4791b] The regulations may provide—
 
 - (a) for regulators to have regard to any specified general principles, and to any directions or guidance given under the regulations—
   - (i) in determining any general binding rules,
@@ -379,7 +379,7 @@ summary: ''
 
 #### Charging schemes
 
-**28.**[^key-41c1d977228e210a643376924dbd90a5] The regulations may—
+**28.**[^c-41c1d977228e210a643376924dbd90a5] The regulations may—
 
 - (a) require any such scheme as is mentioned in paragraph 9 or 13 to be so framed that the fees and charges payable under the scheme—
   - (i) are determined in the light of any specified general principles and any directions or guidance given under the regulations,
@@ -388,15 +388,15 @@ summary: ''
 
 #### Fit and proper persons
 
-**29.**[^key-c125691693401bd5abfbf62a4a1009c9] The regulations may make provision that the conditions subject to which a registration or permit has effect include a condition that the person authorised to carry on the regulated activities to which the registration relates, or to whom the permit is granted, must remain a fit and proper person within the meaning of the regulations.
+**29.**[^c-c125691693401bd5abfbf62a4a1009c9] The regulations may make provision that the conditions subject to which a registration or permit has effect include a condition that the person authorised to carry on the regulated activities to which the registration relates, or to whom the permit is granted, must remain a fit and proper person within the meaning of the regulations.
 
-#### ...[^key-5f8821998c43925fe0c4fb8fe2306bbd]
+#### ...[^c-5f8821998c43925fe0c4fb8fe2306bbd]
 
-**30.**[^key-5f8821998c43925fe0c4fb8fe2306bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-5f8821998c43925fe0c4fb8fe2306bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Offences
 
-**31.**[^key-e1caef65f547b3deca25d9dee4ebc026] (1) The regulations may provide for any such offence as is mentioned in paragraph 19 to be triable—
+**31.**[^c-e1caef65f547b3deca25d9dee4ebc026] (1) The regulations may provide for any such offence as is mentioned in paragraph 19 to be triable—
 
 - (a) only summarily,
 - (b) either summarily or on indictment.
@@ -420,11 +420,11 @@ summary: ''
 
 #### Service of notices
 
-**32.**[^key-2a3fded9e52011409e913caa4e3fd316] The regulations may make provision for or in connection with the service of any notice or other document required under the regulations to be served on or given to any person.
+**32.**[^c-2a3fded9e52011409e913caa4e3fd316] The regulations may make provision for or in connection with the service of any notice or other document required under the regulations to be served on or given to any person.
 
 #### Powers exercisable in the regulations
 
-**33.**[^key-221a00cd64cf01ab701c7ee77065e052] The regulations may—
+**33.**[^c-221a00cd64cf01ab701c7ee77065e052] The regulations may—
 
 - (a) modify any enactment, instrument or document,
 - (b) in making different provision for different purposes, make different provision for different cases, persons, circumstances or areas,
@@ -433,7 +433,7 @@ summary: ''
 
 #### Interpretation
 
-**34.**[^key-e5096343b81dd58875619b8e27b77483] In this schedule—
+**34.**[^c-e5096343b81dd58875619b8e27b77483] In this schedule—
 
 - “**authorise**”, in relation to regulated activities, means authorise the carrying on of the activities in accordance with a permit, subject to registration, subject to notification or subject to compliance with general binding rules; and related expressions are to be construed accordingly,
 - “**functions**” includes powers and duties,
@@ -448,78 +448,78 @@ summary: ''
 
 ## Annotations
 
-[^key-81e83951b1cb349fd2019399b0b2f4e8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/1) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-81e83951b1cb349fd2019399b0b2f4e8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/1) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-ac281683085550c657825268ef7c3013]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/2) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-ac281683085550c657825268ef7c3013]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/2) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-72fe3a431afab44559f4e14fcc1caff2]: Commencement: Sch. 2 para. 3 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-72fe3a431afab44559f4e14fcc1caff2]: Commencement: Sch. 2 para. 3 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-7b09b9b0bebc93ae9cf277174dcdb126]: Textual amendment: [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/3/3/b) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b09b9b0bebc93ae9cf277174dcdb126]: Textual amendment: [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/3/3/b) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da296140b9a54000c0ba2fd9206a9f0a]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/3/4) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da296140b9a54000c0ba2fd9206a9f0a]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/3/4) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d5ac136a888b041a1fab4134490d4e7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/4) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-d5ac136a888b041a1fab4134490d4e7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/4) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-58dea2a950583d56627a7dd40888947d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/5) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-58dea2a950583d56627a7dd40888947d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/5) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-e5ee26c14895d16cb631340f9dc5a56e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/6) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e5ee26c14895d16cb631340f9dc5a56e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/6) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-b173240ed8cdd7a6d2dea4d655923f5e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/7) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b173240ed8cdd7a6d2dea4d655923f5e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/7) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-2f4c11306ccd9e53d1b51101a44d6d07]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/8) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2f4c11306ccd9e53d1b51101a44d6d07]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/8) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-3646f50eceaad3a1e7a1db3dbc2e9095]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/9) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-3646f50eceaad3a1e7a1db3dbc2e9095]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/9) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-160aed4d63722fbda9e2b19b3541acd7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/10) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-160aed4d63722fbda9e2b19b3541acd7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/10) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-2b543cef724c8bb93b28759df8897d28]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/11) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2b543cef724c8bb93b28759df8897d28]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/11) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-5170ee7c4be1547383b387f30268db47]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/12) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-5170ee7c4be1547383b387f30268db47]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/12) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-850c29b9b46e5082954787d774c225a8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/13) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-850c29b9b46e5082954787d774c225a8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/13) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-1ded4a6aa4f94e26adb790ed47fc2f5d]: Commencement: Sch. 2 para. 14 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-1ded4a6aa4f94e26adb790ed47fc2f5d]: Commencement: Sch. 2 para. 14 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-5010b6224b99466d17c83bee0f048cc7]: Textual amendment: Sch. 2 para. 14A inserted (1.8.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 22(2)](https://www.legislation.gov.uk/asp/2024/13/section/22/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-5010b6224b99466d17c83bee0f048cc7]: Textual amendment: Sch. 2 para. 14A inserted (1.8.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 22(2)](https://www.legislation.gov.uk/asp/2024/13/section/22/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-93f5119c87afccd642225a0c74933002]: Commencement: Sch. 2 para. 15 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-93f5119c87afccd642225a0c74933002]: Commencement: Sch. 2 para. 15 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-cc8e6d74bc23c882d75afbf873e0b605]: Commencement: Sch. 2 para. 16 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-cc8e6d74bc23c882d75afbf873e0b605]: Commencement: Sch. 2 para. 16 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-a3e91843019622aa599cd24f93941c0b]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/17) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-a3e91843019622aa599cd24f93941c0b]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/17) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-7c0e7beb9e1078502af9fc8c3c02ed65]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/18) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-7c0e7beb9e1078502af9fc8c3c02ed65]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/18) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-a29170e18a312b62331bb578f37cb752]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/19) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-a29170e18a312b62331bb578f37cb752]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/19) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-9eab4e594d103bf00746dfee6dfcdba5]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/20) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-9eab4e594d103bf00746dfee6dfcdba5]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/20) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-721368d150ad3bbe715701c5c22086aa]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/21) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-721368d150ad3bbe715701c5c22086aa]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/21) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-dbbf712f30cfd6b231812c121e12acb3]: Commencement: Sch. 2 para. 22 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-dbbf712f30cfd6b231812c121e12acb3]: Commencement: Sch. 2 para. 22 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-6cf592a6e1043363cef185837c8d614c]: Textual amendment: Sch. 2 para. 22(1)(b)(2)-(4) substituted for sch. 2 para. 22(1)(b)(2) (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6cf592a6e1043363cef185837c8d614c]: Textual amendment: Sch. 2 para. 22(1)(b)(2)-(4) substituted for sch. 2 para. 22(1)(b)(2) (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f8ffce20796040d4072cb78d53bf48a]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/23) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6f8ffce20796040d4072cb78d53bf48a]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/23) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-90cb8c493bb91c530ab5eaf1980238d1]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/24) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-90cb8c493bb91c530ab5eaf1980238d1]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/24) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-ed5051029769c6422a1c807aa7033ff7]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/25) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-ed5051029769c6422a1c807aa7033ff7]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/25) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-22713a7954e0dac4c80c62e499dc119f]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/26) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-22713a7954e0dac4c80c62e499dc119f]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/26) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-6794962179bae52ff8a76d5d76e4791b]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/27) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6794962179bae52ff8a76d5d76e4791b]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/27) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-41c1d977228e210a643376924dbd90a5]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/28) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-41c1d977228e210a643376924dbd90a5]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/28) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-c125691693401bd5abfbf62a4a1009c9]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/29) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-c125691693401bd5abfbf62a4a1009c9]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/29) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-5f8821998c43925fe0c4fb8fe2306bbd]: Textual amendment: [Sch. 2 para. 30 and cross-heading](https://www.legislation.gov.uk/asp/2014/3/schedule/2/part/2/crossheading/power-to-specify-eu-instruments-for-the-purposes-of-paragraph-22) repealed (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f8821998c43925fe0c4fb8fe2306bbd]: Textual amendment: [Sch. 2 para. 30 and cross-heading](https://www.legislation.gov.uk/asp/2014/3/schedule/2/part/2/crossheading/power-to-specify-eu-instruments-for-the-purposes-of-paragraph-22) repealed (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/436/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e1caef65f547b3deca25d9dee4ebc026]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/31) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e1caef65f547b3deca25d9dee4ebc026]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/31) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-2a3fded9e52011409e913caa4e3fd316]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/32) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2a3fded9e52011409e913caa4e3fd316]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/32) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-221a00cd64cf01ab701c7ee77065e052]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/33) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-221a00cd64cf01ab701c7ee77065e052]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/33) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-e5096343b81dd58875619b8e27b77483]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e5096343b81dd58875619b8e27b77483]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/asp/2014/3/schedule/2/paragraph/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

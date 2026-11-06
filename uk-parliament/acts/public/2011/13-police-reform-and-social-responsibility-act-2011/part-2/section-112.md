@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Temporary event notices: who may make an objection[^key-cb06c73cae64a03264d83ccff63db355]
+## 112. Temporary event notices: who may make an objection[^c-cb06c73cae64a03264d83ccff63db355]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb06c73cae64a03264d83ccff63db355]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2011/13/section/112) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-cb06c73cae64a03264d83ccff63db355]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2011/13/section/112) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

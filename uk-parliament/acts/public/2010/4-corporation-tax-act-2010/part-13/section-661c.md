@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 661C. Periods over which management condition treated as met[^key-4f2b16601c1c7d880ff64c6403b6e292]
+## 661C. Periods over which management condition treated as met[^c-4f2b16601c1c7d880ff64c6403b6e292]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f2b16601c1c7d880ff64c6403b6e292]: Textual amendment: Ss. 661A-661C inserted (retrospective to 6.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 32](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/32), [35](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/35)
+[^c-4f2b16601c1c7d880ff64c6403b6e292]: Textual amendment: Ss. 661A-661C inserted (retrospective to 6.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 32](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/32), [35](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/35)

@@ -78,7 +78,7 @@ This power is exercisable at any time in the case of petroleum products, but oth
 
 (1) Her Majesty may by Order in Council declare the powers of sections 1 and 2 above exercisable to their fullest extent because either—
 
-- (a) they are required for the implementation of obligations incumbent on the United Kingdom as a member of [^key-9d50ead85b6fdf26a8f3fc0545f7919d]... the International Energy Agency or a party to the International Energy Agreement to take emergency measures in connection with the reduction, or threatened reduction, of fuel supplies; or
+- (a) they are required for the implementation of obligations incumbent on the United Kingdom as a member of [^c-9d50ead85b6fdf26a8f3fc0545f7919d]... the International Energy Agency or a party to the International Energy Agreement to take emergency measures in connection with the reduction, or threatened reduction, of fuel supplies; or
 - (b) there exists or is imminent in the United Kingdom an actual or threatened emergency affecting fuel or electricity supplies which makes it necessary in Her Majesty’s opinion that the government should temporarily have at its disposal exceptional powers for controlling the sources and availability of energy;
 
 and any such Order shall be laid before Parliament after it is made.
@@ -112,7 +112,7 @@ This subsection has effect only at a time when there is in force an Order in Cou
 
 ### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7247931]
 
-### 5. Sections 1 to 4: territorial application[^key-65ed9dd440adff2f3b5ddbbeb3af06f7]
+### 5. Sections 1 to 4: territorial application[^c-65ed9dd440adff2f3b5ddbbeb3af06f7]
 
 (1) A power under sections 1 to 4 may be exercised in relation to anything which is wholly or partly situated in, or to activity wholly or partly in—
 
@@ -162,13 +162,13 @@ This subsection has effect only at a time when there is in force an Order in Cou
 
 *Extent: E+W+S*
 
-### 9. Liquefaction of offshore natural gas.[^key-759e897592b635e3895c74c1ee081b8f]
+### 9. Liquefaction of offshore natural gas.[^c-759e897592b635e3895c74c1ee081b8f]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Other measures for controlling energy sources and promoting economy : Secretary of State's functions[^key-394f0ac9d1f492cca6bc9b2eeb1c6698]
+## Other measures for controlling energy sources and promoting economy : Secretary of State's functions[^c-394f0ac9d1f492cca6bc9b2eeb1c6698]
 
 ### 12. Disposal of gas by flaring, etc.[^c7248081]
 
@@ -178,7 +178,7 @@ This subsection has effect only at a time when there is in force an Order in Cou
 
 (2) This section applies to all natural gas of the United Kingdom, whether obtained there or in territorial waters, or in areas designated under the [^c7248091]Continental Shelf Act 1964, except gas conveyed through pipes to premises by a public gas transporter[^c7248101] within the meaning of Part I of the Gas Act 1986[^c7248111]
 
-(2A)[^key-87b5843c1f10c7cee0fac73f16b98a53] Disposal of gas by flaring, or by releasing it unignited into the atmosphere, does not require consent under this section if consent—
+(2A)[^c-87b5843c1f10c7cee0fac73f16b98a53] Disposal of gas by flaring, or by releasing it unignited into the atmosphere, does not require consent under this section if consent—
 
 - (a) is required under section 12A (disposal of gas by flaring etc: OGA's functions), or
 - (b) would be required under that section but for subsection (3) of that section.
@@ -226,7 +226,7 @@ This subsection has effect only at a time when there is in force an Order in Cou
 - (a) may be given either with reference to particular cases or by means of orders of general application; and
 - (b) may in any case be made subject to conditions which may, in particular, be framed by reference to the description or origin of the gas, or the quantities to be disposed of.
 
-### 12A. Disposal of gas by flaring, etc: OGA's functions[^key-08e490e4da1a99ba07ae45bf52bae437]
+### 12A. Disposal of gas by flaring, etc: OGA's functions[^c-08e490e4da1a99ba07ae45bf52bae437]
 
 (1) The OGA's consent is required for natural gas to be disposed of (whether at source or elsewhere)—
 
@@ -260,7 +260,7 @@ This subsection has effect only at a time when there is in force an Order in Cou
 
 *Extent: E+W+S*
 
-### 14. Fuelling of new and converted power stations.[^key-bd1c3d5e9e4a9f7256a56bb037d3589b]
+### 14. Fuelling of new and converted power stations.[^c-bd1c3d5e9e4a9f7256a56bb037d3589b]
 
 *Extent: E+W+S*
 
@@ -340,11 +340,11 @@ and the orders may specify the cases in which a car is to be regarded as a new c
 
 (2) A person commits an offence if—
 
-- (a) without reasonable excuse he contravenes or fails to comply with any provision made by this Act, or made under it by order, direction or otherwise (but subject to subsection (3) below in the case of sections . . . [^c7248191] 9, 12 and 12A[^key-8acea1e58801098a61c21bae269e1200]); or
+- (a) without reasonable excuse he contravenes or fails to comply with any provision made by this Act, or made under it by order, direction or otherwise (but subject to subsection (3) below in the case of sections . . . [^c7248191] 9, 12 and 12A[^c-8acea1e58801098a61c21bae269e1200]); or
 - (b) he wilfully obstructs any person exercising a power conferred, or performing a duty imposed, by or under this Act; or
-- (c)[^key-6ca6ecae81ba7751508de678f1ea6017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6ca6ecae81ba7751508de678f1ea6017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in furnishing any information—
-  - (i)[^key-b19790356f96fbd09c1f5135c3af4f6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-b19790356f96fbd09c1f5135c3af4f6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for the purposes of this Act, or of an order made or direction given under it,
 
   or in a notice given for any of those purposes, he makes or causes to be made on his behalf a statement which he knows to be false or does not believe to be true; or
@@ -352,8 +352,8 @@ and the orders may specify the cases in which a car is to be regarded as a new c
 
 (3) In respect of contraventions of, or failure to comply with—
 
-- (a) any provision made by section . . . [^c7248191] 9, 12 or 12A[^key-8210832a8e64c46d7c26445afe15901d] of this Act; or
-- (b) any condition of a consent given by the Secretary of State or the OGA[^key-85c06b0ee46596c754ead8890643f177] or the British Gas Corporation[^c7248211] thereunder,
+- (a) any provision made by section . . . [^c7248191] 9, 12 or 12A[^c-8210832a8e64c46d7c26445afe15901d] of this Act; or
+- (b) any condition of a consent given by the Secretary of State or the OGA[^c-85c06b0ee46596c754ead8890643f177] or the British Gas Corporation[^c7248211] thereunder,
 
 criminal proceedings do not lie; but this is without prejudice to other methods of obtaining compliance with statutory obligations.
 
@@ -368,8 +368,8 @@ criminal proceedings do not lie; but this is without prejudice to other methods 
 (2) In the case of a contravention of, or failure to comply with—
 
 - (a) price controls; or
-- (b)[^key-df05f7184985313cc0744bc71b8a61c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) a direction of the Secretary of State given under section 6[^key-7bc2017b1c63f6ee8001f2219b07da93]...,
+- (b)[^c-df05f7184985313cc0744bc71b8a61c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a direction of the Secretary of State given under section 6[^c-7bc2017b1c63f6ee8001f2219b07da93]...,
 
 the person guilty is liable either as provided in subsection (1) or on conviction on indictment to a fine.
 
@@ -395,7 +395,7 @@ In this Act—
 - “**enactment**” includes an enactment of the Parliament of Northern Ireland and a Measure of the Northern Ireland Assembly;
 - “**International Energy Agency**” and “**International Energy Agreement**” mean, respectively, the body established by the Decision of the Council of the Organisation for Economic Co-operation and Development on 15th November 1974, and the Agreement on an International Energy Program signed at Paris on 18th November 1974;
 - “**natural gas**” means any gas derived from natural strata;
-- “[^key-98403044471358e813965cabe7ad55d8]**the OGA**” means the Oil and Gas Authority;
+- “[^c-98403044471358e813965cabe7ad55d8]**the OGA**” means the Oil and Gas Authority;
 - “**petroleum products**” means the following substances produced directly or indirectly from crude, that is to say, fuels, lubricants, bitumen, wax, industrial spirits and any wide-range substance (meaning a substance whose final boiling point at normal atmospheric pressure is more than 50°C higher than its initial boiling point);
 - “**price controls**” means orders under section 1(4) of this Act and directions under section 2 imposing requirements as to price;
 - “[^c7248231]**Standard Industrial Classification**” has the meaning assigned to it by section 6(2) of the the Industry Act 1972[^c7248241][^c7248261]the Industrial Development Act 1982
@@ -482,7 +482,7 @@ Section 18(1).
 - (b) to furnish, as and when specified, estimates, forecasts, returns and information relating to such a substance, or to electricity;
 - (c) to furnish, as and when specified, information and forecasts relating to the undertaking itself or its activities, including the way in which the undertaking is organised and administered and the character and extent of its operations.
 
-(2) All the powers of this paragraph are exercisable by the Secretary of State where it appears to him expedient for the purpose of implementing obligations incumbent on the United Kingdom as a member of [^key-1511f5dec1cd54ae80ae6a0fb815ae2d]... the International Energy Agency or as a party to the International Energy Agreement, and the powers conferred by paragraphs (a) and (b) of sub-paragraph (1) are also exercisable where it appears to the Secretary of State expedient for any purpose connected with the operation of this Act or the effective performance by him of his functions under it.
+(2) All the powers of this paragraph are exercisable by the Secretary of State where it appears to him expedient for the purpose of implementing obligations incumbent on the United Kingdom as a member of [^c-1511f5dec1cd54ae80ae6a0fb815ae2d]... the International Energy Agency or as a party to the International Energy Agreement, and the powers conferred by paragraphs (a) and (b) of sub-paragraph (1) are also exercisable where it appears to the Secretary of State expedient for any purpose connected with the operation of this Act or the effective performance by him of his functions under it.
 
 (3) In this paragraph “**specified**” means specified by the Secretary of State’s directions.
 
@@ -580,7 +580,7 @@ the justice or sheriff may issue a warrant authorising a duly authorised officer
 - (a) omit the reference to a local weights and measures authority; and
 - (b) for the Director of Public Prosecutions substitute the Director of Public Prosecutions for Northern Ireland;
 
-[^key-2b0e08783b5ba6138ed6073cd56c6932]...
+[^c-2b0e08783b5ba6138ed6073cd56c6932]...
 
 ### Non-disclosure of information
 
@@ -588,7 +588,7 @@ the justice or sheriff may issue a warrant authorising a duly authorised officer
 
 - (a) with the consent of the person by whom or on whose behalf the information was given or supplied and, where applicable, of the owner of any goods, or the occupier of any premises, to which the information relates;
 - (b) for the purpose of the exercise of any of its functions, to a government department (including a department of the government of Northern Ireland);
-- (c) [^key-bf642b52afe361b2cc11aee6b7ffd8c2]... to the International Energy Agency, in pursuance of obligations incumbent on the United Kingdom to transmit the information or see to its transmission;
+- (c) [^c-bf642b52afe361b2cc11aee6b7ffd8c2]... to the International Energy Agency, in pursuance of obligations incumbent on the United Kingdom to transmit the information or see to its transmission;
 - (d) in the form of statistics or otherwise, so that it cannot readily be recognised as relating to any particular person or undertaking;
 - (e) with a view to the institution, or otherwise for the purposes, of any criminal proceedings.
 
@@ -606,7 +606,7 @@ the justice or sheriff may issue a warrant authorising a duly authorised officer
 
 may be given in any legal proceedings (including arbitrations) by the production of a copy of the London, Edinburgh or Belfast Gazette purporting to contain such an authority or exemption or (as the case may be) the variation or revocation.
 
-## SCHEDULE 3 — EU Obligations of which Breach is Punishable under this Act[^key-08380986d13637ff33519c5f9f254d3a]
+## SCHEDULE 3 — EU Obligations of which Breach is Punishable under this Act[^c-08380986d13637ff33519c5f9f254d3a]
 
 **No longer in force.**
 
@@ -676,21 +676,21 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
 [^c7247861]: Commencement: Act not in force at Royal Assent see [s. 23(2)](https://www.legislation.gov.uk/ukpga/1976/76/section/23/2); Act wholly in force at 1.5.1977
 
-[^key-9d50ead85b6fdf26a8f3fc0545f7919d]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1976/76/section/3/1/a) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/530/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d50ead85b6fdf26a8f3fc0545f7919d]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1976/76/section/3/1/a) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/530/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c7247871]: Marginal citation: [1973 c. 9](https://www.legislation.gov.uk/ukpga/1973/9).
 
 [^c7247931]: Textual amendment: S. 5 repealed (1.3.2000) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [s. 74(1)(3)](https://www.legislation.gov.uk/ukpga/1998/41/section/74/1/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/1998/41/schedule/12/paragraph/2), [Sch. 14 Pt. I](https://www.legislation.gov.uk/ukpga/1998/41/schedule/14/part/I) (with [s. 73](https://www.legislation.gov.uk/ukpga/1998/41/section/73)); [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
-[^key-65ed9dd440adff2f3b5ddbbeb3af06f7]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1976/76/section/5) inserted (19.1.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/14); [S.I. 2004/3281](https://www.legislation.gov.uk/uksi/2004/3281), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/4/a)
+[^c-65ed9dd440adff2f3b5ddbbeb3af06f7]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1976/76/section/5) inserted (19.1.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/14); [S.I. 2004/3281](https://www.legislation.gov.uk/uksi/2004/3281), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/4/a)
 
 [^c7247941]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1976/76/section/7) repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
 [^c7247951]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1976/76/section/8) repealed by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/1982/23/section/12/2), [37(2)](https://www.legislation.gov.uk/ukpga/1982/23/section/37/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/23/schedule/4)
 
-[^key-759e897592b635e3895c74c1ee081b8f]: Textual amendment: S. 9 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/16)
+[^c-759e897592b635e3895c74c1ee081b8f]: Textual amendment: S. 9 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/16)
 
-[^key-394f0ac9d1f492cca6bc9b2eeb1c6698]: Textual amendment: Words in cross-heading inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/2/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-394f0ac9d1f492cca6bc9b2eeb1c6698]: Textual amendment: Words in cross-heading inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/2/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^c7248081]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only.
 
@@ -700,7 +700,7 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
 [^c7248111]: Textual amendment: Words substituted by virtue of [Gas Act 1986 (c. 44, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1986/44), [s. 67(1)(3)](https://www.legislation.gov.uk/ukpga/1986/44/section/67/1/3), [Sch. 7 para. 26(2)](https://www.legislation.gov.uk/ukpga/1986/44/schedule/7/paragraph/26/2), [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/1986/44/schedule/8/paragraph/33)
 
-[^key-87b5843c1f10c7cee0fac73f16b98a53]: Textual amendment: S. 12(2A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/2/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-87b5843c1f10c7cee0fac73f16b98a53]: Textual amendment: S. 12(2A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/2/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^c7248051]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only.
 
@@ -708,11 +708,11 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
 [^c7248071]: Textual amendment: Words substituted by [Gas Act 1986 (c. 44, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1986/44), [s. 67(1)(3)](https://www.legislation.gov.uk/ukpga/1986/44/section/67/1/3), [Sch. 7 para. 26(2)](https://www.legislation.gov.uk/ukpga/1986/44/schedule/7/paragraph/26/2), [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/1986/44/schedule/8/paragraph/33)
 
-[^key-08e490e4da1a99ba07ae45bf52bae437]: Textual amendment: Ss. 12A, 12B inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-08e490e4da1a99ba07ae45bf52bae437]: Textual amendment: Ss. 12A, 12B inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^c7248121]: Textual amendment: S.13 repealed by [Gas Act 1980 (c. 37, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1980/37), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1980/37/section/1/4)
 
-[^key-bd1c3d5e9e4a9f7256a56bb037d3589b]: Textual amendment: S. 14 omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(1)(a)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/1/a), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
+[^c-bd1c3d5e9e4a9f7256a56bb037d3589b]: Textual amendment: S. 14 omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(1)(a)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/1/a), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
 
 [^c7248151]: Modification: S. 15 functions of Secretary of State now exercisable by Minister of Transport: [S.I. 1980/1719](https://www.legislation.gov.uk/uksi/1980/1719), [arts. 2](https://www.legislation.gov.uk/uksi/1980/1719/article/2), [3](https://www.legislation.gov.uk/uksi/1980/1719/article/3)
 
@@ -724,25 +724,25 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
 [^c7248191]: Textual amendment: Word repealed by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1982/23/section/37/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/23/schedule/4)
 
-[^key-8acea1e58801098a61c21bae269e1200]: Textual amendment: Words in s. 18(2)(a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/4/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-8acea1e58801098a61c21bae269e1200]: Textual amendment: Words in s. 18(2)(a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/4/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-6ca6ecae81ba7751508de678f1ea6017]: Textual amendment: [S. 18(2)(c)](https://www.legislation.gov.uk/ukpga/1976/76/section/18/2/c) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ca6ecae81ba7751508de678f1ea6017]: Textual amendment: [S. 18(2)(c)](https://www.legislation.gov.uk/ukpga/1976/76/section/18/2/c) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b19790356f96fbd09c1f5135c3af4f6f]: Textual amendment: [S. 18(2)(d)(i)](https://www.legislation.gov.uk/ukpga/1976/76/section/18/2/d/i) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b19790356f96fbd09c1f5135c3af4f6f]: Textual amendment: [S. 18(2)(d)(i)](https://www.legislation.gov.uk/ukpga/1976/76/section/18/2/d/i) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8210832a8e64c46d7c26445afe15901d]: Textual amendment: Words in s. 18(3)(a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/4/3/a); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-8210832a8e64c46d7c26445afe15901d]: Textual amendment: Words in s. 18(3)(a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/4/3/a); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-85c06b0ee46596c754ead8890643f177]: Textual amendment: Words in s. 18(3)(b) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/4/3/b); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-85c06b0ee46596c754ead8890643f177]: Textual amendment: Words in s. 18(3)(b) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/4/3/b); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^c7248211]: Textual amendment: Words repealed (E.W.S.) by [Gas Act 1986 (c. 44, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1986/44), [s. 67(3)(4)](https://www.legislation.gov.uk/ukpga/1986/44/section/67/3/4), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/1986/44/schedule/8/paragraph/17), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1986/44/schedule/9/part/I)
 
 [^c7248221]: Textual amendment: Words substituted by virtue of (E. W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [art. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5)
 
-[^key-df05f7184985313cc0744bc71b8a61c5]: Textual amendment: [S. 19(2)(b)](https://www.legislation.gov.uk/ukpga/1976/76/section/19/2/b) omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/1/b/i), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
+[^c-df05f7184985313cc0744bc71b8a61c5]: Textual amendment: [S. 19(2)(b)](https://www.legislation.gov.uk/ukpga/1976/76/section/19/2/b) omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/1/b/i), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
 
-[^key-7bc2017b1c63f6ee8001f2219b07da93]: Textual amendment: Words in [s. 19(2)(c)](https://www.legislation.gov.uk/ukpga/1976/76/section/19/2/c) omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/1/b/ii), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
+[^c-7bc2017b1c63f6ee8001f2219b07da93]: Textual amendment: Words in [s. 19(2)(c)](https://www.legislation.gov.uk/ukpga/1976/76/section/19/2/c) omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/1/b/ii), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
 
-[^key-98403044471358e813965cabe7ad55d8]: Textual amendment: Words in [s. 21](https://www.legislation.gov.uk/ukpga/1976/76/section/21) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/5); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-98403044471358e813965cabe7ad55d8]: Textual amendment: Words in [s. 21](https://www.legislation.gov.uk/ukpga/1976/76/section/21) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/5); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^c7248231]: Editorial: Words substituted (E.W.S.) by Co-operative [Development Agency and Industrial Development Act 1984 (c. 57, SIF 64)](https://www.legislation.gov.uk/ukpga/1984/57), [s. 5(2)](https://www.legislation.gov.uk/ukpga/1984/57/section/5/2), [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/ukpga/1984/57/schedule/1/part/II/paragraph/2)
 
@@ -804,7 +804,7 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
 [^c7248621]: Modification: Sch. 2 para. 1 amended (1.4.1992) by [S.I. 1992/231](https://www.legislation.gov.uk/uksi/1992/231)(N.I. 1), art. 38(7); [S.R. 1992/117](https://www.legislation.gov.uk/nisr/1992/117), [art. 3(1)](https://www.legislation.gov.uk/nisr/1992/117/article/3/1).
 
-[^key-1511f5dec1cd54ae80ae6a0fb815ae2d]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/1/2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1511f5dec1cd54ae80ae6a0fb815ae2d]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/1/2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c7248631]: Modification: [Sch. 2 paras. 1–4](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/1) amended by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 35(7)](https://www.legislation.gov.uk/ukpga/1989/29/section/35/7), [s. 112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1)
 
@@ -820,7 +820,7 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
 [^c7248691]: Textual amendment: Words repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
-[^key-2b0e08783b5ba6138ed6073cd56c6932]: Textual amendment: Words in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/6/4) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(g)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/g)
+[^c-2b0e08783b5ba6138ed6073cd56c6932]: Textual amendment: Words in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/6/4) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(g)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/g)
 
 [^c7248741]: Modification: Sch. 2 paras. 7, 8 amended by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 35(7)](https://www.legislation.gov.uk/ukpga/1989/29/section/35/7), [s. 112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 Para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1)
 
@@ -828,13 +828,13 @@ The [^c7248941]Interpretation Act 1889 continues to apply to the interpretation 
 
     Sch. 2 para. 7: disclosure powers extended (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 17](https://www.legislation.gov.uk/ukpga/2001/24/section/17), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/paragraph/15)
 
-[^key-bf642b52afe361b2cc11aee6b7ffd8c2]: Textual amendment: Words in [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/7/c) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf642b52afe361b2cc11aee6b7ffd8c2]: Textual amendment: Words in [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/7/c) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c7248761]: Modification: [Sch. 2 paras. 7](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/8) amended by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 35(7)](https://www.legislation.gov.uk/ukpga/1989/29/section/35/7), [s. 112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 Para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1)
 
 [^c7248771]: Modification: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1976/76/schedule/2/paragraph/8) amended (1.4.1992) by [S.I. 1992/231](https://www.legislation.gov.uk/uksi/1992/231)(N.I. 1), art. 38(7); [S.R. 1992/117](https://www.legislation.gov.uk/nisr/1992/117), [art. 3(1)](https://www.legislation.gov.uk/nisr/1992/117/article/3/1).
 
-[^key-08380986d13637ff33519c5f9f254d3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1976/76/schedule/3) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/530/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08380986d13637ff33519c5f9f254d3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1976/76/schedule/3) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/530/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c7248841]: Modification: The text of Sch. 4 Pt. 1 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

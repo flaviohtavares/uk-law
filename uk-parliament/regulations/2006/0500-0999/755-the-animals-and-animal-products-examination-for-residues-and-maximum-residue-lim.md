@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2006
 
-[^key-9d53ab40cfa45d1eda07d70a1915986b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d53ab40cfa45d1eda07d70a1915986b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9d53ab40cfa45d1eda07d70a1915986b]
+## 1. Title and commencement[^c-9d53ab40cfa45d1eda07d70a1915986b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-9d53ab40cfa45d1eda07d70a1915986b]
+## 2. Amendments[^c-9d53ab40cfa45d1eda07d70a1915986b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d53ab40cfa45d1eda07d70a1915986b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d53ab40cfa45d1eda07d70a1915986b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d53ab40cfa45d1eda07d70a1915986b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d53ab40cfa45d1eda07d70a1915986b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d53ab40cfa45d1eda07d70a1915986b]: Textual amendment: Regulations revoked (W.) (28.3.2019) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019 (S.I. 2019/569)](https://www.legislation.gov.uk/wsi/2019/569), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3), [Sch.](https://www.legislation.gov.uk/wsi/2019/569/schedule) and Regulations revoked (E.S.) (1.7.2015) by The Animals and Animal Products (Examination for Residues and Maximum Residue Limits)(England and Scotland) Regulations 2015 (S.I. 2015/787), regs. 1(1), 33, Sch.
+[^c-9d53ab40cfa45d1eda07d70a1915986b]: Textual amendment: Regulations revoked (W.) (28.3.2019) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019 (S.I. 2019/569)](https://www.legislation.gov.uk/wsi/2019/569), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3), [Sch.](https://www.legislation.gov.uk/wsi/2019/569/schedule) and Regulations revoked (E.S.) (1.7.2015) by The Animals and Animal Products (Examination for Residues and Maximum Residue Limits)(England and Scotland) Regulations 2015 (S.I. 2015/787), regs. 1(1), 33, Sch.

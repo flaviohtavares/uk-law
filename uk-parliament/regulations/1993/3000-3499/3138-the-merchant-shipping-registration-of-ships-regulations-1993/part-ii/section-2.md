@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Register[^key-fb0f8b0f9eac998ee2dd904d11caecc6][^key-571e68cf0ad0383e7c1776a64db29ebc]
+## 2. The Register[^c-fb0f8b0f9eac998ee2dd904d11caecc6][^c-571e68cf0ad0383e7c1776a64db29ebc]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,12 +47,12 @@ summary: ''
 - (a) a clerical error has occurred, or
 - (b) sufficient evidence is produced to satisfy him that the entry is incorrect,
 
-and on making the amendment he shall issue a new certificate of registry or permission[^key-f9c37d2496e4e709f8d25b8e64680b3d] if necessary.
+and on making the amendment he shall issue a new certificate of registry or permission[^c-f9c37d2496e4e709f8d25b8e64680b3d] if necessary.
 
 ## Annotations
 
-[^key-fb0f8b0f9eac998ee2dd904d11caecc6]: Commencement: Reg. 2 in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-fb0f8b0f9eac998ee2dd904d11caecc6]: Commencement: Reg. 2 in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-571e68cf0ad0383e7c1776a64db29ebc]: Modification: Reg. 2 applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1) (as amended (17.4.2026) by [S.I. 2026/348](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2026/348/article/5/a))
+[^c-571e68cf0ad0383e7c1776a64db29ebc]: Modification: Reg. 2 applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1) (as amended (17.4.2026) by [S.I. 2026/348](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2026/348/article/5/a))
 
-[^key-f9c37d2496e4e709f8d25b8e64680b3d]: Textual amendment: Words in reg. 2(6) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/509/regulation/4)
+[^c-f9c37d2496e4e709f8d25b8e64680b3d]: Textual amendment: Words in reg. 2(6) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/509/regulation/4)

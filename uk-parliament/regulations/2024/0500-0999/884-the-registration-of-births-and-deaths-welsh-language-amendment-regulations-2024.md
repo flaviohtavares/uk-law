@@ -41,13 +41,13 @@ Coming into force
 
 The Registrar General for England and Wales makes these Regulations with the approval of the Secretary of State in exercise of the powers conferred by sections 20, 22(2), 23, 23A(1) and (3), 33A(2) and 39(1)(a) of the Births and Deaths Registration Act 1953[^f00001] as extended by section 26(3) of the Welsh Language Act 1993[^f00002].
 
-## 1. Citation and commencement[^key-1a43c2e5757d4b884343960767409ccf]
+## 1. Citation and commencement[^c-1a43c2e5757d4b884343960767409ccf]
 
 (1) These Regulations may be cited as the Registration of Births and Deaths (Welsh Language) (Amendment) Regulations 2024.
 
 (2) These Regulations come into force on 9th September 2024.
 
-## 2. Amendment of the Registration of Births and Deaths (Welsh Language) Regulations 1987[^key-5bc4c37fb0635af70a6fdf2b233618e2][^f00003]
+## 2. Amendment of the Registration of Births and Deaths (Welsh Language) Regulations 1987[^c-5bc4c37fb0635af70a6fdf2b233618e2][^f00003]
 
 (1) The Registration of Births and Deaths (Welsh Language) Regulations 1987 are amended as follows.
 
@@ -129,7 +129,7 @@ The Registrar General for England and Wales makes these Regulations with the app
   > | --- | --- | --- |
   > | 58A(2)(b) | In space .. .. corrected to .. .. on .. .. by me .. .. registrar \[or superintendent registrar\] on receipt of notification from the medical examiner | Yn y gofod .. .. wedi’i gywiro i .. .. ar.. .. gennyf i .. .. cofrestrydd \[neu gofrestrydd arolygol\] ar ôl derbyn hysbysiad gan yr archwilydd meddygol |
 
-## 3. Transitional provision[^key-d0a55729269093e275190cc4ecef1196]
+## 3. Transitional provision[^c-d0a55729269093e275190cc4ecef1196]
 
 (1) This regulation applies where, immediately before the date on which these Regulations come into force—
 
@@ -167,7 +167,7 @@ Home Office
 
 3rd September 2024
 
-## SCHEDULE — Prescribed forms[^key-9e8b142949a54402002d5eea54585a5a]
+## SCHEDULE — Prescribed forms[^c-9e8b142949a54402002d5eea54585a5a]
 
 Regulation 2(6)(c)
 
@@ -191,9 +191,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
 
-[^key-1a43c2e5757d4b884343960767409ccf]: Commencement: Reg. 1 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/884/regulation/1/2)
+[^c-1a43c2e5757d4b884343960767409ccf]: Commencement: Reg. 1 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/884/regulation/1/2)
 
-[^key-5bc4c37fb0635af70a6fdf2b233618e2]: Commencement: Reg. 2 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/884/regulation/1/2)
+[^c-5bc4c37fb0635af70a6fdf2b233618e2]: Commencement: Reg. 2 in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/884/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1987/2089](https://www.legislation.gov.uk/uksi/1987/2089).
 
@@ -205,6 +205,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: Schedule 3 was substituted by [S.I. 2009/2165](https://www.legislation.gov.uk/uksi/2009/2165).
 
-[^key-d0a55729269093e275190cc4ecef1196]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/884/regulation/3) inserted (9.9.2024) by [The Registration of Births and Deaths (Welsh Language) (Amendment) (Transitional Provisions) Order 2024 (S.I. 2024/906)](https://www.legislation.gov.uk/uksi/2024/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/906/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/906/article/2)
+[^c-d0a55729269093e275190cc4ecef1196]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/884/regulation/3) inserted (9.9.2024) by [The Registration of Births and Deaths (Welsh Language) (Amendment) (Transitional Provisions) Order 2024 (S.I. 2024/906)](https://www.legislation.gov.uk/uksi/2024/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/906/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/906/article/2)
 
-[^key-9e8b142949a54402002d5eea54585a5a]: Commencement: Sch. in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/884/regulation/1/2)
+[^c-9e8b142949a54402002d5eea54585a5a]: Commencement: Sch. in force at 9.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/884/regulation/1/2)

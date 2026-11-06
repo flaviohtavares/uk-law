@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Section 384 (power of FCA or PRA to require restitution)[^key-251d4c40e01b6d1d806929165f69d8f1]
+## 72. Section 384 (power of FCA or PRA to require restitution)[^c-251d4c40e01b6d1d806929165f69d8f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-251d4c40e01b6d1d806929165f69d8f1]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-251d4c40e01b6d1d806929165f69d8f1]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658121]: Marginal citation: Section 384 was amended by section 37(1) of, and paragraph 1 of Part 1 and paragraphs 23(1), (2)(a), (2)(b), (4)(a), (4)(b), (5), (6)(a), (6)(b), (7), (8), (9) and (10) of Part 5 of Schedule 9 to, the Financial Services Act 2012, section 141 of, and paragraphs 3(1) and (4) of Schedule 10 to, the Financial Services (Banking Reform) Act 2013, [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and 2016/680.
 

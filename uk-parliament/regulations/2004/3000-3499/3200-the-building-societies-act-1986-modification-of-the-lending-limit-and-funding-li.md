@@ -46,18 +46,18 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred upon them by sections 6(7)[^f00001] and 7(7)[^f00002] of the Building Societies Act 1986[^f00003] hereby make the following Order:
 
-## 1. Citation and commencement[^key-feea6d2c025fd587682fd359c79420c6]
+## 1. Citation and commencement[^c-feea6d2c025fd587682fd359c79420c6]
 
 (1) This Order may be cited as the Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004.
 
 (2) This Order comes into force on 1st January 2005.
 
-## 2. Interpretation[^key-198d0c449b463708a906c6b03c113ad0]
+## 2. Interpretation[^c-198d0c449b463708a906c6b03c113ad0]
 
 (1) In this Order —
 
 - “the 1986 Act” means the Building Societies Act 1986;
-- “[^key-84dda50ae86e852260bcdabf01d6f1a7]**credit institution**” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+- “[^c-84dda50ae86e852260bcdabf01d6f1a7]**credit institution**” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
 - “debt securities” means any instrument creating or acknowledging indebtedness which is issued by an undertaking, including debentures, loan stock, bonds and certificates of deposit;
 - “securitised assets” means loan assets which are used by the special purpose entity as security under a loan agreement or as security in respect of an issue of debt securities;
 - “special purpose entity” means an undertaking established by or at the request of a building society for the purpose of purchasing loan assets from the society, its subsidiary undertakings or other undertakings and funding such purchases by using the assets purchased as security.
@@ -87,7 +87,7 @@ c
 
 C is the amount of any payments which the society or its subsidiary or associated undertakings are required to make to the special purpose entity under the terms of the securitisation transaction where the society or its subsidiary or associated undertakings are in breach of a warranty given to the special purpose entity in respect of a securitised asset.
 
-## 3. Securitised assets of a subsidiary undertaking and the lending limit[^key-4adf6dfd99f8c9cc4c380bf5b96f8cc1]
+## 3. Securitised assets of a subsidiary undertaking and the lending limit[^c-4adf6dfd99f8c9cc4c380bf5b96f8cc1]
 
 (1) Section 6(2)[^f00005] of the 1986 Act is modified in its application to assets of subsidiary undertakings of a building society as follows.
 
@@ -107,7 +107,7 @@ C is the amount of any payments which the society or its subsidiary or associate
   - (i) a right or obligation of the society or its subsidiary or associated undertakings to acquire or re-acquire a securitised asset in respect of which there is a breach of a warranty given to the special purpose entity; and
   - (ii) a right or obligation of the society or its subsidiary or associated undertakings to acquire or re-acquire the remaining securitised assets once their value has decreased to 10% of their value when the securitisation transaction was entered into, or such lower percentage as may be specified in the transaction agreement.
 
-## 4. Securitised assets of a subsidiary undertaking and the funding limit[^key-590abfd5c19e5cac560aec87b256491d]
+## 4. Securitised assets of a subsidiary undertaking and the funding limit[^c-590abfd5c19e5cac560aec87b256491d]
 
 (1) Section 7(2)[^f00006] of the 1986 Act is modified in its application to liabilities of subsidiary undertakings of a building society as follows.
 
@@ -134,16 +134,16 @@ This Order modifies the application of the Building Societies Act 1986 provision
 
 [^f00003]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
-[^key-feea6d2c025fd587682fd359c79420c6]: Commencement: Art. 1 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+[^c-feea6d2c025fd587682fd359c79420c6]: Commencement: Art. 1 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
 
-[^key-198d0c449b463708a906c6b03c113ad0]: Commencement: Art. 2 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+[^c-198d0c449b463708a906c6b03c113ad0]: Commencement: Art. 2 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
 
-[^key-84dda50ae86e852260bcdabf01d6f1a7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3200/article/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/710/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84dda50ae86e852260bcdabf01d6f1a7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3200/article/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/710/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4adf6dfd99f8c9cc4c380bf5b96f8cc1]: Commencement: Art. 3 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+[^c-4adf6dfd99f8c9cc4c380bf5b96f8cc1]: Commencement: Art. 3 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
 
 [^f00005]: Footnote: Section 6 was substituted by the Building Societies Act 1997 and amended by S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), and S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-590abfd5c19e5cac560aec87b256491d]: Commencement: Art. 4 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+[^c-590abfd5c19e5cac560aec87b256491d]: Commencement: Art. 4 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
 
 [^f00006]: Footnote: Section 7 was substituted by the Building Societies Act 1997 and amended by S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).

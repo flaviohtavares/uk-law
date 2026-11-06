@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Application of Part[^key-7b52c97650a98ca06eab51632caf79a3]
+## 58. Application of Part[^c-7b52c97650a98ca06eab51632caf79a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies in relation to retirement benefits payable in respect of a con
 
 ## Annotations
 
-[^key-7b52c97650a98ca06eab51632caf79a3]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2014/1964/regulation/58) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-7b52c97650a98ca06eab51632caf79a3]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2014/1964/regulation/58) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

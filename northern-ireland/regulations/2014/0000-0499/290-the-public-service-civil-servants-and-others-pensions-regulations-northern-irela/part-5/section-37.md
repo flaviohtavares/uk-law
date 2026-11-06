@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Establishment of pension accounts: general[^key-589f6f62090d7ee3b66298a250ca17bf]
+## 37. Establishment of pension accounts: general[^c-589f6f62090d7ee3b66298a250ca17bf]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-589f6f62090d7ee3b66298a250ca17bf]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2014/290/regulation/37) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-589f6f62090d7ee3b66298a250ca17bf]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2014/290/regulation/37) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

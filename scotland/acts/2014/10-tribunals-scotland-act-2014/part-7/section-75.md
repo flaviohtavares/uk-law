@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Publication and effect[^key-3458284d78df2dc4f81e3f5cb91b2438]
+## 75. Publication and effect[^c-3458284d78df2dc4f81e3f5cb91b2438]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ those issued under section 74(1) are to prevail.
 
 ## Annotations
 
-[^key-3458284d78df2dc4f81e3f5cb91b2438]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/10/section/75) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3458284d78df2dc4f81e3f5cb91b2438]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/10/section/75) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Exclusive economic zone[^c2007821][^key-1b0af4502759551eda25ab2ca8f7719c]
+## 41. Exclusive economic zone[^c2007821][^c-1b0af4502759551eda25ab2ca8f7719c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2007821]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2009/23/section/41) partly in force; [s. 41](https://www.legislation.gov.uk/ukpga/2009/23/section/41) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-1b0af4502759551eda25ab2ca8f7719c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2009/23/section/41) in force at 31.3.2014 in so far as not already in force by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-1b0af4502759551eda25ab2ca8f7719c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2009/23/section/41) in force at 31.3.2014 in so far as not already in force by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application and modification of statutory provisions[^key-92d3f64dccabd055aa61d682d8b6ade2]
+## 6. Application and modification of statutory provisions[^c-92d3f64dccabd055aa61d682d8b6ade2]
 
 *Extent: E+W*
 
-(1) The following provisions do not apply in relation to the carrying out of any activities or development[^key-3c9843689327726ecc334864384c9029] required for the purposes of, or in connection with, the authorised development—
+(1) The following provisions do not apply in relation to the carrying out of any activities or development[^c-3c9843689327726ecc334864384c9029] required for the purposes of, or in connection with, the authorised development—
 
 - (a) section 23 (prohibition of obstructions, etc. in watercourses) of the Land Drainage Act 1991[^f00028];
 - (b) section 32 (variation of awards)[^f00029] of the Land Drainage Act 1991;
@@ -55,9 +55,9 @@ summary: ''
 
 ## Annotations
 
-[^key-92d3f64dccabd055aa61d682d8b6ade2]: Commencement: Art. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-92d3f64dccabd055aa61d682d8b6ade2]: Commencement: Art. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-3c9843689327726ecc334864384c9029]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2024/796/article/6/1) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-3c9843689327726ecc334864384c9029]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2024/796/article/6/1) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
 [^f00028]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraphs 25 and 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

@@ -37,11 +37,11 @@ Made
 
 The Department of Health, in exercise of the powers conferred by section 160(1) of the Adoption and Children Act (Northern Ireland) 2022[^f00001], makes the following Order.
 
-## 1. Citation[^key-72d64aded2024b5cf75e185cab43b5fd]
+## 1. Citation[^c-72d64aded2024b5cf75e185cab43b5fd]
 
 This Order may be cited as the Adoption and Children (2022 Act) (Commencement No.2) Order (Northern Ireland) 2024.
 
-## 2. Appointed day[^key-b16d30fc58e8b88ccc55626ff9205bee]
+## 2. Appointed day[^c-b16d30fc58e8b88ccc55626ff9205bee]
 
 (1) The day appointed for the coming into operation of the following sections of the Adoption and Children Act (Northern Ireland) 2022 is 1st April 2024–
 
@@ -91,6 +91,6 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00001]: Footnote: [2022 c.18 (N.I.)](https://www.legislation.gov.uk/nia/2022/18)
 
-[^key-72d64aded2024b5cf75e185cab43b5fd]: Commencement: Art. 1 in operation at made date
+[^c-72d64aded2024b5cf75e185cab43b5fd]: Commencement: Art. 1 in operation at made date
 
-[^key-b16d30fc58e8b88ccc55626ff9205bee]: Commencement: Art. 2 in operation at made date
+[^c-b16d30fc58e8b88ccc55626ff9205bee]: Commencement: Art. 2 in operation at made date

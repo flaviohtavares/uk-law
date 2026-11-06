@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers make the following Order in exercise of the powers conferred by sections 1(1), (2), (3), (4) and (6), 5(1) and (2), 6(1) and (3) and 20(1) of the Sea Fish (Conservation) Act 1967[^f00001] and sections 189(1) and 316(1) of the Marine and Coastal Access Act 2009[^f00002].
 
-## 1. Title, commencement and application[^key-d699f600211607eef2c8823331e97ee9]
+## 1. Title, commencement and application[^c-d699f600211607eef2c8823331e97ee9]
 
 (1) The title of this Order is the Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015 and it comes into force on 1 February 2016.
 
@@ -55,15 +55,15 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 (3) Articles 3(f), (g), (h) and (i) and 6(1)(f) apply in relation to Wales and the Welsh zone.
 
-## 2. Interpretation[^key-93b4d359fda3bba3f9351d4a22b82398]
+## 2. Interpretation[^c-93b4d359fda3bba3f9351d4a22b82398]
 
 In this Order—
 
 - “the Act” (“*y Ddeddf*“) means the Sea Fish (Conservation) Act 1967[^f00003];
-- [^key-a59ba525ee8ba57568602b29b2fe1009]...
+- [^c-a59ba525ee8ba57568602b29b2fe1009]...
 - “crawfish” (“*cimwch coch*”) means crawfish of the species *Palinurus elephas* and *Palinurus mauritanicus*;
 - “edible crab” (“*cranc coch*”) means crab of the species *Cancer pagurus*;
-- [^key-a59ba525ee8ba57568602b29b2fe1009]...
+- [^c-a59ba525ee8ba57568602b29b2fe1009]...
 - “green crab” (“*cranc gwyrdd*”) means crab of the species *Carcinus maenas*;
 - “lobster” (“*cimwch*”) means lobster of the species *Homarus gammarus*;
 - “mutilated” (“*wedi ei lurgunio*”) in relation to a lobster or crawfish, means a lobster or crawfish which is mutilated in such a manner as to obscure a V notch;
@@ -79,7 +79,7 @@ In this Order—
 - “Wales” (“*Cymru*”) has the same meaning as it has by virtue of section 158 of the Government of Wales Act 2006[^f00005]; and
 - “Welsh zone” (“*parth Cymru*”) has the same meaning as it has by virtue of section 158 of the Government of Wales Act 2006[^f00006].
 
-## 3. Fishing prohibition for specified crawfish, lobster, edible crab, spider crab and velvet crab[^key-a7de541f9fb35b6b720cd3e019bb466e]
+## 3. Fishing prohibition for specified crawfish, lobster, edible crab, spider crab and velvet crab[^c-a7de541f9fb35b6b720cd3e019bb466e]
 
 (1) Fishing for—
 
@@ -93,9 +93,9 @@ In this Order—
 - (h) a mutilated lobster; or
 - (i) any crawfish or lobster bearing a V notch, is prohibited.
 
-(2)[^key-cb135c8ea3f902daddd9f57e441d12e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cb135c8ea3f902daddd9f57e441d12e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibitions on landing of specified crawfish, lobster, edible crab, green crab, spider crab and velvet crab[^key-ac142ebece48d72e752101da6f8a8cda]
+## 4. Prohibitions on landing of specified crawfish, lobster, edible crab, green crab, spider crab and velvet crab[^c-ac142ebece48d72e752101da6f8a8cda]
 
 (1) For the purposes of section 1(1) of the Act (which prohibits the landing of any sea fish of any description which does not meet the requirements as to size as may be prescribed in relation to sea fish of that description), it is prescribed that the minimum size for—
 
@@ -106,7 +106,7 @@ In this Order—
 - (e) male spider crab, is 130 millimetres; and
 - (f) velvet crab, is 65 millimetres.
 
-(2)[^key-336029f5f3a94a4db40e04990fa1741d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-336029f5f3a94a4db40e04990fa1741d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The landing of any—
 
@@ -117,9 +117,9 @@ In this Order—
 
 wherever caught, is prohibited.
 
-(4)[^key-4398ccef6bab7cd8c9400b0139fd6ebc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4398ccef6bab7cd8c9400b0139fd6ebc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibitions on sale, exposure or offer for sale or possession of specified crawfish, lobster, edible crab, spider crab and velvet crab[^key-6554296e3efd089f8daa4760d48400d7]
+## 5. Prohibitions on sale, exposure or offer for sale or possession of specified crawfish, lobster, edible crab, spider crab and velvet crab[^c-6554296e3efd089f8daa4760d48400d7]
 
 (1) For the purposes of section 1(2) of the Act (which prohibits the sale, exposure or offer for sale or possession for the purpose of sale of any sea fish of any description which does not meet the requirements as to size as may be prescribed in relation to sea fish of that description), it is prescribed that the minimum size for—
 
@@ -130,7 +130,7 @@ wherever caught, is prohibited.
 - (e) male spider crab, is 130 millimetres; and
 - (f) velvet crab, is 65 millimetres.
 
-(2)[^key-8eaa69fa41d026bad0273b310d563b13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8eaa69fa41d026bad0273b310d563b13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The sale, exposure or offer for sale of any—
 
@@ -141,11 +141,11 @@ wherever caught, is prohibited.
 
 wherever caught, is prohibited.
 
-(4)[^key-c42dbf2294a7641345790abf8d3a5da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c42dbf2294a7641345790abf8d3a5da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prohibitions on carriage of specified crawfish, lobster, edible crab, green crab, spider crab and velvet crab ...[^key-ef84cf867c915eb81433f759f7b42d60][^key-d340d56a393da46d2101a278735759d9]
+## 6. Prohibitions on carriage of specified crawfish, lobster, edible crab, green crab, spider crab and velvet crab ...[^c-ef84cf867c915eb81433f759f7b42d60][^c-d340d56a393da46d2101a278735759d9]
 
-(1) For the purposes of section 1(3) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description which does not meet the requirements as to size prescribed in relation to sea fish of that description), it is prohibited for a fishing boat[^key-19de10c899b5f675e056bbe97fa32586] to carry any—
+(1) For the purposes of section 1(3) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description which does not meet the requirements as to size prescribed in relation to sea fish of that description), it is prohibited for a fishing boat[^c-19de10c899b5f675e056bbe97fa32586] to carry any—
 
 - (a) crawfish with a size of less than 110 millimetres;
 - (b) lobster with a size of less than 90 millimetres;
@@ -154,7 +154,7 @@ wherever caught, is prohibited.
 - (e) male spider crab with a size of less than 130 millimetres; and
 - (f) velvet crab with a size of less than 65 millimetres.
 
-(2) The carriage on a fishing boat[^key-88ecbe0d515ea1a254f32c6c56d1328f] in Wales of—
+(2) The carriage on a fishing boat[^c-88ecbe0d515ea1a254f32c6c56d1328f] in Wales of—
 
 - (a) a mutilated crawfish;
 - (b) a mutilated lobster;
@@ -163,7 +163,7 @@ wherever caught, is prohibited.
 
 wherever caught, is prohibited.
 
-## 7. Revocations and consequential amendments[^key-f2d09379684bb51f601a7dd62b85f7ee]
+## 7. Revocations and consequential amendments[^c-f2d09379684bb51f601a7dd62b85f7ee]
 
 (1) The following Orders are revoked in relation to Wales—
 
@@ -201,25 +201,25 @@ Carl Sargeant
 
 Minister for Natural Resources, one of the Welsh Ministers
 
-## SCHEDULE — MEASUREMENT OF SIZE OF SPECIFIED CRUSTACEANS[^key-53649a6747455e2af56e4217d102438e]
+## SCHEDULE — MEASUREMENT OF SIZE OF SPECIFIED CRUSTACEANS[^c-53649a6747455e2af56e4217d102438e]
 
 Article 2
 
-[^key-53649a6747455e2af56e4217d102438e]Diagram 1 (Crawfish)
+[^c-53649a6747455e2af56e4217d102438e]Diagram 1 (Crawfish)
 
-[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_001)
+[^c-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_001)
 
-[^key-53649a6747455e2af56e4217d102438e]Diagram 2 (Edible Crab and Velvet Crab)
+[^c-53649a6747455e2af56e4217d102438e]Diagram 2 (Edible Crab and Velvet Crab)
 
-[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_002)
+[^c-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_002)
 
-[^key-53649a6747455e2af56e4217d102438e]Diagram 3 (Lobster)
+[^c-53649a6747455e2af56e4217d102438e]Diagram 3 (Lobster)
 
-[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_003)
+[^c-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_003)
 
-[^key-53649a6747455e2af56e4217d102438e]Diagram 4 (Spider Crab)
+[^c-53649a6747455e2af56e4217d102438e]Diagram 4 (Spider Crab)
 
-[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_004)
+[^c-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_004)
 
 EXPLANATORY NOTE
 
@@ -275,43 +275,43 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-d699f600211607eef2c8823331e97ee9]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2015/2076/article/1) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-d699f600211607eef2c8823331e97ee9]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2015/2076/article/1) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
-[^key-93b4d359fda3bba3f9351d4a22b82398]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2015/2076/article/2) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-93b4d359fda3bba3f9351d4a22b82398]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2015/2076/article/2) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
 [^f00003]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
-[^key-a59ba525ee8ba57568602b29b2fe1009]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/2076/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a59ba525ee8ba57568602b29b2fe1009]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/2076/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00005]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 158(1) was amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 43(1) and (2). For the purposes of the definition of “Wales” in section 158(1) of the 2009 Act, the boundary between those parts of the sea within the Severn and Dee Estuaries which are to be treated as adjacent to Wales and those which are not are, in each case, a line drawn between the co-ordinates set out in Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). By virtue of section 162 of and paragraph 26 of Schedule 11 to the 2006 Act, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) continues to have effect.
 
 [^f00006]: Footnote: The Welsh zone is specified in [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760).
 
-[^key-a7de541f9fb35b6b720cd3e019bb466e]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2015/2076/article/3) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-a7de541f9fb35b6b720cd3e019bb466e]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2015/2076/article/3) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
-[^key-cb135c8ea3f902daddd9f57e441d12e4]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/3/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-cb135c8ea3f902daddd9f57e441d12e4]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/3/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ac142ebece48d72e752101da6f8a8cda]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2015/2076/article/4) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-ac142ebece48d72e752101da6f8a8cda]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2015/2076/article/4) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
-[^key-336029f5f3a94a4db40e04990fa1741d]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/4/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-336029f5f3a94a4db40e04990fa1741d]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/4/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-4398ccef6bab7cd8c9400b0139fd6ebc]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/wsi/2015/2076/article/4/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-4398ccef6bab7cd8c9400b0139fd6ebc]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/wsi/2015/2076/article/4/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-6554296e3efd089f8daa4760d48400d7]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2015/2076/article/5) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-6554296e3efd089f8daa4760d48400d7]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2015/2076/article/5) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
-[^key-8eaa69fa41d026bad0273b310d563b13]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/5/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-8eaa69fa41d026bad0273b310d563b13]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/5/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-c42dbf2294a7641345790abf8d3a5da4]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/wsi/2015/2076/article/5/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c42dbf2294a7641345790abf8d3a5da4]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/wsi/2015/2076/article/5/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ef84cf867c915eb81433f759f7b42d60]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2015/2076/article/6) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-ef84cf867c915eb81433f759f7b42d60]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2015/2076/article/6) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
-[^key-d340d56a393da46d2101a278735759d9]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2015/2076/article/6) heading omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-d340d56a393da46d2101a278735759d9]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2015/2076/article/6) heading omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-19de10c899b5f675e056bbe97fa32586]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/6/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-19de10c899b5f675e056bbe97fa32586]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/6/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-88ecbe0d515ea1a254f32c6c56d1328f]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/6/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-88ecbe0d515ea1a254f32c6c56d1328f]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/6/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f2d09379684bb51f601a7dd62b85f7ee]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2015/2076/article/7) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-f2d09379684bb51f601a7dd62b85f7ee]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2015/2076/article/7) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
 
 [^f00007]: Footnote: [S.I. 1986/497](https://www.legislation.gov.uk/uksi/1986/497) as amended by [S.I. 1989/2443](https://www.legislation.gov.uk/uksi/1989/2443).
 
@@ -351,4 +351,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00025]: Footnote: The North Western and North Wales Sea Fisheries Committee was dissolved, in relation to Wales, on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38) in relation to Wales.
 
-[^key-53649a6747455e2af56e4217d102438e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/2076/schedule) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+[^c-53649a6747455e2af56e4217d102438e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/2076/schedule) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)

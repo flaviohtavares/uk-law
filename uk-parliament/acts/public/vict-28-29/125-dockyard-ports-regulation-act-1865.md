@@ -44,7 +44,7 @@ In this Act—
 - The term “**dockyard port**” means any port, harbour, haven, roadstead, sound, channel, creek, bay, or navigable river of the United Kingdom in, on, or near to which Her Majesty now or at any time hereafter has any dock, dockyard, steam factory yard, victualling yard, arsenal, wharf, or mooring:
 - [^c564318]The term “**vessel**” includes ship, boat, lighter, and craft of every kind, however propelled:
 - The term “master” applied to a vessel means the person having the command or charge of the vessel for the time being:
-- [^key-94461b191aa740f04cfdd50b1b23223d]...
+- [^c-94461b191aa740f04cfdd50b1b23223d]...
 - The term “**sheriff**” means the sheriff principal[^c564319] of the county
 - . . . [^c564320]
 - in Scotland in which the matter submitted to the cognizance of the sheriff arises, and includes the sheriff . . . [^c564320]:
@@ -128,14 +128,14 @@ For the purpose of giving jurisdiction, every offence against this Act or any Or
 
 ## 22. Jurisdiction of justice of the peace.
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-9668f8034105d8442ff8090dd01a2a7d][^key-de7beef8f47bd842a1a715f75ce14feb] For the purposes of this Act, where a local justice area in England and Wales abuts on the shore of the sea or other navigable water, any magistrates' court in England and Wales has jurisdiction over— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-de7beef8f47bd842a1a715f75ce14feb]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-9668f8034105d8442ff8090dd01a2a7d][^c-de7beef8f47bd842a1a715f75ce14feb] For the purposes of this Act, where a local justice area in England and Wales abuts on the shore of the sea or other navigable water, any magistrates' court in England and Wales has jurisdiction over— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-de7beef8f47bd842a1a715f75ce14feb]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-de7beef8f47bd842a1a715f75ce14feb] any vessel which is near or passes near the shore, and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-de7beef8f47bd842a1a715f75ce14feb]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-de7beef8f47bd842a1a715f75ce14feb] every person on board the vessel or belonging to it, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-de7beef8f47bd842a1a715f75ce14feb]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-de7beef8f47bd842a1a715f75ce14feb] any vessel which is near or passes near the shore, and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-de7beef8f47bd842a1a715f75ce14feb]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-de7beef8f47bd842a1a715f75ce14feb] every person on board the vessel or belonging to it, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-de7beef8f47bd842a1a715f75ce14feb]
 
-as if the vessel or person were in England and Wales. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-de7beef8f47bd842a1a715f75ce14feb]
+as if the vessel or person were in England and Wales. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-de7beef8f47bd842a1a715f75ce14feb]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-de7beef8f47bd842a1a715f75ce14feb] Where any other district *(Extent: N.I.)* *(affected by repeal, see note)*[^key-de7beef8f47bd842a1a715f75ce14feb] within which any justice, sheriff, or magistrate has jurisdiction for any purpose under this or any other Act, or at common law, abuts on the shore of the sea or other navigable water, every such justice, sheriff, or magistrate shall for the purposes of this Act have jurisdiction over any vessel being or passing near the shore, and over every person on board thereof or belonging thereto, as if such vessel or person was within the ordinary limits of the jurisdiction of the justice, sheriff, or magistrate. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-de7beef8f47bd842a1a715f75ce14feb]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-de7beef8f47bd842a1a715f75ce14feb] Where any other district *(Extent: N.I.)* *(affected by repeal, see note)*[^c-de7beef8f47bd842a1a715f75ce14feb] within which any justice, sheriff, or magistrate has jurisdiction for any purpose under this or any other Act, or at common law, abuts on the shore of the sea or other navigable water, every such justice, sheriff, or magistrate shall for the purposes of this Act have jurisdiction over any vessel being or passing near the shore, and over every person on board thereof or belonging thereto, as if such vessel or person was within the ordinary limits of the jurisdiction of the justice, sheriff, or magistrate. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-de7beef8f47bd842a1a715f75ce14feb]
 
 ## 23. Saving for right of property, &c.
 
@@ -159,7 +159,7 @@ Every Order in Council under this Act shall be laid before both Houses of Parlia
 
 [^c564318]: Modification: Definition of “vessel” extended by [Hovercraft Act 1968 (c. 59)](https://www.legislation.gov.uk/ukpga/1968/59), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1968/59/schedule/paragraph/1)
 
-[^key-94461b191aa740f04cfdd50b1b23223d]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/28-29/125/section/2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-94461b191aa740f04cfdd50b1b23223d]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/28-29/125/section/2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c564319]: Textual amendment: Words substituted by virtue of [Sheriff Courts Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [s. 4](https://www.legislation.gov.uk/ukpga/1971/58/section/4)
 
@@ -189,9 +189,9 @@ Every Order in Council under this Act shall be laid before both Houses of Parlia
 
 [^c564336]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/Vict/28-29/125/section/15) extended by S.R. & O. 1938/136 (Rev. 1 p. 1329: 1938 I, p. 72), art. 3
 
-[^key-9668f8034105d8442ff8090dd01a2a7d]: Textual amendment: S. 22(1)(2) substituted (1.4.2005) for words by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1)[Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/49); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-9668f8034105d8442ff8090dd01a2a7d]: Textual amendment: S. 22(1)(2) substituted (1.4.2005) for words by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1)[Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/49); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-de7beef8f47bd842a1a715f75ce14feb]: Textual amendment: S. 22 repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/30), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-de7beef8f47bd842a1a715f75ce14feb]: Textual amendment: S. 22 repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/30), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c564337]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/28-29/125/section/24) repealed by [Public Authorities Protection Act 1893 (c. 61)](https://www.legislation.gov.uk/ukpga/1893/61), [s. 2](https://www.legislation.gov.uk/ukpga/1893/61/section/2)
 

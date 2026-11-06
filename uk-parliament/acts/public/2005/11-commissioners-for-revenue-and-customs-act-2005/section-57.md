@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Short title[^key-53a7a94f647d589e7907ff8a1b5d5212]
+## 57. Short title[^c-53a7a94f647d589e7907ff8a1b5d5212]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Commissioners for Revenue and Customs Act 2005.
 
 ## Annotations
 
-[^key-53a7a94f647d589e7907ff8a1b5d5212]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2005/11/section/57) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-53a7a94f647d589e7907ff8a1b5d5212]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2005/11/section/57) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

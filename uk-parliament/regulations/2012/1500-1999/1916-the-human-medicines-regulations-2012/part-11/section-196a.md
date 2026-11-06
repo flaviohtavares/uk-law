@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196A. Major safety review by the licensing authority[^key-9fd33ab65424112dfb339a521cfadfd8]
+## 196A. Major safety review by the licensing authority[^c-9fd33ab65424112dfb339a521cfadfd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ it may exercise its powers under Part 5 or 7 (as the case may be) in relation to
 
 ## Annotations
 
-[^key-9fd33ab65424112dfb339a521cfadfd8]: Textual amendment: Reg. 196A inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [156](https://www.legislation.gov.uk/uksi/2019/775/regulation/156) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fd33ab65424112dfb339a521cfadfd8]: Textual amendment: Reg. 196A inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [156](https://www.legislation.gov.uk/uksi/2019/775/regulation/156) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

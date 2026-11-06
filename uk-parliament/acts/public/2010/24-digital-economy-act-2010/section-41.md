@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-cfa4e611574311877caa4d0a81ec2fbc] After section 4 of the Video Recordings Act 1984 insert—
+(1)[^c-cfa4e611574311877caa4d0a81ec2fbc] After section 4 of the Video Recordings Act 1984 insert—
 
 > **4ZA. Designated authorities for video games and other video works**
 >
@@ -73,12 +73,12 @@ summary: ''
 >
 > (4) In this section, “**suitability**” means suitability for the issue of a classification certificate or suitability for the issue of a classification certificate of a particular description.
 
-(2)[^key-55ea8297d59affcebd12216eb561333d] Schedule 1 (which contains further amendments of the Video Recordings Act 1984) has effect.
+(2)[^c-55ea8297d59affcebd12216eb561333d] Schedule 1 (which contains further amendments of the Video Recordings Act 1984) has effect.
 
 ## Annotations
 
 [^c2030764]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2010/24/section/41) partly in force; [s. 41(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/41/2) in force for specified purposes at 8.6.2010 see [s. 47(1)(3)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1/3/c)
 
-[^key-cfa4e611574311877caa4d0a81ec2fbc]: Commencement: [S. 41(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/41/1) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/a)
+[^c-cfa4e611574311877caa4d0a81ec2fbc]: Commencement: [S. 41(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/41/1) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/a)
 
-[^key-55ea8297d59affcebd12216eb561333d]: Commencement: [S. 41(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/41/2) in force for specified purposes at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-55ea8297d59affcebd12216eb561333d]: Commencement: [S. 41(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/41/2) in force for specified purposes at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)

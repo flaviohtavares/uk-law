@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Electoral reform regulations[^key-9fe3be41362ad24aca48eb84d1f40ad1]
+## 18. Electoral reform regulations[^c-9fe3be41362ad24aca48eb84d1f40ad1]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fe3be41362ad24aca48eb84d1f40ad1]: Commencement: S. 18 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-9fe3be41362ad24aca48eb84d1f40ad1]: Commencement: S. 18 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

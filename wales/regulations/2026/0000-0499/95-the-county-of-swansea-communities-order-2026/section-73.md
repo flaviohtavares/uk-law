@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Dunvant, Killay, and Upper Killay — changes in community and community ward boundaries and consequential changes to electoral arrangements[^key-c4297ee89c4f253ab62118af76fc3e4d]
+## 73. Dunvant, Killay, and Upper Killay — changes in community and community ward boundaries and consequential changes to electoral arrangements[^c-c4297ee89c4f253ab62118af76fc3e4d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The parts of the community of Three Crosses shown shaded on Map 29—
 
 ## Annotations
 
-[^key-c4297ee89c4f253ab62118af76fc3e4d]: Commencement: [Art. 73](https://www.legislation.gov.uk/wsi/2026/95/article/73) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-c4297ee89c4f253ab62118af76fc3e4d]: Commencement: [Art. 73](https://www.legislation.gov.uk/wsi/2026/95/article/73) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

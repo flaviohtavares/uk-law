@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 253. Notice of no, or no further, dividend[^key-8733d5da2059b4d7108ef3b238b1caeb]
+## 253. Notice of no, or no further, dividend[^c-8733d5da2059b4d7108ef3b238b1caeb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.7 of the 1986 Rules.
 
 ## Annotations
 
-[^key-8733d5da2059b4d7108ef3b238b1caeb]: Commencement: Rule 253 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-8733d5da2059b4d7108ef3b238b1caeb]: Commencement: Rule 253 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

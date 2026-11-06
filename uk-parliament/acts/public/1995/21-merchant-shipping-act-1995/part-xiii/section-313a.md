@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313A. Meaning of “qualifying foreign ship”.[^key-1fed2e0140f3931ebc8d096103fbcc73][^c14529621]
+## 313A. Meaning of “qualifying foreign ship”.[^c-1fed2e0140f3931ebc8d096103fbcc73][^c14529621]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1fed2e0140f3931ebc8d096103fbcc73]: Modification: [S. 313A](https://www.legislation.gov.uk/ukpga/1995/21/section/313A) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)
+[^c-1fed2e0140f3931ebc8d096103fbcc73]: Modification: [S. 313A](https://www.legislation.gov.uk/ukpga/1995/21/section/313A) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)
 
 [^c14529621]: Textual amendment: S. 313A inserted (23.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1997/28/section/29/1), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/20); [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art. 2](https://www.legislation.gov.uk/uksi/1997/1082/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule)
 

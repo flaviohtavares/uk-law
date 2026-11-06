@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Amendment of regulation F2[^key-4aee6c8e8e1a98aa15c931bd248829f9]
+## 7. Amendment of regulation F2[^c-4aee6c8e8e1a98aa15c931bd248829f9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation F2 (lump sum when member dies after pension becomes payable), in p
 
 ## Annotations
 
-[^key-4aee6c8e8e1a98aa15c931bd248829f9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/364/regulation/7) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-4aee6c8e8e1a98aa15c931bd248829f9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/364/regulation/7) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

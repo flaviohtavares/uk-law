@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Penalties: overview[^key-881350db5467f4cfa0b27dc52a87d3b4]
+## 157. Penalties: overview[^c-881350db5467f4cfa0b27dc52a87d3b4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ This Part is arranged as follows—
 
 ## Annotations
 
-[^key-881350db5467f4cfa0b27dc52a87d3b4]: Commencement: [S. 157](https://www.legislation.gov.uk/asp/2014/16/section/157) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-881350db5467f4cfa0b27dc52a87d3b4]: Commencement: [S. 157](https://www.legislation.gov.uk/asp/2014/16/section/157) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

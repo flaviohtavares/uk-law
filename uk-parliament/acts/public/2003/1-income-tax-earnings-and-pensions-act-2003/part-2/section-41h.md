@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41H. Section 41F: chargeable and unchargeable foreign securities income[^key-9fd66e2727d055604f2f4f22c87ff1de]
+## 41H. Section 41F: chargeable and unchargeable foreign securities income[^c-9fd66e2727d055604f2f4f22c87ff1de]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,10 +30,10 @@ This is subject to subsection (9) and section 41I (limit where duties of associa
 
 (4) This subsection applies to a tax year if—
 
-- (a) section 809B, 809D or 809E of ITA 2007 applied[^key-38c1349f812b5aeae22a1bf2fb494355] to the individual for the year,
-- (b) the individual did not[^key-7c0d781ef2b86c19aec515d0e51feb1f] meet the requirement of section 26A for the year (reading references there to the employee as references to the individual),
-- (c) the relevant employment was[^key-162f779c32cfbc676e1b53702ed85dc0] with a foreign employer, and
-- (d) the duties of the relevant employment were[^key-6a9dae10bcffd5e8b304f583def241ae] performed wholly outside the United Kingdom in the year.
+- (a) section 809B, 809D or 809E of ITA 2007 applied[^c-38c1349f812b5aeae22a1bf2fb494355] to the individual for the year,
+- (b) the individual did not[^c-7c0d781ef2b86c19aec515d0e51feb1f] meet the requirement of section 26A for the year (reading references there to the employee as references to the individual),
+- (c) the relevant employment was[^c-162f779c32cfbc676e1b53702ed85dc0] with a foreign employer, and
+- (d) the duties of the relevant employment were[^c-6a9dae10bcffd5e8b304f583def241ae] performed wholly outside the United Kingdom in the year.
 
 (5) But subsection (4) does not apply to a tax year if section 24A applies in relation to the relevant employment for the tax year.
 
@@ -48,9 +48,9 @@ This is subject to subsection (9).
 
 (7) This subsection applies to a tax year if—
 
-- (a) section 809B, 809D or 809E of ITA 2007 applied[^key-40f1a652027842a0a115382f44452880] to the individual for the year,
-- (b) the individual met[^key-b693ebdf8a2d2a7dbf5938725f91637c] the requirement of section 26A for the year (reading references there to the employee as references to the individual), and
-- (c) some or all of the duties of the relevant employment were[^key-4e271c0f029d6ee9f274bc8edf48006c] performed outside the United Kingdom in the year.
+- (a) section 809B, 809D or 809E of ITA 2007 applied[^c-40f1a652027842a0a115382f44452880] to the individual for the year,
+- (b) the individual met[^c-b693ebdf8a2d2a7dbf5938725f91637c] the requirement of section 26A for the year (reading references there to the employee as references to the individual), and
+- (c) some or all of the duties of the relevant employment were[^c-4e271c0f029d6ee9f274bc8edf48006c] performed outside the United Kingdom in the year.
 
 (8) If any part of the relevant period is within a tax year for which the individual is not UK resident—
 
@@ -77,18 +77,18 @@ This is subject to subsection (9).
 
 ## Annotations
 
-[^key-9fd66e2727d055604f2f4f22c87ff1de]: Textual amendment: Pt. 2 Ch. 5B substituted (with effect in accordance with Sch. 3 para. 7(3), Sch. 9 para. 48 of the amending Act) for Pt. 2 Ch. 5A by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-9fd66e2727d055604f2f4f22c87ff1de]: Textual amendment: Pt. 2 Ch. 5B substituted (with effect in accordance with Sch. 3 para. 7(3), Sch. 9 para. 48 of the amending Act) for Pt. 2 Ch. 5A by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
 
-[^key-38c1349f812b5aeae22a1bf2fb494355]: Textual amendment: Word in s. 41H(4)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/i)
+[^c-38c1349f812b5aeae22a1bf2fb494355]: Textual amendment: Word in s. 41H(4)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/i)
 
-[^key-7c0d781ef2b86c19aec515d0e51feb1f]: Textual amendment: Words in s. 41H(4)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/ii)
+[^c-7c0d781ef2b86c19aec515d0e51feb1f]: Textual amendment: Words in s. 41H(4)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/ii)
 
-[^key-162f779c32cfbc676e1b53702ed85dc0]: Textual amendment: Word in s. 41H(4)(c) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/iii)
+[^c-162f779c32cfbc676e1b53702ed85dc0]: Textual amendment: Word in s. 41H(4)(c) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/iii)
 
-[^key-6a9dae10bcffd5e8b304f583def241ae]: Textual amendment: Word in s. 41H(4)(d) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(iv)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/iv)
+[^c-6a9dae10bcffd5e8b304f583def241ae]: Textual amendment: Word in s. 41H(4)(d) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(a)(iv)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/a/iv)
 
-[^key-40f1a652027842a0a115382f44452880]: Textual amendment: Word in s. 41H(7)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/b/i)
+[^c-40f1a652027842a0a115382f44452880]: Textual amendment: Word in s. 41H(7)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/b/i)
 
-[^key-b693ebdf8a2d2a7dbf5938725f91637c]: Textual amendment: Word in s. 41H(7)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/b/ii)
+[^c-b693ebdf8a2d2a7dbf5938725f91637c]: Textual amendment: Word in s. 41H(7)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/b/ii)
 
-[^key-4e271c0f029d6ee9f274bc8edf48006c]: Textual amendment: Word in s. 41H(7)(c) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/b/iii)
+[^c-4e271c0f029d6ee9f274bc8edf48006c]: Textual amendment: Word in s. 41H(7)(c) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(9)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/9/b/iii)

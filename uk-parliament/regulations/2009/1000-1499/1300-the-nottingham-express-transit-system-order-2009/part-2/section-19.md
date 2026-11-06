@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Attachment of equipment to buildings[^key-9b9da06eafa1b915dffae84149d884f9]
+## 19. Attachment of equipment to buildings[^c-9b9da06eafa1b915dffae84149d884f9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The promoter may affix to any building for the time being constructed on any lan
 
 ## Annotations
 
-[^key-9b9da06eafa1b915dffae84149d884f9]: Commencement: Art. 19 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-9b9da06eafa1b915dffae84149d884f9]: Commencement: Art. 19 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

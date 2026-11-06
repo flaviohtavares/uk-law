@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Abolition of requirement for confirmation of English schemes[^key-073ef26befe116d16b4d93905e2eaf26][^key-beb8607cebda962e7bf13157ea5ea335]
+## 110. Abolition of requirement for confirmation of English schemes[^c-073ef26befe116d16b4d93905e2eaf26][^c-beb8607cebda962e7bf13157ea5ea335]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-073ef26befe116d16b4d93905e2eaf26]: Commencement: S. 110 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/6))
+[^c-073ef26befe116d16b4d93905e2eaf26]: Commencement: S. 110 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/6))
 
-[^key-beb8607cebda962e7bf13157ea5ea335]: Commencement: S. 110 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(l)](https://www.legislation.gov.uk/uksi/2009/579/article/2/l)
+[^c-beb8607cebda962e7bf13157ea5ea335]: Commencement: S. 110 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(l)](https://www.legislation.gov.uk/uksi/2009/579/article/2/l)

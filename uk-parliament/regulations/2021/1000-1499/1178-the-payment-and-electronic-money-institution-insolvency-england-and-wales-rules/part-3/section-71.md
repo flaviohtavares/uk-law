@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Functions and meetings of the creditors’ committee[^key-598b137156f351430dbd35a0afe8bba3]
+## 71. Functions and meetings of the creditors’ committee[^c-598b137156f351430dbd35a0afe8bba3]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-598b137156f351430dbd35a0afe8bba3]: Commencement: Rule 71 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-598b137156f351430dbd35a0afe8bba3]: Commencement: Rule 71 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

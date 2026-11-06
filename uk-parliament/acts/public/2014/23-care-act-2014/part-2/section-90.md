@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Independence of the Care Quality Commission[^key-65f6085ace6c3558fd3fa3635e915693]
+## 90. Independence of the Care Quality Commission[^c-65f6085ace6c3558fd3fa3635e915693]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65f6085ace6c3558fd3fa3635e915693]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2014/23/section/90) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/e)
+[^c-65f6085ace6c3558fd3fa3635e915693]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2014/23/section/90) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Functions of interim administrator[^key-47f574148a0c9fb7e1b82676b3d40f9b]
+## 168. Functions of interim administrator[^c-47f574148a0c9fb7e1b82676b3d40f9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the interim administrator is not liable to any person in respect of any loss or 
 
 ## Annotations
 
-[^key-47f574148a0c9fb7e1b82676b3d40f9b]: Commencement: [Art. 168](https://www.legislation.gov.uk/uksi/2005/3181/article/168) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-47f574148a0c9fb7e1b82676b3d40f9b]: Commencement: [Art. 168](https://www.legislation.gov.uk/uksi/2005/3181/article/168) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

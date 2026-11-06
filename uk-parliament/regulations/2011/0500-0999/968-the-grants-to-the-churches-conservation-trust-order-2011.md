@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England And Wales
 
-The Grants to the Churches Conservation Trust Order 2011 (revoked)[^key-7eb821bf153c797ee94cfc15e64c87ba]
+The Grants to the Churches Conservation Trust Order 2011 (revoked)[^c-7eb821bf153c797ee94cfc15e64c87ba]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 22nd March 2011
 
-[^key-7eb821bf153c797ee94cfc15e64c87ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7eb821bf153c797ee94cfc15e64c87ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7eb821bf153c797ee94cfc15e64c87ba]
+## 1. Citation and commencement[^c-7eb821bf153c797ee94cfc15e64c87ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period for grants to the Churches Conservation Trust[^key-7eb821bf153c797ee94cfc15e64c87ba]
+## 2. Period for grants to the Churches Conservation Trust[^c-7eb821bf153c797ee94cfc15e64c87ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aggregate amount of grants[^key-7eb821bf153c797ee94cfc15e64c87ba]
+## 3. Aggregate amount of grants[^c-7eb821bf153c797ee94cfc15e64c87ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of previous Order[^key-7eb821bf153c797ee94cfc15e64c87ba]
+## 4. Revocation of previous Order[^c-7eb821bf153c797ee94cfc15e64c87ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7eb821bf153c797ee94cfc15e64c87ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7eb821bf153c797ee94cfc15e64c87ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7eb821bf153c797ee94cfc15e64c87ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7eb821bf153c797ee94cfc15e64c87ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7eb821bf153c797ee94cfc15e64c87ba]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/968) revoked (1.4.2015) by [The Grants to the Churches Conservation Trust Order 2015 (S.I. 2015/908)](https://www.legislation.gov.uk/uksi/2015/908), [arts. 1](https://www.legislation.gov.uk/uksi/2015/908/article/1), [4](https://www.legislation.gov.uk/uksi/2015/908/article/4)
+[^c-7eb821bf153c797ee94cfc15e64c87ba]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/968) revoked (1.4.2015) by [The Grants to the Churches Conservation Trust Order 2015 (S.I. 2015/908)](https://www.legislation.gov.uk/uksi/2015/908), [arts. 1](https://www.legislation.gov.uk/uksi/2015/908/article/1), [4](https://www.legislation.gov.uk/uksi/2015/908/article/4)

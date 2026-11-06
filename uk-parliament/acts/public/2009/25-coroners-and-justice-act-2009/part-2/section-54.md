@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Partial defence to murder: loss of control[^key-79c41c53f334c430ca38462febfc50b3][^key-b5a1891e104f0ba1f4150fd5e6c7a488]
+## 54. Partial defence to murder: loss of control[^c-79c41c53f334c430ca38462febfc50b3][^c-b5a1891e104f0ba1f4150fd5e6c7a488]
 
 *Extent: E+W+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79c41c53f334c430ca38462febfc50b3]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2009/25/section/54) in force at 4.10.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/816/article/6/a)
+[^c-79c41c53f334c430ca38462febfc50b3]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2009/25/section/54) in force at 4.10.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/816/article/6/a)
 
-[^key-b5a1891e104f0ba1f4150fd5e6c7a488]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2009/25/section/54) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/182/article/3/b)
+[^c-b5a1891e104f0ba1f4150fd5e6c7a488]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2009/25/section/54) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/182/article/3/b)

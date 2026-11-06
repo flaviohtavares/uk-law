@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 151. Restricted information[^c20583391][^key-94bf9cc9d8cc704da8e081a623d4b257]
+## 151. Restricted information[^c20583391][^c-94bf9cc9d8cc704da8e081a623d4b257]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c20583391]: Commencement: S. 151 partly in force: s. 151 not in force at Royal Assent see s. 211; s. 151 in force for certain purposes at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-94bf9cc9d8cc704da8e081a623d4b257]: Commencement: S. 151 in force at 6.10.2010 in so far as not already in force by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-94bf9cc9d8cc704da8e081a623d4b257]: Commencement: S. 151 in force at 6.10.2010 in so far as not already in force by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

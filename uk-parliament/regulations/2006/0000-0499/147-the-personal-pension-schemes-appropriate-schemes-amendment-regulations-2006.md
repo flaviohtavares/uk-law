@@ -40,27 +40,27 @@ Coming into force
 
 6th April 2006
 
-[^key-039b451dfc7487fcf2d19c869992e748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039b451dfc7487fcf2d19c869992e748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-039b451dfc7487fcf2d19c869992e748][^key-039b451dfc7487fcf2d19c869992e748]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of regulation 1 of the principal Regulations[^key-039b451dfc7487fcf2d19c869992e748][^key-039b451dfc7487fcf2d19c869992e748]
+## 1. Citation, commencement and interpretation[^c-039b451dfc7487fcf2d19c869992e748][^c-039b451dfc7487fcf2d19c869992e748]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 of the principal Regulations[^key-039b451dfc7487fcf2d19c869992e748][^key-039b451dfc7487fcf2d19c869992e748]
+## 2. Amendment of regulation 1 of the principal Regulations[^c-039b451dfc7487fcf2d19c869992e748][^c-039b451dfc7487fcf2d19c869992e748]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3 of the principal Regulations[^key-039b451dfc7487fcf2d19c869992e748][^key-039b451dfc7487fcf2d19c869992e748]
+## 3. Amendment of regulation 2 of the principal Regulations[^c-039b451dfc7487fcf2d19c869992e748][^c-039b451dfc7487fcf2d19c869992e748]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of regulation 3 of the principal Regulations[^c-039b451dfc7487fcf2d19c869992e748][^c-039b451dfc7487fcf2d19c869992e748]
 
 **No longer in force.**
 
@@ -68,10 +68,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-039b451dfc7487fcf2d19c869992e748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039b451dfc7487fcf2d19c869992e748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-039b451dfc7487fcf2d19c869992e748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039b451dfc7487fcf2d19c869992e748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-039b451dfc7487fcf2d19c869992e748]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2006/147) revoked (1.10.2008) by [Personal and Occupational Pension Schemes (Protected Rights) Regulations 2008 (S.I. 2008/1979)](https://www.legislation.gov.uk/uksi/2008/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/1979/regulation/5)
+[^c-039b451dfc7487fcf2d19c869992e748]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2006/147) revoked (1.10.2008) by [Personal and Occupational Pension Schemes (Protected Rights) Regulations 2008 (S.I. 2008/1979)](https://www.legislation.gov.uk/uksi/2008/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/1979/regulation/5)

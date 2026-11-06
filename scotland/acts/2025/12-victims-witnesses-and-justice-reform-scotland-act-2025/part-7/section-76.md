@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. President and Vice President of the Sexual Offences Court[^key-a5b61a95f32d7f1b89bebc3ea6abed32]
+## 76. President and Vice President of the Sexual Offences Court[^c-a5b61a95f32d7f1b89bebc3ea6abed32]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ the person is also suspended from office as President or Vice President, as the 
 
 ## Annotations
 
-[^key-a5b61a95f32d7f1b89bebc3ea6abed32]: Commencement: S. 76 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a5b61a95f32d7f1b89bebc3ea6abed32]: Commencement: S. 76 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

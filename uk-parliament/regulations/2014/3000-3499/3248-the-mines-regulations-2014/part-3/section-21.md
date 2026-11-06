@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Application of regulations 22 and 23[^key-cf0eae4a9b6c747606adeb3437377389]
+## 21. Application of regulations 22 and 23[^c-cf0eae4a9b6c747606adeb3437377389]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Regulations 22 and 23 apply below ground in mines in which places have been clas
 
 ## Annotations
 
-[^key-cf0eae4a9b6c747606adeb3437377389]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/3248/regulation/21) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-cf0eae4a9b6c747606adeb3437377389]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/3248/regulation/21) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

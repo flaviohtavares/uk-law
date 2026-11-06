@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41D. Investigations: procedure etc.[^key-4757bbf77c204895920d9a70fec73141]
+## 41D. Investigations: procedure etc.[^c-4757bbf77c204895920d9a70fec73141]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4757bbf77c204895920d9a70fec73141]: Textual amendment: S. 41D inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 66](https://www.legislation.gov.uk/asp/2012/8/section/66), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2012/253/article/6))
+[^c-4757bbf77c204895920d9a70fec73141]: Textual amendment: S. 41D inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 66](https://www.legislation.gov.uk/asp/2012/8/section/66), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2012/253/article/6))

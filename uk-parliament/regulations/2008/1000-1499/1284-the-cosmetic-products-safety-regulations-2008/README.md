@@ -30,7 +30,7 @@ summary: ''
 
 Consumer Protection
 
-[^key-7c8ba69a68673aa80d36a9608b405662]The Cosmetic Products (Safety) Regulations 2008 (revoked)
+[^c-7c8ba69a68673aa80d36a9608b405662]The Cosmetic Products (Safety) Regulations 2008 (revoked)
 
 Made
 
@@ -44,7 +44,7 @@ Coming into force
 
 18th June 2008
 
-[^key-7c8ba69a68673aa80d36a9608b405662]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-7c8ba69a68673aa80d36a9608b405662]
+[^c-7c8ba69a68673aa80d36a9608b405662]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-7c8ba69a68673aa80d36a9608b405662]
 
 ## Contents
 
@@ -90,18 +90,18 @@ Coming into force
 
 **No longer in force.**
 
-[^key-8d1c53bfc5a409bd6133578182e37c54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d1c53bfc5a409bd6133578182e37c54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d1c53bfc5a409bd6133578182e37c54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d1c53bfc5a409bd6133578182e37c54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c8ba69a68673aa80d36a9608b405662]: Textual amendment: Regulations revoked (11.7.2013 with savings for any cosmetic product placed on the market before that day) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3), [6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-7c8ba69a68673aa80d36a9608b405662]: Textual amendment: Regulations revoked (11.7.2013 with savings for any cosmetic product placed on the market before that day) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3), [6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
     Regulations as so saved modified (31.12.2020) by [S.I. 2013/1478](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3/3) (as amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 34 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/34/paragraph/31) (with [Sch. 34 para. 32](https://www.legislation.gov.uk/uksi/2019/696/schedule/34/paragraph/32)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-8d1c53bfc5a409bd6133578182e37c54]: Textual amendment: Regulations revoked (11.7.2013 with savings for any cosmetic product placed on the market before that day) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3), [6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-8d1c53bfc5a409bd6133578182e37c54]: Textual amendment: Regulations revoked (11.7.2013 with savings for any cosmetic product placed on the market before that day) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3), [6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))

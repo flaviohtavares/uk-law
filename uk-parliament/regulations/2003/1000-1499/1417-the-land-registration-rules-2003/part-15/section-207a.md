@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 207A. Amendment of certain Schedule 1 forms to provide for explanatory information to be altered[^key-73b53db5f862df10b9d2072e1cafff10]
+## 207A. Amendment of certain Schedule 1 forms to provide for explanatory information to be altered[^c-73b53db5f862df10b9d2072e1cafff10]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73b53db5f862df10b9d2072e1cafff10]: Textual amendment: Rule 207A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/69) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-73b53db5f862df10b9d2072e1cafff10]: Textual amendment: Rule 207A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/69) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

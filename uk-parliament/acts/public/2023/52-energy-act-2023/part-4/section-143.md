@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Low-carbon heat schemes[^key-e910adbbf79c0944d16055d35a75ce51]
+## 143. Low-carbon heat schemes[^c-e910adbbf79c0944d16055d35a75ce51]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e910adbbf79c0944d16055d35a75ce51]: Commencement: S. 143 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-e910adbbf79c0944d16055d35a75ce51]: Commencement: S. 143 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

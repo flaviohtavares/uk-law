@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Remediation notices[^key-ce4bc044747f99d4bb678e8d688fd6d7]
+## 30. Remediation notices[^c-ce4bc044747f99d4bb678e8d688fd6d7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6 makes provision about remediation notices.
 
 ## Annotations
 
-[^key-ce4bc044747f99d4bb678e8d688fd6d7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2017/282/regulation/30) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-ce4bc044747f99d4bb678e8d688fd6d7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2017/282/regulation/30) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

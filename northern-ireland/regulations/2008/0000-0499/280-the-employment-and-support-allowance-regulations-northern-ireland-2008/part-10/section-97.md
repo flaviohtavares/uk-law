@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Earnings of self-employed earners[^key-bf8abe243d3a66cacc933649fa717dc8]
+## 97. Earnings of self-employed earners[^c-bf8abe243d3a66cacc933649fa717dc8]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bf8abe243d3a66cacc933649fa717dc8]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2008/280/regulation/97) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-bf8abe243d3a66cacc933649fa717dc8]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2008/280/regulation/97) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00094]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the [Disabled Persons (Employment) Act (Northern Ireland) 1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 

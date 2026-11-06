@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Trial to proceed despite objection to opinion and direction of the sheriff[^key-ccca76c8bc1e28d67d82a4c2420b12e4]
+## 67. Trial to proceed despite objection to opinion and direction of the sheriff[^c-ccca76c8bc1e28d67d82a4c2420b12e4]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In jury proceedings, despite any objection being taken in the course of the tria
 
 ## Annotations
 
-[^key-ccca76c8bc1e28d67d82a4c2420b12e4]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/18/section/67) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-ccca76c8bc1e28d67d82a4c2420b12e4]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/18/section/67) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

@@ -48,7 +48,7 @@ at 4.00 a.m. on 22nd January 2021
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 [^c24426281].
 
-## 1. Citation, commencement and interpretation[^key-cb7a69cfd48254867d8f037aa1fd592b][^key-595069d8ff2a512c182807b91052223c]
+## 1. Citation, commencement and interpretation[^c-cb7a69cfd48254867d8f037aa1fd592b][^c-595069d8ff2a512c182807b91052223c]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information) (England) (Amendment) Regulations 2021 and come into force at 4.00 a.m. on 22nd January 2021.
 
@@ -57,7 +57,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**the International Travel Regulations**” means the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 [^c24426291];
 - “**the Passenger Information Regulations**” means the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 [^c24426301].
 
-## 2. Amendment of the Passenger Information Regulations[^key-24daf0f5dd63c874f410c8c87b95ed88]
+## 2. Amendment of the Passenger Information Regulations[^c-24daf0f5dd63c874f410c8c87b95ed88]
 
 (1) The Passenger Information Regulations are amended as follows.
 
@@ -118,7 +118,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-## 3. Amendment of the International Travel Regulations[^key-703e8aaf47a9ff47216b8695ab342cbc]
+## 3. Amendment of the International Travel Regulations[^c-703e8aaf47a9ff47216b8695ab342cbc]
 
 (1) The International Travel Regulations are amended as follows.
 
@@ -134,7 +134,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-## 4. Amendment of the Health Protection (Coronavirus, Pre-Departure Testing and Operator Liability) (England) (Amendment) Regulations 2021[^key-6f36515af7d48bfea9f8fee583d9d384]
+## 4. Amendment of the Health Protection (Coronavirus, Pre-Departure Testing and Operator Liability) (England) (Amendment) Regulations 2021[^c-6f36515af7d48bfea9f8fee583d9d384]
 
 (1) Part 2 of the Health Protection (Coronavirus, Pre-Departure Testing and Operator Liability) (England) (Amendment) Regulations 2021 [^c24426311] is amended as follows.
 
@@ -155,7 +155,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-## 5. Transitional and savings provisions[^key-7b927c2f4b9fd4d6570df9fbe5cdd714]
+## 5. Transitional and savings provisions[^c-7b927c2f4b9fd4d6570df9fbe5cdd714]
 
 (1) In relation to any booking made before 4.00 a.m. on 22nd January 2021, the requirement in regulation 3(1) of the Passenger Information Regulations (“the information requirement”) is to be regarded as complied with even if the information provided to passengers does not include the amendments made by regulation 2.
 
@@ -190,20 +190,20 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24426281]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14)
 
-[^key-cb7a69cfd48254867d8f037aa1fd592b]: Commencement: Reg. 1 in force at 22.1.2021, see reg. 1(1)
+[^c-cb7a69cfd48254867d8f037aa1fd592b]: Commencement: Reg. 1 in force at 22.1.2021, see reg. 1(1)
 
-[^key-595069d8ff2a512c182807b91052223c]: Modification: Reg. 1 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
+[^c-595069d8ff2a512c182807b91052223c]: Modification: Reg. 1 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
 
 [^c24426291]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [724](https://www.legislation.gov.uk/uksi/2020/724), [799](https://www.legislation.gov.uk/uksi/2020/799), [805](https://www.legislation.gov.uk/uksi/2020/805), [813](https://www.legislation.gov.uk/uksi/2020/813), [819](https://www.legislation.gov.uk/uksi/2020/819), [841](https://www.legislation.gov.uk/uksi/2020/841), [866](https://www.legislation.gov.uk/uksi/2020/866), [890](https://www.legislation.gov.uk/uksi/2020/890), [913](https://www.legislation.gov.uk/uksi/2020/913), [959](https://www.legislation.gov.uk/uksi/2020/959), [980](https://www.legislation.gov.uk/uksi/2020/980), [1013](https://www.legislation.gov.uk/uksi/2020/1013), [1039](https://www.legislation.gov.uk/uksi/2020/1039), [1070](https://www.legislation.gov.uk/uksi/2020/1070), [1076](https://www.legislation.gov.uk/uksi/2020/1076), [1094](https://www.legislation.gov.uk/uksi/2020/1094), [1129](https://www.legislation.gov.uk/uksi/2020/1129), [1161](https://www.legislation.gov.uk/uksi/2020/1161), [1190](https://www.legislation.gov.uk/uksi/2020/1190), [1227](https://www.legislation.gov.uk/uksi/2020/1227), [1238](https://www.legislation.gov.uk/uksi/2020/1238), [1277](https://www.legislation.gov.uk/uksi/2020/1277), [1292](https://www.legislation.gov.uk/uksi/2020/1292), [1323](https://www.legislation.gov.uk/uksi/2020/1323), [1337](https://www.legislation.gov.uk/uksi/2020/1337), [1360](https://www.legislation.gov.uk/uksi/2020/1360), [1424](https://www.legislation.gov.uk/uksi/2020/1424), [1517](https://www.legislation.gov.uk/uksi/2020/1517), [1595](https://www.legislation.gov.uk/uksi/2020/1595), [S.I. 2021/18](https://www.legislation.gov.uk/uksi/2021/18), [25](https://www.legislation.gov.uk/uksi/2021/25), [38](https://www.legislation.gov.uk/uksi/2021/38), [47](https://www.legislation.gov.uk/uksi/2021/47) and [49](https://www.legislation.gov.uk/uksi/2021/49).
 
 [^c24426301]: Marginal citation: [S.I. 2020/567](https://www.legislation.gov.uk/uksi/2020/567), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [1090](https://www.legislation.gov.uk/uksi/2020/1090) and [1517](https://www.legislation.gov.uk/uksi/2020/1517).
 
-[^key-24daf0f5dd63c874f410c8c87b95ed88]: Commencement: Reg. 2 in force at 22.1.2021, see reg. 1(1)
+[^c-24daf0f5dd63c874f410c8c87b95ed88]: Commencement: Reg. 2 in force at 22.1.2021, see reg. 1(1)
 
-[^key-703e8aaf47a9ff47216b8695ab342cbc]: Commencement: Reg. 3 in force at 22.1.2021, see reg. 1(1)
+[^c-703e8aaf47a9ff47216b8695ab342cbc]: Commencement: Reg. 3 in force at 22.1.2021, see reg. 1(1)
 
-[^key-6f36515af7d48bfea9f8fee583d9d384]: Commencement: Reg. 4 in force at 22.1.2021, see reg. 1(1)
+[^c-6f36515af7d48bfea9f8fee583d9d384]: Commencement: Reg. 4 in force at 22.1.2021, see reg. 1(1)
 
 [^c24426311]: Marginal citation: [S.I. 2021/38](https://www.legislation.gov.uk/uksi/2021/38).
 
-[^key-7b927c2f4b9fd4d6570df9fbe5cdd714]: Commencement: Reg. 5 in force at 22.1.2021, see reg. 1(1)
+[^c-7b927c2f4b9fd4d6570df9fbe5cdd714]: Commencement: Reg. 5 in force at 22.1.2021, see reg. 1(1)

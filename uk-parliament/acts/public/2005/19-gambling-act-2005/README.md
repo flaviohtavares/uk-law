@@ -34,7 +34,7 @@ An Act to make provision about gambling.
 
 \[7th April 2005\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f0d65e07ab32a8dd7a9f9b92489f4ae1][^key-35f8b031f8534e5c63d20d0182d59a0c][^M_C_6be9696f-d936-4e38-c47f-7588efcc302d][^key-f8f3e13c62252e37d8c12c892c0acedb][^key-055eeaefc42a85795b2103274676aaa6]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f0d65e07ab32a8dd7a9f9b92489f4ae1][^c-35f8b031f8534e5c63d20d0182d59a0c][^M_C_6be9696f-d936-4e38-c47f-7588efcc302d][^c-f8f3e13c62252e37d8c12c892c0acedb][^c-055eeaefc42a85795b2103274676aaa6]
 
 ## Contents
 
@@ -163,7 +163,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 63 — Reasonable belief about person's age](part-4/section-63.md)
 - [Section 64 — Use of children in enforcement operations](part-4/section-64.md)
 
-### Part 5 — Operating Licences[^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8][^key-f30d96f91655a040e691a4b43610cc26]
+### Part 5 — Operating Licences[^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8][^c-f30d96f91655a040e691a4b43610cc26]
 
 *Extent: E+W+S*
 
@@ -256,7 +256,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 125 — Relevant offence: disapplication of rehabilitation](part-5/section-125.md)
 - [Section 126 — Interpretation](part-5/section-126.md)
 
-### Part 6 — Personal Licences[^key-b91b4450fb503a3b47fb51f92755c42a]
+### Part 6 — Personal Licences[^c-b91b4450fb503a3b47fb51f92755c42a]
 
 *Extent: E+W+S*
 
@@ -289,7 +289,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 148 — Legal assistance](part-7/section-148.md)
 - [Section 149 — Enforcement of costs orders](part-7/section-149.md)
 
-### Part 8 — Premises Licences[^key-1b3fe8611b8ec3d7a4d4d90e9336ccbb][^key-6a0f0076d55ec17348c0d41344d11bfe]
+### Part 8 — Premises Licences[^c-1b3fe8611b8ec3d7a4d4d90e9336ccbb][^c-6a0f0076d55ec17348c0d41344d11bfe]
 
 *Extent: E+W+S*
 
@@ -681,24 +681,24 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f0d65e07ab32a8dd7a9f9b92489f4ae1]: Modification: Act applied (with modifications) (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [Sch. 4 paras. 20](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/20), [21](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/21), 22, 25, 26, 33, 63, 64, 84(1) (as amended (29.4.2007) by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), art. 8(6))
+[^c-f0d65e07ab32a8dd7a9f9b92489f4ae1]: Modification: Act applied (with modifications) (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [Sch. 4 paras. 20](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/20), [21](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/21), 22, 25, 26, 33, 63, 64, 84(1) (as amended (29.4.2007) by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), art. 8(6))
 
-[^key-35f8b031f8534e5c63d20d0182d59a0c]: Modification: Act modified (E.W.) (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [reg. 12(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/1/a/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-35f8b031f8534e5c63d20d0182d59a0c]: Modification: Act modified (E.W.) (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [reg. 12(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/1/a/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
 [^M_C_6be9696f-d936-4e38-c47f-7588efcc302d]: Modification: Act: power to modify, apply or replicate any provision made by or under this Act conferred (14.5.2014) by [Gambling (Licensing and Advertising) Act 2014 (c. 17)](https://www.legislation.gov.uk/ukpga/2014/17), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2014/17/section/1/6), [6(4)](https://www.legislation.gov.uk/ukpga/2014/17/section/6/4)
 
-[^key-f8f3e13c62252e37d8c12c892c0acedb]: Modification: Act applied (with modifications) (16.7.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) Order 2014 (S.I. 2014/1641)](https://www.legislation.gov.uk/uksi/2014/1641), [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1641/article/4/1)
+[^c-f8f3e13c62252e37d8c12c892c0acedb]: Modification: Act applied (with modifications) (16.7.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) Order 2014 (S.I. 2014/1641)](https://www.legislation.gov.uk/uksi/2014/1641), [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1641/article/4/1)
 
-[^key-055eeaefc42a85795b2103274676aaa6]: Modification: Act modified (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a)[(8)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-055eeaefc42a85795b2103274676aaa6]: Modification: Act modified (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a)[(8)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
+[^c-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
 
-[^key-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
+[^c-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
 
-[^key-f30d96f91655a040e691a4b43610cc26]: Modification: [Pt. 5](https://www.legislation.gov.uk/ukpga/2005/19/part/5) modified by SI 2006/3272 art. 8(4)-(9) (as inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5))
+[^c-f30d96f91655a040e691a4b43610cc26]: Modification: [Pt. 5](https://www.legislation.gov.uk/ukpga/2005/19/part/5) modified by SI 2006/3272 art. 8(4)-(9) (as inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5))
 
-[^key-b91b4450fb503a3b47fb51f92755c42a]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2005/19/part/6) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/51)
+[^c-b91b4450fb503a3b47fb51f92755c42a]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2005/19/part/6) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/51)
 
-[^key-1b3fe8611b8ec3d7a4d4d90e9336ccbb]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/2005/19/part/8) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 paras. 54-66](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54) (as amended (16.8.2007) by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 11](https://www.legislation.gov.uk/uksi/2007/2169/article/11))
+[^c-1b3fe8611b8ec3d7a4d4d90e9336ccbb]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/2005/19/part/8) modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 paras. 54-66](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54) (as amended (16.8.2007) by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 11](https://www.legislation.gov.uk/uksi/2007/2169/article/11))
 
-[^key-6a0f0076d55ec17348c0d41344d11bfe]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/2005/19/part/8) modified by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 8(1)(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/8/1/3) (as inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5))
+[^c-6a0f0076d55ec17348c0d41344d11bfe]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/2005/19/part/8) modified by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 8(1)(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/8/1/3) (as inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5))

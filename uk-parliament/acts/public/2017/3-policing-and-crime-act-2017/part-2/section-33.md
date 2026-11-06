@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Independent Office for Police Conduct[^c22718661][^key-0aeba9844afe91a7322e9fba8ce4af9c][^key-6dd5aefb0343ee334d365c34f67522fa]
+## 33. Independent Office for Police Conduct[^c22718661][^c-0aeba9844afe91a7322e9fba8ce4af9c][^c-6dd5aefb0343ee334d365c34f67522fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 [^c22718661]: Commencement: S. 33 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0aeba9844afe91a7322e9fba8ce4af9c]: Commencement: S. 33(9) in force at 17.7.2017 for specified purposes by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/d)
+[^c-0aeba9844afe91a7322e9fba8ce4af9c]: Commencement: S. 33(9) in force at 17.7.2017 for specified purposes by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/d)
 
-[^key-6dd5aefb0343ee334d365c34f67522fa]: Commencement: S. 33 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-6dd5aefb0343ee334d365c34f67522fa]: Commencement: S. 33 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

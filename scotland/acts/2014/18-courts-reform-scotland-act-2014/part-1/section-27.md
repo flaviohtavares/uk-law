@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Sheriff principal's responsibility for efficient disposal of business in sheriff courts[^key-90e06f3c7f374ffc48791e0c4e617027]
+## 27. Sheriff principal's responsibility for efficient disposal of business in sheriff courts[^c-90e06f3c7f374ffc48791e0c4e617027]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) provide for the allocation of business among the judiciary of the sheriffdom,
 - (b) make special provision of a temporary nature for the disposal of any business by any member of the judiciary of the sheriffdom in addition to or in place of that member's own duties.
 
-(3A)[^key-db711670395c80898d5b10359a0d1000] In carrying out the responsibility imposed by subsection (1), the sheriff principal must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
+(3A)[^c-db711670395c80898d5b10359a0d1000] In carrying out the responsibility imposed by subsection (1), the sheriff principal must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
 
 (4) If, in carrying out the responsibility imposed by subsection (1), the sheriff principal gives a direction of an administrative character to a person mentioned in subsection (5), the person must comply with the direction.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90e06f3c7f374ffc48791e0c4e617027]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/18/section/27) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-90e06f3c7f374ffc48791e0c4e617027]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/18/section/27) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-db711670395c80898d5b10359a0d1000]: Textual amendment: [S. 27(3A)](https://www.legislation.gov.uk/asp/2014/18/section/27/3A) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 31(2)](https://www.legislation.gov.uk/asp/2025/12/section/31/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-db711670395c80898d5b10359a0d1000]: Textual amendment: [S. 27(3A)](https://www.legislation.gov.uk/asp/2014/18/section/27/3A) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 31(2)](https://www.legislation.gov.uk/asp/2025/12/section/31/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

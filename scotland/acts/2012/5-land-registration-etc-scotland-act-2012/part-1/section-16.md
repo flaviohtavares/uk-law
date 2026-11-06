@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Tenements and other flatted buildings[^key-21842bd7028fe9366434cb29e840af4f]
+## 16. Tenements and other flatted buildings[^c-21842bd7028fe9366434cb29e840af4f]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21842bd7028fe9366434cb29e840af4f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2012/5/section/16) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-21842bd7028fe9366434cb29e840af4f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2012/5/section/16) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

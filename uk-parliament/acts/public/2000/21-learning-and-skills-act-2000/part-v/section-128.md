@@ -22,12 +22,12 @@ summary: ''
 
 (1) This section applies where a service is inspected pursuant to a request under section 127(1)(c) or in accordance with section 127(1)(d).
 
-(2)[^key-00f2e408f52d85931145f5c935a6114a] A person carrying out or participating in the inspection shall have the same powers as an Inspector has under the following provisions of the Education Act 2005—
+(2)[^c-00f2e408f52d85931145f5c935a6114a] A person carrying out or participating in the inspection shall have the same powers as an Inspector has under the following provisions of the Education Act 2005—
 
 - (a) section 24(3)(a) and (d) (right of access), and
 - (b) section 58 (computer records).
 
-(3) Section 29[^key-cb05bd1c7a013f4ad1cdd10f753d864f] of that Act (publication of reports) shall apply.
+(3) Section 29[^c-cb05bd1c7a013f4ad1cdd10f753d864f] of that Act (publication of reports) shall apply.
 
 (4) Where the Chief Inspector arranges for the publication of a report of an inspection, the person who provides the inspected service shall—
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c13165221]: Commencement: S. 128 not in force at Royal Assent see s. 154; s. 128 in force for W. at 1.4.2001 by [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I)
 
-[^key-00f2e408f52d85931145f5c935a6114a]: Textual amendment: [S. 128(2)](https://www.legislation.gov.uk/ukpga/2000/21/section/128/2) substituted (1.9.2006) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 9 para. 27(2)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/27/2); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 4(1)](https://www.legislation.gov.uk/wsi/2006/1338/article/4/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2006/1338/schedule/2)
+[^c-00f2e408f52d85931145f5c935a6114a]: Textual amendment: [S. 128(2)](https://www.legislation.gov.uk/ukpga/2000/21/section/128/2) substituted (1.9.2006) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 9 para. 27(2)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/27/2); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 4(1)](https://www.legislation.gov.uk/wsi/2006/1338/article/4/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2006/1338/schedule/2)
 
-[^key-cb05bd1c7a013f4ad1cdd10f753d864f]: Textual amendment: Words in [s. 128(3)](https://www.legislation.gov.uk/ukpga/2000/21/section/128/3) substituted (1.9.2006) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 9 para. 27(3)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/27/3); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 4(1)](https://www.legislation.gov.uk/wsi/2006/1338/article/4/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2006/1338/schedule/2)
+[^c-cb05bd1c7a013f4ad1cdd10f753d864f]: Textual amendment: Words in [s. 128(3)](https://www.legislation.gov.uk/ukpga/2000/21/section/128/3) substituted (1.9.2006) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 9 para. 27(3)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/27/3); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 4(1)](https://www.legislation.gov.uk/wsi/2006/1338/article/4/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2006/1338/schedule/2)

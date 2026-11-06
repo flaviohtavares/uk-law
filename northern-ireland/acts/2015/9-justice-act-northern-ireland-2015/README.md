@@ -51,7 +51,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 **Not yet in force.**
 
-#### CHAPTER 1 — RESTRICTION ON HOLDING OF PRELIMINARY INVESTIGATIONS AND MIXED COMMITTALS[^key-3bf890a89f239d9d4ddfd7569fb91f42]
+#### CHAPTER 1 — RESTRICTION ON HOLDING OF PRELIMINARY INVESTIGATIONS AND MIXED COMMITTALS[^c-3bf890a89f239d9d4ddfd7569fb91f42]
 
 **Not yet in force.**
 
@@ -306,4 +306,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3bf890a89f239d9d4ddfd7569fb91f42]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/nia/2015/9/part/2/chapter/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 18(a)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18/a); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-3bf890a89f239d9d4ddfd7569fb91f42]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/nia/2015/9/part/2/chapter/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 18(a)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18/a); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

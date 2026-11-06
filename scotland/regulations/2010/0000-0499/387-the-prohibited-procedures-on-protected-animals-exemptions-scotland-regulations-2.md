@@ -56,7 +56,7 @@ In these Regulations—
 - “**bovine animal**” means any animal of genera *Bos, Bison* or *Bubalus*;
 - “**de-snooding**” means the removal of the part of the male turkey's wattle arising from the forehead and lying over the upper beak;
 - “**disbudding**” means the removal of the horn bud;
-- “**docking[^key-4690a1451cb220eaf2ced5071904dd47]**” means the amputation of one or more coccygeal vertebrae of the tail of an animal;
+- “**docking[^c-4690a1451cb220eaf2ced5071904dd47]**” means the amputation of one or more coccygeal vertebrae of the tail of an animal;
 - “**domestic fowl**” means a domesticated member of the species *Gallus gallus*;
 - “**dubbing**” means the removal of all or part of the comb of a bird;
 - “**equine animal**” means any animal of the genus *Equus* including hybrids;
@@ -107,7 +107,7 @@ Regulation 3
 | --- | --- |
 | Freeze branding | Identification |
 | Tattooing | Identification |
-| Ear tagging | **1.[^key-b07511435e57fb54eb1f86dbe3702674]** Identification; |
+| Ear tagging | **1.[^c-b07511435e57fb54eb1f86dbe3702674]** Identification; |
 |  | **2.** Screening or routine or random testing for disease; or |
 |  | **3.** Genetic analysis. |
 | Micro chipping | Identification |
@@ -167,7 +167,7 @@ Regulation 3
 </tbody>
 </table>
 
-[^key-00ef4983ae8fb5256d2165ebb0267590]
+[^c-00ef4983ae8fb5256d2165ebb0267590]
 
 ## SCHEDULE 3 — Birds
 
@@ -213,7 +213,7 @@ Regulation 3
 | **Procedure** | **Purpose** |
 | --- | --- |
 | Tattooing | Identification |
-| Ear tagging | **1.[^key-9e2850a574e5236b45cdd8d47db383b7]** Identification; or |
+| Ear tagging | **1.[^c-9e2850a574e5236b45cdd8d47db383b7]** Identification; or |
 |  | **2.** Screening or routine or random testing for disease. |
 | Ear notching | Identification |
 | Micro chipping | Identification |
@@ -236,7 +236,7 @@ Regulation 3
 |  |  |
 | 2\) Surgical docking may only be carried out by a veterinary surgeon. |  |
 |  |  |
-| 3\) Docking may only be performed where sufficient tail is retained to cover the vulva in the case of female sheep and the anus in the case of male sheep.[^key-0be766d89c4f2a06f8a32d09774e09ad] |  |
+| 3\) Docking may only be performed where sufficient tail is retained to cover the vulva in the case of female sheep and the anus in the case of male sheep.[^c-0be766d89c4f2a06f8a32d09774e09ad] |  |
 
 ## SCHEDULE 5 — Goats
 
@@ -245,7 +245,7 @@ Regulation 3
 | **Procedure** | **Purpose** |
 | --- | --- |
 | Tattooing | Identification |
-| Ear tagging | **1.[^key-f6337fb0bcbec86b4132af928344a62c]** Identification; or |
+| Ear tagging | **1.[^c-f6337fb0bcbec86b4132af928344a62c]** Identification; or |
 |  | **2.** Screening or routine or random testing for disease. |
 | Ear notching | Identification |
 | Micro chipping | Identification |
@@ -278,7 +278,7 @@ Regulation 3
 | **Procedure** | **Purpose** |
 | --- | --- |
 | Tattooing | Identification |
-| Ear tagging | **1.[^key-9664c53e5e867d66810719f342b4daef]** Identification; or |
+| Ear tagging | **1.[^c-9664c53e5e867d66810719f342b4daef]** Identification; or |
 |  | **2.** Screening or routine or random testing for disease. |
 | Ear notching | Identification |
 | Micro chipping | Identification |
@@ -286,7 +286,7 @@ Regulation 3
 | Castration | Controlling reproduction or general animal management |
 | Implantation of a subcutaneous contraceptive into a non-farmed deer | Controlling reproduction or general animal management, as part of a conservation programme |
 | Embryo and ovum transfer | Controlling reproduction or general animal management |
-| Removal of antlers | Handler safety or herd welfare<br>**Condition—[^key-aad2ee43caf97dff8544839b9019234c]**<br>Antler removal may only be performed where the velvet is frayed and the greater part of it shed. |
+| Removal of antlers | Handler safety or herd welfare<br>**Condition—[^c-aad2ee43caf97dff8544839b9019234c]**<br>Antler removal may only be performed where the velvet is frayed and the greater part of it shed. |
 
 ## SCHEDULE 8 — Cats
 
@@ -316,7 +316,7 @@ Regulation 3
 | Embryo and ovum transfer | Controlling reproduction or general animal management |
 | Implantation of a subcutaneous contraceptive | Controlling reproduction or general animal management |
 | Amputation of dew claws | General animal management |
-| Docking of any dog aged 5 days or less that is a dog—[^key-063ab3401c78c2a21a5167744231f881] | Dog welfare |
+| Docking of any dog aged 5 days or less that is a dog—[^c-063ab3401c78c2a21a5167744231f881] | Dog welfare |
 | 1\) of the type known as spaniel, of any breed or combination of breeds; or |  |
 | 2\) of the type known as hunt point retrieve, of any breed or combination of breeds |  |
 |  |  |
@@ -399,7 +399,7 @@ A Regulatory Impact Assessment has not been produced for this instrument as it h
 
 [^c20569901]: Marginal citation: [1948 c.45](https://www.legislation.gov.uk/ukpga/1948/45), section 86(3).
 
-[^key-4690a1451cb220eaf2ced5071904dd47]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2010/387/regulation/2) substituted (28.6.2017) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/226)](https://www.legislation.gov.uk/ssi/2017/226), [regs. 1](https://www.legislation.gov.uk/ssi/2017/226/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/226/regulation/3)
+[^c-4690a1451cb220eaf2ced5071904dd47]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2010/387/regulation/2) substituted (28.6.2017) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/226)](https://www.legislation.gov.uk/ssi/2017/226), [regs. 1](https://www.legislation.gov.uk/ssi/2017/226/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/226/regulation/3)
 
 [^c20569911]: Marginal citation: The term “protected animal” is defined in section 17 of the Animal Health and Welfare (Scotland) Act 2006.
 
@@ -407,18 +407,18 @@ A Regulatory Impact Assessment has not been produced for this instrument as it h
 
 [^c20569931]: Marginal citation: S.S.I. 2009/47.
 
-[^key-b07511435e57fb54eb1f86dbe3702674]: Textual amendment: Words in sch. 1 substituted (5.10.2016) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/310)](https://www.legislation.gov.uk/ssi/2016/310), [regs. 1](https://www.legislation.gov.uk/ssi/2016/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/310/regulation/2/2)
+[^c-b07511435e57fb54eb1f86dbe3702674]: Textual amendment: Words in sch. 1 substituted (5.10.2016) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/310)](https://www.legislation.gov.uk/ssi/2016/310), [regs. 1](https://www.legislation.gov.uk/ssi/2016/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/310/regulation/2/2)
 
-[^key-00ef4983ae8fb5256d2165ebb0267590]: Textual amendment: Words in sch. 2 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/3)
+[^c-00ef4983ae8fb5256d2165ebb0267590]: Textual amendment: Words in sch. 2 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/3)
 
-[^key-9e2850a574e5236b45cdd8d47db383b7]: Textual amendment: Words in sch. 4 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/4)
+[^c-9e2850a574e5236b45cdd8d47db383b7]: Textual amendment: Words in sch. 4 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/4)
 
-[^key-0be766d89c4f2a06f8a32d09774e09ad]: Textual amendment: Words in sch. 4 inserted (22.2.2011) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/164)](https://www.legislation.gov.uk/ssi/2011/164), [regs. 1](https://www.legislation.gov.uk/ssi/2011/164/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/164/regulation/2/2)
+[^c-0be766d89c4f2a06f8a32d09774e09ad]: Textual amendment: Words in sch. 4 inserted (22.2.2011) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/164)](https://www.legislation.gov.uk/ssi/2011/164), [regs. 1](https://www.legislation.gov.uk/ssi/2011/164/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/164/regulation/2/2)
 
-[^key-f6337fb0bcbec86b4132af928344a62c]: Textual amendment: Words in sch. 5 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/5)
+[^c-f6337fb0bcbec86b4132af928344a62c]: Textual amendment: Words in sch. 5 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/5)
 
-[^key-9664c53e5e867d66810719f342b4daef]: Textual amendment: Words in sch. 7 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/6)
+[^c-9664c53e5e867d66810719f342b4daef]: Textual amendment: Words in sch. 7 substituted (9.2.2012) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/40)](https://www.legislation.gov.uk/ssi/2012/40), [regs. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/6)
 
-[^key-aad2ee43caf97dff8544839b9019234c]: Textual amendment: Words in sch. 7 inserted (22.2.2011) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/164)](https://www.legislation.gov.uk/ssi/2011/164), [regs. 1](https://www.legislation.gov.uk/ssi/2011/164/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/164/regulation/2/3)
+[^c-aad2ee43caf97dff8544839b9019234c]: Textual amendment: Words in sch. 7 inserted (22.2.2011) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/164)](https://www.legislation.gov.uk/ssi/2011/164), [regs. 1](https://www.legislation.gov.uk/ssi/2011/164/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/164/regulation/2/3)
 
-[^key-063ab3401c78c2a21a5167744231f881]: Textual amendment: Words in sch. 9 inserted (28.6.2017) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/226)](https://www.legislation.gov.uk/ssi/2017/226), [regs. 1](https://www.legislation.gov.uk/ssi/2017/226/regulation/1), [4](https://www.legislation.gov.uk/ssi/2017/226/regulation/4)
+[^c-063ab3401c78c2a21a5167744231f881]: Textual amendment: Words in sch. 9 inserted (28.6.2017) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/226)](https://www.legislation.gov.uk/ssi/2017/226), [regs. 1](https://www.legislation.gov.uk/ssi/2017/226/regulation/1), [4](https://www.legislation.gov.uk/ssi/2017/226/regulation/4)

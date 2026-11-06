@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Requests for statement of reasons[^key-d542cb364d2738776406b43471525900]
+## 68. Requests for statement of reasons[^c-d542cb364d2738776406b43471525900]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d542cb364d2738776406b43471525900]: Textual amendment: [Reg. 68](https://www.legislation.gov.uk/uksi/1989/1321/regulation/68) revoked (6.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) Regulations 1992 (S.I. 1992/432)](https://www.legislation.gov.uk/uksi/1992/432), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1992/432/regulation/1/1/c), [35(b)](https://www.legislation.gov.uk/uksi/1992/432/regulation/35/b)
+[^c-d542cb364d2738776406b43471525900]: Textual amendment: [Reg. 68](https://www.legislation.gov.uk/uksi/1989/1321/regulation/68) revoked (6.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) Regulations 1992 (S.I. 1992/432)](https://www.legislation.gov.uk/uksi/1992/432), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1992/432/regulation/1/1/c), [35(b)](https://www.legislation.gov.uk/uksi/1992/432/regulation/35/b)

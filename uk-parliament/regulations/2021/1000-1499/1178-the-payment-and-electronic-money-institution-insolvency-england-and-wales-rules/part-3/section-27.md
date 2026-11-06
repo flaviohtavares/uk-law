@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Limited disclosure of the statement of proposals[^key-c4d6700029ae200ddba45096cd0ccf46]
+## 27. Limited disclosure of the statement of proposals[^c-c4d6700029ae200ddba45096cd0ccf46]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ summary: ''
 
 (6) The applicant must give the administrator notice of the application at least three business days before the hearing.
 
-(7) The court may make any order for disclosure subject to such[^key-36041a94a6ca2b423f41e549d1a85d8d] conditions as to:
+(7) The court may make any order for disclosure subject to such[^c-36041a94a6ca2b423f41e549d1a85d8d] conditions as to:
 
 - (a) confidentiality,
 - (b) duration,
 - (c) the scope of the order in the event of any change of circumstances, or
-- (d)[^key-cc1c55a4c5d45d6573983053f75bd7db] other matters,
+- (d)[^c-cc1c55a4c5d45d6573983053f75bd7db] other matters,
 
 as it thinks just.
 
@@ -49,8 +49,8 @@ as it thinks just.
 
 ## Annotations
 
-[^key-c4d6700029ae200ddba45096cd0ccf46]: Commencement: Rule 27 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c4d6700029ae200ddba45096cd0ccf46]: Commencement: Rule 27 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-36041a94a6ca2b423f41e549d1a85d8d]: Textual amendment: Word in [rule 27(7)](https://www.legislation.gov.uk/uksi/2021/1178/rule/27/7) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/4/a)
+[^c-36041a94a6ca2b423f41e549d1a85d8d]: Textual amendment: Word in [rule 27(7)](https://www.legislation.gov.uk/uksi/2021/1178/rule/27/7) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/4/a)
 
-[^key-cc1c55a4c5d45d6573983053f75bd7db]: Textual amendment: Rule 27(7)(d) and words substituted for rule 27(7)(d) (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/4/b)
+[^c-cc1c55a4c5d45d6573983053f75bd7db]: Textual amendment: Rule 27(7)(d) and words substituted for rule 27(7)(d) (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/4/b)

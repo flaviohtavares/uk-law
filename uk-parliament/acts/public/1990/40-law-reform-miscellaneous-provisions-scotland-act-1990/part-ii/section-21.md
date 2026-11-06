@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Council's intervention powers.[^key-72080e64c44ded6e4d11b7c510a283fc]
+## 21. Council's intervention powers.[^c-72080e64c44ded6e4d11b7c510a283fc]
 
 *Extent: S*
 
-(1) The powers conferred on the Council[^key-2895027a80ae905773ddae8af155a139] by this section may be exercised if, after such inquiry (if any) as the Council consider appropriate, it appears to them to be desirable to do so for the purpose of protecting the interests of the clients, or prospective clients, of an independent conveyancing practitioner[^key-2862c0f232f3f82fef636946546df5da] or an executry practitioner (each of whom is in this section referred to as a “relevant practitioner”).
+(1) The powers conferred on the Council[^c-2895027a80ae905773ddae8af155a139] by this section may be exercised if, after such inquiry (if any) as the Council consider appropriate, it appears to them to be desirable to do so for the purpose of protecting the interests of the clients, or prospective clients, of an independent conveyancing practitioner[^c-2862c0f232f3f82fef636946546df5da] or an executry practitioner (each of whom is in this section referred to as a “relevant practitioner”).
 
 (2) The Council may, in particular, exercise any such power where it appears to them that a relevant practitioner—
 
-- (a) is no longer a fit and proper person to provide conveyancing services or, as the case may be, executry services; or[^key-0810dc649c9764294977412120926f0f]
-- (b) has ceased, for whatever reason, to provide such services; [^key-04958eaf41b0bca0e446539e8a23a0e8]...
-- (...)[^key-04958eaf41b0bca0e446539e8a23a0e8][^key-04958eaf41b0bca0e446539e8a23a0e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is no longer a fit and proper person to provide conveyancing services or, as the case may be, executry services; or[^c-0810dc649c9764294977412120926f0f]
+- (b) has ceased, for whatever reason, to provide such services; [^c-04958eaf41b0bca0e446539e8a23a0e8]...
+- (...)[^c-04958eaf41b0bca0e446539e8a23a0e8][^c-04958eaf41b0bca0e446539e8a23a0e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Council may direct the relevant practitioner not to dispose of, or otherwise deal with, except in accordance with the terms of the direction—
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) all assets belonging to any client of the practitioner and held by or under the control of the practitioner in connection with his business as an independent conveyancing practitioner or, as the case may be, an executry practitioner; or
 - (b) any assets of the practitioner which are specified, or of a kind specified, in the direction.
 
-(5) A relevant practitioner to whom a direction is given may, within 21 days of the date on which the direction is received by him, apply to the court[^key-eb422d754eb0d0c1a112861879b43a86], which may make such order in the matter as it thinks fit.
+(5) A relevant practitioner to whom a direction is given may, within 21 days of the date on which the direction is received by him, apply to the court[^c-eb422d754eb0d0c1a112861879b43a86], which may make such order in the matter as it thinks fit.
 
 (6) A relevant practitioner to whom a direction is given shall comply with it as soon as it takes effect (and whether or not he proposes to apply to the court under subsection (5) above).
 
@@ -62,7 +62,7 @@ the court may make an order requiring the practitioner, and any other person who
 - (c) shall take effect on such date as may be specified in the direction (which may be the date on which it is served on the relevant practitioner); and
 - (d) may be varied or revoked by a further direction given by the Council.
 
-(11A)[^key-269450bab8bfaa235bfdec03d5895bf8] Where the Council make a direction under subsection (3) or (4) or apply to the court for an order under subsection (10), the Council shall notify the Commission to that effect and provide it with details of their findings in any inquiry held by virtue of subsection (1) as respects the practitioner concerned.
+(11A)[^c-269450bab8bfaa235bfdec03d5895bf8] Where the Council make a direction under subsection (3) or (4) or apply to the court for an order under subsection (10), the Council shall notify the Commission to that effect and provide it with details of their findings in any inquiry held by virtue of subsection (1) as respects the practitioner concerned.
 
 (12) In this section—
 
@@ -71,16 +71,16 @@ the court may make an order requiring the practitioner, and any other person who
 
 ## Annotations
 
-[^key-72080e64c44ded6e4d11b7c510a283fc]: Textual amendment: Word in s. 21 heading substituted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(a)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/a) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
+[^c-72080e64c44ded6e4d11b7c510a283fc]: Textual amendment: Word in s. 21 heading substituted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(a)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/a) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
 
-[^key-2895027a80ae905773ddae8af155a139]: Textual amendment: Word in s. 21 substituted (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 12(8)(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12/8/a); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-2895027a80ae905773ddae8af155a139]: Textual amendment: Word in s. 21 substituted (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 12(8)(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12/8/a); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-2862c0f232f3f82fef636946546df5da]: Textual amendment: Words in s. 21 substituted (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 12(8)(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12/8/b); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-2862c0f232f3f82fef636946546df5da]: Textual amendment: Words in s. 21 substituted (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 12(8)(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12/8/b); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-0810dc649c9764294977412120926f0f]: Textual amendment: Word in s. 21(2) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(b)(i)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/b/i) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
+[^c-0810dc649c9764294977412120926f0f]: Textual amendment: Word in s. 21(2) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(b)(i)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/b/i) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
 
-[^key-04958eaf41b0bca0e446539e8a23a0e8]: Textual amendment: S. 21(2)(c) and preceding word repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(b)(ii)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/b/ii) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
+[^c-04958eaf41b0bca0e446539e8a23a0e8]: Textual amendment: S. 21(2)(c) and preceding word repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(b)(ii)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/b/ii) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
 
-[^key-eb422d754eb0d0c1a112861879b43a86]: Textual amendment: Words in s. 21(5)(6)(7)(10) substituted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(c)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/c) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
+[^c-eb422d754eb0d0c1a112861879b43a86]: Textual amendment: Words in s. 21(5)(6)(7)(10) substituted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(c)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/c) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
 
-[^key-269450bab8bfaa235bfdec03d5895bf8]: Textual amendment: S. 21(11A) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(d)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/d) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
+[^c-269450bab8bfaa235bfdec03d5895bf8]: Textual amendment: S. 21(11A) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 3(6)(d)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/3/6/d) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)

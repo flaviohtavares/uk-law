@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Review of Act[^key-f9e8b1707ca1fd324f288af154b2a527]
+## 97. Review of Act[^c-f9e8b1707ca1fd324f288af154b2a527]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9e8b1707ca1fd324f288af154b2a527]: Commencement: S. 97 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f9e8b1707ca1fd324f288af154b2a527]: Commencement: S. 97 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

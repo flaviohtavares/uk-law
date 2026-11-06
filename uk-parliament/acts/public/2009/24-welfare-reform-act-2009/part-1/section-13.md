@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-74364f6fa6c7178017e85bb6390bc9b7] Paragraph 1 of Schedule 1 to the Welfare Reform Act 2007 (c. 5) (employment and support allowance: conditions relating to national insurance) is amended as follows.
+(1)[^c-74364f6fa6c7178017e85bb6390bc9b7] Paragraph 1 of Schedule 1 to the Welfare Reform Act 2007 (c. 5) (employment and support allowance: conditions relating to national insurance) is amended as follows.
 
-(2)[^key-dde4a5f0728ea03257d66d41c4b8a865] In sub-paragraph (1)(a) (Class 1 or Class 2 contributions to have been paid in respect of one of last three complete tax years), for “three” substitute “ two ”.
+(2)[^c-dde4a5f0728ea03257d66d41c4b8a865] In sub-paragraph (1)(a) (Class 1 or Class 2 contributions to have been paid in respect of one of last three complete tax years), for “three” substitute “ two ”.
 
-(3)[^key-dde4a5f0728ea03257d66d41c4b8a865] In sub-paragraph (1), for paragraph (c) substitute—
+(3)[^c-dde4a5f0728ea03257d66d41c4b8a865] In sub-paragraph (1), for paragraph (c) substitute—
 
 > - (c) the claimant's earnings determined in accordance with sub-paragraph (2) must be not less than the base tax year's lower earnings limit multiplied by 26.
 
-(4)[^key-ce3e4b6c24ad6d402018c1dfe3f1d05d][^key-f01b018ced1178efd98af9bb925eae3c] For sub-paragraphs (2) and (3) substitute—
+(4)[^c-ce3e4b6c24ad6d402018c1dfe3f1d05d][^c-f01b018ced1178efd98af9bb925eae3c] For sub-paragraphs (2) and (3) substitute—
 
 > (2) The earnings referred to in sub-paragraph (1)(c) are the aggregate of—
 >
@@ -46,14 +46,14 @@ summary: ''
 
 (5) In sub-paragraph (4)—
 
-- (a)[^key-742327e924db50fa9f2c181070032f62] in paragraph (a), for “persons who” substitute
+- (a)[^c-742327e924db50fa9f2c181070032f62] in paragraph (a), for “persons who” substitute
 
   > persons—
   >
   > - (i) who
 
   ,
-- (b)[^key-742327e924db50fa9f2c181070032f62] in that paragraph, after “prescribed time” insert
+- (b)[^c-742327e924db50fa9f2c181070032f62] in that paragraph, after “prescribed time” insert
 
   > , or
   >
@@ -64,12 +64,12 @@ summary: ''
 
 ## Annotations
 
-[^key-74364f6fa6c7178017e85bb6390bc9b7]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/1) in force at 1.10.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/1/b)
+[^c-74364f6fa6c7178017e85bb6390bc9b7]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/1) in force at 1.10.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/1/b)
 
-[^key-dde4a5f0728ea03257d66d41c4b8a865]: Commencement: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/3) in force at 1.11.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/2/b)
+[^c-dde4a5f0728ea03257d66d41c4b8a865]: Commencement: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/3) in force at 1.11.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/2/b)
 
-[^key-ce3e4b6c24ad6d402018c1dfe3f1d05d]: Commencement: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/4) in force at 1.10.2010 for specified purposes by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/1/c)
+[^c-ce3e4b6c24ad6d402018c1dfe3f1d05d]: Commencement: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/4) in force at 1.10.2010 for specified purposes by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/1/c)
 
-[^key-f01b018ced1178efd98af9bb925eae3c]: Commencement: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/4) in force at 1.11.2010 in so far as not already in force by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/2/c)
+[^c-f01b018ced1178efd98af9bb925eae3c]: Commencement: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/4) in force at 1.11.2010 in so far as not already in force by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/2/c)
 
-[^key-742327e924db50fa9f2c181070032f62]: Commencement: [S. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/5/a)[(b)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/5/b) in force at 29.11.2011 by [S.I. 2011/2857](https://www.legislation.gov.uk/uksi/2011/2857), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2857/article/2/b)
+[^c-742327e924db50fa9f2c181070032f62]: Commencement: [S. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/5/a)[(b)](https://www.legislation.gov.uk/ukpga/2009/24/section/13/5/b) in force at 29.11.2011 by [S.I. 2011/2857](https://www.legislation.gov.uk/uksi/2011/2857), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2857/article/2/b)

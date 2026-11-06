@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Power of county court or sheriff to apportion expenses.[^key-5cb5001ec5ae1c6ba6a58641a20b86f5]
+## 170. Power of county court or sheriff to apportion expenses.[^c-5cb5001ec5ae1c6ba6a58641a20b86f5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb5001ec5ae1c6ba6a58641a20b86f5]: Textual amendment: [S. 170](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/170) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-5cb5001ec5ae1c6ba6a58641a20b86f5]: Textual amendment: [S. 170](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/170) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c18251601][^c18251611][^c19377102][^c19998141][^c20643741][^key-f0698e642fdf7691ae22464d5866f4f8][^key-b993406ec05e70d04db353277dd865ec] Where a magistrates’ court has power to issue a warrant of control[^key-d211af6e0ce13a5104f6fde2c25c8f97] under this Part of this Act, it may, if it thinks it expedient to do so, postpone the issue of the warrant until such time and on such conditions, if any, as the court thinks just.
+(1)[^c18251601][^c18251611][^c19377102][^c19998141][^c20643741][^c-f0698e642fdf7691ae22464d5866f4f8][^c-b993406ec05e70d04db353277dd865ec] Where a magistrates’ court has power to issue a warrant of control[^c-d211af6e0ce13a5104f6fde2c25c8f97] under this Part of this Act, it may, if it thinks it expedient to do so, postpone the issue of the warrant until such time and on such conditions, if any, as the court thinks just.
 
 (2) Where a magistrates’ court has power to issue a warrant of commitment under this Part of this Act, it may, if it thinks it expedient to do so, fix a term of imprisonment or detention under[^c18251551] section 108 of the powers of Criminal Courts (Sentencing) Act 2000[^c18251561] (detention of persons aged 18 to 20 for default)and postpone the issue of the warrant until such time and on such conditions, if any, as the court thinks just.
 
@@ -40,7 +40,7 @@ but only if it thinks it just to do so having regard to a change of circumstance
 
 (6)[^c19377071] Where such an application is referred to the court—
 
-- (a) the [^key-936948f488026a889b46017a31b5172d]... court shall fix a time and place for the application to be heard; and
+- (a) the [^c-936948f488026a889b46017a31b5172d]... court shall fix a time and place for the application to be heard; and
 - (b) the designated officer for the court shall give the applicant notice of that time and place.
 
 (7) Where such a notice has been given but the applicant does not appear at the time and place specified in the notice, the court may proceed with the consideration of the application in his absence.
@@ -81,11 +81,11 @@ but only if it thinks it just to do so having regard to a change of circumstance
 
 [^c20643741]: Modification: S. 77(1) applied (12.8.2009) by [The Sea Fishing (Landing and Weighing of Herring, Mackerel and Horse Mackerel) Order 2009 (S.I. 2009/1850)](https://www.legislation.gov.uk/uksi/2009/1850), [art. 10(2)](https://www.legislation.gov.uk/uksi/2009/1850/article/10/2)
 
-[^key-f0698e642fdf7691ae22464d5866f4f8]: Modification: S. 77(1) applied (25.1.2010) by [Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 (S.I. 2009/3391)](https://www.legislation.gov.uk/uksi/2009/3391), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3391/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2009/3391/article/11/2) (with [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/3391/article/2/1))
+[^c-f0698e642fdf7691ae22464d5866f4f8]: Modification: S. 77(1) applied (25.1.2010) by [Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 (S.I. 2009/3391)](https://www.legislation.gov.uk/uksi/2009/3391), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3391/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2009/3391/article/11/2) (with [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/3391/article/2/1))
 
-[^key-b993406ec05e70d04db353277dd865ec]: Modification: S. 77(1) applied (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/191/article/3/3)
+[^c-b993406ec05e70d04db353277dd865ec]: Modification: S. 77(1) applied (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/191/article/3/3)
 
-[^key-d211af6e0ce13a5104f6fde2c25c8f97]: Textual amendment: Words in s. 77(1) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 47](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/47) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-d211af6e0ce13a5104f6fde2c25c8f97]: Textual amendment: Words in s. 77(1) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 47](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/47) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c18251551]: Textual amendment: Words inserted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 77](https://www.legislation.gov.uk/ukpga/1982/48/section/77), [Sch. 14 para. 50](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/50)
 
@@ -97,4 +97,4 @@ but only if it thinks it just to do so having regard to a change of circumstance
 
 [^c19377071]: Textual amendment: S. 77(6) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 218(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/218/3); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-936948f488026a889b46017a31b5172d]: Textual amendment: Words in [s. 77(6)(a)](https://www.legislation.gov.uk/ukpga/1980/43/section/77/6/a) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/6); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-936948f488026a889b46017a31b5172d]: Textual amendment: Words in [s. 77(6)(a)](https://www.legislation.gov.uk/ukpga/1980/43/section/77/6/a) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/6); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

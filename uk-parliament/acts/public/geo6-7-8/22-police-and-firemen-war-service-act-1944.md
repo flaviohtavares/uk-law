@@ -31,40 +31,40 @@ Police and Firemen (War Service) Act 1944 (repealed)
 
 1944 c.22
 
-[^key-039c0f6aff2f2375d0b43ce029bab5cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039c0f6aff2f2375d0b43ce029bab5cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[24th May 1944\]
 
 **No longer in force.**
 
-## 1. Grants in case of death or incapacity.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 1. Grants in case of death or incapacity.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision for determination of questions and for medical appeals.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 2. Provision for determination of questions and for medical appeals.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Presumption of death of persons serving in forces.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 3. Presumption of death of persons serving in forces.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Alteration of certain time limits in principal Act.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 4. Alteration of certain time limits in principal Act.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Effect of suspension of right to retire on pension.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 5. Effect of suspension of right to retire on pension.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment of enactments.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 6. Consequential amendment of enactments.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Short title, citation, interpretation and extent.[^key-039c0f6aff2f2375d0b43ce029bab5cd][^key-039c0f6aff2f2375d0b43ce029bab5cd]
+## 7. Short title, citation, interpretation and extent.[^c-039c0f6aff2f2375d0b43ce029bab5cd][^c-039c0f6aff2f2375d0b43ce029bab5cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-039c0f6aff2f2375d0b43ce029bab5cd]: Textual amendment: Act repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/6)
+[^c-039c0f6aff2f2375d0b43ce029bab5cd]: Textual amendment: Act repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/6)

@@ -37,7 +37,7 @@ summary: ''
   - (ii) changing the descriptor applied so as to maintain or increase the amount awarded in the original decision;
   - (iii) increasing the amount awarded in the original decision;
   - (iv) changing the date on which an award of benefit becomes payable.
-  - (v)[^key-36a3c364a25e3766cd106ba6b9273044] making an interim award under article 52(1).
+  - (v)[^c-36a3c364a25e3766cd106ba6b9273044] making an interim award under article 52(1).
 
 (4) An application for a reconsideration must be made within the period of 1 year starting with the date on which notice of the original decision is given or sent to the claimant and must—
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c2153180]: Textual amendment: Art. 53(2)(c) omitted (21.7.2012) by virtue of [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2012 (S.I. 2012/1573)](https://www.legislation.gov.uk/uksi/2012/1573), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1573/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/1573/article/5/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/1573/article/8))
 
-[^key-36a3c364a25e3766cd106ba6b9273044]: Textual amendment: Art. 53(3)(b)(v) inserted (10.4.2017) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2017 (S.I. 2017/247)](https://www.legislation.gov.uk/uksi/2017/247), [arts. 1](https://www.legislation.gov.uk/uksi/2017/247/article/1), [8](https://www.legislation.gov.uk/uksi/2017/247/article/8)
+[^c-36a3c364a25e3766cd106ba6b9273044]: Textual amendment: Art. 53(3)(b)(v) inserted (10.4.2017) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2017 (S.I. 2017/247)](https://www.legislation.gov.uk/uksi/2017/247), [arts. 1](https://www.legislation.gov.uk/uksi/2017/247/article/1), [8](https://www.legislation.gov.uk/uksi/2017/247/article/8)

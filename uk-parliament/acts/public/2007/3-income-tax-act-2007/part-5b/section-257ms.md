@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257MS. Excluded activity: subsidised generation or export of electricity[^key-c4304a7550d39c647a89931791d535d4]
+## 257MS. Excluded activity: subsidised generation or export of electricity[^c-c4304a7550d39c647a89931791d535d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4304a7550d39c647a89931791d535d4]: Textual amendment: S. 257MS omitted: (with application in accordance with Sch. 6 para. 14 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), Sch. 6 para. 13(3); (with application in accordance with Sch. 1 para. 15 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/10/6)
+[^c-c4304a7550d39c647a89931791d535d4]: Textual amendment: S. 257MS omitted: (with application in accordance with Sch. 6 para. 14 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), Sch. 6 para. 13(3); (with application in accordance with Sch. 1 para. 15 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/10/6)

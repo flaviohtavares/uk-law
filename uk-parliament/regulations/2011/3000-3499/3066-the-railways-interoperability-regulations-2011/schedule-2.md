@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Essential Requirements[^key-be2341c3120cfd31fcac4ff8d8b57922]
+## SCHEDULE 2 — Essential Requirements[^c-be2341c3120cfd31fcac4ff8d8b57922]
 
 *Extent: E+W+S+N.I.*
 
@@ -209,4 +209,4 @@ Regulation 2
 
 ## Annotations
 
-[^key-be2341c3120cfd31fcac4ff8d8b57922]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/3066/schedule/2) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/345/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(12)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/12))
+[^c-be2341c3120cfd31fcac4ff8d8b57922]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/3066/schedule/2) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/345/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(12)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/12))

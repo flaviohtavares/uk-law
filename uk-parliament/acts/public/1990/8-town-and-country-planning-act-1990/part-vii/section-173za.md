@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173ZA. Enforcement warning notice: Wales[^key-cd2961ca12a383d269d3f2a430751225]
+## 173ZA. Enforcement warning notice: Wales[^c-cd2961ca12a383d269d3f2a430751225]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd2961ca12a383d269d3f2a430751225]: Textual amendment: [S. 173ZA](https://www.legislation.gov.uk/ukpga/1990/8/section/173ZA) inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 43(2)](https://www.legislation.gov.uk/anaw/2015/4/section/43/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(c)](https://www.legislation.gov.uk/wsi/2016/52/article/5/c)
+[^c-cd2961ca12a383d269d3f2a430751225]: Textual amendment: [S. 173ZA](https://www.legislation.gov.uk/ukpga/1990/8/section/173ZA) inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 43(2)](https://www.legislation.gov.uk/anaw/2015/4/section/43/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(c)](https://www.legislation.gov.uk/wsi/2016/52/article/5/c)

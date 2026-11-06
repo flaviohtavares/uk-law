@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Injurious affection connected with certain land held by local authorities and acquired by agreement before 1st April 1974.[^c7224981][^key-ee1de8f197865334128f6787d279d8cd]
+## 14. Injurious affection connected with certain land held by local authorities and acquired by agreement before 1st April 1974.[^c7224981][^c-ee1de8f197865334128f6787d279d8cd]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ the authority may by resolution provide that, on and after the date when the res
 
 [^c7224981]: Modification: Power to apply s. 14 conferred (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (c)(i); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/2/2/m)
 
-[^key-ee1de8f197865334128f6787d279d8cd]: Modification: [Ss. 13-16](https://www.legislation.gov.uk/ukpga/1976/57/section/13): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-ee1de8f197865334128f6787d279d8cd]: Modification: [Ss. 13-16](https://www.legislation.gov.uk/ukpga/1976/57/section/13): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c7224991]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 

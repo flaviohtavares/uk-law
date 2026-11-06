@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. The Housing (Prescribed Forms) (No. 2) Regulations 1990[^key-2b8a9d6cd933c157360e983bf4be1c62]
+## 8. The Housing (Prescribed Forms) (No. 2) Regulations 1990[^c-2b8a9d6cd933c157360e983bf4be1c62]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the Schedule to the Housing (Prescribed Forms) (No. 2) Regulations 1990[^f000
 
 ## Annotations
 
-[^key-2b8a9d6cd933c157360e983bf4be1c62]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/924/regulation/8) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-2b8a9d6cd933c157360e983bf4be1c62]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/924/regulation/8) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 1990/1730](https://www.legislation.gov.uk/uksi/1990/1730), to which there is an amendment not relevant to these Regulations.

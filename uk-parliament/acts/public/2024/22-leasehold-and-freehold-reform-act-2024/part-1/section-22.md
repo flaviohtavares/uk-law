@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Enforcement by lead enforcement authority[^key-4d0784de58114420ffdcad1d88566f4e]
+## 22. Enforcement by lead enforcement authority[^c-4d0784de58114420ffdcad1d88566f4e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d0784de58114420ffdcad1d88566f4e]: Commencement: S. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4d0784de58114420ffdcad1d88566f4e]: Commencement: S. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

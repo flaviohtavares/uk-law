@@ -539,7 +539,7 @@ Article 1(1) shall apply from 1 May 2016.
 
 Article 1(19) shall apply from 12 July 2017.
 
-[^key-c6d7fa81b59f311ce26bbe1797435200]...
+[^c-c6d7fa81b59f311ce26bbe1797435200]...
 
 Done at Brussels, 29 June 2020.
 
@@ -623,4 +623,4 @@ In Annex 23-02 of Implementing Regulation (EU) 2015/2447, the table is replaced 
 
 [^f00015]: Footnote: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ([OJ L 347, 11.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.347.01.0001.01.ENG)).’.
 
-[^key-c6d7fa81b59f311ce26bbe1797435200]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/893/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(g) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))
+[^c-c6d7fa81b59f311ce26bbe1797435200]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/893/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(g) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))

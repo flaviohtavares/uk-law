@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2483b328d2811943bb446901108f0f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2483b328d2811943bb446901108f0f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 829 of the Taxes Act 1988 (application of Income Tax Acts to public departments), after subsection (2) insert—
 
@@ -28,16 +28,16 @@ summary: ''
 
 .
 
-(3)[^key-5bc0f6f34df5d0f34f1a343d4dc48cb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5bc0f6f34df5d0f34f1a343d4dc48cb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This section has effect in relation to deductions made under section 559 of the Taxes Act 1988 on or after 6th April 2002.
 
-[^key-1f313fde31ffcb83e8af0ae359f06b62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f313fde31ffcb83e8af0ae359f06b62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2483b328d2811943bb446901108f0f16]: Textual amendment: S. 40(1) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-2483b328d2811943bb446901108f0f16]: Textual amendment: S. 40(1) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
 
-[^key-5bc0f6f34df5d0f34f1a343d4dc48cb6]: Textual amendment: S. 40(3) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-5bc0f6f34df5d0f34f1a343d4dc48cb6]: Textual amendment: S. 40(3) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
 
-[^key-1f313fde31ffcb83e8af0ae359f06b62]: Textual amendment: Words in s. 40(4) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-1f313fde31ffcb83e8af0ae359f06b62]: Textual amendment: Words in s. 40(4) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

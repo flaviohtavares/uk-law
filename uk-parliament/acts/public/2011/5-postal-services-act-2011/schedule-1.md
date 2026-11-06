@@ -24,7 +24,7 @@ Section 8
 
 ### Introduction
 
-**1.**[^key-addf75a0514e6ad3e57707c53abfae58] In this Schedule—
+**1.**[^c-addf75a0514e6ad3e57707c53abfae58] In this Schedule—
 
 - “**transfer scheme**” means a transfer scheme under section 8,
 - “transferee”—
@@ -37,13 +37,13 @@ Section 8
 
 ### Identification of property etc to be transferred
 
-**2.**[^key-c2ba7e190dbab1b49019805a4c031e69] (1) A transfer scheme may identify the property, rights and liabilities to be transferred by specifying or describing them.
+**2.**[^c-c2ba7e190dbab1b49019805a4c031e69] (1) A transfer scheme may identify the property, rights and liabilities to be transferred by specifying or describing them.
 
 (2) A transfer scheme may provide for the way in which property, rights or liabilities of any description are to be identified.
 
 ### Property, rights and liabilities that may be transferred
 
-**3.**[^key-9ed41f1b4331c6d0fafc1306a489642c] (1) A transfer scheme may transfer—
+**3.**[^c-9ed41f1b4331c6d0fafc1306a489642c] (1) A transfer scheme may transfer—
 
 - (a) property situated in any part of the world,
 - (b) rights and liabilities arising (in any way) under the law of any country or territory.
@@ -62,7 +62,7 @@ Section 8
 
 ### Dividing and modifying transferor's property, rights and liabilities
 
-**4.**[^key-b007f24da106c9ba661d2cb89b502026] (1) A transfer scheme may contain provision—
+**4.**[^c-b007f24da106c9ba661d2cb89b502026] (1) A transfer scheme may contain provision—
 
 - (a) for the creation, in favour of a transferor or transferee, of an interest or right in or in relation to property or rights transferred in accordance with the scheme,
 - (b) for giving effect to a transfer by the creation, in favour of the transferee, of an interest or right in or in relation to property or rights retained by a transferor, and
@@ -84,7 +84,7 @@ Section 8
 
 ### Obligation to effect transfers etc
 
-**5.**[^key-95a6533fa9c0c94a3121048ff9b8e38d] (1) A transfer scheme may impose on a transferee or transferor an obligation—
+**5.**[^c-95a6533fa9c0c94a3121048ff9b8e38d] (1) A transfer scheme may impose on a transferee or transferor an obligation—
 
 - (a) to enter into an agreement (specified or described in the scheme) with another person on whom a corresponding obligation is, could be or has been imposed as a result of this paragraph (whether in the same or a different scheme), or
 - (b) to execute an instrument (specified or described in the scheme) in favour of such a person.
@@ -109,7 +109,7 @@ to give effect to a transfer, or to create an interest or right, that could not 
 
 ### Effect of transfer scheme: general
 
-**6.**[^key-38a5ddd02a140fce8b5d614aa988cd4d] (1) At the time specified in the scheme—
+**6.**[^c-38a5ddd02a140fce8b5d614aa988cd4d] (1) At the time specified in the scheme—
 
 - (a) the property, rights and liabilities to be transferred in accordance with the scheme, and
 - (b) the interests, rights and liabilities to be created in accordance with the scheme,
@@ -120,7 +120,7 @@ are, as a result of this sub-paragraph, to vest in the transferee.
 
 ### Effect of transfer scheme on right to terminate or modify interest etc
 
-**7.**[^key-b05e6503456e228f4f5c72499e2f0bdb] (1) This paragraph applies where a person would otherwise be entitled, in consequence of anything done or likely to be done by or under this Act in connection with a transfer scheme—
+**7.**[^c-b05e6503456e228f4f5c72499e2f0bdb] (1) This paragraph applies where a person would otherwise be entitled, in consequence of anything done or likely to be done by or under this Act in connection with a transfer scheme—
 
 - (a) to terminate, modify, acquire or claim an interest or right, or
 - (b) to treat an interest or right as modified or terminated.
@@ -141,7 +141,7 @@ are, as a result of this sub-paragraph, to vest in the transferee.
 
 ### Supplementary provisions of schemes
 
-**8.**[^key-7b5857b7b4e4aa4e3523e8f23d3fb968] (1) A transfer scheme may—
+**8.**[^c-7b5857b7b4e4aa4e3523e8f23d3fb968] (1) A transfer scheme may—
 
 - (a) contain incidental, supplementary, consequential, transitional, transitory or saving provision, and
 - (b) make different provision for different cases or circumstances.
@@ -150,7 +150,7 @@ are, as a result of this sub-paragraph, to vest in the transferee.
 
 (3) In those paragraphs any reference to a transfer in accordance with a transfer scheme includes the creation in accordance with a transfer scheme of an interest, right or liability.
 
-**9.**[^key-e9e4146d9d8c2cd647c500065bd07f33] (1) A transfer scheme may provide, in relation to transfers in accordance with the scheme—
+**9.**[^c-e9e4146d9d8c2cd647c500065bd07f33] (1) A transfer scheme may provide, in relation to transfers in accordance with the scheme—
 
 - (a) for a transferee to be treated as the same person in law as the transferor,
 - (b) for agreements made, transactions effected or other things done by or in relation to the transferor to be treated, so far as may be necessary for the purposes of or in connection with the transfers, as made, effected or done by or in relation to a transferee,
@@ -159,25 +159,25 @@ are, as a result of this sub-paragraph, to vest in the transferee.
 
 (2) In sub-paragraph (1)(c) “**document**” includes an agreement or instrument, but does not include an enactment.
 
-**10.**[^key-dd20650dec390a5306c78d25e18f20c1] (1) A transfer scheme may contain provision about—
+**10.**[^c-dd20650dec390a5306c78d25e18f20c1] (1) A transfer scheme may contain provision about—
 
 - (a) the transfer of foreign property, rights and liabilities,
 - (b) the creation of foreign rights, interests and liabilities.
 
 (2) For the purposes of this paragraph property, or a right, interest or liability, is “foreign” if an issue relating to it arising in any proceedings would (in accordance with the rules of private international law) be determined under the law of a country or territory outside the United Kingdom.
 
-**11.**[^key-d44ea835e598fce95d4ff15a90cfe3ca] (1) A transfer scheme may contain provision for and in connection with the payment of compensation to third parties whose property, rights, interests or liabilities have been affected by (or as a result of) a transfer scheme.
+**11.**[^c-d44ea835e598fce95d4ff15a90cfe3ca] (1) A transfer scheme may contain provision for and in connection with the payment of compensation to third parties whose property, rights, interests or liabilities have been affected by (or as a result of) a transfer scheme.
 
 (2) The provision may provide for the appointment of an arbitrator to determine disputes about compensation.
 
-**12.**[^key-53fd0e347a94917e2c0833b80e4e2821] A transfer scheme may make provision for disputes as to the effect of the scheme—
+**12.**[^c-53fd0e347a94917e2c0833b80e4e2821] A transfer scheme may make provision for disputes as to the effect of the scheme—
 
 - (a) between different transferees, or
 - (b) between a transferee and a transferor,
 
 to be referred to such arbitration as may be specified in or determined under the scheme.
 
-**13.**[^key-b07e8495a642fae3b0225dc295ac9e0c] (1) This paragraph applies if, in consequence of a transfer scheme, a person (“P”) is entitled to possession of a document relating in part to the title to, or to the management of, land or other property.
+**13.**[^c-b07e8495a642fae3b0225dc295ac9e0c] (1) This paragraph applies if, in consequence of a transfer scheme, a person (“P”) is entitled to possession of a document relating in part to the title to, or to the management of, land or other property.
 
 (2) If the land or other property is in England and Wales—
 
@@ -196,20 +196,20 @@ to be referred to such arbitration as may be specified in or determined under th
 
 ### Proof of title by certificate
 
-**14.**[^key-334d9d05bdc3b4451ad966dcde143b48] A certificate issued by the Secretary of State to the effect that any property, interest, right or liability vested (in accordance with a transfer scheme) in a person specified in the certificate at a time so specified is conclusive evidence of the matters so specified.
+**14.**[^c-334d9d05bdc3b4451ad966dcde143b48] A certificate issued by the Secretary of State to the effect that any property, interest, right or liability vested (in accordance with a transfer scheme) in a person specified in the certificate at a time so specified is conclusive evidence of the matters so specified.
 
 ### Staff
 
-**15.**[^key-c51094155dbd71f86fd7c99a7b1a1795] The Transfer of Undertakings (Protection of Employment) Regulations 2006 apply to a transfer (under a transfer scheme) of rights and liabilities under a contract of employment (whether or not the transfer would otherwise be a relevant transfer for the purposes of those regulations).
+**15.**[^c-c51094155dbd71f86fd7c99a7b1a1795] The Transfer of Undertakings (Protection of Employment) Regulations 2006 apply to a transfer (under a transfer scheme) of rights and liabilities under a contract of employment (whether or not the transfer would otherwise be a relevant transfer for the purposes of those regulations).
 
-**16.**[^key-9085ccea656dff3d27408aab040e4eca] If an employee of the transferor becomes an employee of a transferee as a result of a transfer scheme—
+**16.**[^c-9085ccea656dff3d27408aab040e4eca] If an employee of the transferor becomes an employee of a transferee as a result of a transfer scheme—
 
 - (a) a period of employment with the transferor is to be treated as a period of employment with the transferee, and
 - (b) the transfer to the transferee is not to be treated as a break in service.
 
 ### Modification of scheme
 
-**17.**[^key-768ff4a0d551a022e1a0d3ba0790345a] (1) If—
+**17.**[^c-768ff4a0d551a022e1a0d3ba0790345a] (1) If—
 
 - (a) before the end of the period of 3 years beginning with the time specified under paragraph 6(1), the transferor and transferee agree in writing that the scheme is to be treated as having come into force at that time with such modifications as are specified in the agreement, and
 - (b) the Secretary of State, with the consent of the Treasury, approves the agreement,
@@ -223,54 +223,54 @@ the scheme as modified is to be treated for all purposes as having come into for
 
 ### Disapplication of certain company law provisions etc
 
-**18.**[^key-67aa5a067bd201721d3eb7bdfbdae411] Nothing in—
+**18.**[^c-67aa5a067bd201721d3eb7bdfbdae411] Nothing in—
 
 - (a) Part 23 of the Companies Act 2006 (distributions), or
 - (b) any rule of law relating to distributions by companies or the maintenance of capital by companies,
 
 applies in relation to a transfer of property, rights or liabilities, or the creation of rights or interests, by or under a transfer scheme.
 
-**19.**[^key-04e0a6ec510f1d3b2c4de05fc0c68b62] For the purposes of any enactment none of the following persons are to be regarded as shadow directors of a transferor or transferee in relation to anything done by or under a transfer scheme—
+**19.**[^c-04e0a6ec510f1d3b2c4de05fc0c68b62] For the purposes of any enactment none of the following persons are to be regarded as shadow directors of a transferor or transferee in relation to anything done by or under a transfer scheme—
 
 - (a) the Secretary of State or the Treasury (or a nominee of either of them), or
 - (b) a person employed by, or acting on behalf of, anyone within paragraph (a).
 
 ## Annotations
 
-[^key-addf75a0514e6ad3e57707c53abfae58]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/1) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-addf75a0514e6ad3e57707c53abfae58]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/1) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-c2ba7e190dbab1b49019805a4c031e69]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-c2ba7e190dbab1b49019805a4c031e69]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-9ed41f1b4331c6d0fafc1306a489642c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9ed41f1b4331c6d0fafc1306a489642c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-b007f24da106c9ba661d2cb89b502026]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/4) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b007f24da106c9ba661d2cb89b502026]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/4) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-95a6533fa9c0c94a3121048ff9b8e38d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/5) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-95a6533fa9c0c94a3121048ff9b8e38d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/5) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-38a5ddd02a140fce8b5d614aa988cd4d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/6) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-38a5ddd02a140fce8b5d614aa988cd4d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/6) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-b05e6503456e228f4f5c72499e2f0bdb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/7) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b05e6503456e228f4f5c72499e2f0bdb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/7) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-7b5857b7b4e4aa4e3523e8f23d3fb968]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/8) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-7b5857b7b4e4aa4e3523e8f23d3fb968]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/8) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-e9e4146d9d8c2cd647c500065bd07f33]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/9) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e9e4146d9d8c2cd647c500065bd07f33]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/9) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-dd20650dec390a5306c78d25e18f20c1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/10) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-dd20650dec390a5306c78d25e18f20c1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/10) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-d44ea835e598fce95d4ff15a90cfe3ca]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/11) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d44ea835e598fce95d4ff15a90cfe3ca]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/11) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-53fd0e347a94917e2c0833b80e4e2821]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/12) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-53fd0e347a94917e2c0833b80e4e2821]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/12) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-b07e8495a642fae3b0225dc295ac9e0c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/13) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b07e8495a642fae3b0225dc295ac9e0c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/13) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-334d9d05bdc3b4451ad966dcde143b48]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/14) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-334d9d05bdc3b4451ad966dcde143b48]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/14) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-c51094155dbd71f86fd7c99a7b1a1795]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/15) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-c51094155dbd71f86fd7c99a7b1a1795]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/15) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-9085ccea656dff3d27408aab040e4eca]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/16) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9085ccea656dff3d27408aab040e4eca]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/16) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-768ff4a0d551a022e1a0d3ba0790345a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/17) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-768ff4a0d551a022e1a0d3ba0790345a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/17) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-67aa5a067bd201721d3eb7bdfbdae411]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/18) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-67aa5a067bd201721d3eb7bdfbdae411]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/18) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-04e0a6ec510f1d3b2c4de05fc0c68b62]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/19) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-04e0a6ec510f1d3b2c4de05fc0c68b62]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/19) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

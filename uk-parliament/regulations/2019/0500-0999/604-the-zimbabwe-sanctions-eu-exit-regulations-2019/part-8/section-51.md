@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Jurisdiction to try offences[^key-65c14983a9ab6c3b258c29c204b12a8b][^key-8d3bd5b4441b244cc604120108fa2c6e]
+## 51. Jurisdiction to try offences[^c-65c14983a9ab6c3b258c29c204b12a8b][^c-8d3bd5b4441b244cc604120108fa2c6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-65c14983a9ab6c3b258c29c204b12a8b]: Commencement: Reg. 51 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-65c14983a9ab6c3b258c29c204b12a8b]: Commencement: Reg. 51 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-8d3bd5b4441b244cc604120108fa2c6e]: Commencement: Reg. 51 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d3bd5b4441b244cc604120108fa2c6e]: Commencement: Reg. 51 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23947691]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).

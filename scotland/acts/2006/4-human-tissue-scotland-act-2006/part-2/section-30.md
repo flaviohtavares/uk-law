@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Authorisation of post-mortem examination etc. by adult's nominee or nearest relative[^key-82e2c4e67e03b2e352e11ace5449bc34]
+## 30. Authorisation of post-mortem examination etc. by adult's nominee or nearest relative[^c-82e2c4e67e03b2e352e11ace5449bc34]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ must state that the person giving the authorisation has no actual knowledge that
 
 ## Annotations
 
-[^key-82e2c4e67e03b2e352e11ace5449bc34]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2006/4/section/30) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-82e2c4e67e03b2e352e11ace5449bc34]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2006/4/section/30) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

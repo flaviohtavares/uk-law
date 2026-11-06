@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Incorporating organic manure into the ground[^key-98ff1fba66a4ba7c3266833687d92d1a]
+## 16. Incorporating organic manure into the ground[^c-98ff1fba66a4ba7c3266833687d92d1a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98ff1fba66a4ba7c3266833687d92d1a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2021/77/regulation/16) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-98ff1fba66a4ba7c3266833687d92d1a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2021/77/regulation/16) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

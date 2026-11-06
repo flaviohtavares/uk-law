@@ -42,7 +42,7 @@ Whereas a draft of these Regulations has been approved by resolution of each Hou
 
 Now, therefore, the Secretary of State, being a Minister designated[^f00002] for the purposes of subsection (2) of section 2 of that Act in relation to measures relating to firearms and ammunition, in exercise of the powers conferred on him by that subsection, hereby makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-8d35f0466a23fec3a7252541a1f8a79b]
+## 1. Citation, commencement and extent[^c-8d35f0466a23fec3a7252541a1f8a79b]
 
 (1) These Regulations may be cited as the Firearms Acts (Amendment) Regulations 1992.
 
@@ -50,14 +50,14 @@ Now, therefore, the Secretary of State, being a Minister designated[^f00002] for
 
 (3) These Regulations do not extend to Northern Ireland.
 
-## 2. Interpretation[^key-ca095dfe4c99f973f8e7bf8775e1580e]
+## 2. Interpretation[^c-ca095dfe4c99f973f8e7bf8775e1580e]
 
 In these Regulations—
 
 - “the 1968 Act” means the Firearms Act 1968[^f00003]; and
 - “the 1988 Act” means the Firearms (Amendment) Act 1988[^f00004].
 
-## 3. Prohibited weapons and ammunition[^key-5926a40d3f06c48c8ecf9d5f8e90bc76]
+## 3. Prohibited weapons and ammunition[^c-5926a40d3f06c48c8ecf9d5f8e90bc76]
 
 (1) In section 5 of the 1968 Act (weapons subject to a general prohibition), after subsection (1) there shall be inserted the following subsection—
 
@@ -138,7 +138,7 @@ In these Regulations—
 > | Section 5(1A).. | Possessing or distributing other prohibited weapons or ammunition | (a) Summary… | 3 months or a fine of the statutory maximum; or both. | — |
 > |  |  | (b) On indictment | 2 years or a fine; or both. |  |
 
-## 4. Restrictions on minors[^key-873024d4f74670e0ad2cfb1a868f3876]
+## 4. Restrictions on minors[^c-873024d4f74670e0ad2cfb1a868f3876]
 
 (1) In section 22 of the 1968 Act (acquisition and possession of firearms by minors), after subsection (1) there shall be inserted the following subsection—
 
@@ -158,7 +158,7 @@ In these Regulations—
 > | --- | --- | --- | --- | --- |
 > | Section 22(1A).. | Person under 18 using certificated firearm for unauthorised purpose. | Summary… | 3 months or a fine of level 5 on the standard scale; or both. | — |
 
-## 5. Documents for European purposes[^key-1225aa4b154ece5aae44f8a98764f75c]
+## 5. Documents for European purposes[^c-1225aa4b154ece5aae44f8a98764f75c]
 
 (1) After section 32 of the 1968 Act there shall be inserted the following sections—
 
@@ -283,7 +283,7 @@ In these Regulations—
 > | Section 32B(5).. | Failure to surrender expired European firearms pass. | Summary… | A fine of level 3 on the standard scale. | — |
 > | Section 32C(6).. | Failure to produce European firearms pass or Article 7 authority for variation or cancellation etc., failure to notify loss or theft of firearm identified in pass or to produce pass for endorsement | Summary | 3 months or a fine of level 5 on the standard scale; or both. | — |
 
-## 6. Purchase and acquisition of shot gun under visitor’s permit[^key-970be7d2592f72bdae0c399ef2634343]
+## 6. Purchase and acquisition of shot gun under visitor’s permit[^c-970be7d2592f72bdae0c399ef2634343]
 
 (1) In section 17 of the 1988 Act (visitors' permits), after subsection (1) there shall be inserted the following subsection—
 
@@ -325,7 +325,7 @@ In these Regulations—
 > | --- | --- | --- | --- | --- |
 > | Section 42A… | Failure to report transaction authorised by visitor’s shot gun permit. | Summary | 3 months or a fine of level 5 on the standard scale; or both. | — |
 
-## 7. Production of passes issued in other member States[^key-85cf65341523cae9ce89099442b03956]
+## 7. Production of passes issued in other member States[^c-85cf65341523cae9ce89099442b03956]
 
 (1) After subsection (3) of section 17 of the 1988 Act there shall be inserted the following subsection—
 
@@ -366,7 +366,7 @@ In these Regulations—
 > | --- | --- | --- | --- | --- |
 > | Section 48(4).. | Failure to produce firearms pass issued in another member State. | Summary… | A fine of level 3 on the standard scale. | — |
 
-## 8. Firearms acquired for export to another member State[^key-80fe0e894461cf943a60379cec6e30f5]
+## 8. Firearms acquired for export to another member State[^c-80fe0e894461cf943a60379cec6e30f5]
 
 (1) In section 18 of the 1988 Act (firearms acquired for export), after subsection (1) there shall be inserted the following subsection—
 
@@ -384,7 +384,7 @@ In these Regulations—
 
 > (6) In the case of any failure to comply with subsection (2) above which is confined to the omission from a notice of the particulars of an agreement contained in a document such as is mentioned in subsection (1A)(a) above, subsection (5) above shall have effect as if for “six months”there were substituted “three months”.
 
-## 9. Purchase or acquisition of firearms in other member States[^key-0b11de9d2ac2cc00f0a8f9b4b78570df]
+## 9. Purchase or acquisition of firearms in other member States[^c-0b11de9d2ac2cc00f0a8f9b4b78570df]
 
 After section 18 of the 1988 Act there shall be inserted the following section—
 
@@ -415,7 +415,7 @@ After section 18 of the 1988 Act there shall be inserted the following section�
 >
 > (6) It is an offence for a person to fail to comply with this section; and that offence shall be punishable on summary conviction with imprisonment for a term not exceeding three months or a fine not exceeding level 5 on the standard scale or both.
 
-## 10. Exchange of information[^key-e9be3fd88504e65cce745c80f72bb3a1]
+## 10. Exchange of information[^c-e9be3fd88504e65cce745c80f72bb3a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -453,30 +453,30 @@ These Regulations (which are made under section 2(2) of the European Communities
 
 [^f00002]: Footnote: The European Communities (Designation) (No. 2) Order 1991 (S.I. [1991/755](https://www.legislation.gov.uk/uksi/1991/755)).
 
-[^key-8d35f0466a23fec3a7252541a1f8a79b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-8d35f0466a23fec3a7252541a1f8a79b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
-[^key-ca095dfe4c99f973f8e7bf8775e1580e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/2823/regulation/2) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-ca095dfe4c99f973f8e7bf8775e1580e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/2823/regulation/2) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
 [^f00003]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27), as extended by the Firearms Act [1982 (c. 31)](https://www.legislation.gov.uk/ukpga/1982/31) and amended and extended by the 1988 Act.
 
 [^f00004]: Footnote: [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45).
 
-[^key-5926a40d3f06c48c8ecf9d5f8e90bc76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2823/regulation/3) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-5926a40d3f06c48c8ecf9d5f8e90bc76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2823/regulation/3) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
-[^key-873024d4f74670e0ad2cfb1a868f3876]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/2823/regulation/4) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-873024d4f74670e0ad2cfb1a868f3876]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/2823/regulation/4) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
-[^key-1225aa4b154ece5aae44f8a98764f75c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/2823/regulation/5) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-1225aa4b154ece5aae44f8a98764f75c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/2823/regulation/5) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
 [^f00005]: Footnote: OJ No. L256, 13.9.91, p. 51.
 
-[^key-970be7d2592f72bdae0c399ef2634343]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/2823/regulation/6) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-970be7d2592f72bdae0c399ef2634343]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/2823/regulation/6) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
 [^f00006]: Footnote: [1939 c. 69](https://www.legislation.gov.uk/ukpga/1939/69). The current order is the Export of Goods (Control) Order 1991 (S.I. [1991/2666](https://www.legislation.gov.uk/uksi/1991/2666)).
 
-[^key-85cf65341523cae9ce89099442b03956]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2823/regulation/7) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-85cf65341523cae9ce89099442b03956]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2823/regulation/7) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
-[^key-80fe0e894461cf943a60379cec6e30f5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/2823/regulation/8) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-80fe0e894461cf943a60379cec6e30f5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/2823/regulation/8) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
-[^key-0b11de9d2ac2cc00f0a8f9b4b78570df]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1992/2823/regulation/9) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
+[^c-0b11de9d2ac2cc00f0a8f9b4b78570df]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1992/2823/regulation/9) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/1/2)
 
-[^key-e9be3fd88504e65cce745c80f72bb3a1]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1992/2823/regulation/10) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [62](https://www.legislation.gov.uk/uksi/2019/742/regulation/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9be3fd88504e65cce745c80f72bb3a1]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1992/2823/regulation/10) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [62](https://www.legislation.gov.uk/uksi/2019/742/regulation/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

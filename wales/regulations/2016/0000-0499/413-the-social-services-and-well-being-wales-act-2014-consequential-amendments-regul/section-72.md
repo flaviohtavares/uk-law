@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**72.**[^key-48d560c31d5f256691ad93d08b3acfa7] In section 23ZA(3)(a)[^f00084] (duty of local authority to ensure visits to, and contact with, looked after children and others) for “appropriate national authority” substitute “Secretary of State”.
+**72.**[^c-48d560c31d5f256691ad93d08b3acfa7] In section 23ZA(3)(a)[^f00084] (duty of local authority to ensure visits to, and contact with, looked after children and others) for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-48d560c31d5f256691ad93d08b3acfa7]: Commencement: Reg. 72 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-48d560c31d5f256691ad93d08b3acfa7]: Commencement: Reg. 72 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00084]: Footnote: Section 23ZA was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 15.

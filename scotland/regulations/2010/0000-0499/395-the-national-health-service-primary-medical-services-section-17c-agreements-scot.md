@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2010 (revoked)[^key-b7e8827751f52e74d391a272b1f70858]
+The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2010 (revoked)[^c-b7e8827751f52e74d391a272b1f70858]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 22nd December 2010
 
-[^key-b7e8827751f52e74d391a272b1f70858]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7e8827751f52e74d391a272b1f70858]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b7e8827751f52e74d391a272b1f70858]
+## 1. Citation, commencement and interpretation[^c-b7e8827751f52e74d391a272b1f70858]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2004 Regulations[^key-b7e8827751f52e74d391a272b1f70858]
+## 2. Amendment of the 2004 Regulations[^c-b7e8827751f52e74d391a272b1f70858]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b7e8827751f52e74d391a272b1f70858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7e8827751f52e74d391a272b1f70858]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7e8827751f52e74d391a272b1f70858]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7e8827751f52e74d391a272b1f70858]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7e8827751f52e74d391a272b1f70858]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7e8827751f52e74d391a272b1f70858]: Textual amendment: Regulations revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+[^c-b7e8827751f52e74d391a272b1f70858]: Textual amendment: Regulations revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))

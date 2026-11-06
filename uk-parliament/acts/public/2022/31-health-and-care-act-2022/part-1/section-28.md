@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Expansion of NHS England’s duties in respect of expenditure[^key-b93a2b01909d51513f7af5293757c445]
+## 28. Expansion of NHS England’s duties in respect of expenditure[^c-b93a2b01909d51513f7af5293757c445]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 223C of the National Health Service Act 2006 (as substituted by secti
 
 ## Annotations
 
-[^key-b93a2b01909d51513f7af5293757c445]: Commencement: S. 28 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b93a2b01909d51513f7af5293757c445]: Commencement: S. 28 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15A. ... sentence with fixed licence period[^key-ca7de12d652e80217d6aafb8ee3e568a][^key-d02fd57584fb61e48809b937e7a44bb7]
+## 15A. ... sentence with fixed licence period[^c-ca7de12d652e80217d6aafb8ee3e568a][^c-d02fd57584fb61e48809b937e7a44bb7]
 
 *Extent: N.I.*
 
@@ -29,12 +29,12 @@ summary: ''
 - (b) the court does not impose, in respect of the offence or any offence associated with it, a life sentence, an indeterminate custodial sentence, a serious terrorism sentence or an extended custodial sentence; and
 - (c) the court decides to impose a custodial sentence.
 
-(2) But this Article does not apply by virtue of paragraph (1)[^key-5f2ed4278992aaaa2f1adbfa77f475f7] where—
+(2) But this Article does not apply by virtue of paragraph (1)[^c-5f2ed4278992aaaa2f1adbfa77f475f7] where—
 
 - (a) the offender is under the age of 18 when convicted of the offence; and
 - (b) the offence was committed before the commencement of section 24 of the Counter-Terrorism and Sentencing Act 2021.
 
-(2A)[^key-f3f53cf8533db807fbc522832eb0a3c6] This Article also applies where—
+(2A)[^c-f3f53cf8533db807fbc522832eb0a3c6] This Article also applies where—
 
 - (a) a person is convicted after the commencement of section 9 of the Sentencing Act 2026 of an offence specified in Schedule 2B (offences involving or connected with a threat to national security specified for the purposes of Article 15A),
 - (b) the court does not impose, in respect of the offence or any offence associated with it, a life sentence, an indeterminate custodial sentence, a serious terrorism sentence or an extended custodial sentence, and
@@ -67,16 +67,16 @@ summary: ''
 
 (10) Remission shall not be granted under prison rules to the offender in respect of a sentence under this Article.
 
-(11)[^key-59f0c829389c3fd164c82a65573cd01f] In the case of an offence listed in paragraph 32(b) of Schedule 2A, this Article applies in relation to convictions on or after the day on which paragraph 5 of Schedule 27 to the Crime and Policing Act 2026 comes into force.
+(11)[^c-59f0c829389c3fd164c82a65573cd01f] In the case of an offence listed in paragraph 32(b) of Schedule 2A, this Article applies in relation to convictions on or after the day on which paragraph 5 of Schedule 27 to the Crime and Policing Act 2026 comes into force.
 
 ## Annotations
 
-[^key-ca7de12d652e80217d6aafb8ee3e568a]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/nisi/2008/1216/article/15A) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 24](https://www.legislation.gov.uk/ukpga/2021/11/section/24), [50(1)(e)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/e)
+[^c-ca7de12d652e80217d6aafb8ee3e568a]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/nisi/2008/1216/article/15A) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 24](https://www.legislation.gov.uk/ukpga/2021/11/section/24), [50(1)(e)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/e)
 
-[^key-d02fd57584fb61e48809b937e7a44bb7]: Textual amendment: Word in [art. 15A](https://www.legislation.gov.uk/nisi/2008/1216/article/15A) heading omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/2), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-d02fd57584fb61e48809b937e7a44bb7]: Textual amendment: Word in [art. 15A](https://www.legislation.gov.uk/nisi/2008/1216/article/15A) heading omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/2), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-5f2ed4278992aaaa2f1adbfa77f475f7]: Textual amendment: Words in [art. 15A(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/2) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/3), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-5f2ed4278992aaaa2f1adbfa77f475f7]: Textual amendment: Words in [art. 15A(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/2) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/3), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-f3f53cf8533db807fbc522832eb0a3c6]: Textual amendment: [Art. 15A(2A)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/2A)[(2B)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/2B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/4), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-f3f53cf8533db807fbc522832eb0a3c6]: Textual amendment: [Art. 15A(2A)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/2A)[(2B)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/2B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/4), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-59f0c829389c3fd164c82a65573cd01f]: Textual amendment: [Art. 15A(11)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/11) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 5(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/5/2)
+[^c-59f0c829389c3fd164c82a65573cd01f]: Textual amendment: [Art. 15A(11)](https://www.legislation.gov.uk/nisi/2008/1216/article/15A/11) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 5(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/5/2)

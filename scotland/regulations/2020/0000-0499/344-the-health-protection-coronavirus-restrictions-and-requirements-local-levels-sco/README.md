@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (revoked)[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (revoked)[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 Approved by the Scottish Parliament
 
@@ -48,11 +48,11 @@ Coming into force
 
 at 6.00 a.m. on 2nd November 2020
 
-[^key-e06b4056dfcd9f9f5a870e3231388c9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e06b4056dfcd9f9f5a870e3231388c9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### PART 1 — Introductory[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ at 6.00 a.m. on 2nd November 2020
 - [Section 1 — Citation, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Restrictions[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### PART 2 — Restrictions[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 *Extent: S*
 
@@ -71,7 +71,7 @@ at 6.00 a.m. on 2nd November 2020
 - [Section 3A — Modification of the restrictions in certain areas](part-2/section-3a.md)
 - [Section 3B — Temporary modification of restrictions: holiday gatherings](part-2/section-3b.md)
 
-### PART 3 — Enforcement[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### PART 3 — Enforcement[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 *Extent: S*
 
@@ -82,7 +82,7 @@ at 6.00 a.m. on 2nd November 2020
 - [Section 6 — Power of entry](part-3/section-6.md)
 - [Section 7 — Fixed penalty notices](part-3/section-7.md)
 
-### PART 4 — Final provisions[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+### PART 4 — Final provisions[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 *Extent: S*
 
@@ -107,14 +107,14 @@ at 6.00 a.m. on 2nd November 2020
 
 **No longer in force.**
 
-[^key-e06b4056dfcd9f9f5a870e3231388c9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e06b4056dfcd9f9f5a870e3231388c9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-e06b4056dfcd9f9f5a870e3231388c9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e06b4056dfcd9f9f5a870e3231388c9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)
+[^c-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)

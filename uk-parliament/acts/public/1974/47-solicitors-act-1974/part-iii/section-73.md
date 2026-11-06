@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Charging orders.[^c13351821][^key-e289cf7996ffeebac2a7be0b09ced4bb]
+## 73. Charging orders.[^c13351821][^c-e289cf7996ffeebac2a7be0b09ced4bb]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ and all conveyances and acts done to defeat, or operating to defeat, that charge
 
     S. 73 extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/2)
 
-[^key-e289cf7996ffeebac2a7be0b09ced4bb]: Modification: Ss. 70-74 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/5)
+[^c-e289cf7996ffeebac2a7be0b09ced4bb]: Modification: Ss. 70-74 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/5)
 
 [^c19673181]: Textual amendment: Word in [s. 73(1)](https://www.legislation.gov.uk/ukpga/1974/47/section/73/1) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 68(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/68/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Disclosure of information and holding of inquiries[^key-836ebffc1b16b0f951150c19d014be18]
+## 76A. Disclosure of information and holding of inquiries[^c-836ebffc1b16b0f951150c19d014be18]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of sections 33A, 59, 60, 61[^key-551c9fe28bd04a42e7b1b4d4e21e4d80] and 66, the grounds on which information ought not to be disclosed are that—
+(1) For the purposes of sections 33A, 59, 60, 61[^c-551c9fe28bd04a42e7b1b4d4e21e4d80] and 66, the grounds on which information ought not to be disclosed are that—
 
 - (a) it is in the interests of national security;
 - (b) the information is sensitive personnel information;
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-836ebffc1b16b0f951150c19d014be18]: Textual amendment: S. 76A inserted (with effect in accordance with s. 29(2)(3) of the amending Act) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 29(1)](https://www.legislation.gov.uk/ukpga/2003/6/section/29/1)
+[^c-836ebffc1b16b0f951150c19d014be18]: Textual amendment: S. 76A inserted (with effect in accordance with s. 29(2)(3) of the amending Act) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 29(1)](https://www.legislation.gov.uk/ukpga/2003/6/section/29/1)
 
-[^key-551c9fe28bd04a42e7b1b4d4e21e4d80]: Textual amendment: Words in s. 76A(1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 84](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/84) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-551c9fe28bd04a42e7b1b4d4e21e4d80]: Textual amendment: Words in s. 76A(1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 84](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/84) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

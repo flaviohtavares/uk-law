@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Social Security (Computation of Earnings) Regulations (Northern Ireland) 1996[^key-300be439cd04af465b64fe699a45081f]
+## 89. Social Security (Computation of Earnings) Regulations (Northern Ireland) 1996[^c-300be439cd04af465b64fe699a45081f]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2(1) of the Social Security (Computation of Earnings) Regulations 
 
 ## Annotations
 
-[^key-300be439cd04af465b64fe699a45081f]: Commencement: Reg. 89 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-300be439cd04af465b64fe699a45081f]: Commencement: Reg. 89 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00150]: Footnote: [S.R. (N.I.) 1996/520](https://www.legislation.gov.uk/nisr/1996/520). In regulation 2(1), the definition of “couple” was substituted by article 17 of [S.I. 2005/2919](https://www.legislation.gov.uk/uksi/2005/2919).

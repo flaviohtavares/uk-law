@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Offence of using a registration number where no registration[^key-699c012d52fc25492c38ca04057b417d]
+## 45. Offence of using a registration number where no registration[^c-699c012d52fc25492c38ca04057b417d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-699c012d52fc25492c38ca04057b417d]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/14/section/45) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-699c012d52fc25492c38ca04057b417d]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/14/section/45) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

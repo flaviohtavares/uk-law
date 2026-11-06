@@ -22,8 +22,8 @@ summary: ''
 
 (1) In this Part of this Act—
 
-- [^key-cbdd5c72f1f01cd0b6dd54e0e025e0ec]...
-- [^key-cbdd5c72f1f01cd0b6dd54e0e025e0ec]...
+- [^c-cbdd5c72f1f01cd0b6dd54e0e025e0ec]...
+- [^c-cbdd5c72f1f01cd0b6dd54e0e025e0ec]...
 - [^c13878181]“**the 1968 Act**” means the [^c13878211]New Towns (Scotland) Act 1968.
 
 (2) The amendments to [^c13878221] the 1968 Act, the [^c13878231]Land Compensation Act 1961 and the [^c13878241]Land Compensation (Scotland) Act 1963 mentioned in Schedule 25 below shall have effect.
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cbdd5c72f1f01cd0b6dd54e0e025e0ec]: Textual amendment: Words in s. 133(1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 78](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/78) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-cbdd5c72f1f01cd0b6dd54e0e025e0ec]: Textual amendment: Words in s. 133(1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 78](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/78) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
 [^c13878181]: Textual amendment: Words repealed by [New Towns Act 1981 (c. 64, SIF 123:3)](https://www.legislation.gov.uk/ukpga/1981/64), [s. 81](https://www.legislation.gov.uk/ukpga/1981/64/section/81), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/29)(*a*)(*ii*), Sch. 13
 

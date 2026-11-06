@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**74.**[^key-fd96444ac27b3d12b680e5cc5565de54] For section 17 (effect of certain nullity decrees) substitute—
+**74.**[^c-fd96444ac27b3d12b680e5cc5565de54] For section 17 (effect of certain nullity decrees) substitute—
 
 > **17. Effect of certain nullity decrees**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd96444ac27b3d12b680e5cc5565de54]: Commencement: Art. 74 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-fd96444ac27b3d12b680e5cc5565de54]: Commencement: Art. 74 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

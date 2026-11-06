@@ -37,100 +37,100 @@ laying down the procedure for the establishment and operation of an independent 
 
 (Text with EEA relevance) (revoked)
 
-[^key-50eb0396a91c8514964df832eb279c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50eb0396a91c8514964df832eb279c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — GENERAL PROVISIONS[^key-50eb0396a91c8514964df832eb279c78]
+## CHAPTER I — GENERAL PROVISIONS[^c-50eb0396a91c8514964df832eb279c78]
 
-### Article 1. Subject matter[^key-50eb0396a91c8514964df832eb279c78]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definition[^key-50eb0396a91c8514964df832eb279c78]
+### Article 1. Subject matter[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Tasks[^key-50eb0396a91c8514964df832eb279c78]
+### Article 2. Definition[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — ESTABLISHMENT OF THE INDEPENDENT ADVISORY PANEL[^key-50eb0396a91c8514964df832eb279c78]
-
-### Article 4. Appointment[^key-50eb0396a91c8514964df832eb279c78]
+### Article 3. Tasks[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Terms of office[^key-50eb0396a91c8514964df832eb279c78]
+## CHAPTER II — ESTABLISHMENT OF THE INDEPENDENT ADVISORY PANEL[^c-50eb0396a91c8514964df832eb279c78]
+
+### Article 4. Appointment[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — OPERATION OF THE PANEL[^key-50eb0396a91c8514964df832eb279c78]
-
-### Article 6. Election of the Chair and Vice-Chair[^key-50eb0396a91c8514964df832eb279c78]
+### Article 5. Terms of office[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Voting rules[^key-50eb0396a91c8514964df832eb279c78]
+## CHAPTER III — OPERATION OF THE PANEL[^c-50eb0396a91c8514964df832eb279c78]
+
+### Article 6. Election of the Chair and Vice-Chair[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Rules of procedure[^key-50eb0396a91c8514964df832eb279c78]
+### Article 7. Voting rules[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Methodology[^key-50eb0396a91c8514964df832eb279c78]
+### Article 8. Rules of procedure[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Advice on test products[^key-50eb0396a91c8514964df832eb279c78]
+### Article 9. Methodology[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Consultation on other matters[^key-50eb0396a91c8514964df832eb279c78]
+### Article 10. Advice on test products[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Technical group of sensory and chemical assessors[^key-50eb0396a91c8514964df832eb279c78]
+### Article 11. Consultation on other matters[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Secretariat[^key-50eb0396a91c8514964df832eb279c78]
+### Article 12. Technical group of sensory and chemical assessors[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Special allowance[^key-50eb0396a91c8514964df832eb279c78]
+### Article 13. Secretariat[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — INDEPENDENCE, CONFIDENTIALITY AND TRANSPARENCY[^key-50eb0396a91c8514964df832eb279c78]
-
-### Article 15. Communication[^key-50eb0396a91c8514964df832eb279c78]
+### Article 14. Special allowance[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Independence[^key-50eb0396a91c8514964df832eb279c78]
+## CHAPTER IV — INDEPENDENCE, CONFIDENTIALITY AND TRANSPARENCY[^c-50eb0396a91c8514964df832eb279c78]
+
+### Article 15. Communication[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Confidentiality and protection of personal data[^key-50eb0396a91c8514964df832eb279c78]
+### Article 16. Independence[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Commitment[^key-50eb0396a91c8514964df832eb279c78]
+### Article 17. Confidentiality and protection of personal data[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Transparency[^key-50eb0396a91c8514964df832eb279c78]
+### Article 18. Commitment[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — FINAL PROVISIONS[^key-50eb0396a91c8514964df832eb279c78]
-
-### Article 20. Addressees[^key-50eb0396a91c8514964df832eb279c78]
+### Article 19. Transparency[^c-50eb0396a91c8514964df832eb279c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50eb0396a91c8514964df832eb279c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## CHAPTER V — FINAL PROVISIONS[^c-50eb0396a91c8514964df832eb279c78]
+
+### Article 20. Addressees[^c-50eb0396a91c8514964df832eb279c78]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-50eb0396a91c8514964df832eb279c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50eb0396a91c8514964df832eb279c78]: Textual amendment: Decision revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50eb0396a91c8514964df832eb279c78]: Textual amendment: Decision revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

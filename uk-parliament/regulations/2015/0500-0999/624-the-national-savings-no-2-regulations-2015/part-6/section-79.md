@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Persons unable to write[^key-d376a3783b581121bb80f47af633ad1f]
+## 79. Persons unable to write[^c-d376a3783b581121bb80f47af633ad1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a document is required by the Director of Savings or by these Regulations 
 
 ## Annotations
 
-[^key-d376a3783b581121bb80f47af633ad1f]: Commencement: Reg. 79 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-d376a3783b581121bb80f47af633ad1f]: Commencement: Reg. 79 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

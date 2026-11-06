@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A contractor which is providing mandatory services and which wishes a general dental services contract to be entered into pursuant to this regulation shall notify NHS England[^key-d1caf22cc98adae401c0bdbf330d1379] in writing at least three months before the date on which it wishes the general dental services contract to be entered into.
+(1) A contractor which is providing mandatory services and which wishes a general dental services contract to be entered into pursuant to this regulation shall notify NHS England[^c-d1caf22cc98adae401c0bdbf330d1379] in writing at least three months before the date on which it wishes the general dental services contract to be entered into.
 
 (2) A notice under paragraph (1) shall—
 
@@ -52,7 +52,7 @@ summary: ''
 
 (7) An agreement shall terminate on the date stated in the notice given by the contractor under paragraph (1) unless a different date is agreed by the contractor and NHS England or no general dental services contract is entered into by NHS England pursuant to this regulation.
 
-(8) Where there is a dispute as to whether or not a person satisfies the conditions set out in section 28M of the Act or regulation 4 or 5 of the GDS Contracts Regulations, the contractor may appeal to the First-tier Tribunal[^key-907ff6b396f42fc93b80030f032d7a22] and NHS England shall be the respondent.
+(8) Where there is a dispute as to whether or not a person satisfies the conditions set out in section 28M of the Act or regulation 4 or 5 of the GDS Contracts Regulations, the contractor may appeal to the First-tier Tribunal[^c-907ff6b396f42fc93b80030f032d7a22] and NHS England shall be the respondent.
 
 (9) Any other dispute relating to this regulation shall be determined by the Secretary of State in accordance with regulation 8(3) and (4) of the GDS Contracts Regulations (pre-contract disputes).
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c12419131]: Marginal citation: Section 28M was inserted into the Act by section 172(1) of the 2003 Act.
 
-[^key-907ff6b396f42fc93b80030f032d7a22]: Textual amendment: Words in reg. 21(8) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 3 para. 104](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/104)
+[^c-907ff6b396f42fc93b80030f032d7a22]: Textual amendment: Words in reg. 21(8) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 3 para. 104](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/104)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141A. Pension protection lump sum death benefit[^key-4504a87c6103492cb783cc67bc0da288]
+## 141A. Pension protection lump sum death benefit[^c-4504a87c6103492cb783cc67bc0da288]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4504a87c6103492cb783cc67bc0da288]: Textual amendment: [Reg. 141A](https://www.legislation.gov.uk/uksi/2014/512/regulation/141A) inserted (1.9.2019) by [The Teachers Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/1134/regulation/26)
+[^c-4504a87c6103492cb783cc67bc0da288]: Textual amendment: [Reg. 141A](https://www.legislation.gov.uk/uksi/2014/512/regulation/141A) inserted (1.9.2019) by [The Teachers Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/1134/regulation/26)

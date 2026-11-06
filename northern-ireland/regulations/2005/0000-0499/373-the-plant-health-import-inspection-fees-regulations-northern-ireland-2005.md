@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2005 (revoked)[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+The Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2005 (revoked)[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 Made
 
@@ -41,51 +41,51 @@ Coming into operation
 
 1st September 2005
 
-[^key-d1b20c9dd70ab582c61ff707d20dfb58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b20c9dd70ab582c61ff707d20dfb58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## 1. Citation and commencement[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## 2. Interpretation[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consignments to which Regulations apply[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## 3. Consignments to which Regulations apply[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## 4. Fees[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Mixed consignments[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## 5. Mixed consignments[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notification of consignments[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## 6. Notification of consignments[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1b20c9dd70ab582c61ff707d20dfb58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b20c9dd70ab582c61ff707d20dfb58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — IMPORT INSPECTION FEES[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## SCHEDULE 1 — IMPORT INSPECTION FEES[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 regulation 3 and 4 (2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REDUCED IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## SCHEDULE 2 — REDUCED IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 regulation 4(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS AND IDENTITY CHECKS[^key-d1b20c9dd70ab582c61ff707d20dfb58]
+## SCHEDULE 3 — IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS AND IDENTITY CHECKS[^c-d1b20c9dd70ab582c61ff707d20dfb58]
 
 regulation 4(4)
 
@@ -93,8 +93,8 @@ regulation 4(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1b20c9dd70ab582c61ff707d20dfb58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b20c9dd70ab582c61ff707d20dfb58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1b20c9dd70ab582c61ff707d20dfb58]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/373) revoked (29.3.2019) by [The Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2019 (S.R. 2019/73)](https://www.legislation.gov.uk/nisr/2019/73), [regs. 1](https://www.legislation.gov.uk/nisr/2019/73/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2019/73/regulation/8/a)
+[^c-d1b20c9dd70ab582c61ff707d20dfb58]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/373) revoked (29.3.2019) by [The Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2019 (S.R. 2019/73)](https://www.legislation.gov.uk/nisr/2019/73), [regs. 1](https://www.legislation.gov.uk/nisr/2019/73/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2019/73/regulation/8/a)

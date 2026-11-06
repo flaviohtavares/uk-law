@@ -38,7 +38,7 @@ Plant Health, England And Wales
 
 Plant Health, Northern Ireland
 
-The Plant Health (EU Exit) Regulations 2019 (revoked)[^key-b2c9a477a8eb5c1beaf9e479ec59df22]
+The Plant Health (EU Exit) Regulations 2019 (revoked)[^c-b2c9a477a8eb5c1beaf9e479ec59df22]
 
 Made
 
@@ -46,7 +46,7 @@ Made
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-b2c9a477a8eb5c1beaf9e479ec59df22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c9a477a8eb5c1beaf9e479ec59df22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -79,14 +79,14 @@ Coming into force in accordance with regulation 1(1)
 
 **No longer in force.**
 
-[^key-b2c9a477a8eb5c1beaf9e479ec59df22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c9a477a8eb5c1beaf9e479ec59df22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2c9a477a8eb5c1beaf9e479ec59df22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c9a477a8eb5c1beaf9e479ec59df22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2c9a477a8eb5c1beaf9e479ec59df22]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/a), [54(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/54/b)
+[^c-b2c9a477a8eb5c1beaf9e479ec59df22]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/a), [54(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/54/b)

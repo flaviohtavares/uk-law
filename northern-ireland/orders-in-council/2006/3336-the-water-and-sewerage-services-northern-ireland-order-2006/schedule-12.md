@@ -138,7 +138,7 @@ Article 308
 
 ### The Rates (Northern Ireland) Order 1977 (NI 28)
 
-**12.**[^key-71c8e81b5d55d276caeb778cb5916da0][^c20627811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-71c8e81b5d55d276caeb778cb5916da0][^c20627811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Health and Safety at Work (Northern Ireland) Order 1978 (NI 9)
 
@@ -272,9 +272,9 @@ Article 308
 
 **29.**[^c20628131] (1) In Article 2(2), at the end of the definition of “statutory undertaker” add “ or a water undertaker or sewerage undertaker ”.
 
-(2)[^key-162d004197821b3a8f348aaba516d7bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-162d004197821b3a8f348aaba516d7bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-162d004197821b3a8f348aaba516d7bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-162d004197821b3a8f348aaba516d7bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Article 103(2) for “or electricity” substitute “ electricity, water or sewerage ”.
 
@@ -364,7 +364,7 @@ Article 308
 
 ### The Ombudsman (Northern Ireland) Order 1996 (NI 8)
 
-**37.**[^key-4a59979e838dbd6eb09d945a2e06f678][^c20628311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-4a59979e838dbd6eb09d945a2e06f678][^c20628311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Industrial Pollution Control (Northern Ireland) Order 1997(NI 18)
 
@@ -626,7 +626,7 @@ Article 308
 
 [^c20627801]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/11) wholly in operation at 1.4.2007, see [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-71c8e81b5d55d276caeb778cb5916da0]: Textual amendment: [Sch. 12 para. 12](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/12) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-71c8e81b5d55d276caeb778cb5916da0]: Textual amendment: [Sch. 12 para. 12](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/12) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c20627811]: Commencement: Sch. 12 para. 12 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
@@ -664,7 +664,7 @@ Article 308
 
 [^c20628131]: Commencement: Sch. 12 para. 29 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-162d004197821b3a8f348aaba516d7bd]: Textual amendment: Sch. 12 para. 29(2) (3) repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-162d004197821b3a8f348aaba516d7bd]: Textual amendment: Sch. 12 para. 29(2) (3) repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
 [^c20628161]: Commencement: [Sch. 12 para. 30](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/30) wholly in operation at 1.4.2007, see [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
@@ -680,7 +680,7 @@ Article 308
 
 [^c20628301]: Commencement: [Sch. 12 para. 36](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/36) wholly in operation at 1.4.2007, see [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-4a59979e838dbd6eb09d945a2e06f678]: Textual amendment: [Sch. 12 para. 37](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/37) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-4a59979e838dbd6eb09d945a2e06f678]: Textual amendment: [Sch. 12 para. 37](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/37) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
 [^c20628311]: Commencement: Sch. 12 para. 37 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Application of Part I of the Arbitration Act 1996[^key-aa9b998d97cbe0d1d33107f59fea96d1]
+## 4. Application of Part I of the Arbitration Act 1996[^c-aa9b998d97cbe0d1d33107f59fea96d1]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The provisions of Part I of the Arbitration Act 1996[^f00004] referred to in the
 
 ## Annotations
 
-[^key-aa9b998d97cbe0d1d33107f59fea96d1]: Commencement: Art. 4 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-aa9b998d97cbe0d1d33107f59fea96d1]: Commencement: Art. 4 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00004]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).

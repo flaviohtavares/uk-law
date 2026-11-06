@@ -105,7 +105,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) The Assembly may by order make provision enabling HPW to—
 
-- (a) enter into arrangements with the Health and Care Professions Council[^key-f53fb1f178d1f74fa14fc2a22a607087] for carrying out functions on behalf of that Council in relation to Wales;
+- (a) enter into arrangements with the Health and Care Professions Council[^c-f53fb1f178d1f74fa14fc2a22a607087] for carrying out functions on behalf of that Council in relation to Wales;
 - (b) enter into arrangements with the Nursing and Midwifery Council for carrying out functions on behalf of that Council in relation to Wales;
 - (c) enter into arrangements with any other body for carrying out functions on behalf of that body in relation to Wales;
 - (d) carry out any such arrangements.
@@ -483,7 +483,7 @@ Section 7
 
 [^c2107662]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/2003/4/section/3): transfer of functions (1.10.2009) by [The Wales Centre for Health (Transfer of Functions, Property, Rights and Liabilities and Abolition) (Wales) Order 2009 (S.I. 2009/2623)](https://www.legislation.gov.uk/uksi/2009/2623), [art. 3](https://www.legislation.gov.uk/uksi/2009/2623/article/3)
 
-[^key-f53fb1f178d1f74fa14fc2a22a607087]: Textual amendment: Words in [s. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2003/4/section/4/4/a) substituted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 56(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/56/c); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-f53fb1f178d1f74fa14fc2a22a607087]: Textual amendment: Words in [s. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2003/4/section/4/4/a) substituted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 56(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/56/c); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
 [^c2105749]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2003/4/section/7) partly in force; [s. 7](https://www.legislation.gov.uk/ukpga/2003/4/section/7) not in force at Royal Assent see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2); [s. 7](https://www.legislation.gov.uk/ukpga/2003/4/section/7) in force for W. for certain purposes at 20.10.2003 and s. 7(1) in force for all remaining purposes at 1.4.2005 by [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [arts. 2](https://www.legislation.gov.uk/uksi/2003/2660/article/2), [3(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/3/2); [s. 7](https://www.legislation.gov.uk/ukpga/2003/4/section/7) in force for E. for certain purposes at 1.12.2003 by [S.I. 2003/3064](https://www.legislation.gov.uk/uksi/2003/3064), [art. 2](https://www.legislation.gov.uk/uksi/2003/3064/article/2)
 

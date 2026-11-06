@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 54(5), 54(6), 55 and 126(3) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-2062ca124c36aafc2d15ee0d250b44a4]
+## 1. Title, commencement, application and interpretation[^c-2062ca124c36aafc2d15ee0d250b44a4]
 
 (1) The title of these Regulations is The Care and Support (Care Planning) (Wales) Regulations 2015.
 
@@ -56,7 +56,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 54(5), 54(6
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014.
 - “care and support plan” (“*cynllun gofal a chymorth*”) means a plan which a local authority is required to prepare and maintain under section 54(1) of the Act;
 - “eligible needs” (“*anghenion cymwys*”) in relation to a person means those needs which the local authority is required to meet under section 35, 37, 40 or 42 of the Act;
-- “family” (“[^key-9d55854d6d279869599b40f27c4a0115]*teulu*”), in relation to a person who is part of a family which is receiving support from an IFS team, has the meaning given in regulation 18(3) of the Partnership Regulations;
+- “family” (“[^c-9d55854d6d279869599b40f27c4a0115]*teulu*”), in relation to a person who is part of a family which is receiving support from an IFS team, has the meaning given in regulation 18(3) of the Partnership Regulations;
 - “IFS team” (“*tîm integredig cymorth i deuluoedd*”) means an integrated family support team established by a partnership body in accordance with the Partnership Regulations;
 - “parent” (“*rhiant*”), in relation to a child who is part of a family which is receiving support from an IFS team, has the meaning given in regulation 18(5) of the Partnership Regulations;
 - “partnership body” (“*corff partneriaeth*”) has the meaning given in regulation 1(4) of the Partnership Regulations;
@@ -64,14 +64,14 @@ The Welsh Ministers, in exercise of the powers conferred by sections 54(5), 54(6
 - “personal outcomes” (“*canlyniadau personol*”) means the outcomes which have been identified in relation to a person in accordance with an assessment under section 19, 21 or 24 of the Act;
 - “support plan” (“*cynllun cymorth*”) means a plan which a local authority is required to prepare and maintain under section 54(2) of the Act.
 
-## 2. Training and skills[^key-30eaa7496af0b0f5d2ef132ba1fdef36]
+## 2. Training and skills[^c-30eaa7496af0b0f5d2ef132ba1fdef36]
 
 A local authority must ensure that any person responsible for preparing, reviewing or revising a care and support plan or support plan—
 
 - (a) has the skills, knowledge and competence to do so, and
 - (b) has received appropriate training.
 
-## 3. Content of plans[^key-196ad94aa73df61990fe04f94a7ce84b]
+## 3. Content of plans[^c-196ad94aa73df61990fe04f94a7ce84b]
 
 (1) A care and support plan and a support plan must contain a description of—
 
@@ -88,17 +88,17 @@ A local authority must ensure that any person responsible for preparing, reviewi
 
 (3) Where enquiries have been made by the local authority in accordance with its duty under section 126(1) of the Act (adults at risk), the care and support plan for the individual who is the subject of those enquiries must contain a record of the conclusion of the enquiries.
 
-## 4. Review of plans[^key-f551a81913aa6bcfcdb2edcb3b0d359b]
+## 4. Review of plans[^c-f551a81913aa6bcfcdb2edcb3b0d359b]
 
 (1) The local authority must review a care and support plan or a support plan if it appears to the authority that the plan is not meeting the eligible needs of the person to whom the plan relates.
 
-(1A)[^key-feb05104e1a50e46b9b85cde5e405988] The local authority must review a care and support plan or a support plan if the person to whom the plan relates is part of a family whose case has been referred to an IFS team and the family has been notified that their case will be supported by that team.
+(1A)[^c-feb05104e1a50e46b9b85cde5e405988] The local authority must review a care and support plan or a support plan if the person to whom the plan relates is part of a family whose case has been referred to an IFS team and the family has been notified that their case will be supported by that team.
 
 (2) Where the plan contains details of direct payments in accordance with regulation 3(2), the plan must be reviewed at the same time as any review of the direct payments in accordance with regulations under section 53(1).
 
-(3)[^key-92725f696ceb89c670dfc0342ea32d47] The considerations to which the local authority must have regard when reviewing a person’s care and support plan or support plan where the person is part of a family which is being supported by an IFS team are set out in the Schedule.
+(3)[^c-92725f696ceb89c670dfc0342ea32d47] The considerations to which the local authority must have regard when reviewing a person’s care and support plan or support plan where the person is part of a family which is being supported by an IFS team are set out in the Schedule.
 
-## 5. Requests for review of plans[^key-f09b17ddba9a647b93353a0374334cd8]
+## 5. Requests for review of plans[^c-f09b17ddba9a647b93353a0374334cd8]
 
 (1) The following persons may request a review of a care and support plan or support plan (as the case may be)—
 
@@ -119,7 +119,7 @@ A local authority must ensure that any person responsible for preparing, reviewi
 - (a) the adult or the child has requested the person to act on their behalf, or
 - (b) the adult or child lacks capacity and the person is authorised under the Mental Capacity Act 2005[^f00003] (whether in general or in specific terms) to make decisions about how the person’s needs are to be met.
 
-## 6. Action following review[^key-44b2e74a3ccf709d7a02c425a3b730c1]
+## 6. Action following review[^c-44b2e74a3ccf709d7a02c425a3b730c1]
 
 (1) Following the review, the local authority must consider whether to confirm, revise or close the care and support plan or support plan (as the case may be).
 
@@ -142,7 +142,7 @@ A local authority must ensure that any person responsible for preparing, reviewi
 - (b) an evaluation of the extent to which the personal outcomes were achieved, and
 - (c) where the local authority is still satisfied that the person to whom the plan relates has needs for care and and support, confirmation that the authority is satisfied that the person’s needs can be met by the provision of information, advice or assistance, preventative services or anything else that may be available in the community.
 
-## 7. Copies of care and support plans etc[^key-ec4571b66fed22ddfed51ff884b3465b]
+## 7. Copies of care and support plans etc[^c-ec4571b66fed22ddfed51ff884b3465b]
 
 (1) The local authority must give a copy of the care and support plan to the persons described in paragraph (5).
 
@@ -164,7 +164,7 @@ A local authority must ensure that any person responsible for preparing, reviewi
   - (iii) any person authorised to act on behalf of the child, and
   - (iv) where the child lacks capacity or is not competent to request a person to act on their behalf and there is no person authorised to act on their behalf, any person who the local authority considers to be acting in the best interest of the child.
 
-## 8. Copies of support plans etc.[^key-25c07c77c551a9d6f97cecbb0b83e7a2]
+## 8. Copies of support plans etc.[^c-25c07c77c551a9d6f97cecbb0b83e7a2]
 
 (1) The local authority must give a copy of the support plan to the persons described in paragraph (5).
 
@@ -192,7 +192,7 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 21 May 2015
 
-## SCHEDULE — Considerations to which a local authority must have regard when reviewing a plan where an IFS team is involved[^key-fab78615243bff550ad865633c5038cc]
+## SCHEDULE — Considerations to which a local authority must have regard when reviewing a plan where an IFS team is involved[^c-fab78615243bff550ad865633c5038cc]
 
 Regulation 4
 
@@ -232,30 +232,30 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4)
 
-[^key-2062ca124c36aafc2d15ee0d250b44a4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-2062ca124c36aafc2d15ee0d250b44a4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
-[^key-9d55854d6d279869599b40f27c4a0115]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/3) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/2)
+[^c-9d55854d6d279869599b40f27c4a0115]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/3) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/2)
 
-[^key-30eaa7496af0b0f5d2ef132ba1fdef36]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1335/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-30eaa7496af0b0f5d2ef132ba1fdef36]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1335/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
-[^key-196ad94aa73df61990fe04f94a7ce84b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1335/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-196ad94aa73df61990fe04f94a7ce84b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1335/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
 [^f00002]: Footnote: Regulations under sections 50 to 53 of the Act may require or allow a local authority to make payments to a person towards the cost of meeting their needs. Such payments are referred to in the Act as “direct payments”.
 
-[^key-f551a81913aa6bcfcdb2edcb3b0d359b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1335/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-f551a81913aa6bcfcdb2edcb3b0d359b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1335/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
-[^key-feb05104e1a50e46b9b85cde5e405988]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/4/1A) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/3/a)
+[^c-feb05104e1a50e46b9b85cde5e405988]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/4/1A) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/3/a)
 
-[^key-92725f696ceb89c670dfc0342ea32d47]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/4/3) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/3/b)
+[^c-92725f696ceb89c670dfc0342ea32d47]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/4/3) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/3/b)
 
-[^key-f09b17ddba9a647b93353a0374334cd8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1335/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-f09b17ddba9a647b93353a0374334cd8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1335/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
 [^f00003]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9)
 
-[^key-44b2e74a3ccf709d7a02c425a3b730c1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1335/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-44b2e74a3ccf709d7a02c425a3b730c1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1335/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
-[^key-ec4571b66fed22ddfed51ff884b3465b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1335/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-ec4571b66fed22ddfed51ff884b3465b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1335/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
-[^key-25c07c77c551a9d6f97cecbb0b83e7a2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1335/regulation/8) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
+[^c-25c07c77c551a9d6f97cecbb0b83e7a2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1335/regulation/8) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1335/regulation/1/2)
 
-[^key-fab78615243bff550ad865633c5038cc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2015/1335/schedule) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/4), [Sch. 3](https://www.legislation.gov.uk/wsi/2017/713/schedule/3)
+[^c-fab78615243bff550ad865633c5038cc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2015/1335/schedule) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2017/713/regulation/3/4), [Sch. 3](https://www.legislation.gov.uk/wsi/2017/713/schedule/3)

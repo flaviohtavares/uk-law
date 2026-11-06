@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Registered person — general requirements[^key-2ec521fbd592f88c1dcfa7a81570f883]
+## 10. Registered person — general requirements[^c-2ec521fbd592f88c1dcfa7a81570f883]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ from time to time such training as is appropriate to ensure that he has the expe
 
 ## Annotations
 
-[^key-2ec521fbd592f88c1dcfa7a81570f883]: Commencement: Reg. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-2ec521fbd592f88c1dcfa7a81570f883]: Commencement: Reg. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

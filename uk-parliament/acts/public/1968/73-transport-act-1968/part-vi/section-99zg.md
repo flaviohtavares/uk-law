@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99ZG. Power to stop[^key-42976f02333dcb473716a47c13ef0eb3]
+## 99ZG. Power to stop[^c-42976f02333dcb473716a47c13ef0eb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42976f02333dcb473716a47c13ef0eb3]: Textual amendment: S. 99ZG inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/4/2)
+[^c-42976f02333dcb473716a47c13ef0eb3]: Textual amendment: S. 99ZG inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/4/2)

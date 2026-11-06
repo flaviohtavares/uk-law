@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Short title[^key-bb6bfe362a0a2494b83a6fab7c067e93]
+## 102. Short title[^c-bb6bfe362a0a2494b83a6fab7c067e93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the National Security Act 2023.
 
 ## Annotations
 
-[^key-bb6bfe362a0a2494b83a6fab7c067e93]: Commencement: S. 102 in force at Royal Assent, see 100(2)
+[^c-bb6bfe362a0a2494b83a6fab7c067e93]: Commencement: S. 102 in force at Royal Assent, see 100(2)

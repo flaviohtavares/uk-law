@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Reports and applications[^key-749413057469700a1cec88a5a9c8856d]
+## 47. Reports and applications[^c-749413057469700a1cec88a5a9c8856d]
 
 *Extent: E+W+S+N.I.*
 
 (1) The FCA may direct the manner in which a person must—
 
-- (a)[^key-579c9f3836dae86cb66cef00bb8614c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) report to the FCA [^key-eb7fd51f2da1200e87e8e0b8cabab121]... the basis on which a person considers an activity [^key-924a55a15f6f1cfa4306b6615e3d7247]... to be ancillary to that person's main business;
+- (a)[^c-579c9f3836dae86cb66cef00bb8614c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) report to the FCA [^c-eb7fd51f2da1200e87e8e0b8cabab121]... the basis on which a person considers an activity [^c-924a55a15f6f1cfa4306b6615e3d7247]... to be ancillary to that person's main business;
 - (c) make an application for—
   - (i) a waiver under Article 4 (waivers for equity instruments) of the markets in financial instruments regulation;
   - (ii) an authorisation under Article 7 (authorisation of deferred publication) of the markets in financial instruments regulation;
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-749413057469700a1cec88a5a9c8856d]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2017/701/regulation/47) heading substituted (1.1.2025) by [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/a)
+[^c-749413057469700a1cec88a5a9c8856d]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2017/701/regulation/47) heading substituted (1.1.2025) by [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/a)
 
-[^key-579c9f3836dae86cb66cef00bb8614c1]: Textual amendment: [Reg. 47(1)(a)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47/1/a) omitted (1.1.2025) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/b)
+[^c-579c9f3836dae86cb66cef00bb8614c1]: Textual amendment: [Reg. 47(1)(a)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47/1/a) omitted (1.1.2025) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/b)
 
-[^key-eb7fd51f2da1200e87e8e0b8cabab121]: Textual amendment: Words in [reg. 47(1)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47/1/b) omitted (1.1.2025) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/c/i)
+[^c-eb7fd51f2da1200e87e8e0b8cabab121]: Textual amendment: Words in [reg. 47(1)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47/1/b) omitted (1.1.2025) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/c/i)
 
-[^key-924a55a15f6f1cfa4306b6615e3d7247]: Textual amendment: Words in [reg. 47(1)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47/1/b) omitted (1.1.2025) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/c/ii)
+[^c-924a55a15f6f1cfa4306b6615e3d7247]: Textual amendment: Words in [reg. 47(1)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47/1/b) omitted (1.1.2025) by virtue of [The Financial Services and Markets Act 2000 (Commodity Derivatives and Emission Allowances) Order 2023 (S.I. 2023/548)](https://www.legislation.gov.uk/uksi/2023/548), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/548/article/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/548/article/3/3/c/ii)

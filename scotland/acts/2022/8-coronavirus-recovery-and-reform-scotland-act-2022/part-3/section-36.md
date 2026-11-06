@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Freedom of information: giving notice electronically[^key-31000cdaa24fab62ecf21ce30e2f42d7]
+## 36. Freedom of information: giving notice electronically[^c-31000cdaa24fab62ecf21ce30e2f42d7]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31000cdaa24fab62ecf21ce30e2f42d7]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2022/8/section/36) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-31000cdaa24fab62ecf21ce30e2f42d7]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2022/8/section/36) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

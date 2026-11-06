@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Office and Shop Premises Act to continue to apply to colliery storage premises until appointed day.[^key-aa230f57bd5b174fb9ff18be1dca0837]
+## 160. Office and Shop Premises Act to continue to apply to colliery storage premises until appointed day.[^c-aa230f57bd5b174fb9ff18be1dca0837]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa230f57bd5b174fb9ff18be1dca0837]: Textual amendment: [S. 160](https://www.legislation.gov.uk/apni/1969/6/section/160) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-aa230f57bd5b174fb9ff18be1dca0837]: Textual amendment: [S. 160](https://www.legislation.gov.uk/apni/1969/6/section/160) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

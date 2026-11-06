@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Provisional amount of deferred pension[^key-44af726f1757f6a096693beae0fbf90f]
+## 45. Provisional amount of deferred pension[^c-44af726f1757f6a096693beae0fbf90f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44af726f1757f6a096693beae0fbf90f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2014/2848/regulation/45) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-44af726f1757f6a096693beae0fbf90f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2014/2848/regulation/45) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

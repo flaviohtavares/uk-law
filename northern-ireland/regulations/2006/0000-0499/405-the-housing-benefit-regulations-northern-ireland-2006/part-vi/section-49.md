@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Calculation of tariff income from capital[^key-95cfd963ebfa68a4983b9ea0c535747c]
+## 49. Calculation of tariff income from capital[^c-95cfd963ebfa68a4983b9ea0c535747c]
 
 *Extent: N.I.*
 
@@ -56,6 +56,6 @@ and in this definition “**board**” refers to the availability to the claiman
 
 ## Annotations
 
-[^key-95cfd963ebfa68a4983b9ea0c535747c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/405/regulation/49) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-95cfd963ebfa68a4983b9ea0c535747c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/405/regulation/49) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00110]: Footnote: [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458)

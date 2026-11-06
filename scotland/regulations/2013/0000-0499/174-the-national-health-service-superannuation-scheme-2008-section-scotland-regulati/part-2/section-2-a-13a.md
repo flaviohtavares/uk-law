@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.A.13A. Restriction of reckonable pay where the Scottish Ministers consider the amount is inordinate[^key-7c8a0a81514b05cd996d7dda485954f3]
+## 2.A.13A. Restriction of reckonable pay where the Scottish Ministers consider the amount is inordinate[^c-7c8a0a81514b05cd996d7dda485954f3]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c8a0a81514b05cd996d7dda485954f3]: Textual amendment: [Reg. 2.A.13A](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.13A) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2014/154/regulation/17)
+[^c-7c8a0a81514b05cd996d7dda485954f3]: Textual amendment: [Reg. 2.A.13A](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.13A) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2014/154/regulation/17)

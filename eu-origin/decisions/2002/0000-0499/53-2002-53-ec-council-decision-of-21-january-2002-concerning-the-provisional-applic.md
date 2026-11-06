@@ -31,10 +31,10 @@ summary: ''
 
 of 21 January 2002 concerning the provisional application of the Agreement between the European Community and the Republic of South Africa on trade in wine (revoked)
 
-[^key-00439e5782af37e0dc8bac3d74f1e47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00439e5782af37e0dc8bac3d74f1e47d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-00439e5782af37e0dc8bac3d74f1e47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-00439e5782af37e0dc8bac3d74f1e47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00439e5782af37e0dc8bac3d74f1e47d]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00439e5782af37e0dc8bac3d74f1e47d]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

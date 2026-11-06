@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Consumer redress schemes[^key-ca2606801974cd232c7c91d6fb9c6c23]
+## 14. Consumer redress schemes[^c-ca2606801974cd232c7c91d6fb9c6c23]
 
 *Extent: E+W+S+N.I.*
 
@@ -285,4 +285,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca2606801974cd232c7c91d6fb9c6c23]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2010/28/section/14) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/c)
+[^c-ca2606801974cd232c7c91d6fb9c6c23]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2010/28/section/14) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/c)

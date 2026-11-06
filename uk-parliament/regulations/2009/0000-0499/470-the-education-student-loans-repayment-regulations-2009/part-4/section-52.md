@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Deductions working sheet[^key-eb35bc832043dae0480d7a62b937b171]
+## 52. Deductions working sheet[^c-eb35bc832043dae0480d7a62b937b171]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb35bc832043dae0480d7a62b937b171]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2009/470/regulation/52) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-eb35bc832043dae0480d7a62b937b171]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2009/470/regulation/52) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

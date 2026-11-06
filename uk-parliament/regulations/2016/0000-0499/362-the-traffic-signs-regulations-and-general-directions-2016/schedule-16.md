@@ -24,7 +24,7 @@ Regulation 3, Schedule 1
 
 ### PART 1 — Preliminary
 
-**1.**[^key-7fc434d040b77584a0d4136f1c55883c] (1) A variable message sign must be of a size appropriate to display a sign or legend having regard to the normal speed of traffic on the road on or near which the sign is placed.
+**1.**[^c-7fc434d040b77584a0d4136f1c55883c] (1) A variable message sign must be of a size appropriate to display a sign or legend having regard to the normal speed of traffic on the road on or near which the sign is placed.
 
 (2) Subject to sub-paragraph (4), when a variable message sign displays—
 
@@ -57,7 +57,7 @@ on a dark background.
 
 (9) In this paragraph, “discontinuous variable message sign” means a variable message sign which uses discontinuous individual elements, and is capable of being in one or more states, to create variable messages on the face of the sign.
 
-**2.**[^key-119df1b0e8d850e5bbbb4b7ddb58d72c] (1) In a legend provided for in this Schedule the number of a junction must be shown in the form of the letter “J” followed by the number.
+**2.**[^c-119df1b0e8d850e5bbbb4b7ddb58d72c] (1) In a legend provided for in this Schedule the number of a junction must be shown in the form of the letter “J” followed by the number.
 
 (2) Where this Schedule provides for a route number to be displayed on a sign, a compass point (“NORTH”, “SOUTH”, “EAST” or “WEST”) or an abbreviated compass point (“N”, “S”, “E”, “W”, “NW”, “NE”, “SW” or “SE”) may be added to the route number.
 
@@ -67,7 +67,7 @@ on a dark background.
 
 ### PART 2 — Signs automatically activated by vehicular traffic
 
-**3.**[^key-0210ddb3b5ced6b24cc9908cfb049bbe] One of the following legends may be displayed on a variable message sign which is activated by a particular type of vehicle approaching the equipment which controls the sign—
+**3.**[^c-0210ddb3b5ced6b24cc9908cfb049bbe] One of the following legends may be displayed on a variable message sign which is activated by a particular type of vehicle approaching the equipment which controls the sign—
 
 - (a) “OVERHEIGHT VEHICLE DIVERT” with—
   - (i) an arrow;
@@ -79,7 +79,7 @@ on a dark background.
 
 ### PART 3 — Legends giving warnings of adverse weather or other temporary hazards or incidents
 
-**4.**[^key-ec201090312bfac1fb9ea343d2a8a0cd] (1) A legend provided for in sub-paragraph (2) may be displayed on a variable message sign in conjunction with—
+**4.**[^c-ec201090312bfac1fb9ea343d2a8a0cd] (1) A legend provided for in sub-paragraph (2) may be displayed on a variable message sign in conjunction with—
 
 - (a) a legend provided for in Part 4;
 - (b) a legend provided for in Part 5; or
@@ -137,7 +137,7 @@ on a dark background.
 
 ### PART 4 — Legends indicating location of temporary hazard or incident
 
-**5.**[^key-0dec6fba74783546dd2f9f38cb3d1a88] One of the following legends may be used on a variable message sign in conjunction (either on its own or in combination with a legend provided for in Part 5) with a legend provided for in Part 3—
+**5.**[^c-0dec6fba74783546dd2f9f38cb3d1a88] One of the following legends may be used on a variable message sign in conjunction (either on its own or in combination with a legend provided for in Part 5) with a legend provided for in Part 3—
 
 - (a) a route number;
 - (b) “ON \[name of bridge\] BRIDGE” or “ON BRIDGE”;
@@ -163,7 +163,7 @@ on a dark background.
 
 ### PART 5 — Additional information
 
-**6.**[^key-a492e0e442dd80d737cd768e8f8193c9] (1) A legend provided for in sub-paragraph (2) may be used on a variable message sign in conjunction with a legend provided for in Part 3 or a combination of a legend provided for in Part 3 and a legend provided for in Part 4.
+**6.**[^c-a492e0e442dd80d737cd768e8f8193c9] (1) A legend provided for in sub-paragraph (2) may be used on a variable message sign in conjunction with a legend provided for in Part 3 or a combination of a legend provided for in Part 3 and a legend provided for in Part 4.
 
 (2) The legends are—
 
@@ -193,7 +193,7 @@ on a dark background.
 
 ### PART 6 — Other legends
 
-**7.**[^key-0e8e5aef4baec9b7aa26a977d662eda6] (1) The following legends may be displayed on a variable message sign—
+**7.**[^c-0e8e5aef4baec9b7aa26a977d662eda6] (1) The following legends may be displayed on a variable message sign—
 
 - (a) “SIGNAL\[S\] UNDER TEST”;
 - (b) “SIGNAL TESTS FOR” and a number of “MILES”;
@@ -206,7 +206,7 @@ on a dark background.
 
 (3) In the legends provided for in paragraphs (a) and (d) of sub-paragraph (1), the letter shown in square brackets may be omitted.
 
-### PART 7 — Performance classes[^key-bc0145ec0ce4a456663c3870761feba4]
+### PART 7 — Performance classes[^c-bc0145ec0ce4a456663c3870761feba4]
 
 Table 1
 
@@ -252,20 +252,20 @@ Table 4
 
 ## Annotations
 
-[^key-7fc434d040b77584a0d4136f1c55883c]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7fc434d040b77584a0d4136f1c55883c]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00122]: Footnote: Publication date: 31st December 2014 (ISBN 9780580813955)
 
-[^key-119df1b0e8d850e5bbbb4b7ddb58d72c]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-119df1b0e8d850e5bbbb4b7ddb58d72c]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0210ddb3b5ced6b24cc9908cfb049bbe]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0210ddb3b5ced6b24cc9908cfb049bbe]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ec201090312bfac1fb9ea343d2a8a0cd]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ec201090312bfac1fb9ea343d2a8a0cd]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0dec6fba74783546dd2f9f38cb3d1a88]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0dec6fba74783546dd2f9f38cb3d1a88]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a492e0e442dd80d737cd768e8f8193c9]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a492e0e442dd80d737cd768e8f8193c9]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0e8e5aef4baec9b7aa26a977d662eda6]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0e8e5aef4baec9b7aa26a977d662eda6]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-bc0145ec0ce4a456663c3870761feba4]: Commencement: [Sch. 16 Pt. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/part/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bc0145ec0ce4a456663c3870761feba4]: Commencement: [Sch. 16 Pt. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/16/part/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

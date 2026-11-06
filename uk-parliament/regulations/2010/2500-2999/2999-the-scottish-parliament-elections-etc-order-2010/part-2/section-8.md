@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Absent vote at Scottish parliamentary elections for an indefinite or a particular period[^key-4d48a46db39958a92f40c8089c881ca3]
+## 8. Absent vote at Scottish parliamentary elections for an indefinite or a particular period[^c-4d48a46db39958a92f40c8089c881ca3]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d48a46db39958a92f40c8089c881ca3]: Commencement: Art. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4d48a46db39958a92f40c8089c881ca3]: Commencement: Art. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

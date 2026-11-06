@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Applications for transfer[^key-dedb7a2f6fec87dc5e9084ccd06d8fa3]
+## 108. Applications for transfer[^c-dedb7a2f6fec87dc5e9084ccd06d8fa3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dedb7a2f6fec87dc5e9084ccd06d8fa3]: Commencement: [Rule 108](https://www.legislation.gov.uk/uksi/2013/3208/rule/108) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-dedb7a2f6fec87dc5e9084ccd06d8fa3]: Commencement: [Rule 108](https://www.legislation.gov.uk/uksi/2013/3208/rule/108) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

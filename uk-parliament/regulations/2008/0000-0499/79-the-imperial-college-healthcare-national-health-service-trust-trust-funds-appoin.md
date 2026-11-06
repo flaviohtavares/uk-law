@@ -41,7 +41,7 @@ Coming into force
 
 The Secretary of State for Health makes the following Order in exercise of the powers conferred by paragraph 10(1) and (2) of Schedule 4 to the National Health Service Act 2006[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-cf50e60e81ea4a98695e0c9c61c010f3]
+## 1. Citation, commencement and interpretation[^c-cf50e60e81ea4a98695e0c9c61c010f3]
 
 (1) This Order may be cited as the Imperial College Healthcare National Health Service Trust (Trust Funds: Appointment of Trustees) Order 2008 and shall come into force on 1st February 2008.
 
@@ -50,13 +50,13 @@ The Secretary of State for Health makes the following Order in exercise of the p
 - “the Act” means the National Health Service Act 2006; and
 - “the Trust” means the Imperial College Healthcare National Health Service Trust[^f00002].
 
-## 2. Appointment of trustees[^key-8173ede2a0bd89f76c93a9737ba1c485]
+## 2. Appointment of trustees[^c-8173ede2a0bd89f76c93a9737ba1c485]
 
 (1) The Secretary of State shall appoint trustees for the Trust for the purpose of exercising the functions described in paragraph 10(1) of Schedule 4 to the Act (trust funds and trustees).
 
 (2) The appointment of any such trustee shall be for such a period, not exceeding 4 years, as the Secretary of State may specify on making the appointment.
 
-## 3. Termination and suspension of appointment[^key-e7eaa7a23cf49b81cf37076f40817928]
+## 3. Termination and suspension of appointment[^c-e7eaa7a23cf49b81cf37076f40817928]
 
 Where the Secretary of State is of the opinion that it is not in the interests of the Trust, the health service or the administration of any trust funds that a trustee for the Trust should continue to hold that office, the Secretary of State may forthwith terminate the appointment and, pending the Secretary of State’s decision, may suspend any such trustee from such office.
 
@@ -80,10 +80,10 @@ This Order provides for the Secretary of State for Health to appoint trustees fo
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-cf50e60e81ea4a98695e0c9c61c010f3]: Commencement: Art. 1 in force at 1.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/79/article/1/1)
+[^c-cf50e60e81ea4a98695e0c9c61c010f3]: Commencement: Art. 1 in force at 1.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/79/article/1/1)
 
 [^f00002]: Footnote: Established by [S.I. 2007/2755](https://www.legislation.gov.uk/uksi/2007/2755).
 
-[^key-8173ede2a0bd89f76c93a9737ba1c485]: Commencement: Art. 2 in force at 1.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/79/article/1/1)
+[^c-8173ede2a0bd89f76c93a9737ba1c485]: Commencement: Art. 2 in force at 1.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/79/article/1/1)
 
-[^key-e7eaa7a23cf49b81cf37076f40817928]: Commencement: Art. 3 in force at 1.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/79/article/1/1)
+[^c-e7eaa7a23cf49b81cf37076f40817928]: Commencement: Art. 3 in force at 1.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/79/article/1/1)

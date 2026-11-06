@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Duty to report suspected child sex offences[^key-f408b7783408e682e7f4c157363e2525]
+## 85. Duty to report suspected child sex offences[^c-f408b7783408e682e7f4c157363e2525]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ The regulations may in particular provide that a notification to a police force 
 
 ## Annotations
 
-[^key-f408b7783408e682e7f4c157363e2525]: Commencement: S. 85 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f408b7783408e682e7f4c157363e2525]: Commencement: S. 85 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

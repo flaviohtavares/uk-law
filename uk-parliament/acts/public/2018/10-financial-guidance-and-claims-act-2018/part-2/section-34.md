@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Extension of power of the Law Society of Scotland to make rules[^key-02e2cd6c063498e5f5de40a7ca0b129e]
+## 34. Extension of power of the Law Society of Scotland to make rules[^c-02e2cd6c063498e5f5de40a7ca0b129e]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02e2cd6c063498e5f5de40a7ca0b129e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2018/10/section/34) in force at 29.3.2019 by [S.I. 2019/743](https://www.legislation.gov.uk/uksi/2019/743), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2019/743/regulation/2/c)
+[^c-02e2cd6c063498e5f5de40a7ca0b129e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2018/10/section/34) in force at 29.3.2019 by [S.I. 2019/743](https://www.legislation.gov.uk/uksi/2019/743), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2019/743/regulation/2/c)

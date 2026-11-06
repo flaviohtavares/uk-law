@@ -32,7 +32,7 @@ summary: ''
 
 Inheritance Tax
 
-The Inheritance Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2011 (revoked)[^key-7269d85a6f4eb64588b9fb7aeb190628]
+The Inheritance Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2011 (revoked)[^c-7269d85a6f4eb64588b9fb7aeb190628]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th April 2011
 
-[^key-7269d85a6f4eb64588b9fb7aeb190628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7269d85a6f4eb64588b9fb7aeb190628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7269d85a6f4eb64588b9fb7aeb190628]
+## 1. Citation and commencement[^c-7269d85a6f4eb64588b9fb7aeb190628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed description of arrangements in relation to inheritance tax[^key-7269d85a6f4eb64588b9fb7aeb190628]
+## 2. Prescribed description of arrangements in relation to inheritance tax[^c-7269d85a6f4eb64588b9fb7aeb190628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-7269d85a6f4eb64588b9fb7aeb190628]
+## 3.[^c-7269d85a6f4eb64588b9fb7aeb190628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7269d85a6f4eb64588b9fb7aeb190628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7269d85a6f4eb64588b9fb7aeb190628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7269d85a6f4eb64588b9fb7aeb190628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7269d85a6f4eb64588b9fb7aeb190628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7269d85a6f4eb64588b9fb7aeb190628]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/170) revoked (1.4.2018) by [The Inheritance Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2017 (S.I. 2017/1172)](https://www.legislation.gov.uk/uksi/2017/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1172/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/1172/regulation/6/1) (with [reg. 1](https://www.legislation.gov.uk/uksi/2017/1172/regulation/1))
+[^c-7269d85a6f4eb64588b9fb7aeb190628]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/170) revoked (1.4.2018) by [The Inheritance Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2017 (S.I. 2017/1172)](https://www.legislation.gov.uk/uksi/2017/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1172/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/1172/regulation/6/1) (with [reg. 1](https://www.legislation.gov.uk/uksi/2017/1172/regulation/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Control of disposals and contracts of existing councils and their finances[^key-019c6fdb2230fb74d48fb6800200b185]
+## 116. Control of disposals and contracts of existing councils and their finances[^c-019c6fdb2230fb74d48fb6800200b185]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-019c6fdb2230fb74d48fb6800200b185]: Commencement: [S. 116](https://www.legislation.gov.uk/nia/2014/8/section/116) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-019c6fdb2230fb74d48fb6800200b185]: Commencement: [S. 116](https://www.legislation.gov.uk/nia/2014/8/section/116) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. The sum specified in a section 47 contribution notice[^key-bacda2b2a6a13bd7a75cfcd3b4070382][^key-7be46ffb9a215a307d7ecb0096bd7eff][^key-efa22510869d944425cfc4026fc01d05][^key-7be46ffb9a215a307d7ecb0096bd7eff]
+## 48. The sum specified in a section 47 contribution notice[^c-bacda2b2a6a13bd7a75cfcd3b4070382][^c-7be46ffb9a215a307d7ecb0096bd7eff][^c-efa22510869d944425cfc4026fc01d05][^c-7be46ffb9a215a307d7ecb0096bd7eff]
 
 *Extent: E+W+S*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bacda2b2a6a13bd7a75cfcd3b4070382]: Commencement: S. 48 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-bacda2b2a6a13bd7a75cfcd3b4070382]: Commencement: S. 48 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-7be46ffb9a215a307d7ecb0096bd7eff]: Modification: Pt. 1 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-7be46ffb9a215a307d7ecb0096bd7eff]: Modification: Pt. 1 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-efa22510869d944425cfc4026fc01d05]: Modification: Ss. 38-56 modified (1.9.2005) by [The Pensions Regulator (Financial Support Directions etc.) Regulations 2005 (S.I. 2005/2188)](https://www.legislation.gov.uk/uksi/2005/2188), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2188/regulation/1), [15](https://www.legislation.gov.uk/uksi/2005/2188/regulation/15), [16](https://www.legislation.gov.uk/uksi/2005/2188/regulation/16)
+[^c-efa22510869d944425cfc4026fc01d05]: Modification: Ss. 38-56 modified (1.9.2005) by [The Pensions Regulator (Financial Support Directions etc.) Regulations 2005 (S.I. 2005/2188)](https://www.legislation.gov.uk/uksi/2005/2188), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2188/regulation/1), [15](https://www.legislation.gov.uk/uksi/2005/2188/regulation/15), [16](https://www.legislation.gov.uk/uksi/2005/2188/regulation/16)

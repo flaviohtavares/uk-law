@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. General conditions of movement[^key-bd6e296007c705f15ec3cce95d02d481]
+## 46. General conditions of movement[^c-bd6e296007c705f15ec3cce95d02d481]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An animal being moved in accordance with these Regulations or a licence granted 
 
 ## Annotations
 
-[^key-bd6e296007c705f15ec3cce95d02d481]: Commencement: Reg. 46 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-bd6e296007c705f15ec3cce95d02d481]: Commencement: Reg. 46 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

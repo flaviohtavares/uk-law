@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Agreements about activities[^key-6557e8d5561428faac11ca9c89a2491b]
+## 31. Agreements about activities[^c-6557e8d5561428faac11ca9c89a2491b]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6557e8d5561428faac11ca9c89a2491b]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/5/section/31) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/342/article/2/b)
+[^c-6557e8d5561428faac11ca9c89a2491b]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/5/section/31) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/342/article/2/b)

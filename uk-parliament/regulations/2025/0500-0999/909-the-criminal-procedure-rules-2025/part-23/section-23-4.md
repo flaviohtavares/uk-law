@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.4. Application to prohibit cross-examination[^key-a430ee61ada6bd7d0cda7787a89bde80]
+## 23.4. Application to prohibit cross-examination[^c-a430ee61ada6bd7d0cda7787a89bde80]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a430ee61ada6bd7d0cda7787a89bde80]: Commencement: [Rule 23.4](https://www.legislation.gov.uk/uksi/2025/909/rule/23.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a430ee61ada6bd7d0cda7787a89bde80]: Commencement: [Rule 23.4](https://www.legislation.gov.uk/uksi/2025/909/rule/23.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

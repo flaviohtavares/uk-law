@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Licences that may be granted[^key-963ebdc8ad8a514a0786c24d6eb37757]
+## 18. Licences that may be granted[^c-963ebdc8ad8a514a0786c24d6eb37757]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A licensing authority may only grant the following kinds of licence under this P
 
 ## Annotations
 
-[^key-963ebdc8ad8a514a0786c24d6eb37757]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2014/7/section/18) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/h)
+[^c-963ebdc8ad8a514a0786c24d6eb37757]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2014/7/section/18) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/h)

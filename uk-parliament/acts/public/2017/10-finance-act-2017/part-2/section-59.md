@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Interpretation of Part 2[^key-fd9341f6aa4c3ce37db381f2ffd85787][^key-2256e79beb62cec6f39c460994f25c64]
+## 59. Interpretation of Part 2[^c-fd9341f6aa4c3ce37db381f2ffd85787][^c-2256e79beb62cec6f39c460994f25c64]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd9341f6aa4c3ce37db381f2ffd85787]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/10/section/59) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
+[^c-fd9341f6aa4c3ce37db381f2ffd85787]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/10/section/59) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
 
-[^key-2256e79beb62cec6f39c460994f25c64]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/10/section/59) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-2256e79beb62cec6f39c460994f25c64]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/10/section/59) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

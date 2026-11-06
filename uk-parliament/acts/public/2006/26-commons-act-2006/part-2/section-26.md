@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Establishment[^key-65db5bdb1d561fa0780158d019625d46]
+## 26. Establishment[^c-65db5bdb1d561fa0780158d019625d46]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65db5bdb1d561fa0780158d019625d46]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2006/26/section/26) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-65db5bdb1d561fa0780158d019625d46]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2006/26/section/26) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

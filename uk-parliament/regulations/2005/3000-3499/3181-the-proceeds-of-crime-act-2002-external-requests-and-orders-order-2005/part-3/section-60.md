@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Appeals[^key-94becf50b6ad982e081c7eac05166369]
+## 60. Appeals[^c-94becf50b6ad982e081c7eac05166369]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94becf50b6ad982e081c7eac05166369]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2005/3181/article/60) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-94becf50b6ad982e081c7eac05166369]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2005/3181/article/60) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

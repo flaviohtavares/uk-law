@@ -52,7 +52,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 ## General
 
-### 1. Citation, commencement and interpretation[^key-1bf04897f3266271a18026391a3b1e17]
+### 1. Citation, commencement and interpretation[^c-1bf04897f3266271a18026391a3b1e17]
 
 (1) This Order may be cited as the Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010, and comes into force on 1st July 2010.
 
@@ -63,11 +63,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 ## Offshore environmental assessment
 
-### 2. Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-3a04ae0039c27003f72029d857af4c8f]
+### 2. Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^c-3a04ae0039c27003f72029d857af4c8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-52d1c98c8e70c9774172208905ed071a]
+### 3. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^c-52d1c98c8e70c9774172208905ed071a]
 
 (1) The Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^f00005] have effect with the modifications in paragraphs (2) to (5), and are amended in accordance with paragraphs (6) and (7).
 
@@ -79,11 +79,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 (3) For the purposes of the Regulations as modified by paragraph (2)—
 
 - (a) a reference in regulation 4(2) to any provision in any Petroleum Act licence is to be read as a reference to any provision in any Energy Act licence; and
-- (b) “relevant function” and “relevant power” include, without limitation, functions or (as the case may be) powers exercisable by the Secretary of State or the Oil and Gas Authority[^key-8d7acd64168c1fd9f3cb1f7d027f7fbc] under the Petroleum Act 1998, Part 1 of the Energy Act 2008, or any Energy Act licence.
+- (b) “relevant function” and “relevant power” include, without limitation, functions or (as the case may be) powers exercisable by the Secretary of State or the Oil and Gas Authority[^c-8d7acd64168c1fd9f3cb1f7d027f7fbc] under the Petroleum Act 1998, Part 1 of the Energy Act 2008, or any Energy Act licence.
 
 (4) Notwithstanding those modifications, regulation 4(1) does not apply to an activity or procedure which must not be carried out in the relevant area without the prior written consent of the Scottish Ministers (or a body to whom functions have been transferred by the Scottish Ministers under section 34).
 
-(5)[^key-080f7729479cda30b7292e1ab75a831c] Regulations 5, 7, and 20A apply to an Energy Act licence that has been or is to be granted by the Oil and Gas Authority as they apply to a Petroleum Act licence, and for the purposes of those regulations and for regulation 8A, “consent” also includes a consent granted by the Secretary of State or the Oil and Gas Authority pursuant to an Energy Act licence, including any consent required pursuant to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020[^key-5b032a152d673f853c04e5532d33f338].
+(5)[^c-080f7729479cda30b7292e1ab75a831c] Regulations 5, 7, and 20A apply to an Energy Act licence that has been or is to be granted by the Oil and Gas Authority as they apply to a Petroleum Act licence, and for the purposes of those regulations and for regulation 8A, “consent” also includes a consent granted by the Secretary of State or the Oil and Gas Authority pursuant to an Energy Act licence, including any consent required pursuant to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020[^c-5b032a152d673f853c04e5532d33f338].
 
 (6) In regulation 2(1)—
 
@@ -103,7 +103,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
   .
 
-### 4. Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^key-7037a0de21ba164443cb41f3d984beee]
+### 4. Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^c-7037a0de21ba164443cb41f3d984beee]
 
 (1) In regulation 2(2) of the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^f00008]—
 
@@ -134,11 +134,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 ## Other environmental legislation
 
-### 5. Offshore Combustion Installations (Prevention and Control of Pollution) Regulations 2001[^key-3b838bebe620ff26ba57735b48a4bf17]
+### 5. Offshore Combustion Installations (Prevention and Control of Pollution) Regulations 2001[^c-3b838bebe620ff26ba57735b48a4bf17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offshore Chemicals Regulations 2002[^key-4f8b912a4d593731b51fde52b5c55033]
+### 6. Offshore Chemicals Regulations 2002[^c-4f8b912a4d593731b51fde52b5c55033]
 
 (1) In regulation 2 of the Offshore Chemicals Regulations 2002[^f00010]—
 
@@ -179,7 +179,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 .
 
-### 7. Offshore Installations (Emergency Pollution Control) Regulations 2002[^key-3f7421eee04e80167072ca4836ddf0a0]
+### 7. Offshore Installations (Emergency Pollution Control) Regulations 2002[^c-3f7421eee04e80167072ca4836ddf0a0]
 
 In the Offshore Installations (Emergency Pollution Control) Regulations 2002[^f00012], after regulation 2, insert—
 
@@ -191,19 +191,19 @@ In the Offshore Installations (Emergency Pollution Control) Regulations 2002[^f0
 
 .
 
-### 8. Greenhouse Gas Emissions Trading Scheme Regulations 2005[^key-4880c19d98c3cfa89d084c3d190b9b2f]
+### 8. Greenhouse Gas Emissions Trading Scheme Regulations 2005[^c-4880c19d98c3cfa89d084c3d190b9b2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-90d980143eb1527a680ce0eeaa958145]
+### 9. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^c-90d980143eb1527a680ce0eeaa958145]
 
 (1) The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^f00016] have effect as follows.
 
-(2) The Regulations apply to an installation or pipeline established or maintained[^key-a0d021858ffeb81bede293df8e39bf9c] for the purpose of an activity within section 2(3) or section 17(2) as they apply to an offshore installation as defined in regulation 2.
+(2) The Regulations apply to an installation or pipeline established or maintained[^c-a0d021858ffeb81bede293df8e39bf9c] for the purpose of an activity within section 2(3) or section 17(2) as they apply to an offshore installation as defined in regulation 2.
 
-(3) However, in relation to any installation or pipeline established or maintained[^key-4387179870ca0d8ace8cd535331309c7] for the purpose of an activity within section 2(3) or section 17(2), any reference in those Regulations to the relevant area does not include areas (or places above and below them) comprised in the territorial sea adjacent to Scotland or Wales.[^key-ef562041dce72978e01a48d4b274f326]
+(3) However, in relation to any installation or pipeline established or maintained[^c-4387179870ca0d8ace8cd535331309c7] for the purpose of an activity within section 2(3) or section 17(2), any reference in those Regulations to the relevant area does not include areas (or places above and below them) comprised in the territorial sea adjacent to Scotland or Wales.[^c-ef562041dce72978e01a48d4b274f326]
 
-### 9A. Review[^key-012778eb60321714acf00d3e6a0689b7]
+### 9A. Review[^c-012778eb60321714acf00d3e6a0689b7]
 
 (1) The Secretary of State must from time to time—
 
@@ -227,7 +227,7 @@ In the Offshore Installations (Emergency Pollution Control) Regulations 2002[^f0
 
 (5) Subsequent reports under this article must be published at intervals not exceeding five years.
 
-### 10. REACH Enforcement Regulations 2008[^key-4a61dba51e6eeb3904ed1b468c8e516c]
+### 10. REACH Enforcement Regulations 2008[^c-4a61dba51e6eeb3904ed1b468c8e516c]
 
 In regulation 2(2) of the REACH Enforcement Regulations 2008[^f00017]—
 
@@ -256,7 +256,7 @@ In regulation 2(2) of the REACH Enforcement Regulations 2008[^f00017]—
 
   .
 
-### 11. Fluorinated Greenhouse Gases Regulations 2009[^key-0c62475412eeba1f789b83d9649ff07d]
+### 11. Fluorinated Greenhouse Gases Regulations 2009[^c-0c62475412eeba1f789b83d9649ff07d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -316,61 +316,61 @@ Copies of the Explanatory Memorandum are also available from Ricki Kiff, Energy 
 
 [^f00003]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-1bf04897f3266271a18026391a3b1e17]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1513/article/1) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-1bf04897f3266271a18026391a3b1e17]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1513/article/1) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
-[^key-3a04ae0039c27003f72029d857af4c8f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1513/article/2) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [22](https://www.legislation.gov.uk/uksi/2017/582/regulation/22)
+[^c-3a04ae0039c27003f72029d857af4c8f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1513/article/2) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [22](https://www.legislation.gov.uk/uksi/2017/582/regulation/22)
 
-[^key-52d1c98c8e70c9774172208905ed071a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1513/article/3) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-52d1c98c8e70c9774172208905ed071a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1513/article/3) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
 [^f00005]: Footnote: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754), amended by [S.I. 2007/77](https://www.legislation.gov.uk/uksi/2007/77) and [2007/1842](https://www.legislation.gov.uk/uksi/2007/1842).
 
-[^key-8d7acd64168c1fd9f3cb1f7d027f7fbc]: Textual amendment: Words in [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/3/b) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/16/2)
+[^c-8d7acd64168c1fd9f3cb1f7d027f7fbc]: Textual amendment: Words in [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/3/b) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/16/2)
 
-[^key-080f7729479cda30b7292e1ab75a831c]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [60](https://www.legislation.gov.uk/uksi/2017/582/regulation/60) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+[^c-080f7729479cda30b7292e1ab75a831c]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [60](https://www.legislation.gov.uk/uksi/2017/582/regulation/60) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
 
-[^key-5b032a152d673f853c04e5532d33f338]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/4) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-5b032a152d673f853c04e5532d33f338]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/4) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
 [^f00006]: Footnote: OJ No L 20, 26.1.10, p. 7.
 
 [^f00007]: Footnote: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490).
 
-[^key-7037a0de21ba164443cb41f3d984beee]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1513/article/4) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-7037a0de21ba164443cb41f3d984beee]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1513/article/4) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
 [^f00008]: Footnote: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842) amended by [S.I. 2009/7](https://www.legislation.gov.uk/uksi/2009/7) and [2010/491](https://www.legislation.gov.uk/uksi/2010/491).
 
-[^key-3b838bebe620ff26ba57735b48a4bf17]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1513/article/5) revoked (19.5.2013) by [The Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013 (S.I. 2013/971)](https://www.legislation.gov.uk/uksi/2013/971), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/971/regulation/1/1), [38(1)(d)](https://www.legislation.gov.uk/uksi/2013/971/regulation/38/1/d) (with [reg. 38(3)-(7)](https://www.legislation.gov.uk/uksi/2013/971/regulation/38/3))
+[^c-3b838bebe620ff26ba57735b48a4bf17]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1513/article/5) revoked (19.5.2013) by [The Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013 (S.I. 2013/971)](https://www.legislation.gov.uk/uksi/2013/971), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/971/regulation/1/1), [38(1)(d)](https://www.legislation.gov.uk/uksi/2013/971/regulation/38/1/d) (with [reg. 38(3)-(7)](https://www.legislation.gov.uk/uksi/2013/971/regulation/38/3))
 
-[^key-4f8b912a4d593731b51fde52b5c55033]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1513/article/6) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-4f8b912a4d593731b51fde52b5c55033]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1513/article/6) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
 [^f00010]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355), amended by [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055).
 
 [^f00011]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-3f7421eee04e80167072ca4836ddf0a0]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1513/article/7) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-3f7421eee04e80167072ca4836ddf0a0]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1513/article/7) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
 [^f00012]: Footnote: [S.I. 2002/1861](https://www.legislation.gov.uk/uksi/2002/1861).
 
-[^key-4880c19d98c3cfa89d084c3d190b9b2f]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1513/article/8) revoked (1.1.2013) by The Greenhouse Gas Emissions Trading Scheme Regulations 2012 ([S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038)), regs. 1, 85(b)(vii) (with regs. 85, 87, Sch. 1)
+[^c-4880c19d98c3cfa89d084c3d190b9b2f]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1513/article/8) revoked (1.1.2013) by The Greenhouse Gas Emissions Trading Scheme Regulations 2012 ([S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038)), regs. 1, 85(b)(vii) (with regs. 85, 87, Sch. 1)
 
-[^key-90d980143eb1527a680ce0eeaa958145]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/1513/article/9) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-90d980143eb1527a680ce0eeaa958145]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/1513/article/9) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
 [^f00016]: Footnote: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055).
 
-[^key-a0d021858ffeb81bede293df8e39bf9c]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/2) substituted (30.3.2011) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/a)
+[^c-a0d021858ffeb81bede293df8e39bf9c]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/2) substituted (30.3.2011) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/a)
 
-[^key-4387179870ca0d8ace8cd535331309c7]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/3) substituted (30.3.2011) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/a)
+[^c-4387179870ca0d8ace8cd535331309c7]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/3) substituted (30.3.2011) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/a)
 
-[^key-ef562041dce72978e01a48d4b274f326]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/3) substituted (30.3.2011) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/b)
+[^c-ef562041dce72978e01a48d4b274f326]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/3) substituted (30.3.2011) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/b)
 
-[^key-012778eb60321714acf00d3e6a0689b7]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2010/1513/article/9A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/16/3)
+[^c-012778eb60321714acf00d3e6a0689b7]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2010/1513/article/9A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/16/3)
 
-[^key-4a61dba51e6eeb3904ed1b468c8e516c]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/1513/article/10) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+[^c-4a61dba51e6eeb3904ed1b468c8e516c]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/1513/article/10) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
 
 [^f00017]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852).
 
 [^f00018]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17); section 44 was amended by section 36 of, and paragraph 11 of Schedule 1 to, the Energy Act 2008.
 
-[^key-0c62475412eeba1f789b83d9649ff07d]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/1513/article/11) omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/1)
+[^c-0c62475412eeba1f789b83d9649ff07d]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/1513/article/11) omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/1)
 
 [^f00020]: Footnote: OJ No L 175, 5.7.1985, p. 40, amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (OJ No L 73, 14.3.1997 p. 5) and Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) of the European Parliament and of the Council (OJ No L 156, 25.6.2003, p. 17) and Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council (OJ No L 140, 5.6.2009, p. 114).
 

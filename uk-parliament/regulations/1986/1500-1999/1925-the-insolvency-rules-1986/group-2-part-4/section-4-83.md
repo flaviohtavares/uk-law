@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.83. Appeal against decision on proof[^key-b5d17afab16da3f98e4c2374c1964360]
+## 4.83. Appeal against decision on proof[^c-b5d17afab16da3f98e4c2374c1964360]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ The application must be made within 21 days of his receiving the statement sent 
 
 ## Annotations
 
-[^key-b5d17afab16da3f98e4c2374c1964360]: Commencement: [Rule 4.83](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.83) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b5d17afab16da3f98e4c2374c1964360]: Commencement: [Rule 4.83](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.83) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

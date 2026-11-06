@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Sub-contractors in the construction industry.[^key-8981a419702e0d1cff1ff8d356aa2565]
+## 57. Sub-contractors in the construction industry.[^c-8981a419702e0d1cff1ff8d356aa2565]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8981a419702e0d1cff1ff8d356aa2565]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1998/36/section/57) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-8981a419702e0d1cff1ff8d356aa2565]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1998/36/section/57) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

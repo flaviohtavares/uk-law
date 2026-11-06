@@ -30,7 +30,7 @@ summary: ''
 - (a) imposing restrictions as respects those activities; and
 - (b) providing for the making by them of payments to the applicant.
 
-(2A)[^key-771a94cd785c7b3838b16ac9b0d29e67] Subsection (2) has effect in relation to Wales as if the reference to an agreement under section 16 of the 1949 Act or section 15 of the 1968 Act were a reference to an agreement under section 16 of the Environment (Wales) Act 2016.
+(2A)[^c-771a94cd785c7b3838b16ac9b0d29e67] Subsection (2) has effect in relation to Wales as if the reference to an agreement under section 16 of the 1949 Act or section 15 of the 1968 Act were a reference to an agreement under section 16 of the Environment (Wales) Act 2016.
 
 (3)[^c4944531] In this section—
 
@@ -41,7 +41,7 @@ summary: ''
 
 - “**grant provisions**” means—
 - (i) in the case of such a grant as is mentioned in paragraph ( *a* ) above, the scheme under which the grant is made and section 29 of the Agriculture Act 1970; and
-- (ii) in the case of such a grant as is mentioned in paragraph ( *b* ) above, the regulations under which the grant is made and the EU[^key-4a248f967d98110d24782611ff797bb7] instrument in pursuance of which the regulations were made.
+- (ii) in the case of such a grant as is mentioned in paragraph ( *b* ) above, the regulations under which the grant is made and the EU[^c-4a248f967d98110d24782611ff797bb7] instrument in pursuance of which the regulations were made.
 
 ## 32. Duties of agriculture Ministers with respect to areas of special scientific interest.[^c4944541]
 
@@ -61,11 +61,11 @@ summary: ''
 
 [^c19495621]: Textual amendment: Words in s.32 substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 79](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/79); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-771a94cd785c7b3838b16ac9b0d29e67]: Textual amendment: [S. 32(2A)](https://www.legislation.gov.uk/ukpga/1981/69/section/32/2A) inserted (E.W.) (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/4)
+[^c-771a94cd785c7b3838b16ac9b0d29e67]: Textual amendment: [S. 32(2A)](https://www.legislation.gov.uk/ukpga/1981/69/section/32/2A) inserted (E.W.) (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/4)
 
 [^c4944531]: Textual amendment: S. 32(3) substituted by [Agriculture Act 1986 (c. 49, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1986/49), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1986/49/section/20/3)
 
-[^key-4a248f967d98110d24782611ff797bb7]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-4a248f967d98110d24782611ff797bb7]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c4944541]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales
 

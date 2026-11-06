@@ -52,7 +52,7 @@ In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-955dcedf4c738cedae3491e0def77a8a]
+### 1. Citation and commencement[^c-955dcedf4c738cedae3491e0def77a8a]
 
 (1) These Regulations may be cited as the Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025.
 
@@ -74,11 +74,11 @@ In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 
 
 ## PART 2 — Amendments to the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
 
-### 2. General[^key-3ed28491c4c645efdeb511c5bce31470]
+### 2. General[^c-3ed28491c4c645efdeb511c5bce31470]
 
 The Heath and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00003] are amended in accordance with this Part.
 
-### 3. Amendment of regulation 3[^key-d526e91069eb9a66974d1efe52edef10]
+### 3. Amendment of regulation 3[^c-d526e91069eb9a66974d1efe52edef10]
 
 In regulation 3 (meaning of “**superannuable pay**”), after paragraph (12), insert—
 
@@ -113,7 +113,7 @@ In regulation 3 (meaning of “**superannuable pay**”), after paragraph (12), 
 
 .
 
-### 4. Amendment of regulation 89A[^key-33689171c55a27a3f6c0c5efc4545a69]
+### 4. Amendment of regulation 89A[^c-33689171c55a27a3f6c0c5efc4545a69]
 
 (1) Regulation 89A (deduction of tax: further provisions)[^f00004] is amended as follows.
 
@@ -209,11 +209,11 @@ In regulation 3 (meaning of “**superannuable pay**”), after paragraph (12), 
 
 ## PART 3 — The Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999
 
-### 5. General[^key-6cfbb53439bf3623c0de9ea88c12dabd]
+### 5. General[^c-6cfbb53439bf3623c0de9ea88c12dabd]
 
 The Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999[^f00013] are amended in accordance with this Part.
 
-### 6. Amendment of regulation 16[^key-65d429cf516d13aa080c721334859f69]
+### 6. Amendment of regulation 16[^c-65d429cf516d13aa080c721334859f69]
 
 (1) Regulation 16 (information)[^f00014] is amended as follows.
 
@@ -248,11 +248,11 @@ The Health and Personal Social Services (Superannuation) (Additional Voluntary C
 
 ## PART 4 — Amendments to the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
 
-### 7. General[^key-42c02f76125154ffa8fb45ab71483d8e]
+### 7. General[^c-42c02f76125154ffa8fb45ab71483d8e]
 
 The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00016] are amended in accordance with this Part.
 
-### 8. Amendment of regulation 9[^key-460deb8deeeaa551e435d35b18c322d9]
+### 8. Amendment of regulation 9[^c-460deb8deeeaa551e435d35b18c322d9]
 
 (1) Regulation 9 (pensionable service: breaks in service)[^f00017] is amended as follows.
 
@@ -260,7 +260,7 @@ The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[
 
 (3) In paragraph (3A), for “(e)” substitute “(f)”.
 
-### 9. Amendment of regulation 10[^key-6c84547a56e0d8e8f038195eddd167f2]
+### 9. Amendment of regulation 10[^c-6c84547a56e0d8e8f038195eddd167f2]
 
 (1) Regulation 10 (1) (meaning of “**qualifying service**”)[^f00018] is amended as follows.
 
@@ -297,7 +297,7 @@ The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[
 
 .
 
-### 10. Amendment of regulation 13[^key-3ee7ee2514f03c1b2db6aa797ad5fbba]
+### 10. Amendment of regulation 13[^c-3ee7ee2514f03c1b2db6aa797ad5fbba]
 
 In regulation 13 (meaning of “**pensionable pay**”), after paragraph (11), insert—
 
@@ -332,7 +332,7 @@ In regulation 13 (meaning of “**pensionable pay**”), after paragraph (11), i
 
 .
 
-### 11. Amendment of regulation 14[^key-789110626ae0be29589b48b0d6903f3d]
+### 11. Amendment of regulation 14[^c-789110626ae0be29589b48b0d6903f3d]
 
 (1) Regulation 14 (pensionable pay: breaks in service)[^f00021] is amended as follows.
 
@@ -340,7 +340,7 @@ In regulation 13 (meaning of “**pensionable pay**”), after paragraph (11), i
 
 (3) In paragraph (8)(b), for “(e)” substitute “(f)”.
 
-### 12. Amendment of regulation 21[^key-91446cc891edc2260001ae0af763c878]
+### 12. Amendment of regulation 21[^c-91446cc891edc2260001ae0af763c878]
 
 (1) Regulation 21 (eligibility: general)[^f00022] is amended as follows.
 
@@ -348,11 +348,11 @@ In regulation 13 (meaning of “**pensionable pay**”), after paragraph (11), i
 
 (3) In paragraph (3)(a)(ii) before “after” insert “on or”.
 
-### 13. Amendment of regulation 87[^key-8992586eed7016ef4ff636826107a6b2]
+### 13. Amendment of regulation 87[^c-8992586eed7016ef4ff636826107a6b2]
 
 In regulation 87 (payment of lump sums or pensions on death)[^f00023], in paragraph (7), for “regulation 130(2)” substitute “regulation 130 (4)”.
 
-### 14. Amendment of regulation 131[^key-214af0fa7c90604b94be9f6a304be84a]
+### 14. Amendment of regulation 131[^c-214af0fa7c90604b94be9f6a304be84a]
 
 (1) Regulation 131 (deduction of tax)[^f00024] is amended as follows.
 
@@ -368,7 +368,7 @@ In regulation 87 (payment of lump sums or pensions on death)[^f00023], in paragr
 
 .
 
-### 15. Amendment of regulation 140[^key-7681a9ab3d60be87f3db0a2cd6178501]
+### 15. Amendment of regulation 140[^c-7681a9ab3d60be87f3db0a2cd6178501]
 
 (1) In regulation 140 (pensionable service: breaks in service)[^f00026] is amended as follows.
 
@@ -376,7 +376,7 @@ In regulation 87 (payment of lump sums or pensions on death)[^f00023], in paragr
 
 (3) In paragraph (3A), for “(e)” substitute “(f)”.
 
-### 16. Amendment of regulation 141[^key-e2c70b7312444bfbf301f86c99f4ed02]
+### 16. Amendment of regulation 141[^c-e2c70b7312444bfbf301f86c99f4ed02]
 
 (1) Regulation 141 (meaning of “**qualifying service**”)[^f00027] is amended as follows.
 
@@ -413,11 +413,11 @@ In regulation 87 (payment of lump sums or pensions on death)[^f00023], in paragr
 
 .
 
-### 17. Amendment of regulation 144[^key-fd5f895984a4c8878927be5b1592edeb]
+### 17. Amendment of regulation 144[^c-fd5f895984a4c8878927be5b1592edeb]
 
 In regulation 144 (pensionable earnings – breaks in service), in paragraph (4)(b) for “(e)” substitute “(f)”.
 
-### 18. Amendment of regulation 153[^key-ef270daebb00cd5e51fb8ae5b5c59987]
+### 18. Amendment of regulation 153[^c-ef270daebb00cd5e51fb8ae5b5c59987]
 
 (1) Regulation 153 (eligibility: general)[^f00030], is amended as follows.
 
@@ -425,11 +425,11 @@ In regulation 144 (pensionable earnings – breaks in service), in paragraph (4)
 
 (3) In paragraph (3)(a)(ii) before “after” insert “on or”.
 
-### 19. Amendment of regulation 214[^key-2c1cdaf71f976a01dc812a04ddd084f9]
+### 19. Amendment of regulation 214[^c-2c1cdaf71f976a01dc812a04ddd084f9]
 
 In regulation 214 (payment of lump sums or pensions on death)[^f00031], in paragraph (7), for “regulation 254(2)” substitute “regulation 254(4)”.
 
-### 20. Amendment of regulation 255[^key-956a156027352a7482e18bee6ce17e2e]
+### 20. Amendment of regulation 255[^c-956a156027352a7482e18bee6ce17e2e]
 
 (1) Regulation 255 (deduction of tax)(c) is amended as follows.
 
@@ -447,11 +447,11 @@ In regulation 214 (payment of lump sums or pensions on death)[^f00031], in parag
 
 ## PART 5 — Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
 
-### 21. General[^key-c84b0693e547c955986746ce246bbeb6]
+### 21. General[^c-c84b0693e547c955986746ce246bbeb6]
 
 The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00033] are amended in accordance with this Part.
 
-### 22. New regulation 27A[^key-03c4141395e19c016cb70cc31aad656f]
+### 22. New regulation 27A[^c-03c4141395e19c016cb70cc31aad656f]
 
 After regulation 27 (pensionable earnings), insert—
 
@@ -486,28 +486,28 @@ After regulation 27 (pensionable earnings), insert—
 
 .
 
-### 23. Amendment of regulation 28[^key-9490de5f64c6f2dafac6fd0e5a828abb]
+### 23. Amendment of regulation 28[^c-9490de5f64c6f2dafac6fd0e5a828abb]
 
-(1)[^key-9490de5f64c6f2dafac6fd0e5a828abb] In regulation 28 (pensionable earnings: break in service)[^f00034] is amended as follows.
+(1)[^c-9490de5f64c6f2dafac6fd0e5a828abb] In regulation 28 (pensionable earnings: break in service)[^f00034] is amended as follows.
 
-(2)[^key-9490de5f64c6f2dafac6fd0e5a828abb] In paragraph (2)(e) for “parental leave shared parental leave, or, or” substitute “parental leave, shared parental leave or parental bereavement leave.
+(2)[^c-9490de5f64c6f2dafac6fd0e5a828abb] In paragraph (2)(e) for “parental leave shared parental leave, or, or” substitute “parental leave, shared parental leave or parental bereavement leave.
 
-(3)[^key-9490de5f64c6f2dafac6fd0e5a828abb] Omit paragraph (2)(f) “parental bereavement leave”.
+(3)[^c-9490de5f64c6f2dafac6fd0e5a828abb] Omit paragraph (2)(f) “parental bereavement leave”.
 
-(4)[^key-9490de5f64c6f2dafac6fd0e5a828abb] In paragraph (6)(b)for “.” substitute “;”.
+(4)[^c-9490de5f64c6f2dafac6fd0e5a828abb] In paragraph (6)(b)for “.” substitute “;”.
 
-(5)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] After paragraph (6)(b), insert—
+(5)[^c-c23c3b0aea8d4bd4ff1781120c8bbd60] After paragraph (6)(b), insert—
 
 > - (c) for any period while M is within paragraph (2)(b) to (e) and M’s earnings are immediately reduced to zero.
 
 .
 
-(6)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (7)(a)—
+(6)[^c-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (7)(a)—
 
 - (a) for “a woman on maternity leave” substitute “M”;
 - (b) for “she” substitute “M”.
 
-(7)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] After paragraph (7), insert—
+(7)[^c-c23c3b0aea8d4bd4ff1781120c8bbd60] After paragraph (7), insert—
 
 > (7A) For the purposes of paragraph (6)(c)—
 >
@@ -516,13 +516,13 @@ After regulation 27 (pensionable earnings), insert—
 
 .
 
-(8)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (10)(b), after “(6)(b)” insert “or (c)”.
+(8)[^c-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (10)(b), after “(6)(b)” insert “or (c)”.
 
-(9)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (10)(c), after “(7)” insert and “(7A)”.
+(9)[^c-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (10)(c), after “(7)” insert and “(7A)”.
 
-(10)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (12) omit “maternity”.
+(10)[^c-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (12) omit “maternity”.
 
-### 24. Amendment of regulation 37[^key-76be4fdaa5853cbccc2202385c150db3]
+### 24. Amendment of regulation 37[^c-76be4fdaa5853cbccc2202385c150db3]
 
 (1) Regulation 37 (members’ contributions: supplementary: medical practitioners and non-GP providers)[^f00035] is amended as follows.
 
@@ -530,7 +530,7 @@ After regulation 27 (pensionable earnings), insert—
 
 (3) In paragraph (4), after “in the circumstances” insert “(including amounts equal to reduced pensionable earnings that M is treated as having received during an absence from work (see regulation 28))”.
 
-### 25. Amendment of regulation 38[^key-17b5b0dfcb4f7987fef84325435bcaf3]
+### 25. Amendment of regulation 38[^c-17b5b0dfcb4f7987fef84325435bcaf3]
 
 (1) Regulation 38 (members’ contributions: supplementary: dental practitioners)[^f00036] is amended as follows.
 
@@ -538,7 +538,7 @@ After regulation 27 (pensionable earnings), insert—
 
 (3) In paragraph (4), after “in the circumstances” insert “(including amounts equal to reduced pensionable earnings that M is treated as having received during an absence from work (see regulation 28))”.
 
-### 26. Amendment of regulation 59[^key-bd30de44c078bc1dd8344861c36cd898]
+### 26. Amendment of regulation 59[^c-bd30de44c078bc1dd8344861c36cd898]
 
 In regulation 59 (determination of contribution payable), for paragraph (5) substitute—
 
@@ -546,7 +546,7 @@ In regulation 59 (determination of contribution payable), for paragraph (5) subs
 
 .
 
-### 27. Amendment of Schedule 3[^key-cfba1230c51d1c9f521c371a7e2bcd60]
+### 27. Amendment of Schedule 3[^c-cfba1230c51d1c9f521c371a7e2bcd60]
 
 (1) Schedule 3 (administrative matters) paragraph 16 (deduction of tax) is amended as follows.
 
@@ -632,7 +632,7 @@ In regulation 59 (determination of contribution payable), for paragraph (5) subs
 
 .
 
-### 28. Amendment of Schedule 9[^key-c2a7e53817e12782933b22e15b3deb63]
+### 28. Amendment of Schedule 9[^c-c2a7e53817e12782933b22e15b3deb63]
 
 (1) Schedule 9 (determination of pensionable earnings: setting contribution rates)[^f00039] is amended as follows.
 
@@ -642,9 +642,9 @@ In regulation 59 (determination of contribution payable), for paragraph (5) subs
 
 (4) In sub-paragraph (5) of paragraph 3 (change to employment or rate of pensionable earnings or allowances), in the definition of “EPE” after “current scheme year” insert “(including amounts equal to reduced pensionable earnings that the member is treated as having received during an absence from work (see regulation 28))”.
 
-### 29. Amendment of Schedule 10[^key-6112ef7c6879b503aa6d1b73bcb673fa][^key-a451cc577b7804a4cbbff1b596a31903]
+### 29. Amendment of Schedule 10[^c-6112ef7c6879b503aa6d1b73bcb673fa][^c-a451cc577b7804a4cbbff1b596a31903]
 
-(1)[^key-6112ef7c6879b503aa6d1b73bcb673fa] Schedule 10 (practitioner contribution payments)[^f00040] is amended as follows.
+(1)[^c-6112ef7c6879b503aa6d1b73bcb673fa] Schedule 10 (practitioner contribution payments)[^f00040] is amended as follows.
 
 (2) In paragraph 1 (medical practitioners and non-GP providers), after sub-paragraph (3) insert—
 
@@ -658,11 +658,11 @@ In regulation 59 (determination of contribution payable), for paragraph (5) subs
 
 .
 
-### 30. Amendment of Schedule 12[^key-6e2f99ea3a7dfe877ccf5c6cf7166397]
+### 30. Amendment of Schedule 12[^c-6e2f99ea3a7dfe877ccf5c6cf7166397]
 
 In Schedule 12 (lump sum on death), in sub-paragraph (7) of paragraph 9 (payment of lump sums on death), for “paragraph 12 of Schedule 3” substitute “paragraph 12(4) of Schedule 3”.
 
-### 31. Amendment of Schedule 13[^key-cfa226471d3c5498ec5ca48b3ef5536f]
+### 31. Amendment of Schedule 13[^c-cfa226471d3c5498ec5ca48b3ef5536f]
 
 (1) Schedule 13 (definitions)[^f00041] is amended as follows.
 
@@ -684,15 +684,15 @@ In Schedule 12 (lump sum on death), in sub-paragraph (7) of paragraph 9 (payment
 
 ## PART 6 — Amendment to the Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023
 
-### 32. General[^key-e6d3e1c86953ffd641e48ffc53aee9ed]
+### 32. General[^c-e6d3e1c86953ffd641e48ffc53aee9ed]
 
 The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023[^f00042] are amended in accordance with this Part.
 
-### 33. Amendment to regulation 28[^key-fc53af322283e51493b39a0ec530f4a9]
+### 33. Amendment to regulation 28[^c-fc53af322283e51493b39a0ec530f4a9]
 
 In regulation 28 (application and expiry of modifications in this Part)[^f00043], in paragraph (b) for “2025” substitute “2026”.
 
-### 34. Amendment of regulation 30[^key-60600eca3fe6ea85b900eb953f877584]
+### 34. Amendment of regulation 30[^c-60600eca3fe6ea85b900eb953f877584]
 
 (1) Regulation 30 (modification of regulation 37) is amended as follows.
 
@@ -726,7 +726,7 @@ In regulation 28 (application and expiry of modifications in this Part)[^f00043]
 
   .
 
-### 35. Amendment of regulation 31[^key-bd575487d483f6975ace6dd3e6311281]
+### 35. Amendment of regulation 31[^c-bd575487d483f6975ace6dd3e6311281]
 
 (1) Regulation 31 (modification of regulation 38) is amended as follows.
 
@@ -762,11 +762,11 @@ In regulation 28 (application and expiry of modifications in this Part)[^f00043]
 
 ## PART 7 — Amendment to the Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023
 
-### 36. General[^key-ba91a6be020a9c6cc90c332bf6cdee5d]
+### 36. General[^c-ba91a6be020a9c6cc90c332bf6cdee5d]
 
 The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023[^f00044] are amended in accordance with this Part.
 
-### 37. Amendment to regulation 12[^key-11cd9a0b6865af45403477427ce7e5ab]
+### 37. Amendment to regulation 12[^c-11cd9a0b6865af45403477427ce7e5ab]
 
 (1) Regulation 12 (election for 2015 scheme benefits: deferred choice members and deceased members) is amended as follows.
 
@@ -845,15 +845,15 @@ Regulation 37 amends the Remediable Service Regulations to provide for the revoc
 
 [^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-955dcedf4c738cedae3491e0def77a8a]: Commencement: Reg. 1 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-955dcedf4c738cedae3491e0def77a8a]: Commencement: Reg. 1 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
-[^key-3ed28491c4c645efdeb511c5bce31470]: Commencement: Reg. 2 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-3ed28491c4c645efdeb511c5bce31470]: Commencement: Reg. 2 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00003]: Footnote: [S.R.1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95).
 
-[^key-d526e91069eb9a66974d1efe52edef10]: Commencement: Reg. 3 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-d526e91069eb9a66974d1efe52edef10]: Commencement: Reg. 3 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
-[^key-33689171c55a27a3f6c0c5efc4545a69]: Commencement: Reg. 4 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+[^c-33689171c55a27a3f6c0c5efc4545a69]: Commencement: Reg. 4 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
 
 [^f00004]: Footnote: Regulation 89A was amended by S.R [2006 No.410](https://www.legislation.gov.uk/nisr/2006/410), S.R [2008 No.130](https://www.legislation.gov.uk/nisr/2008/130), S.R [2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), S.R [2011 No.256](https://www.legislation.gov.uk/nisr/2011/256), S.R [2012 No.42](https://www.legislation.gov.uk/nisr/2012/42), S.R [2012 No.78](https://www.legislation.gov.uk/nisr/2012/78), S.R [2014 No.225](https://www.legislation.gov.uk/nisr/2014/225) and S.R [2015 No.121](https://www.legislation.gov.uk/nisr/2015/121).
 
@@ -873,25 +873,25 @@ Regulation 37 amends the Remediable Service Regulations to provide for the revoc
 
 [^f00012]: Footnote: S.I. [2014 No.1842](https://www.legislation.gov.uk/uksi/2014/1842).
 
-[^key-6cfbb53439bf3623c0de9ea88c12dabd]: Commencement: Reg. 5 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-6cfbb53439bf3623c0de9ea88c12dabd]: Commencement: Reg. 5 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00013]: Footnote: S.R [1999 No.294](https://www.legislation.gov.uk/nisr/1999/294).
 
-[^key-65d429cf516d13aa080c721334859f69]: Commencement: Reg. 6 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+[^c-65d429cf516d13aa080c721334859f69]: Commencement: Reg. 6 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
 
 [^f00014]: Footnote: Regulation 16 was amended by [S.R. 2006 No.410](https://www.legislation.gov.uk/nisr/2006/410).
 
 [^f00015]: Footnote: [S.I. 2006 No. 131](https://www.legislation.gov.uk/uksi/2006/131).
 
-[^key-42c02f76125154ffa8fb45ab71483d8e]: Commencement: Reg. 7 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-42c02f76125154ffa8fb45ab71483d8e]: Commencement: Reg. 7 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00016]: Footnote: [S.R. 2008 No. 256](https://www.legislation.gov.uk/nisr/2008/256).
 
-[^key-460deb8deeeaa551e435d35b18c322d9]: Commencement: Reg. 8 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+[^c-460deb8deeeaa551e435d35b18c322d9]: Commencement: Reg. 8 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
 
 [^f00017]: Footnote: Regulation 9 was amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) & [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22).
 
-[^key-6c84547a56e0d8e8f038195eddd167f2]: Commencement: Reg. 9 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+[^c-6c84547a56e0d8e8f038195eddd167f2]: Commencement: Reg. 9 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
 
 [^f00018]: Footnote: Regulation 10 was amended by [S.R. 2010 N0. 22](https://www.legislation.gov.uk/nisr/2010/22).
 
@@ -899,31 +899,31 @@ Regulation 37 amends the Remediable Service Regulations to provide for the revoc
 
 [^f00020]: Footnote: Paragraph (3) of regulation 9 was substituted by [S.R. 2013 No. 73](https://www.legislation.gov.uk/nisr/2013/73).
 
-[^key-3ee7ee2514f03c1b2db6aa797ad5fbba]: Commencement: Reg. 10 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-3ee7ee2514f03c1b2db6aa797ad5fbba]: Commencement: Reg. 10 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
-[^key-789110626ae0be29589b48b0d6903f3d]: Commencement: Reg. 11 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+[^c-789110626ae0be29589b48b0d6903f3d]: Commencement: Reg. 11 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
 
 [^f00021]: Footnote: Paragraph (8) of regulation 14 was substituted by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65).
 
-[^key-91446cc891edc2260001ae0af763c878]: Commencement: Reg. 12 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+[^c-91446cc891edc2260001ae0af763c878]: Commencement: Reg. 12 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
 
 [^f00022]: Footnote: Paragraph (3) of regulation 21 was substituted by [S.R. 2015 No. 122](https://www.legislation.gov.uk/nisr/2015/122).
 
-[^key-8992586eed7016ef4ff636826107a6b2]: Commencement: Reg. 13 in operation at 18.6.2025 with effect in accordance with reg. 1(3)
+[^c-8992586eed7016ef4ff636826107a6b2]: Commencement: Reg. 13 in operation at 18.6.2025 with effect in accordance with reg. 1(3)
 
 [^f00023]: Footnote: Regulation 87 was amended by [S.R. 2009 No. 65](https://www.legislation.gov.uk/nisr/2009/65).
 
-[^key-214af0fa7c90604b94be9f6a304be84a]: Commencement: Reg. 14 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+[^c-214af0fa7c90604b94be9f6a304be84a]: Commencement: Reg. 14 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
 
 [^f00024]: Footnote: Regulation 131 was amended by [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42) and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78).
 
 [^f00025]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
 
-[^key-7681a9ab3d60be87f3db0a2cd6178501]: Commencement: Reg. 15 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+[^c-7681a9ab3d60be87f3db0a2cd6178501]: Commencement: Reg. 15 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
 
 [^f00026]: Footnote: Regulation 140 was amended by [S.R. 2009 No. 65](https://www.legislation.gov.uk/nisr/2009/65) and [2010 No.22](https://www.legislation.gov.uk/nisr/2010/22).
 
-[^key-e2c70b7312444bfbf301f86c99f4ed02]: Commencement: Reg. 16 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+[^c-e2c70b7312444bfbf301f86c99f4ed02]: Commencement: Reg. 16 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
 
 [^f00027]: Footnote: Regulation 141 was amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), [S.R. 2010 no.22](https://www.legislation.gov.uk/nisr/2010/22) and [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42).
 
@@ -931,78 +931,78 @@ Regulation 37 amends the Remediable Service Regulations to provide for the revoc
 
 [^f00029]: Footnote: Paragraph 1(A) of regulation 9 was substituted by [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73).
 
-[^key-fd5f895984a4c8878927be5b1592edeb]: Commencement: Reg. 17 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+[^c-fd5f895984a4c8878927be5b1592edeb]: Commencement: Reg. 17 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
 
-[^key-ef270daebb00cd5e51fb8ae5b5c59987]: Commencement: Reg. 18 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+[^c-ef270daebb00cd5e51fb8ae5b5c59987]: Commencement: Reg. 18 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
 
 [^f00030]: Footnote: Paragraph (3) of regulation 153 was substituted by [S.R. 2015 No.122](https://www.legislation.gov.uk/nisr/2015/122).
 
-[^key-2c1cdaf71f976a01dc812a04ddd084f9]: Commencement: Reg. 19 in operation at 18.6.2025 with effect in accordance with reg. 1(3)
+[^c-2c1cdaf71f976a01dc812a04ddd084f9]: Commencement: Reg. 19 in operation at 18.6.2025 with effect in accordance with reg. 1(3)
 
 [^f00031]: Footnote: Regulation 214 was amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65).
 
-[^key-956a156027352a7482e18bee6ce17e2e]: Commencement: Reg. 20 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+[^c-956a156027352a7482e18bee6ce17e2e]: Commencement: Reg. 20 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
 
 [^f00032]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
 
-[^key-c84b0693e547c955986746ce246bbeb6]: Commencement: Reg. 21 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-c84b0693e547c955986746ce246bbeb6]: Commencement: Reg. 21 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00033]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-03c4141395e19c016cb70cc31aad656f]: Commencement: Reg. 22 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-03c4141395e19c016cb70cc31aad656f]: Commencement: Reg. 22 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
-[^key-9490de5f64c6f2dafac6fd0e5a828abb]: Commencement: Reg. 23(1)-(4) in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-9490de5f64c6f2dafac6fd0e5a828abb]: Commencement: Reg. 23(1)-(4) in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00034]: Footnote: Regulation 28 was amended by [S.R. 2022 No.168](https://www.legislation.gov.uk/nisr/2022/168), [S.R. 2022 No.236](https://www.legislation.gov.uk/nisr/2022/236) and [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33)
 
-[^key-c23c3b0aea8d4bd4ff1781120c8bbd60]: Commencement: [Reg. 23(5)-(10)](https://www.legislation.gov.uk/nisr/2025/100/regulation/23/5) in operation at 18.6.2025 with effect in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/4)
+[^c-c23c3b0aea8d4bd4ff1781120c8bbd60]: Commencement: [Reg. 23(5)-(10)](https://www.legislation.gov.uk/nisr/2025/100/regulation/23/5) in operation at 18.6.2025 with effect in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/4)
 
-[^key-76be4fdaa5853cbccc2202385c150db3]: Commencement: Reg. 24 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
+[^c-76be4fdaa5853cbccc2202385c150db3]: Commencement: Reg. 24 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
 
 [^f00035]: Footnote: Regulation 37 was amended by [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244) and [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
 
-[^key-17b5b0dfcb4f7987fef84325435bcaf3]: Commencement: Reg. 25 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
+[^c-17b5b0dfcb4f7987fef84325435bcaf3]: Commencement: Reg. 25 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
 
 [^f00036]: Footnote: Regulation 38 was amended by [S.R. 2022 No. 196](https://www.legislation.gov.uk/nisr/2022/196), [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244) and [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
 
-[^key-bd30de44c078bc1dd8344861c36cd898]: Commencement: Reg. 26 in operation at 18.6.2025 with effect in accordance with reg. 1(9)
+[^c-bd30de44c078bc1dd8344861c36cd898]: Commencement: Reg. 26 in operation at 18.6.2025 with effect in accordance with reg. 1(9)
 
-[^key-cfba1230c51d1c9f521c371a7e2bcd60]: Commencement: Reg. 27 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+[^c-cfba1230c51d1c9f521c371a7e2bcd60]: Commencement: Reg. 27 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
 
 [^f00037]: Footnote: Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
 
 [^f00038]: Footnote: S.I. [2006 No.131](https://www.legislation.gov.uk/uksi/2006/131).
 
-[^key-c2a7e53817e12782933b22e15b3deb63]: Commencement: Reg. 28 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
+[^c-c2a7e53817e12782933b22e15b3deb63]: Commencement: Reg. 28 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
 
 [^f00039]: Footnote: Schedule 9 was amended by [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244).
 
-[^key-6112ef7c6879b503aa6d1b73bcb673fa]: Commencement: Reg. 29(1) in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-6112ef7c6879b503aa6d1b73bcb673fa]: Commencement: Reg. 29(1) in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
-[^key-a451cc577b7804a4cbbff1b596a31903]: Commencement: Reg. 29(2)(3) in operation at 18.6.2025 with effect in accordance with reg. 1(9)
+[^c-a451cc577b7804a4cbbff1b596a31903]: Commencement: Reg. 29(2)(3) in operation at 18.6.2025 with effect in accordance with reg. 1(9)
 
 [^f00040]: Footnote: Schedule 10 was amended by [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
 
-[^key-6e2f99ea3a7dfe877ccf5c6cf7166397]: Commencement: Reg. 30 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+[^c-6e2f99ea3a7dfe877ccf5c6cf7166397]: Commencement: Reg. 30 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
 
-[^key-cfa226471d3c5498ec5ca48b3ef5536f]: Commencement: Reg. 31 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-cfa226471d3c5498ec5ca48b3ef5536f]: Commencement: Reg. 31 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00041]: Footnote: Schedule 13 is amended by [S.R. 2016 No. 384](https://www.legislation.gov.uk/nisr/2016/384), [S.R. 2022 No.196](https://www.legislation.gov.uk/nisr/2022/196), [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33), [S.R. 2024 No.117](https://www.legislation.gov.uk/nisr/2024/117) and [S.R. 2025 No.17](https://www.legislation.gov.uk/nisr/2025/17).
 
-[^key-e6d3e1c86953ffd641e48ffc53aee9ed]: Commencement: Reg. 32 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-e6d3e1c86953ffd641e48ffc53aee9ed]: Commencement: Reg. 32 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00042]: Footnote: [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
 
-[^key-fc53af322283e51493b39a0ec530f4a9]: Commencement: Reg. 33 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-fc53af322283e51493b39a0ec530f4a9]: Commencement: Reg. 33 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00043]: Footnote: Regulation 28 was substituted by [S.R. 2024 No.117](https://www.legislation.gov.uk/nisr/2024/117).
 
-[^key-60600eca3fe6ea85b900eb953f877584]: Commencement: Reg. 34 in operation at 18.6.2025 with effect in accordance with reg. 1(7)
+[^c-60600eca3fe6ea85b900eb953f877584]: Commencement: Reg. 34 in operation at 18.6.2025 with effect in accordance with reg. 1(7)
 
-[^key-bd575487d483f6975ace6dd3e6311281]: Commencement: Reg. 35 in operation at 18.6.2025 with effect in accordance with reg. 1(7)
+[^c-bd575487d483f6975ace6dd3e6311281]: Commencement: Reg. 35 in operation at 18.6.2025 with effect in accordance with reg. 1(7)
 
-[^key-ba91a6be020a9c6cc90c332bf6cdee5d]: Commencement: Reg. 36 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-ba91a6be020a9c6cc90c332bf6cdee5d]: Commencement: Reg. 36 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
 
 [^f00044]: Footnote: [S.R. 2023 No.132](https://www.legislation.gov.uk/nisr/2023/132).
 
-[^key-11cd9a0b6865af45403477427ce7e5ab]: Commencement: Reg. 37 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+[^c-11cd9a0b6865af45403477427ce7e5ab]: Commencement: Reg. 37 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)

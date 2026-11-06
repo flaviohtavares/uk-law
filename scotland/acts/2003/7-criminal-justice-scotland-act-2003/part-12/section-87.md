@@ -25,10 +25,10 @@ summary: ''
 - “**the 1989 Act**”means the Prisons (Scotland) Act 1989 (c. 45);
 - “**the 1993 Act**”means the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9);
 - “**the 1995 Act**”means the Criminal Procedure (Scotland) Act 1995 (c. 46); and
-- “**prescribed**”, except in sections 16ZA(2)(a), 16D(2)(a), 17DA(2)(a) and[^key-4ecbf6039bb9e829715fd097ae5b3352] 21(4), means prescribed by order made by the Scottish Ministers.
+- “**prescribed**”, except in sections 16ZA(2)(a), 16D(2)(a), 17DA(2)(a) and[^c-4ecbf6039bb9e829715fd097ae5b3352] 21(4), means prescribed by order made by the Scottish Ministers.
 
 (2) Any expression used in this Act and in the 1995 Act is, unless the context requires otherwise, to be construed in accordance with section 307 of that Act (interpretation).
 
 ## Annotations
 
-[^key-4ecbf6039bb9e829715fd097ae5b3352]: Textual amendment: Words in [s. 87(1)](https://www.legislation.gov.uk/asp/2003/7/section/87/1) substituted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(10)](https://www.legislation.gov.uk/asp/2023/4/section/14/10), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-4ecbf6039bb9e829715fd097ae5b3352]: Textual amendment: Words in [s. 87(1)](https://www.legislation.gov.uk/asp/2003/7/section/87/1) substituted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(10)](https://www.legislation.gov.uk/asp/2023/4/section/14/10), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)

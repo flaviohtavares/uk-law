@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Protection (Controls on Dangerous Substances) Regulations 2003 (revoked)[^key-94138480e4625d4ba8070917d4c88488]
+The Environmental Protection (Controls on Dangerous Substances) Regulations 2003 (revoked)[^c-94138480e4625d4ba8070917d4c88488]
 
 Made
 
@@ -51,52 +51,52 @@ for the purpose of regulations 5, 6 and 9(2)
 
 30th June 2004
 
-[^key-94138480e4625d4ba8070917d4c88488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94138480e4625d4ba8070917d4c88488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-94138480e4625d4ba8070917d4c88488]
+## 1. Citation, commencement and extent[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-94138480e4625d4ba8070917d4c88488]
+## 2. Interpretation[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-94138480e4625d4ba8070917d4c88488]
+## 3. Scope[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market of short chain chlorinated paraffins[^key-94138480e4625d4ba8070917d4c88488]
+## 4. Prohibition on the placing on the market of short chain chlorinated paraffins[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on the marketing and use of arsenic compounds[^key-94138480e4625d4ba8070917d4c88488]
+## 5. Restrictions on the marketing and use of arsenic compounds[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Permitted marketing and use of arsenic compounds and treated wood[^key-94138480e4625d4ba8070917d4c88488]
+## 6. Permitted marketing and use of arsenic compounds and treated wood[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Prohibition on the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^key-94138480e4625d4ba8070917d4c88488]
+## 7. Prohibition on the use of hexachloroethane in the manufacturing and processing of non-ferrous metals[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences and penalties[^key-94138480e4625d4ba8070917d4c88488]
+## 8. Offences and penalties[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment and revocation of Regulations[^key-94138480e4625d4ba8070917d4c88488]
+## 9. Amendment and revocation of Regulations[^c-94138480e4625d4ba8070917d4c88488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94138480e4625d4ba8070917d4c88488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94138480e4625d4ba8070917d4c88488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-94138480e4625d4ba8070917d4c88488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94138480e4625d4ba8070917d4c88488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94138480e4625d4ba8070917d4c88488]: Textual amendment: Regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3311/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/2)
+[^c-94138480e4625d4ba8070917d4c88488]: Textual amendment: Regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3311/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/2)

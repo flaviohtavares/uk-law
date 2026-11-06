@@ -39,7 +39,7 @@ summary: ''
 
 (4) Subsection (1) above does not apply where—
 
-- (a) the property, part of which is conveyed, is a benefited property only by virtue of any of sections 52 to 56 of this Act or sections 29 or 31 of the Long Leases (Scotland) Act 2012 (asp 9)[^key-4ee242c5c7a7b1e8b589afb06337b31d];
+- (a) the property, part of which is conveyed, is a benefited property only by virtue of any of sections 52 to 56 of this Act or sections 29 or 31 of the Long Leases (Scotland) Act 2012 (asp 9)[^c-4ee242c5c7a7b1e8b589afb06337b31d];
 - (b) the real burdens are community burdens; or
 - (c) the real burdens are set out in a common deed of conditions, that is to say in a deed which sets out the terms of the burdens imposed on the part conveyed, that part being one of two or more properties on which they are or will be imposed under a common scheme.
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c7937441]: Commencement: S. 12 wholly in force; s. 12 in force for certain purposes at 4.4.2003 see s. 129(2)(5); s. 12 otherwise in force at 28.11.2004 by [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-4ee242c5c7a7b1e8b589afb06337b31d]: Textual amendment: Words in [s. 12(4)(a)](https://www.legislation.gov.uk/asp/2003/9/section/12/4/a) inserted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(2)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/2); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-4ee242c5c7a7b1e8b589afb06337b31d]: Textual amendment: Words in [s. 12(4)(a)](https://www.legislation.gov.uk/asp/2003/9/section/12/4/a) inserted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(2)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/2); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)

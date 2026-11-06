@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-ef734ce6569a346e31641d33b11f3241][^key-795696149d93a0089ba4136e76789850] The 1982 Act is amended as follows.
+(1)[^c-ef734ce6569a346e31641d33b11f3241][^c-795696149d93a0089ba4136e76789850] The 1982 Act is amended as follows.
 
-(2)[^key-34d6ac5d183759b7918194a04c610190] In section 41(2) (definition of place of public entertainment), after paragraph (aa) insert—
+(2)[^c-34d6ac5d183759b7918194a04c610190] In section 41(2) (definition of place of public entertainment), after paragraph (aa) insert—
 
 > - (ab) a sexual entertainment venue (as defined in section 45A) in relation to which Schedule 2 (as modified for the purposes of section 45B) has effect, while being used as such;
 
 .
 
-(3)[^key-ef734ce6569a346e31641d33b11f3241][^key-795696149d93a0089ba4136e76789850] After section 45 insert—
+(3)[^c-ef734ce6569a346e31641d33b11f3241][^c-795696149d93a0089ba4136e76789850] After section 45 insert—
 
 > **45A. Licensing of sexual entertainment venues: interpretation**
 >
@@ -185,12 +185,12 @@ summary: ''
 
 .
 
-(4)[^key-34d6ac5d183759b7918194a04c610190] The title of Part 3 becomes “ **Control of sex shops and sexual entertainment venues** ”.
+(4)[^c-34d6ac5d183759b7918194a04c610190] The title of Part 3 becomes “ **Control of sex shops and sexual entertainment venues** ”.
 
 ## Annotations
 
-[^key-ef734ce6569a346e31641d33b11f3241]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/asp/2015/10/section/76/1)[(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-ef734ce6569a346e31641d33b11f3241]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/asp/2015/10/section/76/1)[(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
 
-[^key-795696149d93a0089ba4136e76789850]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/asp/2015/10/section/76/1)[(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3) in force at 26.4.2019 in so far as not already in force by [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
+[^c-795696149d93a0089ba4136e76789850]: Commencement: [S. 76(1)](https://www.legislation.gov.uk/asp/2015/10/section/76/1)[(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3) in force at 26.4.2019 in so far as not already in force by [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
 
-[^key-34d6ac5d183759b7918194a04c610190]: Commencement: [S. 76(2)](https://www.legislation.gov.uk/asp/2015/10/section/76/2)[(4)](https://www.legislation.gov.uk/asp/2015/10/section/76/4) in force at 26.4.2019 by [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
+[^c-34d6ac5d183759b7918194a04c610190]: Commencement: [S. 76(2)](https://www.legislation.gov.uk/asp/2015/10/section/76/2)[(4)](https://www.legislation.gov.uk/asp/2015/10/section/76/4) in force at 26.4.2019 by [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))

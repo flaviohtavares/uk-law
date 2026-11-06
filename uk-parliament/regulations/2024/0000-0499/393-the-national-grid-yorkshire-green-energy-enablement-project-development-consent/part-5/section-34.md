@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Acquisition of subsoil or airspace only[^key-17bc107006ce587739d16619a561bc48]
+## 34. Acquisition of subsoil or airspace only[^c-17bc107006ce587739d16619a561bc48]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17bc107006ce587739d16619a561bc48]: Commencement: Art. 34 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-17bc107006ce587739d16619a561bc48]: Commencement: Art. 34 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

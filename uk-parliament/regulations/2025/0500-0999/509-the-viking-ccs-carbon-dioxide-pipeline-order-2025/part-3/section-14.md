@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Access to works[^key-52696efcf717b5f34282d3658168cab7]
+## 14. Access to works[^c-52696efcf717b5f34282d3658168cab7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52696efcf717b5f34282d3658168cab7]: Commencement: Art. 14 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-52696efcf717b5f34282d3658168cab7]: Commencement: Art. 14 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

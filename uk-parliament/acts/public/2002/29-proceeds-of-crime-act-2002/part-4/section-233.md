@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Proceedings[^key-d2bc6cf6d396e40156f8051a148b9e28][^key-e3634034bab4be7cd4cb838ceea63874][^key-e3634034bab4be7cd4cb838ceea63874]
+## 233. Proceedings[^c-d2bc6cf6d396e40156f8051a148b9e28][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -43,20 +43,20 @@ summary: ''
 - (b) if the time for applying for leave to appeal under section 181(2) expires without an application being made, the proceedings are concluded when the time expires;
 - (c) if on an appeal under section 181(2) the Court of Appeal confirms the Crown Court’s decision and an application for leave to appeal under section 183 is refused, the proceedings are concluded when the decision to refuse is made;
 - (d) if on appeal under section 181(2) the Court of Appeal confirms the Crown Court’s decision, and the time for applying for leave to appeal under section 183 expires without an application being made, the proceedings are concluded when the time expires;
-- (e) if on appeal under section 181(2) the Court of Appeal confirms the Crown Court’s decision, and on appeal under section 183 the House of Lords confirms the Court of Appeal’s decision, the proceedings are concluded when the Supreme Court[^key-111e826590c81a8377cf0597de5368a7] confirms the decision;
+- (e) if on appeal under section 181(2) the Court of Appeal confirms the Crown Court’s decision, and on appeal under section 183 the House of Lords confirms the Court of Appeal’s decision, the proceedings are concluded when the Supreme Court[^c-111e826590c81a8377cf0597de5368a7] confirms the decision;
 - (f) if on appeal under section 181(2) the Court of Appeal directs the Crown Court to reconsider the case, and on reconsideration the Crown Court decides not to make a confiscation order against the defendant, the proceedings are concluded when the Crown Court makes that decision;
 - (g) if on appeal under section 183 the Supreme Court directs the Crown Court to reconsider the case, and on reconsideration the Crown Court decides not to make a confiscation order against the defendant, the proceedings are concluded when the Crown Court makes that decision.
 
-(7)[^key-5b302bb38bdedacecd7044c28d6133d2] Any power to extend the time for giving notice of application for leave to appeal, or for applying for leave to appeal, must be ignored for the purposes of subsection (6).
+(7)[^c-5b302bb38bdedacecd7044c28d6133d2] Any power to extend the time for giving notice of application for leave to appeal, or for applying for leave to appeal, must be ignored for the purposes of subsection (6).
 
 (8) In applying subsection (6) the fact that a court may decide on a later occasion to make a confiscation order against the defendant must be ignored.
 
 ## Annotations
 
-[^key-d2bc6cf6d396e40156f8051a148b9e28]: Commencement: S. 233 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d2bc6cf6d396e40156f8051a148b9e28]: Commencement: S. 233 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-111e826590c81a8377cf0597de5368a7]: Textual amendment: Words in s. 233(6) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 77(8)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/77/8); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-111e826590c81a8377cf0597de5368a7]: Textual amendment: Words in s. 233(6) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 77(8)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/77/8); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-5b302bb38bdedacecd7044c28d6133d2]: Textual amendment: [S. 233(7)](https://www.legislation.gov.uk/ukpga/2002/29/section/233/7) substituted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/75); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(n)](https://www.legislation.gov.uk/uksi/2015/983/article/3/n)
+[^c-5b302bb38bdedacecd7044c28d6133d2]: Textual amendment: [S. 233(7)](https://www.legislation.gov.uk/ukpga/2002/29/section/233/7) substituted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/75); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(n)](https://www.legislation.gov.uk/uksi/2015/983/article/3/n)

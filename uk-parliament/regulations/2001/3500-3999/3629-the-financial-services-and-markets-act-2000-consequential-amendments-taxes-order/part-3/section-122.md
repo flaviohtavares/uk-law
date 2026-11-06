@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. General investment rules[^key-ed57a9cb9f909816c2a263b267f595b9]
+## 122. General investment rules[^c-ed57a9cb9f909816c2a263b267f595b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ed57a9cb9f909816c2a263b267f595b9]: Commencement: Art. 122 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-ed57a9cb9f909816c2a263b267f595b9]: Commencement: Art. 122 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00115]: Footnote: Regulation 5 was relevantly amended by regulation 6(2) of S.I. [2001/923](https://www.legislation.gov.uk/uksi/2001/923).
 

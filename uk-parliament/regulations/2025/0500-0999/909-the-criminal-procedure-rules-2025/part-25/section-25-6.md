@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.6. Selecting the jury[^key-5017b8dfad877795a7f9c4b6a693525b]
+## 25.6. Selecting the jury[^c-5017b8dfad877795a7f9c4b6a693525b]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5017b8dfad877795a7f9c4b6a693525b]: Commencement: [Rule 25.6](https://www.legislation.gov.uk/uksi/2025/909/rule/25.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5017b8dfad877795a7f9c4b6a693525b]: Commencement: [Rule 25.6](https://www.legislation.gov.uk/uksi/2025/909/rule/25.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00582]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 2 was amended by section 61 of the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53) and Part 10 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 5 was amended by section 15 of, and paragraphs 77 and 78 of Schedule 4 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 6 was amended by paragraph 45 of Schedule 15 to the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33). Section 11 was amended by section 58 of, and paragraph 8 of Schedule 10 and Schedule 11 to, the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
 

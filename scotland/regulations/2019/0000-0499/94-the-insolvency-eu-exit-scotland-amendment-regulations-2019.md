@@ -44,13 +44,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 1(7) of schedule 7 of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-379a0cd445d1a052b6bd08dd2ca85d0b]
+## 1. Citation and commencement[^c-379a0cd445d1a052b6bd08dd2ca85d0b]
 
 These Regulations may be cited as the Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.
 
 ## PART 1 — Amendments to primary legislation
 
-### 2. Amendment of the Insolvency Act 1986[^key-759823fa074d17826eb491de5551f9ce]
+### 2. Amendment of the Insolvency Act 1986[^c-759823fa074d17826eb491de5551f9ce]
 
 (1) The Insolvency Act 1986 [^c23636201] is amended as follows.
 
@@ -59,7 +59,7 @@ These Regulations may be cited as the Insolvency (EU Exit) (Scotland) (Amendment
 - (a) in subsection (1)(b) omit “other than the United Kingdom”, and
 - (b) in subsection (6) at the end of the definition of “the EU Regulation” insert “ as that Regulation has effect in the law of the European Union ”.
 
-### 3. Amendment of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^key-2674298f5b1ac2ab5ee844fb3830e65c]
+### 3. Amendment of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^c-2674298f5b1ac2ab5ee844fb3830e65c]
 
 (1) The Bankruptcy and Diligence etc. (Scotland) Act 2007 [^c23636211] is amended as follows.
 
@@ -71,7 +71,7 @@ These Regulations may be cited as the Insolvency (EU Exit) (Scotland) (Amendment
   - (ii) in paragraph (b), omit “in any other case,”, and
 - (c) omit subsection (8).
 
-### 4. Amendment of the Bankruptcy (Scotland) Act 2016[^key-a27e0e9378bc79ede23ea30153392c95]
+### 4. Amendment of the Bankruptcy (Scotland) Act 2016[^c-a27e0e9378bc79ede23ea30153392c95]
 
 (1) The Bankruptcy (Scotland) Act 2016 [^c23636221] is amended as follows.
 
@@ -148,7 +148,7 @@ These Regulations may be cited as the Insolvency (EU Exit) (Scotland) (Amendment
 
 ## PART 2 — Amendments to secondary legislation
 
-### 5. Amendment of the Bankruptcy Fees (Scotland) Regulations 2018[^key-7a24070b2e9c6563550b3a247f4b96b8]
+### 5. Amendment of the Bankruptcy Fees (Scotland) Regulations 2018[^c-7a24070b2e9c6563550b3a247f4b96b8]
 
 (1) The Bankruptcy Fees (Scotland) Regulations 2018 [^c23636271] are amended as follows.
 
@@ -156,11 +156,11 @@ These Regulations may be cited as the Insolvency (EU Exit) (Scotland) (Amendment
 
 (3) In Part 2 of the Table of Fees in the schedule (fees for other functions of the Accountant in Bankruptcy) omit item 21 (fee for conversion of a trust deed into sequestration).
 
-### 6. Amendment of the Public Services Reform (Insolvency) (Scotland) Order 2016[^key-cc7cebb755b5846a81bb1589df81e35a]
+### 6. Amendment of the Public Services Reform (Insolvency) (Scotland) Order 2016[^c-cc7cebb755b5846a81bb1589df81e35a]
 
 In the Public Services Reform (Insolvency) (Scotland) Order 2016 [^c23636281] omit article 15(6)(b) and the word “or” immediately preceding it.
 
-### 7. Amendment of the Bankruptcy (Scotland) Regulations 2016[^key-138e071df27308be6dacbaa4e96828ff]
+### 7. Amendment of the Bankruptcy (Scotland) Regulations 2016[^c-138e071df27308be6dacbaa4e96828ff]
 
 (1) The Bankruptcy (Scotland) Regulations 2016 [^c23636291] are amended as follows.
 
@@ -171,7 +171,7 @@ In the Public Services Reform (Insolvency) (Scotland) Order 2016 [^c23636281] om
 - (a) after “Regulation (EU) 2015/848” insert “ (as it forms part of domestic law on and after exit day) ”, and
 - (b) omit from “unless the granter” to “within the meaning of the said EU Regulation”.
 
-### 8. Amendment of the Bankruptcy (Applications and Decisions) (Scotland) Regulations 2016[^key-8d502990c1a19c08f7099430c8aae70f]
+### 8. Amendment of the Bankruptcy (Applications and Decisions) (Scotland) Regulations 2016[^c-8d502990c1a19c08f7099430c8aae70f]
 
 (1) The Bankruptcy (Applications and Decisions) (Scotland) Regulations 2016 [^c23636301] are amended as follows.
 
@@ -179,13 +179,13 @@ In the Public Services Reform (Insolvency) (Scotland) Order 2016 [^c23636281] om
 
 (3) In the schedule, omit forms 6 (conversion of protected trust deed into bankruptcy: section 190 application) and 7 (conversion of protected trust deed into bankruptcy: section 192 award).
 
-### 9. Saving[^key-6573e06688f8e2a77623e67fddd6bef5]
+### 9. Saving[^c-6573e06688f8e2a77623e67fddd6bef5]
 
-(1)[^key-485915def4b65066fe42373ce5a724ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-485915def4b65066fe42373ce5a724ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The amendments made by regulations 2 to 8 do not apply in respect of any insolvency proceedings and actions falling within Article 67(3)(c) of the withdrawal agreement[^key-723df363e7f79e980770f9e521d588b1].
+(2) The amendments made by regulations 2 to 8 do not apply in respect of any insolvency proceedings and actions falling within Article 67(3)(c) of the withdrawal agreement[^c-723df363e7f79e980770f9e521d588b1].
 
-(3)[^key-276a0ed65d65fd8a34c316100e9fe0f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-276a0ed65d65fd8a34c316100e9fe0f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 JAMIE HEPBURN
 
@@ -221,17 +221,17 @@ A partial business and regulatory impact assessment was prepared in respect of t
 
 [^c23636191]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-379a0cd445d1a052b6bd08dd2ca85d0b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-379a0cd445d1a052b6bd08dd2ca85d0b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-759823fa074d17826eb491de5551f9ce]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-759823fa074d17826eb491de5551f9ce]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636201]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Relevant amendments have been made by [S.S.I. 2011/140](https://www.legislation.gov.uk/ssi/2011/140) and [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
-[^key-2674298f5b1ac2ab5ee844fb3830e65c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2674298f5b1ac2ab5ee844fb3830e65c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636211]: Marginal citation: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3). Section 45 is not yet in force.
 
-[^key-a27e0e9378bc79ede23ea30153392c95]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a27e0e9378bc79ede23ea30153392c95]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636221]: Marginal citation: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21). Relevant amendments have been made by [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
@@ -243,26 +243,26 @@ A partial business and regulatory impact assessment was prepared in respect of t
 
 [^c23636261]: Marginal citation: Paragraph 3A was inserted by regulation 4(24) of [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
-[^key-7a24070b2e9c6563550b3a247f4b96b8]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7a24070b2e9c6563550b3a247f4b96b8]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636271]: Marginal citation: [S.S.I. 2018/127](https://www.legislation.gov.uk/ssi/2018/127). A relevant amendment has been made by [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
-[^key-cc7cebb755b5846a81bb1589df81e35a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cc7cebb755b5846a81bb1589df81e35a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636281]: Marginal citation: [S.S.I. 2016/141](https://www.legislation.gov.uk/ssi/2016/141). A relevant amendment has been made by [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
-[^key-138e071df27308be6dacbaa4e96828ff]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-138e071df27308be6dacbaa4e96828ff]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636291]: Marginal citation: [S.S.I. 2016/397](https://www.legislation.gov.uk/ssi/2016/397). Relevant amendments have been made by [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
-[^key-8d502990c1a19c08f7099430c8aae70f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8d502990c1a19c08f7099430c8aae70f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23636301]: Marginal citation: [S.S.I. 2016/295](https://www.legislation.gov.uk/ssi/2016/295). Relevant amendments have been made by [S.S.I. 2017/210](https://www.legislation.gov.uk/ssi/2017/210).
 
-[^key-6573e06688f8e2a77623e67fddd6bef5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6573e06688f8e2a77623e67fddd6bef5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-485915def4b65066fe42373ce5a724ca]: Textual amendment: Reg. 9(1)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Insolvency (Amendment) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/337)](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/337/regulation/2/2/a)
+[^c-485915def4b65066fe42373ce5a724ca]: Textual amendment: Reg. 9(1)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Insolvency (Amendment) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/337)](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/337/regulation/2/2/a)
 
-[^key-723df363e7f79e980770f9e521d588b1]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020 immediately before IP completion day) by [The Insolvency (Amendment) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/337)](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/337/regulation/2/2/b)
+[^c-723df363e7f79e980770f9e521d588b1]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020 immediately before IP completion day) by [The Insolvency (Amendment) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/337)](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/337/regulation/2/2/b)
 
-[^key-276a0ed65d65fd8a34c316100e9fe0f9]: Textual amendment: Reg. 9(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Insolvency (Amendment) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/337)](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2020/337/regulation/2/2/c)
+[^c-276a0ed65d65fd8a34c316100e9fe0f9]: Textual amendment: Reg. 9(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Insolvency (Amendment) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/337)](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2020/337/regulation/2/2/c)

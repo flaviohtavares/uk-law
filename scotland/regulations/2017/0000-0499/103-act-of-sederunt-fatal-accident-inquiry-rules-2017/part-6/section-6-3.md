@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.3. Form of notice[^key-e55d1e7c2b41a5998ab533bc208af5b9]
+## 6.3. Form of notice[^c-e55d1e7c2b41a5998ab533bc208af5b9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A notice under section 28(5) (compliance with sheriff’s recommendations: notic
 
 ## Annotations
 
-[^key-e55d1e7c2b41a5998ab533bc208af5b9]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/ssi/2017/103/rule/6.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-e55d1e7c2b41a5998ab533bc208af5b9]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/ssi/2017/103/rule/6.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

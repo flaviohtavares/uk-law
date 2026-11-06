@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The Plant Health etc. (Fees) (England) Regulations 2018[^key-916ebf61bb710d6a878575d577d42257]
+## 4. The Plant Health etc. (Fees) (England) Regulations 2018[^c-916ebf61bb710d6a878575d577d42257]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-916ebf61bb710d6a878575d577d42257]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-916ebf61bb710d6a878575d577d42257]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24374901]: Marginal citation: [S.I. 2018/289](https://www.legislation.gov.uk/uksi/2018/289), amended by [S.I. 2019/1257](https://www.legislation.gov.uk/uksi/2019/1257), 1488, 2020/9; there are other amending instruments but none is relevant.

@@ -22,9 +22,9 @@ summary: ''
 
 Article 29
 
-### For the protection of Canal & River Trust[^key-a8a7961d4328e31527ac2dfab912a8a4]
+### For the protection of Canal & River Trust[^c-a8a7961d4328e31527ac2dfab912a8a4]
 
-#### 1. Interpretation[^key-37a78ed64e7e79b89272dfa1e4cc8084]
+#### 1. Interpretation[^c-37a78ed64e7e79b89272dfa1e4cc8084]
 
 (1) For the protection of CRT the following provisions of this Schedule shall, unless otherwise agreed in writing between the undertaker and CRT, have effect.
 
@@ -51,7 +51,7 @@ Article 29
 - “towing path” means the towing path forming part of the waterway;
 - “the waterway” means the Aire & Calder Navigation, and includes any works, lands or premises belonging to CRT, or under its management or control, and held or used by CRT in connection with that canal.
 
-#### 2. Powers requiring CRT’s consent[^key-7281adf5aaea5c011d93d45fb7c1d928]
+#### 2. Powers requiring CRT’s consent[^c-7281adf5aaea5c011d93d45fb7c1d928]
 
 (1) The undertaker shall not in the exercise of the powers conferred by this Order obstruct or interfere with pedestrian or vehicular access to the waterway unless such obstruction or interference with such access is with the consent of CRT.
 
@@ -68,7 +68,7 @@ Article 29
 
 to the extent that any discharge of water by the undertaker is into the waterway.
 
-#### 3. Vehicles, plant and machinery[^key-3f1f8303d010daf326667377d0d6c576]
+#### 3. Vehicles, plant and machinery[^c-3f1f8303d010daf326667377d0d6c576]
 
 The undertaker shall not use any land or property of CRT forming part of the waterway for the passage or siting of vehicles, plant or machinery employed in the construction of the specified works other than—
 
@@ -77,11 +77,11 @@ The undertaker shall not use any land or property of CRT forming part of the wat
   - (i) for the prevention of detriment; or
   - (ii) in order to avoid or reduce any inconvenience to CRT, its officers and agents and all other persons lawfully on such land or property, but nothing in this paragraph shall apply in relation to anything done in accordance with any approval given by CRT under paragraph 6.
 
-#### 4. Fencing[^key-676fcc1513ba45ebb531f6cfa737e2ce]
+#### 4. Fencing[^c-676fcc1513ba45ebb531f6cfa737e2ce]
 
 Where so required by the engineer the undertaker shall to the reasonable satisfaction of the engineer fence off a specified work or a protective work or take such other steps as the engineer may require to be taken for the purpose of separating a specified work or a protective work from the waterway, whether on a temporary or permanent basis or both.
 
-#### 5. Survey of waterway[^key-d4b347d462adab87e448697412f7ca6e]
+#### 5. Survey of waterway[^c-d4b347d462adab87e448697412f7ca6e]
 
 (1) Before the commencement of the initial construction of any part of the specified works and again following practical completion of the specified works the undertaker shall bear the reasonable cost of the carrying out by a qualified engineer (the “surveyor”), to be approved by CRT and the undertaker, of a survey including a dip-survey to measure the depth of the waterway (“the survey”) of so much of the waterway and of any land and existing works of the undertaker which may provide support for the waterway as will or may be affected by the specified works.
 
@@ -94,7 +94,7 @@ Where so required by the engineer the undertaker shall to the reasonable satisfa
 
 (4) Copies of the survey shall be provided to both CRT and the undertaker at no cost to CRT.
 
-#### 6. Approval of plans, protective works etc.[^key-c0fb67b97207f4b8bd761b641bd1b24b]
+#### 6. Approval of plans, protective works etc.[^c-c0fb67b97207f4b8bd761b641bd1b24b]
 
 (1) The undertaker shall before commencing construction of any specified work within the boundaries of the specified works including any temporary works supply to CRT proper and sufficient plans of that work and such further particulars available to it as CRT may within 14 days of the submission of the plans reasonably require for the approval of the engineer and shall not commence such construction of a specified work until plans of that work have been approved in writing by the engineer or settled by arbitration.
 
@@ -109,7 +109,7 @@ Where so required by the engineer the undertaker shall to the reasonable satisfa
 
 (5) In the event that the undertaker fails to complete the construction of, or part of, the specified works CRT may, if it is reasonably required in order to avoid detriment, serve on the undertaker a notice in writing requesting that construction be completed. Any notice served under this sub-paragraph shall state the works that are to be completed by the undertaker and lay out a timetable for the works’ completion. If the undertaker fails to comply with this notice within 35 days, CRT may construct any of the specified works, or part of such works, (together with any adjoining works) in order to complete the construction of, or part of, the specified works or make such works and the undertaker shall reimburse CRT all costs, fees, charges and expenses it has reasonably incurred in carrying out such works.
 
-#### 7. Design of works[^key-6105540e79756b16fe9f4615f446331a]
+#### 7. Design of works[^c-6105540e79756b16fe9f4615f446331a]
 
 Without prejudice to its obligations under the foregoing provisions of this Schedule the undertaker shall consult, collaborate and respond constructively to any approach, suggestion, proposal or initiative made by CRT on—
 
@@ -118,15 +118,15 @@ Without prejudice to its obligations under the foregoing provisions of this Sche
 
 and shall have regard to such views as may be expressed by CRT to the extent that these accord with the requirements of the local planning authority in response to such consultation pursuant in particular to the requirements imposed on CRT by section 22 (general environmental and recreational duties) of the British Waterways Act 1995 and to the interest of CRT in preserving and enhancing the environment of its waterways.
 
-#### 8. Notice of works[^key-fd9c0e7244067266e95ca1fb68f7ba61]
+#### 8. Notice of works[^c-fd9c0e7244067266e95ca1fb68f7ba61]
 
 The undertaker shall give to the engineer 30 days’ notice of its intention to commence the construction of any of the specified or protective works, or, in the case of repair carried out in an emergency, such notice as may be reasonably practicable so that, in particular, CRT may where appropriate arrange for the publication of notices bringing those works to the attention of users of CRT’s network.
 
-#### 9. Lighting[^key-cc9813acea3e5c9a2267644a1d277a14]
+#### 9. Lighting[^c-cc9813acea3e5c9a2267644a1d277a14]
 
 The undertaker shall provide and maintain at its own expense in the vicinity of the specified or protective works such temporary lighting and such signal lights for the control of navigation as the engineer may reasonably require during the construction or failure of the specified or protective works.
 
-#### 10. Construction of specified works[^key-00205b5ffe2172a48f872f7ee78c2976]
+#### 10. Construction of specified works[^c-00205b5ffe2172a48f872f7ee78c2976]
 
 (1) Any specified or protective works shall, when commenced, be constructed—
 
@@ -139,11 +139,11 @@ The undertaker shall provide and maintain at its own expense in the vicinity of 
 
 (3) Following the completion of the construction of the specified works the undertaker shall restore the waterway to a condition no less satisfactory than its condition immediately prior to the commencement of those works unless otherwise agreed between the undertaker and CRT.
 
-#### 11. Prevention of pollution[^key-0be10b288cb7f5d325b681753224a3b1]
+#### 11. Prevention of pollution[^c-0be10b288cb7f5d325b681753224a3b1]
 
 The undertaker shall not in the course of constructing a specified work or a protective work or otherwise in connection therewith do or permit anything which may result in the pollution of the waterway or the deposit of materials therein and shall take such steps as the engineer may reasonably require to avoid or make good any breach of its obligations under this paragraph.
 
-#### 12. Access to work – provision of information[^key-35d030884c110086c4d44b829e598f08]
+#### 12. Access to work – provision of information[^c-35d030884c110086c4d44b829e598f08]
 
 (1) The undertaker on being given reasonable notice shall—
 
@@ -155,30 +155,30 @@ The undertaker shall not in the course of constructing a specified work or a pro
 - (a) at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by CRT under this Schedule during their construction; and
 - (b) supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them and the undertaker shall reimburse CRT’s reasonable costs in relation to the supply of such information.
 
-#### 13. Alterations to the waterway[^key-d8f22539b8b812a95096096ddf9e07a5]
+#### 13. Alterations to the waterway[^c-d8f22539b8b812a95096096ddf9e07a5]
 
 (1) If during the construction of a specified work or a protective work or during a period of twenty four (24) months after the completion of those works any alterations or additions, either permanent or temporary, to the waterway are reasonably necessary in consequence of the construction of the specified work or the protective work in order to avoid detriment, and CRT gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which shall be specified in the notice), the undertaker shall pay to CRT the reasonable costs of those alterations or additions including, in respect of any such alterations or additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by CRT in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) If the cost of maintaining, working or renewing the waterway is reduced in consequence of any such alterations or additions a capitalised sum representing such saving shall be set off against any sum payable by the undertaker to CRT under this paragraph.
 
-#### 14. Maintenance of works[^key-3efa090a439d6905cc50a1919fa46988]
+#### 14. Maintenance of works[^c-3efa090a439d6905cc50a1919fa46988]
 
 If at any time after the completion of a specified work or a protective work, not being a work vested in CRT, CRT gives notice to the undertaker informing it that the state of maintenance of the work appears to be such that the work is causing or likely to cause detriment, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put the work in such state of maintenance as not to cause such detriment.
 
-#### 15. Repayment of CRT’s fees, etc.[^key-50c16f5151f61051432f896424b18213]
+#### 15. Repayment of CRT’s fees, etc.[^c-50c16f5151f61051432f896424b18213]
 
-The undertaker shall repay to CRT in accordance with CRT’s Code of Practice for Works affecting the Canal & River Trust[^key-25f556ad567539360dcb41cc4f8d8e8f] (as amended from time to time) all fees, costs, charges and expenses reasonably incurred by CRT—
+The undertaker shall repay to CRT in accordance with CRT’s Code of Practice for Works affecting the Canal & River Trust[^c-25f556ad567539360dcb41cc4f8d8e8f] (as amended from time to time) all fees, costs, charges and expenses reasonably incurred by CRT—
 
 - (a) in constructing any protective works under the provisions of paragraph 6(3)(a);
 - (b) in respect of the approval by the engineer of plans submitted by the undertaker and the supervision by the engineer of the construction or repair of a specified work and any protective works;
 - (c) in respect of the employment during the construction of the specified works or any protective works of any inspectors, watchmen and other persons whom it shall be reasonably necessary to appoint for inspecting, watching and lighting any waterway and for preventing, so far as may be reasonably practicable, interference, obstruction, danger or accident arising from the construction or failure of the specified works or any protective works; and
 - (d) in bringing the specified works or any protective works to the notice of users of CRT’s network.
 
-#### 16. Costs of alterations, etc.[^key-b25ed6119ab249e67b060b19300bf76d]
+#### 16. Costs of alterations, etc.[^c-b25ed6119ab249e67b060b19300bf76d]
 
 Any additional expenses which CRT may reasonable incur in altering, reconstructing or maintaining the waterway under any powers existing at the date when this Order was made by reason of the existence of a specified work shall, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaired by the undertaker to CRT.
 
-#### 17. Making good of detriment; compensation and indemnity, etc.[^key-1052a8779438c0226c54f1d3f53a072d]
+#### 17. Making good of detriment; compensation and indemnity, etc.[^c-1052a8779438c0226c54f1d3f53a072d]
 
 (1) If any detriment shall be caused by the construction or failure of the specified works or the protective works if carried out by the undertaker, the undertaker (if so required by CRT) shall make good such detriment and shall pay to CRT all reasonable expenses to which CRT may be put, and compensation for any loss which CRT may sustain, in making good or otherwise by reason of the detriment.
 
@@ -195,54 +195,54 @@ Any additional expenses which CRT may reasonable incur in altering, reconstructi
 
 (6) The aggregate cap of the undertaker’s gross liability for consequential loses shall be limited to £10,000,000 (ten million pounds) for any one occurrence or all occurrences of a series arising out of the one original cause.
 
-#### 18. Arbitration[^key-618c1eaac5ead3f0fccd23c0560cb302]
+#### 18. Arbitration[^c-618c1eaac5ead3f0fccd23c0560cb302]
 
 Any difference arising between the undertaker and CRT under this Schedule (other than a difference as to the meaning or construction of this Schedule) shall be referred to and settled by arbitration in accordance with article 36 (arbitration) of this Order.
 
-#### 19. Capitalised sums[^key-e8e861634ff3f7938db8533e9c1d1084]
+#### 19. Capitalised sums[^c-e8e861634ff3f7938db8533e9c1d1084]
 
 Any capitalised sum which is required to be paid under this Schedule shall be calculated by multiplying the cost of the maintenance or renewal works to the waterway necessitated as a result of the operation of the authorised development by the number of times that the maintenance or renewal works will be required during the operation of the authorised development.
 
 ## Annotations
 
-[^key-a8a7961d4328e31527ac2dfab912a8a4]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2015/680/schedule/8) sub-heading substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-a8a7961d4328e31527ac2dfab912a8a4]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2015/680/schedule/8) sub-heading substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-37a78ed64e7e79b89272dfa1e4cc8084]: Commencement: Sch. 8 para. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-37a78ed64e7e79b89272dfa1e4cc8084]: Commencement: Sch. 8 para. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-7281adf5aaea5c011d93d45fb7c1d928]: Commencement: Sch. 8 para. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-7281adf5aaea5c011d93d45fb7c1d928]: Commencement: Sch. 8 para. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-3f1f8303d010daf326667377d0d6c576]: Commencement: Sch. 8 para. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-3f1f8303d010daf326667377d0d6c576]: Commencement: Sch. 8 para. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-676fcc1513ba45ebb531f6cfa737e2ce]: Commencement: Sch. 8 para. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-676fcc1513ba45ebb531f6cfa737e2ce]: Commencement: Sch. 8 para. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-d4b347d462adab87e448697412f7ca6e]: Commencement: Sch. 8 para. 5 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-d4b347d462adab87e448697412f7ca6e]: Commencement: Sch. 8 para. 5 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-c0fb67b97207f4b8bd761b641bd1b24b]: Commencement: Sch. 8 para. 6 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-c0fb67b97207f4b8bd761b641bd1b24b]: Commencement: Sch. 8 para. 6 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-6105540e79756b16fe9f4615f446331a]: Commencement: Sch. 8 para. 7 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-6105540e79756b16fe9f4615f446331a]: Commencement: Sch. 8 para. 7 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-fd9c0e7244067266e95ca1fb68f7ba61]: Commencement: Sch. 8 para. 8 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-fd9c0e7244067266e95ca1fb68f7ba61]: Commencement: Sch. 8 para. 8 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-cc9813acea3e5c9a2267644a1d277a14]: Commencement: Sch. 8 para. 9 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-cc9813acea3e5c9a2267644a1d277a14]: Commencement: Sch. 8 para. 9 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-00205b5ffe2172a48f872f7ee78c2976]: Commencement: Sch. 8 para. 10 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-00205b5ffe2172a48f872f7ee78c2976]: Commencement: Sch. 8 para. 10 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-0be10b288cb7f5d325b681753224a3b1]: Commencement: Sch. 8 para. 11 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-0be10b288cb7f5d325b681753224a3b1]: Commencement: Sch. 8 para. 11 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-35d030884c110086c4d44b829e598f08]: Commencement: Sch. 8 para. 12 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-35d030884c110086c4d44b829e598f08]: Commencement: Sch. 8 para. 12 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-d8f22539b8b812a95096096ddf9e07a5]: Commencement: Sch. 8 para. 13 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-d8f22539b8b812a95096096ddf9e07a5]: Commencement: Sch. 8 para. 13 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-3efa090a439d6905cc50a1919fa46988]: Commencement: Sch. 8 para. 14 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-3efa090a439d6905cc50a1919fa46988]: Commencement: Sch. 8 para. 14 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-50c16f5151f61051432f896424b18213]: Commencement: Sch. 8 para. 15 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-50c16f5151f61051432f896424b18213]: Commencement: Sch. 8 para. 15 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-25f556ad567539360dcb41cc4f8d8e8f]: Textual amendment: Words in Sch. 8 para. 15 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-25f556ad567539360dcb41cc4f8d8e8f]: Textual amendment: Words in Sch. 8 para. 15 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-b25ed6119ab249e67b060b19300bf76d]: Commencement: Sch. 8 para. 16 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-b25ed6119ab249e67b060b19300bf76d]: Commencement: Sch. 8 para. 16 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-1052a8779438c0226c54f1d3f53a072d]: Commencement: Sch. 8 para. 17 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-1052a8779438c0226c54f1d3f53a072d]: Commencement: Sch. 8 para. 17 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-618c1eaac5ead3f0fccd23c0560cb302]: Commencement: Sch. 8 para. 18 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-618c1eaac5ead3f0fccd23c0560cb302]: Commencement: Sch. 8 para. 18 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-e8e861634ff3f7938db8533e9c1d1084]: Commencement: Sch. 8 para. 19 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-e8e861634ff3f7938db8533e9c1d1084]: Commencement: Sch. 8 para. 19 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

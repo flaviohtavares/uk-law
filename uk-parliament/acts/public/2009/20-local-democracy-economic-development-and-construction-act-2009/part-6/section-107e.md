@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107E. Joint exercise of general functions[^key-f78856540a0ef1754d6c0a1da23b73a9]
+## 107E. Joint exercise of general functions[^c-f78856540a0ef1754d6c0a1da23b73a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

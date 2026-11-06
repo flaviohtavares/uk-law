@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Power of overview and scrutiny committee to question members of authority[^key-3b0462fd998322e72ab2a3f4c99e2420]
+## 120. Power of overview and scrutiny committee to question members of authority[^c-3b0462fd998322e72ab2a3f4c99e2420]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b0462fd998322e72ab2a3f4c99e2420]: Commencement: S. 120 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/b)
+[^c-3b0462fd998322e72ab2a3f4c99e2420]: Commencement: S. 120 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/b)

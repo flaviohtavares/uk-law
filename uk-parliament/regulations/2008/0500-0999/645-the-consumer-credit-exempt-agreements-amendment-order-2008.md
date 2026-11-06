@@ -50,11 +50,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 He has consulted in accordance with sections 16(3) and (3A) of that Act.
 
-## 1. Citation and commencement[^key-35b816c786130ce42a0ca7b080961cc1]
+## 1. Citation and commencement[^c-35b816c786130ce42a0ca7b080961cc1]
 
 This Order may be cited as the Consumer Credit (Exempt Agreements) (Amendment) Order 2008 and shall come into force on 6th April 2008.
 
-## 2. Amendment to the Consumer Credit (Exempt Agreements) Order 1989[^key-50add33f2bc18f79655d19cc9e745c2f]
+## 2. Amendment to the Consumer Credit (Exempt Agreements) Order 1989[^c-50add33f2bc18f79655d19cc9e745c2f]
 
 In Part II of Schedule 1 to the Consumer Credit (Exempt Agreements) Order 1989[^f00002], after the entry relating to the Commission for the New Towns insert—
 
@@ -80,9 +80,9 @@ This Order amends the Consumer Credit (Exempt Agreements) Order 1989 by includin
 
 [^f00001]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-35b816c786130ce42a0ca7b080961cc1]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/645/article/1)
+[^c-35b816c786130ce42a0ca7b080961cc1]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/645/article/1)
 
-[^key-50add33f2bc18f79655d19cc9e745c2f]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/645/article/1)
+[^c-50add33f2bc18f79655d19cc9e745c2f]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/645/article/1)
 
 [^f00002]: Footnote: [S.I. 1989/869](https://www.legislation.gov.uk/uksi/1989/869), to which there are amendments not relevant to this Order.
 

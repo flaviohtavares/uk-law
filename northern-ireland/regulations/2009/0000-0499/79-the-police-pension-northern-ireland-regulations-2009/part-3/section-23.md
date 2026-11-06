@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Aggregate pension contributions for purposes of repayment[^key-b52c06e8e3b68604dfcb1995dd73ef80]
+## 23. Aggregate pension contributions for purposes of repayment[^c-b52c06e8e3b68604dfcb1995dd73ef80]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ the amount referred to in paragraph (4) shall include any sum which would have b
 
 ## Annotations
 
-[^key-b52c06e8e3b68604dfcb1995dd73ef80]: Commencement: Reg. 23 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-b52c06e8e3b68604dfcb1995dd73ef80]: Commencement: Reg. 23 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

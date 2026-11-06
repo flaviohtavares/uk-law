@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — Removal of important hedgerows[^key-6f3488ce50ae734e8753cdcb24c2e458]
+## SCHEDULE 12 — Removal of important hedgerows[^c-6f3488ce50ae734e8753cdcb24c2e458]
 
 *Extent: E+W+S*
 
@@ -192,4 +192,4 @@ Article 32
 
 ## Annotations
 
-[^key-6f3488ce50ae734e8753cdcb24c2e458]: Commencement: Sch. 12 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-6f3488ce50ae734e8753cdcb24c2e458]: Commencement: Sch. 12 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

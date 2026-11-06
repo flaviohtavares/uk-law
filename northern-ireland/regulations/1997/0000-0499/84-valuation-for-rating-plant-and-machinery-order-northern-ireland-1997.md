@@ -30,7 +30,7 @@ summary: ''
 
 RATING AND VALUATION
 
-Valuation for Rating (Plant and Machinery) Order (Northern Ireland) 1997 (revoked)[^key-e3f71029a6ac6c7a39fb05f12806638b]
+Valuation for Rating (Plant and Machinery) Order (Northern Ireland) 1997 (revoked)[^c-e3f71029a6ac6c7a39fb05f12806638b]
 
 Made
 
@@ -42,23 +42,23 @@ Coming into operation
 
 1st April 1997
 
-[^key-e3f71029a6ac6c7a39fb05f12806638b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3f71029a6ac6c7a39fb05f12806638b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e3f71029a6ac6c7a39fb05f12806638b]
+## 1. Citation and commencement[^c-e3f71029a6ac6c7a39fb05f12806638b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Classes of plant and machinery[^key-e3f71029a6ac6c7a39fb05f12806638b]
+## 2. Classes of plant and machinery[^c-e3f71029a6ac6c7a39fb05f12806638b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3f71029a6ac6c7a39fb05f12806638b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3f71029a6ac6c7a39fb05f12806638b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e3f71029a6ac6c7a39fb05f12806638b]
+## SCHEDULE[^c-e3f71029a6ac6c7a39fb05f12806638b]
 
 Article 2
 
@@ -66,8 +66,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-e3f71029a6ac6c7a39fb05f12806638b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3f71029a6ac6c7a39fb05f12806638b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3f71029a6ac6c7a39fb05f12806638b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/84) revoked (1.4.2003) by [Valuation for Rating (Plant and Machinery) Order (Northern Ireland) 2003 (S.R. 2003/31)](https://www.legislation.gov.uk/nisr/2003/31), [arts. 1](https://www.legislation.gov.uk/nisr/2003/31/article/1), [3](https://www.legislation.gov.uk/nisr/2003/31/article/3)
+[^c-e3f71029a6ac6c7a39fb05f12806638b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/84) revoked (1.4.2003) by [Valuation for Rating (Plant and Machinery) Order (Northern Ireland) 2003 (S.R. 2003/31)](https://www.legislation.gov.uk/nisr/2003/31), [arts. 1](https://www.legislation.gov.uk/nisr/2003/31/article/1), [3](https://www.legislation.gov.uk/nisr/2003/31/article/3)

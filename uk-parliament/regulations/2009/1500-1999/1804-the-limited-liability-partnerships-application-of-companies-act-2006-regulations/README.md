@@ -50,7 +50,7 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 2 — Commencement](part-1/section-2.md)
 - [Section 3 — Interpretation](part-1/section-3.md)
 
-### PART 1A — INCORPORATION[^key-d310d88f9c79b7b1cf927caf19c1435e]
+### PART 1A — INCORPORATION[^c-d310d88f9c79b7b1cf927caf19c1435e]
 
 - [Section 3A — Statement of initial significant control](part-1a/section-3a.md)
 
@@ -76,7 +76,7 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 11 — Similarity to other name on registrar's index](part-3/section-11.md)
 - [Section 12 — Similarity to other name in which person has goodwill](part-3/section-12.md)
 
-#### CHAPTER 3 — OTHER POWERS OF THE SECRETARY OF STATE AND THE REGISTRAR[^key-fe8cbe00fc26019eadb34ccb81dcc52f]
+#### CHAPTER 3 — OTHER POWERS OF THE SECRETARY OF STATE AND THE REGISTRAR[^c-fe8cbe00fc26019eadb34ccb81dcc52f]
 
 - [Section 13 — Provision of misleading information etc](part-3/section-13.md)
 - [Section 13A — Direction to change name used for criminal purposes](part-3/section-13a.md)
@@ -94,14 +94,14 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 16 — General](part-4/section-16.md)
 - [Section 17 — Welsh LLPs](part-4/section-17.md)
 
-### PART 4A — REGISTERED EMAIL ADDRESS[^key-d05695f96d82267b04075e3c217b89e6]
+### PART 4A — REGISTERED EMAIL ADDRESS[^c-d05695f96d82267b04075e3c217b89e6]
 
 - [Section 17ZA — Registered email addresses](part-4a/section-17za.md)
 - [Section 17ZB — Registered email addresses - transitional provisions](part-4a/section-17zb.md)
 
 ### PART 5 — AN LLP'S MEMBERS
 
-#### CHAPTER 1 — INFORMATION ABOUT MEMBERS[^key-4108d8139f72aba37d14e2ee3a043501]
+#### CHAPTER 1 — INFORMATION ABOUT MEMBERS[^c-4108d8139f72aba37d14e2ee3a043501]
 
 - [Section 17ZC — Disqualified member](part-5/section-17zc.md)
 - [Section 17A — Alternative method of record-keeping Notification of information about members](part-5/section-17a.md)
@@ -110,7 +110,7 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 17B — Duty to ensure disqualified person is not a member](part-5/section-17b.md)
 - [Section 18 — Requirements for register of members](part-5/section-18.md)
 
-#### CHAPTER 1A — OPTION TO KEEP INFORMATION ON THE CENTRAL REGISTER[^key-d0dd6a8a96c490005291fb75719ab7f8]
+#### CHAPTER 1A — OPTION TO KEEP INFORMATION ON THE CENTRAL REGISTER[^c-d0dd6a8a96c490005291fb75719ab7f8]
 
 - [Section 18A](part-5/section-18a.md)
 
@@ -134,14 +134,14 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 28 — Issue of certificates etc on allotment or transfer to financial institution](part-7/section-28.md)
 - [Section 29 — Supplementary provisions](part-7/section-29.md)
 
-### PART 8 — ANNUAL CONFIRMATION BY LLP OF ACCURACY OF INFORMATION ON REGISTER[^key-2525dd886768aeecc286c66d1547d936]
+### PART 8 — ANNUAL CONFIRMATION BY LLP OF ACCURACY OF INFORMATION ON REGISTER[^c-2525dd886768aeecc286c66d1547d936]
 
 - [Section 30](part-8/section-30.md)
 - [Section 30A — Duty to notify a change in registered office and email address](part-8/section-30a.md)
 - [Section 31](part-8/section-31.md)
 - [Section 31ZA](part-8/section-31za.md)
 
-### PART 8A — AN LLP’s REGISTER OF PEOPLE WITH SIGNIFICANT CONTROL[^key-cbd587a2ddd5805ac892a01382fd8b5c]
+### PART 8A — AN LLP’s REGISTER OF PEOPLE WITH SIGNIFICANT CONTROL[^c-cbd587a2ddd5805ac892a01382fd8b5c]
 
 - [Section 31A — Overview](part-8a/section-31a.md)
 - [Section 31B — Key terms](part-8a/section-31b.md)
@@ -329,16 +329,16 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 [^c19765231]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-d310d88f9c79b7b1cf927caf19c1435e]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1804/part/1A) inserted (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/3)
+[^c-d310d88f9c79b7b1cf927caf19c1435e]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1804/part/1A) inserted (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/3)
 
-[^key-fe8cbe00fc26019eadb34ccb81dcc52f]: Textual amendment: Words in [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2009/1804/part/3/chapter/3) heading inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2024/234/regulation/11/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), reg. 2(a)
+[^c-fe8cbe00fc26019eadb34ccb81dcc52f]: Textual amendment: Words in [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2009/1804/part/3/chapter/3) heading inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2024/234/regulation/11/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), reg. 2(a)
 
-[^key-d05695f96d82267b04075e3c217b89e6]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2009/1804/part/4A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/234/regulation/17); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d05695f96d82267b04075e3c217b89e6]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2009/1804/part/4A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/234/regulation/17); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-4108d8139f72aba37d14e2ee3a043501]: Textual amendment: [Pt. 5 Ch. 1](https://www.legislation.gov.uk/uksi/2009/1804/part/5/chapter/1) heading substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/1) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-4108d8139f72aba37d14e2ee3a043501]: Textual amendment: [Pt. 5 Ch. 1](https://www.legislation.gov.uk/uksi/2009/1804/part/5/chapter/1) heading substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/1) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-d0dd6a8a96c490005291fb75719ab7f8]: Textual amendment: [Pt. 5 Ch. 1A](https://www.legislation.gov.uk/uksi/2009/1804/part/5/chapter/1A) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/3)
+[^c-d0dd6a8a96c490005291fb75719ab7f8]: Textual amendment: [Pt. 5 Ch. 1A](https://www.legislation.gov.uk/uksi/2009/1804/part/5/chapter/1A) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/3)
 
-[^key-2525dd886768aeecc286c66d1547d936]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/1804/part/8) (ss. 30, 31, 31ZA) substituted for Pt. 8 (regs. 30, 31) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/5) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2016/599/regulation/3/2))
+[^c-2525dd886768aeecc286c66d1547d936]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/1804/part/8) (ss. 30, 31, 31ZA) substituted for Pt. 8 (regs. 30, 31) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/5) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2016/599/regulation/3/2))
 
-[^key-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)
+[^c-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)

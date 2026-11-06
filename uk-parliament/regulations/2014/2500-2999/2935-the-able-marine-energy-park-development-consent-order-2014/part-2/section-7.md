@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Period for completion of work[^key-61c672ede0f0582920800cae7d414ab6]
+## 7. Period for completion of work[^c-61c672ede0f0582920800cae7d414ab6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the authorised development is not completed within 10 years from the coming i
 
 ## Annotations
 
-[^key-61c672ede0f0582920800cae7d414ab6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/2935/article/7) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-61c672ede0f0582920800cae7d414ab6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/2935/article/7) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

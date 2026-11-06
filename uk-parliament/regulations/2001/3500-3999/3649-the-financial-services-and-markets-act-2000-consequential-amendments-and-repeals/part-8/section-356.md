@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356. Removal of definition of “appropriate registrar”[^key-793442e7a9b77f1fd9e9b16c57432878]
+## 356. Removal of definition of “appropriate registrar”[^c-793442e7a9b77f1fd9e9b16c57432878]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-793442e7a9b77f1fd9e9b16c57432878]: Commencement: Art. 356 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-793442e7a9b77f1fd9e9b16c57432878]: Commencement: Art. 356 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

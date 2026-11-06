@@ -88,7 +88,7 @@ Section 144(4).
 
 ### Aircraft and Shipbuilding Industries Act 1977 (c. 3)
 
-**16.**[^key-c6591adbc7dcaf31401c0828005e75a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c6591adbc7dcaf31401c0828005e75a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Nuclear Industry (Finance) Act 1977 (c. 7)
 
@@ -177,19 +177,19 @@ substitute “ the meaning given by section 736 of the Companies Act 1985 ”.
 
 ### Companies Act 1985 (c. 6)
 
-**32.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transport Act 1985 (c. 67)
 
@@ -248,7 +248,7 @@ for “has the same meaning as in” substitute “ has the meaning given by sec
 
 [^c13698721]: Textual amendment: Sch. 18 para. 14 repealed (1.3.2000) by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), [art. 24(b)](https://www.legislation.gov.uk/uksi/2000/311/article/24/b)
 
-[^key-c6591adbc7dcaf31401c0828005e75a3]: Textual amendment: [Sch. 18 para. 16](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/16) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 9(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/9/3)
+[^c-c6591adbc7dcaf31401c0828005e75a3]: Textual amendment: [Sch. 18 para. 16](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/16) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 9(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/9/3)
 
 [^c18727971]: Textual amendment: Sch. 18 para. 18 repealed (27.3.2004) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [68](https://www.legislation.gov.uk/ukpga/1994/21/section/68), [Sch. 11 Pt.III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
@@ -262,6 +262,6 @@ for “has the same meaning as in” substitute “ has the meaning given by sec
 
 [^c18756191]: Textual amendment: Sch. 18 para. 28 repealed (25.7.2003 for specified purposes, 29.12.2003 for further specified purposes) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/7), [408](https://www.legislation.gov.uk/ukpga/2003/21/section/408), [411](https://www.legislation.gov.uk/ukpga/2003/21/section/411), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with transitional provisions in [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/2) (as amended ([8](https://www.legislation.gov.uk/uksi/2003/1900/article/8).[12](https://www.legislation.gov.uk/uksi/2003/1900/article/12).[2003](https://www.legislation.gov.uk/uksi/2003/1900/article/2003)) by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/1/3))); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-86dab8da11faf9f99c4fdc0b7ab6bfa1]: Textual amendment: Sch. 18 paras. 32-38 repealed (1.10.2007 for the repeal of Sch. 18 paras. 34-36, 1.10.2009 in so far as not already in force) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) ss. 1295, [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7), [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48 ( and as amended by S.I. 2007/2607, arts. 1, 4 and S.I. 2007/3495, arts. 2(6), 11, Sch. 5 para. 2(3)-(7)) and subject to Sch.1)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48) ); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-86dab8da11faf9f99c4fdc0b7ab6bfa1]: Textual amendment: Sch. 18 paras. 32-38 repealed (1.10.2007 for the repeal of Sch. 18 paras. 34-36, 1.10.2009 in so far as not already in force) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) ss. 1295, [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7), [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48 ( and as amended by S.I. 2007/2607, arts. 1, 4 and S.I. 2007/3495, arts. 2(6), 11, Sch. 5 para. 2(3)-(7)) and subject to Sch.1)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48) ); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c18756171]: Textual amendment: Sch. 18 para. 46 repealed (6.4.2003 with effect as mentioned in [s. 723(1)(a)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/723/1/a/b) of the amending Act (subject to Sch. 7)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [ss. 723(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/723/1), [724](https://www.legislation.gov.uk/ukpga/2003/1/section/724), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1)

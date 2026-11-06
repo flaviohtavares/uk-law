@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Miscellaneous amendments[^key-d49f5325a68191075ea3978ce6e6e209]
+## 133. Miscellaneous amendments[^c-d49f5325a68191075ea3978ce6e6e209]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d49f5325a68191075ea3978ce6e6e209]: Commencement: Art. 133 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-d49f5325a68191075ea3978ce6e6e209]: Commencement: Art. 133 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00126]: Footnote: Regulation 3 was amended by regulation 4 of S.I. [1995/1929](https://www.legislation.gov.uk/uksi/1995/1929).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Advice, assistance and training facilities[^key-5757244530a871754133e7e494718f94]
+## 25. Advice, assistance and training facilities[^c-5757244530a871754133e7e494718f94]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) at the request of that person, or
 - (b) if the MMO considers it appropriate to do so, on its own initiative.
 
-(3A)[^key-11450764c05cddd0ea49715ad9a23f66] The MMO must, at the request of the Secretary of State, provide advice to any person (including a person outside the United Kingdom) on any international marine matter that is within its knowledge or experience.
+(3A)[^c-11450764c05cddd0ea49715ad9a23f66] The MMO must, at the request of the Secretary of State, provide advice to any person (including a person outside the United Kingdom) on any international marine matter that is within its knowledge or experience.
 
 (4) The MMO may provide any person with—
 
@@ -42,7 +42,7 @@ summary: ''
 
 as respects any matter of which the MMO has knowledge or experience.
 
-(5)[^key-eece9ba661fa69bb1ec4ea7798c69497] The MMO must, at the request of the Secretary of State, provide any person outside the United Kingdom with—
+(5)[^c-eece9ba661fa69bb1ec4ea7798c69497] The MMO must, at the request of the Secretary of State, provide any person outside the United Kingdom with—
 
 - (a) assistance, or
 - (b) the use of training facilities,
@@ -58,8 +58,8 @@ as respects any matter of which the MMO has knowledge or experience.
 
 ## Annotations
 
-[^key-5757244530a871754133e7e494718f94]: Commencement: S. 25 in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/7)
+[^c-5757244530a871754133e7e494718f94]: Commencement: S. 25 in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/7)
 
-[^key-11450764c05cddd0ea49715ad9a23f66]: Textual amendment: [S. 25(3A)](https://www.legislation.gov.uk/ukpga/2009/23/section/25/3A) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/3/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-11450764c05cddd0ea49715ad9a23f66]: Textual amendment: [S. 25(3A)](https://www.legislation.gov.uk/ukpga/2009/23/section/25/3A) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/3/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-eece9ba661fa69bb1ec4ea7798c69497]: Textual amendment: [S. 25(5)-(7)](https://www.legislation.gov.uk/ukpga/2009/23/section/25/5) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/3/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-eece9ba661fa69bb1ec4ea7798c69497]: Textual amendment: [S. 25(5)-(7)](https://www.legislation.gov.uk/ukpga/2009/23/section/25/5) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/3/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

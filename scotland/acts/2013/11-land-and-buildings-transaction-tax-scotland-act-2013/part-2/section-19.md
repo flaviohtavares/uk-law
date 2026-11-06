@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Uncertain or unascertained consideration[^key-81c487b795b9e0a38a2955e921006651]
+## 19. Uncertain or unascertained consideration[^c-81c487b795b9e0a38a2955e921006651]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81c487b795b9e0a38a2955e921006651]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/11/section/19) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-81c487b795b9e0a38a2955e921006651]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/11/section/19) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Disposal of recently acquired interests in land[^key-c562433eb21b9e2c84d3f452d939e7ee]
+## 96. Disposal of recently acquired interests in land[^c-c562433eb21b9e2c84d3f452d939e7ee]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c562433eb21b9e2c84d3f452d939e7ee]: Commencement: Reg. 96 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c562433eb21b9e2c84d3f452d939e7ee]: Commencement: Reg. 96 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

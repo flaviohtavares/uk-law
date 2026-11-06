@@ -32,7 +32,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) Regulations 2005 (revoked)[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) Regulations 2005 (revoked)[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 Made
 
@@ -46,70 +46,70 @@ Coming into force
 
 29th June 2005
 
-[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 1. Citation, commencement and interpretation[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences in connection with breaches of the EC Regulation[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 2. Offences in connection with breaches of the EC Regulation[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences in connection with requests for authorisations[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 3. Offences in connection with requests for authorisations[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 4. Information[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 5. Penalties[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Proceedings[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 6. Proceedings[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## 7. Revocations[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Instruments that amend Council Regulation [(EC) No 1763/2004](https://www.legislation.gov.uk/eur/2004/1763) of 11th October 2004[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## SCHEDULE 1 — Instruments that amend Council Regulation [(EC) No 1763/2004](https://www.legislation.gov.uk/eur/2004/1763) of 11th October 2004[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 Regulation 1(2)
 
-**1.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Information obtained by the requesting authority[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]
+## SCHEDULE 2 — Information obtained by the requesting authority[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]
 
 Regulation 4
 
-**1.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fcfbb7cf4ef76f6a1be1cc69de9f1459]: Textual amendment: Regulations revoked (4.7.2012) by [The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) (Revocation) Regulations 2012 (S.I. 2012/1510)](https://www.legislation.gov.uk/uksi/2012/1510), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1510/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1510/regulation/2)
+[^c-fcfbb7cf4ef76f6a1be1cc69de9f1459]: Textual amendment: Regulations revoked (4.7.2012) by [The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) (Revocation) Regulations 2012 (S.I. 2012/1510)](https://www.legislation.gov.uk/uksi/2012/1510), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1510/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1510/regulation/2)

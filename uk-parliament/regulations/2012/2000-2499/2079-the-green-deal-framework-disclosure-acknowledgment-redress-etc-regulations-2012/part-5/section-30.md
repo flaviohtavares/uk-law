@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Instalments not to exceed savings[^key-676d75c665de1d279a583c1041cb9794]
+## 30. Instalments not to exceed savings[^c-676d75c665de1d279a583c1041cb9794]
 
 *Extent: E+W+S*
 
@@ -35,14 +35,14 @@ summary: ''
 
 (5) The improvement-specific payment period must not exceed the improvement-specific savings period.
 
-(6) In this regulation “first year instalments” means the estimated total of instalments that are proposed to be payable in the 12 months commencing on the date with effect from which instalments are to be included in electricity bills for the property[^key-af48df4c464555266fd4c4d298bc6146].
+(6) In this regulation “first year instalments” means the estimated total of instalments that are proposed to be payable in the 12 months commencing on the date with effect from which instalments are to be included in electricity bills for the property[^c-af48df4c464555266fd4c4d298bc6146].
 
 ## Annotations
 
-[^key-676d75c665de1d279a583c1041cb9794]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/2079/regulation/30) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-676d75c665de1d279a583c1041cb9794]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/2079/regulation/30) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
 
 [^f00027]: Footnote: This is the seventh condition for the purpose of section 4(8) of the Act.
 
 [^f00028]: Footnote: This is the eighth condition for the purpose of section 4(9) of the Act.
 
-[^key-af48df4c464555266fd4c4d298bc6146]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/30/6) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/139/regulation/6)
+[^c-af48df4c464555266fd4c4d298bc6146]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/30/6) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/139/regulation/6)

@@ -32,7 +32,7 @@ summary: ''
 
 Energy
 
-The Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2016 (revoked)[^key-03f7e0607cf30cdea57393c5ac95d925]
+The Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2016 (revoked)[^c-03f7e0607cf30cdea57393c5ac95d925]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2017
 
-[^key-03f7e0607cf30cdea57393c5ac95d925]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03f7e0607cf30cdea57393c5ac95d925]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-03f7e0607cf30cdea57393c5ac95d925]
+## 1. Citation and commencement[^c-03f7e0607cf30cdea57393c5ac95d925]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-03f7e0607cf30cdea57393c5ac95d925]
+## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^c-03f7e0607cf30cdea57393c5ac95d925]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03f7e0607cf30cdea57393c5ac95d925]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03f7e0607cf30cdea57393c5ac95d925]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-03f7e0607cf30cdea57393c5ac95d925]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03f7e0607cf30cdea57393c5ac95d925]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03f7e0607cf30cdea57393c5ac95d925]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(k)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/k) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-03f7e0607cf30cdea57393c5ac95d925]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(k)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/k) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Protection of air crew from cosmic radiation[^key-c85e56241197cb6df360d91512309ec7]
+## 83. Protection of air crew from cosmic radiation[^c-c85e56241197cb6df360d91512309ec7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c85e56241197cb6df360d91512309ec7]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2015/870/article/83) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-c85e56241197cb6df360d91512309ec7]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2015/870/article/83) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
 [^f00008]: Footnote: O.J. No. L 159, 29.6.96, p.1.

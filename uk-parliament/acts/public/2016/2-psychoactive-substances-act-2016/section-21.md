@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Applications for prohibition orders and premises orders[^key-3931effc43e039a1459613e4a08e04c0]
+## 21. Applications for prohibition orders and premises orders[^c-3931effc43e039a1459613e4a08e04c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ This is subject to subsection (2).
 
 ## Annotations
 
-[^key-3931effc43e039a1459613e4a08e04c0]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/2/section/21) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-3931effc43e039a1459613e4a08e04c0]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/2/section/21) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

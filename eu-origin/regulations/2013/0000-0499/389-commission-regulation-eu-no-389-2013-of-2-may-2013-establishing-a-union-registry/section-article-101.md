@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 101. Detection of discrepancies[^key-65259ebaca6bc449a14aa090f51043c9]
+## Article 101. Detection of discrepancies[^c-65259ebaca6bc449a14aa090f51043c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65259ebaca6bc449a14aa090f51043c9]: Textual amendment: [Arts. 100-103](https://www.legislation.gov.uk/eur/2013/389/article/100) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(11)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/11)
+[^c-65259ebaca6bc449a14aa090f51043c9]: Textual amendment: [Arts. 100-103](https://www.legislation.gov.uk/eur/2013/389/article/100) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(11)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/11)

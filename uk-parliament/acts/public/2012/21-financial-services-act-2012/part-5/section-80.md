@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Statements of policy[^key-f447e020ee4c29589d955532399ce486][^key-9bd0d9d4d3baea6c187ea3b883860488]
+## 80. Statements of policy[^c-f447e020ee4c29589d955532399ce486][^c-9bd0d9d4d3baea6c187ea3b883860488]
 
 *Extent: E+W+S+N.I.*
 
 (1) Each regulator must prepare and issue a statement of its policy with respect to the exercise of its functions under sections 73 to 79 (“the relevant sections”) and, in particular—
 
-- (a) the matters it will take into account in determining whether the conditions which give rise to its duty to carry out an investigation under section 73 , 74 or 76A[^key-ad932a48b1089d8449ef8c83d05f809a] (as the case may be) are met, and
+- (a) the matters it will take into account in determining whether the conditions which give rise to its duty to carry out an investigation under section 73 , 74 or 76A[^c-ad932a48b1089d8449ef8c83d05f809a] (as the case may be) are met, and
 - (b) how it will carry out investigations under the relevant sections.
 
 (2) A regulator may at any time alter or replace a statement issued by it under this section.
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f447e020ee4c29589d955532399ce486]: Commencement: S. 80 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-f447e020ee4c29589d955532399ce486]: Commencement: S. 80 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-9bd0d9d4d3baea6c187ea3b883860488]: Commencement: S. 80 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9bd0d9d4d3baea6c187ea3b883860488]: Commencement: S. 80 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-ad932a48b1089d8449ef8c83d05f809a]: Textual amendment: Words in s. 80(1)(a) substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/8), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-ad932a48b1089d8449ef8c83d05f809a]: Textual amendment: Words in s. 80(1)(a) substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/8), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

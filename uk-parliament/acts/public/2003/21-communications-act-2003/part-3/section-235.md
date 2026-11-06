@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Licensing of television licensable content services[^key-0e47920c24f5fb6926dc0a84b97c413d]
+## 235. Licensing of television licensable content services[^c-0e47920c24f5fb6926dc0a84b97c413d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ as OFCOM may determine.
 
 (6) A licence to provide a television licensable content service shall continue in force until such time as it is surrendered or is revoked in accordance with any of the provisions of this Chapter or of the 1990 Act.
 
-(7)[^key-a6e48069b35c044bc76e71e6f683b45e] A licence to provide a television licensable content service must contain such conditions as OFCOM consider appropriate for requiring the licence holder—
+(7)[^c-a6e48069b35c044bc76e71e6f683b45e] A licence to provide a television licensable content service must contain such conditions as OFCOM consider appropriate for requiring the licence holder—
 
 - (a) on entering into any agreement with the provider of a radio multiplex service for the provision of a television licensable content service to be broadcast by means of that multiplex service, to notify OFCOM—
   - (i) of the identity of the radio multiplex service;
@@ -53,15 +53,15 @@ as OFCOM may determine.
 - (b) when any such agreement is varied so far as it relates to any of the matters mentioned in paragraph (a)(i), (ii) or (iii), to notify OFCOM of the variation so far as relating to those matters; and
 - (c) where he is providing a television licensable content service to the provider of a radio multiplex service in accordance with such an agreement as is mentioned in paragraph (a) but intends to cease doing so, to notify OFCOM of that fact.
 
-(8)[^key-1006ea81415ed3210d7c5a9562068e15] A licence to provide a television licensable content service which authorises the provision of an electronic programme guide (“the guide”) must also include such conditions as OFCOM consider appropriate for ensuring that, at any time when the guide is a regulated electronic programme guide as defined by section 211A, the only television programme services that are listed or promoted by, or which can be accessed through, the guide are television programme services that—
+(8)[^c-1006ea81415ed3210d7c5a9562068e15] A licence to provide a television licensable content service which authorises the provision of an electronic programme guide (“the guide”) must also include such conditions as OFCOM consider appropriate for ensuring that, at any time when the guide is a regulated electronic programme guide as defined by section 211A, the only television programme services that are listed or promoted by, or which can be accessed through, the guide are television programme services that—
 
 - (a) are provided by or under a licence under this Part, or
 - (b) do not fall, in pursuance of section 211(1) of the Communications Act 2003, to be regulated by OFCOM.
 
 ## Annotations
 
-[^key-0e47920c24f5fb6926dc0a84b97c413d]: Commencement: S. 235 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0e47920c24f5fb6926dc0a84b97c413d]: Commencement: S. 235 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a6e48069b35c044bc76e71e6f683b45e]: Textual amendment: S. 235(7) inserted (25.7.2006) by [Television Licensable Content Services Order 2006 (S.I. 2006/2131)](https://www.legislation.gov.uk/uksi/2006/2131), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2131/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/2131/article/3)
+[^c-a6e48069b35c044bc76e71e6f683b45e]: Textual amendment: S. 235(7) inserted (25.7.2006) by [Television Licensable Content Services Order 2006 (S.I. 2006/2131)](https://www.legislation.gov.uk/uksi/2006/2131), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2131/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/2131/article/3)
 
-[^key-1006ea81415ed3210d7c5a9562068e15]: Textual amendment: S. 235(8) inserted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/22) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1006ea81415ed3210d7c5a9562068e15]: Textual amendment: S. 235(8) inserted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/22) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

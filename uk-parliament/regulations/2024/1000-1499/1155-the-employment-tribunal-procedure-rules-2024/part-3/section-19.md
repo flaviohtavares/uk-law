@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Rejection: response form presented late[^key-2bbe3a6271bbf4ec32e712eed0d352e2]
+## 19. Rejection: response form presented late[^c-2bbe3a6271bbf4ec32e712eed0d352e2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bbe3a6271bbf4ec32e712eed0d352e2]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2024/1155/rule/19) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-2bbe3a6271bbf4ec32e712eed0d352e2]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2024/1155/rule/19) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Issue of duplicate vehicle, trade and nil licences[^key-8355385c39fb0f63a0720631db410689]
+## 8. Issue of duplicate vehicle, trade and nil licences[^c-8355385c39fb0f63a0720631db410689]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8355385c39fb0f63a0720631db410689]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2002/2742/regulation/8) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/4)
+[^c-8355385c39fb0f63a0720631db410689]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2002/2742/regulation/8) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/4)

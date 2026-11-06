@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Sheriff officer’s fees and outlays.[^key-324b8c71bee697ff20c6749600a4e1e5]
+## 63A. Sheriff officer’s fees and outlays.[^c-324b8c71bee697ff20c6749600a4e1e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-324b8c71bee697ff20c6749600a4e1e5]: Textual amendment: S. 63A omitted (23.11.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 12(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/12/b); [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3)
+[^c-324b8c71bee697ff20c6749600a4e1e5]: Textual amendment: S. 63A omitted (23.11.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 12(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/12/b); [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3)

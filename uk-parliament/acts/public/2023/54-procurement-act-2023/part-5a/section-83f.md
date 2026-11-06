@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83F. Power of Scottish Ministers to amend this Part[^key-8f0cd20fd1e65d18dfb4381a150f7a6a]
+## 83F. Power of Scottish Ministers to amend this Part[^c-8f0cd20fd1e65d18dfb4381a150f7a6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations modify section 83A, 83B or 83E in cons
 
 ## Annotations
 
-[^key-8f0cd20fd1e65d18dfb4381a150f7a6a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2023/54/part/5A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-8f0cd20fd1e65d18dfb4381a150f7a6a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2023/54/part/5A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)

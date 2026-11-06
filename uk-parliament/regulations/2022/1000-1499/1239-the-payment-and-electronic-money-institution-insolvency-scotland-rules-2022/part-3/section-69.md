@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Functions and meetings of the creditors’ committee[^key-0bab0bd27b8e1ed06733ac740eefb2c7]
+## 69. Functions and meetings of the creditors’ committee[^c-0bab0bd27b8e1ed06733ac740eefb2c7]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bab0bd27b8e1ed06733ac740eefb2c7]: Commencement: Rule 69 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0bab0bd27b8e1ed06733ac740eefb2c7]: Commencement: Rule 69 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

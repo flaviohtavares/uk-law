@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Certification of plans etc.[^key-67eb9eb3766e7f0282a7ef5a81564a7a]
+## 47. Certification of plans etc.[^c-67eb9eb3766e7f0282a7ef5a81564a7a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Company must, as soon as practicable after the making of this Order, submit 
 
 ## Annotations
 
-[^key-67eb9eb3766e7f0282a7ef5a81564a7a]: Commencement: Art. 47 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-67eb9eb3766e7f0282a7ef5a81564a7a]: Commencement: Art. 47 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

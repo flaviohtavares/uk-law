@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 311. Modification or revocation of planning permission[^key-50962a85837d81ff8aff8de202d0d6bd]
+## 311. Modification or revocation of planning permission[^c-50962a85837d81ff8aff8de202d0d6bd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Section 102 and Schedule 7 (modification or revocation of planning permission) h
 
 ## Annotations
 
-[^key-50962a85837d81ff8aff8de202d0d6bd]: Commencement: S. 311 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-50962a85837d81ff8aff8de202d0d6bd]: Commencement: S. 311 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

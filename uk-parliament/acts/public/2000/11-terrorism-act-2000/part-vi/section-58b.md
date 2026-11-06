@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58B. Entering or remaining in a designated area[^key-d436da89ce382dc5b49786e65737d43b]
+## 58B. Entering or remaining in a designated area[^c-d436da89ce382dc5b49786e65737d43b]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d436da89ce382dc5b49786e65737d43b]: Textual amendment: Ss. 58B, 58C and cross-heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-d436da89ce382dc5b49786e65737d43b]: Textual amendment: Ss. 58B, 58C and cross-heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)

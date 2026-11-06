@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 215. St Arvans — community electoral arrangements[^key-ec1fd4f91ade32fbbaa35c71bfba8e9b][^key-a5b19413b769e21069eddb9261cd9289]
+## 215. St Arvans — community electoral arrangements[^c-ec1fd4f91ade32fbbaa35c71bfba8e9b][^c-a5b19413b769e21069eddb9261cd9289]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the community of St Arvans the number of councillors to be elected for St Arv
 
 ## Annotations
 
-[^key-ec1fd4f91ade32fbbaa35c71bfba8e9b]: Commencement: Art. 215 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-ec1fd4f91ade32fbbaa35c71bfba8e9b]: Commencement: Art. 215 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-a5b19413b769e21069eddb9261cd9289]: Commencement: [Art. 215](https://www.legislation.gov.uk/wsi/2021/1227/article/215) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-a5b19413b769e21069eddb9261cd9289]: Commencement: [Art. 215](https://www.legislation.gov.uk/wsi/2021/1227/article/215) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

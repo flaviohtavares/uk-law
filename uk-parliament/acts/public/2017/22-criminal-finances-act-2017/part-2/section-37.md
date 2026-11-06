@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Further information orders[^key-bfdb62416f7f14e8c0f6cdd20a3733a7][^c22725401]
+## 37. Further information orders[^c-bfdb62416f7f14e8c0f6cdd20a3733a7][^c22725401]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,6 +144,6 @@ After section 22A of the Terrorism Act 2000 insert—
 
 ## Annotations
 
-[^key-bfdb62416f7f14e8c0f6cdd20a3733a7]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/22/section/37) in force at 31.10.2017 in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/g) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/3))
+[^c-bfdb62416f7f14e8c0f6cdd20a3733a7]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/22/section/37) in force at 31.10.2017 in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/g) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/3))
 
 [^c22725401]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/22/section/37) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Revision of the statement of proposals[^key-fac7f7ae580ff1f331dac3bc527e8f40]
+## 30. Revision of the statement of proposals[^c-fac7f7ae580ff1f331dac3bc527e8f40]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fac7f7ae580ff1f331dac3bc527e8f40]: Commencement: Rule 30 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-fac7f7ae580ff1f331dac3bc527e8f40]: Commencement: Rule 30 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

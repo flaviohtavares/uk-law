@@ -43,16 +43,16 @@ The Office of Communications (“OFCOM”), makes the following Regulations in e
 
 Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement[^key-4c9e33fcb44be6610097cd2c262752b8]
+## 1. Citation and commencement[^c-4c9e33fcb44be6610097cd2c262752b8]
 
 These Regulations may be cited as the Wireless Telegraphy (Exemption) Regulations 2021 and shall come into force on 12th May 2021.
 
-## 2. Interpretation[^key-2f1907e373557d7ef7c166d0ab535efc]
+## 2. Interpretation[^c-2f1907e373557d7ef7c166d0ab535efc]
 
 In these Regulations—
 
 - “**the Act**” means the Wireless Telegraphy Act 2006; and
-- autonomous maritime radio device” means a mobile wireless telegraphy station or wireless telegraphy apparatus which transmits independently of any wireless telegraphy ship station or coast station, (and is not used for the purpose of safety of navigation of the vessel) that is—[^key-6860ba20c8bf68bb843ae2cda09e0914]
+- autonomous maritime radio device” means a mobile wireless telegraphy station or wireless telegraphy apparatus which transmits independently of any wireless telegraphy ship station or coast station, (and is not used for the purpose of safety of navigation of the vessel) that is—[^c-6860ba20c8bf68bb843ae2cda09e0914]
   - (a) operating within the UK territorial sea; or
   - (b) where not operating within the UK territorial sea, released from—
     - (i) within the United Kingdom or UK territorial sea; or
@@ -62,54 +62,54 @@ In these Regulations—
 - “**indoors**” means inside premises which—
   - (a) have a ceiling or a roof; and
   - (b) except for any doors, windows or passageways, are wholly enclosed
-- “MHz” means megahertz; and[^key-4d6f946fa66c2ff6fba0ca8d5a02e4ad]
+- “MHz” means megahertz; and[^c-4d6f946fa66c2ff6fba0ca8d5a02e4ad]
 - “non-geostationary satellite” means a satellite that does not remain fixed relative to a position on the surface of the earth.
 
-## 3. Revocations[^key-8796db77886d3af10364a8c3dfeb0f70]
+## 3. Revocations[^c-8796db77886d3af10364a8c3dfeb0f70]
 
 The Regulations specified in the Schedule are revoked to the extent specified.
 
-## 4. Short range devices[^key-fae4dcfdac83dd5aa393ea8150550a7e]
+## 4. Short range devices[^c-fae4dcfdac83dd5aa393ea8150550a7e]
 
-The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with an interface requirement which forms part of the publication “IR 2030 – UK Interface Requirement 2030, Licence Exempt Short Range Devices (SRDs)”[^key-7161a29e9f4086e245493552afb57004], published by OFCOM in April 2026, is exempt from the provisions of section 8(1) of the Act, if—
+The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with an interface requirement which forms part of the publication “IR 2030 – UK Interface Requirement 2030, Licence Exempt Short Range Devices (SRDs)”[^c-7161a29e9f4086e245493552afb57004], published by OFCOM in April 2026, is exempt from the provisions of section 8(1) of the Act, if—
 
 - (a) it does not cause or contribute to any undue interference to any wireless telegraphy; and
 - (b) in cases where the interface requirement does not state that airborne use is permitted, use is not airborne.
 
-## 5. Fixed wireless systems[^key-50948b212f6e5f0cd31f4a562fdcd4f8][^key-fedc743926a41e2a66547bd4eb4b1468]
+## 5. Fixed wireless systems[^c-50948b212f6e5f0cd31f4a562fdcd4f8][^c-fedc743926a41e2a66547bd4eb4b1468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. High density fixed satellite service systems[^key-fede80d64b75e83239834e36e2313855]
+## 6. High density fixed satellite service systems[^c-fede80d64b75e83239834e36e2313855]
 
-The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with the interface requirements which form part of the publication “IR 2066 – UK Interface Requirement 2066, High Density Fixed Satellite Service Systems (HDFSS)”[^key-5c95725f0c5d87886ed94c6b7c698058], published by OFCOM in April 2026, is exempt from the provision of section 8(1) of the Act, if—
+The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with the interface requirements which form part of the publication “IR 2066 – UK Interface Requirement 2066, High Density Fixed Satellite Service Systems (HDFSS)”[^c-5c95725f0c5d87886ed94c6b7c698058], published by OFCOM in April 2026, is exempt from the provision of section 8(1) of the Act, if—
 
-- (a) it does not cause or contribute to any undue interference to any wireless telegraphy; [^key-86bef32edd696cbe5c5e6f68b0d2ae3c]...
-- (b) use is not airborne ; and[^key-6840e1b88ed4eb03b0fd38b93552bd1f]
-- (c)[^key-27392619e838cc9f867b9067387a64c4] it is not connected to a non-geostationary satellite.
+- (a) it does not cause or contribute to any undue interference to any wireless telegraphy; [^c-86bef32edd696cbe5c5e6f68b0d2ae3c]...
+- (b) use is not airborne ; and[^c-6840e1b88ed4eb03b0fd38b93552bd1f]
+- (c)[^c-27392619e838cc9f867b9067387a64c4] it is not connected to a non-geostationary satellite.
 
-## 7. Personal locator beacons[^key-2aa78fa896573c7b50b9f3e260d83acc]
+## 7. Personal locator beacons[^c-2aa78fa896573c7b50b9f3e260d83acc]
 
-The use of wireless telegraphy apparatus in the frequency band 406 to 406.1 megahertz complying with the interface requirements which form part of the publication “IR 2084 – UK Interface Requirement 2084 Cospas-Sarsat locator beacons for use on land”, published by OFCOM in June 2021[^key-103287c545a08eda0a32e39e2be93cd6], is exempt from the provisions of section 8(1) of the Act, if—
+The use of wireless telegraphy apparatus in the frequency band 406 to 406.1 megahertz complying with the interface requirements which form part of the publication “IR 2084 – UK Interface Requirement 2084 Cospas-Sarsat locator beacons for use on land”, published by OFCOM in June 2021[^c-103287c545a08eda0a32e39e2be93cd6], is exempt from the provisions of section 8(1) of the Act, if—
 
 - (a) it does not cause or contribute to any undue interference to any wireless telegraphy;
 - (b) use is not airborne; and
 - (c) it is not used on board a ship.
 
-## 8. Earth stations in motion[^key-d82c7b3cf9f2a9872d93ac928491b616][^key-7d0dc060e3cb70fdb965dbf2dfd0aeaa]
+## 8. Earth stations in motion[^c-d82c7b3cf9f2a9872d93ac928491b616][^c-7d0dc060e3cb70fdb965dbf2dfd0aeaa]
 
-The use of wireless telegraphy apparatus complying with the interface requirements which form part of the publication “UK Interface Requirement (IR) 2093 Earth Stations in Motion”[^key-e2dcb98de1c93608e20ee7ce75a760ee], published by OFCOM in March 2023, is exempt from the provisions of sections 8(1) of the Act, if—
+The use of wireless telegraphy apparatus complying with the interface requirements which form part of the publication “UK Interface Requirement (IR) 2093 Earth Stations in Motion”[^c-e2dcb98de1c93608e20ee7ce75a760ee], published by OFCOM in March 2023, is exempt from the provisions of sections 8(1) of the Act, if—
 
 - (a) it does not cause or contribute to any undue interference to any wireless telegraphy;
-- (b) it is not used on board an aircraft and use is not otherwise airborne; [^key-b22943d559150c67390474fd1401b49f]...
-- (c) it is not used on board a ship ; and[^key-c07c1cc4c09f378b43da2437047158f1]
-- (d)[^key-211c68673aa02f23e25dae82ac6161cc] it is not connected to a non-geostationary satellite.
+- (b) it is not used on board an aircraft and use is not otherwise airborne; [^c-b22943d559150c67390474fd1401b49f]...
+- (c) it is not used on board a ship ; and[^c-c07c1cc4c09f378b43da2437047158f1]
+- (d)[^c-211c68673aa02f23e25dae82ac6161cc] it is not connected to a non-geostationary satellite.
 
-## 9. Citizens' Band Radio Equipment[^key-2d736a449c8872d7dd5c2a6140291270]
+## 9. Citizens' Band Radio Equipment[^c-2d736a449c8872d7dd5c2a6140291270]
 
-The use of wireless telegraphy apparatus complying with the interface requirements which form part of the publication “IR 2027.2 – UK Radio Interface Requirement 2027.2 for AM/SSB and DSB use in the Citizens’ Band Radio Service”, published by OFCOM in June 2021[^key-cd5302d03f1853456c5af949f3a45cac], is exempt from the provisions of section 8(1) of the Act, if it does not cause or contribute to any undue interference to any wireless telegraphy.
+The use of wireless telegraphy apparatus complying with the interface requirements which form part of the publication “IR 2027.2 – UK Radio Interface Requirement 2027.2 for AM/SSB and DSB use in the Citizens’ Band Radio Service”, published by OFCOM in June 2021[^c-cd5302d03f1853456c5af949f3a45cac], is exempt from the provisions of section 8(1) of the Act, if it does not cause or contribute to any undue interference to any wireless telegraphy.
 
-## 10. Safety related intelligent transport systems[^key-49711cf8e3945ebbd2de101d2d2eefcd]
+## 10. Safety related intelligent transport systems[^c-49711cf8e3945ebbd2de101d2d2eefcd]
 
 (1) The establishment, installation and use of wireless telegraphy stations or wireless telegraphy apparatus within the frequency band 5875 MHz to 5925 MHz is exempt from the provisions of section 8(1) of the Act, if—
 
@@ -119,7 +119,7 @@ The use of wireless telegraphy apparatus complying with the interface requiremen
 
 (2) In paragraph (1)(c) “**intelligent transport system**” means a system or service, based on information and communication technologies, including processing, control, positioning, communication and electronics, that is applied to a road transportation system.
 
-## 11. Autonomous maritime radio devices[^key-44cb912971ca66b21cb836088a427b81]
+## 11. Autonomous maritime radio devices[^c-44cb912971ca66b21cb836088a427b81]
 
 The establishment, installation and use of an autonomous maritime radio device on the frequency 160.9 MHz is exempt from the provisions of section 8(1) of the Act, if—
 
@@ -150,7 +150,7 @@ Group Director, Spectrum Group
 
 Office of Communications
 
-## SCHEDULE — Revocations[^key-f3cd02a0308db02c360751f610d513b0]
+## SCHEDULE — Revocations[^c-f3cd02a0308db02c360751f610d513b0]
 
 Regulation 3
 
@@ -188,56 +188,56 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c24496311]: Marginal citation: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36). Section 8(3) and section 122(7) were extended to the Bailiwick of Guernsey by Article 2 of the [Wireless Telegraphy (Guernsey) Order 2006 (S.I. 2006/3324)](https://www.legislation.gov.uk/uksi/2006/3324); and to the Isle of Man by Article 2 of the [Wireless Telegraphy (Isle of Man) Order 2007 (S.I. 2007/278)](https://www.legislation.gov.uk/uksi/2007/278).
 
-[^key-4c9e33fcb44be6610097cd2c262752b8]: Commencement: Reg. 1 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-4c9e33fcb44be6610097cd2c262752b8]: Commencement: Reg. 1 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-2f1907e373557d7ef7c166d0ab535efc]: Commencement: Reg. 2 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-2f1907e373557d7ef7c166d0ab535efc]: Commencement: Reg. 2 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-6860ba20c8bf68bb843ae2cda09e0914]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/493/regulation/2) inserted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/2)
+[^c-6860ba20c8bf68bb843ae2cda09e0914]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/493/regulation/2) inserted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/2)
 
-[^key-4d6f946fa66c2ff6fba0ca8d5a02e4ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/493/regulation/2) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/2)
+[^c-4d6f946fa66c2ff6fba0ca8d5a02e4ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/493/regulation/2) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/2)
 
-[^key-8796db77886d3af10364a8c3dfeb0f70]: Commencement: Reg. 3 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-8796db77886d3af10364a8c3dfeb0f70]: Commencement: Reg. 3 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-fae4dcfdac83dd5aa393ea8150550a7e]: Commencement: Reg. 4 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-fae4dcfdac83dd5aa393ea8150550a7e]: Commencement: Reg. 4 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-7161a29e9f4086e245493552afb57004]: Textual amendment: Words in reg. 4 substituted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/3)
+[^c-7161a29e9f4086e245493552afb57004]: Textual amendment: Words in reg. 4 substituted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/3)
 
-[^key-50948b212f6e5f0cd31f4a562fdcd4f8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/493/regulation/5) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/4)
+[^c-50948b212f6e5f0cd31f4a562fdcd4f8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/493/regulation/5) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/4)
 
-[^key-fedc743926a41e2a66547bd4eb4b1468]: Commencement: Reg. 5 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-fedc743926a41e2a66547bd4eb4b1468]: Commencement: Reg. 5 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-fede80d64b75e83239834e36e2313855]: Commencement: Reg. 6 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-fede80d64b75e83239834e36e2313855]: Commencement: Reg. 6 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-5c95725f0c5d87886ed94c6b7c698058]: Textual amendment: Words in reg. 6 substituted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/4)
+[^c-5c95725f0c5d87886ed94c6b7c698058]: Textual amendment: Words in reg. 6 substituted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/4)
 
-[^key-86bef32edd696cbe5c5e6f68b0d2ae3c]: Textual amendment: Word in reg. 6(a) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/5/b)
+[^c-86bef32edd696cbe5c5e6f68b0d2ae3c]: Textual amendment: Word in reg. 6(a) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/5/b)
 
-[^key-6840e1b88ed4eb03b0fd38b93552bd1f]: Textual amendment: Word in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2021/493/regulation/6/b) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/5/c)
+[^c-6840e1b88ed4eb03b0fd38b93552bd1f]: Textual amendment: Word in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2021/493/regulation/6/b) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/5/c)
 
-[^key-27392619e838cc9f867b9067387a64c4]: Textual amendment: Reg. 6(c) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(5)(d)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/5/d)
+[^c-27392619e838cc9f867b9067387a64c4]: Textual amendment: Reg. 6(c) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(5)(d)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/5/d)
 
-[^key-2aa78fa896573c7b50b9f3e260d83acc]: Commencement: Reg. 7 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-2aa78fa896573c7b50b9f3e260d83acc]: Commencement: Reg. 7 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-103287c545a08eda0a32e39e2be93cd6]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2021/493/regulation/7) substituted (30.8.2021) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021 (S.I. 2021/948)](https://www.legislation.gov.uk/uksi/2021/948), [regs. 1](https://www.legislation.gov.uk/uksi/2021/948/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/948/regulation/3/5)
+[^c-103287c545a08eda0a32e39e2be93cd6]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2021/493/regulation/7) substituted (30.8.2021) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021 (S.I. 2021/948)](https://www.legislation.gov.uk/uksi/2021/948), [regs. 1](https://www.legislation.gov.uk/uksi/2021/948/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/948/regulation/3/5)
 
-[^key-d82c7b3cf9f2a9872d93ac928491b616]: Commencement: Reg. 8 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-d82c7b3cf9f2a9872d93ac928491b616]: Commencement: Reg. 8 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-7d0dc060e3cb70fdb965dbf2dfd0aeaa]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2021/493/regulation/8) heading substituted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/a)
+[^c-7d0dc060e3cb70fdb965dbf2dfd0aeaa]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2021/493/regulation/8) heading substituted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/a)
 
-[^key-e2dcb98de1c93608e20ee7ce75a760ee]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2021/493/regulation/8) substituted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/b)
+[^c-e2dcb98de1c93608e20ee7ce75a760ee]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2021/493/regulation/8) substituted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/b)
 
-[^key-b22943d559150c67390474fd1401b49f]: Textual amendment: Word in [reg. 8(b)](https://www.legislation.gov.uk/uksi/2021/493/regulation/8/b) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/c)
+[^c-b22943d559150c67390474fd1401b49f]: Textual amendment: Word in [reg. 8(b)](https://www.legislation.gov.uk/uksi/2021/493/regulation/8/b) omitted (23.3.2023) by virtue of [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/c)
 
-[^key-c07c1cc4c09f378b43da2437047158f1]: Textual amendment: Word in [reg. 8(c)](https://www.legislation.gov.uk/uksi/2021/493/regulation/8/c) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/d)
+[^c-c07c1cc4c09f378b43da2437047158f1]: Textual amendment: Word in [reg. 8(c)](https://www.legislation.gov.uk/uksi/2021/493/regulation/8/c) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/d)
 
-[^key-211c68673aa02f23e25dae82ac6161cc]: Textual amendment: [Reg. 8(d)](https://www.legislation.gov.uk/uksi/2021/493/regulation/8/d) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(e)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/e)
+[^c-211c68673aa02f23e25dae82ac6161cc]: Textual amendment: [Reg. 8(d)](https://www.legislation.gov.uk/uksi/2021/493/regulation/8/d) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(6)(e)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/6/e)
 
-[^key-2d736a449c8872d7dd5c2a6140291270]: Commencement: Reg. 9 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-2d736a449c8872d7dd5c2a6140291270]: Commencement: Reg. 9 in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
 
-[^key-cd5302d03f1853456c5af949f3a45cac]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2021/493/regulation/9) substituted (30.8.2021) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021 (S.I. 2021/948)](https://www.legislation.gov.uk/uksi/2021/948), [regs. 1](https://www.legislation.gov.uk/uksi/2021/948/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2021/948/regulation/3/7)
+[^c-cd5302d03f1853456c5af949f3a45cac]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2021/493/regulation/9) substituted (30.8.2021) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021 (S.I. 2021/948)](https://www.legislation.gov.uk/uksi/2021/948), [regs. 1](https://www.legislation.gov.uk/uksi/2021/948/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2021/948/regulation/3/7)
 
-[^key-49711cf8e3945ebbd2de101d2d2eefcd]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/493/regulation/10) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/7)
+[^c-49711cf8e3945ebbd2de101d2d2eefcd]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/493/regulation/10) inserted (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2023/243/regulation/4/7)
 
-[^key-44cb912971ca66b21cb836088a427b81]: Textual amendment: [Regs. 11-13](https://www.legislation.gov.uk/uksi/2021/493/regulation/11) inserted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/5)
+[^c-44cb912971ca66b21cb836088a427b81]: Textual amendment: [Regs. 11-13](https://www.legislation.gov.uk/uksi/2021/493/regulation/11) inserted (29.4.2026) by [The Wireless Telegraphy (Exemption) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/396)](https://www.legislation.gov.uk/uksi/2026/396), [regs. 1](https://www.legislation.gov.uk/uksi/2026/396/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/396/regulation/2/5)
 
-[^key-f3cd02a0308db02c360751f610d513b0]: Commencement: Sch. in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)
+[^c-f3cd02a0308db02c360751f610d513b0]: Commencement: Sch. in force at 12.5.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1)

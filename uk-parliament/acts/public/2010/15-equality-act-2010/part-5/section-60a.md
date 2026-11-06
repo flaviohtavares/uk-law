@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Discriminatory statements[^key-538aa0ab9027833e18d90e232cce3a14]
+## 60A. Discriminatory statements[^c-538aa0ab9027833e18d90e232cce3a14]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ is to be treated for the purposes of this section as if made by A if there are r
 
 ## Annotations
 
-[^key-538aa0ab9027833e18d90e232cce3a14]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2010/15/section/60A) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/4)
+[^c-538aa0ab9027833e18d90e232cce3a14]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2010/15/section/60A) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/4)

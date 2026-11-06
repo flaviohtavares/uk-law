@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Staff disciplinary and dismissal committee and disciplinary and dismissal appeals committee[^key-2b9441dbf730652166012893e3e19f16]
+## 67. Staff disciplinary and dismissal committee and disciplinary and dismissal appeals committee[^c-2b9441dbf730652166012893e3e19f16]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b9441dbf730652166012893e3e19f16]: Commencement: Reg. 67 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-2b9441dbf730652166012893e3e19f16]: Commencement: Reg. 67 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

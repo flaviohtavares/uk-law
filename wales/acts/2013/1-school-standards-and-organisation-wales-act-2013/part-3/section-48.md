@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Publication and consultation[^key-52acf5481a1801f7487a0fa8be8b9372]
+## 48. Publication and consultation[^c-52acf5481a1801f7487a0fa8be8b9372]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52acf5481a1801f7487a0fa8be8b9372]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2013/1/section/48) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-52acf5481a1801f7487a0fa8be8b9372]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2013/1/section/48) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

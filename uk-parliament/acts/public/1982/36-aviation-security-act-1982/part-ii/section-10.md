@@ -33,7 +33,7 @@ summary: ''
 
 the offence of murder, attempted murder, manslaughter, culpable homicide or assault, or an offence under section 18, 20, 21, 22, 23, 24, 28 or 29 of the Offences against the [^c794545]Person Act 1861, under section 2 of the [^c794546]Explosive Substances Act 1883 or under section 1 of the [^c794547]Criminal Damage Act 1971 or, in Scotland, the offence of malicious mischief.
 
-(3)[^key-f19a2e1f21ac2c1535342a6edf1b75ba] The purpose of protecting civil aviation against acts of unlawful interference that jeopardise the security of civil aviation is to be treated as a purpose to which this Part applies (in so far as it is not a purpose to which this Part applies by virtue of subsection (1)).
+(3)[^c-f19a2e1f21ac2c1535342a6edf1b75ba] The purpose of protecting civil aviation against acts of unlawful interference that jeopardise the security of civil aviation is to be treated as a purpose to which this Part applies (in so far as it is not a purpose to which this Part applies by virtue of subsection (1)).
 
 (4) The reference in subsection (3) to protecting civil aviation against acts of unlawful interference that jeopardise the security of civil aviation has the same meaning as in the Framework Regulation.
 
@@ -51,4 +51,4 @@ the offence of murder, attempted murder, manslaughter, culpable homicide or assa
 
 [^c794547]: Marginal citation: [1971 c. 48](https://www.legislation.gov.uk/ukpga/1971/48)
 
-[^key-f19a2e1f21ac2c1535342a6edf1b75ba]: Textual amendment: S. 10(3)(4) added (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/902/regulation/4)
+[^c-f19a2e1f21ac2c1535342a6edf1b75ba]: Textual amendment: S. 10(3)(4) added (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/902/regulation/4)

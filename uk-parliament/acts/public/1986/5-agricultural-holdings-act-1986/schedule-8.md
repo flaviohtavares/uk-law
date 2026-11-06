@@ -32,27 +32,27 @@ Sections 64, 65, etc.
 
 **4.** Liming (including chalking) of land.
 
-**4A.**[^key-5dca5a1cb08aba00326bd1db02acdf7d] Application to land in England of manure, fertiliser, soil improvers and digestate.
+**4A.**[^c-5dca5a1cb08aba00326bd1db02acdf7d] Application to land in England of manure, fertiliser, soil improvers and digestate.
 
-**4B.**[^key-3882047289e7d578962111de734b1768] Application to land in Wales of manure, fertiliser, soil improvers and digestate.
+**4B.**[^c-3882047289e7d578962111de734b1768] Application to land in Wales of manure, fertiliser, soil improvers and digestate.
 
-**5.**[^key-94904f231faf39041dcfff95c62b895d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-94904f231faf39041dcfff95c62b895d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5A.**[^key-621fba428fb8ce8f488d47215afed5cc] (1) In relation to England, production of manure arising from the consumption on the holding of relevant feedingstuff by livestock and equidae where the manure is held in storage on the holding.
-
-(2) In this paragraph “relevant feedingstuff” means—
-
-- (a) corn (whether produced on the holding or not), or
-- (b) cake or other feedingstuff not produced on the holding.
-
-**5B.**[^key-16d89a92f0d17a24ee140e72ca92f382] (1) In relation to Wales, production of manure arising from the consumption on the holding of relevant feedingstuff by livestock and equidae where the manure is held in storage on the holding.
+**5A.**[^c-621fba428fb8ce8f488d47215afed5cc] (1) In relation to England, production of manure arising from the consumption on the holding of relevant feedingstuff by livestock and equidae where the manure is held in storage on the holding.
 
 (2) In this paragraph “relevant feedingstuff” means—
 
 - (a) corn (whether produced on the holding or not), or
 - (b) cake or other feedingstuff not produced on the holding.
 
-**6.**[^key-6eebc4664d3ef580c0d14102f01d7754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5B.**[^c-16d89a92f0d17a24ee140e72ca92f382] (1) In relation to Wales, production of manure arising from the consumption on the holding of relevant feedingstuff by livestock and equidae where the manure is held in storage on the holding.
+
+(2) In this paragraph “relevant feedingstuff” means—
+
+- (a) corn (whether produced on the holding or not), or
+- (b) cake or other feedingstuff not produced on the holding.
+
+**6.**[^c-6eebc4664d3ef580c0d14102f01d7754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Tenant-Right Matters
 
@@ -104,14 +104,14 @@ and for the purpose of paragraph (a) above the destruction of a ley (by ploughin
 
 ## Annotations
 
-[^key-5dca5a1cb08aba00326bd1db02acdf7d]: Textual amendment: Sch. 8 para. 4A inserted (6.4.2016) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (England) Order 2015 (S.I. 2015/2082)](https://www.legislation.gov.uk/uksi/2015/2082), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2082/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/2082/article/2/2)
+[^c-5dca5a1cb08aba00326bd1db02acdf7d]: Textual amendment: Sch. 8 para. 4A inserted (6.4.2016) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (England) Order 2015 (S.I. 2015/2082)](https://www.legislation.gov.uk/uksi/2015/2082), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2082/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/2082/article/2/2)
 
-[^key-3882047289e7d578962111de734b1768]: Textual amendment: [Sch. 8 para. 4B](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/4B) inserted (1.11.2019) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/2)
+[^c-3882047289e7d578962111de734b1768]: Textual amendment: [Sch. 8 para. 4B](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/4B) inserted (1.11.2019) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/2)
 
-[^key-94904f231faf39041dcfff95c62b895d]: Textual amendment: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/5) omitted (1.11.2019) by virtue of [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/3)
+[^c-94904f231faf39041dcfff95c62b895d]: Textual amendment: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/5) omitted (1.11.2019) by virtue of [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/3)
 
-[^key-621fba428fb8ce8f488d47215afed5cc]: Textual amendment: Sch. 8 para. 5A inserted (6.4.2016) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (England) Order 2015 (S.I. 2015/2082)](https://www.legislation.gov.uk/uksi/2015/2082), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2082/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/2082/article/2/4)
+[^c-621fba428fb8ce8f488d47215afed5cc]: Textual amendment: Sch. 8 para. 5A inserted (6.4.2016) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (England) Order 2015 (S.I. 2015/2082)](https://www.legislation.gov.uk/uksi/2015/2082), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2082/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/2082/article/2/4)
 
-[^key-16d89a92f0d17a24ee140e72ca92f382]: Textual amendment: [Sch. 8 para. 5B](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/5B) inserted (1.11.2019) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(4)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/4)
+[^c-16d89a92f0d17a24ee140e72ca92f382]: Textual amendment: [Sch. 8 para. 5B](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/5B) inserted (1.11.2019) by [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(4)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/4)
 
-[^key-6eebc4664d3ef580c0d14102f01d7754]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/6) omitted (1.11.2019) by virtue of [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(5)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/5)
+[^c-6eebc4664d3ef580c0d14102f01d7754]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/1986/5/schedule/8/paragraph/6) omitted (1.11.2019) by virtue of [The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404)](https://www.legislation.gov.uk/wsi/2019/1404), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/1404/article/1/3), [2(5)](https://www.legislation.gov.uk/wsi/2019/1404/article/2/5)

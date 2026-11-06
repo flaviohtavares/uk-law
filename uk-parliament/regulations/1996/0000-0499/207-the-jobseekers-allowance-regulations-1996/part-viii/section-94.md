@@ -20,9 +20,9 @@ summary: ''
 
 (2) Subject to the following provisions of this regulation, the period over which a payment is to be taken into account shall be—
 
-- (a)[^key-ac61f8666ca1b354ecb88aad2d471f01] where the payment is monthly, a period equal to the number of weeks from the date on which the payment is treated as paid to the date immediately before the date on which the next monthly payment would have been so treated as paid whether or not the next monthly payment is actually paid;
+- (a)[^c-ac61f8666ca1b354ecb88aad2d471f01] where the payment is monthly, a period equal to the number of weeks from the date on which the payment is treated as paid to the date immediately before the date on which the next monthly payment would have been so treated as paid whether or not the next monthly payment is actually paid;
 - (aa) where the payment is in respect of a period which is not monthly, a period equal to the length of the period for which payment is made;
-- (b)[^key-433526200aba801fca2364adec814622] in any other case, a period equal to such number of weeks as is equal to the number obtained by applying the formula—
+- (b)[^c-433526200aba801fca2364adec814622] in any other case, a period equal to such number of weeks as is equal to the number obtained by applying the formula—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/1996/207)
 
@@ -32,17 +32,17 @@ summary: ''
   - J is the amount of jobseeker’s allowance which would be payable had the payment not been made;
   - D is an amount equal to the total of the sums which would fall to be disregarded from that payment under Schedule 6 and Schedule 6A (sums to be disregarded in the calculation of earnings) or, as the case may be, any paragraph of Schedule 7 other than paragraph 1 of that Schedule, as is appropriate in the claimant’s case,
 
-(2A)[^key-abce752aa2f899a414ed708c99719350] The period over which a Career Development Loan, which is paid pursuant to section 2 of the Employment and Training Act 1973, shall be taken into account shall be the period of education and training intended to be supported by that loan.
+(2A)[^c-abce752aa2f899a414ed708c99719350] The period over which a Career Development Loan, which is paid pursuant to section 2 of the Employment and Training Act 1973, shall be taken into account shall be the period of education and training intended to be supported by that loan.
 
 (2B) Where grant income as defined in Chapter IX of this Part has been paid to a person who ceases to be a full-time student before the end of the period in respect of which that income is payable and, as a consequence, the whole or part of that income falls to be repaid by that person, that income shall be taken into account over the period beginning on the date on which that income is treated as paid under regulation 96 and ending—
 
 - (a) on the date on which repayment is made in full; or
-- (aa)[^key-d5c58e2ae96b28e97241b4adaca4cfdd] where the grant is paid in instalments, on the day before the next instalment would have been paid had the claimant remained a student; or
+- (aa)[^c-d5c58e2ae96b28e97241b4adaca4cfdd] where the grant is paid in instalments, on the day before the next instalment would have been paid had the claimant remained a student; or
 - (b) on the last date of the academic term or vacation during which that person ceased to be a full-time student,
 
 whichever shall first occur.
 
-(2C)[^key-9f6bd4e8df400630803fcf7fbd4736c5]
+(2C)[^c-9f6bd4e8df400630803fcf7fbd4736c5]
 
 - (a) This paragraph applies where earnings are derived by a claimant as a member of a reserve force prescribed in Part 1 of Schedule 6 to the Contributions Regulations—
   - (i) in respect of a period of annual continuous training for a maximum of 15 days in any calendar year; or
@@ -61,7 +61,7 @@ whichever shall first occur.
   | 36 to 38 | 35 |
   | 43 | 42 |
 
-(2D)[^key-91e0c13e0796c66a6a70614dc4914853] The period referred to in paragraph (2C) over which earnings are to be taken into account shall begin on the date on which they are treated as paid under regulation 96.
+(2D)[^c-91e0c13e0796c66a6a70614dc4914853] The period referred to in paragraph (2C) over which earnings are to be taken into account shall begin on the date on which they are treated as paid under regulation 96.
 
 (3) Where earnings not of the same kind are derived from the same source and the periods in respect of which those earnings would, but for this paragraph, fall to be taken into account—
 
@@ -96,32 +96,32 @@ whichever shall first occur.
   - (iii) where the person had a contract of employment for a term certain, the date on which it was due to expire;
 - (c) “the standard date" means the earlier of–
   - (i) the expiry date; and
-  - (ii) the last day of the period determined by dividing the amount of the compensation payment by the maximum weekly amount which, on the date on which the payment is treated as paid under regulation 96, is specified in section 227(1) of the Employment Rights Act 1996[^key-6b2512c4a9d0405d2a2efda5ae5ff423], and treating the result (less any fraction of a whole number) as a number of weeks.
+  - (ii) the last day of the period determined by dividing the amount of the compensation payment by the maximum weekly amount which, on the date on which the payment is treated as paid under regulation 96, is specified in section 227(1) of the Employment Rights Act 1996[^c-6b2512c4a9d0405d2a2efda5ae5ff423], and treating the result (less any fraction of a whole number) as a number of weeks.
 
-(9) For the purposes of paragraph (8), if it appears to the Secretary of State[^key-2e1739cdf67492d21cd7cf0a8beac3c5] in a case to which sub-paragraph (b)(ii) of that paragraph applies that, having regard to the amount of the compensation payment and the level of remuneration normally received by the claimant when he was engaged in the employment in respect of which the compensation payment was made, it is unreasonable to take the payment into account until the date specified in that sub-paragraph, the expiry date shall be the date specified in paragraph (8)(b)(i).
+(9) For the purposes of paragraph (8), if it appears to the Secretary of State[^c-2e1739cdf67492d21cd7cf0a8beac3c5] in a case to which sub-paragraph (b)(ii) of that paragraph applies that, having regard to the amount of the compensation payment and the level of remuneration normally received by the claimant when he was engaged in the employment in respect of which the compensation payment was made, it is unreasonable to take the payment into account until the date specified in that sub-paragraph, the expiry date shall be the date specified in paragraph (8)(b)(i).
 
 (10) For the purposes of this regulation the claimant’s earnings and income which does not consist of earnings shall be calculated in accordance with Chapters III and V respectively of this Part.
 
-(11)[^key-926552587631bed15e885db7b7d2d993] For the purposes of the number obtained as referred to in paragraph (2)(b), any fraction is to be treated as a corresponding fraction of a week.
+(11)[^c-926552587631bed15e885db7b7d2d993] For the purposes of the number obtained as referred to in paragraph (2)(b), any fraction is to be treated as a corresponding fraction of a week.
 
 ## Annotations
 
-[^key-ac61f8666ca1b354ecb88aad2d471f01]: Textual amendment: [Reg. 94(2)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/a)[(aa)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/aa) substituted for [reg. 94(2)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/a) (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/698)](https://www.legislation.gov.uk/uksi/2008/698), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/698/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2008/698/regulation/4/10)
+[^c-ac61f8666ca1b354ecb88aad2d471f01]: Textual amendment: [Reg. 94(2)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/a)[(aa)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/aa) substituted for [reg. 94(2)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/a) (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/698)](https://www.legislation.gov.uk/uksi/2008/698), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/698/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2008/698/regulation/4/10)
 
-[^key-433526200aba801fca2364adec814622]: Textual amendment: [Reg. 94(2)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/b) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [6(9)(a)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/6/9/a)
+[^c-433526200aba801fca2364adec814622]: Textual amendment: [Reg. 94(2)(b)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2/b) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [6(9)(a)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/6/9/a)
 
-[^key-abce752aa2f899a414ed708c99719350]: Textual amendment: Reg. 94(2A)(2B) inserted (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/1997/65/regulation/5/2)
+[^c-abce752aa2f899a414ed708c99719350]: Textual amendment: Reg. 94(2A)(2B) inserted (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/1997/65/regulation/5/2)
 
-[^key-d5c58e2ae96b28e97241b4adaca4cfdd]: Textual amendment: Reg. 94(2B)(aa) inserted (coming into force in accordance with reg. 1(2)(3)(4)(5)(6) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1](https://www.legislation.gov.uk/uksi/1998/563/regulation/1), [12](https://www.legislation.gov.uk/uksi/1998/563/regulation/12)
+[^c-d5c58e2ae96b28e97241b4adaca4cfdd]: Textual amendment: Reg. 94(2B)(aa) inserted (coming into force in accordance with reg. 1(2)(3)(4)(5)(6) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1](https://www.legislation.gov.uk/uksi/1998/563/regulation/1), [12](https://www.legislation.gov.uk/uksi/1998/563/regulation/12)
 
-[^key-9f6bd4e8df400630803fcf7fbd4736c5]: Textual amendment: [Reg. 94(2C)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2C) substituted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/389/regulation/3/5)
+[^c-9f6bd4e8df400630803fcf7fbd4736c5]: Textual amendment: [Reg. 94(2C)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2C) substituted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/389/regulation/3/5)
 
-[^key-91e0c13e0796c66a6a70614dc4914853]: Textual amendment: [Reg. 94(2D)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2D) inserted (30.7.2012) by [The Jobseeker’s Allowance (Members of the Reserve Forces) Regulations 2012 (S.I. 2012/1616)](https://www.legislation.gov.uk/uksi/2012/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1616/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2012/1616/regulation/2/6)
+[^c-91e0c13e0796c66a6a70614dc4914853]: Textual amendment: [Reg. 94(2D)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/2D) inserted (30.7.2012) by [The Jobseeker’s Allowance (Members of the Reserve Forces) Regulations 2012 (S.I. 2012/1616)](https://www.legislation.gov.uk/uksi/2012/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1616/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2012/1616/regulation/2/6)
 
 [^c1774289]: Textual amendment: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52). Section 188 was amended by the [Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 1995 (S.I. 1995/2587)](https://www.legislation.gov.uk/uksi/1995/2587).
 
-[^key-6b2512c4a9d0405d2a2efda5ae5ff423]: Textual amendment: Words in [reg. 94(8)(c)(ii)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/8/c/ii) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/8/7)
+[^c-6b2512c4a9d0405d2a2efda5ae5ff423]: Textual amendment: Words in [reg. 94(8)(c)(ii)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/8/c/ii) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/8/7)
 
-[^key-2e1739cdf67492d21cd7cf0a8beac3c5]: Textual amendment: Words in reg. 94(9) substituted (18.10.1999) by [The Social Security Act 1998 (Commencement No. 11, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2860)](https://www.legislation.gov.uk/uksi/1999/2860), [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2860/article/3/1), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/1999/2860/schedule/12/paragraph/2)
+[^c-2e1739cdf67492d21cd7cf0a8beac3c5]: Textual amendment: Words in reg. 94(9) substituted (18.10.1999) by [The Social Security Act 1998 (Commencement No. 11, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2860)](https://www.legislation.gov.uk/uksi/1999/2860), [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2860/article/3/1), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/1999/2860/schedule/12/paragraph/2)
 
-[^key-926552587631bed15e885db7b7d2d993]: Textual amendment: [Reg. 94(11)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/11) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [6(9)(b)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/6/9/b)
+[^c-926552587631bed15e885db7b7d2d993]: Textual amendment: [Reg. 94(11)](https://www.legislation.gov.uk/uksi/1996/207/regulation/94/11) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [6(9)(b)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/6/9/b)

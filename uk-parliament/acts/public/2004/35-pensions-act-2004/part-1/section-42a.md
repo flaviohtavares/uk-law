@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42A. Offence of failing to comply with a section 38 contribution notice[^key-48866d7b11875ddd4dc2497ad0984a28]
+## 42A. Offence of failing to comply with a section 38 contribution notice[^c-48866d7b11875ddd4dc2497ad0984a28]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ and the application has not been determined, withdrawn or abandoned.
 
 ## Annotations
 
-[^key-48866d7b11875ddd4dc2497ad0984a28]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/2004/35/section/42A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 106(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/106/4), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/c) (with [reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1))
+[^c-48866d7b11875ddd4dc2497ad0984a28]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/2004/35/section/42A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 106(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/106/4), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/c) (with [reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1))

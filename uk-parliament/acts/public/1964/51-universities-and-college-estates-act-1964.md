@@ -35,15 +35,15 @@ An Act to amend the law relating to property held by or on behalf of universitie
 
 ## 1. Ecclesiastical Leases Acts.
 
-(1)[^key-ea9bc6a05e64b457478ac1962eced267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ea9bc6a05e64b457478ac1962eced267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this Act “**college**” includes a hall; and for the purposes of this Act the Cathedral or House of Christ Church in Oxford shall be considered to be a college in the University of Oxford.
 
-## 2. Removal of restrictions in Universities and College Estates Act 1925.[^key-c7f7720998b91ea40024e286f80fe2c3]
+## 2. Removal of restrictions in Universities and College Estates Act 1925.[^c-c7f7720998b91ea40024e286f80fe2c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Capital money.[^key-5ccafd725391e15d70c43ff57aeb48d8]
+## 3. Capital money.[^c-5ccafd725391e15d70c43ff57aeb48d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -65,79 +65,79 @@ An Act to amend the law relating to property held by or on behalf of universitie
 
 SCHEDULES
 
-## SCHEDULE 1 — EXCEPTIONS AND MODIFICATIONS TO UNIVERSITIES AND COLLEGE ESTATES ACT 1925[^key-41006922d35c03455a7912792719a419]
+## SCHEDULE 1 — EXCEPTIONS AND MODIFICATIONS TO UNIVERSITIES AND COLLEGE ESTATES ACT 1925[^c-41006922d35c03455a7912792719a419]
 
 **No longer in force.**
 
 Sections 2, 3.
 
-### PART I — EXCEPTIONS AND MODIFICATIONS REFERRED TO IN SECTION 2(2)[^key-41006922d35c03455a7912792719a419]
+### PART I — EXCEPTIONS AND MODIFICATIONS REFERRED TO IN SECTION 2(2)[^c-41006922d35c03455a7912792719a419]
 
-**1.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — EXCEPTIONS AND MODIFICATIONS REFERRED TO IN SECTION 3(1)[^key-41006922d35c03455a7912792719a419]
+### PART II — EXCEPTIONS AND MODIFICATIONS REFERRED TO IN SECTION 3(1)[^c-41006922d35c03455a7912792719a419]
 
-**1.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-41006922d35c03455a7912792719a419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Sinking Funds[^key-54c5fc941930f2ffd1f7406a6279f4ea]
+## SCHEDULE 2 — Sinking Funds[^c-54c5fc941930f2ffd1f7406a6279f4ea]
 
 **No longer in force.**
 
 Section 3.
 
-**1.**[^key-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-54c5fc941930f2ffd1f7406a6279f4ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — ENACTMENTS REPEALED[^c6555541]
 
@@ -173,11 +173,11 @@ Section 4.
 
 [^c6555411]: Commencement: Act wholly in force at 16.8.1964 see [s. 5(4)](https://www.legislation.gov.uk/ukpga/1964/51/section/5/4)
 
-[^key-ea9bc6a05e64b457478ac1962eced267]: Textual amendment: S. 1(1) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-ea9bc6a05e64b457478ac1962eced267]: Textual amendment: S. 1(1) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-c7f7720998b91ea40024e286f80fe2c3]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1964/51/section/2) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/2); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-c7f7720998b91ea40024e286f80fe2c3]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1964/51/section/2) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/2); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
-[^key-5ccafd725391e15d70c43ff57aeb48d8]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1964/51/section/3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/2); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-5ccafd725391e15d70c43ff57aeb48d8]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1964/51/section/3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/2); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c6555501]: Modification: The text of s. 4(1) and Schedule 1 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -185,9 +185,9 @@ Section 4.
 
 [^c6555521]: Marginal citation: [1925 c. 24](https://www.legislation.gov.uk/ukpga/1925/24).
 
-[^key-41006922d35c03455a7912792719a419]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1964/51/schedule/1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-41006922d35c03455a7912792719a419]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1964/51/schedule/1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
-[^key-54c5fc941930f2ffd1f7406a6279f4ea]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1964/51/schedule/2) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-54c5fc941930f2ffd1f7406a6279f4ea]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1964/51/schedule/2) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/7/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c6555541]: Modification: The text of Schedule 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

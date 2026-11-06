@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Flood hazard maps and flood risk maps: regulations[^key-9c5ae48210a11f3d14b1296eaf25908c]
+## 26. Flood hazard maps and flood risk maps: regulations[^c-9c5ae48210a11f3d14b1296eaf25908c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations make further provision as to the prepa
 
 ## Annotations
 
-[^key-9c5ae48210a11f3d14b1296eaf25908c]: Commencement: S. 26 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-9c5ae48210a11f3d14b1296eaf25908c]: Commencement: S. 26 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

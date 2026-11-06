@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.6. Allowing inspection of proofs[^key-bba2d7140ab2cc14f106903a81bacc3a]
+## 5.6. Allowing inspection of proofs[^c-bba2d7140ab2cc14f106903a81bacc3a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The housing administrator must, so long as proofs delivered to the housing admin
 
 ## Annotations
 
-[^key-bba2d7140ab2cc14f106903a81bacc3a]: Commencement: Rule 5.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-bba2d7140ab2cc14f106903a81bacc3a]: Commencement: Rule 5.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

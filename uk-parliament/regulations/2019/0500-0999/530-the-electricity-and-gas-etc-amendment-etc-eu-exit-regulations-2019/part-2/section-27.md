@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27.[^key-02d90be10ea98357f9cd094e5eaa1507]
+## 27.[^c-02d90be10ea98357f9cd094e5eaa1507]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 (5) In subsection (4)—
 
 - (a) in paragraph (a) —
-  - (i) after “if” insert “ before IP completion day[^key-3d22c2dc9ecc08338d6fe127fb79c7c1] ”;
+  - (i) after “if” insert “ before IP completion day[^c-3d22c2dc9ecc08338d6fe127fb79c7c1] ”;
   - (ii) after “(1)” insert “ (as it then had effect) ”;
 - (b) in paragraph (b), after “if,” insert “ before IP completion day and ”;
 - (c) for paragraph (c) substitute—
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02d90be10ea98357f9cd094e5eaa1507]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-02d90be10ea98357f9cd094e5eaa1507]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3d22c2dc9ecc08338d6fe127fb79c7c1]: Textual amendment: Words in reg. 27(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/10)
+[^c-3d22c2dc9ecc08338d6fe127fb79c7c1]: Textual amendment: Words in reg. 27(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/10)

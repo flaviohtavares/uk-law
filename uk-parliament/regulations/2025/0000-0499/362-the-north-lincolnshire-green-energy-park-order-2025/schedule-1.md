@@ -22,13 +22,13 @@ summary: ''
 
 Article 4
 
-### PART 1 — AUTHORISED DEVELOPMENT[^key-a093812792a1d33c8a3947db2e9c27a4]
+### PART 1 — AUTHORISED DEVELOPMENT[^c-a093812792a1d33c8a3947db2e9c27a4]
 
-#### 1. In the Borough of North Lincolnshire[^key-a093812792a1d33c8a3947db2e9c27a4]
+#### 1. In the Borough of North Lincolnshire[^c-a093812792a1d33c8a3947db2e9c27a4]
 
 A nationally significant infrastructure project as defined in sections 14(1)(a) (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act and associated development within the meaning of section 115(2) (development for which development consent may be granted), comprising the following development and works—
 
-#### Energy park: ERF infrastructure[^key-a093812792a1d33c8a3947db2e9c27a4]
+#### Energy park: ERF infrastructure[^c-a093812792a1d33c8a3947db2e9c27a4]
 
 Work No. 1 – an electricity generating station located on land at Flixborough Wharf, Lincolnshire, fuelled by refuse derived fuels, with a capacity to process up to 760,000 tonnes of refuse derived fuel per annum, with a gross generation capacity of up to 95 megawatts at ISO conditions comprising the following works—
 
@@ -72,13 +72,13 @@ Work No. 2 comprising associated development—
 - (aa) a concrete block manufacturing facility; and
 - (bb) offices and elevated walkway connected to Work Nos 1, 1C and 6.
 
-#### Rail infrastructure[^key-a093812792a1d33c8a3947db2e9c27a4]
+#### Rail infrastructure[^c-a093812792a1d33c8a3947db2e9c27a4]
 
 Work No. 3 –associated development being reinstatement of the railway line between Flixborough Wharf and the Dragonby sidings including new sidings and two footbridges across the railway line and three user worked crossings.
 
 Work No. 4 –associated development being a railhead, sidings and associated equipment to allow loading and unloading.
 
-#### Energy park: supporting infrastructure[^key-a093812792a1d33c8a3947db2e9c27a4]
+#### Energy park: supporting infrastructure[^c-a093812792a1d33c8a3947db2e9c27a4]
 
 Work No. 5 –associated development being a new access road linking the B1216 and Stather Road, stopping up of the section of Stather Road between Neap House and Bellwin Drive, improvements to footpaths and the junction between the B1216 and A1077 and section of elevated walkway that connects to Work Nos. 1, 1C, 2 and 6.
 
@@ -90,13 +90,13 @@ Work No. 8 –associated development being an electric and hydrogen vehicle refu
 
 Work No. 9 –associated development being a battery storage facility capable of peak discharge of 30MWe, with associated infrastructure including site roads, offices, control equipment, transformers and rectifiers.
 
-#### DHPWN[^key-a093812792a1d33c8a3947db2e9c27a4]
+#### DHPWN[^c-a093812792a1d33c8a3947db2e9c27a4]
 
 Work No. 10 –associated development being private wire networks linking Work No. 1 with Work No. 2, Work No. 6, Work No. 7, Work No. 8, Work No. 9 and to end users outside of the Order limits.
 
 Work No. 11 –associated development being a district heating network providing heating and/or cooling, pipes carrying hydrogen gas and pipes carrying carbon dioxide to end users inside and outside of the Order limits.
 
-#### Landscaping, mitigation and utility works[^key-a093812792a1d33c8a3947db2e9c27a4]
+#### Landscaping, mitigation and utility works[^c-a093812792a1d33c8a3947db2e9c27a4]
 
 Work No. 12 –associated development being hard and soft landscaping and the construction of landscape features including a wetland area and ecological mitigation works.
 
@@ -112,7 +112,7 @@ Work No. 15B –associated development being construction access, temporary layd
 
 *Extent: E+W+S+N.I.*
 
-**2.**[^key-a093812792a1d33c8a3947db2e9c27a4] In connection with and in addition to Work Nos. 1, 1A to 1D and 2 to 14, to the extent that they do not otherwise form part of any such work, other associated development within the Order limits, being associated development within the meaning of section 115(2) of the 2008 Act (development for which development consent may be granted), including—
+**2.**[^c-a093812792a1d33c8a3947db2e9c27a4] In connection with and in addition to Work Nos. 1, 1A to 1D and 2 to 14, to the extent that they do not otherwise form part of any such work, other associated development within the Order limits, being associated development within the meaning of section 115(2) of the 2008 Act (development for which development consent may be granted), including—
 
 - (a) temporary lighting, including lighting columns;
 - (b) security fencing, gates, boundary treatment and other means of enclosure;
@@ -126,7 +126,7 @@ Work No. 15B –associated development being construction access, temporary layd
 
 and such other works as may be necessary or expedient for the purposes of or in connection with the construction, operation and maintenance of the works in this Schedule 1 which do not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-### PART 2 — PARAMETERS TABLE[^key-0a9964be77ecdf7846e8c584678e0e75]
+### PART 2 — PARAMETERS TABLE[^c-0a9964be77ecdf7846e8c584678e0e75]
 
 <table>
 <thead>
@@ -177,6 +177,6 @@ and such other works as may be necessary or expedient for the purposes of or in 
 
 ## Annotations
 
-[^key-a093812792a1d33c8a3947db2e9c27a4]: Commencement: Sch. 1 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-a093812792a1d33c8a3947db2e9c27a4]: Commencement: Sch. 1 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-0a9964be77ecdf7846e8c584678e0e75]: Commencement: Sch. 1 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-0a9964be77ecdf7846e8c584678e0e75]: Commencement: Sch. 1 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

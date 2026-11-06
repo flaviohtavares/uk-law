@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Democratic People’s Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2017 (revoked)[^key-81dee2a2e77e98ac2f315f22a8944b24]
+The Democratic People’s Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2017 (revoked)[^c-81dee2a2e77e98ac2f315f22a8944b24]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 at 2.00 p.m. on 19th September 2017
 
-[^key-81dee2a2e77e98ac2f315f22a8944b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81dee2a2e77e98ac2f315f22a8944b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-81dee2a2e77e98ac2f315f22a8944b24]
+## 1. Citation and commencement[^c-81dee2a2e77e98ac2f315f22a8944b24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Democratic People’s Republic of Korea (European Union Financial Sanctions) Regulations 2017[^key-81dee2a2e77e98ac2f315f22a8944b24]
+## 2. Amendments to the Democratic People’s Republic of Korea (European Union Financial Sanctions) Regulations 2017[^c-81dee2a2e77e98ac2f315f22a8944b24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81dee2a2e77e98ac2f315f22a8944b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81dee2a2e77e98ac2f315f22a8944b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -66,4 +66,4 @@ at 2.00 p.m. on 19th September 2017
 
 ## Annotations
 
-[^key-81dee2a2e77e98ac2f315f22a8944b24]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/928) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(l)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/l); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-81dee2a2e77e98ac2f315f22a8944b24]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/928) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(l)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/l); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

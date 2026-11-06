@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Power to authorise a sheriff principal to act in another sheriffdom[^key-3d6f1976cda449303652f942ba64e89a]
+## 30. Power to authorise a sheriff principal to act in another sheriffdom[^c-3d6f1976cda449303652f942ba64e89a]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d6f1976cda449303652f942ba64e89a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/18/section/30) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-3d6f1976cda449303652f942ba64e89a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/18/section/30) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

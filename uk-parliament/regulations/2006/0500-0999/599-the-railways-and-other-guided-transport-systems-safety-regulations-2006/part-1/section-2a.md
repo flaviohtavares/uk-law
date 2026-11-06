@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Determination of exclusion from the mainline railway[^key-74590b237fab26498b0dfba59ea28a8a]
+## 2A. Determination of exclusion from the mainline railway[^c-74590b237fab26498b0dfba59ea28a8a]
 
 *Extent: E+W+S+N.I.*
 
-(1) A railway or part of a railway does not form part of the mainline railway if the Office of Rail and Road[^key-00045e48a142892bee5400f8aac2e33d] determines that it falls within one or more of these categories—
+(1) A railway or part of a railway does not form part of the mainline railway if the Office of Rail and Road[^c-00045e48a142892bee5400f8aac2e33d] determines that it falls within one or more of these categories—
 
 - (a) metros and other light rail systems;
 - (b) networks that are functionally separate from the rest of the mainline railway and intended only for the operation of local, urban or suburban passenger services, as well as transport undertakings operating solely on these networks;
@@ -41,6 +41,6 @@ by virtue of determinations made under paragraph (1) or (2).
 
 ## Annotations
 
-[^key-74590b237fab26498b0dfba59ea28a8a]: Textual amendment: Reg. 2A inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/3)
+[^c-74590b237fab26498b0dfba59ea28a8a]: Textual amendment: Reg. 2A inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/3)
 
-[^key-00045e48a142892bee5400f8aac2e33d]: Textual amendment: Words in [reg. 2A](https://www.legislation.gov.uk/uksi/2006/599/regulation/2A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/b)
+[^c-00045e48a142892bee5400f8aac2e33d]: Textual amendment: Words in [reg. 2A](https://www.legislation.gov.uk/uksi/2006/599/regulation/2A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/b)

@@ -46,18 +46,18 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the power conferred by section 5(1) of the Offender Management Act 2007[^f00001].
 
-## 1. Citation and commencement[^key-1e9dea16c23ca93525105bb5e6235d0c]
+## 1. Citation and commencement[^c-1e9dea16c23ca93525105bb5e6235d0c]
 
 This Order may be cited as the Offender Management Act 2007 (Establishment of Probation Trusts) Order 2010 and shall come into force on 1st April 2010.
 
-## 2. Dissolution of probation trusts[^key-0fae5a1b333ffb1297e8c707fb297eef]
+## 2. Dissolution of probation trusts[^c-0fae5a1b333ffb1297e8c707fb297eef]
 
 The following probation trusts are dissolved—
 
 - (a) Dyfed Powys Probation Trust; and
 - (b) South Wales Probation Trust.
 
-## 3. Establishment of probation trusts[^key-fdfaa022da83588a8d90c07f8c54708b]
+## 3. Establishment of probation trusts[^c-fdfaa022da83588a8d90c07f8c54708b]
 
 The following probation trusts are established for the purposes specified in article 4—
 
@@ -91,11 +91,11 @@ The following probation trusts are established for the purposes specified in art
 - (bb) Wiltshire Probation Trust; and
 - (cc) York and North Yorkshire Probation Trust.
 
-## 3A. Designation of Wales Probation Trust[^key-f290200a6768d15b51f85c0381029b9b]
+## 3A. Designation of Wales Probation Trust[^c-f290200a6768d15b51f85c0381029b9b]
 
 Wales Probation Trust is designated as a Welsh probation trust.
 
-## 4. The purposes of the probation trusts[^key-641a2667057ec70255f7f15996296f78]
+## 4. The purposes of the probation trusts[^c-641a2667057ec70255f7f15996296f78]
 
 The purposes of each of the probation trusts established by article 3 are—
 
@@ -126,15 +126,15 @@ The probation trusts listed in article 3 of this Order are established for the p
 
 [^f00001]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21)
 
-[^key-1e9dea16c23ca93525105bb5e6235d0c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
+[^c-1e9dea16c23ca93525105bb5e6235d0c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
 
-[^key-0fae5a1b333ffb1297e8c707fb297eef]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/195/article/2) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
+[^c-0fae5a1b333ffb1297e8c707fb297eef]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/195/article/2) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
 
-[^key-fdfaa022da83588a8d90c07f8c54708b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/195/article/3) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
+[^c-fdfaa022da83588a8d90c07f8c54708b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/195/article/3) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
 
-[^key-f290200a6768d15b51f85c0381029b9b]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2010/195/article/3A) inserted (30.5.2012) by [The Offender Management Act 2007 (Establishment of Probation Trusts) (Amendment) Order 2012 (S.I. 2012/1215)](https://www.legislation.gov.uk/uksi/2012/1215), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1215/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1215/article/2/2)
+[^c-f290200a6768d15b51f85c0381029b9b]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2010/195/article/3A) inserted (30.5.2012) by [The Offender Management Act 2007 (Establishment of Probation Trusts) (Amendment) Order 2012 (S.I. 2012/1215)](https://www.legislation.gov.uk/uksi/2012/1215), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1215/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1215/article/2/2)
 
-[^key-641a2667057ec70255f7f15996296f78]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/195/article/4) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
+[^c-641a2667057ec70255f7f15996296f78]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/195/article/4) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/195/article/1)
 
 [^f00002]: Footnote: [S.I. 2008/598](https://www.legislation.gov.uk/uksi/2008/598).
 

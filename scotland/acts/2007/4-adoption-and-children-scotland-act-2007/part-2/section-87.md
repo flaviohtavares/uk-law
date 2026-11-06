@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Effect of order on existing parental right[^key-52a53ad4f7bba8a4d4c47df1f62cbafe]
+## 87. Effect of order on existing parental right[^c-52a53ad4f7bba8a4d4c47df1f62cbafe]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ which, immediately before the making of the order, vested in the parent or, as t
 
 ## Annotations
 
-[^key-52a53ad4f7bba8a4d4c47df1f62cbafe]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2007/4/section/87) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-52a53ad4f7bba8a4d4c47df1f62cbafe]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2007/4/section/87) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

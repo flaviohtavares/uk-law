@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Notice required of operations in areas of archaeological importance.[^c251016][^c251017][^key-f3ade48c453dc3042e8d4c5745342c66][^key-ca915db189ac743b95f4a163ccb8b67b][^key-13abce9a593c95cfe46a7ebcd354ca05][^c251015]
+## 35. Notice required of operations in areas of archaeological importance.[^c251016][^c251017][^c-f3ade48c453dc3042e8d4c5745342c66][^c-ca915db189ac743b95f4a163ccb8b67b][^c-13abce9a593c95cfe46a7ebcd354ca05][^c251015]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ he shall be guilty of an offence.
 (5) A notice required for the purposes of this section shall be served by the developer—
 
 - (a) in the case of land in England [^c251018]... , on the district council or London borough council or (as the case may be) on each district council or London borough council in whose area the site of the operations is wholly or partly situated;
-- (aa)[^key-c7eace812a5ec7d332ef77495c77548f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-c7eace812a5ec7d332ef77495c77548f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the case of land in Scotland, on the local authority or (as the case may be) on each local authority in whose area the site of the operations is wholly or partly situated; or
 - (c) in a case where the developer is any such council or local authority, on the Secretary of State.
 
@@ -74,17 +74,17 @@ that council or local authority may take proceedings in the High Court or, in Sc
 
 [^c251017]: Modification: S. 35 excluded (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 12](https://www.legislation.gov.uk/ukpga/1996/61/section/12), [Sch. 7 para. 4(10)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/7/paragraph/4/10)
 
-[^key-f3ade48c453dc3042e8d4c5745342c66]: Modification: S. 35 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(10)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/10)
+[^c-f3ade48c453dc3042e8d4c5745342c66]: Modification: S. 35 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(10)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/10)
 
-[^key-ca915db189ac743b95f4a163ccb8b67b]: Modification: S. 35 excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(10)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/10)
+[^c-ca915db189ac743b95f4a163ccb8b67b]: Modification: S. 35 excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(10)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/10)
 
-[^key-13abce9a593c95cfe46a7ebcd354ca05]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1979/46/section/35) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(10)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/10)
+[^c-13abce9a593c95cfe46a7ebcd354ca05]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1979/46/section/35) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(10)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/10)
 
 [^c251015]: Modification: S. 35 excluded by [S.I. 1984/1286](https://www.legislation.gov.uk/uksi/1984/1286), [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/1286/article/2/1)
 
 [^c251018]: Textual amendment: Words in s. 35(5)(a) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 56(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/56/2), [Sch.18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch.2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-c7eace812a5ec7d332ef77495c77548f]: Textual amendment: [S. 35(5)(aa)](https://www.legislation.gov.uk/ukpga/1979/46/section/35/5/aa) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 36](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/36) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-c7eace812a5ec7d332ef77495c77548f]: Textual amendment: [S. 35(5)(aa)](https://www.legislation.gov.uk/ukpga/1979/46/section/35/5/aa) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 36](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/36) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c251020]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

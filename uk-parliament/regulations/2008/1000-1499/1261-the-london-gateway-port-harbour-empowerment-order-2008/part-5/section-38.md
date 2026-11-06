@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Time when charges are payable and their recovery[^key-895b90cb8f09ee95a3d71b690be16bce]
+## 38. Time when charges are payable and their recovery[^c-895b90cb8f09ee95a3d71b690be16bce]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-895b90cb8f09ee95a3d71b690be16bce]: Commencement: Art. 38 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-895b90cb8f09ee95a3d71b690be16bce]: Commencement: Art. 38 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

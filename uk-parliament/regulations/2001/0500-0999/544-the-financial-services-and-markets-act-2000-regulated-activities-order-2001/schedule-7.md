@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — ADDITIONAL ACTIVITIES INCLUDED IN THE ACTIVITY OF MANAGING AN AIF LISTED IN PARAGRAPH 2 OF ANNEX I TO THE ALTERNATIVE INVESTMENT FUND MANAGERS DIRECTIVE[^key-4aa2770a0ac653ea032c125648722b47]
+## SCHEDULE 7 — ADDITIONAL ACTIVITIES INCLUDED IN THE ACTIVITY OF MANAGING AN AIF LISTED IN PARAGRAPH 2 OF ANNEX I TO THE ALTERNATIVE INVESTMENT FUND MANAGERS DIRECTIVE[^c-4aa2770a0ac653ea032c125648722b47]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ Article 51ZC
 
 ## Annotations
 
-[^key-4aa2770a0ac653ea032c125648722b47]: Textual amendment: Schs. 6-8 inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(17)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/17)
+[^c-4aa2770a0ac653ea032c125648722b47]: Textual amendment: Schs. 6-8 inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(17)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/17)

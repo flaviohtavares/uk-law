@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Exclusion or deemed notice[^key-8f9d6a2d5beba911e38ff98248f3c4f7]
+## 41. Exclusion or deemed notice[^c-8f9d6a2d5beba911e38ff98248f3c4f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f9d6a2d5beba911e38ff98248f3c4f7]: Textual amendment: Reg. 41 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/12) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-8f9d6a2d5beba911e38ff98248f3c4f7]: Textual amendment: Reg. 41 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/12) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

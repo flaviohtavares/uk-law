@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Review of CCA’s constitutional arrangements[^key-ebe5370bb3a4826daab60a12ef938787]
+## 14. Review of CCA’s constitutional arrangements[^c-ebe5370bb3a4826daab60a12ef938787]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe5370bb3a4826daab60a12ef938787]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/55/section/14) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-ebe5370bb3a4826daab60a12ef938787]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/55/section/14) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

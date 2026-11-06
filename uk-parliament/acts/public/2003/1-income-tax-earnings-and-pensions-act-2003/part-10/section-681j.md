@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 681J. Alteration of income limit by Treasury order[^key-3b56b801aa4491f07be8914c523ba8b1]
+## 681J. Alteration of income limit by Treasury order[^c-3b56b801aa4491f07be8914c523ba8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b56b801aa4491f07be8914c523ba8b1]: Textual amendment: [Pt. 10 Ch. 9](https://www.legislation.gov.uk/ukpga/2003/1/part/10/chapter/9) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 10 paras. 1(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/10/paragraph/1/4), [5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/10/paragraph/5)
+[^c-3b56b801aa4491f07be8914c523ba8b1]: Textual amendment: [Pt. 10 Ch. 9](https://www.legislation.gov.uk/ukpga/2003/1/part/10/chapter/9) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 10 paras. 1(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/10/paragraph/1/4), [5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/10/paragraph/5)

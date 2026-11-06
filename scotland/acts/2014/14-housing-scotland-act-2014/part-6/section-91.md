@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Repayment charges: recovery of repayable amount[^key-4ebd1c68c88021375fb708a47ff72028]
+## 91. Repayment charges: recovery of repayable amount[^c-4ebd1c68c88021375fb708a47ff72028]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ebd1c68c88021375fb708a47ff72028]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/14/section/91) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(e)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/e)
+[^c-4ebd1c68c88021375fb708a47ff72028]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/14/section/91) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(e)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/e)

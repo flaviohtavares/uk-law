@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Accessibility of instruments and equipment[^key-052ec04948f1394e231811d0477c3c53]
+## 111. Accessibility of instruments and equipment[^c-052ec04948f1394e231811d0477c3c53]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If the launch vehicle has a flight crew, a spaceflight operator must ensure that
 
 ## Annotations
 
-[^key-052ec04948f1394e231811d0477c3c53]: Commencement: Reg. 111 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-052ec04948f1394e231811d0477c3c53]: Commencement: Reg. 111 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

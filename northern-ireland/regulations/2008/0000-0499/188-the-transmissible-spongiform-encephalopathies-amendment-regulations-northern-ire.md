@@ -31,7 +31,7 @@ summary: ''
 
 Animal Health
 
-The Transmissible Spongiform Encephalopathies (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-3927d7d0c6f7eda8ab60eaedab061257]
+The Transmissible Spongiform Encephalopathies (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-3927d7d0c6f7eda8ab60eaedab061257]
 
 Made
 
@@ -41,122 +41,122 @@ Coming into operation-
 
 26th April 2008
 
-[^key-3927d7d0c6f7eda8ab60eaedab061257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3927d7d0c6f7eda8ab60eaedab061257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3927d7d0c6f7eda8ab60eaedab061257]
+## 1. Citation, commencement and interpretation[^c-3927d7d0c6f7eda8ab60eaedab061257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006[^key-3927d7d0c6f7eda8ab60eaedab061257]
+## 2. Amendment of the Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006[^c-3927d7d0c6f7eda8ab60eaedab061257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-3927d7d0c6f7eda8ab60eaedab061257]
+## 3. Revocations[^c-3927d7d0c6f7eda8ab60eaedab061257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3927d7d0c6f7eda8ab60eaedab061257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3927d7d0c6f7eda8ab60eaedab061257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES REGULATIONS (NORTHERN IRELAND) 2006[^key-3927d7d0c6f7eda8ab60eaedab061257]
+## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES REGULATIONS (NORTHERN IRELAND) 2006[^c-3927d7d0c6f7eda8ab60eaedab061257]
 
 Regulation 2(4)
 
-> **SCHEDULE 6 — Specified risk material, mechanically separated meat and slaughtering techniques[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **SCHEDULE 6 — Specified risk material, mechanically separated meat and slaughtering techniques[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > Regulation 5
 >
-> **1. Appointment of the Food Standards Agency as the competent authority[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **1. Appointment of the Food Standards Agency as the competent authority[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2. Training[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **2. Training[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Mechanically separated meat[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **3. Mechanically separated meat[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Pithing[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **4. Pithing[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Tongue harvesting[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **5. Tongue harvesting[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Head meat harvesting[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **6. Head meat harvesting[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7. Removal of specified risk material[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **7. Removal of specified risk material[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Bovine animals in a slaughterhouse[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **8. Bovine animals in a slaughterhouse[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Sheep and goats in a slaughterhouse[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **9. Sheep and goats in a slaughterhouse[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Young lamb and goat stamps[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **10. Young lamb and goat stamps[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11. Removal of spinal cord from sheep and goats[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **11. Removal of spinal cord from sheep and goats[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12. Authorisation of cutting plants by the Food Standards Agency[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **12. Authorisation of cutting plants by the Food Standards Agency[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **13. Removal of specified risk material at a cutting plant authorised under paragraph 12(1)[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **13. Removal of specified risk material at a cutting plant authorised under paragraph 12(1)[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **14. Meat from another member State[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **14. Meat from another member State[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **15. Staining and disposal of specified risk material[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **15. Staining and disposal of specified risk material[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **16. Scheme animals[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **16. Scheme animals[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **17. Security of specified risk material[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **17. Security of specified risk material[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18. Prohibition on the dispatch of heads and un-split carcases to other member States[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **18. Prohibition on the dispatch of heads and un-split carcases to other member States[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19. Prohibition on the supply of specified risk material for human consumption[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **19. Prohibition on the supply of specified risk material for human consumption[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **20. Transitional provisions[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **20. Transitional provisions[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **21. Definitions of Community legislation[^key-3927d7d0c6f7eda8ab60eaedab061257]**
+> **21. Definitions of Community legislation[^c-3927d7d0c6f7eda8ab60eaedab061257]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3927d7d0c6f7eda8ab60eaedab061257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3927d7d0c6f7eda8ab60eaedab061257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3927d7d0c6f7eda8ab60eaedab061257]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/188) revoked (1.1.2009) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2008 (S.R. 2008/508)](https://www.legislation.gov.uk/nisr/2008/508), [regs. 1](https://www.legislation.gov.uk/nisr/2008/508/regulation/1), [20(d)](https://www.legislation.gov.uk/nisr/2008/508/regulation/20/d)
+[^c-3927d7d0c6f7eda8ab60eaedab061257]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/188) revoked (1.1.2009) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2008 (S.R. 2008/508)](https://www.legislation.gov.uk/nisr/2008/508), [regs. 1](https://www.legislation.gov.uk/nisr/2008/508/regulation/1), [20(d)](https://www.legislation.gov.uk/nisr/2008/508/regulation/20/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Powers in connection with HMIC inspections[^key-8eee70f103bde6ab97d97b75a290f825]
+## 86. Powers in connection with HMIC inspections[^c-8eee70f103bde6ab97d97b75a290f825]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eee70f103bde6ab97d97b75a290f825]: Textual amendment: S. 86 omitted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/36/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/a)
+[^c-8eee70f103bde6ab97d97b75a290f825]: Textual amendment: S. 86 omitted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/36/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/a)

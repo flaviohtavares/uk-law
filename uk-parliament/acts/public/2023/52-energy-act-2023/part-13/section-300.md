@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300. Model clauses of petroleum licences[^key-758ef237278536f9a4e00a16c01112fd][^key-e4de8ee25e6a82e5c1530ebeba887ce8]
+## 300. Model clauses of petroleum licences[^c-758ef237278536f9a4e00a16c01112fd][^c-e4de8ee25e6a82e5c1530ebeba887ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ the licence has effect with the amendments provided for by that paragraph.
 
 ## Annotations
 
-[^key-758ef237278536f9a4e00a16c01112fd]: Commencement: S. 300 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-758ef237278536f9a4e00a16c01112fd]: Commencement: S. 300 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-e4de8ee25e6a82e5c1530ebeba887ce8]: Commencement: [S. 300](https://www.legislation.gov.uk/ukpga/2023/52/section/300) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-e4de8ee25e6a82e5c1530ebeba887ce8]: Commencement: [S. 300](https://www.legislation.gov.uk/ukpga/2023/52/section/300) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)

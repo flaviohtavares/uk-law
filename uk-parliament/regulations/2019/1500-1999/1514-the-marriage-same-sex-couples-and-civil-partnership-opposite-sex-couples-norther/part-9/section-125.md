@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Age of Marriage Act (Northern Ireland) 1951[^key-54db7ad09ec5c4791b6157bfdefacd79]
+## 125. Age of Marriage Act (Northern Ireland) 1951[^c-54db7ad09ec5c4791b6157bfdefacd79]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54db7ad09ec5c4791b6157bfdefacd79]: Commencement: Reg. 125 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-54db7ad09ec5c4791b6157bfdefacd79]: Commencement: Reg. 125 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00207]: Footnote: [1951 c.25 (N.I.)](https://www.legislation.gov.uk/apni/1951/25).

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 156. Right to enter without warrant.[^key-6000adf244330790eb22650cfe3212e1]
+## 156. Right to enter without warrant.[^c-6000adf244330790eb22650cfe3212e1]
 
 *Extent: S*
 
 (1) Any person duly authorised in writing by a planning authority may at any reasonable hour enter any land—
 
 - (a) to ascertain whether there is or has been any breach of planning control on the land or any other land;
-- (b) to determine whether any of the powers conferred on a planning authority by sections 127 to 138, 140, 141, 144,144A,[^key-8672f746375ffded40b38b737bde6553] 145 and 147 to 155 should be exercised in relation to the land or any other land;
+- (b) to determine whether any of the powers conferred on a planning authority by sections 127 to 138, 140, 141, 144,144A,[^c-8672f746375ffded40b38b737bde6553] 145 and 147 to 155 should be exercised in relation to the land or any other land;
 - (c) to determine how any such power should be exercised in relation to the land or any other land;
 - (d) to ascertain whether there has been compliance with any requirement imposed as a result of any such power having been exercised in relation to the land or any other land,
 
@@ -37,6 +37,6 @@ if there are reasonable grounds for entering for the purpose in question.
 
 ## Annotations
 
-[^key-6000adf244330790eb22650cfe3212e1]: Modification: Ss. 156-158 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-6000adf244330790eb22650cfe3212e1]: Modification: Ss. 156-158 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-8672f746375ffded40b38b737bde6553]: Textual amendment: Word in s. 156(1)(b) inserted (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(8)](https://www.legislation.gov.uk/asp/2006/17/section/54/8), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-8672f746375ffded40b38b737bde6553]: Textual amendment: Word in s. 156(1)(b) inserted (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(8)](https://www.legislation.gov.uk/asp/2006/17/section/54/8), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

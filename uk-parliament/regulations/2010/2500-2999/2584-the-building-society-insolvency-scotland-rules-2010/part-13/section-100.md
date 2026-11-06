@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Chair of meeting as proxy holder[^key-ea4a3ed71fd8e172a3a2f43d7bf45c2b]
+## 100. Chair of meeting as proxy holder[^c-ea4a3ed71fd8e172a3a2f43d7bf45c2b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.11(1) of the 1986 Rules.
 
 ## Annotations
 
-[^key-ea4a3ed71fd8e172a3a2f43d7bf45c2b]: Commencement: Rule 100 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-ea4a3ed71fd8e172a3a2f43d7bf45c2b]: Commencement: Rule 100 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Pre-application services and determination of applications: functions of inspectors[^key-67f122325090903f766a327a13c60e92]
+## 83. Pre-application services and determination of applications: functions of inspectors[^c-67f122325090903f766a327a13c60e92]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67f122325090903f766a327a13c60e92]: Commencement: S. 83 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-67f122325090903f766a327a13c60e92]: Commencement: S. 83 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

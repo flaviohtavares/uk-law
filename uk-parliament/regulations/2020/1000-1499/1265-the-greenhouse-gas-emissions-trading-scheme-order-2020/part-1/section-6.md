@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Meaning of aircraft operator[^key-9b738762a7ecbcee4345ec7964da9f82]
+## 6. Meaning of aircraft operator[^c-9b738762a7ecbcee4345ec7964da9f82]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b738762a7ecbcee4345ec7964da9f82]: Commencement: Art. 6 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-9b738762a7ecbcee4345ec7964da9f82]: Commencement: Art. 6 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

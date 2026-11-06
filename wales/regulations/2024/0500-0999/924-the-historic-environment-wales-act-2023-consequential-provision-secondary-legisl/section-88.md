@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**88.**[^key-7cb857b16df92a49ab6eaf1a0e74d01b] For regulation 1(4)(d) substitute—
+**88.**[^c-7cb857b16df92a49ab6eaf1a0e74d01b] For regulation 1(4)(d) substitute—
 
 > - (d) an appeal under section 127 of the 2023 Act (right to appeal against enforcement notice) or under that section as applied by section 163 of that Act (application of Part 3 to conservation areas).
 
 ## Annotations
 
-[^key-7cb857b16df92a49ab6eaf1a0e74d01b]: Commencement: [Reg. 88](https://www.legislation.gov.uk/wsi/2024/924/regulation/88) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-7cb857b16df92a49ab6eaf1a0e74d01b]: Commencement: [Reg. 88](https://www.legislation.gov.uk/wsi/2024/924/regulation/88) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

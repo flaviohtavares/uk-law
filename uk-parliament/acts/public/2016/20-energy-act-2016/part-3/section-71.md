@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Applications to use infrastructure: changes of applicant and owner[^key-82de306e13cec850210c59a612f541f7]
+## 71. Applications to use infrastructure: changes of applicant and owner[^c-82de306e13cec850210c59a612f541f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82de306e13cec850210c59a612f541f7]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2016/20/section/71) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-82de306e13cec850210c59a612f541f7]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2016/20/section/71) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

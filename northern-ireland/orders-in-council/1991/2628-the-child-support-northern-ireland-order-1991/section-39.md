@@ -30,7 +30,7 @@ summary: ''
 - (d) a person is a non-resident parent in relation to more than one child and the other parent of each of those children is not the same person;
 - (e) the person with care has care of more than one qualifying child and there is more than one non-resident parent in relation to those children;
 - (f) a qualifying child has his home in two or more separate households;
-- (g)[^key-488b4b728f02cab9705c48c42e089d96] the same persons are the parents of 2 or more children and each parent is—
+- (g)[^c-488b4b728f02cab9705c48c42e089d96] the same persons are the parents of 2 or more children and each parent is—
   - (i) a non-resident parent in relation to one or more of the children, and
   - (ii) a person with care in relation to one or more of the children.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c21073411]: Textual amendment: Words in Order substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 25](https://www.legislation.gov.uk/nia/2000/4/section/25), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2000/4/schedule/3/paragraph/11); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
-[^key-488b4b728f02cab9705c48c42e089d96]: Textual amendment: [Art. 39(2)(g)](https://www.legislation.gov.uk/nisi/1991/2628/article/39/2/g) added (3.12.2012) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 28](https://www.legislation.gov.uk/nia/2008/10/section/28), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/a)
+[^c-488b4b728f02cab9705c48c42e089d96]: Textual amendment: [Art. 39(2)(g)](https://www.legislation.gov.uk/nisi/1991/2628/article/39/2/g) added (3.12.2012) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 28](https://www.legislation.gov.uk/nia/2008/10/section/28), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/a)

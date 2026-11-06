@@ -27,9 +27,9 @@ summary: ''
 
 (2) Subsection (1) is to be read with section 555 (disposal of oil licence with exploitation value).
 
-(3) But a person is not required to bring a disposal value into account under subsection (1) if the disposal event gives rise to a balancing charge under Part 2 [^key-bfc3f6441d489495bd43877ee2ea448f]... (plant and machinery allowances [^key-bfc3f6441d489495bd43877ee2ea448f]...).
+(3) But a person is not required to bring a disposal value into account under subsection (1) if the disposal event gives rise to a balancing charge under Part 2 [^c-bfc3f6441d489495bd43877ee2ea448f]... (plant and machinery allowances [^c-bfc3f6441d489495bd43877ee2ea448f]...).
 
-(4)[^key-577fed8e9d9503494fa8391116fad3a5] The disposal value to be brought into account under subsection (1) depends on the disposal event, as shown in the Table—
+(4)[^c-577fed8e9d9503494fa8391116fad3a5] The disposal value to be brought into account under subsection (1) depends on the disposal event, as shown in the Table—
 
 Table
 
@@ -53,6 +53,6 @@ Disposal values
 
 ## Annotations
 
-[^key-bfc3f6441d489495bd43877ee2ea448f]: Textual amendment: Words in s. 443(3) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/6)
+[^c-bfc3f6441d489495bd43877ee2ea448f]: Textual amendment: Words in s. 443(3) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/6)
 
-[^key-577fed8e9d9503494fa8391116fad3a5]: Modification: S. 443(4) excluded (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/26) (with [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/29)); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-577fed8e9d9503494fa8391116fad3a5]: Modification: S. 443(4) excluded (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/26) (with [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/29)); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)

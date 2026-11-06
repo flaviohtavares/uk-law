@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Liens for charges[^key-9dc97509f271c9f0a89b46cc9491cfda]
+## 33. Liens for charges[^c-9dc97509f271c9f0a89b46cc9491cfda]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dc97509f271c9f0a89b46cc9491cfda]: Commencement: Art. 33 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-9dc97509f271c9f0a89b46cc9491cfda]: Commencement: Art. 33 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

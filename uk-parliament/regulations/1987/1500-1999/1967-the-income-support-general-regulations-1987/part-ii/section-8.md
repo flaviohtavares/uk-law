@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Persons not required to be available for employment[^key-4d7d3177cb4b91a12340624ffa8b2010][^key-ce0f871f6f1a0c62fbcb7446dc12c5ce]
+## 8. Persons not required to be available for employment[^c-4d7d3177cb4b91a12340624ffa8b2010][^c-ce0f871f6f1a0c62fbcb7446dc12c5ce]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d7d3177cb4b91a12340624ffa8b2010]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/1967/regulation/8) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-4d7d3177cb4b91a12340624ffa8b2010]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/1967/regulation/8) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-ce0f871f6f1a0c62fbcb7446dc12c5ce]: Commencement: Reg. 8 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-ce0f871f6f1a0c62fbcb7446dc12c5ce]: Commencement: Reg. 8 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — MEETINGS AND PROCEEDINGS OF COUNCILS AND COMMITTEES[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+## SCHEDULE 2 — MEETINGS AND PROCEEDINGS OF COUNCILS AND COMMITTEES[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
 *Extent: N.I.*
 
@@ -24,56 +24,56 @@ summary: ''
 
 Section 22.
 
-[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-#### Holding of meetings[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Holding of meetings[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**1.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Convening meetings[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Convening meetings[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**2.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Chairman of meeting[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Chairman of meeting[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**3.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Quorum[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Quorum[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**4.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Names of councillors present to be recorded[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Names of councillors present to be recorded[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**5.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Person authorised by Ministry may attend meetings[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Person authorised by Ministry may attend meetings[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**6.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Decision on questions[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Decision on questions[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**7.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Mode of voting[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Mode of voting[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**8.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Minutes[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Minutes[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**9.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Standing orders[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Standing orders[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**10.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Vacancies, etc., not to invalidate proceedings[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Vacancies, etc., not to invalidate proceedings[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**11.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Proceedings of committees[^key-438a4dc4c69cdc74b52e987ad383b2ca]
+#### Proceedings of committees[^c-438a4dc4c69cdc74b52e987ad383b2ca]
 
-**12.**[^key-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-438a4dc4c69cdc74b52e987ad383b2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-438a4dc4c69cdc74b52e987ad383b2ca]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/apni/1972/9/schedule/2) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-438a4dc4c69cdc74b52e987ad383b2ca]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/apni/1972/9/schedule/2) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

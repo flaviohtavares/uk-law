@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 277. Notifications of more than one nature[^key-ff0619fea4cf9de95f8ad7c123b14233]
+## 277. Notifications of more than one nature[^c-ff0619fea4cf9de95f8ad7c123b14233]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A notification which includes two or more of the types of notification set out i
 
 ## Annotations
 
-[^key-ff0619fea4cf9de95f8ad7c123b14233]: Commencement: [Rule 277](https://www.legislation.gov.uk/nisr/2026/11/rule/277) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ff0619fea4cf9de95f8ad7c123b14233]: Commencement: [Rule 277](https://www.legislation.gov.uk/nisr/2026/11/rule/277) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

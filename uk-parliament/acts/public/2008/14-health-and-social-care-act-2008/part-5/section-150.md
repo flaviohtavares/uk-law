@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Qualifying bodies[^c1942125][^key-e09d4515bd1b93f4d56ca99e4062db1e]
+## 150. Qualifying bodies[^c1942125][^c-e09d4515bd1b93f4d56ca99e4062db1e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c1942125]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2008/14/section/150) partly in force; [s. 150](https://www.legislation.gov.uk/ukpga/2008/14/section/150) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-e09d4515bd1b93f4d56ca99e4062db1e]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2008/14/section/150) in force at 1.4.2009 in so far as not already in force by [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2008/2994/article/3/2/b)
+[^c-e09d4515bd1b93f4d56ca99e4062db1e]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2008/14/section/150) in force at 1.4.2009 in so far as not already in force by [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2008/2994/article/3/2/b)

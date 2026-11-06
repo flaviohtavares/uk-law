@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Power to impose requirements on specific bodies[^key-807b663b7efdba5cc0d4ca8c233263df]
+## 23A. Power to impose requirements on specific bodies[^c-807b663b7efdba5cc0d4ca8c233263df]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-807b663b7efdba5cc0d4ca8c233263df]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/ukpga/1998/46/section/23A) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 66(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/66/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-807b663b7efdba5cc0d4ca8c233263df]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/ukpga/1998/46/section/23A) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 66(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/66/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

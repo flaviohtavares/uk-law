@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Monitor[^c22469031][^key-53b5f2497ebf7e12bb8d30de22f0695c]
+## 10. Monitor[^c22469031][^c-53b5f2497ebf7e12bb8d30de22f0695c]
 
 *Extent: E+W*
 
-(1) The Office of Rail and Road[^key-5fd6a9496d4dac0f6b77a51705144c4c] must carry out activities to monitor how a strategic highways company exercises its functions.
+(1) The Office of Rail and Road[^c-5fd6a9496d4dac0f6b77a51705144c4c] must carry out activities to monitor how a strategic highways company exercises its functions.
 
 (2) Those activities may include investigating, publishing reports or giving advice to the Secretary of State on—
 
@@ -59,6 +59,6 @@ summary: ''
 
 [^c22469031]: Commencement: S. 10 partly in force; s. 10 in force for specified purposes at Royal Assent, see s. 57(1)(a)
 
-[^key-53b5f2497ebf7e12bb8d30de22f0695c]: Commencement: S. 10 in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-53b5f2497ebf7e12bb8d30de22f0695c]: Commencement: S. 10 in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-5fd6a9496d4dac0f6b77a51705144c4c]: Textual amendment: Words in s. 10(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. Pt. 1 para. 4(x)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/x)
+[^c-5fd6a9496d4dac0f6b77a51705144c4c]: Textual amendment: Words in s. 10(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. Pt. 1 para. 4(x)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/x)

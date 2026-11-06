@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8A — Overseas entities[^key-af0fd352665b22a484957944d285632d][^key-b9bba1773fdec0192830d6ffebd5c5dc]
+## SCHEDULE 8A — Overseas entities[^c-af0fd352665b22a484957944d285632d][^c-b9bba1773fdec0192830d6ffebd5c5dc]
 
 *Extent: N.I.*
 
@@ -60,8 +60,8 @@ No application may be made to register an overseas entity as the owner of a qual
 - (a) the entity is a registered overseas entity, or is an exempt overseas entity, at the time of the disposition,
 - (b) the disposition is made in pursuance of a statutory obligation or court order, or occurs by operation of law,
 - (c) the disposition is made in pursuance of a contract made before the inhibition is entered in the register,
-- (d) the disposition is made in the exercise of a power of sale or leasing conferred on the owner of a registered charge or a receiver appointed by such an owner, [^key-d3f262aef9d9f76331a4f3768d341bd5]...
-- (da)[^key-33edd43d1ed687fa5b40b6d02fec16f4] the Secretary of State gives consent under paragraph 4A to the registration of the disposition, or
+- (d) the disposition is made in the exercise of a power of sale or leasing conferred on the owner of a registered charge or a receiver appointed by such an owner, [^c-d3f262aef9d9f76331a4f3768d341bd5]...
+- (da)[^c-33edd43d1ed687fa5b40b6d02fec16f4] the Secretary of State gives consent under paragraph 4A to the registration of the disposition, or
 - (e) the disposition is made by a specified insolvency practitioner in specified circumstances.
 
 (6) In sub-paragraph (5), in paragraph (e)—
@@ -90,13 +90,13 @@ No application may be made to register an overseas entity as the owner of a qual
 - (a) the entity is a registered overseas entity, or is an exempt overseas entity, at the time of the disposition,
 - (b) the disposition is made in pursuance of a statutory obligation or court order, or occurs by operation of law,
 - (c) the disposition is made in pursuance of a contract made before the overseas entity became entitled to be registered,
-- (d) the disposition is made in the exercise of a power of sale or leasing conferred on the owner of a registered charge or a receiver appointed by such an owner, [^key-5fa6fe0ba30c6434c0ad89e13e68042c]...
-- (da)[^key-150e053f9145737599f787d271464422] the Secretary of State gives consent under paragraph 4A to the registration of the disposition, or
+- (d) the disposition is made in the exercise of a power of sale or leasing conferred on the owner of a registered charge or a receiver appointed by such an owner, [^c-5fa6fe0ba30c6434c0ad89e13e68042c]...
+- (da)[^c-150e053f9145737599f787d271464422] the Secretary of State gives consent under paragraph 4A to the registration of the disposition, or
 - (e) the disposition is made by a specified insolvency practitioner in specified circumstances.
 
 (4) In sub-paragraph (3)(e) “specified circumstances” and “specified insolvency practitioner” have the meanings given by paragraph 3(6).
 
-#### 4A. Consent to registration of dispositions that cannot otherwise be registered[^key-49e6d391852e78768186635be96a34a5]
+#### 4A. Consent to registration of dispositions that cannot otherwise be registered[^c-49e6d391852e78768186635be96a34a5]
 
 (1) The Secretary of State may consent to the registration of a disposition that would otherwise be prohibited by an inhibition entered under paragraph 3, or by paragraph 4, if satisfied—
 
@@ -115,7 +115,7 @@ No application may be made to register an overseas entity as the owner of a qual
 
 #### 5. Making dispositions that cannot be registered
 
-(1) An overseas entity must not make a registrable disposition of a qualifying estate if , disregarding the possibility of consent under paragraph 4A,[^key-5687e2a4e7de9d9ea56a0f774aeba741] the registration of the disposition is prohibited by—
+(1) An overseas entity must not make a registrable disposition of a qualifying estate if , disregarding the possibility of consent under paragraph 4A,[^c-5687e2a4e7de9d9ea56a0f774aeba741] the registration of the disposition is prohibited by—
 
 - (a) an inhibition entered under paragraph 3, or
 - (b) paragraph 4.
@@ -161,20 +161,20 @@ In this Schedule—
 
 ## Annotations
 
-[^key-af0fd352665b22a484957944d285632d]: Modification: [Sch. 8A](https://www.legislation.gov.uk/apni/1970/18/schedule/8A): power to amend conferred (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 33(4)-(6)](https://www.legislation.gov.uk/ukpga/2022/10/section/33/4), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/a)
+[^c-af0fd352665b22a484957944d285632d]: Modification: [Sch. 8A](https://www.legislation.gov.uk/apni/1970/18/schedule/8A): power to amend conferred (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 33(4)-(6)](https://www.legislation.gov.uk/ukpga/2022/10/section/33/4), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/a)
 
-[^key-b9bba1773fdec0192830d6ffebd5c5dc]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/apni/1970/18/schedule/8A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/3); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-b9bba1773fdec0192830d6ffebd5c5dc]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/apni/1970/18/schedule/8A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/5/paragraph/3); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-d3f262aef9d9f76331a4f3768d341bd5]: Textual amendment: Word in [Sch. 8A para. 3(5)(d)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/3/5/d) omitted (23.6.2023) by virtue of [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/3/a)
+[^c-d3f262aef9d9f76331a4f3768d341bd5]: Textual amendment: Word in [Sch. 8A para. 3(5)(d)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/3/5/d) omitted (23.6.2023) by virtue of [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/3/a)
 
-[^key-33edd43d1ed687fa5b40b6d02fec16f4]: Textual amendment: [Sch. 8A para. 3(5)(da)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/3/5/da) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/3/b)
+[^c-33edd43d1ed687fa5b40b6d02fec16f4]: Textual amendment: [Sch. 8A para. 3(5)(da)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/3/5/da) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/3/b)
 
-[^key-5fa6fe0ba30c6434c0ad89e13e68042c]: Textual amendment: Word in [Sch. 8A para. 4(3)(d)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/4/3/d) omitted (23.6.2023) by virtue of [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/4/a)
+[^c-5fa6fe0ba30c6434c0ad89e13e68042c]: Textual amendment: Word in [Sch. 8A para. 4(3)(d)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/4/3/d) omitted (23.6.2023) by virtue of [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/4/a)
 
-[^key-150e053f9145737599f787d271464422]: Textual amendment: [Sch. 8A para. 4(3)(da)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/4/3/da) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/4/b)
+[^c-150e053f9145737599f787d271464422]: Textual amendment: [Sch. 8A para. 4(3)(da)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/4/3/da) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/4/b)
 
-[^key-49e6d391852e78768186635be96a34a5]: Textual amendment: [Sch. 8A para. 4A](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/4A) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/2)
+[^c-49e6d391852e78768186635be96a34a5]: Textual amendment: [Sch. 8A para. 4A](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/4A) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/2)
 
-[^key-5687e2a4e7de9d9ea56a0f774aeba741]: Textual amendment: Words in [Sch. 8A para. 5(1)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/5/1) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/5)
+[^c-5687e2a4e7de9d9ea56a0f774aeba741]: Textual amendment: Words in [Sch. 8A para. 5(1)](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/5/1) inserted (23.6.2023) by [The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 (S.I. 2023/696)](https://www.legislation.gov.uk/uksi/2023/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2023/696/regulation/10/5)
 
 [^M_F_3e0a9473-e5e3-457f-f318-17d058ea535e]: Textual amendment: [Sch. 8A para. 7](https://www.legislation.gov.uk/apni/1970/18/schedule/8A/paragraph/7) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)

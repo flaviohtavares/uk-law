@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Duty to promote the licensing objectives[^key-79cfce92155c1cce7691cca5be9e0020]
+## 22. Duty to promote the licensing objectives[^c-79cfce92155c1cce7691cca5be9e0020]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In exercising its functions under this Act the Commission shall aim—
 
 ## Annotations
 
-[^key-79cfce92155c1cce7691cca5be9e0020]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2005/19/section/22) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-79cfce92155c1cce7691cca5be9e0020]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2005/19/section/22) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

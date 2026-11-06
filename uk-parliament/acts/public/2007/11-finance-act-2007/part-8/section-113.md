@@ -26,7 +26,7 @@ summary: ''
 - “**CAA 2001**” means the Capital Allowances Act 2001 (c. 2),
 - “**CEMA 1979**” means the Customs and Excise Management Act 1979 (c. 2),
 - “**CRCA 2005**” means the Commissioners for Revenue and Customs Act 2005 (c. 11),
-- “[^key-1097ea807ddf7d688532aaf8d013e2f8]**CTA 2009**” means the Corporation Tax Act 2009;
+- “[^c-1097ea807ddf7d688532aaf8d013e2f8]**CTA 2009**” means the Corporation Tax Act 2009;
 - “**ICTA**” means the Income and Corporation Taxes Act 1988 (c. 1),
 - “**IHTA 1984**” means the Inheritance Tax Act 1984 (c. 51),
 - “**ITA 2007**” means the Income Tax Act 2007 (c. 3),
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1097ea807ddf7d688532aaf8d013e2f8]: Textual amendment: Words in s. 113 inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 723](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/723) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1097ea807ddf7d688532aaf8d013e2f8]: Textual amendment: Words in s. 113 inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 723](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/723) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

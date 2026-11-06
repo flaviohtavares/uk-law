@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109BA. Power of Secretary of State to require electronic access to information[^key-1ecb81700520138ebf86cc0125a24929]
+## 109BA. Power of Secretary of State to require electronic access to information[^c-1ecb81700520138ebf86cc0125a24929]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Secretary of State may require that person to enter into arrangements under 
 
 ## Annotations
 
-[^key-1ecb81700520138ebf86cc0125a24929]: Textual amendment: S. 109BA inserted (30.4.2002) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/2/1), [20(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/20/1); [S.I. 2002/1222](https://www.legislation.gov.uk/uksi/2002/1222), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/1222/article/2/b)
+[^c-1ecb81700520138ebf86cc0125a24929]: Textual amendment: S. 109BA inserted (30.4.2002) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/2/1), [20(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/20/1); [S.I. 2002/1222](https://www.legislation.gov.uk/uksi/2002/1222), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/1222/article/2/b)

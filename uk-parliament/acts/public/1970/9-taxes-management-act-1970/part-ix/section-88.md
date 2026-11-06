@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Interest on tax recovered to make good loss due to taxpayer’s fault.[^key-e777f346998c9706c6c08ee45d53338e]
+## 88. Interest on tax recovered to make good loss due to taxpayer’s fault.[^c-e777f346998c9706c6c08ee45d53338e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e777f346998c9706c6c08ee45d53338e]: Textual amendment: S. 88 repealed (with effect in accordance with Sch. 18 para. 17 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 18 para. 4(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/4/1), [Sch. 41 Pt. 5(8)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/8)
+[^c-e777f346998c9706c6c08ee45d53338e]: Textual amendment: S. 88 repealed (with effect in accordance with Sch. 18 para. 17 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 18 para. 4(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/4/1), [Sch. 41 Pt. 5(8)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Meaning of “excluded securities” in regulation 5[^key-e8b94e6b23168bd6d6722fb3393cb3ec]
+## 6. Meaning of “excluded securities” in regulation 5[^c-e8b94e6b23168bd6d6722fb3393cb3ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e8b94e6b23168bd6d6722fb3393cb3ec]: Commencement: Reg. 6 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-e8b94e6b23168bd6d6722fb3393cb3ec]: Commencement: Reg. 6 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
 
 [^f00013]: Footnote: Section 417(1) of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) contains a definition of “**markets in financial instruments regulation**” for the purposes of that Act.
 

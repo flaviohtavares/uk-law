@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Extension of offences to vaping and nicotine products[^key-727077978589aff6ba0ca05bda5e4cb6]
+## 61. Extension of offences to vaping and nicotine products[^c-727077978589aff6ba0ca05bda5e4cb6]
 
 *Extent: S*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-727077978589aff6ba0ca05bda5e4cb6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2026/18/section/61) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-727077978589aff6ba0ca05bda5e4cb6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2026/18/section/61) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

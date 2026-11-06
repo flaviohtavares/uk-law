@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Loading and Unloading of Fishing Vessels Regulations 1988 (revoked)[^key-7597f253d1d516c51daf4702cae285e8]
+The Loading and Unloading of Fishing Vessels Regulations 1988 (revoked)[^c-7597f253d1d516c51daf4702cae285e8]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 1st January 1989
 
-[^key-7597f253d1d516c51daf4702cae285e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7597f253d1d516c51daf4702cae285e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7597f253d1d516c51daf4702cae285e8]
+## 1. Citation and commencement[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7597f253d1d516c51daf4702cae285e8]
+## 2. Interpretation[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-7597f253d1d516c51daf4702cae285e8]
+## 3. Application[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Duties[^key-7597f253d1d516c51daf4702cae285e8]
+## 4. Duties[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Safe working place and safe access[^key-7597f253d1d516c51daf4702cae285e8]
+## 5. Safe working place and safe access[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Safety of work and equipment[^key-7597f253d1d516c51daf4702cae285e8]
+## 6. Safety of work and equipment[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemption certificates[^key-7597f253d1d516c51daf4702cae285e8]
+## 7. Exemption certificates[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-7597f253d1d516c51daf4702cae285e8]
+## 8. Enforcement[^c-7597f253d1d516c51daf4702cae285e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7597f253d1d516c51daf4702cae285e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7597f253d1d516c51daf4702cae285e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7597f253d1d516c51daf4702cae285e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7597f253d1d516c51daf4702cae285e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7597f253d1d516c51daf4702cae285e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1988/1656) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-7597f253d1d516c51daf4702cae285e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1988/1656) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

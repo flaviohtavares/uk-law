@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Arbitration[^key-911fca8dee2a5ab9cdb4733bfb2de79e]
+## 31. Arbitration[^c-911fca8dee2a5ab9cdb4733bfb2de79e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-911fca8dee2a5ab9cdb4733bfb2de79e]: Commencement: Art. 31 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-911fca8dee2a5ab9cdb4733bfb2de79e]: Commencement: Art. 31 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

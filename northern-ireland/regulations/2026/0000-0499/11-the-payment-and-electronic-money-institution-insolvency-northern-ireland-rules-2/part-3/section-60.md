@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Appeals against decisions under this Chapter[^key-2388534bc9e20a9e62f678e2b8399ee7]
+## 60. Appeals against decisions under this Chapter[^c-2388534bc9e20a9e62f678e2b8399ee7]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2388534bc9e20a9e62f678e2b8399ee7]: Commencement: [Rule 60](https://www.legislation.gov.uk/nisr/2026/11/rule/60) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2388534bc9e20a9e62f678e2b8399ee7]: Commencement: [Rule 60](https://www.legislation.gov.uk/nisr/2026/11/rule/60) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

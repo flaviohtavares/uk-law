@@ -24,7 +24,7 @@ summary: ''
 
 - “**alcoholic drink**” means a drink consisting of or containing alcohol,
 - “**applicant**”, in relation to any application under this Act, means the person making the application,
-- “[^key-95b9e108c10e4eaf6188c84e83c2b3ee]**chief constable**” means the chief constable of the Police Service of Scotland,
+- “[^c-95b9e108c10e4eaf6188c84e83c2b3ee]**chief constable**” means the chief constable of the Police Service of Scotland,
 - “**area**” means—
   - (a) in relation to a council, the local government area for which the council is constituted,
   - (b) in relation to a Licensing Board or Local Licensing Forum, the council area or, as the case may be, licensing division for which the Board or Forum is established,
@@ -34,7 +34,7 @@ summary: ''
 - “**child**” means a person under the age of 16,
 - “**community council**” has the same meaning as in Part IV of the Local Government (Scotland) Act 1973 (c. 65),
 - “**council**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39),
-- “[^key-d7ac483a8573ec8c24c40773ea8bb662]**Health Board**” means a board constituted by an order under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c.29);
+- “[^c-d7ac483a8573ec8c24c40773ea8bb662]**Health Board**” means a board constituted by an order under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c.29);
 - “**licensed premises**” means premises in respect of which a premises licence or occasional licence has effect,
 - “**liqueur confectionery**” means confectionery which—
   - (a) contains alcohol in a proportion not greater than 0.2 litres of alcohol (of a strength not exceeding 57%) per kilogramme of the confectionery, and
@@ -79,9 +79,9 @@ summary: ''
 
 ## Annotations
 
-[^key-95b9e108c10e4eaf6188c84e83c2b3ee]: Textual amendment: Words in s. 147(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(8)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/8); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-95b9e108c10e4eaf6188c84e83c2b3ee]: Textual amendment: Words in s. 147(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(8)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/8); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-d7ac483a8573ec8c24c40773ea8bb662]: Textual amendment: Definitions in s. 147(1) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 11(5)](https://www.legislation.gov.uk/asp/2010/18/section/11/5), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-d7ac483a8573ec8c24c40773ea8bb662]: Textual amendment: Definitions in s. 147(1) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 11(5)](https://www.legislation.gov.uk/asp/2010/18/section/11/5), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
 [^M_F_d4c8d9dd-ddb6-4199-9956-bcbd7c6740e3]: Textual amendment: S. 147(5) inserted (29.6.2018) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 184(4)](https://www.legislation.gov.uk/asp/2010/13/section/184/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
 

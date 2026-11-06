@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Interpretation: donations.[^c10575681][^key-857264f2ec83c8bd61635099508fd596]
+## 161. Interpretation: donations.[^c10575681][^c-857264f2ec83c8bd61635099508fd596]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c10575681]: Commencement: S. 161 wholly in force at 16.2.2001; s. 161 not in force at Royal Assent, see s. 163(2); s. 161 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-857264f2ec83c8bd61635099508fd596]: Modification: S. 161 applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 39(14)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39/14); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-857264f2ec83c8bd61635099508fd596]: Modification: S. 161 applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 39(14)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39/14); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

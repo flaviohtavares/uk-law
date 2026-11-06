@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Chamber Presidents[^key-4f2b4880aa8e47823dd31177dd50a7a6]
+## 21. Chamber Presidents[^c-4f2b4880aa8e47823dd31177dd50a7a6]
 
 *Extent: S*
 
-(1)[^key-060790a44aa9ec93c71f9caf96c90368] Each chamber of the First-tier Tribunal is to have—
+(1)[^c-060790a44aa9ec93c71f9caf96c90368] Each chamber of the First-tier Tribunal is to have—
 
 - (a) a single Chamber President to preside over the chamber, or
 - (b) two Chamber Presidents to preside over the chamber.
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f2b4880aa8e47823dd31177dd50a7a6]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/10/section/21) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-4f2b4880aa8e47823dd31177dd50a7a6]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/10/section/21) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-060790a44aa9ec93c71f9caf96c90368]: Modification: [S. 21(1)](https://www.legislation.gov.uk/asp/2014/10/section/21/1) excluded (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2018/1/regulation/4)
+[^c-060790a44aa9ec93c71f9caf96c90368]: Modification: [S. 21(1)](https://www.legislation.gov.uk/asp/2014/10/section/21/1) excluded (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2018/1/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. The S4C Board[^key-84da81b21bd8bfd78af2048168e86b01][^key-c547e052e219f0d3b586c380a02e2084]
+## 33. The S4C Board[^c-84da81b21bd8bfd78af2048168e86b01][^c-c547e052e219f0d3b586c380a02e2084]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,6 +158,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84da81b21bd8bfd78af2048168e86b01]: Commencement: S. 33 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
+[^c-84da81b21bd8bfd78af2048168e86b01]: Commencement: S. 33 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
 
-[^key-c547e052e219f0d3b586c380a02e2084]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2024/15/section/33) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/k)
+[^c-c547e052e219f0d3b586c380a02e2084]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2024/15/section/33) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/k)

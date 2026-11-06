@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Commission Regulation (EU) No 283/2013 setting out the data requirements for active substances, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^key-be46a629aed501d6b763ba1ec3f1db1c]
+## 21. Commission Regulation (EU) No 283/2013 setting out the data requirements for active substances, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^c-be46a629aed501d6b763ba1ec3f1db1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,15 +63,15 @@ summary: ''
     - (bb) in the fifth paragraph, omit “for each residue zone”;
     - (cc) omit the sixth paragraph;
     - (dd) in the seventh paragraph, in the second sentence, omit “per zone” in both places it occurs;
-    - (ee) in the ninth paragraph, for “different zones” substitute “ growing areas representative of those in Great Britain[^key-fa383578c4ac4c364fb810e26cdb37d9] ”;
+    - (ee) in the ninth paragraph, for “different zones” substitute “ growing areas representative of those in Great Britain[^c-fa383578c4ac4c364fb810e26cdb37d9] ”;
     - (ff) omit the tenth paragraph;
   - (viii) in point 6.5.3, in the third paragraph, for “European” substitute “ relevant ”;
   - (ix) in point 6.6.2, in the sixth paragraph—
-    - (aa) in the fifth sentence, for “the Union” substitute “ areas relevant to Great Britain[^key-de77252618bfe14da2c1e860612d767a] ”;
-    - (bb) in the sixth sentence, for “across the Union” substitute “ relevant to Great Britain[^key-e6ad656233e4f8b8f963fb2ac755841d] ”;
+    - (aa) in the fifth sentence, for “the Union” substitute “ areas relevant to Great Britain[^c-de77252618bfe14da2c1e860612d767a] ”;
+    - (bb) in the sixth sentence, for “across the Union” substitute “ relevant to Great Britain[^c-e6ad656233e4f8b8f963fb2ac755841d] ”;
     - (cc) in the eighth sentence, for “national competent authorities in the Member States” substitute “ competent authorities ”;
   - (x) in point 6.10.1, in the second paragraph, omit “national”;
-  - (xi) in point 7.1, in the third paragraph, for “ the Union[^key-6249e2806aeb48f66d9b6bff63ef86a4] ” substitute “ Great Britain[^key-865ad292fcb868b022c959f4b24c5456] ”;
+  - (xi) in point 7.1, in the third paragraph, for “ the Union[^c-6249e2806aeb48f66d9b6bff63ef86a4] ” substitute “ Great Britain[^c-865ad292fcb868b022c959f4b24c5456] ”;
   - (xii) in points 7.1.2.2.2 and 7.1.3.2—
     - (aa) omit the words from “being included” to “introduction”;
     - (bb) omit “national” in each place it occurs;
@@ -86,7 +86,7 @@ summary: ''
     - (bb) in the third sentence, omit “national”;
   - (xviii) in points 8.2.7, 8.2.8, 8.3.2 and 8.4.2, omit “national” in each place it occurs;
 - (c) in Part B—
-  - (i)[^key-668ed0c8d43f4ef8dda5f9fb0183732f] in point 1.1, in the second paragraph, for the words from “the Member State” to “Commission” substitute “Great Britain”;
+  - (i)[^c-668ed0c8d43f4ef8dda5f9fb0183732f] in point 1.1, in the second paragraph, for the words from “the Member State” to “Commission” substitute “Great Britain”;
   - (ii) in points 1.2 and 1.4.1, for “Commission and the Member States” substitute “ competent authorities ”;
   - (iii) in point 5.1.1, in the first paragraph, in the first sentence, after “provisions of” insert “ the EU-derived domestic legislation which transposed ”;
   - (iv) in point 7.1.1, in the first sentence omit “EU”;
@@ -95,20 +95,20 @@ summary: ''
 
 ## Annotations
 
-[^key-be46a629aed501d6b763ba1ec3f1db1c]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-be46a629aed501d6b763ba1ec3f1db1c]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23680941]: Marginal citation: OJ No L 365, 31.12.1994, p 34, which was repealed by Directive 2000/76/EC of the European Parliament and of the Council (OJ No L 332, 28.12.2000, p 91).
 
 [^c23680951]: Marginal citation: OJ No L 334, 17.12.2010, p 17, as corrected by a Corrigendum (OJ No L 158, 19.6.2012, p 25). See for example: generally, [S.I. 2013/971](https://www.legislation.gov.uk/uksi/2013/971); in relation to England and Wales, [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154); in relation to Scotland, [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360); in relation to Northern Ireland, S.R. [2013 No.160](https://www.legislation.gov.uk/ukcm/2013/160).
 
-[^key-fa383578c4ac4c364fb810e26cdb37d9]: Textual amendment: Words in reg. 21(5)(b)(vii)(ee) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/i)
+[^c-fa383578c4ac4c364fb810e26cdb37d9]: Textual amendment: Words in reg. 21(5)(b)(vii)(ee) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/i)
 
-[^key-de77252618bfe14da2c1e860612d767a]: Textual amendment: Words in reg. 21(5)(b)(ix)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)
+[^c-de77252618bfe14da2c1e860612d767a]: Textual amendment: Words in reg. 21(5)(b)(ix)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)
 
-[^key-e6ad656233e4f8b8f963fb2ac755841d]: Textual amendment: Words in reg. 21(5)(b)(ix)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)
+[^c-e6ad656233e4f8b8f963fb2ac755841d]: Textual amendment: Words in reg. 21(5)(b)(ix)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)
 
-[^key-6249e2806aeb48f66d9b6bff63ef86a4]: Textual amendment: Words in reg. 21(5)(b)(xi) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/iii/aa)
+[^c-6249e2806aeb48f66d9b6bff63ef86a4]: Textual amendment: Words in reg. 21(5)(b)(xi) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/iii/aa)
 
-[^key-865ad292fcb868b022c959f4b24c5456]: Textual amendment: Words in reg. 21(5)(b)(xi) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/iii/bb)
+[^c-865ad292fcb868b022c959f4b24c5456]: Textual amendment: Words in reg. 21(5)(b)(xi) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/iii/bb)
 
-[^key-668ed0c8d43f4ef8dda5f9fb0183732f]: Textual amendment: Reg. 21(5)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/b)
+[^c-668ed0c8d43f4ef8dda5f9fb0183732f]: Textual amendment: Reg. 21(5)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/b)

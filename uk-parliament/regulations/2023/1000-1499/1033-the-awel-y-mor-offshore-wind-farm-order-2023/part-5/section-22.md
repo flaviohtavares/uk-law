@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Private rights[^key-c96b2fa8acf1842d40ce046626a077a3]
+## 22. Private rights[^c-c96b2fa8acf1842d40ce046626a077a3]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-c96b2fa8acf1842d40ce046626a077a3]: Commencement: Art. 22 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-c96b2fa8acf1842d40ce046626a077a3]: Commencement: Art. 22 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
 [^f00030]: Footnote: Section 11(1) was amended by paragraph 14(3) of Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and section 186(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

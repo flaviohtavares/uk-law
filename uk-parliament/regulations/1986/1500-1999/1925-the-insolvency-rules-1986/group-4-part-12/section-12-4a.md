@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.4A. Quorum at meeting of creditors or contributories[^key-746b810af574de3635971fef7a59e075]
+## 12.4A. Quorum at meeting of creditors or contributories[^c-746b810af574de3635971fef7a59e075]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the meeting shall not commence until at least the expiry of 15 minutes after the
 
 ## Annotations
 
-[^key-746b810af574de3635971fef7a59e075]: Textual amendment: [Rule 12.4A](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.4A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 144](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/144)
+[^c-746b810af574de3635971fef7a59e075]: Textual amendment: [Rule 12.4A](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.4A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 144](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/144)

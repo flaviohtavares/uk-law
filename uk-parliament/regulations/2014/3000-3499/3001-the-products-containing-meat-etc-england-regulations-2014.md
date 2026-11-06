@@ -53,15 +53,15 @@ So far as the following Regulations are made in exercise of powers under the Foo
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22250111], during the preparation and evaluation of the following Regulations.
 
-## 1. Citation, application and commencement[^key-17e3e56abde497aa7d4aaed4985556db]
+## 1. Citation, application and commencement[^c-17e3e56abde497aa7d4aaed4985556db]
 
 (1) These Regulations may be cited as the Products Containing Meat etc. (England) Regulations 2014.
 
 (2) They apply in England only and come into force on 13th December 2014.
 
-(3)[^key-4e7ebe654cbb31896bb601e84cd4a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4e7ebe654cbb31896bb601e84cd4a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4e7ebe654cbb31896bb601e84cd4a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4e7ebe654cbb31896bb601e84cd4a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Interpretation
 
@@ -87,7 +87,7 @@ In these Regulations—
 - (a) that is not intended for sale for human consumption; or
 - (b) to which the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003 [^c22250141] apply.
 
-(3)[^key-ee196ee6e70a5ef1d8b392b85f798411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ee196ee6e70a5ef1d8b392b85f798411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this regulation—
 
@@ -167,7 +167,7 @@ It is the duty of a food authority within its area and a port health authority w
 
 Schedule 3 has effect.
 
-## 10. Review[^key-4439205d05fa4288f21c62fd70c6b3aa]
+## 10. Review[^c-4439205d05fa4288f21c62fd70c6b3aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,7 +187,7 @@ In this Schedule—
 - “**curing salt**” means—
   - (a) sodium chloride, if used in sufficient quantity to have a significant preserving effect on the food;
   - (b) potassium chloride, if used in sufficient quantity to have a significant preserving effect on the food;
-  - (c) a combination of any of sodium chloride, potassium chloride, sodium nitrate, potassium nitrate and sodium nitrite as authorised for use in accordance with[^key-ee9dd949605cb9a6e5ff29035633a611] Regulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives, [^key-02db16a330ed2be7494f05b2dee3b518]... except for a combination of sodium chloride and potassium chloride; or
+  - (c) a combination of any of sodium chloride, potassium chloride, sodium nitrate, potassium nitrate and sodium nitrite as authorised for use in accordance with[^c-ee9dd949605cb9a6e5ff29035633a611] Regulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives, [^c-02db16a330ed2be7494f05b2dee3b518]... except for a combination of sodium chloride and potassium chloride; or
   - (d) a combination of sodium chloride and potassium chloride, if used in sufficient quantity to have a significant preserving effect on the food.
 
     <table>
@@ -250,21 +250,21 @@ Regulation 7(5)
 
 Regulation 9
 
-### 1. The Education (Nutritional Standards and Requirements for School Food) (England) Regulations 2007[^key-29b8862bfaba41ba686bb33d69f135d9]
+### 1. The Education (Nutritional Standards and Requirements for School Food) (England) Regulations 2007[^c-29b8862bfaba41ba686bb33d69f135d9]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-29b8862bfaba41ba686bb33d69f135d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. The Requirements for School Food Regulations 2014
 
@@ -347,9 +347,9 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^c22250111]: Marginal citation: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-17e3e56abde497aa7d4aaed4985556db]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1) heading substituted (12.12.2021) by [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/2/a)
+[^c-17e3e56abde497aa7d4aaed4985556db]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1) heading substituted (12.12.2021) by [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/2/a)
 
-[^key-4e7ebe654cbb31896bb601e84cd4a8df]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1/4) omitted (12.12.2021) by virtue of [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/2/b)
+[^c-4e7ebe654cbb31896bb601e84cd4a8df]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/1/4) omitted (12.12.2021) by virtue of [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/2/b)
 
 [^c22250121]: Marginal citation: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
@@ -357,7 +357,7 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^c22250141]: Marginal citation: [S.I. 2003/3207](https://www.legislation.gov.uk/uksi/2003/3207), amended by [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626), 2630, 2007/2591, 2011/2131, 2014/1855.
 
-[^key-ee196ee6e70a5ef1d8b392b85f798411]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/3/3) omitted (17.6.2021) by virtue of [The Food (Amendment and Transitional Provisions) (England) Regulations 2021 (S.I. 2021/616)](https://www.legislation.gov.uk/uksi/2021/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/616/regulation/5) (with [reg. 6(4)](https://www.legislation.gov.uk/uksi/2021/616/regulation/6/4))
+[^c-ee196ee6e70a5ef1d8b392b85f798411]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/3/3) omitted (17.6.2021) by virtue of [The Food (Amendment and Transitional Provisions) (England) Regulations 2021 (S.I. 2021/616)](https://www.legislation.gov.uk/uksi/2021/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/616/regulation/5) (with [reg. 6(4)](https://www.legislation.gov.uk/uksi/2021/616/regulation/6/4))
 
 [^c22250151]: Marginal citation: [S.I. 2003/2075](https://www.legislation.gov.uk/uksi/2003/2075), as amended by [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626), 2008/517, 2009/3238, 2011/1043, 2012/1809.
 
@@ -367,11 +367,11 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^c22250181]: Marginal citation: [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), to which there are amendments not relevant to these Regulations.
 
-[^key-4439205d05fa4288f21c62fd70c6b3aa]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3001/regulation/10) omitted (12.12.2021) by virtue of [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/3)
+[^c-4439205d05fa4288f21c62fd70c6b3aa]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3001/regulation/10) omitted (12.12.2021) by virtue of [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/3)
 
-[^key-ee9dd949605cb9a6e5ff29035633a611]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3001/schedule/1) inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/3/2/a)
+[^c-ee9dd949605cb9a6e5ff29035633a611]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3001/schedule/1) inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/3/2/a)
 
-[^key-02db16a330ed2be7494f05b2dee3b518]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3001/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/3/2/b)
+[^c-02db16a330ed2be7494f05b2dee3b518]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3001/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/3/2/b)
 
 [^c22250201]: Marginal citation: [Section 2](https://www.legislation.gov.uk/uksi/2014/3001/section/2) was amended by paragraph 8 of Schedule 5 to the Food Standards Act 1999.
 
@@ -379,6 +379,6 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^c22250221]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/uksi/2014/3001/section/36A) was inserted by paragraph 16 of Schedule 5 to the Food Standards Act 1999.
 
-[^key-29b8862bfaba41ba686bb33d69f135d9]: Textual amendment: [Sch. 3 paras. 1-6](https://www.legislation.gov.uk/uksi/2014/3001/schedule/3/paragraph/1) omitted (12.12.2021) by virtue of [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/4)
+[^c-29b8862bfaba41ba686bb33d69f135d9]: Textual amendment: [Sch. 3 paras. 1-6](https://www.legislation.gov.uk/uksi/2014/3001/schedule/3/paragraph/1) omitted (12.12.2021) by virtue of [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1271/regulation/2/4)
 
 [^c22250241]: Marginal citation: [S.I. 2014/1603](https://www.legislation.gov.uk/uksi/2014/1603).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196. Use of evidence[^key-9de5431cb7627d8c5bc45c61ab1e275b]
+## 196. Use of evidence[^c-9de5431cb7627d8c5bc45c61ab1e275b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.7 of the 1986 Rules.
 
 ## Annotations
 
-[^key-9de5431cb7627d8c5bc45c61ab1e275b]: Commencement: Rule 196 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-9de5431cb7627d8c5bc45c61ab1e275b]: Commencement: Rule 196 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

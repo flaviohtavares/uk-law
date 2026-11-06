@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22.3. Appeals from provincial courts[^key-05c5ee2c4bea03c0690c5e3d072ba51a]
+## 22.3. Appeals from provincial courts[^c-05c5ee2c4bea03c0690c5e3d072ba51a]
 
 *Extent: E*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05c5ee2c4bea03c0690c5e3d072ba51a]: Commencement: [Rule 22.3](https://www.legislation.gov.uk/uksi/2015/1568/article/22.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-05c5ee2c4bea03c0690c5e3d072ba51a]: Commencement: [Rule 22.3](https://www.legislation.gov.uk/uksi/2015/1568/article/22.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
 [^f00011]: Footnote: Contained in the Schedule to The Judicial Committee (Appellate Jurisdiction) Rules Order 2009 ([S.I. 2009/224](https://www.legislation.gov.uk/uksi/2009/224)). Relevant amendments were made by the Judicial Committee (Appellate Jurisdiction) Rules (Amendment) Order 2013 ([S.I. 2013/246](https://www.legislation.gov.uk/uksi/2013/246)).

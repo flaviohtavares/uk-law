@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Extension to primary bid rounds[^key-2e229a2ad6ed6177998a6ac7e3f2ab52]
+## 53. Extension to primary bid rounds[^c-2e229a2ad6ed6177998a6ac7e3f2ab52]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ as that time extended by thirty minutes and OFCOM shall treat that extended time
 
 ## Annotations
 
-[^key-2e229a2ad6ed6177998a6ac7e3f2ab52]: Commencement: Reg. 53 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-2e229a2ad6ed6177998a6ac7e3f2ab52]: Commencement: Reg. 53 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

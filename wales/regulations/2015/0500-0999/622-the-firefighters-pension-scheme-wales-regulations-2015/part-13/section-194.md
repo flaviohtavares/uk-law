@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Evidence of entitlement[^key-134aedbc4a9d00cf50fae7cf6a1fc04f]
+## 194. Evidence of entitlement[^c-134aedbc4a9d00cf50fae7cf6a1fc04f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-134aedbc4a9d00cf50fae7cf6a1fc04f]: Commencement: Reg. 194 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-134aedbc4a9d00cf50fae7cf6a1fc04f]: Commencement: Reg. 194 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

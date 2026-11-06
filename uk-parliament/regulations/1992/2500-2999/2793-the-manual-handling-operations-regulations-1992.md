@@ -49,11 +49,11 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
 
 hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-bfd89b1089893e69557def490ceab232]
+## 1. Citation and commencement[^c-bfd89b1089893e69557def490ceab232]
 
 These Regulations may be cited as the Manual Handling Operations Regulations 1992 and shall come into force on 1st January 1993.
 
-## 2. Interpretation[^key-75c2fd5fe20e0dfea3f7e47c9c02d1a5]
+## 2. Interpretation[^c-75c2fd5fe20e0dfea3f7e47c9c02d1a5]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -65,15 +65,15 @@ These Regulations may be cited as the Manual Handling Operations Regulations 199
 - “load” includes any person and any animal;
 - “manual handling operations” means any transporting or supporting of a load (including the lifting, putting down, pushing, pulling, carrying or moving thereof) by hand or by bodily force.
 
-(2) Any duty imposed by these Regulations on an employer in respect of his employees shall also be imposed on a relevant self-employed person[^key-952d5ba30f1513e0a3552a0d3b455fbe] in respect of himself.
+(2) Any duty imposed by these Regulations on an employer in respect of his employees shall also be imposed on a relevant self-employed person[^c-952d5ba30f1513e0a3552a0d3b455fbe] in respect of himself.
 
-(3)[^key-9ec6873aa001a02765b218eb31b20908] For the purposes of paragraph (2) “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
+(3)[^c-9ec6873aa001a02765b218eb31b20908] For the purposes of paragraph (2) “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
 
-## 3. Disapplication of Regulations[^key-1b566759c952b42508dda5e83267842d]
+## 3. Disapplication of Regulations[^c-1b566759c952b42508dda5e83267842d]
 
 These Regulations shall not apply to or in relation to the master or crew of a sea-going ship or to the employer of such persons in respect of the normal ship-board activities of a ship’s crew under the direction of the master.
 
-## 4. Duties of employers[^key-f91ca581592aac34d15b52ad46648366]
+## 4. Duties of employers[^c-f91ca581592aac34d15b52ad46648366]
 
 (1) Each employer shall—
 
@@ -92,7 +92,7 @@ These Regulations shall not apply to or in relation to the master or crew of a s
 
 and where as a result of any such review changes to an assessment are required, the relevant employer shall make them.
 
-(3)[^key-8ac9dbd11bd309c48ed93f52f811babc] In determining for the purposes of this regulation whether manual handling operations at work involve a risk of injury and in determining the appropriate steps to reduce that risk regard shall be had in particular to—
+(3)[^c-8ac9dbd11bd309c48ed93f52f811babc] In determining for the purposes of this regulation whether manual handling operations at work involve a risk of injury and in determining the appropriate steps to reduce that risk regard shall be had in particular to—
 
 - (a) the physical suitability of the employee to carry out the operations;
 - (b) the clothing, footwear or other personal effects he is wearing;
@@ -101,11 +101,11 @@ and where as a result of any such review changes to an assessment are required, 
 - (e) whether the employee is within a group of employees identified by that assessment as being especially at risk; and
 - (f) the results of any health surveillance provided pursuant to regulation 6 of the Management of Health and Safety Regulations 1999.
 
-## 5. Duty of employees[^key-67ae0255313796fa7a37e567391760cd]
+## 5. Duty of employees[^c-67ae0255313796fa7a37e567391760cd]
 
 Each employee while at work shall make full and proper use of any system of work provided for his use by his employer in compliance with regulation 4(1)(b)(ii) of these Regulations.
 
-## 6. Exemption certificates[^key-6aa6a38a5f537232c1002f8825fc66e5]
+## 6. Exemption certificates[^c-6aa6a38a5f537232c1002f8825fc66e5]
 
 (1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt—
 
@@ -121,11 +121,11 @@ and any exemption such as is specified in sub-paragraph (a) or (b) of this parag
 - (c) “member of a headquarters” has the same meaning as in paragraph 1(1) of the Schedule to the International Headquarters and Defence Organisations Act 1964[^f00007]; and
 - (d) “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
 
-## 7. Extension outside Great Britain[^key-f868fcd67dd264896b987f44b91fde17]
+## 7. Extension outside Great Britain[^c-f868fcd67dd264896b987f44b91fde17]
 
 These Regulations shall, subject to regulation 3 hereof, apply to and in relation to the premises and activities outside Great Britain to which sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 1989[^f00008] as they apply within Great Britain.
 
-## 8. Repeals and revocations[^key-a4ab2afec945ac78491a6b0ba85709a2]
+## 8. Repeals and revocations[^c-a4ab2afec945ac78491a6b0ba85709a2]
 
 (1) The enactments mentioned in column 1 of Part I of Schedule 2 to these Regulations are repealed to the extent specified in the corresponding entry in column 3 of that part.
 
@@ -141,7 +141,7 @@ Department of Employment
 
 5th November 1992
 
-## SCHEDULE 1 — FACTORS TO WHICH THE EMPLOYER MUST HAVE REGARD AND QUESTIONS HE MUST CONSIDER WHEN MAKING AN ASSESSMENT OF MANUAL HANDLING OPERATIONS[^key-04862589bf07e99153fb6a421f61d4bd]
+## SCHEDULE 1 — FACTORS TO WHICH THE EMPLOYER MUST HAVE REGARD AND QUESTIONS HE MUST CONSIDER WHEN MAKING AN ASSESSMENT OF MANUAL HANDLING OPERATIONS[^c-04862589bf07e99153fb6a421f61d4bd]
 
 Regulation 4(1)(b)(i)
 
@@ -163,7 +163,7 @@ Regulation 4(1)(b)(i)
 
 Regulation 8
 
-### PART I — REPEALS[^key-4fabe76c57cf79e19764ebaf6fba298e]
+### PART I — REPEALS[^c-4fabe76c57cf79e19764ebaf6fba298e]
 
 <table>
 <thead>
@@ -180,7 +180,7 @@ Regulation 8
 </tbody>
 </table>
 
-### PART II — REVOCATIONS[^key-900d36c6c44e1cb9f676a423b8f1a7a6]
+### PART II — REVOCATIONS[^c-900d36c6c44e1cb9f676a423b8f1a7a6]
 
 <table>
 <thead>
@@ -228,23 +228,23 @@ Regulation 8
 
 [^f00004]: Footnote: [1920 c. 65](https://www.legislation.gov.uk/ukpga/1920/65).
 
-[^key-bfd89b1089893e69557def490ceab232]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-bfd89b1089893e69557def490ceab232]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-75c2fd5fe20e0dfea3f7e47c9c02d1a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/2793/regulation/2) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-75c2fd5fe20e0dfea3f7e47c9c02d1a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/2793/regulation/2) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-952d5ba30f1513e0a3552a0d3b455fbe]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/2793/regulation/2/2) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/3/a)
+[^c-952d5ba30f1513e0a3552a0d3b455fbe]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/2793/regulation/2/2) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/3/a)
 
-[^key-9ec6873aa001a02765b218eb31b20908]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1992/2793/regulation/2/3) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/3/b)
+[^c-9ec6873aa001a02765b218eb31b20908]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1992/2793/regulation/2/3) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/3/b)
 
-[^key-1b566759c952b42508dda5e83267842d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2793/regulation/3) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-1b566759c952b42508dda5e83267842d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2793/regulation/3) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-f91ca581592aac34d15b52ad46648366]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/2793/regulation/4) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-f91ca581592aac34d15b52ad46648366]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/2793/regulation/4) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-8ac9dbd11bd309c48ed93f52f811babc]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/1992/2793/regulation/4/3) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2174/regulation/4)
+[^c-8ac9dbd11bd309c48ed93f52f811babc]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/1992/2793/regulation/4/3) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2174/regulation/4)
 
-[^key-67ae0255313796fa7a37e567391760cd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/2793/regulation/5) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-67ae0255313796fa7a37e567391760cd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/2793/regulation/5) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-6aa6a38a5f537232c1002f8825fc66e5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/2793/regulation/6) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-6aa6a38a5f537232c1002f8825fc66e5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/2793/regulation/6) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
 [^f00005]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
@@ -252,14 +252,14 @@ Regulation 8
 
 [^f00007]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
-[^key-f868fcd67dd264896b987f44b91fde17]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2793/regulation/7) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-f868fcd67dd264896b987f44b91fde17]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2793/regulation/7) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
 [^f00008]: Footnote: S.I. [1989/840](https://www.legislation.gov.uk/uksi/1989/840).
 
-[^key-a4ab2afec945ac78491a6b0ba85709a2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/2793/regulation/8) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-a4ab2afec945ac78491a6b0ba85709a2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/2793/regulation/8) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-04862589bf07e99153fb6a421f61d4bd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2793/schedule/1) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-04862589bf07e99153fb6a421f61d4bd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2793/schedule/1) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-4fabe76c57cf79e19764ebaf6fba298e]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1992/2793/schedule/2/part/I) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-4fabe76c57cf79e19764ebaf6fba298e]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1992/2793/schedule/2/part/I) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
 
-[^key-900d36c6c44e1cb9f676a423b8f1a7a6]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1992/2793/schedule/2/part/II) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)
+[^c-900d36c6c44e1cb9f676a423b8f1a7a6]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1992/2793/schedule/2/part/II) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2793/regulation/1)

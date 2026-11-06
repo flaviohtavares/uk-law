@@ -45,7 +45,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 5 — Extended meaning of tenancy and related expressions in other enactments](part-1/section-5.md)
 - [Section 6 — Power to modify schedule 1](part-1/section-6.md)
 
-### PART 1A — Choice of tenant[^key-b45e96e0e010ec962f07b79b54f2a2fd]
+### PART 1A — Choice of tenant[^c-b45e96e0e010ec962f07b79b54f2a2fd]
 
 - [Section 6A — Offence of discriminating in relation to children](part-1a/section-6a.md)
 - [Section 6B — Offence of discriminating in relation to benefits status](part-1a/section-6b.md)
@@ -75,18 +75,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 16 — First-tier Tribunal's power to sanction failure to provide information](part-3/section-16.md)
 - [Section 17 — Meaning of notice period in sections 14 and 16](part-3/section-17.md)
 
-#### Information about rent to be included in advertisements[^key-83c4120956e5306ee500f6157816cef5]
+#### Information about rent to be included in advertisements[^c-83c4120956e5306ee500f6157816cef5]
 
 - [Section 17A — Prospective landlords’ duty to include information about rent in advertisements: property is not exempt property](part-3/section-17a.md)
 - [Section 17B — Prospective landlords’ duty to include information about property in advertisements: exempt property](part-3/section-17b.md)
 
-### PART 4 — Rent: properties not in a rent control area (or properties that are exempt properties)[^key-584221123c7dd6e862da692f49e1abaf]
+### PART 4 — Rent: properties not in a rent control area (or properties that are exempt properties)[^c-584221123c7dd6e862da692f49e1abaf]
 
 *Extent: S*
 
 #### CHAPTER 1 — Restrictions in relation to rent, other charges and diligence
 
-##### Application of this Part[^key-2a2e6d8fc941cd8ff464a7900385ce64]
+##### Application of this Part[^c-2a2e6d8fc941cd8ff464a7900385ce64]
 
 - [Section 17C — Application of this Part](part-4/section-17c.md)
 - [Section 17D — Meaning of “exempt property”](part-4/section-17d.md)
@@ -126,7 +126,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 33ZA — Power to modify Chapter 2](part-4/section-33za.md)
 
-#### Chapter 2A — Rent variation instigated by landlord’s application to rent officer[^key-08dbe55bb150b2368149136b0f779c84]
+#### Chapter 2A — Rent variation instigated by landlord’s application to rent officer[^c-08dbe55bb150b2368149136b0f779c84]
 
 - [Section 33A — Landlord application to rent officer to increase rent above permitted rate](part-4/section-33a.md)
 - [Section 33B — Rent officer’s power to apply rent increase above permitted rate](part-4/section-33b.md)
@@ -144,15 +144,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 34A — Power to modify Chapter](part-4/section-34a.md)
 
-### Part 4A — Rent: properties in a rent control area (other than exempt properties)[^key-2bc8b7ee75e99ad342663964f6ce171a]
+### Part 4A — Rent: properties in a rent control area (other than exempt properties)[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
-#### Chapter 1 — Initial provisions and restrictions in relation to rent etc.[^key-2bc8b7ee75e99ad342663964f6ce171a]
+#### Chapter 1 — Initial provisions and restrictions in relation to rent etc.[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
-##### Application of this Part[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Application of this Part[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43A — Application of this Part](part-4a/section-43a.md)
 
-##### Key definitions in this Part[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Key definitions in this Part[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43B — Meaning of property that is “previously let” and the “immediately preceding tenancy”](part-4a/section-43b.md)
 - [Section 43C — Meaning of “relevant rent increase”](part-4a/section-43c.md)
@@ -160,28 +160,28 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43E — Meaning of “permitted rate”: further provision](part-4a/section-43e.md)
 - [Section 43F — Meaning of other terms](part-4a/section-43f.md)
 
-##### Restriction on setting of initial rent by landlord[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Restriction on setting of initial rent by landlord[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43G — Restriction on setting of initial rent by landlord](part-4a/section-43g.md)
 
-##### Restrictions on rent increases[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Restrictions on rent increases[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43H — Method by which rent may be increased](part-4a/section-43h.md)
 - [Section 43I — Frequency with which rent may be increased](part-4a/section-43i.md)
 
-##### Restrictions on other charges and diligence[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Restrictions on other charges and diligence[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43J — No premiums, advance payments, etc.](part-4a/section-43j.md)
 - [Section 43K — Restriction on diligence](part-4a/section-43k.md)
 
-#### Chapter 2 — rent variation instigated by landlord’s notice[^key-2bc8b7ee75e99ad342663964f6ce171a]
+#### Chapter 2 — rent variation instigated by landlord’s notice[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
-##### Rent-increase notice given by landlord[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Rent-increase notice given by landlord[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43L — Landlord’s power to increase rent by no more than the permitted rate](part-4a/section-43l.md)
 - [Section 43M — Modification of rent-increase notice by parties](part-4a/section-43m.md)
 
-##### Tenant’s referral of rent-increase notice to rent officer[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Tenant’s referral of rent-increase notice to rent officer[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43N — Tenant’s right to refer rent-increase notice to rent officer](part-4a/section-43n.md)
 - [Section 43O — Rent officer’s power to set rent](part-4a/section-43o.md)
@@ -189,21 +189,21 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43Q — Right of review to another rent officer](part-4a/section-43q.md)
 - [Section 43R — Other rent officer’s power to set rent](part-4a/section-43r.md)
 
-##### Tenant’s application to First-tier Tribunal relating to rent-increase notice[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Tenant’s application to First-tier Tribunal relating to rent-increase notice[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43S — Tenant's right to apply to First-tier Tribunal in relation to rent-increase notice](part-4a/section-43s.md)
 - [Section 43T — First-tier Tribunal’s powers on an application under section 43S(1)](part-4a/section-43t.md)
 
-##### Matters arising from referral to rent officer or application to First-tier Tribunal[^key-2bc8b7ee75e99ad342663964f6ce171a]
+##### Matters arising from referral to rent officer or application to First-tier Tribunal[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43U — Tenant’s liability for underpaid rent](part-4a/section-43u.md)
 - [Section 43V — Withdrawal of referral or request for review by rent officer or application to First-tier Tribunal](part-4a/section-43v.md)
 
-#### Chapter 3 — Power of First-tier Tribunal to require landlords to pay penalty or compensation[^key-2bc8b7ee75e99ad342663964f6ce171a]
+#### Chapter 3 — Power of First-tier Tribunal to require landlords to pay penalty or compensation[^c-2bc8b7ee75e99ad342663964f6ce171a]
 
 - [Section 43W — Power of First-tier Tribunal to require landlords to pay penalty or compensation](part-4a/section-43w.md)
 
-### PART 5 — Termination[^key-02e726a2f3f2436118fe0b1d220ef7f7]
+### PART 5 — Termination[^c-02e726a2f3f2436118fe0b1d220ef7f7]
 
 *Extent: S*
 
@@ -259,9 +259,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 63 — Landlord includes lender in some cases](part-5/section-63.md)
 - [Section 64 — Six month periods](part-5/section-64.md)
 
-### Part 5A — keeping pets and making changes to let property[^key-8112fb098066cb519d2599e570ad4317]
+### Part 5A — keeping pets and making changes to let property[^c-8112fb098066cb519d2599e570ad4317]
 
-#### Chapter 1 — Keeping pets[^key-8112fb098066cb519d2599e570ad4317]
+#### Chapter 1 — Keeping pets[^c-8112fb098066cb519d2599e570ad4317]
 
 - [Section 64A — Tenant’s right to keep a pet](part-5a/section-64a.md)
 - [Section 64B — Consent to keep a pet](part-5a/section-64b.md)
@@ -271,7 +271,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 64F — Power to make provision about when a consent condition for keeping a pet is reasonable](part-5a/section-64f.md)
 - [Section 64G — Regulations under sections 64E and 64F: consultation](part-5a/section-64g.md)
 
-#### Chapter 2 — Making changes to let property[^key-8112fb098066cb519d2599e570ad4317]
+#### Chapter 2 — Making changes to let property[^c-8112fb098066cb519d2599e570ad4317]
 
 - [Section 64H — Tenant’s right to make changes to let property](part-5a/section-64h.md)
 - [Section 64I — Consent for category 2 changes](part-5a/section-64i.md)
@@ -323,28 +323,28 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-[^key-6e25e4a30469836166c41296d0cc2342]
+[^c-6e25e4a30469836166c41296d0cc2342]
 
 ## Annotations
 
-[^key-b45e96e0e010ec962f07b79b54f2a2fd]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/asp/2016/19/part/1A) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/50/2), [145(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/4) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/125/regulation/3))
+[^c-b45e96e0e010ec962f07b79b54f2a2fd]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/asp/2016/19/part/1A) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/50/2), [145(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/4) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/125/regulation/3))
 
-[^key-83c4120956e5306ee500f6157816cef5]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/asp/2016/19/section/17A) and cross-heading inserted (for the purposes of an advertisement placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 22(2)](https://www.legislation.gov.uk/asp/2025/13/section/22/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-83c4120956e5306ee500f6157816cef5]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/asp/2016/19/section/17A) and cross-heading inserted (for the purposes of an advertisement placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 22(2)](https://www.legislation.gov.uk/asp/2025/13/section/22/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-584221123c7dd6e862da692f49e1abaf]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/asp/2016/19/part/4) heading substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/13/section/23/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-584221123c7dd6e862da692f49e1abaf]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/asp/2016/19/part/4) heading substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/13/section/23/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-2a2e6d8fc941cd8ff464a7900385ce64]: Textual amendment: [Ss. 17C](https://www.legislation.gov.uk/asp/2016/19/section/17C), [17D](https://www.legislation.gov.uk/asp/2016/19/section/17D) and cross-heading inserted (7.1.2026 for the insertion of s. 17D and 1.4.2026 in so far as not already in force) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/a); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1
+[^c-2a2e6d8fc941cd8ff464a7900385ce64]: Textual amendment: [Ss. 17C](https://www.legislation.gov.uk/asp/2016/19/section/17C), [17D](https://www.legislation.gov.uk/asp/2016/19/section/17D) and cross-heading inserted (7.1.2026 for the insertion of s. 17D and 1.4.2026 in so far as not already in force) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/a); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1
 
 [^M_F_d8578016-aacf-44ae-c5fc-952cdb23d4ba]: Textual amendment: [S. 33ZA](https://www.legislation.gov.uk/asp/2016/19/section/33ZA) and cross-heading inserted (temp. until the end of 31.3.2025) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 3 para. 1(2)](https://www.legislation.gov.uk/asp/2022/10/schedule/3/paragraph/1/2) (with [s. 11](https://www.legislation.gov.uk/asp/2022/10/section/11)) (as amended (31.3.2023) by [S.S.I. 2023/116](https://www.legislation.gov.uk/ssi/2023/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/116/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/116/regulation/2/2/b)) (with savings for expiry in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))
 
-[^key-08dbe55bb150b2368149136b0f779c84]: Textual amendment: [Pt. 4 Ch. 2A](https://www.legislation.gov.uk/asp/2016/19/part/4/chapter/2A) heading and ss. 33A-33G treated as inserted (temp. until the end of 31.3.2024) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 1 para. 1(1)(17)](https://www.legislation.gov.uk/asp/2022/10/schedule/1/paragraph/1/17) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended: (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2); and [S.S.I. 2024/89](https://www.legislation.gov.uk/ssi/2024/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/89/regulation/1/1), [2(1)(5)](https://www.legislation.gov.uk/ssi/2024/89/regulation/2/1/5)) (with saving for expiry in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/19/regulation/2))
+[^c-08dbe55bb150b2368149136b0f779c84]: Textual amendment: [Pt. 4 Ch. 2A](https://www.legislation.gov.uk/asp/2016/19/part/4/chapter/2A) heading and ss. 33A-33G treated as inserted (temp. until the end of 31.3.2024) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 1 para. 1(1)(17)](https://www.legislation.gov.uk/asp/2022/10/schedule/1/paragraph/1/17) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended: (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2); and [S.S.I. 2024/89](https://www.legislation.gov.uk/ssi/2024/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/89/regulation/1/1), [2(1)(5)](https://www.legislation.gov.uk/ssi/2024/89/regulation/2/1/5)) (with saving for expiry in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/19/regulation/2))
 
 [^M_F_1d995282-b6da-43ae-b7f8-62fedca73fe1]: Textual amendment: S. 34A and cross-heading (which is treated as temp. inserted) renumbered as s. 33ZA and cross-heading (31.3.2023) by virtue of [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Incidental Provision) Regulations 2023 (S.S.I. 2023/116)](https://www.legislation.gov.uk/ssi/2023/116), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/116/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2023/116/regulation/2/2/b/i)
 
-[^key-2bc8b7ee75e99ad342663964f6ce171a]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/asp/2016/19/part/4A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-2bc8b7ee75e99ad342663964f6ce171a]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/asp/2016/19/part/4A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-02e726a2f3f2436118fe0b1d220ef7f7]: Modification: Pt. 5 excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-02e726a2f3f2436118fe0b1d220ef7f7]: Modification: Pt. 5 excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
 
-[^key-8112fb098066cb519d2599e570ad4317]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2016/19/part/5A) inserted (1.4.2026 for the purpose of inserting ss. 64B(1)(3), 64C(3), 64E, 64F, 64G, 64I(1)(3), 64J(3), 64L, 64M, 64N, and 64O to enable the Scottish Ministers to consult or make regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 35(2)](https://www.legislation.gov.uk/asp/2025/13/section/35/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-8112fb098066cb519d2599e570ad4317]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2016/19/part/5A) inserted (1.4.2026 for the purpose of inserting ss. 64B(1)(3), 64C(3), 64E, 64F, 64G, 64I(1)(3), 64J(3), 64L, 64M, 64N, and 64O to enable the Scottish Ministers to consult or make regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 35(2)](https://www.legislation.gov.uk/asp/2025/13/section/35/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-6e25e4a30469836166c41296d0cc2342]: Textual amendment: [Pt. 4 Ch. 3](https://www.legislation.gov.uk/asp/2016/19/part/4/chapter/3) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 7(3)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/3); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-6e25e4a30469836166c41296d0cc2342]: Textual amendment: [Pt. 4 Ch. 3](https://www.legislation.gov.uk/asp/2016/19/part/4/chapter/3) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 7(3)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/3); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

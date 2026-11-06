@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Authorisation of use etc. after examination: adult's nearest relative[^key-865cd4b3be09e73d847fd46a58d75206]
+## 43. Authorisation of use etc. after examination: adult's nearest relative[^c-865cd4b3be09e73d847fd46a58d75206]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-865cd4b3be09e73d847fd46a58d75206]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2006/4/section/43) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-865cd4b3be09e73d847fd46a58d75206]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2006/4/section/43) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

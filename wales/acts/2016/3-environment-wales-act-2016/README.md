@@ -57,7 +57,7 @@ An Act of the National Assembly for Wales to promote sustainable management of n
 - [Section 6 — Biodiversity and resilience of ecosystems duty](part-1/section-6.md)
 - [Section 6A — Evaluation of action to maintain and enhance biodiversity](part-1/section-6a.md)
 
-#### Biodiversity targets[^key-9d208f1228c7636e1f852fa036cdbfaa]
+#### Biodiversity targets[^c-9d208f1228c7636e1f852fa036cdbfaa]
 
 - [Section 6B — Biodiversity targets: general](part-1/section-6b.md)
 - [Section 6C — Duty to make regulations setting targets: priority areas](part-1/section-6c.md)
@@ -68,7 +68,7 @@ An Act of the National Assembly for Wales to promote sustainable management of n
 - [Section 6H — Revoking or lowering targets](part-1/section-6h.md)
 - [Section 6I — Statement about targets](part-1/section-6i.md)
 
-#### Biodiversity lists[^key-359da86e6b846bd341c026a4194462ca]
+#### Biodiversity lists[^c-359da86e6b846bd341c026a4194462ca]
 
 - [Section 7 — Biodiversity lists and duty to take steps to maintain and enhance biodiversity](part-1/section-7.md)
 
@@ -76,7 +76,7 @@ An Act of the National Assembly for Wales to promote sustainable management of n
 
 - [Section 8 — Duty to prepare and publish state of natural resources report](part-1/section-8.md)
 
-#### Duties of the Welsh Ministers[^key-48160b8d68fb7702798c28424511a9ad]
+#### Duties of the Welsh Ministers[^c-48160b8d68fb7702798c28424511a9ad]
 
 - [Section 8A — Duty to promote awareness of biodiversity](part-1/section-8a.md)
 - [Section 9 — Duty to prepare, publish and implement national natural resources policy](part-1/section-9.md)
@@ -262,8 +262,8 @@ An Act of the National Assembly for Wales to promote sustainable management of n
 
 ## Annotations
 
-[^key-9d208f1228c7636e1f852fa036cdbfaa]: Textual amendment: [Ss. 6B-6I](https://www.legislation.gov.uk/anaw/2016/3/section/6B) and cross-heading inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(1)](https://www.legislation.gov.uk/asc/2026/4/section/35/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-9d208f1228c7636e1f852fa036cdbfaa]: Textual amendment: [Ss. 6B-6I](https://www.legislation.gov.uk/anaw/2016/3/section/6B) and cross-heading inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(1)](https://www.legislation.gov.uk/asc/2026/4/section/35/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-359da86e6b846bd341c026a4194462ca]: Textual amendment: [S. 7 cross-heading](https://www.legislation.gov.uk/anaw/2016/3/part/1/crossheading/general-duties-of-public-authorities) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(2)](https://www.legislation.gov.uk/asc/2026/4/section/35/2), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-359da86e6b846bd341c026a4194462ca]: Textual amendment: [S. 7 cross-heading](https://www.legislation.gov.uk/anaw/2016/3/part/1/crossheading/general-duties-of-public-authorities) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(2)](https://www.legislation.gov.uk/asc/2026/4/section/35/2), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
 
-[^key-48160b8d68fb7702798c28424511a9ad]: Textual amendment: [S. 9 cross-heading](https://www.legislation.gov.uk/anaw/2016/3/part/1/crossheading/national-natural-resources-policy) substituted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 40(1)](https://www.legislation.gov.uk/asc/2026/4/section/40/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-48160b8d68fb7702798c28424511a9ad]: Textual amendment: [S. 9 cross-heading](https://www.legislation.gov.uk/anaw/2016/3/part/1/crossheading/national-natural-resources-policy) substituted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 40(1)](https://www.legislation.gov.uk/asc/2026/4/section/40/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)

@@ -27,9 +27,9 @@ In this Act—
 - “**enactment**” includes—
   - (a) an enactment contained in subordinate legislation (within the meaning of the Interpretation Act 1978), and
   - (b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament, an Act or Measure of the National Assembly for Wales or Northern Ireland legislation,
-- “**financial year**” means a period of 12 months ending with 31 March (but see also the definition of that expression in paragraph 3 of Schedule 2[^key-187e45035c7452df33e230d9594be599]... and paragraph 19 of Schedule 7), and
+- “**financial year**” means a period of 12 months ending with 31 March (but see also the definition of that expression in paragraph 3 of Schedule 2[^c-187e45035c7452df33e230d9594be599]... and paragraph 19 of Schedule 7), and
 - “**the health service**” means the comprehensive health service in England continued under section 1(1) of the National Health Service Act 2006.
 
 ## Annotations
 
-[^key-187e45035c7452df33e230d9594be599]: Textual amendment: Words in [s. 126](https://www.legislation.gov.uk/ukpga/2014/23/section/126) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(15)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/15) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-187e45035c7452df33e230d9594be599]: Textual amendment: Words in [s. 126](https://www.legislation.gov.uk/ukpga/2014/23/section/126) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(15)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/15) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

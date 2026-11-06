@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Collective money purchase benefits – amendments to secondary legislation[^key-07daf4c6918f0654e57a11b536b65777]
+## 35. Collective money purchase benefits – amendments to secondary legislation[^c-07daf4c6918f0654e57a11b536b65777]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 contains amendments to secondary legislation in relation to pension s
 
 ## Annotations
 
-[^key-07daf4c6918f0654e57a11b536b65777]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2022/255/regulation/35) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-07daf4c6918f0654e57a11b536b65777]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2022/255/regulation/35) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

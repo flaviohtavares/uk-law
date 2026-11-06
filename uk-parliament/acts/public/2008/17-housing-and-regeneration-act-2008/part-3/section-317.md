@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Building regulations: time limit for prosecutions[^key-617ee874d09c8e1f623c8ba306459426]
+## 317. Building regulations: time limit for prosecutions[^c-617ee874d09c8e1f623c8ba306459426]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-617ee874d09c8e1f623c8ba306459426]: Commencement: [S. 317](https://www.legislation.gov.uk/ukpga/2008/17/section/317) in force at 22.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/2358/article/4/a)
+[^c-617ee874d09c8e1f623c8ba306459426]: Commencement: [S. 317](https://www.legislation.gov.uk/ukpga/2008/17/section/317) in force at 22.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/2358/article/4/a)

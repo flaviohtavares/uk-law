@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Deposit and return schemes[^key-99bf00a1886191d97a7c843690deac64]
+## 84. Deposit and return schemes[^c-99bf00a1886191d97a7c843690deac64]
 
 *Extent: S*
 
@@ -105,10 +105,10 @@ summary: ''
 - (p) the enforcement of the duties imposed by the regulations;
 - (q) offences in relation to failures to comply with requirements of the regulations.
 
-(8)[^key-b35acdcfd83e991ab87fec620f594bfc] For the purpose of this section and any regulations made under it, “**packaging**” has the meaning given by Article 3 of [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) of the European Parliament and of the Council on packaging and packaging waste.
+(8)[^c-b35acdcfd83e991ab87fec620f594bfc] For the purpose of this section and any regulations made under it, “**packaging**” has the meaning given by Article 3 of [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) of the European Parliament and of the Council on packaging and packaging waste.
 
 ## Annotations
 
-[^key-99bf00a1886191d97a7c843690deac64]: Commencement: S. 84 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-99bf00a1886191d97a7c843690deac64]: Commencement: S. 84 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-b35acdcfd83e991ab87fec620f594bfc]: Textual amendment: S. 84(8) inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(3)](https://www.legislation.gov.uk/asp/2024/13/section/10/3), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-b35acdcfd83e991ab87fec620f594bfc]: Textual amendment: S. 84(8) inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(3)](https://www.legislation.gov.uk/asp/2024/13/section/10/3), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)

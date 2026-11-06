@@ -32,9 +32,9 @@ summary: ''
 - (c) a registered midwife;
 - (d) a person whose name is entered in the part of the Health and Care Professions Council register relating to—
   - (i) chiropodists and podiatrists,
-  - (ii) physiotherapists, [^key-02838518f5e1790952dd00332bbc20db]...
+  - (ii) physiotherapists, [^c-02838518f5e1790952dd00332bbc20db]...
   - (iii) radiographers: diagnostic or therapeutic; or
-  - (iv)[^key-b0b4d2b0ebb8dc5a02db88b21c605dfb] paramedics; or
+  - (iv)[^c-b0b4d2b0ebb8dc5a02db88b21c605dfb] paramedics; or
 - (e) a registered optometrist.
 
 (3) Regulation 214(1) does not apply to the sale or supply of a prescription only medicine by a pharmacist where—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02838518f5e1790952dd00332bbc20db]: Textual amendment: Word in reg. 228(2)(d)(ii) omitted (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/199/regulation/8/2/a) and word in reg. 228(2)(d)(ii) omitted (N.I.) (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/nisr/2018/64/regulation/8/2/a)
+[^c-02838518f5e1790952dd00332bbc20db]: Textual amendment: Word in reg. 228(2)(d)(ii) omitted (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/199/regulation/8/2/a) and word in reg. 228(2)(d)(ii) omitted (N.I.) (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/nisr/2018/64/regulation/8/2/a)
 
-[^key-b0b4d2b0ebb8dc5a02db88b21c605dfb]: Textual amendment: Reg. 228(2)(d)(iv) inserted (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/199/regulation/8/2/b) and reg. 228(2)(d)(iv) inserted (N.I.) (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/nisr/2018/64/regulation/8/2/b)
+[^c-b0b4d2b0ebb8dc5a02db88b21c605dfb]: Textual amendment: Reg. 228(2)(d)(iv) inserted (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/199/regulation/8/2/b) and reg. 228(2)(d)(iv) inserted (N.I.) (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/nisr/2018/64/regulation/8/2/b)

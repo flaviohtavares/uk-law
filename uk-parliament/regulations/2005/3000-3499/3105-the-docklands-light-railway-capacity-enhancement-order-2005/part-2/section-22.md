@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Power to survey and investigate land, etc.[^key-017a5e433e26e0920601d8b31f46fc5b]
+## 22. Power to survey and investigate land, etc.[^c-017a5e433e26e0920601d8b31f46fc5b]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-017a5e433e26e0920601d8b31f46fc5b]: Commencement: Art. 22 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-017a5e433e26e0920601d8b31f46fc5b]: Commencement: Art. 22 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

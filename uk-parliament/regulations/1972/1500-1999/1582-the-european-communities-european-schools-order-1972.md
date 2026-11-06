@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (European Schools) Order 1972 (revoked)[^key-ae7c2a1cd6ddbfff71282260539efa81]
+The European Communities (European Schools) Order 1972 (revoked)[^c-ae7c2a1cd6ddbfff71282260539efa81]
 
 Made
 
@@ -45,18 +45,18 @@ Coming into Operation
 
 21st November 1972
 
-[^key-ae7c2a1cd6ddbfff71282260539efa81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae7c2a1cd6ddbfff71282260539efa81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ae7c2a1cd6ddbfff71282260539efa81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ae7c2a1cd6ddbfff71282260539efa81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ae7c2a1cd6ddbfff71282260539efa81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ae7c2a1cd6ddbfff71282260539efa81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae7c2a1cd6ddbfff71282260539efa81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae7c2a1cd6ddbfff71282260539efa81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae7c2a1cd6ddbfff71282260539efa81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae7c2a1cd6ddbfff71282260539efa81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae7c2a1cd6ddbfff71282260539efa81]: Textual amendment: Order revoked (1.9.2021) by [The European Union (European Schools) Regulations 2021 (S.I. 2021/560)](https://www.legislation.gov.uk/uksi/2021/560), [reg. 1](https://www.legislation.gov.uk/uksi/2021/560/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/560/schedule)
+[^c-ae7c2a1cd6ddbfff71282260539efa81]: Textual amendment: Order revoked (1.9.2021) by [The European Union (European Schools) Regulations 2021 (S.I. 2021/560)](https://www.legislation.gov.uk/uksi/2021/560), [reg. 1](https://www.legislation.gov.uk/uksi/2021/560/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/560/schedule)

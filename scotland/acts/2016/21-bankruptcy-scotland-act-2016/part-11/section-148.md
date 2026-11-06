@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Discharge of trustee[^key-0c3a4646f707096858c27cd0e3d3c503]
+## 148. Discharge of trustee[^c-0c3a4646f707096858c27cd0e3d3c503]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ in respect of any act or omission of the trustee in exercising the functions con
 
 ## Annotations
 
-[^key-0c3a4646f707096858c27cd0e3d3c503]: Commencement: [S. 148](https://www.legislation.gov.uk/asp/2016/21/section/148) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0c3a4646f707096858c27cd0e3d3c503]: Commencement: [S. 148](https://www.legislation.gov.uk/asp/2016/21/section/148) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

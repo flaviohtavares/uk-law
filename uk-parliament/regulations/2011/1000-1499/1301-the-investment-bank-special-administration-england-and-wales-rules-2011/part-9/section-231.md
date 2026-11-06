@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 231. Witness statements – general[^key-64ce6354e1814487469c0b921e1f34f2]
+## 231. Witness statements – general[^c-64ce6354e1814487469c0b921e1f34f2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64ce6354e1814487469c0b921e1f34f2]: Commencement: [Rule 231](https://www.legislation.gov.uk/uksi/2011/1301/rule/231) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-64ce6354e1814487469c0b921e1f34f2]: Commencement: [Rule 231](https://www.legislation.gov.uk/uksi/2011/1301/rule/231) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Transactions in certain securities.[^key-812cabecfb4f6bd6738dd905f7c5503a]
+## 175. Transactions in certain securities.[^c-812cabecfb4f6bd6738dd905f7c5503a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-812cabecfb4f6bd6738dd905f7c5503a]: Textual amendment: [S. 175](https://www.legislation.gov.uk/ukpga/1996/8/section/175) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 292](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/292), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-812cabecfb4f6bd6738dd905f7c5503a]: Textual amendment: [S. 175](https://www.legislation.gov.uk/ukpga/1996/8/section/175) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 292](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/292), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

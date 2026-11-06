@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Providing basic advice on stakeholder products[^key-fdc4b21ff5c0384488191332b4f25ab0]
+## 52B. Providing basic advice on stakeholder products[^c-fdc4b21ff5c0384488191332b4f25ab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,13 +35,13 @@ summary: ''
 - “retail consumer” means any person who is advised by P on the merits of opening or buying a stakeholder product in the course of a business carried on by P and who does not receive the advice in the course of a business carried on by him;
 - “stakeholder product” means—
   - (a) an account which qualifies as a stakeholder child trust fund within the meaning given by the Child Trust Funds Regulations 2004;
-  - (b) rights under a stakeholder pension scheme;[^key-580634cfd4be3eadf4b465a01e238930]
+  - (b) rights under a stakeholder pension scheme;[^c-580634cfd4be3eadf4b465a01e238930]
 - “relevant stakeholder pension scheme” means a stakeholder pension scheme within the meaning given by section 1 of the Welfare Reform and Pensions Act 1999 and which is subject to lifestyling, and
 - “lifestyling” means the process, applied from a date at least five years before the member’s retirement date, or, in the case of a member who joins the scheme less than five years before his retirement date, immediately after he becomes a member, and continuing until the member’s retirement date, by which an investment strategy is adopted by the trustees or manager which aims progressively to minimise the variation or potential variation in the value of the member’s rights caused by market conditions from time to time, and the words “member” and “scheme” have the same meaning as they have in the Welfare Reform and Pensions Act 1999;
   - (a) an investment of a kind specified in regulations made by the Treasury.
 
 ## Annotations
 
-[^key-fdc4b21ff5c0384488191332b4f25ab0]: Textual amendment: Pt. 2 Ch. 11A inserted (6.4.2005) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2004 (S.I. 2004/2737)](https://www.legislation.gov.uk/uksi/2004/2737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/2737/article/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2737/article/3)
+[^c-fdc4b21ff5c0384488191332b4f25ab0]: Textual amendment: Pt. 2 Ch. 11A inserted (6.4.2005) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2004 (S.I. 2004/2737)](https://www.legislation.gov.uk/uksi/2004/2737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/2737/article/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2737/article/3)
 
-[^key-580634cfd4be3eadf4b465a01e238930]: Textual amendment: Words in art. 52B(3) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2005 (S.I. 2005/593)](https://www.legislation.gov.uk/uksi/2005/593), [arts. 1](https://www.legislation.gov.uk/uksi/2005/593/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/593/article/2/3)
+[^c-580634cfd4be3eadf4b465a01e238930]: Textual amendment: Words in art. 52B(3) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2005 (S.I. 2005/593)](https://www.legislation.gov.uk/uksi/2005/593), [arts. 1](https://www.legislation.gov.uk/uksi/2005/593/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/593/article/2/3)

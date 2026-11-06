@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Consular declaration[^key-a8001aae961a0782c68ac3efa9c50ff9]
+## 19. Consular declaration[^c-a8001aae961a0782c68ac3efa9c50ff9]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ Before the parties to a civil partnership can change their civil partnership int
 
 ## Annotations
 
-[^key-a8001aae961a0782c68ac3efa9c50ff9]: Commencement: Art. 19 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-a8001aae961a0782c68ac3efa9c50ff9]: Commencement: Art. 19 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

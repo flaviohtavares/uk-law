@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Duration of records[^key-618bd2bef8c22c276ab90c17fa9d41b5]
+## 43. Duration of records[^c-618bd2bef8c22c276ab90c17fa9d41b5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any person required to make a record under these Regulations must keep it for fi
 
 ## Annotations
 
-[^key-618bd2bef8c22c276ab90c17fa9d41b5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2021/77/regulation/43) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-618bd2bef8c22c276ab90c17fa9d41b5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2021/77/regulation/43) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

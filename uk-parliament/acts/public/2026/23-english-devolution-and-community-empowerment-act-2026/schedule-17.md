@@ -24,7 +24,7 @@ summary: ''
 
 Section 35
 
-**1.**[^key-73c3d973caf7e74db8fe30c02cb846ec] (1) The Planning Act 2008 is amended as follows.
+**1.**[^c-73c3d973caf7e74db8fe30c02cb846ec] (1) The Planning Act 2008 is amended as follows.
 
 (2) In section 206 (the charge), before its amendment by section 139 of LURA 2023—
 
@@ -94,4 +94,4 @@ Section 35
 
 ## Annotations
 
-[^key-73c3d973caf7e74db8fe30c02cb846ec]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-73c3d973caf7e74db8fe30c02cb846ec]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

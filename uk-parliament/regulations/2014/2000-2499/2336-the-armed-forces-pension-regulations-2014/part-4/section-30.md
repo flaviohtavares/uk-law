@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Receipt of transfer values[^key-b7062afdf3854a49525bdb86374d262f]
+## 30. Receipt of transfer values[^c-b7062afdf3854a49525bdb86374d262f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7062afdf3854a49525bdb86374d262f]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2014/2336/regulation/30) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-b7062afdf3854a49525bdb86374d262f]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2014/2336/regulation/30) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

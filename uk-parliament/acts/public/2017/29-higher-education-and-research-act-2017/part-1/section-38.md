@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Duty to monitor etc the provision of arrangements for student transfers[^key-5d10d3db25a23a0c64b1c39044d8f8b6]
+## 38. Duty to monitor etc the provision of arrangements for student transfers[^c-5d10d3db25a23a0c64b1c39044d8f8b6]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d10d3db25a23a0c64b1c39044d8f8b6]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/29/section/38) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/d)
+[^c-5d10d3db25a23a0c64b1c39044d8f8b6]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/29/section/38) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Local non-domestic rating lists for Welsh billing authorities.[^key-cd0d4f3b9053fe0790346301007d0d1e]
+## 37. Local non-domestic rating lists for Welsh billing authorities.[^c-cd0d4f3b9053fe0790346301007d0d1e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd0d4f3b9053fe0790346301007d0d1e]: Textual amendment: S. 37 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/2)
+[^c-cd0d4f3b9053fe0790346301007d0d1e]: Textual amendment: S. 37 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 2(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2/2)

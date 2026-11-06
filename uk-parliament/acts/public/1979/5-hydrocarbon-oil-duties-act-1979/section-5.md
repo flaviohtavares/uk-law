@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b275e5c27e1cbdb84909e79fd540115f] In this Act “**road fuel gas**” means any substance which is gaseous at a temperature of 15°C and under a pressure of 1013·25 millibars, and which is for use as fuel in road vehicles.
+(1)[^c-b275e5c27e1cbdb84909e79fd540115f] In this Act “**road fuel gas**” means any substance which is gaseous at a temperature of 15°C and under a pressure of 1013·25 millibars, and which is for use as fuel in road vehicles.
 
-(2)[^key-6be783ea51cfed83c652a5ee72e362cc] In this Act “**natural road fuel gas**”is road fuel gas with a methane content of not less than 80%.
+(2)[^c-6be783ea51cfed83c652a5ee72e362cc] In this Act “**natural road fuel gas**”is road fuel gas with a methane content of not less than 80%.
 
 ## Annotations
 
-[^key-b275e5c27e1cbdb84909e79fd540115f]: Textual amendment: S. 5 renumbered as s. 5(1) (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/1)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/4)
+[^c-b275e5c27e1cbdb84909e79fd540115f]: Textual amendment: S. 5 renumbered as s. 5(1) (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/1)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/4)
 
-[^key-6be783ea51cfed83c652a5ee72e362cc]: Textual amendment: S. 5(2) added (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/1)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/4)
+[^c-6be783ea51cfed83c652a5ee72e362cc]: Textual amendment: S. 5(2) added (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/1)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/6/4)

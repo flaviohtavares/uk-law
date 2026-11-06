@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Incorporation of Harbours, Docks, and Piers Clauses Act 1847[^key-becd318e0571d93422a67444fcf3f796]
+## 3. Incorporation of Harbours, Docks, and Piers Clauses Act 1847[^c-becd318e0571d93422a67444fcf3f796]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraphs (2) and (3), sections 2, 3, 23, 27, 29, 31 to 46, 51,[^key-4d370a0ff74ab196dcbc501e318f749d] 52, 53, 55 to 59, 61 to 66, 69 to 71 and 73 to 78 of the 1847 Act are incorporated in this Order.
+(1) Subject to paragraphs (2) and (3), sections 2, 3, 23, 27, 29, 31 to 46, 51,[^c-4d370a0ff74ab196dcbc501e318f749d] 52, 53, 55 to 59, 61 to 66, 69 to 71 and 73 to 78 of the 1847 Act are incorporated in this Order.
 
 (2) For the purposes of the sections incorporated by paragraph (1)—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-becd318e0571d93422a67444fcf3f796]: Commencement: Art. 3 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-becd318e0571d93422a67444fcf3f796]: Commencement: Art. 3 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
 
-[^key-4d370a0ff74ab196dcbc501e318f749d]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1777/article/3/1) inserted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(3)](https://www.legislation.gov.uk/uksi/2026/724/article/39/3) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-4d370a0ff74ab196dcbc501e318f749d]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1777/article/3/1) inserted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(3)](https://www.legislation.gov.uk/uksi/2026/724/article/39/3) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))

@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2020 (revoked)[^key-5751665076cb63a3f735dcdc5faf1a77]
+The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2020 (revoked)[^c-5751665076cb63a3f735dcdc5faf1a77]
 
 Made
 
@@ -42,31 +42,31 @@ Coming into operation
 
 8th January 2020
 
-[^key-5751665076cb63a3f735dcdc5faf1a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5751665076cb63a3f735dcdc5faf1a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5751665076cb63a3f735dcdc5faf1a77]
+## 1. Citation and commencement[^c-5751665076cb63a3f735dcdc5faf1a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Making and levying of different rates[^key-5751665076cb63a3f735dcdc5faf1a77]
+## 2. Making and levying of different rates[^c-5751665076cb63a3f735dcdc5faf1a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-5751665076cb63a3f735dcdc5faf1a77]
+## 3.[^c-5751665076cb63a3f735dcdc5faf1a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and savings[^key-5751665076cb63a3f735dcdc5faf1a77]
+## 4. Revocation and savings[^c-5751665076cb63a3f735dcdc5faf1a77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5751665076cb63a3f735dcdc5faf1a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5751665076cb63a3f735dcdc5faf1a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Conversion factors for district councils[^key-5751665076cb63a3f735dcdc5faf1a77]
+## SCHEDULE — Conversion factors for district councils[^c-5751665076cb63a3f735dcdc5faf1a77]
 
 Regulation 3(1)
 
@@ -74,8 +74,8 @@ Regulation 3(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-5751665076cb63a3f735dcdc5faf1a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5751665076cb63a3f735dcdc5faf1a77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5751665076cb63a3f735dcdc5faf1a77]: Textual amendment: Regulations revoked with savings (11.2.2021) by [The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2021 (S.R. 2021/30)](https://www.legislation.gov.uk/nisr/2021/30), [regs. 1](https://www.legislation.gov.uk/nisr/2021/30/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2021/30/regulation/3/1) (with [reg. 3(2)-(6)](https://www.legislation.gov.uk/nisr/2021/30/regulation/3/2))
+[^c-5751665076cb63a3f735dcdc5faf1a77]: Textual amendment: Regulations revoked with savings (11.2.2021) by [The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2021 (S.R. 2021/30)](https://www.legislation.gov.uk/nisr/2021/30), [regs. 1](https://www.legislation.gov.uk/nisr/2021/30/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2021/30/regulation/3/1) (with [reg. 3(2)-(6)](https://www.legislation.gov.uk/nisr/2021/30/regulation/3/2))

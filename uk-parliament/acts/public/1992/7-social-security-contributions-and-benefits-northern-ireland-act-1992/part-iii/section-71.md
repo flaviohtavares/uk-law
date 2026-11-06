@@ -32,21 +32,21 @@ summary: ''
 
 (6) A person shall not be entitled to a disability living allowance unless he satisfies prescribed conditions as to residence and presence in Northern Ireland.
 
-(7)[^key-13a5c411b8feacee15f3795047a7d73a] A person is not entitled to a disability living allowance while the person is entitled to—
+(7)[^c-13a5c411b8feacee15f3795047a7d73a] A person is not entitled to a disability living allowance while the person is entitled to—
 
 - (a) child disability payment,
-- (b) adult disability payment,[^key-b8f58be2524fc851f293e397587f6b21]...
-- (c) pension age disability payment , or[^key-88beba8139c2d583b83b34087fc037dd]
-- (d)[^key-21d7c91ad1ba3b5838e095a361f2e72a] Scottish adult disability living allowance.
+- (b) adult disability payment,[^c-b8f58be2524fc851f293e397587f6b21]...
+- (c) pension age disability payment , or[^c-88beba8139c2d583b83b34087fc037dd]
+- (d)[^c-21d7c91ad1ba3b5838e095a361f2e72a] Scottish adult disability living allowance.
 
 ## Annotations
 
 [^c16388491]: Textual amendment: Words in [s. 71(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/3) substituted (12.1.2000) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 64(1)](https://www.legislation.gov.uk/nisi/1999/3147/article/64/1); [S.R. 1999/494](https://www.legislation.gov.uk/nisr/1999/494), [art. 2(3)](https://www.legislation.gov.uk/nisr/1999/494/article/2/3)
 
-[^key-13a5c411b8feacee15f3795047a7d73a]: Textual amendment: [S. 71(7)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2024/1048/article/5/4)
+[^c-13a5c411b8feacee15f3795047a7d73a]: Textual amendment: [S. 71(7)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2024/1048/article/5/4)
 
-[^key-b8f58be2524fc851f293e397587f6b21]: Textual amendment: Word in [s. 71(7)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7/b) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2025/224/article/5/4/a)
+[^c-b8f58be2524fc851f293e397587f6b21]: Textual amendment: Word in [s. 71(7)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7/b) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2025/224/article/5/4/a)
 
-[^key-88beba8139c2d583b83b34087fc037dd]: Textual amendment: Word in [s. 71(7)(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7/c) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2025/224/article/5/4/b)
+[^c-88beba8139c2d583b83b34087fc037dd]: Textual amendment: Word in [s. 71(7)(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7/c) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2025/224/article/5/4/b)
 
-[^key-21d7c91ad1ba3b5838e095a361f2e72a]: Textual amendment: [S. 71(7)(d)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7/d) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [5(4)(c)](https://www.legislation.gov.uk/uksi/2025/224/article/5/4/c)
+[^c-21d7c91ad1ba3b5838e095a361f2e72a]: Textual amendment: [S. 71(7)(d)](https://www.legislation.gov.uk/ukpga/1992/7/section/71/7/d) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [5(4)(c)](https://www.legislation.gov.uk/uksi/2025/224/article/5/4/c)

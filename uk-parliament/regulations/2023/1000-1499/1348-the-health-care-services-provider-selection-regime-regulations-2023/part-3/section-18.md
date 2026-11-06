@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Contracts based on a framework agreement[^key-c325ed0ee1abccd0dafedc200f564ec3]
+## 18. Contracts based on a framework agreement[^c-c325ed0ee1abccd0dafedc200f564ec3]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where a framework agreement is concluded with more than one provider, a relevant authority may award a contract either without a competition or by following the Competitive Process, such choice being at the discretion of the relevant authority but must be made in accordance with the framework agreement.
 
-(5) Where a relevant authority awards a contract based on a framework agreement without a competition, the relevant authority must submit for publication on the central digital platform[^key-c27ed05b42e03f5cd4f87d9a6d250e86] a notice of the award.
+(5) Where a relevant authority awards a contract based on a framework agreement without a competition, the relevant authority must submit for publication on the central digital platform[^c-c27ed05b42e03f5cd4f87d9a6d250e86] a notice of the award.
 
 (6) The notice referred to in paragraph (5) must—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c325ed0ee1abccd0dafedc200f564ec3]: Commencement: Reg. 18 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-c325ed0ee1abccd0dafedc200f564ec3]: Commencement: Reg. 18 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-c27ed05b42e03f5cd4f87d9a6d250e86]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/18/5) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-c27ed05b42e03f5cd4f87d9a6d250e86]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/18/5) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

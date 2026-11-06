@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Appointment of person to conduct ballot on proposal to buy land[^key-35953abc114d46680506d9ede4ff98ab][^key-933477a3e7676fcd5fa96b2dcc36f820]
+## 49. Appointment of person to conduct ballot on proposal to buy land[^c-35953abc114d46680506d9ede4ff98ab][^c-933477a3e7676fcd5fa96b2dcc36f820]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ After section 51 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-35953abc114d46680506d9ede4ff98ab]: Commencement: S. 49 in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-35953abc114d46680506d9ede4ff98ab]: Commencement: S. 49 in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-933477a3e7676fcd5fa96b2dcc36f820]: Commencement: S. 49 in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-933477a3e7676fcd5fa96b2dcc36f820]: Commencement: S. 49 in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

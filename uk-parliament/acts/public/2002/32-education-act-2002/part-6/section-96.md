@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Procedure for making certain orders and regulations[^key-eda1afb351463aee8060f46fa7b412d2]
+## 96. Procedure for making certain orders and regulations[^c-eda1afb351463aee8060f46fa7b412d2]
 
 *Extent: E+W*
 
@@ -44,10 +44,10 @@ summary: ''
 
 (7) When the period allowed has expired, the Secretary of State may make the order or regulations, with or without modifications.
 
-(8)[^key-b19e27cd5444acd40928caf3317efaa0] An order made under any provision of this Part may (in addition to any provision that it may make by virtue of section 210(7)) make provision amending Schedule 1A to the [Academies Act 2010](https://www.legislation.gov.uk/ukpga/2010/32/contents) (application of education legislation).
+(8)[^c-b19e27cd5444acd40928caf3317efaa0] An order made under any provision of this Part may (in addition to any provision that it may make by virtue of section 210(7)) make provision amending Schedule 1A to the [Academies Act 2010](https://www.legislation.gov.uk/ukpga/2010/32/contents) (application of education legislation).
 
 ## Annotations
 
-[^key-eda1afb351463aee8060f46fa7b412d2]: Textual amendment: S. 96 substituted (15.1.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/15); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)
+[^c-eda1afb351463aee8060f46fa7b412d2]: Textual amendment: S. 96 substituted (15.1.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/15); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)
 
-[^key-b19e27cd5444acd40928caf3317efaa0]: Textual amendment: S. 96(8) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 54(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/54/5), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-b19e27cd5444acd40928caf3317efaa0]: Textual amendment: S. 96(8) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 54(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/54/5), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

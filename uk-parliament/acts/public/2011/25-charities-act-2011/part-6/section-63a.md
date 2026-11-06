@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Failure of specific charitable purposes: application cy-près[^key-e4e739a084fcce7377420120fc061392]
+## 63A. Failure of specific charitable purposes: application cy-près[^c-e4e739a084fcce7377420120fc061392]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ unless at the time of giving the gift the donor states in writing that the gift 
 
 ## Annotations
 
-[^key-e4e739a084fcce7377420120fc061392]: Textual amendment: S. 63A substituted for ss. 63-65 (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/6/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/6/3)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1109/regulation/5))
+[^c-e4e739a084fcce7377420120fc061392]: Textual amendment: S. 63A substituted for ss. 63-65 (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/6/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/6/3)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1109/regulation/5))

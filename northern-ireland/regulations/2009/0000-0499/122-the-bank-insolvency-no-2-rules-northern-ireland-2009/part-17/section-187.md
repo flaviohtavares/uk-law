@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 187. Further exception[^key-bc79b55b98baea466dcdd2d0eabe6356]
+## 187. Further exception[^c-bc79b55b98baea466dcdd2d0eabe6356]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The court’s leave under Article 180(3) of the Companies Order is not required 
 
 ## Annotations
 
-[^key-bc79b55b98baea466dcdd2d0eabe6356]: Commencement: Rule 187 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-bc79b55b98baea466dcdd2d0eabe6356]: Commencement: Rule 187 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

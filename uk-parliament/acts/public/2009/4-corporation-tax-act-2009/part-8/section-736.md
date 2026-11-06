@@ -35,7 +35,7 @@ summary: ''
 
 (6) The cost of the asset recognised for tax purposes is the same as the amount of expenditure on the asset capitalised by the company for accounting purposes.
 
-(7) Subsection (6) is subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^key-678bfe5f686fe21c02bd4f36f4106e5c] (provision not at arm's length)).
+(7) Subsection (6) is subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^c-678bfe5f686fe21c02bd4f36f4106e5c] (provision not at arm's length)).
 
 (8) If this section has applied on a part realisation of an asset and applies again (on the realisation of the unrealised asset) the references in subsections (2) to (4) to the cost of the asset must be read as references to the sum of—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-678bfe5f686fe21c02bd4f36f4106e5c]: Textual amendment: Words in s. 736(7) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-678bfe5f686fe21c02bd4f36f4106e5c]: Textual amendment: Words in s. 736(7) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

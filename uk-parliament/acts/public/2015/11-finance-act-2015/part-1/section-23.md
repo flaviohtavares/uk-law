@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Exceptions from duty to deduct tax: qualifying private placements[^key-af6a28370be43171a5fe2c0c5098535e]
+## 23. Exceptions from duty to deduct tax: qualifying private placements[^c-af6a28370be43171a5fe2c0c5098535e]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af6a28370be43171a5fe2c0c5098535e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/11/section/23) in force at 1.1.2016 for the purposes of the amendment made by that section in so far as not already in force by [S.I. 2015/2035](https://www.legislation.gov.uk/uksi/2015/2035), [reg. 2](https://www.legislation.gov.uk/uksi/2015/2035/regulation/2)
+[^c-af6a28370be43171a5fe2c0c5098535e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/11/section/23) in force at 1.1.2016 for the purposes of the amendment made by that section in so far as not already in force by [S.I. 2015/2035](https://www.legislation.gov.uk/uksi/2015/2035), [reg. 2](https://www.legislation.gov.uk/uksi/2015/2035/regulation/2)

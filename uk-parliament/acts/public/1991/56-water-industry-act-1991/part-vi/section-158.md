@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Powers to lay pipes in streets.[^c13221291][^key-d0e0b7e43c5d3319fd2f0fd986ce527e]
+## 158. Powers to lay pipes in streets.[^c13221291][^c-d0e0b7e43c5d3319fd2f0fd986ce527e]
 
 *Extent: E+W*
 
@@ -44,9 +44,9 @@ summary: ''
 
 - (a) in relation to a water undertaker, as references to a water main (including a trunk main but not including a pipe laid in pursuance of section 66B(3)(a)(ii) above which is used for the purpose of supplying water other than for domestic or food production purposes or laid in pursuance of section 66B(3)(a)(iii) above[^c19841061]), resource main, discharge pipe or service pipe; and
 - (b)[^c19840871] in relation to a sewerage undertaker, as references to—
-  - (i) any sewer or disposal main; [^key-715e0bac4a8fadd0520067b94ef242d2]...
-  - (ii) in relation to the exercise of a power to lay a pipe under paragraph (a) of subsection (1) above or a power related to that power under paragraph (c) of that subsection, any lateral drain which the undertaker is to lay by virtue of section 98 or 101B or any lateral drain which the undertaker is required to lay by virtue of section 117A(2) for the purpose of enabling the use of its sewerage system to provide sewerage services to premises in a retail exit area[^key-6db2ec6118aaa4ed58df229cf6001949] above; [^key-572397a751d6378fb6d748211c490407]...
-  - (iii) in relation to the exercise of any other power under subsection (1) above, any lateral drain which belongs to or is vested for the time being in the undertaker or[^key-284eed00d30ec1287e0cc80747438d0b]
+  - (i) any sewer or disposal main; [^c-715e0bac4a8fadd0520067b94ef242d2]...
+  - (ii) in relation to the exercise of a power to lay a pipe under paragraph (a) of subsection (1) above or a power related to that power under paragraph (c) of that subsection, any lateral drain which the undertaker is to lay by virtue of section 98 or 101B or any lateral drain which the undertaker is required to lay by virtue of section 117A(2) for the purpose of enabling the use of its sewerage system to provide sewerage services to premises in a retail exit area[^c-6db2ec6118aaa4ed58df229cf6001949] above; [^c-572397a751d6378fb6d748211c490407]...
+  - (iii) in relation to the exercise of any other power under subsection (1) above, any lateral drain which belongs to or is vested for the time being in the undertaker or[^c-284eed00d30ec1287e0cc80747438d0b]
   - (iv) any pipe forming part of, or required in connection with, a drainage system constructed under section 114A.
 
 (8)[^c13221321][^c13221331] Subsections (9) and (11) below apply where—
@@ -72,7 +72,7 @@ shall, for the purposes of subsection (7) above, be deemed to be a water main.
 
     S. 158 restricted (1.4.1996) by [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66), [s. 100(6B)(b)](https://www.legislation.gov.uk/ukpga/1980/66/section/100/6B/b) (as inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/1), [Sch. 7 Pt. I para. 9](https://www.legislation.gov.uk/ukpga/1994/19/schedule/7/part/I/paragraph/9) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1))
 
-[^key-d0e0b7e43c5d3319fd2f0fd986ce527e]: Modification: S. 158 applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/12/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-d0e0b7e43c5d3319fd2f0fd986ce527e]: Modification: S. 158 applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/12/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13221301]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
@@ -82,13 +82,13 @@ shall, for the purposes of subsection (7) above, be deemed to be a water main.
 
 [^c19840871]: Textual amendment: S. 158(7)(b) substituted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 97(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/97/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-715e0bac4a8fadd0520067b94ef242d2]: Textual amendment: Word in s. 158(7)(b)(i) omitted (14.7.2014) by virtue of [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/2/a), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
+[^c-715e0bac4a8fadd0520067b94ef242d2]: Textual amendment: Word in s. 158(7)(b)(i) omitted (14.7.2014) by virtue of [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/2/a), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
 
-[^key-6db2ec6118aaa4ed58df229cf6001949]: Textual amendment: Words in [s. 158(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/1991/56/section/158/7/b/ii) inserted (E.) (31.10.2021) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) (Consequential Provision) Regulations 2021 (S.I. 2021/1208)](https://www.legislation.gov.uk/uksi/2021/1208), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/2/8)
+[^c-6db2ec6118aaa4ed58df229cf6001949]: Textual amendment: Words in [s. 158(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/1991/56/section/158/7/b/ii) inserted (E.) (31.10.2021) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) (Consequential Provision) Regulations 2021 (S.I. 2021/1208)](https://www.legislation.gov.uk/uksi/2021/1208), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/2/8)
 
-[^key-572397a751d6378fb6d748211c490407]: Textual amendment: Word in s. 158(7)(b)(ii) omitted (14.7.2014) by virtue of [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/2/a), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
+[^c-572397a751d6378fb6d748211c490407]: Textual amendment: Word in s. 158(7)(b)(ii) omitted (14.7.2014) by virtue of [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/2/a), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
 
-[^key-284eed00d30ec1287e0cc80747438d0b]: Textual amendment: S. 158(7)(b)(iv) and word inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/2/b), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
+[^c-284eed00d30ec1287e0cc80747438d0b]: Textual amendment: S. 158(7)(b)(iv) and word inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/21/2/b), [94(2)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/d)
 
 [^c13221321]: Textual amendment: S. 158(8)-(11) added (1.7.1992) by [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [s. 40(6)](https://www.legislation.gov.uk/ukpga/1992/43/section/40/6); Competition and Service (Utilities) Act 1992 (Commencement No. 1) Order 1992, art. 3, Sch. Pt. I
 

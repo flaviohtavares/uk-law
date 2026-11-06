@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.7. Evidence of finding on question of foreign law[^key-0d064675ab12b19730b74f78c2141758]
+## 33.7. Evidence of finding on question of foreign law[^c-0d064675ab12b19730b74f78c2141758]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d064675ab12b19730b74f78c2141758]: Commencement: [Rule 33.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0d064675ab12b19730b74f78c2141758]: Commencement: [Rule 33.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
 [^f00041]: Footnote: [1972 c. 30](https://www.legislation.gov.uk/ukpga/1972/30).

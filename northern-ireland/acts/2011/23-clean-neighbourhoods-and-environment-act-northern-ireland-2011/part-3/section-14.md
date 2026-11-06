@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Offence of dropping litter in lake, pond or watercourse[^key-faf333f1c25e44c5407287c4362dacbd]
+## 14. Offence of dropping litter in lake, pond or watercourse[^c-faf333f1c25e44c5407287c4362dacbd]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faf333f1c25e44c5407287c4362dacbd]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/23/section/14) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-faf333f1c25e44c5407287c4362dacbd]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/23/section/14) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

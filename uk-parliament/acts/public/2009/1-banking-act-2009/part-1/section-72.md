@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Enforcement[^key-c123e00787ed6aad47e9d6de691295c0]
+## 72. Enforcement[^c-c123e00787ed6aad47e9d6de691295c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c123e00787ed6aad47e9d6de691295c0]: Textual amendment: S. 72 omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [79](https://www.legislation.gov.uk/uksi/2014/3329/article/79)
+[^c-c123e00787ed6aad47e9d6de691295c0]: Textual amendment: S. 72 omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [79](https://www.legislation.gov.uk/uksi/2014/3329/article/79)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Repeals[^key-712b1e9b7dc83e2ffcc17f4afde4312e]
+## SCHEDULE 5 — Repeals[^c-712b1e9b7dc83e2ffcc17f4afde4312e]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ Section 52
 
 ## Annotations
 
-[^key-712b1e9b7dc83e2ffcc17f4afde4312e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)
+[^c-712b1e9b7dc83e2ffcc17f4afde4312e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Social landlords: pre-action requirement where domestic abuse is a factor in rent arrears[^key-3c7920f2e5617b6229cba7f933b527a9]
+## 56. Social landlords: pre-action requirement where domestic abuse is a factor in rent arrears[^c-3c7920f2e5617b6229cba7f933b527a9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7920f2e5617b6229cba7f933b527a9]: Commencement: S. 56 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-3c7920f2e5617b6229cba7f933b527a9]: Commencement: S. 56 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)

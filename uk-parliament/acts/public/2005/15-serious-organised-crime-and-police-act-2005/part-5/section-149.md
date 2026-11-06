@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Extension of sections 145 to 147[^key-1dfec39c5716b8285e7a289426000794]
+## 149. Extension of sections 145 to 147[^c-1dfec39c5716b8285e7a289426000794]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dfec39c5716b8285e7a289426000794]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2005/15/section/149) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(t)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/t)
+[^c-1dfec39c5716b8285e7a289426000794]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2005/15/section/149) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(t)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/t)

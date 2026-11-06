@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Import of arms and related materiel ...[^key-3733b598b1e5b0452a361c3d3de77062][^key-7d6ff393ce62b3834e2c0b1d8b90d55c]
+## 36. Import of arms and related materiel ...[^c-3733b598b1e5b0452a361c3d3de77062][^c-7d6ff393ce62b3834e2c0b1d8b90d55c]
 
 *Extent: E+W+S+N.I.*
 
 (1) The import of the following goods which are consigned from Syria is prohibited—
 
 - (a) arms and related materiel;
-- (b)[^key-f571293ee526c18d404d699e0166b009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f571293ee526c18d404d699e0166b009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The import of the goods mentioned in paragraph (1) which originate in Syria is prohibited.
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3733b598b1e5b0452a361c3d3de77062]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3733b598b1e5b0452a361c3d3de77062]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7d6ff393ce62b3834e2c0b1d8b90d55c]: Textual amendment: Words in reg. 36 heading omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(k)(i)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/k/i)
+[^c-7d6ff393ce62b3834e2c0b1d8b90d55c]: Textual amendment: Words in reg. 36 heading omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(k)(i)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/k/i)
 
-[^key-f571293ee526c18d404d699e0166b009]: Textual amendment: Reg. 36(1)(b) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(k)(ii)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/k/ii)
+[^c-f571293ee526c18d404d699e0166b009]: Textual amendment: Reg. 36(1)(b) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(k)(ii)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/k/ii)

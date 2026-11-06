@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**118.**[^key-0a00d2ae49875c8c555dd031ddd29901] In Schedule 2, in the heading of Part 3 (contributions towards maintenance of children looked after by local authorities), at the end insert “in England”.
+**118.**[^c-0a00d2ae49875c8c555dd031ddd29901] In Schedule 2, in the heading of Part 3 (contributions towards maintenance of children looked after by local authorities), at the end insert “in England”.
 
 ## Annotations
 
-[^key-0a00d2ae49875c8c555dd031ddd29901]: Commencement: Reg. 118 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0a00d2ae49875c8c555dd031ddd29901]: Commencement: Reg. 118 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

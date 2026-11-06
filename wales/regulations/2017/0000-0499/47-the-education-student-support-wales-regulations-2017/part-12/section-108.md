@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Payment of new part-time fee loan[^key-5b86414fa5e5d90bd590497513a6e493]
+## 108. Payment of new part-time fee loan[^c-5b86414fa5e5d90bd590497513a6e493]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b86414fa5e5d90bd590497513a6e493]: Commencement: Reg. 108 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-5b86414fa5e5d90bd590497513a6e493]: Commencement: Reg. 108 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

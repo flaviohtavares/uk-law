@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. UK postage stamps bearing image of Her Majesty[^key-14e94d460de92673df98d649358b93a9]
+## 62. UK postage stamps bearing image of Her Majesty[^c-14e94d460de92673df98d649358b93a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14e94d460de92673df98d649358b93a9]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/5/section/62) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-14e94d460de92673df98d649358b93a9]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/5/section/62) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

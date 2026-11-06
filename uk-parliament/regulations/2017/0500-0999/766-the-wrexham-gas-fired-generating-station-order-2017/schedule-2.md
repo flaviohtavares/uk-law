@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-ae46a4f823eca88e817fb618a8bfc7f1]
+## SCHEDULE 2 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-ae46a4f823eca88e817fb618a8bfc7f1]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ Table 1
 
 ## Annotations
 
-[^key-ae46a4f823eca88e817fb618a8bfc7f1]: Commencement: Sch. 2 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-ae46a4f823eca88e817fb618a8bfc7f1]: Commencement: Sch. 2 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

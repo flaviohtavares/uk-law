@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. A sustainable business plan[^key-219b2a741f5932484825f562f73cd33f]
+## 10. A sustainable business plan[^c-219b2a741f5932484825f562f73cd33f]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ the pub-owning business must ensure that the tenant has a sustainable business p
 
 ## Annotations
 
-[^key-219b2a741f5932484825f562f73cd33f]: Commencement: Reg. 10 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-219b2a741f5932484825f562f73cd33f]: Commencement: Reg. 10 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

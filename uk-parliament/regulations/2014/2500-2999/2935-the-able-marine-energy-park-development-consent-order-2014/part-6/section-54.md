@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Planning etc. jurisdiction[^key-cbef42788f3eef11f259f7679999e18b]
+## 54. Planning etc. jurisdiction[^c-cbef42788f3eef11f259f7679999e18b]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cbef42788f3eef11f259f7679999e18b]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2014/2935/article/54) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-cbef42788f3eef11f259f7679999e18b]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2014/2935/article/54) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00033]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 16 of Schedule 3 to, the Environmental Protection Act [1990 (c. 25)](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to the 1974 Act which are not relevant to this Order.

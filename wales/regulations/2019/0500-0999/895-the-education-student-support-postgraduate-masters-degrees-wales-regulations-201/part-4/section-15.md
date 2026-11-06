@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Students becoming eligible during a course[^key-284d8789ce6c0a1b8fab6664858c838d]
+## 15. Students becoming eligible during a course[^c-284d8789ce6c0a1b8fab6664858c838d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where one of the events listed in regulation 16(1) occurs during the currency of
 
 ## Annotations
 
-[^key-284d8789ce6c0a1b8fab6664858c838d]: Commencement: Reg. 15 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-284d8789ce6c0a1b8fab6664858c838d]: Commencement: Reg. 15 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

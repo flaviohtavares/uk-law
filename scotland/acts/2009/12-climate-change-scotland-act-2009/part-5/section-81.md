@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Recyclable waste: facilities for deposit at events etc.[^key-f85147d74e3ac2bd30c741f43306d637]
+## 81. Recyclable waste: facilities for deposit at events etc.[^c-f85147d74e3ac2bd30c741f43306d637]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f85147d74e3ac2bd30c741f43306d637]: Commencement: S. 81 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-f85147d74e3ac2bd30c741f43306d637]: Commencement: S. 81 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

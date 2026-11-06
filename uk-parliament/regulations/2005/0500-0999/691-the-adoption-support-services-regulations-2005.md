@@ -50,13 +50,13 @@ The Secretary of State, in exercise of the powers conferred on her by sections 9
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and application[^key-1e35f546ab9e305e631fcec4cb94014e]
+### 1. Citation, commencement and application[^c-1e35f546ab9e305e631fcec4cb94014e]
 
 (1) These Regulations may be cited as the Adoption Support Services Regulations 2005 and shall come into force on 30th December 2005.
 
 (2) These Regulations apply to England only.
 
-### 2. Interpretation[^key-d698f048a2da228440158faa18659e38]
+### 2. Interpretation[^c-d698f048a2da228440158faa18659e38]
 
 (1) In these Regulations—
 
@@ -72,22 +72,22 @@ The Secretary of State, in exercise of the powers conferred on her by sections 9
   - (b) a child whom an adoption agency has matched with a prospective adopter or placed for adoption;
   - (c) a child whose adoptive parent has been a local authority foster parent in relation to him (unless the local authority oppose the adoption);
 - “child” means (subject to paragraph (2)) a person who has not attained the age of 18;
-- [^key-f5ccb7ab63cc4d605344f923f249c015]...
+- [^c-f5ccb7ab63cc4d605344f923f249c015]...
 - “income support” means income support under Part VII of the Social Security Contributions and Benefits Act 1992[^f00003];
-- “[^key-1ba59141496588de78995534a46f2997]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^c-1ba59141496588de78995534a46f2997]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 - “jobseeker’s allowance” has the same meaning as in the Jobseekers Act 1995[^f00004];
 - “local authority foster parent” has the same meaning as in the Children Act 1989[^f00005];
-- [^key-b16df05a979e7f6a6dcbb1baff2290d6]...
+- [^c-b16df05a979e7f6a6dcbb1baff2290d6]...
 - “Local Health Board” means a Local Health Board established by the National Assembly for Wales under section 16BA of the National Health Service Act 1977[^f00007];
-- [^key-94b138f4e29a97b2b64be536e50a0b91]...
-- “looked after child” means a child referred to in section 22(1) of the Children Act 1989;[^key-8b3200b38074fca5dcbf66692d27897a]
+- [^c-94b138f4e29a97b2b64be536e50a0b91]...
+- “looked after child” means a child referred to in section 22(1) of the Children Act 1989;[^c-8b3200b38074fca5dcbf66692d27897a]
 - “related person” in relation to an adoptive child means—
   - (a) a relative within the meaning of section 144(1) of the Act; or
   - (b) any person with whom the adoptive child has a relationship which appears to the local authority to be beneficial to the welfare of the child having regard to the matters referred to in sub-paragraphs (i) to (iii) of section 1(4)(f) of the Act;
 - “statutory adoption leave” has the meaning given in regulation 2(1) of the Paternity and Adoption Leave Regulations 2002;
 - “statutory adoption pay” means payments payable in accordance with Part 12ZB of the Social Security Contributions and Benefits Act 1992;
 - “tax credit” has the same meaning as in the Tax Credits Act 2002[^f00008];
-- “universal credit” means universal credit under Part 1 of the Welfare Reform Act 2012[^key-68be5f694693307f867167db853b3ca7].
+- “universal credit” means universal credit under Part 1 of the Welfare Reform Act 2012[^c-68be5f694693307f867167db853b3ca7].
 
 (2) In any case where—
 
@@ -100,7 +100,7 @@ the definition of “child” shall, for the purposes of the continued provision
 
 (3) For the purposes of these Regulations a child has been matched with a prospective adopter if an adoption agency is considering placing the child for adoption with that person.
 
-## PART 1A — PROVISION OF INFORMATION[^key-354b10329096159fb90205a57a66e71a]
+## PART 1A — PROVISION OF INFORMATION[^c-354b10329096159fb90205a57a66e71a]
 
 ### 2A. Provision of information
 
@@ -142,7 +142,7 @@ and the local authority refuses that request, the local authority must give that
 
 ## PART 2 — PROVISION OF ADOPTION SUPPORT SERVICES
 
-### 3. Prescribed services[^key-4a8c0e70d06cd47e59d8a5e1289e9fdc]
+### 3. Prescribed services[^c-4a8c0e70d06cd47e59d8a5e1289e9fdc]
 
 (1) For the purposes of section 2(6)(b) of the Act the following services are prescribed as adoption support services (in addition to counselling, advice and information)—
 
@@ -163,7 +163,7 @@ and the local authority refuses that request, the local authority must give that
 
 (4) For the purposes of paragraph (1)(e)(ii) respite care that consists of the provision of accommodation must be accommodation provided by or on behalf of a local authority under section 23 of the Children Act 1989 (accommodation of looked after children) or by a voluntary organisation under section 59 of that Act.
 
-### 4. Persons to whom adoption support services must be extended[^key-de3fc2b663686c2d4febfaea89b29b9f]
+### 4. Persons to whom adoption support services must be extended[^c-de3fc2b663686c2d4febfaea89b29b9f]
 
 (1) This regulation prescribes, for the purposes of section 3(3)(a) of the Act, the description of persons to whom the provision of adoption support services must be extended.
 
@@ -203,22 +203,22 @@ and the local authority refuses that request, the local authority must give that
 - (b) an adoptive parent of such a child;
 - (c) a child of such an adoptive parent (whether or not adopted).
 
-### 5. Arrangement for securing provision of services[^key-ecbba01acbbd8a4bf29c3afd9b53311d]
+### 5. Arrangement for securing provision of services[^c-ecbba01acbbd8a4bf29c3afd9b53311d]
 
 (1) The following persons are prescribed for the purposes of section 3(4)(b) of the Act (persons other than registered adoption societies who may provide the requisite facilities) in relation to the provision of adoption support services—
 
 - (a) another local authority;
 - (b) a registered adoption support agency;
-- (bb)[^key-4e3cc6658741d6e483b8647cf6e476ad] a person[^key-fef60e238d57a46a234eb9d3c598f32c] falling within regulation 4(4) or 4(5)[^key-ade6cf343f0e7dfaee3b147e02940ee5] of the Adoption Support Agencies (England) and Adoption Agencies (Miscellaneous Amendments) Regulations 2005.
-- (c) a Local Health Board ,[^key-6fe08fa1a5da2e266c74d61d59c0640d] an integrated care board[^key-2b26e492716f89f6169c582b4f16fad7] and NHS England[^key-4e30469d403f270f10f22c1300337a68]; and
-- (d)[^key-e144bd8f94acaf070aff7cf748c75551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^c-4e3cc6658741d6e483b8647cf6e476ad] a person[^c-fef60e238d57a46a234eb9d3c598f32c] falling within regulation 4(4) or 4(5)[^c-ade6cf343f0e7dfaee3b147e02940ee5] of the Adoption Support Agencies (England) and Adoption Agencies (Miscellaneous Amendments) Regulations 2005.
+- (c) a Local Health Board ,[^c-6fe08fa1a5da2e266c74d61d59c0640d] an integrated care board[^c-2b26e492716f89f6169c582b4f16fad7] and NHS England[^c-4e30469d403f270f10f22c1300337a68]; and
+- (d)[^c-e144bd8f94acaf070aff7cf748c75551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7122567c5da614b6762c678ad5a53464] In paragraph (1) “registered adoption support agency” means an adoption support agency which is—
+(2)[^c-7122567c5da614b6762c678ad5a53464] In paragraph (1) “registered adoption support agency” means an adoption support agency which is—
 
 - (a) in relation to England, an adoption support agency in respect of which a person is registered under Part 2 of the Care Standards Act 2000, or
 - (b) registered as a provider in Wales of an adoption service under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
 
-### 6. Adoption support services adviser[^key-2939bd2d7ba8a16226655b904c9b0d57]
+### 6. Adoption support services adviser[^c-2939bd2d7ba8a16226655b904c9b0d57]
 
 (1) The local authority must appoint a person (an “adoption support services adviser”) to carry out the functions specified in paragraph (2).
 
@@ -238,7 +238,7 @@ and the local authority refuses that request, the local authority must give that
 - (a) the process of adoption; and
 - (b) the effect of the adoption of a child on persons likely to be affected by the adoption, is sufficient for the purposes of the work that he is to perform.
 
-### 7. Services for persons outside the area[^key-5b1270527748e8eaaa9cb5b40c5e1bc5]
+### 7. Services for persons outside the area[^c-5b1270527748e8eaaa9cb5b40c5e1bc5]
 
 (1) Section 4 of the Act applies to a local authority in respect of the following persons who are outside the authority’s area—
 
@@ -252,7 +252,7 @@ and the local authority refuses that request, the local authority must give that
 
 ## PART 3 — PROVISION OF FINANCIAL SUPPORT
 
-### 8. Circumstances in which financial support is payable[^key-41b230da179f5c213a2618123a5fcd2f]
+### 8. Circumstances in which financial support is payable[^c-41b230da179f5c213a2618123a5fcd2f]
 
 (1) Financial support is payable under this Part to an adoptive parent for the purpose of supporting the placement of the adoptive child or the continuation of adoption arrangements after an adoption order is made.
 
@@ -269,7 +269,7 @@ and the local authority refuses that request, the local authority must give that
   - (ii) expenditure for the purpose of introducing an adoptive child to his adoptive parent;
   - (iii) expenditure necessary for the purpose of accommodating and maintaining the child, including the provision of furniture and domestic equipment, alterations to and adaptations of the home, provision of means of transport and provision of clothing, toys and other items necessary for the purpose of looking after the child.
 
-### 9. Remuneration for former foster parents[^key-8368985c614e6bf99d08dc7b3311c1c4]
+### 9. Remuneration for former foster parents[^c-8368985c614e6bf99d08dc7b3311c1c4]
 
 (1) Financial support under this Part may include an element of remuneration but only where the decision to include it is taken before the adoption order is made and the local authority consider it to be necessary to facilitate the adoption in a case where—
 
@@ -278,23 +278,23 @@ and the local authority refuses that request, the local authority must give that
 
 (2) But that element of remuneration ceases to be payable at the end of the period of two years from the adoption order unless the local authority consider its continuation to be necessary having regard to the exceptional needs of the child or any other exceptional circumstances.
 
-### 10. Payment of financial support[^key-adde32b561c2e67f11911c169ec62ea3]
+### 10. Payment of financial support[^c-adde32b561c2e67f11911c169ec62ea3]
 
 Financial support under this Part may be paid—
 
 - (a) periodically, if it is provided to meet a need which is likely to give rise to recurring expenditure; or
 - (b) in any other case, by a single payment or, if the local authority and adoptive parent agree, by instalments.
 
-### 11. Cessation of financial support[^key-bbb82c6a14285f33fa31275a413741ad]
+### 11. Cessation of financial support[^c-bbb82c6a14285f33fa31275a413741ad]
 
 Financial support ceases to be payable to an adoptive parent if—
 
 - (a) the child ceases to have a home with him;
 - (b) the child ceases full-time education or training and commences employment;
-- (c) the child qualifies for universal credit,[^key-eeb60a29037f19a7e3106224187bf549] income support , employment and support allowance,[^key-e8a0b096288fb722c02957c18d05ad67] or jobseeker’s allowance in his own right; or
+- (c) the child qualifies for universal credit,[^c-eeb60a29037f19a7e3106224187bf549] income support , employment and support allowance,[^c-e8a0b096288fb722c02957c18d05ad67] or jobseeker’s allowance in his own right; or
 - (d) the child attains the age of 18 unless he continues in full-time education or training, when it may continue until the end of the course or training he is then undertaking.
 
-### 12. Conditions[^key-25dfe20310aafc25bd3fe5f96db30d25]
+### 12. Conditions[^c-25dfe20310aafc25bd3fe5f96db30d25]
 
 (1) Where financial support is to be paid periodically, it is not payable until the adoptive parent or, in the case of adoption by a couple, each adoptive parent, has agreed to the following conditions—
 
@@ -324,7 +324,7 @@ Financial support ceases to be payable to an adoptive parent if—
 
 ## PART 4 — ASSESSMENTS AND PLANS
 
-### 13. Request for assessment[^key-270205b998787d4b4035c5c71019a709]
+### 13. Request for assessment[^c-270205b998787d4b4035c5c71019a709]
 
 (1) The following persons are prescribed for the purposes of section 4(1)(b) of the Act (persons at whose request an assessment must be carried out)—
 
@@ -336,7 +336,7 @@ Financial support ceases to be payable to an adoptive parent if—
 
 (3) In assessing a person’s needs for adoption support services the local authority are not required to assess the person’s need for a service if he is not within the description of persons to whom provision of the service must be extended by virtue of regulation 4.
 
-### 14. Procedure for assessment[^key-c9a2fae6b9c95ff8e28e5c3400003fdb]
+### 14. Procedure for assessment[^c-c9a2fae6b9c95ff8e28e5c3400003fdb]
 
 (1) Where the local authority carry out an assessment of a person’s needs for adoption support services they must have regard to such of the following considerations as are relevant to the assessment—
 
@@ -355,9 +355,9 @@ Financial support ceases to be payable to an adoptive parent if—
 - (a) where they consider it appropriate to do so, interview the person and, where the person is an adoptive child, his adoptive parents; and
 - (b) prepare a written report of the assessment.
 
-(4) Where it appears to the local authority that the person may have a need for services from an integrated care board, NHS England, a Local Health Board or another local authority[^key-1b7dfbeea2151e9b45ce470ecd657368], the local authority shall, as part of the assessment, consult that[^key-8c199f272abab452cb2262da2032d774] body[^key-cba651490e8f9a74a30b533d94fe3bf0].
+(4) Where it appears to the local authority that the person may have a need for services from an integrated care board, NHS England, a Local Health Board or another local authority[^c-1b7dfbeea2151e9b45ce470ecd657368], the local authority shall, as part of the assessment, consult that[^c-8c199f272abab452cb2262da2032d774] body[^c-cba651490e8f9a74a30b533d94fe3bf0].
 
-### 15. Assessment for financial support[^key-677d3a9b22ae8dc6249372664015eb9d]
+### 15. Assessment for financial support[^c-677d3a9b22ae8dc6249372664015eb9d]
 
 (1) This regulation applies where the local authority carry out an assessment of a person’s needs for financial support.
 
@@ -382,17 +382,17 @@ Financial support ceases to be payable to an adoptive parent if—
   - (iii) any special arrangements or special care referred to in regulation 8(2)(b) or (c) in relation to an agency adoptive child; or
 - (b) where they are considering including an element of remuneration under regulation 9.
 
-### 16. Plan[^key-2038ebd62954184a36709107670812cb]
+### 16. Plan[^c-2038ebd62954184a36709107670812cb]
 
 (1) This regulation applies in relation to the requirement in section 4(5) of the Act for the local authority to prepare a plan in accordance with which adoption support services are to be provided.
 
 (2) The local authority must prepare a plan if they propose to provide adoption support services to a person on more than one occasion and the services are not limited to the provision of advice or information.
 
-(3) Where it appears to the local authority that the person may have a need for services from an integrated care board, NHS England, a Local Health Board or another local authority[^key-aed1ec9e80dfb580392448cfb3eb569b], they must consult that[^key-056676aeed525ef1a2eef77a688dc5a0] body[^key-e96ac38f3406faed5fec9d5454c4e134] before preparing the plan.
+(3) Where it appears to the local authority that the person may have a need for services from an integrated care board, NHS England, a Local Health Board or another local authority[^c-aed1ec9e80dfb580392448cfb3eb569b], they must consult that[^c-056676aeed525ef1a2eef77a688dc5a0] body[^c-e96ac38f3406faed5fec9d5454c4e134] before preparing the plan.
 
 (4) The local authority must nominate a person to monitor the provision of the services in accordance with the plan.
 
-### 17. Notice of proposal to provide adoption support services[^key-1e791365a371a3062d1a59df865c2e42]
+### 17. Notice of proposal to provide adoption support services[^c-1e791365a371a3062d1a59df865c2e42]
 
 (1) Before making any decision under section 4(4) of the Act as to whether to provide adoption support services, the local authority must allow the person an opportunity to make representations in accordance with this regulation.
 
@@ -414,7 +414,7 @@ Financial support ceases to be payable to an adoptive parent if—
 - (a) the person has made representations to the local authority or notified the local authority that he is satisfied with the proposed decision and, where applicable, the draft plan; or
 - (b) the period of time for making representations has expired.
 
-### 18. Notification of decision as to adoption support services[^key-25e312b3e73588bab3cf0bca5a85fa10]
+### 18. Notification of decision as to adoption support services[^c-25e312b3e73588bab3cf0bca5a85fa10]
 
 (1) After making their decision under section 4(4) of the Act as to whether to provide adoption support services to a person, the local authority must give the person notice of that decision, including the reasons for it.
 
@@ -437,7 +437,7 @@ Financial support ceases to be payable to an adoptive parent if—
 
 ## PART 5 — REVIEWS
 
-### 19. Reviews: general procedure[^key-7aeeac54016174642d61a18873554517]
+### 19. Reviews: general procedure[^c-7aeeac54016174642d61a18873554517]
 
 (1) This regulation applies where the local authority provide adoption support services for a person other than financial support payable periodically.
 
@@ -460,7 +460,7 @@ Financial support ceases to be payable to an adoptive parent if—
 
 (7) The local authority must give the person notice of their decision (including the reasons for it) and, if applicable, details of the revised plan.
 
-### 20. Review of financial support payable periodically[^key-f5550ad208dc467a44ecdd0c68176218]
+### 20. Review of financial support payable periodically[^c-f5550ad208dc467a44ecdd0c68176218]
 
 (1) This regulation applies where the local authority provide financial support payable periodically.
 
@@ -489,11 +489,11 @@ Financial support ceases to be payable to an adoptive parent if—
 
 ## PART 6 — MISCELLANEOUS
 
-### 21. Urgent cases[^key-3af151f8287589fdd352f233733d73d1]
+### 21. Urgent cases[^c-3af151f8287589fdd352f233733d73d1]
 
 Where any requirement applicable to the local authority under these Regulations in relation to carrying out an assessment, preparing a plan or giving notice would delay the provision of a service in a case of urgency, that requirement does not apply.
 
-### 22. Notices[^key-9a6b11b32316e28c88ab4e3691e142f7]
+### 22. Notices[^c-9a6b11b32316e28c88ab4e3691e142f7]
 
 (1) Any notice required to be given under these Regulations must be given in writing.
 
@@ -504,7 +504,7 @@ Where any requirement applicable to the local authority under these Regulations 
 
 the notice must be given to his adoptive parent or to the adult that the local authority consider most appropriate.
 
-### 23. Recovery of expenses between local authorities[^key-af19e55e23448b553744f92c522bf6d8]
+### 23. Recovery of expenses between local authorities[^c-af19e55e23448b553744f92c522bf6d8]
 
 (1) Subject to paragraph (2), where a local authority (“the recovering authority”) provide adoption support services to any person following a request under section 4(10) of the Act from another local authority (“the paying authority”), the recovering authority may recover the expenses of providing those services from the paying authority.
 
@@ -513,7 +513,7 @@ the notice must be given to his adoptive parent or to the adult that the local a
 - (a) the recovering authority are, by virtue of regulation 7, a local authority to which section 4 of the Act applies in respect of the person referred to in paragraph (1); or
 - (b) the service provided by the recovering authority is advice or information under section 2(6)(a) of the Act.
 
-### 24. Revocations and transitional provision[^key-5305b28cc15f180aa6921685fb630e32]
+### 24. Revocations and transitional provision[^c-5305b28cc15f180aa6921685fb630e32]
 
 (1) Subject to paragraph (3), the Adoption Allowance Regulations 1991[^f00011] and the Adoption Support Services (Local Authorities) (England) Regulations 2003[^f00012] (“the 2003 Regulations”) shall be revoked.
 
@@ -528,7 +528,7 @@ under the 2003 Regulations.
 
 (3) Where paragraph (2) applies, the assessment, plan, review or adoption support service referred to in that paragraph shall, from the date these Regulations come into force, be treated as an assessment, plan, review or adoption support service under these Regulations.
 
-(4)[^key-65552206abfaf33b3cbe9f4e876786ad] This paragraph applies where a person carrying on an adoption support agency has applied to the registration authority to be registered in respect of it under Part 2 of the Care Standards Act 2000 before 30<sup>th</sup> December 2005 and the application has not yet been determined.
+(4)[^c-65552206abfaf33b3cbe9f4e876786ad] This paragraph applies where a person carrying on an adoption support agency has applied to the registration authority to be registered in respect of it under Part 2 of the Care Standards Act 2000 before 30<sup>th</sup> December 2005 and the application has not yet been determined.
 
 (5) Where paragraph (4) applies, the adoption support agency shall be treated as if it were a registered adoption support agency for the purposes of regulation 5 until it is notified whether its application has been finally determined.
 
@@ -562,114 +562,114 @@ A Regulatory Impact Assessment has been carried out for these Regulations and 
 
 [^f00002]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-1e35f546ab9e305e631fcec4cb94014e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/691/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-1e35f546ab9e305e631fcec4cb94014e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/691/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-d698f048a2da228440158faa18659e38]: Commencement: Reg. 2 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-d698f048a2da228440158faa18659e38]: Commencement: Reg. 2 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-f5ccb7ab63cc4d605344f923f249c015]: Textual amendment: Words in reg. 2(1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/2/a)
+[^c-f5ccb7ab63cc4d605344f923f249c015]: Textual amendment: Words in reg. 2(1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/2/a)
 
 [^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-1ba59141496588de78995534a46f2997]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/2/b)
+[^c-1ba59141496588de78995534a46f2997]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/2/b)
 
 [^f00004]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
 [^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-b16df05a979e7f6a6dcbb1baff2290d6]: Textual amendment: Words in reg. 2(1) omitted (5.5.2010) by virtue of The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/2)
+[^c-b16df05a979e7f6a6dcbb1baff2290d6]: Textual amendment: Words in reg. 2(1) omitted (5.5.2010) by virtue of The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/2)
 
 [^f00007]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-94b138f4e29a97b2b64be536e50a0b91]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/2/b)
+[^c-94b138f4e29a97b2b64be536e50a0b91]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/2/b)
 
-[^key-8b3200b38074fca5dcbf66692d27897a]: Textual amendment: Words in reg. 2(1) inserted (25.7.2014) by [The Adoption Support Services (Amendment) Regulations 2014 (S.I. 2014/1563)](https://www.legislation.gov.uk/uksi/2014/1563), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1563/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1563/regulation/3)
+[^c-8b3200b38074fca5dcbf66692d27897a]: Textual amendment: Words in reg. 2(1) inserted (25.7.2014) by [The Adoption Support Services (Amendment) Regulations 2014 (S.I. 2014/1563)](https://www.legislation.gov.uk/uksi/2014/1563), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1563/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1563/regulation/3)
 
 [^f00008]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-68be5f694693307f867167db853b3ca7]: Textual amendment: Words in reg. 2(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/45/2)
+[^c-68be5f694693307f867167db853b3ca7]: Textual amendment: Words in reg. 2(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/45/2)
 
-[^key-354b10329096159fb90205a57a66e71a]: Textual amendment: Pt. 1A inserted (25.7.2014) by [The Adoption Support Services (Amendment) Regulations 2014 (S.I. 2014/1563)](https://www.legislation.gov.uk/uksi/2014/1563), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1563/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1563/regulation/4)
+[^c-354b10329096159fb90205a57a66e71a]: Textual amendment: Pt. 1A inserted (25.7.2014) by [The Adoption Support Services (Amendment) Regulations 2014 (S.I. 2014/1563)](https://www.legislation.gov.uk/uksi/2014/1563), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1563/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1563/regulation/4)
 
 [^f00009]: Footnote: See section 66(1)(c) of the Act for the meaning of “Convention adoption”.
 
-[^key-4a8c0e70d06cd47e59d8a5e1289e9fdc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/691/regulation/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-4a8c0e70d06cd47e59d8a5e1289e9fdc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/691/regulation/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-de3fc2b663686c2d4febfaea89b29b9f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/691/regulation/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-de3fc2b663686c2d4febfaea89b29b9f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/691/regulation/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-ecbba01acbbd8a4bf29c3afd9b53311d]: Commencement: Reg. 5 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-ecbba01acbbd8a4bf29c3afd9b53311d]: Commencement: Reg. 5 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-4e3cc6658741d6e483b8647cf6e476ad]: Textual amendment: Reg. 5(1)(bb) inserted (1.4.2010) by [The Adoption Support Agencies (England) (Amendment) Regulations 2010 (S.I. 2010/465)](https://www.legislation.gov.uk/uksi/2010/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/465/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/465/regulation/3)
+[^c-4e3cc6658741d6e483b8647cf6e476ad]: Textual amendment: Reg. 5(1)(bb) inserted (1.4.2010) by [The Adoption Support Agencies (England) (Amendment) Regulations 2010 (S.I. 2010/465)](https://www.legislation.gov.uk/uksi/2010/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/465/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/465/regulation/3)
 
-[^key-fef60e238d57a46a234eb9d3c598f32c]: Textual amendment: Words in reg. 5(1)(bb) substituted (18.12.2023) by [The Adoption Support Agencies (England) (Amendment) Regulations 2023 (S.I. 2023/1261)](https://www.legislation.gov.uk/uksi/2023/1261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/3/a)
+[^c-fef60e238d57a46a234eb9d3c598f32c]: Textual amendment: Words in reg. 5(1)(bb) substituted (18.12.2023) by [The Adoption Support Agencies (England) (Amendment) Regulations 2023 (S.I. 2023/1261)](https://www.legislation.gov.uk/uksi/2023/1261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/3/a)
 
-[^key-ade6cf343f0e7dfaee3b147e02940ee5]: Textual amendment: Words in reg. 5(1)(bb) inserted (18.12.2023) by [The Adoption Support Agencies (England) (Amendment) Regulations 2023 (S.I. 2023/1261)](https://www.legislation.gov.uk/uksi/2023/1261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/3/b)
+[^c-ade6cf343f0e7dfaee3b147e02940ee5]: Textual amendment: Words in reg. 5(1)(bb) inserted (18.12.2023) by [The Adoption Support Agencies (England) (Amendment) Regulations 2023 (S.I. 2023/1261)](https://www.legislation.gov.uk/uksi/2023/1261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1261/regulation/3/b)
 
-[^key-6fe08fa1a5da2e266c74d61d59c0640d]: Textual amendment: Words in reg. 5(1)(c) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/3)
+[^c-6fe08fa1a5da2e266c74d61d59c0640d]: Textual amendment: Words in reg. 5(1)(c) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/3)
 
-[^key-2b26e492716f89f6169c582b4f16fad7]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-2b26e492716f89f6169c582b4f16fad7]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-4e30469d403f270f10f22c1300337a68]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-4e30469d403f270f10f22c1300337a68]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-e144bd8f94acaf070aff7cf748c75551]: Textual amendment: Reg. 5(1)(d) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/3)
+[^c-e144bd8f94acaf070aff7cf748c75551]: Textual amendment: Reg. 5(1)(d) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/3)
 
-[^key-7122567c5da614b6762c678ad5a53464]: Textual amendment: Reg. 5(2) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/7/2)
+[^c-7122567c5da614b6762c678ad5a53464]: Textual amendment: Reg. 5(2) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/7/2)
 
-[^key-2939bd2d7ba8a16226655b904c9b0d57]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/691/regulation/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-2939bd2d7ba8a16226655b904c9b0d57]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/691/regulation/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-5b1270527748e8eaaa9cb5b40c5e1bc5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/691/regulation/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-5b1270527748e8eaaa9cb5b40c5e1bc5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/691/regulation/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-41b230da179f5c213a2618123a5fcd2f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/691/regulation/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-41b230da179f5c213a2618123a5fcd2f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/691/regulation/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-8368985c614e6bf99d08dc7b3311c1c4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/691/regulation/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-8368985c614e6bf99d08dc7b3311c1c4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/691/regulation/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-adde32b561c2e67f11911c169ec62ea3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/691/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-adde32b561c2e67f11911c169ec62ea3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/691/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-bbb82c6a14285f33fa31275a413741ad]: Commencement: Reg. 11 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-bbb82c6a14285f33fa31275a413741ad]: Commencement: Reg. 11 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-eeb60a29037f19a7e3106224187bf549]: Textual amendment: Words in reg. 11(c) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [45(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/45/3)
+[^c-eeb60a29037f19a7e3106224187bf549]: Textual amendment: Words in reg. 11(c) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [45(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/45/3)
 
-[^key-e8a0b096288fb722c02957c18d05ad67]: Textual amendment: Words in reg. 11(c) inserted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [reg. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/985/schedule/paragraph/1)
+[^c-e8a0b096288fb722c02957c18d05ad67]: Textual amendment: Words in reg. 11(c) inserted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [reg. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/985/schedule/paragraph/1)
 
-[^key-25dfe20310aafc25bd3fe5f96db30d25]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/691/regulation/12) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-25dfe20310aafc25bd3fe5f96db30d25]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/691/regulation/12) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-270205b998787d4b4035c5c71019a709]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/691/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-270205b998787d4b4035c5c71019a709]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/691/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-c9a2fae6b9c95ff8e28e5c3400003fdb]: Commencement: Reg. 14 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-c9a2fae6b9c95ff8e28e5c3400003fdb]: Commencement: Reg. 14 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-1b7dfbeea2151e9b45ce470ecd657368]: Textual amendment: Words in reg. 14(4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(4)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/4/a)
+[^c-1b7dfbeea2151e9b45ce470ecd657368]: Textual amendment: Words in reg. 14(4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(4)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/4/a)
 
-[^key-8c199f272abab452cb2262da2032d774]: Textual amendment: Words in reg. 14(4) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/4/b)
+[^c-8c199f272abab452cb2262da2032d774]: Textual amendment: Words in reg. 14(4) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/4/b)
 
-[^key-cba651490e8f9a74a30b533d94fe3bf0]: Textual amendment: Word in reg. 14(4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/3)
+[^c-cba651490e8f9a74a30b533d94fe3bf0]: Textual amendment: Word in reg. 14(4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/3)
 
-[^key-677d3a9b22ae8dc6249372664015eb9d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/691/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-677d3a9b22ae8dc6249372664015eb9d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/691/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-2038ebd62954184a36709107670812cb]: Commencement: Reg. 16 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-2038ebd62954184a36709107670812cb]: Commencement: Reg. 16 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-aed1ec9e80dfb580392448cfb3eb569b]: Textual amendment: Words in reg. 16(3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(5)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/5/a)
+[^c-aed1ec9e80dfb580392448cfb3eb569b]: Textual amendment: Words in reg. 16(3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 55(5)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/55/5/a)
 
-[^key-056676aeed525ef1a2eef77a688dc5a0]: Textual amendment: Words in reg. 16(3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(5)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/5/b)
+[^c-056676aeed525ef1a2eef77a688dc5a0]: Textual amendment: Words in reg. 16(3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 81(5)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/81/5/b)
 
-[^key-e96ac38f3406faed5fec9d5454c4e134]: Textual amendment: Word in reg. 16(3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/4)
+[^c-e96ac38f3406faed5fec9d5454c4e134]: Textual amendment: Word in reg. 16(3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2022/634/regulation/20/4)
 
-[^key-1e791365a371a3062d1a59df865c2e42]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/691/regulation/17) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-1e791365a371a3062d1a59df865c2e42]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/691/regulation/17) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-25e312b3e73588bab3cf0bca5a85fa10]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/691/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-25e312b3e73588bab3cf0bca5a85fa10]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/691/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-7aeeac54016174642d61a18873554517]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/691/regulation/19) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-7aeeac54016174642d61a18873554517]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/691/regulation/19) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-f5550ad208dc467a44ecdd0c68176218]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/691/regulation/20) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-f5550ad208dc467a44ecdd0c68176218]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/691/regulation/20) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-3af151f8287589fdd352f233733d73d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/691/regulation/21) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-3af151f8287589fdd352f233733d73d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/691/regulation/21) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-9a6b11b32316e28c88ab4e3691e142f7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/691/regulation/22) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-9a6b11b32316e28c88ab4e3691e142f7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/691/regulation/22) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-af19e55e23448b553744f92c522bf6d8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2005/691/regulation/23) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-af19e55e23448b553744f92c522bf6d8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2005/691/regulation/23) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
-[^key-5305b28cc15f180aa6921685fb630e32]: Commencement: Reg. 24 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
+[^c-5305b28cc15f180aa6921685fb630e32]: Commencement: Reg. 24 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/691/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1991/2030](https://www.legislation.gov.uk/uksi/1991/2030).
 
 [^f00012]: Footnote: S.I. [2003/1348](https://www.legislation.gov.uk/uksi/2003/1348).
 
-[^key-65552206abfaf33b3cbe9f4e876786ad]: Textual amendment: Reg. 24(4)(5) inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [7](https://www.legislation.gov.uk/uksi/2005/3482/regulation/7)
+[^c-65552206abfaf33b3cbe9f4e876786ad]: Textual amendment: Reg. 24(4)(5) inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [7](https://www.legislation.gov.uk/uksi/2005/3482/regulation/7)

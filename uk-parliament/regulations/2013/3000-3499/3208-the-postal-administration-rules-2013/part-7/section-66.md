@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Admission or rejection of proofs[^key-2b53c69599e4451685d73c33e440fdcb]
+## 66. Admission or rejection of proofs[^c-2b53c69599e4451685d73c33e440fdcb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b53c69599e4451685d73c33e440fdcb]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2013/3208/rule/66) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2b53c69599e4451685d73c33e440fdcb]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2013/3208/rule/66) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

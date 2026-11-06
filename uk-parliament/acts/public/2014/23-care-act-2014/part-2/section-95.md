@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Training for persons working in regulated activity[^key-f5de122f0f0933e7f2ce18b9267fa397]
+## 95. Training for persons working in regulated activity[^c-f5de122f0f0933e7f2ce18b9267fa397]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 20 of the Health and Social Care Act 2008 (regulation of regulated ac
 
 ## Annotations
 
-[^key-f5de122f0f0933e7f2ce18b9267fa397]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/23/section/95) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/f)
+[^c-f5de122f0f0933e7f2ce18b9267fa397]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/23/section/95) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/f)

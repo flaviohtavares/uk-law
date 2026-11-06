@@ -43,7 +43,7 @@ Made
 
 The Secretary of State for Health makes the following Order in exercise of the powers conferred by sections 304(10) and 306 of the Health and Social Care Act 2012[^f00001].
 
-## 1. Citation and interpretation[^key-b91ba793dc081232fd2db564655497d3]
+## 1. Citation and interpretation[^c-b91ba793dc081232fd2db564655497d3]
 
 (1) This Order may be cited as the Health and Social Care Act 2012 (Commencement No.2 and Transitional, Savings and Transitory Provisions) Order 2012.
 
@@ -56,7 +56,7 @@ The Secretary of State for Health makes the following Order in exercise of the p
 - “financial year” means the period which begins on 1st April and ends on the following 31st March;
 - “initial period” has the meaning given in paragraph 1(2) of Schedule 6 to the Act.
 
-## 2. Commencement of provisions[^key-f2b71be2c177bb040dec3ab3aee9cacf]
+## 2. Commencement of provisions[^c-f2b71be2c177bb040dec3ab3aee9cacf]
 
 (1) Insofar as they are not already in force[^f00005], the following provisions of the Act shall come into force in accordance with this Order.
 
@@ -189,7 +189,7 @@ section 9(1) (the National Health Service Commissioning Board) only insofar as i
 
 (3) 31st October 2012 is the day appointed for the coming into force of section 279 of, and Part 2 of Schedule 20 to, the Act.
 
-## 3. Transitory modifications in respect of the commencement of section 9 of the Act (the National Health Service Commissioning Board)[^key-b6ea0867042a836124318c1b5f0b3884]
+## 3. Transitory modifications in respect of the commencement of section 9 of the Act (the National Health Service Commissioning Board)[^c-b6ea0867042a836124318c1b5f0b3884]
 
 (1) Until sections 11, 12, 17(2) to (9), (12) and (13) and section 29(2) of the Act come into force, in section 1H(2) of the 2006 Act the words “except in relation to that part of the health service that is provided in pursuance of the public health functions of the Secretary of State or local authorities” are to be read as “except in relation to that part of the health service which is provided for the purpose of protecting the public in England from disease or other dangers to health, or which is provided for the purpose of improving public health.”
 
@@ -197,17 +197,17 @@ section 9(1) (the National Health Service Commissioning Board) only insofar as i
 
 (3) Until section 9(2) of, and Schedule 1 to, the Act come fully into force, paragraph 15(3) of Schedule A1 to the 2006 Act (accounts) is to be read as if the words “and any interim accounts prepared by virtue of paragraph 17” were omitted.
 
-## 4. Transitory modifications in respect of the commencement of section 23 of the Act (the National Health Service Commissioning Board: further provision)[^key-9b8d715fe92db5b8f03f9c05d9acc842]
+## 4. Transitory modifications in respect of the commencement of section 23 of the Act (the National Health Service Commissioning Board: further provision)[^c-9b8d715fe92db5b8f03f9c05d9acc842]
 
 (1) For the purpose only of the mandate to the Board for the financial year ending 31st March 2014, the requirement in section 13A(8)(b) of the 2006 Act to consult Healthwatch England does not apply.
 
 (2) For the purpose only of the annual report of the Board for the financial year ending 31st March 2013, the requirements in section 13U(2) and (5) do not apply.
 
-## 5. Transitional provision in respect of the commencement of section 25 of the Act (clinical commissioning groups: establishment etc.)[^key-77ddbe51038632b7c7eebd762a4fa39a]
+## 5. Transitional provision in respect of the commencement of section 25 of the Act (clinical commissioning groups: establishment etc.)[^c-77ddbe51038632b7c7eebd762a4fa39a]
 
 Where an application has been made to the Board Authority before 1st October 2012 for establishment as a clinical commissioning group, that application must, from that date, be treated as an application to the Board under section 14B of the 2006 Act (applications for the establishment of clinical commissioning groups) if that application meets the requirements of that section.
 
-## 6. Transitory modifications in respect of the commencement of section 26 of the Act (clinical commissioning groups: general duties etc.)[^key-ac48a5a14a99f29ebc665fd68d64fe07]
+## 6. Transitory modifications in respect of the commencement of section 26 of the Act (clinical commissioning groups: general duties etc.)[^c-ac48a5a14a99f29ebc665fd68d64fe07]
 
 (1) Until section 194(1) of the Act (establishment of Health and Wellbeing Boards) comes into force—
 
@@ -222,50 +222,50 @@ of the 2006 Act do not apply.
 > - (a) individuals who are provided with primary medical services by a member of the group; and
 > - (b) individuals who usually reside in the group’s area and are not provided with primary medical services by a member of any clinical commissioning group.
 
-## 7. Transitory modification in respect of the commencement of section 181 of the Act (Healthwatch England)[^key-264cec33ef4950019258fbd579888d54]
+## 7. Transitory modification in respect of the commencement of section 181 of the Act (Healthwatch England)[^c-264cec33ef4950019258fbd579888d54]
 
 Until section 183 of the Act (local authority arrangements) comes into force, in section 45A(5)(b) of the Health and Social Care Act 2008[^f00010], the reference to “the views of Local Healthwatch organisations and of other persons” is to be read as a reference to “the views of persons”.
 
-## 8. Transitory modification in respect of the commencement of section 223 of the Act (functions of the Professional Standards Authority)[^key-6f8b51ce94f5afae1e01c22c3f120568]
+## 8. Transitory modification in respect of the commencement of section 223 of the Act (functions of the Professional Standards Authority)[^c-6f8b51ce94f5afae1e01c22c3f120568]
 
 From 1st October 2012 until section 222 of the Act (the Professional Standards Authority for Health and Social Care) comes into force, the references to the Professional Standards Authority for Health and Social Care in section 26A(1A) of the National Health Service Reform and Health Care Professions Act 2002 (powers of the Secretary of State etc. to request the Authority for advice)[^f00011] are to be read as references to the Council for Healthcare Regulatory Excellence.
 
-## 9. Transitory provision in respect of the commencement of Schedule 2 to the Act (clinical commissioning groups)[^key-11f788087ddba801c84e613c8831825c]
+## 9. Transitory provision in respect of the commencement of Schedule 2 to the Act (clinical commissioning groups)[^c-11f788087ddba801c84e613c8831825c]
 
 Notwithstanding the commencement of Schedule 2 to the Act in article 2(2), paragraph 17(1) and (2) of Schedule 1A to the 2006 Act (accounts and audits) do not apply to a clinical commissioning group in the initial period.
 
-## 10. Saving provision and transitory modification in relation to the commencement of paragraph 1 of Schedule 4 to the Act (amendments of the 2006 Act)[^key-a9687be3b120ed4f0f983e2b18ff53b3]
+## 10. Saving provision and transitory modification in relation to the commencement of paragraph 1 of Schedule 4 to the Act (amendments of the 2006 Act)[^c-a9687be3b120ed4f0f983e2b18ff53b3]
 
 (1) Notwithstanding the commencement in part of paragraph 1 of Schedule 4 to the Act (amendments of the 2006 Act) by article 2(2) the power of the Secretary of State under section 2 of the 2006 Act (Secretary of State’s general power) prior to any amendment made by that paragraph, is to continue until paragraph 1 of Schedule 4 comes fully into force.
 
-(2) Subject to paragraph (2A)[^key-8029631cbef84e5e79573e6ef6e9bf1e] until the commencement of section 34 of the Act (abolition of Primary Care Trusts)—
+(2) Subject to paragraph (2A)[^c-8029631cbef84e5e79573e6ef6e9bf1e] until the commencement of section 34 of the Act (abolition of Primary Care Trusts)—
 
 - (a) the power of a clinical commissioning group under section 2 of the 2006 Act (general power) does not include the power to—
   - (i) enter into a commissioning contract, or any other contract,
   - (ii) acquire and dispose of property, or
   - (iii) accept gifts (including property to be held on trust for the purposes of the clinical commissioning group); and
-- (b) the power of the Board under section 2 of the 2006 Act does not include the power to enter into a commissioning contract except insofar as—[^key-a31ce48a1bb41a6f6eb9b385af4cf331]
+- (b) the power of the Board under section 2 of the 2006 Act does not include the power to enter into a commissioning contract except insofar as—[^c-a31ce48a1bb41a6f6eb9b385af4cf331]
   - (i) that contract is entered into on or after 1st February 2013, and
   - (ii) under that contract, the services are to be provided as part of the health service on or after 1st April 2013.
 
-(2A)[^key-385c0f23d4a182bdf78b3d75acb4291d] From 1st February 2013 until the commencement of section 34 of the Act, the power of a clinical commissioning group under section 2 of the 2006 Act includes the power to enter into a commissioning contract under which services are to be provided as part of the health service on or after 1st April 2013.
+(2A)[^c-385c0f23d4a182bdf78b3d75acb4291d] From 1st February 2013 until the commencement of section 34 of the Act, the power of a clinical commissioning group under section 2 of the 2006 Act includes the power to enter into a commissioning contract under which services are to be provided as part of the health service on or after 1st April 2013.
 
 (3) In this article “commissioning contract” means a contract entered into by the Board or (as the case may be) clinical commissioning groups in arranging for the provision of services as part of the health service.
 
-## 11. Saving provisions in respect of the commencement of paragraph 125 of Schedule 4 to the Act and paragraph 96 of Schedule 5 to the Act (amendment of the Government Resources and Accounts Act 2000)[^key-787ba965f1aad87060b7daadc22f7e38]
+## 11. Saving provisions in respect of the commencement of paragraph 125 of Schedule 4 to the Act and paragraph 96 of Schedule 5 to the Act (amendment of the Government Resources and Accounts Act 2000)[^c-787ba965f1aad87060b7daadc22f7e38]
 
 (1) Notwithstanding the commencement of paragraph 125(4) to (6) of Schedule 4 to the Act by article 2(2), paragraphs 7 to 9 of Schedule 15 to the 2006 Act apply to the accounts of the bodies specified in those paragraphs in respect of any financial year up to and including the financial year ending 31st March 2012 as if the amendments made by paragraph 125(4) to (6) of Schedule 4 to the Act were not in force.
 
 (2) Notwithstanding the commencement of paragraph 96 of Schedule 5 to the Act by article 2(2), section 14 of the Government Resources and Accounts Act 2000 (summarised accounts)[^f00012] applies in respect of accounts relating to any financial year up to and including the financial year ending 31st March 2012 as if the amendments made by paragraph 96 of Schedule 5 to the Act were not in force.
 
-## 12. Transitory modification in respect of the commencement of paragraph 137 of Schedule 4 to the Act (amendments of the 2006 Act)[^key-c2b99bb6a973cccb92e9b333be4258b6]
+## 12. Transitory modification in respect of the commencement of paragraph 137 of Schedule 4 to the Act (amendments of the 2006 Act)[^c-c2b99bb6a973cccb92e9b333be4258b6]
 
 Until the commencement of section 33 of the Act (abolition of Strategic Health Authorities), section 273 of the 2006 Act (further provision about orders and directions under the Act) must be read as if—
 
 - (a) in subsection (3), “by a Strategic Health Authority or” were inserted after “this Act”; and
 - (b) in subsection (4)(c)(ii), “15,” were inserted after “13Z1,”.
 
-## 13. Transitory modifications in respect of the commencement of paragraph 138(2)(c) of Schedule 4 to the Act[^key-7be950dcdaf79cbc8e3330c018d8d4cb]
+## 13. Transitory modifications in respect of the commencement of paragraph 138(2)(c) of Schedule 4 to the Act[^c-7be950dcdaf79cbc8e3330c018d8d4cb]
 
 (1) Until the commencement of section 33 of the Act (abolition of Strategic Health Authorities) the definition of “NHS body” in section 275(1) of the 2006 Act (interpretation) is to be read as if it included a reference to a Strategic Health Authority.
 
@@ -285,7 +285,7 @@ Until the commencement of section 33 of the Act (abolition of Strategic Health A
 - (f) section 258; and
 - (g) paragraph 29 of Schedule 4.
 
-## 14. Transitory modifications in respect of the commencement of paragraph 6 of Schedule 5 to the Act (Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51))[^key-37c989ff0ab1789a46c0e39f8e7ae7ed]
+## 14. Transitory modifications in respect of the commencement of paragraph 6 of Schedule 5 to the Act (Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51))[^c-37c989ff0ab1789a46c0e39f8e7ae7ed]
 
 (1) Until section 23 of the Act (the NHS Commissioning Board: further provision) is commenced in full, Schedule 1 to the Public Records Act 1958[^f00013] is to be read as if the reference to “and section 13X” in the second column of the first entry to the Department of Health in paragraph 3(2) in the Table is omitted.
 
@@ -416,7 +416,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-b91ba793dc081232fd2db564655497d3]: Commencement: Art. 1 in force at made date
+[^c-b91ba793dc081232fd2db564655497d3]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -424,7 +424,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237). The NHS Commissioning Board Authority is abolished under article 3 of the NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 ([S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641)).
 
-[^key-f2b71be2c177bb040dec3ab3aee9cacf]: Commencement: Art. 2 in force at made date
+[^c-f2b71be2c177bb040dec3ab3aee9cacf]: Commencement: Art. 2 in force at made date
 
 [^f00005]: Footnote: *See* section 306(1) of the Act for the provisions which came into force on the day the Act was passed and [S.I. 2012/1319 (C. 47)](https://www.legislation.gov.uk/uksi/2012/1319) for provisions of the Act which came into force by Order on earlier dates.
 
@@ -434,42 +434,42 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00008]: Footnote: [2009 c. 21](https://www.legislation.gov.uk/ukpga/2009/21).
 
-[^key-b6ea0867042a836124318c1b5f0b3884]: Commencement: Art. 3 in force at made date
+[^c-b6ea0867042a836124318c1b5f0b3884]: Commencement: Art. 3 in force at made date
 
 [^f00009]: Footnote: Schedule A1 is inserted into the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) by section 9(2) of, and Schedule 1 to, the Act.
 
-[^key-9b8d715fe92db5b8f03f9c05d9acc842]: Commencement: Art. 4 in force at made date
+[^c-9b8d715fe92db5b8f03f9c05d9acc842]: Commencement: Art. 4 in force at made date
 
-[^key-77ddbe51038632b7c7eebd762a4fa39a]: Commencement: Art. 5 in force at made date
+[^c-77ddbe51038632b7c7eebd762a4fa39a]: Commencement: Art. 5 in force at made date
 
-[^key-ac48a5a14a99f29ebc665fd68d64fe07]: Commencement: Art. 6 in force at made date
+[^c-ac48a5a14a99f29ebc665fd68d64fe07]: Commencement: Art. 6 in force at made date
 
-[^key-264cec33ef4950019258fbd579888d54]: Commencement: Art. 7 in force at made date
+[^c-264cec33ef4950019258fbd579888d54]: Commencement: Art. 7 in force at made date
 
 [^f00010]: Footnote: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-6f8b51ce94f5afae1e01c22c3f120568]: Commencement: Art. 8 in force at made date
+[^c-6f8b51ce94f5afae1e01c22c3f120568]: Commencement: Art. 8 in force at made date
 
 [^f00011]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17). Section 26A(1A) was inserted by section 223(3) of the Act.
 
-[^key-11f788087ddba801c84e613c8831825c]: Commencement: Art. 9 in force at made date
+[^c-11f788087ddba801c84e613c8831825c]: Commencement: Art. 9 in force at made date
 
-[^key-a9687be3b120ed4f0f983e2b18ff53b3]: Commencement: Art. 10 in force at made date
+[^c-a9687be3b120ed4f0f983e2b18ff53b3]: Commencement: Art. 10 in force at made date
 
-[^key-8029631cbef84e5e79573e6ef6e9bf1e]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/10/2) inserted (22.10.2012) by [The Health and Social Care Act 2012 (Commencement No.3, Transitional, Savings and Transitory Provisions and Amendment) Order 2012 (S.I. 2012/2657)](https://www.legislation.gov.uk/uksi/2012/2657), [art. 15(a)](https://www.legislation.gov.uk/uksi/2012/2657/article/15/a)
+[^c-8029631cbef84e5e79573e6ef6e9bf1e]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/10/2) inserted (22.10.2012) by [The Health and Social Care Act 2012 (Commencement No.3, Transitional, Savings and Transitory Provisions and Amendment) Order 2012 (S.I. 2012/2657)](https://www.legislation.gov.uk/uksi/2012/2657), [art. 15(a)](https://www.legislation.gov.uk/uksi/2012/2657/article/15/a)
 
-[^key-a31ce48a1bb41a6f6eb9b385af4cf331]: Textual amendment: Words in [art. 10(2)(b)](https://www.legislation.gov.uk/uksi/2012/1831/article/10/2/b) inserted (22.10.2012) by [The Health and Social Care Act 2012 (Commencement No.3, Transitional, Savings and Transitory Provisions and Amendment) Order 2012 (S.I. 2012/2657)](https://www.legislation.gov.uk/uksi/2012/2657), [art. 15(b)](https://www.legislation.gov.uk/uksi/2012/2657/article/15/b)
+[^c-a31ce48a1bb41a6f6eb9b385af4cf331]: Textual amendment: Words in [art. 10(2)(b)](https://www.legislation.gov.uk/uksi/2012/1831/article/10/2/b) inserted (22.10.2012) by [The Health and Social Care Act 2012 (Commencement No.3, Transitional, Savings and Transitory Provisions and Amendment) Order 2012 (S.I. 2012/2657)](https://www.legislation.gov.uk/uksi/2012/2657), [art. 15(b)](https://www.legislation.gov.uk/uksi/2012/2657/article/15/b)
 
-[^key-385c0f23d4a182bdf78b3d75acb4291d]: Textual amendment: [Art. 10(2A)](https://www.legislation.gov.uk/uksi/2012/1831/article/10/2A) inserted (22.10.2012) by [The Health and Social Care Act 2012 (Commencement No.3, Transitional, Savings and Transitory Provisions and Amendment) Order 2012 (S.I. 2012/2657)](https://www.legislation.gov.uk/uksi/2012/2657), [art. 15(c)](https://www.legislation.gov.uk/uksi/2012/2657/article/15/c)
+[^c-385c0f23d4a182bdf78b3d75acb4291d]: Textual amendment: [Art. 10(2A)](https://www.legislation.gov.uk/uksi/2012/1831/article/10/2A) inserted (22.10.2012) by [The Health and Social Care Act 2012 (Commencement No.3, Transitional, Savings and Transitory Provisions and Amendment) Order 2012 (S.I. 2012/2657)](https://www.legislation.gov.uk/uksi/2012/2657), [art. 15(c)](https://www.legislation.gov.uk/uksi/2012/2657/article/15/c)
 
-[^key-787ba965f1aad87060b7daadc22f7e38]: Commencement: Art. 11 in force at made date
+[^c-787ba965f1aad87060b7daadc22f7e38]: Commencement: Art. 11 in force at made date
 
 [^f00012]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20).
 
-[^key-c2b99bb6a973cccb92e9b333be4258b6]: Commencement: Art. 12 in force at made date
+[^c-c2b99bb6a973cccb92e9b333be4258b6]: Commencement: Art. 12 in force at made date
 
-[^key-7be950dcdaf79cbc8e3330c018d8d4cb]: Commencement: Art. 13 in force at made date
+[^c-7be950dcdaf79cbc8e3330c018d8d4cb]: Commencement: Art. 13 in force at made date
 
-[^key-37c989ff0ab1789a46c0e39f8e7ae7ed]: Commencement: Art. 14 in force at made date
+[^c-37c989ff0ab1789a46c0e39f8e7ae7ed]: Commencement: Art. 14 in force at made date
 
 [^f00013]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).

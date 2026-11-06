@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 453. “Loan creditor”[^key-988e90ec235b4d1e8df0d6932dffbfd1][^key-eec46338c649338ca861f06e4281956d]
+## 453. “Loan creditor”[^c-988e90ec235b4d1e8df0d6932dffbfd1][^c-eec46338c649338ca861f06e4281956d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ is, to the extent of that interest, treated for the purposes of this Part as a l
 
 ## Annotations
 
-[^key-988e90ec235b4d1e8df0d6932dffbfd1]: Modification: Pt. 10 Ch. 2 applied (with modifications) (with effect in accordance with [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 376(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/376/1) (as amended by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 610(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/610/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
+[^c-988e90ec235b4d1e8df0d6932dffbfd1]: Modification: Pt. 10 Ch. 2 applied (with modifications) (with effect in accordance with [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 376(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/376/1) (as amended by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 610(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/610/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
 
-[^key-eec46338c649338ca861f06e4281956d]: Modification: Pt. 10 Ch. 2 applied (with modifications) (with effect in accordance with [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 456(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/456/7) (as substituted by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 466(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/466/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
+[^c-eec46338c649338ca861f06e4281956d]: Modification: Pt. 10 Ch. 2 applied (with modifications) (with effect in accordance with [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 456(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/456/7) (as substituted by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 466(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/466/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))

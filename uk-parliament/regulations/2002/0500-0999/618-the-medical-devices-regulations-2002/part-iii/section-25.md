@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. UK marking of active implantable medical devices that come within the scope of this Part and other legislation[^M_E_fca8c960-fac7-4c00-e0d6-9731b05b78de][^key-7df58b0f0c0b98b4069b9250669dcc56]
+## 25. UK marking of active implantable medical devices that come within the scope of this Part and other legislation[^M_E_fca8c960-fac7-4c00-e0d6-9731b05b78de][^c-7df58b0f0c0b98b4069b9250669dcc56]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ Where a relevant device comes within the scope of Directive 90/385 and another D
 
 [^M_E_fca8c960-fac7-4c00-e0d6-9731b05b78de]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7df58b0f0c0b98b4069b9250669dcc56]: Textual amendment: Reg. 25 substituted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [5(4B)](https://www.legislation.gov.uk/uksi/2019/791/regulation/5/4B) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [26](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/26)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7df58b0f0c0b98b4069b9250669dcc56]: Textual amendment: Reg. 25 substituted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [5(4B)](https://www.legislation.gov.uk/uksi/2019/791/regulation/5/4B) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [26](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/26)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a557d3a1-7f76-4d95-b586-2fb802190f68]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

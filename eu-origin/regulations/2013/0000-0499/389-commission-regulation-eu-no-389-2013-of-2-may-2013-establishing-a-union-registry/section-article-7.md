@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 7. Communication links between registries, the ITL and the EUTL[^key-413fcd4fb5a3ea65f065ace332346a41]
+## Article 7. Communication links between registries, the ITL and the EUTL[^c-413fcd4fb5a3ea65f065ace332346a41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-413fcd4fb5a3ea65f065ace332346a41]: Textual amendment: [Arts. 4-7](https://www.legislation.gov.uk/eur/2013/389/article/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/3)
+[^c-413fcd4fb5a3ea65f065ace332346a41]: Textual amendment: [Arts. 4-7](https://www.legislation.gov.uk/eur/2013/389/article/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. His Majesty’s Chief Inspector of Education in Scotland[^key-0c7bfb6fa55994a4fb0aa120202f8814][^key-2b30b56265d9bc847a3a6a0933668ad2]
+## 33. His Majesty’s Chief Inspector of Education in Scotland[^c-0c7bfb6fa55994a4fb0aa120202f8814][^c-2b30b56265d9bc847a3a6a0933668ad2]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c7bfb6fa55994a4fb0aa120202f8814]: Commencement: S. 33 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-0c7bfb6fa55994a4fb0aa120202f8814]: Commencement: S. 33 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-2b30b56265d9bc847a3a6a0933668ad2]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/11/section/33) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-2b30b56265d9bc847a3a6a0933668ad2]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/11/section/33) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

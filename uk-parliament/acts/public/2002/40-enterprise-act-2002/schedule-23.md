@@ -33,7 +33,7 @@ Section 269
 
 **4.** In section 282 (annulment of bankruptcy)—
 
-- (a)[^key-9c2f1b1372e174793ed437fe30251f6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9c2f1b1372e174793ed437fe30251f6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit subsection (5) (previous bankruptcy: disregard of annulled bankruptcy).
 
 **5.** For section 291(4) (co-operation with official receiver) substitute—
@@ -116,4 +116,4 @@ Section 269
 
 ## Annotations
 
-[^key-9c2f1b1372e174793ed437fe30251f6a]: Textual amendment: [Sch. 23 para. 4(a)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/23/paragraph/4/a) and word omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(c)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/c), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
+[^c-9c2f1b1372e174793ed437fe30251f6a]: Textual amendment: [Sch. 23 para. 4(a)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/23/paragraph/4/a) and word omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(c)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/c), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))

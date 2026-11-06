@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Terminal illness[^key-df3534699e51ef2d3d45947cd0ff3244]
+## 122. Terminal illness[^c-df3534699e51ef2d3d45947cd0ff3244]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ In the following provisions (which relate to the life expectancy required for a 
 
 ## Annotations
 
-[^key-df3534699e51ef2d3d45947cd0ff3244]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2026/22/section/122) in force at 29.6.2026, see [s. 133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-df3534699e51ef2d3d45947cd0ff3244]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2026/22/section/122) in force at 29.6.2026, see [s. 133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)

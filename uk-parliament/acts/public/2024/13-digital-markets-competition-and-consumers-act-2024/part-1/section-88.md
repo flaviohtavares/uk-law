@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Amount of penalties under section 87[^key-86b25d9cfb458881377cbec4e3116777][^key-ef290ee6236e6509e78fdc5276148965]
+## 88. Amount of penalties under section 87[^c-86b25d9cfb458881377cbec4e3116777][^c-ef290ee6236e6509e78fdc5276148965]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86b25d9cfb458881377cbec4e3116777]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-86b25d9cfb458881377cbec4e3116777]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-ef290ee6236e6509e78fdc5276148965]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2024/13/section/88) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-ef290ee6236e6509e78fdc5276148965]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2024/13/section/88) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

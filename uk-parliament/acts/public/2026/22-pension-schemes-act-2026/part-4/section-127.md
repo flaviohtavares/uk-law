@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Funding of the Ombudsman for the Board of the Pension Protection Fund[^key-2ad0e4d0b068cfe3faedfdc990261de6][^key-c587afb86a5b474641d81fb61eb4ea4d]
+## 127. Funding of the Ombudsman for the Board of the Pension Protection Fund[^c-2ad0e4d0b068cfe3faedfdc990261de6][^c-c587afb86a5b474641d81fb61eb4ea4d]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad0e4d0b068cfe3faedfdc990261de6]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2026/22/section/127) treated as having come into force retrospective to 1.4.2007, see [s. 133(11)(e)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/e)
+[^c-2ad0e4d0b068cfe3faedfdc990261de6]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2026/22/section/127) treated as having come into force retrospective to 1.4.2007, see [s. 133(11)(e)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/e)
 
-[^key-c587afb86a5b474641d81fb61eb4ea4d]: Annotation text not found in the source document.
+[^c-c587afb86a5b474641d81fb61eb4ea4d]: Annotation text not found in the source document.

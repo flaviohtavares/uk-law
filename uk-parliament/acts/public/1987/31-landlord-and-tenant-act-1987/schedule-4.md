@@ -24,9 +24,9 @@ Section 61(1).
 
 Land Registration Act 1925 (c.21)
 
-**1.**[^key-0a9b491335ef52c88c40a0c446cc0b8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0a9b491335ef52c88c40a0c446cc0b8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** [^key-243d9f7a39af51c95cbb2c2d59cf97ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** [^c-243d9f7a39af51c95cbb2c2d59cf97ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Local Government Act 1985 (c.51)
 
@@ -59,8 +59,8 @@ Local Government Act 1985 (c.51)
 
 ## Annotations
 
-[^key-0a9b491335ef52c88c40a0c446cc0b8a]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1987/31/schedule/4/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-0a9b491335ef52c88c40a0c446cc0b8a]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1987/31/schedule/4/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-243d9f7a39af51c95cbb2c2d59cf97ed]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1987/31/schedule/4/paragraph/2) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-243d9f7a39af51c95cbb2c2d59cf97ed]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1987/31/schedule/4/paragraph/2) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c10164801]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/1987/31/schedule/4/paragraph/7) repealed by [Housing Act 1988 (c. 50, SIF 61, 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/2), [Sch. 18](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18)

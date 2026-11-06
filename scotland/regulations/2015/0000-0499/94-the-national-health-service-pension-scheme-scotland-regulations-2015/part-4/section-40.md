@@ -22,7 +22,7 @@ summary: ''
 
 (1) The amount of a repayment to a member (M) pursuant to regulation 39 is—
 
-- (a) if the 1993 Act condition applies, the amount which M is entitled to be paid pursuant to Chapter 2 of Part 4ZA[^key-aa7af2d5182728cc8db28173634b46fe] of that Act, less the appropriate deductions;
+- (a) if the 1993 Act condition applies, the amount which M is entitled to be paid pursuant to Chapter 2 of Part 4ZA[^c-aa7af2d5182728cc8db28173634b46fe] of that Act, less the appropriate deductions;
 - (b) if the short service condition applies, an amount equal to the sum of the contributions paid by M, less the appropriate deductions.
 
 (2) The appropriate deductions are—
@@ -43,7 +43,7 @@ summary: ''
 (6) Paragraphs (4) and (5) do not apply if—
 
 - (a) regulation 39(1)(a) applies; and
-- (b) M is entitled to a greater amount of interest under Chapter 2 of Part 4ZA[^key-17786de97451e5f2a8b3953462b0dfea] of the 1993 Act.
+- (b) M is entitled to a greater amount of interest under Chapter 2 of Part 4ZA[^c-17786de97451e5f2a8b3953462b0dfea] of the 1993 Act.
 
 (7) So far as contributions paid by M were paid under another scheme and were included in a transfer payment to this scheme—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7af2d5182728cc8db28173634b46fe]: Textual amendment: Words in [reg. 40(1)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/40/1/a) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2017/28/regulation/9/a)
+[^c-aa7af2d5182728cc8db28173634b46fe]: Textual amendment: Words in [reg. 40(1)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/40/1/a) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2017/28/regulation/9/a)
 
-[^key-17786de97451e5f2a8b3953462b0dfea]: Textual amendment: Words in [reg. 40(6)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/40/6/b) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [9(b)](https://www.legislation.gov.uk/ssi/2017/28/regulation/9/b)
+[^c-17786de97451e5f2a8b3953462b0dfea]: Textual amendment: Words in [reg. 40(6)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/40/6/b) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [9(b)](https://www.legislation.gov.uk/ssi/2017/28/regulation/9/b)

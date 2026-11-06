@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Who prepares the consent form[^key-66b64a93e461acbfa4efe757741de15a]
+## 212. Who prepares the consent form[^c-66b64a93e461acbfa4efe757741de15a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The spaceflight operator must prepare the consent form in writing and in duplica
 
 ## Annotations
 
-[^key-66b64a93e461acbfa4efe757741de15a]: Commencement: Reg. 212 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-66b64a93e461acbfa4efe757741de15a]: Commencement: Reg. 212 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

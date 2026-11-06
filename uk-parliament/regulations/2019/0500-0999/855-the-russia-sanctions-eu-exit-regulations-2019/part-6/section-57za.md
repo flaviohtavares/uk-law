@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57ZA. Prohibition on chartering or operating specified ships[^key-567a4c29436f9cb8db21ef9690a7b065]
+## 57ZA. Prohibition on chartering or operating specified ships[^c-567a4c29436f9cb8db21ef9690a7b065]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-567a4c29436f9cb8db21ef9690a7b065]: Textual amendment: [Reg. 57ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/57ZA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/543/regulation/13)
+[^c-567a4c29436f9cb8db21ef9690a7b065]: Textual amendment: [Reg. 57ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/57ZA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/543/regulation/13)

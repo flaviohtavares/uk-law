@@ -26,7 +26,7 @@ summary: ''
 - (b) at least 20 working days have elapsed since the date of that notice; and
 - (c) no response, or no response which the Secretary of State considers to be satisfactory, has been received.
 
-(2) An application must be made within two years after the contract completion date or, where the application is made in respect of a component, the component completion date[^key-1cf57bdaaa348d0e51a531b358cca9f4].
+(2) An application must be made within two years after the contract completion date or, where the application is made in respect of a component, the component completion date[^c-1cf57bdaaa348d0e51a531b358cca9f4].
 
 (3) In making a determination, the SSRO must have regard to—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf57bdaaa348d0e51a531b358cca9f4]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/19/2) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/420/regulation/23)
+[^c-1cf57bdaaa348d0e51a531b358cca9f4]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/19/2) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/420/regulation/23)

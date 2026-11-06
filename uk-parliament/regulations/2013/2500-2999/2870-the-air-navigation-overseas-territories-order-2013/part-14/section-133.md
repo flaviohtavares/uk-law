@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Requirement for Approval[^key-1e0c6a70228d8d191f4845e742b8b2d1]
+## 133. Requirement for Approval[^c-1e0c6a70228d8d191f4845e742b8b2d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e0c6a70228d8d191f4845e742b8b2d1]: Commencement: [Art. 133](https://www.legislation.gov.uk/uksi/2013/2870/article/133) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-1e0c6a70228d8d191f4845e742b8b2d1]: Commencement: [Art. 133](https://www.legislation.gov.uk/uksi/2013/2870/article/133) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

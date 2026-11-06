@@ -44,11 +44,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly, in exercise of the powers conferred on them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following Regulations:—
 
-## 1. Title, commencement and extent[^key-6f59089d66ce68009a26cbde08aae002]
+## 1. Title, commencement and extent[^c-6f59089d66ce68009a26cbde08aae002]
 
 These Regulations may be cited as the Countryside Access Regulations 1994, shall come into force on 29th September 1994 and shall apply to England and Wales.
 
-## 2. Interpretation[^key-6bc97295ffad5482a7dbdac922a1523d]
+## 2. Interpretation[^c-6bc97295ffad5482a7dbdac922a1523d]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -80,7 +80,7 @@ These Regulations may be cited as the Countryside Access Regulations 1994, shall
 
 (2) Any reference in these Regulations to a numbered regulation or “the Schedule” shall be construed as a reference to the regulation so numbered in these Regulations or the Schedule to these Regulations.
 
-## 3. Aid for access to land[^key-ebd8648a69a11c37b197d949d9206035]
+## 3. Aid for access to land[^c-ebd8648a69a11c37b197d949d9206035]
 
 Subject to the provisions of these Regulations, the Minister may make payments of aid to any person who on the date of the submission of his application occupies the land to which the application relates as owner or tenant and who undertakes for the duration of the access period—
 
@@ -88,7 +88,7 @@ Subject to the provisions of these Regulations, the Minister may make payments o
 - (b) to permit members of the public to have access to that area for the purposes of quiet recreation; and
 - (c) to manage that area and any parcel of land on his holding crossed by an access route in accordance with the requirements set out in the Schedule.
 
-## 4. Requirements in relation to the access area[^key-d36cfeba79533d15ca722077d4f1d736]
+## 4. Requirements in relation to the access area[^c-d36cfeba79533d15ca722077d4f1d736]
 
 The access area shall be a continuous area of land consisting of—
 
@@ -97,14 +97,14 @@ The access area shall be a continuous area of land consisting of—
 - (c) a part of a field or parts of fields; or
 - (d) any combination of (a) to (c) above.
 
-## 5. Applications for aid[^key-baf764eb5fb5d3ad31882a578f880e77]
+## 5. Applications for aid[^c-baf764eb5fb5d3ad31882a578f880e77]
 
 An application for aid under these Regulations shall be made at such time and in such form as the Minister reasonably may require and shall include—
 
 - (a) a map of the proposed access area, identifying any existing public rights of way, the extent of any permissive access over that area, any landscape feature, vantage point or site of archaeological, historical or wildlife interest in or adjacent to that area, and indicating, where appropriate, the route of any proposed circular walk; and
 - (b) if required by the Minister, evidence showing the nature of the applicant’s estate or interest in the holding.
 
-## 6. Restrictions on acceptance of applications[^key-13738d27bf199cba55e6c27846af7b0d]
+## 6. Restrictions on acceptance of applications[^c-13738d27bf199cba55e6c27846af7b0d]
 
 (1) The Minister shall not accept an application in relation to any land unless he is satisfied that as respects that land at least one of the following requirements is met—
 
@@ -130,7 +130,7 @@ An application for aid under these Regulations shall be made at such time and in
 - (b) access to that land by members of the public or the management of that land in accordance with the requirements of the Schedule would frustrate the purposes of any assistance previously given or to be given out of money provided by Parliament or the European Community; or
 - (c) the payment of aid under these Regulations in relation to that land would duplicate any assistance given or to be given out of money provided by Parliament or by the European Community.
 
-## 7. Change of occupation[^key-45a62ca02e99767d6db2ad7ef612fa07]
+## 7. Change of occupation[^c-45a62ca02e99767d6db2ad7ef612fa07]
 
 (1) Where on the death of the beneficiary or otherwise, there is a change of occupation of the entirety or any part of that beneficiary’s land subject to access obligations—
 
@@ -162,7 +162,7 @@ An application for aid under these Regulations shall be made at such time and in
   - (ii) following the death of that original occupier the tenancy or lease under which he occupied that land or part was terminated by the landlord; or
 - (c) the termination of a tenancy following the operation of a notice to quit to which the Agricultural Land Tribunal has consented under section 26(1) of the Agricultural Holdings Act 1986 having been satisfied as to any of the matters specified in section 27(3) of that Act, or the termination of a tenancy following the service of a notice to quit stating that the circumstances in Case A, B, G or H of Schedule 3 to that Act apply.
 
-## 8. Amounts and payment of aid[^key-dbd6f6aa03214bb7e6df16a85c3680f3]
+## 8. Amounts and payment of aid[^c-dbd6f6aa03214bb7e6df16a85c3680f3]
 
 (1) Subject to the provisions of these Regulations, payments of aid shall be by way of five payments made annually in arrears at a rate of—
 
@@ -174,11 +174,11 @@ An application for aid under these Regulations shall be made at such time and in
 - (a) the land subject to access obligations has been the subject of an agreement with the Countryside Commission under the Countryside Premium Scheme and, in a case where on the date of the submission of the application that agreement has been terminated or has expired, public access has continued to be permitted as if the agreement were still in force; or
 - (b) the total area of land subject to access obligations in that holding exceeds 15 hectares as a consequence of the acceptance by the Minister of an undertaking by a new occupier under regulation 7(1)(b) to comply with access obligations in relation to land which was formerly comprised in another holding.
 
-## 9. Claims for aid[^key-0a4233110a23e7791804003a9094de37]
+## 9. Claims for aid[^c-0a4233110a23e7791804003a9094de37]
 
 Any claim for the payment of aid under these Regulations shall be made at such time and in such form and shall contain such information as the Minister reasonably may require.
 
-## 10. Obligation to permit entry and inspection[^key-33fc7d60bbdab0055b02dc10b2d06294]
+## 10. Obligation to permit entry and inspection[^c-33fc7d60bbdab0055b02dc10b2d06294]
 
 (1) A beneficiary shall permit any officer duly authorised by the Minister, accompanied by such persons acting under his instructions as appear to the officer to be necessary for the purpose, at all reasonable times and on production of his authority on demand, to enter upon that beneficiary’s holding in order to inspect any land, document or record with a view to verifying—
 
@@ -190,7 +190,7 @@ Any claim for the payment of aid under these Regulations shall be made at such t
 - (a) produce any document or record which is required by that officer for inspection; and
 - (b) at the request of that officer, accompany him in making the inspection of any land and shall identify any area of land which is concerned in any application or claim or in any undertaking given by a new occupier to comply with the access obligations undertaken by the original occupier.
 
-## 11. Withholding and recovery of aid and termination[^key-5b3680fda85b1ce2f89343006ce1db84]
+## 11. Withholding and recovery of aid and termination[^c-5b3680fda85b1ce2f89343006ce1db84]
 
 (1) Where any person, with a view to obtaining the payment of aid under these Regulations to himself or any other person, makes any statement or furnishes any information which is false or misleading in a material respect, the Minister may withhold the whole or any part of any aid payable to that person or to such other person and may recover the whole or any part of any aid already paid to that person or to such other person.
 
@@ -218,7 +218,7 @@ the Minister may withhold the whole or any part of any aid payable to that benef
 - (b) afford the beneficiary an opportunity of appearing before and being heard by a person appointed for that purpose by the Minister; and
 - (c) consider the report by the person so appointed and supply a copy of the report to the beneficiary.
 
-## 12. False statements[^key-8a6829e589506ea2c89ce54842ec7a1a]
+## 12. False statements[^c-8a6829e589506ea2c89ce54842ec7a1a]
 
 If any person, for the purposes of obtaining for himself or any other person any aid under these Regulations, knowingly or recklessly makes a statement which is false in a material particular, that person shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.
 
@@ -242,40 +242,40 @@ Parliamentary Under Secretary of State, Welsh Office
 
 Regulation 3(c)
 
-**1.**[^key-fe6dc9862f2bb788d21aba1d1448c4a1] The beneficiary shall make the access area available for public access at no charge.
+**1.**[^c-fe6dc9862f2bb788d21aba1d1448c4a1] The beneficiary shall make the access area available for public access at no charge.
 
-**2.**[^key-e0b422923fa7bf3a8451052071c026ff] The beneficiary shall maintain free passage over the access area.
+**2.**[^c-e0b422923fa7bf3a8451052071c026ff] The beneficiary shall maintain free passage over the access area.
 
-**3.**[^key-8b3707804a6d5a3cdc3a7fec625f5927] The beneficiary shall provide and maintain sown grass or naturally regenerated cover over the access area.
+**3.**[^c-8b3707804a6d5a3cdc3a7fec625f5927] The beneficiary shall provide and maintain sown grass or naturally regenerated cover over the access area.
 
-**4.**[^key-5e40f9f0e532893770ed0602cbd56485] The beneficiary shall not erect new fences on, or on land on the boundary of, the access area without the prior written approval of the Minister.
+**4.**[^c-5e40f9f0e532893770ed0602cbd56485] The beneficiary shall not erect new fences on, or on land on the boundary of, the access area without the prior written approval of the Minister.
 
-**5.**[^key-6dcc68a3201ea49ae73096b25de5c6cd] The beneficiary shall keep the access area and any parcel of land on his holding crossed by an access route free of litter and other refuse.
+**5.**[^c-6dcc68a3201ea49ae73096b25de5c6cd] The beneficiary shall keep the access area and any parcel of land on his holding crossed by an access route free of litter and other refuse.
 
-**6.**[^key-1bf95b084bc74c0319caf0af60f3ef78] The beneficiary shall exclude bulls from the access area and from any parcel of land on his holding crossed by an access route except in the case of bulls which—
+**6.**[^c-1bf95b084bc74c0319caf0af60f3ef78] The beneficiary shall exclude bulls from the access area and from any parcel of land on his holding crossed by an access route except in the case of bulls which—
 
 - (a) do not exceed the age of ten months; or
 - (b) are not of a recognised dairy breed and are at large in any field or enclosure in which cows or heifers are also at large.
 
-**7.**[^key-4abac379e8a710620d82ff77eb70adb0] The beneficiary shall provide and maintain adequate means of entry to the access area.
+**7.**[^c-4abac379e8a710620d82ff77eb70adb0] The beneficiary shall provide and maintain adequate means of entry to the access area.
 
-**8.**[^key-22bdfc0c3d1348133bf526fec62395ee] The beneficiary shall provide and maintain appropriate waymarking, including signposting the means of entry to the access area with signs of a design and standard specified by the Minister.
+**8.**[^c-22bdfc0c3d1348133bf526fec62395ee] The beneficiary shall provide and maintain appropriate waymarking, including signposting the means of entry to the access area with signs of a design and standard specified by the Minister.
 
-**9.**[^key-cda61b2c7473a1eee48c0390959d1fdd] The beneficiary shall consent to details of the access area being made public by the Minister.
+**9.**[^c-cda61b2c7473a1eee48c0390959d1fdd] The beneficiary shall consent to details of the access area being made public by the Minister.
 
-**10.**[^key-738868a3f32bec9e5184bcc4248610db] The beneficiary shall not without the Minister’s prior written approval permit any of the following activities on the access area or on any parcel of land on his holding crossed by an access route: camping, caravanning, lighting of fires, carrying of firearms or riding of motor vehicles (except for vehicles used for agricultural operations on the land).
+**10.**[^c-738868a3f32bec9e5184bcc4248610db] The beneficiary shall not without the Minister’s prior written approval permit any of the following activities on the access area or on any parcel of land on his holding crossed by an access route: camping, caravanning, lighting of fires, carrying of firearms or riding of motor vehicles (except for vehicles used for agricultural operations on the land).
 
-**11.**[^key-ad36da592408d663192584846e58bd73] The beneficiary shall ensure that any recreational activities permitted to members of the public in the access area do not hinder public access to that area.
+**11.**[^c-ad36da592408d663192584846e58bd73] The beneficiary shall ensure that any recreational activities permitted to members of the public in the access area do not hinder public access to that area.
 
-**12.**[^key-3a37e88051ad41de81f514078da6a0de] The beneficiary shall mow the whole cover of any access route at least once between 1st October in each year and 31st March in the following year, unless he permits grazing of that cover within the period specified in Article 3(4) of Commission Regulation [(EC) No. 762/94](https://www.legislation.gov.uk/european/regulation/1994/0762), namely 1st September to 14th January inclusive in each year, and shall maintain the cover of each such access route to a maximum height of 15 centimetres over a minimum width of 3 metres from 1st May to 31st October inclusive in each year.
+**12.**[^c-3a37e88051ad41de81f514078da6a0de] The beneficiary shall mow the whole cover of any access route at least once between 1st October in each year and 31st March in the following year, unless he permits grazing of that cover within the period specified in Article 3(4) of Commission Regulation [(EC) No. 762/94](https://www.legislation.gov.uk/european/regulation/1994/0762), namely 1st September to 14th January inclusive in each year, and shall maintain the cover of each such access route to a maximum height of 15 centimetres over a minimum width of 3 metres from 1st May to 31st October inclusive in each year.
 
-**13.**[^key-79a5bb7cafa37646ac0f35453023ab9b] The beneficiary shall mow the whole cover of any open field site at least once between 1st October in each year and 31st March in the following year, unless he permits grazing of that cover within the period specified in Article 3(4) of Commission Regulation [(EC) No. 762/94](https://www.legislation.gov.uk/european/regulation/1994/0762), namely 1st September to 14th January inclusive in each year, and shall maintain the cover of at least half the area of each whole or part field comprising that site to a maximum height of 15 centimetres from 1st May to 31st October inclusive in each year.
+**13.**[^c-79a5bb7cafa37646ac0f35453023ab9b] The beneficiary shall mow the whole cover of any open field site at least once between 1st October in each year and 31st March in the following year, unless he permits grazing of that cover within the period specified in Article 3(4) of Commission Regulation [(EC) No. 762/94](https://www.legislation.gov.uk/european/regulation/1994/0762), namely 1st September to 14th January inclusive in each year, and shall maintain the cover of at least half the area of each whole or part field comprising that site to a maximum height of 15 centimetres from 1st May to 31st October inclusive in each year.
 
-**14.**[^key-38738678b52440e6d435e32f6a8f6a1b] The beneficiary shall not permit the riding of horses or cycles in the access area without the prior written consent of the Minister.
+**14.**[^c-38738678b52440e6d435e32f6a8f6a1b] The beneficiary shall not permit the riding of horses or cycles in the access area without the prior written consent of the Minister.
 
-**15.**[^key-1c60a9bcd0a09325420a7f63af72ad14] The beneficiary may agree with the Minister in writing in advance a specified number of days in any year (but excluding public holidays), up to a maximum to be reasonably determined by the Minister, when the beneficiary may close the access area or any part of it to the public, provided that signs giving notice of the intended closure and the reasons for it are posted at each entry point to the area at least two weeks in advance of the date of closure.
+**15.**[^c-1c60a9bcd0a09325420a7f63af72ad14] The beneficiary may agree with the Minister in writing in advance a specified number of days in any year (but excluding public holidays), up to a maximum to be reasonably determined by the Minister, when the beneficiary may close the access area or any part of it to the public, provided that signs giving notice of the intended closure and the reasons for it are posted at each entry point to the area at least two weeks in advance of the date of closure.
 
-**16.**[^key-e159239b19e64609d42d94599925d693] The beneficiary shall maintain minimum public liability insurance cover in relation to the access area and any parcel of land on his holding crossed by an access route of at least £1 million per claim in any one year.
+**16.**[^c-e159239b19e64609d42d94599925d693] The beneficiary shall maintain minimum public liability insurance cover in relation to the access area and any parcel of land on his holding crossed by an access route of at least £1 million per claim in any one year.
 
 (This note is not part of the Regulations)
 
@@ -303,9 +303,9 @@ The Regulations also—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-6f59089d66ce68009a26cbde08aae002]: Commencement: Reg. 1 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-6f59089d66ce68009a26cbde08aae002]: Commencement: Reg. 1 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-6bc97295ffad5482a7dbdac922a1523d]: Commencement: Reg. 2 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-6bc97295ffad5482a7dbdac922a1523d]: Commencement: Reg. 2 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
 [^f00003]: Footnote: OJ No. L181, 1.7.92, p.12.
 
@@ -317,56 +317,56 @@ The Regulations also—
 
 [^f00007]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
-[^key-ebd8648a69a11c37b197d949d9206035]: Commencement: Reg. 3 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-ebd8648a69a11c37b197d949d9206035]: Commencement: Reg. 3 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-d36cfeba79533d15ca722077d4f1d736]: Commencement: Reg. 4 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-d36cfeba79533d15ca722077d4f1d736]: Commencement: Reg. 4 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-baf764eb5fb5d3ad31882a578f880e77]: Commencement: Reg. 5 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-baf764eb5fb5d3ad31882a578f880e77]: Commencement: Reg. 5 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-13738d27bf199cba55e6c27846af7b0d]: Commencement: Reg. 6 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-13738d27bf199cba55e6c27846af7b0d]: Commencement: Reg. 6 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
 [^f00008]: Footnote: S.I. [1988/1352](https://www.legislation.gov.uk/uksi/1988/1352), amended by S.I. [1989/1042](https://www.legislation.gov.uk/uksi/1989/1042), [1990/1716](https://www.legislation.gov.uk/uksi/1990/1716), and [1991/1993](https://www.legislation.gov.uk/uksi/1991/1993).
 
-[^key-45a62ca02e99767d6db2ad7ef612fa07]: Commencement: Reg. 7 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-45a62ca02e99767d6db2ad7ef612fa07]: Commencement: Reg. 7 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-dbd6f6aa03214bb7e6df16a85c3680f3]: Commencement: Reg. 8 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-dbd6f6aa03214bb7e6df16a85c3680f3]: Commencement: Reg. 8 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-0a4233110a23e7791804003a9094de37]: Commencement: Reg. 9 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-0a4233110a23e7791804003a9094de37]: Commencement: Reg. 9 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-33fc7d60bbdab0055b02dc10b2d06294]: Commencement: Reg. 10 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-33fc7d60bbdab0055b02dc10b2d06294]: Commencement: Reg. 10 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-5b3680fda85b1ce2f89343006ce1db84]: Commencement: Reg. 11 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-5b3680fda85b1ce2f89343006ce1db84]: Commencement: Reg. 11 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-8a6829e589506ea2c89ce54842ec7a1a]: Commencement: Reg. 12 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-8a6829e589506ea2c89ce54842ec7a1a]: Commencement: Reg. 12 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-fe6dc9862f2bb788d21aba1d1448c4a1]: Commencement: Sch. para. 1 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-fe6dc9862f2bb788d21aba1d1448c4a1]: Commencement: Sch. para. 1 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-e0b422923fa7bf3a8451052071c026ff]: Commencement: Sch. para. 2 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-e0b422923fa7bf3a8451052071c026ff]: Commencement: Sch. para. 2 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-8b3707804a6d5a3cdc3a7fec625f5927]: Commencement: Sch. para. 3 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-8b3707804a6d5a3cdc3a7fec625f5927]: Commencement: Sch. para. 3 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-5e40f9f0e532893770ed0602cbd56485]: Commencement: Sch. para. 4 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-5e40f9f0e532893770ed0602cbd56485]: Commencement: Sch. para. 4 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-6dcc68a3201ea49ae73096b25de5c6cd]: Commencement: Sch. para. 5 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-6dcc68a3201ea49ae73096b25de5c6cd]: Commencement: Sch. para. 5 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-1bf95b084bc74c0319caf0af60f3ef78]: Commencement: Sch. para. 6 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-1bf95b084bc74c0319caf0af60f3ef78]: Commencement: Sch. para. 6 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-4abac379e8a710620d82ff77eb70adb0]: Commencement: Sch. para. 7 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-4abac379e8a710620d82ff77eb70adb0]: Commencement: Sch. para. 7 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-22bdfc0c3d1348133bf526fec62395ee]: Commencement: Sch. para. 8 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-22bdfc0c3d1348133bf526fec62395ee]: Commencement: Sch. para. 8 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-cda61b2c7473a1eee48c0390959d1fdd]: Commencement: Sch. para. 9 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-cda61b2c7473a1eee48c0390959d1fdd]: Commencement: Sch. para. 9 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-738868a3f32bec9e5184bcc4248610db]: Commencement: Sch. para. 10 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-738868a3f32bec9e5184bcc4248610db]: Commencement: Sch. para. 10 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-ad36da592408d663192584846e58bd73]: Commencement: Sch. para. 11 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-ad36da592408d663192584846e58bd73]: Commencement: Sch. para. 11 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-3a37e88051ad41de81f514078da6a0de]: Commencement: Sch. para. 12 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-3a37e88051ad41de81f514078da6a0de]: Commencement: Sch. para. 12 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-79a5bb7cafa37646ac0f35453023ab9b]: Commencement: Sch. para. 13 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-79a5bb7cafa37646ac0f35453023ab9b]: Commencement: Sch. para. 13 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-38738678b52440e6d435e32f6a8f6a1b]: Commencement: Sch. para. 14 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-38738678b52440e6d435e32f6a8f6a1b]: Commencement: Sch. para. 14 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-1c60a9bcd0a09325420a7f63af72ad14]: Commencement: Sch. para. 15 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-1c60a9bcd0a09325420a7f63af72ad14]: Commencement: Sch. para. 15 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
 
-[^key-e159239b19e64609d42d94599925d693]: Commencement: Sch. para. 16 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)
+[^c-e159239b19e64609d42d94599925d693]: Commencement: Sch. para. 16 in force at 29.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2349/regulation/1)

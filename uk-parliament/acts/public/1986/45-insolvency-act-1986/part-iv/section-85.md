@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Notice of resolution to wind up.[^key-a448a589deb4c97fabc4e37e520897e7]
+## 85. Notice of resolution to wind up.[^c-a448a589deb4c97fabc4e37e520897e7]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ For purposes of this subsection the liquidator is deemed an officer of the compa
 
 ## Annotations
 
-[^key-a448a589deb4c97fabc4e37e520897e7]: Modification: S. 85 modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2019/138/regulation/10) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-a448a589deb4c97fabc4e37e520897e7]: Modification: S. 85 modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2019/138/regulation/10) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5ZA. National Chief Social Work Adviser and National Social Work Agency[^key-9bf631f2620ae02861bb6cb17a133200]
+## 5ZA. National Chief Social Work Adviser and National Social Work Agency[^c-9bf631f2620ae02861bb6cb17a133200]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bf631f2620ae02861bb6cb17a133200]: Textual amendment: [S. 5ZA](https://www.legislation.gov.uk/ukpga/1968/49/section/5ZA) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 25(2)](https://www.legislation.gov.uk/asp/2025/9/section/25/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-9bf631f2620ae02861bb6cb17a133200]: Textual amendment: [S. 5ZA](https://www.legislation.gov.uk/ukpga/1968/49/section/5ZA) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 25(2)](https://www.legislation.gov.uk/asp/2025/9/section/25/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)

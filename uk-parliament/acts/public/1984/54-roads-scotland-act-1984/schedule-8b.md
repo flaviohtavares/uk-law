@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 8B — FIXED PENALTIES FOR CERTAIN OFFENCES[^key-f4383d61a1927ebf17109e14cab53628]
+## SCHEDULE 8B — FIXED PENALTIES FOR CERTAIN OFFENCES[^c-f4383d61a1927ebf17109e14cab53628]
 
 *Extent: S*
 
@@ -47,13 +47,13 @@ summary: ''
 
 **4.** (1) The penalty for a fixed penalty offence is (subject to paragraph 5) such amount, not exceeding 30 per cent. of the maximum fine for that offence, as the Scottish Ministers may by regulations prescribe.
 
-(2) The period for payment of the penalty is the period of 36[^key-33e6fe3ab57057c0ea4e2c7a5ff23501] days beginning with the day on which the notice is given.
+(2) The period for payment of the penalty is the period of 36[^c-33e6fe3ab57057c0ea4e2c7a5ff23501] days beginning with the day on which the notice is given.
 
 (3) The roads authority may extend the period for paying the penalty in any particular case if they consider it appropriate to do so.
 
 ### The discounted amount
 
-**5.** (1) A discounted amount is payable instead of the amount prescribed under paragraph 4(1) if payment is made before the end of the period of 29[^key-6b0322fab66ee0a1ac9bcab11dbb1b4f] days beginning with the day on which the notice is given.
+**5.** (1) A discounted amount is payable instead of the amount prescribed under paragraph 4(1) if payment is made before the end of the period of 29[^c-6b0322fab66ee0a1ac9bcab11dbb1b4f] days beginning with the day on which the notice is given.
 
 (2) The discounted amount for a fixed penalty offence is such amount, not exceeding 25 per cent. of the maximum fine for the offence, as the Scottish Ministers may by regulations prescribe.
 
@@ -142,8 +142,8 @@ accordingly, that the fixed penalty is or, as the case may be, is not enforceabl
 
 ## Annotations
 
-[^key-f4383d61a1927ebf17109e14cab53628]: Textual amendment: Sch. 8B inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/12/schedule/7); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-f4383d61a1927ebf17109e14cab53628]: Textual amendment: Sch. 8B inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/12/schedule/7); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
 
-[^key-33e6fe3ab57057c0ea4e2c7a5ff23501]: Textual amendment: Word in Sch. 8B para. 4(2) substituted (1.10.2008) by [The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008 (S.S.I. 2008/243)](https://www.legislation.gov.uk/ssi/2008/243), [regs. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2008/243/regulation/7/a)
+[^c-33e6fe3ab57057c0ea4e2c7a5ff23501]: Textual amendment: Word in Sch. 8B para. 4(2) substituted (1.10.2008) by [The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008 (S.S.I. 2008/243)](https://www.legislation.gov.uk/ssi/2008/243), [regs. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2008/243/regulation/7/a)
 
-[^key-6b0322fab66ee0a1ac9bcab11dbb1b4f]: Textual amendment: Word in Sch. 8B para. 5(1) substituted (1.10.2008) by [The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008 (S.S.I. 2008/243)](https://www.legislation.gov.uk/ssi/2008/243), [regs. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2008/243/regulation/7/b)
+[^c-6b0322fab66ee0a1ac9bcab11dbb1b4f]: Textual amendment: Word in Sch. 8B para. 5(1) substituted (1.10.2008) by [The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008 (S.S.I. 2008/243)](https://www.legislation.gov.uk/ssi/2008/243), [regs. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2008/243/regulation/7/b)

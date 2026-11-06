@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Annual rate of short-service annuity[^key-fca0403b7bbb4a0d6da1047324c5c353]
+## 122. Annual rate of short-service annuity[^c-fca0403b7bbb4a0d6da1047324c5c353]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The annual rate of a short-service annuity is the actuarial equivalent of the su
 
 ## Annotations
 
-[^key-fca0403b7bbb4a0d6da1047324c5c353]: Commencement: [Reg. 122](https://www.legislation.gov.uk/ssi/2014/292/regulation/122) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-fca0403b7bbb4a0d6da1047324c5c353]: Commencement: [Reg. 122](https://www.legislation.gov.uk/ssi/2014/292/regulation/122) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

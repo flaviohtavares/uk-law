@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Notice requiring works etc.[^key-8c13bf2bc54ffc427522533786fa5008]
+## 30. Notice requiring works etc.[^c-8c13bf2bc54ffc427522533786fa5008]
 
 *Extent: E+W*
 
-(1) NRW[^key-61ce96236516122321cabfeca7539439] may serve, on a person who has custody or control of silage or slurry or is responsible for a silo or slurry storage system, in circumstances in which these Regulations apply, a notice (“regulation 30 notice”) requiring the person to carry out works, or take precautions or other steps, specified in the notice.
+(1) NRW[^c-61ce96236516122321cabfeca7539439] may serve, on a person who has custody or control of silage or slurry or is responsible for a silo or slurry storage system, in circumstances in which these Regulations apply, a notice (“regulation 30 notice”) requiring the person to carry out works, or take precautions or other steps, specified in the notice.
 
 (2) The works, precautions or other steps must be, in the opinion of NRW, appropriate, having regard to the requirements of these Regulations, for reducing to a minimum any significant risk of pollution of controlled waters.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c13bf2bc54ffc427522533786fa5008]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2021/77/regulation/30) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-8c13bf2bc54ffc427522533786fa5008]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2021/77/regulation/30) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-61ce96236516122321cabfeca7539439]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/wsi/2021/77/regulation/30) substituted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [7(b)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/7/b)
+[^c-61ce96236516122321cabfeca7539439]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/wsi/2021/77/regulation/30) substituted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [7(b)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/7/b)

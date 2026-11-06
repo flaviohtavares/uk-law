@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 9 — Commissioners for School Assets[^key-45af24d74cabe1f5ba7135639a6128e3]
+## SCHEDULE 9 — Commissioners for School Assets[^c-45af24d74cabe1f5ba7135639a6128e3]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ Section 38.
 
 ## Annotations
 
-[^key-45af24d74cabe1f5ba7135639a6128e3]: Textual amendment: [Schs. 7-9](https://www.legislation.gov.uk/ukpga/1989/39/schedule/7) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-45af24d74cabe1f5ba7135639a6128e3]: Textual amendment: [Schs. 7-9](https://www.legislation.gov.uk/ukpga/1989/39/schedule/7) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)

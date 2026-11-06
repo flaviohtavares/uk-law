@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 588. Interpretation of regulation 24 of the 2000 Regulations[^key-daff5c93f2f8179c53e86714fe387cda]
+## 588. Interpretation of regulation 24 of the 2000 Regulations[^c-daff5c93f2f8179c53e86714fe387cda]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daff5c93f2f8179c53e86714fe387cda]: Commencement: Art. 588 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-daff5c93f2f8179c53e86714fe387cda]: Commencement: Art. 588 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -30,7 +30,7 @@ must resolve so to do by an ordinary resolution; but a failure to comply with th
 (2) In order to be effective for the purposes of subsection (1) above, an ordinary resolution of a building society must be passed by a majority of the members of the society entitled to vote on such a resolution and voting either—
 
 - (a) in person or by proxy on a poll on the resolution at a meeting of the society; or
-- (b) in a postal or electronic[^key-b072c4ad8e3a6883abaf7ccb66dd5a54] ballot on the resolution;
+- (b) in a postal or electronic[^c-b072c4ad8e3a6883abaf7ccb66dd5a54] ballot on the resolution;
 
 and in a case falling within paragraph (a) above, a form for the appointment of a proxy shall be sent to each person entitled to notice of the meeting.
 
@@ -93,7 +93,7 @@ Y = the amount of the society’s own funds as at the relevant date.
 
 [^c15513891]: Textual amendment: S. 92A and cross-heading preceding it inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 29](https://www.legislation.gov.uk/ukpga/1997/32/section/29), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(u)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/u)
 
-[^key-b072c4ad8e3a6883abaf7ccb66dd5a54]: Textual amendment: Words in s. 92A(2)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(5)](https://www.legislation.gov.uk/uksi/2003/404/article/30/5)
+[^c-b072c4ad8e3a6883abaf7ccb66dd5a54]: Textual amendment: Words in s. 92A(2)(b) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [30(5)](https://www.legislation.gov.uk/uksi/2003/404/article/30/5)
 
 [^c15513901]: Modification: S. 92A(10)(11): Functions of Building Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/III) (art. 5)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.7. Exercise of functions of the Crown Court[^key-a6dc4971a859d82e86b000d2aa817ba0]
+## 2.7. Exercise of functions of the Crown Court[^c-a6dc4971a859d82e86b000d2aa817ba0]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a6dc4971a859d82e86b000d2aa817ba0]: Commencement: [Rule 2.7](https://www.legislation.gov.uk/uksi/2025/909/rule/2.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a6dc4971a859d82e86b000d2aa817ba0]: Commencement: [Rule 2.7](https://www.legislation.gov.uk/uksi/2025/909/rule/2.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00059]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 51 was substituted by section 200 of the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 

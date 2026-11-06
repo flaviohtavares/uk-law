@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Appointment of Judges of the Sexual Offences Court[^key-315a73fc45d85e2f261d4a13a673744e]
+## 74. Appointment of Judges of the Sexual Offences Court[^c-315a73fc45d85e2f261d4a13a673744e]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-315a73fc45d85e2f261d4a13a673744e]: Commencement: S. 74 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-315a73fc45d85e2f261d4a13a673744e]: Commencement: S. 74 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

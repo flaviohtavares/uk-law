@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Duty of principal accountable person to display certificate and related information[^key-5e8ac90488870c439a3c05286422dd18]
+## 45. Duty of principal accountable person to display certificate and related information[^c-5e8ac90488870c439a3c05286422dd18]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8ac90488870c439a3c05286422dd18]: Commencement: S. 45 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5e8ac90488870c439a3c05286422dd18]: Commencement: S. 45 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

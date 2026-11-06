@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Employer cost cap[^key-875bd3e4db1f7d40d062c42594cf349c]
+## 159. Employer cost cap[^c-875bd3e4db1f7d40d062c42594cf349c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875bd3e4db1f7d40d062c42594cf349c]: Commencement: [Reg. 159](https://www.legislation.gov.uk/uksi/2014/1964/regulation/159) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-875bd3e4db1f7d40d062c42594cf349c]: Commencement: [Reg. 159](https://www.legislation.gov.uk/uksi/2014/1964/regulation/159) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

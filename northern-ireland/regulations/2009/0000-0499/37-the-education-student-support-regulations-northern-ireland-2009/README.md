@@ -31,7 +31,7 @@ summary: ''
 
 Education
 
-The Education (Student Support) Regulations (Northern Ireland) 2009 (revoked)[^key-cf975f62c343ceea8f1e88ceb513857d]
+The Education (Student Support) Regulations (Northern Ireland) 2009 (revoked)[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation-
 
 12th March 2009
 
-[^key-cf975f62c343ceea8f1e88ceb513857d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf975f62c343ceea8f1e88ceb513857d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 1 — GENERAL[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -56,7 +56,7 @@ Coming into operation-
 - [Section 3 — Amendment of the Education (Student Support) Regulations (Northern Ireland) 2008](part-1/section-3.md)
 - [Section 4 — Revocation, savings and transitional provisions](part-1/section-4.md)
 
-### PART 2 — ELIGIBILITY[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 2 — ELIGIBILITY[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ Coming into operation-
 - [Section 7 — Period of eligibility](part-2/section-7.md)
 - [Section 8 — Transfer of status](part-2/section-8.md)
 
-### PART 3 — APPLYING FOR SUPPORT, PROVISION OF INFORMATION AND LOAN CONTRACTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 3 — APPLYING FOR SUPPORT, PROVISION OF INFORMATION AND LOAN CONTRACTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -78,13 +78,13 @@ Coming into operation-
 - [Section 11 — Information](part-3/section-11.md)
 - [Section 12 — Requirement to enter into a contract for a loan](part-3/section-12.md)
 
-### PART 4 — FEE SUPPORT[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 4 — FEE SUPPORT[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — GENERAL[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 1 — GENERAL[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -93,7 +93,7 @@ Coming into operation-
 - [Section 13 — Previous course](part-4/section-13.md)
 - [Section 14 — Miscellaneous](part-4/section-14.md)
 
-#### CHAPTER 2 — TYPES OF FEE SUPPORT AVAILABLE[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 2 — TYPES OF FEE SUPPORT AVAILABLE[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -105,7 +105,7 @@ Coming into operation-
 - [Section 18 — Events](part-4/section-18.md)
 - [Section 19 — Students to be treated as in attendance on a course](part-4/section-19.md)
 
-#### CHAPTER 3 — FEE LOANS FOR CURRENT SYSTEM STUDENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 3 — FEE LOANS FOR CURRENT SYSTEM STUDENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -118,7 +118,7 @@ Coming into operation-
 - [Section 24 — Standard entitlement of current system students on end-on courses and certain degree courses](part-4/section-24.md)
 - [Section 25 — Amount of the fee loan](part-4/section-25.md)
 
-#### CHAPTER 4 — GRANTS FOR FEES FOR OLD SYSTEM STUDENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 4 — GRANTS FOR FEES FOR OLD SYSTEM STUDENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -134,7 +134,7 @@ Coming into operation-
 - [Section 33 — Amount of the grant for fees for a course that is provided at a private institution on behalf of a publicly funded institution](part-4/section-33.md)
 - [Section 34 — Amount of the grant for fees for a course at a private institution](part-4/section-34.md)
 
-#### CHAPTER 5 — FEE CONTRIBUTION LOANS FOR OLD SYSTEM STUDENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 5 — FEE CONTRIBUTION LOANS FOR OLD SYSTEM STUDENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -143,13 +143,13 @@ Coming into operation-
 - [Section 35 — Availability of fee contribution loans to old system students](part-4/section-35.md)
 - [Section 36 — Amount of the fee contribution loan](part-4/section-36.md)
 
-### PART 5 — GRANTS FOR LIVING AND OTHER COSTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 5 — GRANTS FOR LIVING AND OTHER COSTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — TYPES OF GRANTS AVAILABLE[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 1 — TYPES OF GRANTS AVAILABLE[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -158,7 +158,7 @@ Coming into operation-
 - [Section 37 — Current system students](part-5/section-37.md)
 - [Section 38 — Old system students](part-5/section-38.md)
 
-#### CHAPTER 2 — GENERAL PROVISIONS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 2 — GENERAL PROVISIONS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -167,7 +167,7 @@ Coming into operation-
 - [Section 39 — General qualifying conditions for grants for living and other costs](part-5/section-39.md)
 - [Section 40 — Students who are treated as in attendance](part-5/section-40.md)
 
-#### CHAPTER 3 — DISABLED STUDENTS’ ALLOWANCES[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 3 — DISABLED STUDENTS’ ALLOWANCES[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -176,7 +176,7 @@ Coming into operation-
 - [Section 41 — Qualifying conditions for the disabled students’ allowance](part-5/section-41.md)
 - [Section 42 — Amount of the disabled students’ allowance](part-5/section-42.md)
 
-#### CHAPTER 4 — GRANTS FOR DEPENDANTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 4 — GRANTS FOR DEPENDANTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -190,7 +190,7 @@ Coming into operation-
 - [Section 48 — Parents’ learning allowance](part-5/section-48.md)
 - [Section 49 — Calculations](part-5/section-49.md)
 
-#### CHAPTER 5 — GRANTS FOR TRAVEL[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 5 — GRANTS FOR TRAVEL[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -204,7 +204,7 @@ Coming into operation-
 - [Section 55 — Amount of the grant for travel – overseas study](part-5/section-55.md)
 - [Section 57 — Deductions from the grant for travel](part-5/section-57.md)
 
-#### CHAPTER 6 — MAINTENANCE GRANTS FOR CURRENT SYSTEM STUDENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 6 — MAINTENANCE GRANTS FOR CURRENT SYSTEM STUDENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -213,7 +213,7 @@ Coming into operation-
 - [Section 58 — Qualifying conditions for the maintenance grant](part-5/section-58.md)
 - [Section 59 — Amount of the maintenance grant](part-5/section-59.md)
 
-#### CHAPTER 7 — SPECIAL SUPPORT GRANTS FOR CURRENT SYSTEM STUDENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 7 — SPECIAL SUPPORT GRANTS FOR CURRENT SYSTEM STUDENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -222,7 +222,7 @@ Coming into operation-
 - [Section 60 — Qualifying conditions for the special support grant](part-5/section-60.md)
 - [Section 61 — Amount of the special support grant](part-5/section-61.md)
 
-#### CHAPTER 8 — HIGHER EDUCATION BURSARIES FOR OLD SYSTEM STUDENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 8 — HIGHER EDUCATION BURSARIES FOR OLD SYSTEM STUDENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -230,13 +230,13 @@ Coming into operation-
 
 - [Section 62 — Qualifying conditions and amounts of the higher education bursary](part-5/section-62.md)
 
-### PART 6 — LOANS FOR LIVING COSTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 6 — LOANS FOR LIVING COSTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — QUALIFYING CONDITIONS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 1 — QUALIFYING CONDITIONS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -246,7 +246,7 @@ Coming into operation-
 - [Section 64 — Qualifying conditions for the loan for living costs – current system students](part-6/section-64.md)
 - [Section 65 — Qualifying conditions for the loan for living costs – old system students](part-6/section-65.md)
 
-#### CHAPTER 2 — MAXIMUM AMOUNTS OF LOANS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 2 — MAXIMUM AMOUNTS OF LOANS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -258,7 +258,7 @@ Coming into operation-
 - [Section 69 — Old system students with full entitlement](part-6/section-69.md)
 - [Section 70 — Students with reduced entitlement](part-6/section-70.md)
 
-#### CHAPTER 3 — ADDITIONAL AMOUNT OF LOAN FOR LIVING COSTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 3 — ADDITIONAL AMOUNT OF LOAN FOR LIVING COSTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -266,7 +266,7 @@ Coming into operation-
 
 - [Section 71 — Additional amount of loan for living costs](part-6/section-71.md)
 
-#### CHAPTER 4 — MISCELLANEOUS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 4 — MISCELLANEOUS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -281,7 +281,7 @@ Coming into operation-
 - [Section 78 — Applying for an additional amount of loan for living costs](part-6/section-78.md)
 - [Section 79 — Categories of student](part-6/section-79.md)
 
-### PART 7 — COLLEGE FEE LOANS[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 7 — COLLEGE FEE LOANS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -296,7 +296,7 @@ Coming into operation-
 - [Section 86 — Amount of college fee loan](part-7/section-86.md)
 - [Section 87 — Transfers](part-7/section-87.md)
 
-### PART 8 — INTEREST AND INSOLVENCY[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 8 — INTEREST AND INSOLVENCY[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -305,7 +305,7 @@ Coming into operation-
 - [Section 88 — Interest](part-8/section-88.md)
 - [Section 89 — Insolvency](part-8/section-89.md)
 
-### PART 9 — FINANCIAL ASSESSMENT[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 9 — FINANCIAL ASSESSMENT[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -318,13 +318,13 @@ Coming into operation-
 - [Section 94 — Minimum level of loan for living costs](part-9/section-94.md)
 - [Section 95 — Amount of loan for living costs payable to certain type 1 and type 2 teacher training students](part-9/section-95.md)
 
-### PART 10 — PAYMENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 10 — PAYMENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — INTERPRETATION OF PART 10[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 1 — INTERPRETATION OF PART 10[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -332,7 +332,7 @@ Coming into operation-
 
 - [Section 96 — Interpretation](part-10/section-96.md)
 
-#### CHAPTER 2 — PAYMENT OF GRANTS FOR FEES[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 2 — PAYMENT OF GRANTS FOR FEES[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -340,7 +340,7 @@ Coming into operation-
 
 - [Section 97 — Payment of grants for fees](part-10/section-97.md)
 
-#### CHAPTER 3 — PAYMENT OF GRANTS FOR LIVING AND OTHER COSTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 3 — PAYMENT OF GRANTS FOR LIVING AND OTHER COSTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -348,7 +348,7 @@ Coming into operation-
 
 - [Section 98 — Payment of grants for living and other costs](part-10/section-98.md)
 
-#### CHAPTER 4 — PAYMENT OF LOANS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 4 — PAYMENT OF LOANS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -361,7 +361,7 @@ Coming into operation-
 - [Section 103 — Payment of college fee loans](part-10/section-103.md)
 - [Section 104 — Payment of loans for living costs and additional amount of loan for living costs](part-10/section-104.md)
 
-#### CHAPTER 5 — OVERPAYMENTS[^key-cf975f62c343ceea8f1e88ceb513857d]
+#### CHAPTER 5 — OVERPAYMENTS[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -371,7 +371,7 @@ Coming into operation-
 - [Section 106 — Overpayments of college fee loan](part-10/section-106.md)
 - [Section 107 — Overpayments of support payable under Part 5 or Part 6](part-10/section-107.md)
 
-### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -395,7 +395,7 @@ Coming into operation-
 - [Section 123 — Payment of grants for books, travel and other expenditure and disabled distance learning students’ allowance](part-11/section-123.md)
 - [Section 124 — Overpayments](part-11/section-124.md)
 
-### PART 12 — SUPPORT FOR PART-TIME COURSES[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 12 — SUPPORT FOR PART-TIME COURSES[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -419,7 +419,7 @@ Coming into operation-
 - [Section 140 — Payment of grants for fees](part-12/section-140.md)
 - [Section 141 — Overpayments](part-12/section-141.md)
 
-### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES[^key-cf975f62c343ceea8f1e88ceb513857d]
+### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -447,14 +447,14 @@ Coming into operation-
 
 **No longer in force.**
 
-[^key-cf975f62c343ceea8f1e88ceb513857d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf975f62c343ceea8f1e88ceb513857d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf975f62c343ceea8f1e88ceb513857d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf975f62c343ceea8f1e88ceb513857d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf975f62c343ceea8f1e88ceb513857d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/37) revoked with savings (1.9.2010 with application in accordance with reg. 1(2) of the Amending Rule) by [The Education (Student Support) ( No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/373)](https://www.legislation.gov.uk/nisr/2009/373), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/1) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/2))
+[^c-cf975f62c343ceea8f1e88ceb513857d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/37) revoked with savings (1.9.2010 with application in accordance with reg. 1(2) of the Amending Rule) by [The Education (Student Support) ( No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/373)](https://www.legislation.gov.uk/nisr/2009/373), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/1) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/2))

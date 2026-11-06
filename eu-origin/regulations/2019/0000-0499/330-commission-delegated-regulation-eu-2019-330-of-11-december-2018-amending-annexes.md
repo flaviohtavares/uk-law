@@ -35,26 +35,26 @@ amending Annexes I and V to Regulation (EU) No 649/2012 of the European Parliame
 
 (Text with EEA relevance) (revoked)
 
-[^key-96f7a06ddcaffc9b862ea72c20ef63ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96f7a06ddcaffc9b862ea72c20ef63ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-96f7a06ddcaffc9b862ea72c20ef63ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-96f7a06ddcaffc9b862ea72c20ef63ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-96f7a06ddcaffc9b862ea72c20ef63ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-96f7a06ddcaffc9b862ea72c20ef63ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-96f7a06ddcaffc9b862ea72c20ef63ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96f7a06ddcaffc9b862ea72c20ef63ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-96f7a06ddcaffc9b862ea72c20ef63ca]
+## ANNEX I[^c-96f7a06ddcaffc9b862ea72c20ef63ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-96f7a06ddcaffc9b862ea72c20ef63ca]
+## ANNEX II[^c-96f7a06ddcaffc9b862ea72c20ef63ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96f7a06ddcaffc9b862ea72c20ef63ca]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-96f7a06ddcaffc9b862ea72c20ef63ca]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

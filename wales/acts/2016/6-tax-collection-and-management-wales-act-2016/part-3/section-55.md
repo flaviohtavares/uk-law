@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Assessment to recover excessive repayment of tax[^key-9f529747f9160635b03514c53ecf8cd8]
+## 55. Assessment to recover excessive repayment of tax[^c-9f529747f9160635b03514c53ecf8cd8]
 
 *Extent: E+W*
 
-(1) If an amount of a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax has been, but ought not to have been, repaid to a person that amount may be assessed and recovered as if it were unpaid WRA-collected tax.
+(1) If an amount of a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax has been, but ought not to have been, repaid to a person that amount may be assessed and recovered as if it were unpaid WRA-collected tax.
 
 (2) If the repayment was made with interest, the amount assessed and recovered may include the amount of interest that ought not to have been paid.
 
 ## Annotations
 
-[^key-9f529747f9160635b03514c53ecf8cd8]: Commencement: S. 55 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-9f529747f9160635b03514c53ecf8cd8]: Commencement: S. 55 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

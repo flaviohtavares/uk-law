@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING APPEALS COMMISSION PROCEDURES
 
-Planning Appeals Commission (Decisions on Appeals and Making of Reports) Rules (Northern Ireland) 2006 (revoked)[^key-f93e6ec7ddc0d988cde975ef20de27f4]
+Planning Appeals Commission (Decisions on Appeals and Making of Reports) Rules (Northern Ireland) 2006 (revoked)[^c-f93e6ec7ddc0d988cde975ef20de27f4]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 9th June 2006
 
-[^key-f93e6ec7ddc0d988cde975ef20de27f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f93e6ec7ddc0d988cde975ef20de27f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f93e6ec7ddc0d988cde975ef20de27f4]
+## 1. Citation, commencement and interpretation[^c-f93e6ec7ddc0d988cde975ef20de27f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Decisions of the appeals commission[^key-f93e6ec7ddc0d988cde975ef20de27f4]
+## 2. Decisions of the appeals commission[^c-f93e6ec7ddc0d988cde975ef20de27f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Reports made by the appeals commission[^key-f93e6ec7ddc0d988cde975ef20de27f4]
+## 3. Reports made by the appeals commission[^c-f93e6ec7ddc0d988cde975ef20de27f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-f93e6ec7ddc0d988cde975ef20de27f4]
+## 4. Revocation[^c-f93e6ec7ddc0d988cde975ef20de27f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f93e6ec7ddc0d988cde975ef20de27f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f93e6ec7ddc0d988cde975ef20de27f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f93e6ec7ddc0d988cde975ef20de27f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f93e6ec7ddc0d988cde975ef20de27f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f93e6ec7ddc0d988cde975ef20de27f4]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2006/225) repealed (14.6.2006) by [Planning Appeals Commission (Decisions on Appeals and Making of Reports) (No. 2) Rules (Northern Ireland) 2006 (S.R. 2006/233)](https://www.legislation.gov.uk/nisr/2006/233), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/233/article/1/1), [4](https://www.legislation.gov.uk/nisr/2006/233/article/4)
+[^c-f93e6ec7ddc0d988cde975ef20de27f4]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2006/225) repealed (14.6.2006) by [Planning Appeals Commission (Decisions on Appeals and Making of Reports) (No. 2) Rules (Northern Ireland) 2006 (S.R. 2006/233)](https://www.legislation.gov.uk/nisr/2006/233), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/233/article/1/1), [4](https://www.legislation.gov.uk/nisr/2006/233/article/4)

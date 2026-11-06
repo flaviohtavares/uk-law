@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Application of Act to harbours[^key-17f8ea4239145f0c7d91aa4f205c5366]
+## 55. Application of Act to harbours[^c-17f8ea4239145f0c7d91aa4f205c5366]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ shall be treated for the purposes of this Act as a road to which the public has 
 
 ## Annotations
 
-[^key-17f8ea4239145f0c7d91aa4f205c5366]: Commencement: S. 55 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-17f8ea4239145f0c7d91aa4f205c5366]: Commencement: S. 55 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

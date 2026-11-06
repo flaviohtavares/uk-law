@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Representation before Tribunal[^key-d7cb73549d3f24fbe7f62344836e3fa1][^c17114581]
+## 49. Representation before Tribunal[^c-d7cb73549d3f24fbe7f62344836e3fa1][^c17114581]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7cb73549d3f24fbe7f62344836e3fa1]: Modification: [Art. 49](https://www.legislation.gov.uk/nisi/1976/582/article/49) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(z)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/z)
+[^c-d7cb73549d3f24fbe7f62344836e3fa1]: Modification: [Art. 49](https://www.legislation.gov.uk/nisi/1976/582/article/49) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(z)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/z)
 
 [^c17114581]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

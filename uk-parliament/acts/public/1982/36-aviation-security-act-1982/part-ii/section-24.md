@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Service of documents.[^c794712][^c794713][^key-f030d034b08bce8814642fd6f717cbc5][^key-ebd8d37dabb648fe4d41033c5d03bf6c][^c794711]
+## 24. Service of documents.[^c794712][^c794713][^c-f030d034b08bce8814642fd6f717cbc5][^c-ebd8d37dabb648fe4d41033c5d03bf6c][^c794711]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,15 +27,15 @@ summary: ''
 - (a) by delivering it to him, or
 - (b) by leaving it at his proper address, or
 - (c) by sending it by post to him at that address, or
-- (d) by sending it to him at that address by telex or other similar means which produce a document containing the text of the communication, or[^key-0750684540f7c7cc1f231c363bd69162]
+- (d) by sending it to him at that address by telex or other similar means which produce a document containing the text of the communication, or[^c-0750684540f7c7cc1f231c363bd69162]
 - (e) where—
   - (i) an address for service using electronic communications has been given by that person and not withdrawn in accordance with subsection (2E), and
   - (ii) that person has agreed to accept service by electronic communications of documents in a certain form and has not withdrawn that agreement in accordance with that subsection,
 
-  by using electronic communications to send the document in that form to that person at that address , or[^key-c36307ad30ffd3c57964af9e17dc1cb6]
+  by using electronic communications to send the document in that form to that person at that address , or[^c-c36307ad30ffd3c57964af9e17dc1cb6]
 - (f) in the case of a person who is required by regulations to be able to accept service electronically in a manner and form specified in the regulations, in that manner and form.
 
-(2A)[^key-82a1e5e51bdd3fb8ac284b78267d9f2b] A document given to or served on a person in accordance with subsection (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
+(2A)[^c-82a1e5e51bdd3fb8ac284b78267d9f2b] A document given to or served on a person in accordance with subsection (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
 
 (2B) Where a document is given to or served on a person in accordance with subsection (2)(e), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the time at which the electronic communication is transmitted except where transmission is made outside that person’s normal business hours, in which case it is to be taken to have been given or served on the next working day, and in this subsection, “working day” means any day other than—
 
@@ -69,7 +69,7 @@ summary: ''
 
 (2I) Oral notice is not sufficient for the purposes of subsections (2E) or (2F).
 
-(3)[^key-4d8798c9c4e4edde550b9bc35215121e] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
+(3)[^c-4d8798c9c4e4edde550b9bc35215121e] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
 
 (4) For the purposes of this section and section 7 of the Interpretation Act 1978 (service of documents by post) in its application to this section, the proper address of any person to whom or on whom any document is to be given or served is his usual or last known address or place of business (whether in the United Kingdom or elsewhere), except that in the case of a body corporate or its secretary, clerk or similar officer, it shall be the address of the registered or principal office of that body in the United Kingdom (or, if it has no office in the United Kingdom, of its principal office, wherever it may be).
 
@@ -88,7 +88,7 @@ the authorised person may, after consulting that employee or agent, serve the no
 
 (9)[^c794714] Subsections (6) to (8) above shall apply to a detention direction as they apply to an enforcement notice.
 
-(10)[^key-6e5e49715982332b257bf1c039a95caa] Regulations under this section—
+(10)[^c-6e5e49715982332b257bf1c039a95caa] Regulations under this section—
 
 - (a) may make different provision for different cases,
 - (b) may include incidental, supplemental or transitional provision,
@@ -105,20 +105,20 @@ the authorised person may, after consulting that employee or agent, serve the no
 
     S. 24 applied (1.9.1993) by [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073) , [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1073/regulation/2/2)
 
-[^key-f030d034b08bce8814642fd6f717cbc5]: Modification: S. 24 applied (temp. until 15.4.2022) (16.4.2015) by [The Aviation Security Act 1982 (Civil Penalties) Regulations 2015 (S.I. 2015/930)](https://www.legislation.gov.uk/uksi/2015/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/3)[5(3)](https://www.legislation.gov.uk/uksi/2015/930/regulation/5/3)
+[^c-f030d034b08bce8814642fd6f717cbc5]: Modification: S. 24 applied (temp. until 15.4.2022) (16.4.2015) by [The Aviation Security Act 1982 (Civil Penalties) Regulations 2015 (S.I. 2015/930)](https://www.legislation.gov.uk/uksi/2015/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/3)[5(3)](https://www.legislation.gov.uk/uksi/2015/930/regulation/5/3)
 
-[^key-ebd8d37dabb648fe4d41033c5d03bf6c]: Modification: S. 24 applied (temp. until 15.4.2022) (16.4.2015) by [The Aviation Security Act 1982 (Civil Penalties) Regulations 2015 (S.I. 2015/930)](https://www.legislation.gov.uk/uksi/2015/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/3)[6(7)](https://www.legislation.gov.uk/uksi/2015/930/regulation/6/7)
+[^c-ebd8d37dabb648fe4d41033c5d03bf6c]: Modification: S. 24 applied (temp. until 15.4.2022) (16.4.2015) by [The Aviation Security Act 1982 (Civil Penalties) Regulations 2015 (S.I. 2015/930)](https://www.legislation.gov.uk/uksi/2015/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/930/regulation/1/3)[6(7)](https://www.legislation.gov.uk/uksi/2015/930/regulation/6/7)
 
 [^c794711]: Textual amendment: S. 24 substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/15)
 
-[^key-0750684540f7c7cc1f231c363bd69162]: Textual amendment: S. 24(2)(e) and word inserted (30.9.2006) by [Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1) , [2(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/2/2)
+[^c-0750684540f7c7cc1f231c363bd69162]: Textual amendment: S. 24(2)(e) and word inserted (30.9.2006) by [Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1) , [2(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/2/2)
 
-[^key-c36307ad30ffd3c57964af9e17dc1cb6]: Textual amendment: S. 24(2)(f) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(5)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/5/a)
+[^c-c36307ad30ffd3c57964af9e17dc1cb6]: Textual amendment: S. 24(2)(f) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(5)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/5/a)
 
-[^key-82a1e5e51bdd3fb8ac284b78267d9f2b]: Textual amendment: S. 24(2A)-(2I) inserted (30.9.2006) by [Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1) , [2(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/2/3)
+[^c-82a1e5e51bdd3fb8ac284b78267d9f2b]: Textual amendment: S. 24(2A)-(2I) inserted (30.9.2006) by [Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1) , [2(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/2/3)
 
-[^key-4d8798c9c4e4edde550b9bc35215121e]: Textual amendment: S. 24(3) substituted (30.9.2006) by [Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/2/4)
+[^c-4d8798c9c4e4edde550b9bc35215121e]: Textual amendment: S. 24(3) substituted (30.9.2006) by [Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/2/4)
 
 [^c794714]: Textual amendment: S. 24(9) added (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24) , [s. 86(3)](https://www.legislation.gov.uk/ukpga/2001/24/section/86/3)
 
-[^key-6e5e49715982332b257bf1c039a95caa]: Textual amendment: S. 24(10) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/5/b)
+[^c-6e5e49715982332b257bf1c039a95caa]: Textual amendment: S. 24(10) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/5/b)

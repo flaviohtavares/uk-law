@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Children not in school: processing of information[^key-25431605bf0327ed5b69265a1daf5d8a]
+## 40. Children not in school: processing of information[^c-25431605bf0327ed5b69265a1daf5d8a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 436S of the Education Act 1996 (as inserted by section 39) insertâ
 
 ## Annotations
 
-[^key-25431605bf0327ed5b69265a1daf5d8a]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)
+[^c-25431605bf0327ed5b69265a1daf5d8a]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)

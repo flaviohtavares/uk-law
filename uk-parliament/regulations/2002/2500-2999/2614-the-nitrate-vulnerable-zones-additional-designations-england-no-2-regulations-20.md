@@ -33,7 +33,7 @@ AGRICULTURE, ENGLAND
 
 WATER, ENGLAND
 
-The Nitrate Vulnerable Zones (Additional Designations) (England) (No. 2) Regulations 2002 (revoked)[^key-6d5946a582fecc5bb727dd88d481d329]
+The Nitrate Vulnerable Zones (Additional Designations) (England) (No. 2) Regulations 2002 (revoked)[^c-6d5946a582fecc5bb727dd88d481d329]
 
 Made
 
@@ -53,64 +53,64 @@ remainder
 
 18th October 2002
 
-[^key-6d5946a582fecc5bb727dd88d481d329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d5946a582fecc5bb727dd88d481d329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and territorial application[^key-6d5946a582fecc5bb727dd88d481d329]
+## 1. Citation, commencement and territorial application[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6d5946a582fecc5bb727dd88d481d329]
+## 2. Interpretation[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Nitrate vulnerable zones: additional designations[^key-6d5946a582fecc5bb727dd88d481d329]
+## 3. Nitrate vulnerable zones: additional designations[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Review procedure[^key-6d5946a582fecc5bb727dd88d481d329]
+## 4. Review procedure[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Right of appeal from an adverse proposed decision on a review[^key-6d5946a582fecc5bb727dd88d481d329]
+## 5. Right of appeal from an adverse proposed decision on a review[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Right to withdraw an appeal[^key-6d5946a582fecc5bb727dd88d481d329]
+## 6. Right to withdraw an appeal[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Costs of an appeal[^key-6d5946a582fecc5bb727dd88d481d329]
+## 7. Costs of an appeal[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Secretary of State bound by a decision on a review[^key-6d5946a582fecc5bb727dd88d481d329]
+## 8. Secretary of State bound by a decision on a review[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of the Principal Regulations[^key-6d5946a582fecc5bb727dd88d481d329]
+## 9. Application of the Principal Regulations[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Grant[^key-6d5946a582fecc5bb727dd88d481d329]
+## 10. Grant[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Action programmes[^key-6d5946a582fecc5bb727dd88d481d329]
+## 11. Action programmes[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation[^key-6d5946a582fecc5bb727dd88d481d329]
+## 12. Revocation[^c-6d5946a582fecc5bb727dd88d481d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d5946a582fecc5bb727dd88d481d329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d5946a582fecc5bb727dd88d481d329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d5946a582fecc5bb727dd88d481d329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d5946a582fecc5bb727dd88d481d329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d5946a582fecc5bb727dd88d481d329]: Textual amendment: Regulations revoked (1.1.2009) by [The Nitrate Pollution Prevention Regulations 2008 (S.I. 2008/2349)](https://www.legislation.gov.uk/uksi/2008/2349), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/3/1), [50(k)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/50/k)
+[^c-6d5946a582fecc5bb727dd88d481d329]: Textual amendment: Regulations revoked (1.1.2009) by [The Nitrate Pollution Prevention Regulations 2008 (S.I. 2008/2349)](https://www.legislation.gov.uk/uksi/2008/2349), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/3/1), [50(k)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/50/k)

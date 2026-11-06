@@ -71,7 +71,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 (9), (10). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c618868]
 
-### 35. Miscellaneous amendments.[^key-30818e9bb393b94f92779341441bad21]
+### 35. Miscellaneous amendments.[^c-30818e9bb393b94f92779341441bad21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -166,7 +166,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 [^c618868]: Textual amendment: [S. 34(9)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/56/section/34/9) (10) repealed by [Finance Act 1963 (c. 25)](https://www.legislation.gov.uk/ukpga/1963/25), [Sch. 14 Pt. IV](https://www.legislation.gov.uk/ukpga/1963/25/schedule/14/part/IV)
 
-[^key-30818e9bb393b94f92779341441bad21]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/56/section/35) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-30818e9bb393b94f92779341441bad21]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/56/section/35) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c618876]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/56/section/36) repealed by [Finance Act 1960 (c. 44)](https://www.legislation.gov.uk/ukpga/1960/44), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1960/44/schedule/8/part/I)
 

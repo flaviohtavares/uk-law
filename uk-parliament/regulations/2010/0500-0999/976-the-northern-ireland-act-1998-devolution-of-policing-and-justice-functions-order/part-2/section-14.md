@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Functions relating to the private security industry[^key-e8da9a9bbbed57904e6c7f4ee7c72d2a]
+## 14. Functions relating to the private security industry[^c-e8da9a9bbbed57904e6c7f4ee7c72d2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 16 (which amends the Private Security Industry Act 2001[^f00012]) has e
 
 ## Annotations
 
-[^key-e8da9a9bbbed57904e6c7f4ee7c72d2a]: Commencement: Art. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e8da9a9bbbed57904e6c7f4ee7c72d2a]: Commencement: Art. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00012]: Footnote: [2001 c. 12](https://www.legislation.gov.uk/ukpga/2001/12).

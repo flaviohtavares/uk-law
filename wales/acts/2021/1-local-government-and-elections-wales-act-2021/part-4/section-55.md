@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Replacement of references to “salary” in section 143A of the 2011 Measure[^key-51254ad8738511a46525ce086d6f496a]
+## 55. Replacement of references to “salary” in section 143A of the 2011 Measure[^c-51254ad8738511a46525ce086d6f496a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51254ad8738511a46525ce086d6f496a]: Textual amendment: [S. 55](https://www.legislation.gov.uk/asc/2021/1/section/55) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/3); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-51254ad8738511a46525ce086d6f496a]: Textual amendment: [S. 55](https://www.legislation.gov.uk/asc/2021/1/section/55) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/3); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)

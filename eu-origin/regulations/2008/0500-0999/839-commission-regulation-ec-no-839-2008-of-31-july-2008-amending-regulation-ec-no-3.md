@@ -36,18 +36,18 @@ amending Regulation (EC) No 396/2005 of the European Parliament and of the Counc
 
 (Text with EEA relevance) (revoked)
 
-[^key-aec1c6d41540676a3071539a371286b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aec1c6d41540676a3071539a371286b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-aec1c6d41540676a3071539a371286b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-aec1c6d41540676a3071539a371286b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-aec1c6d41540676a3071539a371286b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-aec1c6d41540676a3071539a371286b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aec1c6d41540676a3071539a371286b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aec1c6d41540676a3071539a371286b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-aec1c6d41540676a3071539a371286b1]
+## ANNEX[^c-aec1c6d41540676a3071539a371286b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aec1c6d41540676a3071539a371286b1]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/557/schedule/2/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aec1c6d41540676a3071539a371286b1]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/557/schedule/2/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

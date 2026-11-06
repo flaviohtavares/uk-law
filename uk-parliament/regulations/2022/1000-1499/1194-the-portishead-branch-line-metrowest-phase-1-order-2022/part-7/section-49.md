@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Procedure in relation to further approvals, etc.[^key-604a117b3d88bcadda409f2715c0cb3d]
+## 49. Procedure in relation to further approvals, etc.[^c-604a117b3d88bcadda409f2715c0cb3d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-604a117b3d88bcadda409f2715c0cb3d]: Commencement: Art. 49 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-604a117b3d88bcadda409f2715c0cb3d]: Commencement: Art. 49 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

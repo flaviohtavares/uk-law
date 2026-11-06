@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2A. Continuing requirements in relation to fuel, power and emissions[^key-f408d6f473f8d650c1c979dd4e37b45c]
+## 2A. Continuing requirements in relation to fuel, power and emissions[^c-f408d6f473f8d650c1c979dd4e37b45c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f408d6f473f8d650c1c979dd4e37b45c]: Textual amendment: S. 2A inserted (16.11.2004) by [Sustainable and Secure Buildings Act 2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2004/22/section/4/1), [11(4)](https://www.legislation.gov.uk/ukpga/2004/22/section/11/4)
+[^c-f408d6f473f8d650c1c979dd4e37b45c]: Textual amendment: S. 2A inserted (16.11.2004) by [Sustainable and Secure Buildings Act 2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2004/22/section/4/1), [11(4)](https://www.legislation.gov.uk/ukpga/2004/22/section/11/4)

@@ -215,67 +215,67 @@ Any determination made by the Chief Inspector as to whether to give consent unde
 
 (5) Any allegation that a registered person has failed to meet the requirements prescribed in this regulation may be taken into account in any proceedings under Part 3 of the Act.
 
-## Part 3 Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+## Part 3 Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 **No longer in force.**
 
-### 13. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 13. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 14.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 15.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 16.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 17.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 18.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 19.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 20.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 21.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 22.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 23.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 24.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 25.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 26.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27.[^key-a6c30c828bccf29e78bc63f2c5311ff0]
+### 27.[^c-a6c30c828bccf29e78bc63f2c5311ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -305,7 +305,7 @@ Regulation 4(2)
 
 **7.** Any order that would have been deemed to be a care order by virtue of paragraph 15 of Schedule 14 to the 1989 Act (transitional provisions for children in compulsory care).
 
-**8.** A supervision order which imposes a residence requirement under paragraph 5 of Schedule 6 to the Powers of Criminal Courts (Sentencing) Act 2000 [^c23323831], section 12AA of the Children and Young Persons Act 1969 [^c23323841] (requirement to live in local authority accommodation) , paragraph 17 of Schedule 1 to the Criminal Justice and Immigration Act 2008 or paragraph 24 of Schedule 6 to the Sentencing Code[^key-9a8ec05557368042eebf54a30810eee3] .
+**8.** A supervision order which imposes a residence requirement under paragraph 5 of Schedule 6 to the Powers of Criminal Courts (Sentencing) Act 2000 [^c23323831], section 12AA of the Children and Young Persons Act 1969 [^c23323841] (requirement to live in local authority accommodation) , paragraph 17 of Schedule 1 to the Criminal Justice and Immigration Act 2008 or paragraph 24 of Schedule 6 to the Sentencing Code[^c-9a8ec05557368042eebf54a30810eee3] .
 
 **9.** A parental responsibility order made under article 7 of the Children (Northern Ireland) Order 1995 [^c23323861].
 
@@ -336,12 +336,12 @@ Regulation 4(2)
 - (c) cancellation of the registration of any person under section 14 or 20(1) of the Care Standards Act 2000 in relation to a children's home which P has been concerned in the management of, or has any financial interest in; or
 - (d) refusal of P's application for registration or cancellation of P's registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^c23323961].
 
-**18.** In relation to the registration of a care home service, which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the 2016 Act”))—[^key-a960ab58cf2a84e2345768cd995198bd]
+**18.** In relation to the registration of a care home service, which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the 2016 Act”))—[^c-a960ab58cf2a84e2345768cd995198bd]
 
 - (a) a refusal of P's application for registration under section 7 of the 2016 Act;
 - (b) a refusal under section 12 of the 2016 Act od P's application to vary P's registration (made in accordance with section 11(1)(a)(i) or (ii) of that Act);
 - (c) a cancellation of P's registration under section 15(1)(b) to (f) or 23(1) of the 2016 Act;
-- (d) a cancellation of the registration of any person under section 15(1)(b) to (f) or 23(1) of the 2016 Act in relation to a care home service provided wholly or mainly to persons under the age of 18 , or a secure accommodation service,[^key-7476fe383389f65b8906cf388b9f31e3] in which P has been concerned in the management, or in which P had any financial interest;
+- (d) a cancellation of the registration of any person under section 15(1)(b) to (f) or 23(1) of the 2016 Act in relation to a care home service provided wholly or mainly to persons under the age of 18 , or a secure accommodation service,[^c-7476fe383389f65b8906cf388b9f31e3] in which P has been concerned in the management, or in which P had any financial interest;
 - (e) a variation of P's registration under section 13(3)(b) or (4)(b) or 23(1) of the 2016 Act; or
 - (f) a refusal of P's application for registration or cancellation of P's registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^c23323981].
 
@@ -518,7 +518,7 @@ Regulation 4(7)
 
 (13) An offence under section 5 (supplying, or offering to supply, a psychoactive substance) of the Psychoactive Substances Act 2016 [^c23324481].
 
-(14) An offence in relation a care home service, which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the 2016 Act”)) under or by virtue of any of the following provisions of the 2016 Act—[^key-4c651e52fa116b9d3e050e12e33e6d71]
+(14) An offence in relation a care home service, which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the 2016 Act”)) under or by virtue of any of the following provisions of the 2016 Act—[^c-4c651e52fa116b9d3e050e12e33e6d71]
 
 - (a) section 5 (requirement to register);
 - (b) section 43 (failure to comply with a condition);
@@ -687,7 +687,7 @@ Regulation 27 inserts a new regulation 18ZA into the 2016 Regulations to make it
 
 [^c23323691]: Marginal citation: [Sections 28(4)](https://www.legislation.gov.uk/uksi/2018/794/section/28/4), [29(4)](https://www.legislation.gov.uk/uksi/2018/794/section/29/4) and 29A(2) were repealed by Schedule 10 to the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), subject to savings specified in article 5 of [S.I. 2012/2231](https://www.legislation.gov.uk/uksi/2012/2231).
 
-[^key-a6c30c828bccf29e78bc63f2c5311ff0]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2018/794/part/3) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/5/2)
+[^c-a6c30c828bccf29e78bc63f2c5311ff0]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2018/794/part/3) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/5/2)
 
 [^c23323801]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
@@ -699,7 +699,7 @@ Regulation 27 inserts a new regulation 18ZA into the 2016 Regulations to make it
 
 [^c23323841]: Marginal citation: [Section 12AA](https://www.legislation.gov.uk/uksi/2018/794/section/12AA) was repealed by part 1 of Schedule 12 to the [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-9a8ec05557368042eebf54a30810eee3]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2018/794/schedule/1/paragraph/8) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 439](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/439) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9a8ec05557368042eebf54a30810eee3]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2018/794/schedule/1/paragraph/8) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 439](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/439) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c23323861]: Marginal citation: [S.I. 1995/75](https://www.legislation.gov.uk/uksi/1995/75).
 
@@ -723,9 +723,9 @@ Regulation 27 inserts a new regulation 18ZA into the 2016 Regulations to make it
 
 [^c23323961]: Marginal citation: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-a960ab58cf2a84e2345768cd995198bd]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2018/794/schedule/1/paragraph/18) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 27(2)(a)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/27/2/a)
+[^c-a960ab58cf2a84e2345768cd995198bd]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2018/794/schedule/1/paragraph/18) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 27(2)(a)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/27/2/a)
 
-[^key-7476fe383389f65b8906cf388b9f31e3]: Textual amendment: Words in [Sch. 1 para. 18(d)](https://www.legislation.gov.uk/uksi/2018/794/schedule/1/paragraph/18/d) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 27(2)(b)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/27/2/b)
+[^c-7476fe383389f65b8906cf388b9f31e3]: Textual amendment: Words in [Sch. 1 para. 18(d)](https://www.legislation.gov.uk/uksi/2018/794/schedule/1/paragraph/18/d) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 27(2)(b)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/27/2/b)
 
 [^c23323981]: Marginal citation: [S.I. 2003/431](https://www.legislation.gov.uk/uksi/2003/431).
 
@@ -829,7 +829,7 @@ Regulation 27 inserts a new regulation 18ZA into the 2016 Regulations to make it
 
 [^c23324481]: Marginal citation: [2016 c. 2](https://www.legislation.gov.uk/ukpga/2016/2).
 
-[^key-4c651e52fa116b9d3e050e12e33e6d71]: Textual amendment: Words in [Sch. 3 para. 1(14)](https://www.legislation.gov.uk/uksi/2018/794/schedule/3/paragraph/1/14) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/27/3)
+[^c-4c651e52fa116b9d3e050e12e33e6d71]: Textual amendment: Words in [Sch. 3 para. 1(14)](https://www.legislation.gov.uk/uksi/2018/794/schedule/3/paragraph/1/14) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/27/3)
 
 [^c23324501]: Marginal citation: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Reduction of benefits where annual allowance charge paid by scheme manager[^key-308345cb73eed13afe68d58db7ffe8be]
+## 159. Reduction of benefits where annual allowance charge paid by scheme manager[^c-308345cb73eed13afe68d58db7ffe8be]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-308345cb73eed13afe68d58db7ffe8be]: Commencement: [Reg. 159](https://www.legislation.gov.uk/uksi/2015/182/regulation/159) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-308345cb73eed13afe68d58db7ffe8be]: Commencement: [Reg. 159](https://www.legislation.gov.uk/uksi/2015/182/regulation/159) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

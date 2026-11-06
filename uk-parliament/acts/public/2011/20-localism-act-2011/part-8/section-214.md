@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Powers in relation to discretionary relief from non-domestic rates[^key-3375e98e1835a6eefd480721b74ed6ec][^key-3382a57fbdec688854f927d74920f708][^key-eada4f88f4769f792731d2fc31c590a2][^key-89fd41a7d85ec3d64eee9a501581c23a][^key-250b381cc6b3a829195738e959b9cac8][^key-3375e98e1835a6eefd480721b74ed6ec]
+## 214. Powers in relation to discretionary relief from non-domestic rates[^c-3375e98e1835a6eefd480721b74ed6ec][^c-3382a57fbdec688854f927d74920f708][^c-eada4f88f4769f792731d2fc31c590a2][^c-89fd41a7d85ec3d64eee9a501581c23a][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 
 *Extent: E+W*
 
-[^key-eada4f88f4769f792731d2fc31c590a2][^key-250b381cc6b3a829195738e959b9cac8]
+[^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8]
 
 (1) Subsection (2) applies if the Mayor designates a Mayoral development area.
 
@@ -50,7 +50,7 @@ In paragraph (c) “**affected local authority**” means a person specified by 
 - (a) publicise the decision, and
 - (b) notify the Secretary of State of the decision.
 
-(6)[^key-e982591882daf6c03e07bba8352dcba1] If the Secretary of State receives notification under subsection (5) of a decision, the Secretary of State must give effect to the decision—
+(6)[^c-e982591882daf6c03e07bba8352dcba1] If the Secretary of State receives notification under subsection (5) of a decision, the Secretary of State must give effect to the decision—
 
 - (a) when making the order under section 198(2) that establishes an MDC for the area, or
 - (b) by exercising the power to amend that order (see section 14 of the Interpretation Act 1978).
@@ -68,18 +68,18 @@ applies on that day.
 
 ## Annotations
 
-[^key-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
+[^c-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
 
-[^key-3382a57fbdec688854f927d74920f708]: Modification: [S. 214](https://www.legislation.gov.uk/ukpga/2011/20/section/214): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1432/article/10)
+[^c-3382a57fbdec688854f927d74920f708]: Modification: [S. 214](https://www.legislation.gov.uk/ukpga/2011/20/section/214): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1432/article/10)
 
-[^key-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-89fd41a7d85ec3d64eee9a501581c23a]: Modification: [Ss. 214-217](https://www.legislation.gov.uk/ukpga/2011/20/section/214): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1)
+[^c-89fd41a7d85ec3d64eee9a501581c23a]: Modification: [Ss. 214-217](https://www.legislation.gov.uk/ukpga/2011/20/section/214): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1)
 
-[^key-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
 [^M_F_ccb77b86-adf1-4bca-a7f9-b9c26b884cd6]: Textual amendment: Words in s. 214(4) substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 10(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/10/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^M_F_d1c1486f-5a39-4e45-a057-5144a6bd8296]: Textual amendment: S. 214(4A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 10(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/10/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-e982591882daf6c03e07bba8352dcba1]: Modification: S. 214(6) applied (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2017/612/article/4/5)
+[^c-e982591882daf6c03e07bba8352dcba1]: Modification: S. 214(6) applied (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2017/612/article/4/5)

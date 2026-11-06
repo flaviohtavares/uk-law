@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Part 1A of the Petroleum Act 1998: Northern Ireland[^key-a6cf32a2f63fa5e3e4c83d911db58c5c]
+## 74. Part 1A of the Petroleum Act 1998: Northern Ireland[^c-a6cf32a2f63fa5e3e4c83d911db58c5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6cf32a2f63fa5e3e4c83d911db58c5c]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2016/20/section/74) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-a6cf32a2f63fa5e3e4c83d911db58c5c]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2016/20/section/74) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

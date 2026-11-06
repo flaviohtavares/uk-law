@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## G12. Purchase of surviving civil partner's pension in respect of service prior to 6th April 1988[^key-0968b876c2ab579962b8d4acf76d7d14]
+## G12. Purchase of surviving civil partner's pension in respect of service prior to 6th April 1988[^c-0968b876c2ab579962b8d4acf76d7d14]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0968b876c2ab579962b8d4acf76d7d14]: Textual amendment: [Reg. G12](https://www.legislation.gov.uk/ssi/2011/117/regulation/G12) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2021/102/regulation/10)
+[^c-0968b876c2ab579962b8d4acf76d7d14]: Textual amendment: [Reg. G12](https://www.legislation.gov.uk/ssi/2011/117/regulation/G12) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2021/102/regulation/10)

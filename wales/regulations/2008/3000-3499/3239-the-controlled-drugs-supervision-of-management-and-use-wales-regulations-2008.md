@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 17, 18, 20(
 
 ## PART 1 — Preliminary
 
-### 1. Title, commencement and application[^key-a9ce829cef20a8593a6cc7043837d524]
+### 1. Title, commencement and application[^c-a9ce829cef20a8593a6cc7043837d524]
 
 (1) The title of these Regulations is the Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008.
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 17, 18, 20(
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-58e8b372712c6f0a7230e791deba3e26]
+### 2. Interpretation[^c-58e8b372712c6f0a7230e791deba3e26]
 
 (1) In these Regulations—
 
@@ -65,11 +65,11 @@ The Welsh Ministers, in exercise of the powers conferred by sections 17, 18, 20(
 - “accountable officer” (“*swyddog atebol*”) means a person nominated or appointed under regulation 4;
 - “CSSIW” (“*AGGCC*”) means the Care and Social Services Inspectorate for Wales[^f00005];
 - “designated body” (“*corff dynodedig*”) is to be construed in accordance with regulation 3;
-- [^key-3c725f77ef1f2ed1760f86d1ae6cf953]...
+- [^c-3c725f77ef1f2ed1760f86d1ae6cf953]...
 - “Health Solutions Wales” (“*Atebion Iechyd Cymru*”) is a division of the Velindre National Health Service Trust whose prescribing services branch provides data entry and pricing services relating to prescriptions dispensed in Wales;
 - “HIW” (“*AGIC*”) means the Healthcare Inspectorate for Wales[^f00006];
 - “the health service” (“*y gwasanaeth iechyd*”) means the health service established in pursuance of the National Health Service Act 1946[^f00007];
-- “local authority” (“[^key-ca3f995eea7d0651fa53389d3a566bfa]*awdurdod lleol*”) has the same meaning as in section 197 of the Social Services and Well-being (Wales) Act 2014;
+- “local authority” (“[^c-ca3f995eea7d0651fa53389d3a566bfa]*awdurdod lleol*”) has the same meaning as in section 197 of the Social Services and Well-being (Wales) Act 2014;
 - “local intelligence network” (“*rhwydwaith gwybodaeth leol*”) is to be construed in accordance with regulation 18(2);
 - “Local Health Board” (“*Bwrdd Iechyd Lleol*”) means a Local Health Board established by an Order under section 11(1) of the National Health Service (Wales) Act 2006[^f00009];
 - “misuse of drugs legislation” (“*deddfwriaeth am gamddefnyddio cyffuriau*”) means the Misuse of Drugs Act 1971[^f00010] and any subordinate legislation made under that Act;
@@ -77,15 +77,15 @@ The Welsh Ministers, in exercise of the powers conferred by sections 17, 18, 20(
 - “NHS Trust” (“*Ymddiriedolaeth GIG*”) means a National Health Service Trust established by an Order under section 18(1) of the NHS (Wales) Act 2006;
 - “NHS (Wales) Act 2006 (“*Deddf GIG (Cymru) 2006*”) means the National Health Service (Wales) Act 2006;
 - “registered dentist” (“*deintydd cofrestredig*”) means a person who is registered in the dentists register kept under section 14 of the Dentists Act 1984[^f00012] (the dentists register and registrar);
-- “registered pharmacist” (“[^key-2c9a5c93091d1e7e463a3d6eb50cfeb4]*fferyllydd cofrestredig*”) means a person registered as a pharmacist in Part 1 or 4 of the register maintained by the General Pharmaceutical Council under article 19 of the Pharmacy Order 2010;
+- “registered pharmacist” (“[^c-2c9a5c93091d1e7e463a3d6eb50cfeb4]*fferyllydd cofrestredig*”) means a person registered as a pharmacist in Part 1 or 4 of the register maintained by the General Pharmaceutical Council under article 19 of the Pharmacy Order 2010;
 - “retail pharmacy business” (“*busnes manwerthu fferyllol*”) has the meaning given in section 132 of the Medicines Act 1968[^f00013] (registration of premises);
-- “registered pharmacy” (“[^key-7b5b72683b30ca4b49440d1cb0609a9d]*fferyllfa gofrestredig*”) means a retail pharmacy business in Wales that is for the time being entered in Part 3 of the register maintained by the General Pharmaceutical Council under article 19 of the Pharmacy Order 2010 (registration of premises);
+- “registered pharmacy” (“[^c-7b5b72683b30ca4b49440d1cb0609a9d]*fferyllfa gofrestredig*”) means a retail pharmacy business in Wales that is for the time being entered in Part 3 of the register maintained by the General Pharmaceutical Council under article 19 of the Pharmacy Order 2010 (registration of premises);
 - “regulatory body” (“*corff rheoleiddiol*”) means a body referred to in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (the Council for the Regulation of Health Care Professionals)[^f00014];
 - “relevant premises” (“*mangre berthnasol*”) is to be construed in accordance with regulation 20;
 - “responsible body” (“*corff cyfrifol*”), unless the context otherwise requires, is to be construed in accordance with regulation 22;
-- “[^key-e5ec043695de57934a57cc7d02e515ad]**the UK GDPR**” (“***GDPR y DU***”) has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+- “[^c-e5ec043695de57934a57cc7d02e515ad]**the UK GDPR**” (“***GDPR y DU***”) has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
 - “Welsh Ambulance Services NHS Trust (“*Ymddiriedolaeth GIG Gwasanaethau Ambiwlans Cymru*”) means the Welsh Ambulance Services National Health Service Trust[^f00015];
-- “Welsh care home” (“*cartref gofal yng Nghymru*”) means a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over[^key-188fb8a67108092adb376844a782d446];
+- “Welsh care home” (“*cartref gofal yng Nghymru*”) means a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over[^c-188fb8a67108092adb376844a782d446];
 - “Welsh independent hospital” (“*ysbyty annibynnol yng Nghymru*”) means a body that runs a hospital in Wales which is not a health service hospital (within the meaning given in section 206(1) of the NHS (Wales) Act 2006 (interpretation and construction)) but which is—
   - (a) an establishment, the main purpose of which is to provide palliative care or medical or psychiatric treatment for illness or for mental disorder (that is, mental illness, arrested or incomplete development of mind, psychopathic disorder, or any other disorder or disability of mind); or
   - (b) any other establishment in which treatment or nursing (or both) are provided for persons liable to be detained under the Mental Health Act 1983[^f00016].
@@ -94,11 +94,11 @@ The Welsh Ministers, in exercise of the powers conferred by sections 17, 18, 20(
 
 (3) Where the reference is made in these Regulations to arrangements to provide services, the reference is to be construed as a reference to arrangements to provide services that involve, or may involve, the management or use of controlled drugs.
 
-(4) For the purposes of these Regulations, “enactment” (“*deddfiad*”) includes, an enactment comprised in, or an instrument made under, a Measure or an Act[^key-7c0273ce683d5333ce2f6dbc9bd4c5b7] of the National Assembly for Wales.
+(4) For the purposes of these Regulations, “enactment” (“*deddfiad*”) includes, an enactment comprised in, or an instrument made under, a Measure or an Act[^c-7c0273ce683d5333ce2f6dbc9bd4c5b7] of the National Assembly for Wales.
 
 ## PART 2 — Accountable Officers
 
-### 3. Designated bodies[^key-150ac979b13081e610ff078d2ce0d3cd]
+### 3. Designated bodies[^c-150ac979b13081e610ff078d2ce0d3cd]
 
 The following are prescribed as designated bodies for the purposes of section 17 of the 2006 Act—
 
@@ -107,7 +107,7 @@ The following are prescribed as designated bodies for the purposes of section 17
 - (c) the Welsh Ambulance Services NHS Trust;
 - (d) a Welsh independent hospital.
 
-### 4. Appointment of accountable officers and national lists[^key-89c314960aeafeb376fc09fb81e71d95]
+### 4. Appointment of accountable officers and national lists[^c-89c314960aeafeb376fc09fb81e71d95]
 
 (1) A designated body must nominate or appoint (or under regulation 5(2) or (4) jointly nominate or appoint with one or more other bodies) a fit and proper suitably experienced person as its accountable officer.
 
@@ -118,7 +118,7 @@ The following are prescribed as designated bodies for the purposes of section 17
 
 (3) HIW must publish, from time to time and in such manner as it sees fit, a list of accountable officers of designated bodies in Wales.
 
-### 5. Persons who may be appointed as accountable officers[^key-04c289c747a37b74acd4aff1da50fc0c]
+### 5. Persons who may be appointed as accountable officers[^c-04c289c747a37b74acd4aff1da50fc0c]
 
 (1) A Welsh independent hospital may only nominate or appoint a person as its accountable officer if—
 
@@ -150,7 +150,7 @@ The following are prescribed as designated bodies for the purposes of section 17
 
 (5) In this regulation “registered manager” (“*rheolwr cofrestredig*”), in relation to a Welsh independent hospital, means the person who is registered under Part II of the 2000 Act as the manager of the hospital.
 
-### 6. Removal of accountable officers[^key-f806424bbb63844592890454a3792792]
+### 6. Removal of accountable officers[^c-f806424bbb63844592890454a3792792]
 
 (1) A designated body must, having duly considered the matter, remove its accountable officer if the accountable officer—
 
@@ -163,17 +163,17 @@ The following are prescribed as designated bodies for the purposes of section 17
 
 (4) This regulation is without prejudice to any other arrangements that a designated body (or, in the case of a joint appointment, the designated bodies that made the joint appointment, acting jointly) may have for removal of its accountable officer from office as part of the arrangements under which he or she is employed or engaged.
 
-### 7. Funds and other resources available to accountable officers[^key-cef9fe493692ce711051a783755e0b60]
+### 7. Funds and other resources available to accountable officers[^c-cef9fe493692ce711051a783755e0b60]
 
 (1) A designated body must provide its accountable officer with the funds and other resources necessary to enable the accountable officer to carry out his or her responsibilities as its accountable officer.
 
 (2) Those other resources may include access to and use of information systems, accommodation and staff.
 
-### 8. Accountable officers to have regard to best practice[^key-584da73f7436f8a9192a59e1d7c4623c]
+### 8. Accountable officers to have regard to best practice[^c-584da73f7436f8a9192a59e1d7c4623c]
 
 In discharging his or her responsibilities, an accountable officer must have regard to best practice in relation to the management and use of controlled drugs.
 
-### 9. Accountable officers to secure the safe management and use of controlled drugs[^key-7a0a98c916c23faa06e27e2278ecde91]
+### 9. Accountable officers to secure the safe management and use of controlled drugs[^c-7a0a98c916c23faa06e27e2278ecde91]
 
 (1) An accountable officer must—
 
@@ -200,14 +200,14 @@ In discharging his or her responsibilities, an accountable officer must have reg
   - (i) maintaining relevant controlled drugs registers under the misuse of drugs legislation, and
   - (ii) maintaining a record of the controlled drugs specified in Schedule 2 to the Misuse of Drugs Regulations 2001[^f00017] (specified controlled drugs to which certain provisions of the Regulations apply) that have been returned by patients.
 
-### 10. Accountable officers to ensure adequate destruction and disposal arrangements for controlled drugs[^key-5afa09bf2c06e74010d7a63f93b9bf1d]
+### 10. Accountable officers to ensure adequate destruction and disposal arrangements for controlled drugs[^c-5afa09bf2c06e74010d7a63f93b9bf1d]
 
 An accountable officer must—
 
 - (a) establish and operate, or ensure that his or her designated body establishes and operates appropriate arrangements for securing the safe destruction and disposal of controlled drugs by his or her designated body, and
 - (b) ensure that any body or person acting on behalf of, or providing services under arrangements made with, his or her designated body establishes and operates appropriate arrangements for securing the safe destruction and disposal of controlled drugs by that body or person.
 
-### 11. Accountable officers to ensure monitoring and auditing of the management and use of controlled drugs by designated bodies etc.[^key-a6f0b686fa3495b09e824004e4deac5c]
+### 11. Accountable officers to ensure monitoring and auditing of the management and use of controlled drugs by designated bodies etc.[^c-a6f0b686fa3495b09e824004e4deac5c]
 
 (1) An accountable officer must——
 
@@ -221,14 +221,14 @@ An accountable officer must—
 - (c) ensuring that the designated body (and any body or person acting on behalf of, or providing services under arrangements made with, the designated body) has an incident reporting system in place for untoward incidents involving the management or use of controlled drugs; and
 - (d) ensuring that the designated body (and any body or person acting on behalf of, or providing services under arrangements made with, the designated body) has appropriate arrangements in place for analysing and responding to untoward incidents involving the management or use of controlled drugs.
 
-### 12. Powers to require declarations and self-assessments, as part of accountable officers' monitoring and auditing arrangements or otherwise[^key-03a2c8a97829ba62e43065624a384368]
+### 12. Powers to require declarations and self-assessments, as part of accountable officers' monitoring and auditing arrangements or otherwise[^c-03a2c8a97829ba62e43065624a384368]
 
 (1) An accountable officer, who is an accountable officer nominated or appointed by a Local Health Board, may request a periodic declaration and a self-assessment from a general medical practitioner on its medical performers list, which must state
 
 - (a) whether the practitioner uses controlled drugs at any of the premises from which he or she provides primary medical services as part of the health service; and
 - (b) how the practitioner manages and uses controlled drugs at those premises.
 
-(2)[^key-0e269961e9c470ae9a29178cdcd7f64d] HIW may request an appropriate periodic declaration and an appropriate self-assessment from —
+(2)[^c-0e269961e9c470ae9a29178cdcd7f64d] HIW may request an appropriate periodic declaration and an appropriate self-assessment from —
 
 - (a) an NHS Trust, or a person registered with that NHS Trust who provides health care; and
 - (b) a Local Health Board.
@@ -239,7 +239,7 @@ An accountable officer must—
 
 (5) In this regulation, “general medical practitioner” (“*ymarferydd meddygol cyffredinol*”) means a medical practitioner whose name is included in the register maintained by the General Medical Council under article 10 of the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (the General Practitioner Register[^f00018]).
 
-### 13. Accountable officers to ensure relevant individuals receive appropriate training etc.[^key-866ad2083875f83ac30fc1691bf23064]
+### 13. Accountable officers to ensure relevant individuals receive appropriate training etc.[^c-866ad2083875f83ac30fc1691bf23064]
 
 (1) An accountable officer must—
 
@@ -260,7 +260,7 @@ receive, from time to time, appropriate training to carry out their responsibili
 - (a) to receive information and, where appropriate, training on local standard operating procedures for controlled drugs when they first become involved in prescribing, supplying, administering or disposing of controlled drugs; and
 - (b) to be informed when any local standard operating procedures for controlled drugs are subsequently reviewed or amended.
 
-### 14. Accountable officers to monitor and audit the management and use of controlled drugs by relevant individuals, and to monitor and assess their performance[^key-d54b3a7c48096f0440c70c53f283f13d]
+### 14. Accountable officers to monitor and audit the management and use of controlled drugs by relevant individuals, and to monitor and assess their performance[^c-d54b3a7c48096f0440c70c53f283f13d]
 
 (1) An accountable officer must—
 
@@ -280,7 +280,7 @@ the arrangements mentioned in paragraph (2).
 - (b) assessing and investigating, in accordance with regulation 16, any concerns raised regarding the management or use of controlled drugs by a relevant individual; and
 - (c) determining whether there are concerns in relation to the management or use of controlled drugs by a relevant individual which the designated body reasonably considers should be shared with a responsible body under regulation 25.
 
-### 15. Accountable officers to maintain a record of concerns regarding relevant individuals[^key-f07755f24bb53cf4844cb60eccc81559]
+### 15. Accountable officers to maintain a record of concerns regarding relevant individuals[^c-f07755f24bb53cf4844cb60eccc81559]
 
 (1) An accountable officer must—
 
@@ -305,7 +305,7 @@ the arrangements mentioned in paragraph (2).
 - (a) the accountable officer and his or her staff; and
 - (b) others who need to have access for the purposes of ensuring the safe management or use of controlled drugs.
 
-### 16. Accountable officers to assess and investigate concerns[^key-e1ae13e8bd160de51954a36306269045]
+### 16. Accountable officers to assess and investigate concerns[^c-e1ae13e8bd160de51954a36306269045]
 
 (1) An accountable officer must establish and operate, or ensure that his or her designated body establishes and operates, appropriate arrangements for—
 
@@ -337,7 +337,7 @@ the arrangements mentioned in paragraph (2).
 - (b) any assessment or investigation of a concern that involved, or may have involved, improper management or use of controlled drugs by a relevant individual that the accountable officer or his or her designated body carried out; and
 - (c) any notification given to another responsible body or accountable officer under regulation 25(4).
 
-### 17. Accountable officers to take appropriate action if there are well-founded concerns[^key-0377cfc6e9ce4ead900ecbe56ffd1c44]
+### 17. Accountable officers to take appropriate action if there are well-founded concerns[^c-0377cfc6e9ce4ead900ecbe56ffd1c44]
 
 (1) An accountable officer must establish and operate, or ensure that his or her designated body establishes and operates, appropriate arrangements for ensuring that appropriate action is taken for the purposes of protecting patients or members of the public in cases where concerns in relation to the management or use of controlled drugs by a person who is, as regards the designated body, a relevant individual, appear to be well-founded.
 
@@ -362,7 +362,7 @@ the arrangements mentioned in paragraph (2).
 - (d) referral of the concerns to a police force; or
 - (e) implementation of a serious untoward incident procedure.
 
-### 18. Accountable officers to establish arrangements for sharing information[^key-11ffeded2ef999f686abc934a0e26e16]
+### 18. Accountable officers to establish arrangements for sharing information[^c-11ffeded2ef999f686abc934a0e26e16]
 
 (1) An accountable officer must establish and operate, or ensure that his or her designated body establishes and operates, appropriate arrangements for ensuring the proper sharing of information, in accordance with regulation 25 or 26, by his or her designated body with other responsible bodies regarding the management and use of controlled drugs.
 
@@ -381,7 +381,7 @@ the arrangements mentioned in paragraph (2).
 
 ## PART 3 — Entering premises, periodic inspections etc.
 
-### 19. Accountable officers to carry out periodic inspections[^key-611e338e7b21f365cc23ced0818b5dae]
+### 19. Accountable officers to carry out periodic inspections[^c-611e338e7b21f365cc23ced0818b5dae]
 
 (1) An accountable officer, who is an accountable officer nominated or appointed by a Local Health Board, must establish and operate appropriate arrangements or ensure that his or her designated body establishes and operates appropriate arrangements for making, in connection with the performance of functions under these Regulations, periodic inspections (in accordance with section 20 of the 2006 Act) of premises which are—
 
@@ -399,7 +399,7 @@ the arrangements mentioned in paragraph (2).
 
 (5) That record of inspections may be kept in paper or electronic format.
 
-### 20. Relevant premises[^key-9111a804a49dfaca42f6a67da65c37a3]
+### 20. Relevant premises[^c-9111a804a49dfaca42f6a67da65c37a3]
 
 (1) For the purposes of section 20 of the 2006 Act, the following are prescribed as relevant premises which may be inspected by an accountable officer who is an accountable officer nominated or appointed by a Local Health Board or (where appropriate) by a member of the staff of the Local Health Board——
 
@@ -428,7 +428,7 @@ the arrangements mentioned in paragraph (2).
 
 subject to an appropriate authorisation being granted.
 
-### 21. Inspections of private dwellings not requiring the presence of a constable[^key-92242a8c712d441ce58ca0908b4e5ca0]
+### 21. Inspections of private dwellings not requiring the presence of a constable[^c-92242a8c712d441ce58ca0908b4e5ca0]
 
 Section 20(3) of the 2006 Act does not apply as regards—
 
@@ -440,7 +440,7 @@ Section 20(3) of the 2006 Act does not apply as regards—
 
 ## PART 4 — Co-operation between health bodies and other organisations
 
-### 22. Responsible bodies for the purposes of this Part[^key-f4b79f03fdc3f6372c53dfe6b5d2fefa]
+### 22. Responsible bodies for the purposes of this Part[^c-f4b79f03fdc3f6372c53dfe6b5d2fefa]
 
 (1) The following are responsible bodies for the purposes of section 18 of the 2006 Act and this Part—
 
@@ -456,7 +456,7 @@ Section 20(3) of the 2006 Act does not apply as regards—
 - (j) a local authority; and
 - (k) a regulatory body.
 
-### 23. Relevant persons[^key-d25034d94fdc24bf96cbfa8ff539ce60]
+### 23. Relevant persons[^c-d25034d94fdc24bf96cbfa8ff539ce60]
 
 In accordance with section 19(1)(a) of the 2006 Act, the following are prescribed as relevant persons (and accordingly are “relevant persons” for the purposes of this Part in addition to those persons who are mentioned in section 19(1)(b) of the 2006 Act)—
 
@@ -466,10 +466,10 @@ In accordance with section 19(1)(a) of the 2006 Act, the following are prescribe
 - (d) a person, other than a registered pharmacist, engaged in any activity carried on or by a registered pharmacist referred to in paragraph (c) that involves, or may involve the supply or administration of controlled drugs;
 - (e) a registered midwife or nurse who is providing midwifery or nursing services to private patients only that involve, or may involve, the supply or administration of controlled drugs;
 - (f) a person who is carrying on or engaged in any activity that involves, or may involve, the supply or administration of controlled drugs, and who is——
-  - (i)[^key-26026aab9b6ac1b3eebc5ed158bd86f4] a person who is registered under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 as the provider of a care home service (within the meaning of that Part) which is provided wholly or mainly to persons aged 18 or over, or a person who is registered with Social Care Wales as the manager of such a care home service (referred to in this paragraph as “**a registered person**”), or
+  - (i)[^c-26026aab9b6ac1b3eebc5ed158bd86f4] a person who is registered under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 as the provider of a care home service (within the meaning of that Part) which is provided wholly or mainly to persons aged 18 or over, or a person who is registered with Social Care Wales as the manager of such a care home service (referred to in this paragraph as “**a registered person**”), or
   - (ii) a person engaged in any activity carried on by a registered person.
 
-### 24. General duty on responsible bodies to co-operate with each other as regards relevant persons[^key-7011bbebd86f73b57af9a2cafa217daa]
+### 24. General duty on responsible bodies to co-operate with each other as regards relevant persons[^c-7011bbebd86f73b57af9a2cafa217daa]
 
 Responsible bodies must co-operate with each other in connection with—
 
@@ -477,7 +477,7 @@ Responsible bodies must co-operate with each other in connection with—
 - (b) the consideration of issues relating to the taking of action in respect of such matters; and
 - (c) the taking of action in respect of such matters.
 
-### 25. Duty to co-operate by disclosing information as regards relevant persons[^key-812ba5059f09c59b6a2a12848aa0b94f]
+### 25. Duty to co-operate by disclosing information as regards relevant persons[^c-812ba5059f09c59b6a2a12848aa0b94f]
 
 (1) A responsible body may disclose to any other responsible body any information in its possession or control which it reasonably considers it should share with that body for the purposes of—
 
@@ -517,11 +517,11 @@ it must notify the persons and bodies listed in paragraph (5) of the commencemen
 - (a) any investigation being conducted by the responsible body, or any other responsible body, under any enactment; or
 - (b) any civil or criminal proceedings.
 
-(7) Nothing in this regulation requires or permits any disclosure of information which is prohibited by or under any other enactment or the[^key-1e62930099c22978c098ae3202e70238] UK GDPR[^key-c2cb5cea5f09f7d9ff735af9a2531c11].
+(7) Nothing in this regulation requires or permits any disclosure of information which is prohibited by or under any other enactment or the[^c-1e62930099c22978c098ae3202e70238] UK GDPR[^c-c2cb5cea5f09f7d9ff735af9a2531c11].
 
-(8)[^key-8458b478a4039ccd5ada54cfe647b5fc] In determining for the purposes of paragraph (7) whether disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
+(8)[^c-8458b478a4039ccd5ada54cfe647b5fc] In determining for the purposes of paragraph (7) whether disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
 
-### 26. Responsible bodies requesting additional information be disclosed about relevant persons[^key-a8ad2c0b6559ddbeb2e7c7612397dcd3]
+### 26. Responsible bodies requesting additional information be disclosed about relevant persons[^c-a8ad2c0b6559ddbeb2e7c7612397dcd3]
 
 (1) If a responsible body has in its possession or control information relating to the management or use of controlled drugs by a relevant person that it considers to be of serious concern (which may be fitness to practise information that is unrelated to any specific instance of the management or use of a controlled drug), it may request in writing additional information in relation to the matter from any other responsible body which it considers may have relevant information.
 
@@ -545,11 +545,11 @@ the responsible body must, where practicable, obtain the consent of the patient 
 - (b) would prejudice, or would be likely to prejudice, any civil or criminal proceedings; or
 - (c) would involve disproportionate cost.
 
-(6) Nothing in this regulation requires or permits any disclosure of information which is prohibited by or under any other enactment or the[^key-93c2ee5ec965560baff5ac412a83c77e] UK GDPR[^key-938cbbcaa89bdc6662a92d49921516ed].
+(6) Nothing in this regulation requires or permits any disclosure of information which is prohibited by or under any other enactment or the[^c-93c2ee5ec965560baff5ac412a83c77e] UK GDPR[^c-938cbbcaa89bdc6662a92d49921516ed].
 
-(7)[^key-6b0adbce9d0cb9e919dda29d70a57fef] In determining for the purposes of paragraph (6) whether disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
+(7)[^c-6b0adbce9d0cb9e919dda29d70a57fef] In determining for the purposes of paragraph (6) whether disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
 
-### 27. Restrictions relating to disclosures[^key-369f9fcb13c2274aaf2a8ceb9d6c04e2]
+### 27. Restrictions relating to disclosures[^c-369f9fcb13c2274aaf2a8ceb9d6c04e2]
 
 (1) If a responsible body that is disclosing or to which is being disclosed any information under regulation 25 or 26 has an accountable officer, the disclosure must be made by or to the accountable officer or his or her staff (and not by or to any other person who may act on behalf of the responsible body).
 
@@ -564,7 +564,7 @@ the responsible body must, where practicable, obtain the consent of the patient 
 - (a) not allow any person access to that information unless he or she is a person who, by virtue of his or her contract of employment or otherwise, is aware of the purposes for which the information may be processed; and
 - (b) ensure that appropriate organisational measures are taken to prevent unauthorised disclosure or processing of the information.
 
-### 28. Record keeping requirements relating to regulations 25 and 26[^key-3112c9bc236cff39d2a86db71bbc6a80]
+### 28. Record keeping requirements relating to regulations 25 and 26[^c-3112c9bc236cff39d2a86db71bbc6a80]
 
 (1) A responsible body must keep a record of—
 
@@ -582,7 +582,7 @@ the responsible body must, where practicable, obtain the consent of the patient 
 
 (3) The records may be kept in paper or electronic format.
 
-### 29. Occurrence reports[^key-98bff103c61c3a201130e33c79198ec8]
+### 29. Occurrence reports[^c-98bff103c61c3a201130e33c79198ec8]
 
 (1) An accountable officer (other than an accountable officer nominated or appointed as accountable officer for a Local Health Board) must give, on a quarterly basis, an occurrence report to the accountable officer nominated or appointed as accountable officer for the Local Health Board that is leading any local intelligence network of which he or she or his or her designated body is a member.
 
@@ -591,11 +591,11 @@ the responsible body must, where practicable, obtain the consent of the patient 
 - (a) details of any concerns that his or her designated body has regarding its management or use of controlled drugs; or
 - (b) confirmation by his or her designated body that it has no concerns to report regarding its management or use of controlled drugs.
 
-(3) Nothing in this regulation requires or permits any disclosure of information which is prohibited by or under any other enactment or the[^key-7ec576c75ff7663f1d5e27740bbe447e] UK GDPR[^key-d25820511f13343e7c407e3fa216b052].
+(3) Nothing in this regulation requires or permits any disclosure of information which is prohibited by or under any other enactment or the[^c-7ec576c75ff7663f1d5e27740bbe447e] UK GDPR[^c-d25820511f13343e7c407e3fa216b052].
 
-(4)[^key-aa89531eea823c96778b0e1df0dc589d] In determining for the purposes of paragraph (3) whether disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
+(4)[^c-aa89531eea823c96778b0e1df0dc589d] In determining for the purposes of paragraph (3) whether disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
 
-### 30. Accountable officers' duties to protect the safety of patients and the general public[^key-d655649d226dec6cb050d3276df6361d]
+### 30. Accountable officers' duties to protect the safety of patients and the general public[^c-d655649d226dec6cb050d3276df6361d]
 
 (1) If the information shared by a responsible body under regulation 25 or 26 shows a concern about inappropriate or unsafe use of controlled drugs by a relevant person, the accountable officer of any designated body responsible for—
 
@@ -609,7 +609,7 @@ that has possession or control of that information may make recommendations to a
 - (a) seek to take reasonable steps to protect the safety of patients or the general public; and
 - (b) where appropriate, refer the matter to a relevant responsible body (for example, a regulatory body or a police force).
 
-### 31. Disclosure of information in good faith[^key-1f1ad90e6be2e8182ac64483700c6392]
+### 31. Disclosure of information in good faith[^c-1f1ad90e6be2e8182ac64483700c6392]
 
 Civil proceedings do not lie against a person in respect of loss, damage or injury of any kind suffered by another person as a result of the disclosure of information in good faith under regulation 25, 26, 29 or 30.
 
@@ -635,9 +635,9 @@ Part 4 deals with co-operation between a number of listed health care bodies and
 
 [^f00001]: Footnote: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28). The powers of the National Assembly for Wales under sections 17, 18, 20 and 79 of the Health Act 2006 were transferred to the Welsh Ministers in accordance with paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-a9ce829cef20a8593a6cc7043837d524]: Commencement: Reg. 1 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-a9ce829cef20a8593a6cc7043837d524]: Commencement: Reg. 1 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-58e8b372712c6f0a7230e791deba3e26]: Commencement: Reg. 2 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-58e8b372712c6f0a7230e791deba3e26]: Commencement: Reg. 2 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
@@ -647,13 +647,13 @@ Part 4 deals with co-operation between a number of listed health care bodies and
 
 [^f00005]: Footnote: The Care and Social Services Inspectorate Wales (“CSSIW”) is an operationally distinct division of the Department of Public Services and Performance within the Welsh Assembly Government.
 
-[^key-3c725f77ef1f2ed1760f86d1ae6cf953]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c725f77ef1f2ed1760f86d1ae6cf953]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: The Healthcare Inspectorate Wales (“HIW”) is an operationally distinct division of the Department of Public Services and Performance within the Welsh Assembly Government.
 
 [^f00007]: Footnote: [1946 c. 81](https://www.legislation.gov.uk/ukpga/1946/81). This Act was repealed by the National Health Service Act 1977, which was in turn repealed in relation to Wales by the National Health Service (Wales) Act [2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42) (“the NHS (Wales) Act 2006”).
 
-[^key-ca3f995eea7d0651fa53389d3a566bfa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 107](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/107)
+[^c-ca3f995eea7d0651fa53389d3a566bfa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 107](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/107)
 
 [^f00009]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
@@ -663,106 +663,106 @@ Part 4 deals with co-operation between a number of listed health care bodies and
 
 [^f00012]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-2c9a5c93091d1e7e463a3d6eb50cfeb4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 68(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/68/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2c9a5c93091d1e7e463a3d6eb50cfeb4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 68(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/68/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00013]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67). There are amendments to section 132 which are not relevant to the definition of “retail pharmacy business”.
 
-[^key-7b5b72683b30ca4b49440d1cb0609a9d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 68(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/68/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-7b5b72683b30ca4b49440d1cb0609a9d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 68(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/68/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00014]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-e5ec043695de57934a57cc7d02e515ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) inserted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5ec043695de57934a57cc7d02e515ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) inserted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00015]: Footnote: Established by S.I. [1998/678](https://www.legislation.gov.uk/uksi/1998/678).
 
-[^key-188fb8a67108092adb376844a782d446]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/19/2)
+[^c-188fb8a67108092adb376844a782d446]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/1) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/19/2)
 
 [^f00016]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-7c0273ce683d5333ce2f6dbc9bd4c5b7]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/4) inserted (5.5.2011) by [The Government of Wales Act 2006 (Commencement of Assembly Act Provisions, Transitional and Saving Provisions and Modifications) Order 2011 (S.I. 2011/1011)](https://www.legislation.gov.uk/wsi/2011/1011), [arts. 2](https://www.legislation.gov.uk/wsi/2011/1011/article/2), [8](https://www.legislation.gov.uk/wsi/2011/1011/article/8)
+[^c-7c0273ce683d5333ce2f6dbc9bd4c5b7]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/2/4) inserted (5.5.2011) by [The Government of Wales Act 2006 (Commencement of Assembly Act Provisions, Transitional and Saving Provisions and Modifications) Order 2011 (S.I. 2011/1011)](https://www.legislation.gov.uk/wsi/2011/1011), [arts. 2](https://www.legislation.gov.uk/wsi/2011/1011/article/2), [8](https://www.legislation.gov.uk/wsi/2011/1011/article/8)
 
-[^key-150ac979b13081e610ff078d2ce0d3cd]: Commencement: Reg. 3 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-150ac979b13081e610ff078d2ce0d3cd]: Commencement: Reg. 3 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-89c314960aeafeb376fc09fb81e71d95]: Commencement: Reg. 4 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-89c314960aeafeb376fc09fb81e71d95]: Commencement: Reg. 4 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-04c289c747a37b74acd4aff1da50fc0c]: Commencement: Reg. 5 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-04c289c747a37b74acd4aff1da50fc0c]: Commencement: Reg. 5 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-f806424bbb63844592890454a3792792]: Commencement: Reg. 6 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-f806424bbb63844592890454a3792792]: Commencement: Reg. 6 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-cef9fe493692ce711051a783755e0b60]: Commencement: Reg. 7 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-cef9fe493692ce711051a783755e0b60]: Commencement: Reg. 7 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-584da73f7436f8a9192a59e1d7c4623c]: Commencement: Reg. 8 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-584da73f7436f8a9192a59e1d7c4623c]: Commencement: Reg. 8 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-7a0a98c916c23faa06e27e2278ecde91]: Commencement: Reg. 9 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-7a0a98c916c23faa06e27e2278ecde91]: Commencement: Reg. 9 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
 [^f00017]: Footnote: S.I. [2001/3998](https://www.legislation.gov.uk/uksi/2001/3998); the relevant amending instrument is [2003/1432](https://www.legislation.gov.uk/uksi/2003/1432).
 
-[^key-5afa09bf2c06e74010d7a63f93b9bf1d]: Commencement: Reg. 10 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-5afa09bf2c06e74010d7a63f93b9bf1d]: Commencement: Reg. 10 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-a6f0b686fa3495b09e824004e4deac5c]: Commencement: Reg. 11 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-a6f0b686fa3495b09e824004e4deac5c]: Commencement: Reg. 11 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-03a2c8a97829ba62e43065624a384368]: Commencement: Reg. 12 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-03a2c8a97829ba62e43065624a384368]: Commencement: Reg. 12 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-0e269961e9c470ae9a29178cdcd7f64d]: Textual amendment: Reg. 12(2) substituted (1.10.2009) by [The National Health Service (Restructuring of National Health Service Bodies: Consequential Amendments) (Wales) Order 2009 (S.I. 2009/1824)](https://www.legislation.gov.uk/uksi/2009/1824), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1824/article/1/1), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2009/1824/schedule/paragraph/9/2)
+[^c-0e269961e9c470ae9a29178cdcd7f64d]: Textual amendment: Reg. 12(2) substituted (1.10.2009) by [The National Health Service (Restructuring of National Health Service Bodies: Consequential Amendments) (Wales) Order 2009 (S.I. 2009/1824)](https://www.legislation.gov.uk/uksi/2009/1824), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1824/article/1/1), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2009/1824/schedule/paragraph/9/2)
 
 [^f00018]: Footnote: S.I. [2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
-[^key-866ad2083875f83ac30fc1691bf23064]: Commencement: Reg. 13 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-866ad2083875f83ac30fc1691bf23064]: Commencement: Reg. 13 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
 [^f00019]: Footnote: The expression “*relevant individual*” is defined in section 17(8)(b) of the Health Act 2006
 
-[^key-d54b3a7c48096f0440c70c53f283f13d]: Commencement: Reg. 14 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-d54b3a7c48096f0440c70c53f283f13d]: Commencement: Reg. 14 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-f07755f24bb53cf4844cb60eccc81559]: Commencement: Reg. 15 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-f07755f24bb53cf4844cb60eccc81559]: Commencement: Reg. 15 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-e1ae13e8bd160de51954a36306269045]: Commencement: Reg. 16 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-e1ae13e8bd160de51954a36306269045]: Commencement: Reg. 16 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-0377cfc6e9ce4ead900ecbe56ffd1c44]: Commencement: Reg. 17 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-0377cfc6e9ce4ead900ecbe56ffd1c44]: Commencement: Reg. 17 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-11ffeded2ef999f686abc934a0e26e16]: Commencement: Reg. 18 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-11ffeded2ef999f686abc934a0e26e16]: Commencement: Reg. 18 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-611e338e7b21f365cc23ced0818b5dae]: Commencement: Reg. 19 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-611e338e7b21f365cc23ced0818b5dae]: Commencement: Reg. 19 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-9111a804a49dfaca42f6a67da65c37a3]: Commencement: Reg. 20 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-9111a804a49dfaca42f6a67da65c37a3]: Commencement: Reg. 20 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-92242a8c712d441ce58ca0908b4e5ca0]: Commencement: Reg. 21 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-92242a8c712d441ce58ca0908b4e5ca0]: Commencement: Reg. 21 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-f4b79f03fdc3f6372c53dfe6b5d2fefa]: Commencement: Reg. 22 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-f4b79f03fdc3f6372c53dfe6b5d2fefa]: Commencement: Reg. 22 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-d25034d94fdc24bf96cbfa8ff539ce60]: Commencement: Reg. 23 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-d25034d94fdc24bf96cbfa8ff539ce60]: Commencement: Reg. 23 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-26026aab9b6ac1b3eebc5ed158bd86f4]: Textual amendment: [Reg. 23(f)(i)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/23/f/i) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/19/3)
+[^c-26026aab9b6ac1b3eebc5ed158bd86f4]: Textual amendment: [Reg. 23(f)(i)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/23/f/i) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/19/3)
 
-[^key-7011bbebd86f73b57af9a2cafa217daa]: Commencement: Reg. 24 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-7011bbebd86f73b57af9a2cafa217daa]: Commencement: Reg. 24 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-812ba5059f09c59b6a2a12848aa0b94f]: Commencement: Reg. 25 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-812ba5059f09c59b6a2a12848aa0b94f]: Commencement: Reg. 25 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-1e62930099c22978c098ae3202e70238]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/25/7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 335(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/335/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-1e62930099c22978c098ae3202e70238]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/25/7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 335(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/335/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-c2cb5cea5f09f7d9ff735af9a2531c11]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/25/7) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2cb5cea5f09f7d9ff735af9a2531c11]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/25/7) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8458b478a4039ccd5ada54cfe647b5fc]: Textual amendment: [Reg. 25(8)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/25/8) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 335(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/335/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-8458b478a4039ccd5ada54cfe647b5fc]: Textual amendment: [Reg. 25(8)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/25/8) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 335(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/335/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-a8ad2c0b6559ddbeb2e7c7612397dcd3]: Commencement: Reg. 26 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-a8ad2c0b6559ddbeb2e7c7612397dcd3]: Commencement: Reg. 26 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-93c2ee5ec965560baff5ac412a83c77e]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/26/6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 336(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/336/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-93c2ee5ec965560baff5ac412a83c77e]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/26/6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 336(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/336/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-938cbbcaa89bdc6662a92d49921516ed]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/26/6) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(4)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-938cbbcaa89bdc6662a92d49921516ed]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/26/6) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(4)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b0adbce9d0cb9e919dda29d70a57fef]: Textual amendment: [Reg. 26(7)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/26/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 336(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/336/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-6b0adbce9d0cb9e919dda29d70a57fef]: Textual amendment: [Reg. 26(7)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/26/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 336(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/336/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-369f9fcb13c2274aaf2a8ceb9d6c04e2]: Commencement: Reg. 27 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-369f9fcb13c2274aaf2a8ceb9d6c04e2]: Commencement: Reg. 27 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-3112c9bc236cff39d2a86db71bbc6a80]: Commencement: Reg. 28 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-3112c9bc236cff39d2a86db71bbc6a80]: Commencement: Reg. 28 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-98bff103c61c3a201130e33c79198ec8]: Commencement: Reg. 29 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-98bff103c61c3a201130e33c79198ec8]: Commencement: Reg. 29 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-7ec576c75ff7663f1d5e27740bbe447e]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/29/3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 337(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/337/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-7ec576c75ff7663f1d5e27740bbe447e]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/29/3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 337(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/337/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-d25820511f13343e7c407e3fa216b052]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/29/3) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d25820511f13343e7c407e3fa216b052]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/29/3) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa89531eea823c96778b0e1df0dc589d]: Textual amendment: [Reg. 29(4)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/29/4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 337(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/337/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-aa89531eea823c96778b0e1df0dc589d]: Textual amendment: [Reg. 29(4)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/29/4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 337(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/337/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-d655649d226dec6cb050d3276df6361d]: Commencement: Reg. 30 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-d655649d226dec6cb050d3276df6361d]: Commencement: Reg. 30 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
 
-[^key-1f1ad90e6be2e8182ac64483700c6392]: Commencement: Reg. 31 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)
+[^c-1f1ad90e6be2e8182ac64483700c6392]: Commencement: Reg. 31 in force at 9.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2008/3239/regulation/1/2)

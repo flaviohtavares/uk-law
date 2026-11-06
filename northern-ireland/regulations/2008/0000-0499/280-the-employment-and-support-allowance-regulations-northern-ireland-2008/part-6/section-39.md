@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Matters to be taken into account in determining good cause in relation to regulation 37 or 38[^key-5896fb87a1674fa4aaa70518789ae14c]
+## 39. Matters to be taken into account in determining good cause in relation to regulation 37 or 38[^c-5896fb87a1674fa4aaa70518789ae14c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The matters to be taken into account in determining whether a claimant has good 
 
 ## Annotations
 
-[^key-5896fb87a1674fa4aaa70518789ae14c]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2008/280/regulation/39) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-5896fb87a1674fa4aaa70518789ae14c]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2008/280/regulation/39) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

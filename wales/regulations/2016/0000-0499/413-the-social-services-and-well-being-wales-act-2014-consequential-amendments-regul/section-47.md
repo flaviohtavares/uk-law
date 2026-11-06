@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**47.**[^key-1c22056737d1fd0a4835a9164a0a1324] In section 2(5) (rights of authorised representatives of disabled persons)—
+**47.**[^c-1c22056737d1fd0a4835a9164a0a1324] In section 2(5) (rights of authorised representatives of disabled persons)—
 
 - (a) in paragraph (b)[^f00049], for “Part III of the 1948 Act or Part 1 of the Care Act 2014” substitute “Part 1 of the Care Act 2014 or Part 4 of the Social Services and Well-being (Wales) Act 2014”;
 - (b) in paragraph (bb)[^f00050] after “Part III of the Children Act 1989” insert “, or under Part 6 of the Social Services and Well-being (Wales) Act 2014”;
@@ -27,7 +27,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1c22056737d1fd0a4835a9164a0a1324]: Commencement: Reg. 47 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-1c22056737d1fd0a4835a9164a0a1324]: Commencement: Reg. 47 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00049]: Footnote: Section 2(5)(b) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 36, 37(a).
 

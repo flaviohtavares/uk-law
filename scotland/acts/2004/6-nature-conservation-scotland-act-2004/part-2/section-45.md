@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. SNH: power to enforce[^key-0b3ac7c89f3833106dbded3385175773]
+## 45. SNH: power to enforce[^c-0b3ac7c89f3833106dbded3385175773]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ the court may make such order (whether for interdict or otherwise) as it conside
 
 ## Annotations
 
-[^key-0b3ac7c89f3833106dbded3385175773]: Commencement: S. 45 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-0b3ac7c89f3833106dbded3385175773]: Commencement: S. 45 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

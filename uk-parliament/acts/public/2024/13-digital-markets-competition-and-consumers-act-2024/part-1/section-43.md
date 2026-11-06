@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Decision not to make final offer order[^key-89bf43e5177840c5e9b89802fd57a97b][^key-e30f689a22056627dbb54eb86a54d710]
+## 43. Decision not to make final offer order[^c-89bf43e5177840c5e9b89802fd57a97b][^c-e30f689a22056627dbb54eb86a54d710]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89bf43e5177840c5e9b89802fd57a97b]: Commencement: S. 43 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-89bf43e5177840c5e9b89802fd57a97b]: Commencement: S. 43 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e30f689a22056627dbb54eb86a54d710]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2024/13/section/43) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-e30f689a22056627dbb54eb86a54d710]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2024/13/section/43) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

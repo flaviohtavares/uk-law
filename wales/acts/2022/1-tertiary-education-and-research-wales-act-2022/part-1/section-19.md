@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Compatibility with charity law and governing documents of tertiary education providers[^key-57c898a6d2a11f42a1a014649fbdb878][^key-9163f1bba89e2d0a073e8a78c7294bb9]
+## 19. Compatibility with charity law and governing documents of tertiary education providers[^c-57c898a6d2a11f42a1a014649fbdb878][^c-9163f1bba89e2d0a073e8a78c7294bb9]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57c898a6d2a11f42a1a014649fbdb878]: Commencement: S. 19 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-57c898a6d2a11f42a1a014649fbdb878]: Commencement: S. 19 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-9163f1bba89e2d0a073e8a78c7294bb9]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2022/1/section/19) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/919/article/2/e)
+[^c-9163f1bba89e2d0a073e8a78c7294bb9]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2022/1/section/19) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/919/article/2/e)

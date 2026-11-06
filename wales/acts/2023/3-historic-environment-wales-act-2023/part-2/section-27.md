@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Termination of agreement or provision of agreement[^key-0c86b0d726e30178b4ecd7492e969690][^key-567c75f989fe92099dfec6a2796dc17f]
+## 27. Termination of agreement or provision of agreement[^c-0c86b0d726e30178b4ecd7492e969690][^c-567c75f989fe92099dfec6a2796dc17f]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c86b0d726e30178b4ecd7492e969690]: Commencement: S. 27 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-0c86b0d726e30178b4ecd7492e969690]: Commencement: S. 27 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-567c75f989fe92099dfec6a2796dc17f]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2023/3/section/27) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-567c75f989fe92099dfec6a2796dc17f]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2023/3/section/27) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

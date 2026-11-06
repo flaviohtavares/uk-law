@@ -44,11 +44,11 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-31d3f2a02a70ffd8e77294bdfec50e2f]
+### 1. Citation and commencement[^c-31d3f2a02a70ffd8e77294bdfec50e2f]
 
 These Regulations may be cited as the Companies (Summary Financial Statement) Regulations (Northern Ireland) 1996 and shall come into operation on 10th June 1996.
 
-### 2. Interpretation[^key-93bf58db6e36e07fcb91988d394bfbcf]
+### 2. Interpretation[^c-93bf58db6e36e07fcb91988d394bfbcf]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 
 ## Part II — Conditions for sending out summary financial statement
 
-### 3. Cases in which sending of summary financial statement prohibited[^key-f9f31b78a30e0d784e82d05f2506c12c]
+### 3. Cases in which sending of summary financial statement prohibited[^c-f9f31b78a30e0d784e82d05f2506c12c]
 
 (1) A listed public company may not send a summary financial statement to an entitled person instead of copies of its full accounts and reports, in any case where it is prohibited from doing so by any relevant provision (within the meaning of paragraph (2))—
 
@@ -71,7 +71,7 @@ In these Regulations—
 
 (2) For the purposes of paragraph (1), any provision (however expressed) which requires copies of the full accounts and reports to be sent to entitled persons, or which forbids the sending of summary financial statements under Article 259 of the 1986 Order, is a relevant provision.
 
-### 4. Ascertainment of entitled person’s wishes[^key-ced3a559dfeac388c60697e57acf5ece]
+### 4. Ascertainment of entitled person’s wishes[^c-ced3a559dfeac388c60697e57acf5ece]
 
 (1) A listed public company may not send a summary financial statement to an entitled person in place of copies of its full accounts and reports, unless the company has ascertained that the entitled person does not wish to receive copies of those documents.
 
@@ -89,7 +89,7 @@ In these Regulations—
 
 (5) This paragraph applies to a person who is entitled, whether conditionally or unconditionally, to become an entitled person in relation to the company, but who has not yet become such an entitled person.
 
-### 5. Consultation by notice[^key-cd1db5a4bf62beab7e8844cced6736d3]
+### 5. Consultation by notice[^c-cd1db5a4bf62beab7e8844cced6736d3]
 
 (1) A listed public company may give a notice to an entitled person (including for this purpose a person to whom regulation 4(5) applies), by sending it by post or giving it in any other manner authorised by the company’s articles, which shall—
 
@@ -107,7 +107,7 @@ In these Regulations—
 - (b) if the address of a debenture holder to which notices are sent in accordance with the terms of any instrument constituting or otherwise governing the debentures of which he is a holder is not within an EEA State, or
 - (c) if the address of a person to whom regulation 4(5) applies to which notices are sent, in accordance with the contractual provisions whereunder he has a right (conditionally or unconditionally) to become an entitled person, is not within an EEA State.
 
-### 6. Relevant consultation[^key-93087d341b80730ee849b8d909a84b0f]
+### 6. Relevant consultation[^c-93087d341b80730ee849b8d909a84b0f]
 
 (1) A listed public company may conduct a relevant consultation to ascertain the wishes of an entitled person.
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 ## Part III — Form and content of summary financial statement
 
-### 7. Provisions applying to all companies and groups[^key-ea02b7c81d12ff71bf9c2325bb7cd785]
+### 7. Provisions applying to all companies and groups[^c-ea02b7c81d12ff71bf9c2325bb7cd785]
 
 (1) Every summary financial statement issued by a listed public company in place of the full accounts and reports must comply with this regulation.
 
@@ -137,19 +137,19 @@ In these Regulations—
 - (a) of how members and debenture holders can obtain, free of charge, a copy of the company’s last full accounts and reports, and
 - (b) of how members and debenture holders may elect in writing to receive full accounts and reports in place of summary financial statements for all future financial years.
 
-### 8. Companies and groups other than banking and insurance companies and groups[^key-5210344490928ce299e689531696dacb]
+### 8. Companies and groups other than banking and insurance companies and groups[^c-5210344490928ce299e689531696dacb]
 
 (1) The summary financial statement of a listed public company (other than a banking or insurance company) the directors of which are not required to prepare group accounts under Part VIII of the 1986 Order, shall be in the form, and contain the information, required by Schedule 1, so far as applicable to such a company.
 
 (2) The summary financial statement of a listed public company (other than the parent company of a banking or insurance group) the directors of which are required to prepare group accounts under Part VIII of the 1986 Order, shall be in the form, and contain the information, required by Schedule 1, so far as applicable to such a company.
 
-### 9. Banking companies and groups[^key-5d67f86b076433d66c1fe620423e8d02]
+### 9. Banking companies and groups[^c-5d67f86b076433d66c1fe620423e8d02]
 
 (1) The summary financial statement of a listed public company which is in relation to the financial year in question a banking company the directors of which are not required to prepare group accounts under Part VIII of the 1986 Order, shall be in the form, and contain the information, required by Schedule 2 so far as applicable to such a company.
 
 (2) The summary financial statement of a listed public company which is the parent company of a banking group shall be in the form, and contain the information, required by Schedule 2, so far as applicable to such a company.
 
-### 10. Insurance companies and groups[^key-be94f6be519b67a7dd74828b11838333]
+### 10. Insurance companies and groups[^c-be94f6be519b67a7dd74828b11838333]
 
 (1) The summary financial statement of a listed public company which is in relation to the financial year in question an insurance company the directors of which are not required to prepare group accounts under Part VIII of the 1986 Order, shall be in the form, and contain the information, required by Schedule 3, so far as applicable to such a company.
 
@@ -157,7 +157,7 @@ In these Regulations—
 
 ## Part IV — Transitionals etc
 
-### 11. Revocation, transitional and saving provisions[^key-fa34bb6ba9ef6371fbbbe1dbede4ebd9]
+### 11. Revocation, transitional and saving provisions[^c-fa34bb6ba9ef6371fbbbe1dbede4ebd9]
 
 (1) The Companies (Summary Financial Statement) Regulations (Northern Ireland) 1993[^f00006] are hereby revoked.
 
@@ -167,7 +167,7 @@ In these Regulations—
 
 (4) So far as anything done under or for the purposes of any provision of the Companies (Summary Financial Statement) Regulations (Northern Ireland) 1993 could have been done under or for the purposes of the corresponding provision of these Regulations, it is not invalidated by the revocation of that provision but has effect as if done under or for the purposes of the corresponding provision.
 
-### 12. Consequential amendments[^key-cabfebf8b543d6e90e7a2ae9fe9840b4]
+### 12. Consequential amendments[^c-cabfebf8b543d6e90e7a2ae9fe9840b4]
 
 (1) The Companies (Revision of Defective Accounts and Report) Regulations (Northern Ireland) 1991[^f00007] are amended as follows.
 
@@ -191,13 +191,13 @@ Assistant Secretary
 
 Regulation 8
 
-### 1. Form of summary financial statement[^key-f59ac7984c461d070eaac089245d8970]
+### 1. Form of summary financial statement[^c-f59ac7984c461d070eaac089245d8970]
 
 (1) The summary financial statement shall contain the information prescribed by the following paragraphs, in such order and under such headings as the directors consider appropriate, together with any other information necessary to ensure that the summary financial statement is consistent with the full accounts and reports for the financial year in question.
 
 (2) Nothing in this Schedule shall be construed as prohibiting the inclusion in the summary financial statement of any additional information derived from the company’s annual accounts and the directors' report.
 
-### 2. Summary directors' report[^key-257de65fd2d529e02a8b1b321a9ce69f]
+### 2. Summary directors' report[^c-257de65fd2d529e02a8b1b321a9ce69f]
 
 (1) The summary financial statement shall contain the whole of, or a summary of, that portion of the directors' report for the year in question which sets out the following matters—
 
@@ -208,7 +208,7 @@ Regulation 8
 
 (2) The summary financial statement shall also contain the list of names of directors required by Article 242(2) of the 1986 Order.
 
-### 3. Summary profit and loss account: companies not required to prepare group accounts[^key-34d35e3c2cf813d9f1e7cd2d41df81bd]
+### 3. Summary profit and loss account: companies not required to prepare group accounts[^c-34d35e3c2cf813d9f1e7cd2d41df81bd]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary profit and loss account showing, in so far as they may be derived from the full profit and loss account, the items, or combinations of items, listed in sub-paragraph (3), in the order set out in that sub-paragraph.
 
@@ -259,7 +259,7 @@ Regulation 8
 
 (4) The summary profit and loss account shall also show, at the end thereof and under such heading as the directors consider appropriate, the figure required by paragraph 1(1) of Part I of Schedule 6 to the 1986 Order[^f00011] (directors' emoluments).
 
-### 4. Summary profit and loss account: companies required to prepare group accounts[^key-2344a07d808e68a871e73964508c8dba]
+### 4. Summary profit and loss account: companies required to prepare group accounts[^c-2344a07d808e68a871e73964508c8dba]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are required to prepare group accounts for the financial year, a summary consolidated profit and loss account showing the items or combinations of items required by paragraph 3, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the modifications specified in sub-paragraph (2).
 
@@ -269,7 +269,7 @@ Regulation 8
 - (b) between the information required by paragraph 3(3)(*f*) and that required by paragraph 3(3)(*g*) there shall in addition be shown, under such heading as the directors consider appropriate, the item “Minority interests” required to be shown in the Schedule 4 formats by paragraph 17(3) of Schedule 4A to the 1986 Order; and
 - (c) the figure required by paragraph 3(3)(*g*) shall be shown after the deduction or the addition (as the case may be) of the item “Minority interests” required to be shown in the Schedule 4 formats by paragraph 17(4) of Schedule 4A to the 1986 Order.
 
-### 5. Summary balance sheet: companies not required to prepare group accounts[^key-ba2146fb6bb752ad8c3cb403895790b8]
+### 5. Summary balance sheet: companies not required to prepare group accounts[^c-ba2146fb6bb752ad8c3cb403895790b8]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary balance sheet.
 
@@ -279,11 +279,11 @@ Regulation 8
 
 (4) Where the full balance sheet used is format 2 in Schedule 4 to the 1986 Order, then in the case of heading C under “Liabilities”, two figures must be shown, one figure for amounts falling due within one year and one for amounts falling due after one year.
 
-### 6. Summary balance sheet: companies required to prepare group accounts[^key-8b3dee04f4fab230d2b3fa922c470154]
+### 6. Summary balance sheet: companies required to prepare group accounts[^c-8b3dee04f4fab230d2b3fa922c470154]
 
 The summary financial statement shall contain, in the case of a company the directors of which are required to prepare group accounts for the financial year, a summary consolidated balance sheet which shall show the items required by paragraph 5, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the addition of the item “Minority interests” required by paragraph 17(2) of Schedule 4A to the 1986 Order to be inserted as required by that paragraph.
 
-### 7. Corresponding amounts[^key-3954cb1db97e1feabf813304419fdde2]
+### 7. Corresponding amounts[^c-3954cb1db97e1feabf813304419fdde2]
 
 In respect of every item shown in the summary profit and loss account or summary consolidated profit and loss account (as the case may be), or in the summary balance sheet or summary consolidated balance sheet (as the case may be) the corresponding amount shall be shown for the immediately preceding financial year; for this purpose “the corresponding amount” is the amount shown in the summary financial statement for that year or which would have been so shown had such a statement been prepared for that year, after any adjustments necessary to ensure that that amount is comparable with the item for the financial year in question.
 
@@ -291,13 +291,13 @@ In respect of every item shown in the summary profit and loss account or summary
 
 Regulation 9
 
-### 1. Form of summary financial statement[^key-8e3c9ec5c800bc79ad79759b84c3c144]
+### 1. Form of summary financial statement[^c-8e3c9ec5c800bc79ad79759b84c3c144]
 
 (1) The summary financial statement shall contain the information prescribed by the following paragraphs, in such order and under such headings as the directors consider appropriate, together with any other information necessary to ensure that the summary financial statement is consistent with the full accounts and reports for the financial year in question.
 
 (2) Nothing in this Schedule shall be considered as prohibiting the inclusion in the summary financial statement of any additional information derived from the company’s annual accounts and the directors' report.
 
-### 2. Summary directors' report[^key-89a3ed2e638f1ea8985093173f060d51]
+### 2. Summary directors' report[^c-89a3ed2e638f1ea8985093173f060d51]
 
 (1) The summary financial statement shall contain the whole of, or a summary of, that portion of the directors' report for the year in question which set out the following matters—
 
@@ -308,7 +308,7 @@ Regulation 9
 
 (2) The summary financial statement shall also contain the list of names of directors required by Article 242(2) of the 1986 Order.
 
-### 3. Summary profit and loss account: companies not required to prepare group accounts[^key-517f976fa71d42390465d73e07765be5]
+### 3. Summary profit and loss account: companies not required to prepare group accounts[^c-517f976fa71d42390465d73e07765be5]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary profit and loss account showing, in so far as they may be derived from the full profit and loss account, the items, or combinations of items, listed in sub-paragraph (3), in the order set out in that sub-paragraph.
 
@@ -353,7 +353,7 @@ Regulation 9
 
 (4) The summary profit and loss account shall also show, at the end thereof and under such heading as the directors consider appropriate, the figure required by paragraph 1(1) of Part I of Schedule 6 to the 1986 Order (directors' emoluments).
 
-### 4. Summary profit and loss account: companies required to prepare group accounts[^key-bd01f7c264258326cb33b11355ec522e]
+### 4. Summary profit and loss account: companies required to prepare group accounts[^c-bd01f7c264258326cb33b11355ec522e]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are required to prepare group accounts for the financial year, a summary consolidated profit and loss account showing the items, or combinations of items required by paragraph 3, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the modifications specified in sub-paragraph (2).
 
@@ -363,7 +363,7 @@ Regulation 9
 - (b) between the information required by paragraph 3(3)(*g*) and that required by paragraph 3(3)(*h*) there shall in addition be shown, under such heading as the directors consider appropriate, the item “Minority interests” required to be shown in the Schedule 9 formats by paragraph 17(3) of Schedule 4A to the 1986 Order as adapted by paragraph 3(3) of Part II of Schedule 9 to that Order; and
 - (c) the figures required by paragraph 3(3)(*h*) and (*i*) shall each be shown after the deduction or the addition (as the case may be) of the item “Minority interests” required to be shown in the Schedule 9 formats by paragraph 17(4) of Schedule 4A to the 1986 Order as adapted by paragraph 3(4) of Part II of Schedule 9 to that Order.
 
-### 5. Summary balance sheet: companies not required to prepare group accounts[^key-f5879a89ba82eff6f3ee4176fc052002]
+### 5. Summary balance sheet: companies not required to prepare group accounts[^c-f5879a89ba82eff6f3ee4176fc052002]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary balance sheet which shall show, in so far as they may be derived from the full balance sheet, the items, or combinations of items, set out in sub-paragraph (2), in the order set out in that sub-paragraph and under such headings as the directors consider appropriate.
 
@@ -400,13 +400,13 @@ Regulation 9
 - (p) commitments:
   - item 2 under the heading “MEMORANDUM ITEMS”.
 
-### 6. Summary balance sheet: companies required to prepare group accounts[^key-48416cc733108d9ba244a26101d3e55a]
+### 6. Summary balance sheet: companies required to prepare group accounts[^c-48416cc733108d9ba244a26101d3e55a]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are required to prepare group accounts for the financial year, a summary consolidated balance sheet showing the items required by paragraph 5, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the addition specified in sub-paragraph (2).
 
 (2) Between the items required by paragraph 5(2)(*l*) and (*m*) or after the item required by paragraph 5(2)(*m*) (whichever is the position adopted for the full accounts), there shall in addition be shown under an appropriate heading the item “Minority interests” required to be shown in the Schedule 9 format by paragraph 17(2) of Schedule 4A to the 1986 Order, as adapted by paragraph 3(2) of Part II of Schedule 9 to the 1986 Order.
 
-### 7. Corresponding amounts[^key-a14832080ebb38b5ce7a2e149f889d23]
+### 7. Corresponding amounts[^c-a14832080ebb38b5ce7a2e149f889d23]
 
 In respect of every item shown in the summary profit and loss account or summary consolidated profit and loss account (as the case may be), or in the summary balance sheet or summary consolidated balance sheet (as the case may be) the corresponding amount shall be shown for the immediately preceding financial year; for this purpose “the corresponding amount” is the amount shown in the summary financial statement for that year or which would have been so shown had such a statement been prepared for that year, after any adjustments necessary to ensure that that amount is comparable with the item for the financial year in question.
 
@@ -414,19 +414,19 @@ In respect of every item shown in the summary profit and loss account or summary
 
 Regulation 10
 
-### 1. Application of Schedule[^key-96c785f5779e9698c6986151b1f3eb67]
+### 1. Application of Schedule[^c-96c785f5779e9698c6986151b1f3eb67]
 
 (1) Paragraphs 2 to 8 apply where the full annual accounts for the financial year have been prepared under Part VIII of the 1986 Order as amended by the Companies (1986 Order) (Insurance Companies Accounts) Regulations (Northern Ireland) 1994[^f00014].
 
 (2) Paragraphs 2 and 3 and 8 to 11 apply where the full annual accounts for the financial year have been prepared under the transitional arrangements (as defined in paragraph 9(1)).
 
-### 2. Form of summary financial statement[^key-af583dbc848670922e50d7837d7755a5]
+### 2. Form of summary financial statement[^c-af583dbc848670922e50d7837d7755a5]
 
 (1) The summary financial statement shall contain the information prescribed by the following paragraphs, in such order and under such headings as the directors consider appropriate, together with any other information necessary to ensure that the summary financial statement is consistent with the full accounts and reports for the financial year in question.
 
 (2) Nothing in this Schedule shall be construed as prohibiting the inclusion in the summary financial statement of any additional information derived from the company’s annual accounts and the directors' report.
 
-### 3. Summary directors' report[^key-3f39f1c84137789ce3555fcfb36bab73]
+### 3. Summary directors' report[^c-3f39f1c84137789ce3555fcfb36bab73]
 
 (1) The summary financial statement shall contain the whole of, or a summary of, that portion of the directors' report for the year in question which sets out the following matters—
 
@@ -437,7 +437,7 @@ Regulation 10
 
 (2) The summary financial statement shall also contain the list of names of directors required by Article 242(2) of the 1986 Order.
 
-### 4. Summary profit and loss account: companies not required to prepare group accounts[^key-b119d5c438639128cf7dcf84544a9652]
+### 4. Summary profit and loss account: companies not required to prepare group accounts[^c-b119d5c438639128cf7dcf84544a9652]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary profit and loss account showing, in so far as they may be derived from the full profit and loss account, the items, or combination of items, listed in sub-paragraph (3), in the order set out in that sub-paragraph.
 
@@ -479,7 +479,7 @@ Regulation 10
 
 (4) The summary profit and loss account shall also show, at the end thereof and under such headings as the directors consider appropriate, the figure required by paragraph 1(1) of Part I of Schedule 6 to the 1986 Order (directors' emoluments).
 
-### 5. Summary profit and loss account: companies required to prepare group accounts[^key-71e7fc42492479f309de1afd29f5ffa0]
+### 5. Summary profit and loss account: companies required to prepare group accounts[^c-71e7fc42492479f309de1afd29f5ffa0]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are required to prepare group accounts for the financial year, a summary consolidated profit and loss account showing the items, or combinations of items, required by paragraph 4, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the modifications specified in sub-paragraph (2).
 
@@ -489,7 +489,7 @@ Regulation 10
 - (b) between the information required by paragraph 4(3)(*h*) and that required by paragraph 4(3)(*i*) there shall in addition be shown, under such heading as the directors consider appropriate, the item “Minority interests” required to be shown in the Schedule 9A formats by paragraph 17(3) of Schedule 4A to the 1986 Order as adapted by paragraph 1(6)(*c*) of Part II of Schedule 9A to that Order; and
 - (c) the figures required by paragraph 4(3)(*i*) and (*j*) shall each be shown after the deduction or the addition (as the case may be) of the item “Minority interests” required to be shown in the Schedule 9A formats by paragraph 17(4) of Schedule 4A to the 1986 Order as adapted by paragraph 1(6)(*d*) of Part II of Schedule 9A to that Order.
 
-### 6. Summary balance sheet: companies not required to prepare group accounts[^key-30cd13fe0ca7d8f04647b232e2d361a2]
+### 6. Summary balance sheet: companies not required to prepare group accounts[^c-30cd13fe0ca7d8f04647b232e2d361a2]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary balance sheet which shall show, in so far as they may be derived from the full balance sheet, the items, or combinations of items, set out in sub-paragraph (2) in the order of that sub-paragraph and under such headings as the directors consider appropriate.
 
@@ -516,23 +516,23 @@ Regulation 10
   - the aggregate of items E, F, G and H under the heading “LIABILITIES”: and
 - (k) total liabilities under the heading “LIABILITIES”.
 
-### 7. Summary balance sheet: companies required to prepare group accounts[^key-0f40b35655c781fdf5c44806a872da21]
+### 7. Summary balance sheet: companies required to prepare group accounts[^c-0f40b35655c781fdf5c44806a872da21]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are required to prepare group accounts for the financial year, a summary consolidated balance sheet which shall show the items required by paragraph 6, in the order required by that paragraph and under such headings as the directors consider appropriate, but with the addition of the item specified in sub-paragraph (2).
 
 (2) Between the items required by paragraph 6(2)(*d*) and (*e*), there shall in addition be shown under an appropriate heading the item “Minority interests” required to be shown in the Schedule 9A format by paragraph 17(2) of Schedule 4A to the 1986 Order, as adapted by paragraph 1(6)(*b*) of Part II of Schedule 9A to the 1986 Order.
 
-### 8. Corresponding amounts[^key-de3797379d9deee29b9ff983f3c04e3b]
+### 8. Corresponding amounts[^c-de3797379d9deee29b9ff983f3c04e3b]
 
 In respect of every item shown in the summary profit and loss account or summary consolidated profit and loss account (as the case may be), or in the summary balance sheet or summary consolidated balance sheet (as the case may be) the corresponding amount shall be shown for the immediately preceding financial year; for this purpose “the corresponding amount” is the amount shown in the summary financial statement for that year or which would have been so shown had such a statement been prepared for that year, after any adjustments necessary to ensure that that amount is comparable with the item for the financial year in question.
 
-### 9. Transitional arrangements: definition[^key-f84b99e96b125658a1df863f28d46ab8]
+### 9. Transitional arrangements: definition[^c-f84b99e96b125658a1df863f28d46ab8]
 
 (1) In this Schedule “the transitional arrangements” means the transitional arrangements made by regulation 7 of the Companies (1986 Order) (Insurance Companies Accounts) Regulations (Northern Ireland) 1994 with respect to the amendments to the 1986 Order effected by regulations 2 to 5 of those Regulations (which allow annual accounts for a financial year commencing on a date prior to 23rd December 1994 to be prepared under the 1986 Order as in force prior to its amendment by those Regulations).
 
 (2) Where the company is entitled to the exemptions conferred by paragraph 28 of Schedule 9A to the 1986 Order[^f00016] as continued in force under the transitional arrangements (the full accounts having been prepared under the transitional arrangements) and has relied upon them with respect to the full accounts from which the summary financial statement is to be drawn, the summary financial statement shall state that fact.
 
-### 10. Summary profit and loss account under transitional arrangements[^key-76cf181d736869a11ac4e58d37d74a26]
+### 10. Summary profit and loss account under transitional arrangements[^c-76cf181d736869a11ac4e58d37d74a26]
 
 (1) The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary profit and loss account, or, in the case of a company the directors of which are so required, a summary consolidated profit and loss account, showing, in so far as they may be derived from the full profit and loss account, amounts for the items set out in sub-paragraph (2) under such headings as the directors consider appropriate.
 
@@ -546,7 +546,7 @@ In respect of every item shown in the summary profit and loss account or summary
 
 (3) The summary profit and loss account shall also show, at the end thereof and under such heading as the directors consider appropriate, the figure required by paragraph 1(1) of Part I of Schedule 6 to the 1986 Order (directors' emoluments).
 
-### 11. Summary balance sheet under transitional arrangements[^key-131d3ac91369a4d851d6929d34abf8f7]
+### 11. Summary balance sheet under transitional arrangements[^c-131d3ac91369a4d851d6929d34abf8f7]
 
 The summary financial statement shall contain, in the case of a company the directors of which are not required to prepare group accounts for the financial year, a summary balance sheet or, in the case of a company the directors of which are so required, a summary consolidated balance sheet, which shall show, in so far as they may be derived from the full balance sheet, the following items—
 
@@ -580,41 +580,41 @@ The Regulations re-enact the provisions of the 1993 Regulations with minor and d
 
 [^f00003]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
-[^key-31d3f2a02a70ffd8e77294bdfec50e2f]: Commencement: Reg. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-31d3f2a02a70ffd8e77294bdfec50e2f]: Commencement: Reg. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-93bf58db6e36e07fcb91988d394bfbcf]: Commencement: Reg. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-93bf58db6e36e07fcb91988d394bfbcf]: Commencement: Reg. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L86/58 of 20th April 1995
 
-[^key-f9f31b78a30e0d784e82d05f2506c12c]: Commencement: Reg. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-f9f31b78a30e0d784e82d05f2506c12c]: Commencement: Reg. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-ced3a559dfeac388c60697e57acf5ece]: Commencement: Reg. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-ced3a559dfeac388c60697e57acf5ece]: Commencement: Reg. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00005]: Footnote: Article 252 was substituted by Articles 3 and 13 of the Companies (Northern Ireland) Order 1990
 
-[^key-cd1db5a4bf62beab7e8844cced6736d3]: Commencement: Reg. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-cd1db5a4bf62beab7e8844cced6736d3]: Commencement: Reg. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-93087d341b80730ee849b8d909a84b0f]: Commencement: Reg. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-93087d341b80730ee849b8d909a84b0f]: Commencement: Reg. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-ea02b7c81d12ff71bf9c2325bb7cd785]: Commencement: Reg. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-ea02b7c81d12ff71bf9c2325bb7cd785]: Commencement: Reg. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-5210344490928ce299e689531696dacb]: Commencement: Reg. 8 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-5210344490928ce299e689531696dacb]: Commencement: Reg. 8 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-5d67f86b076433d66c1fe620423e8d02]: Commencement: Reg. 9 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-5d67f86b076433d66c1fe620423e8d02]: Commencement: Reg. 9 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-be94f6be519b67a7dd74828b11838333]: Commencement: Reg. 10 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-be94f6be519b67a7dd74828b11838333]: Commencement: Reg. 10 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-fa34bb6ba9ef6371fbbbe1dbede4ebd9]: Commencement: Reg. 11 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-fa34bb6ba9ef6371fbbbe1dbede4ebd9]: Commencement: Reg. 11 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1993 No. 267](https://www.legislation.gov.uk/nisr/1993/267)
 
-[^key-cabfebf8b543d6e90e7a2ae9fe9840b4]: Commencement: Reg. 12 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-cabfebf8b543d6e90e7a2ae9fe9840b4]: Commencement: Reg. 12 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1991 No. 268](https://www.legislation.gov.uk/nisr/1991/268) as amended by [S.R. 1993 No. 267](https://www.legislation.gov.uk/nisr/1993/267)
 
-[^key-f59ac7984c461d070eaac089245d8970]: Commencement: Sch. 1 para. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-f59ac7984c461d070eaac089245d8970]: Commencement: Sch. 1 para. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-257de65fd2d529e02a8b1b321a9ce69f]: Commencement: Sch. 1 para. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-257de65fd2d529e02a8b1b321a9ce69f]: Commencement: Sch. 1 para. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00008]: Footnote: Article 242 was substituted by Articles 3 and 10 of the Companies (Northern Ireland) Order 1990
 
@@ -622,60 +622,60 @@ The Regulations re-enact the provisions of the 1993 Regulations with minor and d
 
 [^f00010]: Footnote: Paragraph 6(*b*) of Schedule 7 was amended by paragraph 2(2) of Schedule 5 to the Companies (Northern Ireland) Order 1990
 
-[^key-34d35e3c2cf813d9f1e7cd2d41df81bd]: Commencement: Sch. 1 para. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-34d35e3c2cf813d9f1e7cd2d41df81bd]: Commencement: Sch. 1 para. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00011]: Footnote: Part I of Schedule 6 to the 1986 Order was originally Part V of Schedule 5 to that Order. A new Schedule 5 was substituted by Articles 3 and 8(2) of, and Schedule 3 to, the Companies (Northern Ireland) Order 1990. Part V of the original Schedule 5 was reproduced, with amendments, as Part I of Schedule 6 by Articles 3 and 8(4) of, and Schedule 4 to, the Companies (Northern Ireland) Order 1990
 
-[^key-2344a07d808e68a871e73964508c8dba]: Commencement: Sch. 1 para. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-2344a07d808e68a871e73964508c8dba]: Commencement: Sch. 1 para. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00012]: Footnote: Schedule 4A was inserted by Articles 3 and 7(2) of, and Schedule 2 to, the Companies (Northern Ireland) Order 1990
 
-[^key-ba2146fb6bb752ad8c3cb403895790b8]: Commencement: Sch. 1 para. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-ba2146fb6bb752ad8c3cb403895790b8]: Commencement: Sch. 1 para. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-8b3dee04f4fab230d2b3fa922c470154]: Commencement: Sch. 1 para. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-8b3dee04f4fab230d2b3fa922c470154]: Commencement: Sch. 1 para. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-3954cb1db97e1feabf813304419fdde2]: Commencement: Sch. 1 para. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-3954cb1db97e1feabf813304419fdde2]: Commencement: Sch. 1 para. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-8e3c9ec5c800bc79ad79759b84c3c144]: Commencement: Sch. 2 para. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-8e3c9ec5c800bc79ad79759b84c3c144]: Commencement: Sch. 2 para. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-89a3ed2e638f1ea8985093173f060d51]: Commencement: Sch. 2 para. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-89a3ed2e638f1ea8985093173f060d51]: Commencement: Sch. 2 para. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-517f976fa71d42390465d73e07765be5]: Commencement: Sch. 2 para. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-517f976fa71d42390465d73e07765be5]: Commencement: Sch. 2 para. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-bd01f7c264258326cb33b11355ec522e]: Commencement: Sch. 2 para. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-bd01f7c264258326cb33b11355ec522e]: Commencement: Sch. 2 para. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00013]: Footnote: A new Schedule 9 was inserted into the 1986 Order by regulation 5 of, and Schedule 1 to, [S.R. 1992 No. 258](https://www.legislation.gov.uk/nisr/1992/258)
 
-[^key-f5879a89ba82eff6f3ee4176fc052002]: Commencement: Sch. 2 para. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-f5879a89ba82eff6f3ee4176fc052002]: Commencement: Sch. 2 para. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-48416cc733108d9ba244a26101d3e55a]: Commencement: Sch. 2 para. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-48416cc733108d9ba244a26101d3e55a]: Commencement: Sch. 2 para. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-a14832080ebb38b5ce7a2e149f889d23]: Commencement: Sch. 2 para. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-a14832080ebb38b5ce7a2e149f889d23]: Commencement: Sch. 2 para. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-96c785f5779e9698c6986151b1f3eb67]: Commencement: Sch. 3 para. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-96c785f5779e9698c6986151b1f3eb67]: Commencement: Sch. 3 para. 1 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00014]: Footnote: [S.R. 1994 No. 428](https://www.legislation.gov.uk/nisr/1994/428)
 
-[^key-af583dbc848670922e50d7837d7755a5]: Commencement: Sch. 3 para. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-af583dbc848670922e50d7837d7755a5]: Commencement: Sch. 3 para. 2 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-3f39f1c84137789ce3555fcfb36bab73]: Commencement: Sch. 3 para. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-3f39f1c84137789ce3555fcfb36bab73]: Commencement: Sch. 3 para. 3 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-b119d5c438639128cf7dcf84544a9652]: Commencement: Sch. 3 para. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-b119d5c438639128cf7dcf84544a9652]: Commencement: Sch. 3 para. 4 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-71e7fc42492479f309de1afd29f5ffa0]: Commencement: Sch. 3 para. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-71e7fc42492479f309de1afd29f5ffa0]: Commencement: Sch. 3 para. 5 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00015]: Footnote: Parts I and II of Schedule 9 to the 1986 Order were formed into a new Schedule 9A by regulation 5(1) of [S.R. 1992 No. 258](https://www.legislation.gov.uk/nisr/1992/258). A new Schedule 9A was substituted by regulation 4 of, and Schedule 1 to, [S.R. 1994 No. 428](https://www.legislation.gov.uk/nisr/1994/428)
 
-[^key-30cd13fe0ca7d8f04647b232e2d361a2]: Commencement: Sch. 3 para. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-30cd13fe0ca7d8f04647b232e2d361a2]: Commencement: Sch. 3 para. 6 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-0f40b35655c781fdf5c44806a872da21]: Commencement: Sch. 3 para. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-0f40b35655c781fdf5c44806a872da21]: Commencement: Sch. 3 para. 7 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-de3797379d9deee29b9ff983f3c04e3b]: Commencement: Sch. 3 para. 8 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-de3797379d9deee29b9ff983f3c04e3b]: Commencement: Sch. 3 para. 8 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-f84b99e96b125658a1df863f28d46ab8]: Commencement: Sch. 3 para. 9 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-f84b99e96b125658a1df863f28d46ab8]: Commencement: Sch. 3 para. 9 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
 [^f00016]: Footnote: Paragraph 28 in Part I of Schedule 9 (now 9A) to the 1986 Order was amended by paragraph 9 of Schedule 7 to the Companies (Northern Ireland) Order 1990
 
-[^key-76cf181d736869a11ac4e58d37d74a26]: Commencement: Sch. 3 para. 10 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-76cf181d736869a11ac4e58d37d74a26]: Commencement: Sch. 3 para. 10 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
 
-[^key-131d3ac91369a4d851d6929d34abf8f7]: Commencement: Sch. 3 para. 11 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)
+[^c-131d3ac91369a4d851d6929d34abf8f7]: Commencement: Sch. 3 para. 11 in operation at 10.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/179/regulation/1)

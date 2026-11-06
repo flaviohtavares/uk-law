@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Other claimants with incapacity for work: credits only cases where claimant is approaching pensionable age[^key-76b661bfa1612f03b2aaeb1273e29047]
+## 27. Other claimants with incapacity for work: credits only cases where claimant is approaching pensionable age[^c-76b661bfa1612f03b2aaeb1273e29047]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76b661bfa1612f03b2aaeb1273e29047]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/226/regulation/27) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-76b661bfa1612f03b2aaeb1273e29047]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/226/regulation/27) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

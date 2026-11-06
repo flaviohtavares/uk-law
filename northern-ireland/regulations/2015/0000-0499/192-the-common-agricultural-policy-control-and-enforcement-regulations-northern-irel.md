@@ -62,13 +62,13 @@ The Department of Agriculture and Rural Development makes the following Regulati
 - “**Regulation (EU) No. 1305/2013**” means Regulation (EU) No. 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development [^c22500361];
 - “**area-related aid schemes**” has the meaning given in Article 2(20) of the Horizontal Delegated Regulation;
 - “**authorised person**” means a person authorised in writing by the Department for the purposes of these Regulations;
-- “direct payment” has the meaning given in Article 1 of the Direct Payments Regulation (EU) No. 1307/2013[^key-cfcf87bf02621f14edecd5c3f034a77c];
+- “direct payment” has the meaning given in Article 1 of the Direct Payments Regulation (EU) No. 1307/2013[^c-cfcf87bf02621f14edecd5c3f034a77c];
 - “**beneficiary**” has the meaning given by sub-paragraph (1) of Article 2(1) of the Horizontal Delegated Regulation;
 - “**the Department**” means the Department of Agriculture and Rural Development;
 - “**proper address**” means that person's last known address;
 - “**single application**” means an application for direct payments in relation to area-related aid schemes.
 
-(3A)[^key-0ba7bb7ae7fa82ee87cb29b91f889607] References in these Regulations to the Horizontal Delegated Regulation, the Horizontal Implementing Regulation and the Horizontal Regulation are, to the extent that they relate to the direct payments for claim year 2020, references to those Regulations as they exist in domestic law.
+(3A)[^c-0ba7bb7ae7fa82ee87cb29b91f889607] References in these Regulations to the Horizontal Delegated Regulation, the Horizontal Implementing Regulation and the Horizontal Regulation are, to the extent that they relate to the direct payments for claim year 2020, references to those Regulations as they exist in domestic law.
 
 (4) Other terms used in these Regulations that are also used in any of the European Regulations have the meaning they bear in those Regulations.
 
@@ -121,7 +121,7 @@ may be set off against the amount of any sum recoverable by the Department under
 
 (2) An authorised person, on producing, if so required, a duly authenticated document showing that person's authority, may at any reasonable hour enter any land or premises other than premises used solely as a private dwelling.
 
-(3)[^key-a435e5e210e2c61ee5342536fe83b39f] An authorised person entering any land or premises by virtue of this regulation may be accompanied by—
+(3)[^c-a435e5e210e2c61ee5342536fe83b39f] An authorised person entering any land or premises by virtue of this regulation may be accompanied by—
 
 - (a) any representative of the European Commission, except for matters relating to direct payments for any claim year following 31st December 2019; and
 - (b) such other persons as the authorised person considers necessary for any purpose mentioned in paragraph (1).
@@ -206,9 +206,9 @@ Commission Implementing Regulation (EU) No. 808/2014 laying down rules for the a
 
 Commission Regulation (EU) No. 1305/2013 relating to support for rural development by the European Agricultural Fund for Rural Development.
 
-Commission Delegated Regulation ([^key-d7bec9c46d0a2c0400e075d636936e64]EU) 2016/1613 providing for exceptional adjustment aid to milk producers and farmers in other livestock sectors
+Commission Delegated Regulation ([^c-d7bec9c46d0a2c0400e075d636936e64]EU) 2016/1613 providing for exceptional adjustment aid to milk producers and farmers in other livestock sectors
 
-Commission Implementing Regulation ([^key-34e5fd2fdb71d3ecc7a0bdc055e4eaa8]EU) 2017/39 on rules for the application of Regulation (EU) No 1308/2013 of the European parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments
+Commission Implementing Regulation ([^c-34e5fd2fdb71d3ecc7a0bdc055e4eaa8]EU) 2017/39 on rules for the application of Regulation (EU) No 1308/2013 of the European parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments
 
 Commission Delegated Regulation (EU) 2017/40 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014
 
@@ -252,16 +252,16 @@ Regulation 11 establishes offences and penalties for any person obstructing, fai
 
 [^c22500361]: Marginal citation: O.J. No. L 347, 20.12.2013, p.487, amended by Regulation (EU) No. 1310/2013 of the European Parliament and of the Council (O.J. No. L. 347, 20.12.2013, p.865).
 
-[^key-cfcf87bf02621f14edecd5c3f034a77c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/192/regulation/1/3) substituted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2020/22/regulation/3/2/a)
+[^c-cfcf87bf02621f14edecd5c3f034a77c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/192/regulation/1/3) substituted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2020/22/regulation/3/2/a)
 
-[^key-0ba7bb7ae7fa82ee87cb29b91f889607]: Textual amendment: [Reg. 1(3A)](https://www.legislation.gov.uk/nisr/2015/192/regulation/1/3A) inserted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2020/22/regulation/3/2/b)
+[^c-0ba7bb7ae7fa82ee87cb29b91f889607]: Textual amendment: [Reg. 1(3A)](https://www.legislation.gov.uk/nisr/2015/192/regulation/1/3A) inserted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2020/22/regulation/3/2/b)
 
 [^c22500371]: Marginal citation: 1971, c.80.
 
 [^c22500381]: Marginal citation: 1998, c.11
 
-[^key-a435e5e210e2c61ee5342536fe83b39f]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2015/192/regulation/7/3) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [5](https://www.legislation.gov.uk/nisr/2020/324/regulation/5)
+[^c-a435e5e210e2c61ee5342536fe83b39f]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2015/192/regulation/7/3) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [5](https://www.legislation.gov.uk/nisr/2020/324/regulation/5)
 
-[^key-d7bec9c46d0a2c0400e075d636936e64]: Textual amendment: Words in Sch. inserted (22.5.2017) by [The Single Common Market Organisation (Emergency Aid) (England and Northern Ireland) Regulations 2017 (S.I. 2017/599)](https://www.legislation.gov.uk/uksi/2017/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/599/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/2)
+[^c-d7bec9c46d0a2c0400e075d636936e64]: Textual amendment: Words in Sch. inserted (22.5.2017) by [The Single Common Market Organisation (Emergency Aid) (England and Northern Ireland) Regulations 2017 (S.I. 2017/599)](https://www.legislation.gov.uk/uksi/2017/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/599/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/2)
 
-[^key-34e5fd2fdb71d3ecc7a0bdc055e4eaa8]: Textual amendment: Words in Sch. inserted (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/734/regulation/6/4)
+[^c-34e5fd2fdb71d3ecc7a0bdc055e4eaa8]: Textual amendment: Words in Sch. inserted (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/734/regulation/6/4)

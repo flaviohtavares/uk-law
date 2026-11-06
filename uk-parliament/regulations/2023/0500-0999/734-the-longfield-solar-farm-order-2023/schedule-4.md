@@ -22,7 +22,7 @@ summary: ''
 
 Article 8
 
-### 1. Interpretation[^key-17424b4d2bfc91fcf0f3c4070b3f8e0a]
+### 1. Interpretation[^c-17424b4d2bfc91fcf0f3c4070b3f8e0a]
 
 In this Schedule—
 
@@ -53,4 +53,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-17424b4d2bfc91fcf0f3c4070b3f8e0a]: Commencement: Sch. 4 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-17424b4d2bfc91fcf0f3c4070b3f8e0a]: Commencement: Sch. 4 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

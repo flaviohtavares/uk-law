@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Space activity: limit on indemnity required[^key-d60e01d94517cc3b86a00ffd5b39ae56]
+## 12. Space activity: limit on indemnity required[^c-d60e01d94517cc3b86a00ffd5b39ae56]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d60e01d94517cc3b86a00ffd5b39ae56]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2015/20/section/12) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
+[^c-d60e01d94517cc3b86a00ffd5b39ae56]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2015/20/section/12) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)

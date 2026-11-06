@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.19. Service of appeal notice[^key-4bb4caf0b33a0c12cd0c2f64a1df7f94]
+## 50.19. Service of appeal notice[^c-4bb4caf0b33a0c12cd0c2f64a1df7f94]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4bb4caf0b33a0c12cd0c2f64a1df7f94]: Commencement: [Rule 50.19](https://www.legislation.gov.uk/uksi/2025/909/rule/50.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4bb4caf0b33a0c12cd0c2f64a1df7f94]: Commencement: [Rule 50.19](https://www.legislation.gov.uk/uksi/2025/909/rule/50.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01357]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 108 was amended by paragraphs 10 and 12 of Schedule 20 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 108 was further amended, and sections 26, 28, 103, 105 and 110 were amended, by section 160 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 

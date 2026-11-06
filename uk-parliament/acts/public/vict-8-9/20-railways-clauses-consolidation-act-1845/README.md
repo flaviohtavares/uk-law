@@ -31,7 +31,7 @@ Railways Clauses Consolidation Act 1845
 
 An Act for consolidating in One Act certain Provisions usually inserted in Acts authorizing the making of Railways.
 
-\[8th May 1845\] [^c6403411][^c6403421][^c6403431][^c6403441][^c6403451][^c6403461][^c6403471][^c6403481][^c6403491][^c6403501][^c6403511][^c6403521][^c6403531][^c6403541][^c6403551][^c6403561][^key-0ed9c56cf0cabf696bfbaf0494641389][^key-1ad988e5023594767a56f01e634c84de][^key-e620dd72a49053ff3f84e64a50e9be4d]
+\[8th May 1845\] [^c6403411][^c6403421][^c6403431][^c6403441][^c6403451][^c6403461][^c6403471][^c6403481][^c6403491][^c6403501][^c6403511][^c6403521][^c6403531][^c6403541][^c6403551][^c6403561][^c-0ed9c56cf0cabf696bfbaf0494641389][^c-1ad988e5023594767a56f01e634c84de][^c-e620dd72a49053ff3f84e64a50e9be4d]
 
 ## Contents
 
@@ -390,11 +390,11 @@ And with respect to the provision to be made for affording access to the special
 
 [^c6403561]: Modification: Act applied (26.7.1994) by S.I. 1994//1803, art. 11(7)
 
-[^key-0ed9c56cf0cabf696bfbaf0494641389]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/8-9/20) incorporated in part (with modifications) (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/3) (with [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/12))
+[^c-0ed9c56cf0cabf696bfbaf0494641389]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/8-9/20) incorporated in part (with modifications) (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/11/paragraph/3) (with [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/12))
 
-[^key-1ad988e5023594767a56f01e634c84de]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/8-9/20) excluded (E.W.) (13.11.2012) by [The Chiltern Railways (Bicester to Oxford Improvements) Order 2012 (S.I. 2012/2679)](https://www.legislation.gov.uk/uksi/2012/2679), [art. 17(1)](https://www.legislation.gov.uk/uksi/2012/2679/article/17/1)[(2)](https://www.legislation.gov.uk/uksi/2012/2679/article/17/2) (with [art. 42(2)](https://www.legislation.gov.uk/uksi/2012/2679/article/42/2))
+[^c-1ad988e5023594767a56f01e634c84de]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/8-9/20) excluded (E.W.) (13.11.2012) by [The Chiltern Railways (Bicester to Oxford Improvements) Order 2012 (S.I. 2012/2679)](https://www.legislation.gov.uk/uksi/2012/2679), [art. 17(1)](https://www.legislation.gov.uk/uksi/2012/2679/article/17/1)[(2)](https://www.legislation.gov.uk/uksi/2012/2679/article/17/2) (with [art. 42(2)](https://www.legislation.gov.uk/uksi/2012/2679/article/42/2))
 
-[^key-e620dd72a49053ff3f84e64a50e9be4d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/8-9/20): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-e620dd72a49053ff3f84e64a50e9be4d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/8-9/20): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c6404711]: Editorial: Ss. 77-85 as originally enacted are set out following s. 85E below
 

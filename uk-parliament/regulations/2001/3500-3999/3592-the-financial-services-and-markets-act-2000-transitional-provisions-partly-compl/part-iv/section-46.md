@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Notice of revocation of authorisation of unit trust scheme[^key-ab1ecdcc0b5ae00e3252a7a988c44781]
+## 46. Notice of revocation of authorisation of unit trust scheme[^c-ab1ecdcc0b5ae00e3252a7a988c44781]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the notices have effect after commencement as warning notices given under sectio
 
 ## Annotations
 
-[^key-ab1ecdcc0b5ae00e3252a7a988c44781]: Commencement: Art. 46 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ab1ecdcc0b5ae00e3252a7a988c44781]: Commencement: Art. 46 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

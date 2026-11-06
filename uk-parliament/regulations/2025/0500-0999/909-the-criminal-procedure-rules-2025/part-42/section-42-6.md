@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.6. Hearing by single judge[^key-8353180a41f19c85e558fc4888056d65]
+## 42.6. Hearing by single judge[^c-8353180a41f19c85e558fc4888056d65]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Rule 36.6(6) (Hearings) applies in relation to a judge exercising any of the pow
 
 ## Annotations
 
-[^key-8353180a41f19c85e558fc4888056d65]: Commencement: [Rule 42.6](https://www.legislation.gov.uk/uksi/2025/909/rule/42.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8353180a41f19c85e558fc4888056d65]: Commencement: [Rule 42.6](https://www.legislation.gov.uk/uksi/2025/909/rule/42.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00991]: Footnote: [S.I. 2003/82](https://www.legislation.gov.uk/uksi/2003/82).
 

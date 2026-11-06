@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Video recorded cross-examination or re-examination[^key-d9982d49011b14b62ce9a13f8f6b5794]
+## 80A. Video recorded cross-examination or re-examination[^c-d9982d49011b14b62ce9a13f8f6b5794]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9982d49011b14b62ce9a13f8f6b5794]: Textual amendment: Rule 80A inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [23](https://www.legislation.gov.uk/uksi/2022/605/rule/23)
+[^c-d9982d49011b14b62ce9a13f8f6b5794]: Textual amendment: Rule 80A inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [23](https://www.legislation.gov.uk/uksi/2022/605/rule/23)

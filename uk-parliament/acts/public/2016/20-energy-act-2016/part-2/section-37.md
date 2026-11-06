@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Meetings: interpretation[^key-aa2b3d775921eb06b106947bb423c2a5]
+## 37. Meetings: interpretation[^c-aa2b3d775921eb06b106947bb423c2a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ but does not include anything in respect of which a claim to legal professional 
 
 ## Annotations
 
-[^key-aa2b3d775921eb06b106947bb423c2a5]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/20/section/37) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-aa2b3d775921eb06b106947bb423c2a5]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/20/section/37) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Scheme of Part 15 of the Companies Act 2006 as applied to LLPs[^key-6a2e2cdb1c82eeaadde56d2dc83a2a43]
+## 4. Scheme of Part 15 of the Companies Act 2006 as applied to LLPs[^c-6a2e2cdb1c82eeaadde56d2dc83a2a43]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a2e2cdb1c82eeaadde56d2dc83a2a43]: Commencement: Reg. 4 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-6a2e2cdb1c82eeaadde56d2dc83a2a43]: Commencement: Reg. 4 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

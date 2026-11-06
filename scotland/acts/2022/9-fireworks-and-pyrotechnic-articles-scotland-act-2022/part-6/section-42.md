@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Offence of obstructing officer of a local weights and measures authority[^key-90637aec4f84b6760c5ded8e7e6af376]
+## 42. Offence of obstructing officer of a local weights and measures authority[^c-90637aec4f84b6760c5ded8e7e6af376]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90637aec4f84b6760c5ded8e7e6af376]: Commencement: S. 42 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-90637aec4f84b6760c5ded8e7e6af376]: Commencement: S. 42 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

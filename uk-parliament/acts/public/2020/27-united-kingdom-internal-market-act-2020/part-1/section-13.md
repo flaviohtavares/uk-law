@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duty to review the use of Part 1 amendment powers[^key-2828a61d504d1590b56c37103431f79c]
+## 13. Duty to review the use of Part 1 amendment powers[^c-2828a61d504d1590b56c37103431f79c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2828a61d504d1590b56c37103431f79c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/27/section/13) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-2828a61d504d1590b56c37103431f79c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/27/section/13) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — Amendments to the Teachers' Superannuation (Additional Voluntary Contributions) Regulations 1994 ...[^key-d4c00eb2aff8f23efa2b0a31f6372dee]
+## SCHEDULE 11 — Amendments to the Teachers' Superannuation (Additional Voluntary Contributions) Regulations 1994 ...[^c-d4c00eb2aff8f23efa2b0a31f6372dee]
 
 *Extent: E+W+S*
 
@@ -73,39 +73,39 @@ Regulation 138(1)
 
 **9.** In regulation 16(3) for “E20(7) of the 1997” Regulations substitute “ 82 of the 2010 Regulations ”.
 
-### PART 2 — The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 1997[^key-95d18a1d5415416b3d3a9038732d9620]
+### PART 2 — The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 1997[^c-95d18a1d5415416b3d3a9038732d9620]
 
 **No longer in force.**
 
-**10.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-95d18a1d5415416b3d3a9038732d9620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4c00eb2aff8f23efa2b0a31f6372dee]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/uksi/2010/990/schedule/11) heading omitted (1.4.2015) by virtue of [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(e)(i)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/e/i) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-d4c00eb2aff8f23efa2b0a31f6372dee]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/uksi/2010/990/schedule/11) heading omitted (1.4.2015) by virtue of [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(e)(i)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/e/i) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
 
 [^c20238341]: Marginal citation: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30)
 
@@ -129,4 +129,4 @@ Regulation 138(1)
 
 [^c20238441]: Marginal citation: [Regulation 13A](https://www.legislation.gov.uk/uksi/2010/990/regulation/13A) was inserted by [S.I. 2000/3028](https://www.legislation.gov.uk/uksi/2000/3028).
 
-[^key-95d18a1d5415416b3d3a9038732d9620]: Textual amendment: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2010/990/schedule/11/part/2) omitted (1.4.2015) by virtue of [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(e)(ii)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/e/ii) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-95d18a1d5415416b3d3a9038732d9620]: Textual amendment: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2010/990/schedule/11/part/2) omitted (1.4.2015) by virtue of [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(e)(ii)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/e/ii) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))

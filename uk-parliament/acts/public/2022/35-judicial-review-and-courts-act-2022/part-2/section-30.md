@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Power to make consequential or supplementary provision[^key-e5298bae69fb976e7f7264ec22d964fb][^key-778d0cdd7c4e3ac72ff865804b3829dc]
+## 30. Power to make consequential or supplementary provision[^c-e5298bae69fb976e7f7264ec22d964fb][^c-778d0cdd7c4e3ac72ff865804b3829dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5298bae69fb976e7f7264ec22d964fb]: Commencement: S. 30 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-e5298bae69fb976e7f7264ec22d964fb]: Commencement: S. 30 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-778d0cdd7c4e3ac72ff865804b3829dc]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/35/section/30) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-778d0cdd7c4e3ac72ff865804b3829dc]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/35/section/30) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

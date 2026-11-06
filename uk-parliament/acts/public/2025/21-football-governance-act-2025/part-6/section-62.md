@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Distribution orders[^key-f32604d5267e14590cb7722971d1c199][^key-ca6c6477b22bd22c8b78bdb4221c03e0]
+## 62. Distribution orders[^c-f32604d5267e14590cb7722971d1c199][^c-ca6c6477b22bd22c8b78bdb4221c03e0]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ See also section 7 (in particular the IFR’s general duty to exercise its funct
 
 ## Annotations
 
-[^key-f32604d5267e14590cb7722971d1c199]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-f32604d5267e14590cb7722971d1c199]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-ca6c6477b22bd22c8b78bdb4221c03e0]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2025/21/section/62) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/vii)
+[^c-ca6c6477b22bd22c8b78bdb4221c03e0]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2025/21/section/62) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/vii)

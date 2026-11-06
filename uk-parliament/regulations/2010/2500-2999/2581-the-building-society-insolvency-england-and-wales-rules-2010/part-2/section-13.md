@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Certificate of compliance[^key-fd04de9c432b6733f00ad6172ab9b266]
+## 13. Certificate of compliance[^c-fd04de9c432b6733f00ad6172ab9b266]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd04de9c432b6733f00ad6172ab9b266]: Commencement: Rule 13 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fd04de9c432b6733f00ad6172ab9b266]: Commencement: Rule 13 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00012]: Footnote: Paragraph (2) was amended by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).

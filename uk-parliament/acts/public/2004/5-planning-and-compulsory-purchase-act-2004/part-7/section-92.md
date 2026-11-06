@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-541d6882622eb735f719d6f968c07fda][^key-04a2c5146e5ac4724160d048ffe20a31] In the Town and Country Planning (Scotland) Act 1997 (c. 8), before section 243 (control of development on Crown land: special enforcement notices) there is inserted the following section—
+(1)[^c-541d6882622eb735f719d6f968c07fda][^c-04a2c5146e5ac4724160d048ffe20a31] In the Town and Country Planning (Scotland) Act 1997 (c. 8), before section 243 (control of development on Crown land: special enforcement notices) there is inserted the following section—
 
 > **242A. Urgent Crown development: application**
 >
@@ -60,14 +60,14 @@ summary: ''
 >
 > (11) Subsections (4) to (7) of section 46 apply to an application under this section as they apply to an application in respect of which a direction under section 46 has effect.
 
-(2)[^key-4636ceb115ad4b4ba7d30140ea4b5b98] In section 237 of that Act, (validity of certain matters) in subsection (3) at the end there is added the following paragraph—
+(2)[^c-4636ceb115ad4b4ba7d30140ea4b5b98] In section 237 of that Act, (validity of certain matters) in subsection (3) at the end there is added the following paragraph—
 
 > - (i) any decision on an application for planning permission under section 242A.
 
 ## Annotations
 
-[^key-541d6882622eb735f719d6f968c07fda]: Commencement: S. 92(1) in force at 20.3.2006 for specified purposes by [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2)
+[^c-541d6882622eb735f719d6f968c07fda]: Commencement: S. 92(1) in force at 20.3.2006 for specified purposes by [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2)
 
-[^key-04a2c5146e5ac4724160d048ffe20a31]: Commencement: S. 92(1) in force at 11.5.2006 in so far as not already in force by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
+[^c-04a2c5146e5ac4724160d048ffe20a31]: Commencement: S. 92(1) in force at 11.5.2006 in so far as not already in force by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
 
-[^key-4636ceb115ad4b4ba7d30140ea4b5b98]: Commencement: S. 92(2) in force at 11.5.2006 by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
+[^c-4636ceb115ad4b4ba7d30140ea4b5b98]: Commencement: S. 92(2) in force at 11.5.2006 by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)

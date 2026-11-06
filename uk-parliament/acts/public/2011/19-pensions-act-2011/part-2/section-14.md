@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Transitional period for defined benefits and hybrid schemes to be optional[^c2114368][^key-c80d7796961593cd180302c86dc07d24]
+## 14. Transitional period for defined benefits and hybrid schemes to be optional[^c2114368][^c-c80d7796961593cd180302c86dc07d24]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2114368]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-c80d7796961593cd180302c86dc07d24]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/19/section/14) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/d)
+[^c-c80d7796961593cd180302c86dc07d24]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/19/section/14) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/d)

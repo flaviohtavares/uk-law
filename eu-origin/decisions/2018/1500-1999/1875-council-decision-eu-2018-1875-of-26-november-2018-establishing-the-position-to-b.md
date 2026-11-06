@@ -33,32 +33,32 @@ of 26 November 2018
 
 establishing the position to be adopted on behalf of the European Union within the Committee of Technical Experts of the Intergovernmental Organisation for International Carriage by Rail (OTIF) as regards certain amendments to the Uniform Technical Prescriptions — General Provisions — Subsystems (UTP GEN-B) and the Uniform Technical Prescriptions — Telematics applications for freight services (UTP TAF) (revoked)
 
-[^key-369a76cc93dfb3ec8d3e44ac2314ed80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-369a76cc93dfb3ec8d3e44ac2314ed80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-369a76cc93dfb3ec8d3e44ac2314ed80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-369a76cc93dfb3ec8d3e44ac2314ed80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-369a76cc93dfb3ec8d3e44ac2314ed80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-369a76cc93dfb3ec8d3e44ac2314ed80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-369a76cc93dfb3ec8d3e44ac2314ed80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-369a76cc93dfb3ec8d3e44ac2314ed80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-369a76cc93dfb3ec8d3e44ac2314ed80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-369a76cc93dfb3ec8d3e44ac2314ed80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ATTACHMENT — Proposed amendments for adoption in written procedure by the Committee of Technical Experts of OTIF[^key-369a76cc93dfb3ec8d3e44ac2314ed80]
+## ATTACHMENT — Proposed amendments for adoption in written procedure by the Committee of Technical Experts of OTIF[^c-369a76cc93dfb3ec8d3e44ac2314ed80]
 
-[^key-369a76cc93dfb3ec8d3e44ac2314ed80]1.
+[^c-369a76cc93dfb3ec8d3e44ac2314ed80]1.
 
 To vote positively on the CTE proposed amendments to points 2.1, 2.2 and 2.3 of the Uniform Technical Prescriptions UTP GEN B as found in the CTE Working Document TECH-18010-CTE11-5 and outlined below:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-369a76cc93dfb3ec8d3e44ac2314ed80]2.
+[^c-369a76cc93dfb3ec8d3e44ac2314ed80]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-369a76cc93dfb3ec8d3e44ac2314ed80]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-369a76cc93dfb3ec8d3e44ac2314ed80]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

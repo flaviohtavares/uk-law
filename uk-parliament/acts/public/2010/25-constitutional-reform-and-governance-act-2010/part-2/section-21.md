@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Extension of 21 sitting day period[^key-bcb6dc2dc25b50220e742cf731f84fba]
+## 21. Extension of 21 sitting day period[^c-bcb6dc2dc25b50220e742cf731f84fba]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcb6dc2dc25b50220e742cf731f84fba]: Commencement: S. 21 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)
+[^c-bcb6dc2dc25b50220e742cf731f84fba]: Commencement: S. 21 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)

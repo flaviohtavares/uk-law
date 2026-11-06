@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Average weekly earnings of employed earners[^key-0b38fc3db17028b8b16d4e1d192a93eb]
+## 19. Average weekly earnings of employed earners[^c-0b38fc3db17028b8b16d4e1d192a93eb]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where the income of a relevant person consists of or includes earnings from empl
 
 ## Annotations
 
-[^key-0b38fc3db17028b8b16d4e1d192a93eb]: Commencement: Reg. 19 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-0b38fc3db17028b8b16d4e1d192a93eb]: Commencement: Reg. 19 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

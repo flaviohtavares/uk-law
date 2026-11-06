@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Notwithstanding anything in sections 29 to 29B[^key-b46e4068af19fc0e26c45eb6e6421f56] of this Act, the instrument of government of a designated institution to which this section applies must provide—
+(1) Notwithstanding anything in sections 29 to 29B[^c-b46e4068af19fc0e26c45eb6e6421f56] of this Act, the instrument of government of a designated institution to which this section applies must provide—
 
 - (a) for the governing body of the institution to include persons appointed for the purpose of securing so far as practicable that the established character of the institution at the time of its designation is preserved and developed and, in particular, that the institution is conducted in accordance with any trust deed relating to it, and
 - (b) for the majority of members of the governing body to be such governors.
@@ -38,4 +38,4 @@ summary: ''
 
 [^c11063501]: Textual amendment: S. 30 substituted (1.10.2000 for E. and 1.4.2001 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 143(2)](https://www.legislation.gov.uk/ukpga/2000/21/section/143/2) (with [s. 150](https://www.legislation.gov.uk/ukpga/2000/21/section/150)); [S.I. 2000/2559](https://www.legislation.gov.uk/uksi/2000/2559), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2559/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2559/schedule/part/I); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I)
 
-[^key-b46e4068af19fc0e26c45eb6e6421f56]: Textual amendment: Word in s. 30(1) substituted (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/1/a); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-b46e4068af19fc0e26c45eb6e6421f56]: Textual amendment: Word in s. 30(1) substituted (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/1/a); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)

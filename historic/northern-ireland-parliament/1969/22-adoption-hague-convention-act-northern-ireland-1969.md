@@ -45,7 +45,7 @@ An Act to make provision for extending the powers of the court to make orders wi
 
 (3) The applicant or applicants and the child must not all be United Kingdom nationals living in British territory.
 
-(4) If the application is by a [^key-3f8dcc99f16befcb392f2d32a485fe0b]... couple, either—
+(4) If the application is by a [^c-3f8dcc99f16befcb392f2d32a485fe0b]... couple, either—
 
 - (a) each must be a United Kingdom national or a national of a convention country, and both must reside in Northern Ireland, or
 - (b) both must be United Kingdom nationals, and each must reside in British territory or a convention country,
@@ -64,20 +64,20 @@ and if he is a national of a convention country the adoption must not be prohibi
 - (a) except in accordance with the provisions, if any, relating to consents and consultations of the internal law relating to adoption of the convention country of which the child is a national, and
 - (b) unless the court is satisfied that each person who consents to the order in accordance with that internal law does so with full understanding of what is involved.
 
-(7) The reference to consents and consultations in subsection (6) does not include a reference to consent by and consultation with the applicant and members of the applicant's family (including his or her spouse or civil partner[^key-63948802275c41e620389214cb17d333] ), and for the purposes of subsection (6) consents may be proved in the manner prescribed by rules and the court shall be treated as the authority by whom, under the law mentioned in subsection (6), consents may be dispensed with and the adoption in question may be effected; and where the provisions there mentioned require the attendance before that authority of any person who does not reside in Northern Ireland, that requirement shall be treated as satisfied for the purposes of subsection (6) if—
+(7) The reference to consents and consultations in subsection (6) does not include a reference to consent by and consultation with the applicant and members of the applicant's family (including his or her spouse or civil partner[^c-63948802275c41e620389214cb17d333] ), and for the purposes of subsection (6) consents may be proved in the manner prescribed by rules and the court shall be treated as the authority by whom, under the law mentioned in subsection (6), consents may be dispensed with and the adoption in question may be effected; and where the provisions there mentioned require the attendance before that authority of any person who does not reside in Northern Ireland, that requirement shall be treated as satisfied for the purposes of subsection (6) if—
 
 - (a) that person has been given a reasonable opportunity of communicating his opinion on the adoption in question to the proper officer or clerk of the court, or to an appropriate authority of the country in question, for transmission to the court; and
 - (b) where he has availed himself of that opportunity, his opinion has been transmitted to the court.
 
 (8) In subsections (4) and (5) “specified provision” means a provision specified in an order under section 17(8) of the Adoption Act 1976 as one notified to the Government of the United Kingdom in pursuance of the provisions of the Convention which relate to prohibitions on an adoption contained in the national law of the convention country in question.
 
-(9)[^key-0e34e27fdd74d0f7464eba67981745cd] In subsection (4) “couple” has the same meaning as in the Order of 1987 (see Article 2 of that Order).
+(9)[^c-0e34e27fdd74d0f7464eba67981745cd] In subsection (4) “couple” has the same meaning as in the Order of 1987 (see Article 2 of that Order).
 
 #### 2. Application of Order of 1987 to convention adoption orders.
 
 The Order of 1987 shall have effect in relation to an adoption order to be made as a convention adoption order subject to the following modifications—
 
-(a) in Article 14(4) (adoption by couples)[^key-75936552c9b3435aa3df5de5077fa6b9] , at the end there shall be added “ or the application is for a convention adoption order and section 1 of the Adoption (Hague Convention) Act (Northern Ireland) 1969 is complied with ”;
+(a) in Article 14(4) (adoption by couples)[^c-75936552c9b3435aa3df5de5077fa6b9] , at the end there shall be added “ or the application is for a convention adoption order and section 1 of the Adoption (Hague Convention) Act (Northern Ireland) 1969 is complied with ”;
 
 (b) in Article 15(2) (adoption by one person), at the end there shall be added “ or the application is for a convention adoption order and section 1 of the Adoption (Hague Convention) Act (Northern Ireland) 1969 is complied with ”;
 
@@ -224,13 +224,13 @@ In this Act—
 
 [^c11604411]: Textual amendment: [1987 NI 22](https://www.legislation.gov.uk/nisi/1987)
 
-[^key-3f8dcc99f16befcb392f2d32a485fe0b]: Textual amendment: Word in [s. 1(4)](https://www.legislation.gov.uk/apni/1969/22/section/1/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-3f8dcc99f16befcb392f2d32a485fe0b]: Textual amendment: Word in [s. 1(4)](https://www.legislation.gov.uk/apni/1969/22/section/1/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-63948802275c41e620389214cb17d333]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/apni/1969/22/section/1/7) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-63948802275c41e620389214cb17d333]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/apni/1969/22/section/1/7) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-0e34e27fdd74d0f7464eba67981745cd]: Textual amendment: [S. 1(9)](https://www.legislation.gov.uk/apni/1969/22/section/1/9) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/2/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-0e34e27fdd74d0f7464eba67981745cd]: Textual amendment: [S. 1(9)](https://www.legislation.gov.uk/apni/1969/22/section/1/9) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/2/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-75936552c9b3435aa3df5de5077fa6b9]: Textual amendment: Words in [s. 2(a)](https://www.legislation.gov.uk/apni/1969/22/section/2/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-75936552c9b3435aa3df5de5077fa6b9]: Textual amendment: Words in [s. 2(a)](https://www.legislation.gov.uk/apni/1969/22/section/2/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/29/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c11604431]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 

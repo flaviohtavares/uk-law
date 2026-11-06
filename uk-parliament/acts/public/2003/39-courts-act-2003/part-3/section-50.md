@@ -54,9 +54,9 @@ summary: ''
 >
 > (8) A statutory instrument containing rules under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-f48ed9215c90ac3a7b0e10816dfca026] Omit Schedule 2 to the 1933 Act (constitution of youth courts).
+(2)[^c-f48ed9215c90ac3a7b0e10816dfca026] Omit Schedule 2 to the 1933 Act (constitution of youth courts).
 
-(3)[^key-f48ed9215c90ac3a7b0e10816dfca026] Omit section 146 of the 1980 Act (rules relating to youth court panels and the composition of youth courts).
+(3)[^c-f48ed9215c90ac3a7b0e10816dfca026] Omit section 146 of the 1980 Act (rules relating to youth court panels and the composition of youth courts).
 
 (4) “**The 1933 Act**” means the Children and Young Persons Act 1933 (c. 12).
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c19066141]: Commencement: S. 50 fully in force; s. 50 not in force at Royal Assent, see s. 110(1)(2); s. 50(1)(4) in force at 1.4.2005 by [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/910/article/3/r); s. 50(2)(3) in force at 5.9.2007 by [S.I. 2007/2706](https://www.legislation.gov.uk/uksi/2007/2706), [art. 1](https://www.legislation.gov.uk/uksi/2007/2706/article/1)
 
-[^key-f48ed9215c90ac3a7b0e10816dfca026]: Modification: S. 50(2)(3) amendment to earlier commencing SI 2007/2706 (8.12.2010) by [The Courts Act 2003 (Commencement No. 14) Order 2010 (S.I. 2010/2921)](https://www.legislation.gov.uk/uksi/2010/2921), [art. 4](https://www.legislation.gov.uk/uksi/2010/2921/article/4)
+[^c-f48ed9215c90ac3a7b0e10816dfca026]: Modification: S. 50(2)(3) amendment to earlier commencing SI 2007/2706 (8.12.2010) by [The Courts Act 2003 (Commencement No. 14) Order 2010 (S.I. 2010/2921)](https://www.legislation.gov.uk/uksi/2010/2921), [art. 4](https://www.legislation.gov.uk/uksi/2010/2921/article/4)

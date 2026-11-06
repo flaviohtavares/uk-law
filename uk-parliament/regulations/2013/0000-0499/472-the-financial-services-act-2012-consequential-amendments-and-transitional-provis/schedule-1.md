@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Revocations[^key-4ca5a9eee9d74b41f57b8175222f0758]
+## SCHEDULE 1 — Revocations[^c-4ca5a9eee9d74b41f57b8175222f0758]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ Article 2
 
 ## Annotations
 
-[^key-4ca5a9eee9d74b41f57b8175222f0758]: Commencement: Sch. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-4ca5a9eee9d74b41f57b8175222f0758]: Commencement: Sch. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2001/3645](https://www.legislation.gov.uk/uksi/2001/3645).
 

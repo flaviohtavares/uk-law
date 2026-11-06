@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**143.**[^key-08ee13b8f6390d85d6ae6fec6bb802a5] The Employment Rights Act 1996 is amended as follows.
+**143.**[^c-08ee13b8f6390d85d6ae6fec6bb802a5] The Employment Rights Act 1996 is amended as follows.
 
 ## Annotations
 
-[^key-08ee13b8f6390d85d6ae6fec6bb802a5]: Commencement: Reg. 143 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-08ee13b8f6390d85d6ae6fec6bb802a5]: Commencement: Reg. 143 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

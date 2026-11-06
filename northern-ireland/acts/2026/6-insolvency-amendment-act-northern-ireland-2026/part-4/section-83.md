@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Final distribution[^key-8fcbe408e08a7c98ce5fd261a5f9edfe]
+## 83. Final distribution[^c-8fcbe408e08a7c98ce5fd261a5f9edfe]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Article 303 (final distribution), after paragraph (1) insert—
 
 ## Annotations
 
-[^key-8fcbe408e08a7c98ce5fd261a5f9edfe]: Commencement: S. 83 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8fcbe408e08a7c98ce5fd261a5f9edfe]: Commencement: S. 83 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

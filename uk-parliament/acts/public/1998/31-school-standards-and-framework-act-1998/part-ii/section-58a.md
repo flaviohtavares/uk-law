@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Appointment and dismissal of certain teachers at schools with a religious character: Wales[^key-8751086acfa6e046dcf951cecc0af628]
+## 58A. Appointment and dismissal of certain teachers at schools with a religious character: Wales[^c-8751086acfa6e046dcf951cecc0af628]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8751086acfa6e046dcf951cecc0af628]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/1998/31/section/58A) inserted (W.) (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/uksi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/744/regulation/1/3), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2022/744/schedule/2/paragraph/4/4)
+[^c-8751086acfa6e046dcf951cecc0af628]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/1998/31/section/58A) inserted (W.) (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/uksi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/744/regulation/1/3), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2022/744/schedule/2/paragraph/4/4)

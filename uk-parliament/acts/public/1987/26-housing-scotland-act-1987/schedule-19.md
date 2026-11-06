@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 19 — CONSEQUENCES OF BREACH OF CONDITIONS OF IMPROVEMENT GRANT[^key-16a414fff88421e908e96df8b4389955]
+## SCHEDULE 19 — CONSEQUENCES OF BREACH OF CONDITIONS OF IMPROVEMENT GRANT[^c-16a414fff88421e908e96df8b4389955]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 246(5).
 
-**1.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-16a414fff88421e908e96df8b4389955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16a414fff88421e908e96df8b4389955]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/1987/26/schedule/19) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-16a414fff88421e908e96df8b4389955]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/1987/26/schedule/19) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

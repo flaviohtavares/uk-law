@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Sheriff: duty to consider appointing safeguarder[^key-7e2e552df82cd9ce4a210456d3c8e553]
+## 31. Sheriff: duty to consider appointing safeguarder[^c-7e2e552df82cd9ce4a210456d3c8e553]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The sheriff may appoint a safeguarder for the child.
 
-(4) A safeguarder appointed under this section is to be treated for the purposes of this Act (other than this section and section 33[^key-333d2b0a4fd1615f59e4f6d58f1dab4f]) as having been appointed by a children's hearing by virtue of section 30.
+(4) A safeguarder appointed under this section is to be treated for the purposes of this Act (other than this section and section 33[^c-333d2b0a4fd1615f59e4f6d58f1dab4f]) as having been appointed by a children's hearing by virtue of section 30.
 
 (5) An appointment under subsection (3) must be recorded.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e2e552df82cd9ce4a210456d3c8e553]: Commencement: S. 31 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-7e2e552df82cd9ce4a210456d3c8e553]: Commencement: S. 31 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-333d2b0a4fd1615f59e4f6d58f1dab4f]: Textual amendment: Words in s. 31(4) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(6)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/6)
+[^c-333d2b0a4fd1615f59e4f6d58f1dab4f]: Textual amendment: Words in s. 31(4) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(6)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/6)

@@ -42,13 +42,13 @@ An Act of the National Assembly for Wales to make provision in relation to the f
 
 ## Introduction
 
-### 1. Overview[^key-5285bea3d80d7dca80d54331c6c0ce13]
+### 1. Overview[^c-5285bea3d80d7dca80d54331c6c0ce13]
 
 The main provision of this Act amends the National Health Service (Wales) Act 2006 so that the existing duty on each Local Health Board in Wales to secure that its expenditure does not exceed its funding in a financial year instead becomes a duty to secure that its expenditure does not exceed its funding over a period of three financial years; and may be subject to a margin of tolerance permitted by the Welsh Ministers.
 
 ## Amendments to the National Health Service (Wales) Act 2006
 
-### 2. Financial duties of Local Health Boards[^key-bb748f6a15358eea848fa68522db9e6f]
+### 2. Financial duties of Local Health Boards[^c-bb748f6a15358eea848fa68522db9e6f]
 
 (1) Chapter 6 of Part 11 of National Health Service (Wales) Act 2006 is amended as follows.
 
@@ -93,7 +93,7 @@ The main provision of this Act amends the National Health Service (Wales) Act 20
 
 ## General
 
-### 3. Short title and commencement[^key-98d16d89a356fe44fb04951a650f334c]
+### 3. Short title and commencement[^c-98d16d89a356fe44fb04951a650f334c]
 
 (1) The short title of this Act is the National Health Service Finance (Wales) Act 2014.
 
@@ -101,8 +101,8 @@ The main provision of this Act amends the National Health Service (Wales) Act 20
 
 ## Annotations
 
-[^key-5285bea3d80d7dca80d54331c6c0ce13]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2014/2/section/1) in force at 1.4.2014, see [s. 3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-5285bea3d80d7dca80d54331c6c0ce13]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2014/2/section/1) in force at 1.4.2014, see [s. 3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-bb748f6a15358eea848fa68522db9e6f]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/2/section/2) in force at 1.4.2014, see [s. 3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-bb748f6a15358eea848fa68522db9e6f]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/2/section/2) in force at 1.4.2014, see [s. 3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
 
-[^key-98d16d89a356fe44fb04951a650f334c]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/2/section/3) in force at 1.4.2014, see [s. 3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-98d16d89a356fe44fb04951a650f334c]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/2/section/3) in force at 1.4.2014, see [s. 3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)

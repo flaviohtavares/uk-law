@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Medical services in prisons[^key-aefb576a756dafc146661f9ab6a84a1d]
+## 110. Medical services in prisons[^c-aefb576a756dafc146661f9ab6a84a1d]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aefb576a756dafc146661f9ab6a84a1d]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2010/13/section/110) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule))
+[^c-aefb576a756dafc146661f9ab6a84a1d]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2010/13/section/110) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule))

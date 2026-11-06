@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.58. Extract of order[^key-db309ec78891d8cad21964f55de5220e]
+## 2.58. Extract of order[^c-db309ec78891d8cad21964f55de5220e]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ An extract of a parental order must not be issued except by order of the court o
 
 ## Annotations
 
-[^key-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))
+[^c-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))

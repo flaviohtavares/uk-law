@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(2)(*a*)(i) and (v) and 7(1)(*e*)
 
-**1.**[^key-ef26c64fd906acc3bf5d5a9b84d0a025] (1) The occupier and persons engaged in the handling of fresh meat shall ensure that—
+**1.**[^c-ef26c64fd906acc3bf5d5a9b84d0a025] (1) The occupier and persons engaged in the handling of fresh meat shall ensure that—
 
 - (a) animals brought into the slaughterhall of any slaughterhouse are slaughtered without delay;
 - (b) in any slaughterhouse where both swine and other animals are slaughtered, swine are slaughtered and dressed in a separate room or alternatively using the method of operation referred to in paragraph 2 of Schedule 2;
@@ -69,22 +69,22 @@ Regulations 4(2)(*a*)(i) and (v) and 7(1)(*e*)
 - (c) in paragraph 1(*i*) of Part II of Schedule 6; and
 - (d) in paragraph 1(*h*) of Part III of that Schedule.
 
-**2.**[^key-a865bb7865a9c372845a332f8d481206] In any slaughterhouse—
+**2.**[^c-a865bb7865a9c372845a332f8d481206] In any slaughterhouse—
 
 - (a) where bovine animals, sheep, goats, solipeds or farmed deer are slaughtered and dressed following the slaughter of swine, the occupier shall ensure that thorough cleaning and disinfection of the slaughterhall takes place following the slaughter of swine; and
 - (b) where other animals are slaughtered and dressed following the slaughter and dressing of farmed game, the occupier shall ensure that thorough cleaning and disinfection of the slaughterhall takes place following the slaughter of farmed game.
 
-**3.**[^key-29549305a339ec7115b6e90a85e82b6b] Large wild game may be slaughtered and dressed in a slaughterhouse provided that—
+**3.**[^c-29549305a339ec7115b6e90a85e82b6b] Large wild game may be slaughtered and dressed in a slaughterhouse provided that—
 
 - (a) any carcase of such game is skinned in a room separate from that reserved for fresh meat, or at a different time; and
 - (b) any such slaughterhouse is granted a special approval for the purposes of Council Directive [92/45/EEC](https://www.legislation.gov.uk/european/directive/1992/0045).
 
 ## Annotations
 
-[^key-ef26c64fd906acc3bf5d5a9b84d0a025]: Commencement: Sch. 9 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-ef26c64fd906acc3bf5d5a9b84d0a025]: Commencement: Sch. 9 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00028]: Footnote: [S.R. 1992 No. 39](https://www.legislation.gov.uk/nisr/1992/39)
 
-[^key-a865bb7865a9c372845a332f8d481206]: Commencement: Sch. 9 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-a865bb7865a9c372845a332f8d481206]: Commencement: Sch. 9 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-29549305a339ec7115b6e90a85e82b6b]: Commencement: Sch. 9 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-29549305a339ec7115b6e90a85e82b6b]: Commencement: Sch. 9 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

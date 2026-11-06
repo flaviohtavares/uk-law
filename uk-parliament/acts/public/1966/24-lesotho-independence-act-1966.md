@@ -75,7 +75,7 @@ Section 2(2).
 
 #### Armed Forces
 
-**5.**[^key-000a8c1fda05d2821129017e9ddc5e40][^c667365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-000a8c1fda05d2821129017e9ddc5e40][^c667365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In the [^c667369]Visiting Forces (British Commonwealth) Act 1933, section 4 (attachment and mutual powers of command) shall apply in relation to forces raised in Lesotho as it applies in relation to forces raised in Dominions within the meaning of the [^c667370]Statute of Westminster 1931.
 
@@ -95,7 +95,7 @@ Section 2(2).
 
 ### Part II — Exceptions from S.2(1) of Act
 
-**11.**[^key-9de5a3388070ff2e549204eaba5b5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-9de5a3388070ff2e549204eaba5b5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** Notwithstanding anything in section 2(1) of this Act, section 10(1)(a) of the [^c667384]Visiting Forces Act 1952, . . . [^c667385] shall not apply in relation to Lesotho as if it were a colony within the meaning of those Acts respectively.
 
@@ -117,7 +117,7 @@ Section 2(2).
 
 [^c667364]: Marginal citation: [1958 c. 11](https://www.legislation.gov.uk/ukpga/1958/11).
 
-[^key-000a8c1fda05d2821129017e9ddc5e40]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/1966/24/schedule/paragraph/5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-000a8c1fda05d2821129017e9ddc5e40]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/1966/24/schedule/paragraph/5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c667365]: Modification: The text of Sch. paras. 4, 5, 8(1)(2) and 10 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -137,7 +137,7 @@ Section 2(2).
 
 [^c667380]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/1966/24/schedule/paragraph/10) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2002/39/section/4/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)
 
-[^key-9de5a3388070ff2e549204eaba5b5493]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/1966/24/schedule/paragraph/11) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9de5a3388070ff2e549204eaba5b5493]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/1966/24/schedule/paragraph/11) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c667384]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)**(7: 3).**
 

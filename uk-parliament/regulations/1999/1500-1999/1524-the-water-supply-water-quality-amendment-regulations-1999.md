@@ -31,7 +31,7 @@ summary: ''
 
 WATER INDUSTRY, ENGLAND AND WALES
 
-The Water Supply (Water Quality) (Amendment) Regulations 1999 (revoked)[^key-ea087632b6007836e415f2d755324bb9]
+The Water Supply (Water Quality) (Amendment) Regulations 1999 (revoked)[^c-ea087632b6007836e415f2d755324bb9]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 30th June 1999
 
-[^key-ea087632b6007836e415f2d755324bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea087632b6007836e415f2d755324bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ea087632b6007836e415f2d755324bb9]
+## 1. Citation, commencement and interpretation[^c-ea087632b6007836e415f2d755324bb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Regulations[^key-ea087632b6007836e415f2d755324bb9]
+## 2. Amendments to the principal Regulations[^c-ea087632b6007836e415f2d755324bb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea087632b6007836e415f2d755324bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea087632b6007836e415f2d755324bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea087632b6007836e415f2d755324bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea087632b6007836e415f2d755324bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea087632b6007836e415f2d755324bb9]: Textual amendment: Regulations revoked (E.) (1.1.2001) by [The Water Supply (Water Quality) Regulations 2000 (S.I. 2000/3184)](https://www.legislation.gov.uk/uksi/2000/3184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3184/regulation/43/1), [43(1)](https://www.legislation.gov.uk/uksi/2000/3184/regulation/43/1)[(4)](https://www.legislation.gov.uk/uksi/2000/3184/regulation/43/4)
+[^c-ea087632b6007836e415f2d755324bb9]: Textual amendment: Regulations revoked (E.) (1.1.2001) by [The Water Supply (Water Quality) Regulations 2000 (S.I. 2000/3184)](https://www.legislation.gov.uk/uksi/2000/3184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3184/regulation/43/1), [43(1)](https://www.legislation.gov.uk/uksi/2000/3184/regulation/43/1)[(4)](https://www.legislation.gov.uk/uksi/2000/3184/regulation/43/4)
 
     Regulations revoked (W.) (1.1.2002) by [The Water Supply (Water Quality) Regulations 2001 (S.I. 2001/3911)](https://www.legislation.gov.uk/uksi/2001/3911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/3911/regulation/1/2), [43(1)](https://www.legislation.gov.uk/uksi/2001/3911/regulation/43/1)

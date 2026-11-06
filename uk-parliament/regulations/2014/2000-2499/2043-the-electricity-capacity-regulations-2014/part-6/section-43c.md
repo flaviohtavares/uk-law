@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43C. Repayment of capacity payments: metering fault[^key-70117d4c6452498187426b2d51d67b22]
+## 43C. Repayment of capacity payments: metering fault[^c-70117d4c6452498187426b2d51d67b22]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70117d4c6452498187426b2d51d67b22]: Textual amendment: [Regs. 43B](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43B), [43C](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43C) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/16)
+[^c-70117d4c6452498187426b2d51d67b22]: Textual amendment: [Regs. 43B](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43B), [43C](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43C) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/16)

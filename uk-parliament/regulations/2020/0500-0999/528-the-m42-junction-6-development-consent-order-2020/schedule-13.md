@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — CERTIFICATION OF PLANS AND DOCUMENTS, ETC.[^key-7525f0bfe8a75abdc1a82499e0d7e9f8]
+## SCHEDULE 13 — CERTIFICATION OF PLANS AND DOCUMENTS, ETC.[^c-7525f0bfe8a75abdc1a82499e0d7e9f8]
 
 *Extent: E+W*
 
 Article 44
 
-[^key-7525f0bfe8a75abdc1a82499e0d7e9f8]The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00101]
+[^c-7525f0bfe8a75abdc1a82499e0d7e9f8]The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00101]
 
 | *(1)*<br>*Document* | *(2)*<br>*Document Reference* | *(3)*<br>*Version* |
 | --- | --- | --- |
@@ -40,6 +40,6 @@ Article 44
 
 ## Annotations
 
-[^key-7525f0bfe8a75abdc1a82499e0d7e9f8]: Commencement: Sch. 13 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-7525f0bfe8a75abdc1a82499e0d7e9f8]: Commencement: Sch. 13 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00101]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264).

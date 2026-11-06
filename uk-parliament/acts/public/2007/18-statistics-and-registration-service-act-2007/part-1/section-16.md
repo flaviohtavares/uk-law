@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Requests for assessment: supplementary[^key-c00eb73afe63539987e8f9a85e5d8a32]
+## 16. Requests for assessment: supplementary[^c-c00eb73afe63539987e8f9a85e5d8a32]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ and must lay a copy of the statement before Parliament.
 
 ## Annotations
 
-[^key-c00eb73afe63539987e8f9a85e5d8a32]: Commencement: S. 16 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-c00eb73afe63539987e8f9a85e5d8a32]: Commencement: S. 16 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

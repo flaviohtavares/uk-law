@@ -35,42 +35,42 @@ approving the active substance metam, in accordance with Regulation (EC) No 1107
 
 (Text with EEA relevance) (revoked)
 
-[^key-d0e41cd83d41b937ba2a679cedd5ee75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0e41cd83d41b937ba2a679cedd5ee75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Approval of active substance[^key-d0e41cd83d41b937ba2a679cedd5ee75]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Re-evaluation of plant protection products[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+## Article 1. Approval of active substance[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Grace period[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+## Article 2. Re-evaluation of plant protection products[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments to Implementing Regulation (EU) No 540/2011[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+## Article 3. Grace period[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Repeal[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+## Article 4. Amendments to Implementing Regulation (EU) No 540/2011[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force and date of application[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+## Article 5. Repeal[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0e41cd83d41b937ba2a679cedd5ee75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+## Article 6. Entry into force and date of application[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-d0e41cd83d41b937ba2a679cedd5ee75]
+[^c-d0e41cd83d41b937ba2a679cedd5ee75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-d0e41cd83d41b937ba2a679cedd5ee75]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-d0e41cd83d41b937ba2a679cedd5ee75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0e41cd83d41b937ba2a679cedd5ee75]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0e41cd83d41b937ba2a679cedd5ee75]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

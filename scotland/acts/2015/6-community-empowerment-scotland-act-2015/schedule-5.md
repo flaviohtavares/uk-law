@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — REPEALS[^key-a91a07be6cb8d70eb4ff475e2b94b9ce][^key-2d951df9696e22eb1a27a97efc724af1][^key-71ca7d535a7056099272bff6f89bcf13]
+## SCHEDULE 5 — REPEALS[^c-a91a07be6cb8d70eb4ff475e2b94b9ce][^c-2d951df9696e22eb1a27a97efc724af1][^c-71ca7d535a7056099272bff6f89bcf13]
 
 *Extent: S*
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a91a07be6cb8d70eb4ff475e2b94b9ce]: Commencement: Sch. 5 in force at 15.4.2016 for specified purposes by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-a91a07be6cb8d70eb4ff475e2b94b9ce]: Commencement: Sch. 5 in force at 15.4.2016 for specified purposes by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
 
-[^key-2d951df9696e22eb1a27a97efc724af1]: Commencement: Sch. 5 in force at 20.12.2016 for specified purposes by [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/410/article/2/b)
+[^c-2d951df9696e22eb1a27a97efc724af1]: Commencement: Sch. 5 in force at 20.12.2016 for specified purposes by [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/410/article/2/b)
 
-[^key-71ca7d535a7056099272bff6f89bcf13]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5) in force at 1.4.2018 for specified purposes by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/458/article/3), [5-11](https://www.legislation.gov.uk/ssi/2017/458/article/5))
+[^c-71ca7d535a7056099272bff6f89bcf13]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5) in force at 1.4.2018 for specified purposes by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/458/article/3), [5-11](https://www.legislation.gov.uk/ssi/2017/458/article/5))

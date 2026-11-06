@@ -32,7 +32,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Animal By-Products Order 1999 (revoked)[^key-3006468e4111128bbb461cef1ebeff4c]
+The Animal By-Products Order 1999 (revoked)[^c-3006468e4111128bbb461cef1ebeff4c]
 
 Made
 
@@ -42,11 +42,11 @@ Coming into force
 
 1st April 1999
 
-[^key-3006468e4111128bbb461cef1ebeff4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3006468e4111128bbb461cef1ebeff4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTION[^key-3006468e4111128bbb461cef1ebeff4c]
+### PART I — INTRODUCTION[^c-3006468e4111128bbb461cef1ebeff4c]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ Coming into force
 - [Section 2 — Extension of definitions of “animals” and “poultry”](part-i/section-2.md)
 - [Section 3 — Interpretation and scope](part-i/section-3.md)
 
-### PART II — DISPOSAL OF HIGH RISK AND LOW RISK MATERIAL[^key-3006468e4111128bbb461cef1ebeff4c]
+### PART II — DISPOSAL OF HIGH RISK AND LOW RISK MATERIAL[^c-3006468e4111128bbb461cef1ebeff4c]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ Coming into force
 - [Section 17 — Records for animal by-products](part-ii/section-17.md)
 - [Section 18 — Records for approved laboratories](part-ii/section-18.md)
 
-### PART III — CATERING WASTE INTENDED FOR FEEDING TO PIGS AND POULTRY[^key-3006468e4111128bbb461cef1ebeff4c]
+### PART III — CATERING WASTE INTENDED FOR FEEDING TO PIGS AND POULTRY[^c-3006468e4111128bbb461cef1ebeff4c]
 
 *Extent: E+W+S*
 
@@ -91,7 +91,7 @@ Coming into force
 - [Section 23 — Operation of premises approved to process catering waste](part-iii/section-23.md)
 - [Section 24 — Records for premises approved to process catering waste](part-iii/section-24.md)
 
-### PART IV — SWILL FOR USE AS FEEDINGSTUFFS[^key-3006468e4111128bbb461cef1ebeff4c]
+### PART IV — SWILL FOR USE AS FEEDINGSTUFFS[^c-3006468e4111128bbb461cef1ebeff4c]
 
 *Extent: E+W+S*
 
@@ -100,7 +100,7 @@ Coming into force
 - [Section 25 — Consigning swill](part-iv/section-25.md)
 - [Section 26 — Feeding swill to pigs or poultry](part-iv/section-26.md)
 
-### PART V — GENERAL[^key-3006468e4111128bbb461cef1ebeff4c]
+### PART V — GENERAL[^c-3006468e4111128bbb461cef1ebeff4c]
 
 *Extent: E+W+S*
 
@@ -127,12 +127,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-3006468e4111128bbb461cef1ebeff4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3006468e4111128bbb461cef1ebeff4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-[^key-3006468e4111128bbb461cef1ebeff4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3006468e4111128bbb461cef1ebeff4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3006468e4111128bbb461cef1ebeff4c]: Textual amendment: Order revoked: (E.) (1.7.2003) by [The Animal By-Products Regulations 2003 (S.I. 2003/1482)](https://www.legislation.gov.uk/uksi/2003/1482), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1482/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/1482/regulation/51/2); (S.) (1.10.2003) by [The Animal By-Products (Scotland) Regulations 2003 (S.S.I. 2003/411)](https://www.legislation.gov.uk/ssi/2003/411), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/411/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2003/411/schedule/6) (with [reg. 50](https://www.legislation.gov.uk/ssi/2003/411/regulation/50), [sch. 4](https://www.legislation.gov.uk/ssi/2003/411/schedule/4)); and (W.) (31.10.2003) by [The Animal By-Products (Wales) Regulations 2003 (S.I. 2003/2756)](https://www.legislation.gov.uk/uksi/2003/2756), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2756/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/2756/regulation/51/2)
+[^c-3006468e4111128bbb461cef1ebeff4c]: Textual amendment: Order revoked: (E.) (1.7.2003) by [The Animal By-Products Regulations 2003 (S.I. 2003/1482)](https://www.legislation.gov.uk/uksi/2003/1482), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1482/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/1482/regulation/51/2); (S.) (1.10.2003) by [The Animal By-Products (Scotland) Regulations 2003 (S.S.I. 2003/411)](https://www.legislation.gov.uk/ssi/2003/411), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/411/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2003/411/schedule/6) (with [reg. 50](https://www.legislation.gov.uk/ssi/2003/411/regulation/50), [sch. 4](https://www.legislation.gov.uk/ssi/2003/411/schedule/4)); and (W.) (31.10.2003) by [The Animal By-Products (Wales) Regulations 2003 (S.I. 2003/2756)](https://www.legislation.gov.uk/uksi/2003/2756), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2756/regulation/1), [51(2)](https://www.legislation.gov.uk/uksi/2003/2756/regulation/51/2)

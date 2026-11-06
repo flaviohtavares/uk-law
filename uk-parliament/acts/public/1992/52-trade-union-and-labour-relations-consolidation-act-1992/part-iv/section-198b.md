@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198B. Section 198A: supplementary[^key-7b0293e5e7749df61887dc61dc89384d]
+## 198B. Section 198A: supplementary[^c-7b0293e5e7749df61887dc61dc89384d]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b0293e5e7749df61887dc61dc89384d]: Textual amendment: Ss. 198A, 198B inserted (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/3/1)
+[^c-7b0293e5e7749df61887dc61dc89384d]: Textual amendment: Ss. 198A, 198B inserted (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/3/1)

@@ -44,7 +44,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 A draft of these Regulations was laid before Parliament in accordance with section 125(4)(m) of the Care Act 2014, and was approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-14dc271d1e67a3c50d62abf151ba8d8c]
+## 1. Citation, commencement and interpretation[^c-14dc271d1e67a3c50d62abf151ba8d8c]
 
 (1) These Regulations may be cited as the False or Misleading Information (Specified Care Providers and Specified Information) Regulations 2015 and come into force—
 
@@ -56,10 +56,10 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - “the Act” means the Care Act 2014;
 - “commissioning data set” or “CDS” means a collection of patient-level data on a particular activity;
 - “health service hospital” has the same meaning as in section 275(1) of the National Health Service Act 2006[^f00002];
-- [^key-80b7288e65b20f954e94720860b54d1b]...
-- “[^key-c5606f2246e9d9365967c5602e109586]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
+- [^c-80b7288e65b20f954e94720860b54d1b]...
+- “[^c-c5606f2246e9d9365967c5602e109586]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
 
-## 2. Specified care providers[^key-55c7f42ee514b9e61587250438ccd4e9]
+## 2. Specified care providers[^c-55c7f42ee514b9e61587250438ccd4e9]
 
 The care providers specified for the purposes of section 92(1) of the Act (offence of supplying etc false or misleading information) are—
 
@@ -67,14 +67,14 @@ The care providers specified for the purposes of section 92(1) of the Act (offen
 - (b) an NHS foundation trust, and
 - (c) a person who, pursuant to arrangements made with a public body, provides health services in England from a hospital (as defined in section 275(1) of the National Health Service Act 2006) that is not a health service hospital.
 
-## 3. Specified information[^key-ec3169dab90bad2d7582b7323150f2b9]
+## 3. Specified information[^c-ec3169dab90bad2d7582b7323150f2b9]
 
 The information specified for the purposes of section 92(1) of the Act is the information—
 
-- (a) referred to in the third column of the table in Part 1 of the Schedule, to the extent that it is supplied to NHS England[^key-42d3c29421133f9ff53652a603ee7e24], or to another person on NHS England’s[^key-678bec3fef1466a48354f9665b66791b] behalf, for collation for the purposes of the corresponding commissioning data sets listed by type and description in that table;
+- (a) referred to in the third column of the table in Part 1 of the Schedule, to the extent that it is supplied to NHS England[^c-42d3c29421133f9ff53652a603ee7e24], or to another person on NHS England’s[^c-678bec3fef1466a48354f9665b66791b] behalf, for collation for the purposes of the corresponding commissioning data sets listed by type and description in that table;
 - (b) listed in Part 2 of the Schedule.
 
-## 4. Review[^key-6a668b173bad7711dce899637d322ec5]
+## 4. Review[^c-6a668b173bad7711dce899637d322ec5]
 
 (1) Before the end of each review period, the Secretary of State must—
 
@@ -109,7 +109,7 @@ Department of Health
 
 Regulation 3
 
-### PART 1 — Commissioning data sets[^key-e3704c24e1028e78a4bb6f218d38ca34]
+### PART 1 — Commissioning data sets[^c-e3704c24e1028e78a4bb6f218d38ca34]
 
 | CDS Type | CDS Description | Data |
 | --- | --- | --- |
@@ -127,27 +127,27 @@ Regulation 3
 
 ### PART 2 — Other specified information
 
-#### 1. Cancer Outcomes and Services Data Set[^key-1ab7dfcb2f2e8f55c20fedfb237aae6b]
+#### 1. Cancer Outcomes and Services Data Set[^c-1ab7dfcb2f2e8f55c20fedfb237aae6b]
 
 Data relating to all patients (both adult and paediatric) diagnosed with cancer or receiving cancer treatment in, or funded by, the National Health Service in England provided to Public Health England[^f00004] for collation for the purposes of the Cancer Outcomes and Services Data Set (a data set used to build indicators of activity, performance and outcomes of cancer care in England), other than the information referred to in paragraph 3.
 
-#### 2. Hospital and Community Health Services Complaints Collection[^key-3022e970a6e585b2cffd5fca36041ea2]
+#### 2. Hospital and Community Health Services Complaints Collection[^c-3022e970a6e585b2cffd5fca36041ea2]
 
-Information supplied to NHS England[^key-2e0969e6de2e005b95f76f1b50807bf7], or to another person on NHS England’s[^key-8057974aa7e32c959918c48ba9d7caab] behalf, for collation for the purposes of the Hospital and Community Health Services Complaints Collection (data which is used for the purpose of monitoring written hospital and community complaints (by service area, profession and type) received by the National Health Service each year).
+Information supplied to NHS England[^c-2e0969e6de2e005b95f76f1b50807bf7], or to another person on NHS England’s[^c-8057974aa7e32c959918c48ba9d7caab] behalf, for collation for the purposes of the Hospital and Community Health Services Complaints Collection (data which is used for the purpose of monitoring written hospital and community complaints (by service area, profession and type) received by the National Health Service each year).
 
-#### 3. National Cancer Waiting Times Monitoring Data Set[^key-5a45363e00dfdca0a97471e258a0043c]
+#### 3. National Cancer Waiting Times Monitoring Data Set[^c-5a45363e00dfdca0a97471e258a0043c]
 
 Information supplied to NHS England, or to another person on NHS England’s behalf, for collation for the purposes of the National Cancer Waiting Times Monitoring Data Set (a patient-level data set used, amongst other things, for the monitoring of timed pathways of care for cancer patients and waiting times for cancer services).
 
-#### 4. National Diabetes Audit[^key-3267043567d40b0caa822f33ff7cc8c8]
+#### 4. National Diabetes Audit[^c-3267043567d40b0caa822f33ff7cc8c8]
 
 Information supplied to NHS England, or to another person on NHS England’s behalf, for collation for the purposes of the National Diabetes Audit (an annual clinical audit of patient-level data used for the monitoring of complications from diabetes and care provided to people with diabetes).
 
-#### 5. National Maternity Services Data Set[^key-5d51770c17d99f3d5334d05ec332299e]
+#### 5. National Maternity Services Data Set[^c-5d51770c17d99f3d5334d05ec332299e]
 
 Information supplied to NHS England, or to another person on NHS England’s behalf, for collation for the purposes of the National Maternity Services Data Set (a patient-level data set that captures key information at each stage of the maternity service care pathway).
 
-#### 6. Quality Accounts[^key-a4450d695a58d08165e55dfc5c132e56]
+#### 6. Quality Accounts[^c-a4450d695a58d08165e55dfc5c132e56]
 
 The information contained in documents published under section 8 of the Health Act 2009 (duty of providers to publish information)[^f00005].
 
@@ -169,42 +169,42 @@ A full Impact Assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2014 c. 23](https://www.legislation.gov.uk/ukpga/2014/23). Section 92(6) of the Care Act 2014 provides that “specified” means specified in Regulations. Section 125(1) of that Act provides that the power to make regulations is exercisable by the Secretary of State.
 
-[^key-14dc271d1e67a3c50d62abf151ba8d8c]: Commencement: Reg. 1 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-14dc271d1e67a3c50d62abf151ba8d8c]: Commencement: Reg. 1 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
 [^f00002]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). The definition of “health service hospital” was amended by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), section 55( 1) and paragraph 138(1) and (2)(b) of Schedule 4.
 
-[^key-80b7288e65b20f954e94720860b54d1b]: Textual amendment: Words in reg. 1(2) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(2)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-80b7288e65b20f954e94720860b54d1b]: Textual amendment: Words in reg. 1(2) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(2)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-c5606f2246e9d9365967c5602e109586]: Textual amendment: Words in reg. 1(2) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-c5606f2246e9d9365967c5602e109586]: Textual amendment: Words in reg. 1(2) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-55c7f42ee514b9e61587250438ccd4e9]: Commencement: Reg. 2 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-55c7f42ee514b9e61587250438ccd4e9]: Commencement: Reg. 2 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-ec3169dab90bad2d7582b7323150f2b9]: Commencement: Reg. 3 in force in so far as not already in force at 1.4.2017, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/b)
+[^c-ec3169dab90bad2d7582b7323150f2b9]: Commencement: Reg. 3 in force in so far as not already in force at 1.4.2017, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/b)
 
-[^key-42d3c29421133f9ff53652a603ee7e24]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/3/a) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(3)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-42d3c29421133f9ff53652a603ee7e24]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/3/a) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(3)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-678bec3fef1466a48354f9665b66791b]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/3/a) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-678bec3fef1466a48354f9665b66791b]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/3/a) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-6a668b173bad7711dce899637d322ec5]: Commencement: Reg. 4 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-6a668b173bad7711dce899637d322ec5]: Commencement: Reg. 4 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-e3704c24e1028e78a4bb6f218d38ca34]: Commencement: Sch. Pt. 1 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-e3704c24e1028e78a4bb6f218d38ca34]: Commencement: Sch. Pt. 1 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-1ab7dfcb2f2e8f55c20fedfb237aae6b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/988/schedule/paragraph/1) in force at 1.4.2017, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/b)
+[^c-1ab7dfcb2f2e8f55c20fedfb237aae6b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/988/schedule/paragraph/1) in force at 1.4.2017, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/b)
 
 [^f00004]: Footnote: Public Health England is an executive agency of the Department of Health.
 
-[^key-3022e970a6e585b2cffd5fca36041ea2]: Commencement: Sch. para. 2 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-3022e970a6e585b2cffd5fca36041ea2]: Commencement: Sch. para. 2 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-2e0969e6de2e005b95f76f1b50807bf7]: Textual amendment: Words in Sch. paras. 2-5 substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(4)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-2e0969e6de2e005b95f76f1b50807bf7]: Textual amendment: Words in Sch. paras. 2-5 substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(4)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-8057974aa7e32c959918c48ba9d7caab]: Textual amendment: Words in Sch. paras. 2-5 substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(4)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-8057974aa7e32c959918c48ba9d7caab]: Textual amendment: Words in Sch. paras. 2-5 substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 51(4)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/51/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-5a45363e00dfdca0a97471e258a0043c]: Commencement: Sch. para. 3 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-5a45363e00dfdca0a97471e258a0043c]: Commencement: Sch. para. 3 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-3267043567d40b0caa822f33ff7cc8c8]: Commencement: Sch. para. 4 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-3267043567d40b0caa822f33ff7cc8c8]: Commencement: Sch. para. 4 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-5d51770c17d99f3d5334d05ec332299e]: Commencement: Sch. para. 5 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-5d51770c17d99f3d5334d05ec332299e]: Commencement: Sch. para. 5 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
-[^key-a4450d695a58d08165e55dfc5c132e56]: Commencement: Sch. para. 6 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
+[^c-a4450d695a58d08165e55dfc5c132e56]: Commencement: Sch. para. 6 in force at 15.4.2015, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/988/regulation/1/1/a)
 
 [^f00005]: Footnote: [2009 c. 21](https://www.legislation.gov.uk/ukpga/2009/21). The National Health Service (Quality Accounts) Regulations 2010 ([S.I. 2010/279](https://www.legislation.gov.uk/uksi/2010/279), as amended by [S.I. 2011/269](https://www.legislation.gov.uk/uksi/2011/269) and [2012/3081](https://www.legislation.gov.uk/uksi/2012/3081)) set out the prescribed information, general content and form of quality accounts to be published under section 8 of the Health Act 2009.

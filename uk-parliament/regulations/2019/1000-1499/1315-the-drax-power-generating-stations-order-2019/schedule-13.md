@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — TEMPORARY CONSTRUCTION PARAMETERS[^key-554338ea0942cd97d4d26c5a5071d2d4]
+### PART 1 — TEMPORARY CONSTRUCTION PARAMETERS[^c-554338ea0942cd97d4d26c5a5071d2d4]
 
 Table 12
 
@@ -30,7 +30,7 @@ Table 12
 | --- | --- | --- | --- | --- | --- |
 | Pedestrian Bridge | 9A(iii) | 33 | 10 | 11.5 | 17 |
 
-### PART 2 — UNIT X PARAMETERS[^key-1a39901d0473d2fcf738750fcd4e4040]
+### PART 2 — UNIT X PARAMETERS[^c-1a39901d0473d2fcf738750fcd4e4040]
 
 Table 13
 
@@ -62,7 +62,7 @@ Table 14
 | Exhaust gas emission flue stacks (up to two) | 1A(iv) | 122.5 | 128.5 |
 | Bypass Stack (up to two) (excluding supporting structures) | 1A(v) | 122.5 | 128.5 |
 
-### PART 3 — UNIT Y PARAMETERS[^key-c9b4d6fe2a16d9d64ca875a66f5e6e71]
+### PART 3 — UNIT Y PARAMETERS[^c-c9b4d6fe2a16d9d64ca875a66f5e6e71]
 
 Table 15
 
@@ -91,8 +91,8 @@ Table 16
 
 ## Annotations
 
-[^key-554338ea0942cd97d4d26c5a5071d2d4]: Commencement: Sch. 13 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-554338ea0942cd97d4d26c5a5071d2d4]: Commencement: Sch. 13 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-1a39901d0473d2fcf738750fcd4e4040]: Commencement: Sch. 13 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-1a39901d0473d2fcf738750fcd4e4040]: Commencement: Sch. 13 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-c9b4d6fe2a16d9d64ca875a66f5e6e71]: Commencement: Sch. 13 Pt. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-c9b4d6fe2a16d9d64ca875a66f5e6e71]: Commencement: Sch. 13 Pt. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

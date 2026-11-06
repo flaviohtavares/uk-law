@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Section 162: supplementary.[^key-b124141da8131ebe485acd46e3f5c1a4]
+## 163. Section 162: supplementary.[^c-b124141da8131ebe485acd46e3f5c1a4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b124141da8131ebe485acd46e3f5c1a4]: Textual amendment: [S. 163](https://www.legislation.gov.uk/ukpga/1995/26/section/163) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/3)
+[^c-b124141da8131ebe485acd46e3f5c1a4]: Textual amendment: [S. 163](https://www.legislation.gov.uk/ukpga/1995/26/section/163) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/3)

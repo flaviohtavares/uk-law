@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Prohibition on self-service and supply by vending machines[^key-acf6aa52ca29d9d2980876239f296373][^key-b652e3271dc55fbd7675eb7b974f9d62]
+## 39. Prohibition on self-service and supply by vending machines[^c-acf6aa52ca29d9d2980876239f296373][^c-b652e3271dc55fbd7675eb7b974f9d62]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acf6aa52ca29d9d2980876239f296373]: Commencement: S. 39 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-acf6aa52ca29d9d2980876239f296373]: Commencement: S. 39 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-b652e3271dc55fbd7675eb7b974f9d62]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2021/7/section/39) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-b652e3271dc55fbd7675eb7b974f9d62]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2021/7/section/39) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

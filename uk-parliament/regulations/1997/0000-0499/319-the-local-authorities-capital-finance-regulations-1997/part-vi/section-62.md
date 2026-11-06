@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Disposal of investments[^key-ccbcdfcd4f84c6920a4df987954bd4bd]
+## 62. Disposal of investments[^c-ccbcdfcd4f84c6920a4df987954bd4bd]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ A sum received by a local authority in respect of the disposal of an investment 
 
 ## Annotations
 
-[^key-ccbcdfcd4f84c6920a4df987954bd4bd]: Commencement: Reg. 62 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ccbcdfcd4f84c6920a4df987954bd4bd]: Commencement: Reg. 62 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00053]: Footnote: [S.I. 1990/426](https://www.legislation.gov.uk/uksi/1990/426); amended by [S.I. 1991/501](https://www.legislation.gov.uk/uksi/1991/501), [S.I. 1992/1353](https://www.legislation.gov.uk/uksi/1992/1353), [S.I. 1995/850](https://www.legislation.gov.uk/uksi/1995/850), [S.I. 1995/1982](https://www.legislation.gov.uk/uksi/1995/1982) and [S.I. 1996/568](https://www.legislation.gov.uk/uksi/1996/568).

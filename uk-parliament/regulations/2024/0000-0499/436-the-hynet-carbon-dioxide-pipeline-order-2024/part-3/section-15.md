@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Temporary restriction of use of streets[^key-373ba2f19e5f731c50c80a32330fe1d7]
+## 15. Temporary restriction of use of streets[^c-373ba2f19e5f731c50c80a32330fe1d7]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-373ba2f19e5f731c50c80a32330fe1d7]: Commencement: Art. 15 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-373ba2f19e5f731c50c80a32330fe1d7]: Commencement: Art. 15 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Acquisition of part of certain properties[^key-08704e5b5827d8ecf8e60103624d7997]
+## 21. Acquisition of part of certain properties[^c-08704e5b5827d8ecf8e60103624d7997]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ the owner shall be required to sell the land subject to the notice to treat.
 
 ## Annotations
 
-[^key-08704e5b5827d8ecf8e60103624d7997]: Commencement: Art. 21 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-08704e5b5827d8ecf8e60103624d7997]: Commencement: Art. 21 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

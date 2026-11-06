@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194B. Meaning of “services provider”, “senior housing executive” and “senior housing manager”[^key-2b3be293c223a2d911768f59c58d2a8c]
+## 194B. Meaning of “services provider”, “senior housing executive” and “senior housing manager”[^c-2b3be293c223a2d911768f59c58d2a8c]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ summary: ''
 - (b) is a senior housing and property manager for the services provider, and
 - (c) is involved in the provision of services in connection with the management of social housing provided by the registered provider.
 
-(9) For the purposes of subsections (7) and (8), whether an individual is a senior housing and property manager is to be determined by reference to the description of the occupation of senior housing and property management published by the Secretary of State[^key-ded4123dbd8395a1201fefb565210e62] under section ZA10(5) of the Apprenticeships, Skills, Children and Learning Act 2009.
+(9) For the purposes of subsections (7) and (8), whether an individual is a senior housing and property manager is to be determined by reference to the description of the occupation of senior housing and property management published by the Secretary of State[^c-ded4123dbd8395a1201fefb565210e62] under section ZA10(5) of the Apprenticeships, Skills, Children and Learning Act 2009.
 
 (10) In this section—
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3be293c223a2d911768f59c58d2a8c]: Textual amendment: Ss. 194A, 194B inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/21/1), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)
+[^c-2b3be293c223a2d911768f59c58d2a8c]: Textual amendment: Ss. 194A, 194B inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/21/1), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)
 
-[^key-ded4123dbd8395a1201fefb565210e62]: Textual amendment: Words in s. 194B(9) substituted (1.6.2025) by [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/32) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-ded4123dbd8395a1201fefb565210e62]: Textual amendment: Words in s. 194B(9) substituted (1.6.2025) by [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/32) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)

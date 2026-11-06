@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. The Office of Qualifications and Examinations Regulation[^key-c6b7d8c3719ba0f6686a31a9ce03f01d]
+## 127. The Office of Qualifications and Examinations Regulation[^c-c6b7d8c3719ba0f6686a31a9ce03f01d]
 
 *Extent: E+W+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6b7d8c3719ba0f6686a31a9ce03f01d]: Commencement: S. 127 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-c6b7d8c3719ba0f6686a31a9ce03f01d]: Commencement: S. 127 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Appeal against decision under Chapter 4[^key-1a33fb14a03e42027c4493aeb8129bcd][^key-594a619e5900c84eca3c157284046cd9]
+## 89. Appeal against decision under Chapter 4[^c-1a33fb14a03e42027c4493aeb8129bcd][^c-594a619e5900c84eca3c157284046cd9]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a33fb14a03e42027c4493aeb8129bcd]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/8/section/89) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-1a33fb14a03e42027c4493aeb8129bcd]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/8/section/89) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-594a619e5900c84eca3c157284046cd9]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/8/section/89) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-594a619e5900c84eca3c157284046cd9]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/8/section/89) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

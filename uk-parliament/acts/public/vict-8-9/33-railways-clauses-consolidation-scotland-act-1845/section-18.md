@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Alteration of water and gas pipes, &c.[^c5588901][^key-ad545036c42afab0548908496687b006]
+## 18. Alteration of water and gas pipes, &c.[^c5588901][^c-ad545036c42afab0548908496687b006]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ It shall be lawful for the company, for the purpose of constructing the railway,
 
     S. 18 excluded (24.3.1994) by [1994 c. iii](https://www.legislation.gov.uk/ukla/1994/3), [s. 1](https://www.legislation.gov.uk/ukla/1994/3/section/1), [Sch. Pt. I para. 3(2)(b)](https://www.legislation.gov.uk/ukla/1994/3/schedule/part/I/paragraph/3/2/b)
 
-[^key-ad545036c42afab0548908496687b006]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/18) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-ad545036c42afab0548908496687b006]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/18) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
 
 [^c5588911]: Textual amendment: Words repealed by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(3)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/3), [Sch. 11](https://www.legislation.gov.uk/ukpga/1984/54/schedule/11)

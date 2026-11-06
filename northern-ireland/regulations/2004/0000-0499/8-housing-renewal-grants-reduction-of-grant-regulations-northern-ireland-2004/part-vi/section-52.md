@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Revocations[^key-34f796d7d1a3a01806100089a110fb7a]
+## 52. Revocations[^c-34f796d7d1a3a01806100089a110fb7a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Regulations listed in Schedule 5 are hereby revoked.
 
 ## Annotations
 
-[^key-34f796d7d1a3a01806100089a110fb7a]: Commencement: Reg. 52 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-34f796d7d1a3a01806100089a110fb7a]: Commencement: Reg. 52 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

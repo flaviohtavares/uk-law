@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Interpretation of Part[^key-94b6834e02b2aa0cb609ab8226d770bd]
+## 172. Interpretation of Part[^c-94b6834e02b2aa0cb609ab8226d770bd]
 
 *Extent: E+W+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - “institution within the higher education sector”—
   - (a) in relation to England, has the same meaning as in the Education Act 1996 (c. 56) (see section 4(4) of that Act);
-  - (b) [^key-ff54d2c460b4c4b0c06a2796b1de4f72]...
+  - (b) [^c-ff54d2c460b4c4b0c06a2796b1de4f72]...
 - “**Ofqual**” means the Office of Qualifications and Examinations Regulation;
 - “**qualification to which this Part applies**” has the meaning given by section 130;
 - “**regulated assessment arrangements**” has the meaning given by section 131;
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94b6834e02b2aa0cb609ab8226d770bd]: Commencement: S. 172 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-94b6834e02b2aa0cb609ab8226d770bd]: Commencement: S. 172 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-ff54d2c460b4c4b0c06a2796b1de4f72]: Textual amendment: Words in s. 172(1) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-ff54d2c460b4c4b0c06a2796b1de4f72]: Textual amendment: Words in s. 172(1) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1

@@ -27,10 +27,10 @@ summary: ''
 
 the charge to corporation tax reflects the fact that the arrangement equates, in substance, to such a transaction.
 
-(2) Sections 543 to 546[^key-2afa26ae4e7ab36f17e877b3f428bbf2] make provision about arrangements which are creditor repos or creditor quasi-repos.
+(2) Sections 543 to 546[^c-2afa26ae4e7ab36f17e877b3f428bbf2] make provision about arrangements which are creditor repos or creditor quasi-repos.
 
 (3) Sections 548 to 551 make provision about arrangements which are debtor repos or debtor quasi-repos.
 
 ## Annotations
 
-[^key-2afa26ae4e7ab36f17e877b3f428bbf2]: Textual amendment: Figure in s. 542(2) substituted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-2afa26ae4e7ab36f17e877b3f428bbf2]: Textual amendment: Figure in s. 542(2) substituted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

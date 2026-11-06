@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27B (Extent: W.). Orders establishing separate community councils for communities (Extent: W.)[^key-67ec08cbd0a15c6fcc46cb45dc571e34]
+## 27B (Extent: W.). Orders establishing separate community councils for communities (Extent: W.)[^c-67ec08cbd0a15c6fcc46cb45dc571e34]
 
 *Extent: E+W.*
 
@@ -42,4 +42,4 @@ by the order, or by an order under section 27J or section 27L below. *(Extent: W
 
 ## Annotations
 
-[^key-67ec08cbd0a15c6fcc46cb45dc571e34]: Textual amendment: S. 27B inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 102](https://www.legislation.gov.uk/mwa/2011/4/section/102), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-67ec08cbd0a15c6fcc46cb45dc571e34]: Textual amendment: S. 27B inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 102](https://www.legislation.gov.uk/mwa/2011/4/section/102), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

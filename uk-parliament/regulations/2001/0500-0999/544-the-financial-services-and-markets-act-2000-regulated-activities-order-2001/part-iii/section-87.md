@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Funeral plan contracts[^key-d96009f4d472820815f27c9912fedfb7]
+## 87. Funeral plan contracts[^c-d96009f4d472820815f27c9912fedfb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Rights under a funeral plan contract.
 
 ## Annotations
 
-[^key-d96009f4d472820815f27c9912fedfb7]: Commencement: Art. 87 in force at 1.1.2002, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2001/544/article/2/2/a)
+[^c-d96009f4d472820815f27c9912fedfb7]: Commencement: Art. 87 in force at 1.1.2002, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2001/544/article/2/2/a)

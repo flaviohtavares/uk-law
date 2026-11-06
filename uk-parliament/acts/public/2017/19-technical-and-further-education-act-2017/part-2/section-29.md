@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Indemnities: repayment by further education bodies etc[^key-3a6020c4aaf94cd309f92f963a64fa78]
+## 29. Indemnities: repayment by further education bodies etc[^c-3a6020c4aaf94cd309f92f963a64fa78]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6020c4aaf94cd309f92f963a64fa78]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/19/section/29) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-3a6020c4aaf94cd309f92f963a64fa78]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/19/section/29) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

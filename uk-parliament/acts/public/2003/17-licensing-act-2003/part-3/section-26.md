@@ -25,8 +25,8 @@ summary: ''
 - (a) it is revoked under section 52, or
 - (b) if it specifies that it has effect for a limited period, that period expires.
 
-(2) But a premises licence does not have effect during any period when it is suspended under section 52 or 55A[^key-0a506cd67e171584b87993aed79f458d] .
+(2) But a premises licence does not have effect during any period when it is suspended under section 52 or 55A[^c-0a506cd67e171584b87993aed79f458d] .
 
 ## Annotations
 
-[^key-0a506cd67e171584b87993aed79f458d]: Textual amendment: Words in s. 26(2) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 120(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 120(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-0a506cd67e171584b87993aed79f458d]: Textual amendment: Words in s. 26(2) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 120(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 120(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

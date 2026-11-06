@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 116. Supply of information – extended payments (qualifying contributory benefits)[^key-423dd262ec39a7e63cb5a6f69ad857b3]
+## 116. Supply of information – extended payments (qualifying contributory benefits)[^c-423dd262ec39a7e63cb5a6f69ad857b3]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-423dd262ec39a7e63cb5a6f69ad857b3]: Textual amendment: Reg. 116 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/3/3)
+[^c-423dd262ec39a7e63cb5a6f69ad857b3]: Textual amendment: Reg. 116 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/3/3)

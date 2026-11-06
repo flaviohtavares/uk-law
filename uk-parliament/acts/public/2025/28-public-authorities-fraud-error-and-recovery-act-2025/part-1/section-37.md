@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Deputies[^key-4919e6818800ee2581aff9936ba7d132][^key-77fa855d912a66c199170c1a97fac292]
+## 37. Deputies[^c-4919e6818800ee2581aff9936ba7d132][^c-77fa855d912a66c199170c1a97fac292]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4919e6818800ee2581aff9936ba7d132]: Commencement: S. 37 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-4919e6818800ee2581aff9936ba7d132]: Commencement: S. 37 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-77fa855d912a66c199170c1a97fac292]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/28/section/37) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-77fa855d912a66c199170c1a97fac292]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/28/section/37) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

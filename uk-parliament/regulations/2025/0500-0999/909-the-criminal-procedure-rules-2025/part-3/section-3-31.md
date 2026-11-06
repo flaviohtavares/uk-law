@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.31. Application for indication of sentence[^key-85f15d84e5c844807949337ba6ce838a]
+## 3.31. Application for indication of sentence[^c-85f15d84e5c844807949337ba6ce838a]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85f15d84e5c844807949337ba6ce838a]: Commencement: [Rule 3.31](https://www.legislation.gov.uk/uksi/2025/909/rule/3.31) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-85f15d84e5c844807949337ba6ce838a]: Commencement: [Rule 3.31](https://www.legislation.gov.uk/uksi/2025/909/rule/3.31) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

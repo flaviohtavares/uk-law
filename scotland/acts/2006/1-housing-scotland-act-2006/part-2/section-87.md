@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Calculation of amount to be paid on breach of conditions[^key-0f44e4189cbfd62e12c57a5597e929ad]
+## 87. Calculation of amount to be paid on breach of conditions[^c-0f44e4189cbfd62e12c57a5597e929ad]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f44e4189cbfd62e12c57a5597e929ad]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2006/1/section/87) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-0f44e4189cbfd62e12c57a5597e929ad]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2006/1/section/87) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

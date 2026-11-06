@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Consequential amendments of Children and Young People (Scotland) Act 2014[^key-23377bd1c91731369b25617fddc9c5dd]
+## 22. Consequential amendments of Children and Young People (Scotland) Act 2014[^c-23377bd1c91731369b25617fddc9c5dd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23377bd1c91731369b25617fddc9c5dd]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/1/section/22) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-23377bd1c91731369b25617fddc9c5dd]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/1/section/22) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

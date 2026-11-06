@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Defence to proceedings in respect of statutory nuisance[^key-5131ebacf634d96f865d8a99350722fe]
+## 34. Defence to proceedings in respect of statutory nuisance[^c-5131ebacf634d96f865d8a99350722fe]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5131ebacf634d96f865d8a99350722fe]: Commencement: Art. 34 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-5131ebacf634d96f865d8a99350722fe]: Commencement: Art. 34 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00021]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82 was amended by section 103 of the Clean Neighbourhoods and Environment Act [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16); Section 79 was amended by sections 101 and 102 of the same Act.
 

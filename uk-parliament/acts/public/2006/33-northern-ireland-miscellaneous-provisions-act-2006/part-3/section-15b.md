@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Confidentiality of donations received before 1 January 2014[^key-b39e90cd08f0cc32918c2de3c981f38c]
+## 15B. Confidentiality of donations received before 1 January 2014[^c-b39e90cd08f0cc32918c2de3c981f38c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b39e90cd08f0cc32918c2de3c981f38c]: Textual amendment: Ss. 15A, 15B inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/2), [28(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/i)
+[^c-b39e90cd08f0cc32918c2de3c981f38c]: Textual amendment: Ss. 15A, 15B inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/2), [28(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/i)

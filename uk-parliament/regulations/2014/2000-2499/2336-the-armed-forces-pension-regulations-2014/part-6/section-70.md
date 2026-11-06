@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Annual rate of adult dependants’ pensions payable on death of active member[^key-f3db1a692c95c032a329b7abfc2860b7]
+## 70. Annual rate of adult dependants’ pensions payable on death of active member[^c-f3db1a692c95c032a329b7abfc2860b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3db1a692c95c032a329b7abfc2860b7]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2014/2336/regulation/70) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-f3db1a692c95c032a329b7abfc2860b7]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2014/2336/regulation/70) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

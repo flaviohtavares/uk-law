@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Trainees[^key-4b2f7d0c261721519c4ed18f86150cc4][^key-5390a17a4b434d130604e9e2ceb5b5eb]
+## 66. Trainees[^c-4b2f7d0c261721519c4ed18f86150cc4][^c-5390a17a4b434d130604e9e2ceb5b5eb]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b2f7d0c261721519c4ed18f86150cc4]: Commencement: S. 66 in force at 30.10.2012 for specified purposes by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/b)
+[^c-4b2f7d0c261721519c4ed18f86150cc4]: Commencement: S. 66 in force at 30.10.2012 for specified purposes by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/b)
 
-[^key-5390a17a4b434d130604e9e2ceb5b5eb]: Commencement: S. 66 in force at 31.10.2013 in so far as not already in force by [S.I. 2013/2534](https://www.legislation.gov.uk/uksi/2013/2534), [art. 2](https://www.legislation.gov.uk/uksi/2013/2534/article/2)
+[^c-5390a17a4b434d130604e9e2ceb5b5eb]: Commencement: S. 66 in force at 31.10.2013 in so far as not already in force by [S.I. 2013/2534](https://www.legislation.gov.uk/uksi/2013/2534), [art. 2](https://www.legislation.gov.uk/uksi/2013/2534/article/2)

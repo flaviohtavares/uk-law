@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Use of access charges reviews for application of strategy[^key-a4a4dfc0640c40898005face9439f1f6]
+## 4. Use of access charges reviews for application of strategy[^c-a4a4dfc0640c40898005face9439f1f6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 4 (which amends Schedule 4A to the 1993 Act to broaden the scope of acc
 
 ## Annotations
 
-[^key-a4a4dfc0640c40898005face9439f1f6]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/14/section/4) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/b)
+[^c-a4a4dfc0640c40898005face9439f1f6]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/14/section/4) in force at 29.1.2007 by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/b)

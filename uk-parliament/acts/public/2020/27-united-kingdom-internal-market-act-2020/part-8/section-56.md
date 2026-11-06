@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Regulations: general[^key-e52efbb280e60c70945050f3205fef94]
+## 56. Regulations: general[^c-e52efbb280e60c70945050f3205fef94]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52efbb280e60c70945050f3205fef94]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2020/27/section/56) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/m)
+[^c-e52efbb280e60c70945050f3205fef94]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2020/27/section/56) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/m)

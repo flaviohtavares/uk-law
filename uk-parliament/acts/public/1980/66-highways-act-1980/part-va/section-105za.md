@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105ZA. Interpretation[^key-a30afcbc2bf0d228fedb7dcb0ea385f5][^c13422031]
+## 105ZA. Interpretation[^c-a30afcbc2bf0d228fedb7dcb0ea385f5][^c13422031]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 - “the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092) of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment;
 - “the environment” means—
   - (a) population and human health,
-  - (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom which implemented[^key-d7dfca2dc3a5d2e8515ba9ddf1e41fa6]—
+  - (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom which implemented[^c-d7dfca2dc3a5d2e8515ba9ddf1e41fa6]—
     - (i) Council [Directive 92/43/EEC](https://www.legislation.gov.uk/eudr/1992/0043) of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, and
     - (ii) [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds,
   - (c) land, soil, water, air and climate,
@@ -48,8 +48,8 @@ summary: ''
   - (c) the consideration of the environmental statement and other information about the likely significant effects of the project on the environment,
   - (d) the reaching of a reasoned conclusion about the significant effects of the project on the environment, and
   - (e) the consideration of the reasoned conclusion when deciding whether to proceed with the project;
-- “environmental assessment” means an assessment of the effect of anything on the environment if the assessment is carried out under—[^key-e786bb618d200e070ed65f285bc59e31]
-  - (a) assimilated[^key-aba333c07ad0916429731c3046795f37] law, or
+- “environmental assessment” means an assessment of the effect of anything on the environment if the assessment is carried out under—[^c-e786bb618d200e070ed65f285bc59e31]
+  - (a) assimilated[^c-aba333c07ad0916429731c3046795f37] law, or
   - (b) any other law of any part of the United Kingdom, other than any law which implemented the Directive;
 - “member of the public” includes a body of persons corporate or unincorporate;
 - “official website” means a website maintained by or on behalf of the project authority;
@@ -63,10 +63,10 @@ summary: ''
   - (d) an area of outstanding natural beauty designated as such under section 82 of the Countryside and Rights of Way Act 2000,
   - (e) the Broads as defined in the Norfolk and Suffolk Broads Act 1988,
   - (f) a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage,
-  - (g) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^key-7976a88a8330eb9247f83deaa76600f5], or
+  - (g) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^c-7976a88a8330eb9247f83deaa76600f5], or
   - (h) a European site within the meaning of the Conservation of Habitats and Species Regulations 2010 (see regulation 8).
 
-(1A)[^key-0f5b222cfd3abe31797ad2faf24a5e84] In this Part, references to provisions of the Directive are to be read as if—
+(1A)[^c-0f5b222cfd3abe31797ad2faf24a5e84] In this Part, references to provisions of the Directive are to be read as if—
 
 - (a) in Annex III—
   - (i) in point 2(c)(v), the reference to Member States were a reference to the Secretary of State;
@@ -94,16 +94,16 @@ summary: ''
 
 ## Annotations
 
-[^key-a30afcbc2bf0d228fedb7dcb0ea385f5]: Textual amendment: S. 105ZA inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/2) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
+[^c-a30afcbc2bf0d228fedb7dcb0ea385f5]: Textual amendment: S. 105ZA inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/2) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
 
 [^c13422031]: Textual amendment: Pt. VA substituted (13.3.1999) by [S.I. 1999/369](https://www.legislation.gov.uk/uksi/1999/369), [reg.2](https://www.legislation.gov.uk/uksi/1999/369/regulation/2)
 
-[^key-d7dfca2dc3a5d2e8515ba9ddf1e41fa6]: Textual amendment: Words in [s. 105ZA(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA/1) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/2/a)
+[^c-d7dfca2dc3a5d2e8515ba9ddf1e41fa6]: Textual amendment: Words in [s. 105ZA(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA/1) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/2/a)
 
-[^key-e786bb618d200e070ed65f285bc59e31]: Textual amendment: Words in [s. 105ZA(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA/1) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/2/b)
+[^c-e786bb618d200e070ed65f285bc59e31]: Textual amendment: Words in [s. 105ZA(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA/1) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/2/b)
 
-[^key-aba333c07ad0916429731c3046795f37]: Textual amendment: Word in [s. 105ZA](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/11)
+[^c-aba333c07ad0916429731c3046795f37]: Textual amendment: Word in [s. 105ZA](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/11)
 
-[^key-7976a88a8330eb9247f83deaa76600f5]: Textual amendment: Words in [s. 105ZA](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 55](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/55) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-7976a88a8330eb9247f83deaa76600f5]: Textual amendment: Words in [s. 105ZA](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 55](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/55) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-0f5b222cfd3abe31797ad2faf24a5e84]: Textual amendment: [S. 105ZA(1A)](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA/1A) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/3)
+[^c-0f5b222cfd3abe31797ad2faf24a5e84]: Textual amendment: [S. 105ZA(1A)](https://www.legislation.gov.uk/ukpga/1980/66/section/105ZA/1A) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/3)

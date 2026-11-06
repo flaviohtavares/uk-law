@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11E. Conditions of waste management licences: Materials facilities[^key-3b5ff4ec2de82251c8adf7444bbf1959]
+## 11E. Conditions of waste management licences: Materials facilities[^c-3b5ff4ec2de82251c8adf7444bbf1959]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department shall ensure that any waste management licence granted or varied 
 
 ## Annotations
 
-[^key-3b5ff4ec2de82251c8adf7444bbf1959]: Textual amendment: [Reg. 11E](https://www.legislation.gov.uk/nisr/2003/493/regulation/11E) inserted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/18/regulation/2/2)
+[^c-3b5ff4ec2de82251c8adf7444bbf1959]: Textual amendment: [Reg. 11E](https://www.legislation.gov.uk/nisr/2003/493/regulation/11E) inserted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/18/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Eligible land: salmon fishings and mineral rights[^key-714bc6fdba38743c7f769d3f51d21628]
+## 47. Eligible land: salmon fishings and mineral rights[^c-714bc6fdba38743c7f769d3f51d21628]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-714bc6fdba38743c7f769d3f51d21628]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2016/18/section/47) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-714bc6fdba38743c7f769d3f51d21628]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2016/18/section/47) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

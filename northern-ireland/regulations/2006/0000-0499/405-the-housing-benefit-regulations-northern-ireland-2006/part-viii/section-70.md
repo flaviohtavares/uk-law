@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Extended Payments[^key-cbfbb619dbc352a5146e2ac20cb60ae0]
+## 70. Extended Payments[^c-cbfbb619dbc352a5146e2ac20cb60ae0]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbfbb619dbc352a5146e2ac20cb60ae0]: Textual amendment: [Regs. 70-70C](https://www.legislation.gov.uk/nisr/2006/405/regulation/70) substituted for [reg. 70](https://www.legislation.gov.uk/nisr/2006/405/regulation/70) (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/4)
+[^c-cbfbb619dbc352a5146e2ac20cb60ae0]: Textual amendment: [Regs. 70-70C](https://www.legislation.gov.uk/nisr/2006/405/regulation/70) substituted for [reg. 70](https://www.legislation.gov.uk/nisr/2006/405/regulation/70) (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94.[^key-3aea68f5f61a1a20e4c35a51c07f18f8]
+## 94.[^c-3aea68f5f61a1a20e4c35a51c07f18f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 34—
 
 ## Annotations
 
-[^key-3aea68f5f61a1a20e4c35a51c07f18f8]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3aea68f5f61a1a20e4c35a51c07f18f8]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

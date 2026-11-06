@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Old system students[^key-ffe51cc118fdc30b4d0f07ae1449741b]
+## 13. Old system students[^c-ffe51cc118fdc30b4d0f07ae1449741b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffe51cc118fdc30b4d0f07ae1449741b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/195/regulation/13) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-ffe51cc118fdc30b4d0f07ae1449741b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/195/regulation/13) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

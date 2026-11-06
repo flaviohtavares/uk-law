@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 89(5)(*c*) to (*e*), 90(3)(*d*) and (6), 92(1) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-db404fb4bb7ba7b0a7a766af25a3cab2]
+## 1. Citation, commencement and interpretation[^c-db404fb4bb7ba7b0a7a766af25a3cab2]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -53,7 +53,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-## 2. Commutation of a pension under an occupational pension scheme[^key-ec1f6461091399507cdd939e957d980c]
+## 2. Commutation of a pension under an occupational pension scheme[^c-ec1f6461091399507cdd939e957d980c]
 
 (1) For the purposes of Article 89(5)(*c*)(ii) and (iii) (inalienability of occupational pension does not apply to commutation in prescribed circumstances) the prescribed circumstances are where—
 
@@ -66,19 +66,19 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) For the purposes of paragraph (1)(*a*)(ii) an occupational pension scheme shall be treated as being wound up when any of the circumstances referred to in regulation 2 of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00006] (commencement of winding up) apply.
 
-## 3. Charge or lien on, or set-off against, transfer credits[^key-9955e3e5a0f0dd2dd63b27ec6832aff9]
+## 3. Charge or lien on, or set-off against, transfer credits[^c-9955e3e5a0f0dd2dd63b27ec6832aff9]
 
 For the purposes of Article 89(5)(*d*) (charge or lien on, or set-off against, transfer credits by employer) the prescribed transfer credits are those transfer credits attributable to employment with the same employer or an associated employer and the benefits of which could have been charged or a lien or set-off exercised in respect of such benefits under the occupational pension scheme from which the transfer was made.
 
-## 4. Charge or lien on, or set-off against, an occupational pension[^key-4100aef1579325967a15c507bc4f6896]
+## 4. Charge or lien on, or set-off against, an occupational pension[^c-4100aef1579325967a15c507bc4f6896]
 
 For the purposes of Article 89(5)(*e*) (charge or lien on, or set-off against, entitlement or accrued right to a pension for the purpose of discharging some monetary obligation to the scheme except in prescribed circumstances) the prescribed circumstance is where a monetary obligation arises out of a breach of trust by the person in question and the court has relieved him wholly or partly from personal liability under section 61 of the Trustee Act (Northern Ireland) 1958[^f00007].
 
-## 5. Payability of pension where forfeiture occurs[^key-42c68c2733d8c62395a374c60b097f75]
+## 5. Payability of pension where forfeiture occurs[^c-42c68c2733d8c62395a374c60b097f75]
 
 For the purposes of Article 90(3)(*d*) (class of persons to whom a forfeited pension may be paid) the prescribed class is any person (other than a person mentioned in Article 90(3)(*a*) to (*c*)) to whom, under the rules of the scheme, the pension was or could have been paid.
 
-## 6. Forfeiture of occupational pension[^key-98b7418146fa834e2440139643934927]
+## 6. Forfeiture of occupational pension[^c-98b7418146fa834e2440139643934927]
 
 (1) For the purposes of Article 90(6) (a pension under an occupational pension scheme cannot be forfeited except in prescribed circumstances) the prescribed circumstances are where—
 
@@ -97,11 +97,11 @@ For the purposes of Article 90(3)(*d*) (class of persons to whom a forfeited pen
 
 (3) A person’s entitlement or accrued right to a pension may be forfeited under paragraph (1)(*b*) to the extent only that it does not exceed the amount of the monetary loss to the scheme, or (if less) the value of the person’s entitlement or accrued right under the scheme.
 
-## 7. Modification of Article 89 in respect of public service pension schemes and the Armed Forces Pension Scheme[^key-6d27bf1dc0132d6b41492a64594f8b2a]
+## 7. Modification of Article 89 in respect of public service pension schemes and the Armed Forces Pension Scheme[^c-6d27bf1dc0132d6b41492a64594f8b2a]
 
 Article 89(5)(*d*) shall have effect in its application to public service pension schemes and the Armed Forces Pension Scheme with the omission of the words “and arising out of a criminal, negligent or fraudulent act or omission by him”.
 
-## 8. Exemptions from the inalienability and forfeiture provisions[^key-10d74c7ff3fd0a77352a2aff0e093de4]
+## 8. Exemptions from the inalienability and forfeiture provisions[^c-10d74c7ff3fd0a77352a2aff0e093de4]
 
 (1) If a scheme is one the trustees of which have made or wish to make a loan in respect of which the conditions of regulation 6(8) of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996[^f00008] (investments to which the restrictions do not apply) are met, Article 89(1)(*b*) shall not apply to the extent that it would prevent the directors' interest under the policy referred to being used as security for that loan.
 
@@ -149,7 +149,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-db404fb4bb7ba7b0a7a766af25a3cab2]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-db404fb4bb7ba7b0a7a766af25a3cab2]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
 [^f00002]: Footnote: [1865 c. 73](https://www.legislation.gov.uk/ukpga/1865/73)
 
@@ -159,23 +159,23 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00005]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-ec1f6461091399507cdd939e957d980c]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-ec1f6461091399507cdd939e957d980c]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621)
 
-[^key-9955e3e5a0f0dd2dd63b27ec6832aff9]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-9955e3e5a0f0dd2dd63b27ec6832aff9]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
-[^key-4100aef1579325967a15c507bc4f6896]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-4100aef1579325967a15c507bc4f6896]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
 [^f00007]: Footnote: [1958 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1958/23)
 
-[^key-42c68c2733d8c62395a374c60b097f75]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-42c68c2733d8c62395a374c60b097f75]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
-[^key-98b7418146fa834e2440139643934927]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-98b7418146fa834e2440139643934927]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
-[^key-6d27bf1dc0132d6b41492a64594f8b2a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-6d27bf1dc0132d6b41492a64594f8b2a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
-[^key-10d74c7ff3fd0a77352a2aff0e093de4]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
+[^c-10d74c7ff3fd0a77352a2aff0e093de4]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/153/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584)
 

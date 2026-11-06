@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — SPECIAL ROADS[^key-da5a11b387eb7b5eee58ddc047f6657f]
+### PART 1 — SPECIAL ROADS[^c-da5a11b387eb7b5eee58ddc047f6657f]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -39,7 +39,7 @@ Article 13
 | M66 slip road (southbound) to M62 (eastbound) (via Junction 18) | Between point 4/02 on Sheet 4 and 2/08 on Sheet 2 of the classification of roads plans, for a distance of 851 metres |
 | M62 Slip Road (westbound) to M66 (southbound) | Between point 2/09 on Sheet 2 and 3/01 on Sheet 3 of the classification of roads plans, for a distance of 574 metres |
 
-### PART 2 — PUBLIC RIGHTS OF WAY[^key-9a0ef1c9141c92efe9dd1e385ad32e28]
+### PART 2 — PUBLIC RIGHTS OF WAY[^c-9a0ef1c9141c92efe9dd1e385ad32e28]
 
 | *(1)*<br>*Public right of way* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -47,7 +47,7 @@ Article 13
 | Footpath 9WHI, Simister (Work No. 40) | 673 metres of footpath (757 metres including retained) around the Northern Loop between points 4/4 on Sheet 4 and 2/E on Sheet 2 of the streets, rights of way and access plans |
 | Footpath 7WHI, Unsworth (Work No. 47) | 91 metres of footpath (110 metres including retained) between points 4/2 and 4/B on Sheet 4 of the streets, rights of way and access plans |
 
-### PART 3 — PRIVATE MEANS OF ACCESS[^key-fd60b649908fadbd0a8005c46117ed5d]
+### PART 3 — PRIVATE MEANS OF ACCESS[^c-fd60b649908fadbd0a8005c46117ed5d]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -60,8 +60,8 @@ Article 13
 
 ## Annotations
 
-[^key-da5a11b387eb7b5eee58ddc047f6657f]: Commencement: Sch. 3 Pt. 1 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-da5a11b387eb7b5eee58ddc047f6657f]: Commencement: Sch. 3 Pt. 1 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
-[^key-9a0ef1c9141c92efe9dd1e385ad32e28]: Commencement: Sch. 3 Pt. 2 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-9a0ef1c9141c92efe9dd1e385ad32e28]: Commencement: Sch. 3 Pt. 2 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
-[^key-fd60b649908fadbd0a8005c46117ed5d]: Commencement: Sch. 3 Pt. 3 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-fd60b649908fadbd0a8005c46117ed5d]: Commencement: Sch. 3 Pt. 3 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

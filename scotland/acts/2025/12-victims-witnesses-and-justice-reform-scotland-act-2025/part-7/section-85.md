@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Rights of audience: review[^key-2c12d1457072ff820eeb16a3c95f3f51]
+## 85. Rights of audience: review[^c-2c12d1457072ff820eeb16a3c95f3f51]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c12d1457072ff820eeb16a3c95f3f51]: Commencement: S. 85 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2c12d1457072ff820eeb16a3c95f3f51]: Commencement: S. 85 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

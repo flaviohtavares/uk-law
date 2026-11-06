@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Certification of plans, etc.[^key-c422af504d14a6aad59fc768274720b9]
+## 25. Certification of plans, etc.[^c-c422af504d14a6aad59fc768274720b9]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-c422af504d14a6aad59fc768274720b9]: Commencement: Art. 25 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-c422af504d14a6aad59fc768274720b9]: Commencement: Art. 25 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

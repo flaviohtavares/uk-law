@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Search and seizure warrants[^key-76bad5494fae35fcfa5249e998783f2f]
+## 23. Search and seizure warrants[^c-76bad5494fae35fcfa5249e998783f2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76bad5494fae35fcfa5249e998783f2f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/6/section/23) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-76bad5494fae35fcfa5249e998783f2f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/6/section/23) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

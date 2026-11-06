@@ -45,11 +45,11 @@ The Department of Health and Social Services, in exercise of the powers set out 
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-91a28c68ff99fd864b91b6294b122102]
+### 1. Citation and commencement[^c-91a28c68ff99fd864b91b6294b122102]
 
 These Regulations may be cited as the Pharmaceutical Services Regulations (Northern Ireland) 1997 and shall come into operation on 6th October 1997.
 
-### 2. Interpretation[^key-167af3e976c4d341a71c982e28649465]
+### 2. Interpretation[^c-167af3e976c4d341a71c982e28649465]
 
 (1) In these Regulations—
 
@@ -112,7 +112,7 @@ against whose name (in each case) is recorded in the professional register an an
 
 ## PART II — PROVISION OF PHARMACEUTICAL SERVICES BY CHEMISTS
 
-### 3. Pharmaceutical services[^key-2b5d5b184b17cc3795f9305faeb6054f]
+### 3. Pharmaceutical services[^c-2b5d5b184b17cc3795f9305faeb6054f]
 
 (1) The arrangements for the provision of pharmaceutical services by chemists shall include arrangements for—
 
@@ -142,7 +142,7 @@ against whose name (in each case) is recorded in the professional register an an
 - (a) included in or excluded from any arrangements for the supply of contraceptive substances and appliances; or
 - (b) included in or excluded from any arrangements for the provision of “supplemental services”.
 
-### 4. Additional professional services[^key-5e973f85fdc3c2bb73302b418ddb2609]
+### 4. Additional professional services[^c-5e973f85fdc3c2bb73302b418ddb2609]
 
 (1) A chemist may, in addition, undertake to provide additional professional services.
 
@@ -166,7 +166,7 @@ against whose name (in each case) is recorded in the professional register an an
 - (b) the name, quantity and dosage of the drug supplied; and
 - (c) the date on which the drug is supplied.
 
-### 5. Supply of drugs for terminally ill patients[^key-ca2c9b59425416921d1076c092ca23c8]
+### 5. Supply of drugs for terminally ill patients[^c-ca2c9b59425416921d1076c092ca23c8]
 
 Where—
 
@@ -175,7 +175,7 @@ Where—
 
 a chemist may supply drugs for patients of that institution on presentation by that institution of a composite order form signed by a doctor.
 
-### 6. Pharmaceutical list[^key-5cfae9e1e6b80f8ea669896f7634cccc]
+### 6. Pharmaceutical list[^c-5cfae9e1e6b80f8ea669896f7634cccc]
 
 (1) Each Board shall prepare a list to be called “the pharmaceutical list” of the names of persons, other than doctors and dentists, who undertake to provide pharmaceutical services and of the addresses of the premises within the Board's area from which these persons undertake to provide such services. A list prepared under this regulation shall also—
 
@@ -226,7 +226,7 @@ the Board shall grant the application and shall notify its decision in accordanc
 
 (13) Where an application is granted, the Board shall make the relevant entries in the pharmaceutical list only after the expiry of the period within which an appeal against the decision to grant the application might be intimated or the conclusion of all the appeal procedures, whichever is appropriate.
 
-### 7. Removal from pharmaceutical list[^key-fe07a192e9a0ba704c68655683761e2d]
+### 7. Removal from pharmaceutical list[^c-fe07a192e9a0ba704c68655683761e2d]
 
 (1) Where a chemist has—
 
@@ -250,11 +250,11 @@ the Board shall remove his name from the pharmaceutical list.
 - (a) prejudice the right of a chemist to be included again in the pharmaceutical list; or
 - (b) apply to a chemist who is performing a period of relevant service, and paragraph (2) shall not apply in respect of any such chemist until 6 months after he has completed that relevant service.
 
-### 8. Scheme for securing proper pharmaceutical services[^key-a06a872a974d115383eedb9363d1bc5c]
+### 8. Scheme for securing proper pharmaceutical services[^c-a06a872a974d115383eedb9363d1bc5c]
 
 The Board, after consultation with the Local Pharmaceutical Committee, shall prepare a scheme for testing the quality and amount of the drugs and appliances supplied and the accuracy of dispensing.
 
-### 9. Standards of, and payments for, drugs and appliances[^key-cdd3bc3f63ededa245782c91591f4db9]
+### 9. Standards of, and payments for, drugs and appliances[^c-cdd3bc3f63ededa245782c91591f4db9]
 
 (1) For the purpose of enabling arrangements to be made for the provision of pharmaceutical services, the Department shall compile and publish a statement (in these Regulations referred to as "the Drug Tariff') which it may amend from time to time and which, subject to paragraph (2), shall include—
 
@@ -276,7 +276,7 @@ The Board, after consultation with the Local Pharmaceutical Committee, shall pre
 
 (5) A determination made by the Board by virtue of paragraph (2) shall include the arrangements for claiming the specified fees, allowances or other remuneration, and shall be published by the Board in such manner as it thinks suitable for bringing the determination to the attention of the chemists in its area.
 
-### 10. Payments to suspended chemists[^key-421c9df28ea6ece5aca67df30d0f418c]
+### 10. Payments to suspended chemists[^c-421c9df28ea6ece5aca67df30d0f418c]
 
 (1) The Board shall make payments to any chemist who is suspended by direction of the Tribunal in accordance with a determination made by the Department in relation to such payments.
 
@@ -292,14 +292,14 @@ The Board, after consultation with the Local Pharmaceutical Committee, shall pre
 
 ## PART III — PROVISION OF PHARMACEUTICAL SERVICES BY DOCTORS
 
-### 11. Provision of pharmaceutical services for immediate treatment or personal administration[^key-1ad98b7549b28f164234b162669ad3fa]
+### 11. Provision of pharmaceutical services for immediate treatment or personal administration[^c-1ad98b7549b28f164234b162669ad3fa]
 
 A doctor—
 
 - (a) shall provide to a patient any appliance or drug, not being a Scheduled drug, where such provision is needed for the immediate treatment of that patient before a provision can otherwise be obtained; and
 - (b) may provide to a patient any appliance or drug, not being a Scheduled drug, which he personally administers or applies to that patient.
 
-### 12. Arrangements for provision of pharmaceutical services by doctors[^key-66c2a429d9595202b227f2b198febbf7]
+### 12. Arrangements for provision of pharmaceutical services by doctors[^c-66c2a429d9595202b227f2b198febbf7]
 
 (1) Where the Board is satisfied that a person, by reason of distance, inadequacy of means of communication or other exceptional circumstances, would have serious difficulty in obtaining any necessary drugs not being Scheduled drugs or appliances from a chemist it may, unless the person notifies it that, notwithstanding, he desires to obtain such drugs or appliances from a chemist, require the doctor in whose list of patients the person is included to supply to that person until further notice such drugs or appliances as would otherwise under these Regulations have been supplied by a chemist.
 
@@ -313,7 +313,7 @@ A doctor—
 
 ## PART IV — PHARMACEUTICAL COMMITTEE
 
-### 13. Constitution[^key-4391e0eabdee6bb155a1ec47eedf2cad]
+### 13. Constitution[^c-4391e0eabdee6bb155a1ec47eedf2cad]
 
 The Pharmaceutical Committee shall be constituted by the Agency in accordance with Schedule 5 for the purpose of carrying out duties in connection with—
 
@@ -323,7 +323,7 @@ The Pharmaceutical Committee shall be constituted by the Agency in accordance wi
 
 ## PART V — MISCELLANEOUS
 
-### 14. Publication of particulars[^key-ec383fe32ba48433f6edd486da6df9fb]
+### 14. Publication of particulars[^c-ec383fe32ba48433f6edd486da6df9fb]
 
 (1) The Board shall make available for inspection at its offices up to date copies of the following documents—
 
@@ -339,14 +339,14 @@ The Pharmaceutical Committee shall be constituted by the Agency in accordance wi
 
 (3) The Board shall send a copy of the pharmaceutical list to the Department, the Agency, each Local Pharmaceutical Committee, each Local Medical Committee and each local Dental Committee, and shall, within 14 days of any alteration in the pharmaceutical list, so inform each of them in writing.
 
-### 15. Exercise of choice of chemist in certain cases[^key-b39020f99b5cfeb8c1b4c1572effa5c7]
+### 15. Exercise of choice of chemist in certain cases[^c-b39020f99b5cfeb8c1b4c1572effa5c7]
 
 An application to a chemist for the provision of pharmaceutical services may be made (other than by the chemist concerned)—
 
 - (a) on behalf of any child by either parent, or in the absence of both parents, the other person who has parental responsibility for or care of the child; or
 - (b) on behalf of any person by another person authorised by the first mentioned person.
 
-### 16. Claims and overpayments[^key-d4011aa9f56ba1aaa32a3f9bab18280a]
+### 16. Claims and overpayments[^c-d4011aa9f56ba1aaa32a3f9bab18280a]
 
 (1) Any claim for fees, allowances or other remuneration by chemists or doctors shall be made in accordance with the provisions of the Drug Tariff or, as the case may be, in accordance with any arrangements for claiming them included in a determination made by the Board by virtue of regulation 9 or by the Department by virtue of regulation 10(1).
 
@@ -359,7 +359,7 @@ the amount overpaid shall be recoverable by the Board by deduction from the remu
 
 (3) Recovery of an overpayment under this regulation shall be without prejudice to the investigation of an alleged breach of the terms of service of that chemist or doctor.
 
-### 17. Transitional provisions[^key-7ad5b10d7d0fed94c3eb2a47889b1153]
+### 17. Transitional provisions[^c-7ad5b10d7d0fed94c3eb2a47889b1153]
 
 Where, before the commencement of these Regulations, an appeal has been made under—
 
@@ -384,7 +384,7 @@ D. Thomson
 
 Assistant Secretary
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-a5d04a08b965caf830694d8ad0d025b1]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-a5d04a08b965caf830694d8ad0d025b1]
 
 <table>
 <thead>
@@ -421,7 +421,7 @@ Regulations 2(1) and 3(2)
 
 ### PART I — GENERAL
 
-#### 1. Incorporation of provisions[^key-110555029dbc2795b5b02a7efb440071]
+#### 1. Incorporation of provisions[^c-110555029dbc2795b5b02a7efb440071]
 
 Any provisions of the following affecting the rights and obligations of chemists or doctors who provide pharmaceutical services shall be deemed to form part of the terms of service for chemists or, as the case may be, of the terms of service for doctors who provide pharmaceutical services—
 
@@ -433,7 +433,7 @@ Any provisions of the following affecting the rights and obligations of chemists
 
 ### PART II — TERMS OF SERVICE FOR CHEMISTS
 
-#### 2. Provision of pharmaceutical services[^key-ab3eee2779c7c7a4c6525255a13baa73]
+#### 2. Provision of pharmaceutical services[^c-ab3eee2779c7c7a4c6525255a13baa73]
 
 (1) Where any person presents on a prescription form—
 
@@ -508,13 +508,13 @@ the chemist shall, subject to sub-paragraph (8), supply the drug in the pack who
 
 (19) A chemist shall not give, promise or offer to any person any gift or reward (whether by way of a share of or dividend on the profits of the business or by way of discount or rebate or otherwise) as an inducement to or in consideration of his presenting an order for drugs or appliances on a prescription form.
 
-#### 3. Professional standards[^key-05bc52353cf55a904528381e65fb5de7]
+#### 3. Professional standards[^c-05bc52353cf55a904528381e65fb5de7]
 
 (1) A pharmacist whose name is on the pharmaceutical list shall provide pharmaceutical services and exercise any professional judgement in connection with the provision of such services in conformity with the standards generally accepted in the pharmaceutical profession.
 
 (2) A chemist who employs a pharmacist in connection with the provision of pharmaceutical services shall secure that the pharmacist complies with the requirements set out in sub-paragraph (1).
 
-#### 4. Premises and hours[^key-4546cf9d550b2c0f258c2dc289ab56a4]
+#### 4. Premises and hours[^c-4546cf9d550b2c0f258c2dc289ab56a4]
 
 (1) Pharmaceutical services shall be provided at each of the premises from which the chemist has undertaken to provide pharmaceutical services at such times as, following an application in writing by the chemist to the Board, shall have been approved in his case by it or, on appeal, the Department, in accordance with the following provisions of this paragraph.
 
@@ -618,7 +618,7 @@ and shall take any such representations into account.
 - (a) where the direction is given by the Board and no appeal is made, not later than 8 weeks after the date on which he receives notification under sub-paragraph (25); or
 - (b) where the direction is given or confirmed on appeal, not later than 8 weeks after the date on which he receives notification of the Department's decision.
 
-#### 5. Supply of drugs and fitting of appliances[^key-54a449cd9378aa145f46299e4f4b99c2]
+#### 5. Supply of drugs and fitting of appliances[^c-54a449cd9378aa145f46299e4f4b99c2]
 
 (1) Drugs shall be supplied either by or under the direct supervision of a pharmacist.
 
@@ -632,21 +632,21 @@ and shall take any such representations into account.
 - (a) for measuring a person who presents on a prescription an order for an appliance of a type requiring measurement and fitting by the chemist; and
 - (b) for fitting the appliance.
 
-#### 6. Particulars of pharmacists[^key-588f02f64f4000e68c8103260e14cb60]
+#### 6. Particulars of pharmacists[^c-588f02f64f4000e68c8103260e14cb60]
 
 A chemist shall give to the Board, if it so requires, the name of any pharmacist employed by him for the supply of drugs for persons from whom he has accepted an order under paragraph 2.
 
-#### 7. Charges for drugs[^key-b73ffa515a218472e9d8cf79cda5ecb3]
+#### 7. Charges for drugs[^c-b73ffa515a218472e9d8cf79cda5ecb3]
 
 (1) Subject to regulations made under Article 98 of, and Schedule 15 to, the Order[^f00035], all drugs, containers and appliances supplied under these terms of service shall be supplied free of charge.
 
 (2) Where a chemist supplies a container in response to an order for drugs signed by a doctor under paragraph 48 of Schedule 2 to the Medical Regulations or by a nurse prescriber or supplies an oxygen container or oxygen equipment, other than equipment specified in the Drug Tariff as not returnable to the chemist, the container and equipment shall remain the property of the chemist.
 
-#### 8. Inspection of records and premises[^key-e159b9af8223c7885cc9dc929ece03bd]
+#### 8. Inspection of records and premises[^c-e159b9af8223c7885cc9dc929ece03bd]
 
 A chemist who has undertaken to provide additional professional services shall, on receipt of a request from the Board, make available to the Board all records kept in accordance with regulation 4(2)(c) and shall permit the Board or another person on its behalf at any reasonable time to inspect the premises from which those services are provided for the purpose of satisfying itself that those services are being provided in accordance with the undertaking.
 
-#### 9. Remuneration of chemists[^key-088e0326d44dd038222ae97977a5f642]
+#### 9. Remuneration of chemists[^c-088e0326d44dd038222ae97977a5f642]
 
 (1) The Board shall make payments, calculated in the manner provided by the Drug Tariff or in accordance with any determination made by virtue of regulation 9(2) (subject to any deduction required to be made by regulations made under Article 98 of, and Schedule 15 to, the Order) to chemists in respect of drugs and appliances, containers, medicine measures and dispensing or other fees.
 
@@ -661,7 +661,7 @@ A chemist who has undertaken to provide additional professional services shall, 
 - (a) payment may be made within a reasonable time; and
 - (b) that payments to a chemist shall, as nearly as may be, remain the same as if the payments had been calculated in accordance with the first mentioned method of payment, and payments calculated by any such other method shall be deemed for all purposes to be payments made in accordance with these Regulations.
 
-#### 10. Withdrawal from pharmaceutical list[^key-8926dfdefbd6796082515148101d772c]
+#### 10. Withdrawal from pharmaceutical list[^c-8926dfdefbd6796082515148101d772c]
 
 (1) Subject to sub-paragraph (2), a chemist may at any time give notice in writing to the Board that he wishes to withdraw his name from the pharmaceutical list and his name shall be removed accordingly on the expiry of the period of—
 
@@ -670,7 +670,7 @@ A chemist who has undertaken to provide additional professional services shall, 
 
 (2) Where representations are made to the Tribunal under Schedule 11 to the Order (disqualification of persons providing certain services) that the continued inclusion of a chemist in the pharmaceutical list would be prejudicial to the efficiency of pharmaceutical services, he shall not, except with the consent of the Department, be entitled to have his name removed from such a list pending the determination of the proceedings on those representations.
 
-#### 11. Complaints[^key-9a1fa2e84410c7a39970953f14f3e468]
+#### 11. Complaints[^c-9a1fa2e84410c7a39970953f14f3e468]
 
 (1) Subject to sub-paragraph (2), a chemist shall establish and operate in accordance with this paragraph, a procedure (in this paragraph and in paragraph 12 referred to as a “**complaints procedure**”) to deal with any complaints made by or on behalf of any person to whom he has provided pharmaceutical services.
 
@@ -712,7 +712,7 @@ and in this paragraph and paragraph 12, references to complaints are references 
 
 (8) At each of the premises at which the chemist provides pharmaceutical services he shall provide information about the complaints procedure, and give the name (or job title) and address of the person specified under sub-paragraph (7)(a); and where he provides supplemental services he shall provide the same information to any person to whom he has given advice in accordance with regulation 3(3)(a).
 
-**12.**[^key-0d67053f4d684649ef12fb30e68cf8e4] (1) A chemist shall co-operate with any investigation of a complaint by the Board in accordance with the procedures which it operates in accordance with directions given under Article 17(1) of the Order, whether the investigation follows one under the complaints procedure or not.
+**12.**[^c-0d67053f4d684649ef12fb30e68cf8e4] (1) A chemist shall co-operate with any investigation of a complaint by the Board in accordance with the procedures which it operates in accordance with directions given under Article 17(1) of the Order, whether the investigation follows one under the complaints procedure or not.
 
 (2) The co-operation required by sub-paragraph (1) includes—
 
@@ -722,33 +722,33 @@ and in this paragraph and paragraph 12, references to complaints are references 
 
 ### PART III — TERMS OF SERVICE FOR DOCTORS WHO PROVIDE PHARMACEUTICAL SERVICES
 
-**13.**[^key-2b210a736fed640c4d43e961f4fee023] Subject to paragraph 14, where a doctor is required by a Board under regulation 12 to supply drugs or appliances to a patient—
+**13.**[^c-2b210a736fed640c4d43e961f4fee023] Subject to paragraph 14, where a doctor is required by a Board under regulation 12 to supply drugs or appliances to a patient—
 
 - (a) he shall record an order for the supply of any drugs, or appliances which are needed for the treatment of a patient on a prescription form completed in accordance with paragraph 48(2) of the doctors' terms of service;
 - (b) he shall supply those drugs or appliances in a suitable container; and
 - (c) he shall supply to the patient a drug specified in Schedule 11 to the Medical Regulations only where the conditions in paragraph 49(2) of the doctors' terms of service are satisfied.
 
-**14.**[^key-ac005cc718e41d98f5291749410186be] (1) Paragraph 13 does not apply to drugs, medicines or appliances ordered on a prescription form signed by a nurse prescriber.
+**14.**[^c-ac005cc718e41d98f5291749410186be] (1) Paragraph 13 does not apply to drugs, medicines or appliances ordered on a prescription form signed by a nurse prescriber.
 
 (2) Where a patient presents an order on a prescription form for listed drugs, or appliances, signed by a nurse prescriber, to a doctor who is required by regulation 12 to supply drugs or appliances to that patient, the doctor may supply to the patient such of the drugs or appliances so ordered as he supplies in the normal course of his practice.
 
 (3) Listed drugs or appliances supplied under this paragraph shall be supplied in a suitable container.
 
-**15.**[^key-919d459974d935576ddcc35e4c71eb39] (1) Subject to sub-paragraph (2), a doctor who is required by a Board under regulation 12 to supply drugs or appliances to a patient shall not supply to a patient any Scheduled drug, except that, where he has ordered a drug which has an appropriate non-proprietary name either by the name or by its formula, he may supply a drug which has the same specification notwithstanding that it is a Scheduled drug (but, in the case of a drug which combines more than one drug, only if the combination has an appropriate non-proprietary name).
+**15.**[^c-919d459974d935576ddcc35e4c71eb39] (1) Subject to sub-paragraph (2), a doctor who is required by a Board under regulation 12 to supply drugs or appliances to a patient shall not supply to a patient any Scheduled drug, except that, where he has ordered a drug which has an appropriate non-proprietary name either by the name or by its formula, he may supply a drug which has the same specification notwithstanding that it is a Scheduled drug (but, in the case of a drug which combines more than one drug, only if the combination has an appropriate non-proprietary name).
 
 (2) Nothing in this paragraph shall prevent a doctor supplying, otherwise than under these terms of service, a Scheduled drug for a patient.
 
-**16.**[^key-de434ea6bc99e6d353254528aa753928] (1) The provisions of paragraphs 43 to 47 of Schedule 2 to the Medical Regulations (Fees) apply in respect of the supply of any drugs or appliances by a doctor as they apply in respect of prescriptions for drugs and appliances.
+**16.**[^c-de434ea6bc99e6d353254528aa753928] (1) The provisions of paragraphs 43 to 47 of Schedule 2 to the Medical Regulations (Fees) apply in respect of the supply of any drugs or appliances by a doctor as they apply in respect of prescriptions for drugs and appliances.
 
 (2) Where paragraph 44(2) of Schedule 2 to the Medical Regulations applies and the doctor has supplied any drug or appliance for which, in the case of a person on his list of patients, he would have been entitled to payment from the Agency, the Agency shall credit him with the appropriate amount.
 
-**17.**[^key-49ed5a092518b05c554c2e522140ae81] A doctor who is required by a Board under regulation 12 to supply drugs or appliances to a patient or who otherwise provides pharmaceutical services shall secure that the practice based complaints procedure he has established and operates in accordance with paragraphs 52 and 53 of Schedule 2 to the Medical Regulations applies in relation to any matter reasonably connected with his provision of pharmaceutical services as they apply as respects his provision of general medical services.
+**17.**[^c-49ed5a092518b05c554c2e522140ae81] A doctor who is required by a Board under regulation 12 to supply drugs or appliances to a patient or who otherwise provides pharmaceutical services shall secure that the practice based complaints procedure he has established and operates in accordance with paragraphs 52 and 53 of Schedule 2 to the Medical Regulations applies in relation to any matter reasonably connected with his provision of pharmaceutical services as they apply as respects his provision of general medical services.
 
 ## SCHEDULE 3
 
 Regulation 6(2) and 6(10)
 
-### PART I[^key-ad683e5be548539845407994831b6ecd]
+### PART I[^c-ad683e5be548539845407994831b6ecd]
 
 FORM A
 
@@ -774,7 +774,7 @@ Regulation 6(10)
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/381/images/nisr_19970381_en_007)
 
-### PART II[^key-0f3d19533560d4464a9c4646bd688f1e]
+### PART II[^c-0f3d19533560d4464a9c4646bd688f1e]
 
 FORM A
 
@@ -806,7 +806,7 @@ Regulation 6(4), (8) and (9)
 
 ### PART I — PROCEDURE ON APPLICATIONS
 
-#### 1. Notification of applications[^key-4b1dea32fbb860149a9d8ea7b387c8ec]
+#### 1. Notification of applications[^c-4b1dea32fbb860149a9d8ea7b387c8ec]
 
 (1) Where, on receipt of any properly completed application under regulation 6(2), the Board is satisfied that the application is one to which regulation 6(9) applies, it shall, within 5 working days, give written notice of the application to—
 
@@ -827,7 +827,7 @@ any any person so notified may, within 30 days from the date on which the notifi
 
 (3) Any notice given under sub-paragraph (1) or (2) shall include a statement of the right to make representations in accordance with that sub-paragraph.
 
-#### 2. Determination of applications[^key-2b8988b19c18472f434b10b7e56c30a8]
+#### 2. Determination of applications[^c-2b8988b19c18472f434b10b7e56c30a8]
 
 (1) In considering an application to which regulation 6(9) applies, the Board shall have regard to—
 
@@ -845,13 +845,13 @@ any any person so notified may, within 30 days from the date on which the notifi
 
 (6) The functions of the Board under this paragraph shall be exercised by the Pharmacy Practices Committee on behalf of the Board.
 
-#### 3. Notification of decisions[^key-48c59d01ad800a228c2cbbbebab25e37]
+#### 3. Notification of decisions[^c-48c59d01ad800a228c2cbbbebab25e37]
 
 (1) In the case of an application to which regulation 6(4) applies, the Board shall, within 14 days, give to the applicant and the persons mentioned in paragraph 1 notice of its decision on the application, together with its reasons therefor and any right of appeal under paragraph 4.
 
 (2) In the case of an application to which regulation 6(9) applies, the Board shall, within 14 days of having been notified in accordance with paragraph 11(5), give to the applicant and any person who has made representations to the Board in accordance with paragraph 1(1) or (2), notice of its decision on the application, together with the reasons therefor and any right of appeal under paragraph 4.
 
-#### 4. Appeals[^key-b1b94ce2d3df565f408ffc3676c8c159]
+#### 4. Appeals[^c-b1b94ce2d3df565f408ffc3676c8c159]
 
 (1) Where the Board has determined an application to which regulation 6(4) applies, the applicant or any person mentioned in paragraph 1(1)(c) or 1(2)(c) may appeal against the decision of the Board on the application, and notice of any such appeal shall be received by the Board within 21 days from the date on which notification of the Board's decision was sent to him.
 
@@ -867,15 +867,15 @@ any any person so notified may, within 30 days from the date on which the notifi
 
 ### PART II — PHARMACY PRACTICES COMMITTEE
 
-#### 5. Establishment[^key-6447e28bb18a73833ee83dd1fd8d26c8]
+#### 5. Establishment[^c-6447e28bb18a73833ee83dd1fd8d26c8]
 
 The Board shall appoint a committee (“**the Pharmacy Practices Committee**”) and the provisions of Part III shall apply to the proceedings of that committee.
 
-#### 6. Functions[^key-1b1d1eeda596ea505ccbd78cf05b14b7]
+#### 6. Functions[^c-1b1d1eeda596ea505ccbd78cf05b14b7]
 
 The Pharmacy Practices Committee shall, on behalf of the Board, exercise the function of the Board under regulation 6(9) in accordance with paragraph 2(6).
 
-#### 7. Membership[^key-6952e89c38b63edeb5ac88237730abbb]
+#### 7. Membership[^c-6952e89c38b63edeb5ac88237730abbb]
 
 (1) The Pharmacy Practices Committee shall consist of 7 members of whom—
 
@@ -889,11 +889,11 @@ The Pharmacy Practices Committee shall, on behalf of the Board, exercise the fun
 
 (3) If a nomination sought for the purposes of sub-paragraph (1)(b)(i) or (ii) is not made before such date as the Board may determine, the Board may appoint as a member a person who satisfies the criteria specified in the relevant sub-paragraph.
 
-**8.**[^key-d04bb5471cff6fd562c2f6ffd63f78c3] The Board shall prepare and maintain lists of the persons who have been appointed, in accordance with paragraph 7(1)(a) or (b)(i) or (b)(ii) or (c) as the case may be, and who currently serve as members of the Pharmacy Practices Committee, and shall provide the Department with a copy of such lists.
+**8.**[^c-d04bb5471cff6fd562c2f6ffd63f78c3] The Board shall prepare and maintain lists of the persons who have been appointed, in accordance with paragraph 7(1)(a) or (b)(i) or (b)(ii) or (c) as the case may be, and who currently serve as members of the Pharmacy Practices Committee, and shall provide the Department with a copy of such lists.
 
 ### PART III — PROCEDURE AT MEETINGS OF THE PHARMACY PRACTICES COMMITTEE
 
-#### 9. Declaration of interest[^key-efe90a8cecff43d895a7c9ec4f691d58]
+#### 9. Declaration of interest[^c-efe90a8cecff43d895a7c9ec4f691d58]
 
 (1) Before any meeting of the Pharmacy Practices Committee begins the chairman, or vice-chairman if acting as chairman, shall ask the members intending to be present whether, in respect of any matter to be considered at the meeting any of them—
 
@@ -904,11 +904,11 @@ and any such member who has or, as the case may be, is associated with a person 
 
 (2) Any member who has, pursuant to the provisions of sub-paragraph (1), declared an interest or who, in the opinion expressed to the meeting, of the chairman or vice-chairman if acting as chairman as the case may be, should have declared such an interest, shall not be present at the consideration or discussion of that matter or the voting on it, and a deputy who has no such interest may act in his place.
 
-#### 10. Quorum[^key-689773c0ad835cfe43c1c7c8d18077dd]
+#### 10. Quorum[^c-689773c0ad835cfe43c1c7c8d18077dd]
 
 No business shall be transacted at a meeting of the Pharmacy Practices Committee unless the chairman or vice-chairman acting as chairman, one member appointed under each of paragraph 7(1)(b)(i) and (ii) and 2 other members appointed under paragraph 7(1)(a) or (c) are present.
 
-#### 11. Voting and notification of decision[^key-bb4b33d972abc0a5c3f20293348aab37]
+#### 11. Voting and notification of decision[^c-bb4b33d972abc0a5c3f20293348aab37]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), every application considered by the Pharmacy Practices Committee shall be considered by all members present, but be determined only by a majority of votes of the members present who are entitled to vote.
 
@@ -920,29 +920,29 @@ No business shall be transacted at a meeting of the Pharmacy Practices Committee
 
 (5) The Pharmacy Practices Committee shall within 5 working days of making its decision give written notification of it to the Board together with reasons therefor.
 
-#### 12. Standing Orders[^key-93cee89d2f776f1ada546d357426c7bf]
+#### 12. Standing Orders[^c-93cee89d2f776f1ada546d357426c7bf]
 
 Subject to the provisions of these Regulations, the Board may make, vary or revoke standing orders with respect to the terms of office of members of the Pharmacy Practices Committee, the procedure of that committee and the making of reports of its proceedings to the Board.
 
-#### 13. Effect of vacancy or defect in appointment[^key-60168fa4e3f4d4dd6b0041eec77400f7]
+#### 13. Effect of vacancy or defect in appointment[^c-60168fa4e3f4d4dd6b0041eec77400f7]
 
 The proceedings of the Pharmacy Practices Committee shall not be invalidated by any vacancy in its membership, or any defect in a member's appointment.
 
 ### PART IV — NATIONAL APPEAL PANEL
 
-#### 14. Nominees for the National Appeal Panel[^key-9b4cd035b34cddde75503828e7250808]
+#### 14. Nominees for the National Appeal Panel[^c-9b4cd035b34cddde75503828e7250808]
 
 (1) The Board shall submit the names of its nominees for the National Appeal Panel to the Department and shall advise of any changes in such nominees.
 
 (2) The Department shall request the Pharmaceutical Society of Northern Ireland and such organisation which is, in the opinion of the Department, representative of the general body of chemists, to submit to the Department their nominees for the National Appeal Panel.
 
-#### 15. Chairman and Vice-Chairman of National Appeal Panel[^key-86c8862c58747c097ab914efff238131]
+#### 15. Chairman and Vice-Chairman of National Appeal Panel[^c-86c8862c58747c097ab914efff238131]
 
 (1) After consultation with all Boards, the Pharmaceutical Society of Northern Ireland and such organisation which is, in the opinion of the Department, representative of the general body of chemists, the Department shall appoint persons as chairman and vice-chairman of the National Appeal Panel.
 
 (2) The persons appointed in accordance with sub-paragraph (1) shall not be a doctor, dentist, ophthalmic optician, pharmacist, or a person or employee of a person whose name is included in the pharmaceutical list.
 
-#### 16. Membership[^key-5bb0fb095c65b7201dbda41183838689]
+#### 16. Membership[^c-5bb0fb095c65b7201dbda41183838689]
 
 (1) In any case in which paragraph 4(6) applies, the Department shall arrange to convene in accordance with this paragraph the National Appeal Panel, the members of which shall be drawn from—
 
@@ -961,7 +961,7 @@ The proceedings of the Pharmacy Practices Committee shall not be invalidated by 
 - (c) 4 shall be pharmacists one of whom has been nominated by the Pharmaceutical Society of Northern Ireland and the other 3 by such organisation which is, in the opinion of the Department, representative of the general body of chemists; and of those 4 members only 2 shall be persons whose names are, or who are employees of persons whose names are, included in the pharmaceutical list; and
 - (d) 3 shall have been nominated by a Board, but none shall be a pharmacist or a person, or employee of a person, whose name is included in the pharmaceutical list, or be a doctor who is required to supply drugs and appliances under regulation 12; and not more than one of those 3 shall be a doctor, dentist or ophthalmic optician.
 
-#### 17. Declaration of interest[^key-d839960ee75b230fc91d4dd087690a1f]
+#### 17. Declaration of interest[^c-d839960ee75b230fc91d4dd087690a1f]
 
 (1) Before the start of any meeting of the National Appeal Panel the chairman, or vice-chairman if acting as chairman, shall ask the members intending to be present whether, in respect of the appeal to be considered at the meeting, any of them—
 
@@ -972,11 +972,11 @@ and any such member who has or, as the case may be, is associated with a person 
 
 (2) Any member who has, pursuant to sub-paragraph (1), declared an interest or who, in the opinion, expressed to the meeting, of the chairman or vice-chairman as the case may be, should have declared such an interest, shall not be present at the consideration or discussion of that appeal or the voting on it.
 
-#### 18. Quorum[^key-2e84659eed1af4ab42a9ce83284cfde9]
+#### 18. Quorum[^c-2e84659eed1af4ab42a9ce83284cfde9]
 
 No business of the National Appeal Panel shall be transacted unless the chairman, or vice-chairman if acting as chairman, and 2 members who are appointed under paragraph 16(3)(c) and are entitled to vote, and 2 members appointed under paragraph 16(3)(d) are present.
 
-#### 19. Voting[^key-22a8deb40e714447548fbd752bea1f83]
+#### 19. Voting[^c-22a8deb40e714447548fbd752bea1f83]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), every appeal considered by the National Appeal Panel shall be considered by all members present, but be determined only by a majority of votes of the members present who are entitled to vote.
 
@@ -991,7 +991,7 @@ is not entitled to vote and shall withdraw immediately before a decision on an a
 
 (4) The chairman, or vice-chairman if acting as chairman, shall not be entitled to vote at any meeting except in the case of an equality of votes of the other persons present and voting, in which case he shall have a casting vote.
 
-#### 20. Decisions by the National Appeal Panel[^key-4385551517db17e8be323235ffadf85a]
+#### 20. Decisions by the National Appeal Panel[^c-4385551517db17e8be323235ffadf85a]
 
 (1) The National Appeal Panel shall determine an appeal in such manner as it thinks fit and may, if it considers that oral representations are unnecessary, determine the appeal without hearing any oral representations, and its decision in respect of that appeal shall be final.
 
@@ -1003,17 +1003,17 @@ is not entitled to vote and shall withdraw immediately before a decision on an a
 
 Regulation 13 and Schedule 2 paragraph 9(5)
 
-**1.**[^key-f2cfc833025bad773135fa6b46499bbc] The Pharmaceutical Committee constituted by the Agency after consultation with the Boards and such organisation which is, in the opinion of the Agency, representative of the general body of chemists and such other persons as it considers appropriate, shall consist of a chairman and such number of other members as the Agency thinks fit.
+**1.**[^c-f2cfc833025bad773135fa6b46499bbc] The Pharmaceutical Committee constituted by the Agency after consultation with the Boards and such organisation which is, in the opinion of the Agency, representative of the general body of chemists and such other persons as it considers appropriate, shall consist of a chairman and such number of other members as the Agency thinks fit.
 
-**2.**[^key-a69b70b6a9f7f6416b1250638290b667] The chairman shall be a pharmacist appointed by the Department.
+**2.**[^c-a69b70b6a9f7f6416b1250638290b667] The chairman shall be a pharmacist appointed by the Department.
 
-**3.**[^key-e38efa7e3e244c2a2e7105a701b16732] The term of office of members shall be determined by the Agency.
+**3.**[^c-e38efa7e3e244c2a2e7105a701b16732] The term of office of members shall be determined by the Agency.
 
-**4.**[^key-843c878021e4bafe0bac4c23df8f392e] Where the place of a member becomes vacant before the expiration of his term of office whether by death, resignation or otherwise, the vacancy shall be filled by the Agency after consultation in accordance with paragraph 1 and if necessary with the Pharmaceutical Committee and any other person so appointed shall hold office for the remainder of the term of office of the member who died, resigned or otherwise vacated his office as the case may be.
+**4.**[^c-843c878021e4bafe0bac4c23df8f392e] Where the place of a member becomes vacant before the expiration of his term of office whether by death, resignation or otherwise, the vacancy shall be filled by the Agency after consultation in accordance with paragraph 1 and if necessary with the Pharmaceutical Committee and any other person so appointed shall hold office for the remainder of the term of office of the member who died, resigned or otherwise vacated his office as the case may be.
 
-**5.**[^key-08aef3e0cebe986a968486d79ecfc0be] A member of the Pharmaceutical Committee may resign his membership by giving to the Agency notice in writing.
+**5.**[^c-08aef3e0cebe986a968486d79ecfc0be] A member of the Pharmaceutical Committee may resign his membership by giving to the Agency notice in writing.
 
-**6.**[^key-f3193bc5714f3fd2006934aa7d9a9455] Where any member of the Pharmaceutical Committee—
+**6.**[^c-f3193bc5714f3fd2006934aa7d9a9455] Where any member of the Pharmaceutical Committee—
 
 - (a) is absent from the meetings of the Committee for more than 6 months consecutively (except for a reason approved by the Agency);
 - (b) has become bankrupt or has made a composition with his creditors; or
@@ -1021,11 +1021,11 @@ Regulation 13 and Schedule 2 paragraph 9(5)
 
 the Agency shall forthwith by resolution, declare the office to be vacant and shall notify that fact in such manner as it thinks fit and thereupon the office shall become vacant.
 
-**7.**[^key-bd8ff393572150a472dfb8ddd819bcbb] A member of the Pharmaceutical Committee may vote upon any matter which touches the interests of members of his profession (himself included) but shall not vote upon any matters touching only his individual professional interests.
+**7.**[^c-bd8ff393572150a472dfb8ddd819bcbb] A member of the Pharmaceutical Committee may vote upon any matter which touches the interests of members of his profession (himself included) but shall not vote upon any matters touching only his individual professional interests.
 
-**8.**[^key-11b806ebf8654f5dc7fa49bf4be18774] The proceedings of the Pharmaceutical Committee shall not be invalidated by any vacancy in the membership of the Committee or by any defect in the appointment of its members.
+**8.**[^c-11b806ebf8654f5dc7fa49bf4be18774] The proceedings of the Pharmaceutical Committee shall not be invalidated by any vacancy in the membership of the Committee or by any defect in the appointment of its members.
 
-**9.**[^key-f47b6ffc56a452f48d237b7b1491c5ef] A member of the Pharmaceutical Committee who is a member of a Board shall cease to be a member of that Committee if he ceases to be a member of that Board.
+**9.**[^c-f47b6ffc56a452f48d237b7b1491c5ef] A member of the Pharmaceutical Committee who is a member of a Board shall cease to be a member of that Committee if he ceases to be a member of that Board.
 
 EXPLANATORY NOTE
 
@@ -1047,9 +1047,9 @@ The Regulations make the following principal changes—
 
 [^f00001]: Footnote: [S.I. 1972 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-91a28c68ff99fd864b91b6294b122102]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-91a28c68ff99fd864b91b6294b122102]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-167af3e976c4d341a71c982e28649465]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-167af3e976c4d341a71c982e28649465]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00002]: Footnote: Article 63 is amended by Article 14 of [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907); Article 5(1) of [S.I. 1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023); regulation 4 of [S.R. 1987 No. 457](https://www.legislation.gov.uk/nisr/1987/457); Article 31 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and Article 3 of [S.I. 1992/2671 (N.I. 18)](https://www.legislation.gov.uk/nisi/1992/2671)
 
@@ -1079,47 +1079,47 @@ The Regulations make the following principal changes—
 
 [^f00015]: Footnote: [1954 c. 33 (N.l.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2b5d5b184b17cc3795f9305faeb6054f]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-2b5d5b184b17cc3795f9305faeb6054f]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204)
 
-[^key-5e973f85fdc3c2bb73302b418ddb2609]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-5e973f85fdc3c2bb73302b418ddb2609]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382)
 
-[^key-ca2c9b59425416921d1076c092ca23c8]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-ca2c9b59425416921d1076c092ca23c8]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-5cfae9e1e6b80f8ea669896f7634cccc]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-5cfae9e1e6b80f8ea669896f7634cccc]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213) as amended by [S.R. 1987 No. 457](https://www.legislation.gov.uk/nisr/1987/457)
 
-[^key-fe07a192e9a0ba704c68655683761e2d]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-fe07a192e9a0ba704c68655683761e2d]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-a06a872a974d115383eedb9363d1bc5c]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-a06a872a974d115383eedb9363d1bc5c]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-cdd3bc3f63ededa245782c91591f4db9]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-cdd3bc3f63ededa245782c91591f4db9]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-421c9df28ea6ece5aca67df30d0f418c]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-421c9df28ea6ece5aca67df30d0f418c]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00019]: Footnote: Paragraph 8B(3) of Schedule 11 is inserted by Article 4 of [S.I. 1995/2704 (N.I. 24)](https://www.legislation.gov.uk/nisi/1995/2704)
 
-[^key-1ad98b7549b28f164234b162669ad3fa]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-1ad98b7549b28f164234b162669ad3fa]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-66c2a429d9595202b227f2b198febbf7]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-66c2a429d9595202b227f2b198febbf7]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-4391e0eabdee6bb155a1ec47eedf2cad]: Commencement: Reg. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-4391e0eabdee6bb155a1ec47eedf2cad]: Commencement: Reg. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-ec383fe32ba48433f6edd486da6df9fb]: Commencement: Reg. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-ec383fe32ba48433f6edd486da6df9fb]: Commencement: Reg. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-b39020f99b5cfeb8c1b4c1572effa5c7]: Commencement: Reg. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-b39020f99b5cfeb8c1b4c1572effa5c7]: Commencement: Reg. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-d4011aa9f56ba1aaa32a3f9bab18280a]: Commencement: Reg. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-d4011aa9f56ba1aaa32a3f9bab18280a]: Commencement: Reg. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-7ad5b10d7d0fed94c3eb2a47889b1153]: Commencement: Reg. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-7ad5b10d7d0fed94c3eb2a47889b1153]: Commencement: Reg. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00020]: Footnote: [S.R. & O. 1973 No. 421](https://www.legislation.gov.uk/uksro/1973/421) as amended by [S.R. 1987 No. 247](https://www.legislation.gov.uk/nisr/1987/247)
 
-[^key-a5d04a08b965caf830694d8ad0d025b1]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-a5d04a08b965caf830694d8ad0d025b1]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -1139,9 +1139,9 @@ The Regulations make the following principal changes—
 
 [^f00029]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49)
 
-[^key-110555029dbc2795b5b02a7efb440071]: Commencement: Sch. 2 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-110555029dbc2795b5b02a7efb440071]: Commencement: Sch. 2 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-ab3eee2779c7c7a4c6525255a13baa73]: Commencement: Sch. 2 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-ab3eee2779c7c7a4c6525255a13baa73]: Commencement: Sch. 2 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00030]: Footnote: [S.R. 1983 No. 201](https://www.legislation.gov.uk/nisr/1983/201); relevant amending Regulations are [S.R. 1985 No. 345](https://www.legislation.gov.uk/nisr/1985/345), [S.R. 1987 No. 240](https://www.legislation.gov.uk/nisr/1987/240) and [S.R. 1994 No. 217](https://www.legislation.gov.uk/nisr/1994/217)
 
@@ -1151,100 +1151,100 @@ The Regulations make the following principal changes—
 
 [^f00033]: Footnote: [S.R. & O. (N.I.) 1973 No. 1](https://www.legislation.gov.uk/nisro/1973/1) 80 as amended by [S.R. 1984 No. 17](https://www.legislation.gov.uk/nisr/1984/17)
 
-[^key-05bc52353cf55a904528381e65fb5de7]: Commencement: Sch. 2 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-05bc52353cf55a904528381e65fb5de7]: Commencement: Sch. 2 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-4546cf9d550b2c0f258c2dc289ab56a4]: Commencement: Sch. 2 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-4546cf9d550b2c0f258c2dc289ab56a4]: Commencement: Sch. 2 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-54a449cd9378aa145f46299e4f4b99c2]: Commencement: Sch. 2 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-54a449cd9378aa145f46299e4f4b99c2]: Commencement: Sch. 2 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00034]: Footnote: Schedule 11 is amended by Article 3 of, paragraph 2 of Schedule 1 to, Article 17 of and Part I of Schedule 6 to [S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158) and Articles 3 to 6 of [S.I. 1995/2704 (N.I. 14)](https://www.legislation.gov.uk/nisi/1995/2704)
 
-[^key-588f02f64f4000e68c8103260e14cb60]: Commencement: Sch. 2 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-588f02f64f4000e68c8103260e14cb60]: Commencement: Sch. 2 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-b73ffa515a218472e9d8cf79cda5ecb3]: Commencement: Sch. 2 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-b73ffa515a218472e9d8cf79cda5ecb3]: Commencement: Sch. 2 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00035]: Footnote: Article 98 is amended by Article 34 of, and Part II of Schedule 5 to, [S.l. 1991/194 (N.l. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-e159b9af8223c7885cc9dc929ece03bd]: Commencement: Sch. 2 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-e159b9af8223c7885cc9dc929ece03bd]: Commencement: Sch. 2 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-088e0326d44dd038222ae97977a5f642]: Commencement: Sch. 2 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-088e0326d44dd038222ae97977a5f642]: Commencement: Sch. 2 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-8926dfdefbd6796082515148101d772c]: Commencement: Sch. 2 para. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-8926dfdefbd6796082515148101d772c]: Commencement: Sch. 2 para. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-9a1fa2e84410c7a39970953f14f3e468]: Commencement: Sch. 2 para. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-9a1fa2e84410c7a39970953f14f3e468]: Commencement: Sch. 2 para. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
 [^f00036]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-0d67053f4d684649ef12fb30e68cf8e4]: Commencement: Sch. 2 para. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-0d67053f4d684649ef12fb30e68cf8e4]: Commencement: Sch. 2 para. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-2b210a736fed640c4d43e961f4fee023]: Commencement: Sch. 2 para. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-2b210a736fed640c4d43e961f4fee023]: Commencement: Sch. 2 para. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-ac005cc718e41d98f5291749410186be]: Commencement: Sch. 2 para. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-ac005cc718e41d98f5291749410186be]: Commencement: Sch. 2 para. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-919d459974d935576ddcc35e4c71eb39]: Commencement: Sch. 2 para. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-919d459974d935576ddcc35e4c71eb39]: Commencement: Sch. 2 para. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-de434ea6bc99e6d353254528aa753928]: Commencement: Sch. 2 para. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-de434ea6bc99e6d353254528aa753928]: Commencement: Sch. 2 para. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-49ed5a092518b05c554c2e522140ae81]: Commencement: Sch. 2 para. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-49ed5a092518b05c554c2e522140ae81]: Commencement: Sch. 2 para. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-ad683e5be548539845407994831b6ecd]: Commencement: Sch. 3 Pt. I in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-ad683e5be548539845407994831b6ecd]: Commencement: Sch. 3 Pt. I in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-0f3d19533560d4464a9c4646bd688f1e]: Commencement: Sch. 3 Pt. II in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-0f3d19533560d4464a9c4646bd688f1e]: Commencement: Sch. 3 Pt. II in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-4b1dea32fbb860149a9d8ea7b387c8ec]: Commencement: Sch. 4 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-4b1dea32fbb860149a9d8ea7b387c8ec]: Commencement: Sch. 4 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-2b8988b19c18472f434b10b7e56c30a8]: Commencement: Sch. 4 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-2b8988b19c18472f434b10b7e56c30a8]: Commencement: Sch. 4 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-48c59d01ad800a228c2cbbbebab25e37]: Commencement: Sch. 4 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-48c59d01ad800a228c2cbbbebab25e37]: Commencement: Sch. 4 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-b1b94ce2d3df565f408ffc3676c8c159]: Commencement: Sch. 4 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-b1b94ce2d3df565f408ffc3676c8c159]: Commencement: Sch. 4 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-6447e28bb18a73833ee83dd1fd8d26c8]: Commencement: Sch. 4 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-6447e28bb18a73833ee83dd1fd8d26c8]: Commencement: Sch. 4 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-1b1d1eeda596ea505ccbd78cf05b14b7]: Commencement: Sch. 4 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-1b1d1eeda596ea505ccbd78cf05b14b7]: Commencement: Sch. 4 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-6952e89c38b63edeb5ac88237730abbb]: Commencement: Sch. 4 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-6952e89c38b63edeb5ac88237730abbb]: Commencement: Sch. 4 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-d04bb5471cff6fd562c2f6ffd63f78c3]: Commencement: Sch. 4 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-d04bb5471cff6fd562c2f6ffd63f78c3]: Commencement: Sch. 4 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-efe90a8cecff43d895a7c9ec4f691d58]: Commencement: Sch. 4 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-efe90a8cecff43d895a7c9ec4f691d58]: Commencement: Sch. 4 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-689773c0ad835cfe43c1c7c8d18077dd]: Commencement: Sch. 4 para. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-689773c0ad835cfe43c1c7c8d18077dd]: Commencement: Sch. 4 para. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-bb4b33d972abc0a5c3f20293348aab37]: Commencement: Sch. 4 para. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-bb4b33d972abc0a5c3f20293348aab37]: Commencement: Sch. 4 para. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-93cee89d2f776f1ada546d357426c7bf]: Commencement: Sch. 4 para. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-93cee89d2f776f1ada546d357426c7bf]: Commencement: Sch. 4 para. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-60168fa4e3f4d4dd6b0041eec77400f7]: Commencement: Sch. 4 para. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-60168fa4e3f4d4dd6b0041eec77400f7]: Commencement: Sch. 4 para. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-9b4cd035b34cddde75503828e7250808]: Commencement: Sch. 4 para. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-9b4cd035b34cddde75503828e7250808]: Commencement: Sch. 4 para. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-86c8862c58747c097ab914efff238131]: Commencement: Sch. 4 para. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-86c8862c58747c097ab914efff238131]: Commencement: Sch. 4 para. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-5bb0fb095c65b7201dbda41183838689]: Commencement: Sch. 4 para. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-5bb0fb095c65b7201dbda41183838689]: Commencement: Sch. 4 para. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-d839960ee75b230fc91d4dd087690a1f]: Commencement: Sch. 4 para. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-d839960ee75b230fc91d4dd087690a1f]: Commencement: Sch. 4 para. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-2e84659eed1af4ab42a9ce83284cfde9]: Commencement: Sch. 4 para. 18 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-2e84659eed1af4ab42a9ce83284cfde9]: Commencement: Sch. 4 para. 18 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-22a8deb40e714447548fbd752bea1f83]: Commencement: Sch. 4 para. 19 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-22a8deb40e714447548fbd752bea1f83]: Commencement: Sch. 4 para. 19 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-4385551517db17e8be323235ffadf85a]: Commencement: Sch. 4 para. 20 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-4385551517db17e8be323235ffadf85a]: Commencement: Sch. 4 para. 20 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-f2cfc833025bad773135fa6b46499bbc]: Commencement: Sch. 5 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-f2cfc833025bad773135fa6b46499bbc]: Commencement: Sch. 5 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-a69b70b6a9f7f6416b1250638290b667]: Commencement: Sch. 5 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-a69b70b6a9f7f6416b1250638290b667]: Commencement: Sch. 5 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-e38efa7e3e244c2a2e7105a701b16732]: Commencement: Sch. 5 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-e38efa7e3e244c2a2e7105a701b16732]: Commencement: Sch. 5 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-843c878021e4bafe0bac4c23df8f392e]: Commencement: Sch. 5 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-843c878021e4bafe0bac4c23df8f392e]: Commencement: Sch. 5 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-08aef3e0cebe986a968486d79ecfc0be]: Commencement: Sch. 5 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-08aef3e0cebe986a968486d79ecfc0be]: Commencement: Sch. 5 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-f3193bc5714f3fd2006934aa7d9a9455]: Commencement: Sch. 5 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-f3193bc5714f3fd2006934aa7d9a9455]: Commencement: Sch. 5 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-bd8ff393572150a472dfb8ddd819bcbb]: Commencement: Sch. 5 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-bd8ff393572150a472dfb8ddd819bcbb]: Commencement: Sch. 5 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-11b806ebf8654f5dc7fa49bf4be18774]: Commencement: Sch. 5 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-11b806ebf8654f5dc7fa49bf4be18774]: Commencement: Sch. 5 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
 
-[^key-f47b6ffc56a452f48d237b7b1491c5ef]: Commencement: Sch. 5 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)
+[^c-f47b6ffc56a452f48d237b7b1491c5ef]: Commencement: Sch. 5 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/381/regulation/1)

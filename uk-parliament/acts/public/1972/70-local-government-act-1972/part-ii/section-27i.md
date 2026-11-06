@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27I (Extent: W.). Power of council for a group of communities to apply for an order dissolving the group (Extent: W.)[^key-cb46c61eab1dc86ac5c2f9d35fe4f6ad]
+## 27I (Extent: W.). Power of council for a group of communities to apply for an order dissolving the group (Extent: W.)[^c-cb46c61eab1dc86ac5c2f9d35fe4f6ad]
 
 *Extent: E+W.*
 
@@ -41,4 +41,4 @@ are present and voting at the community meeting. *(Extent: W.)*
 
 ## Annotations
 
-[^key-cb46c61eab1dc86ac5c2f9d35fe4f6ad]: Textual amendment: S. 27I inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 109](https://www.legislation.gov.uk/mwa/2011/4/section/109), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-cb46c61eab1dc86ac5c2f9d35fe4f6ad]: Textual amendment: S. 27I inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 109](https://www.legislation.gov.uk/mwa/2011/4/section/109), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

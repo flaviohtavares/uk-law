@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Involvement in serious crime: England and Wales orders[^key-f47c1b38669eaedd20adcd5965bc6d6d]
+## 2. Involvement in serious crime: England and Wales orders[^c-f47c1b38669eaedd20adcd5965bc6d6d]
 
 *Extent: E+W+N.I.*
 
@@ -50,14 +50,14 @@ summary: ''
   - (i) would be an offence which is specified, or falls within a description specified, in Part 1 of Schedule 1 if committed in or as regards England and Wales; or
   - (ii) is conduct which, in the particular circumstances of the case, the court considers to be sufficiently serious to be treated for the purposes of the application or matter as if it meets the test in sub-paragraph (i).
 
-(6) The test in subsection (4) is to be used instead of the tests in sections 2A(1) and[^key-31def0b674261ff405ddda2dfe90354c] 3(1) in deciding for the purposes of section 1(1)(a) whether a person has been involved in serious crime in Scotland or (as the case may be)[^key-5f98e0065ab28ecd4453c6a86b1aa080] Northern Ireland.
+(6) The test in subsection (4) is to be used instead of the tests in sections 2A(1) and[^c-31def0b674261ff405ddda2dfe90354c] 3(1) in deciding for the purposes of section 1(1)(a) whether a person has been involved in serious crime in Scotland or (as the case may be)[^c-5f98e0065ab28ecd4453c6a86b1aa080] Northern Ireland.
 
 (7) An act punishable under the law of a country outside the United Kingdom constitutes an offence under that law for the purposes of subsection (5), however it is described in that law.
 
 ## Annotations
 
-[^key-f47c1b38669eaedd20adcd5965bc6d6d]: Commencement: S. 2 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/b)
+[^c-f47c1b38669eaedd20adcd5965bc6d6d]: Commencement: S. 2 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/b)
 
-[^key-31def0b674261ff405ddda2dfe90354c]: Textual amendment: Words in s. 2(6) substituted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/3/a); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-31def0b674261ff405ddda2dfe90354c]: Textual amendment: Words in s. 2(6) substituted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/3/a); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
 
-[^key-5f98e0065ab28ecd4453c6a86b1aa080]: Textual amendment: Words in s. 2(6) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/3/b); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-5f98e0065ab28ecd4453c6a86b1aa080]: Textual amendment: Words in s. 2(6) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/3/b); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

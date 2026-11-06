@@ -35,22 +35,22 @@ authorising the placing on the market of vitamin D<sub>2</sub> mushroom powder a
 
 (Text with EEA relevance) (revoked)
 
-[^key-3b47e15a0cfbaff429f1de265373b9f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b47e15a0cfbaff429f1de265373b9f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-3b47e15a0cfbaff429f1de265373b9f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b47e15a0cfbaff429f1de265373b9f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b47e15a0cfbaff429f1de265373b9f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-3b47e15a0cfbaff429f1de265373b9f5]
+## ANNEX[^c-3b47e15a0cfbaff429f1de265373b9f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b47e15a0cfbaff429f1de265373b9f5]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 49](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/49) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-3b47e15a0cfbaff429f1de265373b9f5]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 49](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/49) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -33,7 +33,7 @@ An Act to enforce the due Observance of the Canons and Rubrick respecting the Ag
 
 \[3d May 1804\]
 
-[^c554058][^c554059][^c554060][^key-bd86206c2ced232c0b3998e2b31ae0fc]...
+[^c554058][^c554059][^c554060][^c-bd86206c2ced232c0b3998e2b31ae0fc]...
 
 ## 1.] Deacons not to be admitted before 23, nor priests before 24.
 
@@ -51,7 +51,7 @@ From and after the passing of this Act no person shall be admitted a deacon befo
 
 [^c554060]: Commencement: Act wholly in force at Royal Assent
 
-[^key-bd86206c2ced232c0b3998e2b31ae0fc]: Textual amendment: Preamble repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
+[^c-bd86206c2ced232c0b3998e2b31ae0fc]: Textual amendment: Preamble repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
 
 [^c554061]: Textual amendment: Words inserted by [Clergy (Ordination and Miscellaneous Provisions) Measure 1964 (No. 6)](https://www.legislation.gov.uk/ukcm/1964/6), [s. 2](https://www.legislation.gov.uk/ukcm/1964/6/section/2)
 

@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2004 (revoked)[^key-462e3290843ff26c9c7c4e0db9813a3e]
+Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2004 (revoked)[^c-462e3290843ff26c9c7c4e0db9813a3e]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 26th November 2004
 
-[^key-462e3290843ff26c9c7c4e0db9813a3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-462e3290843ff26c9c7c4e0db9813a3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-462e3290843ff26c9c7c4e0db9813a3e]
+## 1. Citation and commencement[^c-462e3290843ff26c9c7c4e0db9813a3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-462e3290843ff26c9c7c4e0db9813a3e]
+## 2. Interpretation[^c-462e3290843ff26c9c7c4e0db9813a3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Phoenix Natural Gas Limited[^key-462e3290843ff26c9c7c4e0db9813a3e]
+## 3. Phoenix Natural Gas Limited[^c-462e3290843ff26c9c7c4e0db9813a3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. BGE (UK) Limited[^key-462e3290843ff26c9c7c4e0db9813a3e]
+## 4. BGE (UK) Limited[^c-462e3290843ff26c9c7c4e0db9813a3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-462e3290843ff26c9c7c4e0db9813a3e]
+## 5. Revocation[^c-462e3290843ff26c9c7c4e0db9813a3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-462e3290843ff26c9c7c4e0db9813a3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-462e3290843ff26c9c7c4e0db9813a3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-462e3290843ff26c9c7c4e0db9813a3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-462e3290843ff26c9c7c4e0db9813a3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-462e3290843ff26c9c7c4e0db9813a3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/462) revoked (31.1.2011) by [Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 (S.R. 2010/431)](https://www.legislation.gov.uk/nisr/2010/431), [regs. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/431/regulation/6)
+[^c-462e3290843ff26c9c7c4e0db9813a3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/462) revoked (31.1.2011) by [Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 (S.R. 2010/431)](https://www.legislation.gov.uk/nisr/2010/431), [regs. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/431/regulation/6)

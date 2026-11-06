@@ -90,7 +90,7 @@ The power of making rules conferred on the Treasury by the Land Purchase Acts sh
 
 ### 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5844011]
 
-### 15. Sporting rights.[^c5844021][^key-bc81471fbb1227f6508464d60a96e6d4]
+### 15. Sporting rights.[^c5844021][^c-bc81471fbb1227f6508464d60a96e6d4]
 
 (1) With respect to any land vested in the Commission by virtue of this Part of this Act or any untenanted land purchased under section forty-three or Part IV of the Act of 1909, the owner of the land may give notice within the prescribed time and in the prescribed manner that he desires that such rights as are hereinafter mentioned which he has exclusive of the tenant should be reserved to him, and where such a notice is given there shall be reserved to the owner of the land, as if an agreement to that effect had been entered into under section thirteen of the Act of 1903—
 
@@ -250,7 +250,7 @@ A certificate of the amount available for any drawing of bonds shall be furnishe
 
 [^c5844021]: Modification: S. 15: functions transferred (1.12.1999) from the Department of Agriculture to the Department of Culture, Arts and Leisure by [S.R. 1999/481](https://www.legislation.gov.uk/nisr/1999/481), [art. 3](https://www.legislation.gov.uk/nisr/1999/481/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/481/schedule/1)
 
-[^key-bc81471fbb1227f6508464d60a96e6d4]: Modification: S. 15: transfer of functions (N.I.) (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bc81471fbb1227f6508464d60a96e6d4]: Modification: S. 15: transfer of functions (N.I.) (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5844031]: Textual amendment: [Ss. 3(1)–(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/3/1), [4](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/4), [8–11](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/8), [12(2)(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/12/2/3), [13](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/13), [14](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/14), [17–19](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/17), [21](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/21), [23(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/23/3), [24](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/24), [25](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/25), [28](https://www.legislation.gov.uk/ukpga/Geo5/15-16/34/section/28) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/1950/6/schedule/1)
 

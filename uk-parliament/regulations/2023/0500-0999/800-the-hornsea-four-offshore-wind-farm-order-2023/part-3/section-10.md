@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Temporary closure and restriction of streets and public rights of way[^key-30cf9fd2ebc4bdf2f51bc9d0f3698615]
+## 10. Temporary closure and restriction of streets and public rights of way[^c-30cf9fd2ebc4bdf2f51bc9d0f3698615]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The undertaker must provide reasonable access for pedestrians going to or from premises abutting a street or public right of way affected by the temporary closure, alteration or diversion of a street or public right of way under this article if there would otherwise be no such access.
 
-(4) Without limiting paragraph (1), the undertaker may temporarily close[^key-7a04bcc1cc9b10195ceea1374ac05e9d], alter or divert the streets set out in column (1)[^key-3b7e1962d3501b9e6efdc2ceddc8bf23] of Schedule 3 (streets to be temporarily closed or restricted) to the extent specified, by reference to the letters and numbers shown on the streets plans, in column (2) of that Schedule.
+(4) Without limiting paragraph (1), the undertaker may temporarily close[^c-7a04bcc1cc9b10195ceea1374ac05e9d], alter or divert the streets set out in column (1)[^c-3b7e1962d3501b9e6efdc2ceddc8bf23] of Schedule 3 (streets to be temporarily closed or restricted) to the extent specified, by reference to the letters and numbers shown on the streets plans, in column (2) of that Schedule.
 
 (5) The undertaker must not temporarily close, alter, divert or use as a temporary working site—
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-30cf9fd2ebc4bdf2f51bc9d0f3698615]: Commencement: Art. 10 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-30cf9fd2ebc4bdf2f51bc9d0f3698615]: Commencement: Art. 10 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-7a04bcc1cc9b10195ceea1374ac05e9d]: Textual amendment: Word in art. 10(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-7a04bcc1cc9b10195ceea1374ac05e9d]: Textual amendment: Word in art. 10(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-3b7e1962d3501b9e6efdc2ceddc8bf23]: Textual amendment: Words in art. 10(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-3b7e1962d3501b9e6efdc2ceddc8bf23]: Textual amendment: Words in art. 10(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

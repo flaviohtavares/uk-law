@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.8. Recording of the inquiry[^key-1e30a4203d9a98c7af9e1eb9958bc23e]
+## 4.8. Recording of the inquiry[^c-1e30a4203d9a98c7af9e1eb9958bc23e]
 
 *Extent: S*
 
@@ -31,10 +31,10 @@ summary: ''
   - (i) £6.00 for a photocopy of a transcript up to 10 pages; and
   - (ii) £0.50 for each page in excess of 10 pages.
 
-(4) Where more than one person makes a request within 28 days following the date of the sheriff’s determination, the sheriff may make an order about how the fee payable under paragraph (3)[^key-a438cf49a3c59b6713307c8cf3237345] is to be divided between them.
+(4) Where more than one person makes a request within 28 days following the date of the sheriff’s determination, the sheriff may make an order about how the fee payable under paragraph (3)[^c-a438cf49a3c59b6713307c8cf3237345] is to be divided between them.
 
 ## Annotations
 
-[^key-1e30a4203d9a98c7af9e1eb9958bc23e]: Commencement: [Rule 4.8](https://www.legislation.gov.uk/ssi/2017/103/rule/4.8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-1e30a4203d9a98c7af9e1eb9958bc23e]: Commencement: [Rule 4.8](https://www.legislation.gov.uk/ssi/2017/103/rule/4.8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-a438cf49a3c59b6713307c8cf3237345]: Textual amendment: Word in [rule 4.8(4)](https://www.legislation.gov.uk/ssi/2017/103/rule/4.8/4) substituted (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/4)
+[^c-a438cf49a3c59b6713307c8cf3237345]: Textual amendment: Word in [rule 4.8(4)](https://www.legislation.gov.uk/ssi/2017/103/rule/4.8/4) substituted (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/4)

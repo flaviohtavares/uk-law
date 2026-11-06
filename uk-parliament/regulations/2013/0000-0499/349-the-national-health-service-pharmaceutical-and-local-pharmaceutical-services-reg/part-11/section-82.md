@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This paragraph applies where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] is considering—
+(1) This paragraph applies where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] is considering—
 
 - (a) removing an NHS chemist (C) from a pharmaceutical list under section 151 or 152(3)(b) of the 2006 Act [^c21646971] (which relate to disqualification of practitioners and contingent removal);
 - (b) removing C from a pharmaceutical list under regulation 80; or
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21646971]: Marginal citation: [Section 151](https://www.legislation.gov.uk/uksi/2013/349/section/151) has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), Schedule 4, paragraph 79. Section 152(3) has been amended by the 2012 Act, Schedule 4, paragraph 80.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 49. Payments on account of directors' contributions[^key-84b519a63c2af99e5ca6d89b6fd03f30]
+## 49. Payments on account of directors' contributions[^c-84b519a63c2af99e5ca6d89b6fd03f30]
 
 After subsection (3) of section 3 of the Contributions and Benefits Act there shall be inserted the following subsections—
 
@@ -27,4 +27,4 @@ After subsection (3) of section 3 of the Contributions and Benefits Act there sh
 
 ## Annotations
 
-[^key-84b519a63c2af99e5ca6d89b6fd03f30]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/1998/14/section/49) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)
+[^c-84b519a63c2af99e5ca6d89b6fd03f30]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/1998/14/section/49) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)

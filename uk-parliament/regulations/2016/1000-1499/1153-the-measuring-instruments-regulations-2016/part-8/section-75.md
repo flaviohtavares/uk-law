@@ -46,9 +46,9 @@ that person (or that person's authorised agent), enforcement officer or approved
 
 (5) In this regulation “**authorised mark**” means—
 
-- (a) the UK[^key-7d18e4a8bcc5f09400475132fad77c8f] marking;
+- (a) the UK[^c-7d18e4a8bcc5f09400475132fad77c8f] marking;
 - (b) the M marking;
-- (c) the identification number of the approved[^key-beaa19b71356597e583a2416b2fa8bb9] body which carried out the conformity assessment procedure in respect of the relevant regulated measuring instrument;
+- (c) the identification number of the approved[^c-beaa19b71356597e583a2416b2fa8bb9] body which carried out the conformity assessment procedure in respect of the relevant regulated measuring instrument;
 - (d) a disqualification mark; or
 - (e) a re-qualification mark.
 
@@ -85,7 +85,7 @@ that person (or that person's authorised agent), enforcement officer or approved
 - (a) the CE marking;
 - (b) the M marking;
 - (c) the identification number of the notified body which carried out the conformity assessment procedure in respect of the relevant regulated measuring instrument;
-- (ca)[^key-fc3f034532db2658a75d6465a7858dea] the UK(NI) indication;
+- (ca)[^c-fc3f034532db2658a75d6465a7858dea] the UK(NI) indication;
 - (d) a disqualification mark; or
 - (e) a re-qualification mark.
 
@@ -93,10 +93,10 @@ that person (or that person's authorised agent), enforcement officer or approved
 
 [^M_E_5249d06c-64e8-4da6-ff0f-83fcf32afa70]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7d18e4a8bcc5f09400475132fad77c8f]: Textual amendment: Word in [reg. 75(5)(a)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/75/5/a) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 46(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/46/a) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d18e4a8bcc5f09400475132fad77c8f]: Textual amendment: Word in [reg. 75(5)(a)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/75/5/a) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 46(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/46/a) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-beaa19b71356597e583a2416b2fa8bb9]: Textual amendment: Word in [reg. 75(5)(c)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/75/5/c) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 46(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/46/b) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-beaa19b71356597e583a2416b2fa8bb9]: Textual amendment: Word in [reg. 75(5)(c)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/75/5/c) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 46(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/46/b) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_2d0938b7-5d1f-486a-9011-09a682699a56]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-fc3f034532db2658a75d6465a7858dea]: Textual amendment: [Reg. 75(5)(ca)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/75/5/ca) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/12/5)
+[^c-fc3f034532db2658a75d6465a7858dea]: Textual amendment: [Reg. 75(5)(ca)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/75/5/ca) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/12/5)

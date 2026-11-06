@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 13B — (introduced by section 27)[^key-b84392918d9f57aee409a0c243731917]
+## SCHEDULE 13B — (introduced by section 27)[^c-b84392918d9f57aee409a0c243731917]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In this schedule, “building society” has the meaning given by section 119(1)
 
 ## Annotations
 
-[^key-b84392918d9f57aee409a0c243731917]: Textual amendment: Schs. 13A, 13B inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Addition and Modification of Reliefs) (Scotland) Order 2015 (S.S.I. 2015/93)](https://www.legislation.gov.uk/ssi/2015/93), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/93/article/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2015/93/article/2/5)
+[^c-b84392918d9f57aee409a0c243731917]: Textual amendment: Schs. 13A, 13B inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Addition and Modification of Reliefs) (Scotland) Order 2015 (S.S.I. 2015/93)](https://www.legislation.gov.uk/ssi/2015/93), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/93/article/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2015/93/article/2/5)

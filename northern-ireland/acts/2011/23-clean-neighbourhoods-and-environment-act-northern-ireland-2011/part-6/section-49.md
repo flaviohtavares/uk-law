@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Withdrawal of designation[^key-7edd6b16a9d81587ab295d3e90d0515c]
+## 49. Withdrawal of designation[^c-7edd6b16a9d81587ab295d3e90d0515c]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7edd6b16a9d81587ab295d3e90d0515c]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2011/23/section/49) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7edd6b16a9d81587ab295d3e90d0515c]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2011/23/section/49) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

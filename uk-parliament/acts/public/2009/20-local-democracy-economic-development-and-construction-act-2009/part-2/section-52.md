@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Subsidiaries of Passenger Transport Executives[^key-f779d877cb623d29e205febcdf6b0af3]
+## 52. Subsidiaries of Passenger Transport Executives[^c-f779d877cb623d29e205febcdf6b0af3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f779d877cb623d29e205febcdf6b0af3]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2009/20/section/52) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 111](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/111); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-f779d877cb623d29e205febcdf6b0af3]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2009/20/section/52) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 111](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/111); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12AA.[^key-d5e74b19c5c2b6b4c1a10c401ceff9b5]
+## 12AA.[^c-d5e74b19c5c2b6b4c1a10c401ceff9b5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A’s status as an eligible student terminates immediately before the relevant d
 
 ## Annotations
 
-[^key-d5e74b19c5c2b6b4c1a10c401ceff9b5]: Textual amendment: [Reg. 12AA](https://www.legislation.gov.uk/wsi/2019/895/regulation/12AA) inserted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [73](https://www.legislation.gov.uk/wsi/2023/1349/regulation/73) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/1349/regulation/2))
+[^c-d5e74b19c5c2b6b4c1a10c401ceff9b5]: Textual amendment: [Reg. 12AA](https://www.legislation.gov.uk/wsi/2019/895/regulation/12AA) inserted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [73](https://www.legislation.gov.uk/wsi/2023/1349/regulation/73) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/1349/regulation/2))

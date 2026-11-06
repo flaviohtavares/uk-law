@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to subsection (2) below, it shall be the duty of the Office of Rail and Road[^key-9482995d97d31d67c05f8c7aad46a28e] to investigate any alleged or apprehended contravention of—
+(1) Subject to subsection (2) below, it shall be the duty of the Office of Rail and Road[^c-9482995d97d31d67c05f8c7aad46a28e] to investigate any alleged or apprehended contravention of—
 
 - (a) a condition of a licence [^c18939321]. . . , [^c14107491]. . .
 - (b)[^c14107501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 if the alleged or apprehended contravention is the subject of a representation (other than one appearing to him to be frivolous or vexatious) made to it[^c19342671] by or on behalf of a person who appears to the Office of Rail and Road to have an interest in the matter.
 
-(2) The Office of Rail and Road may, if it thinks fit, require the[^c18939331] Passengers’ Council[^key-35e54300208da34ae37dc055e53f0387] to investigate and report to it on any matter falling within subsection (1) above which relates to—
+(2) The Office of Rail and Road may, if it thinks fit, require the[^c18939331] Passengers’ Council[^c-35e54300208da34ae37dc055e53f0387] to investigate and report to it on any matter falling within subsection (1) above which relates to—
 
 - (a) the provision of services for the carriage of passengers by railway, or
 - (b) the provision of station services,
@@ -38,7 +38,7 @@ and which it would otherwise have been its[^c19342701] duty to investigate.
 
 [^c18939361]: Modification: S. 68 applied (with modifications) (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 14](https://www.legislation.gov.uk/uksi/2005/3050/regulation/14), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/3/paragraph/1/d)
 
-[^key-9482995d97d31d67c05f8c7aad46a28e]: Textual amendment: Words in s. 68 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(pp)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/pp)
+[^c-9482995d97d31d67c05f8c7aad46a28e]: Textual amendment: Words in s. 68 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(pp)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/pp)
 
 [^c18939321]: Textual amendment: Words in s. 68(1)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
@@ -50,6 +50,6 @@ and which it would otherwise have been its[^c19342701] duty to investigate.
 
 [^c18939331]: Textual amendment: Words in s. 68(2) substiuted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/21/2); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-35e54300208da34ae37dc055e53f0387]: Textual amendment: Words in s. 68(2) substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/2)
+[^c-35e54300208da34ae37dc055e53f0387]: Textual amendment: Words in s. 68(2) substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/2)
 
 [^c19342701]: Textual amendment: Word in s. 68 substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(c) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)

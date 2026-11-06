@@ -33,16 +33,16 @@ of 26 January 2015
 
 amending Implementing Decision 2014/170/EU establishing a list of non-cooperating third countries in fighting IUU fishing pursuant to Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing as regards Sri Lanka (revoked)
 
-[^key-8a949383ebb51a457f6b3cc9509480ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a949383ebb51a457f6b3cc9509480ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-8a949383ebb51a457f6b3cc9509480ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8a949383ebb51a457f6b3cc9509480ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8a949383ebb51a457f6b3cc9509480ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8a949383ebb51a457f6b3cc9509480ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a949383ebb51a457f6b3cc9509480ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a949383ebb51a457f6b3cc9509480ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a949383ebb51a457f6b3cc9509480ed]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-8a949383ebb51a457f6b3cc9509480ed]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

@@ -23,7 +23,7 @@ summary: ''
 (1) This paragraph applies where SEPA considers that, by reason of an emergency—
 
 - (a) an application for a registration or permit requires to be determined within a shorter period of time than the procedures specified in schedule 1 allow; or
-- (b) a variation of a permit or registration (whether on the application of the authorised person or initiated by SEPA in relation to a permit[^key-2b6b2b72a43c7fd0e813727d66aeacd0]) requires to be determined within a shorter time than the procedures specified in schedule 1 allow.
+- (b) a variation of a permit or registration (whether on the application of the authorised person or initiated by SEPA in relation to a permit[^c-2b6b2b72a43c7fd0e813727d66aeacd0]) requires to be determined within a shorter time than the procedures specified in schedule 1 allow.
 
 (2) Where paragraph (1) applies, regulations 17(1) and 22(1), and paragraphs 1, 5, 7, 8, 10, 11, 12 and 13 of schedule 1 and paragraph 3 of schedule 2, do not apply.
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) SEPA must decide whether to grant or refuse (in whole or in part) an accelerated application within such time period as it considers appropriate in all the circumstances.
 
-(6) Where SEPA decides to grant an accelerated application (other than in relation to a variation)[^key-d1e5ad09ca190c52105c276fac31a76d], it must notify the authorised person [^key-22bbd21335dbf0da63f700708161be19]... of—
+(6) Where SEPA decides to grant an accelerated application (other than in relation to a variation)[^c-d1e5ad09ca190c52105c276fac31a76d], it must notify the authorised person [^c-22bbd21335dbf0da63f700708161be19]... of—
 
 - (a) the activity authorised;
 - (b) the authorised person;
@@ -58,10 +58,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6b2b72a43c7fd0e813727d66aeacd0]: Textual amendment: Words in [reg. 63(1)(b)](https://www.legislation.gov.uk/ssi/2018/219/regulation/63/1/b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [31(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/31/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2b6b2b72a43c7fd0e813727d66aeacd0]: Textual amendment: Words in [reg. 63(1)(b)](https://www.legislation.gov.uk/ssi/2018/219/regulation/63/1/b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [31(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/31/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d1e5ad09ca190c52105c276fac31a76d]: Textual amendment: Words in [reg. 63(6)](https://www.legislation.gov.uk/ssi/2018/219/regulation/63/6) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [7](https://www.legislation.gov.uk/ssi/2026/55/regulation/7)
+[^c-d1e5ad09ca190c52105c276fac31a76d]: Textual amendment: Words in [reg. 63(6)](https://www.legislation.gov.uk/ssi/2018/219/regulation/63/6) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [7](https://www.legislation.gov.uk/ssi/2026/55/regulation/7)
 
-[^key-22bbd21335dbf0da63f700708161be19]: Textual amendment: Words in [reg. 63(6)](https://www.legislation.gov.uk/ssi/2018/219/regulation/63/6) omitted (1.6.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [31(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/31/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-22bbd21335dbf0da63f700708161be19]: Textual amendment: Words in [reg. 63(6)](https://www.legislation.gov.uk/ssi/2018/219/regulation/63/6) omitted (1.6.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [31(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/31/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23325681]: Marginal citation: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).

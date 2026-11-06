@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90B. Records to be kept where warrant is endorsed for bail[^key-c5218b3983b40f207bd74839be2041fc][^key-7162650c981aab88e9ff95a073e94ef1]
+## 90B. Records to be kept where warrant is endorsed for bail[^c-c5218b3983b40f207bd74839be2041fc][^c-7162650c981aab88e9ff95a073e94ef1]
 
 *Extent: E+W*
 
@@ -37,12 +37,12 @@ summary: ''
 - (b) invite the person arrested to sign the record;
 - (c) if the person arrested refuses to sign the record, annotate the record to show the fact of that refusal;
 - (d) make a copy of the record and give it to the person arrested;
-- (e) send the original record to the designated officer[^key-a24dc7829cb6fc48caaa3ddba3089f9c] for the court which issued the warrant.
+- (e) send the original record to the designated officer[^c-a24dc7829cb6fc48caaa3ddba3089f9c] for the court which issued the warrant.
 
 ## Annotations
 
-[^key-c5218b3983b40f207bd74839be2041fc]: Modification: [Rule 90B](https://www.legislation.gov.uk/uksi/1981/552/rule/90B) replaced (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 18.4](https://www.legislation.gov.uk/uksi/2005/384/rule/18.4) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1)); \[Editorial note: This rule, the substance of which is reproduced in and referred to by the Criminal Procedure Rules, is revoked when those Rules come into force by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035), see CrimPR rule 2.1 note.\]
+[^c-c5218b3983b40f207bd74839be2041fc]: Modification: [Rule 90B](https://www.legislation.gov.uk/uksi/1981/552/rule/90B) replaced (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 18.4](https://www.legislation.gov.uk/uksi/2005/384/rule/18.4) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1)); \[Editorial note: This rule, the substance of which is reproduced in and referred to by the Criminal Procedure Rules, is revoked when those Rules come into force by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035), see CrimPR rule 2.1 note.\]
 
-[^key-7162650c981aab88e9ff95a073e94ef1]: Textual amendment: [Rule 90B](https://www.legislation.gov.uk/uksi/1981/552/rule/90B) inserted (19.2.2001) by [The Magistrates' Courts (Amendment) Rules 2001 (S.I. 2001/167)](https://www.legislation.gov.uk/uksi/2001/167), [rules 1](https://www.legislation.gov.uk/uksi/2001/167/article/1), [5](https://www.legislation.gov.uk/uksi/2001/167/article/5)
+[^c-7162650c981aab88e9ff95a073e94ef1]: Textual amendment: [Rule 90B](https://www.legislation.gov.uk/uksi/1981/552/rule/90B) inserted (19.2.2001) by [The Magistrates' Courts (Amendment) Rules 2001 (S.I. 2001/167)](https://www.legislation.gov.uk/uksi/2001/167), [rules 1](https://www.legislation.gov.uk/uksi/2001/167/article/1), [5](https://www.legislation.gov.uk/uksi/2001/167/article/5)
 
-[^key-a24dc7829cb6fc48caaa3ddba3089f9c]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1981/552) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 85](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/85)
+[^c-a24dc7829cb6fc48caaa3ddba3089f9c]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1981/552) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 85](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/85)

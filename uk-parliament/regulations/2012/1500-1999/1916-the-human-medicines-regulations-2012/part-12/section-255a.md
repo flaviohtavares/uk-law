@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255A. Enforcement notices relating to Commission Regulation 2016/161: persons authorised to supply medicinal products to the public[^key-7f609d68cdc8c39b7a8fc19ea7d4b0c5]
+## 255A. Enforcement notices relating to Commission Regulation 2016/161: persons authorised to supply medicinal products to the public[^c-7f609d68cdc8c39b7a8fc19ea7d4b0c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f609d68cdc8c39b7a8fc19ea7d4b0c5]: Textual amendment: [Reg. 255A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [109(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/109/a)
+[^c-7f609d68cdc8c39b7a8fc19ea7d4b0c5]: Textual amendment: [Reg. 255A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [109(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/109/a)

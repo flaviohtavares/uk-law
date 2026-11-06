@@ -24,7 +24,7 @@ Regulation 49
 
 ### PART 1 — The Marketing of Vegetable Plant Material Regulations 1995
 
-**1.**[^key-4f11132819ba28f936dd49a663dd63fd] (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23987721] are amended as follows.
+**1.**[^c-4f11132819ba28f936dd49a663dd63fd] (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23987721] are amended as follows.
 
 (2) In regulation 8—
 
@@ -35,7 +35,7 @@ Regulation 49
 
 ### PART 2 — The Marketing of Ornamental Plant Propagating Material Regulations 1999
 
-**2.**[^key-7bced854c4af5d99cc3f5f821b4b00cc] (1) The Marketing of Ornamental Plant Propagating Material Regulations 1999 [^c23987731] are amended as follows.
+**2.**[^c-7bced854c4af5d99cc3f5f821b4b00cc] (1) The Marketing of Ornamental Plant Propagating Material Regulations 1999 [^c23987731] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -63,13 +63,13 @@ Regulation 49
 
 ### PART 3 — The Forest Reproductive Material (Great Britain) Regulations 2002
 
-**3.**[^key-40fcbf3ccc35ad6352d0e8139bb36608] (1) The Forest Reproductive Material (Great Britain) Regulations 2002 [^c23987741] are amended as follows.
+**3.**[^c-40fcbf3ccc35ad6352d0e8139bb36608] (1) The Forest Reproductive Material (Great Britain) Regulations 2002 [^c23987741] are amended as follows.
 
 (2) In regulation 2(2), in the definition of “plant passport”, for “the Plant Health (Forestry) Order 2005” substitute “ Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants ”.
 
 ### PART 4 — The Seed Potatoes (Wales) Regulations 2016
 
-**4.**[^key-c1ffa8307467c38ab2864faacead2226] (1) The Seed Potatoes (Wales) Regulations 2016 [^c23987751] are amended as follows.
+**4.**[^c-c1ffa8307467c38ab2864faacead2226] (1) The Seed Potatoes (Wales) Regulations 2016 [^c23987751] are amended as follows.
 
 (2) In regulation 2(1), in the appropriate place insert—
 
@@ -97,7 +97,7 @@ Regulation 49
 
 ### PART 5 — The Plant Health (Fees) (Forestry) (Wales) Regulations 2019
 
-**5.**[^key-326b007bd6f0fc01572905052f5bdc1b] (1) The Plant Health (Fees) (Forestry) (Wales) Regulations 2019 [^c23987761] are amended as follows.
+**5.**[^c-326b007bd6f0fc01572905052f5bdc1b] (1) The Plant Health (Fees) (Forestry) (Wales) Regulations 2019 [^c23987761] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -145,7 +145,7 @@ Regulation 49
 
 ### PART 6 — The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017
 
-**6.**[^key-557a830264fa6383bab9d802f90b00e0] (1) The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017 [^c23987771] are amended as follows.
+**6.**[^c-557a830264fa6383bab9d802f90b00e0] (1) The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017 [^c23987771] are amended as follows.
 
 (2) In regulation 3(1), omit the definition of “Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29)”.
 
@@ -159,26 +159,26 @@ Regulation 49
 
 ## Annotations
 
-[^key-4f11132819ba28f936dd49a663dd63fd]: Commencement: Sch. 5 para. 1 in force at 27.3.2020, see reg. 1
+[^c-4f11132819ba28f936dd49a663dd63fd]: Commencement: Sch. 5 para. 1 in force at 27.3.2020, see reg. 1
 
 [^c23987721]: Marginal citation: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652), amended by [S.I. 2007/2190](https://www.legislation.gov.uk/uksi/2007/2190) (W. 174); there are other amending instruments but none is relevant.
 
-[^key-7bced854c4af5d99cc3f5f821b4b00cc]: Commencement: Sch. 5 para. 2 in force at 27.3.2020, see reg. 1
+[^c-7bced854c4af5d99cc3f5f821b4b00cc]: Commencement: Sch. 5 para. 2 in force at 27.3.2020, see reg. 1
 
 [^c23987731]: Marginal citation: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801); relevant amending instruments are [S.I. 2018/974](https://www.legislation.gov.uk/uksi/2018/974), [S.I](https://www.legislation.gov.uk/uksi/2018/974/section/I). 2018/1216 (W. 249) and [S.I. 2019/463](https://www.legislation.gov.uk/uksi/2019/463) (W. 111).
 
-[^key-40fcbf3ccc35ad6352d0e8139bb36608]: Commencement: Sch. 5 para. 3 in force at 27.3.2020, see reg. 1
+[^c-40fcbf3ccc35ad6352d0e8139bb36608]: Commencement: Sch. 5 para. 3 in force at 27.3.2020, see reg. 1
 
 [^c23987741]: Marginal citation: [S.I. 2002/3026](https://www.legislation.gov.uk/uksi/2002/3026), amended by [S.I. 2019/496](https://www.legislation.gov.uk/uksi/2019/496) (W. 133); there are other amending instruments but none is relevant.
 
-[^key-c1ffa8307467c38ab2864faacead2226]: Commencement: Sch. 5 para. 4 in force at 27.3.2020, see reg. 1
+[^c-c1ffa8307467c38ab2864faacead2226]: Commencement: Sch. 5 para. 4 in force at 27.3.2020, see reg. 1
 
 [^c23987751]: Marginal citation: [S.I. 2016/106](https://www.legislation.gov.uk/uksi/2016/106) (W. 52); there are amending instruments but none is relevant..
 
-[^key-326b007bd6f0fc01572905052f5bdc1b]: Commencement: Sch. 5 para. 5 in force at 27.3.2020, see reg. 1
+[^c-326b007bd6f0fc01572905052f5bdc1b]: Commencement: Sch. 5 para. 5 in force at 27.3.2020, see reg. 1
 
 [^c23987761]: Marginal citation: [S.I. 2019/497](https://www.legislation.gov.uk/uksi/2019/497) (W. 114), amended by [S.I. 2020/44](https://www.legislation.gov.uk/uksi/2020/44) (W. 5).
 
-[^key-557a830264fa6383bab9d802f90b00e0]: Commencement: Sch. 5 para. 6 in force at 27.3.2020, see reg. 1
+[^c-557a830264fa6383bab9d802f90b00e0]: Commencement: Sch. 5 para. 6 in force at 27.3.2020, see reg. 1
 
 [^c23987771]: Marginal citation: [S.I. 2017/691](https://www.legislation.gov.uk/uksi/2017/691) (W. 163), amended by [S.I. 2019/368](https://www.legislation.gov.uk/uksi/2019/368) (W. 90); there are other amending instruments but none is relevant.

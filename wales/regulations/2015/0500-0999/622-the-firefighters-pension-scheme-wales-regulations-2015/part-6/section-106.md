@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Lump sum payable on death of pensioner member[^key-555933b70ca74e64d4d10e6b27691337]
+## 106. Lump sum payable on death of pensioner member[^c-555933b70ca74e64d4d10e6b27691337]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-555933b70ca74e64d4d10e6b27691337]: Commencement: Reg. 106 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-555933b70ca74e64d4d10e6b27691337]: Commencement: Reg. 106 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

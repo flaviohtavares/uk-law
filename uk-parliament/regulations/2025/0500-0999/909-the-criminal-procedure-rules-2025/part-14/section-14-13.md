@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.13. Accommodation or support requirements[^key-2d25b2bffbe7fe778cc7ca2f88521fc0]
+## 14.13. Accommodation or support requirements[^c-2d25b2bffbe7fe778cc7ca2f88521fc0]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d25b2bffbe7fe778cc7ca2f88521fc0]: Commencement: [Rule 14.13](https://www.legislation.gov.uk/uksi/2025/909/rule/14.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2d25b2bffbe7fe778cc7ca2f88521fc0]: Commencement: [Rule 14.13](https://www.legislation.gov.uk/uksi/2025/909/rule/14.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Special procedure licences: licence holder remedial action notices[^key-670a6750cf60b580a5db4dfe224c60ed]
+## 78. Special procedure licences: licence holder remedial action notices[^c-670a6750cf60b580a5db4dfe224c60ed]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-670a6750cf60b580a5db4dfe224c60ed]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2017/2/section/78) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(t)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/t) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-670a6750cf60b580a5db4dfe224c60ed]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2017/2/section/78) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(t)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/t) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

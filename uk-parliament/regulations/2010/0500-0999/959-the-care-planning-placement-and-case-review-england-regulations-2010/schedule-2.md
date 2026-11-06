@@ -76,9 +76,9 @@ Regulation 9
 
 (1) The type of accommodation to be provided, the address and, where C is placed under section 22C(6)(d), the name of the person who will be responsible for C at that accommodation on behalf of the responsible authority (if any).
 
-(1ZA)[^key-f4cbb59309a26cfc873ba77b55076bf2] Where C is placed with F in a long term foster placement, that fact.
+(1ZA)[^c-f4cbb59309a26cfc873ba77b55076bf2] Where C is placed with F in a long term foster placement, that fact.
 
-(1A)[^key-66aec5ff6879b95a87fb1fd93cac7864] Where—
+(1A)[^c-66aec5ff6879b95a87fb1fd93cac7864] Where—
 
 - (a) the responsible authority has, or is notified of, child protection concerns relating to C, or
 - (b) C has gone missing from the placement or from any previous placement,
@@ -89,12 +89,12 @@ the day to day arrangements put in place by the appropriate person to keep C saf
 
 (3) Where C is not in the care of the responsible authority—
 
-- (a)[^key-23ff737f6ece13f4d08c468239209a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-23ff737f6ece13f4d08c468239209a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-23ff737f6ece13f4d08c468239209a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-23ff737f6ece13f4d08c468239209a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the expected duration of the arrangements and the steps which should be taken to bring the arrangements to an end, including arrangements for C to return to live with C's parents, or any person who is not C's parent but who has parental responsibility for C, and
 - (d) where C is aged 16 or over and agrees to being provided with accommodation under section 20, that fact.
 
-(4)[^key-c2440ecca45ba02e9df81bbb2e3562ed] The respective responsibilities of the responsible authority, C’s parents, and any person who is not C’s parent but who has parental responsibility for C.
+(4)[^c-c2440ecca45ba02e9df81bbb2e3562ed] The respective responsibilities of the responsible authority, C’s parents, and any person who is not C’s parent but who has parental responsibility for C.
 
 (4A) Any delegation of authority to make decisions about C’s care and upbringing by the persons mentioned in paragraph (4) (as appropriate) to—
 
@@ -115,16 +115,16 @@ in relation to the matters set out in paragraph (4B), and identifying any matter
 
 (5) The responsible authority's arrangements for the financial support of C during the placement.
 
-(6) Where C is placed with F, the obligation on F to comply with the terms of the foster care agreement made under regulation 27(5)(b) of the Fostering Services Regulations[^key-c35101d3baa396282455069352881878].
+(6) Where C is placed with F, the obligation on F to comply with the terms of the foster care agreement made under regulation 27(5)(b) of the Fostering Services Regulations[^c-c35101d3baa396282455069352881878].
 
 ## Annotations
 
-[^key-f4cbb59309a26cfc873ba77b55076bf2]: Textual amendment: Sch. 2 para. 3(1ZA) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/495/regulation/9)
+[^c-f4cbb59309a26cfc873ba77b55076bf2]: Textual amendment: Sch. 2 para. 3(1ZA) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/495/regulation/9)
 
-[^key-66aec5ff6879b95a87fb1fd93cac7864]: Textual amendment: Sch. 2 para. 3(1A) inserted (27.1.2014) by [The Childrens Homes and Looked after Children (Miscellaneous Amendments) (England) Regulations 2013 (S.I. 2013/3239)](https://www.legislation.gov.uk/uksi/2013/3239), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3239/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2013/3239/regulation/22)
+[^c-66aec5ff6879b95a87fb1fd93cac7864]: Textual amendment: Sch. 2 para. 3(1A) inserted (27.1.2014) by [The Childrens Homes and Looked after Children (Miscellaneous Amendments) (England) Regulations 2013 (S.I. 2013/3239)](https://www.legislation.gov.uk/uksi/2013/3239), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3239/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2013/3239/regulation/22)
 
-[^key-23ff737f6ece13f4d08c468239209a8e]: Textual amendment: Sch. 2 para. 3(3)(a)(b) omitted (1.7.2013) by virtue of [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/984/regulation/4/a)
+[^c-23ff737f6ece13f4d08c468239209a8e]: Textual amendment: Sch. 2 para. 3(3)(a)(b) omitted (1.7.2013) by virtue of [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/984/regulation/4/a)
 
-[^key-c2440ecca45ba02e9df81bbb2e3562ed]: Textual amendment: Sch. 2 para. 3(4)-(4B) substituted for Sch. 2 para. 3(4) (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/984/regulation/4/b)
+[^c-c2440ecca45ba02e9df81bbb2e3562ed]: Textual amendment: Sch. 2 para. 3(4)-(4B) substituted for Sch. 2 para. 3(4) (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/984/regulation/4/b)
 
-[^key-c35101d3baa396282455069352881878]: Textual amendment: Words in Sch. 2 para. 3(6) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(6)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/6) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))
+[^c-c35101d3baa396282455069352881878]: Textual amendment: Words in Sch. 2 para. 3(6) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(6)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/6) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))

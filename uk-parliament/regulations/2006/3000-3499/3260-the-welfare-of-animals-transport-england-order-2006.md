@@ -63,9 +63,9 @@ This Order—
 
 - (a) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and [93/119/EC](https://www.legislation.gov.uk/european/directive/1993/0119) and Regulation [(EC) 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255)[^f00003];
 - (b) Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) concerning Community criteria for staging points and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628)[^f00004];
-- (c)[^key-3a980ac7ddac672663ff21deb7074866] Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products
+- (c)[^c-3a980ac7ddac672663ff21deb7074866] Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products
 
-(4)[^key-48c8456eb4e6cf257498a63395398dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-48c8456eb4e6cf257498a63395398dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Extension of definition of “animals” and “poultry”
 
@@ -200,15 +200,15 @@ The navigation system referred to in point 4.1 of Chapter VI of Annex I to Counc
 (2) For the purposes of that Regulation, the Secretary of State is the competent authority for—
 
 - (a) receiving notification of changes relating to authorisations in accordance with Article 6(2);
-- (b) receiving documents in accordance with Article 6(5), (8) and (9) and paragraph 4(c)[^key-70cf162f2b1216056de613dc3bc410d0] of Annex II;
-- (c)[^key-711f44fdc0d81d560e98d336034b5499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-711f44fdc0d81d560e98d336034b5499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) receiving documents in accordance with Article 6(5), (8) and (9) and paragraph 4(c)[^c-70cf162f2b1216056de613dc3bc410d0] of Annex II;
+- (c)[^c-711f44fdc0d81d560e98d336034b5499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-711f44fdc0d81d560e98d336034b5499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) recording information relating to livestock vessels in accordance with Article 19(3) and (4);
 - (f) inspecting livestock vessels in accordance with Article 20;
-- (g)[^key-c60f69f8f94ab7c0c1d583ee81aa9538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-c60f69f8f94ab7c0c1d583ee81aa9538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-c60f69f8f94ab7c0c1d583ee81aa9538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-45c41e993e104b6a787ee62d88c4c4a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-c60f69f8f94ab7c0c1d583ee81aa9538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-c60f69f8f94ab7c0c1d583ee81aa9538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-c60f69f8f94ab7c0c1d583ee81aa9538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-45c41e993e104b6a787ee62d88c4c4a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) approving classification societies in accordance with point 1 of Chapter IV of Annex I.
 
 (3) The Secretary of State is the competent authority for the purposes of—
@@ -216,7 +216,7 @@ The navigation system referred to in point 4.1 of Chapter VI of Annex I to Counc
 - (a) granting or issuing approvals in accordance with Articles 3 and 4(2) of Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/eur/1997/1255);
 - (b) receiving information on animals passing through a control post in accordance with Article 5(h) and (i) of that Regulation.
 
-(4)[^key-57efee18b68844133783e38673f24499] The Secretary of State is responsible for designating bodies in accordance with Articles 17(2), 18(1) and 19(1) of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001).
+(4)[^c-57efee18b68844133783e38673f24499] The Secretary of State is responsible for designating bodies in accordance with Articles 17(2), 18(1) and 19(1) of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001).
 
 ### 21. Approvals, authorisations etc
 
@@ -280,7 +280,7 @@ he may serve a notice on the person appearing to him to be in charge of the anim
 
 (3) Where it is necessary for identification purposes, an inspector may mark an animal.
 
-(4) An inspector may take copies of any document inspected for the purpose of ascertaining whether the provisions of this Order, Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) or Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) have been complied with or in the course of performing official controls under Regulation (EU) 2017/625[^key-33ea0f3e15ede980e75de882a848223f] .
+(4) An inspector may take copies of any document inspected for the purpose of ascertaining whether the provisions of this Order, Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) or Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) have been complied with or in the course of performing official controls under Regulation (EU) 2017/625[^c-33ea0f3e15ede980e75de882a848223f] .
 
 (5) An inspector may serve on the owner, or any person appearing to him to be in charge of a control post, a notice requiring him to take any action the inspector reasonably considers necessary to ensure compliance with, or remedy any infringement of, Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255).
 
@@ -289,7 +289,7 @@ he may serve a notice on the person appearing to him to be in charge of the anim
 - (a) require one or more animals at a control post to be removed from the control post;
 - (b) specify conditions under which animals may remain there.
 
-(7) In deciding whether to serve a notice under this article, an inspector may take into account any previous failure to comply with any provision of this Order, any other Order made under sections 37, 38 or 39 of the Act or paragraph 13(b)[^key-be1cff3a90dd59fbe7b4e4e519255c18] of Annex II to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (return of documents after completion of journey).
+(7) In deciding whether to serve a notice under this article, an inspector may take into account any previous failure to comply with any provision of this Order, any other Order made under sections 37, 38 or 39 of the Act or paragraph 13(b)[^c-be1cff3a90dd59fbe7b4e4e519255c18] of Annex II to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (return of documents after completion of journey).
 
 (8) Where a person fails to comply with the requirements of a notice served under this article, an inspector may take any steps he considers necessary to ensure the requirement is met.
 
@@ -312,7 +312,7 @@ Any notice served under this Order must be complied with at the expense of the p
 
 No person shall—
 
-- (a) without reasonable cause, fail to give any person acting under Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) , Regulation (EU) 2017/625[^key-6229c683d728c135ba55b61db3d43c82] or this Order any assistance or information which that person may reasonably require for the purposes of his functions under those Regulations or this Order;
+- (a) without reasonable cause, fail to give any person acting under Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) , Regulation (EU) 2017/625[^c-6229c683d728c135ba55b61db3d43c82] or this Order any assistance or information which that person may reasonably require for the purposes of his functions under those Regulations or this Order;
 - (b) provide false information on any journey log (whether submitted for approval, returned to the officer of the Secretary of State after the journey or otherwise) or provide false or misleading information on any documentation carried pursuant to Article 4 of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001);
 - (c) make an entry in a record or statement, or give any information for the purposes of this Order, which he knows to be false or misleading in any material particular or, for those purposes, recklessly make a statement or give any information which is false or misleading in any material particular; or
 - (d) cause or permit any of the above.
@@ -336,7 +336,7 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (1) shall be discharged by the Secretary of State and not the local authority.
 
-(3)[^key-d1911ddfd79f92247249a86d21239629] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under this Order or under section 72 or 73 of the Act relating to this Order.
+(3)[^c-d1911ddfd79f92247249a86d21239629] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under this Order or under section 72 or 73 of the Act relating to this Order.
 
 ### 30. Amendments
 
@@ -412,27 +412,27 @@ A Regulatory Impact Assessment has been prepared and placed in the library of ea
 
 [^f00004]: Footnote: OJ L 174, 2.7.97 p.1.
 
-[^key-3a980ac7ddac672663ff21deb7074866]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2006/3260/article/2/3/c) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/2)
+[^c-3a980ac7ddac672663ff21deb7074866]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2006/3260/article/2/3/c) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/2)
 
-[^key-48c8456eb4e6cf257498a63395398dfa]: Textual amendment: Art. 2(4) omitted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48c8456eb4e6cf257498a63395398dfa]: Textual amendment: Art. 2(4) omitted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70cf162f2b1216056de613dc3bc410d0]: Textual amendment: Words in [art. 20(2)(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/b) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/3/a)
+[^c-70cf162f2b1216056de613dc3bc410d0]: Textual amendment: Words in [art. 20(2)(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/b) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/3/a)
 
-[^key-711f44fdc0d81d560e98d336034b5499]: Textual amendment: [Art. 20(2)(c)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/c)[(d)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/d) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/3/b)
+[^c-711f44fdc0d81d560e98d336034b5499]: Textual amendment: [Art. 20(2)(c)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/c)[(d)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/d) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/3/b)
 
-[^key-c60f69f8f94ab7c0c1d583ee81aa9538]: Textual amendment: [Art. 20(2)(g)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/g)[(h)(i)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/h/i) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/3/b)
+[^c-c60f69f8f94ab7c0c1d583ee81aa9538]: Textual amendment: [Art. 20(2)(g)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/g)[(h)(i)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/h/i) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/3/b)
 
-[^key-45c41e993e104b6a787ee62d88c4c4a4]: Textual amendment: [Art. 20(2)(j)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/j) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/1488/regulation/22)
+[^c-45c41e993e104b6a787ee62d88c4c4a4]: Textual amendment: [Art. 20(2)(j)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/2/j) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/1488/regulation/22)
 
-[^key-57efee18b68844133783e38673f24499]: Textual amendment: [Art. 20(4)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57efee18b68844133783e38673f24499]: Textual amendment: [Art. 20(4)](https://www.legislation.gov.uk/uksi/2006/3260/article/20/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33ea0f3e15ede980e75de882a848223f]: Textual amendment: Words in [art. 24(4)](https://www.legislation.gov.uk/uksi/2006/3260/article/24/4) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/4/a)
+[^c-33ea0f3e15ede980e75de882a848223f]: Textual amendment: Words in [art. 24(4)](https://www.legislation.gov.uk/uksi/2006/3260/article/24/4) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/4/a)
 
-[^key-be1cff3a90dd59fbe7b4e4e519255c18]: Textual amendment: Words in [art. 24(7)](https://www.legislation.gov.uk/uksi/2006/3260/article/24/7) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/4/b)
+[^c-be1cff3a90dd59fbe7b4e4e519255c18]: Textual amendment: Words in [art. 24(7)](https://www.legislation.gov.uk/uksi/2006/3260/article/24/7) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/4/b)
 
-[^key-6229c683d728c135ba55b61db3d43c82]: Textual amendment: Words in [art. 27(a)](https://www.legislation.gov.uk/uksi/2006/3260/article/27/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/5)
+[^c-6229c683d728c135ba55b61db3d43c82]: Textual amendment: Words in [art. 27(a)](https://www.legislation.gov.uk/uksi/2006/3260/article/27/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2023/287/regulation/4/5)
 
-[^key-d1911ddfd79f92247249a86d21239629]: Textual amendment: [Art. 29(3)](https://www.legislation.gov.uk/uksi/2006/3260/article/29/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [16](https://www.legislation.gov.uk/uksi/2012/2897/article/16)
+[^c-d1911ddfd79f92247249a86d21239629]: Textual amendment: [Art. 29(3)](https://www.legislation.gov.uk/uksi/2006/3260/article/29/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [16](https://www.legislation.gov.uk/uksi/2012/2897/article/16)
 
 [^f00005]: Footnote: [S.I. 2003/1724](https://www.legislation.gov.uk/uksi/2003/1724).
 

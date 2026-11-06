@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Authority to survey and investigate the land[^key-2e21ab8146893687c3597875cf349302]
+## 24. Authority to survey and investigate the land[^c-2e21ab8146893687c3597875cf349302]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-2e21ab8146893687c3597875cf349302]: Commencement: Art. 24 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-2e21ab8146893687c3597875cf349302]: Commencement: Art. 24 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93A. Additional braking requirements for motor vehicles carrying or hauling dangerous goods[^key-dc86f11063e3ff391c96b0fd883440bc]
+## 93A. Additional braking requirements for motor vehicles carrying or hauling dangerous goods[^c-dc86f11063e3ff391c96b0fd883440bc]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ unless the vehicle meets the requirements of paragraph (2).
 
 ## Annotations
 
-[^key-dc86f11063e3ff391c96b0fd883440bc]: Textual amendment: [Reg. 93A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/93A) and heading inserted (3.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 8) Regulations 1996 (S.I. 1996/3133)](https://www.legislation.gov.uk/uksi/1996/3133), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3133/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/3133/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/1996/3133/schedule)
+[^c-dc86f11063e3ff391c96b0fd883440bc]: Textual amendment: [Reg. 93A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/93A) and heading inserted (3.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 8) Regulations 1996 (S.I. 1996/3133)](https://www.legislation.gov.uk/uksi/1996/3133), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3133/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/3133/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/1996/3133/schedule)

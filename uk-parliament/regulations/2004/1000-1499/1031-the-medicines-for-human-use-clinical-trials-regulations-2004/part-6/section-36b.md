@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36B. Manufacture of POC investigational medicinal products[^key-6dadf53ac22d4ccabe27f220671441d0]
+## 36B. Manufacture of POC investigational medicinal products[^c-6dadf53ac22d4ccabe27f220671441d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dadf53ac22d4ccabe27f220671441d0]: Textual amendment: Regs. 36A, 36B inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2025/87/regulation/42)
+[^c-6dadf53ac22d4ccabe27f220671441d0]: Textual amendment: Regs. 36A, 36B inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2025/87/regulation/42)

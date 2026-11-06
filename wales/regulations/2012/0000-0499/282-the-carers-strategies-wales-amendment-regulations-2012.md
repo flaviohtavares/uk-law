@@ -33,7 +33,7 @@ NATIONAL HEALTH SERVICE, WALES
 
 SOCIAL CARE, WALES
 
-The Carers Strategies (Wales) (Amendment) Regulations 2012 (revoked)[^key-a17a783c19f976fd3d34ad57ec1f39d8]
+The Carers Strategies (Wales) (Amendment) Regulations 2012 (revoked)[^c-a17a783c19f976fd3d34ad57ec1f39d8]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 29 February 2012
 
-[^key-a17a783c19f976fd3d34ad57ec1f39d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a17a783c19f976fd3d34ad57ec1f39d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a17a783c19f976fd3d34ad57ec1f39d8]
+## 1. Title, commencement and application[^c-a17a783c19f976fd3d34ad57ec1f39d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of The Carers Strategies (Wales) Regulations 2011[^key-a17a783c19f976fd3d34ad57ec1f39d8]
+## 2. Amendment of The Carers Strategies (Wales) Regulations 2011[^c-a17a783c19f976fd3d34ad57ec1f39d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a17a783c19f976fd3d34ad57ec1f39d8]
+## 3. Revocation[^c-a17a783c19f976fd3d34ad57ec1f39d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a17a783c19f976fd3d34ad57ec1f39d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a17a783c19f976fd3d34ad57ec1f39d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a17a783c19f976fd3d34ad57ec1f39d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a17a783c19f976fd3d34ad57ec1f39d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a17a783c19f976fd3d34ad57ec1f39d8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/282) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-a17a783c19f976fd3d34ad57ec1f39d8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/282) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

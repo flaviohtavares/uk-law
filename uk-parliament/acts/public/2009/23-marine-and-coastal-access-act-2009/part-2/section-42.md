@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. UK marine area[^key-f147181db9a8d45d033881a79edec6a0]
+## 42. UK marine area[^c-f147181db9a8d45d033881a79edec6a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and includes the bed and subsoil of the sea within those areas.
 
 ## Annotations
 
-[^key-f147181db9a8d45d033881a79edec6a0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/23/section/42) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/6)
+[^c-f147181db9a8d45d033881a79edec6a0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/23/section/42) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/6)

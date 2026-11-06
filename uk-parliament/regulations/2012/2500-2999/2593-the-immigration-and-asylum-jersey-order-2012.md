@@ -31,7 +31,7 @@ summary: ''
 
 Immigration
 
-The Immigration and Asylum (Jersey) Order 2012 (revoked)[^key-c88086e002168ddbcbb0362e5d0f2662]
+The Immigration and Asylum (Jersey) Order 2012 (revoked)[^c-c88086e002168ddbcbb0362e5d0f2662]
 
 Made
 
@@ -45,27 +45,27 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c88086e002168ddbcbb0362e5d0f2662]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c88086e002168ddbcbb0362e5d0f2662]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and Commencement[^key-c88086e002168ddbcbb0362e5d0f2662]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Immigration (Jersey) Order 1993[^key-c88086e002168ddbcbb0362e5d0f2662]
+## 1. Citation and Commencement[^c-c88086e002168ddbcbb0362e5d0f2662]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Asylum and Immigration Act 1996 (Jersey) Order 1998[^key-c88086e002168ddbcbb0362e5d0f2662]
+## 2. Amendment of the Immigration (Jersey) Order 1993[^c-c88086e002168ddbcbb0362e5d0f2662]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Immigration and Asylum Act 1999 (Jersey) Order 2003[^key-c88086e002168ddbcbb0362e5d0f2662]
+## 3. Amendment of the Asylum and Immigration Act 1996 (Jersey) Order 1998[^c-c88086e002168ddbcbb0362e5d0f2662]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Immigration and Asylum Act 1999 (Jersey) Order 2003[^c-c88086e002168ddbcbb0362e5d0f2662]
 
 **Not yet in force.**
 
@@ -73,11 +73,11 @@ The Queen’s Most Excellent Majesty in Council
 
 **May not be in force at this date. Check the source.**
 
-[^key-c88086e002168ddbcbb0362e5d0f2662]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c88086e002168ddbcbb0362e5d0f2662]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c88086e002168ddbcbb0362e5d0f2662]EXPLANATORY NOTE
+[^c-c88086e002168ddbcbb0362e5d0f2662]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -91,4 +91,4 @@ The Order amends:
 
 ## Annotations
 
-[^key-c88086e002168ddbcbb0362e5d0f2662]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2593) revoked (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/1) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/2))
+[^c-c88086e002168ddbcbb0362e5d0f2662]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2593) revoked (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/1) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/2))

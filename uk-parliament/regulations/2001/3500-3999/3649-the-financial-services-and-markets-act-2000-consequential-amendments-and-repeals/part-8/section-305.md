@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 305. Petition for winding-up by the Secretary of State[^key-203119cda8096a7f69c22a7d19dab86d]
+## 305. Petition for winding-up by the Secretary of State[^c-203119cda8096a7f69c22a7d19dab86d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In subsection (1) of section 124A of the Insolvency Act 1986 (petition for windi
 
 ## Annotations
 
-[^key-203119cda8096a7f69c22a7d19dab86d]: Commencement: Art. 305 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-203119cda8096a7f69c22a7d19dab86d]: Commencement: Art. 305 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

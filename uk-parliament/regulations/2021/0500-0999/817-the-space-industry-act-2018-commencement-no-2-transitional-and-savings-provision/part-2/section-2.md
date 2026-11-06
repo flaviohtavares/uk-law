@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Provisions of the Space Industry Act 2018 coming into force on 29th July 2021[^key-67867c2b4641b738a9668fb82c35a773]
+## 2. Provisions of the Space Industry Act 2018 coming into force on 29th July 2021[^c-67867c2b4641b738a9668fb82c35a773]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67867c2b4641b738a9668fb82c35a773]: Commencement: Reg. 2 in force at 8.7.2021 at 9.35 a.m.
+[^c-67867c2b4641b738a9668fb82c35a773]: Commencement: Reg. 2 in force at 8.7.2021 at 9.35 a.m.

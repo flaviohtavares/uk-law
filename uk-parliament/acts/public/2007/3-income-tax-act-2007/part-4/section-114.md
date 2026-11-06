@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Power to exclude other amounts[^key-72ffb8e606492030788525c0f5a87e20]
+## 114. Power to exclude other amounts[^c-72ffb8e606492030788525c0f5a87e20]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72ffb8e606492030788525c0f5a87e20]: Textual amendment: S. 114 cross-heading omitted and s. 114 heading substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/14), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-72ffb8e606492030788525c0f5a87e20]: Textual amendment: S. 114 cross-heading omitted and s. 114 heading substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/14), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

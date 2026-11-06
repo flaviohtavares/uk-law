@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Substitution of Schedule 3[^key-ac72d560fbbdd85daade011b20245b03]
+## SCHEDULE 2 — Substitution of Schedule 3[^c-ac72d560fbbdd85daade011b20245b03]
 
 *Extent: E+W+S+N.I.*
 
 Article 24(2)
 
-[^key-ac72d560fbbdd85daade011b20245b03]
+[^c-ac72d560fbbdd85daade011b20245b03]
 
 For Schedule 3 substitute—
 
@@ -122,4 +122,4 @@ For Schedule 3 substitute—
 
 ## Annotations
 
-[^key-ac72d560fbbdd85daade011b20245b03]: Commencement: Sch. 2 in force at made date for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)
+[^c-ac72d560fbbdd85daade011b20245b03]: Commencement: Sch. 2 in force at made date for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.8. Notice of determination and renewal of application for permission to appeal[^key-297fd2553fe1596bf93dc78b0e7f7a0a]
+## 42.8. Notice of determination and renewal of application for permission to appeal[^c-297fd2553fe1596bf93dc78b0e7f7a0a]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-297fd2553fe1596bf93dc78b0e7f7a0a]: Commencement: [Rule 42.8](https://www.legislation.gov.uk/uksi/2025/909/rule/42.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-297fd2553fe1596bf93dc78b0e7f7a0a]: Commencement: [Rule 42.8](https://www.legislation.gov.uk/uksi/2025/909/rule/42.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00993]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 31 was amended by section 74 of, and paragraphs 1 and 16 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 

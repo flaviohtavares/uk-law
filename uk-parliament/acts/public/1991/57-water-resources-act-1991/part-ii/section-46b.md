@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46B. Power to impose general conditions with respect to licensed activity by water companies[^key-9ca280c338ffbc13b0643878698811fb]
+## 46B. Power to impose general conditions with respect to licensed activity by water companies[^c-9ca280c338ffbc13b0643878698811fb]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ and regulations under this section may apply to water industry licences granted 
 
 ## Annotations
 
-[^key-9ca280c338ffbc13b0643878698811fb]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/ukpga/1991/57/section/46B) inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 9](https://www.legislation.gov.uk/ukpga/2025/5/section/9), [17(2)(f)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/f)
+[^c-9ca280c338ffbc13b0643878698811fb]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/ukpga/1991/57/section/46B) inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 9](https://www.legislation.gov.uk/ukpga/2025/5/section/9), [17(2)(f)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/f)

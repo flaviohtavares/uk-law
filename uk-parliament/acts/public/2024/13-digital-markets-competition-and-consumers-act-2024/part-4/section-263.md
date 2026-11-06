@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263. Right to cancel for breach of implied term[^key-f30196ab236da1e742f26c201a7fd377]
+## 263. Right to cancel for breach of implied term[^c-f30196ab236da1e742f26c201a7fd377]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f30196ab236da1e742f26c201a7fd377]: Commencement: S. 263 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f30196ab236da1e742f26c201a7fd377]: Commencement: S. 263 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

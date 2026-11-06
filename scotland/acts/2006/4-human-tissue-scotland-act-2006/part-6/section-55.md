@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Power to give effect to EU obligations[^key-1ccba51ec0301f1e37891de7b26526c5][^key-9fe4c3437a53feecd67ae2a19f9ece9e]
+## 55. Power to give effect to EU obligations[^c-1ccba51ec0301f1e37891de7b26526c5][^c-9fe4c3437a53feecd67ae2a19f9ece9e]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ccba51ec0301f1e37891de7b26526c5]: Commencement: S. 55 in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [Schs.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-1ccba51ec0301f1e37891de7b26526c5]: Commencement: S. 55 in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [Schs.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
-[^key-9fe4c3437a53feecd67ae2a19f9ece9e]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-9fe4c3437a53feecd67ae2a19f9ece9e]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

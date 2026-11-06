@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Procedure to be followed on application for recognition[^key-a1c0aedf8c187cd5be97f1b50dfdf306]
+## 10. Procedure to be followed on application for recognition[^c-a1c0aedf8c187cd5be97f1b50dfdf306]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1c0aedf8c187cd5be97f1b50dfdf306]: Commencement: Reg. 10 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-a1c0aedf8c187cd5be97f1b50dfdf306]: Commencement: Reg. 10 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

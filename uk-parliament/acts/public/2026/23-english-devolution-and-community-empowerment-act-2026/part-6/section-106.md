@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Financial provision[^key-aaac36a2ea0e71b18cbcac97cc3d27bc]
+## 106. Financial provision[^c-aaac36a2ea0e71b18cbcac97cc3d27bc]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-aaac36a2ea0e71b18cbcac97cc3d27bc]: Commencement: S. 106 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-aaac36a2ea0e71b18cbcac97cc3d27bc]: Commencement: S. 106 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

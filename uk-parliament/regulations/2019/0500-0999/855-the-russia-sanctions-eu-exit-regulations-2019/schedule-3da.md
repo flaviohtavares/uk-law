@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3DA — Schedule 3DA Revenue Generating Goods[^key-dae3d9087c751034be0779dd1333d6ea]
+## SCHEDULE 3DA — Schedule 3DA Revenue Generating Goods[^c-dae3d9087c751034be0779dd1333d6ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ Regulation 46XA
 
 **2.** In this Schedule, “n.e.s” means “not elsewhere specified”.
 
-**3.** A Schedule 3DA revenue generating good is any thing falling within a commodity code mentioned in column 1 of the table in Part 2 , column 1 of the table in Part 3 or column 1 of the table in Part 4[^key-a198d925548dc2c789ff829a9e82b586].
+**3.** A Schedule 3DA revenue generating good is any thing falling within a commodity code mentioned in column 1 of the table in Part 2 , column 1 of the table in Part 3 or column 1 of the table in Part 4[^c-a198d925548dc2c789ff829a9e82b586].
 
 ### PART 2
 
@@ -121,8 +121,8 @@ Regulation 46XA
 | 7010 | Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass |
 | 7019 | Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics) |
 | 7106 | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form |
-| [^key-3d3e663fb581cc3d90f347f2d87255ba]. . . | [^key-3d3e663fb581cc3d90f347f2d87255ba]. . . |
-| [^key-3d3e663fb581cc3d90f347f2d87255ba]. . . | [^key-3d3e663fb581cc3d90f347f2d87255ba]. . . |
+| [^c-3d3e663fb581cc3d90f347f2d87255ba]. . . | [^c-3d3e663fb581cc3d90f347f2d87255ba]. . . |
+| [^c-3d3e663fb581cc3d90f347f2d87255ba]. . . | [^c-3d3e663fb581cc3d90f347f2d87255ba]. . . |
 | 84111100 | Turbojets of a thrust \<= 25 kN |
 | 84111210 | Turbojets of a thrust > 25 kN but \<= 44 kN |
 | 84111230 | Turbojets of a thrust > 44 kN but \<= 132 kN |
@@ -206,15 +206,15 @@ Regulation 46XA
 | 6815 | articles of stone or of other mineral substances, incl. carbon fibres, articles of carbon fibres and articles of peat, n.e.s. |
 | 6902 | refractory bricks, blocks, tiles and similar refractory ceramic constructional goods (excl. those of siliceous fossil meals or similar siliceous earths) |
 | 6907 | ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing (excl. of siliceous fossil meals or similar siliceous earths, refractory goods, tiles specially adapted as table mats, ornamental articles and tiles specifically manufactured for stoves) |
-| 7104 10[^key-c05f9bb434dab84509c97a9059def273] | Piezoelectric quartz |
+| 7104 10[^c-c05f9bb434dab84509c97a9059def273] | Piezoelectric quartz |
 | 7104 29 | Synthetic or reconstructed precious or semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport; other unworked or simply sawn or roughly shaped |
 | 7104 99 | Synthetic or reconstructed precious or semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport; other |
 | 7112 | waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal (excl. waste and scrap melted down into unworked blocks, ingots, or similar forms) |
 | 7115 | articles of precious metal or of metal clad with precious metal, n.e.s. |
-| [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
-| [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
-| [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
-| [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^key-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
+| [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
+| [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
+| [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
+| [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . | [^c-ef9c7d4518f096eecf3c232c9e1d5d80]. . . |
 | 8407 | spark-ignition reciprocating or rotary internal combustion piston engine |
 | 8408 | compression-ignition internal combustion piston engine “diesel or semi-diesel engine” |
 | 8409 | parts suitable for use solely or principally with internal combustion piston engine of heading 8407 or 8408 |
@@ -279,7 +279,7 @@ Regulation 46XA
 | 9405 | lamps and lighting fittings, incl. searchlights and spotlights, and parts thereof, n.e.s; illuminated signs, illuminated nameplates and the like having a permanently fixed light source, and parts thereof, n.e.s. |
 | 9406 | prefabricated buildings, whether or not complete or already assembled |
 
-### PART 4[^key-2f289bc91972305053375e00677fe5b4]
+### PART 4[^c-2f289bc91972305053375e00677fe5b4]
 
 | Commodity code (1) | Item (2) |
 | --- | --- |
@@ -288,14 +288,14 @@ Regulation 46XA
 
 ## Annotations
 
-[^key-dae3d9087c751034be0779dd1333d6ea]: Textual amendment: Sch. 3DA inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(e)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/e)
+[^c-dae3d9087c751034be0779dd1333d6ea]: Textual amendment: Sch. 3DA inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(e)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/e)
 
-[^key-a198d925548dc2c789ff829a9e82b586]: Textual amendment: Words in Sch. 3DA para. 3 substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(11)(a)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/11/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-a198d925548dc2c789ff829a9e82b586]: Textual amendment: Words in Sch. 3DA para. 3 substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(11)(a)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/11/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-3d3e663fb581cc3d90f347f2d87255ba]: Textual amendment: Words in Sch. 3DA Pt. 2 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1364/schedule/7/paragraph/2/a)
+[^c-3d3e663fb581cc3d90f347f2d87255ba]: Textual amendment: Words in Sch. 3DA Pt. 2 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1364/schedule/7/paragraph/2/a)
 
-[^key-c05f9bb434dab84509c97a9059def273]: Textual amendment: Words in [Sch. 3DA Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3DA/part/3) substituted (1.1.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2023 (S.I. 2023/1367)](https://www.legislation.gov.uk/uksi/2023/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/7/1)
+[^c-c05f9bb434dab84509c97a9059def273]: Textual amendment: Words in [Sch. 3DA Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3DA/part/3) substituted (1.1.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2023 (S.I. 2023/1367)](https://www.legislation.gov.uk/uksi/2023/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/7/1)
 
-[^key-ef9c7d4518f096eecf3c232c9e1d5d80]: Textual amendment: Words in Sch. 3DA Pt. 3 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1364/schedule/7/paragraph/2/b)
+[^c-ef9c7d4518f096eecf3c232c9e1d5d80]: Textual amendment: Words in Sch. 3DA Pt. 3 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1364/schedule/7/paragraph/2/b)
 
-[^key-2f289bc91972305053375e00677fe5b4]: Textual amendment: [Sch. 3DA Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3DA/part/4) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(11)(b)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/11/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-2f289bc91972305053375e00677fe5b4]: Textual amendment: [Sch. 3DA Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3DA/part/4) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(11)(b)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/11/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

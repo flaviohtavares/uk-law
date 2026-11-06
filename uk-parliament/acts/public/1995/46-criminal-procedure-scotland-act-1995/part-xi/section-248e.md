@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248E. Effect of sentence of imprisonment in other cases[^key-24122da656eac7c910dd64327611a125]
+## 248E. Effect of sentence of imprisonment in other cases[^c-24122da656eac7c910dd64327611a125]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24122da656eac7c910dd64327611a125]: Textual amendment: Ss. 248D, 248E inserted (16.7.2018) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29), [36](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/36)); [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
+[^c-24122da656eac7c910dd64327611a125]: Textual amendment: Ss. 248D, 248E inserted (16.7.2018) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29), [36](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/36)); [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)

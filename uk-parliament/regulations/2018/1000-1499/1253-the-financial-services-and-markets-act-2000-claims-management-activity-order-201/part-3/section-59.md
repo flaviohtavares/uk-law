@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Continuation of injunction applications made by the Regulator[^key-8fd9889a33833ce630518430f0f8a2f8][^key-f2101536519ccf342149893f97bd97df]
+## 59. Continuation of injunction applications made by the Regulator[^c-8fd9889a33833ce630518430f0f8a2f8][^c-f2101536519ccf342149893f97bd97df]
 
 *Extent: E+W+S*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8fd9889a33833ce630518430f0f8a2f8]: Commencement: Art. 59 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-8fd9889a33833ce630518430f0f8a2f8]: Commencement: Art. 59 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-f2101536519ccf342149893f97bd97df]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2018/1253/article/59) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-f2101536519ccf342149893f97bd97df]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2018/1253/article/59) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00098]: Footnote: Section 8(1) was amended by the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) and the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).

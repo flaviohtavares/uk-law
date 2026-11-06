@@ -44,13 +44,13 @@ The Department for Communities[^f00001], in exercise of the powers conferred by 
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00005].
 
-## 1. Citation, Commencement and Interpretation[^key-45897f94429e3c1b7106287b71420455]
+## 1. Citation, Commencement and Interpretation[^c-45897f94429e3c1b7106287b71420455]
 
 (1) These Regulations may be cited as the Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 1st October 2022.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Housing Benefit Regulations[^key-6d604c6d7b3c6c763ef3ed83e14a5b54]
+## 2. Amendments to the Housing Benefit Regulations[^c-6d604c6d7b3c6c763ef3ed83e14a5b54]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00007] are amended as follows—
 
@@ -132,7 +132,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 (5) In regulation 73H(6) (specified accommodation), omit the definitions of “coercive behaviour”, “controlling behaviour” and “domestic violence”.
 
-## 3. Amendment of the Universal Credit Regulations[^key-25383cd18169f39b6ee85caf1eebfa29]
+## 3. Amendment of the Universal Credit Regulations[^c-25383cd18169f39b6ee85caf1eebfa29]
 
 (1) Schedule 4 (housing costs elements for renters) to the Universal Credit Regulations (Northern Ireland) 2016[^f00016] is amended as follows.
 
@@ -223,11 +223,11 @@ A full impact assessment has not been produced for this rule as no, or no signif
 
 [^f00005]: Footnote: [S.R. 2020 No. 927](https://www.legislation.gov.uk/nisr/2020/927)
 
-[^key-45897f94429e3c1b7106287b71420455]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1)
+[^c-45897f94429e3c1b7106287b71420455]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6d604c6d7b3c6c763ef3ed83e14a5b54]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1)
+[^c-6d604c6d7b3c6c763ef3ed83e14a5b54]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
@@ -247,7 +247,7 @@ A full impact assessment has not been produced for this rule as no, or no signif
 
 [^f00015]: Footnote: Regulation A14 inserted by regulation 5(7) of [S.R. 2016 No. 326](https://www.legislation.gov.uk/nisr/2016/326) and amended by regulation 2(a) and (b) of [S.R. 2021 No. 248](https://www.legislation.gov.uk/nisr/2021/248)
 
-[^key-25383cd18169f39b6ee85caf1eebfa29]: Commencement: Reg. 3 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1)
+[^c-25383cd18169f39b6ee85caf1eebfa29]: Commencement: Reg. 3 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 

@@ -34,7 +34,7 @@ This S.S.I. has been made in consequence of a defect in [S.S.I. 2024/236](https:
 
 Sheriff Appeal Court
 
-The Sheriff Appeal Court Fees Amendment Order 2025 (revoked)[^key-a4dcfb3ad7557f736f05c41f846f6fc0]
+The Sheriff Appeal Court Fees Amendment Order 2025 (revoked)[^c-a4dcfb3ad7557f736f05c41f846f6fc0]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 13th March 2025
 
-[^key-a4dcfb3ad7557f736f05c41f846f6fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4dcfb3ad7557f736f05c41f846f6fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a4dcfb3ad7557f736f05c41f846f6fc0]
+## 1. Citation and commencement[^c-a4dcfb3ad7557f736f05c41f846f6fc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sheriff Appeal Court Fees Order 2024[^key-a4dcfb3ad7557f736f05c41f846f6fc0]
+## 2. Amendment of the Sheriff Appeal Court Fees Order 2024[^c-a4dcfb3ad7557f736f05c41f846f6fc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4dcfb3ad7557f736f05c41f846f6fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4dcfb3ad7557f736f05c41f846f6fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4dcfb3ad7557f736f05c41f846f6fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4dcfb3ad7557f736f05c41f846f6fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4dcfb3ad7557f736f05c41f846f6fc0]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2025/9) revoked (1.4.2026) by [The Sheriff Appeal Court Fees Order 2026 (S.S.I. 2026/79)](https://www.legislation.gov.uk/ssi/2026/79), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2026/79/article/7/b)
+[^c-a4dcfb3ad7557f736f05c41f846f6fc0]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2025/9) revoked (1.4.2026) by [The Sheriff Appeal Court Fees Order 2026 (S.S.I. 2026/79)](https://www.legislation.gov.uk/ssi/2026/79), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2026/79/article/7/b)

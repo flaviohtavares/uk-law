@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Amendments to Council Directives [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) and [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496)[^key-4bcb574bcebae7c113237053044b6002]
+## SCHEDULE 1 — Amendments to Council Directives [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) and [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496)[^c-4bcb574bcebae7c113237053044b6002]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 1(5)
 
-**1.**[^key-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)
+[^c-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)

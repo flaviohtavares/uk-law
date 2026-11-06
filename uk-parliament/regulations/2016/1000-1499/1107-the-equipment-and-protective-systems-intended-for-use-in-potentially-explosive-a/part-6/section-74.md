@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Consequential Amendments[^key-edf5f1bee8bb0c69aa330ecd2ada87ce]
+## 74. Consequential Amendments[^c-edf5f1bee8bb0c69aa330ecd2ada87ce]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edf5f1bee8bb0c69aa330ecd2ada87ce]: Commencement: Reg. 74 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-edf5f1bee8bb0c69aa330ecd2ada87ce]: Commencement: Reg. 74 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776).

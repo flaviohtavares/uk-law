@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Effect of an unfair term on the rest of a contract[^key-d850d8b2c7d17ab4c657837d8550a15f]
+## 67. Effect of an unfair term on the rest of a contract[^c-d850d8b2c7d17ab4c657837d8550a15f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a term of a consumer contract is not binding on the consumer as a result o
 
 ## Annotations
 
-[^key-d850d8b2c7d17ab4c657837d8550a15f]: Commencement: S. 67 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-d850d8b2c7d17ab4c657837d8550a15f]: Commencement: S. 67 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

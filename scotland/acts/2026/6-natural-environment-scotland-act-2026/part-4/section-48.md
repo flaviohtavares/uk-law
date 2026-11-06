@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Licensing: land on which certain birds may be killed or taken[^key-ba1657ffc0c68088692ade4355d9a261][^key-197ea1275b09712ab13d3ed0201ee1d0]
+## 48. Licensing: land on which certain birds may be killed or taken[^c-ba1657ffc0c68088692ade4355d9a261][^c-197ea1275b09712ab13d3ed0201ee1d0]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba1657ffc0c68088692ade4355d9a261]: Commencement: S. 48 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-ba1657ffc0c68088692ade4355d9a261]: Commencement: S. 48 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-197ea1275b09712ab13d3ed0201ee1d0]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2026/6/section/48) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
+[^c-197ea1275b09712ab13d3ed0201ee1d0]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2026/6/section/48) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)

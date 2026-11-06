@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Additional persons for whom a CCG has responsibility[^key-eb638d34a4a260a2600d418d66e0db58]
+## SCHEDULE 1 — Additional persons for whom a CCG has responsibility[^c-eb638d34a4a260a2600d418d66e0db58]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 4
 
-**1.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-eb638d34a4a260a2600d418d66e0db58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb638d34a4a260a2600d418d66e0db58]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2996/schedule/1) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/c)
+[^c-eb638d34a4a260a2600d418d66e0db58]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2996/schedule/1) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/c)

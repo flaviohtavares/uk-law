@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The EC Competition Law (Articles 84 and 85)Enforcement Regulations 2001 (revoked)[^key-bc7b751467836d60bf084ba05732ca30]
+The EC Competition Law (Articles 84 and 85)Enforcement Regulations 2001 (revoked)[^c-bc7b751467836d60bf084ba05732ca30]
 
 Made
 
@@ -45,7 +45,7 @@ Coming into force
 
 17th August 2001
 
-[^key-bc7b751467836d60bf084ba05732ca30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc7b751467836d60bf084ba05732ca30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -94,14 +94,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-bc7b751467836d60bf084ba05732ca30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc7b751467836d60bf084ba05732ca30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-bc7b751467836d60bf084ba05732ca30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc7b751467836d60bf084ba05732ca30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc7b751467836d60bf084ba05732ca30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/2916) revoked (20.7.2007) by [The EC Competition Law (Articles 84 and 85) Enforcement (Revocation) Regulations 2007 (S.I. 2007/1846)](https://www.legislation.gov.uk/uksi/2007/1846), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1846/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/1846/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1846/schedule)
+[^c-bc7b751467836d60bf084ba05732ca30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/2916) revoked (20.7.2007) by [The EC Competition Law (Articles 84 and 85) Enforcement (Revocation) Regulations 2007 (S.I. 2007/1846)](https://www.legislation.gov.uk/uksi/2007/1846), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1846/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/1846/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1846/schedule)

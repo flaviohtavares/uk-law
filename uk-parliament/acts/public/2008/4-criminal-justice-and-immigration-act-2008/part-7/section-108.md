@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Notification requirements: initial notification[^key-3ee3ebdf05b43cc16d0aa7c051bb600b]
+## 108. Notification requirements: initial notification[^c-3ee3ebdf05b43cc16d0aa7c051bb600b]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ comes into force in relation to the offender (“**the relevant date**”).
 
 ## Annotations
 
-[^key-3ee3ebdf05b43cc16d0aa7c051bb600b]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2008/4/section/108) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(k)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/k)
+[^c-3ee3ebdf05b43cc16d0aa7c051bb600b]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2008/4/section/108) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(k)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/k)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Amendment Regulations 2004 (revoked)[^key-a0ff02ca0a388ef6c423955d6982c43b]
+The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Amendment Regulations 2004 (revoked)[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 Made
 
@@ -45,62 +45,62 @@ Coming into force
 
 31st March 2004
 
-[^key-a0ff02ca0a388ef6c423955d6982c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ff02ca0a388ef6c423955d6982c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 1. Citation, commencement, extent and interpretation[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 2. Amendment of the principal Regulations[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 3.[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 4.[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 5.[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 6.[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## 7.[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0ff02ca0a388ef6c423955d6982c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ff02ca0a388ef6c423955d6982c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REVISED SCHEDULE 2 TO BE SUBSTITUTED IN THE PRINCIPAL REGULATIONS[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## SCHEDULE 1 — REVISED SCHEDULE 2 TO BE SUBSTITUTED IN THE PRINCIPAL REGULATIONS[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 Regulation 6
 
-[^key-a0ff02ca0a388ef6c423955d6982c43b]
+[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — NEW SCHEDULE 3 TO BE INSERTED IN THE PRINCIPAL REGULATIONS[^key-a0ff02ca0a388ef6c423955d6982c43b]
+## SCHEDULE 2 — NEW SCHEDULE 3 TO BE INSERTED IN THE PRINCIPAL REGULATIONS[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 Regulation 7
 
-[^key-a0ff02ca0a388ef6c423955d6982c43b]
+[^c-a0ff02ca0a388ef6c423955d6982c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a0ff02ca0a388ef6c423955d6982c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ff02ca0a388ef6c423955d6982c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0ff02ca0a388ef6c423955d6982c43b]: Textual amendment: Regulations revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2009/427/regulation/6/b)
+[^c-a0ff02ca0a388ef6c423955d6982c43b]: Textual amendment: Regulations revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2009/427/regulation/6/b)

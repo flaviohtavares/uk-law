@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Overview of Act[^key-1ef35bb2d184cfc2e17e1217ff4eeec3]
+## 1. Overview of Act[^c-1ef35bb2d184cfc2e17e1217ff4eeec3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef35bb2d184cfc2e17e1217ff4eeec3]: Commencement: S. 1 in force at Royal Assent, see [s. 170(1)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/a)
+[^c-1ef35bb2d184cfc2e17e1217ff4eeec3]: Commencement: S. 1 in force at Royal Assent, see [s. 170(1)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/a)

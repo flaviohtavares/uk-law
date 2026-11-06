@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-0503d74b12b435fb47ad766d00b6b976] This Part applies in relation to a person if the Secretary of State is satisfied that the person is within subsection (1) or (1A).
+(A1)[^c-0503d74b12b435fb47ad766d00b6b976] This Part applies in relation to a person if the Secretary of State is satisfied that the person is within subsection (1) or (1A).
 
-(1) A person is within this subsection if—[^key-d52485f2fb35e605be7cf052b8a78a06]
+(1) A person is within this subsection if—[^c-d52485f2fb35e605be7cf052b8a78a06]
 
 - (a) the person carries on an activity in the area of two or more local authorities, and
 - (b) each of those authorities has the same relevant function in relation to that activity.
 
-(1A)[^key-29f5c523499a3ce483ad355568b22eab] A person (P) is within this subsection if each of the conditions in subsection (1B) is met.
+(1A)[^c-29f5c523499a3ce483ad355568b22eab] A person (P) is within this subsection if each of the conditions in subsection (1B) is met.
 
 (1B) The conditions are—
 
@@ -37,7 +37,7 @@ summary: ''
   - (i) at least one of P and Q carries on the activity in the area of two or more local authorities, or
   - (ii) Q carries on the activity in the area of a local authority in which P does not carry on the activity.
 
-(2)[^key-d853dc5fc917188436207cc4873f39ff] In this Part, references to “the regulated person” are to a person to whom this Part applies.
+(2)[^c-d853dc5fc917188436207cc4873f39ff] In this Part, references to “the regulated person” are to a person to whom this Part applies.
 
 (3) The Secretary of State may from time to time publish guidance about matters likely to be taken into account for the purposes of subsection (1B)(b).
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0503d74b12b435fb47ad766d00b6b976]: Textual amendment: S. 22(A1) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
+[^c-0503d74b12b435fb47ad766d00b6b976]: Textual amendment: S. 22(A1) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
 
-[^key-d52485f2fb35e605be7cf052b8a78a06]: Textual amendment: Words in s. 22(1) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/3), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
+[^c-d52485f2fb35e605be7cf052b8a78a06]: Textual amendment: Words in s. 22(1) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/3), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
 
-[^key-29f5c523499a3ce483ad355568b22eab]: Textual amendment: S. 22(1A)(1B) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/4), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
+[^c-29f5c523499a3ce483ad355568b22eab]: Textual amendment: S. 22(1A)(1B) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/4), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
 
-[^key-d853dc5fc917188436207cc4873f39ff]: Textual amendment: S. 22(2)-(4) substituted for s. 22(2) (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/5), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
+[^c-d853dc5fc917188436207cc4873f39ff]: Textual amendment: S. 22(2)-(4) substituted for s. 22(2) (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 67(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/67/5), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)

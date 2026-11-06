@@ -43,7 +43,7 @@ Coming into operation with regulation 1
 
 The Department for Social Development, in exercise of the powers conferred by sections 2A(1), (3) to (6), 2B(6) and (7), 5(1)(a) and (b) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], section 122(1)(d) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], and section 59 of, and paragraphs 3(1), 4(3), 6(8) and 20(3) of Schedule 7 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel in so far as regulation 16 and paragraphs 2 and 7 of Schedule 2 are concerned[^f00005], and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00006], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-fb8ad34cdc658b2dbb62793954ab1064]
+## 1. Citation, commencement and interpretation[^c-fb8ad34cdc658b2dbb62793954ab1064]
 
 (1) These Regulations may be cited as the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003 and shall, subject to paragraph (2), come into operation on 30th June 2003.
 
@@ -78,7 +78,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (7) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Requirement for person claiming a specified benefit to take part in an interview[^key-70dddc287bea9d31723eeb97e456dd9f]
+## 2. Requirement for person claiming a specified benefit to take part in an interview[^c-70dddc287bea9d31723eeb97e456dd9f]
 
 (1) Subject to regulations 5 to 8, a person who –
 
@@ -92,7 +92,7 @@ is required to take part in an interview.
 
 (3) An officer may, if he considers it appropriate in all the circumstances, arrange for a person who has not attained the age of 18 to attend an interview with the Careers Service.
 
-## 3. Continuing entitlement to a specified benefit dependent on an interview[^key-b203fff88eb0de52e4a70218419bc788]
+## 3. Continuing entitlement to a specified benefit dependent on an interview[^c-b203fff88eb0de52e4a70218419bc788]
 
 (1) Subject to regulations 5 to 8, a person who has not attained the age of 60 and who is entitled to a specified benefit, shall be required to take part in an interview as a condition of his continuing to be entitled to the full amount of benefit which is payable apart from these Regulations where paragraph (2) applies and –
 
@@ -130,7 +130,7 @@ is required to take part in an interview.
 - “lone parent” has the meaning prescribed in regulation 2(1) of the Income Support (General) Regulations (Northern Ireland) 1987[^f00011] (interpretation);
 - “personal capability assessment” has the meaning prescribed in regulation 2(1) of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00012] (interpretation).
 
-## 4. Time when interview is to take place[^key-68b1cdd038e503e773e9f4fcc96abe2d]
+## 4. Time when interview is to take place[^c-68b1cdd038e503e773e9f4fcc96abe2d]
 
 An officer shall arrange for an interview to take place as soon as reasonably practicable after –
 
@@ -138,7 +138,7 @@ An officer shall arrange for an interview to take place as soon as reasonably pr
 - (b) the requirement under regulation 3(1) arises, or
 - (c) in a case where regulation 6(1) applies, the time when that requirement is to apply by virtue of regulation 6(2).
 
-## 5. Waiver of requirement to take part in an interview[^key-468f4323d6e22897d74a8189b3fa26d7]
+## 5. Waiver of requirement to take part in an interview[^c-468f4323d6e22897d74a8189b3fa26d7]
 
 (1) A requirement imposed by these Regulations to take part in an interview shall not apply where an officer determines that an interview would not –
 
@@ -152,7 +152,7 @@ An officer shall arrange for an interview to take place as soon as reasonably pr
 
 as having complied with that requirement.
 
-## 6. Deferment of requirement to take part in an interview[^key-4bab007084540b5d0f0a08f10464208b]
+## 6. Deferment of requirement to take part in an interview[^c-4bab007084540b5d0f0a08f10464208b]
 
 (1) An officer may determine, in the case of any particular person, that the requirement to take part in an interview shall be deferred at the time the claim is made or the requirement to take part in an interview arises or applies because an interview would not at that time –
 
@@ -169,7 +169,7 @@ as having complied with that requirement.
 
 that person shall be treated for the purposes of any claim for, or entitlement to, a specified benefit as having complied with that requirement.
 
-## 7. Exemptions[^key-161382ceae687a6f64d0bc5a778fabc3]
+## 7. Exemptions[^c-161382ceae687a6f64d0bc5a778fabc3]
 
 (1) Subject to paragraph (2), persons who, on the day on which the claim for a specified benefit is made or the requirement to take part in an interview under regulation 3 or 6(2) arises or applies –
 
@@ -183,20 +183,20 @@ shall be exempt from the requirement to take part in an interview.
 - (a) a joint-claim couple (as defined for the purposes of Article 3(4) of the Jobseekers (Northern Ireland) Order 1995[^f00013]) have claimed a jobseeker’s allowance, and
 - (b) a member of that couple is a person to whom regulation 3D(1)(c) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00014] (further circumstances in which a joint-claim couple may be entitled to a joint-claim jobseeker’s allowance) applies.
 
-## 8. Claims for two or more specified benefits[^key-528a20920bf40cc071407d9ecc097fb9]
+## 8. Claims for two or more specified benefits[^c-528a20920bf40cc071407d9ecc097fb9]
 
 A person who would otherwise be required under these Regulations to take part in interviews relating to more than one specified benefit –
 
 - (a) is only required to take part in one interview, and
 - (b) that interview counts for the purposes of all those benefits.
 
-## 9. The interview[^key-45bbbe787c46f48e1ac4f660d7ed3e26]
+## 9. The interview[^c-45bbbe787c46f48e1ac4f660d7ed3e26]
 
 (1) The officer shall inform a person who is required to take part in an interview of the place and time of the interview.
 
 (2) The officer may determine that an interview is to take place in the person’s home where it would, in his opinion, be unreasonable to expect that person to attend elsewhere because that person’s personal circumstances are such that attending elsewhere would cause him undue inconvenience or endanger his health.
 
-## 10. Taking part in an interview[^key-0c5c252809193112a82456074052a46f]
+## 10. Taking part in an interview[^c-0c5c252809193112a82456074052a46f]
 
 (1) The officer shall determine whether a person has taken part in an interview.
 
@@ -216,7 +216,7 @@ A person who would otherwise be required under these Regulations to take part in
 
 (4) Where an officer determines that a person has failed to take part in an interview and good cause has not been shown for that failure within 5 working days of the day on which the interview was to take place, a relevant decision shall be made for the purposes of section 2B[^f00015] of the Social Security Administration (Northern Ireland) Act 1992 (work-focused interviews).
 
-## 11. Failure to take part in an interview[^key-63981a15f70732a5f9edb76d81edd6fe]
+## 11. Failure to take part in an interview[^c-63981a15f70732a5f9edb76d81edd6fe]
 
 (1) A person in respect of whom a relevant decision has been made in accordance with regulation 10(4) shall, subject to paragraph (11), suffer the consequences set out below.
 
@@ -257,14 +257,14 @@ A person who would otherwise be required under these Regulations to take part in
 
 (13) In paragraphs (2) and (12), the “decision” means the decision that the person failed without good cause to take part in an interview.
 
-## 12. Circumstances where regulation 11 does not apply[^key-b108b5be24ca02cdbdc6ce6dee7e02dd]
+## 12. Circumstances where regulation 11 does not apply[^c-b108b5be24ca02cdbdc6ce6dee7e02dd]
 
 The consequences of a failure to take part in an interview set out in regulation 11 shall not apply where –
 
 - (a) he is no longer required to take part in an interview as a condition for continuing to be entitled to the full amount of benefit which is payable apart from these Regulations, or
 - (b) the person attains the age of 60.
 
-## 13. Good cause[^key-9c4951070323b7ae8ff1ee721186d4a6]
+## 13. Good cause[^c-9c4951070323b7ae8ff1ee721186d4a6]
 
 Matters to be taken into account in determining whether a person has shown good cause for his failure to take part in an interview include –
 
@@ -278,7 +278,7 @@ Matters to be taken into account in determining whether a person has shown good 
 - (h) that he was attending the funeral of a close friend or relative on the day fixed for the interview;
 - (i) that a disability from which the person suffers made it impracticable for him to attend at the time fixed for the interview.
 
-## 14. Appeals[^key-85f18484ef6842e43794c44290297f3f]
+## 14. Appeals[^c-85f18484ef6842e43794c44290297f3f]
 
 (1) This regulation applies to any relevant decision made under regulation 10(4) or any decision under Article 11 of the 1998 Order (decisions superseding earlier decisions) superseding such a decision.
 
@@ -286,7 +286,7 @@ Matters to be taken into account in determining whether a person has shown good 
 
 (3) In the case of a decision to which this regulation applies, the person in respect of whom the decision was made shall have a right of appeal under Article 13 of the 1998 Order (appeal to appeal tribunal) to an appeal tribunal.
 
-## 15. Revocations and transitional provision[^key-63a3f899a6cd13570fff8ad50ec51215][^key-cabb41d5a42550d18a865f7ed904863d]
+## 15. Revocations and transitional provision[^c-63a3f899a6cd13570fff8ad50ec51215][^c-cabb41d5a42550d18a865f7ed904863d]
 
 (1) Subject to paragraph (2), the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001[^f00016] (“the 2001 Regulations”) are hereby revoked to the extent specified in Schedule 1.
 
@@ -300,7 +300,7 @@ Matters to be taken into account in determining whether a person has shown good 
 
 whichever shall first occur.
 
-## 16. Amendments to regulations[^key-2fc031749d0c60f28ea6018dc00ba477]
+## 16. Amendments to regulations[^c-2fc031749d0c60f28ea6018dc00ba477]
 
 The amendments to regulations prescribed in Schedule 2 shall have effect.
 
@@ -322,7 +322,7 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1 — REVOCATIONS[^key-387df497ed3036478a014737546c7fc6]
+## SCHEDULE 1 — REVOCATIONS[^c-387df497ed3036478a014737546c7fc6]
 
 Regulation 15(1)
 
@@ -334,7 +334,7 @@ Regulation 15(1)
 
 Regulation 16
 
-**1.**[^key-ec3c098a39e9f64dc9a492af6cfbf132] (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00017] shall be amended in accordance with paragraphs (2) and (3).
+**1.**[^c-ec3c098a39e9f64dc9a492af6cfbf132] (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00017] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 6A[^f00018] (claims by persons subject to work-focused interviews) –
 
@@ -351,21 +351,21 @@ Regulation 16
 
 (3) In regulation 19(5)(d)[^f00019] (time for claiming benefit), after “Department”, there shall be inserted “, the Department for Employment and Learning”.
 
-**2.**[^key-d537f0504e25f7adfa60ac6c1753fa95] In regulation 72(4) of the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00020] (time and manner in which claims are to be made), sub-paragraph (d) shall be omitted.
+**2.**[^c-d537f0504e25f7adfa60ac6c1753fa95] In regulation 72(4) of the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00020] (time and manner in which claims are to be made), sub-paragraph (d) shall be omitted.
 
-**3.**[^key-d7224a054443cc9c9ff57e271b4ebdd2] In regulation 1(2) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00021] (interpretation), for the definition of “designated authority” there shall be substituted the following definition –
-
-> - “designated authority” means the Department or the Department for Employment and Learning;
-
-.
-
-**4.**[^key-25bb263e7bfaaabbff44c4c26b3be90d] In regulation 1(2) of the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00022] (interpretation), for the definition of “designated authority” there shall be substituted the following definition –
+**3.**[^c-d7224a054443cc9c9ff57e271b4ebdd2] In regulation 1(2) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00021] (interpretation), for the definition of “designated authority” there shall be substituted the following definition –
 
 > - “designated authority” means the Department or the Department for Employment and Learning;
 
 .
 
-**5.**[^key-17fef40bf4c1ec6cc3cd8e2aebc40b16] In the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00023] –
+**4.**[^c-25bb263e7bfaaabbff44c4c26b3be90d] In regulation 1(2) of the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00022] (interpretation), for the definition of “designated authority” there shall be substituted the following definition –
+
+> - “designated authority” means the Department or the Department for Employment and Learning;
+
+.
+
+**5.**[^c-17fef40bf4c1ec6cc3cd8e2aebc40b16] In the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00023] –
 
 - (a) in regulation 1(2)(interpretation) –
   - (i) for the definition of “designated authority”[^f00024] there shall be substituted the following definition –
@@ -385,9 +385,9 @@ Regulation 16
 
   .
 
-**6.**[^key-b9ef6f7a8c1b0c9e0a8f4254d9d50d0f] At the end of regulation 4(d) of the Social Security (Work-focused Interviews for Lone Parents) Regulations (Northern Ireland) 2001[^f00028] (circumstances where requirement to take part in an interview does not apply) there shall be added “, or the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003”.
+**6.**[^c-b9ef6f7a8c1b0c9e0a8f4254d9d50d0f] At the end of regulation 4(d) of the Social Security (Work-focused Interviews for Lone Parents) Regulations (Northern Ireland) 2001[^f00028] (circumstances where requirement to take part in an interview does not apply) there shall be added “, or the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003”.
 
-**7.**[^key-1eb8bf3b96ba84019f52e552dcc1c205] In the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00029] –
+**7.**[^c-1eb8bf3b96ba84019f52e552dcc1c205] In the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00029] –
 
 - (a) in regulation 1(2) (interpretation) –
   - (i) the definitions of “designated authority”, “work-focused interview” and “the Work-focused Interviews Regulations” shall be omitted;
@@ -435,7 +435,7 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-fb8ad34cdc658b2dbb62793954ab1064]: Commencement: Reg. 1 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-fb8ad34cdc658b2dbb62793954ab1064]: Commencement: Reg. 1 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
@@ -445,53 +445,53 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-70dddc287bea9d31723eeb97e456dd9f]: Commencement: Reg. 2 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-70dddc287bea9d31723eeb97e456dd9f]: Commencement: Reg. 2 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-b203fff88eb0de52e4a70218419bc788]: Commencement: Reg. 3 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-b203fff88eb0de52e4a70218419bc788]: Commencement: Reg. 3 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
 
 [^f00012]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); the definition of “personal capability assessment” was inserted by regulation 2(2)(b) of [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4)
 
-[^key-68b1cdd038e503e773e9f4fcc96abe2d]: Commencement: Reg. 4 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-68b1cdd038e503e773e9f4fcc96abe2d]: Commencement: Reg. 4 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-468f4323d6e22897d74a8189b3fa26d7]: Commencement: Reg. 5 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-468f4323d6e22897d74a8189b3fa26d7]: Commencement: Reg. 5 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-4bab007084540b5d0f0a08f10464208b]: Commencement: Reg. 6 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-4bab007084540b5d0f0a08f10464208b]: Commencement: Reg. 6 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-161382ceae687a6f64d0bc5a778fabc3]: Commencement: Reg. 7 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-161382ceae687a6f64d0bc5a778fabc3]: Commencement: Reg. 7 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); the definition of “joint-claim couple” was inserted by Article 56 of and paragraph 3(4)(b) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
 [^f00014]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 3D was inserted by regulation 2(2) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and amended by regulation 2(3) of [S.R. 2001 No. 120](https://www.legislation.gov.uk/nisr/2001/120)
 
-[^key-528a20920bf40cc071407d9ecc097fb9]: Commencement: Reg. 8 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-528a20920bf40cc071407d9ecc097fb9]: Commencement: Reg. 8 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-45bbbe787c46f48e1ac4f660d7ed3e26]: Commencement: Reg. 9 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-45bbbe787c46f48e1ac4f660d7ed3e26]: Commencement: Reg. 9 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-0c5c252809193112a82456074052a46f]: Commencement: Reg. 10 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-0c5c252809193112a82456074052a46f]: Commencement: Reg. 10 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00015]: Footnote: Section 2B was inserted by Article 54 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-63981a15f70732a5f9edb76d81edd6fe]: Commencement: Reg. 11 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-63981a15f70732a5f9edb76d81edd6fe]: Commencement: Reg. 11 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-b108b5be24ca02cdbdc6ce6dee7e02dd]: Commencement: Reg. 12 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-b108b5be24ca02cdbdc6ce6dee7e02dd]: Commencement: Reg. 12 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-9c4951070323b7ae8ff1ee721186d4a6]: Commencement: Reg. 13 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-9c4951070323b7ae8ff1ee721186d4a6]: Commencement: Reg. 13 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-85f18484ef6842e43794c44290297f3f]: Commencement: Reg. 14 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-85f18484ef6842e43794c44290297f3f]: Commencement: Reg. 14 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-63a3f899a6cd13570fff8ad50ec51215]: Commencement: Reg. 15(1) in operation at 15.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/2)
+[^c-63a3f899a6cd13570fff8ad50ec51215]: Commencement: Reg. 15(1) in operation at 15.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/2)
 
-[^key-cabb41d5a42550d18a865f7ed904863d]: Commencement: Reg. 15(2)-(3) in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-cabb41d5a42550d18a865f7ed904863d]: Commencement: Reg. 15(2)-(3) in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-2fc031749d0c60f28ea6018dc00ba477]: Commencement: Reg. 16 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-2fc031749d0c60f28ea6018dc00ba477]: Commencement: Reg. 16 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
-[^key-387df497ed3036478a014737546c7fc6]: Commencement: Sch. 1 in operation at 15.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/2)
+[^c-387df497ed3036478a014737546c7fc6]: Commencement: Sch. 1 in operation at 15.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/2)
 
-[^key-ec3c098a39e9f64dc9a492af6cfbf132]: Commencement: Sch. 2 para. 1 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-ec3c098a39e9f64dc9a492af6cfbf132]: Commencement: Sch. 2 para. 1 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and [S.R. 2001 Nos. 175](https://www.legislation.gov.uk/nisr/2001/175) and [176](https://www.legislation.gov.uk/nisr/2001/176)
 
@@ -499,19 +499,19 @@ These Regulations do not impose a charge on business.
 
 [^f00019]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and sub-paragraph (d) was amended by paragraph 2(7) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
 
-[^key-d537f0504e25f7adfa60ac6c1753fa95]: Commencement: Sch. 2 para. 2 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-d537f0504e25f7adfa60ac6c1753fa95]: Commencement: Sch. 2 para. 2 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); sub-paragraph (d) was added by regulation 8(2) of [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
 
-[^key-d7224a054443cc9c9ff57e271b4ebdd2]: Commencement: Sch. 2 para. 3 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-d7224a054443cc9c9ff57e271b4ebdd2]: Commencement: Sch. 2 para. 3 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); the definition of “designated authority” was inserted by paragraph 8(a) of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-25bb263e7bfaaabbff44c4c26b3be90d]: Commencement: Sch. 2 para. 4 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-25bb263e7bfaaabbff44c4c26b3be90d]: Commencement: Sch. 2 para. 4 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541); the definition of “designated authority” was inserted by paragraph 9(a) of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-17fef40bf4c1ec6cc3cd8e2aebc40b16]: Commencement: Sch. 2 para. 5 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-17fef40bf4c1ec6cc3cd8e2aebc40b16]: Commencement: Sch. 2 para. 5 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
@@ -523,10 +523,10 @@ These Regulations do not impose a charge on business.
 
 [^f00027]: Footnote: Sub-paragraph (e) was added by paragraph 3(b) of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-b9ef6f7a8c1b0c9e0a8f4254d9d50d0f]: Commencement: Sch. 2 para. 6 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-b9ef6f7a8c1b0c9e0a8f4254d9d50d0f]: Commencement: Sch. 2 para. 6 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 2001 No. 152](https://www.legislation.gov.uk/nisr/2001/152); paragraph (d) was added by regulation 15(4) of [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-1eb8bf3b96ba84019f52e552dcc1c205]: Commencement: Sch. 2 para. 7 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
+[^c-1eb8bf3b96ba84019f52e552dcc1c205]: Commencement: Sch. 2 para. 7 in operation at 30.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/274/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213)

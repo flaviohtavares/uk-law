@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Closing a conduct investigation without making a finding[^key-1bcafe7d568a49d283046aca1f91fe98][^key-9eb7a8b16468a712f8b8ed1376e2b561]
+## 28. Closing a conduct investigation without making a finding[^c-1bcafe7d568a49d283046aca1f91fe98][^c-9eb7a8b16468a712f8b8ed1376e2b561]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1bcafe7d568a49d283046aca1f91fe98]: Commencement: S. 28 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-1bcafe7d568a49d283046aca1f91fe98]: Commencement: S. 28 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9eb7a8b16468a712f8b8ed1376e2b561]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2024/13/section/28) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-9eb7a8b16468a712f8b8ed1376e2b561]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2024/13/section/28) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Calculation of grant income[^key-10b5fe83eb8f45b7e4dd6d0c8089211c]
+## 131. Calculation of grant income[^c-10b5fe83eb8f45b7e4dd6d0c8089211c]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b5fe83eb8f45b7e4dd6d0c8089211c]: Commencement: Reg. 131 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-10b5fe83eb8f45b7e4dd6d0c8089211c]: Commencement: Reg. 131 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

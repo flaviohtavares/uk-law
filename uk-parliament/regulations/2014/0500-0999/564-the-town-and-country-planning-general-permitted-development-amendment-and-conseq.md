@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (General Permitted Development) (Amendment and Consequential Provisions) (England) Order 2014 (revoked)[^key-f8ac66ab9360a154fee8202ea4a772ff]
+The Town and Country Planning (General Permitted Development) (Amendment and Consequential Provisions) (England) Order 2014 (revoked)[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 6th April 2014
 
-[^key-f8ac66ab9360a154fee8202ea4a772ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8ac66ab9360a154fee8202ea4a772ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 1. Citation, commencement, application and interpretation[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the definition of dwellinghouse[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 2. Amendment of the definition of dwellinghouse[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments in relation to development within the curtilage of a dwellinghouse[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 3. Amendments in relation to development within the curtilage of a dwellinghouse[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments in relation to minor operations[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 4. Amendments in relation to minor operations[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments in relation to changes of use[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 5. Amendments in relation to changes of use[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments in relation to agricultural buildings[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 6. Amendments in relation to agricultural buildings[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments in relation to registered nurseries and state-funded schools[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 7. Amendments in relation to registered nurseries and state-funded schools[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Consequential amendments in relation to prior approval applications[^key-f8ac66ab9360a154fee8202ea4a772ff]
+## 8. Consequential amendments in relation to prior approval applications[^c-f8ac66ab9360a154fee8202ea4a772ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8ac66ab9360a154fee8202ea4a772ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8ac66ab9360a154fee8202ea4a772ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f8ac66ab9360a154fee8202ea4a772ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8ac66ab9360a154fee8202ea4a772ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8ac66ab9360a154fee8202ea4a772ff]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/564) revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/22) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))
+[^c-f8ac66ab9360a154fee8202ea4a772ff]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/564) revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/22) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))

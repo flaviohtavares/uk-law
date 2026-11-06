@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Assessment of structural safety risks: duties of accountable persons[^key-b54628f3e933858598c268f8ece0354f]
+## 34. Assessment of structural safety risks: duties of accountable persons[^c-b54628f3e933858598c268f8ece0354f]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b54628f3e933858598c268f8ece0354f]: Commencement: S. 34 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-b54628f3e933858598c268f8ece0354f]: Commencement: S. 34 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

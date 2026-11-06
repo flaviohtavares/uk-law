@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Introduction of Bills[^key-22986dd2694d5c058d2438cf5e1f86b0]
+## 110. Introduction of Bills[^c-22986dd2694d5c058d2438cf5e1f86b0]
 
 *Extent: E+W+S+N.I.*
 
-(1) A Bill may, subject to the standing orders, be introduced in the Senedd[^key-60edd79c70d763519861630d1afb7962] —
+(1) A Bill may, subject to the standing orders, be introduced in the Senedd[^c-60edd79c70d763519861630d1afb7962] —
 
 - (a) by the First Minister, any Welsh Minister appointed under section 48 any Deputy Welsh Minister or the Counsel General, or
-- (b) by any other Member of the Senedd[^key-77862aa11ba8e490f1db71c8f7e15ec1] .
+- (b) by any other Member of the Senedd[^c-77862aa11ba8e490f1db71c8f7e15ec1] .
 
 (2) The person in charge of a Bill must, on or before the introduction of the Bill, state that, in that person's view, its provisions would be within the Senedd's legislative competence.
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-22986dd2694d5c058d2438cf5e1f86b0]: Commencement: S. 110 in force at 5.5.2011 by [S.I. 2011/1011](https://www.legislation.gov.uk/uksi/2011/1011), [art. 3](https://www.legislation.gov.uk/uksi/2011/1011/article/3)
+[^c-22986dd2694d5c058d2438cf5e1f86b0]: Commencement: S. 110 in force at 5.5.2011 by [S.I. 2011/1011](https://www.legislation.gov.uk/uksi/2011/1011), [art. 3](https://www.legislation.gov.uk/uksi/2011/1011/article/3)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-77862aa11ba8e490f1db71c8f7e15ec1]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/16) (with [Sch. 1 para. 2(11)(12)(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11/12/14))
+[^c-77862aa11ba8e490f1db71c8f7e15ec1]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/16) (with [Sch. 1 para. 2(11)(12)(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11/12/14))

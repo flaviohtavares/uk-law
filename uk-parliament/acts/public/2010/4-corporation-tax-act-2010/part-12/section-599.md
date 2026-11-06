@@ -54,8 +54,8 @@ summary: ''
 
 (8) Section 3(1) of CAA 2001 (claims for capital allowances) does not apply; and any allowance which could be claimed under that provision is to be made automatically and reflected in the calculation of profits.
 
-(9)[^key-6479a467cd7ab7ed06c7c9c6e32e6022] No account is to be taken of Part 7ZA of this Act (restrictions on obtaining certain deductions in respect of carried-forward losses).
+(9)[^c-6479a467cd7ab7ed06c7c9c6e32e6022] No account is to be taken of Part 7ZA of this Act (restrictions on obtaining certain deductions in respect of carried-forward losses).
 
 ## Annotations
 
-[^key-6479a467cd7ab7ed06c7c9c6e32e6022]: Textual amendment: S. 599(9) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 168](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/168)
+[^c-6479a467cd7ab7ed06c7c9c6e32e6022]: Textual amendment: S. 599(9) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 168](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/168)

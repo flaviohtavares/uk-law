@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Offering animals as prizes[^key-99519ad4c337ca227de1cfa87da46d02]
+## 31. Offering animals as prizes[^c-99519ad4c337ca227de1cfa87da46d02]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99519ad4c337ca227de1cfa87da46d02]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2006/11/section/31) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-99519ad4c337ca227de1cfa87da46d02]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2006/11/section/31) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

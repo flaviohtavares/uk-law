@@ -134,7 +134,7 @@ This Regulation shall enter into force on the 20th day following that of its pub
 
 It shall apply from 1 August 2008.
 
-[^key-bc5985242f44fd19441c58703e25faf2]...
+[^c-bc5985242f44fd19441c58703e25faf2]...
 
 ## ANNEX — Detailed rules on good manufacturing practice
 
@@ -183,6 +183,6 @@ It must include, in particular:
 
 [^f00001]: Footnote: [OJ L 338, 13.11.2004, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.338.01.0004.01.ENG).
 
-[^key-bc5985242f44fd19441c58703e25faf2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/2023/signature) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/704/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc5985242f44fd19441c58703e25faf2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/2023/signature) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/704/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Inserted by [Commission Regulation (EC) No 282/2008 of 27 March 2008 on recycled plastic materials and articles intended to come into contact with foods and amending Regulation (EC) No 2023/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/282).

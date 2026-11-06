@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Meeting to approve the revised statement of proposals[^key-b302713a5c03eba82575bcabcb98aa42]
+## 66. Meeting to approve the revised statement of proposals[^c-b302713a5c03eba82575bcabcb98aa42]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) In a special administration (bank insolvency) (and in a special administration (bank administration) if there are depositors) the FSCS shall be entitled to vote as a creditor under this rule and rule 86 has effect with respect to its voting rights.
 
-(4) In a special administration or a special administration (bank insolvency), where the FCA[^key-be4775f7c3543d2f8af6ff73e72ef276] or, where relevant, the PRA has given a direction under regulation 16 and has not withdrawn its direction at the time that the administrator proposes a revision to the statement of proposals, this rule shall not apply.
+(4) In a special administration or a special administration (bank insolvency), where the FCA[^c-be4775f7c3543d2f8af6ff73e72ef276] or, where relevant, the PRA has given a direction under regulation 16 and has not withdrawn its direction at the time that the administrator proposes a revision to the statement of proposals, this rule shall not apply.
 
 (5) In a special administration (bank administration), where the FCA or, where relevant, the PRA has given a direction under regulation 16 and has not withdrawn its direction at the time that the administrator proposes a revision to the statement of proposals—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b302713a5c03eba82575bcabcb98aa42]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2011/1301/rule/66) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b302713a5c03eba82575bcabcb98aa42]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2011/1301/rule/66) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-be4775f7c3543d2f8af6ff73e72ef276]: Textual amendment: Words in [art. 66(4)](https://www.legislation.gov.uk/uksi/2011/1301/article/66/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/66/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-be4775f7c3543d2f8af6ff73e72ef276]: Textual amendment: Words in [art. 66(4)](https://www.legislation.gov.uk/uksi/2011/1301/article/66/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/66/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

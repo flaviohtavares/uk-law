@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 449. Special auditor's report where abbreviated accounts delivered[^key-fe5d3c2109fec48992a99e575a13f8f3]
+## 449. Special auditor's report where abbreviated accounts delivered[^c-fe5d3c2109fec48992a99e575a13f8f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe5d3c2109fec48992a99e575a13f8f3]: Textual amendment: S. 449 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [8(8)](https://www.legislation.gov.uk/uksi/2015/980/regulation/8/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-fe5d3c2109fec48992a99e575a13f8f3]: Textual amendment: S. 449 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [8(8)](https://www.legislation.gov.uk/uksi/2015/980/regulation/8/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Amendment of the Registration of Private Dentistry (Wales) Regulations 2017 (Welsh language text)[^key-d67ca319a1af9484c08c3badcacf886f]
+## 89. Amendment of the Registration of Private Dentistry (Wales) Regulations 2017 (Welsh language text)[^c-d67ca319a1af9484c08c3badcacf886f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d67ca319a1af9484c08c3badcacf886f]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2023/1071/regulation/89) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-d67ca319a1af9484c08c3badcacf886f]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2023/1071/regulation/89) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

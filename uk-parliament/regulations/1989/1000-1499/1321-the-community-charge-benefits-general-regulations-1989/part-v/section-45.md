@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Disregard of changes occurring during summer vacation[^key-e4ece905a5e7f4a3cf5ca3f978a39ac4]
+## 45. Disregard of changes occurring during summer vacation[^c-e4ece905a5e7f4a3cf5ca3f978a39ac4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In calculating a student’s income the appropriate authority shall disregard an
 
 ## Annotations
 
-[^key-e4ece905a5e7f4a3cf5ca3f978a39ac4]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1989/1321/regulation/45) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-e4ece905a5e7f4a3cf5ca3f978a39ac4]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1989/1321/regulation/45) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

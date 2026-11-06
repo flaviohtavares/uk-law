@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Authority to survey and investigate the land[^key-62417d6f3a012b44b34de973d7e96432]
+## 26. Authority to survey and investigate the land[^c-62417d6f3a012b44b34de973d7e96432]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-62417d6f3a012b44b34de973d7e96432]: Commencement: Art. 26 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-62417d6f3a012b44b34de973d7e96432]: Commencement: Art. 26 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00050]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56). Section 13 was amended by sections 62(3) and 139(4) to (9) of, and paragraphs 27 and 28 of Schedule 13 and Part 3 of Schedule 23 to, the Upper Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

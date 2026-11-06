@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Delegated budgets for new schools[^key-85835e2487c84cbe889de55338f06f90]
+## 11. Delegated budgets for new schools[^c-85835e2487c84cbe889de55338f06f90]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ the authority may make an application to the Secretary of State for variation of
 
 ## Annotations
 
-[^key-85835e2487c84cbe889de55338f06f90]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/371/regulation/11) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-85835e2487c84cbe889de55338f06f90]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/371/regulation/11) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
 
 [^f00029]: Footnote: Section 47A(2) of the 1998 Act provides that the requirement in section 47A(1) of that Act to establish a schools forum for their area does not apply to the Common Council of the City of London or the Council of the Isles of Scilly.

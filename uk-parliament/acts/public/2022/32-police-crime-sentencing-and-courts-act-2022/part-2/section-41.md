@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Extraction of information from electronic devices: investigations of death[^key-cab74041dc34e9673d883f9993d8fed3][^key-9a78ea668dcba9447cb069c28438aaae]
+## 41. Extraction of information from electronic devices: investigations of death[^c-cab74041dc34e9673d883f9993d8fed3][^c-9a78ea668dcba9447cb069c28438aaae]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cab74041dc34e9673d883f9993d8fed3]: Commencement: S. 41 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-cab74041dc34e9673d883f9993d8fed3]: Commencement: S. 41 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9a78ea668dcba9447cb069c28438aaae]: Commencement: S. 41 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/e)
+[^c-9a78ea668dcba9447cb069c28438aaae]: Commencement: S. 41 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/e)

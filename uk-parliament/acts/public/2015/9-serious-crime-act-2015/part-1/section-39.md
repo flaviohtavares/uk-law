@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. External orders and investigations: meaning of “obtaining property”[^key-18dafdf6f5f1610d08d8686a30a2aaa9]
+## 39. External orders and investigations: meaning of “obtaining property”[^c-18dafdf6f5f1610d08d8686a30a2aaa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 447 of the Proceeds of Crime Act 2002 (interpretation of Part 11 (co-
 
 ## Annotations
 
-[^key-18dafdf6f5f1610d08d8686a30a2aaa9]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2015/9/section/39) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/l)
+[^c-18dafdf6f5f1610d08d8686a30a2aaa9]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2015/9/section/39) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/l)

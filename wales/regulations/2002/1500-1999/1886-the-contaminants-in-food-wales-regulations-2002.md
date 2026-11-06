@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Contaminants in Food (Wales) Regulations 2002 (revoked)[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+The Contaminants in Food (Wales) Regulations 2002 (revoked)[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 Made
 
@@ -41,59 +41,59 @@ Coming into force
 
 2nd August 2002
 
-[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 1. Citation, commencement and application[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 2. Interpretation[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 3. Offences and penalties[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 4. Enforcement[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Sampling, analysis and modification of section 29 of the Act[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 5. Sampling, analysis and modification of section 29 of the Act[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Defence in relation to exports[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 6. Defence in relation to exports[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various sections of the Act[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 7. Application of various sections of the Act[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 8. Transitional provisions[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 9.[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consequential amendment[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 10. Consequential amendment[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## 11. Revocations[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
+## SCHEDULE — REVOCATIONS[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]
 
 **Regulation 11**
 
@@ -101,8 +101,8 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]: Textual amendment: Regulations revoked (31.7.2003) by The Contaminants in [Food (Wales) Regulations 2003 (S.I. 2003/1721)](https://www.legislation.gov.uk/uksi/2003/1721), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1721/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/1721/regulation/12)
+[^c-a9ab5fb7d46eba46c26f1f6ecbbd6f3f]: Textual amendment: Regulations revoked (31.7.2003) by The Contaminants in [Food (Wales) Regulations 2003 (S.I. 2003/1721)](https://www.legislation.gov.uk/uksi/2003/1721), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1721/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/1721/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Approval of the appointment of training manager[^key-3a171c6d0e3a59574968758f043f206d]
+## 64. Approval of the appointment of training manager[^c-3a171c6d0e3a59574968758f043f206d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and for these purposes, “**specified**” means specified by the regulator.
 
 ## Annotations
 
-[^key-3a171c6d0e3a59574968758f043f206d]: Commencement: Reg. 64 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-3a171c6d0e3a59574968758f043f206d]: Commencement: Reg. 64 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

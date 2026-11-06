@@ -30,7 +30,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Licence Duties) Byelaws (Northern Ireland) 1997 (revoked)[^key-a2175b249e4b02cd86b3166c28fbe988]
+Fisheries (Licence Duties) Byelaws (Northern Ireland) 1997 (revoked)[^c-a2175b249e4b02cd86b3166c28fbe988]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st January 1998
 
-[^key-a2175b249e4b02cd86b3166c28fbe988]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2175b249e4b02cd86b3166c28fbe988]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a2175b249e4b02cd86b3166c28fbe988]
+## 1. Citation and commencement[^c-a2175b249e4b02cd86b3166c28fbe988]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Substitution[^key-a2175b249e4b02cd86b3166c28fbe988]
+## 2. Substitution[^c-a2175b249e4b02cd86b3166c28fbe988]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a2175b249e4b02cd86b3166c28fbe988]
+## 3. Revocation[^c-a2175b249e4b02cd86b3166c28fbe988]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2175b249e4b02cd86b3166c28fbe988]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2175b249e4b02cd86b3166c28fbe988]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a2175b249e4b02cd86b3166c28fbe988]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2175b249e4b02cd86b3166c28fbe988]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2175b249e4b02cd86b3166c28fbe988]: Textual amendment: Byelaws revoked (1.1.1999) by [Fisheries (Licence Duties) Byelaws (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/402)](https://www.legislation.gov.uk/nisr/1998/402), Byelaw 3
+[^c-a2175b249e4b02cd86b3166c28fbe988]: Textual amendment: Byelaws revoked (1.1.1999) by [Fisheries (Licence Duties) Byelaws (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/402)](https://www.legislation.gov.uk/nisr/1998/402), Byelaw 3

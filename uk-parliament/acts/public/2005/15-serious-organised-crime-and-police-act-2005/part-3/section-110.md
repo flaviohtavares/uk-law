@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Powers of arrest[^key-33250e494060880ae96a367a8f13761c]
+## 110. Powers of arrest[^c-33250e494060880ae96a367a8f13761c]
 
 *Extent: E+W*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33250e494060880ae96a367a8f13761c]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2005/15/section/110) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
+[^c-33250e494060880ae96a367a8f13761c]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2005/15/section/110) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)

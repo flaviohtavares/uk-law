@@ -44,11 +44,11 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 
 (Text with EEA relevance) (revoked)
 
-[^key-0349df814585261a330e11c68f639523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0349df814585261a330e11c68f639523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### TITLE I — DEFINITIONS AND SCOPE[^key-0349df814585261a330e11c68f639523]
+### TITLE I — DEFINITIONS AND SCOPE[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,13 +59,13 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 3](section-article-3.md)
 - [Section Article 4](section-article-4.md)
 
-### TITLE II — AUTHORISATION AND SUPERVISION OF MEDICINAL PRODUCTS FOR HUMAN USE[^key-0349df814585261a330e11c68f639523]
+### TITLE II — AUTHORISATION AND SUPERVISION OF MEDICINAL PRODUCTS FOR HUMAN USE[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter 1 — Submission and examination of applications — Authorisations[^key-0349df814585261a330e11c68f639523]
+#### Chapter 1 — Submission and examination of applications — Authorisations[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,7 +88,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 14b](section-article-14b.md)
 - [Section Article 15](section-article-15.md)
 
-#### Chapter 2 — Supervision and penalties[^key-0349df814585261a330e11c68f639523]
+#### Chapter 2 — Supervision and penalties[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,7 +103,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 20](section-article-20.md)
 - [Section Article 20a](section-article-20a.md)
 
-#### Chapter 3 — Pharmacovigilance[^key-0349df814585261a330e11c68f639523]
+#### Chapter 3 — Pharmacovigilance[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,13 +126,13 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 28f](section-article-28f.md)
 - [Section Article 29](section-article-29.md)
 
-### TITLE III — AUTHORISATION AND SUPERVISION OF VETERINARY MEDICINAL PRODUCTS[^key-0349df814585261a330e11c68f639523]
+### TITLE III — AUTHORISATION AND SUPERVISION OF VETERINARY MEDICINAL PRODUCTS[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter 1 — Submission and examination of applications — Authorisations[^key-0349df814585261a330e11c68f639523]
+#### Chapter 1 — Submission and examination of applications — Authorisations[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,7 +150,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 39](section-article-39.md)
 - [Section Article 40](section-article-40.md)
 
-#### Chapter 2 — Supervision and sanctions[^key-0349df814585261a330e11c68f639523]
+#### Chapter 2 — Supervision and sanctions[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,7 +162,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 44](section-article-44.md)
 - [Section Article 45](section-article-45.md)
 
-#### Chapter 3 — Pharmacovigilance[^key-0349df814585261a330e11c68f639523]
+#### Chapter 3 — Pharmacovigilance[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -178,13 +178,13 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 53](section-article-53.md)
 - [Section Article 54](section-article-54.md)
 
-### TITLE IV — THE EUROPEAN MEDICINES AGENCY — RESPONSIBILITIES AND ADMINISTRATIVE STRUCTURE[^key-0349df814585261a330e11c68f639523]
+### TITLE IV — THE EUROPEAN MEDICINES AGENCY — RESPONSIBILITIES AND ADMINISTRATIVE STRUCTURE[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter 1 — Tasks of the Agency[^key-0349df814585261a330e11c68f639523]
+#### Chapter 1 — Tasks of the Agency[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -204,7 +204,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 65](section-article-65.md)
 - [Section Article 66](section-article-66.md)
 
-#### Chapter 2 — Financial Provisions[^key-0349df814585261a330e11c68f639523]
+#### Chapter 2 — Financial Provisions[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,7 +215,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 69](section-article-69.md)
 - [Section Article 70](section-article-70.md)
 
-#### Chapter 3 — General Provisions governing the Agency[^key-0349df814585261a330e11c68f639523]
+#### Chapter 3 — General Provisions governing the Agency[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -234,7 +234,7 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 - [Section Article 79](section-article-79.md)
 - [Section Article 80](section-article-80.md)
 
-### TITLE V — GENERAL AND FINAL PROVISIONS[^key-0349df814585261a330e11c68f639523]
+### TITLE V — GENERAL AND FINAL PROVISIONS[^c-0349df814585261a330e11c68f639523]
 
 *Extent: E+W+S+N.I.*
 
@@ -264,10 +264,10 @@ laying down Union procedures for the authorisation and supervision of medicinal 
 
 **No longer in force.**
 
-[^key-0349df814585261a330e11c68f639523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0349df814585261a330e11c68f639523]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0349df814585261a330e11c68f639523]: Textual amendment: Regulation revoked insofar as it applies to medicinal products for veterinary use (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2019/676/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0349df814585261a330e11c68f639523]: Textual amendment: Regulation revoked insofar as it applies to medicinal products for veterinary use (31.12.2020) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2019/676/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
     Regulation revoked insofar as it applies to medicinal products for human use (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [Sch. 9 para. 1(h)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/h) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

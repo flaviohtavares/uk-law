@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Amendment of Schedule 2[^key-0fdfa7914689c592e1db5881230a3578]
+## 120. Amendment of Schedule 2[^c-0fdfa7914689c592e1db5881230a3578]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In Schedule 2 (pension sharing on divorce or nullity of marriage or dissolution 
 
 ## Annotations
 
-[^key-0fdfa7914689c592e1db5881230a3578]: Commencement: [Reg. 120](https://www.legislation.gov.uk/ssi/2011/364/regulation/120) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-0fdfa7914689c592e1db5881230a3578]: Commencement: [Reg. 120](https://www.legislation.gov.uk/ssi/2011/364/regulation/120) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

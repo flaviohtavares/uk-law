@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-The standing orders of the Authority must contain provision for the publication of information relating to sums paid under sections 24, 26 and 26A[^key-d0c10734c7e14f0101558d0d1243b75a] above for each financial year.
+The standing orders of the Authority must contain provision for the publication of information relating to sums paid under sections 24, 26 and 26A[^c-d0c10734c7e14f0101558d0d1243b75a] above for each financial year.
 
 ## Annotations
 
-[^key-d0c10734c7e14f0101558d0d1243b75a]: Textual amendment: Words in s. 27 substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/1/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-d0c10734c7e14f0101558d0d1243b75a]: Textual amendment: Words in s. 27 substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/1/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

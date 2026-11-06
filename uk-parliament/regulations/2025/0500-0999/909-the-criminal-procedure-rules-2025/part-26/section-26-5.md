@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.5. Surrender of electronic communication devices by jurors[^key-47059a82b470ee13106f10c1c1493074]
+## 26.5. Surrender of electronic communication devices by jurors[^c-47059a82b470ee13106f10c1c1493074]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47059a82b470ee13106f10c1c1493074]: Commencement: [Rule 26.5](https://www.legislation.gov.uk/uksi/2025/909/rule/26.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-47059a82b470ee13106f10c1c1493074]: Commencement: [Rule 26.5](https://www.legislation.gov.uk/uksi/2025/909/rule/26.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00627]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 15A was inserted by section 69 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).

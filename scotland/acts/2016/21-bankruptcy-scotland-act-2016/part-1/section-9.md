@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Certificate for sequestration[^key-750d6449d667e6031131c8208dc337d0]
+## 9. Certificate for sequestration[^c-750d6449d667e6031131c8208dc337d0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-750d6449d667e6031131c8208dc337d0]: Commencement: S. 9 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-750d6449d667e6031131c8208dc337d0]: Commencement: S. 9 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

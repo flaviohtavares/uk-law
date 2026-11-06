@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Registration: exporters[^key-4b4e8782d51aea32ff0a41be32b2f8d9]
+## 86. Registration: exporters[^c-4b4e8782d51aea32ff0a41be32b2f8d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4e8782d51aea32ff0a41be32b2f8d9]: Commencement: Reg. 86 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4b4e8782d51aea32ff0a41be32b2f8d9]: Commencement: Reg. 86 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Regulations under Part 5[^key-e5db939d5eddb16f1467fa66dcbffc03]
+## 181. Regulations under Part 5[^c-e5db939d5eddb16f1467fa66dcbffc03]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5db939d5eddb16f1467fa66dcbffc03]: Commencement: S. 181 in force at Royal Assent, see [s. 334(2)(h)(iv)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-e5db939d5eddb16f1467fa66dcbffc03]: Commencement: S. 181 in force at Royal Assent, see [s. 334(2)(h)(iv)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

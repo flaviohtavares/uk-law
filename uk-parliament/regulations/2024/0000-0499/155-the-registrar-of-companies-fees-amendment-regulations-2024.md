@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — INTRODUCTORY
 
-### 1. Citation, commencement and extent[^key-aa3d11f4852adc55591e9be63217be07]
+### 1. Citation, commencement and extent[^c-aa3d11f4852adc55591e9be63217be07]
 
 (1) These Regulations may be cited as the Registrar of Companies (Fees) (Amendment) Regulations 2024.
 
@@ -58,11 +58,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — AMENDMENT TO THE REGISTRAR OF COMPANIES (FEES) (COMPANIES, OVERSEAS COMPANIES AND LIMITED LIABILITY PARTNERSHIPS) REGULATIONS 2012
 
-**2.**[^key-8e9c919db366294d86aa5607b2eb0ceb] The Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2012[^f00002] is amended as follows.
+**2.**[^c-8e9c919db366294d86aa5607b2eb0ceb] The Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2012[^f00002] is amended as follows.
 
-**3.**[^key-2c07cf1ce54161504ed14e53e625fd20] Omit regulation 6 (fees payable in respect of the disclosure of protected information).
+**3.**[^c-2c07cf1ce54161504ed14e53e625fd20] Omit regulation 6 (fees payable in respect of the disclosure of protected information).
 
-**4.**[^key-c44301033a3f0b37c138c93ac5472a48] Schedule 1 (the performance of functions relating to the receipt of documents by the registrar and their registration) is amended as follows—
+**4.**[^c-c44301033a3f0b37c138c93ac5472a48] Schedule 1 (the performance of functions relating to the receipt of documents by the registrar and their registration) is amended as follows—
 
 - (a) in paragraph 2 (means of electronic delivery to the registrar), before the definition of “Web Incorporation Service” insert—
 
@@ -127,7 +127,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   > | --- | --- |
   > | - (l) for an application to the registrar to restore to the register a company, other than an overseas company, that has been struck off the register under Part 31 of the 2006 Act (dissolution and restoration to the register). | £468.00 |
 - (l) in paragraph 10(a)—
-  - (i) in[^key-4e0d45908c6d0cb7159d39034b641089] paragraph (i) in the second column (amount of fees) for “£30.00” substitute “£78.00”,
+  - (i) in[^c-4e0d45908c6d0cb7159d39034b641089] paragraph (i) in the second column (amount of fees) for “£30.00” substitute “£78.00”,
   - (ii) in paragraph (ii) in the second column (amount of fees) for “£10.00” substitute “£50.00”,
   - (iii) omit paragraph (iii) and the fee corresponding to it in column 2 (amount of fee),
   - (iv) in paragraph (iv) in the first column (matter in relation to which fee is payable) omit “other than for same day registration except as provided in paragraph (v)”,
@@ -162,11 +162,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   > | - (i) where the required documents are delivered in hard copy form, | £62.00 |
   > | - (ii) where the required documents are delivered by electronic means. | £34.00 |
 
-**5.**[^key-f27daec4241dfe7b0e0ebc3d7bc1a37d] Omit Schedule 3 (the performance of functions relating to the disclosure of protected information).
+**5.**[^c-f27daec4241dfe7b0e0ebc3d7bc1a37d] Omit Schedule 3 (the performance of functions relating to the disclosure of protected information).
 
 ## Part 3 — AMENDMENT TO THE REGISTRAR OF COMPANIES (FEES) (LIMITED PARTNERSHIPS AND NEWSPAPER PROPRIETORS) REGULATIONS 2009
 
-**6.**[^key-e07f6cc677a6919d38effb158e2bb887] (1) Schedule 1 to the Registrar of Companies (Fees) (Limited Partnerships and Newspaper Proprietors) Regulations 2009[^f00003] (the performance of functions relating to the registration of documents by the registrar) is amended as follows.
+**6.**[^c-e07f6cc677a6919d38effb158e2bb887] (1) Schedule 1 to the Registrar of Companies (Fees) (Limited Partnerships and Newspaper Proprietors) Regulations 2009[^f00003] (the performance of functions relating to the registration of documents by the registrar) is amended as follows.
 
 (2) In paragraph 1(1), at the appropriate places insert—
 
@@ -214,7 +214,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 4 — AMENDMENT TO THE REGISTRAR OF COMPANIES (FEES) (EUROPEAN ECONOMIC INTEREST GROUPING AND EUROPEAN PUBLIC LIMITED-LIABILITY COMPANY) REGULATIONS 2012
 
-**7.**[^key-4338f6d4bf778d7477f2c633882ff020] (1) Schedule 1 to the Registrar of Companies (Fees) (European Economic Interest Grouping and European Public Limited-Liability Company) Regulations 2012[^f00007] (the performance of functions relating to the registration of documents by the registrar) is amended as follows.
+**7.**[^c-4338f6d4bf778d7477f2c633882ff020] (1) Schedule 1 to the Registrar of Companies (Fees) (European Economic Interest Grouping and European Public Limited-Liability Company) Regulations 2012[^f00007] (the performance of functions relating to the registration of documents by the registrar) is amended as follows.
 
 (2) In the second column (amount of fees) in the table in paragraph 5—
 
@@ -224,9 +224,9 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) In the second column (amount of fees) in the table in paragraph 6, in row (b), for “£20.00” substitute “£71.00”.
 
-## Part 5 — TRANSITIONAL PROVISION[^key-e84d56119b2a56080b494c005fcc07aa]
+## Part 5 — TRANSITIONAL PROVISION[^c-e84d56119b2a56080b494c005fcc07aa]
 
-**8.**[^key-a80ecddc1aea0fcc98c4da8593592cc3] The amendments made by regulations 4, 6 and 7 do not have effect where any document delivered to the registrar on or before 30th April 2024[^key-bec6ba978536700d3b1043c32bbe51f6] is registered on or after 1st May 2024[^key-07780e89ebbccde2f51f28c5358a3c4e].
+**8.**[^c-a80ecddc1aea0fcc98c4da8593592cc3] The amendments made by regulations 4, 6 and 7 do not have effect where any document delivered to the registrar on or before 30th April 2024[^c-bec6ba978536700d3b1043c32bbe51f6] is registered on or after 1st May 2024[^c-07780e89ebbccde2f51f28c5358a3c4e].
 
 Kevin Hollinrake
 
@@ -276,21 +276,21 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1063 was amended by section 93 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-aa3d11f4852adc55591e9be63217be07]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/155/regulation/1) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-aa3d11f4852adc55591e9be63217be07]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/155/regulation/1) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
-[^key-8e9c919db366294d86aa5607b2eb0ceb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/155/regulation/2) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-8e9c919db366294d86aa5607b2eb0ceb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/155/regulation/2) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/1907](https://www.legislation.gov.uk/uksi/2012/1907) which was amended by [S.I. 2016/621](https://www.legislation.gov.uk/uksi/2016/621).
 
-[^key-2c07cf1ce54161504ed14e53e625fd20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/155/regulation/3) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-2c07cf1ce54161504ed14e53e625fd20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/155/regulation/3) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
-[^key-c44301033a3f0b37c138c93ac5472a48]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/155/regulation/4) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-c44301033a3f0b37c138c93ac5472a48]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/155/regulation/4) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
-[^key-4e0d45908c6d0cb7159d39034b641089]: Textual amendment: Word in [reg. 4(l)(i)](https://www.legislation.gov.uk/uksi/2024/155/regulation/4/l/i) substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/a)
+[^c-4e0d45908c6d0cb7159d39034b641089]: Textual amendment: Word in [reg. 4(l)(i)](https://www.legislation.gov.uk/uksi/2024/155/regulation/4/l/i) substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/a)
 
-[^key-f27daec4241dfe7b0e0ebc3d7bc1a37d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/155/regulation/5) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-f27daec4241dfe7b0e0ebc3d7bc1a37d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/155/regulation/5) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
-[^key-e07f6cc677a6919d38effb158e2bb887]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/155/regulation/6) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-e07f6cc677a6919d38effb158e2bb887]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/155/regulation/6) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2009/2392](https://www.legislation.gov.uk/uksi/2009/2392) which was amended by [S.I. 2011/319](https://www.legislation.gov.uk/uksi/2011/319).
 
@@ -300,14 +300,14 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00006]: Footnote: Section 8 was substituted by articles 3(2) and 4 to 7 of [S.I. 2009/1940](https://www.legislation.gov.uk/uksi/2009/1940).
 
-[^key-4338f6d4bf778d7477f2c633882ff020]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/155/regulation/7) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-4338f6d4bf778d7477f2c633882ff020]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/155/regulation/7) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2012/1908](https://www.legislation.gov.uk/uksi/2012/1908) which was amended by [S.I. 2016/621](https://www.legislation.gov.uk/uksi/2016/621), [2018/1298](https://www.legislation.gov.uk/uksi/2018/1298) and [2018/1299](https://www.legislation.gov.uk/uksi/2018/1299).
 
-[^key-e84d56119b2a56080b494c005fcc07aa]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2024/155/part/5) heading substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/b)
+[^c-e84d56119b2a56080b494c005fcc07aa]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2024/155/part/5) heading substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/b)
 
-[^key-a80ecddc1aea0fcc98c4da8593592cc3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/155/regulation/8) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
+[^c-a80ecddc1aea0fcc98c4da8593592cc3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/155/regulation/8) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/155/regulation/1/2)
 
-[^key-bec6ba978536700d3b1043c32bbe51f6]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2024/155/regulation/8) substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(c)(i)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/c/i)
+[^c-bec6ba978536700d3b1043c32bbe51f6]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2024/155/regulation/8) substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(c)(i)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/c/i)
 
-[^key-07780e89ebbccde2f51f28c5358a3c4e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2024/155/regulation/8) substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/c/ii)
+[^c-07780e89ebbccde2f51f28c5358a3c4e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2024/155/regulation/8) substituted (25.4.2024) by [The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024 (S.I. 2024/454)](https://www.legislation.gov.uk/uksi/2024/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/454/regulation/1/2), [2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/454/regulation/2/c/ii)

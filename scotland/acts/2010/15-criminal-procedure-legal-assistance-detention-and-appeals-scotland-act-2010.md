@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Legal assistance
 
-### 1. Right of suspects to have access to a solicitor[^key-c1167addb75546e69d61c173e6ccf0e0]
+### 1. Right of suspects to have access to a solicitor[^c-c1167addb75546e69d61c173e6ccf0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -60,13 +60,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Detention
 
-### 3. Extension of period of detention under section 14 of 1995 Act[^key-f06a0a6fda69fba1fcef746638c645c3]
+### 3. Extension of period of detention under section 14 of 1995 Act[^c-f06a0a6fda69fba1fcef746638c645c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Sections 1 and 3: transitional and saving
 
-### 4. Sections 1 and 3: transitional and saving provision[^key-4d799abfb7c4b74cff044428b0fcd9f7]
+### 4. Sections 1 and 3: transitional and saving provision[^c-4d799abfb7c4b74cff044428b0fcd9f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,8 +184,8 @@ This Act may be cited as the Criminal Procedure (Legal Assistance, Detention and
 
 ## Annotations
 
-[^key-c1167addb75546e69d61c173e6ccf0e0]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2010/15/section/1) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 39](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/39); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-c1167addb75546e69d61c173e6ccf0e0]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2010/15/section/1) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 39](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/39); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-f06a0a6fda69fba1fcef746638c645c3]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2010/15/section/3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 39](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/39); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-f06a0a6fda69fba1fcef746638c645c3]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2010/15/section/3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 39](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/39); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-4d799abfb7c4b74cff044428b0fcd9f7]: Textual amendment: [S. 4](https://www.legislation.gov.uk/asp/2010/15/section/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 39](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/39); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-4d799abfb7c4b74cff044428b0fcd9f7]: Textual amendment: [S. 4](https://www.legislation.gov.uk/asp/2010/15/section/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 39](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/39); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

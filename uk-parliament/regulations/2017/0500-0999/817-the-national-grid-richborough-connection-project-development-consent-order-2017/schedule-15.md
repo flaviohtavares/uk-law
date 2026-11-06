@@ -22,7 +22,7 @@ summary: ''
 
 Article 46
 
-### PART 1 — LOCAL ENACTMENTS[^key-084d27ac9576a2d6c8e0acf3df2560d2]
+### PART 1 — LOCAL ENACTMENTS[^c-084d27ac9576a2d6c8e0acf3df2560d2]
 
 | Year | Chapter | Title | Section |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Article 46
 | 1845 | c. cxcvii | South Eastern Railway Act | XXXI (1 & 2 Vict. c. 98, 3 & 4 Vict. c. 97, 5 & 6 Vict. c .55 and 7 & 8 Vict. c. 85 incorporated) |
 | 1924 | c. lxvi | Southern Railway Act | 3 (incorporation of Railway Clauses Consolidation Act 1845 and Part I and V Railways Clauses Act 1863) |
 
-### PART 2 — BYELAWS[^key-18576e2dca760b71451b72e304c908b7]
+### PART 2 — BYELAWS[^c-18576e2dca760b71451b72e304c908b7]
 
 <table>
 <thead>
@@ -47,6 +47,6 @@ Article 46
 
 ## Annotations
 
-[^key-084d27ac9576a2d6c8e0acf3df2560d2]: Commencement: Sch. 15 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-084d27ac9576a2d6c8e0acf3df2560d2]: Commencement: Sch. 15 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-18576e2dca760b71451b72e304c908b7]: Commencement: Sch. 15 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-18576e2dca760b71451b72e304c908b7]: Commencement: Sch. 15 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

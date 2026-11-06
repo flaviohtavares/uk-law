@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212ZD. Effect of significant change in balance of use[^key-febc1cc50d555841149b0a41b7a285af]
+## 212ZD. Effect of significant change in balance of use[^c-febc1cc50d555841149b0a41b7a285af]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-febc1cc50d555841149b0a41b7a285af]: Textual amendment: Pt. 2 Ch. 16ZA inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/8)
+[^c-febc1cc50d555841149b0a41b7a285af]: Textual amendment: Pt. 2 Ch. 16ZA inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Independent inspectorates[^key-432675cfd91e295760d4d0a8f62f412e][^key-0afbd7c126e431cd6f3f65c25cdbb959]
+## 106. Independent inspectorates[^c-432675cfd91e295760d4d0a8f62f412e][^c-0afbd7c126e431cd6f3f65c25cdbb959]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ In this subsection “**specified**” means specified by the Secretary of State
 
 ## Annotations
 
-[^key-432675cfd91e295760d4d0a8f62f412e]: Commencement: S. 106 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-432675cfd91e295760d4d0a8f62f412e]: Commencement: S. 106 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-0afbd7c126e431cd6f3f65c25cdbb959]: Commencement: S. 106 in force at 8.9.2014 in so far as not already in force by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/2379/article/3)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-0afbd7c126e431cd6f3f65c25cdbb959]: Commencement: S. 106 in force at 8.9.2014 in so far as not already in force by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/2379/article/3)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

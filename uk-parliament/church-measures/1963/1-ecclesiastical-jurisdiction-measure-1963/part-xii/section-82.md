@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 82. Abolition of obsolete jurisdictions, courts, &c.[^key-9d3593ed1f9beb329ea8894b89bd463a]
+## 82. Abolition of obsolete jurisdictions, courts, &c.[^c-9d3593ed1f9beb329ea8894b89bd463a]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3593ed1f9beb329ea8894b89bd463a]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukcm/1963/1/section/82) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
+[^c-9d3593ed1f9beb329ea8894b89bd463a]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukcm/1963/1/section/82) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5

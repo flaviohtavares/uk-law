@@ -71,7 +71,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 7 — Students becoming eligible in the course of an academic year](part-1/section-7.md)
 - [Section 8 — Events](part-1/section-8.md)
 
-#### CHAPTER 2A — Designation of Courses Taught or Delivered by Franchised Providers[^key-8ce8f101023d5495af75f4a1f083bbbf]
+#### CHAPTER 2A — Designation of Courses Taught or Delivered by Franchised Providers[^c-8ce8f101023d5495af75f4a1f083bbbf]
 
 - [Section 8A — Interpretation of Chapter 2A](part-1/section-8a.md)
 - [Section 8B — Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”](part-1/section-8b.md)
@@ -105,20 +105,20 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 
 - [Section 18 — Information requirements](part-1/section-18.md)
 
-### PART 2[^key-582002736016fb2949a4beea019ea83c]
+### PART 2[^c-582002736016fb2949a4beea019ea83c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1[^key-582002736016fb2949a4beea019ea83c]
+#### CHAPTER 1[^c-582002736016fb2949a4beea019ea83c]
 
 **No longer in force.**
 
 - [Section 19 — Interpretation](part-2/section-19.md)
 - [Section 20 — Service by post or electronic communication](part-2/section-20.md)
 
-#### CHAPTER 2[^key-582002736016fb2949a4beea019ea83c]
+#### CHAPTER 2[^c-582002736016fb2949a4beea019ea83c]
 
 **No longer in force.**
 
@@ -140,7 +140,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 36 — Alteration of relevant time limits](part-2/section-36.md)
 - [Section 37 — Foreclosure](part-2/section-37.md)
 
-#### CHAPTER 3[^key-582002736016fb2949a4beea019ea83c]
+#### CHAPTER 3[^c-582002736016fb2949a4beea019ea83c]
 
 **No longer in force.**
 
@@ -158,7 +158,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 49 — Interest](part-2/section-49.md)
 - [Section 50 — Penalties](part-2/section-50.md)
 
-#### CHAPTER 4[^key-582002736016fb2949a4beea019ea83c]
+#### CHAPTER 4[^c-582002736016fb2949a4beea019ea83c]
 
 **No longer in force.**
 
@@ -200,7 +200,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 86 — Collection and recovery of penalties](part-2/section-86.md)
 - [Section 87 — Application of the PAYE Regulations](part-2/section-87.md)
 
-#### CHAPTER 5[^key-582002736016fb2949a4beea019ea83c]
+#### CHAPTER 5[^c-582002736016fb2949a4beea019ea83c]
 
 **No longer in force.**
 
@@ -214,7 +214,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 95 — Foreclosure](part-2/section-95.md)
 - [Section 96 — Costs and expenses of the Authority](part-2/section-96.md)
 
-#### CHAPTER 6[^key-582002736016fb2949a4beea019ea83c]
+#### CHAPTER 6[^c-582002736016fb2949a4beea019ea83c]
 
 **No longer in force.**
 
@@ -258,6 +258,6 @@ An impact assessment of the effect that these Regulations will have on the costs
 
 [^c23156001]: Marginal citation: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by the [Learning and Skills Act 2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11, the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, the [Finance Act 2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147 the [Higher Education Act 2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42 and 43 and Schedule 7 and the [Apprentices, Skills, Children and Learning Act 2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), section 257(1) and (2). See section 43(1) of the 1998 Act for the definition of “prescribed” and “regulations”.
 
-[^key-8ce8f101023d5495af75f4a1f083bbbf]: Textual amendment: Pt. 1 Ch. 2A inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/581/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+[^c-8ce8f101023d5495af75f4a1f083bbbf]: Textual amendment: Pt. 1 Ch. 2A inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/581/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
 
-[^key-582002736016fb2949a4beea019ea83c]: Textual amendment: Pt. 2 omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/3)
+[^c-582002736016fb2949a4beea019ea83c]: Textual amendment: Pt. 2 omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/3)

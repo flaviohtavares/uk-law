@@ -34,7 +34,7 @@ Environmental Protection
 
 Petroleum
 
-The Gas and Petroleum (Consents) Charges Regulations 2013 (revoked)[^key-3e952b97575dfb3bcfe6082332f8ab58]
+The Gas and Petroleum (Consents) Charges Regulations 2013 (revoked)[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 Made
 
@@ -48,40 +48,40 @@ Coming into force
 
 17th June 2013
 
-[^key-3e952b97575dfb3bcfe6082332f8ab58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e952b97575dfb3bcfe6082332f8ab58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3e952b97575dfb3bcfe6082332f8ab58]
+## 1. Citation and commencement[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3e952b97575dfb3bcfe6082332f8ab58]
+## 2. Interpretation[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Charges payable for consents and pipeline works authorisations[^key-3e952b97575dfb3bcfe6082332f8ab58]
+## 3. Charges payable for consents and pipeline works authorisations[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requests to determine charges[^key-3e952b97575dfb3bcfe6082332f8ab58]
+## 4. Requests to determine charges[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Charges payable for other consents[^key-3e952b97575dfb3bcfe6082332f8ab58]
+## 5. Charges payable for other consents[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charges: general[^key-3e952b97575dfb3bcfe6082332f8ab58]
+## 6. Charges: general[^c-3e952b97575dfb3bcfe6082332f8ab58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e952b97575dfb3bcfe6082332f8ab58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e952b97575dfb3bcfe6082332f8ab58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e952b97575dfb3bcfe6082332f8ab58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e952b97575dfb3bcfe6082332f8ab58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e952b97575dfb3bcfe6082332f8ab58]: Textual amendment: Regulations revoked (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2016/912/regulation/22)
+[^c-3e952b97575dfb3bcfe6082332f8ab58]: Textual amendment: Regulations revoked (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2016/912/regulation/22)

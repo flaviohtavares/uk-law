@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Registered society: winding up[^key-86e261123807082566b0460d31c583ea]
+## 164. Registered society: winding up[^c-86e261123807082566b0460d31c583ea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86e261123807082566b0460d31c583ea]: Textual amendment: S. 164 omitted (5.7.2018) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/6/paragraph/8); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/c)
+[^c-86e261123807082566b0460d31c583ea]: Textual amendment: S. 164 omitted (5.7.2018) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/6/paragraph/8); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/c)

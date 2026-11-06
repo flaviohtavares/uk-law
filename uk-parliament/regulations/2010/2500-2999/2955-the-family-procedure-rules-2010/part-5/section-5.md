@@ -28,9 +28,9 @@ summary: ''
 
 (4) Where these rules require a form to be sent by the court or by a party for another party to use, it must be sent without any variation except such as is required by the circumstances of the particular case.
 
-(5)[^key-883e15bd80db714c8800098290104d62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-883e15bd80db714c8800098290104d62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-446c65e8ed33f0b718057c981c284fa9] Nothing in this rule requires a party to reveal any particulars referred to in rule 29.1(1) if notice of those particulars is given to the court in accordance with rule 29.1(2).
+(6)[^c-446c65e8ed33f0b718057c981c284fa9] Nothing in this rule requires a party to reveal any particulars referred to in rule 29.1(1) if notice of those particulars is given to the court in accordance with rule 29.1(2).
 
 ## 5.2. Documents to be attached to a form
 
@@ -49,20 +49,20 @@ Subject to any rule or practice direction, unless the court directs otherwise, a
 
 (2) An application is issued on the date entered in the application form by the court officer.
 
-(3)[^key-b54c445aa5a5aa6174afde71db631cee] Where the application is made [^key-5b641cd328ed7ad2fd4d32714a2058b5]... under Article 10 of the 2007 Hague Convention, the applicant is deemed to have requested the issue of the application by virtue of making the application for establishment or modification of a maintenance decision forwarded on his or her behalf by the Lord Chancellor.
+(3)[^c-b54c445aa5a5aa6174afde71db631cee] Where the application is made [^c-5b641cd328ed7ad2fd4d32714a2058b5]... under Article 10 of the 2007 Hague Convention, the applicant is deemed to have requested the issue of the application by virtue of making the application for establishment or modification of a maintenance decision forwarded on his or her behalf by the Lord Chancellor.
 
-\[The Lord Chancellor is the Central Authority for England and Wales in relation to the 2007 Hague Convention[^key-37b4c5faa54208bd064a2ce1f36f82c1]...\]
+\[The Lord Chancellor is the Central Authority for England and Wales in relation to the 2007 Hague Convention[^c-37b4c5faa54208bd064a2ce1f36f82c1]...\]
 
 (Rule 29.7 requires an application form to be authenticated with the stamp of the court when it is issued)
 
 ## Annotations
 
-[^key-883e15bd80db714c8800098290104d62]: Textual amendment: [Rule 5.1(5)](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.1/5) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-883e15bd80db714c8800098290104d62]: Textual amendment: [Rule 5.1(5)](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.1/5) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-446c65e8ed33f0b718057c981c284fa9]: Textual amendment: Rule 5.1(6) inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [5](https://www.legislation.gov.uk/uksi/2012/679/rule/5) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
+[^c-446c65e8ed33f0b718057c981c284fa9]: Textual amendment: Rule 5.1(6) inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [5](https://www.legislation.gov.uk/uksi/2012/679/rule/5) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
 
-[^key-b54c445aa5a5aa6174afde71db631cee]: Textual amendment: Rule 5.3(3) and words inserted (20.12.2012) by [The Family Procedure (Amendment No. 4) Rules 2012 (S.I. 2012/2806)](https://www.legislation.gov.uk/uksi/2012/2806), [rules 1](https://www.legislation.gov.uk/uksi/2012/2806/rule/1), [6](https://www.legislation.gov.uk/uksi/2012/2806/rule/6)
+[^c-b54c445aa5a5aa6174afde71db631cee]: Textual amendment: Rule 5.3(3) and words inserted (20.12.2012) by [The Family Procedure (Amendment No. 4) Rules 2012 (S.I. 2012/2806)](https://www.legislation.gov.uk/uksi/2012/2806), [rules 1](https://www.legislation.gov.uk/uksi/2012/2806/rule/1), [6](https://www.legislation.gov.uk/uksi/2012/2806/rule/6)
 
-[^key-5b641cd328ed7ad2fd4d32714a2058b5]: Textual amendment: Words in [rule 5.3(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.3/3) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b641cd328ed7ad2fd4d32714a2058b5]: Textual amendment: Words in [rule 5.3(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.3/3) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37b4c5faa54208bd064a2ce1f36f82c1]: Textual amendment: Words in [rule 5.3](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.3) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37b4c5faa54208bd064a2ce1f36f82c1]: Textual amendment: Words in [rule 5.3](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.3) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

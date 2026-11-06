@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Office of election agent and sub-agent[^key-68494da3b4aa8827a947c8f13b82ec9a]
+## 41. Office of election agent and sub-agent[^c-68494da3b4aa8827a947c8f13b82ec9a]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68494da3b4aa8827a947c8f13b82ec9a]: Commencement: Art. 41 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-68494da3b4aa8827a947c8f13b82ec9a]: Commencement: Art. 41 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

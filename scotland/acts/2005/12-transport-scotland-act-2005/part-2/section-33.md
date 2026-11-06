@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Increase in penalties for summary offences under 1991 Act[^key-ca9350bfa719728bb70d572ce5267d26]
+## 33. Increase in penalties for summary offences under 1991 Act[^c-ca9350bfa719728bb70d572ce5267d26]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca9350bfa719728bb70d572ce5267d26]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2005/12/section/33) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-ca9350bfa719728bb70d572ce5267d26]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2005/12/section/33) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

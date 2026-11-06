@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Application of the 1991 Act[^key-2a2596fc61753d8cbb04b1eddceab51f]
+## 9. Application of the 1991 Act[^c-2a2596fc61753d8cbb04b1eddceab51f]
 
 *Extent: E+W+S*
 
@@ -36,14 +36,14 @@ whether or not the carrying out of the works or the stopping up, alteration or d
 - (e) section 69 (works likely to affect other apparatus in the street);
 - (f) section 76 (liability for cost of temporary traffic regulation);
 - (g) section 77 (liability for cost of use of alternative route); and
-- (h) all provisions of that Act that apply for the purposes of the provisions referred to in sub-paragraphs[^key-6a1e1b5d9e547a60ecf47351ed9a5198] (a) to (g).
+- (h) all provisions of that Act that apply for the purposes of the provisions referred to in sub-paragraphs[^c-6a1e1b5d9e547a60ecf47351ed9a5198] (a) to (g).
 
 (3) Section 55 of the 1991 Act as applied by paragraph (2) has effect as if references in section 57 of that Act to emergency works included a reference to a stopping up, alteration or diversion (as the case may be) required in a case of emergency.
 
 ## Annotations
 
-[^key-2a2596fc61753d8cbb04b1eddceab51f]: Commencement: Art. 9 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-2a2596fc61753d8cbb04b1eddceab51f]: Commencement: Art. 9 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
 [^f00029]: Footnote: Sections 55, 57, 60, 68 and 69 were amended by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-6a1e1b5d9e547a60ecf47351ed9a5198]: Textual amendment: Word in [art. 9(2)(h)](https://www.legislation.gov.uk/uksi/2022/432/article/9/2/h) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-6a1e1b5d9e547a60ecf47351ed9a5198]: Textual amendment: Word in [art. 9(2)(h)](https://www.legislation.gov.uk/uksi/2022/432/article/9/2/h) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)

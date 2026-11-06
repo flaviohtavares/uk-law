@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Report on operation of agents of landlords and tenants[^key-0ecaf54b845e529fbf048fe36f4106b9]
+## 36. Report on operation of agents of landlords and tenants[^c-0ecaf54b845e529fbf048fe36f4106b9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ecaf54b845e529fbf048fe36f4106b9]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/18/section/36) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-0ecaf54b845e529fbf048fe36f4106b9]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/18/section/36) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

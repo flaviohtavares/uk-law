@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 428. Decision on application for clearance[^key-0d2da3724176ec5c73d4e5c6fb2b1b0e][^key-28812161520a1c0f59dec825c8d63a6a][^key-28812161520a1c0f59dec825c8d63a6a]
+## 428. Decision on application for clearance[^c-0d2da3724176ec5c73d4e5c6fb2b1b0e][^c-28812161520a1c0f59dec825c8d63a6a][^c-28812161520a1c0f59dec825c8d63a6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ any resulting notification by the Commissioners for Her Majesty's Revenue and Cu
 
 ## Annotations
 
-[^key-0d2da3724176ec5c73d4e5c6fb2b1b0e]: Modification: S. 428 applied (with modifications) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [ss. 117(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/117/6), [119(5)](https://www.legislation.gov.uk/ukpga/2010/8/section/119/5), [381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0d2da3724176ec5c73d4e5c6fb2b1b0e]: Modification: S. 428 applied (with modifications) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [ss. 117(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/117/6), [119(5)](https://www.legislation.gov.uk/ukpga/2010/8/section/119/5), [381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-28812161520a1c0f59dec825c8d63a6a]: Modification: Pt. 5 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 990(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/990/5), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-28812161520a1c0f59dec825c8d63a6a]: Modification: Pt. 5 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 990(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/990/5), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

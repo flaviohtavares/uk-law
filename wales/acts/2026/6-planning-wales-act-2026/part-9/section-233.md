@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 233. Planning permission to include provision for preservation and planting of trees[^key-ffbdbc103db69f9b633028d09f485429]
+## 233. Planning permission to include provision for preservation and planting of trees[^c-ffbdbc103db69f9b633028d09f485429]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Where a planning authority grants planning permission for any development—
 
 ## Annotations
 
-[^key-ffbdbc103db69f9b633028d09f485429]: Commencement: S. 233 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ffbdbc103db69f9b633028d09f485429]: Commencement: S. 233 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

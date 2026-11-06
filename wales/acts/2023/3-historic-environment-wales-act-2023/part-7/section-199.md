@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 199. Information about interests in Crown land[^key-801f86adccb172931bdfee71bd7d292c][^key-06ea106aa707ffa7dd91237d7d48cbee]
+## 199. Information about interests in Crown land[^c-801f86adccb172931bdfee71bd7d292c][^c-06ea106aa707ffa7dd91237d7d48cbee]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) But the Welsh Ministers may, for the purpose of enabling a relevant authority to exercise a function mentioned in section 197(2)(a) or (b), request the appropriate Crown authority to confirm in writing—
 
 - (a) the nature of the authority’s interest in the land;
-- (b) the name and postal[^key-6f35c3d1b6780db0b5ee7c7e80f832fc] address of any other person known to the authority as having an interest in the land.
+- (b) the name and postal[^c-6f35c3d1b6780db0b5ee7c7e80f832fc] address of any other person known to the authority as having an interest in the land.
 
 (4) The appropriate Crown authority must comply with a request under subsection (3) except to the extent—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-801f86adccb172931bdfee71bd7d292c]: Commencement: S. 199 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-801f86adccb172931bdfee71bd7d292c]: Commencement: S. 199 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-06ea106aa707ffa7dd91237d7d48cbee]: Commencement: [S. 199](https://www.legislation.gov.uk/asc/2023/3/section/199) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-06ea106aa707ffa7dd91237d7d48cbee]: Commencement: [S. 199](https://www.legislation.gov.uk/asc/2023/3/section/199) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
 
-[^key-6f35c3d1b6780db0b5ee7c7e80f832fc]: Textual amendment: Word in [s. 199(3)(b)](https://www.legislation.gov.uk/asc/2023/3/section/199/3/b) inserted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 63](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/63) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))
+[^c-6f35c3d1b6780db0b5ee7c7e80f832fc]: Textual amendment: Word in [s. 199(3)(b)](https://www.legislation.gov.uk/asc/2023/3/section/199/3/b) inserted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 63](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/63) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))

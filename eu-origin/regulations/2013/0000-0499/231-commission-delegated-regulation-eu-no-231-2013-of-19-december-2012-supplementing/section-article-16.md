@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 16. General obligations of the FCA[^key-d6b8d0e4d1fd7978be4271d5677bb124]
+## Article 16. General obligations of the FCA[^c-d6b8d0e4d1fd7978be4271d5677bb124]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ When assessing the AIFM's compliance with rules 2.1.4 and 18.5A.3 of the Conduct
 
 ## Annotations
 
-[^key-d6b8d0e4d1fd7978be4271d5677bb124]: Textual amendment: Art. 16 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6b8d0e4d1fd7978be4271d5677bb124]: Textual amendment: Art. 16 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

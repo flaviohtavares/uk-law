@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Partnership Agreement between the Members of the African, Caribbean and Pacific Group of States and the European Community and its Member States (The Cotonou Agreement)) Order 2001 (revoked)[^key-882c8ebab73c262954cf21732999474e]
+The European Communities (Definition of Treaties) (Partnership Agreement between the Members of the African, Caribbean and Pacific Group of States and the European Community and its Member States (The Cotonou Agreement)) Order 2001 (revoked)[^c-882c8ebab73c262954cf21732999474e]
 
 Made
 
@@ -45,26 +45,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-882c8ebab73c262954cf21732999474e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-882c8ebab73c262954cf21732999474e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-882c8ebab73c262954cf21732999474e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-882c8ebab73c262954cf21732999474e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-882c8ebab73c262954cf21732999474e]
+## SCHEDULE[^c-882c8ebab73c262954cf21732999474e]
 
-**1.**[^key-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-882c8ebab73c262954cf21732999474e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-882c8ebab73c262954cf21732999474e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-882c8ebab73c262954cf21732999474e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-882c8ebab73c262954cf21732999474e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3935) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-882c8ebab73c262954cf21732999474e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3935) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

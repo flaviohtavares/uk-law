@@ -24,15 +24,15 @@ Regulation 34(3)
 
 ### PART 1 — General
 
-**1.**[^key-3e8f10b792ecf820ceb252a091940735] The matters to be included in any notification issued by an authority in accordance with paragraph 9 of Schedule 13 (notification of decision) are the matters set out in the following provisions of this Schedule.
+**1.**[^c-3e8f10b792ecf820ceb252a091940735] The matters to be included in any notification issued by an authority in accordance with paragraph 9 of Schedule 13 (notification of decision) are the matters set out in the following provisions of this Schedule.
 
-**2.**[^key-3058eaa424fd0e2f2f34a243e3cc5e7b] Every notification must include a statement as to the right of any person affected by the decision to request a written statement under paragraph 9(5) of Schedule 13 (requests for statement of reasons), and the manner and time in which to do so.
+**2.**[^c-3058eaa424fd0e2f2f34a243e3cc5e7b] Every notification must include a statement as to the right of any person affected by the decision to request a written statement under paragraph 9(5) of Schedule 13 (requests for statement of reasons), and the manner and time in which to do so.
 
-**3.**[^key-655e00c55c974173e4bbe843ceb09dc9] Every notification must include a statement as to the right of any person affected by the decision to appeal against the decision in accordance with paragraphs 8 and 10 of Schedule 12 (procedure by which a person may make an appeal against certain decisions of the authority), and the manner and time in which to do so.
+**3.**[^c-655e00c55c974173e4bbe843ceb09dc9] Every notification must include a statement as to the right of any person affected by the decision to appeal against the decision in accordance with paragraphs 8 and 10 of Schedule 12 (procedure by which a person may make an appeal against certain decisions of the authority), and the manner and time in which to do so.
 
 ### PART 2 — Awards of reductions where state pension credit or extended reduction (qualifying contributory benefits) is payable: pensioners
 
-**4.**[^key-e37b2d7ff43b8a1cdeab72f0d89aee7b] (1) Where a pensioner who is in receipt of state pension credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
+**4.**[^c-e37b2d7ff43b8a1cdeab72f0d89aee7b] (1) Where a pensioner who is in receipt of state pension credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
 
 - (a) the normal weekly amount of council tax the person would be liable to pay before any reduction is awarded under an authority’s scheme, rounded to the nearest penny;
 - (b) the maximum weekly amount of reduction the person could be entitled to under an authority’s scheme, rounded to the nearest penny;
@@ -54,7 +54,7 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 3 — Awards of reductions where state pension credit not in payment: pensioners
 
-**5.**[^key-d2ba071dec8f05548564c7244b491ef5] Where a pensioner who is not in receipt of state pension credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
+**5.**[^c-d2ba071dec8f05548564c7244b491ef5] Where a pensioner who is not in receipt of state pension credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
 
 - (a) the matters set out in paragraph 4(1);
 - (b) the pensioner’s applicable amount and how it is calculated;
@@ -63,7 +63,7 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 4 — Notification where no award of a reduction is made: pensioners
 
-**6.**[^key-dfab32f5afee2855626d1b8da2f56118] Where a pensioner is not awarded a reduction under an authority’s scheme—
+**6.**[^c-dfab32f5afee2855626d1b8da2f56118] Where a pensioner is not awarded a reduction under an authority’s scheme—
 
 - (a) on the ground of income, the notification must include a statement as to—
   - (i) the matters set out in paragraph 4(1)(a), and
@@ -72,7 +72,7 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 5 — Awards of reductions where income support, income-based jobseeker’s allowance, income related employment and support allowance, an extended reduction or an extended reduction (qualifying contributory benefits) is payable: persons who are not pensioners
 
-**7.**[^key-7dbc5d71e0db5c1f400f84093c6ae823] (1) Where a person who is not a pensioner and who is on income support, an income-based jobseeker’s allowance, or an income-related employment and support allowance is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
+**7.**[^c-7dbc5d71e0db5c1f400f84093c6ae823] (1) Where a person who is not a pensioner and who is on income support, an income-based jobseeker’s allowance, or an income-related employment and support allowance is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
 
 - (a) the normal weekly amount of council tax the person would be liable to pay before any reduction is awarded under an authority’s scheme, rounded to the nearest penny;
 - (b) the maximum weekly amount of reduction the person could be entitled to under the authority’s scheme, rounded to the nearest penny;
@@ -86,7 +86,7 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 6 — Awards of reduction where universal credit is payable: persons who are not pensioners
 
-**8.**[^key-e0e28465535b602ed3a4a72c173ed1d4] Where a person who is not a pensioner and who has an award of universal credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
+**8.**[^c-e0e28465535b602ed3a4a72c173ed1d4] Where a person who is not a pensioner and who has an award of universal credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
 
 - (a) the matters set out in paragraph 7(1);
 - (b) the person’s applicable amount (paragraph 3 of Schedule 6 (applicable amount: persons who are not pensioners who have an award of universal credit) refers); and
@@ -94,7 +94,7 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 7 — Awards of reduction where no income support, income-based jobseeker’s allowance, income related employment and support allowance or universal credit is payable: persons who are not pensioners
 
-**9.**[^key-28710f0a82c704883a89f89af893f20c] Where a person who is not a pensioner and who is not on income support, income-based jobseeker’s allowance, income-related employment and support allowance or universal credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
+**9.**[^c-28710f0a82c704883a89f89af893f20c] Where a person who is not a pensioner and who is not on income support, income-based jobseeker’s allowance, income-related employment and support allowance or universal credit is awarded a reduction under an authority’s scheme, the notification must include a statement as to—
 
 - (a) the matters set out in paragraph 7(1);
 - (b) the person’s applicable amount and how it is calculated;
@@ -103,7 +103,7 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 8 — Notification where no award of a reduction is made: persons who are not pensioners
 
-**10.**[^key-f29d184116cbf5bfaebc8221fbd02b01] Where a person who is not a pensioner is not awarded a reduction under an authority’s scheme—
+**10.**[^c-f29d184116cbf5bfaebc8221fbd02b01] Where a person who is not a pensioner is not awarded a reduction under an authority’s scheme—
 
 - (a) on the ground of income, the notification must include a statement as to—
   - (i) the matters set out in paragraph 7(1)(a); and
@@ -112,31 +112,31 @@ and in any case where the amount to which paragraphs (a) to (c) refers disregard
 
 ### PART 9 — Notification where income of non-dependant is treated as applicant’s income: pensioners and persons who are not pensioners
 
-**11.**[^key-9963055cc778afa9a9020cb435e7b488] Where an authority makes a decision under its scheme to treat the capital and income of a non-dependant as the applicant’s, (paragraph 6 of Schedule 1 and paragraph 8 of Schedule 6 refer), the notification must contain a statement as to—
+**11.**[^c-9963055cc778afa9a9020cb435e7b488] Where an authority makes a decision under its scheme to treat the capital and income of a non-dependant as the applicant’s, (paragraph 6 of Schedule 1 and paragraph 8 of Schedule 6 refer), the notification must contain a statement as to—
 
 - (a) the fact that a decision has been made by reference to the income and capital of the applicant’s non-dependant, and
 - (b) the authority’s reason for making that decision.
 
 ## Annotations
 
-[^key-3e8f10b792ecf820ceb252a091940735]: Commencement: Sch. 14 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-3e8f10b792ecf820ceb252a091940735]: Commencement: Sch. 14 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-3058eaa424fd0e2f2f34a243e3cc5e7b]: Commencement: Sch. 14 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-3058eaa424fd0e2f2f34a243e3cc5e7b]: Commencement: Sch. 14 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-655e00c55c974173e4bbe843ceb09dc9]: Commencement: Sch. 14 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-655e00c55c974173e4bbe843ceb09dc9]: Commencement: Sch. 14 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-e37b2d7ff43b8a1cdeab72f0d89aee7b]: Commencement: Sch. 14 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e37b2d7ff43b8a1cdeab72f0d89aee7b]: Commencement: Sch. 14 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-d2ba071dec8f05548564c7244b491ef5]: Commencement: Sch. 14 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-d2ba071dec8f05548564c7244b491ef5]: Commencement: Sch. 14 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-dfab32f5afee2855626d1b8da2f56118]: Commencement: Sch. 14 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-dfab32f5afee2855626d1b8da2f56118]: Commencement: Sch. 14 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-7dbc5d71e0db5c1f400f84093c6ae823]: Commencement: Sch. 14 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-7dbc5d71e0db5c1f400f84093c6ae823]: Commencement: Sch. 14 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-e0e28465535b602ed3a4a72c173ed1d4]: Commencement: Sch. 14 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e0e28465535b602ed3a4a72c173ed1d4]: Commencement: Sch. 14 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-28710f0a82c704883a89f89af893f20c]: Commencement: Sch. 14 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-28710f0a82c704883a89f89af893f20c]: Commencement: Sch. 14 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-f29d184116cbf5bfaebc8221fbd02b01]: Commencement: Sch. 14 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-f29d184116cbf5bfaebc8221fbd02b01]: Commencement: Sch. 14 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-9963055cc778afa9a9020cb435e7b488]: Commencement: Sch. 14 para. 11 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-9963055cc778afa9a9020cb435e7b488]: Commencement: Sch. 14 para. 11 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

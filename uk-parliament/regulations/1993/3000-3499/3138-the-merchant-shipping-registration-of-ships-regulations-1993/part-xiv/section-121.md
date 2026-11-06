@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Managing owners for fishing vessels[^key-06831b7dfdebbdf016a66ca4d4d342b5]
+## 121. Managing owners for fishing vessels[^c-06831b7dfdebbdf016a66ca4d4d342b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06831b7dfdebbdf016a66ca4d4d342b5]: Textual amendment: [Reg. 121](https://www.legislation.gov.uk/uksi/1993/3138/regulation/121) omitted (1.1.1999) by virtue of [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [27](https://www.legislation.gov.uk/uksi/1998/2976/regulation/27)
+[^c-06831b7dfdebbdf016a66ca4d4d342b5]: Textual amendment: [Reg. 121](https://www.legislation.gov.uk/uksi/1993/3138/regulation/121) omitted (1.1.1999) by virtue of [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [27](https://www.legislation.gov.uk/uksi/1998/2976/regulation/27)

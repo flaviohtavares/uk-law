@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Extraction of online information following seizure of electronic devices[^key-d9ab68077f4712b7bc68aaba9469469f]
+## 173. Extraction of online information following seizure of electronic devices[^c-d9ab68077f4712b7bc68aaba9469469f]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9ab68077f4712b7bc68aaba9469469f]: Commencement: S. 173 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d9ab68077f4712b7bc68aaba9469469f]: Commencement: S. 173 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

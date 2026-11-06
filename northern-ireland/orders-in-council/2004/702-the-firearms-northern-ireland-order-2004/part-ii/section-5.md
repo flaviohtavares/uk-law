@@ -31,15 +31,15 @@ summary: ''
 
 (4) The Chief Constable shall not grant a firearm certificate to a person who is prohibited by this Order from possessing a firearm.
 
-(5) The Chief Constable may, if he is satisfied that it is necessary to do so, provide the holder of a firearm certificate with a duplicate certificate or an updated certificate[^key-75dd1a885284bc9e3f51b63ea6002a30] on payment of the appropriate fee.
+(5) The Chief Constable may, if he is satisfied that it is necessary to do so, provide the holder of a firearm certificate with a duplicate certificate or an updated certificate[^c-75dd1a885284bc9e3f51b63ea6002a30] on payment of the appropriate fee.
 
-(6)[^key-976b73fa9dfb430c6ab60eb867523dd4] In paragraph (5)—
+(6)[^c-976b73fa9dfb430c6ab60eb867523dd4] In paragraph (5)—
 
 - “**duplicate certificate**” means a copy of the firearm certificate as granted; and
 - “**updated certificate**” means the firearm certificate revised up to such date as may be specified on the certificate.
 
 ## Annotations
 
-[^key-75dd1a885284bc9e3f51b63ea6002a30]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/nisi/2004/702/article/5/5) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(1)(a)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/1/a)
+[^c-75dd1a885284bc9e3f51b63ea6002a30]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/nisi/2004/702/article/5/5) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(1)(a)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/1/a)
 
-[^key-976b73fa9dfb430c6ab60eb867523dd4]: Textual amendment: [Art. 5(6)](https://www.legislation.gov.uk/nisi/2004/702/article/5/6) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/1/b)
+[^c-976b73fa9dfb430c6ab60eb867523dd4]: Textual amendment: [Art. 5(6)](https://www.legislation.gov.uk/nisi/2004/702/article/5/6) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/5/1/b)

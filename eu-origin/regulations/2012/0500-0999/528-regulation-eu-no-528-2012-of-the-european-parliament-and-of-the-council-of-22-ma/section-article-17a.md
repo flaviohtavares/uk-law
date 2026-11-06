@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 17A. NI Product Market Access[^key-d74fe23c72a959fe9927c666948c800e]
+## Article 17A. NI Product Market Access[^c-d74fe23c72a959fe9927c666948c800e]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d74fe23c72a959fe9927c666948c800e]: Textual amendment: [Art. 17A](https://www.legislation.gov.uk/eur/2012/528/article/17A) inserted (31.12.2020) by S.I. 2019/720, Sch. 2 para. 78A (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/27))
+[^c-d74fe23c72a959fe9927c666948c800e]: Textual amendment: [Art. 17A](https://www.legislation.gov.uk/eur/2012/528/article/17A) inserted (31.12.2020) by S.I. 2019/720, Sch. 2 para. 78A (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/27))

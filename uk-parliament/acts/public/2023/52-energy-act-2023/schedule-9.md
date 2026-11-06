@@ -24,7 +24,7 @@ Section 174
 
 ### Part 1 — Transfer schemes
 
-#### 1. Power to make a transfer scheme[^key-62ae637cbb3a149b42412555eb7d7fc1]
+#### 1. Power to make a transfer scheme[^c-62ae637cbb3a149b42412555eb7d7fc1]
 
 (1) The Secretary of State may make one or more schemes for the transfer of designated property, rights or liabilities from one person to another person—
 
@@ -52,7 +52,7 @@ Section 174
   - (i) are references to rights and liabilities of any kind, arising (in any way or at any time) under the law of a part of Great Britain or of a place outside Great Britain;
   - (ii) include rights and liabilities arising under or by virtue of an enactment.
 
-#### 2. Consultation[^key-1bc34ec721ff2efa4fd79859f833f52f]
+#### 2. Consultation[^c-1bc34ec721ff2efa4fd79859f833f52f]
 
 (1) Before making a transfer scheme, the Secretary of State must consult—
 
@@ -61,7 +61,7 @@ Section 174
 
 (2) Sub-paragraph (1) may be satisfied by consultation before the passing of this Act (as well as by consultation after that time).
 
-#### 3. Transfer of property, rights and liabilities[^key-408b52ab7f581a0f60ae6555570ad95e]
+#### 3. Transfer of property, rights and liabilities[^c-408b52ab7f581a0f60ae6555570ad95e]
 
 (1) The transfer of designated property, rights and liabilities under a transfer scheme takes effect on the date (or dates) specified in or determined in accordance with the scheme.
 
@@ -74,7 +74,7 @@ Section 174
 - (c) property acquired, and rights and liabilities arising, after the making of the scheme;
 - (d) criminal liabilities.
 
-**4.**[^key-969b468ecdd3d990df2842d0c3180e15] (1) This paragraph applies where, under a transfer scheme, an employee to whom the scheme applies becomes an employee of a transferee.
+**4.**[^c-969b468ecdd3d990df2842d0c3180e15] (1) This paragraph applies where, under a transfer scheme, an employee to whom the scheme applies becomes an employee of a transferee.
 
 (2) The transfer scheme may apply to—
 
@@ -99,14 +99,14 @@ Section 174
 - “**employee**” has the same meaning as in the TUPE regulations (see regulation 2(1) of the regulations);
 - “**the relevant time**” means the time at which the transfer of the person’s employment takes effect in accordance with the transfer scheme.
 
-**5.**[^key-855e7f5c8c14d41ffcce86ef5265a7be] (1) A transfer scheme may make provision requiring a transferor to provide such co-operation to a transferee as the transferee may reasonably require in connection with the implementation of the scheme.
+**5.**[^c-855e7f5c8c14d41ffcce86ef5265a7be] (1) A transfer scheme may make provision requiring a transferor to provide such co-operation to a transferee as the transferee may reasonably require in connection with the implementation of the scheme.
 
 (2) The co-operation that may be required by virtue of sub-paragraph (1) includes, in particular, co-operation in relation to—
 
 - (a) the provision of information;
 - (b) consultation with representatives of employees transferred by the scheme.
 
-**6.**[^key-0734d8bd3bb77cc5cffb959ac65c79f1] (1) A transfer scheme may make supplementary, incidental, transitional or consequential provision and may in particular—
+**6.**[^c-0734d8bd3bb77cc5cffb959ac65c79f1] (1) A transfer scheme may make supplementary, incidental, transitional or consequential provision and may in particular—
 
 - (a) create rights, or impose liabilities, in relation to property, rights or liabilities transferred;
 - (b) make provision about the continuing effect of things done by a transferor in respect of anything transferred;
@@ -140,12 +140,12 @@ Section 174
   - (c) an Act or Measure of Senedd Cymru, or
   - (d) Northern Ireland legislation.
 
-**7.**[^key-6df9a97613529e7b010ca4705feabc44] A transfer scheme may—
+**7.**[^c-6df9a97613529e7b010ca4705feabc44] A transfer scheme may—
 
 - (a) make different provision for different purposes;
 - (b) make provision subject to exceptions.
 
-#### 8. Compensation[^key-c7a3bbeab7496a88e85d217a365d53bb]
+#### 8. Compensation[^c-c7a3bbeab7496a88e85d217a365d53bb]
 
 (1) A transfer scheme may provide for a transferor to be entitled to compensation from the Secretary of State, in accordance with provision made by or under the scheme, to the extent that the scheme makes provision—
 
@@ -174,7 +174,7 @@ Section 174
 
 (5) Regulations under sub-paragraph (4) may confer a discretion on a person.
 
-#### 9. Taxation[^key-d09a36fc7b359f1645da19267bdbc2b3]
+#### 9. Taxation[^c-d09a36fc7b359f1645da19267bdbc2b3]
 
 (1) The Treasury may by regulations make provision varying the way in which a relevant tax has effect in relation to—
 
@@ -202,7 +202,7 @@ Section 174
   - (a) about a relevant tax, and
   - (b) made by an enactment.
 
-#### 10. Power to amend transfer scheme[^key-16e035dbd72d7a3279599f8cc37ed5d8]
+#### 10. Power to amend transfer scheme[^c-16e035dbd72d7a3279599f8cc37ed5d8]
 
 (1) The Secretary of State may amend a transfer scheme if the Secretary of State considers that the amendment is appropriate—
 
@@ -218,13 +218,13 @@ Section 174
 
 (5) Paragraph 8(2) to (5) applies (with any necessary modifications) in relation to an entitlement to compensation under sub-paragraph (4) as it applies in relation to an entitlement to compensation under paragraph 8(1).
 
-#### 11. National Security and Investment Act 2021[^key-5ef83a5eb1dfaf79ae284eb2b29eef25]
+#### 11. National Security and Investment Act 2021[^c-5ef83a5eb1dfaf79ae284eb2b29eef25]
 
 The making of a transfer scheme is not a trigger event for the purposes of the National Security and Investment Act 2021.
 
 ### Part 2 — Other provision about transfers and designation
 
-#### 12. Provision of information or assistance[^key-3ea838433788afadaaedc29382426912]
+#### 12. Provision of information or assistance[^c-3ea838433788afadaaedc29382426912]
 
 (1) The Secretary of State may direct a person within sub-paragraph (2) to provide the Secretary of State with such specified information or assistance as the Secretary of State may reasonably require—
 
@@ -270,7 +270,7 @@ The making of a transfer scheme is not a trigger event for the purposes of the N
 - “**information**” includes documents;
 - “**specified**” means specified in the direction.
 
-#### 13. Co-operation[^key-830fc10e2b1560cae82403fef7dbecf0]
+#### 13. Co-operation[^c-830fc10e2b1560cae82403fef7dbecf0]
 
 (1) A person within sub-paragraph (2) must co-operate with, and so far as practicable must not take any step that may reasonably be expected to impede, the Secretary of State in relation to the doing of anything by the Secretary of State—
 
@@ -284,7 +284,7 @@ The making of a transfer scheme is not a trigger event for the purposes of the N
 
 (3) The period mentioned in sub-paragraph (2)(b) is the period beginning on 20 July 2021 and ending with the first designation of a person under section 162(1).
 
-#### 14. Reimbursement and compensation: further provision[^key-18488dfb2b4c3da180340e9be6f8e366]
+#### 14. Reimbursement and compensation: further provision[^c-18488dfb2b4c3da180340e9be6f8e366]
 
 (1) The Secretary of State may reimburse a person in respect of expenditure reasonably incurred by the person—
 
@@ -295,30 +295,30 @@ The making of a transfer scheme is not a trigger event for the purposes of the N
 
 ## Annotations
 
-[^key-62ae637cbb3a149b42412555eb7d7fc1]: Commencement: Sch. 9 para. 1 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-62ae637cbb3a149b42412555eb7d7fc1]: Commencement: Sch. 9 para. 1 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-1bc34ec721ff2efa4fd79859f833f52f]: Commencement: Sch. 9 para. 2 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-1bc34ec721ff2efa4fd79859f833f52f]: Commencement: Sch. 9 para. 2 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-408b52ab7f581a0f60ae6555570ad95e]: Commencement: Sch. 9 para. 3 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-408b52ab7f581a0f60ae6555570ad95e]: Commencement: Sch. 9 para. 3 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-969b468ecdd3d990df2842d0c3180e15]: Commencement: Sch. 9 para. 4 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-969b468ecdd3d990df2842d0c3180e15]: Commencement: Sch. 9 para. 4 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-855e7f5c8c14d41ffcce86ef5265a7be]: Commencement: Sch. 9 para. 5 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-855e7f5c8c14d41ffcce86ef5265a7be]: Commencement: Sch. 9 para. 5 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-0734d8bd3bb77cc5cffb959ac65c79f1]: Commencement: Sch. 9 para. 6 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-0734d8bd3bb77cc5cffb959ac65c79f1]: Commencement: Sch. 9 para. 6 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-6df9a97613529e7b010ca4705feabc44]: Commencement: Sch. 9 para. 7 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-6df9a97613529e7b010ca4705feabc44]: Commencement: Sch. 9 para. 7 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-c7a3bbeab7496a88e85d217a365d53bb]: Commencement: Sch. 9 para. 8 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-c7a3bbeab7496a88e85d217a365d53bb]: Commencement: Sch. 9 para. 8 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-d09a36fc7b359f1645da19267bdbc2b3]: Commencement: Sch. 9 para. 9 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-d09a36fc7b359f1645da19267bdbc2b3]: Commencement: Sch. 9 para. 9 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-16e035dbd72d7a3279599f8cc37ed5d8]: Commencement: Sch. 9 para. 10 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-16e035dbd72d7a3279599f8cc37ed5d8]: Commencement: Sch. 9 para. 10 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-5ef83a5eb1dfaf79ae284eb2b29eef25]: Commencement: Sch. 9 para. 11 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-5ef83a5eb1dfaf79ae284eb2b29eef25]: Commencement: Sch. 9 para. 11 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-3ea838433788afadaaedc29382426912]: Commencement: Sch. 9 para. 12 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-3ea838433788afadaaedc29382426912]: Commencement: Sch. 9 para. 12 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-830fc10e2b1560cae82403fef7dbecf0]: Commencement: Sch. 9 para. 13 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-830fc10e2b1560cae82403fef7dbecf0]: Commencement: Sch. 9 para. 13 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-18488dfb2b4c3da180340e9be6f8e366]: Commencement: Sch. 9 para. 14 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-18488dfb2b4c3da180340e9be6f8e366]: Commencement: Sch. 9 para. 14 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

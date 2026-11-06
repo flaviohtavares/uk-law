@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Early years additional learning needs lead officer[^key-982ca79acabf0291d9d3e078f581e055]
+## 62. Early years additional learning needs lead officer[^c-982ca79acabf0291d9d3e078f581e055]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-982ca79acabf0291d9d3e078f581e055]: Commencement: S. 62 in force at 4.1.2021 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 4(1)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/4/1)
+[^c-982ca79acabf0291d9d3e078f581e055]: Commencement: S. 62 in force at 4.1.2021 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 4(1)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/4/1)

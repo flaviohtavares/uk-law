@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Matters which may be raised in an appeal against decisions[^key-1b2b5772bb85adf0a127dd9892e68de1]
+## 11. Matters which may be raised in an appeal against decisions[^c-1b2b5772bb85adf0a127dd9892e68de1]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - (b) when notice of appeal was given in relation to the local planning authority’s failure to—
   - (i) give notice to the appellant of their decision on the application;
   - (ii) give notice to the appellant that they have exercised their power under section 70A or 70C of the Planning Act to decline to determine the application; or
-  - (iii) give notice that the application has been referred to the Welsh Ministers under section 77 of the Planning Act, section 94 of the 2023 Act[^key-1cbe59ee0abc4d5bd3fe3ba311511d25] or section 20 of the Hazardous Substances Act.
+  - (iii) give notice that the application has been referred to the Welsh Ministers under section 77 of the Planning Act, section 94 of the 2023 Act[^c-1cbe59ee0abc4d5bd3fe3ba311511d25] or section 20 of the Hazardous Substances Act.
 
 (3) Nothing in paragraph (1) affects any requirement or entitlement to have regard to—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2b5772bb85adf0a127dd9892e68de1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/544/regulation/11) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-1b2b5772bb85adf0a127dd9892e68de1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/544/regulation/11) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
 
-[^key-1cbe59ee0abc4d5bd3fe3ba311511d25]: Textual amendment: Words in [reg. 11(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/544/regulation/11/2/b/iii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [100](https://www.legislation.gov.uk/wsi/2024/924/regulation/100)
+[^c-1cbe59ee0abc4d5bd3fe3ba311511d25]: Textual amendment: Words in [reg. 11(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/544/regulation/11/2/b/iii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [100](https://www.legislation.gov.uk/wsi/2024/924/regulation/100)

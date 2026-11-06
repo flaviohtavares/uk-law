@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Access and inspection for airworthiness purposes[^key-6498253e287d882a351c013b5011534e]
+## 31. Access and inspection for airworthiness purposes[^c-6498253e287d882a351c013b5011534e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6498253e287d882a351c013b5011534e]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2015/870/article/31) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6498253e287d882a351c013b5011534e]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2015/870/article/31) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

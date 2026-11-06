@@ -37,16 +37,16 @@ summary: ''
   - (ii) any unique identifying number allocated to the contract by the Secretary of State;
   - (iii) any title given in the contract;
   - (iv) the date on which the contract was entered into;
-  - (v) the contract[^key-f0bf960d677dc6dca4d75a8bb81aa6f2] pricing method or methods used in determining the price payable under the contract; and
+  - (v) the contract[^c-f0bf960d677dc6dca4d75a8bb81aa6f2] pricing method or methods used in determining the price payable under the contract; and
   - (vi) whether the contract is a qualifying defence contract or a qualifying sub-contract;
 - (c) a list of all the cost recovery rates used in any of those contracts, and the actual value of each of those rates as provided in the QBU actual cost analysis report; and
-- (d) for each cost recovery rate used in determining the contract price under regulation 10 (or, if the price has been re-determined in accordance with the Schedule[^key-fa85ef785daa68d6b000d3a1f034940f], used in the most recent determination)—
+- (d) for each cost recovery rate used in determining the contract price under regulation 10 (or, if the price has been re-determined in accordance with the Schedule[^c-fa85ef785daa68d6b000d3a1f034940f], used in the most recent determination)—
   - (i) the actual amount of the cost recovery base attributable to the contract;
   - (ii) the amount of the cost recovery base used in determining the contract price; and
   - (iii) the cost recovery rate used in determining the contract price.
 
 ## Annotations
 
-[^key-f0bf960d677dc6dca4d75a8bb81aa6f2]: Textual amendment: Word in [reg. 39(4)(b)(v)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/39/4/b/v) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2024/420/regulation/38)
+[^c-f0bf960d677dc6dca4d75a8bb81aa6f2]: Textual amendment: Word in [reg. 39(4)(b)(v)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/39/4/b/v) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2024/420/regulation/38)
 
-[^key-fa85ef785daa68d6b000d3a1f034940f]: Textual amendment: Words in [reg. 39(4)(d)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/39/4/d) substituted (1.4.2019) by [The Single Source Contract (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1350)](https://www.legislation.gov.uk/uksi/2018/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2018/1350/regulation/9)
+[^c-fa85ef785daa68d6b000d3a1f034940f]: Textual amendment: Words in [reg. 39(4)(d)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/39/4/d) substituted (1.4.2019) by [The Single Source Contract (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1350)](https://www.legislation.gov.uk/uksi/2018/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2018/1350/regulation/9)

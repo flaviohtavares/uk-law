@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to sections 11 to 13A[^key-9684568dab591b247822694a053411d4] below, a person who is liable to pay council tax in respect of any chargeable dwelling and any day shall, as respects the dwelling and the day, pay to the billing authority for the area in which the dwelling is situated an amount calculated in accordance with the formula—
+(1) Subject to sections 11 to 13A[^c-9684568dab591b247822694a053411d4] below, a person who is liable to pay council tax in respect of any chargeable dwelling and any day shall, as respects the dwelling and the day, pay to the billing authority for the area in which the dwelling is situated an amount calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1992/14)
 
@@ -34,4 +34,4 @@ D is the number of days in the financial year.
 
 ## Annotations
 
-[^key-9684568dab591b247822694a053411d4]: Textual amendment: Word in s. 10(1) substituted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/4)
+[^c-9684568dab591b247822694a053411d4]: Textual amendment: Word in s. 10(1) substituted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/4)

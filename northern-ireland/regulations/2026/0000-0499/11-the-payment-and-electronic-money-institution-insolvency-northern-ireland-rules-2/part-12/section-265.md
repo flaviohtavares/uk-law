@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 265. Gazette notices relating to an institution that is a company[^key-d06c3e5932328ade0adde8844bf359b9]
+## 265. Gazette notices relating to an institution that is a company[^c-d06c3e5932328ade0adde8844bf359b9]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ In addition to the information required by rule 264 of these Rules, a notice rel
 
 ## Annotations
 
-[^key-d06c3e5932328ade0adde8844bf359b9]: Commencement: [Rule 265](https://www.legislation.gov.uk/nisr/2026/11/rule/265) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d06c3e5932328ade0adde8844bf359b9]: Commencement: [Rule 265](https://www.legislation.gov.uk/nisr/2026/11/rule/265) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

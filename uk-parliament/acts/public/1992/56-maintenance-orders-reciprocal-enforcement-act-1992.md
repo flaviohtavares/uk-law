@@ -104,7 +104,7 @@ Section 1.
 - (a) for the words “against whom the summons was issued” there shall be substituted “ served with the notice ”, and
 - (b) for the words “any defence” there shall be substituted “ establishing any grounds on which he opposes the confirmation of the order ”.
 
-(7)[^key-28ae6a4904ac57a7a3e44603cb8244d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-28ae6a4904ac57a7a3e44603cb8244d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** After section 4, there shall be inserted—
 
@@ -184,7 +184,7 @@ Section 1.
 >
 > ”(4) No enactment empowering a magistrates’ court to refuse to make an order on a complaint on the ground that any matter in question is one which would be more conveniently dealt with by the High Court of Justice in Northern Ireland shall apply in relation to a complaint to which subsection (1) above applies.”
 
-**7.**[^key-f9e05cc9dd2a9b2ca1ebdc99a5e81571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f9e05cc9dd2a9b2ca1ebdc99a5e81571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) Section 7 (confirmation by United Kingdom court of provisional maintenance order made in reciprocating country) shall be amended as follows.
 
@@ -204,7 +204,7 @@ Section 1.
 > - (b) in subsection (3), for the words from “opposed the making” to the end there shall be substituted “raised a defence on any of those grounds in the proceedings in which the order was made.”, and
 > - (c) in subsection (6), for the words “notice of” there shall be substituted “a summons to appear in”.
 
-**9.**[^key-3ab7741638bd2a84a3c1d7e4638c0b3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3ab7741638bd2a84a3c1d7e4638c0b3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) Section 17 (proceedings in magistrates’ courts) shall be amended as follows.
 
@@ -366,7 +366,7 @@ Section 1.
 
 **14.**[^c860194] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-f01a826b8bceae37b50273a58fa8a468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-f01a826b8bceae37b50273a58fa8a468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** For section 35 there shall be substituted—
 
@@ -472,16 +472,16 @@ Section 2(2).
 
 [^c860192]: Subordinate legislation: [S. 3](https://www.legislation.gov.uk/ukpga/1992/56/section/3) power fully exercised (25.2.1993): 5.4.1993 appointed day for whole Act by [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618).
 
-[^key-28ae6a4904ac57a7a3e44603cb8244d9]: Textual amendment: Sch. 1 para. 2(7) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-28ae6a4904ac57a7a3e44603cb8244d9]: Textual amendment: Sch. 1 para. 2(7) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c860193]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-f9e05cc9dd2a9b2ca1ebdc99a5e81571]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/7) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f9e05cc9dd2a9b2ca1ebdc99a5e81571]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/7) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-3ab7741638bd2a84a3c1d7e4638c0b3d]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/9) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3ab7741638bd2a84a3c1d7e4638c0b3d]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/9) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c860194]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/14) repealed (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10); [S.I. 1996/297](https://www.legislation.gov.uk/uksi/1996/297), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/297/article/2/2)
 
-[^key-f01a826b8bceae37b50273a58fa8a468]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/15) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f01a826b8bceae37b50273a58fa8a468]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/paragraph/15) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c860195]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1992/56/schedule/2/paragraph/2) repealed (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10); [S.I. 1996/297](https://www.legislation.gov.uk/uksi/1996/297), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/297/article/2/2)

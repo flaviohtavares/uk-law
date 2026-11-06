@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Calculation of Charges for Veterinary Checks[^key-aa65387e7e3e55b08759f4327502eefa]
+## SCHEDULE 3 — Calculation of Charges for Veterinary Checks[^c-aa65387e7e3e55b08759f4327502eefa]
 
 *Extent: S*
 
@@ -24,40 +24,40 @@ summary: ''
 
 Regulations 54(1), 55 and 56
 
-### PART I — COSTS COVERED BY THE CHARGES[^key-aa65387e7e3e55b08759f4327502eefa]
+### PART I — COSTS COVERED BY THE CHARGES[^c-aa65387e7e3e55b08759f4327502eefa]
 
-**1.**[^key-aa65387e7e3e55b08759f4327502eefa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aa65387e7e3e55b08759f4327502eefa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aa65387e7e3e55b08759f4327502eefa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aa65387e7e3e55b08759f4327502eefa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONSIGNMENTS FROM NEW ZEALAND[^key-aa65387e7e3e55b08759f4327502eefa]
+### PART II — CONSIGNMENTS FROM NEW ZEALAND[^c-aa65387e7e3e55b08759f4327502eefa]
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART III — MEAT AND MEAT PRODUCTS[^key-aa65387e7e3e55b08759f4327502eefa]
-
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+### PART III — MEAT AND MEAT PRODUCTS[^c-aa65387e7e3e55b08759f4327502eefa]
+
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — FISHERY PRODUCTS[^key-aa65387e7e3e55b08759f4327502eefa]
-
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — ALL OTHER PRODUCTS[^key-aa65387e7e3e55b08759f4327502eefa]
+### PART IV — FISHERY PRODUCTS[^c-aa65387e7e3e55b08759f4327502eefa]
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — ALL OTHER PRODUCTS[^c-aa65387e7e3e55b08759f4327502eefa]
+
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa65387e7e3e55b08759f4327502eefa]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l), [38(l)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l) (with [reg. 39(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/39/b))
+[^c-aa65387e7e3e55b08759f4327502eefa]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l), [38(l)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l) (with [reg. 39(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/39/b))

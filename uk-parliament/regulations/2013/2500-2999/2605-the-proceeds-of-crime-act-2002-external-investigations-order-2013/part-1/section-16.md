@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Disclosure orders[^key-25640838dd4538c6fdc76c3582c70c77]
+## 16. Disclosure orders[^c-25640838dd4538c6fdc76c3582c70c77]
 
 *Extent: E+W+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) The application for a disclosure order must state that—
 
-- (a) a person specified in the application or[^key-424ef62592cea4190c6bf6337a8b7a72] property specified in the application is subject to an external investigation,
+- (a) a person specified in the application or[^c-424ef62592cea4190c6bf6337a8b7a72] property specified in the application is subject to an external investigation,
 - (b) the order is sought for the purposes of the investigation, and
-- (c) the condition in article 3(2) is met in respect of the person or[^key-75f9faa70637523ec25e4f8d0b5b8afe] property.
+- (c) the condition in article 3(2) is met in respect of the person or[^c-75f9faa70637523ec25e4f8d0b5b8afe] property.
 
 (3) A disclosure order is an order authorising an appropriate officer to give to any person the appropriate officer considers has relevant information notice in writing requiring them to do, with respect to any matter relevant to the external investigation, any or all of the following—
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-25640838dd4538c6fdc76c3582c70c77]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/2605/article/16) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-25640838dd4538c6fdc76c3582c70c77]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/2605/article/16) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-424ef62592cea4190c6bf6337a8b7a72]: Textual amendment: Words in [art. 16(2)(a)](https://www.legislation.gov.uk/uksi/2013/2605/article/16/2/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2015/1751/article/8/a)
+[^c-424ef62592cea4190c6bf6337a8b7a72]: Textual amendment: Words in [art. 16(2)(a)](https://www.legislation.gov.uk/uksi/2013/2605/article/16/2/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2015/1751/article/8/a)
 
-[^key-75f9faa70637523ec25e4f8d0b5b8afe]: Textual amendment: Words in [art. 16(2)(c)](https://www.legislation.gov.uk/uksi/2013/2605/article/16/2/c) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2015/1751/article/8/b)
+[^c-75f9faa70637523ec25e4f8d0b5b8afe]: Textual amendment: Words in [art. 16(2)(c)](https://www.legislation.gov.uk/uksi/2013/2605/article/16/2/c) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2015/1751/article/8/b)

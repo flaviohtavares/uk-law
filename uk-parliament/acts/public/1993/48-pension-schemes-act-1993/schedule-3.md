@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Methods of revaluing accrued pension benefits[^key-91d1a6a5c2ba02fcfdf72e52653d7c04]
+## SCHEDULE 3 — Methods of revaluing accrued pension benefits[^c-91d1a6a5c2ba02fcfdf72e52653d7c04]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Sections 84 and 102(3).
 
 ### The final salary method
 
-**1.** (1)[^key-e6b9bf78cb507a42d832ff7ec4b296f9] The final salary method is to add to the amount that would be payable but for Chapter 2 of Part 4, or regulations made under it, the additional amount specified in sub-paragraph (1A), (1B), (1C) or (1D) (whichever applies).
+**1.** (1)[^c-e6b9bf78cb507a42d832ff7ec4b296f9] The final salary method is to add to the amount that would be payable but for Chapter 2 of Part 4, or regulations made under it, the additional amount specified in sub-paragraph (1A), (1B), (1C) or (1D) (whichever applies).
 
 (1A) Where—
 
@@ -55,7 +55,7 @@ the additional amount is the appropriate higher revaluation percentage of the ac
 (1E) In this paragraph “**the accrued benefit**” means the amount of the pension or other benefit which on the termination date has accrued to the member or to any other person in respect of the member (excluding any part of that amount which consists of—
 
 - (a) the member's guaranteed minimum, or
-- (b) the guaranteed minimum of the member's widow, widower , surviving same sex spouse *(Extent: E+W)*[^key-d97a0ba419ebf593b2f62d819c4493ec] or surviving civil partner).
+- (b) the guaranteed minimum of the member's widow, widower , surviving same sex spouse *(Extent: E+W)*[^c-d97a0ba419ebf593b2f62d819c4493ec] or surviving civil partner).
 
 (2) For the purposes of this paragraph, a member's pensionable service includes any notional pensionable service which is credited to the member by the scheme (“notional service”).
 
@@ -67,13 +67,13 @@ But notional service shall not be taken into account in determining which of sub
 
 (4) Any rule of a scheme the effect of which is that benefit falls to be revalued by reference to any period is to be disregarded in making any calculation required by this method.
 
-(5)[^key-4994ed8a2dbd0896ced33fdd3e579d8b] The sub-paragraphs above are subject to sub-paragraph (6).
+(5)[^c-4994ed8a2dbd0896ced33fdd3e579d8b] The sub-paragraphs above are subject to sub-paragraph (6).
 
 (6) If paragraph 2A applies to the pension or other benefit, the final salary method is to apply the requirement of the rules of the scheme mentioned in paragraph 2A(1).
 
 ### The revaluation percentage and the appropriate revaluation percentage
 
-**2.** (1) For the purposes of paragraph 1 the Secretary of State shall in each calendar year by order specify (so far as it is necessary to do so)—[^key-c8a370d3bbf0aaefbc00fce3dc5f30e2]
+**2.** (1) For the purposes of paragraph 1 the Secretary of State shall in each calendar year by order specify (so far as it is necessary to do so)—[^c-c8a370d3bbf0aaefbc00fce3dc5f30e2]
 
 - (a) a higher revaluation percentage, and
 - (b) a lower revaluation percentage,
@@ -85,7 +85,7 @@ for each period which is a revaluation period in relation to that order.
 - (a) begins with 1st January 1986 or with an anniversary of that date falling before the making of the order; and
 - (b) ends with the next day after the making of the order which is 31st December.
 
-(3)[^key-c65dbca9827a315f515034893243d277] The higher revaluation percentage which the Secretary of State is to specify in relation to a revaluation period is the lesser of—
+(3)[^c-c65dbca9827a315f515034893243d277] The higher revaluation percentage which the Secretary of State is to specify in relation to a revaluation period is the lesser of—
 
 - (a) the percentage which appears to the Secretary of State to be the percentage increase in the general level of prices in Great Britain during the period which is the reference period in relation to the revaluation period (“the inflation percentage”), and
 - (b) the higher maximum rate.
@@ -104,7 +104,7 @@ for each period which is a revaluation period in relation to that order.
   - (i) begins with the last day before the commencement of the revaluation period which is 1st October; and
   - (ii) ends with the last day before the making of the order which is 30th September.
 
-(6)[^key-63bc4a27ffaf3868ac7fac5ab67363a2] For the purposes of sub-paragraph (3)(b) and (3A)(b)—
+(6)[^c-63bc4a27ffaf3868ac7fac5ab67363a2] For the purposes of sub-paragraph (3)(b) and (3A)(b)—
 
 - “**the higher maximum rate**”, in relation to a revaluation period, is—
   - (a) in the case of a revaluation period of 12 months, 5 per cent; and
@@ -118,7 +118,7 @@ for each period which is a revaluation period in relation to that order.
 - “**the appropriate higher revaluation percentage**” means the higher revaluation percentage specified in the last calendar year before the date on which the member attains normal pension age as the higher revaluation percentage for the revaluation period which is of the same length as the number of complete years in the pre-pension period;
 - “the appropriate lower revaluation percentage” has a corresponding meaning.
 
-**2A.**[^key-8dcfa8a83d3c3404a525f30ffea81323] (1) This paragraph applies to the pension or other benefit if the rules of the scheme under which it is payable contain a requirement that the accrued benefit be revalued by adding to the accrued benefit an amount of at least the relevant amount.
+**2A.**[^c-8dcfa8a83d3c3404a525f30ffea81323] (1) This paragraph applies to the pension or other benefit if the rules of the scheme under which it is payable contain a requirement that the accrued benefit be revalued by adding to the accrued benefit an amount of at least the relevant amount.
 
 (2) “**The accrued benefit**” has the same meaning as in paragraph 1.
 
@@ -157,9 +157,9 @@ for each period which is a revaluation period in relation to that order.
 
 (5) For the purposes of the application of this paragraph to a case where a member is credited with an amount by reference to salary notionally earned over a period of time of a particular length, that period shall be taken to have ended immediately before the member’s actual pensionable service began.
 
-### The cash balance method[^key-aadd3b03c3d8a96a36159eeecb62872b]
+### The cash balance method[^c-aadd3b03c3d8a96a36159eeecb62872b]
 
-**3A.** The cash balance method of revaluing a benefit[^key-434ae094bdc671dd499fcef215c20dc1] is to revalue the available sum in respect of the benefit in any way in which it would have been revalued if the member’s pensionable service had not terminated.
+**3A.** The cash balance method of revaluing a benefit[^c-434ae094bdc671dd499fcef215c20dc1] is to revalue the available sum in respect of the benefit in any way in which it would have been revalued if the member’s pensionable service had not terminated.
 
 ### The flat rate method
 
@@ -180,22 +180,22 @@ whichever is the less.
 
 ## Annotations
 
-[^key-91d1a6a5c2ba02fcfdf72e52653d7c04]: Commencement: [Schs. 1-4](https://www.legislation.gov.uk/ukpga/1993/48/schedule/1) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-91d1a6a5c2ba02fcfdf72e52653d7c04]: Commencement: [Schs. 1-4](https://www.legislation.gov.uk/ukpga/1993/48/schedule/1) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-e6b9bf78cb507a42d832ff7ec4b296f9]: Textual amendment: [Sch. 3 para. 1(1)-(3A)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/1) substituted for [Sch. 3 para 1(1)-(3)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3) (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/2) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
+[^c-e6b9bf78cb507a42d832ff7ec4b296f9]: Textual amendment: [Sch. 3 para. 1(1)-(3A)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/1) substituted for [Sch. 3 para 1(1)-(3)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3) (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/2) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
 
-[^key-d97a0ba419ebf593b2f62d819c4493ec]: Textual amendment: Words in [Sch. 3 para. 1(1E)(b)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/1E/b) inserted (E.W.) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/26); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(vii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/vii); same words inserted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 11(9)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/11/9)
+[^c-d97a0ba419ebf593b2f62d819c4493ec]: Textual amendment: Words in [Sch. 3 para. 1(1E)(b)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/1E/b) inserted (E.W.) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/26); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(vii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/vii); same words inserted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 11(9)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/11/9)
 
-[^key-4994ed8a2dbd0896ced33fdd3e579d8b]: Textual amendment: [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/5)[(6)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/6) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 19(5)](https://www.legislation.gov.uk/ukpga/2011/19/section/19/5), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/b)
+[^c-4994ed8a2dbd0896ced33fdd3e579d8b]: Textual amendment: [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/5)[(6)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/1/6) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 19(5)](https://www.legislation.gov.uk/ukpga/2011/19/section/19/5), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/b)
 
-[^key-c8a370d3bbf0aaefbc00fce3dc5f30e2]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2/1) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/3/2) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
+[^c-c8a370d3bbf0aaefbc00fce3dc5f30e2]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2/1) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/3/2) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
 
-[^key-c65dbca9827a315f515034893243d277]: Textual amendment: Sch. 3 para. 2(3)(3A) substituted for Sch. 3 para. 2(3) (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/3/3) (with [s. 101(2)(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
+[^c-c65dbca9827a315f515034893243d277]: Textual amendment: Sch. 3 para. 2(3)(3A) substituted for Sch. 3 para. 2(3) (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/3/3) (with [s. 101(2)(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
 
-[^key-63bc4a27ffaf3868ac7fac5ab67363a2]: Textual amendment: [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2/6)[(7)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2/7) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/3/4) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
+[^c-63bc4a27ffaf3868ac7fac5ab67363a2]: Textual amendment: [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2/6)[(7)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2/7) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/2/paragraph/3/4) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/101/3)); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/f)
 
-[^key-8dcfa8a83d3c3404a525f30ffea81323]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2A) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 19(6)](https://www.legislation.gov.uk/ukpga/2011/19/section/19/6), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/b)
+[^c-8dcfa8a83d3c3404a525f30ffea81323]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/2A) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 19(6)](https://www.legislation.gov.uk/ukpga/2011/19/section/19/6), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/b)
 
-[^key-aadd3b03c3d8a96a36159eeecb62872b]: Textual amendment: [Sch. 3 para. 3A](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/3A) and cross-heading inserted (24.7.2014) by [The Pensions Act 2011(Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1954)](https://www.legislation.gov.uk/uksi/2014/1954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1954/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/1954/regulation/3/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/1954/regulation/2))
+[^c-aadd3b03c3d8a96a36159eeecb62872b]: Textual amendment: [Sch. 3 para. 3A](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/3A) and cross-heading inserted (24.7.2014) by [The Pensions Act 2011(Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1954)](https://www.legislation.gov.uk/uksi/2014/1954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1954/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/1954/regulation/3/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/1954/regulation/2))
 
-[^key-434ae094bdc671dd499fcef215c20dc1]: Textual amendment: Word in [Sch. 3 para. 3A](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/3A) substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/5); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-434ae094bdc671dd499fcef215c20dc1]: Textual amendment: Word in [Sch. 3 para. 3A](https://www.legislation.gov.uk/ukpga/1993/48/schedule/3/paragraph/3A) substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/5); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

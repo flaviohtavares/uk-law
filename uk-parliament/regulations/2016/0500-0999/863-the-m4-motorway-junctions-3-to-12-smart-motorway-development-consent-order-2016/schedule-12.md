@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — ENGINEERING DRAWINGS, SECTIONS AND OTHER INFORMATION[^key-2e8ae2f9014105899144f9cfd348c925]
+## SCHEDULE 12 — ENGINEERING DRAWINGS, SECTIONS AND OTHER INFORMATION[^c-2e8ae2f9014105899144f9cfd348c925]
 
 *Extent: E+W+S*
 
@@ -339,4 +339,4 @@ Article 40
 
 ## Annotations
 
-[^key-2e8ae2f9014105899144f9cfd348c925]: Commencement: Sch. 12 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-2e8ae2f9014105899144f9cfd348c925]: Commencement: Sch. 12 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

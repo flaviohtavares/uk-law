@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Right to apply for an appointed person to review a decision[^key-716a222787d9926212a5bc33c354c29b]
+## 84. Right to apply for an appointed person to review a decision[^c-716a222787d9926212a5bc33c354c29b]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) These persons are alternative applicants—
 
-- (a) a widow, widower, surviving civil partner or [^key-282afdf197c6ed1402b91ae56a574b71]... co-habiting partner of a deceased member;
+- (a) a widow, widower, surviving civil partner or [^c-282afdf197c6ed1402b91ae56a574b71]... co-habiting partner of a deceased member;
 - (b) a dependant of a deceased member or any other person to whom benefits in respect of the deceased member may be paid;
 - (c) a prospective member;
 - (d) a pension credit member;
@@ -71,6 +71,6 @@ shall set out that person's full name, address and date of birth.
 
 ## Annotations
 
-[^key-716a222787d9926212a5bc33c354c29b]: Modification: Regs. 79-89 applied (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2014/189/regulation/23)
+[^c-716a222787d9926212a5bc33c354c29b]: Modification: Regs. 79-89 applied (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2014/189/regulation/23)
 
-[^key-282afdf197c6ed1402b91ae56a574b71]: Textual amendment: Word in [reg. 84(2)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/84/2/a) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [28](https://www.legislation.gov.uk/nisr/2019/206/regulation/28)
+[^c-282afdf197c6ed1402b91ae56a574b71]: Textual amendment: Word in [reg. 84(2)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/84/2/a) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [28](https://www.legislation.gov.uk/nisr/2019/206/regulation/28)

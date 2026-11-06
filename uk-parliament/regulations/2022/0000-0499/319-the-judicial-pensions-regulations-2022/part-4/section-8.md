@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Eligible persons[^key-56a2d946ac748300cb3a4b58e0be4384]
+## 8. Eligible persons[^c-56a2d946ac748300cb3a4b58e0be4384]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56a2d946ac748300cb3a4b58e0be4384]: Commencement: Reg. 8 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-56a2d946ac748300cb3a4b58e0be4384]: Commencement: Reg. 8 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Charge on settlor with interest in settlement.[^key-9319dae720563f48f304d54440fcdfbe]
+## 77. Charge on settlor with interest in settlement.[^c-9319dae720563f48f304d54440fcdfbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9319dae720563f48f304d54440fcdfbe]: Textual amendment: Ss. 77-79 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/5)
+[^c-9319dae720563f48f304d54440fcdfbe]: Textual amendment: Ss. 77-79 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/5)

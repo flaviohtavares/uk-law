@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Appointment of additional persons to exercise investigatory powers[^key-400b65aa95657c2389f5e37b7606f356]
+## 69. Appointment of additional persons to exercise investigatory powers[^c-400b65aa95657c2389f5e37b7606f356]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-400b65aa95657c2389f5e37b7606f356]: Commencement: S. 69 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-400b65aa95657c2389f5e37b7606f356]: Commencement: S. 69 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

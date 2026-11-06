@@ -39,7 +39,7 @@ An Act to amend the law of Scotland relating to succession to the property of de
 
 ### Protection of trustees and executors
 
-#### 7. Protection of trustees and executors.[^key-07c1128c642a77eefa1e4c7dee3eace0]
+#### 7. Protection of trustees and executors.[^c-07c1128c642a77eefa1e4c7dee3eace0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -63,7 +63,7 @@ as if the said Act of 1964 had come into operation at the commencement of this A
 
 ### Convictions, etc., as evidence in civil proceedings
 
-#### 10. Convictions as evidence in civil proceedings.[^c6903771][^c6903781][^c6903791][^c6903801][^key-a94ae2c10e2a4990955b949ea44b0114]
+#### 10. Convictions as evidence in civil proceedings.[^c6903771][^c6903781][^c6903791][^c6903801][^c-a94ae2c10e2a4990955b949ea44b0114]
 
 (1) If any civil proceedings the fact that a person has been convicted of an offence by or before any court in the United Kingdom or of a service offence (anywhere)[^c20884471] shall (subject to subsection (3) of this section) be admissable in evidence for the purpose of proving, where to do so is relevant to any issue in those proceedings, that he committed that offence, whether he was so convicted upon a plea of guilty or otherwise and whether or not he is a party to the civil proceedings ; but no conviction other than a subsisting one shall be admissable in evidence by virtue of this section.
 
@@ -78,7 +78,7 @@ as if the said Act of 1964 had come into operation at the commencement of this A
 
 (5) Nothing in any of the following enactments, that is to say—
 
-- (a) section 82 of the Sentencing Code[^key-e85ff1aa7d37956b9b83c063a33845ad] (under which a conviction leading to probation or discharge is to be disregarded except as therein mentioned) ;
+- (a) section 82 of the Sentencing Code[^c-e85ff1aa7d37956b9b83c063a33845ad] (under which a conviction leading to probation or discharge is to be disregarded except as therein mentioned) ;
 - (aa)[^c20884511] section 187 of the Armed Forces Act 2006 (which makes similar provision in respect of service convictions);
 - (b) section 191 of the[^c6903821] [^c6903831]Criminal Procedure (Scotland) Act 1975 (which makes similar provision in respect of convictions on indictment in Scotland) ;
 - (c) section 8 of the [^c6903841]Probation Act (Northern Ireland) 1950 (which corresponds to the said section 12) or any corresponding enactment of the Parliament of Northern Ireland for the time being in force,
@@ -694,7 +694,7 @@ Section 22.
 
 [^c6903431]: Textual amendment: [Ss. 1–6](https://www.legislation.gov.uk/ukpga/1968/70/section/1) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
 
-[^key-07c1128c642a77eefa1e4c7dee3eace0]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1968/70/section/7) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
+[^c-07c1128c642a77eefa1e4c7dee3eace0]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1968/70/section/7) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
 
 [^c6903461]: Marginal citation: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).
 
@@ -714,13 +714,13 @@ Section 22.
 
     S. 10 extended (20.6.2003) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 228(1)(b)](https://www.legislation.gov.uk/ukpga/2002/40/section/228/1/b), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2](https://www.legislation.gov.uk/uksi/2003/1397/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-a94ae2c10e2a4990955b949ea44b0114]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/1968/70/section/10) extended (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 175(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/175/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [s. 179](https://www.legislation.gov.uk/ukpga/2024/13/section/179), [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1/2)
+[^c-a94ae2c10e2a4990955b949ea44b0114]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/1968/70/section/10) extended (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 175(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/175/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [s. 179](https://www.legislation.gov.uk/ukpga/2024/13/section/179), [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1/2)
 
 [^c20884471]: Textual amendment: Words in s. 10(1) substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 2](https://www.legislation.gov.uk/uksi/2009/2054/article/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/6/2)
 
 [^c20884491]: Textual amendment: Words in s. 10(2) substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 2](https://www.legislation.gov.uk/uksi/2009/2054/article/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/6/3)
 
-[^key-e85ff1aa7d37956b9b83c063a33845ad]: Textual amendment: Words in [s. 10(5)(a)](https://www.legislation.gov.uk/ukpga/1968/70/section/10/5/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 22](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/22) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e85ff1aa7d37956b9b83c063a33845ad]: Textual amendment: Words in [s. 10(5)(a)](https://www.legislation.gov.uk/ukpga/1968/70/section/10/5/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 22](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/22) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20884511]: Textual amendment: S. 10(5)(aa) inserted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 2](https://www.legislation.gov.uk/uksi/2009/2054/article/2), [Sch. 1 para. 6(4)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/6/4)
 

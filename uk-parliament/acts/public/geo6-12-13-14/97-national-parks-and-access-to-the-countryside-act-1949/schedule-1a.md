@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 1A — Coastal access reports[^key-6d9e41fd2936b4732b3141ae0f91f238]
+## Schedule 1A — Coastal access reports[^c-6d9e41fd2936b4732b3141ae0f91f238]
 
 *Extent: E+W*
 
@@ -367,4 +367,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9e41fd2936b4732b3141ae0f91f238]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/schedule/1A) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d)[(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 19](https://www.legislation.gov.uk/ukpga/2009/23/schedule/19) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-6d9e41fd2936b4732b3141ae0f91f238]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/schedule/1A) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d)[(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 19](https://www.legislation.gov.uk/ukpga/2009/23/schedule/19) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

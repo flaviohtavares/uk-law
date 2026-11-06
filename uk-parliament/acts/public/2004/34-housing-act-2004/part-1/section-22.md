@@ -65,7 +65,7 @@ and specify the date on which the order is made.
 
 within the period of seven days beginning with the day on which the decision was made.
 
-(9) The person applying for the approval may appeal to the appropriate tribunal[^key-aaa90e55fa8c400eacb0fe0d758c31a5] against the decision within the period of 28 days beginning with the date specified in the notice as the date on which it was made.
+(9) The person applying for the approval may appeal to the appropriate tribunal[^c-aaa90e55fa8c400eacb0fe0d758c31a5] against the decision within the period of 28 days beginning with the date specified in the notice as the date on which it was made.
 
 (10) In this Part of this Act “**specified premises**”, in relation to a prohibition order, means premises specified in the order, in accordance with subsection (2)(d), as premises in relation to which prohibitions are imposed by the order.
 
@@ -73,4 +73,4 @@ within the period of seven days beginning with the day on which the decision was
 
 [^c2051088]: Commencement: S. 22 wholly in force at 16.6.2006; s. 22 not in force at Royal Assent see s. 270(4)(5); s. 22 in force for E. at 6.4.2006 by [S. I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 22 in force for W. at 16.6.2006 by [S. I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-aaa90e55fa8c400eacb0fe0d758c31a5]: Textual amendment: Words in [s. 22(9)](https://www.legislation.gov.uk/ukpga/2004/34/section/22/9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 150](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/150) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-aaa90e55fa8c400eacb0fe0d758c31a5]: Textual amendment: Words in [s. 22(9)](https://www.legislation.gov.uk/ukpga/2004/34/section/22/9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 150](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/150) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

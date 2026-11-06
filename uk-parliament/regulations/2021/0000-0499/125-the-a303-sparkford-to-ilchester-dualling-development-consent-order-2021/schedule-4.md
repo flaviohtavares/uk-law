@@ -29,7 +29,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 - (c) private means of access to be stopped up, as described in column (2) of Parts 3 and 4 of this Schedule, are shown by solid black shading (as shown in the key on the rights of way and access plans) over the extent of stopping up described in column (3) of Parts 3 and 4 of this Schedule, and are given a reference label (a capital letter B followed by the reference number for that access in a circle).
 - (d) new private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 4 of this Schedule, are shown by thin black line hatching (as shown in the key on the rights of way and access plans) and are given a reference label (a number in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-1dffa855580c71a0e896a36240a74deb]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-1dffa855580c71a0e896a36240a74deb]
 
 | *(1)* *Area* | *(2)* *Highway to be stopped up* | *(3)* *Extent of stopping up* |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | Queen Camel | Footpath WN23/33 | To be stopped up over a distance of 60 metres northwards from its junction with the existing A303. Shown as a red dotted line in Inset G sheet 3 of the Rights of Way and Access Plans. |
 | Queen Camel | Gason Lane, Camel Hill | To be stopped up over a distance of 21 metres southwards from its junction with the existing A303. Reference A13 shown as a black dashed hatch in Inset G, Sheet 3 of the Rights of Way and Access Plans. |
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-84f158ec58f11c6da083208b38dfd5e4]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-84f158ec58f11c6da083208b38dfd5e4]
 
 | *(1)* *Area* | *(2)* *Highway to be stopped up* | *(3)* *Extent of stopping up* | *(4)* *New highway to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | Queen Camel Sparkford | Footpath WN23/12 | To be stopped up over a distance of 434 metres eastwards from its junction with the existing A303. Shown by a red dotted line in Inset H sheet 4. | New bridleway in verge BJ-BI. Then<br>New bridleway BI-BH. Then<br>New bridleway in verge BH-BG. Then<br>Road crossing BG-BF. Then<br>New footpath in verge BF-BM. Then<br>New footpath BM-BN, New footpath BN-BO, then<br>New footpath BO-BP |
 | Sparkford | A303 Trunk Road eastbound carriageway at Hazlegrove | To be stopped up over a distance of 254 metres, eastwards from a point 38 metres east of its junction with the existing Hazlegrove Roundabout. Reference A15 shown by a black dashed hatch in Inset H, Sheet 4 of the Rights of Way and Access Plans. | A303 Eastbound. |
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-f4c8dfdf263567d35f1b63432251becb]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-f4c8dfdf263567d35f1b63432251becb]
 
 | *(1)* *Area* | *(2)* *Private means of access to be stopped up* | *(3)* *Extent of stopping up* |
 | --- | --- | --- |
@@ -75,7 +75,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | West Camel | Field access off the eastern verge of Downhead Lane. | Reference B27 shown in solid black in inset E of sheet 2 of the Rights of Way and Access Plans. |
 | Queen Camel | Access to Camel Hill Cottage from the A303 opposite Traits Lane. | Reference B29 shown in solid black in inset G of sheet 3 of the Rights of Way and Access Plans. |
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-53e5cbfde7eade98558b7cf2bb20db76]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-53e5cbfde7eade98558b7cf2bb20db76]
 
 | *(1)* *Area* | *(2)* *Private means of access to be stopped up* | *(3)* *Extent of stopping up* | *(4)* *New private means of access to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | West Camel | Field access off the southern verge of the A303 near Plowage. | Reference B26 shown in solid black in inset E of sheet 2 of the Rights of Way and Access Plans. | Reference 29 as shown on sheet 2 of the Rights of Way and Access Plans. |
 | West Camel | Field access off the eastern verge of Steart Hill near the garage. | Reference B28 shown in solid black in inset F of sheet 3 of the Rights of Way and Access Plans. | Reference 32 as shown on sheet 3 of the Rights of Way and Access Plans. |
 
-### PART 5 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^key-0dd0455b6093af80dbc4679b1a2e838c]
+### PART 5 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^c-0dd0455b6093af80dbc4679b1a2e838c]
 
 | *(1)* *Parish(es)* | *(2)* *Private Means of Access to be altered* |
 | --- | --- |
@@ -117,7 +117,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 | West Camel | Reference 33. Modified access north of Steart Hill Garage, shown on sheet 3 of the Rights of Way and Access Plans. |
 | Queen Camel | Reference 34. Modified access to Camel Hill House shown on sheet 3 of the Rights of Way and Access Plans. |
 
-### PART 6 — NEW PRIVATE MEANS OF ACCESS[^key-cd7b8f8fc8ba21d56625dd4eadac9759]
+### PART 6 — NEW PRIVATE MEANS OF ACCESS[^c-cd7b8f8fc8ba21d56625dd4eadac9759]
 
 | *(1)* *Parishes* | *(2)* *Private Means of Access to be created* |
 | --- | --- |
@@ -126,14 +126,14 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 
 ## Annotations
 
-[^key-1dffa855580c71a0e896a36240a74deb]: Commencement: Sch. 4 Pt. 1 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-1dffa855580c71a0e896a36240a74deb]: Commencement: Sch. 4 Pt. 1 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-84f158ec58f11c6da083208b38dfd5e4]: Commencement: Sch. 4 Pt. 2 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-84f158ec58f11c6da083208b38dfd5e4]: Commencement: Sch. 4 Pt. 2 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-f4c8dfdf263567d35f1b63432251becb]: Commencement: Sch. 4 Pt. 3 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-f4c8dfdf263567d35f1b63432251becb]: Commencement: Sch. 4 Pt. 3 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-53e5cbfde7eade98558b7cf2bb20db76]: Commencement: Sch. 4 Pt. 4 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-53e5cbfde7eade98558b7cf2bb20db76]: Commencement: Sch. 4 Pt. 4 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-0dd0455b6093af80dbc4679b1a2e838c]: Commencement: Sch. 4 Pt. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-0dd0455b6093af80dbc4679b1a2e838c]: Commencement: Sch. 4 Pt. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-cd7b8f8fc8ba21d56625dd4eadac9759]: Commencement: Sch. 4 Pt. 6 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-cd7b8f8fc8ba21d56625dd4eadac9759]: Commencement: Sch. 4 Pt. 6 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

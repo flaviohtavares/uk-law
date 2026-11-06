@@ -35,8 +35,8 @@ summary: ''
 
 (6) For the purposes of subsection (5), the cases where an individual (“A”) obtains a capital amount for another person (“B”) include cases where A has put B in a position to receive the capital amount by providing B with something of value derived, directly or indirectly, from A's activities in the occupation.
 
-(7) In this Chapter “**capital amount**” means an amount in money or money's worth which does not fall to be included in a calculation of income for purposes of the Tax Acts otherwise than as a result of[^key-3fae2f6fca5466cbbfd1d1500d84447c] this Chapter.
+(7) In this Chapter “**capital amount**” means an amount in money or money's worth which does not fall to be included in a calculation of income for purposes of the Tax Acts otherwise than as a result of[^c-3fae2f6fca5466cbbfd1d1500d84447c] this Chapter.
 
 ## Annotations
 
-[^key-3fae2f6fca5466cbbfd1d1500d84447c]: Textual amendment: Words in s. 777(7) substituted (retrospective with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax Act 2007 (Amendment) (No. 2) Order 2009 (S.I. 2009/2859)](https://www.legislation.gov.uk/uksi/2009/2859), [art. 4(5)](https://www.legislation.gov.uk/uksi/2009/2859/article/4/5)
+[^c-3fae2f6fca5466cbbfd1d1500d84447c]: Textual amendment: Words in s. 777(7) substituted (retrospective with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax Act 2007 (Amendment) (No. 2) Order 2009 (S.I. 2009/2859)](https://www.legislation.gov.uk/uksi/2009/2859), [art. 4(5)](https://www.legislation.gov.uk/uksi/2009/2859/article/4/5)

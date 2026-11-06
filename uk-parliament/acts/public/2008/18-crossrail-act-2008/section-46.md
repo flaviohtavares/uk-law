@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Compensation for water abstraction[^key-b33981c2920d8da7552fe784bc12f640]
+## 46. Compensation for water abstraction[^c-b33981c2920d8da7552fe784bc12f640]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ it shall compensate the other person for the loss or damage.
 
 ## Annotations
 
-[^key-b33981c2920d8da7552fe784bc12f640]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/2008/18/section/46) applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
+[^c-b33981c2920d8da7552fe784bc12f640]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/2008/18/section/46) applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)

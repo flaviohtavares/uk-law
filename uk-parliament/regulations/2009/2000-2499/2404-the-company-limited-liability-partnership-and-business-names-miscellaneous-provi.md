@@ -38,7 +38,7 @@ Limited Liability Partnerships
 
 Business Names
 
-The Company, Limited Liability Partnership and Business Names (Miscellaneous Provisions) (Amendment) Regulations 2009 (revoked)[^key-c13f00fadc44d001a16d53ce5c348a30]
+The Company, Limited Liability Partnership and Business Names (Miscellaneous Provisions) (Amendment) Regulations 2009 (revoked)[^c-c13f00fadc44d001a16d53ce5c348a30]
 
 Made
 
@@ -52,24 +52,24 @@ Coming into force
 
 1st October 2009
 
-[^key-c13f00fadc44d001a16d53ce5c348a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c13f00fadc44d001a16d53ce5c348a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c13f00fadc44d001a16d53ce5c348a30]
+## 1. Citation and commencement[^c-c13f00fadc44d001a16d53ce5c348a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-c13f00fadc44d001a16d53ce5c348a30]
+## 2. Amendments[^c-c13f00fadc44d001a16d53ce5c348a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c13f00fadc44d001a16d53ce5c348a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c13f00fadc44d001a16d53ce5c348a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c13f00fadc44d001a16d53ce5c348a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c13f00fadc44d001a16d53ce5c348a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c13f00fadc44d001a16d53ce5c348a30]: Textual amendment: Regulations revoked (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/1/b)
+[^c-c13f00fadc44d001a16d53ce5c348a30]: Textual amendment: Regulations revoked (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/1/b)

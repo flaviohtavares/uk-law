@@ -34,7 +34,7 @@ Environmental Protection
 
 Environmental Protection, Northern Ireland
 
-The Producer Responsibility Obligations (Packaging Waste) (Miscellaneous Amendments) Regulations 2016 (revoked)[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+The Producer Responsibility Obligations (Packaging Waste) (Miscellaneous Amendments) Regulations 2016 (revoked)[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 Made
 
@@ -42,116 +42,116 @@ Made
 
 Coming into force in accordance with regulation 1(b)
 
-[^key-d3c4dd2bfa1576faa079e64f8be7e93a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3c4dd2bfa1576faa079e64f8be7e93a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+## PART 1 — Introduction[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
-### 1. Citation and commencement[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Amendment of subordinate legislation[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 1. Citation and commencement[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
-
-### 3. Regulation 2[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 2. Amendment of subordinate legislation[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Regulation 7[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+## PART 2 — Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
+
+### 3. Regulation 2[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Regulation 8[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 4. Regulation 7[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Regulation 12[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 5. Regulation 8[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Regulation 13[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 6. Regulation 12[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. New regulations 13A, 13B and 13C[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 7. Regulation 13[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Regulation 14[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 8. New regulations 13A, 13B and 13C[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Regulation 15 and new regulation 15A[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 9. Regulation 14[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Regulation 16[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 10. Regulation 15 and new regulation 15A[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Regulation 17[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 11. Regulation 16[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Regulation 18[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 12. Regulation 17[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Regulation 22[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 13. Regulation 18[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Regulation 27[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 14. Regulation 22[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Regulation 30[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 15. Regulation 27[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Regulation 31[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 16. Regulation 30[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Regulation 34 and new regulation 34A[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 17. Regulation 31[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Schedule 3[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 18. Regulation 34 and new regulation 34A[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
-
-### 20. Regulation 2[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 19. Schedule 3[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Regulation 13[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+## PART 3 — Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
+
+### 20. Regulation 2[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Regulation 14[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 21. Regulation 13[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Transitional etc. provision[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
-
-### 23. Transitional and saving provision[^key-d3c4dd2bfa1576faa079e64f8be7e93a]
+### 22. Regulation 14[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3c4dd2bfa1576faa079e64f8be7e93a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — Transitional etc. provision[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
+
+### 23. Transitional and saving provision[^c-d3c4dd2bfa1576faa079e64f8be7e93a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d3c4dd2bfa1576faa079e64f8be7e93a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d3c4dd2bfa1576faa079e64f8be7e93a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3c4dd2bfa1576faa079e64f8be7e93a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3c4dd2bfa1576faa079e64f8be7e93a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/241) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(l)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/l) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))
+[^c-d3c4dd2bfa1576faa079e64f8be7e93a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/241) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(l)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/l) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))

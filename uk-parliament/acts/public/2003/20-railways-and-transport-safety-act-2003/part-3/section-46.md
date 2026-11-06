@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Conditions of service: Transport Police Conference[^key-142ab8fc23acf98dc4a3bdabe067bf87]
+## 46. Conditions of service: Transport Police Conference[^c-142ab8fc23acf98dc4a3bdabe067bf87]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-142ab8fc23acf98dc4a3bdabe067bf87]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2003/20/section/46) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/cc)
+[^c-142ab8fc23acf98dc4a3bdabe067bf87]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2003/20/section/46) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/cc)

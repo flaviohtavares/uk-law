@@ -29,25 +29,25 @@ Section 61
 **1.** The Commission consists of—
 
 - (a) a chairman, and
-- (b)[^key-9efd3879bff2eb57becc05a2504a8fc7] such number of other Commissioners as the Lord Chancellor may specify by regulations made with the agreement of the Lord Chief Justice,
+- (b)[^c-9efd3879bff2eb57becc05a2504a8fc7] such number of other Commissioners as the Lord Chancellor may specify by regulations made with the agreement of the Lord Chief Justice,
 
 appointed by Her Majesty on the recommendation of the Lord Chancellor.
 
 **2.** (1) The chairman must be a lay member.
 
-(2)[^key-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0189e1ee4908ef659aa441ffe2d599f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** A person must not be appointed as a Commissioner if he is employed in the civil service of the State.
 
-**3A.**[^key-236f6bed224bcef4b61d7033301c7cbe] The number of Commissioners who are holders of judicial office must be less than the number of Commissioners (including the chairman) who are not holders of judicial office.
+**3A.**[^c-236f6bed224bcef4b61d7033301c7cbe] The number of Commissioners who are holders of judicial office must be less than the number of Commissioners (including the chairman) who are not holders of judicial office.
 
 **3B.** (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision about the composition of the Commission.
 
@@ -67,13 +67,13 @@ appointed by Her Majesty on the recommendation of the Lord Chancellor.
 - (a) define “**lay member**”, in relation to the Commission, for the purposes of this Part of this Act;
 - (b) define “**holder of judicial office**” for the purposes of paragraphs 3A, 3B(2)(a), 11 and 20(5).
 
-**4.**[^key-9db0656b7a5c0fa63296456fc49e1dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9db0656b7a5c0fa63296456fc49e1dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9db0656b7a5c0fa63296456fc49e1dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9db0656b7a5c0fa63296456fc49e1dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9db0656b7a5c0fa63296456fc49e1dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9db0656b7a5c0fa63296456fc49e1dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6A.**[^key-d255c8037a391feb804f9597d639249c] (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision for or in connection with the selection or nomination of persons to be recommended for appointment under paragraph 1.
+**6A.**[^c-d255c8037a391feb804f9597d639249c] (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision for or in connection with the selection or nomination of persons to be recommended for appointment under paragraph 1.
 
 (2) Regulations under this paragraph may (in particular)—
 
@@ -88,11 +88,11 @@ appointed by Her Majesty on the recommendation of the Lord Chancellor.
 
 #### Vice-chairman
 
-**11.** (1) The most senior of the holders of judicial office who are Commissioners[^key-260583bb3783c4267cc07caf92665731] is vice-chairman of the Commission.
+**11.** (1) The most senior of the holders of judicial office who are Commissioners[^c-260583bb3783c4267cc07caf92665731] is vice-chairman of the Commission.
 
-(2) For the purposes of sub-paragraph (1) seniority is to be determined in accordance with regulations made by the Lord Chancellor with the agreement of the Lord Chief Justice.[^key-c556cef016e2592578234a2696c44b5b]
+(2) For the purposes of sub-paragraph (1) seniority is to be determined in accordance with regulations made by the Lord Chancellor with the agreement of the Lord Chief Justice.[^c-c556cef016e2592578234a2696c44b5b]
 
-(3) In the absence of the chairman, the vice-chairman may exercise the chairman's functions other than—[^key-2c14c7a0b400ae0139d95221446e12ac]
+(3) In the absence of the chairman, the vice-chairman may exercise the chairman's functions other than—[^c-2c14c7a0b400ae0139d95221446e12ac]
 
 - (a) any functions as a member of a commission convened under section 26(5) or (5A) or of a panel appointed under section 70(1), 75B(1) or 79(1) (including functions of chairing such a commission or panel), and
 - (b) any functions specified in regulations made by the Lord Chancellor with the agreement of the Lord Chief Justice.
@@ -103,7 +103,7 @@ appointed by Her Majesty on the recommendation of the Lord Chancellor.
 
 (2) But an appointment is subject to paragraphs 13 to 15.
 
-**13.**[^key-c68034e87325f82fbe731601eee28e4a] (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision about the periods for which a Commissioner may be appointed or hold office.
+**13.**[^c-c68034e87325f82fbe731601eee28e4a] (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision about the periods for which a Commissioner may be appointed or hold office.
 
 (2) Regulations under this paragraph may (in particular) make provision about—
 
@@ -111,7 +111,7 @@ appointed by Her Majesty on the recommendation of the Lord Chancellor.
 - (b) the length of any particular appointment;
 - (c) the total length of a person's appointments or the total period for which a person may hold office as a Commissioner.
 
-**14.** (1)[^key-d1b0f93735e2cfffa55f752653c303b0] The Lord Chancellor may by regulations made with the agreement of the Lord Chief Justice—
+**14.** (1)[^c-d1b0f93735e2cfffa55f752653c303b0] The Lord Chancellor may by regulations made with the agreement of the Lord Chief Justice—
 
 - (a) provide for a Commissioner to cease to be a Commissioner on ceasing, or on ceasing for a particular reason, to be eligible for appointment as a Commissioner;
 - (b) provide for a Commissioner other than the chairman to cease to be a Commissioner on ceasing, or on ceasing for a particular reason, to be eligible for appointment as a Commissioner of a particular description;
@@ -133,7 +133,7 @@ appointed by Her Majesty on the recommendation of the Lord Chancellor.
 
 - (a) has failed without reasonable excuse to discharge the functions of his office for a continuous period of at least six months,
 - (b) has been convicted of an offence,
-- (c) is an undischarged bankrupt or a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^key-574290f61e8600731fc721b29b94fec8], or
+- (c) is an undischarged bankrupt or a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^c-574290f61e8600731fc721b29b94fec8], or
 - (d) is otherwise unfit to hold his office or unable to discharge its functions.
 
 (3) A recommendation on the ground mentioned in sub-paragraph (2)(a) may not be made more than 3 months after the end of the period mentioned there.
@@ -156,7 +156,7 @@ the Lord Chancellor may direct the Commission to make to or in respect of that p
 
 **17.** The Lord Chancellor may issue and from time to time revise a code of conduct to be observed by the Commissioners.
 
-#### Regulations[^key-da74a0b026809cbcd50e6afd9465b02e]
+#### Regulations[^c-da74a0b026809cbcd50e6afd9465b02e]
 
 **17A.** Regulations under this Part of this Schedule may—
 
@@ -194,7 +194,7 @@ the Lord Chancellor may direct the Commission to make to or in respect of that p
 
 (5) The function of making a selection under this Part of this Act may be delegated only to a committee or sub-committee whose members include at least one who is a holder of judicial office and at least[^M_F_3cac8d36-06e5-4838-8a21-15bc2e76a358] one lay member.
 
-(6) In sub-paragraphs (2) to (5) references to a committee do not include references to a selection panel appointed under section 70 , 75B[^key-8a4e0e4e5773c718cf457b94899b9a2a] or 79.
+(6) In sub-paragraphs (2) to (5) references to a committee do not include references to a selection panel appointed under section 70 , 75B[^c-8a4e0e4e5773c718cf457b94899b9a2a] or 79.
 
 #### Procedure and proceedings
 
@@ -294,7 +294,7 @@ the Lord Chancellor may direct the Commission to make to or in respect of that p
 
 (2) A committee, a sub-committee or the chief executive may delegate functions (including functions delegated to them or him) to any of the persons listed at sub-paragraph (1).
 
-(3) Sub-paragraphs (1) and (2) do not apply to the functions of the Commission, or of a selection panel appointed under section 70 , 75B[^key-7f0233a47cd025b82e074a79b0f63708] or 79, of making a selection under this Part of this Act.
+(3) Sub-paragraphs (1) and (2) do not apply to the functions of the Commission, or of a selection panel appointed under section 70 , 75B[^c-7f0233a47cd025b82e074a79b0f63708] or 79, of making a selection under this Part of this Act.
 
 #### Delegation and contracting out of superannuation functions
 
@@ -389,34 +389,34 @@ is to be received in evidence and, unless the contrary is proved, taken to be ex
 
 ## Annotations
 
-[^key-9efd3879bff2eb57becc05a2504a8fc7]: Textual amendment: [Sch. 12 para. 1(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/1/b) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/17); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-9efd3879bff2eb57becc05a2504a8fc7]: Textual amendment: [Sch. 12 para. 1(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/1/b) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/17); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-0189e1ee4908ef659aa441ffe2d599f3]: Textual amendment: [Sch. 12 para. 2(2)-(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/2/2) omitted (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/18); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-0189e1ee4908ef659aa441ffe2d599f3]: Textual amendment: [Sch. 12 para. 2(2)-(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/2/2) omitted (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/18); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-236f6bed224bcef4b61d7033301c7cbe]: Textual amendment: Sch. 12 paras. 3A-3C inserted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/19); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-236f6bed224bcef4b61d7033301c7cbe]: Textual amendment: Sch. 12 paras. 3A-3C inserted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/19); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-9db0656b7a5c0fa63296456fc49e1dfb]: Textual amendment: Sch. 12 paras. 4-6 omitted (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/18); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-9db0656b7a5c0fa63296456fc49e1dfb]: Textual amendment: Sch. 12 paras. 4-6 omitted (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/18); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-d255c8037a391feb804f9597d639249c]: Textual amendment: Sch. 12 paras. 6A, 6B substituted for Sch. 12 paras. 7-10 (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/20); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-d255c8037a391feb804f9597d639249c]: Textual amendment: Sch. 12 paras. 6A, 6B substituted for Sch. 12 paras. 7-10 (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/20); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-260583bb3783c4267cc07caf92665731]: Textual amendment: Words in [Sch. 12 para. 11(1)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/11/1) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 21(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/21/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-260583bb3783c4267cc07caf92665731]: Textual amendment: Words in [Sch. 12 para. 11(1)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/11/1) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 21(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/21/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-c556cef016e2592578234a2696c44b5b]: Textual amendment: Words in [Sch. 12 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/11/2) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 21(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/21/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-c556cef016e2592578234a2696c44b5b]: Textual amendment: Words in [Sch. 12 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/11/2) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 21(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/21/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-2c14c7a0b400ae0139d95221446e12ac]: Textual amendment: Words in [Sch. 12 para. 11(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/11/3) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 21(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/21/4); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-2c14c7a0b400ae0139d95221446e12ac]: Textual amendment: Words in [Sch. 12 para. 11(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/11/3) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 21(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/21/4); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-c68034e87325f82fbe731601eee28e4a]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/13) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/22); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-c68034e87325f82fbe731601eee28e4a]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/13) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/22); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-d1b0f93735e2cfffa55f752653c303b0]: Textual amendment: [Sch. 12 para. 14(1)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/14/1) substituted for [Sch. 12](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12) [para. 14(1)(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/14/1) (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/23); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-d1b0f93735e2cfffa55f752653c303b0]: Textual amendment: [Sch. 12 para. 14(1)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/14/1) substituted for [Sch. 12](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12) [para. 14(1)(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/14/1) (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/23); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-574290f61e8600731fc721b29b94fec8]: Textual amendment: Words in Sch. 12 para. 15(2)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 52(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/52/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-574290f61e8600731fc721b29b94fec8]: Textual amendment: Words in Sch. 12 para. 15(2)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 52(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/52/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-da74a0b026809cbcd50e6afd9465b02e]: Textual amendment: Sch. 12 para. 17A and cross-heading inserted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/24); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-da74a0b026809cbcd50e6afd9465b02e]: Textual amendment: Sch. 12 para. 17A and cross-heading inserted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/24); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
 [^M_F_3cac8d36-06e5-4838-8a21-15bc2e76a358]: Textual amendment: Words in Sch. 12 para. 20(5) substituted (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/24); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-8a4e0e4e5773c718cf457b94899b9a2a]: Textual amendment: Word in [Sch. 12 para. 20(6)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/20/6) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 80](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/80); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-8a4e0e4e5773c718cf457b94899b9a2a]: Textual amendment: Word in [Sch. 12 para. 20(6)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/20/6) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 80](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/80); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
 [^c19217821]: Commencement: [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/26) partly in force; [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/26) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/26) in force for specified purposes at 1.10.2005 by [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/b); [Sch. 12 para 26](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/26) in force at 3.4.2006 in so far as not already in force by [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/15)
 
-[^key-7f0233a47cd025b82e074a79b0f63708]: Textual amendment: Word in [Sch. 12 para. 27(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/27/3) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 80](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/80); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-7f0233a47cd025b82e074a79b0f63708]: Textual amendment: Word in [Sch. 12 para. 27(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/paragraph/27/3) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 80](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/80); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

@@ -34,7 +34,7 @@ summary: ''
 - (a) it shows that any person associated or formerly associated with P (whether on a personal, work or other basis) has done any of the things set out in subsection (2)(a) to (d), and
 - (b) it appears to the authority that the evidence is relevant to the question whether P is a fit and proper person to be the licence holder or (as the case may be) the manager of the house.
 
-(3C)[^key-7efc608c25b1852c52538e88e5948655] A person is not a fit and proper person for the purposes of section 64(3)(b) or (d) if a banning order under section 16 of the Housing and Planning Act 2016 is in force against the person.
+(3C)[^c-7efc608c25b1852c52538e88e5948655] A person is not a fit and proper person for the purposes of section 64(3)(b) or (d) if a banning order under section 16 of the Housing and Planning Act 2016 is in force against the person.
 
 (4) For the purposes of section 64(3)(b) the local housing authority must assume, unless the contrary is shown, that the person having control of the house is a more appropriate person to be the licence holder than a person not having control of it.
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c2051295]: Commencement: S. 66 wholly in force at 16.6.2006; s. 66 not in force at Royal Assent see s. 270(4)(5); s. 66 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 66 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-7efc608c25b1852c52538e88e5948655]: Textual amendment: [S. 66(3C)](https://www.legislation.gov.uk/ukpga/2004/34/section/66/3C) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/3); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-7efc608c25b1852c52538e88e5948655]: Textual amendment: [S. 66(3C)](https://www.legislation.gov.uk/ukpga/2004/34/section/66/3C) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/3); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

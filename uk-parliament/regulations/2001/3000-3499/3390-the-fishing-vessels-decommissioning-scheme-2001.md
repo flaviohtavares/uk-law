@@ -47,7 +47,7 @@ Laid before Parliament
 
 Coming into force
 
-13th October 2001[^key-1b5773e79251cac7a0b1b7b7c41266b3]
+13th October 2001[^c-1b5773e79251cac7a0b1b7b7c41266b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -129,4 +129,4 @@ Coming into force
 
 ## Annotations
 
-[^key-1b5773e79251cac7a0b1b7b7c41266b3]: Textual amendment: Scheme revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-1b5773e79251cac7a0b1b7b7c41266b3]: Textual amendment: Scheme revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Categories of pension scheme[^M_I_c13c30eb-a0e4-40c6-986f-c74974d561fd][^key-6a1ab921e6801f369d0dc100cb03a6ed]
+## 239. Categories of pension scheme[^M_I_c13c30eb-a0e4-40c6-986f-c74974d561fd][^c-6a1ab921e6801f369d0dc100cb03a6ed]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 [^M_I_c13c30eb-a0e4-40c6-986f-c74974d561fd]: Commencement: S. 239 in force at 1.7.2005 for specified purposes by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/7)
 
-[^key-6a1ab921e6801f369d0dc100cb03a6ed]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2004/35/section/239) in force at 6.4.2006 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/7)
+[^c-6a1ab921e6801f369d0dc100cb03a6ed]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2004/35/section/239) in force at 6.4.2006 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/7)

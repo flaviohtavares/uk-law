@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England
 
-The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations 2012 (revoked)[^key-55693f5171ae5cf12a20f4f2a0c9ed59]
+The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations 2012 (revoked)[^c-55693f5171ae5cf12a20f4f2a0c9ed59]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th May 2012
 
-[^key-55693f5171ae5cf12a20f4f2a0c9ed59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55693f5171ae5cf12a20f4f2a0c9ed59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-55693f5171ae5cf12a20f4f2a0c9ed59]
+## 1. Citation and commencement[^c-55693f5171ae5cf12a20f4f2a0c9ed59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-55693f5171ae5cf12a20f4f2a0c9ed59]
+## 2. Amendment[^c-55693f5171ae5cf12a20f4f2a0c9ed59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55693f5171ae5cf12a20f4f2a0c9ed59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55693f5171ae5cf12a20f4f2a0c9ed59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-55693f5171ae5cf12a20f4f2a0c9ed59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55693f5171ae5cf12a20f4f2a0c9ed59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55693f5171ae5cf12a20f4f2a0c9ed59]: Textual amendment: Regulations revoked (1.4.2018) by [The Environmental Offences (Fixed Penalties) (England) Regulations 2017 (S.I. 2017/1050)](https://www.legislation.gov.uk/uksi/2017/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/13/2)
+[^c-55693f5171ae5cf12a20f4f2a0c9ed59]: Textual amendment: Regulations revoked (1.4.2018) by [The Environmental Offences (Fixed Penalties) (England) Regulations 2017 (S.I. 2017/1050)](https://www.legislation.gov.uk/uksi/2017/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/13/2)

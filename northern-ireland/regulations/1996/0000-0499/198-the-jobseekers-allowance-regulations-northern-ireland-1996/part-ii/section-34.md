@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Jobseeker’s Agreement treated as having been made[^key-cf6a0beff2b0c0aff6c3e653095b9660]
+## 34. Jobseeker’s Agreement treated as having been made[^c-cf6a0beff2b0c0aff6c3e653095b9660]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ A claimant is to be treated as having satisfied the condition mentioned in Artic
 
 ## Annotations
 
-[^key-cf6a0beff2b0c0aff6c3e653095b9660]: Commencement: Reg. 34 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-cf6a0beff2b0c0aff6c3e653095b9660]: Commencement: Reg. 34 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

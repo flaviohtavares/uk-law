@@ -71,13 +71,13 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Checks concerning compliance by keepers with Regulation (EC) No 21/2004
 
-The competent authority[^key-39c91c6e4c6a04728697547d8bc8f079] shall carry out on-the-spot checks (checks) to verify compliance by keepers with the requirements for the identification and registration of animals as provided for in Regulation (EC) No 21/2004.
+The competent authority[^c-39c91c6e4c6a04728697547d8bc8f079] shall carry out on-the-spot checks (checks) to verify compliance by keepers with the requirements for the identification and registration of animals as provided for in Regulation (EC) No 21/2004.
 
 The checks shall at least comply with the minimum levels set out in Articles 2 to 5 of this Regulation.
 
 ## Article 2. Number of holdings to be checked
 
-The competent authority shall carry out the checks each year which shall cover at least 3 % of holdings comprising at least 5 % of animals[^key-0be99c89f977e670d9e08e912b42d94a].
+The competent authority shall carry out the checks each year which shall cover at least 3 % of holdings comprising at least 5 % of animals[^c-0be99c89f977e670d9e08e912b42d94a].
 
 However, where those checks reveal a significant degree of non-compliance with Regulation (EC) No 21/2004, those rates shall be increased in the following annual inspection period.
 
@@ -91,7 +91,7 @@ The competent authority shall select the holdings to be checked on the basis of 
 - ((d)) significant changes in comparison with the situation in previous annual inspection periods;
 - ((e)) the results of checks carried out in previous annual inspection periods, in particular, the proper keeping of the holding register and movement documents;
 - ((f)) proper communication of information to the competent authority;
-- ((g)) other criteria to be defined by the appropriate Minister[^key-6d10bba79f2cf1b5c4b2e048d4b0e5ca].
+- ((g)) other criteria to be defined by the appropriate Minister[^c-6d10bba79f2cf1b5c4b2e048d4b0e5ca].
 
 ## Article 4. Manner of checks
 
@@ -99,7 +99,7 @@ The competent authority shall select the holdings to be checked on the basis of 
 
 However, advance warning of checks may be given where necessary. Where advance warning is given, provided it shall be limited to the strict minimum necessary and as a general rule shall not exceed 48 hours, except in exceptional cases.
 
-2. The checks may be carried out in conjunction with any other inspections provided for under any enactment[^key-9a8a15f7e6b09d774946516546ad0eaa].
+2. The checks may be carried out in conjunction with any other inspections provided for under any enactment[^c-9a8a15f7e6b09d774946516546ad0eaa].
 
 ## Article 5. Number of animals to be checked
 
@@ -113,7 +113,7 @@ However, the competent authority may decide to check the means of identification
 
 ## Article 6. Reports by the competent authority
 
-The competent authority shall complete a report for each check in a format standardised by the appropriate Minister[^key-47655cf701e349323a6d2aa6f0226d6c] setting out at least the following:
+The competent authority shall complete a report for each check in a format standardised by the appropriate Minister[^c-47655cf701e349323a6d2aa6f0226d6c] setting out at least the following:
 
 - ((a)) the reason for selecting the holding for the check;
 - ((b)) the persons present during the check;
@@ -121,7 +121,7 @@ The competent authority shall complete a report for each check in a format stand
 
 The competent authority shall give the keeper or his representative the opportunity to sign the report and, as appropriate, to give his observations on its contents.
 
-## Article 7. Annual reports by the Member State[^key-e8d61c0dfea441762e62605434f5eb8e]
+## Article 7. Annual reports by the Member State[^c-e8d61c0dfea441762e62605434f5eb8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,11 +133,11 @@ It shall apply from 1 January 2007.
 
 [^M_F_ba5a5829-99b4-41c0-9074-5fe6f7588e52]...
 
-## ANNEX — Report on the results of checks made in the ovine and caprine sector regarding requirements for the identification and registration of those animals in accordance with Regulation (EC) No 21/2004[^key-d75c9defd170ac1808764f61328fc3d2]
+## ANNEX — Report on the results of checks made in the ovine and caprine sector regarding requirements for the identification and registration of those animals in accordance with Regulation (EC) No 21/2004[^c-d75c9defd170ac1808764f61328fc3d2]
 
 **No longer in force.**
 
-[^key-d75c9defd170ac1808764f61328fc3d2]1.
+[^c-d75c9defd170ac1808764f61328fc3d2]1.
 
 General information on holdings, animals and checks
 
@@ -145,7 +145,7 @@ General information on holdings, animals and checks
 
 **No longer in force.**
 
-[^key-d75c9defd170ac1808764f61328fc3d2]2.
+[^c-d75c9defd170ac1808764f61328fc3d2]2.
 
 Findings of non-compliance
 
@@ -153,7 +153,7 @@ Findings of non-compliance
 
 **No longer in force.**
 
-[^key-d75c9defd170ac1808764f61328fc3d2]3.
+[^c-d75c9defd170ac1808764f61328fc3d2]3.
 
 Penalties imposed
 
@@ -163,18 +163,18 @@ Penalties imposed
 
 [^f00001]: Footnote: [OJ L 5, 9.1.2004, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.005.01.0008.01.ENG).
 
-[^key-39c91c6e4c6a04728697547d8bc8f079]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2006/1505/article/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39c91c6e4c6a04728697547d8bc8f079]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2006/1505/article/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0be99c89f977e670d9e08e912b42d94a]: Textual amendment: Word in [Art. 2](https://www.legislation.gov.uk/eur/2006/1505/article/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0be99c89f977e670d9e08e912b42d94a]: Textual amendment: Word in [Art. 2](https://www.legislation.gov.uk/eur/2006/1505/article/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d10bba79f2cf1b5c4b2e048d4b0e5ca]: Textual amendment: Words in [Art. 3(g)](https://www.legislation.gov.uk/eur/2006/1505/article/3/g) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d10bba79f2cf1b5c4b2e048d4b0e5ca]: Textual amendment: Words in [Art. 3(g)](https://www.legislation.gov.uk/eur/2006/1505/article/3/g) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a8a15f7e6b09d774946516546ad0eaa]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2006/1505/article/4/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a8a15f7e6b09d774946516546ad0eaa]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2006/1505/article/4/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47655cf701e349323a6d2aa6f0226d6c]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2006/1505/article/6) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(6)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47655cf701e349323a6d2aa6f0226d6c]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2006/1505/article/6) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(6)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8d61c0dfea441762e62605434f5eb8e]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2006/1505/article/7) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(7)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8d61c0dfea441762e62605434f5eb8e]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2006/1505/article/7) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(7)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_ba5a5829-99b4-41c0-9074-5fe6f7588e52]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1505/article/7) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(8)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d75c9defd170ac1808764f61328fc3d2]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2006/1505/annex) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(9)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d75c9defd170ac1808764f61328fc3d2]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2006/1505/annex) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [11(9)](https://www.legislation.gov.uk/uksi/2019/814/regulation/11/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

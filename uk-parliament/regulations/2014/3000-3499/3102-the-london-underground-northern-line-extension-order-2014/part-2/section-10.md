@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Temporary stopping up and diversion of streets[^key-6ca6b73c36014eece2144ef9775c8d77]
+## 10. Temporary stopping up and diversion of streets[^c-6ca6b73c36014eece2144ef9775c8d77]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca6b73c36014eece2144ef9775c8d77]: Commencement: Art. 10 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-6ca6b73c36014eece2144ef9775c8d77]: Commencement: Art. 10 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

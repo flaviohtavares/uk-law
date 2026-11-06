@@ -34,7 +34,7 @@ Children And Young Persons
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Referrals by Courts) (Prescribed Information) Regulations 2010 (revoked)[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Referrals by Courts) (Prescribed Information) Regulations 2010 (revoked)[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]
 
 Made
 
@@ -46,46 +46,46 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]
+## 1. Citation, commencement and interpretation[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Referrals by courts: Prescribed information for the purposes of section 7 of the Act[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]
+## 3. Referrals by courts: Prescribed information for the purposes of section 7 of the Act[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Prescribed information for the purposes of section 7(1) and (3) of the Act[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]
+## SCHEDULE — Prescribed information for the purposes of section 7(1) and (3) of the Act[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]
 
 Regulation 3
 
-**1.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bdc4fcc03a8b48fdcd406ae196abf6d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdc4fcc03a8b48fdcd406ae196abf6d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/182) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
+[^c-bdc4fcc03a8b48fdcd406ae196abf6d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/182) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Factors as to fitness[^key-05d2e6e65d0a9ad15e9e7692fba6a07a]
+## 64. Factors as to fitness[^c-05d2e6e65d0a9ad15e9e7692fba6a07a]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
   - (ii) is subject to an individual voluntary arrangement under the Insolvency Act 1986, to repay the investor's creditors,
   - (iii) has been adjudged bankrupt and has not been discharged from bankruptcy, or
   - (iv) has been sequestrated (that is, sequestration of the investor's estate has been awarded) and the sequestration has not been discharged,
-- (b) the second condition is that the investor is subject to a bankruptcy restrictions order [^key-7e596c14d837d6107f44531f5b0ace95]... under the Bankruptcy (Scotland) Act 1985, the Bankruptcy (Scotland) Act 2016,[^key-b24b04d248fba43dc3fbddba37e7a5c3] the Insolvency Act 1986 or corresponding Northern Ireland legislation,
+- (b) the second condition is that the investor is subject to a bankruptcy restrictions order [^c-7e596c14d837d6107f44531f5b0ace95]... under the Bankruptcy (Scotland) Act 1985, the Bankruptcy (Scotland) Act 2016,[^c-b24b04d248fba43dc3fbddba37e7a5c3] the Insolvency Act 1986 or corresponding Northern Ireland legislation,
 - (c) the third condition is that the investor—
   - (i) is subject to a disqualification order or undertaking under the Company Directors Disqualification Act 1986 or corresponding Northern Ireland legislation,
   - (ii) is disqualified by a court from holding, or otherwise has been removed by a court from, a position of business responsibility (for example, from being a director of a charity),
@@ -59,8 +59,8 @@ would (if they were investors in the licensed provider in their own right) be he
 
 ## Annotations
 
-[^key-05d2e6e65d0a9ad15e9e7692fba6a07a]: Commencement: S. 64 in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-05d2e6e65d0a9ad15e9e7692fba6a07a]: Commencement: S. 64 in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-7e596c14d837d6107f44531f5b0ace95]: Textual amendment: Words in s. 64(3)(b) omitted (30.11.2016) by virtue of [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(3)(a)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/3/a) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7e596c14d837d6107f44531f5b0ace95]: Textual amendment: Words in s. 64(3)(b) omitted (30.11.2016) by virtue of [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(3)(a)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/3/a) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-b24b04d248fba43dc3fbddba37e7a5c3]: Textual amendment: Words in s. 64(3)(b) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(3)(b)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/3/b) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b24b04d248fba43dc3fbddba37e7a5c3]: Textual amendment: Words in s. 64(3)(b) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 26(3)(b)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/26/3/b) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

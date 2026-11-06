@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Producing a psychoactive substance[^key-ce59b6d67163be80100eb38642cab669]
+## 4. Producing a psychoactive substance[^c-ce59b6d67163be80100eb38642cab669]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce59b6d67163be80100eb38642cab669]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/2/section/4) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-ce59b6d67163be80100eb38642cab669]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/2/section/4) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

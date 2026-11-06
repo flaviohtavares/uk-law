@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Interpretation[^key-5afa4034130f59ebb5276915e3548cc2]
+## 72. Interpretation[^c-5afa4034130f59ebb5276915e3548cc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5afa4034130f59ebb5276915e3548cc2]: Commencement: Reg. 72 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-5afa4034130f59ebb5276915e3548cc2]: Commencement: Reg. 72 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

@@ -117,19 +117,19 @@ Section 35.
 
 (2) An annuity contract or policy of insurance is appropriate for the purposes of sub-paragraph (1) if, at the time it is entered into or taken out, the insurer[^c1314482] with which it is entered into or taken out—
 
-- (a) is carrying on [^c1314483]... long-term insurance business in the United Kingdom [^key-e8eeb6b46384c59559e9a26dd66f2f3d]..., and
+- (a) is carrying on [^c1314483]... long-term insurance business in the United Kingdom [^c-e8eeb6b46384c59559e9a26dd66f2f3d]..., and
 - (b) satisfies such requirements as the Secretary of State may prescribe by regulations.
 
 (3)[^c1314484] “Insurer” and “long-term insurance business” have the meaning given in section 180A of the Pension Schemes Act 1993.
 
 ### Disqualification as destination for pension credit
 
-**7.**[^c1314485] (1) If a pension credit derives from a pension arrangement which is a registered pension scheme under section 153 of the Finance Act 2004,[^key-15d1592f2bc3d92d2f5d2fe5fc21ba61] an arrangement is disqualified as a destination for the credit unless—
+**7.**[^c1314485] (1) If a pension credit derives from a pension arrangement which is a registered pension scheme under section 153 of the Finance Act 2004,[^c-15d1592f2bc3d92d2f5d2fe5fc21ba61] an arrangement is disqualified as a destination for the credit unless—
 
-- (a) it is also registered[^key-c185ebccd788d49c562d5fe8d02b3732] for those purposes, or
+- (a) it is also registered[^c-c185ebccd788d49c562d5fe8d02b3732] for those purposes, or
 - (b) it satisfies such requirements as the Secretary of State may prescribe by regulations.
 
-(2)[^key-b5aa248b3beb37a46dc7de06ce694a33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b5aa248b3beb37a46dc7de06ce694a33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An occupational pension scheme is disqualified as a destination for a pension credit unless the rights to be acquired under the arrangement by the person entitled to the credit are rights whose value, when calculated in accordance with regulations made by the Secretary of State, equals the credit.
 
@@ -137,14 +137,14 @@ Section 35.
 
 (5) The requirements which may be prescribed under sub-paragraph (1)(b) include, in particular, requirements of the Inland Revenue.
 
-(6)[^key-b5aa248b3beb37a46dc7de06ce694a33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b5aa248b3beb37a46dc7de06ce694a33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adjustments to amount of pension credit
 
 **8.**[^c1314488] (1) If—
 
 - (a) a pension credit derives from an occupational pension scheme,
-- (b) the scheme is one to which Part 3 of the Pensions Act 2004 (scheme funding)[^key-ce11eb9676b0ea5e57880bca91d96c21] applies,
+- (b) the scheme is one to which Part 3 of the Pensions Act 2004 (scheme funding)[^c-ce11eb9676b0ea5e57880bca91d96c21] applies,
 - (c) the scheme is underfunded on the valuation day, and
 - (d) such circumstances as the Secretary of State may prescribe by regulations apply,
 
@@ -171,7 +171,7 @@ this Schedule shall have effect as if the amount of the corresponding pension cr
 
 **13.**[^c1314494] Regulations under paragraph 5(b) or 7(3) may provide for calculation of the value of rights in accordance with guidance from time to time prepared by a person specified in the regulations.
 
-**13A.**[^key-f48834ce065c13e319054e97369df6f0] The provisions of this Schedule are subject to—
+**13A.**[^c-f48834ce065c13e319054e97369df6f0] The provisions of this Schedule are subject to—
 
 - (a) section 73A(3) and (6) of the Pensions Act 1995 (prohibition on new members during winding up of scheme: exception for discharge of pension credit derived from the scheme), and
 - (b) section 133(2) and (8) of the Pensions Act 2004 (prohibition on new members during an assessment period in relation to a scheme: exception for discharge of pension credit derived from the scheme).
@@ -203,21 +203,21 @@ this Schedule shall have effect as if the amount of the corresponding pension cr
 
 [^c1314483]: Textual amendment: Word in [Sch. 5 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/6/2/a) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [159(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/159/2/b)
 
-[^key-e8eeb6b46384c59559e9a26dd66f2f3d]: Textual amendment: Words in Sch. 5 para. 6(2)(a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8eeb6b46384c59559e9a26dd66f2f3d]: Textual amendment: Words in Sch. 5 para. 6(2)(a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1314484]: Textual amendment: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/6/3) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [159(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/159/3)
 
 [^c1314485]: Commencement: Sch. 5 para. 7 wholly in force at 1.12.2000; Sch. 5 para. 7 in force for certain purposes at Royal Assent see s. 89(1)(5); Sch. 5 para. 7 in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-15d1592f2bc3d92d2f5d2fe5fc21ba61]: Textual amendment: Words in Sch. 5 para. 7(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [15(5)(a)](https://www.legislation.gov.uk/uksi/2006/745/article/15/5/a)
+[^c-15d1592f2bc3d92d2f5d2fe5fc21ba61]: Textual amendment: Words in Sch. 5 para. 7(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [15(5)(a)](https://www.legislation.gov.uk/uksi/2006/745/article/15/5/a)
 
-[^key-c185ebccd788d49c562d5fe8d02b3732]: Textual amendment: Word in Sch. 5 para. 7(1)(a) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [15(5)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/15/5/b)
+[^c-c185ebccd788d49c562d5fe8d02b3732]: Textual amendment: Word in Sch. 5 para. 7(1)(a) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [15(5)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/15/5/b)
 
-[^key-b5aa248b3beb37a46dc7de06ce694a33]: Textual amendment: Sch. 5 para. 7(2) (6) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
+[^c-b5aa248b3beb37a46dc7de06ce694a33]: Textual amendment: Sch. 5 para. 7(2) (6) repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
 
 [^c1314488]: Commencement: Sch. 5 para. 8 wholly in force at 1.12.2000; Sch. 5 para. 8 in force for certain purposes at Royal Assent see s. 89(1)(5); Sch. 5 para. 8 in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-ce11eb9676b0ea5e57880bca91d96c21]: Textual amendment: Words in [Sch. 5 para. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/8/1/b) substituted (4.12.2005 for specified purposes, 30.12.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 77(2)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/77/2); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)
+[^c-ce11eb9676b0ea5e57880bca91d96c21]: Textual amendment: Words in [Sch. 5 para. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/8/1/b) substituted (4.12.2005 for specified purposes, 30.12.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 77(2)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/77/2); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)
 
 [^c1314490]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/9) wholly in force at 1.12.2000; [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/9) in force for certain purposes at Royal Assent see [s. 89(1)(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1/5); [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/9) in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
@@ -229,7 +229,7 @@ this Schedule shall have effect as if the amount of the corresponding pension cr
 
 [^c1314494]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/13) wholly in force at 1.12.2000; [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/13) in force for certain purposes at Royal Assent see [s. 89(1)(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1/5); [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/13) in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-f48834ce065c13e319054e97369df6f0]: Textual amendment: Sch. 5 para. 13A inserted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 77(3)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/77/3); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
+[^c-f48834ce065c13e319054e97369df6f0]: Textual amendment: Sch. 5 para. 13A inserted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 77(3)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/77/3); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
 
 [^c1314495]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/14) wholly in force at 1.12.2000; [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/14) in force for certain purposes at Royal Assent see [s. 89(1)(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1/5); [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/1999/30/schedule/5/paragraph/14) in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 

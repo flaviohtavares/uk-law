@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 47
 
-### PART 1 — STANDARD THEORY TEST PASS CERTIFICATE[^key-f596be2d274783bfa38cb370b3328a01]
+### PART 1 — STANDARD THEORY TEST PASS CERTIFICATE[^c-f596be2d274783bfa38cb370b3328a01]
 
 #### Certificate of passing a theory test
 
@@ -48,4 +48,4 @@ Theory Test Centre \[Number or location of centre\].
 
 ## Annotations
 
-[^key-f596be2d274783bfa38cb370b3328a01]: Textual amendment: Words in Sch. 10 Pt. 1 heading substituted (7.7.2008) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2008 (S.I. 2008/1435)](https://www.legislation.gov.uk/uksi/2008/1435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1435/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2008/1435/regulation/20) (with [reg. 22](https://www.legislation.gov.uk/uksi/2008/1435/regulation/22))
+[^c-f596be2d274783bfa38cb370b3328a01]: Textual amendment: Words in Sch. 10 Pt. 1 heading substituted (7.7.2008) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2008 (S.I. 2008/1435)](https://www.legislation.gov.uk/uksi/2008/1435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1435/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2008/1435/regulation/20) (with [reg. 22](https://www.legislation.gov.uk/uksi/2008/1435/regulation/22))

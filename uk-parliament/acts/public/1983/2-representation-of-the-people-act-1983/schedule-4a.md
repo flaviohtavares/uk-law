@@ -40,16 +40,16 @@ Section 90ZA
 
 **7.** The payment of any deposit required by rule 9 of Schedule 1 to this Act.
 
-**7A.**[^key-1477eda6e2324aeb545cdbcb77f37e9b] (1) Any matter that is reasonably attributable to the candidate’s disability, to the extent that the expenses in respect of the matter are reasonably incurred.
+**7A.**[^c-1477eda6e2324aeb545cdbcb77f37e9b] (1) Any matter that is reasonably attributable to the candidate’s disability, to the extent that the expenses in respect of the matter are reasonably incurred.
 
 (2) In this paragraph “disability”:
 
 - (a) in relation to a candidate standing for election in England, Wales or Scotland, has the same meaning as in section 6 of the Equality Act 2010;
 - (b) in relation to a candidate standing for election in Northern Ireland, has the same meaning as in section 1 of the Disability Discrimination Act 1995.
 
-(3)[^key-c50eb9ab805aebd54f9dc2bdb7f6c1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c50eb9ab805aebd54f9dc2bdb7f6c1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7B.**[^key-8ad7f778c25ca337b7ccbf4982577611] In respect of a local government election in Wales, a matter in respect of which expenses are paid or reimbursed in accordance with the financial assistance scheme established by the Welsh Elections Financial Assistance Scheme (Disabled Candidates) Regulations 2025 ([S.I. 2025/897 (W. 157)](https://www.legislation.gov.uk/wsi/2025/897)) (to the extent that the matter does not fall within paragraph 7A).
+**7B.**[^c-8ad7f778c25ca337b7ccbf4982577611] In respect of a local government election in Wales, a matter in respect of which expenses are paid or reimbursed in accordance with the financial assistance scheme established by the Welsh Elections Financial Assistance Scheme (Disabled Candidates) Regulations 2025 ([S.I. 2025/897 (W. 157)](https://www.legislation.gov.uk/wsi/2025/897)) (to the extent that the matter does not fall within paragraph 7A).
 
 **8.** The publication of any matter, other than an advertisement, relating to the election in—
 
@@ -59,7 +59,7 @@ Section 90ZA
 
 *Extent: W*
 
-**8A.**[^key-9013637ade7cd32f067eaba1bfd9564b] In relation to a local government election in Wales, expenses incurred in respect of, or in consequence of, the translation of anything from Welsh into English or from English into Welsh.
+**8A.**[^c-9013637ade7cd32f067eaba1bfd9564b] In relation to a local government election in Wales, expenses incurred in respect of, or in consequence of, the translation of anything from Welsh into English or from English into Welsh.
 
 **9.** The provision of any facilities provided in pursuance of any right conferred on candidates at an election by this Act other than facilities in respect of which expenses fall to be defrayed by virtue of sections 95(4) and 96(4) above.
 
@@ -77,17 +77,17 @@ Section 90ZA
 
 (2) The provision by any other individual of computing or printing equipment which was acquired by the individual principally for his own personal use if the provision is made free of charge.
 
-**13A.**[^key-d255fd939dc62d69a50ca67b57d58156] [^key-6e77b57b256c2b6c62898b7587c88056]... The protection of persons or property, to the extent that the expenses are reasonably incurred and are reasonably attributable to the protection of persons or property.
+**13A.**[^c-d255fd939dc62d69a50ca67b57d58156] [^c-6e77b57b256c2b6c62898b7587c88056]... The protection of persons or property, to the extent that the expenses are reasonably incurred and are reasonably attributable to the protection of persons or property.
 
 ### Part 3 — Supplemental
 
 #### Guidance by Commission
 
-**14.** (1) The Electoral Commission (“**the Commission**”) may prepare, and from time to time revise, a code of practice for elections other than local government elections in Wales *(Extent: E+W)*[^key-2af42bca070b60284f13c5477a52d2eb] giving—[^c20197211]
+**14.** (1) The Electoral Commission (“**the Commission**”) may prepare, and from time to time revise, a code of practice for elections other than local government elections in Wales *(Extent: E+W)*[^c-2af42bca070b60284f13c5477a52d2eb] giving—[^c20197211]
 
 - (a) guidance as to the matters which do, or do not, fall within Part 1 or Part 2 of this Schedule;
 - (b) guidance (supplementing the definition in section 90ZA(3) above) as to the cases or circumstances in which expenses are, or are not, to be regarded as incurred for the purposes of a candidate’s election;
-- (c)[^key-b64a521b7cdf4d60acdda1a7606cc439] guidance relating to the application of Part 2 of this Act in relation to expenses incurred for the purposes of a candidate’s election (whether or not election expenses).
+- (c)[^c-b64a521b7cdf4d60acdda1a7606cc439] guidance relating to the application of Part 2 of this Act in relation to expenses incurred for the purposes of a candidate’s election (whether or not election expenses).
 
 (2) Once the Commission have prepared a draft code under this paragraph, they must submit it to the Secretary of State for his approval.
 
@@ -107,7 +107,7 @@ before each House of Parliament.
 (7) If no such resolution is made within the 40-day period—
 
 - (a) the Secretary of State must issue the code in the form of the draft laid before Parliament, and
-- (b) the code is to come into force on such date as the Secretary of State may by order made by statutory instrument[^key-6adb6bb0ee75eedf93ba749d54d84baf] appoint,
+- (b) the code is to come into force on such date as the Secretary of State may by order made by statutory instrument[^c-6adb6bb0ee75eedf93ba749d54d84baf] appoint,
 
 and the Commission must arrange for it to be published in such manner as they think appropriate.
 
@@ -124,11 +124,11 @@ no account being taken of any period during which Parliament is dissolved or pro
 
 *Extent: E+W*
 
-**14A.**[^key-8e32e3522b7b965925a4ddf28a528915] (1) The Electoral Commission (“**the Commission**”) may prepare, and from time to time revise, a code of practice for local government elections in Wales giving—
+**14A.**[^c-8e32e3522b7b965925a4ddf28a528915] (1) The Electoral Commission (“**the Commission**”) may prepare, and from time to time revise, a code of practice for local government elections in Wales giving—
 
 - (a) guidance as to the matters which do, or do not, fall within Part 1 or Part 2 of this Schedule;
 - (b) guidance (supplementing the definition in section 90ZA(3)) as to the cases or circumstances in which expenses are, or are not, to be regarded as incurred for the purposes of a candidate's election.
-- (c)[^key-299daf29bc0d85f4337667185155cd3a] guidance relating to the application of Part 2 of this Act in relation to expenses incurred for the purposes of a candidate’s election (whether or not election expenses).
+- (c)[^c-299daf29bc0d85f4337667185155cd3a] guidance relating to the application of Part 2 of this Act in relation to expenses incurred for the purposes of a candidate’s election (whether or not election expenses).
 
 (2) Once the Commission have prepared a draft code under this paragraph, they must submit it to the Welsh Ministers for approval.
 
@@ -143,7 +143,7 @@ no account being taken of any period during which Parliament is dissolved or pro
 (7) If no such resolution is made within the 40-day period—
 
 - (a) the Welsh Ministers must issue the code in the form of the draft laid before Senedd Cymru,
-- (b) the code comes into force on the date appointed by the Welsh Ministers by order made by statutory instrument[^key-df9e8fdaf1187756270b7cec48d72a71], and
+- (b) the code comes into force on the date appointed by the Welsh Ministers by order made by statutory instrument[^c-df9e8fdaf1187756270b7cec48d72a71], and
 - (c) the Commission must arrange for the code to be published in such manner as the Commission think appropriate.
 
 (8) Sub-paragraph (6) does not prevent a new draft code from being laid before Senedd Cymru.
@@ -169,28 +169,28 @@ no account being taken of any period during which Parliament is dissolved or pro
 
 [^c19532141]: Textual amendment: Sch. 4A inserted (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2006/22/section/27/5), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/5) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))
 
-[^key-1477eda6e2324aeb545cdbcb77f37e9b]: Textual amendment: Sch. 4A para. 7A substituted (23.2.2019) by [The Representation of the People (Election Expenses Exclusion) (Amendment) Order 2019 (S.I. 2019/352)](https://www.legislation.gov.uk/uksi/2019/352), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/352/article/1/2), [2](https://www.legislation.gov.uk/uksi/2019/352/article/2)
+[^c-1477eda6e2324aeb545cdbcb77f37e9b]: Textual amendment: Sch. 4A para. 7A substituted (23.2.2019) by [The Representation of the People (Election Expenses Exclusion) (Amendment) Order 2019 (S.I. 2019/352)](https://www.legislation.gov.uk/uksi/2019/352), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/352/article/1/2), [2](https://www.legislation.gov.uk/uksi/2019/352/article/2)
 
-[^key-c50eb9ab805aebd54f9dc2bdb7f6c1e2]: Textual amendment: Sch. 4A para. 7A(3) omitted (W.) (with effect in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Representation of the People (Election Expenses Exclusion) (Wales) (Amendment) Order 2020 (S.I. 2020/1320)](https://www.legislation.gov.uk/wsi/2020/1320), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/1320/article/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2020/1320/article/5/a)
+[^c-c50eb9ab805aebd54f9dc2bdb7f6c1e2]: Textual amendment: Sch. 4A para. 7A(3) omitted (W.) (with effect in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Representation of the People (Election Expenses Exclusion) (Wales) (Amendment) Order 2020 (S.I. 2020/1320)](https://www.legislation.gov.uk/wsi/2020/1320), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/1320/article/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2020/1320/article/5/a)
 
-[^key-8ad7f778c25ca337b7ccbf4982577611]: Textual amendment: Sch. 4A para. 7B inserted (W.) (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Welsh Elections Financial Assistance Scheme (Disabled Candidates) Regulations 2025 (S.I. 2025/897)](https://www.legislation.gov.uk/wsi/2025/897), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/897/regulation/1/2), [16(2)](https://www.legislation.gov.uk/wsi/2025/897/regulation/16/2)
+[^c-8ad7f778c25ca337b7ccbf4982577611]: Textual amendment: Sch. 4A para. 7B inserted (W.) (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Welsh Elections Financial Assistance Scheme (Disabled Candidates) Regulations 2025 (S.I. 2025/897)](https://www.legislation.gov.uk/wsi/2025/897), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/897/regulation/1/2), [16(2)](https://www.legislation.gov.uk/wsi/2025/897/regulation/16/2)
 
-[^key-9013637ade7cd32f067eaba1bfd9564b]: Textual amendment: Sch. 4A para. 8A inserted (W.) (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Representation of the People (Election Expenses Exclusion) (Wales) (Amendment) Order 2020 (S.I. 2020/1320)](https://www.legislation.gov.uk/wsi/2020/1320), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/1320/article/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2020/1320/article/5/b)
+[^c-9013637ade7cd32f067eaba1bfd9564b]: Textual amendment: Sch. 4A para. 8A inserted (W.) (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Representation of the People (Election Expenses Exclusion) (Wales) (Amendment) Order 2020 (S.I. 2020/1320)](https://www.legislation.gov.uk/wsi/2020/1320), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/1320/article/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2020/1320/article/5/b)
 
-[^key-d255fd939dc62d69a50ca67b57d58156]: Textual amendment: Sch. 4A para. 13A inserted (26.3.2024) by [The Representation of the People (Variation of Election Expenses and Exclusions) Regulations 2024 (S.I. 2024/428)](https://www.legislation.gov.uk/uksi/2024/428), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/428/regulation/1/1/b), [4(1)](https://www.legislation.gov.uk/uksi/2024/428/regulation/4/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/428/regulation/6))
+[^c-d255fd939dc62d69a50ca67b57d58156]: Textual amendment: Sch. 4A para. 13A inserted (26.3.2024) by [The Representation of the People (Variation of Election Expenses and Exclusions) Regulations 2024 (S.I. 2024/428)](https://www.legislation.gov.uk/uksi/2024/428), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/428/regulation/1/1/b), [4(1)](https://www.legislation.gov.uk/uksi/2024/428/regulation/4/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/428/regulation/6))
 
-[^key-6e77b57b256c2b6c62898b7587c88056]: Textual amendment: Words in [Sch. 4A para. 13A](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/13A) omitted (13.3.2026) by virtue of [The Representation of the People Act 1983 (Security Expenses Exclusion) (Amendment) (Wales) Order 2026 (W.S.I. 2026/82)](https://www.legislation.gov.uk/wsi/2026/82), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/82/article/1/2), [2](https://www.legislation.gov.uk/wsi/2026/82/article/2) (with [art. 1(3)](https://www.legislation.gov.uk/wsi/2026/82/article/1/3))
+[^c-6e77b57b256c2b6c62898b7587c88056]: Textual amendment: Words in [Sch. 4A para. 13A](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/13A) omitted (13.3.2026) by virtue of [The Representation of the People Act 1983 (Security Expenses Exclusion) (Amendment) (Wales) Order 2026 (W.S.I. 2026/82)](https://www.legislation.gov.uk/wsi/2026/82), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/82/article/1/2), [2](https://www.legislation.gov.uk/wsi/2026/82/article/2) (with [art. 1(3)](https://www.legislation.gov.uk/wsi/2026/82/article/1/3))
 
-[^key-2af42bca070b60284f13c5477a52d2eb]: Textual amendment: Words in [Sch. 4A para. 14(1)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/14/1) inserted (E.W.) (1.10.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(3)(b)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/b), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/anaw/2020/1/schedule/2/paragraph/1/2); [S.I. 2020/1052](https://www.legislation.gov.uk/wsi/2020/1052), [art. 2(b)](https://www.legislation.gov.uk/wsi/2020/1052/article/2/b)
+[^c-2af42bca070b60284f13c5477a52d2eb]: Textual amendment: Words in [Sch. 4A para. 14(1)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/14/1) inserted (E.W.) (1.10.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(3)(b)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/b), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/anaw/2020/1/schedule/2/paragraph/1/2); [S.I. 2020/1052](https://www.legislation.gov.uk/wsi/2020/1052), [art. 2(b)](https://www.legislation.gov.uk/wsi/2020/1052/article/2/b)
 
 [^c20197211]: Textual amendment: Words in Sch. 4A para. 14(1) substituted (21.7.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 22](https://www.legislation.gov.uk/ukpga/2009/12/section/22), [43(1)(5)(d)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1/5/d)
 
-[^key-b64a521b7cdf4d60acdda1a7606cc439]: Textual amendment: [Sch. 4A para. 14(1)(c)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/14/1/c) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/21/1/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-b64a521b7cdf4d60acdda1a7606cc439]: Textual amendment: [Sch. 4A para. 14(1)(c)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/14/1/c) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/21/1/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-6adb6bb0ee75eedf93ba749d54d84baf]: Textual amendment: Words in [Sch. 4A para. 14(7)(b)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/14/7/b) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/21/1/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-6adb6bb0ee75eedf93ba749d54d84baf]: Textual amendment: Words in [Sch. 4A para. 14(7)(b)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/4A/paragraph/14/7/b) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/21/1/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-8e32e3522b7b965925a4ddf28a528915]: Textual amendment: Sch. 4A para. 14A inserted (W.) (1.10.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(3)(b)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/b), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/anaw/2020/1/schedule/2/paragraph/1/3); [S.I. 2020/1052](https://www.legislation.gov.uk/uksi/2020/1052), [art. 2(b)](https://www.legislation.gov.uk/uksi/2020/1052/article/2/b)
+[^c-8e32e3522b7b965925a4ddf28a528915]: Textual amendment: Sch. 4A para. 14A inserted (W.) (1.10.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(3)(b)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/b), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/anaw/2020/1/schedule/2/paragraph/1/3); [S.I. 2020/1052](https://www.legislation.gov.uk/uksi/2020/1052), [art. 2(b)](https://www.legislation.gov.uk/uksi/2020/1052/article/2/b)
 
-[^key-299daf29bc0d85f4337667185155cd3a]: Textual amendment: Sch. 4A para. 14A(1)(c) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 34(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/34/1/a), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 2(i)](https://www.legislation.gov.uk/uksi/2024/1337/article/2/i)
+[^c-299daf29bc0d85f4337667185155cd3a]: Textual amendment: Sch. 4A para. 14A(1)(c) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 34(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/34/1/a), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 2(i)](https://www.legislation.gov.uk/uksi/2024/1337/article/2/i)
 
-[^key-df9e8fdaf1187756270b7cec48d72a71]: Textual amendment: Words in Sch. 4A para. 14A(7)(b) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 34(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/34/1/b), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 2(i)](https://www.legislation.gov.uk/uksi/2024/1337/article/2/i)
+[^c-df9e8fdaf1187756270b7cec48d72a71]: Textual amendment: Words in Sch. 4A para. 14A(7)(b) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 34(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/34/1/b), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 2(i)](https://www.legislation.gov.uk/uksi/2024/1337/article/2/i)

@@ -33,11 +33,11 @@ An Act to make provision about housing, including provision about the social ren
 
 \[24th July 1996\]
 
-[^c13146481][^c13146491]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9e949a08240ea525bc52b58e8b5be87a][^key-a8f72e5d2d6b914d0f175418cf5f4175][^key-53f79dfdf7c39074873f95e463ac23e5]
+[^c13146481][^c13146491]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9e949a08240ea525bc52b58e8b5be87a][^c-a8f72e5d2d6b914d0f175418cf5f4175][^c-53f79dfdf7c39074873f95e463ac23e5]
 
 ## Contents
 
-### Part I — Social Rented Sector regulated by the Welsh Ministers[^c13146501][^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^key-1ff90a6c4d15055fe305f218f8fbffe9][^key-f49d9603922a822edcb932996952335d]
+### Part I — Social Rented Sector regulated by the Welsh Ministers[^c13146501][^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c-1ff90a6c4d15055fe305f218f8fbffe9][^c-f49d9603922a822edcb932996952335d]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 5 — Criteria for registration or removal from register.](part-i/section-5.md)
 - [Section 6 — Appeal against decision on removal.](part-i/section-6.md)
 
-##### Voluntary undertakings (Extent: W)[^key-fcf4763e68b9d8c9ef075fd0c9d749c8]
+##### Voluntary undertakings (Extent: W)[^c-fcf4763e68b9d8c9ef075fd0c9d749c8]
 
 *Extent: E+W*
 
@@ -68,37 +68,37 @@ An Act to make provision about housing, including provision about the social ren
 
 - [Section 7 — Regulation of registered social landlords.](part-i/section-7.md)
 
-#### Chapter 1A — BOARD MEMBERSHIP AND VOTING RIGHTS[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+#### Chapter 1A — BOARD MEMBERSHIP AND VOTING RIGHTS[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
-##### General[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+##### General[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 - [Section 7A — Meaning of key terms used in this Chapter](part-i/section-7a.md)
 
-##### Limit on local authority appointees to board[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+##### Limit on local authority appointees to board[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 - [Section 7B — Limit on local authority appointments to board](part-i/section-7b.md)
 - [Section 7C — Removal of local authority appointees to comply with 24 per cent limit](part-i/section-7c.md)
 - [Section 7D — Procedure for selection by registered social landlord of local authority appointees for removal](part-i/section-7d.md)
 
-##### Quorum and voting rights of board members[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+##### Quorum and voting rights of board members[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 - [Section 7E — Board quorum: no requirement for local authority appointee](part-i/section-7e.md)
 - [Section 7F — Board resolutions: 75 per cent threshold](part-i/section-7f.md)
 
-##### Consent to constitutional change[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+##### Consent to constitutional change[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 - [Section 7G — Constitutional changes: no requirement for local authority consent and no power of veto](part-i/section-7g.md)
 
-##### Voting rights of members of registered social landlord[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+##### Voting rights of members of registered social landlord[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 - [Section 7H — Voting rights of local authorities](part-i/section-7h.md)
 - [Section 7I — Provision in agreements that is to be treated as having no effect](part-i/section-7i.md)
 
-##### Wholly controlled subsidiaries: power to disapply this Chapter[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+##### Wholly controlled subsidiaries: power to disapply this Chapter[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 - [Section 7J — Power to disapply provisions of this Chapter](part-i/section-7j.md)
 
-#### Chapter II — Disposal of land and related matters[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^key-ab26a89f44f0ff3e05233d95d1fe300c]
+#### Chapter II — Disposal of land and related matters[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c-ab26a89f44f0ff3e05233d95d1fe300c]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,7 +108,7 @@ An Act to make provision about housing, including provision about the social ren
 
 - [Section 8 — Power of registered social landlord to dispose of land.](part-i/section-8.md)
 
-##### Requirements relating to land transactions[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^key-93fcbe923c68808e07cc6575dbf2a022]
+##### Requirements relating to land transactions[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c-93fcbe923c68808e07cc6575dbf2a022]
 
 *Extent: E+W*
 
@@ -163,7 +163,7 @@ An Act to make provision about housing, including provision about the social ren
 
 - [Section 27 — Recovery, &c. of social housing grants.](part-i/section-27.md)
 
-##### Grants to bodies other than registered social landlords[^key-ff3d159ccc49b49653d36b12e2922301]
+##### Grants to bodies other than registered social landlords[^c-ff3d159ccc49b49653d36b12e2922301]
 
 - [Section 27A — Grants to bodies other than registered social landlords](part-i/section-27a.md)
 - [Section 27B — Transfer of property funded by grants under section 27A](part-i/section-27b.md)
@@ -196,7 +196,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 34 — Standards of performance – housing in England .](part-i/section-34.md)
 - [Section 35 — Information as to levels of performance.](part-i/section-35.md)
 
-##### Complaints about performance (Extent: W)[^key-06439ffe679d8a6a1ebe51f569aea898]
+##### Complaints about performance (Extent: W)[^c-06439ffe679d8a6a1ebe51f569aea898]
 
 *Extent: E+W*
 
@@ -229,16 +229,16 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 49 — Assistance by the Welsh Ministers.](part-i/section-49.md)
 - [Section 50 — Application to court to secure compliance with agreed proposals.](part-i/section-50.md)
 
-#### CHAPTER 4A — ENFORCEMENT POWERS[^key-018cf7b3de5328cdabcef5d3344ad6ab]
+#### CHAPTER 4A — ENFORCEMENT POWERS[^c-018cf7b3de5328cdabcef5d3344ad6ab]
 
 *Extent: E+W*
 
-##### General (Extent: E+W)[^key-018cf7b3de5328cdabcef5d3344ad6ab]
+##### General (Extent: E+W)[^c-018cf7b3de5328cdabcef5d3344ad6ab]
 
 - [Section 50A — Application of Chapter 4A](part-i/section-50a.md)
 - [Section 50B — Exercise of enforcement powers](part-i/section-50b.md)
 
-##### Enforcement notice (Extent: W)[^key-4cd2e9e2f6fb75c074b158d2dab530ec]
+##### Enforcement notice (Extent: W)[^c-4cd2e9e2f6fb75c074b158d2dab530ec]
 
 *Extent: E+W*
 
@@ -248,7 +248,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 50F — Withdrawal](part-i/section-50f.md)
 - [Section 50G — Sanction](part-i/section-50g.md)
 
-##### Penalty (Extent: W)[^key-fc18597ad50ad4f79789b89d008b0c1a]
+##### Penalty (Extent: W)[^c-fc18597ad50ad4f79789b89d008b0c1a]
 
 *Extent: E+W*
 
@@ -260,7 +260,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 50M — Enforcement](part-i/section-50m.md)
 - [Section 50N — Appeal](part-i/section-50n.md)
 
-##### Compensation (Extent: W)[^key-39816a421eadf3232720efa6b5b834b0]
+##### Compensation (Extent: W)[^c-39816a421eadf3232720efa6b5b834b0]
 
 *Extent: E+W*
 
@@ -277,7 +277,7 @@ An Act to make provision about housing, including provision about the social ren
 
 *Extent: E+W+S+N.I.*
 
-##### Housing ombudsman[^key-78d0cb4395fc6390ca1e3d041d66470f]
+##### Housing ombudsman[^c-78d0cb4395fc6390ca1e3d041d66470f]
 
 *Extent: E+W*
 
@@ -385,7 +385,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 92 — Procedure for exercise of rights of first refusal.](part-iii/section-92.md)
 - [Section 93 — Duty of new landlord to inform tenant of rights.](part-iii/section-93.md)
 
-##### General advice etc.[^key-88e2deea69c9a1c260a436e0d3e85993]
+##### General advice etc.[^c-88e2deea69c9a1c260a436e0d3e85993]
 
 *Extent: E+W*
 
@@ -463,7 +463,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 118 — Estate management schemes in connection with enfranchisement by virtue of s. 106.](part-iii/section-118.md)
 - [Section 119 — Leasehold valuation tribunals: pre-trial review.](part-iii/section-119.md)
 
-### Part IV — Universal Credit, Housing benefit and related matters[^key-954bdfa783b78a7d9310c58ad6f3a287]
+### Part IV — Universal Credit, Housing benefit and related matters[^c-954bdfa783b78a7d9310c58ad6f3a287]
 
 *Extent: E+W+S*
 
@@ -476,7 +476,7 @@ An Act to make provision about housing, including provision about the social ren
 
 *Extent: E+W*
 
-#### Chapter I — Introductory Tenancies : England[^key-5d5764ce1b2d85c4446f8b188aa8e0e9]
+#### Chapter I — Introductory Tenancies : England[^c-5d5764ce1b2d85c4446f8b188aa8e0e9]
 
 *Extent: E+W*
 
@@ -516,7 +516,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 136 — Provision of information about tenancies.](part-v/section-136.md)
 - [Section 137 — Consultation on matters of housing management.](part-v/section-137.md)
 
-##### Introductory tenancies that are to become flexible tenancies[^key-5b0d751e28154dafc1262298d44dbae0]
+##### Introductory tenancies that are to become flexible tenancies[^c-5b0d751e28154dafc1262298d44dbae0]
 
 - [Section 137A — Introductory tenancies that are to become flexible tenancies](part-v/section-137a.md)
 
@@ -529,131 +529,131 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 142 — Regulations and orders.](part-v/section-142.md)
 - [Section 143 — Index of defined expressions: introductory tenancies.](part-v/section-143.md)
 
-#### Chapter 1A[^key-cfd9b1862ed38760054708aa094bfd0b]
+#### Chapter 1A[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-##### General provisions[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### General provisions[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-###### Demoted tenancies : England[^key-cfd9b1862ed38760054708aa094bfd0b][^key-8f7570c9d188abd22c4b4089f035b8cd]
+###### Demoted tenancies : England[^c-cfd9b1862ed38760054708aa094bfd0b][^c-8f7570c9d188abd22c4b4089f035b8cd]
 
 *Extent: E+W*
 
 - [Section 143A — Demoted tenancies](part-v/section-143a.md)
 
-###### Duration of demoted tenancy[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Duration of demoted tenancy[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143B — Duration of demoted tenancy](part-v/section-143b.md)
 
-###### Change of landlord[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Change of landlord[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143C — Change of landlord](part-v/section-143c.md)
 
-##### Proceedings for possession[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### Proceedings for possession[^c-cfd9b1862ed38760054708aa094bfd0b]
 
-###### Proceedings for possession[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Proceedings for possession[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143D — Proceedings for possession](part-v/section-143d.md)
 
-###### Notice of proceedings for possession[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Notice of proceedings for possession[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143E — Notice of proceedings for possession](part-v/section-143e.md)
 
-###### Review of decision to seek possession[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Review of decision to seek possession[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143F — Review of decision to seek possession](part-v/section-143f.md)
 
-###### Effect of proceedings for possession[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Effect of proceedings for possession[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143G — Effect of proceedings for possession](part-v/section-143g.md)
 
-##### Succession[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### Succession[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-###### Succession to demoted tenancy[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Succession to demoted tenancy[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143H — Succession to demoted tenancy](part-v/section-143h.md)
 
-###### No successor tenant: termination[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### No successor tenant: termination[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143I — No successor tenant: termination](part-v/section-143i.md)
 
-###### Successor tenants[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Successor tenants[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143J — Successor tenants](part-v/section-143j.md)
 
-##### Assignment[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### Assignment[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-###### Restriction on assignment[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Restriction on assignment[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143K — Restriction on assignment](part-v/section-143k.md)
 
-##### Repairs[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### Repairs[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-###### Right to carry out repairs[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Right to carry out repairs[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143L — Right to carry out repairs](part-v/section-143l.md)
 
-##### Provision of information[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### Provision of information[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-###### Provision of information[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Provision of information[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143M — Provision of information](part-v/section-143m.md)
 
-##### Demoted tenancies that are to become flexible tenancies[^key-79ff5dbf3417972cff48a3c7022de1a7]
+##### Demoted tenancies that are to become flexible tenancies[^c-79ff5dbf3417972cff48a3c7022de1a7]
 
 - [Section 143MA — Demoted tenancies that are to become flexible tenancies](part-v/section-143ma.md)
 
-##### Supplementary[^key-cfd9b1862ed38760054708aa094bfd0b]
+##### Supplementary[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
-###### Jurisdiction of county court[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Jurisdiction of county court[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143N — Jurisdiction of county court](part-v/section-143n.md)
 
-###### Meaning of dwelling house[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Meaning of dwelling house[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
 - [Section 143O — Meaning of dwelling house](part-v/section-143o.md)
 
-###### Members of a person’s family[^key-cfd9b1862ed38760054708aa094bfd0b]
+###### Members of a person’s family[^c-cfd9b1862ed38760054708aa094bfd0b]
 
 *Extent: E+W*
 
@@ -696,7 +696,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 157 — Powers of arrest: supplementary provisions.](part-v/section-157.md)
 - [Section 158 — Interpretation: Chapter III.](part-v/section-158.md)
 
-### Part VI — Allocation of housing accommodation[^c13152571][^key-ca0bca967355ea196f92e5f5dfe138f1]
+### Part VI — Allocation of housing accommodation[^c13152571][^c-ca0bca967355ea196f92e5f5dfe138f1]
 
 *Extent: E+W*
 
@@ -728,7 +728,7 @@ An Act to make provision about housing, including provision about the social ren
 
 - [Section 166 — Applications for housing accommodation](part-vi/section-166.md)
 
-#### Allocation schemes[^key-b6e4f9e7373cc54c9c42d4e2053657cd]
+#### Allocation schemes[^c-b6e4f9e7373cc54c9c42d4e2053657cd]
 
 *Extent: E+W*
 
@@ -747,7 +747,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 173 — Consequential amendments: Part VI.](part-vi/section-173.md)
 - [Section 174 — Index of defined expressions: Part VI.](part-vi/section-174.md)
 
-### Part VII — Homelessness: England[^c13153111][^key-7c6b9c1c1b76493bf82450bc45568cb0]
+### Part VII — Homelessness: England[^c13153111][^c-7c6b9c1c1b76493bf82450bc45568cb0]
 
 *Extent: E+W*
 
@@ -791,7 +791,7 @@ An Act to make provision about housing, including provision about the social ren
 - [Section 188 — Interim duty to accommodate in case of apparent priority need.](part-vii/section-188.md)
 - [Section 189 — Priority need for accommodation.](part-vii/section-189.md)
 
-#### Duty to assess every eligible applicant's case and agree a plan[^key-809d9ccfd1b3f607f6f7b94571e6ff05]
+#### Duty to assess every eligible applicant's case and agree a plan[^c-809d9ccfd1b3f607f6f7b94571e6ff05]
 
 - [Section 189A — Assessments and personalised plan](part-vii/section-189a.md)
 
@@ -933,57 +933,57 @@ SCHEDULES
 
     Act: power to modify conferred (E.W.S) (2.4.2001) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2000/39/section/7/2); [S.I. 2001/766](https://www.legislation.gov.uk/uksi/2001/766), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/766/article/2/1/a)
 
-[^key-9e949a08240ea525bc52b58e8b5be87a]: Modification: Act modified (E.W) (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/1/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-9e949a08240ea525bc52b58e8b5be87a]: Modification: Act modified (E.W) (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/1/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
-[^key-a8f72e5d2d6b914d0f175418cf5f4175]: Modification: Act: transfer of functions (E.W.) (1.12.2008 for specified purposes) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/2839/article/2)
+[^c-a8f72e5d2d6b914d0f175418cf5f4175]: Modification: Act: transfer of functions (E.W.) (1.12.2008 for specified purposes) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/2839/article/2)
 
-[^key-53f79dfdf7c39074873f95e463ac23e5]: Modification: Act modified (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-53f79dfdf7c39074873f95e463ac23e5]: Modification: Act modified (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
 [^c13146501]: Modification: Part I (ss. 1-64) amended (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art.3](https://www.legislation.gov.uk/uksi/1996/2325/article/3)
 
 [^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8]: Modification: Pt. 1: The system of "registered social landlords" under this Part is replaced (8.9.2008 for specified purposes and 1.12.2008, 16.2.2009, 1.4.2009, 7.9.2009 and 1.4.2010 for further purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), Pt. 2. This Part continues to apply in relation to Wales with certain provisions applied in relation to England and certain provisions preserved although they apply to England only, see s. 60 of the affecting Act; [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), art. 3; [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), art. 3 (with arts. 6-13); [S.I. 2009/363](https://www.legislation.gov.uk/uksi/2009/363), art. 2; [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), art. 7; [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), art. 2(1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2 (with Sch.)
 
-[^key-1ff90a6c4d15055fe305f218f8fbffe9]: Textual amendment: Pt. I title substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/1), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-1ff90a6c4d15055fe305f218f8fbffe9]: Textual amendment: Pt. I title substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/1), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-f49d9603922a822edcb932996952335d]: Textual amendment: Words in Pt. I title substituted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [s. 90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2), [Sch. para. 2](https://www.legislation.gov.uk/mwa/2011/5/schedule/paragraph/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(u)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/u)
+[^c-f49d9603922a822edcb932996952335d]: Textual amendment: Words in Pt. I title substituted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [s. 90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2), [Sch. para. 2](https://www.legislation.gov.uk/mwa/2011/5/schedule/paragraph/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(u)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/u)
 
-[^key-fcf4763e68b9d8c9ef075fd0c9d749c8]: Textual amendment: S. 6A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 41](https://www.legislation.gov.uk/mwa/2011/5/section/41), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/f)
+[^c-fcf4763e68b9d8c9ef075fd0c9d749c8]: Textual amendment: S. 6A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 41](https://www.legislation.gov.uk/mwa/2011/5/section/41), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/f)
 
-[^key-09e5fa82a1d7ee00004e9e094e2424a3]: Textual amendment: [Pt. I Ch. 1A](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/1A) inserted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
+[^c-09e5fa82a1d7ee00004e9e094e2424a3]: Textual amendment: [Pt. I Ch. 1A](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/1A) inserted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
 
-[^key-ab26a89f44f0ff3e05233d95d1fe300c]: Textual amendment: Pt. 1: The system of "registered social landlords" under this Part is replaced (8.9.2008 for specified purposes and 1.12.2008, 16.2.2009, 1.4.2009, 7.9.2009 and 1.4.2010 for further purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), Pt. 2. This Part continues to apply in relation to Wales with certain provisions applied in relation to England and certain provisions preserved although they apply to England only, see s. 60 of the affecting Act; [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), art. 3; [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), art. 3 (with arts. 6-13); [S.I. 2009/363](https://www.legislation.gov.uk/uksi/2009/363), art. 2; [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), art. 7; [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), art. 2(1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2 (with Sch.)
+[^c-ab26a89f44f0ff3e05233d95d1fe300c]: Textual amendment: Pt. 1: The system of "registered social landlords" under this Part is replaced (8.9.2008 for specified purposes and 1.12.2008, 16.2.2009, 1.4.2009, 7.9.2009 and 1.4.2010 for further purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), Pt. 2. This Part continues to apply in relation to Wales with certain provisions applied in relation to England and certain provisions preserved although they apply to England only, see s. 60 of the affecting Act; [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), art. 3; [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), art. 3 (with arts. 6-13); [S.I. 2009/363](https://www.legislation.gov.uk/uksi/2009/363), art. 2; [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), art. 7; [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), art. 2(1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2 (with Sch.)
 
-[^key-93fcbe923c68808e07cc6575dbf2a022]: Textual amendment: Words in [s. 9 cross-heading](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/II/crossheading/control-by-corporation-of-land-transactions) substituted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/4); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-93fcbe923c68808e07cc6575dbf2a022]: Textual amendment: Words in [s. 9 cross-heading](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/II/crossheading/control-by-corporation-of-land-transactions) substituted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/4); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
 
-[^key-ff3d159ccc49b49653d36b12e2922301]: Textual amendment: Ss. 27A, 27B and cross-heading inserted (18.11.2004 for specified purposes, 17.2.2005 for E. in so far as not already in force) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 220](https://www.legislation.gov.uk/ukpga/2004/34/section/220), [270(2)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/2/b); [S.I. 2005/326](https://www.legislation.gov.uk/uksi/2005/326), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/326/article/2/a)
+[^c-ff3d159ccc49b49653d36b12e2922301]: Textual amendment: Ss. 27A, 27B and cross-heading inserted (18.11.2004 for specified purposes, 17.2.2005 for E. in so far as not already in force) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 220](https://www.legislation.gov.uk/ukpga/2004/34/section/220), [270(2)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/2/b); [S.I. 2005/326](https://www.legislation.gov.uk/uksi/2005/326), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/326/article/2/a)
 
 [^c13148801]: Textual amendment: Words in Pt. I substituted (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [Sch. 16 para. 82(1)(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/82/1/2) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art.5](https://www.legislation.gov.uk/uksi/1998/2244/article/5).
 
-[^key-06439ffe679d8a6a1ebe51f569aea898]: Textual amendment: S. 35A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 39](https://www.legislation.gov.uk/mwa/2011/5/section/39), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/d)
+[^c-06439ffe679d8a6a1ebe51f569aea898]: Textual amendment: S. 35A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 39](https://www.legislation.gov.uk/mwa/2011/5/section/39), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/d)
 
-[^key-018cf7b3de5328cdabcef5d3344ad6ab]: Textual amendment: Pt. I Ch. 4A and s. 50A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 50](https://www.legislation.gov.uk/mwa/2011/5/section/50), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)
+[^c-018cf7b3de5328cdabcef5d3344ad6ab]: Textual amendment: Pt. I Ch. 4A and s. 50A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 50](https://www.legislation.gov.uk/mwa/2011/5/section/50), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)
 
-[^key-4cd2e9e2f6fb75c074b158d2dab530ec]: Textual amendment: S. 50C and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 52](https://www.legislation.gov.uk/mwa/2011/5/section/52), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(i)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/i), [3(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/e)
+[^c-4cd2e9e2f6fb75c074b158d2dab530ec]: Textual amendment: S. 50C and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 52](https://www.legislation.gov.uk/mwa/2011/5/section/52), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(i)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/i), [3(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/e)
 
-[^key-fc18597ad50ad4f79789b89d008b0c1a]: Textual amendment: S. 50H and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 57](https://www.legislation.gov.uk/mwa/2011/5/section/57), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(k)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/k), [3(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/f)
+[^c-fc18597ad50ad4f79789b89d008b0c1a]: Textual amendment: S. 50H and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 57](https://www.legislation.gov.uk/mwa/2011/5/section/57), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(k)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/k), [3(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/f)
 
-[^key-39816a421eadf3232720efa6b5b834b0]: Textual amendment: S. 50O and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(m)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/m), [3(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/g)
+[^c-39816a421eadf3232720efa6b5b834b0]: Textual amendment: S. 50O and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(m)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/m), [3(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/g)
 
-[^key-78d0cb4395fc6390ca1e3d041d66470f]: Textual amendment: Word in [s. 51 cross-heading](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/V/crossheading/housing-complaints) substituted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/41/2), [46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)
+[^c-78d0cb4395fc6390ca1e3d041d66470f]: Textual amendment: Word in [s. 51 cross-heading](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/V/crossheading/housing-complaints) substituted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/41/2), [46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)
 
-[^key-88e2deea69c9a1c260a436e0d3e85993]: Textual amendment: Words in s. 94 cross-heading substituted (22.9.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 312(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/312/2), [325(2)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/2/a)
+[^c-88e2deea69c9a1c260a436e0d3e85993]: Textual amendment: Words in s. 94 cross-heading substituted (22.9.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 312(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/312/2), [325(2)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/2/a)
 
-[^key-954bdfa783b78a7d9310c58ad6f3a287]: Textual amendment: Words in [Pt. IV](https://www.legislation.gov.uk/ukpga/1996/52/part/IV) heading inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/12/2)
+[^c-954bdfa783b78a7d9310c58ad6f3a287]: Textual amendment: Words in [Pt. IV](https://www.legislation.gov.uk/ukpga/1996/52/part/IV) heading inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/12/2)
 
-[^key-5d5764ce1b2d85c4446f8b188aa8e0e9]: Textual amendment: Word in [Pt. 5 Ch. 1](https://www.legislation.gov.uk/ukpga/1996/52/part/5/chapter/1) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/25/3) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 4-7](https://www.legislation.gov.uk/uksi/2022/1172/regulation/4), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-5d5764ce1b2d85c4446f8b188aa8e0e9]: Textual amendment: Word in [Pt. 5 Ch. 1](https://www.legislation.gov.uk/ukpga/1996/52/part/5/chapter/1) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/25/3) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 4-7](https://www.legislation.gov.uk/uksi/2022/1172/regulation/4), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
-[^key-5b0d751e28154dafc1262298d44dbae0]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/1996/52/section/137A) and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-5b0d751e28154dafc1262298d44dbae0]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/1996/52/section/137A) and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-cfd9b1862ed38760054708aa094bfd0b]: Textual amendment: Pt. 5 Ch. 1A inserted (30.6.2004 for E., 30.9.2004 for W. for specified purposes, 30.4.2005 for W. so far as not already in force) by [Anti Social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [s. 93](https://www.legislation.gov.uk/ukpga/2003/38/section/93), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1); [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/iii); [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/ii); [S.I. 2005/1225](https://www.legislation.gov.uk/uksi/2005/1225), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/1225/article/2/b)
+[^c-cfd9b1862ed38760054708aa094bfd0b]: Textual amendment: Pt. 5 Ch. 1A inserted (30.6.2004 for E., 30.9.2004 for W. for specified purposes, 30.4.2005 for W. so far as not already in force) by [Anti Social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [s. 93](https://www.legislation.gov.uk/ukpga/2003/38/section/93), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1); [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/iii); [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/ii); [S.I. 2005/1225](https://www.legislation.gov.uk/uksi/2005/1225), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/1225/article/2/b)
 
-[^key-8f7570c9d188abd22c4b4089f035b8cd]: Textual amendment: Word in [Pt. 5 Ch. 1A](https://www.legislation.gov.uk/ukpga/1996/52/part/5/chapter/1A) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [25(7)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/25/7) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 4-7](https://www.legislation.gov.uk/uksi/2022/1172/regulation/4), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-8f7570c9d188abd22c4b4089f035b8cd]: Textual amendment: Word in [Pt. 5 Ch. 1A](https://www.legislation.gov.uk/ukpga/1996/52/part/5/chapter/1A) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [25(7)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/25/7) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 4-7](https://www.legislation.gov.uk/uksi/2022/1172/regulation/4), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
-[^key-79ff5dbf3417972cff48a3c7022de1a7]: Textual amendment: [S. 143MA](https://www.legislation.gov.uk/ukpga/1996/52/section/143MA) and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/7), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-79ff5dbf3417972cff48a3c7022de1a7]: Textual amendment: [S. 143MA](https://www.legislation.gov.uk/ukpga/1996/52/section/143MA) and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/7), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c13152571]: Modification: Pt. VI excluded (20.1.1997) by [S.I. 1996/2753](https://www.legislation.gov.uk/uksi/1996/2753), [reg. 3](https://www.legislation.gov.uk/uksi/1996/2753/regulation/3)
 
@@ -995,13 +995,13 @@ SCHEDULES
 
     Pt. VI excluded (E.) (31.1.2003) by [The Allocation of Housing (England) Regulations 2003 (S.I. 2002/3264)](https://www.legislation.gov.uk/uksi/2003/3264), [reg. 3](https://www.legislation.gov.uk/uksi/2003/3264/regulation/3)
 
-[^key-ca0bca967355ea196f92e5f5dfe138f1]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1996/52/part/VI) modified (1.12.2014 for specified purposes, 1.2.2016 for E. in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2/2); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m); [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-ca0bca967355ea196f92e5f5dfe138f1]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1996/52/part/VI) modified (1.12.2014 for specified purposes, 1.2.2016 for E. in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2/2); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m); [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
 [^c13152661]: Textual amendment: S. 160A and cross-heading inserted (5.12.2002 for the purpose of making regulations and 31.1.2003 otherwise, E.; 27.1.2003 for W.) by [2002 c. 7](https://www.legislation.gov.uk/ukpga/2002/7), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2002/7/section/14/2) (with [s. 20(4)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/4)); [S.I. 2002/3114](https://www.legislation.gov.uk/uksi/2002/3114), [arts. 2](https://www.legislation.gov.uk/uksi/2002/3114/article/2), [3](https://www.legislation.gov.uk/uksi/2002/3114/article/3); [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/2)
 
 [^c13152971]: Textual amendment: S. 166 and cross-heading substituted (27.1.2003 for W. and 31.1.2003 for E.) for s. 166 by [2002 c. 7](https://www.legislation.gov.uk/ukpga/2002/7), [s. 15](https://www.legislation.gov.uk/ukpga/2002/7/section/15) (with [s. 20(4)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/4)); [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/2); [S.I. 2002/3114](https://www.legislation.gov.uk/uksi/2002/3114), [art. 3](https://www.legislation.gov.uk/uksi/2002/3114/article/3)
 
-[^key-b6e4f9e7373cc54c9c42d4e2053657cd]: Textual amendment: S. 167 cross-heading substituted (15.1.2012 for specified purposes, 18.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 147(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
+[^c-b6e4f9e7373cc54c9c42d4e2053657cd]: Textual amendment: S. 167 cross-heading substituted (15.1.2012 for specified purposes, 18.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 147(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
 
 [^c13153111]: Modification: Pt. VII (ss. 175-218) modified (20.1.1997) by [S.I. 1996/3205](https://www.legislation.gov.uk/uksi/1996/3205), [art. 3](https://www.legislation.gov.uk/uksi/1996/3205/article/3), [Sch.2](https://www.legislation.gov.uk/uksi/1996/3205/schedule/2)
 
@@ -1009,8 +1009,8 @@ SCHEDULES
 
     Pt. VII (ss. 175-218): power to apply (with modifications) (transitional provision) (11.11.1999) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/2), [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/13)
 
-[^key-7c6b9c1c1b76493bf82450bc45568cb0]: Textual amendment: Words in Pt. VII title inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/4); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-7c6b9c1c1b76493bf82450bc45568cb0]: Textual amendment: Words in Pt. VII title inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/4); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-809d9ccfd1b3f607f6f7b94571e6ff05]: Textual amendment: S. 189A and cross-heading inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/3/1), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/c)
+[^c-809d9ccfd1b3f607f6f7b94571e6ff05]: Textual amendment: S. 189A and cross-heading inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/3/1), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/c)
 
 [^c13154941]: Extent: For extent of Part VIII, see s. 231(2)-(4)

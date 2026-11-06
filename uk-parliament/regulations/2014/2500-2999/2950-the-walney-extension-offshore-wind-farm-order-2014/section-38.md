@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Saving for Trinity House[^key-c5c9a090ad1cef83441a4fff8d701d57]
+## 38. Saving for Trinity House[^c-c5c9a090ad1cef83441a4fff8d701d57]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-c5c9a090ad1cef83441a4fff8d701d57]: Commencement: Art. 38 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-c5c9a090ad1cef83441a4fff8d701d57]: Commencement: Art. 38 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

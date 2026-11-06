@@ -43,7 +43,7 @@ Section 110.
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**4.**[^key-598de3b10379a9295fc1514e133ac961][^key-f37f7293c3379aa9db7942553e85b35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-598de3b10379a9295fc1514e133ac961][^c-f37f7293c3379aa9db7942553e85b35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
 
@@ -51,7 +51,7 @@ Section 110.
 
 ### The Employment Rights (Northern Ireland) Order 1996 (NI 16)
 
-**6.**[^key-57affce37f767bae99544d7474230843] In Article 78(2) for sub-paragraph (f) substitute—
+**6.**[^c-57affce37f767bae99544d7474230843] In Article 78(2) for sub-paragraph (f) substitute—
 
 > - (f) a policing and community safety partnership or a district policing and community partnership,
 
@@ -59,11 +59,11 @@ Section 110.
 
 ### The Criminal Evidence (Northern Ireland) Order 1999 (NI 8)
 
-**7.**[^key-3650fe659012afe0ccf4e3d62d5c6a48] In Article 15(5) (consequences of admitting video recording) in sub-paragraph (a)(i) for “otherwise than by testimony in court” substitute “ in any recording admissible under Article 16 ”.
+**7.**[^c-3650fe659012afe0ccf4e3d62d5c6a48] In Article 15(5) (consequences of admitting video recording) in sub-paragraph (a)(i) for “otherwise than by testimony in court” substitute “ in any recording admissible under Article 16 ”.
 
 ### The Police (Northern Ireland) Act 2000 (c. 32)
 
-**8.**[^key-75814c7c88ab7544db3a04655899b0a4] (1) In section 22(3) for “district policing partnership” substitute “ policing and community safety partnership ”.
+**8.**[^c-75814c7c88ab7544db3a04655899b0a4] (1) In section 22(3) for “district policing partnership” substitute “ policing and community safety partnership ”.
 
 (2) In section 22(3A) for “sub-group established for the district under section 21” substitute “ district policing and community safety partnership ”.
 
@@ -95,11 +95,11 @@ Section 110.
 
 ### The Freedom of Information Act 2000 (c. 36)
 
-**9.**[^key-78beced426f74dd7e561842932b043a6] In Part 7 of Schedule 1 at the appropriate place in alphabetical order insert— “ A policing and community safety partnership or a district policing and community safety partnership established under Part 3 of the Justice (Northern Ireland) Act 2011. ”.
+**9.**[^c-78beced426f74dd7e561842932b043a6] In Part 7 of Schedule 1 at the appropriate place in alphabetical order insert— “ A policing and community safety partnership or a district policing and community safety partnership established under Part 3 of the Justice (Northern Ireland) Act 2011. ”.
 
 ### The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002 (NI 3)
 
-**10.**[^key-0ad3a126b81a845e7ee883c76be763ed] (1) In Article 9(1)—
+**10.**[^c-0ad3a126b81a845e7ee883c76be763ed] (1) In Article 9(1)—
 
 - (a) omit sub-paragraph (a);
 - (b) in sub-paragraph (b) for “such a partnership” substitute “ a policing and community safety partnership or district policing and community safety partnership established by it ”.
@@ -118,7 +118,7 @@ Section 110.
 
 ### The Anti-social Behaviour (Northern Ireland) Order 2004 (NI 12)
 
-**13.**[^key-638c0194621e569e9e04f56d1dc9c643] In Article 6C(3) (special measures for witnesses: modifications of Part 2 of the Criminal Evidence (Northern Ireland) Order 1999)—
+**13.**[^c-638c0194621e569e9e04f56d1dc9c643] In Article 6C(3) (special measures for witnesses: modifications of Part 2 of the Criminal Evidence (Northern Ireland) Order 1999)—
 
 - (a) in sub-paragraph (b) for “Article 9(1)(b) and (5) to (7)” substitute “ Article 9(4C)(e) ”, and
 - (b) for sub-paragraph (c) substitute—
@@ -129,7 +129,7 @@ Section 110.
 
 ### The Criminal Justice (Northern Ireland) Order 2008 (NI 1)
 
-**14.**[^key-4489327a3a2e5e02c804ed719c645996] In Schedule 3 (supervised activity orders) in paragraph 1(a) after “order” (in the second place where it occurs) insert “ and the notice has not been withdrawn ”.
+**14.**[^c-4489327a3a2e5e02c804ed719c645996] In Schedule 3 (supervised activity orders) in paragraph 1(a) after “order” (in the second place where it occurs) insert “ and the notice has not been withdrawn ”.
 
 ### The Sexual Offences (Northern Ireland) Order 2008 (NI 2)
 
@@ -142,20 +142,20 @@ Section 110.
 
 ## Annotations
 
-[^key-598de3b10379a9295fc1514e133ac961]: Textual amendment: Sch. 7 para. 4 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-598de3b10379a9295fc1514e133ac961]: Textual amendment: Sch. 7 para. 4 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-f37f7293c3379aa9db7942553e85b35e]: Commencement: Sch. 7 para. 4 in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
+[^c-f37f7293c3379aa9db7942553e85b35e]: Commencement: Sch. 7 para. 4 in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
 
-[^key-57affce37f767bae99544d7474230843]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
+[^c-57affce37f767bae99544d7474230843]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
 
-[^key-3650fe659012afe0ccf4e3d62d5c6a48]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/7) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(h)](https://www.legislation.gov.uk/nisr/2011/370/article/3/h)
+[^c-3650fe659012afe0ccf4e3d62d5c6a48]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/7) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(h)](https://www.legislation.gov.uk/nisr/2011/370/article/3/h)
 
-[^key-75814c7c88ab7544db3a04655899b0a4]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/8) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
+[^c-75814c7c88ab7544db3a04655899b0a4]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/8) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
 
-[^key-78beced426f74dd7e561842932b043a6]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/9) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
+[^c-78beced426f74dd7e561842932b043a6]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/9) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
 
-[^key-0ad3a126b81a845e7ee883c76be763ed]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
+[^c-0ad3a126b81a845e7ee883c76be763ed]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
 
-[^key-638c0194621e569e9e04f56d1dc9c643]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/13) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(h)](https://www.legislation.gov.uk/nisr/2011/370/article/3/h)
+[^c-638c0194621e569e9e04f56d1dc9c643]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/13) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(h)](https://www.legislation.gov.uk/nisr/2011/370/article/3/h)
 
-[^key-4489327a3a2e5e02c804ed719c645996]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/14) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(h)](https://www.legislation.gov.uk/nisr/2011/370/article/3/h)
+[^c-4489327a3a2e5e02c804ed719c645996]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/14) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(h)](https://www.legislation.gov.uk/nisr/2011/370/article/3/h)

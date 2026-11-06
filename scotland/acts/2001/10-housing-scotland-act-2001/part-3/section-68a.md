@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68A. Power to direct certain registered social landlords to delegate functions[^key-71acc63fe879a64cc635a9c71ee2dd38]
+## 68A. Power to direct certain registered social landlords to delegate functions[^c-71acc63fe879a64cc635a9c71ee2dd38]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71acc63fe879a64cc635a9c71ee2dd38]: Textual amendment: S. 68A and cross-heading inserted (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 177](https://www.legislation.gov.uk/asp/2006/1/section/177), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)
+[^c-71acc63fe879a64cc635a9c71ee2dd38]: Textual amendment: S. 68A and cross-heading inserted (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 177](https://www.legislation.gov.uk/asp/2006/1/section/177), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Preparation of the licence and informing the applicant of its grant[^key-239e5dc5de8d98afb27ca55fa00ad012]
+## 21. Preparation of the licence and informing the applicant of its grant[^c-239e5dc5de8d98afb27ca55fa00ad012]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ If the regulator grants a licence[^f00031], the regulator must—
 
 ## Annotations
 
-[^key-239e5dc5de8d98afb27ca55fa00ad012]: Commencement: Reg. 21 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-239e5dc5de8d98afb27ca55fa00ad012]: Commencement: Reg. 21 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00031]: Footnote: Section 8(4) of the Space Industry Act 2018 provides that if the regulator is not the Secretary of State, the regulator may grant a licence only with the consent of the Secretary of State.

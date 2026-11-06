@@ -48,15 +48,15 @@ The Forestry Commissioners are designated[^f00001] for the purposes of section 2
 
 In exercise of the powers conferred by that section, the Forestry Commissioners make the following Regulations:
 
-## 1. Title and commencement[^key-73d94c8d4952e20bc376c310cb2098ab]
+## 1. Title and commencement[^c-73d94c8d4952e20bc376c310cb2098ab]
 
 These Regulations may be cited as the Forest Reproductive Material (Great Britain) (Amendment) Regulations 2006 and come into force on 9th October 2006.
 
-## 2. Amendments to the Forest Reproductive Material (Great Britain) Regulations 2002[^key-93fd255231f48848e9724e89623c2919]
+## 2. Amendments to the Forest Reproductive Material (Great Britain) Regulations 2002[^c-93fd255231f48848e9724e89623c2919]
 
 The Forest Reproductive Material (Great Britain) Regulations 2002[^f00003] are amended in accordance with these Regulations.
 
-## 3. Amendments to regulation 2[^key-16ac78336e1b9ade46b60c9ce061c401]
+## 3. Amendments to regulation 2[^c-16ac78336e1b9ade46b60c9ce061c401]
 
 In regulation 2(2)—
 
@@ -85,7 +85,7 @@ In regulation 2(2)—
 
   .
 
-## 4. Amendment to regulation 4[^key-47744e8f6adffba2331f963b18a86792]
+## 4. Amendment to regulation 4[^c-47744e8f6adffba2331f963b18a86792]
 
 In regulation 4—
 
@@ -96,7 +96,7 @@ In regulation 4—
 
   .
 
-## 5. Amendment to regulation 17[^key-2b823c1bfbbed2b0ce8d504de3177d00]
+## 5. Amendment to regulation 17[^c-2b823c1bfbbed2b0ce8d504de3177d00]
 
 In regulation 17—
 
@@ -110,7 +110,7 @@ In regulation 17—
 
   .
 
-## 6. Amendments to regulation 19[^key-6f4179c75a975d250a0259ef7c8b2dad]
+## 6. Amendments to regulation 19[^c-6f4179c75a975d250a0259ef7c8b2dad]
 
 In regulation 19—
 
@@ -121,7 +121,7 @@ In regulation 19—
 
   .
 
-## 7. Substitution of regulation 20[^key-9ee779da313a5964003a9bd7e1122959]
+## 7. Substitution of regulation 20[^c-9ee779da313a5964003a9bd7e1122959]
 
 For regulation 20 substitute—
 
@@ -132,7 +132,7 @@ For regulation 20 substitute—
 
 .
 
-## 8. Amendment to regulation 22[^key-ac5f8c0648f153eef3e512c895a368b9]
+## 8. Amendment to regulation 22[^c-ac5f8c0648f153eef3e512c895a368b9]
 
 In regulation 22, for paragraph (3)(c) to (e) substitute—
 
@@ -143,7 +143,7 @@ In regulation 22, for paragraph (3)(c) to (e) substitute—
 
 .
 
-## 9. Substitution of regulation 25[^key-8ceba991fde6ec8f3737ab6fc0f880b3]
+## 9. Substitution of regulation 25[^c-8ceba991fde6ec8f3737ab6fc0f880b3]
 
 For regulation 25 substitute—
 
@@ -175,7 +175,7 @@ For regulation 25 substitute—
 
 .
 
-## 10. Amendment to regulation 26[^key-26d537e8c05d557d45a87bededaa53ff]
+## 10. Amendment to regulation 26[^c-26d537e8c05d557d45a87bededaa53ff]
 
 In regulation 26(3)(a), for paragraph (vii) substitute—
 
@@ -184,7 +184,7 @@ In regulation 26(3)(a), for paragraph (vii) substitute—
 
 .
 
-## 11. Amendment to regulation 30[^key-4e4889a86f3c3353a1455d4aec4d751c]
+## 11. Amendment to regulation 30[^c-4e4889a86f3c3353a1455d4aec4d751c]
 
 (1) For regulation 30(2), substitute—
 
@@ -205,7 +205,7 @@ In regulation 26(3)(a), for paragraph (vii) substitute—
 
 .
 
-## 12. Addition of Schedule 13[^key-d4b1ea70876a4566be37f588ea5e4eeb]
+## 12. Addition of Schedule 13[^c-d4b1ea70876a4566be37f588ea5e4eeb]
 
 After Schedule 12, add—
 
@@ -299,32 +299,32 @@ A transposition note has been prepared and a copy has been placed in the library
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-73d94c8d4952e20bc376c310cb2098ab]: Commencement: Reg. 1 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-73d94c8d4952e20bc376c310cb2098ab]: Commencement: Reg. 1 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-93fd255231f48848e9724e89623c2919]: Commencement: Reg. 2 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-93fd255231f48848e9724e89623c2919]: Commencement: Reg. 2 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2002/3026](https://www.legislation.gov.uk/uksi/2002/3026).
 
-[^key-16ac78336e1b9ade46b60c9ce061c401]: Commencement: Reg. 3 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-16ac78336e1b9ade46b60c9ce061c401]: Commencement: Reg. 3 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-47744e8f6adffba2331f963b18a86792]: Commencement: Reg. 4 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-47744e8f6adffba2331f963b18a86792]: Commencement: Reg. 4 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
 [^f00004]: Footnote: O.J. L 10, 16.1.2004, p. 16.
 
-[^key-2b823c1bfbbed2b0ce8d504de3177d00]: Commencement: Reg. 5 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-2b823c1bfbbed2b0ce8d504de3177d00]: Commencement: Reg. 5 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-6f4179c75a975d250a0259ef7c8b2dad]: Commencement: Reg. 6 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-6f4179c75a975d250a0259ef7c8b2dad]: Commencement: Reg. 6 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-9ee779da313a5964003a9bd7e1122959]: Commencement: Reg. 7 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-9ee779da313a5964003a9bd7e1122959]: Commencement: Reg. 7 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-ac5f8c0648f153eef3e512c895a368b9]: Commencement: Reg. 8 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-ac5f8c0648f153eef3e512c895a368b9]: Commencement: Reg. 8 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-8ceba991fde6ec8f3737ab6fc0f880b3]: Commencement: Reg. 9 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-8ceba991fde6ec8f3737ab6fc0f880b3]: Commencement: Reg. 9 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-26d537e8c05d557d45a87bededaa53ff]: Commencement: Reg. 10 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-26d537e8c05d557d45a87bededaa53ff]: Commencement: Reg. 10 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
-[^key-4e4889a86f3c3353a1455d4aec4d751c]: Commencement: Reg. 11 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-4e4889a86f3c3353a1455d4aec4d751c]: Commencement: Reg. 11 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
 
 [^f00005]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-d4b1ea70876a4566be37f588ea5e4eeb]: Commencement: Reg. 12 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)
+[^c-d4b1ea70876a4566be37f588ea5e4eeb]: Commencement: Reg. 12 in force at 9.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2530/regulation/1)

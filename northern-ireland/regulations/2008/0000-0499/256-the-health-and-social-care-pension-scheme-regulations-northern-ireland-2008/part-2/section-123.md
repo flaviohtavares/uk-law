@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If it appears to the Department that the condition in regulation 117(2) will be met in any financial year[^key-dafac924417b7adbb1609896148af91f] in respect of the old service pension for that year, the Department may reduce the amount of that pension paid at any time in the financial year .
+(1) If it appears to the Department that the condition in regulation 117(2) will be met in any financial year[^c-dafac924417b7adbb1609896148af91f] in respect of the old service pension for that year, the Department may reduce the amount of that pension paid at any time in the financial year .
 
 (2) Where the old service pension for a financial year is being reduced under this Chapter, the Department must review the amount of the reduction—
 
@@ -44,4 +44,4 @@ the Department must repay the amount due to the employed pensioner.
 
 ## Annotations
 
-[^key-dafac924417b7adbb1609896148af91f]: Textual amendment: Words in [reg. 123](https://www.legislation.gov.uk/nisr/2008/256/regulation/123) substituted (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2013/259/regulation/34)
+[^c-dafac924417b7adbb1609896148af91f]: Textual amendment: Words in [reg. 123](https://www.legislation.gov.uk/nisr/2008/256/regulation/123) substituted (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2013/259/regulation/34)

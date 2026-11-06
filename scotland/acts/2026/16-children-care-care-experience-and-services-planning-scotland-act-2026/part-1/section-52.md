@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Children’s advocacy services: non-instructed advocacy[^key-dbfeafc4f5a7150794b3f1afebd507db]
+## 52. Children’s advocacy services: non-instructed advocacy[^c-dbfeafc4f5a7150794b3f1afebd507db]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbfeafc4f5a7150794b3f1afebd507db]: Commencement: S. 52 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-dbfeafc4f5a7150794b3f1afebd507db]: Commencement: S. 52 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

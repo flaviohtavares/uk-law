@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Officers etc qualified for membership of the Court Martial[^key-20579bd99e682e48ed0008734e5b4195][^key-1ccde35941a3849a6b2a850e8601bb86][^key-54893af555b470f6b546300b1e72e528]
+## 156. Officers etc qualified for membership of the Court Martial[^c-20579bd99e682e48ed0008734e5b4195][^c-1ccde35941a3849a6b2a850e8601bb86][^c-54893af555b470f6b546300b1e72e528]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsections (2) to (4), an officer , warrant officer or OR-7 rank[^key-a907bc64c2484c1c6d2e042a291e047a] is qualified for membership of the Court Martial if he is subject to service law.
+(1) Subject to subsections (2) to (4), an officer , warrant officer or OR-7 rank[^c-a907bc64c2484c1c6d2e042a291e047a] is qualified for membership of the Court Martial if he is subject to service law.
 
 (2) An officer is not qualified for membership of the court unless—
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) A warrant officer is not qualified for membership of the court if he is an acting warrant officer.
 
-(3A)[^key-102fdb7b86dc77f4293ff50a1d4daccc] An OR-7 rank is not qualified for membership of the court if that person is an acting—
+(3A)[^c-102fdb7b86dc77f4293ff50a1d4daccc] An OR-7 rank is not qualified for membership of the court if that person is an acting—
 
 - (a) chief petty officer,
 - (b) staff corporal,
@@ -38,7 +38,7 @@ summary: ''
 - (e) flight sergeant, or
 - (f) chief technician.
 
-(4) An officer , warrant officer or OR-7 rank[^key-e0a85278ed1ac4633c47163664be21d9] is not qualified for membership of the court if—
+(4) An officer , warrant officer or OR-7 rank[^c-e0a85278ed1ac4633c47163664be21d9] is not qualified for membership of the court if—
 
 - (a) he is a member of the Military Court Service;
 - (b) he is a member of or on the staff of the Service Prosecuting Authority;
@@ -56,20 +56,20 @@ summary: ''
 - (c) a Commonwealth country; or
 - (d) a British overseas territory.
 
-(6)[^key-eee1702b85b17a406641fb95139abaef] In this section “OR-7 rank” has the meaning given by section 155(9).
+(6)[^c-eee1702b85b17a406641fb95139abaef] In this section “OR-7 rank” has the meaning given by section 155(9).
 
 ## Annotations
 
-[^key-20579bd99e682e48ed0008734e5b4195]: Commencement: S. 156 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-20579bd99e682e48ed0008734e5b4195]: Commencement: S. 156 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-1ccde35941a3849a6b2a850e8601bb86]: Commencement: S. 156 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-1ccde35941a3849a6b2a850e8601bb86]: Commencement: S. 156 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-54893af555b470f6b546300b1e72e528]: Textual amendment: Word in [s. 156](https://www.legislation.gov.uk/ukpga/2006/52/section/156) heading substituted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/2); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
+[^c-54893af555b470f6b546300b1e72e528]: Textual amendment: Word in [s. 156](https://www.legislation.gov.uk/ukpga/2006/52/section/156) heading substituted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/2); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
 
-[^key-a907bc64c2484c1c6d2e042a291e047a]: Textual amendment: Words in [s. 156(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/1) substituted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/3); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
+[^c-a907bc64c2484c1c6d2e042a291e047a]: Textual amendment: Words in [s. 156(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/1) substituted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/3); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
 
-[^key-102fdb7b86dc77f4293ff50a1d4daccc]: Textual amendment: [S. 156(3A)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/3A) inserted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/4); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
+[^c-102fdb7b86dc77f4293ff50a1d4daccc]: Textual amendment: [S. 156(3A)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/3A) inserted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/4); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
 
-[^key-e0a85278ed1ac4633c47163664be21d9]: Textual amendment: Words in [s. 156(4)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/4) substituted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/5); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
+[^c-e0a85278ed1ac4633c47163664be21d9]: Textual amendment: Words in [s. 156(4)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/4) substituted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/5); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
 
-[^key-eee1702b85b17a406641fb95139abaef]: Textual amendment: [S. 156(6)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/6) inserted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/6); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)
+[^c-eee1702b85b17a406641fb95139abaef]: Textual amendment: [S. 156(6)](https://www.legislation.gov.uk/ukpga/2006/52/section/156/6) inserted (1.5.2022 for specified purposes, 1.1.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/1/paragraph/2/6); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/a); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1095/regulation/2)

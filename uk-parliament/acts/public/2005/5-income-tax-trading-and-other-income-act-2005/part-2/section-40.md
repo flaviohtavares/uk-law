@@ -36,14 +36,14 @@ which meets condition A, B, C or D.
 
 (4) Condition C is that the payment or transfer is made in connection with the termination of the recipient's employment with the employer.
 
-(5) Condition D is that the payment or transfer is made under an employer-financed retirement benefits scheme and the payment or transfer—[^key-944603e41a8e69bf934cc1804b70da86]
+(5) Condition D is that the payment or transfer is made under an employer-financed retirement benefits scheme and the payment or transfer—[^c-944603e41a8e69bf934cc1804b70da86]
 
 - (a) gives rise to an employment income tax charge under Chapter 2 of Part 6 of ITEPA 2003 or under Part 9 of that Act, or
 - (b) is an excluded benefit as defined in section 393B(3) of that Act.
 
 (6) None of the conditions is met if the payment or transfer is by way of loan.
 
-(6A)[^key-80e6bd8b7f0706076a4d50565aa4c4cf] For the purposes of section 38 qualifying benefits are also provided if—
+(6A)[^c-80e6bd8b7f0706076a4d50565aa4c4cf] For the purposes of section 38 qualifying benefits are also provided if—
 
 - (a) a relevant step within the meaning of Part 7A of ITEPA 2003 is taken, and
 - (b) Chapter 2 of that Part applies by reason of the step.
@@ -58,6 +58,6 @@ which meets condition A, B, C or D.
 
 ## Annotations
 
-[^key-944603e41a8e69bf934cc1804b70da86]: Textual amendment: Words in s. 40(5) inserted (with effect in accordance with Sch . 2 para. 52-59 62 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 37(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/37/2)
+[^c-944603e41a8e69bf934cc1804b70da86]: Textual amendment: Words in s. 40(5) inserted (with effect in accordance with Sch . 2 para. 52-59 62 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 37(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/37/2)
 
-[^key-80e6bd8b7f0706076a4d50565aa4c4cf]: Textual amendment: S. 40(6A) inserted (with effect in accordance with Sch . 2 para. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 37(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/37/3)
+[^c-80e6bd8b7f0706076a4d50565aa4c4cf]: Textual amendment: S. 40(6A) inserted (with effect in accordance with Sch . 2 para. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 37(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/37/3)

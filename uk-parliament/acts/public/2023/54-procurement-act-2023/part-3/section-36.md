@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Dynamic markets: membership[^key-b212596ae77cc4238e5559eb162e2406][^key-47e21cc382f0f56c4b8bbf8afea10e2d]
+## 36. Dynamic markets: membership[^c-b212596ae77cc4238e5559eb162e2406][^c-47e21cc382f0f56c4b8bbf8afea10e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b212596ae77cc4238e5559eb162e2406]: Commencement: S. 36 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-b212596ae77cc4238e5559eb162e2406]: Commencement: S. 36 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-47e21cc382f0f56c4b8bbf8afea10e2d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/54/section/36) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-47e21cc382f0f56c4b8bbf8afea10e2d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/54/section/36) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

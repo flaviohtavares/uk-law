@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Statement of strategic priorities[^key-4fc48cf7157838cd62f08e0be63bdd7c]
+## 2A. Statement of strategic priorities[^c-4fc48cf7157838cd62f08e0be63bdd7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fc48cf7157838cd62f08e0be63bdd7c]: Textual amendment: [Ss. 2A-2C](https://www.legislation.gov.uk/ukpga/2003/21/section/2A) and cross-heading inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)
+[^c-4fc48cf7157838cd62f08e0be63bdd7c]: Textual amendment: [Ss. 2A-2C](https://www.legislation.gov.uk/ukpga/2003/21/section/2A) and cross-heading inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Senior management functions[^key-401a50e0807835bd6c83fe64526ccc32]
+## 19. Senior management functions[^c-401a50e0807835bd6c83fe64526ccc32]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ After section 59 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-401a50e0807835bd6c83fe64526ccc32]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/33/section/19) in force at 25.7.2014 by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/a)
+[^c-401a50e0807835bd6c83fe64526ccc32]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/33/section/19) in force at 25.7.2014 by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/a)

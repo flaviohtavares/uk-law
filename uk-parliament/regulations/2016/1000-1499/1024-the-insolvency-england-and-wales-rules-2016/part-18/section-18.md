@@ -28,20 +28,20 @@ summary: ''
 
 (4) In this Part “**committee**” means either or both of a creditors' committee and a liquidation committee as the context requires.
 
-## 18.2. Reporting by the office-holder[^key-93867cf23841b14dce6521e5c803c203][^key-c6b758a3959c4dc2dc640e25aaed83ca]
+## 18.2. Reporting by the office-holder[^c-93867cf23841b14dce6521e5c803c203][^c-c6b758a3959c4dc2dc640e25aaed83ca]
 
 *Extent: E+W*
 
 The office-holder in an administration, winding up or bankruptcy must prepare and deliver reports in accordance with this Chapter.
 
-## 18.3.[^key-c6b758a3959c4dc2dc640e25aaed83ca]
+## 18.3.[^c-c6b758a3959c4dc2dc640e25aaed83ca]
 
 *Extent: E+W*
 
 (1) The office-holder's progress report in an administration, winding up and bankruptcy must contain the following—
 
 - (a) identification details for the proceedings;
-- (b)[^key-682fb23168eeefb3000a90e08d04bede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-682fb23168eeefb3000a90e08d04bede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) identification and contact details for the office-holder;
 - (d) the date of appointment of the office-holder and any changes in the office-holder in accordance with paragraphs (3) and (4);
 - (e) details of progress during the period of the report, including a summary account of receipts and payments during the period of the report;
@@ -73,16 +73,16 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 - (c) where the basis of the remuneration is fixed as a set amount under rule 18.16(2)(c), it may be shown as that amount without any apportionment to the period of the report;
 - (d) a statement of the expenses incurred by the office-holder during the period of the report;
 - (e) a statement setting out whether at the date of the report—
-  - (i)[^key-dcd1762309f2d199abeb44f255c605ae] in a case other than a members’ voluntary winding up, the remuneration expected to be charged by the office-holder is likely to exceed the fees estimate under rule 18.16(4) or any approval given,
+  - (i)[^c-dcd1762309f2d199abeb44f255c605ae] in a case other than a members’ voluntary winding up, the remuneration expected to be charged by the office-holder is likely to exceed the fees estimate under rule 18.16(4) or any approval given,
   - (ii) the expenses incurred or expected to be incurred are likely to exceed, or have exceeded, the details given to the creditors prior to the determination of the basis of remuneration, and
   - (iii) the reasons for that excess; and
-- (f) a statement of the rights of creditors or[^key-affeea85aba88a106d29a1886247b4b6], in a members' voluntary winding up, of members—
+- (f) a statement of the rights of creditors or[^c-affeea85aba88a106d29a1886247b4b6], in a members' voluntary winding up, of members—
   - (i) to request information about remuneration or expenses under rule 18.9, and
   - (ii) to challenge the office-holder's remuneration and expenses under rule 18.34.
 
 (2) The information about remuneration and expenses is required irrespective of whether payment was made in respect of them during the period of the report.
 
-## 18.5. Information about pre-administration costs[^key-caec0c30cba1eb7625c820d10b1870ea]
+## 18.5. Information about pre-administration costs[^c-caec0c30cba1eb7625c820d10b1870ea]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 - (a) the next report after that must include a statement of whichever is the case; and
 - (b) no statement under paragraph (1)(b) is required in subsequent reports.
 
-## 18.6. Progress reports in administration: timing[^key-caec0c30cba1eb7625c820d10b1870ea]
+## 18.6. Progress reports in administration: timing[^c-caec0c30cba1eb7625c820d10b1870ea]
 
 *Extent: E+W*
 
@@ -128,9 +128,9 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 
 (4) However where a liquidator ceases to act the succeeding liquidator must, as soon as reasonably practicable after being appointed, deliver a notice to the members (in a members' voluntary winding up) or to members and creditors (in a creditors' voluntary winding up) of any matters about which the succeeding liquidator thinks the members or creditors should be informed.
 
-(5) A progress report is not required for any period which ends after a notice is delivered under rule 5.9(1) (members’ voluntary winding up) or after[^key-6ad6e233681ef3c378c7e7feb1b982d6] the date to which a final account is made up under section [^key-300f9b80bed4a9bfd863c54ef3734b0a]... 106 and is delivered by the liquidator [^key-6fbcb33c51b880005c19b62155b51089]... to members and creditors (creditors' voluntary winding up).
+(5) A progress report is not required for any period which ends after a notice is delivered under rule 5.9(1) (members’ voluntary winding up) or after[^c-6ad6e233681ef3c378c7e7feb1b982d6] the date to which a final account is made up under section [^c-300f9b80bed4a9bfd863c54ef3734b0a]... 106 and is delivered by the liquidator [^c-6fbcb33c51b880005c19b62155b51089]... to members and creditors (creditors' voluntary winding up).
 
-(6) The liquidator must deliver[^key-8c2162582ccc58e5fdb9c8344950f4fa] a copy of each progress report within two months after the end of the period covered by the report to—
+(6) The liquidator must deliver[^c-8c2162582ccc58e5fdb9c8344950f4fa] a copy of each progress report within two months after the end of the period covered by the report to—
 
 - (a) the registrar of companies (who is a prescribed person for the purposes of sections 92A and 104A);
 - (b) the members; and
@@ -162,7 +162,7 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 
 *Extent: E+W*
 
-(1) The following may make a written request to the office-holder for further information about remuneration or expenses (other than pre-administration costs in an administration) set out in a progress report under rule 18.4(1)(b), (c) or (d) or a final report or account[^key-8ffc140e194d3a3a250a8a310d14c679] under rule 18.14—
+(1) The following may make a written request to the office-holder for further information about remuneration or expenses (other than pre-administration costs in an administration) set out in a progress report under rule 18.4(1)(b), (c) or (d) or a final report or account[^c-8ffc140e194d3a3a250a8a310d14c679] under rule 18.14—
 
 - (a) a secured creditor;
 - (b) an unsecured creditor with the concurrence of at least 5% in value of the unsecured creditors (including the creditor in question);
@@ -170,7 +170,7 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 - (d) any unsecured creditor with the permission of the court; or
 - (e) any member of the company in a members' voluntary winding up with the permission of the court.
 
-(2) A request, or an application to the court for permission, by such a person or persons must be made or filed with the court (as applicable) within 21 days of receipt of the report or account[^key-84d4394d2655a7e852f1449fb6155062] by the person, or by the last of them in the case of an application by more than one member or creditor.
+(2) A request, or an application to the court for permission, by such a person or persons must be made or filed with the court (as applicable) within 21 days of receipt of the report or account[^c-84d4394d2655a7e852f1449fb6155062] by the person, or by the last of them in the case of an application by more than one member or creditor.
 
 (3) The office-holder must, within 14 days of receipt of such a request respond to the person or persons who requested the information by—
 
@@ -194,7 +194,7 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 
 (7) The court may make such order as it thinks just on an application under paragraph (6).
 
-## 18.10. Administration, creditors' voluntary liquidation and compulsory winding up: reporting distribution of property to creditors under rule 14.13[^key-d0c11cff0f29b9982f6e65134db67377]
+## 18.10. Administration, creditors' voluntary liquidation and compulsory winding up: reporting distribution of property to creditors under rule 14.13[^c-d0c11cff0f29b9982f6e65134db67377]
 
 *Extent: E+W*
 
@@ -301,7 +301,7 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 
 (2) This Chapter does not apply to the remuneration of a provisional liquidator or an interim receiver.
 
-## 18.16. Remuneration: principles[^key-f95195b5910612334fc8744d7e9d391e]
+## 18.16. Remuneration: principles[^c-f95195b5910612334fc8744d7e9d391e]
 
 *Extent: E+W*
 
@@ -346,7 +346,7 @@ The office-holder in an administration, winding up or bankruptcy must prepare an
 
 (10) A proposed liquidator in respect of a creditors' voluntary winding up may deliver to the creditors the information required by paragraphs (4) or (6) before becoming liquidator in which case that person is not required to deliver that information again if that person is appointed as liquidator.
 
-## 18.17. Remuneration of joint office-holders[^key-f95195b5910612334fc8744d7e9d391e]
+## 18.17. Remuneration of joint office-holders[^c-f95195b5910612334fc8744d7e9d391e]
 
 *Extent: E+W*
 
@@ -363,7 +363,7 @@ Where there are joint office-holders it is for them to agree between themselves 
 
 (2) It is for the committee to determine the basis of remuneration.
 
-(3) If the committee fails to determine the basis of the remuneration or there is no committee then the basis of remuneration must be fixed by a decision of the creditors by a decision procedure except in a case under paragraph (4)[^key-98f1ae4e8ae359235c0c1e6f93fec04d].
+(3) If the committee fails to determine the basis of the remuneration or there is no committee then the basis of remuneration must be fixed by a decision of the creditors by a decision procedure except in a case under paragraph (4)[^c-98f1ae4e8ae359235c0c1e6f93fec04d].
 
 (4) Where the administrator has made a statement under paragraph 52(1)(b) of Schedule B1 that there are insufficient funds for distribution to unsecured creditors other than out of the prescribed part and either there is no committee, or the committee fails to determine the basis of remuneration, the basis of the administrator's remuneration may be fixed by—
 
@@ -428,7 +428,7 @@ In a members' voluntary winding up, it is for the company in general meeting to 
 - (c) fees payable by virtue of any order made under section 415 [^c23177661]; and
 - (d) the remuneration of the official receiver.
 
-## 18.23. Remuneration: application to the court to fix the basis[^key-20d66ee7a5268882502bc3f8362980c6]
+## 18.23. Remuneration: application to the court to fix the basis[^c-20d66ee7a5268882502bc3f8362980c6]
 
 *Extent: E+W*
 
@@ -557,7 +557,7 @@ An office-holder who considers the rate or amount of remuneration fixed to be in
 
 (2) The request for approval must be made—
 
-- (a)[^key-cbe0d2b131beb2587e2973f2173ea7da] where the court fixed the basis, to the court;
+- (a)[^c-cbe0d2b131beb2587e2973f2173ea7da] where the court fixed the basis, to the court;
 - (b) where there is a committee (unless the court fixed the basis), to the committee;
 - (c) in other cases where the creditors or a class of creditors fixed the basis, to the creditors or that class of creditors;
 
@@ -572,7 +572,7 @@ and rules 18.16 to 18.23 apply as appropriate.
 - (e) whether the office-holder anticipates that it will be necessary to seek further approval; and
 - (f) the reasons it will be necessary to seek further approval.
 
-## 18.31. Remuneration: new administrator, liquidator or trustee[^key-dbfc39b8e8b0bfdfff7d4320c484d004]
+## 18.31. Remuneration: new administrator, liquidator or trustee[^c-dbfc39b8e8b0bfdfff7d4320c484d004]
 
 *Extent: E+W*
 
@@ -745,46 +745,46 @@ a surplus of assets to which the bankrupt would be entitled.
 
 ## Annotations
 
-[^key-93867cf23841b14dce6521e5c803c203]: Modification: [Rule 18.2](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.2) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [141](https://www.legislation.gov.uk/uksi/2024/229/rule/141), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-93867cf23841b14dce6521e5c803c203]: Modification: [Rule 18.2](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.2) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [141](https://www.legislation.gov.uk/uksi/2024/229/rule/141), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-c6b758a3959c4dc2dc640e25aaed83ca]: Modification: [Rules 18.2](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.2), [18.3](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.3) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [142](https://www.legislation.gov.uk/uksi/2024/229/rule/142), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-c6b758a3959c4dc2dc640e25aaed83ca]: Modification: [Rules 18.2](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.2), [18.3](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.3) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [142](https://www.legislation.gov.uk/uksi/2024/229/rule/142), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-682fb23168eeefb3000a90e08d04bede]: Textual amendment: [Rule 18.3(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.3/1/b) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [24](https://www.legislation.gov.uk/uksi/2026/561/rule/24)
+[^c-682fb23168eeefb3000a90e08d04bede]: Textual amendment: [Rule 18.3(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.3/1/b) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [24](https://www.legislation.gov.uk/uksi/2026/561/rule/24)
 
-[^key-dcd1762309f2d199abeb44f255c605ae]: Textual amendment: [Rule 18.4(1)(e)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.4/1/e/i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [41(1)](https://www.legislation.gov.uk/uksi/2017/366/rule/41/1)
+[^c-dcd1762309f2d199abeb44f255c605ae]: Textual amendment: [Rule 18.4(1)(e)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.4/1/e/i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [41(1)](https://www.legislation.gov.uk/uksi/2017/366/rule/41/1)
 
-[^key-affeea85aba88a106d29a1886247b4b6]: Textual amendment: Word in [rule 18.4(1)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.4/1/f) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [41(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/41/2)
+[^c-affeea85aba88a106d29a1886247b4b6]: Textual amendment: Word in [rule 18.4(1)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.4/1/f) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [41(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/41/2)
 
-[^key-caec0c30cba1eb7625c820d10b1870ea]: Modification: [Rules 18.5](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.5), [18.6](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [143](https://www.legislation.gov.uk/uksi/2024/229/rule/143), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-caec0c30cba1eb7625c820d10b1870ea]: Modification: [Rules 18.5](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.5), [18.6](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [143](https://www.legislation.gov.uk/uksi/2024/229/rule/143), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23177621]: Marginal citation: Section 92A is amended by section 136(2) and paragraph 16 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and section 104A is amended by section 136(3) and paragraph 27 of that Schedule.
 
-[^key-6ad6e233681ef3c378c7e7feb1b982d6]: Textual amendment: Words in [rule 18.7(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/5) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(1)(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/1/a)
+[^c-6ad6e233681ef3c378c7e7feb1b982d6]: Textual amendment: Words in [rule 18.7(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/5) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(1)(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/1/a)
 
-[^key-300f9b80bed4a9bfd863c54ef3734b0a]: Textual amendment: Words in [rule 18.7(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/5) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(1)(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/1/b)
+[^c-300f9b80bed4a9bfd863c54ef3734b0a]: Textual amendment: Words in [rule 18.7(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/5) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(1)(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/1/b)
 
-[^key-6fbcb33c51b880005c19b62155b51089]: Textual amendment: Words in [rule 18.7(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/5) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(1)(c)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/1/c)
+[^c-6fbcb33c51b880005c19b62155b51089]: Textual amendment: Words in [rule 18.7(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/5) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(1)(c)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/1/c)
 
-[^key-8c2162582ccc58e5fdb9c8344950f4fa]: Textual amendment: Word in [rule 18.7(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/6) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/2)
+[^c-8c2162582ccc58e5fdb9c8344950f4fa]: Textual amendment: Word in [rule 18.7(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.7/6) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [42(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/42/2)
 
 [^c23177641]: Marginal citation: A new section 146 is substituted by paragraph 38 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and section 331 is amended by paragraph 83 of that Schedule.
 
-[^key-8ffc140e194d3a3a250a8a310d14c679]: Textual amendment: Words in [rule 18.9(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.9/1) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [43(1)](https://www.legislation.gov.uk/uksi/2017/366/rule/43/1)
+[^c-8ffc140e194d3a3a250a8a310d14c679]: Textual amendment: Words in [rule 18.9(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.9/1) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [43(1)](https://www.legislation.gov.uk/uksi/2017/366/rule/43/1)
 
-[^key-84d4394d2655a7e852f1449fb6155062]: Textual amendment: Words in [rule 18.9(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.9/2) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [43(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/43/2)
+[^c-84d4394d2655a7e852f1449fb6155062]: Textual amendment: Words in [rule 18.9(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.9/2) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [43(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/43/2)
 
-[^key-d0c11cff0f29b9982f6e65134db67377]: Modification: [Rule 18.10](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.10) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [144](https://www.legislation.gov.uk/uksi/2024/229/rule/144), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-d0c11cff0f29b9982f6e65134db67377]: Modification: [Rule 18.10](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.10) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [144](https://www.legislation.gov.uk/uksi/2024/229/rule/144), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-f95195b5910612334fc8744d7e9d391e]: Modification: [Rules 18.16](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.16), [18.17](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.17) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [145](https://www.legislation.gov.uk/uksi/2024/229/rule/145), [146](https://www.legislation.gov.uk/uksi/2024/229/rule/146), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-f95195b5910612334fc8744d7e9d391e]: Modification: [Rules 18.16](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.16), [18.17](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.17) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [145](https://www.legislation.gov.uk/uksi/2024/229/rule/145), [146](https://www.legislation.gov.uk/uksi/2024/229/rule/146), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-98f1ae4e8ae359235c0c1e6f93fec04d]: Textual amendment: Words in [rule 18.18(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.18/3) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [44](https://www.legislation.gov.uk/uksi/2017/366/rule/44)
+[^c-98f1ae4e8ae359235c0c1e6f93fec04d]: Textual amendment: Words in [rule 18.18(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.18/3) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [44](https://www.legislation.gov.uk/uksi/2017/366/rule/44)
 
 [^c23177651]: Marginal citation: Paragraph 83 subparagraph (1)(b) and (2)(b) are amended by section 128(3) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and subparagraphs (5)(b) and (8)(d) are amended by paragraph 10(3) and (32) of Schedule 9 to that Act.
 
 [^c23177661]: Marginal citation: Section 415 subsection (1) is amended and a new subsection (1A) is inserted by paragraph 59(1) to (3) of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-20d66ee7a5268882502bc3f8362980c6]: Modification: [Rule 18.23](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.23) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [147](https://www.legislation.gov.uk/uksi/2024/229/rule/147), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-20d66ee7a5268882502bc3f8362980c6]: Modification: [Rule 18.23](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.23) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [147](https://www.legislation.gov.uk/uksi/2024/229/rule/147), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-cbe0d2b131beb2587e2973f2173ea7da]: Textual amendment: [Rule 18.30(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.30/2/a) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [25](https://www.legislation.gov.uk/uksi/2026/561/rule/25)
+[^c-cbe0d2b131beb2587e2973f2173ea7da]: Textual amendment: [Rule 18.30(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.30/2/a) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [25](https://www.legislation.gov.uk/uksi/2026/561/rule/25)
 
-[^key-dbfc39b8e8b0bfdfff7d4320c484d004]: Modification: [Rule 18.31](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.31) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [148](https://www.legislation.gov.uk/uksi/2024/229/rule/148), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-dbfc39b8e8b0bfdfff7d4320c484d004]: Modification: [Rule 18.31](https://www.legislation.gov.uk/uksi/2016/1024/rule/18.31) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [148](https://www.legislation.gov.uk/uksi/2024/229/rule/148), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))

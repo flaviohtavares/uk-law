@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.53. Sums in the hands of receivers[^key-1ab3c9a4f585637f304ac2e2886da588]
+## 33.53. Sums in the hands of receivers[^c-1ab3c9a4f585637f304ac2e2886da588]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ at least 5 business days before the date fixed by the court for hearing the appl
 
 ## Annotations
 
-[^key-1ab3c9a4f585637f304ac2e2886da588]: Commencement: [Rule 33.53](https://www.legislation.gov.uk/uksi/2025/909/rule/33.53) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1ab3c9a4f585637f304ac2e2886da588]: Commencement: [Rule 33.53](https://www.legislation.gov.uk/uksi/2025/909/rule/33.53) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00844]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21).
 

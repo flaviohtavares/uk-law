@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Meter testing and stamping.[^key-ec34f6bdc5dd6f0f38e30dc4ab0b6556][^key-295d008096ecd7e4bfd6cfddd321d824][^key-bcbcc0e9d9ddb8003286db3b4df116e2][^c14414681]
+## 17. Meter testing and stamping.[^c-ec34f6bdc5dd6f0f38e30dc4ab0b6556][^c-295d008096ecd7e4bfd6cfddd321d824][^c-bcbcc0e9d9ddb8003286db3b4df116e2][^c14414681]
 
 *Extent: E+W+S*
 
 (1) No meter shall be used for the purpose of ascertaining the quantity of gas supplied through pipes to any person unless it is stamped either by, or on the authority of, a meter examiner appointed under this section or in such other manner as may be authorised by regulations under this section.
 
-(2) Subject to subsections (3) to (5) below, it shall be the duty of a meter examiner who is employed in the civil service of the State[^key-d24f3109e965bc32e2331c4c0e0cf8c5], on being required to do so by any person and on payment of the requisite fee—
+(2) Subject to subsections (3) to (5) below, it shall be the duty of a meter examiner who is employed in the civil service of the State[^c-d24f3109e965bc32e2331c4c0e0cf8c5], on being required to do so by any person and on payment of the requisite fee—
 
 - (a) to examine any meter used or intended to be used for ascertaining the quantity of gas supplied to any person; and
 - (b) to stamp, or authorise the stamping of, that meter.
@@ -43,22 +43,22 @@ summary: ''
 
 (6) The Director shall appoint competent and impartial persons as meter examiners for the purposes of this section.
 
-(7) There shall be paid out of money provided by Parliament to meter examiners who are employed in the civil service of the State[^key-bb1c21c8fa61aab47f313a41422b896d] such remuneration and such allowances as may be determined by the Director with the approval of the Treasury, and such pensions as may be so determined may be paid out of money provided by Parliament to or in respect of such examiners.
+(7) There shall be paid out of money provided by Parliament to meter examiners who are employed in the civil service of the State[^c-bb1c21c8fa61aab47f313a41422b896d] such remuneration and such allowances as may be determined by the Director with the approval of the Treasury, and such pensions as may be so determined may be paid out of money provided by Parliament to or in respect of such examiners.
 
-(7A)[^key-0ab7a55caad23b759de4fecd23b2f05e] The Secretary of State may pay, out of money provided by Parliament, to meter examiners who are not employed in the civil service of the State or to any employer of such examiners—
+(7A)[^c-0ab7a55caad23b759de4fecd23b2f05e] The Secretary of State may pay, out of money provided by Parliament, to meter examiners who are not employed in the civil service of the State or to any employer of such examiners—
 
 - (a) sums in connection with the performance by such examiners of functions conferred by or under this section or gas meter regulations (within the meaning of section 92 of the Energy Act 2008), and
 - (b) sums in respect of any pension payable to or in respect of such examiners.
 
-(8) All fees payable to meter examiners who are employed in the civil service of the State[^key-6e6f811069e72b34712d6458b9b4a728] for the performance of functions conferred by or under this section shall be paid to the Director; and any sums received by him under this subsection shall be paid into the Consolidated Fund.
+(8) All fees payable to meter examiners who are employed in the civil service of the State[^c-6e6f811069e72b34712d6458b9b4a728] for the performance of functions conferred by or under this section shall be paid to the Director; and any sums received by him under this subsection shall be paid into the Consolidated Fund.
 
-(9) Regulations under this section, which shall be made by the Director [^key-88bf513c012bcca16a5c358eeb25cd96]... , may make provision—
+(9) Regulations under this section, which shall be made by the Director [^c-88bf513c012bcca16a5c358eeb25cd96]... , may make provision—
 
 - (a) for re-examining meters already stamped, and for the cancellation of stamps in the case of meters which no longer conform with the prescribed standards and in such other circumstances as may be prescribed;
 - (b) for requiring meters to be periodically overhauled; and
 - (c) for the revocation of any approval given by the Director to any particular pattern or construction of meter, and for requiring existing meters of that pattern or construction to be replaced within such period as may be prescribed for the purposes of this subsection.
 
-(10) The fees to be paid to meter examiners who are employed in the civil service of the State[^key-45b1febf692f00d897a0e154f2b56538] for the performance of functions conferred by or under this section, and the persons by whom they are to be paid, shall be such as the Director may, with the approval of the Treasury, from time to time determine; and a determination under this subsection may—
+(10) The fees to be paid to meter examiners who are employed in the civil service of the State[^c-45b1febf692f00d897a0e154f2b56538] for the performance of functions conferred by or under this section, and the persons by whom they are to be paid, shall be such as the Director may, with the approval of the Treasury, from time to time determine; and a determination under this subsection may—
 
 - (a) make different provision for different areas or in relation to different cases or different circumstances; and
 - (b) make such supplementary, incidental or transitional provision as the Director considers necessary or expedient.
@@ -75,22 +75,22 @@ summary: ''
 
 ## Annotations
 
-[^key-ec34f6bdc5dd6f0f38e30dc4ab0b6556]: Modification: S. 17 modified (30.10.2006) by [The Measuring Instruments (Gas Meters) Regulations 2006 (S.I. 2006/2647)](https://www.legislation.gov.uk/uksi/2006/2647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/1/2), [28(1)-(4)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/28/1) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/27/1)[(2)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/27/2))
+[^c-ec34f6bdc5dd6f0f38e30dc4ab0b6556]: Modification: S. 17 modified (30.10.2006) by [The Measuring Instruments (Gas Meters) Regulations 2006 (S.I. 2006/2647)](https://www.legislation.gov.uk/uksi/2006/2647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/1/2), [28(1)-(4)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/28/1) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/27/1)[(2)](https://www.legislation.gov.uk/uksi/2006/2647/regulation/27/2))
 
-[^key-295d008096ecd7e4bfd6cfddd321d824]: Modification: S. 17 modified (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 92(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/92/2)[(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/92/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-295d008096ecd7e4bfd6cfddd321d824]: Modification: S. 17 modified (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 92(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/92/2)[(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/92/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
 
-[^key-bcbcc0e9d9ddb8003286db3b4df116e2]: Modification: S. 17 modified (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 4(1)-(4)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/4/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-bcbcc0e9d9ddb8003286db3b4df116e2]: Modification: S. 17 modified (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 4(1)-(4)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/4/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
 [^c14414681]: Textual amendment: S. 17 substituted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/10/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1995/45/schedule/3/paragraph/13); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-d24f3109e965bc32e2331c4c0e0cf8c5]: Textual amendment: Words in s. 17(2) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/2), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-d24f3109e965bc32e2331c4c0e0cf8c5]: Textual amendment: Words in s. 17(2) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/2), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
 
-[^key-bb1c21c8fa61aab47f313a41422b896d]: Textual amendment: Words in s. 17(7) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-bb1c21c8fa61aab47f313a41422b896d]: Textual amendment: Words in s. 17(7) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
 
-[^key-0ab7a55caad23b759de4fecd23b2f05e]: Textual amendment: S. 17(7A) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/4), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-0ab7a55caad23b759de4fecd23b2f05e]: Textual amendment: S. 17(7A) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/4), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
 
-[^key-6e6f811069e72b34712d6458b9b4a728]: Textual amendment: Words in s. 17(8) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-6e6f811069e72b34712d6458b9b4a728]: Textual amendment: Words in s. 17(8) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
 
-[^key-88bf513c012bcca16a5c358eeb25cd96]: Textual amendment: Words in s. 17(9) repealed (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-88bf513c012bcca16a5c358eeb25cd96]: Textual amendment: Words in s. 17(9) repealed (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
 
-[^key-45b1febf692f00d897a0e154f2b56538]: Textual amendment: Words in s. 17(10) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-45b1febf692f00d897a0e154f2b56538]: Textual amendment: Words in s. 17(10) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/93/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)

@@ -35,204 +35,204 @@ on the principles for estimating dwelling services for the purpose of Council Re
 
 (Text with EEA relevance) (revoked)
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f0cb18a64479413203a7dc97bf01f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2f0cb18a64479413203a7dc97bf01f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f0cb18a64479413203a7dc97bf01f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-2f0cb18a64479413203a7dc97bf01f93]
+## ANNEX[^c-2f0cb18a64479413203a7dc97bf01f93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.
 
 OUTPUT OF DWELLING SERVICES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.1.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.1.
 
 Basic methods
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Details of the user-cost method
+[^c-2f0cb18a64479413203a7dc97bf01f93]Details of the user-cost method
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 1:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 1:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.2.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.2.
 
 Stratification of the housing stock
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.2.1.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.2.1.
 
 Factors affecting the rental level
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 2:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 2:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.2.2.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.2.2.
 
 Selection of stratification criteria
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 3:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 3:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.2.3.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.2.3.
 
 Actual and imputed rentals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 4:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 4:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.3.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.3.
 
 Sources for the base year estimate and methods of extrapolation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.3.1.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.3.1.
 
 Housing stock
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 5:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 5:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.3.2.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.3.2.
 
 Actual rentals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 6:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 6:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.3.3.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.3.3.
 
 Extrapolation of base year results
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 7:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 7:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.
 
 Special problems
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.1.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.1.
 
 Rental-free and cheap dwellings
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 8:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 8:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.2.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.2.
 
 Holiday homes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 9:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 9:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.3.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.3.
 
 Time-sharing accommodation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 10:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 10:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.4.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.4.
 
 Spare room lodgers
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 11:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 11:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.5.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.5.
 
 Empty dwellings
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 12:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 12:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]1.4.6.
+[^c-2f0cb18a64479413203a7dc97bf01f93]1.4.6.
 
 Garages
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 13:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 13:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]2.
+[^c-2f0cb18a64479413203a7dc97bf01f93]2.
 
 INTERMEDIATE CONSUMPTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 14:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 14:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]3.
+[^c-2f0cb18a64479413203a7dc97bf01f93]3.
 
 TRANSACTIONS WITH THE REST OF THE WORLD
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]Principle 15:
+[^c-2f0cb18a64479413203a7dc97bf01f93]Principle 15:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f0cb18a64479413203a7dc97bf01f93]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f0cb18a64479413203a7dc97bf01f93]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Extradition
 
-The Overseas Territories (Change of Name) Order 2011 (revoked)[^key-a635191152a0985147f16aa2392ad396]
+The Overseas Territories (Change of Name) Order 2011 (revoked)[^c-a635191152a0985147f16aa2392ad396]
 
 Made
 
@@ -52,23 +52,23 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-a635191152a0985147f16aa2392ad396]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a635191152a0985147f16aa2392ad396]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a635191152a0985147f16aa2392ad396]
+## 1. Citation and commencement[^c-a635191152a0985147f16aa2392ad396]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of certain instruments[^key-a635191152a0985147f16aa2392ad396]
+## 2. Amendment of certain instruments[^c-a635191152a0985147f16aa2392ad396]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a635191152a0985147f16aa2392ad396]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a635191152a0985147f16aa2392ad396]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-a635191152a0985147f16aa2392ad396]
+## SCHEDULE 1[^c-a635191152a0985147f16aa2392ad396]
 
 Article 2
 
@@ -76,8 +76,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-a635191152a0985147f16aa2392ad396]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a635191152a0985147f16aa2392ad396]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a635191152a0985147f16aa2392ad396]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1403) revoked (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [art. 8](https://www.legislation.gov.uk/uksi/2016/990/article/8), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/5/part/1) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2016/990/article/9/3))
+[^c-a635191152a0985147f16aa2392ad396]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1403) revoked (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [art. 8](https://www.legislation.gov.uk/uksi/2016/990/article/8), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/5/part/1) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2016/990/article/9/3))

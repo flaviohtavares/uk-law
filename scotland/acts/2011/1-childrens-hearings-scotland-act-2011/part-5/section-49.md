@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Notice of application for variation or termination[^key-ec947be291bd83ad6eeb73bb6bb01cbc]
+## 49. Notice of application for variation or termination[^c-ec947be291bd83ad6eeb73bb6bb01cbc]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ A person applying under section 48 for variation or termination must, as soon as
 
 ## Annotations
 
-[^key-ec947be291bd83ad6eeb73bb6bb01cbc]: Commencement: S. 49 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ec947be291bd83ad6eeb73bb6bb01cbc]: Commencement: S. 49 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

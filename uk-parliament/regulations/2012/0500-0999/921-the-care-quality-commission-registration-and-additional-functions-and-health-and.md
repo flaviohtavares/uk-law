@@ -52,7 +52,7 @@ In accordance with section 20(8) of the Health and Social Care Act 2008, the Sec
 
 ## PART 1 — GENERAL
 
-**1.**[^key-60703e35e678e4451f85119ff0c1686a] (1) These Regulations may be cited as the Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012.
+**1.**[^c-60703e35e678e4451f85119ff0c1686a] (1) These Regulations may be cited as the Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012.
 
 (2) These Regulations shall come into force on—
 
@@ -62,11 +62,11 @@ In accordance with section 20(8) of the Health and Social Care Act 2008, the Sec
 
 ## PART 2 — AMENDMENTS TO THE CARE QUALITY COMMISSION (REGISTRATION) REGULATIONS 2009
 
-### 2. Amendments to the Care Quality Commission (Registration) Regulations 2009[^key-2a12ba7bf602746c849276749b30e20e]
+### 2. Amendments to the Care Quality Commission (Registration) Regulations 2009[^c-2a12ba7bf602746c849276749b30e20e]
 
 The Care Quality Commission (Registration) Regulations 2009[^f00002] are amended as follows in this Part.
 
-### 3. Amendments to regulation 16[^key-a851960aaf60b59205aacc6094805bfc]
+### 3. Amendments to regulation 16[^c-a851960aaf60b59205aacc6094805bfc]
 
 In regulation 16 (notification of death of service user)—
 
@@ -99,7 +99,7 @@ In regulation 16 (notification of death of service user)—
 
   .
 
-### 4. Amendment to regulation 17[^key-1ac3f687c4e4e6d6315ed1eef068874a]
+### 4. Amendment to regulation 17[^c-1ac3f687c4e4e6d6315ed1eef068874a]
 
 In regulation 17 (notification of death or unauthorised absence of a service user who is detained or liable to be detained under the Mental Health Act 1983)—
 
@@ -116,17 +116,17 @@ In regulation 17 (notification of death or unauthorised absence of a service use
   ; and
 - (d) omit sub-paragraph (d).
 
-### 5. Amendment to regulation 18[^key-0b1cbf205f1a7478aff514f87ee19370][^key-f4ab2548aebe25be7bccaf1c074910bc]
+### 5. Amendment to regulation 18[^c-0b1cbf205f1a7478aff514f87ee19370][^c-f4ab2548aebe25be7bccaf1c074910bc]
 
 In regulation 18 (notification of other incidents)—
 
-- (a)[^key-0b1cbf205f1a7478aff514f87ee19370] omit paragraph (2)(c) and (d);
+- (a)[^c-0b1cbf205f1a7478aff514f87ee19370] omit paragraph (2)(c) and (d);
 - (b) after sub-paragraph (2)(g) insert—
 
   > - (h) any placement of a service-user under the age of eighteen in a psychiatric unit whose services are intended for persons over that age where that placement has lasted for longer than a continuous period of 48 hours.
 
   ;
-- (c)[^key-0b1cbf205f1a7478aff514f87ee19370] after paragraph (4) insert—
+- (c)[^c-0b1cbf205f1a7478aff514f87ee19370] after paragraph (4) insert—
 
   > (4A) The registered person must notify the Commission of the following events, which occur whilst services are being provided in the carrying on of a regulated activity, or as a consequence of the carrying on of a regulated activity—
   >
@@ -142,7 +142,7 @@ In regulation 18 (notification of other incidents)—
 
   .
 
-### 6. Insertion of new Regulation 22A[^key-ee8bdb22162db3fe54a6eab95b17d191]
+### 6. Insertion of new Regulation 22A[^c-ee8bdb22162db3fe54a6eab95b17d191]
 
 After regulation 22 (appointment of liquidators) insert—
 
@@ -152,11 +152,11 @@ After regulation 22 (appointment of liquidators) insert—
 
 .
 
-### 7. Revocation of Regulation 26[^key-21b31ebe74cf53c89022de7f5a6e34fb]
+### 7. Revocation of Regulation 26[^c-21b31ebe74cf53c89022de7f5a6e34fb]
 
 Regulation 26 (penalty notices) is revoked.
 
-### 8. Insertion of new Part 7: Review[^key-081ef77bb2222af99e58729fbaf19951]
+### 8. Insertion of new Part 7: Review[^c-081ef77bb2222af99e58729fbaf19951]
 
 After Part 6 (compliance, guidance and offences) insert—
 
@@ -178,7 +178,7 @@ After Part 6 (compliance, guidance and offences) insert—
 
 .
 
-### 9. Amendment to Schedule 3[^key-f21dd721dbe134af7280d4af59bce876]
+### 9. Amendment to Schedule 3[^c-f21dd721dbe134af7280d4af59bce876]
 
 In Schedule 3 (information to be included in the statement of purpose), for paragraph 3 substitute—
 
@@ -197,7 +197,7 @@ In Schedule 3 (information to be included in the statement of purpose), for para
 
 ## PART 3 — AMENDMENT TO THE CARE QUALITY COMMISSION (ADDITIONAL FUNCTIONS) REGULATIONS 2011
 
-### 10. Amendments to the Care Quality Commission (Additional Functions) Regulations 2011[^key-00eae8dc271c75fe0db7f112360e353f]
+### 10. Amendments to the Care Quality Commission (Additional Functions) Regulations 2011[^c-00eae8dc271c75fe0db7f112360e353f]
 
 (1) The Care Quality Commission (Additional Functions) Regulations 2011[^f00007] are amended as follows.
 
@@ -205,11 +205,11 @@ In Schedule 3 (information to be included in the statement of purpose), for para
 
 ## PART 4 — AMENDMENT TO THE HEALTH AND SOCIAL CARE ACT 2008 (REGULATED ACTIVITIES) REGULATIONS 2010 AND REVOCATION OF THE CARE QUALITY COMMISSION (REGISTRATION) AMENDMENT REGULATIONS 2010
 
-### 11. Amendment to the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^key-2c4957cae0889f912d9c59d904ffcadb]
+### 11. Amendment to the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^c-2c4957cae0889f912d9c59d904ffcadb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Revocation of the Care Quality Commission (Registration) Amendment Regulations 2010[^key-0a186013df1d455f535b43ac07c514f7]
+### 12. Revocation of the Care Quality Commission (Registration) Amendment Regulations 2010[^c-0a186013df1d455f535b43ac07c514f7]
 
 The Care Quality Commission (Registration) Amendment Regulations 2010[^f00011] are revoked.
 
@@ -255,45 +255,45 @@ An impact assessment of the effect that this instrument will have on the costs a
 
 [^f00001]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14). “Prescribed” and “regulations” are defined in section 97(1).
 
-[^key-60703e35e678e4451f85119ff0c1686a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/921/regulation/1) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-60703e35e678e4451f85119ff0c1686a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/921/regulation/1) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
-[^key-2a12ba7bf602746c849276749b30e20e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/921/regulation/2) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-2a12ba7bf602746c849276749b30e20e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/921/regulation/2) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
 [^f00002]: Footnote: [S.I. 2009/3112](https://www.legislation.gov.uk/uksi/2009/3112), as amended by [S.I. 2010/49](https://www.legislation.gov.uk/uksi/2010/49)
 
-[^key-a851960aaf60b59205aacc6094805bfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/921/regulation/3) in force at 1.10.2012, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/b)
+[^c-a851960aaf60b59205aacc6094805bfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/921/regulation/3) in force at 1.10.2012, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/b)
 
 [^f00003]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
 [^f00004]: Footnote: Paragraph 3 of Schedule 2 to [S.I. 2010/781](https://www.legislation.gov.uk/uksi/2010/781) which provides that the provision of primary medical services is not a regulated activity ceases to have effect on 1st April 2012 in relation to all activities carried on by providers of out of hours services and on 1st April 2013 for all other purposes: see Regulation 3(8) of [S.I. 2010/781](https://www.legislation.gov.uk/uksi/2010/781) as inserted by Regulation 2(3) of [S.I. 2011/2711](https://www.legislation.gov.uk/uksi/2011/2711).
 
-[^key-1ac3f687c4e4e6d6315ed1eef068874a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/921/regulation/4) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-1ac3f687c4e4e6d6315ed1eef068874a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/921/regulation/4) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
 [^f00005]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14). “English NHS body” is defined by section 97(1).
 
-[^key-0b1cbf205f1a7478aff514f87ee19370]: Commencement: [Reg. 5(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/a)[(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/c) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-0b1cbf205f1a7478aff514f87ee19370]: Commencement: [Reg. 5(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/a)[(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/c) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
-[^key-f4ab2548aebe25be7bccaf1c074910bc]: Commencement: [Reg. 5(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/b) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/c)
+[^c-f4ab2548aebe25be7bccaf1c074910bc]: Commencement: [Reg. 5(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/b) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/c)
 
 [^f00006]: Footnote: Schedule A1 was inserted into the Mental Capacity Act [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9) by paragraph 1 of Schedule 7 to the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12).
 
-[^key-ee8bdb22162db3fe54a6eab95b17d191]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/921/regulation/6) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-ee8bdb22162db3fe54a6eab95b17d191]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/921/regulation/6) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
-[^key-21b31ebe74cf53c89022de7f5a6e34fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/921/regulation/7) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-21b31ebe74cf53c89022de7f5a6e34fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/921/regulation/7) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
-[^key-081ef77bb2222af99e58729fbaf19951]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/921/regulation/8) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-081ef77bb2222af99e58729fbaf19951]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/921/regulation/8) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
-[^key-f21dd721dbe134af7280d4af59bce876]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/921/regulation/9) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-f21dd721dbe134af7280d4af59bce876]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/921/regulation/9) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
-[^key-00eae8dc271c75fe0db7f112360e353f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/921/regulation/10) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-00eae8dc271c75fe0db7f112360e353f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/921/regulation/10) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
 [^f00007]: Footnote: [S.I. 2011/1551](https://www.legislation.gov.uk/uksi/2011/1551).
 
 [^f00008]: Footnote: High Security Psychiatric Services (Arrangements for Safety and Security at Ashworth, Broadmoor and Rampton Hospitals) Directions 2011 made on 14<sup>th</sup> June 2011 and published at http://www.dh.gov.uk/prod\_consum\_dh/groups/dh\_digitalassets/documents/digitalasset/dh\_128192.pdf
 
-[^key-2c4957cae0889f912d9c59d904ffcadb]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/921/regulation/11) revoked (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [25(1)(c)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/25/c)
+[^c-2c4957cae0889f912d9c59d904ffcadb]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/921/regulation/11) revoked (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [25(1)(c)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/25/c)
 
-[^key-0a186013df1d455f535b43ac07c514f7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/921/regulation/12) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
+[^c-0a186013df1d455f535b43ac07c514f7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/921/regulation/12) in force at 18.6.2012, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a)
 
 [^f00011]: Footnote: [S.I. 2010/49](https://www.legislation.gov.uk/uksi/2010/49).
 

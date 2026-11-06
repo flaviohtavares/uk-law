@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Allocation of expenses to be paid from the relevant funds[^key-21779f99a76ef1742a7bf526ab430ffd]
+## 100. Allocation of expenses to be paid from the relevant funds[^c-21779f99a76ef1742a7bf526ab430ffd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The administrator must set out, in the distribution plan under rule 111 of these
 
 ## Annotations
 
-[^key-21779f99a76ef1742a7bf526ab430ffd]: Commencement: [Rule 100](https://www.legislation.gov.uk/nisr/2026/11/rule/100) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-21779f99a76ef1742a7bf526ab430ffd]: Commencement: [Rule 100](https://www.legislation.gov.uk/nisr/2026/11/rule/100) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

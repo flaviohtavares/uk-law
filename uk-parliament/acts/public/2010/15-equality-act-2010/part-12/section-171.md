@@ -36,8 +36,8 @@ summary: ''
 
 The power to make regulations under paragraph (b) is exercisable by the Secretary of State.
 
-(5) In this section “**driver**” and “licensing authority”[^key-ea32c3ba26954f82937cc4b42bc33f66] have the same meaning as in section 170.
+(5) In this section “**driver**” and “licensing authority”[^c-ea32c3ba26954f82937cc4b42bc33f66] have the same meaning as in section 170.
 
 ## Annotations
 
-[^key-ea32c3ba26954f82937cc4b42bc33f66]: Textual amendment: Words in [s. 171(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/171/5) substituted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-ea32c3ba26954f82937cc4b42bc33f66]: Textual amendment: Words in [s. 171(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/171/5) substituted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

@@ -26,9 +26,9 @@ Section 50
 
 #### Extradition to category 1 territories
 
-**1.**[^key-6cc878ca4e215c89d42b51605639cf0b][^key-e74c46dffc3eadf74aab886e2f5ca504] Part 1 of the Extradition Act 2003 (extradition to category 1 territories) is amended as follows.
+**1.**[^c-6cc878ca4e215c89d42b51605639cf0b][^c-e74c46dffc3eadf74aab886e2f5ca504] Part 1 of the Extradition Act 2003 (extradition to category 1 territories) is amended as follows.
 
-**2.**[^key-01d837ae1077dbd8efb6fdc472d25678][^key-a4a42fb86bf4e15f52e75c39e34d1896] In section 11 (bars to extradition)—
+**2.**[^c-01d837ae1077dbd8efb6fdc472d25678][^c-a4a42fb86bf4e15f52e75c39e34d1896] In section 11 (bars to extradition)—
 
 - (a) at the end of subsection (1) insert—
 
@@ -42,7 +42,7 @@ Section 50
   ;
 - (c) in subsection (2), for the words from “12” to “apply” substitute “ 12 to 19F apply ”.
 
-**3.**[^key-2f9dcc3ddc7be198efe89823ce0d0463][^key-f6049f8aa705f9f8e8563b435777192d][^key-d894fbe17fb3df1586638b41c193ca54] After section 19A insert—
+**3.**[^c-2f9dcc3ddc7be198efe89823ce0d0463][^c-f6049f8aa705f9f8e8563b435777192d][^c-d894fbe17fb3df1586638b41c193ca54] After section 19A insert—
 
 > **19B. Forum**
 >
@@ -177,9 +177,9 @@ Section 50
 
 #### Extradition to category 2 territories
 
-**4.**[^key-61a6d7c1d53c907c9d8bc2b95cb43374][^key-7b7ced4c0cd392f16eb428bf04b96c3d] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
+**4.**[^c-61a6d7c1d53c907c9d8bc2b95cb43374][^c-7b7ced4c0cd392f16eb428bf04b96c3d] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
 
-**5.**[^key-9183ad7e8ffbcaf73eb166f4ac5a55d8][^key-0a84a2cf859c1e02a93e1346c94e7e88] In section 79 (bars to extradition)—
+**5.**[^c-9183ad7e8ffbcaf73eb166f4ac5a55d8][^c-0a84a2cf859c1e02a93e1346c94e7e88] In section 79 (bars to extradition)—
 
 - (a) at the end of subsection (1) insert—
 
@@ -193,7 +193,7 @@ Section 50
   ;
 - (c) in subsection (2), for “Sections 80 to 83” substitute “ Sections 80 to 83E ”.
 
-**6.**[^key-d8833783b303d78d5ce17cd7b2f37e50][^key-162091ce82cec20964f86ac438ec3580][^key-ef2f6a4f7b05625968859d30d3c8ec5f] After section 83 insert—
+**6.**[^c-d8833783b303d78d5ce17cd7b2f37e50][^c-162091ce82cec20964f86ac438ec3580][^c-ef2f6a4f7b05625968859d30d3c8ec5f] After section 83 insert—
 
 > **83A. Forum**
 >
@@ -328,7 +328,7 @@ Section 50
 
 #### Transitional provision, saving and repeals
 
-**7.**[^key-fc058868edf64960a0adc51333054fea][^key-531ae547347385afc74b0b475220a69f] (1) In a case where the Part 1 warrant, or the request for the person's extradition, has been issued before the time when the amendments made by this Part of this Schedule come into force, those amendments apply to the extradition concerned only if, at that time, the judge has not yet decided all of the existing extradition bar questions.
+**7.**[^c-fc058868edf64960a0adc51333054fea][^c-531ae547347385afc74b0b475220a69f] (1) In a case where the Part 1 warrant, or the request for the person's extradition, has been issued before the time when the amendments made by this Part of this Schedule come into force, those amendments apply to the extradition concerned only if, at that time, the judge has not yet decided all of the existing extradition bar questions.
 
 (2) For that purpose—
 
@@ -339,17 +339,17 @@ Section 50
   as those questions stand before their amendment by this Part of this Schedule;
 - “**Part 1 warrant**” and “**request for a person's extradition**” have the same meanings as in the Extradition Act 2003.
 
-**8.**[^key-8addb6085107fc672d8512f5de34e280][^key-10e0a341f95e0275aca488b539f8ac09] The powers conferred by section 177, 178 and 222 of the Extradition Act 2003 are exercisable in relation to any amendment of that Act made by this Part of this Schedule.
+**8.**[^c-8addb6085107fc672d8512f5de34e280][^c-10e0a341f95e0275aca488b539f8ac09] The powers conferred by section 177, 178 and 222 of the Extradition Act 2003 are exercisable in relation to any amendment of that Act made by this Part of this Schedule.
 
-**9.**[^key-77ba19bcf967b8e1d72629e51187aab8][^key-3e25c2df0f4c951abc782251c072d18b] In the Police and Justice Act 2006, in Schedule 13 (extradition), in Part 1 (amendments to the Extradition Act 2003), omit paragraphs 4 to 6 (and the italic heading preceding paragraph 4).
+**9.**[^c-77ba19bcf967b8e1d72629e51187aab8][^c-3e25c2df0f4c951abc782251c072d18b] In the Police and Justice Act 2006, in Schedule 13 (extradition), in Part 1 (amendments to the Extradition Act 2003), omit paragraphs 4 to 6 (and the italic heading preceding paragraph 4).
 
 ### Part 2 — Human rights issues
 
 #### Extradition to category 2 territories
 
-**10.**[^key-b1b92259eaf777fd6810266558757731][^key-51dff5566e17de2fd80956bd282bd95d][^key-5613cf1bc8d5c60344e18e218290c370] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
+**10.**[^c-b1b92259eaf777fd6810266558757731][^c-51dff5566e17de2fd80956bd282bd95d][^c-5613cf1bc8d5c60344e18e218290c370] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
 
-**11.**[^key-54874dc7a723ca9fe961607abd7ff049][^key-e82a4c9ff9e5ca0e67e0629489260217][^key-bdf0ae393fbf91fdcaba428e273de2a2] In section 70 (extradition request and certificate), after subsection (9) insert—
+**11.**[^c-54874dc7a723ca9fe961607abd7ff049][^c-e82a4c9ff9e5ca0e67e0629489260217][^c-bdf0ae393fbf91fdcaba428e273de2a2] In section 70 (extradition request and certificate), after subsection (9) insert—
 
 > (10) Subsection (11) applies at all times after the Secretary of State issues a certificate under this section.
 >
@@ -357,7 +357,7 @@ Section 50
 
 .
 
-**12.**[^key-860554d5ac5132ee85e2e76c87f61bbe][^key-50a47e725db27725c9a2b6a98d6d87ef][^key-770fda757c78d3ecf12808cc23ab6677] In section 108 (appeal against extradition order) after subsection (4) insert—
+**12.**[^c-860554d5ac5132ee85e2e76c87f61bbe][^c-50a47e725db27725c9a2b6a98d6d87ef][^c-770fda757c78d3ecf12808cc23ab6677] In section 108 (appeal against extradition order) after subsection (4) insert—
 
 > (5) But notice of an appeal under this section may be given after the end of the permitted period if it is an appeal on human rights grounds.
 >
@@ -370,13 +370,13 @@ Section 50
 >
 > (8) In this section “**appeal on human rights grounds**” means an appeal against the order for the person's extradition on the grounds (and only on the grounds) that the extradition would not be compatible with the Convention rights within the meaning of the Human Rights Act 1998.
 
-**13.**[^key-c6e007548a069b9342a16c6065801405][^key-93bf32b02cc523509bd43c58632ea37e][^key-7348044f950b8fb4e5696662b13beb08] In section 117 (extradition where no appeal), after subsection (4) insert—
+**13.**[^c-c6e007548a069b9342a16c6065801405][^c-93bf32b02cc523509bd43c58632ea37e][^c-7348044f950b8fb4e5696662b13beb08] In section 117 (extradition where no appeal), after subsection (4) insert—
 
 > (5) If a person brings an appeal under section 108 by virtue of subsection (5) of that section, this section ceases to apply (but section 118 applies instead).
 
 #### Transitional provision and saving
 
-**14.**[^key-aeb0ba2e31d36cca4301ed69e89fc17e][^key-7bb1b6f503f4e93b77394f55d76631e5][^key-2e6f05fe7236038e855d6a056b6e7851] (1) In a case where a request for a person's extradition has been issued before the time when the amendments made by this Part of this Schedule come into force, those amendments apply to the extradition concerned only if—
+**14.**[^c-aeb0ba2e31d36cca4301ed69e89fc17e][^c-7bb1b6f503f4e93b77394f55d76631e5][^c-2e6f05fe7236038e855d6a056b6e7851] (1) In a case where a request for a person's extradition has been issued before the time when the amendments made by this Part of this Schedule come into force, those amendments apply to the extradition concerned only if—
 
 - (a) the person concerned has not made any human rights representations to the Secretary of State during the relevant period, or
 - (b) the person concerned has made such representations during that period and the Secretary of State has finished considering them by the end of that period.
@@ -389,15 +389,15 @@ Section 50
   - (b) ends when the amendments made by this Part of this Schedule come into force;
 - “**request for a person's extradition**” has the same meaning as in the Extradition Act 2003.
 
-**15.**[^key-b2e3e04835d8189094168bfb3e37e758][^key-f901a6d20a715c9a1d8b8addf7d718ba][^key-ed672d8a44475f7c42e73c3557e0448d] The powers conferred by section 177, 178 and 222 of the Extradition Act 2003 are exercisable in relation to any amendment of that Act made by this Part of this Schedule.
+**15.**[^c-b2e3e04835d8189094168bfb3e37e758][^c-f901a6d20a715c9a1d8b8addf7d718ba][^c-ed672d8a44475f7c42e73c3557e0448d] The powers conferred by section 177, 178 and 222 of the Extradition Act 2003 are exercisable in relation to any amendment of that Act made by this Part of this Schedule.
 
 ### Part 3 — Devolution issues in Scotland
 
 #### Extradition to category 1 territories
 
-**16.**[^key-f33bb6b74c63230972c1770f55eb78cf] Part 1 of the Extradition Act 2003 (extradition to category 1 territories) is amended as follows.
+**16.**[^c-f33bb6b74c63230972c1770f55eb78cf] Part 1 of the Extradition Act 2003 (extradition to category 1 territories) is amended as follows.
 
-**17.**[^key-0b0d5acf04b958f6d4cc896158a4f560] (1) In section 30 (detention pending conclusion of appeal under section 28), for subsection (5) substitute—
+**17.**[^c-0b0d5acf04b958f6d4cc896158a4f560] (1) In section 30 (detention pending conclusion of appeal under section 28), for subsection (5) substitute—
 
 > (5) The preceding provisions of this section do not apply to Scotland.
 
@@ -439,7 +439,7 @@ Section 50
 >
 > (8) This section applies only to Scotland.
 
-**18.**[^key-4623e8e4712a5cdf9d0395db9140e40a] After section 33 insert—
+**18.**[^c-4623e8e4712a5cdf9d0395db9140e40a] After section 33 insert—
 
 > **33ZA. Scottish devolution issue: remand in custody or on bail**
 >
@@ -452,7 +452,7 @@ Section 50
 >
 > (3) If the Supreme Court remands the person in custody it may later grant bail.
 
-**19.**[^key-e0f5c652f577e1def06642a70a7f03fe] After section 33A insert—
+**19.**[^c-e0f5c652f577e1def06642a70a7f03fe] After section 33A insert—
 
 > **33B. Detention pending conclusion of appeals relating to devolution issues**
 >
@@ -474,13 +474,13 @@ Section 50
 >
 > (6) This section applies only to Scotland.
 
-**20.**[^key-6f11f5a4ac83727315b321dbd962758f] In section 34 (appeals: general), at the beginning insert “ (1) ” and at the end insert—
+**20.**[^c-6f11f5a4ac83727315b321dbd962758f] In section 34 (appeals: general), at the beginning insert “ (1) ” and at the end insert—
 
 > (2) Subsection (1) does not prevent an appeal against a determination of a devolution issue.
 >
 > (3) In this Part “**devolution issue**” has the same meaning as in Schedule 6 to the Scotland Act 1998.
 
-**21.**[^key-71a412a9b8322378a8f8ec79fdcdc7e1] (1) In section 36 (extradition following appeal), for subsection (9) substitute—
+**21.**[^c-71a412a9b8322378a8f8ec79fdcdc7e1] (1) In section 36 (extradition following appeal), for subsection (9) substitute—
 
 > (9) The preceding provisions of this section do not apply to Scotland.
 
@@ -539,9 +539,9 @@ Section 50
 
 #### Extradition to category 2 territories
 
-**22.**[^key-cd0130a1ff2d9d8054bcdf85a4048bc8] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
+**22.**[^c-cd0130a1ff2d9d8054bcdf85a4048bc8] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
 
-**23.**[^key-316a2c46ccab7c8194c2eb7635b73754] (1) In section 107 (detention pending conclusion of appeal under section 105), for subsection (5) substitute—
+**23.**[^c-316a2c46ccab7c8194c2eb7635b73754] (1) In section 107 (detention pending conclusion of appeal under section 105), for subsection (5) substitute—
 
 > (5) The preceding provisions of this section do not apply to Scotland.
 
@@ -582,7 +582,7 @@ Section 50
 >
 > (8) This section applies only to Scotland.
 
-**24.**[^key-fa323c5045c2b335dc584e5596343fd7] (1) In section 112 (detention pending conclusion of appeal under section 110), for subsection (5) substitute—
+**24.**[^c-fa323c5045c2b335dc584e5596343fd7] (1) In section 112 (detention pending conclusion of appeal under section 110), for subsection (5) substitute—
 
 > (5) The preceding provisions of this section do not apply to Scotland.
 
@@ -626,7 +626,7 @@ Section 50
 >
 > (8) This section applies only to Scotland.
 
-**25.**[^key-0816bb67d342b121f32c38bfdfb6238d] After section 115A insert—
+**25.**[^c-0816bb67d342b121f32c38bfdfb6238d] After section 115A insert—
 
 > **115B. Detention pending conclusion of appeals relating to devolution issues**
 >
@@ -651,13 +651,13 @@ Section 50
 >
 > (6) This section applies only to Scotland.
 
-**26.**[^key-ac170b3fb590a5529c7b8cea75da4295] In section 116 (appeals: general), at the beginning insert “ (1) ” and at the end insert—
+**26.**[^c-ac170b3fb590a5529c7b8cea75da4295] In section 116 (appeals: general), at the beginning insert “ (1) ” and at the end insert—
 
 > (2) Subsection (1) does not prevent an appeal against a determination of a devolution issue.
 >
 > (3) In this Part “**devolution issue**” has the same meaning as in Schedule 6 to the Scotland Act 1998.
 
-**27.**[^key-d8044ba53626bb3bf8695d3e6002d9b1] (1) In section 118 (extradition following appeal), for subsection (8) substitute—
+**27.**[^c-d8044ba53626bb3bf8695d3e6002d9b1] (1) In section 118 (extradition following appeal), for subsection (8) substitute—
 
 > (8) The preceding provisions of this section do not apply to Scotland.
 
@@ -714,7 +714,7 @@ Section 50
 >
 > (10) This section applies only to Scotland.
 
-**28.**[^key-d2cf47d0f8a26034055b2340b2d507e5] After section 118A (inserted by paragraph 27) insert—
+**28.**[^c-d2cf47d0f8a26034055b2340b2d507e5] After section 118A (inserted by paragraph 27) insert—
 
 > **118B. Scottish devolution issue: remand in custody or on bail**
 >
@@ -729,110 +729,110 @@ Section 50
 
 #### Saving
 
-**29.**[^key-c64c5f4f61ab6bca2fcd3d69a0a4c91a] The powers conferred by section 177, 178 and 222 of the Extradition Act 2003 are exercisable in relation to any amendment of that Act made by this Part of this Schedule.
+**29.**[^c-c64c5f4f61ab6bca2fcd3d69a0a4c91a] The powers conferred by section 177, 178 and 222 of the Extradition Act 2003 are exercisable in relation to any amendment of that Act made by this Part of this Schedule.
 
 ## Annotations
 
-[^key-6cc878ca4e215c89d42b51605639cf0b]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/1) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-6cc878ca4e215c89d42b51605639cf0b]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/1) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-e74c46dffc3eadf74aab886e2f5ca504]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/1) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-e74c46dffc3eadf74aab886e2f5ca504]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/1) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-01d837ae1077dbd8efb6fdc472d25678]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/2) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-01d837ae1077dbd8efb6fdc472d25678]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/2) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-a4a42fb86bf4e15f52e75c39e34d1896]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/2) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-a4a42fb86bf4e15f52e75c39e34d1896]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/2) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-2f9dcc3ddc7be198efe89823ce0d0463]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) in force at 18.9.2013 for specified purposes by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)
+[^c-2f9dcc3ddc7be198efe89823ce0d0463]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) in force at 18.9.2013 for specified purposes by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)
 
-[^key-f6049f8aa705f9f8e8563b435777192d]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) in force at 14.10.2013 for E.W.N.I. in so far as not already in force by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-f6049f8aa705f9f8e8563b435777192d]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) in force at 14.10.2013 for E.W.N.I. in so far as not already in force by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-d894fbe17fb3df1586638b41c193ca54]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-d894fbe17fb3df1586638b41c193ca54]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-61a6d7c1d53c907c9d8bc2b95cb43374]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/4) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-61a6d7c1d53c907c9d8bc2b95cb43374]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/4) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-7b7ced4c0cd392f16eb428bf04b96c3d]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/4) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-7b7ced4c0cd392f16eb428bf04b96c3d]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/4) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-9183ad7e8ffbcaf73eb166f4ac5a55d8]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/5) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-9183ad7e8ffbcaf73eb166f4ac5a55d8]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/5) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-0a84a2cf859c1e02a93e1346c94e7e88]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/5) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-0a84a2cf859c1e02a93e1346c94e7e88]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/5) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-d8833783b303d78d5ce17cd7b2f37e50]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) in force at 18.9.2013 for specified purposes by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)
+[^c-d8833783b303d78d5ce17cd7b2f37e50]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) in force at 18.9.2013 for specified purposes by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)
 
-[^key-162091ce82cec20964f86ac438ec3580]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) in force at 14.10.2013 for E.W.N.I. in so far as not already in force by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-162091ce82cec20964f86ac438ec3580]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) in force at 14.10.2013 for E.W.N.I. in so far as not already in force by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-ef2f6a4f7b05625968859d30d3c8ec5f]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-ef2f6a4f7b05625968859d30d3c8ec5f]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-fc058868edf64960a0adc51333054fea]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-fc058868edf64960a0adc51333054fea]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-531ae547347385afc74b0b475220a69f]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-531ae547347385afc74b0b475220a69f]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-8addb6085107fc672d8512f5de34e280]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-8addb6085107fc672d8512f5de34e280]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-10e0a341f95e0275aca488b539f8ac09]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-10e0a341f95e0275aca488b539f8ac09]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-77ba19bcf967b8e1d72629e51187aab8]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/9) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-77ba19bcf967b8e1d72629e51187aab8]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/9) in force at 14.10.2013 for E.W.N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
 
-[^key-3e25c2df0f4c951abc782251c072d18b]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/9) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-3e25c2df0f4c951abc782251c072d18b]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/9) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-b1b92259eaf777fd6810266558757731]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/10) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
+[^c-b1b92259eaf777fd6810266558757731]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/10) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
 
-[^key-51dff5566e17de2fd80956bd282bd95d]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/10) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
+[^c-51dff5566e17de2fd80956bd282bd95d]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/10) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
 
-[^key-5613cf1bc8d5c60344e18e218290c370]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/10) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-5613cf1bc8d5c60344e18e218290c370]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/10) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-54874dc7a723ca9fe961607abd7ff049]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/11) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
+[^c-54874dc7a723ca9fe961607abd7ff049]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/11) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
 
-[^key-e82a4c9ff9e5ca0e67e0629489260217]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/11) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
+[^c-e82a4c9ff9e5ca0e67e0629489260217]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/11) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
 
-[^key-bdf0ae393fbf91fdcaba428e273de2a2]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/11) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-bdf0ae393fbf91fdcaba428e273de2a2]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/11) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-860554d5ac5132ee85e2e76c87f61bbe]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/12) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
+[^c-860554d5ac5132ee85e2e76c87f61bbe]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/12) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
 
-[^key-50a47e725db27725c9a2b6a98d6d87ef]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/12) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
+[^c-50a47e725db27725c9a2b6a98d6d87ef]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/12) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
 
-[^key-770fda757c78d3ecf12808cc23ab6677]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/12) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-770fda757c78d3ecf12808cc23ab6677]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/12) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-c6e007548a069b9342a16c6065801405]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/13) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
+[^c-c6e007548a069b9342a16c6065801405]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/13) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
 
-[^key-93bf32b02cc523509bd43c58632ea37e]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/13) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
+[^c-93bf32b02cc523509bd43c58632ea37e]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/13) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
 
-[^key-7348044f950b8fb4e5696662b13beb08]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/13) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-7348044f950b8fb4e5696662b13beb08]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/13) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-aeb0ba2e31d36cca4301ed69e89fc17e]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/14) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
+[^c-aeb0ba2e31d36cca4301ed69e89fc17e]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/14) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
 
-[^key-7bb1b6f503f4e93b77394f55d76631e5]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/14) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
+[^c-7bb1b6f503f4e93b77394f55d76631e5]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/14) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
 
-[^key-2e6f05fe7236038e855d6a056b6e7851]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/14) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-2e6f05fe7236038e855d6a056b6e7851]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/14) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-b2e3e04835d8189094168bfb3e37e758]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/15) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
+[^c-b2e3e04835d8189094168bfb3e37e758]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/15) in force at 29.7.2013 for E.W. by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/2/b)
 
-[^key-f901a6d20a715c9a1d8b8addf7d718ba]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/15) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
+[^c-f901a6d20a715c9a1d8b8addf7d718ba]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/15) in force at 14.10.2013 for N.I. by [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/4)
 
-[^key-ed672d8a44475f7c42e73c3557e0448d]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/15) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-ed672d8a44475f7c42e73c3557e0448d]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/15) in force at 17.9.2021 in so far as not already in force by [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-f33bb6b74c63230972c1770f55eb78cf]: Commencement: [Sch. 20 para. 16](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/16) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
+[^c-f33bb6b74c63230972c1770f55eb78cf]: Commencement: [Sch. 20 para. 16](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/16) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
 
-[^key-0b0d5acf04b958f6d4cc896158a4f560]: Commencement: [Sch. 20 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/17) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/1))
+[^c-0b0d5acf04b958f6d4cc896158a4f560]: Commencement: [Sch. 20 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/17) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/1))
 
-[^key-4623e8e4712a5cdf9d0395db9140e40a]: Commencement: [Sch. 20 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/18) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/2))
+[^c-4623e8e4712a5cdf9d0395db9140e40a]: Commencement: [Sch. 20 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/18) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/2))
 
-[^key-e0f5c652f577e1def06642a70a7f03fe]: Commencement: [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/19) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/3))
+[^c-e0f5c652f577e1def06642a70a7f03fe]: Commencement: [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/19) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/3))
 
-[^key-6f11f5a4ac83727315b321dbd962758f]: Commencement: [Sch. 20 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/20) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
+[^c-6f11f5a4ac83727315b321dbd962758f]: Commencement: [Sch. 20 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/20) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
 
-[^key-71a412a9b8322378a8f8ec79fdcdc7e1]: Commencement: [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/21) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/4))
+[^c-71a412a9b8322378a8f8ec79fdcdc7e1]: Commencement: [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/21) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/4))
 
-[^key-cd0130a1ff2d9d8054bcdf85a4048bc8]: Commencement: [Sch. 20 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/22) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
+[^c-cd0130a1ff2d9d8054bcdf85a4048bc8]: Commencement: [Sch. 20 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/22) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
 
-[^key-316a2c46ccab7c8194c2eb7635b73754]: Commencement: [Sch. 20 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/23) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/5))
+[^c-316a2c46ccab7c8194c2eb7635b73754]: Commencement: [Sch. 20 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/23) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/5))
 
-[^key-fa323c5045c2b335dc584e5596343fd7]: Commencement: [Sch. 20 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/24) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(6)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/6))
+[^c-fa323c5045c2b335dc584e5596343fd7]: Commencement: [Sch. 20 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/24) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(6)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/6))
 
-[^key-0816bb67d342b121f32c38bfdfb6238d]: Commencement: [Sch. 20 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/25) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(7)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/7))
+[^c-0816bb67d342b121f32c38bfdfb6238d]: Commencement: [Sch. 20 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/25) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(7)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/7))
 
-[^key-ac170b3fb590a5529c7b8cea75da4295]: Commencement: [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/26) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
+[^c-ac170b3fb590a5529c7b8cea75da4295]: Commencement: [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/26) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
 
-[^key-d8044ba53626bb3bf8695d3e6002d9b1]: Commencement: [Sch. 20 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/27) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(8)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/8))
+[^c-d8044ba53626bb3bf8695d3e6002d9b1]: Commencement: [Sch. 20 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/27) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(8)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/8))
 
-[^key-d2cf47d0f8a26034055b2340b2d507e5]: Commencement: [Sch. 20 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/28) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(9)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/9))
+[^c-d2cf47d0f8a26034055b2340b2d507e5]: Commencement: [Sch. 20 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/28) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(9)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/9))
 
-[^key-c64c5f4f61ab6bca2fcd3d69a0a4c91a]: Commencement: [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)
+[^c-c64c5f4f61ab6bca2fcd3d69a0a4c91a]: Commencement: [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29) in force at 29.7.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b)

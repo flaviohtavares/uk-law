@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Extra arrangements[^key-ffbb44cafb00c2fdbc2b01007452a8c7]
+## 42. Extra arrangements[^c-ffbb44cafb00c2fdbc2b01007452a8c7]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffbb44cafb00c2fdbc2b01007452a8c7]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/16/section/42) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-ffbb44cafb00c2fdbc2b01007452a8c7]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/16/section/42) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

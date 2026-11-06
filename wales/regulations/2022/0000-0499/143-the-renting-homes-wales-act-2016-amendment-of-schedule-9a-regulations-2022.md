@@ -41,15 +41,15 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 256(3) and (4)(ma)[^f00002] of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru[^f00003].
 
-## 1. Title and commencement[^key-0a6df7609d7b7901c792d6d3ca194007]
+## 1. Title and commencement[^c-0a6df7609d7b7901c792d6d3ca194007]
 
-The title of these Regulations is the Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^key-a797416658d4273902c9bca260a72a4d] [^f00004].
+The title of these Regulations is the Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^c-a797416658d4273902c9bca260a72a4d] [^f00004].
 
-## 2. Interpretation[^key-269eeff6e255c6e949ae0d58c77aa498]
+## 2. Interpretation[^c-269eeff6e255c6e949ae0d58c77aa498]
 
 In these Regulations, “**the Act**” means the Renting Homes (Wales) Act 2016.
 
-## 3. Prohibition on giving notice seeking possession if energy performance certificate has not been provided[^key-6dd8daccfb2b9178b55900697a0fa682]
+## 3. Prohibition on giving notice seeking possession if energy performance certificate has not been provided[^c-6dd8daccfb2b9178b55900697a0fa682]
 
 In Schedule 9A to the Act (standard occupation contracts: restrictions on giving certain notices seeking possession), after paragraph 3 insert—
 
@@ -69,7 +69,7 @@ In Schedule 9A to the Act (standard occupation contracts: restrictions on giving
 > - “**the EPB Regulations**” (“***y Rheoliadau PYA***”) means the Energy Performance of Buildings (England and Wales) Regulations 2012 ([S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118));
 > - “**valid energy performance certificate**” (“***tystysgrif perfformiad ynni ddilys***”) is to be interpreted in accordance with the EPB Regulations.
 
-## 4. Prohibitions on giving notice seeking possession relating to health and safety[^key-6bc53abb7d9d5e3db6143bbfe457feaa]
+## 4. Prohibitions on giving notice seeking possession relating to health and safety[^c-6bc53abb7d9d5e3db6143bbfe457feaa]
 
 In Schedule 9A to the Act, after paragraph 5 insert—
 
@@ -119,7 +119,7 @@ In Schedule 9A to the Act, after paragraph 5 insert—
 > - “**gas safety record**” (“***cofnod diogelwch nwy***”) means a record made pursuant to the requirements of regulation 36(3)(c) of the Gas Safety Regulations;
 > - “**Gas Safety Regulations**” (“***Rheoliadau Diogelwch Nwy***”) means the Gas Safety (Installation and Use) Regulations 1998 ([S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451)).
 
-## 5. Related amendments of Schedule 9A to the Act[^key-dd928fda11d560324ae653988b7a5411]
+## 5. Related amendments of Schedule 9A to the Act[^c-dd928fda11d560324ae653988b7a5411]
 
 (1) Schedule 9A to the Act is amended as follows.
 
@@ -203,16 +203,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: The reference in section 256(3) of the Renting Homes (Wales) Act 2016 to the National Assembly for Wales now has effect as a reference to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-0a6df7609d7b7901c792d6d3ca194007]: Commencement: Reg. 1 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-0a6df7609d7b7901c792d6d3ca194007]: Commencement: Reg. 1 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-a797416658d4273902c9bca260a72a4d]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/143/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/wsi/2022/906/article/8)
+[^c-a797416658d4273902c9bca260a72a4d]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/143/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/wsi/2022/906/article/8)
 
 [^f00004]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 comes into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-269eeff6e255c6e949ae0d58c77aa498]: Commencement: Reg. 2 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-269eeff6e255c6e949ae0d58c77aa498]: Commencement: Reg. 2 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-6dd8daccfb2b9178b55900697a0fa682]: Commencement: Reg. 3 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-6dd8daccfb2b9178b55900697a0fa682]: Commencement: Reg. 3 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-6bc53abb7d9d5e3db6143bbfe457feaa]: Commencement: Reg. 4 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-6bc53abb7d9d5e3db6143bbfe457feaa]: Commencement: Reg. 4 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-dd928fda11d560324ae653988b7a5411]: Commencement: Reg. 5 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-dd928fda11d560324ae653988b7a5411]: Commencement: Reg. 5 in force at 1.12.2022 see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 8](https://www.legislation.gov.uk/uksi/2022/906/article/8))

@@ -49,7 +49,7 @@ In accordance with section 48(4A)[^f00004] of the Food Safety Act 1990, the Wels
 
 There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005].
 
-## 1. Title, application and commencement[^key-7afeacd58700ea0592e95216b4b839d5]
+## 1. Title, application and commencement[^c-7afeacd58700ea0592e95216b4b839d5]
 
 (1) The title of these Regulations is the Novel Foods (Wales) Regulations 2017.
 
@@ -57,7 +57,7 @@ There has been open and transparent public consultation during the preparation a
 
 (3) These Regulations come into force on 1 January 2018.
 
-## 2. Interpretation[^key-68e56f147f1bff074394317b2a777c27]
+## 2. Interpretation[^c-68e56f147f1bff074394317b2a777c27]
 
 (1) In these Regulations—
 
@@ -67,22 +67,22 @@ There has been open and transparent public consultation during the preparation a
 
 (2) Unless the contrary intention appears, any expression used both in these Regulations and Regulation (EU) 2015/2283 has the meaning that it bears in Regulation (EU) 2015/2283.
 
-## 3. Enforcement[^key-4d702f04215bb8c7bb2e4b6efdb85a0c]
+## 3. Enforcement[^c-4d702f04215bb8c7bb2e4b6efdb85a0c]
 
 It is the duty of a food authority within its area to enforce Regulation (EU) 2015/2283 and these Regulations.
 
-## 4. Offence and penalty[^key-1b9a94744e3619be17f89145046974f3]
+## 4. Offence and penalty[^c-1b9a94744e3619be17f89145046974f3]
 
-A person who fails to comply with Article 6[^key-0d512eac54ee7184ab31b4f20c67afd9] as read with Articles 24 and 35(2) of Regulation (EU) 2015/2283 is guilty of an offence and liable on summary conviction to a fine.
+A person who fails to comply with Article 6[^c-0d512eac54ee7184ab31b4f20c67afd9] as read with Articles 24 and 35(2) of Regulation (EU) 2015/2283 is guilty of an offence and liable on summary conviction to a fine.
 
-## 5. Application and modification of provisions of the Act[^key-c99a813e54d96c36ee03cf5ccb1ef95b]
+## 5. Application and modification of provisions of the Act[^c-c99a813e54d96c36ee03cf5ccb1ef95b]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies for the purposes of these Regulations with the modification (in the case of section 10(1)) set out in Part 1 of Schedule 2 for the purposes of—
 
 - (a) enabling an improvement notice to be served on a person requiring that person to comply with a specified EU provision; and
 - (b) making the failure to comply with a notice referred to in sub-paragraph (a) an offence.
 
-(2) Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations with the modifications set out in Part 2 of Schedule 2 for the purposes of enabling an authorised officer of a food authority, if it appears to the authorised officer that Article 6[^key-ec836b22767446d7f862167c935a17ca] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any food which has been placed on the market, to either—
+(2) Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations with the modifications set out in Part 2 of Schedule 2 for the purposes of enabling an authorised officer of a food authority, if it appears to the authorised officer that Article 6[^c-ec836b22767446d7f862167c935a17ca] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any food which has been placed on the market, to either—
 
 - (a) give notice to the person in charge of the food that it is not to be used for human consumption, and is not to be removed or is not to be removed except to some place specified in the notice, or
 - (b) seize the food and remove it in order to have it dealt with by a justice of the peace.
@@ -91,7 +91,7 @@ A person who fails to comply with Article 6[^key-0d512eac54ee7184ab31b4f20c67afd
 
 (4) Paragraphs (1) to (3) are without prejudice to the application of the Act to these Regulations for purposes other than those specified in paragraphs (1) and (2).
 
-## 6. Revocations[^key-a90b6c2b0c11ed08ba3436d63cdc0eb9]
+## 6. Revocations[^c-a90b6c2b0c11ed08ba3436d63cdc0eb9]
 
 The following Regulations are revoked—
 
@@ -113,15 +113,15 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 SCHEDULES
 
-## SCHEDULE 1 — Specified EU Provisions[^key-dd1d05747d874c197fd964b831b62396]
+## SCHEDULE 1 — Specified EU Provisions[^c-dd1d05747d874c197fd964b831b62396]
 
 Regulation 2(1)
 
 | *1. Specified EU Provision* | *2. Subject matter* |
 | --- | --- |
 | 1\. Article 4(1). | Requirement that food business operators verify whether food they intend to place on the market is within the scope of Regulation (EU) 2015/2283. |
-| 2\. Article 6[^key-36aae37fb62444c39f30adc03d3c70b1] as read with Articles 24 and 35(2). | Requirement that only novel foods authorised in accordance with Regulation (EU) 2015/2283[^key-e61a8ae648a4d1ca044c2e91523328c1] may be placed on the market as such, or used in or on food, in accordance with the conditions of use and the labelling requirements specified, and with any post-market monitoring requirements , in the authorisations concerned[^key-23963d030b04da8b5b1c2e82be93c482]. |
-| 3\. Article 25. | Requirement that a food business operator who has placed a novel food on the market must immediately inform the Food Safety Authority[^key-82c3e8647063895b3e33ea03342d7870] of any information of which it becomes aware concerning—<br>(a) any new scientific or technical information which might influence the evaluation of the safety of use of the novel food; or<br>(b) any prohibition or restriction imposed by a third country in which the novel food is placed on the market. |
+| 2\. Article 6[^c-36aae37fb62444c39f30adc03d3c70b1] as read with Articles 24 and 35(2). | Requirement that only novel foods authorised in accordance with Regulation (EU) 2015/2283[^c-e61a8ae648a4d1ca044c2e91523328c1] may be placed on the market as such, or used in or on food, in accordance with the conditions of use and the labelling requirements specified, and with any post-market monitoring requirements , in the authorisations concerned[^c-23963d030b04da8b5b1c2e82be93c482]. |
+| 3\. Article 25. | Requirement that a food business operator who has placed a novel food on the market must immediately inform the Food Safety Authority[^c-82c3e8647063895b3e33ea03342d7870] of any information of which it becomes aware concerning—<br>(a) any new scientific or technical information which might influence the evaluation of the safety of use of the novel food; or<br>(b) any prohibition or restriction imposed by a third country in which the novel food is placed on the market. |
 
 ## SCHEDULE 2 — Application and modification of provisions of the Act
 
@@ -129,7 +129,7 @@ Regulation 5
 
 ### PART 1 — Modification of section 10(1)
 
-**1.**[^key-767fd71e1dcc75c9ab0f21f7bb9b9d05] For section 10(1) of the Act (improvement notices) substitute—
+**1.**[^c-767fd71e1dcc75c9ab0f21f7bb9b9d05] For section 10(1) of the Act (improvement notices) substitute—
 
 > - If an authorised officer has reasonable grounds for believing that a person is failing to comply with any provision specified in Schedule 1 to the Novel Foods (Wales) Regulations 2017, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
 >   - (a) state the officer’s grounds for believing that the person is failing to comply with the relevant provision;
@@ -139,9 +139,9 @@ Regulation 5
 
 ### PART 2 — Modification of section 9
 
-**2.**[^key-aeff03c481047f16cc22bdc6aaa79b93] For section 9 of the Act (inspection and seizure of suspected food) substitute—
+**2.**[^c-aeff03c481047f16cc22bdc6aaa79b93] For section 9 of the Act (inspection and seizure of suspected food) substitute—
 
-> (1) This section applies where it appears to any authorised officer of a food authority that Article 6[^key-0c3eecd688605aba04b3c3df39146c87] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any food which has been placed on the market.
+> (1) This section applies where it appears to any authorised officer of a food authority that Article 6[^c-0c3eecd688605aba04b3c3df39146c87] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any food which has been placed on the market.
 >
 > (2) The authorised officer may either—
 >
@@ -173,7 +173,7 @@ Regulation 5
 >
 > (8) For the purposes of this section, “Regulation (EU) 2015/2283” means Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258) of the European Parliament and of the Council and [Commission Regulation (EC) No 1852/2001](https://www.legislation.gov.uk/european/regulation/2001/1852).
 
-### PART 3 — Application and modification of other provisions of the Act[^key-e98caf34fa88776b331e2e9b7860350c]
+### PART 3 — Application and modification of other provisions of the Act[^c-e98caf34fa88776b331e2e9b7860350c]
 
 <table>
 <thead>
@@ -199,7 +199,7 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-64a9a63ca29cc01ffc05ec4e998cb613][^f01000][^f01001]
+[^c-64a9a63ca29cc01ffc05ec4e998cb613][^f01000][^f01001]
 
 EXPLANATORY NOTE
 
@@ -236,23 +236,23 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-7afeacd58700ea0592e95216b4b839d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-7afeacd58700ea0592e95216b4b839d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-68e56f147f1bff074394317b2a777c27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/1103/regulation/2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-68e56f147f1bff074394317b2a777c27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/1103/regulation/2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
 [^f00006]: Footnote: OJ No L 327, 11.12.2015, p 1.
 
-[^key-4d702f04215bb8c7bb2e4b6efdb85a0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/1103/regulation/3) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-4d702f04215bb8c7bb2e4b6efdb85a0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/1103/regulation/3) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-1b9a94744e3619be17f89145046974f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/1103/regulation/4) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-1b9a94744e3619be17f89145046974f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/1103/regulation/4) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-0d512eac54ee7184ab31b4f20c67afd9]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2017/1103/regulation/4) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/2/b)
+[^c-0d512eac54ee7184ab31b4f20c67afd9]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2017/1103/regulation/4) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/2/b)
 
-[^key-c99a813e54d96c36ee03cf5ccb1ef95b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/1103/regulation/5) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-c99a813e54d96c36ee03cf5ccb1ef95b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/1103/regulation/5) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-ec836b22767446d7f862167c935a17ca]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/5/2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/3/b)
+[^c-ec836b22767446d7f862167c935a17ca]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/5/2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/3/b)
 
-[^key-a90b6c2b0c11ed08ba3436d63cdc0eb9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/1103/regulation/6) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-a90b6c2b0c11ed08ba3436d63cdc0eb9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/1103/regulation/6) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 1997/1335](https://www.legislation.gov.uk/uksi/1997/1335).
 
@@ -260,25 +260,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00009]: Footnote: [S.I. 2009/3377 (W. 299)](https://www.legislation.gov.uk/wsi/2009/3377).
 
-[^key-dd1d05747d874c197fd964b831b62396]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-dd1d05747d874c197fd964b831b62396]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-36aae37fb62444c39f30adc03d3c70b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/a/ii)
+[^c-36aae37fb62444c39f30adc03d3c70b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/a/ii)
 
-[^key-e61a8ae648a4d1ca044c2e91523328c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/b/ii/aa)
+[^c-e61a8ae648a4d1ca044c2e91523328c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/b/ii/aa)
 
-[^key-23963d030b04da8b5b1c2e82be93c482]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/b/ii/bb)
+[^c-23963d030b04da8b5b1c2e82be93c482]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/b/ii/bb)
 
-[^key-82c3e8647063895b3e33ea03342d7870]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [10(2)(b)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82c3e8647063895b3e33ea03342d7870]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [10(2)(b)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-767fd71e1dcc75c9ab0f21f7bb9b9d05]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/paragraph/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-767fd71e1dcc75c9ab0f21f7bb9b9d05]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/paragraph/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-aeff03c481047f16cc22bdc6aaa79b93]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/paragraph/2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-aeff03c481047f16cc22bdc6aaa79b93]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/paragraph/2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-0c3eecd688605aba04b3c3df39146c87]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/5/a/ii)
+[^c-0c3eecd688605aba04b3c3df39146c87]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/5/a/ii)
 
-[^key-e98caf34fa88776b331e2e9b7860350c]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/3) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+[^c-e98caf34fa88776b331e2e9b7860350c]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/3) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
 
-[^key-64a9a63ca29cc01ffc05ec4e998cb613]: Textual amendment: Word in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/3) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/5/b/ii)
+[^c-64a9a63ca29cc01ffc05ec4e998cb613]: Textual amendment: Word in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/3) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/5/b/ii)
 
 [^f01000]: Footnote: (1)
 

@@ -36,8 +36,8 @@ summary: ''
 - (a) the proportion that the total contributions paid bears to the full amount of contributions due under an option under regulation 34 for the whole contribution option period, and
 - (b) the preservation requirements.
 
-(6)[^key-0019231c1374a5a339287d4cadb6a116] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
+(6)[^c-0019231c1374a5a339287d4cadb6a116] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
 
 ## Annotations
 
-[^key-0019231c1374a5a339287d4cadb6a116]: Textual amendment: [Reg. 42(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/42/6) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2010/22/regulation/27)
+[^c-0019231c1374a5a339287d4cadb6a116]: Textual amendment: [Reg. 42(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/42/6) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2010/22/regulation/27)

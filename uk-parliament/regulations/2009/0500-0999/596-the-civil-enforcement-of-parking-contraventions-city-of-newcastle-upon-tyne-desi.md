@@ -54,11 +54,11 @@ The Secretary of State considers that part of the area of the Council should not
 
 Accordingly, the Secretary of State for Transport[^f00002] makes this Order.
 
-## 1. Citation and commencement[^key-db712c278cbe30ecf8ffde45397c11bd]
+## 1. Citation and commencement[^c-db712c278cbe30ecf8ffde45397c11bd]
 
 This Order may be cited as the Civil Enforcement of Parking Contraventions (City of Newcastle upon Tyne) Designation Order 2009 and shall come into force on 15th April 2009.
 
-## 2. Designation of civil enforcement area and special enforcement area[^key-db00fca3046b61d124d1e8a6f3d614bf]
+## 2. Designation of civil enforcement area and special enforcement area[^c-db00fca3046b61d124d1e8a6f3d614bf]
 
 The Secretary of State designates the area described in the Schedule as—
 
@@ -75,18 +75,18 @@ Department for Transport
 
 7th March 2009
 
-## SCHEDULE — Area designated as a civil enforcement area for parking contraventions and a special enforcement area[^key-8b7982ce692533279a8babb0c7e0d3ae]
+## SCHEDULE — Area designated as a civil enforcement area for parking contraventions and a special enforcement area[^c-8b7982ce692533279a8babb0c7e0d3ae]
 
 Article 2
 
-[^key-8b7982ce692533279a8babb0c7e0d3ae]
+[^c-8b7982ce692533279a8babb0c7e0d3ae]
 
 This Order applies to the area of the City of Newcastle upon Tyne with the exception of—
 
-- (a)[^key-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-83cec20846d2bfedbb9dbd085c35e3f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the A1(T) from Blaydon Bridge to the boundary with the area of North Tyneside Metropolitan Borough Council, including all slip roads (from Ordnance Survey National Grid reference point NZ194640 to Ordnance Survey National Grid reference point NZ237719);
 - (f) the A69(T) from the junction with the A1(T) to the boundary with the area of Northumberland County Council, including all slip roads (from Ordnance Survey National Grid reference point NZ197656 to Ordnance Survey National Grid reference point NZ146677); and
 - (g) the A696(T) from the junction with the A1 to the boundary with the area of Northumberland County Council, including all slip roads (from Ordnance Survey National Grid reference point NZ213678 to Ordnance Survey National Grid reference point NZ182716).
@@ -105,10 +105,10 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: The Secretary of State is the “appropriate national authority” as regards England for the purposes of Part 6 of the Traffic Management Act 2004 under section 92 of that Act.
 
-[^key-db712c278cbe30ecf8ffde45397c11bd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1) in force at 15.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1)
+[^c-db712c278cbe30ecf8ffde45397c11bd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1) in force at 15.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1)
 
-[^key-db00fca3046b61d124d1e8a6f3d614bf]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/596/article/2) in force at 15.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1)
+[^c-db00fca3046b61d124d1e8a6f3d614bf]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/596/article/2) in force at 15.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1)
 
-[^key-8b7982ce692533279a8babb0c7e0d3ae]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/596/schedule) in force at 15.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1)
+[^c-8b7982ce692533279a8babb0c7e0d3ae]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/596/schedule) in force at 15.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/596/article/1)
 
-[^key-83cec20846d2bfedbb9dbd085c35e3f0]: Textual amendment: [Sch. para. (a)(b)(c)(d)](https://www.legislation.gov.uk/uksi/2009/596/schedule/paragraph) omitted (12.11.2013) by virtue of [The Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/2594)](https://www.legislation.gov.uk/uksi/2013/2594), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2594/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/2594/article/3/2)
+[^c-83cec20846d2bfedbb9dbd085c35e3f0]: Textual amendment: [Sch. para. (a)(b)(c)(d)](https://www.legislation.gov.uk/uksi/2009/596/schedule/paragraph) omitted (12.11.2013) by virtue of [The Civil Enforcement of Parking Contraventions Designation Order 2013 (S.I. 2013/2594)](https://www.legislation.gov.uk/uksi/2013/2594), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2594/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/2594/article/3/2)

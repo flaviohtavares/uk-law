@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Requirements, appeals etc.[^key-6bcadcc8e1e3b3be6d2ca8ec21df4092]
+## 9. Requirements, appeals etc.[^c-6bcadcc8e1e3b3be6d2ca8ec21df4092]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bcadcc8e1e3b3be6d2ca8ec21df4092]: Commencement: Art. 9 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-6bcadcc8e1e3b3be6d2ca8ec21df4092]: Commencement: Art. 9 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

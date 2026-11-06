@@ -24,7 +24,7 @@ Regulations 6, 13 and 19
 
 ### PART 1 — Initial capital
 
-**1.** For the purposes of these Regulations “initial capital” comprises one or more of the items specified in Article 26(1)(a) to (e) of the capital requirements regulation[^key-735adbb2352a954491fac0ffe848b499].
+**1.** For the purposes of these Regulations “initial capital” comprises one or more of the items specified in Article 26(1)(a) to (e) of the capital requirements regulation[^c-735adbb2352a954491fac0ffe848b499].
 
 **2.** An applicant for authorisation as an electronic money institution must hold an amount of initial capital of at least 350,000 euro.
 
@@ -36,21 +36,21 @@ Regulations 6, 13 and 19
 
 #### Qualifying items
 
-**4.** For the purposes of these Regulations “**own funds**” means own funds as defined in Article 4(1)(18) of the capital requirements regulation, and are to be calculated in accordance with paragraphs 9 to 12.[^key-2df7a16f36446a4a74fba6256d22da4b]
+**4.** For the purposes of these Regulations “**own funds**” means own funds as defined in Article 4(1)(18) of the capital requirements regulation, and are to be calculated in accordance with paragraphs 9 to 12.[^c-2df7a16f36446a4a74fba6256d22da4b]
 
-**5.**[^key-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-35ca83fca05818cbd6e05f3ec6c93585]
+#### ...[^c-35ca83fca05818cbd6e05f3ec6c93585]
 
-**7.**[^key-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-35ca83fca05818cbd6e05f3ec6c93585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Limits on qualifying items
 
-**9.**[^key-14941bf76476298dbe1cef7bb331ebdb] For the purposes of calculating own funds—
+**9.**[^c-14941bf76476298dbe1cef7bb331ebdb] For the purposes of calculating own funds—
 
 - (a) the amount of Tier 2 capital must be equal to or less than one third of the amount of Tier 1 capital;
 - (b) at least 75% of the amount of Tier 1 capital must be in the form of Common Equity Tier 1 capital.
@@ -71,7 +71,7 @@ Regulations 6, 13 and 19
 
 **13.** An authorised electronic money institution must calculate its own funds requirement—
 
-- (a) in accordance with such of Method A, Method B or Method C as the Authority may direct in respect of any activities carried on by the authorised electronic money institution consisting of payment services specified in paragraph 1(a) to (f) of Schedule 1 of the Payment Services Regulations 2017[^key-8acb99f0e93b9eb972763b0761b7ae18] that are not related to the issuance of electronic money; and
+- (a) in accordance with such of Method A, Method B or Method C as the Authority may direct in respect of any activities carried on by the authorised electronic money institution consisting of payment services specified in paragraph 1(a) to (f) of Schedule 1 of the Payment Services Regulations 2017[^c-8acb99f0e93b9eb972763b0761b7ae18] that are not related to the issuance of electronic money; and
 - (b) in accordance with Method D in respect of any activities carried on by the authorised electronic money institution that consist of the issuance of electronic money and payment services that are related to the issuance of electronic money.
 
 **14.** Where a small electronic money institution is required by regulation 19(2) to maintain own funds, it must calculate its own funds requirement as an amount equal to 2% of the average outstanding electronic money of the institution.
@@ -118,9 +118,9 @@ Regulations 6, 13 and 19
 
 (4) The “scaling factor” is—
 
-- (a) 0.5 for an authorised electronic money institution providing a payment service specified in paragraph 1(f) of Schedule 1 to the Payment Services Regulations 2017[^key-6a5eecb0ae5c00ed31646d8530569e2a];
-- (b)[^key-28f329985c7d0852e0d3e12bab9c9dd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) 1 for an authorised electronic money institution providing any other payment service specified in paragraph 1(a) to (e) of Schedule 1 to those Regulations[^key-6d0c91d259084b98dd9e2ee6d3c35fe0].
+- (a) 0.5 for an authorised electronic money institution providing a payment service specified in paragraph 1(f) of Schedule 1 to the Payment Services Regulations 2017[^c-6a5eecb0ae5c00ed31646d8530569e2a];
+- (b)[^c-28f329985c7d0852e0d3e12bab9c9dd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) 1 for an authorised electronic money institution providing any other payment service specified in paragraph 1(a) to (e) of Schedule 1 to those Regulations[^c-6d0c91d259084b98dd9e2ee6d3c35fe0].
 
 #### Method C
 
@@ -178,30 +178,30 @@ the institution may calculate its own funds requirement on the basis of a repres
 
 **25.** Except where this Schedule provides for a different method of recognition, measurement or valuation, whenever a provision in this Schedule refers to an asset, liability, equity or income statement item, an electronic money institution must, for the purpose of that provision, recognise the asset, liability, equity or income statement item and measure its value in accordance with whichever of the following are applicable for the purpose of the institution's external financial reporting—
 
-- (a) Financial Reporting Standards and Statements of Standard Accounting Practice issued or adopted by the Financial Reporting Council Limited[^key-0984fc859cc1e87128f1441a348e00fb];
+- (a) Financial Reporting Standards and Statements of Standard Accounting Practice issued or adopted by the Financial Reporting Council Limited[^c-0984fc859cc1e87128f1441a348e00fb];
 - (b) Statements of Recommended Practice, issued by industry or sectoral bodies recognised for this purpose by the Financial Reporting Council Limited;
 - (c) International Financial Reporting Standards and International Accounting Standards issued or adopted by the International Accounting Standards Board;
-- (d) International Standards on Auditing (United Kingdom and Ireland) issued by the Financial Reporting Council Limited or a predecessor body[^key-ee7701180b3a0ce0c3bcc4827be4bf57]; and
+- (d) International Standards on Auditing (United Kingdom and Ireland) issued by the Financial Reporting Council Limited or a predecessor body[^c-ee7701180b3a0ce0c3bcc4827be4bf57]; and
 - (e) the Companies Act 2006.
 
 ## Annotations
 
-[^key-735adbb2352a954491fac0ffe848b499]: Textual amendment: Words in Sch. 2 para. 1 substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-735adbb2352a954491fac0ffe848b499]: Textual amendment: Words in Sch. 2 para. 1 substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-2df7a16f36446a4a74fba6256d22da4b]: Textual amendment: Words in Sch. 2 para. 4 substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-2df7a16f36446a4a74fba6256d22da4b]: Textual amendment: Words in Sch. 2 para. 4 substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-35ca83fca05818cbd6e05f3ec6c93585]: Textual amendment: Sch. 2 paras. 5-8 and heading omitted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by virtue of [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(c)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-35ca83fca05818cbd6e05f3ec6c93585]: Textual amendment: Sch. 2 paras. 5-8 and heading omitted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by virtue of [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(c)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-14941bf76476298dbe1cef7bb331ebdb]: Textual amendment: Sch. 2 para. 9 substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-14941bf76476298dbe1cef7bb331ebdb]: Textual amendment: Sch. 2 para. 9 substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-8acb99f0e93b9eb972763b0761b7ae18]: Textual amendment: Words in Sch. 2 para. 13(a) inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(e)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-8acb99f0e93b9eb972763b0761b7ae18]: Textual amendment: Words in Sch. 2 para. 13(a) inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(e)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-6a5eecb0ae5c00ed31646d8530569e2a]: Textual amendment: Word in Sch. 2 para. 21(4)(a) substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/f/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-6a5eecb0ae5c00ed31646d8530569e2a]: Textual amendment: Word in Sch. 2 para. 21(4)(a) substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/f/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-28f329985c7d0852e0d3e12bab9c9dd2]: Textual amendment: Sch. 2 para. 21(4)(b) omitted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by virtue of [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/f/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-28f329985c7d0852e0d3e12bab9c9dd2]: Textual amendment: Sch. 2 para. 21(4)(b) omitted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by virtue of [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/f/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-6d0c91d259084b98dd9e2ee6d3c35fe0]: Textual amendment: Words in Sch. 2 para. 21(4)(c) inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(f)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/f/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-6d0c91d259084b98dd9e2ee6d3c35fe0]: Textual amendment: Words in Sch. 2 para. 21(4)(c) inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(30)(f)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/30/f/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-0984fc859cc1e87128f1441a348e00fb]: Textual amendment: Words in Sch. 2 para. 25(a)(b) substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/12)
+[^c-0984fc859cc1e87128f1441a348e00fb]: Textual amendment: Words in Sch. 2 para. 25(a)(b) substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/12)
 
-[^key-ee7701180b3a0ce0c3bcc4827be4bf57]: Textual amendment: Words in Sch. 2 para. 25(d) substituted (1.8.2012) by [The Payment Services Regulations 2012 (S.I. 2012/1791)](https://www.legislation.gov.uk/uksi/2012/1791), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1791/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1791/regulation/4)
+[^c-ee7701180b3a0ce0c3bcc4827be4bf57]: Textual amendment: Words in Sch. 2 para. 25(d) substituted (1.8.2012) by [The Payment Services Regulations 2012 (S.I. 2012/1791)](https://www.legislation.gov.uk/uksi/2012/1791), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1791/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1791/regulation/4)

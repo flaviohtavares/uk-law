@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Power to decline certain asset transfer requests[^key-b3e96ac9b8c9f71e8a0717834f453517]
+## 93. Power to decline certain asset transfer requests[^c-b3e96ac9b8c9f71e8a0717834f453517]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e96ac9b8c9f71e8a0717834f453517]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2015/6/section/93) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-b3e96ac9b8c9f71e8a0717834f453517]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2015/6/section/93) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

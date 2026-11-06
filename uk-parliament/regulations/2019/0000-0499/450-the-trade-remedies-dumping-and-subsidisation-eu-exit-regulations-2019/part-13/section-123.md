@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Modifications to Part 8[^key-7b6d0b636a3c1173c31cdf623a407c56]
+## 123. Modifications to Part 8[^c-7b6d0b636a3c1173c31cdf623a407c56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 77 (requests and offers of undertakings) has effect as if paragraph (
 
 ## Annotations
 
-[^key-7b6d0b636a3c1173c31cdf623a407c56]: Commencement: Reg. 123 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-7b6d0b636a3c1173c31cdf623a407c56]: Commencement: Reg. 123 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

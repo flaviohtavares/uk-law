@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**6.**[^key-9dfe6d3362a8ff97b7ef13cd8109ea25] For Part 5 (Forms), substitute the Part as set out in Schedule 1 to these Rules.
+**6.**[^c-9dfe6d3362a8ff97b7ef13cd8109ea25] For Part 5 (Forms), substitute the Part as set out in Schedule 1 to these Rules.
 
 ## Annotations
 
-[^key-9dfe6d3362a8ff97b7ef13cd8109ea25]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2009/2087/article/6) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-9dfe6d3362a8ff97b7ef13cd8109ea25]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2009/2087/article/6) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

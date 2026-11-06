@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Debt in a foreign currency[^key-27825d581a8ee6ed3dd55cd87b03f808]
+## 166. Debt in a foreign currency[^c-27825d581a8ee6ed3dd55cd87b03f808]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27825d581a8ee6ed3dd55cd87b03f808]: Commencement: [Rule 166](https://www.legislation.gov.uk/uksi/2011/1301/rule/166) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-27825d581a8ee6ed3dd55cd87b03f808]: Commencement: [Rule 166](https://www.legislation.gov.uk/uksi/2011/1301/rule/166) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

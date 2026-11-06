@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1996 (revoked)[^key-b3b19730725dcd12dcbb9ae652b00dad]
+The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1996 (revoked)[^c-b3b19730725dcd12dcbb9ae652b00dad]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 6th April 1996
 
-[^key-b3b19730725dcd12dcbb9ae652b00dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3b19730725dcd12dcbb9ae652b00dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b3b19730725dcd12dcbb9ae652b00dad]
+## 1. Citation and commencement[^c-b3b19730725dcd12dcbb9ae652b00dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 of the Social Security (Contributions) Regulations[^key-b3b19730725dcd12dcbb9ae652b00dad]
+## 2. Amendment of regulation 7 of the Social Security (Contributions) Regulations[^c-b3b19730725dcd12dcbb9ae652b00dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b3b19730725dcd12dcbb9ae652b00dad]
+## 3. Revocation[^c-b3b19730725dcd12dcbb9ae652b00dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3b19730725dcd12dcbb9ae652b00dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3b19730725dcd12dcbb9ae652b00dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b3b19730725dcd12dcbb9ae652b00dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3b19730725dcd12dcbb9ae652b00dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3b19730725dcd12dcbb9ae652b00dad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/79) revoked (6.4.1997) by [The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1997 (S.R. 1997/116)](https://www.legislation.gov.uk/nisr/1997/116), [regs. 1](https://www.legislation.gov.uk/nisr/1997/116/regulation/1), [3](https://www.legislation.gov.uk/nisr/1997/116/regulation/3)
+[^c-b3b19730725dcd12dcbb9ae652b00dad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/79) revoked (6.4.1997) by [The Social Security (Contributions) (Amendment No. 2) Regulations (Northern Ireland) 1997 (S.R. 1997/116)](https://www.legislation.gov.uk/nisr/1997/116), [regs. 1](https://www.legislation.gov.uk/nisr/1997/116/regulation/1), [3](https://www.legislation.gov.uk/nisr/1997/116/regulation/3)

@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Food Labelling (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-f07c47e714f1636bf3b6edf2fce7df33]
+Food Labelling (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-f07c47e714f1636bf3b6edf2fce7df33]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 23rd March 1999
 
-[^key-f07c47e714f1636bf3b6edf2fce7df33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f07c47e714f1636bf3b6edf2fce7df33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f07c47e714f1636bf3b6edf2fce7df33]
+## 1. Citation and commencement[^c-f07c47e714f1636bf3b6edf2fce7df33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-f07c47e714f1636bf3b6edf2fce7df33]
+## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-f07c47e714f1636bf3b6edf2fce7df33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f07c47e714f1636bf3b6edf2fce7df33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f07c47e714f1636bf3b6edf2fce7df33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f07c47e714f1636bf3b6edf2fce7df33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f07c47e714f1636bf3b6edf2fce7df33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f07c47e714f1636bf3b6edf2fce7df33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f07c47e714f1636bf3b6edf2fce7df33]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/143) revoked (13.12.2018 for specified purposes) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [Sch. 6](https://www.legislation.gov.uk/nisr/2014/223/schedule/6)
+[^c-f07c47e714f1636bf3b6edf2fce7df33]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/143) revoked (13.12.2018 for specified purposes) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [Sch. 6](https://www.legislation.gov.uk/nisr/2014/223/schedule/6)

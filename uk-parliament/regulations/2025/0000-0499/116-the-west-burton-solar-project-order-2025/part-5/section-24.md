@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Application of the 1981 Act[^key-4375667833399bc691fe046ed8f6afbc]
+## 24. Application of the 1981 Act[^c-4375667833399bc691fe046ed8f6afbc]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4375667833399bc691fe046ed8f6afbc]: Commencement: Art. 24 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-4375667833399bc691fe046ed8f6afbc]: Commencement: Art. 24 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

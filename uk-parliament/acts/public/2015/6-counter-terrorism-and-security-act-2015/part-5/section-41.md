@@ -36,7 +36,7 @@ summary: ''
   - (d) the Common Council of the City of London in its capacity as a local authority;
   - (e) the Council of the Isles of Scilly;
   - (f) a county council or county borough council in Wales;
-  - (g) a council constituted under section 2 of the Local Government[^key-c1f09722e407203322dd4c1580dc7d72] etc. (Scotland) Act 1994;
+  - (g) a council constituted under section 2 of the Local Government[^c-c1f09722e407203322dd4c1580dc7d72] etc. (Scotland) Act 1994;
 - “**the necessary consent**”, in relation to an identified individual, means—
   - (a) if the individual is aged 18 years or over, his or her consent;
   - (b) if the individual is aged under 18 years, the consent of his or her parent or guardian;
@@ -52,10 +52,10 @@ summary: ''
 - (a) a reference in this Chapter to the responsible local authority is to be read as a reference to the responsible local authorities for the panel;
 - (b) a reference in this Chapter to the authority's area is to be read as a reference to the combined area.
 
-(4)[^key-076ce4980e380984b0b03ac0945eb842] References in this Chapter to a chief officer of police are to be read as including references to the chief constable of the Police Service of Scotland.
+(4)[^c-076ce4980e380984b0b03ac0945eb842] References in this Chapter to a chief officer of police are to be read as including references to the chief constable of the Police Service of Scotland.
 
 ## Annotations
 
-[^key-c1f09722e407203322dd4c1580dc7d72]: Textual amendment: In s. 41(1) in definition of "local authority” para. (g) added (25.3.2015) by [The Counter-Terrorism and Security Act 2015 (Risk of Being Drawn into Terrorism) (Amendment and Guidance) Regulations 2015 (S.I. 2015/928)](https://www.legislation.gov.uk/uksi/2015/928), [regs. 2](https://www.legislation.gov.uk/uksi/2015/928/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2015/928/regulation/6/2)
+[^c-c1f09722e407203322dd4c1580dc7d72]: Textual amendment: In s. 41(1) in definition of "local authority” para. (g) added (25.3.2015) by [The Counter-Terrorism and Security Act 2015 (Risk of Being Drawn into Terrorism) (Amendment and Guidance) Regulations 2015 (S.I. 2015/928)](https://www.legislation.gov.uk/uksi/2015/928), [regs. 2](https://www.legislation.gov.uk/uksi/2015/928/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2015/928/regulation/6/2)
 
-[^key-076ce4980e380984b0b03ac0945eb842]: Textual amendment: S. 41(4) added (25.3.2015) by [The Counter-Terrorism and Security Act 2015 (Risk of Being Drawn into Terrorism) (Amendment and Guidance) Regulations 2015 (S.I. 2015/928)](https://www.legislation.gov.uk/uksi/2015/928), [regs. 2](https://www.legislation.gov.uk/uksi/2015/928/regulation/2), [6(3)](https://www.legislation.gov.uk/uksi/2015/928/regulation/6/3)
+[^c-076ce4980e380984b0b03ac0945eb842]: Textual amendment: S. 41(4) added (25.3.2015) by [The Counter-Terrorism and Security Act 2015 (Risk of Being Drawn into Terrorism) (Amendment and Guidance) Regulations 2015 (S.I. 2015/928)](https://www.legislation.gov.uk/uksi/2015/928), [regs. 2](https://www.legislation.gov.uk/uksi/2015/928/regulation/2), [6(3)](https://www.legislation.gov.uk/uksi/2015/928/regulation/6/3)

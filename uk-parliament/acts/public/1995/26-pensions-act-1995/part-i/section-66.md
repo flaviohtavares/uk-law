@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Equal treatment rule: effect on terms of employment, etc.[^key-3d0b17fe65d15bff39ec25735ff91fbc]
+## 66. Equal treatment rule: effect on terms of employment, etc.[^c-3d0b17fe65d15bff39ec25735ff91fbc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d0b17fe65d15bff39ec25735ff91fbc]: Textual amendment: [Ss. 62-66](https://www.legislation.gov.uk/ukpga/1995/26/section/62) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)) (as amended by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 13](https://www.legislation.gov.uk/uksi/2010/2279/article/13), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f) (with [arts. 4-25](https://www.legislation.gov.uk/uksi/2010/2317/article/4), [Schs. 1-15](https://www.legislation.gov.uk/uksi/2010/2317/schedule/1))
+[^c-3d0b17fe65d15bff39ec25735ff91fbc]: Textual amendment: [Ss. 62-66](https://www.legislation.gov.uk/ukpga/1995/26/section/62) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)) (as amended by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 13](https://www.legislation.gov.uk/uksi/2010/2279/article/13), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f) (with [arts. 4-25](https://www.legislation.gov.uk/uksi/2010/2317/article/4), [Schs. 1-15](https://www.legislation.gov.uk/uksi/2010/2317/schedule/1))

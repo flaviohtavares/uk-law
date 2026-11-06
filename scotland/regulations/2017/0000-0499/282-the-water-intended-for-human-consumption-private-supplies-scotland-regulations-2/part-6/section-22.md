@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Remedial action to restore water quality: particular cases[^key-7849fe60d4471bca1644cd7b35c0f804]
+## 22. Remedial action to restore water quality: particular cases[^c-7849fe60d4471bca1644cd7b35c0f804]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7849fe60d4471bca1644cd7b35c0f804]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2017/282/regulation/22) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-7849fe60d4471bca1644cd7b35c0f804]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2017/282/regulation/22) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

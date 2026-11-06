@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Provision of support to certain persons eligible for a payment etc.[^key-91681a4ecc962177fcf2932ffc2c2904]
+## 90. Provision of support to certain persons eligible for a payment etc.[^c-91681a4ecc962177fcf2932ffc2c2904]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91681a4ecc962177fcf2932ffc2c2904]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2021/15/section/90) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-91681a4ecc962177fcf2932ffc2c2904]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2021/15/section/90) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

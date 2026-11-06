@@ -68,7 +68,7 @@ summary: ''
 >
 > (3) A notice extending an LLP's current or previous accounting reference period is not effective if given less than five years after the end of an earlier accounting reference period of the LLP that was extended under this section. This does not apply—
 >
-> - (a) to a notice given by an LLP that is a subsidiary undertaking or parent undertaking of another UK[^key-6b113161a496a962e97d597a8e9a4e52] undertaking if the new accounting reference date coincides with that of the other UK undertaking or, where that undertaking is not a company or an LLP, with the last day of its financial year, or
+> - (a) to a notice given by an LLP that is a subsidiary undertaking or parent undertaking of another UK[^c-6b113161a496a962e97d597a8e9a4e52] undertaking if the new accounting reference date coincides with that of the other UK undertaking or, where that undertaking is not a company or an LLP, with the last day of its financial year, or
 > - (b) where the LLP is in administration under Part 2 of the Insolvency Act 1986 (c.45) or Part 3 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)), or
 > - (c) where the Secretary of State directs that it should not apply, which he may do with respect to a notice that has been given or that may be given.
 >
@@ -76,7 +76,7 @@ summary: ''
 >
 > (5) An accounting reference period may not be extended so as to exceed 18 months and a notice under this section is ineffective if the current or previous accounting reference period as extended in accordance with the notice would exceed that limit. This does not apply where the LLP is in administration under Part 2 of the Insolvency Act 1986 (c.45) or Part 3 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)).
 >
-> (6) In this section “UK undertaking[^key-c7bb0e853cacbf4cd0f9863d28c62abd]” means an undertaking established under the law of any part of the United Kingdom [^key-aa7a58f1d4af2ff3a9fddc5ff1a8b697]...
+> (6) In this section “UK undertaking[^c-c7bb0e853cacbf4cd0f9863d28c62abd]” means an undertaking established under the law of any part of the United Kingdom [^c-aa7a58f1d4af2ff3a9fddc5ff1a8b697]...
 
 (2) Until section 1068(1) comes fully into force, the notice referred to in section 392 (notice of alteration of accounting reference date) as applied to LLPs by paragraph (1) must be given in the form prescribed for the purposes of—
 
@@ -85,11 +85,11 @@ summary: ''
 
 ## Annotations
 
-[^key-6b113161a496a962e97d597a8e9a4e52]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2008/1911/regulation/7) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b113161a496a962e97d597a8e9a4e52]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2008/1911/regulation/7) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7bb0e853cacbf4cd0f9863d28c62abd]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2008/1911/regulation/7) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 14(b)(i)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/14/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7bb0e853cacbf4cd0f9863d28c62abd]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2008/1911/regulation/7) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 14(b)(i)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/14/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa7a58f1d4af2ff3a9fddc5ff1a8b697]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2008/1911/regulation/7) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 14(b)(ii)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/14/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa7a58f1d4af2ff3a9fddc5ff1a8b697]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2008/1911/regulation/7) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 14(b)(ii)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/14/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19348701]: Marginal citation: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
 

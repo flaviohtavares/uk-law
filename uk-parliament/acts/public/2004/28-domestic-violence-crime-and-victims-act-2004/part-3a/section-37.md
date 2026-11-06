@@ -56,7 +56,7 @@ the relevant probation body must forward the representations to the persons resp
 - (a) in a case where the patient is to be discharged subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
 - (b) in a case where the patient is to be discharged subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
 - (c) in any other case—
-  - (i) if the hospital in which the patient is detained is situated in the area of a local probation board, that local probation board[^key-ac6c12a83e438fe0fefd466452e06d0d]; and
+  - (i) if the hospital in which the patient is detained is situated in the area of a local probation board, that local probation board[^c-ac6c12a83e438fe0fefd466452e06d0d]; and
   - (ii) if that hospital is not so situated, the provider of probation services operating in the local justice area in which the hospital in which the patient is detained is situated that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.
 
 ## Annotations
@@ -83,4 +83,4 @@ the relevant probation body must forward the representations to the persons resp
 
 [^c21084981]: Textual amendment: S. 37(8) substituted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [arts. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [3](https://www.legislation.gov.uk/uksi/2008/912/article/3), [Sch. 1 para. 20(5)(f)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/20/5/f)
 
-[^key-ac6c12a83e438fe0fefd466452e06d0d]: Textual amendment: Words in s. 37(8)(c)(i) substituted (25.6.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/21/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/a)
+[^c-ac6c12a83e438fe0fefd466452e06d0d]: Textual amendment: Words in s. 37(8)(c)(i) substituted (25.6.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/21/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/a)

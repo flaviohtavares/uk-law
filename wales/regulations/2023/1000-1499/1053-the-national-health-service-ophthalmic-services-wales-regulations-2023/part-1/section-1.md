@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, coming into force and application[^key-96367a1e87e0d18af8b5b53104305021]
+## 1. Title, coming into force and application[^c-96367a1e87e0d18af8b5b53104305021]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96367a1e87e0d18af8b5b53104305021]: Commencement: Reg. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-96367a1e87e0d18af8b5b53104305021]: Commencement: Reg. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Amendment of Schedule 3 (PCC election conduct rules)[^key-de72e3665fc6503ac4aa7d81f8f1a8fe]
+## 60. Amendment of Schedule 3 (PCC election conduct rules)[^c-de72e3665fc6503ac4aa7d81f8f1a8fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -265,4 +265,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de72e3665fc6503ac4aa7d81f8f1a8fe]: Commencement: Reg. 60 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-de72e3665fc6503ac4aa7d81f8f1a8fe]: Commencement: Reg. 60 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

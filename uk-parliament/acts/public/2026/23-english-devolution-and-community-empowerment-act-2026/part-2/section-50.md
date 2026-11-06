@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Sharing of information[^key-e3c1dd0c1248cc4263a8805f7406e4bc]
+## 50. Sharing of information[^c-e3c1dd0c1248cc4263a8805f7406e4bc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 115 of the Crime and Disorder Act 1998 (disclosure of information), i
 
 ## Annotations
 
-[^key-e3c1dd0c1248cc4263a8805f7406e4bc]: Commencement: S. 50 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e3c1dd0c1248cc4263a8805f7406e4bc]: Commencement: S. 50 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

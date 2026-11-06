@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Payment of fees and expenses[^key-eb33de903379edd1145877eb29338f1d]
+## 9. Payment of fees and expenses[^c-eb33de903379edd1145877eb29338f1d]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The Department may—
 
 ## Annotations
 
-[^key-eb33de903379edd1145877eb29338f1d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/290/regulation/9) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-eb33de903379edd1145877eb29338f1d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/290/regulation/9) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

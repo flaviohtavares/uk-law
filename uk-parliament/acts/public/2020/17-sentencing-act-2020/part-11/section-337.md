@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 337. Review of orders: offenders aged under 18[^key-e610b4ad042800b120c2731b20adf463]
+## 337. Review of orders: offenders aged under 18[^c-e610b4ad042800b120c2731b20adf463]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ a review of the operation of the order must be carried out before the end of tha
 
 ## Annotations
 
-[^key-e610b4ad042800b120c2731b20adf463]: Commencement: [S. 337](https://www.legislation.gov.uk/ukpga/2020/17/section/337) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e610b4ad042800b120c2731b20adf463]: Commencement: [S. 337](https://www.legislation.gov.uk/ukpga/2020/17/section/337) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

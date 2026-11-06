@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Power to provide for smaller authority treatment in previous years where audit outstanding[^key-f89525f29ac2a4460caea2416bd5a176][^key-82d4e16019c676ff8476f332806652ca]
+## 97. Power to provide for smaller authority treatment in previous years where audit outstanding[^c-f89525f29ac2a4460caea2416bd5a176][^c-82d4e16019c676ff8476f332806652ca]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f89525f29ac2a4460caea2416bd5a176]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-f89525f29ac2a4460caea2416bd5a176]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-82d4e16019c676ff8476f332806652ca]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2026/23/section/97) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/e)
+[^c-82d4e16019c676ff8476f332806652ca]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2026/23/section/97) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/e)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Payment for time off under sections 168 to 168B.[^c14517721][^c20413981][^key-35e01ce7cb5b774646e782307977ef1d][^key-e5873ea90ba76b77befb3991bc10ebbe]
+## 169. Payment for time off under sections 168 to 168B.[^c14517721][^c20413981][^c-35e01ce7cb5b774646e782307977ef1d][^c-e5873ea90ba76b77befb3991bc10ebbe]
 
 *Extent: E+W+S*
 
-(1) An employer who permits an employee to take time off under section 168 , 168A or 168B[^key-32a4071318cf7780b1ea779c6d69ae75] shall pay him for the time taken off pursuant to the permission.
+(1) An employer who permits an employee to take time off under section 168 , 168A or 168B[^c-32a4071318cf7780b1ea779c6d69ae75] shall pay him for the time taken off pursuant to the permission.
 
 (2) Where the employee’s remuneration for the work he would ordinarily have been doing during that time does not vary with the amount of work done, he shall be paid as if he had worked at that work for the whole of that time.
 
@@ -41,10 +41,10 @@ The average hourly earnings shall be those of the employee concerned or, if no f
 
 [^c20413981]: Modification: S. 169 applied (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 47](https://www.legislation.gov.uk/uksi/2006/1031/regulation/47), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/6/paragraph/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/1031/schedule/7))
 
-[^key-35e01ce7cb5b774646e782307977ef1d]: Modification: S. 169 applied (6.4.2010) by [The Employee Study and Training (Procedural Requirements) Regulations 2010 (S.I. 2010/155)](https://www.legislation.gov.uk/uksi/2010/155), [regs. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1), [16(8)](https://www.legislation.gov.uk/uksi/2010/155/regulation/16/8)
+[^c-35e01ce7cb5b774646e782307977ef1d]: Modification: S. 169 applied (6.4.2010) by [The Employee Study and Training (Procedural Requirements) Regulations 2010 (S.I. 2010/155)](https://www.legislation.gov.uk/uksi/2010/155), [regs. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1), [16(8)](https://www.legislation.gov.uk/uksi/2010/155/regulation/16/8)
 
-[^key-e5873ea90ba76b77befb3991bc10ebbe]: Textual amendment: Words in [s. 169 heading](https://www.legislation.gov.uk/ukpga/1992/52/part/III/crossheading/time-off-for-trade-union-duties-and-activities) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/3/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-e5873ea90ba76b77befb3991bc10ebbe]: Textual amendment: Words in [s. 169 heading](https://www.legislation.gov.uk/ukpga/1992/52/part/III/crossheading/time-off-for-trade-union-duties-and-activities) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/3/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
 
-[^key-32a4071318cf7780b1ea779c6d69ae75]: Textual amendment: Words in [s. 169(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/169/1) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/3/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-32a4071318cf7780b1ea779c6d69ae75]: Textual amendment: Words in [s. 169(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/169/1) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/3/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
 
 [^c14517741]: Textual amendment: Words in s. 169(5) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)

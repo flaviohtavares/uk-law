@@ -28,8 +28,8 @@ summary: ''
 
 (4) Any reference in this section to the local planning authority,—
 
-- (a) in relation to land in [^key-85f7f49410a6e6ea7075a22b2d68ec9c]... Greater London or a metropolitan county, is a reference to the authority which is the local planning authority as ascertained in accordance with sections 1 and 2 of the 1990 Act[^c12870291]; and
-- (b) in relation to other land in England[^key-f6f148d4da0755165f3f912ffd85f254], is a reference to the district planning authority and also (in relation to proposals for any development which is a county matter, as defined in paragraph 1 of Schedule 1 to the 1990 Act[^c12870301]) to the county planning authority.
+- (a) in relation to land in [^c-85f7f49410a6e6ea7075a22b2d68ec9c]... Greater London or a metropolitan county, is a reference to the authority which is the local planning authority as ascertained in accordance with sections 1 and 2 of the 1990 Act[^c12870291]; and
+- (b) in relation to other land in England[^c-f6f148d4da0755165f3f912ffd85f254], is a reference to the district planning authority and also (in relation to proposals for any development which is a county matter, as defined in paragraph 1 of Schedule 1 to the 1990 Act[^c12870301]) to the county planning authority.
 
 ## Annotations
 
@@ -37,10 +37,10 @@ summary: ''
 
 [^c12870271]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 79(2)(b)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/79/2/b)
 
-[^key-85f7f49410a6e6ea7075a22b2d68ec9c]: Textual amendment: Word in s. 66(4)(a) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/4/a)
+[^c-85f7f49410a6e6ea7075a22b2d68ec9c]: Textual amendment: Word in s. 66(4)(a) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/4/a)
 
 [^c12870291]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 79(2)(c)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/79/2/c)
 
-[^key-f6f148d4da0755165f3f912ffd85f254]: Textual amendment: Words in s. 66(4)(b) inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/4/b)
+[^c-f6f148d4da0755165f3f912ffd85f254]: Textual amendment: Words in s. 66(4)(b) inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/4/b)
 
 [^c12870301]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 79(2)(d)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/79/2/d)

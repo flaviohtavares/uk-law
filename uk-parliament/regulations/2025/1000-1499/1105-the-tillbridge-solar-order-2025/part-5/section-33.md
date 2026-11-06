@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Apparatus and rights of statutory undertakers in closed streets[^key-da93d4db06cb79c528b3f4d9264c2dc9]
+## 33. Apparatus and rights of statutory undertakers in closed streets[^c-da93d4db06cb79c528b3f4d9264c2dc9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street, public right of way or claimed public right of way is altered or
 
 ## Annotations
 
-[^key-da93d4db06cb79c528b3f4d9264c2dc9]: Commencement: Art. 33 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-da93d4db06cb79c528b3f4d9264c2dc9]: Commencement: Art. 33 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

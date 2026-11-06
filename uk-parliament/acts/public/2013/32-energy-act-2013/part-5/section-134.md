@@ -33,7 +33,7 @@ summary: ''
 
 - (a) a Parliamentary general election has taken place since the relevant time,
 - (b) the Authority has given notice to the Secretary of State under section 132(7) since the relevant time,
-- (ba)[^key-08798d53b018c7685cc6695fe7c4db73] the Independent System Operator and Planner has given notice to the Secretary of State under section 165(2) of the Energy Act 2023 since the relevant time,
+- (ba)[^c-08798d53b018c7685cc6695fe7c4db73] the Independent System Operator and Planner has given notice to the Secretary of State under section 165(2) of the Energy Act 2023 since the relevant time,
 - (c) a significant change in the energy policy of Her Majesty's government has occurred since the relevant time, or
 - (d) the Parliamentary approval requirement in relation to an amended statement was not met on the last review (see subsection (12)).
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) the change was not anticipated at the relevant time, and
 - (b) if the change had been so anticipated, it appears to the Secretary of State likely that the statement would have been different in a material way.
 
-(5A)[^key-523fd9dc9b517cdd27c68f99cd5322fd] The Secretary of State may also review the strategy and policy statement at any other time if the Secretary of State considers it appropriate to do so in preparation for or in connection with the designation of a person under section 162(1) of the Energy Act 2023 (Independent System Operator and Planner).
+(5A)[^c-523fd9dc9b517cdd27c68f99cd5322fd] The Secretary of State may also review the strategy and policy statement at any other time if the Secretary of State considers it appropriate to do so in preparation for or in connection with the designation of a person under section 162(1) of the Energy Act 2023 (Independent System Operator and Planner).
 
 (6) On a review under this section the Secretary of State may—
 
@@ -59,7 +59,7 @@ summary: ''
 (10) The Secretary of State must consult the following persons before proceeding under subsection (6)(b) or (c)—
 
 - (a) the Authority,
-- (aa)[^key-0f41e2f2ffb4b87e349f87ca8eed6182] the Independent System Operator and Planner,
+- (aa)[^c-0f41e2f2ffb4b87e349f87ca8eed6182] the Independent System Operator and Planner,
 - (b) the Scottish Ministers,
 - (c) the Welsh Ministers, and
 - (d) such other persons as the Secretary of State considers appropriate.
@@ -78,8 +78,8 @@ summary: ''
 
 ## Annotations
 
-[^key-08798d53b018c7685cc6695fe7c4db73]: Textual amendment: [S. 134(4)(ba)](https://www.legislation.gov.uk/ukpga/2013/32/section/134/4/ba) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(8)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/8), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-08798d53b018c7685cc6695fe7c4db73]: Textual amendment: [S. 134(4)(ba)](https://www.legislation.gov.uk/ukpga/2013/32/section/134/4/ba) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(8)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/8), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
 
-[^key-523fd9dc9b517cdd27c68f99cd5322fd]: Textual amendment: [S. 134(5A)](https://www.legislation.gov.uk/ukpga/2013/32/section/134/5A) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(9)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/9), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-523fd9dc9b517cdd27c68f99cd5322fd]: Textual amendment: [S. 134(5A)](https://www.legislation.gov.uk/ukpga/2013/32/section/134/5A) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(9)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/9), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
 
-[^key-0f41e2f2ffb4b87e349f87ca8eed6182]: Textual amendment: [S. 134(10)(aa)](https://www.legislation.gov.uk/ukpga/2013/32/section/134/10/aa) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(10)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/10), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-0f41e2f2ffb4b87e349f87ca8eed6182]: Textual amendment: [S. 134(10)(aa)](https://www.legislation.gov.uk/ukpga/2013/32/section/134/10/aa) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(10)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/10), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)

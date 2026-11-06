@@ -52,13 +52,13 @@ The Secretary of State is designated for the purposes of section 2(2) of the Eur
 
 The Secretary of State, in relation to England, and the Welsh Ministers, in relation to Wales, make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
 
-## 1. Citation, commencement and extent[^key-ae9619bc7ffe0b8406e3493fb0f8f993]
+## 1. Citation, commencement and extent[^c-ae9619bc7ffe0b8406e3493fb0f8f993]
 
 (1) These Regulations may be cited as the Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2016.
 
 (2) These Regulations come into force on 6th April 2016 and extend to England and Wales.
 
-## 2. Amendment of the Wildlife and Countryside Act 1981[^key-c4fbc31edbbff192e4682d3f514ead9c]
+## 2. Amendment of the Wildlife and Countryside Act 1981[^c-c4fbc31edbbff192e4682d3f514ead9c]
 
 (1) The Wildlife and Countryside Act 1981[^f00004] is amended as follows.
 
@@ -104,9 +104,9 @@ An impact assessment has not been produced for these Regulations as no, or no si
 
 [^f00003]: Footnote: [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248), amended by [S.I. 2006/3329](https://www.legislation.gov.uk/uksi/2006/3329), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). The designation is subject to the exceptions set out in Schedule 2 to that Order. The functions conferred on the National Assembly for Wales by means of that Order are now exercisable by the Welsh Ministers, the functions having been transferred by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Following the repeal of section 29 of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248) has effect as if made under section 59(1) of the Government of Wales Act 2006, by virtue of section 162 of, and paragraph 28(1) of Schedule 11, to that Act.
 
-[^key-ae9619bc7ffe0b8406e3493fb0f8f993]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/127/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2)
+[^c-ae9619bc7ffe0b8406e3493fb0f8f993]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/127/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2)
 
-[^key-c4fbc31edbbff192e4682d3f514ead9c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/127/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2)
+[^c-c4fbc31edbbff192e4682d3f514ead9c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/127/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2)
 
 [^f00004]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

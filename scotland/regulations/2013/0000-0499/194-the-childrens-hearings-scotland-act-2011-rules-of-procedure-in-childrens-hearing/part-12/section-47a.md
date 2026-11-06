@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47A. Procedure at pre-hearing panel - general[^key-8a9a652d2c201cd7716ef869235b7b53]
+## 47A. Procedure at pre-hearing panel - general[^c-8a9a652d2c201cd7716ef869235b7b53]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a9a652d2c201cd7716ef869235b7b53]: Textual amendment: Rule 47A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(16)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/16)
+[^c-8a9a652d2c201cd7716ef869235b7b53]: Textual amendment: Rule 47A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(16)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/16)

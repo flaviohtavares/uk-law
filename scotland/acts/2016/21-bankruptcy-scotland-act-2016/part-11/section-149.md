@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Further provision as regards discharge of trustee[^key-c59257da9b8e9978ecdc59f7935b76c6]
+## 149. Further provision as regards discharge of trustee[^c-c59257da9b8e9978ecdc59f7935b76c6]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ as they apply to a trustee who has made a final division of the debtor's estate 
 
 ## Annotations
 
-[^key-c59257da9b8e9978ecdc59f7935b76c6]: Commencement: [S. 149](https://www.legislation.gov.uk/asp/2016/21/section/149) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c59257da9b8e9978ecdc59f7935b76c6]: Commencement: [S. 149](https://www.legislation.gov.uk/asp/2016/21/section/149) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

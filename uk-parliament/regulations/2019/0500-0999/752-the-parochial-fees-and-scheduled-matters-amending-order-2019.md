@@ -49,7 +49,7 @@ The Archbishops’ Council, in exercise of the powers conferred by sections 1(1)
 
 ## PART 1 — Citation, commencement and interpretation
 
-### 1. Citation, commencement and interpretation[^key-6b58c0a0afa66b08909ec4975b531edf]
+### 1. Citation, commencement and interpretation[^c-6b58c0a0afa66b08909ec4975b531edf]
 
 (1) This Order may be cited as the Parochial Fees and Scheduled Matters Amending Order 2019.
 
@@ -59,7 +59,7 @@ The Archbishops’ Council, in exercise of the powers conferred by sections 1(1)
 
 ## PART 2 — Amendment of Scheduled Matters
 
-### 2. Amendment of Part 1 of Schedule A1 to the Measure[^key-4599c7ad5fd4c64fc65225fc9f118ce9]
+### 2. Amendment of Part 1 of Schedule A1 to the Measure[^c-4599c7ad5fd4c64fc65225fc9f118ce9]
 
 (1) Part 1 of Schedule A1 to the Measure (table of matters to which Parochial Fees relate) is amended as follows.
 
@@ -79,7 +79,7 @@ The Archbishops’ Council, in exercise of the powers conferred by sections 1(1)
 
   .
 
-### 3. Amendment of Part 2 of Schedule A1 to the Measure[^key-2d94c1a427722c72d1f17e1bb1e2fd09]
+### 3. Amendment of Part 2 of Schedule A1 to the Measure[^c-2d94c1a427722c72d1f17e1bb1e2fd09]
 
 (1) Part 2 of Schedule A1 to the Measure (explanatory notes on Part 1) is amended as follows.
 
@@ -97,15 +97,15 @@ The Archbishops’ Council, in exercise of the powers conferred by sections 1(1)
 
 ## PART 3 — Parochial Fees
 
-### 4. Period for which fees are prescribed[^key-173993c2c58c2c29d0b3d61ad30dcd64]
+### 4. Period for which fees are prescribed[^c-173993c2c58c2c29d0b3d61ad30dcd64]
 
 This Part prescribes parochial fees for the period 1st January 2020 to 31st December 2024.
 
-### 5. Base figures[^key-0ad75617a98919411533cf6ce77de680]
+### 5. Base figures[^c-0ad75617a98919411533cf6ce77de680]
 
 In this Part “the base figure” for a matter listed in the first column of the table in Schedule 1 is the amount specified in respect of that matter in the second column of the table for the diocesan board of finance or (as the case may be) in the third column for the parochial church council.
 
-### 6. Prescribed fees[^key-edcf7e5052239b0aa1def6ea59667bad][^key-7de33805cbc6294cb08284fa1e6f959d]
+### 6. Prescribed fees[^c-edcf7e5052239b0aa1def6ea59667bad][^c-7de33805cbc6294cb08284fa1e6f959d]
 
 (1) Parochial fees are payable to a diocesan board of finance and to a parochial church council in respect of each of the matters listed in the first column of the table in Schedule 1 as follows.
 
@@ -116,14 +116,14 @@ In this Part “the base figure” for a matter listed in the first column of th
 
 (3) The fee payable in each subsequent calendar year is the fee payable for that matter in the preceding calendar year (“Year A”)—
 
-- (a)[^key-2022c76e6ab314d38b27fa0da2d9ca45] increased by the lower of—
+- (a)[^c-2022c76e6ab314d38b27fa0da2d9ca45] increased by the lower of—
   - (i) the percentage by which the Consumer Prices Index (CPI) for August in Year A is greater than that for August in the calendar year preceding Year A, and
   - (ii) 5%, and
 - (b) rounded up to the nearest £1.
 
 (4) But where there is no increase in the Consumer Prices Index (CPI), the percentage for the purposes of paragraph (2) or (3) is to be treated as zero.
 
-### 7. Supplementary[^key-8dda653e7941940cc5ffaad38369108f]
+### 7. Supplementary[^c-8dda653e7941940cc5ffaad38369108f]
 
 (1) Schedule 2 contains incidental provisions that apply in relation to the parochial fees prescribed by article 6.
 
@@ -147,7 +147,7 @@ Church House, Westminster
 
 SCHEDULES
 
-## SCHEDULE 1 — Parochial Fees: base figures[^key-896de3ae36edef792f74dee0c72ef268]
+## SCHEDULE 1 — Parochial Fees: base figures[^c-896de3ae36edef792f74dee0c72ef268]
 
 Article 5
 
@@ -207,7 +207,7 @@ Article 5
 
 Article 7(1)
 
-### 1. Certificates and certified copies[^key-334787560801ed4fb96d6f94e1f7ff6a]
+### 1. Certificates and certified copies[^c-334787560801ed4fb96d6f94e1f7ff6a]
 
 (1) — The fee for a certificate issued at the time of baptism is for a certified copy of the entry in the register book of baptisms giving the particulars required in Form No 1 in Schedule 1 to the Parochial Registers and Records Measure 1978[^f00002].
 
@@ -215,27 +215,27 @@ Article 7(1)
 
 (3) Any fee prescribed under the heading “SEARCHES IN CHURCH REGISTERS ETC.” for a copy of an entry in a register or of an instrument or other document, is for a certified copy; and where provision of a copy is included in the fee for searching a register, that fee includes the provision of a certified copy.
 
-### 2. Costs and expenses included in prescribed fees[^key-5a9d261bc7848c6000b8a08659538fe0]
+### 2. Costs and expenses included in prescribed fees[^c-5a9d261bc7848c6000b8a08659538fe0]
 
 Where a matter is marked (\*) in the table in Schedule 1, any costs and expenses incurred in relation to that matter in respect of routine administration (including arranging dates and times and the making of entries in registers), making the church available and lighting it are included in the fee prescribed as payable to the parochial church council.
 
-### 3. Parish church cathedrals[^key-6fae9e47e620507527cf337509c968f7]
+### 3. Parish church cathedrals[^c-6fae9e47e620507527cf337509c968f7]
 
 Where section 1(8) of the Measure applies, paragraph 2 applies as if the reference to the parochial church council were to the corporate body of the cathedral.
 
-### 4. Approval of inscriptions[^key-1b96a008182196eaea6455d032588084]
+### 4. Approval of inscriptions[^c-1b96a008182196eaea6455d032588084]
 
 The fees prescribed for matters marked (†) in the table in Schedule 1 include fees in respect of the approval of the original inscription by the incumbent.
 
-### 5. Burial Laws Amendment Act 1880[^key-47bcad18790e217907bffd05fa1528ed]
+### 5. Burial Laws Amendment Act 1880[^c-47bcad18790e217907bffd05fa1528ed]
 
 In the case of a burial under the Burial Laws Amendment Act 1880[^f00003], the fees payable are those prescribed in respect of a funeral service (including burial of body) at graveside in churchyard.
 
-### 6. Banns published by layman[^key-30a06e7fa4b0e1a91019475ad43fb3e4]
+### 6. Banns published by layman[^c-30a06e7fa4b0e1a91019475ad43fb3e4]
 
 Where a lay person publishes banns under section 9(2) of the Marriage Act 1949[^f00004], the fees prescribed in respect of the publication of banns of marriage are payable.
 
-### 7. Registers in custody of churchwardens[^key-65d484cc044c6608f12dcf5bd0e722cf]
+### 7. Registers in custody of churchwardens[^c-65d484cc044c6608f12dcf5bd0e722cf]
 
 Where a churchwarden allows a search to be made in a register of baptisms or burials or gives a copy of an entry in such a register under section 20(1) of the Parochial Registers and Records Measure 1978, the fees prescribed in respect of such searches and to the giving of such copies are payable.
 
@@ -251,42 +251,42 @@ The Order goes on to prescribe the parochial fees payable for the period 1st Jan
 
 [^f00001]: Footnote: [1986 No. 2](https://www.legislation.gov.uk/ukcm/1986/2); relevant amendments were made by [S.I. 1998/1715](https://www.legislation.gov.uk/uksi/1998/1715), the Ecclesiastical Fees (Amendment) Measure 2011 ([2011 No. 2](https://www.legislation.gov.uk/ukcm/2011/2)), [S.I. 2012/993](https://www.legislation.gov.uk/uksi/2012/993) and [S.I. 2014/813](https://www.legislation.gov.uk/uksi/2014/813).
 
-[^key-6b58c0a0afa66b08909ec4975b531edf]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/752/article/1) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-6b58c0a0afa66b08909ec4975b531edf]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/752/article/1) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-4599c7ad5fd4c64fc65225fc9f118ce9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/752/article/2) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-4599c7ad5fd4c64fc65225fc9f118ce9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/752/article/2) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-2d94c1a427722c72d1f17e1bb1e2fd09]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/752/article/3) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-2d94c1a427722c72d1f17e1bb1e2fd09]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/752/article/3) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-173993c2c58c2c29d0b3d61ad30dcd64]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/752/article/4) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-173993c2c58c2c29d0b3d61ad30dcd64]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/752/article/4) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-0ad75617a98919411533cf6ce77de680]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/752/article/5) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-0ad75617a98919411533cf6ce77de680]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/752/article/5) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-edcf7e5052239b0aa1def6ea59667bad]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/752/article/6) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-edcf7e5052239b0aa1def6ea59667bad]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/752/article/6) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-7de33805cbc6294cb08284fa1e6f959d]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2019/752/article/6) modified (1.3.2023) by [The Parochial Fees (Amendment) Order 2023 (S.I. 2023/164)](https://www.legislation.gov.uk/uksi/2023/164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/164/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/164/article/2/3)
+[^c-7de33805cbc6294cb08284fa1e6f959d]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2019/752/article/6) modified (1.3.2023) by [The Parochial Fees (Amendment) Order 2023 (S.I. 2023/164)](https://www.legislation.gov.uk/uksi/2023/164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/164/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/164/article/2/3)
 
-[^key-2022c76e6ab314d38b27fa0da2d9ca45]: Textual amendment: [Art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2019/752/article/6/3/a) substituted (1.3.2023) by [The Parochial Fees (Amendment) Order 2023 (S.I. 2023/164)](https://www.legislation.gov.uk/uksi/2023/164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/164/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/164/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/164/article/2/2))
+[^c-2022c76e6ab314d38b27fa0da2d9ca45]: Textual amendment: [Art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2019/752/article/6/3/a) substituted (1.3.2023) by [The Parochial Fees (Amendment) Order 2023 (S.I. 2023/164)](https://www.legislation.gov.uk/uksi/2023/164), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/164/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/164/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/164/article/2/2))
 
-[^key-8dda653e7941940cc5ffaad38369108f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2019/752/article/7) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-8dda653e7941940cc5ffaad38369108f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2019/752/article/7) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-896de3ae36edef792f74dee0c72ef268]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/752/schedule/1) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-896de3ae36edef792f74dee0c72ef268]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/752/schedule/1) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-334787560801ed4fb96d6f94e1f7ff6a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/1) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-334787560801ed4fb96d6f94e1f7ff6a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/1) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
 [^f00002]: Footnote: [1978 No. 2](https://www.legislation.gov.uk/ukcm/1978/2).
 
-[^key-5a9d261bc7848c6000b8a08659538fe0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/2) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-5a9d261bc7848c6000b8a08659538fe0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/2) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-6fae9e47e620507527cf337509c968f7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/3) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-6fae9e47e620507527cf337509c968f7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/3) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-1b96a008182196eaea6455d032588084]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/4) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-1b96a008182196eaea6455d032588084]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/4) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
-[^key-47bcad18790e217907bffd05fa1528ed]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/5) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-47bcad18790e217907bffd05fa1528ed]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/5) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
 [^f00003]: Footnote: [43 & 44 Vict. c.41](https://www.legislation.gov.uk/ukpga/1880/41).
 
-[^key-30a06e7fa4b0e1a91019475ad43fb3e4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/6) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-30a06e7fa4b0e1a91019475ad43fb3e4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/6) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
 
 [^f00004]: Footnote: [12, 13 & 14 Geo. 6 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-65d484cc044c6608f12dcf5bd0e722cf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/7) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)
+[^c-65d484cc044c6608f12dcf5bd0e722cf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/752/schedule/2/paragraph/7) in force at 1.1.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/752/article/1/2)

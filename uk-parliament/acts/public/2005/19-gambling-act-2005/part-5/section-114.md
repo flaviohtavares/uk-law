@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Lapse[^key-c859b47ec4114b84b00786d3baa47124][^key-f9552b28c20cf7181d2970a8b4f0003f][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-5489149c4e9873ffd4814e39118d2317][^key-e1f6e585bac667309e250f830e864ec8][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8]
+## 114. Lapse[^c-c859b47ec4114b84b00786d3baa47124][^c-f9552b28c20cf7181d2970a8b4f0003f][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-5489149c4e9873ffd4814e39118d2317][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) the licensee dies,
 - (b) the licensee becomes, in the opinion of the Commission as notified to the licensee, incapable of carrying on the licensed activities by reason of mental or physical incapacity,
-- (c) the licensee becomes bankrupt (within the meaning of section 381 of the Insolvency Act 1986 (c. 45)), or a debt relief order is made in respect of the licensee (under Part 7A of the Insolvency Act 1986),[^key-643bd4a7de9259edfe0df46b8c1dac32] or
-- (d) sequestration of the licensee's estate is awarded under section 22(1) of the Bankruptcy (Scotland) Act 2016[^key-133dd20f0d3a818454c77102f7d07978] .
+- (c) the licensee becomes bankrupt (within the meaning of section 381 of the Insolvency Act 1986 (c. 45)), or a debt relief order is made in respect of the licensee (under Part 7A of the Insolvency Act 1986),[^c-643bd4a7de9259edfe0df46b8c1dac32] or
+- (d) sequestration of the licensee's estate is awarded under section 22(1) of the Bankruptcy (Scotland) Act 2016[^c-133dd20f0d3a818454c77102f7d07978] .
 
 (2) In any other case an operating licence shall lapse if the licensee—
 
@@ -34,16 +34,16 @@ summary: ''
 
 ## Annotations
 
-[^key-c859b47ec4114b84b00786d3baa47124]: Commencement: S. 114 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-c859b47ec4114b84b00786d3baa47124]: Commencement: S. 114 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-f9552b28c20cf7181d2970a8b4f0003f]: Modification: S. 114 applied (with modifications) (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 2
+[^c-f9552b28c20cf7181d2970a8b4f0003f]: Modification: S. 114 applied (with modifications) (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 2
 
-[^key-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
+[^c-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
 
-[^key-5489149c4e9873ffd4814e39118d2317]: Modification: S. 114 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 paras. 44](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/44), [47](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/47)
+[^c-5489149c4e9873ffd4814e39118d2317]: Modification: S. 114 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 paras. 44](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/44), [47](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/47)
 
-[^key-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
+[^c-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
 
-[^key-643bd4a7de9259edfe0df46b8c1dac32]: Textual amendment: Words in s. 114(1)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/55/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-643bd4a7de9259edfe0df46b8c1dac32]: Textual amendment: Words in s. 114(1)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/55/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-133dd20f0d3a818454c77102f7d07978]: Textual amendment: Words in [s. 114(1)(d)](https://www.legislation.gov.uk/ukpga/2005/19/section/114/1/d) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/28/2)
+[^c-133dd20f0d3a818454c77102f7d07978]: Textual amendment: Words in [s. 114(1)(d)](https://www.legislation.gov.uk/ukpga/2005/19/section/114/1/d) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/28/2)

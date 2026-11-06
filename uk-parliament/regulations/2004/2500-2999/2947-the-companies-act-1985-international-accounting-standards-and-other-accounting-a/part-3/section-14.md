@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Amendment of Schedules to the 1985 Act[^key-bf2ceef53402c7d124ff19633d8fdd80]
+## 14. Amendment of Schedules to the 1985 Act[^c-bf2ceef53402c7d124ff19633d8fdd80]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bf2ceef53402c7d124ff19633d8fdd80]: Commencement: Reg. 14 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-bf2ceef53402c7d124ff19633d8fdd80]: Commencement: Reg. 14 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00017]: Footnote: Schedule 4 was amended by section 4(2) of, and Schedule 1 to, the Companies Act 1989.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 372A. Further protection of essential supplies[^key-c84346a611db59841c6ae7053c4de6c6]
+## 372A. Further protection of essential supplies[^c-c84346a611db59841c6ae7053c4de6c6]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ the contract is treated for the purposes of subsections (1) to (5) as if, immedi
 
 ## Annotations
 
-[^key-c84346a611db59841c6ae7053c4de6c6]: Textual amendment: S. 372A inserted (1.10.2015) by [The Insolvency (Protection of Essential Supplies) Order 2015 (S.I. 2015/989)](https://www.legislation.gov.uk/uksi/2015/989), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1), [5](https://www.legislation.gov.uk/uksi/2015/989/article/5)
+[^c-c84346a611db59841c6ae7053c4de6c6]: Textual amendment: S. 372A inserted (1.10.2015) by [The Insolvency (Protection of Essential Supplies) Order 2015 (S.I. 2015/989)](https://www.legislation.gov.uk/uksi/2015/989), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1), [5](https://www.legislation.gov.uk/uksi/2015/989/article/5)

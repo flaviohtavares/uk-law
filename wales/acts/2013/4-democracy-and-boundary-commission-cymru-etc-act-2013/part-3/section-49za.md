@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49ZA. Publication of orders under Part 3[^key-425229442a216cb24269e79963f5e42c]
+## 49ZA. Publication of orders under Part 3[^c-425229442a216cb24269e79963f5e42c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-425229442a216cb24269e79963f5e42c]: Textual amendment: S. 49ZA inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 53(2)](https://www.legislation.gov.uk/asc/2024/5/section/53/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-425229442a216cb24269e79963f5e42c]: Textual amendment: S. 49ZA inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 53(2)](https://www.legislation.gov.uk/asc/2024/5/section/53/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

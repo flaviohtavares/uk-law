@@ -44,7 +44,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 ## The Sovereign Grant
 
-### 1. The Sovereign Grant[^key-b4afefc74103cb848762d599a41e10e1][^c21221741]
+### 1. The Sovereign Grant[^c-b4afefc74103cb848762d599a41e10e1][^c21221741]
 
 (1) A Sovereign Grant is to be paid by the Treasury to Her Majesty for each financial year.
 
@@ -58,7 +58,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 (6) The Sovereign Grant falls to be paid out of money provided by Parliament.
 
-### 2. Accounts of the Royal Household[^key-f358fc10e32b795877e139bc231fe41a][^c21221751]
+### 2. Accounts of the Royal Household[^c-f358fc10e32b795877e139bc231fe41a][^c21221751]
 
 (1) The Keeper of Her Majesty's Privy Purse (referred to in this Act as “**the Keeper**”) must keep proper accounting records relating to the Royal Household.
 
@@ -95,7 +95,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 (8) For the purposes of Part 2 of the National Audit Act 1983 (economy, efficiency and effectiveness examinations) the Royal Household is to be treated as a body within section 6(3)(c) of that Act.
 
-### 3. The Reserve Fund[^key-2e7820c31cf52e49bff0ecbd9a6b2874][^c21221761]
+### 3. The Reserve Fund[^c-2e7820c31cf52e49bff0ecbd9a6b2874][^c21221761]
 
 (1) There is to be a Reserve Fund consisting of monies received by the Royal Trustees under this section and anything deriving from those monies.
 
@@ -119,7 +119,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 (8) In section 2(7)(b), the reference to income of the Royal Household does not include any payment under this section made to the Keeper.
 
-### 4. Accounts of the Reserve Fund[^key-c2016626a030176d568d50d494accbc0][^c21221771]
+### 4. Accounts of the Reserve Fund[^c-c2016626a030176d568d50d494accbc0][^c21221771]
 
 (1) The Royal Trustees must keep proper accounting records of the Reserve Fund.
 
@@ -151,7 +151,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 - (a) the Royal Trustees are to be treated as a body within section 6(3)(c) of that Act, and
 - (b) for the purposes of section 6(4) of that Act the functions of the Comptroller in relation to the Royal Trustees are to be regarded as restricted to matters relating to the Reserve Fund.
 
-### 5. Annual report as to the amount of Sovereign Grant[^key-e52f6888595d9f7627896f58ea53e244][^c21221781]
+### 5. Annual report as to the amount of Sovereign Grant[^c-e52f6888595d9f7627896f58ea53e244][^c21221781]
 
 (1) In each financial year the Royal Trustees must prepare a report—
 
@@ -168,11 +168,11 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 (4) The Treasury must lay a copy of the report before Parliament.
 
-### 6. Determination of the amount of Sovereign Grant[^key-5bfb7316651c462c1332334c66f712d5][^c21221791]
+### 6. Determination of the amount of Sovereign Grant[^c-5bfb7316651c462c1332334c66f712d5][^c21221791]
 
 (1) The amount of the Sovereign Grant for a financial year (“the relevant financial year”) is to be determined by the Royal Trustees as follows—
 
-- *Step 1* Calculate 12%[^key-489860d2aae8b9999ef6880334aa2185] of the income account net surplus of the Crown Estate (see section 12) for the base year.“**The base year**” means the financial year that begins two years before the beginning of the relevant financial year.
+- *Step 1* Calculate 12%[^c-489860d2aae8b9999ef6880334aa2185] of the income account net surplus of the Crown Estate (see section 12) for the base year.“**The base year**” means the financial year that begins two years before the beginning of the relevant financial year.
 - *Step 2* Round the amount calculated under Step 1 up to the nearest £100,000.
 - *Step 3* Find the greater of—
   - (a) the amount determined under Step 2, and
@@ -196,7 +196,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 (4) The Royal Trustees must, in exercising their power under Step 4, act in a way they expect will result in the adjusted value of the Reserve Fund at the end of the relevant financial year being about 50% of the audited net relevant resources used for that year.
 
-### 7. Review by Royal Trustees of Sovereign Grant[^key-128124520d57a8e8a7afef278e68a44c][^c21221801]
+### 7. Review by Royal Trustees of Sovereign Grant[^c-128124520d57a8e8a7afef278e68a44c][^c21221801]
 
 (1) As soon as practicable after the end of a review period, the Royal Trustees must review whether the percentage for the time being specified in Step 1 of section 6(1) is appropriate.
 
@@ -215,7 +215,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 - (a) the period of 4 years beginning with 1 April 2012, and
 - (b) every period of 5 years beginning at the end of another review period.
 
-### 8. Power to change level of Sovereign Grant[^key-1e84705472808d1b818f53862cbef3b5][^c21221811]
+### 8. Power to change level of Sovereign Grant[^c-1e84705472808d1b818f53862cbef3b5][^c21221811]
 
 (1) This section applies where a report under section 7 states that the Royal Trustees consider that the percentage for the time being specified in Step 1 of section 6(1) is not appropriate.
 
@@ -225,7 +225,7 @@ Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons 
 
 (4) Any other statutory instrument under this section is subject to annulment in pursuance of a resolution of the House of Commons.
 
-### 9. Duchy of Cornwall income and grant to the heir to the throne[^key-0faa90b0f5fa54c06016a278d0101f17][^c21221821]
+### 9. Duchy of Cornwall income and grant to the heir to the throne[^c-0faa90b0f5fa54c06016a278d0101f17][^c21221821]
 
 (1) Where the Duke of Cornwall for the time being is under 18 for any period in a financial year—
 
@@ -275,11 +275,11 @@ The following provisions are repealed—
 - section 6 of that Act (power to increase certain financial provisions), and
 - the Civil List Act 1975 (power to supplement sums payable under Civil List Acts).
 
-### 11. Maintenance of Royal Palaces and related land[^key-b41b44dd8fa24794146dee000d0c9fc1][^c21221831]
+### 11. Maintenance of Royal Palaces and related land[^c-b41b44dd8fa24794146dee000d0c9fc1][^c21221831]
 
 The Secretary of State has no duties under section 21 of the Crown Lands Act 1851 in relation to the maintenance of Royal Palaces and related land so far as they are maintained by Her Majesty out of the Sovereign Grant.
 
-### 12. Meaning of “the audited net relevant resources”, “the value of the Reserve Fund” and “the income account net surplus of the Crown Estate”[^key-57b4affa6a97057b7772da0278d81af0][^c21221841]
+### 12. Meaning of “the audited net relevant resources”, “the value of the Reserve Fund” and “the income account net surplus of the Crown Estate”[^c-57b4affa6a97057b7772da0278d81af0][^c21221841]
 
 (1) For the purposes of this Act—
 
@@ -543,48 +543,48 @@ Section 15
 
 ## Annotations
 
-[^key-b4afefc74103cb848762d599a41e10e1]: Modification: S. 1: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-b4afefc74103cb848762d599a41e10e1]: Modification: S. 1: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221741]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-f358fc10e32b795877e139bc231fe41a]: Modification: S. 2: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-f358fc10e32b795877e139bc231fe41a]: Modification: S. 2: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221751]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-2e7820c31cf52e49bff0ecbd9a6b2874]: Modification: S. 3: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-2e7820c31cf52e49bff0ecbd9a6b2874]: Modification: S. 3: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221761]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-c2016626a030176d568d50d494accbc0]: Modification: S. 4: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-c2016626a030176d568d50d494accbc0]: Modification: S. 4: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221771]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-e52f6888595d9f7627896f58ea53e244]: Modification: S. 5: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-e52f6888595d9f7627896f58ea53e244]: Modification: S. 5: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221781]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-5bfb7316651c462c1332334c66f712d5]: Modification: S. 6: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by [The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954)](https://www.legislation.gov.uk/uksi/2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-5bfb7316651c462c1332334c66f712d5]: Modification: S. 6: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by [The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954)](https://www.legislation.gov.uk/uksi/2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221791]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see s. 16(1)-(3)
 
-[^key-489860d2aae8b9999ef6880334aa2185]: Textual amendment: Word in [s. 6(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/6/1) substituted (14.2.2024) by [The Sovereign Grant Act 2011 (Change of Percentage) Order 2024 (S.I. 2024/52)](https://www.legislation.gov.uk/uksi/2024/52), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/52/article/1/1), [2](https://www.legislation.gov.uk/uksi/2024/52/article/2)
+[^c-489860d2aae8b9999ef6880334aa2185]: Textual amendment: Word in [s. 6(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/6/1) substituted (14.2.2024) by [The Sovereign Grant Act 2011 (Change of Percentage) Order 2024 (S.I. 2024/52)](https://www.legislation.gov.uk/uksi/2024/52), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/52/article/1/1), [2](https://www.legislation.gov.uk/uksi/2024/52/article/2)
 
-[^key-128124520d57a8e8a7afef278e68a44c]: Modification: S. 7: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-128124520d57a8e8a7afef278e68a44c]: Modification: S. 7: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221801]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-1e84705472808d1b818f53862cbef3b5]: Modification: S. 8: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-1e84705472808d1b818f53862cbef3b5]: Modification: S. 8: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221811]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-0faa90b0f5fa54c06016a278d0101f17]: Modification: S. 9: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-0faa90b0f5fa54c06016a278d0101f17]: Modification: S. 9: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221821]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-b41b44dd8fa24794146dee000d0c9fc1]: Modification: S. 11: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-b41b44dd8fa24794146dee000d0c9fc1]: Modification: S. 11: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221831]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)
 
-[^key-57b4affa6a97057b7772da0278d81af0]: Modification: S. 12: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-57b4affa6a97057b7772da0278d81af0]: Modification: S. 12: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c21221841]: Modification: For duration of Sovereign Grant provisions (ss. 1-9, 11, 12) see [s. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/15/section/16/1)

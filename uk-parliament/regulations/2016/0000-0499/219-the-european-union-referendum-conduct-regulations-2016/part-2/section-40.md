@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Refusal to deliver ballot paper[^key-44b54877ac1b094a68cd19e08d4d2558]
+## 40. Refusal to deliver ballot paper[^c-44b54877ac1b094a68cd19e08d4d2558]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A decision by a presiding officer taken under paragraph (2) of regulation 32, in
 
 ## Annotations
 
-[^key-44b54877ac1b094a68cd19e08d4d2558]: Commencement: Reg. 40 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-44b54877ac1b094a68cd19e08d4d2558]: Commencement: Reg. 40 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

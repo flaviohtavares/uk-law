@@ -52,7 +52,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## PART 1 — Citation and Commencement
 
-### 1. Citation and commencement[^key-8239db0cfb3bf8eb14bd3f84a0942c26]
+### 1. Citation and commencement[^c-8239db0cfb3bf8eb14bd3f84a0942c26]
 
 (1) These Regulations may be cited as the Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020.
 
@@ -66,17 +66,17 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## PART 2 — Modified Export Controls
 
-### 2. Modified export controls[^key-4b48265f046ee435769164b913f5c9be]
+### 2. Modified export controls[^c-4b48265f046ee435769164b913f5c9be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendments
 
-### 3. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-70151db3884f41d3a9944432481f0ad8][^key-460277c8506de87bb346aa2c7ca3d3da]
+### 3. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-70151db3884f41d3a9944432481f0ad8][^c-460277c8506de87bb346aa2c7ca3d3da]
 
-(1)[^key-64ae9fde0907b0861edec9ea607cc334] The Customs (Import duty) (EU Exit) Regulations 2018 are amended as follows.
+(1)[^c-64ae9fde0907b0861edec9ea607cc334] The Customs (Import duty) (EU Exit) Regulations 2018 are amended as follows.
 
-(2)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 4 (notification of importation)—
+(2)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 4 (notification of importation)—
 
 - (a) in paragraph (1) for “(3AA) and (3AB)”[^c24324541] substitute “(3AB) and (3AC)”;
 - (b) in paragraph (3A) [^c24324551], after paragraph (a) insert—
@@ -97,7 +97,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
   ;
 - (d) in paragraphs (3B) and (3C) [^c24324581] for “(3AA) or (3AB)”, in each place it occurs, substitute “ (3AB) or (3AC) ”.
 
-(3)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 14 (interpretation) in the appropriate places insert—
+(3)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 14 (interpretation) in the appropriate places insert—
 
 > “**other listed location**” has the meaning given by regulation 131E(1);
 
@@ -111,7 +111,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(4)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 18 (free-circulation procedure: non-commercial goods, personal gifts and goods in baggage)—
+(4)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 18 (free-circulation procedure: non-commercial goods, personal gifts and goods in baggage)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) at the beginning of that paragraph insert “ Subject to paragraph (2), ”;
@@ -124,7 +124,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-(5)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 22 (customs declarations made in paper form)—
+(5)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 22 (customs declarations made in paper form)—
 
 - (a) at the end of paragraph (1) insert—
 
@@ -136,7 +136,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
   ;
 - (b) in paragraph (3) for “such notice” substitute “ a notice providing the form referred to in paragraph (2) ”.
 
-(6)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 25 (free-circulation procedure: miscellaneous goods)—
+(6)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 25 (free-circulation procedure: miscellaneous goods)—
 
 - (a) in paragraph (1) for “paragraphs (1A) and (4)”[^c24324591] substitute “paragraphs (1A), (1BA) and (4)”;
 - (b) after paragraph (1B) [^c24324601] insert—
@@ -163,7 +163,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-(7)[^key-64ae9fde0907b0861edec9ea607cc334] After regulation 26C (free-circulation procedure: private aircraft) [^c24324621] insert—
+(7)[^c-64ae9fde0907b0861edec9ea607cc334] After regulation 26C (free-circulation procedure: private aircraft) [^c24324621] insert—
 
 > **26D. Free-circulation procedure: goods imported at other listed locations**
 >
@@ -177,7 +177,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(8)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 27 (temporary admission procedure: miscellaneous goods) for paragraph (2) [^c24324631] substitute—
+(8)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 27 (temporary admission procedure: miscellaneous goods) for paragraph (2) [^c24324631] substitute—
 
 > (2) The conduct referred to in paragraph (1) is—
 >
@@ -187,7 +187,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(9)[^key-64ae9fde0907b0861edec9ea607cc334] After regulation 27C [^c24324641] (temporary admission procedure: private aircraft) insert—
+(9)[^c-64ae9fde0907b0861edec9ea607cc334] After regulation 27C [^c24324641] (temporary admission procedure: private aircraft) insert—
 
 > **27D. Temporary admission procedure: goods imported at other listed locations**
 >
@@ -205,7 +205,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(10)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 35 (exceptions to requirement to make a supplementary Customs declaration)—
+(10)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 35 (exceptions to requirement to make a supplementary Customs declaration)—
 
 - (a) for paragraph (2) substitute—
 
@@ -230,7 +230,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
   > (6) For the purposes of this regulation “**private customs warehouse**” means a customs warehouse that may only be used to store goods by the person approved to operate that warehouse.
 
-(11)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 36 (EIDR procedure) after paragraph (2) insert—
+(11)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 36 (EIDR procedure) after paragraph (2) insert—
 
 > (2A) If an HMRC officer is satisfied the goods have been presented to Customs on import, acceptance of the Customs declaration and release of the goods to the free-circulation procedure are to be treated as occurring at the later of—
 >
@@ -239,7 +239,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(12)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 39 (advance electronic declarations by qualifying travellers: person gifts and non-commercial goods)—
+(12)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 39 (advance electronic declarations by qualifying travellers: person gifts and non-commercial goods)—
 
 - (a) in paragraph (3)(b) for “paragraph (9) [^c24324651]” substitute “ paragraphs (9) and (11) ”;
 - (b) at the end insert—
@@ -253,15 +253,15 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-(13)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 39A (mandatory advance electronic declarations by qualifying travellers: other chargeable goods) [^c24324661], in paragraph (3) after sub-paragraph (b) insert—
+(13)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 39A (mandatory advance electronic declarations by qualifying travellers: other chargeable goods) [^c24324661], in paragraph (3) after sub-paragraph (b) insert—
 
 > - (ba) regulation 27D (temporary admission procedure: goods imported at other listed locations);
 
 .
 
-(14)[^key-64ae9fde0907b0861edec9ea607cc334] In regulation 101 (cases where no guarantee is required), in paragraph (1)(e)(i) for “or 27C”[^c24324671] substitute “, 27C or 27D”.
+(14)[^c-64ae9fde0907b0861edec9ea607cc334] In regulation 101 (cases where no guarantee is required), in paragraph (1)(e)(i) for “or 27C”[^c24324671] substitute “, 27C or 27D”.
 
-(15)[^key-460277c8506de87bb346aa2c7ca3d3da][^key-aa89d14d6d655c0394b7b3b56a095be8] After regulation 131C (unaccompanied goods: making of declarations) [^c24324681] insert—
+(15)[^c-460277c8506de87bb346aa2c7ca3d3da][^c-aa89d14d6d655c0394b7b3b56a095be8] After regulation 131C (unaccompanied goods: making of declarations) [^c24324681] insert—
 
 > **PART 13C — Chargeable Goods Destined for Other Listed Locations**
 >
@@ -328,7 +328,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-### 4. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^key-8d593958ccbac68f21ae4f09b1febe1c][^key-9e18d5912d0cf55d1062c39ce4c1f38d]
+### 4. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^c-8d593958ccbac68f21ae4f09b1febe1c][^c-9e18d5912d0cf55d1062c39ce4c1f38d]
 
 (1) The Customs (Export) (EU Exit) Regulations 2019 are amended as follows.
 
@@ -392,7 +392,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-### 5. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-b8c029ed30f62973f4701815592476fb][^key-1e6c04217635ee0b703151df8a16049a]
+### 5. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-b8c029ed30f62973f4701815592476fb][^c-1e6c04217635ee0b703151df8a16049a]
 
 (1) The Customs (Contravention of a Relevant Rule) Regulations 2003 [^c24324691] are amended as follows.
 
@@ -407,7 +407,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-### 6. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^key-e907bb380c22e7116c9ad8f46815778d][^key-2fd260ad4228cafc79f1270d00a9e88f]
+### 6. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^c-e907bb380c22e7116c9ad8f46815778d][^c-2fd260ad4228cafc79f1270d00a9e88f]
 
 (1) The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 [^c24324711] are amended as follows.
 
@@ -458,7 +458,7 @@ In accordance with section 51(1) of the Taxation (Cross-border Trade) Act 2018, 
 
 (3) In regulation 10(2), in the text to be inserted, for “or (3AA)”[^c24324721] substitute “, (3AB) or (3AC)”.
 
-### 7. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^key-9a8fbe6b67a8de22e69240f6f70eaa0a][^key-6f189ee91672b904261f5477db990093]
+### 7. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^c-9a8fbe6b67a8de22e69240f6f70eaa0a][^c-6f189ee91672b904261f5477db990093]
 
 (1) The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 [^c24324731] are amended as follows.
 
@@ -503,17 +503,17 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24324491]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-8239db0cfb3bf8eb14bd3f84a0942c26]: Commencement: Reg. 1 in force at 1.12.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/3/a)
+[^c-8239db0cfb3bf8eb14bd3f84a0942c26]: Commencement: Reg. 1 in force at 1.12.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/3/a)
 
 [^c24324501]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). Relevant amending instruments are [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), [S.I](https://www.legislation.gov.uk/uksi/2019/326/section/I). 2019/486 2019/1215, 2019/1346, 2020/967 and 2020/1088.
 
-[^key-4b48265f046ee435769164b913f5c9be]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1234/regulation/2) omitted (1.1.2022) by virtue of [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [6(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/6/2)
+[^c-4b48265f046ee435769164b913f5c9be]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1234/regulation/2) omitted (1.1.2022) by virtue of [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [6(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/6/2)
 
-[^key-70151db3884f41d3a9944432481f0ad8]: Commencement: Reg. 3(1)-(14) not in force at made date, see reg. 1(2)
+[^c-70151db3884f41d3a9944432481f0ad8]: Commencement: Reg. 3(1)-(14) not in force at made date, see reg. 1(2)
 
-[^key-460277c8506de87bb346aa2c7ca3d3da]: Commencement: Reg. 3(15) in force at 1.12.2020 for specified purposes, see reg. 1(3)(b)(c)
+[^c-460277c8506de87bb346aa2c7ca3d3da]: Commencement: Reg. 3(15) in force at 1.12.2020 for specified purposes, see reg. 1(3)(b)(c)
 
-[^key-64ae9fde0907b0861edec9ea607cc334]: Commencement: [Reg. 3(1)-(14)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-64ae9fde0907b0861edec9ea607cc334]: Commencement: [Reg. 3(1)-(14)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24324541]: Marginal citation: Paragraph (1) prospectively amended by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), 2019/1215 and 2019/1346.
 
@@ -543,32 +543,32 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24324671]: Marginal citation: Words “or 27C” prospectively inserted by way of substitution by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-aa89d14d6d655c0394b7b3b56a095be8]: Commencement: [Reg. 3(15)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/15) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-aa89d14d6d655c0394b7b3b56a095be8]: Commencement: [Reg. 3(15)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/15) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24324681]: Marginal citation: Regulation 131C prospectively inserted by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346).
 
-[^key-8d593958ccbac68f21ae4f09b1febe1c]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
+[^c-8d593958ccbac68f21ae4f09b1febe1c]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
 
-[^key-9e18d5912d0cf55d1062c39ce4c1f38d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1234/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9e18d5912d0cf55d1062c39ce4c1f38d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1234/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b8c029ed30f62973f4701815592476fb]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
+[^c-b8c029ed30f62973f4701815592476fb]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
 
-[^key-1e6c04217635ee0b703151df8a16049a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1234/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1e6c04217635ee0b703151df8a16049a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1234/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24324691]: Marginal citation: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113). Amended by [S.I. 2018/1260](https://www.legislation.gov.uk/uksi/2018/1260) and [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346). There are other amending instruments, but none is relevant.
 
 [^c24324701]: Marginal citation: The entry for regulation 131C(4) was inserted by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346).
 
-[^key-e907bb380c22e7116c9ad8f46815778d]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
+[^c-e907bb380c22e7116c9ad8f46815778d]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
 
-[^key-2fd260ad4228cafc79f1270d00a9e88f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1234/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2fd260ad4228cafc79f1270d00a9e88f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1234/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24324711]: Marginal citation: [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486), amended by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215). There are other amending instruments, but none is relevant.
 
 [^c24324721]: Marginal citation: Words “or (3AA)” inserted by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-9a8fbe6b67a8de22e69240f6f70eaa0a]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
+[^c-9a8fbe6b67a8de22e69240f6f70eaa0a]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2)
 
-[^key-6f189ee91672b904261f5477db990093]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6f189ee91672b904261f5477db990093]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24324731]: Marginal citation: [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215). There are amending instruments, but none is relevant.

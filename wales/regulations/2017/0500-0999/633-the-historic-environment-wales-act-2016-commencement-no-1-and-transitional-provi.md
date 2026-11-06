@@ -33,44 +33,44 @@ Town And Country Planning, Wales
 
 Ancient Monuments, Wales
 
-The Historic Environment (Wales) Act 2016 (Commencement No. 1 and Transitional Provisions) Order 2017 (revoked)[^key-cc04598586c72763101e5dd9146afe8a]
+The Historic Environment (Wales) Act 2016 (Commencement No. 1 and Transitional Provisions) Order 2017 (revoked)[^c-cc04598586c72763101e5dd9146afe8a]
 
 Made
 
 3 May 2017
 
-[^key-cc04598586c72763101e5dd9146afe8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc04598586c72763101e5dd9146afe8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and interpretation[^key-cc04598586c72763101e5dd9146afe8a]
+## 1. Title and interpretation[^c-cc04598586c72763101e5dd9146afe8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision coming into force on the day after this Order is made[^key-cc04598586c72763101e5dd9146afe8a]
+## 2. Provision coming into force on the day after this Order is made[^c-cc04598586c72763101e5dd9146afe8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provision coming into force on 8 May 2017[^key-cc04598586c72763101e5dd9146afe8a]
+## 3. Provision coming into force on 8 May 2017[^c-cc04598586c72763101e5dd9146afe8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provisions coming into force on 31 May 2017[^key-cc04598586c72763101e5dd9146afe8a]
+## 4. Provisions coming into force on 31 May 2017[^c-cc04598586c72763101e5dd9146afe8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cc04598586c72763101e5dd9146afe8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cc04598586c72763101e5dd9146afe8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provisions[^key-cc04598586c72763101e5dd9146afe8a]
+## 6. Transitional provisions[^c-cc04598586c72763101e5dd9146afe8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc04598586c72763101e5dd9146afe8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc04598586c72763101e5dd9146afe8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc04598586c72763101e5dd9146afe8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc04598586c72763101e5dd9146afe8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc04598586c72763101e5dd9146afe8a]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2017/633) revoked (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [137(1)(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/137/1/a) (with [reg. 137(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/137/2))
+[^c-cc04598586c72763101e5dd9146afe8a]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2017/633) revoked (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [137(1)(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/137/1/a) (with [reg. 137(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/137/2))

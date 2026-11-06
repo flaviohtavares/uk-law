@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Notice of intention to terminate or suspend authorisation under section 33 of the Financial Services Act: time for reference not expired[^key-a94eccd98eeb0dfa4dd87a8735b5f2c3]
+## 12. Notice of intention to terminate or suspend authorisation under section 33 of the Financial Services Act: time for reference not expired[^c-a94eccd98eeb0dfa4dd87a8735b5f2c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the notice has effect after commencement as if it were a notice given under 197(
 
 ## Annotations
 
-[^key-a94eccd98eeb0dfa4dd87a8735b5f2c3]: Commencement: Art. 12 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a94eccd98eeb0dfa4dd87a8735b5f2c3]: Commencement: Art. 12 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

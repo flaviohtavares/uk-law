@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Supplies of services by barristers and advocates[^key-1b16a307b49cb357eea075fbf1449332]
+## 92. Supplies of services by barristers and advocates[^c-1b16a307b49cb357eea075fbf1449332]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Services supplied by a barrister, or in Scotland, by an advocate, acting in that
 
 ## Annotations
 
-[^key-1b16a307b49cb357eea075fbf1449332]: Commencement: Reg. 92 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-1b16a307b49cb357eea075fbf1449332]: Commencement: Reg. 92 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

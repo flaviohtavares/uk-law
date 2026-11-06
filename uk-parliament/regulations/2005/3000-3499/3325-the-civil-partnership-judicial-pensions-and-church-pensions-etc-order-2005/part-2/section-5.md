@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**5.**[^key-0c98dba617c34daf08c8d495bc1ad55f] (1) Section 6 (power to grant widows' and children’s pensions) is amended as follows.
+**5.**[^c-0c98dba617c34daf08c8d495bc1ad55f] (1) Section 6 (power to grant widows' and children’s pensions) is amended as follows.
 
 (2) For the heading substitute “Power to grant widows', surviving civil partners' and children’s pensions”.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c98dba617c34daf08c8d495bc1ad55f]: Commencement: Art. 5 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-0c98dba617c34daf08c8d495bc1ad55f]: Commencement: Art. 5 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00005]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Alteration of street names: England[^key-20cff82e17651317c1abdb8ceac478c4][^key-f8a908ae757d4de520343f2766b75285]
+## 81. Alteration of street names: England[^c-20cff82e17651317c1abdb8ceac478c4][^c-f8a908ae757d4de520343f2766b75285]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20cff82e17651317c1abdb8ceac478c4]: Commencement: S. 81 not in force at Royal Assent, see [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r)
+[^c-20cff82e17651317c1abdb8ceac478c4]: Commencement: S. 81 not in force at Royal Assent, see [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r)
 
-[^key-f8a908ae757d4de520343f2766b75285]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/55/section/81) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/b)
+[^c-f8a908ae757d4de520343f2766b75285]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/55/section/81) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/b)

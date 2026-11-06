@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Limitation of provisions about home detention curfew[^key-c14f0ccebdb455f945203fc9c0c3a3f1]
+## 26. Limitation of provisions about home detention curfew[^c-c14f0ccebdb455f945203fc9c0c3a3f1]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c14f0ccebdb455f945203fc9c0c3a3f1]: Commencement: S. 26 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-c14f0ccebdb455f945203fc9c0c3a3f1]: Commencement: S. 26 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)

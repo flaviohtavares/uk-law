@@ -62,15 +62,15 @@ These Regulations may be cited as the Bluetongue Regulations 2008; they apply in
 
 (1) In these Regulations—
 
-- “animal” means a ruminating animal or a camelid;[^key-2f0ecc74ee8b1a1c4ab6fff1e48e4996]
-- “[^key-0fbcb6b6f82759c79a40c31545d66de6]**border control post**” means a place designated by the competent authority for the performance of official controls under [Regulation (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ;
-- “[^key-f7994f132ea30e16fafb4a7183f10fd6]**carcase**” means the carcase of an animal;
+- “animal” means a ruminating animal or a camelid;[^c-2f0ecc74ee8b1a1c4ab6fff1e48e4996]
+- “[^c-0fbcb6b6f82759c79a40c31545d66de6]**border control post**” means a place designated by the competent authority for the performance of official controls under [Regulation (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ;
+- “[^c-f7994f132ea30e16fafb4a7183f10fd6]**carcase**” means the carcase of an animal;
 - “control zone” means a zone referred to in regulation 12;
-- “[^key-2861606b4b0a405017c11dd4be0588ab]**germinal product**” means the embryo, ovum or semen of an animal;
-- “inactivated vaccines” means vaccines that are not live attenuated vaccines;[^key-0bf616ddaa2e8c8421de4ba245fa5dfc]
+- “[^c-2861606b4b0a405017c11dd4be0588ab]**germinal product**” means the embryo, ovum or semen of an animal;
+- “inactivated vaccines” means vaccines that are not live attenuated vaccines;[^c-0bf616ddaa2e8c8421de4ba245fa5dfc]
 - “infected premises” means premises on which the existence of bluetongue has been confirmed;
 - “inspector” means an inspector appointed as such by the Secretary of State or a local authority for the purpose of these Regulations and, unless the context otherwise requires, includes a veterinary inspector;
-- “live attenuated vaccines” means vaccines which are produced by adapting bluetongue virus field isolates through serial passages in tissue culture or in embryonated hens’ eggs;[^key-2ce8788abb5376bc97d16f23739de6ee]
+- “live attenuated vaccines” means vaccines which are produced by adapting bluetongue virus field isolates through serial passages in tissue culture or in embryonated hens’ eggs;[^c-2ce8788abb5376bc97d16f23739de6ee]
 - “local authority” means—
   - (a) in a part of England where there is, within the meaning of the Local Government Changes for England Regulations 1994, a unitary authority for that local government area, that authority;
   - (b) where there is not a unitary authority—
@@ -80,14 +80,14 @@ These Regulations may be cited as the Bluetongue Regulations 2008; they apply in
     - (iv) in the city of London, the Common Council;
     - (v) where there is a port health authority, that authority;
 - “midge” means an insect of the genus *Culicoides;*
-- “premises” includes any any land, building or other place;[^key-cc14662d23446fa6e48de3f45e93a52c]
-- “[^key-5f46aaa40fc15472ec6ecbbc763f56fd]**regulated place**” means a slaughterhouse or border control post;
+- “premises” includes any any land, building or other place;[^c-cc14662d23446fa6e48de3f45e93a52c]
+- “[^c-5f46aaa40fc15472ec6ecbbc763f56fd]**regulated place**” means a slaughterhouse or border control post;
 - “vaccine” means vaccine against bluetongue virus; and
 - “veterinary inspector” means a person appointed as such by the Secretary of State for the purposes of these Regulations.
 
-(2) Any authorisation, licence, notice or designation under these Regulations must be in writing, may be subject to conditions and may be amended, suspended or revoked [^key-700c4713b1d36dd541514bf7cb030b38]... at any time.
+(2) Any authorisation, licence, notice or designation under these Regulations must be in writing, may be subject to conditions and may be amended, suspended or revoked [^c-700c4713b1d36dd541514bf7cb030b38]... at any time.
 
-### 3. Exemptions[^key-f3bda1534701e09629a914db2b5e6cb0]
+### 3. Exemptions[^c-f3bda1534701e09629a914db2b5e6cb0]
 
 These Regulations do not apply to—
 
@@ -137,7 +137,7 @@ Declarations of zones—
 
 - (a) if a restricted zone has been divided into a protection zone and a surveillance zone premises partly inside the protection zone and partly inside the surveillance zone are treated as being inside the protection zone;
 - (b) premises partly inside a restricted zone and partly inside an area that does not have controls for bluetongue are treated as being inside the restricted zone; and
-- (c) premises partly inside a restricted zone and partly inside a temporary control zone are treated as being inside the temporary control zone[^key-280b80dd45a3fa79e963152bc422436f].
+- (c) premises partly inside a restricted zone and partly inside a temporary control zone are treated as being inside the temporary control zone[^c-280b80dd45a3fa79e963152bc422436f].
 
 ## PART 2 — Suspected and confirmed bluetongue
 
@@ -145,14 +145,14 @@ Declarations of zones—
 
 (1) The owner or keeper of any animal or carcase, or any person who examines or inspects any animal or carcase, who knows or suspects that the animal or carcase is infected with bluetongue, must—
 
-- (a) immediately notify the Secretary of State[^key-ff75d76750dccbae1b483a6b1cfd25f7]; and
+- (a) immediately notify the Secretary of State[^c-ff75d76750dccbae1b483a6b1cfd25f7]; and
 - (b) not move any animal or carcase on or off the premises where the animal or carcase known to be or suspected of being diseased is located, except as authorised by an inspector.
 
-(2) A person who analyses a sample taken from any animal or carcase and who finds evidence of antibodies to, or antigens or nucleic acids of, the bluetongue virus or any evidence of vaccination for bluetongue must immediately notify the Secretary of State[^key-29e45b665cfe1c20748c7e5dde71d8e9].
+(2) A person who analyses a sample taken from any animal or carcase and who finds evidence of antibodies to, or antigens or nucleic acids of, the bluetongue virus or any evidence of vaccination for bluetongue must immediately notify the Secretary of State[^c-29e45b665cfe1c20748c7e5dde71d8e9].
 
-(3)[^key-28bb989e754e95d38cde04825590486f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-28bb989e754e95d38cde04825590486f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Measures at suspected or infected premises[^key-c24d9f0ad5bc1c22c4e3fd3c0757f5f8]
+### 9. Measures at suspected or infected premises[^c-c24d9f0ad5bc1c22c4e3fd3c0757f5f8]
 
 (1) If the presence of bluetongue or bluetongue virus is suspected or confirmed at any premises, a veterinary inspector or inspector acting under the instructions of a veterinary inspector may serve a notice on the occupier or keeper of those premises, prohibiting the movement of animals or germinal products to or from the premises except in accordance with a licence.
 
@@ -183,28 +183,28 @@ Declarations of zones—
 
 (3) The location and size of the temporary control zone is to be such as the Secretary of State considers appropriate to prevent the spread of disease.
 
-(4) Where a temporary control zone has been established, no person may move any animal or germinal product[^key-8c285194103f68c0f8d5d4067f98f382] on to or off premises in the zone except in accordance with a licence issued by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the instructions of a veterinary inspector[^key-4c7fca58d97147692759a64e49909462].
+(4) Where a temporary control zone has been established, no person may move any animal or germinal product[^c-8c285194103f68c0f8d5d4067f98f382] on to or off premises in the zone except in accordance with a licence issued by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the instructions of a veterinary inspector[^c-4c7fca58d97147692759a64e49909462].
 
-(5)[^key-15a87f78d17a785b676529fac475f3d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-15a87f78d17a785b676529fac475f3d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Confirmation of bluetongue on premises
 
-(1)[^key-bd0ec0e5cbfefb6aab19e2c13262bae8] Once a veterinary inspector is satisfied that bluetongue exists on any premises, a veterinary inspector or by an inspector acting under the instructions of a veterinary inspector[^key-40a2e74ed66c3d30e58be8505f7fbf63] may serve a notice on the occupier or the keeper of any animals on those premises—
+(1)[^c-bd0ec0e5cbfefb6aab19e2c13262bae8] Once a veterinary inspector is satisfied that bluetongue exists on any premises, a veterinary inspector or by an inspector acting under the instructions of a veterinary inspector[^c-40a2e74ed66c3d30e58be8505f7fbf63] may serve a notice on the occupier or the keeper of any animals on those premises—
 
-- (a) confirming the existence of bluetongue on the premises; [^key-c534dd7cb439adbfe2c4e30cf6c7c6f8]...
-- (b)[^key-c534dd7cb439adbfe2c4e30cf6c7c6f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) confirming the existence of bluetongue on the premises; [^c-c534dd7cb439adbfe2c4e30cf6c7c6f8]...
+- (b)[^c-c534dd7cb439adbfe2c4e30cf6c7c6f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e7ba981a728f20d736800de49a690014] A notice under paragraph (1) may notify the occupier that (notwithstanding regulation 8) it is unnecessary to notify any further suspected cases of bluetongue on the premises to a veterinary inspector.
+(2)[^c-e7ba981a728f20d736800de49a690014] A notice under paragraph (1) may notify the occupier that (notwithstanding regulation 8) it is unnecessary to notify any further suspected cases of bluetongue on the premises to a veterinary inspector.
 
 ### 12. Measures on confirmation of the bluetongue virus
 
-(1) If the Chief Veterinary Officer confirms that the bluetongue virus is circulating in England, the Secretary of State, on being satisfied [^key-e5f2b1cd5d22c0b0249ad612b2667b61]... that this is appropriate for disease control purposes, may[^key-986101e3b267136f601d4b996105c660] declare an area to be a control zone.
+(1) If the Chief Veterinary Officer confirms that the bluetongue virus is circulating in England, the Secretary of State, on being satisfied [^c-e5f2b1cd5d22c0b0249ad612b2667b61]... that this is appropriate for disease control purposes, may[^c-986101e3b267136f601d4b996105c660] declare an area to be a control zone.
 
 (2) The control zone must include the infected premises, and be of such size as the Secretary of State considers appropriate for disease control purposes.
 
-(3) No person may move an animal or germinal product[^key-7a56391b8106f9396040dd93da5be39b] to or from premises in a control zone except in accordance with a licence issued by a veterinary inspector[^key-956d4c931711e11cf8a8175016c5cba6] or by an inspector acting under the instructions of a veterinary inspector[^key-54eff5a709b1cdf4946399bf6490a798].
+(3) No person may move an animal or germinal product[^c-7a56391b8106f9396040dd93da5be39b] to or from premises in a control zone except in accordance with a licence issued by a veterinary inspector[^c-956d4c931711e11cf8a8175016c5cba6] or by an inspector acting under the instructions of a veterinary inspector[^c-54eff5a709b1cdf4946399bf6490a798].
 
-### 12A. Power to slaughter animals[^key-3beabb4096458633ed9488be521093d2]
+### 12A. Power to slaughter animals[^c-3beabb4096458633ed9488be521093d2]
 
 (1) Section 32 of the Animal Health Act 1981 (which relates to slaughter and compensation) applies to animals slaughtered under these Regulations.
 
@@ -212,24 +212,24 @@ Declarations of zones—
 
 (1) If the Chief Veterinary Officer confirms that the bluetongue virus is circulating in England the Secretary of State—
 
-- (a) may[^key-d52919a6e2cc38c0f225c78ea841fad1] declare an appropriate area to be a restricted zone;
+- (a) may[^c-d52919a6e2cc38c0f225c78ea841fad1] declare an appropriate area to be a restricted zone;
 - (b) may, within a restricted zone, declare any area around an infected premises to be a protection zone, and any area beyond such protection zone to be a surveillance zone;
 
-(1A)[^key-cbad75c049e011839045e1d52bad73fe] A surveillance zone declared by the Secretary of State must not contain any land where animals have been vaccinated with live attenuated vaccines against bluetongue within the last 12 months.
+(1A)[^c-cbad75c049e011839045e1d52bad73fe] A surveillance zone declared by the Secretary of State must not contain any land where animals have been vaccinated with live attenuated vaccines against bluetongue within the last 12 months.
 
 (1B) No person may vaccinate against bluetongue using live attenuated vaccine in a surveillance zone declared under this regulation.
 
-(2) No person may move an animal, or germinal product[^key-c13cbb923bebdf7c571bf7179a98e9b2] out of a restricted zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^key-05ed87d6670ab83633a852195687e1c9].
+(2) No person may move an animal, or germinal product[^c-c13cbb923bebdf7c571bf7179a98e9b2] out of a restricted zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^c-05ed87d6670ab83633a852195687e1c9].
 
-(3) No person may move an animal or germinal product[^key-a45b7d65651f595088bab8c16a7c7500] out of a protection or surveillance[^key-2ddb16aaf25adf021ce138580115a6de] zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^key-53fa11e17b7a5c9aa567d011579ff47b].
+(3) No person may move an animal or germinal product[^c-a45b7d65651f595088bab8c16a7c7500] out of a protection or surveillance[^c-2ddb16aaf25adf021ce138580115a6de] zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^c-53fa11e17b7a5c9aa567d011579ff47b].
 
-(3A)[^key-b6eda845c0c409958e8b309b9a563327] A declaration under paragraph (1) may include a prohibition on the movement of animals or germinal products onto or from premises within a zone, except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector
+(3A)[^c-b6eda845c0c409958e8b309b9a563327] A declaration under paragraph (1) may include a prohibition on the movement of animals or germinal products onto or from premises within a zone, except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector
 
-(4)[^key-342920c47d046466665b2ec77d8f45e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-342920c47d046466665b2ec77d8f45e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A person is prohibited from moving an animal within a restricted zone if the animal shows clinical signs of bluetongue on the day of transport.
 
-### 13A. Measures where bluetongue virus is present but not circulating[^key-a132818cfd54e0e0800387d655236fc4]
+### 13A. Measures where bluetongue virus is present but not circulating[^c-a132818cfd54e0e0800387d655236fc4]
 
 (1) If bluetongue virus is confirmed in an animal or germinal product and the Chief Veterinary Officer considers
 
@@ -264,37 +264,37 @@ Declarations of zones—
 
 ### 14. Slaughterhouses
 
-(1) The Secretary of State may designate a slaughterhouse for the purpose of slaughtering animals moved in accordance with these Regulations[^key-73b90e709cf06d4639cfd37281aa5ca3].
+(1) The Secretary of State may designate a slaughterhouse for the purpose of slaughtering animals moved in accordance with these Regulations[^c-73b90e709cf06d4639cfd37281aa5ca3].
 
 (2) If an animal is transported from a restricted zone to a slaughterhouse outside that restricted zone in accordance with a licence, the operator of the slaughterhouse must slaughter the animal within 24 hours of arrival.
 
-(3)[^key-d51b657fd3adb65afa357ab2ff45b0e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d51b657fd3adb65afa357ab2ff45b0e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14A. Other designated premises[^key-9dd99a8487b9d7cda7217efe2407d5d9]
+### 14A. Other designated premises[^c-9dd99a8487b9d7cda7217efe2407d5d9]
 
 (1) The Secretary of State may designate any premises for the purpose of collecting, processing, handling or storing germinal products.
 
 (2) A designation under this regulation may contain such measures as the Secretary of State considers necessary to prevent the spread of bluetongue virus
 
-### 15. Movement of animals or other things[^key-a8bbb814c4afb9983dde7d8cf7bf1dce]
+### 15. Movement of animals or other things[^c-a8bbb814c4afb9983dde7d8cf7bf1dce]
 
-(1) Following the movement of an animal or germinal product from premises within a temporary control zone, protection zone, surveillance zone[^key-5982176480f2c3914005439d72151bb7], control zone or restricted zone, a veterinary inspector or inspector acting under the direction of a veterinary inspector[^key-ca875fa9bbbd8f7a19f2ea4657820e00] may by notice served on the occupier of premises to which the animal or germinal product has been moved—
+(1) Following the movement of an animal or germinal product from premises within a temporary control zone, protection zone, surveillance zone[^c-5982176480f2c3914005439d72151bb7], control zone or restricted zone, a veterinary inspector or inspector acting under the direction of a veterinary inspector[^c-ca875fa9bbbd8f7a19f2ea4657820e00] may by notice served on the occupier of premises to which the animal or germinal product has been moved—
 
 - (a) prohibit the movement of that animal or germinal product off the premises to which the animal or germinal product has been moved;
 - (b) prohibit the movement of any other animal or germinal product on to or off such premises;
 - (c) specify such requirements as are considered by a veterinary inspector to be necessary in order to prevent the spread of disease.
 
-(2) A movement prohibited by a notice under paragraph (1) may be authorised under a licence issued by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^key-51bae2b56ee6bfac1771b2442994cd9c].
+(2) A movement prohibited by a notice under paragraph (1) may be authorised under a licence issued by a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^c-51bae2b56ee6bfac1771b2442994cd9c].
 
 ### 16. Bluetongue outside England
 
 If bluetongue is confirmed outside England and the Secretary of State considers it appropriate for disease control purposes, the Secretary of State may declare in England a temporary control zone, a control zone, a protection zone, a surveillance zone or a restricted zone (which may be made up of a protection zone and a surveillance zone).
 
-## PART 3 — Vaccination[^key-f0ddbb29806214391931fe35ef4176de]
+## PART 3 — Vaccination[^c-f0ddbb29806214391931fe35ef4176de]
 
 ### 17. Obtaining vaccine
 
-No person other than the holder of a marketing authorisation, a manufacturing authorisation or a wholesale dealer’s authorisation granted by the Secretary of State under the Veterinary Medicines Regulations 2013 *(Extent: E+W)*[^key-cb43e03595abd62ed04156af9ee6c99a] may obtain vaccine except for the purpose of enabling the use of vaccines under regulation 19.
+No person other than the holder of a marketing authorisation, a manufacturing authorisation or a wholesale dealer’s authorisation granted by the Secretary of State under the Veterinary Medicines Regulations 2013 *(Extent: E+W)*[^c-cb43e03595abd62ed04156af9ee6c99a] may obtain vaccine except for the purpose of enabling the use of vaccines under regulation 19.
 
 ### 18. Prohibition on vaccination
 
@@ -306,12 +306,12 @@ No person may vaccinate an animal against bluetongue except in accordance with r
 
 (2) The Secretary of State may declare a vaccination zone in which any occupier of premises or keeper of animals must ensure the vaccination of their animals with inactivated or live attenuated vaccines and comply with any other measures related to either vaccination or vaccine specified in that declaration.
 
-(3) Where a zone is declared under paragraph (2), a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^key-7309178242e01e0febbe4bbf105f41c0] may serve a notice on the occupier of premises or the keeper of animals on premises requiring that occupier or keeper to ensure the vaccination with inactivated or live attenuated vaccines of animals at the premises.
+(3) Where a zone is declared under paragraph (2), a veterinary inspector or by an inspector or officer of the Secretary of State acting under the direction of a veterinary inspector[^c-7309178242e01e0febbe4bbf105f41c0] may serve a notice on the occupier of premises or the keeper of animals on premises requiring that occupier or keeper to ensure the vaccination with inactivated or live attenuated vaccines of animals at the premises.
 
 (4) The Secretary of State may only grant a licence under paragraph (1) or declare a zone under paragraph (2) if—
 
-- (a) the decision to use the vaccine is based on the result of a specific risk assessment carried out by the Secretary of State; [^key-07df4f6477e7bda824acfa037cb8d2e5]...
-- (b)[^key-07df4f6477e7bda824acfa037cb8d2e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the decision to use the vaccine is based on the result of a specific risk assessment carried out by the Secretary of State; [^c-07df4f6477e7bda824acfa037cb8d2e5]...
+- (b)[^c-07df4f6477e7bda824acfa037cb8d2e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Whenever live attenuated vaccines are to be used, the Secretary of State must declare—
 
@@ -320,7 +320,7 @@ No person may vaccinate an animal against bluetongue except in accordance with r
 
 (6) No person may vaccinate against bluetongue using live attenuated vaccine in a surveillance zone declared under this regulation.
 
-## PART   3A — Exports[^key-61c46626b294b797e7c2b9c183838aa1]
+## PART   3A — Exports[^c-61c46626b294b797e7c2b9c183838aa1]
 
 **19A.** (1) A person must not export any animal, semen, ovum or embryo to a third country unless it complies with Commission Regulation [( EC ) No. 1266/2007](https://www.legislation.gov.uk/european/regulation/2007/1266) on implementing rules for Council Directive [2000/75/ EC](https://www.legislation.gov.uk/european/directive/2000/0075) as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue.
 
@@ -345,7 +345,7 @@ No person may vaccinate an animal against bluetongue except in accordance with r
 
 (5) An inspector or an officer of the Secretary of State may—
 
-- (a) detain, isolate or[^key-fad2886723de179dbbea8904cedbff14] restrain any animal;
+- (a) detain, isolate or[^c-fad2886723de179dbbea8904cedbff14] restrain any animal;
 - (b) require the detention, isolation or restraint of any animal;
 - (c) mark for identification purposes any animal, carcase or thing;
 - (d) detain or isolate any thing;
@@ -422,7 +422,7 @@ that person is guilty of the offence as well as the body corporate.
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or to particular cases, that the Secretary of State will enforce these Regulations instead.
 
-(3)[^key-b9abd559510a89ebfc49eabd61cd260e] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(3)[^c-b9abd559510a89ebfc49eabd61cd260e] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 ## PART 5 — Miscellaneous
 
@@ -437,7 +437,7 @@ The Secretary of State may for the purpose of ensuring the health or welfare of 
 
 The Bluetongue (No. 2) Order 2007 is revoked (except for article 17).
 
-### 30. Review of these Regulations[^key-8cf48406da6da5022932540b33499be9]
+### 30. Review of these Regulations[^c-8cf48406da6da5022932540b33499be9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -484,111 +484,111 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: Paragraph 1A was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-2f0ecc74ee8b1a1c4ab6fff1e48e4996]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/a)
+[^c-2f0ecc74ee8b1a1c4ab6fff1e48e4996]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/a)
 
-[^key-0fbcb6b6f82759c79a40c31545d66de6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/b)
+[^c-0fbcb6b6f82759c79a40c31545d66de6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/b)
 
-[^key-f7994f132ea30e16fafb4a7183f10fd6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/c)
+[^c-f7994f132ea30e16fafb4a7183f10fd6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/c)
 
-[^key-2861606b4b0a405017c11dd4be0588ab]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/d)
+[^c-2861606b4b0a405017c11dd4be0588ab]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/d)
 
-[^key-0bf616ddaa2e8c8421de4ba245fa5dfc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/2/a)
+[^c-0bf616ddaa2e8c8421de4ba245fa5dfc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/2/a)
 
-[^key-2ce8788abb5376bc97d16f23739de6ee]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/2/b)
+[^c-2ce8788abb5376bc97d16f23739de6ee]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/2/b)
 
-[^key-cc14662d23446fa6e48de3f45e93a52c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) substituted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(e)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/e)
+[^c-cc14662d23446fa6e48de3f45e93a52c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) substituted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(e)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/e)
 
-[^key-5f46aaa40fc15472ec6ecbbc763f56fd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(f)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/f)
+[^c-5f46aaa40fc15472ec6ecbbc763f56fd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/962/regulation/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(2)(f)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/2/f)
 
-[^key-700c4713b1d36dd541514bf7cb030b38]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/2/2) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/558/article/5/2)
+[^c-700c4713b1d36dd541514bf7cb030b38]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/2/2) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/558/article/5/2)
 
-[^key-f3bda1534701e09629a914db2b5e6cb0]: Textual amendment: Reg. 3 substituted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/3)
+[^c-f3bda1534701e09629a914db2b5e6cb0]: Textual amendment: Reg. 3 substituted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/3)
 
-[^key-280b80dd45a3fa79e963152bc422436f]: Textual amendment: Words in [reg. 7(4)(c)](https://www.legislation.gov.uk/uksi/2008/962/regulation/7/4/c) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/3/a)
+[^c-280b80dd45a3fa79e963152bc422436f]: Textual amendment: Words in [reg. 7(4)(c)](https://www.legislation.gov.uk/uksi/2008/962/regulation/7/4/c) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/3/a)
 
-[^key-ff75d76750dccbae1b483a6b1cfd25f7]: Textual amendment: Words in reg. 8(1)(a) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/6/3)
+[^c-ff75d76750dccbae1b483a6b1cfd25f7]: Textual amendment: Words in reg. 8(1)(a) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/6/3)
 
-[^key-29e45b665cfe1c20748c7e5dde71d8e9]: Textual amendment: Words in reg. 8(2) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/6/3)
+[^c-29e45b665cfe1c20748c7e5dde71d8e9]: Textual amendment: Words in reg. 8(2) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/6/3)
 
-[^key-28bb989e754e95d38cde04825590486f]: Textual amendment: Reg. 8(3) revoked (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/6/2)
+[^c-28bb989e754e95d38cde04825590486f]: Textual amendment: Reg. 8(3) revoked (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/6/2)
 
-[^key-c24d9f0ad5bc1c22c4e3fd3c0757f5f8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/962/regulation/9) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2024/558/article/5/3)
+[^c-c24d9f0ad5bc1c22c4e3fd3c0757f5f8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/962/regulation/9) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2024/558/article/5/3)
 
-[^key-8c285194103f68c0f8d5d4067f98f382]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2008/962/regulation/10/4) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/5/a)
+[^c-8c285194103f68c0f8d5d4067f98f382]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2008/962/regulation/10/4) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/5/a)
 
-[^key-4c7fca58d97147692759a64e49909462]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2008/962/regulation/10/4) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2024/558/article/5/4)
+[^c-4c7fca58d97147692759a64e49909462]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2008/962/regulation/10/4) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2024/558/article/5/4)
 
-[^key-15a87f78d17a785b676529fac475f3d5]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2008/962/regulation/10/5) omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/5/b)
+[^c-15a87f78d17a785b676529fac475f3d5]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2008/962/regulation/10/5) omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/5/b)
 
-[^key-bd0ec0e5cbfefb6aab19e2c13262bae8]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/1): reg. 11 renumbered as reg. 11(1) (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/6/a)
+[^c-bd0ec0e5cbfefb6aab19e2c13262bae8]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/1): reg. 11 renumbered as reg. 11(1) (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/6/a)
 
-[^key-40a2e74ed66c3d30e58be8505f7fbf63]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/1) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2024/558/article/5/5)
+[^c-40a2e74ed66c3d30e58be8505f7fbf63]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/1) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2024/558/article/5/5)
 
-[^key-c534dd7cb439adbfe2c4e30cf6c7c6f8]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/1/b) and word omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/6/b)
+[^c-c534dd7cb439adbfe2c4e30cf6c7c6f8]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/1/b) and word omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/6/b)
 
-[^key-e7ba981a728f20d736800de49a690014]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(6)(c)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/6/c)
+[^c-e7ba981a728f20d736800de49a690014]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/11/2) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(6)(c)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/6/c)
 
-[^key-e5f2b1cd5d22c0b0249ad612b2667b61]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/1) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(6)(a)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/6/a/i)
+[^c-e5f2b1cd5d22c0b0249ad612b2667b61]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/1) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(6)(a)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/6/a/i)
 
-[^key-986101e3b267136f601d4b996105c660]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/1) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/6/a/ii)
+[^c-986101e3b267136f601d4b996105c660]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/1) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/6/a/ii)
 
-[^key-7a56391b8106f9396040dd93da5be39b]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/3) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(7)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/7/a/i)
+[^c-7a56391b8106f9396040dd93da5be39b]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/3) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(7)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/7/a/i)
 
-[^key-956d4c931711e11cf8a8175016c5cba6]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/3) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/7/a/ii)
+[^c-956d4c931711e11cf8a8175016c5cba6]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/3) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/7/a/ii)
 
-[^key-54eff5a709b1cdf4946399bf6490a798]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2024/558/article/5/6/b)
+[^c-54eff5a709b1cdf4946399bf6490a798]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/12/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2024/558/article/5/6/b)
 
-[^key-3beabb4096458633ed9488be521093d2]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2008/962/regulation/12A) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/8)
+[^c-3beabb4096458633ed9488be521093d2]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2008/962/regulation/12A) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/8)
 
-[^key-d52919a6e2cc38c0f225c78ea841fad1]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/1/a) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/a)
+[^c-d52919a6e2cc38c0f225c78ea841fad1]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/1/a) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/a)
 
-[^key-cbad75c049e011839045e1d52bad73fe]: Textual amendment: [Reg. 13(1A)-(1B)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/1A) inserted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/4)
+[^c-cbad75c049e011839045e1d52bad73fe]: Textual amendment: [Reg. 13(1A)-(1B)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/1A) inserted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/4)
 
-[^key-c13cbb923bebdf7c571bf7179a98e9b2]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/2) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/b/i)
+[^c-c13cbb923bebdf7c571bf7179a98e9b2]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/2) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/b/i)
 
-[^key-05ed87d6670ab83633a852195687e1c9]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/2) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/b/ii)
+[^c-05ed87d6670ab83633a852195687e1c9]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/2) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/b/ii)
 
-[^key-a45b7d65651f595088bab8c16a7c7500]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(c)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/c/i)
+[^c-a45b7d65651f595088bab8c16a7c7500]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(c)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/c/i)
 
-[^key-2ddb16aaf25adf021ce138580115a6de]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/c/ii)
+[^c-2ddb16aaf25adf021ce138580115a6de]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/c/ii)
 
-[^key-53fa11e17b7a5c9aa567d011579ff47b]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/c/iii)
+[^c-53fa11e17b7a5c9aa567d011579ff47b]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/c/iii)
 
-[^key-b6eda845c0c409958e8b309b9a563327]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(d)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/d)
+[^c-b6eda845c0c409958e8b309b9a563327]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/3A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(d)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/d)
 
-[^key-342920c47d046466665b2ec77d8f45e6]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/4) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(e)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/e)
+[^c-342920c47d046466665b2ec77d8f45e6]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2008/962/regulation/13/4) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(7)(e)](https://www.legislation.gov.uk/uksi/2024/558/article/5/7/e)
 
-[^key-a132818cfd54e0e0800387d655236fc4]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/2008/962/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/2008/962/regulation/13B) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2024/558/article/5/8)
+[^c-a132818cfd54e0e0800387d655236fc4]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/2008/962/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/2008/962/regulation/13B) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2024/558/article/5/8)
 
-[^key-73b90e709cf06d4639cfd37281aa5ca3]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/14/1) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/10)
+[^c-73b90e709cf06d4639cfd37281aa5ca3]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/14/1) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/10)
 
-[^key-d51b657fd3adb65afa357ab2ff45b0e3]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/14/3) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2024/558/article/5/9)
+[^c-d51b657fd3adb65afa357ab2ff45b0e3]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/14/3) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2024/558/article/5/9)
 
-[^key-9dd99a8487b9d7cda7217efe2407d5d9]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2008/962/regulation/14A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2024/558/article/5/10)
+[^c-9dd99a8487b9d7cda7217efe2407d5d9]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2008/962/regulation/14A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2024/558/article/5/10)
 
-[^key-a8bbb814c4afb9983dde7d8cf7bf1dce]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2008/962/regulation/15) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(11)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/11)
+[^c-a8bbb814c4afb9983dde7d8cf7bf1dce]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2008/962/regulation/15) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(11)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/11)
 
-[^key-5982176480f2c3914005439d72151bb7]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/15/1) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(11)(a)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/11/a/i)
+[^c-5982176480f2c3914005439d72151bb7]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/15/1) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(11)(a)(i)](https://www.legislation.gov.uk/uksi/2024/558/article/5/11/a/i)
 
-[^key-ca875fa9bbbd8f7a19f2ea4657820e00]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/15/1) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/11/a/ii)
+[^c-ca875fa9bbbd8f7a19f2ea4657820e00]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/962/regulation/15/1) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/558/article/5/11/a/ii)
 
-[^key-51bae2b56ee6bfac1771b2442994cd9c]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/15/2) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(11)(b)](https://www.legislation.gov.uk/uksi/2024/558/article/5/11/b)
+[^c-51bae2b56ee6bfac1771b2442994cd9c]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2008/962/regulation/15/2) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(11)(b)](https://www.legislation.gov.uk/uksi/2024/558/article/5/11/b)
 
-[^key-f0ddbb29806214391931fe35ef4176de]: Textual amendment: Pt. 3 substituted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/5)
+[^c-f0ddbb29806214391931fe35ef4176de]: Textual amendment: Pt. 3 substituted (24.8.2012) by [The Bluetongue (Amendment) Regulations 2012 (S.I. 2012/1977)](https://www.legislation.gov.uk/uksi/2012/1977), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2012/1977/regulation/2/5)
 
-[^key-cb43e03595abd62ed04156af9ee6c99a]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2008/962/regulation/17) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 42](https://www.legislation.gov.uk/uksi/2018/575/regulation/42)
+[^c-cb43e03595abd62ed04156af9ee6c99a]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2008/962/regulation/17) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 42](https://www.legislation.gov.uk/uksi/2018/575/regulation/42)
 
-[^key-7309178242e01e0febbe4bbf105f41c0]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/19/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2024/558/article/5/12)
+[^c-7309178242e01e0febbe4bbf105f41c0]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/19/3) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2024/558/article/5/12)
 
-[^key-07df4f6477e7bda824acfa037cb8d2e5]: Textual amendment: [Reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2008/962/regulation/19/4/b) and word omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/1406/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07df4f6477e7bda824acfa037cb8d2e5]: Textual amendment: [Reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2008/962/regulation/19/4/b) and word omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/1406/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-61c46626b294b797e7c2b9c183838aa1]: Textual amendment: Pt. 3A inserted (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1197/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2011/1197/schedule/4/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-61c46626b294b797e7c2b9c183838aa1]: Textual amendment: Pt. 3A inserted (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1197/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2011/1197/schedule/4/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
 
-[^key-fad2886723de179dbbea8904cedbff14]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/2008/962/regulation/20/5/a) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/12)
+[^c-fad2886723de179dbbea8904cedbff14]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/2008/962/regulation/20/5/a) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2023/1415/article/5/12)
 
-[^key-b9abd559510a89ebfc49eabd61cd260e]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/27/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/25/a)
+[^c-b9abd559510a89ebfc49eabd61cd260e]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/uksi/2008/962/regulation/27/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/25/a)
 
-[^key-8cf48406da6da5022932540b33499be9]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2008/962/regulation/30) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(13)](https://www.legislation.gov.uk/uksi/2024/558/article/5/13)
+[^c-8cf48406da6da5022932540b33499be9]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2008/962/regulation/30) omitted (25.4.2024) by virtue of [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [5(13)](https://www.legislation.gov.uk/uksi/2024/558/article/5/13)
 
 [^f00011]: Footnote: OJ No L 283, 27.10.2007, p 37.
 

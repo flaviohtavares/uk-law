@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Delegation to staff[^key-6c6b8bb7089179bd235564e4dfaa31eb]
+## 7. Delegation to staff[^c-6c6b8bb7089179bd235564e4dfaa31eb]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6c6b8bb7089179bd235564e4dfaa31eb]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2024/1155/rule/7) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-6c6b8bb7089179bd235564e4dfaa31eb]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2024/1155/rule/7) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00028]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 

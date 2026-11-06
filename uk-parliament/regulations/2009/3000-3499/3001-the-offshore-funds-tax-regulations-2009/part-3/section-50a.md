@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Meaning of “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”[^key-a805d701f8750a470b3023c0a7185d53]
+## 50A. Meaning of “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”[^c-a805d701f8750a470b3023c0a7185d53]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ For the purposes of this Part—
 
 ## Annotations
 
-[^key-a805d701f8750a470b3023c0a7185d53]: Textual amendment: Reg. 50A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1211/regulation/5)
+[^c-a805d701f8750a470b3023c0a7185d53]: Textual amendment: Reg. 50A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1211/regulation/5)

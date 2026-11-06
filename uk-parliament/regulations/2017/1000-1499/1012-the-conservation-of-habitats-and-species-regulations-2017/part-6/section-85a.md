@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85A. Assumptions to be made about nutrient pollution standards: general[^key-9830389024fe1c2ad612a1d22446c7fd]
+## 85A. Assumptions to be made about nutrient pollution standards: general[^c-9830389024fe1c2ad612a1d22446c7fd]
 
 *Extent: E+W+S*
 
@@ -70,11 +70,11 @@ summary: ''
 
 (6) In this regulation “**relevant assessment**” means—
 
-- (a) where the assessment provisions apply and an appropriate assessment of the implications of the plan or project for a site is required by regulation 63(1) or (1A)[^key-be73a2d62e1ec03f13a289993754d3de], that assessment;
+- (a) where the assessment provisions apply and an appropriate assessment of the implications of the plan or project for a site is required by regulation 63(1) or (1A)[^c-be73a2d62e1ec03f13a289993754d3de], that assessment;
 - (b) where the review provisions apply and an appropriate assessment is required by regulation 65(2), that assessment.
 
 ## Annotations
 
-[^key-9830389024fe1c2ad612a1d22446c7fd]: Textual amendment: [Regs. 85A-85D](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9830389024fe1c2ad612a1d22446c7fd]: Textual amendment: [Regs. 85A-85D](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-be73a2d62e1ec03f13a289993754d3de]: Textual amendment: Words in [reg. 85A(6)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85A/6/a) inserted (21.5.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/24) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-be73a2d62e1ec03f13a289993754d3de]: Textual amendment: Words in [reg. 85A(6)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85A/6/a) inserted (21.5.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/24) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))

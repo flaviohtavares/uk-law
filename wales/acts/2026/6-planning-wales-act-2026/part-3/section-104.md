@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Periodic review of minerals permissions[^key-eb4e81c4625a55a160a46284e613be75]
+## 104. Periodic review of minerals permissions[^c-eb4e81c4625a55a160a46284e613be75]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb4e81c4625a55a160a46284e613be75]: Commencement: S. 104 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-eb4e81c4625a55a160a46284e613be75]: Commencement: S. 104 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

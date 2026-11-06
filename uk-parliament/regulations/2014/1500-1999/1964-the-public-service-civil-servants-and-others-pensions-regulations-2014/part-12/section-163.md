@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Commutation of small pensions[^key-e26d023887a66f10175924027611980f]
+## 163. Commutation of small pensions[^c-e26d023887a66f10175924027611980f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e26d023887a66f10175924027611980f]: Commencement: [Reg. 163](https://www.legislation.gov.uk/uksi/2014/1964/regulation/163) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-e26d023887a66f10175924027611980f]: Commencement: [Reg. 163](https://www.legislation.gov.uk/uksi/2014/1964/regulation/163) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00081]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785). Regulation 2 was amended by [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681), [2005/706](https://www.legislation.gov.uk/uksi/2005/706), [2006/744](https://www.legislation.gov.uk/uksi/2006/744), [2006/778](https://www.legislation.gov.uk/uksi/2006/778) and [2009/2930](https://www.legislation.gov.uk/uksi/2009/2930).
 

@@ -28,9 +28,9 @@ Section 9
 
 - (a) any commons council established for the land over which the right is exercisable;
 - (b) Natural England (where the land or any part of it is in England); or
-- (c) the Natural Resources Body for Wales[^key-fedc951308a579db921b0c38bf110a19] (where the land or any part of it is in Wales).
+- (c) the Natural Resources Body for Wales[^c-fedc951308a579db921b0c38bf110a19] (where the land or any part of it is in Wales).
 
-(2) Where a person proposes to sever a right of common to which section 9 applies by a transfer under sub-paragraph (1)(b) or (c), Natural England or the Natural Resources Body for Wales[^key-623c877ac1e91979d50413bafc55fc1a] as the case may be must—
+(2) Where a person proposes to sever a right of common to which section 9 applies by a transfer under sub-paragraph (1)(b) or (c), Natural England or the Natural Resources Body for Wales[^c-623c877ac1e91979d50413bafc55fc1a] as the case may be must—
 
 - (a) give notice of the proposal to the owner of the land over which the right is exercisable unless his name and address cannot reasonably be ascertained;
 - (b) in a case where there is no commons council established for the land, give notice of the proposal to such persons (if any) as they consider represent the interests of persons exercising rights of common over the land.
@@ -115,6 +115,6 @@ the transferee must, when making an application as specified in sub-paragraph (7
 
 ## Annotations
 
-[^key-fedc951308a579db921b0c38bf110a19]: Textual amendment: Words in Sch. 1 para. 1(1)(c) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 434](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/434) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-fedc951308a579db921b0c38bf110a19]: Textual amendment: Words in Sch. 1 para. 1(1)(c) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 434](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/434) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-623c877ac1e91979d50413bafc55fc1a]: Textual amendment: Words in Sch. 1 para. 1(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 434](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/434) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-623c877ac1e91979d50413bafc55fc1a]: Textual amendment: Words in Sch. 1 para. 1(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 434](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/434) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

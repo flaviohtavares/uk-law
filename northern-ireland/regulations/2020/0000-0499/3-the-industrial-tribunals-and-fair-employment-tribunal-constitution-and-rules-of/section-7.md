@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Appointment of panel members[^key-1920ec3849eafe98d1acd5c690ebe3a5]
+## 7. Appointment of panel members[^c-1920ec3849eafe98d1acd5c690ebe3a5]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ but no person shall be appointed under paragraph (1)(a) without meeting one of t
 
 ## Annotations
 
-[^key-1920ec3849eafe98d1acd5c690ebe3a5]: Commencement: Reg. 7 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-1920ec3849eafe98d1acd5c690ebe3a5]: Commencement: Reg. 7 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

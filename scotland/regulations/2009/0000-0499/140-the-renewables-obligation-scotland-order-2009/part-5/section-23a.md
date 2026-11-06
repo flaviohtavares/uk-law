@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 23A. RO input electricity, RO output electricity and ineligible renewable sources[^key-0bf29dbd981fbf52028c3bf7bb0fe437]
+## 23A. RO input electricity, RO output electricity and ineligible renewable sources[^c-0bf29dbd981fbf52028c3bf7bb0fe437]
 
 (1) This article applies for the purposes of this Part.
 
@@ -62,4 +62,4 @@ where—
 
 ## Annotations
 
-[^key-0bf29dbd981fbf52028c3bf7bb0fe437]: Textual amendment: Art. 23A inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2014/94/article/8/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-0bf29dbd981fbf52028c3bf7bb0fe437]: Textual amendment: Art. 23A inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2014/94/article/8/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

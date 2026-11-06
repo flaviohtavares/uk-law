@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Polygamous marriages[^key-6fe99b319e8e8ca6a006b161e25d1d45]
+## 14. Polygamous marriages[^c-6fe99b319e8e8ca6a006b161e25d1d45]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ Where a relevant person is a member of a polygamous marriage, his weekly applica
 
 ## Annotations
 
-[^key-6fe99b319e8e8ca6a006b161e25d1d45]: Commencement: Reg. 14 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-6fe99b319e8e8ca6a006b161e25d1d45]: Commencement: Reg. 14 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

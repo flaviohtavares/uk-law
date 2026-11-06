@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Related proposals[^key-9b873191f3e1b99b54cae992bcb9ad94]
+## 52. Related proposals[^c-9b873191f3e1b99b54cae992bcb9ad94]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b873191f3e1b99b54cae992bcb9ad94]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2013/1/section/52) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-9b873191f3e1b99b54cae992bcb9ad94]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2013/1/section/52) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Amendments to the Electricity Order[^key-11d4b793d16046ee7e84b3a31d577871]
+## 80. Amendments to the Electricity Order[^c-11d4b793d16046ee7e84b3a31d577871]
 
 *Extent: N.I.*
 
@@ -37,17 +37,17 @@ In Article 3 of the Electricity Order—
 
   .
 
-**81.**[^key-3266ff6694a9fdcf57ba843d02bd9637] In Article 11B of the Electricity Order—
+**81.**[^c-3266ff6694a9fdcf57ba843d02bd9637] In Article 11B of the Electricity Order—
 
 - (a) in paragraph(1)(b), for the words “Article 7” there shall be substituted the words “Article 8”; and
 - (b) in paragraph 5, for the words “Article 7” there shall be substituted the words “Article 8”.
 
-**82.**[^key-c4ab287f78da045e96751897e05ea550] In Article 40(6), for the words “Article 22(2)” there shall be substituted the words “Article 34(2)”.
+**82.**[^c-c4ab287f78da045e96751897e05ea550] In Article 40(6), for the words “Article 22(2)” there shall be substituted the words “Article 34(2)”.
 
 ## Annotations
 
-[^key-11d4b793d16046ee7e84b3a31d577871]: Commencement: Reg. 80 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-11d4b793d16046ee7e84b3a31d577871]: Commencement: Reg. 80 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-3266ff6694a9fdcf57ba843d02bd9637]: Commencement: Reg. 81 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-3266ff6694a9fdcf57ba843d02bd9637]: Commencement: Reg. 81 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-c4ab287f78da045e96751897e05ea550]: Commencement: Reg. 82 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-c4ab287f78da045e96751897e05ea550]: Commencement: Reg. 82 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 20 — Certificate of Ante-Mortem Health Inspection and Slaughter of Farmed Game[^key-5cb18375940ab2808737bf9177892764]
+## SCHEDULE 20 — Certificate of Ante-Mortem Health Inspection and Slaughter of Farmed Game[^c-5cb18375940ab2808737bf9177892764]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ Part III
 
 ## Annotations
 
-[^key-5cb18375940ab2808737bf9177892764]: Commencement: Sch. 20 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-5cb18375940ab2808737bf9177892764]: Commencement: Sch. 20 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

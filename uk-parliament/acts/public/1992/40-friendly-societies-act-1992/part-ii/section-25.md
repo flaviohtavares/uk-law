@@ -26,7 +26,7 @@ summary: ''
 
 (3) When an order under this section is made, such proceedings may be taken as might have been taken if the society had not been dissolved.
 
-(4) The person on whose application the order is made shall, within 7 days of its being so made, or such further time as the court may allow, furnish the FCA and, if the society is a PRA-authorised person, the PRA[^key-10ebce3d327edfa11f0b76b29233d5f7] with a copy of the order; and the FCA[^key-395b99556de8c0b06620cfee806a6ccd] shall keep the copy in the public file of the society.
+(4) The person on whose application the order is made shall, within 7 days of its being so made, or such further time as the court may allow, furnish the FCA and, if the society is a PRA-authorised person, the PRA[^c-10ebce3d327edfa11f0b76b29233d5f7] with a copy of the order; and the FCA[^c-395b99556de8c0b06620cfee806a6ccd] shall keep the copy in the public file of the society.
 
 (5) If a person fails to comply with subsection (4) above, he shall be guilty of an offence and liable on summary conviction—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10ebce3d327edfa11f0b76b29233d5f7]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/25/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 12(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/12/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-10ebce3d327edfa11f0b76b29233d5f7]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/25/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 12(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/12/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-395b99556de8c0b06620cfee806a6ccd]: Textual amendment: Word in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/25/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 12(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/12/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-395b99556de8c0b06620cfee806a6ccd]: Textual amendment: Word in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/25/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 12(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/12/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

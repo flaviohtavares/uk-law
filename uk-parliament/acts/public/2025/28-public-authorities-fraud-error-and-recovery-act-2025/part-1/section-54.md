@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Penalty for failing to comply with requirements[^key-4a1b82e519cc6c7485f8d21cd110ec46][^key-a19ad7353e160bebddc1235d8af83e49]
+## 54. Penalty for failing to comply with requirements[^c-4a1b82e519cc6c7485f8d21cd110ec46][^c-a19ad7353e160bebddc1235d8af83e49]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The Minister may impose a penalty on a person where the Minister considers that 
 
 ## Annotations
 
-[^key-4a1b82e519cc6c7485f8d21cd110ec46]: Commencement: S. 54 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-4a1b82e519cc6c7485f8d21cd110ec46]: Commencement: S. 54 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-a19ad7353e160bebddc1235d8af83e49]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2025/28/section/54) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-a19ad7353e160bebddc1235d8af83e49]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2025/28/section/54) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

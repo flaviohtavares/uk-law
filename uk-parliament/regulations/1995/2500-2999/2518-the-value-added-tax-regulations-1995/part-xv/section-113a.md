@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**113A.**[^key-0cdc5fc599db0c16a0e7139c9d90a042] (1) This regulation applies where—
+**113A.**[^c-0cdc5fc599db0c16a0e7139c9d90a042] (1) This regulation applies where—
 
 - (a) the owner of an item described by regulation 113(2)(a) to (c) (“O”) (or a person to whom O has granted an interest in that item) uses that item to make a grant that falls within item 1(ka) of Group 1 of Schedule 9 to the Act,
 - (b) apart from this regulation, the item would not be a capital item to which this Part applies,
@@ -27,11 +27,11 @@ summary: ''
 
 (2) Where this regulation applies, for the item in question—
 
-- (a) for “£600,000[^key-41b9b28c27ea735ceb558d6841264818]” in regulation 113(4)(a) substitute “£1”, but
+- (a) for “£600,000[^c-41b9b28c27ea735ceb558d6841264818]” in regulation 113(4)(a) substitute “£1”, but
 - (b) no adjustment of deductions of input tax shall be made under this Part for any intervals ending before 1st October 2012 that fall within the period of adjustment for the capital item as prescribed in regulation 114.
 
 ## Annotations
 
-[^key-0cdc5fc599db0c16a0e7139c9d90a042]: Textual amendment: Reg. 113A inserted (1.10.2012) by [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/1), [17](https://www.legislation.gov.uk/uksi/2012/1899/regulation/17)
+[^c-0cdc5fc599db0c16a0e7139c9d90a042]: Textual amendment: Reg. 113A inserted (1.10.2012) by [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/1), [17](https://www.legislation.gov.uk/uksi/2012/1899/regulation/17)
 
-[^key-41b9b28c27ea735ceb558d6841264818]: Textual amendment: Sum in reg. 113A(2)(a) substituted (29.7.2026) by [The Value Added Tax (Amendment) Regulations 2026 (S.I. 2026/765)](https://www.legislation.gov.uk/uksi/2026/765), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/765/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/765/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/765/regulation/1/3))
+[^c-41b9b28c27ea735ceb558d6841264818]: Textual amendment: Sum in reg. 113A(2)(a) substituted (29.7.2026) by [The Value Added Tax (Amendment) Regulations 2026 (S.I. 2026/765)](https://www.legislation.gov.uk/uksi/2026/765), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/765/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/765/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/765/regulation/1/3))

@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (No. 6) (International Development Association) Order 1978 (revoked)[^key-9457ecba583825c4be00c943d31eb227]
+The European Communities (Definition of Treaties) (No. 6) (International Development Association) Order 1978 (revoked)[^c-9457ecba583825c4be00c943d31eb227]
 
 Laid before Parliament in draft
 
@@ -41,26 +41,26 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-9457ecba583825c4be00c943d31eb227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9457ecba583825c4be00c943d31eb227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-9457ecba583825c4be00c943d31eb227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9457ecba583825c4be00c943d31eb227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9457ecba583825c4be00c943d31eb227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9457ecba583825c4be00c943d31eb227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9457ecba583825c4be00c943d31eb227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9457ecba583825c4be00c943d31eb227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9457ecba583825c4be00c943d31eb227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9457ecba583825c4be00c943d31eb227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-9457ecba583825c4be00c943d31eb227]
+## SCHEDULE[^c-9457ecba583825c4be00c943d31eb227]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9457ecba583825c4be00c943d31eb227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9457ecba583825c4be00c943d31eb227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9457ecba583825c4be00c943d31eb227]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1978/1103) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9457ecba583825c4be00c943d31eb227]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1978/1103) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Determining the housing increase[^key-099a3fa45e42c7501854b1ca2562dbd1]
+## 145. Determining the housing increase[^c-099a3fa45e42c7501854b1ca2562dbd1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of regulation 143, the authority’s housing increase in the la
 
 ## Annotations
 
-[^key-099a3fa45e42c7501854b1ca2562dbd1]: Commencement: Reg. 145 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-099a3fa45e42c7501854b1ca2562dbd1]: Commencement: Reg. 145 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

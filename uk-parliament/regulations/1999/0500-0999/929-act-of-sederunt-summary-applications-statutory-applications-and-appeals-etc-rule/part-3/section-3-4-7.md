@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**3.4.7.**[^key-860a02382f1f8e92ffdd49619cebf833] (1) This rule applies to an entitled resident application.
+**3.4.7.**[^c-860a02382f1f8e92ffdd49619cebf833] (1) This rule applies to an entitled resident application.
 
 (2) Such application is to be made by lodging a minute in Form 11E in the principal application to which the application relates.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))
+[^c-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))

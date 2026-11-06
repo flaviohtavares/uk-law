@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3ZA. Irish citizens[^M_C_9f2d5aeb-7bed-4dd1-ff99-29cf5fe7c73c][^key-1627d3107a84d62ec606eb465ef489a0]
+## 3ZA. Irish citizens[^M_C_9f2d5aeb-7bed-4dd1-ff99-29cf5fe7c73c][^c-1627d3107a84d62ec606eb465ef489a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^M_C_9f2d5aeb-7bed-4dd1-ff99-29cf5fe7c73c]: Modification: S. 3ZA modified (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/2)
 
-[^key-1627d3107a84d62ec606eb465ef489a0]: Textual amendment: S. 3ZA inserted (31.12.2020 immediately before IP completion day) by [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/2/2), [9(1)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/1) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/2)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1279/regulation/3) (with saving in [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1309/regulation/84), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/10))
+[^c-1627d3107a84d62ec606eb465ef489a0]: Textual amendment: S. 3ZA inserted (31.12.2020 immediately before IP completion day) by [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/2/2), [9(1)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/1) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/2)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1279/regulation/3) (with saving in [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1309/regulation/84), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Students becoming eligible during the course of the academic year[^key-1ce8c7c94b3ef328468b68de7d6976b3]
+## 106. Students becoming eligible during the course of the academic year[^c-1ce8c7c94b3ef328468b68de7d6976b3]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ the student may qualify for disabled distance learning students’ allowance in 
 
 ## Annotations
 
-[^key-1ce8c7c94b3ef328468b68de7d6976b3]: Textual amendment: [Reg. 106](https://www.legislation.gov.uk/nisr/2009/373/regulation/106) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [48](https://www.legislation.gov.uk/nisr/2024/19/regulation/48)
+[^c-1ce8c7c94b3ef328468b68de7d6976b3]: Textual amendment: [Reg. 106](https://www.legislation.gov.uk/nisr/2009/373/regulation/106) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [48](https://www.legislation.gov.uk/nisr/2024/19/regulation/48)

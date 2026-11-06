@@ -22,7 +22,7 @@ summary: ''
 
 A person who applies for the entry of a notice in the register must apply for the entry of an agreed notice where the application is for—
 
-- (a) a [^key-f74289803d49aeb1aac42c944bc98bbd]... home rights notice,
+- (a) a [^c-f74289803d49aeb1aac42c944bc98bbd]... home rights notice,
 - (b) an inheritance tax notice,
 - (c) a notice in respect of an order under the Access to Neighbouring Land Act 1992 [^c10312151],
 - (d) a notice of any variation of a lease effected by or under an order under section 38 of the Landlord and Tenant Act 1987 [^c10312161] (including any variation as modified by an order under section 39(4) of that Act),
@@ -32,7 +32,7 @@ A person who applies for the entry of a notice in the register must apply for th
 
 ## Annotations
 
-[^key-f74289803d49aeb1aac42c944bc98bbd]: Textual amendment: Word in rule 80(a) deleted (5.12.2005) by [The Land Registration (Amendment) (No 2) Rules 2005 (S.I. 2005/1982)](https://www.legislation.gov.uk/uksi/2005/1982), [rules 1(3)](https://www.legislation.gov.uk/uksi/2005/1982/rule/1/3), [10](https://www.legislation.gov.uk/uksi/2005/1982/rule/10)
+[^c-f74289803d49aeb1aac42c944bc98bbd]: Textual amendment: Word in rule 80(a) deleted (5.12.2005) by [The Land Registration (Amendment) (No 2) Rules 2005 (S.I. 2005/1982)](https://www.legislation.gov.uk/uksi/2005/1982), [rules 1(3)](https://www.legislation.gov.uk/uksi/2005/1982/rule/1/3), [10](https://www.legislation.gov.uk/uksi/2005/1982/rule/10)
 
 [^c10312151]: Marginal citation: [1992 c. 23](https://www.legislation.gov.uk/ukpga/1992/23).
 

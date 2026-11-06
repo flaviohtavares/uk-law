@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Money purchase annual allowance[^key-c8bc23b7e5217735891df90ca9be8219]
+## 7. Money purchase annual allowance[^c-c8bc23b7e5217735891df90ca9be8219]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8bc23b7e5217735891df90ca9be8219]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2017/32/section/7) omitted (for the tax year 2023-24 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 21(3)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/21/3/4)
+[^c-c8bc23b7e5217735891df90ca9be8219]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2017/32/section/7) omitted (for the tax year 2023-24 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 21(3)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/21/3/4)

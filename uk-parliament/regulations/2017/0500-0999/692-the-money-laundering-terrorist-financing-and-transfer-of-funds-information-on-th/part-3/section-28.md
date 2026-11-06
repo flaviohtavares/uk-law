@@ -38,7 +38,7 @@ summary: ''
   - (i) the law to which the body corporate is subject, and its constitution (whether set out in its articles of association or other governing documents);
   - (ii) the full names of the board of directors (or if there is no board, the members of the equivalent management body) and the senior persons responsible for the operations of the body corporate.
 
-(3A)[^key-73a1ad14f95210a5fdb4df490b53771e] Where the customer is a legal person, trust, company, foundation or similar legal arrangement the relevant person must take reasonable measures to understand the ownership and control structure of that legal person, trust, company, foundation or similar legal arrangement.
+(3A)[^c-73a1ad14f95210a5fdb4df490b53771e] Where the customer is a legal person, trust, company, foundation or similar legal arrangement the relevant person must take reasonable measures to understand the ownership and control structure of that legal person, trust, company, foundation or similar legal arrangement.
 
 (4) Subject to paragraph (5), where the customer is beneficially owned by another person, the relevant person must—
 
@@ -46,7 +46,7 @@ summary: ''
 - (b) take reasonable measures to verify the identity of the beneficial owner so that the relevant person is satisfied that it knows who the beneficial owner is; and
 - (c) if the beneficial owner is a legal person, trust, company, foundation or similar legal arrangement take reasonable measures to understand the ownership and control structure of that legal person, trust, company, foundation or similar legal arrangement.
 
-(5) Paragraphs (3)(b), (3A)[^key-4d864419342e2ba47677f06a37edc941] and (4) do not apply where the customer is a company which is listed on a regulated market.
+(5) Paragraphs (3)(b), (3A)[^c-4d864419342e2ba47677f06a37edc941] and (4) do not apply where the customer is a company which is listed on a regulated market.
 
 (6) If the customer is a body corporate, and paragraph (7) applies, the relevant person may treat the senior person in that body corporate responsible for managing it as its beneficial owner.
 
@@ -55,14 +55,14 @@ summary: ''
 - (a) has not succeeded in doing so, or
 - (b) is not satisfied that the individual identified is in fact the beneficial owner.
 
-(8)[^key-4ac7fa8e821adc3bc037b32c5a46444a] If paragraph (7) applies, the relevant person must—
+(8)[^c-4ac7fa8e821adc3bc037b32c5a46444a] If paragraph (7) applies, the relevant person must—
 
 - (a) keep records in writing of all the actions it has taken to identify the beneficial owner of the body corporate;
 - (b) take reasonable measures to verify the identity of the senior person in the body corporate responsible for managing it, and keep records in writing of—
   - (i) all the actions the relevant person has taken in doing so, and
   - (ii) any difficulties the relevant person has encountered in doing so.
 
-(9)[^key-a8b48cc15856e61a403cb97cb9ad3d00] Relevant persons do not satisfy their requirements under paragraph (4) by relying solely on information delivered to the registrar under any enactment that requires information to be delivered to the registrar about registrable persons, registrable relevant legal entities or registrable beneficial owners.
+(9)[^c-a8b48cc15856e61a403cb97cb9ad3d00] Relevant persons do not satisfy their requirements under paragraph (4) by relying solely on information delivered to the registrar under any enactment that requires information to be delivered to the registrar about registrable persons, registrable relevant legal entities or registrable beneficial owners.
 
 (9A) In paragraph (9)—
 
@@ -121,20 +121,20 @@ summary: ''
 - (a) except in paragraph (10), “**verify**” means verify on the basis of documents or information in either case obtained from a reliable source which is independent of the person whose identity is being verified;
 - (b) documents issued or made available by an official body are to be regarded as being independent of a person even if they are provided or made available to the relevant person by or on behalf of that person.
 
-(19)[^key-07ebb3cd036171d9bdcb3021caa27ee4] For the purposes of this regulation, information may be regarded as obtained from a reliable source which is independent of the person whose identity is being verified where—
+(19)[^c-07ebb3cd036171d9bdcb3021caa27ee4] For the purposes of this regulation, information may be regarded as obtained from a reliable source which is independent of the person whose identity is being verified where—
 
 - (a) it is obtained by means of an electronic identification process, including by using electronic identification means or by using a trust service (within the meanings of those terms in Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23rd July 2014 on electronic identification and trust services for electronic transactions in the internal market [^c23048112]); and
-- (b) that process is secure from fraud and misuse and capable of providing assurance that the person claiming a particular identity is in fact the person with that identity, to a degree that is necessary for effectively managing and mitigating any risks of money laundering and terrorist financing[^key-093c2213571ac03a9fd4a221aa3987cc].
+- (b) that process is secure from fraud and misuse and capable of providing assurance that the person claiming a particular identity is in fact the person with that identity, to a degree that is necessary for effectively managing and mitigating any risks of money laundering and terrorist financing[^c-093c2213571ac03a9fd4a221aa3987cc].
 
 ## Annotations
 
-[^key-73a1ad14f95210a5fdb4df490b53771e]: Textual amendment: Reg. 28(3A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/5/2/a)
+[^c-73a1ad14f95210a5fdb4df490b53771e]: Textual amendment: Reg. 28(3A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/5/2/a)
 
-[^key-4d864419342e2ba47677f06a37edc941]: Textual amendment: Word in reg. 28(5) inserted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/991/regulation/3/a)
+[^c-4d864419342e2ba47677f06a37edc941]: Textual amendment: Word in reg. 28(5) inserted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/991/regulation/3/a)
 
-[^key-4ac7fa8e821adc3bc037b32c5a46444a]: Textual amendment: Reg. 28(8) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/5/2/b)
+[^c-4ac7fa8e821adc3bc037b32c5a46444a]: Textual amendment: Reg. 28(8) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/5/2/b)
 
-[^key-a8b48cc15856e61a403cb97cb9ad3d00]: Textual amendment: Reg. 28(9)(9A) substituted for reg. 28(9) (18.11.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/5/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-a8b48cc15856e61a403cb97cb9ad3d00]: Textual amendment: Reg. 28(9)(9A) substituted for reg. 28(9) (18.11.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/5/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
 [^c23048081]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
@@ -144,8 +144,8 @@ summary: ''
 
 [^c23048111]: Marginal citation: Section 333A was inserted by [S.I. 2007/3398](https://www.legislation.gov.uk/uksi/2007/3398).
 
-[^key-07ebb3cd036171d9bdcb3021caa27ee4]: Textual amendment: Reg. 28(19) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/5/2/c)
+[^c-07ebb3cd036171d9bdcb3021caa27ee4]: Textual amendment: Reg. 28(19) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/5/2/c)
 
 [^c23048112]: Marginal citation: OJ L 257, 28.08.2014, p.73.
 
-[^key-093c2213571ac03a9fd4a221aa3987cc]: Textual amendment: Words in reg. 28(19)(b) substituted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/991/regulation/3/b)
+[^c-093c2213571ac03a9fd4a221aa3987cc]: Textual amendment: Words in reg. 28(19)(b) substituted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/991/regulation/3/b)

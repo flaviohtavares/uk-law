@@ -44,21 +44,21 @@ Coming into operation in accordance with rule 1
 
 The Family Proceedings Rules Committee makes the following Rules in exercise of the powers conferred by Article 12 of the Family Law (Northern Ireland) Order 1993[^f00001].
 
-## 1. Citation and commencement[^key-686a103e245e40d679b9acd4375d94a8]
+## 1. Citation and commencement[^c-686a103e245e40d679b9acd4375d94a8]
 
 These Rules may be cited as the Family Proceedings (Amendment) Rules (Northern Ireland) 2022 and shall come into operation on the day on which section 37 of the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021[^f00002] comes into operation.
 
-## 2. Amendment to the Family Proceedings Rules (Northern Ireland) 1996[^key-e95d00e39d2a7a669df267d07c983f00]
+## 2. Amendment to the Family Proceedings Rules (Northern Ireland) 1996[^c-e95d00e39d2a7a669df267d07c983f00]
 
 The Family Proceedings Rules (Northern Ireland) 1996[^f00003] are amended as follows.
 
-**3.**[^key-729b8d6200cf55d51830f2cf38d6dbc7] In the Arrangement of Rules after the entry for rule 7.8A insert–
+**3.**[^c-729b8d6200cf55d51830f2cf38d6dbc7] In the Arrangement of Rules after the entry for rule 7.8A insert–
 
 > **7.8B.** Special measures direction relating to a person who is, or is at risk of, being subjected to abusive behaviour
 
 .
 
-**4.**[^key-4425b5fee7ac18458ffb3c10ee03f8b9] After rule 7.8A insert—
+**4.**[^c-4425b5fee7ac18458ffb3c10ee03f8b9] After rule 7.8A insert—
 
 > **7.8B. Special measures direction relating to a person who is, or is at risk of, being subjected to abusive behaviour**
 >
@@ -112,7 +112,7 @@ The Family Proceedings Rules (Northern Ireland) 1996[^f00003] are amended as fol
 >
 > (11) The court shall take a note of the making, variation or revocation of a direction under this rule and serve, as soon as practicable, a copy of the note on any party who was not present at the making, variation or revocation.
 
-**5.**[^key-7e84d5fdcd19e18196701ba4cffd39d4] In the Arrangement of Forms after the entry relating to Form CS2 insert–
+**5.**[^c-7e84d5fdcd19e18196701ba4cffd39d4] In the Arrangement of Forms after the entry relating to Form CS2 insert–
 
 > <table>
 > <thead>
@@ -125,7 +125,7 @@ The Family Proceedings Rules (Northern Ireland) 1996[^f00003] are amended as fol
 
 .
 
-**6.**[^key-b362a37b436b5b2b53fb9fa072724d7b] In Appendix 1 after Form CS2 insert the new Form SM set out in the Schedule.
+**6.**[^c-b362a37b436b5b2b53fb9fa072724d7b] In Appendix 1 after Form CS2 insert the new Form SM set out in the Schedule.
 
 Siobhan Keegan
 
@@ -151,13 +151,13 @@ Naomi R Long
 
 Minister for Justice
 
-## SCHEDULE — Form SM - Rule 7.8B(5)(a)[^key-b696531343a55d0648dc30ad0ced760d]
+## SCHEDULE — Form SM - Rule 7.8B(5)(a)[^c-b696531343a55d0648dc30ad0ced760d]
 
 Rule 6
 
 ### APPLICATION FOR SPECIAL MEASURES DIRECTION (VICTIM OF ABUSIVE BEHAVIOUR) UNDER RULE 7.8B
 
-[^key-b696531343a55d0648dc30ad0ced760d]
+[^c-b696531343a55d0648dc30ad0ced760d]
 
 EXPLANATORY NOTE
 
@@ -169,20 +169,20 @@ These rules amend the Family Proceedings Rules (Northern Ireland) 1996 ([S.R. 19
 
 [^f00001]: Footnote: [S.I 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576); Article 12 was amended by paragraph 90 of Schedule 5 to the Constitutional Reform Act [2005 (c.4.)](https://www.legislation.gov.uk/ukpga/2005/4) and paragraph 43 of Schedule 17 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([SI 2010/976](https://www.legislation.gov.uk/uksi/2010/976)).
 
-[^key-686a103e245e40d679b9acd4375d94a8]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-686a103e245e40d679b9acd4375d94a8]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
 
 [^f00002]: Footnote: [2021 c. 2](https://www.legislation.gov.uk/ukpga/2021/2). (N.I)
 
-[^key-e95d00e39d2a7a669df267d07c983f00]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2022/254/rule/2) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-e95d00e39d2a7a669df267d07c983f00]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2022/254/rule/2) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 322](https://www.legislation.gov.uk/nisr/1996/322) as amended by [S.R. 2007 No. 324](https://www.legislation.gov.uk/nisr/2007/324) and other statutory rules which are not relevant.
 
-[^key-729b8d6200cf55d51830f2cf38d6dbc7]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2022/254/rule/3) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-729b8d6200cf55d51830f2cf38d6dbc7]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2022/254/rule/3) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
 
-[^key-4425b5fee7ac18458ffb3c10ee03f8b9]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2022/254/rule/4) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-4425b5fee7ac18458ffb3c10ee03f8b9]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2022/254/rule/4) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
 
-[^key-7e84d5fdcd19e18196701ba4cffd39d4]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2022/254/rule/5) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-7e84d5fdcd19e18196701ba4cffd39d4]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2022/254/rule/5) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
 
-[^key-b362a37b436b5b2b53fb9fa072724d7b]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2022/254/rule/6) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-b362a37b436b5b2b53fb9fa072724d7b]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2022/254/rule/6) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
 
-[^key-b696531343a55d0648dc30ad0ced760d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2022/254/schedule) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)
+[^c-b696531343a55d0648dc30ad0ced760d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2022/254/schedule) in operation at 28.11.2022, see [rule 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1)

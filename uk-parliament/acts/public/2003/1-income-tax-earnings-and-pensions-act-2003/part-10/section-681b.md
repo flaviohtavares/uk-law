@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 681B. High income child benefit charge[^key-d7915bdc3ed3bf8779b8e54d286d0964]
+## 681B. High income child benefit charge[^c-d7915bdc3ed3bf8779b8e54d286d0964]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7915bdc3ed3bf8779b8e54d286d0964]: Textual amendment: Pt. 10 Ch. 8 inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/1)
+[^c-d7915bdc3ed3bf8779b8e54d286d0964]: Textual amendment: Pt. 10 Ch. 8 inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/1)
 
 [^M_F_74567916-0eaf-4f5a-9300-30f118a33236]: Textual amendment: Sum in s. 681B(1)(a) substituted (6.4.2024 for the tax year 2024-25 and subsequent years) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 5(1)(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/5/1/3) (with [s. 5(4)-(7)](https://www.legislation.gov.uk/ukpga/2024/12/section/5/4))

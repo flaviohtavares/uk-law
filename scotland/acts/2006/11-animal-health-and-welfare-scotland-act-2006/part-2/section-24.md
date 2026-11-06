@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Ensuring welfare of animals[^key-51f3a44fc667e8a9a94bcb9df3ccf7a0]
+## 24. Ensuring welfare of animals[^c-51f3a44fc667e8a9a94bcb9df3ccf7a0]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51f3a44fc667e8a9a94bcb9df3ccf7a0]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/11/section/24) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-51f3a44fc667e8a9a94bcb9df3ccf7a0]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/11/section/24) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

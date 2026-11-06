@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13A. Serious terrorism sentence[^key-def444f91861ca98125da9fd07f6563c]
+## 13A. Serious terrorism sentence[^c-def444f91861ca98125da9fd07f6563c]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-def444f91861ca98125da9fd07f6563c]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/nisi/2008/1216/article/13A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 7](https://www.legislation.gov.uk/ukpga/2021/11/section/7), [50(2)(e)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/e)
+[^c-def444f91861ca98125da9fd07f6563c]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/nisi/2008/1216/article/13A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 7](https://www.legislation.gov.uk/ukpga/2021/11/section/7), [50(2)(e)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/e)

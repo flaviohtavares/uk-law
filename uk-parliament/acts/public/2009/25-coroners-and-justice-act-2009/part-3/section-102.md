@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Evidence by live link: presence of supporter[^key-71555f7e2c886aa6cfe9617862edcb3e]
+## 102. Evidence by live link: presence of supporter[^c-71555f7e2c886aa6cfe9617862edcb3e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71555f7e2c886aa6cfe9617862edcb3e]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2009/25/section/102) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-71555f7e2c886aa6cfe9617862edcb3e]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2009/25/section/102) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

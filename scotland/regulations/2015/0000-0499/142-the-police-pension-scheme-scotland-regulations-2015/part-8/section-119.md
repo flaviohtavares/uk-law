@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Annual rate of pension credit member’s pension[^key-6d6b0444a5432b2476b3020736e31b00]
+## 119. Annual rate of pension credit member’s pension[^c-6d6b0444a5432b2476b3020736e31b00]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The annual rate of a pension credit member’s pension is calculated by—
 
 ## Annotations
 
-[^key-6d6b0444a5432b2476b3020736e31b00]: Commencement: Reg. 119 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-6d6b0444a5432b2476b3020736e31b00]: Commencement: Reg. 119 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

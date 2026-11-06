@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Restrictions relating to other enactments[^key-4ba25e5d6ab1b203ed61e8d7de251068]
+## 14. Restrictions relating to other enactments[^c-4ba25e5d6ab1b203ed61e8d7de251068]
 
 *Extent: E+W+N.I.*
 
@@ -37,4 +37,4 @@ if the disclosure concerned is prohibited under any other enactment.
 
 ## Annotations
 
-[^key-4ba25e5d6ab1b203ed61e8d7de251068]: Commencement: S. 14 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-4ba25e5d6ab1b203ed61e8d7de251068]: Commencement: S. 14 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)

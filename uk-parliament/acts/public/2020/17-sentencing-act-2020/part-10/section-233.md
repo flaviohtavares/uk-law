@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Detention and training order[^key-dfbe6c3c2ac6d785d5d71c041af34c18]
+## 233. Detention and training order[^c-dfbe6c3c2ac6d785d5d71c041af34c18]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A detention and training order in respect of an offender is an order that the of
 
 ## Annotations
 
-[^key-dfbe6c3c2ac6d785d5d71c041af34c18]: Commencement: S. 233 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dfbe6c3c2ac6d785d5d71c041af34c18]: Commencement: S. 233 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

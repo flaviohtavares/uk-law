@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Substitution of section 33[^key-bc8f59264194f3b8b0ff4a611e304e8a]
+## 24. Substitution of section 33[^c-bc8f59264194f3b8b0ff4a611e304e8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc8f59264194f3b8b0ff4a611e304e8a]: Commencement: Art. 24 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-bc8f59264194f3b8b0ff4a611e304e8a]: Commencement: Art. 24 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

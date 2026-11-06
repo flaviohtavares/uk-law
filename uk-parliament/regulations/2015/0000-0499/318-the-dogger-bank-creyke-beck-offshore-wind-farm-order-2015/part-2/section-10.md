@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Disapplication and modification of legislative provisions[^key-73dd09670e2ab67a7af103eded68dc00]
+## 10. Disapplication and modification of legislative provisions[^c-73dd09670e2ab67a7af103eded68dc00]
 
 *Extent: E+W+S*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-73dd09670e2ab67a7af103eded68dc00]: Commencement: Art. 10 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-73dd09670e2ab67a7af103eded68dc00]: Commencement: Art. 10 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
 [^f00021]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). Section 109 was amended by section 82(2) of the Marine and Coastal Access Act 2009 and paragraph 274 of Schedule 2 to [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

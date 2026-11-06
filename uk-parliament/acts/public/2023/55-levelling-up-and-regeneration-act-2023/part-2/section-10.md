@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Constitutional arrangements[^key-c47f539142c504ffb4d3d6c480e5f952]
+## 10. Constitutional arrangements[^c-c47f539142c504ffb4d3d6c480e5f952]
 
 *Extent: E+W*
 
@@ -62,14 +62,14 @@ summary: ''
 - (a) sections 11 and 12 and regulations under section 13(1) (non-constituent and associate members), and
 - (b) sections 14(4) and 25(9) and (12) (procedure for CCA consents).
 
-(8) Regulations under subsection (1) may be made in relation to an existing CCA[^key-aae4f7c85ee7bd6d023353bc05e73f6d] only with the consent of—
+(8) Regulations under subsection (1) may be made in relation to an existing CCA[^c-aae4f7c85ee7bd6d023353bc05e73f6d] only with the consent of—
 
 - (a) the constituent councils, and
-- (b) [^key-f85fa3026c22ec9b4397dbefc987cf1b]... the CCA.
+- (b) [^c-f85fa3026c22ec9b4397dbefc987cf1b]... the CCA.
 
-(8A)[^key-eb30ea6ea0a2aeb0e7726f0e23cf94b1] Subsection (8) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
+(8A)[^c-eb30ea6ea0a2aeb0e7726f0e23cf94b1] Subsection (8) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
-(9)[^key-7f711fce9b465d5a8f5174b561b6b1a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7f711fce9b465d5a8f5174b561b6b1a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) If the only provision made under subsection (1) in regulations under this Chapter is provision as a result of regulations to which section 31 applies (procedure for direct conferral of general functions on mayor)—
 
@@ -83,12 +83,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c47f539142c504ffb4d3d6c480e5f952]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/55/section/10) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-c47f539142c504ffb4d3d6c480e5f952]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/55/section/10) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-aae4f7c85ee7bd6d023353bc05e73f6d]: Textual amendment: Words in s. 10(8) substituted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(a)(i)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/a/i) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-aae4f7c85ee7bd6d023353bc05e73f6d]: Textual amendment: Words in s. 10(8) substituted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(a)(i)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/a/i) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-f85fa3026c22ec9b4397dbefc987cf1b]: Textual amendment: Words in s. 10(8)(b) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/a/ii) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-f85fa3026c22ec9b4397dbefc987cf1b]: Textual amendment: Words in s. 10(8)(b) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/a/ii) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-eb30ea6ea0a2aeb0e7726f0e23cf94b1]: Textual amendment: S. 10(8A) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-eb30ea6ea0a2aeb0e7726f0e23cf94b1]: Textual amendment: S. 10(8A) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-7f711fce9b465d5a8f5174b561b6b1a5]: Textual amendment: S. 10(9) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/c) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-7f711fce9b465d5a8f5174b561b6b1a5]: Textual amendment: S. 10(9) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 23(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/23/c) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))

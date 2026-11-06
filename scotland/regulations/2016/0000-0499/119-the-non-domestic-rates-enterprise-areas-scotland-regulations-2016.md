@@ -44,13 +44,13 @@ Coming into force
 
 1st April 2016
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^key-29678cfbd89df876558dc73deaddd21d]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^c-29678cfbd89df876558dc73deaddd21d]
 
-## 1. Citation and commencement[^key-9d3fb643e90b533c4a1a80262f51e449]
+## 1. Citation and commencement[^c-9d3fb643e90b533c4a1a80262f51e449]
 
 These Regulations may be cited as the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016 and come into force on 1st April 2016.
 
-## 2. Interpretation[^key-908e0eb461382c84b4c5e9c37310db15]
+## 2. Interpretation[^c-908e0eb461382c84b4c5e9c37310db15]
 
 (1) In these Regulations—
 
@@ -79,9 +79,9 @@ These Regulations may be cited as the Non-Domestic Rates (Enterprise Areas) (Sco
 
 (2) In this regulation a reference to a map is a reference to the map with that title and date deposited at the Scottish Government Economic Development Directorate.
 
-## 3. Lands and heritages in enterprise areas[^key-72c125904a12914b42f32a8b9be9c759]
+## 3. Lands and heritages in enterprise areas[^c-72c125904a12914b42f32a8b9be9c759]
 
-Regulation 5(1) applies in the period beginning with 1st April 2016 and ending with 31st March 2024[^key-1646a55d8994d77bbee341699d3975d7] in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period where that person occupies lands and heritages in—
+Regulation 5(1) applies in the period beginning with 1st April 2016 and ending with 31st March 2024[^c-1646a55d8994d77bbee341699d3975d7] in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period where that person occupies lands and heritages in—
 
 - (a) the General Manufacturing and Growth Sectors Enterprise Area;
 - (b) the Life Sciences Enterprise Area;
@@ -90,7 +90,7 @@ Regulation 5(1) applies in the period beginning with 1st April 2016 and ending w
 
 for the sole or main purpose of carrying on an activity listed in that Part of the Schedule relating to that Enterprise Area or, in the case of the General Manufacturing and Growth Sectors Enterprise Area, to a site within that Enterprise Area.
 
-## 3A. Lands and heritages in enterprise areas – financial year 2024-2025[^key-3c00c0628cf507590d6c19d25b137430]
+## 3A. Lands and heritages in enterprise areas – financial year 2024-2025[^c-3c00c0628cf507590d6c19d25b137430]
 
 Regulation 5A(1) applies in the period beginning with 1 April 2024 and ending with 31 March 2025 in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period where that person occupies lands and heritages in—
 
@@ -112,18 +112,18 @@ Regulation 5B(1) applies in the period beginning with 1 April 2025 and ending wi
 
 for the sole or main purpose of carrying on an activity listed in that Part of the schedule relating to that Enterprise Area or, in the case of the General Manufacturing and Growth Sectors Enterprise Area, to a site within that Enterprise Area.
 
-## 4. Availability of relief[^key-72fefcfa22e486aa6a2b1a0fa6d6bde7]
+## 4. Availability of relief[^c-72fefcfa22e486aa6a2b1a0fa6d6bde7]
 
-The circumstances referred to in regulations 3, 3A and 3B[^key-2f89e045b3c8b33400b282c432020045] are that—
+The circumstances referred to in regulations 3, 3A and 3B[^c-2f89e045b3c8b33400b282c432020045] are that—
 
 - (a)
   - (i) a new entry in respect of the lands and heritages is made in the valuation roll after 1st April 2012; or
-  - (ii) the lands and heritages have been unoccupied for a continuous period of 3 months before the person seeking relief took occupation for the purpose of carrying out the activity referred to in regulation 3, 3A or 3B[^key-324543879b98efb860e26e7eff3e02e3]; and
+  - (ii) the lands and heritages have been unoccupied for a continuous period of 3 months before the person seeking relief took occupation for the purpose of carrying out the activity referred to in regulation 3, 3A or 3B[^c-324543879b98efb860e26e7eff3e02e3]; and
 - (b) an application for relief is made in accordance with regulation 6 or was made in accordance with regulation 6 of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2012[^f00006].
 
-## 5. Relief granted in relation to the financial years beginning with 1 April 2016 and ending with 31 March 2024[^key-373d731f4105b3f07720e6518b8aeb95][^key-9fd84f830196f178b9cf564592477c01]
+## 5. Relief granted in relation to the financial years beginning with 1 April 2016 and ending with 31 March 2024[^c-373d731f4105b3f07720e6518b8aeb95][^c-9fd84f830196f178b9cf564592477c01]
 
-(1) [^key-95ba0b846b621fb801f5ef310157476a]... In relation to any day in the financial years beginning with 1 April 2016 and ending with 31 March 2024, where[^key-e051d115db0e0fc8ee352ecadce5b512] the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief”.
+(1) [^c-95ba0b846b621fb801f5ef310157476a]... In relation to any day in the financial years beginning with 1 April 2016 and ending with 31 March 2024, where[^c-e051d115db0e0fc8ee352ecadce5b512] the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief”.
 
 | **Rateable value** | **Percentage of rates relief** |
 | --- | --- |
@@ -136,9 +136,9 @@ The circumstances referred to in regulations 3, 3A and 3B[^key-2f89e045b3c8b3340
 
 (2) The amount of rate relief calculated under paragraph (1) is to be applied before the calculation of any other relief.
 
-(3)[^key-839995b6738e2ce583273951537b864f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-839995b6738e2ce583273951537b864f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Relief granted -financial year 2024-2025[^key-1166f58d75eb18169424b07d85bd48b7]
+## 5A. Relief granted -financial year 2024-2025[^c-1166f58d75eb18169424b07d85bd48b7]
 
 (1) In relation to the financial year 2024-2025, where the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief”.
 
@@ -168,7 +168,7 @@ The circumstances referred to in regulations 3, 3A and 3B[^key-2f89e045b3c8b3340
 
 (2) The amount of relief calculated under paragraph (1) is to be applied before the calculation of any other relief.
 
-## 6. Applications for relief[^key-7a64da0375d825efb53faa17e6b678d3]
+## 6. Applications for relief[^c-7a64da0375d825efb53faa17e6b678d3]
 
 (1) An application for relief under these Regulations must be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer.
 
@@ -187,7 +187,7 @@ The circumstances referred to in regulations 3, 3A and 3B[^key-2f89e045b3c8b3340
   - (c) a body corporate, a director of that body; and
 - “sign” or “signed”, in relation to an application made by electronic communication, means an electronic signature, as defined in section 7(2) of the 2000 Act.
 
-## 7. Exemptions and discretionary reductions and remissions[^key-86a1a7da666a31db5a0ed228122a4f14]
+## 7. Exemptions and discretionary reductions and remissions[^c-86a1a7da666a31db5a0ed228122a4f14]
 
 Nothing in these Regulations is to—
 
@@ -208,7 +208,7 @@ Edinburgh
 
 Regulation 3
 
-### PART 1 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LIFE SCIENCES ENTERPRISE AREA[^key-4f0de43be364327d25f1c84414a16722]
+### PART 1 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LIFE SCIENCES ENTERPRISE AREA[^c-4f0de43be364327d25f1c84414a16722]
 
 Bioinformatics and health informatics
 
@@ -254,13 +254,13 @@ Veterinary medicine
 
 Wholesale of pharmaceutical goods
 
-### PART 2 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LOW CARBON/RENEWABLES EAST ENTERPRISE AREA AND THE LOW CARBON/RENEWABLES NORTH ENTERPRISE AREA[^key-d5228bdf16deda540efa3177f8a7660b]
+### PART 2 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LOW CARBON/RENEWABLES EAST ENTERPRISE AREA AND THE LOW CARBON/RENEWABLES NORTH ENTERPRISE AREA[^c-d5228bdf16deda540efa3177f8a7660b]
 
 The design, fabrication, manufacture and assembly of components required for the generation of renewable energy by the technologies described in Schedule 2 of the Renewables Obligation (Scotland) Order 2009[^f00012], including foundations and substructures (fixed or floating), towers, blades and nacelles, and research and development connected to those activities.
 
-### PART 3 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE GENERAL MANUFACTURING AND GROWTH SECTORS ENTERPRISE AREA[^key-6c282f66b5dad68eed6c261f417b88fb]
+### PART 3 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE GENERAL MANUFACTURING AND GROWTH SECTORS ENTERPRISE AREA[^c-6c282f66b5dad68eed6c261f417b88fb]
 
-#### Creative Clyde[^key-6c282f66b5dad68eed6c261f417b88fb]
+#### Creative Clyde[^c-6c282f66b5dad68eed6c261f417b88fb]
 
 - Activities involved in the programming, production, post-production, digital distribution or broadcasting of motion picture, video, television, radio, computer games, internet channels or websites
 - Architectural design
@@ -271,7 +271,7 @@ The design, fabrication, manufacture and assembly of components required for the
 - Software development
 - Sound recording or reproduction of sound recording
 
-#### Prestwick International[^key-6c282f66b5dad68eed6c261f417b88fb]
+#### Prestwick International[^c-6c282f66b5dad68eed6c261f417b88fb]
 
 - Certification of aircraft, aero-engines or aircraft components
 - Design or development of aerospace-related design systems or manufacturing systems
@@ -291,9 +291,9 @@ The design, fabrication, manufacture and assembly of components required for the
 - Repair or maintenance of electronic systems used on aircraft, spacecraft or related machinery
 - Research and development into aerospace-related materials or aerostructures
 
-#### West Lothian[^key-6c282f66b5dad68eed6c261f417b88fb]
+#### West Lothian[^c-6c282f66b5dad68eed6c261f417b88fb]
 
-##### Food Manufacture[^key-6c282f66b5dad68eed6c261f417b88fb]
+##### Food Manufacture[^c-6c282f66b5dad68eed6c261f417b88fb]
 
 - Grain milling
 - Manufacture of breakfast cereals or cereals-based food
@@ -312,7 +312,7 @@ The design, fabrication, manufacture and assembly of components required for the
 - Production of meat, poultry or fish products
 - Tea processing
 
-##### Beverage Manufacture[^key-6c282f66b5dad68eed6c261f417b88fb]
+##### Beverage Manufacture[^c-6c282f66b5dad68eed6c261f417b88fb]
 
 - Distilling, rectifying or blending of spirits
 - Manufacture of malt, wine, beer, cider or other non-distilled fermented beverages
@@ -339,11 +339,11 @@ Copies of the maps of the sites within the Enterprise Areas are available for in
 
 [^f00001]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-29678cfbd89df876558dc73deaddd21d]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2016/119) restricted (1.4.2023) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3), (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/2))
+[^c-29678cfbd89df876558dc73deaddd21d]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2016/119) restricted (1.4.2023) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3), (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/28/regulation/1/2))
 
-[^key-9d3fb643e90b533c4a1a80262f51e449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-9d3fb643e90b533c4a1a80262f51e449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
-[^key-908e0eb461382c84b4c5e9c37310db15]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/119/regulation/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-908e0eb461382c84b4c5e9c37310db15]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/119/regulation/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
 [^f00002]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -353,37 +353,37 @@ Copies of the maps of the sites within the Enterprise Areas are available for in
 
 [^f00005]: Footnote: Section 1 was repealed in part by section 34 of and Schedule 6 to the Abolition of Domestic Rates Etc. (Scotland) Act [1987 (c.47)](https://www.legislation.gov.uk/ukpga/1987/47), Schedule 14 to the Local Government etc. (Scotland) Act 1994 and Schedule 4 to the Local Government and Rating Act [1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-72c125904a12914b42f32a8b9be9c759]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/119/regulation/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-72c125904a12914b42f32a8b9be9c759]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/119/regulation/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
-[^key-1646a55d8994d77bbee341699d3975d7]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/ssi/2016/119/regulation/3) substituted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/10/2)
+[^c-1646a55d8994d77bbee341699d3975d7]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/ssi/2016/119/regulation/3) substituted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/10/2)
 
-[^key-3c00c0628cf507590d6c19d25b137430]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2016/119/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2016/119/regulation/3B) inserted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/2)
+[^c-3c00c0628cf507590d6c19d25b137430]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2016/119/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2016/119/regulation/3B) inserted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/2)
 
-[^key-72fefcfa22e486aa6a2b1a0fa6d6bde7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/119/regulation/4) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-72fefcfa22e486aa6a2b1a0fa6d6bde7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/119/regulation/4) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
-[^key-2f89e045b3c8b33400b282c432020045]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2016/119/regulation/4) substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/3/a)
+[^c-2f89e045b3c8b33400b282c432020045]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2016/119/regulation/4) substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/3/a)
 
-[^key-324543879b98efb860e26e7eff3e02e3]: Textual amendment: Words in [reg. 4(a)(ii)](https://www.legislation.gov.uk/ssi/2016/119/regulation/4/a/ii) substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/3/b)
+[^c-324543879b98efb860e26e7eff3e02e3]: Textual amendment: Words in [reg. 4(a)(ii)](https://www.legislation.gov.uk/ssi/2016/119/regulation/4/a/ii) substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/3/b)
 
 [^f00006]: Footnote: [S.S.I. 2012/48](https://www.legislation.gov.uk/ssi/2012/48), amended by [S.S.I. 2013/78](https://www.legislation.gov.uk/ssi/2013/78).
 
-[^key-373d731f4105b3f07720e6518b8aeb95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/119/regulation/5) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-373d731f4105b3f07720e6518b8aeb95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/119/regulation/5) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
-[^key-9fd84f830196f178b9cf564592477c01]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/119/regulation/5) heading substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/4/a)
+[^c-9fd84f830196f178b9cf564592477c01]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/119/regulation/5) heading substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/4/a)
 
-[^key-95ba0b846b621fb801f5ef310157476a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/119/regulation/5/1) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/391/regulation/5/a)
+[^c-95ba0b846b621fb801f5ef310157476a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/119/regulation/5/1) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/391/regulation/5/a)
 
-[^key-e051d115db0e0fc8ee352ecadce5b512]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/119/regulation/5/1) substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/4/b)
+[^c-e051d115db0e0fc8ee352ecadce5b512]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2016/119/regulation/5/1) substituted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/4/b)
 
-[^key-839995b6738e2ce583273951537b864f]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2016/119/regulation/5/3) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/391/regulation/5/b)
+[^c-839995b6738e2ce583273951537b864f]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2016/119/regulation/5/3) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/391/regulation/5/b)
 
-[^key-1166f58d75eb18169424b07d85bd48b7]: Textual amendment: [Regs. 5A](https://www.legislation.gov.uk/ssi/2016/119/regulation/5A), [5B](https://www.legislation.gov.uk/ssi/2016/119/regulation/5B) inserted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(5)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/5)
+[^c-1166f58d75eb18169424b07d85bd48b7]: Textual amendment: [Regs. 5A](https://www.legislation.gov.uk/ssi/2016/119/regulation/5A), [5B](https://www.legislation.gov.uk/ssi/2016/119/regulation/5B) inserted (1.4.2024) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/4)](https://www.legislation.gov.uk/ssi/2024/4), [regs. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1), [10(5)](https://www.legislation.gov.uk/ssi/2024/4/regulation/10/5)
 
-[^key-7a64da0375d825efb53faa17e6b678d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/119/regulation/6) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-7a64da0375d825efb53faa17e6b678d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/119/regulation/6) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
 [^f00008]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-86a1a7da666a31db5a0ed228122a4f14]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/119/regulation/7) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-86a1a7da666a31db5a0ed228122a4f14]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/119/regulation/7) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
 [^f00009]: Footnote: [1962 c.9](https://www.legislation.gov.uk/ukpga/1962/9). Section 3A was inserted by section 140 of the Community Empowerment (Scotland) Act [2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6). Section 4(5) was amended by paragraph 57 of Schedule 13 to the Local Government etc. (Scotland) Act 1994, paragraph 2(a) of Schedule 3 to the Local Government and Rating Act 1997 and section 98(3) of the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -391,10 +391,10 @@ Copies of the maps of the sites within the Enterprise Areas are available for in
 
 [^f00011]: Footnote: [1997 c.29](https://www.legislation.gov.uk/ukpga/1997/29). Paragraph 4 was amended by section 28 of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-4f0de43be364327d25f1c84414a16722]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2016/119/schedule/part/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-4f0de43be364327d25f1c84414a16722]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2016/119/schedule/part/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
-[^key-d5228bdf16deda540efa3177f8a7660b]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2016/119/schedule/part/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-d5228bdf16deda540efa3177f8a7660b]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2016/119/schedule/part/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
 
 [^f00012]: Footnote: [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140). Schedule 2 was amended by [S.S.I. 2009/276](https://www.legislation.gov.uk/ssi/2009/276), [S.S.I. 2010/147](https://www.legislation.gov.uk/ssi/2010/147), [S.S.I. 2011/225](https://www.legislation.gov.uk/ssi/2011/225) and [S.S.I. 2013/116](https://www.legislation.gov.uk/ssi/2013/116).
 
-[^key-6c282f66b5dad68eed6c261f417b88fb]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2016/119/schedule/part/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)
+[^c-6c282f66b5dad68eed6c261f417b88fb]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2016/119/schedule/part/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/119/regulation/1)

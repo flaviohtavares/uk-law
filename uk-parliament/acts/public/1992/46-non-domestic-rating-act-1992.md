@@ -99,12 +99,12 @@ article 11 and, so far as relating to any class of hereditaments to which articl
 - (a) in sub-paragraph (1)(a), after the word “year” there were inserted the words “ otherwise than under paragraph 2(1)(d) above ”; and
 - (b) after sub-paragraph (3) there were inserted the following sub-paragraphs—
 
-  > (3A) The Welsh Ministers[^key-764cb80081e43cf09cdfb1eaf403be10] shall also—
+  > (3A) The Welsh Ministers[^c-764cb80081e43cf09cdfb1eaf403be10] shall also—
   >
   > - (a) estimate the amount by which, if the Non-Domestic Rating Act 1992 had not been enacted, the amount calculated under sub-paragraph (3) above would have been greater than it is; and
-  > - (b) add to the amount calculated under that sub-paragraph such amount as (having regard to that estimate) they consider[^key-3be65b05e392288df69c514831e274b1] appropriate.
+  > - (b) add to the amount calculated under that sub-paragraph such amount as (having regard to that estimate) they consider[^c-3be65b05e392288df69c514831e274b1] appropriate.
   >
-  > (3B) In making any estimate under sub-paragraph (3A) above the Welsh Ministers[^key-6cd63f246299e50c9b1a87b8887a59f0] may make such assumptions as they think[^key-585a13b45bcb97937b6fa6c22ea54aca] fit.
+  > (3B) In making any estimate under sub-paragraph (3A) above the Welsh Ministers[^c-6cd63f246299e50c9b1a87b8887a59f0] may make such assumptions as they think[^c-585a13b45bcb97937b6fa6c22ea54aca] fit.
 
 (2) The reference in sub-paragraph (4) of that paragraph to the amount arrived at under that paragraph shall be construed, in relation to those financial years, as a reference to the amount arrived at under sub-paragraph (3) read with sub-paragraph (3A) of that paragraph.
 
@@ -117,7 +117,7 @@ article 11 and, so far as relating to any class of hereditaments to which articl
 
   > and
   >
-  > - (d) the amount added by them[^key-57080ce95f5bcfb15149b1211a2c0df7] under sub-paragraph (3A) of paragraph 9 below to the amount calculated by them for the year under sub-paragraph (3) of that paragraph.
+  > - (d) the amount added by them[^c-57080ce95f5bcfb15149b1211a2c0df7] under sub-paragraph (3A) of paragraph 9 below to the amount calculated by them for the year under sub-paragraph (3) of that paragraph.
 
 (2) Paragraph 6(6) (non-domestic rating contributions) of that Schedule shall have effect in relation to the financial years beginning in 1992, 1993 and 1994 as if for paragraph (a) there were substituted the following paragraph—
 
@@ -200,19 +200,19 @@ In this Act—
 
 [^c860046]: Modification: S. 4(1) modified (24.2.1994) by [1994 c. 3](https://www.legislation.gov.uk/ukpga/1994/3), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1994/3/section/3/2)
 
-[^key-764cb80081e43cf09cdfb1eaf403be10]: Textual amendment: Words in s. 4(1)(b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/2/a)
+[^c-764cb80081e43cf09cdfb1eaf403be10]: Textual amendment: Words in s. 4(1)(b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/2/a)
 
-[^key-3be65b05e392288df69c514831e274b1]: Textual amendment: Words in s. 4(1)(b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/2/b)
+[^c-3be65b05e392288df69c514831e274b1]: Textual amendment: Words in s. 4(1)(b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/2/b)
 
-[^key-6cd63f246299e50c9b1a87b8887a59f0]: Textual amendment: Words in [s. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1992/46/section/4/1/b) substituted (with effect in accordance with s. 5(3) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/3/a)
+[^c-6cd63f246299e50c9b1a87b8887a59f0]: Textual amendment: Words in [s. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1992/46/section/4/1/b) substituted (with effect in accordance with s. 5(3) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/3/a)
 
-[^key-585a13b45bcb97937b6fa6c22ea54aca]: Textual amendment: Words in s. 4(1)(b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/3/b)
+[^c-585a13b45bcb97937b6fa6c22ea54aca]: Textual amendment: Words in s. 4(1)(b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/20/3/b)
 
 [^c860047]: Commencement: S. 5 wholly in force; s. 5(2) in force at 23.6.1992 see s. 10(2) and [S.I. 1992/1486](https://www.legislation.gov.uk/uksi/1992/1486), [art. 2](https://www.legislation.gov.uk/uksi/1992/1486/article/2); s. 5(1)(3) in force at 16. 7. 1992 see s. 10(2) and [S.I. 1992/1642](https://www.legislation.gov.uk/uksi/1992/1642), [art. 2](https://www.legislation.gov.uk/uksi/1992/1642/article/2).
 
 [^c860048]: Modification: S. 5 modified (6.7.1993) by [1993 c. 17](https://www.legislation.gov.uk/ukpga/1993/17), [s.2](https://www.legislation.gov.uk/ukpga/1993/17/section/2) (with [s. 5(1)](https://www.legislation.gov.uk/ukpga/1993/17/section/5/1)); [S.I. 1993/1512](https://www.legislation.gov.uk/uksi/1993/1512), [art.2](https://www.legislation.gov.uk/uksi/1993/1512/article/2)
 
-[^key-57080ce95f5bcfb15149b1211a2c0df7]: Textual amendment: Word in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1992/46/section/5/1/b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/21)
+[^c-57080ce95f5bcfb15149b1211a2c0df7]: Textual amendment: Word in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1992/46/section/5/1/b) substituted (31.10.2012 and with effect in accordance with s. 5(3)) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/21)
 
 [^c860049]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/1992/46/section/6) wholly in force at 16.7.1992 see [s. 10(2)](https://www.legislation.gov.uk/ukpga/1992/46/section/10/2) and [S.I. 1992/1642](https://www.legislation.gov.uk/uksi/1992/1642), [art. 2](https://www.legislation.gov.uk/uksi/1992/1642/article/2)
 

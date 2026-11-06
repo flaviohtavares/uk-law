@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Disposal of material as waste[^key-36b982dcfbf4c0e746a3af5a5ac71dec]
+## 6. Disposal of material as waste[^c-36b982dcfbf4c0e746a3af5a5ac71dec]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36b982dcfbf4c0e746a3af5a5ac71dec]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2017/3/section/6) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-36b982dcfbf4c0e746a3af5a5ac71dec]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2017/3/section/6) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

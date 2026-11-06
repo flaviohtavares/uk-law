@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Timing of confiscation proceedings and effect on sentencing[^key-6bb67f6c46904f5072fcafb97a3f532d]
+## 15A. Timing of confiscation proceedings and effect on sentencing[^c-6bb67f6c46904f5072fcafb97a3f532d]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the sentence must be regarded as imposed or made on the day on which it is varie
 
 ## Annotations
 
-[^key-6bb67f6c46904f5072fcafb97a3f532d]: Textual amendment: S. 15A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 14(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/14/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-6bb67f6c46904f5072fcafb97a3f532d]: Textual amendment: S. 15A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 14(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/14/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

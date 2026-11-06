@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Determination of appeals[^key-dda699ef98bf0f5f8759dc6379194b33]
+## 39. Determination of appeals[^c-dda699ef98bf0f5f8759dc6379194b33]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dda699ef98bf0f5f8759dc6379194b33]: Commencement: S. 39 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-dda699ef98bf0f5f8759dc6379194b33]: Commencement: S. 39 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

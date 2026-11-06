@@ -48,13 +48,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-34ee8f4dd6bddd476aeca65af0a698b9]
+## 1. Citation, commencement and extent[^c-34ee8f4dd6bddd476aeca65af0a698b9]
 
 (1) These Regulations may be cited as the Avian Influenza (Preventive Measures) (Scotland) Regulations 2005 and shall come into force on 28 October 2005 at midnight.
 
 (2) These Regulations shall extend to Scotland only.
 
-## 2. Interpretation[^key-6d2f044783590d22871184dae2d331e7]
+## 2. Interpretation[^c-6d2f044783590d22871184dae2d331e7]
 
 In these Regulations–
 
@@ -71,13 +71,13 @@ In these Regulations–
 - “restrictions notice” means a notice issued under regulation 4(2)(b);
 - “veterinary inspector” means a veterinary inspector appointed by the Scottish Ministers under the Act.
 
-## 3. Declarations, notices and licences[^key-90b1e9cb82517c3ca8ed880e92a2d7f0]
+## 3. Declarations, notices and licences[^c-90b1e9cb82517c3ca8ed880e92a2d7f0]
 
 (1) Declarations, notices and licences under these Regulations shall be in writing and may be subject to conditions and may be varied, suspended or revoked in writing at any time.
 
 (2) The Scottish Ministers shall take such steps as they consider necessary to ensure that declarations, notices and licences are brought to the attention of those who may be affected by them and, in particular, shall ensure that the extent of any zone declared under these Regulations, the nature of the restrictions and requirements applicable within it and the date of its declaration, suspension or withdrawal are publicised.
 
-## 4. Risk assessment and imposition of restrictions[^key-1158f6330dd0e1d476e9ccba69fbd291]
+## 4. Risk assessment and imposition of restrictions[^c-1158f6330dd0e1d476e9ccba69fbd291]
 
 (1) The Scottish Ministers shall evaluate the risk of the transmission of avian influenza virus (in particular virus of the subtype H5N1) from birds living in the wild to poultry or other captive birds in Scotland, taking into account the criteria and risk factors set out in Annex I to the Commission Decision.
 
@@ -116,13 +116,13 @@ In these Regulations–
 
 (7) Any person subject to a declaration or a notice under these Regulations shall comply with such declaration or notice except to the extent that the person is authorised to do otherwise by a licence issued by a veterinary inspector.
 
-## 5. Prohibition on fairs, markets, shows and other gatherings[^key-d584070160409d1a3b60acfb3dce1d53]
+## 5. Prohibition on fairs, markets, shows and other gatherings[^c-d584070160409d1a3b60acfb3dce1d53]
 
 (1) No person shall permit birds to be collected together at any fair, market, show, exhibition or other gathering except under the authority of a licence issued by a veterinary inspector.
 
 (2) A veterinary inspector shall only grant a licence if a veterinary risk assessment has been carried out and the veterinary inspector is satisfied that the gathering and the transit of birds to and from the gathering would not significantly increase the risk of the transmission of avian influenza virus (in particular of virus of the subtype H5N1).
 
-## 6. Identification of commercial poultry premises[^key-bad71abc83fa0b58a1b9f1e8a5c01f4e]
+## 6. Identification of commercial poultry premises[^c-bad71abc83fa0b58a1b9f1e8a5c01f4e]
 
 (1) Any person who keeps 50 or more poultry on any commercial poultry premises shall make a written record of the following–
 
@@ -140,17 +140,17 @@ In these Regulations–
 
 (3) Any person who has in the past 12 months kept poultry on their premises but is no longer doing so shall notify the Scottish Ministers of that fact.
 
-## 7. Identification of other premises[^key-db6297c7d9f3944d0e3b0231a6733336]
+## 7. Identification of other premises[^c-db6297c7d9f3944d0e3b0231a6733336]
 
 (1) The Scottish Ministers shall (if they consider it necessary for the purpose of carrying out a risk assessment under regulation 4 or 5, or otherwise complying with the Commission Decision) require, in writing, any keeper of poultry or other captive birds on premises other than those to which regulation 6 applies to comply with some or all of the requirements of regulation 6.
 
 (2) For the purposes of this regulation, regulation 6 shall be read as if references to poultry included reference to other captive birds.
 
-## 8. Monitoring of premises[^key-1753e9ad6cdc11a5865da0f70780c3f7]
+## 8. Monitoring of premises[^c-1753e9ad6cdc11a5865da0f70780c3f7]
 
 The Scottish Ministers shall ensure that veterinary inspectors and inspectors who inspect premises where poultry or other captive birds are kept monitor compliance with these Regulations.
 
-## 9. Powers of inspectors[^key-f35d93d5ca58629797c0df4d5ee2830f]
+## 9. Powers of inspectors[^c-f35d93d5ca58629797c0df4d5ee2830f]
 
 (1) A veterinary inspector or inspector may enter any premises, on producing, if requested some duly authenticated document showing their authority, for the purpose of ascertaining whether these Regulations (or any declaration, notice or licence made under them) are being or have been complied with and in particular may–
 
@@ -170,7 +170,7 @@ The Scottish Ministers shall ensure that veterinary inspectors and inspectors wh
   - (i) a vehicle or vessel;
   - (ii) a tent or moveable structure.
 
-## 10. Enforcement and offences[^key-8d91dbb8b4720327216283f7ecbf729a]
+## 10. Enforcement and offences[^c-8d91dbb8b4720327216283f7ecbf729a]
 
 (1) The following provisions of the Act apply as if these Regulations were an Order made under the Act–
 
@@ -199,7 +199,7 @@ that director, manager, secretary or officer, as well as the body corporate, is 
 
 (6) The Scottish Ministers may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (5) shall be discharged by the Scottish Ministers and not by the local authority.
 
-## 11. Penalties and time limits[^key-bc237d25fef44f0813ba0c8e31653469]
+## 11. Penalties and time limits[^c-bc237d25fef44f0813ba0c8e31653469]
 
 (1) A person guilty of an offence under these Regulations, or who by virtue of these Regulations is guilty of an offence under the Act, is liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
 
@@ -212,7 +212,7 @@ that director, manager, secretary or officer, as well as the body corporate, is 
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the knowledge of the prosecutor shall be conclusive evidence of that fact;
 - (b) a certificate stating that matter purporting to be signed shall be deemed to be so signed unless the contrary is proved.
 
-## 12. Powers of inspectors in case of default[^key-9d67864db348d8328a6564c961eadb9a]
+## 12. Powers of inspectors in case of default[^c-9d67864db348d8328a6564c961eadb9a]
 
 (1) If a person fails to comply with a requirement of these Regulations or a restriction or a requirement of a declaration made, notice issued or licence granted under them, a veterinary inspector or an inspector may take any steps which the veterinary inspector or inspector, as the case may be, considers necessary to ensure the restriction or requirement is met, including–
 
@@ -251,9 +251,9 @@ A regulatory impact assessment has not been prepared in respect of these Regulat
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred on a Minister of the Crown by section 2(2) were transferred, so far as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-34ee8f4dd6bddd476aeca65af0a698b9]: Commencement: Reg. 1 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-34ee8f4dd6bddd476aeca65af0a698b9]: Commencement: Reg. 1 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-6d2f044783590d22871184dae2d331e7]: Commencement: Reg. 2 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-6d2f044783590d22871184dae2d331e7]: Commencement: Reg. 2 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
 [^f00002]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
@@ -267,24 +267,24 @@ A regulatory impact assessment has not been prepared in respect of these Regulat
 
 [^f00007]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-90b1e9cb82517c3ca8ed880e92a2d7f0]: Commencement: Reg. 3 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-90b1e9cb82517c3ca8ed880e92a2d7f0]: Commencement: Reg. 3 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-1158f6330dd0e1d476e9ccba69fbd291]: Commencement: Reg. 4 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-1158f6330dd0e1d476e9ccba69fbd291]: Commencement: Reg. 4 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
 [^f00008]: Footnote: O.J. L 274, 20.10.2005, p.95.
 
-[^key-d584070160409d1a3b60acfb3dce1d53]: Commencement: Reg. 5 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-d584070160409d1a3b60acfb3dce1d53]: Commencement: Reg. 5 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-bad71abc83fa0b58a1b9f1e8a5c01f4e]: Commencement: Reg. 6 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-bad71abc83fa0b58a1b9f1e8a5c01f4e]: Commencement: Reg. 6 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-db6297c7d9f3944d0e3b0231a6733336]: Commencement: Reg. 7 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-db6297c7d9f3944d0e3b0231a6733336]: Commencement: Reg. 7 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-1753e9ad6cdc11a5865da0f70780c3f7]: Commencement: Reg. 8 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-1753e9ad6cdc11a5865da0f70780c3f7]: Commencement: Reg. 8 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-f35d93d5ca58629797c0df4d5ee2830f]: Commencement: Reg. 9 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-f35d93d5ca58629797c0df4d5ee2830f]: Commencement: Reg. 9 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-8d91dbb8b4720327216283f7ecbf729a]: Commencement: Reg. 10 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-8d91dbb8b4720327216283f7ecbf729a]: Commencement: Reg. 10 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-bc237d25fef44f0813ba0c8e31653469]: Commencement: Reg. 11 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-bc237d25fef44f0813ba0c8e31653469]: Commencement: Reg. 11 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
 
-[^key-9d67864db348d8328a6564c961eadb9a]: Commencement: Reg. 12 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)
+[^c-9d67864db348d8328a6564c961eadb9a]: Commencement: Reg. 12 in force at 28.10.2005 at midnight, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/530/regulation/1/1)

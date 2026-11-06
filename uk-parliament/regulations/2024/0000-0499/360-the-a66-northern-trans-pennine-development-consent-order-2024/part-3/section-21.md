@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Time limit for exercise of powers to possess land temporarily or to acquire land compulsorily[^key-05637a873ffb1d6a722e10828f400f03]
+## 21. Time limit for exercise of powers to possess land temporarily or to acquire land compulsorily[^c-05637a873ffb1d6a722e10828f400f03]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ in relation to any part of the Order land.
 
 ## Annotations
 
-[^key-05637a873ffb1d6a722e10828f400f03]: Commencement: Art. 21 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-05637a873ffb1d6a722e10828f400f03]: Commencement: Art. 21 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

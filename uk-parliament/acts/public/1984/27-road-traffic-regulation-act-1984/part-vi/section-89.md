@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-c332fe8d1073090b4b5f3038faea4027][^key-4ad2dc273084921d2e8159c56b76c58c] A person who drives a motor vehicle on a road at a speed exceeding a limit imposed by or under any enactment to which this section applies shall be guilty of an offence.
+(1)[^c-c332fe8d1073090b4b5f3038faea4027][^c-4ad2dc273084921d2e8159c56b76c58c] A person who drives a motor vehicle on a road at a speed exceeding a limit imposed by or under any enactment to which this section applies shall be guilty of an offence.
 
 (2) A person prosecuted for such an offence shall not be liable to be convicted solely on the evidence of one witness to the effect that, in the opinion of the witness, the person prosecuted was driving the vehicle at a speed exceeding a specified limit.
 
@@ -38,8 +38,8 @@ summary: ''
 
     S. 89 applied (6.3.1992) by [Aberdeen Harbour Order Confirmation Act 1992 (c. ii)](https://www.legislation.gov.uk/ukla/1992/2), [s. 1](https://www.legislation.gov.uk/ukla/1992/2/section/1), [Sch. s. 3(3)](https://www.legislation.gov.uk/ukla/1992/2/schedule/section/3/3).
 
-[^key-c332fe8d1073090b4b5f3038faea4027]: Modification: S. 89(1) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-c332fe8d1073090b4b5f3038faea4027]: Modification: S. 89(1) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
 
-[^key-4ad2dc273084921d2e8159c56b76c58c]: Modification: S. 89(1) excluded (S.) (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-4ad2dc273084921d2e8159c56b76c58c]: Modification: S. 89(1) excluded (S.) (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13560411]: Marginal citation: [1926 c. 36](https://www.legislation.gov.uk/ukpga/1926/36)**(46:2).**

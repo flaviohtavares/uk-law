@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217ZB. Recovery of financial assistance under section 217ZA[^key-14b293b258c1640f270da42c3316e9b3]
+## 217ZB. Recovery of financial assistance under section 217ZA[^c-14b293b258c1640f270da42c3316e9b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14b293b258c1640f270da42c3316e9b3]: Textual amendment: Ss. 217ZA, 217ZB inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/5)
+[^c-14b293b258c1640f270da42c3316e9b3]: Textual amendment: Ss. 217ZA, 217ZB inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/5)

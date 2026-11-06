@@ -62,7 +62,7 @@ for the words “section 24 of the Social Security Act 1986”, in each place wh
 
 *Extent: E+W+S*
 
-**4.**[^key-db267ae93fdcfda51e362e22c8adf04e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-db267ae93fdcfda51e362e22c8adf04e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Expenditure and Receipts Act 1968
 
@@ -373,7 +373,7 @@ for the words “section 24 of the Social Security Act 1986”, in each place wh
 
 *Extent: E+W*
 
-**60.**[^key-90da944bc0ac0f749cd1e57722c1e0d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-90da944bc0ac0f749cd1e57722c1e0d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government, Planning and Land Act 1980
 
@@ -389,13 +389,13 @@ for the words “section 24 of the Social Security Act 1986”, in each place wh
 
 *Extent: E+W+S*
 
-**63.** (1)[^key-f9887092e05e4ba54fde9f84de543321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.** (1)[^c-f9887092e05e4ba54fde9f84de543321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-f9887092e05e4ba54fde9f84de543321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f9887092e05e4ba54fde9f84de543321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5) of that section—
 
-- (a)[^key-747164765b165d8e3804e92c2d9ac7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-747164765b165d8e3804e92c2d9ac7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “**relevant enactment**” the following entry shall be added after the entry relating to the Social Security Acts 1975 to 1991—
 
   > - the Social Security Contributions and Benefits Act 1992,
@@ -434,7 +434,7 @@ for the words “section 24 of the Social Security Act 1986”, in each place wh
 
 *Extent: S*
 
-**69.**[^key-b950b623a790ca77f742cb8660518b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-b950b623a790ca77f742cb8660518b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing Act 1985
 
@@ -450,7 +450,7 @@ for the words “section 24 of the Social Security Act 1986”, in each place wh
 
 *Extent: E+W+S*
 
-**73.**[^key-daad3e8bf6abd93d0c7bbaae1d858898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.**[^c-daad3e8bf6abd93d0c7bbaae1d858898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Wages Act 1986
 
@@ -540,7 +540,7 @@ for the words “section 24 of the Social Security Act 1986”, in each place wh
 
 ### Income and Corporation Taxes Act 1988
 
-**93.**[^key-fd5d13cadbca2281657bd1663106776d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-fd5d13cadbca2281657bd1663106776d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Social Security Act 1988
 
@@ -655,7 +655,7 @@ for the words “Social Security Act 1986” there shall be substituted the word
 
 *Extent: E+W+S*
 
-**113.** In subsection (2) of section 43 of the Child Support Act 1991 (contribution to maintenance by deduction from benefit) for the words “section 51 of the Social Security Act 1986 by virtue of subsection (1)(r),” there shall be substituted the words “ section 5 of the Social Security Administration Act 1992 by virtue of subsection (1)(t),” *(affected by repeal, see note)*[^key-8c53d76eca6fd836077de9b9430ac6b7]
+**113.** In subsection (2) of section 43 of the Child Support Act 1991 (contribution to maintenance by deduction from benefit) for the words “section 51 of the Social Security Act 1986 by virtue of subsection (1)(r),” there shall be substituted the words “ section 5 of the Social Security Administration Act 1992 by virtue of subsection (1)(t),” *(affected by repeal, see note)*[^c-8c53d76eca6fd836077de9b9430ac6b7]
 
 **114.** In section 54 of that Act (interpretation)—
 
@@ -670,7 +670,7 @@ for the words “Social Security Act 1986” there shall be substituted the word
 
 [^c12203811]: Marginal citation: [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37).
 
-[^key-db267ae93fdcfda51e362e22c8adf04e]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/4) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+[^c-db267ae93fdcfda51e362e22c8adf04e]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/4) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
 
 [^c12203831]: Marginal citation: [1968 c. 14](https://www.legislation.gov.uk/ukpga/1968/14).
 
@@ -760,15 +760,15 @@ for the words “Social Security Act 1986” there shall be substituted the word
 
 [^c12204311]: Marginal citation: [1980 c. 30](https://www.legislation.gov.uk/ukpga/1980/30).
 
-[^key-90da944bc0ac0f749cd1e57722c1e0d2]: Textual amendment: [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/60) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-90da944bc0ac0f749cd1e57722c1e0d2]: Textual amendment: [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/60) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c12204341]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
 [^c12204351]: Marginal citation: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27).
 
-[^key-f9887092e05e4ba54fde9f84de543321]: Textual amendment: Sch. 2 para. 63(1)(2) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/a)
+[^c-f9887092e05e4ba54fde9f84de543321]: Textual amendment: Sch. 2 para. 63(1)(2) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/a)
 
-[^key-747164765b165d8e3804e92c2d9ac7dd]: Textual amendment: Sch. 2 para. 63(3)(a) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/a)
+[^c-747164765b165d8e3804e92c2d9ac7dd]: Textual amendment: Sch. 2 para. 63(3)(a) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/a)
 
 [^c12204371]: Marginal citation: [1982 c. 49](https://www.legislation.gov.uk/ukpga/1982/49).
 
@@ -778,11 +778,11 @@ for the words “Social Security Act 1986” there shall be substituted the word
 
 [^c12204411]: Textual amendment: [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/67) repealed (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 188](https://www.legislation.gov.uk/ukpga/1993/48/section/188), [Sch. 5 Pt.I](https://www.legislation.gov.uk/ukpga/1993/48/schedule/5/part/I) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-b950b623a790ca77f742cb8660518b3a]: Textual amendment: [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/69) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-b950b623a790ca77f742cb8660518b3a]: Textual amendment: [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/69) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c12204431]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-daad3e8bf6abd93d0c7bbaae1d858898]: Textual amendment: [Sch. 2 para. 73](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/73) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-daad3e8bf6abd93d0c7bbaae1d858898]: Textual amendment: [Sch. 2 para. 73](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/73) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
 [^c12204481]: Textual amendment: [Sch. 2 para. 74](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/74) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191))
 
@@ -806,7 +806,7 @@ for the words “Social Security Act 1986” there shall be substituted the word
 
 [^c12204581]: Marginal citation: [1987 c. 47](https://www.legislation.gov.uk/ukpga/1987/47).
 
-[^key-fd5d13cadbca2281657bd1663106776d]: Textual amendment: [Sch. 2 para. 93](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/93) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-fd5d13cadbca2281657bd1663106776d]: Textual amendment: [Sch. 2 para. 93](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/93) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c12204601]: Marginal citation: [1988 c. 7](https://www.legislation.gov.uk/ukpga/1988/7).
 
@@ -830,4 +830,4 @@ for the words “Social Security Act 1986” there shall be substituted the word
 
 [^c12204721]: Marginal citation: [1990 c. 27](https://www.legislation.gov.uk/ukpga/1990/27).
 
-[^key-8c53d76eca6fd836077de9b9430ac6b7]: Textual amendment: Sch. 2 para. 113 repealed (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/e)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
+[^c-8c53d76eca6fd836077de9b9430ac6b7]: Textual amendment: Sch. 2 para. 113 repealed (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/e)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)

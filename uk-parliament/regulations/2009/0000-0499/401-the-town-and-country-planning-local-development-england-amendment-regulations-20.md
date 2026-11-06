@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Local Development) (England) (Amendment) Regulations 2009 (revoked)[^key-3230f1bed674afefd99db802e8b4e6d5]
+The Town and Country Planning (Local Development) (England) (Amendment) Regulations 2009 (revoked)[^c-3230f1bed674afefd99db802e8b4e6d5]
 
 Made
 
@@ -44,24 +44,24 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-3230f1bed674afefd99db802e8b4e6d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3230f1bed674afefd99db802e8b4e6d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3230f1bed674afefd99db802e8b4e6d5]
+## 1. Citation and commencement[^c-3230f1bed674afefd99db802e8b4e6d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Local Development) (England) Regulations 2004[^key-3230f1bed674afefd99db802e8b4e6d5]
+## 2. Amendment of the Town and Country Planning (Local Development) (England) Regulations 2004[^c-3230f1bed674afefd99db802e8b4e6d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3230f1bed674afefd99db802e8b4e6d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3230f1bed674afefd99db802e8b4e6d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3230f1bed674afefd99db802e8b4e6d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3230f1bed674afefd99db802e8b4e6d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3230f1bed674afefd99db802e8b4e6d5]: Textual amendment: Regulations revoked (6.4.2012) by [The Town and Country Planning (Local Planning) (England) Regulations 2012 (S.I. 2012/767)](https://www.legislation.gov.uk/uksi/2012/767), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/767/regulation/1/1), [37(c)](https://www.legislation.gov.uk/uksi/2012/767/regulation/37/c) (with [regs. 2(2)(3)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/2/3), [38](https://www.legislation.gov.uk/uksi/2012/767/regulation/38))
+[^c-3230f1bed674afefd99db802e8b4e6d5]: Textual amendment: Regulations revoked (6.4.2012) by [The Town and Country Planning (Local Planning) (England) Regulations 2012 (S.I. 2012/767)](https://www.legislation.gov.uk/uksi/2012/767), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/767/regulation/1/1), [37(c)](https://www.legislation.gov.uk/uksi/2012/767/regulation/37/c) (with [regs. 2(2)(3)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/2/3), [38](https://www.legislation.gov.uk/uksi/2012/767/regulation/38))

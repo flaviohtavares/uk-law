@@ -44,15 +44,15 @@ The Department of Finance[^f00001] makes the following Order in exercise of the 
 
 In accordance with Article 7(4)[^f00003] of that Order it has taken into consideration estimates of the amounts to be raised by district rates.
 
-## 1. Citation and commencement[^key-a2042123d13fe1b59b1d0d1d84f16fcd]
+## 1. Citation and commencement[^c-a2042123d13fe1b59b1d0d1d84f16fcd]
 
 This Order may be cited as the Rates (Regional Rates) Order (Northern Ireland) 2024 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
-## 2. Application[^key-1112daee936b14379634deba2c56c468]
+## 2. Application[^c-1112daee936b14379634deba2c56c468]
 
 This Order shall apply in respect of the year ending 31st March 2025.
 
-## 3. Regional Rates[^key-b6f71677e01c0216e304c11865bb712d]
+## 3. Regional Rates[^c-b6f71677e01c0216e304c11865bb712d]
 
 (1) The regional rate to be levied on the rateable net annual values of hereditaments shall be 29.02 pence in the pound.
 
@@ -82,8 +82,8 @@ Hereditaments which are dwelling-houses, private garages and private storage pre
 
 [^f00003]: Footnote: Article 7(4) was amended by Article 10 of, and paragraph 1 of Schedule 2, to the Rates (Amendment) (Northern Ireland) Order 1998 ([S.I. 1998/3164 (N.I. 22))](https://www.legislation.gov.uk/nisi/1998/3164)
 
-[^key-a2042123d13fe1b59b1d0d1d84f16fcd]: Commencement: Art. 1 in operation at 13.3.2024 with application in accordance with art. 2
+[^c-a2042123d13fe1b59b1d0d1d84f16fcd]: Commencement: Art. 1 in operation at 13.3.2024 with application in accordance with art. 2
 
-[^key-1112daee936b14379634deba2c56c468]: Commencement: Art. 2 in operation at 13.3.2024 with application in accordance with art. 2
+[^c-1112daee936b14379634deba2c56c468]: Commencement: Art. 2 in operation at 13.3.2024 with application in accordance with art. 2
 
-[^key-b6f71677e01c0216e304c11865bb712d]: Commencement: Art. 3 in operation at 13.3.2024 with application in accordance with art. 2
+[^c-b6f71677e01c0216e304c11865bb712d]: Commencement: Art. 3 in operation at 13.3.2024 with application in accordance with art. 2

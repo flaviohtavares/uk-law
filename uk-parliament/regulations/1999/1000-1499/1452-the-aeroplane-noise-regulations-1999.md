@@ -42,11 +42,11 @@ Whereas a draft of these Regulations has been approved by a resolution of each H
 
 The Secretary of State for the Environment, Transport and the Regions, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to air transport, in exercise of the powers conferred by that section, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-2c5b5597e95defa80a19e108bafd0db8]
+## 1. Citation and commencement[^c-2c5b5597e95defa80a19e108bafd0db8]
 
 These Regulations may be cited as the Aeroplane Noise Regulations 1999 and shall come into force on the seventh day after the day on which they are made.
 
-## 2. Revocation and amendment[^key-28340c833b26e9598152f2a661a539ae]
+## 2. Revocation and amendment[^c-28340c833b26e9598152f2a661a539ae]
 
 (1) The Aeroplane Noise (Limitation on Operation of Aeroplanes) Regulations 1993[^f00003] and the Aeroplane Noise (Limitation on Operation of Aeroplanes) (Amendment) Regulations 1994[^f00004] are hereby revoked.
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Aeroplane Noise Regulations 1999 and shall
 - (f) in Schedule 1, in Part I, paragraphs 3(1) and (2) and 4 shall be omitted, and
 - (g) in Schedule 1, Parts II, III, IV and VI shall be omitted.
 
-## 3. Interpretation[^key-8eb49d8bab4eff8f00d4686055c9f321]
+## 3. Interpretation[^c-8eb49d8bab4eff8f00d4686055c9f321]
 
 In these Regulations—
 
@@ -78,7 +78,7 @@ In these Regulations—
 - “authorised person” means any constable and any person authorised by the CAA (whether by name or by class or description) either generally or in relation to a particular case or class of cases;
 - “the CAA” means the Civil Aviation Authority;
 - “certificate of airworthiness” has the same meaning as in article 118(1) of the Air Navigation (No. 2) Order 1995[^f00007];
-- “Community air carrier” means an air carrier with a valid operating licence granted by a member State or EEA State or Switzerland[^key-eaecc53b11b0706d7c03be1236158f57] in accordance with Council Regulation [(EEC) No. 2407/92](https://www.legislation.gov.uk/european/regulation/1992/2407) of 23 July 1992 on licensing air carriers[^f00008] , as that Regulation has effect in accordance with the EEA Agreement, as amended by the Decision of the EEA Joint Committee No. 7/94 of 21st March 1994, and in accordance with the Decision of the Council, and of the Commission as regards the Agreement on Scientific and Technological co-operation, of 4th April 2002 on the conclusion of seven Agreements with the Swiss Confederation, in so far as it applies to the Agreement between[^M_F_7d6b2a8a-1c64-4f49-9503-a4c450d0c4a7] the European Union[^key-c7d79bcfb5cf70225784611ea176acc5] and the Swiss Confederation on Air Transport;
+- “Community air carrier” means an air carrier with a valid operating licence granted by a member State or EEA State or Switzerland[^c-eaecc53b11b0706d7c03be1236158f57] in accordance with Council Regulation [(EEC) No. 2407/92](https://www.legislation.gov.uk/european/regulation/1992/2407) of 23 July 1992 on licensing air carriers[^f00008] , as that Regulation has effect in accordance with the EEA Agreement, as amended by the Decision of the EEA Joint Committee No. 7/94 of 21st March 1994, and in accordance with the Decision of the Council, and of the Commission as regards the Agreement on Scientific and Technological co-operation, of 4th April 2002 on the conclusion of seven Agreements with the Swiss Confederation, in so far as it applies to the Agreement between[^M_F_7d6b2a8a-1c64-4f49-9503-a4c450d0c4a7] the European Union[^c-c7d79bcfb5cf70225784611ea176acc5] and the Swiss Confederation on Air Transport;
 - “the Convention” means the Convention on International Civil Aviation signed on behalf of the United Kingdom at Chicago on 7th December 1944[^f00009];
 - “the 1989 Council Directive” means Council Directive [89/629/EEC](https://www.legislation.gov.uk/european/directive/1989/0629) of 4th December 1989[^f00010] on the limitation of noise emission from civil subsonic jet aeroplanes;
 - “the 1992 Council Directive” means Council Directive [92/14/EEC](https://www.legislation.gov.uk/european/directive/1992/0014) of 2 March 1992[^f00011] on the limitation of the operation of aeroplanes covered by Part II, Chapter 2, Volume 1 of Annex 16 as amended by Council Directive [98/20/EC](https://www.legislation.gov.uk/european/directive/1998/0020) of 30 March 1998[^f00012];
@@ -93,11 +93,11 @@ In these Regulations—
 - “Volume 1 of Annex 16/1981” means the first edition—1981 of Volume 1 of Annex 16 to the Convention[^f00014];
 - “Volume 1 of Annex 16/1988” means the second edition—1988 of Annex 16 to the Convention[^f00015].
 
-## 4. Noise certificate requirements for UK registered propeller driven aeroplanes[^key-f8f3e065441ed4f33eb125f6a3d911da]
+## 4. Noise certificate requirements for UK registered propeller driven aeroplanes[^c-f8f3e065441ed4f33eb125f6a3d911da]
 
 (1) This regulation shall apply to any civil propeller-driven aeroplane registered in the United Kingdom and falling within one of the categories set out in Volume 1 of Annex 16/1981.
 
-(2) Subject to regulation 6, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^key-bede0a4693a4c0fb049ef425a597b477] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that—
+(2) Subject to regulation 6, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^c-bede0a4693a4c0fb049ef425a597b477] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that—
 
 - (a) in the case of an aeroplane with a maximum certificated take-off mass which exceeds 5,700 kilograms, other than an aeroplane to which sub-paragraphs (e), (f) or (g) applies, which in the opinion of the CAA—
   - (i)
@@ -150,9 +150,9 @@ In these Regulations—
   the areoplane, if it is unable to meet the standards specified in Part II, Chapter 10 of Volume I of Annex 16/1988, meets the standards specified in Part II, Chapter 6 of Volume I of Annex 16/1988;
 - (j) in the case of any other aeroplane, the aeroplane complies with requirements which are at least equal to the applicable standards specified in Part II, Chapters 2, 5 or 6 of Volume 1 of Annex 16/1981.
 
-**5.**[^key-ceaa923b2737673163c4613dc13aa3a8] (1) Subject to paragraph (3), this regulation shall apply to any civil propeller-driven aeroplane with a maximum certificated take-off mass not exceeding 5,700 kilograms first registered in the United Kingdom on or after 24th July 1980 and not falling within one of the categories set out in Volume 1 of Annex 16/1981.
+**5.**[^c-ceaa923b2737673163c4613dc13aa3a8] (1) Subject to paragraph (3), this regulation shall apply to any civil propeller-driven aeroplane with a maximum certificated take-off mass not exceeding 5,700 kilograms first registered in the United Kingdom on or after 24th July 1980 and not falling within one of the categories set out in Volume 1 of Annex 16/1981.
 
-(2) Subject to regulation 6, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^key-5624d5a7aa9a74c81a520da1ea0953e0] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying—
+(2) Subject to regulation 6, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^c-5624d5a7aa9a74c81a520da1ea0953e0] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying—
 
 - (a) in the case of an aeroplane which in the opinion of the CAA—
   - (i) conforms to a prototype aeroplane being a prototype in respect of which the CAA accepted an application for a certificate of airworthiness on or after 1 January 1975 and before 17 November 1988, or
@@ -179,49 +179,49 @@ In these Regulations—
 - (b) any aeroplane which has been used before 1st July 1979 by a Community air carrier under a hire purchase or leasing contract concluded by that date, and which for this reason, has been registered in a State other than that in which it is used, or
 - (c) any aeroplane of historic interest.
 
-## 6. Exemptions for UK registered propeller driven aeroplanes[^key-dc14d49a20249656804b05b630146455]
+## 6. Exemptions for UK registered propeller driven aeroplanes[^c-dc14d49a20249656804b05b630146455]
 
-(1) After consultation with the Secretary of State the CAA may grant an exemption from the requirements of paragraph (2) of regulation 4 or paragraph (2) of regulation 5 to permit, in exceptional individual cases, temporary use in the United Kingdom [^key-60e14b54fc417f1a7bcf7a27fc1f3edd]... of aeroplanes which could not otherwise lawfully be operated on the basis of those regulations or paragraph (2).
+(1) After consultation with the Secretary of State the CAA may grant an exemption from the requirements of paragraph (2) of regulation 4 or paragraph (2) of regulation 5 to permit, in exceptional individual cases, temporary use in the United Kingdom [^c-60e14b54fc417f1a7bcf7a27fc1f3edd]... of aeroplanes which could not otherwise lawfully be operated on the basis of those regulations or paragraph (2).
 
-(2) After consulation with the Secretary of State the CAA may grant an exemption from the requirements of paragraph (2) of regulation 4 to authorise the use of any aeroplane with a maximum certificated take-off mass exceeding 5,700 kilograms which is specially designed and manufactured in very few units, and used for the transportation of aeronautical industry products of exceptional sizes, and which cannot be put into service on the basis of that regulation provided that use is restricted to the United Kingdom [^key-d95d33d0bc98410ad4ca3c514f0fa773]....
+(2) After consulation with the Secretary of State the CAA may grant an exemption from the requirements of paragraph (2) of regulation 4 to authorise the use of any aeroplane with a maximum certificated take-off mass exceeding 5,700 kilograms which is specially designed and manufactured in very few units, and used for the transportation of aeronautical industry products of exceptional sizes, and which cannot be put into service on the basis of that regulation provided that use is restricted to the United Kingdom [^c-d95d33d0bc98410ad4ca3c514f0fa773]....
 
-## 7. Noise certificate requirements for foreign registered propeller driven aeroplanes[^key-a7b36a34706e53b8cca1ac53a9914784]
+## 7. Noise certificate requirements for foreign registered propeller driven aeroplanes[^c-a7b36a34706e53b8cca1ac53a9914784]
 
-(1) Subject to paragraphs (2) and (3) no civil propeller driven aeroplane registered otherwise than in the United Kingdom [^key-fc9e901639aa7fa13b80f975acd17339]... shall land or take-off in the United Kingdom unless there is in force in respect of that aeroplane a noise certificate granted by the competent authority of the State of registry on the basis of satisfactory evidence that the aeroplane complies with requirements which are at least as stringent as those which the aeroplane, were it on the register of the United Kingdom, would be required to meet by virtue of regulation 4 or 5.
+(1) Subject to paragraphs (2) and (3) no civil propeller driven aeroplane registered otherwise than in the United Kingdom [^c-fc9e901639aa7fa13b80f975acd17339]... shall land or take-off in the United Kingdom unless there is in force in respect of that aeroplane a noise certificate granted by the competent authority of the State of registry on the basis of satisfactory evidence that the aeroplane complies with requirements which are at least as stringent as those which the aeroplane, were it on the register of the United Kingdom, would be required to meet by virtue of regulation 4 or 5.
 
 (2) After consultation with the Secretary of State the CAA may grant an exception from the requirements of paragraph (1) to permit, in exceptional cases, temporary use in the United Kingdom of aeroplanes which could not otherwise lawfully be operated on the basis of that paragraph or paragraph (3).
 
 (3) After consultation with the Secretary of State the CAA may grant an exemption from the requirements of paragraph (1) to authorise the use of any aeroplane with a maximum certificated take-off mass exceeding 5,700 kilograms which is specially designed and manufactured in very few units, and used for the transportation of aeronautical industry products of exceptional sizes, and which cannot be put into service on the basis of that paragraph.
 
-## 8. Noise certificate requirements for civil subsonic jet aeroplanes[^key-e871bdb7a61bd0947076be6449b2bdb3]
+## 8. Noise certificate requirements for civil subsonic jet aeroplanes[^c-e871bdb7a61bd0947076be6449b2bdb3]
 
 (1) Subject to paragraph (3), this regulation shall apply to any civil subsonic jet aeroplane registered in the United Kingdom and falling within one of the categories set out in Volume 1 of Annex 16/1981.
 
-(2) Subject to regulation 25, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^key-815f1ec76134a3b59bd832e56cd1549c] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that the aeroplane complies with requirements which are at least equal to the applicable standards specified in Part II, Chapters 2 or 3 of Volume 1 of Annex 16/1981.
+(2) Subject to regulation 25, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^c-815f1ec76134a3b59bd832e56cd1549c] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that the aeroplane complies with requirements which are at least equal to the applicable standards specified in Part II, Chapters 2 or 3 of Volume 1 of Annex 16/1981.
 
 (3) This regulation shall not apply to any aeroplane to which regulation 10 or 12 or, on or after 1 April 2002, regulation 14 applies but it shall apply to any such aeroplane for the time being exempted from the requirements of any of those regulations if that aeroplane would otherwise fall within the description set out in paragraph (1).
 
-**9.**[^key-5d19350fc3d6ae2b75fc896fa4746241] (1) Subject to paragraph (3), this regulation shall apply to any civil subsonic jet aeroplane registered in the United Kingdom.
+**9.**[^c-5d19350fc3d6ae2b75fc896fa4746241] (1) Subject to paragraph (3), this regulation shall apply to any civil subsonic jet aeroplane registered in the United Kingdom.
 
-(2) Subject to regulation 25, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^key-0476fa146a708cf1e11f0f9e7e5aecba] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 2, of Volume 1 of Annex 16/1981.
+(2) Subject to regulation 25, an aeroplane to which this regulation applies shall not be used in the United Kingdom[^c-0476fa146a708cf1e11f0f9e7e5aecba] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 2, of Volume 1 of Annex 16/1981.
 
 (3) This regulation shall not apply to any aeroplane to which regulation 8, 10 or 12 or, on or after 1 April 2002, regulation 14 applies but it shall apply to any such aeroplane for the time being exempted from the requirements of paragraph (2) of regulation 10, paragraph (2) of regulation 12 or paragraph (2) of regulation 14 if that aeroplane would otherwise fall within the description set out in paragraph (1).
 
-**10.**[^key-e5ff655cca2cb7705ffd95ae13d6e0ef] (1) Subject to paragraph (3), this regulation shall apply to any civil subsonic jet aeroplane, registered in the United Kingdom after 1st November 1990, which has a maximum take-off mass of more than 34,000 kilograms and a capacity of more than 19 seats and powered by engines having a by-pass ratio of less than 2.
+**10.**[^c-e5ff655cca2cb7705ffd95ae13d6e0ef] (1) Subject to paragraph (3), this regulation shall apply to any civil subsonic jet aeroplane, registered in the United Kingdom after 1st November 1990, which has a maximum take-off mass of more than 34,000 kilograms and a capacity of more than 19 seats and powered by engines having a by-pass ratio of less than 2.
 
 (2) Subject to regulations 21 and 22, an aeroplane to which this regulation applies shall not be operated in the territories of member States or EEA States or Switzerland[^M_F_7a1a441b-57e2-4442-c1be-3bee7e928a20] unless there is in force in respect of that aeroplane a noise certificate granted by the CAA certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 3, Volume 1 of Annex 16/1988.
 
 (3) This regulation shall not apply—
 
-- (a) to any aeroplane entered on the register of a member State or EEA State or Switzerland[^key-06b14ecc1688d05ecee6b7d5810be28c] on 1st November 1990,
+- (a) to any aeroplane entered on the register of a member State or EEA State or Switzerland[^c-06b14ecc1688d05ecee6b7d5810be28c] on 1st November 1990,
 - (b) to any aeroplane used only in the territories of the overseas departments,
 - (c) on or after 1st April 2002, to any aeroplane to which regulation 14 applies.
 
-**11.**[^key-8b871448ad31aac6c4fd87f24d2d0fe7] (1) Subject to paragraph (2) no civil subsonic jet aeroplane which is registered otherwise than in the United Kingdom [^key-063840b3767a9c3b4511ccad5bbcb468]... shall land or take-off in the United Kingdom unless there is in force in respect of that aeroplane a noise certificate granted by the competent authority of the State of registry certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 2, of Volume 1 of Annex 16/1981.
+**11.**[^c-8b871448ad31aac6c4fd87f24d2d0fe7] (1) Subject to paragraph (2) no civil subsonic jet aeroplane which is registered otherwise than in the United Kingdom [^c-063840b3767a9c3b4511ccad5bbcb468]... shall land or take-off in the United Kingdom unless there is in force in respect of that aeroplane a noise certificate granted by the competent authority of the State of registry certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 2, of Volume 1 of Annex 16/1981.
 
 (2) This regulation shall not apply to any aeroplane to which regulation 12 or, on or after 1st April 2002, regulation 14 applies but it shall apply to any such aeroplane for the time being exempted from the requirements of either of those regulations if that aeroplane would otherwise fall within the description set out in paragraph (1).
 
-**12.**[^key-7cdd56ef0522cac9947d7ea1084940f2] (1) Subject to paragraph (3) and to regulation 13, this regulation applies to any civil subsonic jet aeroplane with a maximum take-off mass of 34,000 kilograms or more or with a certified maximum internal accommodation for the aeroplane type in question of more than 19 passenger seats, excluding any seats for crew only, and in either case fitted with engines having a by-pass ratio of less than 2.
+**12.**[^c-7cdd56ef0522cac9947d7ea1084940f2] (1) Subject to paragraph (3) and to regulation 13, this regulation applies to any civil subsonic jet aeroplane with a maximum take-off mass of 34,000 kilograms or more or with a certified maximum internal accommodation for the aeroplane type in question of more than 19 passenger seats, excluding any seats for crew only, and in either case fitted with engines having a by-pass ratio of less than 2.
 
 (2) Subject to regulations 20 and 22 to 25 an aeroplane to which this regulation applies shall not be operated at any airport in the United Kingdom unless there is in force in respect of that aeroplane a noise certificate granted, in the case of an aeroplane registered in the United Kingdom by the CAA, in the case of an aeroplane registered in Gibraltar by the competent authority for Gibraltar and in the case of an aeroplane registered elsewhere by the competent authority of the State of registry, certifying that the aeroplane meets either—
 
@@ -230,25 +230,25 @@ In these Regulations—
 
 (3) This regulation shall not apply—
 
-- (a) to any aeroplane on the register of Switzerland or[^key-d91c9da3bc0ccedb5ed01bc281cc73f0] a member State or EEA State other than the United Kingdom in respect of which there is in force an exemption granted by that State pursuant to articles 4 to 7 of the 1992 Directive,
+- (a) to any aeroplane on the register of Switzerland or[^c-d91c9da3bc0ccedb5ed01bc281cc73f0] a member State or EEA State other than the United Kingdom in respect of which there is in force an exemption granted by that State pursuant to articles 4 to 7 of the 1992 Directive,
 - (b) to any aeroplane on a register kept for Gibraltar in respect of which there is in force an exemption granted by Gibraltar pursuant to articles 4 to 7 of the 1992 Directive,
 - (c) before 1st April 2002, to any aeroplane the subject of the 1989 Directive,
 - (d) on or after 1 April 2002, to any aeroplane to which regulation 14 applies.
 
-**13.**[^key-e5b611ea21433381ab3a66e41729dbb9] (1) Subject to paragraph (2), regulation 12 shall not apply in relation to any aeroplane listed in the Schedule to these Regulations insofar as—
+**13.**[^c-e5b611ea21433381ab3a66e41729dbb9] (1) Subject to paragraph (2), regulation 12 shall not apply in relation to any aeroplane listed in the Schedule to these Regulations insofar as—
 
-- (a) that aeroplane, having been granted noise certification to the standards specified in Part II, Chapter 2, Volume 1 of Annex 16/1988, operated into any airport in the territories of member States or EEA States or Switzerland[^key-b3142fc7850893c958ac1a47c572ddf2] in a twelve month reference period between 1986 and 1990 selected in conjunction with the States concerned, and
+- (a) that aeroplane, having been granted noise certification to the standards specified in Part II, Chapter 2, Volume 1 of Annex 16/1988, operated into any airport in the territories of member States or EEA States or Switzerland[^c-b3142fc7850893c958ac1a47c572ddf2] in a twelve month reference period between 1986 and 1990 selected in conjunction with the States concerned, and
 - (b) that aeroplane was on the register of the developing nation shown for that aeroplane in the Schedule to these Regulations in that twelve month reference period and continues to be used either directly or under any form of lease agreement by a natural or legal person established in that nation.
 
 (2) Paragraph (1) shall not apply in relation to an aeroplane listed in the Schedule to these Regulations where that aeroplane is leased to a natural or legal person who is not established in the developing nation shown for that aeroplane in the said Schedule.
 
-**14.**[^key-60b45120b33a564c9cc0c91f942e986c] (1) Subject to paragraph (3), this regulation applies to any civil subsonic jet aeroplane with a maximum take-off mass of 34,000 kilograms or more or with a certified maximum internal accommodation for the aeroplane type in question of more than 19 passenger seats, excluding any seats for crew only.
+**14.**[^c-60b45120b33a564c9cc0c91f942e986c] (1) Subject to paragraph (3), this regulation applies to any civil subsonic jet aeroplane with a maximum take-off mass of 34,000 kilograms or more or with a certified maximum internal accommodation for the aeroplane type in question of more than 19 passenger seats, excluding any seats for crew only.
 
 (2) Subject to regulations 22 and 25, an aeroplane to which this regulation applies shall not be operated at any airport in the United Kingdom on or after 1st April 2002 unless there is in force in respect of that aeroplane a noise certificate granted, in the case of an aeroplane registered in the United Kingdom by the CAA, in the case of an aeroplane registered in Gibraltar by the competent authority for Gibraltar and in the case of an aeroplane registered elsewhere by the competent authority of the State of registry, certifying that the aeroplane complies with requirements which meet the standards specified in Part II, Chapter 3, Volume 1 of Annex 16/1988.
 
-(3)[^key-91b94dc77ad39ead3ddee377a6fcb837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-91b94dc77ad39ead3ddee377a6fcb837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Content of noise certificates[^key-2fdf53c1a2297d723bca9476011245dc]
+## 15. Content of noise certificates[^c-2fdf53c1a2297d723bca9476011245dc]
 
 The noise certificate referred to in regulations 4 and 5 and 7 to 9 shall provide at least the following information—
 
@@ -259,7 +259,7 @@ The noise certificate referred to in regulations 4 and 5 and 7 to 9 shall provid
 - (e) the maximum mass at which compliance with the applicable noise certification standards has been demonstrated, and
 - (f) for aeroplanes for which application or certification is submitted on or after 6 October 1977: the noise level or levels and their 90 per cent confidence limits at the reference point or points for which compliance with the applicable noise certification standards has been demonstrated.
 
-## 16. Grant of noise certificates by the CAA[^key-3d11cfbdb744e17e2bc24cbb60a69452]
+## 16. Grant of noise certificates by the CAA[^c-3d11cfbdb744e17e2bc24cbb60a69452]
 
 (1) The CAA shall grant a noise certificate in respect of any aeroplane registered in the United Kingdom to which these Regulations apply if it is satisfied on the basis of satisfactory evidence that the aeroplane complies with the standard specified for that aeroplane in these Regulations.
 
@@ -279,7 +279,7 @@ exceeds 5 years, the date on which the application was made shall be deemed to b
 - (a) at such time as the aeroplane or any part of it is modified, in any way which affects the ability of the aeroplane to comply with the noise standard required by these Regulations, otherwise than in a manner and with material of a type approved by the CAA either generally or in relation to a class of aeroplane or to a particular aeroplane, and
 - (b) until the completion of any inspection or test of the aeroplane required by the CAA to be made, which shows that the aeroplane complies with the noise standard required by these Regulations.
 
-## 17. Suspension and revocation of noise certificates and exemptions by the CAA[^key-fc55e0b346a7a2196a04cdf5fde9348e]
+## 17. Suspension and revocation of noise certificates and exemptions by the CAA[^c-fc55e0b346a7a2196a04cdf5fde9348e]
 
 (1) The CAA may, if it thinks fit, provisionally suspend or vary any noise certificate or provisionally suspend any exemption granted by it under these Regulations pending inquiry into or consideration of the case. Subject to regulation 26, the CAA may, after sufficient ground being shown to its satisfaction after due inquiry, revoke or vary any such certificate or revoke any such exemption.
 
@@ -287,19 +287,19 @@ exceeds 5 years, the date on which the application was made shall be deemed to b
 
 (3) The breach of any condition subject to which any noise certificate has been granted by the CAA under these Regulations shall render the certificate invalid during the continuance of the breach.
 
-## 18. Carriage and production of noise certificate[^key-2ab36e7fc4159e547e242d3900245d6c]
+## 18. Carriage and production of noise certificate[^c-2ab36e7fc4159e547e242d3900245d6c]
 
-(1) An aeroplane to which regulation 4, 5, 8, 9 or 10 applies shall not be used in the United Kingdom[^key-df1612e01dc027516089d0cc16c6bd84] unless the noise certificate required by these Regulations to be in force in respect of that aeroplane is carried on board the aeroplane.
+(1) An aeroplane to which regulation 4, 5, 8, 9 or 10 applies shall not be used in the United Kingdom[^c-df1612e01dc027516089d0cc16c6bd84] unless the noise certificate required by these Regulations to be in force in respect of that aeroplane is carried on board the aeroplane.
 
 (2) An aeroplane to which regulation 7, 11, 12 or 14 applies shall not take off from or land in the United Kingdom unless the noise certificate required by these Regulations to be in force in respect of that aeroplane is carried on board the aeroplane.
 
 (3) The commander of an aeroplane shall, within a reasonable time after being requested to do so by the CAA or an authorised person, cause to be produced to the CAA or that person the noise certificate in force in respect of that aeroplane.
 
-## 19. Recognition of noise certificates and exemptions issued by other member States or EEA States[^key-c4f69673ab0ff137b1eb9239d1434ecb]
+## 19. Recognition of noise certificates and exemptions issued by other member States or EEA States[^c-c4f69673ab0ff137b1eb9239d1434ecb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Exemption for jet aeroplanes subject to conversion[^key-88ec147f5407b01bc1e141835cf04a83]
+## 20. Exemption for jet aeroplanes subject to conversion[^c-88ec147f5407b01bc1e141835cf04a83]
 
 The CAA shall grant an exemption from the requirements of paragraph (2) of regulation 12 in relation to any aeroplane which does not meet the standards of Chapter 3 of Volume 1 of Annex 16/1988 but which can be altered to meet those standards provided that—
 
@@ -308,7 +308,7 @@ The CAA shall grant an exemption from the requirements of paragraph (2) of regul
 - (c) the equipment was ordered by 1st April 1994, and
 - (d) the earliest delivery date for such alterations was accepted.
 
-## 21. Exemption where jet aeroplanes accidentally destroyed[^key-73931ad3130fcb5f2a77e3a768ac65f3]
+## 21. Exemption where jet aeroplanes accidentally destroyed[^c-73931ad3130fcb5f2a77e3a768ac65f3]
 
 (1) After consultation with the Secretary of State, the CAA may grant an exemption from the requirements of paragraph (2) of regulation 10 in relation to an aeroplane which replaces one which has been accidentally destroyed provided that the requirements contained in paragraph (2) are satisfied.
 
@@ -319,15 +319,15 @@ The CAA shall grant an exemption from the requirements of paragraph (2) of regul
   - (ii) in respect of which there is in force a noise certificate certifying that the aeroplane meets the standards referred to in paragraph (2) of regulation 10, and
 - (b) the registration of the replacement aeroplane in the United Kingdom is carried out within one year of the date on which the replaced aeroplane was accidentally destroyed.
 
-## 22. Exemption for jet aeroplanes of historical interest[^key-067ae812eee63f5c9ca7ffde2454e004]
+## 22. Exemption for jet aeroplanes of historical interest[^c-067ae812eee63f5c9ca7ffde2454e004]
 
 After consultation with the Secretary of State, the CAA may grant an exemption from the requirements of paragraph (2) of regulation 10, paragraph (2) of regulation 12 or paragraph (2) of regulation 14 in relation to any aeroplane of historical interest.
 
-## 23. Exemption where air carrier’s operations adversely affected to an unreasonable extent[^key-03bd2ae61d2cb598e47eb7266254449a]
+## 23. Exemption where air carrier’s operations adversely affected to an unreasonable extent[^c-03bd2ae61d2cb598e47eb7266254449a]
 
 After consultation with the Secretary of State, the CAA may grant an exemption from the 25 year period specified in regulation 12(2)(b) for not more than three years in total in relation to any aeroplane in respect of which an air carrier demonstrates that the pursuit of its operations would otherwise be adversely affected to an unreasonable extent.
 
-## 24. Exemption to permit phasing of deletions from register[^key-41f6c073470efb28a27ad1c8f6771d10]
+## 24. Exemption to permit phasing of deletions from register[^c-41f6c073470efb28a27ad1c8f6771d10]
 
 (1) Subject to the approval of the CAA after the CAA has consulted with the Secretary of State, nothing in paragraph (2) of regulation 12 shall require the deletion from the United Kingdom register of aeroplanes which do not meet the standards of Chapter 3 of Volume 1 of Annex 16/1988 at an annual rate equivalent to more than 10% of the total civil subsonic jet fleet of a Community air carrier.
 
@@ -335,9 +335,9 @@ After consultation with the Secretary of State, the CAA may grant an exemption f
 
 (3) For the purposes of paragraph (2) “equivalent exemption” means an exemption having effect equivalent to the effect of the provisions of paragraph (1).
 
-## 25. Temporary exemption for jet aeroplanes[^key-3c71d8a1e9a44683ab2cde65a79b0909]
+## 25. Temporary exemption for jet aeroplanes[^c-3c71d8a1e9a44683ab2cde65a79b0909]
 
-(1) After consultation with the Secretary of State, the CAA may grant an exemption from the requirements of paragraph (2) of regulation 8 or paragraph (2) of regulation 9 to permit, in exceptional individual cases, temporary use in the United Kingdom [^key-a75db74f62be2393bfcb0a10a220f159]... of aeroplanes which could not otherwise lawfully be operated on the basis of that regulation.
+(1) After consultation with the Secretary of State, the CAA may grant an exemption from the requirements of paragraph (2) of regulation 8 or paragraph (2) of regulation 9 to permit, in exceptional individual cases, temporary use in the United Kingdom [^c-a75db74f62be2393bfcb0a10a220f159]... of aeroplanes which could not otherwise lawfully be operated on the basis of that regulation.
 
 (2) Subject to paragraph (3), after consultation with the Secretary of State, the CAA may grant an exemption from the requirements of paragraph (2) of regulation 12 or paragraph (2) of regulation 14 to permit the temporary use at any airport situated in the United Kingdom of any aeroplane which could not otherwise lawfully be operated on the basis of regulations 12, 14 or 22 to 24.
 
@@ -346,7 +346,7 @@ After consultation with the Secretary of State, the CAA may grant an exemption f
 - (a) the operations of the aeroplane are of such an exceptional nature that it would be unreasonable to withhold such an exemption; or
 - (b) the aeroplane is being operated on a non-revenue flight for the purposes of alterations, repair or maintenance.
 
-## 26. Review of CAA decisions[^key-7ef35046eff185c7355da47b350f373c]
+## 26. Review of CAA decisions[^c-7ef35046eff185c7355da47b350f373c]
 
 (1) A decision by the CAA to—
 
@@ -371,11 +371,11 @@ and where the person is a body corporate the document may be served on the secre
 
 (5) In this regulation “vary a noise certificate” means the addition, omission or variation of any conditions subject to which a noise certificate may be granted.
 
-## 27. CAA’s duty in relation to exemptions[^key-a29fab88ebd565b9bbd215be85866767]
+## 27. CAA’s duty in relation to exemptions[^c-a29fab88ebd565b9bbd215be85866767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Power to prevent aeroplanes flying[^key-351c641a74c35207bccd6ffaa7eeac75]
+## 28. Power to prevent aeroplanes flying[^c-351c641a74c35207bccd6ffaa7eeac75]
 
 Where the CAA or an authorised person has reason to believe that an aeroplane is intended to be operated by any person without the noise certificate required to be in force in respect of that aeroplane the CAA or the authorised person may—
 
@@ -384,7 +384,7 @@ Where the CAA or an authorised person has reason to believe that an aeroplane is
 
 and a person, who, without reasonable excuse, fails to comply with a direction given to him in pursuance of this regulation shall be guilty of an offence.
 
-## 29. Right of access to airports and other places[^key-55a1e18a7f0b634c39f0f6a37ae7a6e3]
+## 29. Right of access to airports and other places[^c-55a1e18a7f0b634c39f0f6a37ae7a6e3]
 
 (1) Subject to paragraph (2), for the purposes of ascertaining whether the provisions of these Regulations are being complied with, the CAA and any authorised person, upon production (if required) of his credentials, shall have the right of access at all reasonable times to any airport or any other place in the United Kingdom where an aeroplane has landed for the purpose of inspecting that aeroplane or any noise certificate required to be in force in respect of that aeroplane or for the purpose of detaining that aeroplane under regulation 28.
 
@@ -392,15 +392,15 @@ and a person, who, without reasonable excuse, fails to comply with a direction g
 
 (3) Any person who intentionally obstructs or impedes any person acting in the exercise of his powers or the performance of his duties under this regulation shall be guilty of an offence.
 
-## 30. Circumvention[^key-f8df11f3816e9ef437da1584e95a326f]
+## 30. Circumvention[^c-f8df11f3816e9ef437da1584e95a326f]
 
-(1) This regulation shall apply to any civil subsonic jet aeroplane not registered in any member State or EEA State or Switzerland[^key-e5c55b0c43ad339d761a777f46a97744] which has a maximum take-off mass of more than 34,000 kilograms and a capacity of more than 19 seats, powered by engines having a by-pass ratio of less than 2 and for which there is not in force a noise certificate certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 3, Volume 1 of Annex 16/1988.
+(1) This regulation shall apply to any civil subsonic jet aeroplane not registered in any member State or EEA State or Switzerland[^c-e5c55b0c43ad339d761a777f46a97744] which has a maximum take-off mass of more than 34,000 kilograms and a capacity of more than 19 seats, powered by engines having a by-pass ratio of less than 2 and for which there is not in force a noise certificate certifying that the aeroplane complies with requirements which are at least equal to the standards specified in Part II, Chapter 3, Volume 1 of Annex 16/1988.
 
 (2) An aeroplane to which this regulation applies shall not be operated in the United Kingdom if its operation would have the effect of circumventing regulation 10(2).
 
 (3) Any person who agrees any form of leasing agreement which has the effect referred to in paragraph (2) shall be guilty of an offence.
 
-## 31. Penalties[^key-902615cb6e629f6c86bdcbc1238dbc6a]
+## 31. Penalties[^c-902615cb6e629f6c86bdcbc1238dbc6a]
 
 (1) If any provision of these Regulations is contravened in relation to an aeroplane the operator of that aeroplane and the commander thereof shall (without prejudice to the liability of any other person under these Regulations for that contravention) be deemed for the purposes of the following provisions of this regulation to have contravened that provision unless he proves that the contravention occurred without his consent or connivance and that he exercised all due diligence to prevent the contravention.
 
@@ -410,7 +410,7 @@ and a person, who, without reasonable excuse, fails to comply with a direction g
 
 (4) If any person contravenes any other provision of these Regulations, he shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-## 32. Liability of persons other than principal offender[^key-a1983ead9fa61bbf21b1416a741c7592]
+## 32. Liability of persons other than principal offender[^c-a1983ead9fa61bbf21b1416a741c7592]
 
 (1) Where an offence under these Regulations has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
 
@@ -426,7 +426,7 @@ Parliamentary Under Secretary of State,Department of the Environment,Transport a
 
 20th May 1999
 
-## THE SCHEDULE — LIST OF AEROPLANES FROM DEVELOPING NATIONS[^key-94d938428fbd06d1dc20f9c303b312af]
+## THE SCHEDULE — LIST OF AEROPLANES FROM DEVELOPING NATIONS[^c-94d938428fbd06d1dc20f9c303b312af]
 
 Regulation 13
 
@@ -462,7 +462,7 @@ Regulation 13
 
 | Serial No. | Type | Registration | Operator |
 | --- | --- | --- | --- |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
 | 19916 | B707-328C | SU-PBB | Air Memphis |
 | 21194 | B737-266 | SU-AYK | Egypt Air |
 | 21195 | B737-266 | SU-AYL | Egypt Air |
@@ -481,8 +481,8 @@ Regulation 13
 | Serial No. | Type | Registration | Operator |
 | --- | --- | --- | --- |
 | 20259 | B707-3B4C | OD-AFD | MEA |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
 | 19589 | B707-323C | OD-AHC | MEA |
 | 19515 | B707-323C | OD-AHD | MEA |
 | 20170 | B707-323B | OD-AHF | MEA |
@@ -499,7 +499,7 @@ Regulation 13
 | Serial No. | Type | Registration | Operator |
 | --- | --- | --- | --- |
 | 45683 | DC8F-55 | EL-AJO | Liberia World Airlines |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
 
 **LIBYA**
 
@@ -522,17 +522,17 @@ Regulation 13
 
 | Serial No. | Type | Registration | Operator |
 | --- | --- | --- | --- |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
 
 **NIGERIA**
 
 | Serial No. | Type | Registration | Operator |
 | --- | --- | --- | --- |
 | 18809 | B707-338C | 5N-ARQ | DAS Air Cargo |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
 
 **PAKISTAN**
 
@@ -578,8 +578,8 @@ Regulation 13
 
 | Serial No. | Type | Registration | Operator |
 | --- | --- | --- | --- |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
-| [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . | [^key-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
+| [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . | [^c-78cec23546ac1705b3c684a3889af480]. . . |
 
 (This note is not part of the Regulations)
 
@@ -633,9 +633,9 @@ Copies of the Chicago Convention and of Volume 1 of Annex 16 (both 1981 and 1988
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-2c5b5597e95defa80a19e108bafd0db8]: Commencement: Reg. 1 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-2c5b5597e95defa80a19e108bafd0db8]: Commencement: Reg. 1 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-28340c833b26e9598152f2a661a539ae]: Commencement: Reg. 2 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-28340c833b26e9598152f2a661a539ae]: Commencement: Reg. 2 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
 [^f00003]: Footnote: S.I. [1993/1409](https://www.legislation.gov.uk/uksi/1993/1409).
 
@@ -645,17 +645,17 @@ Copies of the Chicago Convention and of Volume 1 of Annex 16 (both 1981 and 1988
 
 [^f00006]: Footnote: S.I. 1999/xxxx.
 
-[^key-8eb49d8bab4eff8f00d4686055c9f321]: Commencement: Reg. 3 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-8eb49d8bab4eff8f00d4686055c9f321]: Commencement: Reg. 3 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
 [^f00007]: Footnote: S.I. [1995/1970](https://www.legislation.gov.uk/uksi/1995/1970), to which there are amendments not relevant to these Regulations.
 
-[^key-eaecc53b11b0706d7c03be1236158f57]: Textual amendment: Words in reg. 3 inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/a/b)
+[^c-eaecc53b11b0706d7c03be1236158f57]: Textual amendment: Words in reg. 3 inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/a/b)
 
 [^f00008]: Footnote: O.J. No. L 240, 24.8.92, p.1—extended to EEA States by the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 (Cm 2073 and 2183) as amended by the decision of the EEA Joint Committee No. 7/94 of 21 March 1994 (O.J. L 160, 28.6.94, p.1).
 
 [^M_F_7d6b2a8a-1c64-4f49-9503-a4c450d0c4a7]: Textual amendment: Words in reg. 3 inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/a/b)
 
-[^key-c7d79bcfb5cf70225784611ea176acc5]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-c7d79bcfb5cf70225784611ea176acc5]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^f00009]: Footnote: 7th edition published in 1997 by the International Civil Aviation Organisation, reference Doc. 7300/7.
 
@@ -671,98 +671,98 @@ Copies of the Chicago Convention and of Volume 1 of Annex 16 (both 1981 and 1988
 
 [^f00015]: Footnote: This Annex is published by the International Civil Aviation Organisation. The second edition of Volume 1 of this Annex was published in 1988.
 
-[^key-f8f3e065441ed4f33eb125f6a3d911da]: Commencement: Reg. 4 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-f8f3e065441ed4f33eb125f6a3d911da]: Commencement: Reg. 4 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-bede0a4693a4c0fb049ef425a597b477]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/4/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bede0a4693a4c0fb049ef425a597b477]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/4/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ceaa923b2737673163c4613dc13aa3a8]: Commencement: Reg. 5 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-ceaa923b2737673163c4613dc13aa3a8]: Commencement: Reg. 5 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-5624d5a7aa9a74c81a520da1ea0953e0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/5/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5624d5a7aa9a74c81a520da1ea0953e0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/5/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc14d49a20249656804b05b630146455]: Commencement: Reg. 6 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-dc14d49a20249656804b05b630146455]: Commencement: Reg. 6 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-60e14b54fc417f1a7bcf7a27fc1f3edd]: Textual amendment: Words in reg. 6(1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60e14b54fc417f1a7bcf7a27fc1f3edd]: Textual amendment: Words in reg. 6(1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d95d33d0bc98410ad4ca3c514f0fa773]: Textual amendment: Words in reg. 6(2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d95d33d0bc98410ad4ca3c514f0fa773]: Textual amendment: Words in reg. 6(2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a7b36a34706e53b8cca1ac53a9914784]: Commencement: Reg. 7 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-a7b36a34706e53b8cca1ac53a9914784]: Commencement: Reg. 7 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-fc9e901639aa7fa13b80f975acd17339]: Textual amendment: Words in reg. 7(1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc9e901639aa7fa13b80f975acd17339]: Textual amendment: Words in reg. 7(1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e871bdb7a61bd0947076be6449b2bdb3]: Commencement: Reg. 8 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-e871bdb7a61bd0947076be6449b2bdb3]: Commencement: Reg. 8 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-815f1ec76134a3b59bd832e56cd1549c]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/8/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-815f1ec76134a3b59bd832e56cd1549c]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/8/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d19350fc3d6ae2b75fc896fa4746241]: Commencement: Reg. 9 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-5d19350fc3d6ae2b75fc896fa4746241]: Commencement: Reg. 9 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-0476fa146a708cf1e11f0f9e7e5aecba]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0476fa146a708cf1e11f0f9e7e5aecba]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5ff655cca2cb7705ffd95ae13d6e0ef]: Commencement: Reg. 10 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-e5ff655cca2cb7705ffd95ae13d6e0ef]: Commencement: Reg. 10 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
 [^M_F_7a1a441b-57e2-4442-c1be-3bee7e928a20]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/10/3/a) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/a)
 
-[^key-06b14ecc1688d05ecee6b7d5810be28c]: Textual amendment: Words in [reg. 10(3)(a)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/10/3/a) inserted (1.6.2004) by The EC/[Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/c)
+[^c-06b14ecc1688d05ecee6b7d5810be28c]: Textual amendment: Words in [reg. 10(3)(a)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/10/3/a) inserted (1.6.2004) by The EC/[Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/c)
 
-[^key-8b871448ad31aac6c4fd87f24d2d0fe7]: Commencement: Reg. 11 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-8b871448ad31aac6c4fd87f24d2d0fe7]: Commencement: Reg. 11 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-063840b3767a9c3b4511ccad5bbcb468]: Textual amendment: Words in reg. 11(1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-063840b3767a9c3b4511ccad5bbcb468]: Textual amendment: Words in reg. 11(1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7cdd56ef0522cac9947d7ea1084940f2]: Commencement: Reg. 12 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-7cdd56ef0522cac9947d7ea1084940f2]: Commencement: Reg. 12 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-d91c9da3bc0ccedb5ed01bc281cc73f0]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/12/3/a) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/e)
+[^c-d91c9da3bc0ccedb5ed01bc281cc73f0]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/12/3/a) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/e)
 
-[^key-e5b611ea21433381ab3a66e41729dbb9]: Commencement: Reg. 13 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-e5b611ea21433381ab3a66e41729dbb9]: Commencement: Reg. 13 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-b3142fc7850893c958ac1a47c572ddf2]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/13/1/a) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/c)
+[^c-b3142fc7850893c958ac1a47c572ddf2]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/13/1/a) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/c)
 
-[^key-60b45120b33a564c9cc0c91f942e986c]: Commencement: Reg. 14 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-60b45120b33a564c9cc0c91f942e986c]: Commencement: Reg. 14 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-91b94dc77ad39ead3ddee377a6fcb837]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/14/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91b94dc77ad39ead3ddee377a6fcb837]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/14/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2fdf53c1a2297d723bca9476011245dc]: Commencement: Reg. 15 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-2fdf53c1a2297d723bca9476011245dc]: Commencement: Reg. 15 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-3d11cfbdb744e17e2bc24cbb60a69452]: Commencement: Reg. 16 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-3d11cfbdb744e17e2bc24cbb60a69452]: Commencement: Reg. 16 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-fc55e0b346a7a2196a04cdf5fde9348e]: Commencement: Reg. 17 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-fc55e0b346a7a2196a04cdf5fde9348e]: Commencement: Reg. 17 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-2ab36e7fc4159e547e242d3900245d6c]: Commencement: Reg. 18 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-2ab36e7fc4159e547e242d3900245d6c]: Commencement: Reg. 18 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-df1612e01dc027516089d0cc16c6bd84]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/18/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df1612e01dc027516089d0cc16c6bd84]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/18/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4f69673ab0ff137b1eb9239d1434ecb]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/1452/regulation/19) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4f69673ab0ff137b1eb9239d1434ecb]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/1452/regulation/19) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88ec147f5407b01bc1e141835cf04a83]: Commencement: Reg. 20 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-88ec147f5407b01bc1e141835cf04a83]: Commencement: Reg. 20 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-73931ad3130fcb5f2a77e3a768ac65f3]: Commencement: Reg. 21 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-73931ad3130fcb5f2a77e3a768ac65f3]: Commencement: Reg. 21 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-067ae812eee63f5c9ca7ffde2454e004]: Commencement: Reg. 22 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-067ae812eee63f5c9ca7ffde2454e004]: Commencement: Reg. 22 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-03bd2ae61d2cb598e47eb7266254449a]: Commencement: Reg. 23 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-03bd2ae61d2cb598e47eb7266254449a]: Commencement: Reg. 23 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-41f6c073470efb28a27ad1c8f6771d10]: Commencement: Reg. 24 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-41f6c073470efb28a27ad1c8f6771d10]: Commencement: Reg. 24 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-3c71d8a1e9a44683ab2cde65a79b0909]: Commencement: Reg. 25 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-3c71d8a1e9a44683ab2cde65a79b0909]: Commencement: Reg. 25 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-a75db74f62be2393bfcb0a10a220f159]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/25/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a75db74f62be2393bfcb0a10a220f159]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/25/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ef35046eff185c7355da47b350f373c]: Commencement: Reg. 26 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-7ef35046eff185c7355da47b350f373c]: Commencement: Reg. 26 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-a29fab88ebd565b9bbd215be85866767]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/1452/regulation/27) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a29fab88ebd565b9bbd215be85866767]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/1452/regulation/27) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2019/643/regulation/2/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-351c641a74c35207bccd6ffaa7eeac75]: Commencement: Reg. 28 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-351c641a74c35207bccd6ffaa7eeac75]: Commencement: Reg. 28 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-55a1e18a7f0b634c39f0f6a37ae7a6e3]: Commencement: Reg. 29 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-55a1e18a7f0b634c39f0f6a37ae7a6e3]: Commencement: Reg. 29 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-f8df11f3816e9ef437da1584e95a326f]: Commencement: Reg. 30 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-f8df11f3816e9ef437da1584e95a326f]: Commencement: Reg. 30 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-e5c55b0c43ad339d761a777f46a97744]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/30/1) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/a)
+[^c-e5c55b0c43ad339d761a777f46a97744]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/1999/1452/regulation/30/1) inserted (1.6.2004) by [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004 (S.I. 2004/1256)](https://www.legislation.gov.uk/uksi/2004/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1256/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/1256/regulation/9/a)
 
-[^key-902615cb6e629f6c86bdcbc1238dbc6a]: Commencement: Reg. 31 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-902615cb6e629f6c86bdcbc1238dbc6a]: Commencement: Reg. 31 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-a1983ead9fa61bbf21b1416a741c7592]: Commencement: Reg. 32 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-a1983ead9fa61bbf21b1416a741c7592]: Commencement: Reg. 32 in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-94d938428fbd06d1dc20f9c303b312af]: Commencement: Sch. in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
+[^c-94d938428fbd06d1dc20f9c303b312af]: Commencement: Sch. in force at 27.5.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1452/regulation/1)
 
-[^key-78cec23546ac1705b3c684a3889af480]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1999/1452/schedule) entries omitted (16.8.1999) by virtue of [The Aeroplane Noise (Amendment) Regulations 1999 (S.I. 1999/2253)](https://www.legislation.gov.uk/uksi/1999/2253), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2253/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2253/regulation/2)
+[^c-78cec23546ac1705b3c684a3889af480]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1999/1452/schedule) entries omitted (16.8.1999) by virtue of [The Aeroplane Noise (Amendment) Regulations 1999 (S.I. 1999/2253)](https://www.legislation.gov.uk/uksi/1999/2253), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2253/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2253/regulation/2)
 
 [^f00016]: Footnote: O.J. No. L 18, 24.1.80, p.26 and O.J. L 117, 4.5.83, p.15.

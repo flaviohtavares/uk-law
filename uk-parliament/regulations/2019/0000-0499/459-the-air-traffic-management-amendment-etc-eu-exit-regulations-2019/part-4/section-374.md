@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 374. Commission Implementing Decision of 8.10.2012[^key-d08d27fb9497306180f41be7718c0734]
+## 374. Commission Implementing Decision of 8.10.2012[^c-d08d27fb9497306180f41be7718c0734]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision of 8.10.2012 on the adoption of the European Un
 
 ## Annotations
 
-[^key-d08d27fb9497306180f41be7718c0734]: Commencement: Reg. 374 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d08d27fb9497306180f41be7718c0734]: Commencement: Reg. 374 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

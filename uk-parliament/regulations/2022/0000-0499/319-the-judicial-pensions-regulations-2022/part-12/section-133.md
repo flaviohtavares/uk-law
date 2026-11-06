@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Financial provision[^key-cd3d53e32e8ac62cf74708bd432a3320]
+## 133. Financial provision[^c-cd3d53e32e8ac62cf74708bd432a3320]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Any pension or lump sum payable under this scheme to or in respect of a person w
 
 ## Annotations
 
-[^key-cd3d53e32e8ac62cf74708bd432a3320]: Commencement: Reg. 133 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-cd3d53e32e8ac62cf74708bd432a3320]: Commencement: Reg. 133 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00048]: Footnote: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE ZA2 — Moratorium: contract or other instrument involving financial services[^key-0b8a54e3c8ca5a384a2ea3d58bdb983f]
+## SCHEDULE ZA2 — Moratorium: contract or other instrument involving financial services[^c-0b8a54e3c8ca5a384a2ea3d58bdb983f]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,4 +131,4 @@ This paragraph applies to a contract to accept and process card-based payment tr
 
 ## Annotations
 
-[^key-0b8a54e3c8ca5a384a2ea3d58bdb983f]: Textual amendment: Sch. ZA2 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-0b8a54e3c8ca5a384a2ea3d58bdb983f]: Textual amendment: Sch. ZA2 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

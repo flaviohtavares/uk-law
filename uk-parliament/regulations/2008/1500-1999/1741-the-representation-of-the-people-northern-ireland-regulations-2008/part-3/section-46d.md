@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46D. Retained register entries: household notice[^key-9fe690657bacec6a279b94d896b76067]
+## 46D. Retained register entries: household notice[^c-9fe690657bacec6a279b94d896b76067]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fe690657bacec6a279b94d896b76067]: Textual amendment: Regs. 46C-46F inserted (24.1.2025) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2025 (S.I. 2025/71)](https://www.legislation.gov.uk/uksi/2025/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/71/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/71/regulation/6)
+[^c-9fe690657bacec6a279b94d896b76067]: Textual amendment: Regs. 46C-46F inserted (24.1.2025) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2025 (S.I. 2025/71)](https://www.legislation.gov.uk/uksi/2025/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/71/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/71/regulation/6)

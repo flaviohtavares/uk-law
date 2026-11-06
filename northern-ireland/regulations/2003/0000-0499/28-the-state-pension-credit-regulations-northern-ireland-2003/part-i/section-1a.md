@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1A. Disapplication of section 1(1A) of the Administration Act[^key-a387c5101b3636d263b356c21b5456ff]
+## 1A. Disapplication of section 1(1A) of the Administration Act[^c-a387c5101b3636d263b356c21b5456ff]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Section 1(1A) of the Administration Act (requirement to state national insurance
 
 ## Annotations
 
-[^key-a387c5101b3636d263b356c21b5456ff]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2003/28/regulation/1A) inserted (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2009 (S.R. 2009/90)](https://www.legislation.gov.uk/nisr/2009/90), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/90/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2009/90/regulation/8)
+[^c-a387c5101b3636d263b356c21b5456ff]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2003/28/regulation/1A) inserted (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2009 (S.R. 2009/90)](https://www.legislation.gov.uk/nisr/2009/90), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/90/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2009/90/regulation/8)

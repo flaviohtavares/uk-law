@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Power to amend jurisdiction in relation to trusts[^key-bb334cdc0342cd74c6f25b48addffbd7][^key-b0ef5787b59f9f9edca836475538a6e7]
+## 82. Power to amend jurisdiction in relation to trusts[^c-bb334cdc0342cd74c6f25b48addffbd7][^c-b0ef5787b59f9f9edca836475538a6e7]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb334cdc0342cd74c6f25b48addffbd7]: Commencement: S. 82 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-bb334cdc0342cd74c6f25b48addffbd7]: Commencement: S. 82 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-b0ef5787b59f9f9edca836475538a6e7]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2024/2/section/82) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-b0ef5787b59f9f9edca836475538a6e7]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2024/2/section/82) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335.[^key-42bc24707a3b568763396e06b2ac4e72]
+## 335.[^c-42bc24707a3b568763396e06b2ac4e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Annex, in the Note, in the final sentence, omit “Community”.
 
 ## Annotations
 
-[^key-42bc24707a3b568763396e06b2ac4e72]: Commencement: Reg. 335 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-42bc24707a3b568763396e06b2ac4e72]: Commencement: Reg. 335 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

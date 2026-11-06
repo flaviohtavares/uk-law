@@ -125,22 +125,22 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter and scope
 
-1. This Regulation provides for the application of requirements derived from[^key-f87ede07b902a39a7793231948d3e001] the first common project, hereinafter referred to as the ‘Pilot Common Project’. The Pilot Common Project identifies a first set of ATM functionalities to be deployed in timely, coordinated and synchronised way so as to achieve the essential operational changes stemming from the European ATM Master Plan.
+1. This Regulation provides for the application of requirements derived from[^c-f87ede07b902a39a7793231948d3e001] the first common project, hereinafter referred to as the ‘Pilot Common Project’. The Pilot Common Project identifies a first set of ATM functionalities to be deployed in timely, coordinated and synchronised way so as to achieve the essential operational changes stemming from the European ATM Master Plan.
 
-2. This Regulation shall apply to the United Kingdom Air Traffic Management System (UK ATMS)[^key-42fcb0ced1138f4b1b15e920eec89c1b]. It shall apply to the stakeholders identified in the Annex to this Regulation.
+2. This Regulation shall apply to the United Kingdom Air Traffic Management System (UK ATMS)[^c-42fcb0ced1138f4b1b15e920eec89c1b]. It shall apply to the stakeholders identified in the Annex to this Regulation.
 
 ## Article 2. Definitions
 
-For the purpose of this Regulation, the definitions set out in Article 2 of Regulation (EC) No 549/2004 and in Article 2 of Commission Regulation (EU) No 677/2011[^key-9ced5ec30acf4813a9949febf3a2247e] shall apply. However, the definition of ‘operational stakeholders’ in Article 2(27) of Commission Regulation (EU) No 677/2011 does not apply.[^key-ee06f3fb7f1a6da0d876704e0acd7f19]
+For the purpose of this Regulation, the definitions set out in Article 2 of Regulation (EC) No 549/2004 and in Article 2 of Commission Regulation (EU) No 677/2011[^c-9ced5ec30acf4813a9949febf3a2247e] shall apply. However, the definition of ‘operational stakeholders’ in Article 2(27) of Commission Regulation (EU) No 677/2011 does not apply.[^c-ee06f3fb7f1a6da0d876704e0acd7f19]
 
 In addition, the following definitions shall apply:
 
 - ((1)) ‘Airport — Collaborative Decision Making (A-CDM)’ means a process in which decisions related to Air Traffic Flow and Capacity Management (hereinafter: ‘ATFCM’) at airports are made based on interaction between operational stakeholders and other actors involved in ATFCM and which aims at reducing delays, improving the predictability of events and optimising the utilisation of resources;
 - ((2)) ‘Airport Operations Plan (AOP)’ means a single, common and collaboratively agreed rolling plan available to all airport stakeholders whose purpose is to provide common situational awareness and to form the basis upon which stakeholder decisions relating to process optimisation can be made;
-- ((3)) [^key-8e707f2edf3e29eb52f7ede955ee7ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((3)) [^c-8e707f2edf3e29eb52f7ede955ee7ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((4)) ‘to operate an ATM functionality’ means that the ATM functionality in question is put in service and that it is fully used in daily operations;
 - ((5)) ‘deployment target date’ means the date by which the deployment of the ATM functionality in question is to be completed and fully used operationally.
-- ((6)) ‘ATM functionality’ means a group of ATM operational functions or services related to trajectory, airspace and surface management or to information sharing within the en-route, terminal, airport or network operating environments;[^key-b62ad60c3be5b0bf224f40d1be2dcab8]
+- ((6)) ‘ATM functionality’ means a group of ATM operational functions or services related to trajectory, airspace and surface management or to information sharing within the en-route, terminal, airport or network operating environments;[^c-b62ad60c3be5b0bf224f40d1be2dcab8]
 - ((7)) ‘industrialisation’ of ATM functionalities means the activities and processes, following their validation that include standardisation, certification and production by the manufacturing industry (ground and airborne equipment manufacturers);
 - ((8)) ‘implementation’ of ATM functionalities means the procurement, installation and putting into service of equipment and systems, including associated operational procedures, carried out by operational stakeholders;
 - ((9)) ‘essential operational change’ means an Air Traffic Management (ATM) operational change that provides significant network performance improvements to the operational stakeholders, as referred to in the ATM Master Plan;
@@ -148,7 +148,7 @@ In addition, the following definitions shall apply:
 
 ## Article 3. ATM functionalities and their deployment
 
-1. The Pilot Common Project comprises[^key-fcca87a688407a9a6a4875266d2e67f7] the following ATM functionalities:
+1. The Pilot Common Project comprises[^c-fcca87a688407a9a6a4875266d2e67f7] the following ATM functionalities:
 
 - (a) Extended Arrival Management and Performance Based Navigation in the High Density Terminal Manoeuvring Areas;
 - (b) Airport Integration and Throughput;
@@ -159,25 +159,25 @@ In addition, the following definitions shall apply:
 
 Those ATM functionalities are described in the Annex.
 
-2. The operational stakeholders identified in the Annex [^key-103eb426a403a9fd853b32309fa32176]..., shall deploy the ATM functionalities referred to in paragraph 1 and implement the associated operational procedures allowing their seamless operation in accordance with the Annex [^key-db55a93a9b78898afa1881f14e8e556e].... The military operational stakeholders shall deploy those ATM functionalities only to the extent necessary for effective airspace and air traffic flow management, and the safe and efficient use of airspace by all users, through the application of the concept of flexible use of airspace; whilst taking into account national security considerations[^key-29769a9f3defae9dac8f78d6d310bcc8].
+2. The operational stakeholders identified in the Annex [^c-103eb426a403a9fd853b32309fa32176]..., shall deploy the ATM functionalities referred to in paragraph 1 and implement the associated operational procedures allowing their seamless operation in accordance with the Annex [^c-db55a93a9b78898afa1881f14e8e556e].... The military operational stakeholders shall deploy those ATM functionalities only to the extent necessary for effective airspace and air traffic flow management, and the safe and efficient use of airspace by all users, through the application of the concept of flexible use of airspace; whilst taking into account national security considerations[^c-29769a9f3defae9dac8f78d6d310bcc8].
 
-## Article 4. Reference and supporting material[^key-73be207562041d6a3dd211a5966b7454]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 5. Monitoring[^key-46757c888fe6cab29d8444e05ba791a0]
+## Article 4. Reference and supporting material[^c-73be207562041d6a3dd211a5966b7454]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Review[^key-f82a698ef279382cd210699e45e4b523]
+## Article 5. Monitoring[^c-46757c888fe6cab29d8444e05ba791a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-77637bb37d1251550898a84b78e034ca]
+## Article 6. Review[^c-f82a698ef279382cd210699e45e4b523]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-def9d7e3f11a843ba7b402ad743962be]...
+## Article 7. Entry into force[^c-77637bb37d1251550898a84b78e034ca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-def9d7e3f11a843ba7b402ad743962be]...
 
 Done at Brussels, 27 June 2014.
 
@@ -249,16 +249,16 @@ ATC systems and ATC Safety Nets shall enable the Terminal Area and Approach PBN 
 
 1.2.1.
 
-[^key-ba7942e4e278f9f389ce256d4615e2f1]...
+[^c-ba7942e4e278f9f389ce256d4615e2f1]...
 
 Extended AMAN and PBN in high density TMAs and associated en-route sectors shall be operated at the following airports:
 
-- London-Heathrow[^key-53633e19ffaa6a50bff09308b6bff6c0]
+- London-Heathrow[^c-53633e19ffaa6a50bff09308b6bff6c0]
 - London-Gatwick
 - London-Stansted
 - Manchester Ringway
 
-[^key-1a6d464a5d20b326eb9ddc2abadc9ea2]1.2.2.
+[^c-1a6d464a5d20b326eb9ddc2abadc9ea2]1.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -266,7 +266,7 @@ Extended AMAN and PBN in high density TMAs and associated en-route sectors shall
 
 **Stakeholders required to implement the functionality and deployment target date**
 
-ATS providers [^key-a47ceb50fc3beee3f9c6f756ce038663]... shall ensure that ATS units providing ATC services within the terminal airspace of the airports referred to in point 1.2 and the associated en-route sectors operate Extended AMAN and PBN in high density TMAs as from 31 December 2027[^key-b7b1439d711ff963a0c2e0032747312e].
+ATS providers [^c-a47ceb50fc3beee3f9c6f756ce038663]... shall ensure that ATS units providing ATC services within the terminal airspace of the airports referred to in point 1.2 and the associated en-route sectors operate Extended AMAN and PBN in high density TMAs as from 31 December 2027[^c-b7b1439d711ff963a0c2e0032747312e].
 
 1.4.
 
@@ -387,22 +387,22 @@ Airport Safety Nets tools shall alert air traffic controllers when aircraft and 
 
 2.2.1.
 
-[^key-2db8025ac80f943264cbd638a02b4920]...
+[^c-2db8025ac80f943264cbd638a02b4920]...
 
 Departure Management Synchronised with Pre-departure sequencing, Departure Management integrating Surface Management Constraints, Automated Assistance to Controller for Surface Movement Planning and Routing and Airport Safety Nets shall be operated at the following airports:
 
-- London-Heathrow[^key-e273d6976171008322ef253f09cf218e]
+- London-Heathrow[^c-e273d6976171008322ef253f09cf218e]
 - London-Gatwick
 - London-Stansted
 - Manchester Ringway
 
 Time-Based Separation for Final Approach shall be operated at the following airports:
 
-- London-Heathrow[^key-331b1ddebf4baa2bdda9abb14544ffd5]
+- London-Heathrow[^c-331b1ddebf4baa2bdda9abb14544ffd5]
 - London-Gatwick
 - Manchester Ringway
 
-[^key-e64d4ab400e5a675a7720b58b7233ce6]2.2.2.
+[^c-e64d4ab400e5a675a7720b58b7233ce6]2.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -412,11 +412,11 @@ Time-Based Separation for Final Approach shall be operated at the following airp
 
 ATS providers and airport operators providing services at the airports as referred to in point 2.2 shall operate:
 
-- Departure Management Synchronised with Pre-departure sequencing as from 31 December 2025[^key-c538bfe12fedd29898523b9f86de435f]
-- Departure Management integrating Surface Management Constraints as from 31 December 2029[^key-c93c5f7d5a51f72e8e34ffd994d19398]
-- Time-Based Separation for Final Approach as from 1 January 2025[^key-e2d37a252739fedabf90699fb0c34342]
-- Automated Assistance to Controller for Surface Movement Planning and Routing as from 31 December 2029[^key-05b5cb0e73cfed8580ba46ef90eb1e05]
-- Airport Safety Nets as from 31 December 2029[^key-f105ac23811a4939cabc2b7ce31dfb7d]
+- Departure Management Synchronised with Pre-departure sequencing as from 31 December 2025[^c-c538bfe12fedd29898523b9f86de435f]
+- Departure Management integrating Surface Management Constraints as from 31 December 2029[^c-c93c5f7d5a51f72e8e34ffd994d19398]
+- Time-Based Separation for Final Approach as from 1 January 2025[^c-e2d37a252739fedabf90699fb0c34342]
+- Automated Assistance to Controller for Surface Movement Planning and Routing as from 31 December 2029[^c-05b5cb0e73cfed8580ba46ef90eb1e05]
+- Airport Safety Nets as from 31 December 2029[^c-f105ac23811a4939cabc2b7ce31dfb7d]
 
 2.4.
 
@@ -470,13 +470,13 @@ ASM solutions shall support all airspace users, including enabling the alignment
 
 *System requirements*
 
-- The ASM support system shall support the fixed and conditional route networks currently in place, as well as DCTs, FRA and flexible sector configurations; The system shall be able to respond to changing demands for airspace; [^key-ba98da3d878f485d3b19b8e13b5c65f8]... The system shall support cross-border activities, resulting in shared use of segregated airspace regardless of national boundaries
+- The ASM support system shall support the fixed and conditional route networks currently in place, as well as DCTs, FRA and flexible sector configurations; The system shall be able to respond to changing demands for airspace; [^c-ba98da3d878f485d3b19b8e13b5c65f8]... The system shall support cross-border activities, resulting in shared use of segregated airspace regardless of national boundaries
 - Airspace configurations shall be accessible via Network Manager systems, which shall contain the up-to-date and foreseen airspace configurations, to allow airspace users to file and modify their flight plans based on timely and accurate information
 - The ATC system shall support flexible configuration of sectors so that their dimensions and operating hours can be optimised according to the demands of the NOP
 - The system shall allow a continuous assessment of the impact of changing airspace configurations on the network
 - ATC systems shall correctly depict the activation and de-activation of configurable airspace reservations and the change of a volume of airspace from a fixed route network to FRA
 - The Flight Plan Processing System (IFPS) shall be modified to reflect the changes in the definition of airspace and routes so that the routes, flight-progress and associated information are available to ATC systems
-- The ASM, ATFCM and ATC systems shall securely interface in a way that allows the provision of air navigation services based on a common understanding of the airspace and traffic environment. The ATC systems shall be modified to enable this functionality to the extent necessary for effective airspace and air traffic flow management, and the safe and efficient use of airspace by all users, through the application of the concept of flexible use of airspace; whilst taking into account national security considerations[^key-0cd126708e0c58bbcd2b29e0e2837723].
+- The ASM, ATFCM and ATC systems shall securely interface in a way that allows the provision of air navigation services based on a common understanding of the airspace and traffic environment. The ATC systems shall be modified to enable this functionality to the extent necessary for effective airspace and air traffic flow management, and the safe and efficient use of airspace by all users, through the application of the concept of flexible use of airspace; whilst taking into account national security considerations[^c-0cd126708e0c58bbcd2b29e0e2837723].
 - Centralised Aeronautical Information Services (AIS) systems, such as the European AIS Database (EAD), shall make available environment data for flexible airspace structures to all involved operational stakeholders in a timely manner. This enables planning to be undertaken based on accurate information relevant to the time of the planned operations; Local AIS systems shall enable this capability and the upload of changing local data
 - Operational stakeholders shall be able to interface with the NOP as specified in Point 4; Interfaces shall be defined to allow dynamic data to be sent to operational stakeholder systems, and for those stakeholders to be able to communicate information in an accurate and timely manner; The systems of these stakeholders shall be modified to enable these interfaces
 
@@ -508,16 +508,16 @@ Free Route may be deployed both through the use of Direct Routing Airspace and t
 
 **Geographical scope**
 
-Flexible Airspace Management and Free Route shall be provided and operated in the airspace for which the United Kingdom is[^key-fbcaa4023f947b05d56b391156f6f7c2] responsible at and above flight level 310 in the ICAO EUR region.
+Flexible Airspace Management and Free Route shall be provided and operated in the airspace for which the United Kingdom is[^c-fbcaa4023f947b05d56b391156f6f7c2] responsible at and above flight level 310 in the ICAO EUR region.
 
 3.3.
 
 **Stakeholders required to implement the functionality and deployment target dates**
 
-Air[^key-9669e070c7fa033755e8f4c1be91c9f3] navigation service providers and airspace users shall operate:
+Air[^c-9669e070c7fa033755e8f4c1be91c9f3] navigation service providers and airspace users shall operate:
 
 - DCT as from 1 January 2018
-- FRA as from 31 December 2028[^key-bf727d0b0376f9ef1afc676d8b73029d]
+- FRA as from 31 December 2028[^c-bf727d0b0376f9ef1afc676d8b73029d]
 
 3.4.
 
@@ -531,11 +531,11 @@ The deployment of Flexible Airspace Management and Free Route functionality shal
 
 There are no prerequisites for this functionality.
 
-[^key-9b6c1fd82ebca790ffec9f42ad3de6bc]3.6.
+[^c-9b6c1fd82ebca790ffec9f42ad3de6bc]3.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3585120d6c72fe3ff53a2da3cd2f716]4.
+[^c-a3585120d6c72fe3ff53a2da3cd2f716]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -640,13 +640,13 @@ Operational stakeholders shall implement services which support the exchange of 
 
 Service implementations shall be compliant with the applicable version of AIRM, the AIRM Foundation Material and the ISRM Foundation Material.
 
-*[^key-a1d6ec956c79f8429b5ba7bffc5c69e5]...*
+*[^c-a1d6ec956c79f8429b5ba7bffc5c69e5]...*
 
 5.1.6.
 
 *Flight information exchange*
 
-Flight information shall be shared[^key-c2f3389c342e839f6c2ed5522cdf9c1d] during the pre-tactical and tactical phases by ATC systems with the[^key-e88a49fc116a25407ae702d7191a7152] Network Manager.
+Flight information shall be shared[^c-c2f3389c342e839f6c2ed5522cdf9c1d] during the pre-tactical and tactical phases by ATC systems with the[^c-e88a49fc116a25407ae702d7191a7152] Network Manager.
 
 Operational stakeholders shall implement services which support the exchange of the following flight information as indicated in the table below using the blue SWIM TI Profile:
 
@@ -670,7 +670,7 @@ Service implementations shall be compliant with the applicable version of AIRM, 
 
 **Geographical scope**
 
-iSWIM functionality shall be deployed in the UK ATMS[^key-fbaf72b7a583649a8a21b5ec36829975] as indicated in the table. [^key-80008634be0cb60c23e8cce87cafbf36]...
+iSWIM functionality shall be deployed in the UK ATMS[^c-fbaf72b7a583649a8a21b5ec36829975] as indicated in the table. [^c-80008634be0cb60c23e8cce87cafbf36]...
 
 <table>
 <tfoot>
@@ -685,13 +685,13 @@ iSWIM functionality shall be deployed in the UK ATMS[^key-fbaf72b7a583649a8a21b5
 </tbody>
 </table>
 
-[^key-bb5b70d58d49fdc70cc42ecca747bd5d][^f00016][^key-bb5b70d58d49fdc70cc42ecca747bd5d][^f00016][^key-bb5b70d58d49fdc70cc42ecca747bd5d][^key-bb5b70d58d49fdc70cc42ecca747bd5d][^key-bb5b70d58d49fdc70cc42ecca747bd5d]
+[^c-bb5b70d58d49fdc70cc42ecca747bd5d][^f00016][^c-bb5b70d58d49fdc70cc42ecca747bd5d][^f00016][^c-bb5b70d58d49fdc70cc42ecca747bd5d][^c-bb5b70d58d49fdc70cc42ecca747bd5d][^c-bb5b70d58d49fdc70cc42ecca747bd5d]
 
 5.3.
 
 **Stakeholders required to implement the functionality and deployment target date**
 
-Operational stakeholders [^key-9fb8d43b5eba15ed45ddb47fe7217ac0]... referred to in Point 5.2 shall provide and operate the iSWIM as of 31 December 2025[^key-1652765bd76b9fb426fa162ce9167baf].
+Operational stakeholders [^c-9fb8d43b5eba15ed45ddb47fe7217ac0]... referred to in Point 5.2 shall provide and operate the iSWIM as of 31 December 2025[^c-1652765bd76b9fb426fa162ce9167baf].
 
 5.4.
 
@@ -737,21 +737,21 @@ Trajectory information and target times shall be enhanced by the use of air-grou
 
 **Geographical scope**
 
-Initial Trajectory Information Sharing shall be deployed in all ATS units providing air traffic services within the airspace for which the United Kingdom is[^key-1608c9aca924ee453b0ce81f6e8ee4ab] responsible in the ICAO EUR region.
+Initial Trajectory Information Sharing shall be deployed in all ATS units providing air traffic services within the airspace for which the United Kingdom is[^c-1608c9aca924ee453b0ce81f6e8ee4ab] responsible in the ICAO EUR region.
 
 6.3.
 
 **Stakeholders required to implement the functionality and deployment target dates**
 
-ATS providers [^key-6ae12cb62c119f8e42ae4db2b9882772]... shall ensure that they enable Initial Trajectory Information Sharing as from 31 December 2027[^key-5613ae11a7aac5e9105175bf192f178a].
+ATS providers [^c-6ae12cb62c119f8e42ae4db2b9882772]... shall ensure that they enable Initial Trajectory Information Sharing as from 31 December 2027[^c-5613ae11a7aac5e9105175bf192f178a].
 
-[^key-b934d1d14d9c71619cc274684a21fe57]...
+[^c-b934d1d14d9c71619cc274684a21fe57]...
 
 6.4.
 
 **Need for synchronisation**
 
-The deployment of Initial Trajectory Information Sharing functionality shall be coordinated due to the potential network performance impact of delayed implementation in a wide geographical scope involving a number of stakeholders. From a technical perspective the deployment of targeted system and service delivery changes shall be synchronised to ensure that the performance objectives are met. This synchronisation shall enable changes targeted within ATM functionality referred to in section 1, 3 and 4 above as well as future common projects. Synchronisation shall involve all air navigation service providers, the Network Manager and airspace users (air-ground synchronisation need). [^key-b4615cf8540cf3af54f02682f7f075f2]... Furthermore, synchronisation during the related industrialisation phase shall take place, in particular among supply industry and standardisation and certification bodies.
+The deployment of Initial Trajectory Information Sharing functionality shall be coordinated due to the potential network performance impact of delayed implementation in a wide geographical scope involving a number of stakeholders. From a technical perspective the deployment of targeted system and service delivery changes shall be synchronised to ensure that the performance objectives are met. This synchronisation shall enable changes targeted within ATM functionality referred to in section 1, 3 and 4 above as well as future common projects. Synchronisation shall involve all air navigation service providers, the Network Manager and airspace users (air-ground synchronisation need). [^c-b4615cf8540cf3af54f02682f7f075f2]... Furthermore, synchronisation during the related industrialisation phase shall take place, in particular among supply industry and standardisation and certification bodies.
 
 6.5.
 
@@ -765,10 +765,10 @@ The data link capability as described in Commission Regulation (EC) No 29/2009 o
 
 - The down-linked aircraft trajectory may be used to enhance the AMAN functionality described in Point 1
 - Downlink trajectory information may be integrated into the Enhanced Short Term ATFCM Measures calculation and the Automated Support for Traffic Complexity Assessment as specified in Point 3
-- [^key-92c70fc7dc4b403e844fd0e08ab3131e]...
+- [^c-92c70fc7dc4b403e844fd0e08ab3131e]...
 - iSWIM referred to in Point 5 shall enable FDP to FDP exchange of down-linked trajectory information between ATS units
 
-Appendix[^key-a7fcc355fd3e6d8db5f576b421af94fd]
+Appendix[^c-a7fcc355fd3e6d8db5f576b421af94fd]
 
 Area Control Centres:
 
@@ -792,106 +792,106 @@ TMAs and Towers:
 
 [^f00005]: Footnote: Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) ([OJ L 96, 31.3.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.096.01.0001.01.ENG)).
 
-[^key-f87ede07b902a39a7793231948d3e001]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2014/716/article/1/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [333(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/333/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f87ede07b902a39a7793231948d3e001]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2014/716/article/1/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [333(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/333/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42fcb0ced1138f4b1b15e920eec89c1b]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2014/716/article/1/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [333(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/333/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42fcb0ced1138f4b1b15e920eec89c1b]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2014/716/article/1/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [333(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/333/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ced5ec30acf4813a9949febf3a2247e]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2014/716/article/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ced5ec30acf4813a9949febf3a2247e]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2014/716/article/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee06f3fb7f1a6da0d876704e0acd7f19]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2014/716/article/2) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee06f3fb7f1a6da0d876704e0acd7f19]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2014/716/article/2) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e707f2edf3e29eb52f7ede955ee7ebb]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2014/716/article/2/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e707f2edf3e29eb52f7ede955ee7ebb]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2014/716/article/2/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b62ad60c3be5b0bf224f40d1be2dcab8]: Textual amendment: Art. 2(6)-(10) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b62ad60c3be5b0bf224f40d1be2dcab8]: Textual amendment: Art. 2(6)-(10) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [334(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/334/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fcca87a688407a9a6a4875266d2e67f7]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2014/716/article/3/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fcca87a688407a9a6a4875266d2e67f7]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2014/716/article/3/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-103eb426a403a9fd853b32309fa32176]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2014/716/article/3/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(3)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-103eb426a403a9fd853b32309fa32176]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2014/716/article/3/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(3)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db55a93a9b78898afa1881f14e8e556e]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2014/716/article/3/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(3)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db55a93a9b78898afa1881f14e8e556e]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2014/716/article/3/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(3)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29769a9f3defae9dac8f78d6d310bcc8]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2014/716/article/3/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(3)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29769a9f3defae9dac8f78d6d310bcc8]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2014/716/article/3/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [335(3)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/335/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-73be207562041d6a3dd211a5966b7454]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2014/716/article/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [336](https://www.legislation.gov.uk/uksi/2019/459/regulation/336); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73be207562041d6a3dd211a5966b7454]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2014/716/article/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [336](https://www.legislation.gov.uk/uksi/2019/459/regulation/336); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46757c888fe6cab29d8444e05ba791a0]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2014/716/article/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [337](https://www.legislation.gov.uk/uksi/2019/459/regulation/337); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46757c888fe6cab29d8444e05ba791a0]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2014/716/article/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [337](https://www.legislation.gov.uk/uksi/2019/459/regulation/337); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f82a698ef279382cd210699e45e4b523]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2014/716/article/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [338](https://www.legislation.gov.uk/uksi/2019/459/regulation/338); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f82a698ef279382cd210699e45e4b523]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2014/716/article/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [338](https://www.legislation.gov.uk/uksi/2019/459/regulation/338); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77637bb37d1251550898a84b78e034ca]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2014/716/article/7) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [339](https://www.legislation.gov.uk/uksi/2019/459/regulation/339); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77637bb37d1251550898a84b78e034ca]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2014/716/article/7) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [339](https://www.legislation.gov.uk/uksi/2019/459/regulation/339); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-def9d7e3f11a843ba7b402ad743962be]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [340](https://www.legislation.gov.uk/uksi/2019/459/regulation/340); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-def9d7e3f11a843ba7b402ad743962be]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [340](https://www.legislation.gov.uk/uksi/2019/459/regulation/340); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba7942e4e278f9f389ce256d4615e2f1]: Textual amendment: Annex point 1.2.1 heading omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba7942e4e278f9f389ce256d4615e2f1]: Textual amendment: Annex point 1.2.1 heading omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53633e19ffaa6a50bff09308b6bff6c0]: Textual amendment: Words in Annex point 1.2.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53633e19ffaa6a50bff09308b6bff6c0]: Textual amendment: Words in Annex point 1.2.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a6d464a5d20b326eb9ddc2abadc9ea2]: Textual amendment: Annex point 1.2.2 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a6d464a5d20b326eb9ddc2abadc9ea2]: Textual amendment: Annex point 1.2.2 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a47ceb50fc3beee3f9c6f756ce038663]: Textual amendment: Words in Annex point 1.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a47ceb50fc3beee3f9c6f756ce038663]: Textual amendment: Words in Annex point 1.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7b1439d711ff963a0c2e0032747312e]: Textual amendment: Words in Annex point 1.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/211/regulation/3)
+[^c-b7b1439d711ff963a0c2e0032747312e]: Textual amendment: Words in Annex point 1.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/211/regulation/3)
 
-[^key-2db8025ac80f943264cbd638a02b4920]: Textual amendment: Annex point 2.2.1 heading omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(5)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2db8025ac80f943264cbd638a02b4920]: Textual amendment: Annex point 2.2.1 heading omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(5)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e273d6976171008322ef253f09cf218e]: Textual amendment: Words in Annex point 2.2.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(5)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e273d6976171008322ef253f09cf218e]: Textual amendment: Words in Annex point 2.2.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(5)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-331b1ddebf4baa2bdda9abb14544ffd5]: Textual amendment: Words in Annex point 2.2.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(5)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-331b1ddebf4baa2bdda9abb14544ffd5]: Textual amendment: Words in Annex point 2.2.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(5)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e64d4ab400e5a675a7720b58b7233ce6]: Textual amendment: Annex point 2.2.2 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(6)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e64d4ab400e5a675a7720b58b7233ce6]: Textual amendment: Annex point 2.2.2 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(6)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c538bfe12fedd29898523b9f86de435f]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/a)
+[^c-c538bfe12fedd29898523b9f86de435f]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/a)
 
-[^key-c93c5f7d5a51f72e8e34ffd994d19398]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/b)
+[^c-c93c5f7d5a51f72e8e34ffd994d19398]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/b)
 
-[^key-e2d37a252739fedabf90699fb0c34342]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/c)
+[^c-e2d37a252739fedabf90699fb0c34342]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/c)
 
-[^key-05b5cb0e73cfed8580ba46ef90eb1e05]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/d)
+[^c-05b5cb0e73cfed8580ba46ef90eb1e05]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/d)
 
-[^key-f105ac23811a4939cabc2b7ce31dfb7d]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/e)
+[^c-f105ac23811a4939cabc2b7ce31dfb7d]: Textual amendment: Words in Annex point 2.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2022/211/regulation/4/e)
 
-[^key-ba98da3d878f485d3b19b8e13b5c65f8]: Textual amendment: Words in Annex point 3.1.1 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(7)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba98da3d878f485d3b19b8e13b5c65f8]: Textual amendment: Words in Annex point 3.1.1 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(7)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0cd126708e0c58bbcd2b29e0e2837723]: Textual amendment: Words in Annex point 3.1.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(7)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cd126708e0c58bbcd2b29e0e2837723]: Textual amendment: Words in Annex point 3.1.1 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(7)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fbcaa4023f947b05d56b391156f6f7c2]: Textual amendment: Words in Annex point 3.2 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(8)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbcaa4023f947b05d56b391156f6f7c2]: Textual amendment: Words in Annex point 3.2 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(8)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9669e070c7fa033755e8f4c1be91c9f3]: Textual amendment: Word in Annex point 3.3 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(9)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9669e070c7fa033755e8f4c1be91c9f3]: Textual amendment: Word in Annex point 3.3 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(9)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf727d0b0376f9ef1afc676d8b73029d]: Textual amendment: Words in Annex point 3.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2022/211/regulation/5)
+[^c-bf727d0b0376f9ef1afc676d8b73029d]: Textual amendment: Words in Annex point 3.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2022/211/regulation/5)
 
-[^key-9b6c1fd82ebca790ffec9f42ad3de6bc]: Textual amendment: Annex point 3.6 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(10)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b6c1fd82ebca790ffec9f42ad3de6bc]: Textual amendment: Annex point 3.6 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(10)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3585120d6c72fe3ff53a2da3cd2f716]: Textual amendment: Annex point 4 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(11)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3585120d6c72fe3ff53a2da3cd2f716]: Textual amendment: Annex point 4 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(11)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1d6ec956c79f8429b5ba7bffc5c69e5]: Textual amendment: Words in Annex point 5.1.5 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(12)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1d6ec956c79f8429b5ba7bffc5c69e5]: Textual amendment: Words in Annex point 5.1.5 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(12)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2f3389c342e839f6c2ed5522cdf9c1d]: Textual amendment: Word in Annex point 5.1.6 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(13)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2f3389c342e839f6c2ed5522cdf9c1d]: Textual amendment: Word in Annex point 5.1.6 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(13)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e88a49fc116a25407ae702d7191a7152]: Textual amendment: Words in Annex point 5.1.6 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(13)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e88a49fc116a25407ae702d7191a7152]: Textual amendment: Words in Annex point 5.1.6 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(13)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fbaf72b7a583649a8a21b5ec36829975]: Textual amendment: Words in Annex point 5.2 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(14)(a)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/14/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbaf72b7a583649a8a21b5ec36829975]: Textual amendment: Words in Annex point 5.2 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(14)(a)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/14/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-80008634be0cb60c23e8cce87cafbf36]: Textual amendment: Words in Annex point 5.2 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/14/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80008634be0cb60c23e8cce87cafbf36]: Textual amendment: Words in Annex point 5.2 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/14/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb5b70d58d49fdc70cc42ecca747bd5d]: Textual amendment: Words in Annex point 5.2 table omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(14)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb5b70d58d49fdc70cc42ecca747bd5d]: Textual amendment: Words in Annex point 5.2 table omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(14)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00016]: Footnote: Austria, Belgium, Bulgaria, Czech Republic, France, Ireland, Italy, Portugal, Romania, Slovakia and Spain.
 
-[^key-9fb8d43b5eba15ed45ddb47fe7217ac0]: Textual amendment: Words in Annex point 5.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(15)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fb8d43b5eba15ed45ddb47fe7217ac0]: Textual amendment: Words in Annex point 5.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(15)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1652765bd76b9fb426fa162ce9167baf]: Textual amendment: Words in Annex point 5.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/211/regulation/6)
+[^c-1652765bd76b9fb426fa162ce9167baf]: Textual amendment: Words in Annex point 5.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/211/regulation/6)
 
-[^key-1608c9aca924ee453b0ce81f6e8ee4ab]: Textual amendment: Words in Annex point 6.2 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(16)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1608c9aca924ee453b0ce81f6e8ee4ab]: Textual amendment: Words in Annex point 6.2 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(16)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ae12cb62c119f8e42ae4db2b9882772]: Textual amendment: Words in Annex point 6.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(17)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/17/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ae12cb62c119f8e42ae4db2b9882772]: Textual amendment: Words in Annex point 6.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(17)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/17/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5613ae11a7aac5e9105175bf192f178a]: Textual amendment: Words in Annex point 6.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2022/211/regulation/7)
+[^c-5613ae11a7aac5e9105175bf192f178a]: Textual amendment: Words in Annex point 6.3 substituted (24.3.2022) by [The Air Traffic Management (Regulation (EU) No 716/2014) (Amendment) Regulations 2022 (S.I. 2022/211)](https://www.legislation.gov.uk/uksi/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/211/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2022/211/regulation/7)
 
-[^key-b934d1d14d9c71619cc274684a21fe57]: Textual amendment: Words in Annex point 6.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(17)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/17/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b934d1d14d9c71619cc274684a21fe57]: Textual amendment: Words in Annex point 6.3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(17)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/17/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4615cf8540cf3af54f02682f7f075f2]: Textual amendment: Words in Annex point 6.4 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(18)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4615cf8540cf3af54f02682f7f075f2]: Textual amendment: Words in Annex point 6.4 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(18)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92c70fc7dc4b403e844fd0e08ab3131e]: Textual amendment: Words in Annex point 6.6 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(19)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92c70fc7dc4b403e844fd0e08ab3131e]: Textual amendment: Words in Annex point 6.6 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(19)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a7fcc355fd3e6d8db5f576b421af94fd]: Textual amendment: Annex Appendix substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(20)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7fcc355fd3e6d8db5f576b421af94fd]: Textual amendment: Annex Appendix substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [341(20)](https://www.legislation.gov.uk/uksi/2019/459/regulation/341/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J2. Outwards transfers[^key-322e5319ec04aff754fe50008b6a58cf]
+## J2. Outwards transfers[^c-322e5319ec04aff754fe50008b6a58cf]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ and has received a return of contributions in relation to that employment, a tra
 
 ## Annotations
 
-[^key-322e5319ec04aff754fe50008b6a58cf]: Commencement: [Reg. J2](https://www.legislation.gov.uk/uksi/1986/24/regulation/J2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-322e5319ec04aff754fe50008b6a58cf]: Commencement: [Reg. J2](https://www.legislation.gov.uk/uksi/1986/24/regulation/J2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00066]: Footnote: [1952 c.10](https://www.legislation.gov.uk/ukpga/1952/10).
 

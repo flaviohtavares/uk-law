@@ -35,7 +35,7 @@ An Act to amend the Crown Estate Act 1961.
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power of Crown Estate Commissioners to borrow etc[^key-d979471fa639dfccd93fd6af6ac3dbfd]
+## 1. Power of Crown Estate Commissioners to borrow etc[^c-d979471fa639dfccd93fd6af6ac3dbfd]
 
 (1) The Crown Estate Act 1961 is amended as follows.
 
@@ -62,7 +62,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 > - (a) the Treasury may determine the rate of interest on the loan (and, accordingly, section 5 of the [National Loans Act 1968](https://www.legislation.gov.uk/ukpga/1968/13) applies), and
 > - (b) the Treasury must pay any sums received in respect of the loan into the National Loans Fund.
 
-## 2. Number of Crown Estate Commissioners and their salaries and expenses[^key-cb8fc1978301d476a2aec5d77f1e6e5f]
+## 2. Number of Crown Estate Commissioners and their salaries and expenses[^c-cb8fc1978301d476a2aec5d77f1e6e5f]
 
 (1) Schedule 1 to the Crown Estate Act 1961 (constitution etc of Crown Estate Commissioners) is amended as follows.
 
@@ -75,13 +75,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 > **5.** The salaries and expenses of the Commissioners, including the remuneration of persons appointed by them under paragraph 4(1), are to be paid out of the income of the Crown Estate.
 
-## 3. Sustainable development[^key-795ff684fc9e874063040c11347ce2d3]
+## 3. Sustainable development[^c-795ff684fc9e874063040c11347ce2d3]
 
 In section 1 of the Crown Estate Act 1961 (general provision about the Crown Estate Commissioners), after subsection (3) insert—
 
 > (3A) The Commissioners must keep under review the impact of their activities on the achievement of sustainable development in the United Kingdom.
 
-## 4. Annual reports[^key-ddb78dda3819c5d7ca5822de5242659e]
+## 4. Annual reports[^c-ddb78dda3819c5d7ca5822de5242659e]
 
 In section 2 of the Crown Estate Act 1961 (reports and accounts), after subsection (1) insert—
 
@@ -90,7 +90,7 @@ In section 2 of the Crown Estate Act 1961 (reports and accounts), after subsecti
 > - (a) the activities of the Commissioners during the year under that partnership, and
 > - (b) any effects or benefits experienced during the year which were the result of activities of the Commissioners under that partnership.
 
-## 5. Territorial seabed[^key-5cc6891ae7d5684401e5d95193d80115]
+## 5. Territorial seabed[^c-5cc6891ae7d5684401e5d95193d80115]
 
 After section 3A of the Crown Estate Act 1961 (inserted by section 1 of this Act) insert—
 
@@ -107,7 +107,7 @@ After section 3A of the Crown Estate Act 1961 (inserted by section 1 of this Act
 >
 > (3) In subsection (1), “**territorial seabed**” means the seabed and subsoil within the seaward limits of the United Kingdom territorial waters.
 
-## 6. Commissioners with special responsibility[^key-ffe6b2dbafc1e4591adc738c7d5977df]
+## 6. Commissioners with special responsibility[^c-ffe6b2dbafc1e4591adc738c7d5977df]
 
 (1) Paragraph 1 of Schedule 1 to the Crown Estate Act 1961 (constitution etc), is amended as follows.
 
@@ -130,7 +130,7 @@ After section 3A of the Crown Estate Act 1961 (inserted by section 1 of this Act
 > - (a) the Welsh Ministers have been consulted about the appointment, in the case of an appointment under sub-paragraph (3B)(b), or
 > - (b) the Executive Office in Northern Ireland has been consulted about the appointment, in the case of an appointment under sub-paragraph (3B)(c).
 
-## 7. Extent, commencement and short title[^key-257c2b66036b6a99205f57ee1b13876a]
+## 7. Extent, commencement and short title[^c-257c2b66036b6a99205f57ee1b13876a]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -140,16 +140,16 @@ After section 3A of the Crown Estate Act 1961 (inserted by section 1 of this Act
 
 ## Annotations
 
-[^key-d979471fa639dfccd93fd6af6ac3dbfd]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/7/section/1) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-d979471fa639dfccd93fd6af6ac3dbfd]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/7/section/1) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-cb8fc1978301d476a2aec5d77f1e6e5f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/7/section/2) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-cb8fc1978301d476a2aec5d77f1e6e5f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/7/section/2) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-795ff684fc9e874063040c11347ce2d3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/7/section/3) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-795ff684fc9e874063040c11347ce2d3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/7/section/3) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-ddb78dda3819c5d7ca5822de5242659e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/7/section/4) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-ddb78dda3819c5d7ca5822de5242659e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/7/section/4) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-5cc6891ae7d5684401e5d95193d80115]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/7/section/5) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-5cc6891ae7d5684401e5d95193d80115]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/7/section/5) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-ffe6b2dbafc1e4591adc738c7d5977df]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/7/section/6) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-ffe6b2dbafc1e4591adc738c7d5977df]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/7/section/6) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
 
-[^key-257c2b66036b6a99205f57ee1b13876a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/7/section/7) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)
+[^c-257c2b66036b6a99205f57ee1b13876a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/7/section/7) in force at 11.5.2025, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/7/section/7/2)

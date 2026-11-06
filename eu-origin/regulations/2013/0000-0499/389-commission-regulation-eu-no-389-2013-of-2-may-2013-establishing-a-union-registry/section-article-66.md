@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 66. Transfers of allowances or Kyoto units initiated by a trading account[^key-42e3f50d72a54a7a492e26292c9982c0]
+## Article 66. Transfers of allowances or Kyoto units initiated by a trading account[^c-42e3f50d72a54a7a492e26292c9982c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42e3f50d72a54a7a492e26292c9982c0]: Textual amendment: [Arts. 66-68](https://www.legislation.gov.uk/eur/2013/389/article/66) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/7)
+[^c-42e3f50d72a54a7a492e26292c9982c0]: Textual amendment: [Arts. 66-68](https://www.legislation.gov.uk/eur/2013/389/article/66) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/7)

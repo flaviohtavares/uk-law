@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Power to acquire new rights[^key-868c30346cc5a1b740e76ada37246774]
+## 24. Power to acquire new rights[^c-868c30346cc5a1b740e76ada37246774]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ as may be required for any purpose for which that land may be acquired under tha
 
 ## Annotations
 
-[^key-868c30346cc5a1b740e76ada37246774]: Commencement: Art. 24 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-868c30346cc5a1b740e76ada37246774]: Commencement: Art. 24 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

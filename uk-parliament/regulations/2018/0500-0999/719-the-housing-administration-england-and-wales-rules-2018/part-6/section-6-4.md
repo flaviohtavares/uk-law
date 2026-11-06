@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.4. Application to court to remove housing administrator from office[^key-11ca3fb97e004de0af2d450086f4fcae]
+## 6.4. Application to court to remove housing administrator from office[^c-11ca3fb97e004de0af2d450086f4fcae]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11ca3fb97e004de0af2d450086f4fcae]: Commencement: Rule 6.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-11ca3fb97e004de0af2d450086f4fcae]: Commencement: Rule 6.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Computer information[^key-61d6fa35e4342797b78560079f5d3eab]
+## 44. Computer information[^c-61d6fa35e4342797b78560079f5d3eab]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61d6fa35e4342797b78560079f5d3eab]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2013/2605/article/44) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-61d6fa35e4342797b78560079f5d3eab]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2013/2605/article/44) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

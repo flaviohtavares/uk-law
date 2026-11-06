@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) (Amendment) Regulations 1999 (revoked)[^key-51a1acfd2e4b3dd357f723f4e2a88683]
+The Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) (Amendment) Regulations 1999 (revoked)[^c-51a1acfd2e4b3dd357f723f4e2a88683]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 3rd February 1999
 
-[^key-51a1acfd2e4b3dd357f723f4e2a88683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a1acfd2e4b3dd357f723f4e2a88683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-51a1acfd2e4b3dd357f723f4e2a88683]
+## 1. Citation, commencement and extent[^c-51a1acfd2e4b3dd357f723f4e2a88683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) Regulations 1996[^key-51a1acfd2e4b3dd357f723f4e2a88683]
+## 2. Amendment of Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) Regulations 1996[^c-51a1acfd2e4b3dd357f723f4e2a88683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a1acfd2e4b3dd357f723f4e2a88683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a1acfd2e4b3dd357f723f4e2a88683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-51a1acfd2e4b3dd357f723f4e2a88683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a1acfd2e4b3dd357f723f4e2a88683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51a1acfd2e4b3dd357f723f4e2a88683]: Textual amendment: Regulations revoked (11.3.2002) by [The Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) Regulations 2002 (S.I. 2002/282)](https://www.legislation.gov.uk/uksi/2002/282), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/282/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2002/282/regulation/4)
+[^c-51a1acfd2e4b3dd357f723f4e2a88683]: Textual amendment: Regulations revoked (11.3.2002) by [The Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) Regulations 2002 (S.I. 2002/282)](https://www.legislation.gov.uk/uksi/2002/282), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/282/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2002/282/regulation/4)

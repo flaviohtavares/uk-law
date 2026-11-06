@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Finance[^f00001] in exercise of the powers conferred by section 1(2) of the Financial Assistance (Northern Ireland) Act 2009[^f00002], makes the following Regulations:
 
-## 1. Citation and commencement[^key-9c20fafb3b341bc27a8c7e7b094b0b3d]
+## 1. Citation and commencement[^c-9c20fafb3b341bc27a8c7e7b094b0b3d]
 
 These Regulations may be cited as The Financial Assistance (Coronavirus) (Airports) Regulations (Northern Ireland) 2020 and shall come into operation on 21 December 2020.
 
-## 2. The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020[^key-6e8db5c2ceba43e0ffbdca5b63ff561c]
+## 2. The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020[^c-6e8db5c2ceba43e0ffbdca5b63ff561c]
 
 The Department of Finance makes the Scheme set out in the Schedule.
 
@@ -72,11 +72,11 @@ A senior officer of the Executive Office
 
 Regulation 2
 
-### 1. Citation[^key-9278767dc5fc8eddb7e48b7a4c682c1a]
+### 1. Citation[^c-9278767dc5fc8eddb7e48b7a4c682c1a]
 
 This Scheme may be cited as The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020.
 
-### 2. Interpretation[^key-c9de93fe9b9c2c5afc5b867485f2e45c]
+### 2. Interpretation[^c-c9de93fe9b9c2c5afc5b867485f2e45c]
 
 In this Scheme:
 
@@ -84,20 +84,20 @@ In this Scheme:
 - “Department” means the Department of Finance.
 - “monthly losses” for an airport means monthly losses for the airport as demonstrated by the airport operator’s standard company accounts in relation to ‘designated revenues’ and ‘designated costs’ for the airport.
 
-### 3. Purpose of this Scheme[^key-f79761e59e2bbd7e78256a43ea917f93]
+### 3. Purpose of this Scheme[^c-f79761e59e2bbd7e78256a43ea917f93]
 
 Support under this Scheme is to be provided to Belfast International Airport and Belfast City Airport by means of the provision of financial assistance to the respective operators.
 
-### 4. Support packages and support periods[^key-a7cae1cad98552f96e0181b3c8246f02]
+### 4. Support packages and support periods[^c-a7cae1cad98552f96e0181b3c8246f02]
 
 (1) Support is to be provided to each airport in two packages, as follows:
 
 - (a) under package one, for the period beginning on 1 September 2020 and ending on 31 December 2020;
 - (b) under package two, for the period beginning on 1 January 2021 and ending on 31 March 2021.
 
-(2) However, the total sum provided as support, under both packages combined, is not to exceed £10,030,000.00[^key-41124a0a172dd2d097b844687f339624] .
+(2) However, the total sum provided as support, under both packages combined, is not to exceed £10,030,000.00[^c-41124a0a172dd2d097b844687f339624] .
 
-### 5. Level of support—package one[^key-67ea1290437e8a3572338eae9cb3db02]
+### 5. Level of support—package one[^c-67ea1290437e8a3572338eae9cb3db02]
 
 (1) Support under package one for each airport in each of the 4 months September, October, November and December 2020 is to be no more than 70% of the monthly losses or estimated monthly losses for the airport for each month disclosed in the operator’s accounts.
 
@@ -106,15 +106,15 @@ Support under this Scheme is to be provided to Belfast International Airport and
 - (a) to Belfast International Airport — £1.9m;
 - (b) to Belfast City Airport — £2.1m.
 
-### 6. Level of support—package two[^key-75292fd9aa8245ba5286d08083fb3d48]
+### 6. Level of support—package two[^c-75292fd9aa8245ba5286d08083fb3d48]
 
 Support under package two for each airport in each of the 3 months January, February and March 2021 is to be limited to the monthly losses or estimated monthly losses for the airport for each month disclosed in the operator’s accounts, within the prevailing State aid parameters for that period, and at a level to be agreed by the Minister for Finance.
 
-### 7. Support not transferable[^key-56467a6a5e182373687b111e9413833f]
+### 7. Support not transferable[^c-56467a6a5e182373687b111e9413833f]
 
 Support for an airport is not transferable between months or between support packages.
 
-### 8. Conditions of continued support[^key-4e1f6613cfa6faa4608c8aca65458a3f]
+### 8. Conditions of continued support[^c-4e1f6613cfa6faa4608c8aca65458a3f]
 
 The continuation of support to an airport under either package is conditional on the airport’s operator complying with the following conditions:
 
@@ -123,13 +123,13 @@ The continuation of support to an airport under either package is conditional on
 - (c) that the operator provides the Department, on request, with copies of its audited accounts, certified by the operators auditor, and Department of Finance representatives as necessary, as true copies;
 - (d) that each airport remains open and maintains a level of service agreed between the airport’s operator and the Department.
 
-### 9. Termination of support[^key-1016b0ed683c77d54078606e8df52ac4]
+### 9. Termination of support[^c-1016b0ed683c77d54078606e8df52ac4]
 
 (1) The Department may terminate the provision of support to either airport under either package at any time by giving 14 days’ written notice to the airport’s operator.
 
 (2) In particular, the Department may terminate the provision of support to either airport if that airport returns to profitability within a support period.
 
-### 10. Recovery of support in certain circumstances[^key-82f3e1bd9252d20dd3d3ca4e705013e4]
+### 10. Recovery of support in certain circumstances[^c-82f3e1bd9252d20dd3d3ca4e705013e4]
 
 The Department may recover from the operator of either airport the amount of any support provided to the airport under this scheme if:
 
@@ -174,28 +174,28 @@ Paragraph 10 provides for recovery of support by the Department under certain co
 
 [^f00002]: Footnote: [2009 c. 2](https://www.legislation.gov.uk/ukpga/2009/2)
 
-[^key-9c20fafb3b341bc27a8c7e7b094b0b3d]: Commencement: Reg. 1 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-9c20fafb3b341bc27a8c7e7b094b0b3d]: Commencement: Reg. 1 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-6e8db5c2ceba43e0ffbdca5b63ff561c]: Commencement: Reg. 2 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-6e8db5c2ceba43e0ffbdca5b63ff561c]: Commencement: Reg. 2 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-9278767dc5fc8eddb7e48b7a4c682c1a]: Commencement: Sch. para. 1 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-9278767dc5fc8eddb7e48b7a4c682c1a]: Commencement: Sch. para. 1 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-c9de93fe9b9c2c5afc5b867485f2e45c]: Commencement: Sch. para. 2 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-c9de93fe9b9c2c5afc5b867485f2e45c]: Commencement: Sch. para. 2 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-f79761e59e2bbd7e78256a43ea917f93]: Commencement: Sch. para. 3 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-f79761e59e2bbd7e78256a43ea917f93]: Commencement: Sch. para. 3 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-a7cae1cad98552f96e0181b3c8246f02]: Commencement: Sch. para. 4 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-a7cae1cad98552f96e0181b3c8246f02]: Commencement: Sch. para. 4 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-41124a0a172dd2d097b844687f339624]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2020/342/schedule/paragraph/4/2) substituted (31.3.2021) by [The Financial Assistance (Coronavirus) (Airports) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/90)](https://www.legislation.gov.uk/nisr/2021/90), [regs. 1](https://www.legislation.gov.uk/nisr/2021/90/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/90/regulation/3)
+[^c-41124a0a172dd2d097b844687f339624]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2020/342/schedule/paragraph/4/2) substituted (31.3.2021) by [The Financial Assistance (Coronavirus) (Airports) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/90)](https://www.legislation.gov.uk/nisr/2021/90), [regs. 1](https://www.legislation.gov.uk/nisr/2021/90/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/90/regulation/3)
 
-[^key-67ea1290437e8a3572338eae9cb3db02]: Commencement: Sch. para. 5 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-67ea1290437e8a3572338eae9cb3db02]: Commencement: Sch. para. 5 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-75292fd9aa8245ba5286d08083fb3d48]: Commencement: Sch. para. 6 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-75292fd9aa8245ba5286d08083fb3d48]: Commencement: Sch. para. 6 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-56467a6a5e182373687b111e9413833f]: Commencement: Sch. para. 7 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-56467a6a5e182373687b111e9413833f]: Commencement: Sch. para. 7 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-4e1f6613cfa6faa4608c8aca65458a3f]: Commencement: Sch. para. 8 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-4e1f6613cfa6faa4608c8aca65458a3f]: Commencement: Sch. para. 8 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-1016b0ed683c77d54078606e8df52ac4]: Commencement: Sch. para. 9 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-1016b0ed683c77d54078606e8df52ac4]: Commencement: Sch. para. 9 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
 
-[^key-82f3e1bd9252d20dd3d3ca4e705013e4]: Commencement: Sch. para. 10 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+[^c-82f3e1bd9252d20dd3d3ca4e705013e4]: Commencement: Sch. para. 10 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)

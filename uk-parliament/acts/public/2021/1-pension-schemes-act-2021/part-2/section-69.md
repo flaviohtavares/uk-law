@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Calculation of benefits[^c24480781][^key-d23885896953d9d96db72dd1276443ab]
+## 69. Calculation of benefits[^c24480781][^c-d23885896953d9d96db72dd1276443ab]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c24480781]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2021/1/section/69) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-d23885896953d9d96db72dd1276443ab]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2021/1/section/69) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-d23885896953d9d96db72dd1276443ab]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2021/1/section/69) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

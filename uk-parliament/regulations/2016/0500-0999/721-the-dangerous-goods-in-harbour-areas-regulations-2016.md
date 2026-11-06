@@ -57,11 +57,11 @@ are expedient as set out in section 80(1) of the 1974 Act.
 
 ## PART 1 — INTERPRETATION AND APPLICATION
 
-### 1. Citation and commencement[^key-260eee8b4dc7ea88cd0dc6f07111d74d]
+### 1. Citation and commencement[^c-260eee8b4dc7ea88cd0dc6f07111d74d]
 
 These Regulations may be cited as the Dangerous Goods in Harbour Areas Regulations 2016 and come into force on 1st October 2016.
 
-### 2. Interpretation[^key-1baf0a9ca4239843e889583d58f465aa]
+### 2. Interpretation[^c-1baf0a9ca4239843e889583d58f465aa]
 
 (1) In these Regulations—
 
@@ -120,20 +120,20 @@ These Regulations may be cited as the Dangerous Goods in Harbour Areas Regulatio
 
 (3) Any reference in these Regulations to the quantity of any explosive shall be construed as a reference to the net mass of explosive substance.
 
-### 3. Meaning of “dangerous goods”[^key-0eb1ef6e1d0fd5f1ef5d24b70d3732fe]
+### 3. Meaning of “dangerous goods”[^c-0eb1ef6e1d0fd5f1ef5d24b70d3732fe]
 
 “Dangerous goods” means goods or cargoes, whether packaged or in bulk, which meet the criteria in the IMDG Code for classification as dangerous goods.
 
-### 4. Meaning of “operator”[^key-7fd261d0bb6bd4ede2ed32edbd297cc9]
+### 4. Meaning of “operator”[^c-7fd261d0bb6bd4ede2ed32edbd297cc9]
 
 “Operator” means—
 
 - (a) in relation to a road vehicle, a person who holds, or is required to hold by law, a licence for the use of that vehicle for the carriage of goods on a road; or, where no such licence is required, the keeper of the vehicle;
 - (b) in relation to any other mode of transport or a berth, the person who has operational control of it for the time being.
 
-### 5. Application[^key-43098f85eb20e1d523d14bddba7677a1]
+### 5. Application[^c-43098f85eb20e1d523d14bddba7677a1]
 
-(1)[^key-7eb933fb121c08bb90709e669d815971] These Regulations apply to—
+(1)[^c-7eb933fb121c08bb90709e669d815971] These Regulations apply to—
 
 - (a) every harbour area in Great Britain;
 - (b) premises or activities in any part of a harbour area in the territorial sea adjacent to Great Britain to which sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply under Articles 6 (but only to the extent it relates to monobuoys) and 11 of the Health and Safety at Work etc. Act (Application outside Great Britain) Order 2013 but not, except as provided in regulation 14, elsewhere.
@@ -161,7 +161,7 @@ These Regulations may be cited as the Dangerous Goods in Harbour Areas Regulatio
 
 ## PART 2 — ENTRY OF DANGEROUS GOODS INTO HARBOUR AREAS
 
-### 6. Notice of entry of dangerous goods[^key-8483e2e648beb9c4eb115f337935ec57]
+### 6. Notice of entry of dangerous goods[^c-8483e2e648beb9c4eb115f337935ec57]
 
 (1) The master, agent or operator, as relevant, of any vessel or vehicle, or any other mode of transport, must before bringing any dangerous goods into the harbour area, give notice to—
 
@@ -193,7 +193,7 @@ These Regulations may be cited as the Dangerous Goods in Harbour Areas Regulatio
 
 (7) A harbour master granting or revoking an exemption under this regulation must keep a record of the exemption, including any conditions and time limits.
 
-### 7. Harbour master’s powers[^key-5df3fd7ce5ccc32f36bd5c7720a4f530]
+### 7. Harbour master’s powers[^c-5df3fd7ce5ccc32f36bd5c7720a4f530]
 
 (1) Subject to paragraphs (2) and (6), in addition to any powers granted under byelaws made under regulation 25, a harbour master may give directions as set out in paragraph (4) to—
 
@@ -224,7 +224,7 @@ the harbour area of the dangerous goods, freight container, receptacle, vehicle,
 
 ## PART 3 — Marking of Vessels
 
-### 8. Flags and lights to be displayed by vessels[^key-9c94158d8e82fa343f177fdd45ddee82]
+### 8. Flags and lights to be displayed by vessels[^c-9c94158d8e82fa343f177fdd45ddee82]
 
 (1) Where a vessel is carrying any of the dangerous goods specified in Schedule 1, the master of that vessel shall ensure that it displays—
 
@@ -241,7 +241,7 @@ the harbour area of the dangerous goods, freight container, receptacle, vehicle,
 
 (4) This regulation does not apply to a ferry operated entirely within Category A-D waters within the meaning of the Merchant Shipping (Categorisation of Waters) Regulations 1992.
 
-### 9. Vessels to keep a safe distance from moored or anchored vessels displaying the flag or light required by regulation 8[^key-2b705b5acc815f722610d1ec29030d89]
+### 9. Vessels to keep a safe distance from moored or anchored vessels displaying the flag or light required by regulation 8[^c-2b705b5acc815f722610d1ec29030d89]
 
 (1) A master shall not bring a vessel alongside a moored or anchored vessel which is displaying a flag or signal required by regulation 8 without—
 
@@ -254,7 +254,7 @@ and must otherwise keep a safe distance from that vessel.
 
 ## PART 4 — Emergency Arrangements and Untoward Incidents
 
-### 10. Preparation of emergency plans by harbour authorities[^key-23b83d16f86894be418d53dd895b678c]
+### 10. Preparation of emergency plans by harbour authorities[^c-23b83d16f86894be418d53dd895b678c]
 
 (1) A harbour authority must have in place an effective emergency plan, before dangerous goods are permitted into the harbour area, for dealing with emergencies which may arise and which involve, affect or could affect dangerous goods that are brought into or are handled in the harbour area.
 
@@ -267,11 +267,11 @@ and must otherwise keep a safe distance from that vessel.
 
 (4) The harbour authority must review the emergency plan periodically, having consulted with the parties listed in paragraph (2), and where relevant paragraph (3).
 
-### 11. Emergency arrangements at berths[^key-191e5aab184bad69bffc7102a1788af9]
+### 11. Emergency arrangements at berths[^c-191e5aab184bad69bffc7102a1788af9]
 
 When dangerous goods are being handled or carried at a berth, and at any other time when there are risks from dangerous goods, the berth operator must, in a timely manner, inform the master of any vessel entering a berth of the means of emergency communication and escape.
 
-### 12. Untoward incidents[^key-d66ea69408c7214af12040e03524a7f6]
+### 12. Untoward incidents[^c-d66ea69408c7214af12040e03524a7f6]
 
 (1) The master of a vessel carrying dangerous goods must immediately inform the harbour master, or if the vessel is at a berth, the berth operator and the harbour master, of any untoward incident which occurs or has occurred on the vessel.
 
@@ -283,7 +283,7 @@ When dangerous goods are being handled or carried at a berth, and at any other t
 
 (5) In this regulation an “untoward incident” means an incident involving or threatening the containment of dangerous goods inside a harbour area, which might create in the harbour area a serious risk to the health and safety of any person or a risk to the safety of a vessel.
 
-### 13. Parking of road vehicles carrying dangerous goods[^key-94b7b33cdaa065752eb3187f04eb6322]
+### 13. Parking of road vehicles carrying dangerous goods[^c-94b7b33cdaa065752eb3187f04eb6322]
 
 (1) Every berth operator is required, so far as is reasonably practicable, to designate a suitable parking area for road vehicles carrying dangerous goods that use the berth.
 
@@ -299,7 +299,7 @@ When dangerous goods are being handled or carried at a berth, and at any other t
 
 ## PART 5 — EXPLOSIVES
 
-### 14. Application[^key-5a0ade504b2e161425580c74b2328143]
+### 14. Application[^c-5a0ade504b2e161425580c74b2328143]
 
 (1) Subject to paragraph (2), regulations 15 to 19, in addition to their application in every harbour area under regulation 5, apply to—
 
@@ -330,11 +330,11 @@ When dangerous goods are being handled or carried at a berth, and at any other t
   - (ii) the explosives are not handled while the vessel is in the harbour area; and
   - (iii) the vessel leaves the harbour area as soon as practicable.
 
-### 15. Requirement for an explosives licence[^key-842e3c7c3510bdb27df687cd8a345830]
+### 15. Requirement for an explosives licence[^c-842e3c7c3510bdb27df687cd8a345830]
 
 No person is to carry or handle explosives within a harbour area, or load or unload any explosive in circumstances to which this regulation applies by virtue of regulation 14(1), unless the appropriate authority has issued a licence permitting such activity and there is full compliance with any conditions of that licence.
 
-### 16. Applications for explosives licences[^key-bfb402b568311d6fccaf2d9a54c3504f]
+### 16. Applications for explosives licences[^c-bfb402b568311d6fccaf2d9a54c3504f]
 
 (1) An application to the appropriate authority for an explosives licence or for any variation to an existing explosives licence is to be made by—
 
@@ -346,13 +346,13 @@ in accordance with the procedure specified in Schedule 3.
 
 (2) The appropriate authority may grant, transfer, renew, vary, revoke or cancel an explosives licence.
 
-### 17. Consideration of licence applications[^key-2252916e33b8bf75379c36a72ef4e533]
+### 17. Consideration of licence applications[^c-2252916e33b8bf75379c36a72ef4e533]
 
 (1) The appropriate authority must take account of any comments or objections received by it in response to a licence application and may reject the application or may grant the licence or variation subject to such conditions as it considers appropriate, with or without time limit and subject to variation or revocation in writing at any time.
 
 (2) The appropriate authority may grant a provisional explosives licence or vary an existing licence in cases of urgency and any such provisional licence or variation may have effect for a period not exceeding 6 months from the date on which it was granted unless revoked in writing by the appropriate authority before its date of expiry.
 
-### 18. Harbour areas ceasing to be nuclear harbour areas[^key-f039f51ac33f639dbbe508264b4ccab7]
+### 18. Harbour areas ceasing to be nuclear harbour areas[^c-f039f51ac33f639dbbe508264b4ccab7]
 
 (1) Where this regulation applies any explosives licence issued by, or treated as issued by, the Office for Nuclear Regulation is to be treated, on and after the date on which it ceased to be a nuclear harbour area, as an explosives licence issued by the Health and Safety Executive.
 
@@ -363,7 +363,7 @@ in accordance with the procedure specified in Schedule 3.
 
 (3) In this regulation “nuclear harbour area” means a harbour area which is, or forms part of an ONR regulated site.
 
-### 19. Harbour areas becoming nuclear harbour areas[^key-3875f1ac36f05cadb7eb195b0a693d17]
+### 19. Harbour areas becoming nuclear harbour areas[^c-3875f1ac36f05cadb7eb195b0a693d17]
 
 (1) Where this regulation applies any explosives licence issued by, or treated as issued by, the Health and Safety Executive is to be treated, on and after the date on which it became a nuclear harbour area, as an explosives licence issued by the Office for Nuclear Regulation.
 
@@ -374,7 +374,7 @@ in accordance with the procedure specified in Schedule 3.
 
 (3) “nuclear harbour area” has the meaning given by regulation 18.
 
-### 20. Security of explosives[^key-b970f2af075ab0981ef0f6a3358366d6]
+### 20. Security of explosives[^c-b970f2af075ab0981ef0f6a3358366d6]
 
 (1) Where explosives are handled or carried at a berth, the berth operator shall ensure that all appropriate precautions are taken against the damage, loss, theft or wrongful use of the explosives at the berth.
 
@@ -395,14 +395,14 @@ in accordance with the procedure specified in Schedule 3.
   - (ii) to the harbour authority; and
 - (b) take all steps as are reasonably practicable to recover those explosives.
 
-### 21. Vessels and vehicles loaded with explosives to be taken out of harbour areas[^key-5b46adf24914f5b080df10ab22e6f58a]
+### 21. Vessels and vehicles loaded with explosives to be taken out of harbour areas[^c-5b46adf24914f5b080df10ab22e6f58a]
 
 Following the loading of a vessel or a vehicle with explosives, the master of the vessel or the person in charge of the vehicle must remove the vessel or vehicle from the harbour area as soon as is reasonably practicable unless—
 
 - (a) the harbour master and berth operator agree that the vessel or vehicle may remain within the harbour area; or
 - (b) it is less safe for the vessel or vehicle to be outside of the harbour area, in which case the vessel or vehicle is to remain within the harbour area until it is safe for the vehicle or vessel to leave the vicinity.
 
-### 22. Passenger prohibition on harbour craft carrying explosives[^key-6ee853f9ade0730c64dbf2808914b7e1]
+### 22. Passenger prohibition on harbour craft carrying explosives[^c-6ee853f9ade0730c64dbf2808914b7e1]
 
 (1) Harbour craft carrying explosives must not carry passengers at the same time.
 
@@ -415,14 +415,14 @@ Following the loading of a vessel or a vehicle with explosives, the master of th
   - (i) carried in connection with the harbour works for which the explosives are carried; or
   - (ii) who are to handle the explosives being carried.
 
-### 23. Deteriorated explosives[^key-0150517ab8040bb76085dfe501450cae]
+### 23. Deteriorated explosives[^c-0150517ab8040bb76085dfe501450cae]
 
 Where explosives have deteriorated or have undergone any change resulting in an increased risk to handling or carriage in the harbour area, the person having custody of those explosives must—
 
 - (a) notify the harbour master and, where the explosives are at a berth, the berth operator of the deterioration or change; and
 - (b) where any additional safety requirements are imposed by the harbour master, and where appropriate, the berth operator, comply with those requirements before moving or handling the explosives.
 
-### 24. Record keeping[^key-de153bde84d2abced498891a7893bd88]
+### 24. Record keeping[^c-de153bde84d2abced498891a7893bd88]
 
 (1) A harbour authority must keep a record of the handling of all explosives within its harbour area, together with import, export, and where relevant, transit details, for a period of three years.
 
@@ -434,7 +434,7 @@ Where explosives have deteriorated or have undergone any change resulting in an 
 
 ## PART 6 — MISCELLANEOUS AND GENERAL
 
-### 25. Byelaws[^key-9e1b14c1683288a235627864b01e88f1]
+### 25. Byelaws[^c-9e1b14c1683288a235627864b01e88f1]
 
 (1) A statutory harbour authority which is either—
 
@@ -449,7 +449,7 @@ may, subject to the provisions in Schedule 4, make byelaws in respect of its har
 
 (4) Byelaws may contain provisions for enforcement.
 
-### 26. Enforcement[^key-98b70cfb1419630525a5b330c013960f]
+### 26. Enforcement[^c-98b70cfb1419630525a5b330c013960f]
 
 (1) Subject to section 18(1A) of the 1974 Act and paragraphs (2) and (3), the Health and Safety Executive is responsible for enforcing these Regulations.
 
@@ -459,11 +459,11 @@ may, subject to the provisions in Schedule 4, make byelaws in respect of its har
 
 (4) In this regulation “authorised defence site” and “new nuclear build site” have the meanings given in the Health and Safety (Enforcing Authority) Regulations 1998.
 
-### 27.[^key-931441ef92e48f9d15d09f41c956c5c0]
+### 27.[^c-931441ef92e48f9d15d09f41c956c5c0]
 
 The exercise of due diligence to avoid the commission of an offence is a defence in any proceedings under these Regulations or byelaws made under these Regulations.
 
-### 28. Exemptions[^key-b7eb127c0b77fb576326e9f301606989]
+### 28. Exemptions[^c-b7eb127c0b77fb576326e9f301606989]
 
 (1) Subject to paragraph (2), the Health and Safety Executive may, by a certificate in writing, exempt any person or class of persons, from any requirement or prohibition imposed by or under these Regulations, and any such exemption may be granted subject to conditions and to a time limit and may be revoked at any time by a certificate in writing.
 
@@ -484,31 +484,31 @@ and any such exemption may be granted subject to conditions and time limit and m
 
 (4) In this regulation “military explosives” has the same meaning as in regulation 25(11)(a) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00020].
 
-### 29. Transitionals[^key-05ee7bef1a6087e1bf08147f63bc50fd]
+### 29. Transitionals[^c-05ee7bef1a6087e1bf08147f63bc50fd]
 
 An emergency plan prepared under regulation 26 of the 1987 Regulations continues to have effect as if it were in place as required under regulation 10(1) and subject to review under regulation 10(4) of these Regulations.
 
-### 30.[^key-546fb06cced5293d5fa84cb2cbf37871]
+### 30.[^c-546fb06cced5293d5fa84cb2cbf37871]
 
 An explosives licence granted under Part IX of the 1987 Regulations continues to have effect in accordance with any terms, conditions and limitations that applied to that grant.
 
-### 31.[^key-e3a284fa3b392d7877cbf096cc7c573b]
+### 31.[^c-e3a284fa3b392d7877cbf096cc7c573b]
 
 Byelaws having effect under the 1987 Regulations continue to have effect until revoked.
 
-### 32.[^key-f84e6dcae73f512c9ae0829d0261595c]
+### 32.[^c-f84e6dcae73f512c9ae0829d0261595c]
 
 Any extant exemption granted under regulation 46 of the 1987 Regulations continues to have effect until it is revoked or expires.
 
-### 33. Revocations and modifications[^key-c625dc54fb19b1e37efda42c61ad45e7]
+### 33. Revocations and modifications[^c-c625dc54fb19b1e37efda42c61ad45e7]
 
 The 1987 Regulations are revoked.
 
-### 34.[^key-eae04c6a103ff26000781c98a0c6a52f]
+### 34.[^c-eae04c6a103ff26000781c98a0c6a52f]
 
 Schedule 5 (which makes consequential amendments) has effect.
 
-### 35. Review[^key-e6249e4f9aaa3a512a124614deb431e6]
+### 35. Review[^c-e6249e4f9aaa3a512a124614deb431e6]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -538,7 +538,7 @@ Department of Work and Pensions
 
 Regulation 8(1)
 
-**1.**[^key-c45c731602ca788a61038bf76c628ae5] The dangerous goods referred to in regulation 8(1) are:
+**1.**[^c-c45c731602ca788a61038bf76c628ae5] The dangerous goods referred to in regulation 8(1) are:
 
 - (a) more than 10 kilograms of explosives in Division 1.1 or 250 kilograms in aggregate of explosives in Division 1.2, 1.3 and 1.5; when explosives in Division 1.1 are carried simultaneously in the vessel with explosives in Division 1.2, 1.3 or 1.5, the overall limit is 10 kilograms;
 - (b) more than 25 tonnes of sodium chlorate or potassium chlorate, or more than 500 tonnes of ammonium nitrate of Class 5.1;
@@ -547,7 +547,7 @@ Regulation 8(1)
 - (e) bulk liquids of Classes 4, 5, 6.1 and 8 of UN Packing Groups I and II in the UN list;
 - (f) bulk liquids of Class 6.1, UN Packing Group III in the UN list, if such liquids have a harmful inhalation risk.
 
-**2.**[^key-8208db7f248bce2eff6a01e16bcda50a] In paragraph 1—
+**2.**[^c-8208db7f248bce2eff6a01e16bcda50a] In paragraph 1—
 
 - “UN List” means the version of the UN list referred to in Chapter 3.2 of the IMDG Code as updated from time to time.
 
@@ -557,87 +557,87 @@ Regulation 8(1)(a)&(b)
 
 ### PART 1 — Shape and colour of flag
 
-**1.**[^key-42d83baee6355fefabfc2bcdea6fdda2] The shape of the flag shall be as shown below.
+**1.**[^c-42d83baee6355fefabfc2bcdea6fdda2] The shape of the flag shall be as shown below.
 
 [image: see source](https://www.legislation.gov.uk/uksi/2016/721/images/uksi_20160721_en_001)
 
-**2.**[^key-30fb7c26c371c01709f85b940d85ddcf] The flag shall be red in colour.
+**2.**[^c-30fb7c26c371c01709f85b940d85ddcf] The flag shall be red in colour.
 
 ### PART 2 — Material and size of flag on vessels with a mast
 
-**1.**[^key-8d8ce30e2b3e0696d91bbdd54a86edf9] The flag shall be made of fabric.
+**1.**[^c-8d8ce30e2b3e0696d91bbdd54a86edf9] The flag shall be made of fabric.
 
-**2.**[^key-43e4a46ff335192edabc6333e6429e50] The side of the flag marked “a” on the diagram shown in Part 1 of this Schedule shall not be less than 75 centimetres in length and the sides of the flag marked “b” on the said diagram shall have equal lengths of not less than 90 centimetres.
+**2.**[^c-43e4a46ff335192edabc6333e6429e50] The side of the flag marked “a” on the diagram shown in Part 1 of this Schedule shall not be less than 75 centimetres in length and the sides of the flag marked “b” on the said diagram shall have equal lengths of not less than 90 centimetres.
 
 ### PART 3 — Material and size of flag on vessels without a mast
 
-**1.**[^key-68e57122899a683d12da8ce169173a9a] The flag shall be made of metal.
+**1.**[^c-68e57122899a683d12da8ce169173a9a] The flag shall be made of metal.
 
-**2.**[^key-5e8005cff9241623bed5410d31993732] The side of the flag marked “a” on the diagram shown in Part 1 of this Schedule shall not be less than 45 centimetres in length and the side of the flag marked “b” on the diagram shall have equal lengths of not less than 90 centimetres.
+**2.**[^c-5e8005cff9241623bed5410d31993732] The side of the flag marked “a” on the diagram shown in Part 1 of this Schedule shall not be less than 45 centimetres in length and the side of the flag marked “b” on the diagram shall have equal lengths of not less than 90 centimetres.
 
 ## SCHEDULE 3
 
 Regulation 16
 
-**1.**[^key-da89471f5337ef9cb7440bec439a5bad] An application for an explosives licence, or for the transfer, renewal or variation of an existing licence is to be made in writing to the appropriate authority and is to be accompanied by such information and plans as that authority may require.
+**1.**[^c-da89471f5337ef9cb7440bec439a5bad] An application for an explosives licence, or for the transfer, renewal or variation of an existing licence is to be made in writing to the appropriate authority and is to be accompanied by such information and plans as that authority may require.
 
-**2.**[^key-a0faebc523a865b5229bfe268b79694b] On receipt of an application, the appropriate authority must prepare a draft licence and require the applicant to publish, in an approved form, a notice giving such details of the draft licence as the appropriate authority may require.
+**2.**[^c-a0faebc523a865b5229bfe268b79694b] On receipt of an application, the appropriate authority must prepare a draft licence and require the applicant to publish, in an approved form, a notice giving such details of the draft licence as the appropriate authority may require.
 
-**3.**[^key-b04694ae12deb5bf9e7795f18f7cd77a] A notice published in accordance with paragraph 2 is to state that any responses to the application are to be sent to the appropriate authority within one month of the publication of the notice.
+**3.**[^c-b04694ae12deb5bf9e7795f18f7cd77a] A notice published in accordance with paragraph 2 is to state that any responses to the application are to be sent to the appropriate authority within one month of the publication of the notice.
 
-**4.**[^key-4c1ce92a94c2686e7b4732f13fc7cdd1] Within the time for responses the applicant must provide any interested person with such information about the application as the appropriate authority may determine.
+**4.**[^c-4c1ce92a94c2686e7b4732f13fc7cdd1] Within the time for responses the applicant must provide any interested person with such information about the application as the appropriate authority may determine.
 
-**5.**[^key-0cf4be53082c17632c798d839557daa3] After the time for responses has passed the appropriate authority may amend the draft licence and must require the applicant to publish a further notice in accordance with paragraphs 2 and 3 unless the effects of the changes are minimal.
+**5.**[^c-0cf4be53082c17632c798d839557daa3] After the time for responses has passed the appropriate authority may amend the draft licence and must require the applicant to publish a further notice in accordance with paragraphs 2 and 3 unless the effects of the changes are minimal.
 
-**6.**[^key-93f62a026fbfececa1225d5a27ee7382] An applicant for a licence who is a berth operator must send a copy of the licence to the harbour authority.
+**6.**[^c-93f62a026fbfececa1225d5a27ee7382] An applicant for a licence who is a berth operator must send a copy of the licence to the harbour authority.
 
-**7.**[^key-b867b43acd0ff429321a82cdc006c520] In respect of a transfer or a variation of the terms of an existing licence the requirements as to publication and consultation in paragraphs 2 and 3 do not apply where the appropriate authority is satisfied that the changes affect only the title or where the effects are minimal.
+**7.**[^c-b867b43acd0ff429321a82cdc006c520] In respect of a transfer or a variation of the terms of an existing licence the requirements as to publication and consultation in paragraphs 2 and 3 do not apply where the appropriate authority is satisfied that the changes affect only the title or where the effects are minimal.
 
 ## SCHEDULE 4 — Provisions Relating to Byelaws
 
 Regulation 25
 
-**1.**[^key-d3342244d47d2e12e2c7333b57728118] In this Schedule, “byelaws” means byelaws made by a statutory harbour authority for all or any of the purposes set out in regulation 25(1).
+**1.**[^c-d3342244d47d2e12e2c7333b57728118] In this Schedule, “byelaws” means byelaws made by a statutory harbour authority for all or any of the purposes set out in regulation 25(1).
 
-**2.**[^key-581bca6c7c1939f5203b23354148895f] Byelaws are to be made under the common seal of the statutory harbour authority.
+**2.**[^c-581bca6c7c1939f5203b23354148895f] Byelaws are to be made under the common seal of the statutory harbour authority.
 
-**3.**[^key-c3f0a6f69dd3adaf309c347426b38ece] Byelaws will not have effect until they are confirmed by the Secretary of State.
+**3.**[^c-c3f0a6f69dd3adaf309c347426b38ece] Byelaws will not have effect until they are confirmed by the Secretary of State.
 
-**4.**[^key-3493a6fd994469e2e28be0a62a2b062c] However, where a byelaw which prohibits or regulates the entry of dangerous goods into a harbour area has been made after consultation with any berth operator who will be affected by the proposed byelaw, it will come into force when application is made for its confirmation; where the Secretary of State refuses such confirmation the byelaw will cease to have effect or, if confirmed with modifications, it will have effect as modified.
+**4.**[^c-3493a6fd994469e2e28be0a62a2b062c] However, where a byelaw which prohibits or regulates the entry of dangerous goods into a harbour area has been made after consultation with any berth operator who will be affected by the proposed byelaw, it will come into force when application is made for its confirmation; where the Secretary of State refuses such confirmation the byelaw will cease to have effect or, if confirmed with modifications, it will have effect as modified.
 
-**5.**[^key-1f61c136466fc8627a04c547cc7b13ec] At least one month before an application for confirmation of the byelaws is made, notice of the intention to apply for confirmation is to be given in one or more local newspapers circulating in the vicinity of the harbour area to which the byelaws are to apply.
+**5.**[^c-1f61c136466fc8627a04c547cc7b13ec] At least one month before an application for confirmation of the byelaws is made, notice of the intention to apply for confirmation is to be given in one or more local newspapers circulating in the vicinity of the harbour area to which the byelaws are to apply.
 
-**6.**[^key-f280186e072f3916a9b61ea76571c8e6] For at least one month before application for confirmation is made, a copy of the byelaws is to be made available at all reasonable hours and open to public inspection without payment at the offices of the statutory harbour authority by whom the byelaws are made.
+**6.**[^c-f280186e072f3916a9b61ea76571c8e6] For at least one month before application for confirmation is made, a copy of the byelaws is to be made available at all reasonable hours and open to public inspection without payment at the offices of the statutory harbour authority by whom the byelaws are made.
 
-**7.**[^key-2e28d61fbf2df8960c58951600f61b85] The Secretary of State may confirm, with or without modifications, or refuse to confirm, any byelaw submitted for confirmation, and subject to paragraph 2 above may fix the date on which the byelaw is to come into operation. If no date is fixed the byelaw shall come into operation one month from the date of its confirmation.
+**7.**[^c-2e28d61fbf2df8960c58951600f61b85] The Secretary of State may confirm, with or without modifications, or refuse to confirm, any byelaw submitted for confirmation, and subject to paragraph 2 above may fix the date on which the byelaw is to come into operation. If no date is fixed the byelaw shall come into operation one month from the date of its confirmation.
 
-**8.**[^key-ef1cf15b5d9cc0df806a58387ace01a8] Where the Secretary of State proposes to confirm a byelaw with a modification which appears to the Secretary of State to be substantial, the Secretary of State must inform the statutory harbour authority and require it to take any steps the Secretary of State considers necessary for informing persons likely to be concerned with the modification. The Secretary of State must not confirm the byelaw until a 28 day period for consultation with informed persons and with the statutory harbour authority has passed.
+**8.**[^c-ef1cf15b5d9cc0df806a58387ace01a8] Where the Secretary of State proposes to confirm a byelaw with a modification which appears to the Secretary of State to be substantial, the Secretary of State must inform the statutory harbour authority and require it to take any steps the Secretary of State considers necessary for informing persons likely to be concerned with the modification. The Secretary of State must not confirm the byelaw until a 28 day period for consultation with informed persons and with the statutory harbour authority has passed.
 
-**9.**[^key-c0fe00349753aa316dbab5dcdf7695b9] The Secretary of State must consult the Health and Safety Executive, or where appropriate the Office for Nuclear Regulation, before confirming any byelaws.
+**9.**[^c-c0fe00349753aa316dbab5dcdf7695b9] The Secretary of State must consult the Health and Safety Executive, or where appropriate the Office for Nuclear Regulation, before confirming any byelaws.
 
-**10.**[^key-0e1ba1599421633f3723b8d9deb93f5c] A copy of the byelaws, when confirmed, is to be printed and deposited at the offices of the statutory harbour authority that made the byelaws and is to be open to public inspection without payment at all reasonable times.
+**10.**[^c-0e1ba1599421633f3723b8d9deb93f5c] A copy of the byelaws, when confirmed, is to be printed and deposited at the offices of the statutory harbour authority that made the byelaws and is to be open to public inspection without payment at all reasonable times.
 
 ## SCHEDULE 5 — Consequential Amendments
 
 Regulation 34
 
-**1.**[^key-a4ac4b61333b4e594b4b278a2d4f0c49] In the Dangerous Substances (Notification and Marking of Sites) Regulations 1990[^f00021], in paragraph 2(d) of Schedule 1 (Exceptions), for “regulation 27 of the Dangerous Substances in Harbour Areas Regulations 1987” substitute “regulation 11 of the Dangerous Goods in Harbour Areas Regulations 2016”.
+**1.**[^c-a4ac4b61333b4e594b4b278a2d4f0c49] In the Dangerous Substances (Notification and Marking of Sites) Regulations 1990[^f00021], in paragraph 2(d) of Schedule 1 (Exceptions), for “regulation 27 of the Dangerous Substances in Harbour Areas Regulations 1987” substitute “regulation 11 of the Dangerous Goods in Harbour Areas Regulations 2016”.
 
-**2.**[^key-9162f16cd13435c547911ac178b864d0] In the Railways (Class and Miscellaneous Exemptions) Order 1994[^f00022] in paragraph 2(1) (Interpretation) for the definition of “harbour” and “harbour area” substitute—
-
-> - “harbour” and “harbour area” mean the definition of “harbour area” in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016;
-
-.
-
-**3.**[^key-a2b9069ffa09037ab22cebedc9717a75] In the Special Waste Regulations 1996[^f00023] in the definition of “harbour area” in regulation 1(4) for “Dangerous Substances in Harbour Areas Regulations 1987” substitute “Dangerous Goods in Harbour Areas Regulations 2016”;
-
-**4.**[^key-7fa9690cfc77227c6f73e69bebf55eeb] In the Railway Safety (Miscellaneous Provisions) Regulations 1997[^f00024], in regulation (2)(1) (Interpretation) for the definition of “harbour” and “harbour area”” substitute—
+**2.**[^c-9162f16cd13435c547911ac178b864d0] In the Railways (Class and Miscellaneous Exemptions) Order 1994[^f00022] in paragraph 2(1) (Interpretation) for the definition of “harbour” and “harbour area” substitute—
 
 > - “harbour” and “harbour area” mean the definition of “harbour area” in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016;
 
 .
 
-**5.**[^key-35786f7254144f4ad6fb040f8ea91e16] In the Dockyard Port of Plymouth Order 1999[^f00025]—
+**3.**[^c-a2b9069ffa09037ab22cebedc9717a75] In the Special Waste Regulations 1996[^f00023] in the definition of “harbour area” in regulation 1(4) for “Dangerous Substances in Harbour Areas Regulations 1987” substitute “Dangerous Goods in Harbour Areas Regulations 2016”;
+
+**4.**[^c-7fa9690cfc77227c6f73e69bebf55eeb] In the Railway Safety (Miscellaneous Provisions) Regulations 1997[^f00024], in regulation (2)(1) (Interpretation) for the definition of “harbour” and “harbour area”” substitute—
+
+> - “harbour” and “harbour area” mean the definition of “harbour area” in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016;
+
+.
+
+**5.**[^c-35786f7254144f4ad6fb040f8ea91e16] In the Dockyard Port of Plymouth Order 1999[^f00025]—
 
 - (a) in article 2 (Interpretation) for the definition of “1987 Regulations” substitute—
 
@@ -650,13 +650,13 @@ Regulation 34
 - (c) in article 24(b)(i) for “Regulation 8 of the1987 Regulations” substitute “Regulation 8 of the 2016 Regulations”;
 - (d) in Schedule 2 (Rules) paragraph 3(2) (Anchor and other lights and signals (exemptions) etc.) for “the 1987 Regulations” substitute “the 2016 Regulations”.
 
-**6.**[^key-05586374afb577dff016d52fd34462e0] In the Hazardous Waste (England and Wales) Regulations 2005[^f00026] in regulation 5 (General Interpretation) for the definition of “harbour area” substitute the following definition—
+**6.**[^c-05586374afb577dff016d52fd34462e0] In the Hazardous Waste (England and Wales) Regulations 2005[^f00026] in regulation 5 (General Interpretation) for the definition of “harbour area” substitute the following definition—
 
 > - “harbour area” has the same meaning as in the Dangerous Goods in Harbour Areas Regulations 2016;
 
 .
 
-**7.**[^key-57c60d42025dce14462294df8656fef5] In the Hazardous Waste (Wales) Regulations 2005[^f00027]—
+**7.**[^c-57c60d42025dce14462294df8656fef5] In the Hazardous Waste (Wales) Regulations 2005[^f00027]—
 
 - (a) in the English language text, for regulation 5(1) (General interpretation) for the definition of “harbour area” substitute the following definition—
 
@@ -669,7 +669,7 @@ Regulation 34
 
   .
 
-**8.**[^key-954a14d472b74246dcebb189a3874f1e] In the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006[^f00028]—
+**8.**[^c-954a14d472b74246dcebb189a3874f1e] In the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006[^f00028]—
 
 - (a) in regulation 2 (Interpretation)—
   - (i) for the definition beginning with “harbour” substitute—
@@ -684,7 +684,7 @@ Regulation 34
     ;
 - (b) in regulation 4 (Exceptions) replace the word “harbour” with “harbour area” at each place it occurs.
 
-**9.**[^key-f6327dcf06b0a3c610b27131e9b7fd9f] In the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^f00029], in regulation 2(1) (Interpretation and application)—
+**9.**[^c-f6327dcf06b0a3c610b27131e9b7fd9f] In the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^f00029], in regulation 2(1) (Interpretation and application)—
 
 - (a) for the definition beginning with “harbour” substitute—
 
@@ -693,20 +693,20 @@ Regulation 34
   ;
 - (b) in paragraph (c)(i) delete the words “harbour or”.
 
-**10.**[^key-be62f0a8490bb80d24918f4400b096ea] In the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00030], in regulation 7 (Additional security requirements for carriage by road), for paragraph (5)(a)(ii) substitute—
+**10.**[^c-be62f0a8490bb80d24918f4400b096ea] In the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00030], in regulation 7 (Additional security requirements for carriage by road), for paragraph (5)(a)(ii) substitute—
 
 > - in relation to a harbour or harbour area, a parking area designated for the purposes of regulation 13 of the Dangerous Goods in Harbour Areas Regulations 2016;
 
 .
 
-**11.**[^key-20423e32bafc89426f0219ea6ae852a4] In the Waste Management Licensing (Scotland) Regulations 2011[^f00031], in Schedule 1 (Activities Exempt from Waste Management Licensing), paragraph 36(4), for “Dangerous Substances in Harbour Areas Regulations 1987” substitute “Dangerous Goods in Harbour Areas Regulations 2016”.
+**11.**[^c-20423e32bafc89426f0219ea6ae852a4] In the Waste Management Licensing (Scotland) Regulations 2011[^f00031], in Schedule 1 (Activities Exempt from Waste Management Licensing), paragraph 36(4), for “Dangerous Substances in Harbour Areas Regulations 1987” substitute “Dangerous Goods in Harbour Areas Regulations 2016”.
 
-**12.**[^key-4239b13113747a3b01cb1aca521b5f7d] In the Explosives Regulations 2014[^f00032]—
+**12.**[^c-4239b13113747a3b01cb1aca521b5f7d] In the Explosives Regulations 2014[^f00032]—
 
 - (a) in regulation 2(7) (Interpretation) for “regulation 36(1) of the Dangerous Substances in Harbour Areas Regulations 1987” substitute “regulation 17 of the Dangerous Goods in Harbour Areas Regulations 2016”;
 - (b) in regulation 3(8) (Application and extent) for “Part IX of the Dangerous Substances in Harbour Areas Regulations 1987 (Explosives) applies” substitute “Part 5 of the Dangerous Goods In Harbour Areas Regulations 2016 applies”.
 
-**13.**[^key-74f48f3d19b4a6164746fc9585b1c138] In the Planning (Hazardous Substances) Regulations 2015[^f00033], in Schedule 2 (Exemptions)—
+**13.**[^c-74f48f3d19b4a6164746fc9585b1c138] In the Planning (Hazardous Substances) Regulations 2015[^f00033], in Schedule 2 (Exemptions)—
 
 - (a) for paragraph 5(b) (Emergency unloading from ships) substitute—
 
@@ -719,7 +719,7 @@ Regulation 34
 
   .
 
-**14.**[^key-8f8567cfa0b1e5bdff98e94e956bd96b] In the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015[^f00034], in Schedule 2 (Exemptions)—
+**14.**[^c-8f8567cfa0b1e5bdff98e94e956bd96b] In the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015[^f00034], in Schedule 2 (Exemptions)—
 
 - (a) for paragraph 9(b) (Emergency unloading from ships) substitute—
 
@@ -728,7 +728,7 @@ Regulation 34
   ;
 - (b) in paragraph 11 (Explosives) for “the Dangerous Substances in Harbour Areas Regulations 1987” substitute “the Dangerous Goods in Harbour Areas Regulations 2016”.
 
-**15.**[^key-1c1b7cefe1074db3cf02df4f4f6fc7c8] In the Planning (Hazardous Substances) (Wales) Regulations 2015[^f00035], in Schedule 2 (Exemptions)—
+**15.**[^c-1c1b7cefe1074db3cf02df4f4f6fc7c8] In the Planning (Hazardous Substances) (Wales) Regulations 2015[^f00035], in Schedule 2 (Exemptions)—
 
 - (a) in the English language text—
   - (i) for paragraph 4(b) (Emergency unloading from ships) substitute—
@@ -749,7 +749,7 @@ Regulation 34
     ;
   - (ii) in paragraph 11 (Ffrwydron) for “trwydded ar gyfer ffrwydryn o fewn ystyr “explosive” yn rheoliad 2(1) o Reoliadau Sylweddau Peryglus mewn Ardaloedd Harbwr 1987” substitute “trwydded ffrwydron o fewn ystyr “explosives licence” yn rheoliad 2(1) o Reoliadau Nwyddau Peryglus mewn Ardaloedd Harbwr 2016”.
 
-**16.**[^key-d45db8f846e5475bdb5e67f55d2085bb] In the Health and Safety and Nuclear (Fees) Regulations 2016[^f00036]—
+**16.**[^c-d45db8f846e5475bdb5e67f55d2085bb] In the Health and Safety and Nuclear (Fees) Regulations 2016[^f00036]—
 
 - (a) in the heading to Regulation 11 for “Fees for application for or changes to an explosives licence under Part 9 of the Dangerous Substances in Harbour Areas Regulations 1987” substitute “**Fees for application for or changes to an explosives licence under Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016**”;
 - (b) at regulation 11(1) for “Part 9 of the 1987 Regulations” substitute “Part 5 of the 2016 Regulations”;
@@ -823,9 +823,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: Section 50(3) was amended by paragraph 16(3) of Schedule 15 to the Employment Protection Act [1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71); it was further amended by paragraph 6 of Schedule 7 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7); and also by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-260eee8b4dc7ea88cd0dc6f07111d74d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-260eee8b4dc7ea88cd0dc6f07111d74d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-1baf0a9ca4239843e889583d58f465aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/721/regulation/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-1baf0a9ca4239843e889583d58f465aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/721/regulation/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37).
 
@@ -845,198 +845,198 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: [1952 c.67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-0eb1ef6e1d0fd5f1ef5d24b70d3732fe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/721/regulation/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-0eb1ef6e1d0fd5f1ef5d24b70d3732fe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/721/regulation/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-7fd261d0bb6bd4ede2ed32edbd297cc9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/721/regulation/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-7fd261d0bb6bd4ede2ed32edbd297cc9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/721/regulation/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-43098f85eb20e1d523d14bddba7677a1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-43098f85eb20e1d523d14bddba7677a1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-7eb933fb121c08bb90709e669d815971]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/721/regulation/5/1) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2017/304/regulation/7)
+[^c-7eb933fb121c08bb90709e669d815971]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/721/regulation/5/1) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2017/304/regulation/7)
 
 [^f00014]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21): Schedule 3A was inserted by Schedule 1 to the Marine Safety Act [2003 (c.16)](https://www.legislation.gov.uk/ukpga/2003/16).
 
-[^key-8483e2e648beb9c4eb115f337935ec57]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/721/regulation/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-8483e2e648beb9c4eb115f337935ec57]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/721/regulation/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348).
 
 [^f00016]: Footnote: [S.I. 1992/2356](https://www.legislation.gov.uk/uksi/1992/2356).
 
-[^key-5df3fd7ce5ccc32f36bd5c7720a4f530]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/721/regulation/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-5df3fd7ce5ccc32f36bd5c7720a4f530]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/721/regulation/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-9c94158d8e82fa343f177fdd45ddee82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/721/regulation/8) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-9c94158d8e82fa343f177fdd45ddee82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/721/regulation/8) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-2b705b5acc815f722610d1ec29030d89]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2016/721/regulation/9) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-2b705b5acc815f722610d1ec29030d89]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2016/721/regulation/9) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-23b83d16f86894be418d53dd895b678c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/721/regulation/10) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-23b83d16f86894be418d53dd895b678c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/721/regulation/10) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-191e5aab184bad69bffc7102a1788af9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/721/regulation/11) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-191e5aab184bad69bffc7102a1788af9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/721/regulation/11) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-d66ea69408c7214af12040e03524a7f6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/721/regulation/12) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-d66ea69408c7214af12040e03524a7f6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/721/regulation/12) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-94b7b33cdaa065752eb3187f04eb6322]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/721/regulation/13) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-94b7b33cdaa065752eb3187f04eb6322]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/721/regulation/13) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-5a0ade504b2e161425580c74b2328143]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/721/regulation/14) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-5a0ade504b2e161425580c74b2328143]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/721/regulation/14) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00017]: Footnote: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738), as amended by [S.I. 2002/2175](https://www.legislation.gov.uk/uksi/2002/2175) and [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398), there are other amendments not relevant to these Regulations.
 
 [^f00018]: Footnote: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638), amended by [S.I. 2016/315](https://www.legislation.gov.uk/uksi/2016/315).
 
-[^key-842e3c7c3510bdb27df687cd8a345830]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/721/regulation/15) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-842e3c7c3510bdb27df687cd8a345830]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/721/regulation/15) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-bfb402b568311d6fccaf2d9a54c3504f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/721/regulation/16) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-bfb402b568311d6fccaf2d9a54c3504f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/721/regulation/16) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-2252916e33b8bf75379c36a72ef4e533]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2016/721/regulation/17) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-2252916e33b8bf75379c36a72ef4e533]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2016/721/regulation/17) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-f039f51ac33f639dbbe508264b4ccab7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2016/721/regulation/18) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-f039f51ac33f639dbbe508264b4ccab7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2016/721/regulation/18) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-3875f1ac36f05cadb7eb195b0a693d17]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2016/721/regulation/19) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-3875f1ac36f05cadb7eb195b0a693d17]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2016/721/regulation/19) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-b970f2af075ab0981ef0f6a3358366d6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2016/721/regulation/20) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-b970f2af075ab0981ef0f6a3358366d6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2016/721/regulation/20) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-5b46adf24914f5b080df10ab22e6f58a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2016/721/regulation/21) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-5b46adf24914f5b080df10ab22e6f58a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2016/721/regulation/21) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-6ee853f9ade0730c64dbf2808914b7e1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2016/721/regulation/22) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-6ee853f9ade0730c64dbf2808914b7e1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2016/721/regulation/22) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-0150517ab8040bb76085dfe501450cae]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2016/721/regulation/23) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-0150517ab8040bb76085dfe501450cae]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2016/721/regulation/23) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-de153bde84d2abced498891a7893bd88]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2016/721/regulation/24) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-de153bde84d2abced498891a7893bd88]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2016/721/regulation/24) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2015/1553](https://www.legislation.gov.uk/uksi/2015/1553).
 
-[^key-9e1b14c1683288a235627864b01e88f1]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2016/721/regulation/25) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-9e1b14c1683288a235627864b01e88f1]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2016/721/regulation/25) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-98b70cfb1419630525a5b330c013960f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2016/721/regulation/26) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-98b70cfb1419630525a5b330c013960f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2016/721/regulation/26) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-931441ef92e48f9d15d09f41c956c5c0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2016/721/regulation/27) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-931441ef92e48f9d15d09f41c956c5c0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2016/721/regulation/27) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-b7eb127c0b77fb576326e9f301606989]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2016/721/regulation/28) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-b7eb127c0b77fb576326e9f301606989]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2016/721/regulation/28) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348), the definition was substituted b [S.I. 2011/1885](https://www.legislation.gov.uk/uksi/2011/1885), there are other amendments to the S.I. which are not relevant to these Regulations.
 
-[^key-05ee7bef1a6087e1bf08147f63bc50fd]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2016/721/regulation/29) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-05ee7bef1a6087e1bf08147f63bc50fd]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2016/721/regulation/29) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-546fb06cced5293d5fa84cb2cbf37871]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2016/721/regulation/30) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-546fb06cced5293d5fa84cb2cbf37871]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2016/721/regulation/30) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-e3a284fa3b392d7877cbf096cc7c573b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2016/721/regulation/31) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-e3a284fa3b392d7877cbf096cc7c573b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2016/721/regulation/31) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-f84e6dcae73f512c9ae0829d0261595c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2016/721/regulation/32) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-f84e6dcae73f512c9ae0829d0261595c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2016/721/regulation/32) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-c625dc54fb19b1e37efda42c61ad45e7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2016/721/regulation/33) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-c625dc54fb19b1e37efda42c61ad45e7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2016/721/regulation/33) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-eae04c6a103ff26000781c98a0c6a52f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2016/721/regulation/34) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-eae04c6a103ff26000781c98a0c6a52f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2016/721/regulation/34) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-e6249e4f9aaa3a512a124614deb431e6]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2016/721/regulation/35) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-e6249e4f9aaa3a512a124614deb431e6]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2016/721/regulation/35) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-c45c731602ca788a61038bf76c628ae5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/1/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-c45c731602ca788a61038bf76c628ae5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/1/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-8208db7f248bce2eff6a01e16bcda50a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/1/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-8208db7f248bce2eff6a01e16bcda50a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/1/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-42d83baee6355fefabfc2bcdea6fdda2]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/1/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-42d83baee6355fefabfc2bcdea6fdda2]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/1/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-30fb7c26c371c01709f85b940d85ddcf]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/1/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-30fb7c26c371c01709f85b940d85ddcf]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/1/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-8d8ce30e2b3e0696d91bbdd54a86edf9]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/2/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-8d8ce30e2b3e0696d91bbdd54a86edf9]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/2/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-43e4a46ff335192edabc6333e6429e50]: Commencement: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/2/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-43e4a46ff335192edabc6333e6429e50]: Commencement: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/2/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-68e57122899a683d12da8ce169173a9a]: Commencement: [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/3/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-68e57122899a683d12da8ce169173a9a]: Commencement: [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/3/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-5e8005cff9241623bed5410d31993732]: Commencement: [Sch. 2 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/3/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-5e8005cff9241623bed5410d31993732]: Commencement: [Sch. 2 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/2/part/3/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-da89471f5337ef9cb7440bec439a5bad]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-da89471f5337ef9cb7440bec439a5bad]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-a0faebc523a865b5229bfe268b79694b]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-a0faebc523a865b5229bfe268b79694b]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-b04694ae12deb5bf9e7795f18f7cd77a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-b04694ae12deb5bf9e7795f18f7cd77a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-4c1ce92a94c2686e7b4732f13fc7cdd1]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-4c1ce92a94c2686e7b4732f13fc7cdd1]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-0cf4be53082c17632c798d839557daa3]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-0cf4be53082c17632c798d839557daa3]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-93f62a026fbfececa1225d5a27ee7382]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-93f62a026fbfececa1225d5a27ee7382]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-b867b43acd0ff429321a82cdc006c520]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-b867b43acd0ff429321a82cdc006c520]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2016/721/schedule/3/paragraph/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-d3342244d47d2e12e2c7333b57728118]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-d3342244d47d2e12e2c7333b57728118]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-581bca6c7c1939f5203b23354148895f]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-581bca6c7c1939f5203b23354148895f]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-c3f0a6f69dd3adaf309c347426b38ece]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-c3f0a6f69dd3adaf309c347426b38ece]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-3493a6fd994469e2e28be0a62a2b062c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-3493a6fd994469e2e28be0a62a2b062c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-1f61c136466fc8627a04c547cc7b13ec]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-1f61c136466fc8627a04c547cc7b13ec]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-f280186e072f3916a9b61ea76571c8e6]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-f280186e072f3916a9b61ea76571c8e6]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-2e28d61fbf2df8960c58951600f61b85]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-2e28d61fbf2df8960c58951600f61b85]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-ef1cf15b5d9cc0df806a58387ace01a8]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/8) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-ef1cf15b5d9cc0df806a58387ace01a8]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/8) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-c0fe00349753aa316dbab5dcdf7695b9]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/9) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-c0fe00349753aa316dbab5dcdf7695b9]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/9) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-0e1ba1599421633f3723b8d9deb93f5c]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/10) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-0e1ba1599421633f3723b8d9deb93f5c]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2016/721/schedule/4/paragraph/10) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
-[^key-a4ac4b61333b4e594b4b278a2d4f0c49]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-a4ac4b61333b4e594b4b278a2d4f0c49]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/1) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1990/304](https://www.legislation.gov.uk/uksi/1990/304); to which there are amendments none of which is relevant.
 
-[^key-9162f16cd13435c547911ac178b864d0]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-9162f16cd13435c547911ac178b864d0]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/2) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00022]: Footnote: [S.I. 1994/606](https://www.legislation.gov.uk/uksi/1994/606).
 
-[^key-a2b9069ffa09037ab22cebedc9717a75]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-a2b9069ffa09037ab22cebedc9717a75]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/3) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00023]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972); revoked in respect of England and Wales.
 
-[^key-7fa9690cfc77227c6f73e69bebf55eeb]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-7fa9690cfc77227c6f73e69bebf55eeb]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/4) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00024]: Footnote: [S.I. 1997/553](https://www.legislation.gov.uk/uksi/1997/553).
 
-[^key-35786f7254144f4ad6fb040f8ea91e16]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-35786f7254144f4ad6fb040f8ea91e16]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/5) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00025]: Footnote: [S.I. 1999/2029](https://www.legislation.gov.uk/uksi/1999/2029).
 
-[^key-05586374afb577dff016d52fd34462e0]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-05586374afb577dff016d52fd34462e0]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/6) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00026]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894).
 
-[^key-57c60d42025dce14462294df8656fef5]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-57c60d42025dce14462294df8656fef5]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/7) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00027]: Footnote: [S.I. 2005/1806 (W.138)](https://www.legislation.gov.uk/wsi/2005/1806). The Regulations were made in Welsh and English. By virtue of section 156(1) of the Government of Wales Act [2006(c.32)](https://www.legislation.gov.uk/ukpga/2006/32) the English and Welsh texts are to be treated for all purposes as being of equal standing. The title of the Regulations in Welsh is Rheoliadau Gwastraff Peryglus (Cymru) 2005.
 
-[^key-954a14d472b74246dcebb189a3874f1e]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/8) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-954a14d472b74246dcebb189a3874f1e]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/8) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00028]: Footnote: [S.I. 2006/557](https://www.legislation.gov.uk/uksi/2006/557).
 
-[^key-f6327dcf06b0a3c610b27131e9b7fd9f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/9) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-f6327dcf06b0a3c610b27131e9b7fd9f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/9) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00029]: Footnote: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599).
 
-[^key-be62f0a8490bb80d24918f4400b096ea]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/10) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-be62f0a8490bb80d24918f4400b096ea]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/10) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00030]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348); to which there are amendments none of which is relevant.
 
-[^key-20423e32bafc89426f0219ea6ae852a4]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/11) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-20423e32bafc89426f0219ea6ae852a4]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/11) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00031]: Footnote: [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228).
 
-[^key-4239b13113747a3b01cb1aca521b5f7d]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/12) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-4239b13113747a3b01cb1aca521b5f7d]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/12) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00032]: Footnote: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638).
 
-[^key-74f48f3d19b4a6164746fc9585b1c138]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/13) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-74f48f3d19b4a6164746fc9585b1c138]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/13) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00033]: Footnote: [S.I. 2015/627](https://www.legislation.gov.uk/uksi/2015/627).
 
-[^key-8f8567cfa0b1e5bdff98e94e956bd96b]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/14) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-8f8567cfa0b1e5bdff98e94e956bd96b]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/14) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00034]: Footnote: [S.S.I. 2015/181](https://www.legislation.gov.uk/ssi/2015/181).
 
-[^key-1c1b7cefe1074db3cf02df4f4f6fc7c8]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/15) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-1c1b7cefe1074db3cf02df4f4f6fc7c8]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/15) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00035]: Footnote: [S.I. 2015/1597 (W. 196)](https://www.legislation.gov.uk/wsi/2015/1597). The Regulations were made in Welsh and English. The title of the Regulations in Welsh is Rheoliadau Cynllunio (Sylweddau Peryglus) (Cymru) 2015.
 
-[^key-d45db8f846e5475bdb5e67f55d2085bb]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/16) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
+[^c-d45db8f846e5475bdb5e67f55d2085bb]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/16) in force at 1.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1)
 
 [^f00036]: Footnote: [S.I. 2016/253](https://www.legislation.gov.uk/uksi/2016/253).

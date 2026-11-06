@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. References to appropriate bodies[^key-400da4c2a0e7d647a9fcf6dd91359855]
+## 61A. References to appropriate bodies[^c-400da4c2a0e7d647a9fcf6dd91359855]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-400da4c2a0e7d647a9fcf6dd91359855]: Textual amendment: S. 61A omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 38](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/38)
+[^c-400da4c2a0e7d647a9fcf6dd91359855]: Textual amendment: S. 61A omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 38](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/38)

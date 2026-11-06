@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Provision of advice by Natural England to public authorities[^key-608ec2624105cbbb197363397da013cd][^key-902f4d73e562dfc8f39784dd870dcd5f]
+## 57. Provision of advice by Natural England to public authorities[^c-608ec2624105cbbb197363397da013cd][^c-902f4d73e562dfc8f39784dd870dcd5f]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-608ec2624105cbbb197363397da013cd]: Commencement: S. 57 not in force at Royal Assent, see [s. 118(2)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/f)
+[^c-608ec2624105cbbb197363397da013cd]: Commencement: S. 57 not in force at Royal Assent, see [s. 118(2)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/f)
 
-[^key-902f4d73e562dfc8f39784dd870dcd5f]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/34/section/57) in force at 17.6.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/a)
+[^c-902f4d73e562dfc8f39784dd870dcd5f]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/34/section/57) in force at 17.6.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/a)

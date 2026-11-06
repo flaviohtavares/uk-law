@@ -110,7 +110,7 @@ summary: ''
 >
 > then, instead of the type C procedure, the type I procedure shall apply.
 
-(7)[^key-4d09da1b5b7de3b594f8b19db83990aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4d09da1b5b7de3b594f8b19db83990aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Subsection (7) is subject to any provision made by Order in Council under subsection (9) or by any other enactment, including an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
@@ -139,4 +139,4 @@ summary: ''
 
 [^c22565491]: Commencement: S. 36(1)(5)(6)(9)-(12) in force at Royal Assent, see s. 72(1)(b)
 
-[^key-4d09da1b5b7de3b594f8b19db83990aa]: Textual amendment: S. 36(7) (S.) repealed (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/1); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/77/regulation/3))
+[^c-4d09da1b5b7de3b594f8b19db83990aa]: Textual amendment: S. 36(7) (S.) repealed (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/1); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/77/regulation/3))

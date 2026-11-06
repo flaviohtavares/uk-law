@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Sheep and Goats (Identification and Traceability) (Scotland) Amendment Regulations 2008 (revoked)[^key-af9aad3ebf749173adab7d63a9e696eb]
+The Sheep and Goats (Identification and Traceability) (Scotland) Amendment Regulations 2008 (revoked)[^c-af9aad3ebf749173adab7d63a9e696eb]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 5th December 2008
 
-[^key-af9aad3ebf749173adab7d63a9e696eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af9aad3ebf749173adab7d63a9e696eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-af9aad3ebf749173adab7d63a9e696eb]
+## 1. Citation and commencement[^c-af9aad3ebf749173adab7d63a9e696eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006[^key-af9aad3ebf749173adab7d63a9e696eb]
+## 2. Amendment of the Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006[^c-af9aad3ebf749173adab7d63a9e696eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af9aad3ebf749173adab7d63a9e696eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af9aad3ebf749173adab7d63a9e696eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af9aad3ebf749173adab7d63a9e696eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af9aad3ebf749173adab7d63a9e696eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af9aad3ebf749173adab7d63a9e696eb]: Textual amendment: Regulations revoked (31.12.2009) by [The Sheep and Goats (Identification and Traceability) (Scotland) Revocation Regulations 2009 (S.S.I. 2009/415)](https://www.legislation.gov.uk/ssi/2009/415), [regs. 1](https://www.legislation.gov.uk/ssi/2009/415/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2009/415/schedule) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/2))
+[^c-af9aad3ebf749173adab7d63a9e696eb]: Textual amendment: Regulations revoked (31.12.2009) by [The Sheep and Goats (Identification and Traceability) (Scotland) Revocation Regulations 2009 (S.S.I. 2009/415)](https://www.legislation.gov.uk/ssi/2009/415), [regs. 1](https://www.legislation.gov.uk/ssi/2009/415/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2009/415/schedule) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2009/415/regulation/2/2))

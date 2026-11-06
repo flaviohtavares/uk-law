@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Listed Bodies) (Scotland) Amendment Order 2009 (revoked)[^key-1fe35f9ed244c1ded962bcbbd5cd406e]
+The Education (Listed Bodies) (Scotland) Amendment Order 2009 (revoked)[^c-1fe35f9ed244c1ded962bcbbd5cd406e]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 1st March 2009
 
-[^key-1fe35f9ed244c1ded962bcbbd5cd406e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fe35f9ed244c1ded962bcbbd5cd406e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1fe35f9ed244c1ded962bcbbd5cd406e]
+## 1. Citation, commencement and extent[^c-1fe35f9ed244c1ded962bcbbd5cd406e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Listed Bodies) (Scotland) Order 2007[^key-1fe35f9ed244c1ded962bcbbd5cd406e]
+## 2. Amendment of the Education (Listed Bodies) (Scotland) Order 2007[^c-1fe35f9ed244c1ded962bcbbd5cd406e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-1fe35f9ed244c1ded962bcbbd5cd406e]
+## 3.[^c-1fe35f9ed244c1ded962bcbbd5cd406e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-1fe35f9ed244c1ded962bcbbd5cd406e]
+## 4.[^c-1fe35f9ed244c1ded962bcbbd5cd406e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fe35f9ed244c1ded962bcbbd5cd406e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fe35f9ed244c1ded962bcbbd5cd406e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1fe35f9ed244c1ded962bcbbd5cd406e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fe35f9ed244c1ded962bcbbd5cd406e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fe35f9ed244c1ded962bcbbd5cd406e]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/60) revoked (31.1.2018) by [The Education (Listed Bodies) (Scotland) Order 2018 (S.S.I. 2018/7)](https://www.legislation.gov.uk/ssi/2018/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1), [3](https://www.legislation.gov.uk/ssi/2018/7/article/3)
+[^c-1fe35f9ed244c1ded962bcbbd5cd406e]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/60) revoked (31.1.2018) by [The Education (Listed Bodies) (Scotland) Order 2018 (S.S.I. 2018/7)](https://www.legislation.gov.uk/ssi/2018/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1), [3](https://www.legislation.gov.uk/ssi/2018/7/article/3)

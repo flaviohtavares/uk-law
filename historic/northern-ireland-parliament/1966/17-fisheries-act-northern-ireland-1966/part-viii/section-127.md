@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-7ad2c1491f6913f72979f31a7bf26930] Subject to subsections (5) and (6), no person shall \[[^c16996461] bring to land\], land, sell or offer or expose for sale, or have in his possession for the purpose of sale, any sea-fish of any description, being a fish of a smaller size than such size as may be prescribed in relation to sea-fish of that description by an order of the Ministry made subject to negative resolution, and orders under this subsection may prescribe a different size in relation to landing from that prescribed for other purposes.
+(1)[^c-7ad2c1491f6913f72979f31a7bf26930] Subject to subsections (5) and (6), no person shall \[[^c16996461] bring to land\], land, sell or offer or expose for sale, or have in his possession for the purpose of sale, any sea-fish of any description, being a fish of a smaller size than such size as may be prescribed in relation to sea-fish of that description by an order of the Ministry made subject to negative resolution, and orders under this subsection may prescribe a different size in relation to landing from that prescribed for other purposes.
 
 [(1A)[^c16996461] Where an order is made under subsection (1) in relation to lobsters that subsection shall have effect as if the words “for the purpose of sale” were omitted; but that subsection as so modified shall not apply to the possession of lobsters purchased by retail in a shop.\]
 
@@ -54,7 +54,7 @@ summary: ''
 
 [^c16996451]: Textual amendment: mod. by SR 2000/20
 
-[^key-7ad2c1491f6913f72979f31a7bf26930]: Modification: [S. 127(1)](https://www.legislation.gov.uk/apni/1966/17/section/127/1) excluded (31.12.2020) by S.R. 2000/200, art. 4 (as substituted by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31)))
+[^c-7ad2c1491f6913f72979f31a7bf26930]: Modification: [S. 127(1)](https://www.legislation.gov.uk/apni/1966/17/section/127/1) excluded (31.12.2020) by S.R. 2000/200, art. 4 (as substituted by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31)))
 
 [^c16996461]: Textual amendment: [1981 NI 7](https://www.legislation.gov.uk/1981/ni7)
 

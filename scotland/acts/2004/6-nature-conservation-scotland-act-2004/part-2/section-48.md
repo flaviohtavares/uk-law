@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Notices, applications etc.[^key-ce7d7b30798dd5f5ac4f6475bda52dd7]
+## 48. Notices, applications etc.[^c-ce7d7b30798dd5f5ac4f6475bda52dd7]
 
 *Extent: S*
 
@@ -79,7 +79,7 @@ and the date on which the Scottish Ministers or, as the case may be, SNH receive
 
 (11) Subsection (12) applies where, in giving to the interested parties—
 
-- (a) a notification under section 3(1), 5(1) , 5A(1)[^key-ddb2dfbfd2d6418e808c0845bd9caabe] or 9(1), or
+- (a) a notification under section 3(1), 5(1) , 5A(1)[^c-ddb2dfbfd2d6418e808c0845bd9caabe] or 9(1), or
 - (b) a notice under paragraph 3(a) of schedule 2,
 
 SNH fails or, as the case may be, the Scottish Ministers fail to give the notification or notice to any interested party specified in subsection (2)(a).
@@ -95,6 +95,6 @@ SNH fails or, as the case may be, the Scottish Ministers fail to give the notifi
 
 ## Annotations
 
-[^key-ce7d7b30798dd5f5ac4f6475bda52dd7]: Commencement: S. 48 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-ce7d7b30798dd5f5ac4f6475bda52dd7]: Commencement: S. 48 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-ddb2dfbfd2d6418e808c0845bd9caabe]: Textual amendment: Word in s. 48(11)(a) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 37(3)](https://www.legislation.gov.uk/asp/2011/6/section/37/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(n)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/n)
+[^c-ddb2dfbfd2d6418e808c0845bd9caabe]: Textual amendment: Word in s. 48(11)(a) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 37(3)](https://www.legislation.gov.uk/asp/2011/6/section/37/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(n)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of section 8A of the Prison Act 1952[^key-0fe12c5f606a80c0a34d9a1d52916fc0]
+## 27. Amendment of section 8A of the Prison Act 1952[^c-0fe12c5f606a80c0a34d9a1d52916fc0]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fe12c5f606a80c0a34d9a1d52916fc0]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2007/21/section/27) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/h)
+[^c-0fe12c5f606a80c0a34d9a1d52916fc0]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2007/21/section/27) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/h)

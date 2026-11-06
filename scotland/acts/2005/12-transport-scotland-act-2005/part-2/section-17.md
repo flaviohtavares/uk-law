@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Functions of Commissioner[^key-41546022a35a0e56d39d90a6143a4da6]
+## 17. Functions of Commissioner[^c-41546022a35a0e56d39d90a6143a4da6]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ as well as the particular functions conferred upon the Commissioner by or under 
 
 ## Annotations
 
-[^key-41546022a35a0e56d39d90a6143a4da6]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2005/12/section/17) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-41546022a35a0e56d39d90a6143a4da6]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2005/12/section/17) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

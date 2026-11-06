@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) DOE[^key-aebddca11b08a82feb4312c5c66133ec] may by regulations require a water undertaker to take all such steps as may be prescribed for the purpose of securing compliance with Article 108.
+(1) DOE[^c-aebddca11b08a82feb4312c5c66133ec] may by regulations require a water undertaker to take all such steps as may be prescribed for the purpose of securing compliance with Article 108.
 
 (2) Without prejudice to the generality of the power conferred by paragraph (1), regulations under that paragraph may impose an obligation on a water undertaker—
 
@@ -30,7 +30,7 @@ summary: ''
 - (d) to keep records of the localities within which all the premises supplied with water for domestic or food production purposes by that undertaker are normally supplied from the same source or combination of sources;
 - (e) to comply with prescribed requirements with respect to the analysis of water samples or with respect to internal reporting or organisational arrangements.
 
-(3) Without prejudice to paragraphs (1) and (2), DOE[^key-63f38f6736f34e9bc1dccfff2a726e64] may by regulations make provision with respect to the use by water undertakers, for the purposes of or in connection with the carrying out of their functions—
+(3) Without prejudice to paragraphs (1) and (2), DOE[^c-63f38f6736f34e9bc1dccfff2a726e64] may by regulations make provision with respect to the use by water undertakers, for the purposes of or in connection with the carrying out of their functions—
 
 - (a) of such processes and substances; and
 - (b) of products that contain or are made with such substances or materials,
@@ -49,7 +49,7 @@ as it considers might affect the quality of any water.
   - (ii) an offence triable either summarily or on indictment and punishable, on summary conviction, by a fine not exceeding the statutory maximum and, on conviction on indictment, by a fine; and
 - (g) require prescribed charges to be paid to persons carrying out functions under the regulations.
 
-(5) DOE[^key-6c25fb431ad26fce8504fb241984525b] may by regulations require a water undertaker—
+(5) DOE[^c-6c25fb431ad26fce8504fb241984525b] may by regulations require a water undertaker—
 
 - (a) to publish information about the quality of water supplied for domestic or food production purposes to any premises by that undertaker; and
 - (b) to provide information to prescribed persons about the quality of water so supplied.
@@ -62,8 +62,8 @@ as it considers might affect the quality of any water.
 
 ## Annotations
 
-[^key-aebddca11b08a82feb4312c5c66133ec]: Textual amendment: Word in [art. 109(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/109/1) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 20(5)](https://www.legislation.gov.uk/nia/2016/13/section/20/5), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(2) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-aebddca11b08a82feb4312c5c66133ec]: Textual amendment: Word in [art. 109(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/109/1) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 20(5)](https://www.legislation.gov.uk/nia/2016/13/section/20/5), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(2) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
 
-[^key-63f38f6736f34e9bc1dccfff2a726e64]: Textual amendment: Word in [art. 109(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/109/3) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 20(6)](https://www.legislation.gov.uk/nia/2016/13/section/20/6), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(2) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-63f38f6736f34e9bc1dccfff2a726e64]: Textual amendment: Word in [art. 109(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/109/3) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 20(6)](https://www.legislation.gov.uk/nia/2016/13/section/20/6), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(2) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
 
-[^key-6c25fb431ad26fce8504fb241984525b]: Textual amendment: Word in [art. 109(5)](https://www.legislation.gov.uk/nisi/2006/3336/article/109/5) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 20(7)](https://www.legislation.gov.uk/nia/2016/13/section/20/7), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(2) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-6c25fb431ad26fce8504fb241984525b]: Textual amendment: Word in [art. 109(5)](https://www.legislation.gov.uk/nisi/2006/3336/article/109/5) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 20(7)](https://www.legislation.gov.uk/nia/2016/13/section/20/7), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(2) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))

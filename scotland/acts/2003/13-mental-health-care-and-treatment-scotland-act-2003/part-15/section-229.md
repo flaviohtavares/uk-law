@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 229. Designation of mental health officer responsible for patient’s case[^key-1c9b690e94d192260cb4af44efbeb49e][^key-1321ce691bdd3f1060428a62c2c52094][^key-4203b4ce287454e2502b513c9c6442df][^key-c0cc0143eae1a092dcdb96c61aaebe82]
+## 229. Designation of mental health officer responsible for patient’s case[^c-1c9b690e94d192260cb4af44efbeb49e][^c-1321ce691bdd3f1060428a62c2c52094][^c-4203b4ce287454e2502b513c9c6442df][^c-c0cc0143eae1a092dcdb96c61aaebe82]
 
 *Extent: S*
 
@@ -41,10 +41,10 @@ a mental health officer in place of the mental health officer designated under t
 
 ## Annotations
 
-[^key-1c9b690e94d192260cb4af44efbeb49e]: Commencement: S. 229 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-1c9b690e94d192260cb4af44efbeb49e]: Commencement: S. 229 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-1321ce691bdd3f1060428a62c2c52094]: Modification: S. 229 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [28](https://www.legislation.gov.uk/ssi/2005/467/regulation/28) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-1321ce691bdd3f1060428a62c2c52094]: Modification: S. 229 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [28](https://www.legislation.gov.uk/ssi/2005/467/regulation/28) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-4203b4ce287454e2502b513c9c6442df]: Modification: S. 229 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2005/467/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-4203b4ce287454e2502b513c9c6442df]: Modification: S. 229 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2005/467/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-c0cc0143eae1a092dcdb96c61aaebe82]: Modification: [S. 229](https://www.legislation.gov.uk/asp/2003/13/section/229) applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2008/356/regulation/17) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-c0cc0143eae1a092dcdb96c61aaebe82]: Modification: [S. 229](https://www.legislation.gov.uk/asp/2003/13/section/229) applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2008/356/regulation/17) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))

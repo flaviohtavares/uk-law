@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to make provision in relation to the a
 
 \[30 July 2014\] [^c22202481]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:-**[^key-def979264d260080b96775dedc406b5c]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:-**[^c-def979264d260080b96775dedc406b5c]
 
 ## Introduction
 
@@ -366,4 +366,4 @@ The short title of this Act is the Agricultural Sector (Wales) Act 2014.
 
 [^c22202481]: Modification: For expiry of Act see [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1)
 
-[^key-def979264d260080b96775dedc406b5c]: Modification: [Act](https://www.legislation.gov.uk/anaw/2014/6) continued (19.4.2018) by [The Agricultural Sector (Wales) Act 2014 (Continuation of Effect) Order 2018 (S.I. 2018/515)](https://www.legislation.gov.uk/wsi/2018/515), [art. 2](https://www.legislation.gov.uk/wsi/2018/515/article/2)
+[^c-def979264d260080b96775dedc406b5c]: Modification: [Act](https://www.legislation.gov.uk/anaw/2014/6) continued (19.4.2018) by [The Agricultural Sector (Wales) Act 2014 (Continuation of Effect) Order 2018 (S.I. 2018/515)](https://www.legislation.gov.uk/wsi/2018/515), [art. 2](https://www.legislation.gov.uk/wsi/2018/515/article/2)

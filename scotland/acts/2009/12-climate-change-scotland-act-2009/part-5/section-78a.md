@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78A. Restrictions on the disposal of unsold consumer goods[^key-e51bba110b28d940e6ab9d04a27e8cbb]
+## 78A. Restrictions on the disposal of unsold consumer goods[^c-e51bba110b28d940e6ab9d04a27e8cbb]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e51bba110b28d940e6ab9d04a27e8cbb]: Textual amendment: S. 78A and cross-heading inserted (1.8.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/13/section/9/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-e51bba110b28d940e6ab9d04a27e8cbb]: Textual amendment: S. 78A and cross-heading inserted (1.8.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/13/section/9/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)

@@ -36,118 +36,118 @@ laying down detailed rules for the application of Council Directive 91/414/EEC a
 
 (Text with EEA relevance) (revoked)
 
-[^key-3b2f565e237d7105528d9acc5cb94eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b2f565e237d7105528d9acc5cb94eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — SCOPE AND DEFINITIONS[^key-3b2f565e237d7105528d9acc5cb94eb3]
+## CHAPTER I — SCOPE AND DEFINITIONS[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
-### Article 1. Scope[^key-3b2f565e237d7105528d9acc5cb94eb3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 1. Scope[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — REGULAR PROCEDURE[^key-3b2f565e237d7105528d9acc5cb94eb3]
-
-### Article 3. Application[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 2. Definitions[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Dossiers[^key-3b2f565e237d7105528d9acc5cb94eb3]
+## CHAPTER II — REGULAR PROCEDURE[^c-3b2f565e237d7105528d9acc5cb94eb3]
+
+### Article 3. Application[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Completeness check of the dossier[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 4. Dossiers[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Publication of information[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 5. Completeness check of the dossier[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Submission of information by third parties[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 6. Publication of information[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Assessment by the rapporteur Member State[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 7. Submission of information by third parties[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Receipt of and access to the draft assessment report[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 8. Assessment by the rapporteur Member State[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Conclusion by the Authority[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 9. Receipt of and access to the draft assessment report[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Presentation of a draft directive or draft decision[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 10. Conclusion by the Authority[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Access to the review report[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 11. Presentation of a draft directive or draft decision[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — ACCELERATED PROCEDURE[^key-3b2f565e237d7105528d9acc5cb94eb3]
-
-### Article 13. Conditions for the application of accelerated procedure[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 12. Access to the review report[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Application[^key-3b2f565e237d7105528d9acc5cb94eb3]
+## CHAPTER III — ACCELERATED PROCEDURE[^c-3b2f565e237d7105528d9acc5cb94eb3]
+
+### Article 13. Conditions for the application of accelerated procedure[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Substantive and procedural requirements[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 14. Application[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Publication of information[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 15. Substantive and procedural requirements[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Submission of information by third parties[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 16. Publication of information[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Assessment by the rapporteur Member State[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 17. Submission of information by third parties[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Access to the additional report[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 18. Assessment by the rapporteur Member State[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Evaluation[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 19. Access to the additional report[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Presentation of a draft directive or draft decision[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 20. Evaluation[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Access to the review report[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 21. Presentation of a draft directive or draft decision[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — GENERAL PROVISIONS[^key-3b2f565e237d7105528d9acc5cb94eb3]
-
-### Article 23. Fees[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 22. Access to the review report[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Other charges, levies or fees[^key-3b2f565e237d7105528d9acc5cb94eb3]
+## CHAPTER IV — GENERAL PROVISIONS[^c-3b2f565e237d7105528d9acc5cb94eb3]
+
+### Article 23. Fees[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Entry into force[^key-3b2f565e237d7105528d9acc5cb94eb3]
+### Article 24. Other charges, levies or fees[^c-3b2f565e237d7105528d9acc5cb94eb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b2f565e237d7105528d9acc5cb94eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 25. Entry into force[^c-3b2f565e237d7105528d9acc5cb94eb3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3b2f565e237d7105528d9acc5cb94eb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b2f565e237d7105528d9acc5cb94eb3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b2f565e237d7105528d9acc5cb94eb3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

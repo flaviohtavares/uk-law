@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Energy administrator to allow inspection of proofs[^key-b9443fdf29ba2f21b44c10274a4c1467]
+## 43. Energy administrator to allow inspection of proofs[^c-b9443fdf29ba2f21b44c10274a4c1467]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The energy administrator shall, so long as proofs lodged with him are in his han
 
 ## Annotations
 
-[^key-b9443fdf29ba2f21b44c10274a4c1467]: Commencement: Rule 43 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-b9443fdf29ba2f21b44c10274a4c1467]: Commencement: Rule 43 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

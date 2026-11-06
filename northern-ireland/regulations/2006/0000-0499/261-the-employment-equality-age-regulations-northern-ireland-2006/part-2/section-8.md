@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Discrimination by persons with statutory power to select employees for others[^key-0b07c8678685a69640c736f040257758]
+## 8. Discrimination by persons with statutory power to select employees for others[^c-0b07c8678685a69640c736f040257758]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b07c8678685a69640c736f040257758]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/261/regulation/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-0b07c8678685a69640c736f040257758]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/261/regulation/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

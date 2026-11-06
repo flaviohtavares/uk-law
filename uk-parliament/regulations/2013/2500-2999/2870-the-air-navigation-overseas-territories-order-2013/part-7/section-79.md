@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Passenger briefing by pilot-in-command[^key-3d7b611f90149439362adba2435bab8b]
+## 79. Passenger briefing by pilot-in-command[^c-3d7b611f90149439362adba2435bab8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The pilot-in-command of an aircraft registered in the Territory must take all re
 
 ## Annotations
 
-[^key-3d7b611f90149439362adba2435bab8b]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2013/2870/article/79) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-3d7b611f90149439362adba2435bab8b]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2013/2870/article/79) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

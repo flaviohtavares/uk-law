@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Appeals against regulation 30 notices[^key-bbaf85ed5298ebdd7f3b84b161001858]
+## 31. Appeals against regulation 30 notices[^c-bbaf85ed5298ebdd7f3b84b161001858]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The notice must contain or be accompanied by a statement of the grounds of appeal.
 
-(4) Before determining an appeal under this regulation, the Welsh Ministers must, if requested to do so by the appellant or NRW[^key-d4fcb3f16c3fe81793c67871bb966062], afford them an opportunity of appearing before and being heard by a person appointed by the Welsh Ministers for the purpose.
+(4) Before determining an appeal under this regulation, the Welsh Ministers must, if requested to do so by the appellant or NRW[^c-d4fcb3f16c3fe81793c67871bb966062], afford them an opportunity of appearing before and being heard by a person appointed by the Welsh Ministers for the purpose.
 
 (5) On determining an appeal under this regulation, the Welsh Ministers may direct NRW to—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbaf85ed5298ebdd7f3b84b161001858]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/77/regulation/31) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-bbaf85ed5298ebdd7f3b84b161001858]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/77/regulation/31) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-d4fcb3f16c3fe81793c67871bb966062]: Textual amendment: Word in [reg. 31](https://www.legislation.gov.uk/wsi/2021/77/regulation/31) substituted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [7(c)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/7/c)
+[^c-d4fcb3f16c3fe81793c67871bb966062]: Textual amendment: Word in [reg. 31](https://www.legislation.gov.uk/wsi/2021/77/regulation/31) substituted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [7(c)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/7/c)

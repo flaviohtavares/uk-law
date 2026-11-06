@@ -46,17 +46,17 @@ The following information must be included in the label—
 
 Figure 6 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_010)
 
-**2.**[^key-714233caada89af11e49f6658bee1674] The label must meet all of the requirements in paragraphs 3 to 8.
+**2.**[^c-714233caada89af11e49f6658bee1674] The label must meet all of the requirements in paragraphs 3 to 8.
 
-**3.**[^key-001f92e4872c1687e2b93af9618359c6] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format its content must remain proportionate to the specifications in Figure 6.
+**3.**[^c-001f92e4872c1687e2b93af9618359c6] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format its content must remain proportionate to the specifications in Figure 6.
 
-**4.**[^key-77d08efc2c46432aa6e8853bfb6721bc] The background must be 100% white.
+**4.**[^c-77d08efc2c46432aa6e8853bfb6721bc] The background must be 100% white.
 
-**5.**[^key-b0519a32c9df63458b3f1a2794e14fd6] The typeface must be Verdana.
+**5.**[^c-b0519a32c9df63458b3f1a2794e14fd6] The typeface must be Verdana.
 
-**6.**[^key-c5801f5ed59635ce7bde99e7527e345d] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
+**6.**[^c-c5801f5ed59635ce7bde99e7527e345d] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
 
-**7.**[^key-831944956cf4ce605edfa8ce102a1c54] The following requirements—
+**7.**[^c-831944956cf4ce605edfa8ce102a1c54] The following requirements—
 
 - (a) area 1: the colours of the UK logo must be as follows—
   - (i) the blue background: 100,72,0,18;
@@ -88,7 +88,7 @@ Figure 6 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images
   - (vi) the number of the duration of the eco programme pictogram must be in Bold 16 pt and it must be centred under the pictogram;
 - (k) area 11: the number of the Regulation must be 100% black and in Regular 6 pt.
 
-**8.**[^key-0e78716b3069b203605b2fa084cca04f] In paragraph 7 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
+**8.**[^c-0e78716b3069b203605b2fa084cca04f] In paragraph 7 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
 
 ### Part 2 — Label for non-condenser tumble dryers without repairability class pictogram
 
@@ -113,17 +113,17 @@ Figure 7 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images
 
 Figure 8 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_012)
 
-**10.**[^key-16ff4cb0643dee7aea57b8559c312273] The label must meet all of the requirements in paragraphs 11 to 16.
+**10.**[^c-16ff4cb0643dee7aea57b8559c312273] The label must meet all of the requirements in paragraphs 11 to 16.
 
-**11.**[^key-f34d2310492fbda594740b09a48123d8] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format, its content must remain proportionate to the specifications in Figure 8[^key-1df85bce8c953bde412ccaddd39ac21a].
+**11.**[^c-f34d2310492fbda594740b09a48123d8] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format, its content must remain proportionate to the specifications in Figure 8[^c-1df85bce8c953bde412ccaddd39ac21a].
 
-**12.**[^key-d29bf54dbcee06da1b439239f21f17ce] The background must be 100% white.
+**12.**[^c-d29bf54dbcee06da1b439239f21f17ce] The background must be 100% white.
 
-**13.**[^key-3d545aa5df1c9c92c61acd3c64c359fc] The typeface must be Verdana.
+**13.**[^c-3d545aa5df1c9c92c61acd3c64c359fc] The typeface must be Verdana.
 
-**14.**[^key-d68145e85aea68e2141a775f2ddd59b0] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
+**14.**[^c-d68145e85aea68e2141a775f2ddd59b0] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
 
-**15.**[^key-464824a99f46334dbea4391cecff86e3] The following requirements—
+**15.**[^c-464824a99f46334dbea4391cecff86e3] The following requirements—
 
 - (a) area 1: the colours of the UK logo must be as follows—
   - (i) the blue background: 100,72,0,18;
@@ -154,40 +154,40 @@ Figure 8 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images
   - (v) the number of the duration of the eco programme pictogram must be in Bold 16 pt and it must be centred under the pictogram;
 - (k) area 11: the number of these Regulations must be 100% black and in Regular 6 pt.
 
-**16.**[^key-1879a8aa12dc8f7be7ef71be5ae84ca7] In paragraph 15 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
+**16.**[^c-1879a8aa12dc8f7be7ef71be5ae84ca7] In paragraph 15 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
 
 ## Annotations
 
 [^M_I_f0728024-2384-4186-8a73-95e607a4c24f]: Commencement: Sch. 15 para. 1 in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-714233caada89af11e49f6658bee1674]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-714233caada89af11e49f6658bee1674]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-001f92e4872c1687e2b93af9618359c6]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/3) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-001f92e4872c1687e2b93af9618359c6]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/3) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-77d08efc2c46432aa6e8853bfb6721bc]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/4) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-77d08efc2c46432aa6e8853bfb6721bc]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/4) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-b0519a32c9df63458b3f1a2794e14fd6]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/5) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-b0519a32c9df63458b3f1a2794e14fd6]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/5) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-c5801f5ed59635ce7bde99e7527e345d]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/6) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-c5801f5ed59635ce7bde99e7527e345d]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/6) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-831944956cf4ce605edfa8ce102a1c54]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/7) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-831944956cf4ce605edfa8ce102a1c54]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/7) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-0e78716b3069b203605b2fa084cca04f]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/8) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-0e78716b3069b203605b2fa084cca04f]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/8) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
 [^M_I_1a795a4e-3256-4670-dd76-4fef82c1f0c7]: Commencement: Sch. 15 para. 9 in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-16ff4cb0643dee7aea57b8559c312273]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/10) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-16ff4cb0643dee7aea57b8559c312273]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/10) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-f34d2310492fbda594740b09a48123d8]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/11) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-f34d2310492fbda594740b09a48123d8]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/11) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-1df85bce8c953bde412ccaddd39ac21a]: Textual amendment: Words in [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/11) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2026/750/regulation/20)
+[^c-1df85bce8c953bde412ccaddd39ac21a]: Textual amendment: Words in [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/11) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2026/750/regulation/20)
 
-[^key-d29bf54dbcee06da1b439239f21f17ce]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/12) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-d29bf54dbcee06da1b439239f21f17ce]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/12) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-3d545aa5df1c9c92c61acd3c64c359fc]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/13) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-3d545aa5df1c9c92c61acd3c64c359fc]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/13) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-d68145e85aea68e2141a775f2ddd59b0]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/14) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-d68145e85aea68e2141a775f2ddd59b0]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/14) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-464824a99f46334dbea4391cecff86e3]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/15) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-464824a99f46334dbea4391cecff86e3]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/15) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-1879a8aa12dc8f7be7ef71be5ae84ca7]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/16) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-1879a8aa12dc8f7be7ef71be5ae84ca7]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/uksi/2026/318/schedule/15/paragraph/16) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)

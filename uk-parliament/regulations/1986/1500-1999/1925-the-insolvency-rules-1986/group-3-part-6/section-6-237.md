@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.237. Bankrupt’s Home—Notification of property falling within section 283A[^key-78c7b777330ac8bace13f129695e3ff7]
+## 6.237. Bankrupt’s Home—Notification of property falling within section 283A[^c-78c7b777330ac8bace13f129695e3ff7]
 
 *Extent: E+W*
 
 (1) Where it appears to a trustee that section 283A(1) applies, the trustee shall give notice in [^m00050]Form 6.83 as soon as reasonably practicable to—
 
 - (a) the bankrupt;
-- (b) the bankrupt’s spouse or civil partner[^key-06dca369c1434d9ab9d987d5e1a0b357] (in a case falling within section 283A(1)(b)); and
-- (c) a former spouse or former civil partner[^key-a83e261b4c816b2fb0249012346bb5d7] of the bankrupt (in a case falling within section 283A(1)(c)).
+- (b) the bankrupt’s spouse or civil partner[^c-06dca369c1434d9ab9d987d5e1a0b357] (in a case falling within section 283A(1)(b)); and
+- (c) a former spouse or former civil partner[^c-a83e261b4c816b2fb0249012346bb5d7] of the bankrupt (in a case falling within section 283A(1)(c)).
 
 (2) A notice under paragraph (1) shall contain—
 
@@ -36,10 +36,10 @@ summary: ''
 
 ## Annotations
 
-[^key-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)
+[^c-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)
 
 [^m00050]: Marginal citation: \[FORM 4.22\]
 
-[^key-06dca369c1434d9ab9d987d5e1a0b357]: Textual amendment: Words in rule 6.237(1)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/paragraph/1/2/a)
+[^c-06dca369c1434d9ab9d987d5e1a0b357]: Textual amendment: Words in rule 6.237(1)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/paragraph/1/2/a)
 
-[^key-a83e261b4c816b2fb0249012346bb5d7]: Textual amendment: Words in rule 6.237(1)(c) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/paragraph/1/2/b)
+[^c-a83e261b4c816b2fb0249012346bb5d7]: Textual amendment: Words in rule 6.237(1)(c) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/paragraph/1/2/b)

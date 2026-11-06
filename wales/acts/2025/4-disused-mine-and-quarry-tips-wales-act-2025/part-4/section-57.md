@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Management plans[^key-7c94e540c15d13bd035395549b7f9221]
+## 57. Management plans[^c-7c94e540c15d13bd035395549b7f9221]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c94e540c15d13bd035395549b7f9221]: Commencement: S. 57 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-7c94e540c15d13bd035395549b7f9221]: Commencement: S. 57 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

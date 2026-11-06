@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Transitional provision: trade licences[^key-2670ab8d2b36bc45504efb86f31b8b32]
+## 81. Transitional provision: trade licences[^c-2670ab8d2b36bc45504efb86f31b8b32]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-2670ab8d2b36bc45504efb86f31b8b32]: Commencement: Reg. 81 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-2670ab8d2b36bc45504efb86f31b8b32]: Commencement: Reg. 81 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500641]: Marginal citation: [Regulation 72(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/72/2) of the Burma (Sanctions) (EU Exit) Regulations 2019 provides that a licence is deemed to have been issued under those Regulations in respect of an existing trade licence (as defined in that regulation).
 

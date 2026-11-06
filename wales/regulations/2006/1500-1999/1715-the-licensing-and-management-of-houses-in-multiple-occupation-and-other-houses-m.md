@@ -39,22 +39,22 @@ Coming into force
 
 30 June 2006
 
-The National Assembly for Wales, in exercise of the powers conferred on it by sections 59(2), (3) and (4), 60(6), 63(5) and (6), 65(3) and (4), 83(2), (3) and (4), 84(6), 87(5) and (6), 232(3) and (7), 250(2), 258(2)(b), (5) and (6), 259(2)(c) of, and paragraphs 3 and 6(1)(c) of Schedule 14 to, the Housing Act 2004[^f00001], makes the following Regulations:[^key-f592c0e10f22fbf4659db261168cd32b]
+The National Assembly for Wales, in exercise of the powers conferred on it by sections 59(2), (3) and (4), 60(6), 63(5) and (6), 65(3) and (4), 83(2), (3) and (4), 84(6), 87(5) and (6), 232(3) and (7), 250(2), 258(2)(b), (5) and (6), 259(2)(c) of, and paragraphs 3 and 6(1)(c) of Schedule 14 to, the Housing Act 2004[^f00001], makes the following Regulations:[^c-f592c0e10f22fbf4659db261168cd32b]
 
-## 1. Title, commencement and application[^key-a59736fe6ed7316db1cd75d338c50dfb]
+## 1. Title, commencement and application[^c-a59736fe6ed7316db1cd75d338c50dfb]
 
 (1) The title of these Regulations is The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (Wales) Regulations 2006 and they come into force on 30 June 2006.
 
-(2) These Regulations apply in relation to any HMO[^f00002] in Wales, [^key-c4fe50f4efa7907b1955e23aacb3e92f]... and to any house[^f00003] in Wales to which Part 3 of the Act applies[^f00004].
+(2) These Regulations apply in relation to any HMO[^f00002] in Wales, [^c-c4fe50f4efa7907b1955e23aacb3e92f]... and to any house[^f00003] in Wales to which Part 3 of the Act applies[^f00004].
 
-## 2. Interpretation[^key-9171c16f1a8253797996ed683405fa35]
+## 2. Interpretation[^c-9171c16f1a8253797996ed683405fa35]
 
 In these Regulations—
 
-- “the Act” (“*y Ddeddf*”) means the Housing Act 2004 ; and[^key-8f7d11279b219b14453c0df8dd47c7d1]
+- “the Act” (“*y Ddeddf*”) means the Housing Act 2004 ; and[^c-8f7d11279b219b14453c0df8dd47c7d1]
 - “section 257 HMO” (“*HMO adran 257*”) means an HMO which is a converted block of flats to which section 257 of the Act applies.
 
-## 3. Persons to be regarded as forming a single household for the purposes of section 254 of the Act: employees[^key-9944811dc957da8003e2c60b2fc27a68]
+## 3. Persons to be regarded as forming a single household for the purposes of section 254 of the Act: employees[^c-9944811dc957da8003e2c60b2fc27a68]
 
 (1) Where—
 
@@ -84,15 +84,15 @@ those persons are only to be regarded as forming a single household for the purp
 
 (4) Where person A and person B are to be regarded as forming a single household under paragraph (1) any member of person A’s family occupying the living accommodation with person A is to be regarded as forming a single household with person A, person B and any member of person B’s family living with person B for the purpose of section 254 of the Act.
 
-## 4. Other persons to be regarded as forming a single household for the purposes of section 254 of the Act[^key-b96ba2b3bd977079706bf04526aa6694]
+## 4. Other persons to be regarded as forming a single household for the purposes of section 254 of the Act[^c-b96ba2b3bd977079706bf04526aa6694]
 
-(1) Where a person receiving care and that person’s carer occupy living accommodation in the same building or part of a building, they are to be regarded as forming a single household for the purposes of section 254 of the Act if the carer provides, and the person receiving care and support services receives, care and support under an individual placement agreement in accordance with the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019.[^key-1a4c6a81873913910d5d178374d6d146]
+(1) Where a person receiving care and that person’s carer occupy living accommodation in the same building or part of a building, they are to be regarded as forming a single household for the purposes of section 254 of the Act if the carer provides, and the person receiving care and support services receives, care and support under an individual placement agreement in accordance with the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019.[^c-1a4c6a81873913910d5d178374d6d146]
 
-(2) Where a person and that person’s foster parent occupy living accommodation in the same building or part of a building, they are to be regarded as forming a single household for the purposes of section 254 of the Act if that person is placed with the foster parent under the provisions of the the Care Planning, Placement and Case Review (Wales) Regulations 2015.[^key-221b2e31b020b77f06b898a7fa46cbb9]
+(2) Where a person and that person’s foster parent occupy living accommodation in the same building or part of a building, they are to be regarded as forming a single household for the purposes of section 254 of the Act if that person is placed with the foster parent under the provisions of the the Care Planning, Placement and Case Review (Wales) Regulations 2015.[^c-221b2e31b020b77f06b898a7fa46cbb9]
 
-(3)[^key-16b2f9f7c9b4a08f03de48d4023c9de7] In this regulation “individual placement agreement[^key-b79ddc23f84654f3e4c8d1c236cc7797]” has the meaning given in regulation 1(2) of the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019.
+(3)[^c-16b2f9f7c9b4a08f03de48d4023c9de7] In this regulation “individual placement agreement[^c-b79ddc23f84654f3e4c8d1c236cc7797]” has the meaning given in regulation 1(2) of the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019.
 
-## 5. Persons treated as occupying premises as their only or main residence for the purposes of section 254 of the Act[^key-36081febb13d4b052497872cb8b85ad8]
+## 5. Persons treated as occupying premises as their only or main residence for the purposes of section 254 of the Act[^c-36081febb13d4b052497872cb8b85ad8]
 
 (1) A person is to be treated as occupying a building or part of a building as that person’s only or main residence for the purposes of section 254 of the Act if the person is—
 
@@ -103,26 +103,26 @@ those persons are only to be regarded as forming a single household for the purp
 
 (2) In this regulation—
 
-- (a)[^key-4db3e3089c104d9150e138b6023dfaf3] “**a migrant worker**” (“***gweithiwr mudol***”) is—
+- (a)[^c-4db3e3089c104d9150e138b6023dfaf3] “**a migrant worker**” (“***gweithiwr mudol***”) is—
   - (i) a person who has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules and who has taken up activity in the United Kingdom as an employed person;
   - (ii) a person who has a permit indicating, in accordance with the immigration rules, that a person named in it is eligible, though not a British citizen, for entry into the United Kingdom for the purpose of taking employment;
   - (iii) a person who is a frontier worker within the meaning of regulation 3 of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020;
-- (ab)[^key-30231e05ec41a2901262ad3dae49da4d] “**residence scheme immigration rules**” (“***rheolau mewnfudo'r cynllun preswylio***”) has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;
-- (b)[^key-5da9cebd52faa388628d821fc1a4de5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5da9cebd52faa388628d821fc1a4de5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ab)[^c-30231e05ec41a2901262ad3dae49da4d] “**residence scheme immigration rules**” (“***rheolau mewnfudo'r cynllun preswylio***”) has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;
+- (b)[^c-5da9cebd52faa388628d821fc1a4de5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5da9cebd52faa388628d821fc1a4de5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) “seasonal worker” (“*gweithiwr tymhorol*”) means a person who carries out for an employer or undertakes employment of a seasonal character—
   - (i) the nature of which depends on the cycle of the seasons and recurs automatically each year; and
   - (ii) the duration of which does not exceed eight months;
 - (e) “immigration rules” (“*rheolau mewnfudo*”) means the rules for the time being laid down as mentioned in section 3(2) of the Immigration Act 1971[^f00010]; and
 - (f) “asylum seeker” (“*ceisiwr lloches*”) has the meaning given to that expression in section 94 of the Immigration and Asylum Act 1999.
 
-## 6. Buildings that are not HMOs for the purposes of the Act (excluding Part 1)[^key-a4f1a1b78d888be78e9dc1175a24ae57]
+## 6. Buildings that are not HMOs for the purposes of the Act (excluding Part 1)[^c-a4f1a1b78d888be78e9dc1175a24ae57]
 
 (1) A building is of a description specified for the purposes of paragraph 3 of Schedule 14 to the Act (buildings regulated otherwise than under the Act which are not HMOs for purposes of the Act (excluding Part 1)) where its occupation is regulated by or under any of the enactments listed in Schedule 1.
 
 (2) The number of persons specified for the purposes of paragraph 6(1)(c) of Schedule 14 to the Act is two.
 
-## 7. Applications for licences under Part 2 or 3 of the Act[^key-1def94d9dd87f875569fc6c9f8b45e9b]
+## 7. Applications for licences under Part 2 or 3 of the Act[^c-1def94d9dd87f875569fc6c9f8b45e9b]
 
 (1) An application for a licence under section 63 (application for HMO licence) or 87 (application for licence of Part 3 house) of the Act (“an application”) must include a statement in the form specified in paragraph 1 of Schedule 2.
 
@@ -165,7 +165,7 @@ those persons are only to be regarded as forming a single household for the purp
 
 (10) This paragraph applies to any tenant under a lease with an unexpired term of three years or less.
 
-## 8. Prescribed standards for deciding the suitability of a house for multiple occupation by a particular maximum number of households or persons[^key-8c0599fbe6e74f4a83437ef389808e94]
+## 8. Prescribed standards for deciding the suitability of a house for multiple occupation by a particular maximum number of households or persons[^c-8c0599fbe6e74f4a83437ef389808e94]
 
 (1) The standards prescribed for HMOs other than section 257 HMOs for the purpose of section 65 of the Act (tests as to suitability of HMO for multiple occupation) are those set out in Schedule 3.
 
@@ -175,7 +175,7 @@ those persons are only to be regarded as forming a single household for the purp
 - (b) those standards set out in paragraph 4(1) of Schedule 3, in so far as it is reasonably practicable to comply with them; and
 - (c) those standards set out in paragraph 5 of Schedule 3.
 
-## 9. Publication requirements relating to designations under Part 2 or 3 of the Act[^key-3f24f10d8a32c9825e85de15f7843d68]
+## 9. Publication requirements relating to designations under Part 2 or 3 of the Act[^c-3f24f10d8a32c9825e85de15f7843d68]
 
 (1) A local housing authority which is required under section 59(2) or 83(2) of the Act to publish a notice of a designation of an area for the purpose of Part 2 or 3 of the Act must do so in the manner prescribed by paragraph (2).
 
@@ -207,7 +207,7 @@ those persons are only to be regarded as forming a single household for the purp
 - (c) a statement advising any landlord, person managing or tenant within the designated area to seek advice from the local housing authority on whether their property is affected by the designation; and
 - (d) a warning of the consequences of failing to licence a property which is required to be licensed, including the criminal sanctions.
 
-## 10. Publication requirements relating to the revocation of designations made under Part 2 or 3 of the Act[^key-1b9d86a983cf3a2cf983ac12c1930237]
+## 10. Publication requirements relating to the revocation of designations made under Part 2 or 3 of the Act[^c-1b9d86a983cf3a2cf983ac12c1930237]
 
 (1) A local housing authority which is required under section 60(6) or 84(6) of the Act to publish a notice of revocation of a designation of an area for the purposes of Part 2 or 3 of the Act, must do so in the manner prescribed by paragraph (2).
 
@@ -226,7 +226,7 @@ those persons are only to be regarded as forming a single household for the purp
   - (i) of the local housing authority which revoked the designation; and
   - (ii) where the revocation may be inspected.
 
-## 11. Registers of licences[^key-dd8d04eea299dc692c7f7afc55b45768]
+## 11. Registers of licences[^c-dd8d04eea299dc692c7f7afc55b45768]
 
 (1) The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 (HMOs) or 3 (selective licensing) of the Act—
 
@@ -239,7 +239,7 @@ those persons are only to be regarded as forming a single household for the purp
 - (g) summary information of any matter concerning the licensing of the HMO or house which has been referred to a residential property tribunal or to the Lands Tribunal; and
 - (h) summary information of any decision of the tribunals referred to in sub-paragraph (g) which relates to the licensed HMO or house, together with the reference number allocated to the case by the tribunal.
 
-(2) Subject to paragraph (3), the[^key-19a942d54cb9707685bc7e3d9110d4b9] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 of the Act—
+(2) Subject to paragraph (3), the[^c-19a942d54cb9707685bc7e3d9110d4b9] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 of the Act—
 
 - (a) the number of storeys comprising the licensed HMO;
 - (b) the number of rooms in the licensed HMO providing—
@@ -251,9 +251,9 @@ those persons are only to be regarded as forming a single household for the purp
 - (d) a description of shared amenities including the numbers of each amenity; and
 - (e) the maximum number of persons or households permitted to occupy the licensed HMO under the conditions of the licence.
 
-(3)[^key-f0f5a4825554d5f05cf6eb0c9fdd4012] The particulars mentioned in sub-paragraphs (b), (c)(ii), (d) and (e) of paragraph (2) are not prescribed for any entry in a register referred to in that paragraph in respect of a licence granted in relation to a section 257 HMO.
+(3)[^c-f0f5a4825554d5f05cf6eb0c9fdd4012] The particulars mentioned in sub-paragraphs (b), (c)(ii), (d) and (e) of paragraph (2) are not prescribed for any entry in a register referred to in that paragraph in respect of a licence granted in relation to a section 257 HMO.
 
-## 12. Registers of temporary exemption notices[^key-6ae3f90744fb27924087a34585637a4a]
+## 12. Registers of temporary exemption notices[^c-6ae3f90744fb27924087a34585637a4a]
 
 The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(b) of the Act in respect of a temporary exemption notice served under section 62 or 86 of the Act—
 
@@ -266,7 +266,7 @@ The following particulars are prescribed for each entry in a register establishe
 - (g) summary information of any matter concerning the HMO or house which has been referred to a residential property tribunal or to the Lands Tribunal; and
 - (h) summary information of any decision of the tribunals referred to in sub-paragraph (g) that relates to the HMO or house together with the reference number allocated to the case by the tribunal.
 
-## 13. Registers of management orders[^key-5ed738f3b61b74f6d65530a439b2c94c]
+## 13. Registers of management orders[^c-5ed738f3b61b74f6d65530a439b2c94c]
 
 (1) The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102 or 113 of the Act—
 
@@ -278,7 +278,7 @@ The following particulars are prescribed for each entry in a register establishe
 - (f) summary information of any application concerning the HMO or house that has been made to a residential property tribunal or to the Lands Tribunal; and
 - (g) summary information of any decision of the tribunals referred to in sub-paragraph (f) that relates to the HMO or house, together with the reference number allocated to the case by the tribunal.
 
-(2) Subject to paragraph (4), the[^key-d808f8ed1e588ec57156d393d32f8c21] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102 or 113 of the Act—
+(2) Subject to paragraph (4), the[^c-d808f8ed1e588ec57156d393d32f8c21] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102 or 113 of the Act—
 
 - (a) the number of storeys comprising the HMO;
 - (b) the number of rooms in the HMO providing—
@@ -301,7 +301,7 @@ The following particulars are prescribed for each entry in a register establishe
 - (f) summary information of any application concerning the dwelling that has been made to a residential property tribunal or to the Lands Tribunal; and
 - (g) summary information of any decision of the tribunals referred to in sub-paragraph (f) that relates to the dwelling, together with the reference number allocated to the case by the tribunal.
 
-(4)[^key-6ae91d00101fc2a389ae341d348d7a81] The particulars mentioned in sub-paragraphs (b) and (c)(ii) to (v) of paragraph (2) are not prescribed for any entry referred to in that paragraph in respect of a management order made in relation to a section 257 HMO.
+(4)[^c-6ae91d00101fc2a389ae341d348d7a81] The particulars mentioned in sub-paragraphs (b) and (c)(ii) to (v) of paragraph (2) are not prescribed for any entry referred to in that paragraph in respect of a management order made in relation to a section 257 HMO.
 
 Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00013]
 
@@ -309,11 +309,11 @@ D. Elis-Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE 1 — BUILDINGS WHICH ARE NOT HMOS FOR ANY PURPOSE OF THE ACT (EXCLUDING PART 1)[^key-82375ab85c3f3bba58de4cba0f30f955]
+## SCHEDULE 1 — BUILDINGS WHICH ARE NOT HMOS FOR ANY PURPOSE OF THE ACT (EXCLUDING PART 1)[^c-82375ab85c3f3bba58de4cba0f30f955]
 
 Regulation 6(1)
 
-[^key-82375ab85c3f3bba58de4cba0f30f955]The enactments referred to in regulation 6(1) are—
+[^c-82375ab85c3f3bba58de4cba0f30f955]The enactments referred to in regulation 6(1) are—
 
 - (a) sections 87, 87A, 87B, 87C and 87D of the Children Act 1989[^f00014];
 - (b) section 43(4) of the Prison Act 1952[^f00015];
@@ -322,17 +322,17 @@ Regulation 6(1)
 - (e) The Prison Rules 1999[^f00018];
 - (f) The Young Offender Institution Rules 2000[^f00019];
 - (g) The Detention Centre Rules 2001[^f00020];
-- (h) The Criminal Justice and Court Services Act 2000 (Approved Premises) Regulations 2001[^f00021]; and[^key-00c2bfc681247487813dfba836a9314e]
-- (i)[^key-ef6745732846404d071413f90acfa8ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-ef6745732846404d071413f90acfa8ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-ef6745732846404d071413f90acfa8ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-a5633372ab253eca4ba81dfc622181bd] The Regulated Services (Service Providers and Responsible Individuals) (Wales) Regulations 2017.
+- (h) The Criminal Justice and Court Services Act 2000 (Approved Premises) Regulations 2001[^f00021]; and[^c-00c2bfc681247487813dfba836a9314e]
+- (i)[^c-ef6745732846404d071413f90acfa8ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-ef6745732846404d071413f90acfa8ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-ef6745732846404d071413f90acfa8ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-a5633372ab253eca4ba81dfc622181bd] The Regulated Services (Service Providers and Responsible Individuals) (Wales) Regulations 2017.
 
 ## SCHEDULE 2 — CONTENT OF APPLICATIONS UNDER SECTIONS 63 AND 87 OF THE ACT
 
 Regulation 7(1), (2) and (3)
 
-**1.**[^key-f6ce346dd1614ebf2da903fdbdc1acc1] The form of statement mentioned in regulation 7(1) is:
+**1.**[^c-f6ce346dd1614ebf2da903fdbdc1acc1] The form of statement mentioned in regulation 7(1) is:
 
 > - You must let certain persons know in writing that you have made this application or give them a copy of it. The persons who need to know about it are—
 >   - Any mortgagee of the property to be licensed
@@ -351,7 +351,7 @@ Regulation 7(1), (2) and (3)
 
 .
 
-**2.**[^key-4440091bde4b619fde6d2dd9b5eca89c] (1) The information mentioned in regulation 7(2)(a) is—
+**2.**[^c-4440091bde4b619fde6d2dd9b5eca89c] (1) The information mentioned in regulation 7(2)(a) is—
 
 - (a) the name, address, telephone number and e-mail address of—
   - (i) the applicant;
@@ -370,7 +370,7 @@ Regulation 7(1), (2) and (3)
   - (vi) a purpose built block of flats; or
   - (vii) other;
 - (e) details of other HMOs or houses that are licensed under Part 2 or 3 of the Act in respect of which the proposed licence holder is the licence holder, whether in the area of the local housing authority to which the application is made or in the area of any other local housing authority;
-- (f) the following information about the HMO or house for which the application is being made , except in respect of an application in respect of a section 257[^key-4f9224dc30a8297880b5b09303edfae7] HMO—
+- (f) the following information about the HMO or house for which the application is being made , except in respect of an application in respect of a section 257[^c-4f9224dc30a8297880b5b09303edfae7] HMO—
   - (i) the number of storeys comprising the HMO or house and the levels on which those storeys are situated;
   - (ii) the number of separate letting units;
   - (iii) the number of habitable rooms (excluding kitchens);
@@ -381,10 +381,10 @@ Regulation 7(1), (2) and (3)
   - (viii) the number of households occupying the HMO or house;
   - (ix) the number of people occupying the HMO or house;
   - (x) details of fire precaution equipment, including the number and location of smoke alarms;
-  - (xi) details of fire escape routes and other fire safety information[^key-3a1f8bda5caaa56c68aa6115d2267225] provided to occupiers;
+  - (xi) details of fire escape routes and other fire safety information[^c-3a1f8bda5caaa56c68aa6115d2267225] provided to occupiers;
   - (xii) a declaration that the furniture in the HMO or house that is provided under the terms of any tenancy or licence meets any safety requirements contained in any enactment; and
   - (xiii) a declaration that any gas appliances in the HMO or house meet any safety requirements contained in any enactment.
-- (g)[^key-8429b005205fa170411173477c36daa8] where the application is being made in respect of a section 257 HMO, the following information—
+- (g)[^c-8429b005205fa170411173477c36daa8] where the application is being made in respect of a section 257 HMO, the following information—
   - (i) the number of storeys comprising the HMO and the levels on which those storeys are situated;
   - (ii) the number of self-contained flats and, of those, the number—
     - (aa) that the applicant believes to be subject to a lease of over 21 years; and
@@ -395,7 +395,7 @@ Regulation 7(1), (2) and (3)
     - (cc) a declaration that the furniture in the HMO or house that is provided under the terms of any tenancy or licence meets any safety requirements contained in any enactment; and
   - (iv) a declaration that any gas appliances in any parts of the HMO over which the proposed licence holder can reasonably be expected to exercise control meet any safety requirements contained in any enactment.
 
-**3.**[^key-6c0d2f7008db5030478c2820e8265145] The information mentioned in regulation 7(2)(b) is—
+**3.**[^c-6c0d2f7008db5030478c2820e8265145] The information mentioned in regulation 7(2)(b) is—
 
 - (a) details of any unspent convictions that may be relevant to the proposed licence holder’s fitness to hold a licence, or the proposed manager’s fitness to manage the HMO or house, and, in particular, any such conviction in respect of any offence involving fraud or other dishonesty, or violence or drugs or any offence listed in Schedule 3 to the Sexual Offences Act 2003[^f00025];
 - (b) details of any finding by a court or tribunal of unlawful discrimination on the part of the proposed licence holder or manager on grounds of sex, colour, race, ethnic or national origin or disability in, or in connection with, the carrying on of any business;
@@ -406,7 +406,7 @@ Regulation 7(1), (2) and (3)
 - (e) information about any HMO or house which the proposed licence holder or manager owns or manages or has owned or managed and for which a local housing authority has refused to grant a licence under Part 2 or 3 of the Act, or has revoked a licence in consequence of the licence holder breaching the conditions of the licence; and
 - (f) information about any HMO or house which the proposed licence holder or manager owns or manages or has owned or managed and which has been the subject of an interim or final management order under the Act.
 
-**4.**[^key-34972e284729f21b023b319ac4e21608] The form of declaration mentioned in regulation 7(3)(a) is as follows—
+**4.**[^c-34972e284729f21b023b319ac4e21608] The form of declaration mentioned in regulation 7(3)(a) is as follows—
 
 - I/we declare that the information contained in this application is correct to the best of my/our knowledge. I/We understand that I/we commit an offence if I/we supply any information to a local housing authority in connection with any of their functions under any of Parts 1 to 4 of the Housing Act 2004 that is false or misleading and which I/we know is false or misleading or am/are are reckless as to whether it is false or misleading.
 - Signed (all applicants)
@@ -423,11 +423,11 @@ Regulation 8
 
 ### Heating
 
-**1.**[^key-5f4b33aac1f2f670b2e3312431aaf8d9] Each unit of living accommodation in an HMO must be equipped with adequate means of space heating.
+**1.**[^c-5f4b33aac1f2f670b2e3312431aaf8d9] Each unit of living accommodation in an HMO must be equipped with adequate means of space heating.
 
 ### Washing facilities
 
-**2.**[^key-7a8e01850b37d52d939e4efcc131883a] (1)[^key-6894475fc82b9baca76fd037bd0e4cff] Where all or some of the units of living accommodation in an HMO do not contain bathing and toilet facilities for the exclusive use of each individual household, there must be an adequate number of bathrooms, toilets and wash-hand basins suitable for personal washing for the number of persons sharing those facilities, having regard to the age and character of the HMO, the size and layout of each flat and its existing provision for wash-hand basins, toilets and bathrooms.
+**2.**[^c-7a8e01850b37d52d939e4efcc131883a] (1)[^c-6894475fc82b9baca76fd037bd0e4cff] Where all or some of the units of living accommodation in an HMO do not contain bathing and toilet facilities for the exclusive use of each individual household, there must be an adequate number of bathrooms, toilets and wash-hand basins suitable for personal washing for the number of persons sharing those facilities, having regard to the age and character of the HMO, the size and layout of each flat and its existing provision for wash-hand basins, toilets and bathrooms.
 
 (3) All bathrooms in an HMO must be suitably and adequately heated and ventilated.
 
@@ -439,7 +439,7 @@ Regulation 8
 
 ### Kitchens
 
-**3.**[^key-5262972106258c9a8e1b562a3292b3c5] Where all or some of the units of accommodation within the HMO do not contain any facilities for the cooking of food—
+**3.**[^c-5262972106258c9a8e1b562a3292b3c5] Where all or some of the units of accommodation within the HMO do not contain any facilities for the cooking of food—
 
 - (a) there must be a kitchen, suitably located in relation to the living accommodation, and of such layout and size and equipped with such facilities, so as to adequately enable those sharing the facilities to store, prepare and cook food;
 - (b) the kitchen must be equipped with the following equipment, which must be fit for the purpose and supplied in a sufficient quantity for the number of those sharing the facilities—
@@ -455,7 +455,7 @@ Regulation 8
 
 ### Units of living accommodation without shared basic amenities
 
-**4.**[^key-587c76410b974b3cc54e3c5ed3d78a86] (1) Where a unit of living accommodation contains kitchen facilities for the exclusive use of the individual household, and there are no other kitchen facilities available for that household, that unit must be provided with—
+**4.**[^c-587c76410b974b3cc54e3c5ed3d78a86] (1) Where a unit of living accommodation contains kitchen facilities for the exclusive use of the individual household, and there are no other kitchen facilities available for that household, that unit must be provided with—
 
 - (a) adequate appliances and equipment for the cooking of food;
 - (b) a sink with an adequate supply of cold and constant hot water;
@@ -464,7 +464,7 @@ Regulation 8
 - (e) a cupboard for the storage of kitchen utensils and crockery; and
 - (f) a refrigerator.
 
-(1A)[^key-74ff1a5b40b4a4839abe7e279f52da23] The standards referred to in paragraphs (a) and (f) of sub-paragraph (1) do not apply in relation to a unit of accommodation where—
+(1A)[^c-74ff1a5b40b4a4839abe7e279f52da23] The standards referred to in paragraphs (a) and (f) of sub-paragraph (1) do not apply in relation to a unit of accommodation where—
 
 - (a) the landlord is not contractually bound to provide such appliances or equipment;
 - (b) the occupier of the unit of accommodation is entitled to remove such appliances or equipment from the HMO; or
@@ -477,7 +477,7 @@ Regulation 8
 
 ### Fire precautionary facilities
 
-**5.**[^key-e9b4811cafbc4803ae2c914784c7a6ab] Appropriate fire precaution facilities and equipment must be provided of such type, number and location as is considered necessary.
+**5.**[^c-e9b4811cafbc4803ae2c914784c7a6ab] Appropriate fire precaution facilities and equipment must be provided of such type, number and location as is considered necessary.
 
 (This note is not part of the Regulations)
 
@@ -497,79 +497,79 @@ A regulatory appraisal of the effects that these Regulations will have is availa
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by sections 59(2), (3) and (4), 60(6), 63(5) and (6), 65(3) and (4), 83(2), (3) and (4), 84(6), 87(5) and (6), 232(3) and (7), 250(2), 258(2)(b), (5) and (6), 259(2)(c) of, and paragraphs 3 and 6(1)(c) of Schedule 14 of the Act are exercisable, as respects Wales, by the National Assembly for Wales and, as respects England, by the Secretary of State. *See* the definition of “appropriate national authority” in section 261(1).
 
-[^key-f592c0e10f22fbf4659db261168cd32b]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2006/1715) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(v)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/v)
+[^c-f592c0e10f22fbf4659db261168cd32b]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2006/1715) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(v)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/v)
 
-[^key-a59736fe6ed7316db1cd75d338c50dfb]: Commencement: Reg. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-a59736fe6ed7316db1cd75d338c50dfb]: Commencement: Reg. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
 [^f00002]: Footnote: For the meaning of “HMO” *see* sections 77 and 254 to 259 of the Act.
 
-[^key-c4fe50f4efa7907b1955e23aacb3e92f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/2) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(2)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/2)
+[^c-c4fe50f4efa7907b1955e23aacb3e92f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/2) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(2)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/2)
 
 [^f00003]: Footnote: For the meaning of “house” (“*tŷ*”) *see* section 99 of the Act.
 
 [^f00004]: Footnote: *See* section 79(2) of the Act.
 
-[^key-9171c16f1a8253797996ed683405fa35]: Commencement: Reg. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-9171c16f1a8253797996ed683405fa35]: Commencement: Reg. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-8f7d11279b219b14453c0df8dd47c7d1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1715/regulation/2) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(3)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/3)
+[^c-8f7d11279b219b14453c0df8dd47c7d1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1715/regulation/2) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(3)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/3)
 
-[^key-9944811dc957da8003e2c60b2fc27a68]: Commencement: Reg. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-9944811dc957da8003e2c60b2fc27a68]: Commencement: Reg. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-b96ba2b3bd977079706bf04526aa6694]: Commencement: Reg. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-b96ba2b3bd977079706bf04526aa6694]: Commencement: Reg. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-1a4c6a81873913910d5d178374d6d146]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/1) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 15(2)(a)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/15/2/a)
+[^c-1a4c6a81873913910d5d178374d6d146]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/1) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 15(2)(a)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/15/2/a)
 
-[^key-221b2e31b020b77f06b898a7fa46cbb9]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/2) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 15(2)(b)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/15/2/b)
+[^c-221b2e31b020b77f06b898a7fa46cbb9]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/2) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 15(2)(b)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/15/2/b)
 
-[^key-16b2f9f7c9b4a08f03de48d4023c9de7]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/3) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 15(2)(c)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/15/2/c)
+[^c-16b2f9f7c9b4a08f03de48d4023c9de7]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/3) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 15(2)(c)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/15/2/c)
 
-[^key-b79ddc23f84654f3e4c8d1c236cc7797]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/3) substituted (1.7.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/976)](https://www.legislation.gov.uk/wsi/2019/976), [regs. 1](https://www.legislation.gov.uk/wsi/2019/976/regulation/1), [2](https://www.legislation.gov.uk/wsi/2019/976/regulation/2)
+[^c-b79ddc23f84654f3e4c8d1c236cc7797]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/4/3) substituted (1.7.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/976)](https://www.legislation.gov.uk/wsi/2019/976), [regs. 1](https://www.legislation.gov.uk/wsi/2019/976/regulation/1), [2](https://www.legislation.gov.uk/wsi/2019/976/regulation/2)
 
-[^key-36081febb13d4b052497872cb8b85ad8]: Commencement: Reg. 5 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-36081febb13d4b052497872cb8b85ad8]: Commencement: Reg. 5 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
 [^f00007]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
 [^f00008]: Footnote: The National Asylum Support Service is a department within the Home Office.
 
-[^key-4db3e3089c104d9150e138b6023dfaf3]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/5/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [70(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/70/2/a/i)
+[^c-4db3e3089c104d9150e138b6023dfaf3]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/5/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [70(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/70/2/a/i)
 
-[^key-30231e05ec41a2901262ad3dae49da4d]: Textual amendment: [Reg. 5(2)(ab)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/5/2/ab) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [70(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/70/2/a/ii)
+[^c-30231e05ec41a2901262ad3dae49da4d]: Textual amendment: [Reg. 5(2)(ab)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/5/2/ab) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [70(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/70/2/a/ii)
 
-[^key-5da9cebd52faa388628d821fc1a4de5c]: Textual amendment: [Reg. 5(2)(b)(c)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/5/2/b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [70(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/70/2/a/iii)
+[^c-5da9cebd52faa388628d821fc1a4de5c]: Textual amendment: [Reg. 5(2)(b)(c)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/5/2/b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [70(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/70/2/a/iii)
 
 [^f00010]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-a4f1a1b78d888be78e9dc1175a24ae57]: Commencement: Reg. 6 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-a4f1a1b78d888be78e9dc1175a24ae57]: Commencement: Reg. 6 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-1def94d9dd87f875569fc6c9f8b45e9b]: Commencement: Reg. 7 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-1def94d9dd87f875569fc6c9f8b45e9b]: Commencement: Reg. 7 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
 [^f00011]: Footnote: For licence conditions *see* sections 67 and 90 of the Act, and, in particular, sections 67(5) and 90(6).
 
-[^key-8c0599fbe6e74f4a83437ef389808e94]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2006/1715/regulation/8) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(4)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/4)
+[^c-8c0599fbe6e74f4a83437ef389808e94]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2006/1715/regulation/8) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(4)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/4)
 
-[^key-3f24f10d8a32c9825e85de15f7843d68]: Commencement: Reg. 9 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-3f24f10d8a32c9825e85de15f7843d68]: Commencement: Reg. 9 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-1b9d86a983cf3a2cf983ac12c1930237]: Commencement: Reg. 10 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-1b9d86a983cf3a2cf983ac12c1930237]: Commencement: Reg. 10 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-dd8d04eea299dc692c7f7afc55b45768]: Commencement: Reg. 11 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-dd8d04eea299dc692c7f7afc55b45768]: Commencement: Reg. 11 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-19a942d54cb9707685bc7e3d9110d4b9]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/11/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/5/a)
+[^c-19a942d54cb9707685bc7e3d9110d4b9]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/11/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/5/a)
 
-[^key-f0f5a4825554d5f05cf6eb0c9fdd4012]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/11/3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(5)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/5/b)
+[^c-f0f5a4825554d5f05cf6eb0c9fdd4012]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/11/3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(5)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/5/b)
 
-[^key-6ae3f90744fb27924087a34585637a4a]: Commencement: Reg. 12 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-6ae3f90744fb27924087a34585637a4a]: Commencement: Reg. 12 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-5ed738f3b61b74f6d65530a439b2c94c]: Commencement: Reg. 13 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-5ed738f3b61b74f6d65530a439b2c94c]: Commencement: Reg. 13 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-d808f8ed1e588ec57156d393d32f8c21]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/13/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(6)(a)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/6/a)
+[^c-d808f8ed1e588ec57156d393d32f8c21]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/13/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(6)(a)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/6/a)
 
 [^f00012]: Footnote: For the meaning of dwelling *(*“*annedd*”) *see* section 132(4)(a) and (b) of the Act.
 
-[^key-6ae91d00101fc2a389ae341d348d7a81]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/13/4) added (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(6)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/6/b)
+[^c-6ae91d00101fc2a389ae341d348d7a81]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/13/4) added (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(6)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/6/b)
 
 [^f00013]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-82375ab85c3f3bba58de4cba0f30f955]: Commencement: Sch. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-82375ab85c3f3bba58de4cba0f30f955]: Commencement: Sch. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
 [^f00014]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -587,40 +587,40 @@ A regulatory appraisal of the effects that these Regulations will have is availa
 
 [^f00021]: Footnote: S.I. [2001/850](https://www.legislation.gov.uk/uksi/2001/850).
 
-[^key-00c2bfc681247487813dfba836a9314e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1715/schedule/1) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 12(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/12/2/a)
+[^c-00c2bfc681247487813dfba836a9314e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1715/schedule/1) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 12(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/12/2/a)
 
-[^key-ef6745732846404d071413f90acfa8ac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1715/schedule/1) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 12(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/12/2/b)
+[^c-ef6745732846404d071413f90acfa8ac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1715/schedule/1) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 12(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/12/2/b)
 
-[^key-a5633372ab253eca4ba81dfc622181bd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1715/schedule/1) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 12(2)(c)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/12/2/c)
+[^c-a5633372ab253eca4ba81dfc622181bd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1715/schedule/1) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 12(2)(c)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/12/2/c)
 
-[^key-f6ce346dd1614ebf2da903fdbdc1acc1]: Commencement: Sch. 2 para. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-f6ce346dd1614ebf2da903fdbdc1acc1]: Commencement: Sch. 2 para. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-4440091bde4b619fde6d2dd9b5eca89c]: Commencement: Sch. 2 para. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-4440091bde4b619fde6d2dd9b5eca89c]: Commencement: Sch. 2 para. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-4f9224dc30a8297880b5b09303edfae7]: Textual amendment: Words in [Sch. 2 para. 2(1)(f)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/2/paragraph/2/1/f) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(7)(a)(i)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/7/a/i)
+[^c-4f9224dc30a8297880b5b09303edfae7]: Textual amendment: Words in [Sch. 2 para. 2(1)(f)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/2/paragraph/2/1/f) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(7)(a)(i)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/7/a/i)
 
-[^key-3a1f8bda5caaa56c68aa6115d2267225]: Textual amendment: Word in [Sch. 2 para. 2(1)(f)(xi)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/2/paragraph/2/1/f/xi) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/7/a/ii)
+[^c-3a1f8bda5caaa56c68aa6115d2267225]: Textual amendment: Word in [Sch. 2 para. 2(1)(f)(xi)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/2/paragraph/2/1/f/xi) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/7/a/ii)
 
-[^key-8429b005205fa170411173477c36daa8]: Textual amendment: [Sch. 2 para. 2(1)(g)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/2/paragraph/2/1/g) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(7)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/7/b)
+[^c-8429b005205fa170411173477c36daa8]: Textual amendment: [Sch. 2 para. 2(1)(g)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/2/paragraph/2/1/g) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(7)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/7/b)
 
-[^key-6c0d2f7008db5030478c2820e8265145]: Commencement: Sch. 2 para. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-6c0d2f7008db5030478c2820e8265145]: Commencement: Sch. 2 para. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
 [^f00025]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
 [^f00026]: Footnote: [1985 (c. 68)](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-34972e284729f21b023b319ac4e21608]: Commencement: Sch. 2 para. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-34972e284729f21b023b319ac4e21608]: Commencement: Sch. 2 para. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-5f4b33aac1f2f670b2e3312431aaf8d9]: Commencement: Sch. 3 para. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-5f4b33aac1f2f670b2e3312431aaf8d9]: Commencement: Sch. 3 para. 1 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-7a8e01850b37d52d939e4efcc131883a]: Commencement: Sch. 3 para. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-7a8e01850b37d52d939e4efcc131883a]: Commencement: Sch. 3 para. 2 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-6894475fc82b9baca76fd037bd0e4cff]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3/paragraph/2/1) substituted for [Sch. 3](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3) [para. 2(1)(2)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3/paragraph/2/1) (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(8)(a)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/8/a)
+[^c-6894475fc82b9baca76fd037bd0e4cff]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3/paragraph/2/1) substituted for [Sch. 3](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3) [para. 2(1)(2)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3/paragraph/2/1) (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(8)(a)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/8/a)
 
-[^key-5262972106258c9a8e1b562a3292b3c5]: Commencement: Sch. 3 para. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-5262972106258c9a8e1b562a3292b3c5]: Commencement: Sch. 3 para. 3 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-587c76410b974b3cc54e3c5ed3d78a86]: Commencement: Sch. 3 para. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-587c76410b974b3cc54e3c5ed3d78a86]: Commencement: Sch. 3 para. 4 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
 
-[^key-74ff1a5b40b4a4839abe7e279f52da23]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3/paragraph/4/1A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(8)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/8/b)
+[^c-74ff1a5b40b4a4839abe7e279f52da23]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/wsi/2006/1715/schedule/3/paragraph/4/1A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (Wales) Regulations 2007 (S.I. 2007/3229)](https://www.legislation.gov.uk/wsi/2007/3229), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/1/1), [12(8)(b)](https://www.legislation.gov.uk/wsi/2007/3229/regulation/12/8/b)
 
-[^key-e9b4811cafbc4803ae2c914784c7a6ab]: Commencement: Sch. 3 para. 5 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)
+[^c-e9b4811cafbc4803ae2c914784c7a6ab]: Commencement: Sch. 3 para. 5 in force at 30.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/1715/regulation/1/1)

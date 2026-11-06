@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Recording etc. of conduct matters in other cases[^key-25f9dda31cad9a277094e2bf7a7dd2ea]
+## 22. Recording etc. of conduct matters in other cases[^c-25f9dda31cad9a277094e2bf7a7dd2ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ the appropriate authority may deal with the matter in such other manner (if any)
 
 ## Annotations
 
-[^key-25f9dda31cad9a277094e2bf7a7dd2ea]: Commencement: Reg. 22 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-25f9dda31cad9a277094e2bf7a7dd2ea]: Commencement: Reg. 22 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

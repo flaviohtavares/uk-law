@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Information required for determining capability for work[^key-f4a29b1a5de31ba4bb22f36bce93c19f]
+## 17. Information required for determining capability for work[^c-f4a29b1a5de31ba4bb22f36bce93c19f]
 
 *Extent: N.I.*
 
 (1) Subject to paragraphs (2) and (3), the information or evidence required to determine whether a claimant has limited capability for work is—
 
-- (a) evidence of limited capability for work in accordance with the Medical Evidence Regulations (which prescribe the form of [^key-b4635609fcc66d28a6a51c591ffb106e]... statement or other evidence required in each case);
+- (a) evidence of limited capability for work in accordance with the Medical Evidence Regulations (which prescribe the form of [^c-b4635609fcc66d28a6a51c591ffb106e]... statement or other evidence required in each case);
 - (b) any information relating to a claimant’s capability to perform the activities referred to in Schedule 2 as may be requested in the form of a questionnaire; and
 - (c) any such additional information as may be requested.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4a29b1a5de31ba4bb22f36bce93c19f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/219/regulation/17) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-f4a29b1a5de31ba4bb22f36bce93c19f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/219/regulation/17) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
-[^key-b4635609fcc66d28a6a51c591ffb106e]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2016/219/regulation/17/1/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/182)](https://www.legislation.gov.uk/nisr/2022/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/182/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/182/regulation/4/5)
+[^c-b4635609fcc66d28a6a51c591ffb106e]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/nisr/2016/219/regulation/17/1/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/182)](https://www.legislation.gov.uk/nisr/2022/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/182/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/182/regulation/4/5)

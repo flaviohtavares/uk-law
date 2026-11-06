@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 863E. M's contribution to the limited liability partnership: the basic calculation[^key-63eed683f6b80e0c9ee7cefa1d32ef22]
+## 863E. M's contribution to the limited liability partnership: the basic calculation[^c-63eed683f6b80e0c9ee7cefa1d32ef22]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63eed683f6b80e0c9ee7cefa1d32ef22]: Textual amendment: Ss. 863A-863G inserted (6.4.2014 for specified purposes, 18.7.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-63eed683f6b80e0c9ee7cefa1d32ef22]: Textual amendment: Ss. 863A-863G inserted (6.4.2014 for specified purposes, 18.7.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

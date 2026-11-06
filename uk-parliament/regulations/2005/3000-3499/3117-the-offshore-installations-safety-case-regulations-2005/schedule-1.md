@@ -46,7 +46,7 @@ Regulations 6(1) and (2) and 9(1)
 **5.** A suitable plan of the intended location of the installation and of anything which may be connected to it, and particulars of—
 
 - (a) the meteorological and oceanographic conditions to which the installation may foreseeably be subject; and
-- (b) the properties of the bed of internal waters[^key-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil at its location.
+- (b) the properties of the bed of internal waters[^c-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil at its location.
 
 **6.** Particulars of the types of operation, and activities in connection with an operation, which the installation may perform.
 
@@ -56,12 +56,12 @@ Regulations 6(1) and (2) and 9(1)
 
 **9.** Where a non-production installation is to be converted for use as a production installation, an explanation of why the owner considers the installation suitable for conversion.
 
-**10.** Where a production installation is to be moved to a new location within internal waters[^key-09feb532627f5a4ce224bf67f62bd648], an explanation of why the operator considers the installation suitable for the new location.
+**10.** Where a production installation is to be moved to a new location within internal waters[^c-09feb532627f5a4ce224bf67f62bd648], an explanation of why the operator considers the installation suitable for the new location.
 
 ## Annotations
 
 [^c12330111]: Marginal citation: [S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913), to which there is an amendment not relevant to these Regulations.
 
-[^key-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-09feb532627f5a4ce224bf67f62bd648]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2005/3117/schedule/1/paragraph/10) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 40](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/40) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-09feb532627f5a4ce224bf67f62bd648]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2005/3117/schedule/1/paragraph/10) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 40](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/40) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

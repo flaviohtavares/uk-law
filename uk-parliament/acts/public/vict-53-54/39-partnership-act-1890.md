@@ -31,7 +31,7 @@ Partnership Act 1890
 
 An Act to declare and amend the Law of Partnership.
 
-\[14th August 1890\][^c574713][^c574714][^c574715][^c574716][^key-5206b2b4b894526054758f7e0d23328c][^key-be37fcdb5b6afd52332543d412cabc29]
+\[14th August 1890\][^c574713][^c574714][^c574715][^c574716][^c-5206b2b4b894526054758f7e0d23328c][^c-be37fcdb5b6afd52332543d412cabc29]
 
 ## Nature of Partnership
 
@@ -41,7 +41,7 @@ An Act to declare and amend the Law of Partnership.
 
 (2) But the relation between members of any company or association which is—
 
-- (a)[^key-485504ea20029fa6be82ebaa146c85ed] registered under the Companies Act 2006, or
+- (a)[^c-485504ea20029fa6be82ebaa146c85ed] registered under the Companies Act 2006, or
 - (b) Formed or incorporated by or in pursuance of any other Act of Parliament or letters patent, or Royal Charter; [^c574719]. . .
 
   [^c574719]. . .
@@ -60,7 +60,7 @@ In determining whether a partnership does or does not exist, regard shall be had
 
 - (a) The receipt by a person of a debt or other liquidated amount by instalments or otherwise out of the accruing profits of a business does not of itself make him a partner in the business or liable as such:
 - (b) A contract for the remuneration of a servant or agent of a person engaged in a business by a share of the profits of the business does not of itself make the servant or agent a partner in the business or liable as such:
-- (c) A person being the widow, widower, surviving civil partner[^key-967e51bcffb2bbc4293785a9a3646a4c] or child of a deceased partner, and receiving by way of annuity a portion of the profits made in the business in which the deceased person was a partner, is not by reason only of such receipt a partner in the business or liable as such:
+- (c) A person being the widow, widower, surviving civil partner[^c-967e51bcffb2bbc4293785a9a3646a4c] or child of a deceased partner, and receiving by way of annuity a portion of the profits made in the business in which the deceased person was a partner, is not by reason only of such receipt a partner in the business or liable as such:
 - (d) The advance of money by way of loan to a person engaged or about to engage in any business on a contract with that person that the lender shall receive a rate of interest varying with the profits, or shall receive a share of the profits arising from carrying on the business, does not of itself make the lender a partner with the person or persons carrying on the business or liable as such. Provided that the contract is in writing, and signed by or on behalf of all the parties thereto:
 - (e) A person receiving by way of annuity or otherwise a portion of the profits of a business in consideration of the sale by him of the goodwill of the business is not by reason only of such receipt a partner in the business or liable as such.
 
@@ -74,7 +74,7 @@ In the event of any person to whom money has been advanced by way of loan upon s
 
 (2)[^c574722][^c574723] In Scotland a firm is a legal person distinct from the partners of whom it is composed, but an individual partner may be charged on a decree or diligence directed against the firm, and on payment of the debts is entitled to relief*pro ratâ*from the firm and its other members.
 
-(3)[^key-33ac0b20687dc279b234e11067362eb7] In relation to a limited partnership registered under the Limited Partnerships Act 1907, subsection (2) applies only if the limited partnership was registered by the registrar for Scotland.
+(3)[^c-33ac0b20687dc279b234e11067362eb7] In relation to a limited partnership registered under the Limited Partnerships Act 1907, subsection (2) applies only if the limited partnership was registered by the registrar for Scotland.
 
 ## Relations of Partners to persons dealing with them
 
@@ -178,7 +178,7 @@ Where land or any heritable interest therein has become partnership property, it
 
 (1) A writ of execution shall not issue against any partnership property except on a judgment against the firm.
 
-(2) The High Court, or a judge thereof, . . . [^c574727] or the county court in England and Wales or a county court in Northern Ireland,[^key-db0aa009a4734c95502a4b375989fc34] may, on the application by summons of any judgment creditor of a partner, make an order charging that partner’s interest in the partnership property and profits with payment of the amount of the judgment debt and interest thereon, and may by the same or a subsequent order appoint a receiver of that partner’s share of profits (whether already declared or accruing), and of any other money which may be coming to him in respect of the partnership, and direct all accounts and inquiries, and give all other orders and directions which might have been directed or given if the charge had been made in favour of the judgment creditor by the partner, or which the circumstances of the case may require.
+(2) The High Court, or a judge thereof, . . . [^c574727] or the county court in England and Wales or a county court in Northern Ireland,[^c-db0aa009a4734c95502a4b375989fc34] may, on the application by summons of any judgment creditor of a partner, make an order charging that partner’s interest in the partnership property and profits with payment of the amount of the judgment debt and interest thereon, and may by the same or a subsequent order appoint a receiver of that partner’s share of profits (whether already declared or accruing), and of any other money which may be coming to him in respect of the partnership, and direct all accounts and inquiries, and give all other orders and directions which might have been directed or given if the charge had been made in favour of the judgment creditor by the partner, or which the circumstances of the case may require.
 
 (3) The other partner or partners shall be at liberty at any time to redeem the interest charged, or in case of a sale being directed, to purchase the same.
 
@@ -273,7 +273,7 @@ A partnership is in every case dissolved by the happening of any event which mak
 
 On application by a partner the Court may decree a dissolution of the partnership in any of the following cases:
 
-- (a)[^key-bba271f9fe5f02b8be76588e61e6dee9][^c574729] When a partner is found lunatic by inquisition, or in Scotland by cognition, or is shown to the satisfaction of the Court to be of permanently unsound mind, in either of which cases the application may be made as well on behalf of that partner by his committee or next friend or person having title to intervene as by any other partner: *(affected by repeal, see note)*[^key-bba271f9fe5f02b8be76588e61e6dee9]
+- (a)[^c-bba271f9fe5f02b8be76588e61e6dee9][^c574729] When a partner is found lunatic by inquisition, or in Scotland by cognition, or is shown to the satisfaction of the Court to be of permanently unsound mind, in either of which cases the application may be made as well on behalf of that partner by his committee or next friend or person having title to intervene as by any other partner: *(affected by repeal, see note)*[^c-bba271f9fe5f02b8be76588e61e6dee9]
 - (a) When a partner has a mental disorder within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 or section 305 of the Mental Capacity Act (Northern Ireland) 2016 (as the case may be):
 - (b) When a partner, other than the partner suing, becomes in any other way permanently incapable of performing his part of the partnership contract:
 - (c) When a partner, other than the partner suing, has been guilty of such conduct as, in the opinion of the Court, regard being had to the nature of the business, is calculated to prejudicially affect the carrying on of the business:
@@ -283,11 +283,11 @@ On application by a partner the Court may decree a dissolution of the partnershi
 
 ### 36. Rights of persons dealing with firm against apparent members of firm.
 
-(1)[^key-e7c0dfbe4108ac37fdec743fcb2e75ad] Where a person deals with a firm after a change in its constitution he is entitled to treat all apparent members of the old firm as still being members of the firm until he has notice of the change.
+(1)[^c-e7c0dfbe4108ac37fdec743fcb2e75ad] Where a person deals with a firm after a change in its constitution he is entitled to treat all apparent members of the old firm as still being members of the firm until he has notice of the change.
 
 (2)[^c574731] An advertisement in the London Gazette as to a firm whose principal place of business is in England or Wales, in the Edinburgh Gazette as to a firm whose principal place of business is in Scotland, and in the Belfast Gazette[^c574732] as to a firm whose principal place of business is in Ireland, shall be notice as to persons who had not dealings with the firm before the date of the dissolution or change so advertised.
 
-(3)[^key-dd5e0beaf561ac9adc196679af92d97f] The estate of a partner who dies, or who becomes bankrupt, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable for partnership debts contracted after the date of the death, bankruptcy, or retirement respectively.
+(3)[^c-dd5e0beaf561ac9adc196679af92d97f] The estate of a partner who dies, or who becomes bankrupt, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable for partnership debts contracted after the date of the death, bankruptcy, or retirement respectively.
 
 ### 37. Right of partners to notify dissolution.
 
@@ -295,7 +295,7 @@ On the dissolution of a partnership or retirement of a partner any partner may p
 
 ### 38. Continuing authority of partners for purposes of winding up.
 
-After the dissolution of a partnership the authority of each partner to bind the firm, and the other rights and obligations of the partners, continue notwithstanding the dissolution so far as may be necessary to wind up the affairs of the partnership, and to complete transactions begun but unfinished at the time of the dissolution, and in relation to any prosecution of the partnership by virtue of section 1 of the Partnerships (Prosecution) (Scotland) Act 2013[^key-cdc0bf7d8b1896acf1eb73c11cb34101] , but not otherwise.
+After the dissolution of a partnership the authority of each partner to bind the firm, and the other rights and obligations of the partners, continue notwithstanding the dissolution so far as may be necessary to wind up the affairs of the partnership, and to complete transactions begun but unfinished at the time of the dissolution, and in relation to any prosecution of the partnership by virtue of section 1 of the Partnerships (Prosecution) (Scotland) Act 2013[^c-cdc0bf7d8b1896acf1eb73c11cb34101] , but not otherwise.
 
 Provided that the firm is in no case bound by the acts of a partner who has become bankrupt; but this proviso does not affect the liability of any person who has after the bankruptcy represented himself or knowingly suffered himself to be represented as a partner of the bankrupt.
 
@@ -378,15 +378,15 @@ This Act may be cited as the Partnership Act 1890.
 
 [^c574716]: Commencement: Act wholly in force at 1.1.1891 by s. 49 (now repealed)
 
-[^key-5206b2b4b894526054758f7e0d23328c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/53-54/39) applied by 2007 c. 27, s. 27A(6) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f))
+[^c-5206b2b4b894526054758f7e0d23328c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/53-54/39) applied by 2007 c. 27, s. 27A(6) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f))
 
-[^key-be37fcdb5b6afd52332543d412cabc29]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/53-54/39) power to amend or repeal conferred (26.10.2023 for specified purposes) by 1907 c. 24, s. 7A (as inserted by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 149](https://www.legislation.gov.uk/ukpga/2023/56/section/149), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b))
+[^c-be37fcdb5b6afd52332543d412cabc29]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/53-54/39) power to amend or repeal conferred (26.10.2023 for specified purposes) by 1907 c. 24, s. 7A (as inserted by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 149](https://www.legislation.gov.uk/ukpga/2023/56/section/149), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b))
 
-[^key-485504ea20029fa6be82ebaa146c85ed]: Textual amendment: S. 1(2)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-485504ea20029fa6be82ebaa146c85ed]: Textual amendment: S. 1(2)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c574719]: Textual amendment: S. 1(2): the word "or" and subsection (c) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/X) Group 1
 
-[^key-967e51bcffb2bbc4293785a9a3646a4c]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-967e51bcffb2bbc4293785a9a3646a4c]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
 [^c574721]: Textual amendment: Words substituted by virtue of [Decimal Currency Act 1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1969/19/section/10/1)
 
@@ -394,7 +394,7 @@ This Act may be cited as the Partnership Act 1890.
 
 [^c574723]: Modification: [S. 4(2)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/4/2) excluded (S.) (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/1991/55/section/25/5), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1991/55/schedule/2/part/III), [para. 3(b)](https://www.legislation.gov.uk/ukpga/1991/55/paragraph/3/b) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 
-[^key-33ac0b20687dc279b234e11067362eb7]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/4/3) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 150](https://www.legislation.gov.uk/ukpga/2023/56/section/150), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-33ac0b20687dc279b234e11067362eb7]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/4/3) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 150](https://www.legislation.gov.uk/ukpga/2023/56/section/150), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
 [^c574724]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/6) applied (20.10.1995) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 7(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/7/2)
 
@@ -402,25 +402,25 @@ This Act may be cited as the Partnership Act 1890.
 
 [^c574727]: Textual amendment: Words repealed by [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1971/23/schedule/11/part/II)
 
-[^key-db0aa009a4734c95502a4b375989fc34]: Textual amendment: Words in s. 23(2) substituted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 118](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/118); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-db0aa009a4734c95502a4b375989fc34]: Textual amendment: Words in s. 23(2) substituted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 118](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/118); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c574728]: Textual amendment: S. 23(4) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/X) Group 1
 
-[^key-bba271f9fe5f02b8be76588e61e6dee9]: Textual amendment: [S. 35(a)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/35/a) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/130/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-bba271f9fe5f02b8be76588e61e6dee9]: Textual amendment: [S. 35(a)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/35/a) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/130/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
 [^c574729]: Textual amendment: [S. 35(a)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/35/a) repealed (E.W.) by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/schedule/8/part/I)
 
 [^c574730]: Modification: [S. 35(f)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/35/f) amended by [National Health Service (Amendment) Act 1949 (c. 93)](https://www.legislation.gov.uk/ukpga/1949/93), [s. 7(4)](https://www.legislation.gov.uk/ukpga/1949/93/section/7/4)
 
-[^key-e7c0dfbe4108ac37fdec743fcb2e75ad]: Modification: [S. 36(1)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/36/1) excluded by 1907 c. 24, s. 6(6) (as inserted (6.4.2017) by [The Legislative Reform (Private Fund Limited Partnerships) Order 2017 (S.I. 2017/514)](https://www.legislation.gov.uk/uksi/2017/514), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/514/article/1/2), [2(4)(e)](https://www.legislation.gov.uk/uksi/2017/514/article/2/4/e))
+[^c-e7c0dfbe4108ac37fdec743fcb2e75ad]: Modification: [S. 36(1)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/36/1) excluded by 1907 c. 24, s. 6(6) (as inserted (6.4.2017) by [The Legislative Reform (Private Fund Limited Partnerships) Order 2017 (S.I. 2017/514)](https://www.legislation.gov.uk/uksi/2017/514), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/514/article/1/2), [2(4)(e)](https://www.legislation.gov.uk/uksi/2017/514/article/2/4/e))
 
 [^c574731]: Modification: Reference to Ireland to be construed as exclusive of Republic of Ireland: S.R. & O. 1923/405 (Rev. X, p. 298: 1923, p. 400), art. 2
 
 [^c574732]: Textual amendment: Words substituted by virtue of S.R. & O. 1921/1804 (Rev. XVI, p. 967: 1921, p. 422) art. 7(a)
 
-[^key-dd5e0beaf561ac9adc196679af92d97f]: Modification: [S. 36(3)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/36/3) applied (E.W.) (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 82(5)](https://www.legislation.gov.uk/anaw/2017/3/section/82/5), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
+[^c-dd5e0beaf561ac9adc196679af92d97f]: Modification: [S. 36(3)](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/36/3) applied (E.W.) (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 82(5)](https://www.legislation.gov.uk/anaw/2017/3/section/82/5), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
 
-[^key-cdc0bf7d8b1896acf1eb73c11cb34101]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/38) inserted (26.4.2013) by [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/2), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
+[^c-cdc0bf7d8b1896acf1eb73c11cb34101]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/38) inserted (26.4.2013) by [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/2), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
 
 [^c574733]: Textual amendment: [Ss. 48](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/48), [49](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/section/49), [Sch.](https://www.legislation.gov.uk/ukpga/Vict/53-54/39/schedule) repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 

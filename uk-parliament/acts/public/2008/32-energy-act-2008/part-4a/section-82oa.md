@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82OA. Fees[^key-123ceeb29c550895f6f1978997b7f89a][^key-c6edb742658f858855d9a38ca3936ae8]
+## 82OA. Fees[^c-123ceeb29c550895f6f1978997b7f89a][^c-c6edb742658f858855d9a38ca3936ae8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-123ceeb29c550895f6f1978997b7f89a]: Textual amendment: [S. 82OA](https://www.legislation.gov.uk/ukpga/2008/32/section/82OA) inserted (12.7.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/76/1), [84(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/2)
+[^c-123ceeb29c550895f6f1978997b7f89a]: Textual amendment: [S. 82OA](https://www.legislation.gov.uk/ukpga/2008/32/section/82OA) inserted (12.7.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/76/1), [84(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/2)
 
-[^key-c6edb742658f858855d9a38ca3936ae8]: Textual amendment: Pt. 4A inserted (12.11.2009 for specified purposes, 6.4.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
+[^c-c6edb742658f858855d9a38ca3936ae8]: Textual amendment: Pt. 4A inserted (12.11.2009 for specified purposes, 6.4.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Use of private roads for construction[^key-b2221d9c362a26e046a839b2885f4aff]
+## 15. Use of private roads for construction[^c-b2221d9c362a26e046a839b2885f4aff]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2221d9c362a26e046a839b2885f4aff]: Commencement: Art. 15 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-b2221d9c362a26e046a839b2885f4aff]: Commencement: Art. 15 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

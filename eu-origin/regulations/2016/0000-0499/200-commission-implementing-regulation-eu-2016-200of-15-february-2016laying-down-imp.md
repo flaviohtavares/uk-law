@@ -35,145 +35,145 @@ laying down implementing technical standards with regard to disclosure of the le
 
 (Text with EEA relevance) (revoked)
 
-[^key-f2607a0464ae564cef7881d365234e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2607a0464ae564cef7881d365234e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Disclosure of the leverage ratio and application of Article 499(2) of Regulation (EU) No 575/2013[^key-f2607a0464ae564cef7881d365234e05]
+## Article 1. Disclosure of the leverage ratio and application of Article 499(2) of Regulation (EU) No 575/2013[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Change of the decision on which leverage ratio to disclose[^key-f2607a0464ae564cef7881d365234e05]
+## Article 2. Change of the decision on which leverage ratio to disclose[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Breakdown of the leverage ratio total exposure measure[^key-f2607a0464ae564cef7881d365234e05]
+## Article 3. Breakdown of the leverage ratio total exposure measure[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Reconciliation of leverage ratio to published financial statements[^key-f2607a0464ae564cef7881d365234e05]
+## Article 4. Reconciliation of leverage ratio to published financial statements[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Disclosure of the amount of derecognised fiduciary items[^key-f2607a0464ae564cef7881d365234e05]
+## Article 5. Disclosure of the amount of derecognised fiduciary items[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Disclosure of qualitative information on risk of excessive leverage and factors impacting the leverage ratio[^key-f2607a0464ae564cef7881d365234e05]
+## Article 6. Disclosure of qualitative information on risk of excessive leverage and factors impacting the leverage ratio[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-f2607a0464ae564cef7881d365234e05]
+## Article 7. Entry into force[^c-f2607a0464ae564cef7881d365234e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2607a0464ae564cef7881d365234e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-f2607a0464ae564cef7881d365234e05]
+## ANNEX I[^c-f2607a0464ae564cef7881d365234e05]
 
-[^key-f2607a0464ae564cef7881d365234e05]**CRR Leverage Ratio — Disclosure Template**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-f2607a0464ae564cef7881d365234e05]**CRR Leverage Ratio — Disclosure Template**
+[^c-f2607a0464ae564cef7881d365234e05]**CRR Leverage Ratio — Disclosure Template**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — INSTRUCTIONS FOR THE COMPLETION OF THE TEMPLATES IN ANNEX I[^key-f2607a0464ae564cef7881d365234e05]
+[^c-f2607a0464ae564cef7881d365234e05]**CRR Leverage Ratio — Disclosure Template**
 
-### PART 1: GENERAL INSTRUCTIONS[^key-f2607a0464ae564cef7881d365234e05]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]1.
+## ANNEX II — INSTRUCTIONS FOR THE COMPLETION OF THE TEMPLATES IN ANNEX I[^c-f2607a0464ae564cef7881d365234e05]
+
+### PART 1: GENERAL INSTRUCTIONS[^c-f2607a0464ae564cef7881d365234e05]
+
+[^c-f2607a0464ae564cef7881d365234e05]1.
 
 **Conventions and reference data**
 
-[^key-f2607a0464ae564cef7881d365234e05]1.1.
+[^c-f2607a0464ae564cef7881d365234e05]1.1.
 
 **Conventions**
 
-[^key-f2607a0464ae564cef7881d365234e05]1.
+[^c-f2607a0464ae564cef7881d365234e05]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]2.
+[^c-f2607a0464ae564cef7881d365234e05]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]3.
+[^c-f2607a0464ae564cef7881d365234e05]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]4.
+[^c-f2607a0464ae564cef7881d365234e05]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]1.2.
+[^c-f2607a0464ae564cef7881d365234e05]1.2.
 
 **Reference data**
 
-[^key-f2607a0464ae564cef7881d365234e05]5.
+[^c-f2607a0464ae564cef7881d365234e05]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]6.
+[^c-f2607a0464ae564cef7881d365234e05]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]7.
+[^c-f2607a0464ae564cef7881d365234e05]7.
 
 In the cell ‘Level of application’ institutions shall indicate the level of application that forms the basis for the data provided in the templates. When completing this cell institutions shall select one of the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]1.3.
+[^c-f2607a0464ae564cef7881d365234e05]1.3.
 
 **Reference data**
 
-[^key-f2607a0464ae564cef7881d365234e05]8.
+[^c-f2607a0464ae564cef7881d365234e05]8.
 
 For the purposes of this annex and related templates the following abbreviations are used:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2: TEMPLATE-SPECIFIC INSTRUCTIONS[^key-f2607a0464ae564cef7881d365234e05]
+### PART 2: TEMPLATE-SPECIFIC INSTRUCTIONS[^c-f2607a0464ae564cef7881d365234e05]
 
-[^key-f2607a0464ae564cef7881d365234e05]2.
+[^c-f2607a0464ae564cef7881d365234e05]2.
 
 **Template LRSum: Summary reconciliation of accounting assets and leverage ratio exposures**
 
-[^key-f2607a0464ae564cef7881d365234e05]9.
+[^c-f2607a0464ae564cef7881d365234e05]9.
 
 Institutions shall apply the instructions provided in this section in order to complete template LRSum of Annex I.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]3.
+[^c-f2607a0464ae564cef7881d365234e05]3.
 
 **Template LRCom: Leverage ratio common disclosure**
 
-[^key-f2607a0464ae564cef7881d365234e05]10.
+[^c-f2607a0464ae564cef7881d365234e05]10.
 
 Institutions shall apply the instructions provided in this section in order to complete template LRCom of Annex I.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]4.
+[^c-f2607a0464ae564cef7881d365234e05]4.
 
 **Template LRSpl: Split-up of on-balance sheet exposures (excluding derivatives and SFTs)**
 
-[^key-f2607a0464ae564cef7881d365234e05]11.
+[^c-f2607a0464ae564cef7881d365234e05]11.
 
 Institutions shall apply the instructions provided in this section in order to complete template LRSpl of Annex I.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2607a0464ae564cef7881d365234e05]5.
+[^c-f2607a0464ae564cef7881d365234e05]5.
 
 **Template LRQua: Free format text boxes for disclosure on qualitative items**
 
-[^key-f2607a0464ae564cef7881d365234e05]12.
+[^c-f2607a0464ae564cef7881d365234e05]12.
 
 Institutions shall complete template LRQua of Annex I by applying the following.
 
@@ -181,4 +181,4 @@ Institutions shall complete template LRQua of Annex I by applying the following.
 
 ## Annotations
 
-[^key-f2607a0464ae564cef7881d365234e05]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(2)(fa)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/2/fa) (as inserted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/a/ii))
+[^c-f2607a0464ae564cef7881d365234e05]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(2)(fa)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/2/fa) (as inserted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/a/ii))

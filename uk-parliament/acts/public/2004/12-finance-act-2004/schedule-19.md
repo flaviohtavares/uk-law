@@ -22,7 +22,7 @@ summary: ''
 
 Section 94
 
-### Part 1 — Increase in relief on investments and distributions[^key-5f9524904099f911a6ff4d371f007af8]
+### Part 1 — Increase in relief on investments and distributions[^c-5f9524904099f911a6ff4d371f007af8]
 
 **No longer in force.**
 
@@ -48,7 +48,7 @@ Section 94
 
 (2) But nothing in this Act affects the continuing operation of Schedule 5C to the Taxation of Chargeable Gains Act 1992 (c. 12) for the purposes of section 151B(8)(b)(ii) of that Act.
 
-### Part 3 — Miscellaneous[^key-7483893bbbcd088c140a1503d1d27df8]
+### Part 3 — Miscellaneous[^c-7483893bbbcd088c140a1503d1d27df8]
 
 **No longer in force.**
 
@@ -56,6 +56,6 @@ Section 94
 
 ## Annotations
 
-[^key-5f9524904099f911a6ff4d371f007af8]: Textual amendment: Sch. 19 Pt. 1 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-5f9524904099f911a6ff4d371f007af8]: Textual amendment: Sch. 19 Pt. 1 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-7483893bbbcd088c140a1503d1d27df8]: Textual amendment: Sch. 19 Pt. 3 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-7483893bbbcd088c140a1503d1d27df8]: Textual amendment: Sch. 19 Pt. 3 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

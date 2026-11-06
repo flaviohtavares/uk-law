@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**233.**[^key-af2261df68da85205f2cba2b4c64670e] In Schedule 2 (amendments to Children Act 1989) omit paragraph 4.
+**233.**[^c-af2261df68da85205f2cba2b4c64670e] In Schedule 2 (amendments to Children Act 1989) omit paragraph 4.
 
 ## Annotations
 
-[^key-af2261df68da85205f2cba2b4c64670e]: Commencement: Reg. 233 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-af2261df68da85205f2cba2b4c64670e]: Commencement: Reg. 233 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

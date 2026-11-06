@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Energy performance of buildings procured for the Scottish civil estate[^key-d65fc4e3dda2b26cf49ee0a4f568e9e0]
+## 75. Energy performance of buildings procured for the Scottish civil estate[^c-d65fc4e3dda2b26cf49ee0a4f568e9e0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d65fc4e3dda2b26cf49ee0a4f568e9e0]: Commencement: S. 75 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-d65fc4e3dda2b26cf49ee0a4f568e9e0]: Commencement: S. 75 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

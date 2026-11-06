@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (1A) to (1D), prisoners[^key-f2bf81add85973a3b6e44e7de3598798] shall be classified, in accordance with any directions of the Secretary of State, having regard to their age, temperament and record and with a view to maintaining good order and facilitating training and, in the case of convicted prisoners, of furthering the purpose of their training and treatment as provided by rule 3.
+(1) Subject to paragraphs (1A) to (1D), prisoners[^c-f2bf81add85973a3b6e44e7de3598798] shall be classified, in accordance with any directions of the Secretary of State, having regard to their age, temperament and record and with a view to maintaining good order and facilitating training and, in the case of convicted prisoners, of furthering the purpose of their training and treatment as provided by rule 3.
 
-(1A)[^key-100bfa8753a9547cfdf2ef2cd89ad460] Except where paragraph (1D) applies, a prisoner who has the relevant deportation status must not be classified as suitable for open conditions.
+(1A)[^c-100bfa8753a9547cfdf2ef2cd89ad460] Except where paragraph (1D) applies, a prisoner who has the relevant deportation status must not be classified as suitable for open conditions.
 
 (1B) If, immediately before the relevant time—
 
@@ -66,6 +66,6 @@ the prisoner’s classification must be reconsidered in accordance with this rul
 
 ## Annotations
 
-[^key-f2bf81add85973a3b6e44e7de3598798]: Textual amendment: Words in rule 7(1) substituted (13.8.2014 at 5.00 p.m.) by [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/2169/rule/2/3/a)
+[^c-f2bf81add85973a3b6e44e7de3598798]: Textual amendment: Words in rule 7(1) substituted (13.8.2014 at 5.00 p.m.) by [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/2169/rule/2/3/a)
 
-[^key-100bfa8753a9547cfdf2ef2cd89ad460]: Textual amendment: Rule 7(1A)-(1G) inserted (13.8.2014 at 5.00 p.m.) by [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2169/rule/2/3/b)
+[^c-100bfa8753a9547cfdf2ef2cd89ad460]: Textual amendment: Rule 7(1A)-(1G) inserted (13.8.2014 at 5.00 p.m.) by [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2169/rule/2/3/b)

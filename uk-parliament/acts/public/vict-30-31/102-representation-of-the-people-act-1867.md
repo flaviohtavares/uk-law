@@ -31,7 +31,7 @@ Representation of the People Act 1867
 
 [^c565831][^c565832][^c2028447][^c2028453][^c2028457]An Act further to amend the Laws relating to the Representation of the People in England and Wales.
 
-\[15th August 1867\][^key-65ae016276986f48212124854b1a522c][^key-bec3bbe467c7d23f9e53307a6f1fefde][^key-f2b78d3ec6bed8455cdb2a036654cca6]
+\[15th August 1867\][^c-65ae016276986f48212124854b1a522c][^c-bec3bbe467c7d23f9e53307a6f1fefde][^c-f2b78d3ec6bed8455cdb2a036654cca6]
 
 ## 1. Short title.[^c565833]
 
@@ -45,7 +45,7 @@ This Act shall be cited for all purposes as “**The Representation of the Peopl
 
 ## 51. Not necessary to dissolve Parliament on any future demise of the Crown.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c565837]The Parliament in being at any future demise of the Crown shall not be determined or dissolved by such demise, but shall continue so long as it would have continued but for such demise, unless it should be sooner prorogued or dissolved[^key-a362b1471d5ecb49ee518b3d412eeda0] [^key-9e7dacbbf732427f4cb6c7fd585a61c6]... by the Crown, anything in the Succession to the [^c565838]Crown Act 1707 in any way notwithstanding.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c565837]The Parliament in being at any future demise of the Crown shall not be determined or dissolved by such demise, but shall continue so long as it would have continued but for such demise, unless it should be sooner prorogued or dissolved[^c-a362b1471d5ecb49ee518b3d412eeda0] [^c-9e7dacbbf732427f4cb6c7fd585a61c6]... by the Crown, anything in the Succession to the [^c565838]Crown Act 1707 in any way notwithstanding.
 
 ## 52—61. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c565839]
 
@@ -65,11 +65,11 @@ This Act shall be cited for all purposes as “**The Representation of the Peopl
 
 [^c2028457]: Modification: Act: power to modify conferred by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 13(4)(5)(a)](https://www.legislation.gov.uk/ukpga/2006/32/section/13/4/5/a) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 26, 161(4)(5) of the amending Act
 
-[^key-65ae016276986f48212124854b1a522c]: Modification: Act: power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7), [157(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/3/a)
+[^c-65ae016276986f48212124854b1a522c]: Modification: Act: power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7), [157(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/3/a)
 
-[^key-bec3bbe467c7d23f9e53307a6f1fefde]: Modification: Act: power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-bec3bbe467c7d23f9e53307a6f1fefde]: Modification: Act: power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-f2b78d3ec6bed8455cdb2a036654cca6]: Modification: Act: power to apply (with modifications) conferred by 1998 c. 46, s. 12(4)(5) (as substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b))
+[^c-f2b78d3ec6bed8455cdb2a036654cca6]: Modification: Act: power to apply (with modifications) conferred by 1998 c. 46, s. 12(4)(5) (as substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b))
 
 [^c565833]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Vict/30-31/102/section/1) repealed by [Representation of the People Act 1949 (c. 68)](https://www.legislation.gov.uk/ukpga/1949/68), [Sch. 9](https://www.legislation.gov.uk/ukpga/1949/68/schedule/9)
 
@@ -81,9 +81,9 @@ This Act shall be cited for all purposes as “**The Representation of the Peopl
 
 [^c565837]: Textual amendment: Recital omitted under authority of [Statute Law Revision Act 1893 (c. 14)](https://www.legislation.gov.uk/ukpga/1893/14)
 
-[^key-a362b1471d5ecb49ee518b3d412eeda0]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/Vict/30-31/102/section/51) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/2)
+[^c-a362b1471d5ecb49ee518b3d412eeda0]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/Vict/30-31/102/section/51) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/2)
 
-[^key-9e7dacbbf732427f4cb6c7fd585a61c6]: Textual amendment: Words in s. 51 omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/3) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-9e7dacbbf732427f4cb6c7fd585a61c6]: Textual amendment: Words in s. 51 omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/3) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
 
 [^c565838]: Marginal citation: [1707 c. 41](https://www.legislation.gov.uk/apgb/1707/41).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Effect of extension[^key-38d93d6e41ebbe17bc2537353bb8c284]
+## 6. Effect of extension[^c-38d93d6e41ebbe17bc2537353bb8c284]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38d93d6e41ebbe17bc2537353bb8c284]: Commencement: Reg. 6 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-38d93d6e41ebbe17bc2537353bb8c284]: Commencement: Reg. 6 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

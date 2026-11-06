@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Regulation (EU) 2019/1753 of the European Parliament and of the Council[^key-a47acbfdc20a074b17609c1c3a6b1213]
+## 31. Regulation (EU) 2019/1753 of the European Parliament and of the Council[^c-a47acbfdc20a074b17609c1c3a6b1213]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Regulation (EU) 2019/1753 of the European Parliament and of the Council on the a
 
 ## Annotations
 
-[^key-a47acbfdc20a074b17609c1c3a6b1213]: Commencement: Reg. 31 in force at 31.12.2020, see reg. 1(7)
+[^c-a47acbfdc20a074b17609c1c3a6b1213]: Commencement: Reg. 31 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414641]: Marginal citation: EUR 2019/1753.

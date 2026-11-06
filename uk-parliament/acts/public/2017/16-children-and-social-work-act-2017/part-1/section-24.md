@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Child death reviews[^key-b04bffdd4f2514dfac7d3c361dade830]
+## 24. Child death reviews[^c-b04bffdd4f2514dfac7d3c361dade830]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ After section 16L of the Children Act 2004 (inserted by section 23 of this Act) 
 
 ## Annotations
 
-[^key-b04bffdd4f2514dfac7d3c361dade830]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/16/section/24) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/m)
+[^c-b04bffdd4f2514dfac7d3c361dade830]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/16/section/24) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/m)

@@ -43,7 +43,7 @@ An application has been made to the Secretary of State under section 37 of the P
 
 The application was examined by the Examining Authority appointed by the Secretary of State pursuant to section 61 [^c24412501] and section 65 [^c24412511] of Part 6 of the 2008 Act and carried out in accordance with Chapter 4 of that Act and with the Infrastructure Planning (Examination) Procedure Rules 2010 [^c24412521]. The Examining Authority has submitted a report to the Secretary of State under section 74(2) [^c24412531] of the 2008 Act.
 
-The Secretary of State has considered the report and recommendation of the Examining Authority, has taken into account the environmental information in accordance with regulation 3 of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009 [^c24412541] and, as a national policy statement has effect in relation to the proposed development, has had regard to the documents and matters referred to in section 104(2) [^c24412551] [^key-13b497c3ba151cbd0550736c9ad71038]... of the 2008 Act.
+The Secretary of State has considered the report and recommendation of the Examining Authority, has taken into account the environmental information in accordance with regulation 3 of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009 [^c24412541] and, as a national policy statement has effect in relation to the proposed development, has had regard to the documents and matters referred to in section 104(2) [^c24412551] [^c-13b497c3ba151cbd0550736c9ad71038]... of the 2008 Act.
 
 The Secretary of State, having decided the application, has determined to make an Order giving effect to the proposals comprised in the application on terms that in the opinion of the Secretary of State are not materially different from those proposed in the application.
 
@@ -188,7 +188,7 @@ A copy of the plans and book of reference referred to in this Order and certifie
 
 [^c24412551]: Marginal citation: [Section 104](https://www.legislation.gov.uk/uksi/2020/1656/section/104) was amended by section 58(5) of the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23) and by section 128(2) of the and Schedule 13, paragraphs 1 and 49(1) to (6) of the Localism Act 2011.
 
-[^key-13b497c3ba151cbd0550736c9ad71038]: Textual amendment: Preamble: bracket omitted (21.5.2021) by virtue of [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-13b497c3ba151cbd0550736c9ad71038]: Textual amendment: Preamble: bracket omitted (21.5.2021) by virtue of [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
 [^c24412561]: Marginal citation: [Section 132](https://www.legislation.gov.uk/uksi/2020/1656/section/132) was amended by section 24(3) of the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 

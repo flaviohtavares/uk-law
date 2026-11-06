@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Licences and ratings no longer to be granted[^key-9da8913b58042112604ee5ef7fc8fe81]
+## 172. Licences and ratings no longer to be granted[^c-9da8913b58042112604ee5ef7fc8fe81]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ to any person who was not on 30th September 2025 the holder of such a licence.
 
 ## Annotations
 
-[^key-9da8913b58042112604ee5ef7fc8fe81]: Textual amendment: [Art. 172](https://www.legislation.gov.uk/uksi/2016/765/article/172) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [14](https://www.legislation.gov.uk/uksi/2025/850/article/14)
+[^c-9da8913b58042112604ee5ef7fc8fe81]: Textual amendment: [Art. 172](https://www.legislation.gov.uk/uksi/2016/765/article/172) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [14](https://www.legislation.gov.uk/uksi/2025/850/article/14)

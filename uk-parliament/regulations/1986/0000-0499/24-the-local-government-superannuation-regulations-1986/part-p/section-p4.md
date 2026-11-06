@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P4. Accounts and audit[^key-fca5c7ee2ca5f2f17adb57c25926cd4f]
+## P4. Accounts and audit[^c-fca5c7ee2ca5f2f17adb57c25926cd4f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ As soon as may be after any audit of their superannuation fund an administering 
 
 ## Annotations
 
-[^key-fca5c7ee2ca5f2f17adb57c25926cd4f]: Commencement: [Reg. P4](https://www.legislation.gov.uk/uksi/1986/24/regulation/P4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-fca5c7ee2ca5f2f17adb57c25926cd4f]: Commencement: [Reg. P4](https://www.legislation.gov.uk/uksi/1986/24/regulation/P4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

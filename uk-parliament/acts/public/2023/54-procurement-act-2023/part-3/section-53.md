@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Contract details notices and publication of contracts[^key-5a9a2b2b231485d7e29084ed7b4c4e1a][^key-07aa967c3820f567d3df9edcea967cec]
+## 53. Contract details notices and publication of contracts[^c-5a9a2b2b231485d7e29084ed7b4c4e1a][^c-07aa967c3820f567d3df9edcea967cec]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a9a2b2b231485d7e29084ed7b4c4e1a]: Commencement: S. 53 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-5a9a2b2b231485d7e29084ed7b4c4e1a]: Commencement: S. 53 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-07aa967c3820f567d3df9edcea967cec]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/54/section/53) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-07aa967c3820f567d3df9edcea967cec]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/54/section/53) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

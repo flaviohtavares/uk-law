@@ -57,7 +57,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 These Regulations may be cited as the Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 and come into force as follows—
 
 - (a) regulation 4 apart from paragraph (b) and regulation 5 on 1st January 2019;
-- (b) paragraph (b) of regulation 4 on 1st April 2020[^key-0c47ed31d71a44055058dd633324690a]; and
+- (b) paragraph (b) of regulation 4 on 1st April 2020[^c-0c47ed31d71a44055058dd633324690a]; and
 - (c) the remaining regulations on 1st July 2018.
 
 ### 2. Interpretation
@@ -1076,7 +1076,7 @@ A draft of these Regulations was notified to the European Commission in accordan
 
 [^c23007251]: Marginal citation: OJ No. L60, 2.3.2013, p.1.
 
-[^key-0c47ed31d71a44055058dd633324690a]: Textual amendment: Words in [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/b) substituted (31.3.2020) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2020 (S.I. 2020/229)](https://www.legislation.gov.uk/uksi/2020/229), [regs. 1](https://www.legislation.gov.uk/uksi/2020/229/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/229/regulation/2/2)
+[^c-0c47ed31d71a44055058dd633324690a]: Textual amendment: Words in [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/b) substituted (31.3.2020) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2020 (S.I. 2020/229)](https://www.legislation.gov.uk/uksi/2020/229), [regs. 1](https://www.legislation.gov.uk/uksi/2020/229/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/229/regulation/2/2)
 
 [^c23007261]: Marginal citation: [S.I. 2001/3523](https://www.legislation.gov.uk/uksi/2001/3523), as amended by [S.I. 2004/1661](https://www.legislation.gov.uk/uksi/2004/1661), 2013/65 and 2018/235.
 

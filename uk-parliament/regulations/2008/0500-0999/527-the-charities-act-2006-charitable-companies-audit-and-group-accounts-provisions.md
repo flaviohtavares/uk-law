@@ -44,7 +44,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 Accordingly the Minister for the Cabinet Office makes the following Order:
 
-## 1. Citation, commencement, application and extent[^key-6f8f658a2d12d82d9a93329f50581801]
+## 1. Citation, commencement, application and extent[^c-6f8f658a2d12d82d9a93329f50581801]
 
 (1) This Order may be cited as the Charities Act 2006 (Charitable Companies Audit and Group Accounts Provisions) Order 2008 and, subject to paragraph (2), comes into force on 1st April 2008.
 
@@ -56,7 +56,7 @@ Accordingly the Minister for the Cabinet Office makes the following Order:
 
 (5) This Order extends to England and Wales only.
 
-## 2. Amendments of the Charities Act 1993[^key-74ea75bff345219561932dc7820af019]
+## 2. Amendments of the Charities Act 1993[^c-74ea75bff345219561932dc7820af019]
 
 **Not yet in force.**
 
@@ -100,7 +100,7 @@ Accordingly the Minister for the Cabinet Office makes the following Order:
 
 .
 
-**3.**[^key-1227c8dfeb33c7207d4eb6c115db152a] In section 44(1)(b)[^f00006] of the Charities Act 1993 (supplementary provisions relating to audits etc.), at the end of sub-paragraph (ii) insert—
+**3.**[^c-1227c8dfeb33c7207d4eb6c115db152a] In section 44(1)(b)[^f00006] of the Charities Act 1993 (supplementary provisions relating to audits etc.), at the end of sub-paragraph (ii) insert—
 
 > or
 >
@@ -108,7 +108,7 @@ Accordingly the Minister for the Cabinet Office makes the following Order:
 
 .
 
-**4.**[^key-27a0375853cbb8590a6995c6992abb00] In section 45(5)[^f00007] of the Charities Act 1993(annual reports), for the words from “a copy of any auditors’ report” to the end substitute—
+**4.**[^c-27a0375853cbb8590a6995c6992abb00] In section 45(5)[^f00007] of the Charities Act 1993(annual reports), for the words from “a copy of any auditors’ report” to the end substitute—
 
 > - (a) where the accounts of the charity for that year have been audited under that Part of that Act, a copy of the report made by the auditor on those accounts;
 > - (b) where the accounts of the charity for that year have been audited under section 43 above, a copy of the report made by the auditor on those accounts;
@@ -116,7 +116,7 @@ Accordingly the Minister for the Cabinet Office makes the following Order:
 
 .
 
-**5.**[^key-dcc27c6d3729572249390eac5452451a] In section 47(3)(c)[^f00008]of the Charities Act 1993 (public inspection of annual reports etc.)—
+**5.**[^c-dcc27c6d3729572249390eac5452451a] In section 47(3)(c)[^f00008]of the Charities Act 1993 (public inspection of annual reports etc.)—
 
 - (a) for sub-paragraph (ii) substitute—
 
@@ -125,9 +125,9 @@ Accordingly the Minister for the Cabinet Office makes the following Order:
   ; and
 - (b) in sub-paragraph (iii) for “by virtue of section 249A(1) of that Act;” substitute “under Part 7 of the Companies Act 1985 and neither section 43(2) nor section 43(3) above applied to them;”.
 
-**6.**[^key-9dcddafd686a704381cdc655a9bf538b] In section 68A(1)[^f00009] of the Charities Act 1993 (duty of charity’s auditors etc. to report matters to Commission), for the words from “acting as” to “as they apply” substitute “acting as an auditor of a charitable company appointed under Chapter 2 of Part 16 of the Companies Act 2006 (appointment of auditors) as they apply”.
+**6.**[^c-9dcddafd686a704381cdc655a9bf538b] In section 68A(1)[^f00009] of the Charities Act 1993 (duty of charity’s auditors etc. to report matters to Commission), for the words from “acting as” to “as they apply” substitute “acting as an auditor of a charitable company appointed under Chapter 2 of Part 16 of the Companies Act 2006 (appointment of auditors) as they apply”.
 
-**7.**[^key-d5c0aefa39b926bb02ed7e1563d3537a] (1) Section 69 of the Charities Act 1993[^f00010] (investigation of accounts) is amended as follows.
+**7.**[^c-d5c0aefa39b926bb02ed7e1563d3537a] (1) Section 69 of the Charities Act 1993[^f00010] (investigation of accounts) is amended as follows.
 
 (2) In subsection (1) before “accounts of the charity” insert “relevant”.
 
@@ -137,7 +137,7 @@ Accordingly the Minister for the Cabinet Office makes the following Order:
 
 .
 
-**8.**[^key-0314a4ca9f3495a1163f2400638d1df3] (1) Schedule 5A[^f00011] to the Charities Act 1993 (group accounts) is amended as follows.
+**8.**[^c-0314a4ca9f3495a1163f2400638d1df3] (1) Schedule 5A[^f00011] to the Charities Act 1993 (group accounts) is amended as follows.
 
 (2) In paragraph 1 (interpretation) for sub-paragraph (2) substitute—
 
@@ -240,11 +240,11 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00001]: Footnote: [2006 c. 50](https://www.legislation.gov.uk/ukpga/2006/50); section 78(6) defines “the Minister” for the purposes of the Act; section 74(7) defines “relevant Minister” for the purposes of section 74.
 
-[^key-6f8f658a2d12d82d9a93329f50581801]: Commencement: Art. 1 in force at 28.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/527/article/1/2)
+[^c-6f8f658a2d12d82d9a93329f50581801]: Commencement: Art. 1 in force at 28.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/527/article/1/2)
 
 [^f00002]: Footnote: [1993 c.10](https://www.legislation.gov.uk/ukpga/1993/10); section 43 was amended by the Deregulation and Contracting Out Act [1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), section 28, the Charities Act 1993 (Substitution of Sums) Order 1995 ([S.I. 1995/2696](https://www.legislation.gov.uk/uksi/1995/2696)), the Regulatory Reform (National Health Service Charitable and Non-Charitable Trust Accounts and Audit) Order 2005 ([S.I. 2005/1074](https://www.legislation.gov.uk/uksi/2005/1074)) and the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), section 28 and Schedule 8, paragraph 134. Section 44 was amended by the Charities Act 2006, Schedule 8, paragraph 137. Section 45 was amended by the Deregulation and Contracting Out Act 1994, section 29, the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)), the Regulatory Reform (National Health Service Charitable and Non-charitable Trust Accounts and Audit) Order 2005 and the Charities Act 2006, Schedule 7 and Schedule 8, paragraph 138. The amendments made to section 45 by Schedule 7 to the Charities Act 2006 are not yet in force. The functions exercisable by the Secretary of State under sections 43 to 45 of the Charities Act 1993 were transferred to the Minister for the Cabinet Office by the Transfer of Functions (Third Sector, Communities and Equality) Order 2006 ([S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951)). Section 47 was amended by the Deregulation and Contracting Out Act 1994, Schedule 11, paragraph 12, and Schedule 17, the Companies Act 1985 (Audit Exemption) Regulations 1994 and the Charities Act 2006, Schedule 8, paragraphs 96 and 140. Section 68A was inserted by the Charities Act 2006, section 33 and amended by the Companies Act 2006 (Commencement No.3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194)). Section 69 was amended by the Charities Act 2006, Schedule 8, paragraph 154. Schedule 5A was inserted by the Charities Act 2006, Schedule 6. There are other amendments to the Charities Act 1993 not relevant to this Order.
 
-[^key-74ea75bff345219561932dc7820af019]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-74ea75bff345219561932dc7820af019]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00003]: Footnote: Section 43(2)(a) was substituted by the Charities Act 2006, section 28(3).
 
@@ -252,26 +252,26 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00005]: Footnote: Section 43(8) was substituted by the Charities Act 2006, section 28(6).
 
-[^key-1227c8dfeb33c7207d4eb6c115db152a]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-1227c8dfeb33c7207d4eb6c115db152a]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00006]: Footnote: Section 44(1)(b) was amended by the Charities Act 2006, Schedule 8, paragraph 137.
 
-[^key-27a0375853cbb8590a6995c6992abb00]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-27a0375853cbb8590a6995c6992abb00]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00007]: Footnote: Section 45(5) was amended by the Deregulation and Contracting Out Act [1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), section 29, the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)) and the Charities Act 2006, Schedule 8, paragraph 138.
 
-[^key-dcc27c6d3729572249390eac5452451a]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-dcc27c6d3729572249390eac5452451a]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00008]: Footnote: Section 47(3)(c) was substituted by the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)).
 
-[^key-9dcddafd686a704381cdc655a9bf538b]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-9dcddafd686a704381cdc655a9bf538b]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00009]: Footnote: Section 68A was inserted by the Charities Act 2006, section 33. Section 68A was amended by the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194)).
 
-[^key-d5c0aefa39b926bb02ed7e1563d3537a]: Commencement: Art. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-d5c0aefa39b926bb02ed7e1563d3537a]: Commencement: Art. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00010]: Footnote: Section 69 was amended by the Charities Act 2006, Schedule 8, paragraph 154.
 
-[^key-0314a4ca9f3495a1163f2400638d1df3]: Commencement: Art. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+[^c-0314a4ca9f3495a1163f2400638d1df3]: Commencement: Art. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
 
 [^f00011]: Footnote: Schedule 5A was inserted by the Charities Act 2006, Schedule 6.

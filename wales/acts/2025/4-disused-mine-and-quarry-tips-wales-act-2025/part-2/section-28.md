@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Meaning of “notifiable change”[^key-265bea05622062ab1e179624bdf72872]
+## 28. Meaning of “notifiable change”[^c-265bea05622062ab1e179624bdf72872]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Chapter, “**notifiable change**” means—
 
 ## Annotations
 
-[^key-265bea05622062ab1e179624bdf72872]: Commencement: S. 28 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-265bea05622062ab1e179624bdf72872]: Commencement: S. 28 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

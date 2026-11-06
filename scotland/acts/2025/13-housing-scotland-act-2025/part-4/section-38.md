@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Applications for registration[^key-7e6240a1d3a15b98aab1254073162817][^key-8f2862834a9e83046ef14e2a8799c3a9]
+## 38. Applications for registration[^c-7e6240a1d3a15b98aab1254073162817][^c-8f2862834a9e83046ef14e2a8799c3a9]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e6240a1d3a15b98aab1254073162817]: Commencement: S. 38 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-7e6240a1d3a15b98aab1254073162817]: Commencement: S. 38 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-8f2862834a9e83046ef14e2a8799c3a9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/13/section/38) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-8f2862834a9e83046ef14e2a8799c3a9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/13/section/38) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

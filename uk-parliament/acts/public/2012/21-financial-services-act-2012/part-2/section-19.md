@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Primary information providers[^key-74e55b7a8b3062ce02ed0766edb3ea8d][^key-a524a643e21addc052ac77447d5bc893]
+## 19. Primary information providers[^c-74e55b7a8b3062ce02ed0766edb3ea8d][^c-a524a643e21addc052ac77447d5bc893]
 
 *Extent: E+W+S+N.I.*
 
@@ -252,6 +252,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74e55b7a8b3062ce02ed0766edb3ea8d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/21/section/19) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-74e55b7a8b3062ce02ed0766edb3ea8d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/21/section/19) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-a524a643e21addc052ac77447d5bc893]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/21/section/19) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-a524a643e21addc052ac77447d5bc893]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/21/section/19) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

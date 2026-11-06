@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Transfer of property, rights and liabilities[^key-772bc4e32fa45ff4332fd1622120ea98]
+## 33. Transfer of property, rights and liabilities[^c-772bc4e32fa45ff4332fd1622120ea98]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-772bc4e32fa45ff4332fd1622120ea98]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/1035/regulation/33) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-772bc4e32fa45ff4332fd1622120ea98]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/1035/regulation/33) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

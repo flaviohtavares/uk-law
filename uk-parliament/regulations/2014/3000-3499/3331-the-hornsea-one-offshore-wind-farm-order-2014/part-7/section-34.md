@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Transfer of benefit of Order[^key-3bff93bd0acdde7a1a2d77fbc6433541]
+## 34. Transfer of benefit of Order[^c-3bff93bd0acdde7a1a2d77fbc6433541]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bff93bd0acdde7a1a2d77fbc6433541]: Commencement: Art. 34 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-3bff93bd0acdde7a1a2d77fbc6433541]: Commencement: Art. 34 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

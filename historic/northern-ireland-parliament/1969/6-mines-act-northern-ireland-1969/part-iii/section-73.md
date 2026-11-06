@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Means of escape from rooms in which there is special risk of fire, &c.[^key-67bdbe31118877a27b9b8532d5f4cfa8]
+## 73. Means of escape from rooms in which there is special risk of fire, &c.[^c-67bdbe31118877a27b9b8532d5f4cfa8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67bdbe31118877a27b9b8532d5f4cfa8]: Textual amendment: [Ss. 73-77](https://www.legislation.gov.uk/apni/1969/6/section/73) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-67bdbe31118877a27b9b8532d5f4cfa8]: Textual amendment: [Ss. 73-77](https://www.legislation.gov.uk/apni/1969/6/section/73) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

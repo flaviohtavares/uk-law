@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R8A. Former members of the NBSBPS[^key-daf3080c53ed791f9e38e49f6f697772]
+## R8A. Former members of the NBSBPS[^c-daf3080c53ed791f9e38e49f6f697772]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-daf3080c53ed791f9e38e49f6f697772]: Textual amendment: [Reg. R8A](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8A) inserted (1.9.2007) by [The National Health Service Pension Scheme (Amendment) Regulations 2007 (S.I. 2007/2054)](https://www.legislation.gov.uk/uksi/2007/2054), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2054/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2054/regulation/2/4)
+[^c-daf3080c53ed791f9e38e49f6f697772]: Textual amendment: [Reg. R8A](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8A) inserted (1.9.2007) by [The National Health Service Pension Scheme (Amendment) Regulations 2007 (S.I. 2007/2054)](https://www.legislation.gov.uk/uksi/2007/2054), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2054/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2054/regulation/2/4)
 
 [^M_F_e4827fe2-ce56-4109-e49d-c078868db4c5]: Textual amendment: Words in reg. R8A(1)(2)(3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Annual rate of full retirement pension[^key-e3b91dcc8cff1d8bf328cb8b696e719c]
+## 69. Annual rate of full retirement pension[^c-e3b91dcc8cff1d8bf328cb8b696e719c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b91dcc8cff1d8bf328cb8b696e719c]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2014/290/regulation/69) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e3b91dcc8cff1d8bf328cb8b696e719c]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2014/290/regulation/69) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

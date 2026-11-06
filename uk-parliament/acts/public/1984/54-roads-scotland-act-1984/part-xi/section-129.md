@@ -32,7 +32,7 @@ Provided that no person shall, in respect of the same acting be convicted both u
 
 (4) Without prejudice to subsection (2) above, a person who, in a road, pitches a tent or encamps commits an offence.
 
-(5)[^key-5b64a0c5ab04eb20c112c8bb44c1fd2d] Subject to section 64 of this Act, a person who, in a footway, footpath or cycle track, as the case may be drives, rides, leads or propels a vehicle or horse, or any swine or cattle, commits an offence:
+(5)[^c-5b64a0c5ab04eb20c112c8bb44c1fd2d] Subject to section 64 of this Act, a person who, in a footway, footpath or cycle track, as the case may be drives, rides, leads or propels a vehicle or horse, or any swine or cattle, commits an offence:
 
 Provided that the foregoing provisions of this subsection do not apply—
 
@@ -43,7 +43,7 @@ Provided that the foregoing provisions of this subsection do not apply—
   - (ii) an invalid carriage whose motive power is provided solely by its rider or some other person, or by an electric motor, or by a combination of these sources; or
 - (d) where there is a specific right so to drive, ride, lead or propel.
 
-(6)[^c1610870][^key-5b64a0c5ab04eb20c112c8bb44c1fd2d] A person who parks a motor vehicle (“**motor vehicle**” having the same meaning as in the [^c1610871]Road Traffic Act 1972) wholly or partly on a cycle track commits an offence.
+(6)[^c1610870][^c-5b64a0c5ab04eb20c112c8bb44c1fd2d] A person who parks a motor vehicle (“**motor vehicle**” having the same meaning as in the [^c1610871]Road Traffic Act 1972) wholly or partly on a cycle track commits an offence.
 
 (7) A person who in a road rides or drives furiously, recklessly or carelessly a horse or other animal (whether or not that horse or animal is attached to a cart or carriage) commits an offence.
 
@@ -74,7 +74,7 @@ a person who without reasonable excuse takes away, or displaces, the materials, 
 
 ## Annotations
 
-[^key-5b64a0c5ab04eb20c112c8bb44c1fd2d]: Modification: S. 129(5)(6) disapplied (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-5b64a0c5ab04eb20c112c8bb44c1fd2d]: Modification: S. 129(5)(6) disapplied (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c1610870]: Modification: S. 129(6) excluded (temp.) (16.6.1997) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [ss. 43](https://www.legislation.gov.uk/ukpga/1991/40/section/43), [84(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/84/1), [Sch. 3 para. 2(4)(c)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/3/paragraph/2/4/c); [S.I. 1997/1580](https://www.legislation.gov.uk/uksi/1997/1580), [art. 2(b)](https://www.legislation.gov.uk/uksi/1997/1580/article/2/b)
 

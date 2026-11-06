@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43B. Reorganisations of restricted funds: applications by OSCR[^key-c5a217e57b3068025fea86e4f9f98cc0]
+## 43B. Reorganisations of restricted funds: applications by OSCR[^c-c5a217e57b3068025fea86e4f9f98cc0]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ OSCR may, of its own accord or on the application of the charity trustees of the
 
 ## Annotations
 
-[^key-c5a217e57b3068025fea86e4f9f98cc0]: Textual amendment: [Pt. 1 Ch. 5A](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/5A) inserted (1.10.2010 for specified purposes, 1.11.2012 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 125(1)](https://www.legislation.gov.uk/asp/2010/8/section/125/1), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2012/218](https://www.legislation.gov.uk/ssi/2012/218), [art. 2](https://www.legislation.gov.uk/ssi/2012/218/article/2)
+[^c-c5a217e57b3068025fea86e4f9f98cc0]: Textual amendment: [Pt. 1 Ch. 5A](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/5A) inserted (1.10.2010 for specified purposes, 1.11.2012 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 125(1)](https://www.legislation.gov.uk/asp/2010/8/section/125/1), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2012/218](https://www.legislation.gov.uk/ssi/2012/218), [art. 2](https://www.legislation.gov.uk/ssi/2012/218/article/2)

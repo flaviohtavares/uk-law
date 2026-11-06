@@ -22,7 +22,7 @@ summary: ''
 
 Article 83
 
-### PART 1 — ENACTMENTS WITHIN THE 1994 ACT REPEALED WITH IMMEDIATE EFFECT[^key-3524be59f91d5c99dea6c94a6804059b]
+### PART 1 — ENACTMENTS WITHIN THE 1994 ACT REPEALED WITH IMMEDIATE EFFECT[^c-3524be59f91d5c99dea6c94a6804059b]
 
 | Enactments Repealed |
 | --- |
@@ -54,7 +54,7 @@ Article 83
 | Schedule 4 |
 | Schedule 6 |
 
-### PART 2 — ENACTMENTS WITHIN THE 1994 ACT REPEALED WHEN LINE ONE IS FIRST OPERATED PURSUANT TO AN AGREEMENT MADE UNDER ARTICLE 55[^key-393f4e4c78a17d6419ba5317a5dc5588]
+### PART 2 — ENACTMENTS WITHIN THE 1994 ACT REPEALED WHEN LINE ONE IS FIRST OPERATED PURSUANT TO AN AGREEMENT MADE UNDER ARTICLE 55[^c-393f4e4c78a17d6419ba5317a5dc5588]
 
 #### Enactments Repealed
 
@@ -88,7 +88,7 @@ Article 83
 | Schedule 1 |
 | Schedule 3 |
 
-### PART 3 — ENACTMENTS WITHIN THE 1994 ACT REPEALED WHEN ALL LAND OCCUPIED PURSUANT TO POWERS OF COMPULSORY ACQUISITION GRANTED BY THE 1994 ACT HAS BEEN COMPULSORILY ACQUIRED BY THE PROMOTER[^key-e593effe1b415cd74e5b177bfbac94be]
+### PART 3 — ENACTMENTS WITHIN THE 1994 ACT REPEALED WHEN ALL LAND OCCUPIED PURSUANT TO POWERS OF COMPULSORY ACQUISITION GRANTED BY THE 1994 ACT HAS BEEN COMPULSORILY ACQUIRED BY THE PROMOTER[^c-e593effe1b415cd74e5b177bfbac94be]
 
 ***Enactments Repealed***
 
@@ -104,8 +104,8 @@ Article 83
 
 ## Annotations
 
-[^key-3524be59f91d5c99dea6c94a6804059b]: Commencement: Sch. 15 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-3524be59f91d5c99dea6c94a6804059b]: Commencement: Sch. 15 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-393f4e4c78a17d6419ba5317a5dc5588]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/uksi/2009/1300/schedule/15/part/2) in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-393f4e4c78a17d6419ba5317a5dc5588]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/uksi/2009/1300/schedule/15/part/2) in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-e593effe1b415cd74e5b177bfbac94be]: Commencement: Sch. 15 Pt. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e593effe1b415cd74e5b177bfbac94be]: Commencement: Sch. 15 Pt. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

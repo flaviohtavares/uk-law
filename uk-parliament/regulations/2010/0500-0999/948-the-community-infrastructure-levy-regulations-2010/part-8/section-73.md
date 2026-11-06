@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Payment in kind[^key-d1cf85a85f6a97c0c834f9d62f0b2f94]
+## 73. Payment in kind[^c-d1cf85a85f6a97c0c834f9d62f0b2f94]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6) A charging authority may not accept a land payment unless—
 
-- (a)[^key-62ee1df1792b9240b169d4baf5c910d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-62ee1df1792b9240b169d4baf5c910d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the acquired land is acquired by the charging authority or a person nominated by the charging authority (with that person’s agreement);
 - (c) the person from whom the land will be acquired has assumed liability to pay CIL in respect of the chargeable development; and
 - (d) an agreement to make the land payment is entered into before the chargeable development is commenced.
@@ -82,6 +82,6 @@ the value of the acquired land as stated in the agreement entered into in accord
 
 ## Annotations
 
-[^key-d1cf85a85f6a97c0c834f9d62f0b2f94]: Commencement: Reg. 73 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-d1cf85a85f6a97c0c834f9d62f0b2f94]: Commencement: Reg. 73 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-62ee1df1792b9240b169d4baf5c910d6]: Textual amendment: [Reg. 73(6)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/73/6/a) omitted (6.4.2011) by virtue of [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(12)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/12)
+[^c-62ee1df1792b9240b169d4baf5c910d6]: Textual amendment: [Reg. 73(6)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/73/6/a) omitted (6.4.2011) by virtue of [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(12)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/12)

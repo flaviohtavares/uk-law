@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Other distributions by investment companies[^key-a0e9937ce7f40329c502cb4fc8b50af1]
+## 17. Other distributions by investment companies[^c-a0e9937ce7f40329c502cb4fc8b50af1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0e9937ce7f40329c502cb4fc8b50af1]: Commencement: Art. 17 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a0e9937ce7f40329c502cb4fc8b50af1]: Commencement: Art. 17 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00022]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16, paragraph 19.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Indemnity in respect of loss[^key-1bcbe08911a87691cb650fa0472fd304]
+## 18. Indemnity in respect of loss[^c-1bcbe08911a87691cb650fa0472fd304]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ is to be indemnified by the Commission in respect of that loss.
 
 ## Annotations
 
-[^key-1bcbe08911a87691cb650fa0472fd304]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/14/section/18) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-1bcbe08911a87691cb650fa0472fd304]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/14/section/18) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

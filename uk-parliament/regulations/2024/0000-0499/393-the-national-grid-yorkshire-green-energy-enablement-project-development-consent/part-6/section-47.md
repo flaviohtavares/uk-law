@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Protection of interests[^key-87d38a4733a849e2d5b374117f771f95]
+## 47. Protection of interests[^c-87d38a4733a849e2d5b374117f771f95]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 15 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-87d38a4733a849e2d5b374117f771f95]: Commencement: Art. 47 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-87d38a4733a849e2d5b374117f771f95]: Commencement: Art. 47 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

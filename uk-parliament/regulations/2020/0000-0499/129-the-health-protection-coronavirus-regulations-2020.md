@@ -44,7 +44,7 @@ at 2.30 p.m. on 10th February 2020
 
 Coming into force in accordance with article 1(1)
 
-[^key-c3f2165044da16b535bcb33a8d3c260f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3f2165044da16b535bcb33a8d3c260f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -112,12 +112,12 @@ Coming into force in accordance with article 1(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3f2165044da16b535bcb33a8d3c260f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3f2165044da16b535bcb33a8d3c260f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3f2165044da16b535bcb33a8d3c260f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3f2165044da16b535bcb33a8d3c260f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3f2165044da16b535bcb33a8d3c260f]: Textual amendment: Regulations revoked and superseded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 21 para. 24](https://www.legislation.gov.uk/ukpga/2020/7/schedule/21/paragraph/24)
+[^c-c3f2165044da16b535bcb33a8d3c260f]: Textual amendment: Regulations revoked and superseded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 21 para. 24](https://www.legislation.gov.uk/ukpga/2020/7/schedule/21/paragraph/24)

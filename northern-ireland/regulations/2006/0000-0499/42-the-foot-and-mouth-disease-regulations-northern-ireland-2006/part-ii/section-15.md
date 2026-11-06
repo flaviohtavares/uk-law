@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Declaration of a temporary control zone[^key-5c87b61ca21de21a4be38990272dca5b]
+## 15. Declaration of a temporary control zone[^c-5c87b61ca21de21a4be38990272dca5b]
 
 *Extent: N.I.*
 
-(1) On the declaration of any suspect premises the Department shall also declare an area around those premises of such size as it considers fit to prevent the spread of disease to be a a temporary control zone[^key-0e9ee9d6f19be4576f38a9fa4bb92e6d] .
+(1) On the declaration of any suspect premises the Department shall also declare an area around those premises of such size as it considers fit to prevent the spread of disease to be a a temporary control zone[^c-0e9ee9d6f19be4576f38a9fa4bb92e6d] .
 
 (2) If the Department is satisfied that an animal or carcase in the Republic of Ireland is suspected of being infected or contaminated, it may declare a temporary control zone in such part of Northern Ireland and of such size as it considers fit to prevent the spread of disease.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c87b61ca21de21a4be38990272dca5b]: Commencement: Reg. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-5c87b61ca21de21a4be38990272dca5b]: Commencement: Reg. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-0e9ee9d6f19be4576f38a9fa4bb92e6d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2006/42/regulation/15/1) substituted (1.7.2014) by [The Foot and Mouth Disease (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/151)](https://www.legislation.gov.uk/nisr/2014/151), [regs. 1](https://www.legislation.gov.uk/nisr/2014/151/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2014/151/regulation/3/a)
+[^c-0e9ee9d6f19be4576f38a9fa4bb92e6d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2006/42/regulation/15/1) substituted (1.7.2014) by [The Foot and Mouth Disease (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/151)](https://www.legislation.gov.uk/nisr/2014/151), [regs. 1](https://www.legislation.gov.uk/nisr/2014/151/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2014/151/regulation/3/a)

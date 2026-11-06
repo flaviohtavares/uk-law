@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Repeal of AIDS (Control) Act 1987[^key-2ffa682435012d4b22f7f041246bbfcc]
+## 59. Repeal of AIDS (Control) Act 1987[^c-2ffa682435012d4b22f7f041246bbfcc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ffa682435012d4b22f7f041246bbfcc]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2012/7/section/59) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-2ffa682435012d4b22f7f041246bbfcc]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2012/7/section/59) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

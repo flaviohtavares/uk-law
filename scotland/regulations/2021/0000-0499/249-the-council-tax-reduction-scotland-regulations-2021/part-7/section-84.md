@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Relationship between council tax reduction and extended council tax reduction[^key-cf81c8b6bbfc3f10dd5eee5285934c38]
+## 84. Relationship between council tax reduction and extended council tax reduction[^c-cf81c8b6bbfc3f10dd5eee5285934c38]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf81c8b6bbfc3f10dd5eee5285934c38]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2021/249/regulation/84) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-cf81c8b6bbfc3f10dd5eee5285934c38]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2021/249/regulation/84) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

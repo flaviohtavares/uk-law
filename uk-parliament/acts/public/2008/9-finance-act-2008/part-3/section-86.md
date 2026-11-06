@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Qualifying enterprise zone expenditure: transitional provision[^key-b7957e25489d8f80e496e7f01fe1701f]
+## 86. Qualifying enterprise zone expenditure: transitional provision[^c-b7957e25489d8f80e496e7f01fe1701f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7957e25489d8f80e496e7f01fe1701f]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/2008/9/section/86) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 29(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/29/b)
+[^c-b7957e25489d8f80e496e7f01fe1701f]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/2008/9/section/86) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 29(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/29/b)

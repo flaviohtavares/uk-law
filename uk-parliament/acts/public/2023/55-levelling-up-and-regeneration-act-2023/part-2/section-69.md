@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Combined authorities and combined county authorities: power to borrow[^key-05d75991400098453ccea08a33aaddd3]
+## 69. Combined authorities and combined county authorities: power to borrow[^c-05d75991400098453ccea08a33aaddd3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 23 of the Local Government Act 2003 (meaning of “**local authority*
 
 ## Annotations
 
-[^key-05d75991400098453ccea08a33aaddd3]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/55/section/69) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)
+[^c-05d75991400098453ccea08a33aaddd3]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/55/section/69) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)

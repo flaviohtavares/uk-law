@@ -860,7 +860,7 @@ This is subject to paragraphs 15 and 16.
 (4) The relevant tax years are—
 
 - (a) the tax year 2017-18, and
-- (b) if the disposal was made after that tax year, all subsequent tax years up to and including the tax year 2024-25[^key-083540073a5de1e29e91702f2f029534].
+- (b) if the disposal was made after that tax year, all subsequent tax years up to and including the tax year 2024-25[^c-083540073a5de1e29e91702f2f029534].
 
 (5) In computing, for the purpose of TCGA 1992, the gain or loss accruing on the disposal, it is to be assumed that P acquired the asset on 5 April 2017 for a consideration equal to its market value on that date.
 
@@ -981,4 +981,4 @@ This is subject to paragraphs 15 and 16.
 
 ## Annotations
 
-[^key-083540073a5de1e29e91702f2f029534]: Textual amendment: Words in Sch. 8 para. 41(4)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/11/paragraph/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/11/paragraph/4/2)
+[^c-083540073a5de1e29e91702f2f029534]: Textual amendment: Words in Sch. 8 para. 41(4)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/11/paragraph/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/11/paragraph/4/2)

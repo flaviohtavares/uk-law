@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Authority to survey and investigate the land onshore[^key-da0df621b4f65e05968eae2a9e5c188b]
+## 14. Authority to survey and investigate the land onshore[^c-da0df621b4f65e05968eae2a9e5c188b]
 
 *Extent: E+W+S*
 
@@ -57,6 +57,6 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-da0df621b4f65e05968eae2a9e5c188b]: Commencement: Art. 14 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-da0df621b4f65e05968eae2a9e5c188b]: Commencement: Art. 14 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
 [^f00025]: Footnote: As defined in Part 3 of Schedule 8 (Protection for Network Rail Infrastructure Limited).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Article 10 of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549)[^key-bafe9451ddbcd14821b980ee7f5ee7ca]
+## 12. Article 10 of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549)[^c-bafe9451ddbcd14821b980ee7f5ee7ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 10 (consultation of stakeholders).
 
 ## Annotations
 
-[^key-bafe9451ddbcd14821b980ee7f5ee7ca]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-bafe9451ddbcd14821b980ee7f5ee7ca]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

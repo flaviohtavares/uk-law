@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Meaning of “high voltage line”[^key-e3fbf9874d0e06ac672993772902d700]
+## 180. Meaning of “high voltage line”[^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S*
 
-(1)[^key-b600a6d6c37362f4c62ef152e3cd08b0][^key-dc06ccaeafd1e0f35644411724d92fc6] In subsection (1) of section 64 of the 1989 Act (interpretation of Part 1), for the definitions of “high voltage line” and “low voltage line” substitute—
+(1)[^c-b600a6d6c37362f4c62ef152e3cd08b0][^c-dc06ccaeafd1e0f35644411724d92fc6] In subsection (1) of section 64 of the 1989 Act (interpretation of Part 1), for the definitions of “high voltage line” and “low voltage line” substitute—
 
 > “**high voltage line**” means an electric line which—
 >
@@ -31,14 +31,14 @@ summary: ''
 
 .
 
-(2)[^key-0bf79ee3dcba1e7f119448b8a9a2ce15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0bf79ee3dcba1e7f119448b8a9a2ce15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
-[^key-b600a6d6c37362f4c62ef152e3cd08b0]: Commencement: S. 180(1) in force at 29.7.2010 for specified purposes by [S.I. 2010/1889](https://www.legislation.gov.uk/uksi/2010/1889), [art. 2](https://www.legislation.gov.uk/uksi/2010/1889/article/2)
+[^c-b600a6d6c37362f4c62ef152e3cd08b0]: Commencement: S. 180(1) in force at 29.7.2010 for specified purposes by [S.I. 2010/1889](https://www.legislation.gov.uk/uksi/2010/1889), [art. 2](https://www.legislation.gov.uk/uksi/2010/1889/article/2)
 
-[^key-dc06ccaeafd1e0f35644411724d92fc6]: Commencement: S. 180(1) in force at 10.6.2014 in so far as not already in force by [S.I. 2014/1460](https://www.legislation.gov.uk/uksi/2014/1460), [art. 2](https://www.legislation.gov.uk/uksi/2014/1460/article/2)
+[^c-dc06ccaeafd1e0f35644411724d92fc6]: Commencement: S. 180(1) in force at 10.6.2014 in so far as not already in force by [S.I. 2014/1460](https://www.legislation.gov.uk/uksi/2014/1460), [art. 2](https://www.legislation.gov.uk/uksi/2014/1460/article/2)
 
-[^key-0bf79ee3dcba1e7f119448b8a9a2ce15]: Textual amendment: [S. 180(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/180/2) repealed (10.6.2014) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2014/1461](https://www.legislation.gov.uk/uksi/2014/1461), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1461/article/2/b)
+[^c-0bf79ee3dcba1e7f119448b8a9a2ce15]: Textual amendment: [S. 180(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/180/2) repealed (10.6.2014) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2014/1461](https://www.legislation.gov.uk/uksi/2014/1461), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1461/article/2/b)

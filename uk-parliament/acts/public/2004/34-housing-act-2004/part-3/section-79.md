@@ -32,7 +32,7 @@ summary: ''
   - (i) under a single tenancy or licence that is not an exempt tenancy or licence under subsection (3) or (4), or
   - (ii) under two or more tenancies or licences in respect of different dwellings contained in it, none of which is an exempt tenancy or licence under subsection (3) or (4).
 
-(3) A tenancy or licence is an exempt tenancy or licence if—[^key-94d32b802e0715c2cbfaffb22622d7dc]
+(3) A tenancy or licence is an exempt tenancy or licence if—[^c-94d32b802e0715c2cbfaffb22622d7dc]
 
 - (a) it is granted by a non-profit registered provider of social housing,
 - (b) it is granted by a profit-making registered provider of social housing in respect of social housing (within the meaning of Part 2 of the Housing and Regeneration Act 2008), or
@@ -52,4 +52,4 @@ summary: ''
 
 [^c682042]: Commencement: S. 79 wholly in force at 25.11.2005; s. 79 in force for certain purposes at Royal Assent see s. 270(2)(b); s. 79 in force for E. at 15.6.2005 by [S.I. 2005/1451](https://www.legislation.gov.uk/uksi/2005/1451), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1451/article/3/c); s. 79 in force for W. at 25.11.2005 by [S.I. 2005/3237](https://www.legislation.gov.uk/uksi/2005/3237), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/3237/article/2/d)
 
-[^key-94d32b802e0715c2cbfaffb22622d7dc]: Textual amendment: Words in s. 79(3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/131) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-94d32b802e0715c2cbfaffb22622d7dc]: Textual amendment: Words in s. 79(3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/131) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

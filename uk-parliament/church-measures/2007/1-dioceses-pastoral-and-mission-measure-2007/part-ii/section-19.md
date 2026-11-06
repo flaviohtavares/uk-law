@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Schemes with respect to discharge of functions of diocesan bodies corporate, etc.[^key-ea415f37fb8efbebc6652e4d980ba34f]
+## 19. Schemes with respect to discharge of functions of diocesan bodies corporate, etc.[^c-ea415f37fb8efbebc6652e4d980ba34f]
 
 *Extent: E*
 
-(1) In this and the next following section “**diocesan body**” means any body corporate or unincorporate or committee established for a diocese or any part thereof, other than a diocesan synod or the bishop's council and standing committee of a diocesan synod or a Diocesan Board of Education[^key-e391cc9bbd707ead5a47d9356b1ac804].
+(1) In this and the next following section “**diocesan body**” means any body corporate or unincorporate or committee established for a diocese or any part thereof, other than a diocesan synod or the bishop's council and standing committee of a diocesan synod or a Diocesan Board of Education[^c-e391cc9bbd707ead5a47d9356b1ac804].
 
 (2) A scheme under this section may make provision for one or more of the following purposes—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea415f37fb8efbebc6652e4d980ba34f]: Commencement: S. 19 in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-ea415f37fb8efbebc6652e4d980ba34f]: Commencement: S. 19 in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-e391cc9bbd707ead5a47d9356b1ac804]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukcm/2007/1/section/19/1) inserted (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 4(10)](https://www.legislation.gov.uk/ukcm/2021/1/section/4/10), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
+[^c-e391cc9bbd707ead5a47d9356b1ac804]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukcm/2007/1/section/19/1) inserted (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 4(10)](https://www.legislation.gov.uk/ukcm/2021/1/section/4/10), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))

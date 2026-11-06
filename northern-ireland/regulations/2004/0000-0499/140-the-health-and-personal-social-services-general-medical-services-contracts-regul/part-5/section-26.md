@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Other contractual terms[^key-ee26f23c4fea570e654ec1a0d6c2c1f2]
+## 26. Other contractual terms[^c-ee26f23c4fea570e654ec1a0d6c2c1f2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee26f23c4fea570e654ec1a0d6c2c1f2]: Commencement: Reg. 26 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-ee26f23c4fea570e654ec1a0d6c2c1f2]: Commencement: Reg. 26 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

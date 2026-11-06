@@ -68,7 +68,7 @@ and the provisions of section one of the said Act with regard to the production 
 - (a) shall (unless he is satisfied that compliance with this requirement would be unreasonable in the circumstances of the case) consult such persons as appear to him to be representative of the interests in the area of farmers, owners of agricultural land, and workers employed in agriculture and of the forestry interests, if any, in the area;
 - (b) shall give notice of the proposal to make the order in such a manner as he thinks reasonable for the purpose of informing the persons interested in any land in the area.
 
-(11A)[^key-b757b9cca175bad7598199d8b569e018] The requirement in subsection (11)(a) does not apply to an order which applies only in relation to England.
+(11A)[^c-b757b9cca175bad7598199d8b569e018] The requirement in subsection (11)(a) does not apply to an order which applies only in relation to England.
 
 (12) Any notice under paragraph (*b*) of the last foregoing subsection shall indicate the nature of any directions proposed to be included in the order with regard to the steps to be taken under it, and shall specify a time (not being less than fourteen days) within which persons interested in any land in the area in question may make representations in writing to the Minister with respect to the proposals; and any order made in pursuance of the notice may give effect to the proposals either without modifications or with such modifications as appear to the Minister desirable having regard to any representations made to him.
 
@@ -121,7 +121,7 @@ and at the end of section thirty-nine of the Agriculture (Scotland)Act, 1948, th
 
 *Extent: S*
 
-A council constituted under section 2 of the Local Government[^key-df7a100a22262290334baa48d66faad8] etc. (Scotland) Act 1994 (c. 39) may impose such charges as appear to the council[^key-71cdcc14a98ff6ee1b97b1555c9c65db] to be appropriate for any inspection of a vessel made by an officer of the council for the purposes of any Order in Council under section 23 of the Prevention of Damage by Pests Act 1949.
+A council constituted under section 2 of the Local Government[^c-df7a100a22262290334baa48d66faad8] etc. (Scotland) Act 1994 (c. 39) may impose such charges as appear to the council[^c-71cdcc14a98ff6ee1b97b1555c9c65db] to be appropriate for any inspection of a vessel made by an officer of the council for the purposes of any Order in Council under section 23 of the Prevention of Damage by Pests Act 1949.
 
 ### 7. Expenses and receipts of Ministers.
 
@@ -148,7 +148,7 @@ A council constituted under section 2 of the Local Government[^key-df7a100a22262
 
 (3) In subsection (1) of this section any reference to an approved trap refers to a trap of a type and make for the time being specified by order of the Minister of Agriculture and Fisheries as approved by him either generally or subject to conditions as to the animals for which or the circumstances in which it may be used, and any reference to the animals or circumstances for which a trap is approved shall be construed accordingly.
 
-(3A)[^key-4b02542df0346ebb5f6617e9bd79a08a] An order made under subsection (3) may not specify any type or make of trap as approved if the trap is a leghold trap.
+(3A)[^c-4b02542df0346ebb5f6617e9bd79a08a] An order made under subsection (3) may not specify any type or make of trap as approved if the trap is a leghold trap.
 
 (4) Paragraph (*a*) of subsection (1) of this section shall not render unlawful the experimental use of a spring trap under and in accordance with a licence or authority given by the Minister of Agriculture and Fisheries to enable a trap to be developed or tested with a view to its being approved under the last foregoing subsection.
 
@@ -160,7 +160,7 @@ A council constituted under section 2 of the Local Government[^key-df7a100a22262
 
 (8) The power of the Minister of Agriculture and Fisheries to make orders under this section shall be exercisable by statutory instrument which, in the case of an order made under subsection (5) or varying or revoking an order so made, shall be subject to annulment by resolution of either House of Parliament.
 
-(8A)[^key-4969d52ca17140ce3f1e21147486d04f] In subsection (3A), “leghold trap” means a device designed to restrain or capture an animal by means of jaws which close tightly upon one or more of the animal’s limbs, thereby preventing withdrawal of the limb or limbs from the trap.
+(8A)[^c-4969d52ca17140ce3f1e21147486d04f] In subsection (3A), “leghold trap” means a device designed to restrain or capture an animal by means of jaws which close tightly upon one or more of the animal’s limbs, thereby preventing withdrawal of the limb or limbs from the trap.
 
 (9) This section applies to England and Wales, but not to Scotland.
 
@@ -268,7 +268,7 @@ Nothing in this Act extends to Northern Ireland.
 
 [^c6197261]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
-[^key-b757b9cca175bad7598199d8b569e018]: Textual amendment: S. 1(11A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/2)
+[^c-b757b9cca175bad7598199d8b569e018]: Textual amendment: S. 1(11A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/2)
 
 [^c6197271]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
@@ -302,9 +302,9 @@ Nothing in this Act extends to Northern Ireland.
 
 [^c22546541]: Textual amendment: S. 6 substituted (S.) by [Local Government Act 1975 (c. 30, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1975/30), [s. 38(1)](https://www.legislation.gov.uk/ukpga/1975/30/section/38/1), [Sch. 6 Pt. II para. 19](https://www.legislation.gov.uk/ukpga/1975/30/schedule/6/part/II/paragraph/19)
 
-[^key-df7a100a22262290334baa48d66faad8]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/4/a) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-df7a100a22262290334baa48d66faad8]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/4/a) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
-[^key-71cdcc14a98ff6ee1b97b1555c9c65db]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/4/b) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-71cdcc14a98ff6ee1b97b1555c9c65db]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/4/b) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
 [^c6197441]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
@@ -314,13 +314,13 @@ Nothing in this Act extends to Northern Ireland.
 
 [^c6197471]: Textual amendment: Words substituted by virtue of [Criminal Law Act 1977 (c. 45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1977/45), [s. 31](https://www.legislation.gov.uk/ukpga/1977/45/section/31), [Sch. 6](https://www.legislation.gov.uk/ukpga/1977/45/schedule/6) and [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-4b02542df0346ebb5f6617e9bd79a08a]: Textual amendment: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/8/3A) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/22/regulation/7/a)
+[^c-4b02542df0346ebb5f6617e9bd79a08a]: Textual amendment: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/8/3A) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/22/regulation/7/a)
 
 [^c6197491]: Textual amendment: S. 8(6) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
 [^c6197501]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
-[^key-4969d52ca17140ce3f1e21147486d04f]: Textual amendment: [S. 8(8A)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/8/8A) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/22/regulation/7/b)
+[^c-4969d52ca17140ce3f1e21147486d04f]: Textual amendment: [S. 8(8A)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/68/section/8/8A) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/22/regulation/7/b)
 
 [^c6197511]: Textual amendment: Words substituted by virtue of [Criminal Law Act 1977 (c. 45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1977/45), [s. 31](https://www.legislation.gov.uk/ukpga/1977/45/section/31), [Sch. 6](https://www.legislation.gov.uk/ukpga/1977/45/schedule/6) and [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 

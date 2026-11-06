@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Inspection of minutes and other documents after meetings[^key-c97bf8ea8d0e49c5e38702610db6b8a2]
+## 44. Inspection of minutes and other documents after meetings[^c-c97bf8ea8d0e49c5e38702610db6b8a2]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c97bf8ea8d0e49c5e38702610db6b8a2]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2014/8/section/44) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-c97bf8ea8d0e49c5e38702610db6b8a2]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2014/8/section/44) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

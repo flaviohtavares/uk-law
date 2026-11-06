@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Local land charge[^key-a9a67d279b03669c346d33e2bf0cbd71]
+## 100. Local land charge[^c-a9a67d279b03669c346d33e2bf0cbd71]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If land is included in a local authority's list of assets of community value—
 
 ## Annotations
 
-[^key-a9a67d279b03669c346d33e2bf0cbd71]: Commencement: S. 100 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-a9a67d279b03669c346d33e2bf0cbd71]: Commencement: S. 100 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

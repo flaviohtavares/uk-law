@@ -30,47 +30,47 @@ Budget (No. 2) Act (Northern Ireland) 2010 (repealed)
 
 2010 CHAPTER 8
 
-[^key-fed962b694ad16a18f76a462910f1760]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed962b694ad16a18f76a462910f1760]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Application of this Act[^key-fed962b694ad16a18f76a462910f1760]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Issue of sum out of the Consolidated Fund for the year ending 31st March 2011 and appropriation of that sum[^key-fed962b694ad16a18f76a462910f1760]
+## 1. Application of this Act[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources in year ending 31st March 2011[^key-fed962b694ad16a18f76a462910f1760]
+## 2. Issue of sum out of the Consolidated Fund for the year ending 31st March 2011 and appropriation of that sum[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Limit on use of accruing resources in year ending 31st March 2011[^key-fed962b694ad16a18f76a462910f1760]
+## 3. Use of resources in year ending 31st March 2011[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interpretation[^key-fed962b694ad16a18f76a462910f1760]
+## 4. Limit on use of accruing resources in year ending 31st March 2011[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title[^key-fed962b694ad16a18f76a462910f1760]
+## 5. Interpretation[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fed962b694ad16a18f76a462910f1760]SCHEDULES
+## 6. Short title[^c-fed962b694ad16a18f76a462910f1760]
 
-## SCHEDULE 1 — SUMS GRANTED FOR YEAR ENDING 31ST MARCH 2011[^key-fed962b694ad16a18f76a462910f1760]
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fed962b694ad16a18f76a462910f1760]SCHEDULES
+
+## SCHEDULE 1 — SUMS GRANTED FOR YEAR ENDING 31ST MARCH 2011[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
@@ -78,7 +78,7 @@ Section 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — AMOUNTS OF RESOURCES AUTHORISED FOR USE AND AMOUNTS OF ACCRUING RESOURCES WHICH MAY BE USED IN YEAR ENDING 31ST MARCH 2011[^key-fed962b694ad16a18f76a462910f1760]
+## SCHEDULE 2 — AMOUNTS OF RESOURCES AUTHORISED FOR USE AND AMOUNTS OF ACCRUING RESOURCES WHICH MAY BE USED IN YEAR ENDING 31ST MARCH 2011[^c-fed962b694ad16a18f76a462910f1760]
 
 **No longer in force.**
 
@@ -88,4 +88,4 @@ Sections 4 and 5.
 
 ## Annotations
 
-[^key-fed962b694ad16a18f76a462910f1760]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2010/8) repealed (18.7.2013) by [Budget (No. 2) Act (Northern Ireland) 2013 (c. 9)](https://www.legislation.gov.uk/nia/2013/9), [s. 5](https://www.legislation.gov.uk/nia/2013/9/section/5), [Sch. 3](https://www.legislation.gov.uk/nia/2013/9/schedule/3)
+[^c-fed962b694ad16a18f76a462910f1760]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2010/8) repealed (18.7.2013) by [Budget (No. 2) Act (Northern Ireland) 2013 (c. 9)](https://www.legislation.gov.uk/nia/2013/9), [s. 5](https://www.legislation.gov.uk/nia/2013/9/section/5), [Sch. 3](https://www.legislation.gov.uk/nia/2013/9/schedule/3)

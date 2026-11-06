@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Community land auction arrangements and their purpose[^key-60caed462ab67cc7022353b88ea3e1b4]
+## 141. Community land auction arrangements and their purpose[^c-60caed462ab67cc7022353b88ea3e1b4]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ can be funded (wholly or partly) by owners or developers of land.
 
 ## Annotations
 
-[^key-60caed462ab67cc7022353b88ea3e1b4]: Commencement: S. 141 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-60caed462ab67cc7022353b88ea3e1b4]: Commencement: S. 141 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

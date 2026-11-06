@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Estimate of quantum[^key-e108bf5180462ae6e5c23130c49a6c95]
+## 51. Estimate of quantum[^c-e108bf5180462ae6e5c23130c49a6c95]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e108bf5180462ae6e5c23130c49a6c95]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2013/3208/rule/51) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e108bf5180462ae6e5c23130c49a6c95]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2013/3208/rule/51) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

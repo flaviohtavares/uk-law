@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Section 391D (publication: special provisions relating to the markets in financial instruments directive)[^key-8e2df4bda0ebfa8671d98bb62f52a52c]
+## 78. Section 391D (publication: special provisions relating to the markets in financial instruments directive)[^c-8e2df4bda0ebfa8671d98bb62f52a52c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8e2df4bda0ebfa8671d98bb62f52a52c]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8e2df4bda0ebfa8671d98bb62f52a52c]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658281]: Marginal citation: Section 391D was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and amended by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625).
 

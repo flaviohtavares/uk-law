@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Public participation strategy: consultation and review[^key-fe446fd4b414fda3cde62025ef7151a7]
+## 41. Public participation strategy: consultation and review[^c-fe446fd4b414fda3cde62025ef7151a7]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe446fd4b414fda3cde62025ef7151a7]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/1/section/41) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(d)](https://www.legislation.gov.uk/wsi/2021/231/article/6/d)
+[^c-fe446fd4b414fda3cde62025ef7151a7]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/1/section/41) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(d)](https://www.legislation.gov.uk/wsi/2021/231/article/6/d)

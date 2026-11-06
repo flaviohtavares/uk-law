@@ -50,7 +50,7 @@ Section 135.
 - “**transferee**”—
   - (a) in relation to a transfer scheme, means a person to whom property, rights or liabilities are transferred in accordance with the transfer scheme; and
   - (b) in relation to a relevant transfer, means the person to whom the property, rights or liabilities in question are transferred in accordance with the transfer scheme in question;
-- “**wholly-owned subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^key-26a9fcbff5fcb09096e2ad4dbdb7cae1] .
+- “**wholly-owned subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^c-26a9fcbff5fcb09096e2ad4dbdb7cae1] .
 
 (2) In any provision of this Schedule “**the prescribed amount**”, in relation to any transferee under a transfer scheme, means such amount as may be specified by the Secretary of State by order for the purposes of that provision in its application to that transferee.
 
@@ -72,7 +72,7 @@ to be effected for a consideration such that no gain or loss accrues to the pers
 
 ### Chargeable gains: amendment of section 35(3)(d) of the Gains Act
 
-**3.**[^key-85d309bf7fc6074c174c3ccac08b46cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-85d309bf7fc6074c174c3ccac08b46cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chargeable gains: section 41 of the Gains Act
 
@@ -208,7 +208,7 @@ sub-paragraph (3) shall apply.
 - (b) the BBC disposes of any securities of the successor company for a consideration in money or money’s worth; and
 - (c) those securities are securities issued to or for the BBC in consideration for the preparatory transfer.
 
-(2) Where this paragraph applies, any debits or credits which, by reason of the disposal mentioned in sub-paragraph (1)(b), would, apart from this sub-paragraph, be given by Part 5 of the Corporation Tax Act 2009[^key-9a7c009da304ceceb6a1db104020e37f] in respect of a loan relationship for an accounting period of the BBC shall not be brought into account for the purposes of that Chapter as respects the BBC.
+(2) Where this paragraph applies, any debits or credits which, by reason of the disposal mentioned in sub-paragraph (1)(b), would, apart from this sub-paragraph, be given by Part 5 of the Corporation Tax Act 2009[^c-9a7c009da304ceceb6a1db104020e37f] in respect of a loan relationship for an accounting period of the BBC shall not be brought into account for the purposes of that Chapter as respects the BBC.
 
 ### Transfer of trade: loss relief and capital allowances
 
@@ -217,7 +217,7 @@ sub-paragraph (3) shall apply.
 - (a) the BBC ceases to carry on a trade; and
 - (b) the transferee begins to carry on that trade.
 
-(2) Where this paragraph applies, Chapter 1 of Part 22 of the Corporation Tax Act 2010 (transfers of trade[^key-68ce077c358a5347d5e15e4e61bb118c] without change of ownership) shall not have effect in relation to the event described in sub-paragraph (1).
+(2) Where this paragraph applies, Chapter 1 of Part 22 of the Corporation Tax Act 2010 (transfers of trade[^c-68ce077c358a5347d5e15e4e61bb118c] without change of ownership) shall not have effect in relation to the event described in sub-paragraph (1).
 
 (3) Where this paragraph applies, the trade mentioned in sub-paragraph (1) shall not be treated as permanently discontinued nor a new trade as set up and commenced for the purpose of the allowances and charges provided for by the the Capital Allowances Act[^c11523661]; but—
 
@@ -268,7 +268,7 @@ sub-paragraph (3) shall apply.
 
 ### Capital allowances: connected persons
 
-**16.** In Part 2 of the Capital Allowances Act (plant and machinery allowances)[^c11523781] references to a transaction (however described) between connected persons within the meaning of section 1122 of the Corporation Tax Act 2010[^key-a4783790a06ae3ae38c93dfc194c7112] shall not include references to a preparatory transfer.
+**16.** In Part 2 of the Capital Allowances Act (plant and machinery allowances)[^c11523781] references to a transaction (however described) between connected persons within the meaning of section 1122 of the Corporation Tax Act 2010[^c-a4783790a06ae3ae38c93dfc194c7112] shall not include references to a preparatory transfer.
 
 ### Capital allowances: agricultural buildings allowances[^c11523791]
 
@@ -320,14 +320,14 @@ and no provision included in a scheme by virtue of paragraph 4(2)(a) of Schedule
 - (b) any direction given by a Minister of the Crown under that Part or those documents, so far as that direction relates to a transfer scheme or (in a case where there is a preparatory scheme) to the sale of shares or securities issued by the successor company, or
 - (c) any arrangements (of any kind, whether in writing or not) so far as relating to a transfer scheme or any such sale,
 
-shall be regarded as constituting arrangements falling within section 154(3) or 155(3) of the Corporation Tax Act 2010[^key-14602afc083bde7eb5f77bd8ca290a5b] .
+shall be regarded as constituting arrangements falling within section 154(3) or 155(3) of the Corporation Tax Act 2010[^c-14602afc083bde7eb5f77bd8ca290a5b] .
 
 (2) Neither—
 
 - (a) the existence of the powers of any Minister of the Crown or the BBC under Part VI of this Act or under the documents regulating the BBC, nor
 - (b) any direction given as mentioned in sub-paragraph (1)(b),
 
-shall be regarded as constituting option arrangements within the meaning given by section 173 of the Corporation Tax Act 2010[^key-ba6bbe65ee9114783b60f7986c28edea] .
+shall be regarded as constituting option arrangements within the meaning given by section 173 of the Corporation Tax Act 2010[^c-ba6bbe65ee9114783b60f7986c28edea] .
 
 (3) Any reference in sub-paragraph (1) or (2) to the documents regulating the BBC is a reference to those documents only so far as they have effect in relation to a disposal by the BBC of—
 
@@ -340,28 +340,28 @@ or the initiating, advancing or facilitating of any such disposal.
 
 ### Corporation tax: leases at an undervalue
 
-**21.** (1) Section 222 of the Corporation Tax Act 2009 (lease[^key-9ad3a0b1e2cb0b02118079a598124e2c] granted at an undervalue) shall not apply in the case of any lease which, in accordance with a transfer scheme, is granted—
+**21.** (1) Section 222 of the Corporation Tax Act 2009 (lease[^c-9ad3a0b1e2cb0b02118079a598124e2c] granted at an undervalue) shall not apply in the case of any lease which, in accordance with a transfer scheme, is granted—
 
 - (a) to a company which is a transferee under that or any other transfer scheme, or
 - (b) by such a company to the BBC.
 
-(2) Sections 62 to 67 of the Corporation Tax Act 2009 (tenants occupying land for purposes of trade treated as incurring expenses)[^key-b263fe9438e961d58f530f470f5d09e4] shall not apply where there is an amount which would have become chargeable in relation to any land but for sub-paragraph (1); and, accordingly, references to any such amount shall not be included in references in those sections to the taxed receipt .
+(2) Sections 62 to 67 of the Corporation Tax Act 2009 (tenants occupying land for purposes of trade treated as incurring expenses)[^c-b263fe9438e961d58f530f470f5d09e4] shall not apply where there is an amount which would have become chargeable in relation to any land but for sub-paragraph (1); and, accordingly, references to any such amount shall not be included in references in those sections to the taxed receipt .
 
-(3) In this paragraph “**lease**” has the same meaning as in Part 4 of the Corporation Tax Act 2009 (see section 291 of that Act)[^key-266942b68b130d149d24d0da5919c6a6] .
+(3) In this paragraph “**lease**” has the same meaning as in Part 4 of the Corporation Tax Act 2009 (see section 291 of that Act)[^c-266942b68b130d149d24d0da5919c6a6] .
 
 ### Corporation tax: sale and lease-back
 
-**22.** (1) Sections 838 and 839 of the Corporation Tax Act 2010[^key-6b65c77398d81afb965e0fd1821047b9] (sale and lease-back: limitation on tax reliefs) , and sections 681AD and 681AE of the Income Tax Act 2007 (which make corresponding provision),[^M_F_b53bf5a3-a6ee-458b-d639-1a639dd931d9] shall not apply where the liability of the transferor or of the person associated with that transferor is as a result of—
+**22.** (1) Sections 838 and 839 of the Corporation Tax Act 2010[^c-6b65c77398d81afb965e0fd1821047b9] (sale and lease-back: limitation on tax reliefs) , and sections 681AD and 681AE of the Income Tax Act 2007 (which make corresponding provision),[^M_F_b53bf5a3-a6ee-458b-d639-1a639dd931d9] shall not apply where the liability of the transferor or of the person associated with that transferor is as a result of—
 
 - (a) the creation, in accordance with a transfer scheme, of any interest or right in favour of a transferee or the BBC;
 - (b) any other transaction for which a transfer scheme provides; or
 - (c) the grant by a company which is a transferee under a transfer scheme (“**the relevant company**”) to the BBC or to another company which is a transferee (whether under that or any other transfer scheme) of any interest or right, at a time when the relevant company remains a wholly-owned subsidiary of the BBC, in a case where the ability of the relevant company to grant that interest or right derives from the transfer to the company in accordance with a transfer scheme of an estate or interest in land.
 
-(2) In this paragraph “**transferor**” has the same meaning as in section 835 or 836 of the Corporation Tax Act 2010[^key-0d050ef9fca1433527dc05399ea4dcd2] or section 681AA or 681AB of the Income Tax Act 2007[^M_F_aba07999-26fd-457a-ec82-2829189f7eda] and “**associated**” shall be construed in accordance with section 847 of the Corporation Tax Act 2010[^key-71980f4d82d6d924f49a9c81dc6aba74] or section 681AM of the Income Tax Act 2007[^M_F_5dc651ca-52d1-467a-8696-68c30817b9b6].
+(2) In this paragraph “**transferor**” has the same meaning as in section 835 or 836 of the Corporation Tax Act 2010[^c-0d050ef9fca1433527dc05399ea4dcd2] or section 681AA or 681AB of the Income Tax Act 2007[^M_F_aba07999-26fd-457a-ec82-2829189f7eda] and “**associated**” shall be construed in accordance with section 847 of the Corporation Tax Act 2010[^c-71980f4d82d6d924f49a9c81dc6aba74] or section 681AM of the Income Tax Act 2007[^M_F_5dc651ca-52d1-467a-8696-68c30817b9b6].
 
 ### Corporation tax: sale of lease of land
 
-**23.** (1) Chapter 2 of Part 19 of the Corporation Tax Act 2010[^key-be37bcfd6fc5387a82263734d7acb4bc] (sale and lease-back: taxation of consideration) , and Chapter 2 of Part 12A of the Income Tax Act 2007 (which makes corresponding provision),[^M_F_e93a57d2-d810-4a75-f878-b8b8507a8083] shall not apply where—
+**23.** (1) Chapter 2 of Part 19 of the Corporation Tax Act 2010[^c-be37bcfd6fc5387a82263734d7acb4bc] (sale and lease-back: taxation of consideration) , and Chapter 2 of Part 12A of the Income Tax Act 2007 (which makes corresponding provision),[^M_F_e93a57d2-d810-4a75-f878-b8b8507a8083] shall not apply where—
 
 - (a) the assignment of the original lease, and
 - (b) the grant or assignment of the new lease,
@@ -374,25 +374,25 @@ each fall within sub-paragraph (2).
 - (b) it takes place between the BBC and a successor company at a time when the successor company remains a wholly-owned subsidiary of the BBC; or
 - (c) it takes place between two successor companies at a time when both remain wholly-owned subsidiaries of the BBC.
 
-(3) The reference in sub-paragraph (1) to the assignment of the original lease and the grant or assignment of the new lease shall be construed in accordance with Chapter 2 of Part 19 of the Corporation Tax Act 2010[^key-8eb6ad24ce7b999d9bdb2bf2bc617c36] , or section 681BA of the Income Tax Act 2007,[^M_F_354bf95a-2f86-4281-d4b1-f58723d6207f] and sub-paragraph (2) shall be construed accordingly.
+(3) The reference in sub-paragraph (1) to the assignment of the original lease and the grant or assignment of the new lease shall be construed in accordance with Chapter 2 of Part 19 of the Corporation Tax Act 2010[^c-8eb6ad24ce7b999d9bdb2bf2bc617c36] , or section 681BA of the Income Tax Act 2007,[^M_F_354bf95a-2f86-4281-d4b1-f58723d6207f] and sub-paragraph (2) shall be construed accordingly.
 
 ### Corporation tax: leased assets
 
-**24.** (1) For the purposes of Chapter 4 of Part 19 of the Corporation Tax Act 2010[^key-9e27f7d84350bd8764eca818f4e4ef8f] (assets leased to traders and others) and Chapter 4 of Part 12A of the Income Tax Act 2007 (which makes corresponding provision),[^M_F_4fb0db1e-82ce-44ef-afe1-0679337f5b72] where the interest of the lessor or the lessee under a lease, or any other interest in a relevant asset[^key-9710b831a8042872e7392f2571decec8], is transferred in accordance with a transfer scheme to the BBC or a transferee, the transfer shall be treated as being effected without any capital sum having been obtained in respect of that interest by the BBC or the transferee.
+**24.** (1) For the purposes of Chapter 4 of Part 19 of the Corporation Tax Act 2010[^c-9e27f7d84350bd8764eca818f4e4ef8f] (assets leased to traders and others) and Chapter 4 of Part 12A of the Income Tax Act 2007 (which makes corresponding provision),[^M_F_4fb0db1e-82ce-44ef-afe1-0679337f5b72] where the interest of the lessor or the lessee under a lease, or any other interest in a relevant asset[^c-9710b831a8042872e7392f2571decec8], is transferred in accordance with a transfer scheme to the BBC or a transferee, the transfer shall be treated as being effected without any capital sum having been obtained in respect of that interest by the BBC or the transferee.
 
-(2) Section 865 of the Corporation Tax Act 2010[^key-2531c87dad575782313579fe0b207dfa] (deduction of payment under lease of trading asset), and section 681CC of the Income Tax Act 2007 (which makes corresponding provision),[^M_F_d0e317f8-3773-4ec8-ce23-cc6358352599] shall not apply to any payments made by the BBC or a company which is a transferee under a transfer scheme if the payments are made—
+(2) Section 865 of the Corporation Tax Act 2010[^c-2531c87dad575782313579fe0b207dfa] (deduction of payment under lease of trading asset), and section 681CC of the Income Tax Act 2007 (which makes corresponding provision),[^M_F_d0e317f8-3773-4ec8-ce23-cc6358352599] shall not apply to any payments made by the BBC or a company which is a transferee under a transfer scheme if the payments are made—
 
 - (a) under any lease created in favour of the BBC or such a company by virtue of, or in pursuance of an obligation imposed by, a provision contained in a transfer scheme by virtue of paragraph 2 of Schedule 5; or
 - (b) under any lease—
   - (i) which is granted to or by a successor company at a time when it remains a wholly-owned subsidiary of the BBC; and
-  - (ii) which is a lease of a relevant asset[^key-6f775ac1fbf3bbe2fe921451a2039cb9] which at any time before the creation of the lease was used by the BBC for the purposes of a trade carried on by the BBC and which was, when so used, owned by the BBC.
+  - (ii) which is a lease of a relevant asset[^c-6f775ac1fbf3bbe2fe921451a2039cb9] which at any time before the creation of the lease was used by the BBC for the purposes of a trade carried on by the BBC and which was, when so used, owned by the BBC.
 
 (3)[^M_F_bee5371b-2a39-4398-bfbc-17962410a2b3] In sub-paragraph (1)—
 
 - “**lease**” has the meaning given by section 884 of the Corporation Tax Act 2010 or section 681DN of the Income Tax Act 2007, and
 - “**relevant asset**” has the meaning given by section 885 of the Corporation Tax Act 2010 or section 681DO of the Income Tax Act 2007.
 
-### Stamp duty and stamp duty land tax[^key-686f154d3305fdd5e5a72b4da4df790b]
+### Stamp duty and stamp duty land tax[^c-686f154d3305fdd5e5a72b4da4df790b]
 
 **25.** (1) Stamp duty shall not be chargeable on any agreement or instrument to the extent that it is certified by the Secretary of State to the Commissioners of Inland Revenue as being—
 
@@ -402,7 +402,7 @@ each fall within sub-paragraph (2).
 
 or as having been made in accordance with, or in pursuance of an obligation imposed by, a restructuring scheme.
 
-(1A)[^key-2ea32512fc41aa24bca3c07b102d1b84] A land transaction which is effected by a restructuring scheme, or effected in accordance with, or in pursuance of an obligation imposed by a restructuring scheme is exempt from charge for the purposes of stamp duty land tax.
+(1A)[^c-2ea32512fc41aa24bca3c07b102d1b84] A land transaction which is effected by a restructuring scheme, or effected in accordance with, or in pursuance of an obligation imposed by a restructuring scheme is exempt from charge for the purposes of stamp duty land tax.
 
 (1B) Relief under sub-paragraph (1A) must be claimed in a land transaction return or an amendment of such a return.
 
@@ -420,7 +420,7 @@ and shall not apply in relation to any instrument on which, by virtue of the pre
 
 (4) In this paragraph—
 
-- “land transaction” has the meaning given in section 43(1) of the Finance Act 2003;[^key-8c7baf827c04116006153db38442c5ff]
+- “land transaction” has the meaning given in section 43(1) of the Finance Act 2003;[^c-8c7baf827c04116006153db38442c5ff]
 - “land transaction return” has the meaning given by section 76(1) of that Act;
 
 - “**restructuring scheme modification agreement**” means a modification agreement, so far as relating to a restructuring scheme;
@@ -473,15 +473,15 @@ and shall not apply in relation to any instrument on which, by virtue of the pre
 
 [^c11523621]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-26a9fcbff5fcb09096e2ad4dbdb7cae1]: Textual amendment: Words in Sch. 7 para. 1(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 162(d)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/162/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-26a9fcbff5fcb09096e2ad4dbdb7cae1]: Textual amendment: Words in Sch. 7 para. 1(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 162(d)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/162/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c11523641]: Textual amendment: Words in Sch. 7 para. 1(3)(b) substituted (22.3.2001 with effect as mentioned [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1), [Sch. 2 para. 97(2)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/97/2)
 
-[^key-85d309bf7fc6074c174c3ccac08b46cf]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/d)
+[^c-85d309bf7fc6074c174c3ccac08b46cf]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/d)
 
-[^key-9a7c009da304ceceb6a1db104020e37f]: Textual amendment: Words in [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/11/2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9a7c009da304ceceb6a1db104020e37f]: Textual amendment: Words in [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/11/2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-68ce077c358a5347d5e15e4e61bb118c]: Textual amendment: Words in [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/12/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-68ce077c358a5347d5e15e4e61bb118c]: Textual amendment: Words in [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/12/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c11523661]: Textual amendment: Words in Sch. 7 para. 12(3) substituted (22.3.2001 with effect as mentioned [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1), [Sch. 2 para. 97(3)(a)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/97/3/a)
 
@@ -509,7 +509,7 @@ and shall not apply in relation to any instrument on which, by virtue of the pre
 
 [^c11523781]: Textual amendment: Words in Sch. 7 para. 16 substituted (22.3.2001 with effect as mentioned [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1), [Sch. 2 para. 97(9)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/97/9)
 
-[^key-a4783790a06ae3ae38c93dfc194c7112]: Textual amendment: Words in [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/16) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a4783790a06ae3ae38c93dfc194c7112]: Textual amendment: Words in [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/16) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c11523791]: Textual amendment: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/17) and preceding cross-heading substituted (22.3.2001 with effect as mentioned [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1), [Sch. 2 para. 97(10)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/97/10)
 
@@ -521,60 +521,60 @@ and shall not apply in relation to any instrument on which, by virtue of the pre
 
 [^M_F_6a93b2cb-676e-400d-a721-8cf34ff72219]: Textual amendment: Words in Sch. 7 para. 19(a) substituted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 294(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/294/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-14602afc083bde7eb5f77bd8ca290a5b]: Textual amendment: Words in [Sch. 7 para. 20(1)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/20/1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-14602afc083bde7eb5f77bd8ca290a5b]: Textual amendment: Words in [Sch. 7 para. 20(1)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/20/1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ba6bbe65ee9114783b60f7986c28edea]: Textual amendment: Words in [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/20/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ba6bbe65ee9114783b60f7986c28edea]: Textual amendment: Words in [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/20/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c11523811]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-9ad3a0b1e2cb0b02118079a598124e2c]: Textual amendment: Words in Sch. 7 para. 21(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(3)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/3/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9ad3a0b1e2cb0b02118079a598124e2c]: Textual amendment: Words in Sch. 7 para. 21(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(3)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/3/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b263fe9438e961d58f530f470f5d09e4]: Textual amendment: Words in Sch. 7 para. 21(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(3)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/3/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b263fe9438e961d58f530f470f5d09e4]: Textual amendment: Words in Sch. 7 para. 21(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(3)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/3/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-266942b68b130d149d24d0da5919c6a6]: Textual amendment: Words in Sch. 7 para. 21(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(3)(c)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/3/c) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-266942b68b130d149d24d0da5919c6a6]: Textual amendment: Words in Sch. 7 para. 21(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 446(3)(c)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/446/3/c) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-6b65c77398d81afb965e0fd1821047b9]: Textual amendment: Words in Sch. 7 para. 22(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(6)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/6) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6b65c77398d81afb965e0fd1821047b9]: Textual amendment: Words in Sch. 7 para. 22(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(6)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/6) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_b53bf5a3-a6ee-458b-d639-1a639dd931d9]: Textual amendment: Words in Sch. 7 para. 22(1) inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-0d050ef9fca1433527dc05399ea4dcd2]: Textual amendment: Words in Sch. 7 para. 22(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(7)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/7/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0d050ef9fca1433527dc05399ea4dcd2]: Textual amendment: Words in Sch. 7 para. 22(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(7)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/7/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_aba07999-26fd-457a-ec82-2829189f7eda]: Textual amendment: Words in Sch. 7 para. 22(2) inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(3)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/3/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-71980f4d82d6d924f49a9c81dc6aba74]: Textual amendment: Words in Sch. 7 para. 22(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(7)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/7/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-71980f4d82d6d924f49a9c81dc6aba74]: Textual amendment: Words in Sch. 7 para. 22(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(7)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/7/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_5dc651ca-52d1-467a-8696-68c30817b9b6]: Textual amendment: Words in Sch. 7 para. 22(2) inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(3)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/3/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-be37bcfd6fc5387a82263734d7acb4bc]: Textual amendment: Words in Sch. 7 para. 23(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(8)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/8) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-be37bcfd6fc5387a82263734d7acb4bc]: Textual amendment: Words in Sch. 7 para. 23(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(8)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/8) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_e93a57d2-d810-4a75-f878-b8b8507a8083]: Textual amendment: Words in Sch. 7 para. 23(1) inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(4)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-8eb6ad24ce7b999d9bdb2bf2bc617c36]: Textual amendment: Words in Sch. 7 para. 23(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(9)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/9) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8eb6ad24ce7b999d9bdb2bf2bc617c36]: Textual amendment: Words in Sch. 7 para. 23(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(9)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/9) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_354bf95a-2f86-4281-d4b1-f58723d6207f]: Textual amendment: Words in Sch. 7 para. 23(3) inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(5)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9e27f7d84350bd8764eca818f4e4ef8f]: Textual amendment: Words in Sch. 7 para. 24(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(10)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/10/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9e27f7d84350bd8764eca818f4e4ef8f]: Textual amendment: Words in Sch. 7 para. 24(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(10)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/10/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_4fb0db1e-82ce-44ef-afe1-0679337f5b72]: Textual amendment: Words in Sch. 7 para. 24(1) inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(6)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9710b831a8042872e7392f2571decec8]: Textual amendment: Words in Sch. 7 para. 24(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(10)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/10/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9710b831a8042872e7392f2571decec8]: Textual amendment: Words in Sch. 7 para. 24(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(10)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/10/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2531c87dad575782313579fe0b207dfa]: Textual amendment: Words in Sch. 7 para. 24(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(11)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/11/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2531c87dad575782313579fe0b207dfa]: Textual amendment: Words in Sch. 7 para. 24(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(11)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/11/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_d0e317f8-3773-4ec8-ce23-cc6358352599]: Textual amendment: Words in Sch. 7 para. 24(2) substituted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(7)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-6f775ac1fbf3bbe2fe921451a2039cb9]: Textual amendment: Words in Sch. 7 para. 24(2)(b)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(11)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/11/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6f775ac1fbf3bbe2fe921451a2039cb9]: Textual amendment: Words in Sch. 7 para. 24(2)(b)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 294(11)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/294/11/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_bee5371b-2a39-4398-bfbc-17962410a2b3]: Textual amendment: Sch. 7 para. 24(3) substituted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 8 para. 246(8)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/246/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-686f154d3305fdd5e5a72b4da4df790b]: Textual amendment: [Sch. 7 para. 25 heading](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/crossheading/stamp-duty) substituted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 25(2)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/25/2)
+[^c-686f154d3305fdd5e5a72b4da4df790b]: Textual amendment: [Sch. 7 para. 25 heading](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/crossheading/stamp-duty) substituted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 25(2)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/25/2)
 
-[^key-2ea32512fc41aa24bca3c07b102d1b84]: Textual amendment: Sch. 7 para. 25(1A)(1B) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 25(3)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/25/3)
+[^c-2ea32512fc41aa24bca3c07b102d1b84]: Textual amendment: Sch. 7 para. 25(1A)(1B) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 25(3)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/25/3)
 
 [^c11523821]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 
 [^c11523831]: Marginal citation: [1895 c. 16](https://www.legislation.gov.uk/ukpga/1895/16).
 
-[^key-8c7baf827c04116006153db38442c5ff]: Textual amendment: Words in Sch. 7 para. 25(4) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 25(4)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/25/4)
+[^c-8c7baf827c04116006153db38442c5ff]: Textual amendment: Words in Sch. 7 para. 25(4) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 25(4)](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/25/4)
 
 [^c11523841]: Marginal citation: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41).

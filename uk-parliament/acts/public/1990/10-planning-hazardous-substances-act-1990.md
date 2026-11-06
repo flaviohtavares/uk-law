@@ -33,13 +33,13 @@ An Act to consolidate certain enactments relating to special controls in respect
 
 \[24th May 1990\]
 
-[^c10197801][^c10197811][^c10197821][^c10197831][^c10197841][^c10197851][^c10197861][^c10197871]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-15d1a67e8a71dd8780a676b646ee4da2][^key-2e83f2e1bb19c8da19e7af7975e12eb3][^key-24ecdf468c9238ff7633e9f3d9053789][^key-06d3e12952dc3a3bbd694b8830ee9c34][^key-61669cd201f573edfae367ea175b3f5a][^key-23abc865b2b903990d951e610a561df5]
+[^c10197801][^c10197811][^c10197821][^c10197831][^c10197841][^c10197851][^c10197861][^c10197871]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-15d1a67e8a71dd8780a676b646ee4da2][^c-2e83f2e1bb19c8da19e7af7975e12eb3][^c-24ecdf468c9238ff7633e9f3d9053789][^c-06d3e12952dc3a3bbd694b8830ee9c34][^c-61669cd201f573edfae367ea175b3f5a][^c-23abc865b2b903990d951e610a561df5]
 
 ## Hazardous substances authorities
 
 ### 1. Hazardous substances authorities: general.[^c10197911]
 
-The council of the district , Welsh county, county borough[^c10197921] or London borough in which land is situated shall be the hazardous substances authority in relation to the land except in cases where section [^c10197931]. . . 3 applies. But, in the case of a London borough, see also section 2B(5) of the principal Act (Mayor of London to be the hazardous substances authority in certain circumstances).[^key-3a50dcda3490190ad8fd5f323f922e04]
+The council of the district , Welsh county, county borough[^c10197921] or London borough in which land is situated shall be the hazardous substances authority in relation to the land except in cases where section [^c10197931]. . . 3 applies. But, in the case of a London borough, see also section 2B(5) of the principal Act (Mayor of London to be the hazardous substances authority in certain circumstances).[^c-3a50dcda3490190ad8fd5f323f922e04]
 
 ### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10197961]
 
@@ -57,17 +57,17 @@ The council of the district , Welsh county, county borough[^c10197921] or London
 
 (3) The Broads Authority is the hazardous substances authority for the Broads unless subsection (1) [^c10198161]. . . applies.
 
-(4) If the land is in an area for which a development corporation[^key-d53535ebdf5fb8bad56a903372906f7b] is the local planning authority for all purposes of Part 3 of the principal Act[^key-462e048f253b85b6dfc188f765633b43] in relation to all kinds of development, the corporation shall be the hazardous substances authority for the land unless subsection (1) [^c10198161]. . . applies.
+(4) If the land is in an area for which a development corporation[^c-d53535ebdf5fb8bad56a903372906f7b] is the local planning authority for all purposes of Part 3 of the principal Act[^c-462e048f253b85b6dfc188f765633b43] in relation to all kinds of development, the corporation shall be the hazardous substances authority for the land unless subsection (1) [^c10198161]. . . applies.
 
-(4A)[^key-b0f9d9381f80bcbf48445d3274046b81] In subsection (4), “**development corporation**” means an urban development corporation, a development corporation established under section 3 of the New Towns Act 1981 or a Mayoral development corporation.
+(4A)[^c-b0f9d9381f80bcbf48445d3274046b81] In subsection (4), “**development corporation**” means an urban development corporation, a development corporation established under section 3 of the New Towns Act 1981 or a Mayoral development corporation.
 
 (5) If the land is in an area for which a housing action trust established under Part III of the [^c10198181]Housing Act 1988 is the local planning authority in relation to all kinds of development, the trust shall be the hazardous substances authority for the land unless subsection (1) [^c10198161]. . . applies.
 
-(5A)[^key-36d587804bc7f8798b14cee8573e8f6a] The power to make a designation order under section 13 of the Housing and Regeneration Act 2008 which contains provision of the kind mentioned in section 14(3) of that Act does not extend to providing for the Homes and Communities Agency to be the hazardous substances authority (whether instead of, or concurrently with, a county council) in relation to land to which subsection (1) above applies.
+(5A)[^c-36d587804bc7f8798b14cee8573e8f6a] The power to make a designation order under section 13 of the Housing and Regeneration Act 2008 which contains provision of the kind mentioned in section 14(3) of that Act does not extend to providing for the Homes and Communities Agency to be the hazardous substances authority (whether instead of, or concurrently with, a county council) in relation to land to which subsection (1) above applies.
 
 (5B) Subject to this, section 1 and this section are subject to any provision made by such an order.
 
-(5C)[^key-1dd5c36bbb0cedbf4e4da5a27944d38a] A joint planning board constituted under section 2(1B) of the principal Act for a united district in Wales is the hazardous substances authority for land in the united district unless subsection (4) [^key-a47bba50bac7c56212af6bdc907648a4]... applies.
+(5C)[^c-1dd5c36bbb0cedbf4e4da5a27944d38a] A joint planning board constituted under section 2(1B) of the principal Act for a united district in Wales is the hazardous substances authority for land in the united district unless subsection (4) [^c-a47bba50bac7c56212af6bdc907648a4]... applies.
 
 (6)[^c10198221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,7 +116,7 @@ is less than the quantity prescribed as the controlled quantity for that substan
 
 may make such transitional provision as appears to the Secretary of State to be appropriate.
 
-(3) The power under section 40(5) for regulations under this section to make transitional provision[^key-219249b6313b598c7bb37a3650b6866c] includes, without prejudice to its generality, power to apply sections 11 and 26 subject to such modifications as appear to the Secretary of State to be appropriate.
+(3) The power under section 40(5) for regulations under this section to make transitional provision[^c-219249b6313b598c7bb37a3650b6866c] includes, without prejudice to its generality, power to apply sections 11 and 26 subject to such modifications as appear to the Secretary of State to be appropriate.
 
 (4) Regulations under this section may make different provision for different cases or descriptions of cases.
 
@@ -152,7 +152,7 @@ may make such transitional provision as appears to the Secretary of State to be 
 - (d) may require hazardous substances authorities to determine applications for hazardous substances consent within such time as may be prescribed;
 - (e) may require hazardous substances authorities to give prescribed persons or bodies prescribed information about applications for hazardous substances consent, including information as to the manner in which such applications have been dealt with.
 
-(3) In subsection (2) above “**appropriate consultations**” means consultations with the safety regulator and with[^key-f44e7efebb3ce1c197fffd89a8bb14a9] such persons or bodies as may be prescribed.
+(3) In subsection (2) above “**appropriate consultations**” means consultations with the safety regulator and with[^c-f44e7efebb3ce1c197fffd89a8bb14a9] such persons or bodies as may be prescribed.
 
 (4) Regulations under this section may make different provision for different cases or descriptions of cases.
 
@@ -197,7 +197,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 (8) Subject to subsection (5), in this section “**owner,**” in relation to any land, means a person who is for the time being the estate owner in respect of the fee simple in the land or is entitled to a tenancy of the land granted or extended for a term of years certain, of which not less than seven years remain unexpired.
 
-### 9. Determination of applications for hazardous substances consent.[^c10198461][^c10198471][^c10198481][^key-a7bf7652cb7c2ddcfd03e700fe93b2ce][^key-1a8820ae32aadcae7052f277393083e1]
+### 9. Determination of applications for hazardous substances consent.[^c10198461][^c10198471][^c10198481][^c-a7bf7652cb7c2ddcfd03e700fe93b2ce][^c-1a8820ae32aadcae7052f277393083e1]
 
 (1)[^c10198491] Subject to the following provisions of this Act, where an application is made to a hazardous substances authority for hazardous substances consent, that authority—
 
@@ -208,9 +208,9 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 - (a) to any current or contemplated use of the land to which the application relates;
 - (b) to the way in which land in the vicinity is being used or is likely to be used;
-- (c) to any planning permission , permission in principle[^key-34a1aead2f7de7edda225f275f24eb2c] , infrastructure consent[^key-96aabf82f9e2cb868f0de5e153c035aa] or development consent[^key-b693c50cc0ed5bec5238a5ca82830ef5] that has been granted for development of land in the vicinity;
+- (c) to any planning permission , permission in principle[^c-34a1aead2f7de7edda225f275f24eb2c] , infrastructure consent[^c-96aabf82f9e2cb868f0de5e153c035aa] or development consent[^c-b693c50cc0ed5bec5238a5ca82830ef5] that has been granted for development of land in the vicinity;
 - (d) to the provisions of the development plan; and
-- (e) to any advice which the safety regulator has[^key-74ed83ed906116b3ee0af167004ee96c] given following consultations in pursuance of regulations under section 7(2).
+- (e) to any advice which the safety regulator has[^c-74ed83ed906116b3ee0af167004ee96c] given following consultations in pursuance of regulations under section 7(2).
 
 (3) If an application relates to more than one hazardous substance, the authority may make different determinations in relation to each.
 
@@ -222,7 +222,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 ### 10. Power to impose conditions on grant of hazardous substances consent.[^c10198531][^c10198541][^c10198551]
 
-(1) Without prejudice to the generality of section 9(1), a hazardous substances authority may make the grant of hazardous substances consent conditional on the commencement or partial or complete execution of development on the land which is authorised by a specified planning permission , infrastructure consent[^key-dca935779b2d4bb8110123b040bbd7db] or development consent[^key-aa091507da92962118c3cf96de576eaf] or may grant hazardous substances consent subject to conditions with respect to any of the following—
+(1) Without prejudice to the generality of section 9(1), a hazardous substances authority may make the grant of hazardous substances consent conditional on the commencement or partial or complete execution of development on the land which is authorised by a specified planning permission , infrastructure consent[^c-dca935779b2d4bb8110123b040bbd7db] or development consent[^c-aa091507da92962118c3cf96de576eaf] or may grant hazardous substances consent subject to conditions with respect to any of the following—
 
 - (a) how and where any hazardous substance to which the consent relates is to be kept or used;
 - (b) the times between which any such substance may be present;
@@ -230,11 +230,11 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
   - (i) on or before a date specified in the consent; or
   - (ii) before the end of a period specified in it and commencing on the date on which it is granted.
 
-(2) A hazardous substances authority[^c10198561] may only grant consent subject to conditions as to how a hazardous substance is to be kept or used if the conditions are conditions to which the safety regulator has[^key-f9dfec87f4a51d9d90f9021e292b68a2] advised the authority that any consent they might grant should be subject.
+(2) A hazardous substances authority[^c10198561] may only grant consent subject to conditions as to how a hazardous substance is to be kept or used if the conditions are conditions to which the safety regulator has[^c-f9dfec87f4a51d9d90f9021e292b68a2] advised the authority that any consent they might grant should be subject.
 
 (3) It shall be the duty of a hazardous substances authority when granting hazardous substances consent to include in that consent in respect of each hazardous substance to which it relates a statement of all conditions relating to that substance subject to which the consent is granted.
 
-(4)[^key-b04981bac4d208c1913fc898b447f79f] Regulations in relation to England may, in relation to applications made pursuant to a condition attached to hazardous substance consent, make any provision corresponding to provision that may be made in relation to applications for such consent under section 7.
+(4)[^c-b04981bac4d208c1913fc898b447f79f] Regulations in relation to England may, in relation to applications made pursuant to a condition attached to hazardous substance consent, make any provision corresponding to provision that may be made in relation to applications for such consent under section 7.
 
 ### 11. Deemed hazardous substances consent: established presence.[^c10198651][^c10198661]
 
@@ -294,11 +294,11 @@ the department may, on granting that authorisation, also direct that hazardous s
 
 (2A)[^c10198801] On making an order under section 1 or 3 of the Transport and Works Act 1992 which includes any provision that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the Secretary of State may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
 
-(2B)[^key-aaf37ba675a755f013a18067b2895796] On making an order granting development consent in respect of development that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the person making the order may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+(2B)[^c-aaf37ba675a755f013a18067b2895796] On making an order granting development consent in respect of development that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the person making the order may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
 
-(2C)[^key-688475a32fa38f4fa491243ea8d7b851] On making an order granting infrastructure consent in respect of development that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the person making the order may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+(2C)[^c-688475a32fa38f4fa491243ea8d7b851] On making an order granting infrastructure consent in respect of development that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the person making the order may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
 
-(3)[^key-f5d2fc243ef9666c437b3135f2a572fd] Before giving a direction under any of subsections (1) to (2C)[^key-cd3a1c629a0b1d9068d4cace8aafd33b], the person having power to give the direction must consult the Health and Safety Commission.
+(3)[^c-f5d2fc243ef9666c437b3135f2a572fd] Before giving a direction under any of subsections (1) to (2C)[^c-cd3a1c629a0b1d9068d4cace8aafd33b], the person having power to give the direction must consult the Health and Safety Commission.
 
 (4) For the purposes of this section development shall be taken to be authorised by a government department if—
 
@@ -312,7 +312,7 @@ and references in this section to the authorisation of a government department s
 
 (5) The provisions of this Act (except section 22) shall apply in relation to any hazardous substances consent deemed to be granted by virtue of directions under this section as if it had been granted by the Secretary of State on an application referred to him under section 20.
 
-(6)[^c10198811] A person[^key-5d4b16803ab7ff14abd30ae30e0a2409] shall, as respects any hazardous substances consent deemed to be granted by virtue of directions given by the person[^key-292adf7e0f37079f75684de584bda37e] under this section, send to the hazardous substances authority concerned any such information as appears to be required by them for the purposes of a register under section 28.
+(6)[^c10198811] A person[^c-5d4b16803ab7ff14abd30ae30e0a2409] shall, as respects any hazardous substances consent deemed to be granted by virtue of directions given by the person[^c-292adf7e0f37079f75684de584bda37e] under this section, send to the hazardous substances authority concerned any such information as appears to be required by them for the purposes of a register under section 28.
 
 ## Variation and revocation of consents
 
@@ -354,7 +354,7 @@ the hazardous substances authority shall only have regard to any consent to whic
 (2) The hazardous substances authority may also by order revoke a hazardous substances consent if it appears to them—
 
 - (a) that there has been a material change of use of land to which a hazardous substances consent relates; or
-- (b) that planning permission , infrastructure consent[^key-7e2b14d49f07a46d30e7e2499b26b4ce] or development consent[^key-c8a3a6cdf97525549c6b82da3f694f32] has been granted for development the carrying out of which would involve a material change of use of such land and the development to which the permission or development consent[^key-7b315e0a44a5fcacf3ee5dea8cc8a281] relates has been commenced; or
+- (b) that planning permission , infrastructure consent[^c-7e2b14d49f07a46d30e7e2499b26b4ce] or development consent[^c-c8a3a6cdf97525549c6b82da3f694f32] has been granted for development the carrying out of which would involve a material change of use of such land and the development to which the permission or development consent[^c-7b315e0a44a5fcacf3ee5dea8cc8a281] relates has been commenced; or
 - (c) in the case of a hazardous substances consent which relates only to one substance, that that substance has not for at least five years been present on, over or under the land to which the consent relates in a quantity equal to or exceeding the controlled quantity; or
 - (d) in the case of a hazardous substances consent which relates to a number of substances, that none of those substances has for at least five years been so present.
 
@@ -403,7 +403,7 @@ the authority shall pay him compensation in respect of that damage.
 
 (2) Regulations may make provision in relation to applications under subsection (1) corresponding to any provision that may be made by regulations under section 7 or 8 in relation to applications for hazardous substances consent.
 
-(3)[^key-ad94169517bc001839dcb4d5fd3dbd27] This section does not apply if the control of land changes from one emanation of the Crown to another.
+(3)[^c-ad94169517bc001839dcb4d5fd3dbd27] This section does not apply if the control of land changes from one emanation of the Crown to another.
 
 ### 18. Determination of applications for continuation of hazardous substances consent.[^c10198961][^c10198971]
 
@@ -415,7 +415,7 @@ the authority shall pay him compensation in respect of that damage.
 (2) In dealing with such an application the authority shall have regard to any material consideration and, in particular, but without prejudice to the generality of the foregoing—
 
 - (a) to the matters to which a hazardous substances authority are required to have regard by section 9(2)(a) to (d); and
-- (b) to any advice which the safety regulator has[^key-1bbe82bce260e227da9de99bac9e649a] given following consultations in pursuance of regulations under section 17(2).
+- (b) to any advice which the safety regulator has[^c-1bbe82bce260e227da9de99bac9e649a] given following consultations in pursuance of regulations under section 17(2).
 
 (3) If an application relates to more than one consent, the authority may make different determinations in relation to each.
 
@@ -454,7 +454,7 @@ Where on an application under section 17(1) the hazardous substances authority m
 
 (4) Before determining an application referred to him under this section, the Secretary of State shall, if either the applicant or the hazardous substances authority so wish, give to each of them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
 
-(4B)[^key-e0b4ee8272047ac6733a1ab13779960f] Subsection (4) does not apply to an application referred to the Welsh Ministers under this section instead of being dealt with by a hazardous substances authority in Wales.
+(4B)[^c-e0b4ee8272047ac6733a1ab13779960f] Subsection (4) does not apply to an application referred to the Welsh Ministers under this section instead of being dealt with by a hazardous substances authority in Wales.
 
 (5) The decision of the Secretary of State on any application referred to him under this section shall be final.
 
@@ -473,7 +473,7 @@ within such period as may be prescribed, or within such extended period as may a
 
 (3) An appeal under this section must be made by notice served in the prescribed manner within such period as may be prescribed.
 
-(3A)[^key-3f08f2d0b1cf989f7fca15054a4727e1] A notice of appeal under this section must be accompanied by such information as may be prescribed.
+(3A)[^c-3f08f2d0b1cf989f7fca15054a4727e1] A notice of appeal under this section must be accompanied by such information as may be prescribed.
 
 (3B) The power to make regulations under subsection (3A) is exercisable by—
 
@@ -484,7 +484,7 @@ within such period as may be prescribed, or within such extended period as may a
 
 (3D) Regulations under subsection (3A) made by the Welsh Ministers are subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-(3E)[^key-c9f12f796d92e1151c7ea77da0891dcf] Once notice of an appeal under this section to the Welsh Ministers has been served, the application to which it relates may not be varied, except in such circumstances as may be prescribed.
+(3E)[^c-c9f12f796d92e1151c7ea77da0891dcf] Once notice of an appeal under this section to the Welsh Ministers has been served, the application to which it relates may not be varied, except in such circumstances as may be prescribed.
 
 (3F) Regulations which make provision under subsection (3E) must provide for an application which is varied to be subject to such further consultation as the Welsh Ministers consider appropriate.
 
@@ -492,7 +492,7 @@ within such period as may be prescribed, or within such extended period as may a
 
 (5) Before determining an appeal under this section, the Secretary of State shall, if either the applicant or the hazardous substances authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
 
-(5B)[^key-2998aff48e6306b9b1a2054f639ab33f] Subsection (5) does not apply to an appeal against a decision of a hazardous substances authority in Wales.
+(5B)[^c-2998aff48e6306b9b1a2054f639ab33f] Subsection (5) does not apply to an appeal against a decision of a hazardous substances authority in Wales.
 
 (6) The decision of the Secretary of State on any appeal under this section shall be final.
 
@@ -500,11 +500,11 @@ within such period as may be prescribed, or within such extended period as may a
 
 (8) The Schedule to this Act applies to appeals under this section.
 
-### 21A. Determination by Secretary of State of procedure for certain proceedings[^key-869845684468ead43ea2f99ff05639f4]
+### 21A. Determination by Secretary of State of procedure for certain proceedings[^c-869845684468ead43ea2f99ff05639f4]
 
 (1) The Secretary of State must make a determination as to the procedure by which proceedings to which this section applies are to be considered.
 
-(2) A determination under subsection (1) must provide for the proceedings to be considered in such one or more of the following ways as appear[^key-c5d64ac2daefefcc6a30132f137f5bba] to the Secretary of State to be [^key-fcbb3b6a6b27a58528b89b2b12756235]... appropriate—
+(2) A determination under subsection (1) must provide for the proceedings to be considered in such one or more of the following ways as appear[^c-c5d64ac2daefefcc6a30132f137f5bba] to the Secretary of State to be [^c-fcbb3b6a6b27a58528b89b2b12756235]... appropriate—
 
 - (a) at a local inquiry;
 - (b) at a hearing;
@@ -530,14 +530,14 @@ within such period as may be prescribed, or within such extended period as may a
 
 (9) An order under subsection (8) may—
 
-- (a)[^key-8987e1681dc95852d9c791e42f4e8e8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8987e1681dc95852d9c791e42f4e8e8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) amend, repeal or revoke any provision made by or under this Act or by or under any other Act.
 
 (10) The power to make an order under subsection (8) is exercisable by statutory instrument.
 
 (11) No order may be made under subsection (8) unless a draft of the instrument containing the order has been laid before, and approved by resolution of, each House of Parliament.
 
-### 21B. Determination by the Welsh Ministers of procedure for certain proceedings[^key-3e9869e89b2746a1a03574a219f392f7]
+### 21B. Determination by the Welsh Ministers of procedure for certain proceedings[^c-3e9869e89b2746a1a03574a219f392f7]
 
 (1) The Welsh Ministers must make a determination as to the procedure by which proceedings to which this section applies are to be considered.
 
@@ -559,7 +559,7 @@ within such period as may be prescribed, or within such extended period as may a
 
 - (a) an application referred to the Welsh Ministers under section 20;
 - (b) an appeal to the Welsh Ministers under section 21.
-- (c)[^key-5bdd6d90a861090981afce3db9b3b7a1] an appeal to the Welsh Ministers under section 174 of the principal Act (appeal against enforcement notice) as applied by regulation 16 of, and Part 1 of Schedule 4 to, the Planning (Hazardous Substances) (Wales) Regulations 2015 ([S.I. 2015/1597 (W. 196)](https://www.legislation.gov.uk/wsi/2015/1597)) (appeals against hazardous substances contravention notices).
+- (c)[^c-5bdd6d90a861090981afce3db9b3b7a1] an appeal to the Welsh Ministers under section 174 of the principal Act (appeal against enforcement notice) as applied by regulation 16 of, and Part 1 of Schedule 4 to, the Planning (Hazardous Substances) (Wales) Regulations 2015 ([S.I. 2015/1597 (W. 196)](https://www.legislation.gov.uk/wsi/2015/1597)) (appeals against hazardous substances contravention notices).
 
 (8) The Welsh Ministers may by order amend subsection (7) to—
 
@@ -568,23 +568,23 @@ within such period as may be prescribed, or within such extended period as may a
 
 (9) An order under subsection (8) may—
 
-- (a)[^key-107b2c450fe76066f5562338a209776b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-107b2c450fe76066f5562338a209776b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) amend, repeal or revoke any provision made by or under this Act or by or under any other Act.
 
 (10) No order may be made by the Welsh Ministers under subsection (8) unless a draft of the instrument containing the order has been laid before, and approved by resolution of the National Assembly for Wales.
 
-### 22. Validity of decisions as to applications.[^c10199151][^c10199161][^key-cf20378f9848e4204bcfc2862829be0b][^key-db086a8656e3c79c50469ca93e75d15d]
+### 22. Validity of decisions as to applications.[^c10199151][^c10199161][^c-cf20378f9848e4204bcfc2862829be0b][^c-db086a8656e3c79c50469ca93e75d15d]
 
 (1) If any person is aggrieved by any decision of the Secretary of State under section 20 or 21 and wishes to question the validity of that decision on the grounds—
 
 - (a) that it is not within the powers of this Act; or
 - (b) that any of the relevant requirements have not been complied with in relation to that decision,
 
-he may [^key-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the High Court under this section.
+he may [^c-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the High Court under this section.
 
-(2) Without prejudice to subsection (1), if the hazardous substances authority who made the decision on the application to which the proceedings relate or, as the case may be, referred the application wish to question the validity of any such decision as is mentioned in that subsection on any of the grounds there mentioned, the authority may [^key-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the High Court under this section.
+(2) Without prejudice to subsection (1), if the hazardous substances authority who made the decision on the application to which the proceedings relate or, as the case may be, referred the application wish to question the validity of any such decision as is mentioned in that subsection on any of the grounds there mentioned, the authority may [^c-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the High Court under this section.
 
-(2A)[^key-372a5d7569378fd453bf6eebe5c65339] An application under this section may not be made without the leave of the High Court.
+(2A)[^c-372a5d7569378fd453bf6eebe5c65339] An application under this section may not be made without the leave of the High Court.
 
 (2B) An application for leave for the purposes of subsection (2A) must be made before the end of the period of six weeks beginning with the day after the date on which the decision to which the application relates is taken.
 
@@ -593,7 +593,7 @@ he may [^key-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the Hig
 - (a) the question of whether leave should be granted, or
 - (b) where leave is granted, the proceedings on any application under this section made with such leave.
 
-(3) On any application under this section (other than an application for leave)[^key-6f43e8c3b09e49da3fff400383afc9c7] the High Court—
+(3) On any application under this section (other than an application for leave)[^c-6f43e8c3b09e49da3fff400383afc9c7] the High Court—
 
 - (a) may by interim order suspend the operation of the decision the validity of which is questioned by the application until the final determination of the proceedings;
 - (b) if satisfied that the decision in question is not within the powers of this Act, or that the interests of the applicant have been substantially prejudiced by a failure to comply with any of the relevant requirements in relation to it, may quash that decision.
@@ -606,7 +606,7 @@ he may [^key-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the Hig
 
 ## Contraventions of hazardous substances control
 
-### 23. Offences.[^c10199191][^c10199201][^c10199211][^key-14fd670f848fe471164748ce16711ede]
+### 23. Offences.[^c10199191][^c10199201][^c10199211][^c-14fd670f848fe471164748ce16711ede]
 
 (1) Subject to the following provisions of this section, if there is a contravention of hazardous substances control, the appropriate person shall be guilty of an offence.
 
@@ -624,7 +624,7 @@ he may [^key-c0a2d3fbc1650ce6c861186b2f88f9f3]... make an application to the Hig
   - (ii) any person allowing it to be so present; and
 - (b) in relation to a contravention falling within paragraph (a) or (b) of that subsection, the person in control of the land.
 
-(4) A person guilty of an offence under this section shall be liable on summary conviction, or on conviction on indictment, to a fine[^key-8429abdba7e87c9848f38afef4349da4].
+(4) A person guilty of an offence under this section shall be liable on summary conviction, or on conviction on indictment, to a fine[^c-8429abdba7e87c9848f38afef4349da4].
 
 (4A)[^c10199231] In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence
 
@@ -682,7 +682,7 @@ if they consider it expedient to do so having regard to any material considerati
 
 (3) The hazardous substances authority shall, immediately after exercising those powers, give notice of the exercise to every person who has been served with a copy of the hazardous substances contravention notice or would, if the notice were re-issued, be served with a copy of it.
 
-### 25. Hazardous substances contravention notices: supplementary provisions.[^c10199341][^c10199351][^key-664f895f61cb14190b48c05b3c04fe66]
+### 25. Hazardous substances contravention notices: supplementary provisions.[^c10199341][^c10199351][^c-664f895f61cb14190b48c05b3c04fe66]
 
 (1) The Secretary of State may by regulations—
 
@@ -693,18 +693,18 @@ if they consider it expedient to do so having regard to any material considerati
   - (iii) for the procedure to be followed on such appeals;
   - (iv) for the directions that may be given on such an appeal;
   - (v) for the application to such appeals, subject to such modifications as the regulations may specify, of any of the provisions of sections 174, 175(1) to (3)[^c10199361] and (6), 176, 177, 285 and 289 of the principal Act;
-- (c) dir ect that any of the provisions of sections 178 (1) to (5) and (7)[^c10199371], 179 to 181, 183, 184, 186,[^c10199381] 187 and 188 of the principal Act[^key-52e6f893041555d754fe1b3003e2ba12] shall have effect in relation to hazardous substances contravention notices subject to such modifications as he may specify in the regulations;
+- (c) dir ect that any of the provisions of sections 178 (1) to (5) and (7)[^c10199371], 179 to 181, 183, 184, 186,[^c10199381] 187 and 188 of the principal Act[^c-52e6f893041555d754fe1b3003e2ba12] shall have effect in relation to hazardous substances contravention notices subject to such modifications as he may specify in the regulations;
 - (d) make such other provision as he considers necessary or expedient in relation to hazardous substances contravention notices.
 
-(2)[^c10199391][^key-c6cfa9bf12b9518400eb9807c1c2f1ed] If any person appeals against a hazardous substances contravention notice, the notice shall subject to regulations under this section[^c10199401] be of no effect pending the final determination or the withdrawal of the appeal.
+(2)[^c10199391][^c-c6cfa9bf12b9518400eb9807c1c2f1ed] If any person appeals against a hazardous substances contravention notice, the notice shall subject to regulations under this section[^c10199401] be of no effect pending the final determination or the withdrawal of the appeal.
 
 (3) Regulations under section 24 or this section may make different provision for different cases or descriptions of cases.
 
 (4) Where any person has appealed to the Secretary of State under this section against a hazardous substances contravention notice, no person shall be entitled, in any other proceedings instituted after the making of the appeal, to claim that the notice was not duly served on the person who appealed.
 
-(5)[^key-b189a451b7f03aef81250822201fb0bc][^c10199411] Subsection (5) of section 250 of the Local Government Act 1972 (which authorises a Minister holding an inquiry under that section to make orders with respect to the costs of the parties) shall apply in relation to any proceedings in England[^key-1010bc5493cab22e3d439396824ee9c1] before the Secretary of State on an appeal under this section as if those proceedings were an inquiry held by the Secretary of State under section 250.
+(5)[^c-b189a451b7f03aef81250822201fb0bc][^c10199411] Subsection (5) of section 250 of the Local Government Act 1972 (which authorises a Minister holding an inquiry under that section to make orders with respect to the costs of the parties) shall apply in relation to any proceedings in England[^c-1010bc5493cab22e3d439396824ee9c1] before the Secretary of State on an appeal under this section as if those proceedings were an inquiry held by the Secretary of State under section 250.
 
-### 26. Transitional exemptions.[^key-4f0d527fa6c800d57a030904f3d5ea6f]
+### 26. Transitional exemptions.[^c-4f0d527fa6c800d57a030904f3d5ea6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -776,17 +776,17 @@ and every such register shall also contain such information as may be prescribed
 - (a) any hazardous substances consent granted or deemed to be granted or having effect by virtue of this Act; or
 - (b) any hazardous substances contravention notice issued under section 24,
 
-shall require or allow anything to be done in contravention of any of the relevant provisions[^key-c987d08ec6087c7b112f214bfecd39d6] or any prohibition notice or improvement notice [^key-73427a7b3a8bc1952dba84077e405eba]....
+shall require or allow anything to be done in contravention of any of the relevant provisions[^c-c987d08ec6087c7b112f214bfecd39d6] or any prohibition notice or improvement notice [^c-73427a7b3a8bc1952dba84077e405eba]....
 
 (2) To the extent that such a consent or notice purports to require or allow any such thing to be done, it shall be void.
 
-(3) Where it appears to a hazardous substances authority who have granted, or are deemed to have granted, a hazardous substances consent or who have issued a hazardous substances contravention notice that the consent or notice or part of it is rendered void by subsection (2), the authority shall, as soon as is reasonably practicable, consult the safety regulator[^key-de05b03ffce2c350b768316bfd5438ab] with regard to the matter.
+(3) Where it appears to a hazardous substances authority who have granted, or are deemed to have granted, a hazardous substances consent or who have issued a hazardous substances contravention notice that the consent or notice or part of it is rendered void by subsection (2), the authority shall, as soon as is reasonably practicable, consult the safety regulator[^c-de05b03ffce2c350b768316bfd5438ab] with regard to the matter.
 
-(4) If the safety regulator advises[^key-ddfc3e96cb5283b57bd831a836b6f43d] the authority that the consent or notice is rendered wholly void, the authority shall revoke it.
+(4) If the safety regulator advises[^c-ddfc3e96cb5283b57bd831a836b6f43d] the authority that the consent or notice is rendered wholly void, the authority shall revoke it.
 
-(5) If the safety regulator advises[^key-dff1c7d6ed37496d6c1e569cba4e8476] that part of the consent or notice is rendered void, the authority shall so modify it as to render it wholly operative.
+(5) If the safety regulator advises[^c-dff1c7d6ed37496d6c1e569cba4e8476] that part of the consent or notice is rendered void, the authority shall so modify it as to render it wholly operative.
 
-(6)[^key-307ef9858e17b1c7fc4f091512adeb37] In this section—
+(6)[^c-307ef9858e17b1c7fc4f091512adeb37] In this section—
 
 - “improvement notice” means a notice served under section 21 of the Health and Safety at Work etc. Act (“the 1974 Act”) or given under paragraph 3 of Schedule 8 to the Energy Act 2013 (“the 2013 Act”);
 - “prohibition notice” means a notice served under section 22 of the 1974 Act or given under paragraph 4 of Schedule 8 to the 2013 Act;
@@ -807,7 +807,7 @@ shall require or allow anything to be done in contravention of any of the releva
 - (a) that any application by such an authority for hazardous substances consent in respect of the presence of a hazardous substance on, over or under land shall be made to the Secretary of State and not to the hazardous substances authority;
 - (b) that any order or notice authorised to be made, issued or served under those provisions shall be made, issued or served by the Secretary of State and not by the hazardous substances authority.
 
-### 30A. Application to the Crown[^key-e9ed4e4cd615c0cf644ecc095b84720d]
+### 30A. Application to the Crown[^c-e9ed4e4cd615c0cf644ecc095b84720d]
 
 (1) This Act (except the provisions specified in subsection (2)) binds the Crown.
 
@@ -860,7 +860,7 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 
 (12) The established quantity in relation to any land is the maximum quantity which was present on, over or under the land at any one time within the establishment period.
 
-### 30C. Enforcement in relation to the Crown[^key-8e143839db4ec71a325a4f0950b924dc]
+### 30C. Enforcement in relation to the Crown[^c-8e143839db4ec71a325a4f0950b924dc]
 
 (1) No act or omission done or suffered by or on behalf of the Crown constitutes an offence under this Act.
 
@@ -924,7 +924,7 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 
 (9) But no such order may be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.
 
-### 31A. Applications for hazardous substances consent by Crown[^key-e510655f8695751cf5ae40bccb23a0e7]
+### 31A. Applications for hazardous substances consent by Crown[^c-e510655f8695751cf5ae40bccb23a0e7]
 
 (1) This section applies to an application for hazardous substances consent made by or on behalf of the Crown.
 
@@ -940,13 +940,13 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 
 ### 34. Ecclesiastical property.[^c10199891]
 
-(1) Where under any of the provisions of this Act a notice or copy of a notice is required to be served on an owner of land and the land is ecclesiastical property, a similar notice or copy of a notice shall be served on the Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*[^key-ad70e70589b891a3ea596870e6abbb21].
+(1) Where under any of the provisions of this Act a notice or copy of a notice is required to be served on an owner of land and the land is ecclesiastical property, a similar notice or copy of a notice shall be served on the Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*[^c-ad70e70589b891a3ea596870e6abbb21].
 
-(2) Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant *(Extent: E)*[^key-c66280913142df8aae7a4ea6b8b3b10a] and the property is situated elsewhere than in Wales, then for the purposes of this section, sections 8 and 22 and section 31(1), so far as it applies to section 8, and any other provisions of the planning Acts so far as they apply, or have effect for the purpose of, any of those provisions, it *(Extent: E)*[^key-00e71b60f40cb8594275edb39f115395] shall be treated as being vested in the Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*[^key-c815858c6e20f88d3e37992ad7d88bce].
+(2) Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant *(Extent: E)*[^c-c66280913142df8aae7a4ea6b8b3b10a] and the property is situated elsewhere than in Wales, then for the purposes of this section, sections 8 and 22 and section 31(1), so far as it applies to section 8, and any other provisions of the planning Acts so far as they apply, or have effect for the purpose of, any of those provisions, it *(Extent: E)*[^c-00e71b60f40cb8594275edb39f115395] shall be treated as being vested in the Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*[^c-c815858c6e20f88d3e37992ad7d88bce].
 
-(3) Any compensation payable under section 16 in respect of land which is ecclesiastical property shall be paid to the Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*[^key-cf8f4b2596762ed48ca5e69bec8df6fc] and shall [^key-4d9dea1d47d3a07f3bfa8549dd356a8c]... be applied by it *(Extent: E)*[^key-1151024a5f7bbfbc18ab0cace35082f9] for the purposes for which the proceeds of a sale by agreement of the land would be applicable under any enactment or Measure authorising or disposing of the proceeds of such a sale.
+(3) Any compensation payable under section 16 in respect of land which is ecclesiastical property shall be paid to the Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*[^c-cf8f4b2596762ed48ca5e69bec8df6fc] and shall [^c-4d9dea1d47d3a07f3bfa8549dd356a8c]... be applied by it *(Extent: E)*[^c-1151024a5f7bbfbc18ab0cace35082f9] for the purposes for which the proceeds of a sale by agreement of the land would be applicable under any enactment or Measure authorising or disposing of the proceeds of such a sale.
 
-(4) In this section “**ecclesiastical property**” means land belonging to an ecclesiastical benefice of the Church of England *(Extent: E)*[^key-6e525eeed098e2c1ee9fd313d0ce51d4], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese of the Church of England *(Extent: E)* or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction [^key-61077886f80dda86af9fc179bf9cec67]....
+(4) In this section “**ecclesiastical property**” means land belonging to an ecclesiastical benefice of the Church of England *(Extent: E)*[^c-6e525eeed098e2c1ee9fd313d0ce51d4], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese of the Church of England *(Extent: E)* or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction [^c-61077886f80dda86af9fc179bf9cec67]....
 
 ### 35. Application of Act to Isles of Scilly.[^c10199921]
 
@@ -987,7 +987,7 @@ the justice may issue a warrant authorising any person duly authorised in writin
 - (a) within one month from the date of the issue of the warrant; and
 - (b) at a reasonable hour, unless the case is one of urgency.
 
-### 36B. Rights of entry: supplementary provisions.[^c10200021][^key-8477aed4bc2512f3b11562c42ef38dca][^c10200011]
+### 36B. Rights of entry: supplementary provisions.[^c10200021][^c-8477aed4bc2512f3b11562c42ef38dca][^c10200011]
 
 (1) A person authorised to enter land in pursuance of a right of entry conferred under or by virtue of section 36 or 36A (referred to in this section as “**a right of entry**”)—
 
@@ -1020,7 +1020,7 @@ compensation may be recovered by any person suffering the damage from the author
 
 (8) Section 265(1) and (3) of the principal Act (meaning of “appropriate Minister”) applies for the purposes of subsection (7) as it applies for the purposes of section 325(9) of the principal Act.
 
-### 36C. Rights of entry: Crown land[^key-7ee1cc33c87901b3f5b645fff51a0c58]
+### 36C. Rights of entry: Crown land[^c-7ee1cc33c87901b3f5b645fff51a0c58]
 
 (1) Section 36 applies to Crown land subject to the following modifications.
 
@@ -1035,33 +1035,33 @@ compensation may be recovered by any person suffering the damage from the author
 
 (5) “**Appropriate authority**” must be construed in accordance with section 31(5).
 
-### 37. Application of certain general provisions of principal Act.[^c10200041][^key-6346a78bc689a0a3e6999b1e0a9cf242]
+### 37. Application of certain general provisions of principal Act.[^c10200041][^c-6346a78bc689a0a3e6999b1e0a9cf242]
 
 (1) The provisions of the principal Act specified in subsection (2) shall apply for the purposes of this Act as they apply for the purposes of that Act.
 
 (2) Those provisions are—
 
-- sections 319ZA to 319ZD (Wales: discharge of functions of local planning authority relating to applications)[^key-7a08afbc59ae638ea29a5c1ce2e70a26]
+- sections 319ZA to 319ZD (Wales: discharge of functions of local planning authority relating to applications)[^c-7a08afbc59ae638ea29a5c1ce2e70a26]
 - section 320 (local inquiries)
-- section 322 (orders as to costs of parties where no inquiry held[^c10200051] : England[^key-3eb4b76eee8e36da4a543819931e7fa6] )
+- section 322 (orders as to costs of parties where no inquiry held[^c10200051] : England[^c-3eb4b76eee8e36da4a543819931e7fa6] )
 - section 322A (orders as to costs: supplementary)[^c10200061]
-- section 322C (costs: Wales)[^key-296c2d04cc9ba37842aa0008691d8f26]
-- 323 (procedure on certain appeals and applications : England[^key-f34429f406347f57245c00b8a3a2a4b5] )
-- section 323A (procedure for certain proceedings: Wales)[^key-7da1b9e8dd7b6da6c294384604d39f82]
-- section 327ZA (powers as to form and content of applications in England);[^key-86d87c28df7ac76f4737367026b8532b]
+- section 322C (costs: Wales)[^c-296c2d04cc9ba37842aa0008691d8f26]
+- 323 (procedure on certain appeals and applications : England[^c-f34429f406347f57245c00b8a3a2a4b5] )
+- section 323A (procedure for certain proceedings: Wales)[^c-7da1b9e8dd7b6da6c294384604d39f82]
+- section 327ZA (powers as to form and content of applications in England);[^c-86d87c28df7ac76f4737367026b8532b]
 - section 329 (service of notices)
-- section 329A(1) and (2) (service of notices on the Crown)[^key-f19525b8414968b139c3a05d3729fa50]
+- section 329A(1) and (2) (service of notices on the Crown)[^c-f19525b8414968b139c3a05d3729fa50]
 - section 330 (power to require information as to interests in land)
-- section 330A(1) to (4) (information as to interests in Crown land)[^key-f890139dd0900d4510350e7899df7a4a]
+- section 330A(1) to (4) (information as to interests in Crown land)[^c-f890139dd0900d4510350e7899df7a4a]
 - section 331 (offences by corporations).
 
-(4)[^key-dda30ac4706190f7f8ec2c0154edec02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dda30ac4706190f7f8ec2c0154edec02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f1b5594c442710e8442a65cd9ffb8f5b] In section 327ZA of the principal Act as applied by this section, references to a planning application are to be read as references to an application under, or for the purposes of, any provision of this Act or any subordinate provision made under this Act (but are not to be read as including an application made in legal proceedings).
+(5)[^c-f1b5594c442710e8442a65cd9ffb8f5b] In section 327ZA of the principal Act as applied by this section, references to a planning application are to be read as references to an application under, or for the purposes of, any provision of this Act or any subordinate provision made under this Act (but are not to be read as including an application made in legal proceedings).
 
 ### 38. Financial provisions.[^c10200111]
 
-(1)[^c10200121][^key-bcc7440f89b88f27230bebb4d04f2d9c] Where—
+(1)[^c10200121][^c-bcc7440f89b88f27230bebb4d04f2d9c] Where—
 
 - (a) compensation is payable by a local authority under this Act in consequence of any decision or order given or made under sections 4 to 21 or the Schedule,
 - (b) that decision or order was given or made wholly or partly in the interest of a service which is provided by a government department and the cost of which is defrayed out of money provided by Parliament,
@@ -1074,7 +1074,7 @@ the Minister responsible for the administration of that service may pay to that 
 
 (4)[^c10200121] For the purposes of subsections (2) and (3), contributions made by an authority towards the expenditure of a joint advisory committee shall be deemed to be expenses incurred by that authority for the purposes for which that expenditure is incurred by the committee.
 
-(5)[^key-34cfeb4f0fb3a0bf427b2d3f85d94bd3] The council of a county may direct that any expenses incurred by them under sections 1, 3[^c10200171], 16, 20, 21 25(5)[^c10200181], 31, 34 and 36, the previous provisions of this section or the Schedule shall be treated as special expenses of a county council chargeable upon such part of the county as may be specified in the directions.
+(5)[^c-34cfeb4f0fb3a0bf427b2d3f85d94bd3] The council of a county may direct that any expenses incurred by them under sections 1, 3[^c10200171], 16, 20, 21 25(5)[^c10200181], 31, 34 and 36, the previous provisions of this section or the Schedule shall be treated as special expenses of a county council chargeable upon such part of the county as may be specified in the directions.
 
 (6) There shall be paid out of money provided by Parliament any expenses of the Secretary of State or any government department under this Act.
 
@@ -1087,13 +1087,13 @@ the Minister responsible for the administration of that service may pay to that 
 (1) In this Act —
 
 - “**contravention of hazardous substances control**” has the meaning given in section 23(2);
-- “[^key-3c656ef96c941b4b194fc8fccc77d358]**development consent**” means development consent under the Planning Act 2008;
+- “[^c-3c656ef96c941b4b194fc8fccc77d358]**development consent**” means development consent under the Planning Act 2008;
 - “**hazardous substances authority**” is to be construed in accordance with sections 1 and[^c10200861] 3;
 - “**hazardous substances consent**” means consent required by section 4;
 - “**hazardous substances contravention notice**” means such a notice as is mentioned in section 24(1);
-- “infrastructure consent has the meaning given in section 143 of the Infrastructure (Wales) Act 2024;[^key-c695560c890afa4c785a9fe6f50b69c1]
+- “infrastructure consent has the meaning given in section 143 of the Infrastructure (Wales) Act 2024;[^c-c695560c890afa4c785a9fe6f50b69c1]
 - “**the principal Act**” means the [^c10200871]Town and Country Planning Act 1990.
-- “the safety regulator” means—[^key-87e7297a2cbc71e1460f08b87ae74270]
+- “the safety regulator” means—[^c-87e7297a2cbc71e1460f08b87ae74270]
   - (a) in relation to land which is, or is on, a nuclear site (within the meaning of Part 3 of the Energy Act 2013), the Office for Nuclear Regulation;
   - (b) otherwise, the Health and Safety Executive.
 
@@ -1130,20 +1130,20 @@ but this subsection does not affect the meaning of “**owner**” in section 8.
 
 (3) For the purposes of sections 4 to 21 and 23 to 26 any two bodies corporate are to be treated as being one person if—
 
-- (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 1159 of the Companies Act 2006[^key-f45455de27b2f51af7d0dc44dab71712] ); or
+- (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 1159 of the Companies Act 2006[^c-f45455de27b2f51af7d0dc44dab71712] ); or
 - (b) both of them are subsidiaries (within the meaning of that Act) of one and the same body corporate.
 
 (4) For the purposes of sections [^c10200921] . . . 12 and 38(2) a public gas supplier shall be deemed to be a statutory undertaker [^c10200921] . . .
 
-(5) For the purposes of sections [^c10200941] . . . 12 and 38(2) the Environment Agency, the Natural Resources Body for Wales and every[^key-dbccf4f7167b37573ef026dea568342d] water or sewerage undertaker shall be deemed to be a statutory undertaker [^c10200941]. . .
+(5) For the purposes of sections [^c10200941] . . . 12 and 38(2) the Environment Agency, the Natural Resources Body for Wales and every[^c-dbccf4f7167b37573ef026dea568342d] water or sewerage undertaker shall be deemed to be a statutory undertaker [^c10200941]. . .
 
-(6) For the purposes of section 38(2) a universal service provider (within the meaning of[^c10200961] Part 3 of the Postal Services Act 2011[^key-d11cad3929b11f066bc4331c32c2cfea] ) in connection with the provision of a universal postal service (within the meaning of that Part[^key-b36920b13378ef71bdb9711ccfaf7f9b] ), the Civil Aviation Authority , a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)[^c10200971] and any holder of a licence under section 6(1) of the [^c10200981]Electricity Act 1989 shall be deemed to be statutory undertakers [^c10200921] . . .
+(6) For the purposes of section 38(2) a universal service provider (within the meaning of[^c10200961] Part 3 of the Postal Services Act 2011[^c-d11cad3929b11f066bc4331c32c2cfea] ) in connection with the provision of a universal postal service (within the meaning of that Part[^c-b36920b13378ef71bdb9711ccfaf7f9b] ), the Civil Aviation Authority , a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)[^c10200971] and any holder of a licence under section 6(1) of the [^c10200981]Electricity Act 1989 shall be deemed to be statutory undertakers [^c10200921] . . .
 
 (7)[^c10201001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8)[^c10201001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Regulations and orders.[^c10201021][^key-7362ff04b9665ad1e1915a4d10a04d1b]
+### 40. Regulations and orders.[^c10201021][^c-7362ff04b9665ad1e1915a4d10a04d1b]
 
 (1) The Secretary of State may make regulations under this Act for any purpose for which regulations are authorised or required to be made under this Act, not being a purpose for which regulations are authorised or required to be made by another Minister.
 
@@ -1151,17 +1151,17 @@ but this subsection does not affect the meaning of “**owner**” in section 8.
 
 (3) Any statutory instrument containing regulations made under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4)[^key-5a1c8cf14a286f56fe833e19b3f494f2] Regulations may make different provision for different purposes.
+(4)[^c-5a1c8cf14a286f56fe833e19b3f494f2] Regulations may make different provision for different purposes.
 
-(5)[^key-7f87d174050038f8665af1fa9505e1b4] Regulations made under this Act and orders made under this Act by statutory instrument may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+(5)[^c-7f87d174050038f8665af1fa9505e1b4] Regulations made under this Act and orders made under this Act by statutory instrument may make consequential, supplementary, incidental, transitional, transitory or saving provision.
 
 ### 41. Short title, commencement and extent.
 
 (1) This Act may be cited as the Planning (Hazardous Substances) Act 1990.
 
-(2)[^key-95a387ab8e767951b4c73427048feac5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-95a387ab8e767951b4c73427048feac5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^c10201051] [^key-7f8145a52c2533424a688ba25b4debea]... The provisions of this Act (other than this section) shall come into force on such day as may be appointed by the Secretary of State by order made by statutory instrument and—
+(3)[^c10201051] [^c-7f8145a52c2533424a688ba25b4debea]... The provisions of this Act (other than this section) shall come into force on such day as may be appointed by the Secretary of State by order made by statutory instrument and—
 
 - (a) different days may be appointed for different provisions or for different purposes; and
 - (b) an order may make such transitional provision as the Secretary of State thinks appropriate.
@@ -1265,28 +1265,28 @@ then so far as the context permits it shall be construed, in relation to an appe
 
 (2) Where an appointed person—
 
-- (a) holds a hearing by virtue of paragraph 2(4) or this paragraph[^key-0771b2e87a986b6278dda7a7daf9855f]; or
+- (a) holds a hearing by virtue of paragraph 2(4) or this paragraph[^c-0771b2e87a986b6278dda7a7daf9855f]; or
 - (b) holds an inquiry by virtue of this paragraph,
 
 an assessor may be appointed by the Secretary of State to sit with the appointed person at the hearing or inquiry to advise him on any matters arising, notwithstanding that the appointed person is to determine the appeal.
 
 (3) Subject to sub-paragraph (4), the costs—
 
-- (a) of any hearing held by virtue of paragraph 2(4) or this paragraph[^key-e3c7b7bd604dc40954d9d3f30f904602]; and
+- (a) of any hearing held by virtue of paragraph 2(4) or this paragraph[^c-e3c7b7bd604dc40954d9d3f30f904602]; and
 - (b) of any inquiry held under this paragraph,
 
 shall be defrayed by the Secretary of State.
 
-(4) Section 250(2) to (5) of the [^c10201121]Local Government Act 1972 (local inquiries: evidence and costs) applies to an inquiry held by virtue of this paragraph in England[^key-7a25e095eb0193162c77c2f78103696f] with the following adaptations—
+(4) Section 250(2) to (5) of the [^c10201121]Local Government Act 1972 (local inquiries: evidence and costs) applies to an inquiry held by virtue of this paragraph in England[^c-7a25e095eb0193162c77c2f78103696f] with the following adaptations—
 
 - (a) for the references in subsection (4) (recovery of costs of holding the inquiry) to the Minister causing the inquiry to be held there shall be substituted references to the Secretary of State; and
 - (b) for the reference in subsection (5) (orders as to the costs of the parties) to the Minister causing the inquiry to be held there shall be substituted a reference to the appointed person or the Secretary of State.
 
-(4A)[^key-8e4850802670c62869aaacbbf34d0f19] Subsections (2) and (3) of that section apply to an inquiry held under this paragraph in Wales.
+(4A)[^c-8e4850802670c62869aaacbbf34d0f19] Subsections (2) and (3) of that section apply to an inquiry held under this paragraph in Wales.
 
-(5) Subject to sub-paragraph (6), at any inquiry held by virtue of this paragraph[^key-b9388c2962a49ab03b73dddf187d394c] oral evidence shall be heard in public and documentary evidence shall be open to public inspection.
+(5) Subject to sub-paragraph (6), at any inquiry held by virtue of this paragraph[^c-b9388c2962a49ab03b73dddf187d394c] oral evidence shall be heard in public and documentary evidence shall be open to public inspection.
 
-(6)[^key-f898b59fc37289937bb94908401772de] If the Secretary of State is satisfied in the case of any such inquiry—
+(6)[^c-f898b59fc37289937bb94908401772de] If the Secretary of State is satisfied in the case of any such inquiry—
 
 - (a) that giving evidence of a particular description or, as the case may be, making it available for inspection would be likely to result in the disclosure of information as to any of the matters mentioned in sub-paragraph (7); and
 - (b) that the public disclosure of that information would be contrary to the national interest,
@@ -1298,9 +1298,9 @@ he may direct that evidence of the description indicated in the direction shall 
 - (a) national security; and
 - (b) the measures taken or to be taken to ensure the security of any premises or property.
 
-(8)[^key-4f22b7869b41899d994398eb43c44d5c][^c10201131] The appointed person or the Secretary of State has the same power to make orders under section 250(5) of the [^c10201141]Local Government Act 1972 (orders with respect to costs of the parties) in relation to proceedings in England[^key-f0018af0457152c4fe57a96613bf3ed8] under this Schedule which do not give rise to an inquiry as he has in relation to such an inquiry.
+(8)[^c-4f22b7869b41899d994398eb43c44d5c][^c10201131] The appointed person or the Secretary of State has the same power to make orders under section 250(5) of the [^c10201141]Local Government Act 1972 (orders with respect to costs of the parties) in relation to proceedings in England[^c-f0018af0457152c4fe57a96613bf3ed8] under this Schedule which do not give rise to an inquiry as he has in relation to such an inquiry.
 
-**6A.**[^key-49bf14f4016454734dbd0165b976e077] (1) If the Secretary of State is considering giving a direction under paragraph 6(6) the Attorney General may appoint a person to represent the interests of any person who will be prevented from hearing or inspecting any evidence at a local inquiry if the direction is given.
+**6A.**[^c-49bf14f4016454734dbd0165b976e077] (1) If the Secretary of State is considering giving a direction under paragraph 6(6) the Attorney General may appoint a person to represent the interests of any person who will be prevented from hearing or inspecting any evidence at a local inquiry if the direction is given.
 
 (2) If before the Secretary of State gives a direction under paragraph 6(6) no person is appointed under sub-paragraph (1), the Attorney General may at any time appoint a person as mentioned in sub-paragraph (1) for the purposes of the inquiry.
 
@@ -1334,12 +1334,12 @@ he may direct that evidence of the description indicated in the direction shall 
 
 **7.**[^c10201351] (1) The Tribunals and Inquiries Act 1992[^c10201371] shall apply to a local inquiry or other hearing held in pursuance of this Schedule as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1)[^c10201381] of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State were a reference to a decision taken by an appointed person.
 
-(2) Where an appointed person is an officer of the Ministry of Housing, Communities and Local Government[^key-0d0e1e2dff97409983a34011c322c0ee] or the Welsh Office the functions of determining an appeal and doing anything in connection with it conferred on him by this Schedule shall be treated for the purposes of the [^c10201401]Parliamentary Commissioner Act 1967—
+(2) Where an appointed person is an officer of the Ministry of Housing, Communities and Local Government[^c-0d0e1e2dff97409983a34011c322c0ee] or the Welsh Office the functions of determining an appeal and doing anything in connection with it conferred on him by this Schedule shall be treated for the purposes of the [^c10201401]Parliamentary Commissioner Act 1967—
 
 - (a) if he was appointed by the Secretary of State for the time being having general responsibility in planning matters in relation to England, as functions of that Department; and
 - (b) if he was appointed by the Secretary of State for the time being having general responsibility in planning matters in relation to Wales, as functions of the Welsh Office.
 
-### Local inquiries: Wales[^key-7172d3b882230ebbb50af3879372c950]
+### Local inquiries: Wales[^c-7172d3b882230ebbb50af3879372c950]
 
 **8.** (1) This paragraph applies in relation to a local inquiry held in pursuance of this Schedule if the matter in respect of which the inquiry is to be held relates to Wales.
 
@@ -1597,17 +1597,17 @@ The following abbreviations are used in this Table:—
 
     Act (except ss. 12(2), 31(6)): transfer of certain functions in relation to Wales (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-15d1a67e8a71dd8780a676b646ee4da2]: Modification: Act modified (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 38](https://www.legislation.gov.uk/ukpga/2004/5/section/38) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/c); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/2))
+[^c-15d1a67e8a71dd8780a676b646ee4da2]: Modification: Act modified (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 38](https://www.legislation.gov.uk/ukpga/2004/5/section/38) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/c); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/2))
 
-[^key-2e83f2e1bb19c8da19e7af7975e12eb3]: Modification: Act modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-2e83f2e1bb19c8da19e7af7975e12eb3]: Modification: Act modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-24ecdf468c9238ff7633e9f3d9053789]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10) applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-24ecdf468c9238ff7633e9f3d9053789]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10) applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
-[^key-06d3e12952dc3a3bbd694b8830ee9c34]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10) applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/6/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [46](https://www.legislation.gov.uk/wsi/2016/56/regulation/46))
+[^c-06d3e12952dc3a3bbd694b8830ee9c34]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10) applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/6/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [46](https://www.legislation.gov.uk/wsi/2016/56/regulation/46))
 
-[^key-61669cd201f573edfae367ea175b3f5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-61669cd201f573edfae367ea175b3f5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-23abc865b2b903990d951e610a561df5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-23abc865b2b903990d951e610a561df5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/10): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c10197911]: Commencement: S. 1 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 1 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
@@ -1615,7 +1615,7 @@ The following abbreviations are used in this Table:—
 
 [^c10197931]: Textual amendment: Words repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-3a50dcda3490190ad8fd5f323f922e04]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1990/10/section/1) inserted (23.10.2007 for specified purposes, 6.4.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/31/4), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-3a50dcda3490190ad8fd5f323f922e04]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1990/10/section/1) inserted (23.10.2007 for specified purposes, 6.4.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/31/4), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
 
 [^c10197961]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1990/10/section/2) repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 13 para. 2(1)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/paragraph/2/1), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
@@ -1627,19 +1627,19 @@ The following abbreviations are used in this Table:—
 
 [^c10198161]: Textual amendment: Words in s. 3(3)-(5A) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2560/schedule)
 
-[^key-d53535ebdf5fb8bad56a903372906f7b]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/4) substituted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 4(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/4/a/i) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-d53535ebdf5fb8bad56a903372906f7b]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/4) substituted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 4(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/4/a/i) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
 
-[^key-462e048f253b85b6dfc188f765633b43]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/4) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 4(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/4/a/ii) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-462e048f253b85b6dfc188f765633b43]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/4) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 4(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/4/a/ii) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
 
-[^key-b0f9d9381f80bcbf48445d3274046b81]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/4A) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 4(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/4/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-b0f9d9381f80bcbf48445d3274046b81]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/4A) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 4(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/4/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
 
 [^c10198181]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-36d587804bc7f8798b14cee8573e8f6a]: Textual amendment: S. 3(5A)(5B) substituted (1.12.2008) for s. 3(5A) (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/54); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6), [6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-36d587804bc7f8798b14cee8573e8f6a]: Textual amendment: S. 3(5A)(5B) substituted (1.12.2008) for s. 3(5A) (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/54); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6), [6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-1dd5c36bbb0cedbf4e4da5a27944d38a]: Textual amendment: [S. 3(5C)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/5C) inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 40](https://www.legislation.gov.uk/anaw/2015/4/section/40), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(b)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/b)
+[^c-1dd5c36bbb0cedbf4e4da5a27944d38a]: Textual amendment: [S. 3(5C)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/5C) inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 40](https://www.legislation.gov.uk/anaw/2015/4/section/40), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(b)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/b)
 
-[^key-a47bba50bac7c56212af6bdc907648a4]: Textual amendment: Words in [s. 3(5C)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/5C) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/8)
+[^c-a47bba50bac7c56212af6bdc907648a4]: Textual amendment: Words in [s. 3(5C)](https://www.legislation.gov.uk/ukpga/1990/10/section/3/5C) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/8)
 
 [^c10198221]: Textual amendment: S. 3(6) repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
@@ -1659,7 +1659,7 @@ The following abbreviations are used in this Table:—
 
 [^c10198331]: Modification: S. 5 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-219249b6313b598c7bb37a3650b6866c]: Textual amendment: Words in s. 5(3) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/7), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-219249b6313b598c7bb37a3650b6866c]: Textual amendment: Words in s. 5(3) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/7), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c10198341]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/1990/10/section/6) wholly in force at 1.6.1992; [s. 6](https://www.legislation.gov.uk/ukpga/1990/10/section/6) in force for certain purposes at 11.3.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 2, 3
 
@@ -1671,7 +1671,7 @@ The following abbreviations are used in this Table:—
 
 [^c10198411]: Textual amendment: Words inserted (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 3](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/3); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-f44e7efebb3ce1c197fffd89a8bb14a9]: Textual amendment: Words in s. 7(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f44e7efebb3ce1c197fffd89a8bb14a9]: Textual amendment: Words in s. 7(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c10198431]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/1990/10/section/8) wholly in force at 1.6.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 3; [s. 8](https://www.legislation.gov.uk/ukpga/1990/10/section/8) in force for certain purposes at 11.3.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 2
 
@@ -1683,19 +1683,19 @@ The following abbreviations are used in this Table:—
 
 [^c10198481]: Modification: S. 9 power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-a7bf7652cb7c2ddcfd03e700fe93b2ce]: Modification: S. 9 applied in part (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2015/627/regulation/23/4) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-a7bf7652cb7c2ddcfd03e700fe93b2ce]: Modification: S. 9 applied in part (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2015/627/regulation/23/4) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-1a8820ae32aadcae7052f277393083e1]: Modification: S. 9 applied (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [25(4)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/25/4) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-1a8820ae32aadcae7052f277393083e1]: Modification: S. 9 applied (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [25(4)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/25/4) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c10198491]: Modification: S. 9(1): functions of local authority not to be the responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-34a1aead2f7de7edda225f275f24eb2c]: Textual amendment: Words in [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1990/10/section/9/2/c) inserted (27.3.2017) by [The Housing and Planning Act 2016 (Permission in Principle etc) (Miscellaneous Amendments) (England) Regulations 2017 (S.I. 2017/276)](https://www.legislation.gov.uk/uksi/2017/276), [regs. 1](https://www.legislation.gov.uk/uksi/2017/276/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/276/regulation/4/2)
+[^c-34a1aead2f7de7edda225f275f24eb2c]: Textual amendment: Words in [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1990/10/section/9/2/c) inserted (27.3.2017) by [The Housing and Planning Act 2016 (Permission in Principle etc) (Miscellaneous Amendments) (England) Regulations 2017 (S.I. 2017/276)](https://www.legislation.gov.uk/uksi/2017/276), [regs. 1](https://www.legislation.gov.uk/uksi/2017/276/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/276/regulation/4/2)
 
-[^key-96aabf82f9e2cb868f0de5e153c035aa]: Textual amendment: Words in [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1990/10/section/9/2/c) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-96aabf82f9e2cb868f0de5e153c035aa]: Textual amendment: Words in [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1990/10/section/9/2/c) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
-[^key-b693c50cc0ed5bec5238a5ca82830ef5]: Textual amendment: Words in s. 9(2)(c) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/43) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-b693c50cc0ed5bec5238a5ca82830ef5]: Textual amendment: Words in s. 9(2)(c) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/43) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-74ed83ed906116b3ee0af167004ee96c]: Textual amendment: Words in s. 9(2)(e) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/7) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-74ed83ed906116b3ee0af167004ee96c]: Textual amendment: Words in s. 9(2)(e) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/7) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c10198531]: Commencement: S. 10 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 10 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
@@ -1703,15 +1703,15 @@ The following abbreviations are used in this Table:—
 
 [^c10198551]: Modification: S. 10: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-dca935779b2d4bb8110123b040bbd7db]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/10/1) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/3) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-dca935779b2d4bb8110123b040bbd7db]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/10/1) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/3) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
-[^key-aa091507da92962118c3cf96de576eaf]: Textual amendment: Words in s. 10(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/44) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-aa091507da92962118c3cf96de576eaf]: Textual amendment: Words in s. 10(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/44) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c10198561]: Textual amendment: Words "A hazardous substances authority" substituted (1.1.1992) for words commencing "An authority" by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 2(3)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/2/3); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-f9dfec87f4a51d9d90f9021e292b68a2]: Textual amendment: Words in s. 10(2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f9dfec87f4a51d9d90f9021e292b68a2]: Textual amendment: Words in s. 10(2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-b04981bac4d208c1913fc898b447f79f]: Textual amendment: [S. 10(4)](https://www.legislation.gov.uk/ukpga/1990/10/section/10/4) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/6), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
+[^c-b04981bac4d208c1913fc898b447f79f]: Textual amendment: [S. 10(4)](https://www.legislation.gov.uk/ukpga/1990/10/section/10/4) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/6), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
 
 [^c10198651]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/1990/10/section/11) wholly in force at 1.6.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 3; [s. 11](https://www.legislation.gov.uk/ukpga/1990/10/section/11) in force for certain purposes at 11.3.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art 2
 
@@ -1741,19 +1741,19 @@ The following abbreviations are used in this Table:—
 
 [^c10198801]: Textual amendment: S. 12(2A) inserted (1.1.1993) by [Transport and Works Act 1992 (c. 42, SIF 102)](https://www.legislation.gov.uk/ukpga/1992/42), [s.18](https://www.legislation.gov.uk/ukpga/1992/42/section/18); [S.I. 1992/2784](https://www.legislation.gov.uk/uksi/1992/2784), [art. 2](https://www.legislation.gov.uk/uksi/1992/2784/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2784/schedule/1)
 
-[^key-aaf37ba675a755f013a18067b2895796]: Textual amendment: [S. 12(2B)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/2B) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(2)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/2) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-aaf37ba675a755f013a18067b2895796]: Textual amendment: [S. 12(2B)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/2B) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(2)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/2) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-688475a32fa38f4fa491243ea8d7b851]: Textual amendment: [S. 12(2C)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/2C) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/4) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-688475a32fa38f4fa491243ea8d7b851]: Textual amendment: [S. 12(2C)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/2C) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/4) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
-[^key-f5d2fc243ef9666c437b3135f2a572fd]: Textual amendment: [S. 12(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/3) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/3) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-f5d2fc243ef9666c437b3135f2a572fd]: Textual amendment: [S. 12(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/3) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/3) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-cd3a1c629a0b1d9068d4cace8aafd33b]: Textual amendment: Word in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/3) substituted (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [3](https://www.legislation.gov.uk/uksi/2025/1330/article/3)
+[^c-cd3a1c629a0b1d9068d4cace8aafd33b]: Textual amendment: Word in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/3) substituted (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [3](https://www.legislation.gov.uk/uksi/2025/1330/article/3)
 
 [^c10198811]: Textual amendment: S. 12(6) added (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 5](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/5); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-5d4b16803ab7ff14abd30ae30e0a2409]: Textual amendment: Word in [s. 12(6)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/6) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(4)(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/4/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-5d4b16803ab7ff14abd30ae30e0a2409]: Textual amendment: Word in [s. 12(6)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/6) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(4)(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/4/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-292adf7e0f37079f75684de584bda37e]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/6) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(4)(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/4/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-292adf7e0f37079f75684de584bda37e]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/1990/10/section/12/6) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 45(4)(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/45/4/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c10198831]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/1990/10/section/13) wholly in force at 1.6.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art.3; [s. 13](https://www.legislation.gov.uk/ukpga/1990/10/section/13) in force for certain purposes at 11.3.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 2
 
@@ -1765,11 +1765,11 @@ The following abbreviations are used in this Table:—
 
 [^c10198871]: Modification: S. 14 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-7e2b14d49f07a46d30e7e2499b26b4ce]: Textual amendment: Words in [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/14/2/b) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/5) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-7e2b14d49f07a46d30e7e2499b26b4ce]: Textual amendment: Words in [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/14/2/b) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/5) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
-[^key-c8a3a6cdf97525549c6b82da3f694f32]: Textual amendment: Words in [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/14/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/46/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-c8a3a6cdf97525549c6b82da3f694f32]: Textual amendment: Words in [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/14/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/46/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-7b315e0a44a5fcacf3ee5dea8cc8a281]: Textual amendment: Words in [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/14/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/46/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-7b315e0a44a5fcacf3ee5dea8cc8a281]: Textual amendment: Words in [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/14/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/46/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c10198891]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/1990/10/section/15) wholly in force at 1.6.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 3; [s. 14](https://www.legislation.gov.uk/ukpga/1990/10/section/14) in force for certain purposes at 11.3.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 2
 
@@ -1783,13 +1783,13 @@ The following abbreviations are used in this Table:—
 
 [^c10198941]: Modification: S. 17 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-ad94169517bc001839dcb4d5fd3dbd27]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/17/3) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/20) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
+[^c-ad94169517bc001839dcb4d5fd3dbd27]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/17/3) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/20) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
 
 [^c10198961]: Commencement: S. 18 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; S. 18 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
 [^c10198971]: Modification: S. 18 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-1bbe82bce260e227da9de99bac9e649a]: Textual amendment: Words in [s. 18(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/18/2/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/9) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1bbe82bce260e227da9de99bac9e649a]: Textual amendment: Words in [s. 18(2)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/18/2/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/9) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c10198991]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/1990/10/section/19) wholly in force at 1.6.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 3; [S. 19](https://www.legislation.gov.uk/ukpga/1990/10/section/19) in force for certain purposes at 11.3.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/10/section/I). 1992/725, art. 2
 
@@ -1799,7 +1799,7 @@ The following abbreviations are used in this Table:—
 
 [^c10199031]: Modification: S. 20 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-e0b4ee8272047ac6733a1ab13779960f]: Textual amendment: [S. 20(4B)](https://www.legislation.gov.uk/ukpga/1990/10/section/20/4B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/25)
+[^c-e0b4ee8272047ac6733a1ab13779960f]: Textual amendment: [S. 20(4B)](https://www.legislation.gov.uk/ukpga/1990/10/section/20/4B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/25)
 
 [^c10199041]: Textual amendment: S. 20(6) repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
@@ -1807,41 +1807,41 @@ The following abbreviations are used in this Table:—
 
 [^c10199071]: Modification: S. 21 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-3f08f2d0b1cf989f7fca15054a4727e1]: Textual amendment: S. 21(3A)-(3D) inserted (6.4.2009 for E., 30.4.2012 for W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/6) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d); [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-3f08f2d0b1cf989f7fca15054a4727e1]: Textual amendment: S. 21(3A)-(3D) inserted (6.4.2009 for E., 30.4.2012 for W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/6) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d); [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-c9f12f796d92e1151c7ea77da0891dcf]: Textual amendment: [S. 21(3E)](https://www.legislation.gov.uk/ukpga/1990/10/section/21/3E)[(3F)](https://www.legislation.gov.uk/ukpga/1990/10/section/21/3F) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 47(4)](https://www.legislation.gov.uk/anaw/2015/4/section/47/4), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/546/article/3/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2017/546/article/4))
+[^c-c9f12f796d92e1151c7ea77da0891dcf]: Textual amendment: [S. 21(3E)](https://www.legislation.gov.uk/ukpga/1990/10/section/21/3E)[(3F)](https://www.legislation.gov.uk/ukpga/1990/10/section/21/3F) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 47(4)](https://www.legislation.gov.uk/anaw/2015/4/section/47/4), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/546/article/3/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2017/546/article/4))
 
-[^key-2998aff48e6306b9b1a2054f639ab33f]: Textual amendment: S. 21(5B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/26)
+[^c-2998aff48e6306b9b1a2054f639ab33f]: Textual amendment: S. 21(5B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/26)
 
 [^c10199081]: Textual amendment: S. 21(7) repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-869845684468ead43ea2f99ff05639f4]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/ukpga/1990/10/section/21A) inserted (6.4.2009 for E.W. for specified purposes, 25.4.2024 for specified purposes) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 196(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/196/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/400/article/6/2)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/a)
+[^c-869845684468ead43ea2f99ff05639f4]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/ukpga/1990/10/section/21A) inserted (6.4.2009 for E.W. for specified purposes, 25.4.2024 for specified purposes) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 196(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/196/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/400/article/6/2)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/a)
 
-[^key-c5d64ac2daefefcc6a30132f137f5bba]: Textual amendment: Words in s. 21A(2) substituted (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2020/16/section/20/3/a), [25(3)(c)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/c)
+[^c-c5d64ac2daefefcc6a30132f137f5bba]: Textual amendment: Words in s. 21A(2) substituted (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2020/16/section/20/3/a), [25(3)(c)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/c)
 
-[^key-fcbb3b6a6b27a58528b89b2b12756235]: Textual amendment: Word in s. 21A(2) omitted (22.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/20/3/b), [25(3)(c)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/c)
+[^c-fcbb3b6a6b27a58528b89b2b12756235]: Textual amendment: Word in s. 21A(2) omitted (22.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/20/3/b), [25(3)(c)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/c)
 
-[^key-8987e1681dc95852d9c791e42f4e8e8f]: Textual amendment: S. 21A(9)(a) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(8)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/8/a), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-8987e1681dc95852d9c791e42f4e8e8f]: Textual amendment: S. 21A(9)(a) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(8)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/8/a), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-3e9869e89b2746a1a03574a219f392f7]: Textual amendment: S. 21B inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2014/2773/article/2/3)
+[^c-3e9869e89b2746a1a03574a219f392f7]: Textual amendment: S. 21B inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2014/2773/article/2/3)
 
-[^key-5bdd6d90a861090981afce3db9b3b7a1]: Textual amendment: S. 21B(7)(c) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Determination of Procedure) (Wales) Order 2017 (S.I. 2017/529)](https://www.legislation.gov.uk/wsi/2017/529), [art. 2(2)](https://www.legislation.gov.uk/wsi/2017/529/article/2/2), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/529/regulation/1/2)
+[^c-5bdd6d90a861090981afce3db9b3b7a1]: Textual amendment: S. 21B(7)(c) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Determination of Procedure) (Wales) Order 2017 (S.I. 2017/529)](https://www.legislation.gov.uk/wsi/2017/529), [art. 2(2)](https://www.legislation.gov.uk/wsi/2017/529/article/2/2), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/529/regulation/1/2)
 
-[^key-107b2c450fe76066f5562338a209776b]: Textual amendment: S. 21B(9)(a) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(8)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/8/b), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-107b2c450fe76066f5562338a209776b]: Textual amendment: S. 21B(9)(a) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(8)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/8/b), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c10199151]: Modification: S. 22 modified by [S.I. 1992/656](https://www.legislation.gov.uk/uksi/1992/656), [reg. 26(5)](https://www.legislation.gov.uk/uksi/1992/656/regulation/26/5)
 
 [^c10199161]: Commencement: S. 22 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 22 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
-[^key-cf20378f9848e4204bcfc2862829be0b]: Modification: S. 22 applied (28.9.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/58/6) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
+[^c-cf20378f9848e4204bcfc2862829be0b]: Modification: S. 22 applied (28.9.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/58/6) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
 
-[^key-db086a8656e3c79c50469ca93e75d15d]: Modification: S. 22 modified (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2015/627/regulation/23/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-db086a8656e3c79c50469ca93e75d15d]: Modification: S. 22 modified (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2015/627/regulation/23/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-c0a2d3fbc1650ce6c861186b2f88f9f3]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/2) omitted (26.10.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 16 para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/16/paragraph/7/2); [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-c0a2d3fbc1650ce6c861186b2f88f9f3]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/2) omitted (26.10.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 16 para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/16/paragraph/7/2); [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-372a5d7569378fd453bf6eebe5c65339]: Textual amendment: [S. 22(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/2A) inserted (26.10.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 16 para. 7(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/16/paragraph/7/3); [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-372a5d7569378fd453bf6eebe5c65339]: Textual amendment: [S. 22(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/2A) inserted (26.10.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 16 para. 7(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/16/paragraph/7/3); [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-6f43e8c3b09e49da3fff400383afc9c7]: Textual amendment: Words in [s. 22(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/3) inserted (26.10.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 16 para. 7(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/16/paragraph/7/4); [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-6f43e8c3b09e49da3fff400383afc9c7]: Textual amendment: Words in [s. 22(3)](https://www.legislation.gov.uk/ukpga/1990/10/section/22/3) inserted (26.10.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 16 para. 7(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/16/paragraph/7/4); [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
 [^c10199171]: Textual amendment: Words "principal Act" substituted (1.1.1992) for words "1971 Act" by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 7](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/7); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
@@ -1853,9 +1853,9 @@ The following abbreviations are used in this Table:—
 
 [^c10199211]: Modification: S. 23: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-14fd670f848fe471164748ce16711ede]: Modification: S. 23 restricted (E.) (28.4.2010) by [The Planning (Hazardous Substances) (Amendment) (England) Regulations 2010 (S.I. 2010/1050)](https://www.legislation.gov.uk/uksi/2010/1050), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1050/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1050/regulation/3)
+[^c-14fd670f848fe471164748ce16711ede]: Modification: S. 23 restricted (E.) (28.4.2010) by [The Planning (Hazardous Substances) (Amendment) (England) Regulations 2010 (S.I. 2010/1050)](https://www.legislation.gov.uk/uksi/2010/1050), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1050/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1050/regulation/3)
 
-[^key-8429abdba7e87c9848f38afef4349da4]: Textual amendment: Words in s. 23(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/20) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-8429abdba7e87c9848f38afef4349da4]: Textual amendment: Words in s. 23(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/20) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c10199231]: Textual amendment: S. 23(4A) substituted (2.1.1992) for the words following s. 23(4)(b) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 25](https://www.legislation.gov.uk/ukpga/1991/34/section/25), [Sch. 3 Pt. I para. 10(b)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3/part/I/paragraph/10/b) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3)
 
@@ -1879,7 +1879,7 @@ The following abbreviations are used in this Table:—
 
 [^c10199351]: Modification: S. 25 Power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-664f895f61cb14190b48c05b3c04fe66]: Modification: S. 25 modified (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2015/627/regulation/19/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-664f895f61cb14190b48c05b3c04fe66]: Modification: S. 25 modified (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2015/627/regulation/19/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
 [^c10199361]: Textual amendment: Words in s. 25(1)(b)(v) (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 25](https://www.legislation.gov.uk/ukpga/1991/34/section/25), [Sch. 3 Pt. II para. 30(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3/part/II/paragraph/30/a) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3)
 
@@ -1887,21 +1887,21 @@ The following abbreviations are used in this Table:—
 
 [^c10199381]: Textual amendment: Word "186," inserted (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/8); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-52e6f893041555d754fe1b3003e2ba12]: Textual amendment: Words in s. 25(1)(c) substituted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/27/b)
+[^c-52e6f893041555d754fe1b3003e2ba12]: Textual amendment: Words in s. 25(1)(c) substituted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/27/b)
 
 [^c10199391]: Modification: S. 25(2) restricted (1.6.1992) by [S.I. 1992/656](https://www.legislation.gov.uk/uksi/1992/656), [reg. 22(2)](https://www.legislation.gov.uk/uksi/1992/656/regulation/22/2)
 
-[^key-c6cfa9bf12b9518400eb9807c1c2f1ed]: Modification: S. 25(2) modified (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [20(2)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/20/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-c6cfa9bf12b9518400eb9807c1c2f1ed]: Modification: S. 25(2) modified (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [20(2)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/20/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c10199401]: Textual amendment: Words in s. 25(2) inserted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 25](https://www.legislation.gov.uk/ukpga/1991/34/section/25), [Sch. 3 Pt. I para.13](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3/part/I/paragraph/13) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3)
 
-[^key-b189a451b7f03aef81250822201fb0bc]: Modification: S. 25(5): transitory modification by [1990 c. 11](https://www.legislation.gov.uk/ukpga/1990/11), Sch. 4 para. 13 falls (6.4.2009) for further specified purposes by virtue of [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
+[^c-b189a451b7f03aef81250822201fb0bc]: Modification: S. 25(5): transitory modification by [1990 c. 11](https://www.legislation.gov.uk/ukpga/1990/11), Sch. 4 para. 13 falls (6.4.2009) for further specified purposes by virtue of [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
 
 [^c10199411]: Textual amendment: S. 25(5) inserted (temp.) by virtue of [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 6](https://www.legislation.gov.uk/ukpga/1990/11/section/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4/paragraph/1), [13](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4/paragraph/13) (which temp. insertion falls (2.1.1992) for specified purposes only by virtue of [S.I. 1991/2698](https://www.legislation.gov.uk/uksi/1991/2698), [arts. 3](https://www.legislation.gov.uk/uksi/1991/2698/article/3), [4](https://www.legislation.gov.uk/uksi/1991/2698/article/4))
 
-[^key-1010bc5493cab22e3d439396824ee9c1]: Textual amendment: Words in [s. 25(5)](https://www.legislation.gov.uk/ukpga/1990/10/section/25/5) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 24](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/24); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(i)](https://www.legislation.gov.uk/wsi/2016/52/article/4/i) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-1010bc5493cab22e3d439396824ee9c1]: Textual amendment: Words in [s. 25(5)](https://www.legislation.gov.uk/ukpga/1990/10/section/25/5) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 24](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/24); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(i)](https://www.legislation.gov.uk/wsi/2016/52/article/4/i) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
-[^key-4f0d527fa6c800d57a030904f3d5ea6f]: Textual amendment: S. 26 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-4f0d527fa6c800d57a030904f3d5ea6f]: Textual amendment: S. 26 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c10199471]: Modification: [S. 26A](https://www.legislation.gov.uk/ukpga/1990/10/section/26A): power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 171(4)(c)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/c); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
@@ -1933,25 +1933,25 @@ The following abbreviations are used in this Table:—
 
 [^c10199741]: Commencement: S. 29 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 29 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
-[^key-c987d08ec6087c7b112f214bfecd39d6]: Textual amendment: Words in s. 29(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-c987d08ec6087c7b112f214bfecd39d6]: Textual amendment: Words in s. 29(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-73427a7b3a8bc1952dba84077e405eba]: Textual amendment: Words in s. 29(1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-73427a7b3a8bc1952dba84077e405eba]: Textual amendment: Words in s. 29(1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-de05b03ffce2c350b768316bfd5438ab]: Textual amendment: Words in s. 29(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-de05b03ffce2c350b768316bfd5438ab]: Textual amendment: Words in s. 29(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-ddfc3e96cb5283b57bd831a836b6f43d]: Textual amendment: Words in s. 29(4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-ddfc3e96cb5283b57bd831a836b6f43d]: Textual amendment: Words in s. 29(4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-dff1c7d6ed37496d6c1e569cba4e8476]: Textual amendment: Words in s. 29(5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-dff1c7d6ed37496d6c1e569cba4e8476]: Textual amendment: Words in s. 29(5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-307ef9858e17b1c7fc4f091512adeb37]: Textual amendment: S. 29(6) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(6)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-307ef9858e17b1c7fc4f091512adeb37]: Textual amendment: S. 29(6) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(6)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c10199801]: Commencement: S. 30 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 30 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
 [^c10199811]: Textual amendment: Words repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-e9ed4e4cd615c0cf644ecc095b84720d]: Textual amendment: Ss. 30A, 30B inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 79(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/79/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2; S.I. 2006/1281, art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-e9ed4e4cd615c0cf644ecc095b84720d]: Textual amendment: Ss. 30A, 30B inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 79(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/79/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2; S.I. 2006/1281, art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-8e143839db4ec71a325a4f0950b924dc]: Textual amendment: Ss. 30C, 30D inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/84/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-8e143839db4ec71a325a4f0950b924dc]: Textual amendment: Ss. 30C, 30D inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/84/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
 
 [^c10199831]: Commencement: S. 31 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 31 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
@@ -1967,7 +1967,7 @@ The following abbreviations are used in this Table:—
 
 [^M_F_61243d11-639d-4dfe-a195-1ba04652b79c]: Textual amendment: S. 31(7)-(9) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 8(6)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/8/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c/f)
 
-[^key-e510655f8695751cf5ae40bccb23a0e7]: Textual amendment: S. 31A inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/12/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
+[^c-e510655f8695751cf5ae40bccb23a0e7]: Textual amendment: S. 31A inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/12/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
 
 [^M_F_0fa58c9e-1bc7-44a6-b092-6a8f3ebad46f]: Textual amendment: S. 32 repealed (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/12/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)(f)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c/f)
 
@@ -1975,23 +1975,23 @@ The following abbreviations are used in this Table:—
 
 [^c10199891]: Commencement: S. 34 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 34 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
-[^key-ad70e70589b891a3ea596870e6abbb21]: Textual amendment: Words in s. 34(1) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-ad70e70589b891a3ea596870e6abbb21]: Textual amendment: Words in s. 34(1) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-c66280913142df8aae7a4ea6b8b3b10a]: Textual amendment: Words in s. 34(2) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/b); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-c66280913142df8aae7a4ea6b8b3b10a]: Textual amendment: Words in s. 34(2) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/b); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-00e71b60f40cb8594275edb39f115395]: Textual amendment: Word in s. 34(2) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/b); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-00e71b60f40cb8594275edb39f115395]: Textual amendment: Word in s. 34(2) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/b); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-c815858c6e20f88d3e37992ad7d88bce]: Textual amendment: Words in s. 34(2) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-c815858c6e20f88d3e37992ad7d88bce]: Textual amendment: Words in s. 34(2) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-cf8f4b2596762ed48ca5e69bec8df6fc]: Textual amendment: Words in S. 34(3) substituted for s. 34(3)(a)-(b) (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-cf8f4b2596762ed48ca5e69bec8df6fc]: Textual amendment: Words in S. 34(3) substituted for s. 34(3)(a)-(b) (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-4d9dea1d47d3a07f3bfa8549dd356a8c]: Textual amendment: Words in s. 34(3) omitted (E.) (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-4d9dea1d47d3a07f3bfa8549dd356a8c]: Textual amendment: Words in s. 34(3) omitted (E.) (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-1151024a5f7bbfbc18ab0cace35082f9]: Textual amendment: Word in s. 34(3) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-1151024a5f7bbfbc18ab0cace35082f9]: Textual amendment: Word in s. 34(3) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-6e525eeed098e2c1ee9fd313d0ce51d4]: Textual amendment: Words in s. 34(4) inserted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/d); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-6e525eeed098e2c1ee9fd313d0ce51d4]: Textual amendment: Words in s. 34(4) inserted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/d); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-61077886f80dda86af9fc179bf9cec67]: Textual amendment: Words in s. 34(4) omitted (E.) (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/d); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-61077886f80dda86af9fc179bf9cec67]: Textual amendment: Words in s. 34(4) omitted (E.) (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 28(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/28/d); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c10199921]: Commencement: S. 35 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3, s. 35 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
@@ -2013,49 +2013,49 @@ The following abbreviations are used in this Table:—
 
 [^c10200021]: Commencement: S. 36B wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 36B in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
-[^key-8477aed4bc2512f3b11562c42ef38dca]: Modification: S. 36B functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [26](https://www.legislation.gov.uk/uksi/2018/644/article/26)
+[^c-8477aed4bc2512f3b11562c42ef38dca]: Modification: S. 36B functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [26](https://www.legislation.gov.uk/uksi/2018/644/article/26)
 
 [^c10200011]: Textual amendment: Ss. 36A, 36B substituted (2.1.1992) for s. 36(6) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 25](https://www.legislation.gov.uk/ukpga/1991/34/section/25), [Sch. 3 Pt. I para. 16(3)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3/part/I/paragraph/16/3) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3)
 
-[^key-7ee1cc33c87901b3f5b645fff51a0c58]: Textual amendment: [S. 36C](https://www.legislation.gov.uk/ukpga/1990/10/section/36C) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/15) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
+[^c-7ee1cc33c87901b3f5b645fff51a0c58]: Textual amendment: [S. 36C](https://www.legislation.gov.uk/ukpga/1990/10/section/36C) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/15) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
 
 [^c10200041]: Commencement: S. 37 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 37 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
-[^key-6346a78bc689a0a3e6999b1e0a9cf242]: Modification: S. 37: transitory modification by [1990 c. 11](https://www.legislation.gov.uk/ukpga/1990/11), Sch. 4 para. 14 falls (6.4.2009) for further specified purposes by virtue of [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
+[^c-6346a78bc689a0a3e6999b1e0a9cf242]: Modification: S. 37: transitory modification by [1990 c. 11](https://www.legislation.gov.uk/ukpga/1990/11), Sch. 4 para. 14 falls (6.4.2009) for further specified purposes by virtue of [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
 
-[^key-7a08afbc59ae638ea29a5c1ce2e70a26]: Textual amendment: Words in s. 37(2) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 39(4)](https://www.legislation.gov.uk/anaw/2015/4/section/39/4), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/546/article/3/a)
+[^c-7a08afbc59ae638ea29a5c1ce2e70a26]: Textual amendment: Words in s. 37(2) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 39(4)](https://www.legislation.gov.uk/anaw/2015/4/section/39/4), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/546/article/3/a)
 
 [^c10200051]: Textual amendment: Words omitted (temp.) by virtue of [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 6](https://www.legislation.gov.uk/ukpga/1990/11/section/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4/paragraph/1), [14](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4/paragraph/14) (which temp. omission falls (2.1.1992) for specified purposes only by virtue of [S.I. 1991/2698](https://www.legislation.gov.uk/uksi/1991/2698), [arts. 3](https://www.legislation.gov.uk/uksi/1991/2698/article/3), [4](https://www.legislation.gov.uk/uksi/1991/2698/article/4))
 
-[^key-3eb4b76eee8e36da4a543819931e7fa6]: Textual amendment: Word in s. 37(2) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/a); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(j)](https://www.legislation.gov.uk/wsi/2016/52/article/4/j) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-3eb4b76eee8e36da4a543819931e7fa6]: Textual amendment: Word in s. 37(2) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/a); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(j)](https://www.legislation.gov.uk/wsi/2016/52/article/4/j) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
 [^c10200061]: Textual amendment: Words in s. 37(2) inserted (2.1.1992 except for specified purposes) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/1991/34/section/30/2), [84(2)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2728](https://www.legislation.gov.uk/uksi/1991/2728), [arts. 3](https://www.legislation.gov.uk/uksi/1991/2728/article/3), [4](https://www.legislation.gov.uk/uksi/1991/2728/article/4)
 
-[^key-296c2d04cc9ba37842aa0008691d8f26]: Textual amendment: Words in s. 37(2) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(j)](https://www.legislation.gov.uk/wsi/2016/52/article/4/j) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-296c2d04cc9ba37842aa0008691d8f26]: Textual amendment: Words in s. 37(2) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(j)](https://www.legislation.gov.uk/wsi/2016/52/article/4/j) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
-[^key-f34429f406347f57245c00b8a3a2a4b5]: Textual amendment: Word in s. 37(2) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(c)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/c); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(e)](https://www.legislation.gov.uk/wsi/2017/546/article/3/e)
+[^c-f34429f406347f57245c00b8a3a2a4b5]: Textual amendment: Word in s. 37(2) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(c)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/c); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(e)](https://www.legislation.gov.uk/wsi/2017/546/article/3/e)
 
-[^key-7da1b9e8dd7b6da6c294384604d39f82]: Textual amendment: Words in s. 37(2) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(d)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/d); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(e)](https://www.legislation.gov.uk/wsi/2017/546/article/3/e)
+[^c-7da1b9e8dd7b6da6c294384604d39f82]: Textual amendment: Words in s. 37(2) inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(2)(d)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/2/d); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(e)](https://www.legislation.gov.uk/wsi/2017/546/article/3/e)
 
-[^key-86d87c28df7ac76f4737367026b8532b]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/ukpga/1990/10/section/37/2) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(7)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/7/a), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
+[^c-86d87c28df7ac76f4737367026b8532b]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/ukpga/1990/10/section/37/2) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(7)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/7/a), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
 
-[^key-f19525b8414968b139c3a05d3729fa50]: Textual amendment: Words in s. 37(2) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/21/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
+[^c-f19525b8414968b139c3a05d3729fa50]: Textual amendment: Words in s. 37(2) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/21/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
 
-[^key-f890139dd0900d4510350e7899df7a4a]: Textual amendment: Words in s. 37(2) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/21/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
+[^c-f890139dd0900d4510350e7899df7a4a]: Textual amendment: Words in s. 37(2) inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/21/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)
 
-[^key-dda30ac4706190f7f8ec2c0154edec02]: Textual amendment: S. 37(4) omitted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(3)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/3); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(e)](https://www.legislation.gov.uk/wsi/2017/546/article/3/e)
+[^c-dda30ac4706190f7f8ec2c0154edec02]: Textual amendment: S. 37(4) omitted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 25(3)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/25/3); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(e)](https://www.legislation.gov.uk/wsi/2017/546/article/3/e)
 
-[^key-f1b5594c442710e8442a65cd9ffb8f5b]: Textual amendment: [S. 37(5)](https://www.legislation.gov.uk/ukpga/1990/10/section/37/5) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(7)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/7/b), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
+[^c-f1b5594c442710e8442a65cd9ffb8f5b]: Textual amendment: [S. 37(5)](https://www.legislation.gov.uk/ukpga/1990/10/section/37/5) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(7)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/7/b), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
 
 [^c10200111]: Commencement: S. 38 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 38 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
 [^c10200121]: Modification: S. 38(1)(2) extended (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 70](https://www.legislation.gov.uk/ukpga/1995/25/section/70), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/9/paragraph/14/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-bcc7440f89b88f27230bebb4d04f2d9c]: Modification: [S. 38(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/38/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-bcc7440f89b88f27230bebb4d04f2d9c]: Modification: [S. 38(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/38/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c10200141]: Textual amendment: Words repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-34cfeb4f0fb3a0bf427b2d3f85d94bd3]: Modification: S. 38(5): transitory modification by 1990 c. 11, Sch. 4 para. 15 falls (6.4.2009) for further specified purposes by virtue of S.I. 2009/849, art. 2 (with art. 3)
+[^c-34cfeb4f0fb3a0bf427b2d3f85d94bd3]: Modification: S. 38(5): transitory modification by 1990 c. 11, Sch. 4 para. 15 falls (6.4.2009) for further specified purposes by virtue of S.I. 2009/849, art. 2 (with art. 3)
 
 [^c10200171]: Textual amendment: Words "1, 3" substituted (1.1.1992) for words "1 to 3" by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 2(6)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/2/6); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
@@ -2065,31 +2065,31 @@ The following abbreviations are used in this Table:—
 
 [^c10200851]: Modification: S. 39 extended (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 2(2)(k)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/2/2/k); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-3c656ef96c941b4b194fc8fccc77d358]: Textual amendment: Words in s. 39(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/47) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-3c656ef96c941b4b194fc8fccc77d358]: Textual amendment: Words in s. 39(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/47) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c10200861]: Textual amendment: Word "and" substituted (1.1.1992) for "to" by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 144](https://www.legislation.gov.uk/ukpga/1990/43/section/144), [Sch. 13 Pt. I para. 2(7)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/part/I/paragraph/2/7); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-c695560c890afa4c785a9fe6f50b69c1]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/ukpga/1990/10/section/39) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/6) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-c695560c890afa4c785a9fe6f50b69c1]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/ukpga/1990/10/section/39) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/5/6) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
 [^c10200871]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-87e7297a2cbc71e1460f08b87ae74270]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/39/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(7)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/7) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-87e7297a2cbc71e1460f08b87ae74270]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/1990/10/section/39/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 10(7)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/10/7) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c10200881]: Textual amendment: Entries repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-f45455de27b2f51af7d0dc44dab71712]: Textual amendment: Words in s. 39(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 116](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/116) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f45455de27b2f51af7d0dc44dab71712]: Textual amendment: Words in s. 39(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 116](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/116) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c10200921]: Textual amendment: Words repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
 [^c10200941]: Textual amendment: Words repealed (1.1.1992) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/2), [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII); [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3)
 
-[^key-dbccf4f7167b37573ef026dea568342d]: Textual amendment: Words in s. 39(5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 206](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/206) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-dbccf4f7167b37573ef026dea568342d]: Textual amendment: Words in s. 39(5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 206](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/206) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c10200961]: Textual amendment: Words in s. 39(6) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 85](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/85) (with [art. 4](https://www.legislation.gov.uk/uksi/2001/1149/article/4))
 
-[^key-d11cad3929b11f066bc4331c32c2cfea]: Textual amendment: Words in s. 39(6) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 132(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/132/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d11cad3929b11f066bc4331c32c2cfea]: Textual amendment: Words in s. 39(6) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 132(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/132/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-b36920b13378ef71bdb9711ccfaf7f9b]: Textual amendment: Words in s. 39(6) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 132(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/132/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b36920b13378ef71bdb9711ccfaf7f9b]: Textual amendment: Words in s. 39(6) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 132(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/132/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c10200971]: Textual amendment: Words in s. 39(6) inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 37](https://www.legislation.gov.uk/ukpga/2000/38/section/37), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2000/38/schedule/5/paragraph/9); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
@@ -2099,17 +2099,17 @@ The following abbreviations are used in this Table:—
 
 [^c10201021]: Commencement: S. 40 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; s. 40 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
-[^key-7362ff04b9665ad1e1915a4d10a04d1b]: Textual amendment: Words in s. 40 heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(6)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/6/a), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7362ff04b9665ad1e1915a4d10a04d1b]: Textual amendment: Words in s. 40 heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(6)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/6/a), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-5a1c8cf14a286f56fe833e19b3f494f2]: Textual amendment: S. 40(4) inserted (6.8.2004 for specified purposes) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2004/5/schedule/6/paragraph/27) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-5a1c8cf14a286f56fe833e19b3f494f2]: Textual amendment: S. 40(4) inserted (6.8.2004 for specified purposes) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2004/5/schedule/6/paragraph/27) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-7f87d174050038f8665af1fa9505e1b4]: Textual amendment: S. 40(5) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(6)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/6/b), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7f87d174050038f8665af1fa9505e1b4]: Textual amendment: S. 40(5) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 130(6)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/130/6/b), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-95a387ab8e767951b4c73427048feac5]: Textual amendment: S. 41(2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-95a387ab8e767951b4c73427048feac5]: Textual amendment: S. 41(2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c10201051]: Subordinate legislation: S. 41(3) power exercised: 11.3.1992 and 1.6.1992 appointed, see S.I. 1992/725
 
-[^key-7f8145a52c2533424a688ba25b4debea]: Textual amendment: Words in s. 41(3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-7f8145a52c2533424a688ba25b4debea]: Textual amendment: Words in s. 41(3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c10201061]: Commencement: Sch. para. 1 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; Sch. para. 1 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
@@ -2133,29 +2133,29 @@ The following abbreviations are used in this Table:—
 
 [^M_F_bcbd3664-0824-4b18-ff31-b0f2624abd19]: Textual amendment: Sch. para. 6(1B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), art. 1(2), Sch. 1 para. 29(6)(a)
 
-[^key-0771b2e87a986b6278dda7a7daf9855f]: Textual amendment: Words in Sch. para. 6(2)(a) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 29(6)(b)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/29/6/b)
+[^c-0771b2e87a986b6278dda7a7daf9855f]: Textual amendment: Words in Sch. para. 6(2)(a) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 29(6)(b)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/29/6/b)
 
-[^key-e3c7b7bd604dc40954d9d3f30f904602]: Textual amendment: Words in Sch. para. 6(3)(a) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 29(6)(b)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/29/6/b)
+[^c-e3c7b7bd604dc40954d9d3f30f904602]: Textual amendment: Words in Sch. para. 6(3)(a) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 29(6)(b)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/29/6/b)
 
 [^c10201121]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-7a25e095eb0193162c77c2f78103696f]: Textual amendment: Words in Sch. para. 6(4) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/a); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-7a25e095eb0193162c77c2f78103696f]: Textual amendment: Words in Sch. para. 6(4) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/a); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
-[^key-8e4850802670c62869aaacbbf34d0f19]: Textual amendment: Sch. para. 6(4A) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(b)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-8e4850802670c62869aaacbbf34d0f19]: Textual amendment: Sch. para. 6(4A) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(b)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
-[^key-b9388c2962a49ab03b73dddf187d394c]: Textual amendment: Words in Sch. para. 6(5) substituted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(c)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/c); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-b9388c2962a49ab03b73dddf187d394c]: Textual amendment: Words in Sch. para. 6(5) substituted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(c)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/c); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
-[^key-f898b59fc37289937bb94908401772de]: Modification: [Sch. para. 6(6)](https://www.legislation.gov.uk/ukpga/1990/10/schedule/paragraph/6/6) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-f898b59fc37289937bb94908401772de]: Modification: [Sch. para. 6(6)](https://www.legislation.gov.uk/ukpga/1990/10/schedule/paragraph/6/6) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-4f22b7869b41899d994398eb43c44d5c]: Modification: Sch. para. 6(8): transitory modification by [1990 c. 11](https://www.legislation.gov.uk/ukpga/1990/11), Sch. 4 para. 16 falls (6.4.2009) for further specified purposes by virtue of [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
+[^c-4f22b7869b41899d994398eb43c44d5c]: Modification: Sch. para. 6(8): transitory modification by [1990 c. 11](https://www.legislation.gov.uk/ukpga/1990/11), Sch. 4 para. 16 falls (6.4.2009) for further specified purposes by virtue of [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
 
 [^c10201131]: Textual amendment: Sch. para. 6(8) omitted (temp.) by virtue of [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 6](https://www.legislation.gov.uk/ukpga/1990/11/section/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4/paragraph/16) (which temp. omission falls (2.1.1992) for specified purposes only by virtue of [S.I. 1991/2698](https://www.legislation.gov.uk/uksi/1991/2698), [arts. 3](https://www.legislation.gov.uk/uksi/1991/2698/article/3), [4](https://www.legislation.gov.uk/uksi/1991/2698/article/4))
 
 [^c10201141]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-f0018af0457152c4fe57a96613bf3ed8]: Textual amendment: Words in Sch. para. 6(8) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(d)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/d); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-f0018af0457152c4fe57a96613bf3ed8]: Textual amendment: Words in Sch. para. 6(8) inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 26(d)](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/26/d); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(k)](https://www.legislation.gov.uk/wsi/2016/52/article/4/k) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
 
-[^key-49bf14f4016454734dbd0165b976e077]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/ukpga/1990/10/schedule/paragraph/6A) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 80(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/80/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-49bf14f4016454734dbd0165b976e077]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/ukpga/1990/10/schedule/paragraph/6A) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 80(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/80/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
 
 [^c10201351]: Commencement: Sch. para. 7 wholly in force at 1.6.1992 see S.I. 1992/725, art. 3; Sch. para. 7 in force for certain purposes at 11.3.1992 see S.I. 1992/725, art. 2
 
@@ -2163,11 +2163,11 @@ The following abbreviations are used in this Table:—
 
 [^c10201381]: Textual amendment: Words in Sch. para. 7(1) substituted (1.10.1992) by [Tribunals and Inquiries Act 1992 (c. 53, SIF 127)](https://www.legislation.gov.uk/ukpga/1992/53), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/1), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch. 3 para. 34(b)](https://www.legislation.gov.uk/ukpga/1992/53/schedule/3/paragraph/34/b)
 
-[^key-0d0e1e2dff97409983a34011c322c0ee]: Textual amendment: Words in Sch. para. 7(2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/5) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-0d0e1e2dff97409983a34011c322c0ee]: Textual amendment: Words in Sch. para. 7(2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/5) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^c10201401]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-7172d3b882230ebbb50af3879372c950]: Textual amendment: Sch. para. 8 and cross-heading inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/81/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-7172d3b882230ebbb50af3879372c950]: Textual amendment: Sch. para. 8 and cross-heading inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/81/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
 
 [^M_F_20005c80-5a43-4f22-d9ef-a577dc8abfee]: Textual amendment: Words in Sch. para. 8(2) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [ss. 160](https://www.legislation.gov.uk/ukpga/2006/32/section/160), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 10 para. 37(a)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/37/a) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act
 

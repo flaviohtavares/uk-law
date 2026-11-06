@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Application to dispose of charged property[^key-6bed15097ef462a80280ca66e25f7e69]
+## 96. Application to dispose of charged property[^c-6bed15097ef462a80280ca66e25f7e69]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bed15097ef462a80280ca66e25f7e69]: Commencement: Rule 96 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6bed15097ef462a80280ca66e25f7e69]: Commencement: Rule 96 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

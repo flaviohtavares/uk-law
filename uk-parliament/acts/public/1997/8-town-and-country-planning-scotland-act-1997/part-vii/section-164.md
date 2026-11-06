@@ -22,7 +22,7 @@ summary: ''
 
 (1) If it appears to the Secretary of State that it is expedient that a tree preservation order, or an order amending or revoking such an order, should be made, he may himself make such an order.
 
-(2) Such an order made by the Secretary of State shall have the same effect as if it had been made by the planning authority and timeously[^key-42509363f2634af6afec3fd97d9ce5ae] confirmed by them under this Chapter.
+(2) Such an order made by the Secretary of State shall have the same effect as if it had been made by the planning authority and timeously[^c-42509363f2634af6afec3fd97d9ce5ae] confirmed by them under this Chapter.
 
 (3) The Secretary of State shall not make such an order without consulting the planning authority.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42509363f2634af6afec3fd97d9ce5ae]: Textual amendment: Word in s. 164(2) inserted (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(5)](https://www.legislation.gov.uk/asp/2006/17/section/28/5), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-42509363f2634af6afec3fd97d9ce5ae]: Textual amendment: Word in s. 164(2) inserted (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(5)](https://www.legislation.gov.uk/asp/2006/17/section/28/5), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)

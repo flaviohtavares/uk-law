@@ -35,7 +35,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Transmissible Spongiform Encephalopathy (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-6dea04173a5686e6cb10d996eadb495e]
+Transmissible Spongiform Encephalopathy (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-6dea04173a5686e6cb10d996eadb495e]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into operation
 
 1st March 2005
 
-[^key-6dea04173a5686e6cb10d996eadb495e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dea04173a5686e6cb10d996eadb495e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6dea04173a5686e6cb10d996eadb495e]
+## 1. Citation and commencement[^c-6dea04173a5686e6cb10d996eadb495e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002[^key-6dea04173a5686e6cb10d996eadb495e]
+## 2. Amendment to the Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002[^c-6dea04173a5686e6cb10d996eadb495e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dea04173a5686e6cb10d996eadb495e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dea04173a5686e6cb10d996eadb495e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dea04173a5686e6cb10d996eadb495e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dea04173a5686e6cb10d996eadb495e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6dea04173a5686e6cb10d996eadb495e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/25) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+[^c-6dea04173a5686e6cb10d996eadb495e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/25) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)

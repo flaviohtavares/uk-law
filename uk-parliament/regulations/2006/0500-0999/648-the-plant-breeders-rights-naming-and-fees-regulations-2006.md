@@ -67,9 +67,9 @@ In these Regulations—
 
 (1) An applicant for a grant of plant breeders' rights shall, when so required by the Controller and within such time as he may direct, propose a name for the plant variety in respect of which his application is made.
 
-(2) The Controller shall not accept a name proposed in pursuance of paragraph (1) or (3) unless he is satisfied that the name is suitable [^key-ae327c11ec02f5f8741efa177b3f0b23]...
+(2) The Controller shall not accept a name proposed in pursuance of paragraph (1) or (3) unless he is satisfied that the name is suitable [^c-ae327c11ec02f5f8741efa177b3f0b23]...
 
-(2A)[^key-a2aa77450c98e8cbb3c411a7c07ace54] In determining whether a name is suitable the Controller must consider—
+(2A)[^c-a2aa77450c98e8cbb3c411a7c07ace54] In determining whether a name is suitable the Controller must consider—
 
 - (a) whether the use of the name in the United Kingdom is precluded by a prior right;
 - (b) whether the use of the name may commonly cause its users difficulties as regards recognition or reproduction;
@@ -86,7 +86,7 @@ In these Regulations—
 
 (3) If the Controller does not accept a name proposed for a plant variety in accordance with paragraph (2) he shall inform the applicant of the reason for its rejection and require that the applicant propose within such time as the Controller may specify another name for the plant variety.
 
-(4) Any person may object to the name proposed for a plant variety as being unsuitable[^key-21e550d2e4d04217b08db14f737ab38d]... and may make representations to the Controller within such time as the Controller shall specify in the notice of his proposed decision to allow an application for the grant of plant breeders' rights published by him in accordance with regulation 5(1) of the 1998 Regulations.
+(4) Any person may object to the name proposed for a plant variety as being unsuitable[^c-21e550d2e4d04217b08db14f737ab38d]... and may make representations to the Controller within such time as the Controller shall specify in the notice of his proposed decision to allow an application for the grant of plant breeders' rights published by him in accordance with regulation 5(1) of the 1998 Regulations.
 
 (5) Before accepting a name for a plant variety the Controller shall consider any representations which are made to him in accordance with paragraph (4).
 
@@ -94,10 +94,10 @@ In these Regulations—
 
 (7) If, after the service by the Controller on the applicant of a notice informing him of the consequences of a continued failure to comply with any requirement of this regulation, the applicant has not complied with such requirement, within such time, not being less than 14 days, specified in the notice, the application shall be deemed to have been abandoned.
 
-(8) An applicant for a grant of plant breeders' rights or a holder of plant breeders' rights may at any time propose to the Controller a name for the plant variety in respect of which the application is made or plant breeders' rights have been granted in substitution for the name already proposed or accepted for that plant variety and, if the Controller is satisfied that the name proposed is suitable [^key-7f3c46e1a3c71f55eda0362d85ee2fee]...—
+(8) An applicant for a grant of plant breeders' rights or a holder of plant breeders' rights may at any time propose to the Controller a name for the plant variety in respect of which the application is made or plant breeders' rights have been granted in substitution for the name already proposed or accepted for that plant variety and, if the Controller is satisfied that the name proposed is suitable [^c-7f3c46e1a3c71f55eda0362d85ee2fee]...—
 
 - (a) he shall publish in the gazette and in such manner as appears to him to be necessary or desirable a notice of that proposed name;
-- (b) any person may object to the name as being unsuitable[^key-bb29829290a762d523cd33a3c6a629a0]... and may make representations to the Controller within such time as the Controller shall specify in the notice published under sub-paragraph (a); and
+- (b) any person may object to the name as being unsuitable[^c-bb29829290a762d523cd33a3c6a629a0]... and may make representations to the Controller within such time as the Controller shall specify in the notice published under sub-paragraph (a); and
 - (c) before accepting the name, the Controller shall consider any representations which are made to him.
 
 (9) In this regulation—
@@ -105,7 +105,7 @@ In these Regulations—
 - (a) “name” includes any designation; and
 - (b) “the gazette” means the gazette published under section 34 of the Plant Varieties and Seeds Act 1964[^f00011].
 
-## 3A. Selection of plant variety names: prior rights[^key-654a698561c8ef749f9b47ba83ee9bd1]
+## 3A. Selection of plant variety names: prior rights[^c-654a698561c8ef749f9b47ba83ee9bd1]
 
 (1) This regulation applies for the purposes of regulation 3(2A)(a).
 
@@ -295,19 +295,19 @@ A regulatory impact assessment has not been prepared for this instrument, as it 
 
 [^f00006]: Footnote: S.I. [1998/1027](https://www.legislation.gov.uk/uksi/1998/1027).
 
-[^key-ae327c11ec02f5f8741efa177b3f0b23]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae327c11ec02f5f8741efa177b3f0b23]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2aa77450c98e8cbb3c411a7c07ace54]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2B) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2aa77450c98e8cbb3c411a7c07ace54]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2B) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21e550d2e4d04217b08db14f737ab38d]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/4) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21e550d2e4d04217b08db14f737ab38d]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/4) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f3c46e1a3c71f55eda0362d85ee2fee]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/8) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f3c46e1a3c71f55eda0362d85ee2fee]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/8) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb29829290a762d523cd33a3c6a629a0]: Textual amendment: Words in [reg. 3(8)(b)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/8/b) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb29829290a762d523cd33a3c6a629a0]: Textual amendment: Words in [reg. 3(8)(b)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/8/b) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00011]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
-[^key-654a698561c8ef749f9b47ba83ee9bd1]: Textual amendment: Regs. 3A-3G inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/6) (as amended by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-654a698561c8ef749f9b47ba83ee9bd1]: Textual amendment: Regs. 3A-3G inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/6) (as amended by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: S.I. [1998/1021](https://www.legislation.gov.uk/uksi/1998/1021) as amended by S.I. [2002/1677](https://www.legislation.gov.uk/uksi/2002/1677).
 

@@ -44,15 +44,15 @@ Coming into force
 
 The Friendly Societies Commission, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the authorisation and carrying on by friendly societies of insurance business and the regulation of such business and its conduct and in relation to anything supplemental or incidental to such matters[^f00002] in exercise of the powers conferred by that section and, with the consent of the Treasury, in exercise of the power conferred upon it by section 45 of the Friendly Societies Act 1992[^f00003], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-eb254494dff95434af6a4a20147727cc]
+## 1. Citation and commencement[^c-eb254494dff95434af6a4a20147727cc]
 
 These Regulations may be cited as the Friendly Societies (Insurance Business) (Amendment) Regulations 1998, and shall come into force on the 1st January 1999.
 
-## 2. Interpretation[^key-f4572c3df3b8fc1122b11d6e9fd09c20]
+## 2. Interpretation[^c-f4572c3df3b8fc1122b11d6e9fd09c20]
 
 In these Regulations, “the 1994 Regulations” means the Friendly Societies (Insurance Business) Regulations 1994[^f00004].
 
-## 3. Amendment of the 1994 Regulations[^key-e86dab794e5a81b7d9779378cb6d8da3]
+## 3. Amendment of the 1994 Regulations[^c-e86dab794e5a81b7d9779378cb6d8da3]
 
 The 1994 Regulations are hereby amended as follows:
 
@@ -95,10 +95,10 @@ These Regulations amend an existing regulatory regime without imposing any addit
 
 [^f00003]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-eb254494dff95434af6a4a20147727cc]: Commencement: Reg. 1 in force at 1.1.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3034/regulation/1)
+[^c-eb254494dff95434af6a4a20147727cc]: Commencement: Reg. 1 in force at 1.1.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3034/regulation/1)
 
-[^key-f4572c3df3b8fc1122b11d6e9fd09c20]: Commencement: Reg. 2 in force at 1.1.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3034/regulation/1)
+[^c-f4572c3df3b8fc1122b11d6e9fd09c20]: Commencement: Reg. 2 in force at 1.1.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3034/regulation/1)
 
 [^f00004]: Footnote: S.I. [1994/1981](https://www.legislation.gov.uk/uksi/1994/1981). The Regulations have been amended by S.I.s [1996/3008](https://www.legislation.gov.uk/uksi/1996/3008), [1997/966](https://www.legislation.gov.uk/uksi/1997/966), and [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
 
-[^key-e86dab794e5a81b7d9779378cb6d8da3]: Commencement: Reg. 3 in force at 1.1.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3034/regulation/1)
+[^c-e86dab794e5a81b7d9779378cb6d8da3]: Commencement: Reg. 3 in force at 1.1.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3034/regulation/1)

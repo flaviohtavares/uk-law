@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Operational land for purposes of Town and Country Planning Act 1990[^key-54a334f819ffc89bd097c0ab93086e29]
+## 33. Operational land for purposes of Town and Country Planning Act 1990[^c-54a334f819ffc89bd097c0ab93086e29]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order must be treated as specific planning p
 
 ## Annotations
 
-[^key-54a334f819ffc89bd097c0ab93086e29]: Commencement: Art. 33 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-54a334f819ffc89bd097c0ab93086e29]: Commencement: Art. 33 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

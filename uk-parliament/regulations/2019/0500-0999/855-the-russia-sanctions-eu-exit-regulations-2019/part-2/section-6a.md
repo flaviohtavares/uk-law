@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Conditions for the designation of persons by description[^key-af24f1709bbbc394eeaa2b1485b5cbaf]
+## 6A. Conditions for the designation of persons by description[^c-af24f1709bbbc394eeaa2b1485b5cbaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,11 +63,11 @@ summary: ''
 
 (13) In this regulation—
 
-- “**involved person**” has the meaning given in regulation 6 (designation criteria: meaning of “involved person”)[^key-3dbf554ca237d976c8a013a5b8180b8e];
+- “**involved person**” has the meaning given in regulation 6 (designation criteria: meaning of “involved person”)[^c-3dbf554ca237d976c8a013a5b8180b8e];
 - “**organisation**” includes any body, association or combination of persons.
 
 ## Annotations
 
-[^key-af24f1709bbbc394eeaa2b1485b5cbaf]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2019/855/regulation/6A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/395/regulation/7)
+[^c-af24f1709bbbc394eeaa2b1485b5cbaf]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2019/855/regulation/6A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/395/regulation/7)
 
-[^key-3dbf554ca237d976c8a013a5b8180b8e]: Textual amendment: Words in [reg. 6A(13)](https://www.legislation.gov.uk/uksi/2019/855/regulation/6A/13) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2025/394/regulation/14/5)
+[^c-3dbf554ca237d976c8a013a5b8180b8e]: Textual amendment: Words in [reg. 6A(13)](https://www.legislation.gov.uk/uksi/2019/855/regulation/6A/13) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2025/394/regulation/14/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Suspension of governors[^key-4617d36b5aebb953217ec6ba51ab9512]
+## 61. Suspension of governors[^c-4617d36b5aebb953217ec6ba51ab9512]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ during the period of suspension.
 
 ## Annotations
 
-[^key-4617d36b5aebb953217ec6ba51ab9512]: Commencement: Reg. 61 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-4617d36b5aebb953217ec6ba51ab9512]: Commencement: Reg. 61 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198I. Exploration, appraisal and development expenditure[^key-c0292254de4712dd27fa9ac7a68d15d6]
+## 198I. Exploration, appraisal and development expenditure[^c-c0292254de4712dd27fa9ac7a68d15d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0292254de4712dd27fa9ac7a68d15d6]: Textual amendment: S. 198I inserted (with effect in accordance with Sch. 15 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/15/paragraph/5)
+[^c-c0292254de4712dd27fa9ac7a68d15d6]: Textual amendment: S. 198I inserted (with effect in accordance with Sch. 15 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/15/paragraph/5)

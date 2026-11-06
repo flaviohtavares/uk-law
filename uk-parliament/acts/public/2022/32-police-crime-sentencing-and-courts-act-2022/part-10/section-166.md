@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Serious violence reduction orders: piloting[^key-b97c44a596e9c7c5cdc2fcfe788dd22c]
+## 166. Serious violence reduction orders: piloting[^c-b97c44a596e9c7c5cdc2fcfe788dd22c]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ for a further specified period.
 
 ## Annotations
 
-[^key-b97c44a596e9c7c5cdc2fcfe788dd22c]: Commencement: S. 166 in force at Royal Assent, see [s. 208(4)(v)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/v)
+[^c-b97c44a596e9c7c5cdc2fcfe788dd22c]: Commencement: S. 166 in force at Royal Assent, see [s. 208(4)(v)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/v)

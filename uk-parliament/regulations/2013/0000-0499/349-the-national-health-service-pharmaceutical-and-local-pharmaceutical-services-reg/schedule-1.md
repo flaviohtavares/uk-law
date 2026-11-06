@@ -53,7 +53,7 @@ A statement of the pharmaceutical services that the HWB has identified (if it ha
 
 ### 5. Other NHS services
 
-A statement of any NHS services provided or arranged by a local authority, NHS England[^key-fedf3951d93bcf656ad03378f887d7d5], an integrated care board[^key-e920651f5d184f97ed2fcf1144a13a9e], an NHS trust or an NHS foundation trust to which the HWB has had regard in its assessment, which affect—
+A statement of any NHS services provided or arranged by a local authority, NHS England[^c-fedf3951d93bcf656ad03378f887d7d5], an integrated care board[^c-e920651f5d184f97ed2fcf1144a13a9e], an NHS trust or an NHS foundation trust to which the HWB has had regard in its assessment, which affect—
 
 - (a) the need for pharmaceutical services, or pharmaceutical services of a specified type, in its area; or
 - (b) whether further provision of pharmaceutical services in its area would secure improvements, or better access, to pharmaceutical services, or pharmaceutical services of a specified type, in its area.
@@ -70,12 +70,12 @@ An explanation of how the assessment has been carried out, and in particular—
 
 ### 7. Map of provision
 
-A map that identifies the premises at or from[^key-971b3b410e10d876df06c4e232e53051] which pharmaceutical services are provided in the area of the HWB.
+A map that identifies the premises at or from[^c-971b3b410e10d876df06c4e232e53051] which pharmaceutical services are provided in the area of the HWB.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-e920651f5d184f97ed2fcf1144a13a9e]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+[^c-e920651f5d184f97ed2fcf1144a13a9e]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
 
-[^key-971b3b410e10d876df06c4e232e53051]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/349/schedule/1/paragraph/7) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2025/989/regulation/52)
+[^c-971b3b410e10d876df06c4e232e53051]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/349/schedule/1/paragraph/7) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2025/989/regulation/52)

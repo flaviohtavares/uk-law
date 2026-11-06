@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Release on licence: reasons for decisions[^key-60a873483177367c2ff727a3e2b13cba]
+## 53. Release on licence: reasons for decisions[^c-60a873483177367c2ff727a3e2b13cba]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60a873483177367c2ff727a3e2b13cba]: Commencement: S. 53 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-60a873483177367c2ff727a3e2b13cba]: Commencement: S. 53 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

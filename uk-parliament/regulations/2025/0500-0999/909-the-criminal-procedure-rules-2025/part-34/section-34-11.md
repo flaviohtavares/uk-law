@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.11. Constitution of the Crown Court[^key-38b37377ca8d271604b82764e9f5d8cd]
+## 34.11. Constitution of the Crown Court[^c-38b37377ca8d271604b82764e9f5d8cd]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-38b37377ca8d271604b82764e9f5d8cd]: Commencement: [Rule 34.11](https://www.legislation.gov.uk/uksi/2025/909/rule/34.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-38b37377ca8d271604b82764e9f5d8cd]: Commencement: [Rule 34.11](https://www.legislation.gov.uk/uksi/2025/909/rule/34.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00891]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 108 was amended by sections 66(2) and 78 of, and Schedule 16 to, the Criminal Justice Act 1982 (c. 48), section 23(3) of the Football Spectators Act [1989 (c. 37)](https://www.legislation.gov.uk/ukpga/1989/37), section 101(2) of, and Schedule 13 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 119 and 120(2) of, and paragraph 43 of Schedule 8 and Schedule 10 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 7(2) of the Football (Offences and Disorder) Act [1999 (c. 21)](https://www.legislation.gov.uk/ukpga/1999/21), section 165(1) of, and paragraph 71 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 1 of, and Schedule 3 to, the Football (Disorder) Act [2000 (c. 25)](https://www.legislation.gov.uk/ukpga/2000/25), section 58(1) of, and paragraph 10 of Schedule 10 to, the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), section 52(2) of, and paragraph 14 of Schedule 3 to, the Violent Crime Reduction Act 2006 (c. 38), section 64 of, and paragraph 10 of Schedule 3 to, the Animal Welfare Act [2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45) and section 54 of, and paragraphs 2 and 4 of Schedule 12 to, the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 

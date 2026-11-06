@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Critical-industry goods and critical-industry technology[^key-f016dc4fe693713768719bc8b890cc75]
+## SCHEDULE 2A — Critical-industry goods and critical-industry technology[^c-f016dc4fe693713768719bc8b890cc75]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,13 +26,13 @@ Regulation 21
 
 #### 1. Interpretation
 
-(1) A thing is specified in this Schedule if it is specified in Parts 1A[^key-bb36b455beb5b7e2bfd4c0cae26490ad] to 9[^key-1c45c04c46ca8f865f270dc1d968e522], and a reference in any note in this Schedule to a thing being “controlled” or subject to “controls” is to be read as a reference to it being specified.
+(1) A thing is specified in this Schedule if it is specified in Parts 1A[^c-bb36b455beb5b7e2bfd4c0cae26490ad] to 9[^c-1c45c04c46ca8f865f270dc1d968e522], and a reference in any note in this Schedule to a thing being “controlled” or subject to “controls” is to be read as a reference to it being specified.
 
 (2) In this Schedule, defined terms are printed in quotation marks.
 
 (3) Terms printed in quotation marks and not defined in this Schedule have the meaning given to them in—
 
-- (a) Schedule 2 to[^key-d39a6d35b9eebe25bc144558167b72f7] the Export Control Order 2008, or
+- (a) Schedule 2 to[^c-d39a6d35b9eebe25bc144558167b72f7] the Export Control Order 2008, or
 - (b) Annex I of the Dual-Use Regulation,
 
 as applicable.
@@ -64,7 +64,7 @@ Table 1
 </tbody>
 </table>
 
-### PART 1A — Special materials and related equipment[^key-b7159ba768ae561bbd604b6639eb94ae]
+### PART 1A — Special materials and related equipment[^c-b7159ba768ae561bbd604b6639eb94ae]
 
 Microorganisms and Toxins
 
@@ -79,7 +79,7 @@ Microorganisms and Toxins
 | 1C990 Fibrous and filamentary materials for “use” in “composite” structures and with a specific modulus of 3.18 x 10<sup>6</sup> m or greater and a specific tensile strength of 7.62 x 10<sup>4</sup> m or greater. | Yes |
 | 1C992 Commercial charges and devices containing energetic materials, and nitrogen trifluoride in a gaseous state. | Yes |
 | *Note: For the purposes of this entry the mass of the non-controlled substance in any ‘mixture’ is omitted when determining the total mass of the controlled material.* |  |
-| These items are as follows:<br>a. Shaped charges specially designed for oil well operations, utilising one charge functioning along a single axis, that upon detonation produce a hole, and<br>a.1. Contain any formulation of controlled materials;<br>a.2. Have only a uniform shaped conical liner with an included angle of 90 degrees or less;<br>a.3. Contain more than 0.010 kg but less than or equal to 0.090 kg of “controlled materials”; and<br>a.4. Have a diameter not exceeding 11.43 cm/[^key-c1047fd52a7640c9512ea49b80bea4eb] 4.5 inches; | Yes |
+| These items are as follows:<br>a. Shaped charges specially designed for oil well operations, utilising one charge functioning along a single axis, that upon detonation produce a hole, and<br>a.1. Contain any formulation of controlled materials;<br>a.2. Have only a uniform shaped conical liner with an included angle of 90 degrees or less;<br>a.3. Contain more than 0.010 kg but less than or equal to 0.090 kg of “controlled materials”; and<br>a.4. Have a diameter not exceeding 11.43 cm/[^c-c1047fd52a7640c9512ea49b80bea4eb] 4.5 inches; | Yes |
 | b. Shaped charges specially designed for oil well operations containing less than or equal to 0.010 kg of controlled materials; | Yes |
 | c. Detonation cord or shock tubes containing less than or equal to 0.064 kg per meter (300 grains per foot) of controlled materials; | Yes |
 | d. Cartridge power devices, that contain less than or equal to 0.70 kg of controlled materials in the deflagration material; | Yes |
@@ -101,7 +101,7 @@ Microorganisms and Toxins
 | e. Nitric acid in concentrations of 20 weight percent or greater; |  |
 | f. Fluorine; |  |
 | g. Alpha emitting radionuclides, |  |
-| Aromatic polyamides (aramids) not controlled by 1C010, 1C210 or 1C990, presented in any of the following forms—[^key-f33e0472ee9ec0ab232d2f5c504c9973] |  |
+| Aromatic polyamides (aramids) not controlled by 1C010, 1C210 or 1C990, presented in any of the following forms—[^c-f33e0472ee9ec0ab232d2f5c504c9973] |  |
 | (a) primary forms; |  |
 | (b) filament yarn or monofilaments; |  |
 | (c) filament tows; |  |
@@ -126,8 +126,8 @@ Microorganisms and Toxins
 | a. “Software” specially designed for industrial process control hardware/systems controlled by 1B999;<br>b. “Software” specially designed for equipment for the “production” of structural composites, fibres, prepregs and preforms controlled by 1B999. |  |
 | 1E994 “Technology” for the “development”, “production”, or “use” of fibrous and filamentary materials controlled by 1C990. | Yes |
 | “Technology” “required” for the “development”, “production” or “use” of the systems, equipment, components and software specified in the entries above relating to aromatic polyamides and nanomaterials.[^M_F_4c8eb381-3156-43d5-de9f-0b5bf01dbdb1] |  |
-| Rare-earth metals and compounds, either in organic or inorganic form, including mixtures whether or not intermixed or interalloyed.[^key-fbfaf7d18568f03bfc39366153d4be09]<br>*Note 1: Rare-earth metals and compounds include Scandium, Yttrium, Lanthanum, Cerium, Praseodymium, Neodymium, Promethium, Samarium, Europium, Gadolinium, Terbium, Dysprosium, Holmium, Erbium, Thulium, Ytterbium and Lutetium;*<br>*Note 2: For the purposes of the prohibition, minerals containing rare-earth metals are excluded;*<br>*Note 3: the prohibition does not prohibit mixtures in which no individual metal or compound specified in this entry constitutes more than 5% by the weight of the mixture.* |  |
-| Tungsten, tungsten carbide and alloys, not controlled by 1C117 or 1C226 of Annex 1 of the Dual-Use Regulation, containing more than 90 % tungsten by weight.[^key-bfc6f7ca2d23f810496b7c4a776c8692]<br>Note 1: For the purpose of this control, wire is excluded.<br>Note 2: For the purpose of this control, surgical or medical instruments are excluded. |  |
+| Rare-earth metals and compounds, either in organic or inorganic form, including mixtures whether or not intermixed or interalloyed.[^c-fbfaf7d18568f03bfc39366153d4be09]<br>*Note 1: Rare-earth metals and compounds include Scandium, Yttrium, Lanthanum, Cerium, Praseodymium, Neodymium, Promethium, Samarium, Europium, Gadolinium, Terbium, Dysprosium, Holmium, Erbium, Thulium, Ytterbium and Lutetium;*<br>*Note 2: For the purposes of the prohibition, minerals containing rare-earth metals are excluded;*<br>*Note 3: the prohibition does not prohibit mixtures in which no individual metal or compound specified in this entry constitutes more than 5% by the weight of the mixture.* |  |
+| Tungsten, tungsten carbide and alloys, not controlled by 1C117 or 1C226 of Annex 1 of the Dual-Use Regulation, containing more than 90 % tungsten by weight.[^c-bfc6f7ca2d23f810496b7c4a776c8692]<br>Note 1: For the purpose of this control, wire is excluded.<br>Note 2: For the purpose of this control, surgical or medical instruments are excluded. |  |
 
 ### PART 1B — MATERIALS PROCESSING
 
@@ -184,7 +184,7 @@ Microorganisms and Toxins
 | c. “Numerically controlled” machine tools that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous “contouring control” in two or more axes and that have both of the following characteristics: |  |
 | c.1. Two or more axes that can be coordinated simultaneously for contouring control; and |  |
 | c.2. Positioning accuracies according to ISO 230/2 (2006), with all compensations available: |  |
-| c.2.a. Better than 15µm[^key-5df7dc6b82d292bd105be35cf5727a93] along any linear axis (overall positioning) for grinding machines; |  |
+| c.2.a. Better than 15µm[^c-5df7dc6b82d292bd105be35cf5727a93] along any linear axis (overall positioning) for grinding machines; |  |
 | c.2.b. Better than 15µm along any linear axis (overall positioning) for milling machines; or |  |
 | c.2.c. Better than 15µm along any linear axis (overall positioning) for turning machines; or |  |
 | d. Machine tools, as follows, for removing or cutting metals, ceramics or composites, that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous “contouring control” in two or more axes: |  |
@@ -220,7 +220,7 @@ Microorganisms and Toxins
 | f. Monel equipment, including valves, piping, tanks and vessels; |  |
 | g. 304 and 316 stainless steel valves, piping, tanks and vessels;<br>*Note: Fittings are considered part of “piping” for purposes of 2B999.g.* |  |
 | h. Mining and drilling equipment, as follows: |  |
-| h.1. Large boring equipment capable of drilling holes greater than 61cm/two feet[^key-439b149c49e80218e906262b422a6a84] in diameter; |  |
+| h.1. Large boring equipment capable of drilling holes greater than 61cm/two feet[^c-439b149c49e80218e906262b422a6a84] in diameter; |  |
 | h.2. Large earth-moving equipment used in the mining industry; |  |
 | i. Electroplating equipment designed for coating parts with nickel or aluminium; |  |
 | j. Pumps designed for industrial service and for “use” with an electrical motor of 5 HP or greater; |  |
@@ -250,12 +250,12 @@ Microorganisms and Toxins
 | 2E991 “Technology” for the use of equipment controlled by 2B991, 2B993, 2B996, or 2B997. |  |
 | 2E993 “Technology” according to the General Technology Note of Annex I of the Dual-Use Regulation for the “use” of equipment controlled by 2A992 or 2A993. |  |
 | 2E994 “Technology” for the “use” of portable electric generators controlled by 2A994. |  |
-| *Continuous flow reactors and their modular components.[^key-c4e6cff32a2b721274771b564b498677]* |  |
+| *Continuous flow reactors and their modular components.[^c-c4e6cff32a2b721274771b564b498677]* |  |
 | *Technical note: Continuous flow reactors consist in plug and play systems where reactants are continuously fed into the reactor and the resultant product is collected at the outlet.*<br>*Modular components are fluidic modules, liquid pumps, valves, packed-bed modules, mixer modules, pressure gauges, liquid-liquid separators, etc.* |  |
 | Nucleic acid assemblers and synthesizers not controlled by 2B352.i, which are partly or entirely automated, and designed to generate nucleic acids greater than 50 bases. |  |
 | Automated peptide synthesizers capable to work under controlled atmosphere conditions. |  |
 
-### Part 1C — Ancillary chemicals used in advanced chip production[^key-04c244585588fb130265231b7a8046d5]
+### Part 1C — Ancillary chemicals used in advanced chip production[^c-04c244585588fb130265231b7a8046d5]
 
 | CAS code | Description |
 | --- | --- |
@@ -505,7 +505,7 @@ Microorganisms and Toxins
 </tbody>
 </table>
 
-[^key-9da23b1cbb61ad05adccdef6800f48be][^key-56b5a22b3873883fd49fcf0be50d8cc2][^key-300cdff208db3681bfd925fb5fd422e1][^key-e3412f5426bcdb3877ce749cf443f675][^key-7033baa4359964f3c3f1377d7b898114][^key-4a016e52c5863124845f5fb36cdea6f3][^key-9b463c000be7c393f392c6add303aa1c][^key-b0cf44e783bcb68cd469783b7fb181fd][^key-9b463c000be7c393f392c6add303aa1c][^key-5363925f0b0304dcb4b61098e5013f0e]
+[^c-9da23b1cbb61ad05adccdef6800f48be][^c-56b5a22b3873883fd49fcf0be50d8cc2][^c-300cdff208db3681bfd925fb5fd422e1][^c-e3412f5426bcdb3877ce749cf443f675][^c-7033baa4359964f3c3f1377d7b898114][^c-4a016e52c5863124845f5fb36cdea6f3][^c-9b463c000be7c393f392c6add303aa1c][^c-b0cf44e783bcb68cd469783b7fb181fd][^c-9b463c000be7c393f392c6add303aa1c][^c-5363925f0b0304dcb4b61098e5013f0e]
 
 ### PART 3 — Computers
 
@@ -541,7 +541,7 @@ Microorganisms and Toxins
 </tbody>
 </table>
 
-[^key-28f08c751b3770306017cae8ef8cdee8]
+[^c-28f08c751b3770306017cae8ef8cdee8]
 
 ### PART 4 — Telecommunications and information security
 
@@ -797,7 +797,7 @@ Microorganisms and Toxins
 </tbody>
 </table>
 
-[^key-43321bf7dc59863855ddc267e096ab0c][^key-4683454e8d719d7601ebacd6742a19a6][^key-fddd5e585b20676cc6c151fa10615f56]
+[^c-43321bf7dc59863855ddc267e096ab0c][^c-4683454e8d719d7601ebacd6742a19a6][^c-fddd5e585b20676cc6c151fa10615f56]
 
 ### PART 8 — Aerospace and Propulsion
 
@@ -834,9 +834,9 @@ Microorganisms and Toxins
 </tbody>
 </table>
 
-[^key-951dbe78568b71f1e0604367fdf69e2f][^key-f18689bf9b276a4fc7156406ee688c76][^key-7672357caa62c8ec85b9d8e7196fbdae][^key-68d6e470b0a04cefe983249cc0736eca]
+[^c-951dbe78568b71f1e0604367fdf69e2f][^c-f18689bf9b276a4fc7156406ee688c76][^c-7672357caa62c8ec85b9d8e7196fbdae][^c-68d6e470b0a04cefe983249cc0736eca]
 
-**Jet fuel and fuel additives[^key-27564dacdc5f429fd51ee46af3e5435f]**
+**Jet fuel and fuel additives[^c-27564dacdc5f429fd51ee46af3e5435f]**
 
 Any thing falling within a commodity code mentioned in column 1 of the following table.
 
@@ -876,7 +876,7 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 | 3811 29 00 | — other |
 | 3811 90 00 | Thermal stability improver for other liquids used for the same purposes as mineral oils |
 
-### PART 9 — Miscellaneous items[^key-00245aab903359c54a34f6c640274f4a]
+### PART 9 — Miscellaneous items[^c-00245aab903359c54a34f6c640274f4a]
 
 **1.** Equipment for oil production or oil exploration as follows—
 
@@ -936,9 +936,9 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 
 **11.** “Software” specially designed or modified for the “development”, “production” or “use” of the systems, equipment and components specified in paragraphs 3 to 6.
 
-**12.**[^key-20d8de60e100c4d4413893135e2f1494] Nettings, Canopies, Tents, Blankets and Apparel, specially designed for camouflage.
+**12.**[^c-20d8de60e100c4d4413893135e2f1494] Nettings, Canopies, Tents, Blankets and Apparel, specially designed for camouflage.
 
-**13.**[^key-ce3d6b28680fd54664d6ff30600b1097] All-terrain vehicles.
+**13.**[^c-ce3d6b28680fd54664d6ff30600b1097] All-terrain vehicles.
 
 *\[Note: For the purpose of this entry, an “**all-terrain vehicle**” means a motorised vehicle designed to travel on three or four low pressure (less than 0.9 bar gauge pressure) tyres on unpaved surfaces, typically having a seat designed to be straddled by the operator and handlebars for steering control and includes quad bikes, off-road vehicles and utility terrain vehicles.*
 
@@ -964,7 +964,7 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 - (f) Fabrics;
 - (g) Pulps or flocks.
 
-**16.**[^key-2bdb3787cae8a1254eaa6768484ccc07] Constituent chemicals for propellants as follows—
+**16.**[^c-2bdb3787cae8a1254eaa6768484ccc07] Constituent chemicals for propellants as follows—
 
 - (a) Toluene Diisocyanate, in any isomeric form (CAS 584-84-9, 91-08-7, 26471-62-5, 9002-68-2, 26628-22-8);
 - (b) Methyl Diphenyl Diisocyanate (CAS 101-68-8);
@@ -977,76 +977,76 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 
 ## Annotations
 
-[^key-f016dc4fe693713768719bc8b890cc75]: Textual amendment: Sch. 2A inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/195/schedule) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
+[^c-f016dc4fe693713768719bc8b890cc75]: Textual amendment: Sch. 2A inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/195/schedule) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
 
-[^key-bb36b455beb5b7e2bfd4c0cae26490ad]: Textual amendment: Word in Sch. 2A para. 1(1) substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2022/1110/schedule/3/paragraph/7)
+[^c-bb36b455beb5b7e2bfd4c0cae26490ad]: Textual amendment: Word in Sch. 2A para. 1(1) substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2022/1110/schedule/3/paragraph/7)
 
-[^key-1c45c04c46ca8f865f270dc1d968e522]: Textual amendment: Word in Sch. 2A para. 1(1) substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/2/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-1c45c04c46ca8f865f270dc1d968e522]: Textual amendment: Word in Sch. 2A para. 1(1) substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/2/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-d39a6d35b9eebe25bc144558167b72f7]: Textual amendment: Words in Sch. 2A para. 1(3)(a) substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/2/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-d39a6d35b9eebe25bc144558167b72f7]: Textual amendment: Words in Sch. 2A para. 1(3)(a) substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/2/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
 [^M_F_6390b4d9-e917-4f78-e7f5-488124bd1ef4]: Textual amendment: Words in Sch. 2A para. 2 inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 2](https://www.legislation.gov.uk/uksi/2022/792/regulation/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/12/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-b7159ba768ae561bbd604b6639eb94ae]: Textual amendment: Sch. 2A Pts. 1A, 1B inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/792/schedule/1) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-b7159ba768ae561bbd604b6639eb94ae]: Textual amendment: Sch. 2A Pts. 1A, 1B inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/792/schedule/1) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-c1047fd52a7640c9512ea49b80bea4eb]: Textual amendment: Word in Sch. 2A Pt. 1A inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(2)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/2)
+[^c-c1047fd52a7640c9512ea49b80bea4eb]: Textual amendment: Word in Sch. 2A Pt. 1A inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(2)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/2)
 
-[^key-f33e0472ee9ec0ab232d2f5c504c9973]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/1331/schedule/1/paragraph/1)
+[^c-f33e0472ee9ec0ab232d2f5c504c9973]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/1331/schedule/1/paragraph/1)
 
 [^M_F_4c8eb381-3156-43d5-de9f-0b5bf01dbdb1]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/1331/schedule/1/paragraph/2)
 
-[^key-fbfaf7d18568f03bfc39366153d4be09]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/a)
+[^c-fbfaf7d18568f03bfc39366153d4be09]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/a)
 
-[^key-bfc6f7ca2d23f810496b7c4a776c8692]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/2)
+[^c-bfc6f7ca2d23f810496b7c4a776c8692]: Textual amendment: Words in Sch. 2A Pt. 1A inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/2)
 
-[^key-5df7dc6b82d292bd105be35cf5727a93]: Textual amendment: Word in [Sch. 2A Pt. 1B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1B) Table substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(3)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/3/a)
+[^c-5df7dc6b82d292bd105be35cf5727a93]: Textual amendment: Word in [Sch. 2A Pt. 1B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1B) Table substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(3)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/3/a)
 
-[^key-439b149c49e80218e906262b422a6a84]: Textual amendment: Words in [Sch. 2A Pt. 1B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1B) Table substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(3)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/3/b)
+[^c-439b149c49e80218e906262b422a6a84]: Textual amendment: Words in [Sch. 2A Pt. 1B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1B) Table substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(3)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/3/b)
 
-[^key-c4e6cff32a2b721274771b564b498677]: Textual amendment: Words in [Sch. 2A Pt. 1B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1B) Table inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/b)
+[^c-c4e6cff32a2b721274771b564b498677]: Textual amendment: Words in [Sch. 2A Pt. 1B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1B) Table inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/b)
 
-[^key-04c244585588fb130265231b7a8046d5]: Textual amendment: [Sch. 2A Pt. 1C](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1C) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(1)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/1/a)
+[^c-04c244585588fb130265231b7a8046d5]: Textual amendment: [Sch. 2A Pt. 1C](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/1C) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(1)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/1/a)
 
-[^key-9da23b1cbb61ad05adccdef6800f48be]: Textual amendment: Word in Sch. 2A Pt. 2 substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(4)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/4/a)
+[^c-9da23b1cbb61ad05adccdef6800f48be]: Textual amendment: Word in Sch. 2A Pt. 2 substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(4)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/4/a)
 
-[^key-56b5a22b3873883fd49fcf0be50d8cc2]: Textual amendment: Words in Sch. 2A Pt. 2 substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(4)(c)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/4/c)
+[^c-56b5a22b3873883fd49fcf0be50d8cc2]: Textual amendment: Words in Sch. 2A Pt. 2 substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(4)(c)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/4/c)
 
-[^key-300cdff208db3681bfd925fb5fd422e1]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(4)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/4)
+[^c-300cdff208db3681bfd925fb5fd422e1]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(4)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/4)
 
-[^key-e3412f5426bcdb3877ce749cf443f675]: Textual amendment: Words in Sch. 2A Pt. 2 substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/c)
+[^c-e3412f5426bcdb3877ce749cf443f675]: Textual amendment: Words in Sch. 2A Pt. 2 substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/c)
 
-[^key-7033baa4359964f3c3f1377d7b898114]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(5)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/5)
+[^c-7033baa4359964f3c3f1377d7b898114]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(5)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/5)
 
-[^key-4a016e52c5863124845f5fb36cdea6f3]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(6)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/6)
+[^c-4a016e52c5863124845f5fb36cdea6f3]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(6)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/6)
 
-[^key-9b463c000be7c393f392c6add303aa1c]: Textual amendment: Words in [Sch. 2A Pt. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/2) omitted (24.4.2025) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-9b463c000be7c393f392c6add303aa1c]: Textual amendment: Words in [Sch. 2A Pt. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/2) omitted (24.4.2025) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-b0cf44e783bcb68cd469783b7fb181fd]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(7)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/7)
+[^c-b0cf44e783bcb68cd469783b7fb181fd]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(7)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/7)
 
-[^key-5363925f0b0304dcb4b61098e5013f0e]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(8)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/8)
+[^c-5363925f0b0304dcb4b61098e5013f0e]: Textual amendment: Words in Sch. 2A Pt. 2 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(8)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/8)
 
-[^key-28f08c751b3770306017cae8ef8cdee8]: Textual amendment: Word in [Sch. 2A Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/3) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(d)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/d)
+[^c-28f08c751b3770306017cae8ef8cdee8]: Textual amendment: Word in [Sch. 2A Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/3) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(d)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/d)
 
-[^key-43321bf7dc59863855ddc267e096ab0c]: Textual amendment: Words in [Sch. 2A Pt. 7](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/7) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(e)(i)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/e/i)
+[^c-43321bf7dc59863855ddc267e096ab0c]: Textual amendment: Words in [Sch. 2A Pt. 7](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/7) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(e)(i)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/e/i)
 
-[^key-4683454e8d719d7601ebacd6742a19a6]: Textual amendment: Words in [Sch. 2A Pt. 7](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/7) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/e/ii)
+[^c-4683454e8d719d7601ebacd6742a19a6]: Textual amendment: Words in [Sch. 2A Pt. 7](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/7) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/e/ii)
 
-[^key-fddd5e585b20676cc6c151fa10615f56]: Textual amendment: Words in [Sch. 2A Pt. 7](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/7) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2022/792/regulation/12/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-fddd5e585b20676cc6c151fa10615f56]: Textual amendment: Words in [Sch. 2A Pt. 7](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/7) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2022/792/regulation/12/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-951dbe78568b71f1e0604367fdf69e2f]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) substituted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [14(a)(i)](https://www.legislation.gov.uk/uksi/2022/241/regulation/14/a/i)
+[^c-951dbe78568b71f1e0604367fdf69e2f]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) substituted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [14(a)(i)](https://www.legislation.gov.uk/uksi/2022/241/regulation/14/a/i)
 
-[^key-f18689bf9b276a4fc7156406ee688c76]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) substituted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2022/241/regulation/14/a/ii)
+[^c-f18689bf9b276a4fc7156406ee688c76]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) substituted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2022/241/regulation/14/a/ii)
 
-[^key-7672357caa62c8ec85b9d8e7196fbdae]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(f)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/f)
+[^c-7672357caa62c8ec85b9d8e7196fbdae]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(f)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/f)
 
-[^key-68d6e470b0a04cefe983249cc0736eca]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) omitted (8.3.2022 at 5.00 p.m.) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/241/regulation/14/b)
+[^c-68d6e470b0a04cefe983249cc0736eca]: Textual amendment: Words in [Sch. 2A Pt. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/8) omitted (8.3.2022 at 5.00 p.m.) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/241/regulation/14/b)
 
-[^key-27564dacdc5f429fd51ee46af3e5435f]: Textual amendment: Words and Table in Sch. 2A Pt. 8 inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/792/schedule/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-27564dacdc5f429fd51ee46af3e5435f]: Textual amendment: Words and Table in Sch. 2A Pt. 8 inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/792/schedule/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-00245aab903359c54a34f6c640274f4a]: Textual amendment: [Sch. 2A Pt. 9](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1331/schedule/1/part/2)
+[^c-00245aab903359c54a34f6c640274f4a]: Textual amendment: [Sch. 2A Pt. 9](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1331/schedule/1/part/2)
 
-[^key-20d8de60e100c4d4413893135e2f1494]: Textual amendment: [Sch. 2A Pt. 9 para. 12](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9/paragraph/12) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(g)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/g)
+[^c-20d8de60e100c4d4413893135e2f1494]: Textual amendment: [Sch. 2A Pt. 9 para. 12](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9/paragraph/12) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(1)(g)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/1/g)
 
-[^key-ce3d6b28680fd54664d6ff30600b1097]: Textual amendment: [Sch. 2A Pt. 9 paras. 13-15](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9/paragraph/13) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/4) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-ce3d6b28680fd54664d6ff30600b1097]: Textual amendment: [Sch. 2A Pt. 9 paras. 13-15](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9/paragraph/13) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/4) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-2bdb3787cae8a1254eaa6768484ccc07]: Textual amendment: [Sch. 2A Pt. 9 para. 16](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9/paragraph/16) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(1)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/1/b)
+[^c-2bdb3787cae8a1254eaa6768484ccc07]: Textual amendment: [Sch. 2A Pt. 9 para. 16](https://www.legislation.gov.uk/uksi/2019/855/schedule/2A/part/9/paragraph/16) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(1)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/1/b)

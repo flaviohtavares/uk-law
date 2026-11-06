@@ -39,27 +39,27 @@ Coming into force
 
 12th April 2004
 
-[^key-a58ba031c8cc35498f111903b6afd3dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a58ba031c8cc35498f111903b6afd3dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-a58ba031c8cc35498f111903b6afd3dd][^key-a58ba031c8cc35498f111903b6afd3dd]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Council Tax Benefit Regulations[^key-a58ba031c8cc35498f111903b6afd3dd][^key-a58ba031c8cc35498f111903b6afd3dd]
+## 1. Citation, commencement and interpretation[^c-a58ba031c8cc35498f111903b6afd3dd][^c-a58ba031c8cc35498f111903b6afd3dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Housing Benefit Regulations[^key-a58ba031c8cc35498f111903b6afd3dd][^key-a58ba031c8cc35498f111903b6afd3dd]
+## 2. Amendment of the Council Tax Benefit Regulations[^c-a58ba031c8cc35498f111903b6afd3dd][^c-a58ba031c8cc35498f111903b6afd3dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003[^key-a58ba031c8cc35498f111903b6afd3dd][^key-a58ba031c8cc35498f111903b6afd3dd]
+## 3. Amendment of the Housing Benefit Regulations[^c-a58ba031c8cc35498f111903b6afd3dd][^c-a58ba031c8cc35498f111903b6afd3dd]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003[^c-a58ba031c8cc35498f111903b6afd3dd][^c-a58ba031c8cc35498f111903b6afd3dd]
 
 **No longer in force.**
 
@@ -67,10 +67,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-a58ba031c8cc35498f111903b6afd3dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a58ba031c8cc35498f111903b6afd3dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a58ba031c8cc35498f111903b6afd3dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a58ba031c8cc35498f111903b6afd3dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a58ba031c8cc35498f111903b6afd3dd]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2003/2634) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-a58ba031c8cc35498f111903b6afd3dd]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2003/2634) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

@@ -31,7 +31,7 @@ This subsection does not extend to Scotland.
 (4) A company having an official seal for use outside the United Kingdom may—
 
 - (a) by writing under its common seal, or
-- (b) as respects Scotland, by writing subscribed or authenticated[^key-e80ff1d7e558747833c1c835fdfe40e3] in accordance with the Requirements of Writing (Scotland) Act 1995,
+- (b) as respects Scotland, by writing subscribed or authenticated[^c-e80ff1d7e558747833c1c835fdfe40e3] in accordance with the Requirements of Writing (Scotland) Act 1995,
 
 authorise any person appointed for the purpose to affix the official seal to any deed or other document to which the company is party.
 
@@ -46,4 +46,4 @@ authorise any person appointed for the purpose to affix the official seal to any
 
 [^c20599831]: Modification: S. 49 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [6](https://www.legislation.gov.uk/uksi/2009/1804/regulation/6)
 
-[^key-e80ff1d7e558747833c1c835fdfe40e3]: Textual amendment: Words in s. 49(4)(b) inserted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 50(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/50/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e80ff1d7e558747833c1c835fdfe40e3]: Textual amendment: Words in s. 49(4)(b) inserted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 50(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/50/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

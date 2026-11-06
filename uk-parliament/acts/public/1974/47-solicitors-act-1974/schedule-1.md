@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Intervention in Solicitor’s Practice[^c13354301][^key-90feb94d2338b50809dc5034210b507c]
+## SCHEDULE 1 — Intervention in Solicitor’s Practice[^c13354301][^c-90feb94d2338b50809dc5034210b507c]
 
 *Extent: E+W*
 
@@ -37,13 +37,13 @@ Section 35.
   - (ii) any business which is or was carried on by S as a sole trader;
 - (b) the Society considers[^c19675831] that there has been undue delay on the part of the personal representatives of a deceased solicitor who immediately before his death was practising as a sole solicitor in connection with that solicitor’s practice or in connection with any trust[^c19675851] ;
 - (c) the Society is[^c19675871] satisfied that a solicitor has failed to comply with rules made by virtue of section 31,[^c13354351] 32 or 37(2)(c);
-- (d) a solicitor has been made[^key-c88ad755a0061cb26795924e9d4dd4b1] bankrupt or has made a composition or arrangement with his creditors;
+- (d) a solicitor has been made[^c-c88ad755a0061cb26795924e9d4dd4b1] bankrupt or has made a composition or arrangement with his creditors;
 - (e) a solicitor has been committed to prison in any civil or criminal proceedings;
 - (ee)[^c13354361] the Society is[^c19675891] satisfied that a sole solicitor is incapacitated by illness , injury[^c19675911] or accident to such an extent as to be unable to attend to his practice;
 - (f)[^c19176111] a solicitor lacks capacity (within the meaning of the Mental Capacity Act 2005) to act as a solicitor and powers under sections 15 to 20 or section 48 of that Act are exercisable in relation to him;
 - (g) the name of a solicitor has been removed from or struck off the roll or a solicitor has been suspended from practice.
 - (h)[^c13354381] the Society is[^c19675951] satisfied that a [^c19676101]. . . solicitor has abandoned his practice;
-- (i)[^key-06efd62e4c74d34a8f86819dfa8d7359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-06efd62e4c74d34a8f86819dfa8d7359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) any power conferred by this Schedule has been exercised in relation to a sole solicitor by virtue of sub–paragraph (1)(a) and he has acted as a sole solicitor within the period of eighteen months beginning with the date on which it was so exercised;
 - (k)[^c20575711] the Society is[^c19675971] satisfied that a person has acted as a solicitor at a time when he did not have a practising certificate which was in force;
 - (l) the Society is[^c19676001] satisfied that a solicitor has failed to comply with any condition, subject to which his practising certificate was granted or otherwise has effect, to the effect that he may act as a solicitor only—
@@ -74,7 +74,7 @@ Section 35.
 
 (2) The references to the solicitor or his firm in paragraphs 5(1), 6(2) and (3) , 6A[^c19676211], 8, 9(1) , (5) and (6)[^c19676231] and 10(2) and (7)[^c19676251] include, in any case where the solicitor has died, references to his personal representatives.
 
-### Part II — Powers Exercisable on Intervention[^key-8b2ea1b14710af07293e95deccedf92c]
+### Part II — Powers Exercisable on Intervention[^c-8b2ea1b14710af07293e95deccedf92c]
 
 #### Money
 
@@ -86,7 +86,7 @@ Section 35.
 
 (4) This paragraph does not apply where the powers conferred by this Part of this Schedule are exercisable by virtue of paragraph 3.
 
-**6.**[^c13354552][^c13354561][^key-8b2ea1b14710af07293e95deccedf92c][^key-6ad47c5342453d4d2e311d7b9f20c696] (1) Without prejudice to paragraph 5, if the Society passes[^c19676301] a resolution to the effect that any sums of money to which this paragraph applies, and the right to recover or receive them, shall vest in the Society, all such sums shall vest accordingly (whether they were received by the person holding them before or after the Society's[^c19676321] resolution) and shall be held by the Society on trust to exercise in relation to them the powers conferred by this Part of this Schedule and subject thereto and to rules under paragraph 6B[^c19676341] upon trust for the persons beneficially entitled to them.
+**6.**[^c13354552][^c13354561][^c-8b2ea1b14710af07293e95deccedf92c][^c-6ad47c5342453d4d2e311d7b9f20c696] (1) Without prejudice to paragraph 5, if the Society passes[^c19676301] a resolution to the effect that any sums of money to which this paragraph applies, and the right to recover or receive them, shall vest in the Society, all such sums shall vest accordingly (whether they were received by the person holding them before or after the Society's[^c19676321] resolution) and shall be held by the Society on trust to exercise in relation to them the powers conferred by this Part of this Schedule and subject thereto and to rules under paragraph 6B[^c19676341] upon trust for the persons beneficially entitled to them.
 
 (2) This paragraph applies—
 
@@ -105,7 +105,7 @@ Section 35.
 
 (6) If any person on whom a notice has been served under sub–paragraph (3) pays out sums of money at a time when such payment is prohibited by the notice, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c13354581].
 
-**6A.**[^key-8b2ea1b14710af07293e95deccedf92c][^key-6ad47c5342453d4d2e311d7b9f20c696][^c19676461] (1) Without prejudice to paragraph 5, if the Society passes a resolution to the effect that any rights to which this paragraph applies shall vest in the Society, those rights shall vest accordingly.
+**6A.**[^c-8b2ea1b14710af07293e95deccedf92c][^c-6ad47c5342453d4d2e311d7b9f20c696][^c19676461] (1) Without prejudice to paragraph 5, if the Society passes a resolution to the effect that any rights to which this paragraph applies shall vest in the Society, those rights shall vest accordingly.
 
 (2) This paragraph applies to any right to recover or receive debts due to the solicitor or his firm in connection with his practice or former practice.
 
@@ -113,15 +113,15 @@ Section 35.
 
 (4) The Society shall serve on the solicitor or his firm, and any person who owes a debt to which the order applies, a certified copy of the Society's resolution.
 
-**6B.**[^key-8b2ea1b14710af07293e95deccedf92c][^key-6ad47c5342453d4d2e311d7b9f20c696] (1) The Society may make rules governing its treatment of sums vested in it under paragraph 6 or 6A(3).
+**6B.**[^c-8b2ea1b14710af07293e95deccedf92c][^c-6ad47c5342453d4d2e311d7b9f20c696] (1) The Society may make rules governing its treatment of sums vested in it under paragraph 6 or 6A(3).
 
 (2) The rules may in particular make provision in respect of cases where the Society, having taken such steps to do so as are reasonable in all the circumstances of the case, is unable to trace the person or persons beneficially entitled to any sum vested in the Society under paragraph 6 or 6A(3) (including provision which requires amounts to be paid into or out of compensation funds (within the meaning of section 36A)).
 
-**7.**[^c13354662][^c13354671][^key-8b2ea1b14710af07293e95deccedf92c][^key-6ad47c5342453d4d2e311d7b9f20c696] (1) If the Society takes possession of any sum of money to which paragraph 6 or 6A(3)[^c19676481] applies, the Society shall pay it into a special account in the name of the Society or of a person nominated on behalf of the Society, or into a client account of a solicitor nominated on behalf of the society, and any such person or solicitor[^c13354681] shall hold that sum on trust to permit the Society to exercise in relation to it the powers conferred by this Part of this Schedule and subject thereto and to rules under paragraph 6B[^c19676501] on trust for the persons beneficially entitled to it.
+**7.**[^c13354662][^c13354671][^c-8b2ea1b14710af07293e95deccedf92c][^c-6ad47c5342453d4d2e311d7b9f20c696] (1) If the Society takes possession of any sum of money to which paragraph 6 or 6A(3)[^c19676481] applies, the Society shall pay it into a special account in the name of the Society or of a person nominated on behalf of the Society, or into a client account of a solicitor nominated on behalf of the society, and any such person or solicitor[^c13354681] shall hold that sum on trust to permit the Society to exercise in relation to it the powers conferred by this Part of this Schedule and subject thereto and to rules under paragraph 6B[^c19676501] on trust for the persons beneficially entitled to it.
 
 (2) A bank or other financial institution[^c13354691] at which a special account is kept shall be under no obligation to ascertain whether it is being dealt with properly.
 
-**8.**[^c13354731][^c13354741][^key-8b2ea1b14710af07293e95deccedf92c][^key-6ad47c5342453d4d2e311d7b9f20c696] Without prejudice to paragraphs 5 to 7, if the High Court is satisfied, on an application by the Society, that there is reason to suspect that any person holds money on behalf of the solicitor or his firm, the court may require that person to give the Society information as to any such money and the accounts in which it is held.
+**8.**[^c13354731][^c13354741][^c-8b2ea1b14710af07293e95deccedf92c][^c-6ad47c5342453d4d2e311d7b9f20c696] Without prejudice to paragraphs 5 to 7, if the High Court is satisfied, on an application by the Society, that there is reason to suspect that any person holds money on behalf of the solicitor or his firm, the court may require that person to give the Society information as to any such money and the accounts in which it is held.
 
 #### Documents
 
@@ -190,7 +190,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 (7) The High Court may, on the application of the Society, authorise the Society, or a person appointed by it, to take such steps as may be specified in the order in relation to any website purporting to be or have been maintained by or on behalf of the solicitor or his firm if the High Court is satisfied that the taking of those steps is necessary to protect the public interest or the interests of clients (or potential or former clients) of the solicitor or his firm.
 
-(8) In this paragraph “ **postal operator** ” and “ **postal packet** ” have the meaning given by section 27 of the Postal Services Act 2011[^key-5d11e3e3f84635e6355e6bf74b357054].
+(8) In this paragraph “ **postal operator** ” and “ **postal packet** ” have the meaning given by section 27 of the Postal Services Act 2011[^c-5d11e3e3f84635e6355e6bf74b357054].
 
 (9) This paragraph does not apply where the powers conferred by this Part of this Schedule are exercisable by virtue of paragraph 3.
 
@@ -222,7 +222,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 [^c13354301]: Modification: Sch. 1 applied (with modifications) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/9) (as amended (1.7.2009) by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(9)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/9))
 
-[^key-90feb94d2338b50809dc5034210b507c]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/47/schedule/1) applied in part (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-90feb94d2338b50809dc5034210b507c]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/47/schedule/1) applied in part (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c20575611]: Modification: Sch. 1 para. 1(1) extended in part (with modifications) (1.7.2009) by [The Registered Foreign Lawyers Order 2009 (S.I. 2009/1589)](https://www.legislation.gov.uk/uksi/2009/1589), [art. 3(2)(q)](https://www.legislation.gov.uk/uksi/2009/1589/article/3/2/q), [Sch.](https://www.legislation.gov.uk/uksi/2009/1589/schedule)
 
@@ -242,7 +242,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 [^c13354351]: Textual amendment: Words in Sch. 1 para. 1(1)(c) inserted (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 48](https://www.legislation.gov.uk/ukpga/1999/22/section/48), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/1999/22/schedule/7/paragraph/6) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 1999/2657](https://www.legislation.gov.uk/uksi/1999/2657), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/2657/article/2/a)
 
-[^key-c88ad755a0061cb26795924e9d4dd4b1]: Textual amendment: Word in [Sch. 1 para. 1(1)(d)](https://www.legislation.gov.uk/ukpga/1974/47/schedule/1/paragraph/1/1/d) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-c88ad755a0061cb26795924e9d4dd4b1]: Textual amendment: Word in [Sch. 1 para. 1(1)(d)](https://www.legislation.gov.uk/ukpga/1974/47/schedule/1/paragraph/1/1/d) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
 [^c13354361]: Textual amendment: Sch. 1 Pt. I para. 1(1)(ee) inserted by [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [s. 8](https://www.legislation.gov.uk/ukpga/1985/61/section/8), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/1/paragraph/13/2)
 
@@ -258,7 +258,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 [^c19676101]: Textual amendment: Word in Sch. 1 para. 1(1)(h) repealed (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 77(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/77/2/f/ii), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-06efd62e4c74d34a8f86819dfa8d7359]: Textual amendment: Sch. 1 para. 1(1)(i) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/15)
+[^c-06efd62e4c74d34a8f86819dfa8d7359]: Textual amendment: Sch. 1 para. 1(1)(i) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/15)
 
 [^c20575711]: Modification: Sch. 1 para. 1(1)(k) modified by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [Sch. 4 para. 9(ac)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/9/ac) (as substituted (1.7.2009) by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(9)(a)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/9/a))
 
@@ -290,7 +290,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 [^c19676251]: Textual amendment: Words in Sch. 1 para. 4(2) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 77(4)(c)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/77/4/c) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-8b2ea1b14710af07293e95deccedf92c]: Modification: Sch. 1 Pt. II modified by [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [Sch. 2 para. 14ZA(5)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/14ZA/5)(as inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/20/4))
+[^c-8b2ea1b14710af07293e95deccedf92c]: Modification: Sch. 1 Pt. II modified by [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [Sch. 2 para. 14ZA(5)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/14ZA/5)(as inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/20/4))
 
 [^c13354451]: Modification: Sch. 1 Pt. II paras. 5-16 extended (1.1.1992) by [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [s. 9](https://www.legislation.gov.uk/ukpga/1985/61/section/9), [Sch. 2 paras. 32-35](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/32); [S.I. 1991/2683](https://www.legislation.gov.uk/uksi/1991/2683), [art. 2](https://www.legislation.gov.uk/uksi/1991/2683/article/2) (which extending provisions were amended (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 paras. 119](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/119)-123 (with ss. 29, 192, 193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
@@ -302,7 +302,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 [^c13354561]: Modification: Sch. 1 Pt. II paras. 5–16 extended (with modifications) (14.10.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 89](https://www.legislation.gov.uk/ukpga/1990/41/section/89), [Sch. 14 Pt. II para. 5](https://www.legislation.gov.uk/ukpga/1990/41/schedule/14/part/II/paragraph/5); [S.I. 1991/1883](https://www.legislation.gov.uk/uksi/1991/1883), [art. 3](https://www.legislation.gov.uk/uksi/1991/1883/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1883/schedule)
 
-[^key-6ad47c5342453d4d2e311d7b9f20c696]: Modification: Sch. 1 paras. 6-8 applied by ([Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [Sch. 2 para. 32A](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/32A) (as inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 20(15)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/20/15))
+[^c-6ad47c5342453d4d2e311d7b9f20c696]: Modification: Sch. 1 paras. 6-8 applied by ([Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [Sch. 2 para. 32A](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/32A) (as inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 20(15)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/20/15))
 
 [^c19676301]: Textual amendment: Words in Sch. 1 para. 6(1) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 77(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/77/5/a/i) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
@@ -378,7 +378,7 @@ the like charges (if any) as would have been payable for the redirection of the 
 
 [^c19676801]: Textual amendment: Sch. 1 para. 10 and cross-heading substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 77(10)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/77/10) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-5d11e3e3f84635e6355e6bf74b357054]: Textual amendment: Words in [Sch. 1 para. 10(8)](https://www.legislation.gov.uk/ukpga/1974/47/schedule/1/paragraph/10/8) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 98](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/98); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5d11e3e3f84635e6355e6bf74b357054]: Textual amendment: Words in [Sch. 1 para. 10(8)](https://www.legislation.gov.uk/ukpga/1974/47/schedule/1/paragraph/10/8) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 98](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/98); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c13355272]: Modification: Sch. 1 Pt. II paras. 5-16 extended (1.1.1992) by [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [s. 9](https://www.legislation.gov.uk/ukpga/1985/61/section/9), [Sch. 2 paras. 32-35](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/32); [S.I. 1991/2683](https://www.legislation.gov.uk/uksi/1991/2683), [art. 2](https://www.legislation.gov.uk/uksi/1991/2683/article/2) (which extending provisions were amended (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 paras. 119](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/119)-123 (with ss. 29, 192, 193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 

@@ -36,7 +36,7 @@ summary: ''
 
 (5) Schedule 4 (which makes further provision about the application in relation to a relevant society of the Insolvency Rules 1986 and the Insolvency (Scotland) Rules 1986) has effect.
 
-(6)[^key-d9a19ec931cdfccf30f4aceaccccdd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d9a19ec931cdfccf30f4aceaccccdd6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22009041]: Marginal citation: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915) as amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921); 2002/2709; 2003/2111; 2006/734; 2008/662; 2009/662; 2009/2375; and 2010/688. There are other amendments not relevant to this Order.
 
-[^key-d9a19ec931cdfccf30f4aceaccccdd6d]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2014/229/article/11/6) omitted (30.9.2021) by virtue of [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1048/article/2/3)
+[^c-d9a19ec931cdfccf30f4aceaccccdd6d]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2014/229/article/11/6) omitted (30.9.2021) by virtue of [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1048/article/2/3)

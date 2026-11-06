@@ -58,13 +58,13 @@ summary: ''
   - (a) an NHS trust;
   - (b) in the case of an agreement under which primary medical services are provided—[^c20947221]
     - (i) a Health Board;
-    - (ii) [^key-f3bc19a1a307b9947f78f73035bef7b2] ... or a Local Health Board;
+    - (ii) [^c-f3bc19a1a307b9947f78f73035bef7b2] ... or a Local Health Board;
     - (iii) an NHS trust, an NHS foundation trust or (in Northern Ireland) a Health and Social Services Trust;
     - (iv) a person who is providing primary medical services in accordance with a general medical services contract or a section 28Q contract or an individual who is providing general medical services in accordance with Article 56 of the 1972 Order;
     - (v) an individual who is providing general dental services;
     - (vi) a person who is providing primary dental services in accordance with a section 28K contract or an individual who is providing general dental services in accordance with Article 61 of the 1972 Order;
 
-    [^key-56aacb550625f7f6a8b210793025b217]...
+    [^c-56aacb550625f7f6a8b210793025b217]...
   - (c) in the case of an agreement under which personal dental services are provided—
     - (i) a dental practitioner whose name is included in a list prepared in accordance with regulations made under section 25(2)(a) of this Act or section 28X[^c20965031] of the 1977 Act; or
     - (ii) a dental practitioner who is providing personal dental services in accordance with section 17C arrangements or primary dental services in accordance with[^c20965051] section 28C arrangements;
@@ -133,9 +133,9 @@ summary: ''
 
 [^c20947221]: Textual amendment: S. 17D(2): definition of "NHS employee" para. (b) substituted (13.2.2004 for certain purposes otherwise 1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 2(3)(d)(iv)](https://www.legislation.gov.uk/asp/2004/1/section/2/3/d/iv), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1/3), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule)
 
-[^key-f3bc19a1a307b9947f78f73035bef7b2]: Textual amendment: Words in s. 17D(2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 4(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/4/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/160/article/3) [7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f3bc19a1a307b9947f78f73035bef7b2]: Textual amendment: Words in s. 17D(2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 4(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/4/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/160/article/3) [7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-56aacb550625f7f6a8b210793025b217]: Textual amendment: Words in s. 17D(2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 4(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/4/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/160/article/3) [7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-56aacb550625f7f6a8b210793025b217]: Textual amendment: Words in s. 17D(2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 4(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/4/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/160/article/3) [7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c20965031]: Textual amendment: S. 17D(2): definition of "NHS employee" words in para. (c)(i) substituted (1.4.2006) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 184](https://www.legislation.gov.uk/ukpga/2003/43/section/184), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [Sch. 11 para. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11/paragraph/46/3/b); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925) arts. 1(3), {10}
 

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**114.**[^key-51e5aa660190393a2c8aee8f679611eb][^key-2a4af322f00060434ca62fe8c95d7611] The part of the community of Gwehelog Fawr shown hatched on Map 87—
+**114.**[^c-51e5aa660190393a2c8aee8f679611eb][^c-2a4af322f00060434ca62fe8c95d7611] The part of the community of Gwehelog Fawr shown hatched on Map 87—
 
 - (a) is transferred to the community of Raglan;
 - (b) forms the community ward of Gwehelog;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51e5aa660190393a2c8aee8f679611eb]: Commencement: Art. 114 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-51e5aa660190393a2c8aee8f679611eb]: Commencement: Art. 114 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-2a4af322f00060434ca62fe8c95d7611]: Commencement: [Art. 114](https://www.legislation.gov.uk/wsi/2021/1227/article/114) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-2a4af322f00060434ca62fe8c95d7611]: Commencement: [Art. 114](https://www.legislation.gov.uk/wsi/2021/1227/article/114) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

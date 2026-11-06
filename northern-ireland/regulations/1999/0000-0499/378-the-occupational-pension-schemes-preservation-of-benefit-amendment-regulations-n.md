@@ -40,17 +40,17 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 69(4)(b) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-54197362305a57dcd699d599b01ba0c7]
+## 1. Citation, commencement and interpretation[^c-54197362305a57dcd699d599b01ba0c7]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Preservation of Benefit) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 1st October 1999.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-9eec82f202a0407dc8cb8d07680f56b4]
+## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-9eec82f202a0407dc8cb8d07680f56b4]
 
 In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00003] (transfer of member’s accrued rights without consent)—
 
-- (a)[^key-fa3da44e6546ec3b2cde339dc8f9c005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fa3da44e6546ec3b2cde339dc8f9c005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (4A) for “actuary” there shall be substituted “relevant actuary”; and
 - (c) for paragraph (5) there shall be substituted the following paragraph—
 
@@ -79,14 +79,14 @@ The amendments require that, where the transferring scheme is one which must hav
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-54197362305a57dcd699d599b01ba0c7]: Commencement: Reg. 1 in operation at 1.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/378/regulation/1/1)
+[^c-54197362305a57dcd699d599b01ba0c7]: Commencement: Reg. 1 in operation at 1.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/378/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9eec82f202a0407dc8cb8d07680f56b4]: Commencement: Reg. 2 in operation at 1.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/378/regulation/1/1)
+[^c-9eec82f202a0407dc8cb8d07680f56b4]: Commencement: Reg. 2 in operation at 1.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/378/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending regulations are [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324), [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300), [S.R. 1995 No. 441](https://www.legislation.gov.uk/nisr/1995/441), [S.R. 1996 No. 620](https://www.legislation.gov.uk/nisr/1996/620) and [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-fa3da44e6546ec3b2cde339dc8f9c005]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/1999/378/regulation/2/a) revoked (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [8](https://www.legislation.gov.uk/nisr/2011/89/regulation/8)
+[^c-fa3da44e6546ec3b2cde339dc8f9c005]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/1999/378/regulation/2/a) revoked (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [8](https://www.legislation.gov.uk/nisr/2011/89/regulation/8)
 
 [^f00004]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)

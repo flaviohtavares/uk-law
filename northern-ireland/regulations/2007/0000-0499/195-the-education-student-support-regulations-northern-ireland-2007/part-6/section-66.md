@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Current system students with full entitlement[^key-656ccf6419d715cc18ced77a600ab7c8]
+## 66. Current system students with full entitlement[^c-656ccf6419d715cc18ced77a600ab7c8]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ where A is the household income.
 
 ## Annotations
 
-[^key-656ccf6419d715cc18ced77a600ab7c8]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2007/195/regulation/66) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-656ccf6419d715cc18ced77a600ab7c8]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2007/195/regulation/66) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

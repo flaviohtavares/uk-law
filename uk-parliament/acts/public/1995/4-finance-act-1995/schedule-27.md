@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 27 — Sub-contractors in the construction industry[^key-a47e55823bc85d0869a0035cdf240fd6]
+## SCHEDULE 27 — Sub-contractors in the construction industry[^c-a47e55823bc85d0869a0035cdf240fd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,32 +28,32 @@ Section 139.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a47e55823bc85d0869a0035cdf240fd6]
+[^c-a47e55823bc85d0869a0035cdf240fd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a47e55823bc85d0869a0035cdf240fd6]
+[^c-a47e55823bc85d0869a0035cdf240fd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a47e55823bc85d0869a0035cdf240fd6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a47e55823bc85d0869a0035cdf240fd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a47e55823bc85d0869a0035cdf240fd6]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a47e55823bc85d0869a0035cdf240fd6]
+[^c-a47e55823bc85d0869a0035cdf240fd6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a47e55823bc85d0869a0035cdf240fd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a47e55823bc85d0869a0035cdf240fd6]: Textual amendment: Sch. 27 repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-a47e55823bc85d0869a0035cdf240fd6]: Textual amendment: Sch. 27 repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

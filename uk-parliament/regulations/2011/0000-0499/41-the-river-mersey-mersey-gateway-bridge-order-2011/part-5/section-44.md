@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Application of landlord and tenant law[^key-6d7caee8ee875cac48cda466e41e9d2f]
+## 44. Application of landlord and tenant law[^c-6d7caee8ee875cac48cda466e41e9d2f]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land is subject t
 
 ## Annotations
 
-[^key-6d7caee8ee875cac48cda466e41e9d2f]: Commencement: Art. 44 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-6d7caee8ee875cac48cda466e41e9d2f]: Commencement: Art. 44 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

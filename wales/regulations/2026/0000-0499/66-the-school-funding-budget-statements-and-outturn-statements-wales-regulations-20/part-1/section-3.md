@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation[^key-0e3e9c8e9c08d9834cd44883e8c9545e]
+## 3. Interpretation[^c-0e3e9c8e9c08d9834cd44883e8c9545e]
 
 *Extent: E+W*
 
@@ -121,7 +121,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0e3e9c8e9c08d9834cd44883e8c9545e]: Commencement: Reg. 3 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-0e3e9c8e9c08d9834cd44883e8c9545e]: Commencement: Reg. 3 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00015]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

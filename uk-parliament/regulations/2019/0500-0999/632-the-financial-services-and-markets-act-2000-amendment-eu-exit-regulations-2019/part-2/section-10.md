@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Section 3M (directions relating to consolidated supervision of groups)[^key-0dff1ea5fe71a078dbc87479aa883e8b]
+## 10. Section 3M (directions relating to consolidated supervision of groups)[^c-0dff1ea5fe71a078dbc87479aa883e8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) After subsection (2) insert—
 
-> (2A) “**Implementing provision**” means an enactment that immediately before IP completion day[^key-14db1d9110bb08008146ed1879d28676] implemented provisions of any of the relevant directives.
+> (2A) “**Implementing provision**” means an enactment that immediately before IP completion day[^c-14db1d9110bb08008146ed1879d28676] implemented provisions of any of the relevant directives.
 
 .
 
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0dff1ea5fe71a078dbc87479aa883e8b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-0dff1ea5fe71a078dbc87479aa883e8b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
 [^c23657271]: Marginal citation: Section 3M was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and 2014/3329.
 
 [^c23657281]: Marginal citation: [In the Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30), “**subordinate legislation**” has the meaning given by section 21(1) of that Act.
 
-[^key-14db1d9110bb08008146ed1879d28676]: Textual amendment: Words in reg. 10(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/a)
+[^c-14db1d9110bb08008146ed1879d28676]: Textual amendment: Words in reg. 10(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/a)

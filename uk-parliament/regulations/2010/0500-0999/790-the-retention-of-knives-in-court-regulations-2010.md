@@ -48,20 +48,20 @@ Coming into force
 
 6th April 2010
 
-The Lord Chancellor, in exercise of the powers conferred upon him by sections 55A and 56 of the Courts Act 2003[^f00001] makes the following Regulations.[^key-62636f0ce8ecbf6e381b8f743dffcd78]
+The Lord Chancellor, in exercise of the powers conferred upon him by sections 55A and 56 of the Courts Act 2003[^f00001] makes the following Regulations.[^c-62636f0ce8ecbf6e381b8f743dffcd78]
 
-## 1. Citation and commencement[^key-f91ae0a588ee1014ecce6bc60d4aff6e]
+## 1. Citation and commencement[^c-f91ae0a588ee1014ecce6bc60d4aff6e]
 
 These Regulations may be cited as the Retention of Knives in Court Regulations 2010 and come into force on 6th April 2010.
 
-## 2. Interpretation[^key-088c79360d9ecc41a6609b119227fcd1]
+## 2. Interpretation[^c-088c79360d9ecc41a6609b119227fcd1]
 
 In these Regulations—
 
 - “the Act” means the Courts Act 2003 and a reference to a section by number is a reference to that section of the Act; and
 - “person”, except where the context requires otherwise, means a person who surrenders a knife or from whom a knife is seized at a court building.
 
-## 3. Procedure to be followed when a knife is surrendered or seized[^key-cf0f18fb434f65f8ce18eb7303f73648]
+## 3. Procedure to be followed when a knife is surrendered or seized[^c-cf0f18fb434f65f8ce18eb7303f73648]
 
 (1) This regulation applies where a knife is surrendered to a court security officer in response to a request under section 54(1) or seized by a court security officer under section 54(2).
 
@@ -75,13 +75,13 @@ In these Regulations—
 
 (4) The court security officer must request the name of the person and must record the name, a brief description of the knife and the date on which it was surrendered or seized.
 
-## 4. Record of knives retained to be kept[^key-267ee41166d67dc6ca3158768c382972]
+## 4. Record of knives retained to be kept[^c-267ee41166d67dc6ca3158768c382972]
 
 (1) The court manager must keep a written record of knives retained under section 55A.
 
 (2) The record must include the name of the person, a brief description of the knife and the date on which it was surrendered or seized.
 
-## 5. Procedure for requesting the return of a knife[^key-22cf1a6254b515a4171bf6ba2e25a6c2]
+## 5. Procedure for requesting the return of a knife[^c-22cf1a6254b515a4171bf6ba2e25a6c2]
 
 (1) The return of a knife may be requested by the person or by somebody else on their behalf.
 
@@ -97,7 +97,7 @@ In these Regulations—
 - (d) the date when the knife was surrendered or seized; and
 - (e) the reference number provided by the court security officer.
 
-## 6. Dealing with a request[^key-80feb9d4866d815a2488d8183ea5732c]
+## 6. Dealing with a request[^c-80feb9d4866d815a2488d8183ea5732c]
 
 (1) Unless paragraphs (2) and (3) apply, the court manager must, within 28 days of receipt of a request under regulation 5, arrange for the knife to be posted to the person requesting its return.
 
@@ -140,16 +140,16 @@ Regulation 6 provides the procedure to be followed by the courts in dealing with
 
 [^f00001]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 55A was inserted by section 146 of the Coroners and Justice Act [2009 (c.25)](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-62636f0ce8ecbf6e381b8f743dffcd78]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/790) applied in part (with modifications) (20.3.2014) by [The Tribunal Security Order 2014 (S.I. 2014/786)](https://www.legislation.gov.uk/uksi/2014/786), [arts. 1](https://www.legislation.gov.uk/uksi/2014/786/article/1), [3](https://www.legislation.gov.uk/uksi/2014/786/article/3), [4(c)](https://www.legislation.gov.uk/uksi/2014/786/article/4/c)
+[^c-62636f0ce8ecbf6e381b8f743dffcd78]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/790) applied in part (with modifications) (20.3.2014) by [The Tribunal Security Order 2014 (S.I. 2014/786)](https://www.legislation.gov.uk/uksi/2014/786), [arts. 1](https://www.legislation.gov.uk/uksi/2014/786/article/1), [3](https://www.legislation.gov.uk/uksi/2014/786/article/3), [4(c)](https://www.legislation.gov.uk/uksi/2014/786/article/4/c)
 
-[^key-f91ae0a588ee1014ecce6bc60d4aff6e]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
+[^c-f91ae0a588ee1014ecce6bc60d4aff6e]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
 
-[^key-088c79360d9ecc41a6609b119227fcd1]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
+[^c-088c79360d9ecc41a6609b119227fcd1]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
 
-[^key-cf0f18fb434f65f8ce18eb7303f73648]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
+[^c-cf0f18fb434f65f8ce18eb7303f73648]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
 
-[^key-267ee41166d67dc6ca3158768c382972]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
+[^c-267ee41166d67dc6ca3158768c382972]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
 
-[^key-22cf1a6254b515a4171bf6ba2e25a6c2]: Commencement: Reg. 5 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
+[^c-22cf1a6254b515a4171bf6ba2e25a6c2]: Commencement: Reg. 5 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
 
-[^key-80feb9d4866d815a2488d8183ea5732c]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)
+[^c-80feb9d4866d815a2488d8183ea5732c]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/790/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 93a. Definitions: types of designation of origin and geographical indication[^key-dfdcf4d8e4f970f4c08c98760017a208]
+## Article 93a. Definitions: types of designation of origin and geographical indication[^c-dfdcf4d8e4f970f4c08c98760017a208]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In Article 102a and Annex 9A any reference to:
 
 ## Annotations
 
-[^key-dfdcf4d8e4f970f4c08c98760017a208]: Textual amendment: [Art. 93a](https://www.legislation.gov.uk/eur/2013/1308/article/93a) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [20(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/20/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1637/schedule/3/part/1)
+[^c-dfdcf4d8e4f970f4c08c98760017a208]: Textual amendment: [Art. 93a](https://www.legislation.gov.uk/eur/2013/1308/article/93a) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [20(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/20/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1637/schedule/3/part/1)

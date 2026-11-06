@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Vessels adrift[^key-7f08c4aaa1717ef91faa8bbed9392b05]
+## 7. Vessels adrift[^c-7f08c4aaa1717ef91faa8bbed9392b05]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f08c4aaa1717ef91faa8bbed9392b05]: Commencement: Art. 7 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-7f08c4aaa1717ef91faa8bbed9392b05]: Commencement: Art. 7 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

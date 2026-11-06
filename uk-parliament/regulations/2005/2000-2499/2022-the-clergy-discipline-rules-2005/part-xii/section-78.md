@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 78. Review of an entry in the list – (d) & (e)[^key-18143d18780463510a613e9335d84398]
+## 78. Review of an entry in the list – (d) & (e)[^c-18143d18780463510a613e9335d84398]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) for the purposes of the review invite the person to send written comments or representations within 28 days of the date of the invitation to do so,
 - (d) consult the bishop of the diocese in which the person resides or holds office at the time of review and the bishop of any diocese which was concerned at the date of inclusion.
 
-(2) After the 28 day period specified in paragraph[^key-90b266f712d96ec42b936c45f6a4f59f] 1(c) has expired, and after considering any comments and representations received, the archbishop of the relevant province shall—
+(2) After the 28 day period specified in paragraph[^c-90b266f712d96ec42b936c45f6a4f59f] 1(c) has expired, and after considering any comments and representations received, the archbishop of the relevant province shall—
 
 - (a) with the agreement of the other archbishop, decide—
   - (i) whether or not the person shall remain in the list, and
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18143d18780463510a613e9335d84398]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2005/2022/rule/78) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-18143d18780463510a613e9335d84398]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2005/2022/rule/78) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)
+[^c-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)

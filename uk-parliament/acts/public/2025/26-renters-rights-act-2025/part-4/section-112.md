@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. General duties and powers of lead enforcement authority[^key-839143f6a33830c5b68bb0f6c45822aa]
+## 112. General duties and powers of lead enforcement authority[^c-839143f6a33830c5b68bb0f6c45822aa]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ with information and advice about the operation of the provisions for which it i
 
 ## Annotations
 
-[^key-839143f6a33830c5b68bb0f6c45822aa]: Commencement: S. 112 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-839143f6a33830c5b68bb0f6c45822aa]: Commencement: S. 112 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

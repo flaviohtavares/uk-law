@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101G. Section 101E: supplementary[^key-f0f3aeabcf2ab89d2ec38e61d59d9fe3]
+## 101G. Section 101E: supplementary[^c-f0f3aeabcf2ab89d2ec38e61d59d9fe3]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ to determine any question affecting the rights, privileges, obligations or liabi
 
 ## Annotations
 
-[^key-f0f3aeabcf2ab89d2ec38e61d59d9fe3]: Textual amendment: Pt. 5 Ch. 5 inserted (31.1.2017 for specified purposes, 28.6.2018) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/168/1), [183(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/4)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/128/article/2/a)
+[^c-f0f3aeabcf2ab89d2ec38e61d59d9fe3]: Textual amendment: Pt. 5 Ch. 5 inserted (31.1.2017 for specified purposes, 28.6.2018) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/168/1), [183(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/4)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/128/article/2/a)

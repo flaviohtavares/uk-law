@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Demonstration and Research MPAs: further provision[^key-8ad072997820c3587ed62e0cb6aa81eb]
+## 72. Demonstration and Research MPAs: further provision[^c-8ad072997820c3587ed62e0cb6aa81eb]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad072997820c3587ed62e0cb6aa81eb]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2010/5/section/72) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-8ad072997820c3587ed62e0cb6aa81eb]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2010/5/section/72) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

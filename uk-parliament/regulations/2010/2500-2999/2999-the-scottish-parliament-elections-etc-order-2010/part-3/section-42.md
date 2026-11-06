@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Limitation of election expenses: constituency and individual regional candidates[^key-ee55284f61504be1bcae9ead0972bea2]
+## 42. Limitation of election expenses: constituency and individual regional candidates[^c-ee55284f61504be1bcae9ead0972bea2]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ shall be guilty of an illegal practice.
 
 ## Annotations
 
-[^key-ee55284f61504be1bcae9ead0972bea2]: Commencement: Art. 42 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ee55284f61504be1bcae9ead0972bea2]: Commencement: Art. 42 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00039]: Footnote: Constituencies (other than those of the Orkney Islands and the Shetland Islands) may be specified as being “county” or “burgh” constituencies in an Order in Council made under paragraph 6 of Schedule 1 to the 1998 Act as substituted by section 1(1) of the Scottish Parliament (Constituencies) Act [2004 (c.13)](https://www.legislation.gov.uk/ukpga/2004/13).
 

@@ -46,25 +46,25 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 115(1) and (2), 116(2), 172(1), 176(1) and (2), 178(1), 179(3), 180(1) to (5), 182, 183 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-a1b245510cbce454eb33067f60b0094c]
+## 1. Citation, commencement and interpretation[^c-a1b245510cbce454eb33067f60b0094c]
 
 (1) These Regulations may be cited as the National Health Service (Charges, Payments and Remission of Charges) (Uprating, Miscellaneous Amendments and Transitional Provision) Regulations 2014 and come into force on 1st April 2014.
 
 (2) In these Regulations, “the 2000 Regulations” means the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^f00002].
 
-## 2. Uprating of charges in the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-49cd33c01b346886653d3cafe4d64568]
+## 2. Uprating of charges in the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-49cd33c01b346886653d3cafe4d64568]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision relating to the uprating of charges in the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-16315a11ae440e9ce671fdb03c73a1f1]
+## 3. Transitional provision relating to the uprating of charges in the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-16315a11ae440e9ce671fdb03c73a1f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-a93ff2f7c5839b2b2bb4e712dd0cb71d]
+## 4. Amendment of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-a93ff2f7c5839b2b2bb4e712dd0cb71d]
 
 In regulation 5 of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00003] (entitlement to full remission and payment), in paragraph (1)(f), for “5th April 2014” substitute “31st October 2014”.
 
-## 5. Uprating of charges in the National Health Service (Dental Charges) Regulations 2005[^key-3bd55a4d44aab27d3b92ffc65d534a85]
+## 5. Uprating of charges in the National Health Service (Dental Charges) Regulations 2005[^c-3bd55a4d44aab27d3b92ffc65d534a85]
 
 (1) The National Health Service (Dental Charges) Regulations 2005[^f00004] are amended as follows.
 
@@ -78,11 +78,11 @@ In regulation 5 of the National Health Service (Travel Expenses and Remission of
 
 (3) In regulation 13A(2) (charges in respect of primary dental services provided under a Capitation and Quality Scheme 2 Agreement), for “£18.00” substitute “£18.50”.
 
-## 6. Amendment of the Primary Ophthalmic Services Regulations 2008[^key-4e73309129dbec8cdfa7ccb5d0f46e0b]
+## 6. Amendment of the Primary Ophthalmic Services Regulations 2008[^c-4e73309129dbec8cdfa7ccb5d0f46e0b]
 
 In regulation 3 of the Primary Ophthalmic Services Regulations 2008[^f00005] (sight tests –eligibility), in paragraph (2)(l), for “5th April 2014” substitute “31st October 2014”.
 
-## 7. Amendment of the National Health Service (Optical Charges and Payments) Regulations 2013[^key-f20e908f26129e6c86ca41ac67da49c3]
+## 7. Amendment of the National Health Service (Optical Charges and Payments) Regulations 2013[^c-f20e908f26129e6c86ca41ac67da49c3]
 
 In regulation 8 of the National Health Service (Optical Charges and Payments) Regulations 2013[^f00006] (eligibility for a voucher – supply of optical appliances), in paragraph (3)(j), for “5th April 2014” substitute “31st October 2014”.
 
@@ -114,26 +114,26 @@ The 2008 Regulations make provision for England in relation to entitlement to a 
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 115 has been amended by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”), Schedule 4, paragraph 54. Section 176 has been amended by the 2012 Act, Schedule 4, paragraph 94. Section 180 has been amended by the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), Schedule 6, and the 2012 Act, section 205, and Schedule 4, paragraph 96. Section 183 has been amended by [S.I. 2010/915](https://www.legislation.gov.uk/uksi/2010/915) and by the 2012 Act, Schedule 4, paragraph 98. By virtue of section 271(1) of the National Health Service Act 2006 (“the 2006 Act”), the functions of the Secretary of State being exercised in the making of these Regulations are exercisable only in relation to England. *See also s*ection 275(1) of the 2006 Act, which contains definitions of “prescribed” and “regulations” that are relevant to the powers being exercised.
 
-[^key-a1b245510cbce454eb33067f60b0094c]: Commencement: Reg. 1 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
+[^c-a1b245510cbce454eb33067f60b0094c]: Commencement: Reg. 1 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620); amended by [S.I. 2000/2393](https://www.legislation.gov.uk/uksi/2000/2393) and [3189](https://www.legislation.gov.uk/uksi/2000/3189), [2001/2287](https://www.legislation.gov.uk/uksi/2001/2287), [2002/548](https://www.legislation.gov.uk/uksi/2002/548) and [2352](https://www.legislation.gov.uk/uksi/2002/2352), [2003/699](https://www.legislation.gov.uk/uksi/2003/699) and [1084](https://www.legislation.gov.uk/uksi/2003/1084), [2004/663](https://www.legislation.gov.uk/uksi/2004/663), [696](https://www.legislation.gov.uk/uksi/2004/696) and [865](https://www.legislation.gov.uk/uksi/2004/865), [2005/578](https://www.legislation.gov.uk/uksi/2005/578), [2006/562](https://www.legislation.gov.uk/uksi/2006/562), [675](https://www.legislation.gov.uk/uksi/2006/675) and [913](https://www.legislation.gov.uk/uksi/2006/913), [2007/1510](https://www.legislation.gov.uk/uksi/2007/1510) and [1975](https://www.legislation.gov.uk/uksi/2007/1975), [2008/571](https://www.legislation.gov.uk/uksi/2008/571), [1697](https://www.legislation.gov.uk/uksi/2008/1697), [1700](https://www.legislation.gov.uk/uksi/2008/1700) and [2593](https://www.legislation.gov.uk/uksi/2008/2593), [2009/29](https://www.legislation.gov.uk/uksi/2009/29), [411](https://www.legislation.gov.uk/uksi/2009/411), [1166](https://www.legislation.gov.uk/uksi/2009/1166) and [2230](https://www.legislation.gov.uk/uksi/2009/2230), [2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [1727](https://www.legislation.gov.uk/uksi/2010/1727), [2011/518](https://www.legislation.gov.uk/uksi/2011/518), [2012/470](https://www.legislation.gov.uk/uksi/2012/470), [1909](https://www.legislation.gov.uk/uksi/2012/1909) and [1916](https://www.legislation.gov.uk/uksi/2012/1916) and [2013/475](https://www.legislation.gov.uk/uksi/2013/475).
 
-[^key-49cd33c01b346886653d3cafe4d64568]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/545/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-49cd33c01b346886653d3cafe4d64568]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/545/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
-[^key-16315a11ae440e9ce671fdb03c73a1f1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/545/regulation/3) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-16315a11ae440e9ce671fdb03c73a1f1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/545/regulation/3) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
-[^key-a93ff2f7c5839b2b2bb4e712dd0cb71d]: Commencement: Reg. 4 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
+[^c-a93ff2f7c5839b2b2bb4e712dd0cb71d]: Commencement: Reg. 4 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); regulation 5 has been amended by [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663) and [936](https://www.legislation.gov.uk/uksi/2004/936), [2006/562](https://www.legislation.gov.uk/uksi/2006/562), [2008/1697](https://www.legislation.gov.uk/uksi/2008/1697), [2009/411](https://www.legislation.gov.uk/uksi/2009/411) and [2013/475](https://www.legislation.gov.uk/uksi/2013/475) and [1600](https://www.legislation.gov.uk/uksi/2013/1600).
 
-[^key-3bd55a4d44aab27d3b92ffc65d534a85]: Commencement: Reg. 5 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
+[^c-3bd55a4d44aab27d3b92ffc65d534a85]: Commencement: Reg. 5 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477); amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407), [2011/519](https://www.legislation.gov.uk/uksi/2011/519), [2012/502](https://www.legislation.gov.uk/uksi/2012/502) and [2013/364](https://www.legislation.gov.uk/uksi/2013/364) and [475](https://www.legislation.gov.uk/uksi/2013/475).
 
-[^key-4e73309129dbec8cdfa7ccb5d0f46e0b]: Commencement: Reg. 6 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
+[^c-4e73309129dbec8cdfa7ccb5d0f46e0b]: Commencement: Reg. 6 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186); regulation 3 has been amended by [S.I. 2008/2449](https://www.legislation.gov.uk/uksi/2008/2449), [2009/409](https://www.legislation.gov.uk/uksi/2009/409) and [2013/365](https://www.legislation.gov.uk/uksi/2013/365) and [2555](https://www.legislation.gov.uk/uksi/2013/2555).
 
-[^key-f20e908f26129e6c86ca41ac67da49c3]: Commencement: Reg. 7 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
+[^c-f20e908f26129e6c86ca41ac67da49c3]: Commencement: Reg. 7 in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/545/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2013/461](https://www.legislation.gov.uk/uksi/2013/461); regulation 8 has been amended by [S.I. 2013/2555](https://www.legislation.gov.uk/uksi/2013/2555).

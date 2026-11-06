@@ -26,7 +26,7 @@ summary: ''
 
   The landlord under the tenancy is—
 
-  - (a) a housing association which is approved for the purposes of Chapter 7 of Part 13 of CTA 2010[^key-31fd82b6f1381f5ee51cfc7e9f79b7f8] , or
+  - (a) a housing association which is approved for the purposes of Chapter 7 of Part 13 of CTA 2010[^c-31fd82b6f1381f5ee51cfc7e9f79b7f8] , or
   - (b) a self-build society within the meaning of the Housing Associations Act 1985 (c. 69).
 - *Exclusion 2*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31fd82b6f1381f5ee51cfc7e9f79b7f8]: Textual amendment: Words in s. 505(1) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 358](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/358) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-31fd82b6f1381f5ee51cfc7e9f79b7f8]: Textual amendment: Words in s. 505(1) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 358](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/358) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

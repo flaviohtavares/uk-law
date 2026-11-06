@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 22 — Property transfer schemes[^key-03013ecb2a3d7d1a414402cbb89a4dfc]
+## SCHEDULE 22 — Property transfer schemes[^c-03013ecb2a3d7d1a414402cbb89a4dfc]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Section 300(2)
 
 ## Annotations
 
-[^key-03013ecb2a3d7d1a414402cbb89a4dfc]: Textual amendment: [Sch. 22](https://www.legislation.gov.uk/ukpga/2012/7/schedule/22) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/1/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-03013ecb2a3d7d1a414402cbb89a4dfc]: Textual amendment: [Sch. 22](https://www.legislation.gov.uk/ukpga/2012/7/schedule/22) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/1/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

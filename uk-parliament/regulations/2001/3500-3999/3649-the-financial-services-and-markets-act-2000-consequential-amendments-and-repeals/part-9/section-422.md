@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 422. Assets of Serbia and Montenegro: definition of “investments”[^key-b388a163e298a4ef5cf3039ab4f55dc8]
+## 422. Assets of Serbia and Montenegro: definition of “investments”[^c-b388a163e298a4ef5cf3039ab4f55dc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph 4 of article 10 of the Serbia and Montenegro (United Nations Sancti
 
 ## Annotations
 
-[^key-b388a163e298a4ef5cf3039ab4f55dc8]: Commencement: Art. 422 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b388a163e298a4ef5cf3039ab4f55dc8]: Commencement: Art. 422 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -67,13 +67,13 @@ and shall consider any representations or objections which are duly made and not
 (9)[^c21278921] No penalty imposed by the Authority under this Article may exceed—
 
 - (a) subject to sub-paragraph (b), 10 per cent of the turnover of the regulated person; or
-- (b) where the regulated person is or is part of a vertically integrated undertaking and the relevant condition or requirement to which the contravention relates is imposed on a vertically integrated undertaking pursuant to the Electricity Directive or[^key-a84b0f9d435fae2a04c151d38b305ab1] by or under a provision referring to a provision of[^key-bc72954586174ebbe36a39cf74ea8108] the 2009 Electricity Directive or the Gas Directive, 10 per cent of the turnover of the vertically integrated undertaking,
+- (b) where the regulated person is or is part of a vertically integrated undertaking and the relevant condition or requirement to which the contravention relates is imposed on a vertically integrated undertaking pursuant to the Electricity Directive or[^c-a84b0f9d435fae2a04c151d38b305ab1] by or under a provision referring to a provision of[^c-bc72954586174ebbe36a39cf74ea8108] the 2009 Electricity Directive or the Gas Directive, 10 per cent of the turnover of the vertically integrated undertaking,
 
 in each case determined in accordance with provisions specified in an order made by the Department.
 
 (10) Any sums received by the Authority by way of penalty under this Article shall be paid into the Consolidated Fund.
 
-(11)[^key-beef5873df0d46980710a4b150a630da] “Community Regulation” means—
+(11)[^c-beef5873df0d46980710a4b150a630da] “Community Regulation” means—
 
 - (a) the Gas Regulation;
 - (b) the Electricity Regulation, in the case of a contravention which occurred on or after the date on which the Electricity and Gas (Internal Markets) Regulations 2020 came into force; or
@@ -97,8 +97,8 @@ in each case determined in accordance with provisions specified in an order made
 
 [^c21278921]: Textual amendment: Art. 45(9) substituted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 77](https://www.legislation.gov.uk/nisr/2011/155/regulation/77)
 
-[^key-a84b0f9d435fae2a04c151d38b305ab1]: Textual amendment: Words in [art. 45(9)(b)](https://www.legislation.gov.uk/nisi/2003/419/article/45/9/b) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [29](https://www.legislation.gov.uk/nisr/2020/307/regulation/29)
+[^c-a84b0f9d435fae2a04c151d38b305ab1]: Textual amendment: Words in [art. 45(9)(b)](https://www.legislation.gov.uk/nisi/2003/419/article/45/9/b) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [29](https://www.legislation.gov.uk/nisr/2020/307/regulation/29)
 
-[^key-bc72954586174ebbe36a39cf74ea8108]: Textual amendment: Words in [art. 45(9)(b)](https://www.legislation.gov.uk/nisi/2003/419/article/45/9/b) inserted (31.12.2020) by S.I. 2019/530, reg. 140(1) (with reg. 140(2)) (as substituted by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(51)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/51/a))
+[^c-bc72954586174ebbe36a39cf74ea8108]: Textual amendment: Words in [art. 45(9)(b)](https://www.legislation.gov.uk/nisi/2003/419/article/45/9/b) inserted (31.12.2020) by S.I. 2019/530, reg. 140(1) (with reg. 140(2)) (as substituted by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(51)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/51/a))
 
-[^key-beef5873df0d46980710a4b150a630da]: Textual amendment: Art. 45(11) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2020/96/regulation/7/8)
+[^c-beef5873df0d46980710a4b150a630da]: Textual amendment: Art. 45(11) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2020/96/regulation/7/8)

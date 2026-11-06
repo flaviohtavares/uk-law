@@ -189,7 +189,7 @@ and where a vehicle would otherwise fall within more than one category it shall 
 
 (5) Tolls may not be levied in respect of—
 
-- (a) a vehicle being used in the discharge of the functions of a fire and rescue authority[^key-303157d556d0ddc9949973d2787a16a5],
+- (a) a vehicle being used in the discharge of the functions of a fire and rescue authority[^c-303157d556d0ddc9949973d2787a16a5],
 - (b) a vehicle being used for police purposes,
 - (c)[^c1048578] a vehicle which is exempt from vehicle excise duty under—
   - (i) paragraph 6 (ambulances),
@@ -1322,7 +1322,7 @@ Section 40.
 
 [^c1048577]: Textual amendment: Words in s. 8(3) inserted (23.5.1992) by [S.I. 1992/1207](https://www.legislation.gov.uk/uksi/1992/1207), [art. 3](https://www.legislation.gov.uk/uksi/1992/1207/article/3)
 
-[^key-303157d556d0ddc9949973d2787a16a5]: Textual amendment: Words in [s. 8(5)(a)](https://www.legislation.gov.uk/ukpga/1992/3/section/8/5/a) substituted (7.9.2004 for E. for specified purposes, 1.10.2004 for E. in so far as not already in force, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/80); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/wsi/2004/2917), [art. 2](https://www.legislation.gov.uk/wsi/2004/2917/article/2)
+[^c-303157d556d0ddc9949973d2787a16a5]: Textual amendment: Words in [s. 8(5)(a)](https://www.legislation.gov.uk/ukpga/1992/3/section/8/5/a) substituted (7.9.2004 for E. for specified purposes, 1.10.2004 for E. in so far as not already in force, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/80); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/wsi/2004/2917), [art. 2](https://www.legislation.gov.uk/wsi/2004/2917/article/2)
 
 [^c1048578]: Textual amendment: S. 8(5)(c) substituted (1.9.1994) for (5)(c)(d) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 63](https://www.legislation.gov.uk/ukpga/1994/22/section/63), [66(1)](https://www.legislation.gov.uk/ukpga/1994/22/section/66/1), [Sch. 3 para.31](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/31) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))
 

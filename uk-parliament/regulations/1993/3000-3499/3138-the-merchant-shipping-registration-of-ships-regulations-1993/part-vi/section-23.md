@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Appointment of managing owner[^key-b18d4f36d9c10d28cfa5b2e9bb587ef8]
+## 23. Appointment of managing owner[^c-b18d4f36d9c10d28cfa5b2e9bb587ef8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b18d4f36d9c10d28cfa5b2e9bb587ef8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1993/3138/regulation/23) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-b18d4f36d9c10d28cfa5b2e9bb587ef8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1993/3138/regulation/23) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

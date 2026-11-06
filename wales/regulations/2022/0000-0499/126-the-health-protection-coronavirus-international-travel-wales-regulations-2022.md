@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (revoked)[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (revoked)[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 Made
 
@@ -45,205 +45,205 @@ Coming into force
 
 at 4.00 a.m. on 11 February 2022
 
-[^key-6995fe77479bc5c6de8d1e6a7db51dd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6995fe77479bc5c6de8d1e6a7db51dd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## PART 1 — General[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
-### 1. Title, coming into force and revocations[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. General interpretation[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 1. Title, coming into force and revocations[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Exemptions for eligible travellers[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 2. General interpretation[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Transitional provision[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 3. Exemptions for eligible travellers[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Requirement to provide information[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
-
-### 5. Persons arriving from outside the common travel area[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 4. Transitional provision[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Requirement to provide passenger information[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## PART 2 — Requirement to provide information[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
+
+### 5. Persons arriving from outside the common travel area[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Testing requirements[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
-
-### 7. Requirement to possess notification of a negative test result[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 6. Requirement to provide passenger information[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Requirement to book and undertake day 2 test[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## PART 3 — Testing requirements[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
+
+### 7. Requirement to possess notification of a negative test result[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Workforce testing for road haulage workers[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 8. Requirement to book and undertake day 2 test[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Duties on employers of road haulage workers to facilitate workforce testing[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 9. Workforce testing for road haulage workers[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Consequences of an inconclusive result[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 10. Duties on employers of road haulage workers to facilitate workforce testing[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Consequences of a positive result[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 11. Consequences of an inconclusive result[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Enforcement and offences[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
-
-### 13. Offences[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 12. Consequences of a positive result[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Prosecutions[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## PART 4 — Enforcement and offences[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
+
+### 13. Offences[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Fixed penalty notices[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 14. Prosecutions[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Information sharing[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
-
-### 16. Use and disclosure of information[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 15. Fixed penalty notices[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Self-incrimination[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## PART 5 — Information sharing[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
+
+### 16. Use and disclosure of information[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Review and expiry[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
-
-### 18. Review of requirements[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 17. Self-incrimination[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Expiry of Regulations[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## PART 6 — Review and expiry[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
+
+### 18. Review of requirements[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6995fe77479bc5c6de8d1e6a7db51dd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Expiry of Regulations[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6995fe77479bc5c6de8d1e6a7db51dd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## SCHEDULE 1[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 Regulation 2(1)
 
-### PART 1 — Passenger information to be provided by eligible travellers and persons who are not eligible travellers[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### PART 1 — Passenger information to be provided by eligible travellers and persons who are not eligible travellers[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
-**1.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Additional passenger information to be provided by persons who are not eligible travellers[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### PART 2 — Additional passenger information to be provided by persons who are not eligible travellers[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
-**5.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Testing before arrival in Wales[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## SCHEDULE 2 — Testing before arrival in Wales[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 Regulation 7
 
-**1.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Booking information for day 2 tests[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## SCHEDULE 3 — Booking information for day 2 tests[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 Regulation 8(5)
 
-**1.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Requirements for day 2 tests[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## SCHEDULE 4 — Requirements for day 2 tests[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 Regulation 2(1)
 
-### 1. Day 2 tests: general requirements[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 1. Day 2 tests: general requirements[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Day 2 tests: general private provider requirements[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 2. Day 2 tests: general private provider requirements[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. UKAS accreditation[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 3. UKAS accreditation[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Notification of test results by private providers[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 4. Notification of test results by private providers[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Interpretation[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+### 5. Interpretation[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Exempt persons[^key-6995fe77479bc5c6de8d1e6a7db51dd8]
+## SCHEDULE 5 — Exempt persons[^c-6995fe77479bc5c6de8d1e6a7db51dd8]
 
 Regulations 5(2), 7(2) and 8(2)
 
-**1.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6995fe77479bc5c6de8d1e6a7db51dd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-6995fe77479bc5c6de8d1e6a7db51dd8]EXPLANATORY NOTE
+[^c-6995fe77479bc5c6de8d1e6a7db51dd8]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -295,4 +295,4 @@ There has been no regulatory impact assessment in relation to these Regulations 
 
 ## Annotations
 
-[^key-6995fe77479bc5c6de8d1e6a7db51dd8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/126) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2022/315/regulation/2)
+[^c-6995fe77479bc5c6de8d1e6a7db51dd8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/126) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2022/315/regulation/2)

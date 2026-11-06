@@ -25,16 +25,16 @@ summary: ''
 - (a) a scheme operator or an operator of a proposed scheme;
 - (b) a battery treatment operator or an exporter,
 
-against a decision of the Environment Agency, the[^key-e34e4e9faab5daa56e156070fc63fe35] NRBW, SEPA or the Department of the Environment.
+against a decision of the Environment Agency, the[^c-e34e4e9faab5daa56e156070fc63fe35] NRBW, SEPA or the Department of the Environment.
 
 (2) An appeal—
 
-- (a) against a decision of the Environment Agency must be made to the Secretary of State[^key-ce8a56b30686161740155ae613fb80db]...;
-- (aa)[^key-7d02a3089423aaefce64d482e3724aa2] against a decision of the NRBW must be made to the Welsh Ministers;
+- (a) against a decision of the Environment Agency must be made to the Secretary of State[^c-ce8a56b30686161740155ae613fb80db]...;
+- (aa)[^c-7d02a3089423aaefce64d482e3724aa2] against a decision of the NRBW must be made to the Welsh Ministers;
 - (b) against a decision of SEPA must be made to the Scottish Ministers; and
 - (c) against a decision of the Department of the Environment must be made to the Planning Appeals Commission.
 
-(3)[^key-c2dc1920bc069c49c8ab766621a5e765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c2dc1920bc069c49c8ab766621a5e765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of an appeal by a person mentioned in paragraph (1)(a), a decision means a decision to—
 
@@ -56,10 +56,10 @@ against a decision of the Environment Agency, the[^key-e34e4e9faab5daa56e156070f
 
 ## Annotations
 
-[^key-e34e4e9faab5daa56e156070fc63fe35]: Textual amendment: Words in [reg. 83(1)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e34e4e9faab5daa56e156070fc63fe35]: Textual amendment: Words in [reg. 83(1)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ce8a56b30686161740155ae613fb80db]: Textual amendment: Words in [reg. 83(2)(a)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/2/a) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ce8a56b30686161740155ae613fb80db]: Textual amendment: Words in [reg. 83(2)(a)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/2/a) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7d02a3089423aaefce64d482e3724aa2]: Textual amendment: [Reg. 83(2)(aa)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/2/aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7d02a3089423aaefce64d482e3724aa2]: Textual amendment: [Reg. 83(2)(aa)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/2/aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c2dc1920bc069c49c8ab766621a5e765]: Textual amendment: [Reg. 83(3)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/3) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c2dc1920bc069c49c8ab766621a5e765]: Textual amendment: [Reg. 83(3)](https://www.legislation.gov.uk/uksi/2009/890/regulation/83/3) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 322(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/322/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

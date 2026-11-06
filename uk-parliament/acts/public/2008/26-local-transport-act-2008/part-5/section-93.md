@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Incidental etc provision[^c1952788][^key-46c71a36a7ca2f32243cd40f0bc56383]
+## 93. Incidental etc provision[^c1952788][^c-46c71a36a7ca2f32243cd40f0bc56383]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c1952788]: Commencement: S. 93 partly in force; s. 93 in force at Royal Assent for certain purposes see s. 134
 
-[^key-46c71a36a7ca2f32243cd40f0bc56383]: Commencement: S. 93 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-46c71a36a7ca2f32243cd40f0bc56383]: Commencement: S. 93 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

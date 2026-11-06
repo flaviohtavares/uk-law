@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Breach of requirement for, or conditions of, licence[^key-f6b9ecc11410e56ffebc1be12ca8b414][^M_C_a2eac1c8-00be-41c6-f21d-91afed246737]
+## 39. Breach of requirement for, or conditions of, licence[^c-f6b9ecc11410e56ffebc1be12ca8b414][^M_C_a2eac1c8-00be-41c6-f21d-91afed246737]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ commits an offence.
 
 ## Annotations
 
-[^key-f6b9ecc11410e56ffebc1be12ca8b414]: Commencement: S. 39 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-f6b9ecc11410e56ffebc1be12ca8b414]: Commencement: S. 39 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
 [^M_C_a2eac1c8-00be-41c6-f21d-91afed246737]: Modification: Ss. 39-42 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [12](https://www.legislation.gov.uk/ssi/2020/316/article/12)

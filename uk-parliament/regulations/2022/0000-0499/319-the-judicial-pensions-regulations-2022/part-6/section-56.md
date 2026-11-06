@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Entitlement to ill-health pension[^key-2bb3d602158fea5543a202e39e0afc16]
+## 56. Entitlement to ill-health pension[^c-2bb3d602158fea5543a202e39e0afc16]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bb3d602158fea5543a202e39e0afc16]: Commencement: Reg. 56 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-2bb3d602158fea5543a202e39e0afc16]: Commencement: Reg. 56 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

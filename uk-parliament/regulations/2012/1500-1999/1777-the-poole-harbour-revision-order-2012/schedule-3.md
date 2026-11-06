@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — AMENDMENT OF POOLE HARBOUR REVISION ORDER 2001[^key-fcff9376c8188dad0e423a0aa505f7bb]
+## SCHEDULE 3 — AMENDMENT OF POOLE HARBOUR REVISION ORDER 2001[^c-fcff9376c8188dad0e423a0aa505f7bb]
 
 *Extent: E+W+S*
 
 Article 60
 
-[^key-fcff9376c8188dad0e423a0aa505f7bb]
+[^c-fcff9376c8188dad0e423a0aa505f7bb]
 
 The 2001 Order is amended as follows—
 
@@ -131,4 +131,4 @@ and revoke paragraph (4) of that article.
 
 ## Annotations
 
-[^key-fcff9376c8188dad0e423a0aa505f7bb]: Commencement: Sch. 3 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-fcff9376c8188dad0e423a0aa505f7bb]: Commencement: Sch. 3 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

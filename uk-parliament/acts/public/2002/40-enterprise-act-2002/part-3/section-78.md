@@ -22,8 +22,8 @@ summary: ''
 
 (1) Subsection (2) applies where—
 
-- (a) a reference has been made under section 33 or 68C[^key-94b65f08cab0b6e79bf028da8f6894f1]; and
-- (b) no undertakings under section 80 are in force in relation to the relevant merger situation concerned and no orders under section 72 or 81[^key-7dc732b4214a5862c645d403a137dc1a] are in force in relation to that situation.
+- (a) a reference has been made under section 33 or 68C[^c-94b65f08cab0b6e79bf028da8f6894f1]; and
+- (b) no undertakings under section 80 are in force in relation to the relevant merger situation concerned and no orders under section 72 or 81[^c-7dc732b4214a5862c645d403a137dc1a] are in force in relation to that situation.
 
 (2) No relevant person shall, without the consent of the CMA[^M_F_5ec82fff-b6ac-4b9a-a9bc-398a20fc926c], directly or indirectly acquire during the relevant period an interest in shares in a company if any enterprise to which the reference relates is carried on by or under the control of that company.
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-94b65f08cab0b6e79bf028da8f6894f1]: Textual amendment: Words in [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/78/1/a) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/16)
+[^c-94b65f08cab0b6e79bf028da8f6894f1]: Textual amendment: Words in [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/78/1/a) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/16)
 
-[^key-7dc732b4214a5862c645d403a137dc1a]: Textual amendment: Words in s. 78(1)(b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 31](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/31); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7dc732b4214a5862c645d403a137dc1a]: Textual amendment: Words in s. 78(1)(b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 31](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/31); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^M_F_5ec82fff-b6ac-4b9a-a9bc-398a20fc926c]: Textual amendment: Word in s.78(2)-(4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), s. 103(3), Sch. 5 para. 118 (with s. 28); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), art. 2(1)(d) (with Sch.)

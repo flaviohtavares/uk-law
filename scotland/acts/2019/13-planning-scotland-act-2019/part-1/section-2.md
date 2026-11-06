@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. National Planning Framework[^key-8b0426f217927c352b205602d9fb1424]
+## 2. National Planning Framework[^c-8b0426f217927c352b205602d9fb1424]
 
 *Extent: S*
 
@@ -207,4 +207,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b0426f217927c352b205602d9fb1424]: Commencement: S. 2 in force at 8.11.2019 by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-8b0426f217927c352b205602d9fb1424]: Commencement: S. 2 in force at 8.11.2019 by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

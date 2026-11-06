@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 210. Filing of Gazette notices and advertisements[^key-25b7496107562cb0627b479fc1cd17e0]
+## 210. Filing of Gazette notices and advertisements[^c-25b7496107562cb0627b479fc1cd17e0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25b7496107562cb0627b479fc1cd17e0]: Textual amendment: [Rule 210](https://www.legislation.gov.uk/uksi/2009/356/rule/210) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [65](https://www.legislation.gov.uk/uksi/2010/2579/rule/65)
+[^c-25b7496107562cb0627b479fc1cd17e0]: Textual amendment: [Rule 210](https://www.legislation.gov.uk/uksi/2009/356/rule/210) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [65](https://www.legislation.gov.uk/uksi/2010/2579/rule/65)

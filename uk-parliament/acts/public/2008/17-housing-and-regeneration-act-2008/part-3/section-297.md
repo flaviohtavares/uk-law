@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297. Family intervention tenancies: general[^key-1eaf6a989f0ae4257d6954defc93d659]
+## 297. Family intervention tenancies: general[^c-1eaf6a989f0ae4257d6954defc93d659]
 
 *Extent: E+W*
 
@@ -147,4 +147,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eaf6a989f0ae4257d6954defc93d659]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2008/17/section/297) in force at 1.1.2009 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(11)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/11) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-1eaf6a989f0ae4257d6954defc93d659]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2008/17/section/297) in force at 1.1.2009 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(11)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/11) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

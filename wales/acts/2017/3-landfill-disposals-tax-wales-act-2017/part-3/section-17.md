@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Qualifying mixture of materials: fines[^key-245b4d5259349e781ccd9033e21649e9]
+## 17. Qualifying mixture of materials: fines[^c-245b4d5259349e781ccd9033e21649e9]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ in connection with any provision made under that subsection; and where they do s
 
 ## Annotations
 
-[^key-245b4d5259349e781ccd9033e21649e9]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/3/section/17) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/955/article/2/b)
+[^c-245b4d5259349e781ccd9033e21649e9]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/3/section/17) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/955/article/2/b)

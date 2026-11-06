@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.15. Content and conduct of application for a witness anonymity order[^key-1c495d6b217880d4757090da4c025a86]
+## 18.15. Content and conduct of application for a witness anonymity order[^c-1c495d6b217880d4757090da4c025a86]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1c495d6b217880d4757090da4c025a86]: Commencement: [Rule 18.15](https://www.legislation.gov.uk/uksi/2025/909/rule/18.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1c495d6b217880d4757090da4c025a86]: Commencement: [Rule 18.15](https://www.legislation.gov.uk/uksi/2025/909/rule/18.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00450]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).
 

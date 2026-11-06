@@ -41,10 +41,10 @@ summary: ''
 - (a) “**allopathic medicinal product**” means a medicinal product other than a homoeopathic medicinal product; and
 - (b) “**allopathy**” means treatment using an allopathic medicinal product.
 
-(7)[^key-3670186a828d10faaef98683a220556f] The Secretary of State may make regulations in respect of Great Britain to amend paragraphs (4) to (6).
+(7)[^c-3670186a828d10faaef98683a220556f] The Secretary of State may make regulations in respect of Great Britain to amend paragraphs (4) to (6).
 
 (8) The Secretary of State may only exercise the power in paragraph (7) if the Secretary of State considers that it is necessary to do so because of new scientific evidence.
 
 ## Annotations
 
-[^key-3670186a828d10faaef98683a220556f]: Textual amendment: Reg. 102(7)(8) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [98](https://www.legislation.gov.uk/uksi/2019/775/regulation/98) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/75)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3670186a828d10faaef98683a220556f]: Textual amendment: Reg. 102(7)(8) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [98](https://www.legislation.gov.uk/uksi/2019/775/regulation/98) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/75)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

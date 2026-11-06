@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Consequential and supplementary provision[^key-7c07b2165877e109bd28a98c3f3ee0ec]
+## 67. Consequential and supplementary provision[^c-7c07b2165877e109bd28a98c3f3ee0ec]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-7c07b2165877e109bd28a98c3f3ee0ec]: Commencement: S. 67 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(n)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/n)
+[^c-7c07b2165877e109bd28a98c3f3ee0ec]: Commencement: S. 67 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(n)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/n)

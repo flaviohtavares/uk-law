@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Local authority plans for community care services.[^key-f0574875da1bebc8047f36498f16dbfa]
+## 46. Local authority plans for community care services.[^c-f0574875da1bebc8047f36498f16dbfa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0574875da1bebc8047f36498f16dbfa]: Textual amendment: S. 46 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [125](https://www.legislation.gov.uk/wsi/2016/413/regulation/125)
+[^c-f0574875da1bebc8047f36498f16dbfa]: Textual amendment: S. 46 omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [125](https://www.legislation.gov.uk/wsi/2016/413/regulation/125)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. School organisation committees.[^key-4145a59d2b9e74bee3734cd9b869cd9c]
+## 24. School organisation committees.[^c-4145a59d2b9e74bee3734cd9b869cd9c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4145a59d2b9e74bee3734cd9b869cd9c]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1998/31/section/24) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 29](https://www.legislation.gov.uk/ukpga/2006/40/section/29), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(g)](https://www.legislation.gov.uk/uksi/2007/935/article/7/g)[(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
+[^c-4145a59d2b9e74bee3734cd9b869cd9c]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1998/31/section/24) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 29](https://www.legislation.gov.uk/ukpga/2006/40/section/29), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(g)](https://www.legislation.gov.uk/uksi/2007/935/article/7/g)[(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)

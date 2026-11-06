@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Application of proceeds of property subject to deprivation order[^key-11f221698f2241d5bb101584e4551fb3]
+## 159. Application of proceeds of property subject to deprivation order[^c-11f221698f2241d5bb101584e4551fb3]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ are to be paid to the person.
 
 ## Annotations
 
-[^key-11f221698f2241d5bb101584e4551fb3]: Commencement: S. 159 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-11f221698f2241d5bb101584e4551fb3]: Commencement: S. 159 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

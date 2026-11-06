@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Department shall prepare, and from time to time revise, a code of practice—
 
-- (a) for the guidance of medical practitioners, [^key-6391273fb7752f92267d17411d2c8528]...[^c17125981] authorised HSC[^c21355901] trusts , staff of hospitals and approved social workers in relation to the admission of patients to hospitals and the reception of patients into guardianship under this Order; and
+- (a) for the guidance of medical practitioners, [^c-6391273fb7752f92267d17411d2c8528]...[^c17125981] authorised HSC[^c21355901] trusts , staff of hospitals and approved social workers in relation to the admission of patients to hospitals and the reception of patients into guardianship under this Order; and
 - (b) for the guidance of medical practitioners and members of other professions in relation to the medical treatment of patients suffering from mental disorder.
 
 (2) The code shall, in particular, specify forms of medical treatment in addition to any specified by regulations made for the purposes of Article 63 which in the opinion of the Department give rise to special concern and which should accordingly not be given by a medical practitioner unless the patient has consented to the treatment (or to a plan of treatment including that treatment) and a certificate as to the matters mentioned in paragraphs (2)(a) and (b) of that Article has been given by another medical practitioner, being a practitioner appointed for the purposes of this Article by RQIA[^c21357561] ; and paragraph (4) of that Article shall apply to a medical practitioner appointed for the purposes of this Article as it applies to a medical practitioner appointed for the purposes of Part IV.
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6391273fb7752f92267d17411d2c8528]: Textual amendment: Word in [art. 111(1)(a)](https://www.legislation.gov.uk/nisi/1986/595/article/111/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 89](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/89); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6391273fb7752f92267d17411d2c8528]: Textual amendment: Word in [art. 111(1)(a)](https://www.legislation.gov.uk/nisi/1986/595/article/111/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 89](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/89); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17125981]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

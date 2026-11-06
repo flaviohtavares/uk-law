@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 391. Making claims for compensation[^key-9207b1cf92fd5bc7d7ba1334f37e46f8]
+## 391. Making claims for compensation[^c-9207b1cf92fd5bc7d7ba1334f37e46f8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9207b1cf92fd5bc7d7ba1334f37e46f8]: Commencement: S. 391 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9207b1cf92fd5bc7d7ba1334f37e46f8]: Commencement: S. 391 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

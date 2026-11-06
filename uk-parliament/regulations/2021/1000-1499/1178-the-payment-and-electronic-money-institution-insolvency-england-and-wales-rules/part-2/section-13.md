@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. The hearing[^key-9c65dca3127cf1c059ee187ea63e1881]
+## 13. The hearing[^c-9c65dca3127cf1c059ee187ea63e1881]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ At the hearing of the application, any of the following may appear or be represe
 
 ## Annotations
 
-[^key-9c65dca3127cf1c059ee187ea63e1881]: Commencement: Rule 13 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-9c65dca3127cf1c059ee187ea63e1881]: Commencement: Rule 13 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

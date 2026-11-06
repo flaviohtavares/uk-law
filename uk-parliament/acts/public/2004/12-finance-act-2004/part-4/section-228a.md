@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228A. Carry forward of unused annual allowance[^M_C_7b3a540d-5b39-45a7-a67c-92661bcda885][^key-7055643fff30dd4e1a4ed50a34b655c1][^key-91d41a5ba43181c11a950754241c9e4e][^key-0cc056ed1239a6bc51430daed564e915]
+## 228A. Carry forward of unused annual allowance[^M_C_7b3a540d-5b39-45a7-a67c-92661bcda885][^c-7055643fff30dd4e1a4ed50a34b655c1][^c-91d41a5ba43181c11a950754241c9e4e][^c-0cc056ed1239a6bc51430daed564e915]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) This section applies if the individual has unused annual allowance available for the tax year (“the current tax year”).
 
@@ -50,7 +50,7 @@ or both.
 
 (7) In calculating for the purposes of subsection (6) the amount of which of the excesses for different tax years had effect to reduce or eliminate the annual allowance charge for an intervening tax year, an amount of the excess for an earlier tax year is to be taken to have done so before that for a later tax year.
 
-(8)[^key-4476d240da7b853c244dfe48d9b7e0ed] If, for a tax year preceding the current tax year, the chargeable amount in the individual's case was the alternative chargeable amount—
+(8)[^c-4476d240da7b853c244dfe48d9b7e0ed] If, for a tax year preceding the current tax year, the chargeable amount in the individual's case was the alternative chargeable amount—
 
 - (a) a reference in subsection (3)(a) or (b), (4)(b) or (6)(a) to the annual allowance for that preceding tax year is a reference to the alternative annual allowance for that preceding tax year (see section 227B(2)), and
 - (b) a reference in subsection (3)(a) or (b), (4)(b) or (6)(a) to the total pension input amount in the case of the individual for that preceding tax year is a reference to the defined-benefit input sub-total in the case of the individual for that preceding tax year (see section 227B(3) to (5)).
@@ -66,10 +66,10 @@ if, at any time in that preceding tax year, section 165(3A) or 167(2A) applied t
 
 [^M_C_7b3a540d-5b39-45a7-a67c-92661bcda885]: Modification: S. 228A applied (with modifications) (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 paras. 29](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/29), [30](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/30)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
 
-[^key-91d41a5ba43181c11a950754241c9e4e]: Modification: [S. 228A](https://www.legislation.gov.uk/ukpga/2004/12/section/228A) modified (13.2.2025 with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2025/52/regulation/21)
+[^c-91d41a5ba43181c11a950754241c9e4e]: Modification: [S. 228A](https://www.legislation.gov.uk/ukpga/2004/12/section/228A) modified (13.2.2025 with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2025/52/regulation/21)
 
-[^key-0cc056ed1239a6bc51430daed564e915]: Textual amendment: S. 228A inserted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/5)
+[^c-0cc056ed1239a6bc51430daed564e915]: Textual amendment: S. 228A inserted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/5)
 
-[^key-4476d240da7b853c244dfe48d9b7e0ed]: Textual amendment: Ss. 228A(8)(9) inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 67(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 67(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/67/1)
+[^c-4476d240da7b853c244dfe48d9b7e0ed]: Textual amendment: Ss. 228A(8)(9) inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 67(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 67(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/67/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Supply of quality standards to other persons[^key-9f784f06eb268423cdd821bf9d0daaff][^c2191348]
+## 235. Supply of quality standards to other persons[^c-9f784f06eb268423cdd821bf9d0daaff][^c2191348]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f784f06eb268423cdd821bf9d0daaff]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2012/7/section/235) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9f784f06eb268423cdd821bf9d0daaff]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2012/7/section/235) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191348]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2012/7/section/235) partly in force; [s. 235](https://www.legislation.gov.uk/ukpga/2012/7/section/235) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

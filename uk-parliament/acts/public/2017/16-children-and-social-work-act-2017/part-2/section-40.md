@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Restrictions on practice and protected titles[^key-c32175604b4c1ceda9408bfdbbb2a6d6]
+## 40. Restrictions on practice and protected titles[^c-c32175604b4c1ceda9408bfdbbb2a6d6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The Secretary of State may by regulations impose prohibitions or restrictions in
 
 ## Annotations
 
-[^key-c32175604b4c1ceda9408bfdbbb2a6d6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/16/section/40) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/k)
+[^c-c32175604b4c1ceda9408bfdbbb2a6d6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/16/section/40) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/k)

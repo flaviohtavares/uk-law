@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 4) Regulations (Northern Ireland) 2021 (revoked)[^key-76a257e04a5dd2581ee6b340e230e538]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 4) Regulations (Northern Ireland) 2021 (revoked)[^c-76a257e04a5dd2581ee6b340e230e538]
 
 Made
 
@@ -42,59 +42,59 @@ Coming into operation
 
 at 4.00 a.m. on 2nd August 2021
 
-[^key-76a257e04a5dd2581ee6b340e230e538]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76a257e04a5dd2581ee6b340e230e538]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-76a257e04a5dd2581ee6b340e230e538]
+## 1. Citation, commencement and interpretation[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Workforce tests: enforcement of self-isolation[^key-76a257e04a5dd2581ee6b340e230e538]
+## 2. Workforce tests: enforcement of self-isolation[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amber plus list countries[^key-76a257e04a5dd2581ee6b340e230e538]
+## 3. Amber plus list countries[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fully vaccinated amber list arrivals[^key-76a257e04a5dd2581ee6b340e230e538]
+## 4. Fully vaccinated amber list arrivals[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Workforce tests[^key-76a257e04a5dd2581ee6b340e230e538]
+## 5. Workforce tests[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Workforce tests: offences[^key-76a257e04a5dd2581ee6b340e230e538]
+## 6. Workforce tests: offences[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Workforce tests: information sharing[^key-76a257e04a5dd2581ee6b340e230e538]
+## 7. Workforce tests: information sharing[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Requirement to book and undertake tests: specialist aerospace engineer or worker[^key-76a257e04a5dd2581ee6b340e230e538]
+## 8. Requirement to book and undertake tests: specialist aerospace engineer or worker[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to the Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021[^key-76a257e04a5dd2581ee6b340e230e538]
+## 9. Amendment to the Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocations[^key-76a257e04a5dd2581ee6b340e230e538]
+## 10. Revocations[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional and savings provision[^key-76a257e04a5dd2581ee6b340e230e538]
+## 11. Transitional and savings provision[^c-76a257e04a5dd2581ee6b340e230e538]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76a257e04a5dd2581ee6b340e230e538]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76a257e04a5dd2581ee6b340e230e538]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-76a257e04a5dd2581ee6b340e230e538]EXPLANATORY NOTE
+[^c-76a257e04a5dd2581ee6b340e230e538]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -114,4 +114,4 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-76a257e04a5dd2581ee6b340e230e538]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/225) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-76a257e04a5dd2581ee6b340e230e538]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/225) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

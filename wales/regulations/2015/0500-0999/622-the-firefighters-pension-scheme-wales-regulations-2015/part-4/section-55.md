@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Retirement amount of deferred pension[^key-e45a796f525a0bc702bf0aee485423a4]
+## 55. Retirement amount of deferred pension[^c-e45a796f525a0bc702bf0aee485423a4]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e45a796f525a0bc702bf0aee485423a4]: Commencement: Reg. 55 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e45a796f525a0bc702bf0aee485423a4]: Commencement: Reg. 55 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

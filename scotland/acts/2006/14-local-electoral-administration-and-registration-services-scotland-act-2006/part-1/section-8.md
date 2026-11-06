@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Observers: individuals[^key-1719c52675d799ef094d130a36ba00a7]
+## 8. Observers: individuals[^c-1719c52675d799ef094d130a36ba00a7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1719c52675d799ef094d130a36ba00a7]: Textual amendment: Ss. 8-11 repealed (29.6.2011) by [Local Electoral Administration (Scotland) Act 2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10), [ss. 11(7)](https://www.legislation.gov.uk/asp/2011/10/section/11/7), [21(1)](https://www.legislation.gov.uk/asp/2011/10/section/21/1); [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-1719c52675d799ef094d130a36ba00a7]: Textual amendment: Ss. 8-11 repealed (29.6.2011) by [Local Electoral Administration (Scotland) Act 2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10), [ss. 11(7)](https://www.legislation.gov.uk/asp/2011/10/section/11/7), [21(1)](https://www.legislation.gov.uk/asp/2011/10/section/21/1); [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)

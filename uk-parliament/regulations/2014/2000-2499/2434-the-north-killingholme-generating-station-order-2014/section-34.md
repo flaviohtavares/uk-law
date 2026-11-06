@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Certification of plans, etc.[^key-febb4e5e6bb41d90511bafd057d319b7]
+## 34. Certification of plans, etc.[^c-febb4e5e6bb41d90511bafd057d319b7]
 
 *Extent: E+W+S*
 
@@ -34,14 +34,14 @@ summary: ''
 
 for certification that they are true copies of the plans or documents referred to in this Order.
 
-(1A)[^key-857a3fb68985e2072fa98ffbffeb3916] The undertaker shall, as soon as practicable after the coming into force of the North Killingholme (Generating Station) (Amendment) Order 2021, submit to the Secretary of State copies of—
+(1A)[^c-857a3fb68985e2072fa98ffbffeb3916] The undertaker shall, as soon as practicable after the coming into force of the North Killingholme (Generating Station) (Amendment) Order 2021, submit to the Secretary of State copies of—
 
 - (a) the works plan dated 31st July 2020 (Replacement of Document Reference Nos 2.12, 2.13 and 2.14) that was submitted with the application dated 13th August 2020 for a non-material change to this Order under paragraph 2 of Schedule 6 to the Planning Act 2008; and
 - (b) the feasibility study dated May 2021 (Carbon Capture Readiness Feasibility Study / Carbon Capture and Storage Design Concept Report),
 
 for certification that they are true copies of the plans or documents referred to in this Order.
 
-(1B)[^key-5956ab6ce4f0f1a8b63c3be50c533033] The undertaker shall, as soon as practicable after the coming into force of the North Killingholme (Generating Station) (Amendment) Order 2026, submit to the Secretary of State copies of—
+(1B)[^c-5956ab6ce4f0f1a8b63c3be50c533033] The undertaker shall, as soon as practicable after the coming into force of the North Killingholme (Generating Station) (Amendment) Order 2026, submit to the Secretary of State copies of—
 
 - (a) the works plan dated 16th July 2025 that was submitted with the application dated 31st July 2025 for a non-material change to this Order under paragraph 2 of Schedule 6 to the 2008 Act; and
 - (b) the feasibility study dated 21st July 2025 (North Killingholme (Generating Station) Order – Non-Material Change Application 2025 Carbon Capture Readiness Compliance),
@@ -59,8 +59,8 @@ for certification that they are true copies of the plans or documents referred t
 
 ## Annotations
 
-[^key-febb4e5e6bb41d90511bafd057d319b7]: Commencement: Art. 34 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-febb4e5e6bb41d90511bafd057d319b7]: Commencement: Art. 34 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-857a3fb68985e2072fa98ffbffeb3916]: Textual amendment: Art. 34(1A) inserted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [4](https://www.legislation.gov.uk/uksi/2021/1055/article/4)
+[^c-857a3fb68985e2072fa98ffbffeb3916]: Textual amendment: Art. 34(1A) inserted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [4](https://www.legislation.gov.uk/uksi/2021/1055/article/4)
 
-[^key-5956ab6ce4f0f1a8b63c3be50c533033]: Textual amendment: Art. 34(1B) inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [4](https://www.legislation.gov.uk/uksi/2026/445/article/4)
+[^c-5956ab6ce4f0f1a8b63c3be50c533033]: Textual amendment: Art. 34(1B) inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [4](https://www.legislation.gov.uk/uksi/2026/445/article/4)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Specified overseas relationships: opposite-sex relationships[^key-83bbebaef0e0564e8a0ea48885d92f0a]
+## SCHEDULE 1 — Specified overseas relationships: opposite-sex relationships[^c-83bbebaef0e0564e8a0ea48885d92f0a]
 
 *Extent: E+W*
 
 Regulation 5(6)
 
-[^key-83bbebaef0e0564e8a0ea48885d92f0a]
+[^c-83bbebaef0e0564e8a0ea48885d92f0a]
 
 The provision to be inserted as Part 2 of Schedule 20 to the Civil Partnership Act 2004 is as follows—
 
@@ -86,4 +86,4 @@ The provision to be inserted as Part 2 of Schedule 20 to the Civil Partnership A
 
 ## Annotations
 
-[^key-83bbebaef0e0564e8a0ea48885d92f0a]: Commencement: Sch. 1 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-83bbebaef0e0564e8a0ea48885d92f0a]: Commencement: Sch. 1 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)

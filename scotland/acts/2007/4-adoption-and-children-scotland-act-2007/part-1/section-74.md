@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Disclosure of medical information about parents[^key-b35129f992e0ba735a167b462834869c][^key-cb5e799b412cd2e11e10811b57f25578]
+## 74. Disclosure of medical information about parents[^c-b35129f992e0ba735a167b462834869c][^c-cb5e799b412cd2e11e10811b57f25578]
 
 *Extent: S*
 
@@ -37,12 +37,12 @@ summary: ''
 - (d) the circumstances in which consent to disclosure of information need not be obtained,
 - (e) the processing of information by a person to whom information is disclosed.
 
-(5)[^key-9d7daa817dbb011f8024cc41acd69e2b] In subsection (4)(e), “**processing**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(4) and (14) of that Act).
+(5)[^c-9d7daa817dbb011f8024cc41acd69e2b] In subsection (4)(e), “**processing**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(4) and (14) of that Act).
 
 ## Annotations
 
-[^key-b35129f992e0ba735a167b462834869c]: Commencement: S. 74 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
+[^c-b35129f992e0ba735a167b462834869c]: Commencement: S. 74 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
 
-[^key-cb5e799b412cd2e11e10811b57f25578]: Commencement: S. 74 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-cb5e799b412cd2e11e10811b57f25578]: Commencement: S. 74 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-9d7daa817dbb011f8024cc41acd69e2b]: Textual amendment: [S. 74(5)](https://www.legislation.gov.uk/asp/2007/4/section/74/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 148](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/148) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-9d7daa817dbb011f8024cc41acd69e2b]: Textual amendment: [S. 74(5)](https://www.legislation.gov.uk/asp/2007/4/section/74/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 148](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/148) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

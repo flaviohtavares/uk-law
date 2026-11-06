@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1) Schedule 9 to the 1995 Act (routine evidence) shall be amended in accordance with subsection (3)[^key-31240a443e99810c2f59a18bec8687ec] below.
+(1) Schedule 9 to the 1995 Act (routine evidence) shall be amended in accordance with subsection (3)[^c-31240a443e99810c2f59a18bec8687ec] below.
 
-(2)[^key-5beed38787a4937abb08c4b7dcfd1f1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5beed38787a4937abb08c4b7dcfd1f1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the entry relating to the [^c441648]Video Recordings Act 1984, for the words in the second and third columns there shall be substituted the words in, respectively, the left and right hand columns below—
 
@@ -38,9 +38,9 @@ summary: ''
 
 ## Annotations
 
-[^key-31240a443e99810c2f59a18bec8687ec]: Textual amendment: Words in s. 30(1) substituted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 34(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/34/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-31240a443e99810c2f59a18bec8687ec]: Textual amendment: Words in s. 30(1) substituted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 34(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/34/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-5beed38787a4937abb08c4b7dcfd1f1f]: Textual amendment: S. 30(2) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 34(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/34/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-5beed38787a4937abb08c4b7dcfd1f1f]: Textual amendment: S. 30(2) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 34(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/34/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c441648]: Marginal citation: [1984 c. 39](https://www.legislation.gov.uk/ukpga/1984/39).
 

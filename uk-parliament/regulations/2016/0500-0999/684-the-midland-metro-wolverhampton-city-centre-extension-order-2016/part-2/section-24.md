@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Obstruction of construction of authorised works[^key-14ad028a07cdb459d695b9ae9610d319]
+## 24. Obstruction of construction of authorised works[^c-14ad028a07cdb459d695b9ae9610d319]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-14ad028a07cdb459d695b9ae9610d319]: Commencement: Art. 24 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-14ad028a07cdb459d695b9ae9610d319]: Commencement: Art. 24 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

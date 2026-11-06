@@ -49,7 +49,7 @@ Regulation 5
 
 (2) If the statement is of circumstances which the depositary considers should be brought to the attention of the shareholders or creditors of the company, the company must, not later than 14 days after the deposit of the statement, either—
 
-- (a) send a copy of the statement to each of the shareholders whose name appears on the register of shareholders (other than the designated person) and take such steps as FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules may require for the purpose of bringing the fact that the statement has been made to the attention of the holders of any bearer shares; or
+- (a) send a copy of the statement to each of the shareholders whose name appears on the register of shareholders (other than the designated person) and take such steps as FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules may require for the purpose of bringing the fact that the statement has been made to the attention of the holders of any bearer shares; or
 - (b) apply to the court;
 
 and, where an application is made under sub-paragraph (b), the company must notify the depositary.
@@ -77,4 +77,4 @@ and the company must, not later than 14 days after the court’s decision, take 
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

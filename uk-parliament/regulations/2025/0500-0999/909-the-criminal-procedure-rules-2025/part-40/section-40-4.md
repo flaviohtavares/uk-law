@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.4. Advance notice of appeal against order restricting public access[^key-4710aac364f28ee27e204543b0e149fd]
+## 40.4. Advance notice of appeal against order restricting public access[^c-4710aac364f28ee27e204543b0e149fd]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4710aac364f28ee27e204543b0e149fd]: Commencement: [Rule 40.4](https://www.legislation.gov.uk/uksi/2025/909/rule/40.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4710aac364f28ee27e204543b0e149fd]: Commencement: [Rule 40.4](https://www.legislation.gov.uk/uksi/2025/909/rule/40.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

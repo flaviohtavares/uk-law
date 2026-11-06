@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Amendment of Commission Implementing Decision (EU) 2016/1217[^key-7f47a920c28e2c2ce0ac186a350bc7ac]
+## 308. Amendment of Commission Implementing Decision (EU) 2016/1217[^c-7f47a920c28e2c2ce0ac186a350bc7ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2016/1217 authorising the placing on the m
 
 ## Annotations
 
-[^key-7f47a920c28e2c2ce0ac186a350bc7ac]: Commencement: Reg. 308 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7f47a920c28e2c2ce0ac186a350bc7ac]: Commencement: Reg. 308 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

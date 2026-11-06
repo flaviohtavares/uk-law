@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Part 5 appeals[^key-6cba241a0a79631304d0900a488d65db]
+## 159. Part 5 appeals[^c-6cba241a0a79631304d0900a488d65db]
 
 *Extent: S*
 
-(1)[^key-ca953f00cbe2d004ccfab00b2edebb05] Any decision of a local authority to which section 158 applies may be appealed by summary application to the sheriff.
+(1)[^c-ca953f00cbe2d004ccfab00b2edebb05] Any decision of a local authority to which section 158 applies may be appealed by summary application to the sheriff.
 
 (2) An appeal may be made only by a person on whom notice of the decision requires to be served under that section.
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) But the sheriff may on cause shown hear an appeal made after the deadline set by subsection (4).
 
-(5A)[^key-a113f5913d7d5c531402b323dcdcac5a] For the purposes of an appeal, the sheriff may require the local authority to give reasons for the decision (if the authority has not already done so), and the authority must comply with such a requirement.
+(5A)[^c-a113f5913d7d5c531402b323dcdcac5a] For the purposes of an appeal, the sheriff may require the local authority to give reasons for the decision (if the authority has not already done so), and the authority must comply with such a requirement.
 
 (6) The sheriff may determine the appeal by—
 
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6cba241a0a79631304d0900a488d65db]: Commencement: S. 159 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-6cba241a0a79631304d0900a488d65db]: Commencement: S. 159 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-ca953f00cbe2d004ccfab00b2edebb05]: Modification: [S. 159(1)](https://www.legislation.gov.uk/asp/2006/1/section/159/1) power to disapply conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(a)(ii)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/a/ii), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-ca953f00cbe2d004ccfab00b2edebb05]: Modification: [S. 159(1)](https://www.legislation.gov.uk/asp/2006/1/section/159/1) power to disapply conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(a)(ii)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/a/ii), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-a113f5913d7d5c531402b323dcdcac5a]: Textual amendment: [S. 159(5A)](https://www.legislation.gov.uk/asp/2006/1/section/159/5A) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 15(2)](https://www.legislation.gov.uk/asp/2011/14/section/15/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-a113f5913d7d5c531402b323dcdcac5a]: Textual amendment: [S. 159(5A)](https://www.legislation.gov.uk/asp/2006/1/section/159/5A) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 15(2)](https://www.legislation.gov.uk/asp/2011/14/section/15/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

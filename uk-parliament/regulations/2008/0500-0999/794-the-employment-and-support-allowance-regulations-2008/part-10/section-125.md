@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 125. Date on which a ... liable relative payment is to be treated as paid[^key-1fdf86d06b1af826afd11b68a12862b2]
+## 125. Date on which a ... liable relative payment is to be treated as paid[^c-1fdf86d06b1af826afd11b68a12862b2]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fdf86d06b1af826afd11b68a12862b2]: Textual amendment: Words in reg. 125 heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/4)
+[^c-1fdf86d06b1af826afd11b68a12862b2]: Textual amendment: Words in reg. 125 heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/4)

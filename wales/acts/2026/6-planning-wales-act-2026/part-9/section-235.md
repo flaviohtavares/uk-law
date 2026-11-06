@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 235. Power of planning authority to make woodland preservation order[^key-1dd517edb1610e38130a058cc0d4c85c]
+## 235. Power of planning authority to make woodland preservation order[^c-1dd517edb1610e38130a058cc0d4c85c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd517edb1610e38130a058cc0d4c85c]: Commencement: S. 235 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1dd517edb1610e38130a058cc0d4c85c]: Commencement: S. 235 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

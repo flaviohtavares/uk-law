@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^key-3ba286e2e206f694d28ec1c75dbeae55][^M_I_9915a1c7-aa09-4b90-96d8-dac4788e0d52]
+## 63. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^c-3ba286e2e206f694d28ec1c75dbeae55][^M_I_9915a1c7-aa09-4b90-96d8-dac4788e0d52]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba286e2e206f694d28ec1c75dbeae55]: Commencement: Reg. 63 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-3ba286e2e206f694d28ec1c75dbeae55]: Commencement: Reg. 63 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_9915a1c7-aa09-4b90-96d8-dac4788e0d52]: Commencement: Reg. 63 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

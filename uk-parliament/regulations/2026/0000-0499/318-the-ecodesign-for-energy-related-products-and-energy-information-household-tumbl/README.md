@@ -79,7 +79,7 @@ For the purposes of paragraph (3) of Article 11 of the Framework Regulation, the
 - [Section 13 — Measurements and calculations](part-3/section-13.md)
 - [Section 14 — Verification procedure for compliance purposes](part-3/section-14.md)
 
-### Part 4 — Transitional provisions[^key-b5a34695e852895860bf7ad21a6ba9cc]
+### Part 4 — Transitional provisions[^c-b5a34695e852895860bf7ad21a6ba9cc]
 
 *Extent: E+W+S*
 
@@ -148,4 +148,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [EUR 2017/1369](https://www.legislation.gov.uk/european/regulation/2017/1369), amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539), [2020/1528](https://www.legislation.gov.uk/uksi/2020/1528).
 
-[^key-b5a34695e852895860bf7ad21a6ba9cc]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2026/318/part/4) heading substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/750/regulation/9)
+[^c-b5a34695e852895860bf7ad21a6ba9cc]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2026/318/part/4) heading substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/750/regulation/9)

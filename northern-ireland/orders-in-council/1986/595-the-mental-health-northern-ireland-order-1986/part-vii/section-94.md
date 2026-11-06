@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Cancellation of registration[^key-d93cae24e47faec1f2dc8e2907713d10]
+## 94. Cancellation of registration[^c-d93cae24e47faec1f2dc8e2907713d10]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d93cae24e47faec1f2dc8e2907713d10]: Commencement: [Art. 94](https://www.legislation.gov.uk/nisi/1986/595/article/94) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/e)
+[^c-d93cae24e47faec1f2dc8e2907713d10]: Commencement: [Art. 94](https://www.legislation.gov.uk/nisi/1986/595/article/94) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/e)

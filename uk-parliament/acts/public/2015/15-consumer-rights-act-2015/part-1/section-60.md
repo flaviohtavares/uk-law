@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Changes to other legislation[^key-08ba6fbc5792004c1175feea51716ab9]
+## 60. Changes to other legislation[^c-08ba6fbc5792004c1175feea51716ab9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (amendments consequential on this Part) has effect.
 
 ## Annotations
 
-[^key-08ba6fbc5792004c1175feea51716ab9]: Commencement: S. 60 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-08ba6fbc5792004c1175feea51716ab9]: Commencement: S. 60 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

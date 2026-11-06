@@ -64,7 +64,7 @@ These Rules may be cited as the Prison and Young Offender Institution (Amendment
 
 (4) In the Schedule (revocations), for the heading “Schedule” substitute “ Schedule 1 ”.
 
-(5)[^key-7a0c218b230949ad0a8a7d4d8eb84e27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7a0c218b230949ad0a8a7d4d8eb84e27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of the Young Offender Institution Rules 2000
 
@@ -81,7 +81,7 @@ These Rules may be cited as the Prison and Young Offender Institution (Amendment
 
 (4) In the Schedule (revocations), for the heading “Schedule” substitute “ Schedule 1 ”.
 
-(5)[^key-964effac784f6e6ade72c880127a51aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-964effac784f6e6ade72c880127a51aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Lucy Frazer
 
@@ -89,17 +89,17 @@ Parliamentary Under-Secretary of State
 
 Ministry of Justice
 
-## SCHEDULE[^key-e79abd1f365e6cb962ee992c4057a8a2]
+## SCHEDULE[^c-e79abd1f365e6cb962ee992c4057a8a2]
 
 **No longer in force.**
 
 Rules 2(5) and 3(5)
 
-> **SCHEDULE 2 — Definition of specified drug[^key-e79abd1f365e6cb962ee992c4057a8a2]**
+> **SCHEDULE 2 — Definition of specified drug[^c-e79abd1f365e6cb962ee992c4057a8a2]**
 >
 > Rule 2(1)
 >
-> [^key-e79abd1f365e6cb962ee992c4057a8a2]
+> [^c-e79abd1f365e6cb962ee992c4057a8a2]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,12 +117,12 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c23387191]: Marginal citation: [Rule 2](https://www.legislation.gov.uk/uksi/2018/960/rule/2) was amended by [S.I. 2000/2641](https://www.legislation.gov.uk/uksi/2000/2641), 2003/3301, 2005/869, 2005/3437, 2008/597, 2009/3082, 2013/235, 2014/2169, 2016/583, 2016/945, 2018/549.
 
-[^key-7a0c218b230949ad0a8a7d4d8eb84e27]: Textual amendment: [Rule 2(5)](https://www.legislation.gov.uk/uksi/2018/960/rule/2/5) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/6/a), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-7a0c218b230949ad0a8a7d4d8eb84e27]: Textual amendment: [Rule 2(5)](https://www.legislation.gov.uk/uksi/2018/960/rule/2/5) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/6/a), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
 
 [^c23387201]: Marginal citation: [S.I. 2000/3371](https://www.legislation.gov.uk/uksi/2000/3371).
 
 [^c23387211]: Marginal citation: [Rule 2](https://www.legislation.gov.uk/uksi/2018/960/rule/2) was amended by [S.I. 2002/2117](https://www.legislation.gov.uk/uksi/2002/2117), 2005/897, 2005/3438, 2008/599, 2009/3082, 2013/235, 2014/2169, 2016/583, 2016/945, 2018/549.
 
-[^key-964effac784f6e6ade72c880127a51aa]: Textual amendment: [Rule 3(5)](https://www.legislation.gov.uk/uksi/2018/960/rule/3/5) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/6/b), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-964effac784f6e6ade72c880127a51aa]: Textual amendment: [Rule 3(5)](https://www.legislation.gov.uk/uksi/2018/960/rule/3/5) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/6/b), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
 
-[^key-e79abd1f365e6cb962ee992c4057a8a2]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/960/schedule) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(6)(c)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/6/c), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-e79abd1f365e6cb962ee992c4057a8a2]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/960/schedule) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(6)(c)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/6/c), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)

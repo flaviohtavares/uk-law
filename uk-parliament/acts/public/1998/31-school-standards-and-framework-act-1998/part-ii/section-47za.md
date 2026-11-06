@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47ZA. Free of charge early years provision outside a maintained school: budgetary framework: England[^key-3b32c8159965c65d7a592efe4a198185]
+## 47ZA. Free of charge early years provision outside a maintained school: budgetary framework: England[^c-3b32c8159965c65d7a592efe4a198185]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b32c8159965c65d7a592efe4a198185]: Textual amendment: S. 47ZA inserted (28.2.2011) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 202(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/202/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4) (as amended by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)); [S.I. 2010/2374](https://www.legislation.gov.uk/uksi/2010/2374), [art. 3](https://www.legislation.gov.uk/uksi/2010/2374/article/3)
+[^c-3b32c8159965c65d7a592efe4a198185]: Textual amendment: S. 47ZA inserted (28.2.2011) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 202(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/202/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4) (as amended by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)); [S.I. 2010/2374](https://www.legislation.gov.uk/uksi/2010/2374), [art. 3](https://www.legislation.gov.uk/uksi/2010/2374/article/3)

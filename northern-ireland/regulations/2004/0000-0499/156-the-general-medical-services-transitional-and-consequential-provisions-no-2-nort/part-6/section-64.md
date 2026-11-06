@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Review of approval of out of hours arrangements under general medical services and default contracts[^key-c390c304d9ad6009f389e2a28029dbb6]
+## 64. Review of approval of out of hours arrangements under general medical services and default contracts[^c-c390c304d9ad6009f389e2a28029dbb6]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ that review shall continue as if it were a review under the term of the general 
 
 ## Annotations
 
-[^key-c390c304d9ad6009f389e2a28029dbb6]: Commencement: Art. 64 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c390c304d9ad6009f389e2a28029dbb6]: Commencement: Art. 64 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

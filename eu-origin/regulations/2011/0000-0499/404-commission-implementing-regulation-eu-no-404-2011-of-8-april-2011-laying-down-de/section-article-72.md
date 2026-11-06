@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. All weighing systems shall be calibrated and sealed [^key-43729f64de876d24fb2d07bd121fd1ef]... by the competent authorities of a fisheries administration[^key-1f336a5126510eed706d92918465fe1a].
+1. All weighing systems shall be calibrated and sealed [^c-43729f64de876d24fb2d07bd121fd1ef]... by the competent authorities of a fisheries administration[^c-1f336a5126510eed706d92918465fe1a].
 
 2. The natural or legal person responsible for the weighing system shall maintain a record of calibration.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43729f64de876d24fb2d07bd121fd1ef]: Textual amendment: Words in [Art. 72(1)](https://www.legislation.gov.uk/eur/2011/404/article/72/1) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(58)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/58/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43729f64de876d24fb2d07bd121fd1ef]: Textual amendment: Words in [Art. 72(1)](https://www.legislation.gov.uk/eur/2011/404/article/72/1) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(58)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/58/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f336a5126510eed706d92918465fe1a]: Textual amendment: Words in [Art. 72](https://www.legislation.gov.uk/eur/2011/404/article/72) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(58)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/58/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f336a5126510eed706d92918465fe1a]: Textual amendment: Words in [Art. 72](https://www.legislation.gov.uk/eur/2011/404/article/72) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(58)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/58/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

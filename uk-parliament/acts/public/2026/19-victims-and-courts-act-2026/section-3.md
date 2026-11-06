@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Restricting parental responsibility of certain sex offenders[^key-1ab88f0e032fc2d1d219b9e41213d81b]
+## 3. Restricting parental responsibility of certain sex offenders[^c-1ab88f0e032fc2d1d219b9e41213d81b]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab88f0e032fc2d1d219b9e41213d81b]: Commencement: S. 3 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-1ab88f0e032fc2d1d219b9e41213d81b]: Commencement: S. 3 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

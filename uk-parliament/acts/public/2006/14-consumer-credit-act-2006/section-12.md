@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Notice of default sums[^key-0ba6a90c38999ef917e14c5b9600ab4b][^key-d33eef9324148a377dbf2c50c5f39970]
+## 12. Notice of default sums[^c-0ba6a90c38999ef917e14c5b9600ab4b][^c-d33eef9324148a377dbf2c50c5f39970]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ After section 86D of the 1974 Act (inserted by section 11 of this Act) insert—
 
 ## Annotations
 
-[^key-0ba6a90c38999ef917e14c5b9600ab4b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/14/section/12) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-0ba6a90c38999ef917e14c5b9600ab4b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/14/section/12) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 
-[^key-d33eef9324148a377dbf2c50c5f39970]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/14/section/12) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-d33eef9324148a377dbf2c50c5f39970]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/14/section/12) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

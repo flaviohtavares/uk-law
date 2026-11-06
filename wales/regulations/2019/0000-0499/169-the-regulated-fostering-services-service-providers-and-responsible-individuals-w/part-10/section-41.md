@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Conflicts of interest[^key-5e1b8cef80dbb6954d8ad6aff9230877]
+## 41. Conflicts of interest[^c-5e1b8cef80dbb6954d8ad6aff9230877]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must have effective arrangements in place to identify, reco
 
 ## Annotations
 
-[^key-5e1b8cef80dbb6954d8ad6aff9230877]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2019/169/regulation/41) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-5e1b8cef80dbb6954d8ad6aff9230877]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2019/169/regulation/41) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

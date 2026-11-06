@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-16239b1e1d1f6a590a86e6defd8ae32c] An employee who presents a complaint to an industrial tribunal that he has been unfairly dismissed and—
+(1)[^c-16239b1e1d1f6a590a86e6defd8ae32c] An employee who presents a complaint to an industrial tribunal that he has been unfairly dismissed and—
 
 - (a) that the reason (or, if more than one, the principal reason) for the dismissal is one of those specified in—
   - (i) Article 132(1)(a) and (b), 132A(1)(d), 133(1), 134, 134A or 136(1), or
@@ -57,6 +57,6 @@ may apply to the tribunal for interim relief.
 
 [^c20517321]: Modification: Arts. 163-167 applied (1.10.2006) by [Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [51](https://www.legislation.gov.uk/nisr/2006/261/regulation/51), [Sch. 5 para. 13(6)](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/13/6) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
 
-[^key-16239b1e1d1f6a590a86e6defd8ae32c]: Textual amendment: [Art. 163(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/163/1) substituted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(9)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/9)
+[^c-16239b1e1d1f6a590a86e6defd8ae32c]: Textual amendment: [Art. 163(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/163/1) substituted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(9)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/9)
 
 [^c17627041]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)

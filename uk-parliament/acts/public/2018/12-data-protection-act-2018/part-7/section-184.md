@@ -36,7 +36,7 @@ summary: ''
 - (a) was required or authorised by an enactment, by a rule of law or by the order of a court or tribunal, or
 - (b) in the particular circumstances, was justified as being in the public interest.
 
-(4) The imposition of the requirement referred to in subsection (1) or (2) is not to be regarded as justified as being in the public interest on the ground that it would assist in the prevention , investigation[^key-8efaf1436cbf85d5d8e08d9cba2a529d] or detection of crime, given —[^key-f47223315e48d2332450a35ce52125d7]
+(4) The imposition of the requirement referred to in subsection (1) or (2) is not to be regarded as justified as being in the public interest on the ground that it would assist in the prevention , investigation[^c-8efaf1436cbf85d5d8e08d9cba2a529d] or detection of crime, given —[^c-f47223315e48d2332450a35ce52125d7]
 
 - (a) Part 5 of the Police Act 1997 (certificates of criminal records etc), and
 - (b) Part 1 of the Disclosure (Scotland) Act 2020 (disclosure of criminal history and other information).
@@ -65,6 +65,6 @@ and the references to a “requirement” in subsections (3) and (4) are to be i
 
 [^M_I_da00e592-0ae8-4de3-8731-7adb2f7bc113]: Commencement: S. 184 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-8efaf1436cbf85d5d8e08d9cba2a529d]: Textual amendment: Word in s. 184(4) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 25](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/25); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z12)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z12)
+[^c-8efaf1436cbf85d5d8e08d9cba2a529d]: Textual amendment: Word in s. 184(4) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 25](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/25); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z12)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z12)
 
-[^key-f47223315e48d2332450a35ce52125d7]: Textual amendment: S. 184(4)(a)(b) substituted for words (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/3/2)
+[^c-f47223315e48d2332450a35ce52125d7]: Textual amendment: S. 184(4)(a)(b) substituted for words (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/3/2)

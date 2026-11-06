@@ -97,7 +97,7 @@ This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 20 and 
 
 (5) Article 3A of the No. 9 Order [^c2225668] applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives or give incorrect information regarding his or her (or their) residing in a No. 28 relevant district or meeting the specified condition, as it applies in connection with the giving of incorrect information regarding a claimant residing in a relevant district (as defined in the No. 9 Order) or meeting the gateway conditions (as defined in the No. 9 Order).
 
-## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance[^key-f78df3a61dec004e66e1800de3aa8d0c]
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance[^c-f78df3a61dec004e66e1800de3aa8d0c]
 
 (1) The day appointed for the coming into force of the amending provisions, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
 
@@ -135,7 +135,7 @@ This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 20 and 
 
 Articles 9 to 22 of the No. 9 Order [^c2225672] apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in sub-paragraphs (a), (b) and (g) of article 4(2) of the No. 9 Order and any award made in respect of the claim.
 
-## 6. Transitional provision: claims for housing benefit, income support or a tax credit[^key-44e9ec88dfc6a2f8469682689d5a3d45]
+## 6. Transitional provision: claims for housing benefit, income support or a tax credit[^c-44e9ec88dfc6a2f8469682689d5a3d45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -509,7 +509,7 @@ The following provisions of the Welfare Reform Act 2012 (c.5) were brought into 
 
 [^c2225668]: Marginal citation: [Article 3A](https://www.legislation.gov.uk/uksi/2014/3094/article/3A) was substituted by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923) (C. 88).
 
-[^key-f78df3a61dec004e66e1800de3aa8d0c]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by S.I. 2020/826, regs. 1, 2(2))
+[^c-f78df3a61dec004e66e1800de3aa8d0c]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by S.I. 2020/826, regs. 1, 2(2))
 
 [^c2225669]: Marginal citation: Article 4 was substituted by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) (C. 56) and amended by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923) (C.88).
 
@@ -519,7 +519,7 @@ The following provisions of the Welfare Reform Act 2012 (c.5) were brought into 
 
 [^c2225672]: Marginal citation: [Articles 10 to 13](https://www.legislation.gov.uk/uksi/2014/3094/article/10) of, and Schedule 4 to, the No. 9 Order (Schedule 4 takes effect under article 9) were amended by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511) (C.60); [article 11](https://www.legislation.gov.uk/uksi/2014/3094/article/11) of the No. 9 Order was amended by [S.I. 2013/2657](https://www.legislation.gov.uk/uksi/2013/2657) (C.107); [articles 9](https://www.legislation.gov.uk/uksi/2014/3094/article/9), [11](https://www.legislation.gov.uk/uksi/2014/3094/article/11), [13](https://www.legislation.gov.uk/uksi/2014/3094/article/13), [15](https://www.legislation.gov.uk/uksi/2014/3094/article/15), [18](https://www.legislation.gov.uk/uksi/2014/3094/article/18) and 22 of the No. 9 Order were amended by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) (C.56); [articles 10](https://www.legislation.gov.uk/uksi/2014/3094/article/10), [11](https://www.legislation.gov.uk/uksi/2014/3094/article/11), [12](https://www.legislation.gov.uk/uksi/2014/3094/article/12) and 13 were amended by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067) (C.129).
 
-[^key-44e9ec88dfc6a2f8469682689d5a3d45]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3094/article/6) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/5)
+[^c-44e9ec88dfc6a2f8469682689d5a3d45]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3094/article/6) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/5)
 
 [^c2225682]: Marginal citation: [Regulation 3](https://www.legislation.gov.uk/uksi/2014/3094/regulation/3) of [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887) (“**the Digital Service Regulations**”) omits regulation 6 of the [Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 (S.I. 2013/380)](https://www.legislation.gov.uk/uksi/2013/380), and amends regulation 9(6) and (8) of those Regulations, but that omission and those amendments do not apply to certain awards of universal credit as described in regulation 5 of the Digital Service Regulations.
 

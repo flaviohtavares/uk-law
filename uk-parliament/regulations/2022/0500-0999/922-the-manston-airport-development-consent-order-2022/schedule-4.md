@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — TRAFFIC REGULATION[^key-d94eb2ce37a1daf690dbf55628690a98]
+## SCHEDULE 4 — TRAFFIC REGULATION[^c-d94eb2ce37a1daf690dbf55628690a98]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ Article 15
 
 ## Annotations
 
-[^key-d94eb2ce37a1daf690dbf55628690a98]: Commencement: Sch. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-d94eb2ce37a1daf690dbf55628690a98]: Commencement: Sch. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

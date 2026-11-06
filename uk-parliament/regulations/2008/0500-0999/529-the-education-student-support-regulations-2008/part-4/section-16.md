@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Students to be treated as in attendance on a course[^key-503d576d1e557cfa7f5be6860d340b49]
+## 16. Students to be treated as in attendance on a course[^c-503d576d1e557cfa7f5be6860d340b49]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-503d576d1e557cfa7f5be6860d340b49]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-503d576d1e557cfa7f5be6860d340b49]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

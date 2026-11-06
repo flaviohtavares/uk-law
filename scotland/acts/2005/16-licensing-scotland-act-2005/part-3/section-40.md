@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Review of Licensing Board's decision to vary or suspend licence[^key-69eb0394bb9034c0cb5145928a691c82]
+## 40. Review of Licensing Board's decision to vary or suspend licence[^c-69eb0394bb9034c0cb5145928a691c82]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ revoke the variation or suspension.
 
 ## Annotations
 
-[^key-69eb0394bb9034c0cb5145928a691c82]: Commencement: S. 40 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-69eb0394bb9034c0cb5145928a691c82]: Commencement: S. 40 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

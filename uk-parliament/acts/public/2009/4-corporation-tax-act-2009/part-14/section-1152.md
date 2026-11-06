@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1152. Meaning of “qualifying land remediation loss”[^key-59edf03b87445e5d86c1a50e24389a0e]
+## 1152. Meaning of “qualifying land remediation loss”[^c-59edf03b87445e5d86c1a50e24389a0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59edf03b87445e5d86c1a50e24389a0e]: Modification: S. 1152 excluded by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357QB](https://www.legislation.gov.uk/ukpga/2009/4/section/357QB) (as inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1))
+[^c-59edf03b87445e5d86c1a50e24389a0e]: Modification: S. 1152 excluded by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357QB](https://www.legislation.gov.uk/ukpga/2009/4/section/357QB) (as inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1))

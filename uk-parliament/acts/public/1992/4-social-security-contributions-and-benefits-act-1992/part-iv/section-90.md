@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Beneficiaries under sections 68 and 70.[^key-878e7ec3f8c37e183d895b2f1e70ce3f]
+## 90. Beneficiaries under sections 68 and 70.[^c-878e7ec3f8c37e183d895b2f1e70ce3f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-878e7ec3f8c37e183d895b2f1e70ce3f]: Textual amendment: S. 90 repealed (6.4.2010 with savings until 6.4.2020) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 15(1)(b)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/1/b), [61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/3))
+[^c-878e7ec3f8c37e183d895b2f1e70ce3f]: Textual amendment: S. 90 repealed (6.4.2010 with savings until 6.4.2020) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 15(1)(b)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/1/b), [61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/3))

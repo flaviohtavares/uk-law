@@ -52,8 +52,8 @@ summary: ''
 
 (7) If a qualifying policy is substituted for another policy in circumstances where paragraph 25(1) or (3) of Schedule 15 to ICTA applies (replacement of a policy issued by a non-UK resident company by a policy which is not so issued), the surrender of the rights conferred by the other policy is not a chargeable event.
 
-(8)[^key-8deff21e2bfb33ce5b5001ffabc6b82d] This section is subject to sections 463A and 463C.
+(8)[^c-8deff21e2bfb33ce5b5001ffabc6b82d] This section is subject to sections 463A and 463C.
 
 ## Annotations
 
-[^key-8deff21e2bfb33ce5b5001ffabc6b82d]: Textual amendment: [S. 485(8)](https://www.legislation.gov.uk/ukpga/2005/5/section/485/8) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/9)
+[^c-8deff21e2bfb33ce5b5001ffabc6b82d]: Textual amendment: [S. 485(8)](https://www.legislation.gov.uk/ukpga/2005/5/section/485/8) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/9)

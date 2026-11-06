@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 168. Authentication[^key-12318c9e7bb1f2f778788d743527f8e9]
+## 168. Authentication[^c-12318c9e7bb1f2f778788d743527f8e9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12318c9e7bb1f2f778788d743527f8e9]: Commencement: Rule 168 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-12318c9e7bb1f2f778788d743527f8e9]: Commencement: Rule 168 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

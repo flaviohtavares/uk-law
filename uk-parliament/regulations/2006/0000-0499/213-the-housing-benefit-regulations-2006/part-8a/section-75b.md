@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75B. Determinations[^key-a32b4347e5e0f4cdf0adc7d5c4f54d08][^key-3300f6a4af88852333099a324a65cb9a]
+## 75B. Determinations[^c-a32b4347e5e0f4cdf0adc7d5c4f54d08][^c-3300f6a4af88852333099a324a65cb9a]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a32b4347e5e0f4cdf0adc7d5c4f54d08]: Textual amendment: Reg. 75B substituted (7.11.2016) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/909)](https://www.legislation.gov.uk/uksi/2016/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/909/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/909/regulation/2/2)
+[^c-a32b4347e5e0f4cdf0adc7d5c4f54d08]: Textual amendment: Reg. 75B substituted (7.11.2016) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/909)](https://www.legislation.gov.uk/uksi/2016/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/909/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/909/regulation/2/2)
 
-[^key-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))
+[^c-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))

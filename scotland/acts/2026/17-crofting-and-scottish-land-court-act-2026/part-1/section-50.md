@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Crofting census notices[^key-b77cf60b956bd03e3667cfd65021663d]
+## 50. Crofting census notices[^c-b77cf60b956bd03e3667cfd65021663d]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b77cf60b956bd03e3667cfd65021663d]: Commencement: S. 50 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-b77cf60b956bd03e3667cfd65021663d]: Commencement: S. 50 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

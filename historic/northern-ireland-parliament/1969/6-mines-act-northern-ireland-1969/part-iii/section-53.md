@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Duties of deputies in relation to support.[^key-be6620ec13d2f1c90e0d96d53a1e1a7b]
+## 53. Duties of deputies in relation to support.[^c-be6620ec13d2f1c90e0d96d53a1e1a7b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6620ec13d2f1c90e0d96d53a1e1a7b]: Textual amendment: [Ss. 51-56](https://www.legislation.gov.uk/apni/1969/6/section/51) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-be6620ec13d2f1c90e0d96d53a1e1a7b]: Textual amendment: [Ss. 51-56](https://www.legislation.gov.uk/apni/1969/6/section/51) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

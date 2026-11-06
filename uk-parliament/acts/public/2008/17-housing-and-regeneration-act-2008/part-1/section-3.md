@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Principal powers[^key-0b27f46f45ca579fc428ac6f302166f8]
+## 3. Principal powers[^c-0b27f46f45ca579fc428ac6f302166f8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The HCA may do anything it considers appropriate for the purposes of its objects
 
 ## Annotations
 
-[^key-0b27f46f45ca579fc428ac6f302166f8]: Commencement: S. 3 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-0b27f46f45ca579fc428ac6f302166f8]: Commencement: S. 3 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)

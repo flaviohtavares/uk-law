@@ -26,7 +26,7 @@ summary: ''
 - (b) the Secretary of State is satisfied that one or more of the grounds for transfer in paragraph (2) applies; and
 - (c) the period of eligibility has not terminated.
 
-(1A)[^key-f69ad3b3d6dc074126a8a45905ce9432] Paragraph (1) applies to a person who is an eligible postgraduate student by virtue of regulation 159(3)(a)(ii) only where that person’s status as an eligible postgraduate student has not been transferred on or after 1st August 2021 from the designated postgraduate course referred to in regulation 159(3A)(a) to another designated postgraduate course.
+(1A)[^c-f69ad3b3d6dc074126a8a45905ce9432] Paragraph (1) applies to a person who is an eligible postgraduate student by virtue of regulation 159(3)(a)(ii) only where that person’s status as an eligible postgraduate student has not been transferred on or after 1st August 2021 from the designated postgraduate course referred to in regulation 159(3A)(a) to another designated postgraduate course.
 
 (2) The grounds for transfer are—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f69ad3b3d6dc074126a8a45905ce9432]: Textual amendment: [Reg. 163(1A)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/163/1A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2021/127/regulation/24)
+[^c-f69ad3b3d6dc074126a8a45905ce9432]: Textual amendment: [Reg. 163(1A)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/163/1A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2021/127/regulation/24)

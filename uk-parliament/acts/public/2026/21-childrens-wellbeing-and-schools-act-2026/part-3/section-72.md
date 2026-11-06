@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Age of consent in relation to processing of a child’s personal data: information society services[^key-4dd8a2360bab8943392549c7c95927ff]
+## 72. Age of consent in relation to processing of a child’s personal data: information society services[^c-4dd8a2360bab8943392549c7c95927ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd8a2360bab8943392549c7c95927ff]: Commencement: S. 72 in force at Royal Assent, see [s. 78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)
+[^c-4dd8a2360bab8943392549c7c95927ff]: Commencement: S. 72 in force at Royal Assent, see [s. 78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)

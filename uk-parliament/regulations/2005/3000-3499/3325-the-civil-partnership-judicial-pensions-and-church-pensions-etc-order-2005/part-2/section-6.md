@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**6.**[^key-0f4e91008fefef8523766f48db7997d7] (1) Section 6A (widowers' pensions) is amended as follows.
+**6.**[^c-0f4e91008fefef8523766f48db7997d7] (1) Section 6A (widowers' pensions) is amended as follows.
 
 (2) In the heading, after “Widowers'” insert “and surviving civil partners'”.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f4e91008fefef8523766f48db7997d7]: Commencement: Art. 6 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-0f4e91008fefef8523766f48db7997d7]: Commencement: Art. 6 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

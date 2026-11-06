@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling[^key-f761dd2cb034617b5199bdd65de544da]
+## 9. Circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling[^c-f761dd2cb034617b5199bdd65de544da]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
   is, in the case of a company, a director or an employee, or, in the case of a trust, a trustee or a beneficiary;
 - (f) his liability under the agreement is to a trustee of a trust of which his or his partner’s child is a beneficiary;
 - (g) subject to paragraph (3), before the liability was created, he was a non-dependant of someone who resided, and continues to reside, in the dwelling;
-- (h) he previously owned, or his partner previously owned, the dwelling in respect of which the liability in respect of rent[^key-6fd999b3932f8f4a77db0884a61dafe7] arises and less than 5 years have elapsed since he or, as the case may be, his partner, ceased to own the property, save that this sub-paragraph shall not apply where he satisfies the appropriate authority that he or his partner could not have continued to occupy that dwelling without relinquishing ownership;
+- (h) he previously owned, or his partner previously owned, the dwelling in respect of which the liability in respect of rent[^c-6fd999b3932f8f4a77db0884a61dafe7] arises and less than 5 years have elapsed since he or, as the case may be, his partner, ceased to own the property, save that this sub-paragraph shall not apply where he satisfies the appropriate authority that he or his partner could not have continued to occupy that dwelling without relinquishing ownership;
 - (i) his occupation, or his partner’s occupation, of the dwelling is a condition of his or his partner’s employment by the landlord;
 - (j) he is a member of, and is wholly maintained (disregarding any liability he may have to make payments in respect of the dwelling he occupies as his home) by, a religious order;
 - (k) he is in residential accommodation;
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f761dd2cb034617b5199bdd65de544da]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/405/regulation/9) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-f761dd2cb034617b5199bdd65de544da]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/405/regulation/9) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-6fd999b3932f8f4a77db0884a61dafe7]: Textual amendment: Words in [reg. 9(1)(h)](https://www.legislation.gov.uk/nisr/2006/405/regulation/9/1/h) inserted (1.6.2007) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/266)](https://www.legislation.gov.uk/nisr/2007/266), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/2)
+[^c-6fd999b3932f8f4a77db0884a61dafe7]: Textual amendment: Words in [reg. 9(1)(h)](https://www.legislation.gov.uk/nisr/2006/405/regulation/9/1/h) inserted (1.6.2007) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/266)](https://www.legislation.gov.uk/nisr/2007/266), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2007/266/regulation/3/2)

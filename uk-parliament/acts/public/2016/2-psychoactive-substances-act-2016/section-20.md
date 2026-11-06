@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Premises orders[^key-f0e7a7d6285d85c5901abe5c6aaceb31]
+## 20. Premises orders[^c-f0e7a7d6285d85c5901abe5c6aaceb31]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e7a7d6285d85c5901abe5c6aaceb31]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/2/section/20) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-f0e7a7d6285d85c5901abe5c6aaceb31]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/2/section/20) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Information sharing[^key-f38e99f3e22764191ac678648826f246][^key-007304ce8e636391858bc464d925c87f]
+## 20. Information sharing[^c-f38e99f3e22764191ac678648826f246][^c-007304ce8e636391858bc464d925c87f]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f38e99f3e22764191ac678648826f246]: Commencement: S. 20 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-f38e99f3e22764191ac678648826f246]: Commencement: S. 20 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-007304ce8e636391858bc464d925c87f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2026/21/section/20) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)
+[^c-007304ce8e636391858bc464d925c87f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2026/21/section/20) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296A. Arrangements between NHS England and devolved authorities in respect of education and training[^key-a3969e73605e557bc59561fd7586cfdf]
+## 296A. Arrangements between NHS England and devolved authorities in respect of education and training[^c-a3969e73605e557bc59561fd7586cfdf]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3969e73605e557bc59561fd7586cfdf]: Textual amendment: [S. 296A](https://www.legislation.gov.uk/ukpga/2012/7/section/296A) inserted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/12/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-a3969e73605e557bc59561fd7586cfdf]: Textual amendment: [S. 296A](https://www.legislation.gov.uk/ukpga/2012/7/section/296A) inserted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/12/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

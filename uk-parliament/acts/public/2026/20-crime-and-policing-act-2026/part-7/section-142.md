@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Domestic abuse protection orders[^key-fcb032d0a407c8107752428ac5568559]
+## 142. Domestic abuse protection orders[^c-fcb032d0a407c8107752428ac5568559]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb032d0a407c8107752428ac5568559]: Commencement: S. 142 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fcb032d0a407c8107752428ac5568559]: Commencement: S. 142 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

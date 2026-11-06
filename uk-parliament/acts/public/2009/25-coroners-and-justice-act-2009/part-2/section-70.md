@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Genocide, crimes against humanity and war crimes[^key-c50c7806f21f676031dcbcf55798446e]
+## 70. Genocide, crimes against humanity and war crimes[^c-c50c7806f21f676031dcbcf55798446e]
 
 *Extent: E+W*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c50c7806f21f676031dcbcf55798446e]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2009/25/section/70) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)
+[^c-c50c7806f21f676031dcbcf55798446e]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2009/25/section/70) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)

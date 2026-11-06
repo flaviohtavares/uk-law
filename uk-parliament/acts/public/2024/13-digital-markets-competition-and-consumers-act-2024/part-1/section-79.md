@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Reports by skilled persons[^key-d2baa99e9c6f6f28c39eda56abeae33d][^key-b7b3287e5ea83ac13adde5f3c518e252]
+## 79. Reports by skilled persons[^c-d2baa99e9c6f6f28c39eda56abeae33d][^c-b7b3287e5ea83ac13adde5f3c518e252]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ to give a skilled person who has been appointed under this section all such assi
 
 ## Annotations
 
-[^key-d2baa99e9c6f6f28c39eda56abeae33d]: Commencement: S. 79 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d2baa99e9c6f6f28c39eda56abeae33d]: Commencement: S. 79 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b7b3287e5ea83ac13adde5f3c518e252]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2024/13/section/79) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-b7b3287e5ea83ac13adde5f3c518e252]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2024/13/section/79) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

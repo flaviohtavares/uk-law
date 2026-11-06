@@ -44,11 +44,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 These Regulations are made with the approval of the Department of Finance[^f00003] under sections 5 and 6 of the Agriculture Act (Northern Ireland) 1949.
 
-## 1. Citation and commencement[^key-3a5ce791e8c14e7e702312ae2eefb371]
+## 1. Citation and commencement[^c-3a5ce791e8c14e7e702312ae2eefb371]
 
 These Regulations may be cited as the Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 6th March 2024.
 
-## 2. Amendment to the Farming for the Generations Scheme Regulations (Northern Ireland) 2024[^key-050da06e7bc4fa5d268e0a0618927d78]
+## 2. Amendment to the Farming for the Generations Scheme Regulations (Northern Ireland) 2024[^c-050da06e7bc4fa5d268e0a0618927d78]
 
 (1) The Farming for the Generations Scheme Regulations (Northern Ireland) 2024[^f00004] are amended as follows.
 
@@ -92,8 +92,8 @@ These Regulations amend the Farming for the Generations Scheme Regulations (Nort
 
 [^f00003]: Footnote: The “Ministry of Finance” is now the “Department of Finance”; see section 1(4) of the Departments Act (NI) [2016 (c.5(N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-3a5ce791e8c14e7e702312ae2eefb371]: Commencement: Reg. 1 in operation at 6.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1)
+[^c-3a5ce791e8c14e7e702312ae2eefb371]: Commencement: Reg. 1 in operation at 6.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1)
 
-[^key-050da06e7bc4fa5d268e0a0618927d78]: Commencement: Reg. 2 in operation at 6.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1)
+[^c-050da06e7bc4fa5d268e0a0618927d78]: Commencement: Reg. 2 in operation at 6.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2024 No.16](https://www.legislation.gov.uk/nisr/2024/16)

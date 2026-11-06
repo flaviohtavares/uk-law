@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Power to deal with foul water and pollution.[^key-2bb7aee3c0ba824eab6d857f76b943d4]
+## 161. Power to deal with foul water and pollution.[^c-2bb7aee3c0ba824eab6d857f76b943d4]
 
 *Extent: E+W*
 
@@ -42,11 +42,11 @@ and the provisions of section 159 above shall, so far as applicable, have effect
 
 - (a) of intercepting, treating or disposing of any foul water arising or flowing upon that land; or
 - (b) of otherwise preventing the pollution—
-  - (i) of any waters, whether on the surface or underground, which belong to the Environment Agency[^c13221371] or the[^key-9f004f8e1293214cea28f1d9a2b23f48] NRBW or any water undertaker or from which the Environment Agency or the NRBW or any water undertaker is authorised to take water;
+  - (i) of any waters, whether on the surface or underground, which belong to the Environment Agency[^c13221371] or the[^c-9f004f8e1293214cea28f1d9a2b23f48] NRBW or any water undertaker or from which the Environment Agency or the NRBW or any water undertaker is authorised to take water;
   - (ii) without prejudice to sub-paragraph (i) above, of any reservoir which belongs to or is operated by the Environment Agency or the NRBW or any water undertaker or which the Environment Agency or the NRBW or any water undertaker is proposing to acquire or construct for the purpose of being so operated; or
   - (iii) of any underground strata from which the Environment Agency or the NRBW or any water undertaker is for the time being authorised to abstract water in pursuance of a licence under Chapter II of Part II of the [^c13221411]Water Resources Act 1991.
 
-(4) Where any water undertaker is proposing to carry out any such works as are mentioned in subsection (3) above and the proposed works will affect any watercourse, the undertaker shall consult the Environment Agency , where the proposed works will affect any watercourse in England, and the[^key-20ac566d00042bd2f94fc467da90075c] NRBW, where the proposed works will affect any watercourse in Wales, before carrying out the works.
+(4) Where any water undertaker is proposing to carry out any such works as are mentioned in subsection (3) above and the proposed works will affect any watercourse, the undertaker shall consult the Environment Agency , where the proposed works will affect any watercourse in England, and the[^c-20ac566d00042bd2f94fc467da90075c] NRBW, where the proposed works will affect any watercourse in Wales, before carrying out the works.
 
 (5) Without prejudice to the protective provisions of Chapter III of this Part, nothing in subsection (3) above shall authorise any water undertaker, without the consent of the navigation authority in question, to intercept or take any water which a navigation authority are authorised to take or use for the purposes of their undertaking.
 
@@ -65,12 +65,12 @@ and the provisions of section 159 above shall, so far as applicable, have effect
 
 ## Annotations
 
-[^key-2bb7aee3c0ba824eab6d857f76b943d4]: Modification: S. 161 applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/12/3) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-2bb7aee3c0ba824eab6d857f76b943d4]: Modification: S. 161 applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/12/3) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13221371]: Textual amendment: Words in s. 161(3)(4) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 117](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/117) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-9f004f8e1293214cea28f1d9a2b23f48]: Textual amendment: Words in s. 161(3)(b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 250(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/250/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9f004f8e1293214cea28f1d9a2b23f48]: Textual amendment: Words in s. 161(3)(b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 250(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/250/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13221411]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-20ac566d00042bd2f94fc467da90075c]: Textual amendment: Words in s. 161(4) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 250(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/250/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-20ac566d00042bd2f94fc467da90075c]: Textual amendment: Words in s. 161(4) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 250(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/250/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Requirements to sign register[^key-c666c7d9dd8f344a8eece1d795588b6b]
+## 63. Requirements to sign register[^c-c666c7d9dd8f344a8eece1d795588b6b]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c666c7d9dd8f344a8eece1d795588b6b]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-c666c7d9dd8f344a8eece1d795588b6b]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 474. Treatment of connected companies and partnerships for section 473[^key-d594b1319c04f2afcf20f124a8b2d471][^key-6fc5be4e37661785bd74e034decbc36f][^key-4e5eac5855cfaed5973f003d77485d79][^key-92496fbd8ecc6abc1a72947529f50b53][^key-cee79a6105ba4ae24ac4c716fa087b91][^key-4e5eac5855cfaed5973f003d77485d79]
+## 474. Treatment of connected companies and partnerships for section 473[^c-d594b1319c04f2afcf20f124a8b2d471][^c-6fc5be4e37661785bd74e034decbc36f][^c-4e5eac5855cfaed5973f003d77485d79][^c-92496fbd8ecc6abc1a72947529f50b53][^c-cee79a6105ba4ae24ac4c716fa087b91][^c-4e5eac5855cfaed5973f003d77485d79]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,12 +50,12 @@ summary: ''
 
 ## Annotations
 
-[^key-d594b1319c04f2afcf20f124a8b2d471]: Modification: S. 474 applied by 2010 c. 4, s. 937K(8) (as inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3))
+[^c-d594b1319c04f2afcf20f124a8b2d471]: Modification: S. 474 applied by 2010 c. 4, s. 937K(8) (as inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3))
 
-[^key-6fc5be4e37661785bd74e034decbc36f]: Modification: S. 474 applied by 2010 c. 4, s. 938E(11) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
+[^c-6fc5be4e37661785bd74e034decbc36f]: Modification: S. 474 applied by 2010 c. 4, s. 938E(11) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
 
-[^key-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-92496fbd8ecc6abc1a72947529f50b53]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357GD(11) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
+[^c-92496fbd8ecc6abc1a72947529f50b53]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357GD(11) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
 
-[^key-cee79a6105ba4ae24ac4c716fa087b91]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357BC(10) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
+[^c-cee79a6105ba4ae24ac4c716fa087b91]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357BC(10) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))

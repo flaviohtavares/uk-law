@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Discharge of water and works to watercourses[^key-1f0bf53a57b76495e229857da12542fb]
+## 15. Discharge of water and works to watercourses[^c-1f0bf53a57b76495e229857da12542fb]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f0bf53a57b76495e229857da12542fb]: Commencement: Art. 15 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-1f0bf53a57b76495e229857da12542fb]: Commencement: Art. 15 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
 [^f00035]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 35(8)(a) and 43(2) and paragraph 1 of Schedule 2 to the Competition and Service (Utilities) Act [1992 c. 43](https://www.legislation.gov.uk/ukpga/1992/43) and sections 36(2) and 99 of the Water Act [2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37) and section 32, and paragraph 16(1) of Schedule 3 to, the Flood and Water Management Act [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).

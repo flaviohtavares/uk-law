@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Entitlement to short-service annuity[^key-d574b2f160349f0f26f05fdb32bc062e]
+## 121. Entitlement to short-service annuity[^c-d574b2f160349f0f26f05fdb32bc062e]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d574b2f160349f0f26f05fdb32bc062e]: Commencement: [Reg. 121](https://www.legislation.gov.uk/ssi/2014/292/regulation/121) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-d574b2f160349f0f26f05fdb32bc062e]: Commencement: [Reg. 121](https://www.legislation.gov.uk/ssi/2014/292/regulation/121) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

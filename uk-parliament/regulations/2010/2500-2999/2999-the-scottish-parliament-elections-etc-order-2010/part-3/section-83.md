@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Computation of time for purposes of Part 3[^key-0db1156b924c26fc266e49628150f0b6]
+## 83. Computation of time for purposes of Part 3[^c-0db1156b924c26fc266e49628150f0b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0db1156b924c26fc266e49628150f0b6]: Commencement: Art. 83 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0db1156b924c26fc266e49628150f0b6]: Commencement: Art. 83 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00051]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60L. Corporate joint committees: area survey[^key-00a48e627a7f314a068f69879440d238]
+## 60L. Corporate joint committees: area survey[^c-00a48e627a7f314a068f69879440d238]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00a48e627a7f314a068f69879440d238]: Textual amendment: Ss. 60K-60N and cross-heading inserted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/4)
+[^c-00a48e627a7f314a068f69879440d238]: Textual amendment: Ss. 60K-60N and cross-heading inserted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/4)

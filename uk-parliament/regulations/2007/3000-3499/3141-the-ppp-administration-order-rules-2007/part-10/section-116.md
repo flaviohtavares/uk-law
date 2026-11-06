@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. “The court”; “the registrar”[^key-e299552241eec2650f4157dfd4ab168b]
+## 116. “The court”; “the registrar”[^c-e299552241eec2650f4157dfd4ab168b]
 
 *Extent: E+W*
 
@@ -27,10 +27,10 @@ summary: ''
 (3) In PPP administration proceedings, “**the registrar**” means—
 
 - (a) where the proceedings are in the District Registry of Birmingham, Bristol, Caernarfon, Cardiff, Leeds, Liverpool, Manchester, Mold, Newcastle-upon-Tyne or Preston, the District Judge; and
-- (b) in all other cases, an Insolvency and Companies Court Judge[^key-f9a6cd6213025fec866f1f9deb1e4795].
+- (b) in all other cases, an Insolvency and Companies Court Judge[^c-f9a6cd6213025fec866f1f9deb1e4795].
 
 ## Annotations
 
-[^key-e299552241eec2650f4157dfd4ab168b]: Commencement: [Rule 116](https://www.legislation.gov.uk/uksi/2007/3141/rule/116) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-e299552241eec2650f4157dfd4ab168b]: Commencement: [Rule 116](https://www.legislation.gov.uk/uksi/2007/3141/rule/116) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
-[^key-f9a6cd6213025fec866f1f9deb1e4795]: Textual amendment: Words in [rule 116(3)(b)](https://www.legislation.gov.uk/uksi/2007/3141/rule/116/3/b) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(e)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/e)
+[^c-f9a6cd6213025fec866f1f9deb1e4795]: Textual amendment: Words in [rule 116(3)(b)](https://www.legislation.gov.uk/uksi/2007/3141/rule/116/3/b) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(e)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/e)

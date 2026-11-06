@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157ZA. Explanatory statements in relation to certain regulations[^key-38677ae46d085f5f4898e15ea59fc9be]
+## 157ZA. Explanatory statements in relation to certain regulations[^c-38677ae46d085f5f4898e15ea59fc9be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38677ae46d085f5f4898e15ea59fc9be]: Textual amendment: [S. 157ZA](https://www.legislation.gov.uk/ukpga/2006/32/section/157ZA) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2022/357/regulation/4/6)
+[^c-38677ae46d085f5f4898e15ea59fc9be]: Textual amendment: [S. 157ZA](https://www.legislation.gov.uk/ukpga/2006/32/section/157ZA) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2022/357/regulation/4/6)

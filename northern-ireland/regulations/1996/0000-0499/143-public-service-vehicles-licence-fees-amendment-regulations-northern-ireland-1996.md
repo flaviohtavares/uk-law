@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 61(1), 66(1) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, and with the approval of the Department of Finance and Personnel[^f00002], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-16b82b32a8511a1757c1253c12105c41]
+## 1. Citation and commencement[^c-16b82b32a8511a1757c1253c12105c41]
 
 These Regulations may be cited as the Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
-## 2. Amendment of the Public Service Vehicles Regulations (Northern Ireland) 1985[^key-b3d158ef00dd13aaa963dabb60e5e96a]
+## 2. Amendment of the Public Service Vehicles Regulations (Northern Ireland) 1985[^c-b3d158ef00dd13aaa963dabb60e5e96a]
 
 For Schedule 7 to the Public Service Vehicles Regulations (Northern Ireland) 1985[^f00003] there shall be substituted—
 
@@ -76,7 +76,7 @@ For Schedule 7 to the Public Service Vehicles Regulations (Northern Ireland) 198
 
 .
 
-## 3. Revocation[^key-53ce89cc272a1b89f93a547cd1f484fb]
+## 3. Revocation[^c-53ce89cc272a1b89f93a547cd1f484fb]
 
 The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 1995[^f00004] are hereby revoked.
 
@@ -126,12 +126,12 @@ The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ire
 
 [^f00002]: Footnote: Formerly the Department of Finance. *See* S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 3
 
-[^key-16b82b32a8511a1757c1253c12105c41]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/143/regulation/1)
+[^c-16b82b32a8511a1757c1253c12105c41]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/143/regulation/1)
 
-[^key-b3d158ef00dd13aaa963dabb60e5e96a]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/143/regulation/1)
+[^c-b3d158ef00dd13aaa963dabb60e5e96a]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/143/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1985 No. 123](https://www.legislation.gov.uk/nisr/1985/123); relevant amending Regulations are [S.R. 1995 No. 159](https://www.legislation.gov.uk/nisr/1995/159) and [S.R. 1995 No. 446](https://www.legislation.gov.uk/nisr/1995/446)
 
-[^key-53ce89cc272a1b89f93a547cd1f484fb]: Commencement: Reg. 3 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/143/regulation/1)
+[^c-53ce89cc272a1b89f93a547cd1f484fb]: Commencement: Reg. 3 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/143/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1995 No. 159](https://www.legislation.gov.uk/nisr/1995/159)

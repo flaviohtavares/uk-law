@@ -40,7 +40,7 @@ Provided that this subsection shall not have effect in relation to a tenancy gra
 - (a) the tenancy contains provision for renewing the term or for extending it beyond six months from its beginning; or
 - (b) the tenant has been in occupation for a period which, together with any period during which any predecessor in the carrying on of the business carried on by the tenant was in occupation, exceeds twelve months.
 
-(4)[^key-9d6ac8f7795d7f3927253cd846667e92] This Part does not apply to a tenancy—
+(4)[^c-9d6ac8f7795d7f3927253cd846667e92] This Part does not apply to a tenancy—
 
 - (a) the primary purpose of which is to grant code rights within the meaning of Schedule 3A to the Communications Act 2003 (the electronic communications code), and
 - (b) which is granted after that Schedule comes into force.
@@ -63,4 +63,4 @@ Provided that this subsection shall not have effect in relation to a tenancy gra
 
 [^c318923]: Textual amendment: S. 43(3) substituted by virtue of [Law of Property Act 1969 (c. 59)](https://www.legislation.gov.uk/ukpga/1969/59), [s. 15](https://www.legislation.gov.uk/ukpga/1969/59/section/15), [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/59/schedule/1) in relation to tenancies granted after 1.1.1970
 
-[^key-9d6ac8f7795d7f3927253cd846667e92]: Textual amendment: [S. 43(4)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/43/4) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/4); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-9d6ac8f7795d7f3927253cd846667e92]: Textual amendment: [S. 43(4)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/43/4) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/4); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)

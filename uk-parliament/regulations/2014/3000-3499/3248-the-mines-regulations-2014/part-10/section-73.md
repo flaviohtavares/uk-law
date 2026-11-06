@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Transitional provision: Winsford mine[^key-705363fafe7b1a2f1b504ad2a354aceb]
+## 73. Transitional provision: Winsford mine[^c-705363fafe7b1a2f1b504ad2a354aceb]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-705363fafe7b1a2f1b504ad2a354aceb]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2014/3248/regulation/73) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-705363fafe7b1a2f1b504ad2a354aceb]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2014/3248/regulation/73) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 1963/815](https://www.legislation.gov.uk/uksi/1963/815), amended by [S.I. 1974/2223](https://www.legislation.gov.uk/uksi/1974/2223). These are special regulations within the meaning of section 141(5) of the 1954 Act and therefore not subject to parliamentary control (section 174 of that Act). They are not published by HMSO. A copy of the Regulations is available from the Health and Safety Executive, Redgrave Court, Merton Road, Bootle, L20 7HS.

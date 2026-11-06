@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (Wales) Regulations 2005 (revoked)[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (Wales) Regulations 2005 (revoked)[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 10 June 2005
 
-[^key-9ad5efe3feec8f4a03d78ce1431e1b81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ad5efe3feec8f4a03d78ce1431e1b81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 1. Title, commencement and application[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 2. Interpretation[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 3. Prohibition on import[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 4. Enforcement[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Destruction of illegal imports[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 6. Destruction of illegal imports[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-9ad5efe3feec8f4a03d78ce1431e1b81]
+## 7. Revocation[^c-9ad5efe3feec8f4a03d78ce1431e1b81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ad5efe3feec8f4a03d78ce1431e1b81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ad5efe3feec8f4a03d78ce1431e1b81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9ad5efe3feec8f4a03d78ce1431e1b81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ad5efe3feec8f4a03d78ce1431e1b81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ad5efe3feec8f4a03d78ce1431e1b81]: Textual amendment: Regulations revoked (25.1.2010) by [The Official Feed and Food Controls (Wales) Regulations 2009 (S.I. 2009/3376)](https://www.legislation.gov.uk/uksi/2009/3376), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3376/regulation/1), [52(a)](https://www.legislation.gov.uk/uksi/2009/3376/regulation/52/a)
+[^c-9ad5efe3feec8f4a03d78ce1431e1b81]: Textual amendment: Regulations revoked (25.1.2010) by [The Official Feed and Food Controls (Wales) Regulations 2009 (S.I. 2009/3376)](https://www.legislation.gov.uk/uksi/2009/3376), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3376/regulation/1), [52(a)](https://www.legislation.gov.uk/uksi/2009/3376/regulation/52/a)

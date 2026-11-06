@@ -42,21 +42,21 @@ Coming into force
 
 30th June 1995
 
-The Secretary of State, being a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to the conditions for granting and using authorisations for the prospection, exploration and production of hydrocarbons, hereby makes the following Regulations.[^key-9a5db356971c1d9e1d3b8ee6142a92cd][^key-1c7587eac9c64e89148effc19965cb00]
+The Secretary of State, being a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to the conditions for granting and using authorisations for the prospection, exploration and production of hydrocarbons, hereby makes the following Regulations.[^c-9a5db356971c1d9e1d3b8ee6142a92cd][^c-1c7587eac9c64e89148effc19965cb00]
 
-## 1. Commencement and citation[^key-0813c7cd6b3e28c25c43a8036c828773]
+## 1. Commencement and citation[^c-0813c7cd6b3e28c25c43a8036c828773]
 
 (1) These Regulations may be cited as the Hydrocarbons Licensing Directive Regulations and shall come into force on 30th June 1995.
 
 (2) These Regulations do not extend to Northern Ireland.
 
-## 1A. Application[^key-4bab6e773d39aa32c122c9ccd70ef527]
+## 1A. Application[^c-4bab6e773d39aa32c122c9ccd70ef527]
 
-(1) Except for regulations 2, 4 and 5(2), these Regulations do not apply in relation to a licence in respect of an area within the Scottish onshore area or the Welsh onshore area[^key-59421dea277644469c3e28b2158ecc31].
+(1) Except for regulations 2, 4 and 5(2), these Regulations do not apply in relation to a licence in respect of an area within the Scottish onshore area or the Welsh onshore area[^c-59421dea277644469c3e28b2158ecc31].
 
-(2) In this regulation, “**Scottish onshore area**” has the meaning given in section 8A(3) of the Petroleum Act 1998 and “Welsh onshore area” has the meaning given in section 8A(5) of that Act[^key-edb9205ae658fd12ccd787f157daadbc].
+(2) In this regulation, “**Scottish onshore area**” has the meaning given in section 8A(3) of the Petroleum Act 1998 and “Welsh onshore area” has the meaning given in section 8A(5) of that Act[^c-edb9205ae658fd12ccd787f157daadbc].
 
-## 2. Interpretation[^key-2999b37da32dd995f72744a93a4f886b]
+## 2. Interpretation[^c-2999b37da32dd995f72744a93a4f886b]
 
 In these Regulations—
 
@@ -66,9 +66,9 @@ In these Regulations—
 - “E.C. Treaty” means the Treaty establishing the European Community, signed at Rome on the 25th March 1957;
 - “entity” means any natural or legal person or any group of such persons;
 - “licence” means a licence granted following an application for a licence.
-- “the OGA” means the Oil and Gas Authority[^key-1799a2ffee94203886645ff07ca49a1d]
+- “the OGA” means the Oil and Gas Authority[^c-1799a2ffee94203886645ff07ca49a1d]
 
-## 3. Determination of applications[^key-38b962a656e81e980d8ea85d57508a8c]
+## 3. Determination of applications[^c-38b962a656e81e980d8ea85d57508a8c]
 
 (1) Subject to paragraphs (2) to (4) below, every application for a licence shall be determined on the basis of criteria concerning—
 
@@ -77,17 +77,17 @@ In these Regulations—
 - (c) in a case where tenders are invited, the price the applicant is prepared to pay in order to obtain the licence; and
 - (d) where the applicant holds, or has held a licence of any description under the Petroleum (Production) Act 1934, any lack of efficiency and responsibility displayed by the applicant in operations under that licence,
 
-and the OGA[^key-67c8882bebf478f8de5e5c3272faef95] may refuse an application for a licence.
+and the OGA[^c-67c8882bebf478f8de5e5c3272faef95] may refuse an application for a licence.
 
 (2) In a case where two or more applications for a licence have equal merit when assessed according to the criteria provided for in paragraph (1) above, other relevant criteria may be applied in order to determine which application should be granted.
 
 (3) Subject to paragraph (4) below, the OGA shall not apply any of the criteria in paragraphs (1) and (2) above in a discriminatory manner.
 
-(4) An application for a licence may be refused on grounds of national security [^key-739ddcba4c4d6aba4cc961873f6f70a3]....
+(4) An application for a licence may be refused on grounds of national security [^c-739ddcba4c4d6aba4cc961873f6f70a3]....
 
 (5) Where an application for a licence is refused, the reasons for the decision shall be notified to the applicant on request.
 
-## 4. Scope and application of terms and conditions[^key-d8fc92d404ddcfb58f2758da83638cd1]
+## 4. Scope and application of terms and conditions[^c-d8fc92d404ddcfb58f2758da83638cd1]
 
 (1) No licence shall be granted upon terms and conditions other than such terms and conditions as are justified exclusively for the purpose of—
 
@@ -109,20 +109,20 @@ and the OGA[^key-67c8882bebf478f8de5e5c3272faef95] may refuse an application for
 
 (3) The terms and conditions provided for in paragraphs (1) and (2) above shall be applied in a non-discriminatory manner.
 
-## 5. Advance notice of terms and conditions[^key-2e169b0c0a50dd82da3b1bbfd1e13353]
+## 5. Advance notice of terms and conditions[^c-2e169b0c0a50dd82da3b1bbfd1e13353]
 
 (1) Any notice which, in accordance with 1934 Act Regulations—
 
 - (a) invites applications for licences; and
-- (b) is published in the relevant Gazette and on a public web site[^key-2b3d868c7d868042b96cc9e83d6b01e9]
+- (b) is published in the relevant Gazette and on a public web site[^c-2b3d868c7d868042b96cc9e83d6b01e9]
 
 shall set out the criteria to be applied in determining those applications.
 
-(2) In any case where the OGA, the Scottish Ministers or the Welsh Ministers invite[^key-a3f5a3e44eb0eb6077a87ca7fe6688a0] applications for a licence in accordance with 1934 Act Regulations and it is intended that the licence should be granted upon terms or conditions which differ from or are additional to those prescribed in those Regulations for incorporation in licences of the relevant kind, a statement of such terms and conditions shall be made available to any interested person at any time on request.
+(2) In any case where the OGA, the Scottish Ministers or the Welsh Ministers invite[^c-a3f5a3e44eb0eb6077a87ca7fe6688a0] applications for a licence in accordance with 1934 Act Regulations and it is intended that the licence should be granted upon terms or conditions which differ from or are additional to those prescribed in those Regulations for incorporation in licences of the relevant kind, a statement of such terms and conditions shall be made available to any interested person at any time on request.
 
 (3) If any change to the terms and conditions included in the statement provided for in paragraph (1) above is decided upon after the statement is first made available and before the licence to which it relates is granted, the change shall be notified as soon as practicable to every person who has requested the statement.
 
-(4)[^key-52aee1d43f3b6ddfe5055070e4f29312] In this regulation—
+(4)[^c-52aee1d43f3b6ddfe5055070e4f29312] In this regulation—
 
 - (a) “landward area” has the meaning given in regulation 2 (interpretation) of the Petroleum Licensing (Applications) Regulations 2015;
 - (b) “relevant Gazette” means—
@@ -130,9 +130,9 @@ shall set out the criteria to be applied in determining those applications.
   - (ii) the Belfast Gazette, Edinburgh Gazette and London Gazette for any notice inviting applications for licences in a seaward area;
 - (c) “seaward area” has the meaning given in regulation 2 of the Petroleum Licensing (Applications) Regulations 2015.
 
-## 6. Duration of the licence[^key-758afad2c57a07f982850a692477fa31]
+## 6. Duration of the licence[^c-758afad2c57a07f982850a692477fa31]
 
-(1) Subject to paragraph (2) below, the OGA[^key-313f3fdfb32f50d5ed9e06f9336727d1] shall ensure that—
+(1) Subject to paragraph (2) below, the OGA[^c-313f3fdfb32f50d5ed9e06f9336727d1] shall ensure that—
 
 - (a) a licence only grants an entity exclusive rights for the period which is necessary for the proper performance of the activities authorised by the licence; and
 - (b) the duration of the licence does not exceed the period necessary to carry out the activities authorised by the licence.
@@ -143,9 +143,9 @@ shall set out the criteria to be applied in determining those applications.
 - (b) the licensee has performed its obligations in accordance with the terms and conditions of the licence; and
 - (c) the term of the licence has proved, or is likely to prove, insufficient for the licensee to complete the activities authorised by the licence.
 
-## 7. Information[^key-7f694ceb9e8c970b833fed7884a390c1]
+## 7. Information[^c-7f694ceb9e8c970b833fed7884a390c1]
 
-(1) The OGA[^key-00019a5069f6b8e74d1b78f9ed022064] may only require an entity which has been granted a licence to provide information on its intended or actual sources of procurement of supplies, works or services if that request is made exclusively with a view to the objectives set out in Article 36 of the E.C. Treaty.
+(1) The OGA[^c-00019a5069f6b8e74d1b78f9ed022064] may only require an entity which has been granted a licence to provide information on its intended or actual sources of procurement of supplies, works or services if that request is made exclusively with a view to the objectives set out in Article 36 of the E.C. Treaty.
 
 (2) The OGA may only request information from an entity which has been granted a licence to monitor the activities of that entity if that monitoring is justified by any of the considerations specified in paragraph (1) and (2) of regulation 4 above.
 
@@ -171,44 +171,44 @@ The Regulations require the Secretary of State to limit the term of any licence 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-9a5db356971c1d9e1d3b8ee6142a92cd]: Modification: Regulations modified (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/56/regulation/8)
+[^c-9a5db356971c1d9e1d3b8ee6142a92cd]: Modification: Regulations modified (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/56/regulation/8)
 
-[^key-1c7587eac9c64e89148effc19965cb00]: Modification: Regulations modified (temp.) (1.10.2018) by The Scotland Act 2016, [Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2018/980/regulation/13) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-1c7587eac9c64e89148effc19965cb00]: Modification: Regulations modified (temp.) (1.10.2018) by The Scotland Act 2016, [Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2018/980/regulation/13) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
-[^key-0813c7cd6b3e28c25c43a8036c828773]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-0813c7cd6b3e28c25c43a8036c828773]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
-[^key-4bab6e773d39aa32c122c9ccd70ef527]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1A) inserted (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/2/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2018/56/regulation/8), [11](https://www.legislation.gov.uk/uksi/2018/56/regulation/11))
+[^c-4bab6e773d39aa32c122c9ccd70ef527]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1A) inserted (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/56/regulation/2/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2018/56/regulation/8), [11](https://www.legislation.gov.uk/uksi/2018/56/regulation/11))
 
-[^key-59421dea277644469c3e28b2158ecc31]: Textual amendment: Words in [reg. 1A(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1A/1) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/980/regulation/2/2) (with [regs. 13](https://www.legislation.gov.uk/uksi/2018/980/regulation/13), [16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-59421dea277644469c3e28b2158ecc31]: Textual amendment: Words in [reg. 1A(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1A/1) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/980/regulation/2/2) (with [regs. 13](https://www.legislation.gov.uk/uksi/2018/980/regulation/13), [16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
-[^key-edb9205ae658fd12ccd787f157daadbc]: Textual amendment: Words in [reg. 1A(2)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1A/2) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/980/regulation/2/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2018/980/regulation/13), [16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-edb9205ae658fd12ccd787f157daadbc]: Textual amendment: Words in [reg. 1A(2)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1A/2) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/980/regulation/2/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2018/980/regulation/13), [16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
-[^key-2999b37da32dd995f72744a93a4f886b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/1434/regulation/2) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-2999b37da32dd995f72744a93a4f886b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/1434/regulation/2) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
 [^f00003]: Footnote: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36); section 1(2) was amended by section 19(1) of the Petroleum Act [1987 (c. 12)](https://www.legislation.gov.uk/ukpga/1987/12); section 6 was extended by section 1(3) of the Continental Shelf Act [1964 (c. 29)](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-1799a2ffee94203886645ff07ca49a1d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/1434/regulation/2) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/2)
+[^c-1799a2ffee94203886645ff07ca49a1d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/1434/regulation/2) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/2)
 
-[^key-38b962a656e81e980d8ea85d57508a8c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/1434/regulation/3) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-38b962a656e81e980d8ea85d57508a8c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/1434/regulation/3) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
-[^key-67c8882bebf478f8de5e5c3272faef95]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/1434/regulation/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/3)
+[^c-67c8882bebf478f8de5e5c3272faef95]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/1434/regulation/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/3)
 
-[^key-739ddcba4c4d6aba4cc961873f6f70a3]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/3/4) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-739ddcba4c4d6aba4cc961873f6f70a3]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/3/4) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8fc92d404ddcfb58f2758da83638cd1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/1434/regulation/4) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-d8fc92d404ddcfb58f2758da83638cd1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/1434/regulation/4) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
-[^key-2e169b0c0a50dd82da3b1bbfd1e13353]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-2e169b0c0a50dd82da3b1bbfd1e13353]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
-[^key-2b3d868c7d868042b96cc9e83d6b01e9]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5/1/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b3d868c7d868042b96cc9e83d6b01e9]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5/1/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3f5a3e44eb0eb6077a87ca7fe6688a0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5/2) substituted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/980/regulation/2/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-a3f5a3e44eb0eb6077a87ca7fe6688a0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5/2) substituted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/980/regulation/2/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
-[^key-52aee1d43f3b6ddfe5055070e4f29312]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5/4) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52aee1d43f3b6ddfe5055070e4f29312]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/5/4) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-758afad2c57a07f982850a692477fa31]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/1434/regulation/6) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-758afad2c57a07f982850a692477fa31]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/1434/regulation/6) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
-[^key-313f3fdfb32f50d5ed9e06f9336727d1]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/1995/1434/regulation/6) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/5)
+[^c-313f3fdfb32f50d5ed9e06f9336727d1]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/1995/1434/regulation/6) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/5)
 
-[^key-7f694ceb9e8c970b833fed7884a390c1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/1434/regulation/7) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
+[^c-7f694ceb9e8c970b833fed7884a390c1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/1434/regulation/7) in force at 30.6.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1434/regulation/1/1)
 
-[^key-00019a5069f6b8e74d1b78f9ed022064]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1995/1434/regulation/7) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/6)
+[^c-00019a5069f6b8e74d1b78f9ed022064]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1995/1434/regulation/7) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2016/912/regulation/5/6)

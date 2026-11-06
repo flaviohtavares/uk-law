@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Testing and inspection of lighting equipment and reflectors[^key-b4282a2f320d6241fd3a66ae5c5ffd3c]
+## 28. Testing and inspection of lighting equipment and reflectors[^c-b4282a2f320d6241fd3a66ae5c5ffd3c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of regulation 74 of the Construction and Use Regulations apply in
 
 ## Annotations
 
-[^key-b4282a2f320d6241fd3a66ae5c5ffd3c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1989/1796/regulation/28) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-b4282a2f320d6241fd3a66ae5c5ffd3c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1989/1796/regulation/28) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

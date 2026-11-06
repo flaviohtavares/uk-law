@@ -26,15 +26,15 @@ Section 74.
 
 #### Community rehabilitation orders
 
-**1.**[^key-506c1108c9f6927696106344448c3eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-506c1108c9f6927696106344448c3eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Community punishment orders
 
-**2.**[^key-506c1108c9f6927696106344448c3eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-506c1108c9f6927696106344448c3eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Community punishment and rehabilitation orders
 
-**3.**[^key-506c1108c9f6927696106344448c3eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-506c1108c9f6927696106344448c3eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Officers of local probation boards
 
@@ -46,7 +46,7 @@ Section 74.
 (2) The enactments are—
 
 - In the [^c10580131]Children and Young Persons Act 1969—
-- [^key-1e82f8d0919e574e78b4f64a60249cb4]...
+- [^c-1e82f8d0919e574e78b4f64a60249cb4]...
 - in section 34, subsections (2) and (3).
 
 - In the [^c10580151]Criminal Procedure (Insanity and Unfitness to Plead) Act 1991—
@@ -59,7 +59,7 @@ Section 74.
 - In the [^c10580171]Prisoners and Criminal Proceedings (Scotland) Act 1993—
 - sections 12(2)(a) and 15(4).
 - In the [^c10580181]Criminal Procedure (Scotland) Act 1995—
-- sections 209(3)(a) and 234(1)(a) *(Extent: S)* *(affected by repeal, see note)*[^key-7ca63c5f935058f1ef42c41fce92a769] section 209(3)(a) *(Extent: S)*.
+- sections 209(3)(a) and 234(1)(a) *(Extent: S)* *(affected by repeal, see note)*[^c-7ca63c5f935058f1ef42c41fce92a769] section 209(3)(a) *(Extent: S)*.
 - In the [^c10580191]Crime (Sentences) Act 1997—
 - section 31(2A)(a).
 - In the Crime and Disorder Act 1998—
@@ -69,11 +69,11 @@ Section 74.
 - in section 46, subsections (5)(a) and (b) and (11)(a) and (b),
 - in section 54, subsections (2) and (3),
 - in section 57, subsections (1) to (4),
-- [^key-cc12133e9b6f52e32b41b8d93009562d]...
-- [^key-cc12133e9b6f52e32b41b8d93009562d]...
-- [^key-f15e9a7bde010e1d50f2210ac3eb9a7e]...
-- [^key-ed755fae64dac3fac88d22f53163c2e2]...
-- [^key-b7d53c75c0cffc5845eb0042f9d3d952]...
+- [^c-cc12133e9b6f52e32b41b8d93009562d]...
+- [^c-cc12133e9b6f52e32b41b8d93009562d]...
+- [^c-f15e9a7bde010e1d50f2210ac3eb9a7e]...
+- [^c-ed755fae64dac3fac88d22f53163c2e2]...
+- [^c-b7d53c75c0cffc5845eb0042f9d3d952]...
 - in section 122, subsections (2) and (5),
 - sections 157(1)(a) and 162(2)(a) and (b),
 - in Schedule 2—
@@ -368,7 +368,7 @@ Section 74.
   > “**community rehabilitation order**” has the meaning given by section 43 of the Criminal Justice and Court Services Act 2000
 
   ,
-- (b)[^key-ecf540b1e8ee0e3b4149a38c571a3779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ecf540b1e8ee0e3b4149a38c571a3779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Children and Young Persons Act 1969 (c. 54)
 
@@ -376,7 +376,7 @@ Section 74.
 
 **Not yet in force.**
 
-**39.**[^key-e9356dbfe095b3c20604810058e12962] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-e9356dbfe095b3c20604810058e12962] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **40.** In section 34(3) (transitional modifications of Part I), for “probation committee” there is substituted “ local probation board ”.
 
@@ -445,16 +445,16 @@ Section 74.
 
 #### Juries Act 1974 (c. 23)
 
-**47.**[^key-34a6cb58bcfbb16a0ff46fa75337e78f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-34a6cb58bcfbb16a0ff46fa75337e78f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Rehabilitation of Offenders Act 1974 (c. 53)
 
 **48.** The Rehabilitation of Offenders Act 1974 is amended as follows.
 
-**49.** In section 5 (rehabilitation periods for particular sentences)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d]
+**49.** In section 5 (rehabilitation periods for particular sentences)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-b5b836b933fb1a3aaeaea92476021f4d] in subsection (4A), for “a person was placed on probation” there is substituted *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d] “ a probation order was made ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d], *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-b5b836b933fb1a3aaeaea92476021f4d] in subsection (4A)(b), for “probation order” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d] “ order in question ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-b5b836b933fb1a3aaeaea92476021f4d]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-b5b836b933fb1a3aaeaea92476021f4d] in subsection (4A), for “a person was placed on probation” there is substituted *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d] “ a probation order was made ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d], *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-b5b836b933fb1a3aaeaea92476021f4d] in subsection (4A)(b), for “probation order” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d] “ order in question ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-b5b836b933fb1a3aaeaea92476021f4d]
 
 **50.** In section 6(3) (the rehabilitation period applicable to a conviction)—
 
@@ -463,11 +463,11 @@ Section 74.
 
 #### Adoption Act 1976 (c. 36)
 
-**51.**[^key-35f9958350a8cb46dc88d184b64cd03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-35f9958350a8cb46dc88d184b64cd03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-35f9958350a8cb46dc88d184b64cd03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-35f9958350a8cb46dc88d184b64cd03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-35f9958350a8cb46dc88d184b64cd03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-35f9958350a8cb46dc88d184b64cd03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Law Act 1977 (c. 45)
 
@@ -548,7 +548,7 @@ Section 74.
 
 **Not yet in force.**
 
-**69.**[^key-b71fb6b5ba24dd13962451596796b5c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-b71fb6b5ba24dd13962451596796b5c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Imprisonment (Temporary Provisions) Act 1980 (c. 57)
 
@@ -582,7 +582,7 @@ Section 74.
 
 **Not yet in force.**
 
-**77.**[^key-4ac527318347886541d66f0b648f0aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**77.**[^c-4ac527318347886541d66f0b648f0aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -608,11 +608,11 @@ Section 74.
 
 #### Local Government Finance Act 1988 (c. 41)
 
-**84.**[^key-d42f20c8c40311f2fda0d991c8f9107d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-d42f20c8c40311f2fda0d991c8f9107d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**85.**[^key-d42f20c8c40311f2fda0d991c8f9107d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-d42f20c8c40311f2fda0d991c8f9107d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**86.**[^key-d42f20c8c40311f2fda0d991c8f9107d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-d42f20c8c40311f2fda0d991c8f9107d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Children Act 1989 (c. 41)
 
@@ -675,15 +675,15 @@ Section 74.
 
 #### Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25)
 
-**99.**[^key-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**99.**[^c-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**100.**[^key-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**100.**[^c-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**101.**[^key-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**102.**[^key-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**102.**[^c-14fac534515f494ce91f45fc358089b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 1991 (c. 53)
 
@@ -691,19 +691,19 @@ Section 74.
 
 **Not yet in force.**
 
-**104.**[^key-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**104.**[^c-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**105.**[^key-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**105.**[^c-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**106.**[^key-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**107.**[^key-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**107.**[^c-c2c9414439a2568d87ea1850f97bd994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -725,7 +725,7 @@ Section 74.
   - (i) in sub-paragraphs (2)(b) and (3)(c), for “probation committee” there is substituted “ local probation board ”,
   - (ii) in sub-paragraph (3)(a), for “a probation officer assigned” there is substituted “ an officer of a local probation board assigned ”,
   - (iii) in sub-paragraph (3)(d), for “probation centre” there is substituted “ community rehabilitation centre ”,
-- (b)[^key-9a781401196c5607f6bde164e01b7177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9a781401196c5607f6bde164e01b7177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -771,13 +771,13 @@ Section 74.
 
 **121.** In section 209(7) (supervised release orders), for “probation officer” there is substituted “ officer of a local probation board ”.
 
-**122.**[^key-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**122.**[^c-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**123.**[^key-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**123.**[^c-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**124.**[^key-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**124.**[^c-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**125.**[^key-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**125.**[^c-c47f49bb73b1755845bce9d4186ac36b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **126.** In section 307(1) (interpretation), at the appropriate place there is inserted—
 
@@ -851,7 +851,7 @@ Section 74.
 
 **132.** In Article 10(1A) (probation orders) as it has effect pursuant to paragraph 10(1) of Schedule 3 to the [^c10580561]Criminal Justice Act 1991 (reciprocal enforcement of certain orders), for “probation committee” there is substituted “ local probation board ”.
 
-**133.**[^key-70480bd25a02a95028bdef54a54287b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**133.**[^c-70480bd25a02a95028bdef54a54287b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sexual Offences (Protected Material) Act 1997 (c. 39)
 
@@ -895,11 +895,11 @@ Section 74.
 
 **Not yet in force.**
 
-**139.**[^key-7f80dc874fd107a98ce6a185a8b7d81b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**139.**[^c-7f80dc874fd107a98ce6a185a8b7d81b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**140.**[^key-eac487a7df761b339c639416405ab7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**140.**[^c-eac487a7df761b339c639416405ab7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **141.** In section 54(1) (general interpretation), at the appropriate place there is inserted—
 
@@ -962,30 +962,30 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 **154.** The Protection of Children Act 1999 is amended as follows.
 
-**155.**[^key-ce4c2f7d816c6c57b67680999c37027d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**155.**[^c-ce4c2f7d816c6c57b67680999c37027d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **156.** Section 6 (appeals against prohibition or restriction of employment) is omitted.
 
-**157.** In section 9(2) (the Tribunal)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+**157.** In section 9(2) (the Tribunal)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] in paragraph (a), after “4” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2] “ , 4A or 4B ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2], *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] for paragraph (b) there is substituted— *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] in paragraph (a), after “4” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2] “ , 4A or 4B ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2], *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] for paragraph (b) there is substituted— *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-  > - (b (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] on an appeal or determination under regulations made under section 218(6) of the 1988 Act; *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+  > - (b (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] on an appeal or determination under regulations made under section 218(6) of the 1988 Act; *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-  , *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] for the “or” before paragraph (d) there is substituted— *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+  , *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] for the “or” before paragraph (d) there is substituted— *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-  > - (ca (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] on a determination under section 473A or 473B of the Education Act 1996; *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+  > - (ca (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] on a determination under section 473A or 473B of the Education Act 1996; *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-  , *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
-- (d (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] after paragraph (d) there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+  , *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
+- (d (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] after paragraph (d) there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-  > or *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+  > or *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
   >
-  > - (e (Extent: E+W) (affected by repeal, see note))[^key-b7e66de9b1c26e663f1f6c9e029811e2] on a determination under section 32 or 33 of the Criminal Justice and Court Services Act 2000. *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7e66de9b1c26e663f1f6c9e029811e2]
+  > - (e (Extent: E+W) (affected by repeal, see note))[^c-b7e66de9b1c26e663f1f6c9e029811e2] on a determination under section 32 or 33 of the Criminal Justice and Court Services Act 2000. *(Extent: E+W)* *(affected by repeal, see note)*[^c-b7e66de9b1c26e663f1f6c9e029811e2]
 
-**158.**[^key-26e432e5be7b3e50383fed8de7b3bb1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**158.**[^c-26e432e5be7b3e50383fed8de7b3bb1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **159.** In section 14 (extent etc.)—
 
@@ -1000,79 +1000,79 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 *Extent: E+W*
 
-**161.**[^key-3b2f7b30dd08b83d43f04acfabf57364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**161.**[^c-3b2f7b30dd08b83d43f04acfabf57364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**162.**[^key-25066e5b3a0842dd09c82160c0a1beac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**162.**[^c-25066e5b3a0842dd09c82160c0a1beac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**163.**[^key-2010738fe8c9cd610fc7647953cdb534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**163.**[^c-2010738fe8c9cd610fc7647953cdb534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**164.**[^key-a6d425c5a6a87062a945115784898f3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**164.**[^c-a6d425c5a6a87062a945115784898f3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**165.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**165.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**166.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**Not yet in force.**
-
-**167.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**168.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**169.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**166.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**170.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**167.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**171.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**168.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**169.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**172.**[^key-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**170.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**171.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Not yet in force.**
+
+**172.**[^c-5cb2969ea12d7acbc1140a6f6c81c8d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
 **173.** In section 60(1)(b) (attendance centre orders), after “court” there is inserted “ has power or ”.
 
-**174.**[^key-e9dd2da3c1d0dce179507aae6c55b91c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**174.**[^c-e9dd2da3c1d0dce179507aae6c55b91c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**175.**[^key-b48bd45d8ff5dcf79f8ebfc2762cf51a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**Not yet in force.**
-
-**176.**[^key-e2693836086e5922ed2910b803149889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**175.**[^c-b48bd45d8ff5dcf79f8ebfc2762cf51a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**177.**[^key-e2693836086e5922ed2910b803149889][^key-4763a9e34f5df4c7d5c36972a4755094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**176.**[^c-e2693836086e5922ed2910b803149889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**178.**[^key-e2693836086e5922ed2910b803149889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**177.**[^c-e2693836086e5922ed2910b803149889][^c-4763a9e34f5df4c7d5c36972a4755094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**179.**[^key-81b9e1a26e21a0ef82497b4f5f0457fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**178.**[^c-e2693836086e5922ed2910b803149889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**180.**[^key-171b7b7f3c2d34610d483129ca603285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**179.**[^c-81b9e1a26e21a0ef82497b4f5f0457fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**181.**[^key-171b7b7f3c2d34610d483129ca603285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**180.**[^c-171b7b7f3c2d34610d483129ca603285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**182.**[^key-171b7b7f3c2d34610d483129ca603285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**181.**[^c-171b7b7f3c2d34610d483129ca603285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Not yet in force.**
+
+**182.**[^c-171b7b7f3c2d34610d483129ca603285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -1080,19 +1080,19 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 **Not yet in force.**
 
-**184.**[^key-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**184.**[^c-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**185.**[^key-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**185.**[^c-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**186.**[^key-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**186.**[^c-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**187.**[^key-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**187.**[^c-2d71776d853e9743a974f51998a8e9a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -1100,19 +1100,19 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 **Not yet in force.**
 
-**189.**[^key-bec0a3bed8b2519ff7380cd971e4f253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**189.**[^c-bec0a3bed8b2519ff7380cd971e4f253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**190.**[^key-6abe79da21a2b222ff108c3c13c01d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**190.**[^c-6abe79da21a2b222ff108c3c13c01d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**191.**[^key-8e5861074e5b7774e48519a418239a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**191.**[^c-8e5861074e5b7774e48519a418239a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**192.**[^key-e5110e5792578886e2ecb168c26694fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**192.**[^c-e5110e5792578886e2ecb168c26694fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -1134,12 +1134,12 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 **196.**[^c10580661] In section 160 (rules and orders)—
 
-- (a)[^key-eec66d2fd33d7f21b688b7b0a4b5428d] in subsection (2)(a), for the words from “40(1)” to “Schedule 2” there is substituted “ 36B(6), 40(1), 40C(1), 42(2E), 58A(8) or 162 or paragraph 3, 7, or 8 of Schedule 2 ”,
-- (b)[^key-15c2587ce25528e3f1b332fd967c3d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-eec66d2fd33d7f21b688b7b0a4b5428d] in subsection (2)(a), for the words from “40(1)” to “Schedule 2” there is substituted “ 36B(6), 40(1), 40C(1), 42(2E), 58A(8) or 162 or paragraph 3, 7, or 8 of Schedule 2 ”,
+- (b)[^c-15c2587ce25528e3f1b332fd967c3d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (3)(a)—
-  - (i)[^key-9df1634359117cf8fd10981bf3cf4570][^key-8c1eca871827578120997a73beb06492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-cde06f38eda327a45eba7eec5d9cb97f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-cde06f38eda327a45eba7eec5d9cb97f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-9df1634359117cf8fd10981bf3cf4570][^c-8c1eca871827578120997a73beb06492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-cde06f38eda327a45eba7eec5d9cb97f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-cde06f38eda327a45eba7eec5d9cb97f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) for subsection (5) there is substituted—
 
   > (5) The following may make different provision for different cases or classes of case—
@@ -1151,36 +1151,36 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 - (a) in the definition of “attendance centre order”, for “4(1)(c) or 5(1)(c)” there is substituted “ 4(1C)(c) or 5(1C)(c) ”,
 - (b) the definitions of “combination order”, “probation order” and “probation period” are omitted,
-- (c)[^key-a8a1a6f00604b5f0ec3c7858c099ed28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-d9d2aa3cf5f64335bcc248f18337b73c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a8a1a6f00604b5f0ec3c7858c099ed28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-d9d2aa3cf5f64335bcc248f18337b73c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) at the end of the definition of “custodial sentence” there is inserted “ and, in relation to sentences passed before the coming into force of section 61 of the Criminal Justice and Court Services Act 2000, includes a sentence of custody for life and a sentence of detention in a young offender institution ”,
-- (f)[^key-47bb551500b08358d385d7d19e3bafbb] at the appropriate places there are inserted—
-  - [^key-468b6e40fee9a04b9ae4ee0b535d48a2]...
+- (f)[^c-47bb551500b08358d385d7d19e3bafbb] at the appropriate places there are inserted—
+  - [^c-468b6e40fee9a04b9ae4ee0b535d48a2]...
   - “**community rehabilitation period**” means the period for which a person subject to a community rehabilitation or community punishment and rehabilitation order is placed under supervision by the order
   - “**drug abstinence order**” means an order under section 58A(1) above
-  - [^key-468b6e40fee9a04b9ae4ee0b535d48a2]...
+  - [^c-468b6e40fee9a04b9ae4ee0b535d48a2]...
   - “**local probation board**” means a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000
 - (g) in the definition of “responsible officer”—
-  - (i)[^key-fca3aadcd81da5905bd4b8462e89853d][^key-8999921e8b8b7b8581923223fbb59a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-081ee75345d8a8ee42ec40027a07d1e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-fca3aadcd81da5905bd4b8462e89853d][^c-8999921e8b8b7b8581923223fbb59a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-081ee75345d8a8ee42ec40027a07d1e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**198.**[^key-cbf5ae9081864f5dbbbceabdd2999128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W*
-
-**199.**[^key-cbf5ae9081864f5dbbbceabdd2999128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**200.**[^key-cbf5ae9081864f5dbbbceabdd2999128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**198.**[^c-cbf5ae9081864f5dbbbceabdd2999128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**201.**[^key-95c4e3a31e0f7fca7b60010cbd53da3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**199.**[^c-cbf5ae9081864f5dbbbceabdd2999128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**200.**[^c-cbf5ae9081864f5dbbbceabdd2999128] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W*
+
+**201.**[^c-95c4e3a31e0f7fca7b60010cbd53da3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **202.**[^c10580711] (1) Schedule 8 (breach, revocation and amendment of action plan orders and reparation orders) is amended as follows.
 
-(2)[^key-e1e56a29712b9ea47b395c47c645e8f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e1e56a29712b9ea47b395c47c645e8f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 6(7)—
 
@@ -1195,27 +1195,27 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 (4) Sub-paragraph (3) has effect in relation to sentences passed after the coming into force of section 60.
 
-(5)[^key-e48e0f866266e3abc52a98e6a3a56f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e48e0f866266e3abc52a98e6a3a56f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**204.**[^key-6a8d14b585e2551a13a312a7eaff0a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**204.**[^c-6a8d14b585e2551a13a312a7eaff0a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Child Support, Pensions and Social Security Act 2000 (c. 19)
 
-**205.**[^key-1e5edccb676dcffbaffada2aeee107c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**205.**[^c-1e5edccb676dcffbaffada2aeee107c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**206.**[^key-1e5edccb676dcffbaffada2aeee107c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**206.**[^c-1e5edccb676dcffbaffada2aeee107c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**207.**[^key-1e5edccb676dcffbaffada2aeee107c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**207.**[^c-1e5edccb676dcffbaffada2aeee107c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Learning and Skills Act 2000 (c. 21)
 
-**208.**[^key-ed07f44237a3263a7d6b04437a707e79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**208.**[^c-ed07f44237a3263a7d6b04437a707e79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**209.**[^key-ed07f44237a3263a7d6b04437a707e79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**209.**[^c-ed07f44237a3263a7d6b04437a707e79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**210.** [^key-ed07f44237a3263a7d6b04437a707e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**210.** [^c-ed07f44237a3263a7d6b04437a707e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Regulation of Investigatory Powers Act 2000 (c. 23)
 
@@ -1225,11 +1225,11 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 ## Annotations
 
-[^key-506c1108c9f6927696106344448c3eb7]: Textual amendment: Sch. 7 paras. 1-3 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-506c1108c9f6927696106344448c3eb7]: Textual amendment: Sch. 7 paras. 1-3 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
 [^c10580131]: Marginal citation: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54).
 
-[^key-1e82f8d0919e574e78b4f64a60249cb4]: Textual amendment: Words in Sch. 7 para. 4(2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 46(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/46/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-1e82f8d0919e574e78b4f64a60249cb4]: Textual amendment: Words in Sch. 7 para. 4(2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 46(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/46/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
 [^c10580151]: Marginal citation: [1991 c. 25](https://www.legislation.gov.uk/ukpga/1991/25).
 
@@ -1239,19 +1239,19 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 [^c10580181]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-7ca63c5f935058f1ef42c41fce92a769]: Textual amendment: Words in Sch. 7 para. 4(2) substituted (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 44(2)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/44/2); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-7ca63c5f935058f1ef42c41fce92a769]: Textual amendment: Words in Sch. 7 para. 4(2) substituted (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 44(2)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/44/2); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
 [^c10580191]: Marginal citation: [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43).
 
 [^c10580201]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-cc12133e9b6f52e32b41b8d93009562d]: Textual amendment: Sch. 7 para. 4(2) entries repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-cc12133e9b6f52e32b41b8d93009562d]: Textual amendment: Sch. 7 para. 4(2) entries repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-f15e9a7bde010e1d50f2210ac3eb9a7e]: Textual amendment: [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/4/2) entry omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 120(a)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/120/a); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-f15e9a7bde010e1d50f2210ac3eb9a7e]: Textual amendment: [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/4/2) entry omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 120(a)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/120/a); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-ed755fae64dac3fac88d22f53163c2e2]: Textual amendment: [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/4/2) entry omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 120(b)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/120/b); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-ed755fae64dac3fac88d22f53163c2e2]: Textual amendment: [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/4/2) entry omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 120(b)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/120/b); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-b7d53c75c0cffc5845eb0042f9d3d952]: Textual amendment: [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/4/2) entry omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 120(c)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/120/c); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-b7d53c75c0cffc5845eb0042f9d3d952]: Textual amendment: [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/4/2) entry omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 120(c)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/120/c); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
 [^c10580211]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
@@ -1275,9 +1275,9 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 [^c10580311]: Commencement: Sch.7 para.32 partly in force:Sch.7 para.32(3)(c)(i) and (4) comes into force at RA.see s.80(3)(d)
 
-[^key-ecf540b1e8ee0e3b4149a38c571a3779]: Textual amendment: Sch. 7 para. 37(b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-ecf540b1e8ee0e3b4149a38c571a3779]: Textual amendment: Sch. 7 para. 37(b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-e9356dbfe095b3c20604810058e12962]: Textual amendment: Sch. 7 para. 39 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 46(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/46/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-e9356dbfe095b3c20604810058e12962]: Textual amendment: Sch. 7 para. 39 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 46(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/46/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
 [^c10580341]: Marginal citation: [1993 c. 47](https://www.legislation.gov.uk/ukpga/1993/47).
 
@@ -1287,11 +1287,11 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 [^c10580371]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-34a6cb58bcfbb16a0ff46fa75337e78f]: Textual amendment: Sch. 7 para. 47 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
+[^c-34a6cb58bcfbb16a0ff46fa75337e78f]: Textual amendment: Sch. 7 para. 47 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
 
-[^key-b5b836b933fb1a3aaeaea92476021f4d]: Textual amendment: [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/49) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-b5b836b933fb1a3aaeaea92476021f4d]: Textual amendment: [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/49) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-35f9958350a8cb46dc88d184b64cd03c]: Textual amendment: Sch. 7 paras. 51-53 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-35f9958350a8cb46dc88d184b64cd03c]: Textual amendment: Sch. 7 paras. 51-53 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c10580421]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
@@ -1299,11 +1299,11 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 [^c10580441]: Marginal citation: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-b71fb6b5ba24dd13962451596796b5c8]: Textual amendment: Sch. 7 para. 69 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-b71fb6b5ba24dd13962451596796b5c8]: Textual amendment: Sch. 7 para. 69 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
 [^c10580451]: Marginal citation: [1993 c. 47](https://www.legislation.gov.uk/ukpga/1993/47).
 
-[^key-4ac527318347886541d66f0b648f0aa9]: Textual amendment: Sch. 7 para. 77 repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-4ac527318347886541d66f0b648f0aa9]: Textual amendment: Sch. 7 para. 77 repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c10580461]: Commencement: Sch. 7 para. 78 wholly in force at 2.7.2001; Sch. 7 para. 78 not in force at Royal Assent see s. 80; Sch. 7 para. 78 in force for specified purposes at 20.6.2001 and insofar as not already in force at 2.7.2001 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(m)(i)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/m/i)
 
@@ -1311,17 +1311,17 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 [^c10580491]: Textual amendment: Sch. 7 para. 83 repealed (31.3.2003 for W., 1.6.2003 for E.) by [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 215(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/215/2), [216](https://www.legislation.gov.uk/ukpga/2002/32/section/216), [217](https://www.legislation.gov.uk/ukpga/2002/32/section/217), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5 Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/article/5/schedule/part/II); [S.I. 2003/1115](https://www.legislation.gov.uk/uksi/2003/1115), [art. 3](https://www.legislation.gov.uk/uksi/2003/1115/article/3)
 
-[^key-d42f20c8c40311f2fda0d991c8f9107d]: Textual amendment: Sch. 7 paras. 84-86 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-d42f20c8c40311f2fda0d991c8f9107d]: Textual amendment: Sch. 7 paras. 84-86 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
-[^key-14fac534515f494ce91f45fc358089b1]: Textual amendment: Sch. 7 paras. 99-102 repealed (1.7.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/1705](https://www.legislation.gov.uk/uksi/2005/1705), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/1705/article/2/f)
+[^c-14fac534515f494ce91f45fc358089b1]: Textual amendment: Sch. 7 paras. 99-102 repealed (1.7.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/1705](https://www.legislation.gov.uk/uksi/2005/1705), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/1705/article/2/f)
 
-[^key-c2c9414439a2568d87ea1850f97bd994]: Textual amendment: Sch. 7 paras. 104-107 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-c2c9414439a2568d87ea1850f97bd994]: Textual amendment: Sch. 7 paras. 104-107 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
 [^c10580531]: Commencement: Sch. 7 para. 111 partly in force; Sch. para. 111 not in force at Royal Assent see s. 80; Sch. 7 para. 111(a) in force at 1.4.2001 by [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
-[^key-9a781401196c5607f6bde164e01b7177]: Textual amendment: Sch. 7 para. 111(b) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-9a781401196c5607f6bde164e01b7177]: Textual amendment: Sch. 7 para. 111(b) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-c47f49bb73b1755845bce9d4186ac36b]: Textual amendment: Sch. 7 paras. 122-125 repealed (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 44(3)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/44/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-c47f49bb73b1755845bce9d4186ac36b]: Textual amendment: Sch. 7 paras. 122-125 repealed (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 44(3)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/44/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
 [^c10580541]: Marginal citation: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14).
 
@@ -1329,96 +1329,96 @@ and the sentences referred to in paragraphs (a) and (b) are referred to in parag
 
 [^c10580561]: Marginal citation: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
 
-[^key-70480bd25a02a95028bdef54a54287b7]: Textual amendment: Sch. 7 para. 133 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-70480bd25a02a95028bdef54a54287b7]: Textual amendment: Sch. 7 para. 133 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
 [^c10580581]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-7f80dc874fd107a98ce6a185a8b7d81b]: Textual amendment: Sch. 7 para. 139 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-7f80dc874fd107a98ce6a185a8b7d81b]: Textual amendment: Sch. 7 para. 139 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-eac487a7df761b339c639416405ab7bc]: Textual amendment: Sch. 7 para. 140 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-eac487a7df761b339c639416405ab7bc]: Textual amendment: Sch. 7 para. 140 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
 [^c10580591]: Textual amendment: Words in Sch. 7 para. 151 repealed (1.10.2002) by [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30), [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(g)(iii)(i)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/g/iii/i)
 
-[^key-ce4c2f7d816c6c57b67680999c37027d]: Textual amendment: Sch. 7 para. 155 repealed (E.W.) (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), arts. 6-11)
+[^c-ce4c2f7d816c6c57b67680999c37027d]: Textual amendment: Sch. 7 para. 155 repealed (E.W.) (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), arts. 6-11)
 
-[^key-b7e66de9b1c26e663f1f6c9e029811e2]: Textual amendment: [Sch. 7 para. 157](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/157) repealed (E.W.) (12.10.2009 for specified purposes, 30.3.2010 for specified purposes, 17.6.2013 in so far as not already in force) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by S.I. 2010/1101, arts. 6-11); [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), [art. 5](https://www.legislation.gov.uk/uksi/2010/1101/article/5); [S.I. 2012/2231](https://www.legislation.gov.uk/uksi/2012/2231), [art. 4](https://www.legislation.gov.uk/uksi/2012/2231/article/4) (see S.I. 2013/1180, art. 2(b))
+[^c-b7e66de9b1c26e663f1f6c9e029811e2]: Textual amendment: [Sch. 7 para. 157](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/157) repealed (E.W.) (12.10.2009 for specified purposes, 30.3.2010 for specified purposes, 17.6.2013 in so far as not already in force) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by S.I. 2010/1101, arts. 6-11); [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), [art. 5](https://www.legislation.gov.uk/uksi/2010/1101/article/5); [S.I. 2012/2231](https://www.legislation.gov.uk/uksi/2012/2231), [art. 4](https://www.legislation.gov.uk/uksi/2012/2231/article/4) (see S.I. 2013/1180, art. 2(b))
 
-[^key-26e432e5be7b3e50383fed8de7b3bb1b]: Textual amendment: Sch. 7 para. 158 repealed (E.W.) (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), arts. 6-11)
+[^c-26e432e5be7b3e50383fed8de7b3bb1b]: Textual amendment: Sch. 7 para. 158 repealed (E.W.) (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), arts. 6-11)
 
-[^key-3b2f7b30dd08b83d43f04acfabf57364]: Textual amendment: Sch. 7 para. 161 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-3b2f7b30dd08b83d43f04acfabf57364]: Textual amendment: Sch. 7 para. 161 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-25066e5b3a0842dd09c82160c0a1beac]: Textual amendment: Sch. 7 para. 162 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-25066e5b3a0842dd09c82160c0a1beac]: Textual amendment: Sch. 7 para. 162 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-2010738fe8c9cd610fc7647953cdb534]: Textual amendment: Sch. 7 para. 163 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-2010738fe8c9cd610fc7647953cdb534]: Textual amendment: Sch. 7 para. 163 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-a6d425c5a6a87062a945115784898f3c]: Textual amendment: Sch. 7 para. 164 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-a6d425c5a6a87062a945115784898f3c]: Textual amendment: Sch. 7 para. 164 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-5cb2969ea12d7acbc1140a6f6c81c8d6]: Textual amendment: Sch. 7 paras. 165-172 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-5cb2969ea12d7acbc1140a6f6c81c8d6]: Textual amendment: Sch. 7 paras. 165-172 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-e9dd2da3c1d0dce179507aae6c55b91c]: Textual amendment: Sch. 7 para. 174 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-e9dd2da3c1d0dce179507aae6c55b91c]: Textual amendment: Sch. 7 para. 174 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-b48bd45d8ff5dcf79f8ebfc2762cf51a]: Textual amendment: Sch. 7 para. 175 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-b48bd45d8ff5dcf79f8ebfc2762cf51a]: Textual amendment: Sch. 7 para. 175 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-e2693836086e5922ed2910b803149889]: Textual amendment: Sch. 7 paras. 176-178 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e2693836086e5922ed2910b803149889]: Textual amendment: Sch. 7 paras. 176-178 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4763a9e34f5df4c7d5c36972a4755094]: Textual amendment: Sch. 7 para. 177 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-4763a9e34f5df4c7d5c36972a4755094]: Textual amendment: Sch. 7 para. 177 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-81b9e1a26e21a0ef82497b4f5f0457fd]: Textual amendment: Sch. 7 para. 179 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-81b9e1a26e21a0ef82497b4f5f0457fd]: Textual amendment: Sch. 7 para. 179 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-171b7b7f3c2d34610d483129ca603285]: Textual amendment: Sch. 7 paras. 180-182 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-171b7b7f3c2d34610d483129ca603285]: Textual amendment: Sch. 7 paras. 180-182 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2d71776d853e9743a974f51998a8e9a9]: Textual amendment: [Sch. 7 paras. 184-187](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/184) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2d71776d853e9743a974f51998a8e9a9]: Textual amendment: [Sch. 7 paras. 184-187](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/184) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bec0a3bed8b2519ff7380cd971e4f253]: Textual amendment: Sch. 7 para. 189 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-bec0a3bed8b2519ff7380cd971e4f253]: Textual amendment: Sch. 7 para. 189 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-6abe79da21a2b222ff108c3c13c01d58]: Textual amendment: Sch. 7 para. 190 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6abe79da21a2b222ff108c3c13c01d58]: Textual amendment: Sch. 7 para. 190 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8e5861074e5b7774e48519a418239a44]: Textual amendment: Sch. 7 para. 191 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8e5861074e5b7774e48519a418239a44]: Textual amendment: Sch. 7 para. 191 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e5110e5792578886e2ecb168c26694fd]: Textual amendment: Sch. 7 para. 192 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-e5110e5792578886e2ecb168c26694fd]: Textual amendment: Sch. 7 para. 192 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
 [^c10580661]: Commencement: Sch. 7 para. 196 partly in force; Sch. 7 para. 196 not in force at Royal Assent see s. 80; Sch. 7 para. 196 in force for specified purposes at 20.6.2001 and in force for other specified purposes at 2.7.2001 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(m)(vi)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/m/vi)
 
-[^key-eec66d2fd33d7f21b688b7b0a4b5428d]: Commencement: Sch. 7 para. 196(a)(b)(d) in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
+[^c-eec66d2fd33d7f21b688b7b0a4b5428d]: Commencement: Sch. 7 para. 196(a)(b)(d) in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
 
-[^key-15c2587ce25528e3f1b332fd967c3d5c]: Textual amendment: Sch. 7 para. 196(b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-15c2587ce25528e3f1b332fd967c3d5c]: Textual amendment: Sch. 7 para. 196(b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-9df1634359117cf8fd10981bf3cf4570]: Textual amendment: Sch. 7 para. 196(c)(i) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-9df1634359117cf8fd10981bf3cf4570]: Textual amendment: Sch. 7 para. 196(c)(i) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-8c1eca871827578120997a73beb06492]: Commencement: [^key-eec66d2fd33d7f21b688b7b0a4b5428d]Sch. 7 para. 196(c)(i)(ii) in force at 2.9.2004 in so far as not already in force by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
+[^c-8c1eca871827578120997a73beb06492]: Commencement: [^c-eec66d2fd33d7f21b688b7b0a4b5428d]Sch. 7 para. 196(c)(i)(ii) in force at 2.9.2004 in so far as not already in force by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
 
-[^key-cde06f38eda327a45eba7eec5d9cb97f]: Textual amendment: Sch. 7 para. 196(c)(ii)(iii) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-cde06f38eda327a45eba7eec5d9cb97f]: Textual amendment: Sch. 7 para. 196(c)(ii)(iii) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
 [^c10580671]: Commencement: Sch. 7 para. 197 partly in force; Sch. 7 para. 197 not in force at Royal Assent see s. 80; Sch. 7 para. 197(b) in force and Sch. 7 para. 197(f) in force for specified purposes at 1.4.2001 by [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/iii); Sch. 7 para. 197(f) in force for specified purposes at 20.6.2001 and 2.7.2001 and Sch. 7 para. 197(g)(ii) in force for specified purposes at 20.6.2001 and in force insofar as not already in force at 2.7.2001 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(m)(vii)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/m/vii)
 
-[^key-a8a1a6f00604b5f0ec3c7858c099ed28]: Textual amendment: Sch. 7 para. 197(c) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-a8a1a6f00604b5f0ec3c7858c099ed28]: Textual amendment: Sch. 7 para. 197(c) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-d9d2aa3cf5f64335bcc248f18337b73c]: Textual amendment: Sch. 7 para. 197(d) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-d9d2aa3cf5f64335bcc248f18337b73c]: Textual amendment: Sch. 7 para. 197(d) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-47bb551500b08358d385d7d19e3bafbb]: Commencement: Sch. 7 para. 197(f) in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
+[^c-47bb551500b08358d385d7d19e3bafbb]: Commencement: Sch. 7 para. 197(f) in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
 
-[^key-468b6e40fee9a04b9ae4ee0b535d48a2]: Textual amendment: Words in Sch. 7 para. 197(f) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-468b6e40fee9a04b9ae4ee0b535d48a2]: Textual amendment: Words in Sch. 7 para. 197(f) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-fca3aadcd81da5905bd4b8462e89853d]: Textual amendment: Sch. 7 para. 197(g)(i) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-fca3aadcd81da5905bd4b8462e89853d]: Textual amendment: Sch. 7 para. 197(g)(i) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-8999921e8b8b7b8581923223fbb59a9a]: Commencement: Sch. 7 para. 197(g)(i) in force at 2.9.2004 by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
+[^c-8999921e8b8b7b8581923223fbb59a9a]: Commencement: Sch. 7 para. 197(g)(i) in force at 2.9.2004 by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
 
-[^key-081ee75345d8a8ee42ec40027a07d1e7]: Textual amendment: Sch. 7 para. 197(g)(ii) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-081ee75345d8a8ee42ec40027a07d1e7]: Textual amendment: Sch. 7 para. 197(g)(ii) repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-cbf5ae9081864f5dbbbceabdd2999128]: Textual amendment: Sch. 7 paras. 198-200 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-cbf5ae9081864f5dbbbceabdd2999128]: Textual amendment: Sch. 7 paras. 198-200 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)(t)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4/t) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-95c4e3a31e0f7fca7b60010cbd53da3c]: Textual amendment: Sch. 7 para. 201 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-95c4e3a31e0f7fca7b60010cbd53da3c]: Textual amendment: Sch. 7 para. 201 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
 [^c10580711]: Commencement: Sch. 7 para. 202 partly in force; Sch. 7 para. 202 not in force at Royal Assent see s. 80; Sch. 7 para. 202(1)(2)(a) in force for specified purposes at 20.6.2001 and insofar as not already in force at 2.7.2001 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(m)(x)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/m/x)
 
-[^key-e1e56a29712b9ea47b395c47c645e8f1]: Textual amendment: Sch. 7 para. 202(2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-e1e56a29712b9ea47b395c47c645e8f1]: Textual amendment: Sch. 7 para. 202(2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
 [^c10580721]: Commencement: Sch. 7 para. 203 partly in force; Sch. 7 para. 203(3)(4) in force at Royal Assent see s. 80(3)(d); Sch. 7 para. 203(1) in force and Sch. 7 para. 203(2) in force for specified purposes at 1.4.2001 by [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(v)(vi)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/v/vi)
 
-[^key-e48e0f866266e3abc52a98e6a3a56f83]: Textual amendment: Sch. 7 para. 203(5) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e48e0f866266e3abc52a98e6a3a56f83]: Textual amendment: Sch. 7 para. 203(5) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6a8d14b585e2551a13a312a7eaff0a6f]: Textual amendment: Sch. 7 para. 204 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
+[^c-6a8d14b585e2551a13a312a7eaff0a6f]: Textual amendment: Sch. 7 para. 204 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1), [5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxix)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxix)
 
-[^key-1e5edccb676dcffbaffada2aeee107c6]: Textual amendment: [Sch. 7 paras. 205-207](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/205) repealed (22.3.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/3); [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/3/b) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/293/article/2/4))
+[^c-1e5edccb676dcffbaffada2aeee107c6]: Textual amendment: [Sch. 7 paras. 205-207](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/paragraph/205) repealed (22.3.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/3); [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/3/b) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/293/article/2/4))
 
-[^key-ed07f44237a3263a7d6b04437a707e79]: Textual amendment: Sch. 7 paras. 208-210 repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(iv)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/iv)
+[^c-ed07f44237a3263a7d6b04437a707e79]: Textual amendment: Sch. 7 paras. 208-210 repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(iv)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/iv)

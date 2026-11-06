@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Duty to provide pre-action information[^key-75aa85fdc3f31b7a37dc916dbb350cfe][^key-eab35494d149c98aaa4f4958a41dafcd]
+## 76. Duty to provide pre-action information[^c-75aa85fdc3f31b7a37dc916dbb350cfe][^c-eab35494d149c98aaa4f4958a41dafcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75aa85fdc3f31b7a37dc916dbb350cfe]: Commencement: S. 76 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-75aa85fdc3f31b7a37dc916dbb350cfe]: Commencement: S. 76 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-eab35494d149c98aaa4f4958a41dafcd]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/23/section/76) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-eab35494d149c98aaa4f4958a41dafcd]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/23/section/76) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

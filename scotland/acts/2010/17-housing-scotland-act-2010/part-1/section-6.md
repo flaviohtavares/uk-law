@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-64fb5d7c58d442f88552cf608f44acfe] The Regulator must, at such intervals and in such manner as it considers appropriate, consult the Accounts Commission for Scotland about the performance of the Regulator's general functions in relation to local authority landlords.
+(1)[^c-64fb5d7c58d442f88552cf608f44acfe] The Regulator must, at such intervals and in such manner as it considers appropriate, consult the Accounts Commission for Scotland about the performance of the Regulator's general functions in relation to local authority landlords.
 
-(2)[^key-0c3e2782ee2229c4e144c700a72d8437] The Regulator must publish a statement about how it intends to comply with subsection (1).
+(2)[^c-0c3e2782ee2229c4e144c700a72d8437] The Regulator must publish a statement about how it intends to comply with subsection (1).
 
 ## Annotations
 
-[^key-64fb5d7c58d442f88552cf608f44acfe]: Commencement: S. 6(1) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-64fb5d7c58d442f88552cf608f44acfe]: Commencement: S. 6(1) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-0c3e2782ee2229c4e144c700a72d8437]: Commencement: S. 6(2) in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-0c3e2782ee2229c4e144c700a72d8437]: Commencement: S. 6(2) in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

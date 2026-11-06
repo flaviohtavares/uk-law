@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. General objectives[^key-612dad5955ecceb688c51c91126fbec8]
+## 4. General objectives[^c-612dad5955ecceb688c51c91126fbec8]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The general objectives of the Welsh Ministers in exercising their functions unde
 
 ## Annotations
 
-[^key-612dad5955ecceb688c51c91126fbec8]: Commencement: S. 4 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/c)
+[^c-612dad5955ecceb688c51c91126fbec8]: Commencement: S. 4 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Registration of Northern Ireland long haul aircraft operators[^key-06d0dc75061cc51f210b1138f027cf9f]
+## 33A. Registration of Northern Ireland long haul aircraft operators[^c-06d0dc75061cc51f210b1138f027cf9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06d0dc75061cc51f210b1138f027cf9f]: Textual amendment: S. 33A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/11)
+[^c-06d0dc75061cc51f210b1138f027cf9f]: Textual amendment: S. 33A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/11)

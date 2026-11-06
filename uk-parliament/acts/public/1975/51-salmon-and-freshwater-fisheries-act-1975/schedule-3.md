@@ -119,7 +119,7 @@ Section 28.
 
 **38.**[^c10051711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.** (1) Without prejudice to section 4 of the Water Resources Act 1991[^c10051841], the appropriate agency—[^key-8ca4ea6877bc56e2b794594b2c2c6cf5]
+**39.** (1) Without prejudice to section 4 of the Water Resources Act 1991[^c10051841], the appropriate agency—[^c-8ca4ea6877bc56e2b794594b2c2c6cf5]
 
 - (a)[^c10051851] may take legal proceedings in respect of any offence against this Act, or for the enforcement of the provision of this Act or for the protection of any fisheries[^c10051861] from injury by pollution or otherwise;
 - (b)[^c10051871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -201,7 +201,7 @@ Section 28.
 
 [^c10051841]: Textual amendment: Words in Sch. 3 para. 39 substituted (E.W.)(1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 30(6)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/30/6)
 
-[^key-8ca4ea6877bc56e2b794594b2c2c6cf5]: Textual amendment: Words in [Sch. 3 para. 39(1)](https://www.legislation.gov.uk/ukpga/1975/51/schedule/3/paragraph/39/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 151](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/151) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8ca4ea6877bc56e2b794594b2c2c6cf5]: Textual amendment: Words in [Sch. 3 para. 39(1)](https://www.legislation.gov.uk/ukpga/1975/51/schedule/3/paragraph/39/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 151](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/151) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c10051851]: Modification: Sch. 3 para. 39(1)(*a*): by [Salmon Act 1986 (c. 62, SIF 52:2)](https://www.legislation.gov.uk/ukpga/1986/62), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/1986/62/section/32/6)(*b*), 43(4) it is provided that Sch. 3 para. 39(1)(*a*) is amended (E.W., and as mentioned in s. 43(4) (border rivers))
 

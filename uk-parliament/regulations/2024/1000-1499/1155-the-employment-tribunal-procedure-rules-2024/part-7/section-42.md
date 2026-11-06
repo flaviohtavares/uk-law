@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Written representations[^key-9fde3fe404a51279fdc0c1878125b78f]
+## 42. Written representations[^c-9fde3fe404a51279fdc0c1878125b78f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Tribunal may consider any written representations from a party, including a 
 
 ## Annotations
 
-[^key-9fde3fe404a51279fdc0c1878125b78f]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2024/1155/rule/42) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-9fde3fe404a51279fdc0c1878125b78f]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2024/1155/rule/42) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

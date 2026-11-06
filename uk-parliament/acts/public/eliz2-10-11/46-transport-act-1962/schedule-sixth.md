@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SIXTH SCHEDULE — Distribution of Commission’s Undertaking[^c4803291][^key-f0a3aa4497c0933ba94a3e7547c6f065]
+## SIXTH SCHEDULE — Distribution of Commission’s Undertaking[^c4803291][^c-f0a3aa4497c0933ba94a3e7547c6f065]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ Section 35.
 
 ### Distribution of property among the Boards
 
-**1.** (1) It shall be the duty of the Boards and Canal & River Trust[^key-c26d333fae0276c9b2a98bf549d2027e] so far as practicable to arrive at such written agreements, and to execute such other instruments, as will effect the demarcations of boundaries and divisions and apportionments of property, rights and liabilities required under the principal sections and as will—
+**1.** (1) It shall be the duty of the Boards and Canal & River Trust[^c-c26d333fae0276c9b2a98bf549d2027e] so far as practicable to arrive at such written agreements, and to execute such other instruments, as will effect the demarcations of boundaries and divisions and apportionments of property, rights and liabilities required under the principal sections and as will—
 
-- (a) afford to each Board as against the other Boards or, as the case may be, Canal & River Trust[^key-9ac346d8fb92185d1c00827e6536c991] such rights and safeguards as they may require for the proper discharge of their functions, and
-- (aa)[^key-8104ffa78f133aef17adb334218a7f60] afford to Canal & River Trust as against the Boards such rights and safeguards as they may require for the proper discharge of their functions, and
-- (b) make such clarifications and modifications of the division of the Commission’s undertaking effected by the principal sections as will best serve the proper discharge of the functions of the Boards or, as the case may be, Canal & River Trust[^key-e503d138a4b50885f17df348c0586f50],
+- (a) afford to each Board as against the other Boards or, as the case may be, Canal & River Trust[^c-9ac346d8fb92185d1c00827e6536c991] such rights and safeguards as they may require for the proper discharge of their functions, and
+- (aa)[^c-8104ffa78f133aef17adb334218a7f60] afford to Canal & River Trust as against the Boards such rights and safeguards as they may require for the proper discharge of their functions, and
+- (b) make such clarifications and modifications of the division of the Commission’s undertaking effected by the principal sections as will best serve the proper discharge of the functions of the Boards or, as the case may be, Canal & River Trust[^c-e503d138a4b50885f17df348c0586f50],
 
 and any such agreement shall provide so far as expedient—
 
@@ -110,11 +110,11 @@ and in this paragraph references to agreements to which the Commission were a pa
 **4.** (1) The Minister shall have power—
 
 - (a) for the purpose of removing any difficulties or uncertainties in the application of sections thirty-one and thirty-two of this Act, or of reconciling the operation of those sections, or
-- (b) for the purpose of facilitating the discharge of the Boards’ functions or Canal & River Trust’s functions[^key-dc0554009fe1e691f088030affc0bbde],
+- (b) for the purpose of facilitating the discharge of the Boards’ functions or Canal & River Trust’s functions[^c-dc0554009fe1e691f088030affc0bbde],
 
-by order to direct that notwithstanding those sections any property, rights or liabilities of the Commission, and any functions of the Commission under any local enactments, shall be transferred to such Board or Boards or, as the case may be, Canal & River Trust[^key-8d2b24e2cce504513646b7a464341a8d] as may be specified in the order.
+by order to direct that notwithstanding those sections any property, rights or liabilities of the Commission, and any functions of the Commission under any local enactments, shall be transferred to such Board or Boards or, as the case may be, Canal & River Trust[^c-8d2b24e2cce504513646b7a464341a8d] as may be specified in the order.
 
-(2) An order under this paragraph may adapt or modify any local enactment so far as appears to the Minister expedient for the purpose of regulating the manner in which functions of the Commission thereunder are distributed and may contain such other transitional and supplemental provisions as appear to the Minister expedient, including provisions which might be included in an agreement between the Boards, or between a Board and Canal & River Trust,[^key-78932ee0173c58f0dd028d50ada44751] under paragraph 1 of this Schedule and provisions having retrospective effect.
+(2) An order under this paragraph may adapt or modify any local enactment so far as appears to the Minister expedient for the purpose of regulating the manner in which functions of the Commission thereunder are distributed and may contain such other transitional and supplemental provisions as appear to the Minister expedient, including provisions which might be included in an agreement between the Boards, or between a Board and Canal & River Trust,[^c-78932ee0173c58f0dd028d50ada44751] under paragraph 1 of this Schedule and provisions having retrospective effect.
 
 (3) An order under this paragraph shall by virtue of this Act have effect to vest any property, rights or liabilities transferred by the order without further assurance.
 
@@ -157,15 +157,15 @@ Provided that the Minister may authorise a Board without compliance with paragra
 
 [^c4803291]: Modification: Sch. 6, except para. 2(3), amended (E.W.) by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1984/32/section/67/2), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/4/paragraph/6/2)(*d*)(5)
 
-[^key-f0a3aa4497c0933ba94a3e7547c6f065]: Modification: Sch. 6 modified in part (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/2/c)
+[^c-f0a3aa4497c0933ba94a3e7547c6f065]: Modification: Sch. 6 modified in part (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/2/c)
 
-[^key-c26d333fae0276c9b2a98bf549d2027e]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-c26d333fae0276c9b2a98bf549d2027e]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-9ac346d8fb92185d1c00827e6536c991]: Textual amendment: Words in [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1/a) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-9ac346d8fb92185d1c00827e6536c991]: Textual amendment: Words in [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1/a) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-8104ffa78f133aef17adb334218a7f60]: Textual amendment: [Sch. 6 para. 1(1)(aa)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1/aa) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(c)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/c) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-8104ffa78f133aef17adb334218a7f60]: Textual amendment: [Sch. 6 para. 1(1)(aa)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1/aa) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(c)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/c) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-e503d138a4b50885f17df348c0586f50]: Textual amendment: Words in [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1/b) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(d)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/d) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-e503d138a4b50885f17df348c0586f50]: Textual amendment: Words in [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/SIXTH/paragraph/1/1/b) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(2)(d)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/2/d) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4803301]: Textual amendment: Schs. 3–5, 6 para. 1(2)(4) Sch. 7 Pt. I paras. 3, 4 repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. VI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/VI)
 
@@ -179,8 +179,8 @@ Provided that the Minister may authorise a Board without compliance with paragra
 
 [^c4803431]: Marginal citation: [1947 c. 49](https://www.legislation.gov.uk/ukpga/1947/49).
 
-[^key-dc0554009fe1e691f088030affc0bbde]: Textual amendment: Words in Sch. 6 para. 4(1)(b) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/3/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-dc0554009fe1e691f088030affc0bbde]: Textual amendment: Words in Sch. 6 para. 4(1)(b) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/3/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-8d2b24e2cce504513646b7a464341a8d]: Textual amendment: Words in Sch. 6 para. 4(1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/3/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-8d2b24e2cce504513646b7a464341a8d]: Textual amendment: Words in Sch. 6 para. 4(1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/3/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-78932ee0173c58f0dd028d50ada44751]: Textual amendment: Words in Sch. 6 para. 4(2) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-78932ee0173c58f0dd028d50ada44751]: Textual amendment: Words in Sch. 6 para. 4(2) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/28/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

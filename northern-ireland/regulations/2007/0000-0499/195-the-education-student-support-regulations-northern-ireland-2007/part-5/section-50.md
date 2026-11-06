@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. General[^key-8ec740a58222506a53313d8e04ca3212]
+## 50. General[^c-8ec740a58222506a53313d8e04ca3212]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ec740a58222506a53313d8e04ca3212]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2007/195/regulation/50) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8ec740a58222506a53313d8e04ca3212]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2007/195/regulation/50) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Composition of committee when creditors paid in full[^key-bfa3616b53847103028df4e8c06b5598]
+## 133. Composition of committee when creditors paid in full[^c-bfa3616b53847103028df4e8c06b5598]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa3616b53847103028df4e8c06b5598]: Commencement: Rule 133 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-bfa3616b53847103028df4e8c06b5598]: Commencement: Rule 133 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4ceef1df2f63852308d3cf89ee416518] A Judicial Commissioner may carry out such investigations, inspections and audits as the Commissioner considers appropriate for the purposes of the Commissioner's functions.
+(1)[^c-4ceef1df2f63852308d3cf89ee416518] A Judicial Commissioner may carry out such investigations, inspections and audits as the Commissioner considers appropriate for the purposes of the Commissioner's functions.
 
-(2)[^key-4ceef1df2f63852308d3cf89ee416518] Every relevant person must disclose or provide to a Judicial Commissioner all such documents and information as the Commissioner may require for the purposes of the Commissioner's functions.
+(2)[^c-4ceef1df2f63852308d3cf89ee416518] Every relevant person must disclose or provide to a Judicial Commissioner all such documents and information as the Commissioner may require for the purposes of the Commissioner's functions.
 
-(3)[^key-4ceef1df2f63852308d3cf89ee416518] Every relevant person must provide a Judicial Commissioner with such assistance as the Commissioner may require in carrying out any investigation, inspection or audit for the purposes of the Commissioner's functions.
+(3)[^c-4ceef1df2f63852308d3cf89ee416518] Every relevant person must provide a Judicial Commissioner with such assistance as the Commissioner may require in carrying out any investigation, inspection or audit for the purposes of the Commissioner's functions.
 
-(4)[^key-4ceef1df2f63852308d3cf89ee416518] Assistance under subsection (3) may, in particular, include such access to apparatus, systems or other facilities or services as the Judicial Commissioner concerned may require in carrying out any investigation, inspection or audit for the purposes of the Commissioner's functions.
+(4)[^c-4ceef1df2f63852308d3cf89ee416518] Assistance under subsection (3) may, in particular, include such access to apparatus, systems or other facilities or services as the Judicial Commissioner concerned may require in carrying out any investigation, inspection or audit for the purposes of the Commissioner's functions.
 
-(5)[^key-4047d8eddf890d68933d4a64a97659a7] A public authority may report to the Investigatory Powers Commissioner any refusal by a telecommunications operator or postal operator to comply with any requirements imposed by virtue of this Act.
+(5)[^c-4047d8eddf890d68933d4a64a97659a7] A public authority may report to the Investigatory Powers Commissioner any refusal by a telecommunications operator or postal operator to comply with any requirements imposed by virtue of this Act.
 
-(6)[^key-25ca77e77740ff9168df3b6e1a56c12c] A public authority, telecommunications operator or postal operator must report to the Investigatory Powers Commissioner any relevant error (within the meaning given by section 231(9)) of which it is aware.
+(6)[^c-25ca77e77740ff9168df3b6e1a56c12c] A public authority, telecommunications operator or postal operator must report to the Investigatory Powers Commissioner any relevant error (within the meaning given by section 231(9)) of which it is aware.
 
-(7)[^key-4ceef1df2f63852308d3cf89ee416518] In this section “**relevant person**” means—
+(7)[^c-4ceef1df2f63852308d3cf89ee416518] In this section “**relevant person**” means—
 
 - (a) any person who holds, or has held, an office, rank or position with a public authority,
 - (b) any telecommunications operator or postal operator who is, has been or may become subject to a requirement imposed by virtue of this Act,
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4ceef1df2f63852308d3cf89ee416518]: Commencement: S. 235(1)-(4)(7) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/j)
+[^c-4ceef1df2f63852308d3cf89ee416518]: Commencement: S. 235(1)-(4)(7) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/j)
 
-[^key-4047d8eddf890d68933d4a64a97659a7]: Commencement: [S. 235(5)](https://www.legislation.gov.uk/ukpga/2016/25/section/235/5) in force at 1.9.2017 by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/g)
+[^c-4047d8eddf890d68933d4a64a97659a7]: Commencement: [S. 235(5)](https://www.legislation.gov.uk/ukpga/2016/25/section/235/5) in force at 1.9.2017 by [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/g)
 
-[^key-25ca77e77740ff9168df3b6e1a56c12c]: Commencement: [S. 235(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/235/6) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 11(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/11/d)
+[^c-25ca77e77740ff9168df3b6e1a56c12c]: Commencement: [S. 235(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/235/6) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 11(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/11/d)

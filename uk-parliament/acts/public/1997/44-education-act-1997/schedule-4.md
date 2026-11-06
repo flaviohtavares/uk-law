@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — The Qualifications and Curriculum Authority[^key-05e1200048774a97ae38866fe32051fe]
+## SCHEDULE 4 — The Qualifications and Curriculum Authority[^c-05e1200048774a97ae38866fe32051fe]
 
 *Extent: E+W+N.I.*
 
@@ -24,74 +24,74 @@ summary: ''
 
 Section 21.
 
-### Status[^key-05e1200048774a97ae38866fe32051fe]
+### Status[^c-05e1200048774a97ae38866fe32051fe]
 
-**1.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Powers[^key-05e1200048774a97ae38866fe32051fe]
+### Powers[^c-05e1200048774a97ae38866fe32051fe]
 
-**2.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chief officer[^key-05e1200048774a97ae38866fe32051fe]
+### Chief officer[^c-05e1200048774a97ae38866fe32051fe]
 
-**4.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chairman and chief officer: division of functions[^key-05e1200048774a97ae38866fe32051fe]
+### Chairman and chief officer: division of functions[^c-05e1200048774a97ae38866fe32051fe]
 
-**5.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenure of office[^key-05e1200048774a97ae38866fe32051fe]
+### Tenure of office[^c-05e1200048774a97ae38866fe32051fe]
 
-**6.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Payments to members[^key-05e1200048774a97ae38866fe32051fe]
+### Payments to members[^c-05e1200048774a97ae38866fe32051fe]
 
-**9.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-05e1200048774a97ae38866fe32051fe]
+### Staff[^c-05e1200048774a97ae38866fe32051fe]
 
-**10.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**11.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Finance[^key-05e1200048774a97ae38866fe32051fe]
+### Finance[^c-05e1200048774a97ae38866fe32051fe]
 
-**12.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Committees[^key-05e1200048774a97ae38866fe32051fe]
+### Committees[^c-05e1200048774a97ae38866fe32051fe]
 
-**13.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Delegation of functions[^key-05e1200048774a97ae38866fe32051fe]
+### Delegation of functions[^c-05e1200048774a97ae38866fe32051fe]
 
-**14.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-05e1200048774a97ae38866fe32051fe]
+### Proceedings[^c-05e1200048774a97ae38866fe32051fe]
 
-**15.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Accounts[^key-05e1200048774a97ae38866fe32051fe]
+### Accounts[^c-05e1200048774a97ae38866fe32051fe]
 
-**18.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Documents[^key-05e1200048774a97ae38866fe32051fe]
+### Documents[^c-05e1200048774a97ae38866fe32051fe]
 
-**19.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-05e1200048774a97ae38866fe32051fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05e1200048774a97ae38866fe32051fe]: Textual amendment: Sch. 4 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2009/22/schedule/12/paragraph/24), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-05e1200048774a97ae38866fe32051fe]: Textual amendment: Sch. 4 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2009/22/schedule/12/paragraph/24), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

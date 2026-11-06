@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-60b9e2e2ea777cffd06cdff6e5bc00f9] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), at the appropriate place in alphabetical order insert— “ The Scottish Land Commission ”.
+(1)[^c-60b9e2e2ea777cffd06cdff6e5bc00f9] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), at the appropriate place in alphabetical order insert— “ The Scottish Land Commission ”.
 
-(2)[^key-60b9e2e2ea777cffd06cdff6e5bc00f9] In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (Scottish public authorities: others), after paragraph 90 insert—
+(2)[^c-60b9e2e2ea777cffd06cdff6e5bc00f9] In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (Scottish public authorities: others), after paragraph 90 insert—
 
 > **90A.**
 >
@@ -30,13 +30,13 @@ summary: ''
 
 .
 
-(3)[^key-40ea0762949a0445c884ac0f2c051a12] In the Public Services Reform (Scotland) Act 2010—
+(3)[^c-40ea0762949a0445c884ac0f2c051a12] In the Public Services Reform (Scotland) Act 2010—
 
 - (a) in schedule 5 (improvement of public functions: listed public bodies), at the appropriate place in alphabetical order insert— “ Scottish Land Commission ”,
 - (b) in schedule 8 (information on exercise of public functions: listed public bodies), at the appropriate place in alphabetical order insert— “ Scottish Land Commission ”.
 
 ## Annotations
 
-[^key-60b9e2e2ea777cffd06cdff6e5bc00f9]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/asp/2016/18/section/21/1)[(2)](https://www.legislation.gov.uk/asp/2016/18/section/21/2) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+[^c-60b9e2e2ea777cffd06cdff6e5bc00f9]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/asp/2016/18/section/21/1)[(2)](https://www.legislation.gov.uk/asp/2016/18/section/21/2) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
 
-[^key-40ea0762949a0445c884ac0f2c051a12]: Commencement: [S. 21(3)](https://www.legislation.gov.uk/asp/2016/18/section/21/3) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-40ea0762949a0445c884ac0f2c051a12]: Commencement: [S. 21(3)](https://www.legislation.gov.uk/asp/2016/18/section/21/3) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

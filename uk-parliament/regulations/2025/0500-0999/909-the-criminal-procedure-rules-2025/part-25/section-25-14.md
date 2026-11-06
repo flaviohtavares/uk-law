@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.14. Directions to the jury and taking the verdict[^key-5ed3e2ff9453397e3a4d94a105f8a328]
+## 25.14. Directions to the jury and taking the verdict[^c-5ed3e2ff9453397e3a4d94a105f8a328]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5ed3e2ff9453397e3a4d94a105f8a328]: Commencement: [Rule 25.14](https://www.legislation.gov.uk/uksi/2025/909/rule/25.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5ed3e2ff9453397e3a4d94a105f8a328]: Commencement: [Rule 25.14](https://www.legislation.gov.uk/uksi/2025/909/rule/25.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00612]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23).
 

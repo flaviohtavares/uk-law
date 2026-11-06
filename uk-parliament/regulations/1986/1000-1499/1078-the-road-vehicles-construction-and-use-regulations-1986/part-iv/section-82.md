@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**82.**[^key-41afa66f72d9bef0d4321f3207da7c37] (1) No load shall be carried on a vehicle so that the overall width of the vehicle together with the width of any lateral projection or projections of its load exceeds 4.3m.
+**82.**[^c-41afa66f72d9bef0d4321f3207da7c37] (1) No load shall be carried on a vehicle so that the overall width of the vehicle together with the width of any lateral projection or projections of its load exceeds 4.3m.
 
 (2) Subject to the following provisions of this regulation, no load shall be carried on a vehicle so that—
 
@@ -29,12 +29,12 @@ Provided that this paragraph does not apply to the carriage of—
 
 - (i) loose agricultural produce not baled or crated; or
 - (ii) an indivisible load if—
-  - (A) it is not reasonably practicable to comply with this paragraph and the conditions specified in paragraphs 1 and 5[^key-429ea2c09916f83f598fbfa80ae939c1] of Schedule 12 are complied with; and
+  - (A) it is not reasonably practicable to comply with this paragraph and the conditions specified in paragraphs 1 and 5[^c-429ea2c09916f83f598fbfa80ae939c1] of Schedule 12 are complied with; and
   - (B) where the overall width of the vehicle together with the width of any lateral projection or projections of its load exceeds 3.5m, the conditions specified in paragraph 2 of Schedule 12 are complied with.
 
 (3) Where a load is carried so that its weight rests on a vehicle or vehicles, the length specified in paragraph (5) shall not exceed 27.4m.
 
-(4)[^key-b5fd056b7bd1c8d2188e343f6d25a19c] A load shall not be carried so that its weight is borne by a vehicle or vehicles if either—
+(4)[^c-b5fd056b7bd1c8d2188e343f6d25a19c] A load shall not be carried so that its weight is borne by a vehicle or vehicles if either—
 
 - (a) the length specified in paragraph (5) exceeds 18.65m; or
 - (b) the load is borne by a trailer or trailers and the length specified in paragraph (6) exceeds 25.9m,
@@ -43,9 +43,9 @@ unless the conditions specified in paragraphs 1 and 2 of Part I of Schedule 12 a
 
 (5) The length referred to in paragraphs (3) and (4)*(a)* is—
 
-- (a) where the weight of the load is borne by[^key-dde456a85ece01cb96aa97c59bd9a15f] a single vehicle, the overall length of the vehicle together with the length of any forward and rearward projection of the load;
+- (a) where the weight of the load is borne by[^c-dde456a85ece01cb96aa97c59bd9a15f] a single vehicle, the overall length of the vehicle together with the length of any forward and rearward projection of the load;
 - (b) where the weight of the load is borne by a motor vehicle and one trailer, whether or not forming an articulated vehicle, the overall length of the trailer together with the length of any projection of the load in front of the foremost point of the trailer and of any rearward projection of the load; and
-- (c) in any other case, the overall length of all the vehicles which bear the weight of the load[^key-656459875ff5230206150c09fc9af51d], together with the length of any distance between them and of any forward or rearward projection of the load.
+- (c) in any other case, the overall length of all the vehicles which bear the weight of the load[^c-656459875ff5230206150c09fc9af51d], together with the length of any distance between them and of any forward or rearward projection of the load.
 
 (6) The length referred to in paragraph (4)*(b)* is the overall length of the combination of vehicles, together with the length of any forward or rearward projection of the load.
 
@@ -89,15 +89,15 @@ TABLE
 
 (10) In the case of a vehicle being used—
 
-- (a) for fire brigade *(Extent: S)* *(affected by repeal, see note)*[^key-8555d1e1b4c27e373c28cbcc31b722fc] Scottish Fire and Rescue Service[^key-0e3c02b6d71228f176b7143cf535fc2a] or, in England or Wales, fire and rescue authority *(Extent: W)*[^key-4a247f6ed0bae18a75208c17bbc6c16a] or, in England, fire and rescue authority *(Extent: E)*[^key-6c33badaf69c039c557b527e4632aa0f][^key-1f45772a51210fe88609628ca7e9a9fa]... or police purposes or for defence purposes (including civil defence purposes);
-- (aa)[^key-707ce1f121775acce00849a62a80efc1] for ambulance purposes or for the purpose of providing a response to an emergency at the request of an NHS ambulance service; or
+- (a) for fire brigade *(Extent: S)* *(affected by repeal, see note)*[^c-8555d1e1b4c27e373c28cbcc31b722fc] Scottish Fire and Rescue Service[^c-0e3c02b6d71228f176b7143cf535fc2a] or, in England or Wales, fire and rescue authority *(Extent: W)*[^c-4a247f6ed0bae18a75208c17bbc6c16a] or, in England, fire and rescue authority *(Extent: E)*[^c-6c33badaf69c039c557b527e4632aa0f][^c-1f45772a51210fe88609628ca7e9a9fa]... or police purposes or for defence purposes (including civil defence purposes);
+- (aa)[^c-707ce1f121775acce00849a62a80efc1] for ambulance purposes or for the purpose of providing a response to an emergency at the request of an NHS ambulance service; or
 - (b) in connection with the removal of any obstruction to traffic,
 
 if compliance with any provision of this regulation would hinder or be likely to hinder the use of the vehicle for the purpose for which it is being used, that provision does not apply to that vehicle while it is being so used.
 
 (11) No person shall use, or cause or permit to be used, on a road an agricultural, horticultural or forestry implement rigidly, but not permanently, mounted on a wheeled agricultural motor vehicle, agricultural trailer, or agricultural trailed appliance, whether or not part of its weight is supported by one or more of its own wheels if—
 
-- (a) the overall width of the vehicle together with the lateral projection of the implement exceeds 2.55[^key-110c51bc25514fa30fd22afc0dfaa087]m; or
+- (a) the overall width of the vehicle together with the lateral projection of the implement exceeds 2.55[^c-110c51bc25514fa30fd22afc0dfaa087]m; or
 - (b) the implement projects more than 1m forwards or rearwards of the vehicle,
 
 so however, that this restriction shall not apply in a case where—
@@ -107,26 +107,26 @@ so however, that this restriction shall not apply in a case where—
 
 ## Annotations
 
-[^key-41afa66f72d9bef0d4321f3207da7c37]: Commencement: Reg. 82 in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-41afa66f72d9bef0d4321f3207da7c37]: Commencement: Reg. 82 in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-429ea2c09916f83f598fbfa80ae939c1]: Textual amendment: Words in reg. 82(2)(b)(ii)[(A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/A) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/2)
+[^c-429ea2c09916f83f598fbfa80ae939c1]: Textual amendment: Words in reg. 82(2)(b)(ii)[(A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/A) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/2)
 
-[^key-b5fd056b7bd1c8d2188e343f6d25a19c]: Textual amendment: Reg. 82(4) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/3)
+[^c-b5fd056b7bd1c8d2188e343f6d25a19c]: Textual amendment: Reg. 82(4) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/3)
 
-[^key-dde456a85ece01cb96aa97c59bd9a15f]: Textual amendment: Words in reg. 82(5)(a)[(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/5/b) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/4)
+[^c-dde456a85ece01cb96aa97c59bd9a15f]: Textual amendment: Words in reg. 82(5)(a)[(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/5/b) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/4)
 
-[^key-656459875ff5230206150c09fc9af51d]: Textual amendment: Words in reg. 82(5)(c) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/4)
+[^c-656459875ff5230206150c09fc9af51d]: Textual amendment: Words in reg. 82(5)(c) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/1991/2125/regulation/8/4)
 
-[^key-8555d1e1b4c27e373c28cbcc31b722fc]: Textual amendment: Words in [reg. 82(10)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/10/a) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. para. 5(4)(c)](https://www.legislation.gov.uk/ssi/2005/344/schedule/paragraph/5/4/c); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
+[^c-8555d1e1b4c27e373c28cbcc31b722fc]: Textual amendment: Words in [reg. 82(10)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/10/a) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. para. 5(4)(c)](https://www.legislation.gov.uk/ssi/2005/344/schedule/paragraph/5/4/c); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-0e3c02b6d71228f176b7143cf535fc2a]: Textual amendment: Words in reg. 82(10)(a) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 4(5)(c)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/4/5/c)
+[^c-0e3c02b6d71228f176b7143cf535fc2a]: Textual amendment: Words in reg. 82(10)(a) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 4(5)(c)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/4/5/c)
 
-[^key-4a247f6ed0bae18a75208c17bbc6c16a]: Textual amendment: Words in reg. 82(10)(a) inserted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [11(4)(c)](https://www.legislation.gov.uk/wsi/2005/2929/article/11/4/c)
+[^c-4a247f6ed0bae18a75208c17bbc6c16a]: Textual amendment: Words in reg. 82(10)(a) inserted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [11(4)(c)](https://www.legislation.gov.uk/wsi/2005/2929/article/11/4/c)
 
-[^key-6c33badaf69c039c557b527e4632aa0f]: Textual amendment: Words in reg. 82(10)(a) inserted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [10(4)(c)](https://www.legislation.gov.uk/uksi/2004/3168/article/10/4/c)
+[^c-6c33badaf69c039c557b527e4632aa0f]: Textual amendment: Words in reg. 82(10)(a) inserted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [10(4)(c)](https://www.legislation.gov.uk/uksi/2004/3168/article/10/4/c)
 
-[^key-1f45772a51210fe88609628ca7e9a9fa]: Textual amendment: Word in [reg. 82(10)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/10/a) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/7/2)
+[^c-1f45772a51210fe88609628ca7e9a9fa]: Textual amendment: Word in [reg. 82(10)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/10/a) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/7/2)
 
-[^key-707ce1f121775acce00849a62a80efc1]: Textual amendment: [Reg. 82(10)(aa)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/10/aa) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 7(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/7/3)
+[^c-707ce1f121775acce00849a62a80efc1]: Textual amendment: [Reg. 82(10)(aa)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/82/10/aa) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 7(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/7/3)
 
-[^key-110c51bc25514fa30fd22afc0dfaa087]: Textual amendment: Word in reg. 82(11)(a) substituted (1.1.1996) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1995 (S.I. 1995/3051)](https://www.legislation.gov.uk/uksi/1995/3051), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3051/regulation/1), [5](https://www.legislation.gov.uk/uksi/1995/3051/regulation/5)
+[^c-110c51bc25514fa30fd22afc0dfaa087]: Textual amendment: Word in reg. 82(11)(a) substituted (1.1.1996) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1995 (S.I. 1995/3051)](https://www.legislation.gov.uk/uksi/1995/3051), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3051/regulation/1), [5](https://www.legislation.gov.uk/uksi/1995/3051/regulation/5)

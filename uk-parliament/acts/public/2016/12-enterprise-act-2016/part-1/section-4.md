@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The SBC complaints scheme[^c22567781][^key-f42408c533d80e16263a540b300f8ac0]
+## 4. The SBC complaints scheme[^c22567781][^c-f42408c533d80e16263a540b300f8ac0]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
   - (ii) an act or omission in accordance with a term of a contract entered into before that date, where that term has not been varied on or after that date, or
 - (f) it is of a description specified by regulations made by the Secretary of State.
 
-(6)[^key-19e898e9ab891e0827b4e4a637bcb34d] For the purposes of paragraph (e) of subsection (5), “**the appointed start date**” means the date appointed by the Secretary of State by regulations.
+(6)[^c-19e898e9ab891e0827b4e4a637bcb34d] For the purposes of paragraph (e) of subsection (5), “**the appointed start date**” means the date appointed by the Secretary of State by regulations.
 
 (7) Regulations under this section may—
 
@@ -70,6 +70,6 @@ summary: ''
 
 [^c22567781]: Commencement: S. 4 in force at Royal Assent for specified purposes, see s. 44(1)
 
-[^key-f42408c533d80e16263a540b300f8ac0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/12/section/4) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-f42408c533d80e16263a540b300f8ac0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/12/section/4) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
 
-[^key-19e898e9ab891e0827b4e4a637bcb34d]: Modification: S. 4(6): appointed day for the purposes of s. 4(5)(e) (6.4.2017) by [The Enterprise Act 2016 (Commencement No. 4 and Appointed Start Date) Regulations 2017 (S.I. 2017/473)](https://www.legislation.gov.uk/uksi/2017/473), [reg. 4](https://www.legislation.gov.uk/uksi/2017/473/regulation/4)
+[^c-19e898e9ab891e0827b4e4a637bcb34d]: Modification: S. 4(6): appointed day for the purposes of s. 4(5)(e) (6.4.2017) by [The Enterprise Act 2016 (Commencement No. 4 and Appointed Start Date) Regulations 2017 (S.I. 2017/473)](https://www.legislation.gov.uk/uksi/2017/473), [reg. 4](https://www.legislation.gov.uk/uksi/2017/473/regulation/4)

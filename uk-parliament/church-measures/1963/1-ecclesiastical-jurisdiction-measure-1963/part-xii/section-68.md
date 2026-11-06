@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 68. Exercise of powers of diocesans during vacation of sees.[^key-e47e951def3735c7561cba3fe94ac56e]
+## 68. Exercise of powers of diocesans during vacation of sees.[^c-e47e951def3735c7561cba3fe94ac56e]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e47e951def3735c7561cba3fe94ac56e]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukcm/1963/1/section/68) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-e47e951def3735c7561cba3fe94ac56e]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukcm/1963/1/section/68) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

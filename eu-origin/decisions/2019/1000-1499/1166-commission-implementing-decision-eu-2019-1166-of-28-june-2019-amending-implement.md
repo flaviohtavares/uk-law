@@ -39,16 +39,16 @@ amending Implementing Decision (EU) 2018/1113 as regards the representative of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-9f68b7138f5da593996b454569cb08ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f68b7138f5da593996b454569cb08ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9f68b7138f5da593996b454569cb08ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9f68b7138f5da593996b454569cb08ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Addressees[^key-9f68b7138f5da593996b454569cb08ea]
+## Article 2. Addressees[^c-9f68b7138f5da593996b454569cb08ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f68b7138f5da593996b454569cb08ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f68b7138f5da593996b454569cb08ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f68b7138f5da593996b454569cb08ea]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/5)
+[^c-9f68b7138f5da593996b454569cb08ea]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1007A. Meaning of “permanent establishment”[^key-aa455b94fbc3f3f5837f88da217f2b7c]
+## 1007A. Meaning of “permanent establishment”[^c-aa455b94fbc3f3f5837f88da217f2b7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa455b94fbc3f3f5837f88da217f2b7c]: Textual amendment: S. 1007A inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/3/3); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-aa455b94fbc3f3f5837f88da217f2b7c]: Textual amendment: S. 1007A inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/3/3); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

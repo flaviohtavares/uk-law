@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40ZA. Interpretation[^key-cde41cf726b6cf23a02c8e7c46dd4af9]
+## 40ZA. Interpretation[^c-cde41cf726b6cf23a02c8e7c46dd4af9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cde41cf726b6cf23a02c8e7c46dd4af9]: Textual amendment: [Ss. 40ZA-40ZD](https://www.legislation.gov.uk/ukpga/1998/41/section/40ZA) inserted by S.I. 2019/93, reg. 13A (as inserted 31.12.2020 by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1343/regulation/4))
+[^c-cde41cf726b6cf23a02c8e7c46dd4af9]: Textual amendment: [Ss. 40ZA-40ZD](https://www.legislation.gov.uk/ukpga/1998/41/section/40ZA) inserted by S.I. 2019/93, reg. 13A (as inserted 31.12.2020 by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1343/regulation/4))

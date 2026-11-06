@@ -37,7 +37,7 @@ Made
 
 The Department of Health, in exercise of the powers conferred by section 307 of the Mental Capacity Act (Northern Ireland) 2016[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-4401f433bf516b1d0dbe4578d2b0f294]
+## 1. Citation and interpretation[^c-4401f433bf516b1d0dbe4578d2b0f294]
 
 (1) This Order may be cited as the Mental Capacity (2016 Act) (Commencement No. 1) Order (Northern Ireland) 2019.
 
@@ -50,7 +50,7 @@ The Department of Health, in exercise of the powers conferred by section 307 of 
 - “offences” means the offences found in sections 267 to 270 and 272 to 273 of the Act; and
 - “research” means research under sections 132 to 138 of the Act.
 
-## 2. Appointed days for provisions coming into operation[^key-7474416d880eb05d79d929cd22b97027]
+## 2. Appointed days for provisions coming into operation[^c-7474416d880eb05d79d929cd22b97027]
 
 (1) The day appointed for the coming into operation of the provisions of the Act specified in Part 1 of the Schedule, in so far as it relates to an act that is research, is 1st October 2019.
 
@@ -60,13 +60,13 @@ The Department of Health, in exercise of the powers conferred by section 307 of 
 
 (4) The day appointed for the coming into operation of the provisions of the Act specified in Part 4 of the Schedule, in so far as it relates to an act that is a deprivation of liberty, is 2nd December 2019.
 
-(5) The day appointed for coming into operation of the provisions of the Act specified in Part 5 of the Schedule, in so far as it relates to an act that is a deprivation of liberty, is 31st May 2021[^key-f705ebae10820777bed3d9273680bb00].
+(5) The day appointed for coming into operation of the provisions of the Act specified in Part 5 of the Schedule, in so far as it relates to an act that is a deprivation of liberty, is 31st May 2021[^c-f705ebae10820777bed3d9273680bb00].
 
-## 3. Limitations to commencement[^key-466dcd931f9373e025c6293fb870d7b1]
+## 3. Limitations to commencement[^c-466dcd931f9373e025c6293fb870d7b1]
 
 The provisions of the Act that are included in the Schedule and which are commenced by Article 2 of this Order do not apply in any circumstances in which a deprivation of liberty may instead be authorised by virtue of the provisions contained in Part 2 or Part 3 of the Mental Health (Northern Ireland) Order 1986.
 
-## 4. Transitional provisions[^key-b33a3dbe2ced310e5ed6aa8914cf69a7]
+## 4. Transitional provisions[^c-b33a3dbe2ced310e5ed6aa8914cf69a7]
 
 Until the coming into operation of section 265 of the Act, the duty on hospital managers which appears at Article 3D “In-patients under 16: duties of hospital managers”, which is to be inserted into the Mental Health (NI) Order 1986 by section 266 of and Schedule 8 paragraph 4 to the Act shall apply to in-patients under 18 and the heading at Article 3D shall instead be construed as “In-patients under 18 – duties of hospital managers”.
 
@@ -76,7 +76,7 @@ Mark Lee
 
 A senior officer of the Department of Health.
 
-## SCHEDULE[^key-a52d62d66e174d6215bd99750aeeeb45]
+## SCHEDULE[^c-a52d62d66e174d6215bd99750aeeeb45]
 
 Article 2
 
@@ -168,7 +168,7 @@ Provisions coming into operation on 2nd December 2019 in so far as it relates to
 
 ### PART 5
 
-Provisions coming into operation on 31st May 2021 in so far as it relates to an act that is a deprivation of liberty[^key-721d4cd9ae8bc5132af6c3dd4717f16e]
+Provisions coming into operation on 31st May 2021 in so far as it relates to an act that is a deprivation of liberty[^c-721d4cd9ae8bc5132af6c3dd4717f16e]
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
@@ -194,16 +194,16 @@ The second transitional arrangement relates to hospital managers’ duty to ensu
 
 [^f00001]: Footnote: [2016 c. 18 (NI)](https://www.legislation.gov.uk/nia/2016/18)
 
-[^key-4401f433bf516b1d0dbe4578d2b0f294]: Commencement: Art. 1 in operation at 29.8.2019
+[^c-4401f433bf516b1d0dbe4578d2b0f294]: Commencement: Art. 1 in operation at 29.8.2019
 
-[^key-7474416d880eb05d79d929cd22b97027]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2019/163/article/2) substituted (27.9.2019) by [The Mental Capacity (2016 Act) (Commencement No. 1) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/190)](https://www.legislation.gov.uk/nisr/2019/190), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/190/article/2/2)
+[^c-7474416d880eb05d79d929cd22b97027]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2019/163/article/2) substituted (27.9.2019) by [The Mental Capacity (2016 Act) (Commencement No. 1) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/190)](https://www.legislation.gov.uk/nisr/2019/190), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/190/article/2/2)
 
-[^key-f705ebae10820777bed3d9273680bb00]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/nisr/2019/163/article/2/5) substituted (10.11.2020) by [The Mental Capacity (2016 Act) (Commencement No.1) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/246)](https://www.legislation.gov.uk/nisr/2020/246), [art. 2(2)](https://www.legislation.gov.uk/nisr/2020/246/article/2/2)
+[^c-f705ebae10820777bed3d9273680bb00]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/nisr/2019/163/article/2/5) substituted (10.11.2020) by [The Mental Capacity (2016 Act) (Commencement No.1) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/246)](https://www.legislation.gov.uk/nisr/2020/246), [art. 2(2)](https://www.legislation.gov.uk/nisr/2020/246/article/2/2)
 
-[^key-466dcd931f9373e025c6293fb870d7b1]: Commencement: Art. 3 in operation at 29.8.2019
+[^c-466dcd931f9373e025c6293fb870d7b1]: Commencement: Art. 3 in operation at 29.8.2019
 
-[^key-b33a3dbe2ced310e5ed6aa8914cf69a7]: Commencement: Art. 4 in operation at 29.8.2019
+[^c-b33a3dbe2ced310e5ed6aa8914cf69a7]: Commencement: Art. 4 in operation at 29.8.2019
 
-[^key-a52d62d66e174d6215bd99750aeeeb45]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2019/163/schedule) substituted (27.9.2019) by [The Mental Capacity (2016 Act) (Commencement No. 1) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/190)](https://www.legislation.gov.uk/nisr/2019/190), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/190/article/2/3)
+[^c-a52d62d66e174d6215bd99750aeeeb45]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2019/163/schedule) substituted (27.9.2019) by [The Mental Capacity (2016 Act) (Commencement No. 1) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/190)](https://www.legislation.gov.uk/nisr/2019/190), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/190/article/2/3)
 
-[^key-721d4cd9ae8bc5132af6c3dd4717f16e]: Textual amendment: Words in [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/5) heading substituted (10.11.2020) by [The Mental Capacity (2016 Act) (Commencement No.1) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/246)](https://www.legislation.gov.uk/nisr/2020/246), [art. 2(3)](https://www.legislation.gov.uk/nisr/2020/246/article/2/3)
+[^c-721d4cd9ae8bc5132af6c3dd4717f16e]: Textual amendment: Words in [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/5) heading substituted (10.11.2020) by [The Mental Capacity (2016 Act) (Commencement No.1) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/246)](https://www.legislation.gov.uk/nisr/2020/246), [art. 2(3)](https://www.legislation.gov.uk/nisr/2020/246/article/2/3)

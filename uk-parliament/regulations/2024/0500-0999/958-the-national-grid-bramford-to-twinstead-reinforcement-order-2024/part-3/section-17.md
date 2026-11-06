@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Construction, alteration and maintenance of streets[^key-cb61ddd7e6bc21419fe8fe7ac3ca9bb3]
+## 17. Construction, alteration and maintenance of streets[^c-cb61ddd7e6bc21419fe8fe7ac3ca9bb3]
 
 *Extent: E+W*
 
 (1) Any street (other than any private streets) to be constructed under this Order must be completed to the reasonable satisfaction of the street authority and must, unless otherwise agreed with the street authority, be maintained to the same condition (including any culverts or other structures laid under that part of the highway) by and at the expense of the undertaker for a period of 12 months from its completion and, at the expiry of that period, by and at the expense of the street authority.
 
-(2) Where a street is altered or diverted under this Order, the altered or diverted part of the street must be completed to the reasonable satisfaction of the street authority and must, unless otherwise agreed with the street authority, be maintained to the same condition[^key-d8426ce65ba1efba7747ab3573f89ba4] (including any culverts or other structures laid under that part of the highway) by and at the expense of the undertaker for a period of 12 months from its completion and, at the expiry of that period, by and at the expense of the street authority.
+(2) Where a street is altered or diverted under this Order, the altered or diverted part of the street must be completed to the reasonable satisfaction of the street authority and must, unless otherwise agreed with the street authority, be maintained to the same condition[^c-d8426ce65ba1efba7747ab3573f89ba4] (including any culverts or other structures laid under that part of the highway) by and at the expense of the undertaker for a period of 12 months from its completion and, at the expiry of that period, by and at the expense of the street authority.
 
 (3) Where new land not previously part of the public highway is to form part of the public highway further to the provisions of this Order it must, unless otherwise agreed with the street authority, be deemed as dedicated as part of the public highway on the expiry of the period of 12 months from its completion.
 
@@ -42,6 +42,6 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-cb61ddd7e6bc21419fe8fe7ac3ca9bb3]: Commencement: Art. 17 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-cb61ddd7e6bc21419fe8fe7ac3ca9bb3]: Commencement: Art. 17 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-d8426ce65ba1efba7747ab3573f89ba4]: Textual amendment: Words in [art. 17(2)](https://www.legislation.gov.uk/uksi/2024/958/article/17/2) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-d8426ce65ba1efba7747ab3573f89ba4]: Textual amendment: Words in [art. 17(2)](https://www.legislation.gov.uk/uksi/2024/958/article/17/2) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

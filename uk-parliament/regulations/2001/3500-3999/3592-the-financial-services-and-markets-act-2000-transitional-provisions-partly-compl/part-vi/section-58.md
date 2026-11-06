@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Determination of incomplete disciplinary proceedings[^key-057951f1dacef1c1e46dcf2abfbd1a51]
+## 58. Determination of incomplete disciplinary proceedings[^c-057951f1dacef1c1e46dcf2abfbd1a51]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-057951f1dacef1c1e46dcf2abfbd1a51]: Commencement: Art. 58 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-057951f1dacef1c1e46dcf2abfbd1a51]: Commencement: Art. 58 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

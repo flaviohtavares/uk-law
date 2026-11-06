@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Functions of joint committee and Policing Board[^key-609c7d7660d9e1049f7e2500c287d505]
+## 34. Functions of joint committee and Policing Board[^c-609c7d7660d9e1049f7e2500c287d505]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-609c7d7660d9e1049f7e2500c287d505]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2011/24/section/34) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-609c7d7660d9e1049f7e2500c287d505]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2011/24/section/34) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

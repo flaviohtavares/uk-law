@@ -30,9 +30,9 @@ In this Part each of the following expressions, when used in relation to a forme
   - (d) a person who is connected with a person falling within paragraph (a), (b) or (c);
 - “**post-employment earnings**” means so much of any amount received after the former employee has ceased to hold the former employment as constitutes general earnings for the purposes of the employment income Parts;
 - “**relevant retirement benefit**” means a benefit—
-  - (a) which is received by the former employee under an employer-financed retirement benefits scheme, and[^key-afa6844ee923abdbb95a3990e4098d69]
+  - (a) which is received by the former employee under an employer-financed retirement benefits scheme, and[^c-afa6844ee923abdbb95a3990e4098d69]
   - (b) which, under Chapter 2 of Part 6, counts as employment income of the former employee.
 
 ## Annotations
 
-[^key-afa6844ee923abdbb95a3990e4098d69]: Textual amendment: Words in [s. 563](https://www.legislation.gov.uk/ukpga/2003/1/section/563) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 64](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/64) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-afa6844ee923abdbb95a3990e4098d69]: Textual amendment: Words in [s. 563](https://www.legislation.gov.uk/ukpga/2003/1/section/563) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 64](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/64) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

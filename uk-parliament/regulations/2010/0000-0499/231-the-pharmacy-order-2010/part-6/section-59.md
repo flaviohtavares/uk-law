@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. The taking effect of directions in respect of appealable fitness to practise decisions[^key-c992e813f31679d58dad7b793ac2f4d6][^key-5249f7e48e0d7ec7737505ed057e558a]
+## 59. The taking effect of directions in respect of appealable fitness to practise decisions[^c-c992e813f31679d58dad7b793ac2f4d6][^c-5249f7e48e0d7ec7737505ed057e558a]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c992e813f31679d58dad7b793ac2f4d6]: Commencement: Art. 59 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-c992e813f31679d58dad7b793ac2f4d6]: Commencement: Art. 59 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-5249f7e48e0d7ec7737505ed057e558a]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2010/231/article/59) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-5249f7e48e0d7ec7737505ed057e558a]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2010/231/article/59) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

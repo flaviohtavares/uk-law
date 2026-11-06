@@ -36,7 +36,7 @@ This is subject to the provisions of Chapter 5 for the withdrawal or reduction o
 - (a) is apportioned between the loan or loans, securities or shares in each of those investments in the same proportions as the invested amounts in respect of the loan or loans, securities or shares for the period, and
 - (b) is attributed to that loan or those loans, securities or shares accordingly.
 
-(4A)[^key-7bb3a76f63946d7d7a8a1f7784055528] In the case of CITR under section 220A, in subsection (4)(a) the reference to the period is to be read as a reference to the period mentioned in section 220A(1)(a).
+(4A)[^c-7bb3a76f63946d7d7a8a1f7784055528] In the case of CITR under section 220A, in subsection (4)(a) the reference to the period is to be read as a reference to the period mentioned in section 220A(1)(a).
 
 (5) If under this section an amount of any reduction of corporation tax is attributed to any securities in the same issue, a proportionate part of that amount is attributed to each security.
 
@@ -48,4 +48,4 @@ This is subject to the provisions of Chapter 5 for the withdrawal or reduction o
 
 ## Annotations
 
-[^key-7bb3a76f63946d7d7a8a1f7784055528]: Textual amendment: [S. 240(4A)](https://www.legislation.gov.uk/ukpga/2010/4/section/240/4A) inserted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/10)
+[^c-7bb3a76f63946d7d7a8a1f7784055528]: Textual amendment: [S. 240(4A)](https://www.legislation.gov.uk/ukpga/2010/4/section/240/4A) inserted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/10)

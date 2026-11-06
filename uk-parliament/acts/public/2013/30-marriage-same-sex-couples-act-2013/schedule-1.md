@@ -24,11 +24,11 @@ Section 4
 
 ### Introduction
 
-**1.**[^key-cbbabb812d17ef5a6a7d91199c621e4e][^key-97c193adf9252f206643a85f40ac6b3b] Part 3 of the Marriage Act 1949 is amended in accordance with this Schedule.
+**1.**[^c-cbbabb812d17ef5a6a7d91199c621e4e][^c-97c193adf9252f206643a85f40ac6b3b] Part 3 of the Marriage Act 1949 is amended in accordance with this Schedule.
 
 ### Registration of buildings
 
-**2.**[^key-7afbddbcfcf59ba2edc4e49b968dd0a6][^key-d87060f3c5ac446047f74899fe0cffac] After section 43 insert—
+**2.**[^c-7afbddbcfcf59ba2edc4e49b968dd0a6][^c-d87060f3c5ac446047f74899fe0cffac] After section 43 insert—
 
 > **43A. Registration of buildings: marriage of same sex couples**
 >
@@ -129,7 +129,7 @@ Section 4
 
 ### Shared buildings
 
-**3.**[^key-a2438f5e278265034f13a7411a551463][^key-843404a785a3e9637348ea50c388f72f] After section 44 insert—
+**3.**[^c-a2438f5e278265034f13a7411a551463][^c-843404a785a3e9637348ea50c388f72f] After section 44 insert—
 
 > **Registration of shared buildings for marriage of same sex couples**
 >
@@ -256,14 +256,14 @@ Section 4
 
 ## Annotations
 
-[^key-cbbabb812d17ef5a6a7d91199c621e4e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/1) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
+[^c-cbbabb812d17ef5a6a7d91199c621e4e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/1) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
 
-[^key-97c193adf9252f206643a85f40ac6b3b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/1) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
+[^c-97c193adf9252f206643a85f40ac6b3b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/1) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
 
-[^key-7afbddbcfcf59ba2edc4e49b968dd0a6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/2) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
+[^c-7afbddbcfcf59ba2edc4e49b968dd0a6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/2) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
 
-[^key-d87060f3c5ac446047f74899fe0cffac]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/2) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
+[^c-d87060f3c5ac446047f74899fe0cffac]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/2) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
 
-[^key-a2438f5e278265034f13a7411a551463]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/3) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
+[^c-a2438f5e278265034f13a7411a551463]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/3) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
 
-[^key-843404a785a3e9637348ea50c388f72f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/3) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
+[^c-843404a785a3e9637348ea50c388f72f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/3) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)

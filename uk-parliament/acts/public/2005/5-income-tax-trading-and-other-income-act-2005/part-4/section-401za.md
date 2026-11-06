@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401ZA. Relief: distributions to trustees of employee-ownership trusts[^key-be8bfc96534b303aa75561b18854b5f4]
+## 401ZA. Relief: distributions to trustees of employee-ownership trusts[^c-be8bfc96534b303aa75561b18854b5f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be8bfc96534b303aa75561b18854b5f4]: Textual amendment: [S. 401ZA](https://www.legislation.gov.uk/ukpga/2005/5/section/401ZA) and cross-heading inserted (with effect in accordance with Sch. 6 para. 9(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 9(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/9/1)
+[^c-be8bfc96534b303aa75561b18854b5f4]: Textual amendment: [S. 401ZA](https://www.legislation.gov.uk/ukpga/2005/5/section/401ZA) and cross-heading inserted (with effect in accordance with Sch. 6 para. 9(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 9(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/9/1)

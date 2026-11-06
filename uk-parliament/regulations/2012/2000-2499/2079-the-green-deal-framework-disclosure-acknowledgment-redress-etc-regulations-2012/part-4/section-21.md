@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Cessation of accreditation – update to registers[^key-e7c6306f819cd2da379420eda4ced58b]
+## 21. Cessation of accreditation – update to registers[^c-e7c6306f819cd2da379420eda4ced58b]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where the accreditation of a green deal certification body ceases, the Secretary
 
 ## Annotations
 
-[^key-e7c6306f819cd2da379420eda4ced58b]: Commencement: Reg. 21 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-e7c6306f819cd2da379420eda4ced58b]: Commencement: Reg. 21 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

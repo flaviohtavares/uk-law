@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If section 678 applies, the taxable social security income for a taxable benefit for a tax year is the full amount of the social security income arising in the tax year, but subject to subsection (2).[^key-ff2b48e9df3cb79814296039d3004ceb]
+(1) If section 678 applies, the taxable social security income for a taxable benefit for a tax year is the full amount of the social security income arising in the tax year, but subject to subsection (2).[^c-ff2b48e9df3cb79814296039d3004ceb]
 
-(2)[^key-c46fa61a6c95915d6f3bdedf6a926c77] That income is treated as relevant foreign income for the purposes of Chapters 2 and 3 of Part 8 of ITTOIA 2005 (relevant foreign income: remittance basis and deductions and reliefs).
+(2)[^c-c46fa61a6c95915d6f3bdedf6a926c77] That income is treated as relevant foreign income for the purposes of Chapters 2 and 3 of Part 8 of ITTOIA 2005 (relevant foreign income: remittance basis and deductions and reliefs).
 
 (3) See also Chapter 4 of that Part (unremittable income).
 
 ## Annotations
 
-[^key-ff2b48e9df3cb79814296039d3004ceb]: Textual amendment: Words in s. 679(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 613(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/613/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-ff2b48e9df3cb79814296039d3004ceb]: Textual amendment: Words in s. 679(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 613(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/613/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-c46fa61a6c95915d6f3bdedf6a926c77]: Textual amendment: S. 679(2)(3) substituted for s. 679(2) (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 613(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/613/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-c46fa61a6c95915d6f3bdedf6a926c77]: Textual amendment: S. 679(2)(3) substituted for s. 679(2) (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 613(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/613/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

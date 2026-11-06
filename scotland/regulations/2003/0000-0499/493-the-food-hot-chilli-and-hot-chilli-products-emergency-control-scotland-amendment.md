@@ -33,7 +33,7 @@ summary: ''
 
 FOOD
 
-The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^key-27ea8ca7efcad59e1674987cd34838e8]
+The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^c-27ea8ca7efcad59e1674987cd34838e8]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 9th October 2003
 
-[^key-27ea8ca7efcad59e1674987cd34838e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27ea8ca7efcad59e1674987cd34838e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-27ea8ca7efcad59e1674987cd34838e8]
+## 1. Citation, commencement and extent[^c-27ea8ca7efcad59e1674987cd34838e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Scotland) Regulations 2003[^key-27ea8ca7efcad59e1674987cd34838e8]
+## 2. Amendment of the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Scotland) Regulations 2003[^c-27ea8ca7efcad59e1674987cd34838e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27ea8ca7efcad59e1674987cd34838e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27ea8ca7efcad59e1674987cd34838e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-27ea8ca7efcad59e1674987cd34838e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27ea8ca7efcad59e1674987cd34838e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27ea8ca7efcad59e1674987cd34838e8]: Textual amendment: Regulations revoked (14.2.2004) by [The Food (Chilli and Chilli Products) (Emergency Control) (Scotland) Regulations 2004 (S.S.I. 2004/56)](https://www.legislation.gov.uk/ssi/2004/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/56/regulation/1), [9](https://www.legislation.gov.uk/ssi/2004/56/regulation/9)
+[^c-27ea8ca7efcad59e1674987cd34838e8]: Textual amendment: Regulations revoked (14.2.2004) by [The Food (Chilli and Chilli Products) (Emergency Control) (Scotland) Regulations 2004 (S.S.I. 2004/56)](https://www.legislation.gov.uk/ssi/2004/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/56/regulation/1), [9](https://www.legislation.gov.uk/ssi/2004/56/regulation/9)

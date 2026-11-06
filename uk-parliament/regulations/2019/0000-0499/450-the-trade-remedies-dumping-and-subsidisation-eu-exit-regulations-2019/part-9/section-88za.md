@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88ZA. Power to request assistance etc. from TRA[^key-5ebace3f605c21f4b79f422cb21fed9d]
+## 88ZA. Power to request assistance etc. from TRA[^c-5ebace3f605c21f4b79f422cb21fed9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ebace3f605c21f4b79f422cb21fed9d]: Textual amendment: [Reg. 88ZA](https://www.legislation.gov.uk/uksi/2019/450/regulation/88ZA) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/545/regulation/23) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-5ebace3f605c21f4b79f422cb21fed9d]: Textual amendment: [Reg. 88ZA](https://www.legislation.gov.uk/uksi/2019/450/regulation/88ZA) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/545/regulation/23) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

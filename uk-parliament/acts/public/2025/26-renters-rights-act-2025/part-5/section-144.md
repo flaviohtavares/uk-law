@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Extent[^key-5584b8583d3880476e9a19b8694b4225]
+## 144. Extent[^c-5584b8583d3880476e9a19b8694b4225]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5584b8583d3880476e9a19b8694b4225]: Commencement: S. 144 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-5584b8583d3880476e9a19b8694b4225]: Commencement: S. 144 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Effects of codes of practice[^key-90acaa178d85e4d8dde5444c7851665b][^key-0b0d6131f7f90d819777bc6e635a139a]
+## 50. Effects of codes of practice[^c-90acaa178d85e4d8dde5444c7851665b][^c-0b0d6131f7f90d819777bc6e635a139a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90acaa178d85e4d8dde5444c7851665b]: Commencement: S. 50 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-90acaa178d85e4d8dde5444c7851665b]: Commencement: S. 50 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0b0d6131f7f90d819777bc6e635a139a]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/50/section/50) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/n)
+[^c-0b0d6131f7f90d819777bc6e635a139a]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/50/section/50) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/n)

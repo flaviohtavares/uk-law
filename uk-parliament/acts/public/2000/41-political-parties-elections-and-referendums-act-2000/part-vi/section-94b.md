@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94B. Effect where arrangements are notified under section 94A[^key-1bfae797221f2bc7cead1ccf95de4be6]
+## 94B. Effect where arrangements are notified under section 94A[^c-1bfae797221f2bc7cead1ccf95de4be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bfae797221f2bc7cead1ccf95de4be6]: Textual amendment: Ss. 94A, 94B inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/27/3), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-1bfae797221f2bc7cead1ccf95de4be6]: Textual amendment: Ss. 94A, 94B inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/27/3), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

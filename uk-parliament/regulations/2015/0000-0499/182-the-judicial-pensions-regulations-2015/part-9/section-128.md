@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Deduction of payments for extra pension under Schedule 1[^key-d18aed773ba4d25469a4c44912e9f6b5]
+## 128. Deduction of payments for extra pension under Schedule 1[^c-d18aed773ba4d25469a4c44912e9f6b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Schedule 1 has effect for the purpose of enabling deductions of payments for—
 
 ## Annotations
 
-[^key-d18aed773ba4d25469a4c44912e9f6b5]: Commencement: Reg. 128 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-d18aed773ba4d25469a4c44912e9f6b5]: Commencement: Reg. 128 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)

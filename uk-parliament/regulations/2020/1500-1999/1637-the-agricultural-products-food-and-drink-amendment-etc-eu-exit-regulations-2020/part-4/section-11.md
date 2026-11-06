@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. The Wine Regulations 2011[^key-8f709542abd8eb5f0c282bd5a9d7976f]
+## 11. The Wine Regulations 2011[^c-8f709542abd8eb5f0c282bd5a9d7976f]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 - (a) for paragraph (1) substitute—
 
-  > (1) The local authority enforces the retained EU Regulations and the 1416/2006 prohibition[^key-258e3f6abe367e0ceb64180ba1b92e0d][^M_F_cb3c3064-1f8c-461a-bd70-5735a1c898b5] in relation to retail sale.
+  > (1) The local authority enforces the retained EU Regulations and the 1416/2006 prohibition[^c-258e3f6abe367e0ceb64180ba1b92e0d][^M_F_cb3c3064-1f8c-461a-bd70-5735a1c898b5] in relation to retail sale.
 
   ;
 - (b) omit paragraphs (4) and (8).
@@ -87,9 +87,9 @@ summary: ''
 
 ## Annotations
 
-[^key-8f709542abd8eb5f0c282bd5a9d7976f]: Commencement: Reg. 11 in force at 31.12.2020, see reg. 1(7)
+[^c-8f709542abd8eb5f0c282bd5a9d7976f]: Commencement: Reg. 11 in force at 31.12.2020, see reg. 1(7)
 
-[^key-258e3f6abe367e0ceb64180ba1b92e0d]: Textual amendment: Words in [reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/a) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/3)
+[^c-258e3f6abe367e0ceb64180ba1b92e0d]: Textual amendment: Words in [reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/a) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/3)
 
 [^M_F_cb3c3064-1f8c-461a-bd70-5735a1c898b5]: Textual amendment: See [S.I. 2020/1636](https://www.legislation.gov.uk/uksi/2020/1636) for amendments to [S.I. 2011/2936](https://www.legislation.gov.uk/uksi/2011/2936) concerning “the 1416/2006 prohibition”.
 

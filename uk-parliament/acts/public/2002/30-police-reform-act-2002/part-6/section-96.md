@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. President of ACPO[^key-d830c4753f4e866554b6670f4ac09b37]
+## 96. President of ACPO[^c-d830c4753f4e866554b6670f4ac09b37]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d830c4753f4e866554b6670f4ac09b37]: Textual amendment: [S. 96](https://www.legislation.gov.uk/ukpga/2002/30/section/96) omitted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/2/2); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
+[^c-d830c4753f4e866554b6670f4ac09b37]: Textual amendment: [S. 96](https://www.legislation.gov.uk/ukpga/2002/30/section/96) omitted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/2/2); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)

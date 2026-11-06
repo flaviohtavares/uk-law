@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Relationship with Comptroller and Auditor General[^key-83a9f7ac980f7bfeb549027e7c7bbbfb][^key-c69e37e834f4bc5c7ab89d355f109ff4]
+## 22. Relationship with Comptroller and Auditor General[^c-83a9f7ac980f7bfeb549027e7c7bbbfb][^c-c69e37e834f4bc5c7ab89d355f109ff4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 contains provision about the relationship between NAO and the Comptro
 
 ## Annotations
 
-[^key-83a9f7ac980f7bfeb549027e7c7bbbfb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/4/section/22) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-83a9f7ac980f7bfeb549027e7c7bbbfb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/4/section/22) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-c69e37e834f4bc5c7ab89d355f109ff4]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/4/section/22) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-c69e37e834f4bc5c7ab89d355f109ff4]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/4/section/22) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))

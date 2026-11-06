@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48A. Civil sanctions[^key-3617dc089a6313e5a393342ff0a213b2]
+## 48A. Civil sanctions[^c-3617dc089a6313e5a393342ff0a213b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4A (which provides for civil sanctions) has effect.
 
 ## Annotations
 
-[^key-3617dc089a6313e5a393342ff0a213b2]: Textual amendment: Pt. 11A inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(8)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/8)
+[^c-3617dc089a6313e5a393342ff0a213b2]: Textual amendment: Pt. 11A inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(8)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/8)

@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Communities (Definition of Treaties) (Cariforum Economic Partnership Agreement) Order 2009 (revoked)[^key-de1271fa8e4c85d2ec8870b0a836971b]
+The European Communities (Definition of Treaties) (Cariforum Economic Partnership Agreement) Order 2009 (revoked)[^c-de1271fa8e4c85d2ec8870b0a836971b]
 
 Made
 
@@ -46,22 +46,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-de1271fa8e4c85d2ec8870b0a836971b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de1271fa8e4c85d2ec8870b0a836971b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-de1271fa8e4c85d2ec8870b0a836971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de1271fa8e4c85d2ec8870b0a836971b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de1271fa8e4c85d2ec8870b0a836971b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de1271fa8e4c85d2ec8870b0a836971b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de1271fa8e4c85d2ec8870b0a836971b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de1271fa8e4c85d2ec8870b0a836971b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1759) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de1271fa8e4c85d2ec8870b0a836971b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1759) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

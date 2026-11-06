@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60B. Requirement to provide fresh signatures following rejection of a postal voting statement[^M_C_34ffdc6a-a037-4963-898a-8a8b0691b674][^key-be655a8a327d2b60b95202c15afc91c1]
+## 60B. Requirement to provide fresh signatures following rejection of a postal voting statement[^M_C_34ffdc6a-a037-4963-898a-8a8b0691b674][^c-be655a8a327d2b60b95202c15afc91c1]
 
 *Extent: E+W*
 
@@ -55,12 +55,12 @@ and postage shall be prepaid.
 - (a) explaining the effect of such removal; and
 - (b) reminding the absent voter that they may make a fresh application under Schedule 4 to vote by post or by proxy (as the case may be).
 
-(11) Where an absent voter has provided a registration officer with a fresh signature in response to a notice issued by the registration officer under this paragraph, or in response to a notice issued by the registration officer under any other enactment following the rejection of the absent voter’s postal voting statement at an election or referendum, the registration officer may use that signature and enter it in the records kept in accordance with regulation 61B and paragraphs 3(9)[^key-bba7160b2bb70f86dabf4a0aecce756c], 4(6) and 7(12) of Schedule 4.
+(11) Where an absent voter has provided a registration officer with a fresh signature in response to a notice issued by the registration officer under this paragraph, or in response to a notice issued by the registration officer under any other enactment following the rejection of the absent voter’s postal voting statement at an election or referendum, the registration officer may use that signature and enter it in the records kept in accordance with regulation 61B and paragraphs 3(9)[^c-bba7160b2bb70f86dabf4a0aecce756c], 4(6) and 7(12) of Schedule 4.
 
 ## Annotations
 
 [^M_C_34ffdc6a-a037-4963-898a-8a8b0691b674]: Modification: Reg. 60B applied (with modifications) (E.) (6.4.2014) by [S.I. 2012/2031](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1 Table 6](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) (as amended by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [10(a)](https://www.legislation.gov.uk/uksi/2014/333/regulation/10/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/333/schedule/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7)))
 
-[^key-be655a8a327d2b60b95202c15afc91c1]: Textual amendment: Reg. 60B inserted (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/b), [26](https://www.legislation.gov.uk/uksi/2013/3198/regulation/26); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)
+[^c-be655a8a327d2b60b95202c15afc91c1]: Textual amendment: Reg. 60B inserted (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/b), [26](https://www.legislation.gov.uk/uksi/2013/3198/regulation/26); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)
 
-[^key-bba7160b2bb70f86dabf4a0aecce756c]: Textual amendment: Word in reg. 60B(11) substituted (28.6.2016) by [The Representation of the People (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/694)](https://www.legislation.gov.uk/uksi/2016/694), [regs. 1](https://www.legislation.gov.uk/uksi/2016/694/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/694/regulation/9)
+[^c-bba7160b2bb70f86dabf4a0aecce756c]: Textual amendment: Word in reg. 60B(11) substituted (28.6.2016) by [The Representation of the People (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/694)](https://www.legislation.gov.uk/uksi/2016/694), [regs. 1](https://www.legislation.gov.uk/uksi/2016/694/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/694/regulation/9)

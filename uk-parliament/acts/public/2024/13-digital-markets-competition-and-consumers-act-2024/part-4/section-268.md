@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Offence of failing to provide information about initial cooling-off rights[^key-efd9054109137d67bd57246bf801aab2]
+## 268. Offence of failing to provide information about initial cooling-off rights[^c-efd9054109137d67bd57246bf801aab2]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ and the commission of the offence, or of what would have been the offence, is du
 
 ## Annotations
 
-[^key-efd9054109137d67bd57246bf801aab2]: Commencement: S. 268 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-efd9054109137d67bd57246bf801aab2]: Commencement: S. 268 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

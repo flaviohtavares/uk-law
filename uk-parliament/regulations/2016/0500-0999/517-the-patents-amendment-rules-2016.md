@@ -32,7 +32,7 @@ summary: ''
 
 Patents
 
-The Patents (Amendment) Rules 2016 (revoked)[^key-4ae3c74ebb89d8d7f740887f7ffa1233]
+The Patents (Amendment) Rules 2016 (revoked)[^c-4ae3c74ebb89d8d7f740887f7ffa1233]
 
 Made
 
@@ -44,15 +44,15 @@ Laid before Parliament
 
 Coming into force in accordance with rule 1(2)
 
-[^key-4ae3c74ebb89d8d7f740887f7ffa1233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ae3c74ebb89d8d7f740887f7ffa1233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and Commencement[^key-4ae3c74ebb89d8d7f740887f7ffa1233]
+## 1. Citation and Commencement[^c-4ae3c74ebb89d8d7f740887f7ffa1233]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Patents Rules 2007[^key-4ae3c74ebb89d8d7f740887f7ffa1233]
+## 2. Amendments to the Patents Rules 2007[^c-4ae3c74ebb89d8d7f740887f7ffa1233]
 
 **Not yet in force.**
 
@@ -60,11 +60,11 @@ Coming into force in accordance with rule 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ae3c74ebb89d8d7f740887f7ffa1233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ae3c74ebb89d8d7f740887f7ffa1233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-4ae3c74ebb89d8d7f740887f7ffa1233]EXPLANATORY NOTE
+[^c-4ae3c74ebb89d8d7f740887f7ffa1233]EXPLANATORY NOTE
 
 (This note is not part of the Rules)
 
@@ -78,4 +78,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-4ae3c74ebb89d8d7f740887f7ffa1233]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/517) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)
+[^c-4ae3c74ebb89d8d7f740887f7ffa1233]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/517) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)

@@ -41,13 +41,13 @@ summary: ''
 
 (9) This Article shall not apply to any object or device—
 
-- (a) in respect of which planning permission under the Planning Act (Northern Ireland) 2011[^key-e46b1fc3e9b7c7c9801b34e83b26e926] is, or is deemed to be, granted; or
+- (a) in respect of which planning permission under the Planning Act (Northern Ireland) 2011[^c-e46b1fc3e9b7c7c9801b34e83b26e926] is, or is deemed to be, granted; or
 - (b) which constitutes development within the meaning of the [^m00014] Planning (Interim Development) Act (Northern Ireland) 1944 and was erected with the permission of a planning (N.I.). authority under the Planning Acts (Northern Ireland) 1931 and 1944,
 
 except where the Department considers that the object or device may prejudice the safety of persons using a public road.
 
 ## Annotations
 
-[^key-e46b1fc3e9b7c7c9801b34e83b26e926]: Textual amendment: Words in art. 35(9)(a) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 84](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/84) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by S.R. 2016/159, art. 2))
+[^c-e46b1fc3e9b7c7c9801b34e83b26e926]: Textual amendment: Words in art. 35(9)(a) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 84](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/84) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by S.R. 2016/159, art. 2))
 
 [^m00014]: Marginal citation: 1944 c. 33

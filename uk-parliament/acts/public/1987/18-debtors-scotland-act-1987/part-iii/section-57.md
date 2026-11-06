@@ -29,7 +29,7 @@ summary: ''
 
 (3) If a cheque tendered in payment under section 47(1) or 51(1) of this Act is dishonoured or for any other reason the method of payment used by the employer is ineffectual, the creditor may insist that the payment concerned and any future payment under that provision shall be tendered in cash.
 
-(4)[^key-5490161eb582cfaed95b4c33716abb51] Where—
+(4)[^c-5490161eb582cfaed95b4c33716abb51] Where—
 
 - (a) the debt recoverable under an earnings arrestment is paid or otherwise extinguished;
 - (b) a current maintenance arrestment ceases to have effect under section 55(8) above; or
@@ -48,4 +48,4 @@ shall be recoverable by the debtor from the creditor with interest on that sum a
 
 ## Annotations
 
-[^key-5490161eb582cfaed95b4c33716abb51]: Modification: S. 57(4) modified (1.4.2008) by [The Enforcement of Fines (Diligence) (Scotland) Regulations 2008 (S.S.I. 2008/104)](https://www.legislation.gov.uk/ssi/2008/104), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/104/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/ssi/2008/104/regulation/2/b/ii)
+[^c-5490161eb582cfaed95b4c33716abb51]: Modification: S. 57(4) modified (1.4.2008) by [The Enforcement of Fines (Diligence) (Scotland) Regulations 2008 (S.S.I. 2008/104)](https://www.legislation.gov.uk/ssi/2008/104), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/104/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/ssi/2008/104/regulation/2/b/ii)

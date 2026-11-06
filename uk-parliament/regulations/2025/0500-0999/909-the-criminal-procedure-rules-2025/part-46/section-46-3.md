@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.3. Application to change legal representative (legal aid): general rules[^key-ca820f46c9d4884f22041aa9ba02da1f]
+## 46.3. Application to change legal representative (legal aid): general rules[^c-ca820f46c9d4884f22041aa9ba02da1f]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ca820f46c9d4884f22041aa9ba02da1f]: Commencement: [Rule 46.3](https://www.legislation.gov.uk/uksi/2025/909/rule/46.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ca820f46c9d4884f22041aa9ba02da1f]: Commencement: [Rule 46.3](https://www.legislation.gov.uk/uksi/2025/909/rule/46.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01104]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 

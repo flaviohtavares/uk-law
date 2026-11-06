@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.5. Statements of truth[^key-d22c1c876b2fba7bb69dca5ca52f4587]
+## 33.5. Statements of truth[^c-d22c1c876b2fba7bb69dca5ca52f4587]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d22c1c876b2fba7bb69dca5ca52f4587]: Commencement: [Rule 33.5](https://www.legislation.gov.uk/uksi/2025/909/rule/33.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d22c1c876b2fba7bb69dca5ca52f4587]: Commencement: [Rule 33.5](https://www.legislation.gov.uk/uksi/2025/909/rule/33.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

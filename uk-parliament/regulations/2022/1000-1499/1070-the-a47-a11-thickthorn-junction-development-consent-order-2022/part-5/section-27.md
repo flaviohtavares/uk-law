@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Compulsory acquisition of rights and imposition of restrictive covenants[^key-403c69119269ad8dd2b1b06168240cc1]
+## 27. Compulsory acquisition of rights and imposition of restrictive covenants[^c-403c69119269ad8dd2b1b06168240cc1]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-403c69119269ad8dd2b1b06168240cc1]: Commencement: Art. 27 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-403c69119269ad8dd2b1b06168240cc1]: Commencement: Art. 27 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00058]: Footnote: Schedule 2A was inserted by paragraphs 1 and 3 of Schedule 17 to the Housing and Planning Act 2016.

@@ -35,38 +35,38 @@ concerning the authorisation of a preparation of sodium benzoate, propionic acid
 
 (Text with EEA relevance) (revoked)
 
-[^key-9963837f5d1a9850c384cb63ab6f14d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9963837f5d1a9850c384cb63ab6f14d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Authorisation[^key-9963837f5d1a9850c384cb63ab6f14d3]
+## Article 1. Authorisation[^c-9963837f5d1a9850c384cb63ab6f14d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Regulation (EC) No 1876/2006[^key-9963837f5d1a9850c384cb63ab6f14d3]
+## Article 2. Amendments to Regulation (EC) No 1876/2006[^c-9963837f5d1a9850c384cb63ab6f14d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Regulation (EC) No 757/2007[^key-9963837f5d1a9850c384cb63ab6f14d3]
+## Article 3. Amendments to Regulation (EC) No 757/2007[^c-9963837f5d1a9850c384cb63ab6f14d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-9963837f5d1a9850c384cb63ab6f14d3]
+## Article 4. Transitional measures[^c-9963837f5d1a9850c384cb63ab6f14d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-9963837f5d1a9850c384cb63ab6f14d3]
+## Article 5. Entry into force[^c-9963837f5d1a9850c384cb63ab6f14d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9963837f5d1a9850c384cb63ab6f14d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9963837f5d1a9850c384cb63ab6f14d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-9963837f5d1a9850c384cb63ab6f14d3]
+## ANNEX[^c-9963837f5d1a9850c384cb63ab6f14d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9963837f5d1a9850c384cb63ab6f14d3]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 99](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/99) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-9963837f5d1a9850c384cb63ab6f14d3]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 99](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/99) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

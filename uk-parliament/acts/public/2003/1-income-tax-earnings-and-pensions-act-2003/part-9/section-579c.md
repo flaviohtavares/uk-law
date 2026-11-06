@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 579C. Person liable for tax[^key-cc94000b3530d1b96b38cfce476e5e9b]
+## 579C. Person liable for tax[^c-cc94000b3530d1b96b38cfce476e5e9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If section 579A applies, the person liable for any tax charged under this Part i
 
 ## Annotations
 
-[^key-cc94000b3530d1b96b38cfce476e5e9b]: Textual amendment: Pt. 9 Ch. 5A inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/6) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-cc94000b3530d1b96b38cfce476e5e9b]: Textual amendment: Pt. 9 Ch. 5A inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/6) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

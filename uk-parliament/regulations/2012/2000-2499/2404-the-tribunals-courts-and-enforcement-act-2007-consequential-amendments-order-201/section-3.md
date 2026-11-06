@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Consequential amendments to or in connection with disqualification provisions[^key-a5794ad35dcde5f11ab86eda712db0c9]
+## 3. Consequential amendments to or in connection with disqualification provisions[^c-a5794ad35dcde5f11ab86eda712db0c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5794ad35dcde5f11ab86eda712db0c9]: Commencement: Art. 3 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1)
+[^c-a5794ad35dcde5f11ab86eda712db0c9]: Commencement: Art. 3 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1)
 
 [^f00004]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).

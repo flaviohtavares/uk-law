@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Capital limit[^key-7d034a59f9ca7e6307448f6d6e2f4585]
+## 28. Capital limit[^c-7d034a59f9ca7e6307448f6d6e2f4585]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of section 134(1) of the Contributions and Benefits Act 1992 as
 
 ## Annotations
 
-[^key-7d034a59f9ca7e6307448f6d6e2f4585]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1992/1814/regulation/28) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-7d034a59f9ca7e6307448f6d6e2f4585]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1992/1814/regulation/28) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

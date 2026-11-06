@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. OFCOM’s report in connection with investigation into a death[^key-1d11621c6a60bdb7b5e1e6739861c37a][^key-ec25f11608f7a19c0507a94fda5da725]
+## 163. OFCOM’s report in connection with investigation into a death[^c-1d11621c6a60bdb7b5e1e6739861c37a][^c-ec25f11608f7a19c0507a94fda5da725]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d11621c6a60bdb7b5e1e6739861c37a]: Commencement: S. 163 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-1d11621c6a60bdb7b5e1e6739861c37a]: Commencement: S. 163 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-ec25f11608f7a19c0507a94fda5da725]: Commencement: S. 163 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-ec25f11608f7a19c0507a94fda5da725]: Commencement: S. 163 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

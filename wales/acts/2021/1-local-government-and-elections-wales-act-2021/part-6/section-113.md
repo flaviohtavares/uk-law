@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Disapplication of the 2009 Measure in relation to principal councils and repeal of provisions about coordination of audit[^key-4bb482aab746349ac80fb18bb265b916]
+## 113. Disapplication of the 2009 Measure in relation to principal councils and repeal of provisions about coordination of audit[^c-4bb482aab746349ac80fb18bb265b916]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In the 2009 Measure omit—
 
 ## Annotations
 
-[^key-4bb482aab746349ac80fb18bb265b916]: Commencement: S. 113 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2021/297/article/4), [5](https://www.legislation.gov.uk/uksi/2021/297/article/5), [7-9](https://www.legislation.gov.uk/uksi/2021/297/article/7))
+[^c-4bb482aab746349ac80fb18bb265b916]: Commencement: S. 113 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2021/297/article/4), [5](https://www.legislation.gov.uk/uksi/2021/297/article/5), [7-9](https://www.legislation.gov.uk/uksi/2021/297/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Expenditure and receipts of NDA[^key-6af2c7c5547caf6bd00ca1b45a7a6977]
+## 22. Expenditure and receipts of NDA[^c-6af2c7c5547caf6bd00ca1b45a7a6977]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the Secretary of State must have regard, in particular, to the extent to which h
 
 ## Annotations
 
-[^key-6af2c7c5547caf6bd00ca1b45a7a6977]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2004/20/section/22) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-6af2c7c5547caf6bd00ca1b45a7a6977]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2004/20/section/22) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

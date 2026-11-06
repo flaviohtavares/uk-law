@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Public sector duty regarding socio-economic inequalities[^key-977c2d818a274be95aa3f42ccca076a3]
+## 45. Public sector duty regarding socio-economic inequalities[^c-977c2d818a274be95aa3f42ccca076a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-977c2d818a274be95aa3f42ccca076a3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/4/section/45) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
+[^c-977c2d818a274be95aa3f42ccca076a3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/4/section/45) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)

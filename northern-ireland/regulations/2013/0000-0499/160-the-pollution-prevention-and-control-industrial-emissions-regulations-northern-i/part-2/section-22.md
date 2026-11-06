@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Surrender of a permit for a Part A installation or Part A mobile plant[^key-c15a73e20e71a45d379e29cbab45d220]
+## 22. Surrender of a permit for a Part A installation or Part A mobile plant[^c-c15a73e20e71a45d379e29cbab45d220]
 
 *Extent: N.I.*
 
@@ -77,7 +77,7 @@ have been taken by the operator, the chief inspector shall accept the surrender 
 
 ## Annotations
 
-[^key-c15a73e20e71a45d379e29cbab45d220]: Commencement: Reg. 22 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c15a73e20e71a45d379e29cbab45d220]: Commencement: Reg. 22 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049)
 

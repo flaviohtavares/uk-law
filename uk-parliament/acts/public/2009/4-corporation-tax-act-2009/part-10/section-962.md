@@ -24,9 +24,9 @@ summary: ''
 
 (2) Assumption A is that if there are different persons with interests in the residue of the estate, payments in respect of their basic amounts are paid out of the different parts of the aggregate income of the estate in such proportions as are just and reasonable for their different interests.
 
-(3) Assumption B is that payments are made from those parts in descending order, starting with the income bearing income tax at the highest rate and ending with the income bearing income tax at the lowest rate[^M_F_de8bf5e5-5a15-4fe4-eff9-0108a6b8990c] (subject to[^key-598e4c67cd6bf38ecd21b066b0a49b5e] subsection (3A)).
+(3) Assumption B is that payments are made from those parts in descending order, starting with the income bearing income tax at the highest rate and ending with the income bearing income tax at the lowest rate[^M_F_de8bf5e5-5a15-4fe4-eff9-0108a6b8990c] (subject to[^c-598e4c67cd6bf38ecd21b066b0a49b5e] subsection (3A)).
 
-(3A)[^key-dd692351700b26fd885878a7bcdd3936] For the purposes of assumption B, where those parts include—
+(3A)[^c-dd692351700b26fd885878a7bcdd3936] For the purposes of assumption B, where those parts include—
 
 - (a) income bearing income tax at 0% by virtue of section 963(1A), and
 - (b) other income bearing income tax at 0%,
@@ -46,8 +46,8 @@ payments are to be made from income within paragraph (a) after income within par
 
 [^M_F_de8bf5e5-5a15-4fe4-eff9-0108a6b8990c]: Textual amendment: Words in s. 962(3) substituted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 9(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/9/a), [14(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/2/b)
 
-[^key-598e4c67cd6bf38ecd21b066b0a49b5e]: Textual amendment: Words in [s. 962(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/962/3) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 12(5)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/12/5/a), [14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/b)
+[^c-598e4c67cd6bf38ecd21b066b0a49b5e]: Textual amendment: Words in [s. 962(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/962/3) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 12(5)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/12/5/a), [14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/b)
 
-[^key-dd692351700b26fd885878a7bcdd3936]: Textual amendment: [S. 962(3A)](https://www.legislation.gov.uk/ukpga/2009/4/section/962/3A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 12(5)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/12/5/b), [14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/b)
+[^c-dd692351700b26fd885878a7bcdd3936]: Textual amendment: [S. 962(3A)](https://www.legislation.gov.uk/ukpga/2009/4/section/962/3A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 12(5)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/12/5/b), [14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/b)
 
 [^M_F_219ba7f8-822e-42ba-fa61-7da3d7eaa6f9]: Textual amendment: Words in s. 962(4) substituted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 9(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/9/b), [14(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/2/b)

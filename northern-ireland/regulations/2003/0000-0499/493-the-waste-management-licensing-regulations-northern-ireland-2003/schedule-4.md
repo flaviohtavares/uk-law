@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — REGISTRATION OF BROKERS AND DEALERS OF CONTROLLED WASTE[^key-19e86ada3967e05d189041c9d4539df4]
+## SCHEDULE 4 — REGISTRATION OF BROKERS AND DEALERS OF CONTROLLED WASTE[^c-19e86ada3967e05d189041c9d4539df4]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ Regulation 22(7)
 
 - “applicant” means a person who is applying for registration or for renewal of registration as a registered broker or dealer and “application” shall have like meaning;
 - “broker” means any undertaking arranging the recovery or disposal of waste on behalf of others, including such brokers who do not take physical possession of the waste;
-- “carrier” means a person registered as a carrier of controlled waste under Regulation 6 of[^key-0b5fb1b596f863001601ceb80f073bfb] the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999;
+- “carrier” means a person registered as a carrier of controlled waste under Regulation 6 of[^c-0b5fb1b596f863001601ceb80f073bfb] the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999;
 - “date of expiry”, in relation to a broker’s or dealer’s registration—
   - (a) in a case to which sub-paragraph (2) or (3) of paragraph 7 applies, has the meaning given by that sub-paragraph; and
   - (b) in any other case means the date on which the period of three years mentioned in paragraph 7(1) expires;
@@ -92,9 +92,9 @@ Regulation 22(7)
 
 (10) The Department shall charge an applicant in respect of its consideration of his application—
 
-- (a) subject to sub-paragraph (c), in the case of either an application for registration as a broker or dealer or a combined application for registration as both a carrier and broker or dealer, £191[^key-2f6aeaef2c74335678afc52659d1a672];
-- (b) in the case of either an application for the renewal of a registration as a broker or dealer or a combined application for renewal of registration both as a carrier and as a broker or dealer, £96[^key-b3988879b046a918af2c6487dbd22ea3];
-- (c) in the case of an application by a registered carrier for registration as a broker or dealer, £49[^key-1bc72585c39801d3c5cde9d9fffc039f],
+- (a) subject to sub-paragraph (c), in the case of either an application for registration as a broker or dealer or a combined application for registration as both a carrier and broker or dealer, £191[^c-2f6aeaef2c74335678afc52659d1a672];
+- (b) in the case of either an application for the renewal of a registration as a broker or dealer or a combined application for renewal of registration both as a carrier and as a broker or dealer, £96[^c-b3988879b046a918af2c6487dbd22ea3];
+- (c) in the case of an application by a registered carrier for registration as a broker or dealer, £49[^c-1bc72585c39801d3c5cde9d9fffc039f],
 
 and the applicant shall pay the charge upon making the application.
 
@@ -273,12 +273,12 @@ Where a registration ceases to have effect by virtue of paragraph 7, the Departm
 
 ## Annotations
 
-[^key-19e86ada3967e05d189041c9d4539df4]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/493/schedule/4) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2011/127/regulation/41) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+[^c-19e86ada3967e05d189041c9d4539df4]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/493/schedule/4) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2011/127/regulation/41) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-0b5fb1b596f863001601ceb80f073bfb]: Textual amendment: Word in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/1/1) inserted (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2013/241/regulation/9/3)
+[^c-0b5fb1b596f863001601ceb80f073bfb]: Textual amendment: Word in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/1/1) inserted (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2013/241/regulation/9/3)
 
-[^key-2f6aeaef2c74335678afc52659d1a672]: Textual amendment: Sum in [Sch. 4 para. 3(10)(a)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/3/10/a) substituted (19.1.2026) by [The Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/8)](https://www.legislation.gov.uk/nisr/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/8/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/8/regulation/3/2/a)
+[^c-2f6aeaef2c74335678afc52659d1a672]: Textual amendment: Sum in [Sch. 4 para. 3(10)(a)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/3/10/a) substituted (19.1.2026) by [The Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/8)](https://www.legislation.gov.uk/nisr/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/8/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/8/regulation/3/2/a)
 
-[^key-b3988879b046a918af2c6487dbd22ea3]: Textual amendment: Sum in [Sch. 4 para. 3(10)(b)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/3/10/b) substituted (19.1.2026) by [The Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/8)](https://www.legislation.gov.uk/nisr/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/8/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/8/regulation/3/2/b)
+[^c-b3988879b046a918af2c6487dbd22ea3]: Textual amendment: Sum in [Sch. 4 para. 3(10)(b)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/3/10/b) substituted (19.1.2026) by [The Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/8)](https://www.legislation.gov.uk/nisr/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/8/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/8/regulation/3/2/b)
 
-[^key-1bc72585c39801d3c5cde9d9fffc039f]: Textual amendment: Sum in [Sch. 4 para. 3(10)(c)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/3/10/c) substituted (19.1.2026) by [The Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/8)](https://www.legislation.gov.uk/nisr/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/8/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2026/8/regulation/3/2/c)
+[^c-1bc72585c39801d3c5cde9d9fffc039f]: Textual amendment: Sum in [Sch. 4 para. 3(10)(c)](https://www.legislation.gov.uk/nisr/2003/493/schedule/4/paragraph/3/10/c) substituted (19.1.2026) by [The Waste (Fees and Charges) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/8)](https://www.legislation.gov.uk/nisr/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/8/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2026/8/regulation/3/2/c)

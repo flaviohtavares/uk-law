@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if immediately before a chargeable event two or more persons have material interests in the rights under the policy or contract.
 
-(2) Section 470 sets out the circumstances in which persons have such interests for the purposes of this section (which correspond to the circumstances referred to in sections 465 to 468 [^key-9ca1b4c2b40d08d71e6063023e71eb3f]...).
+(2) Section 470 sets out the circumstances in which persons have such interests for the purposes of this section (which correspond to the circumstances referred to in sections 465 to 468 [^c-9ca1b4c2b40d08d71e6063023e71eb3f]...).
 
 (3) Section 463 (income charged) applies in the case of any of the persons with such interests as if the amount of the gain arising when the event occurs were such part of it as is proportionate to the share of the rights to which the person's interest relates.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca1b4c2b40d08d71e6063023e71eb3f]: Textual amendment: Words in s. 469(2) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/12)
+[^c-9ca1b4c2b40d08d71e6063023e71eb3f]: Textual amendment: Words in s. 469(2) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/12)

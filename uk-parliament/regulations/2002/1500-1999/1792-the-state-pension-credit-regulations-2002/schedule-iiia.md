@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
-## SCHEDULE IIIA — Date on which certain fixed length assessed income periods end[^key-1fc1fb17070b873a01189215c1760d57]
+## SCHEDULE IIIA — Date on which certain fixed length assessed income periods end[^c-1fc1fb17070b873a01189215c1760d57]
 
 Regulation 12
 
@@ -74,4 +74,4 @@ Table
 
 ## Annotations
 
-[^key-1fc1fb17070b873a01189215c1760d57]: Textual amendment: Sch. 3A inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations 2015 (S.I. 2015/1529)](https://www.legislation.gov.uk/uksi/2015/1529), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1529/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1529/regulation/2/4)
+[^c-1fc1fb17070b873a01189215c1760d57]: Textual amendment: Sch. 3A inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations 2015 (S.I. 2015/1529)](https://www.legislation.gov.uk/uksi/2015/1529), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1529/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1529/regulation/2/4)

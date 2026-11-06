@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.2. Special objective in extradition proceedings[^key-5b538a7962fbf1721deed642c63c0e5f]
+## 50.2. Special objective in extradition proceedings[^c-5b538a7962fbf1721deed642c63c0e5f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ When exercising a power to which this Part applies, as well as furthering the ov
 
 ## Annotations
 
-[^key-5b538a7962fbf1721deed642c63c0e5f]: Commencement: [Rule 50.2](https://www.legislation.gov.uk/uksi/2025/909/rule/50.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5b538a7962fbf1721deed642c63c0e5f]: Commencement: [Rule 50.2](https://www.legislation.gov.uk/uksi/2025/909/rule/50.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

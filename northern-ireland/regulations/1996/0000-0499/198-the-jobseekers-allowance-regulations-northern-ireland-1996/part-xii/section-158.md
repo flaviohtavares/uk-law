@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 158. Modification of Article 2(2) of the Order[^key-f715c107b5199828e2d3c75eeacce649]
+## 158. Modification of Article 2(2) of the Order[^c-f715c107b5199828e2d3c75eeacce649]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The definition of “trade dispute” in Article 2(2) of the Order (interpretati
 
 ## Annotations
 
-[^key-f715c107b5199828e2d3c75eeacce649]: Commencement: Reg. 158 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f715c107b5199828e2d3c75eeacce649]: Commencement: Reg. 158 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

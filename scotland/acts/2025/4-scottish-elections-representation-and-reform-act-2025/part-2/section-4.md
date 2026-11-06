@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Scottish Parliament: disqualification of members of the House of Lords[^key-d1d2288bedfb05b7c5a96ba8b9dcb260][^key-04d24e6e857474384316f2d76e014ed5]
+## 4. Scottish Parliament: disqualification of members of the House of Lords[^c-d1d2288bedfb05b7c5a96ba8b9dcb260][^c-04d24e6e857474384316f2d76e014ed5]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d2288bedfb05b7c5a96ba8b9dcb260]: Commencement: S. 4 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-d1d2288bedfb05b7c5a96ba8b9dcb260]: Commencement: S. 4 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-04d24e6e857474384316f2d76e014ed5]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/4/section/4) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-04d24e6e857474384316f2d76e014ed5]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/4/section/4) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

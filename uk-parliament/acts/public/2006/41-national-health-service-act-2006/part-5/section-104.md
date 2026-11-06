@@ -33,10 +33,10 @@ summary: ''
 - (g) enforcement,
 - (h) the adjudication of disputes.
 
-(3) Regulations under subsection (2)(d) may make provision as to the circumstances in which the Board[^key-34d59ab2760b4799b9e58df0cfa0841b] may impose a variation of contract terms.
+(3) Regulations under subsection (2)(d) may make provision as to the circumstances in which the Board[^c-34d59ab2760b4799b9e58df0cfa0841b] may impose a variation of contract terms.
 
 (4) Regulations under subsection (1) must make provision as to the right of patients to choose the persons from whom they receive services.
 
 ## Annotations
 
-[^key-34d59ab2760b4799b9e58df0cfa0841b]: Textual amendment: Words in [s. 104(3)](https://www.legislation.gov.uk/ukpga/2006/41/section/104/3) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/46); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-34d59ab2760b4799b9e58df0cfa0841b]: Textual amendment: Words in [s. 104(3)](https://www.legislation.gov.uk/ukpga/2006/41/section/104/3) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/46); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

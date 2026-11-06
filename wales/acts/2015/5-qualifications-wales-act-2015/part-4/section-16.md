@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Approval of a restricted priority qualification developed in accordance with section 15 arrangements[^key-6f745f8557dc8a3e57f70ea48dec2820]
+## 16. Approval of a restricted priority qualification developed in accordance with section 15 arrangements[^c-6f745f8557dc8a3e57f70ea48dec2820]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f745f8557dc8a3e57f70ea48dec2820]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2015/5/section/16) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-6f745f8557dc8a3e57f70ea48dec2820]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2015/5/section/16) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

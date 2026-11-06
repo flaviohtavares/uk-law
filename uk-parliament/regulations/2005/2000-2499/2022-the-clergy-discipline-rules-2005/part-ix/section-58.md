@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 58. President’s powers under section 18 of the Measure[^key-8ca3753162016ca90fbce345fec3b412]
+## 58. President’s powers under section 18 of the Measure[^c-8ca3753162016ca90fbce345fec3b412]
 
 *Extent: E*
 
@@ -25,12 +25,12 @@ summary: ''
 - (a) on the President’s own initiative, or
 - (b) on application by letter by the respondent or the Designated Officer setting out the reasons why the relevant direction should be made,
 
-direct that an allegation of misconduct[^key-c4fec9bece6757da961c94f3f528ee79] is to be withdrawn (whereupon no further action shall be taken in the proceedings) or that an attempt or further attempt is to be made to bring about conciliation.
+direct that an allegation of misconduct[^c-c4fec9bece6757da961c94f3f528ee79] is to be withdrawn (whereupon no further action shall be taken in the proceedings) or that an attempt or further attempt is to be made to bring about conciliation.
 
 (2) The President’s direction shall be made in writing and a copy shall be given to the complainant, the respondent, the Designated Officer, the bishop, the Registrar of Tribunals and the diocesan registrar.
 
 ## Annotations
 
-[^key-8ca3753162016ca90fbce345fec3b412]: Commencement: [Rule 58](https://www.legislation.gov.uk/uksi/2005/2022/rule/58) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-8ca3753162016ca90fbce345fec3b412]: Commencement: [Rule 58](https://www.legislation.gov.uk/uksi/2005/2022/rule/58) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-c4fec9bece6757da961c94f3f528ee79]: Textual amendment: Words in [rule 58(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/58/1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-c4fec9bece6757da961c94f3f528ee79]: Textual amendment: Words in [rule 58(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/58/1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the purposes of this Chapter one person is to be treated as connected with another if—
 
-- (a) they would be treated as connected under section 575[^key-8079b963b0bf5121bcc6eb6fc9425f02], or
+- (a) they would be treated as connected under section 575[^c-8079b963b0bf5121bcc6eb6fc9425f02], or
 - (b) they are to be treated as connected under subsection (2).
 
 (2) If—
@@ -38,4 +38,4 @@ the authority from whom the plant or machinery was acquired is to be treated, in
 
 ## Annotations
 
-[^key-8079b963b0bf5121bcc6eb6fc9425f02]: Textual amendment: Words in s. 232(1)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 403](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/403) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8079b963b0bf5121bcc6eb6fc9425f02]: Textual amendment: Words in s. 232(1)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 403](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/403) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

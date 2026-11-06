@@ -50,7 +50,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-f6946667857f29788c884dd282227a9e]
+### 1. Citation, commencement and extent[^c-f6946667857f29788c884dd282227a9e]
 
 (1) These Regulations may be cited as the Energy Bills Discount Scheme (Non-Standard Cases) Regulations 2023.
 
@@ -58,7 +58,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) They extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-f86f869c031703a53f9a0e835fb1fe86]
+### 2. Interpretation[^c-f86f869c031703a53f9a0e835fb1fe86]
 
 In these Regulations—
 
@@ -125,11 +125,11 @@ In these Regulations—
 - “**the Scheme Terms**” means the document entitled “Energy Bills Discount Scheme for Non-Standard Customers in Great Britain and Northern Ireland: Scheme Terms” dated 24th April 2023 and published by the Secretary of State on that date[^f00010];
 - “**Shipper User**” has the meaning given in the Uniform Network Code (being the code of that name whose preparation and modification is provided for in the conditions of transportation licences granted under section 7 of the Gas Act 1986[^f00011] as it was in force on 1st April 2023[^f00012]);
 - “**standard industrial classification**” means the Office for National Statistics’ “UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007)”[^f00013];
-- “**Trading Party**” has the meaning given in the Balancing and Settlement Code (being the code for governance of electricity balancing and settlement in Great Britain , as it is amended from time to time,[^key-63ebf5022362e9c49d87772b0004840d] that is maintained in accordance with the conditions of licences granted under section 6(1)(da) of the Electricity Act 1989[^key-4c4522612fa293e38879c7c925156a8f].
+- “**Trading Party**” has the meaning given in the Balancing and Settlement Code (being the code for governance of electricity balancing and settlement in Great Britain , as it is amended from time to time,[^c-63ebf5022362e9c49d87772b0004840d] that is maintained in accordance with the conditions of licences granted under section 6(1)(da) of the Electricity Act 1989[^c-4c4522612fa293e38879c7c925156a8f].
 
 ## PART 2 — Relevant agreements
 
-### 3. Interpretation of this Part[^key-5124de0c3d84bbc9950f0db9919aea2e]
+### 3. Interpretation of this Part[^c-5124de0c3d84bbc9950f0db9919aea2e]
 
 In this Part, “**relevant agreement**” means an agreement or other arrangement between—
 
@@ -138,7 +138,7 @@ In this Part, “**relevant agreement**” means an agreement or other arrangeme
 
 in connection with the provision of relevant energy or energy products produced using relevant energy (or both), or related services, to a relevant person.
 
-### 4. Duty of relevant persons to provide information to the Secretary of State[^key-8b64850f64af77a28fb0b25f5b7fbbdc]
+### 4. Duty of relevant persons to provide information to the Secretary of State[^c-8b64850f64af77a28fb0b25f5b7fbbdc]
 
 (1) In this regulation, “**relevant information**” means information or documents that are specified, or of a description specified, in a notice given under paragraph (2).
 
@@ -182,7 +182,7 @@ in connection with the provision of relevant energy or energy products produced 
   - (iii) for any other appropriate remedy or relief;
 - (b) does not apply to so much of the relevant information as the person would in legal proceedings be entitled to refuse to provide on grounds of legal privilege.
 
-### 5. Implied terms[^key-1f30804a99b032d60a5e88831db54548]
+### 5. Implied terms[^c-1f30804a99b032d60a5e88831db54548]
 
 (1) The following terms are implied into each relevant agreement—
 
@@ -215,7 +215,7 @@ Y undertakes to repay to X, or to the Secretary of State, at X’s request, the 
 
 ## PART 3 — Energy and Trade Intensive Industries and Domestic Heat Consumers
 
-### 6. Interpretation of this Part[^key-9e8fb8e24fb384ebaf50c5a1e60c5627]
+### 6. Interpretation of this Part[^c-9e8fb8e24fb384ebaf50c5a1e60c5627]
 
 (1) In this Part—
 
@@ -239,13 +239,13 @@ Y undertakes to repay to X, or to the Secretary of State, at X’s request, the 
 - “qualifying heat consumer”;
 - “QHS certificate”.
 
-### 7. Qualifying claim periods[^key-3f9627ea0aa18ba449d088b0f4f3bbed]
+### 7. Qualifying claim periods[^c-3f9627ea0aa18ba449d088b0f4f3bbed]
 
 (1) A provider must, as soon as reasonably practicable after determining a qualifying claim period in accordance with the Scheme Terms, notify each lower-tier provider of that qualifying claim period.
 
 (2) A provider that is notified by a higher-tier provider of a qualifying claim period must, as soon as reasonably practicable, notify each lower-tier provider of that period.
 
-### 8. Determination and redetermination of ETII and QHS proportions[^key-2694a1ccca86bf6fe095664e6cba9945]
+### 8. Determination and redetermination of ETII and QHS proportions[^c-2694a1ccca86bf6fe095664e6cba9945]
 
 (1) Subject to paragraphs (2) and (3), a provider that is an immediate ETII provider or certified heat supplier must, as soon as reasonably practicable—
 
@@ -293,7 +293,7 @@ the ETII proportion and the QHS proportion for that period.
 - (d) the Secretary of State determines such ETII proportion or QHS proportion under paragraph (5), or
 - (e) the provider is notified by a lower-tier provider of any redetermination of an ETII proportion or QHS proportion in respect of that qualifying claim period.
 
-### 9. ETII and QHS proportions[^key-18748ccb52582a68f9b5c7188f31bdc2]
+### 9. ETII and QHS proportions[^c-18748ccb52582a68f9b5c7188f31bdc2]
 
 (1) The ETII proportion and the QHS proportion applying for any period in respect of a non-standard customer or a provider are determined as follows—
 
@@ -326,7 +326,7 @@ the ETII proportion and the QHS proportion for that period.
 
 ## PART 4 — Pass-through Requirement
 
-### 10. Interpretation of this Part[^key-a640514b391498e6c9b70ef7b1f16121]
+### 10. Interpretation of this Part[^c-a640514b391498e6c9b70ef7b1f16121]
 
 In this Part—
 
@@ -339,7 +339,7 @@ In this Part—
 
   made available by a relevant intermediary to an end user.
 
-### 11. Pass-through requirement[^key-84f0533c0b2ab49104069f2ccaa439dd]
+### 11. Pass-through requirement[^c-84f0533c0b2ab49104069f2ccaa439dd]
 
 (1) A relevant intermediary must not—
 
@@ -371,7 +371,7 @@ In this Part—
 
 (12) Where a relevant intermediary determines a pass-through amount in respect of an end user that is an affected person within the meaning of regulation 8(5), its determination must be consistent with any determination of the Secretary of State under regulation 8(5) relating to that person.
 
-### 12. Calculation of pass-through amount[^key-76d40c6cab1b6a5e77837ee3ca541150]
+### 12. Calculation of pass-through amount[^c-76d40c6cab1b6a5e77837ee3ca541150]
 
 (1) Subject to paragraph (3), the requirement for a relevant intermediary to provide to end users a pass-through amount that is just and reasonable is treated as having been met in any case where—
 
@@ -399,7 +399,7 @@ a pass-through amount is just and reasonable for the purposes of regulation 11(2
 
 (7) A relevant intermediary is entitled to include energy or energy products (or both) used to provide common services to end users as part of its own usage for the purposes of the calculation in paragraphs (2) or (3) to the extent that the cost of such energy or energy products (or both) is or will not be borne by its end users as part of the arrangements in place when the scheme benefit was provided to the relevant intermediary in accordance with regulation 11(5).
 
-### 13. Provision of information to end users[^key-377d174876c3dfa1618081a7864a9cce]
+### 13. Provision of information to end users[^c-377d174876c3dfa1618081a7864a9cce]
 
 (1) Within the period of 30 days beginning with the day on which the scheme benefit was provided to it in accordance with regulation 11(5) or was deemed to have been provided to it in accordance with regulation 11(6), the relevant intermediary must take reasonable steps to notify its end users in writing (where possible using the means of communication it customarily uses to communicate with its end users)—
 
@@ -420,7 +420,7 @@ a pass-through amount is just and reasonable for the purposes of regulation 11(2
   - (i) the tariff adjustment which the relevant intermediary has applied pursuant to these Regulations to effect the pass-through to end users of the scheme benefit which has been provided to it, and
   - (ii) the contact details of the relevant intermediary which can be used should the end user require further information about its entitlements under these Regulations, including the ability to query with the relevant intermediary the basis on which the tariffs have been adjusted to reflect the scheme benefit provided to the relevant intermediary.
 
-### 14. Effecting the pass-through[^key-eecc2ea52dbd426be785b56b44727f3f]
+### 14. Effecting the pass-through[^c-eecc2ea52dbd426be785b56b44727f3f]
 
 (1) Notwithstanding any provision in the contract between the relevant intermediary and the end user at the time the scheme benefit was provided to the relevant intermediary, the relevant intermediary must effect the pass-through so that the pass-through amount is provided to the end user as soon as reasonably practicable.
 
@@ -442,7 +442,7 @@ or a combination of the methods set out in this paragraph.
 
 (6) If the contract between the relevant intermediary and the end user expires or is terminated before the pass-through required by these Regulations is effected (such that the full value of the pass-through amount has not been provided to the end user), the relevant intermediary must effect a pass-through to the end user to reflect the end user’s entitlement (or remaining entitlement) under these Regulations as soon as reasonably practicable following such expiry or termination.
 
-### 15. Enforcement[^key-957471cac8187550998637a8aec5f9a7]
+### 15. Enforcement[^c-957471cac8187550998637a8aec5f9a7]
 
 (1) Where a relevant intermediary fails to effect a pass-through to which an end user is entitled under these Regulations, that end user may, subject to regulation 14(5), recover the relevant pass-through amount from the relevant intermediary as a civil debt.
 
@@ -455,7 +455,7 @@ or a combination of the methods set out in this paragraph.
 
 ## PART 5 — Supplementary
 
-### 16. Amendment of the Energy Bill Relief Scheme (Non-Standard Cases) Regulations 2023[^key-76f32a0c28b285520c3f94e52e92234f]
+### 16. Amendment of the Energy Bill Relief Scheme (Non-Standard Cases) Regulations 2023[^c-76f32a0c28b285520c3f94e52e92234f]
 
 In regulation 2 of the Energy Bill Relief Scheme (Non-Standard) Cases Regulations 2023[^f00020](interpretation), at the end of the definition of “Scheme Terms”, insert “as amended and republished on 24th April 2023”.
 
@@ -499,9 +499,9 @@ A full impact assessment of the effect the Scheme, including the related pass-th
 
 [^f00001]: Footnote: [2022 c. 44](https://www.legislation.gov.uk/ukpga/2022/44).
 
-[^key-f6946667857f29788c884dd282227a9e]: Commencement: Reg. 1 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-f6946667857f29788c884dd282227a9e]: Commencement: Reg. 1 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-f86f869c031703a53f9a0e835fb1fe86]: Commencement: Reg. 2 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-f86f869c031703a53f9a0e835fb1fe86]: Commencement: Reg. 2 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
 [^f00002]: Footnote: Defined in section 28(4) of the Energy Prices Act 2022.
 
@@ -527,44 +527,44 @@ A full impact assessment of the effect the Scheme, including the related pass-th
 
 [^f00013]: Footnote: Published by the Office for National Statistics. For information on how to obtain a hard copy, contact the Office for National Statistics, Classifications and Harmonisation Unit, Government Buildings, Cardiff Road, Newport, South Wales, NP10 8XG. For an electronic copy, see https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.
 
-[^key-63ebf5022362e9c49d87772b0004840d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/464/regulation/2) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/37/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-63ebf5022362e9c49d87772b0004840d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/464/regulation/2) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/37/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-4c4522612fa293e38879c7c925156a8f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/464/regulation/2) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [37(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/37/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-4c4522612fa293e38879c7c925156a8f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/464/regulation/2) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [37(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/37/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-5124de0c3d84bbc9950f0db9919aea2e]: Commencement: Reg. 3 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-5124de0c3d84bbc9950f0db9919aea2e]: Commencement: Reg. 3 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-8b64850f64af77a28fb0b25f5b7fbbdc]: Commencement: Reg. 4 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-8b64850f64af77a28fb0b25f5b7fbbdc]: Commencement: Reg. 4 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
 [^f00016]: Footnote: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-1f30804a99b032d60a5e88831db54548]: Commencement: Reg. 5 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-1f30804a99b032d60a5e88831db54548]: Commencement: Reg. 5 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-9e8fb8e24fb384ebaf50c5a1e60c5627]: Commencement: Reg. 6 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-9e8fb8e24fb384ebaf50c5a1e60c5627]: Commencement: Reg. 6 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
 [^f00017]: Footnote: See section 22 of the Scheme Terms.
 
-[^key-3f9627ea0aa18ba449d088b0f4f3bbed]: Commencement: Reg. 7 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-3f9627ea0aa18ba449d088b0f4f3bbed]: Commencement: Reg. 7 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-2694a1ccca86bf6fe095664e6cba9945]: Commencement: Reg. 8 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-2694a1ccca86bf6fe095664e6cba9945]: Commencement: Reg. 8 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-18748ccb52582a68f9b5c7188f31bdc2]: Commencement: Reg. 9 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-18748ccb52582a68f9b5c7188f31bdc2]: Commencement: Reg. 9 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
 [^f00018]: Footnote: See sections 3 and 6 of the Scheme Terms.
 
-[^key-a640514b391498e6c9b70ef7b1f16121]: Commencement: Reg. 10 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-a640514b391498e6c9b70ef7b1f16121]: Commencement: Reg. 10 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-84f0533c0b2ab49104069f2ccaa439dd]: Commencement: Reg. 11 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-84f0533c0b2ab49104069f2ccaa439dd]: Commencement: Reg. 11 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-76d40c6cab1b6a5e77837ee3ca541150]: Commencement: Reg. 12 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-76d40c6cab1b6a5e77837ee3ca541150]: Commencement: Reg. 12 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-377d174876c3dfa1618081a7864a9cce]: Commencement: Reg. 13 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-377d174876c3dfa1618081a7864a9cce]: Commencement: Reg. 13 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-eecc2ea52dbd426be785b56b44727f3f]: Commencement: Reg. 14 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-eecc2ea52dbd426be785b56b44727f3f]: Commencement: Reg. 14 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
-[^key-957471cac8187550998637a8aec5f9a7]: Commencement: Reg. 15 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-957471cac8187550998637a8aec5f9a7]: Commencement: Reg. 15 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
 [^f00019]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-76f32a0c28b285520c3f94e52e92234f]: Commencement: Reg. 16 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
+[^c-76f32a0c28b285520c3f94e52e92234f]: Commencement: Reg. 16 in force at 26.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/464/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2023/9](https://www.legislation.gov.uk/uksi/2023/9).

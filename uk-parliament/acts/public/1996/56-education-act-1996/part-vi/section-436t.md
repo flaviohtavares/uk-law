@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436T. Processing of information[^key-4063da525cbbf6dcd3954f1ebd4a2038]
+## 436T. Processing of information[^c-4063da525cbbf6dcd3954f1ebd4a2038]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4063da525cbbf6dcd3954f1ebd4a2038]: Textual amendment: S. 436T and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 40](https://www.legislation.gov.uk/ukpga/2026/21/section/40), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-4063da525cbbf6dcd3954f1ebd4a2038]: Textual amendment: S. 436T and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 40](https://www.legislation.gov.uk/ukpga/2026/21/section/40), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

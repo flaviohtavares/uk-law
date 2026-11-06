@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 100A. Standard and late temporary event notices[^key-9436b31bac292b688949876338e2993d]
+## 100A. Standard and late temporary event notices[^c-9436b31bac292b688949876338e2993d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9436b31bac292b688949876338e2993d]: Textual amendment: [S. 100A](https://www.legislation.gov.uk/ukpga/2003/17/section/100A) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-9436b31bac292b688949876338e2993d]: Textual amendment: [S. 100A](https://www.legislation.gov.uk/ukpga/2003/17/section/100A) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

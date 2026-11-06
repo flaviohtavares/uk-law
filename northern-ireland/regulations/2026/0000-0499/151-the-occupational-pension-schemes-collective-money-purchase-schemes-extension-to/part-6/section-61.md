@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Amendment of the Pensions (Northern Ireland) Order 2005[^key-9ba6ca7986f0477b58a65b6625a5a09c]
+## 61. Amendment of the Pensions (Northern Ireland) Order 2005[^c-9ba6ca7986f0477b58a65b6625a5a09c]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9ba6ca7986f0477b58a65b6625a5a09c]: Commencement: Reg. 61 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-9ba6ca7986f0477b58a65b6625a5a09c]: Commencement: Reg. 61 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00075]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Articles 2 and 88 were amended by Schedule 6 to the Pension Schemes Act 2021
 

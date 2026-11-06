@@ -29,39 +29,39 @@ London Regional Transport Act 1996 (repealed)
 
 1996 c. 21
 
-[^key-aa48df0e741c3206340df63a3f9a8ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa48df0e741c3206340df63a3f9a8ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Extension of general powers.[^key-aa48df0e741c3206340df63a3f9a8ca7][^key-aa48df0e741c3206340df63a3f9a8ca7]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Extension of operating powers.[^key-aa48df0e741c3206340df63a3f9a8ca7][^key-aa48df0e741c3206340df63a3f9a8ca7]
+## 1. Extension of general powers.[^c-aa48df0e741c3206340df63a3f9a8ca7][^c-aa48df0e741c3206340df63a3f9a8ca7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supplementary transfers of functions.[^key-aa48df0e741c3206340df63a3f9a8ca7][^key-aa48df0e741c3206340df63a3f9a8ca7]
+## 2. Extension of operating powers.[^c-aa48df0e741c3206340df63a3f9a8ca7][^c-aa48df0e741c3206340df63a3f9a8ca7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Minor and consequential amendments.[^key-aa48df0e741c3206340df63a3f9a8ca7][^key-aa48df0e741c3206340df63a3f9a8ca7]
+## 3. Supplementary transfers of functions.[^c-aa48df0e741c3206340df63a3f9a8ca7][^c-aa48df0e741c3206340df63a3f9a8ca7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Financial provision.[^key-aa48df0e741c3206340df63a3f9a8ca7][^key-aa48df0e741c3206340df63a3f9a8ca7]
+## 4. Minor and consequential amendments.[^c-aa48df0e741c3206340df63a3f9a8ca7][^c-aa48df0e741c3206340df63a3f9a8ca7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title, commencement and extent.[^key-aa48df0e741c3206340df63a3f9a8ca7][^key-aa48df0e741c3206340df63a3f9a8ca7]
+## 5. Financial provision.[^c-aa48df0e741c3206340df63a3f9a8ca7][^c-aa48df0e741c3206340df63a3f9a8ca7]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Short title, commencement and extent.[^c-aa48df0e741c3206340df63a3f9a8ca7][^c-aa48df0e741c3206340df63a3f9a8ca7]
 
 **No longer in force.**
 
@@ -69,4 +69,4 @@ London Regional Transport Act 1996 (repealed)
 
 ## Annotations
 
-[^key-aa48df0e741c3206340df63a3f9a8ca7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1996/21) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/5) Group 6
+[^c-aa48df0e741c3206340df63a3f9a8ca7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1996/21) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/5) Group 6

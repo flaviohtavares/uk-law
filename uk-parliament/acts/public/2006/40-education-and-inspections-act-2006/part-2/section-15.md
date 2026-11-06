@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Proposals for discontinuance of schools maintained by local authority[^key-3cd2090bfbec141feb2186506e1b92d5][^key-2800dc56627d43968bbf637a79204e08][^key-0ea7acc4831332590d0c9da4689eca3c]
+## 15. Proposals for discontinuance of schools maintained by local authority[^c-3cd2090bfbec141feb2186506e1b92d5][^c-2800dc56627d43968bbf637a79204e08][^c-0ea7acc4831332590d0c9da4689eca3c]
 
 *Extent: E+W*
 
@@ -69,8 +69,8 @@ is a reference to the authority ceasing to maintain the school.
 
 ## Annotations
 
-[^key-3cd2090bfbec141feb2186506e1b92d5]: Commencement: S. 15 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(b)](https://www.legislation.gov.uk/uksi/2007/935/article/7/b)
+[^c-3cd2090bfbec141feb2186506e1b92d5]: Commencement: S. 15 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(b)](https://www.legislation.gov.uk/uksi/2007/935/article/7/b)
 
-[^key-2800dc56627d43968bbf637a79204e08]: Modification: Ss. 15-17 excluded (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [ss. 6(9)](https://www.legislation.gov.uk/ukpga/2010/32/section/6/9), [19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-2800dc56627d43968bbf637a79204e08]: Modification: Ss. 15-17 excluded (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [ss. 6(9)](https://www.legislation.gov.uk/ukpga/2010/32/section/6/9), [19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

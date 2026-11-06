@@ -36,7 +36,7 @@ Countryside
 
 Marine Management
 
-[^key-c73aa4ab9560971749a37488cf298915]The Conservation of Habitats and Species (Amendment) Regulations 2012
+[^c-c73aa4ab9560971749a37488cf298915]The Conservation of Habitats and Species (Amendment) Regulations 2012
 
 Made
 
@@ -72,45 +72,45 @@ In exercise of the powers conferred on them by section 2(2) of the European Comm
 
 ## 2. Amendment of the 2010 Regulations
 
-The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affected by repeal, see note)*[^key-c73aa4ab9560971749a37488cf298915]
+The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affected by repeal, see note)*[^c-c73aa4ab9560971749a37488cf298915]
 
-## 3. Amendment of regulation 2[^key-c73aa4ab9560971749a37488cf298915]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Amendment of regulation 3[^key-c73aa4ab9560971749a37488cf298915]
+## 3. Amendment of regulation 2[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 5[^key-c73aa4ab9560971749a37488cf298915]
+## 4. Amendment of regulation 3[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 7[^key-c73aa4ab9560971749a37488cf298915]
+## 5. Amendment of regulation 5[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 8[^key-c73aa4ab9560971749a37488cf298915]
+## 6. Amendment of regulation 7[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Substitution of regulation 9[^key-c73aa4ab9560971749a37488cf298915]
+## 7. Amendment of regulation 8[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 12A[^key-c73aa4ab9560971749a37488cf298915]
+## 8. Substitution of regulation 9[^c-c73aa4ab9560971749a37488cf298915]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of regulation 12A[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -118,7 +118,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 18[^key-c73aa4ab9560971749a37488cf298915]
+## 10. Amendment of regulation 18[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -126,7 +126,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 19[^key-c73aa4ab9560971749a37488cf298915]
+## 11. Amendment of regulation 19[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -134,7 +134,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation of regulation 20[^key-c73aa4ab9560971749a37488cf298915]
+## 12. Revocation of regulation 20[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -142,7 +142,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of regulation 21[^key-c73aa4ab9560971749a37488cf298915]
+## 13. Amendment of regulation 21[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -150,7 +150,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Revocation of regulation 22[^key-c73aa4ab9560971749a37488cf298915]
+## 14. Revocation of regulation 22[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -158,7 +158,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Substitution of regulation 23[^key-c73aa4ab9560971749a37488cf298915]
+## 15. Substitution of regulation 23[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -166,7 +166,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of regulation 36[^key-c73aa4ab9560971749a37488cf298915]
+## 16. Amendment of regulation 36[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -174,7 +174,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of regulation 38[^key-c73aa4ab9560971749a37488cf298915]
+## 17. Amendment of regulation 38[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -182,7 +182,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of regulation 58[^key-c73aa4ab9560971749a37488cf298915]
+## 18. Amendment of regulation 58[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -190,25 +190,25 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of regulation 60[^key-c73aa4ab9560971749a37488cf298915]
+## 19. Amendment of regulation 60[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of regulation 61[^key-c73aa4ab9560971749a37488cf298915]
+## 20. Amendment of regulation 61[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Amendment of regulation 67[^key-c73aa4ab9560971749a37488cf298915]
+## 21. Amendment of regulation 67[^c-c73aa4ab9560971749a37488cf298915]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Insertion of regulation 129A[^key-c73aa4ab9560971749a37488cf298915]
+## 22. Insertion of regulation 129A[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -216,7 +216,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Addition of regulation 135[^key-c73aa4ab9560971749a37488cf298915]
+## 23. Addition of regulation 135[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: E+W*
 
@@ -224,7 +224,7 @@ The 2010 Regulations are amended in accordance with regulations 3 to 24. *(affec
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Amendment of Schedule 6[^key-c73aa4ab9560971749a37488cf298915]
+## 24. Amendment of Schedule 6[^c-c73aa4ab9560971749a37488cf298915]
 
 *Extent: S*
 
@@ -286,7 +286,7 @@ A transposition note and full impact assessment of the effect that this instrume
 
 ## Annotations
 
-[^key-c73aa4ab9560971749a37488cf298915]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1927) revoked in part (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-c73aa4ab9560971749a37488cf298915]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1927) revoked in part (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
 
 [^c21330531]: Marginal citation: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), amended by [S.I. 2011/603](https://www.legislation.gov.uk/uksi/2011/603) and 625 and 2012/637.
 

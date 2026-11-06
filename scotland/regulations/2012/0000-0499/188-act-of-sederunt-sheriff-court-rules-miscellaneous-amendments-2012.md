@@ -45,7 +45,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001] and section 114 of the Adoption and Children (Scotland) Act 2007[^f00002] as modified and applied in relation to parental orders under section 54 of the Human Fertilisation and Embryology Act 2008[^f00003] and applications for such orders by regulation 4 of, and Schedule 3 to, the Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^f00004] and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation[^key-9de9142e57b74ffd3ec67bbb18926652]
+## 1. Citation, commencement and interpretation[^c-9de9142e57b74ffd3ec67bbb18926652]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 and subject to paragraph 15, comes into force on 1st August 2012.
 
@@ -53,7 +53,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (3) In this Act of Sederunt the “Ordinary Cause Rules” means the Ordinary Cause Rules in Schedule 1 to the Sheriff Courts (Scotland) Act 1907[^f00005].
 
-## 2. Ordinary Cause Rules: pronouncement of decision[^key-d1746938aead9ac9bfe82e37f8636676]
+## 2. Ordinary Cause Rules: pronouncement of decision[^c-d1746938aead9ac9bfe82e37f8636676]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -106,7 +106,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 3. Ordinary Cause Rules: summary decree[^key-b6d60090bf6a19b93d6b4fd0e02eb872]
+## 3. Ordinary Cause Rules: summary decree[^c-b6d60090bf6a19b93d6b4fd0e02eb872]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -141,7 +141,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (3) Rule 40.11 (applications for summary decree in a commercial action) is omitted.
 
-## 4. Family actions: financial information[^key-5ba59fe6dcf4b228cff85caa8d1d4e99]
+## 4. Family actions: financial information[^c-5ba59fe6dcf4b228cff85caa8d1d4e99]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -158,7 +158,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 - (a) after paragraph (3) insert—
 
-  > (4) Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii) [^key-cafd2cfacb29e6876b23093c6676801f]..., the defender must lodge a completed Form F13A signed by the defender with the defences, minute of amendment or answers as the case may be.
+  > (4) Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii) [^c-cafd2cfacb29e6876b23093c6676801f]..., the defender must lodge a completed Form F13A signed by the defender with the defences, minute of amendment or answers as the case may be.
 
   ;
 - (b) the heading of that rule becomes “Notice of intention to defend and defences etc.”.
@@ -176,7 +176,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 - (a) after paragraph (3) insert—
 
-  > (4) Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii) [^key-df1cfcd1931107912b0c4cb1514b1a25]..., the defender must lodge a completed Form CP13A signed by the defender with the defences, minute of amendment or answers as the case may be.
+  > (4) Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii) [^c-df1cfcd1931107912b0c4cb1514b1a25]..., the defender must lodge a completed Form CP13A signed by the defender with the defences, minute of amendment or answers as the case may be.
 
   ;
 - (b) the heading of that rule becomes “Notice of intention to defend and defences etc.”.
@@ -186,7 +186,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 - (a) after Form F13 (Form of intimation to person with whom an improper association is alleged to have occurred) insert Form F13A (Form of statement of matrimonial property);
 - (b) after Form CP13 (Form of intimation to person with whom an association is alleged to have occurred in a civil partnership action)[^f00010] insert Form CP13A (Form of statement of civil partnership property).
 
-## 5. Ordinary Cause Rules: Applications under section 28 or 29 of the Family Law (Scotland) Act 2006[^key-74f321ddd351af4b954b88b87b949c0d]
+## 5. Ordinary Cause Rules: Applications under section 28 or 29 of the Family Law (Scotland) Act 2006[^c-74f321ddd351af4b954b88b87b949c0d]
 
 (1) Chapter 33 (family actions)[^f00011] of the Ordinary Cause Rules is amended in accordance with the following subparagraphs.
 
@@ -268,17 +268,17 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (10) In rule 33.37(2)(b) (decree by default)[^f00020] after “(m)” insert “or (q)”.
 
-## 6.[^key-a99178fd8c113f020ee111f18bc33537]
+## 6.[^c-a99178fd8c113f020ee111f18bc33537]
 
 (1) Chapter 33A of the Ordinary Cause Rules (civil partnership actions)[^f00021] is amended in accordance with the following subparagraph.
 
 (2) In rule 33A.16 (appointment of *curators ad litem* to defenders)[^f00022], for “This rule applies to an action of dissolution or declarator of nullity of civil partnership or separation of civil partners” substitute “This rule applies to a civil partnership action”.
 
-## 7.[^key-f0a07ff0f8d57e4fbf5cd097ac49b82d]
+## 7.[^c-f0a07ff0f8d57e4fbf5cd097ac49b82d]
 
 Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabitants)[^f00023] is omitted.
 
-## 8.[^key-709145e04578fe8b2b7925fa50b82187]
+## 8.[^c-709145e04578fe8b2b7925fa50b82187]
 
 (1) Appendix 1 to the Ordinary Cause Rules is amended in accordance with the following subparagraphs.
 
@@ -289,7 +289,7 @@ Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabita
 
 (3) The order of the Forms is changed so that Form F12E appears after Form F12D (Form of intimation to Board of the Pension Protection Fund in relation to an order under section 12B(2) of the Family Law (Scotland) Act 1985)[^f00024].
 
-## 9. Simplified dissolution of civil partnership applications[^key-df6de5b9e894e24ee5ccba2813844e88]
+## 9. Simplified dissolution of civil partnership applications[^c-df6de5b9e894e24ee5ccba2813844e88]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -297,7 +297,7 @@ Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabita
 
 (3) In rule 33A.70(1)(b)(i) (citation where address not known)[^f00026] for “of section 101(7) of the Act of 2004” substitute “of section 12(4)(b) of the Act of 1995”.
 
-## 10. Ordinary Cause Rules: Admiralty actions[^key-266469a32d165e9666e3f70c370d676c]
+## 10. Ordinary Cause Rules: Admiralty actions[^c-266469a32d165e9666e3f70c370d676c]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -544,7 +544,7 @@ Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabita
 
 (5) In Appendix 1, after Form OFT1 (Form of notice of intimation to the Office of Fair Trading)[^f00031], insert the Forms set out in Schedule 2 to this Act of Sederunt.
 
-## 11. Summary Cause Rules: Housing (Scotland) Act 2001[^key-6ab3af173ce9f49ee24c670fc017609d]
+## 11. Summary Cause Rules: Housing (Scotland) Act 2001[^c-6ab3af173ce9f49ee24c670fc017609d]
 
 (1) Appendix 1 of Schedule 1 to the Act of Sederunt (Summary Cause Rules) 2002[^f00032] is amended in accordance with the following subparagraphs.
 
@@ -552,7 +552,7 @@ Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabita
 
 (3) After Form 28B insert Form 28BA (Form of extract decree – recovery of possession of heritable property in accordance with section 16(5A) of the Housing (Scotland) Act 2001[^f00033] (non-payment of rent)) set out in Schedule 3 to this Act of Sederunt.
 
-## 12. Other minor amendments[^key-5f8f1ca3a75b07b5a13e8852201259d7]
+## 12. Other minor amendments[^c-5f8f1ca3a75b07b5a13e8852201259d7]
 
 (1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00034] is amended in accordance with the following subparagraphs.
 
@@ -563,19 +563,19 @@ Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabita
 - (a) for “Chapter” substitute “Part”;
 - (b) the heading becomes “(Interpretation and application of this Part)”.
 
-## 13.[^key-446b03d2140fc15e842fa562ddd8fec6]
+## 13.[^c-446b03d2140fc15e842fa562ddd8fec6]
 
 (1) The Act of Sederunt (Child Care and Maintenance Rules) 1997[^f00036] is amended in accordance with the following subparagraph.
 
 (2) In Schedule 1, in paragraph numbered 7 of Form 22 (Form of petition for parental order under section 54 of the Human Fertilisation and Embryology Act 2008) for “other than the female petitioner” substitute “who is not one of the petitioners”.
 
-## 14.[^key-aa9c4aef446ad755345ada7a644f3050]
+## 14.[^c-aa9c4aef446ad755345ada7a644f3050]
 
 (1) The Act of Sederunt (Summary Cause Rules Amendment) (Personal Injuries Actions) 2012[^f00037] is amended in accordance with the following subparagraph.
 
 (2) In Schedule 1, in Form 1f (Summary Cause Summons – Personal Injuries Action) for the sub-heading substitute “DEFENDER’S COPY: Claim for payment of money in a personal injuries action (where time to pay direction may not be applied for)”.
 
-## 15. Transitional and saving[^key-1a69d819c8f89ebec9bed549ca884533]
+## 15. Transitional and saving[^c-1a69d819c8f89ebec9bed549ca884533]
 
 The amendments made to the Ordinary Cause Rules by paragraphs 2 to 9 inclusive shall only have effect in respect of actions raised on or after 1st August 2012.
 
@@ -589,15 +589,15 @@ Edinburgh
 
 6th June 2012
 
-## SCHEDULE 1[^key-782bbef60602c047ef0c9d9354e65133]
+## SCHEDULE 1[^c-782bbef60602c047ef0c9d9354e65133]
 
 Paragraph 4(6)
 
-## SCHEDULE 2[^key-a7ae7a8286e5b0970350b3ff9677e6a6]
+## SCHEDULE 2[^c-a7ae7a8286e5b0970350b3ff9677e6a6]
 
 Paragraph 10(5)
 
-## SCHEDULE 3[^key-b82663cb4da86a6118f5a270d988b338]
+## SCHEDULE 3[^c-b82663cb4da86a6118f5a270d988b338]
 
 Paragraph 11(3)
 
@@ -639,31 +639,31 @@ The Act of Sederunt comes into force on 1st August 2012.
 
 [^f00004]: Footnote: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).
 
-[^key-9de9142e57b74ffd3ec67bbb18926652]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-9de9142e57b74ffd3ec67bbb18926652]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00005]: Footnote: [1907 c.51](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and amended by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167) and [2445](https://www.legislation.gov.uk/uksi/1996/2445); [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239) and [408](https://www.legislation.gov.uk/ssi/2000/408); [2001/8](https://www.legislation.gov.uk/ssi/2001/8) and [144](https://www.legislation.gov.uk/ssi/2001/144); [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [128](https://www.legislation.gov.uk/ssi/2002/128) and [560](https://www.legislation.gov.uk/ssi/2002/560); [2003/25](https://www.legislation.gov.uk/ssi/2003/25), [26](https://www.legislation.gov.uk/ssi/2003/26) and [601](https://www.legislation.gov.uk/ssi/2003/601); [2004/197](https://www.legislation.gov.uk/ssi/2004/197) and [350](https://www.legislation.gov.uk/ssi/2004/350); [2005/20](https://www.legislation.gov.uk/ssi/2005/20), [189](https://www.legislation.gov.uk/ssi/2005/189), [638](https://www.legislation.gov.uk/ssi/2005/638) and [648](https://www.legislation.gov.uk/ssi/2005/648); [2006/198](https://www.legislation.gov.uk/ssi/2006/198), [207](https://www.legislation.gov.uk/ssi/2006/207), [293](https://www.legislation.gov.uk/ssi/2006/293), [410](https://www.legislation.gov.uk/ssi/2006/410) and [509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/121](https://www.legislation.gov.uk/ssi/2008/121), [223](https://www.legislation.gov.uk/ssi/2008/223) and [365](https://www.legislation.gov.uk/ssi/2008/365); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [164](https://www.legislation.gov.uk/ssi/2009/164), [284](https://www.legislation.gov.uk/ssi/2009/284), [285](https://www.legislation.gov.uk/ssi/2009/285), [294](https://www.legislation.gov.uk/ssi/2009/294) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/120](https://www.legislation.gov.uk/ssi/2010/120), [279](https://www.legislation.gov.uk/ssi/2010/279), [324](https://www.legislation.gov.uk/ssi/2010/324), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); and [2011/193](https://www.legislation.gov.uk/ssi/2011/193), [289](https://www.legislation.gov.uk/ssi/2011/289) and [386](https://www.legislation.gov.uk/ssi/2011/386).
 
-[^key-d1746938aead9ac9bfe82e37f8636676]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/188/paragraph/2) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-d1746938aead9ac9bfe82e37f8636676]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/188/paragraph/2) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00006]: Footnote: Rule 12.2 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-b6d60090bf6a19b93d6b4fd0e02eb872]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-b6d60090bf6a19b93d6b4fd0e02eb872]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
-[^key-5ba59fe6dcf4b228cff85caa8d1d4e99]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-5ba59fe6dcf4b228cff85caa8d1d4e99]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00007]: Footnote: Rule 33.9 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
 [^f00008]: Footnote: Rule 33.34 was amended by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167).
 
-[^key-cafd2cfacb29e6876b23093c6676801f]: Textual amendment: Words in [para. 4(3)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/a) omitted (31.7.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/a)
+[^c-cafd2cfacb29e6876b23093c6676801f]: Textual amendment: Words in [para. 4(3)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/a) omitted (31.7.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/a)
 
 [^f00009]: Footnote: Rule 33A.9 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-df1cfcd1931107912b0c4cb1514b1a25]: Textual amendment: Words in [para. 4(5)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/a) omitted (31.7.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/b)
+[^c-df1cfcd1931107912b0c4cb1514b1a25]: Textual amendment: Words in [para. 4(5)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/a) omitted (31.7.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/b)
 
 [^f00010]: Footnote: Form CP13 was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638).
 
-[^key-74f321ddd351af4b954b88b87b949c0d]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-74f321ddd351af4b954b88b87b949c0d]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00011]: Footnote: Chapter 33 was last amended by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
 
@@ -685,27 +685,27 @@ The Act of Sederunt comes into force on 1st August 2012.
 
 [^f00020]: Footnote: Rule 33.37 was last amended by [S.S.I. 2010/416](https://www.legislation.gov.uk/ssi/2010/416).
 
-[^key-a99178fd8c113f020ee111f18bc33537]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/188/paragraph/6) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-a99178fd8c113f020ee111f18bc33537]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/188/paragraph/6) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00021]: Footnote: Chapter 33A was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638) and last amended by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
 
 [^f00022]: Footnote: Rule 33A.16 was amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-f0a07ff0f8d57e4fbf5cd097ac49b82d]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/188/paragraph/7) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-f0a07ff0f8d57e4fbf5cd097ac49b82d]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/188/paragraph/7) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00023]: Footnote: Chapter 33B was inserted by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-709145e04578fe8b2b7925fa50b82187]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-709145e04578fe8b2b7925fa50b82187]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00024]: Footnote: Form F12D was inserted by [S.S.I. 2011/193](https://www.legislation.gov.uk/ssi/2011/193).
 
-[^key-df6de5b9e894e24ee5ccba2813844e88]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-df6de5b9e894e24ee5ccba2813844e88]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00025]: Footnote: Rule 33A.66 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
 [^f00026]: Footnote: Rule 33A.70 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-266469a32d165e9666e3f70c370d676c]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-266469a32d165e9666e3f70c370d676c]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00027]: Footnote: Rule 5.1 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
@@ -717,30 +717,30 @@ The Act of Sederunt comes into force on 1st August 2012.
 
 [^f00031]: Footnote: Form OFT1 was inserted by [S.S.I. 2006/293](https://www.legislation.gov.uk/ssi/2006/293).
 
-[^key-6ab3af173ce9f49ee24c670fc017609d]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2012/188/paragraph/11) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-6ab3af173ce9f49ee24c670fc017609d]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2012/188/paragraph/11) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00032]: Footnote: [S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), amended by [S.S.I. 2002/516](https://www.legislation.gov.uk/ssi/2002/516); [2003/26](https://www.legislation.gov.uk/ssi/2003/26) and [601](https://www.legislation.gov.uk/ssi/2003/601); [2004/197](https://www.legislation.gov.uk/ssi/2004/197); [2005/648](https://www.legislation.gov.uk/ssi/2005/648); [2006/509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/121](https://www.legislation.gov.uk/ssi/2008/121), [223](https://www.legislation.gov.uk/ssi/2008/223) and [365](https://www.legislation.gov.uk/ssi/2008/365); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/279](https://www.legislation.gov.uk/ssi/2010/279), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [289](https://www.legislation.gov.uk/ssi/2011/289); and [2012/144](https://www.legislation.gov.uk/ssi/2012/144).
 
 [^f00033]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10). Section 16(5A) is inserted by the Housing (Scotland) Act [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17), section 153 and comes into force on 1st August 2012.
 
-[^key-5f8f1ca3a75b07b5a13e8852201259d7]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2012/188/paragraph/12) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-5f8f1ca3a75b07b5a13e8852201259d7]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2012/188/paragraph/12) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00034]: Footnote: [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/148](https://www.legislation.gov.uk/ssi/2000/148) and [387](https://www.legislation.gov.uk/ssi/2000/387); [2001/142](https://www.legislation.gov.uk/ssi/2001/142); [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146) and [563](https://www.legislation.gov.uk/ssi/2002/563); [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556); [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455); [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [445](https://www.legislation.gov.uk/ssi/2005/445), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648); [2006/198](https://www.legislation.gov.uk/ssi/2006/198), [410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [233](https://www.legislation.gov.uk/ssi/2007/233), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/9](https://www.legislation.gov.uk/ssi/2008/9), [41](https://www.legislation.gov.uk/ssi/2008/41), [111](https://www.legislation.gov.uk/ssi/2008/111), [223](https://www.legislation.gov.uk/ssi/2008/223), [335](https://www.legislation.gov.uk/ssi/2008/335), [365](https://www.legislation.gov.uk/ssi/2008/365) and [375](https://www.legislation.gov.uk/ssi/2008/375); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [109](https://www.legislation.gov.uk/ssi/2009/109), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294), [320](https://www.legislation.gov.uk/ssi/2009/320) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/324](https://www.legislation.gov.uk/ssi/2010/324), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); and [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [386](https://www.legislation.gov.uk/ssi/2011/386).
 
 [^f00035]: Footnote: Chapter XLI was inserted by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
 
-[^key-446b03d2140fc15e842fa562ddd8fec6]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2012/188/paragraph/13) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-446b03d2140fc15e842fa562ddd8fec6]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2012/188/paragraph/13) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00036]: Footnote: [S.I. 1997/291](https://www.legislation.gov.uk/uksi/1997/291). Amended by [S.I. 1998/2130](https://www.legislation.gov.uk/uksi/1998/2130); and by [S.S.I. 2000/388](https://www.legislation.gov.uk/ssi/2000/388); [2002/560](https://www.legislation.gov.uk/ssi/2002/560); [2003/44](https://www.legislation.gov.uk/ssi/2003/44), [2005/190](https://www.legislation.gov.uk/ssi/2005/190); [2006/75](https://www.legislation.gov.uk/ssi/2006/75) and [411](https://www.legislation.gov.uk/ssi/2006/411); [2007/468](https://www.legislation.gov.uk/ssi/2007/468); [2009/29](https://www.legislation.gov.uk/ssi/2009/29), [284](https://www.legislation.gov.uk/ssi/2009/284) and [449](https://www.legislation.gov.uk/ssi/2009/449); [2010/137](https://www.legislation.gov.uk/ssi/2010/137) and [279](https://www.legislation.gov.uk/ssi/2010/279); and [2011/386](https://www.legislation.gov.uk/ssi/2011/386).
 
-[^key-aa9c4aef446ad755345ada7a644f3050]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2012/188/paragraph/14) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-aa9c4aef446ad755345ada7a644f3050]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2012/188/paragraph/14) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
 [^f00037]: Footnote: [S.S.I. 2012/144](https://www.legislation.gov.uk/ssi/2012/144).
 
-[^key-1a69d819c8f89ebec9bed549ca884533]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-1a69d819c8f89ebec9bed549ca884533]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
-[^key-782bbef60602c047ef0c9d9354e65133]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-782bbef60602c047ef0c9d9354e65133]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
-[^key-a7ae7a8286e5b0970350b3ff9677e6a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/188/schedule/2) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-a7ae7a8286e5b0970350b3ff9677e6a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/188/schedule/2) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
 
-[^key-b82663cb4da86a6118f5a270d988b338]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/188/schedule/3) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+[^c-b82663cb4da86a6118f5a270d988b338]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/188/schedule/3) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)

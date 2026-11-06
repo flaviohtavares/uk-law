@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Determining the housing reduction[^key-8e6d7b1b00b3aa62c8c780676e569761]
+## 144. Determining the housing reduction[^c-8e6d7b1b00b3aa62c8c780676e569761]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e6d7b1b00b3aa62c8c780676e569761]: Commencement: Reg. 144 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-8e6d7b1b00b3aa62c8c780676e569761]: Commencement: Reg. 144 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

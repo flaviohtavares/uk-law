@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123C. Exercise of administrative sanctions[^key-c896184dfa6bee8c57153acdb689ff02]
+## 123C. Exercise of administrative sanctions[^c-c896184dfa6bee8c57153acdb689ff02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any one or more of the powers under sections 123, 123A and 123B may be exercised
 
 ## Annotations
 
-[^key-c896184dfa6bee8c57153acdb689ff02]: Textual amendment: Ss. 123-123C and cross-heading substituted for s. 123 and cross-heading (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/5)
+[^c-c896184dfa6bee8c57153acdb689ff02]: Textual amendment: Ss. 123-123C and cross-heading substituted for s. 123 and cross-heading (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/5)

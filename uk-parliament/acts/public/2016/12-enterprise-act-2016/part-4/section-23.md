@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. The Institute for Apprenticeships: transitional provision[^key-32df114aeca4421c2b4fcb216892eb7f]
+## 23. The Institute for Apprenticeships: transitional provision[^c-32df114aeca4421c2b4fcb216892eb7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32df114aeca4421c2b4fcb216892eb7f]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/2016/12/section/23) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/5) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-32df114aeca4421c2b4fcb216892eb7f]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/2016/12/section/23) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/5) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)

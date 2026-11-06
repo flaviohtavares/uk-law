@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 245. Restrictions on contracting out[^c20309361][^c20309401][^c22542391][^key-441f9f7b41d317923aa6d7918eec000c]
+## 245. Restrictions on contracting out[^c20309361][^c20309401][^c22542391][^c-441f9f7b41d317923aa6d7918eec000c]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 *Sub‐para. (d) rep. by SR 2002/298*
 
-- (e) does not apply to any agreement to refrain from instituting or continuing proceedings where the Agency has taken action under any of Articles 20A to 20C[^key-7783d3e96394c0b70f5c15bec2bc8c2a] of the Industrial Tribunals (Northern Ireland) Order 1996, and
+- (e) does not apply to any agreement to refrain from instituting or continuing proceedings where the Agency has taken action under any of Articles 20A to 20C[^c-7783d3e96394c0b70f5c15bec2bc8c2a] of the Industrial Tribunals (Northern Ireland) Order 1996, and
 - (f) does not apply to any agreement to refrain from instituting or continuing[^c17628481]. . . any proceedings within the following provisions of Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (cases where conciliation available)—[^c17628491]
   - (i) sub-paragraph (c) (proceedings under this Order);
   - (ii) sub-paragraph (i) (proceedings arising out of the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002;
@@ -82,9 +82,9 @@ summary: ''
 
 [^c22542391]: Modification: Art. 245 applied (5.12.2011) by [Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 15](https://www.legislation.gov.uk/nisr/2011/350/regulation/15)
 
-[^key-441f9f7b41d317923aa6d7918eec000c]: Modification: Art. 245 applied (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [16](https://www.legislation.gov.uk/nisr/2014/88/regulation/16)
+[^c-441f9f7b41d317923aa6d7918eec000c]: Modification: Art. 245 applied (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [16](https://www.legislation.gov.uk/nisr/2014/88/regulation/16)
 
-[^key-7783d3e96394c0b70f5c15bec2bc8c2a]: Textual amendment: Words in [art. 245(2)(e)](https://www.legislation.gov.uk/nisi/1996/1919/article/245/2/e) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/1); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-7783d3e96394c0b70f5c15bec2bc8c2a]: Textual amendment: Words in [art. 245(2)(e)](https://www.legislation.gov.uk/nisi/1996/1919/article/245/2/e) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/1); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
 [^c17628481]: Textual amendment: [1998 NI 8](https://www.legislation.gov.uk/nisi/1998)
 

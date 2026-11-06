@@ -50,7 +50,7 @@ Further to sections 9(3) and 17(8) of the Act, the Secretary of State recommends
 
 In accordance with section 11(7) of the Act, in considering what provision to include in regulations made under section 11(1) and (3) of the Act, the Treasury has had regard to recommendations made to them by the Secretary of State.
 
-## 1. Citation and commencement[^key-1a178f3c62e1bd55ddfaf21029b455e6]
+## 1. Citation and commencement[^c-1a178f3c62e1bd55ddfaf21029b455e6]
 
 (1) These Regulations may be cited as the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021.
 
@@ -59,10 +59,10 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 (3) In regulation 3, the amendments made by—
 
 - (a) paragraph (2), come into force on 3rd May 2021;
-- (b)[^key-1bc615eb8f3fe3dfb5360d574ee4ef64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1bc615eb8f3fe3dfb5360d574ee4ef64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) paragraph (8) come into force on 1st May 2021.
 
-## 2. Amendment of regulation 4 of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^key-fff6297f2e5bf1faea6209550f31ada4]
+## 2. Amendment of regulation 4 of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-fff6297f2e5bf1faea6209550f31ada4]
 
 In regulation 4(5) of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 [^c24474591] (preferential quota), for sub-paragraph (c) substitute—
 
@@ -72,11 +72,11 @@ In regulation 4(5) of the Customs Tariff (Preferential Trade Arrangements) (EU E
 
 .
 
-## 3. Amendment of Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^key-b1026692ac111c02990179b281beaf79][^key-674e84d5a7adbf9701d437634a0ccf4a][^key-41e9e0aa281f182edc7f4fa85cd0ce54]
+## 3. Amendment of Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-b1026692ac111c02990179b281beaf79][^c-674e84d5a7adbf9701d437634a0ccf4a][^c-41e9e0aa281f182edc7f4fa85cd0ce54]
 
-(1)[^key-b1026692ac111c02990179b281beaf79] The table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 [^c24474601] (which relates to agreements to which those Regulations apply) is amended as follows.
+(1)[^c-b1026692ac111c02990179b281beaf79] The table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 [^c24474601] (which relates to agreements to which those Regulations apply) is amended as follows.
 
-(2)[^key-674e84d5a7adbf9701d437634a0ccf4a] In a new row to be inserted immediately above the entry in respect of the Trade Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Columbia, the Republic of Ecuador and the Republic of Peru, of the other part, signed on 15th<sup></sup>May 2019 (“**the Andean Agreement**”)—
+(2)[^c-674e84d5a7adbf9701d437634a0ccf4a] In a new row to be inserted immediately above the entry in respect of the Trade Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Columbia, the Republic of Ecuador and the Republic of Peru, of the other part, signed on 15th<sup></sup>May 2019 (“**the Andean Agreement**”)—
 
 - (a) in the first column, above the entry in respect of the Andean Agreement, insert—
 
@@ -94,9 +94,9 @@ In regulation 4(5) of the Customs Tariff (Preferential Trade Arrangements) (EU E
 
   .
 
-(3)[^key-5bd1ec25d14f7fc4dbe2f04ee9e362d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5bd1ec25d14f7fc4dbe2f04ee9e362d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the United Kingdom of Great Britain and Northern Ireland, on the other part—
+(4)[^c-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the United Kingdom of Great Britain and Northern Ireland, on the other part—
 
 - (a) for the text in the first column relating to that Agreement substitute—
 
@@ -114,21 +114,21 @@ In regulation 4(5) of the Customs Tariff (Preferential Trade Arrangements) (EU E
 
   .
 
-(5)[^key-b1026692ac111c02990179b281beaf79] Omit the entire row containing the entry relating to the Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and Saint Christopher and Nevis concerning the arrangements for applying the effects of the Economic Partnership Agreement between the CARIFORUM States of the one part, and United Kingdom of Great Britain and Northern Ireland of the other part, signed by Saint Christopher and Nevis on 11th December 2020.
+(5)[^c-b1026692ac111c02990179b281beaf79] Omit the entire row containing the entry relating to the Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and Saint Christopher and Nevis concerning the arrangements for applying the effects of the Economic Partnership Agreement between the CARIFORUM States of the one part, and United Kingdom of Great Britain and Northern Ireland of the other part, signed by Saint Christopher and Nevis on 11th December 2020.
 
-(6)[^key-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Central America signed on 18th July 2018, in the second column, for “The Central America Preferential Tariff, version 1.0, dated 29th December 2020” substitute—
+(6)[^c-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Central America signed on 18th July 2018, in the second column, for “The Central America Preferential Tariff, version 1.0, dated 29th December 2020” substitute—
 
 > The Central America Preferential Tariff, version 2.1, dated 22nd March 2021.
 
 .
 
-(7)[^key-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, signed on 23rd October 2020, in the second column, for “The Japan Preferential Tariff, version 2.0, dated 29th December 2020” substitute—
+(7)[^c-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, signed on 23rd October 2020, in the second column, for “The Japan Preferential Tariff, version 2.0, dated 29th December 2020” substitute—
 
 > The Japan Preferential Tariff, version 2.1, dated 22nd March 2021.
 
 .
 
-(8)[^key-41e9e0aa281f182edc7f4fa85cd0ce54] In a new row to be inserted immediately above the entry in respect of the Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Kenya, of the other part, signed on 8th December 2020 (“**the Kenya Agreement**”)—
+(8)[^c-41e9e0aa281f182edc7f4fa85cd0ce54] In a new row to be inserted immediately above the entry in respect of the Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Kenya, of the other part, signed on 8th December 2020 (“**the Kenya Agreement**”)—
 
 - (a) in the first column, above the entry in respect of the Kenya Agreement, insert—
 
@@ -146,7 +146,7 @@ In regulation 4(5) of the Customs Tariff (Preferential Trade Arrangements) (EU E
 
   .
 
-(9)[^key-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Trade Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Turkey, of the other part, signed by United Kingdom of Great Britain and Northern Ireland and the Republic of Turkey on 29th December 2020—
+(9)[^c-b1026692ac111c02990179b281beaf79] In the row containing the entry in respect of the Trade Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Turkey, of the other part, signed by United Kingdom of Great Britain and Northern Ireland and the Republic of Turkey on 29th December 2020—
 
 - (a) for the text in the first column substitute—
 
@@ -162,7 +162,7 @@ In regulation 4(5) of the Customs Tariff (Preferential Trade Arrangements) (EU E
 
   .
 
-## 4. Amendment of the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^key-ef5fff756fbe6e987d26b2911d8d4d90]
+## 4. Amendment of the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^c-ef5fff756fbe6e987d26b2911d8d4d90]
 
 (1) The Customs (Tariff Quotas) (EU Exit) Regulations 2020 [^c24474621] are amended as follows.
 
@@ -182,7 +182,7 @@ Minister of State for Trade Policy
 
 Department for International Trade
 
-## SCHEDULE — Substitution of Part B table in Schedule 2 to the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^key-2f4941f229bd28aa393955da391e9c7d]
+## SCHEDULE — Substitution of Part B table in Schedule 2 to the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^c-2f4941f229bd28aa393955da391e9c7d]
 
 Regulation 4(3)
 
@@ -256,30 +256,30 @@ There is no significant impact on business, charities or voluntary bodies as thi
 
 [^c24474581]: Marginal citation: [2018 c.22](https://www.legislation.gov.uk/ukpga/2018/22). Any power of HMRC Commissioners to make regulations under Part 1 of the Taxation (Cross-border Trade) Act 2018 (“**the Act**”) is exercisable concurrently by the Treasury by virtue of section 32(13) of that Act. Part 1 of the Act is amended by the [Taxation (Post-transition Period) Act 2020 (c.26)](https://www.legislation.gov.uk/ukpga/2020/26), [sections 1](https://www.legislation.gov.uk/ukpga/2020/26/section/1) and 2 and Schedule 1. Section 9 of the Act is modified by regulation 6 of the Taxation Cross-border Trade (Special Procedures Supplementary and General Provision etc.) (EU Exit) Regulations 2020, ([S.I. 2020/1439](https://www.legislation.gov.uk/uksi/2020/1439)) and by regulation 21 of, and Schedule 2 to, the [Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1457)](https://www.legislation.gov.uk/uksi/2020/1457).
 
-[^key-1a178f3c62e1bd55ddfaf21029b455e6]: Commencement: Reg. 1 in force at 14.4.2021, see reg. 1(2)
+[^c-1a178f3c62e1bd55ddfaf21029b455e6]: Commencement: Reg. 1 in force at 14.4.2021, see reg. 1(2)
 
-[^key-1bc615eb8f3fe3dfb5360d574ee4ef64]: Textual amendment: Reg. 1(3)(b) omitted (30.4.2021 immediately before the amendments by [S.I. 2021/382](https://www.legislation.gov.uk/uksi/2021/382), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/382/regulation/3/3) come into force) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2021/527/regulation/5/2)
+[^c-1bc615eb8f3fe3dfb5360d574ee4ef64]: Textual amendment: Reg. 1(3)(b) omitted (30.4.2021 immediately before the amendments by [S.I. 2021/382](https://www.legislation.gov.uk/uksi/2021/382), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/382/regulation/3/3) come into force) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2021/527/regulation/5/2)
 
-[^key-fff6297f2e5bf1faea6209550f31ada4]: Commencement: Reg. 2 in force at 14.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2)
+[^c-fff6297f2e5bf1faea6209550f31ada4]: Commencement: Reg. 2 in force at 14.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2)
 
 [^c24474591]: Marginal citation: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457); as amended by [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657) and [S.I. 2021/241](https://www.legislation.gov.uk/uksi/2021/241).
 
-[^key-b1026692ac111c02990179b281beaf79]: Commencement: Reg. 3(1)(4)-(7)(9) in force at 14.4.2021, see reg. 1(2)
+[^c-b1026692ac111c02990179b281beaf79]: Commencement: Reg. 3(1)(4)-(7)(9) in force at 14.4.2021, see reg. 1(2)
 
-[^key-674e84d5a7adbf9701d437634a0ccf4a]: Commencement: Reg. 3(2) in force at 3.5.2021, see reg. 1(3)(a)
+[^c-674e84d5a7adbf9701d437634a0ccf4a]: Commencement: Reg. 3(2) in force at 3.5.2021, see reg. 1(3)(a)
 
-[^key-41e9e0aa281f182edc7f4fa85cd0ce54]: Commencement: Reg. 3(8) in force at 1.5.2021, see reg. 1(3)(c)
+[^c-41e9e0aa281f182edc7f4fa85cd0ce54]: Commencement: Reg. 3(8) in force at 1.5.2021, see reg. 1(3)(c)
 
 [^c24474601]: Marginal citation: Schedule 1 to [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457) was substituted by regulation 5 of, and Schedule 1 to, [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657).
 
-[^key-5bd1ec25d14f7fc4dbe2f04ee9e362d5]: Textual amendment: Reg. 3(3) omitted (30.4.2021 immediately before the amendments by [S.I. 2021/382](https://www.legislation.gov.uk/uksi/2021/382), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/382/regulation/3/3) come into force) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/527/regulation/5/3)
+[^c-5bd1ec25d14f7fc4dbe2f04ee9e362d5]: Textual amendment: Reg. 3(3) omitted (30.4.2021 immediately before the amendments by [S.I. 2021/382](https://www.legislation.gov.uk/uksi/2021/382), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/382/regulation/3/3) come into force) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/527/regulation/5/3)
 
 [^c24474611]: Marginal citation: The CARIFORUM States listed in the Economic Partnership Agreement are Antigua and Barbuda, the Commonwealth of the Bahamas, Barbados, Belize, the Commonwealth of Dominica, the Dominican Republic, Grenada, Republic of Guyana, Jamaica, Saint Lucia, Saint Christopher and Nevis, Saint Vincent and the Grenadines, the Republic of Suriname and the Republic of Trinidad and Tobago. The Economic Partnership Agreement will supersede the Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and the Republic of Trinidad and Tobago concerning the arrangements for applying the effects of the Economic Partnership Agreement between the CARIFORUM States of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, signed by the Republic of Trinidad and Tobago on 9th December 2020.
 
-[^key-ef5fff756fbe6e987d26b2911d8d4d90]: Commencement: Reg. 4 in force at 14.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2)
+[^c-ef5fff756fbe6e987d26b2911d8d4d90]: Commencement: Reg. 4 in force at 14.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2)
 
 [^c24474621]: Marginal citation: [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432); as amended by [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657).
 
 [^c24474631]: Marginal citation: [Schedule 2](https://www.legislation.gov.uk/uksi/2021/382/schedule/2) to [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432) was substituted by regulation 9 of, and Schedule 2 to, [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657).
 
-[^key-2f4941f229bd28aa393955da391e9c7d]: Commencement: Sch. in force at 14.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2)
+[^c-2f4941f229bd28aa393955da391e9c7d]: Commencement: Sch. in force at 14.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2)

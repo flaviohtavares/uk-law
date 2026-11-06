@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Revocation of authorisation: procedure[^key-684ad0c109eaacaf549f57d3a1602bf1]
+## 59. Revocation of authorisation: procedure[^c-684ad0c109eaacaf549f57d3a1602bf1]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-684ad0c109eaacaf549f57d3a1602bf1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/29/section/59) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)
+[^c-684ad0c109eaacaf549f57d3a1602bf1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/29/section/59) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)

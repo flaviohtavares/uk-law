@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Pupil numbers[^key-6f36c61f5a0787e7cd8f2076dbf6d114]
+## 15. Pupil numbers[^c-6f36c61f5a0787e7cd8f2076dbf6d114]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f36c61f5a0787e7cd8f2076dbf6d114]: Commencement: Reg. 15 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-6f36c61f5a0787e7cd8f2076dbf6d114]: Commencement: Reg. 15 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

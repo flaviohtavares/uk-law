@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63B. Simplified procedure for movements of alcoholic products and tobacco products between customs warehouses and tax warehouses[^key-e445dbed117d26ae03ee710b512a5077]
+## 63B. Simplified procedure for movements of alcoholic products and tobacco products between customs warehouses and tax warehouses[^c-e445dbed117d26ae03ee710b512a5077]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e445dbed117d26ae03ee710b512a5077]: Textual amendment: [Reg. 63B](https://www.legislation.gov.uk/uksi/2010/593/regulation/63B) inserted (23.12.2024) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/4/6)
+[^c-e445dbed117d26ae03ee710b512a5077]: Textual amendment: [Reg. 63B](https://www.legislation.gov.uk/uksi/2010/593/regulation/63B) inserted (23.12.2024) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/4/6)

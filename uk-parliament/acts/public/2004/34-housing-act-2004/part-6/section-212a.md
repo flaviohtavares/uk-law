@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212A. Provision of information to local authorities[^key-90fb0dfa0c22b0696ccab61c2f364805]
+## 212A. Provision of information to local authorities[^c-90fb0dfa0c22b0696ccab61c2f364805]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 (5) Information obtained by a local housing authority by virtue of this section may be used only—
 
 - (a) for a purpose connected with the exercise of the authority's functions under any of Parts 1 to 4 in relation to any premises,
-- (aa)[^key-613d5df136a3e86560d4b7db7e13ba7a] for a purpose connected with the exercise of the authority’s functions under or by virtue of Part 7 in relation to any qualifying residential premises within the meaning given by section 2B,
+- (aa)[^c-613d5df136a3e86560d4b7db7e13ba7a] for a purpose connected with the exercise of the authority’s functions under or by virtue of Part 7 in relation to any qualifying residential premises within the meaning given by section 2B,
 - (ab) for a purpose connected with the authority’s functions under or by virtue of the following in relation to any premises—
   - sections 1 and 1A of the Protection from Eviction Act 1977,
   - Chapter 1 of Part 1 of the Housing Act 1988,
@@ -47,7 +47,7 @@ summary: ''
   - Chapter 3 of Part 1 and Part 2 of the Renters’ Rights Act 2025,
 
   or
-- (b) for the purpose of investigating whether an offence has been committed under any provision mentioned in paragraphs (a) to (ab) in relation to premises or qualifying residential premises (as the case may be)[^key-c6c2e7e745ae1d3c2e0b98c7bfccd5fe].
+- (b) for the purpose of investigating whether an offence has been committed under any provision mentioned in paragraphs (a) to (ab) in relation to premises or qualifying residential premises (as the case may be)[^c-c6c2e7e745ae1d3c2e0b98c7bfccd5fe].
 
 (6) Information obtained by a local housing authority by virtue of this section may be supplied to a person providing services to the authority for a purpose listed in subsection (5).
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-90fb0dfa0c22b0696ccab61c2f364805]: Textual amendment: S. 212A inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 128(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/128/3), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/g)
+[^c-90fb0dfa0c22b0696ccab61c2f364805]: Textual amendment: S. 212A inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 128(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/128/3), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/g)
 
-[^key-613d5df136a3e86560d4b7db7e13ba7a]: Textual amendment: [S. 212A(5)(aa)](https://www.legislation.gov.uk/ukpga/2004/34/section/212A/5/aa)[(ab)](https://www.legislation.gov.uk/ukpga/2004/34/section/212A/5/ab) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 134(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/134/2), [145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-613d5df136a3e86560d4b7db7e13ba7a]: Textual amendment: [S. 212A(5)(aa)](https://www.legislation.gov.uk/ukpga/2004/34/section/212A/5/aa)[(ab)](https://www.legislation.gov.uk/ukpga/2004/34/section/212A/5/ab) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 134(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/134/2), [145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
 
-[^key-c6c2e7e745ae1d3c2e0b98c7bfccd5fe]: Textual amendment: Words in [s. 212A(5)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/212A/5/b) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 134(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/134/3), [145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-c6c2e7e745ae1d3c2e0b98c7bfccd5fe]: Textual amendment: Words in [s. 212A(5)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/212A/5/b) substituted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 134(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/134/3), [145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))

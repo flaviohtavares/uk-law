@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — QUOTED COMPANIES ...: DIRECTORS’ REMUNERATION REPORT[^key-4d873418bd96a5a6ca8d1798a498ecb1][^key-13fc1da2a31a9f1370470813dda4cd8a]
+## SCHEDULE 8 — QUOTED COMPANIES ...: DIRECTORS’ REMUNERATION REPORT[^c-4d873418bd96a5a6ca8d1798a498ecb1][^c-13fc1da2a31a9f1370470813dda4cd8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ Regulation 11
 
 (2) Nothing in this Schedule prevents the directors setting out in the report any such additional information as they think fit, and any item required to be shown in the report may be shown in greater detail than required by the provisions of this Schedule.
 
-(2A)[^key-ba0f53a25f19dfb4803c40b0e36010ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-ba0f53a25f19dfb4803c40b0e36010ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where the requirements of this Schedule make reference to a “director” those requirements may be complied with in such manner as to distinguish between directors who perform executive functions and those who do not.
 
@@ -49,9 +49,9 @@ Regulation 11
 
 (7) Where any provision of this Schedule requires a sum or figure to be given in respect of any financial year preceding the relevant financial year, in the first directors’ remuneration report prepared in accordance with this Schedule, that sum or figure may, where the sum or figure is not readily available from the reports and accounts of the company prepared for those years, be given as an estimate and a note of explanation provided in the report.
 
-(8)[^key-785c3f74ec162665acaf399bf11a0b8b] A person is to be treated as a director of a company for the purposes of this Schedule (other than in the references to directors in paragraphs 2(2), 2(5), 3, 5(2), 6(1)(b), 10(3), 22(1), 23(c), 24(4), and 48) if the person—
+(8)[^c-785c3f74ec162665acaf399bf11a0b8b] A person is to be treated as a director of a company for the purposes of this Schedule (other than in the references to directors in paragraphs 2(2), 2(5), 3, 5(2), 6(1)(b), 10(3), 22(1), 23(c), 24(4), and 48) if the person—
 
-- (a) is the company’s chief executive officer (however described) [^key-309104daf2dc176458cc7bacf1e29bbb]..., but
+- (a) is the company’s chief executive officer (however described) [^c-309104daf2dc176458cc7bacf1e29bbb]..., but
 - (b) is not a director of the company.
 
 ### PART 2 — ANNUAL STATEMENT
@@ -59,7 +59,7 @@ Regulation 11
 **3.** The directors’ remuneration report must contain a statement by the director who fulfils the role of chair of the remuneration committee (or, where there is no such person, by a director nominated by the directors to make the statement) summarising for the relevant financial year—
 
 - (a) the major decisions on directors’ remuneration;
-- (aa)[^key-f9aaf2daa1bbffa0d9608c036516889e] any discretion which has been exercised in the award of directors’ remuneration;
+- (aa)[^c-f9aaf2daa1bbffa0d9608c036516889e] any discretion which has been exercised in the award of directors’ remuneration;
 - (b) any substantial changes relating to directors’ remuneration made during the year; and
 - (c) the context in which those changes occurred and decisions have been taken.
 
@@ -84,7 +84,7 @@ Regulation 11
 </tbody>
 </table>
 
-[^key-f48fd15a387ea2add119209b5b9fffc5][^key-024d9c2f2d5ed03de6f4a1a4cbf50986][^key-024d9c2f2d5ed03de6f4a1a4cbf50986][^key-024d9c2f2d5ed03de6f4a1a4cbf50986][^key-024d9c2f2d5ed03de6f4a1a4cbf50986][^key-024d9c2f2d5ed03de6f4a1a4cbf50986][^key-024d9c2f2d5ed03de6f4a1a4cbf50986]
+[^c-f48fd15a387ea2add119209b5b9fffc5][^c-024d9c2f2d5ed03de6f4a1a4cbf50986][^c-024d9c2f2d5ed03de6f4a1a4cbf50986][^c-024d9c2f2d5ed03de6f4a1a4cbf50986][^c-024d9c2f2d5ed03de6f4a1a4cbf50986][^c-024d9c2f2d5ed03de6f4a1a4cbf50986][^c-024d9c2f2d5ed03de6f4a1a4cbf50986]
 
 (2) The directors may choose to display the table using an alternative orientation, in which case references in this Schedule to columns are to be read as references to rows.
 
@@ -109,8 +109,8 @@ Regulation 11
   - (i) payments (whether in cash or otherwise) in lieu of retirement benefits;
   - (ii) all benefits in year from participating in pension schemes;
 - (f) in the column headed “Total”, the total amount of the sums set out in the previous columns;
-- (g)[^key-0752e55dedb4d928e5cb7a6d15703bfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-4aeed7ac71f8071cfe729b0a805a81e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-0752e55dedb4d928e5cb7a6d15703bfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-4aeed7ac71f8071cfe729b0a805a81e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where it is necessary to assist the understanding of the table by the creation of sub-totals the columns headed “a” to “e” may be set out in an order other than the one set out in paragraph 5.
 
@@ -203,8 +203,8 @@ Regulation 11
 - (a) details of any performance measures and the relative weighting of each;
 - (b) within each performance measure, the performance targets set at the beginning of the performance period and corresponding value of the award achievable;
 - (c) for each performance measure, details of actual performance relative to the targets set and measured over the relevant reporting period, and the resulting level of award; and
-- (ca)[^key-e7f655c78a36c212e426ec0b8b9b7749] the amount of the award or, where this is not ascertainable, an estimate of the amount of the award, that is attributable to share price appreciation;
-- (d) where any discretion has been exercised in respect of the award, particulars must be given of how the discretion was exercised , how the resulting level of award was determined and whether the discretion has been exercised as a result of share price appreciation or depreciation.[^key-e3a4ab0ea9a12b4b160829df7f658da9]
+- (ca)[^c-e7f655c78a36c212e426ec0b8b9b7749] the amount of the award or, where this is not ascertainable, an estimate of the amount of the award, that is attributable to share price appreciation;
+- (d) where any discretion has been exercised in respect of the award, particulars must be given of how the discretion was exercised , how the resulting level of award was determined and whether the discretion has been exercised as a result of share price appreciation or depreciation.[^c-e3a4ab0ea9a12b4b160829df7f658da9]
 
 (4) For each component the value of which is included in the sum set out in the column headed “c” of the table, the report must state if any amount was deferred, the percentage deferred, whether it was deferred in cash or shares, if relevant, and whether the deferral was subject to any conditions other than performance measures.
 
@@ -237,7 +237,7 @@ but disregarding any special provision as to early repayment on grounds of ill h
   - (ii) a description of the basis on which the award is made;
   - (iii) the face value of the award;
   - (iv) the percentage of scheme interests that would be receivable if the minimum performance was achieved;
-  - (v) for a scheme interest that is a share option, an explanation of any difference between the exercise price per share and the price specified under paragraph 14(3) [^key-5db102e16f0b529fb807137d741457d8]...;
+  - (v) for a scheme interest that is a share option, an explanation of any difference between the exercise price per share and the price specified under paragraph 14(3) [^c-5db102e16f0b529fb807137d741457d8]...;
   - (vi) the end of the period over which the performance measures and targets for that interest have to be achieved (or if there are different periods for different measures and targets, the end of whichever of those periods ends last); and
   - (vii) a summary of the performance measures and targets if not set out elsewhere in the report.
 
@@ -292,7 +292,7 @@ The directors’ remuneration report for the relevant financial year must contai
 (1) The directors’ remuneration report must—
 
 - (a) contain a line graph that shows for each of—
-  - (i) a holding of shares of that class of the company’s equity share capital whose listing, or admission to dealing, has resulted in the company falling within the definition of “quoted company” [^key-6d63b21c744daadf8683c1260aa54bdf]..., and
+  - (i) a holding of shares of that class of the company’s equity share capital whose listing, or admission to dealing, has resulted in the company falling within the definition of “quoted company” [^c-6d63b21c744daadf8683c1260aa54bdf]..., and
   - (ii) a hypothetical holding of shares made up of shares of the same kinds and number as those by reference to which a broad equity market index is calculated,
 
   a line drawn by joining up points plotted to represent, for each of the financial years in the relevant period, the total shareholder return on that holding; and
@@ -341,11 +341,11 @@ and the same method must be used for each of the holdings mentioned in sub-parag
 
 (10) In sub-paragraph (9) “liability” means a liability arising in respect of any shares in the holding or from the exercise of a right attached to any of those shares.
 
-#### 19. Annual percentage change in remuneration of directors and employees[^key-1a3d8b26e32232c06e6a30a257cd9f70][^key-8fde3f48b446ee0f15722806e022b816]
+#### 19. Annual percentage change in remuneration of directors and employees[^c-1a3d8b26e32232c06e6a30a257cd9f70][^c-8fde3f48b446ee0f15722806e022b816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19A. Pay ratio information in relation to the total remuneration of the director undertaking the role of chief executive officer[^key-3490aa015e82eba0784e6d06ee8301e3]
+#### 19A. Pay ratio information in relation to the total remuneration of the director undertaking the role of chief executive officer[^c-3490aa015e82eba0784e6d06ee8301e3]
 
 (1) If paragraph 19B applies to the company for the relevant financial year the directors’ remuneration report must contain pay ratio information specified in paragraphs 19C to 19G.
 
@@ -505,7 +505,7 @@ The directors’ remuneration report must set out the following information afte
 - (a) performance measures and relative weightings for each; and
 - (b) performance targets determined for the performance measures and how awards will be calculated.
 
-(3) Where this is not the first year of the approved remuneration policy, the statement should detail any significant changes in the way that the remuneration policy will be implemented in the next financial year compared to how it was implemented in the relevant financial year [^key-777ec1c286543d296e0c479ee16292c8]....
+(3) Where this is not the first year of the approved remuneration policy, the statement should detail any significant changes in the way that the remuneration policy will be implemented in the next financial year compared to how it was implemented in the relevant financial year [^c-777ec1c286543d296e0c479ee16292c8]....
 
 (4) This statement need not include information that is elsewhere in the report, including any disclosed in the directors’ remuneration policy.
 
@@ -541,7 +541,7 @@ The directors’ remuneration report must contain a statement setting out in res
 
 (1) The information required to be included in the directors’ remuneration report by the provisions of this Part must be set out in a separate part of the report and constitutes the directors’ remuneration policy of the company.
 
-(1A)[^key-8b4017d713bbffe90307236ddf52f480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-8b4017d713bbffe90307236ddf52f480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a company intends to move a resolution at a meeting of the company to approve a directors’ remuneration policy and it is intended that some or all of the provisions of the last approved directors’ remuneration policy are to continue to apply after the resolution is approved, this fact must be stated in the policy which is the subject of the resolution and it must be made clear which provisions of the last approved policy are to continue to apply and for what period of time it is intended that they shall apply.
 
@@ -562,8 +562,8 @@ The directors’ remuneration report must contain a statement setting out in res
 **26.** In respect of each of the components described in the table there must be set out the following information
 
 - (a) how that component supports the short and long-term strategic objectives of the company (or, where the company is a parent company, the group);
-- (b) an explanation of how that component of the remuneration package operates [^key-006b89b03c19d6864d4bb9c0557e2499]...;
-- (ba)[^key-be9d17fa3861b084d5e58395e3c5889c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) an explanation of how that component of the remuneration package operates [^c-006b89b03c19d6864d4bb9c0557e2499]...;
+- (ba)[^c-be9d17fa3861b084d5e58395e3c5889c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the maximum that may be paid in respect of that component (which may be expressed in monetary terms, or otherwise);
 - (d) where applicable, a description of the framework used to assess performance including—
   - (i) a description of any performance measures which apply and, where more than one performance measure applies, an indication of the weighting of the performance measure or group of performance measures;
@@ -607,7 +607,7 @@ The directors’ remuneration policy must contain a description of any obligatio
 
 and which could give rise to, or impact on, remuneration payments or payments for loss of office but which is not disclosed elsewhere in this report.
 
-**30A.**[^key-7abe2113baa8dec2d4afe80975b52378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30A.**[^c-7abe2113baa8dec2d4afe80975b52378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.** Where the directors’ service contracts are not kept available for inspection at the company’s registered office, the report must give details of where the contracts are kept, and if the contracts are available on a website, a link to that website.
 
@@ -638,7 +638,7 @@ The directors’ remuneration report must, in respect of each person who is a di
 
 (2) In complying with sub-paragraph (1) it is not necessary for any matter to be included in the narrative description which has been set out in the future policy table required by paragraph 25.
 
-**35A.**[^key-3078fb4477c67ebfc559c37d86bc9f44] The directors’ remuneration report must, in respect of each person who is a director (other than a director who is not performing an executive function)—
+**35A.**[^c-3078fb4477c67ebfc559c37d86bc9f44] The directors’ remuneration report must, in respect of each person who is a director (other than a director who is not performing an executive function)—
 
 - (a) set out for performance targets or measures relating to more than one financial year, an indication of the maximum remuneration receivable assuming company share price appreciation of 50% during the relevant performance period, and
 - (b) provide a short description of the basis of the calculation reported under sub-paragraph (a).
@@ -672,7 +672,7 @@ The directors’ remuneration policy must contain a statement of whether, and if
 
 ### PART 6 — REVISED DIRECTORS’ REMUNERATION POLICY
 
-**42.** A revised directors’ remuneration policy prepared in accordance with section 422A of the 2006 Act must contain all those matters required by Part 4 of this Schedule to be in the directors’ remuneration policy [^key-6d46a5e58c8446332054bf7d71b90e31]....
+**42.** A revised directors’ remuneration policy prepared in accordance with section 422A of the 2006 Act must contain all those matters required by Part 4 of this Schedule to be in the directors’ remuneration policy [^c-6d46a5e58c8446332054bf7d71b90e31]....
 
 **43.** A revised directors’ remuneration policy must be set out in the same manner as required by Part 4 of this Schedule in respect of that part of the directors’ remuneration report.
 
@@ -708,8 +708,8 @@ The directors’ remuneration policy must contain a statement of whether, and if
 - “scheme interest” means an interest under a scheme;
 - “shares” means shares (whether allotted or not) in the company, or any undertaking which is a group undertaking in relation to the company, and includes a share warrant as defined by section 779(1) of the 2006 Act;
 - “share option” means a right to acquire shares;
-- “[^key-eab1a90b28a00d887f3d1e91ca8dea82]UK employee” means a person employed under a contract of service by the company, other than a person employed to work wholly or mainly outside the United Kingdom;
-- [^key-0d6141f56318d1c5153acd6585b311c9]...
+- “[^c-eab1a90b28a00d887f3d1e91ca8dea82]UK employee” means a person employed under a contract of service by the company, other than a person employed to work wholly or mainly outside the United Kingdom;
+- [^c-0d6141f56318d1c5153acd6585b311c9]...
 - “value” in relation to shares received or receivable on any day by a person who is or has been a director of a company, means the market price of the shares on that day.
 
 (2) In this Schedule “compensation in respect of loss of office” includes compensation received or receivable by a person for—
@@ -756,54 +756,54 @@ those sums must, to the extent to which the liability is released or not enforce
 
 ## Annotations
 
-[^key-4d873418bd96a5a6ca8d1798a498ecb1]: Textual amendment: Sch. 8 substituted (1.10.2013) by [The Large and Medium-sized Companies and Groups (Accounts and Reports) (Amendment) Regulations 2013 (S.I. 2013/1981)](https://www.legislation.gov.uk/uksi/2013/1981), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1981/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1981/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1981/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/1981/regulation/4))
+[^c-4d873418bd96a5a6ca8d1798a498ecb1]: Textual amendment: Sch. 8 substituted (1.10.2013) by [The Large and Medium-sized Companies and Groups (Accounts and Reports) (Amendment) Regulations 2013 (S.I. 2013/1981)](https://www.legislation.gov.uk/uksi/2013/1981), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1981/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1981/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1981/schedule) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/1981/regulation/4))
 
-[^key-13fc1da2a31a9f1370470813dda4cd8a]: Textual amendment: Words in Sch. 8 heading omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(a)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/a)
+[^c-13fc1da2a31a9f1370470813dda4cd8a]: Textual amendment: Words in Sch. 8 heading omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(a)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/a)
 
-[^key-ba0f53a25f19dfb4803c40b0e36010ef]: Textual amendment: Sch. 8 para. 2(2A) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/b/i)
+[^c-ba0f53a25f19dfb4803c40b0e36010ef]: Textual amendment: Sch. 8 para. 2(2A) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/b/i)
 
-[^key-785c3f74ec162665acaf399bf11a0b8b]: Textual amendment: Sch. 8 para. 2(8) inserted (10.6.2019) by [The Companies (Directors Remuneration Policy and Directors Remuneration Report) Regulations 2019 (S.I. 2019/970)](https://www.legislation.gov.uk/uksi/2019/970), [regs. 1](https://www.legislation.gov.uk/uksi/2019/970/regulation/1), [31(3)](https://www.legislation.gov.uk/uksi/2019/970/regulation/31/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/970/regulation/2))
+[^c-785c3f74ec162665acaf399bf11a0b8b]: Textual amendment: Sch. 8 para. 2(8) inserted (10.6.2019) by [The Companies (Directors Remuneration Policy and Directors Remuneration Report) Regulations 2019 (S.I. 2019/970)](https://www.legislation.gov.uk/uksi/2019/970), [regs. 1](https://www.legislation.gov.uk/uksi/2019/970/regulation/1), [31(3)](https://www.legislation.gov.uk/uksi/2019/970/regulation/31/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/970/regulation/2))
 
-[^key-309104daf2dc176458cc7bacf1e29bbb]: Textual amendment: Words in Sch. 8 para. 2(8)(a) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/b/ii)
+[^c-309104daf2dc176458cc7bacf1e29bbb]: Textual amendment: Words in Sch. 8 para. 2(8)(a) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/b/ii)
 
-[^key-f9aaf2daa1bbffa0d9608c036516889e]: Textual amendment: Sch. 8 para. 3(aa) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2018/860/regulation/16)
+[^c-f9aaf2daa1bbffa0d9608c036516889e]: Textual amendment: Sch. 8 para. 3(aa) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2018/860/regulation/16)
 
-[^key-f48fd15a387ea2add119209b5b9fffc5]: Textual amendment: Sch. 8 para. 5(1) Table substituted (10.6.2019) by [The Companies (Directors Remuneration Policy and Directors Remuneration Report) Regulations 2019 (S.I. 2019/970)](https://www.legislation.gov.uk/uksi/2019/970), [regs. 1](https://www.legislation.gov.uk/uksi/2019/970/regulation/1), [31(4)](https://www.legislation.gov.uk/uksi/2019/970/regulation/31/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/970/regulation/2))
+[^c-f48fd15a387ea2add119209b5b9fffc5]: Textual amendment: Sch. 8 para. 5(1) Table substituted (10.6.2019) by [The Companies (Directors Remuneration Policy and Directors Remuneration Report) Regulations 2019 (S.I. 2019/970)](https://www.legislation.gov.uk/uksi/2019/970), [regs. 1](https://www.legislation.gov.uk/uksi/2019/970/regulation/1), [31(4)](https://www.legislation.gov.uk/uksi/2019/970/regulation/31/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/970/regulation/2))
 
-[^key-024d9c2f2d5ed03de6f4a1a4cbf50986]: Textual amendment: Words in Sch. 8 para. 5(1) Table omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(c)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/c)
+[^c-024d9c2f2d5ed03de6f4a1a4cbf50986]: Textual amendment: Words in Sch. 8 para. 5(1) Table omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(c)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/c)
 
-[^key-0752e55dedb4d928e5cb7a6d15703bfb]: Textual amendment: Sch. 8 para. 7(1)(g) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(d)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/d)
+[^c-0752e55dedb4d928e5cb7a6d15703bfb]: Textual amendment: Sch. 8 para. 7(1)(g) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(d)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/d)
 
-[^key-4aeed7ac71f8071cfe729b0a805a81e9]: Textual amendment: Sch. 8 para. 7(1)(h) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(d)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/d)
+[^c-4aeed7ac71f8071cfe729b0a805a81e9]: Textual amendment: Sch. 8 para. 7(1)(h) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(d)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/d)
 
-[^key-e7f655c78a36c212e426ec0b8b9b7749]: Textual amendment: Sch. 8 para. 12(3)(ca) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2018/860/regulation/17/a/i)
+[^c-e7f655c78a36c212e426ec0b8b9b7749]: Textual amendment: Sch. 8 para. 12(3)(ca) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2018/860/regulation/17/a/i)
 
-[^key-e3a4ab0ea9a12b4b160829df7f658da9]: Textual amendment: Words in Sch. 8 para. 12(3)(d) substituted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2018/860/regulation/17/a/ii)
+[^c-e3a4ab0ea9a12b4b160829df7f658da9]: Textual amendment: Words in Sch. 8 para. 12(3)(d) substituted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2018/860/regulation/17/a/ii)
 
-[^key-5db102e16f0b529fb807137d741457d8]: Textual amendment: Words in Sch. 8 para. 14(1)(b)(v) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(e)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/e)
+[^c-5db102e16f0b529fb807137d741457d8]: Textual amendment: Words in Sch. 8 para. 14(1)(b)(v) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(e)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/e)
 
-[^key-6d63b21c744daadf8683c1260aa54bdf]: Textual amendment: Words in Sch. 8 para. 18(1)(a)(i) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(f)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/f)
+[^c-6d63b21c744daadf8683c1260aa54bdf]: Textual amendment: Words in Sch. 8 para. 18(1)(a)(i) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(f)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/f)
 
-[^key-1a3d8b26e32232c06e6a30a257cd9f70]: Textual amendment: Sch. 8 para. 19 omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(g)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/g)
+[^c-1a3d8b26e32232c06e6a30a257cd9f70]: Textual amendment: Sch. 8 para. 19 omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(g)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/g)
 
-[^key-8fde3f48b446ee0f15722806e022b816]: Textual amendment: Sch. 8 para. 19 heading substituted (10.6.2019) by [The Companies (Directors Remuneration Policy and Directors Remuneration Report) Regulations 2019 (S.I. 2019/970)](https://www.legislation.gov.uk/uksi/2019/970), [regs. 1](https://www.legislation.gov.uk/uksi/2019/970/regulation/1), [31(8)(a)](https://www.legislation.gov.uk/uksi/2019/970/regulation/31/8/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/970/regulation/2))
+[^c-8fde3f48b446ee0f15722806e022b816]: Textual amendment: Sch. 8 para. 19 heading substituted (10.6.2019) by [The Companies (Directors Remuneration Policy and Directors Remuneration Report) Regulations 2019 (S.I. 2019/970)](https://www.legislation.gov.uk/uksi/2019/970), [regs. 1](https://www.legislation.gov.uk/uksi/2019/970/regulation/1), [31(8)(a)](https://www.legislation.gov.uk/uksi/2019/970/regulation/31/8/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/970/regulation/2))
 
-[^key-3490aa015e82eba0784e6d06ee8301e3]: Textual amendment: Sch. 8 paras. 19A-19G inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2018/860/regulation/17/b)
+[^c-3490aa015e82eba0784e6d06ee8301e3]: Textual amendment: Sch. 8 paras. 19A-19G inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2018/860/regulation/17/b)
 
-[^key-777ec1c286543d296e0c479ee16292c8]: Textual amendment: Words in Sch. 8 para. 21(3) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(h)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/h)
+[^c-777ec1c286543d296e0c479ee16292c8]: Textual amendment: Words in Sch. 8 para. 21(3) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(h)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/h)
 
-[^key-8b4017d713bbffe90307236ddf52f480]: Textual amendment: Sch. 8 para. 24(1A) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(i)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/i)
+[^c-8b4017d713bbffe90307236ddf52f480]: Textual amendment: Sch. 8 para. 24(1A) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(i)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/i)
 
-[^key-006b89b03c19d6864d4bb9c0557e2499]: Textual amendment: Words in Sch. 8 para. 26(b) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(j)(i)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/j/i)
+[^c-006b89b03c19d6864d4bb9c0557e2499]: Textual amendment: Words in Sch. 8 para. 26(b) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(j)(i)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/j/i)
 
-[^key-be9d17fa3861b084d5e58395e3c5889c]: Textual amendment: Sch. 8 para. 26(ba) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/j/ii)
+[^c-be9d17fa3861b084d5e58395e3c5889c]: Textual amendment: Sch. 8 para. 26(ba) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/j/ii)
 
-[^key-7abe2113baa8dec2d4afe80975b52378]: Textual amendment: Sch. 8 para. 30A omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(k)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/k)
+[^c-7abe2113baa8dec2d4afe80975b52378]: Textual amendment: Sch. 8 para. 30A omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(k)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/k)
 
-[^key-3078fb4477c67ebfc559c37d86bc9f44]: Textual amendment: Sch. 8 para. 35A inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2018/860/regulation/18)
+[^c-3078fb4477c67ebfc559c37d86bc9f44]: Textual amendment: Sch. 8 para. 35A inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2018/860/regulation/18)
 
-[^key-6d46a5e58c8446332054bf7d71b90e31]: Textual amendment: Words in Sch. 8 para. 42 omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(l)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/l)
+[^c-6d46a5e58c8446332054bf7d71b90e31]: Textual amendment: Words in Sch. 8 para. 42 omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [12(3)(l)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/l)
 
-[^key-eab1a90b28a00d887f3d1e91ca8dea82]: Textual amendment: Words in Sch. 8 para. 44(1) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2018/860/regulation/19)
+[^c-eab1a90b28a00d887f3d1e91ca8dea82]: Textual amendment: Words in Sch. 8 para. 44(1) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2018/860/regulation/19)
 
-[^key-0d6141f56318d1c5153acd6585b311c9]: Textual amendment: Words in Sch. 8 para. 44(1) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(m)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/m)
+[^c-0d6141f56318d1c5153acd6585b311c9]: Textual amendment: Words in Sch. 8 para. 44(1) omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [12(3)(m)](https://www.legislation.gov.uk/uksi/2025/439/regulation/12/3/m)

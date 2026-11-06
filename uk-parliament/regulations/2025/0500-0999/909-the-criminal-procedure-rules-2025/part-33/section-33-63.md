@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.63. Drug trafficking – compensation on acquittal in the Crown Court[^key-85e8b2a8a42f46369d014526848b901e]
+## 33.63. Drug trafficking – compensation on acquittal in the Crown Court[^c-85e8b2a8a42f46369d014526848b901e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Where the Crown Court cancels a confiscation order under section 22(2) of the Dr
 
 ## Annotations
 
-[^key-85e8b2a8a42f46369d014526848b901e]: Commencement: [Rule 33.63](https://www.legislation.gov.uk/uksi/2025/909/rule/33.63) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-85e8b2a8a42f46369d014526848b901e]: Commencement: [Rule 33.63](https://www.legislation.gov.uk/uksi/2025/909/rule/33.63) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00860]: Footnote: [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37); section 22 was repealed, with savings, by paragraphs 1 and 25 of Schedule 11 and Schedule 12 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).

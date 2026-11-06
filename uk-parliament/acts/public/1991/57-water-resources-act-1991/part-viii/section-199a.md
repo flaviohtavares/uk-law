@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 199A. Appeals against conservation notices under section 199[^key-c3cefd01ddb6e63e0b3cef3b7a77357a]
+## 199A. Appeals against conservation notices under section 199[^c-c3cefd01ddb6e63e0b3cef3b7a77357a]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) Before determining an appeal against a conservation notice, the Secretary of State may, if he thinks fit—
 
 - (a) cause a local inquiry to be held; or
-- (b) afford to the appellant and the appropriate agency[^key-7290ae0588d46777aeda3443d4530945] an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose;
+- (b) afford to the appellant and the appropriate agency[^c-7290ae0588d46777aeda3443d4530945] an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose;
 
 and the Secretary of State shall act as mentioned in paragraph (a) or (b) above if a request is made by the appellant or the appropriate agency to be heard with respect to an appeal.
 
@@ -46,6 +46,6 @@ and the Secretary of State shall act as mentioned in paragraph (a) or (b) above 
 
 ## Annotations
 
-[^key-c3cefd01ddb6e63e0b3cef3b7a77357a]: Textual amendment: S. 199A inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/984/article/2/e) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/5))
+[^c-c3cefd01ddb6e63e0b3cef3b7a77357a]: Textual amendment: S. 199A inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/984/article/2/e) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/5))
 
-[^key-7290ae0588d46777aeda3443d4530945]: Textual amendment: Words in ss. 199-203 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7290ae0588d46777aeda3443d4530945]: Textual amendment: Words in ss. 199-203 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

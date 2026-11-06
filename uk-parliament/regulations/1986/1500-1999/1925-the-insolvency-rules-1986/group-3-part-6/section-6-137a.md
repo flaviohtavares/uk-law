@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.137A. Rule as to reporting[^key-644101a72be6ccd58dd70fdd73ed1610]
+## 6.137A. Rule as to reporting[^c-644101a72be6ccd58dd70fdd73ed1610]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-644101a72be6ccd58dd70fdd73ed1610]: Textual amendment: [Rule 6.137A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.137A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [32](https://www.legislation.gov.uk/uksi/2004/584/article/32)
+[^c-644101a72be6ccd58dd70fdd73ed1610]: Textual amendment: [Rule 6.137A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.137A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [32](https://www.legislation.gov.uk/uksi/2004/584/article/32)

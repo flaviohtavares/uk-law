@@ -43,7 +43,7 @@ Coming into force
 
 13th June 2002
 
-The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^c17036851] in relation to measures relating to medical devices[^c17036861], in exercise of the powers conferred by the said section 2(2), in exercise, with the consent of the Treasury, of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^c17036871], in exercise of the powers conferred by sections 11 and 27(2) of the Consumer Protection Act 1987[^c17036881], and in exercise of all other powers enabling him in that behalf, after consultation in accordance with section 11(5) of the Consumer Protection Act 1987 with organisations appearing to him to be representative of interests substantially affected by these Regulations, with such other persons considered by him appropriate and with the Health and Safety Commission, hereby makes the following Regulations:—[^key-534ba8847e76b236c4af2736a791f8eb]
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^c17036851] in relation to measures relating to medical devices[^c17036861], in exercise of the powers conferred by the said section 2(2), in exercise, with the consent of the Treasury, of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^c17036871], in exercise of the powers conferred by sections 11 and 27(2) of the Consumer Protection Act 1987[^c17036881], and in exercise of all other powers enabling him in that behalf, after consultation in accordance with section 11(5) of the Consumer Protection Act 1987 with organisations appearing to him to be representative of interests substantially affected by these Regulations, with such other persons considered by him appropriate and with the Health and Safety Commission, hereby makes the following Regulations:—[^c-534ba8847e76b236c4af2736a791f8eb]
 
 ## Contents
 
@@ -149,7 +149,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - [Section 44ZA — Obligations in Part IV which are met by complying with obligations in Directive 98/79](part-iv/section-44za.md)
 - [Section 44ZB — Obligations in Part IV of these Regulations which are met by complying with obligations in Regulation (EU) 2017/746](part-iv/section-44zb.md)
 
-### PART 4A — Post-market surveillance requirements[^key-7aac0da14fb1953d3c468abc4b16422d]
+### PART 4A — Post-market surveillance requirements[^c-7aac0da14fb1953d3c468abc4b16422d]
 
 *Extent: E+W+S*
 
@@ -170,7 +170,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - [Section 44ZQ — Retention of post-market surveillance documentation](part-4a/section-44zq.md)
 - [Section 44ZR — Requests for post-market surveillance documentation](part-4a/section-44zr.md)
 
-### PART V — Notified Bodies (Extent: E+W+S) (affected by repeal, see note) Approved Bodies (Extent: E+W+S), Conformity Assessment Bodies and Marking of Products[^key-d760228ce435652f57565a78e3889bf2]
+### PART V — Notified Bodies (Extent: E+W+S) (affected by repeal, see note) Approved Bodies (Extent: E+W+S), Conformity Assessment Bodies and Marking of Products[^c-d760228ce435652f57565a78e3889bf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -270,8 +270,8 @@ A Regulatory Impact Appraisal and a Transposition Note in relation to the implem
 
 [^c17036881]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
 
-[^key-534ba8847e76b236c4af2736a791f8eb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2002/618): power to amend conferred (11.2.2021) by [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/15/1), [50(1)(f)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/1/f)
+[^c-534ba8847e76b236c4af2736a791f8eb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2002/618): power to amend conferred (11.2.2021) by [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/15/1), [50(1)(f)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/1/f)
 
-[^key-7aac0da14fb1953d3c468abc4b16422d]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2002/618/part/4A) inserted (E.W.S.) (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1368/regulation/4)
+[^c-7aac0da14fb1953d3c468abc4b16422d]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2002/618/part/4A) inserted (E.W.S.) (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1368/regulation/4)
 
-[^key-d760228ce435652f57565a78e3889bf2]: Textual amendment: Words in Pt. 5 heading substituted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/791/regulation/7/2) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [47](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/47)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d760228ce435652f57565a78e3889bf2]: Textual amendment: Words in Pt. 5 heading substituted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/791/regulation/7/2) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [47](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/47)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

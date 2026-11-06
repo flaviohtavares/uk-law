@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Administrator to allow inspection of statements of claim[^key-d7e0969171a8f3459d8ec199bda051a4]
+## 126. Administrator to allow inspection of statements of claim[^c-d7e0969171a8f3459d8ec199bda051a4]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The administrator must, so long as submitted claims are in the administrator’s
 
 ## Annotations
 
-[^key-d7e0969171a8f3459d8ec199bda051a4]: Commencement: Rule 126 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d7e0969171a8f3459d8ec199bda051a4]: Commencement: Rule 126 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

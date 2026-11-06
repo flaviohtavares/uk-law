@@ -22,9 +22,9 @@ summary: ''
 
 Section 24
 
-**1.**[^key-1cc32783809bf62fcb4d221ba2d44fee] [Part 1](https://www.legislation.gov.uk/ukpga/1989/29/part/1) of the [Electricity Act 1989](https://www.legislation.gov.uk/ukpga/1989/29/contents) (electricity supply) is amended as follows.
+**1.**[^c-1cc32783809bf62fcb4d221ba2d44fee] [Part 1](https://www.legislation.gov.uk/ukpga/1989/29/part/1) of the [Electricity Act 1989](https://www.legislation.gov.uk/ukpga/1989/29/contents) (electricity supply) is amended as follows.
 
-**2.**[^key-3317693929790dfb6fa452fe5e99d2f7] (1) Section 36 (consent required for construction etc of generating stations) is amended as follows.
+**2.**[^c-3317693929790dfb6fa452fe5e99d2f7] (1) Section 36 (consent required for construction etc of generating stations) is amended as follows.
 
 (2) In subsection (3), for “Secretary of State” substitute “appropriate authority”.
 
@@ -39,7 +39,7 @@ Section 24
 
 (5) In subsection (5B), for “the Water Environment (Controlled Activities) (Scotland) Regulations 2005” substitute “the Water Environment (Controlled Activities) (Scotland) Regulations 2011 ([S.S.I. 2011/209](https://www.legislation.gov.uk/ssi/2011/209))”.
 
-**3.**[^key-09b345de4c3794d40996832e56122b2c] (1) Section 36B (duties in relation to navigation) is amended as follows.
+**3.**[^c-09b345de4c3794d40996832e56122b2c] (1) Section 36B (duties in relation to navigation) is amended as follows.
 
 (2) In subsection (4)(b)—
 
@@ -52,9 +52,9 @@ Section 24
 
 .
 
-**4.**[^key-7bd88c1dd5d9cf4706ceb3ebf7184b8d] In [section 36C](https://www.legislation.gov.uk/ukpga/1989/29/section/37C), for the heading substitute “Application for variation of section 36 consent”.
+**4.**[^c-7bd88c1dd5d9cf4706ceb3ebf7184b8d] In [section 36C](https://www.legislation.gov.uk/ukpga/1989/29/section/37C), for the heading substitute “Application for variation of section 36 consent”.
 
-**5.**[^key-ad7d73e7d07bc6d72e0a1beed8862ada] (1) [Section 37](https://www.legislation.gov.uk/ukpga/1989/29/section/37) (consent required for overhead lines) is amended as follows.
+**5.**[^c-ad7d73e7d07bc6d72e0a1beed8862ada] (1) [Section 37](https://www.legislation.gov.uk/ukpga/1989/29/section/37) (consent required for overhead lines) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/1989/29/section/37), for “Secretary of State” substitute “appropriate authority”.
 
@@ -76,18 +76,18 @@ Section 24
 > - (a) the Scottish Ministers, in relation to an electric line installed above land in Scotland;
 > - (b) the Secretary of State in all other cases.
 
-**6.**[^key-42726d87e41c463ffd29f13167cc32b4] [Schedule 8](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8) to the [Electricity Act 1989](https://www.legislation.gov.uk/ukpga/1989/29/contents) (consents of the Secretary of State and the Scottish Ministers under sections 36 and 37) is amended as follows.
+**6.**[^c-42726d87e41c463ffd29f13167cc32b4] [Schedule 8](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8) to the [Electricity Act 1989](https://www.legislation.gov.uk/ukpga/1989/29/contents) (consents of the Secretary of State and the Scottish Ministers under sections 36 and 37) is amended as follows.
 
 **Not yet in force.**
 
-**7.**[^key-963709486a46d6587ed37953abca1b31] In [paragraph 1](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/1) (applications for consent)—
+**7.**[^c-963709486a46d6587ed37953abca1b31] In [paragraph 1](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/1) (applications for consent)—
 
 - (a) in [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/1), after “An application” insert “that is made to the Secretary of State”;
 - (b) in sub-paragraph (2), after “application” insert “that is made to the Secretary of State”;
 - (c) in [sub-paragraph (3)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/1), after “applications” insert “that are made to the Secretary of State”;
 - (d) in the heading, after “Applications” insert “made to the Secretary of State”.
 
-**8.**[^key-d9f934e70fc858ba0d0cbce5ad8e843b] (1) [Paragraph 3](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/3) (objections by other persons) is amended as follows.
+**8.**[^c-d9f934e70fc858ba0d0cbce5ad8e843b] (1) [Paragraph 3](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/3) (objections by other persons) is amended as follows.
 
 (2) In [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/3)—
 
@@ -106,7 +106,7 @@ Section 24
   - (i) for “Secretary of State” substitute “appropriate authority”;
   - (ii) for “he” substitute “the appropriate authority”.
 
-**9.**[^key-a45bfba6f75ac575f6f6485d77eda20e] (1) [Paragraph 4](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/4) (public inquiries) is amended as follows.
+**9.**[^c-a45bfba6f75ac575f6f6485d77eda20e] (1) [Paragraph 4](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/4) (public inquiries) is amended as follows.
 
 (2) In [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/4), in the words before paragraph (a), after “application” insert “that is made to the Secretary of State”.
 
@@ -121,7 +121,7 @@ Section 24
 
 (5) Omit sub-paragraph (5).
 
-**10.**[^key-426318aaf9a4532ac50b4962617155fd] (1) [Paragraph 5](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/5) (provisions supplementary to paragraphs 2 to 4) is amended as follows.
+**10.**[^c-426318aaf9a4532ac50b4962617155fd] (1) [Paragraph 5](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/5) (provisions supplementary to paragraphs 2 to 4) is amended as follows.
 
 (2) In [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/5)—
 
@@ -134,7 +134,7 @@ Section 24
 
 (3) In [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/5), for “Secretary of State”, in both places it occurs, substitute “appropriate authority”.
 
-**11.**[^key-ed46f27e26fc04cd34fb85baef9ca38c] (1) [Paragraph 6](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/6) (special provision as to consents under section 37) is amended as follows.
+**11.**[^c-ed46f27e26fc04cd34fb85baef9ca38c] (1) [Paragraph 6](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/6) (special provision as to consents under section 37) is amended as follows.
 
 (2) In [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/6)—
 
@@ -147,7 +147,7 @@ Section 24
 - (a) in the words before [paragraph (a)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/6), for “Secretary of State” substitute “appropriate authority”;
 - (b) in [paragraph (b)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/6) for “his opinion” substitute “the opinion of the appropriate authority”.
 
-**12.**[^key-351f2a1e9e3b4f9070bac6b69ec511ae] (1) [Paragraph 7A](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/7A) (generating stations not within areas of relevant planning authorities) is amended as follows.
+**12.**[^c-351f2a1e9e3b4f9070bac6b69ec511ae] (1) [Paragraph 7A](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/7A) (generating stations not within areas of relevant planning authorities) is amended as follows.
 
 (2) In sub-paragraph (6)(a), after “2(2)” insert “, 2A”.
 
@@ -167,7 +167,7 @@ Section 24
 
 (6) In [sub-paragraph (10)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/7A), for “Secretary of State” substitute “appropriate authority”.
 
-**13.**[^key-7addd9db18c2c8bd6ec5ad2a7e8d11e2] In [paragraph 8](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/8) (supplemental), in paragraph (1), after “Schedule” insert
+**13.**[^c-7addd9db18c2c8bd6ec5ad2a7e8d11e2] In [paragraph 8](https://www.legislation.gov.uk/ukpga/1989/29/schedule/8/paragraph/8) (supplemental), in paragraph (1), after “Schedule” insert
 
 > —
 >
@@ -179,28 +179,28 @@ Section 24
 
 ## Annotations
 
-[^key-1cc32783809bf62fcb4d221ba2d44fee]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/1) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-1cc32783809bf62fcb4d221ba2d44fee]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/1) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-3317693929790dfb6fa452fe5e99d2f7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/2) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-3317693929790dfb6fa452fe5e99d2f7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/2) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-09b345de4c3794d40996832e56122b2c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/3) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-09b345de4c3794d40996832e56122b2c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/3) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-7bd88c1dd5d9cf4706ceb3ebf7184b8d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/4) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-7bd88c1dd5d9cf4706ceb3ebf7184b8d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/4) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-ad7d73e7d07bc6d72e0a1beed8862ada]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/5) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-ad7d73e7d07bc6d72e0a1beed8862ada]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/5) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-42726d87e41c463ffd29f13167cc32b4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/6) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-42726d87e41c463ffd29f13167cc32b4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/6) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-963709486a46d6587ed37953abca1b31]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-963709486a46d6587ed37953abca1b31]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-d9f934e70fc858ba0d0cbce5ad8e843b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/8) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-d9f934e70fc858ba0d0cbce5ad8e843b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/8) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-a45bfba6f75ac575f6f6485d77eda20e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/9) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-a45bfba6f75ac575f6f6485d77eda20e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/9) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-426318aaf9a4532ac50b4962617155fd]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/10) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-426318aaf9a4532ac50b4962617155fd]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/10) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-ed46f27e26fc04cd34fb85baef9ca38c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/11) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-ed46f27e26fc04cd34fb85baef9ca38c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/11) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-351f2a1e9e3b4f9070bac6b69ec511ae]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/12) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-351f2a1e9e3b4f9070bac6b69ec511ae]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/12) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
 
-[^key-7addd9db18c2c8bd6ec5ad2a7e8d11e2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/13) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)
+[^c-7addd9db18c2c8bd6ec5ad2a7e8d11e2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2025/34/schedule/1/paragraph/13) in force at 18.2.2026, see [s. 118(1)(k)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/k)

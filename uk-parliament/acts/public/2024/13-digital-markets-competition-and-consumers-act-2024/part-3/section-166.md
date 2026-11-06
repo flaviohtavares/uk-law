@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Consumer protection orders or undertakings to court: further proceedings[^key-934a8920c418e3cd8ea0e66bd2388c70][^key-c396f6ee9b7f0ed7b60a6672425025d3]
+## 166. Consumer protection orders or undertakings to court: further proceedings[^c-934a8920c418e3cd8ea0e66bd2388c70][^c-c396f6ee9b7f0ed7b60a6672425025d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ and the preceding provisions of this Chapter apply subject to this subsection.
 
 ## Annotations
 
-[^key-934a8920c418e3cd8ea0e66bd2388c70]: Commencement: S. 166 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-934a8920c418e3cd8ea0e66bd2388c70]: Commencement: S. 166 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c396f6ee9b7f0ed7b60a6672425025d3]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2024/13/section/166) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-c396f6ee9b7f0ed7b60a6672425025d3]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2024/13/section/166) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

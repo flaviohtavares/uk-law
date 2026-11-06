@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Transfer of safety functions to ORR[^key-173983470ae4a035693557e6264c3770][^key-b37e421f8ee53ccbcd736efc356c146c]
+## 2. Transfer of safety functions to ORR[^c-173983470ae4a035693557e6264c3770][^c-b37e421f8ee53ccbcd736efc356c146c]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 3 (which makes provision for and in connection with the transfer to the
 
 ## Annotations
 
-[^key-173983470ae4a035693557e6264c3770]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2) in force at 7.2.2006 for specified purposes by [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/266/article/2/1/a)
+[^c-173983470ae4a035693557e6264c3770]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2) in force at 7.2.2006 for specified purposes by [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/266/article/2/1/a)
 
-[^key-b37e421f8ee53ccbcd736efc356c146c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2) in force at 1.4.2006 for specified purposes by [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
+[^c-b37e421f8ee53ccbcd736efc356c146c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2) in force at 1.4.2006 for specified purposes by [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)

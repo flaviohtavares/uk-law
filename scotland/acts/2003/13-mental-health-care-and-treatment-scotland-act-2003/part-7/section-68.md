@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Extension of short-term detention pending determination of application[^key-4606faafbb99588aab012a5b9ae62fa1]
+## 68. Extension of short-term detention pending determination of application[^c-4606faafbb99588aab012a5b9ae62fa1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the measures mentioned in subsection (2) below are authorised.
 
 ## Annotations
 
-[^key-4606faafbb99588aab012a5b9ae62fa1]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2003/13/section/68) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-4606faafbb99588aab012a5b9ae62fa1]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2003/13/section/68) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

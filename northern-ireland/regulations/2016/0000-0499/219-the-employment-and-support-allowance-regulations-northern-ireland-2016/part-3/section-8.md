@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Conditions relating to national insurance and relevant earnings[^key-ca11b57351d93440ab8398fec13279dc]
+## 8. Conditions relating to national insurance and relevant earnings[^c-ca11b57351d93440ab8398fec13279dc]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca11b57351d93440ab8398fec13279dc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/219/regulation/8) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-ca11b57351d93440ab8398fec13279dc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/219/regulation/8) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00037]: Footnote: Paragraph 1(2) was substituted by section 12 of the Welfare Reform Act (Northern Ireland) 2010

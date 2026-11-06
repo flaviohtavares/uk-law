@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, in exercise of the powers conferred upon him by section 17 of the Housing Act 1996[^f00001] and section 1AA(3)(a) of the Leasehold Reform Act 1967[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Order—
 
-## 1. Citation and commencement[^key-0b185c9d0e053b0301e1a41a1df1ec15]
+## 1. Citation and commencement[^c-0b185c9d0e053b0301e1a41a1df1ec15]
 
 This Order may be cited as the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas in the North East) Order 1997 and shall come into force on 1st April 1997.
 
-## 2. Designated rural areas[^key-f26b28c431a3e350e8e6221bf88c1c63]
+## 2. Designated rural areas[^c-f26b28c431a3e350e8e6221bf88c1c63]
 
 The following areas shall be designated rural areas for the purposes of section 17 of the Housing Act 1996 (the right to acquire) and section 1AA(3)(a) of the Leasehold Reform Act 1967 (additional right to enfranchise)—
 
@@ -68,7 +68,7 @@ Department of the Environment
 
 Article 2(a)
 
-### PART I — EAST RIDING OF YORKSHIRE[^key-3bd1d9d5b0a1cbab347a7e84c381b65f]
+### PART I — EAST RIDING OF YORKSHIRE[^c-3bd1d9d5b0a1cbab347a7e84c381b65f]
 
 - Airmyn, Aldbrough, Allerthorpe, Asselby, Atwick,
 - Bainton, Barmby Moor, Barmby on the Marsh, Barmston, Beeford, Bempton, Beswick, Bewholme, Bielby, Bilton, Bishop Burton, Bishop Wilton, Blacktoft, Boynton, Brandesburton, Brantingham, Broomfleet, Bubwith, Bugthorpe, Burstwick, Burton Agnes, Burton Constable, Burton Fleming, Burton Pidsea,
@@ -91,7 +91,7 @@ Article 2(a)
 - Walkington, Warter, Watton, Wawne, Welton, Welwick, Wetwang, Wilberfoss, Withernwick, Wold Newton (split between the District of Cleethorpes and the District of East Yorkshire), Wressle,
 - Yapham.
 
-### PART II — HARTLEPOOL[^key-aa19e14b2eb1c62b3cd81c444f5bce0e]
+### PART II — HARTLEPOOL[^c-aa19e14b2eb1c62b3cd81c444f5bce0e]
 
 - Brierton,
 - Claxton,
@@ -101,11 +101,11 @@ Article 2(a)
 - Hart,
 - Newton Bewley.
 
-### PART III — MIDDLESBROUGH[^key-f922b5e4a4b356c152ee780d01574d2b]
+### PART III — MIDDLESBROUGH[^c-f922b5e4a4b356c152ee780d01574d2b]
 
 - Stainton and Thornton.
 
-### PART IV — NORTH EAST LINCOLNSHIRE[^key-f725df9c952a8d51042b0f0a0acc065e]
+### PART IV — NORTH EAST LINCOLNSHIRE[^c-f725df9c952a8d51042b0f0a0acc065e]
 
 - Ashby cum Fenby, Aylesby,
 - Barnoldby le Beck, Beelsby, Bradley, Brigsley,
@@ -115,7 +115,7 @@ Article 2(a)
 - Stallingborough,
 - West Ravendale, Wold Newton (split between Cleethorpes District and East Yorkshire District).
 
-### PART V — NORTH LINCOLNSHIRE[^key-d514ad1fc3dad0e94bdbce59de6e419a]
+### PART V — NORTH LINCOLNSHIRE[^c-d514ad1fc3dad0e94bdbce59de6e419a]
 
 - Alkborough, Amcotts, Appleby, Aylesby,
 - Barnetby le Wold, Barrow upon Humber, Bonby, Burringham, Burton upon Stather,
@@ -135,11 +135,11 @@ Article 2(a)
 - Ulceby,
 - West Butterwick, West Halton, Whitton, Winteringham, Wootton, Worlaby, Wrawby, Wroot.
 
-### PART VI — REDCAR AND CLEVELAND[^key-2b9c3aae7bc2165ac1b85c87dd00e483]
+### PART VI — REDCAR AND CLEVELAND[^c-2b9c3aae7bc2165ac1b85c87dd00e483]
 
 - Lockwood.
 
-### PART VII — STOCKTON-ON-TEES[^key-19f1fb0f958a7a9bdc04c3df22cbe064]
+### PART VII — STOCKTON-ON-TEES[^c-19f1fb0f958a7a9bdc04c3df22cbe064]
 
 - Aislaby,
 - Carlton, Castlelevington,
@@ -155,7 +155,7 @@ Article 2(a)
 - Stillington and Whitton,
 - Wolviston.
 
-### PART VIII — DURHAM[^key-fff1b5aea4906048b9a8ff52defda320]
+### PART VIII — DURHAM[^c-fff1b5aea4906048b9a8ff52defda320]
 
 - Archdeacon Newton,
 - Barforth, Barmpton, Barningham, Bearpark, Bishop Middleham, Bishopton, Bolam, Boldron, Bournmoor, Bowes, Bradbury and the Isle, Brafferton, Brancepeth, Brignall,
@@ -177,7 +177,7 @@ Article 2(a)
 - Thornley, Tow Law, Trimdon Foundry,
 - Wackerfield, Walworth, West Rainton, Westwick, Whessoe, Whitton Gilbert, Whorlton, Windlestone, Winston, Wolsingham, Woodland, Wycliffe with Thorpe.
 
-### PART IX — NORTHUMBERLAND[^key-dd42e51f266f4441fcfaa7cb19d58347]
+### PART IX — NORTHUMBERLAND[^c-dd42e51f266f4441fcfaa7cb19d58347]
 
 - Acklington, Acomb, Adderstone with Lucker, Akeld, Allendale, Alnham, Alnmouth, Alwinton, Ancroft,
 - Bamburgh, Bardon Mill, Bavington, Beadnell, Belford, Bellingham, Belsay, Bewick, Biddlestone, Birtley, Blanchland, Bowsden, Branxton, Brinkburn, Broomhaugh and Riding, Broomley and Stocksfield, Bywell,
@@ -196,11 +196,11 @@ Article 2(a)
 - Plenmeller with Whitfield,
 - Rennington, Rochester, Roddam, Rothley,
 - Sandhoe, Shilbottle, Shoreswood, Shotley Low Quarter, Simonburn, Slaley, Snitter, Stamfordham, Stannington,
-- Tarset, Thirlwall, Thirston, Thropton, Togston, [^key-f12cc2a9e787287f60c7d9aa528d1318]... Tritlington,
+- Tarset, Thirlwall, Thirston, Thropton, Togston, [^c-f12cc2a9e787287f60c7d9aa528d1318]... Tritlington,
 - Ulgham,
 - Wall, Wallington Demesne, Warden, Wark, West Allen, West Chevington, Whalton, Whittingham, Whittington, Widdrington, Wooler, Wylam.
 
-### PART X — NORTH YORKSHIRE[^key-5a8e7e187f8ddc8c83a4c59c4b95e4bb]
+### PART X — NORTH YORKSHIRE[^c-5a8e7e187f8ddc8c83a4c59c4b95e4bb]
 
 - Acaster Malbis, Acaster Selby, Acklam, Ainderby Mires with Holtby, Ainderby Quernhow, Ainderby Steeple, Airton, Aiskew, Aislaby (in the district of Scarborough), Aislaby (in the district of Ryedale), Akebar, Aldborough, Aldfield, Aldwark, Allerston, Allerton Mauleverer with Hopperton, Alne, Amotherby, Ampleforth, Angram Grange, Appleton East and West, Appleton Roebuck, Appleton Wiske, Appleton Le Moors, Appleton Le Street with Easthorpe, Appletreewick, Arkendale, Arkengarthdale, Arncliffe, Arrathorne, Asenby, Aske, Askham Bryan, Askham Richard, Askrigg, Askwith, Austwick, Aysgarth, Azerley,
 - Bagby, Bainbridge, Baldersby, Balk, Balne, Bank Newton, Barden (in the district of Richmondshire), Barden (in the district of Craven), Barkston Ash, Barlow, Barnby, Barton, Barton le Street, Barton le Willows, Barugh (Great and Little), Beadlam, Beal, Beamsley, Bedale, Bellerby, Beningbrough, Bentham, Bewerley, Biggin, Bilbrough, Bilsdale Midcable, Bilton in Ainsty with Bickerton, Birdforth, Birdsall, Birkby, Birkin, Birstwith, Bishop Monkton, Bishop Thornton, Bishopdale, Blubberhouses, Boltby, Bolton Abbey, Bolton Percy, Bolton on Swale, Bordley, Boroughbridge, Borrowby (in the district of Hambleton), Borrowby (in the district of Scarborough), Bradleys Both, Brafferton, Brandsby cum Stearsby, Bransdale, Brawby, Brearton, Bridge Hewick, Brompton (in the district of Scarborough), Brompton (in the district of Hambleton), Brompton on Swale, Brotherton, Brough with St Giles, Broughton (in the district of Ryedale), Broughton (in the district of Craven), Broxa cum Troutsdale, Buckden, Bulmer, Burn, Burneston, Burniston, Burnsall, Burrill with Cowling, Burton cum Walden, Burton in Lonsdale, Burton Leonard, Burton Salmon, Burton on Yore, Burythorpe, Buttercrambe with Bossall, Byland with Wass, Byram cum Sutton,
@@ -224,7 +224,7 @@ Article 2(a)
 - Walburn, Walden Stubbs, Walkingham Hill with Occaney, Warlaby, Warsill, Warthill, Wath, Weaverthorpe, Weeton, Welburn (Amotherby Ward in the district of Ryedale), Welburn (Kirkbymoorside Ward in the district of Ryedale), Welbury, Well, Wensley, West Ayton, West Haddlesey, West Harlsey, West Hauxwell, West Layton, West Rounton, West Scrafton, West Tanfield, West Witton, Westerdale, Weston, Westow, Westwick, Wharram, Whashton, Wheldrake, Whenby, Whitley, Whitwell, Whitwell on the Hill, Whixley, Whorlton, Wig glesworth, Wighill, Wildon Grange, Willerby, Wilstrop, Wilton, Winksley, Winton Stank and Hallikeld, Wintringham, Wistow, Wombleton, Womersley, Wrelton, Wykeham,
 - Yafforth, Yearsley, Youlton.
 
-### PART XI — SOUTH YORKSHIRE[^key-67e7280d15d35e2fd3a503b90886ff43]
+### PART XI — SOUTH YORKSHIRE[^c-67e7280d15d35e2fd3a503b90886ff43]
 
 - Auckley, Austerfield,
 - Barnburgh, Bawtry, Billingley, Blaxton, Braithwell, Burghwallis,
@@ -244,13 +244,13 @@ Article 2(a)
 - Ulley,
 - Wadworth, Wentworth, Woodsetts, Wortley.
 
-### PART XII — TYNE AND WEAR[^key-67730c7ae7ea07ed007f08ba94cfd728]
+### PART XII — TYNE AND WEAR[^c-67730c7ae7ea07ed007f08ba94cfd728]
 
 - Burdon,
 - Dinnington,
 - Warden Law.
 
-### PART XIII — WEST YORKSHIRE[^key-5bff804758ccd321e089e45cec1fbc98]
+### PART XIII — WEST YORKSHIRE[^c-5bff804758ccd321e089e45cec1fbc98]
 
 - Aberford, Addingham, Austhorpe,
 - Badsworth, Bardsey cum Rigton, Barwick in Elmet and Scholes, Blackshaw, Bramham cum Oglethorpe,
@@ -273,7 +273,7 @@ Article 2(a)
 
 Article 2(b)
 
-### PART I — EAST RIDING OF YORKSHIRE[^key-d1e743384e62f2862f54bd6e8d9406c4]
+### PART I — EAST RIDING OF YORKSHIRE[^c-d1e743384e62f2862f54bd6e8d9406c4]
 
 The parishes of—
 
@@ -282,15 +282,15 @@ The parishes of—
 - South Cave,
 - Woodmansey.
 
-### PART II — HARTLEPOOL[^key-9040a41a3a5868d830f6b3f5cfc9cdba]
+### PART II — HARTLEPOOL[^c-9040a41a3a5868d830f6b3f5cfc9cdba]
 
 - The unparished area of the borough constituency of Hartlepool[^f00003].
 
-### PART III — NORTH LINCOLNSHIRE[^key-b414ad6da88c96c6186eff49e6a2f8a2]
+### PART III — NORTH LINCOLNSHIRE[^c-b414ad6da88c96c6186eff49e6a2f8a2]
 
 - The parish of Bottesford.
 
-### PART IV — REDCAR AND CLEVELAND[^key-bd8d16fc6d8ddee9686f1404198896f3]
+### PART IV — REDCAR AND CLEVELAND[^c-bd8d16fc6d8ddee9686f1404198896f3]
 
 The parishes of—
 
@@ -300,7 +300,7 @@ The parishes of—
 
 The unparished area of the borough constituency of Redcar[^f00004].
 
-### PART V — DURHAM[^key-864edc912ebc4b8ab6fbcf2d9fa46898]
+### PART V — DURHAM[^c-864edc912ebc4b8ab6fbcf2d9fa46898]
 
 The parishes of—
 
@@ -326,11 +326,11 @@ The unparished area[^f00010] bounded by the parishes of Urpeth, Edmondsley, the 
 
 The unparished area[^f00011] bounded by the county constituency of Bishop Auck land[^f00012] and the parishes of Wolsingham, Hedleythorpe, Brandon and Byshottles, Brancepeth and Spennymore.
 
-### PART VI — NORTHUMBERLAND[^key-851dd002fbf92c7eda4901c838f3e7cf]
+### PART VI — NORTHUMBERLAND[^c-851dd002fbf92c7eda4901c838f3e7cf]
 
 The parishes of—
 
-- [^key-877f9eddd19039aa44dceb8c36530433]...
+- [^c-877f9eddd19039aa44dceb8c36530433]...
 - Hexham,
 - Ord,
 - Ponteland, Prudhoe,
@@ -340,7 +340,7 @@ The unparished area of the borough constituency of Blyth Valley[^f00013].
 
 The unparished area of the county constituency of Wansbeck[^f00014] excluding the parishes of Longhurst, Pegswood, Hepscott, Morpeth, Mitford and Hebron.
 
-### PART VII — NORTH YORKSHIRE[^key-1437c054d10b5df167b8b06d6670efa7]
+### PART VII — NORTH YORKSHIRE[^c-1437c054d10b5df167b8b06d6670efa7]
 
 The parishes of—
 
@@ -358,7 +358,7 @@ The parishes of—
 
 The unparished area[^f00015] bounded by the parishes of Nida, Brearton, Scotton, Knaresborough, Plompton, Follifoot, Spofforth with Stockfield, Kirkby Overblow, North Rigton, Pannal and Killinghall.
 
-### PART VIII — SOUTH YORKSHIRE[^key-b9394fa20da2bd9027ffb29b4be81d84]
+### PART VIII — SOUTH YORKSHIRE[^c-b9394fa20da2bd9027ffb29b4be81d84]
 
 The parishes of—
 
@@ -372,7 +372,7 @@ The parishes of—
 - Thurcroft,
 - Whiston.
 
-### PART IX — TYNE AND WEAR[^key-253d8274eec70cd1726b3b02f6605100]
+### PART IX — TYNE AND WEAR[^c-253d8274eec70cd1726b3b02f6605100]
 
 The parishes of—
 
@@ -382,7 +382,7 @@ The parishes of—
 
 The unparished area of the borough constituency of Blaydon[^f00016] excluding the parishes of Lamesley and Birtley.
 
-### PART X — WEST YORKSHIRE[^key-09df6266f22e21d0cf0372610cf65770]
+### PART X — WEST YORKSHIRE[^c-09df6266f22e21d0cf0372610cf65770]
 
 The parishes of—
 
@@ -412,51 +412,51 @@ Those parishes in Schedule 1 are exempt in their entirety from the right to acqu
 
 [^f00002]: Footnote: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88); section 1AA was inserted by paragraph 1 of Schedule 9 to the Housing Act 1996.
 
-[^key-0b185c9d0e053b0301e1a41a1df1ec15]: Commencement: Art. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-0b185c9d0e053b0301e1a41a1df1ec15]: Commencement: Art. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-f26b28c431a3e350e8e6221bf88c1c63]: Commencement: Art. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-f26b28c431a3e350e8e6221bf88c1c63]: Commencement: Art. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-3bd1d9d5b0a1cbab347a7e84c381b65f]: Commencement: Sch. 1 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-3bd1d9d5b0a1cbab347a7e84c381b65f]: Commencement: Sch. 1 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-aa19e14b2eb1c62b3cd81c444f5bce0e]: Commencement: Sch. 1 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-aa19e14b2eb1c62b3cd81c444f5bce0e]: Commencement: Sch. 1 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-f922b5e4a4b356c152ee780d01574d2b]: Commencement: Sch. 1 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-f922b5e4a4b356c152ee780d01574d2b]: Commencement: Sch. 1 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-f725df9c952a8d51042b0f0a0acc065e]: Commencement: Sch. 1 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-f725df9c952a8d51042b0f0a0acc065e]: Commencement: Sch. 1 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-d514ad1fc3dad0e94bdbce59de6e419a]: Commencement: Sch. 1 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-d514ad1fc3dad0e94bdbce59de6e419a]: Commencement: Sch. 1 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-2b9c3aae7bc2165ac1b85c87dd00e483]: Commencement: Sch. 1 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-2b9c3aae7bc2165ac1b85c87dd00e483]: Commencement: Sch. 1 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-19f1fb0f958a7a9bdc04c3df22cbe064]: Commencement: Sch. 1 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-19f1fb0f958a7a9bdc04c3df22cbe064]: Commencement: Sch. 1 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-fff1b5aea4906048b9a8ff52defda320]: Commencement: Sch. 1 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-fff1b5aea4906048b9a8ff52defda320]: Commencement: Sch. 1 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-dd42e51f266f4441fcfaa7cb19d58347]: Commencement: Sch. 1 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-dd42e51f266f4441fcfaa7cb19d58347]: Commencement: Sch. 1 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-f12cc2a9e787287f60c7d9aa528d1318]: Textual amendment: Word in Sch. 1 Pt. 9 revoked (3.6.1999) by [The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 (S.I. 1999/1307)](https://www.legislation.gov.uk/uksi/1999/1307), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1307/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1999/1307/article/3/b)
+[^c-f12cc2a9e787287f60c7d9aa528d1318]: Textual amendment: Word in Sch. 1 Pt. 9 revoked (3.6.1999) by [The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 (S.I. 1999/1307)](https://www.legislation.gov.uk/uksi/1999/1307), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1307/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1999/1307/article/3/b)
 
-[^key-5a8e7e187f8ddc8c83a4c59c4b95e4bb]: Commencement: Sch. 1 Pt. 10 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-5a8e7e187f8ddc8c83a4c59c4b95e4bb]: Commencement: Sch. 1 Pt. 10 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-67e7280d15d35e2fd3a503b90886ff43]: Commencement: Sch. 1 Pt. 11 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-67e7280d15d35e2fd3a503b90886ff43]: Commencement: Sch. 1 Pt. 11 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-67730c7ae7ea07ed007f08ba94cfd728]: Commencement: Sch. 1 Pt. 12 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-67730c7ae7ea07ed007f08ba94cfd728]: Commencement: Sch. 1 Pt. 12 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-5bff804758ccd321e089e45cec1fbc98]: Commencement: Sch. 1 Pt. 13 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-5bff804758ccd321e089e45cec1fbc98]: Commencement: Sch. 1 Pt. 13 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-d1e743384e62f2862f54bd6e8d9406c4]: Commencement: Sch. 2 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-d1e743384e62f2862f54bd6e8d9406c4]: Commencement: Sch. 2 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-9040a41a3a5868d830f6b3f5cfc9cdba]: Commencement: Sch. 2 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-9040a41a3a5868d830f6b3f5cfc9cdba]: Commencement: Sch. 2 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
 [^f00003]: Footnote: Designated a borough constituency by [S.I. 1983/417](https://www.legislation.gov.uk/uksi/1983/417), to which there are amendments not relevant to this Order.
 
-[^key-b414ad6da88c96c6186eff49e6a2f8a2]: Commencement: Sch. 2 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-b414ad6da88c96c6186eff49e6a2f8a2]: Commencement: Sch. 2 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-bd8d16fc6d8ddee9686f1404198896f3]: Commencement: Sch. 2 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-bd8d16fc6d8ddee9686f1404198896f3]: Commencement: Sch. 2 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
 [^f00004]: Footnote: Designated a borough constituency by [S.I. 1983/417](https://www.legislation.gov.uk/uksi/1983/417), to which there are amendments not relevant to this Order.
 
-[^key-864edc912ebc4b8ab6fbcf2d9fa46898]: Commencement: Sch. 2 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-864edc912ebc4b8ab6fbcf2d9fa46898]: Commencement: Sch. 2 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
 [^f00005]: Footnote: Containing the settlement of Bishop Auckland.
 
@@ -474,25 +474,25 @@ Those parishes in Schedule 1 are exempt in their entirety from the right to acqu
 
 [^f00012]: Footnote: Designated a county constituency by [S.I. 1983/417](https://www.legislation.gov.uk/uksi/1983/417); the relevant amending instrument is [S.I. 1987/462](https://www.legislation.gov.uk/uksi/1987/462).
 
-[^key-851dd002fbf92c7eda4901c838f3e7cf]: Commencement: Sch. 2 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-851dd002fbf92c7eda4901c838f3e7cf]: Commencement: Sch. 2 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-877f9eddd19039aa44dceb8c36530433]: Textual amendment: Words in Sch. 2 Pt. 6 revoked (3.6.1999) by [The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 (S.I. 1999/1307)](https://www.legislation.gov.uk/uksi/1999/1307), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1307/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1999/1307/article/3/b)
+[^c-877f9eddd19039aa44dceb8c36530433]: Textual amendment: Words in Sch. 2 Pt. 6 revoked (3.6.1999) by [The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 (S.I. 1999/1307)](https://www.legislation.gov.uk/uksi/1999/1307), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1307/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1999/1307/article/3/b)
 
 [^f00013]: Footnote: Designated a borough constituency by [S.I. 1983/417](https://www.legislation.gov.uk/uksi/1983/417), to which there are amendments not relevant to this Order.
 
 [^f00014]: Footnote: Designated a county constituency by [S.I. 1983/417](https://www.legislation.gov.uk/uksi/1983/417), to which there are amendments not relevant to this Order.
 
-[^key-1437c054d10b5df167b8b06d6670efa7]: Commencement: Sch. 2 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-1437c054d10b5df167b8b06d6670efa7]: Commencement: Sch. 2 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
 [^f00015]: Footnote: Containing the settlement of Harrogate.
 
-[^key-b9394fa20da2bd9027ffb29b4be81d84]: Commencement: Sch. 2 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-b9394fa20da2bd9027ffb29b4be81d84]: Commencement: Sch. 2 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
-[^key-253d8274eec70cd1726b3b02f6605100]: Commencement: Sch. 2 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-253d8274eec70cd1726b3b02f6605100]: Commencement: Sch. 2 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
 [^f00016]: Footnote: Designated a borough constituency by [S.I. 1983/417](https://www.legislation.gov.uk/uksi/1983/417), to which there are amendments not relevant to this Order.
 
-[^key-09df6266f22e21d0cf0372610cf65770]: Commencement: Sch. 2 Pt. 10 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
+[^c-09df6266f22e21d0cf0372610cf65770]: Commencement: Sch. 2 Pt. 10 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/624/article/1)
 
 [^f00017]: Footnote: Containing the town of Keighley.
 

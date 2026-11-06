@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Expressions relating to lawfulness[^key-8ce91e7380df5c22d1ea1cf554e7279b]
+## 155. Expressions relating to lawfulness[^c-8ce91e7380df5c22d1ea1cf554e7279b]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ce91e7380df5c22d1ea1cf554e7279b]: Commencement: S. 155 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8ce91e7380df5c22d1ea1cf554e7279b]: Commencement: S. 155 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

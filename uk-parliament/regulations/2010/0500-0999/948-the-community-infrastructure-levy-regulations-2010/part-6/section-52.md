@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Social housing relief: disposal of land before occupation[^key-de0d6aad12cd0831fa24fbcaf1e0287d]
+## 52. Social housing relief: disposal of land before occupation[^c-de0d6aad12cd0831fa24fbcaf1e0287d]
 
 *Extent: E+W*
 
 (1) This regulation applies where—
 
 - (a) social housing relief has been granted in respect of a chargeable development;
-- (b) an owner (O) of the relevant land makes a material disposal of land on which qualifying dwellings or qualifying communal development[^key-64ab97c99ebe49eccd2cd05164bbde21] will be situated to another person (P1); and
-- (c) the disposal is made before those qualifying dwellings are made available for occupation or that qualifying communal development is made available for use[^key-6cb32e587decc4031029cfbebe84a576].
+- (b) an owner (O) of the relevant land makes a material disposal of land on which qualifying dwellings or qualifying communal development[^c-64ab97c99ebe49eccd2cd05164bbde21] will be situated to another person (P1); and
+- (c) the disposal is made before those qualifying dwellings are made available for occupation or that qualifying communal development is made available for use[^c-6cb32e587decc4031029cfbebe84a576].
 
-(2) P1 is deemed to benefit from an amount of social housing relief equal to the qualifying amount for the qualifying dwellings or qualifying communal development[^key-c51d9eb151c229b43795050d8da6c177] which will be situated on the land O disposed of to P1.
+(2) P1 is deemed to benefit from an amount of social housing relief equal to the qualifying amount for the qualifying dwellings or qualifying communal development[^c-c51d9eb151c229b43795050d8da6c177] which will be situated on the land O disposed of to P1.
 
 (3) The qualifying amount mentioned in paragraph (2) must be calculated in accordance with regulation 50, and for the purposes of that calculation—
 
 - (a) the value of Q<sub>R</sub> is the gross internal area of the part of the chargeable development—
-  - (i) which will comprise qualifying dwellings or qualifying communal development[^key-7c18973f4c6c67d262f715d6312cdeb9] and be situated on the land O disposed of to P1, and
+  - (i) which will comprise qualifying dwellings or qualifying communal development[^c-7c18973f4c6c67d262f715d6312cdeb9] and be situated on the land O disposed of to P1, and
   - (ii) in respect of which, but for social housing relief, CIL would be chargeable at rate R; and
 - (b) the value of E is the value of E as calculated at the time social housing relief was granted in respect of the chargeable development.
 
@@ -43,8 +43,8 @@ summary: ''
 
 (7) The notification must—
 
-- (a) state the gross internal area of the qualifying dwellings or qualifying communal development[^key-27cbfa51b1ce2caa000795c07baec284] which will be situated on the land which has been disposed of;
-- (b) be accompanied by a map or plan which identifies the location of those dwellings or development (as the case may be)[^key-c3ec0f72aba805ee65f2f40399a8774c]; and
+- (a) state the gross internal area of the qualifying dwellings or qualifying communal development[^c-27cbfa51b1ce2caa000795c07baec284] which will be situated on the land which has been disposed of;
+- (b) be accompanied by a map or plan which identifies the location of those dwellings or development (as the case may be)[^c-c3ec0f72aba805ee65f2f40399a8774c]; and
 - (c) state the name and address of O, P1 and (if P2 is not O) P2.
 
 (8) O must send a copy of the notification to P1 and (if P2 is not O) P2.
@@ -53,16 +53,16 @@ summary: ''
 
 ## Annotations
 
-[^key-de0d6aad12cd0831fa24fbcaf1e0287d]: Commencement: Reg. 52 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-de0d6aad12cd0831fa24fbcaf1e0287d]: Commencement: Reg. 52 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-64ab97c99ebe49eccd2cd05164bbde21]: Textual amendment: Words in [reg. 52(1)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/1/b) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(a)(i)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/a/i)
+[^c-64ab97c99ebe49eccd2cd05164bbde21]: Textual amendment: Words in [reg. 52(1)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/1/b) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(a)(i)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/a/i)
 
-[^key-6cb32e587decc4031029cfbebe84a576]: Textual amendment: Words in [reg. 52(1)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/1/c) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/a/ii)
+[^c-6cb32e587decc4031029cfbebe84a576]: Textual amendment: Words in [reg. 52(1)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/1/c) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/a/ii)
 
-[^key-c51d9eb151c229b43795050d8da6c177]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/2) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/b)
+[^c-c51d9eb151c229b43795050d8da6c177]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/2) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/b)
 
-[^key-7c18973f4c6c67d262f715d6312cdeb9]: Textual amendment: Words in [reg. 52(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/3/a/i) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(c)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/c)
+[^c-7c18973f4c6c67d262f715d6312cdeb9]: Textual amendment: Words in [reg. 52(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/3/a/i) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(c)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/c)
 
-[^key-27cbfa51b1ce2caa000795c07baec284]: Textual amendment: Words in [reg. 52(7)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/7/a) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(d)(i)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/d/i)
+[^c-27cbfa51b1ce2caa000795c07baec284]: Textual amendment: Words in [reg. 52(7)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/7/a) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(d)(i)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/d/i)
 
-[^key-c3ec0f72aba805ee65f2f40399a8774c]: Textual amendment: Words in [reg. 52(7)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/7/b) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/d/ii)
+[^c-c3ec0f72aba805ee65f2f40399a8774c]: Textual amendment: Words in [reg. 52(7)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/52/7/b) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/8/d/ii)

@@ -30,7 +30,7 @@ summary: ''
 - (b) in section 203, subsections (3) to (7);
 - (c) in section 206, subsections (4) to (8).
 
-(3A)[^key-d7fd836ae6384249a068299f6191dd35] Part 3 has effect for those purposes as if the following sections were substituted for section 193—
+(3A)[^c-d7fd836ae6384249a068299f6191dd35] Part 3 has effect for those purposes as if the following sections were substituted for section 193—
 
 > **193. Determination of top-up amounts of entity that is a member of a group**
 >
@@ -102,7 +102,7 @@ summary: ''
 
 - (a) section 173(1)(b) and sections 189 to 192 (eligible distribution tax systems);
 - (b) section 225 (attribution of top-up amounts of investment entities).
-- (c)[^key-c84562f239612b48a9106c4ecda45512] Chapter 9A (qualifying undertaxed profits tax).
+- (c)[^c-c84562f239612b48a9106c4ecda45512] Chapter 9A (qualifying undertaxed profits tax).
 
 (5) Where—
 
@@ -133,7 +133,7 @@ that election has effect for domestic purposes.
   > (3B) Paragraph 1 of Schedule 15 (long term elections) applies to an election under subsection (3A), and has effect for that purpose as if references to an information return or overseas return notification were to a self-assessment return or below-threshold notification.
 
   ;
-- (aa)[^key-9354da34af93698f5db59f1089ef9eea] section 138 (profits adjusted to be before tax) has effect as if at the end of subsection (2) there were inserted—
+- (aa)[^c-9354da34af93698f5db59f1089ef9eea] section 138 (profits adjusted to be before tax) has effect as if at the end of subsection (2) there were inserted—
 
   > - (g) a group relief payment so far as excluded (and for that purpose “group relief payment” and “excluded” have the meaning given in section 173(3)).
 
@@ -162,51 +162,51 @@ that election has effect for domestic purposes.
 
   ;
 - (c) section 178 (reallocation of tax expense) has effect as if—
-  - (i) for subsection (1A) there were substituted[^key-2194c332268f222cad63db378bf60a88]—
+  - (i) for subsection (1A) there were substituted[^c-2194c332268f222cad63db378bf60a88]—
 
     > (1A) But qualifying tax expense in respect of tax imposed by a territory other than the United Kingdom is not to be allocated to O as a result of the allocation of profits under section 167 (hybrids).
 
     ;
   - (ii) subsection (2) (restriction on allocation of tax expense in respect of mobile income) were omitted;
-- (d)[^key-5d10facc8aede8a45323180d89437757] section 179 (controlled foreign companies) has effect as if for subsection (2) there were substituted—
+- (d)[^c-5d10facc8aede8a45323180d89437757] section 179 (controlled foreign companies) has effect as if for subsection (2) there were substituted—
 
   > (2) But the amount of qualifying current tax expense in respect of mobile income allocated to F is not to exceed 15% of the adjusted profits of F.
-- (da)[^key-709eb6dead4a60f489e232ae765fc1f4] section 182 (total deferred tax adjustment amount) has effect as if in subsection (2)(e),[^key-589dd97260a59848c961f603f55d86f2] after “credits”, in the first place it occurs, there were inserted “other than qualifying refundable tax credits”;
-- (e)[^key-70003a668900cffca8709af04b7a2c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-35bb18757fe7f9f4c083ca4dd371f059] section 239(4)(a) (location of entities: tie-breaker by reference to covered taxes) has effect without the modification made by paragraph (ab).
+- (da)[^c-709eb6dead4a60f489e232ae765fc1f4] section 182 (total deferred tax adjustment amount) has effect as if in subsection (2)(e),[^c-589dd97260a59848c961f603f55d86f2] after “credits”, in the first place it occurs, there were inserted “other than qualifying refundable tax credits”;
+- (e)[^c-70003a668900cffca8709af04b7a2c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-35bb18757fe7f9f4c083ca4dd371f059] section 239(4)(a) (location of entities: tie-breaker by reference to covered taxes) has effect without the modification made by paragraph (ab).
 
-(9)[^key-76d7b52024b13108024dc4f8936f2682] An investment entity is a qualifying investment entity in relation to a qualifying entity if it is
+(9)[^c-76d7b52024b13108024dc4f8936f2682] An investment entity is a qualifying investment entity in relation to a qualifying entity if it is
 
 - (a) a member of the same group as the qualifying entity, and
 - (b) located in United Kingdom.
 
 (10) Subsection (11) applies to qualifying entities that are standard members of a group for an accounting period where—
 
-- (a) the total top-up amount referred to in section 193 for that period is greater than nil as a result of the modification of that section set out in subsection (3A)[^key-151fae8c7309535b37de865117f2ed4d], and
+- (a) the total top-up amount referred to in section 193 for that period is greater than nil as a result of the modification of that section set out in subsection (3A)[^c-151fae8c7309535b37de865117f2ed4d], and
 - (b) none of those members have made a profit for that period (and accordingly will not, ignoring subsection (11), have top-up amounts).
 
 (11) Where this subsection applies, each of those members has a top-up amount (for the purposes of domestic top-up tax) equal to the total top-up amount divided by the number of qualifying entities that are standard members of the group.
 
 ## Annotations
 
-[^key-d7fd836ae6384249a068299f6191dd35]: Textual amendment: S. 272(3A) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 43(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/43/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-d7fd836ae6384249a068299f6191dd35]: Textual amendment: S. 272(3A) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 43(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/43/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-c84562f239612b48a9106c4ecda45512]: Textual amendment: S. 272(4)(c) inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 9(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/9/3), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-c84562f239612b48a9106c4ecda45512]: Textual amendment: S. 272(4)(c) inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 9(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/9/3), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-9354da34af93698f5db59f1089ef9eea]: Textual amendment: S. 272(8)(aa)(ab) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 37(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/37/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-9354da34af93698f5db59f1089ef9eea]: Textual amendment: S. 272(8)(aa)(ab) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 37(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/37/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-2194c332268f222cad63db378bf60a88]: Textual amendment: Words in s. 272(8)(c)(i) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/2)
+[^c-2194c332268f222cad63db378bf60a88]: Textual amendment: Words in s. 272(8)(c)(i) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/2)
 
-[^key-5d10facc8aede8a45323180d89437757]: Textual amendment: [S. 272(8)(d)](https://www.legislation.gov.uk/ukpga/2023/30/section/272/8/d) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 38](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/38), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-5d10facc8aede8a45323180d89437757]: Textual amendment: [S. 272(8)(d)](https://www.legislation.gov.uk/ukpga/2023/30/section/272/8/d) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 38](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/38), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-709eb6dead4a60f489e232ae765fc1f4]: Textual amendment: S. 272(8)(da) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 44(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/44/1)
+[^c-709eb6dead4a60f489e232ae765fc1f4]: Textual amendment: S. 272(8)(da) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 44(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/44/1)
 
-[^key-589dd97260a59848c961f603f55d86f2]: Textual amendment: Words in [s. 272(8)(da)](https://www.legislation.gov.uk/ukpga/2023/30/section/272/8/da) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 47(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/47/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-589dd97260a59848c961f603f55d86f2]: Textual amendment: Words in [s. 272(8)(da)](https://www.legislation.gov.uk/ukpga/2023/30/section/272/8/da) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 47(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/47/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-70003a668900cffca8709af04b7a2c31]: Textual amendment: S. 272(8)(e) omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 43(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/43/3), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-70003a668900cffca8709af04b7a2c31]: Textual amendment: S. 272(8)(e) omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 43(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/43/3), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-35bb18757fe7f9f4c083ca4dd371f059]: Textual amendment: S. 272(8)(f) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 37(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/37/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-35bb18757fe7f9f4c083ca4dd371f059]: Textual amendment: S. 272(8)(f) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 37(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/37/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-76d7b52024b13108024dc4f8936f2682]: Textual amendment: S. 272(9)-(11) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 43(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/43/3/b)
+[^c-76d7b52024b13108024dc4f8936f2682]: Textual amendment: S. 272(9)-(11) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 43(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/43/3/b)
 
-[^key-151fae8c7309535b37de865117f2ed4d]: Textual amendment: Word in [s. 272(10)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/272/10/a) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 47(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/47/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-151fae8c7309535b37de865117f2ed4d]: Textual amendment: Word in [s. 272(10)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/272/10/a) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 47(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/47/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Enhancement of child pension[^key-312615e0002960a653e08a23215dae4d]
+## 149. Enhancement of child pension[^c-312615e0002960a653e08a23215dae4d]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ where—
 
 ## Annotations
 
-[^key-312615e0002960a653e08a23215dae4d]: Commencement: [Reg. 149](https://www.legislation.gov.uk/ssi/2014/292/regulation/149) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-312615e0002960a653e08a23215dae4d]: Commencement: [Reg. 149](https://www.legislation.gov.uk/ssi/2014/292/regulation/149) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

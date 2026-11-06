@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Meaning of existing spectrum holdings[^key-b777fc893ac2243b4d7948101eb657ba]
+## 5. Meaning of existing spectrum holdings[^c-b777fc893ac2243b4d7948101eb657ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b777fc893ac2243b4d7948101eb657ba]: Commencement: Reg. 5 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-b777fc893ac2243b4d7948101eb657ba]: Commencement: Reg. 5 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

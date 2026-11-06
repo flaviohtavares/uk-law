@@ -34,7 +34,7 @@ summary: ''
 - (a) the office of the Director General of Telecommunications shall be abolished; and
 - (b) the Broadcasting Standards Commission, the Independent Television Commission and the Radio Authority shall cease to exist.
 
-(5)[^key-cfd537606cfbae2c951384dbe07f2a56] Section 54 of the Telecommunications Act 1984 (c. 12) (which provides for the establishment of advisory bodies) shall cease to have effect; and each of the bodies established under that section shall cease to exist on such day as the Secretary of State may by order appoint.
+(5)[^c-cfd537606cfbae2c951384dbe07f2a56] Section 54 of the Telecommunications Act 1984 (c. 12) (which provides for the establishment of advisory bodies) shall cease to have effect; and each of the bodies established under that section shall cease to exist on such day as the Secretary of State may by order appoint.
 
 (6) Different days may be appointed under this section for the Director General of Telecommunications and for each of the different bodies mentioned in subsections (4)(b) and (5).
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c5312091]: Commencement: S. 31 partly in force; s. 31(1)(2)(3)(4)(6) in force at Royal Assent see s. 411(3)
 
-[^key-cfd537606cfbae2c951384dbe07f2a56]: Commencement: S. 31(5) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cfd537606cfbae2c951384dbe07f2a56]: Commencement: S. 31(5) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

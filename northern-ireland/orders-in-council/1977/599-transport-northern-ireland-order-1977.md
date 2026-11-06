@@ -95,7 +95,7 @@ The Department may, with the approval of the Department of Finance make grants t
 
 (2) Where an agreement is entered into under sub-section (1), the Department may pay to the undertakings a grant of such amount as may be agreed between the Department and the undertakings and approved by the Department of Finance.
 
-## 6. Grants towards capital expenditure incurred by subsidiary company of Holding Company providing road passenger transport services[^key-54df4f2e4018744b05e370b668f1dcdf]
+## 6. Grants towards capital expenditure incurred by subsidiary company of Holding Company providing road passenger transport services[^c-54df4f2e4018744b05e370b668f1dcdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,7 +159,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine[^c54
 
 [^m00004]: Marginal citation: SRO 1973/96
 
-[^key-54df4f2e4018744b05e370b668f1dcdf]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1977/599/article/6) repealed (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(o)](https://www.legislation.gov.uk/nisr/2013/104/article/2/o)
+[^c-54df4f2e4018744b05e370b668f1dcdf]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1977/599/article/6) repealed (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(o)](https://www.legislation.gov.uk/nisr/2013/104/article/2/o)
 
 [^c5457661]: Textual amendment: O.J. No. L156, 28.6.1969, p.1 (O.J./S.E. 1969 (I), p.276)
 

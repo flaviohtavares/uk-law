@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Bus strategies no longer required[^key-47a679c7b335846fc49eba4de64d7870][^key-5346a2abd3031ee1a05a6789cf5ae7e5]
+## 10. Bus strategies no longer required[^c-47a679c7b335846fc49eba4de64d7870][^c-5346a2abd3031ee1a05a6789cf5ae7e5]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47a679c7b335846fc49eba4de64d7870]: Commencement: S. 10 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/2))
+[^c-47a679c7b335846fc49eba4de64d7870]: Commencement: S. 10 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/2))
 
-[^key-5346a2abd3031ee1a05a6789cf5ae7e5]: Commencement: S. 10 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/579/schedule/paragraph/1))
+[^c-5346a2abd3031ee1a05a6789cf5ae7e5]: Commencement: S. 10 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/579/schedule/paragraph/1))

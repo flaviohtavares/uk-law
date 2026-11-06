@@ -49,7 +49,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 19F(2), 83E(2) and 223(3)(b) of the Extradition Act 2003[^f00001] makes the following Order.
 
-## 1. Citation, commencement and extent[^key-46178d46e3312ca55a8da12d095afd63]
+## 1. Citation, commencement and extent[^c-46178d46e3312ca55a8da12d095afd63]
 
 This Order—
 
@@ -57,13 +57,13 @@ This Order—
 - (b) comes into force on 14th October 2013; and
 - (c) extends to England and Wales and Northern Ireland.
 
-## 2. Interpretation and transitional provision[^key-c46ca13ff74b51f9012c24c263d4cd2f]
+## 2. Interpretation and transitional provision[^c-c46ca13ff74b51f9012c24c263d4cd2f]
 
 (1) In this Order, “the CMA Board” has the same meaning as in Schedule 4 to the Enterprise and Regulatory Reform Act 2013[^f00002] (the Competition and Markets Authority – General).
 
 (2) Until section 25 of the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority) comes into force, the reference to the CMA Board in the Schedule has effect as if it were a reference to the Office of Fair Trading.
 
-## 3. Designated prosecutors and descriptions of designated prosecutors[^key-479829a868be34338014394ca576c792]
+## 3. Designated prosecutors and descriptions of designated prosecutors[^c-479829a868be34338014394ca576c792]
 
 The following persons are designated prosecutors for the purposes of sections 19F(2) and 83E(2) of the Extradition Act 2003—
 
@@ -78,15 +78,15 @@ Home Office
 
 19th September 2013
 
-## SCHEDULE — Listed Prosecutors[^key-93be8fcaf9eedf34b091481a1b02ac4a]
+## SCHEDULE — Listed Prosecutors[^c-93be8fcaf9eedf34b091481a1b02ac4a]
 
 Article 3
 
-[^key-93be8fcaf9eedf34b091481a1b02ac4a]
+[^c-93be8fcaf9eedf34b091481a1b02ac4a]
 
 - The CMA Board
 - The Director of Public Prosecutions for Northern Ireland
-- [^key-2799e0bac7f8b5b3c6dbcc744312cb04]...
+- [^c-2799e0bac7f8b5b3c6dbcc744312cb04]...
 - The Director of the Serious Fraud Office
 - The Director of Service Prosecutions
 - The Financial Conduct Authority
@@ -106,14 +106,14 @@ An impact assessment has not been produced for this Order as no impact on busine
 
 [^f00001]: Footnote: [2003 c.41](https://www.legislation.gov.uk/ukpga/2003/41); sections 19F and 83E were inserted by section 50 of, and paragraphs 3 and 6 of Part 1 of Schedule 20 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-46178d46e3312ca55a8da12d095afd63]: Commencement: Art. 1 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+[^c-46178d46e3312ca55a8da12d095afd63]: Commencement: Art. 1 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
 
-[^key-c46ca13ff74b51f9012c24c263d4cd2f]: Commencement: Art. 2 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+[^c-c46ca13ff74b51f9012c24c263d4cd2f]: Commencement: Art. 2 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
 
 [^f00002]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-479829a868be34338014394ca576c792]: Commencement: Art. 3 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+[^c-479829a868be34338014394ca576c792]: Commencement: Art. 3 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
 
-[^key-93be8fcaf9eedf34b091481a1b02ac4a]: Commencement: Sch. in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+[^c-93be8fcaf9eedf34b091481a1b02ac4a]: Commencement: Sch. in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
 
-[^key-2799e0bac7f8b5b3c6dbcc744312cb04]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/2388/schedule) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/37)
+[^c-2799e0bac7f8b5b3c6dbcc744312cb04]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/2388/schedule) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/37)

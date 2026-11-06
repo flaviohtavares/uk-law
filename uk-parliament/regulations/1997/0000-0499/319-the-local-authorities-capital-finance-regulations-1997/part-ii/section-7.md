@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Computer programs[^key-ee774768c8292e82416f04f4a30fcb0d]
+## 7. Computer programs[^c-ee774768c8292e82416f04f4a30fcb0d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Expenditure incurred by a local authority on the acquisition or preparation of a
 
 ## Annotations
 
-[^key-ee774768c8292e82416f04f4a30fcb0d]: Commencement: Reg. 7 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ee774768c8292e82416f04f4a30fcb0d]: Commencement: Reg. 7 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 70. Amendments to the Annexes to Regulation (EC) No 338/97[^key-d385d89c6102ccac0e9c7cf8092709f4]
+## Article 70. Amendments to the Annexes to Regulation (EC) No 338/97[^c-d385d89c6102ccac0e9c7cf8092709f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d385d89c6102ccac0e9c7cf8092709f4]: Textual amendment: [Art. 70](https://www.legislation.gov.uk/eur/2006/865/article/70) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(68)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/68)
+[^c-d385d89c6102ccac0e9c7cf8092709f4]: Textual amendment: [Art. 70](https://www.legislation.gov.uk/eur/2006/865/article/70) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(68)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/68)

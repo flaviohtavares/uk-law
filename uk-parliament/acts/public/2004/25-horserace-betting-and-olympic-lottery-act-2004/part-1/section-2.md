@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Successor company: transfer[^key-54fdbf6c36e233aca4e8e994eb657db6]
+## 2. Successor company: transfer[^c-54fdbf6c36e233aca4e8e994eb657db6]
 
 *Extent: E+W+S*
 
@@ -26,11 +26,11 @@ summary: ''
 
 - (a) is nominated for the purposes of this section by the Secretary of State in writing before the appointed day, and
 - (b) on the appointed day is—
-  - (i) a company formed and registered under the Companies Act 2006[^key-63467ab5115aa7b25c7c310c2d32a75e] as a company limited by shares, and
+  - (i) a company formed and registered under the Companies Act 2006[^c-63467ab5115aa7b25c7c310c2d32a75e] as a company limited by shares, and
   - (ii) wholly owned by the Crown.
 
 ## Annotations
 
-[^key-54fdbf6c36e233aca4e8e994eb657db6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/25/section/2) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-54fdbf6c36e233aca4e8e994eb657db6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/25/section/2) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
-[^key-63467ab5115aa7b25c7c310c2d32a75e]: Textual amendment: Words in [s. 2(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/25/section/2/2/b/i) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 221(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/221/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-63467ab5115aa7b25c7c310c2d32a75e]: Textual amendment: Words in [s. 2(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/25/section/2/2/b/i) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 221(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/221/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

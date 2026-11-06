@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Relevant Education[^key-d1540bb4b8d5cdcc6557af5fdfa609df][^key-fdcece4872c9153e578e4abc1d3863e9]
+## 12. Relevant Education[^c-d1540bb4b8d5cdcc6557af5fdfa609df][^c-fdcece4872c9153e578e4abc1d3863e9]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ For the purposes of these Regulations, a person is to be treated as receiving re
 
 ## Annotations
 
-[^key-d1540bb4b8d5cdcc6557af5fdfa609df]: Commencement: Reg. 12 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-d1540bb4b8d5cdcc6557af5fdfa609df]: Commencement: Reg. 12 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-fdcece4872c9153e578e4abc1d3863e9]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/1967/regulation/12) substituted (10.4.2006) by [The Social Security (Young Persons) Amendment Regulations 2006 (S.I. 2006/718)](https://www.legislation.gov.uk/uksi/2006/718), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/718/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2006/718/regulation/2/2)
+[^c-fdcece4872c9153e578e4abc1d3863e9]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/1967/regulation/12) substituted (10.4.2006) by [The Social Security (Young Persons) Amendment Regulations 2006 (S.I. 2006/718)](https://www.legislation.gov.uk/uksi/2006/718), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/718/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2006/718/regulation/2/2)

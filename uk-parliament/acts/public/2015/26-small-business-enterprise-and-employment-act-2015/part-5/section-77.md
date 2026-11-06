@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Registration of childcare: premises[^key-5633a04d1fbcaff99e4a6fde62a260b1][^key-8a87a24fa7b524f0460e2b9db13cfce9]
+## 77. Registration of childcare: premises[^c-5633a04d1fbcaff99e4a6fde62a260b1][^c-8a87a24fa7b524f0460e2b9db13cfce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 makes amendments for the purpose of removing the requirement for cert
 
 ## Annotations
 
-[^key-5633a04d1fbcaff99e4a6fde62a260b1]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/26/section/77) in force at 15.6.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 4](https://www.legislation.gov.uk/uksi/2015/1329/regulation/4)
+[^c-5633a04d1fbcaff99e4a6fde62a260b1]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/26/section/77) in force at 15.6.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 4](https://www.legislation.gov.uk/uksi/2015/1329/regulation/4)
 
-[^key-8a87a24fa7b524f0460e2b9db13cfce9]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/26/section/77) in force at 1.1.2016 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/b)
+[^c-8a87a24fa7b524f0460e2b9db13cfce9]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/26/section/77) in force at 1.1.2016 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/b)

@@ -49,7 +49,7 @@ summary: ''
 
 (6) The relevant successor authority in relation to any proposed disposal or contract by the Central Scotland Water Development Board is the East of Scotland Water Authority.
 
-(7)[^key-fddecc0151c042cbeb11257778313e7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-fddecc0151c042cbeb11257778313e7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) [^c21063421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -68,11 +68,11 @@ the consent required shall, in either case, be that of the Secretary of State.
 
 (11) This section applies to any granting of an option to require an existing authority to make a disposal of land or enter into a contract which would require the consent of a successor authority or the Secretary of State as it applies to such a disposal or contract.
 
-(12) In this section “**existing authority**” means a regional or district council, the Central Scotland Water Development Board, [^key-41a780d91cbb19747b65c208a6ef4d07]... [^c21063471]. . . and, for the purposes of the matters mentioned in subsection (5) above, includes an islands council.
+(12) In this section “**existing authority**” means a regional or district council, the Central Scotland Water Development Board, [^c-41a780d91cbb19747b65c208a6ef4d07]... [^c21063471]. . . and, for the purposes of the matters mentioned in subsection (5) above, includes an islands council.
 
 ## Annotations
 
-[^key-fddecc0151c042cbeb11257778313e7b]: Textual amendment: [S. 55(7)](https://www.legislation.gov.uk/ukpga/1994/39/section/55/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-fddecc0151c042cbeb11257778313e7b]: Textual amendment: [S. 55(7)](https://www.legislation.gov.uk/ukpga/1994/39/section/55/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c21063421]: Textual amendment: S. 55(8) repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [ss. 89(2)](https://www.legislation.gov.uk/asp/2005/5/section/89/2), [90](https://www.legislation.gov.uk/asp/2005/5/section/90), [Sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
@@ -82,6 +82,6 @@ the consent required shall, in either case, be that of the Secretary of State.
 
 [^c12266241]: Marginal citation: [1988 c. 9](https://www.legislation.gov.uk/ukpga/1988/9).
 
-[^key-41a780d91cbb19747b65c208a6ef4d07]: Textual amendment: Words in [s. 55(12)](https://www.legislation.gov.uk/ukpga/1994/39/section/55/12) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-41a780d91cbb19747b65c208a6ef4d07]: Textual amendment: Words in [s. 55(12)](https://www.legislation.gov.uk/ukpga/1994/39/section/55/12) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c21063471]: Textual amendment: Words in s. 55(12) repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [ss. 89(2)](https://www.legislation.gov.uk/asp/2005/5/section/89/2), [90](https://www.legislation.gov.uk/asp/2005/5/section/90), [Sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)

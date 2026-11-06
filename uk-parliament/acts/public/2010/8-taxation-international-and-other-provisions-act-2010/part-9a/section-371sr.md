@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371SR. Double taxation relief: countering effect of avoidance arrangements[^key-629ada2c8a18d82affe2c0e203fa8e18][^key-96cb0b61e86db9cdcb920ce3add1c381]
+## 371SR. Double taxation relief: countering effect of avoidance arrangements[^c-629ada2c8a18d82affe2c0e203fa8e18][^c-96cb0b61e86db9cdcb920ce3add1c381]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if it is reasonable to suppose that, applying the corporation tax assumptions apart from this section, each of conditions A to D of section 82 (double taxation relief: conditions to be met for countering effect of avoidance arrangements[^key-1c969c45c8e11545edeb6d92422a6a20]) would or might be met in relation to the CFC in relation to the relevant accounting period.
+(1) This section applies if it is reasonable to suppose that, applying the corporation tax assumptions apart from this section, each of conditions A to D of section 82 (double taxation relief: conditions to be met for countering effect of avoidance arrangements[^c-1c969c45c8e11545edeb6d92422a6a20]) would or might be met in relation to the CFC in relation to the relevant accounting period.
 
 (2) Assume that such adjustments are to be made as are necessary for counteracting what, applying the corporation tax assumptions apart from this section, would be the effects of the scheme or arrangement in question in the relevant accounting period that would be referable to the purpose referred to in condition B of section 82.
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-96cb0b61e86db9cdcb920ce3add1c381]: Textual amendment: Words in s. 371SR heading substituted (with effect in accordance with s. 31(6) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(5)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/5/b)
+[^c-96cb0b61e86db9cdcb920ce3add1c381]: Textual amendment: Words in s. 371SR heading substituted (with effect in accordance with s. 31(6) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(5)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/5/b)
 
-[^key-1c969c45c8e11545edeb6d92422a6a20]: Textual amendment: Words in [s. 371SR(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/371SR/1) substituted (with effect in accordance with s. 31(6) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(5)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/5/a)
+[^c-1c969c45c8e11545edeb6d92422a6a20]: Textual amendment: Words in [s. 371SR(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/371SR/1) substituted (with effect in accordance with s. 31(6) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(5)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/5/a)

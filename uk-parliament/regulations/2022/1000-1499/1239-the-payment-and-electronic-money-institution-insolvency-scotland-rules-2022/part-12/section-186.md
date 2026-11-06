@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 186. Notifications relating to court orders[^key-c1656068fbb17b7dd64e0bd0dc719f6e]
+## 186. Notifications relating to court orders[^c-c1656068fbb17b7dd64e0bd0dc719f6e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In addition to the information required by rule 183, a notification relating to 
 
 ## Annotations
 
-[^key-c1656068fbb17b7dd64e0bd0dc719f6e]: Commencement: Rule 186 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c1656068fbb17b7dd64e0bd0dc719f6e]: Commencement: Rule 186 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

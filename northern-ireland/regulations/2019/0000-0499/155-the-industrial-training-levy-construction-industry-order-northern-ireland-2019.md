@@ -139,7 +139,7 @@ and no remission for the levy shall be given to an employer.
 
 (4) In the case of an establishment that ceases to carry on business in the fifty-fifth levy period on any day after the date of service of the relevant assessment notice the foregoing provisions of this Article shall have effect as if for the period of four months from the date of this service of the assessment notice mentioned in paragraph (2) there were substituted the period of six months from the date of the cessation of the business.
 
-(5) An application to an industrial tribunal under this Article shall be made in accordance with the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^key-167eacacaf799388ed2cee0f3870c0b7].
+(5) An application to an industrial tribunal under this Article shall be made in accordance with the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^c-167eacacaf799388ed2cee0f3870c0b7].
 
 ## 7. Evidence
 
@@ -177,4 +177,4 @@ An employer will be exempt from levy in the fifty-fifth levy period where the re
 
 [^c23816271]: Marginal citation: [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-167eacacaf799388ed2cee0f3870c0b7]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/nisr/2019/155/article/6/5) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 14](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/14) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-167eacacaf799388ed2cee0f3870c0b7]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/nisr/2019/155/article/6/5) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 14](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/14) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))

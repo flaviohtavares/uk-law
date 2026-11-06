@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A54. Interpretation of this Part: general[^key-2d593eae2f3cccb39a2961eef842bf2c]
+## A54. Interpretation of this Part: general[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^M_C_76d5eb67-ab6a-48f4-85eb-374e844ee0e2][^key-6a666db0bcf8d293828c7f53d7754508] In this Part—
+(1)[^M_C_76d5eb67-ab6a-48f4-85eb-374e844ee0e2][^c-6a666db0bcf8d293828c7f53d7754508] In this Part—
 
 - “company” means—
   - (a) a company registered under the Companies Act 2006 in England and Wales or Scotland, or
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_C_76d5eb67-ab6a-48f4-85eb-374e844ee0e2]: Modification: S. A54(1) modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 paras. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/13), [53](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/53) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))
 
-[^key-6a666db0bcf8d293828c7f53d7754508]: Modification: S. A54(1) modified (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. A1 para. 1(3)](https://www.legislation.gov.uk/uksi/2014/229/schedule/A1/paragraph/1/3) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-6a666db0bcf8d293828c7f53d7754508]: Modification: S. A54(1) modified (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. A1 para. 1(3)](https://www.legislation.gov.uk/uksi/2014/229/schedule/A1/paragraph/1/3) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))

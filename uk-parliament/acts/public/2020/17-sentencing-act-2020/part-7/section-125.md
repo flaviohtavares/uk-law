@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Exercise of court's powers to impose fine and fix amount[^key-2f87ee11878197ec31e9c80df5f68297]
+## 125. Exercise of court's powers to impose fine and fix amount[^c-2f87ee11878197ec31e9c80df5f68297]
 
 *Extent: E+W*
 
@@ -33,10 +33,10 @@ summary: ''
 (6) For the effect of proceedings in relation to confiscation orders on the court's powers to impose or fix the amount of a fine, see the following provisions of the Proceeds of Crime Act 2002—
 
 - (a) section 13(4) (where confiscation order has been made);
-- (b) section 15A (where court sentences before confiscation proceedings)[^key-d3bfe6617d21ca00d85288defb379980].
+- (b) section 15A (where court sentences before confiscation proceedings)[^c-d3bfe6617d21ca00d85288defb379980].
 
 ## Annotations
 
-[^key-2f87ee11878197ec31e9c80df5f68297]: Commencement: S. 125 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2f87ee11878197ec31e9c80df5f68297]: Commencement: S. 125 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d3bfe6617d21ca00d85288defb379980]: Textual amendment: Words in s. 125(6)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 49](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/49); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-d3bfe6617d21ca00d85288defb379980]: Textual amendment: Words in s. 125(6)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 49](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/49); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

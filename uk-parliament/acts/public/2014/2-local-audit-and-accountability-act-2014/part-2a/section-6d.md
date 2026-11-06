@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. Professional qualifications[^key-dce2fcccd23494fb76c982d335eb4e31]
+## 6D. Professional qualifications[^c-dce2fcccd23494fb76c982d335eb4e31]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 1D—
 
 ## Annotations
 
-[^key-dce2fcccd23494fb76c982d335eb4e31]: Textual amendment: Pt. 2A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/90/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-dce2fcccd23494fb76c982d335eb4e31]: Textual amendment: Pt. 2A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/90/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

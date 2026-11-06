@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80A. Advice etc. by Historic Environment Scotland as regards Historic MPAs[^key-ed90c448cddc18efb5cde98641586d2f]
+## 80A. Advice etc. by Historic Environment Scotland as regards Historic MPAs[^c-ed90c448cddc18efb5cde98641586d2f]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed90c448cddc18efb5cde98641586d2f]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/asp/2010/5/section/80A) inserted (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/2) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-ed90c448cddc18efb5cde98641586d2f]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/asp/2010/5/section/80A) inserted (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/4/paragraph/2) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)

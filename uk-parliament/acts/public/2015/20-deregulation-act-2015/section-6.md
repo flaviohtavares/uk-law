@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Requirements to wear safety helmets: exemption for Sikhs[^key-ac3fae03f76347bab8b4f16144cf72e4]
+## 6. Requirements to wear safety helmets: exemption for Sikhs[^c-ac3fae03f76347bab8b4f16144cf72e4]
 
 *Extent: E+W+S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3fae03f76347bab8b4f16144cf72e4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/20/section/6) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(b)](https://www.legislation.gov.uk/uksi/2015/994/article/11/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2015/994/article/12))
+[^c-ac3fae03f76347bab8b4f16144cf72e4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/20/section/6) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(b)](https://www.legislation.gov.uk/uksi/2015/994/article/11/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2015/994/article/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Harassment intended to deter lawful activities[^key-506eaf5465f2431d7f276759f5def87a]
+## 125. Harassment intended to deter lawful activities[^c-506eaf5465f2431d7f276759f5def87a]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ summary: ''
 >
 > (3) Section 3(3) to (9) apply in relation to an injunction granted under subsection (2) above as they apply in relation to an injunction granted as mentioned in section 3(3)(a).
 
-(6)[^key-693b99c7c7d9a425c00c5877ca54b4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-693b99c7c7d9a425c00c5877ca54b4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 7 (interpretation of sections 1 to 5)—
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-506eaf5465f2431d7f276759f5def87a]: Commencement: S. 125 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m)
+[^c-506eaf5465f2431d7f276759f5def87a]: Commencement: S. 125 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m)
 
-[^key-693b99c7c7d9a425c00c5877ca54b4b3]: Textual amendment: [S. 125(6)](https://www.legislation.gov.uk/ukpga/2005/15/section/125/6) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-693b99c7c7d9a425c00c5877ca54b4b3]: Textual amendment: [S. 125(6)](https://www.legislation.gov.uk/ukpga/2005/15/section/125/6) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

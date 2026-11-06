@@ -48,7 +48,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-06f0fd60c6081f52846dcca332aca723]
+### 1. Citation and commencement[^c-06f0fd60c6081f52846dcca332aca723]
 
 (1) These Regulations may be cited as the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016.
 
@@ -73,9 +73,9 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - (g) regulation 8(2); and
 - (h) Part 3.
 
-### 2. Interpretation[^key-02d306563aedda88aef9ba521f4bd801][^key-a44cb9c46dce29157090a46ad7079e5f][^key-6e1b9958b7dd640b0b74863fbe30ebe8][^key-707c41e2d9fb29ed17e24ebaf6572819]
+### 2. Interpretation[^c-02d306563aedda88aef9ba521f4bd801][^c-a44cb9c46dce29157090a46ad7079e5f][^c-6e1b9958b7dd640b0b74863fbe30ebe8][^c-707c41e2d9fb29ed17e24ebaf6572819]
 
-(1)[^key-02d306563aedda88aef9ba521f4bd801] In these Regulations—
+(1)[^c-02d306563aedda88aef9ba521f4bd801] In these Regulations—
 
 - “the 2007 Act” means the Welfare Reform (Northern Ireland) Act 2007[^f00004];
 - “the 2015 Order” means the Welfare Reform (Northern Ireland) Order 2015;
@@ -89,32 +89,32 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - “universal credit” means the benefit under Part 2 of the 2015 Order;
 - “the Universal Credit Regulations” means the Universal Credit Regulations (Northern Ireland) 2016[^f00009].
 
-(2)[^key-a44cb9c46dce29157090a46ad7079e5f] Where these Regulations apply in relation to universal credit “child” and “qualifying young person” have the same meaning as in Article 46 of the 2015 Order and whether or not a person is responsible for a child or qualifying young person is to be determined in accordance with regulation 4 of the Universal Credit Regulations.
+(2)[^c-a44cb9c46dce29157090a46ad7079e5f] Where these Regulations apply in relation to universal credit “child” and “qualifying young person” have the same meaning as in Article 46 of the 2015 Order and whether or not a person is responsible for a child or qualifying young person is to be determined in accordance with regulation 4 of the Universal Credit Regulations.
 
 (3) In these Regulations “writing” includes writing produced by means of electronic communications and where such communications are used by the Department—
 
-- (a)[^key-6e1b9958b7dd640b0b74863fbe30ebe8] Schedule 8D to the Claims and Payments Regulations[^f00010]; or
-- (b)[^key-707c41e2d9fb29ed17e24ebaf6572819] Schedule 1 to the UC etc. Claims and Payments Regulations,
+- (a)[^c-6e1b9958b7dd640b0b74863fbe30ebe8] Schedule 8D to the Claims and Payments Regulations[^f00010]; or
+- (b)[^c-707c41e2d9fb29ed17e24ebaf6572819] Schedule 1 to the UC etc. Claims and Payments Regulations,
 
 as the case may be, has effect in connection with notices required to be given or sent under regulations 8 and 17 as it has effect in connection with claims for, and awards of, any benefit to which those Regulations apply.
 
-(4)[^key-6e1b9958b7dd640b0b74863fbe30ebe8] The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+(4)[^c-6e1b9958b7dd640b0b74863fbe30ebe8] The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
 ## PART 2 — Payments on account of benefit
 
-### 3. Definition of “benefit”[^key-6eee132b3402231cde4f4914ffc3d247][^key-71ea5442e3da0484be4299f02ab10fb3][^key-f648047e75bc5432ee740c1391aef717]
+### 3. Definition of “benefit”[^c-6eee132b3402231cde4f4914ffc3d247][^c-71ea5442e3da0484be4299f02ab10fb3][^c-f648047e75bc5432ee740c1391aef717]
 
 (1) In this Part “benefit” means any of the following—
 
-- (a)[^key-6eee132b3402231cde4f4914ffc3d247] universal credit;
-- (b)[^key-71ea5442e3da0484be4299f02ab10fb3] employment and support allowance;
-- (c)[^key-71ea5442e3da0484be4299f02ab10fb3] income support;
-- (d)[^key-71ea5442e3da0484be4299f02ab10fb3] jobseeker’s allowance;
-- (e)[^key-71ea5442e3da0484be4299f02ab10fb3] state pension credit;
-- (f)[^key-71ea5442e3da0484be4299f02ab10fb3] benefit under Parts II to V of the Contributions and Benefits Act except attendance allowance, disability living allowance and guardian’s allowance;
-- (g)[^key-71ea5442e3da0484be4299f02ab10fb3] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00012].
+- (a)[^c-6eee132b3402231cde4f4914ffc3d247] universal credit;
+- (b)[^c-71ea5442e3da0484be4299f02ab10fb3] employment and support allowance;
+- (c)[^c-71ea5442e3da0484be4299f02ab10fb3] income support;
+- (d)[^c-71ea5442e3da0484be4299f02ab10fb3] jobseeker’s allowance;
+- (e)[^c-71ea5442e3da0484be4299f02ab10fb3] state pension credit;
+- (f)[^c-71ea5442e3da0484be4299f02ab10fb3] benefit under Parts II to V of the Contributions and Benefits Act except attendance allowance, disability living allowance and guardian’s allowance;
+- (g)[^c-71ea5442e3da0484be4299f02ab10fb3] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00012].
 
-(2)[^key-f648047e75bc5432ee740c1391aef717] For the purpose of paragraph (1)—
+(2)[^c-f648047e75bc5432ee740c1391aef717] For the purpose of paragraph (1)—
 
 - “employment and support allowance” means an allowance under—
   - (a) Part 1 of the 2007 Act as amended by Schedule 3 and Part 1 of Schedule 12 to the 2015 Order (to remove references to an income-related allowance); and
@@ -123,31 +123,31 @@ as the case may be, has effect in connection with notices required to be given o
   - (a) the Jobseekers Order as amended by Part 1 of Schedule 12 to the 2015 Order (to remove references to an income-based allowance); and
   - (b) the Jobseekers Order as it has effect apart from the amendments made by Part 1 of Schedule 12 to the 2015 Order.
 
-### 4. Payments on account of benefit[^key-c34ea08e49ab235717535d9c077f7457]
+### 4. Payments on account of benefit[^c-c34ea08e49ab235717535d9c077f7457]
 
 (1) The Department may, subject to paragraph (2), make a payment on account of benefit to a person (“A”) in accordance with this Part.
 
 (2) Paragraph (1) does not apply pending the determination of an appeal relating to the benefit on account of which the payment would otherwise have been made.
 
-### 5. Payment on account of benefit where there is no award of benefit[^key-e3e95c58f3204cc5fe8a572dd32219ac][^key-d7153c08fb9bf02dc6a0f66155911ac0]
+### 5. Payment on account of benefit where there is no award of benefit[^c-e3e95c58f3204cc5fe8a572dd32219ac][^c-d7153c08fb9bf02dc6a0f66155911ac0]
 
-(1)[^key-e3e95c58f3204cc5fe8a572dd32219ac] The Department may make a payment on account of benefit to A if—
+(1)[^c-e3e95c58f3204cc5fe8a572dd32219ac] The Department may make a payment on account of benefit to A if—
 
 - (a) either paragraph (2) or (3) applies;
-- (b) it appears to the Department likely that the conditions of entitlement for benefit are satisfied (or will be satisfied during the period in respect of which the payment is to be made); [^key-731744f4706e9349bae57e73f74620a8]...
-- (c) it is satisfied that A is in financial need ; and[^key-bcde438bd60a7bb876db7aaec5324f1b]
-- (d)[^key-d4f36e427b9ded15c13ea375d9b9778f] where the payment on account of benefit is to be on account of universal credit, A has been allocated a national insurance number.
+- (b) it appears to the Department likely that the conditions of entitlement for benefit are satisfied (or will be satisfied during the period in respect of which the payment is to be made); [^c-731744f4706e9349bae57e73f74620a8]...
+- (c) it is satisfied that A is in financial need ; and[^c-bcde438bd60a7bb876db7aaec5324f1b]
+- (d)[^c-d4f36e427b9ded15c13ea375d9b9778f] where the payment on account of benefit is to be on account of universal credit, A has been allocated a national insurance number.
 
-(2)[^key-e3e95c58f3204cc5fe8a572dd32219ac] This paragraph applies where A has made a claim for benefit but the claim has not yet been determined.
+(2)[^c-e3e95c58f3204cc5fe8a572dd32219ac] This paragraph applies where A has made a claim for benefit but the claim has not yet been determined.
 
 (3) This paragraph applies where A is not required to make a claim for benefit by virtue of—
 
-- (a)[^key-e3e95c58f3204cc5fe8a572dd32219ac] regulation 3 of the Claims and Payments Regulations[^f00013] (claims not required for entitlement to benefit in certain cases); or
-- (b)[^key-d7153c08fb9bf02dc6a0f66155911ac0] regulation 6 of the UC etc. Claims and Payments Regulations (claims not required for entitlement to employment and support allowance in certain cases),
+- (a)[^c-e3e95c58f3204cc5fe8a572dd32219ac] regulation 3 of the Claims and Payments Regulations[^f00013] (claims not required for entitlement to benefit in certain cases); or
+- (b)[^c-d7153c08fb9bf02dc6a0f66155911ac0] regulation 6 of the UC etc. Claims and Payments Regulations (claims not required for entitlement to employment and support allowance in certain cases),
 
 as the case may be, but an award of benefit has not yet been made.
 
-### 6. Payment on account of benefit where there is an award of benefit[^key-a4146b9532821a278762688d7dab3fb4]
+### 6. Payment on account of benefit where there is an award of benefit[^c-a4146b9532821a278762688d7dab3fb4]
 
 (1) The Department may make a payment on account of benefit to A if—
 
@@ -176,31 +176,31 @@ as the case may be, but an award of benefit has not yet been made.
 - (a) A is entitled to a payment of that benefit pursuant to the award; and
 - (b) it is impracticable to make some or all of that payment on the day on which it is due.
 
-### 7. Definition of financial need[^key-5ad9a89d7fc3c09da3d12e1fe96e2f34][^key-c57b711f7003a605c2f32ff692284517]
+### 7. Definition of financial need[^c-5ad9a89d7fc3c09da3d12e1fe96e2f34][^c-c57b711f7003a605c2f32ff692284517]
 
-(1)[^key-5ad9a89d7fc3c09da3d12e1fe96e2f34] A is in financial need for the purposes of regulation 5(1)(c) or 6(1)(c) where the circumstances in regulation 5(2) or (3) or, as the case may be, 6(2), (3), (4) or (5) result in a serious risk of damage to the health or safety of A or any member of A’s family.
+(1)[^c-5ad9a89d7fc3c09da3d12e1fe96e2f34] A is in financial need for the purposes of regulation 5(1)(c) or 6(1)(c) where the circumstances in regulation 5(2) or (3) or, as the case may be, 6(2), (3), (4) or (5) result in a serious risk of damage to the health or safety of A or any member of A’s family.
 
-(2)[^key-c57b711f7003a605c2f32ff692284517] Where the payment on account of benefit is to be on account of universal credit, the following are members of A’s family for the purpose of paragraph (1)—
+(2)[^c-c57b711f7003a605c2f32ff692284517] Where the payment on account of benefit is to be on account of universal credit, the following are members of A’s family for the purpose of paragraph (1)—
 
 - (a) any child or qualifying young person for whom A is responsible; and
 - (b) where A is a member of a couple, A’s partner.
 
-(3)[^key-5ad9a89d7fc3c09da3d12e1fe96e2f34] Where the payment on account of benefit is to be on account of a benefit specified in regulation 3(1)(b) to (g), for the purpose of paragraph (1), “family” has the meaning given in section 133(1) of the Contributions and Benefits Act[^f00014].
+(3)[^c-5ad9a89d7fc3c09da3d12e1fe96e2f34] Where the payment on account of benefit is to be on account of a benefit specified in regulation 3(1)(b) to (g), for the purpose of paragraph (1), “family” has the meaning given in section 133(1) of the Contributions and Benefits Act[^f00014].
 
-### 8. Requirement for notice[^key-fbc4a2f89dbfa7bbb35dd0769c7eb18e][^key-7d6e8cd34e3a7d844dbb44167d400656]
+### 8. Requirement for notice[^c-fbc4a2f89dbfa7bbb35dd0769c7eb18e][^c-7d6e8cd34e3a7d844dbb44167d400656]
 
-(1)[^key-fbc4a2f89dbfa7bbb35dd0769c7eb18e] The Department must, on or before making a payment on account of benefit to A, give or send notice in writing to A of A’s liability—
+(1)[^c-fbc4a2f89dbfa7bbb35dd0769c7eb18e] The Department must, on or before making a payment on account of benefit to A, give or send notice in writing to A of A’s liability—
 
 - (a) to have the amount of the payment on account of benefit deducted from subsequent payments of benefit; and
 - (b) to repay the amount of any payment on account of benefit to the extent that it is not deducted from subsequent payments of benefit.
 
-(2)[^key-7d6e8cd34e3a7d844dbb44167d400656] Where A is a member of a couple and the payment on account of benefit is on account of universal credit, notice in writing must also be given or sent to A’s partner containing the information referred to in paragraph (1)(a) and (b).
+(2)[^c-7d6e8cd34e3a7d844dbb44167d400656] Where A is a member of a couple and the payment on account of benefit is on account of universal credit, notice in writing must also be given or sent to A’s partner containing the information referred to in paragraph (1)(a) and (b).
 
-### 9. Payment by direct credit transfer[^key-29ba93c3ad9e460b1dc5efb2df717eee]
+### 9. Payment by direct credit transfer[^c-29ba93c3ad9e460b1dc5efb2df717eee]
 
 A payment on account of benefit may be paid by way of direct credit transfer into a bank account or other account nominated by A or a person acting on A’s behalf.
 
-### 10. Bringing payments on account of benefit into account[^key-1e1a66ceafbf85fc5dda592010c18bb3]
+### 10. Bringing payments on account of benefit into account[^c-1e1a66ceafbf85fc5dda592010c18bb3]
 
 Where it is practicable to do so, a payment on account of benefit—
 
@@ -211,13 +211,13 @@ Where it is practicable to do so, a payment on account of benefit—
 
 ## PART 3 — Budgeting advances
 
-### 11. Payment of budgeting advances[^key-19b389a2a8a5d22bd0c3f450fe56d66d]
+### 11. Payment of budgeting advances[^c-19b389a2a8a5d22bd0c3f450fe56d66d]
 
 (1) The Department may make a payment on account of universal credit to a person (“B”) in accordance with this Part.
 
 (2) A payment under this Part is to be known as a budgeting advance.
 
-### 12. Conditions for payment of budgeting advances[^key-6a4b915f803fad4b470c0d2bcb99ce8c]
+### 12. Conditions for payment of budgeting advances[^c-6a4b915f803fad4b470c0d2bcb99ce8c]
 
 (1) The Department may make a budgeting advance to B for the purpose of defraying an intermittent expense of B if—
 
@@ -242,7 +242,7 @@ Where it is practicable to do so, a payment on account of benefit—
 - “employment and support allowance” means an income-related allowance under Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3 and Part 1 of Schedule 12 to the 2015 Order (to remove references to an income-related allowance);
 - “jobseeker’s allowance” means an income-based jobseeker’s allowance under the Jobseekers Order as it has effect apart from the amendments made by Part 1 of Schedule 12 to the 2015 Order (to remove references to an income-based allowance).
 
-### 13. Earnings condition[^key-3d67480bf84298a59fc2233f5cb33a61]
+### 13. Earnings condition[^c-3d67480bf84298a59fc2233f5cb33a61]
 
 (1) The earnings condition is satisfied—
 
@@ -285,14 +285,14 @@ where—
 
 (8) In this regulation “assessment period” has the meaning given in regulation 22 of the Universal Credit Regulations.
 
-### 14. Recovery condition[^key-c9ebf7adf42efa3e3e41455495e3b178]
+### 14. Recovery condition[^c-c9ebf7adf42efa3e3e41455495e3b178]
 
 The recovery condition is satisfied where—
 
 - (a) no amount in respect of any budgeting advance previously paid to B or, if B is a member of a couple, B or B’s partner, remains to be recovered by the Department; and
 - (b) taking into account all debts and other liabilities of B or, if B is a member of a couple, of B and B’s partner, the Department is satisfied that the budgeting advance can reasonably be expected to be recovered.
 
-### 15. Minimum and maximum amounts payable by way of budgeting advance[^key-d6bb8c99fff067ff193803286d141f75]
+### 15. Minimum and maximum amounts payable by way of budgeting advance[^c-d6bb8c99fff067ff193803286d141f75]
 
 (1) The minimum amount payable by way of budgeting advance is £100.
 
@@ -302,7 +302,7 @@ The recovery condition is satisfied where—
 - (b) where B is a member of a couple but is not responsible for any child or qualifying young person, £464;
 - (c) where B is responsible for any child or qualifying young person, £812.
 
-### 16. Treatment of capital[^key-8ee496aafc5f26ef9fa3dedb92f0d5a8]
+### 16. Treatment of capital[^c-8ee496aafc5f26ef9fa3dedb92f0d5a8]
 
 (1) Where the total of B’s capital or, in a case where B is a member of a couple, the total of B’s and B’s partner’s capital, exceeds £1,000, the amount of any budgeting advance which may otherwise be paid must be reduced by the amount by which that capital exceeds £1,000.
 
@@ -310,7 +310,7 @@ The recovery condition is satisfied where—
 
 (3) Capital is to be calculated for the purposes of paragraph (1) in accordance with Chapter 1 of Part 6 of the Universal Credit Regulations.
 
-### 17. Requirement for notice[^key-663dc7ed40a3fdbe24db541e51c70b95]
+### 17. Requirement for notice[^c-663dc7ed40a3fdbe24db541e51c70b95]
 
 (1) The Department must, on or before making a budgeting advance to B, give or send notice in writing to B of B’s liability—
 
@@ -319,13 +319,13 @@ The recovery condition is satisfied where—
 
 (2) Where B is a member of a couple, notice in writing must also be given or sent to B’s partner containing the information referred to in paragraph (1)(a) and (b).
 
-### 18. Payment by direct credit transfer[^key-1489d0558e038948d3b888813034c040]
+### 18. Payment by direct credit transfer[^c-1489d0558e038948d3b888813034c040]
 
 A budgeting advance may be paid by way of direct credit transfer into a bank account or other account nominated by B or a person acting on B’s behalf.
 
 ## PART 4 — Consequential amendments, revocations and savings
 
-### 19. Consequential revocations and savings[^key-e3de752402b6a1a5017419d0a8b15fa8]
+### 19. Consequential revocations and savings[^c-e3de752402b6a1a5017419d0a8b15fa8]
 
 (1) Subject to paragraph (2), the provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -334,7 +334,7 @@ A budgeting advance may be paid by way of direct credit transfer into a bank acc
 - (a) applications for interim payments made before these Regulations come into operation; and
 - (b) interim payments made pursuant to applications referred to in sub-paragraph (a).
 
-### 20. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations and savings[^key-deb63fe0b0979a954bf997decce293d7]
+### 20. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations and savings[^c-deb63fe0b0979a954bf997decce293d7]
 
 (1) In Schedule 1 to the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00015] (decisions against which no appeal lies)—
 
@@ -357,7 +357,7 @@ Department for Work and Pensions
 
 3rd May 2016
 
-## SCHEDULE — Revocations[^key-addbfc231eefe2e44bc0e352e67fa58e]
+## SCHEDULE — Revocations[^c-addbfc231eefe2e44bc0e352e67fa58e]
 
 Regulation 19(1)
 
@@ -409,15 +409,15 @@ An impact assessment has not been produced for this Rule as no impact on the pri
 
 [^f00003]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-06f0fd60c6081f52846dcca332aca723]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/223/regulation/1) in operation at 28.11.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/a)
+[^c-06f0fd60c6081f52846dcca332aca723]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/223/regulation/1) in operation at 28.11.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/a)
 
-[^key-02d306563aedda88aef9ba521f4bd801]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/1) in operation at 27.9.2017, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/a)
+[^c-02d306563aedda88aef9ba521f4bd801]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/1) in operation at 27.9.2017, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/a)
 
-[^key-a44cb9c46dce29157090a46ad7079e5f]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/2) in operation at 27.9.2017, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/b)
+[^c-a44cb9c46dce29157090a46ad7079e5f]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/2) in operation at 27.9.2017, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/b)
 
-[^key-6e1b9958b7dd640b0b74863fbe30ebe8]: Commencement: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/3/a)[(4)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/4) in operation at 28.11.2016, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/b)
+[^c-6e1b9958b7dd640b0b74863fbe30ebe8]: Commencement: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/3/a)[(4)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/4) in operation at 28.11.2016, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/b)
 
-[^key-707c41e2d9fb29ed17e24ebaf6572819]: Commencement: [Reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/3/b) in operation at 27.9.2017, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/b)
+[^c-707c41e2d9fb29ed17e24ebaf6572819]: Commencement: [Reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/2/3/b) in operation at 27.9.2017, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/b)
 
 [^f00004]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).
 
@@ -435,64 +435,64 @@ An impact assessment has not been produced for this Rule as no impact on the pri
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-6eee132b3402231cde4f4914ffc3d247]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/3/1/a) in operation at 27.9.2017, see [reg. 1(3)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/c)
+[^c-6eee132b3402231cde4f4914ffc3d247]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/3/1/a) in operation at 27.9.2017, see [reg. 1(3)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/c)
 
-[^key-71ea5442e3da0484be4299f02ab10fb3]: Commencement: [Reg. 3(1)(b)-(g)](https://www.legislation.gov.uk/nisr/2016/223/regulation/3/1/b) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-71ea5442e3da0484be4299f02ab10fb3]: Commencement: [Reg. 3(1)(b)-(g)](https://www.legislation.gov.uk/nisr/2016/223/regulation/3/1/b) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-f648047e75bc5432ee740c1391aef717]: Commencement: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/3/2) in operation at 27.9.2017, see [reg. 1(3)(d)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/d)
+[^c-f648047e75bc5432ee740c1391aef717]: Commencement: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/3/2) in operation at 27.9.2017, see [reg. 1(3)(d)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/d)
 
 [^f00012]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5).
 
-[^key-c34ea08e49ab235717535d9c077f7457]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/223/regulation/4) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-c34ea08e49ab235717535d9c077f7457]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/223/regulation/4) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-e3e95c58f3204cc5fe8a572dd32219ac]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1)[(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/2)[(3)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/3/a) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-e3e95c58f3204cc5fe8a572dd32219ac]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1)[(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/2)[(3)(a)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/3/a) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-d7153c08fb9bf02dc6a0f66155911ac0]: Commencement: [Reg. 5(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/3/b) in operation at 27.9.2017, see [reg. 1(3)(e)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/e)
+[^c-d7153c08fb9bf02dc6a0f66155911ac0]: Commencement: [Reg. 5(3)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/3/b) in operation at 27.9.2017, see [reg. 1(3)(e)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/e)
 
-[^key-731744f4706e9349bae57e73f74620a8]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1/b) omitted (3.4.2024) by virtue of [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [6(2)(a)](https://www.legislation.gov.uk/nisr/2024/54/regulation/6/2/a)
+[^c-731744f4706e9349bae57e73f74620a8]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1/b) omitted (3.4.2024) by virtue of [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [6(2)(a)](https://www.legislation.gov.uk/nisr/2024/54/regulation/6/2/a)
 
-[^key-bcde438bd60a7bb876db7aaec5324f1b]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1/c) substituted for full stop (3.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [6(2)(b)](https://www.legislation.gov.uk/nisr/2024/54/regulation/6/2/b)
+[^c-bcde438bd60a7bb876db7aaec5324f1b]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1/c) substituted for full stop (3.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [6(2)(b)](https://www.legislation.gov.uk/nisr/2024/54/regulation/6/2/b)
 
-[^key-d4f36e427b9ded15c13ea375d9b9778f]: Textual amendment: [Reg. 5(1)(d)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1/d) inserted (3.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [6(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/6/2/c)
+[^c-d4f36e427b9ded15c13ea375d9b9778f]: Textual amendment: [Reg. 5(1)(d)](https://www.legislation.gov.uk/nisr/2016/223/regulation/5/1/d) inserted (3.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [6(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/6/2/c)
 
 [^f00013]: Footnote: Regulation 3 was amended by regulation 2 of [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40), regulation 2(2) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), regulation 5 of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381), Article 9(4) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 11(2) of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78), regulation 10(3) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), regulation 4 of [S.R. 2003 No. 367](https://www.legislation.gov.uk/nisr/2003/367), regulation 2(3) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299), regulation 2(2)(a) of [S.R. 2007 No. 392](https://www.legislation.gov.uk/nisr/2007/392), regulation 2 of [S.R. 2008 No. 69](https://www.legislation.gov.uk/nisr/2008/69), regulation 13(3) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286), regulation 2(2) of [S.R. 2008 No. 417](https://www.legislation.gov.uk/nisr/2008/417), regulation 2(3) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240), regulation 2(2) of [S.R. 2010 No. 337](https://www.legislation.gov.uk/nisr/2010/337) and regulation 4 of [S.R. 2015 No. 185](https://www.legislation.gov.uk/nisr/2015/185) and is modified by paragraph 5 of Schedule 2 to [S.R. 2010 No. 312](https://www.legislation.gov.uk/nisr/2010/312).
 
-[^key-a4146b9532821a278762688d7dab3fb4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/223/regulation/6) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-a4146b9532821a278762688d7dab3fb4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/223/regulation/6) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-5ad9a89d7fc3c09da3d12e1fe96e2f34]: Commencement: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/7/1)[(3)](https://www.legislation.gov.uk/nisr/2016/223/regulation/7/3) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-5ad9a89d7fc3c09da3d12e1fe96e2f34]: Commencement: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/7/1)[(3)](https://www.legislation.gov.uk/nisr/2016/223/regulation/7/3) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-c57b711f7003a605c2f32ff692284517]: Commencement: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/7/2) in operation at 27.9.2017, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/f)
+[^c-c57b711f7003a605c2f32ff692284517]: Commencement: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/7/2) in operation at 27.9.2017, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/f)
 
 [^f00014]: Footnote: The definition of “family” was amended by paragraph 99(2) of Schedule 24 to the Civil Partnership Act 2004.
 
-[^key-fbc4a2f89dbfa7bbb35dd0769c7eb18e]: Commencement: [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/8/1) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-fbc4a2f89dbfa7bbb35dd0769c7eb18e]: Commencement: [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/8/1) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-7d6e8cd34e3a7d844dbb44167d400656]: Commencement: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/8/2) in operation at 27.9.2017, see [reg. 1(3)(g)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/g)
+[^c-7d6e8cd34e3a7d844dbb44167d400656]: Commencement: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/8/2) in operation at 27.9.2017, see [reg. 1(3)(g)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/g)
 
-[^key-29ba93c3ad9e460b1dc5efb2df717eee]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/223/regulation/9) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-29ba93c3ad9e460b1dc5efb2df717eee]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/223/regulation/9) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-1e1a66ceafbf85fc5dda592010c18bb3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/223/regulation/10) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
+[^c-1e1a66ceafbf85fc5dda592010c18bb3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/223/regulation/10) in operation at 28.11.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/b)
 
-[^key-19b389a2a8a5d22bd0c3f450fe56d66d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/223/regulation/11) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-19b389a2a8a5d22bd0c3f450fe56d66d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/223/regulation/11) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-6a4b915f803fad4b470c0d2bcb99ce8c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/223/regulation/12) in operation at 27.9.2017, see
+[^c-6a4b915f803fad4b470c0d2bcb99ce8c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/223/regulation/12) in operation at 27.9.2017, see
 
-[^key-3d67480bf84298a59fc2233f5cb33a61]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/223/regulation/13) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-3d67480bf84298a59fc2233f5cb33a61]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/223/regulation/13) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-c9ebf7adf42efa3e3e41455495e3b178]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/223/regulation/14) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-c9ebf7adf42efa3e3e41455495e3b178]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/223/regulation/14) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-d6bb8c99fff067ff193803286d141f75]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/223/regulation/15) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-d6bb8c99fff067ff193803286d141f75]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/223/regulation/15) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-8ee496aafc5f26ef9fa3dedb92f0d5a8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/223/regulation/16) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-8ee496aafc5f26ef9fa3dedb92f0d5a8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/223/regulation/16) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-663dc7ed40a3fdbe24db541e51c70b95]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/223/regulation/17) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-663dc7ed40a3fdbe24db541e51c70b95]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/223/regulation/17) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-1489d0558e038948d3b888813034c040]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/223/regulation/18) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
+[^c-1489d0558e038948d3b888813034c040]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/223/regulation/18) in operation at 27.9.2017, see [reg. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h)
 
-[^key-e3de752402b6a1a5017419d0a8b15fa8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/223/regulation/19) in operation at 28.11.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c)
+[^c-e3de752402b6a1a5017419d0a8b15fa8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/223/regulation/19) in operation at 28.11.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c)
 
-[^key-deb63fe0b0979a954bf997decce293d7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/223/regulation/20) in operation at 28.11.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c)
+[^c-deb63fe0b0979a954bf997decce293d7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/223/regulation/20) in operation at 28.11.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c)
 
 [^f00015]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162), to which there are amendments which are not relevant to these Regulations.
 
-[^key-addbfc231eefe2e44bc0e352e67fa58e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2016/223/schedule) in operation at 28.11.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c)
+[^c-addbfc231eefe2e44bc0e352e67fa58e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2016/223/schedule) in operation at 28.11.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c)

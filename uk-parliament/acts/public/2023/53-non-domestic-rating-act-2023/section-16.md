@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 16. Meaning of “the Act”[^key-15d37ff88456cd1a455947df82f7bd4d]
+## 16. Meaning of “the Act”[^c-15d37ff88456cd1a455947df82f7bd4d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Act, “**the Act**” means the Local Government Finance Act 1988.
 
 ## Annotations
 
-[^key-15d37ff88456cd1a455947df82f7bd4d]: Commencement: S. 16 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-15d37ff88456cd1a455947df82f7bd4d]: Commencement: S. 16 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

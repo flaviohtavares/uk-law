@@ -45,7 +45,7 @@ Coming into operation
 
 In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health has had regard to relevant advice given by the Food Standards Agency.
 
-As required by Article 9 of Regulation (EU) No 178/2002 [^c22826511] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-8561ebf5b2157ee744c3dcbb03a62127]
+As required by Article 9 of Regulation (EU) No 178/2002 [^c22826511] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-8561ebf5b2157ee744c3dcbb03a62127]
 
 ## 1. Citation and commencement
 
@@ -55,21 +55,21 @@ These Regulations may be cited as the Food Safety (Information and Compositional
 
 (1) In these Regulations—
 
-- “Delegated Regulation 127” means Commission Delegated Regulation (EU) 2016/127 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for infant formula and follow-on formula and as regards requirements on information relating to infant and young child feeding;[^key-cb2a1a458416d0ea2427bb6a24343ab5]
+- “Delegated Regulation 127” means Commission Delegated Regulation (EU) 2016/127 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for infant formula and follow-on formula and as regards requirements on information relating to infant and young child feeding;[^c-cb2a1a458416d0ea2427bb6a24343ab5]
 - Delegated Regulation 128” means Commission Delegated Regulation (EU) 2016/128 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for food for special medical purposes;
 - “the EU Regulation” means, subject to regulation to 2(2), Regulation (EU) No 609/2013 of the European Parliament and of the Council, on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council[^M_F_067408de-d932-4061-f026-31e0d8199ff1] [Directive 92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), [Directive 2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) as last amended by Commission Delegated Regulation 2017/1091;
-- “food for special medical purposes” has the same meaning in these Regulations as in the[^key-da6ef664893f3d09b2a56f0c26f82082] EU Regulation;
+- “food for special medical purposes” has the same meaning in these Regulations as in the[^c-da6ef664893f3d09b2a56f0c26f82082] EU Regulation;
 - “infant” means a child under the age of 12 months;
 - “**the Order**” means the Food Safety (Northern Ireland) Order 1991; and
-- “specified EU requirement” means any provision of the EU Regulation or Delegated Regulation 127 or Delegated Regulation 128 specified in column 1 of Schedule 1, as read with the provisions specified in the corresponding entry in column 2.[^key-3d27c812d9d13389a1b4c0f91c640a75]
+- “specified EU requirement” means any provision of the EU Regulation or Delegated Regulation 127 or Delegated Regulation 128 specified in column 1 of Schedule 1, as read with the provisions specified in the corresponding entry in column 2.[^c-3d27c812d9d13389a1b4c0f91c640a75]
 
 (2) Any reference to Article 2(2) or to a specified EU requirement is a reference to that provision as amended from time to time.
 
 (3) The Interpretation Act (Northern Ireland) 1954 [^c22826521] applies to these Regulations as it applies to an Act of the Assembly
 
-(4)[^key-5d03617d3dfdeb046a2c05056fd74023] Any reference to a provision of Delegated Regulation 127 or Delegated Regulation 128 contained in the table in Schedule 1 is a reference to that provision as amended from time to time.
+(4)[^c-5d03617d3dfdeb046a2c05056fd74023] Any reference to a provision of Delegated Regulation 127 or Delegated Regulation 128 contained in the table in Schedule 1 is a reference to that provision as amended from time to time.
 
-(5)[^key-accb12f53ff2e1ff60771a808e546785] Any expression used in both these Regulations and in Delegated Regulation 127 or Delegated Regulation 128 has the same meaning it bears in Delegated Regulation 127 or Delegated Regulation 128, as the case may be.
+(5)[^c-accb12f53ff2e1ff60771a808e546785] Any expression used in both these Regulations and in Delegated Regulation 127 or Delegated Regulation 128 has the same meaning it bears in Delegated Regulation 127 or Delegated Regulation 128, as the case may be.
 
 ## 3. Enforcement
 
@@ -109,7 +109,7 @@ The following Regulations are revoked—
 - (b) Regulations 26 and 27 of the Infant Formula and Follow on Formula Regulations (Northern Ireland) 2007 [^c22826541]; and
 - (c) The Food for Particular Nutritional Uses (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 [^c22826551].
 
-## 8. Transitional Arrangements[^key-5af543e31e0068cff7949a3cbdef34ce]
+## 8. Transitional Arrangements[^c-5af543e31e0068cff7949a3cbdef34ce]
 
 (1) Infant Formula and Follow on Formula that does not comply with any specified provision of Delegated Regulation 127 specified in Schedule 1 may continue to be marketed until stocks of such food are exhausted provided that—
 
@@ -139,7 +139,7 @@ A senior officer of the
 
 Department of Health
 
-## SCHEDULE 1 — Specified EU Requirements[^key-c1b8b55ba5e0c54f648b913a554f42d2]
+## SCHEDULE 1 — Specified EU Requirements[^c-c1b8b55ba5e0c54f648b913a554f42d2]
 
 Regulation 2(1)
 
@@ -335,7 +335,7 @@ Regulation 6
   >
   > The products mentioned in regulation 2(1) shall provide for the whole of the daily diet at least 100% of the amounts of vitamins and minerals specified in the Table.
 
-### 2. The Infant Formula and Follow-on Formula (Northern Ireland) Regulations 2007[^key-0c87f6feae22ddda56d496f1ba56d684]
+### 2. The Infant Formula and Follow-on Formula (Northern Ireland) Regulations 2007[^c-0c87f6feae22ddda56d496f1ba56d684]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -367,21 +367,21 @@ Regulation 7 revokes the Notification of Marketing of Food for Particular Nutrit
 
 [^c22826511]: Marginal citation: OJ No. L31, 1.2.2002, p1 last amended by Commission Regulation (EC) No 596/2009 (OJ No L 188, 18.7.2009, p 14)
 
-[^key-8561ebf5b2157ee744c3dcbb03a62127]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-8561ebf5b2157ee744c3dcbb03a62127]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-cb2a1a458416d0ea2427bb6a24343ab5]: Textual amendment: Words in reg. 2 substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/1)
+[^c-cb2a1a458416d0ea2427bb6a24343ab5]: Textual amendment: Words in reg. 2 substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/1)
 
 [^M_F_067408de-d932-4061-f026-31e0d8199ff1]: Textual amendment: Words in reg. 2(1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [33](https://www.legislation.gov.uk/nisr/2019/5/regulation/33)
 
-[^key-da6ef664893f3d09b2a56f0c26f82082]: Textual amendment: Words in reg. 2(1) inserted (22.2.2019) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/9)](https://www.legislation.gov.uk/nisr/2019/9), [regs. 1](https://www.legislation.gov.uk/nisr/2019/9/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/9/regulation/3/2/a/ii)
+[^c-da6ef664893f3d09b2a56f0c26f82082]: Textual amendment: Words in reg. 2(1) inserted (22.2.2019) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/9)](https://www.legislation.gov.uk/nisr/2019/9), [regs. 1](https://www.legislation.gov.uk/nisr/2019/9/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/9/regulation/3/2/a/ii)
 
-[^key-3d27c812d9d13389a1b4c0f91c640a75]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/251/regulation/2) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/2)
+[^c-3d27c812d9d13389a1b4c0f91c640a75]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/251/regulation/2) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/2)
 
 [^c22826521]: Marginal citation: [1954 c.33(NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5d03617d3dfdeb046a2c05056fd74023]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/251/regulation/2/4) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/3/a)
+[^c-5d03617d3dfdeb046a2c05056fd74023]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/251/regulation/2/4) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/3/a)
 
-[^key-accb12f53ff2e1ff60771a808e546785]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2016/251/regulation/2/5) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/3/b)
+[^c-accb12f53ff2e1ff60771a808e546785]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2016/251/regulation/2/5) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/3/b)
 
 [^c22826531]: Marginal citation: S.R. [2007 No.60](https://www.legislation.gov.uk/ukcm/2007/60)
 
@@ -389,10 +389,10 @@ Regulation 7 revokes the Notification of Marketing of Food for Particular Nutrit
 
 [^c22826551]: Marginal citation: S.R. [2010 No.33](https://www.legislation.gov.uk/ukcm/2010/33)
 
-[^key-5af543e31e0068cff7949a3cbdef34ce]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/251/regulation/8) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/16/regulation/5)
+[^c-5af543e31e0068cff7949a3cbdef34ce]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/251/regulation/8) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/16/regulation/5)
 
-[^key-c1b8b55ba5e0c54f648b913a554f42d2]: Textual amendment: Sch. 1 substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [6](https://www.legislation.gov.uk/nisr/2020/16/regulation/6), [Sch. 1](https://www.legislation.gov.uk/nisr/2020/16/schedule/1)
+[^c-c1b8b55ba5e0c54f648b913a554f42d2]: Textual amendment: Sch. 1 substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [6](https://www.legislation.gov.uk/nisr/2020/16/regulation/6), [Sch. 1](https://www.legislation.gov.uk/nisr/2020/16/schedule/1)
 
 [^c22826561]: Marginal citation: S.R. [1997 No.450](https://www.legislation.gov.uk/ukcm/1997/450), to which there are amendments not relevant to these Regulations
 
-[^key-0c87f6feae22ddda56d496f1ba56d684]: Textual amendment: Sch. 3 para. 2 revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2020/16/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7(2)](https://www.legislation.gov.uk/nisr/2020/16/regulation/7/2))
+[^c-0c87f6feae22ddda56d496f1ba56d684]: Textual amendment: Sch. 3 para. 2 revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2020/16/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7(2)](https://www.legislation.gov.uk/nisr/2020/16/regulation/7/2))

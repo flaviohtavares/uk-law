@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Indication to excluded person[^key-7859d58ee1b9d108263d2cf7711d9421]
+## 176. Indication to excluded person[^c-7859d58ee1b9d108263d2cf7711d9421]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7859d58ee1b9d108263d2cf7711d9421]: Commencement: [Rule 176](https://www.legislation.gov.uk/uksi/2013/3208/rule/176) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-7859d58ee1b9d108263d2cf7711d9421]: Commencement: [Rule 176](https://www.legislation.gov.uk/uksi/2013/3208/rule/176) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

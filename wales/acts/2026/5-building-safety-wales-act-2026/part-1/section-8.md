@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Meaning of “accountable person”[^key-f3694eb2892eacbdb4490a6846cab2bd]
+## 8. Meaning of “accountable person”[^c-f3694eb2892eacbdb4490a6846cab2bd]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ This subsection is subject to subsection (6) (special rule for commonhold land).
 
 ## Annotations
 
-[^key-f3694eb2892eacbdb4490a6846cab2bd]: Commencement: S. 8 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-f3694eb2892eacbdb4490a6846cab2bd]: Commencement: S. 8 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

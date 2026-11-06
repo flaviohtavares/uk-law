@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — LIMITS OF VARIATION[^key-a733380141fde135b177f4b27a64298c]
+## SCHEDULE 9 — LIMITS OF VARIATION[^c-a733380141fde135b177f4b27a64298c]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 24(2)
 
-### FOR GERMINATION OR FOR CLUSTERS WITH A SINGLE SEEDLING[^key-a733380141fde135b177f4b27a64298c]
+### FOR GERMINATION OR FOR CLUSTERS WITH A SINGLE SEEDLING[^c-a733380141fde135b177f4b27a64298c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ANALYTICAL PURITY[^key-a733380141fde135b177f4b27a64298c]
+### ANALYTICAL PURITY[^c-a733380141fde135b177f4b27a64298c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CONTENT OF SEEDS OF OTHER SPECIES[^key-a733380141fde135b177f4b27a64298c]
+### CONTENT OF SEEDS OF OTHER SPECIES[^c-a733380141fde135b177f4b27a64298c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CLUSTERS WITH THREE OR MORE SEEDLINGS[^key-a733380141fde135b177f4b27a64298c]
+### CLUSTERS WITH THREE OR MORE SEEDLINGS[^c-a733380141fde135b177f4b27a64298c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a733380141fde135b177f4b27a64298c]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(d)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/d) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-a733380141fde135b177f4b27a64298c]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(d)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/d) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

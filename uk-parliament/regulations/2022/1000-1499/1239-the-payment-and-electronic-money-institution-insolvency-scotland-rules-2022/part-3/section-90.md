@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Retention of proxies[^key-c8b06a1f8bef8dfb4dca210d2d421a7a]
+## 90. Retention of proxies[^c-c8b06a1f8bef8dfb4dca210d2d421a7a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8b06a1f8bef8dfb4dca210d2d421a7a]: Commencement: Rule 90 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c8b06a1f8bef8dfb4dca210d2d421a7a]: Commencement: Rule 90 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

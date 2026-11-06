@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Interpretation[^key-385ca1c1bdaad2c2a058a7c02748f8dc]
+## 197. Interpretation[^c-385ca1c1bdaad2c2a058a7c02748f8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-385ca1c1bdaad2c2a058a7c02748f8dc]: Commencement: Reg. 197 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-385ca1c1bdaad2c2a058a7c02748f8dc]: Commencement: Reg. 197 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)

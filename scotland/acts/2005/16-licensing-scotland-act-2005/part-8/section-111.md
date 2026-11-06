@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Drunk persons entering or in premises on which alcohol is sold[^key-5977a33c6036adc3627cb846c1effb48]
+## 111. Drunk persons entering or in premises on which alcohol is sold[^c-5977a33c6036adc3627cb846c1effb48]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5977a33c6036adc3627cb846c1effb48]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2005/16/section/111) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-5977a33c6036adc3627cb846c1effb48]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2005/16/section/111) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

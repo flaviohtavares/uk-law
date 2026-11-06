@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Extension of limitation periods for imposing sanctions[^key-a9e6c0ffca9bfc246896744deb4dec42]
+## 28. Extension of limitation periods for imposing sanctions[^c-a9e6c0ffca9bfc246896744deb4dec42]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9e6c0ffca9bfc246896744deb4dec42]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2013/33/section/28) in force at 25.7.2014 by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/c)
+[^c-a9e6c0ffca9bfc246896744deb4dec42]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2013/33/section/28) in force at 25.7.2014 by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/c)

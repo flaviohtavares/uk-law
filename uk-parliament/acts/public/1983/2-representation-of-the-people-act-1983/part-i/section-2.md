@@ -24,14 +24,14 @@ summary: ''
 
 - (a) is registered in the register of local government electors for that area;
 - (b) is not subject to any legal incapacity to vote (age apart);
-- (c) is a Commonwealth citizen, a citizen of the Republic of Ireland *(Extent: E+W)* *(affected by repeal, see note)*[^key-90790fdd04a498ef5318d0706f08e258] , a relevant citizen of the Union or (in Wales) a qualifying foreign citizen *(Extent: E+W)*[^key-d383b1d431ed591d725631442626a527] *(Extent: E+W)* *(affected by repeal, see note)*[^key-90790fdd04a498ef5318d0706f08e258] Ireland or— *(Extent: E+W)*
+- (c) is a Commonwealth citizen, a citizen of the Republic of Ireland *(Extent: E+W)* *(affected by repeal, see note)*[^c-90790fdd04a498ef5318d0706f08e258] , a relevant citizen of the Union or (in Wales) a qualifying foreign citizen *(Extent: E+W)*[^c-d383b1d431ed591d725631442626a527] *(Extent: E+W)* *(affected by repeal, see note)*[^c-90790fdd04a498ef5318d0706f08e258] Ireland or— *(Extent: E+W)*
   - (i (Extent: E+W)) in relation to a local government election in England, a qualifying EU citizen or an EU citizen with retained rights, or *(Extent: E+W)*
   - (ii (Extent: E+W)) in relation to a local government election in Wales, a relevant citizen of the Union or a qualifying foreign citizen; and *(Extent: E+W)*
-- (d) is of voting age (that is, 18 years or over except in Wales (see subsection (1A))[^key-2506bbe2223c01a5ea5cfd60a7c946bc]).
+- (d) is of voting age (that is, 18 years or over except in Wales (see subsection (1A))[^c-2506bbe2223c01a5ea5cfd60a7c946bc]).
 
 *Extent: W*
 
-(1A)[^key-cb9eaf94d3ace420e273c044009eb939] In Wales, voting age is 16 years or over.
+(1A)[^c-cb9eaf94d3ace420e273c044009eb939] In Wales, voting age is 16 years or over.
 
 (2) A person is not entitled to vote as an elector—
 
@@ -63,13 +63,13 @@ summary: ''
 
 [^c14478151]: Textual amendment: S. 2 substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2000/2/section/1/1); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-90790fdd04a498ef5318d0706f08e258]: Textual amendment: Words in s. 2(1)(c) substituted (E.W.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/a), [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-90790fdd04a498ef5318d0706f08e258]: Textual amendment: Words in s. 2(1)(c) substituted (E.W.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/a), [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-d383b1d431ed591d725631442626a527]: Textual amendment: Words in s. 2(1)(c) substituted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 2(1)(a)(i)](https://www.legislation.gov.uk/asc/2021/1/section/2/1/a/i), [175(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-d383b1d431ed591d725631442626a527]: Textual amendment: Words in s. 2(1)(c) substituted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 2(1)(a)(i)](https://www.legislation.gov.uk/asc/2021/1/section/2/1/a/i), [175(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-2506bbe2223c01a5ea5cfd60a7c946bc]: Textual amendment: Words in s. 2(1)(d) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 2(1)(a)(ii)](https://www.legislation.gov.uk/asc/2021/1/section/2/1/a/ii), [175(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-2506bbe2223c01a5ea5cfd60a7c946bc]: Textual amendment: Words in s. 2(1)(d) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 2(1)(a)(ii)](https://www.legislation.gov.uk/asc/2021/1/section/2/1/a/ii), [175(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-cb9eaf94d3ace420e273c044009eb939]: Textual amendment: S. 2(1A) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 2(1)(b)](https://www.legislation.gov.uk/asc/2021/1/section/2/1/b), [175(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-cb9eaf94d3ace420e273c044009eb939]: Textual amendment: S. 2(1A) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 2(1)(b)](https://www.legislation.gov.uk/asc/2021/1/section/2/1/b), [175(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
 [^V_S_b5c1f4f7-6219-bc94-3e1c-9269ab02cbc3]: Textual amendment: S. 2 substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2000/2/section/1/1); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

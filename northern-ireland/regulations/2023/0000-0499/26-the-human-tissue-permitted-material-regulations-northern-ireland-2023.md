@@ -42,7 +42,7 @@ The Department of Health makes the following Regulations in exercise of the powe
 
 In accordance with section 52(11)[^f00002] of that Act, the Department of Health has consulted such persons as it considers appropriate.
 
-## 1. Citation, commencement and application[^key-4fc6756ba88760d1a963d872c97318fd]
+## 1. Citation, commencement and application[^c-4fc6756ba88760d1a963d872c97318fd]
 
 (1) These Regulations may be cited as the Human Tissue (Permitted Material) Regulations (Northern Ireland) 2023.
 
@@ -50,7 +50,7 @@ In accordance with section 52(11)[^f00002] of that Act, the Department of Health
 
 (3) These Regulations apply in relation to activities done in Northern Ireland for the purpose of transplantation[^f00003].
 
-## 2. Permitted material[^key-32e52f972b2e94ed6edc92ca803b3a43]
+## 2. Permitted material[^c-32e52f972b2e94ed6edc92ca803b3a43]
 
 (1) All relevant material (within the meaning given by section 53 of the Human Tissue Act 2004) is specified as permitted material for the purposes of section 3(6AA) of that Act; but this is subject to paragraphs (2) and (5).
 
@@ -144,11 +144,11 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: Section 52(11) was inserted by section 1(6)(b) of the 2022 Act
 
-[^key-4fc6756ba88760d1a963d872c97318fd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/26/regulation/1) in operation at 1.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/26/regulation/1/2)
+[^c-4fc6756ba88760d1a963d872c97318fd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/26/regulation/1) in operation at 1.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/26/regulation/1/2)
 
 [^f00003]: Footnote: See section 54(3) of the 2004 Act as to references to transplantation in that Act
 
-[^key-32e52f972b2e94ed6edc92ca803b3a43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/26/regulation/2) in operation at 1.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/26/regulation/1/2)
+[^c-32e52f972b2e94ed6edc92ca803b3a43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/26/regulation/2) in operation at 1.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/26/regulation/1/2)
 
 [^f00004]: Footnote: See section 54(6) of the 2004 Act for the meaning of “embryo”. That subsection was substituted by paragraph 24 of Schedule 7 to the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22)
 

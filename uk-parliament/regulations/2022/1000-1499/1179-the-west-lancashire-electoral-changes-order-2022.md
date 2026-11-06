@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-b375e0c735732c5704541793df0d1d8a]
+## 1. Citation, commencement, extent and application[^c-b375e0c735732c5704541793df0d1d8a]
 
 (1) This Order may be cited as the West Lancashire (Electoral Changes) Order 2022.
 
@@ -67,13 +67,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (6) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-8c5077199d7b015cfb86375f9039f3dc]
+## 2. Interpretation[^c-8c5077199d7b015cfb86375f9039f3dc]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the West Lancashire (Electoral Changes) Order 2022”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Wards of the borough of West Lancashire and number of councillors[^key-ecd0c19308f56f1e51c60cbbb4b46398][^key-39dfcfc64d86e06ded0215a59453e643]
+## 3. Wards of the borough of West Lancashire and number of councillors[^c-ecd0c19308f56f1e51c60cbbb4b46398][^c-39dfcfc64d86e06ded0215a59453e643]
 
 (1) The existing wards of the borough of West Lancashire are abolished.
 
@@ -83,7 +83,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each ward is three.
 
-## 4. Elections of the borough of West Lancashire[^key-8833e6fceaccce8136123f62ab2275d9][^key-6555e837409d5157a55434b1d8fb2c6c]
+## 4. Elections of the borough of West Lancashire[^c-8833e6fceaccce8136123f62ab2275d9][^c-6555e837409d5157a55434b1d8fb2c6c]
 
 (1) Elections of all councillors for each ward of the borough of West Lancashire are to be held simultaneously on the ordinary day of election of councillors in England in 2023.
 
@@ -108,7 +108,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (8) Where under this article any question is to be determined by lot, the lot is to be drawn at the next practicable meeting of the council after the question has arisen and the drawing is to be conducted under the direction of the person presiding at the meeting.
 
-## 5. Parish wards of the parish of Aughton[^key-762d8b7d53a4ebb5b65bd781a2182f14][^key-5acd6af19f0578713efc8277eb591187]
+## 5. Parish wards of the parish of Aughton[^c-762d8b7d53a4ebb5b65bd781a2182f14][^c-5acd6af19f0578713efc8277eb591187]
 
 (1) The existing parish wards of the parish of Aughton are abolished
 
@@ -118,7 +118,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of Table 1 in Schedule 2.
 
-## 6. Parish wards of the Parish of Tarleton[^key-ec4bd61c1383eacf8bd06e3a8c9e1a7b][^key-f383106eedaa294f6e5a2c787ef5b9c3]
+## 6. Parish wards of the Parish of Tarleton[^c-ec4bd61c1383eacf8bd06e3a8c9e1a7b][^c-f383106eedaa294f6e5a2c787ef5b9c3]
 
 (1) The existing parish wards of the parish of Tarleton are abolished.
 
@@ -128,7 +128,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the Table 2 in Schedule 2.
 
-## 7. Parish wards of the parish of Hesketh-with-Becconsall[^key-541c6e80154ec432a7d7522c50ebd53a][^key-1fa867c4419a760e51665feb3e0cbec3]
+## 7. Parish wards of the parish of Hesketh-with-Becconsall[^c-541c6e80154ec432a7d7522c50ebd53a][^c-1fa867c4419a760e51665feb3e0cbec3]
 
 (1) The parish of Hesketh-with-Becconsall is divided into the two parish wards listed in the first column of Table 3 in Schedule 2.
 
@@ -136,7 +136,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (3) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the Table 3 in Schedule 2.
 
-## 8. Parish wards of the parish of Burscough[^key-8cd4a22f579ac561c887424e4352bf69][^key-73c6a6fa0d48f99af666c6691cc10f8d]
+## 8. Parish wards of the parish of Burscough[^c-8cd4a22f579ac561c887424e4352bf69][^c-73c6a6fa0d48f99af666c6691cc10f8d]
 
 (1) The existing parish wards of the parish of Burscough are abolished
 
@@ -160,37 +160,37 @@ Local Government Boundary Commission for England
 
 Article 3
 
-**1.**[^key-b8e3df63aef1b0b2cbe1ca17e2da2e90][^key-6429ed427209457ef9e4512e38db1e17] Aughton & Holborn
+**1.**[^c-b8e3df63aef1b0b2cbe1ca17e2da2e90][^c-6429ed427209457ef9e4512e38db1e17] Aughton & Holborn
 
-**2.**[^key-dae9898f7df9047566cac230952c01d6][^key-a1a14e48c96b2273fd7105087e71349c] Burscough Bridge & Rufford
+**2.**[^c-dae9898f7df9047566cac230952c01d6][^c-a1a14e48c96b2273fd7105087e71349c] Burscough Bridge & Rufford
 
-**3.**[^key-9d0182883bb6a6b7cc21bb9b98ec37a0][^key-5c99cf06a53de807fa12f9bcdeff5998] Burscough Town
+**3.**[^c-9d0182883bb6a6b7cc21bb9b98ec37a0][^c-5c99cf06a53de807fa12f9bcdeff5998] Burscough Town
 
-**4.**[^key-11834fd795fdfbe9cbc8dd44d38342f7][^key-d2a9dcad0170382c9fd06e246194d832] North Meols & Hesketh Bank
+**4.**[^c-11834fd795fdfbe9cbc8dd44d38342f7][^c-d2a9dcad0170382c9fd06e246194d832] North Meols & Hesketh Bank
 
-**5.**[^key-ba17a1e1761ab84e4c2b59e8a1ea1ca6][^key-bf528fbbd0b90042336321dcfc5391ab] Old Skelmersdale
+**5.**[^c-ba17a1e1761ab84e4c2b59e8a1ea1ca6][^c-bf528fbbd0b90042336321dcfc5391ab] Old Skelmersdale
 
-**6.**[^key-47977fb50baf759879e28cf11448b034][^key-3aacc079c2f320e1a8ffbf2248f0024a] Ormskirk East
+**6.**[^c-47977fb50baf759879e28cf11448b034][^c-3aacc079c2f320e1a8ffbf2248f0024a] Ormskirk East
 
-**7.**[^key-c3ab730430abc6db966e1efc0aeacfe4][^key-0c50fdef626605e3e001b47ae56a87e1] Ormskirk West
+**7.**[^c-c3ab730430abc6db966e1efc0aeacfe4][^c-0c50fdef626605e3e001b47ae56a87e1] Ormskirk West
 
-**8.**[^key-d27c143f04ec20a56f72e7d59751d9a3][^key-b093ac3da82b13636d7e34807ea0cd5e] Rural North East
+**8.**[^c-d27c143f04ec20a56f72e7d59751d9a3][^c-b093ac3da82b13636d7e34807ea0cd5e] Rural North East
 
-**9.**[^key-1d7eb11c542389dfc7b0009aac672ef6][^key-4e3ca5c2259121acff1fb045f61ea952] Rural South
+**9.**[^c-1d7eb11c542389dfc7b0009aac672ef6][^c-4e3ca5c2259121acff1fb045f61ea952] Rural South
 
-**10.**[^key-05cf7c1123b57234639aea36ea38012b][^key-7e60f978eec13dd6da15ea850c5ab711] Rural West
+**10.**[^c-05cf7c1123b57234639aea36ea38012b][^c-7e60f978eec13dd6da15ea850c5ab711] Rural West
 
-**11.**[^key-2fb9774efacfa214c95364e48d7d2eec][^key-1d0288aef6457acca894676bc40c9ff9] Skelmersdale North
+**11.**[^c-2fb9774efacfa214c95364e48d7d2eec][^c-1d0288aef6457acca894676bc40c9ff9] Skelmersdale North
 
-**12.**[^key-29a9634f7a42a8905192d27f5d30483c][^key-0a609c6d4f7f7d7c7286556f68e5da93] Skelmersdale South
+**12.**[^c-29a9634f7a42a8905192d27f5d30483c][^c-0a609c6d4f7f7d7c7286556f68e5da93] Skelmersdale South
 
-**13.**[^key-ad4af04b8559175e41c677d4f473174a][^key-5fcda39c5a867e0afb6d22b0e2a028b5] Tanhouse & Skelmersdale Town Centre
+**13.**[^c-ad4af04b8559175e41c677d4f473174a][^c-5fcda39c5a867e0afb6d22b0e2a028b5] Tanhouse & Skelmersdale Town Centre
 
-**14.**[^key-e22d573cdb5d2cd01f8291263543573e][^key-851bd614008932cff7470312a2efb184] Tarleton Village
+**14.**[^c-e22d573cdb5d2cd01f8291263543573e][^c-851bd614008932cff7470312a2efb184] Tarleton Village
 
-**15.**[^key-6a977e27d588b3324ef7a86af473aaa0][^key-fa727fb9e7a2f13e51cd93a552734dce] Up Holland
+**15.**[^c-6a977e27d588b3324ef7a86af473aaa0][^c-fa727fb9e7a2f13e51cd93a552734dce] Up Holland
 
-## SCHEDULE 2 — Names of parish wards and numbers of councillors[^key-c8b7d231409bcdea732d66f30c535086][^key-e1b24e5c5cbdfb51dc978bcf49121d6b][^M_I_d23e933f-70d2-420c-e6b2-b67bc4cc0d28][^M_I_74ae9163-82d4-4dd6-863c-e5577f234f7f][^M_I_6e117ad8-6afc-4d29-a1d8-a4ffc874c4b0][^M_I_1015199b-62c2-4d9e-f0bf-e1997790d4cd]
+## SCHEDULE 2 — Names of parish wards and numbers of councillors[^c-c8b7d231409bcdea732d66f30c535086][^c-e1b24e5c5cbdfb51dc978bcf49121d6b][^M_I_d23e933f-70d2-420c-e6b2-b67bc4cc0d28][^M_I_74ae9163-82d4-4dd6-863c-e5577f234f7f][^M_I_6e117ad8-6afc-4d29-a1d8-a4ffc874c4b0][^M_I_1015199b-62c2-4d9e-f0bf-e1997790d4cd]
 
 Articles 5, 6, 7 and 8
 
@@ -265,101 +265,101 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/north-west/lancashire/west-lancashire
 
-[^key-b375e0c735732c5704541793df0d1d8a]: Commencement: Art. 1 in force at 12.11.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/2)
+[^c-b375e0c735732c5704541793df0d1d8a]: Commencement: Art. 1 in force at 12.11.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-8c5077199d7b015cfb86375f9039f3dc]: Commencement: Art. 2 in force at 12.11.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/2)
+[^c-8c5077199d7b015cfb86375f9039f3dc]: Commencement: Art. 2 in force at 12.11.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/north-west/lancashire/west-lancashire
 
-[^key-ecd0c19308f56f1e51c60cbbb4b46398]: Commencement: Art. 3 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-ecd0c19308f56f1e51c60cbbb4b46398]: Commencement: Art. 3 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-39dfcfc64d86e06ded0215a59453e643]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/1179/article/3) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-39dfcfc64d86e06ded0215a59453e643]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/1179/article/3) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-8833e6fceaccce8136123f62ab2275d9]: Commencement: Art. 4 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-8833e6fceaccce8136123f62ab2275d9]: Commencement: Art. 4 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-6555e837409d5157a55434b1d8fb2c6c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2022/1179/article/4) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-6555e837409d5157a55434b1d8fb2c6c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2022/1179/article/4) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-762d8b7d53a4ebb5b65bd781a2182f14]: Commencement: Art. 5 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-762d8b7d53a4ebb5b65bd781a2182f14]: Commencement: Art. 5 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-5acd6af19f0578713efc8277eb591187]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/1179/article/5) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-5acd6af19f0578713efc8277eb591187]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/1179/article/5) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-ec4bd61c1383eacf8bd06e3a8c9e1a7b]: Commencement: Art. 6 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-ec4bd61c1383eacf8bd06e3a8c9e1a7b]: Commencement: Art. 6 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-f383106eedaa294f6e5a2c787ef5b9c3]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2022/1179/article/6) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-f383106eedaa294f6e5a2c787ef5b9c3]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2022/1179/article/6) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-541c6e80154ec432a7d7522c50ebd53a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/1179/article/7) in force at 15.10.2023 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/4/a)
+[^c-541c6e80154ec432a7d7522c50ebd53a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/1179/article/7) in force at 15.10.2023 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/4/a)
 
-[^key-1fa867c4419a760e51665feb3e0cbec3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/1179/article/7) in force at 2.5.2024 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/4/b)
+[^c-1fa867c4419a760e51665feb3e0cbec3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/1179/article/7) in force at 2.5.2024 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/4/b)
 
-[^key-8cd4a22f579ac561c887424e4352bf69]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/1179/article/8) in force at 15.10.2025 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/5/a)
+[^c-8cd4a22f579ac561c887424e4352bf69]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/1179/article/8) in force at 15.10.2025 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/5/a)
 
-[^key-73c6a6fa0d48f99af666c6691cc10f8d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/1179/article/8) in force at 7.5.2026 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/5/b)
+[^c-73c6a6fa0d48f99af666c6691cc10f8d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/1179/article/8) in force at 7.5.2026 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/5/b)
 
-[^key-b8e3df63aef1b0b2cbe1ca17e2da2e90]: Commencement: Sch. 1 para. 1 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-b8e3df63aef1b0b2cbe1ca17e2da2e90]: Commencement: Sch. 1 para. 1 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-6429ed427209457ef9e4512e38db1e17]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/1) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-6429ed427209457ef9e4512e38db1e17]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/1) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-dae9898f7df9047566cac230952c01d6]: Commencement: Sch. 1 para. 2 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-dae9898f7df9047566cac230952c01d6]: Commencement: Sch. 1 para. 2 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-a1a14e48c96b2273fd7105087e71349c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/2) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-a1a14e48c96b2273fd7105087e71349c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/2) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-9d0182883bb6a6b7cc21bb9b98ec37a0]: Commencement: Sch. 1 para. 3 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-9d0182883bb6a6b7cc21bb9b98ec37a0]: Commencement: Sch. 1 para. 3 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-5c99cf06a53de807fa12f9bcdeff5998]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/3) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-5c99cf06a53de807fa12f9bcdeff5998]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/3) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-11834fd795fdfbe9cbc8dd44d38342f7]: Commencement: Sch. 1 para. 4 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-11834fd795fdfbe9cbc8dd44d38342f7]: Commencement: Sch. 1 para. 4 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-d2a9dcad0170382c9fd06e246194d832]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/4) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-d2a9dcad0170382c9fd06e246194d832]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/4) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-ba17a1e1761ab84e4c2b59e8a1ea1ca6]: Commencement: Sch. 1 para. 5 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-ba17a1e1761ab84e4c2b59e8a1ea1ca6]: Commencement: Sch. 1 para. 5 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-bf528fbbd0b90042336321dcfc5391ab]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/5) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-bf528fbbd0b90042336321dcfc5391ab]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/5) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-47977fb50baf759879e28cf11448b034]: Commencement: Sch. 1 para. 6 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-47977fb50baf759879e28cf11448b034]: Commencement: Sch. 1 para. 6 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-3aacc079c2f320e1a8ffbf2248f0024a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/6) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-3aacc079c2f320e1a8ffbf2248f0024a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/6) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-c3ab730430abc6db966e1efc0aeacfe4]: Commencement: Sch. 1 para. 7 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-c3ab730430abc6db966e1efc0aeacfe4]: Commencement: Sch. 1 para. 7 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-0c50fdef626605e3e001b47ae56a87e1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/7) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-0c50fdef626605e3e001b47ae56a87e1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/7) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-d27c143f04ec20a56f72e7d59751d9a3]: Commencement: Sch. 1 para. 8 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-d27c143f04ec20a56f72e7d59751d9a3]: Commencement: Sch. 1 para. 8 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-b093ac3da82b13636d7e34807ea0cd5e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/8) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-b093ac3da82b13636d7e34807ea0cd5e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/8) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-1d7eb11c542389dfc7b0009aac672ef6]: Commencement: Sch. 1 para. 9 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-1d7eb11c542389dfc7b0009aac672ef6]: Commencement: Sch. 1 para. 9 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-4e3ca5c2259121acff1fb045f61ea952]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/9) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-4e3ca5c2259121acff1fb045f61ea952]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/9) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-05cf7c1123b57234639aea36ea38012b]: Commencement: Sch. 1 para. 10 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-05cf7c1123b57234639aea36ea38012b]: Commencement: Sch. 1 para. 10 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-7e60f978eec13dd6da15ea850c5ab711]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/10) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-7e60f978eec13dd6da15ea850c5ab711]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/10) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-2fb9774efacfa214c95364e48d7d2eec]: Commencement: Sch. 1 para. 11 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-2fb9774efacfa214c95364e48d7d2eec]: Commencement: Sch. 1 para. 11 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-1d0288aef6457acca894676bc40c9ff9]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/11) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-1d0288aef6457acca894676bc40c9ff9]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/11) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-29a9634f7a42a8905192d27f5d30483c]: Commencement: Sch. 1 para. 12 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-29a9634f7a42a8905192d27f5d30483c]: Commencement: Sch. 1 para. 12 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-0a609c6d4f7f7d7c7286556f68e5da93]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/12) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-0a609c6d4f7f7d7c7286556f68e5da93]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/12) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-ad4af04b8559175e41c677d4f473174a]: Commencement: Sch. 1 para. 13 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-ad4af04b8559175e41c677d4f473174a]: Commencement: Sch. 1 para. 13 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-5fcda39c5a867e0afb6d22b0e2a028b5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/13) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-5fcda39c5a867e0afb6d22b0e2a028b5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/13) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-e22d573cdb5d2cd01f8291263543573e]: Commencement: Sch. 1 para. 14 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-e22d573cdb5d2cd01f8291263543573e]: Commencement: Sch. 1 para. 14 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-851bd614008932cff7470312a2efb184]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/14) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-851bd614008932cff7470312a2efb184]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/14) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-6a977e27d588b3324ef7a86af473aaa0]: Commencement: Sch. 1 para. 15 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-6a977e27d588b3324ef7a86af473aaa0]: Commencement: Sch. 1 para. 15 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-fa727fb9e7a2f13e51cd93a552734dce]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/15) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-fa727fb9e7a2f13e51cd93a552734dce]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2022/1179/schedule/1/paragraph/15) in force at 4.5.2023 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
-[^key-c8b7d231409bcdea732d66f30c535086]: Commencement: Sch. 2 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
+[^c-c8b7d231409bcdea732d66f30c535086]: Commencement: Sch. 2 in force at 12.11.2022 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/a)
 
-[^key-e1b24e5c5cbdfb51dc978bcf49121d6b]: Commencement: Sch. 2 in force at 4.5.2023 for specified purposes, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
+[^c-e1b24e5c5cbdfb51dc978bcf49121d6b]: Commencement: Sch. 2 in force at 4.5.2023 for specified purposes, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/3/b)
 
 [^M_I_d23e933f-70d2-420c-e6b2-b67bc4cc0d28]: Commencement: Sch. 2 in force at 15.10.2023 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/1179/article/1/4/a)
 

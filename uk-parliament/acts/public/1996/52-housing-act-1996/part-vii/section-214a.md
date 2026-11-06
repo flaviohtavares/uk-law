@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214A. Codes of practice[^key-2aad41f293fcd261d23f7242d15e1e42]
+## 214A. Codes of practice[^c-2aad41f293fcd261d23f7242d15e1e42]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ the Secretary of State may issue the code in the form of the draft.
 
 ## Annotations
 
-[^key-2aad41f293fcd261d23f7242d15e1e42]: Textual amendment: [S. 214A](https://www.legislation.gov.uk/ukpga/1996/52/section/214A) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/13/section/11), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/k)
+[^c-2aad41f293fcd261d23f7242d15e1e42]: Textual amendment: [S. 214A](https://www.legislation.gov.uk/ukpga/1996/52/section/214A) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/13/section/11), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/k)

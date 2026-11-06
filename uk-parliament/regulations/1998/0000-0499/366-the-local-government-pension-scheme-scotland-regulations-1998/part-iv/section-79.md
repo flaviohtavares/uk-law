@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Employer’s further payments[^key-80b0de0e5bfee14f598e26c6379a4bd1]
+## 79. Employer’s further payments[^c-80b0de0e5bfee14f598e26c6379a4bd1]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ must be repaid to the fund by the employing authority concerned (but, in the cas
 
 ## Annotations
 
-[^key-80b0de0e5bfee14f598e26c6379a4bd1]: Commencement: Reg. 79 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-80b0de0e5bfee14f598e26c6379a4bd1]: Commencement: Reg. 79 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

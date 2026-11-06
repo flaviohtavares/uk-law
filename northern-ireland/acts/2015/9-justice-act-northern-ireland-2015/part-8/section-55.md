@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Violent offences prevention orders[^key-8c8f221056b2f7f8e37e8fb00d207b58]
+## 55. Violent offences prevention orders[^c-8c8f221056b2f7f8e37e8fb00d207b58]
 
 *Extent: N.I.*
 
@@ -32,9 +32,9 @@ summary: ''
 
 from a current risk of serious physical or psychological harm caused by that person committing one or more specified offences.
 
-(3) In this Part “**specified offence**” means an offence for the time being listed in Part 1 of Schedule 2 to the Criminal Justice (Northern Ireland) Order 2008 (violent offences) or a relevant terrorism offence[^key-5ade25e039333b2fecf8f4bc912c55af] .
+(3) In this Part “**specified offence**” means an offence for the time being listed in Part 1 of Schedule 2 to the Criminal Justice (Northern Ireland) Order 2008 (violent offences) or a relevant terrorism offence[^c-5ade25e039333b2fecf8f4bc912c55af] .
 
-(3A)[^key-9816985907b4bd083c0c70f7546f33db] In subsection (3), “**relevant terrorism offence**” means an offence under—
+(3A)[^c-9816985907b4bd083c0c70f7546f33db] In subsection (3), “**relevant terrorism offence**” means an offence under—
 
 - (a) section 54 of the Terrorism Act 2000 (weapons training);
 - (b) section 56 of that Act (directing a terrorist organisation);
@@ -49,7 +49,7 @@ from a current risk of serious physical or psychological harm caused by that per
 - (k) section 10 of that Act (misuse of radioactive device or material for terrorist purposes etc);
 - (l) section 11 of that Act (terrorist threats relating to radioactive devices etc).
 
-(4) But the offence mentioned in paragraph 7 of Part 1 of Schedule 2 to the 2008 Order[^key-01dcdf069db3a11d3b86504c49578251] (assault occasioning actual bodily harm) is not a specified offence for the purposes of sections 56(2) or (3) or 58(2) or (3) unless—
+(4) But the offence mentioned in paragraph 7 of Part 1 of Schedule 2 to the 2008 Order[^c-01dcdf069db3a11d3b86504c49578251] (assault occasioning actual bodily harm) is not a specified offence for the purposes of sections 56(2) or (3) or 58(2) or (3) unless—
 
 - (a) it was committed against—
   - (i) a vulnerable adult (within the meaning of Article 2(2) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007);
@@ -59,10 +59,10 @@ from a current risk of serious physical or psychological harm caused by that per
 
 ## Annotations
 
-[^key-8c8f221056b2f7f8e37e8fb00d207b58]: Commencement: S. 55 in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/417/article/2/a)
+[^c-8c8f221056b2f7f8e37e8fb00d207b58]: Commencement: S. 55 in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/417/article/2/a)
 
-[^key-5ade25e039333b2fecf8f4bc912c55af]: Textual amendment: Words in [s. 55(3)](https://www.legislation.gov.uk/nia/2015/9/section/55/3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/16/2) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
+[^c-5ade25e039333b2fecf8f4bc912c55af]: Textual amendment: Words in [s. 55(3)](https://www.legislation.gov.uk/nia/2015/9/section/55/3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/16/2) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
 
-[^key-9816985907b4bd083c0c70f7546f33db]: Textual amendment: [S. 55(3A)](https://www.legislation.gov.uk/nia/2015/9/section/55/3A) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/16/3) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
+[^c-9816985907b4bd083c0c70f7546f33db]: Textual amendment: [S. 55(3A)](https://www.legislation.gov.uk/nia/2015/9/section/55/3A) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/16/3) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
 
-[^key-01dcdf069db3a11d3b86504c49578251]: Textual amendment: Words in [s. 55(4)](https://www.legislation.gov.uk/nia/2015/9/section/55/4) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 16(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/16/4) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
+[^c-01dcdf069db3a11d3b86504c49578251]: Textual amendment: Words in [s. 55(4)](https://www.legislation.gov.uk/nia/2015/9/section/55/4) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 16(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/16/4) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))

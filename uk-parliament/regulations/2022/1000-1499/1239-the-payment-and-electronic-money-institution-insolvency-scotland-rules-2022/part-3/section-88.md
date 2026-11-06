@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Issue and use of forms[^key-93fe46692873c0b2d12eac8543d6daa5]
+## 88. Issue and use of forms[^c-93fe46692873c0b2d12eac8543d6daa5]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93fe46692873c0b2d12eac8543d6daa5]: Commencement: Rule 88 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-93fe46692873c0b2d12eac8543d6daa5]: Commencement: Rule 88 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

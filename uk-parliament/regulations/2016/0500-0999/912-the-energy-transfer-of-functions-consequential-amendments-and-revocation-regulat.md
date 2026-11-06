@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment. Accordingly, the Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of that Act, section 4(1)(c) of the Petroleum Act 1998[^f00003], and sections 2(2) to (4) and (6) and 82(2) and (3) of the Energy Act 2016[^f00004].
 
-## 1. Citation, commencement and extent[^key-5cd06d5baace06be4f1aabfa7059d8d9]
+## 1. Citation, commencement and extent[^c-5cd06d5baace06be4f1aabfa7059d8d9]
 
 (1) These Regulations may be cited as the Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 and come into force on 1st October 2016.
 
@@ -54,7 +54,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 (3) An amendment or revocation made by regulations 4 to 26 has the same extent as the provision to which the amendment or revocation relates.
 
-## 2. Continuity and the validity of things done before the relevant date[^key-d0f2080a52cd47c1001f8956153c1b93]
+## 2. Continuity and the validity of things done before the relevant date[^c-d0f2080a52cd47c1001f8956153c1b93]
 
 (1) Anything (including legal proceedings) which, at the relevant date, is in the process of being done by or in relation to the Secretary of State in connection with a transferred function may be continued by or in relation to the OGA[^f00005].
 
@@ -83,7 +83,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 - “Secretary of State” includes a Minister of the Crown[^f00006] and the department or an officer of the Secretary of State;
 - “transferred function” means a function transferred to the OGA by regulations made under section 2(2) of, or by Schedule 1 to, the Energy Act 2016.
 
-## 3. Review[^key-7bfe00cf1afaf642e151ecdbc9cab68c]
+## 3. Review[^c-7bfe00cf1afaf642e151ecdbc9cab68c]
 
 (1) The Secretary of State must from time to time—
 
@@ -101,7 +101,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 (4) Subsequent reports under this regulation must be published at intervals not exceeding five years.
 
-## 4. Oil Taxation (Gas Banking Schemes) Regulations 1982[^key-513db1f91f35e835ac7ce57d3a531d11]
+## 4. Oil Taxation (Gas Banking Schemes) Regulations 1982[^c-513db1f91f35e835ac7ce57d3a531d11]
 
 (1) Regulation 5 (conditions for elections) of the Oil Taxation (Gas Banking Schemes) Regulations 1982[^f00007] is amended as follows.
 
@@ -118,7 +118,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 .
 
-## 5. Hydrocarbons Licensing Directive Regulations 1995[^key-48bb2e0c5723ac246914af7b9a4d8970]
+## 5. Hydrocarbons Licensing Directive Regulations 1995[^c-48bb2e0c5723ac246914af7b9a4d8970]
 
 (1) The Hydrocarbons Licensing Directive Regulations 1995[^f00010] are amended as follows.
 
@@ -136,7 +136,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 (6) In regulation 7 (information), for “Secretary of State” (in both places) substitute “OGA”.
 
-## 6. Petroleum (Production) (Landward Areas) Regulations 1995[^key-5cb3264f1c8c6942ae17ce7c9c8c4871]
+## 6. Petroleum (Production) (Landward Areas) Regulations 1995[^c-5cb3264f1c8c6942ae17ce7c9c8c4871]
 
 (1) The Petroleum (Production) (Landward Areas) Regulations 1995[^f00011] are amended as follows.
 
@@ -219,11 +219,11 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 - (c) in paragraph (2A), for “Minister” substitute “OGA”;
 - (d) in the Note after paragraph (2A), for “Minister” substitute “OGA”.
 
-## 7. Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-ddc18d4523f71c22d5d079699138be9e]
+## 7. Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^c-ddc18d4523f71c22d5d079699138be9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-dddfe3b2be1396ace57b86f1fd552cba]
+## 8. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^c-dddfe3b2be1396ace57b86f1fd552cba]
 
 (1) The Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^f00015] are amended as follows.
 
@@ -280,7 +280,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 .
 
-## 9. Offshore Chemicals Regulations 2002[^key-55c8826f6941c77e15c114a5070314e7]
+## 9. Offshore Chemicals Regulations 2002[^c-55c8826f6941c77e15c114a5070314e7]
 
 (1) The Offshore Chemicals Regulations 2002[^f00017] are amended as follows.
 
@@ -310,7 +310,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 .
 
-## 10. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-b34ebd8cdc1a621a994f13892605f657]
+## 10. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^c-b34ebd8cdc1a621a994f13892605f657]
 
 (1) The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^f00018] are amended as follows.
 
@@ -340,7 +340,7 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 .
 
-## 11. Offshore Installations (Safety Case) Regulations 2005[^key-aa19012f7e16806aaabbe52e79dc938b]
+## 11. Offshore Installations (Safety Case) Regulations 2005[^c-aa19012f7e16806aaabbe52e79dc938b]
 
 (1) The Offshore Installations (Safety Case) Regulations 2005[^f00019] are amended as follows.
 
@@ -373,11 +373,11 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 >
 > (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-## 12. Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^key-bdec91cf171144e35da4315c76e10e95]
+## 12. Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^c-bdec91cf171144e35da4315c76e10e95]
 
 In regulations 25(6)(c) and 27(6)(c) of the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (protection of European offshore marine sites and European sites and review of existing decisions and consents)[^f00021], after “Secretary of State” insert “or the Oil and Gas Authority”.
 
-## 13. Petroleum Licensing (Production) (Seaward Areas) Regulations 2008[^key-4276637374e362421937e379f5368a5c]
+## 13. Petroleum Licensing (Production) (Seaward Areas) Regulations 2008[^c-4276637374e362421937e379f5368a5c]
 
 (1) The Petroleum Licensing (Production) (Seaward Areas) Regulations 2008[^f00022] are amended as follows.
 
@@ -689,7 +689,7 @@ In regulations 25(6)(c) and 27(6)(c) of the Offshore Marine Conservation (Natura
   - (ii) for “him” substitute “it”;
 - (b) in paragraph (2) for “Minister” (in both places) substitute “OGA”.
 
-## 14. Offshore Gas Storage and Unloading (Licensing) Regulations 2009[^key-7c17a727291b073f49aafa615273f616]
+## 14. Offshore Gas Storage and Unloading (Licensing) Regulations 2009[^c-7c17a727291b073f49aafa615273f616]
 
 (1) The Offshore Gas Storage and Unloading (Licensing) Regulations 2009[^f00023] are amended as follows.
 
@@ -836,7 +836,7 @@ In regulations 25(6)(c) and 27(6)(c) of the Offshore Marine Conservation (Natura
 
 (29) In clause 29 (discovery of petroleum), for “Minister” (in each place) substitute “OGA”.
 
-## 15. Offshore Exploration (Petroleum, and Gas Storage and Unloading) (Model Clauses) Regulations 2009[^key-7bc57384d455a50abcd89fb2f7b4a7ff]
+## 15. Offshore Exploration (Petroleum, and Gas Storage and Unloading) (Model Clauses) Regulations 2009[^c-7bc57384d455a50abcd89fb2f7b4a7ff]
 
 (1) The Offshore Exploration (Petroleum, and Gas Storage and Unloading) (Model Clauses) Regulations 2009[^f00024] are amended as follows.
 
@@ -962,7 +962,7 @@ In regulations 25(6)(c) and 27(6)(c) of the Offshore Marine Conservation (Natura
 - (a) for “Minister” (in each place) substitute “OGA”;
 - (b) in paragraph (2)(b), for “him” substitute “it”.
 
-## 16. Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^key-7fab13f7d2c832917d2cd37adc01d438]
+## 16. Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^c-7fab13f7d2c832917d2cd37adc01d438]
 
 (1) The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^f00025] is amended as follows.
 
@@ -996,7 +996,7 @@ In regulations 25(6)(c) and 27(6)(c) of the Offshore Marine Conservation (Natura
 
 .
 
-## 17. Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^key-95b5cc2e63f8c598ab93912413d9e83a]
+## 17. Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^c-95b5cc2e63f8c598ab93912413d9e83a]
 
 (1) The Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^f00030] are amended as follows.
 
@@ -1032,11 +1032,11 @@ In regulations 25(6)(c) and 27(6)(c) of the Offshore Marine Conservation (Natura
 - (a) in sub-paragraph (a), omit “and” in the third place it occurs;
 - (b) omit sub-paragraph (b).
 
-## 18. Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^key-2c1c1f921fc9605e7aec18b97a1d928d]
+## 18. Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^c-2c1c1f921fc9605e7aec18b97a1d928d]
 
 In regulation 1(3) of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011 (interpretation)[^f00032], in the definition of “general exploration licence”, for “Secretary of State” substitute “Oil and Gas Authority”.
 
-## 19. Storage of Carbon Dioxide (Termination of Licences) Regulations 2011[^key-7a85848358fefdc630208545631d5f90]
+## 19. Storage of Carbon Dioxide (Termination of Licences) Regulations 2011[^c-7a85848358fefdc630208545631d5f90]
 
 (1) The Storage of Carbon Dioxide (Termination of Licences) Regulations 2011[^f00033] are amended as follows.
 
@@ -1104,7 +1104,7 @@ In regulation 1(3) of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) 
 
 .
 
-## 20. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^key-856dc1e9cb18867fa599a3ead7cf8013]
+## 20. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^c-856dc1e9cb18867fa599a3ead7cf8013]
 
 (1) The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^f00034] is amended as follows.
 
@@ -1112,15 +1112,15 @@ In regulation 1(3) of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) 
 
 (3) In the Welsh language text, in article 17(1)(b) (hysbysu ynghylch ceisiadau mwynau), for “Ysgrifennydd Gwladol dros Ynni a Newid Hinsawdd” substitute “Awdurdod Olew a Nwy”.
 
-## 21. Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013[^key-d23a60a47e8b35a15b5701b9fabba597]
+## 21. Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013[^c-d23a60a47e8b35a15b5701b9fabba597]
 
 In regulation 2(1) of the Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013 (interpretation)[^f00035], in paragraph (b) of the definition of “carbon dioxide storage or unloading platform”, for “Secretary of State” substitute “Oil and Gas Authority”.
 
-## 22. Gas and Petroleum (Consents) Charges Regulations 2013[^key-b662e448527c67a595ebe09a7c07e2ac]
+## 22. Gas and Petroleum (Consents) Charges Regulations 2013[^c-b662e448527c67a595ebe09a7c07e2ac]
 
 The Gas and Petroleum (Consents) Charges Regulations 2013[^f00036] are revoked.
 
-## 23. Petroleum Licensing (Exploration and Production) (Landward Areas) Regulations 2014[^key-e87d10b6847dfdbb9749ccbd607b8c23]
+## 23. Petroleum Licensing (Exploration and Production) (Landward Areas) Regulations 2014[^c-e87d10b6847dfdbb9749ccbd607b8c23]
 
 (1) The Petroleum Licensing (Exploration and Production) (Landward Areas) Regulations 2014[^f00037] are amended as follows.
 
@@ -1508,7 +1508,7 @@ The Gas and Petroleum (Consents) Charges Regulations 2013[^f00036] are revoked.
 
 (62) In clause 20 (arbitration), for “Minister” (in each place) substitute “OGA”.
 
-## 24. Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^key-d93d41f5152b6b5fd0893cca9a5b2f01]
+## 24. Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^c-d93d41f5152b6b5fd0893cca9a5b2f01]
 
 (1) The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^f00038] are amended as follows.
 
@@ -1519,7 +1519,7 @@ The Gas and Petroleum (Consents) Charges Regulations 2013[^f00036] are revoked.
 
 (3) In regulation 15(2) and (4) (design and relocation notifications for production installation), for “Department of Energy and Climate Change” substitute “Oil and Gas Authority”.
 
-## 25. Petroleum Licensing (Applications) Regulations 2015[^key-d20fec0909f59e7f198733acffb5fff3]
+## 25. Petroleum Licensing (Applications) Regulations 2015[^c-d20fec0909f59e7f198733acffb5fff3]
 
 (1) The Petroleum Licensing (Applications) Regulations 2015[^f00039] are amended as follows.
 
@@ -1572,7 +1572,7 @@ The Gas and Petroleum (Consents) Charges Regulations 2013[^f00036] are revoked.
 
 (9) In paragraph 2 of Schedule 3 (additional information and supporting documentation required for an application for a seaward area production licence), for “Secretary of State” substitute “OGA”.
 
-## 26. The Town and Country Planning (Development Management Procedure) (England) Order 2015[^key-c08897f0ca9941f8d26a8bdad64794d5]
+## 26. The Town and Country Planning (Development Management Procedure) (England) Order 2015[^c-c08897f0ca9941f8d26a8bdad64794d5]
 
 (1) The Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00041] is amended as follows.
 
@@ -1612,17 +1612,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: [2016 c. 20](https://www.legislation.gov.uk/ukpga/2016/20).
 
-[^key-5cd06d5baace06be4f1aabfa7059d8d9]: Commencement: Reg. 1 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-5cd06d5baace06be4f1aabfa7059d8d9]: Commencement: Reg. 1 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
-[^key-d0f2080a52cd47c1001f8956153c1b93]: Commencement: Reg. 2 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-d0f2080a52cd47c1001f8956153c1b93]: Commencement: Reg. 2 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00005]: Footnote: The OGA is defined as the Oil and Gas Authority in section 1(4) of the Energy Act 2016.
 
 [^f00006]: Footnote: Minister of the Crown is defined in section 2(6) of the Energy Act 2016 as having the same meaning as the Ministers of the Crown Act [1975 (c. 26)](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-7bfe00cf1afaf642e151ecdbc9cab68c]: Commencement: Reg. 3 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-7bfe00cf1afaf642e151ecdbc9cab68c]: Commencement: Reg. 3 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
-[^key-513db1f91f35e835ac7ce57d3a531d11]: Commencement: Reg. 4 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-513db1f91f35e835ac7ce57d3a531d11]: Commencement: Reg. 4 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1982/92](https://www.legislation.gov.uk/uksi/1982/92), to which there are amendments not relevant to these Regulations.
 
@@ -1630,55 +1630,55 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: [1964 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1964/28).
 
-[^key-48bb2e0c5723ac246914af7b9a4d8970]: Commencement: Reg. 5 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-48bb2e0c5723ac246914af7b9a4d8970]: Commencement: Reg. 5 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1995/1434](https://www.legislation.gov.uk/uksi/1995/1434).
 
-[^key-5cb3264f1c8c6942ae17ce7c9c8c4871]: Commencement: Reg. 6 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-5cb3264f1c8c6942ae17ce7c9c8c4871]: Commencement: Reg. 6 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 1995/1436](https://www.legislation.gov.uk/uksi/1995/1436), amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229) and [2015/766](https://www.legislation.gov.uk/uksi/2015/766); there are other amending instruments but none is relevant.
 
 [^f00012]: Footnote: [S.I. 2016/904](https://www.legislation.gov.uk/uksi/2016/904).
 
-[^key-ddc18d4523f71c22d5d079699138be9e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/912/regulation/7) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/c) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-ddc18d4523f71c22d5d079699138be9e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/912/regulation/7) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/c) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
-[^key-dddfe3b2be1396ace57b86f1fd552cba]: Commencement: Reg. 8 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-dddfe3b2be1396ace57b86f1fd552cba]: Commencement: Reg. 8 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754), amended by [S.I. 2007/77](https://www.legislation.gov.uk/uksi/2007/77), [2007/1842](https://www.legislation.gov.uk/uksi/2007/1842) and [2010/1513](https://www.legislation.gov.uk/uksi/2010/1513); there are other amending instruments but none is relevant.
 
 [^f00016]: Footnote: The Directives are defined in regulation 2(1) of [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754) as the Habitats Directive and the Wild Birds Directive (which are further defined in that regulation).
 
-[^key-55c8826f6941c77e15c114a5070314e7]: Commencement: Reg. 9 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-55c8826f6941c77e15c114a5070314e7]: Commencement: Reg. 9 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355), amended by [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055), [2010/1513](https://www.legislation.gov.uk/uksi/2010/1513) and [2011/982](https://www.legislation.gov.uk/uksi/2011/982); there are other amending instruments but none is relevant.
 
-[^key-b34ebd8cdc1a621a994f13892605f657]: Commencement: Reg. 10 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-b34ebd8cdc1a621a994f13892605f657]: Commencement: Reg. 10 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055), amended by [S.I. 2011/983](https://www.legislation.gov.uk/uksi/2011/983); there are other amending instruments but none is relevant.
 
-[^key-aa19012f7e16806aaabbe52e79dc938b]: Commencement: Reg. 11 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-aa19012f7e16806aaabbe52e79dc938b]: Commencement: Reg. 11 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117), amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229) and [2015/398](https://www.legislation.gov.uk/uksi/2015/398).
 
 [^f00020]: Footnote: OJ No L 348, 28.11.92, p. 9.
 
-[^key-bdec91cf171144e35da4315c76e10e95]: Commencement: Reg. 12 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-bdec91cf171144e35da4315c76e10e95]: Commencement: Reg. 12 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842), amended by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513); there are other amending instruments but none is relevant.
 
-[^key-4276637374e362421937e379f5368a5c]: Commencement: Reg. 13 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-4276637374e362421937e379f5368a5c]: Commencement: Reg. 13 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00022]: Footnote: [S.I. 2008/225](https://www.legislation.gov.uk/uksi/2008/225), amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229) and [S.I. 2009/3283](https://www.legislation.gov.uk/uksi/2009/3283).
 
-[^key-7c17a727291b073f49aafa615273f616]: Commencement: Reg. 14 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-7c17a727291b073f49aafa615273f616]: Commencement: Reg. 14 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2009/2813](https://www.legislation.gov.uk/uksi/2009/2813).
 
-[^key-7bc57384d455a50abcd89fb2f7b4a7ff]: Commencement: Reg. 15 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-7bc57384d455a50abcd89fb2f7b4a7ff]: Commencement: Reg. 15 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00024]: Footnote: [S.I. 2009/2814](https://www.legislation.gov.uk/uksi/2009/2814).
 
-[^key-7fab13f7d2c832917d2cd37adc01d438]: Commencement: Reg. 16 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-7fab13f7d2c832917d2cd37adc01d438]: Commencement: Reg. 16 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), to which there are amendments not relevant to these Regulations.
 
@@ -1690,46 +1690,46 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00029]: Footnote: OJ No L 20, 26.1.2010, p. 7.
 
-[^key-95b5cc2e63f8c598ab93912413d9e83a]: Commencement: Reg. 17 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-95b5cc2e63f8c598ab93912413d9e83a]: Commencement: Reg. 17 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2010/2221](https://www.legislation.gov.uk/uksi/2010/2221). Regulation 3 is amended by paragraph 79 of the Energy Act 2016, which has not yet been commenced; there are other amending instruments but none is relevant.
 
 [^f00031]: Footnote: The Directive is defined in regulation 1(3) of [S.I. 2010/2221](https://www.legislation.gov.uk/uksi/2010/2221) as [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide.
 
-[^key-2c1c1f921fc9605e7aec18b97a1d928d]: Commencement: Reg. 18 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-2c1c1f921fc9605e7aec18b97a1d928d]: Commencement: Reg. 18 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00032]: Footnote: [S.S.I. 2011/24](https://www.legislation.gov.uk/ssi/2011/24), to which there are amendments not relevant to these Regulations.
 
-[^key-7a85848358fefdc630208545631d5f90]: Commencement: Reg. 19 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-7a85848358fefdc630208545631d5f90]: Commencement: Reg. 19 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 2011/1483](https://www.legislation.gov.uk/uksi/2011/1483).
 
-[^key-856dc1e9cb18867fa599a3ead7cf8013]: Commencement: Reg. 20 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-856dc1e9cb18867fa599a3ead7cf8013]: Commencement: Reg. 20 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2012/801](https://www.legislation.gov.uk/uksi/2012/801), to which there are amendments not relevant to these Regulations.
 
-[^key-d23a60a47e8b35a15b5701b9fabba597]: Commencement: Reg. 21 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-d23a60a47e8b35a15b5701b9fabba597]: Commencement: Reg. 21 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00035]: Footnote: [S.I. 2013/971](https://www.legislation.gov.uk/uksi/2013/971).
 
-[^key-b662e448527c67a595ebe09a7c07e2ac]: Commencement: Reg. 22 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-b662e448527c67a595ebe09a7c07e2ac]: Commencement: Reg. 22 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00036]: Footnote: [S.I. 2013/1138](https://www.legislation.gov.uk/uksi/2013/1138).
 
-[^key-e87d10b6847dfdbb9749ccbd607b8c23]: Commencement: Reg. 23 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-e87d10b6847dfdbb9749ccbd607b8c23]: Commencement: Reg. 23 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 2014/1686](https://www.legislation.gov.uk/uksi/2014/1686).
 
-[^key-d93d41f5152b6b5fd0893cca9a5b2f01]: Commencement: Reg. 24 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-d93d41f5152b6b5fd0893cca9a5b2f01]: Commencement: Reg. 24 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398).
 
-[^key-d20fec0909f59e7f198733acffb5fff3]: Commencement: Reg. 25 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-d20fec0909f59e7f198733acffb5fff3]: Commencement: Reg. 25 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 2015/766](https://www.legislation.gov.uk/uksi/2015/766).
 
 [^f00040]: Footnote: [S.I. 2016/894](https://www.legislation.gov.uk/uksi/2016/894).
 
-[^key-c08897f0ca9941f8d26a8bdad64794d5]: Commencement: Reg. 26 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
+[^c-c08897f0ca9941f8d26a8bdad64794d5]: Commencement: Reg. 26 in force at 1.10.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1)
 
 [^f00041]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595).

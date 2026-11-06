@@ -83,7 +83,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**the Directive**” means Directive 2010/64/EU of the European Parliament and of the Council on the right to interpretation and translation in criminal proceedings [^c22073741];
 - “**written translation**” means a translation provided, in writing, in a person's native language or any other language which the person understands.
 
-(2)[^key-133866e8afae7370e7822817b74f92ee] For the purposes of these Regulations, a person is in police custody if the person has been arrested by a constable in connection with an offence, except where arrested under the Extradition Act 2003, and is in custody in a police station or other premises.
+(2)[^c-133866e8afae7370e7822817b74f92ee] For the purposes of these Regulations, a person is in police custody if the person has been arrested by a constable in connection with an offence, except where arrested under the Extradition Act 2003, and is in custody in a police station or other premises.
 
 (3) In these Regulations, any reference to criminal proceedings—
 
@@ -112,7 +112,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 (3) Where the constable determines that the person requires interpretation assistance, the constable must ensure that arrangements are made for the person to be provided with that assistance—
 
 - (a) as soon as reasonably practicable after arrival at the police station or other premises or place;
-- (b) for the purpose of safeguarding the fairness of the police proceedings in accordance with the requirements placed on member States by[^key-5b38980866cffa40093df6601a48ba12] the Directive.
+- (b) for the purpose of safeguarding the fairness of the police proceedings in accordance with the requirements placed on member States by[^c-5b38980866cffa40093df6601a48ba12] the Directive.
 
 (4) A constable may arrange for interpretation assistance to be provided from a remote location by means of communications technology, only if the constable considers that to do so would be appropriate in the circumstances and would not prejudice the fairness of the police proceedings.
 
@@ -123,7 +123,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 (2) Where the constable determines that the person requires such a translation, the constable must ensure that arrangements are made for the person to be provided with a written translation of all essential documents—
 
 - (a) within a reasonable period of time;
-- (b) for the purpose of safeguarding the fairness of the police proceedings in accordance with the requirements placed on member States by[^key-1de17c56817049a0e84c983eca2dc132] the Directive.
+- (b) for the purpose of safeguarding the fairness of the police proceedings in accordance with the requirements placed on member States by[^c-1de17c56817049a0e84c983eca2dc132] the Directive.
 
 (3) Despite paragraph (2), the person may be provided with—
 
@@ -177,7 +177,7 @@ A record must be made of any of the following which apply—
 (2) Where the court determines that the person requires interpretation assistance, it must ensure that arrangements are made for the person to be provided with that assistance—
 
 - (a) at every diet in the proceedings at which the person is due to appear;
-- (b) for the purpose of safeguarding the fairness of the proceedings in accordance with the requirements placed on member States by[^key-7bbc2d03ab92767971561c31146bc51f] the Directive.
+- (b) for the purpose of safeguarding the fairness of the proceedings in accordance with the requirements placed on member States by[^c-7bbc2d03ab92767971561c31146bc51f] the Directive.
 
 (3) The court may arrange for interpretation assistance to be provided from a remote location by means of communications technology, only if it considers that to do so would be appropriate in the circumstances and would not prejudice the fairness of the proceedings.
 
@@ -188,7 +188,7 @@ A record must be made of any of the following which apply—
 (2) Where the court determines that the person requires such a translation, it must ensure that arrangements are made (or, as the case may be, have been made) for the person to be provided with a written translation of all essential documents—
 
 - (a) within a reasonable period of time;
-- (b) for the purpose of safeguarding the fairness of the proceedings in accordance with the requirements placed on member States by[^key-13db5529261bed747aa34a22d90ab782] the Directive.
+- (b) for the purpose of safeguarding the fairness of the proceedings in accordance with the requirements placed on member States by[^c-13db5529261bed747aa34a22d90ab782] the Directive.
 
 (3) Despite paragraph (2), the person may be provided with—
 
@@ -314,12 +314,12 @@ A Business and Regulatory Impact Assessment and Transposition Note have been pre
 
 [^c22073741]: Marginal citation: OJ L 280, 26.10.2010, p.1.
 
-[^key-133866e8afae7370e7822817b74f92ee]: Textual amendment: Reg. 2(2) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/18) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2)).
+[^c-133866e8afae7370e7822817b74f92ee]: Textual amendment: Reg. 2(2) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/18) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2)).
 
-[^key-5b38980866cffa40093df6601a48ba12]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/3/3/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+[^c-5b38980866cffa40093df6601a48ba12]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/3/3/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
 
-[^key-1de17c56817049a0e84c983eca2dc132]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/4/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+[^c-1de17c56817049a0e84c983eca2dc132]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/4/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
 
-[^key-7bbc2d03ab92767971561c31146bc51f]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/8/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+[^c-7bbc2d03ab92767971561c31146bc51f]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/8/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
 
-[^key-13db5529261bed747aa34a22d90ab782]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/9/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+[^c-13db5529261bed747aa34a22d90ab782]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/9/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)

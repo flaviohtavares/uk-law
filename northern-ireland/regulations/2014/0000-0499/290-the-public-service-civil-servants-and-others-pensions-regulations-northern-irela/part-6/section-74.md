@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Entitlement to ill-health pension[^key-60cdd6f7afa123a2eb1e78341fd59434]
+## 74. Entitlement to ill-health pension[^c-60cdd6f7afa123a2eb1e78341fd59434]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
   - (i) is of the opinion that the member has suffered a permanent breakdown in health involving incapacity for employment or total incapacity for employment; and
   - (ii) gives the scheme manager and the employer a certificate stating that opinion (“ill-health retirement certificate”);
 - (c) the member has at least 2 years’ qualifying service; and
-- (d) the employer agrees that the member is entitled to retire on ill-health[^key-80d32ac07885635c90033a895ceea497] grounds.
+- (d) the employer agrees that the member is entitled to retire on ill-health[^c-80d32ac07885635c90033a895ceea497] grounds.
 
 (3) If the member meets the lower tier payment threshold, a lower tier earned pension is payable in respect of the member’s continuous period of pensionable service.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60cdd6f7afa123a2eb1e78341fd59434]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2014/290/regulation/74) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-60cdd6f7afa123a2eb1e78341fd59434]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2014/290/regulation/74) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-80d32ac07885635c90033a895ceea497]: Textual amendment: Word in [reg. 74(2)(d)](https://www.legislation.gov.uk/nisr/2014/290/regulation/74/2/d) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2022/67/regulation/24)
+[^c-80d32ac07885635c90033a895ceea497]: Textual amendment: Word in [reg. 74(2)(d)](https://www.legislation.gov.uk/nisr/2014/290/regulation/74/2/d) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2022/67/regulation/24)

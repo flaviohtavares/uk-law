@@ -26,7 +26,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other *(Extent: N.I.)* *(affected by repeal, see note)*[^key-1ed97664355d98da1f5dfe29d954359c] member States.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other *(Extent: N.I.)* *(affected by repeal, see note)*[^c-1ed97664355d98da1f5dfe29d954359c] member States.
 
 (3) The report must in particular—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed97664355d98da1f5dfe29d954359c]: Textual amendment: Word in [reg. 46(2)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/46/2) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [14(10)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/14/10)
+[^c-1ed97664355d98da1f5dfe29d954359c]: Textual amendment: Word in [reg. 46(2)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/46/2) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [14(10)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/14/10)

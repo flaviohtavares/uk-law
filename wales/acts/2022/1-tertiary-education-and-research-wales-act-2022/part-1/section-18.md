@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Institutional autonomy of tertiary education providers[^key-88273efa40855b5ce12678f621d42b53][^key-4a605a03c579d4fed59b9742b9a1bbf4]
+## 18. Institutional autonomy of tertiary education providers[^c-88273efa40855b5ce12678f621d42b53][^c-4a605a03c579d4fed59b9742b9a1bbf4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In exercising their functions under this Act, the Welsh Ministers and the Commis
 
 ## Annotations
 
-[^key-88273efa40855b5ce12678f621d42b53]: Commencement: S. 18 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-88273efa40855b5ce12678f621d42b53]: Commencement: S. 18 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-4a605a03c579d4fed59b9742b9a1bbf4]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2022/1/section/18) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/919/article/2/d)
+[^c-4a605a03c579d4fed59b9742b9a1bbf4]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2022/1/section/18) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/919/article/2/d)

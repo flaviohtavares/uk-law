@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Duty of law enforcement employers to check advisory lists[^key-e5690c2612a2dc81165f57b33b153568][^key-d97aeb7b1c9fe65ecb77713bed0a334d]
+## 209. Duty of law enforcement employers to check advisory lists[^c-e5690c2612a2dc81165f57b33b153568][^c-d97aeb7b1c9fe65ecb77713bed0a334d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5690c2612a2dc81165f57b33b153568]: Commencement: S. 209 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e5690c2612a2dc81165f57b33b153568]: Commencement: S. 209 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d97aeb7b1c9fe65ecb77713bed0a334d]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2026/20/section/209) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-d97aeb7b1c9fe65ecb77713bed0a334d]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2026/20/section/209) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

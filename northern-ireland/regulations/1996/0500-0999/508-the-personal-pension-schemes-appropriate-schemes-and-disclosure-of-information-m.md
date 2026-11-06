@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 39(1) and (3), 41B, 109(1), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0c7948c8f334da5b9b66ca675d9f4c31]
+## 1. Citation, commencement and interpretation[^c-0c7948c8f334da5b9b66ca675d9f4c31]
 
 (1) These Regulations may be cited as the Personal Pension Schemes (Appropriate Schemes and Disclosure of Information) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-fedc0719f92231c0d35b731b0defbab1]
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-fedc0719f92231c0d35b731b0defbab1]
 
 (1) The Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -60,7 +60,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 3. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^key-fd5ef92bec7b5ceaf64eaff7b6bfb5b7]
+## 3. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^c-fd5ef92bec7b5ceaf64eaff7b6bfb5b7]
 
 (1) The Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988[^f00006] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -128,11 +128,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 4. Transitional provision in respect of minimum contributions[^key-bd5132849f726e9496202f63bc286519]
+## 4. Transitional provision in respect of minimum contributions[^c-bd5132849f726e9496202f63bc286519]
 
 For the purposes of paying minimum contributions in respect of an employed earner for any period up to and including the tax year 1996-1997, regulation 14 of the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988 shall continue to have effect as if regulations 3 and 5 of these Regulations had not come into operation.
 
-## 5. Revocations[^key-d6b3c5a28ebf49948d1977544e949b41]
+## 5. Revocations[^c-d6b3c5a28ebf49948d1977544e949b41]
 
 The following provisions are hereby revoked—
 
@@ -163,11 +163,11 @@ Section 41B of the Pension Schemes (Northern Ireland) Act 1993, one of the enabl
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 41B was inserted by Article 136 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-0c7948c8f334da5b9b66ca675d9f4c31]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
+[^c-0c7948c8f334da5b9b66ca675d9f4c31]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fedc0719f92231c0d35b731b0defbab1]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
+[^c-fedc0719f92231c0d35b731b0defbab1]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288); relevant amending regulations are [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304)
 
@@ -175,7 +175,7 @@ Section 41B of the Pension Schemes (Northern Ireland) Act 1993, one of the enabl
 
 [^f00005]: Footnote: Section 41(1) is substituted by Article 135(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-fd5ef92bec7b5ceaf64eaff7b6bfb5b7]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
+[^c-fd5ef92bec7b5ceaf64eaff7b6bfb5b7]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1988 No. 34](https://www.legislation.gov.uk/nisr/1988/34); relevant amending regulations are [S.R. 1993 No. 126](https://www.legislation.gov.uk/nisr/1993/126), [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and [S.R. 1995 No. 7](https://www.legislation.gov.uk/nisr/1995/7)
 
@@ -193,9 +193,9 @@ Section 41B of the Pension Schemes (Northern Ireland) Act 1993, one of the enabl
 
 [^f00013]: Footnote: Regulation 17A was inserted by regulation 4(*b)* of [S.R. 1993 No. 126](https://www.legislation.gov.uk/nisr/1993/126)
 
-[^key-bd5132849f726e9496202f63bc286519]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
+[^c-bd5132849f726e9496202f63bc286519]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
 
-[^key-d6b3c5a28ebf49948d1977544e949b41]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
+[^c-d6b3c5a28ebf49948d1977544e949b41]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/508/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1993 No. 126](https://www.legislation.gov.uk/nisr/1993/126)
 

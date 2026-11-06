@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Sections 75 and 76: definitions[^key-a899de77edbfca0ca211c59aa145333d][^key-4b87ad4c4a3150439e977d8a2427bb86]
+## 77. Sections 75 and 76: definitions[^c-a899de77edbfca0ca211c59aa145333d][^c-4b87ad4c4a3150439e977d8a2427bb86]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) an article made or adapted for use in the course of or in connection with an offence under section 42 as respects which the corresponding offence under the law of England and Wales is an offence mentioned in subsection (8); or
 - (c) an article intended by the person having it with him for such use by him or by some other person.
 
-(4A)[^key-b23fe1cf845e16e3ffabf678ae789a7f] Psychoactive substance” has the meaning given by section 2(1) of the Psychoactive Substances Act 2016.
+(4A)[^c-b23fe1cf845e16e3ffabf678ae789a7f] Psychoactive substance” has the meaning given by section 2(1) of the Psychoactive Substances Act 2016.
 
 (5) “**Service vehicle**” means a vehicle which—
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a899de77edbfca0ca211c59aa145333d]: Commencement: S. 77 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a899de77edbfca0ca211c59aa145333d]: Commencement: S. 77 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4b87ad4c4a3150439e977d8a2427bb86]: Commencement: S. 77 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4b87ad4c4a3150439e977d8a2427bb86]: Commencement: S. 77 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b23fe1cf845e16e3ffabf678ae789a7f]: Textual amendment: [S. 77(4A)](https://www.legislation.gov.uk/ukpga/2006/52/section/77/4A) inserted (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/7/4); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-b23fe1cf845e16e3ffabf678ae789a7f]: Textual amendment: [S. 77(4A)](https://www.legislation.gov.uk/ukpga/2006/52/section/77/4A) inserted (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/7/4); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

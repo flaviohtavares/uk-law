@@ -22,7 +22,7 @@ summary: ''
 
 (1) A bankrupt is discharged from bankruptcy at the end of the period of one year beginning with the date on which the bankruptcy commences.
 
-(2)[^key-5cc61ae7fb6dfcc77dab6570146eb80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5cc61ae7fb6dfcc77dab6570146eb80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) On the application of the official receiver or the trustee of a bankrupt's estate, the High Court may order that the period specified in paragraph (1) shall cease to run until—
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c20137601]: Textual amendment: [Art. 253](https://www.legislation.gov.uk/nisi/1989/2405/article/253) substituted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [12(1)](https://www.legislation.gov.uk/nisi/2005/1455/article/12/1) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4), [Sch. 4 paras. 3-5](https://www.legislation.gov.uk/nisi/2005/1455/schedule/4/paragraph/3)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)
 
-[^key-5cc61ae7fb6dfcc77dab6570146eb80c]: Textual amendment: [Art. 253(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/253/2) repealed (4.11.2020) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 12](https://www.legislation.gov.uk/nia/2016/2/section/12), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2020/236](https://www.legislation.gov.uk/nisr/2020/236), [art. 2(b)(c)](https://www.legislation.gov.uk/nisr/2020/236/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2020/236/article/3))
+[^c-5cc61ae7fb6dfcc77dab6570146eb80c]: Textual amendment: [Art. 253(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/253/2) repealed (4.11.2020) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 12](https://www.legislation.gov.uk/nia/2016/2/section/12), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2020/236](https://www.legislation.gov.uk/nisr/2020/236), [art. 2(b)(c)](https://www.legislation.gov.uk/nisr/2020/236/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2020/236/article/3))

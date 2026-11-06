@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Planning permission, etc.[^key-2a4d0903d806b0e5948205628750f0cf]
+## 51. Planning permission, etc.[^c-2a4d0903d806b0e5948205628750f0cf]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2a4d0903d806b0e5948205628750f0cf]: Commencement: Art. 51 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-2a4d0903d806b0e5948205628750f0cf]: Commencement: Art. 51 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00063]: Footnote: [1967 c. 10](https://www.legislation.gov.uk/ukpga/1967/10). Relevant amendments to section 9 have been made by section 4 of, and Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11).
 

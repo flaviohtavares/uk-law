@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Transitional provision: UK plant passports[^key-674fb9c4945bbb73f09c3bc05b8d9074]
+## 53. Transitional provision: UK plant passports[^c-674fb9c4945bbb73f09c3bc05b8d9074]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-674fb9c4945bbb73f09c3bc05b8d9074]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
+[^c-674fb9c4945bbb73f09c3bc05b8d9074]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
 
 [^c24375311]: Marginal citation: OJ No L 317, 23.11.2016, p.4, as amended by Regulation (EU) 2017/625 (OJ No L 95, 7.4.2017, p.1).
 

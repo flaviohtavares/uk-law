@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Monetary penalties: procedural rights[^c22719861][^key-6a0b7ab77d743309ae4d4961e21465aa]
+## 147. Monetary penalties: procedural rights[^c22719861][^c-6a0b7ab77d743309ae4d4961e21465aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 - (b) uphold the decision to impose the penalty but substitute a different amount, or
 - (c) cancel the decision to impose the penalty.
 
-(5)[^key-2eba176b2e65b546423bd57380a2a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2eba176b2e65b546423bd57380a2a23c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) If on a review under subsection (4) the Minister decides to uphold the Treasury's decision to impose the penalty and its amount, or to uphold the Treasury's decision to impose the penalty but to substitute a different amount, the person may appeal (on any ground) to the Upper Tribunal.
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c22719861]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2017/3/section/147) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6a0b7ab77d743309ae4d4961e21465aa]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2017/3/section/147) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-6a0b7ab77d743309ae4d4961e21465aa]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2017/3/section/147) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
-[^key-2eba176b2e65b546423bd57380a2a23c]: Textual amendment: [S. 147(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/147/5) omiitted (15.6.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 55](https://www.legislation.gov.uk/ukpga/2022/10/section/55), [69(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/2); [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2)
+[^c-2eba176b2e65b546423bd57380a2a23c]: Textual amendment: [S. 147(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/147/5) omiitted (15.6.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 55](https://www.legislation.gov.uk/ukpga/2022/10/section/55), [69(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/2); [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2)

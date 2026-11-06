@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Schedule to be inserted in the Reserve Forces Non Regular Permanent Staff Pension Schemes 2011[^key-934ee8400abaf10babfb8d54e493dadf]
+## SCHEDULE 4 — Schedule to be inserted in the Reserve Forces Non Regular Permanent Staff Pension Schemes 2011[^c-934ee8400abaf10babfb8d54e493dadf]
 
 *Extent: E+W+S+N.I.*
 
@@ -528,7 +528,7 @@ Regulation 29
 
 ## Annotations
 
-[^key-934ee8400abaf10babfb8d54e493dadf]: Commencement: Sch. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-934ee8400abaf10babfb8d54e493dadf]: Commencement: Sch. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00051]: Footnote: These regulations are Defence Council Regulations. A copy can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. These Regulations were amended by the Reserve Forces Non-Regular Permanent Staff (Pension and Attributable Pension Schemes) (Amendment) Regulations 2013.
 

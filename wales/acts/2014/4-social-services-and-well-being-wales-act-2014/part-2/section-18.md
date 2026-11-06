@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Registers of sight-impaired, hearing-impaired and other disabled people[^key-4a252b9dd76fbb8e773355ebdde8a0fe]
+## 18. Registers of sight-impaired, hearing-impaired and other disabled people[^c-4a252b9dd76fbb8e773355ebdde8a0fe]
 
 *Extent: E+W*
 
@@ -61,10 +61,10 @@ summary: ''
 (10) Where a local authority includes a person in a register maintained under this section, the authority—
 
 - (a) must inform the person that he or she has been so included, and
-- (b) if a request is made by the person or on the person's behalf, must remove from the register any personal data (within the meaning of Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act))[^key-31cc93b7351808ed7a8a6d9d1002acd9] relating to that person.
+- (b) if a request is made by the person or on the person's behalf, must remove from the register any personal data (within the meaning of Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act))[^c-31cc93b7351808ed7a8a6d9d1002acd9] relating to that person.
 
 ## Annotations
 
-[^key-4a252b9dd76fbb8e773355ebdde8a0fe]: Commencement: S. 18 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-4a252b9dd76fbb8e773355ebdde8a0fe]: Commencement: S. 18 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-31cc93b7351808ed7a8a6d9d1002acd9]: Textual amendment: Words in s. 18(10)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 188(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/188/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-31cc93b7351808ed7a8a6d9d1002acd9]: Textual amendment: Words in s. 18(10)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 188(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/188/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

@@ -39,7 +39,7 @@ summary: ''
 
 (6) Such a certificate is conclusive evidence of the amount.
 
-(7)[^key-ad9601ff05b2656028a600a06a3d66d5] Subsection (8) applies where—
+(7)[^c-ad9601ff05b2656028a600a06a3d66d5] Subsection (8) applies where—
 
 - (a) an individual has recovered an amount from trustees under this section, and
 - (b) subsequently the individual's liability to tax under this Chapter has been reduced (or removed) as a result of a recalculation under section 507A or 512A.
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad9601ff05b2656028a600a06a3d66d5]: Textual amendment: [S. 538(7)-(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/538/7) inserted (16.11.2017) (with effect in accordance with s. 9(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/9/4)
+[^c-ad9601ff05b2656028a600a06a3d66d5]: Textual amendment: [S. 538(7)-(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/538/7) inserted (16.11.2017) (with effect in accordance with s. 9(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/9/4)

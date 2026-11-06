@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Use on bridges[^key-fcf3a9c4c7d89f872083867bb8349082]
+## 18. Use on bridges[^c-fcf3a9c4c7d89f872083867bb8349082]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcf3a9c4c7d89f872083867bb8349082]: Commencement: Art. 18 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-fcf3a9c4c7d89f872083867bb8349082]: Commencement: Art. 18 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

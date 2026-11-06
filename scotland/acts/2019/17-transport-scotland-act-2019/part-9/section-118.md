@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Reinstatement quality plans[^key-f1863ee7ae1bf51219db75b422f565ae][^key-b27d3e297e96d36407ff2a2c51e65053]
+## 118. Reinstatement quality plans[^c-f1863ee7ae1bf51219db75b422f565ae][^c-b27d3e297e96d36407ff2a2c51e65053]
 
 *Extent: S*
 
@@ -105,6 +105,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1863ee7ae1bf51219db75b422f565ae]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2019/17/section/118) in force at 25.1.2023 for specified purposes by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-f1863ee7ae1bf51219db75b422f565ae]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2019/17/section/118) in force at 25.1.2023 for specified purposes by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
 
-[^key-b27d3e297e96d36407ff2a2c51e65053]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2019/17/section/118) in force at 1.4.2023 in so far as not already in force by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-b27d3e297e96d36407ff2a2c51e65053]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2019/17/section/118) in force at 1.4.2023 in so far as not already in force by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

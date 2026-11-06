@@ -32,8 +32,8 @@ where—
 
 (2) If the continuous period of pensionable service includes the day 29th February, paragraph (1) has effect with the substitution for “365” of “366”.
 
-(3)[^key-c85595072b8235eb321af6c32a8b948d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c85595072b8235eb321af6c32a8b948d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c85595072b8235eb321af6c32a8b948d]: Textual amendment: [Reg. 120(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/120/3) omitted (2.5.2023) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [10](https://www.legislation.gov.uk/nisr/2023/63/regulation/10)
+[^c-c85595072b8235eb321af6c32a8b948d]: Textual amendment: [Reg. 120(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/120/3) omitted (2.5.2023) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [10](https://www.legislation.gov.uk/nisr/2023/63/regulation/10)

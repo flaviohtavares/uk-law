@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Design and manufacture in accordance with essential health and safety requirements[^key-c1904355287b6083ac440e007c78f7c6]
+## 5. Design and manufacture in accordance with essential health and safety requirements[^c-c1904355287b6083ac440e007c78f7c6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Before placing a product on the market or using a product for their own purposes
 
 ## Annotations
 
-[^key-c1904355287b6083ac440e007c78f7c6]: Commencement: Reg. 5 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-c1904355287b6083ac440e007c78f7c6]: Commencement: Reg. 5 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

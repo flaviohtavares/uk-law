@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Duration of bankruptcy restrictions order and application for revocation or variation[^key-5205ee82a708fc9cb0e307ab6f70a171]
+## 159. Duration of bankruptcy restrictions order and application for revocation or variation[^c-5205ee82a708fc9cb0e307ab6f70a171]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ make an order providing that the debtor may not make another application under s
 
 ## Annotations
 
-[^key-5205ee82a708fc9cb0e307ab6f70a171]: Commencement: [S. 159](https://www.legislation.gov.uk/asp/2016/21/section/159) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-5205ee82a708fc9cb0e307ab6f70a171]: Commencement: [S. 159](https://www.legislation.gov.uk/asp/2016/21/section/159) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

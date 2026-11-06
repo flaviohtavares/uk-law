@@ -24,9 +24,9 @@ Section 24
 
 ### Part 1 — Further amendments of Social Security Fraud Act 2001
 
-**1.**[^key-4fa084b5bc3aaa1be4632f22cc4ec1d1][^key-cad365d78a7ef000d10bd38133ec4a01] In this Part of this Schedule “**the 2001 Act**” means the Social Security Fraud Act 2001 (c. 11).
+**1.**[^c-4fa084b5bc3aaa1be4632f22cc4ec1d1][^c-cad365d78a7ef000d10bd38133ec4a01] In this Part of this Schedule “**the 2001 Act**” means the Social Security Fraud Act 2001 (c. 11).
 
-**2.**[^key-39601a8d3a0fd499bc4bd6fef3118cd6][^key-55a465033c6fef7ded32e63288fd5a35] (1) Section 7 of the 2001 Act (loss of benefit for commission of benefit offences) is amended as follows.
+**2.**[^c-39601a8d3a0fd499bc4bd6fef3118cd6][^c-55a465033c6fef7ded32e63288fd5a35] (1) Section 7 of the 2001 Act (loss of benefit for commission of benefit offences) is amended as follows.
 
 (2) In subsection (8)—
 
@@ -53,7 +53,7 @@ Section 24
 
 (5) In the heading, for “commission of benefit offences” substitute “ second or subsequent conviction of benefit offence ”.
 
-**3.**[^key-2f1a4882fb8df6f0e04e4008c77dbabe][^key-d3649cebc37b6ae7064ae5ab0f26d99b] (1) Section 8 of the 2001 Act (effect of offence on joint-claim jobseeker's allowance) is amended as follows.
+**3.**[^c-2f1a4882fb8df6f0e04e4008c77dbabe][^c-d3649cebc37b6ae7064ae5ab0f26d99b] (1) Section 8 of the 2001 Act (effect of offence on joint-claim jobseeker's allowance) is amended as follows.
 
 (2) In subsection (1)(b), for “the restriction in subsection (2) of section 7” substitute “ an offence-related restriction ”.
 
@@ -93,7 +93,7 @@ Section 24
 >
 > (9) In this section “**the appropriate penalty provision**” has the meaning given by section 6B(2)(a).
 
-**4.**[^key-12c4e1914c201e016f15bdc941264dc7][^key-4b3da8a492ad2893d1825d0609853d18] (1) Section 9 of the 2001 Act (effect of offence on benefits for members of offender's family) is amended as follows.
+**4.**[^c-12c4e1914c201e016f15bdc941264dc7][^c-4b3da8a492ad2893d1825d0609853d18] (1) Section 9 of the 2001 Act (effect of offence on benefits for members of offender's family) is amended as follows.
 
 (2) In subsection (2)(b), for “section 7” substitute “ section 6B or 7 ”.
 
@@ -113,13 +113,13 @@ Section 24
 >
 > (9) In this section “**the appropriate penalty provision**” has the meaning given by section 6B(2)(a).
 
-**5.**[^key-f6167e8729d5e97129332e774cdce7b8][^key-9069d2d967006ca6ef544c8461cc9e54] (1) Section 10 of the 2001 Act (power to supplement and mitigate loss of benefit provisions) is amended as follows.
+**5.**[^c-f6167e8729d5e97129332e774cdce7b8][^c-9069d2d967006ca6ef544c8461cc9e54] (1) Section 10 of the 2001 Act (power to supplement and mitigate loss of benefit provisions) is amended as follows.
 
 (2) In subsection (1), for “sections 7 to 9” substitute “ sections 6A to 9 ”.
 
 (3) In subsection (2), after “section” insert “ 6B, ”.
 
-**6.**[^key-7a6b607189d56c20a00e5a50c732075e][^key-4e8bab28cc9f90f4a1e8007443ecc82f] (1) Section 11 of the 2001 Act (loss of benefit regulations) is amended as follows.
+**6.**[^c-7a6b607189d56c20a00e5a50c732075e][^c-4e8bab28cc9f90f4a1e8007443ecc82f] (1) Section 11 of the 2001 Act (loss of benefit regulations) is amended as follows.
 
 (2) In subsections (1) and (2), for “sections 7 to 10” substitute “ sections 6B to 10 ”.
 
@@ -131,7 +131,7 @@ Section 24
 
 (4) In subsections (4) and (5), for “sections 7 to 10” substitute “ sections 6B to 10 ”.
 
-**7.**[^key-80aacdb6a199ad703e25435acb79ab5d][^key-3a1e1ad3ce3fce4525a88b600e3c7743] (1) Section 13 of the 2001 Act (interpretation of sections 7 to 12) is amended as follows.
+**7.**[^c-80aacdb6a199ad703e25435acb79ab5d][^c-3a1e1ad3ce3fce4525a88b600e3c7743] (1) Section 13 of the 2001 Act (interpretation of sections 7 to 12) is amended as follows.
 
 (2) For the words “sections 7 to 12”, both in the section and in the heading to the section, substitute “ sections 6A to 12 ”.
 
@@ -145,59 +145,59 @@ Section 24
 
 (5) In the definition of “sanctionable benefit”, for “section 7(8)” substitute “ section 6A(1) ”.
 
-**8.**[^key-b8e27a8e1b8055aec59575bb951c9d5d][^key-2113b74d9990c66cba25975a567ce577] In section 21(2) of the of the 2001 Act (extent), after “sections 5(2),” insert “ 6A, 6B and 6C ”.
+**8.**[^c-b8e27a8e1b8055aec59575bb951c9d5d][^c-2113b74d9990c66cba25975a567ce577] In section 21(2) of the of the 2001 Act (extent), after “sections 5(2),” insert “ 6A, 6B and 6C ”.
 
 ### Part 2 — Related amendments of other Acts
 
 #### Social Security Administration Act 1992 (c. 5)
 
-**9.**[^key-7b89fcf5a7e56208366ce7719218048e][^key-6d894be9dbe7c353f4837cd0109c1483] In section 170 of the Social Security Administration Act 1992 (functions of Social Security Advisory Committee in relation to the relevant enactments and the relevant Northern Ireland enactments), in subsection (5)—
+**9.**[^c-7b89fcf5a7e56208366ce7719218048e][^c-6d894be9dbe7c353f4837cd0109c1483] In section 170 of the Social Security Administration Act 1992 (functions of Social Security Advisory Committee in relation to the relevant enactments and the relevant Northern Ireland enactments), in subsection (5)—
 
 - (a) in the definition of the “relevant enactments”, in paragraph (ag), for “sections 7 to 11” substitute “ sections 6A to 11 ”, and
 - (b) in the definition of “the relevant Northern Ireland enactments”, in paragraph (ag), for “sections 7 to 11” substitute “ sections 6A to 11 ”.
 
 #### Social Security Act 1998 (c. 14)
 
-**10.**[^key-5f734bda7cc380ad1cb091ebd524772b][^key-0a6a88aa10d488bee176593cc37eabcc] In paragraph 3 of Schedule 3 to the Social Security Act 1998 (decisions against which an appeal lies), in paragraph (f), after “section” insert “ 6B, ”.
+**10.**[^c-5f734bda7cc380ad1cb091ebd524772b][^c-0a6a88aa10d488bee176593cc37eabcc] In paragraph 3 of Schedule 3 to the Social Security Act 1998 (decisions against which an appeal lies), in paragraph (f), after “section” insert “ 6B, ”.
 
 ## Annotations
 
-[^key-4fa084b5bc3aaa1be4632f22cc4ec1d1]: Commencement: Sch. 4 para. 1 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-4fa084b5bc3aaa1be4632f22cc4ec1d1]: Commencement: Sch. 4 para. 1 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-cad365d78a7ef000d10bd38133ec4a01]: Commencement: Sch. 4 para. 1 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-cad365d78a7ef000d10bd38133ec4a01]: Commencement: Sch. 4 para. 1 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-39601a8d3a0fd499bc4bd6fef3118cd6]: Commencement: Sch. 4 para. 2 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-39601a8d3a0fd499bc4bd6fef3118cd6]: Commencement: Sch. 4 para. 2 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-55a465033c6fef7ded32e63288fd5a35]: Commencement: Sch. 4 para. 2 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-55a465033c6fef7ded32e63288fd5a35]: Commencement: Sch. 4 para. 2 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-2f1a4882fb8df6f0e04e4008c77dbabe]: Commencement: Sch. 4 para. 3 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-2f1a4882fb8df6f0e04e4008c77dbabe]: Commencement: Sch. 4 para. 3 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-d3649cebc37b6ae7064ae5ab0f26d99b]: Commencement: Sch. 4 para. 3 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-d3649cebc37b6ae7064ae5ab0f26d99b]: Commencement: Sch. 4 para. 3 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-12c4e1914c201e016f15bdc941264dc7]: Commencement: Sch. 4 para. 4 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-12c4e1914c201e016f15bdc941264dc7]: Commencement: Sch. 4 para. 4 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-4b3da8a492ad2893d1825d0609853d18]: Commencement: Sch. 4 para. 4 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-4b3da8a492ad2893d1825d0609853d18]: Commencement: Sch. 4 para. 4 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-f6167e8729d5e97129332e774cdce7b8]: Commencement: Sch. 4 para. 5 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-f6167e8729d5e97129332e774cdce7b8]: Commencement: Sch. 4 para. 5 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-9069d2d967006ca6ef544c8461cc9e54]: Commencement: Sch. 4 para. 5 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-9069d2d967006ca6ef544c8461cc9e54]: Commencement: Sch. 4 para. 5 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-7a6b607189d56c20a00e5a50c732075e]: Commencement: Sch. 4 para. 6 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-7a6b607189d56c20a00e5a50c732075e]: Commencement: Sch. 4 para. 6 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-4e8bab28cc9f90f4a1e8007443ecc82f]: Commencement: Sch. 4 para. 6 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-4e8bab28cc9f90f4a1e8007443ecc82f]: Commencement: Sch. 4 para. 6 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-80aacdb6a199ad703e25435acb79ab5d]: Commencement: Sch. 4 para. 7 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-80aacdb6a199ad703e25435acb79ab5d]: Commencement: Sch. 4 para. 7 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-3a1e1ad3ce3fce4525a88b600e3c7743]: Commencement: Sch. 4 para. 7 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-3a1e1ad3ce3fce4525a88b600e3c7743]: Commencement: Sch. 4 para. 7 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-b8e27a8e1b8055aec59575bb951c9d5d]: Commencement: Sch. 4 para. 8 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-b8e27a8e1b8055aec59575bb951c9d5d]: Commencement: Sch. 4 para. 8 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-2113b74d9990c66cba25975a567ce577]: Commencement: Sch. 4 para. 8 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-2113b74d9990c66cba25975a567ce577]: Commencement: Sch. 4 para. 8 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-7b89fcf5a7e56208366ce7719218048e]: Commencement: Sch. 4 para. 9 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-7b89fcf5a7e56208366ce7719218048e]: Commencement: Sch. 4 para. 9 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-6d894be9dbe7c353f4837cd0109c1483]: Commencement: Sch. 4 para. 9 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-6d894be9dbe7c353f4837cd0109c1483]: Commencement: Sch. 4 para. 9 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
 
-[^key-5f734bda7cc380ad1cb091ebd524772b]: Commencement: Sch. 4 para. 10 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-5f734bda7cc380ad1cb091ebd524772b]: Commencement: Sch. 4 para. 10 in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-0a6a88aa10d488bee176593cc37eabcc]: Commencement: Sch. 4 para. 10 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-0a6a88aa10d488bee176593cc37eabcc]: Commencement: Sch. 4 para. 10 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
